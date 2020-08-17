@@ -1,8 +1,10 @@
 # 14 CLINICAL STUDIES
 
+Transfusional Iron Overload
+
 In a prospective, planned, pooled analysis of patients from several studies, the efficacy of deferiprone was assessed in transfusion-dependent iron overload patients in whom previous iron chelation therapy had failed or was considered inadequate due to poor tolerance.
 The main criterion for chelation failure was serum ferritin > 2,500 mcg/L before treatment with deferiprone.
-Deferiprone therapy (35-99 mg/kg/day) was considered successful in individual patients who experienced a ≥ 20% decline in serum ferritin within one year of starting therapy.
+Deferiprone therapy (35 to 99 mg/kg/day) was considered successful in individual patients who experienced a ≥ 20% decline in serum ferritin within one year of starting therapy.
 
 Data from a total of 236 patients were analyzed.
 Of the 224 patients with thalassemia who received deferiprone monotherapy and were eligible for serum ferritin analysis, 105 (47%) were male and 119 (53%) were female.

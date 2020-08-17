@@ -1,55 +1,55 @@
 # 6 ADVERSE REACTIONS
 
-## 6.1 Clinical Trial Experience
+The following clinically significant adverse reactions are described below and elsewhere in the labeling:
 
-The following adverse reactions are also discussed in other sections of the labeling: Agranulocytosis/Neutropenia [see Warnings and Precautions (5.1)].
-Elevated ALT (5.3), Decreased plasma zinc concentrations (5.3).
+- Agranulocytosis and Neutropenia [see Warnings and Precautions (5.1)]
+- Liver Enzyme Elevations [see Warnings and Precautions (5.2)]
+- Zinc Deficiency [see Warnings and Precautions (5.3)]
+
+## 6.1 Clinical Trial Experience
 
 Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in practice.
 
-Adverse reaction information for deferiprone represents the pooled data collected from 642 patients who participated in single arm or active-controlled clinical studies.
+Adverse reaction information for deferiprone represents the pooled data collected from 642 patients who participated in single arm or active-controlled clinical trials.
 
 The most serious adverse reaction reported in clinical trials with deferiprone was agranulocytosis [see Warnings and Precautions (5.1)].
 
-The most common adverse reactions reported during clinical trials were chromaturia, nausea, vomiting, abdominal pain, alanine aminotransferase increased, arthralgia and neutropenia.
+The most common adverse reactions reported during clinical trials were nausea, vomiting, abdominal pain, alanine aminotransferase increased, arthralgia and neutropenia.
 
 The table below lists the adverse drug reactions that occurred in at least 1% of patients treated with deferiprone in clinical trials.
 
-Table 2: Adverse drug reactions occurring in ≥ 1% of 642 deferiprone-treated patients
+Table 2: Adverse drug reactions occurring in ≥ 1% of deferiprone-treated patients
 
-| Preferred Term |  |
+| Adverse Reaction | % Subjects |
 | --- | --- |
-| Body System | % Subjects |
+| Body System | (N=642) |
 | BLOOD AND LYMPHATIC SYSTEM DISORDERS |  |
-| Neutropenia | 6.2 |
-| Agranulocytosis | 1.7 |
+| Neutropenia | 6 |
+| Agranulocytosis | 2 |
 | GASTROINTESTINAL DISORDERS |  |
-| Nausea | 12.6 |
-| Abdominal pain/discomfort | 10.4 |
-| Vomiting | 9.8 |
-| Diarrhea | 3.0 |
-| Dyspepsia | 2.0 |
+| Nausea | 13 |
+| Abdominal pain/discomfort | 10 |
+| Vomiting | 10 |
+| Diarrhea | 3 |
+| Dyspepsia | 2 |
 | INVESTIGATIONS |  |
-| Alanine Aminotransferase increased | 7.5 |
-| Neutrophil count decreased | 7.3 |
-| Weight increased | 1.9 |
-| Aspartate Aminotransferase increased | 1.2 |
+| Alanine Aminotransferase increased | 7 |
+| Weight increased | 2 |
+| Aspartate Aminotransferase increased | 1 |
 | METABOLISM AND NUTRITION DISORDERS |  |
-| Increased appetite | 4.0 |
-| Decreased appetite | 1.1 |
+| Increased appetite | 4 |
+| Decreased appetite | 1 |
 | MUSCULOSKELETAL AND CONNECTIVE TISSUE DISORDERS |  |
-| Arthralgia | 9.8 |
-| Back pain | 2.0 |
-| Pain in extremity | 1.9 |
-| Arthropathy | 1.4 |
+| Arthralgia | 10 |
+| Back pain | 2 |
+| Pain in extremity | 2 |
+| Arthropathy | 1 |
 | NERVOUS SYSTEM DISORDERS |  |
-| Headache | 2.5 |
-| URINARY DISORDERS |  |
-| Chromaturia | 14.6 |
+| Headache | 2 |
 
 Gastrointestinal symptoms such as nausea, vomiting, and abdominal pain were the most frequent adverse reactions reported by patients participating in clinical trials and led to the discontinuation of deferiprone therapy in 1.6% of patients.
 
-Chromaturia (reddish/brown discoloration of the urine) is a result of the excretion of the iron in the urine.
+Chromaturia (reddish/brown discoloration of the urine) is a result of the excretion of iron in the urine.
 
 ## 6.2 Postmarketing Experience
 

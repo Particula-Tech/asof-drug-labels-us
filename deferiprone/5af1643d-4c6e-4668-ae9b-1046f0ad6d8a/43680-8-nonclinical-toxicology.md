@@ -13,4 +13,4 @@ Deferiprone was not mutagenic in the Ames bacterial reverse mutation test.
 
 A fertility and early embryonic development study of deferiprone was conducted in rats.
 Sperm counts, motility and morphology were unaffected by treatment with deferiprone.
-There were no effects observed on male or female fertility or reproductive function at the highest dose which was 25% of the MRHD based on body surface area.
+There were no effects observed on male or female fertility or reproductive function at the highest dose which was 25% of the MRHD.

@@ -2,56 +2,67 @@
 
 ## 8.1 Pregnancy
 
-Pregnancy Category D [see Warnings and Precautions (5.2), Nonclinical Toxicology (13.1)]
-
 Risk Summary
 
+In animal reproduction studies, oral administration of deferiprone to pregnant rats and rabbits during organogenesis at doses 33% and 49%, respectively, of the maximum recommended human dose (MRHD) resulted in structural abnormalities, embryo-fetal mortality and alterations to growth (see Data).
+The limited data from deferiprone use in pregnant women are insufficient to inform a drug-associated risk of major birth defects and miscarriage.
 Based on evidence of genotoxicity and developmental toxicity in animal studies, deferiprone can cause fetal harm when administered to a pregnant woman.
-In animal studies, administration of deferiprone during the period of organogenesis resulted in embryofetal death and malformations at doses lower than equivalent human clinical doses.
-There are no studies in pregnant women, and available human data are limited.
-If deferiprone is used during pregnancy or if the patient becomes pregnant while taking deferiprone, the patient should be apprised of the potential hazard to the fetus.
+Advise pregnant women and females of reproductive potential of the potential risk to a fetus.
+
+The estimated background risk of major birth defects and miscarriage for the indicated population is unknown.
+All pregnancies have a background risk of birth defect, loss, or other adverse outcomes.
+In the U.S. general population, the estimated background risk of major birth defects and of miscarriage is 2 to 4% and 15 to 20%, respectively.
+
+Data
+
+Human Data
+
+Post-marketing data available from 39 pregnancies of deferiprone-treated patients and 10 pregnancies of partners of deferiprone-treated patients are as follows:
+
+Of the 39 pregnancies in deferiprone-treated patients, 23 resulted in healthy newborns, 6 ended in spontaneous abortion, 9 had unknown outcomes, and 1 infant was born with anal atresia, nephroptosis, ventricular septal defect, hemivertebra and urethral fistula.
+
+Of the 10 pregnancies in partners of deferiprone-treated patients, 5 resulted in healthy newborns, 1 resulted in a healthy newborn with slight hypospadias, 1 was electively terminated, 1 resulted in the intrauterine death of twins, and 2 had unknown outcomes.
 
 Animal Data
 
-Skeletal and soft tissue malformations occurred in offspring of rats and rabbits that received deferiprone orally during organogenesis at the lowest doses tested (25 mg/kg per day in rats; 10 mg/kg per day in rabbits).
-These doses were equivalent to 3% to 4% of the maximum recommended human dose (MRHD) based on body surface area.
-No maternal toxicity was evident at these doses.
-Embryofetal lethality and maternal toxicity occurred in pregnant rabbits given 100 mg/kg/day deferiprone orally during the period of organogenesis.
-This dose is equivalent to 32% of the MRHD based on body surface area.
+During organogenesis, pregnant rats and rabbits received deferiprone at oral doses of 0, 30, 80 or 200 mg/kg/day, and 0, 10, 50, or 150 mg/kg/day, respectively.
+The daily dose was administered as two equal divided doses approximately 7 hours apart.
+Doses of 200 mg/kg/day in rats and 150 mg/kg/day in rabbits, approximately 33% and 49% of the MRHD, respectively, resulted in increased post-implantation loss and reduced fetal weights in the presence of maternal toxicity (reduced maternal body weight and body weight gain in both rats and rabbits; abnormal large placenta at low incidence in rats).
+The 200 mg/kg/day dose in rats resulted in external, visceral and skeletal fetal malformations, such as cranial malformations, cleft palate, limb malrotation, anal atresia, internal hydrocephaly, anophthalmia, and fused bones.
+The dose of 150 mg/kg/day in rabbits resulted in external fetal malformations (partially opened eyes) and minor blood vessel and skeletal variations.
 
-## 8.3 Nursing Mothers
+In rats, malformations including micrognathia and persistent ductus arteriosus could be observed in the absence of maternal toxicity at doses equal to or greater than 30 and 80 mg/kg/day, approximately 5% and 13% of the MHRD, respectively.
 
-It is not known whether deferiprone is excreted in human milk.
-Because many drugs are excreted in human milk and because of the potential for adverse reactions in nursing infants from deferiprone, a decision should be made whether to discontinue nursing or to discontinue the drug, taking into account the importance of the drug to the mother.
+## 8.2 Lactation
+
+Risk Summary
+
+There is no information regarding the presence of deferiprone in human milk, the effects on the breastfed child, or the effects on milk production.
+
+Because of the potential for serious adverse reactions in the breastfed child, including the potential for tumorigenicity shown for deferiprone in animal studies, advise patients that breastfeeding is not recommended during treatment with deferiprone, and for at least 2 weeks after the last dose.
+
+## 8.3 Females and Males of Reproductive Potential
+
+Pregnancy Testing
+
+Pregnancy testing is recommended for females of reproductive potential prior to initiating deferiprone.
+
+Contraception
+
+Females
+
+Deferiprone can cause embryo-fetal harm when administered to a pregnant woman [see Use in Specific Populations (8.1)].
+Advise female patients of reproductive potential to use effective contraception during treatment with deferiprone and for at least 6 months after the last dose.
+
+Males
+
+Based on genotoxicity findings, advise males with female partners of reproductive potential to use effective contraception during treatment with deferiprone and for at least 3 months after the last dose [see Nonclinical Toxicology (13.1)].
 
 ## 8.4 Pediatric Use
 
-The safety and effectiveness of deferiprone tablets for oral use in pediatric patients have not been established.
+The safety and effectiveness of deferiprone in pediatric patients have not been established.
 
 ## 8.5 Geriatric Use
 
-Safety and effectiveness in elderly individuals have not been established.
-In general, dose selection for an elderly patient should be cautious, usually starting at the low end of the dosing range, reflecting the greater frequency of decreased hepatic, renal, or cardiac function, and of concomitant disease or other drug therapy.
-
-## 8.6 Renal Impairment
-
-An open-label, non-randomized, parallel group clinical study was conducted to evaluate the effect of impaired renal function on the safety, tolerability, and pharmacokinetics of a single 33 mg/kg oral dose of deferiprone.
-Subjects were categorized into 4 groups based on estimated glomerular filtration rate (eGFR): healthy volunteers (eGFR ≥ 90 mL/min/1.73m2), mild renal impairment (eGFR 60–89 mL/min/1.73m2), moderate renal impairment (eGFR 30–59 mL/min/1.73m2), and severe renal impairment (eGFR 15–29 mL/min/1.73m2).
-Systemic exposure to deferiprone and to its metabolite deferiprone 3-O-glucuronide was assessed by the PK parameters Cmax and AUC.
-
-Regardless of the degree of renal impairment, the majority of the dose of deferiprone was excreted in the urine over the first 24 hours as deferiprone 3-O-glucuronide.
-No significant effect of renal impairment was seen on systemic exposure to deferiprone.
-Systemic exposure to the inactive 3-O-glucuronide increased with decreasing eGFR.
-Based on the results of this study, no adjustment of the deferiprone dosage regimen is required in patients with impaired renal function.
-
-## 8.7 Hepatic Impairment
-
-The influence of severe hepatic impairment on the pharmacokinetics of deferiprone and deferiprone 3-O-glucuronide has not been evaluated.
-Safety and efficacy of deferiprone have not been evaluated in patients with severe hepatic impairment.
-
-An open-label, non-randomized, parallel group clinical study was conducted to evaluate the effect of impaired hepatic function on the safety, tolerability, and pharmacokinetics of a single 33 mg/kg oral dose of deferiprone.
-Subjects were categorized into 3 groups based on the Child-Pugh classification score: healthy volunteers, mild hepatic impairment (Class A: 5– 6 points), and moderate hepatic impairment (Class B: 7– 9 points).
-Systemic exposure to deferiprone and to its metabolite deferiprone 3-O-glucuronide was assessed by the PK parameters Cmax and AUC.
-The PK of both deferiprone and deferiprone 3-O-glucuronide was generally similar in all subjects, regardless of degree of liver impairment.
-A serious adverse event of acute liver and renal injury was seen in one subject with moderate hepatic impairment.
-Based on the results of this study, no adjustment of the deferiprone dosage regimen is required in patients with mildly or moderately impaired hepatic function.
+Clinical studies of deferiprone did not include sufficient numbers of subjects aged 65 and over to determine whether they respond differently from younger subjects.
+Other reported clinical experience has not identified differences in responses between the elderly and younger patients.
