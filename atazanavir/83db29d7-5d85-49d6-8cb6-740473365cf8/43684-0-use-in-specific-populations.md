@@ -89,7 +89,7 @@ Systemic exposures (AUC) at this dose were 0.9 times lower than exposures at the
 
 ### Risk Summary
 
-The Centers for Disease Control and Prevention recommend that HIV-infected mothers not breastfeed their infants to avoid risking postnatal transmission of HIV.
+The Centers for Disease Control and Prevention recommend that HIV-1 infected mothers not breastfeed their infants to avoid risking postnatal transmission of HIV-1.
 
 There is no information regarding the effects of EVOTAZ on the breastfed infant or on milk production.
 
@@ -97,7 +97,7 @@ Atazanavir has been detected in human milk.
 No data are available regarding atazanavir effects on milk production.
 Cobicistat is present in rat milk (see Data).
 There is no information regarding the presence of cobicistat in human milk, the effects on the breastfed infant, or the effects on milk production.
-Because of the potential for (1) HIV transmission (in HIV-negative infants), (2) developing viral resistance (in HIV-positive infants), and (3) adverse reactions in a breastfed infant, instruct individuals with HIV-1 infection not to breastfeed.
+Because of the potential for (1) HIV-1 transmission (in HIV-1 negative infants), (2) developing viral resistance (in HIV-1 positive infants), and (3) adverse reactions in a breastfed infant, instruct individuals with HIV-1 infection not to breastfeed.
 
 Data
 
@@ -114,18 +114,21 @@ Nonhormonal forms of contraceptive should be considered.
 
 ## 8.4 Pediatric Use
 
-Atazanavir, a component of EVOTAZ, is not recommended for use in pediatric patients below the age of 3 months due to the risk of kernicterus.
+The safety and effectiveness of EVOTAZ for the treatment of HIV-1 infection in pediatric subjects weighing at least 35 kg was established through a study with components of EVOTAZ.
+Use of EVOTAZ for this indication is supported by evidence from adequate and well-controlled studies in adults, and by pharmacokinetic, safety, and virologic data from an open-label trial of components of EVOTAZ (Study GS-US-216-0128) in pediatric subjects with HIV-1 infection aged 12 years and older.
+The safety in these subjects through 48 weeks was similar to that in antiretroviral treatment-naive adults [see Adverse Reactions (6.1), Clinical Pharmacology (12.3), and Clinical Studies (14.2)].
 
-The safety and efficacy of EVOTAZ in pediatric patients 3 months to less than 18 years of age have not been established.
+Safety and effectiveness of EVOTAZ in the pediatric population weighing less than 35 kg have not been established.
+Atazanavir, a component of EVOTAZ, is not recommended for use in pediatric patients below the age of 3 months due to the risk of kernicterus.
 
 ## 8.5 Geriatric Use
 
-Clinical studies with the components of EVOTAZ did not include sufficient numbers of patients aged 65 and older to determine whether they respond differently from younger patients.
+Clinical studies with the components of EVOTAZ did not include sufficient numbers of subjects aged 65 and older to determine whether they respond differently from younger subjects.
 In general, appropriate caution should be exercised in the administration and monitoring of EVOTAZ in elderly patients reflecting the greater frequency of decreased hepatic, renal, or cardiac function, and of concomitant disease or other drug therapy [see Clinical Pharmacology (12.3)].
 
 ## 8.6 Renal Impairment
 
-EVOTAZ is not recommended for use in HIV-treatment-experienced patients with end-stage renal disease managed with hemodialysis [see Dosage and Administration (2.3), Warnings and Precautions (5.3), and Clinical Pharmacology (12.3)].
+EVOTAZ is not recommended for use in treatment-experienced patients with HIV-1 infection who have end-stage renal disease managed with hemodialysis [see Dosage and Administration (2.3), Warnings and Precautions (5.3), and Clinical Pharmacology (12.3)].
 
 ## 8.7 Hepatic Impairment
 

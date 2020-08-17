@@ -6,7 +6,7 @@ Advise the patient to read the FDA-approved patient labeling (Patient Informatio
 
 Advise patients to take EVOTAZ with food every day and that EVOTAZ must always be used in combination with other antiretroviral drugs.
 Inform patients to avoid missing doses as it can result in development of resistance, and not to discontinue therapy without consulting with their healthcare provider.
-Advise patients if a dose of EVOTAZ is missed, they should take the dose as soon as possible and then return to their normal schedule; however, if a dose is skipped, the patient should not double the next dose [see Dosage and Administration (2.2)].
+Advise patients if a dose of EVOTAZ is missed, they should take the dose as soon as possible and then return to their normal schedule; however, if a dose is skipped, the patient should not double the next dose [see Dosage and Administration (2.2,2.3)].
 
 ### Drug Interactions
 
@@ -43,7 +43,7 @@ Tell patients this may be accompanied by yellowing of the skin or whites of the 
 
 ### Immune Reconstitution Syndrome
 
-Advise patients to inform their healthcare provider immediately of any symptoms of infection, as in some patients with advanced HIV infection (AIDS), signs and symptoms of inflammation from previous infections may occur soon after anti-HIV treatment is started [see Warnings and Precautions (5.11)].
+Advise patients to inform their healthcare provider immediately of any symptoms of infection, as in some patients with advanced HIV-1 infection (AIDS), signs and symptoms of inflammation from previous infections may occur soon after anti-HIV-1 treatment is started [see Warnings and Precautions (5.11)].
 
 ### Fat Redistribution
 

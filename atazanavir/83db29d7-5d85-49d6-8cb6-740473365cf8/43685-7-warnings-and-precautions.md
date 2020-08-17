@@ -3,9 +3,9 @@
 ## 5.1 Cardiac Conduction Abnormalities
 
 Atazanavir prolongs the PR interval of the electrocardiogram in some patients.
-In healthy volunteers and in patients, abnormalities in atrioventricular (AV) conduction were asymptomatic and generally limited to first-degree AV block.
-There have been reports of second-degree AV block and other conduction abnormalities [see Adverse Reactions (6.2) and Overdosage (10)].
-In clinical trials of atazanavir that included electrocardiograms, asymptomatic first-degree AV block was observed in 6% of atazanavir-treated patients (n=920) and 5% of patients (n=118) treated with atazanavir coadministered with ritonavir.
+In healthy subjects and in subjects with HIV-1 infection treated with atazanavir, abnormalities in atrioventricular (AV) conduction were asymptomatic and generally limited to first-degree AV block.
+There have been reports of second-degree AV block and other conduction abnormalities [see Adverse Reactions (6.1) and Overdosage (10)].
+In clinical trials of atazanavir in subjects with HIV-1 infection that included electrocardiograms, asymptomatic first-degree AV block was observed in 6% of subjects treated with atazanavir (n=920) and 5% of subjects (n=118) treated with atazanavir coadministered with ritonavir.
 Because of limited clinical experience in patients with preexisting conduction system disease (e.g., marked first-degree AV block or second- or third-degree AV block), consider ECG monitoring in these patients [see Clinical Pharmacology (12.2)].
 
 ## 5.2 Severe Skin Reactions
@@ -44,19 +44,19 @@ Renal replacement therapy was not required in any subject.
 
 ## 5.5 Chronic Kidney Disease
 
-Chronic kidney disease in HIV-infected patients treated with atazanavir, with or without ritonavir, has been reported during postmarketing surveillance.
+Chronic kidney disease in patients with HIV-1 infection treated with atazanavir, with or without ritonavir, has been reported during postmarketing surveillance.
 Reports included biopsy-proven cases of granulomatous interstitial nephritis associated with the deposition of atazanavir drug crystals in the renal parenchyma.
 Consider alternatives to EVOTAZ in patients at high risk for renal disease or with preexisting renal disease.
 Renal laboratory testing (including serum creatinine, estimated creatinine clearance, and urinalysis with microscopic examination) should be conducted in all patients prior to initiating therapy with EVOTAZ and continued during treatment with EVOTAZ.
 Expert consultation is advised for patients who have confirmed renal laboratory abnormalities while taking EVOTAZ.
-In patients with progressive kidney disease, discontinuation of EVOTAZ may be considered [see Dosage and Administration (2.1 and 2.3) and Adverse Reactions (6.2)].
+In patients with progressive kidney disease, discontinuation of EVOTAZ may be considered [see Dosage and Administration (2.1 and 2.3) and Adverse Reactions (6.1)].
 
 ## 5.6 Nephrolithiasis and Cholelithiasis
 
-Cases of nephrolithiasis and/or cholelithiasis have been reported during postmarketing surveillance in HIV-infected patients receiving atazanavir therapy.
+Cases of nephrolithiasis and/or cholelithiasis have been reported during postmarketing surveillance in patients with HIV-1 infection receiving atazanavir therapy.
 Some patients required hospitalization for additional management and some had complications.
 Because these events were reported voluntarily during clinical practice, estimates of frequency cannot be made.
-If signs or symptoms of nephrolithiasis and/or cholelithiasis occur, temporary interruption or discontinuation of therapy may be considered [see Adverse Reactions (6.1, 6.2)].
+If signs or symptoms of nephrolithiasis and/or cholelithiasis occur, temporary interruption or discontinuation of therapy may be considered [see Adverse Reactions (6, 6.1)].
 
 ## 5.7 Hepatotoxicity
 
@@ -105,11 +105,11 @@ Alternative antiretroviral therapy to EVOTAZ may be considered if jaundice or sc
 Immune reconstitution syndrome has been reported in patients treated with combination antiretroviral therapy, including atazanavir, a component of EVOTAZ.
 During the initial phase of combination antiretroviral treatment, patients whose immune system responds may develop an inflammatory response to indolent or residual opportunistic infections (such as Mycobacterium avium infection, cytomegalovirus, Pneumocystis jiroveci pneumonia, or tuberculosis), which may necessitate further evaluation and treatment.
 
-Autoimmune disorders (such as Graves’ disease, polymyositis, and Guillain-Barré syndrome) have also been reported to occur in the setting of immune reconstitution; however, the time to onset is more variable, and can occur many months after initiation of treatment.
+Autoimmune disorders (such as Graves’ disease, polymyositis, Guillain-Barré syndrome, and autoimmune hepatitis) have also been reported to occur in the setting of immune reconstitution; however, the time to onset is more variable, and can occur many months after initiation of treatment.
 
 ## 5.12 Diabetes Mellitus/Hyperglycemia
 
-New-onset diabetes mellitus, exacerbation of preexisting diabetes mellitus, and hyperglycemia have been reported during postmarketing surveillance in HIV-infected patients receiving protease inhibitor therapy.
+New-onset diabetes mellitus, exacerbation of preexisting diabetes mellitus, and hyperglycemia have been reported during postmarketing surveillance in patients with HIV-1 infection receiving protease inhibitor therapy.
 Some patients required either initiation or dose adjustments of insulin or oral hypoglycemic agents for treatment of these events.
 In some cases, diabetic ketoacidosis has occurred.
 In those patients who discontinued protease inhibitor therapy, hyperglycemia persisted in some cases.

@@ -1,6 +1,6 @@
 # 11 DESCRIPTION
 
-EVOTAZ® is a fixed-dose combination tablet for oral administration containing the active ingredients atazanavir and cobicistat.
+EVOTAZ® is a fixed-dose tablet for oral administration containing the active ingredients atazanavir and cobicistat.
 Atazanavir is an HIV-1 protease inhibitor.
 Cobicistat is a mechanism-based inhibitor of cytochrome P450 (CYP) enzymes of the CYP3A family.
 EVOTAZ tablets contain 342 mg of atazanavir sulfate, equivalent to 300 mg of atazanavir, and 150 mg of cobicistat, as well as the following inactive ingredients in the tablet core: croscarmellose sodium, crospovidone, hydroxypropyl cellulose, magnesium stearate, microcrystalline cellulose, silicon dioxide, sodium starch glycolate, and stearic acid.

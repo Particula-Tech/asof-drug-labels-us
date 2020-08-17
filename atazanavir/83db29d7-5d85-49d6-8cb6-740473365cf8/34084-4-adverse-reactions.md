@@ -13,11 +13,13 @@ The following adverse reactions are discussed in greater detail in other section
 
 For additional safety information about atazanavir and cobicistat, consult the full prescribing information for these individual products.
 
-## 6.1 Clinical Trial Experience in Adults
+## 6.1 Clinical Trial Experience
 
 Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in practice.
 
-The safety of atazanavir and cobicistat coadministered as single agents is based on Week 144 data from a Phase 3 trial, Study 114, in which 692 HIV-1 infected, antiretroviral treatment-naive subjects received:
+### Adverse Reactions from Clinical Trial Experience in Adult Subjects
+
+The safety of atazanavir and cobicistat coadministered as single agents is based on Week 144 data from a Phase 3 trial, Study GS-US-216-0114, in which 692 antiretroviral treatment-naïve subjects with HIV-1 infection received:
 
 - •atazanavir coadministered with cobicistat and emtricitabine/tenofovir DF (N=344) or
 - •atazanavir coadministered with ritonavir and emtricitabine/tenofovir DF (N=348).
@@ -25,9 +27,9 @@ The safety of atazanavir and cobicistat coadministered as single agents is based
 The most common adverse reactions (Grades 2-4) and reported in ≥5% of subjects in the atazanavir coadministered with cobicistat group were jaundice (6%) and rash (5%).
 
 The proportion of subjects who discontinued study treatment due to adverse events regardless of severity, was 11% in both the atazanavir coadministered with cobicistat and atazanavir coadministered with ritonavir groups.
-Table 2 lists the frequency of adverse reactions (Grades 2-4) occurring in at least 2% of subjects in the atazanavir coadministered with cobicistat group in Study 114.
+Table 2 lists the frequency of adverse reactions (Grades 2-4) occurring in at least 2% of subjects in the atazanavir coadministered with cobicistat group in Study GS-US-216-0114.
 
-Table 2: Selected Adverse Reactionsa (Grades 2-4) Reported in ≥2% of HIV-1 Infected Treatment-Naive Adults in the Atazanavir Coadministered with Cobicistat Group in Study 114 (Week 144 analysis)
+Table 2: Selected Adverse Reactionsa (Grades 2-4) Reported in ≥2% of Treatment-Naive Adults with HIV-1 Infection in the Atazanavir Coadministered with Cobicistat Group in Study GS-US-216-0114 (Week 144 analysis)
 
 |  | Atazanavir coadministered with cobicistat and emtricitabine/tenofovir DF (n=344) | Atazanavir coadministered with ritonavir and emtricitabine/tenofovir DF (n=348) |
 | --- | --- | --- |
@@ -37,7 +39,8 @@ Table 2: Selected Adverse Reactionsa (Grades 2-4) Reported in ≥2% of HIV-1 Inf
 | Nausea | 2% | 2% |
 | Diarrhea | 2% | 1% |
 | Headache | 2% | 1% |
-| a Frequencies of adverse reactions are based on Grades 2-4 adverse events attributed to study drugs. b Rash events include dermatitis allergic, drug hypersensitivity, pruritus generalized, eosinophilic pustular folliculitis, rash, rash generalized, rash macular, rash maculopapular, rash morbilliform, rash papular, and urticaria. |  |  |
+
+1. a Frequencies of adverse reactions are based on Grades 2-4 adverse events attributed to study drugs. b Rash events include dermatitis allergic, drug hypersensitivity, pruritus generalized, eosinophilic pustular folliculitis, rash, rash generalized, rash macular, rash maculopapular, rash morbilliform, rash papular, and urticaria.
 
 ### Less Common Adverse Reactions
 
@@ -56,9 +59,9 @@ Renal and Urinary Disorders: nephropathy, Fanconi syndrome acquired, nephrolithi
 
 ### Laboratory Abnormalities
 
-The frequency of laboratory abnormalities (Grades 3-4) occurring in at least 2% of subjects in the atazanavir coadministered with cobicistat group in Study 114 is presented in Table 3.
+The frequency of laboratory abnormalities (Grades 3-4) occurring in at least 2% of subjects in the atazanavir coadministered with cobicistat group in Study GS-US-216-0114 is presented in Table 3.
 
-Table 3: Laboratory Abnormalities (Grades 3-4) Reported in ≥2% of HIV-1 Infected Treatment-Naive Adults in the Atazanavir Coadministered with Cobicistat Group in Study 114 (Week 144 analysis)
+Table 3: Laboratory Abnormalities (Grades 3-4) Reported in ≥2% of HIV-1-Infected Treatment-Naive Adults in the Atazanavir Coadministered with Cobicistat Group in Study GS-US-216-0114 (Week 144 analysis)
 
 | Laboratory Parameter Abnormality | (n=344) | (n=348) |
 | --- | --- | --- |
@@ -76,7 +79,7 @@ Table 3: Laboratory Abnormalities (Grades 3-4) Reported in ≥2% of HIV-1 Infect
 | a For subjects with serum amylase >1.5 × upper limit of normal, lipase test was also performed. The frequency of increased lipase (Grades 3-4) occurring in the atazanavir coadministered with cobicistat group (N=46) and atazanavir coadministered with ritonavir group (N=35) was 7% and 3%, respectively. |  |  |
 
 Increase in Serum Creatinine: Cobicistat, a component of EVOTAZ, has been shown to increase serum creatinine and decrease estimated creatinine clearance due to inhibition of tubular secretion of creatinine without affecting actual renal glomerular function [see Warnings and Precautions (5.3) and Clinical Pharmacology (12.2)].
-In Study 114, increases in serum creatinine and decreases in estimated creatinine clearance occurred early in treatment in the atazanavir coadministered with cobicistat group, after which they stabilized.
+In Study GS-US-216-0114, increases in serum creatinine and decreases in estimated creatinine clearance occurred early in treatment in the atazanavir coadministered with cobicistat group, after which they stabilized.
 The mean (± SD) change in estimated glomerular filtration rate (eGFR) by Cockcroft-Gault method after 144 weeks of treatment was −15.1 ± 16.5 mL/min in the atazanavir coadministered with cobicistat group and −8.0 ± 16.8 mL/min in the atazanavir coadministered with ritonavir group.
 
 ### Serum Lipids
@@ -85,7 +88,7 @@ Changes from baseline in total cholesterol, HDL-cholesterol, LDL-cholesterol, an
 In both groups, mean values for serum lipids remained within the normal range for each laboratory test.
 The clinical significance of these changes is unknown.
 
-Table 4: Lipid Values, Mean Change from Baseline, Reported in HIV-1 Infected Treatment-Naive Adults Receiving Atazanavir Coadministered with Cobicistat and Emtricitabine/Tenofovir DF or Atazanavir Coadministered with Ritonavir and Emtricitabine/Tenofovir DF in Study 114 (Week 144 analysis)
+Table 4: Lipid Values, Mean Change from Baseline, Reported in Treatment-Naive Adults with HIV-1 Infection Receiving Atazanavir Coadministered with Cobicistat and Emtricitabine/Tenofovir DF or Atazanavir Coadministered with Ritonavir and Emtricitabine/Tenofovir DF in Study GS-US-216-0114 (Week 144 analysis)
 
 |  | Baseline mg/dL | Week 144 change from baselinea | Baseline mg/dL | Week 144 change from baselinea |
 | --- | --- | --- | --- | --- |
@@ -94,7 +97,13 @@ Table 4: Lipid Values, Mean Change from Baseline, Reported in HIV-1 Infected Tre
 | HDL-cholesterol (fasted) | 43 [N=218] | +7 [N=218] | 43 [N=228] | +6 [N=228] |
 | LDL-cholesterol (fasted) | 102 [N=218] | +11 [N=218] | 104 [N=228] | +16 [N=228] |
 | Triglycerides (fasted) | 130 [N=219] | +14 [N=219] | 131 [N=227] | +14 [N=227] |
-| a The change from baseline is the mean of within-patient changes from baseline for patients with both baseline and Week 144 values and excludes subjects receiving an HMG-CoA reductase inhibitor drug. |  |  |  |  |
+
+1. a The change from baseline is the mean of within-subject changes from baseline for subjects with both baseline and Week 144 values and excludes subjects receiving an HMG-CoA reductase inhibitor drug.
+
+### Adverse Reactions from Clinical Trial Experience in Pediatric Subjects
+
+Although no clinical trial with EVOTAZ as the fixed-dose tablet was conducted in a pediatric population, the safety of atazanavir coadministered with cobicistat plus two nucleoside reverse transcriptase inhibitors was evaluated in treatment-experienced virologically suppressed subjects with HIV-1 infection between the ages of 12 to less than 18 years (N=14) through Week 48 in an open-label clinical trial (Study GS-US-216-0128) [see Clinical Studies (14.2)].
+Results from this study showed that the safety profile of atazanavir and cobicistat coadministered with a background regimen was similar to that in adults.
 
 ## 6.2 Postmarketing Experience
 
