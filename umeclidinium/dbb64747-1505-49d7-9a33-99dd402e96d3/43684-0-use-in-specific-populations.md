@@ -29,7 +29,7 @@ The developmental and health benefits of breastfeeding should be considered alon
 
 Data
 
-Subcutaneous administration of umeclidinium to lactating rats at ≥ 60 mcg/kg/day resulted in a quantifiable level of umeclidinium in 2 of 54 pups, which may indicate transfer of umeclidinium in milk.
+Subcutaneous administration of umeclidinium to lactating rats at greater than or equal to 60 mcg/kg/day resulted in a quantifiable level of umeclidinium in 2 of 54 pups, which may indicate transfer of umeclidinium in milk.
 
 ## 8.4 Pediatric Use
 

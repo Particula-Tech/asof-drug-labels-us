@@ -35,6 +35,6 @@ Trademarks are owned by or licensed to the GSK group of companies.
 
 GlaxoSmithKline Research Triangle Park, NC 27709
 
-©2019 GSK group of companies or its licensor.
+©2020 GSK group of companies or its licensor.
 
-INC:8PI
+INC:9PI
