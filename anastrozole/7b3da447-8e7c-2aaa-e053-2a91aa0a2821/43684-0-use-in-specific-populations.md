@@ -16,11 +16,11 @@ Data
 
 Animal Data
 
-In animal reproduction studies, pregnant rats and rabbits received anastrozole during organogenesis at doses equal to or greater than 0.1 and 0.02 mg/kg/day, respectively, (about 1 and 1/3 the recommended human dose on a mg/m2 basis, respectively).
+In animal reproduction studies, pregnant rats and rabbits received anastrozole during organogenesis at doses equal to or greater than 0.1 and 0.02 mg/kg/day, respectively, (about 1 and 1/3 the recommended human dose on a mg/m 2 basis, respectively).
 In both species, anastrozole crossed the placenta, and there was increased pregnancy loss (increased pre- and/or post-implantation loss, increased resorption, and decreased numbers of live fetuses).
 In rats, these effects were dose related, and placental weights were significantly increased at doses equal to or greater than 0.1 mg/kg/day.
-Fetotoxicity, including delayed fetal development (i.e., incomplete ossification and depressed fetal body weights), occurred in rats at anastrozole doses of 1 mg/kg/day that produced peak plasma levels 19 times higher than serum levels in humans at the therapeutic dose (AUC0-24hr 9 times higher).
-In rabbits, anastrozole caused pregnancy failure at doses equal to or greater than 1.0 mg/kg/day (about 16 times the recommended human dose on a mg/m2 basis).
+Fetotoxicity, including delayed fetal development (i.e., incomplete ossification and depressed fetal body weights), occurred in rats at anastrozole doses of 1 mg/kg/day that produced peak plasma levels 19 times higher than serum levels in humans at the therapeutic dose (AUC 0-24hr 9 times higher).
+In rabbits, anastrozole caused pregnancy failure at doses equal to or greater than 1.0 mg/kg/day (about 16 times the recommended human dose on a mg/m 2 basis).
 
 ## 8.2 Lactation
 
@@ -49,7 +49,7 @@ Serum estradiol concentrations at Month 6 of treatment were reduced by 15.4% in 
 
 Adverse reactions that were assessed as treatment-related by the investigators occurred in 16.3% of the Anastrozole-treated patients and 8.1% of the placebo-treated patients with the most frequent being acne (7% Anastrozole and 2.7% placebo) and headache (7%Anastrozole and 0% placebo); all other adverse reactions showed small differences between treatment groups.
 One patient treated with Anastrozole tablets discontinued the trial because of testicular enlargement.
-The mean baseline-subtracted change in testicular volume after 6 months of treatment was + 6.6 ± 7.9 cm3 in the Anastrozole-treated patients and + 5.2 ± 8.0 cm3 in the placebo group.
+The mean baseline-subtracted change in testicular volume after 6 months of treatment was + 6.6 ± 7.9 cm 3 in the Anastrozole-treated patients and + 5.2 ± 8.0 cm 3 in the placebo group.
 
 McCune-Albright Syndrome Study
 

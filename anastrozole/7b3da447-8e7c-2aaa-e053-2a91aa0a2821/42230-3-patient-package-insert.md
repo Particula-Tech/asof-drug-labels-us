@@ -57,7 +57,7 @@ If you take too much Anastrozole Tablets, call your healthcare provider or go to
 
 - What are the possible side effects of Anastrozole Tablets?
 
-Anastrozole Tablets may cause serious side effects including: • See “What is the most important information I should know about Anastrozole Tablets?” • bone thinning or weakness (osteoporosis).
+Anastrozole Tablets may cause serious side effects including: • See “ What is the most important information I should know about Anastrozole Tablets?” • bone thinning or weakness (osteoporosis).
 Anastrozole Tablets lowers estrogen in your body, which may cause your bones to become thinner and weaker.
 This may increase your risk of fractures, especially of your spine, hip and wrist.
 Your healthcare provider may order a bone mineral density test before you start and during treatment with Anastrozole Tablets to check you for bone changes. • increased blood cholesterol (fat in the blood).

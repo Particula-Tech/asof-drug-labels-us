@@ -20,7 +20,7 @@ Adverse reactions occurring with an incidence of at least 5% in either treatment
 
 Table 1 — Adverse reactions occurring with an incidence of at least 5% in either treatment group during treatment, or within 14 days of the end of treatment in the ATAC trial *
 
-| Body system and adverse reactions byCOSTART preferred term† ‡ | Anastrozole 1 mg(N§= 3092) | Tamoxifen 20 mg(N§ = 3094) |
+| Body system and adverse reactions byCOSTART preferred term † ‡ | Anastrozole 1 mg(N§= 3092) | Tamoxifen 20 mg(N§ = 3094) |
 | --- | --- | --- |
 | Body as a whole |  |  |
 | Asthenia | 575 (19) | 544 (18) |

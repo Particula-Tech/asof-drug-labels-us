@@ -54,7 +54,7 @@ Anastrozole is 40% bound to plasma proteins in the therapeutic range.
 Metabolism of anastrozole occurs by N-dealkylation, hydroxylation and glucuronidation.
 Three metabolites of anastrozole (triazole, a glucuronide conjugate of hydroxy-anastrozole, and a glucuronide conjugate of anastrozole itself) have been identified in human plasma and urine.
 The major circulating metabolite of anastrozole, triazole, lacks pharmacologic activity.
-Anastrozole inhibited reactions catalyzed by cytochrome P450 1A2, 2C8/9, and 3A4 in vitro with Ki values which were approximately 30 times higher than the mean steady-state Cmax values observed following a 1 mg daily dose.
+Anastrozole inhibited reactions catalyzed by cytochrome P450 1A2, 2C8/9, and 3A4 in vitro with Ki values which were approximately 30 times higher than the mean steady-state C max values observed following a 1 mg daily dose.
 Anastrozole had no inhibitory effect on reactions catalyzed by cytochrome P450 2A6 or 2D6 in vitro.
 Administration of a single 30 mg/kg or multiple10 mg/kg doses of anastrozole to healthy subjects had no effect on the clearance of antipyrine or urinary recovery of antipyrine metabolites.
 
@@ -78,7 +78,7 @@ Anastrozole mean steady-state minimum plasma concentrations in Caucasian and Jap
 ### Effect of Renal Impairment
 
 Anastrozole pharmacokinetics have been investigated in subjects with renal impairment.
-Anastrozole renal clearance decreased proportionally with creatinine clearance and was approximately 50% lower in volunteers with severe renal impairment (creatinine clearance < 30 mL/min/1.73m2) compared to controls.
+Anastrozole renal clearance decreased proportionally with creatinine clearance and was approximately 50% lower in volunteers with severe renal impairment (creatinine clearance < 30 mL/min/1.73m 2) compared to controls.
 Total clearance was only reduced 10%.
 No dosage adjustment is needed for renal impairment [see Dosage and Administration (2.1) and Use in Specific Populations (8.6)].
 
