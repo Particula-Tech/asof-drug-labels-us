@@ -5,7 +5,7 @@
 OMNIPAQUE injection 140 and 350 are contraindicated for intrathecal use [see Contraindications (4) and Dosage and Administration (2.1)].
 Inadvertent intrathecal administration can cause death, convulsions/seizures, cerebral hemorrhage, coma, paralysis, arachnoiditis, acute renal failure, cardiac arrest, rhabdomyolysis, hyperthermia, and brain edema.
 
-## 5.2 Risks Associated with Inadvertent Parenteral Administration of Omnipaque Oral Solution
+## 5.2 Risks Associated with Inadvertent Parenteral Administration
 
 OMNIPAQUE oral solution 9 and 12 are contraindicated for parenteral administration [see Contraindications (4) and Dosage and Administration (2.1)].
 Adverse reactions such as hemolysis may occur if administered intravascularly.

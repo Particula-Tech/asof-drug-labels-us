@@ -117,7 +117,7 @@ TABLE 10 DIGITAL SUBTRACTION ANGIOGRAPHY HEAD, NECK, ABDOMINAL, RENAL AND PERIPH
 
 TABLE 11 CT SCANNING OF THE HEAD AND BODY
 
-| PATIENT POPULATION | CONCENTRATION (mg iodine/mL) | VOLUME (mL) |
+| PATIENT POPULATION | CONCENTRATION (mg iodine/mL) | VOLUMEOMNIPAQUE may be used with an automated contrast injection system or contrast management system cleared for use with OMNIPAQUE [see Dosage and Administration (2.8)]. See device labeling for device indications, additional information, and instructions for use. (mL) |
 | --- | --- | --- |
 | Adults | OMNIPAQUE 240, 300 and 350 | Head and body imaging by rapid injection CT Imaging – Head: 70 mL to 150 mL of OMNIPAQUE 30080 mL of OMNIPAQUE 350 CT Imaging – Body: 50 mL to 200 mL of OMNIPAQUE 30060 mL to 100 mL of OMNIPAQUE 350 Head imaging by infusion CT Imaging – Head: 120 mL to 250 mL of OMNIPAQUE 240 |
 | Pediatrics | OMNIPAQUE 240 and 300 | CT Imaging – Head and Body: 1 mL/kg to 2 mL/kg (with maximum = 3 mL/kg)Maximum single dose = 116 mL |
@@ -175,7 +175,7 @@ TABLE 15 DOSING AND ADMINISTRATION OF OMNIPAQUE ORAL SOLUTION
 
 TABLE 16 INTRAVENOUS ADMINISTRATION OF OMNIPAQUE INJECTION FOR CT OF THE ABDOMEN IN CONJUNCTION WITH ORALLY ADMINISTERED DILUTED OMNIPAQUE INJECTION OR OMNIPAQUE ORAL SOLUTION
 
-| PATIENT POPULATION | INTRAVENOUS CONCENTRATION (mg iodine/mL) | INTRAVENOUS VOLUME (mL) | ADMINISTRATION INSTRUCTIONS |
+| PATIENT POPULATION | INTRAVENOUS CONCENTRATION (mg iodine/mL) | INTRAVENOUS VOLUMEOMNIPAQUE may be used with an automated contrast injection system or contrast management system cleared for use with OMNIPAQUE [see Dosage and Administration (2.8)]. See device labeling for device indications, additional information, and instructions for use. (mL) | ADMINISTRATION INSTRUCTIONS |
 | --- | --- | --- | --- |
 | Adults | OMNIPAQUE 300 | The recommended dose is: 100 to 150 mL | Administer up to 40 minutes AFTER consumption of the oral dose |
 | Pediatrics | OMNIPAQUE 240 and 300 | The recommended dose is: 2 mL/kg with a range of 1 mL/kg to 2 mL/kg (maximum 3 mL/kg) | Administer up to 60 minutes AFTER consumption of the oral dose |
@@ -234,3 +234,17 @@ OMNIPAQUE INJECTION FOR VCU
 | 70 | 243 | 330 | 400 |  |  |  |
 | 60 | 300 | 400 | 483 |  |  |  |
 | 50 | 380 | 500 | 600 |  |  |  |
+
+## 2.8 Instructions for Use with an Automated Contrast Injection System or Contrast Management System for CT of the Head and Body
+
+- OMNIPAQUE may be used with an automated contrast injection system cleared for use with contrast media.
+  - See above Important Dosage and Administration Instructions for OMNIPAQUE (2.1).
+  - See device labeling for information on device indications, instructions for use, and techniques to help assure safe use.
+- OMNIPAQUE 300 mg iodine/mL and 350 mg iodine/mL in 150 mL bottles may be used with a contrast media management system cleared for use with OMNIPAQUE 300 mg iodine/mL and 350 mg iodine/mL in 150 mL bottles.
+  - See device labeling for information on device indications, instructions for use, and techniques to help assure safe use.
+  - Use sterile technique for penetrating the container closure of OMNIPAQUE 300 and 350 and transferring OMNIPAQUE solution.
+    The container closure may be penetrated only one time with a suitable sterile component of the contrast media management system cleared for use with OMNIPAQUE 300 and 350 in 150 mL bottles.
+  - Once the OMNIPAQUE 300 and 350 Injection is punctured, do not remove the bottle from the work area during the entire period of use.
+  - Maximum use time is 4 hours after initial puncture.
+  - Each bottle is for one procedure only.
+    Discard unused portion.

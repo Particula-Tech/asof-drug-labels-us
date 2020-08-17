@@ -12,40 +12,28 @@
 | OMNIPAQUE 240 (240 mg iodine/mL) – Boxes of 10 |  |  |
 | 10 mL | Glass Vial | 0407-1412-10 |
 | 20 mL | Glass Vial | 0407-1412-20 |
-| 50 mL | Glass Vial | 0407-1412-50 |
 | 50 mL | +PLUSPAK™ (polymer bottle) | 0407-1412-30 |
-| 100 mL | Glass Vial | 0407-1412-60 |
 | 100 mL | +PLUSPAK™ (polymer bottle) | 0407-1412-33 |
-| 150 mL | Glass Vial | 0407-1412-49 |
 | 150 mL fill in 200 mL | +PLUSPAK™ (polymer bottle) | 0407-1412-34 |
 | 200 mL | +PLUSPAK™ (polymer bottle) | 0407-1412-35 |
 | OMNIPAQUE 300 (300 mg iodine/mL) – Boxes of 10 |  |  |
 | 10 mL | Glass Vial | 0407-1413-10 |
-| 30 mL | Glass Vial | 0407-1413-30 |
 | 30 mL fill in 50 mL | +PLUSPAK™ (polymer bottle) | 0407-1413-59 |
-| 50 mL | Glass Vial | 0407-1413-50 |
-| 50 mL | Glass Bottle | 0407-1413-51 |
 | 50 mL | +PLUSPAK™ (polymer bottle) | 0407-1413-61 |
 | 75 mL fill in 100 mL | +PLUSPAK™ (polymer bottle) | 0407-1413-62 |
-| 100 mL | Glass Bottle | 0407-1413-60 |
 | 100 mL | +PLUSPAK™ (polymer bottle) | 0407-1413-63 |
 | 125 mL fill in 150 mL | Glass Bottle | 0407-1413-53 |
-| 150 mL | Glass Bottle | 0407-1413-90 |
+| 125 mL fill in 200 mL | +PLUSPAK™ (polymer bottle) | 0407-1413-69 |
 | 150 mL fill in 200 mL | +PLUSPAK™ (polymer bottle) | 0407-1413-65 |
 | 200 mL | +PLUSPAK™ (polymer bottle) | 0407-1413-66 |
 | OMNIPAQUE 350 (350 mg iodine/mL) – Boxes of 10 |  |  |
-| 50 mL | Glass Vial | 0407-1414-50 |
-| 50 mL | Glass Bottle | 0407-1414-51 |
-| 50 mL | +PLUSPAK™ (polymer bottle), | 0407-1414-89 |
+| 50 mL | +PLUSPAK™ (polymer bottle) | 0407-1414-89 |
 | 75 mL fill in 100 mL | +PLUSPAK™ (polymer bottle) | 0407-1414-90 |
-| 100 mL | Glass Bottle | 0407-1414-60 |
 | 100 mL | +PLUSPAK™ (polymer bottle) | 0407-1414-91 |
 | 125 mL fill in 150 mL | Glass Bottle | 0407-1414-76 |
-| 150 mL | Glass Bottle | 0407-1414-03 |
+| 125 mL fill in 200 mL | +PLUSPAK™ (polymer bottle) | 0407-1414-95 |
 | 150 mL fill in 200 mL | +PLUSPAK™ (polymer bottle) | 0407-1414-93 |
-| 200 mL fill in 250 mL | Glass Bottle | 0407-1414-04 |
 | 200 mL | +PLUSPAK™ (polymer bottle) | 0407-1414-94 |
-| 250 mL | Glass Bottle | 0407-1414-80 |
 | OMNIPAQUE Oral Solution 9 (9 mg iodine/mL) – Boxes of 10 |  |  |
 | 500 mL | +PLUSPAK™ (polymer bottle) | 0407-1415-09 |
 | OMNIPAQUE Oral Solution 12 (12 mg iodine/mL) – Boxes of 10 |  |  |
@@ -53,7 +41,7 @@
 
 The container closure system components (bottle, vial, stopper and cap) of OMNIPAQUE injection and OMNIPAQUE oral solution are not made with natural rubber latex.
 
-## 16.2 Storage
+## 16.2 Storage and Handling
 
 Protect OMNIPAQUE glass vials and bottles and +PLUSPAK™ polymer bottles from light.
 Do not freeze.
@@ -62,7 +50,7 @@ Discard any product that is inadvertently frozen, as freezing may compromise the
 OMNIPAQUE Injection 140, 180, 240, 300 and 350
 
 Store at controlled room temperature, 20°- 25°C (68° - 77°F); excursions permitted to 15°- 30°C (59°- 86°F) [see USP Controlled Room Temperature].
-May be stored in a contrast media warmer for up to one month at 36-38°C (96.8 - 98.6°F).
+May be stored in a contrast media warmer for up to one month at 36-38°C (96.8 - 100.4°F).
 
 OMNIPAQUE Oral Solution 9 and 12
 
