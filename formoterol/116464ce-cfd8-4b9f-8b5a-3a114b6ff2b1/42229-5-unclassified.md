@@ -1,14 +1,14 @@
 Manufactured for: Merck Sharp & Dohme Corp., a subsidiary of MERCK & CO., INC., Whitehouse Station, NJ 08889, USA
 
-Manufactured by: 3M Health Care Ltd., Loughborough, United Kingdom.
+Manufactured by: Kindeva Drug Delivery Limited, Loughborough, United Kingdom.
 
 For patent information: www.merck.com/product/patent/home.html
 
 The trademarks depicted herein are owned by their respective companies.
 
-Copyright © 2010-2019 Merck Sharp & Dohme Corp., a subsidiary of Merck & Co., Inc. All rights reserved.
+Copyright © 2010-2020 Merck Sharp & Dohme Corp., a subsidiary of Merck & Co., Inc. All rights reserved.
 
-uspi-mk0887a-ao-1908r031
+uspi-mk0887a-ao-2008r032
 
 Patient Instructions for Use
 
@@ -131,7 +131,7 @@ Routine cleaning instructions:
 
 Manufactured for: Merck Sharp & Dohme Corp., a subsidiary of MERCK & CO., INC., Whitehouse Station, NJ 08889, USA
 
-Manufactured by: 3M Health Care Ltd., Loughborough, United Kingdom.
+Manufactured by: Kindeva Drug Delivery Limited, Loughborough, United Kingdom.
 
 This Instructions for Use has been approved by the U.S. Food and Drug Administration.
 
@@ -139,8 +139,8 @@ For patent information: www.merck.com/product/patent/home.html
 
 The trademarks depicted herein are owned by their respective companies.
 
-Copyright © 2010-2019 Merck Sharp & Dohme Corp., a subsidiary of Merck & Co., Inc. All rights reserved.
+Copyright © 2010-2020 Merck Sharp & Dohme Corp., a subsidiary of Merck & Co., Inc. All rights reserved.
 
-Revised: 08/2019
+Revised: 08/2020
 
-usppi-mk0887a-ao-1908r002
+usppi-mk0887a-ao-2008r003

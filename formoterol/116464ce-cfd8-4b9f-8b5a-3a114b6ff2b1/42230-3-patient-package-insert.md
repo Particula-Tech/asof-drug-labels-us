@@ -17,4 +17,4 @@
 | General Information about the safe and effective use of DULERA. Medicines are sometimes prescribed for purposes other than those listed in the Patient Information leaflet. Do not use DULERA for a condition for which it was not prescribed. Do not give your DULERA to other people, even if they have the same condition. It may harm them. You can ask your healthcare provider or pharmacist for information about DULERA that was written for healthcare professionals. |  |  |  |  |
 | What are the ingredients in DULERA? Active ingredients: mometasone furoate and formoterol fumarate dihydrate Inactive ingredients: hydrofluoroalkane (HFA-227), anhydrous alcohol and oleic acid |  |  |  |  |
 | For more information about DULERA: Go to www.DULERA.com or call 1-800-622-4477. |  |  |  |  |
-| This Patient Information has been approved by the U.S. Food and Drug Administration |  |  |  | Revised: 08/2019 |
+| This Patient Information has been approved by the U.S. Food and Drug Administration |  |  |  | Revised: 08/2020 |
