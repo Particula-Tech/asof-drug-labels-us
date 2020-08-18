@@ -22,7 +22,7 @@ Patients using Noritate should receive the following information and instruction
 
 Oral metronidazole has been reported to potentiate the anticoagulant effect of coumarin and warfarin resulting in a prolongation of prothrombin time.
 Drug interactions should be kept in mind when Noritate is prescribed for patients who are receiving anticoagulant treatment, although they are less likely to occur with topical metronidazole administration because of low absorption.
-(See CLINICAL PHARMACOLOGY, Pharmacokinetics.)
+(See CLINICAL PHARMACOLOGY,Pharmacokinetics.)
 
 ## Carcinogenesis, Mutagenesis, Impairment of Fertility:
 

@@ -16,7 +16,7 @@ Safety and efficacy of Noritate were evaluated in two randomized vehicle-control
 Of the patients included in the efficacy database (n=416), there were 142 men and 274 women.
 Endpoint efficacy data comparisons for patients treated with daily Noritate or vehicle applications are listed below.
 
-Inflammatory Lesion Counts and Erythema Severity Scores inTwo Clinical Trials for Rosacea
+Inflammatory Lesion Counts and Erythema Severity Scores in Two Clinical Trials for Rosacea
 
 |  | N | Result | N | Result | N | Result | N | Result |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
