@@ -23,7 +23,7 @@ Pharmacokinetics:
 Absorption
 
 Following a 200 to 400 mg oral zonisamide dose, peak plasma concentrations (range: 2 to 5 mcg/mL) in normal volunteers occur within 2 to 6 hours.
-In the presence of food, the time to maximum concentration is delayed, occurring at 4 to 6 hours, but food has no effect on the bioavailability of zonisamide.
+In the presence of food, the time to maximum concentration is delayed; occurring at 4 to 6 hours, but food has no effect on the bioavailability of zonisamide.
 Zonisamide absorption is dose-proportional in the range of 200 to 400 mg.
 Cmax and AUC, however, increase disproportionately at 800 mg, possibly due to saturable binding of zonisamide to red blood cells.
 Once a stable dose is reached, steady state is achieved within 14 days.
@@ -92,7 +92,7 @@ There is a theoretical potential for zonisamide to affect the pharmacokinetics o
 
 Caution is advised when starting or stopping zonisamide or changing the zonisamide dose in patients who are also receiving drugs which are P-gp substrates (e.g., digoxin, quinidine)
 
-Potential for Medicinal Product to Affect Zonisamide
+Potential for Medicinal Products to Affect Zonisamide
 
 Concomitant medications that can induce or inhibit CYP3A4 or N-acetyl-transferases may affect the pharmacokinetics of zonisamide.
 Drugs which inhibit or induce glucuronide conjugation are not expected to influence the pharmacokinetics of zonisamide.
@@ -100,7 +100,7 @@ Drugs which inhibit or induce glucuronide conjugation are not expected to influe
 The absence of a clinically significant pharmacokinetic interaction between zonisamide and lamotrigine indicates a low potential for zonisamide to interact with substances which are metabolized by UDP-GT.
 
 CYP3A4 Induction: Drugs that induce liver enzymes increase the metabolism and clearance of zonisamide and decrease its half-life.
-The half-life of zonisamide following a 400 mg dose in patients concurrently on enzyme-inducing AEDs such as phenytoin, carbamazepine, or phenobarbital was between 27 to 38 hours; the half-life of zonisamide in patients concurrently on the non-enzyme inducing AED, valproate, was 46 hours.
+The half-life of zonisamide following a 400 mg dose in patients concurrently on enzyme-inducing AEDs such as phenytoin, carbamazepine, or phenobarbital was between 27 to 38 hours, the half-life of zonisamide in patients concurrently on the non-enzyme inducing AED, valproate, was 46 hours.
 
 These effects are unlikely to be of clinical significance when zonisamide is added to existing therapy; however, changes in zonisamide concentrations may occur if concomitant CYP3A4 inducing anti-epileptic or other drugs are withdrawn, dose adjusted or introduced, an adjustment of the zonisamide dose may be required.
 If coadministration with a potent CYP3A4 inducer (e.g., rifampicin) is necessary, the patient should be closely monitored and the dose of zonisamide and other drugs that are CYP3A4 substrate may need to be adjusted.
@@ -110,8 +110,8 @@ Therefore, modification of zonisamide dosing is not necessary when coadministere
 
 Interactions of Zonisamide with Other Carbonic Anhydrase Inhibitors:
 
-Concomitant use of zonisamide, a carbonic anhydrase inhibitor, with any other carbonic anhydrase inhibitor (e.g., topiramate, acetazolamide or dichlorphenamide), may increase the severity of metabolic acidosis and may also increase the risk of kidney stone formation.
-Therefore, if zonisamide is given concomitantly with another carbonic anhydrase inhibitor, the patient should be monitored for the appearance or worsening of metabolic acidosis (see PRECAUTIONS, Drug Interactions subsection).
+Concomitant use of zonisamide, a carbonic anhydrase inhibitor, with any other carbonic anhydrase inhibitor (e.g., topiramate, acetazolamide or dichlorphenamide), may increase the severity of metabolic acidosis and may also increase the risks of hyperammonemia and kidney stone formation.
+Therefore, if zonisamide is given concomitantly with another carbonic anhydrase inhibitor, the patient should be monitored for the appearance or worsening of metabolic acidosis (see WARNINGS, Metabolic Acidosis subsection and Hyperammonemia and Encephalopathy subsection and PRECAUTIONS, Drug Interactions subsection).
 
 Clinical Studies: The effectiveness of zonisamide as adjunctive therapy (added to other antiepilepsy drugs) has been established in three multicenter, placebo-controlled, double blind, 3-month clinical trials (two domestic, one European) in 499 patients with refractory partial onset seizures with or without secondary generalization.
 Each patient had a history of at least four partial onset seizures per month in spite of receiving one or two antiepilepsy drugs at therapeutic concentrations.
