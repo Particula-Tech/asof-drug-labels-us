@@ -5,8 +5,11 @@
   "inn": "ropivacaine",
   "labeler": "Fresenius Kabi USA, LLC",
   "package_ndcs": [
+    "63323-285-55",
     "63323-285-67",
+    "63323-286-93",
     "63323-286-95",
+    "63323-288-23",
     "63323-288-29"
   ],
   "products": [

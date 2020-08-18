@@ -1,5 +1,7 @@
 # ADVERSE REACTIONS:
 
+To report SUSPECTED ADVERSE REACTIONS, contact Fresenius Kabi USA, LLC at 1-800-551-7176 or FDA at 1-800-FDA-1088 or www.fda.gov/medwatch.
+
 Reactions to ropivacaine are characteristic of those associated with other amide-type local anesthetics.
 A major cause of adverse reactions to this group of drugs may be associated with excessive plasma levels, which may be due to overdosage, unintentional intravascular injection or slow metabolic degradation.
 The reported adverse events are derived from clinical studies conducted in the U.S. and other countries.

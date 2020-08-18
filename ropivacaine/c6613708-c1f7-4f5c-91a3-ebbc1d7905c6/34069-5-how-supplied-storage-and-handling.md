@@ -2,13 +2,18 @@
 
 Naropin (ropivacaine HCl Injection, USP) is supplied as follows:
 
-| Product No. | NDC No. | Strength | Size |
+Naropin® Single Dose Vials
+
+| Product Code | Unit of Sale | Strength | Each |
 | --- | --- | --- | --- |
-| NP278827 | 63323-288-27 | 1% (10 mg/mL) | 20 mL plastic ampule packaged in fives. |
-| NP278635 | 63323-286-95 | 0.5% (5 mg/mL) | 30 mL fill, in a 30 mL single dose vial, in packages of 25. |
-| NP278637 | 63323-286-37 | 0.5% (5 mg/mL) | 30 mL fill, in a 30 mL single dose vial packaged individually. |
-| NP278567 | 63323-285-67 | 0.2% (2 mg/mL) | 100 mL infusion bottle packaged individually. |
-| NP278821 | 63323-288-29 | 1% (10 mg/mL) | 20 mL fill, in a 20 mL single dose vial, in packages of 25. |
+| NP278635 | NDC 63323-286-95 Unit of 25 | 0.5% 150 mg per 30 mL (5 mg per mL) | NDC 63323-286-93 30 mL Single Dose Vial |
+| NP278821 | NDC 63323-288-29 Unit of 25 | 1% 200 mg per 20 mL (10 mg per mL) | NDC 63323-288-29 20 mL Single Dose Vial |
+
+Naropin® Single Dose Infusion Bottles
+
+| Product Code | Unit of Sale | Strength | Each |
+| --- | --- | --- | --- |
+| NP278567 | NDC 63323-285-67 Unit of 12 | 0.2% 200 mg per 100 mL (2 mg per mL) | NDC 63323-285-55 100 mL Single Dose Infusion Bottle |
 
 The solubility of ropivacaine is limited at pH above 6.
 Thus, care must be taken as precipitation may occur if Naropin is mixed with alkaline solutions.
@@ -26,12 +31,12 @@ Any solution remaining from an opened container should be discarded promptly.
 In addition, continuous infusion bottles should not be left in place for more than 24 hours.
 NAROPIN is a trademark of Fresenius Kabi USA, LLC.
 
-NOVAPLUS is a registered trademark of Vizient, Inc.
+Novaplus is a registered trademark of Vizient, Inc.
 
 Manufactured by:
 
-Fresenius Kabi Lake Zurich, IL 60047 www.fresenius-kabi.us
+Fresenius Kabi Lake Zurich, IL 60047 www.fresenius-kabi.com/us
 
-451113E
+451113F
 
-Revised: June 2017
+Revised: June 2020
