@@ -1,14 +1,23 @@
-# ADVERSE REACTIONS
+# 6 ADVERSE REACTIONS
 
-Gastrointestinal disturbances (nausea, vomiting, diarrhea) may occur but disappear when the dosage is reduced.
-Allergic dermatitis, giddiness, and hypotension have been reported occasionally.
-Hypotension has been observed when intravenous injection is too rapid.
-To avoid this response, the solution should not be injected more rapidly than 1 mL per minute.
+The following clinically significant adverse reactions are described elsewhere in the labeling:
 
-## Worldwide Postmarketing Reports
+- •Thromboembolic Risk [see Warnings and Precautions 5.1)]
+- •Seizures [see Warnings and Precautions (5.2)]
+- •Hypersensitivity Reactions [see Warnings and Precautions (5.3)]
+- •Visual Disturbances [see Warnings and Precautions (5.4)]
+- •Dizziness [see Warnings and Precautions (5.5)]
 
-Thromboembolic events (e.g., deep vein thrombosis, pulmonary embolism, cerebral thrombosis, acute renal cortical necrosis, and central retinal artery and vein obstruction) have been rarely reported in patients receiving tranexamic acid for indications other than hemorrhage prevention in patients with hemophilia.
-Convulsion, chromatopsia, and visual impairment have also been reported.
-However, due to the spontaneous nature of the reporting of medical events and the lack of controls, the actual incidence and causal relationship of drug and event cannot be determined.
+## 6.2 Postmarketing Experience
 
-Anaphylaxis or anaphylactoid reaction have been reported that are suggestive of a causal relationship (see WARNINGS).
+The following adverse reactions have been identified during postapproval use of tranexamic acid.
+Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
+
+Gastrointestinal disturbances (nausea, vomiting, diarrhea) may occur and may resolve with dose-reduction.
+Allergic dermatitis and giddiness have been reported.
+Hypotension has been reported when intravenous injection is too rapid.
+
+Thromboembolic events (e.g., deep vein thrombosis, pulmonary embolism, cerebral thrombosis, acute renal cortical necrosis, and central retinal artery, vein obstruction and cases associated with concomitant use of combination hormonal contraceptives) have been rarely reported in patients receiving tranexamic acid for indications other than hemorrhage prevention in patients with hemophilia.
+Convulsion, cromatopsia, and visual impairment have also been reported.
+
+Anaphylaxis or anaphylactoid reactions have been reported that are suggestive of a causal relationship.
