@@ -4,19 +4,15 @@ NDC 0009-0347-02
 
 10 mL Vial Multiple-Dose
 
-Depo®- Testosterone
+Depo®-Testosterone testosterone cypionate injection, USP CIII
 
-testosterone cypionate injection, USP
-
-100 mg/mL
-
-CIII
+1,000 mg/10 mL (100 mg/mL)
 
 For intramuscular use only
 
-Pfizer Injectables
-
 Rx only
+
+Pfizer Injectables
 
 # PRINCIPAL DISPLAY PANEL - 100 mg/mL Vial Carton
 
@@ -24,11 +20,9 @@ NDC 0009-0347-02
 
 One 10 mL Vial Multiple-Dose
 
-Depo®- Testosterone testosterone cypionate injection, USP
+Depo®- Testosterone testosterone cypionate injection, USP CIII
 
-100 mg/mL
-
-CIII
+1,000 mg/10 mL (100 mg/mL)
 
 For intramuscular use only
 
@@ -40,13 +34,13 @@ Pfizer Injectables
 
 1 mL Vial NDC 0009-0417-01
 
-Depo®- Testosterone testosterone cypionate injection, USP
+Depo®- Testosterone testosterone cypionate injection, USP CIII
 
 200 mg/mL
 
-CIII
+For IM use only
 
-For IM use only Single-dose
+Single-dose
 
 Rx only
 
@@ -58,13 +52,9 @@ NDC 0009-0417-01
 
 One 1 mL Vial Single-dose
 
-Depo®- Testosterone
-
-testosterone cypionate injection, USP
+Depo®- Testosterone testosterone cypionate injection, USP CIII
 
 200 mg/mL
-
-CIII
 
 For intramuscular use only
 
