@@ -27,7 +27,7 @@ PRINCIPAL DISPLAY PANEL
 
 NDC 0173-0662-00
 
-Epivir-HBV®
+Epivir-HBV
 
 (lamivudine)
 
@@ -49,15 +49,13 @@ Do not use if printed safety seal under cap is broken or missing.
 
 GlaxoSmithKline
 
-Research Triangle Park, NC 27709
-
-Manufactured under agreement from Shire Pharmaceuticals Group plc
-
-Basingstoke, UK
+Research Triangle Park, NC 27709\
 
 Made in Canada
 
-Epivir-HBV is a registered trademark
+Trademarks are owned by or licensed to the GSK group of companies.
 
-1. 10000000146472 Rev.
-   5/17
+©2020 GSK or licensor.
+
+1. 62000000052513 Rev.
+   7/20

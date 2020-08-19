@@ -20,7 +20,7 @@ HIV counseling and testing should be offered to all patients before beginning tr
 ## 5.3 Emergence of Resistance-Associated HBV Substitutions
 
 In controlled clinical trials, YMDD‑mutant HBV was detected in subjects with on–EPIVIR-HBV re‑appearance of HBV DNA after an initial decline below the assay limit [see Microbiology (12.4)].
-Subjects treated with EPIVIR–HBV (adults and children) with YMDD‑mutant HBV at 52 weeks showed diminished treatment responses in comparison with subjects treated with EPIVIR–HBV without evidence of YMDD substitutions, including the following: lower rates of HBeAg seroconversion and HBeAg loss (no greater than placebo recipients), more frequent return of positive HBV DNA, and more frequent ALT elevations.
+Subjects treated with EPIVIR-HBV (adults and children) with YMDD‑mutant HBV at 52 weeks showed diminished treatment responses in comparison with subjects treated with EPIVIR-HBV without evidence of YMDD substitutions, including the following: lower rates of HBeAg seroconversion and HBeAg loss (no greater than placebo recipients), more frequent return of positive HBV DNA, and more frequent ALT elevations.
 In the controlled trials, when subjects developed YMDD‑mutant HBV, they had a rise in HBV DNA and ALT from their previous on‑treatment levels.
 Progression of hepatitis B, including death, has been reported in some subjects with YMDD‑mutant HBV, including subjects from the liver transplant setting and from other clinical trials.
 In order to reduce the risk of resistance in patients receiving monotherapy with EPIVIR-HBV, a switch to an alternative regimen should be considered if serum HBV DNA remains detectable after 24 weeks of treatment.

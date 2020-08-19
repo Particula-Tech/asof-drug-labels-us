@@ -51,8 +51,10 @@ EPIVIR‑HBV is a trademark owned by or licensed to the GSK group of companies.
 
 EPIVIR is a trademark owned by or licensed to the ViiV Healthcare group of companies.
 
+Distributed by:
+
 GlaxoSmithKline Research Triangle Park, NC 27709
 
 ©2020 GSK group of companies or its licensor.
 
-EPH:7PI
+EPH:8PI
