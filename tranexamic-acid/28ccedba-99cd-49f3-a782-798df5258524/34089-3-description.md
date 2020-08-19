@@ -1,14 +1,10 @@
-# DESCRIPTION
+# 11 DESCRIPTION
 
-Each mL of the sterile solution for intravenous injection contains 100 mg Tranexamic Acid, USP and Water for Injection, USP to 1 mL.
-
-FORMULATION
-
-Chemical Name: trans-4-(aminomethyl) cyclohexanecarboxylic acid
-
-Structural Formula:
+Tranexamic acid is trans-4-(aminomethyl)cyclohexanecarboxylic acid, an antifibrinolytic agent.
+Tranexamic acid, USP is a white crystalline powder.
+The structural formula is
 
 Empirical Formula: C8H15NO2 Molecular Weight: 157.2
 
-Tranexamic Acid, USP is a white crystalline powder.
+Each mL of the sterile solution for intravenous injection contains 100 mg tranexamic acid, USP and Water for Injection to 1 mL.
 The aqueous solution for injection has a pH of 6.5 to 8.0.

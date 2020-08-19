@@ -1,4 +1,4 @@
-# Principal display panel-label
+# PACKAGE LABEL.PRINCIPAL DISPLAY PANEL
 
 NDC 23155-166-31
 
@@ -13,8 +13,6 @@ Intravenous Injection
 Rx only
 
 10 mL Single-Dose Vial
-
-# Principal display panel-carton
 
 NDC 23155-166-41
 
