@@ -5,7 +5,7 @@
 When tacrolimus is prescribed with a given dose of a mycophenolic acid (MPA) product, exposure to MPA is higher with tacrolimus co-administration than with cyclosporine co-administration with MPA, because cyclosporine interrupts the enterohepatic recirculation of MPA while tacrolimus does not.
 Monitor for MPA-associated adverse reactions and reduce the dose of concomitantly administered mycophenolic acid products as needed.
 
-## 7.2 Effects of Other Drugs on tacrolimus
+## 7.2 Effects of Other Drugs on Tacrolimus
 
 Table 15 displays the effects of other drugs on Tacrolimus
 

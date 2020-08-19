@@ -74,7 +74,7 @@ Rx only
 
 Manufactured by:
 
-Strides Pharma Science Ltd.
+Strides Pharma Science Limited
 
 Bengaluru-562106, India
 
@@ -84,4 +84,4 @@ Strides Pharma Inc.
 
 East Brunswick, NJ 08816
 
-Revised: 01/2020
+Revised: 08/2020

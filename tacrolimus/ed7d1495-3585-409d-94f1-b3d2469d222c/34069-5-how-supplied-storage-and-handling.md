@@ -1,6 +1,6 @@
 # 16 HOW SUPPLIED/STORAGE AND HANDLING
 
-## 16.1 Tacrolimus Capsules USP
+## 16.1 Tacrolimus Capsules, USP
 
 | Strength | 0.5 mg (containing the equivalent of 0.5 mg anhydrous tacrolimus) | 1 mg (containing the equivalent of 1 mg anhydrous tacrolimus) | 5 mg (containing the equivalent of 5 mg anhydrous tacrolimus) |
 | --- | --- | --- | --- |
@@ -14,14 +14,13 @@ Capsule contains labeled amount.
 
 Store and Dispense
 
-Store at 25°C (77°F); excursions permitted to 15°C - 30°C (59°F - 86°F).
+Store at 25°C (77°F); excursions permitted to 15°C to 30°C (59°F to 86°F).
 
 ## 16.4 Handling and Disposal
 
 Tacrolimus can cause fetal harm.
 Tacrolimus capsules should not be opened or crushed.
-Wearing disposable gloves is recommended during dilution of the injection or when preparing the oral suspension in the hospital and when wiping any spills.
-Avoid inhalation or direct contact with skin or mucous membranes of the powder or granules contained in Tacrolimus capsules and tacrolimus Granules, respectively.
+Avoid inhalation or direct contact with skin or mucous membranes of the powder contained in Tacrolimus capsules.
 If such contact occurs, wash the skin thoroughly with soap and water; if ocular contact occurs, rinse eyes with water.
 In case a spill occurs, wipe the surface with a wet paper towel.
 Follow applicable special handling and disposal procedures1.

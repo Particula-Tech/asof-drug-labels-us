@@ -15,7 +15,7 @@ Overall 1-year patient and graft survival was 96.1% and 89.6%, respectively.
 
 Data from this trial of tcarolimus in conjunction with azathioprine indicate that during the first 3 months of that trial, 80% of the patients maintained trough concentrations between 7-20 ng/mL, and then between 5-15 ng/mL, through 1 year.
 
-Tacrolimus/mycophenolate Mofetil (MMF)
+Tacrolimus/Mycophenolate Mofetil (MMF)
 
 Tacrolimus-based immunosuppression in conjunction with MMF, corticosteroids, and induction has been studied.
 In a randomized, open-label, multicenter trial (Study 1), 1589 kidney transplant patients received tacrolimus (Group C, n = 401), sirolimus (Group D, n = 399), or one of two cyclosporine (CsA) regimens (Group A, n = 390 and Group B, n = 399) in combination with MMF and corticosteroids; all patients, except those in one of the two cyclosporine groups, also received induction with daclizumab.
@@ -27,7 +27,7 @@ Patients randomized to tacrolimus/MMF were more likely to develop diarrhea and d
 Table 20.
 Estimated Creatinine Clearance at 12 Months (Study 1)
 
-| Group | eCLcr [mL/min] at Month 12 All death/graft loss (n=41, 27, 23 and 42 in Groups A, B, C and D, respectively) and patients whose last recorded creatinine values were prior to month 3 visit (n=10, 9, 7 and 9 in Groups A, B, C and D,respectively) were imputed with Glomerular Filtration Rate (GFR) of 10 mL/min; a subject's last observed creatinine value from month 3 on was used for the remainder of subjects with missing creatinine at month 12 (n=11, 12, 15 and 19 for Groups A, B, C and D). Weight was also imputed in the calculation of estimated GFR, if missing. |  |  |  |  |
+| Group | eCLcr [mL/min] at Month 12 All death/graft loss (n = 41, 27, 23, and 42 in Groups A, B, C, and D) and patients whose last recorded creatinine values were prior to month 3 visit (n = 10, 9, 7, and 9 in Groups A, B, C, and D, respectively) were imputed with Glomerular Filtration Rate (GFR) of 10 mL/min; a subject's last observed creatinine value from month 3 on was used for the remainder of subjects with missing creatinine at month 12 (n = 11, 12, 15, and 19 for Groups A, B, C, and D, respectively).Weight was also imputed in the calculation of estimated GFR, if missing. |  |  |  |  |
 | --- | --- | --- | --- | --- | --- |
 |  | N | MEAN | SD | MEDIAN | Treatment Difference with Group C (99.2% Cl Adjusted for multiple (6) pairwise comparisons using Bonferroni corrections.) |
 | (A) CsA/MMF/CS | 390 | 56.5 | 25.8 | 56.9 | -8.6 (-13.7, -3.7) |
@@ -35,7 +35,7 @@ Estimated Creatinine Clearance at 12 Months (Study 1)
 | (C) Tac/MMF/CS/Daclizumab | 401 | 65.1 | 27.4 | 66.2 | - |
 | (D) Siro/MMF/CS/Daclizumab | 399 | 56.2 | 27.4 | 57.3 | -8.9 (-14.1, -3.9) |
 | Total | 1589 | 59.2 | 26.8 | 60.5 |  |
-| Key: CsA = Cyclosporine, CS = Corticosteroids, Siro = Sirolimus |  |  |  |  |  |
+| Key: CsA = Cyclosporine, CS = Corticosteroids, Tac = Tacrolimus, Siro = Sirolimus |  |  |  |  |  |
 
 Table 21.
 Incidence of BPAR, Graft Loss, Death or Loss to Follow-up at 12 Months (Study 1)
@@ -97,7 +97,7 @@ Incidence of BPAR, Graft Loss, Death, or Loss to Follow-up at 12 Months (Study 2
 | Graft loss excluding death | 6 (2.8%) | 4 (1.9%) |
 | Mortality | 9 (4.2%) | 5 (2.4%) |
 | Lost to follow-up | 4 (1.9%) | 1 (0.5%) |
-| Treatment Difference of efficacy failure compared to tacrolimus/MMF group (95% Cl95% confidence interval calculated using Fisher's Exact Test) |  | 1.9% (-5.2%, 9%) |
+| Treatment Difference of efficacy failure compared to tacrolimus/MMF group (95% Cl95% confidence interval calculated using Fisher's Exact Test) |  | 1.9% (-5.2%, 9.0%) |
 
 The protocol-specified target tacrolimus whole blood trough concentrations (Ctrough,Tac) in Study 2 were 7-16 ng/mL for the first three months and 5-15 ng/mL thereafter.
 The observed median Ctroughs,Tac approximated 10 ng/mL during the first three months and 8 ng/mL from month 4 to month 12 (Table 25).
@@ -106,7 +106,7 @@ Approximately 80% of patients maintained tacrolimus whole blood trough concentra
 Table 25.
 Tacrolimus Whole Blood Trough Concentration Range (Study 2)
 
-| Time | Median (P10 to P90 10 to 90th Percentile: range of Ctrough, Tac that excludes lowest 10% and highest 10% of Ctrough, Tac) tacrolimus whole blood trough concentrations range (ng/mL) |
+| Time | Median (P10 - P90 10 to 90th Percentile: range of Ctrough, Tac that excludes lowest 10% and highest 10% of Ctrough, Tac) tacrolimus whole blood trough concentrations range (ng/mL) |
 | --- | --- |
 | Day 30 (N=174) | 10.5 (6.3 - 16.8) |
 | Day 60 (N=179) | 9.2 (5.9 - 15.3) |
@@ -115,14 +115,14 @@ Tacrolimus Whole Blood Trough Concentration Range (Study 2)
 | Day 365 (N=178) | 7.1 (4.2 - 12.4) |
 
 The protocol-specified target cyclosporine whole blood concentrations (Ctrough, CsA) were 125 to 400 ng/mL for the first three months, and 100 to 300 ng/mL thereafter.
-The observed median Ctrough, CsA approximated 280 ng/mL during the first three months and 190 ng/mL from month 4 to month 12.
+The observed median Ctroughs, CsA approximated 280 ng/mL during the first three months and 190 ng/mL from month 4 to month 12.
 
 Patients in both groups started MMF at 1gram twice daily.
 The MMF dose was reduced to less than 2 grams per day by month 12 in 62% of patients in the tacrolimus/MMF group (Table 26) and in 47% of patients in the cyclosporine/MMF group.
 Approximately 63% and 55% of these MMF dose reductions were because of adverse reactions in the tacrolimus/MMF group and the cyclosporine/MMF group, respectively [see Adverse Reactions (6.1)].
 
 Table 26.
-MMF Dose Over Time in the tacrolimus/MMF Group (Study 2)
+MMF Dose Over Time in the Tacrolimus/MMF Group (Study 2)
 
 | Time period (Days) |  | Time-averaged MMF dose (g/day) Percentage of patients for each time-averaged MMF dose range during various treatment periods. Two grams per day of time- averaged MMF dose means that the MMF dose was not reduced in those patients during the treatment periods. |  |
 | --- | --- | --- | --- |
@@ -156,6 +156,9 @@ Although there is a lack of direct correlation between tacrolimus concentrations
 Most patients are stable when trough whole blood concentrations are maintained between 5 to 20 ng/mL.
 Long-term post-transplant patients are often maintained at the low end of this target range.
 Data from the U.S. clinical trial show that the median trough blood concentrations, measured at intervals from the second week to one year post-transplantation, ranged from 9.8 ng/mL to 19.4 ng/mL.
+
+Additional pediatric use information is approved for Astellas Pharma US, Inc.'s Prograf (tacrolimus) products.
+However, due to Astellas Pharma US, Inc.'s marketing exclusivity rights, this drug product is not labeled with that information.
 
 ## 14.3 Heart Transplantation
 

@@ -24,7 +24,7 @@ The incidence of adverse reactions was determined in three randomized kidney tra
 One of the trials used azathioprine (AZA) and corticosteroids and two of the trials used mycophenolate mofetil (MMF) and corticosteroids concomitantly for maintenance immunosuppression.
 
 Tacrolimus-based immunosuppression in conjunction with azathioprine and corticosteroids following kidney transplantation was assessed in a trial where 205 patients received Tacrolimus-based immunosuppression and 207 patients received cyclosporine-based immunosuppression.
-The trial population had a mean age of 43 years (mean ± SD was 43 ± 13 years on tacrolimus and 44 ± 12 years on cyclosporine arm), the distribution was 61% male, and the composition was White (58%), African-American (25%), Hispanic (12%), and Other (5%).
+The trial population had a mean age of 43 years (mean ± SD was 43 ± 13 years on Tacrolimus and 44 ± 12 years on cyclosporine arm), the distribution was 61% male, and the composition was White (58%), African-American (25%), Hispanic (12%), and Other (5%).
 The 12-month post-transplant information from this trial is presented below.
 
 The most common adverse reactions (≥ 30%) observed in tacrolimus-treated kidney transplant patients are: infection, tremor, hypertension, abnormal renal function, constipation, diarrhea, headache, abdominal pain, insomnia, nausea, hypomagnesemia, urinary tract infection, hypophosphatemia, peripheral edema, asthenia, pain, hyperlipidemia, hyperkalemia, and anemia.
@@ -163,7 +163,7 @@ The 12-month post-transplant information from the U.S. trial and from the Europe
 The two trials also included different patient populations and patients were treated with immunosuppressive regimens of differing intensities.
 Adverse reactions reported in ≥ 15% in tacrolimus patients (combined trial results) are presented below for the two controlled trials in liver transplantation.
 
-The most common adverse reactions (≥ 40%) observed in tacrolimus-treated liver transplant patients are: tremor, headache, diarrhea, hypertension, nausea, abnormal renal function, abdominal pain, insomnia, paresthesia, anemia, pain, fever, asthenia, hyperkalemia, hypomagnesemia, and hyperglycemia.
+The most common adverse reactions (≥ 38%) observed in tacrolimus-treated liver transplant patients are: tremor, headache, diarrhea, hypertension, nausea, abnormal renal function, abdominal pain, insomnia, paresthesia, anemia, pain, fever, asthenia, hyperkalemia, hypomagnesemia, and hyperglycemia.
 These all occur with oral and IV administration of tacrolimus and some may respond to a reduction in dosing (e.g., tremor, headache, paresthesia, hypertension).
 Diarrhea was sometimes associated with other gastrointestinal complaints such as nausea and vomiting.
 Based on reported adverse reaction terms related to decreased renal function, nephrotoxicity was reported in approximately 40% and 36% of liver transplantation patients receiving tacrolimus in the U.S. and European randomized trials.
@@ -281,7 +281,7 @@ Incidence of New Onset Diabetes After Transplant at 1 year in Kidney Transplant 
 
 | Parameter | Treatment Group |  |
 | --- | --- | --- |
-| Tacrolimus/MMF (N=212) | Neoral/MMF (N=212) |  |
+| Tacrolimus/MMF (N=212) | NEORAL/MMF (N=212) |  |
 | NODAT | 112/150 (75%) | 93/152 (61%) |
 | Fasting Plasma Glucose ≥ 126 mg/dL | 96/150 (64%) | 80/152 (53%) |
 | HbA1C ≥ 6% | 59/150 (39%) | 28/152 (18%) |
@@ -298,7 +298,7 @@ African-American and Hispanic kidney transplant patients were at an increased ri
 Table 11.
 Incidence of Post-Transplant Diabetes Mellitus and Insulin Use at 2 Years in Kidney Transplant Recipients in a Phase 3 Trial using Azathioprine (AZA)
 
-| Status of PTDMUse of insulin for 30 or more consecutive days, with < 5 day gap, without a prior history of insulin-dependent diabetes mellitus or non-insulin dependent diabetes mellitus. | Tacrolimus/AZA | CsA/AZA |
+| Status of PTDMUse of insulin for 30 or more consecutive days, with < 5-day gap, without a prior history of insulin-dependent diabetes mellitus or non-insulin dependent diabetes mellitus. | Tacrolimus/AZA | CsA/AZA |
 | --- | --- | --- |
 | Patients without pre-transplant history of diabetes mellitus | 151 | 151 |
 | New onset PTDM*, 1st Year | 30/151 (20%) | 6/151 (4%) |
@@ -309,7 +309,7 @@ Incidence of Post-Transplant Diabetes Mellitus and Insulin Use at 2 Years in Kid
 Table 12.
 Development of Post-Transplant Diabetes Mellitus by Race or Ethnicity and by Treatment Group During First Year Post Kidney Transplantation in a Phase 3 Trial
 
-| Patient Race | Patients Who Developed PTDM Use of insulin for 30 or more consecutive days, with < 5 day gap, without a prior history of insulin-dependent diabetes mellitus or non-insulin dependent diabetes mellitus. |  |
+| Patient Race | Patients Who Developed PTDM Use of insulin for 30 or more consecutive days, with < 5-day gap, without a prior history of insulin-dependent diabetes mellitus or non-insulin dependent diabetes mellitus. |  |
 | --- | --- | --- |
 |  | Tacrolimus | Cyclosporine |
 | African-American | 15/41 (37%) | 3 (8%) |
@@ -326,7 +326,7 @@ Hyperglycemia was associated with the use of tacrolimus in 47% and 33% of liver 
 Table 13.
 Incidence of Post-Transplant Diabetes Mellitus and Insulin Use at 1 Year in Liver Transplant Recipients
 
-| Status of PTDM Use of insulin for 30 or more consecutive days, with < 5 day gap, without a prior history of insulin-dependent diabetes mellitus or non-insulin dependent diabetes mellitus. | US Trial |  | European Trial |  |
+| Status of PTDM Use of insulin for 30 or more consecutive days, with < 5-day gap, without a prior history of insulin-dependent diabetes mellitus or non-insulin dependent diabetes mellitus. | US Trial |  | European Trial |  |
 | --- | --- | --- | --- | --- |
 |  | Tacrolimus | Cyclosporine | Tacrolimus | Cyclosporine |
 | Patients at risk Patients without pre-transplant history of diabetes mellitus. | 239 | 236 | 239 | 249 |
@@ -339,14 +339,14 @@ Insulin-dependent PTDM was reported in 13% and 22% of tacrolimus-treated heart t
 Hyperglycemia defined as two fasting plasma glucose levels ≥126 mg/dL was reported with the use of tacrolimus plus MMF or AZA in 32% and 35% of heart transplant recipients in the U.S. and European randomized trials, respectively, and may require treatment [see Adverse Reactions (6.1)].
 
 Table 14.
-Incidence of Post-Trans plant Diabetes Mellitus and Insulin Use at 1 Year in Heart Transplant Recipients
+Incidence of Post-Transplant Diabetes Mellitus and Insulin Use at 1 Year in Heart Transplant Recipients
 
 | Status of PTDM Use of insulin for 30 or more consecutive days, without a prior history of insulin-dependent diabetes mellitus or non-insulin dependent diabetes mellitus. | US Trial |  | European Trial |  |
 | --- | --- | --- | --- | --- |
 |  | Tacrolimus/MMF | Cyclosporine/MMF | Tacrolimus/AZA | Cyclosporine/AZA |
 | Patients at risk Patients without pre-transplant history of diabetes mellitus. | 75 | 83 | 132 | 138 |
 | New Onset PTDM | 10 (13%) | 6 (7%) | 29 (22%) | 5(4%) |
-| Patients still on insulin at 1 year 7-12 months for the U.S.Trial. | 7(9%) | 1(1%) | 24(18%) | 4(3%) |
+| Patients still on insulin at 1 year 7-12 months for the U.S.trial. | 7(9%) | 1(1%) | 24(18%) | 4(3%) |
 
 Less Frequently Reported Adverse Reactions (> 3% and < 15%) in Liver, Kidney, and Heart Transplant Studies
 
@@ -364,6 +364,9 @@ The following adverse reactions were reported in either liver, kidney, and/or he
 - Musculoskeletal: Arthralgia, cramps, generalized spasm, leg cramps, myalgia, myasthenia, osteoporosis.
 - Respiratory: Asthma, emphysema, hiccups, lung function decreased, pharyngitis, pneumonia, pneumothorax, pulmonary edema, rhinitis, sinusitis, voice alteration
 - Skin: Acne, alopecia, exfoliative dermatitis, fungal dermatitis, herpes simplex, herpes zoster, hirsutism, neoplasm skin benign, skin discoloration, skin ulcer, sweating
+
+Additional pediatric use information is approved for Astellas Pharma US, Inc.'s Prograf (tacrolimus) products.
+However, due to Astellas Pharma US, Inc.'s marketing exclusivity rights, this drug product is not labeled with that information.
 
 ## 6.2 Postmarketing Adverse Reactions
 

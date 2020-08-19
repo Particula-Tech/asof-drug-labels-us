@@ -8,7 +8,7 @@ Tacrolimus capsules are not interchangeable or substitutable for other tacrolimu
 This is because rate of absorption following the administration of an extended-release tacrolimus product is not equivalent to that of an immediate-release tacrolimus drug product.
 Under-or overexposure to tacrolimus may result in graft rejection or other serious adverse reactions Changes between tacrolimus immediate-release and extended-release dosage forms must occur under physician supervision [see Warnings and Precautions (5.3)].
 
-Oral Formulations (Capsules and Oral Suspension)
+Oral Formulation (Capsules)
 
 If patients are able to initiate oral therapy, the recommended starting doses should be initiated.
 Tacrolimus capsules may be taken with or without food.
@@ -44,7 +44,7 @@ Summary of Initial Oral Tacrolimus Capsules Dosing Recommendations and Whole Blo
 | With Azathioprine | 0.2 mg/kg/day, divided in two doses, administered every 12 hours | Month 1-3: 7-20 ng/mL Month 4-12: 5-15 ng/mL |
 | With MMF/IL-2 receptor antagonist† | 0.1 mg/kg/day, divided in two doses, administered every 12 hours | Month 1-12: 4-11 ng/mL |
 | Liver Transplant |  |  |
-| With Corticosteroids only | 0.10-0.15 mg/kg/day, divided in two doses, administered every 12 hours | Month 1-12: 5-20 ng/mL |
+| With corticosteroids only | 0.10-0.15 mg/kg/day, divided in two doses, administered every 12 hours | Month 1-12: 5-20 ng/mL |
 | Heart Transplant |  |  |
 | With azathioprine or MMF | 0.075 mg/kg/day, divided in two doses, administered every 12 hours | Month 1-3: 10-20 ng/mL Month ≥4: 5-15 ng/mL |
 | * African-American patients may require higher doses compared to Caucasians (see Table 2) |  |  |
@@ -77,9 +77,9 @@ The whole blood trough concentration range described in Table 1 pertains to oral
 Anaphylactic reactions have occurred with injectables containing castor oil derivatives, such as tacrolimus injection.
 Therefore, monitoring for signs and symptoms of anaphylaxis is recommended [see Warnings and Precautions (5.9)].
 
-## 2.3 Dosing for Pediatric Kidney, Liver, and Heart Transplant Patients
+## 2.3 Dosing for Pediatric Liver Transplant Patients
 
-Oral formulations (capsules)
+Oral formulation (capsules)
 
 Pediatric patients in general need higher tacrolimus doses compared to adults: the higher dose requirements may decrease as the child grows older.
 Recommendations for the initial oral dosing for pediatric transplant patients and whole blood trough concentration range are shown in Table 3.
@@ -90,17 +90,16 @@ Summary of Initial Tacrolimus Capsule Dosing Recommendations and Whole Blood Tro
 
 | Patient Population | Initial Tacrolimus capsule Dosing | Whole Blood Trough Concentration Range |
 | --- | --- | --- |
-| Pediatric kidney transplant patients† | 0.3 mg/kg/day capsules or oral suspension, divided in two doses, administered every 12 hours | Month 1 - 12: 5 - 20 ng/mL |
-| Pediatric liver transplant patients‡ | 0.15 - 0.2 mg/kg/day capsules or 0.2 mg/kg/day oral suspension, divided in two doses, administered every 12 hours | Month 1 - 12: 5 - 20 ng/mL |
-| Pediatric heart transplant patients† | 0.3 mg/kg/day* capsules or oral suspension, divided in two doses, administered every 12 hours | Month 1 - 12: 5 - 20 ng/mL |
-| * 0.1 mg/kg/day if cell depleting induction treatment is administered. |  |  |
-| † See Clinical Pharmacology (12.3) |  |  |
+| Pediatric liver transplant patients‡ | 0.15 - 0.2 mg/kg/day capsules divided in two doses, administered every 12 hours | Month 1 - 12: 5 - 20 ng/mL |
 | ‡ See Clinical Studies (14.2), Liver Transplantation |  |  |
 
-For conversion of pediatric patients from tacrolimus granules to tacrolimus capsules or from tacrolimus capsules to tacrolimus granules, the total daily dose should remain the same.
+For conversion of pediatric patients from tacrolimus for oral suspension to DRUG X capsules or from Drug X capsules to tacrolimus for oral suspension, the total daily dose should remain the same.
 Following conversion from one formulation to another formulation of tacrolimus, therapeutic drug monitoring is recommended [see Dosage and Administration (2.6)].
 If a patient is unable to receive an oral formulation, the patient may be started on tacrolimus injection.
-For pediatric liver transplant patients, the intravenous dose is 0.03 to 0.05 mg/kg/day.
+For pediatric liver transplant patients, the intravenous dose is 0.03-0.05 mg/kg/day.
+
+Additional pediatric use information is approved for Astellas Pharma US, Inc.'s Prograf (tacrolimus) products.
+However, due to Astellas Pharma US, Inc.'s marketing exclusivity rights, this drug product is not labeled with that information.
 
 ## 2.4 Dosage Adjustment in Patients with Renal Impairment
 
