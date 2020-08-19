@@ -1,6 +1,6 @@
-# Package Label - Principal Display Panel
+# PRINCIPAL DISPLAY PANEL
 
-PACKAGE LABEL - PRINCIPAL DISPLAY PANEL - Tranexamic 10 mL Vial Label Panel
+Tranexamic 10 mL Vial Label
 
 NDC 39822-1000-1
 
@@ -14,7 +14,7 @@ Rx only
 
 10 mL vial
 
-PACKAGE LABEL - PRINCIPAL DISPLAY PANEL - Tranexamic 10 mL Vial Carton Panel
+Tranexamic 10 mL Vial Carton
 
 NDC 39822-1000-1
 
@@ -22,7 +22,7 @@ Tranexamic Acid Injection
 
 1000 mg/10 mL (100 mg/mL)
 
-For intravenous injection
+Solution for Intravenous Injection
 
 Rx only
 

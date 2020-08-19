@@ -1,16 +1,10 @@
-# CONTRAINDICATIONS
+# 4 CONTRAINDICATIONS
 
 Tranexamic Acid Injection is contraindicated:
 
-1.
-In patients with acquired defective color vision, since this prohibits measuring one endpoint that should be followed as a measure of toxicity (see WARNINGS).
+• In patients with subarachnoid hemorrhage.
+Anecdotal experience indicates that cerebral edema and cerebral infarction may be caused by Tranexamic Acid Injection in such patients.
 
-2.
-In patients with subarachnoid hemorrhage.
-Anecdotal experience indicates that cerebral edema and cerebral infarction may be caused by tranexamic acid in such patients.
+• In patients with active intravascular clotting [see Warnings and Precautions (5.1)].
 
-3.
-In patients with active intravascular clotting.
-
-4.
-In patients with hypersensitivity to tranexamic acid or any of the ingredients.
+• In patients with hypersensitivity to tranexamic acid or any of the ingredients [see Warnings and Precautions (5.3)].

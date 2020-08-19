@@ -1,34 +1,51 @@
-# CLINICAL PHARMACOLOGY
+# 12 CLINICAL PHARMACOLOGY
 
-Tranexamic acid is a competitive inhibitor of plasminogen activation, and at much higher concentrations, a noncompetitive inhibitor of plasmin, i.e., actions similar to aminocaproic acid.
-Tranexamic acid is about 10 times more potent in vitro than aminocaproic acid.
+## 12.1 Mechanism of Action
 
-Tranexamic acid binds more strongly than aminocaproic acid to both the strong and weak receptor sites of the plasminogen molecule in a ratio corresponding to the difference in potency between the compounds.
-Tranexamic acid in a concentration of 1 mg per mL does not aggregate platelets in vitro.
+Tranexamic acid is a synthetic lysine amino acid derivative, which diminishes the dissolution of hemostatic fibrin by plasmin.
+In the presence of tranexamic acid, the lysine receptor binding sites of plasmin for fibrin are occupied, preventing binding to fibrin monomers, thus preserving and stabilizing fibrin's matrix structure.
 
-Tranexamic acid in concentrations as low as 1 mg per mL can prolong the thrombin time.
-However, tranexamic acid in concentrations up to 10 mg per mL in blood showed no influence on the platelet count, the coagulation time, or other coagulation factors in whole blood or citrated blood from normal subjects.
+The antifibrinolytic effects of tranexamic acid are mediated by reversible interactions at multiple binding sites within plasminogen.
+Native human plasminogen contains 4 to 5 lysine binding sites with low affinity for tranexamic acid (Kd = 750 μmol/L) and 1 with high affinity (Kd = 1.1 μmol/L).
+The high affinity lysine site of plasminogen is involved in its binding to fibrin.
+Saturation of the high affinity binding site with tranexamic acid displaces plasminogen from the surface of fibrin.
+Although plasm in may be formed by conformational changes in plasminogen, binding to and dissolution of the fibrin matrix is inhibited.
 
+## 12.2 Pharmacodynamics
+
+Tranexamic acid, in concentrations of 1 mg/mL and 10 mg/mL prolongs the thrombin time.
+An an1ifibrinolytic concentration of tranexamic acid remains in different tissues for about 17 hours, and in the serum, up to 7 or 8 hours.
+
+Tranexamic acid in concentrations up to 10 mg/mL blood has no influence on the platelet count, the coagulation lime or various coagulation factors in whole blood or citrated blood from healthy subjects.
+
+## 12.3 Pharmacokinetics
+
+### Distribution
+
+The initial volume of distribution is about 9 to 12 liters.
 The plasma protein binding of tranexamic acid is about 3% at therapeutic plasma levels and seems to be fully accounted for by its binding to plasminogen.
 Tranexamic acid does not bind to serum albumin.
 
-After an intravenous dose of 1 g, the plasma concentration time curve shows a triexponential decay with a half-life of about 2 hours for the terminal elimination phase.
-The initial volume of distribution is about 9 to 12 liters.
+### Elimination
+
+After an intravenous dose of 1 g, the plasma concentration lime curve shows a triexponential decay with a half-life of about 2 hours for the terminal elimination phase.
+
+Excretion
+
 Urinary excretion is the main route of elimination via glomerular filtration.
-Overall renal clearance is equal to overall plasma clearance (110 to 116 mL/min) and more than 95% of the dose is excreted in the urine as the unchanged drug.
-Excretion of tranexamic acid is about 90% at 24 hours after intravenous administration of 10 mg per kg body weight.
+Overall renal clearance is equal to overall plasma clearance (110 to 116 mL/min), and more than 95% of the dose is excreted in the urine as unchanged drug.
+Excretion of tranexamic acid is about 90% at 24 hours after intravenous administration of 10 mg/kg body weight.
 
-An antifibrinolytic concentration of tranexamic acid remains in different tissues for about 17 hours, and in the serum, up to seven or eight hours.
+### Specific Populations
 
-Tranexamic acid passes through the placenta.
-The concentration in cord blood after an intravenous injection of 10 mg per kg to pregnant women is about 30 mg per liter, as high as in the maternal blood.
-Tranexamic acid diffuses rapidly into joint fluid and the synovial membrane.
-In the joint fluid the same concentration is obtained as in the serum.
-The biological half-life of tranexamic acid in the joint fluid is about three hours.
+Patients with Renal Impairment
 
-The concentration of tranexamic acid in a number of other tissues is lower than in blood.
-In breast milk the concentration is about one hundredth of the serum peak concentration.
-Tranexamic acid concentration in cerebrospinal fluid is about one tenth of that of the plasma.
-The drug passes into the aqueous humor, the concentration being about one tenth of the plasma concentration.
+The blood levels of tranexamic acid are increased in patien1s with renal insufficiency.
+Urinary excretion following a single intravenous injection of tranexamic acid declines as renal function decreases.
+Following a single 10 mg/kg intravenous injection of tranexamic acid, the 24-hour urinary fractions of tranexamic acid with serum creatinine concentrations 1.4 - 2.8, 2.8 - 5.7, and greater than 5.7 mg/dL were 51, 39, and 19%, respectively.
+The 24-hour tranexamic acid plasma concentrations for these patients demonstrated a direct relationship to the degree of renal impairment.
+Therefore, dose adjustment is needed in patients with renal impairment [see Dosage and Administration (2.2), Use in Specific Populations (8.6)].
 
-Tranexamic acid has been detected in semen where it inhibits fibrinolytic activity but does not influence sperm migration.
+### Drug Interaction Studies
+
+No studies of interactions between Tranexamic Acid Injection and other drugs have been conducted.
