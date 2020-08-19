@@ -1,0 +1,9 @@
+# ADVERSE REACTIONS
+
+Anticholinergics produce certain effects, most of which are extensions of their fundamental pharmacological actions.
+Adverse reactions to anticholinergics in general may include xerostomia; decreased sweating; urinary hesitancy and retention; blurred vision; tachycardia; palpitations; dilation of the pupil; cycloplegia; increased ocular tension; loss of taste; headaches; nervousness; mental confusion; drowsiness; weakness; dizziness; insomnia; nausea; vomiting; constipation; bloated feeling; impotence; suppression of lactation; severe allergic reaction or drug idiosyncrasies including anaphylaxis, urticaria and other dermal manifestations.
+
+Glycopyrrolate Tablets, USP is chemically a quaternary ammonium compound; hence, its passage across lipid membranes, such as the blood-brain barrier, is limited in contrast to atropine sulfate and scopolamine hydrobromide.
+For this reason, the occurrence of central nervous system (CNS) related side effects is lower, in comparison to their incidence following administration of anticholinergics which are chemically tertiary amines that can cross this barrier readily.
+
+To report SUSPECTED ADVERSE EVENTS, contact LGM Pharma Solutions, LLC at 1-877-288-1495 or www.nexgenpharma.com, or FDA at 1-800-FDA-1088 or www.fda.gov/medwatch.

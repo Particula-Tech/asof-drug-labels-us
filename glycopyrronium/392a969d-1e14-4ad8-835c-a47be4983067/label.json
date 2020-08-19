@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "ANDA091522"
+  ],
+  "inn": "glycopyrronium",
+  "labeler": "LGM Pharma Solutions, LLC",
+  "package_ndcs": [
+    "79739-7097-1"
+  ],
+  "products": [
+    {
+      "form": "TABLET",
+      "generic": "glycopyrrolate",
+      "name": "Glycopyrrolate"
+    }
+  ],
+  "setid": "392a969d-1e14-4ad8-835c-a47be4983067",
+  "source": "dailymed"
+}
