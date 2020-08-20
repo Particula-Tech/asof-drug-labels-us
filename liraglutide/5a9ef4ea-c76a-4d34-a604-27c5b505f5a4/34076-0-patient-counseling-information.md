@@ -55,15 +55,15 @@ Novo Nordisk A/S
 
 DK-2880 Bagsvaerd, Denmark
 
-Date of Issue: June 2019
+Date of Issue: August 2020
 
-Version: 11
+Version: 12
 
 VICTOZA® is a registered trademark of Novo Nordisk A/S.
 
 PATENT Information: http://novonordisk-us.com/patients/products/product-patents.html
 
-© 2010-2019 Novo Nordisk
+© 2010-2020 Novo Nordisk
 
 For information about VICTOZA contact:
 

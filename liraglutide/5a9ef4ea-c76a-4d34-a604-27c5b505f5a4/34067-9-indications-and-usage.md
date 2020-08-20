@@ -2,11 +2,8 @@
 
 VICTOZA is indicated:
 
-1. • as an adjunct to diet and exercise to improve glycemic control in patients 10 years and older with type 2
-2. diabetes mellitus,
-3. • to reduce the risk of major adverse cardiovascular events (cardiovascular death, non-fatal myocardial
-4. infarction, or non-fatal stroke) in adults with type 2 diabetes mellitus and established cardiovascular disease
-5. [see Clinical Studies (14.3)].
+- •as an adjunct to diet and exercise to improve glycemic control in patients 10 years and older with type 2 diabetes mellitus,
+- •to reduce the risk of major adverse cardiovascular events (cardiovascular death, non-fatal myocardial infarction, or non-fatal stroke) in adults with type 2 diabetes mellitus and established cardiovascular disease [see Clinical Studies (14.3)].
 
 Limitations of Use:
 

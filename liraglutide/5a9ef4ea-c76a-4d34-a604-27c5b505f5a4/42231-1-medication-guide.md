@@ -7,24 +7,24 @@
 | What is VICTOZA?VICTOZA is an injectable prescription medicine used: •along with diet and exercise to lower blood sugar (glucose) in adults and children who are 10 years of age and older with type 2 diabetes mellitus.•to reduce the risk of major cardiovascular events such as heart attack, stroke or death in adults with type 2 diabetes mellitus with known heart disease. VICTOZA is not for use in people with type 1 diabetes or people with diabetic ketoacidosis.It is not known if VICTOZA can be used with mealtime insulin.It is not known if VICTOZA is safe and effective to lower blood sugar (glucose) in children under 10 years of age. |
 | Who should not use VICTOZA? Do not use VICTOZA if: •you or any of your family have ever had a type of thyroid cancer called medullary thyroid carcinoma (MTC) or if you have an endocrine system condition called Multiple Endocrine Neoplasia syndrome type 2 (MEN 2).•you are allergic to liraglutide or any of the ingredients in VICTOZA. See the end of this Medication Guide for a complete list of ingredients in VICTOZA. |
 | What should I tell my healthcare provider before using VICTOZA? Before using VICTOZA, tell your healthcare provider if you have any other medical conditions, including if you: •have or have had problems with your pancreas, kidneys, or liver.•have severe problems with your stomach, such as slowed emptying of your stomach (gastroparesis) or problems with digesting food.•are pregnant or plan to become pregnant. It is not known if VICTOZA will harm your unborn baby. Tell your healthcare provider if you become pregnant while using VICTOZA.•are breastfeeding or plan to breastfeed. It is not known if VICTOZA passes into your breast milk. You should talk with your healthcare provider about the best way to feed your baby while using VICTOZA. Tell your healthcare provider about all the medicines you take, including prescription and over-the-counter medicines, vitamins, and herbal supplements. VICTOZA may affect the way some medicines work and some medicines may affect the way VICTOZA works. Before using VICTOZA, talk to your healthcare provider about low blood sugar and how to manage it. Tell your healthcare provider if you are taking other medicines to treat diabetes, including insulin or sulfonylureas.Know the medicines you take. Keep a list of them to show your healthcare provider and pharmacist when you get a new medicine. |
-| How should I use VICTOZA? •Read the Instructions for Use that comes with VICTOZA.•Use VICTOZA exactly as your healthcare provider tells you to. •Your healthcare provider should show you how to use VICTOZA before you use it for the first time.•Use VICTOZA 1 time each day, at any time of the day.•VICTOZA may be taken with or without food.•VICTOZA is injected under the skin (subcutaneously) of your stomach (abdomen), thigh, or upper arm. Do not inject VICTOZA into a muscle (intramuscularly) or vein (intravenously).•Do not mix insulin and VICTOZA together in the same injection.•You may give an injection of VICTOZA and insulin in the same body area (such as your stomach area), but not right next to each other.•If you miss a dose of VICTOZA, take the missed dose at the next scheduled dose. Do not take 2 doses of VICTOZA at the same time. •Change (rotate) your injection site with each injection. Do not use the same site for each injection.•Do not share your VICTOZA pen with other people, even if the needle has been changed. You may give other people a serious infection, or get a serious infection from them. Your dose of VICTOZA and other diabetes medicines may need to change because of: •change in level of physical activity or exercise, weight gain or loss, increased stress, illness, change in diet, or because of other medicines you take. |
+| How should I use VICTOZA? •Read the Instructions for Use that comes with VICTOZA.•Use VICTOZA exactly as your healthcare provider tells you to. •Your healthcare provider should show you how to use VICTOZA before you use it for the first time.•Use VICTOZA 1 time each day, at any time of the day.•VICTOZA may be taken with or without food.•VICTOZA is injected under the skin (subcutaneously) of your stomach (abdomen), thigh, or upper arm. Do not inject VICTOZA into a muscle (intramuscularly) or vein (intravenously).•Do not mix insulin and VICTOZA together in the same injection.•You may give an injection of VICTOZA and insulin in the same body area (such as your stomach area), but not right next to each other.•If you miss a dose of VICTOZA, take the missed dose at the next scheduled dose. Do not take 2 doses of VICTOZA at the same time. •Change (rotate) your injection site with each injection. Do not use the same site for each injection.•Do not share your VICTOZA pen with other people, even if the needle has been changed. You may give other people a serious infection, or get a serious infection from them. •The VICTOZA pen you are using should be thrown away 30 days after you start using it. Your dose of VICTOZA and other diabetes medicines may need to change because of: •change in level of physical activity or exercise, weight gain or loss, increased stress, illness, change in diet, or because of other medicines you take. |
 | What are the possible side effects of VICTOZA? VICTOZA may cause serious side effects, including: •See “What is the most important information I should know about VICTOZA?”•inflammation of your pancreas (pancreatitis). Stop using VICTOZA and call your healthcare provider right away if you have severe pain in your stomach area (abdomen) that will not go away, with or without vomiting. You may feel the pain from your abdomen to your back. •low blood sugar (hypoglycemia). Your risk for getting low blood sugar may be higher if you use VICTOZA with another medicine that can cause low blood sugar, such as a sulfonylurea or insulin. In children who are 10 years of age and older, the risk for low blood sugar may be higher with VICTOZA regardless of use with another medicine that can also lower blood sugar. Signs and symptoms of low blood sugar may include: odizziness or light-headednessosweatingoconfusion or drowsinessoheadacheoblurred visionoslurred speechoshakinessofast heartbeatoanxiety, irritability, or mood changesohungeroweaknessofeeling jittery •kidney problems (kidney failure). In people who have kidney problems, diarrhea, nausea, and vomiting may cause a loss of fluids (dehydration) which may cause kidney problems to get worse.•serious allergic reactions. Stop using VICTOZA and get medical help right away, if you have any symptoms of a serious allergic reaction including: oswelling of your face, lips, tongue or throatoproblems breathing or swallowingosevere rash or itchingofainting or feeling dizzyovery rapid heartbeat •gallbladder problems. Gallbladder problems have happened in some people who take VICTOZA. Tell your healthcare provider right away if you get symptoms of gallbladder problems which may include: opain in the right or middle upper stomach areaonausea and vomitingofeveroyour skin or the white part of your eyes turns yellow The most common side effects of VICTOZA may include: nausea, diarrhea, vomiting, decreased appetite, indigestion and constipation.Talk to your healthcare provider about any side effect that bothers you or does not go away. These are not all the possible side effects of VICTOZA. Call your doctor for medical advice about side effects. You may report side effects to FDA at 1‑800‑FDA‑1088. |
 | General information about the safe and effective use of VICTOZA.Medicines are sometimes prescribed for purposes other than those listed in a Medication Guide. Do not use VICTOZA for a condition for which it was not prescribed. Do not give VICTOZA to other people, even if they have the same symptoms that you have. It may harm them. If you would like more information, talk with your healthcare provider. You can ask your pharmacist or healthcare provider for information about VICTOZA that is written for health professionals. |
 | What are the ingredients in VICTOZA? Active Ingredient: liraglutide Inactive Ingredients: disodium phosphate dihydrate, propylene glycol, phenol and water for injection |
-| This Medication Guide has been approved by the U.S. Food and Drug Administration.Manufactured by: Novo Nordisk A/S, DK-2880 Bagsvaerd, DenmarkVictoza® is a registered trademark of Novo Nordisk A/S.For more information, go to victoza.com or call 1-877-484-2869.PATENT Information: http://novonordisk-us.com/patients/products/product-patents.html© 2010-2019 Novo Nordisk Revised: June 2019 |
+| This Medication Guide has been approved by the U.S. Food and Drug Administration.Manufactured by: Novo Nordisk A/S, DK-2880 Bagsvaerd, DenmarkVictoza® is a registered trademark of Novo Nordisk A/S.For more information, go to victoza.com or call 1-877-484-2869.PATENT Information: http://novonordisk-us.com/patients/products/product-patents.html© 2010-2020 Novo Nordisk Revised: August 2020 |
 
 INSTRUCTIONS FOR USE
 
 Victoza (liraglutide) injection
 
-First read the Medication Guide that comes with your Victoza pen and then read this Patient Instructions for Use for information about how to use your Victoza pen the right way.
+First read the Medication Guide that comes with your Victoza single-patient use pen and then read this Patient Instructions for Use for information about how to use your Victoza pen the right way.
 
 These instructions do not take the place of talking with your healthcare provider about your medical condition or your treatment.
 
 Do not share your Victoza Pen with other people, even if the needle has been changed.
 You may give other people a serious infection, or get a serious infection from them.
 
-Your Victoza pen contains 3 mL of Victoza and will deliver doses of 0.6 mg, 1.2 mg or 1.8 mg.
+Your Victoza pen is a disposable single-patient-use prefilled pen injector that contains 3 mL of Victoza and will deliver doses of 0.6 mg, 1.2 mg or 1.8 mg.
 The number of doses that you can take with a Victoza pen depends on the dose of medicine that is prescribed for you.
 Your healthcare provider will tell you how much Victoza to take.
 
@@ -34,13 +34,11 @@ Talk to your healthcare provider or pharmacist for more information about needle
 Important Information
 
 - Δ Always use a new needle for each injection to prevent contamination.
-- Δ Always remove the needle after each injection, and store your pen without the needle
-- attached.
-  This reduces the risk of contamination, infection, leakage of liraglutide,
-- blocked needles and inaccurate dosing.
+- Δ Always remove the needle after each injection, and store your pen without the needle attached.
+  This reduces the risk of
+- contamination, infection, leakage of liraglutide, blocked needles and inaccurate dosing.
 - Δ Keep your Victoza pen and all medicines out of the reach of children.
-- Δ If you drop your Victoza pen, repeat “First Time Use For Each New Pen” (steps A
-- through D).
+- Δ If you drop your Victoza pen, repeat “First Time Use For Each New Pen” (steps A through D).
 - Δ Be careful not to bend or damage the needle.
 - Δ Do not use the cartridge scale to measure how much Victoza to inject.
 - Δ Be careful when handling used needles to avoid needle stick injuries.
@@ -183,12 +181,12 @@ Before use:
 
 Pen in use:
 
-- •Store your Victoza pen for 30 days at 59ºF to 86ºF (15ºC to 30ºC), or in a refrigerator at 36ºF to 46ºF (2°C to 8°C).
+- •Use a Victoza pen for only 30 days.
+  Throw away a used Victoza pen 30 days after you start using it, even if some medicine is left in the pen.
+- •Store your Victoza pen at 59ºF to 86ºF (15ºC to 30ºC), or in a refrigerator at 36ºF to 46ºF (2°C to 8°C).
 - •When carrying the pen away from home, store the pen at a temperature between 59ºF to 86ºF (15ºC to 30ºC).
 - •If Victoza has been exposed to temperatures above 86ºF (30°C), it should be thrown away.
 - •Protect your Victoza pen from heat and sunlight.
 - •Keep the pen cap on when your Victoza pen is not in use.
 - •Always remove the needle after each injection and store your pen without the needle attached.
   This reduces the risk of contamination, infection, leakage and inaccurate dosing.
-- •Use a Victoza pen for only 30 days.
-  Throw away a used Victoza pen after 30 days, even if some medicine is left in the pen.

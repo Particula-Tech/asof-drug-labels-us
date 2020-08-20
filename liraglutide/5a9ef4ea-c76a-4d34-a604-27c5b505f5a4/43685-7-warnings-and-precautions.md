@@ -59,7 +59,7 @@ Use caution when initiating or escalating doses of VICTOZA in patients with rena
 
 There have been postmarketing reports of serious hypersensitivity reactions (e.g., anaphylactic reactions and angioedema) in patients treated with VICTOZA.
 If a hypersensitivity reaction occurs, discontinue VICTOZA; treat promptly per standard of care, and monitor until signs and symptoms resolve.
-Do not use in patients with a previous hypersensitivity reaction to VICTOZA [seeContraindications (4)].
+Do not use in patients with a previous hypersensitivity reaction to VICTOZA [see Contraindications (4)].
 
 Anaphylaxis and angioedema have been reported with other GLP-1 receptor agonists.
 Use caution in a patient with a history of anaphylaxis or angioedema with another GLP-receptor agonist because it is unknown whether such patients will be predisposed to these reactions with VICTOZA.

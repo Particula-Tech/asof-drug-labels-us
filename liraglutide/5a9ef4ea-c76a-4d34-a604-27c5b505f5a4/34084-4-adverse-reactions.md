@@ -146,7 +146,7 @@ Antibodies that had a neutralizing effect on liraglutide in an in vitro assay oc
 Antibody formation was not associated with reduced efficacy of VICTOZA when comparing mean HbA1c of all antibody-positive and all antibody-negative patients.
 However, the 3 patients with the highest titers of anti-liraglutide antibodies had no reduction in HbA1c with VICTOZA treatment.
 
-In five double-blind glycemic control trials of VICTOZA, events from a composite of adverse events potentially related to immunogenicity (e.g. urticaria, angioedema) occurred among 0.8% of VICTOZA-treated patients and among 0.4% of comparator-treated patients.
+In five double-blind glycemic control trials of VICTOZA, events from a composite of adverse events potentially related to immunogenicity (e.g., urticaria, angioedema) occurred among 0.8% of VICTOZA-treated patients and among 0.4% of comparator-treated patients.
 Urticaria accounted for approximately one-half of the events in this composite for VICTOZA-treated patients.
 Patients who developed anti-liraglutide antibodies were not more likely to develop events from the immunogenicity events composite than were patients who did not develop anti-liraglutide antibodies.
 
