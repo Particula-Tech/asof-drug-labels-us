@@ -27,7 +27,7 @@ Contraception
 ## 17.2 Development of Lymphoma and Other Malignancies
 
 - Inform patients that they are at increased risk of developing lymphomas and other malignancies, particularly of the skin, due to immunosuppression [see Warnings and Precautions (5.2)].
-- Advise patients to limit exposure to sunlight and ultraviolet (UV) light by wearing protective clothing and use of sunscreen with high protection factor.
+- Advise patients to limit exposure to sunlight and ultraviolet (UV) light by wearing protective clothing and use of broad-spectrum sunscreen with high protection factor.
 
 ## 17.3 Increased Risk of Serious Infections
 
@@ -66,7 +66,7 @@ Advise patients not to donate blood during therapy and for at least 6 weeks foll
 
 Advise males of childbearing potential not to donate semen during therapy and for 90 days following discontinuation of mycophenolate mofetil.
 
-## 17.10 Potential to Affect Driving and Use of Machinery
+## 17.10 Potential to Impair Driving and Use of Machinery
 
 Advise patients that mycophenolate mofetil can affect the ability to drive or operate machines.
 Patients should avoid driving or operating machines if they experience somnolence, confusion, dizziness, tremor or hypotension during treatment with mycophenolate mofetil.
@@ -75,6 +75,6 @@ Manufactured in India by: Alkem Laboratories Limited H.O.: ALKEM HOUSE, Senapati
 
 Distributed by: Ascend Laboratories, LLC Parsippany, NJ 07054
 
-PT 2075-06
+PT 2075-07
 
-Revised: March, 2019
+Revised: February,2020

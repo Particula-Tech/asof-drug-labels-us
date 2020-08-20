@@ -36,5 +36,5 @@ Drug Interactions with Mycophenolate Mofetil that Affect Other Drugs
 | Prevention or Management | Monitor for drug-related adverse reactions in patients with renal impairment |
 | Examples | Acyclovir, ganciclovir, probenecid, valacyclovir, valganciclovir |
 | Combination Oral Contraceptives |  |
-| Clinical Impact | Concomitant use with mycophenolate mofetildecreased the systemic exposure to levonorgestrel, but did not affect the systemic exposure to ethinylestradiol [see Clinical Pharmacology (12.3)], which may result in reduced combination oral contraceptive effectiveness. |
+| Clinical Impact | Concomitant use with mycophenolate mofetil decreased the systemic exposure to levonorgestrel, but did not affect the systemic exposure to ethinylestradiol [see Clinical Pharmacology (12.3)], which may result in reduced combination oral contraceptive effectiveness. |
 | Prevention or Management | Use additional barrier contraceptive methods. |

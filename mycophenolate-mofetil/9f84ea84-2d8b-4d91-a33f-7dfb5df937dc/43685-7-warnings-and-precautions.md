@@ -10,7 +10,7 @@ Avoid use of MMF during pregnancy if safer treatment options are available [see 
 
 Patients receiving immunosuppressants, including mycophenolate mofetil, are at increased risk of developing lymphomas and other malignancies, particularly of the skin [see Adverse Reactions (6.1)].
 The risk appears to be related to the intensity and duration of immunosuppression rather than to the use of any specific agent.
-For patients with increased risk for skin cancer, exposure to sunlight and UV light should be limited by wearing protective clothing and using a sunscreen with a high protection factor.
+For patients with increased risk for skin cancer, exposure to sunlight and UV light should be limited by wearing protective clothing and using a broad-spectrum sunscreen with a high protection factor.
 Post-transplant lymphoproliferative disorder (PTLD) developed in 0.4% to 1% of patients receiving mycophenolate mofetil (2 g or 3 g) with other immunosuppressive agents in controlled clinical trials of kidney, heart and liver transplant patients [see Adverse Reactions (6.1)].
 The majority of PTLD cases appear to be related to Epstein Barr Virus (EBV) infection.
 The risk of PTLD appears greatest in those individuals who are EBV seronegative, a population which includes many young children.
@@ -64,13 +64,13 @@ In transplant patients, however, reduced immunosuppression may place the graft a
 Gastrointestinal bleeding requiring hospitalization, ulceration and perforations were observed in clinical trials.
 Physicians should be aware of these serious adverse effects particularly when administering mycophenolate mofetil to patients with a gastrointestinal disease.
 
-## 5.6 Patients with Hypoxanthine-Guanine Phosphoribosyl-Transferase Deficiency (HGRPT)
+## 5.6 Patients with Hypoxanthine-Guanine Phosphoribosyl-Transferase Deficiency (HGPRT)
 
 Mycophenolate mofetil is an inosine monophosphate dehydrogenase (IMPDH) inhibitor; therefore it should be avoided in patients with hereditary deficiencies of hypoxanthine-guanine phosphoribosyl-transferase (HGPRT) such as Lesch-Nyhan and Kelley-Seegmiller syndromes because it may cause an exacerbation of disease symptoms characterized by the overproduction and accumulation of uric acid leading to symptoms associated with gout such as acute arthritis, tophi, nephrolithiasis or urolithiasis and renal disease including renal failure.
 
 ## 5.7 Immunizations
 
-During treatment with mycophenolate mofetil, the use of live attenuated vaccines should be avoided and patients should be advised that vaccinations may be less effective.
+During treatment with mycophenolate mofetil, the use of live attenuated vaccines should be avoided (e.g., intranasal influenza, measles, mumps, rubella, oral polio, BCG, yellow fever, varicella, and TY21a typhoid vaccines) and patients should be advised that vaccinations may be less effective.
 Advise patients to discuss with the physician before seeking any immunizations.
 
 ## 5.8 Local Reactions with Rapid Intravenous Administration

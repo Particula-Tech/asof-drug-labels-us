@@ -5,14 +5,14 @@
 Adults
 
 The three de novo kidney transplantation studies compared two dose levels of oral mycophenolate mofetil (1 g twice daily and 1.5 g twice daily) with azathioprine (2 studies) or placebo (1 study) to prevent acute rejection episodes.
-One of the two studies with azathioprine (AZA®) control arm also included anti-thymocyte globulin (ATGAM) induction therapy.
+One of the two studies with azathioprine (AZA®) control arm also included anti-thymocyte globulin (ATGAM®) induction therapy.
 The geographic location of the investigational sites of these studies are included in Table 11
 
 In all three de novo kidney transplantation studies, the primary efficacy endpoint was the proportion of patients in each treatment group who experienced treatment failure within the first 6 months after transplantation.
 Treatment failure was defined as biopsy-proven acute rejection on treatment or the occurrence of death, graft loss or early termination from the study for any reason without prior biopsy-proven rejection.
 
-Mycophenolate mofetil, in combination with corticosteroids and cyclosporine, reduced (statistically significant at 0.05 level) the incidence of treatment failure within the first 6 months following transplantation (Table 11.
-Patients who prematurely discontinued treatment were followed for the occurrence of death or graft loss, and the cumulative incidence of graft loss and patient death combined are summarized in Table 11 Patients who prematurely discontinued treatment were not followed for the occurrence of acute rejection after termination.
+Mycophenolate mofetil, in combination with corticosteroids and cyclosporine, reduced (statistically significant at 0.05 level) the incidence of treatment failure within the first 6 months following transplantation (Table 11).
+Patients who prematurely discontinued treatment were followed for the occurrence of death or graft loss, and the cumulative incidence of graft loss and patient death combined are summarized in Table 12 Patients who prematurely discontinued treatment were not followed for the occurrence of acute rejection after termination.
 
 Table 11.
 Treatment Failure in De Novo Kidney Transplantation Studies
@@ -25,8 +25,8 @@ Treatment Failure in De Novo Kidney Transplantation Studies
 | Biopsy-proven rejection episode on treatment | 19.8% | 17.5% | 38.0% |
 | Europe/Canada/ Australia Study (N=503 patients) | Mycophenolate Mofetil 2 g/day (n=173 patients) | Mycophenolate Mofetil 3 g/day (n=164 patients) | AZA 100 to 150 mg/day(n=166 patients) |
 |  | No induction treatment administered; all 3 groups received cyclosporine and corticosteroids. |  |  |
-| All treatment failures | 38.2% | 34.8% | 34.8% |
-| Early termination without prior acute rejectionb | 13.9% | 15.2% | 15.2% |
+| All treatment failures | 38.2% | 34.8% | 50.0% |
+| Early termination without prior acute rejectionb | 13.9% | 15.2% | 10.2% |
 | Biopsy-proven rejection episode on treatment | 19.7% | 15.9% | 35.5% |
 | Europe Studyd (N=491 patients) | Mycophenolate Mofetil g/day (n=165 patients) | Mycophenolate Mofetil g/day (n=160 patients) | Placebo (n=166 patients) |
 | No induction treatment administered; all 3 groups received cyclosporine and corticosteroids. |  |  |  |

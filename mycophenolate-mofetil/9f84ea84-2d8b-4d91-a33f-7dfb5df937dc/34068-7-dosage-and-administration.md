@@ -1,6 +1,6 @@
 # 2 DOSAGE & ADMINISTRATION
 
-## 2.1 Important Administration Instruction
+## 2.1 Important Administration Instructions
 
 Mycophenolate Mofetil Capsules, Tablets and Oral Suspension Mycophenolate mofetil should not be used without the supervision of a physician with experience in immunosuppressive therapy.
 
@@ -59,7 +59,7 @@ Neutropenia
 
 If neutropenia develops (ANC less than 1.3 x 103/mcL), dosing with mycophenolate mofetil should be interrupted or reduced, appropriate diagnostic tests performed, and the patient managed appropriately [see Warnings and Precautions (5.4) and Adverse Reactions (6.1)].
 
-## 2.6 Preparation of Oral Suspension and Intravenous for Pharmacists
+## 2.6 Preparation Instructions of Oral Suspension and Intravenous for Pharmacists
 
 General Preparation Instructions Before Handling the Formulations
 
@@ -94,7 +94,7 @@ The following are the steps for reconstitution:
 8. Dispense with the “Instruction for Use” and oral dispensers.
    Alert patients to read the important handling information described in the instructions for use.
 
-Store reconstituted suspension at 25°C (77°F); excursions permitted to 15° to 30°C (59° to 86°F).
+Store reconstituted suspension at 25°C (77°F); excursions permitted to 15°C to 30°C (59°F to 86°F).
 Storage in a refrigerator at 2°C to 8°C (36°F to 46°F) is acceptable.
 Do not freeze.
 Discard any unused portion 60 days after constitution.

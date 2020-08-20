@@ -31,74 +31,74 @@ In the de novo liver transplantation study with 12-month duration, patients rece
 The total number of patients enrolled was 565.
 
 Approximately 53% of the kidney transplant patients, 65% of the heart transplant patients, and 48% of the liver transplant patients were treated for more than 1 year.
-Adverse reactions reported in ≥20% of patients in the mycophenolate mofetil treatment groups are presented below.
-The safety data of three kidney transplantation studies are pooled together.
+Adverse reactions reported in ≥20% of patients in the mycophenolate mofetil
 
+treatment groups are presented below.
+The safety data of three kidney transplantation studies are pooled together.
 Table 3.
 Adverse Reactions in Controlled Studies of De Novo Kidney, Heart or Liver Transplantation Reported in ≥20% of Patients in the Mycophenolate Mofetil Group
 
-| Adverse drug reaction | Kidney Studies |  |  |  |  | Heart Study |  | Liver Study |  |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-|  | Mycophenolate Mofetil 2g/day (n=501) or 3g/day (n=490) |  | AZA 1 to 2 mg/kg/day or 100 to 150 mg/day | Placebo (n=166) |  | Mycophenolate Mofetil 3g/day | AZA 1.5 to 3 mg/kg/day | Mycophenolate Mofetil 3g/day | AZA 1 to 2 mg/kg/day |
-|  | (n=991) |  | (n=326) | (n=166) |  | (n=289) | (n=289) | (n=277) | (n=287) |
-|  | % |  | % | % |  | % | % | % | % |
-| Bacterial infections | 39.9 |  | 33.7 | 37.3 |  | - | - | 27.4 | 26.5 |
-| Viral infections | -a |  | - | - |  | 31.1 | 24.9 | - | - |
-| Anemia | 20.0 |  | 23.6 | 2.4 |  | 45.0 | 47.1 | 43.0 | 53.0 |
-| Ecchymosis | - |  | - | - |  | 20.1 | 9.7 | - | - |
-| Leukocytosis | - |  | - | - |  | 42.6 | 37.4 | 22.4 | 21.3 |
-| Leukopenia | 28.6 |  | 24.8 | 4.2 |  | 34.3 | 43.3 | 45.8 | 39.0 |
-| Thrombocytopenia | - |  | - | - |  | 24.2 | 28.0 | 38.3 | 42.2 |
-| Hypercholesterolemia | - |  | - | - |  | 46.0 | 43.9 | - | - |
-| Hyperglycemia | - |  | - | - |  | 48.4 | 53.3 | 43.7 | 48.8 |
-| Hyperkalemia | - |  | - | - |  | - | - | 22.0 | 23.7 |
-| Hypocalcemia | - |  | - | - |  | - | - | 30.0 | 30.0 |
-| Hypokalemia | - |  | - | - |  | 32.5 | 26.3 | 37.2 | 41.1 |
-| Hypomagnesemia | - |  | - | - |  | 20.1 | 14.2 | 39.0 | 37.6 |
-| Depression | - |  | - | - |  | 20.1 | 15.2 | - | - |
-| Insomnia | - |  | - |  |  | 43.3 | 39.8 | 52.3 | 47.0 |
-| Nervous system disorders |  |  |  |  |  |  |  |  |  |
-| Dizziness | - |  | - | - | 34.3 |  | 33.9 | - | - |
-| Headache | - |  | - | - | 58.5 |  | 55.4 | 53.8 | 49.1 |
-| Tremor | - |  | - | - | 26.3 |  | 25.6 | 33.9 | 35.5 |
-| Cardiac disorders |  |  |  |  |  |  |  |  |  |
-| Tachycardia | - |  | - | - | 22.8 |  | 21.8 | 22.0 | 15.7 |
-| Vascular disorders |  |  |  |  |  |  |  |  |  |
-| Hypertension | 27.5 |  | 32.2 | 19.3 | 78.9 |  | 74.0 | 62.1 | 59.6 |
-| Hypotension | - |  | - | - | 34.3 |  | 40.1 | - | - |
-| Respiratory, thoracic and mediastinal disorders |  |  |  |  |  |  |  |  |  |
-| Cough |  | - | - | - | 40.5 |  | 32.2 | - | - |
-| Dyspnea |  | - | - | - | 44.3 |  | 44.3 | 31.0 | 30.3 |
-| Pleural effusion |  | - | - | - | - |  | - | 34.3 | 35.9 |
-| Gastrointestinal disorders |  |  |  |  |  |  |  |  |  |
-| Abdominal pain | 22.4 |  | 23.0 | 11.4 | 41.9 |  | 39.4 | 62.5 | 51.2 |
-| Constipation | - |  | - | - | 43.6 |  | 38.8 | 37.9 | 38.3 |
-| Decreased appetite | - |  | - | - | - |  | - | 25.3 | 17.1 |
-| Diarrhea | 30.4 |  | 20.9 | 13.9 | 52.6 |  | 39.4 | 51.3 | 49.8 |
-| Dyspepsia | - |  | - | - | 22.1 |  | 22.1 | 22.4 | 20.9 |
-| Nausea | - |  | - | - | 56.1 |  | 60.2 | 54.5 | 51.2 |
-| Vomiting | - |  | - | - | 39.1 |  | 34.6 | 32.9 | 33.4 |
-| Hepatobiliary disorders |  |  |  |  |  |  |  |  |  |
-| Blood lactate dehydrogenase increased | - |  | - | - | 23.5 |  | 18.3 | - | - |
-| Hepatic enzyme increased | - |  | - | - | - |  | - | 24.9 | 19.2 |
-| Skin and subcutaneous tissues disorders |  |  |  |  |  |  |  |  |  |
-| Rash | - |  | - | - | 26.0 |  | 20.8 | - | - |
-| Renal and urinary disorders |  |  |  |  |  |  |  |  |  |
-| Blood creatinine increased | - |  | - | - | 42.2 |  | 39.8 | - | - |
-| Blood urea increased | - |  | - | - | 36.7 |  | 34.3 | - | - |
-| General disorders and administration site conditions |  |  |  |  |  |  |  |  |  |
-| Asthenia | - |  | - | - | 49.1 |  | 41.2 | 35.4 | 33.8 |
-| Edema b | 21.0 |  | 28.2 | 8.4 | 67.5 |  | 55.7 | 48.4 | 47.7 |
-| Pain c | 24.8 |  | 32.2 | 9.6 | 79.2 |  | 77.5 | 74.0 | 77.5 |
-| Pyrexia | - |  | - | - | 56.4 |  | 53.6 | 52.3 | 56.1 |
+| Adverse drug reaction | Kidney Studies |  |  | Heart Study |  | Liver Study |  |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+|  | Mycophenolate Mofetil 2g/day (n=501) or 3g/day (n=490) | AZA 1 to 2 mg/kg/day or 100 to 150 mg/day | Placebo (n=166) | Mycophenolate Mofetil 3g/day | AZA 1.5 to 3 mg/kg/day | Mycophenolate Mofetil 3g/day | AZA 1 to 2 mg/kg/day |
+|  | (n=991) | (n=326) | (n=166) | (n=289) | (n=289) | (n=277) | (n=287) |
+|  | % | % | % | % | % | % | % |
+| Infections and infestations |  |  |  |  |  |  |  |
+| Bacterial infections | 39.9 | 33.7 | 37.3 | - | - | 27.4 | 26.5 |
+| Viral infections | -a | - | - | 31.1 | 24.9 | - | - |
+| Blood and lymphatic system disorders |  |  |  |  |  |  |  |
+| Anemia | 20.0 | 23.6 | 2.4 | 45.0 | 47.1 | 43.0 | 53.0 |
+| Ecchymosis | - | - | - | 20.1 | 9.7 | - | - |
+| Leukocytosis | - | - | - | 42.6 | 37.4 | 22.4 | 21.3 |
+| Leukopenia | 28.6 | 24.8 | 4.2 | 34.3 | 43.3 | 45.8 | 39.0 |
+| Thrombocytopenia | - | - | - | 24.2 | 28.0 | 38.3 | 42.2 |
+| Metabolism and nutrition disorders |  |  |  |  |  |  |  |
+| Hypercholesterolemia | - | - | - | 46.0 | 43.9 | - | - |
+| Hyperglycemia | - | - | - | 48.4 | 53.3 | 43.7 | 48.8 |
+| Hyperkalemia | - | - | - | - | - | 22.0 | 23.7 |
+| Hypocalcemia | - | - | - | - | - | 30.0 | 30.0 |
+| Hypokalemia | - | - | - | 32.5 | 26.3 | 37.2 | 41.1 |
+| Hypomagnesemia | - | - | - | 20.1 | 14.2 | 39.0 | 37.6 |
+| Psychiatric disorders |  |  |  |  |  |  |  |
+| Depression | - | - | - | 20.1 | 15.2 | - | - |
+| Insomnia | - | - |  | 43.3 | 39.8 | 52.3 | 47.0 |
+| Nervous system disorders |  |  |  |  |  |  |  |
+| Dizziness | - | - | - | 34.3 | 33.9 | - | - |
+| Headache | - | - | - | 58.5 | 55.4 | 53.8 | 49.1 |
+| Tremor | - | - | - | 26.3 | 25.6 | 33.9 | 35.5 |
+| Cardiac disorders |  |  |  |  |  |  |  |
+| Tachycardia | - | - | - | 22.8 | 21.8 | 22.0 | 15.7 |
+| Vascular disorders |  |  |  |  |  |  |  |
+| Hypertension | 27.5 | 32.2 | 19.3 | 78.9 | 74.0 | 62.1 | 59.6 |
+| Hypotension | - | - | - | 34.3 | 40.1 | - | - |
+| Respiratory, thoracic and mediastinal disorders |  |  |  |  |  |  |  |
+| Cough | - | - | - | 40.5 | 32.2 | - | - |
+| Dyspnea | - | - | - | 44.3 | 44.3 | 31.0 | 30.3 |
+| Pleural effusion | - | - | - | - | - | 34.3 | 35.9 |
+| Gastrointestinal disorders |  |  |  |  |  |  |  |
+| Abdominal pain | 22.4 | 23.0 | 11.4 | 41.9 | 39.4 | 62.5 | 51.2 |
+| Constipation | - | - | - | 43.6 | 38.8 | 37.9 | 38.3 |
+| Decreased appetite | - | - | - | - | - | 25.3 | 17.1 |
+| Diarrhea | 30.4 | 20.9 | 13.9 | 52.6 | 39.4 | 51.3 | 49.8 |
+| Dyspepsia | - | - | - | 22.1 | 22.1 | 22.4 | 20.9 |
+| Nausea | - | - | - | 56.1 | 60.2 | 54.5 | 51.2 |
+| Vomiting | - | - | - | 39.1 | 34.6 | 32.9 | 33.4 |
+| Hepatobiliary disorders |  |  |  |  |  |  |  |
+| Blood lactate dehydrogenase increased | - | - | - | 23.5 | 18.3 | - | - |
+| Hepatic enzyme increased | - | - | - | - | - | 24.9 | 19.2 |
+| Skin and subcutaneous tissues disorders |  |  |  |  |  |  |  |
+| Rash | - | - | - | 26.0 | 20.8 | - | - |
+| Renal and urinary disorders |  |  |  |  |  |  |  |
+| Blood creatinine increased | - | - | - | 42.2 | 39.8 | - | - |
+| Blood urea increased | - | - | - | 36.7 | 34.3 | - | - |
+| General disorders and administration site conditions |  |  |  |  |  |  |  |
+| Asthenia | - | - | - | 49.1 | 41.2 | 35.4 | 33.8 |
+| Edemab | 21.0 | 28.2 | 8.4 | 67.5 | 55.7 | 48.4 | 47.7 |
+| Painc | 24.8 | 32.2 | 9.6 | 79.2 | 77.5 | 74.0 | 77.5 |
+| Pyrexia | - | - | - | 56.4 | 53.6 | 52.3 | 56.1 |
 
-a: “-” Indicates that the incidence was below the cutoff value of 20% for inclusion in the table.
-
-b: “Edema” includes peripheral edema, facial edema, scrotal edema.
-
-c: “Pain” includes musculoskeletal pain (myalgia, neck pain, back pain).
-
-In the three de novo kidney studies, patients receiving 2 g/day of mycophenolate mofetil had an overall better safety profile than did patients receiving 3 g/day of mycophenolate mofetil.
+a: “-” Indicates that the incidence was below the cutoff value of 20% for inclusion in the table. b: “Edema” includes peripheral edema, facial edema, scrotal edema. c: “Pain” includes musculoskeletal pain (myalgia, neck pain, back pain).
+In the three de novo kidney studies, patients receiving 2 g/day of mycophenolate mofetil had an overall better safety profile than did patients receiving 3 g/day of m1ycophenolate mofetil.
 
 Post-transplant lymphoproliferative disease (PTLD, pseudolymphoma) developed in 0.4% to 1% of patients receiving mycophenolate mofetil (2 g or 3 g daily) with other immunosuppressive agents in controlled clinical trials of kidney, heart and liver transplant patients followed for at least 1 year [see Warnings and Precautions (5.2)].
 Non-melanoma skin carcinomas occurred in 1.6% to 4.2% of patients, other types of malignancy in 0.7% to 2.1% of patients.
