@@ -1,6 +1,6 @@
 # 14 CLINICAL STUDIES
 
-## 14.1 Diarrhea Associated with Clostridium difficile
+## 14.1 Diarrhea Associated with Clostridioides difficile
 
 In two trials, VANCOCIN 125 mg orally four times daily for 10 days was evaluated in 266 adult subjects with C. difficile-associated diarrhea (CDAD).
 Enrolled subjects were 18 years of age or older and received no more than 48 hours of treatment with oral VANCOCIN or oral/intravenous metronidazole in the 5 days preceding enrollment.
@@ -22,7 +22,7 @@ Table 2: Clinical Success Rates (Full Analysis Set)
 
 |  | Clinical Success Rate | 95% Confidence Interval |
 | --- | --- | --- |
-|  | VANCOCIN % (N) |  |
+| VANCOCIN % (N) |  |  |
 | Trial 1 | 81.3 (134) | (74.4, 88.3) |
 | Trial 2 | 80.8 (125) | (73.5, 88.1) |
 
