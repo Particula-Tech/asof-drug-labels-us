@@ -8,7 +8,7 @@ During clinical trials, 1401 subjects were exposed to adapalene and benzoyl pero
 A total of 1036 subjects with acne vulgaris, 12 years and older, were treated once daily for 12 weeks to 12 months.
 Related adverse events reported within 12 weeks of treatment and in at least 1% of subjects treated with adapalene and benzoyl peroxide gel and those reported in subjects treated with the vehicle gel are presented in Table 1:
 
-Table 1 Drug Related Adverse Events Reported in Clinical Trials by At Least 1% of Patients Treated For 12 Weeks
+Table 1: Drug Related Adverse Events Reported in Clinical Trials by At Least 1% of Patients Treated For 12 Weeks
 
 | System Organ Class/ Preferred Term | Adapalene and benzoyl peroxide gel N = 564 | Vehicle gel N = 489 |
 | --- | --- | --- |
@@ -21,7 +21,7 @@ Table 1 Drug Related Adverse Events Reported in Clinical Trials by At Least 1% o
 
 Local tolerability evaluations, presented in Table 2, were conducted at each study visit in clinical trials by assessment of erythema, scaling, dryness, burning, and stinging.
 
-Table 2 Incidence of Local Cutaneous Irritation in Controlled Clinical Trials (N = 553) Treatment Emergent Signs and Symptoms
+Table 2: Incidence of Local Cutaneous Irritation in Controlled Clinical Trials (N = 553) Treatment Emergent Signs and Symptoms
 
 |  | Mild | Moderate | Severe | Mild | Moderate | Severe |
 | --- | --- | --- | --- | --- | --- | --- |

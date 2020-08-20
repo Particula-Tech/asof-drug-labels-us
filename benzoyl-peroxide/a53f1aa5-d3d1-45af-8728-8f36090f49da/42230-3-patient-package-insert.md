@@ -6,7 +6,7 @@ Do not use adapalene and benzoyl peroxide gel in or on your mouth, eyes, or vagi
 Read this Patient Information leaflet about adapalene and benzoyl peroxide gel before you start using it and each time you get a refill.
 There may be new information.
 This leaflet does not take the place of talking with your doctor about your treatment or your medical condition.
-If you have any questions about adapalene and benzoyl peroxide gel, talk with your doctor or pharmacist
+If you have any questions about adapalene and benzoyl peroxide gel, talk with your doctor or pharmacist.
 
 What is adapalene and benzoyl peroxide gel?
 
@@ -116,4 +116,4 @@ Inactive ingredients: docusate sodium, edetate disodium, glycerin, poloxamer 124
 
 Mfd. by: Taro Pharmaceuticals Inc., Brampton, Ontario, Canada L6T 1C1
 
-Dist. by: Taro Pharmaceuticals U.S.A., Inc., Hawthorne, NY 10532 Issued: September, 2017 LPK-7373-0 144
+Dist. by: Taro Pharmaceuticals U.S.A., Inc., Hawthorne, NY 10532 Revised: February, 2020 LPK-7373-1 54
