@@ -8,7 +8,8 @@ IMPORTANT:
 
 Keep Buprenorphine Sublingual Tablets in a secure place away from children.
 Accidental use by a child is a medical emergency and can result in death.
-If a child accidentally uses Buprenorphine Sublingual Tablets, get emergency help right away.
+If a child accidentally uses Buprenorphine Sublingual Tablets, get emergency help or call 911 right away.
+Tell your healthcare provider if you are living in a household where there are small children.
 
 Read this Medication Guide that comes with Buprenorphine Sublingual Tablets before you start taking it and each time you get a refill.
 There may be new information.
@@ -19,7 +20,8 @@ Share the important information in this Medication Guide with members of your ho
 
 What is the most important information I should know about Buprenorphine Sublingual Tablets?
 
-- •Buprenorphine is a medicine in Buprenorphine Sublingual Tablets that can cause serious and life-threatening problems, especially if you take or use certain other medicines or drugs.
+- •Buprenorphine Sublingual Tablets contains a medicine called buprenorphine.
+  Buprenorphine is an opioid that can cause serious and life-threatening problems, especially if you take or use certain other medicines or drugs.
   Call your healthcare provider right away or get emergency help if you:
 
 | ofeel faint or dizzy | ocannot think well or clearly |
@@ -33,6 +35,8 @@ What is the most important information I should know about Buprenorphine Subling
 
 - These can be signs of an overdose or other serious problems.
 
+- •Talk to your healthcare provider about naloxone.
+  Naloxone is a medicine that is available to patients for the emergency treatment of an opioid overdose, including accidental use of Buprenorphine Sublingual Tablets by a child.
 - •Do not switch from Buprenorphine Sublingual Tablets to other medicines that contain buprenorphine without talking with your doctor.
   The amount of buprenorphine in a dose of Buprenorphine Sublingual Tablets is not the same as the amount of buprenorphine in other medicines that contain buprenorphine.
   Your doctor will prescribe a starting dose of Buprenorphine Sublingual Tablets that may be different than other buprenorphine containing medicines you may have been taking.
@@ -216,10 +220,12 @@ Inactive ingredients: citric acid anhydrous, corn starch, crospovidone, lactose 
 
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
 
-Distr. by: Hikma Pharmaceuticals USA Inc.
+Distr. by: Hikma
+
+Pharmaceuticals USA Inc.
 
 Eatontown, NJ 07724
 
-C50000231/04
+C50000231/05
 
-Revised November 2019
+Revised July 2020
