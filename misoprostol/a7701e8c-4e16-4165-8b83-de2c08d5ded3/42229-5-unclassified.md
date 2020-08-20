@@ -1,1 +1,1 @@
-LAB-0552-5.0 June 2016
+LAB-0552-6.0 Issued July 2020

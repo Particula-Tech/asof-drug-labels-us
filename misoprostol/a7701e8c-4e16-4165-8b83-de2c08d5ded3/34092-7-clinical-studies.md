@@ -35,5 +35,5 @@ Table 4
 | Osteoarthritis patients with history of ulcer or erosive disease (N=572), 6 weeks | Incidence of ulcers |  |
 | Diclofenac sodium/misoprostol 50 three times a day | 3%Statistically significantly different from diclofenac (p<0.05) | 6% |
 | Diclofenac sodium/misoprostol 75 two times a day | 4% | 3% |
-| diclofenac sodium 75 mg two times a day | 11% | 7% |
+| Diclofenac sodium 75 mg two times a day | 11% | 7% |
 | Placebo | 3% | 1% |
