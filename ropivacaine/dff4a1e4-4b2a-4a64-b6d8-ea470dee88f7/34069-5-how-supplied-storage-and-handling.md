@@ -1,19 +1,19 @@
-# HOW SUPPLIED:
+# HOW SUPPLIED
 
 Naropin® Single Dose Vials
 
-| Product No. | NDC No. | Strength | Size |
+| Product Code | Unit of Sale | Strength | Each |
 | --- | --- | --- | --- |
-| PRX278523 | 63323-285-28 | 2 mg/mL (0.2%) | 20 mL fill, in a 20 mL single dose vial, in packages of 25. |
-| PRX278623 | 63323-286-27 | 5 mg/mL (0.5%) | 20 mL fill, in a 20 mL single dose vial, in packages of 25. |
-| PRX278635 | 63323-286-38 | 5 mg/mL (0.5%) | 30 mL fill, in a 30 mL single dose vial, in packages of 25. |
+| PRX278523 | NDC 63323-285-28 Unit of 25 | 0.2% 40 mg per 20 mL (2 mg per mL) | NDC 63323-285-41 20 mL Single Dose Vial |
+| PRX278623 | NDC 63323-286-27 Unit of 25 | 0.5% 100 mg per 20 mL (5 mg per mL) | NDC 63323-286-41 20 mL Single Dose Vial |
+| PRX278635 | NDC 63323-286-38 Unit of 25 | 0.5% 150 mg per 30 mL (5 mg per mL) | NDC 63323-286-43 30 mL Single Dose Vial |
 
 Naropin® Single Dose Infusion Bottles
 
-| Product No. | NDC No. | Strength | Size |
+| Product Code | Unit of Sale | Strength | Each |
 | --- | --- | --- | --- |
-| PRX278565 | 63323-285-68 | 2 mg/mL (0.2%) | 100 mL Infusion Bottle. |
-| PRX278564 | 63323-285-73 | 2 mg/mL (0.2%) | 200 mL Infusion Bottle. |
+| PRX278565 | NDC 63323-285-68 Unit of 12 | 0.2% 200 mg per 100 mL (2 mg per mL) | NDC 63323-285-53 100 mL Single Dose Infusion Bottle |
+| PRX278564 | NDC 63323-285-73 Unit of 12 | 0.2% 400 mg per 200 mL (2 mg per mL) | NDC 63323-285-59 200 mL Single Dose Infusion Bottle |
 
 The solubility of ropivacaine is limited at pH above 6.
 Thus, care must be taken as precipitation may occur if Naropin is mixed with alkaline solutions.
@@ -31,14 +31,14 @@ Any solution remaining from an opened container should be discarded promptly.
 In addition, continuous infusion bottles should not be left in place for more than 24 hours.
 NAROPIN is a trademark of Fresenius Kabi USA, LLC.
 
-PREMIERPro™ Rx is a trademark of Premier, Inc., used under license.
+PREMIERProRx® is a registered trademark of Premier Healthcare Alliance, L.P., used under license.
 
 Manufactured by:
 
 Fresenius Kabi
 
-Lake Zurich, IL 60047 www.fresenius-kabi.us
+Lake Zurich, IL 60047 www.fresenius-kabi.com/us
 
-451350B
+451350C
 
-Revised: June 2017
+Revised: June 2020

@@ -1,3 +1,5 @@
+Rx only
+
 # MANAGEMENT OF LOCAL ANESTHETIC EMERGENCIES:
 
 Therapy with Naropin should be discontinued at the first sign of toxicity.
