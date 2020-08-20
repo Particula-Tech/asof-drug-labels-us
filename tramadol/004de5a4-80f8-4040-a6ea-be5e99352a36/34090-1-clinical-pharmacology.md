@@ -40,7 +40,7 @@ Overall, the effects of opioids appear to be modestly immunosuppressive.
 Concentration–Efficacy Relationships The minimum effective analgesic concentration will vary widely among patients, especially among patients who have been previously treated with potent opioid agonists.
 The minimum effective analgesic concentration of tramadol for any individual patient may increase over time due to an increase in pain, the development of a new pain syndrome, and/or the development of analgesic tolerance [see Dosage and Administration (2.1)].
 Concentration–Adverse Reaction Relationships There is a relationship between increasing tramadol plasma concentration and increasing frequency of dose-related opioid adverse reactions such as nausea, vomiting, CNS effects, and respiratory depression.
-In opioid-tolerant patients, the situation may be altered by the development of tolerance to opioid-related adverse reactions [see Dosage and Administration (2.1, 2.2)].
+In opioid-tolerant patients, the situation may be altered by the development of tolerance to opioid-related adverse reactions [see Dosage and Administration (2.1, 2.3)].
 
 ## 12.3 Pharmacokinetics
 
@@ -100,7 +100,7 @@ Dosage adjustment based on sex is not recommended.
 Age: Geriatric Population The effect of age on pharmacokinetics of tramadol hydrochloride extended-release tablets has not been studied.
 Healthy elderly subjects aged 65 to 75 years administered an immediate-release formulation of tramadol, have plasma concentrations and elimination half-lives comparable to those observed in healthy subjects younger than 65 years of age.
 In subjects over 75 years, mean maximum plasma concentrations are elevated (208 vs. 162 ng/mL) and the mean elimination half-life is prolonged (7 vs. 6 hours) compared to subjects 65 to 75 years of age.
-Adjustment of the daily dose is recommended for patients older than 75 years [see Dosage and Administration (2.3)].
+Adjustment of the daily dose is recommended for patients older than 75 years [see Dosage and Administration (2.4)].
 Drug Interaction Studies Potential for Tramadol to Affect Other Drugs In vitro studies indicate that tramadol is unlikely to inhibit the CYP3A4-mediated metabolism of other drugs when tramadol is administered concomitantly at therapeutic doses.
 Tramadol does not appear to induce its own metabolism in humans, since observed maximal plasma concentrations after multiple oral doses are higher than expected based on single-dose data.
 Poor/Extensive Metabolizers, CYP2D6 The formation of the active metabolite, M1, is mediated by CYP2D6, a polymorphic enzyme.

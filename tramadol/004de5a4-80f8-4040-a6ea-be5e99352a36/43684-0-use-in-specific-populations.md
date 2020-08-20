@@ -80,7 +80,7 @@ Because of the risk of life-threatening respiratory depression and death:
 Nine-hundred-one elderly (65 years of age or older) subjects were exposed to tramadol hydrochloride extended-release tablets in clinical trials.
 Of those subjects, 156 were 75 years of age and older.
 In general, higher incidence rates of adverse events were observed for patients older than 65 years of age compared with patients 65 years and younger, particularly for the following adverse events: constipation, fatigue, weakness, postural hypotension and dyspepsia.
-For this reason, tramadol hydrochloride extended-release tablets should be used with caution in patients over 65 years of age, and with even greater caution in patients older than 75 years of age [see Dosage and Administration (2.4), Clinical Pharmacology (12.3)].
+For this reason, tramadol hydrochloride extended-release tablets should be used with caution in patients over 65 years of age, and with even greater caution in patients older than 75 years of age [see Dosage and Administration (2.5), Clinical Pharmacology (12.3)].
 Respiratory depression is the chief risk for elderly patients treated with opioids, and has occurred after large initial doses were administered to patients who were not opioidtolerant or when opioids were co-administered with other agents that depress respiration.
 Titrate the dosage of tramadol hydrochloride extended-release tablets slowly in geriatric patients and monitor closely for signs of central nervous system and respiratory depression [see Warnings and Precautions (5.12)].
 Tramadol is known to be substantially excreted by the kidney, and the risk of adverse reactions to this drug may be greater in patients with impaired renal function.

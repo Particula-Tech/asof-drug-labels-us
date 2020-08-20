@@ -13,7 +13,18 @@ Tramadol hydrochloride extended-release tablets should be prescribed only by hea
   Crushing, chewing, splitting, or dissolving tramadol hydrochloride extended-release tablets will result in uncontrolled delivery of tramadol and can lead to overdose or death [see Warnings and Precautions (5.1)].
 - Tramadol hydrochloride extended-release tablets may be taken without regard to food, It is recommended that tramadol hydrochloride extended-release tablets be taken in a consistent manner [see Clinical Pharmacology (12.3)].
 
-## 2.2 Initial Dosage
+## 2.2 Patient Access to Naloxone for the Emergency Treatment of Opioid Overdose
+
+Discuss the availability of naloxone for the emergency treatment of opioid overdose with the patient and caregiver and assess the potential need for access to naloxone, both when initiating and renewing treatment with tramadol hydrochloride extended-release tablets [see Warnings and Precautions (5.3), Patient Counseling Information (17)].
+
+Inform patients and caregivers about the various ways to obtain naloxone as permitted by individual state naloxone dispensing and prescribing requirements or guidelines (e.g., by prescription, directly from a pharmacist, or as part of a community-based program).
+
+Consider prescribing naloxone, based on the patient’s risk factors for overdose, such as concomitant use of CNS depressants, a history of opioid use disorder, or prior opioid overdose.
+The presence of risk factors for overdose should not prevent the proper management of pain in any given patient [see Warnings and Precautions (5.1, 5.3, 5.7)].
+
+Consider prescribing naloxone if the patient has household members (including children) or other close contacts at risk for accidental ingestion or overdose.
+
+## 2.3 Initial Dosage
 
 Patients Not Currently on a Tramadol Product
 
@@ -30,7 +41,7 @@ Discontinue all other around-the-clock opioid drugs when tramadol hydrochloride 
 There are no established conversion ratios for conversion from other opioids to tramadol hydrochloride extended-release tablets defined by clinical trials.
 Initiate dosing using tramadol hydrochloride extended-release tablet 100 mg once a day.
 
-## 2.3 Titration and Maintenance of Therapy
+## 2.4 Titration and Maintenance of Therapy
 
 Individually titrate tramadol hydrochloride extended-release tablets by 100 mg every five days to a dose that provides adequate analgesia and minimizes adverse reactions.
 The maximum daily dose of tramadol hydrochloride extended-release tablets is 300 mg per day.
@@ -45,7 +56,7 @@ If the level of pain increases after dosage stabilization, attempt to identify t
 If unacceptable opioid-related adverse reactions are observed, consider reducing the dosage.
 Adjust the dosage to obtain an appropriate balance between management of pain and opioid-related adverse reactions.
 
-## 2.4 Safe Reduction or Discontinuation of Tramadol Hydrochloride Extended-Release Tablets
+## 2.5 Safe Reduction or Discontinuation of Tramadol Hydrochloride Extended-Release Tablets
 
 Do not abruptly discontinue tramadol hydrochloride extended-release tablets in patients who may be physically dependent on opioids.
 Rapid discontinuation of opioid analgesics in patients who are physically dependent on opioids has resulted in serious withdrawal symptoms, uncontrolled pain, and suicide.
