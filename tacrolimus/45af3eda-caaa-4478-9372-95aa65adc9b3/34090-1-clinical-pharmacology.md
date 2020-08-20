@@ -22,15 +22,14 @@ Pharmacokinetics Parameters (mean ± S.D.) of Tacrolimus in Healthy Volunteers a
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | Cmax (ng/mL) | Tmax(hr) | AUC (ng•hr/mL) | t1/2 (hr) | CL (L/hr/kg) | V (L/kg) |  |  |  |
 | Healthy Volunteers | 8 | IV (0.025 mg/kg/4hr) | not applicable |  | 652AUC0-inf ± 156 | 34.2 ± 7.7 | 0.040 ± 0.009 | 1.91 ± 0.31 |
-| 30 | PO (5 mg) (granules) | 35.6 ± 10.9 | 1.3 ± 0.5 | 320 ± 164 | 32.1 ± 5.9 | not available |  |  |
-| PO (5 mg) (capsules) | 28.8 ± 8.9 | 1.5 ± 0.7 | 266± 95 | 32.3 ± 8.8 |  |  |  |  |
+| 16 | PO (5 mg) (capsules) | 28.8 ± 8.9 | 1.5 ± 0.7 | 266± 95 | 32.3 ± 8.8 | not available |  |  |
 |  |  | IV (0.02 mg/kg/12 hr) |  |  | 294 ± 262 | 18.8 ± 16.7 | 0.083 ± 0.050 | 1.41 ± 0.66 |
 | Kidney Transplant Patients | 26 | PO (0.2 mg/kg/day) | 19.2 ± 10.3 | 3.0 | 203 ± 42 |  |  |  |
 |  |  | PO (0.3 mg/kg/day) | 24.2 ± 15.8 | 1.5 | 288 ± 93 |  |  |  |
 | Liver Transplant Patients | 17 | IV (0.05 mg/kg/12 hr) |  |  | 3300 ± 2130 | 11.7 ± 3.9 | 0.053 ± 0.017 | 0.85 ± 0.30 |
-| PO (0.3 mg/kg/day) | 68.5 ± 30.0 | 2.3 ± 1.5 | 519† ± 179 |  |  |  |  |  |
+| PO (0.3 mg/kg/day) | 68.5 ± 30.0 | 2.3 ± 1.5 | 519 ± 179 |  |  |  |  |  |
 |  | 11 | IV (0.01 mg/kg/day as a continuous infusion) |  |  | 954AUC0-t ± 334 | 23.6 ± 9.22 | 0.051 ± 0.015 |  |
-| Heart Transplant Patients | 11 | PO (0.075 g/kg/day)Determined after the first dose | 14.7 ± 7.79 | 2.1 [0.5-6.0]Median [range] | 82.7AUC0-12 ± 63.2 |  |  |  |
+| Heart Transplant Patients | 11 | PO (0.075 mg/kg/day)Determined after the first dose | 14.7 ± 7.79 | 2.1 [0.5-6.0]Median [range] | 82.7AUC0-12 ± 63.2 |  |  |  |
 |  | 14 | PO (0.15 mg/kg/day) | 24.5 ± 13.7 | 1.5 [0.4-4.0] | 142 ± 116 |  |  |  |
 
 Due to intersubject variability in tacrolimus pharmacokinetics, individualization of the dosing regimen is necessary for optimal therapy [see Dosage and Administration (2.6)].
@@ -49,7 +48,6 @@ In 18 kidney transplant patients, tacrolimus trough concentrations from 3 to 30 
 In 24 liver transplant patients over a concentration range of 10 to 60 ng/mL, the correlation coefficient was 0.94.
 In 25 heart transplant patients over a concentration range of 2 to 24 ng/mL, the correlation coefficient was 0.89 after an oral dose of 0.075 or 0.15 mg/kg/day at steady-state.
 
-In a healthy volunteer adult study, the systemic exposure to tacrolimus (AUC) for tacrolimus for oral suspension was approximately 16% higher than that for tacrolimus capsules when administered as single doses.
 If pediatric patients are converted between formulations, therapeutic drug monitoring must be performed and dose adjustments made to ensure that systemic exposure to tacrolimus is maintained.
 
 ### Food Effects
@@ -178,3 +176,6 @@ Frequent monitoring of whole blood concentrations and appropriate dosage adjustm
 - •Voriconazole (see complete prescribing information for VFEND®): Repeat oral dose administration of voriconazole (400 mg every 12 hours for one day, then 200 mg every 12 hours for 6 days) increased tacrolimus (0.1 mg/kg single dose) Cmax and AUCτ in healthy subjects by an average of 2-fold (90% CI: 1.9, 2.5) and 3-fold (90% CI: 2.7, 3.8), respectively [see Drug Interactions (7.2)].
 - •Posaconazole (see complete prescribing information for Noxafil®): Repeat oral administration of posaconazole (400 mg twice daily for 7 days) increased tacrolimus (0.05 mg/kg single dose) Cmax and AUC in healthy subjects by an average of 2-fold (90% CI: 2.01, 2.42) and 4.5-fold (90% CI 4.03, 5.19), respectively [see Drug Interactions (7.2)].
 - •Caspofungin (see complete prescribing information for CANCIDAS®): Caspofungin reduced the blood AUC0-12 of tacrolimus by approximately 20%, peak blood concentration (Cmax) by 16%, and 12-hour blood concentration (C12hr) by 26% in healthy adult subjects when tacrolimus (2 doses of 0.1 mg/kg 12 hours apart) was administered on the 10th day of CANCIDAS 70 mg daily, as compared to results from a control period in which tacrolimus was administered alone [see Drug Interactions (7.2)].
+
+Additional pediatric use information is approved for Astellas Pharma US, Inc.’s Prograf (tacrolimus) products.
+However, due to Astellas Pharma US, Inc.’s marketing exclusivity rights, this drug product is not labeled with that information.

@@ -156,8 +156,11 @@ In both trials, the median time to convert from IV to oral tacrolimus dosing was
 
 Although there is a lack of direct correlation between tacrolimus concentrations and drug efficacy, data from clinical trials of liver transplant patients have shown an increasing incidence of adverse reactions with increasing trough blood concentrations.
 Most patients are stable when trough whole blood concentrations are maintained between 5 to 20 ng/mL.
-Long-term post-transplant patients often are often maintained at the low end of this target range.
+Long-term post-transplant patients are often maintained at the low end of this target range.
 Data from the U.S. clinical trial show that the median trough blood concentrations, measured at intervals from the second week to one year post-transplantation, ranged from 9.8 ng/mL to 19.4 ng/mL.
+
+Additional pediatric use information is approved for Astellas Pharma US, Inc.’s Prograf (tacrolimus) products.
+However, due to Astellas Pharma US, Inc.’s marketing exclusivity rights, this drug product is not labeled with that information.
 
 ## 14.3 Heart Transplantation
 

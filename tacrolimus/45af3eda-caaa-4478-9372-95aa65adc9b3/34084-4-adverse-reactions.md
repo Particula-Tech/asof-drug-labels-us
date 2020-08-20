@@ -163,7 +163,7 @@ The 12-month post-transplant information from the U.S. trial and from the Europe
 The two trials also included different patient populations and patients were treated with immunosuppressive regimens of differing intensities.
 Adverse reactions reported in ≥ 15% in tacrolimus patients (combined trial results) are presented below for the two controlled trials in liver transplantation.
 
-The most common adverse reactions (≥ 40%) observed in tacrolimus-treated liver transplant patients are: tremor, headache, diarrhea, hypertension, nausea, abnormal renal function, abdominal pain, insomnia, paresthesia, anemia, pain, fever, asthenia, hyperkalemia, hypomagnesemia, and hyperglycemia.
+The most common adverse reactions (≥ 38%) observed in tacrolimus-treated liver transplant patients are: tremor, headache, diarrhea, hypertension, nausea, abnormal renal function, abdominal pain, insomnia, paresthesia, anemia, pain, fever, asthenia, hyperkalemia, hypomagnesemia, and hyperglycemia.
 These all occur with oral and IV administration of tacrolimus and some may respond to a reduction in dosing (e.g., tremor, headache, paresthesia, hypertension).
 Diarrhea was sometimes associated with other gastrointestinal complaints such as nausea and vomiting.
 Based on reported adverse reaction terms related to decreased renal function, nephrotoxicity was reported in approximately 40% and 36% of liver transplantation patients receiving tacrolimus in the U.S. and European randomized trials.
@@ -235,7 +235,7 @@ Adverse reactions in heart transplant patients in the European trial are present
 Table 9.
 Heart Transplantation: Adverse Reactions Occurring in ≥ 15% of Patients Treated with Tacrolimus in Conjunction with Azathioprine (AZA)
 
-|  | Tacrolimus/AZA (n = 157) | Cyclosporine/AZA (n = 157) |
+|  | Tacrolimus/AZA (N = 157) | Cyclosporine/AZA (N = 157) |
 | --- | --- | --- |
 | Cardiovascular System |  |  |
 | Hypertension | 62% | 69% |
@@ -281,7 +281,7 @@ Incidence of New Onset Diabetes After Transplant at 1 year in Kidney Transplant 
 
 | Parameter | Treatment Group |  |
 | --- | --- | --- |
-| Tacrolimus/MMF (n = 212) | NEORAL/MMF (n = 212) |  |
+| Tacrolimus/MMF (N = 212) | NEORAL/MMF (N = 212) |  |
 | NODAT | 112/150 (75%) | 93/152 (61%) |
 | Fasting Plasma Glucose ≥ 126 mg/dL | 96/150 (64%) | 80/152 (53%) |
 | HbA1c ≥ 6% | 59/150 (39%) | 28/152 (18%) |
@@ -362,6 +362,9 @@ Less Frequently Reported Adverse Reactions (> 3% and < 15%) in Liver, Kidney, an
 - •Musculoskeletal: Arthralgia, cramps, generalized spasm, leg cramps, myalgia, myasthenia, osteoporosis
 - •Respiratory: Asthma, emphysema, hiccups, lung function decreased, pharyngitis, pneumonia, pneumothorax, pulmonary edema, rhinitis, sinusitis, voice alteration
 - •Skin: Acne, alopecia, exfoliative dermatitis, fungal dermatitis, herpes simplex, herpes zoster, hirsutism, neoplasm skin benign, skin discoloration, skin ulcer, sweating
+
+Additional pediatric use information is approved for Astellas Pharma US, Inc.’s Prograf (tacrolimus) products.
+However, due to Astellas Pharma US, Inc.’s marketing exclusivity rights, this drug product is not labeled with that information.
 
 ## 6.2 Postmarketing Adverse Reactions
 

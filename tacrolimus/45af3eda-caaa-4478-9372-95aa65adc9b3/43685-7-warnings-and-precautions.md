@@ -2,9 +2,10 @@
 
 ## 5.1 Lymphoma and Other Malignancies
 
-Patients receiving immunosuppressants, including tacrolimus, are at increased risk of developing lymphomas and other malignancies, particularly of the skin [see Boxed Warning].The risk appears to be related to the intensity and duration of immunosuppression rather than to the use of any specific agent.
+Patients receiving immunosuppressants, including tacrolimus, are at increased risk of developing lymphomas and other malignancies, particularly of the skin [see Boxed Warning].
+The risk appears to be related to the intensity and duration of immunosuppression rather than to the use of any specific agent.
 
-As usual for patients with increased risk for skin cancer, examine patients for skin changes; exposure to sunlight and UV light should be limited by wearing protective clothing and using a broad spectrum sunscreen with a high protection factor.
+As usual for patients with increased risk for skin cancer, examine patients for skin changes; exposure to sunlight and UV light should be limited by wearing protective clothing and using a broad-spectrum sunscreen with a high protection factor.
 
 Post-transplant lymphoproliferative disorder (PTLD) has been reported in immunosuppressed organ transplant recipients.
 The majority of PTLD events appear related to Epstein-Barr Virus (EBV) infection.
@@ -40,7 +41,8 @@ Blood glucose concentrations should be monitored closely in patients using tacro
 ## 5.5 Nephrotoxicity
 
 Tacrolimus, like other calcineurin inhibitors, can cause acute or chronic nephrotoxicity.
-Nephrotoxicity was reported in clinical trials [see Adverse Reactions (6.1)].Consider dosage reduction in patients with elevated serum creatinine and tacrolimus whole blood trough concentrations greater than the recommended range.
+Nephrotoxicity was reported in clinical trials [see Adverse Reactions (6.1)].
+Consider dosage reduction in patients with elevated serum creatinine and tacrolimus whole blood trough concentrations greater than the recommended range.
 The risk for nephrotoxicity may increase when tacrolimus is concomitantly administered with CYP3A inhibitors (by increasing tacrolimus whole blood concentrations) or drugs associated with nephrotoxicity (e.g., aminoglycosides, ganciclovir, amphotericin B, cisplatin, nucleotide reverse transcriptase inhibitors, protease inhibitors) [see Drug Interactions (7.2)].
 Monitor renal function and consider dosage reduction if nephrotoxicity occurs.
 
@@ -59,7 +61,8 @@ Monitor serum potassium levels periodically during treatment.
 
 ## 5.8 Hypertension
 
-Hypertension is a common adverse effect of tacrolimus therapy and may require antihypertensive therapy [see Adverse Reactions (6.1)].The control of blood pressure can be accomplished with any of the common antihypertensive agents, though careful consideration should be given prior to use of antihypertensive agents associated with hyperkalemia (e.g., potassium-sparing diuretics, ACE inhibitors, angiotensin receptor blockers) [see Warnings and Precautions (5.7)].
+Hypertension is a common adverse effect of tacrolimus therapy and may require antihypertensive therapy [see Adverse Reactions (6.1)].
+The control of blood pressure can be accomplished with any of the common antihypertensive agents, though careful consideration should be given prior to use of antihypertensive agents associated with hyperkalemia (e.g., potassium-sparing diuretics, ACE inhibitors, angiotensin receptor blockers) [see Warnings and Precautions (5.7)].
 Calcium-channel blocking agents may increase tacrolimus blood concentrations and therefore require dosage reduction of tacrolimus [see Drug Interactions (7.2)].
 
 ## 5.9 Anaphylactic Reactions with Tacrolimus Injection
