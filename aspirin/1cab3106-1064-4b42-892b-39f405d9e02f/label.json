@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "ANDA075231"
+  ],
+  "inn": "aspirin",
+  "labeler": "LGM Pharma Solutions, LLC",
+  "package_ndcs": [
+    "79739-6094-1"
+  ],
+  "products": [
+    {
+      "form": "CAPSULE",
+      "generic": "butalbital, aspirin, cafeine, and codeine phosphate",
+      "name": "Ascomp with Codeine"
+    }
+  ],
+  "setid": "1cab3106-1064-4b42-892b-39f405d9e02f",
+  "source": "dailymed"
+}
