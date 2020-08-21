@@ -33,3 +33,5 @@ This box contains two (2) 4-mg doses of naloxone HCl nasal spray
 Two Pack
 
 CHECK PRODUCT EXPIRATION DATE BEFORE USE.
+
+OPEN HERE FOR QUICK START GUIDE Opioid Overdose Response Instructions

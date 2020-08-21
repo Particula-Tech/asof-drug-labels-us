@@ -6,11 +6,11 @@ Recognition of Opioid Overdose
 
 Inform patients and their family members or caregivers about how to recognize the signs and symptoms of an opioid overdose such as the following:
 
-- Extreme somnolence - inability to awaken a patient verbally or upon a firm sternal rub.
-- Respiratory depression - this can range from slow or shallow respiration to no respiration in a patient who is unarousable.
-- Other signs and symptoms that may accompany somnolence and respiratory depression include the following:
-  - Miosis.
-  - Bradycardia and/or hypotension.
+- •Extreme somnolence - inability to awaken a patient verbally or upon a firm sternal rub.
+- •Respiratory depression - this can range from slow or shallow respiration to no respiration in a patient who is unarousable.
+- •Other signs and symptoms that may accompany somnolence and respiratory depression include the following:
+  - •Miosis.
+  - •Bradycardia and/or hypotension.
 
 Risk of Recurrent Respiratory and Central Nervous System Depression
 
@@ -28,13 +28,13 @@ Administration Instructions
 
 Instruct patients and their family members or caregivers to:
 
-- Ensure NARCAN Nasal Spray is present whenever persons may be intentionally or accidentally exposed to an opioid overdose (i.e., opioid emergencies).
-- Administer NARCAN Nasal Spray as quickly as possible if a patient is unresponsive and an opioid overdose is suspected, even when in doubt, because prolonged respiratory depression may result in damage to the central nervous system or death.
+- •Ensure NARCAN Nasal Spray is present whenever persons may be intentionally or accidentally exposed to an opioid overdose (i.e., opioid emergencies).
+- •Administer NARCAN Nasal Spray as quickly as possible if a patient is unresponsive and an opioid overdose is suspected, even when in doubt, because prolonged respiratory depression may result in damage to the central nervous system or death.
   NARCAN Nasal Spray is not a substitute for emergency medical care [see Dosage and Administration (2.1)].
-- Lay the patient on their back and administer NARCAN Nasal Spray into one nostril while providing support to the back of the neck to allow the head to tilt back [see Dosage and Administration (2.1)].
-- Use each nasal spray only one time [see Dosage and Administration (2.1)].
-- Turn patient on their side as shown in the Instructions for Use and call for emergency medical assistance immediately after administration of the first dose of NARCAN Nasal Spray.
+- •Lay the patient on their back and administer NARCAN Nasal Spray into one nostril while providing support to the back of the neck to allow the head to tilt back [see Dosage and Administration (2.1)].
+- •Use each nasal spray only one time [see Dosage and Administration (2.1)].
+- •Turn patient on their side as shown in the Instructions for Use and call for emergency medical assistance immediately after administration of the first dose of NARCAN Nasal Spray.
   Additional supportive and/or resuscitative measures may be helpful while awaiting emergency medical assistance [see Dosage and Administration (2.1)].
-- Monitor patients and re-administer NARCAN Nasal Spray using a new NARCAN Nasal Spray every 2 to 3 minutes, if the patient is not responding or responds and then relapses back into respiratory depression.
+- •Monitor patients and re-administer NARCAN Nasal Spray using a new NARCAN Nasal Spray every 2 to 3 minutes, if the patient is not responding or responds and then relapses back into respiratory depression.
   Administer NARCAN Nasal Spray in alternate nostrils with each dose [see Dosage and Administration (2.1)].
-- Replace NARCAN Nasal Spray before its expiration date.
+- •Replace NARCAN Nasal Spray before its expiration date.

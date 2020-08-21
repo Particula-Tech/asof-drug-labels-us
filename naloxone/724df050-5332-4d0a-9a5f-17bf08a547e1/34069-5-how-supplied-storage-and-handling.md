@@ -12,8 +12,8 @@ NARCAN Nasal Spray is not made with natural rubber latex.
 
 Store NARCAN Nasal Spray in the blister and cartons provided.
 
-Store at room temperature 68°F to 77°F (20°C to 25°C).
-Excursions permitted between 41°F to 104°F (5°C to 40°C).
+Store below 77°F (25°C).
+Excursions permitted up to 104°F (40°C).
 Do not freeze or expose to excessive heat above 104°F (40°C).
 Protect from light.
 

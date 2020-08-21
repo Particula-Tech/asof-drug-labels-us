@@ -2,7 +2,7 @@
 
 The following serious adverse reactions are discussed elsewhere in the labeling:
 
-- Precipitation of Severe Opioid Withdrawal [see Warnings and Precautions (5.3)]
+1. 1.Precipitation of Severe Opioid Withdrawal [see Warnings and Precautions (5.3)]
 
 Because clinical studies are conducted under widely varying conditions, adverse reaction rates observed in the clinical studies of a drug cannot be directly compared to the rates in the clinical studies of another drug and may not reflect the rates observed in practice.
 
