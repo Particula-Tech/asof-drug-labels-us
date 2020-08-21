@@ -28,15 +28,18 @@ Remind patients to give all of their healthcare providers an accurate medication
 Instruct patients to tell all of their healthcare providers that they are taking Atelvia.
 Patients should be instructed that any time they have a medical problem they think may be from Atelvia they should talk to their doctor.
 
-Distributed by: Allergan USA, Inc. Irvine CA, 92612
+Distributed by: Allergan USA, Inc. Madison, NJ 07940
 
 For all medical inquiries contact: Allergan Medical Communications 1-800-678-1605
 
-© 2018 Allergan.
+© 2020 Allergan.
 All rights reserved.
 ATELVIA® is a registered trademark of Allergan Pharmaceuticals International Limited.
 Allergan® and its design are trademarks of Allergan, Inc.
 
-Content Updated: March 2015
+Patented.
+See www.Allergan.com/patents
 
-73166US11
+Content Updated: August 2020
+
+v1.0USPI0979

@@ -90,7 +90,8 @@ Before you take Atelvia, tell your healthcare provider if you:
 - Plan to have dental surgery or teeth removed
 - Have kidney problems
 - Have been told you have trouble absorbing mineral in your stomach or intestines (malabsorption syndrome)
-- Are pregnant or plan to become pregnant.
+- Are pregnant, plan to become pregnant, or suspect that you are pregnant.
+  If you become pregnant while taking Atelvia, stop taking it and contact your doctor.
   It is not known if Atelvia can harm your unborn baby.
 - Are breastfeeding or plan to breastfeed.
   It is not known if Atelvia passes into your breast milk and may harm your baby.
@@ -193,16 +194,19 @@ Inactive ingredients: Edetate disodium, ferric oxide yellow, magnesium stearate,
 
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
 
-Distributed by: Allergan USA, Inc. Irvine, CA, 92612
+Distributed by: Allergan USA, Inc. Madison, NJ 07940
 
 For all medical inquiries contact: Allergan Medical Communications 1-800-678-1605
 
-© 2018 Allergan.
+© 2020 Allergan.
 All rights reserved.
 
 ATELVIA® is a registered trademark of Allergan Pharmaceuticals International Limited.
 Allergan® and its design are trademarks of Allergan, Inc.
 
-Content Updated: March 2015
+Patented.
+See www.Allergan.com/patents
 
-73166US11
+Content Updated: August 2020
+
+v2.0MG0979
