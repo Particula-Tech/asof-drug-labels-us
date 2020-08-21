@@ -24,7 +24,7 @@ Metabolic: edema, weight gain, weight loss.
 
 Musculoskeletal: back pain, leg pain, muscle cramps, shoulder pain.
 
-Nervous System/Psychiatric: Psychotic episodes including delusions, hallucinations and paranoid ideation, NMS,(see WARNINGS), bradykinetic episodes (“on-off” phenomenon), confusion, agitation, dizziness, somnolence, dream abnormalities including nightmares, insomnia, paresthesia, headache, depression with or without development of suicidal tendencies, dementia, pathological gambling, increased libido including hypersexuality, impulse control symptoms.
+Nervous System/Psychiatric: Psychotic episodes including delusions, hallucinations and paranoid ideation, NMS (see WARNINGS), bradykinetic episodes (“on-off” phenomenon), confusion, agitation, dizziness, somnolence, dream abnormalities including nightmares, insomnia, paresthesia, headache, depression with or without development of suicidal tendencies, dementia, pathological gambling, increased libido including hypersexuality, impulse control symptoms.
 Convulsions also have occurred; however, a causal relationship with LODOSYN and levodopa, has not been established.
 
 Respiratory: upper respiratory infection, dyspnea, pharyngeal pain, cough.
@@ -39,4 +39,4 @@ Laboratory Tests: abnormalities in alkaline phosphatase, SGOT (AST), SGPT (ALT),
 
 Miscellaneous: bizarre breathing patterns, faintness, hoarseness, hot flashes, malaise, neuroleptic malignant syndrome, sense of stimulation.
 
-To report SUSPECTED ADVERSE REACTIONS, contact Valeant Pharmaceuticals North America LLC at 1-800-321-4576 or FDA at 1-800-FDA-1088 or www.fda.gov/medwatch.
+To report SUSPECTED ADVERSE REACTIONS, contact Bausch Health US, LLC at 1-800-321-4576 or FDA at 1-800-FDA-1088 or www.fda.gov/medwatch.

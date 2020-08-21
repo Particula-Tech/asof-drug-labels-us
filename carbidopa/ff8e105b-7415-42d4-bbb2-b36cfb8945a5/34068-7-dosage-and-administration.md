@@ -35,7 +35,7 @@ However, the dosage of such other standard antiparkinsonian drugs may require ad
 
 ## Interruption of Therapy
 
-Sporadic cases of hyperpyrexia and confusion have been associated with dose reductions and withdrawal of carbidopa-levodopa) or carbidopa-levodopa extended release.
+Sporadic cases of hyperpyrexia and confusion have been associated with dose reductions and withdrawal of carbidopa-levodopa or carbidopa-levodopa extended release.
 Patients should be observed carefully if abrupt reduction or discontinuation of carbidopa-levodopa or carbidopa-levodopa extended release is required, especially if the patient is receiving neuroleptics.
 (See WARNINGS.)
 

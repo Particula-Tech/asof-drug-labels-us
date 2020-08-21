@@ -7,7 +7,7 @@ LODOSYN (carbidopa) does not decrease adverse reactions due to central effects o
 When LODOSYN (carbidopa) is to be given to carbidopa-naive patients who are being treated with levodopa alone, the two drugs should be given at the same time.
 At least twelve hours should elapse between the last dose of levodopa and initiation of therapy with LODOSYN (carbidopa) and levodopa in combination.
 Start with no more than one-fifth (20%) to one-fourth (25%) of the previous daily dosage of levodopa when given without LODOSYN (carbidopa).
-See the DOSAGE AND ADMINISTRATION section before initiating therapy.
+See theDOSAGE AND ADMINISTRATIONsection before initiating therapy.
 
 The addition of LODOSYN with levodopa or carbidopa-levodopa reduces the peripheral effects (nausea, vomiting) due to decarboxylation of levodopa; however, LODOSYN does not decrease the adverse reactions due to the central effects of levodopa.
 Because LODOSYN permits more levodopa to reach the brain and more dopamine to be formed, certain adverse central nervous system (CNS) effects, e.g., dyskinesias (involuntary movements), may occur at lower dosages and sooner with levodopa in combination with LODOSYN than with levodopa alone.
@@ -26,7 +26,7 @@ Before initiating treatment with LODOSYN, advise patients about the potential to
 Consider discontinuing LODOSYN in patients who report significant daytime sleepiness or episodes of falling asleep during activities that require active participation (e.g., conversations, eating, etc.). If treatment with LODOSYN continues, patients should be advised not to drive and to avoid other potentially dangerous activities that might result in harm if the patients become somnolent.
 There is insufficient information to establish that dose reduction will eliminate episodes of falling asleep while engaged in activities of daily living.
 
-## Hyperpyrexia and Confusion:
+## Hyperpyrexia and Confusion
 
 Sporadic cases of a symptom complex resembling neuroleptic malignant syndrome (NMS) have been reported in association with dose reductions or withdrawal of certain antiparkinsonian agents such as levodopa, carbidopa-levodopa, or carbidopa-levodopa extended release.
 Therefore, patients should be observed carefully when the dosage of levodopa or carbidopa-levodopa is reduced abruptly or discontinued, especially if the patient is receiving neuroleptics.
@@ -99,13 +99,14 @@ Iron salts (such as in multivitamin tablets) may also reduce the amount of levod
 The above factors may reduce the clinical effectiveness of the LODOSYN and levodopa therapy.
 
 Alert patients to the possibility of sudden onset of sleep during daily activities, in some cases without awareness or warning signs, when they are taking dopaminergic agents, including levodopa.
-Advise patients to exercise caution while driving or operating machinery and that if they have experience somnolence and/or sudden sleep onset, they must refrain from these activities.
+Advise patients to exercise caution while driving or operating machinery and that if they have experienced somnolence and/or sudden sleep onset, they must refrain from these activities.
 (See WARNINGS, Falling Asleep During Activities of Daily Living and Somnolence.)
 
 There have been reports of patients experiencing intense urges to gamble, increased sexual urges, and other intense urges, and the inability to control these urges while taking one or more of the medications that increase central dopaminergic tone and that are generally used for the treatment of Parkinson’s disease, including LODOSYN and levodopa.
 Although it is not proven that the medications caused these events, these urges were reported to have stopped in some cases when the dose was reduced or the medication was stopped.
 Prescribers should ask patients about the development of new or increased gambling urges, sexual urges, or other intense urges while taking LODOSYN and levodopa.
-Physicians should consider dose reduction or stopping LODOSYN if a patient develops such urges while taking LODOSYN with carbidopa/levodopa (See PRECAUTIONS, Impulse Control/Compulsive Behaviors).
+Physicians should consider dose reduction or stopping LODOSYN if a patient develops such urges while taking LODOSYN with carbidopa/levodopa.
+(See PRECAUTIONS, Impulse Control/Compulsive Behaviors.)
 
 ## Laboratory Tests
 
@@ -119,7 +120,7 @@ False-negative tests may result with the use of glucose-oxidase methods of testi
 
 ## Drug Interactions
 
-Caution should be exercised when the following drugs are administered concomitantly with LODOSYN (carbidopa) given with levodopa or carbidopa-levodopa fixed dose combination products.
+Caution should be exercised when the following drugs are administered concomitantly withLODOSYN(carbidopa)given with levodopa or carbidopa-levodopa fixed dose combination products.
 
 Symptomatic postural hypotension has occurred when LODOSYN, given with levodopa or carbidopa-levodopa combination products, was added to the treatment of a patient receiving antihypertensive drugs.
 Therefore, when therapy with LODOSYN, given with or without levodopa or carbidopa-levodopa combination products, is started, dosage adjustment of the antihypertensive drug may be required.
@@ -130,7 +131,7 @@ Concomitant therapy with selegiline or rasigiline and LODOSYN and carbidopa-levo
 There have been rare reports of adverse reactions, including hypertension and dyskinesia, resulting from the concomitant use of tricyclic antidepressants and carbidopa-levodopa preparations.
 
 Dopamine D2 receptor antagonists (e.g., phenothiazines, butyrophenones, risperidone) and isoniazid may reduce the therapeutic effects of levodopa.
-In addition, the beneficial effects of levodopa in Parkinson's disease have been reported to be reversed by phenytoin and papaverine.
+In addition, the beneficial effects of levodopa in Parkinson’s disease have been reported to be reversed by phenytoin and papaverine.
 Patients taking these drugs with LODOSYN and levodopa or carbidopa-levodopa combination products should be carefully observed for loss of therapeutic response.
 
 LODOSYN and iron salts or multivitamins containing iron salts should be coadministered with caution.
