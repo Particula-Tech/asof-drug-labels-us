@@ -18,7 +18,7 @@ Metronidazole has shown evidence of mutagenic activity in several in vitro bacte
 In addition, a dose-response increase in the frequency of micronuclei was observed in mice after intraperitoneal injections and an increase in chromosome aberrations have been reported in patients with Crohn's disease who were treated with 200-1200 mg/day of metronidazole for 1 to 24 months.
 However, no excess chromosomal aberrations in circulating human lymphocytes have been observed in patients treated for 8 months.
 
-Pregnancy:Teratogenic effects: Pregnancy category B
+Pregnancy: Teratogenic effects: Pregnancy category B
 
 There are no adequate and well-controlled studies with the use of metronidazole topical cream in pregnant women.
 Metronidazole crosses the placental barrier and enters the fetal circulation rapidly.

@@ -10,8 +10,14 @@ METRONIDAZOLE TOPICAL CREAM
 
 Rx only
 
-FOR TOPICAL USE ONLY NOT FOR OPHTHALMIC USE STORE AT CONTROLLED ROOM TEMPERATURE 15°-30°C (59°-86°F).
-(See USP) WARNING: Keep out of reach of children.
+FOR TOPICAL USE ONLY NOT FOR OPHTHALMIC USE
+
+Store at 20°C to 25°C (68°F to 77°F), excursions permitted 15°C to 30°C
+
+(59°F to 86°F).
+[See USP Controlled Room Temperature].
+
+KEEP OUT OF THE REACH OF CHILDREN.
 
 NET WT 45 grams
 
