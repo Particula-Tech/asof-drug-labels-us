@@ -8,4 +8,4 @@ Retin-A is a trademark of Bausch Health Companies Inc. or its affiliates.
 
 © 2019 Bausch Health Companies Inc. or its affiliates
 
-9440904 Revised: 09/2019
+9440905 Revised: 09/2019

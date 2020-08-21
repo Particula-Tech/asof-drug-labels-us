@@ -35,7 +35,7 @@ Although the significance of these studies to humans is not clear, patients shou
 
 The mutagenic potential of tretinoin was evaluated in the Ames assay and in the in vivo mouse micronucleus assay, both of which were negative.
 
-In dermal Segment I fertility studies of another tretinoin formulation in rats, slight (not statistically significant) decreases in sperm count and motility were seen at 0.5 mg/kg/day (4 times the maximum human systemic dose adjusted for total body surface area), and slight (not statistically significant) increases in the number and percent of nonviable embryos in females treated with 0.25 mg/kg/day (2 times the maximum human systemic dose adjusted for total body surface area) and above were observed.
+In dermal Segment I fertility studies of another tretinoin formulation in rats, slight (not statistically significant) decreases in sperm count and motility were seen at 0.5 mg/kg/day (4 times the maximum human systemic dose adjusted for total body surface area) and slight (not statistically significant) increases in the number and percent of nonviable embryos in females treated with 0.25 mg/kg/day (2 times the maximum human systemic dose adjusted for total body surface area) and above were observed.
 A dermal Segment III study with RETIN-A has not been performed in any species.
 In oral Segment I and Segment III studies in rats with tretinoin, decreased survival of neonates and growth retardation were observed at doses in excess of 2 mg/kg/day (16 times the human topical dose adjusted for total body surface area).
 
