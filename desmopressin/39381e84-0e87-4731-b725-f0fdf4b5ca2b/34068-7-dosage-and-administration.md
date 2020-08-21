@@ -34,7 +34,7 @@ This drug is known to be substantially excreted by the kidney, and the risk of t
 Because elderly patients are more likely to have decreased renal function, care should be taken in dose selection, and it may be useful to monitor renal function.
 (See CLINICAL PHARMACOLOGY, Human Pharmacokinetics, CONTRAINDICATIONS, and PRECAUTIONS, Geriatric Use.)
 
-### HOW SUPPLIED
+## HOW SUPPLIED
 
 Desmopressin Acetate Injection, USP is supplied as follows:
 
@@ -45,11 +45,12 @@ Desmopressin Acetate Injection, USP is supplied as follows:
 
 Desmopressin Acetate Injection, USP is a clear, colorless solution, free from particulate matter filled in a clear glass vial.
 
-## Storage Conditions
+Storage Conditions Store refrigerated between 2° and 8°C (36° and 46°F).
 
-Store refrigerated between 2° and 8°C (36° and 46°F).
 Discard unused portion.
+
 Keep out of the reach of children.
+
 Sterile, Nonpyrogenic, Preservative-free.
 The container closure is not made with natural rubber latex.
 
