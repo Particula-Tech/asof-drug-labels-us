@@ -1,9 +1,12 @@
 # DESCRIPTION
 
-Each 5 mL of Oral Solution contains:
+Diazepam is a benzodiazepine derivative.
+Chemically, diazepam is 7-Chloro-1,3-dihydro-1-methyl-5-phenyl-2H-1,4-benzodiazepin-2-one.
+It is an off-white to yellow, crystalline powder, insoluble in water and has a molecular weight of 284.75.
+Its structural formula is as follows:
 
-diazepam USP...........................................................
-5 mg
+- 
+- C16H13CIN2O
 
 Each mL of IntensolTM Oral Solution (Concentrate) contains:
 
@@ -13,15 +16,6 @@ diazepam USP...........................................................
 alcohol......................................................................
 19%
 
-Inactive Ingredients:
-
-The flavored 5 mg/5 mL Oral Solution contains bitterness modifier, citric acid, D&C Yellow No. 10, FD&C Red No. 40, polyethylene glycol, propylene glycol, sodium citrate, sorbitol, water and wintergreen coriander spice blend.
+Inactive Ingredients
 
 The 25 mg per 5 mL (5 mg/mL) IntensolTM Oral Solution (Concentrate) contains alcohol, D&C Yellow No. 10, polyethylene glycol, propylene glycol, succinic acid and water.
-
-Diazepam is a benzodiazepine derivative.
-Chemically, diazepam is 7-chloro-1,3-dihydro-1-methyl-5-phenyl-2H-1,4-benzodiazepin-2-one.
-It is a white to practically white crystalline powder, insoluble in water and has a molecular weight of 284.74.
-Its structural formula is as follows:
-
-C16H13CIN2O

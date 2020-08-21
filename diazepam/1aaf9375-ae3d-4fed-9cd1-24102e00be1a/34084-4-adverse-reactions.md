@@ -1,17 +1,17 @@
 # ADVERSE REACTIONS
 
-Side effects most commonly reported were drowsiness, fatigue, muscle weakness and ataxia.
+Side effects most commonly reported were drowsiness, fatigue, muscle weakness, and ataxia.
 The following have also been reported:
 
-Central Nervous System:
+Central Nervous System
 
 confusion, depression, dysarthria, headache, slurred speech, tremor, vertigo
 
-Gastrointestinal System:
+Gastrointestinal System
 
 constipation, nausea, gastrointestinal disturbances
 
-Special Senses:
+Special Senses
 
 blurred vision, diplopia, dizziness
 
@@ -19,30 +19,30 @@ Cardiovascular System:
 
 hypotension
 
-Psychiatric and Paradoxical Reactions:
+Psychiatric and Paradoxical Reactions
 
 stimulation, restlessness, acute hyperexcited states, anxiety, agitation, aggressiveness, irritability, rage, hallucinations, psychoses, delusions, increased muscle spasticity, insomnia, sleep disturbances, and nightmares.
 Inappropriate behavior and other adverse behavioral effects have been reported when using benzodiazepines.
 Should these occur, use of the drug should be discontinued.
 They are more likely to occur in children and in the elderly.
 
-Urogenital System:
+Urogenital System
 
 incontinence, changes in libido, urinary retention
 
-Skin and Appendages:
+Skin and Appendages
 
 skin reactions
 
-Laboratories:
+Laboratories
 
 elevated transaminases and alkaline phosphatase
 
-Other:
+Other
 
 changes in salivation, including dry mouth, hypersalivation
 
-Anterograde amnesia may occur using therapeutic dosages, the risk increasing at higher dosages.
+Antegrade amnesia may occur using therapeutic dosages, the risk increasing at higher dosages.
 Amnestic effects may be associated with inappropriate behavior.
 
 Minor changes in EEG patterns, usually low-voltage fast activity, have been observed in patients during and after diazepam therapy and are of no known significance.

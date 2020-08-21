@@ -1,13 +1,13 @@
 # OVERDOSAGE
 
 Overdose of benzodiazepines is usually manifested by central nervous system depression ranging from drowsiness to coma.
-In mild cases, symptoms include drowsiness, confusion and lethargy.
+In mild cases, symptoms include drowsiness, confusion, and lethargy.
 In more serious cases, symptoms may include ataxia, diminished reflexes, hypotonia, hypotension, respiratory depression, coma (rarely), and death (very rarely).
 Overdose of benzodiazepines in combination with other CNS depressants (including alcohol) may be fatal and should be closely monitored.
 
 ## Management of Overdosage
 
-Following overdose with oral benzodiazepines, general supportive measures should be employed including the monitoring of respiration, pulse and blood pressure.
+Following overdose with oral benzodiazepines, general supportive measures should be employed including the monitoring of respiration, pulse, and blood pressure.
 Vomiting should be induced (within 1 hour) if the patient is conscious.
 Gastric lavage should be undertaken with the airway protected if the patient is unconscious.
 Intravenous fluids should be administered.
@@ -19,12 +19,12 @@ Dialysis is of limited value.
 
 As with the management of intentional overdosage with any drug, it should be considered that multiple agents may have been ingested.
 
-Flumazenil, a specific benzodiazepine receptor antagonist, is indicated for the complete or partial reversal of the sedative effects of benzodiazepines and may be used in situations when an overdose with a benzodiazepine is known or suspected.
-Prior to the administration of flumazenil, necessary measures should be instituted to secure airway, ventilation, and intravenous access.
+Flumazenil, a specific benzodiazepine-receptor antagonist, is indicated for the complete or partial reversal of the sedative effects of benzodiazepines and may be used in situations when an overdose with a benzodiazepine is known or suspected.
+Prior to the administration of flumazenil, necessary measures should be instituted to secure airway, ventilation and intravenous access.
 Flumazenil is intended as an adjunct to, not as a substitute for, proper management of benzodiazepine overdose.
-Patients treated with flumazenil should be monitored for re-sedation, respiratory depression, and other residual benzodiazepine effects for an appropriate period after treatment.
+Patients treated with flumazenil should be monitored for re-sedation, respiratory depression and other residual benzodiazepine effects for an appropriate period after treatment.
 The prescriber should be aware of a risk of seizure in association with flumazenil treatment, particularly in long-term benzodiazepine users and in cyclic antidepressant overdose.
 Caution should be observed in the use of flumazenil in epileptic patients treated with benzodiazepines.
-The complete flumazenil package insert including CONTRAINDICATIONS, WARNINGS, and PRECAUTIONS should be consulted prior to use.
+The complete flumazenil package insert, including CONTRAINDICATIONS, WARNINGS, and PRECAUTIONS, should be consulted prior to use.
 
-Withdrawal symptoms of the barbiturate type have occurred after the discontinuation of benzodiazepines (see DRUG ABUSE AND DEPENDENCE section).
+Withdrawal symptoms of the barbiturate type have occurred after the discontinuation of benzodiazepines (see DRUG ABUSE AND DEPENDENCE).

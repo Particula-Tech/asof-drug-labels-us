@@ -1,10 +1,22 @@
 # WARNINGS
 
+Concomitant use of benzodiazepines, including diazepam, and opioids may result in profound sedation, respiratory depression, coma, and death.
+Because of these risks, reserve concomitant prescribing of these drugs for use in patients for whom alternative treatment options are inadequate.
+
+Observational studies have demonstrated that concomitant use of opioid analgesics and benzodiazepines increases the risk of drug-related mortality compared to use of opioids alone.
+If a decision is made to prescribe diazepam concomitantly with opioids, prescribe the lowest effective dosages and minimum durations of concomitant use, and follow patients closely for signs and symptoms of respiratory depression and sedation.
+In patients already receiving an opioid analgesic, prescribe a lower initial dose of diazepam than indicated in the absence of an opioid and titrate based on clinical response.
+If an opioid is initiated in a patient already taking diazepam, prescribe a lower initial dose of the opioid and titrate based upon clinical response.
+
+Advise both patients and caregivers about the risks of respiratory depression and sedation when diazepam is used with opioids.
+Advise patients not to drive or operate heavy machinery until the effects of concomitant use with the opioid have been determined (see Drug Interactions).
+
 Diazepam is not recommended in the treatment of psychotic patients and should not be employed instead of appropriate treatment.
 
 Since diazepam has a central nervous system depressant effect, patients should be advised against the simultaneous ingestion of alcohol and other CNS-depressant drugs during diazepam therapy.
 
 As with other agents that have anticonvulsant activity, when diazepam is used as an adjunct in treating convulsive disorders, the possibility of an increase in the frequency and/or severity of grand mal seizures may require an increase in the dosage of standard anticonvulsant medication.
+Abrupt withdrawal of diazepam in such cases may also be associated with a temporary increase in the frequency and/or severity of seizures.
 
 ## Pregnancy
 
@@ -20,12 +32,12 @@ Rodent studies have indicated that prenatal exposure to diazepam doses similar t
 In general, the use of diazepam in women of childbearing potential, and more specifically during known pregnancy, should be considered only when the clinical situation warrants the risk to the fetus.
 The possibility that a woman of childbearing potential may be pregnant at the time of institution of therapy should be considered.
 If this drug is used during pregnancy, or if the patient becomes pregnant while taking this drug, the patient should be apprised of the potential hazard to the fetus.
-Patients should also be advised that if they become pregnant during therapy or intend to become pregnant, they should communicate with their physicians about the desirability of discontinuing the drug.
+Patients should also be advised that if they become pregnant during therapy or intend to become pregnant they should communicate with their physician about the desirability of discontinuing the drug.
 
 ## Labor and Delivery
 
-Special care must be taken when diazepam is used during labor and delivery, as high single doses may produce irregularities in the fetal heart rate and hypotonia, poor sucking, hypothermia, and moderate respiratory depression in the neonate.
-With newborn infants it must be remembered that the enzyme system involved in the breakdown of the drug is not fully developed (especially in premature infants).
+Special care must be taken when diazepam is used during labor and delivery, as high single doses may produce irregularities in the fetal heart rate and hypotonia, poor sucking, hypothermia, and moderate respiratory depression in the neonates.
+With newborn infants it must be remembered that the enzyme system involved in the breakdown of the drug is not yet fully developed (especially in premature infants).
 
 ## Nursing Mothers
 
@@ -36,7 +48,7 @@ Breastfeeding is therefore not recommended in patients receiving diazepam.
 
 ## General
 
-If diazepam is to be combined with other psychotropic agents or anticonvulsant drugs, careful consideration should be given to the pharmacology of the agents to be employed - particularly with known compounds which may potentiate the action of diazepam such as phenothiazines, narcotics, barbiturates, MAO inhibitors and other antidepressants (see Drug Interactions).
+If diazepam is to be combined with other psychotropic agents or anticonvulsant drugs, careful consideration should be given to the pharmacology of the agents to be employed - particularly with known compounds that may potentiate the action of diazepam, such as phenothiazines, narcotics, barbiturates, MAO inhibitors and other antidepressants (see Drug Interactions).
 
 The usual precautions are indicated for severely depressed patients or those in whom there is any evidence of latent depression or anxiety associated with depression, particularly the recognition that suicidal tendencies may be present and protective measures may be necessary.
 
@@ -61,6 +73,13 @@ Patients should be advised against the simultaneous ingestion of alcohol and oth
 As is true of most CNS-acting drugs, patients receiving diazepam should be cautioned against engaging in hazardous occupations requiring complete mental alertness, such as operating machinery or driving a motor vehicle.
 
 ## Drug Interactions
+
+Opioids
+
+The concomitant use of benzodiazepines and opioids increases the risk of respiratory depression because of actions at different receptor sites in the CNS that control respiration.
+Benzodiazepines interact at GABAA sites and opioids interact primarily at mu receptors.
+When benzodiazepines and opioids are combined, the potential for benzodiazepines to significantly worsen opioid-related respiratory depression exists.
+Limit dosage and duration of concomitant use of benzodiazepines and opioids, and monitor patients closely for respiratory depression and sedation.
 
 Centrally Acting Agents
 
@@ -96,7 +115,7 @@ No adverse effects on fertility or offspring viability were noted at a dose of 8
 
 ## Pregnancy
 
-Category D (See WARNINGS: Pregnancy).
+See WARNINGS: Pregnancy.
 
 ## Pediatric Use
 

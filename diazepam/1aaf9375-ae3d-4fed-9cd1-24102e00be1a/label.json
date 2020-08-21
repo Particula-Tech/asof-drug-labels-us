@@ -1,20 +1,13 @@
 {
   "application_numbers": [
-    "ANDA070928",
     "ANDA071415"
   ],
   "inn": "diazepam",
   "labeler": "West-Ward Pharmaceuticals Corp.",
   "package_ndcs": [
-    "0054-3185-44",
-    "0054-3188-63"
+    "0054-3185-44"
   ],
   "products": [
-    {
-      "form": "SOLUTION",
-      "generic": "diazepam",
-      "name": "Diazepam"
-    },
     {
       "form": "SOLUTION, CONCENTRATE",
       "generic": "diazepam intensol",
