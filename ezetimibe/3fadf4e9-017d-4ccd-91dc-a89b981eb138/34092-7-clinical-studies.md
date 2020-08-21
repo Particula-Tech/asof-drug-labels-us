@@ -121,11 +121,11 @@ Patients were randomized to receive placebo, ezetimibe alone, 160 mg fenofibrate
 After completing the 12-week study, eligible patients were assigned to ezetimibe co-administered with fenofibrate or fenofibrate monotherapy for an additional 48 weeks.
 
 Ezetimibe co-administered with fenofibrate significantly lowered total-C, LDL-C, Apo B, and non-HDL-C compared to fenofibrate administered alone.
-The percent decrease in TG and percent increase in HDL-C for Ezetimibe co-administered with fenofibrate were comparable to those for fenofibrate administered alone (see Table 12).
+The percent decrease in TG and percent increase in HDL-C for ezetimibe co-administered with fenofibrate were comparable to those for fenofibrate administered alone (see Table 12).
 
-TABLE 12: Response to Ezetimibe and Fenofibrate Initiated Concurrently in Patients with Mixed Hyperlipidemia (Mean* % Change from Untreated Baseline†)
+TABLE 12: Response to Ezetimibe and Fenofibrate Initiated Concurrently in Patients with Mixed Hyperlipidemia (Mean* % Change from Untreated Baseline† at 12 weeks)
 
-| Treatment (Daily Dose) | N | Total-C | LDL-C | Apo B | Non-HDL-C | TG* | Non-HDL-C |
+| Treatment (Daily Dose) | N | Total-C | LDL-C | Apo B | TG* | HDL-C | Non-HDL-C |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | Placebo | 63 | 0 | 0 | -1 | -9 | +3 | 0 |
 | Ezetimibe | 185 | -12 | -13 | -11 | -11 | +4 | -15 |

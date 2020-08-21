@@ -20,15 +20,23 @@ Women of childbearing age should be advised to use an effective method of birth 
 Discuss future pregnancy plans with your patients, and discuss when to stop combination ezetimibe and statin therapy if they are trying to conceive.
 Patients should be advised that if they become pregnant they should stop taking combination ezetimibe and statin therapy and call their healthcare professional.
 
-## 17.4 Breast-feeding
+## 17.4 Breastfeeding
 
-Women who are breast-feeding should be advised to not use ezetimibe added to statin therapy.
+Women who are breastfeeding should be advised to not use ezetimibe added to statin therapy.
 Patients who have a lipid disorder and are breastfeeding should be advised to discuss the options with their healthcare professionals.
 
 Manufactured by: Amneal Pharmaceuticals Pvt.
 Ltd. Oral Solid Dosage Unit Ahmedabad 382213, INDIA
 
+Packed by: Amneal Pharmaceuticals Pvt.
+Ltd. Oral Solid Dosage Unit Ahmedabad 382213, INDIA
+
+Or
+
+Amneal Pharmaceuticals Pvt.
+Ltd. Ahmedabad 382220, INDIA
+
 Distributed by: Amneal Pharmaceuticals LLC Bridgewater, NJ 08807
 
 Rev.
-08-2017-01
+06-2020-02

@@ -1,6 +1,6 @@
 # Patient Information
 
-Ezetimibe (ez-ET-i-mibe) Tablets
+Ezetimibe (e zet’ i mibe) Tablets
 
 Read this information carefully before you start taking ezetimibe tablets and each time you get more ezetimibe tablets.
 There may be new information.
@@ -65,7 +65,7 @@ Your doctor may do blood tests to check your liver before you start taking ezeti
 
 What are the possible side effects of ezetimibe tablets?
 
-In clinical studies, patients reported few side effects while taking ezetimibe tablets.
+In clinical studies patients reported few side effects while taking ezetimibe tablets.
 These included diarrhea, joint pains, and feeling tired.
 
 Patients have experienced severe muscle problems while taking ezetimibe tablets, usually when ezetimibe tablets were added to a statin drug.
@@ -116,7 +116,15 @@ This Patient Information has been approved by the U.S. Food and Drug Administrat
 Manufactured by: Amneal Pharmaceuticals Pvt.
 Ltd. Oral Solid Dosage Unit Ahmedabad 382213, INDIA
 
+Packed by: Amneal Pharmaceuticals Pvt.
+Ltd. Oral Solid Dosage Unit Ahmedabad 382213, INDIA
+
+Or
+
+Amneal Pharmaceuticals Pvt.
+Ltd. Ahmedabad 382220, INDIA
+
 Distributed by: Amneal Pharmaceuticals LLC Bridgewater, NJ 08807
 
 Rev.
-08-2017-01
+06-2020-02

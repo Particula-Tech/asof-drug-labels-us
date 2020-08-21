@@ -3,7 +3,7 @@
 Ezetimibe tablets USP, 10 mg are supplied as white to off-white, capsule-shaped tablets debossed with “AA69” on one side and plain on other side.
 They are supplied as follows:
 
-Bottle of 30 Tablets: NDC 69238-1154-3 Bottle of 90 Tablets: NDC 69238-1154-9 Bottle of 500 Tablets: NDC 69238-1154-5 Bottle of 1000 Tablets: NDC 69238-1154-1
+Bottles of 30: NDC 69238-1154-3 Bottles of 90: NDC 69238-1154-9 Bottles of 500: NDC 69238-1154-5 Bottles of 1000: NDC 69238-1154-1
 
 Storage
 
