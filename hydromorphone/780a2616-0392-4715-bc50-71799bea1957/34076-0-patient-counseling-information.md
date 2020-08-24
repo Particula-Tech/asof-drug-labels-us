@@ -1,6 +1,6 @@
 # 17 PATIENT COUNSELING INFORMATION
 
-Advise the patient to read the FDA-approved patient labeling (Medication Guide)
+Advise the patient to read the FDA-approved patient labeling (Medication Guide).
 
 Storage and Disposal
 
@@ -18,8 +18,25 @@ Instruct patients not to share hydromorphone hydrochloride extended-release tabl
 
 1. Life-Threatening Respiratory Depression
 
-Inform patients of the risk of life-threatening respiratory depression, including information that the risk is greatest when starting hydromorphone hydrochloride extended-release tablets or when the dose is increased, and that it can occur even at recommended doses [see Warnings and Precautions (5.3)].
-Advise patients how to recognize respiratory depression and to seek medical attention if breathing difficulties develop.
+Inform patients of the risk of life-threatening respiratory depression, including information that the risk is greatest when starting hydromorphone hydrochloride extended-release tablets or when the dose is increased, and that it can occur even at recommended dosages.
+
+Educate patients and caregivers on how to recognize respiratory depression and emphasize the importance of calling 911 or getting emergency medical help right away in the event of a known or suspected overdose [see Warnings and Precautions (5.3)].
+
+Patient Access to Naloxone for the Emergency Treatment of Opioid Overdose
+
+Discuss with the patient and caregiver the availability of naloxone for the emergency treatment of opioid overdose, both when initiating and renewing treatment with hydromorphone hydrochloride extended-release tablets.
+Inform patients and caregivers about the various ways to obtain naloxone as permitted by individual state naloxone dispensing and prescribing requirements or guidelines (e.g., by prescription, directly from a pharmacist, or as part of a community-based program) [see Dosage and Administration (2.2), Warnings and Precautions (5.3)].
+
+Educate patients and caregivers on how to recognize the signs and symptoms of an overdose.
+
+Explain to patients and caregivers that naloxone’s effects are temporary, and that they must call 911 or get emergency medical help right away in all cases of known or suspected opioid overdose, even if naloxone is administered [see Overdosage (10)].
+
+If naloxone is prescribed, also advise patients and caregivers:
+
+- •How to treat with naloxone in the event of an opioid overdose
+- •To tell family and friends about their naloxone and to keep it in a place where family and friends can access it in an emergency
+- •To read the Patient Information (or other educational material) that will come with their naloxone.
+  Emphasize the importance of doing this before an opioid emergency happens, so the patient and caregiver will know what to do.
 
 Accidental Ingestion
 
@@ -58,7 +75,7 @@ Instruct patients how to properly take hydromorphone hydrochloride extended-rele
 
 Important Discontinuation Instructions
 
-In order to avoid developing withdrawal symptoms, instruct patients not to discontinue hydromorphone hydrochloride extended-release tablets without first discussing a tapering plan with the prescriber [see Dosage and Administration (2.4)].
+In order to avoid developing withdrawal symptoms, instruct patients not to discontinue hydromorphone hydrochloride extended-release tablets without first discussing a tapering plan with the prescriber [see Dosage and Administration (2.5)].
 
 Gastrointestinal Blockage
 
@@ -112,9 +129,9 @@ Minneapolis, MN 55427
 
 2203457
 
-1B500 RC J12
+1B500 RC J14
 
-Rev 10-18 D
+Rev 08-20 F
 
 PHARMACIST: Dispense a separate Medication Guide to each patient.
-Medication Guides available at: www.perrigo.com or call 1-866-634-9120
+Medication Guides available at: www.perrigorx.com or call 1-866-634-9120

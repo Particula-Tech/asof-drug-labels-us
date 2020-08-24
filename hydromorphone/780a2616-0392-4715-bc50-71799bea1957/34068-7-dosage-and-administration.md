@@ -19,7 +19,18 @@ Patients who are opioid-tolerant are those receiving, for one week or longer, at
 Instruct patients to swallow hydromorphone hydrochloride extended-release tablets whole [see Patient Counseling Information (17)].
 Crushing, chewing, or dissolving hydromorphone hydrochloride extended-release tablets will result in uncontrolled delivery of hydromorphone and can lead to overdose or death [see Warnings and Precautions (5.1)].
 
-## 2.2 Initial Dosage
+## 2.2 Patient Access to Naloxone for the Emergency Treatment of Opioid Overdose
+
+Discuss the availability of naloxone for the emergency treatment of opioid overdose with the patient and caregiver and assess the potential need for access to naloxone, both when initiating and renewing treatment with hydromorphone hydrochloride extended-release tablets [see Warnings and Precautions (5.3), Patient Counseling Information (17)].
+
+Inform patients and caregivers about the various ways to obtain naloxone as permitted by individual state naloxone dispensing and prescribing requirements or guidelines (e.g., by prescription, directly from a pharmacist, or as part of a community-based program).
+
+Consider prescribing naloxone, based on the patient’s risk factors for overdose, such as concomitant use of CNS depressants, a history of opioid use disorder, or prior opioid overdose.
+The presence of risk factors for overdose should not prevent the proper management of pain in any given patient [see Warnings and Precautions (5.1, 5.3, 5.5)].
+
+Consider prescribing naloxone if the patient has household members (including children) or other close contacts at risk for accidental ingestion or overdose.
+
+## 2.3 Initial Dosage
 
 Conversion from Other Oral Hydromorphone Formulations to Hydromorphone Hydrochloride Extended-Release Tablets
 
@@ -103,7 +114,7 @@ Close monitoring is of particular importance when converting from methadone to o
 The ratio between methadone and other opioid agonists may vary widely as a function of previous dose exposure.
 Methadone has a long half-life and can accumulate in the plasma.
 
-## 2.3 Titration and Maintenance of Therapy
+## 2.4 Titration and Maintenance of Therapy
 
 Individually titrate hydromorphone hydrochloride extended-release tablets to a dose that provides adequate analgesia and minimizes adverse reactions.
 Continually reevaluate patients receiving hydromorphone hydrochloride extended-release tablets to assess the maintenance of pain control and the relative incidence of adverse reactions, as well as monitoring for the development of addiction, abuse, or misuse.
@@ -119,7 +130,7 @@ If the level of pain increases after dose stabilization, attempt to identify the
 If unacceptable opioid-related adverse reactions are observed, the subsequent doses may be reduced.
 Adjust the dose to obtain an appropriate balance between management of pain and opioid-related adverse reactions.
 
-## 2.4 Safe Reduction or Discontinuation of Hydromorphone Hydrochloride Extended-Release Tablets
+## 2.5 Safe Reduction or Discontinuation of Hydromorphone Hydrochloride Extended-Release Tablets
 
 Do not abruptly discontinue hydromorphone hydrochloride extended-release tablets in patients who may be physically dependent on opioids.
 Rapid discontinuation of opioid analgesics in patients who are physically dependent on opioids has resulted in serious withdrawal symptoms, uncontrolled pain, and suicide.
@@ -147,13 +158,13 @@ In addition, monitor patients for any changes in mood, emergence of suicidal tho
 When managing patients taking opioid analgesics, particularly those who have been treated for a long duration and/or with high doses for chronic pain, ensure that a multimodal approach to pain management, including mental health support (if needed), is in place prior to initiating an opioid analgesic taper.
 A multimodal approach to pain management may optimize the treatment of chronic pain, as well as assist with the successful tapering of the opioid analgesic [see Warnings and Precautions (5.12), Drug Abuse and Dependence (9.3)].
 
-## 2.5 Dosage Modifications in Patients with Moderate Hepatic Impairment
+## 2.6 Dosage Modifications in Patients with Moderate Hepatic Impairment
 
 Start patients with moderate hepatic impairment on 25% of the hydromorphone hydrochloride extended-release tablets dose that would be prescribed for patients with normal hepatic function.
 Closely monitor patients with moderate hepatic impairment for respiratory and central nervous system depression during initiation of therapy with hydromorphone hydrochloride extended-release tablets and during dose titration.
 Use of alternate analgesics is recommended for patients with severe hepatic impairment [see Use in Specific Populations (8.6)].
 
-## 2.6 Dosage Modifications in Patients with Renal Impairment
+## 2.7 Dosage Modifications in Patients with Renal Impairment
 
 Start patients with moderate renal impairment on 50% of the hydromorphone hydrochloride extended-release tablets dose that would be prescribed for patients with normal renal function.
 Closely monitor patients with renal impairment for respiratory and central nervous system depression during initiation of therapy with hydromorphone hydrochloride extended-release tablets and during dose titration.

@@ -56,12 +56,12 @@ Overall, the effects of opioids appear to be modestly immunosuppressive.
 Concentration-Efficacy Relationships
 
 The minimum effective analgesic concentration will vary widely among patients, especially among patients who have been previously treated with potent agonist opioids.
-The minimum effective analgesic concentration of hydromorphone for any individual patient may increase over time due to an increase in pain, the development of a new pain syndrome, and/or the development of analgesic tolerance [see Dosage and Administration (2.1), (2.3)].
+The minimum effective analgesic concentration of hydromorphone for any individual patient may increase over time due to an increase in pain, the development of a new pain syndrome, and/or the development of analgesic tolerance [see Dosage and Administration (2.1), (2.4)].
 
 Concentration-Adverse Reaction Relationships
 
 There is a relationship between increasing hydromorphone plasma concentration and increasing frequency of dose-related opioid adverse reactions such as nausea, vomiting, CNS effects, and respiratory depression.
-In opioid-tolerant patients, the situation may be altered by the development of tolerance to opioid-related adverse reactions [see Dosage and Administration (2.1), (2.2), (2.3)].
+In opioid-tolerant patients, the situation may be altered by the development of tolerance to opioid-related adverse reactions [see Dosage and Administration (2.1), (2.3), (2.4)].
 
 ## 12.3 Pharmacokinetics
 
@@ -143,14 +143,14 @@ Hepatic Impairment
 In a study that used a single 4 mg oral dose of immediate-release hydromorphone tablets, four-fold increases in plasma levels of hydromorphone (Cmax and AUC0-∞) were observed in patients with moderate hepatic impairment (Child-Pugh Group B). Pharmacokinetics of hydromorphone in severe hepatic impairment patients has not been studied.
 Further increase in Cmax and AUC0-∞ of hydromorphone in this group is expected.
 Start patients with moderate hepatic impairment on 25% of the usual dose of hydromorphone hydrochloride extended-release tablets and closely monitor for respiratory and central nervous system depression during dose titration.
-Consider alternate analgesic therapy for patients with severe hepatic impairment [see Dosage and Administration (2.5) and Specific Populations (8.6)].
+Consider alternate analgesic therapy for patients with severe hepatic impairment [see Dosage and Administration (2.6) and Specific Populations (8.6)].
 
 Renal Impairment
 
 Renal impairment affected the pharmacokinetics of hydromorphone and its metabolites following administration of a single 4 mg dose of immediate-release tablets.
 The effects of renal impairment on hydromorphone pharmacokinetics were two-fold and four-fold increases in plasma levels of hydromorphone (Cmax and AUC0-48h) in moderate (CLcr = 40 to 60 mL/min) and severe (CLcr < 30 mL/min) impairment, respectively.
 In addition, in patients with severe renal impairment hydromorphone appeared to be more slowly eliminated with longer terminal elimination half-life (40 hr) compared to subjects with normal renal function (15 hr). Start patients with moderate renal impairment on 50% of the usual hydromorphone hydrochloride extended-release tablets dose for patients with normal renal function and closely monitor for respiratory and central nervous system depression during dose titration.
-As hydromorphone hydrochloride extended-release tablets are only intended for once-daily administration, consider use of an alternate analgesic that may permit more flexibility with the dosing interval in patients with severe renal impairment [see Dosage and Administration (2.6) and Use in Specific Populations (8.7)].
+As hydromorphone hydrochloride extended-release tablets are only intended for once-daily administration, consider use of an alternate analgesic that may permit more flexibility with the dosing interval in patients with severe renal impairment [see Dosage and Administration (2.7) and Use in Specific Populations (8.7)].
 
 Drug Interaction Studies
 
