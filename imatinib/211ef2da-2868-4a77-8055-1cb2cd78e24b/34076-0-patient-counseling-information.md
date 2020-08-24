@@ -41,8 +41,8 @@ Driving and Using Machines
 Advise patients that they may experience side effects, such as dizziness, blurred vision, or somnolence during treatment with Gleevec.
 Therefore, caution patients about driving a car or operating machinery [see Warnings and Precautions (5.13)].
 
-Distributed by: Novartis Pharmaceuticals Corporation East Hanover, New Jersey 07936
+Distributed by Novartis Pharmaceuticals Corporation East Hanover, New Jersey 07936
 
 © Novartis
 
-T2020-50
+T2020-116

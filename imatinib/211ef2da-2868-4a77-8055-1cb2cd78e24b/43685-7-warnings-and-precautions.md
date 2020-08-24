@@ -24,8 +24,8 @@ These generally occur within the first several months of therapy [see Dosage and
 
 Congestive heart failure and left ventricular dysfunction have been reported in patients taking Gleevec.
 Cardiac adverse reactions were more frequent in patients with advanced age or co-morbidities, including previous medical history of cardiac disease.
-In an international randomized Phase 3 study in 1,106 patients with newly diagnosed Ph+ CML in chronic phase, severe cardiac failure and left ventricular dysfunction were observed in 0.7% of patients taking Gleevec compared to 0.9% of patients taking IFN+Ara-C.
-In another randomized trial with newly diagnosed Ph+ CML patients in chronic phase that compared Gleevec and nilotinib, cardiac failure was observed in 1.1% of patients in the Gleevec arm and 2.2% of patients in the nilotinib 300 mg twice daily arm and severe (Grade 3 or 4) cardiac failure occurred in 0.7% of patients in each group.
+In an international randomized Phase 3 study in 1106 patients with newly diagnosed Ph+ CML in chronic phase, severe cardiac failure and left ventricular dysfunction were observed in 0.7% of patients taking Gleevec compared to 0.9% of patients taking IFN + Ara-C.
+In another randomized trial with newly diagnosed Ph+ CML patients in chronic phase that compared Gleevec and nilotinib, cardiac failure was observed in 1.1% of patient in the Gleevec arm and 2.2% of patients in the nilotinib 300 mg twice daily arm and severe (Grade 3 or 4) cardiac failure occurred in 0.7% of patients in each group.
 Carefully monitor patients with cardiac disease or risk factors for cardiac or history of renal failure.
 Evaluate and treat any patient with signs or symptoms consistent with cardiac or renal failure.
 
@@ -41,7 +41,7 @@ Monitoring of hepatic function is recommended.
 
 ## 5.5 Hemorrhage
 
-In a trial of Gleevec versus IFN+Ara-C in patients with newly diagnosed CML, 1.8% of patients had Grade 3/4 hemorrhage.
+In a trial of Gleevec versus IFN+Ara-C in patients with the newly diagnosed CML, 1.8% of patients had Grade 3/4 hemorrhage.
 In the Phase 3 unresectable or metastatic GIST studies, 211 patients (12.9%) reported Grade 3/4 hemorrhage at any site.
 In the Phase 2 unresectable or metastatic GIST study, 7 patients (5%) had a total of 8 CTC Grade 3/4 hemorrhages; gastrointestinal (GI) (3 patients), intra-tumoral (3 patients) or both (1 patient).
 Gastrointestinal tumor sites may have been the source of GI hemorrhages.
@@ -53,7 +53,7 @@ In addition, gastric antral vascular ectasia has been reported in postmarketing 
 
 Gleevec is sometimes associated with GI irritation.
 Gleevec should be taken with food and a large glass of water to minimize this problem.
-There have been rare reports, including fatalities, of gastrointestinal perforation.
+There have been rare reports, including fatalities, of GI perforation.
 
 ## 5.7 Hypereosinophilic Cardiac Toxicity
 
@@ -62,7 +62,7 @@ The condition was reported to be reversible with the administration of systemic 
 
 Myelodysplastic/myeloproliferative disease and systemic mastocytosis may be associated with high eosinophil levels.
 Consider performing an echocardiogram and determining serum troponin in patients with HES/CEL, and in patients with MDS/MPD or ASM associated with high eosinophil levels.
-If either is abnormal, consider prophylactic use of systemic steroids (1–2 mg/kg) for one to two weeks concomitantly with Gleevec at the initiation of therapy.
+If either is abnormal, consider prophylactic use of systemic steroids (1-2 mg/kg) for one to two weeks concomitantly with Gleevec at the initiation of therapy.
 
 ## 5.8 Dermatologic Toxicities
 
@@ -79,15 +79,15 @@ Monitor TSH levels in such patients.
 ## 5.10 Embryo-Fetal Toxicity
 
 Gleevec can cause fetal harm when administered to a pregnant woman.
-Imatinib mesylate was teratogenic in rats when administered during organogenesis at doses approximately equal to the maximum human dose of 800 mg/day based on body surface area.
-Significant post-implantation loss was seen in female rats administered imatinib mesylate at doses approximately one-half the maximum human dose of 800 mg/day based on body surface area.
+Imatinib mesylate was teratogenic in rats when administered during organogenesis at doses approximately equal to the maximum human dose of 800 mg/day based on body surface area (BSA).
+Significant post-implantation loss was seen in female rats administered imatinib mesylate at doses approximately one-half the maximum human dose of 800 mg/day based on BSA.
 Advise sexually active female patients of reproductive potential to use effective contraception (methods that result in less than 1% pregnancy rates) when using Gleevec and for 14 days after stopping Gleevec.
 If this drug is used during pregnancy or if the patient becomes pregnant while taking this drug, apprise the patient of the potential hazard to a fetus [see Use in Specific Populations (8.1)].
 
 ## 5.11 Growth Retardation in Children and Adolescents
 
 Growth retardation has been reported in children and pre-adolescents receiving Gleevec.
-The long term effects of prolonged treatment with Gleevec on growth in children are unknown.
+The long-term effects of prolonged treatment with Gleevec on growth in children are unknown.
 Therefore, monitor growth in children under Gleevec treatment [see Adverse Reactions (6.1)].
 
 ## 5.12 Tumor Lysis Syndrome
@@ -106,5 +106,5 @@ Recommend caution when driving a car or operating machinery.
 ## 5.14 Renal Toxicity
 
 A decline in renal function may occur in patients receiving Gleevec.
-Median estimated glomerular filtration rate (eGFR) values in patients on Gleevec 400 mg daily for newly-diagnosed CML (four randomized trials) and malignant GIST (one single-arm trial) declined from a baseline value of 85 mL/min/1.73m2 (N = 1190) to 75 mL/min/1.73m2 at 12 months (N = 1082) and 69 mL/min/1.73m2 at 60 months (N = 549).
+Median estimated glomerular filtration rate (eGFR) values in patients on Gleevec 400 mg daily for newly-diagnosed CML (four randomized trials) and malignant GIST (one single-arm trial) declined from a baseline value of 85 mL/min/1.73 m2 (N = 1190) to 75 mL/min/1.73 m2 at 12 months (N = 1082) and 69 mL/min/1.73 m2 at 60 months (N = 549).
 Evaluate renal function prior to initiating Gleevec and monitor during therapy, with attention to risk factors for renal dysfunction, such as preexisting renal impairment, diabetes mellitus, hypertension, and congestive heart failure.

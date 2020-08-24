@@ -6,10 +6,10 @@ The prescribed dose should be administered orally, with a meal and a large glass
 Doses of 400 mg or 600 mg should be administered once daily, whereas a dose of 800 mg should be administered as 400 mg twice a day.
 
 For patients unable to swallow the film-coated tablets, the tablets may be dispersed in a glass of water or apple juice.
-The required number of tablets should be placed in the appropriate volume of beverage (approximately 50 mL for a 100 mg tablet, and 200 mL for a 400 mg tablet) and stirred with a spoon.
+The required number of tablets should be placed in the appropriate volume of beverage (approximately 50 mL for a 100-mg tablet, and 200 mL for a 400-mg tablet) and stirred with a spoon.
 The suspension should be administered immediately after complete disintegration of the tablet(s).
 
-For daily dosing of 800 mg and above, dosing should be accomplished using the 400 mg tablet to reduce exposure to iron.
+For daily dosing of 800 mg and above, dosing should be accomplished using the 400-mg tablet to reduce exposure to iron.
 
 Treatment may be continued as long as there is no evidence of progressive disease or unacceptable toxicity.
 
@@ -37,14 +37,12 @@ Gleevec treatment can be given as a once daily dose.
 ## 2.6 Adult Patients With MDS/MPD
 
 Determine PDGFRb gene rearrangements status prior to initiating treatment.
-Information on FDA-approved tests for the detection of PDGFRb rearrangements is available at http://www.fda.gov/companiondiagnostics.
 
 The recommended dose of Gleevec is 400 mg/day for adult patients with MDS/MPD.
 
 ## 2.7 Adult Patients With ASM
 
 Determine D816V c-Kit mutation status prior to initiating treatment.
-Information on FDA-approved test for the detection of D816V c-Kit mutation is available at http://www.fda.gov/companiondiagnostics.
 
 The recommended dose of Gleevec is 400 mg/day for adult patients with ASM without the D816V c-Kit mutation.
 If c-Kit mutational status is not known or unavailable, treatment with Gleevec 400 mg/day may be considered for patients with ASM not responding satisfactorily to other therapies.
@@ -81,8 +79,8 @@ If patients must be coadministered a strong CYP3A4 inducer, based on pharmacokin
 Hepatic Impairment: Patients with mild and moderate hepatic impairment do not require a dose adjustment and should be treated per the recommended dose.
 A 25% decrease in the recommended dose should be used for patients with severe hepatic impairment [see Use in Specific Populations (8.6)].
 
-Renal Impairment: Patients with moderate renal impairment (CrCL = 20–39 mL/min) should receive a 50% decrease in the recommended starting dose and future doses can be increased as tolerated.
-Doses greater than 600 mg are not recommended in patients with mild renal impairment (CrCL = 40–59 mL/min).
+Renal Impairment: Patients with moderate renal impairment (creatinine clearance [CrCL] = 20-39 mL/min) should receive a 50% decrease in the recommended starting dose and future doses can be increased as tolerated.
+Doses greater than 600 mg are not recommended in patients with mild renal impairment (CrCL = 40-59 mL/min).
 For patients with moderate renal impairment doses greater than 400 mg are not recommended.
 
 Imatinib should be used with caution in patients with severe renal impairment.
@@ -91,7 +89,7 @@ A dose of 100 mg/day was tolerated in two patients with severe renal impairment 
 ## 2.13 Dose Adjustment for Hepatotoxicity and Non-Hematologic Adverse Reactions
 
 If elevations in bilirubin greater than 3 times the institutional upper limit of normal (IULN) or in liver transaminases greater than 5 times the IULN occur, Gleevec should be withheld until bilirubin levels have returned to a less than 1.5 times the IULN and transaminase levels to less than 2.5 times the IULN.
-In adults, treatment with Gleevec may then be continued at a reduced daily dose (i.e., 400 mg to 300 mg, 600 mg to 400 mg or 800 mg to 600 mg).
+In adults, treatment with Gleevec may then be continued at a reduced daily dose (i.e., 400 mg to 300 mg, 600 mg to 400 mg, or 800 mg to 600 mg).
 In children, daily doses can be reduced under the same circumstances from 340 mg/m2/day to 260 mg/m2/day.
 
 If a severe non-hematologic adverse reaction develops (such as severe hepatotoxicity or severe fluid retention), Gleevec should be withheld until the event has resolved.
@@ -103,11 +101,11 @@ Dose reduction or treatment interruptions for severe neutropenia and thrombocyto
 
 Table 1: Dose Adjustments for Neutropenia and Thrombocytopenia
 
-| ASM associated with eosinophilia (starting dose 100 mg) | ANC1 less than 1.0 x 109/L and/or platelets less than 50 x 109/L | Stop Gleevec until ANC greater than or equal to 1.5 x 109/L and platelets greater than or equal to 75 x 109/L Resume treatment with Gleevec at previous dose (i.e., dose before severe adverse reaction) |
+| ASM associated with eosinophilia (starting dose 100 mg) | ANC less than 1.0 x 109/L and/or platelets less than 50 x 109/L | Stop Gleevec until ANC greater than or equal to 1.5 x 109/L and platelets greater than or equal to 75 x 109/L Resume treatment with Gleevec at previous dose (i.e., dose before severe adverse reaction) |
 | --- | --- | --- |
 | HES/CEL with FIP1L1-PDGFRα fusion kinase (starting dose 100 mg) | ANC less than 1.0 x 109/L and/or platelets less than 50 x 109/L | Stop Gleevec until ANC greater than or equal to 1.5 x 109/L and platelets greater than or equal to 75 x 109/L Resume treatment with Gleevec at previous dose (i.e., dose before severe adverse reaction) |
 | Chronic Phase CML (starting dose 400 mg) MDS/MPD, ASM and HES/CEL (starting dose 400 mg) GIST (starting dose 400 mg) | ANC less than 1.0 x 109/L and/or platelets less than 50 x 109/L | Stop Gleevec until ANC greater than or equal to 1.5 x 109/L and platelets greater than or equal to 75 x 109/L Resume treatment with Gleevec at the original starting dose of 400 mg If recurrence of ANC less than 1.0 x 109/L and/or platelets less than 50 x 109/L, repeat step 1 and resume Gleevec at a reduced dose of 300 mg |
-| Ph+ CML: Accelerated Phase and Blast Crisis (starting dose 600 mg) Ph+ ALL (starting dose 600 mg) | ANC less than 0.5 x 109/L and/or platelets less than 10 x 109/L | Check if cytopenia is related to leukemia (marrow aspirate or biopsy) If cytopenia is unrelated to leukemia, reduce dose of Gleevec to 400 mg If cytopenia persists 2 weeks, reduce further to 300 mg If cytopenia persists 4 weeks and is still unrelated to leukemia, stop Gleevec until ANC greater than or equal to1 x 109/L and platelets greater than or equal to 20 x 109/L and then resume treatment at 300 mg |
+| Ph+ CML: Accelerated Phase and Blast Crisis (starting dose 600 mg) Ph+ ALL (starting dose 600 mg) | ANC less than 0.5 x 109/L and/or platelets less than 10 x 109/L | Check if cytopenia is related to leukemia (marrow aspirate or biopsy) If cytopenia is unrelated to leukemia, reduce dose of Gleevec to 400 mg If cytopenia persists 2 weeks, reduce further to 300 mg If cytopenia persists 4 weeks and is still unrelated to leukemia, stop Gleevec until ANC greater than or equal to 1 x 109/L and platelets greater than or equal to 20 x 109/L and then resume treatment at 300 mg |
 | DFSP (starting dose 800 mg) | ANC less than 1.0 x 109/L and/or platelets less than 50 x 109/L | Stop Gleevec until ANC greater than or equal to 1.5 x 109/L and platelets greater than or equal to 75 x 109/L Resume treatment with Gleevec at 600 mg In the event of recurrence of ANC less than 1.0 x 109/L and/or platelets less than 50 x 109/L, repeat step 1 and resume Gleevec at reduced dose of 400 mg |
 | Pediatric newly diagnosed chronic phase CML (starting dose 340 mg/m2) | ANC less than 1.0 x 109/L and/or platelets less than 50 x 109/L | Stop Gleevec until ANC greater than or equal to 1.5 x 109/L and platelets greater than or equal to 75 x 109/L Resume treatment with Gleevec at previous dose (i.e., dose before severe adverse reaction) In the event of recurrence of ANC less than 1.0 x 109/L and/or platelets less than 50 x 109/L, repeat step 1 and resume Gleevec at reduced dose of 260 mg/m2 |
-| 1ANC = absolute neutrophil count. |  |  |
+| Abbreviations: ANC, absolute neutrophil count; ASM, aggressive systemic mastocytosis; CEL, chronic eosinophilic leukemia; CML, chronic myeloid leukemia; DFSP, dermatofibrosarcoma protuberans; HES, hypereosinophilic syndrome; MDS/MPD, myelodysplastic/myeloproliferative diseases; PDGFR, platelet-derived growth factor receptor; Ph+ CML, Philadelphia chromosome positive chronic myeloid leukemia; Ph+ ALL, Philadelphia chromosome positive acute lymphoblastic leukemia. |  |  |

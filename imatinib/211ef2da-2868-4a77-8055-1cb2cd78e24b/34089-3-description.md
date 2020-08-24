@@ -10,4 +10,4 @@ Imatinib mesylate is soluble in aqueous buffers less than or equal to pH 5.5 but
 In non-aqueous solvents, the drug substance is freely soluble to very slightly soluble in dimethyl sulfoxide, methanol, and ethanol, but is insoluble in n-octanol, acetone, and acetonitrile.
 
 Inactive Ingredients: colloidal silicon dioxide (NF); crospovidone (NF); hydroxypropyl methylcellulose (USP); magnesium stearate (NF); and microcrystalline cellulose (NF).
-Tablet coating: ferric oxide, red (NF); ferric oxide, yellow (NF); hydroxypropyl methylcellulose (USP); polyethylene glycol (NF) and talc (USP).
+Tablet coating: ferric oxide, red (NF); ferric oxide, yellow (NF); hydroxypropyl methylcellulose (USP); polyethylene glycol (NF), and talc (USP).

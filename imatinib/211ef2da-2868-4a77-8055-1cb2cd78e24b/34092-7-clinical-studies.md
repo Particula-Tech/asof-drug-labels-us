@@ -4,7 +4,7 @@
 
 Chronic Phase, Newly Diagnosed:
 
-An open-label, multicenter, international randomized Phase 3 study (Gleevec versus IFN+Ara-C) has been conducted in patients with newly diagnosed Philadelphia chromosome positive chronic myeloid leukemia (Ph+ CML) in chronic phase.
+An open-label, multicenter, international randomized Phase 3 study (Gleevec versus IFN+Ara-C) has been conducted in patients with newly diagnosed Philadelphia chromosome positive (Ph+) chronic myeloid leukemia (CML) in chronic phase.
 This study compared treatment with either single-agent Gleevec or a combination of interferon-alpha (IFN) plus cytarabine (Ara-C).
 Patients were allowed to cross over to the alternative treatment arm if they failed to show a complete hematologic response (CHR) at 6 months, a major cytogenetic response (MCyR) at 12 months, or if they lost a CHR or MCyR.
 Patients with increasing WBC or severe intolerance to treatment were also allowed to cross over to the alternative treatment arm with the permission of the study monitoring committee (SMC).
@@ -12,10 +12,10 @@ In the Gleevec arm, patients were treated initially with 400 mg daily.
 Dose escalations were allowed from 400 mg daily to 600 mg daily, then from 600 mg daily to 800 mg daily.
 In the IFN arm, patients were treated with a target dose of IFN of 5 MIU/m2/day subcutaneously in combination with subcutaneous Ara-C 20 mg/m2/day for 10 days/month.
 
-A total of 1,106 patients were randomized from 177 centers in 16 countries, 553 to each arm.
+A total of 1106 patients were randomized from 177 centers in 16 countries, 553 to each arm.
 Baseline characteristics were well balanced between the two arms.
 Median age was 51 years (range, 18 to 70 years), with 21.9% of patients greater than or equal to 60 years of age.
-There were 59% males and 41% females; 89.9% Caucasian, and 4.7% black patients.
+There were 59% males and 41% females; 89.9% Caucasian and 4.7% black patients.
 At the cut-off for this analysis (7 years after last patient had been recruited), the median duration of first-line treatment was 82 and 8 months in the Gleevec and IFN arm, respectively.
 The median duration of second-line treatment with Gleevec was 64 months.
 Sixty percent of patients randomized to Gleevec are still receiving first-line treatment.
@@ -29,24 +29,28 @@ Progression was defined as any of the following events: progression to accelerat
 The protocol specified that the progression analysis would compare the intent to treat (ITT) population: patients randomized to receive Gleevec were compared with patients randomized to receive IFN.
 Patients that crossed over prior to progression were not censored at the time of cross-over, and events that occurred in these patients following cross-over were attributed to the original randomized treatment.
 The estimated rate of progression-free survival at 84 months in the ITT population was 81.2% [95% CI: 78, 85] in the Gleevec arm and 60.6% [56, 65] in the IFN arm (p less than 0.0001, log-rank test), (Figure 1).
-With 7 years follow up there were 93 (16.8%) progression events in the Gleevec arm: 37(6.7%) progression to AP/BC, 31 (5.6%) loss of MCyR, 15 (2.7%) loss of CHR or increase in WBC and 10 (1.8%) CML unrelated deaths.
+With 7 years follow up there were 93 (16.8%) progression events in the Gleevec arm: 37 (6.7%) progression to AP/BC, 31 (5.6%) loss of MCyR, 15 (2.7%) loss of CHR or increase in WBC and 10 (1.8%) CML unrelated deaths.
 In contrast, there were 165 (29.8%) events in the IFN+Ara-C arm of which 130 occurred during first-line treatment with IFN-Ara-C.
-The estimated rate of patients free of progression to accelerated phase (AP) or blast crisis (BC) at 84 months was 92.5%[90, 95] in the Gleevec arm compared to the 85.1%, [82, 89] (p less than or equal to 0.001) in the IFN arm, (Figure 2).
+The estimated rate of patients free of progression to accelerated phase (AP) or blast crisis (BC) at 84 months was 92.5% [90, 95] in the Gleevec arm compared to the 85.1%, [82, 89] (p less than or equal to 0.001) in the IFN arm, (Figure 2).
 The annual rates of any progression events have decreased with time on therapy.
-The probability of remaining progression free at 60 months was 95% for patients who were in complete cytogenetic response (CCyR) with molecular response (greater than or equal to 3 log reduction in BCR-ABL transcripts as measured by quantitative reverse transcriptase polymerase chain reaction) at 12 months, compared to 89% for patients in complete cytogenetic response but without a major molecular response and 70% in patients who were not in complete cytogenetic response at this time point (p less than 0.001).
+The probability of remaining progression free at 60 months was 95% for patients who were in complete cytogenetic response (CCyR) with molecular response (greater than or equal to 3 log reduction in BCR-ABL transcripts as measured by quantitative reverse transcriptase polymerase chain reaction) at 12 months, compared to 89% for patients in CCyR but without a major molecular response and 70% in patients who were not in CCyR at this time point (p less than 0.001).
+
+Figure 1: Progression Free Survival (ITT Principle)
+
+Figure 2: Time to Progression to AP or BC (ITT Principle)
 
 A total of 71 (12.8%) and 85 (15.4%) patients died in the Gleevec and IFN+Ara-C group, respectively.
-At 84 months the estimated overall survival is 86.4% (83, 90) vs. 83.3% (80, 87) in the randomized Gleevec and the IFN+Ara-C group, respectively (p = 0.073 log-rank test).
+At 84 months the estimated overall survival is 86.4% (83, 90) vs 83.3% (80, 87) in the randomized Gleevec and the IFN+Ara-C group, respectively (p = 0.073 log-rank test).
 The hazard ratio is 0.750 with 95% CI 0.547-1.028.
 This time-to-event endpoint may be affected by the high crossover rate from IFN+Ara-C to Gleevec.
 Major cytogenetic response, hematologic response, evaluation of minimal residual disease (molecular response), time to accelerated phase or blast crisis and survival were main secondary endpoints.
 Response data are shown in Table 18.
-Complete hematologic response, major cytogenetic response and complete cytogenetic response were also statistically significantly higher in the Gleevec arm compared to the IFN+Ara-C arm (no cross-over data considered for evaluation of responses).
+Complete hematologic response, major cytogenetic response and CCyR were also statistically significantly higher in the Gleevec arm compared to the IFN + Ara-C arm (no cross-over data considered for evaluation of responses).
 Median time to CCyR in the 454 responders was 6 months (range, 2 to 64 months, 25th to 75th percentiles = 3 to 11 months) with 10% of responses seen only after 22 months of therapy.
 
 Table 18: Response in Newly Diagnosed CML Study (84-Month Data)
 
-| (Best Response Rate) | Gleevec n = 553 | IFN+Ara−C n = 553 |
+| Best Response Rate | Gleevec n = 553 | IFN+Ara−C n = 553 |
 | --- | --- | --- |
 | Hematologic Response1 |  |  |
 | CHR Rate n (%) | 534 (96.6%)* | 313 (56.6%)* |
@@ -58,11 +62,11 @@ Table 18: Response in Newly Diagnosed CML Study (84-Month Data)
 | Complete Cytogenetic Response n (%) | 413 (74.7%)* | 36 (6.5%)* |
 | [95% CI] | [70.8, 78.3] | [4.6, 8.9] |
 | Unconfirmed3 | 82.5%* | 11.6%* |
-| *p less than 0.001, Fischer’s exact test. 1Hematologic response criteria (all responses to be confirmed after greater than or equal to 4 weeks): WBC less than 10 x 109/L, platelet less than 450 x 109/L, myelocyte + metamyelocyte less than 5% in blood, no blasts and promyelocytes in blood, no extramedullary involvement. 2Cytogenetic response criteria (confirmed after greater than or equal to 4 weeks): complete (0% Ph+ metaphases) or partial (1%–35%). A major response (0%–35%) combines both complete and partial responses. 3Unconfirmed cytogenetic response is based on a single bone marrow cytogenetic evaluation, therefore unconfirmed complete or partial cytogenetic responses might have had a lesser cytogenetic response on a subsequent bone marrow evaluation. |  |  |
+| *p less than 0.001, Fischer’s exact test. 1Hematologic response criteria (all responses to be confirmed after greater than or equal to 4 weeks): WBC less than 10 x 109/L, platelet less than 450 x 109/L, myelocyte + metamyelocyte less than 5% in blood, no blasts and promyelocytes in blood, no extramedullary involvement. 2Cytogenetic response criteria (confirmed after greater than or equal to 4 weeks): complete (0% Ph+ metaphases) or partial (1%-35%). A major response (0%-35%) combines both complete and partial responses. 3Unconfirmed cytogenetic response is based on a single bone marrow cytogenetic evaluation, therefore unconfirmed complete or partial cytogenetic responses might have had a lesser cytogenetic response on a subsequent bone marrow evaluation. |  |  |
 
-Molecular Response was Defined as Follows: in the peripheral blood, after 12 months of therapy, reduction of greater than or equal to 3 logarithms in the amount of BCR-ABL transcripts (measured by real-time quantitative reverse transcriptase PCR assay) over a standardized baseline.
-Molecular response was only evaluated in a subset of patients who had a complete cytogenetic response by 12 months or later (N = 333).
-The molecular response rate in patients who had a complete cytogenetic response in the Gleevec arm was 59% at 12 months and 72% at 24 months.
+Molecular response was defined as follows: in the peripheral blood, after 12 months of therapy, reduction of greater than or equal to 3 logarithms in the amount of BCR-ABL transcripts (measured by real-time quantitative reverse transcriptase PCR assay) over a standardized baseline.
+Molecular response was only evaluated in a subset of patients who had a CCyR by 12 months or later (N = 333).
+The molecular response rate in patients who had a CCyR in the Gleevec arm was 59% at 12 months and 72% at 24 months.
 
 Physical, functional, and treatment-specific biologic response modifier scales from the FACT-BRM (Functional Assessment of Cancer Therapy - Biologic Response Modifier) instrument were used to assess patient-reported general effects of interferon toxicity in 1,067 patients with CML in chronic phase.
 After one month of therapy to 6 months of therapy, there was a 13% to 21% decrease in median index from baseline in patients treated with IFN, consistent with increased symptoms of IFN toxicity.
@@ -72,8 +76,8 @@ An open-label, multicenter, randomized trial (Gleevec versus nilotinib) was cond
 Patients were within 6 months of diagnosis and were previously untreated for CML-CP, except for hydroxyurea and/or anagrelide.
 Efficacy was based on a total of 846 patients: 283 patients in the Gleevec 400 mg once daily group, 282 patients in the nilotinib 300 mg twice daily group, 281 patients in the nilotinib 400 mg twice daily group.
 
-Median age was 46 years in the Gleevec group and 47 years in both nilotinib groups, with 12%, 13%, and 10% of patients greater than or equal to 65 years of age in Gleevec 400 mg once-daily, nilotinib 300 mg twice daily and nilotinib 400 mg twice daily treatment groups, respectively.
-There were slightly more male than female patients in all groups (56%, 56%, and 62% in Gleevec 400 mg once-daily, nilotinib 300 mg twice-daily and nilotinib 400 mg twice-daily treatment groups, respectively).
+Median age was 46 years in the Gleevec group and 47 years in both nilotinib groups, with 12%, 13%, and 10% of patients greater than or equal to 65 years of age in Gleevec 400 mg once daily, nilotinib 300 mg twice daily and nilotinib 400 mg twice daily treatment groups, respectively.
+There were slightly more male than female patients in all groups (56%, 56%, and 62% in Gleevec 400 mg once daily, nilotinib 300 mg twice daily and nilotinib 400 mg twice-daily treatment groups, respectively).
 More than 60% of all patients were Caucasian, and 25% were Asian.
 
 The primary data analysis was performed when all 846 patients completed 12 months of treatment or discontinued earlier.
@@ -81,7 +85,7 @@ Subsequent analyses were done when patients completed 24, 36, 48, and 60 months 
 The median time on treatment was approximately 61 months in all three treatment groups.
 
 The primary efficacy endpoint was major molecular response (MMR) at 12 months after the start of study medication.
-MMR was defined as less than or equal to 0.1% BCR-ABL/ABL % by international scale measured by RQ-PCR, which corresponds to a greater than or equal to3 log reduction of BCR-ABL transcript from standardized baseline.
+MMR was defined as less than or equal to 0.1% BCR-ABL/ABL % by international scale measured by RQ-PCR, which corresponds to a greater than or equal to 3 log reduction of BCR-ABL transcript from standardized baseline.
 Efficacy endpoints are summarized in Table 19.
 
 Twelve patients in the Gleevec arm progressed to either accelerated phase or blast crises (7 patients within first 6 months, 2 patients within 6 to 12 months, 2 patients within 12 to 18 months and 1 patient within 18 to 24 months) while two patients on the nilotinib arm progressed to either accelerated phase or blast crisis (both within the first 6 months of treatment).
@@ -92,17 +96,13 @@ Table 19: Efficacy (MMR and CCyR) of Gleevec Compared to Nilotinib in Newly Diag
 | --- | --- | --- |
 |  | N = 283 | N = 282 |
 | MMR at 12 months (95% CI) | 22% (17.6, 27.6) | 44% (38.4, 50.3) |
-| P-Valuea | <0.0001 |  |
+| P-Valuea | < 0.0001 |  |
 | CCyRb by 12 months (95% CI) | 65% (59.2, 70.6) | 80% (75.0, 84.6) |
 | MMR at 24 months (95% CI) | 38% (31.8, 43.4) | 62% (55.8, 67.4) |
 | CCyRb by 24 months (95% CI) | 77% (71.7, 81.8) | 87% (82.4, 90.6) |
+| Abbreviations: CCyR, complete cytogenetic response; MMR, major molecular response; Ph+ CML-CP, Philadelphia chromosome positive chronic myeloid leukemia-chronic phase. aCMH test stratified by Sokal risk group. bCCyR: 0% Ph+ metaphases. Cytogenetic responses were based on the percentage of Ph-positive metaphases among greater than or equal to 20 metaphase cells in each bone marrow sample. |  |  |
 
-aCMH test stratified by Sokal risk group.
-
-bCCyR: 0% Ph+ metaphases.
-Cytogenetic responses were based on the percentage of Ph-positive metaphases among greater than or equal to20 metaphase cells in each bone marrow sample.
-
-By the 60 months, MMR was achieved by 60% of patients on Gleevec and 77% of patients on nilotinib.
+By 60 months, MMR was achieved by 60% of patients on Gleevec and 77% of patients on nilotinib.
 
 Median overall survival was not reached in either arm.
 At the time of the 60-month final analysis, the estimated survival rate was 91.7% for patients on Gleevec and 93.7% for patients on nilotinib.
@@ -114,7 +114,7 @@ In clinical studies, 38% to 40% of patients were greater than or equal to 60 yea
 Chronic Phase, Prior Interferon-Alpha Treatment: 532 patients were treated at a starting dose of 400 mg; dose escalation to 600 mg was allowed.
 The patients were distributed in three main categories according to their response to prior interferon: failure to achieve (within 6 months), or loss of a complete hematologic response (29%), failure to achieve (within 1 year) or loss of a major cytogenetic response (35%), or intolerance to interferon (36%).
 Patients had received a median of 14 months of prior IFN therapy at doses greater than or equal to 25 x 106 units/week and were all in late chronic phase, with a median time from diagnosis of 32 months.
-Effectiveness was evaluated on the basis of the rate of hematologic response and by bone marrow exams to assess the rate of major cytogenetic response (up to 35% Ph+ metaphases) or complete cytogenetic response (0% Ph+ metaphases).
+Effectiveness was evaluated on the basis of the rate of hematologic response and by bone marrow exams to assess the rate of major cytogenetic response (up to 35% Ph+ metaphases) or CCyR (0% Ph+ metaphases).
 Median duration of treatment was 29 months with 81% of patients treated for greater than or equal to 24 months (maximum = 31.5 months).
 Efficacy results are reported in Table 20.
 Confirmed major cytogenetic response rates were higher in patients with IFN intolerance (66%) and cytogenetic failure (64%), than in patients with hematologic failure (47%).
@@ -128,7 +128,7 @@ Effectiveness was evaluated primarily on the basis of the rate of hematologic re
 Cytogenetic responses were also evaluated.
 Median duration of treatment was 18 months with 45% of patients treated for greater than or equal to 24 months (maximum = 35 months).
 Efficacy results are reported in Table 20.
-Response rates in accelerated phase CML were higher for the 600 mg dose group than for the 400 mg group: hematologic response (75% vs. 64%), confirmed and unconfirmed major cytogenetic response (31% vs. 19%).
+Response rates in accelerated phase CML were higher for the 600 mg dose group than for the 400 mg group: hematologic response (75% vs 64%), confirmed and unconfirmed major cytogenetic response (31% vs 19%).
 
 Myeloid Blast Crisis: 260 patients with myeloid blast crisis were enrolled.
 These patients had greater than or equal to 30% blasts in PB or BM and/or extramedullary involvement other than spleen or liver; 95 (37%) had received prior chemotherapy for treatment of either accelerated phase or blast crisis (“pretreated patients”) whereas 165 (63%) had not (“untreated patients”).
@@ -138,24 +138,24 @@ Effectiveness was evaluated primarily on the basis of rate of hematologic respon
 Cytogenetic responses were also assessed.
 Median duration of treatment was 4 months with 21% of patients treated for greater than or equal to 12 months and 10% for greater than or equal to 24 months (maximum = 35 months).
 Efficacy results are reported in Table 20.
-The hematologic response rate was higher in untreated patients than in treated patients (36% vs. 22%, respectively) and in the group receiving an initial dose of 600 mg rather than 400 mg (33% vs. 16%).
-The confirmed and unconfirmed major cytogenetic response rate was also higher for the 600 mg dose group than for the 400 mg dose group (17% vs. 8%).
+The hematologic response rate was higher in untreated patients than in treated patients (36% vs 22%, respectively) and in the group receiving an initial dose of 600 mg rather than 400 mg (33% vs 16%).
+The confirmed and unconfirmed major cytogenetic response rate was also higher for the 600-mg dose group than for the 400-mg dose group (17% vs 8%).
 
-Table 20: Response in CML Studies
+Table 20: Response in Chronic Myeloid Leukemia Studies
 
 |  | Chronic Phase IFN Failure (n = 532) | Accelerated Phase (n = 235) | Myeloid Blast Crisis (n = 260) |
 | --- | --- | --- | --- |
 |  |  | 600 mg n = 158 | 600 mg n = 223 |
 |  | 400 mg | 400 mg n = 77 | 400 mg n = 37 |
 |  | % of patients [CI 95%] |  |  |
-| Hematologic Response1 | 95% [92.3−96.3] | 71%[64.8−76.8] | 31% [25.2−36.8] |
+| Hematologic Response1 | 95% [92.3−96.3] | 71% [64.8−76.8] | 31% [25.2−36.8] |
 | Complete Hematologic Response (CHR) | 95% | 38% | 7% |
 | No Evidence of Leukemia (NEL) | Not applicable | 13% | 5% |
 | Return to Chronic Phase (RTC) | Not applicable | 20% | 18% |
 | Major Cytogenetic Response2 | 60% [55.3−63.8] | 21% [16.2−27.1] | 7% [4.5−11.2] |
 | (Unconfirmed3) | (65%) | (27%) | (15%) |
 | Complete4 (Unconfirmed3) | 39% (47%) | 16% (20%) | 2% (7%) |
-| Abbreviations: BM, bone marrow; PB, peripheral blood. 1Hematologic response criteria (all responses to be confirmed after greater than or equal to 4 weeks): CHR:Chronic phase study [WBC less than 10 x 109/L, platelet less than 450 x 109/L, myelocytes + metamyelocytes less than 5% in blood, no blasts and promyelocytes in blood, basophils less than 20%, no extramedullary involvement] and in the accelerated and blast crisis studies [ANC greater than or equal to 1.5 x 109/L, platelets greater than or equal to 100 x 109/L, no blood blasts, BM blasts less than 5% and no extramedullary disease] NEL: Same criteria as for CHR but ANC greater than or equal to 1 x 109/L and platelets greater than or equal to 20 x 109/L (accelerated and blast crisis studies). RTC: less than 15% blasts BM and PB, less than 30% blasts + promyelocytes in BM and PB, less than 20% basophils in PB, no extramedullary disease other than spleen and liver (accelerated and blast crisis studies). 2Cytogenetic response criteria (confirmed after greater than or equal to 4 weeks): complete (0% Ph+ metaphases) or partial (1%–35%). A major response (0%–35%) combines both complete and partial responses. 3Unconfirmed cytogenetic response is based on a single bone marrow cytogenetic evaluation, therefore unconfirmed complete or partial cytogenetic responses might have had a lesser cytogenetic response on a subsequent bone marrow evaluation. 4Complete cytogenetic response confirmed by a second bone marrow cytogenetic evaluation performed at least 1 month after the initial bone marrow study. |  |  |  |
+| Abbreviations: BM, bone marrow; PB, peripheral blood. 1Hematologic response criteria (all responses to be confirmed after greater than or equal to 4 weeks): CHR:Chronic phase study [WBC less than 10 x 109/L, platelet less than 450 x 109/L, myelocytes + metamyelocytes less than 5% in blood, no blasts and promyelocytes in blood, basophils less than 20%, no extramedullary involvement] and in the accelerated and blast crisis studies [absolute neutrophil count (ANC) greater than or equal to 1.5 x 109/L, platelets greater than or equal to 100 x 109/L, no blood blasts, BM blasts less than 5% and no extramedullary disease]. NEL: Same criteria as for CHR but ANC greater than or equal to 1 x 109/L and platelets greater than or equal to 20 x 109/L (accelerated and blast crisis studies). RTC: less than 15% blasts BM and PB, less than 30% blasts + promyelocytes in BM and PB, less than 20% basophils in PB, no extramedullary disease other than spleen and liver (accelerated and blast crisis studies). 2Cytogenetic response criteria (confirmed after greater than or equal to 4 weeks): complete (0% Ph+ metaphases) or partial (1%-35%). A major response (0%-35%) combines both complete and partial responses. 3Unconfirmed cytogenetic response is based on a single bone marrow cytogenetic evaluation, therefore unconfirmed complete or partial cytogenetic responses might have had a lesser cytogenetic response on a subsequent bone marrow evaluation. 4Complete cytogenetic response confirmed by a second bone marrow cytogenetic evaluation performed at least 1 month after the initial bone marrow study. |  |  |  |
 
 The median time to hematologic response was 1 month.
 In late chronic phase CML, with a median time from diagnosis of 32 months, an estimated 87.8% of patients who achieved MCyR maintained their response 2 years after achieving their initial response.
@@ -163,7 +163,7 @@ After 2 years of treatment, an estimated 85.4% of patients were free of progress
 In accelerated phase, median duration of hematologic response was 28.8 months for patients with an initial dose of 600 mg (16.5 months for 400 mg).
 An estimated 63.8% of patients who achieved MCyR were still in response 2 years after achieving initial response.
 The median survival was 20.9 [13.1, 34.4] months for the 400 mg group and was not yet reached for the 600 mg group (p = 0.0097).
-An estimated 46.2% [34.7, 57.7] vs. 65.8% [58.4, 73.3] of patients were still alive after 2 years of treatment in the 400 mg vs. 600 mg dose groups, respectively.
+An estimated 46.2% [34.7, 57.7] vs 65.8% [58.4, 73.3] of patients were still alive after 2 years of treatment in the 400 mg vs 600 mg dose groups, respectively.
 In blast crisis, the estimated median duration of hematologic response is 10 months.
 An estimated 27.2% [16.8, 37.7] of hematologic responders maintained their response 2 years after achieving their initial response.
 Median survival was 6.9 [5.8, 8.6] months, and an estimated 18.3% [13.4, 23.3] of all patients with blast crisis were alive 2 years after start of study.
@@ -178,7 +178,7 @@ Patients were treated with Gleevec 340 mg/m2/day, with no interruptions in the a
 Complete hematologic response (CHR) was observed in 78% of patients after 8 weeks of therapy.
 The complete cytogenetic response rate (CCyR) was 65%, comparable to the results observed in adults.
 Additionally, partial cytogenetic response (PCyR) was observed in 16%.
-The majority of patients who achieved a CCyR developed the CCyR between months 3 and 10 with a median time to response based on the Kaplan-Meier estimate of 6.74 months.
+The majority of patients who achieved a CCyR developed the CCyR between Months 3 and 10 with a median time to response based on the Kaplan-Meier estimate of 6.74 months.
 Patients were allowed to be removed from protocol therapy to undergo alternative therapy, including hematopoietic stem cell transplantation.
 Thirty-one children received stem cell transplantation.
 Of the 31 children, 5 were transplanted after disease progression on study and 1 withdrew from study during first week treatment and received transplant approximately 4 months after withdrawal.
@@ -188,16 +188,16 @@ Of the 25 patients 13 (52%) had CCyR and 5 (20%) had PCyR at the end of protocol
 One open-label, single-arm study enrolled 14 pediatric patients with Ph+ chronic phase CML recurrent after stem cell transplant or resistant to interferon-alpha therapy.
 These patients had not previously received Gleevec and ranged in age from 3 to 20 years old; 3 were 3 to 11 years old, 9 were 12 to 18 years old, and 2 were greater than 18 years old.
 Patients were treated at doses of 260 mg/m2/day (n = 3), 340 mg/m2/day (n = 4), 440 mg/m2/day (n = 5) and 570 mg/m2/day (n = 2).
-In the 13 patients for whom cytogenetic data are available, 4 achieved a major cytogenetic response, 7 achieved a complete cytogenetic response, and 2 had a minimal cytogenetic response.
+In the 13 patients for whom cytogenetic data are available, 4 achieved a major cytogenetic response, 7 achieved a CCyR, and 2 had a minimal cytogenetic response.
 
-In a second study, 2 of 3 patients with Ph+ chronic phase CML resistant to interferon-alpha therapy achieved a complete cytogenetic response at doses of 242 and 257 mg/m2/day.
+In a second study, 2 of 3 patients with Ph+ chronic phase CML resistant to interferon-alpha therapy achieved a CCyR at doses of 242 and 257 mg/m2/day.
 
 ## 14.3 Acute Lymphoblastic Leukemia
 
 A total of 48 Philadelphia chromosome positive acute lymphoblastic leukemia (Ph+ ALL) patients with relapsed/refractory disease were studied, 43 of whom received the recommended Gleevec dose of 600 mg/day.
 In addition 2 patients with relapsed/refractory Ph+ ALL received Gleevec 600 mg/day in a Phase 1 study.
 
-Confirmed and unconfirmed hematologic and cytogenetic response rates for the 43 relapsed/refractory Ph+ALL Phase 2 study patients and for the 2 Phase 1 patients are shown in Table 21.
+Confirmed and unconfirmed hematologic and cytogenetic response rates for the 43 relapsed/refractory Ph+ ALL Phase 2 study patients and for the 2 Phase 1 patients are shown in Table 21.
 The median duration of hematologic response was 3.4 months and the median duration of MCyR was 2.3 months.
 
 Table 21: Effect of Gleevec on Relapsed/Refractory Ph+ ALL
@@ -210,6 +210,7 @@ Table 21: Effect of Gleevec on Relapsed/Refractory Ph+ ALL
 | MCyR | 15 (35) |  |
 | CCyR | 9 (21) |  |
 | PCyR | 6 (14) |  |
+| Abbreviations: CCyR, complete cytogenetic response; CHR, complete hematologic response; MCyR, major cytogenetic response; NEL, no evidence of Leukemia; PCyR, partial cytogenic response; Ph+ ALL, Philadelphia chromosome positive acute lymphoblastic leukemia; PHR, partial hematologic response; RTC, return to chronic phase. |  |  |
 
 ## 14.4 Pediatric ALL
 
@@ -225,7 +226,7 @@ Cohort 1 received the lowest intensity and cohort 5 received the highest intensi
 
 There were 50 patients with Ph+ ALL assigned to cohort 5 all of whom received Gleevec plus chemotherapy; 30 were treated exclusively with chemotherapy and Gleevec and 20 received chemotherapy plus Gleevec and then underwent hematopoietic stem cell transplant, followed by further Gleevec treatment.
 Patients in cohort 5 treated with chemotherapy received continuous daily exposure to Gleevec beginning in the first course of post induction chemotherapy continuing through maintenance cycles 1 through 4 chemotherapy.
-During maintenance cycles 5 through 12 Gleevec was administered 28 days out of the 56 day cycle.
+During maintenance cycles 5 through 12, Gleevec was administered 28 days out of the 56 day cycle.
 Patients who underwent hematopoietic stem cell transplant received 42 days of Gleevec prior to HSCT, and 28 weeks (196 days) of Gleevec after the immediate post transplant period.
 The estimated 4-year EFS of patients in cohort 5 was 70% (95% CI: 54, 81).
 The median follow-up time for EFS at data cutoff in cohort 5 was 40.5 months.
@@ -238,7 +239,7 @@ These patients were treated with Gleevec 400 mg daily.
 The ages of the enrolled patients ranged from 20 to 86 years.
 A further 24 patients with MDS/MPD aged 2 to 79 years were reported in 12 published case reports and a clinical study.
 These patients also received Gleevec at a dose of 400 mg daily with the exception of three patients who received lower doses.
-Of the total population of 31 patients treated for MDS/MPD, 14 (45%) achieved a complete hematological response and 12 (39%) a major cytogenetic response (including 10 with a complete cytogenetic response).
+Of the total population of 31 patients treated for MDS/MPD, 14 (45%) achieved a complete hematological response and 12 (39%) a major cytogenetic response (including 10 with a CCyR).
 Sixteen patients had a translocation, involving chromosome 5q33 or 4q12, resulting in a PDGFR gene re-arrangement.
 All of these patients responded hematologically (13 completely).
 Cytogenetic response was evaluated in 12 out of 14 patients, all of whom responded (10 patients completely).
@@ -257,8 +258,8 @@ Table 22: Response in MDS/MPD
 | Chromosome 5 Translocation | 14 | 11 (79) | 11 (79) |
 | Chromosome 4 Translocation | 2 | 2 (100) | 1 (50) |
 | Others/no Translocation | 14 | 1 (7) | 0 |
-| Molecular Relapse | 1 | NE1 | NE1 |
-| 1NE: Not Evaluable. |  |  |  |
+| Molecular Relapse | 1 | NE | NE |
+| Abbreviations: NE, not evaluable; MDS/MDP, myelodysplastic/myeloproliferative disease. |  |  |  |
 
 ## 14.6 Aggressive Systemic Mastocytosis
 
@@ -272,8 +273,8 @@ Seven of these 20 patients had the FIP1L1-PDGFRα fusion kinase (or CHIC2 deleti
 Patients with this cytogenetic abnormality were predominantly males and had eosinophilia associated with their systemic mast cell disease.
 Two patients had a Kit mutation in the juxtamembrane region (one Phe522Cys and one K509I) and four patients had a D816V c-Kit mutation (not considered sensitive to Gleevec), one with concomitant CML.
 
-Of the 28 patients treated for ASM, 8 (29%) achieved a complete hematologic response and 9 (32%) a partial hematologic response (61% overall response rate).
-Median duration of Gleevec therapy for the 5 ASM patients in the Phase 2 study was 13 months (range, 1.4 to 22.3 months) and between 1 month and more than 30 months in the responding patients described in the published medical literature.
+Of the 28 patients treated for ASM, 8 (29%) achieved a complete hematologic response and 9 (32%) a partial hematologic response (PHR) (61% overall response rate).
+Median duration of Gleevec therapy for the 5 ASM patients in the Phase 2 study was 13 months (range\, 1.4 to 22.3 months) and between 1 month and more than 30 months in the responding patients described in the published medical literature.
 A summary of the response rates to Gleevec in ASM is provided in Table 23.
 Response durations of literature patients ranged from 1+ to 30+ months.
 
@@ -281,12 +282,12 @@ Table 23: Response in ASM
 
 | Cytogenetic Abnormality | Number of Patients N | Complete Hematologic Response N (%) | Partial Hematologic Response N (%) |
 | --- | --- | --- | --- |
-| FIP1L1-PDGFRα Fusion Kinase (or CHIC2 Deletion) | 7 | 7(100) | 0 |
+| FIP1L1-PDGFRα Fusion Kinase (or CHIC2 Deletion) | 7 | 7 (100) | 0 |
 | Juxtamembrane Mutation | 2 | 0 | 2 (100) |
 | Unknown or No Cytogenetic Abnormality Detected | 15 | 0 | 7 (44) |
 | D816V Mutation | 4 | 1* (25) | 0 |
 | Total | 28 | 8 (29) | 9 (32) |
-| * Patient had concomitant CML and ASM. |  |  |  |
+| Abbreviations: ASM, aggressive systemic mastocytosis; PDGFR, platelet-derived growth factor receptor. *Patient had concomitant chronic myeloid leukemia CML and aggressive systemic mastocytosis (ASM). |  |  |  |
 
 Gleevec has not been shown to be effective in patients with less aggressive forms of systemic mastocytosis (SM).
 Gleevec is therefore not recommended for use in patients with cutaneous mastocytosis, indolent systemic mastocytosis (smoldering SM or isolated bone marrow mastocytosis), SM with an associated clonal hematological non-mast cell lineage disease, mast cell leukemia, mast cell sarcoma or extracutaneous mastocytoma.
@@ -296,7 +297,7 @@ Patients that harbor the D816V mutation of c-Kit are not sensitive to Gleevec an
 
 One open-label, multicenter, Phase 2 study was conducted testing Gleevec in diverse populations of patients with life-threatening diseases associated with Abl, Kit or PDGFR protein tyrosine kinases.
 This study included 14 patients with Hypereosinophilic Syndrome/Chronic Eosinophilic Leukemia (HES/CEL).
-HES patients were treated with 100 mg to 1000 mg of Gleevec daily.
+HES patients were treated with 100 mg to 1,000 mg of Gleevec daily.
 The ages of these patients ranged from 16 to 64 years.
 A further 162 patients with HES/CEL aged 11 to 78 years were reported in 35 published case reports and case series.
 These patients received Gleevec at doses of 75 mg to 800 mg daily.
@@ -311,6 +312,7 @@ Table 24: Response in HES/CEL
 | Negative FIP1L1-PDGFRα Fusion Kinase | 56 | 12 (21) | 9 (16) |
 | Unknown Cytogenetic Abnormality | 59 | 34 (58) | 7 (12) |
 | Total | 176 | 107 (61) | 23 (13) |
+| Abbreviations: CEL, chronic eosinophilic leukemia; HES, hypereosinophilic syndrome; PDGFR, platelet-derived growth factor receptor. |  |  |  |
 
 ## 14.8 Dermatofibrosarcoma Protuberans
 
@@ -346,7 +348,7 @@ The median duration of response in the Phase 2 study was 6.2 months, with a maxi
 
 Unresectable and/or Malignant Metastatic GIST
 
-Two open-label, randomized, multinational Phase 3 studies were conducted in patients with unresectable or metastatic malignant gastrointestinal stromal tumors (GIST).
+Two open-label, randomized, multinational Phase 3 studies were conducted in patients with unresectable or metastatic malignant GIST.
 The two study designs were similar allowing a predefined combined analysis of safety and efficacy.
 A total of 1640 patients were enrolled into the two studies and randomized 1:1 to receive either 400 mg or 800 mg orally daily continuously until disease progression or unacceptable toxicity.
 Patients in the 400 mg daily treatment group who experienced disease progression were permitted to crossover to receive treatment with 800 mg daily.
@@ -367,7 +369,8 @@ Table 26: Overall Survival, Progression-Free Survival and Tumor Response Rates i
 | 95% CI | 17.4–21.2 | 20.8–24.9 |
 | Overall Survival (months) | 49.0 | 48.7 |
 | 95% CI | 45.3–60.0 | 45.3–51.6 |
-| Best Overall Tumor Response Complete Response (CR) Partial Response (PR) | 43 (5.3%) 377 (46.1%) | 41 (5.0%) 402 (48.9%) |
+| Best Overall Tumor Response Complete Response Partial Response | 43 (5.3%) 377 (46.1%) | 41 (5.0%) 402 (48.9%) |
+| Abbreviation: GIST, gastrointestinal stromal tumors. |  |  |
 
 Median follow up for the combined studies was 37.5 months.
 There were no observed differences in overall survival between the treatment groups (p = 0.98).
@@ -397,6 +400,8 @@ There were 74 (21%) RFS events in the 12-month Gleevec arm compared to 98 (28%) 
 The median follow-up for OS in patients still living was 61 months.
 There were 26 (7%) and 33 (9%) deaths in the 12-month Gleevec and placebo arms, respectively with a hazard ratio of 0.816 (95% CI: 0.488-1.365).
 
+Figure 3: Study 1 Recurrence-Free Survival (ITT Population)
+
 A second randomized, multicenter, open-label, Phase 3 trial in the adjuvant setting (Study 2) compared 12 months of Gleevec treatment to 36 months of Gleevec treatment at 400 mg/day in adult patients with KIT (CD117) positive GIST after surgical resection with one of the following: tumor diameter greater than 5 cm and mitotic count greater than 5/50 high power fields (HPF), or tumor diameter greater than 10 cm and any mitotic count, or tumor of any size with mitotic count greater than 10/50 HPF, or tumors ruptured into the peritoneal cavity.
 There were a total of 397 patients randomized in the trial with 199 patients on the 12-month treatment arm and 198 patients on the 36-month treatment arm.
 The median age was 61 years (range, 22 to 84 years).
@@ -409,3 +414,7 @@ Thirty-six months of Gleevec treatment significantly prolonged RFS compared to 1
 The median follow-up for overall survival (OS) in patients still living was 48 months.
 There were 25 (13%) deaths in the 12-month treatment arm and 12 (6%) deaths in the 36-month treatment arm.
 Thirty-six months of Gleevec treatment significantly prolonged OS compared to 12 months of Gleevec treatment with a hazard ratio of 0.45 (95% CI: 0.22, 0.89), p = 0.0187 (Figure 5).
+
+Figure 4: Study 2 Recurrence-Free Survival (ITT Population)
+
+Figure 5: Study 2 Overall Survival (ITT Population)
