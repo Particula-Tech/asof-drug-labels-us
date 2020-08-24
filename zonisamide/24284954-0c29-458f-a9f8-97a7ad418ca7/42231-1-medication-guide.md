@@ -1,34 +1,63 @@
-Medication Guide
-
-Zonisamide Capsules USP
-
-Read this Medication Guide before you start taking zonisamide capsules and each time you get a refill.
-There may be new information.
-This information does not take the place of talking to your healthcare provider about your medical condition or treatment.
+| Medication Guide Zonisamide Capsules, USP (zoe nis’ a mide) |
+| --- |
 
 What is the most important information I should know about zonisamide capsules?
 
 Zonisamide capsules may cause serious side effects, including:
 
 1. Serious skin rash that can cause death.
-2. Less sweating and increase in your body temperature (fever).
-3. Suicidal thoughts or actions in some people.
-4. Increased level of acid in your blood (metabolic acidosis).
-5. Problems with your concentration, attention, memory, thinking, speech, or language.
-6. Blood cell changes such as reduced red and white blood cell counts.
+2. Serious allergic reactions that may affect different parts of the body.
+3. Less sweating and increase in your body temperature (fever).
+4. Serious eye problems.
+5. Suicidal thoughts or actions in some people.
+6. Increased level of acid in your blood (metabolic acidosis).
+7. Problems with your concentration, attention, memory, thinking, speech, or language.
+8. Blood cell changes such as reduced red and white blood cell counts.
 
 These serious side effects are described below.
 
-1. Zonisamide capsules may cause a serious skin rash that can cause death.
-   These serious skin reactions are more likely to happen when you begin taking zonisamide capsules within the first 4 months of treatment but may occur at later times.
-2. Zonisamide capsules may cause you to sweat less and to increase your body temperature (fever).
-   You may need to be hospitalized for this.
-   You should watch for decreased sweating and fever, especially when it is hot and especially in children taking zonisamide capsules.
-   Call your health care provider right away if you have:
-   - a skin rash
-   - high fever, recurring fever, or long lasting fever
-   - less sweat than normal
-3. Like other antiepileptic drugs, zonisamide may cause suicidal thoughts or actions in a very small number of people, about 1 in 500.
+1.
+Zonisamide capsules may cause a serious skin rash that can cause death.
+These serious skin reactions are more likely to happen when you begin taking zonisamide capsules within the first 4 months of treatment but may occur at later times.
+
+2.
+Zonisamide can cause other types of allergic reactions or serious problems that may affect different parts of the body such as your liver, kidneys, heart, or blood cells.
+You may or may not have a rash with these types of reactions.
+These reactions can be very serious and can cause death.
+Call your health care provider right away if you have:
+
+- fever
+- severe muscle pain
+- rash
+- swollen lymph glands
+- swelling of your face
+- unusual bruising or bleeding
+- weakness, fatigue
+- yellowing of your skin or the white part of your eyes
+
+3.
+Zonisamide may cause you to sweat less and to increase your body temperature (fever).
+You may need to be hospitalized for this.
+You should watch for decreased sweating and fever, especially when it is hot and especially in children taking Zonisamide.
+
+Call your health care provider right away if you have:
+
+- high fever, recurring fever, or long lasting fever
+- less sweat than normal
+
+4.
+Zonisamide may cause eye problems.
+Serious eye problems include:
+
+- sudden decrease in vision with or without eye pain and redness
+- a blockage of fluid in the eye causing increased pressure in the eye (secondary angle closure glaucoma)
+
+These eye problems can lead to permanent loss of vision if not treated.
+
+Call your healthcare provider right away if you have any new eye symptoms, including any eye pain or redness or any new problems with your vision.
+
+5.
+Like other antiepileptic drugs, zonisamide may cause suicidal thoughts or actions in a very small number of people, about 1 in 500.
 
 Call a healthcare provider right away if you have any of these symptoms, especially if they are new, worse, or worry you:
 
@@ -59,10 +88,11 @@ Do not stop zonisamide without first talking to a healthcare provider.
 Stopping zonisamide suddenly can cause serious problems.
 Stopping a seizure medicine suddenly in a patient who has epilepsy can cause seizures that will not stop (status epilepticus).
 
-4.
+6.
 Zonisamide can increase the level of acid in your blood (metabolic acidosis).
 If left untreated, metabolic acidosis can cause brittle or soft bones (osteoporosis, osteomalacia, osteopenia), kidney stones and can slow the rate of growth in children.
 Metabolic acidosis can happen with or without symptoms.
+
 Sometimes people with metabolic acidosis will:
 
 - feel tired
@@ -72,12 +102,11 @@ Sometimes people with metabolic acidosis will:
 
 Your healthcare provider should do a blood test to measure the level of acid in your blood before and during your treatment with zonisamide.
 
-5.
+7.
 Zonisamide may cause problems with your concentration, attention, memory, thinking, speech, or language.
 
-6.
-Zonisamide can cause blood cell changes such as reduced red and white blood cell counts.
-Call your healthcare provider if you develop fever, sore throat, sores in your mouth, or unusual bruising.
+8.
+Zonisamide can cause blood cell changes such as reduced red and white blood cell counts. call your healthcare provider if you develop fever, sore throat, sores in your mouth or unusual bruising.
 
 Zonisamide capsules can have other serious side effects.
 For more information ask your healthcare provider or pharmacist.
@@ -90,11 +119,9 @@ Zonisamide is a prescription medicine that is used with other medicines to treat
 
 It is not known if zonisamide is safe or effective in children under 16 years of age.
 
-Who should not take zonisamide capsules?
+Do not take zonisamide capsules:
 
 Do not take zonisamide capsules if you are allergic to medicines that contain sulfa.
-
-What should I tell my healthcare provider before taking zonisamide capsules?
 
 Before taking zonisamide capsules, tell your healthcare provider about all your medical conditions, including if you:
 
@@ -106,6 +133,7 @@ Before taking zonisamide capsules, tell your healthcare provider about all your 
 - have a growth problem
 - are on a diet high in fat called a ketogenic diet
 - have diarrhea
+- have high blood levels of ammonia
 
 Tell your healthcare provider if you:
 
@@ -113,23 +141,16 @@ Tell your healthcare provider if you:
   Zonisamide capsules may harm your unborn baby.
   Women who can become pregnant should use effective birth control.
   Tell your healthcare provider right away if you become pregnant while taking zonisamide capsules.
-
-You and your healthcare provider should decide if you should take zonisamide capsules while you are pregnant.
-
-If you become pregnant while taking zonisamide, talk to your healthcare provider about registering with the North American Antiepileptic Drug Pregnancy Registry.
-You can enroll in this registry by calling 1-888-233-2334.
-The purpose of this registry is to collect information about the safety of antiepileptic drugs during pregnancy.
-
+  You and your healthcare provider should decide if you should take zonisamide capsules while you are pregnant.
+  If you become pregnant while taking zonisamide, talk to your healthcare provider about registering with the North American Antiepileptic Drug Pregnancy Registry.
+  You can enroll in this registry by calling 1-888-233-2334.
+  The purpose of this registry is to collect information about the safety of antiepileptic drugs during pregnancy.
 - are breastfeeding or plan to breastfeed.
   Zonisamide can pass into your breast milk.
   It is not known if zonisamide in your breast milk can harm your baby.
   Talk to your healthcare provider about the best way to feed your baby if you take zonisamide capsules.
 
-Tell your healthcare provider about all the medicines you take including prescription and non-prescription medicines, vitamins or herbal supplements.
-Zonisamide capsules and other medicines may affect each other causing side effects.
-
-Know the medicines you take.
-Keep a list of them with you to show your healthcare provider and pharmacist each time you get a new medicine.
+Tell your healthcare provider about all the medicines you take, including prescription and over-the-counter medicines, vitamins or herbal supplements.
 
 How should I take zonisamide capsules?
 
@@ -151,13 +172,17 @@ What should I avoid while taking zonisamide capsules?
 
 What are the possible side effects of zonisamide capsules?
 
-Zonisamide capsules can cause serious side effects including:
+Zonisamide capsules can cause serious side effects.
+See “What is the most important information I should know about zonisamide capsules ?”
 
-- The side effects mentioned above (see “What is the most important information I should know about zonisamide capsules?”)
-- kidney stones: back pain, stomach pain, or blood in your urine may mean you have kidney stones.
+Other serious side effects include:
+
+- kidney stones: Back pain, stomach pain, or blood in your urine may mean you have kidney stones.
   Drink plenty of fluids while you take zonisamide to lower your chance of getting kidney stones.
 - problems with mood or thinking (new or worse depression; sudden changes in mood, behavior, or loss of contact with reality, sometimes associated with hearing voices or seeing things that are not really there; feeling sleepy or tired; trouble concentrating; speech and language problems).
   Call your healthcare provider right away if you have any of the symptoms listed above.
+- high blood ammonia levels.
+  High ammonia in the blood can affect your mental activities, slow your alertness, make you feel tired, or cause vomiting.
 
 The most common side effects of zonisamide capsules include:
 
@@ -170,9 +195,7 @@ The most common side effects of zonisamide capsules include:
 
 Side effects can happen at any time, but are more likely to happen during the first several weeks after starting zonisamide capsules.
 
-Tell your healthcare provider about any side effect that bothers you or that does not go away.
 These are not all of the possible side effects of zonisamide capsules.
-For more information, ask your healthcare provider or pharmacist.
 
 Call your doctor for medical advice about side effects.
 You may report side effects to FDA at 1-800-FDA-1088.
@@ -180,7 +203,7 @@ You may report side effects to FDA at 1-800-FDA-1088.
 How should I store zonisamide capsules?
 
 - Store zonisamide capsules at 20°C to 25°C (68°F to 77°F) [see USP Controlled Room Temperature]
-- dry and away from light
+- Keep zonisamide capsules dry and away from light
 
 Keep zonisamide capsules and all medicines out of the reach of children.
 
@@ -190,12 +213,9 @@ Medicines are sometimes prescribed for purposes other than those listed in a Med
 Do not use zonisamide for a condition for which it was not prescribed.
 Do not give zonisamide capsules to other people, even if they have the same symptoms that you have.
 It may harm them.
-
-This Medication Guide summarizes the most important information about zonisamide capsules.
-If you would like more information, talk with your healthcare provider.
 You can ask your pharmacist or healthcare provider for information about zonisamide capsules that is written for health professionals.
 
-For more information, go to www.exelanpharma.com or call 1-855-295-7455.
+For more information, go to www.exelanpharma.com or call at 1-866-604-3268.
 
 What are the ingredients in zonisamide capsules?
 
@@ -207,8 +227,8 @@ Imprint ink dye (Black SW- 9008/SW-9009)
 
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
 
-Manufactured by: InvaGen Pharmaceuticals, Inc. Hauppauge, NY 11788
+Manufactured by: InvaGen Pharmaceuticals, Inc. (a subsidiary of Cipla Ltd.) Hauppauge, NY 11788
 
-Manufactured for: Exelan Pharmaceuticals, Inc. Lawrenceville, GA 30046
+Manufactured for: Exelan Pharmaceuticals, Inc. Boca Raton, FL 33432
 
-Rev: 08/12
+Revised: 07/20

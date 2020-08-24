@@ -8,7 +8,7 @@ Furthermore, zonisamide suppressed both interictal spikes and the secondarily ge
 The relevance of these models to human epilepsy is unknown.
 
 Zonisamide may produce these effects through action at sodium and calcium channels.
-In vitro pharmacological studies suggest that zonisamide blocks sodium channels and reduces voltage-dependent, transient inward currents (T-type Ca2+currents), consequently stabilizing neuronal membranes and suppressing neuronal hypersynchronization.
+In vitro pharmacological studies suggest that zonisamide blocks sodium channels and reduces voltage-dependent, transient inward currents (T-type Ca2+ currents), consequently stabilizing neuronal membranes and suppressing neuronal hypersynchronization.
 In vitro binding studies have demonstrated that zonisamide binds to the GABA/benzodiazepine receptor ionophore complex in an allosteric fashion which does not produce changes in chloride flux.
 Other in vitro studies have demonstrated that zonisamide (10 to 30 mcg/mL) suppresses synaptically-driven electrical activity without affecting postsynaptic GABA or glutamate responses (cultured mouse spinal cord neurons) or neuronal or glial uptake of [3H]-GABA (rat hippocampal slices).
 Thus, zonisamide does not appear to potentiate the synaptic activity of GABA.
@@ -16,62 +16,102 @@ In vivo microdialysis studies demonstrated that zonisamide facilitates both dopa
 
 Zonisamide is a carbonic anhydrase inhibitor.
 The contribution of this pharmacological action to the therapeutic effects of zonisamide is unknown.
-However, as a carbonic anhydrase inhibitor, zonisamide may cause metabolic acidosis (see WARNINGS, Metabolic Acidosissubsection).
+However, as a carbonic anhydrase inhibitor, zonisamide may cause metabolic acidosis (see WARNINGS, Metabolic Acidosis subsection).
 
-Pharmacokinetics: Following a 200 to 400 mg oral zonisamide dose, peak plasma concentrations (range: 2 to5 mcg/mL) in normal volunteers occur within 2 to 6 hours.
-In the presence of food, the time to maximum concentration is delayed, occurring at 4 to 6 hours, but food has no effect on the bioavailability of zonisamide.
-Zonisamide extensively binds to erythrocytes, resulting in an eight-fold higher concentration of zonisamide in red blood cells (RBC) than in plasma.
-The pharmacokinetics of zonisamide are dose proportional in the range of 200 to 400 mg, but the Cmax and AUC increase disproportionately at 800 mg, perhaps due to saturable binding of zonisamide to RBC.
+## Pharmacokinetics:
+
+Absorption
+
+Following a 200 to 400 mg oral zonisamide dose, peak plasma concentrations (range: 2 to 5 mcg/mL) in normal volunteers occur within 2 to 6 hours.
+In the presence of food, the time to maximum concentration is delayed; occurring at 4 to 6 hours, but food has no effect on the bioavailability of zonisamide.
+Zonisamide absorption is dose-proportional in the range of 200 to 400 mg.
+Cmax and AUC, however, increase disproportionately at 800 mg, possibly due to saturable binding of zonisamide to red blood cells.
 Once a stable dose is reached, steady state is achieved within 14 days.
-The elimination half-life of zonisamide in plasma is about 63 hours.
-The elimination half-life of zonisamide in RBC is approximately 105 hours.
+
+Distribution
 
 The apparent volume of distribution (V/F) of zonisamide is about 1.45 L/kg following a 400 mg oral dose.
 Zonisamide, at concentrations of 1.0 to 7.0 mcg/mL, is approximately 40% bound to human plasma proteins.
+Zonisamide extensively binds to erythrocytes, resulting in an eight-fold higher concentration of zonisamide in red blood cells than in plasma.
 Protein binding of zonisamide is unaffected in the presence of therapeutic concentrations of phenytoin, phenobarbital or carbamazepine.
 
-Metabolism and Excretion: Following oral administration of 14C-zonisamide to healthy volunteers, only zonisamide was detected in plasma.
+Metabolism and Elimination
+
+Following oral administration of 14C-zonisamide to healthy volunteers, only zonisamide was detected in plasma.
 Zonisamide is excreted primarily in urine as parent drug and as the glucuronide of a metabolite.
-Following multiple dosing, 62% of the 14C dose was recovered in the urine, with 3% in the feces by day 10.
-Zonisamide undergoes acetylation to form N-acetyl zonisamide and reduction to form the open ring metabolite, 2–sulfamoylacetyl phenol (SMAP).
+Following multiple dosing, 62% of the radiolabeled dose was recovered in the urine, with 3% in the feces by day 10.
+Zonisamide undergoes acetylation by N-acetyl-transferases to form N-acetyl zonisamide and reduction to form the open ring metabolite, 2–sulfamoylacetyl phenol (SMAP).
 Of the excreted dose, 35% was recovered as zonisamide, 15% as N-acetyl zonisamide, and 50% as the glucuronide of SMAP.
 Reduction of zonisamide to SMAP is mediated by cytochrome P450 isozyme 3A4 (CYP3A4).
+
 Zonisamide does not induce its own metabolism.
-Plasma clearance of zonisamide is approximately 0.30 to 0.35 mL/min/kg in patients not receiving enzyme-inducing antiepilepsy drugs (AEDs).
+The plasma clearance of oral zonisamide is approximately 0.30 to 0.35 mL/min/kg in patients not receiving enzyme-inducing antiepilepsy drugs (AEDs).
 The clearance of zonisamide is increased to 0.5 mL/min/kg in patients concurrently on enzyme-inducing AEDs.
 
-Renal clearance is about 3.5 mL/min.
-The clearance of an oral dose of zonisamide from RBC is 2 mL/min.
+After a single-dose administration, renal clearance of zonisamide is approximately 3.5 mL/min.
+The clearance of an oral dose of zonisamide from red blood cells is 2 mL/min.
+The elimination half-life of zonisamide in plasma is approximately 63 hours.
+The elimination half-life of zonisamide in red blood cells is approximately 105 hours.
 
-Special Populations:
+## Specific Populations:
 
-Renal Insufficiency: Single 300 mg zonisamide doses were administered to three groups of volunteers.
+Renal Impairment: Single 300 mg zonisamide doses were administered to three groups of volunteers.
 Group 1 was a healthy group with a creatinine clearance ranging from 70 to 152 mL/min.
 Group 2 and Group 3 had creatinine clearances ranging from 14.5 to 59 mL/min and 10 to 20 mL/min, respectively.
 Zonisamide renal clearance decreased with decreasing renal function (3.42, 2.50, 2.23 mL/min, respectively).
-Marked renal impairment (creatinine clearance < 20 mL/min) was associated with an increase in zonisamide AUC of 35% (see DOSAGE AND ADMINISTRATION section).
+Marked renal impairment (creatinine clearance <20 mL/min) was associated with an increase in zonisamide AUC of 35% (see DOSAGE AND ADMINISTRATION section).
 
-Hepatic Disease: The pharmacokinetics of zonisamide in patients with impaired liver function have not been studied (see DOSAGE AND ADMINISTRATION section).
+Hepatic Impairment: The pharmacokinetics of zonisamide in patients with impaired liver function have not been studied (see DOSAGE AND ADMINISTRATION section).
 
 Age: The pharmacokinetics of a 300 mg single dose of zonisamide was similar in young (mean age 28 years) and elderly subjects (mean age 69 years).
 
 Gender and Race: Information on the effect of gender and race on the pharmacokinetics of zonisamide is not available.
 
-Interactions of Zonisamide with Other Antiepilepsy Drugs (AEDs)
+Effects of Zonisamide on cytochrome P450 enzymes
 
-Concurrent medication with drugs that either induce or inhibit CYP3A4 may alter serum concentrations of zonisamide.
-Concomitant administration of phenytoin and carbamazepine increases zonisamide plasma clearance from 0.30 to 0.35 mL/min/kg to 0.35 to 0.5 mL/min/kg.
-The half-life of zonisamide is decreased to 27 hours by phenytoin, to 38 hours by phenobarbital and carbamazepine, and to 46 hours by valproate.
-Plasma protein binding of phenytoin and carbamazepine was not affected by zonisamide administration (see PRECAUTIONS, Drug Interactionssubsection).
+In vitro studies using human liver microsomes show insignificant (<25%) inhibition of cytochrome P450 isozymes 1A2, 2A6, 2C9, 2C19, 2D6, 2E1, 3A4, 2B6 or 2C8 at zonisamide levels approximately two-fold or greater than clinically relevant unbound serum concentrations.
+Therefore, Zonisamide is not expected to affect the pharmacokinetics of other drugs via cytochrome P450-mediated mechanisms.
 
-Interactions of Zonisamide with Other Carbonic Anhydrase Inhibitors
+Potential for Zonisamide to affect other drugs
 
-Concomitant use of zonisamide a carbonic anhydrase inhibitor, with any other carbonic anhydrase inhibitor (e.g., topiramate, acetazolamide or dichlorphenamide), may increase the severity of metabolic acidosis and may also increase the risk of kidney stone formation.
-Therefore, if zonisamide is given concomitantly with another carbonic anhydrase inhibitor, the patient should be monitored for the appearance or worsening of metabolic acidosis (see PRECAUTIONS, Drug Interactions subsection).
+Anti-epileptic drugs
 
-Clinical Studies
+In epileptic patients, steady state dosing with Zonisamide resulted in no clinically relevant pharmacokinetic effects on carbamazepine, lamotrigine, phenytoin, or sodium valproate.
 
-The effectiveness of zonisamide as adjunctive therapy (added to other antiepilepsy drugs) has been established in three multicenter, placebo-controlled, double blind, 3-month clinical trials (two domestic, one European) in 499 patients with refractory partial onset seizures with or without secondary generalization.
+Oral contraceptives
+
+In healthy subjects, steady state dosing with Zonisamide did not affect serum concentrations of ethinylestradiol or norethisterone in a combined oral contraceptive.
+
+CYP2D6 substrates
+
+Coadministration of multiple dosing of zonisamide up to 400 mg/day with single 50 mg doses of desipramine did not significantly affect the pharmacokinetic parameters of desipramine, a probe drug for CYP2D6 activity.
+
+P-gp substrate
+
+An in vitro study showed that zonisamide is a weak inhibitor of P-gp (MDR1) with an IC50 of 267 μmol/L.
+There is a theoretical potential for zonisamide to affect the pharmacokinetics of drugs which are P-gp substrates.
+Caution is advised when starting or stopping Zonisamide or changing the Zonisamide dose in patients who are also receiving drugs which are P-gp substrates (e.g., digoxin, quinidine).
+
+Potential for Medicinal Products to Affect Zonisamide
+
+Concomitant medications that can induce or inhibit CYP3A4 or N-acetyl-transferases may affect the pharmacokinetics of zonisamide.
+Drugs which inhibit or induce glucuronide conjugation are not expected to influence the pharmacokinetics of zonisamide.
+
+The absence of a clinically significant pharmacokinetic interaction between zonisamide and lamotrigine indicates a low potential for zonisamide to interact with substances which are metabolized by UDP-GT.
+
+CYP3A4 Induction: Drugs that induce liver enzymes increase the metabolism and clearance of zonisamide and decrease its half-life.
+The half-life of zonisamide following a 400 mg dose in patients concurrently on enzyme-inducing AEDs such as phenytoin, carbamazepine, or phenobarbital was between 27 to 38 hours, the half-life of zonisamide in patients concurrently on the non-enzyme inducing AED, valproate, was 46 hours.
+
+These effects are unlikely to be of clinical significance when Zonisamide is added to existing therapy; however, changes in zonisamide concentrations may occur if concomitant CYP3A4 inducing anti-epileptic or other drugs are withdrawn, dose adjusted or introduced, an adjustment of the Zonisamide dose may be required.
+If co-administration with a potent CYP3A4 inducer (e.g., rifampicin) is necessary, the patient should be closely monitored and the dose of Zonisamide and other drugs that are CYP3A4 substrate may need to be adjusted.
+
+CYP3A4 Inhibition: Steady-state dosing of either ketoconazole (400 mg/day) or cimetidine (1200 mg/day) had no clinically relevant effects on the single dose pharmacokinetics of zonisamide given to healthy subjects.
+Therefore, modification of Zonisamide dosing is not necessary when co-administered with known CYP3A4 inhibitors.
+
+Interactions of Zonisamide with Other Carbonic Anhydrase Inhibitors: Concomitant use of zonisamide, a carbonic anhydrase inhibitor, with any other carbonic anhydrase inhibitor (e.g., topiramate, acetazolamide or dichlorphenamide), may increase the severity of metabolic acidosis and may also increase the risks of hyperammonemia and kidney stone formation.
+Therefore, if zonisamide is given concomitantly with another carbonic anhydrase inhibitor, the patient should be monitored for the appearance or worsening of metabolic acidosis (see WARNINGS, Metabolic Acidosis subsection and Hyperammonemia and Encephalopathy subsection and PRECAUTIONS, Drug Interactions subsection).
+
+Clinical Studies: The effectiveness of zonisamide as adjunctive therapy (added to other antiepilepsy drugs) has been established in three multicenter, placebo-controlled, double blind, 3-month clinical trials (two domestic, one European) in 499 patients with refractory partial onset seizures with or without secondary generalization.
 Each patient had a history of at least four partial onset seizures per month in spite of receiving one or two antiepilepsy drugs at therapeutic concentrations.
 The 499 patients (209 women, 290 men) ranged in age from 13 to 68 years with a mean age of about 35 years.
 In the two US studies, over 80% of patients were Caucasian; 100% of patients in the European study were Caucasian.
@@ -92,36 +132,34 @@ Both studies demonstrated statistically significant differences favoring zonisam
 Analysis of the data (first 4 weeks) during titration demonstrated statistically significant differences favoring zonisamide at doses between 100 and 400 mg/day.
 The primary comparison in both trials was for any dose over Weeks 5 to 12.
 
-Table 1 Median % Reduction in All Partial Seizures and % Responders in Primary Efficacy Analyses: Intent-To-Treat Analysis
+Table 1.
+Median % Reduction in All Partial Seizures and % Responders in Primary Efficacy Analyses: Intent-To-Treat Analysis
 
-|  | Zonisamide | Placebo | Zonisamide | Placebo |
+| Study | Median % Reduction in partial seizures |  | % Responders |  |
 | --- | --- | --- | --- | --- |
-| Study | Median % reduction in partial seizures |  | % Responders |  |
-| Study 1 | n=98 | n=72 | n=98 | n=72 |
-| Weeks 8 to 12 | 40.5%* | 9.0% | 41.8%* | 22.2% |
-| Study 2 | n=69 | n=72 | n=69 | n=72 |
-| Weeks 5 to 12 | 29.6%* | -3.2% | 29.0% | 15.0% |
-| Study 3 | n=67 | n=66 | n=67 | n=66 |
-| Weeks 5 to 12: | 27.2%* | -1.1% | 28.0%* | 12.0% |
-| *p<0.05 compared to placebo |  |  |  |  |
-
-Table 2 Median % Reduction in All Partial Seizures and % Responders for Dose Analyses in Study 1: Intent-To-Treat Analysis
-
 |  | Zonisamide | Placebo | Zonisamide | Placebo |
+| Study 1 Weeks 8 to 12 | n=98 40.5%* | n=72 9.0% | n=98 41.8%* | n=72 22.2% |
+| Study 2 Weeks 5 to 12 | n=69 29.6%* | n=72 -3.2% | n=69 29.0% | n=72 15.0% |
+| Study 3 Weeks 5 to 12 | n=67 27.2%* | n=66 -1.1% | n=67 28.0%* | n=66 12.0% |
+| * p<0.05 compared to placebo |  |  |  |  |
+
+Table 2.
+Median % Reduction in All Partial Seizures and % Responders for Dose Analyses in Study 1: Intent-To-Treat Analysis
+
+| Dose Group | Median % Reduction in partial seizures |  | % Responders |  |
 | --- | --- | --- | --- | --- |
-| Dose Group | Median % reduction in partial seizures |  | % Responders |  |
-| 100 to 400 mg/day: | n=112 | n=83 | n=112 | n=83 |
-| Weeks 1 to 12 | 32.3%* | 5.6% | 32.1%* | 9.6% |
-| 100 mg/day | n=56 | n=80 | n=56 | n=80 |
-| Weeks 1 to 5: | 24.7%* | 8.3% | 25.0%* | 11.3% |
-| 200 mg/day | n=55 | n=82 | n=55 | n=82 |
-| Weeks 2 to 6 | 20.4%* | 4.0% | 25.5%* | 9.8% |
-| *p<0.05 compared to placebo |  |  |  |  |
+|  | Zonisamide | Placebo | Zonisamide | Placebo |
+| 100 to 400 mg/day Weeks 1 to 12 | n=112 32.3%* | n=83 5.6% | n=112 32.1%* | n=83 9.6% |
+| 100 mg/day Weeks 1 to 5 | n=56 24.7%* | n=80 8.3% | n=56 25.0%* | n=80 11.3% |
+| 200 mg/day Weeks 2 to 6 | n=55 20.4%* | n=82 4.0% | n=55 25.5%* | n=82 9.8% |
+| * p<0.05 compared to placebo |  |  |  |  |
 
 Figure 1 presents the proportion of patients (X-axis) whose percentage reduction from baseline in the all partial seizure rate was at least as great as that indicated on the Y-axis in the second and third placebo-controlled trials.
 A positive value on the Y-axis indicates an improvement from baseline (i.e., a decrease in seizure rate), while a negative value indicates a worsening from baseline (i.e., an increase in seizure rate).
 Thus, in a display of this type, the curve for an effective treatment is shifted to the left of the curve for placebo.
 The proportion of patients achieving any particular level of reduction in seizure rate was consistently higher for the zonisamide groups compared to the placebo groups.
 For example, Figure 1 indicates that approximately 27% of patients treated with zonisamide experienced a 75% or greater reduction, compared to approximately 12% in the placebo groups.
+
+Figure 1 Proportion of Patients Achieving Differing Levels of Seizure Reduction in Zonisamide and Placebo Groups in Studies 2 and 3
 
 No differences in efficacy based on age, sex or race, as measured by a change in seizure frequency from baseline, were detected.
