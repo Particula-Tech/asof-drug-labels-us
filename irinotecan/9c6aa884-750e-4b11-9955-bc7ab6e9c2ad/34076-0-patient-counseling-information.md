@@ -10,17 +10,20 @@
 - Patients should be warned about the potential for dizziness or visual disturbances which may occur within 24 hours following the administration of irinotecan hydrochloride injection.
 - Explain the significance of routine blood cell counts.
   Instruct patients to monitor their temperature frequently and immediately report any occurrence of fever or infection.
-- irinotecan hydrochloride injection may cause fetal harm.
-  Advice patients to avoid becoming pregnant while receiving this drug.
+- Embryo-Fetal Toxicity [see Warnings and Precautions (5.9), Use in Specific Populations (8.1, 8.3), Clinical Pharmacology (12.1) and Nonclinical Toxicology (13.1)] o Advise pregnant women and females of reproductive potential of the potential risk to a fetus and to inform their healthcare provider of a known or suspected pregnancy. o Advise females of reproductive potential to use effective contraception during treatment with irinotecan hydrochloride injection and for 6 months after the final dose. o Advise male patients with female partners of reproductive potential to use condoms during treatment and for 3 months after the final dose of irinotecan hydrochloride injection.
+- Lactation o Advise women not to breastfeed during treatment with irinotecan hydrochloride injection and for at least 7 days after the final dose [see Use in Specific Populations (8.2)].
+- Infertility o Advise females and males of reproductive potential that irinotecan hydrochloride injection may impair fertility [see Use in Specific Populations (8.3)].
 - Patients should be alerted to the possibility of alopecia.
 - Contains sorbitol.
 
 Manufactured by: THYMOORGAN PHARMAZIE GmbH Schiffgraben 23 38690 Goslar Germany
 
-Distributed by: WEST-WARD PHARMACEUTICALS CORP. Eatontown, NJ 07724 USA
+Distributed by: Hikma Pharmaceuticals USA Inc. Berkeley Heights, NJ 07922
 
-NOVAPLUS is a registered trademark of Vizient, Inc.
+Novaplus is a registered trademark of Vizient, Inc.
 
-127.207.017/00
+novaplus+
 
-Issued: March 2016
+Revised: June 2020
+
+127.207.017/02

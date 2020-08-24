@@ -6,8 +6,6 @@ Because clinical trials are conducted under widely varying conditions, adverse r
 
 Common adverse reactions (≥30%) observed in single agent therapy clinical studies are: nausea, vomiting, abdominal pain, diarrhea, constipation, anorexia, neutropenia, leukopenia (including lymphocytopenia), anemia, asthenia, fever, body weight decreasing, and alopecia.
 
-Serious opportunistic infections have not been observed, and no complications have specifically been attributed to lymphocytopenia.
-
 ### Second-Line Single-Agent Therapy
 
 Weekly Dosage Schedule In three clinical studies evaluating the weekly dosage schedule, 304 patients with metastatic carcinoma of the colon or rectum that had recurred or progressed following 5-FU-based therapy were treated with irinotecan hydrochloride injection.
@@ -22,7 +20,7 @@ The first dose of at least one cycle of irinotecan hydrochloride injection was r
 Within-cycle dose reductions were required for 32% of the cycles initiated at the 125-mg/m2 dose level.
 The most common reasons for dose reduction were late diarrhea, neutropenia, and leukopenia.
 Thirteen (4.3%) patients discontinued treatment with irinotecan hydrochloride injection because of adverse events.
-The adverse events in Table 3 are based on the experience of the 304 patients enrolled in the three studies described in CLINICAL STUDIES (14.1).
+The adverse events in Table 3 are based on the experience of the 304 patients enrolled in the three studies described in Clinical Studies (14.1).
 
 Table 3.
 Adverse Events Occurring in >10% of 304 Previously Treated Patients with Metastatic Carcinoma of the Colon or RectumSeverity of adverse events based on NCI CTC (version 1.0)
@@ -87,9 +85,10 @@ Hospitalizations due to serious adverse events occurred at least once in 60% (18
 Eight percent of patients treated with irinotecan and 7% treated with 5-FU-based therapy discontinued treatment due to adverse events.
 
 Of the 316 patients treated with irinotecan, the most clinically significant adverse events (all grades, 1–4) were diarrhea (84%), alopecia (72%), nausea (70%), vomiting (62%), cholinergic symptoms (47%), and neutropenia (30%).
-Table 8 lists the grade 3 and 4 adverse events reported in the patients enrolled to all treatment arms of the two studies described in CLINICAL STUDIES (14.1).
+Table 4 lists the grade 3 and 4 adverse events reported in the patients enrolled to all treatment arms of the two studies described in Clinical Studies (14.1).
 
-Table 4: Percent Of Patients Experiencing Grade 3 & 4 Adverse Events In Comparative Studies Of Once-Every-3-Week Irinotecan TherapySeverity of adverse events based on NCI CTC (version 1.0)
+Table 4.
+Percent Of Patients Experiencing Grade 3 & 4 Adverse Events In Comparative Studies Of Once-Every-3-Week Irinotecan TherapySeverity of adverse events based on NCI CTC (version 1.0)
 
 | Adverse Event | Study 1 |  | Study 2 |  |
 | --- | --- | --- | --- | --- |
@@ -133,7 +132,7 @@ The 8.5% incidence of akathisia, however, is within the range reported for use o
 
 ## 6.2 Postmarketing Experience
 
-The following adverse reactions have been identified during postapproval use of irinotecan hydrochloride injection.
+The following adverse reactions have been identified during post approval use of irinotecan hydrochloride injection.
 Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
 
 Myocardial ischemic events have been observed following irinotecan hydrochloride injection therapy.
@@ -148,3 +147,5 @@ Transient dysarthria has been reported in patients treated with irinotecan hydro
 
 Interaction between irinotecan hydrochloride injection and neuromuscular blocking agents cannot be ruled out.
 Irinotecan has anticholinesterase activity, which may prolong the neuromuscular blocking effects of suxamethonium and the neuromuscular blockade of non-depolarizing drugs may be antagonized.
+
+Infections: fungal and viral infections have been reported.

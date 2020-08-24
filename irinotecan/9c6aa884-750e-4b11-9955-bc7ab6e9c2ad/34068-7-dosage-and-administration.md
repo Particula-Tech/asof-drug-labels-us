@@ -26,7 +26,8 @@ Single-Agent Regimens of Irinotecan Hydrochloride Injection and Dose Modificatio
 Based on recommended dose-levels described in Table 1, Single-Agent Regimens of Irinotecan Hydrochloride Injection and Dose Modifications, subsequent doses should be adjusted as suggested in Table 2, Recommended Dose Modifications for Single-Agent Schedules.
 All dose modifications should be based on the worst preceding toxicity.
 
-Table 2: Recommended Dose Modifications For Single-Agent SchedulesAll dose modifications should be based on the worst preceding toxicity
+Table 2.
+Recommended Dose Modifications For Single-Agent SchedulesAll dose modifications should be based on the worst preceding toxicity
 
 | A new cycle of therapy should not begin until the granulocyte count has recovered to ≥1500/mm3, and the platelet count has recovered to ≥100,000/mm3, and treatment-related diarrhea is fully resolved. Treatment should be delayed 1 to 2 weeks to allow for recovery from treatment-related toxicities. If the patient has not recovered after a 2-week delay, consideration should be given to discontinuing irinotecan hydrochloride injection. |  |  |  |
 | --- | --- | --- | --- |
@@ -41,11 +42,11 @@ Table 2: Recommended Dose Modifications For Single-Agent SchedulesAll dose modif
 | Neutropenic fever | Omit dose until resolved, then ↓ 50 mg/m2 when resolved | ↓ 50 mg/m2 | ↓ 50 mg/m2 |
 | Other hematologic toxicities | Dose modifications for leukopenia, thrombocytopenia, and anemia during a cycle of therapy and at the start of subsequent cycles of therapy are also based on NCI toxicity criteria and are the same as recommended for neutropenia above. |  |  |
 | Diarrhea |  |  |  |
-| 1 (2–3 stools/day > pretx Pretreatment) | Maintain dose level | Maintain dose level | Maintain dose level |
+| 1 (2–3 stools/day > pretxPretreatment) | Maintain dose level | Maintain dose level | Maintain dose level |
 | 2 (4–6 stools/day > pretx) | ↓ 25 mg/m2 | Maintain dose level | Maintain dose level |
 | 3 (7–9 stools/day > pretx) | Omit dose until resolved to ≤ grade 2, then ↓ 25 mg/m2 | ↓ 25 mg/m2 | ↓ 50 mg/m2 |
 | 4 (≥10 stools/day > pretx) | Omit dose until resolved to ≤ grade 2 then ↓ 50 mg/m2 | ↓ 50 mg/m2 | ↓ 50 mg/m2 |
-| Other nonhematologic Excludes alopecia, anorexia, astheniatoxicities |  |  |  |
+| Other nonhematologicExcludes alopecia, anorexia, asthenia toxicities |  |  |  |
 | 1 | Maintain dose level | Maintain dose level | Maintain dose level |
 | 2 | ↓ 25 mg/m2 | ↓ 25 mg/m2 | ↓ 50 mg/m2 |
 | 3 | Omit dose until resolved to ≤ grade 2, then ↓ 25 mg/m2 | ↓ 25 mg/m2 | ↓ 50 mg/m2 |
