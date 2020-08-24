@@ -13,6 +13,17 @@ Tramadol hydrochloride extended-release tablets should be prescribed only by hea
   Crushing, chewing, splitting, or dissolving tramadol hydrochloride extended-release tablets will result in uncontrolled delivery of tramadol and can lead to overdose or death [see WARNINGS].
 - Tramadol hydrochloride extended-release tablets may be taken without regard to food, it is recommended that it be taken in a consistent manner [see CLINICAL PHARMACOLOGY].
 
+Patient Access to Naloxone for the Emergency Treatment of Opioid Overdose
+
+Discuss the availability of naloxone for the emergency treatment of opioid overdose with the patient and caregiver and assess the potential need for access to naloxone, both when initiating and renewing treatment with tramadol hydrochloride extended-release tablets [see WARNINGS, Life-Threatening Respiratory Depression; PRECAUTIONS, Information for Patients].
+
+Inform patients and caregivers about the various ways to obtain naloxone as permitted by individual state naloxone dispensing and prescribing regulations (e.g., by prescription, directly from a pharmacist, or as part of a community-based program).
+
+Consider prescribing naloxone, based on the patient’s risk factors for overdose, such as concomitant use of CNS depressants, a history of opioid use disorder, or prior opioid overdose.
+The presence of risk factors for overdose should not prevent the proper management of pain in any given patient [see WARNINGS, Addiction, Abuse, and Misuse, Life-Threatening Respiratory Depression, Risks from Concomitant Use with Benzodiazepines or Other CNS Depressants].
+
+Consider prescribing naloxone when the patient has household members (including children) or other close contacts at risk for accidental ingestion or overdose.
+
 Initial Dosage
 
 Patients Not Currently on a Tramadol Product

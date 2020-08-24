@@ -13,8 +13,9 @@ Tramadol hydrochloride extended-release tablets are:
 
 Important information about tramadol hydrochloride extended-release tablets:
 
-- Get emergency help right away if you take too many tramadol hydrochloride extended-release tablets (overdose).
+- Get emergency help or call 911 right away if you take too many tramadol hydrochloride extended-release tablets (overdose).
   When you first start taking tramadol hydrochloride extended-release tablets, when your dose is changed, or if you take too many (overdose), serious or life-threatening breathing problems that can lead to death may occur.
+  Talk to your healthcare provider about naloxone, a medicine for the emergency treatment of an opioid overdose.
 - Taking tramadol hydrochloride extended-release tablets with other opioid medicines, benzodiazepines, alcohol, or other central nervous system depressants (including street drugs) can cause severe drowsiness, decreased awareness, breathing problems, coma, and death.
 - Never give anyone else your tramadol hydrochloride extended-release tablets.
   They could die from taking them.
@@ -36,7 +37,7 @@ Before taking tramadol hydrochloride extended-release tablets, tell your healthc
 
 - head injury, seizures ● liver, kidney, thyroid problems
 - problems urinating ● pancreas or gallbladder problems
-- abuse of street or prescription drugs, alcohol addiction, or mental health problems.
+- abuse of street or prescription drugs, alcohol addiction, opioid overdose or mental health problems.
 
 Tell your healthcare provider if you are:
 
@@ -45,6 +46,7 @@ Tell your healthcare provider if you are:
 - breastfeeding.
   Not recommended.
   It may harm your baby.
+- living in a household where there are small children or someone who has abused street or prescription drugs
 - taking prescription or over-the-counter medicines, vitamins, or herbal supplements.
   Taking tramadol hydrochloride extended-release tablets with certain other medicines can cause serious side effects that could lead to death.
 
@@ -75,7 +77,7 @@ The possible side effects of tramadol hydrochloride extended-release tablets:
 - constipation, nausea, sleepiness, vomiting, tiredness, headache, dizziness, abdominal pain, seizure.
   Call your healthcare provider if you have any of these symptoms and they are severe.
 
-Get emergency medical help if you have:
+Get emergency medical help or call 911 right away if you have:
 
 - trouble breathing, shortness of breath, fast heartbeat, chest pain, swelling of your face, tongue, or throat, extreme drowsiness, light-headedness when changing positions, feeling faint, agitation, high body temperature, trouble walking, stiff muscles, or mental changes such as confusion.
 
@@ -101,6 +103,6 @@ Halol-Baroda Highway,
 Halol-389 350, Gujarat, India.
 
 ISS.
-08/2019
+08/2020
 
-PJPI0263I
+PJPI0263J

@@ -13,6 +13,7 @@ Assess each patient’s risk for opioid addiction, abuse, or misuse prior to pre
 Risks are increased in patients with a personal or family history of substance abuse (including drug or alcohol abuse or addiction) or mental illness (e.g., major depression).
 The potential for these risks should not, however, prevent the proper management of pain in any given patient.
 Patients at increased risk may be prescribed opioids such as tramadol hydrochloride extended-release tablets, but use in such patients necessitates intensive counseling about the risks and proper use of tramadol hydrochloride extended-release tablets along with intensive monitoring for signs of addiction, abuse, and misuse.
+Consider prescribing naloxone for the emergency treatment of opioid overdose [seeWARNINGS; Life-Threatening Respiratory Depression, DOSAGE and ADMINISTRATION; Patient Access to Naloxone for the Emergency Treatment of Opioid Overdose].
 
 Abuse or misuse of tramadol hydrochloride extended-release tablets by cutting, breaking, chewing, crushing, snorting, or injecting the dissolved product will result in the uncontrolled delivery of tramadol and can result in overdose and death [see OVERDOSAGE].
 
@@ -44,11 +45,24 @@ Monitor patients closely for respiratory depression, especially within the first
 To reduce the risk of respiratory depression, proper dosing and titration of tramadol hydrochloride extended-release tablets are essential [see DOSAGE and ADMINISTRATION].
 Overestimating the tramadol hydrochloride extended-release tablets dosage when converting patients from another opioid product can result in a fatal overdose with the first dose.
 
-Accidental ingestion of tramadol hydrochloride extended-release tablets, especially by children, can result in respiratory depression and death due to an overdose of tramadol.
+Accidental ingestion of even one dose of tramadol hydrochloride extended-release tablets, especially by children, can result in respiratory depression and death due to an overdose of tramadol.
+
+Educate patients and caregivers on how to recognize respiratory depression and emphasize the importance of calling 911 or getting emergency medical help right away in the event of a known or suspected overdose [seePRECAUTIONS; Information for Patients].
 
 Opioids can cause sleep-related breathing disorders including central sleep apnea (CSA) and sleep-related hypoxemia.
 Opioid use increases the risk of CSA in a dose-dependent fashion.
 In patients who present with CSA, consider decreasing the opioid dosage using best practices for opioid taper [see DOSAGE and ADMINISTRATION].
+
+Patient Access to Naloxone for the Emergency Treatment of Opioid Overdose
+
+Discuss the availability of naloxone for the emergency treatment of opioid overdose with the patient and caregiver and assess the potential need for access to naloxone, both when initiating and renewing treatment with tramadol hydrochloride extended-release tablets.
+Inform patients and caregivers about the various ways to obtain naloxone as permitted by individual state naloxone dispensing and prescribing requirements or guidelines (e.g., by prescription, directly from a pharmacist, or as part of a community-based program).
+Educate patients and caregivers on how to recognize respiratory depression and emphasize the importance of calling 911 or getting emergency medical help, even if naloxone is administered [seePRECAUTIONS; Information for Patients].
+
+Consider prescribing naloxone, based on the patient’s risk factors for overdose, such as concomitant use of other CNS depressants, a history of opioid use disorder, or prior opioid overdose.
+The presence of risk factors for overdose should not prevent the proper management of pain in any given patient.
+Also consider prescribing naloxone if the patient has household members (including children) or other close contacts at risk for accidental ingestion or overdose.
+If naloxone is prescribed, educate patients and caregivers on how to treat with naloxone [see WARNINGS; Addiction, Abuse, and Misuse, Risks from Concomitant Use with Benzodiazepines or Other CNS Depressants, PRECAUTIONS; Information for Patients].
 
 Ultra-Rapid Metabolism of Tramadol and Other Risk Factors for Life-threatening Respiratory Depression in Children
 
@@ -121,6 +135,8 @@ If the decision is made to prescribe a benzodiazepine or other CNS depressant co
 In patients already receiving an opioid analgesic, prescribe a lower initial dose of the benzodiazepine or other CNS depressant than indicated in the absence of an opioid, and titrate based on clinical response.
 If an opioid analgesic is initiated in a patient already taking a benzodiazepine or other CNS depressant, prescribe a lower initial dose of the opioid analgesic, and titrate based on clinical response.
 Follow patients closely for signs and symptoms of respiratory depression and sedation.
+
+If concomitant use is warranted, consider prescribing naloxone for the emergency treatment of opioid overdose [see WARNINGS; Life-Threatening Respiratory Depression, DOSAGE and ADMINISTRATION; Patient Access to Naloxone for the Emergency Treatment of Opioid Overdose].
 
 Advise both patients and caregivers about the risks of respiratory depression and sedation when tramadol hydrochloride extended-release tablets are used with benzodiazepines or other CNS depressants (including alcohol and illicit drugs).
 Advise patients not to drive or operate heavy machinery until the effects of concomitant use of the benzodiazepine or other CNS depressant have been determined.
@@ -270,8 +286,25 @@ Instruct patients not to share tramadol hydrochloride extended-release tablets w
 
 Life-Threatening Respiratory Depression
 
-Inform patients of the risk of life-threatening respiratory depression, including information that the risk is greatest when starting tramadol hydrochloride extended-release tablets or when the dosage is increased, and that it can occur even at recommended dosages [see WARNINGS].
-Advise patients how to recognize respiratory depression and to seek medical attention if breathing difficulties develop.
+Inform patients of the risk of life-threatening respiratory depression, including information that the risk is greatest when starting tramadol hydrochloride extended-release tablets or when the dosage is increased, and that it can occur even at recommended dosages.
+
+Educate patients and caregivers on how to recognize respiratory depression and emphasize the importance of calling 911 or getting emergency medical help right away in the event of a known or suspected overdose [see WARNINGS, Life Threatening Respiratory Depression].
+
+Patient Access to Naloxone for the Emergency Treatment of Opioid Overdose
+
+Discuss with the patient and caregiver the availability of naloxone for the emergency treatment of opioid overdose, both when initiating and renewing treatment with tramadol hydrochloride extended-release tablets.
+Inform patients and caregivers about the various ways to obtain naloxone as permitted by individual state naloxone dispensing and prescribing requirements or guidelines (e.g., by prescription, directly from a pharmacist, or as part of a community-based program) [see WARNINGS, Life Threatening Respiratory Depression; DOSAGE and ADMINISTRATION].
+
+Educate patients and caregivers on how to recognize the signs and symptoms of an overdose.
+
+Explain to patients and caregivers that naloxone’s effects are temporary, and that they must call 911 or get emergency medical help right away in all cases of known or suspected opioid overdose, even if naloxone is administered [see OVERDOSAGE].
+
+If naloxone is prescribed, also advise patients and caregivers:
+
+- How to treat with naloxone in the event of an opioid overdose
+- To tell family and friends about their naloxone and to keep it in a place where family and friends can access it in an emergency
+- To read the Patient Information (or other educational material) that will come with their naloxone.
+  Emphasize the importance of doing this before an opioid emergency happens, so the patient and caregiver will know what to do.
 
 Accidental Ingestion
 
@@ -405,7 +438,8 @@ Due to additive pharmacologic effect, the concomitant use of benzodiazepines or 
 
 Reserve concomitant prescribing of these drugs for use in patients for whom alternative treatment options are inadequate.
 Limit dosages and durations to the minimum required.
-Follow patients closely for signs of respiratory depression and sedation [see WARNINGS].
+Follow patients closely for signs of respiratory depression and sedation.
+If concomitant use is warranted, consider prescribing naloxone for the emergency treatment of opioid overdose [see WARNINGS].
 
 Serotonergic Drugs
 
@@ -430,6 +464,7 @@ Muscle Relaxants
 Tramadol hydrochloride extended-release tablets may enhance the neuromuscular blocking action of skeletal muscle relaxants and produce an increased degree of respiratory depression.
 
 If concomitant use is warranted, monitor patients for signs of respiratory depression that may be greater than otherwise expected and decrease the dosage of tramadol hydrochloride extended-release tablets and/or the muscle relaxant as necessary.
+Due to the risk of respiratory depression with concomitant use of skeletal muscle relaxants and opioids, consider prescribing naloxone for the emergency treatment of opioid overdose [see WARNINGS].
 
 Diuretics
 
