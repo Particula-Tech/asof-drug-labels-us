@@ -4,10 +4,10 @@ NDC 68682-200-25
 
 Rx only
 
-Carbidopa Tablets
+CARBIDOPA TABLETS
 
 25 mg (anhydrous equivalent)
 
 100 Tablets
 
-OCEANSIDE® PHARMACEUTICALS
+OCEANSIDE PHARMACEUTICALS

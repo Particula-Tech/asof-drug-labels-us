@@ -5,6 +5,6 @@ It is designated chemically as (–)-L-α-hydrazino-α-methyl-β-(3,4-dihydroxyb
 Its empirical formula is C10H14N2O4•H2O, and its structural formula is:
 
 Carbidopa tablets contain 25 mg of carbidopa.
-Inactive ingredients are cellulose, FD&C Yellow No. 6, magnesium stearate and starch.
+Inactive ingredients are microcrystalline cellulose, FD&C Yellow No. 6, magnesium stearate and pregelatinized starch.
 
 Tablet content is expressed in terms of anhydrous carbidopa which has a molecular weight of 226.3.

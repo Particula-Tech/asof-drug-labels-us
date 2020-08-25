@@ -2,15 +2,15 @@ When carbidopa is to be given to carbidopa-naive patients who are being treated 
 At least twelve hours should elapse between the last dose of levodopa and initiation of therapy with carbidopa and levodopa.
 See the WARNINGS and DOSAGE AND ADMINISTRATION sections before initiating therapy.
 
-Manufactured for: Oceanside Pharmaceuticals, a division of Valeant Pharmaceuticals North America LLC Bridgewater, NJ 08807 USA
+Distributed by: Oceanside Pharmaceuticals, a division of Bausch Health US, LLC Bridgewater, NJ 08807 USA
 
-Manufactured by: Valeant Pharmaceuticals International, Inc. Steinbach, MB R5G 1Z7, Canada
+Manufactured by: Bausch Health Companies Inc. Steinbach, MB R5G 1Z7, Canada
 
-Lodosyn is a trademark of Valeant Pharmaceuticals International, Inc. or its affiliates.
+LODOSYN is a trademark of Bausch Health Companies Inc. or its affiliates.
 
-©Valeant Pharmaceuticals North America LLC
+© 2020 Bausch Health Companies Inc. or its affiliates
 
 Rev.
-05/2017
+07/2020
 
-9036302-20001944
+1. 9036303 20002944

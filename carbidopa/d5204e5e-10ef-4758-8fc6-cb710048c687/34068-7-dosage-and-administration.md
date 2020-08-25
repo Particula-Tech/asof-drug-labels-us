@@ -19,8 +19,7 @@ Although carbidopa-levodopa is the most frequently used of carbidopa and levodop
 In these patients, carbidopa should be initiated at a dosage of 25 mg three or four times a day.
 The two drugs should be given at the same time, starting with no more than one-fifth (20%) to one-fourth (25%) of the previous or recommended daily dosage of levodopa when given without carbidopa.
 In patients already receiving levodopa therapy, at least twelve hours should elapse between the last dose of levodopa and initiation of therapy with carbidopa and levodopa.
-A convenient way to initiate therapy in these patients is in the morning following a night when the patient has not taken levodopa for at least twelve hours.
-Health care providers who prescribe separate doses of carbidopa and levodopa should be thoroughly familiar with the directions for use of each drug.
+A convenient way to initiate therapy in these patients is in the morning following a night when the patient has not takenlevodopa for at least twelve hours.Health care providers who prescribe separate doses of carbidopa and levodopa should be thoroughly familiar with the directions for use of each drug.
 
 ## Dosage Adjustment
 

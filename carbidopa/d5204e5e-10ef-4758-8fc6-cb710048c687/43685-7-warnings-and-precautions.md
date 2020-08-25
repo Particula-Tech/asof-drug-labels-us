@@ -5,8 +5,8 @@ It is indicated for use with carbidopa-levodopa or levodopa. carbidopa does not 
 
 When carbidopa is to be given to carbidopa-naive patients who are being treated with levodopa alone, the two drugs should be given at the same time.
 At least twelve hours should elapse between the last dose of levodopa and initiation of therapy with carbidopa and levodopa in combination.
-Start with no more than one-fifth (20%) to one-fourth (25%) of the previous daily dosage of levodopa when given without carbidopa.
-See the DOSAGE AND ADMINISTRATION section before initiating therapy.
+Start with no more than one-fifth (20%) to one-fourth (25%) of the previous daily dosage of levodopa when given withoutcarbidopa.
+See theDOSAGE AND ADMINISTRATIONsection before initiating therapy.
 
 The addition of carbidopa with levodopa or carbidopa-levodopa reduces the peripheral effects (nausea, vomiting) due to decarboxylation of levodopa; however, carbidopa does not decrease the adverse reactions due to the central effects of levodopa.
 Because carbidopa permits more levodopa to reach the brain and more dopamine to be formed, certain adverse central nervous system (CNS) effects, e.g., dyskinesias (involuntary movements), may occur at lower dosages and sooner with levodopa in combination with carbidopa than with levodopa alone.
@@ -89,7 +89,7 @@ Ideally, periodic skin examinations should be performed by appropriately qualifi
 It is important that carbidopa with levodopa be taken at regular intervals according to the schedule outlined by the health care provider.
 Caution patients not to change the prescribed dosage regimen and not to add any additional antiparkinson medications, including other carbidopa-levodopa preparations without first consulting a physician.
 
-Advise patients that sometimes a ‘wearing-off’ effect may occur at the end of the dosing interval.
+Advise patients that sometimes a “wearing-off” effect may occur at the end of the dosing interval.
 Tell patients to notify the prescriber if such response poses a problem to lifestyle.
 
 Patients should be advised that occasionally dark color (red, brown, or black) may appear in saliva, urine, or sweat after ingestion of carbidopa and levodopa.
@@ -101,13 +101,14 @@ Iron salts (such as in multivitamin tablets) may also reduce the amount of levod
 The above factors may reduce the clinical effectiveness of the carbidopa and levodopa therapy.
 
 Alert patients to the possibility of sudden onset of sleep during daily activities, in some cases without awareness or warning signs, when they are taking dopaminergic agents, including levodopa.
-Advise patients to exercise caution while driving or operating machinery and that if they have experience somnolence and/or sudden sleep onset, they must refrain from these activities.
+Advise patients to exercise caution while driving or operating machinery and that if they have experienced somnolence and/or sudden sleep onset, they must refrain from these activities.
 (See WARNINGS, Falling Asleep During Activities of Daily Living and Somnolence.)
 
 There have been reports of patients experiencing intense urges to gamble, increased sexual urges, and other intense urges, and the inability to control these urges while taking one or more of the medications that increase central dopaminergic tone and that are generally used for the treatment of Parkinson’s disease, including carbidopa and levodopa.
 Although it is not proven that the medications caused these events, these urges were reported to have stopped in some cases when the dose was reduced or the medication was stopped.
 Prescribers should ask patients about the development of new or increased gambling urges, sexual urges, or other intense urges while taking carbidopa and levodopa.
-Physicians should consider dose reduction or stopping carbidopa and levodopa if a patient develops such urges while taking carbidopa with carbidopa/levodopa (See PRECAUTIONS, Impulse Control/Compulsive Behaviors).
+Physicians should consider dose reduction or stopping carbidopa if a patient develops such urges while taking carbidopa with carbidopa/levodopa.
+(See PRECAUTIONS, Impulse Control/Compulsive Behaviors.)
 
 ## Laboratory Tests
 
@@ -132,7 +133,7 @@ Concomitant therapy with selegiline or rasigiline and carbidopa or carbidopa-lev
 There have been rare reports of adverse reactions, including hypertension and dyskinesia, resulting from the concomitant use of tricyclic antidepressants and carbidopa-levodopa preparations.
 
 Dopamine D2 receptor antagonists (e.g., phenothiazines, butyrophenones, risperidone) and isoniazid may reduce the therapeutic effects of levodopa.
-In addition, the beneficial effects of levodopa in Parkinson's disease have been reported to be reversed by phenytoin and papaverine.
+In addition, the beneficial effects of levodopa in Parkinson’s disease have been reported to be reversed by phenytoin and papaverine.
 Patients taking these drugs with carbidopa and levodopa or carbidopa-levodopa combination products should be carefully observed for loss of therapeutic response.
 
 Carbidopa and iron salts or multivitamins containing iron salts should be coadministered with caution.
