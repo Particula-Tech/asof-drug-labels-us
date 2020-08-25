@@ -13,6 +13,4 @@ Bupropion hydrochloride extended-release tablets (XL) are supplied for oral admi
 Each tablet contains the labeled amount of bupropion hydrochloride and the inactive ingredients: colloidal silicon dioxide, ethylcellulose, hydroxypropyl cellulose, methacrylic acid copolymer, microcrystalline cellulose, stearic acid, talc, titanium dioxide, hydrochloric acid and triethyl citrate.
 The tablets are printed with edible black ink.
 
-The insoluble shell of the extended-release tablet may remain intact during gastrointestinal transit and is eliminated in the feces.
-
 Meets USP dissolution method 4.
