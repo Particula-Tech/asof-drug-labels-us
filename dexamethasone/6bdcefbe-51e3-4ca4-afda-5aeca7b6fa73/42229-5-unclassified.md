@@ -1,20 +1,18 @@
 # PRECAUTIONS
 
-## General:
+## General
 
 The possibility of persistent fungal infections of the cornea should be considered after prolonged corticosteroid dosing.
 
 There have been reports of bacterial keratitis associated with the use of multiple dose containers of topical ophthalmic products.
-These containers had been inadvertently contaminated by patients who, in most cases, had a concurrent corneal disease or a disruption of the ocular epithelial surface.
-(See PRECAUTIONS, Information for Patients).
+These containers had been inadvertently contaminated by patients who, in most cases, had a concurrent corneal disease or a disruption of the ocular epithelial surface (see PRECAUTIONS, Information for Patients).
 
-## Information for Patients:
+## Information for Patients
 
 Patients should be instructed to avoid allowing the tip of the dispensing container to contact the eye or surrounding structures.
 
 Patients should also be instructed that ocular solutions, if handled improperly, can become contaminated by common bacteria known to cause ocular infections.
-Serious damage to the eye and subsequent loss of vision may result from using contaminated solutions.
-(See PRECAUTIONS, General).
+Serious damage to the eye and subsequent loss of vision may result from using contaminated solutions (see PRECAUTIONS, General).
 
 Patients should also be advised that if they develop an intercurrent ocular condition (e.g., trauma, ocular surgery or infection), they should immediately seek their physician's advice concerning the continued use of the present multidose container.
 
@@ -27,7 +25,7 @@ Long-term animal studies have not been performed to evaluate the carcinogenic po
 
 ## Pregnancy
 
-Pregnancy Category C: Dexamethasone has been shown to be teratogenic in mice and rabbits following topical ophthalmic application in multiples of the therapeutic dose.
+Dexamethasone has been shown to be teratogenic in mice and rabbits following topical ophthalmic application in multiples of the therapeutic dose.
 
 In the mouse, corticosteroids produce fetal resorptions and a specific abnormality, cleft palate.
 In the rabbit, corticosteroids have produced fetal resorptions and multiple abnormalities involving the head, ears, limbs, palate, etc.
