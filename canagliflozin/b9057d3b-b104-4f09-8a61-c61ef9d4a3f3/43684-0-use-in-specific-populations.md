@@ -19,7 +19,7 @@ Clinical Considerations
 
 Disease-associated maternal and/or embryo/fetal risk
 
-Poorly controlled diabetes in pregnancy increases the maternal risk for diabetic ketoacidosis, pre-eclampsia, spontaneous abortions, preterm delivery, stillbirth and delivery complications.
+Poorly controlled diabetes in pregnancy increases the maternal risk for diabetic ketoacidosis, pre-eclampsia, spontaneous abortions, preterm delivery, and delivery complications.
 Poorly controlled diabetes increases the fetal risk for major birth defects, stillbirth, and macrosomia related morbidity.
 
 Animal Data
@@ -64,7 +64,7 @@ Smaller reductions in HbA1C with INVOKANA relative to placebo were seen in older
 
 The efficacy and safety of INVOKANA for glycemic control were evaluated in a trial that included patients with moderate renal impairment (eGFR 30 to less than 50 mL/min/1.73 m2) [see Clinical Studies (14.1)].
 These patients had less overall glycemic efficacy, and patients treated with 300 mg per day had increases in serum potassium, which were transient and similar by the end of study.
-Patients with renal impairment using INVOKANA for glycemic control may also be more likely to experience hypotension and may be at higher risk for acute kidney injury [see Warnings and Precautions (5.4)].
+Patients with renal impairment using INVOKANA for glycemic control may also be more likely to experience hypotension and may be at higher risk for acute kidney injury [see Warnings and Precautions (5.2)].
 
 Efficacy and safety studies with INVOKANA did not enroll patients with ESKD on dialysis or patients with an eGFR less than 30 mL/min/1.73 m2.
 INVOKANA is contraindicated in patients with ESKD on dialysis [see Contraindications (4) and Clinical Pharmacology (12.1)].

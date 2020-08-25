@@ -16,16 +16,19 @@ Before initiating INVOKANA, consider factors in the patient history that may pre
 Counsel patients about the importance of routine preventative foot care.
 Monitor patients receiving INVOKANA for signs and symptoms of infection (including osteomyelitis), new pain or tenderness, sores or ulcers involving the lower limbs, and discontinue INVOKANA if these complications occur.
 
-## 5.2 Hypotension
+## 5.2 Volume Depletion
 
-INVOKANA causes intravascular volume contraction.
-Symptomatic hypotension can occur after initiating INVOKANA [see Adverse Reactions (6.1)] particularly in patients with impaired renal function (eGFR less than 60 mL/min/1.73 m2), elderly patients, patients on either diuretics or medications that interfere with the renin-angiotensin-aldosterone system (e.g., angiotensin-converting-enzyme [ACE] inhibitors, angiotensin receptor blockers [ARBs]), or patients with low systolic blood pressure.
-Before initiating INVOKANA in patients with one or more of these characteristics, volume status should be assessed and corrected.
-Monitor for signs and symptoms after initiating therapy.
+INVOKANA can cause intravascular volume contraction which may sometimes manifest as symptomatic hypotension or acute transient changes in creatinine [see Adverse Reactions (6.1)].
+There have been post-marketing reports of acute kidney injury which are likely related to volume depletion, some requiring hospitalizations and dialysis, in patients with type 2 diabetes mellitus receiving SGLT2 inhibitors, including INVOKANA.
+Patients with impaired renal function (eGFR less than 60 mL/min/1.73 m2), elderly patients, or patients on loop diuretics may be at increased risk for volume depletion or hypotension.
+Before initiating INVOKANA in patients with one or more of these characteristics, assess and correct volume status.
+Monitor for signs and symptoms of volume depletion after initiating therapy.
 
 ## 5.3 Ketoacidosis
 
-Reports of ketoacidosis, a serious life-threatening condition requiring urgent hospitalization have been identified in patients with type 1 and type 2 diabetes mellitus receiving sodium glucose co-transporter-2 (SGLT2) inhibitors, including INVOKANA.
+Reports of ketoacidosis, a serious life-threatening condition requiring urgent hospitalization have been identified in clinical trials and postmarketing surveillance in patients with type 1 and type 2 diabetes mellitus receiving sodium glucose co-transporter-2 (SGLT2) inhibitors, including INVOKANA.
+In placebo-controlled trials of patients with type 1 diabetes, the risk of ketoacidosis was increased in patients who received SGLT2 inhibitors compared to patients who received placebo.
+The risk of ketoacidosis may be greater with higher doses.
 Fatal cases of ketoacidosis have been reported in patients taking INVOKANA.
 INVOKANA is not indicated for the treatment of patients with type 1 diabetes mellitus [see Indications and Usage (1)].
 
@@ -46,31 +49,19 @@ Ensure risk factors for ketoacidosis are resolved prior to restarting INVOKANA.
 
 Educate patients on the signs and symptoms of ketoacidosis and instruct patients to discontinue INVOKANA and seek medical attention immediately if signs and symptoms occur.
 
-## 5.4 Acute Kidney Injury
-
-INVOKANA causes intravascular volume contraction [see Warnings and Precautions (5.2)] and can cause acute kidney injury.
-There have been postmarketing reports of acute kidney injury, some requiring hospitalization and dialysis, in patients receiving SGLT2 inhibitors, including INVOKANA.
-
-Increases in serum creatinine and decreases in estimated GFR may also be observed with initiation of INVOKANA [see Adverse Reactions (6.1) and Clinical Pharmacology (12.1)].
-Before initiating INVOKANA, consider factors that may predispose patients to acute kidney injury including hypovolemia, chronic renal insufficiency, congestive heart failure and concomitant medications (diuretics, ACE inhibitors, ARBs, NSAIDs).
-Consider temporarily discontinuing INVOKANA in the setting of reduced oral intake (such as acute illness or fasting) or fluid losses (such as gastrointestinal illness or excessive heat exposure); monitor patients for signs and symptoms of acute kidney injury.
-If acute kidney injury occurs, discontinue INVOKANA promptly and institute treatment.
-
-Renal function should be evaluated prior to initiation of INVOKANA and monitored periodically thereafter.
-
-## 5.5 Urosepsis and Pyelonephritis
+## 5.4 Urosepsis and Pyelonephritis
 
 There have been postmarketing reports of serious urinary tract infections including urosepsis and pyelonephritis requiring hospitalization in patients receiving SGLT2 inhibitors, including INVOKANA.
 Treatment with SGLT2 inhibitors increases the risk for urinary tract infections.
 Evaluate patients for signs and symptoms of urinary tract infections and treat promptly, if indicated [see Adverse Reactions (6)].
 
-## 5.6 Hypoglycemia with Concomitant Use with Insulin and Insulin Secretagogues
+## 5.5 Hypoglycemia with Concomitant Use with Insulin and Insulin Secretagogues
 
 Insulin and insulin secretagogues are known to cause hypoglycemia.
 INVOKANA may increase the risk of hypoglycemia when combined with insulin or an insulin secretagogue [see Adverse Reactions (6.1)].
 Therefore, a lower dose of insulin or insulin secretagogue may be required to minimize the risk of hypoglycemia when used in combination with INVOKANA.
 
-## 5.7 Necrotizing Fasciitis of the Perineum (Fournier's Gangrene)
+## 5.6 Necrotizing Fasciitis of the Perineum (Fournier's Gangrene)
 
 Reports of necrotizing fasciitis of the perineum (Fournier's gangrene), a rare but serious and life-threatening necrotizing infection requiring urgent surgical intervention, have been identified in postmarketing surveillance in patients with diabetes mellitus receiving SGLT2 inhibitors, including INVOKANA.
 Cases have been reported in both females and males.
@@ -80,19 +71,19 @@ Patients treated with INVOKANA presenting with pain or tenderness, erythema, or 
 If suspected, start treatment immediately with broad-spectrum antibiotics and, if necessary, surgical debridement.
 Discontinue INVOKANA, closely monitor blood glucose levels, and provide appropriate alternative therapy for glycemic control.
 
-## 5.8 Genital Mycotic Infections
+## 5.7 Genital Mycotic Infections
 
 INVOKANA increases the risk of genital mycotic infections.
 Patients with a history of genital mycotic infections and uncircumcised males were more likely to develop genital mycotic infections [see Adverse Reactions (6.1)].
 Monitor and treat appropriately.
 
-## 5.9 Hypersensitivity Reactions
+## 5.8 Hypersensitivity Reactions
 
 Hypersensitivity reactions, including angioedema and anaphylaxis, have been reported with INVOKANA.
 These reactions generally occurred within hours to days after initiating INVOKANA.
 If hypersensitivity reactions occur, discontinue use of INVOKANA; treat and monitor until signs and symptoms resolve [see Contraindications (4) and Adverse Reactions (6.1, 6.2)].
 
-## 5.10 Bone Fracture
+## 5.9 Bone Fracture
 
 An increased risk of bone fracture, occurring as early as 12 weeks after treatment initiation, was observed in patients using INVOKANA in the CANVAS trial [see Clinical Studies (14.2)].
 Consider factors that contribute to fracture risk prior to initiating INVOKANA [see Adverse Reactions (6.1)].

@@ -74,7 +74,7 @@ Renal impairment did not affect the Cmax of canagliflozin.
 Compared to healthy subjects (N=3; eGFR greater than or equal to 90 mL/min/1.73 m2), plasma AUC of canagliflozin was increased by approximately 15%, 29%, and 53% in subjects with mild (N=10), moderate (N=9), and severe (N=10) renal impairment, respectively, (eGFR 60 to less than 90, 30 to less than 60, and 15 to less than 30 mL/min/1.73 m2, respectively), but was similar for ESKD (N=8) subjects and healthy subjects.
 
 Increases in canagliflozin AUC of this magnitude are not considered clinically relevant.
-The glucose lowering pharmacodynamic response to canagliflozin declines with increasing severity of renal impairment [see Contraindications (4) and Warnings and Precautions (5.4)].
+The glucose lowering pharmacodynamic response to canagliflozin declines with increasing severity of renal impairment [see Contraindications (4) and Warnings and Precautions (5.2)].
 
 Canagliflozin was negligibly removed by hemodialysis.
 

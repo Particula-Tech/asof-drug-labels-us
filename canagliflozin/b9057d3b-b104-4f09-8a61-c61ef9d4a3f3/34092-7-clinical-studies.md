@@ -312,7 +312,7 @@ A total of 269 patients with type 2 diabetes and a baseline eGFR of 30 mL/min/1.
 The mean age was 68 years, 61% of patients were men, and the mean baseline eGFR was 39 mL/min/1.73 m2.
 Patients were randomized in a 1:1:1 ratio to the addition of INVOKANA 100 mg, INVOKANA 300 mg, or placebo, administered once daily.
 
-At the end of treatment, INVOKANA 100 mg and INVOKANA 300 mg daily provided greater reductions in HbA1C relative to placebo (-0.30% [95% CI: -0.53%; -0.07%] and -0.40%, [95% CI: -0.64%; -0.17%], respectively) [see Warnings and Precautions (5.4), Adverse Reactions (6.1), Use in Specific Populations (8.6), and Clinical Studies (14.3)].
+At the end of treatment, INVOKANA 100 mg and INVOKANA 300 mg daily provided greater reductions in HbA1C relative to placebo (-0.30% [95% CI: -0.53%; -0.07%] and -0.40%, [95% CI: -0.64%; -0.17%], respectively) [see Warnings and Precautions (5.2), Adverse Reactions (6.1), Use in Specific Populations (8.6), and Clinical Studies (14.3)].
 
 ## 14.2 Cardiovascular Outcomes in Patients with Type 2 Diabetes Mellitus and Atherosclerotic Cardiovascular Disease
 
@@ -349,7 +349,7 @@ The Kaplan-Meier curve depicting time to first occurrence of MACE is shown in Fi
 
 Table 19: Treatment Effect for the Primary Composite Endpoint, MACE, and its Components in the Integrated Analysis of CANVAS and CANVAS-R studiesIntent-To-Treat Analysis Set
 
-|  | Placebo N=4347(%) | Canagliflozin N=5795 (%) | )Hazard ratio (95% C.I.)Stratified Cox-proportional hazards model with treatment as a factor and stratified by study and by prior CV disease |
+|  | Placebo N=4347(%) | Canagliflozin N=5795 (%) | Hazard ratio (95% C.I.)Stratified Cox-proportional hazards model with treatment as a factor and stratified by study and by prior CV disease |
 | --- | --- | --- | --- |
 | Composite of cardiovascular death, non-fatal myocardial infarction, non-fatal stroke (time to first occurrence)P-value for superiority (2-sided) = 0.0158, Number and percentage of first events, Due to pooling of unequal randomization ratios, Cochran-Mantel-Haenszel weights were applied to calculate percentages, | 426 (10.4) | 585 (9.2) | 0.86 (0.75, 0.97) |
 | Non-fatal myocardial infarction, | 159 (3.9) | 215 (3.4) | 0.85 (0.69, 1.05) |

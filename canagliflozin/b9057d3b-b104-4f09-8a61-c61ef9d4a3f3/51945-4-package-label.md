@@ -1,19 +1,27 @@
 # PRINCIPAL DISPLAY PANEL - 100 mg Tablet Bottle Label
 
-NDC 50458-140-90 90 tablets
+NDC 50458-140-90
 
-Invokana® (canagliflozin) Tablets 100 mg
+Invokana® (canagliflozin) tablets
 
-Dispense with Medication Guide
+100 mg
 
-janssen Rx only
+Attention: Dispense the enclosed Medication Guide to each patient.
+
+Rx only
+
+90 tablets
 
 # PRINCIPAL DISPLAY PANEL - 300 mg Tablet Bottle Label
 
-NDC 50458-141-90 90 tablets
+NDC 50458-141-90
 
-Invokana® (canagliflozin) Tablets 300 mg
+Invokana® (canagliflozin) tablets
 
-Dispense with Medication Guide
+300 mg
 
-janssen Rx only
+Attention: Dispense the enclosed Medication Guide to each patient.
+
+Rx only
+
+90 tablets
