@@ -19,9 +19,9 @@ Lower Limb Amputation:
 
 Inform patients that INVOKAMET/INVOKAMET XR is associated with an increased risk of amputations.
 Counsel patients about the importance of routine preventative foot care.
-Instruct patients to monitor for new pain or tenderness, sores or ulcers, or infections involving the leg or foot and to seek medical advice immediately if such signs or symptoms develop [see Boxed Warning and Warnings and Precautions (5.2)].
+Instruct patients to monitor for new pain or tenderness, sores or ulcers, or infections involving the leg or foot and to seek medical advice immediately if such signs or symptoms develop [see Warnings and Precautions (5.2)].
 
-Hypotension:
+Volume Depletion:
 
 Inform patients that symptomatic hypotension may occur with INVOKAMET/INVOKAMET XR and advise them to contact their doctor if they experience such symptoms [see Warnings and Precautions (5.3)].
 Inform patients that dehydration may increase the risk for hypotension and to have adequate fluid intake.
@@ -32,42 +32,37 @@ Inform patients that ketoacidosis is a serious life-threatening condition and th
 Instruct patients to check ketones (when possible) if symptoms consistent with ketoacidosis occur even if blood glucose is not elevated.
 If symptoms of ketoacidosis (including nausea, vomiting, abdominal pain, tiredness, and labored breathing) occur, instruct patients to discontinue INVOKAMET/INVOKAMET XR and seek medical attention immediately [see Warnings and Precautions (5.4)].
 
-Acute Kidney Injury:
-
-Inform patients that acute kidney injury has been reported during use of canagliflozin.
-Advise patients to seek medical advice immediately if they have reduced oral intake (such as due to acute illness or fasting), or increased fluid losses (such as due to vomiting, diarrhea, or excessive heat exposure), as it may be appropriate to temporarily discontinue INVOKAMET/INVOKAMET XR use in those settings [see Warnings and Precautions (5.5)].
-
 Serious Urinary Tract Infections:
 
 Inform patients of the potential for urinary tract infections, which may be serious.
 Provide them with information on the symptoms of urinary tract infections.
-Advise them to seek medical advice if such symptoms occur [see Warnings and Precautions (5.6)].
+Advise them to seek medical advice if such symptoms occur [see Warnings and Precautions (5.5)].
 
 Necrotizing Fasciitis of the Perineum (Fournier's Gangrene):
 
 Inform patients that necrotizing infections of the perineum (Fournier's gangrene) have occurred with INVOKAMET/INVOKAMET XR.
-Counsel patients to promptly seek medical attention if they develop pain or tenderness, redness, or swelling of the genitals or the area from the genitals back to the rectum, along with a fever above 100.4°F or malaise [see Warnings and Precautions (5.8)].
+Counsel patients to promptly seek medical attention if they develop pain or tenderness, redness, or swelling of the genitals or the area from the genitals back to the rectum, along with a fever above 100.4°F or malaise [see Warnings and Precautions (5.7)].
 
 Genital Mycotic Infections in Females (e.g., Vulvovaginitis):
 
 Inform female patients that vaginal yeast infection (e.g., vulvovaginitis) may occur and provide them with information on the signs and symptoms of a vaginal yeast infection.
-Advise them of treatment options and when to seek medical advice [see Warnings and Precautions (5.9)].
+Advise them of treatment options and when to seek medical advice [see Warnings and Precautions (5.8)].
 
 Genital Mycotic Infections in Males (e.g., Balanitis or Balanoposthitis):
 
 Inform male patients that yeast infection of penis (e.g., balanitis or balanoposthitis) may occur, especially in uncircumcised males and patients with prior history.
 Provide them with information on the signs and symptoms of balanitis and balanoposthitis (rash or redness of the glans or foreskin of the penis).
-Advise them of treatment options and when to seek medical advice [see Warnings and Precautions (5.9)].
+Advise them of treatment options and when to seek medical advice [see Warnings and Precautions (5.8)].
 
 Hypersensitivity Reactions:
 
 Inform patients that serious hypersensitivity reactions, such as urticaria, rash, anaphylaxis, and angioedema, have been reported with canagliflozin.
-Advise patients to report immediately any signs or symptoms suggesting allergic reaction and to discontinue drug until they have consulted prescribing physicians [see Warnings and Precautions (5.10)].
+Advise patients to report immediately any signs or symptoms suggesting allergic reaction and to discontinue drug until they have consulted prescribing physicians [see Warnings and Precautions (5.9)].
 
 Bone Fracture:
 
 Inform patients that bone fractures have been reported in patients taking canagliflozin.
-Provide them with information on factors that may contribute to fracture risk [see Warnings and Precautions (5.11)].
+Provide them with information on factors that may contribute to fracture risk [see Warnings and Precautions (5.10)].
 
 Laboratory Tests:
 

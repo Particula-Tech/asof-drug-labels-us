@@ -2,18 +2,17 @@
 
 The following important adverse reactions are also discussed elsewhere in the labeling:
 
-- Lactic Acidosis [see Boxed Warning and Warnings and Precautions (5.1, 5.5)]
-- Lower Limb Amputation [see Boxed Warning and Warnings and Precautions (5.2)]
-- Hypotension [see Warnings and Precautions (5.3)]
+- Lactic Acidosis [see Boxed Warning and Warnings and Precautions (5.1, 5.3)]
+- Lower Limb Amputation [see Warnings and Precautions (5.2)]
+- Volume Depletion [see Warnings and Precautions (5.3)]
 - Ketoacidosis [see Warnings and Precautions (5.4)]
-- Acute Kidney Injury [see Warnings and Precautions (5.5)]
-- Urosepsis and Pyelonephritis [see Warnings and Precautions (5.6)]
-- Hypoglycemia with Concomitant Use of Sulfonylurea or Insulin [see Warnings and Precautions (5.7)]
-- Necrotizing Fasciitis of the Perineum (Fournier's gangrene) [see Warnings and Precautions (5.8)]
-- Genital Mycotic Infections [see Warnings and Precautions (5.9)]
-- Hypersensitivity Reactions [see Warnings and Precautions (5.10)]
-- Bone Fracture [see Warnings and Precautions (5.11)]
-- Vitamin B12 Deficiency [see Warnings and Precautions (5.12)]
+- Urosepsis and Pyelonephritis [see Warnings and Precautions (5.5)]
+- Hypoglycemia with Concomitant Use of Sulfonylurea or Insulin [see Warnings and Precautions (5.6)]
+- Necrotizing Fasciitis of the Perineum (Fournier's gangrene) [see Warnings and Precautions (5.7)]
+- Genital Mycotic Infections [see Warnings and Precautions (5.8)]
+- Hypersensitivity Reactions [see Warnings and Precautions (5.9)]
+- Bone Fracture [see Warnings and Precautions (5.10)]
+- Vitamin B12 Deficiency [see Warnings and Precautions (5.11)]
 
 ## 6.1 Clinical Studies Experience
 
@@ -65,12 +64,9 @@ Placebo-Controlled Trial in Diabetic Nephropathy
 The occurrence of adverse reactions for canagliflozin was evaluated in patients participating in CREDENCE, a study in patients with type 2 diabetes mellitus and diabetic nephropathy with albuminuria ˃ 300 mg/day [see Clinical Studies (14.3)].
 These data reflect exposure of 2,201 patients to canagliflozin and a mean duration of exposure to canagliflozin of 137 weeks.
 
-The rate of lower limb amputations associated with the use of canagliflozin 100 mg relative to placebo was 12.3 vs 11.2 events per 1000 patient-years, respectively] in CREDENCE, an outcomes study of patients with type 2 diabetes and diabetic nephropathy, with 2.6 years mean duration of follow-up [see Clinical Studies (14.3)].
-
-In CREDENCE, incidence rates of adjudicated events of diabetic ketoacidosis (DKA) were 0.21 (0.5%, 12/2,200) and 0.03 (0.1%, 2/2,197) per 100 patient-years of follow-up with canagliflozin 100 mg and placebo, respectively [see Warnings and Precautions (5.4)].
-The incidence of acute kidney injury was similar between canagliflozin 100 mg and placebo in CREDENCE [see Warnings and Precautions (5.5)].
-
-In CREDENCE, the incidence of hypotension was 2.8% and 1.5% on canagliflozin 100 mg and placebo, respectively [see Warnings and Precautions (5.3)].
+- The rate of lower limb amputations associated with the use of canagliflozin 100 mg relative to placebo was 12.3 vs 11.2 events per 1000 patient-years, respectively, with 2.6 years mean duration of follow-up.
+- Incidence rates of adjudicated events of diabetic ketoacidosis (DKA) were 0.21 (0.5%, 12/2,200) and 0.03 (0.1%, 2/2,197) per 100 patient-years of follow-up with canagliflozin 100 mg and placebo, respectively.
+- The incidence of hypotension was 2.8% and 1.5% on canagliflozin 100 mg and placebo, respectively.
 
 Pool of Placebo- and Active-Controlled Trials for Glycemic Control and Cardiovascular Outcomes
 
@@ -96,7 +92,7 @@ Lower Limb Amputation
 
 An increased risk of lower limb amputations associated with canagliflozin was observed in CANVAS (5.9 vs 2.8 events per 1000 patient-years) and CANVAS-R (7.5 vs 4.2 events per 1000 patient-years), two randomized, placebo-controlled trials evaluating patients with type 2 diabetes who had either established cardiovascular disease or were at risk for cardiovascular disease.
 Patients in CANVAS and CANVAS-R were followed for an average of 5.7 and 2.1 years, respectively [see Clinical Studies (14.2)].
-The amputation data for CANVAS and CANVAS-R are shown in Tables 3 and 4, respectively [see Warnings and Precautions (5.2)].
+The amputation data for CANVAS and CANVAS-R are shown in Tables 3 and 4, respectively.
 
 Table 3: CANVAS Amputations
 
@@ -128,7 +124,7 @@ Volume Depletion-Related Adverse Reactions
 Canagliflozin results in an osmotic diuresis, which may lead to reductions in intravascular volume.
 In clinical trials for glycemic control, treatment with canagliflozin was associated with a dose-dependent increase in the incidence of volume depletion-related adverse reactions (e.g., hypotension, postural dizziness, orthostatic hypotension, syncope, and dehydration).
 An increased incidence was observed in patients on the 300 mg dose.
-The three factors associated with the largest increase in volume depletion-related adverse reactions in these trials were the use of loop diuretics, moderate renal impairment (eGFR 30 to less than 60 mL/min/1.73 m2), and age 75 years and older (Table 5) [see Dosage and Administration (2.4), Warnings and Precautions (5.3), and Use in Specific Populations (8.5 and 8.6)].
+The three factors associated with the largest increase in volume depletion-related adverse reactions in these trials were the use of loop diuretics, moderate renal impairment (eGFR 30 to less than 60 mL/min/1.73 m2), and age 75 years and older (Table 5) [see Use in Specific Populations (8.5 and 8.6)].
 
 Table 5: Patients With at Least One Volume Depletion-Related Adverse Reaction (Pooled Results from 8 Clinical Trials for Glycemic Control)
 
@@ -149,20 +145,20 @@ Genital Mycotic Infections
 In the pool of four placebo-controlled clinical trials for glycemic control, female genital mycotic infections (e.g., vulvovaginal mycotic infection, vulvovaginal candidiasis, and vulvovaginitis) occurred in 2.8%, 10.6%, and 11.6% of females treated with placebo, canagliflozin 100 mg, and canagliflozin 300 mg, respectively.
 Patients with a history of genital mycotic infections were more likely to develop genital mycotic infections on canagliflozin.
 Female patients who developed genital mycotic infections on canagliflozin were more likely to experience recurrence and require treatment with oral or topical antifungal agents and anti-microbial agents.
-In females, discontinuation due to genital mycotic infections occurred in 0% and 0.7% of patients treated with placebo and canagliflozin, respectively [see Warnings and Precautions (5.9)].
+In females, discontinuation due to genital mycotic infections occurred in 0% and 0.7% of patients treated with placebo and canagliflozin, respectively.
 
 In the pool of four placebo-controlled clinical trials, male genital mycotic infections (e.g., candidal balanitis, balanoposthitis) occurred in 0.7%, 4.2%, and 3.8% of males treated with placebo, canagliflozin 100 mg, and canagliflozin 300 mg, respectively.
 Male genital mycotic infections occurred more commonly in uncircumcised males and in males with a prior history of balanitis or balanoposthitis.
 Male patients who developed genital mycotic infections on canagliflozin were more likely to experience recurrent infections (22% on canagliflozin versus none on placebo), and require treatment with oral or topical antifungal agents and anti-microbial agents than patients on comparators.
 In males, discontinuations due to genital mycotic infections occurred in 0% and 0.5% of patients treated with placebo and canagliflozin, respectively.
 
-In the pooled analysis of 8 randomized trials evaluating glycemic control, phimosis was reported in 0.3% of uncircumcised male patients treated with canagliflozin and 0.2% required circumcision to treat the phimosis [see Warnings and Precautions (5.9)].
+In the pooled analysis of 8 randomized trials evaluating glycemic control, phimosis was reported in 0.3% of uncircumcised male patients treated with canagliflozin and 0.2% required circumcision to treat the phimosis.
 
 Hypoglycemia
 
 In canagliflozin glycemic control trials, hypoglycemia was defined as any event regardless of symptoms, where biochemical hypoglycemia was documented (any glucose value below or equal to 70 mg/dL).
 Severe hypoglycemia was defined as an event consistent with hypoglycemia where the patient required the assistance of another person to recover, lost consciousness, or experienced a seizure (regardless of whether biochemical documentation of a low glucose value was obtained).
-In individual clinical trials of glycemic control [see Clinical Studies (14.1)], episodes of hypoglycemia occurred at a higher rate when canagliflozin was co-administered with insulin or sulfonylureas (Table 6) [see Warnings and Precautions (5.7)].
+In individual clinical trials of glycemic control [see Clinical Studies (14.1)], episodes of hypoglycemia occurred at a higher rate when canagliflozin was co-administered with insulin or sulfonylureas (Table 6).
 
 Table 6: Incidence of HypoglycemiaNumber of patients experiencing at least one event of hypoglycemia based on either biochemically documented episodes or severe hypoglycemic events in the intent-to-treat population in Randomized Clinical Studies of Glycemic Control
 
@@ -190,13 +186,13 @@ Bone Fracture
 
 In the CANVAS trial [see Clinical Studies (14.2)], the incidence rates of all adjudicated bone fracture were 1.09, 1.59, and 1.79 events per 100 patient-years of follow-up to placebo, canagliflozin 100 mg, and canagliflozin 300 mg, respectively.
 The fracture imbalance was observed within the first 26 weeks of therapy and remained through the end of the trial.
-Fractures were more likely to be low trauma (e.g., fall from no more than standing height), and affect the distal portion of upper and lower extremities [see Warnings and Precautions (5.11)].
+Fractures were more likely to be low trauma (e.g., fall from no more than standing height), and affect the distal portion of upper and lower extremities.
 
 Metformin HCl
 
 The most common adverse reactions (5% or greater incidence) due to initiation of metformin HCl are diarrhea, nausea, vomiting, flatulence, asthenia, indigestion, abdominal discomfort, and headache.
 
-Long-term treatment with metformin HCl has been associated with a decrease in vitamin B12, which may result in clinically significant vitamin B12 deficiency (e.g., megaloblastic anemia) [see Warnings and Precautions (5.12)].
+Long-term treatment with metformin HCl has been associated with a decrease in vitamin B12, which may result in clinically significant vitamin B12 deficiency (e.g., megaloblastic anemia) [see Warnings and Precautions (5.11)].
 
 Laboratory and Imaging Tests
 
@@ -204,7 +200,7 @@ Increases in Serum Creatinine and Decreases in eGFR
 
 Initiation of canagliflozin causes an increase in serum creatinine and decrease in estimated GFR.
 In patients with moderate renal impairment, the increase in serum creatinine generally does not exceed 0.2 mg/dL, occurs within the first 6 weeks of starting therapy, and then stabilizes.
-Increases that do not fit this pattern should prompt further evaluation to exclude the possibility of acute kidney injury [see Warnings and Precautions (5.5) and Mechanism of Action (12.1)].
+Increases that do not fit this pattern should prompt further evaluation to exclude the possibility of acute kidney injury [see Clinical Pharmacology (12.1)].
 The acute effect on eGFR reverses after treatment discontinuation suggesting acute hemodynamic changes may play a role in the renal function changes observed with canagliflozin.
 
 Increases in Serum Potassium
@@ -213,7 +209,7 @@ In a pooled population of patients (N=723) in glycemic control trials with moder
 Severe elevations (greater than or equal to 6.5 mEq/L) occurred in 0.4% of patients treated with placebo, no patients treated with canagliflozin 100 mg, and 1.3% of patients treated with canagliflozin 300 mg.
 
 In these patients, increases in potassium were more commonly seen in those with elevated potassium at baseline.
-Among patients with moderate renal impairment, approximately 84% were taking medications that interfere with potassium excretion, such as potassium-sparing diuretics, angiotensin-converting-enzyme inhibitors, and angiotensin-receptor blockers [see Warnings and Precautions (5.3) and Use in Specific Populations (8.6)].
+Among patients with moderate renal impairment, approximately 84% were taking medications that interfere with potassium excretion, such as potassium-sparing diuretics, angiotensin-converting-enzyme inhibitors, and angiotensin-receptor blockers [see Use in Specific Populations (8.6)].
 
 In CREDENCE, no difference in serum potassium, no increase in adverse events of hyperkalemia, and no increase in absolute (> 6.5 mEq/L) or relative (> upper limit of normal and > 15% increase from baseline) increases in serum potassium were observed with canagliflozin 100 mg relative to placebo.
 

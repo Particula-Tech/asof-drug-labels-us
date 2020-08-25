@@ -84,7 +84,7 @@ Safety and effectiveness of INVOKAMET/INVOKAMET XR in pediatric patients under 1
 
 INVOKAMET and INVOKAMET XR
 
-Because renal function abnormalities can occur after initiating canagliflozin, metformin is substantially excreted by the kidney, and aging can be associated with reduced renal function, monitor renal function more frequently after initiating INVOKAMET/INVOKAMET XR in the elderly and then adjust dose based on renal function [see Dosage and Administration (2.4) and Warnings and Precautions (5.1, 5.5)].
+Because renal function abnormalities can occur after initiating canagliflozin, metformin is substantially excreted by the kidney, and aging can be associated with reduced renal function, monitor renal function more frequently after initiating INVOKAMET/INVOKAMET XR in the elderly and then adjust dose based on renal function [see Dosage and Administration (2.4) and Warnings and Precautions (5.1, 5.3)].
 
 Canagliflozin
 
@@ -97,18 +97,18 @@ Metformin HCl
 
 Controlled clinical trials of metformin HCl did not include sufficient numbers of elderly patients to determine whether they respond differently from younger patients, although other reported clinical experience has not identified differences in responses between the elderly and younger patients.
 The initial and maintenance dosing of metformin HCl should be conservative in patients with advanced age due to the potential for decreased renal function in this population.
-Any dose adjustment should be based on a careful assessment of renal function [see Contraindications (4), Warnings and Precautions (5.5), and Clinical Pharmacology (12.3)].
+Any dose adjustment should be based on a careful assessment of renal function [see Contraindications (4), Warnings and Precautions (5.3), and Clinical Pharmacology (12.3)].
 
 ## 8.6 Renal Impairment
 
 Canagliflozin
 
-The efficacy and safety of canagliflozin for glycemic control were evaluated in a trial that included patients with moderate renal impairment (eGFR 30 to less than 50 mL/min/1.73 m2) [see Clinical Studies (14.1)].
+The efficacy and safety of canagliflozin for glycemic control were evaluated in a trial that included patients with moderate renal impairment (eGFR 30 to less than 50 mL/min/1.73 m2).
 These patients had less overall glycemic efficacy, and patients treated with canagliflozin 300 mg per day had increases in serum potassium, which were transient and similar by the end of study.
-Patients with renal impairment using canagliflozin for glycemic control may also be more likely to experience hypotension and may be at higher risk for acute kidney injury [see Warnings and Precautions (5.5)].
+Patients with renal impairment using canagliflozin for glycemic control may also be more likely to experience hypotension and may be at higher risk for acute kidney injury [see Warnings and Precautions (5.3)].
 
 Efficacy and safety studies with canagliflozin did not enroll patients with ESKD on dialysis or patients with an eGFR less than 30 mL/min/1.73 m2.
-Canagliflozin is contraindicated in patients with ESKD on dialysis and in patients with severe renal impairment (eGFR less than 30 mL/min/1.73 m2) who are being treated for glycemic control [see Contraindications (4) and Clinical Pharmacology (12.1)].
+Canagliflozin is contraindicated in patients with ESKD on dialysis [see Contraindications (4) and Clinical Pharmacology (12.1)].
 
 Metformin HCl
 

@@ -229,7 +229,7 @@ At the end of treatment, canagliflozin 100 mg and 300 mg once daily resulted in 
 Canagliflozin 100 mg and 300 mg once daily also resulted in a greater proportion of patients achieving an HbA1C less than 7%, in significant reductions in fasting plasma glucose (FPG), and in percent body weight reductions compared to placebo (see Table 20).
 Statistically significant (p=0.023 for the 100 mg and p<0.001 for the 300 mg dose) mean change from baseline in systolic blood pressure relative to placebo was –3.5 mmHg and –6 mmHg with canagliflozin 100 mg and 300 mg, respectively.
 Fewer patients on canagliflozin in combination with metformin HCl and insulin required glycemic rescue therapy: 3.6% of patients receiving canagliflozin 100 mg, 2.7% of patients receiving canagliflozin 300 mg, and 6.2% of patients receiving placebo.
-An increased incidence of hypoglycemia was observed in this trial, which is consistent with the expected increase of hypoglycemia when an agent not associated with hypoglycemia is added to insulin [see Warnings and Precautions (5.7) and Adverse Reactions (6.1)].
+An increased incidence of hypoglycemia was observed in this trial, which is consistent with the expected increase of hypoglycemia when an agent not associated with hypoglycemia is added to insulin [see Warnings and Precautions (5.6) and Adverse Reactions (6.1)].
 
 Table 20: Results from 18–Week Placebo-Controlled Clinical Study of Canagliflozin in Combination with Metformin HCl and Insulin ≥ 30 Units/DayIntent-to-treat population using last observation in study prior to glycemic rescue therapy
 

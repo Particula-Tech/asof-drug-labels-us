@@ -9,7 +9,9 @@ Dispense with Medication Guide
 Store and Dispense in the original container.
 May be stored in a pill box for up to 30 days.
 
-Rx only janssen
+janssen
+
+Rx only
 
 # PRINCIPAL DISPLAY PANEL - 50 mg/1,000 mg Tablet Bottle Label - 541
 
@@ -23,7 +25,9 @@ Store and Dispense in the original container.
 
 May be stored in a pill box for up to 30 days.
 
-Rx only janssen
+janssen
+
+Rx only
 
 # PRINCIPAL DISPLAY PANEL - 150 mg/500 mg Tablet Bottle Label - 542
 
@@ -37,7 +41,9 @@ Store and Dispense in the original container.
 
 May be stored in a pill box for up to 30 days.
 
-Rx only janssen
+janssen
+
+Rx only
 
 # PRINCIPAL DISPLAY PANEL - 150 mg/1,000 mg Tablet Bottle Label - 543
 
@@ -48,9 +54,12 @@ Invokamet® (canagliflozin and metformin HCl) Tablets 150 mg/1,000 mg
 Dispense with Medication Guide
 
 Store and Dispense in the original container.
+
 May be stored in a pill box for up to 30 days.
 
-Rx only janssen
+janssen
+
+Rx only
 
 # PRINCIPAL DISPLAY PANEL - 50 mg/500 mg Tablet Bottle Label - 940
 

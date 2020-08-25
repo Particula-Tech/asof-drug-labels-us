@@ -129,9 +129,9 @@ Canagliflozin
 A single-dose, open-label trial evaluated the pharmacokinetics of canagliflozin 200 mg in subjects with varying degrees of renal impairment (classified using the MDRD-eGFR formula) compared to healthy subjects.
 
 Renal impairment did not affect the Cmax of canagliflozin.
-Compared to healthy subjects (N=3; eGFR greater than or equal to 90 mL/min/1.73 m2), plasma AUC of canagliflozin was increased by approximately 15%, 29%, and 53% in subjects with mild (N=10), moderate (N=9), and severe (N=10) renal impairment, respectively, (eGFR 60 to less than 90, 30 to less than 60, and 15 to less than 30 mL/min/1.73 m2, respectively), but was similar for ESRD (N=8) subjects and healthy subjects.
+Compared to healthy subjects (N=3; eGFR greater than or equal to 90 mL/min/1.73 m2), plasma AUC of canagliflozin was increased by approximately 15%, 29%, and 53% in subjects with mild (N=10), moderate (N=9), and severe (N=10) renal impairment, respectively, (eGFR 60 to less than 90, 30 to less than 60, and 15 to less than 30 mL/min/1.73 m2, respectively), but was similar for ESKD (N=8) subjects and healthy subjects.
 Increases in canagliflozin AUC of this magnitude are not considered clinically relevant.
-The glucose lowering pharmacodynamic response to canagliflozin declines with increasing severity of renal impairment [see Contraindications (4) and Warnings and Precautions (5.5)].
+The glucose lowering pharmacodynamic response to canagliflozin declines with increasing severity of renal impairment [see Contraindications (4) and Warnings and Precautions (5.3)].
 
 Canagliflozin was negligibly removed by hemodialysis.
 
@@ -139,7 +139,7 @@ Metformin
 
 In patients with decreased renal function, the plasma and blood half-life of metformin is prolonged and the renal clearance is decreased [see Contraindications (4) and Warnings and Precautions (5.1)].
 
-Following a single dose administration of metformin HCl extended-release tablets 500 mg in patients with mild and moderate renal failure (based on measured creatinine clearance), the oral and renal clearance of metformin were decreased by 33% and 50% and 16% and 53%, respectively [see Warnings and Precautions (5.5)].
+Following a single dose administration of metformin HCl extended-release tablets 500 mg in patients with mild and moderate renal failure (based on measured creatinine clearance), the oral and renal clearance of metformin were decreased by 33% and 50% and 16% and 53%, respectively [see Warnings and Precautions (5.3)].
 Metformin peak and systemic exposure was 27% and 61% greater, respectively in mild renal impaired and 74% and 2.36-fold greater in moderate renal impaired patients as compared to healthy subjects [see Contraindications (4) and Warnings and Precautions (5.1)].
 
 Hepatic Impairment
@@ -174,7 +174,7 @@ Age had no clinically meaningful effect on the pharmacokinetics of canagliflozin
 Metformin
 
 Limited data from controlled pharmacokinetic trials of metformin HCl tablets in healthy elderly subjects suggest that total plasma clearance of metformin is decreased, the half-life is prolonged, and Cmax is increased, compared with healthy young subjects.
-From these data, it appears that the change in metformin pharmacokinetics with aging is primarily accounted for by a change in renal function [see Warnings and Precautions (5.1, 5.5) and Use in Specific Populations (8.5)].
+From these data, it appears that the change in metformin pharmacokinetics with aging is primarily accounted for by a change in renal function [see Warnings and Precautions (5.1, 5.3) and Use in Specific Populations (8.5)].
 
 Drug-Drug Interactions
 

@@ -2,8 +2,8 @@
 
 ## 2.1 Prior to Initiation of INVOKAMET/INVOKAMET XR
 
-- Assess renal function before initiating INVOKAMET/INVOKAMET XR and periodically thereafter [see Warnings and Precautions (5.1, 5.5)], Contraindications (4)].
-- In patients with volume depletion not previously treated with canagliflozin, normalize volume status before initiating INVOKAMET/INVOKAMET XR [see Warnings and Precautions (5.3), Use in Specific Populations (8.5, 8.6)].
+- Assess renal function before initiating INVOKAMET/INVOKAMET XR and as clinically indicated [see Warnings and Precautions (5.1, 5.3)], Contraindications (4)].
+- In patients with volume depletion, correct this condition before initiating INVOKAMET/INVOKAMET XR [see Warnings and Precautions (5.3), Use in Specific Populations (8.5, 8.6)].
 
 ## 2.2 Dosage Overview
 
@@ -49,7 +49,7 @@ Patients taking an evening dose of metformin HCl extended-release tablets should
 
 ## 2.4 Recommended Dosage for Patients with Renal Impairment
 
-- Initiation of INVOKAMET or INVOKAMET XR is not recommended in patients with an eGFR <45 mL/min/1.73 m2.
+- Initiation of INVOKAMET or INVOKAMET XR is not recommended in patients with an eGFR less than 45 mL/min/1.73 m2, due to the metformin component.
 - Table 1 has dosage recommendations based on eGFR [see Use in Specific Populations (8.6), Clinical Studies (14.3)].
 
 Table 1: Recommended Dosage
@@ -58,9 +58,9 @@ Table 1: Recommended Dosage
 | --- | --- |
 | eGFR 60 or greater | [See Dosage and Administration (2.3)]. |
 | eGFR 45 to less than 60 | Limit the dose of canagliflozin component to 100 mg daily (two 50 mg tablets). |
-| eGFR 30 to less than 45with albuminuria >300 mg/day. | Assess the benefit risk of continuing INVOKAMET or INVOKAMET XR; limit the dose of canagliflozin to 100 mg daily (two 50 mg tablets). |
+| eGFR 30 to less than 45 | Assess the benefit risk of continuing INVOKAMET or INVOKAMET XR; limit the dose of canagliflozin component to 100 mg daily (two 50 mg tablets). |
 | eGFR less than 30 | Contraindicated; discontinue INVOKAMET or INVOKAMET XR [see Contraindications (4)]. |
-| On dialysis | Contraindicated [see Contraindications]. |
+| On dialysis | Contraindicated [see Contraindications (4)]. |
 
 ## 2.5 Concomitant Use with UDP-Glucuronosyltransferase Enzyme Inducers
 

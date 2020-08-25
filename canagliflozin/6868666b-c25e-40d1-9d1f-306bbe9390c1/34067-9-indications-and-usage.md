@@ -4,8 +4,9 @@ INVOKAMET and INVOKAMET XR are a combination of canagliflozin and metformin hydr
 
 Canagliflozin is indicated to reduce the risk of major adverse cardiovascular events (cardiovascular death, nonfatal myocardial infarction and nonfatal stroke) in adults with type 2 diabetes mellitus and established cardiovascular disease (CVD).
 
-Canagliflozin is indicated to reduce the risk of end-stage kidney disease (ESKD), doubling of serum creatinine, cardiovascular (CV) death, and hospitalization for heart failure in adults with type 2 diabetes mellitus and diabetic nephropathy with albuminuria > 300 mg/day.
+Canagliflozin is indicated to reduce the risk of end-stage kidney disease (ESKD), doubling of serum creatinine, cardiovascular (CV) death, and hospitalization for heart failure in adults with type 2 diabetes mellitus and diabetic nephropathy with albuminuria greater than 300 mg/day.
 
 Limitations of Use
 
-INVOKAMET/INVOKAMET XR is not recommended in patients with type 1 diabetes mellitus or for the treatment of diabetic ketoacidosis.
+INVOKAMET/INVOKAMET XR is not recommended in patients with type 1 diabetes mellitus.
+It may increase the risk of diabetic ketoacidosis in these patients [see Warnings and Precautions (5.3)].
