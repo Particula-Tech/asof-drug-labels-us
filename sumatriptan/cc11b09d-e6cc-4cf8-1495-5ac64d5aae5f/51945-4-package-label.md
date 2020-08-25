@@ -8,8 +8,6 @@ IMITREX
 
 NASAL SPRAY
 
-5 mg
-
 0.1 mL per unit
 
 For Intranasal Use Only
@@ -24,12 +22,14 @@ Rx only
 
 6 Nasal Spray Units
 
-Made in Spain
+5 mg
 
-©2017 GSK group of companies or licensor.
+Made in India
 
-1. 62000000017582 Rev.
-   9/17
+©2019 GSK group of companies or licensor.
+
+1. 62000000046138 Rev.
+   1/20
 
 PRINCIPAL DISPLAY PANEL
 
@@ -40,8 +40,6 @@ IMITREX
 (SUMATRIPTAN)
 
 NASAL SPRAY
-
-20 mg
 
 0.1 mL per unit
 
@@ -57,7 +55,11 @@ Rx only
 
 6 Nasal Spray Units
 
-©2017 GSK group of companies or licensor.
+20 mg
 
-1. 62000000017579 Rev.
-   9/17
+Made in India
+
+©2019 GSK group of companies or licensor.
+
+1. 62000000046139 Rev.
+   1/20
