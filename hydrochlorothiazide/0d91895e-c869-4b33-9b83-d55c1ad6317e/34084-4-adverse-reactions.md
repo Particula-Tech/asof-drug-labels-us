@@ -119,6 +119,12 @@ The following have been reported with irbesartan monotherapy: tinnitus, hyperkal
 
 The following have been reported with hydrochlorothiazide monotherapy: secondary acute angle-closure glaucoma and/or acute myopia.
 
+Non-melanoma Skin Cancer
+
+Hydrochlorothiazide is associated with an increased risk of non-melanoma skin cancer.
+In a study conducted in the Sentinel System, increased risk was predominantly for squamous cell carcinoma (SCC) and in white patients taking large cumulative doses.
+The increased risk for SCC in the overall population was approximately 1 additional case per 16,000 patients per year, and for white patients taking a cumulative dose of ≥50,000 mg the risk increase was approximately 1 additional SCC case for every 6,700 patients per year.
+
 ## 6.3 Laboratory Abnormalities
 
 In controlled clinical trials, clinically important changes in standard laboratory parameters were rarely associated with administration of AVALIDE.

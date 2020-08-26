@@ -17,7 +17,7 @@ Perform serial ultrasound examinations to assess the intra-amniotic environment.
 If oligohydramnios is observed, discontinue AVALIDE, unless it is considered lifesaving for the mother.
 Fetal testing may be appropriate, based on the week of pregnancy.
 Patients and physicians should be aware, however, that oligohydramnios may not appear until after the fetus has sustained irreversible injury.
-Closely observe infants with histories of in utero exposure to AVALIDE for hypotension, oliguria, and hyperkalemia [See Use in Specific Populations (8.4)].
+Closely observe infants with histories of in utero exposure to AVALIDE for hypotension, oliguria, and hyperkalemia [see Use in Specific Populations (8.4)].
 
 Irbesartan crosses the placenta in rats and rabbits.
 In pregnant rats given irbesartan at doses greater than the maximum recommended human dose (MRHD), fetuses showed increased incidences of renal pelvic cavitation, hydroureter and/or absence of renal papilla.

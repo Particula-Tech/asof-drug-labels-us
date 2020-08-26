@@ -7,14 +7,14 @@ Pregnancy Category D
 Use of drugs that act on the renin-angiotensin system during the second and third trimesters of pregnancy reduces fetal renal function and increases fetal and neonatal morbidity and death.
 Resulting oligohydramnios can be associated with fetal lung hypoplasia and skeletal deformations.
 Potential neonatal adverse effects include skull hypoplasia, anuria, hypotension, renal failure, and death.
-When pregnancy is detected, discontinue AVALIDE as soon as possible [See Use in Specific Populations (8.1)].
+When pregnancy is detected, discontinue AVALIDE as soon as possible [see Use in Specific Populations (8.1)].
 
 Thiazides cross the placenta, and use of thiazides during pregnancy is associated with a risk of fetal or neonatal jaundice, thrombocytopenia, and possibly other adverse reactions that have occurred in adults.
 
 ## 5.2 Hypotension in Volume or Salt-Depleted Patients
 
 Excessive reduction of blood pressure was rarely seen in patients with uncomplicated hypertension treated with irbesartan alone (<0.1%) or with irbesartan-hydrochlorothiazide (approximately 1%).
-Initiation of antihypertensive therapy may cause symptomatic hypotension in patients with intravascular volume or sodium-depletion, e.g., in patients treated vigorously with diuretics or in patients on dialysis.
+Initiation of antihypertensive therapy may cause symptomatic hypotension in patients with intravascular volume or sodium depletion, e.g., in patients treated vigorously with diuretics or in patients on dialysis.
 Such volume depletion should be corrected prior to administration of antihypertensive therapy.
 
 If hypotension occurs, the patient should be placed in the supine position and, if necessary, given an intravenous infusion of normal saline.
@@ -41,7 +41,7 @@ No patient discontinued due to increases or decreases in serum potassium.
 On average, the combination of irbesartan and hydrochlorothiazide had no effect on serum potassium.
 Higher doses of irbesartan ameliorated the hypokalemic response to hydrochlorothiazide.
 
-Coadministration of AVALIDE with potassium sparing diuretics, potassium supplements, potassium-containing salt substitutes or other drugs that raise serum potassium levels may result in hyperkalemia, sometimes severe.
+Coadministration of AVALIDE with potassium-sparing diuretics, potassium supplements, potassium-containing salt substitutes or other drugs that raise serum potassium levels may result in hyperkalemia, sometimes severe.
 Monitor serum potassium in such patients.
 
 Hydrochlorothiazide
@@ -70,7 +70,7 @@ Thiazides should be used with caution in patients with impaired hepatic function
 
 ## 5.7 Impaired Renal Function
 
-As a consequence of inhibiting the renin-angiotensin-aldosterone system, changes in renal function may be anticipated in susceptible individuals [See Drug Interactions (7)].
+As a consequence of inhibiting the renin-angiotensin-aldosterone system, changes in renal function may be anticipated in susceptible individuals [see Drug Interactions (7)].
 In patients whose renal function may depend on the activity of the renin-angiotensin-aldosterone system (e.g., patients with severe congestive heart failure), treatment with ACE inhibitors has been associated with oliguria and/or progressive azotemia and (rarely) with acute renal failure and/or death.
 Irbesartan would be expected to behave similarly.
 In studies of ACE inhibitors in patients with unilateral or bilateral renal artery stenosis, increases in serum creatinine or BUN have been reported.

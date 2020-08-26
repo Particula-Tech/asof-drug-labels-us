@@ -6,8 +6,8 @@ AVALIDE® (irbesartan-hydrochlorothiazide) film-coated tablets have markings on 
 
 | Tablet Strength (irbesartan and hydrochlorothiazide) | Film-Coated Tablet Color/Shape | Tablet Markings | Package Size | NDC Code |
 | --- | --- | --- | --- | --- |
-| 150 mg/12.5 mg | peach, biconvex, oval-shaped | heart debossed on one side and "2875" on the reverse | Bottles of 30 | 0024-5855-30 |
-| 300 mg/12.5 mg | peach, biconvex, oval-shaped | heart debossed on one side and "2876" on the reverse | Bottles of 30 | 0024-5856-30 |
+| 150 mg and 12.5 mg | peach, biconvex, oval-shaped | heart debossed on one side and "2875" on the reverse | Bottles of 30 | 0024-5855-30 |
+| 300 mg and 12.5 mg | peach, biconvex, oval-shaped | heart debossed on one side and "2876" on the reverse | Bottles of 30 | 0024-5856-30 |
 
 ## 16.2 Storage
 

@@ -1,6 +1,6 @@
 # 7 DRUG INTERACTIONS
 
-## 7.1 Non-Steroidal Anti-Inflammatory Agents Including Selective Cyclooxygenase-2 Inhibitors (COX-2 Inhibitors)
+## 7.1 Nonsteroidal Anti-inflammatory Agents Including Selective Cyclooxygenase-2 Inhibitors (COX-2 Inhibitors)
 
 Irbesartan
 
@@ -10,8 +10,8 @@ Therefore, monitor renal function and blood pressure periodically in patients re
 
 Hydrochlorothiazide
 
-Administration of a non-steroidal anti-inflammatory agent, including a selective COX-2 inhibitor can reduce the diuretic, natriuretic, and antihypertensive effects of loop, potassium-sparing, and thiazide diuretics.
-Therefore, when AVALIDE (irbesartan-hydrochlorothiazide) tablets and non-steroidal anti-inflammatory agents are used concomitantly, the patient should be observed closely to determine if the desired effect of the diuretic is obtained.
+Administration of a nonsteroidal anti-inflammatory agent, including a selective COX-2 inhibitor can reduce the diuretic, natriuretic, and antihypertensive effects of loop, potassium-sparing, and thiazide diuretics.
+Therefore, when AVALIDE (irbesartan-hydrochlorothiazide) tablets and nonsteroidal anti-inflammatory agents are used concomitantly, the patient should be observed closely to determine if the desired effect of the diuretic is obtained.
 
 ## 7.2 Dual Blockade of the Renin-Angiotensin System (RAS)
 
@@ -41,7 +41,7 @@ Stagger the dosage of hydrochlorothiazide and the resin such that AVALIDE is adm
 ## 7.6 Lithium
 
 Increases in serum lithium concentrations and lithium toxicity have been reported with concomitant use of irbesartan or thiazide diuretics.
-Monitor lithium levels in patients receiving Avalide and lithium.
+Monitor lithium levels in patients receiving AVALIDE and lithium.
 
 ## 7.7 Carbamazepine
 

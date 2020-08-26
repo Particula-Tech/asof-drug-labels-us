@@ -51,9 +51,9 @@ Alcohol, barbiturates, or narcotics: Potentiation of orthostatic hypotension may
 
 Skeletal muscle relaxants: Possible increased responsiveness to muscle relaxants such as curare derivatives.
 
-Corticosteroids, ACTH–intensified electrolyte depletion, particularly hypokalemia.
+Corticosteroids, ACTH: Intensified electrolyte depletion, particularly hypokalemia.
 
-Pressor amines (e.g., norepinephrine)–possible decreased response to pressor amines but not sufficient to preclude their use.
+Pressor amines (e.g., norepinephrine): Possible decreased response to pressor amines but not sufficient to preclude their use.
 
 ## 12.3 Pharmacokinetics
 

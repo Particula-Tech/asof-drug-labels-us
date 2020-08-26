@@ -11,7 +11,7 @@ The choice of AVALIDE as initial therapy for hypertension should be based on an 
 Patients with stage 2 (moderate or severe) hypertension are at relatively high risk for cardiovascular events (such as strokes, heart attacks, and heart failure), kidney failure, and vision problems, so prompt treatment is clinically relevant.
 The decision to use a combination as initial therapy should be individualized and may be shaped by considerations such as the baseline blood pressure, the target goal, and the incremental likelihood of achieving goal with a combination compared with monotherapy.
 
-Data from Studies V and VI [see Clinical Studies (14.2)] provide estimates of the probability of reaching a blood pressure goal with AVALIDE compared to irbesartan or HCTZ monotherapy.
+Data from Studies V and VI [see Clinical Studies (14.2)] provide estimates of the probability of reaching a blood pressure goal with AVALIDE compared to irbesartan or hydrochlorothiazide (HCTZ) monotherapy.
 The relationship between baseline blood pressure and achievement of a SeSBP <140 or <130 mmHg or SeDBP <90 or <80 mmHg in patients treated with AVALIDE compared to patients treated with irbesartan or HCTZ monotherapy are shown in Figures 1a through 2b.
 
 | Figure 1a: Probability of Achieving SBP <140 mmHg in Patients from Initial Therapy Studies V (Week 8) and VI (Week 7)For all probability curves, patients without blood pressure measurements at Week 7 (Study VI) and Week 8 (Study V) were counted as not reaching goal (intent-to-treat analysis). | Figure 1b: Probability of Achieving SBP <130 mmHg in Patients from Initial Therapy Studies V (Week 8) and VI (Week 7) |

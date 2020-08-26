@@ -22,3 +22,7 @@ Advise patients not to use potassium supplements or salt substitutes containing 
 Acute Myopia and Secondary Angle-Closure Glaucoma
 
 Advise patients to discontinue AVALIDE and seek immediate medical attention if they experience symptoms of Acute Myopia or Secondary Angle-Closure Glaucoma [see Warnings and Precautions (5.8)].
+
+Non-melanoma Skin Cancer
+
+Instruct patients taking hydrochlorothiazide to protect skin from the sun and undergo regular skin cancer screening.

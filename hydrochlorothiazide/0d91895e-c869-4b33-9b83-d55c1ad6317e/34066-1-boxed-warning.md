@@ -1,6 +1,4 @@
 # WARNING: FETAL TOXICITY
 
-- When pregnancy is detected, discontinue AVALIDE as soon as possible.
-  [See Warnings and Precautions (5.1).]
-- Drugs that act directly on the renin-angiotensin system can cause injury and death to the developing fetus.
-  [See Warnings and Precautions (5.1).]
+- When pregnancy is detected, discontinue AVALIDE as soon as possible [see Warnings and Precautions (5.1)].
+- Drugs that act directly on the renin-angiotensin system can cause injury and death to the developing fetus [see Warnings and Precautions (5.1)].
