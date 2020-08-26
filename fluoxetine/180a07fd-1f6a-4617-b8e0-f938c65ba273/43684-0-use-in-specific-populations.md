@@ -2,16 +2,6 @@
 
 ## 8.1 Pregnancy
 
-Pregnancy Category C - Fluoxetine should be used during pregnancy only if the potential benefit justifies the potential risk to the fetus.
-All pregnancies have a background risk of birth defects, loss, or other adverse outcome regardless of drug exposure.
-
-Treatment of Pregnant Women during the First Trimester - There are no adequate and well-controlled clinical studies on the use of fluoxetine in pregnant women.
-Results of a number of published epidemiological studies assessing the risk of fluoxetine exposure during the first trimester of pregnancy have demonstrated inconsistent results.
-More than 10 cohort studies and case-control studies failed to demonstrate an increased risk for congenital malformations overall.
-However, one prospective cohort study conducted by the European Network of Teratology Information Services reported an increased risk of cardiovascular malformations in infants born to women (N = 253) exposed to fluoxetine during the first trimester of pregnancy compared to infants of women (N = 1,359) who were not exposed to fluoxetine.
-There was no specific pattern of cardiovascular malformations.
-Overall, however, a causal relationship has not been established.
-
 Nonteratogenic Effects - Neonates exposed to fluoxetine and other SSRIs or serotonin and norepinephrine reuptake inhibitors (SNRIs), late in the third trimester have developed complications requiring prolonged hospitalization, respiratory support, and tube feeding.
 Such complications can arise immediately upon delivery.
 Reported clinical findings have included respiratory distress, cyanosis, apnea, seizures, temperature instability, feeding difficulty, vomiting, hypoglycemia, hypotonia, hypertonia, hyperreflexia, tremor, jitteriness, irritability, and constant crying.
@@ -34,23 +24,20 @@ However, in rat reproduction studies, an increase in stillborn pups, a decrease 
 There was no evidence of developmental neurotoxicity in the surviving offspring of rats treated with 12 mg/kg/day during gestation.
 The no-effect dose for rat pup mortality was 5 mg/kg/day (0.6 times the MRHD on a mg/m 2 basis).
 
-## 8.2 Labor and Delivery
+## 8.2 Lactation
 
-The effect of fluoxetine on labor and delivery in humans is unknown.
-However, because fluoxetine crosses the placenta and because of the possibility that fluoxetine may have adverse effects on the newborn, fluoxetine should be used during labor and delivery only if the potential benefit justifies the potential risk to the fetus.
+Risk Summary Data from published literature report the presence of fluoxetine and norfluoxetine in human milk (see Data).
+There are reports of agitation, irritability, poor feeding, and poor weight gain in infants exposed to fluoxetine through breast milk (see Clinical Considerations).
+There are no data on the effect of fluoxetine or its metabolites on milk production.
+The developmental and health benefits of breastfeeding should be considered along with the mother’s clinical need for fluoxetine and any potential adverse effects on the breastfed child from fluoxetine or the underlying maternal condition.
 
-## 8.3 Nursing Mothers
+Clinical Considerations Infants exposed to fluoxetine should be monitored for agitation, irritability, poor feeding, and poor weight gain.
 
-Because fluoxetine is excreted in human milk, nursing while on fluoxetine is not recommended.
-In one breast-milk sample, the concentration of fluoxetine plus norfluoxetine was 70.4 ng/mL.
-The concentration in the mother's plasma was 295.0 ng/mL.
-No adverse effects on the infant were reported.
-In another case, an infant nursed by a mother on fluoxetine developed crying, sleep disturbance, vomiting, and watery stools.
-The infant's plasma drug levels were 340 ng/mL of fluoxetine and 208 ng/mL of norfluoxetine on the second day of feeding.
+Data A study of 19 nursing mothers on fluoxetine with daily doses of 10-60 mg showed that fluoxetine was detectable in 30% of nursing infant sera (range: 1 to 84 ng/mL) whereas norfluoxetine was found in 85% (range: <1 to 265 ng/mL).
 
-## 8.4 Pediatric Use
+## 8.4 Pedatric Use
 
-Use of fluoxetine in children - The efficacy of fluoxetine for the treatment of Major Depressive Disorder was demonstrated in two 8-9-week placebo-controlled clinical trials with 315 pediatric outpatients ages 8 to ≤18 [see Clinical Studies (14.1)].
+Use of fluoxetine in children - The efficacy of fluoxetine for the treatment of Major Depressive Disorder was demonstrated in two 8- to 9-week placebo-controlled clinical trials with 315 pediatric outpatients ages 8 to ≤18 [see Clinical Studies (14.1)].
 
 The efficacy of fluoxetine for the treatment of OCD was demonstrated in one 13-week placebo-controlled clinical trial with 103 pediatric outpatients ages 7 to <18 [see Clinical Studies (14.2)].
 
@@ -59,7 +46,7 @@ The safety and effectiveness in pediatric patients <8 years of age in Major Depr
 Fluoxetine pharmacokinetics were evaluated in 21 pediatric patients (ages 6 to ≤18) with Major Depressive Disorder or OCD [see Clinical Pharmacology (12.3)].
 
 The acute adverse reaction profiles observed in the 3 studies (N=418 randomized; 228 fluoxetine-treated, 190 placebo-treated) were generally similar to that observed in adult studies with fluoxetine.
-The longer-term adverse reaction profile observed in the 19-week Major Depressive Disorder study (N=219 randomized; 109 fluoxetine-treated, 110 placebo-treated) was also similar to that observed in adult trials with fluoxetine [see Adverse Reactions (6.1)].
+The longer-term adverse reaction profile observed in the 19-week Major Depressive Disorder study (N=219 randomized; 109 fluoxetine-treated,110 placebo-treated) was also similar to that observed in adult trials with fluoxetine [see Adverse Reactions (6.1)].
 
 Manic reaction, including mania and hypomania, was reported in 6 (1 mania, 5 hypomania) out of 228 (2.6%) fluoxetine-treated patients and in 0 out of 190 (0%) placebo-treated patients.
 Mania/hypomania led to the discontinuation of 4 (1.8%) fluoxetine-treated patients from the acute phases of the 3 studies combined.
@@ -70,14 +57,13 @@ After 19 weeks of treatment in a clinical trial, pediatric subjects treated with
 In addition, fluoxetine treatment was associated with a decrease in alkaline phosphatase levels.
 The safety of fluoxetine treatment for pediatric patients has not been systematically assessed for chronic treatment longer than several months in duration.
 In particular, there are no studies that directly evaluate the longer-term effects of fluoxetine on the growth, development and maturation of children and adolescent patients.
-Therefore, height and weight should be monitored periodically in pediatric patients receiving fluoxetine.
-[see Warnings and Precautions (5.6)].
+Therefore, height and weight should be monitored periodically in pediatric patients receiving fluoxetine [see Warnings and Precautions (5.6)].
 
 Fluoxetine is approved for use in pediatric patients with MDD and OCD [see Box Warning and Warnings and Precautions (5.1)].
 Anyone considering the use of fluoxetine in a child or adolescent must balance the potential risks with the clinical need.
 
 Animal Data - Significant toxicity on muscle tissue, neurobehavior, reproductive organs, and bone development has been observed following exposure of juvenile rats to fluoxetine from weaning through maturity.
-Oral administration of fluoxetine to rats from weaning postnatal day 21 through adulthood day 90 at 3, 10, or 30 mg/kg/day was associated with testicular degeneration and necrosis, epididymal vacuolation and hypospermia (at 30 mg/kg/day corresponding to plasma exposures [AUC] approximately 5-10 times the average AUC in pediatric patients at the MRHD of 20 mg/day), increased serum levels of creatine kinase (at AUC as low as 1-2 times the average AUC in pediatric patients at the MRHD of 20 mg/day), skeletal muscle degeneration and necrosis, decreased femur length/growth and body weight gain (at AUC 5-10 times the average AUC in pediatric patients at the MRHD of 20 mg/day).
+Oral administration of fluoxetine to rats from weaning postnatal day 21 through adulthood day 90 at 3, 10, or 30 mg/kg/day was associated with testicular degeneration and necrosis, epididymal vacuolation and hypospermia (at 30 mg/kg/day corresponding to plasma exposures [AUC] approximately 5-10 times the average AUC in pediatric patients at the MRHD of 20 mg/day), increased serum levels of creatine kinase (at AUC as low as 1-2 times the average AUC in pediatric patients at the MRHD of 20 mg/day), skeletal muscle degeneration and necrosis, decreased femur length/growth and body weight gain (at AUC 5­10 times the average AUC in pediatric patients at the MRHD of 20 mg/day).
 The high dose of 30 mg/kg/day exceeded a maximum tolerated dose.
 When animals were evaluated after a drug-free period (up to 11 weeks after cessation of dosing), fluoxetine was associated with neurobehavioral abnormalities (decreased reactivity at AUC as low as approximately 0.1-0.2 times the average AUC in pediatric patients at the MRHD and learning deficit at the high dose), and reproductive functional impairment (decreased mating at all doses and impaired fertility at the high dose).
 In addition, the testicular and epididymal microscopic lesions and decreased sperm concentrations found in high dose group were also observed, indicating that the drug effects on reproductive organs are irreversible.
@@ -87,7 +73,7 @@ These fluoxetine toxicities in juvenile rats have not been observed in adult ani
 Plasma exposures (AUC) to fluoxetine in juvenile rats receiving 3, 10, or 30 mg/kg/day doses in this study are approximately 0.1-0.2, 1-2, and 5-10 times, respectively, the average exposure in pediatric patients receiving the MRHD of 20 mg/day.
 Rat exposures to the major metabolite, norfluoxetine, are approximately 0.3-0.8, 1-8, and 3-20 times, respectively, the pediatric exposure at the MRHD.
 
-A specific effect on bone development was reported in juvenile mice administered fluoxetine by the intraperitoneal route to 4 week old mice for 4 weeks at doses 0.5 and 2 times the oral MRHD of 20 mg/day on mg/m 2 basis.
+A specific effect on bone development was reported in juvenile mice administered fluoxetine by the intraperitoneal route to 4 week old mice for 4 weeks at doses 0.5 and 2 times the oral MRHD of 20 mg/day on mg/m2 basis.
 There was a decrease in bone mineralization and density at both doses, but the overall growth (body weight gain or femur length) was not affected.
 
 ## 8.5 Geriatric Use

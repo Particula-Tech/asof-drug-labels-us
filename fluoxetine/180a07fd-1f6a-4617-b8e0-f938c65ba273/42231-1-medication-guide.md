@@ -1,8 +1,4 @@
-# Medication Guide
-
-Fluoxetine Oral Solution USP
-
-(floo ox' e teen)
+# Medication Guide Fluoxetine Oral Solution USP (floo ox' e teen)
 
 Read the Medication Guide that comes with fluoxetine before you start taking it and each time you get a refill.
 There may be new information.
