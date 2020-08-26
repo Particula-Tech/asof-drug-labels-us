@@ -10,13 +10,9 @@ Inhalation Aerosol
 
 200 Metered Inhalations
 
-FOR ORAL INHALATION ONLY
+For oral inhalation with Albuterol Sulfate HFA actuator only.
 
-For use with Albuterol Sulfate HFA actuator only.
-
-Discard when the counter reads 000 or 12 months after removal from the moisture-protective foil pouch.
-
-Pouch opened: ____ Use by: ____
+Discard when the counter reads 000.
 
 Net Wt.
 18 g
@@ -45,7 +41,7 @@ Keep out of reach of children.
 
 Shake the inhaler well before each spray.
 
-Store at room temperature between 68oF and 77oF (20oC and 25oC). with the mouthpiece down.
+Store at room temperature between 68oF and 77oF (20oC and 25oC) with the mouthpiece down.
 
-1. 10000000139663 Rev.
-   5/16
+1. 62000000048044 Rev.
+   3/20
