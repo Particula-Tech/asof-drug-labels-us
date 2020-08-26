@@ -4,7 +4,7 @@ NDC 60505-1316-3
 
 Paroxetine HCl
 
-Controlled-Release Tablets
+Extended-Release Tablets
 
 12.5 mg
 
@@ -12,9 +12,9 @@ Controlled-Release Tablets
 
 Rx only
 
-Federal Law requires dispensing of paroxetine hydrochloride controlled-release tablets with the Medication Guide with this bottle.
+Federal Law requires dispensing of paroxetine hydrochloride extended-release tablets with the Medication Guide with this bottle.
 
-Each controlled-release tablet contains paroxetine hydrochloride equivalent to 12.5 mg paroxetine.
+Each extended-release tablet contains paroxetine hydrochloride equivalent to 12.5 mg paroxetine.
 
 Store at or below 25°C (77°F).
 Dispense in a tight, light resistant container [see USP]
@@ -29,7 +29,7 @@ NDC 60505-1317-3
 
 Paroxetine HCl
 
-Controlled-Release Tablets
+Extended-Release Tablets
 
 25 mg
 
@@ -37,9 +37,9 @@ Controlled-Release Tablets
 
 Rx only
 
-Federal Law requires dispensing of paroxetine hydrochloride controlled-release tablets with the Medication Guide with this bottle.
+Federal Law requires dispensing of paroxetine hydrochloride extended-release tablets with the Medication Guide with this bottle.
 
-Each controlled-release tablet contains paroxetine hydrochloride equivalent to 25 mg paroxetine.
+Each extended-release tablet contains paroxetine hydrochloride equivalent to 25 mg paroxetine.
 
 Store at or below 25°C (77°F).
 Dispense in a tight, light resistant container [see USP]
@@ -56,7 +56,7 @@ NDC 60505-1318-3
 
 Paroxetine HCl
 
-Controlled-Release Tablets
+Extended-Release Tablets
 
 37.5 mg
 
@@ -64,9 +64,9 @@ Controlled-Release Tablets
 
 Rx only
 
-Federal Law requires dispensing of paroxetine hydrochloride controlled-release tablets with the Medication Guide with this bottle.
+Federal Law requires dispensing of paroxetine hydrochloride extended-release tablets with the Medication Guide with this bottle.
 
-Each controlled-release tablet contains paroxetine hydrochloride equivalent to 37.5 mg paroxetine.
+Each extended-release tablet contains paroxetine hydrochloride equivalent to 37.5 mg paroxetine.
 
 Store at or below 25°C (77°F).
 Dispense in a tight, light resistant container [see USP]
