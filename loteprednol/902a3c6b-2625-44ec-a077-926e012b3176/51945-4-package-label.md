@@ -2,15 +2,19 @@
 
 NDC 24208-443-35
 
-Lotemax®
-
 BAUSCH + LOMB
+
+Lotemax®
 
 loteprednol etabonate
 
 ophthalmic ointment 0.5%
 
-Sterile Rx only
+FOR OPHTHALMIC USE ONLY
+
+Rx only
+
+Sterile
 
 Net.
 Wt.

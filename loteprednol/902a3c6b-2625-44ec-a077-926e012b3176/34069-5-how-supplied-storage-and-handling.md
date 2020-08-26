@@ -4,7 +4,7 @@ LOTEMAX (loteprednol etabonate ophthalmic ointment) 0.5% is a sterile ointment s
 
 NDC 24208-443-35 3.5 g tube
 
-DO NOT USE IF TAMPER EVIDENT SKIRT IS VISIBLE ON BOTTOM OF CAP.
+DO NOT USE IF TAMPER-EVIDENT SKIRT IS VISIBLE ON BOTTOM OF CAP.
 
 Storage: Store between 15°-25°C (59°-77°F).
 

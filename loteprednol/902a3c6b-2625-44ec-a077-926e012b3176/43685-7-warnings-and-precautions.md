@@ -1,6 +1,6 @@
 # 5 WARNINGS AND PRECAUTIONS
 
-## 5.1 Intraocular Pressure (IOP increase)
+## 5.1 Intraocular Pressure (IOP) Increase
 
 Prolonged use of corticosteroids may result in glaucoma with damage to the optic nerve, defects in visual acuity and fields of vision.
 If this product is used for 10 days or longer, IOP should be monitored even though it may be difficult in children and uncooperative patients.
@@ -16,7 +16,7 @@ In those diseases causing thinning of the cornea or sclera, perforations have be
 
 The initial prescription and renewal of the medication order beyond 14 days should be made by a physician only after examination of the patient with the aid of magnification such as slit lamp biomicroscopy and, where appropriate, fluorescein staining.
 
-## 5.4 Bacteria Infections
+## 5.4 Bacterial Infections
 
 Prolonged use of corticosteroids may suppress the host response and thus increase the hazard of secondary ocular infections.
 In acute purulent conditions, steroids may mask infection or enhance existing infection.
@@ -40,7 +40,7 @@ Patients should not wear contact lenses during their course of therapy with LOTE
 ## 5.8 Amblyopia
 
 LOTEMAX (loteprednol etabonate ophthalmic ointment), 0.5% should not be used in children following ocular surgery.
-Its use may interfere with amblyopia treatment by hindering the child’s ability to see out of the operated eye [see Use inSpecific Populations, Pediatric Use(8.4)].
+Its use may interfere with amblyopia treatment by hindering the child’s ability to see out of the operated eye [see Use in Specific Populations, Pediatric Use (8.4)].
 
 ## 5.9 Topical Ophthalmic Use Only
 
