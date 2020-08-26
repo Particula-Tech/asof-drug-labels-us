@@ -23,11 +23,11 @@ Advise patients that local reactions and skin atrophy are more likely to occur w
 
 Hypercalcemia and Hypercalciuria
 
-Advise patients that hypercalcemia and hypercalciuria have been observed with the use of Enstilar Foam [see Warnings and Precautions (5.1)].
+Advise patients that hypercalcemia and hypercalciuria have been observed with the use of Enstilar Foam [see Warnings and Precautions (5.2)].
 
 HPA Axis Suppression, Cushing's Syndrome, and Hyperglycemia
 
-Advise patients that Enstilar Foam can cause HPA axis suppression, Cushing's syndrome, and/or hyperglycemia [see Warnings and Precautions (5.2)].
+Advise patients that Enstilar Foam can cause HPA axis suppression, Cushing's syndrome, and/or hyperglycemia [see Warnings and Precautions (5.3)].
 
 Ophthalmic Adverse Reactions
 
