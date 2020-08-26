@@ -31,6 +31,6 @@ MICROZIDE® is a registered trademark of Allergan Sales, LLC
 
 Allergan® and its design are trademarks of Allergan, Inc.
 
-Revised: April 2020
+Revised: August 2020
 
-v2.0USPI6154
+v3.0USPI6154
