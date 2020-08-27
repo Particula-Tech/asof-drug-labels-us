@@ -1,6 +1,6 @@
 # Package/Label Display Panel
 
-NDC 50228-427-30
+NDC 50228- 427-30
 
 Solifenacin Succinate Tablets
 
@@ -12,7 +12,7 @@ ONCE-DAILY
 
 ScieGen Pharmaceuticals Inc.
 
-NDC 50228-427-90
+NDC 50228- 427-90
 
 Solifenacin Succinate Tablets
 
@@ -24,7 +24,7 @@ ONCE-DAILY
 
 ScieGen Pharmaceuticals Inc.
 
-NDC 50228-427-05
+NDC 50228- 427-05
 
 Solifenacin Succinate Tablets
 
@@ -36,7 +36,7 @@ ONCE-DAILY
 
 ScieGen Pharmaceuticals Inc.
 
-NDC 50228-428-30
+NDC 50228- 428-30
 
 Solifenacin Succinate Tablets
 
@@ -48,7 +48,7 @@ ONCE-DAILY
 
 ScieGen Pharmaceuticals Inc.
 
-NDC 50228-428-90
+NDC 50228- 428-90
 
 Solifenacin Succinate Tablets
 
@@ -60,7 +60,7 @@ ONCE-DAILY
 
 ScieGen Pharmaceuticals Inc.
 
-NDC 50228-428-05
+NDC 50228- 428-05
 
 Solifenacin Succinate Tablets
 
