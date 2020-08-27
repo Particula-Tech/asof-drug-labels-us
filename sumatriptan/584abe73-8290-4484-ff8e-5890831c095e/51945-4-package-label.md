@@ -24,6 +24,7 @@ Made in Canada
 
 1. 546544-01 Rev.
    11/17
+2. 
 
 PRINCIPAL DISPLAY PANEL
 
@@ -51,6 +52,7 @@ Made in Canada
 
 1. 546545-01 Rev.
    11/17
+2. 
 
 PRINCIPAL DISPLAY PANEL
 
@@ -78,3 +80,4 @@ Made in Canada
 
 1. 546546-01 Rev.
    11/17
+2. 
