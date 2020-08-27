@@ -1,0 +1,23 @@
+{
+  "application_numbers": [
+    "ANDA088108",
+    "ANDA088109"
+  ],
+  "inn": "methadone",
+  "labeler": "Hikma Pharmaceuticals USA Inc.",
+  "package_ndcs": [
+    "0054-0709-20",
+    "0054-0709-25",
+    "0054-0710-20",
+    "0054-0710-25"
+  ],
+  "products": [
+    {
+      "form": "TABLET",
+      "generic": "methadone hydrochloride",
+      "name": "METHADONE HYDROCHLORIDE"
+    }
+  ],
+  "setid": "50f14803-78c0-4d19-8b5d-9a9c17582ac1",
+  "source": "dailymed"
+}
