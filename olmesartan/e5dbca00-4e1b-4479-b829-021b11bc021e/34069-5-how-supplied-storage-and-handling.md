@@ -1,6 +1,6 @@
 # 16 HOW SUPPLIED/STORAGE AND HANDLING
 
-Olmesartan medoxomil tablets are supplied as light yellow, round, biconvex, film coated non-scored tablets containing 5 mg of olmesartan medoxomil, as white to off white, round, biconvex, film coated non-scored tablets containing 20 mg of olmesartan medoxomil, and as white to off white, oval, biconvex, film coated non-scored tablets containing 40 mg of olmesartan medoxomil.
+Olmesartan medoxomil tablets USP are supplied as light yellow, round, biconvex, film coated non-scored tablets containing 5 mg of olmesartan medoxomil, as white to off white, round, biconvex, film coated non-scored tablets containing 20 mg of olmesartan medoxomil, and as white to off white, oval, biconvex, film coated non-scored tablets containing 40 mg of olmesartan medoxomil.
 Tablets are debossed with “FS1”, “FS2” or ‘FS3” on one side of 5, 20, and 40 mg tablets, respectively and are plain on other side.
 
 Tablets are supplied as follows:
