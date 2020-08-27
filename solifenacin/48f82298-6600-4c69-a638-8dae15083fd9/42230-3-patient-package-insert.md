@@ -12,30 +12,29 @@ Solifenacin succinate tablet is a prescription medicine for adults used to treat
 
 • Urge urinary incontinence: a strong need to urinate with leaking or wetting accidents • Urgency: a strong need to urinate right away • Frequency: urinating often
 
-It is not known if solifenacin succinate tablets are safe and effective in children.
+Solifenacin succinate 5mg and 10mg tablets are not approved for use in children.
 
 Who should not take solifenacin succinate tablets?
 
 Do not take solifenacin succinate tablets if you:
 
 • are not able to empty your bladder (urinary retention) • have delayed or slow emptying of your stomach (gastric retention) • have an eye problem called “uncontrolled narrow-angle glaucoma” • are allergic to solifenacin succinate or any of the ingredients in solifenacin succinate tablets.
-See end of this leaflet for a complete list of ingredients.
+See the end of this leaflet for a complete list of ingredients.
 
 What should I tell my doctor before taking solifenacin succinate tablets?
 
-Before you take solifenacin succinate tablets, tell your doctor if you: • have any stomach or intestinal problems or problems with constipation • have trouble emptying your bladder or you have a weak urine stream • have an eye problem called “narrow angle glaucoma” • have liver problems • have kidney problems • have a rare heart problem called “QT prolongation” • are pregnant or plan to become pregnant.
+Before you take solifenacin succinate tablets, tell your doctor if you: • have any stomach or intestinal problems or problems with constipation • have trouble emptying your bladder or you have a weak urine stream • have an eye problem called "narrow-angle glaucoma" • have liver problems • have kidney problems • have a rare heart problem called “QT prolongation” • are pregnant or plan to become pregnant.
 It is not known if solifenacin succinate tablets will harm your unborn baby.
 Talk to your doctor if you are pregnant or plan to become pregnant. • are breastfeeding or plan to breastfeed.
-It is not known if solifenacin succinate tablets passes into your breast milk.
+It is not known if solifenacin succinate passes into your breast milk.
 You and your doctor should decide if you will take solifenacin succinate tablets or breastfeed.
-You should not do both.
 
 Tell your doctor about all the medicines you take, including prescription and nonprescription medicines, vitamins, and herbal supplements.
 Solifenacin succinate tablets may affect the way other medicines work, and other medicines may affect how solifenacin succinate tablet works.
 
 How should I take solifenacin succinate tablets?
 
-• Take solifenacin succinate tablets exactly as your doctor tells you to take it. • You should take 1 solifenacin succinate tablets tablet 1 time a day. • You should take solifenacin succinate tablets with water and swallow the tablet whole. • You can take solifenacin succinate tablets with or without food. • If you miss a dose of solifenacin succinate tablets, begin taking solifenacin succinate tablets again the next day.
+• Take solifenacin succinate tablets exactly as your doctor tells you to take it. • You should take 1 solifenacin succinate tablet 1 time a day. • You should take solifenacin succinate tablets with water and swallow the tablet whole. • You can take solifenacin succinate tablets with or without food. • If you miss a dose of solifenacin succinate tablets, begin taking solifenacin succinate tablets again the next day.
 Do not take 2 doses of solifenacin succinate tablets the same day. • If you take too much solifenacin succinate tablets, call your doctor or go to the nearest hospital emergency room right away.
 
 What should I avoid while taking solifenacin succinate tablets?
@@ -53,9 +52,11 @@ Stop taking solifenacin succinate tablets and get medical help right away if you
 The most common side effects of solifenacin succinate tablets include:
 
 • dry mouth • constipation.
-Call your doctor if you get severe stomach area (abdominal) pain or become constipated for 3 or more days. • urinary tract infection • blurred vision • heat exhaustion or heat-stroke.
-This can happen when solifenacin succinate tablets is used in hot environments.
-Symptoms may include: • decreased sweating • dizziness • tiredness • nausea • increase in body temperature
+Call your doctor if you get severe stomach area (abdominal) pain or become constipated for 3 or more days. • urinary tract infection • blurred vision Other side effects have been observed with anticholinergic drugs such as solifenacin succinate tablets and may include: • dry skin due to decreased sweating.
+Heat exhaustion or heat stroke can happen due to decreased sweating when solifenacin succinate tablet is used in hot environments.
+Symptoms may include:
+
+• decreased sweating • dizziness • tiredness • nausea • increase in body temperature
 
 Tell your doctor if you have any side effect that bothers you or that does not go away.
 
@@ -68,7 +69,7 @@ You may report side effects to the FDA at 1-800-FDA-1088.
 How should I store solifenacin succinate tablets?
 
 • Store solifenacin succinate tablets at 25ºC (77ºF) with excursions permitted from 15ºC to 30ºC (59°F to 86ºF).
-Keep the bottle closed. • Safely throw away medicine that is out of date or no longer need.
+Keep the bottle closed. • Safely throw away medicine that is out of date or no longer needed.
 
 Keep solifenacin succinate tablets and all medicines out of the reach of children.
 
@@ -101,4 +102,4 @@ Manufactured by: Alembic Pharmaceuticals Limited (Formulation Division), Panelav
 
 Manufactured for: Alembic Pharmaceuticals, Inc. 750 Route 202, Bridgewater, NJ 08807 USA
 
-Revised: 05/2019
+Revised: 06/2020
