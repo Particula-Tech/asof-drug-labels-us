@@ -71,7 +71,7 @@ Advise patients that there is a pregnancy exposure registry that monitors pregna
 
 Lactation
 
-Advise breastfeeding women using olanzapine to monitor infants for excess sedation, irritability, poor feeding and extrapyramidal symptoms (tremors and abnormal muscle movements) and to seek medical care if they notice these signs [see Use in Specific Populations (8.2)].
+Advise breastfeeding women using olanzapine to monitor infants for excess sedation, irritability, poor feeding and extrapyramidal symptoms (tremors and abnormal muscle movements) and to seek medical care if they notice these signs [see Use in Specific Populations (8.3)].
 
 Infertility
 
@@ -105,4 +105,4 @@ for Sandoz Inc., Princeton, NJ 08540
 
 M.L: 103/AP/RR/97/F/R
 
-Revised: November 2019
+Revised: April 2020

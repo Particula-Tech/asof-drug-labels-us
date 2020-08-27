@@ -50,6 +50,11 @@ Charcoal
 The administration of activated charcoal (1 g) reduced the Cmax and AUC of oral olanzapine by about 60%.
 As peak olanzapine levels are not typically obtained until about 6 hours after dosing, charcoal may be a useful treatment for olanzapine overdose.
 
+Anticholinergic Drugs
+
+Concomitant treatment with olanzapine and other drugs with anticholinergic activity can increase the risk for severe gastrointestinal adverse reactions related to hypomotility.
+Olanzapine should be used with caution in patients receiving medications having anticholinergic (antimuscarinic) effects [see Warnings and Precautions (5.14)].
+
 ## 7.2 Potential for Olanzapine to Affect Other Drugs
 
 CNS Acting Drugs
