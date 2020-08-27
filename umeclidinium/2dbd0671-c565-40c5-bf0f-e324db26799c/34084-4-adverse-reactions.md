@@ -16,7 +16,7 @@ Because clinical trials are conducted under widely varying conditions, adverse r
 
 The clinical program for ANORO ELLIPTA included 8,138 subjects with COPD in four 6‑month lung function trials, one 12-month long-term safety study, and 9 other trials of shorter duration.
 A total of 1,124 subjects have received at least 1 dose of ANORO ELLIPTA (umeclidinium/vilanterol 62.5 mcg/25 mcg), and 1,330 subjects have received a higher dose of umeclidinium/vilanterol (125 mcg/25 mcg).
-The safety data described below are based on the four 6-month and two 12-month trials.
+The safety data described below are based on the four 6-month and one 12-month trials.
 Adverse reactions observed in the other trials were similar to those observed in the confirmatory trials.
 
 6-Month Trials
@@ -49,7 +49,7 @@ Adverse Reactions with ANORO ELLIPTA with ≥1% Incidence and More Common than P
 
 Other adverse reactions with ANORO ELLIPTA observed with an incidence <1% but more common than placebo included the following: productive cough, dry mouth, dyspepsia, abdominal pain, gastroesophageal reflux disease, vomiting, musculoskeletal chest pain, chest discomfort, asthenia, atrial fibrillation, ventricular extrasystoles, supraventricular extrasystoles, myocardial infarction, pruritus, rash, and conjunctivitis.
 
-12-Month Trials
+12-Month Trial
 
 In a long-term safety trial (Trial 5, NCT #01316887), 335 subjects were treated for up to 12 months with umeclidinium/vilanterol 125 mcg/25 mcg or placebo.
 The demographic and baseline characteristics of the long-term safety trial were similar to those of the placebo-controlled efficacy trials described above.
