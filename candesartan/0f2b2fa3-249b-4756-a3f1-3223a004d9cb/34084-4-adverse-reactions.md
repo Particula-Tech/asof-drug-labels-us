@@ -33,11 +33,11 @@ Digestive: Abnormal hepatic function and hepatitis.
 
 Hematologic: Neutropenia, leukopenia, and agranulocytosis.
 
-Immunologic: Angioedema
+Immunologic: Angioedema.
 
 Metabolic and Nutritional Disorders: Hyperkalemia, hyponatremia.
 
-Respiratory system disorders: Cough
+Respiratory System Disorders: Cough.
 
 Skin and Appendages Disorders: Pruritus, rash and urticaria.
 

@@ -2,7 +2,7 @@
 
 ## 7.1 Agents Increasing Serum Potassium
 
-Coadministration of candesartan cilexetil with potassium sparing diuretics, potassium supplements, potassium-containing salt substitutes or other drugs that raise serum potassium levels may result in hyperkalemia.
+Co-administration of candesartan cilexetil with potassium sparing diuretics, potassium supplements, potassium-containing salt substitutes or other drugs that raise serum potassium levels may result in hyperkalemia.
 Monitor serum potassium in such patients.
 
 ## 7.2 Lithium
