@@ -1,14 +1,14 @@
 Rx only
 
-Manufactured for: Valeant Pharmaceuticals North America LLC Bridgewater, NJ 08807 USA
+Distributed by: Bausch Health US, LLC Bridgewater, NJ 08807 USA
 
-Manufactured by: Valeant Pharmaceuticals International, Inc. Steinbach, MB R5G 1Z7 Canada
+Manufactured by: Bausch Health Companies Inc. Steinbach, MB R5G 1Z7, Canada
 
-Vaseretic is a trademark of Valeant Pharmaceuticals International, Inc. or its affiliates.
+Vaseretic is a trademark of Bausch Health Companies Inc. or its affiliates.
 
-© Valeant Pharmaceuticals North America LLC
+© 2020 Bausch Health Companies Inc. or its affiliates
 
 Rev.
-07/17
+08/2020
 
-9390804 20001978
+Updated p/n

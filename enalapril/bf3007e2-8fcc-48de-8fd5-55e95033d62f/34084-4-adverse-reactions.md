@@ -12,7 +12,6 @@ Adverse experiences occurring in greater than two percent of patients treated wi
 | --- | --- | --- |
 |  | Percent of Patients in Controlled Studies |  |
 | Dizziness | 8.6 (0.7) | 4.3 |
-| Dizziness | 8.6 (0.7) | 4.3 |
 | Headache | 5.5 (0.4) | 9.1 |
 | Fatigue | 3.9 (0.8) | 2.6 |
 | Cough | 3.5 (0.4) | 0.9 |
@@ -25,7 +24,7 @@ Adverse experiences occurring in greater than two percent of patients treated wi
 
 Clinical adverse experiences occurring in 0.5 to 2.0 percent of patients in controlled trials included:
 
-Body As A Whole: Syncope, chest pain, abdominal pain Cardiovascular: Orthostatic hypotension, palpitation, tachycardia Digestive: Vomiting, dyspepsia, constipation, flatulence, dry mouth Nervous/Psychiatric: Insomnia, nervousness, paresthesia, somnolence, vertigo Skin: Pruritus, rash Other: Dyspnea, gout, back pain, arthralgia, diaphoresis, decreased libido, tinnitus, urinary tract infection
+Body as a Whole: Syncope, chest pain, abdominal pain Cardiovascular: Orthostatic hypotension, palpitation, tachycardia Digestive: Vomiting, dyspepsia, constipation, flatulence, dry mouth Nervous/Psychiatric: Insomnia, nervousness, paresthesia, somnolence, vertigo Skin: Pruritus, rash Other: Dyspnea, gout, back pain, arthralgia, diaphoresis, decreased libido, tinnitus, urinary tract infection
 
 Angioedema: Angioedema has been reported in patients receiving VASERETIC, with an incidence higher in black than in non-black patients.
 Angioedema associated with laryngeal edema may be fatal.
@@ -63,4 +62,10 @@ Miscellaneous: A symptom complex has been reported which may include some or all
 
 Hydrochlorothiazide – Body as a Whole: Weakness; Digestive: Pancreatitis, jaundice (intrahepatic cholestatic jaundice), sialadenitis, cramping, gastric irritation, anorexia; Hematologic: Aplastic anemia, agranulocytosis, leukopenia, hemolytic anemia, thrombocytopenia; Hypersensitivity: Purpura, photosensitivity, urticaria, necrotizing angiitis (vasculitis and cutaneous vasculitis), fever, respiratory distress including pneumonitis and pulmonary edema, anaphylactic reactions; Musculoskeletal: Muscle spasm; Nervous System/Psychiatric: Restlessness; Renal: Renal failure, renal dysfunction, interstitial nephritis (see WARNINGS); Skin: Erythema multiforme including Stevens-Johnson syndrome, exfoliative dermatitis including toxic epidermal necrolysis, alopecia; Special Senses: Transient blurred vision, xanthopsia.
 
-To report SUSPECTED ADVERSE REACTIONS, contact Valeant Pharmaceuticals North America LLC at 1-800-321-4576 or FDA at 1-800-FDA-1088 or www.fda.gov/medwatch.
+Postmarketing Experience
+
+Non-melanoma Skin Cancer:Hydrochlorothiazide is associated with an increased risk of non-melanoma skincancer.
+In a study conducted in the Sentinel System, increased risk waspredominantly for squamous cell carcinoma (SCC) and in white patients takinglarge cumulative doses.
+The increased risk for SCC in the overall population wasapproximately 1 additional case per 16,000 patients per year, and for whitepatients taking a cumulative dose of ≥50,000 mg the risk increase wasapproximately 1 additional SCC case for every 6,700 patients per year.
+
+To report SUSPECTED ADVERSE REACTIONS, contact Bausch Health US, LLC at 1-800-321-4576 or FDA at 1-800-FDA-1088 or www.fda.gov/medwatch.

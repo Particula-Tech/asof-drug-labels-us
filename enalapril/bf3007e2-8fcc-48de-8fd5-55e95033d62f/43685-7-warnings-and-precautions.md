@@ -206,6 +206,10 @@ NOTE: As with many other drugs, certain advice to patients being treated with VA
 This information is intended to aid in the safe and effective use of this medication.
 It is not a disclosure of all possible adverse or intended effects.
 
+Non-melanoma Skin Cancer
+
+Instruct patients taking hydrochlorothiazide to protect skin from the sun and undergo regular skin cancer screening.
+
 Drug Interactions Neprilysin Inhibitors
 
 Patients taking concomitant neprilysin inhibitors may be at increased risk for angioedema.
