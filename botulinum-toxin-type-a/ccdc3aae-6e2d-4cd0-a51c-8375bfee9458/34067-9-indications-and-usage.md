@@ -6,7 +6,13 @@ XEOMIN is indicated for the treatment of chronic sialorrhea in adult patients.
 
 ## 1.2 Upper Limb Spasticity
 
+Upper Limb Spasticity in Adult Patients
+
 XEOMIN is indicated for the treatment of upper limb spasticity in adult patients.
+
+Upper Limb Spasticity in Pediatric Patients, Excluding Spasticity Caused by Cerebral Palsy
+
+XEOMIN is indicated for the treatment of upper limb spasticity in pediatric patients 2 to 17 years of age, excluding spasticity caused by cerebral palsy.
 
 ## 1.3 Cervical Dystonia
 

@@ -2,7 +2,7 @@
 
 ## 2.1 Instructions for Safe Use
 
-The potency Units of XEOMIN (incobotulinumtoxinA) for injection are specific to the preparation and assay method utilized.
+The potency Units of XEOMIN for injection are specific to the preparation and assay method utilized.
 They are not interchangeable with other preparations of botulinum toxin products and, therefore, units of biological activity of XEOMIN cannot be compared to or converted into Units of any other botulinum toxin products assessed with any other specific assay method [see Warnings and Precautions (5.2) and Description (11)].
 Reconstituted XEOMIN is intended for intramuscular or intra-salivary gland injection only.
 
@@ -21,10 +21,10 @@ Figure 1: Glands for Injection in Chronic Sialorrhea
 
 Use the following guidelines if locating salivary glands using anatomic landmarks:
 
-- 1)To inject the parotid gland, find the midpoint on the line connecting the tragus and mandible angle (Site A and B, respectively, Figure 1), approximately at the height of the ear lobe.
-  Deliver the injection one finger breadth anterior to this site (Star 1, Figure 1).
-- 2)To inject the submandibular gland, find the midpoint between the angle of the mandible and the tip of the chin (Site B and C, respectively, Figure 1).
-  Deliver the injection one finger breadth medial to the inferior surface of the mandible at this site (Star 2, Figure 1).
+1. 1)To inject the parotid gland, find the midpoint on the line connecting the tragus and mandible angle (Site A and B, respectively, Figure 1), approximately at the height of the ear lobe.
+   Deliver the injection one finger breadth anterior to this site (Star 1, Figure 1).
+2. 2)To inject the submandibular gland, find the midpoint between the angle of the mandible and the tip of the chin (Site B and C, respectively, Figure 1).
+   Deliver the injection one finger breadth medial to the inferior surface of the mandible at this site (Star 2, Figure 1).
 
 Table 1: Dosing by Gland for Treatment of Chronic Sialorrhea
 
@@ -39,12 +39,14 @@ The timing for repeat treatment should be determined based on the actual clinica
 
 ## 2.3 Upper Limb Spasticity
 
+Upper Limb Spasticity in Adult Patients
+
 The dosage, frequency, and number of injection sites should be tailored to the individual patient based on the size, number, and location of muscles to be treated, severity of spasticity, presence of local muscle weakness, patient's response to previous treatment, and adverse event history with XEOMIN.
 The frequency of XEOMIN treatments should be no sooner than every 12 weeks.
-In spasticity patients not previously treated with botulinum toxins, initial dosing should begin at the low end of the recommended dosing range and titrated as clinically necessary.
-Most patients in clinical studies were retreated between 12-14 weeks.
+In patients not previously treated with a botulinum toxin, initial dosing should begin at the low end of the recommended dosing range and titrated as clinically necessary.
+Most patients in clinical studies were retreated between 12 and 14 weeks.
 
-Table 2: XEOMIN Dosing by Muscle for Treatment of Upper Limb Spasticity
+Table 2: XEOMIN Dosing by Muscle for Treatment of Adult Upper Limb Spasticity
 
 | Clinical Pattern Muscle | Units (Range) | Number of injection sites per muscle |
 | --- | --- | --- |
@@ -68,6 +70,44 @@ Table 2: XEOMIN Dosing by Muscle for Treatment of Upper Limb Spasticity
 
 Figure 2: Muscles Involved In Adult Upper Limb Spasticity
 
+Upper Limb Spasticity in Pediatric Patients, Excluding Spasticity Caused by Cerebral Palsy
+
+The exact dosage, frequency, and number of injection sites should be tailored to the individual patient based on size, number and localization of involved muscles; the severity of spasticity; and the presence of local muscle weakness.
+
+The maximum recommended dose is 8 Units/kg, divided among affected muscles, up to a maximum dose of 200 Units per single upper limb.
+If both upper limbs are treated, total XEOMIN dosage should not exceed 16 Units/kg, up to a maximum of 400 Units.
+
+Based on the selected dose, a reconstituted solution at a concentration between 1.25 Units/0.1 mL and 5 Units/0.1 mL is recommended [see Dosage and Administration (2.7)].
+The timing for repeat treatment should be determined based on the clinical need of the patient; the frequency of repeat treatments should be no sooner than every 12 weeks.
+Most patients in clinical studies were retreated between 12 and 16 weeks.
+
+Table 3 includes the recommended dose ranges for the treatment of the clinical patterns of flexed elbow, flexed wrist, pronated forearm, clenched fist, and thumb-in-palm.
+
+Table 3: XEOMIN Dosing by Muscle for Treatment of Pediatric Upper Limb Spasticity, Excluding Spasticity Caused by Cerebral Palsy
+
+| Range (Units/kg) | Maximum (Units) |  |  |
+| --- | --- | --- | --- |
+| Clinical Pattern Muscle | Dosage |  | Number of Injection Sites per Muscle |
+| Flexed Elbow |  |  |  |
+| Brachioradialis | 1-2 | 50 | 1-2 |
+| Biceps | 2-3 | 75 | 1-3 |
+| Brachialis | 1-2 | 50 | 1-2 |
+| Flexed Wrist |  |  |  |
+| Flexor carpi radialis | 1 | 25 | 1 |
+| Flexor carpi ulnaris | 1 | 25 | 1 |
+| Pronated Forearm |  |  |  |
+| Pronator quadratus | 0.5 | 12.5 | 2 |
+| Pronator teres | 1-2 | 50 | 1 |
+| Clenched Fist |  |  |  |
+| Flexor digitorum superficialis | 1 | 25 | 1 |
+| Flexor digitorum profundus | 1 | 25 | 1 |
+| Thumb-in-Palm |  |  |  |
+| Flexor pollicis longus | 1 | 25 | 1 |
+| Adductor pollicis | 0.5 | 12.5 | 1 |
+| Flexor pollicis brevis/ opponens pollicis | 0.5 | 12.5 | 1 |
+
+Figure 3: Muscles Injected for Pediatric Upper Limb Spasticity
+
 ## 2.4 Cervical Dystonia
 
 The recommended initial total dose of XEOMIN for cervical dystonia is 120 Units.
@@ -87,10 +127,10 @@ In patients previously treated with a botulinum toxin A, their past dose, respon
 
 The total dose of XEOMIN should not exceed 100 Units per treatment session (50 Units per eye).
 
-XEOMIN is injected into the lateral and medial orbicularis oculi muscle of the upper lid; lateral canthus and the lateral orbicularis oculi muscle of the lower lid; and the corrugator muscle, if necessary (see Figure 3).
+XEOMIN is injected into the lateral and medial orbicularis oculi muscle of the upper lid; lateral canthus and the lateral orbicularis oculi muscle of the lower lid; and the corrugator muscle, if necessary (see Figure 4).
 The number and location of injections may be changed in response to adverse reactions or based on the patient's response to treatment, but the total dose should not exceed 50 Units per eye.
 
-Figure 3: Injection Sites for Blepharospasm
+Figure 4: Injection Sites for Blepharospasm
 
 The frequency of XEOMIN repeat treatments should be determined by clinical response but should generally be no more frequent than every 12 weeks [see Clinical Studies (14.4)].
 
@@ -101,13 +141,13 @@ The five injection sites are: two injections in each corrugator muscle and one i
 
 Retreatment with XEOMIN should be administered no more frequently than every three months.
 
-Figure 4: Injection Sites for Glabellar Lines
+Figure 5: Injection Sites for Glabellar Lines
 
 ## 2.7 Preparation and Reconstitution Technique
 
 Prior to injection, reconstitute each vial of XEOMIN with sterile, preservative-free 0.9% Sodium Chloride Injection, USP [see Dosage Form and Strengths (3)].
 A 20-27 gauge short bevel needle is recommended for reconstitution.
-Draw up an appropriate amount of preservative-free 0.9% Sodium Chloride Injection, USP into a syringe (see Table 3).
+Draw up an appropriate amount of preservative-free 0.9% Sodium Chloride Injection, USP into a syringe (see Table 4).
 Clean the exposed portion of the rubber stopper of the vial with alcohol (70%) prior to insertion of the needle.
 After vertical insertion of the needle through the rubber stopper, the vacuum will draw the saline into the vial.
 Gently inject any remaining saline into the vial to avoid foam formation.
@@ -122,11 +162,11 @@ During this time period, unused reconstituted XEOMIN may be stored in the origin
 XEOMIN vials are for single-dose only.
 Discard any unused portion.
 
-Diluent volumes for reconstitution of XEOMIN are indicated in Table 3.
+Diluent volumes for reconstitution of XEOMIN are indicated in Table 4.
 
-Table 3: Diluent Volumes for Reconstitution of XEOMIN
+Table 4: Diluent Volumes for Reconstitution of XEOMIN
 
-| Volume of Preservative-free 0.9% Sodium Chloride Injection, USP | 50 Unit Vial: Resulting dose in Units per 0.1 mL | 100 Unit Vial: Resulting dose in Units per 0.1 mL | 200 Unit Vial: Resulting dose in Units per 0.1 mL |
+| Volume of preservative-free 0.9% Sodium Chloride Injection, USP | 50 Unit Vial: Resulting dose in Units per 0.1 mL | 100 Unit Vial: Resulting dose in Units per 0.1 mL | 200 Unit Vial: Resulting dose in Units per 0.1 mL |
 | --- | --- | --- | --- |
 | 0.25 mL | 20 Units | - | - |
 | 0.5 mL | 10 Units | 20 Units | 40 Units |
@@ -136,6 +176,8 @@ Table 3: Diluent Volumes for Reconstitution of XEOMIN
 | 2.5 mL | 2 Units | 4 Units | 8 Units |
 | 4 mL | 1.25 Units | 2.5 Units | 5 Units |
 | 5 mL | 1 Unit | 2 Units | 4 Units |
+| 8 mLWhen using 8 mL of diluent for a 100 Unit or 200 Unit vial of XEOMIN, complete the following steps: Reconstitute a 100 Unit or 200 Unit vial of XEOMIN with 4 mL of preservative-free 0.9% Sodium Chloride Injection, USP, following instructions above.Withdraw 4 mL of preservative-free 0.9% Sodium Chloride Injection, USP, into an appropriately sized syringe for 8 mL in total.Using the same syringe, draw up the 4 mL of XEOMIN solution from the reconstituted vial and mix gently. | - | 1.25 Units | 2.5 Units |
+| 16 mLWhen using 16 mL of diluent for a 200 Unit vial of XEOMIN, complete the following steps: Reconstitute a 200 Unit vial of XEOMIN with 4 mL of preservative-free 0.9% Sodium Chloride Injection, USP, following instructions above.Withdraw 12 mL of preservative-free 0.9% Sodium Chloride Injection, USP, into an appropriately sized syringe for 16 mL in total.Using the same syringe, draw up the 4 mL of XEOMIN solution from the reconstituted vial and mix gently. | - | - | 1.25 Units |
 
 ## 2.8 Administration
 
@@ -154,9 +196,23 @@ A sterile needle (e.g., 27-30 gauge (0.30-0.40 mm diameter), 12.5 mm length) sho
 
 The salivary glands can be located using ultrasound imaging or surface anatomical landmarks [see Dosage and Administration (2.2)].
 
-Upper Limb Spasticity and Cervical Dystonia
+Upper Limb Spasticity
 
-A sterile needle (e.g., 26-gauge (0.45 mm diameter), 37 mm length for superficial muscles; or 22-gauge (0.70 mm diameter), 75 mm length for injections into deeper muscles) should be used in the intramuscular administration in the treatment of upper limb spasticity and cervical dystonia.
+Upper Limb Spasticity in Adult Patients
+
+A sterile needle (e.g., 26-gauge (0.45 mm diameter), 37 mm length for superficial muscles; or 22-gauge (0.70 mm diameter), 75 mm length for deeper musculature) should be used in the intramuscular administration in the treatment of upper limb spasticity in adults.
+
+Localization of the involved muscles with electromyographic guidance, nerve stimulation, or ultrasound techniques is recommended.
+
+Upper Limb Spasticity in Pediatric Patients, Excluding Spasticity Caused by Cerebral Palsy
+
+A sterile needle (e.g., 30-gauge (0.30 mm diameter), 25 mm length for superficial muscles; or 27-gauge (0.40 mm diameter), 37 mm length for deeper musculature) should be used in the intramuscular administration in the treatment of upper limb spasticity in pediatric patients.
+
+Localization of the involved muscles with techniques such as electromyographic guidance, nerve stimulation, or ultrasound is recommended.
+
+Cervical Dystonia
+
+A sterile needle (e.g., 26-gauge (0.45 mm diameter), 37 mm length for superficial muscles; or 22-gauge (0.70 mm diameter), 75 mm length for deeper musculature) should be used in the intramuscular administration in the treatment of cervical dystonia.
 
 Localization of the involved muscles with electromyographic guidance or nerve stimulation techniques may be useful.
 
@@ -171,4 +227,4 @@ A sterile needle (e.g., 30-33 gauge (0.3-0.2 mm diameter), 13 mm length) should 
 ## 2.9 Monitoring to Assess Effectiveness
 
 The median first onset of XEOMIN effect occurs within seven days after injection.
-The typical duration of effect of each treatment is up to 3 months; however, the effect may last significantly longer, or shorter, in individual patients.
+The typical duration of effect of each treatment is up to 12-16 weeks however, the effect may last longer, or shorter, in individual patients.

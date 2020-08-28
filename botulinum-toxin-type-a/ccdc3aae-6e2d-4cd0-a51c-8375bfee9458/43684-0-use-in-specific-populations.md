@@ -29,7 +29,22 @@ The developmental and health benefits of breastfeeding should be considered alon
 
 ## 8.4 Pediatric Use
 
-Safety and effectiveness of XEOMIN in patients less than 18 years of age have not been established [see Warnings and Precautions (5.1)].
+Safety and effectiveness of XEOMIN in patients less than 18 years of age have not been established for lower limb spasticity, sialorrhea, cervical dystonia, blepharospasm, or glabellar frown lines [see Warnings and Precautions (5.1)].
+
+Upper Limb Spasticity in Pediatric Patients, Excluding Spasticity Caused by Cerebral Palsy
+
+Safety and effectiveness have been established in pediatric patients 2 to 17 years of age [see Warnings and Precautions (5.1), Adverse Reactions (6.1), and Clinical Studies (14.2)].
+The safety and effectiveness of XEOMIN have been established by evidence from adequate and well-controlled studies of XEOMIN in patients 2 to 17 years of age with upper limb spasticity.
+A pediatric assessment for XEOMIN demonstrates that XEOMIN is safe and effective in another pediatric population.
+However, XEOMIN is not approved for such patient population due to marketing exclusivity for another botulinum toxin.
+Safety and effectiveness in pediatric patients below the age of 2 years have not been established [see Warnings and Precautions (5.1)].
+
+Juvenile Animal Toxicity Data
+
+In a study in which juvenile rats received intramuscular injections of Xeomin (0, 5, 10, or 30 Units/kg) every other week from postnatal day 21 for 10 weeks, decreased limb use, decreased body weight gain, skeletal muscle atrophy, and decreased bone growth and density were observed at all doses.
+Delayed female sexual maturation and male reproductive organ histopathology (atrophy of the germinal epithelium of the testis, associated with hypospermia) were observed at the mid and high doses, and mating behavior was impaired at the high dose.
+A no-effect dose for adverse effects on development in juvenile animals was not established.
+The lowest dose tested (5 Units/kg) is less than the human dose of 400 Units on a body weight (kg) basis.
 
 ## 8.5 Geriatric Use
 
@@ -41,9 +56,9 @@ Other clinical studies have not identified differences in responses between olde
 
 Upper Limb Spasticity
 
-Of the total number of 283 patients in the placebo-controlled studies in upper limb spasticity [see Clinical Studies (14.2)], 118 were 65 years of age and over (70 treated with XEOMIN and 48 received placebo), which included 12 patients 75 years of age and over (7 treated with XEOMIN and 5 received placebo).
-No overall differences in safety or effectiveness were observed between older and younger patients.
-Other clinical studies have not identified differences in responses between older and younger patients, but increased sensitivity in older patients cannot be ruled out.
+Of the total number of 283 patients in the placebo-controlled studies in upper limb spasticity in adult patients [see Clinical Studies (14.2)], 118 were 65 years of age and over (70 treated with XEOMIN and 48 received placebo), which included 12 patients 75 years of age and over (7 treated with XEOMIN and 5 received placebo).
+No overall differences in safety or effectiveness were observed between older and younger adult patients.
+Other clinical studies have not identified differences in responses between older and younger adult patients, but increased sensitivity in older patients cannot be ruled out.
 
 Cervical Dystonia
 

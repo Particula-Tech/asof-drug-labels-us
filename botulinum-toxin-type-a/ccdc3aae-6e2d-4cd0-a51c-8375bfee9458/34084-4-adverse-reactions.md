@@ -16,12 +16,12 @@ Because clinical trials are conducted under widely varying conditions, adverse r
 
 Chronic Sialorrhea
 
-Table 4 lists the adverse reactions that occurred in ≥3% of XEOMIN-treated patients in the double-blind, placebo-controlled phase of the study in patients with chronic sialorrhea [see Clinical Studies (14.1)].
+Table 5 lists the adverse reactions that occurred in ≥3% of XEOMIN-treated patients in the double-blind, placebo-controlled phase of the study in patients with chronic sialorrhea [see Clinical Studies (14.1)].
 The most common adverse reactions (≥4%) were tooth extraction, dry mouth, diarrhea, and hypertension.
 In the controlled portion of this study, 74 patients received 100 Units of XEOMIN and 36 patients received placebo.
 XEOMIN-treated patients were 21-80 years old (mean 65 years), and were predominantly male (71%) and white (99.5%).
 
-Table 4: Adverse Reactions (≥3%) and Greater for XEOMIN than Placebo: Double-Blind Phase of the Placebo-Controlled Chronic Sialorrhea Study
+Table 5: Adverse Reactions (≥3%) and Greater for XEOMIN than Placebo: Double-Blind Phase of the Placebo-Controlled Chronic Sialorrhea Study
 
 | Adverse Reaction | XEOMIN 100 Units (N = 74) % | Placebo (N = 36) % |
 | --- | --- | --- |
@@ -37,12 +37,14 @@ Table 4: Adverse Reactions (≥3%) and Greater for XEOMIN than Placebo: Double-B
 
 Upper Limb Spasticity
 
-Table 5 lists the adverse reactions that occurred in ≥2% of XEOMIN-treated patients in two placebo-controlled, Phase 3 studies in patients with upper limb spasticity.
+Upper Limb Spasticity in Adult Patients
+
+Table 6 lists the adverse reactions that occurred in ≥2% of XEOMIN-treated patients in two placebo-controlled studies in adult patients with upper limb spasticity.
 Study 1 and Study 2 were both double-blind, placebo-controlled studies, with an open-label extension [see Clinical Studies (14.2)].
 In the controlled portion of these studies, 283 patients received ≥120 Units to 400 Units, of which 217 patients received at least 400 units of XEOMIN, and 182 patients received placebo.
-XEOMIN-treated patients were 20-79 years old (mean 56 years), and were predominantly male (58%) and white (84%).
+XEOMIN-treated patients were 20-79 years old (mean 56 years), and were predominantly male (58%), and White (84%).
 
-Table 5: Adverse Reactions (≥2%) and Greater for XEOMIN than Placebo: Double-Blind Phase of Placebo-Controlled Upper Limb Spasticity Study 1 and Study 2
+Table 6: Adverse Reactions (≥2%) and Greater for XEOMIN than Placebo: Double-Blind Phase of Placebo-Controlled Adult Upper Limb Spasticity Study 1 and Study 2
 
 | Adverse Reaction | XEOMIN 400 Units (N = 217) % | Placebo (N = 182) % |
 | --- | --- | --- |
@@ -51,6 +53,30 @@ Table 5: Adverse Reactions (≥2%) and Greater for XEOMIN than Placebo: Double-B
 | Dry mouth | 2 | 1 |
 | Upper respiratory tract infection | 2 | 1 |
 
+Upper Limb Spasticity in Pediatric Patients
+
+Table 7 lists the adverse reactions that occurred in ≥2% of XEOMIN-treated patients in Study 1 in pediatric patients 2 years of age and older with upper limb spasticity.
+In the controlled portion of Study 1, 350 patients were randomized to one of three doses of XEOMIN: 87 received 2 Units/kg per affected upper limb, 87 received 6 Units/kg per affected upper limb, and 176 received 8 Units/kg per affected upper limb [see Clinical Studies (14.2)].
+XEOMIN-treated patients were 2 to 17 years old (mean 7 years), 63% were male, and 90% were White.
+
+No relationship between increased dose and increased occurrence of adverse reactions was observed.
+The most common adverse reactions (≥3% of XEOMIN-treated patients) at the recommended dose of XEOMIN (8 Units/kg) were nasopharyngitis and bronchitis.
+
+Table 7: Adverse Reactions (≥2%) in Patients Treated with XEOMIN 2 Units/kg or 8 Units/kg: Double-Blind Phase of Study 1 in Pediatric Upper Limb Spasticity
+
+| Adverse Reactions | XEOMIN 2 Units/kg N=87 % | XEOMIN 8 Units/kg N=176 % |
+| --- | --- | --- |
+| Infections and infestations |  |  |
+| Nasopharyngitis | 6 | 3 |
+| Bronchitis | 2 | 3 |
+| PharyngotonsillitisIncludes pharyngotonsillitis, pharyngitis and tonsillitis | 2 | 2 |
+| Upper respiratory tract infection | 2 | 2 |
+| Respiratory tract infection viral | 1 | 2 |
+| Injury, poisoning and procedural complications |  |  |
+| Fall | 0 | 2 |
+| Musculoskeletal and connective tissue disorders |  |  |
+| Pain in extremity | 0 | 2 |
+
 Cervical Dystonia
 
 The data described below reflect exposure to a single intramuscular dose of XEOMIN in a placebo-controlled, Phase 3 trial in patients with cervical dystonia [see Clinical Studies (14.3)].
@@ -58,9 +84,9 @@ In this study, 159 patients received XEOMIN (78 were randomized to receive a tot
 XEOMIN-treated patients were 18 to 79 years old (mean 53 years), and were predominantly female (66%) and Caucasian (91%).
 At study baseline, approximately 25% had mild, 50% had moderate, and 25% had severe cervical dystonia.
 Approximately 61% of XEOMIN-treated patients had previously received another botulinum toxin type A product.
-Table 6 lists adverse reactions that occurred in ≥5% of XEOMIN-treated patients (in any treatment group) and greater than placebo.
+Table 8 lists adverse reactions that occurred in ≥5% of XEOMIN-treated patients (in any treatment group) and greater than placebo.
 
-Table 6: Adverse Reactions (≥5%) and Greater for XEOMIN than Placebo: Double-Blind Phase of the Placebo-Controlled Cervical Dystonia Study
+Table 8: Adverse Reactions (≥5%) and Greater for XEOMIN than Placebo: Double-Blind Phase of the Placebo-Controlled Cervical Dystonia Study
 
 | Adverse Reaction | XEOMIN 120 Units (N=77) % | XEOMIN 240 Units (N=82) % | Placebo (N=74) % |
 | --- | --- | --- | --- |
@@ -83,9 +109,9 @@ In the controlled portion, 22 patients received XEOMIN 25 Units, 19 patients rec
 XEOMIN-treated patients were 23 to 78 years of age (mean 55 years).
 Fifty-nine percent of the patients were women, 77% were Asian, and 23% White.
 No patients withdrew prematurely because of an adverse event.
-Table 7 lists the adverse reactions that occurred in ≥6% of XEOMIN-treated patients and greater than placebo.
+Table 9 lists the adverse reactions that occurred in ≥6% of XEOMIN-treated patients and greater than placebo.
 
-Table 7: Adverse Reactions (≥6%) and Greater for XEOMIN than Placebo: Double-Blind Phase of the Placebo-Controlled Blepharospasm Study 1
+Table 9: Adverse Reactions (≥6%) and Greater for XEOMIN than Placebo: Double-Blind Phase of the Placebo-Controlled Blepharospasm Study 1
 
 | Adverse Reaction | XEOMIN 50 U (N=19) % | Placebo (N=20) % |
 | --- | --- | --- |
@@ -95,10 +121,10 @@ Table 7: Adverse Reactions (≥6%) and Greater for XEOMIN than Placebo: Double-B
 Study 2 was a double-blind, placebo-controlled, flexible dose study with an open-label extension (OLEX) period.
 The study only included patients previously treated with onabotulinumtoxinA (Botox) [see Clinical Studies (14.4)].
 In the controlled portion, 74 patients received XEOMIN at a mean dose of approximately 33 Units per eye (minimum 10 Units, maximum 50 Units).
-XEOMIN-treated patients were 22 to 79 years of age (mean 62 years), predominantly female (65%), and Caucasian (60%).
-Table 8 lists the adverse reactions that occurred in ≥5% of XEOMIN-treated patients and greater than placebo.
+XEOMIN-treated patients were 22 to 79 years of age (mean 62 years), predominantly female (65%) and Caucasian (60%).
+Table 10 lists the adverse reactions that occurred in ≥5% of XEOMIN-treated patients and greater than placebo.
 
-Table 8: Adverse Reactions (≥5%) and Greater for XEOMIN than Placebo: Double-Blind Phase of the Placebo-Controlled Blepharospasm Study 2
+Table 10: Adverse Reactions (≥5%) and Greater for XEOMIN than Placebo: Double-Blind Phase of the Placebo-Controlled Blepharospasm Study 2
 
 | Adverse Reaction | XEOMIN (N=74) % | Placebo (N=34) % |
 | --- | --- | --- |
@@ -132,7 +158,7 @@ Adverse reactions are adverse events in which there is some basis to believe the
 
 Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in practice.
 
-Table 9: Adverse Reactions in Placebo-Controlled Glabellar Lines Trials
+Table 11: Adverse Reactions in Placebo-Controlled Glabellar Lines Trials
 
 | Adverse Reaction | XEOMIN (N=535) % | Placebo (N=268) % |
 | --- | --- | --- |
@@ -163,7 +189,7 @@ The detection of antibody formation is highly dependent on the sensitivity and s
 Additionally, the observed incidence of antibody (including neutralizing antibody) positivity in an assay may be influenced by several factors including assay methodology, sample handling, timing of sample collection, concomitant medications, and underlying disease.
 For these reasons, comparison of the incidence of antibodies in the studies described below with the incidence of antibodies in other studies or to other botulinumtoxinA products may be misleading.
 
-Of the 1490 patients treated with XEOMIN in placebo-controlled clinical trials supporting approved indications [see Clinical Studies (14)], 5 (0.3%) patients were positive for neutralizing antibodies after treatment whose antibody status at baseline was unknown and 4 (0.2%) additional patients developed neutralizing antibodies after treatment.
+Of the 2397 patients treated with XEOMIN in clinical trials [see Clinical Studies (14)], 9 (0.4%) patients were positive for neutralizing antibodies after treatment whose antibody status at baseline was unknown and 4 (0.2%) additional patients developed neutralizing antibodies after treatment.
 No patients demonstrated a secondary lack of treatment response due to neutralizing antibodies.
 
 Chronic Sialorrhea
@@ -174,14 +200,24 @@ No patients demonstrated a secondary lack of treatment response due to neutraliz
 
 Upper Limb Spasticity
 
-Of the 456 patients treated with XEOMIN in the main phase and open-label extension period of the upper limb spasticity clinical trials (Study 1 and Study 2) [see Clinical Studies (14.2)], 4 patients were positive for neutralizing antibodies at baseline, and 2 (0.4%) additional patients (with unknown antibody status at baseline) were positive after treatment.
+Upper Limb Spasticity in Adult Patients
+
+Of the 456 patients treated with XEOMIN in the main phase and open-label extension period of the adult upper limb spasticity clinical trials (Study 1 and Study 2) [see Clinical Studies (14.2)], 4 patients were positive for neutralizing antibodies at baseline, and 2 (0.4%) additional patients (with unknown antibody status at baseline) were positive after treatment.
 Both patients had not received a botulinum toxin treatment in the 12 months prior to enrollment in the studies.
+No patients demonstrated a secondary lack of treatment response due to neutralizing antibodies.
+
+Upper Limb Spasticity in Pediatric Patients
+
+Of the 907 patients treated with XEOMIN in clinical trials for treatment of pediatric spasticity [see Clinical Studies (14.2)], 7 patients were positive for neutralizing antibodies at baseline, and 4 (0.4%) additional patients (with unknown antibody status at baseline) were positive after treatment.
+All of these patients were treated with onabotulinumtoxinA and/or abobotulinumtoxinA prior to enrollment in the study.
+Patients who had never received a botulinum toxin treatment did not develop neutralizing antibodies after being treated with XEOMIN.
+Antibody measurements were not performed in patients with <21 kg body weight.
 No patients demonstrated a secondary lack of treatment response due to neutralizing antibodies.
 
 Cervical Dystonia
 
 Of the 227 patients treated with XEOMIN in the main phase and open-label extension period of the cervical dystonia clinical trial [see Clinical Studies (14.3)], 5 patients were positive for neutralizing antibodies at baseline, 1 (0.4%) patient (with unknown antibody status at baseline) was positive after treatment, and 4 (1.8%) additional patients developed neutralizing antibodies after treatment.
-All of these patients were pre-treated with onabotulinumtoxinA prior to enrollment in the study.
+All of these patients were pre-treated with onabotulinumtoxinA and/or abobotulinumtoxinA prior to enrollment in the study.
 No patients demonstrated a secondary lack of treatment response due to neutralizing antibodies.
 
 Blepharospasm
@@ -198,4 +234,4 @@ No patients demonstrated a secondary lack of treatment response due to neutraliz
 ## 6.3 Postmarketing Experience
 
 The following adverse reactions have been reported during post-approval use of XEOMIN.
-Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure: eye swelling, eyelid edema, dysphagia, nausea, flu-like symptoms, injection site pain, injection site reaction, allergic dermatitis, localized allergic reactions like swelling, edema, erythema, pruritus or rash, herpes zoster, muscular weakness, muscle spasm, dysarthria, myalgia and hypersensitivity.
+Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure: eye swelling, eyelid edema, dysphagia, nausea, flu-like symptoms, injection site pain, injection site reaction, allergic dermatitis, localized allergic reactions like swelling, edema, erythema, pruritus or rash, herpes zoster, muscular weakness, muscle spasm, dysarthria, myalgia, and hypersensitivity.
