@@ -41,9 +41,11 @@ Rx Only
 
 100 Tablets
 
+Lannett
+
 # PRINCIPAL DISPLAY PANEL - 60 mg Container Label
 
-NDC 0527-1699-01
+NDC0527-1699-01
 
 Codeine CII Sulfate Tablets, USP
 
@@ -52,3 +54,5 @@ Codeine CII Sulfate Tablets, USP
 Rx Only
 
 100 Tablets
+
+Lannett

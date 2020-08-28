@@ -49,7 +49,7 @@ The minimum effective analgesic concentration of codeine for any individual pati
 Concentration–Adverse Reaction Relationships
 
 There is a relationship between increasing codeine plasma concentration and increasing frequency of dose-related opioid adverse reactions such as nausea, vomiting, CNS effects, and respiratory depression.
-In opioid-tolerant patients, the situation may be altered by the development of tolerance to opioid-related adverse reactions [see Dosage and Administration (2.1,2.2, 2.3)].
+In opioid-tolerant patients, the situation may be altered by the development of tolerance to opioid-related adverse reactions [see Dosage and Administration (2.1, 2.2, 2.3)].
 
 ## 12.3 Pharmacokinetics
 
