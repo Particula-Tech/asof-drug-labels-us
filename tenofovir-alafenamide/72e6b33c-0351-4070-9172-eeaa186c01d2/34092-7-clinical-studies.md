@@ -11,6 +11,8 @@ Table 10 Trials Conducted with VEMLIDY in Adults with Chronic HBV Infection
 | Trial 108Randomized, double blind, active controlled trial. (NCT01940341) | HBeAg-negative TN and TE adults with compensated liver disease | VEMLIDY (285) TDF (140) | 48 |
 | Trial 110 (NCT01940471) | HBeAg-positive TN and TE adults with compensated liver disease | VEMLIDY (581) TDF(292) | 48 |
 | Trial 4018 (NCT02979613) | HBeAg-negative and HBeAg-positive virologically suppressedHBV DNA <20 IU/mL at screening. adults with compensated liver disease | VEMLIDY (243) TDF (245) | 48 |
+| Trial 4035 (Part A, Cohort 1)Open-label trial. (NCT03180619) | Virologically suppressed adults with moderate to severe renal impairmentEstimated creatinine clearance between 15 and 59 mL per minute by Cockcroft-Gault method. | VEMLIDY (78) | 24 |
+| Trial 4035 (Part A, Cohort 2) (NCT03180619) | Virologically suppressed adults with ESRDEnd stage renal disease (estimated creatinine clearance of below 15 mL per minute by Cockcroft-Gault method). receiving chronic hemodialysis | VEMLIDY (15) | 24 |
 | TE = treatment-experienced, TN = treatment-naive |  |  |  |
 
 ## 14.2 Clinical Trials in Adults with Chronic Hepatitis B Virus Infection and Compensated Liver Disease
@@ -43,7 +45,7 @@ Table 11 Trials 108 and 110: HBV DNA Virologic Outcome at Week 48Missing = failu
 |  | Trial 108 (HBeAg-Negative) |  | Trial 110 (HBeAg-Positive) |  |
 | HBV DNA <29 IU/mL | 94% | 93% | 64% | 67% |
 | Treatment DifferenceAdjusted by baseline plasma HBV DNA categories and oral antiviral treatment status strata. | 1.8% (95% CI = -3.6% to 7.2%) |  | -3.6% (95% CI = -9.8% to 2.6%) |  |
-| HBV DNA ≥ 29 IU/mL | 2% | 3% | 31% | 30% |
+| HBV DNA ≥29 IU/mL | 2% | 3% | 31% | 30% |
 | Baseline HBV DNA |  |  |  |  |
 | <7 log10 IU/mL | 96% (221/230) | 92% (107/116) | N/A | N/A |
 | ≥7 log10 IU/mL | 85% (47/55) | 96% (23/24) |  |  |
@@ -94,7 +96,7 @@ Table 13 Trial 4018: HBV DNA Virologic Outcome at Week 48Week 48 window was betw
 | Treatment Difference | 0.0% (95% CI = -3.7% to 3.7%) |  |
 | No Virologic Data at Week 48 | 3% | 3% |
 | Discontinued Study Drug Due to AE or Death and Last Available HBV DNA <20 IU/mL | 1% | 0 |
-| Discontinued Study Drug Due to Other ReasonsIncludes subjects who discontinued for reasons other than an AE, death, or lack of efficacy, e.g., withdrew consent, loss to follow-up, etc.and Last Available HBV DNA <20 IU/mL | 2% | 3% |
+| Discontinued Study Drug Due to Other ReasonsIncludes subjects who discontinued for reasons other than an AE, death, or lack of efficacy, e.g., withdrew consent, loss to follow-up, etc. and Last Available HBV DNA <20 IU/mL | 2% | 3% |
 
 Table 14 Additional Efficacy Parameters at Week 48Missing = failure analysis (Trial 4018)
 
@@ -108,3 +110,17 @@ Table 14 Additional Efficacy Parameters at Week 48Missing = failure analysis (Tr
 | Serology |  |  |
 | HBeAg Loss / SeroconversionThe population used for serology analysis included only subjects with antigen (HBeAg) positive and anti-body (HBeAb) negative or missing at baseline. | 8% / 3% | 6% / 0 |
 | HBsAg Loss / Seroconversion | 0 / 0 | 2% / 0 |
+
+## 14.4 Clinical Trial in Adults with Chronic Hepatitis B Virus Infection and Renal Impairment
+
+In Trial 4035, Part A, the efficacy and safety of switching from TDF and/or other antivirals to VEMLIDY were evaluated in an open-label clinical trial of virologically suppressed chronic hepatitis B infected adults with moderate to severe renal impairment (estimated creatinine clearance between 15 and 59 mL per minute by Cockcroft-Gault method) (Cohort 1, N=78) or ESRD (estimated creatinine clearance below 15 mL per minute by Cockcroft-Gault method) on hemodialysis (Cohort 2, N=15).
+At baseline, 98% of subjects in Part A had baseline HBV DNA <20 IU/mL.
+Median age was 65 years, 74% were male, 77% were Asian, 16% were White, and 83% were HBeAg-negative.
+Previous treatment with oral antivirals included TDF (Cohort 1, N=57; Cohort 2, N=1), lamivudine (N=46), adefovir dipivoxil (N=46), and entecavir (N=43).
+At baseline, 97% and 95% of subjects had ALT ≤ULN based on central laboratory criteria and 2018 AASLD criteria, respectively; median estimated creatinine clearance by Cockcroft-Gault was 43 mL per minute (45 mL per minute in Cohort 1 and 7 mL per minute in Cohort 2); and 34% of subjects had a history of cirrhosis.
+
+Overall, 98% of subjects achieved HBV DNA <20 IU/mL at Week 24 (Cohort 1, 97%; Cohort 2, 100%).
+Two subjects in Cohort 1 discontinued treatment early (due to subject decision); last available HBV DNA for both of these subjects was <20 IU/mL.
+The overall mean (SD) change from baseline in ALT values was +1 (11.3) U/L (Cohort 1, +1 [11.9] U/L; Cohort 2, +3 [7.9] U/L) at Week 24.
+No patient had HBeAg or HBsAg loss at Week 24.
+The mean (SD) changes in HBsAg level from baseline were -0.05 (0.122) log10 IU/mL (-0.05 [0.124] log10 IU/mL for Cohort 1 and -0.07 [0.115] log10 IU/mL for Cohort 2) at Week 24.

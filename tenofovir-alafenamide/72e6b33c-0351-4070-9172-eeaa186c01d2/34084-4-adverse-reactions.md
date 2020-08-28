@@ -46,7 +46,7 @@ In a pooled analysis of Trials 108 and 110 in adult subjects with chronic hepati
 Median change from baseline to Week 96 in estimated creatinine clearance was -1.2 mL per minute in the VEMLIDY group and -4.8 mL per minute in those receiving TDF.
 
 In subjects who remained on blinded treatment beyond Week 96 in Trials 108 and 110, change from baseline in renal laboratory parameter values in each group at Week 120 were similar to those at Week 96.
-In the open-label phase, median change in eGFR from Week 96 to Week 120 was -0.6 mL per minute in subjects who remained on VEMLIDY and 1.8 mL per minute in those who switched from TDF to VEMLIDY at Week 96.
+In the open-label phase, median change in estimated creatinine clearance by Cockcroft-Gault method from Week 96 to Week 120 was -0.6 mL per minute in subjects who remained on VEMLIDY and +1.8 mL per minute in those who switched from TDF to VEMLIDY at Week 96.
 Mean serum creatinine and median serum phosphorus values at Week 120 were similar to those at Week 96 in subjects who remained on VEMLIDY and in subjects who switched from TDF to VEMLIDY.
 
 The long-term clinical significance of these renal laboratory changes on adverse reaction frequencies between VEMLIDY and TDF is not known.
@@ -118,6 +118,11 @@ Adverse reactions observed with VEMLIDY in Trial 4018 were similar to those in T
 Renal Laboratory Tests, Bone Mineral Density Effects, and Serum Lipids
 
 In virologically suppressed adults in Trial 4018, changes from baseline in renal function, BMD, and lipid parameters in the VEMLIDY and TDF groups at Week 48 were similar to those observed in Trials 108 and 110 at Week 96.
+
+Adverse Reactions in Adult Subjects with Chronic Hepatitis B and Renal Impairment
+
+In an open-label trial (Trial 4035) in virologically suppressed adult subjects with chronic hepatitis B switching to VEMLIDY 25 mg, the safety of VEMLIDY was assessed in 78 subjects with moderate to severe renal impairment (estimated creatinine clearance between 15 and 59 mL per minute by Cockcroft-Gault method; Part A, Cohort 1) and 15 subjects with ESRD (estimated creatinine clearance below 15 mL per minute) receiving chronic hemodialysis (Part A, Cohort 2).
+The safety of VEMLIDY, including changes from baseline in renal function, BMD, and lipid parameters, was similar to that observed in clinical trials of VEMLIDY in subjects with compensated liver disease but without renal impairment [see Use in Specific Populations (8.6) and Clinical Studies (14.4)].
 
 ## 6.2 Postmarketing Experience
 

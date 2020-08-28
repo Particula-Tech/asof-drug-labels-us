@@ -20,7 +20,7 @@ Patients taking tenofovir prodrugs who have impaired renal function and those ta
 
 Prior to or when initiating VEMLIDY, and during treatment with VEMLIDY on a clinically appropriate schedule, assess serum creatinine, estimated creatinine clearance, urine glucose, and urine protein in all patients.
 In patients with chronic kidney disease, also assess serum phosphorus.
-Discontinue VEMLIDY in patients who develop clinically significant decreases in renal function or evidence of Fanconi syndrome.
+Discontinue VEMLIDY in patients who develop clinically significant decreases in renal function or evidence of Fanconi syndrome [see Adverse Reactions (6.1) and Use in Specific Populations (8.6)].
 
 ## 5.4 Lactic Acidosis/Severe Hepatomegaly with Steatosis
 

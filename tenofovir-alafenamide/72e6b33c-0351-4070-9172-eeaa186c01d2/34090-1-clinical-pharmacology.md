@@ -54,19 +54,28 @@ No clinically relevant differences in tenofovir alafenamide or tenofovir pharmac
 Patients with Renal Impairment
 
 In a Phase 1, open-label study, tenofovir alafenamide and tenofovir systemic exposures (AUCinf) were evaluated in subjects with severe renal impairment and in subjects with normal renal function (Table 7).
-In an open-label trial of elvitegravir/cobicistat/emtricitabine/tenofovir alafenamide 150/150/200/10 mg, tenofovir alafenamide and tenofovir AUC was evaluated in a subset of virologically suppressed HIV-1 infected subjects with ESRD receiving chronic hemodialysis (Table 7) [see Use in Specific Populations (8.6)].
+In an open-label trial of elvitegravir/cobicistat/emtricitabine/tenofovir alafenamide 150/150/200/10 mg, tenofovir alafenamide and tenofovir AUC were evaluated in a subset of virologically suppressed HIV-1 infected subjects with ESRD receiving chronic hemodialysis (Table 7).
+In a Phase 2, open-label trial, tenofovir alafenamide and tenofovir AUC were evaluated in a subset of virologically suppressed HBV-infected subjects with ESRD receiving chronic hemodialysis (Table 7) [see Use in Specific Populations (8.6)].
+The pharmacokinetics of tenofovir alafenamide were similar among subjects with normal renal function, subjects with severe renal impairment, and subjects with ESRD receiving chronic hemodialysis.
+Relative to those with normal renal function, increased tenofovir exposures were observed in subjects with severe renal impairment and subjects with ESRD receiving chronic hemodialysis.
+Within the chronic hemodialysis population, increased tenofovir exposures were observed in subjects with HBV relative to those with HIV.
 
 Table 7 Pharmacokinetics of Tenofovir Alafenamide and its Metabolite Tenofovir in Subjects with Renal Impairment as Compared to Subjects with Normal Renal Function
 
-| Estimated Creatinine ClearanceBy Cockcroft-Gault method. | ≥90 mL per minute 25 mg TAF (N=13)PK assessed on a single dose of TAF 25 mg in subjects with severe renal impairment and healthy subjects. | 15–29 mL per minute 25 mg TAF (N=14) | <15 mL per minute 10 mg TAFExposures from TAF 25 mg = exposures from TAF 10 mg as part of elvitegravir/cobicistat/emtricitabine/tenofovir alafenamide. (N=12)PK assessed prior to hemodialysis following 3 consecutive daily doses of elvitegravir/cobicistat/emtricitabine/tenofovir alafenamide in HIV-infected subjects. |
-| --- | --- | --- | --- |
-|  | AUC (mcg∙hour per mL) Mean (CV%) |  |  |
-| Tenofovir alafenamide | 0.27 (49.2)AUCinf. | 0.51 (47.3) | 0.23 (53.2)AUClast. |
-| Tenofovir | 0.34 (27.2) | 2.07 (47.1) | 8.72 (39.4)AUCtau.,N=10. |
+| Estimated Creatinine ClearanceBy Cockcroft-Gault method. Mean (CV%) | ≥90 mL per minute 25 mg TAF (N=13)PK assessed on a single dose of TAF 25 mg in subjects with normal renal function and in subjects with severe renal impairment. | 15–29 mL per minute 25 mg TAF (N=14) | <15 mL per minute 25 mg TAFPK assessed on the day prior to hemodialysis of TAF 25 mg.These subjects from Study 4035 had a median baseline eGFR by Cockcroft-Gault of 7.2 mL/min (range, 4.8 to 12.0). (N=5) | <15 mL per minute 10 mg TAFExposures from TAF 25 mg = exposures from TAF 10 mg as part of elvitegravir/cobicistat/emtricitabine/tenofovir alafenamide. PK assessed on the day prior to hemodialysis following 3 consecutive daily doses of elvitegravir/cobicistat/emtricitabine/tenofovir alafenamide.These subjects from Study 1825 had a median baseline eGFR by Cockcroft-Gault of 10.2 mL/min (range, 6.8 to 19.2). (N=12) |
+| --- | --- | --- | --- | --- |
+| Tenofovir alafenamide |  |  |  |  |
+| AUC (mcg∙hour per mL) | 0.27 (49.2)AUCinf. | 0.51 (47.3) | 0.30 (26.7)AUClast. | 0.23 (53.2) |
+| Cmax (mcg per mL) | 0.20 (62.1) | 0.36 (65.7) | 0.23 (48.4) | 0.25 (75.4) |
+| Tenofovir |  |  |  |  |
+| AUC (mcg∙hour per mL) | 0.34 (27.2) | 2.07 (47.1) | 18.8 (30.4)AUCtau. | 8.72 (39.4),N=10. |
+| Cmax (mcg per mL) | 0.01 (36.5) | 0.03 (32.4) | 0.89 (26.4) | 0.44 (40.9) |
+| C24h (mcg per mL) | 0.004 (25.6) | 0.02 (41.9) | 0.89 (26.4) | 0.26 (73.2) |
+| CV = coefficient of variation |  |  |  |  |
 
 Patients with Hepatic Impairment
 
-Relative to subjects with normal hepatic function, tenofovir alafenamide and tenofovir systemic exposures were 7.5% and 11% lower in subjects with mild hepatic impairment, respectively.
+Tenofovir alafenamide and tenofovir pharmacokinetics are similar in subjects with mild (Child-Pugh Class A) hepatic impairment and in subjects with normal hepatic function.
 
 HIV and/or Hepatitis C Virus Coinfection
 

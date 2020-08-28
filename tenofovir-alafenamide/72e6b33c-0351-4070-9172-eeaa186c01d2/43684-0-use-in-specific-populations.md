@@ -59,20 +59,23 @@ Safety and effectiveness of VEMLIDY in pediatric patients less than 18 years of 
 
 ## 8.5 Geriatric Use
 
-Clinical trials of VEMLIDY did not include sufficient numbers of subjects aged 65 and over to determine whether they respond differently from younger subjects.
-Other reported clinical experience has not identified differences in responses between the elderly and younger patients.
-In general, treatment of an elderly patient should be done with caution; the greater frequency of decreased hepatic, renal, or cardiac function, and of concomitant disease or other drug therapy should be considered.
+In clinical trials, VEMLIDY was administered to 89 subjects aged 65 and over.
+No clinically significant differences in safety or efficacy have been observed between elderly subjects and subjects between 18 and less than 65 years of age.
 
 ## 8.6 Renal Impairment
 
 No dosage adjustment of VEMLIDY is required in patients with mild, moderate, or severe renal impairment, or in patients with ESRD (estimated creatinine clearance below 15 mL per minute) who are receiving chronic hemodialysis.
 On days of hemodialysis, administer VEMLIDY after completion of hemodialysis treatment [see Dosage and Administration (2.3)].
 
-The pharmacokinetics and safety of tenofovir alafenamide were studied in HIV-1 infected adults with ESRD (estimated creatinine clearance below 15 mL per minute by Cockcroft-Gault method) receiving chronic hemodialysis in an open-label trial of 55 subjects who received elvitegravir/cobicistat/emtricitabine/tenofovir alafenamide 150/150/200/10 mg.
-Tenofovir alafenamide 10 mg, given in this combination, achieves similar exposures as tenofovir alafenamide 25 mg alone [see Clinical Pharmacology (12.3)].
-The safety profile of subjects in this trial was consistent with that expected in patients with ESRD on chronic hemodialysis and HIV-1 infection.
+The safety and efficacy of VEMLIDY in HBV-infected adult subjects with moderate to severe renal impairment (estimated creatinine clearance between 15 and 59 mL per minute by Cockcroft-Gault method) and ESRD (estimated creatinine clearance of less than 15 mL per minute by Cockcroft-Gault method) receiving chronic hemodialysis were evaluated in 78 and 15 subjects, respectively, in an open-label trial (Trial 4035, Part A). Overall, 98% of subjects achieved HBV DNA <20 IU/mL at Week 24 (Cohort 1, 97%; Cohort 2, 100%) and the safety of VEMLIDY was similar to that observed in clinical trials of VEMLIDY in subjects with compensated liver disease but without renal impairment [see Adverse Reactions (6.1) and Clinical Studies (14.4)].
 
-VEMLIDY is not recommended in patients with ESRD (estimated creatinine clearance below 15 mL per minute by Cockcroft-Gault method) who are not receiving chronic hemodialysis as the safety of VEMLIDY has not been established in this population [see Dosage and Administration (2.3), and Clinical Pharmacology (12.3)].
+The safety and efficacy of elvitegravir/cobicistat/emtricitabine/tenofovir alafenamide 150/150/200/10 mg was previously evaluated in 55 virologically suppressed HIV-1 infected subjects with ESRD receiving chronic hemodialysis in an open-label study (Trial 1825).
+Tenofovir alafenamide exposures are similar when comparing tenofovir alafenamide 25 mg and tenofovir alafenamide 10 mg as part of elvitegravir/cobicistat/emtricitabine/tenofovir alafenamide.
+
+Among subjects with ESRD receiving chronic hemodialysis and administered tenofovir alafenamide, higher exposures of tenofovir were observed in HBV-infected subjects (Trial 4035 Part A) compared to HIV-infected subjects (Trial 1825).
+The clinical significance of these higher exposures is not established [see Clinical Pharmacology (12.3)].
+
+VEMLIDY is not recommended in patients with ESRD (estimated creatinine clearance below 15 mL per minute by Cockcroft-Gault method) who are not receiving chronic hemodialysis as the safety of VEMLIDY has not been established in this population [see Dosage and Administration (2.3) and Clinical Pharmacology (12.3)].
 
 ## 8.7 Hepatic Impairment
 
