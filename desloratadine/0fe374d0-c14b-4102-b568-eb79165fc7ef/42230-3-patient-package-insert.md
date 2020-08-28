@@ -70,11 +70,11 @@ Desloratadine Tablets may cause serious side effects, including:
 
 - •Allergic reactions.
   Stop taking Desloratadine Tablets and call your doctor right away or get emergency help if you have any of these symptoms:
-  - orash
-  - oitching
-  - ohives
-  - oswelling of your lips, tongue, face, and throat
-  - oshortness of breath or trouble breathing
+- orash
+- oitching
+- ohives
+- oswelling of your lips, tongue, face, and throat
+- oshortness of breath or trouble breathing
 
 The most common side effects of Desloratadine Tablets in adults and children 12 years of age and older with allergic rhinitis include:
 
