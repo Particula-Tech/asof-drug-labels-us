@@ -37,7 +37,7 @@ In rats, maternally toxic doses of diclofenac were associated with dystocia, pro
 Risk Summary
 
 Based on available data, diclofenac may be present in human milk.
-The developmental and health benefits of breastfeeding should be considered along with the mother's clinical need for CATAFLAM and any potential adverse effects on the breastfed infant from the CATAFLAM or from the underlying maternal condition.
+The developmental and health benefits of breastfeeding should be considered along with the mother's clinical need for PENNSAID and any potential adverse effects on the breastfed infant from the PENNSAID or from the underlying maternal condition.
 
 Data
 
@@ -51,7 +51,7 @@ Infertility
 Females
 
 Based on the mechanism of action, the use of prostaglandin-mediated NSAIDs, including PENNSAID, may delay or prevent rupture of ovarian follicles, which has been associated with reversible infertility in some women.
-Published animal studies have shown that administration of prostaglandin synthesis inhibitors has the potential to disrupt prostaglandinmediated follicular rupture required for ovulation.
+Published animal studies have shown that administration of prostaglandin synthesis inhibitors has the potential to disrupt prostaglandin-mediated follicular rupture required for ovulation.
 Small studies in women treated with NSAIDs have also shown a reversible delay in ovulation.
 Consider withdrawal of NSAIDs, including PENNSAID, in women who have difficulties conceiving or who are undergoing investigation of infertility.
 
