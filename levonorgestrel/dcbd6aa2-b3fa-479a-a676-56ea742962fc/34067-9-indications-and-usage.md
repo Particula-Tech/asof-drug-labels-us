@@ -1,6 +1,9 @@
 # 1 INDICATIONS AND USAGE
 
-- •Mirena is indicated for intrauterine contraception for up to 5 years.
-- •Mirena is also indicated for the treatment of heavy menstrual bleeding in women who choose to use intrauterine contraception as their method of contraception.
+## 1.1 Contraception
 
-The system should be replaced after 5 years if continued use is desired.
+Mirena is indicated for prevention of pregnancy for up to 6 years; replace after the end of the sixth year.
+
+## 1.2 Heavy Menstrual Bleeding
+
+Mirena is indicated for the treatment of heavy menstrual bleeding for up to 5 years in women who choose to use intrauterine contraception as their method of contraception; replace after the end of the fifth year if continued treatment of heavy menstrual bleeding is needed.

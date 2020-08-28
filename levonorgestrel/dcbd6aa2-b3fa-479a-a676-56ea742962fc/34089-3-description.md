@@ -25,5 +25,3 @@ The vertical stem of Mirena is loaded in the insertion tube at the tip of the in
 The arms are pre-aligned in the horizontal position.
 The removal threads are contained within the insertion tube and handle.
 Once Mirena has been placed, the inserter is discarded.
-
-Figure 11 Diagram of Inserter

@@ -22,6 +22,13 @@ There are no reports of adverse effects in breastfed infants with maternal use o
 Isolated cases of decreased milk production have been reported with Mirena.
 The developmental and health benefits of breastfeeding should be considered along with the mother’s clinical need for Mirena and any potential adverse effects on the breastfed child from Mirena or from the underlying maternal condition.
 
+### 8.3 Females and Males of Reproductive Potential
+
+#### Return to Fertility After Discontinuing Mirena
+
+In two studies, return to fertility was investigated in a total of 229 women who desired pregnancy after study discontinuation and provided follow-up information.
+The probability to conceive within 12 months after removal of Mirena was approximately 80%.
+
 ## 8.4 Pediatric Use
 
 Safety and efficacy of Mirena have been established in women of reproductive age.

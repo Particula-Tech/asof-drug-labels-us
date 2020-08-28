@@ -71,7 +71,7 @@ PID may be asymptomatic but still result in tubal damage and its sequelae.
 
 Following a diagnosis of PID, or suspected PID, bacteriologic specimens should be obtained and antibiotic therapy should be initiated promptly.
 Removal of Mirena after initiation of antibiotic therapy is usually appropriate.
-Guidelines for PID treatment are available from the Centers for Disease Control (CDC), Atlanta, Georgia.
+Guidelines for PID treatment are available from the Centers for Disease Control (CDC), Atlanta, Georgia.1
 
 #### Actinomycosis
 
@@ -114,6 +114,7 @@ For Mirena users, the incidence of uterine perforation was reported as 6.3 per 1
 Partial or complete expulsion of Mirena may occur resulting in the loss of contraceptive protection.
 Expulsion may be associated with symptoms of bleeding or pain, or it may be asymptomatic and go unnoticed.
 Mirena typically decreases menstrual bleeding over time; therefore, an increase of menstrual bleeding may be indicative of an expulsion.
+Consider further diagnostic imaging, such as x-ray, if expulsion is suspected based on ultrasound [see Warnings and Precautions (5.10)].
 The risk of expulsion may be increased when the uterus is not completely involuted.
 In clinical trials, a 4.5% expulsion rate was reported over the 5-year study duration.
 

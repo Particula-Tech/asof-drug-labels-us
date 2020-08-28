@@ -19,10 +19,10 @@ In a 1-year study, approximately 45% of menstrual cycles were ovulatory, and in 
 
 Low doses of LNG are administered into the uterine cavity with the Mirena intrauterine delivery system.
 The initial release rate is approximately 20 mcg/day over the first 3 months tested (day 0 to day 90).
-It is reduced to approximately 18 mcg/day after 1 year and then decreases progressively to approximately 10 mcg/day after 5 years.
+It is reduced to approximately 18 mcg/day after 1 year, 10 mcg/day after 5 years, and 9 mcg/day after 6 years.
 
 A stable serum concentration, without peaks and troughs, of LNG of 150–200 pg/mL occurs after the first few weeks following insertion of Mirena.
-LNG concentrations after long-term use of 12, 24, and 60 months were 180±66 pg/mL, 192±140 pg/mL, and 159±59 pg/mL, respectively.
+LNG concentrations after long-term use of 12, 24, 60 and 72 months were 180±66 pg/mL, 192±140 pg/mL, 159±59 pg/mL, and 121±49 pg/mL respectively.
 
 ### Distribution
 

@@ -15,8 +15,8 @@ The following serious or otherwise important adverse reactions are discussed in 
 
 Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical studies of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in practice.
 
-The data provided reflect the experience with the use of Mirena in the adequate and well-controlled studies as well as in the supportive and uncontrolled studies for contraception and heavy menstrual bleeding (n=5,091).
-The data cover more than 12,101 women-years of exposure, mainly in the contraception studies (11,761 women-years).
+The data provided in Table 2 reflect the experience with the use of Mirena in the adequate and well-controlled studies as well as in the supportive and uncontrolled studies for contraception and heavy menstrual bleeding (n=5,091).
+The data cover more than 12,101 women-years of exposure up to 5 years of use, mainly in the contraception studies (11,761 women-years).
 The frequencies of reported adverse drug reactions represent crude incidences.
 
 The most common adverse reactions (≥10% users) are alterations of menstrual bleeding patterns [including unscheduled uterine bleeding (31.9%), decreased uterine bleeding (23.4%), increased scheduled uterine bleeding (11.9%), and female genital tract bleeding (3.5%)], abdominal/pelvic pain (22.6%), amenorrhea (18.4%), headache/migraine (16.3%), genital discharge (14.9%), and vulvovaginitis (10.5%).
@@ -40,6 +40,9 @@ Table 2: Adverse Reactions ≥ 5% Reported in Clinical Trials with Mirena
 | Psychiatric disorders | depression/depressive mood | 6.4 |
 
 Other adverse reactions occurring in <5% of subjects include alopecia, (partial and complete) device expulsion, hirsutism, nausea, and PID/endometritis.
+
+A separate study with 362 women who have used Mirena for more than 5 years showed a consistent adverse reaction profile in Year 6.
+By the end of Year 6 of use, amenorrhea and infrequent bleeding are experienced by 24% and 31% of users, respectively; irregular bleeding occurs in 15%, and prolonged bleeding in 2% of users.
 
 ## 6.2 Postmarketing Experience
 
