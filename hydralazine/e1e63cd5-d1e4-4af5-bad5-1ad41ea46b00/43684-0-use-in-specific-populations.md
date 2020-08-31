@@ -11,7 +11,7 @@ Hydralazine hydrochloride is teratogenic in mice at 66 mg/kg and possibly in rab
 
 Isosorbide dinitrate has been shown to cause a dose-related increase in embryo-toxicity (excess mummified pups) in rabbits at 70 mg/kg (12 times the MRHD of BiDil on a body surface area basis).
 
-All pregnancies have a background risk of birth defect, loss or other adverse outcomes.
+All pregnancies have a background risk of birth defect, loss, or other adverse outcomes.
 In the U.S. general population, the estimated background risk of major birth defects and miscarriage in clinically recognized pregnancies is 2-4% and 15-20%, respectively.
 
 Clinical Considerations

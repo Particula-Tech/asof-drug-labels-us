@@ -9,7 +9,7 @@ It is freely soluble in organic solvents such as alcohol, chloroform and ether, 
 
 Hydralazine hydrochloride is described chemically as 1-hydrazinophthalazine monohydrochloride, and its structural formula is:
 
-Hydralazine hydrochloride is a white to off-white, crystalline powder with the empirical formula C8H8N4•HCl and a molecular weight of 196.64.
+Hydralazine hydrochloride is a white to off-white, crystalline powder with the empirical formula C8H8N4∙HCl and a molecular weight of 196.64.
 It is soluble in water, slightly soluble in alcohol, and very slightly soluble in ether.
 
 Each BiDil Tablet for oral administration contains 20 mg of isosorbide dinitrate and 37.5 mg of hydralazine hydrochloride.
