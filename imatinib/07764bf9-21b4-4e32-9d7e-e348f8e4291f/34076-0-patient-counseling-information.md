@@ -15,7 +15,7 @@ Advise patients to contact their health care provider if unexpected rapid weight
 Hepatotoxicity
 
 Inform patients of the possibility of developing liver function abnormalities and serious hepatic toxicity.
-Advise patients to immediately contact their health care provider if signs of liver failure occur, including jaundice, anorexia, bleeding or bruising [see Warnings and Precautions (5.4)].
+Advise patients to immediately contact their health care provider if signs of liver failure occur, including jaundice, anorexia, bleeding, or bruising [see Warnings and Precautions (5.4)].
 
 Pregnancy and Breastfeeding
 
@@ -26,7 +26,7 @@ Avoid breastfeeding during treatment and for 1 month after the last dose [see Us
 
 Drug Interactions
 
-Imatinib mesylate tablets and certain other medicines such as warfarin, erythromycin, and phenytoin, including over-the-counter medications such as herbal products, can interact with each other.
+Imatinib mesylate tablets and certain other medicines, such as warfarin, erythromycin, and phenytoin, including over-the-counter medications, such as herbal products, can interact with each other.
 Advise patients to tell their doctor if they are taking or plan to take iron supplements.
 Avoid grapefruit juice and other foods known to inhibit CYP3A4 while taking imatinib mesylate tablets [see Drug Interactions (7)].
 
@@ -38,7 +38,7 @@ Therefore, closely monitor growth in children under imatinib mesylate tablets tr
 
 Driving and Using Machines
 
-Advise patients that they may experience side effects such as dizziness, blurred vision or somnolence during treatment with imatinib mesylate tablets.
+Advise patients that they may experience side effects, such as dizziness, blurred vision, or somnolence during treatment with imatinib mesylate tablets.
 Therefore, caution patients about driving a car or operating machinery [see Warnings and Precautions (5.13)].
 
 Manufactured by:
@@ -53,7 +53,7 @@ Distributed by:
 
 Sun Pharmaceutical Industries, Inc.
 
-Cranbury, NJ 08512
+Cranbury, NJ 08512 PJPI0610B
 
 ISS.
-04/2020
+08/2020

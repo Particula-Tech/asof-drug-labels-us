@@ -37,14 +37,12 @@ Imatinib mesylate tablets treatment can be given as a once daily dose.
 ## 2.6 Adult Patients with MDS/MPD
 
 Determine PDGFRb gene rearrangements status prior to initiating treatment.
-Information on FDA-approved tests for the detection of PDGFRb rearrangements is available at http://www.fda.gov/companiondiagnostics.
 
 The recommended dose of imatinib mesylate tablets is 400 mg/day for adult patients with MDS/MPD.
 
 ## 2.7 Adult Patients with ASM
 
 Determine D816V c-Kit mutation status prior to initiating treatment.
-Information on FDA-approved test for the detection of D816V c-Kit mutation is available at http://www.fda.gov/companiondiagnostics.
 
 The recommended dose of imatinib mesylate tablets is 400 mg/day for adult patients with ASM without the D816V c-Kit mutation.
 If c-Kit mutational status is not known or unavailable, treatment with imatinib mesylate tablets 400 mg/day may be considered for patients with ASM not responding satisfactorily to other therapies.

@@ -30,7 +30,7 @@ Five animals developed a red vaginal discharge in the 45 mg/kg/day group on Days
 Other maternal effects noted only at the dose of 45 mg/kg/day (approximately one-half the maximum human dose of 800 mg/day based on body surface area) included an increased numbers of stillborn pups and pups dying between postpartum Days 0 and 4.
 In the F1 offspring at this same dose level, mean body weights were reduced from birth until terminal sacrifice and the number of litters achieving criterion for preputial separation was slightly decreased.
 There were no other significant effects in developmental parameters or behavioral testing.
-F1 fertility was not affected but reproductive effects were noted at 45 mg/kg/day including an increased number of resorptions and a decreased number of viable fetuses.
+F1 fertility was not affected but reproductive effects were noted at 45 mg/kg/day, including an increased number of resorptions and a decreased number of viable fetuses.
 The NOEL for both maternal animals and the F1 generation was 15 mg/kg/day.
 
 ## 8.2 Lactation
@@ -78,7 +78,6 @@ The efficacy of imatinib mesylate was similar in older and younger patients.
 ## 8.6 Hepatic Impairment
 
 The effect of hepatic impairment on the pharmacokinetics of both imatinib and its major metabolite, CGP74588, was assessed in 84 patients with cancer with varying degrees of hepatic impairment at imatinib doses ranging from 100 mg to 800 mg.
-
 Mild and moderate hepatic impairment do not influence exposure to imatinib and CGP74588.
 In patients with severe hepatic impairment, the imatinib Cmax and area under curve (AUC) increased by 63% and 45% and the CGP74588 Cmax and AUC increased by 56% and 55%, relative to patients with normal hepatic function [seeClinical Pharmacology (12.3)].
 Reduce the dose by 25% for patients with severe hepatic impairment [see Dosage and Administration (2.12)].
@@ -90,7 +89,7 @@ Table 16: Liver Function Classification
 | Total Bilirubin | less than or equal to ULN | greater than 1 to 1.5 times the ULN | greater than 1.5 to 3 times the ULN | greater than 3 to 10 times the ULN |
 | SGOT | less than or equal to ULN | greater than ULN (can be normal if Total Bilirubin is greater than ULN) | Any | Any |
 
-ULN=upper limit of normal for the institution
+Abbreviation: ULN, upper limit of normal for the institution.
 
 ## 8.7 Renal Impairment
 
@@ -106,4 +105,4 @@ Table 17: Renal Function Classification
 | Mild | CrCL = 40 to 59 mL/min |
 | Moderate | CrCL = 20 to 39 mL/min |
 | Severe | CrCL = less than 20 mL/min |
-| CrCL = Creatinine Clearance |  |
+| Abbreviation: CrCL, Creatinine Clearance. |  |

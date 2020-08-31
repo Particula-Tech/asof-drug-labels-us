@@ -16,7 +16,7 @@ Effusions (including pleural effusion, pericardial effusion, ascites) or pulmona
 Treatment with imatinib mesylate is associated with anemia, neutropenia, and thrombocytopenia.
 Perform complete blood counts weekly for the first month, biweekly for the second month, and periodically thereafter as clinically indicated (for example, every 2 to 3 months).
 In CML, the occurrence of these cytopenias is dependent on the stage of disease and is more frequent in patients with accelerated phase CML or blast crisis than in patients with chronic phase CML.
-In pediatric CML patients the most frequent toxicities observed were Grade 3 or 4 cytopenias including neutropenia, thrombocytopenia and anemia.
+In pediatric CML patients the most frequent toxicities observed were Grade 3 or 4 cytopenias, including neutropenia, thrombocytopenia and anemia.
 These generally occur within the first several months of therapy [see Dosage and Administration (2.14)].
 
 ## 5.3 Congestive Heart Failure and Left Ventricular Dysfunction
@@ -88,7 +88,7 @@ Therefore, monitor growth in children under imatinib mesylate treatment [see Adv
 
 ## 5.12 Tumor Lysis Syndrome
 
-Cases of Tumor Lysis Syndrome (TLS), including fatal cases, have been reported in patients with CML, ALL and eosinophilic leukemia receiving imatinib mesylate.
+Cases of Tumor Lysis Syndrome (TLS), including fatal cases, have been reported in patients with CML, ALL, and eosinophilic leukemia receiving imatinib mesylate.
 The patients at risk of TLS are those with tumors having a high proliferative rate or high tumor burden prior to treatment.
 Monitor these patients closely and take appropriate precautions.
 Due to possible occurrence of TLS, correct clinically significant dehydration and treat high uric acid levels prior to initiation of imatinib mesylate.
@@ -96,11 +96,11 @@ Due to possible occurrence of TLS, correct clinically significant dehydration an
 ## 5.13 Impairments Related to Driving and Using Machinery
 
 Motor vehicle accidents have been reported in patients receiving imatinib mesylate.
-Advise patients that they may experience side effects such as dizziness, blurred vision or somnolence during treatment with imatinib mesylate.
+Advise patients that they may experience side effects, such as dizziness, blurred vision, or somnolence during treatment with imatinib mesylate.
 Recommend caution when driving a car or operating machinery.
 
 ## 5.14 Renal Toxicity
 
 A decline in renal function may occur in patients receiving imatinib mesylate.
 Median estimated glomerular filtration rate (eGFR) values in patients on imatinib mesylate 400 mg daily for newly-diagnosed CML (four randomized trials) declined from a baseline value of 85 ml/min/1.73m2 (N=1190) to 75 ml/min/1.73m2 at 12 months (N=1082) and 69 ml/min/1.73m2 at 60 months (N=549).
-Evaluate renal function prior to initiating imatinib mesylate and monitor during therapy, with attention to risk factors for renal dysfunction such as pre-existing renal impairment, diabetes mellitus, hypertension, and congestive heart failure.
+Evaluate renal function prior to initiating imatinib mesylate and monitor during therapy, with attention to risk factors for renal dysfunction, such as pre-existing renal impairment, diabetes mellitus, hypertension, and congestive heart failure.

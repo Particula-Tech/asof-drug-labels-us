@@ -2,16 +2,13 @@
 
 ## 14.1 Chronic Myeloid Leukemia
 
-Chronic Phase, Newly Diagnosed:
-
-An open-label, multicenter, international randomized Phase 3 study (imatinib mesylate versus IFN+Ara-C) has been conducted in patients with newly diagnosed Philadelphia chromosome positive (Ph+) chronic myeloid leukemia (CML) in chronic phase.
+Chronic Phase, Newly Diagnosed: An open-label, multicenter, international randomized Phase 3 study (imatinib mesylate versus IFN+Ara-C) has been conducted in patients with newly diagnosed Philadelphia chromosome positive (Ph+) chronic myeloid leukemia (CML) in chronic phase.
 This study compared treatment with either single-agent imatinib mesylate or a combination of interferon-alpha (IFN) plus cytarabine (Ara-C).
 Patients were allowed to cross over to the alternative treatment arm if they failed to show a complete hematologic response (CHR) at 6 months, a major cytogenetic response (MCyR) at 12 months, or if they lost a CHR or MCyR.
 Patients with increasing WBC or severe intolerance to treatment were also allowed to cross over to the alternative treatment arm with the permission of the study monitoring committee (SMC).
 In the imatinib mesylate arm, patients were treated initially with 400 mg daily.
 Dose escalations were allowed from 400 mg daily to 600 mg daily, then from 600 mg daily to 800 mg daily.
 In the IFN arm, patients were treated with a target dose of IFN of 5 MIU/m2/day subcutaneously in combination with subcutaneous Ara-C 20 mg/m2/day for 10 days/month.
-
 A total of 1,106 patients were randomized from 177 centers in 16 countries, 553 to each arm.
 Baseline characteristics were well balanced between the two arms.
 Median age was 51 years (range 18 to 70 years), with 21.9% of patients greater than or equal to 60 years of age.
@@ -23,7 +20,6 @@ In these patients, the average dose of imatinib mesylate was 403 mg ± 57 mg.
 Overall, in patients receiving first line imatinib mesylate, the average daily dose delivered was 406 mg ± 76 mg.
 Due to discontinuations and cross-overs, only 2% of patients randomized to IFN were still on first-line treatment.
 In the IFN arm, withdrawal of consent (14%) was the most frequent reason for discontinuation of first-line therapy, and the most frequent reason for cross over to the imatinib mesylate arm was severe intolerance to treatment (26%) and progression (14%).
-
 The primary efficacy endpoint of the study was progression-free survival (PFS).
 Progression was defined as any of the following events: progression to accelerated phase or blast crisis (AP/BC), death, loss of CHR or MCyR, or in patients not achieving a CHR an increasing WBC despite appropriate therapeutic management.
 The protocol specified that the progression analysis would compare the intent to treat (ITT) population: patients randomized to receive imatinib mesylate were compared with patients randomized to receive IFN.
@@ -36,9 +32,7 @@ The annual rates of any progression events have decreased with time on therapy.
 The probability of remaining progression free at 60 months was 95% for patients who were in complete cytogenetic response (CCyR) with molecular response (greater than or equal to 3 log reduction in BCR-ABL transcripts as measured by quantitative reverse transcriptase polymerase chain reaction) at 12 months, compared to 89% for patients in complete cytogenetic response but without a major molecular response and 70% in patients who were not in complete cytogenetic response at this time point (p less than 0.001).
 Figure 1: Progression Free Survival (ITT Principle)
 
-Figure 2: Time to Progression to AP or BC (ITT Principle)
-
-A total of 71 (12.8%) and 85 (15.4%) patients died in the imatinib mesylate and IFN+Ara-C group, respectively.
+Figure 2: Time to Progression to AP or BC (ITT Principle) A total of 71 (12.8%) and 85 (15.4%) patients died in the imatinib mesylate and IFN+Ara-C group, respectively.
 At 84 months the estimated overall survival is 86.4% (83, 90) vs. 83.3% (80, 87) in the randomized imatinib mesylate and the IFN+Ara-C group, respectively (p=0.073 log-rank test).
 The hazard ratio is 0.75 with 95% CI 0.547 to 1.028.
 This time-to-event endpoint may be affected by the high crossover rate from IFN+Ara-C to imatinib mesylate.
@@ -65,27 +59,21 @@ Table 18: Response in Newly Diagnosed CML Study (84-Month Data)
 Molecular response was defined as follows: in the peripheral blood, after 12 months of therapy, reduction of greater than or equal to 3 logarithms in the amount of BCR-ABL transcripts (measured by real-time quantitative reverse transcriptase PCR assay) over a standardized baseline.
 Molecular response was only evaluated in a subset of patients who had a complete cytogenetic response by 12 months or later (N=333).
 The molecular response rate in patients who had a complete cytogenetic response in the imatinib mesylate arm was 59% at 12 months and 72% at 24 months.
-
 Physical, functional, and treatment-specific biologic response modifier scales from the FACT-BRM (Functional Assessment of Cancer Therapy - Biologic Response Modifier) instrument were used to assess patient-reported general effects of interferon toxicity in 1,067 patients with CML in chronic phase.
 After one month of therapy to 6months of therapy, there was a 13% to 21% decrease in median index from baseline in patients treated with IFN, consistent with increased symptoms of IFN toxicity.
 There was no apparent change from baseline in median index for patients treated with imatinib mesylate.
-
 An open-label, multicenter, randomized trial (imatinib mesylate versus nilotinib) was conducted to determine the efficacy of imatinib mesylate versus nilotinib in adult patients with cytogenetically confirmed, newly diagnosed Ph+ CML-CP.
 Patients were within 6 months of diagnosis and were previously untreated for CML-CP, except for hydroxyurea and/or anagrelide.
 Efficacy was based on a total of 846 patients: 283 patients in the imatinib mesylate 400 mg once daily group, 282 patients in the nilotinib 300 mg twice daily group, 281 patients in the nilotinib 400 mg twice daily group.
-
 Median age was 46 years in the imatinib mesylate group and 47 years in both nilotinib groups, with 12%, 13%, and 10% of patients greater than or equal to 65 years of age in imatinib mesylate 400 mg once-daily, nilotinib 300 mg twice daily and nilotinib 400 mg twice daily treatment groups, respectively.
 There were slightly more male than female patients in all groups (56%, 56%, and 62% in imatinib mesylate 400 mg once-daily, nilotinib 300 mg twice-daily and nilotinib 400 mg twice-daily treatment groups, respectively).
 More than 60% of all patients were Caucasian, and 25% were Asian.
-
 The primary data analysis was performed when all 846 patients completed 12 months of treatment or discontinued earlier.
 Subsequent analyses were done when patients completed 24, 36, 48 and 60 months of treatment or discontinued earlier.
 The median time on treatment was approximately 61 months in all three treatment groups.
-
 The primary efficacy endpoint was major molecular response (MMR) at 12 months after the start of study medication.
 MMR was defined as less than or equal to 0.1% BCR-ABL/ABL % by international scale measured by RQ-PCR, which corresponds to a greater than or equal to 3 log reduction of BCR-ABL transcript from standardized baseline.
 Efficacy endpoints are summarized in Table 19.
-
 Twelve patients in the imatinib mesylate arm progressed to either accelerated phase or blast crises (7 patients within first 6 months, 2 patients within 6 to 12 months, 2 patients within 12 to 18 months and 1 patient within 18 to 24 months) while two patients on the nilotinib arm progressed to either accelerated phase or blast crisis (both within the first 6 months of treatment).
 
 Table 19: Efficacy (MMR and CCyR) of Imatinib Mesylate Compared to Nilotinib in Newly Diagnosed Ph+ CML-CP
@@ -102,11 +90,9 @@ Table 19: Efficacy (MMR and CCyR) of Imatinib Mesylate Compared to Nilotinib in 
 By the 60 months, MMR was achieved by 60% of patients on imatinib mesylate and 77% of patients on nilotinib.
 Median overall survival was not reached in either arm.
 At the time of the 60-month final analysis, the estimated survival rate was 91.7% for patients on imatinib mesylate and 93.7% for patients on nilotinib.
-
 Late Chronic Phase CML and Advanced Stage CML: Three international, open-label, single-arm Phase 2 studies were conducted to determine the safety and efficacy of imatinib mesylate in patients with Ph+ CML: 1) in the chronic phase after failure of IFN therapy, 2) in accelerated phase disease, or 3) in myeloid blast crisis.
 About 45% of patients were women and 6% were black.
 In clinical studies, 38% to 40% of patients were greater than or equal to 60 years of age and 10% to 12% of patients were greater than or equal to 70 years of age.
-
 Chronic Phase, Prior Interferon-Alpha Treatment: 532 patients were treated at a starting dose of 400 mg; dose escalation to 600 mg was allowed.
 The patients were distributed in three main categories according to their response to prior interferon: failure to achieve (within 6 months), or loss of a complete hematologic response (29%), failure to achieve (within 1 year) or loss of a major cytogenetic response (35%), or intolerance to interferon (36%).
 Patients had received a median of 14 months of prior IFN therapy at doses greater than or equal to 25 x 106 IU/week and were all in late chronic phase, with a median time from diagnosis of 32 months.
@@ -115,41 +101,46 @@ Median duration of treatment was 29 months with 81% of patients treated for grea
 Efficacy results are reported in Table 20.
 Confirmed major cytogenetic response rates were higher in patients with IFN intolerance (66%) and cytogenetic failure (64%), than in patients with hematologic failure (47%).
 Hematologic response was achieved in 98% of patients with cytogenetic failure, 94% of patients with hematologic failure, and 92% of IFN-intolerant patients.
-
 Accelerated Phase: 235 patients with accelerated phase disease were enrolled.
 These patients met one or more of the following criteria: greater than or equal to 15% to less than 30% blasts in PB or BM; greater than or equal to 30% blasts + promyelocytes in PB or BM; greater than or equal to 20% basophils in PB; and less than 100 x 109/L platelets.
 The first 77 patients were started at 400 mg, with the remaining 158 patients starting at 600 mg.
-
 Effectiveness was evaluated primarily on the basis of the rate of hematologic response, reported as either complete hematologic response, no evidence of leukemia (i.e., clearance of blasts from the marrow and the blood, but without a full peripheral blood recovery as for complete responses), or return to chronic phase CML.
 Cytogenetic responses were also evaluated.
 Median duration of treatment was 18 months with 45% of patients treated for greater than or equal to 24 months (maximum=35 months).
 Efficacy results are reported in Table 20.
 Response rates in accelerated phase CML were higher for the 600 mg dose group than for the 400 mg group: hematologic response (75% vs. 64%), confirmed and unconfirmed major cytogenetic response (31% vs. 19%).
-
 Myeloid Blast Crisis: 260 patients with myeloid blast crisis were enrolled.
 These patients had greater than or equal to 30% blasts in PB or BM and/or extramedullary involvement other than spleen or liver; 95 (37%) had received prior chemotherapy for treatment of either accelerated phase or blast crisis (“pretreated patients”) whereas 165 (63%) had not (“untreated patients”).
 The first 37 patients were started at 400 mg; the remaining 223 patients were started at 600 mg.
-
 Effectiveness was evaluated primarily on the basis of rate of hematologic response, reported as either complete hematologic response, no evidence of leukemia, or return to chronic phase CML using the same criteria as for the study in accelerated phase.
 Cytogenetic responses were also assessed.
 Median duration of treatment was 4 months with 21% of patients treated for greater than or equal to 12 months and 10% for greater than or equal to 24 months (maximum=35 months).
 Efficacy results are reported in Table 20.
 The hematologic response rate was higher in untreated patients than in treated patients (36% vs. 22%, respectively) and in the group receiving an initial dose of 600 mg rather than 400 mg (33% vs. 16%).
 The confirmed and unconfirmed major cytogenetic response rate was also higher for the 600 mg dose group than for the 400 mg dose group (17% vs. 8%).
-
 Table 20: Response in CML Studies
 
-|  | Chronic Phase IFN Failure (n=532) 400 mg | Accelerated Phase (n=235) 600 mg n=158 400 mg n=77 | Myeloid Blast Crisis (n=260) 600 mg n=223 400 mg n=37 |
-| --- | --- | --- | --- |
-|  | % of patients [CI 95%] |  |  |
-| Hematologic Response Hematologic response criteria (all responses to be confirmed after greater than or equal to 4 weeks): CHR: Chronic phase study [WBC less than 10 x 109/L, platelet less than 450 x 109/L, myelocytes + metamyelocytes less than 5% in blood, no blasts and promyelocytes in blood, basophils less than 20%, no extramedullary involvement] and in the accelerated and blast crisis studies [ANC greater than or equal to 1.5 x 109/L, platelets greater than or equal to 100 x 109/L, no blood blasts, BM blasts less than 5% and no extramedullary disease]; NEL: Same criteria as for CHR but ANC greater than or equal to 1 x 109/L and platelets greater than or equal to 20 x 109/L (accelerated and blast crisis studies); RTC: less than 15% blasts BM and PB, less than 30% blasts + promyelocytes in BM and PB, less than 20% basophils in PB, no extramedullary disease other than spleen and liver (accelerated and blast crisis studies); BM=bone marrow, PB=peripheral blood. | 95% [92.3 to 96.3] | 71% [64.8 to 76.8] | 31% [25.2 to 36.8] |
-| Complete Hematologic Response (CHR) | 95% | 38% | 7% |
-| No Evidence of Leukemia (NEL) | Not applicable | 13% | 5% |
-| Return to Chronic Phase (RTC) | Not applicable | 20% | 18% |
-| Major Cytogenetic ResponseCytogenetic response criteria (confirmed after greater than or equal to 4 weeks): complete (0% Ph+ metaphases) or partial (1% to 35%). A major response (0% to 35%) combines both complete and partial responses. | 60% [55.3 to 63.8] | 21%[16.2 to 27.1] | 7% [4.5 to 11.2] |
-| (Unconfirmed)Unconfirmed cytogenetic response is based on a single bone marrow cytogenetic evaluation, therefore unconfirmed complete or partial cytogenetic responses might have had a lesser cytogenetic response on a subsequent bone marrow evaluation. | (65%) | (27%) | (15%) |
-| CompleteComplete cytogenetic response confirmed by a second bone marrow cytogenetic evaluation performed at least 1 month after the initial bone marrow study. (Unconfirmed) | 39% (47%) | 16% (20%) | 2% (7%) |
+|  | Chronic Phase IFN Failure (n=532) 400 mg | Accelerated Phase (n=235) 600 mg n=158 400 mg n=77 |  | Myeloid Blast Crisis (n=260) 600 mg n=223 400 mg n=37 |  |
+| --- | --- | --- | --- | --- | --- |
+|  | % of patients [CI 95%] |  |  |  |  |
+| Hematologic Response1 | 95% [92.3 to 96.3] |  | 71% [64.8 to 76.8] |  | 31% [25.2 to 36.8] |
+| Complete Hematologic Response (CHR) | 95% |  | 38% |  | 7% |
+| No Evidence of Leukemia (NEL) | Not applicable |  | 13% |  | 5% |
+| Return to Chronic Phase (RTC) | Not applicable |  | 20% |  | 18% |
+| Major Cytogenetic Response 2 | 60% [55.3 to 63.8] |  | 21%[16.2 to 27.1] |  | 7% [4.5 to 11.2] |
+| (Unconfirmed3) | (65%) |  | (27%) |  | (15%) |
+| Complete4 (Unconfirmed3) | 39% (47%) |  | 16% (20%) |  | 2% (7%) |
 
+Abbreviations: BM, bone marrow; PB, peripheral blood.
+1 Hematologic response criteria (all responses to be confirmed after greater than or equal to 4 weeks): CHR: Chronic phase study [WBC less than 10 x 109/L, platelet less than 450 x 109/L, myelocytes + metamyelocytes less than 5% in blood, no blasts and promyelocytes in blood, basophils less than 20%, no extramedullary involvement] and in the accelerated and blast crisis studies [ANC greater than or equal to 1.5 x 109/L, platelets greater than or equal to 100 x 109/L, no blood blasts, BM blasts less than 5% and no extramedullary disease].
+NEL: Same criteria as for CHR but ANC greater than or equal to 1 x 109/L and platelets greater than or equal to 20 x 109/L (accelerated and blast crisis studies).
+RTC: less than 15% blasts BM and PB, less than 30% blasts + promyelocytes in BM and PB, less than 20% basophils in PB, no extramedullary disease other than spleen and liver (accelerated and blast crisis studies).
+
+2 Cytogenetic response criteria (confirmed after greater than or equal to 4 weeks): complete (0% Ph+ metaphases) or partial (1% to 35%).
+A major response (0% to 35%) combines both complete and partial responses.
+
+3 Unconfirmed cytogenetic response is based on a single bone marrow cytogenetic evaluation, therefore unconfirmed complete or partial cytogenetic responses might have had a lesser cytogenetic response on a subsequent bone marrow evaluation.
+4 Complete cytogenetic response confirmed by a second bone marrow cytogenetic evaluation performed at least 1 month after the initial bone marrow study.
 The median time to hematologic response was 1 month.
 In late chronic phase CML, with a median time from diagnosis of 32 months, an estimated 87.8% of patients who achieved MCyR maintained their response 2 years after achieving their initial response.
 After 2 years of treatment, an estimated 85.4% of patients were free of progression to AP or BC, and estimated overall survival was 90.8% [88.3, 93.2].
@@ -160,7 +151,6 @@ An estimated 46.2% [34.7, 57.7] vs. 65.8% [58.4, 73.3] of patients were still al
 In blast crisis, the estimated median duration of hematologic response is 10 months.
 An estimated 27.2% [16.8, 37.7] of hematologic responders maintained their response 2 years after achieving their initial response.
 Median survival was 6.9 [5.8, 8.6] months, and an estimated 18.3% [13.4, 23.3] of all patients with blast crisis were alive 2 years after start of study.
-
 Efficacy results were similar in men and women and in patients younger and older than age 65.
 Responses were seen in black patients, but there were too few black patients to allow a quantitative comparison.
 
@@ -172,10 +162,10 @@ Complete hematologic response (CHR) was observed in 78% of patients after 8 week
 The complete cytogenetic response rate (CCyR) was 65%, comparable to the results observed in adults.
 Additionally, partial cytogenetic response (PCyR) was observed in 16%.
 The majority of patients who achieved a CCyR developed the CCyR between months 3 and 10 with a median time to response based on the Kaplan-Meier estimate of 6.74 months.
-Patients were allowed to be removed from protocol therapy to undergo alternative therapy including hematopoietic stem cell transplantation.
+Patients were allowed to be removed from protocol therapy to undergo alternative therapy, including hematopoietic stem cell transplantation.
 Thirty one children received stem cell transplantation.
 Of the 31 children, 5 were transplanted after disease progression on study and 1 withdrew from study during first week treatment and received transplant approximately 4 months after withdrawal.
-Twenty five children withdrew from protocol therapy to undergo stem cell transplant after receiving a median of 9 twenty-eight day courses (range 4 to 24).
+Twenty five children withdrew from protocol therapy to undergo stem cell transplant after receiving a median of 9 twenty-eight day courses (range, 4 to 24).
 Of the 25 patients 13 (52%) had CCyR and 5 (20%) had PCyR at the end of protocol therapy.
 
 One open-label, single-arm study enrolled 14 pediatric patients with Ph+ chronic phase CML recurrent after stem cell transplant or resistant to interferon-alpha therapy.
