@@ -111,6 +111,8 @@ This Medication Guide has been approved by the U.S. Food and Drug Administration
 
 Trademarks are the property of their respective owners.
 
+Dispense with Medication Guide is also available at: http://www.granulesindia.com/U.S.ProductCatalog.php
+
 Manufactured by:
 
 Granules Pharmaceuticals Inc.
@@ -118,6 +120,6 @@ Granules Pharmaceuticals Inc.
 Chantilly, VA 20151
 
 Rev.
-06/2020
+08/2020
 
 ◢
