@@ -1,0 +1,20 @@
+{
+  "application_numbers": [
+    "ANDA091168"
+  ],
+  "inn": "emtricitabine",
+  "labeler": "Cipla USA Inc.",
+  "package_ndcs": [
+    "69097-642-02",
+    "69097-642-15"
+  ],
+  "products": [
+    {
+      "form": "CAPSULE",
+      "generic": "emtricitabine",
+      "name": "emtricitabine"
+    }
+  ],
+  "setid": "a229c922-58eb-4795-9219-6cebb1779e35",
+  "source": "dailymed"
+}
