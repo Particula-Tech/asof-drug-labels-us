@@ -1,4 +1,4 @@
-# Package/Label Display Panel, Part 1 of 2
+# Package/Label Display Panel
 
 NDC 59310-579-22
 
@@ -10,17 +10,9 @@ Inhalation Aerosol
 
 90 mcg per actuation
 
-With Dose
+With Dose Counter
 
-Counter
-
-For Oral
-
-Inhalation with
-
-ProAir® HFA
-
-Actuator Only
+For Oral Inhalation with ProAir® HFA Actuator Only
 
 Rx only
 
@@ -29,5 +21,3 @@ Rx only
 8.5 g Net Contents
 
 TEVA
-
-# Package/Label Display Panel, Part 2 of 2

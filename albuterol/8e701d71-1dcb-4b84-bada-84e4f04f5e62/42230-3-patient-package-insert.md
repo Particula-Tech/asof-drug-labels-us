@@ -11,7 +11,7 @@ What is PROAIR HFA?
 PROAIR HFA is a prescription medicine used in people 4 years of age and older to:
 
 - treat or prevent bronchospasm in people who have reversible obstructive airway disease
-- prevent exercise induced bronchospasm
+- prevent exercise-induced bronchospasm
 
 It is not known if PROAIR HFA is safe and effective in children under 4 years of age.
 
@@ -45,7 +45,7 @@ PROAIR HFA may affect the way other medicines work, and other medicines may affe
 Especially tell your doctor if you take:
 
 - other inhaled medicines or asthma medicines
-- beta blocker medicines
+- beta-blocker medicines
 - diuretics
 - digoxin
 - monoamine oxidase inhibitors
@@ -132,13 +132,26 @@ This Patient Information summarizes the most important information about PROAIR 
 If you would like more information, talk with your doctor.
 You can ask your pharmacist or doctor for information about PROAIR HFA that is written for health professionals.
 
-For more information, go to www.ProAirHFA.com or call 1-888-482-9522.
+For more information, go to www.ProAirHFA.com or call 1-888-483-8279.
 
 What are the ingredients in PROAIR HFA?
 
 Active ingredient: albuterol sulfate
 
 Inactive ingredients: propellant HFA-134a and ethanol.
+
+Distributed by:
+
+Teva Pharmaceuticals USA, Inc.
+
+Parsippany, NJ 07054
+
+(c)2020 Teva Respiratory LLC.
+All rights reserved.
+
+PROAPL-002
+
+Revised May 2020
 
 Instructions for Use
 
@@ -291,8 +304,15 @@ Replacing Your PROAIR HFA Device
 
 This Patient Information and Instructions for Use has been approved by the U.S. Food and Drug Administration.
 
-Marketed by Teva Respiratory, LLC Frazer, PA 19355
+Distributed by:
 
-Manufactured by IVAX Pharmaceuticals Ireland Waterford, Ireland
+Teva Pharmaceuticals USA, Inc.
 
-Revised 06/2016
+Parsippany, NJ 07054
+
+(c)2020 Teva Respiratory LLC.
+All rights reserved.
+
+PROAIFU-002
+
+Revised May 2020

@@ -1,4 +1,4 @@
-# 5 WARNINGS & PRECAUTIONS
+# 5 WARNINGS AND PRECAUTIONS
 
 ## 5.1 Paradoxical Bronchospasm
 
@@ -11,7 +11,7 @@ It should be recognized that paradoxical bronchospasm, when associated with inha
 Asthma may deteriorate acutely over a period of hours or chronically over several days or longer.
 If the patient needs more doses of PROAIR HFA Inhalation Aerosol than usual, this may be a marker of destabilization of asthma and requires re-evaluation of the patient and treatment regimen, giving special consideration to the possible need for anti-inflammatory treatment, e.g., corticosteroids.
 
-## 5.3 Use of Anti-inflammatory Agents
+## 5.3 Use of Anti-Inflammatory Agents
 
 The use of beta-adrenergic-agonist bronchodilators alone may not be adequate to control asthma in many patients.
 Early consideration should be given to adding anti-inflammatory agents, e.g., corticosteroids, to the therapeutic regimen.
