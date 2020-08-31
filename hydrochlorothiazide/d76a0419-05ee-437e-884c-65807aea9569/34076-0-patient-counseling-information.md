@@ -16,4 +16,6 @@ Caution all patients that inadequate fluid intake, excessive perspiration, diarr
 
 Potassium Supplements: Advise patients not to use salt substitutes without consulting their healthcare provider [see Drug Interactions (7)].
 
-T2020-24
+Non-melanoma Skin Cancer: Instruct patients taking hydrochlorothiazide to protect skin from the sun and undergo regular skin cancer screening.
+
+T2020-120

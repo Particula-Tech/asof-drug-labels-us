@@ -41,9 +41,9 @@ The figures below provide estimates of the likelihood of achieving systolic or d
 The curve of each treatment group was estimated by logistic regression modeling.
 The estimated likelihood at the right tail of each curve is less reliable due to small numbers of subjects with high baseline blood pressures.
 
-| Figure 1: Probability of Achieving Systolic Blood Pressure <140 mmHg at Week 8 | Figure 2: Probability of Achieving Diastolic Blood Pressure <90 mmHg at Week 8 |
+| Figure 1: Probability of Achieving Systolic Blood Pressure < 140 mmHg at Week 8 | Figure 2: Probability of Achieving Diastolic Blood Pressure < 90 mmHg at Week 8 |
 | --- | --- |
-| Figure 3: Probability of Achieving Systolic Blood Pressure <130 mmHg at Week 8 | Figure 4: Probability of Achieving Diastolic Blood Pressure <80 mmHg at Week 8 |
+| Figure 3: Probability of Achieving Systolic Blood Pressure < 130 mmHg at Week 8 | Figure 4: Probability of Achieving Diastolic Blood Pressure < 80 mmHg at Week 8 |
 
 For example, a patient with a baseline blood pressure of 160/100 mmHg has about a 41% likelihood of achieving a goal of < 140 mmHg (systolic) and 60% likelihood of achieving < 90 mmHg (diastolic) on valsartan alone and the likelihood of achieving these goals on HCTZ alone is about 50% (systolic) or 57% (diastolic).
 The likelihood of achieving these goals on Diovan HCT rises to about 84% (systolic) or 80% (diastolic).

@@ -41,7 +41,7 @@ Do not take DIOVAN HCT if you:
 
 What should I tell my doctor before taking DIOVAN HCT?
 
-Tell your doctor about all your medical conditions including if you:
+Tell your doctor about all your medical conditions, including if you:
 
 - are pregnant or plan to become pregnant.
   See “What is the most important information I should know about DIOVAN HCT?”
@@ -145,6 +145,8 @@ Call your doctor right away.
   - decrease in vision
   - eye pain
 
+Protect your skin from the sun and undergo regular skin cancer screening, as one of the medicines in DIOVAN HCT may cause non-melanoma skin cancer.
+
 Other side effects were generally mild and brief.
 They generally have not caused patients to stop taking DIOVAN HCT.
 
@@ -158,7 +160,7 @@ You may report side effects to FDA at 1-800-FDA-1088.
 
 How do I store DIOVAN HCT?
 
-- Store DIOVAN HCT tablets at room temperature between 59oF to 86oF (15oC to 30oC).
+- Store DIOVAN HCT tablets at room temperature between 59°F to 86°F (15°C to 30°C).
 - Keep DIOVAN HCT in a closed container in a dry place.
 
 Keep DIOVAN HCT and all medicines out of the reach of children.
@@ -201,4 +203,4 @@ East Hanover, New Jersey 07936
 
 © Novartis
 
-T2020-25 Revised: March 2020
+T2020-121 Revised: August 2020

@@ -12,10 +12,8 @@ The most common signs and symptoms observed in patients are those caused by elec
 If digitalis has also been administered, hypokalemia may accentuate cardiac arrhythmias.
 
 In rats and marmosets, single oral doses of valsartan up to 1524 and 762 mg/kg in combination with hydrochlorothiazide at doses up to 476 and 238 mg/kg, respectively, did not show any adverse treatment-related effects.
-These no adverse effect doses in rats and marmosets, respectively, represent 46.5 and 23 times the MRHD of valsartan and 188 and 113 times the MRHD of hydrochlorothiazide on a mg/m2 basis.
-(Calculations assume an oral dose of 320 mg/day valsartan in combination with 25 mg/day hydrochlorothiazide and a 60-kg patient.)
+These no adverse effect doses in rats and marmosets, respectively, represent 46.5 and 23 times the MRHD of valsartan and 188 and 113 times the MRHD of hydrochlorothiazide on a mg/m2 basis (Calculations assume an oral dose of 320 mg/day valsartan in combination with 25 mg/day hydrochlorothiazide and a 60-kg patient.)
 
-Valsartan was without grossly observable adverse effects at single oral doses up to 2000 mg/kg in rats and up to 1000 mg/kg in marmosets, except for salivation and diarrhea in the rat and vomiting in the marmoset at the highest dose (60 and 31 times, respectively, the MRHD on a mg/m2 basis) (Calculations assume an oral dose of 320 mg/day and a 60-kg patient).
+Valsartan was without grossly observable adverse effects at single oral doses up to 2,000 mg/kg in rats and up to 1,000 mg/kg in marmosets, except for salivation and diarrhea in the rat and vomiting in the marmoset at the highest dose (60 and 31 times, respectively, the MRHD on a mg/m2 basis) (Calculations assume an oral dose of 320 mg/day and a 60-kg patient).
 
-The oral LD50 of hydrochlorothiazide is greater than 10 g/kg in both mice and rats, which represents 2027 and 4054 times, respectively, the MRHD on a mg/m2 basis.
-(Calculations assume an oral dose of 25 mg/day and a 60-kg patient.)
+The oral LD50 of hydrochlorothiazide is greater than 10 g/kg in both mice and rats, which represents 2027 and 4054 times, respectively, the MRHD on a mg/m2 basis (Calculations assume an oral dose of 25 mg/day and a 60-kg patient.)

@@ -15,7 +15,7 @@ The overall frequency of adverse reactions was neither dose-related nor related 
 In controlled clinical trials, discontinuation of therapy due to side effects was required in 2.3% of valsartan-hydrochlorothiazide patients and 3.1% of placebo patients.
 The most common reasons for discontinuation of therapy with Diovan HCT were headache and dizziness.
 
-The only adverse reaction that occurred in controlled clinical trials in at least 2% of patients treated with Diovan HCT and at a higher incidence in valsartan-hydrochlorothiazide (n=4372) than placebo (n=262) patients was nasopharyngitis (2.4% vs. 1.9%).
+The only adverse reaction that occurred in controlled clinical trials in at least 2% of patients treated with Diovan HCT and at a higher incidence in valsartan-hydrochlorothiazide (n = 4372) than placebo (n = 262) patients was nasopharyngitis (2.4% vs. 1.9%).
 
 Dose-related orthostatic effects were seen in fewer than 1% of patients.
 In individual trials, a dose-related increase in the incidence of dizziness was observed in patients treated with Diovan HCT.
@@ -29,7 +29,7 @@ There were no reported cases of syncope in either treatment group.
 Laboratory changes with Diovan HCT as initial therapy in patients with severe hypertension were similar to those reported with Diovan HCT in patients with less severe hypertension [see Clinical Studies (14.2), Drug Interactions (7)].
 
 Valsartan: In trials in which valsartan was compared to an ACE inhibitor with or without placebo, the incidence of dry cough was significantly greater in the ACE inhibitor group (7.9%) than in the groups who received valsartan (2.6%) or placebo (1.5%).
-In a 129-patient trial limited to patients who had had dry cough when they had previously received ACE inhibitors, the incidences of cough in patients who received valsartan, hydrochlorothiazide, or lisinopril were 20%, 19%, 69% respectively (p < 0.001).
+In a 129-patient trial limited to patients who had had dry cough when they had previously received ACE inhibitors, the incidences of cough in patients who received valsartan, hydrochlorothiazide, or lisinopril were 20%, 19%, 69%, respectively (p < 0.001).
 
 ## 6.2 Postmarketing Experience
 
@@ -60,3 +60,7 @@ Acute renal failure, renal disorder, aplastic anemia, erythema multiforme, pyrex
 
 Pathological changes in the parathyroid gland of patients with hypercalcemia and hypophosphatemia have been observed in a few patients on prolonged thiazide therapy.
 If hypercalcemia occurs, further diagnostic evaluation is necessary.
+
+Non-melanoma Skin Cancer: Hydrochlorothiazide is associated with an increased risk of non-melanoma skin cancer.
+In a study conducted in the Sentinel System, increased risk was predominantly for squamous cell carcinoma (SCC) and in white patients taking large cumulative doses.
+The increased risk for SCC in the overall population was approximately 1 additional case per 16,000 patients per year, and for white patients taking a cumulative dose of ≥ 50,000 mg the risk increase was approximately 1 additional SCC case for every 6,700 patients per year.
