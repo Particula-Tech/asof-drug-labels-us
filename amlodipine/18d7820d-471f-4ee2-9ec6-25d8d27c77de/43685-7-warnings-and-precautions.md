@@ -37,16 +37,16 @@ Worsening angina and acute myocardial infarction can develop after starting or i
 
 ## 5.4 Impaired Renal Function
 
-Changes in renal function including acute renal failure can be caused by drugs that inhibit the renin-angiotensin system and by diuretics.
+Changes in renal function, including acute renal failure can be caused by drugs that inhibit the renin-angiotensin system and by diuretics.
 Patients whose renal function may depend in part on the activity of the renin-angiotensin system (e.g., patients with renal artery stenosis, chronic kidney disease, severe congestive heart failure, or volume depletion) may be at particular risk of developing acute renal failure on Exforge HCT.
 Monitor renal function periodically in these patients.
 Consider withholding or discontinuing therapy in patients who develop a clinically significant decrease in renal function on Exforge HCT [see Drug Interactions (7)].
 
 ## 5.5 Potassium Abnormalities
 
-In the controlled trial of Exforge HCT in moderate to severe hypertensive patients, the incidence of hypokalemia (serum potassium <3.5 mEq/L) at any time post-baseline with the maximum dose of Exforge HCT (10/320/25 mg) was 10% compared to 25% with HCTZ/amlodipine (25/10 mg), 7% with valsartan/HCTZ (320/25 mg), and 3% with amlodipine/valsartan (10/320 mg).
+In the controlled trial of Exforge HCT in moderate to severe hypertensive patients, the incidence of hypokalemia (serum potassium < 3.5 mEq/L) at any time post-baseline with the maximum dose of Exforge HCT (10/320/25 mg) was 10% compared to 25% with HCTZ/amlodipine (25/10 mg), 7% with valsartan/HCTZ (320/25 mg), and 3% with amlodipine/valsartan (10/320 mg).
 One patient (0.2%) discontinued therapy due to an adverse event of hypokalemia in each of the Exforge HCT and HCTZ/amlodipine groups.
-The incidence of hyperkalemia (serum potassium >5.7 mEq/L) was 0.4% with Exforge HCT compared to 0.2% to 0.7% with the dual therapies.
+The incidence of hyperkalemia (serum potassium > 5.7 mEq/L) was 0.4% with Exforge HCT compared to 0.2% to 0.7% with the dual therapies.
 
 Some patients with heart failure have developed increases in potassium on valsartan.
 These effects are usually minor and transient, and they are more likely to occur in patients with pre-existing renal impairment.

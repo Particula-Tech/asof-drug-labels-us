@@ -7,7 +7,7 @@ The dosage may be increased after 2 weeks of therapy.
 The full blood pressure lowering effect was achieved 2 weeks after being on the maximal dose of Exforge HCT.
 The maximum recommended dose of Exforge HCT is 10/320/25 mg.
 
-## 2.2 Add-on / Switch Therapy
+## 2.2 Add-on/Switch Therapy
 
 Exforge HCT may be used for patients not adequately controlled on any 2 of the following antihypertensive classes: calcium channel blockers, angiotensin receptor blockers, and diuretics.
 
@@ -17,6 +17,6 @@ A patient who experiences dose-limiting adverse reactions to an individual compo
 
 Exforge HCT may be substituted for the individually titrated components.
 
-## 2.4 Use with Other Antihypertensive Drugs
+## 2.4 Use With Other Antihypertensive Drugs
 
 Exforge HCT may be administered with other antihypertensive agents.

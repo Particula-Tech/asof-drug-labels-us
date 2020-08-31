@@ -66,7 +66,7 @@ Especially tell your doctor if you take:
   Your doctor may check the amount of potassium in your blood periodically.
 - salt substitute containing potassium.
   Your doctor may check the amount of potassium in your blood periodically.
-- diabetes medicine including insulin
+- diabetes medicine, including insulin
 - narcotic pain medicines
 - sleeping pills and antiseizure medicines called barbiturates
 - lithium, a medicine used to treat some types of depression
@@ -146,6 +146,8 @@ The most common side effects of EXFORGE HCT include:
 - back pain
 - nausea
 
+Protect your skin from the sun and undergo regular skin cancer screening, as one of the medicines in EXFORGE HCT may cause non-melanoma skin cancer.
+
 Tell your doctor if you have any side effect that bothers you or that does not go away.
 
 These are not all the possible side effects of EXFORGE HCT.
@@ -194,4 +196,4 @@ Distributed by: Novartis Pharmaceuticals Corporation East Hanover, New Jersey 07
 
 © Novartis
 
-T2020-27 Revised: March 2020
+T2020-123 Revised: August 2020

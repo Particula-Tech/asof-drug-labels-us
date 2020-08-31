@@ -14,7 +14,7 @@ The contractile processes of cardiac muscle and vascular smooth muscle are depen
 Amlodipine inhibits calcium ion influx across cell membranes selectively, with a greater effect on vascular smooth muscle cells than on cardiac muscle cells.
 Negative inotropic effects can be detected in vitro but such effects have not been seen in intact animals at therapeutic doses.
 Serum calcium concentration is not affected by amlodipine.
-Within the physiologic pH range, amlodipine is an ionized compound (pKa=8.6), and its kinetic interaction with the calcium channel receptor is characterized by a gradual rate of association and dissociation with the receptor binding site, resulting in a gradual onset of effect.
+Within the physiologic pH range, amlodipine is an ionized compound (pKa = 8.6), and its kinetic interaction with the calcium channel receptor is characterized by a gradual rate of association and dissociation with the receptor binding site, resulting in a gradual onset of effect.
 
 Amlodipine is a peripheral arterial vasodilator that acts directly on vascular smooth muscle to cause a reduction in peripheral vascular resistance and reduction in blood pressure.
 
@@ -169,7 +169,7 @@ There is no apparent correlation between renal function (measured by creatinine 
 Valsartan has not been studied in patients with severe impairment of renal function (creatinine clearance <10 mL/min).
 Valsartan is not removed from the plasma by hemodialysis.
 
-In a study in individuals with impaired renal function, the mean elimination half-life of hydrochlorothiazide was doubled in individuals with mild/moderate renal impairment (30< CrCl <90 mL/min) and tripled in severe renal impairment (CrCl ≤30 mL/min), compared to individuals with normal renal function (CrCl >90 mL/min) [see Use in Specific Populations (8.6)].
+In a study in individuals with impaired renal function, the mean elimination half-life of hydrochlorothiazide was doubled in individuals with mild/moderate renal impairment (30 < CrCl < 90 mL/min) and tripled in severe renal impairment (CrCl ≤ 30 mL/min), compared to individuals with normal renal function (CrCl > 90 mL/min) [see Use in Specific Populations (8.6)].
 
 Hepatic Insufficiency: Patients with hepatic insufficiency have decreased clearance of amlodipine with resulting increase in AUC of approximately 40% to 60%.
 On average, patients with mild-to-moderate chronic liver disease have twice the exposure (measured by AUC values) to valsartan of healthy volunteers (matched by age, sex, and weight) [see Use in Specific Populations (8.7)].
@@ -180,7 +180,7 @@ Amlodipine:
 
 In vitro data in human plasma indicate that amlodipine has no effect on the protein binding of digoxin, phenytoin, warfarin, and indomethacin.
 
-Impact of other Drugs on Amlodipine
+Impact of Other Drugs on Amlodipine
 
 Coadministered cimetidine, magnesium-and aluminum hydroxide antacids, sildenafil, and grapefruit juice have no impact on the exposure to amlodipine.
 
@@ -190,14 +190,14 @@ However, strong inhibitors of CYP3A (e.g., itraconazole, clarithromycin) may inc
 
 Impact of Amlodipine on Other Drugs
 
-Co-administered amlodipine does not affect the exposure to atorvastatin, digoxin, ethanol and the warfarin prothrombin response time.
+Coadministered amlodipine does not affect the exposure to atorvastatin, digoxin, ethanol and the warfarin prothrombin response time.
 
 Simvastatin: Coadministration of multiple doses of 10 mg of amlodipine with 80 mg simvastatin resulted in a 77% increase in exposure to simvastatin compared to simvastatin alone [see Drug Interactions (7)].
 
-Cyclosporine: A prospective study in renal transplant patients (N=11) showed on an average of 40% increase in trough cyclosporine levels when concomitantly treated with amlodipine [see Drug Interactions (7)].
+Cyclosporine: A prospective study in renal transplant patients (N = 11) showed on an average of 40% increase in trough cyclosporine levels when concomitantly treated with amlodipine [see Drug Interactions (7)].
 
-Tacrolimus: A prospective study in healthy Chinese volunteers (N=9) with CYP3A5 expressers showed a 2.5- to 4-fold increase in tacrolimus exposure when concomitantly administered with amlodipine compared to tacrolimus alone.
-This finding was not observed in CYP3A5 non-expressers (N=6).
+Tacrolimus: A prospective study in healthy Chinese volunteers (N = 9) with CYP3A5 expressers showed a 2.5- to 4-fold increase in tacrolimus exposure when concomitantly administered with amlodipine compared to tacrolimus alone.
+This finding was not observed in CYP3A5 non-expressers (N = 6).
 However, a 3-fold increase in plasma exposure to tacrolimus in a renal transplant patient (CYP3A5 non-expresser) upon initiation of amlodipine for the treatment of post-transplant hypertension resulting in reduction of tacrolimus dose has been reported.
 Irrespective of the CYP3A5 genotype status, the possibility of an interaction cannot be excluded with these drugs [see Drug Interactions (7)].
 
@@ -213,16 +213,16 @@ Coadministration of inhibitors of the uptake transporter (rifampin, cyclosporine
 
 Hydrochlorothiazide:
 
-Drugs that alter gastrointestinal motility: The bioavailability of thiazide-type diuretics may be increased by anticholinergic agents (e.g., atropine, biperiden), apparently due to a decrease in gastrointestinal motility and the stomach emptying rate.
+Drugs That Alter Gastrointestinal Motility: The bioavailability of thiazide-type diuretics may be increased by anticholinergic agents (e.g., atropine, biperiden), apparently due to a decrease in gastrointestinal motility and the stomach emptying rate.
 Conversely, pro-kinetic drugs may decrease the bioavailability of thiazide diuretics.
 
 Cholestyramine: In a dedicated drug interaction study, administration of cholestyramine 2 hours before hydrochlorothiazide resulted in a 70% reduction in exposure to hydrochlorothiazide.
 Further, administration of hydrochlorothiazide 2 hours before cholestyramine resulted in 35% reduction in exposure to hydrochlorothiazide.
 
-Antineoplastic agents (e.g., cyclophosphamide, methotrexate): Concomitant use of thiazide diuretics may reduce renal excretion of cytotoxic agents and enhance their myelosuppressive effects.
+Antineoplastic Agents (e.g., cyclophosphamide, methotrexate): Concomitant use of thiazide diuretics may reduce renal excretion of cytotoxic agents and enhance their myelosuppressive effects.
 
-Alcohol, barbiturates, or narcotics: Potentiation of orthostatic hypotension may occur.
+Alcohol, Barbiturates, or Narcotics: Potentiation of orthostatic hypotension may occur.
 
-Skeletal muscle relaxants: Possible increased responsiveness to muscle relaxants such as curare derivatives.
+Skeletal Muscle Relaxants: Possible increased responsiveness to muscle relaxants, such as curare derivatives.
 
-Digitalis glycosides: Thiazide-induced hypokalemia or hypomagnesemia may predispose the patient to digoxin toxicity.
+Digitalis Glycosides: Thiazide-induced hypokalemia or hypomagnesemia may predispose the patient to digoxin toxicity.

@@ -23,7 +23,7 @@ Bottles of 30 NDC 0078-0562-15
 
 Bottles of 30 NDC 0078-0563-15
 
-Store at 20°C-25°C (68°F-77°F); excursions permitted between 15°C and 30°C (59°F and 86°F) [see USP controlled room temperature].
+Store at 20°C to 25°C (68°F to 77°F); excursions permitted between 15°C and 30°C (59°F and 86°F) [see USP controlled room temperature].
 
 Protect from moisture.
 

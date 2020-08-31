@@ -7,7 +7,7 @@ Because clinical studies are conducted under widely varying conditions, adverse 
 In the controlled trial of Exforge HCT, where only the maximum dose (10/320/25 mg) was evaluated, safety data were obtained in 582 patients with hypertension.
 Adverse reactions have generally been mild and transient in nature and have only infrequently required discontinuation of therapy.
 
-The overall frequency of adverse reactions was similar between men and women, younger (<65 years) and older (>65 years) patients, and black and white patients.
+The overall frequency of adverse reactions was similar between men and women, younger (< 65 years) and older (> 65 years) patients, and black and white patients.
 In the active controlled clinical trial, discontinuation because of adverse events occurred in 4.0% of patients treated with Exforge HCT 10/320/25 mg compared to 2.9% of patients treated with valsartan/HCTZ 320/25 mg, 1.6% of patients treated with amlodipine/valsartan 10/320 mg, and 3.4% of patients treated with HCTZ/amlodipine 25/10 mg.
 The most common reasons for discontinuation of therapy with Exforge HCT were dizziness (1.0%) and hypotension (0.7%).
 
@@ -31,7 +31,7 @@ Valsartan
 
 Valsartan has been evaluated for safety in more than 4000 hypertensive patients in clinical trials.
 In trials in which valsartan was compared to an ACE inhibitor with or without placebo, the incidence of dry cough was significantly greater in the ACE inhibitor group (7.9%) than in the groups who received valsartan (2.6%) or placebo (1.5%).
-In a 129-patient trial limited to patients who had dry cough when they had previously received ACE inhibitors, the incidences of cough in patients who received valsartan, HCTZ, or lisinopril were 20%, 19%, and 69% respectively (p <0.001).
+In a 129-patient trial limited to patients who had dry cough when they had previously received ACE inhibitors, the incidences of cough in patients who received valsartan, HCTZ, or lisinopril were 20%, 19%, and 69%, respectively (p < 0.001).
 
 Clinical Laboratory Test Findings
 
@@ -44,7 +44,7 @@ In post-myocardial infarction patients, doubling of serum creatinine was observe
 Blood Urea Nitrogen (BUN): In hypertensive patients, greater than 50% increases in BUN were observed in 30% of Exforge HCT-treated patients compared to 29% of valsartan/HCTZ patients, 15.8% of amlodipine/valsartan patients, and 18.5% of HCTZ/amlodipine patients.
 In heart failure patients, greater than 50% increases in BUN were observed in 17% of valsartan-treated patients compared to 6% of placebo-treated patients [see Warnings and Precautions (5.4)].
 
-Neutropenia: Neutropenia (<1500/L) was observed in 1.9% of patients treated with valsartan and 0.8% of patients treated with placebo.
+Neutropenia: Neutropenia (< 1500/L) was observed in 1.9% of patients treated with valsartan and 0.8% of patients treated with placebo.
 
 ## 6.2 Postmarketing Experience
 
@@ -86,3 +86,7 @@ Acute renal failure, renal disorder, aplastic anemia, erythema multiforme, pyrex
 
 Pathological changes in the parathyroid gland of patients with hypercalcemia and hypophosphatemia have been observed in a few patients on prolonged thiazide therapy.
 If hypercalcemia occurs, further diagnostic evaluation is necessary.
+
+Non-melanoma Skin Cancer: Hydrochlorothiazide is associated with an increased risk of non-melanoma skin cancer.
+In a study conducted in the Sentinel System, increased risk was predominantly for squamous cell carcinoma (SCC) and in white patients taking large cumulative doses.
+The increased risk for SCC in the overall population was approximately 1 additional case per 16,000 patients per year, and for white patients taking a cumulative dose of ≥ 50,000 mg the risk increase was approximately 1 additional SCC case for every 6,700 patients per year.

@@ -57,7 +57,7 @@ This corresponds to dose multiples of 9 and 19.5 times, respectively, the maximu
 
 Hydrochlorothiazide
 
-No teratogenic effects were observed when hydrochlorothiazide was administered to mice and rats via gavage at doses of up to 3000 and 1000 mg/kg/day (608 and 405 times the MRHD), on gestation days 6 through 15.
+No teratogenic effects were observed when hydrochlorothiazide was administered to mice and rats via gavage at doses of up to 3,000 and 1,000 mg/kg/day (608 and 405 times the MRHD), on gestation days 6 through 15.
 
 ## 8.2 Lactation
 
@@ -88,7 +88,7 @@ The recommended starting dose of amlodipine 2.5 mg is not an available strength 
 
 ## 8.6 Renal Impairment
 
-Safety and effectiveness of Exforge HCT in patients with severe renal impairment (CrCl <30 mL/min) have not been established.
+Safety and effectiveness of Exforge HCT in patients with severe renal impairment (CrCl < 30 mL/min) have not been established.
 No dose adjustment is required in patients with mild (CrCl 60 to 90 mL/min) or moderate (CrCl 30 to 60 mL/min) renal impairment.
 
 ## 8.7 Hepatic Impairment

@@ -6,7 +6,7 @@ No clinically relevant interaction was observed.
 
 Amlodipine
 
-Impact of other Drugs on Amlodipine
+Impact of Other Drugs on Amlodipine
 
 CYP3A Inhibitors
 
@@ -51,7 +51,7 @@ In general, avoid combined use of RAS inhibitors.
 Closely monitor blood pressure, renal function and electrolytes in patients on valsartan and other agents that affect the RAS.
 
 Do not coadminister aliskiren with valsartan in patients with diabetes.
-Avoid use of aliskiren with valsartan in patients with renal impairment (GFR <60 mL/min).
+Avoid use of aliskiren with valsartan in patients with renal impairment (GFR < 60 mL/min).
 
 Valsartan – Hydrochlorothiazide
 
@@ -62,12 +62,12 @@ Hydrochlorothiazide
 
 When administered concurrently the following drugs may interact with thiazide diuretics:
 
-Antidiabetic drugs (oral agents and insulin): Dosage adjustment of the antidiabetic drug may be required.
+Antidiabetic Drugs (oral agents and insulin): Dosage adjustment of the antidiabetic drug may be required.
 
 Non-Steroidal Anti-inflammatory Drugs (NSAIDs and COX-2 selective inhibitors): When Exforge HCT and nonsteroidal anti-inflammatory agents are used concomitantly, the patient should be observed closely to determine if the desired effect of diuretic is obtained.
 
 Carbamazepine: May lead to symptomatic hyponatremia.
 
-Ion exchange resins: Staggering the dosage of hydrochlorothiazide and ion exchange resins (e.g., cholestyramine, colestipol) such that hydrochlorothiazide is administered at least 4 hours before or 4 to 6 hours after the administration of resins would potentially minimize the interaction [see Clinical Pharmacology (12.3)].
+Ion Exchange Resins: Staggering the dosage of hydrochlorothiazide and ion exchange resins (e.g., cholestyramine, colestipol) such that hydrochlorothiazide is administered at least 4 hours before or 4 to 6 hours after the administration of resins would potentially minimize the interaction [see Clinical Pharmacology (12.3)].
 
 Cyclosporine: Concomitant treatment with cyclosporine may increase the risk of hyperuricemia and gout-type complications.
