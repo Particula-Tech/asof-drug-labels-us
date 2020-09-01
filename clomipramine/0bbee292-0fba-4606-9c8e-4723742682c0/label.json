@@ -1,0 +1,25 @@
+{
+  "application_numbers": [
+    "ANDA213219"
+  ],
+  "inn": "clomipramine",
+  "labeler": "Micro Labs Limited",
+  "package_ndcs": [
+    "42571-342-05",
+    "42571-342-30",
+    "42571-342-90",
+    "42571-343-30",
+    "42571-343-90",
+    "42571-344-30",
+    "42571-344-90"
+  ],
+  "products": [
+    {
+      "form": "CAPSULE",
+      "generic": "clomipramine hydrochloride",
+      "name": "CLOMIPRAMINE HYDROCHLORIDE"
+    }
+  ],
+  "setid": "0bbee292-0fba-4606-9c8e-4723742682c0",
+  "source": "dailymed"
+}
