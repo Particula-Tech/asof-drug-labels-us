@@ -2,7 +2,7 @@
 
 How Supplied
 
-DARZALEX is a colorless to pale yellow, preservative-free solution for intravenous infusion supplied as:
+DARZALEX® is a colorless to pale yellow, preservative-free solution for intravenous infusion supplied as:
 
 NDC 57894-502-05 contains one 100 mg/5 mL single-dose vial
 

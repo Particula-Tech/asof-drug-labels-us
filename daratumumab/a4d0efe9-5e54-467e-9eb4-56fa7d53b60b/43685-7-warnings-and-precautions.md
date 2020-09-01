@@ -3,9 +3,9 @@
 ## 5.1 Infusion-Related Reactions
 
 DARZALEX can cause severe and/or serious infusion-related reactions including anaphylactic reactions.
-In clinical trials (monotherapy and combination treatments: N=2,066), infusion-related reactions occurred in 37% of patients with the Week 1 (16 mg/kg) infusion, 2% with the Week 2 infusion, and cumulatively 6% with subsequent infusions.
+In clinical trials (monotherapy and combination: N=2,066), infusion-related reactions occurred in 37% of patients with the Week 1 (16 mg/kg) infusion, 2% with the Week 2 infusion, and cumulatively 6% with subsequent infusions.
 Less than 1% of patients had a Grade 3/4 infusion-related reaction at Week 2 or subsequent infusions.
-The median time to onset was 1.5 hours (range: 0 to 72.8 hours).
+The median time to onset was 1.5 hours (range: 0 to 73 hours).
 The incidence of infusion modification due to reactions was 36%.
 Median durations of 16 mg/kg infusions for the Week 1, Week 2, and subsequent infusions were approximately 7, 4, and 3 hours respectively.
 Nearly all reactions occurred during infusion or within 4 hours of completing DARZALEX.
@@ -15,7 +15,7 @@ Severe reactions have occurred, including bronchospasm, hypoxia, dyspnea, hypert
 Signs and symptoms may include respiratory symptoms, such as nasal congestion, cough, throat irritation, as well as chills, vomiting and nausea.
 Less common symptoms were wheezing, allergic rhinitis, pyrexia, chest discomfort, pruritus, and hypotension [see Adverse Reactions (6.1)].
 
-When DARZALEX dosing was interrupted in the setting of ASCT (Study CASSIOPEIA) for a median of 3.75 months (range: 2.4; 6.9 months), upon re-initiation of DARZALEX, the incidence of infusion-related reactions was 11% for the first infusion following ASCT.
+When DARZALEX dosing was interrupted in the setting of ASCT (CASSIOPEIA) for a median of 3.75 months (range: 2.4 to 6.9 months), upon re-initiation of DARZALEX, the incidence of infusion-related reactions was 11% for the first infusion following ASCT.
 Infusion rate/dilution volume used upon re-initiation was that used for the last DARZALEX infusion prior to interruption for ASCT.
 Infusion-related reactions occurring at re-initiation of DARZALEX following ASCT were consistent in terms of symptoms and severity (Grade 3 or 4:<1%) with those reported in previous studies at Week 2 or subsequent infusions.
 

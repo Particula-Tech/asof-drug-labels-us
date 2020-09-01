@@ -61,5 +61,9 @@ Safety and effectiveness of DARZALEX in pediatric patients have not been establi
 
 ## 8.5 Geriatric Use
 
-Of the 2,066 patients that received DARZALEX at the recommended dose, 37% were 65 to 75 years of age, and 16% were 75 years of age or older.
-No overall differences in safety or effectiveness were observed between these patients and younger patients [see Clinical Studies (14)].
+Of the 2,459 patients who received DARZALEX at the recommended dose, 38% were 65 to 74 years of age, and 15% were 75 years of age or older.
+No overall differences in effectiveness were observed between these patients and younger patients.
+The incidence of serious adverse reactions was higher in older than in younger patients [see Adverse Reactions (6.1)].
+Among patients with relapsed and refractory multiple myeloma (n=1,213), the serious adverse reactions that occurred more frequently in patients 65 years and older were pneumonia and sepsis.
+Within the DKd group in CANDOR, fatal adverse reactions occurred in 14% of patients 65 years and older compared to 6% of patients less than 65 years.
+Among patients with newly diagnosed multiple myeloma who are ineligible for autologous stem cell transplant (n=710), the serious adverse reaction that occurred more frequently in patients 75 years and older was pneumonia.

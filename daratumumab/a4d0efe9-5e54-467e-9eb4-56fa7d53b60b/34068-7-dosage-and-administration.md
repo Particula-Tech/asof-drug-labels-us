@@ -19,7 +19,7 @@ The DARZALEX dosing schedule in Table 1 is for combination therapy (4-week cycle
 
 The recommended dose of DARZALEX is 16 mg/kg actual body weight administered as an intravenous infusion according to the following dosing schedule:
 
-Table 1: DARZALEX Dosing Schedule in Combination With Lenalidomide or Pomalidomide (4-Week Cycle Dosing Regimens) and Low-Dose Dexamethasone and for Monotherapy
+Table 1: DARZALEX Dosing Schedule in Combination With Lenalidomide or Pomalidomide (4-Week Cycle) and Low-Dose Dexamethasone and for Monotherapy
 
 | Weeks | Schedule |
 | --- | --- |
@@ -35,7 +35,7 @@ The DARZALEX dosing schedule in Table 2 is for combination therapy with bortezom
 
 The recommended dose of DARZALEX is 16 mg/kg actual body weight administered as an intravenous infusion according to the following dosing schedule:
 
-Table 2: DARZALEX Dosing Schedule in Combination With Bortezomib, Melphalan and Prednisone ([VMP], 6-Week Cycle Dosing Regimen)
+Table 2: DARZALEX Dosing Schedule in Combination With Bortezomib, Melphalan and Prednisone ([VMP], 6-Week Cycle)
 
 | Weeks | Schedule |
 | --- | --- |
@@ -51,7 +51,7 @@ The DARZALEX dosing schedule in Table 3 is for combination therapy with bortezom
 
 The recommended dose of DARZALEX is 16 mg/kg actual body weight administered as an intravenous infusion according to the following dosing schedule:
 
-Table 3: DARZALEX Dosing Schedule in Combination With Bortezomib, Thalidomide and Dexamethasone ([VTd]; 4-Week Cycle Dosing Regimen)
+Table 3: DARZALEX Dosing Schedule in Combination With Bortezomib, Thalidomide and Dexamethasone ([VTd]; 4-Week Cycle)
 
 | Treatment phase | Weeks | Schedule |
 | --- | --- | --- |
@@ -64,11 +64,11 @@ For dosing instructions of combination agents administered with DARZALEX, see Cl
 
 In Combination with Bortezomib and Dexamethasone (D-Vd)
 
-The DARZALEX dosing schedule in Table 4 is for combination therapy with bortezomib and dexamethasone (3-week cycle regimen) for patients with relapsed/refractory multiple myeloma.
+The DARZALEX dosing schedule in Table 4 is for combination therapy with bortezomib and dexamethasone (3-week cycle) for patients with relapsed/refractory multiple myeloma.
 
 The recommended dose of DARZALEX is 16 mg/kg actual body weight administered as an intravenous infusion according to the following dosing schedule:
 
-Table 4: DARZALEX Dosing Schedule With Bortezomib and Dexamethasone (3-Week Cycle Dosing Regimen)
+Table 4: DARZALEX Dosing Schedule With Bortezomib and Dexamethasone (3-Week Cycle)
 
 | Weeks | Schedule |
 | --- | --- |
@@ -78,14 +78,29 @@ Table 4: DARZALEX Dosing Schedule With Bortezomib and Dexamethasone (3-Week Cycl
 
 For dosing instructions of combination agents administered with DARZALEX see Clinical Studies (14.2) and manufacturer's prescribing information.
 
+In Combination with Carfilzomib and Dexamethasone (DKd)
+
+The recommended dosage for DARZALEX when administered in combination with carfilzomib and dexamethasone (4-week cycle) for patients with relapsed/refractory multiple myeloma is provided in Table 5.
+
+Table 5: DARZALEX Dosing Schedule With Carfilzomib and Dexamethasone (4-Week Cycle)
+
+| Weeks | DARZALEX DoseBased on actual body weight | Schedule |
+| --- | --- | --- |
+| Week 1 | 8 mg/kg | days 1 and 2 (total 2 doses) |
+| Weeks 2 to 8 | 16 mg/kg | weekly (total of 7 doses) |
+| Weeks 9 to 24First dose of the every-2-week dosing schedule is given at Week 9 | 16 mg/kg | every two weeks (total of 8 doses) |
+| Week 25 onwards until disease progressionFirst dose of the every-4-week dosing schedule is given at Week 25 | 16 mg/kg | every four weeks |
+
+For dosing instructions of combination agents administered with DARZALEX see Clinical Studies (14.1) and manufacturer's prescribing information.
+
 Infusion Rates
 
-Administer DARZALEX intravenously at the infusion rate described below in Table 5.
+Administer DARZALEX intravenously at the infusion rate described below in Table 6.
 Consider incremental escalation of the infusion rate only in the absence of infusion-related reactions.
 
-To facilitate administration, the first prescribed 16 mg/kg dose at Week 1 may be split over two consecutive days i.e. 8 mg/kg on Day 1 and Day 2 respectively, see Table 5 below.
+The recommended dose of 16 mg/kg to be administered on Day 1 when DARZALEX is administered as monotherapy or in combination may be split over two consecutive days, such that an 8 mg/kg dose is administered on Day 1 and Day 2, respectively.
 
-Table 5: Infusion Rates for DARZALEX (16 mg/kg) Administration
+Table 6: Infusion Rates for DARZALEX (16 mg/kg) Administration
 
 |  | Dilution volume | Initial rate (first hour) | Rate incrementConsider incremental escalation of the infusion rate only in the absence of infusion-related reactions. | Maximum rate |
 | --- | --- | --- | --- | --- |
@@ -95,8 +110,8 @@ Table 5: Infusion Rates for DARZALEX (16 mg/kg) Administration
 | Option 2 (Split dose infusion) |  |  |  |  |
 | Week 1 Day 1 (8 mg/kg) | 500 mL | 50 mL/hour | 50 mL/hour every hour | 200 mL/hour |
 | Week 1 Day 2 (8 mg/kg) | 500 mL | 50 mL/hour | 50 mL/hour every hour | 200 mL/hour |
-| Week 2 (16 mg/kg) infusionUse a dilution volume of 500 mL for the 16 mg/kg dose only if there were no infusion-related reactions the previous week. Otherwise, use a dilution volume of 1,000 mL. | 500 mL | 50 mL/hour | 50 mL/hour every hour | 200 mL/hour |
-| Subsequent (Week 3 onwards, 16 mg/kg) infusionsUse a modified initial rate (100 mL/hour) for subsequent infusions (i.e. Week 3 onwards) only if there were no infusion-related reactions during the previous infusion. Otherwise, continue to use instructions indicated in the table for the Week 2 infusion rate. | 500 mL | 100 mL/hour | 50 mL/hour every hour | 200 mL/hour |
+| Week 2 (16 mg/kg)Use a dilution volume of 500 mL for the 16 mg/kg dose only if there were no infusion-related reactions the previous week. Otherwise, use a dilution volume of 1,000 mL. | 500 mL | 50 mL/hour | 50 mL/hour every hour | 200 mL/hour |
+| Week 3 onwards (16 mg/kg)Use a modified initial rate (100 mL/hour) for subsequent infusions (i.e. Week 3 onwards) only if there were no infusion-related reactions during the previous infusion. Otherwise, continue to use instructions indicated in the table for the Week 2 infusion rate. | 500 mL | 100 mL/hour | 50 mL/hour every hour | 200 mL/hour |
 
 Missed DARZALEX Doses
 
@@ -108,11 +123,12 @@ Pre-infusion Medication
 
 Administer the following pre-infusion medications 1–3 hours before every DARZALEX infusion:
 
-- Corticosteroid (long- or intermediate-acting) Monotherapy: Administer methylprednisolone 100 mg (or equivalent) intravenously.
-  Following the second infusion, consider reducing the dose to 60 mg (or equivalent) administered either orally or intravenously.
-  In Combination: Administer dexamethasone 20 mg (or equivalent) orally or intravenously.
-  When dexamethasone is the background regimen-specific corticosteroid, the dexamethasone dose that is part of the background regimen will serve as pre-medication on DARZALEX infusion days [see Clinical Studies (14)].
-  Do not administer background regimen-specific corticosteroids (e.g. prednisone) on DARZALEX infusion days when patients have received dexamethasone (or equivalent) as a pre-medication.
+- Corticosteroid (long- or intermediate-acting)
+  - Monotherapy: Administer methylprednisolone 100 mg (or equivalent) intravenously.
+    Following the second infusion, consider reducing the dose to 60 mg (or equivalent) administered either orally or intravenously.
+    In Combination: Administer dexamethasone 20 mg (or equivalent) orally or intravenously.
+    When dexamethasone is the background regimen-specific corticosteroid, the dexamethasone dose that is part of the background regimen will serve as pre-medication on DARZALEX infusion days [see Clinical Studies (14)].
+    Do not administer background regimen-specific corticosteroids (e.g. prednisone) on DARZALEX infusion days when patients have received dexamethasone (or equivalent) as a pre-medication.
 - Acetaminophen 650 to 1,000 mg orally
 - Diphenhydramine 25 to 50 mg (or equivalent) orally or intravenously.
 
@@ -121,7 +137,7 @@ Post-infusion Medication
 Administer the following post-infusion medications:
 
 - Monotherapy: Administer methylprednisolone 20 mg (or an equivalent dose of an intermediate- or long-acting corticosteroid) orally for 2 days starting the day after the administration of DARZALEX.
-- In Combination: Consider administering oral methylprednisolone at a dose of less than or equal to 20 mg (or an equivalent dose of an intermediate- or long-acting corticosteroid) beginning the day after the administration of a DARZALEX infusion.
+  In Combination: Consider administering oral methylprednisolone at a dose of less than or equal to 20 mg (or an equivalent dose of an intermediate- or long-acting corticosteroid) beginning the day after the administration of a DARZALEX infusion.
   If a background regimen-specific corticosteroid (e.g. dexamethasone, prednisone) is administered the day after the DARZALEX infusion, additional corticosteroids may not be needed [see Clinical Studies (14)].
 
 For patients with a history of chronic obstructive pulmonary disease, consider prescribing short and long-acting bronchodilators and inhaled corticosteroids.
@@ -144,9 +160,9 @@ For infusion-related reactions of any grade/severity, immediately interrupt the 
 Management of infusion-related reactions may further require reduction in the rate of infusion, or treatment discontinuation of DARZALEX as outlined below [see Warnings and Precautions (5.1)].
 
 - Grade 1–2 (mild to moderate): Once reaction symptoms resolve, resume the infusion at no more than half the rate at which the reaction occurred.
-  If the patient does not experience any further reaction symptoms, infusion rate escalation may resume at increments and intervals as clinically appropriate up to the maximum rate of 200 mL/hour (Table 5).
+  If the patient does not experience any further reaction symptoms, infusion rate escalation may resume at increments and intervals as clinically appropriate up to the maximum rate of 200 mL/hour (Table 6).
 - Grade 3 (severe): Once reaction symptoms resolve, consider restarting the infusion at no more than half the rate at which the reaction occurred.
-  If the patient does not experience additional symptoms, resume infusion rate escalation at increments and intervals as outlined in Table 5.
+  If the patient does not experience additional symptoms, resume infusion rate escalation at increments and intervals as outlined in Table 6.
   Repeat the procedure above in the event of recurrence of Grade 3 symptoms.
   Permanently discontinue DARZALEX upon the third occurrence of a Grade 3 or greater infusion-related reaction.
 - Grade 4 (life threatening): Permanently discontinue DARZALEX.
@@ -163,7 +179,7 @@ Prepare the solution for infusion using aseptic technique as follows:
 - Check that the DARZALEX solution is colorless to pale yellow.
   Do not use if opaque particles, discoloration or other foreign particles are present.
 - Remove a volume of 0.9% Sodium Chloride Injection, USP from the infusion bag/container that is equal to the required volume of DARZALEX solution.
-- Withdraw the necessary amount of DARZALEX solution and dilute to the appropriate volume by adding to the infusion bag/container containing 0.9% Sodium Chloride Injection, USP as specified in Table 5 [see Dosage and Administration (2.2)].
+- Withdraw the necessary amount of DARZALEX solution and dilute to the appropriate volume by adding to the infusion bag/container containing 0.9% Sodium Chloride Injection, USP as specified in Table 6 [see Dosage and Administration (2.2)].
   Infusion bags/containers must be made of either polyvinylchloride (PVC), polypropylene (PP), polyethylene (PE) or polyolefin blend (PP+PE).
   Dilute under appropriate aseptic conditions.
   Discard any unused portion left in the vial.
