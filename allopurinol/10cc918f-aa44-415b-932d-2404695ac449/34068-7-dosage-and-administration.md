@@ -24,11 +24,11 @@ The dose of ALOPRIM (allopurinol sodium) for Injection should be reduced in pati
 | --- | --- |
 | 10 to 20 mL/min | 200 mg/day |
 | 3 to 10 mL/min | 100 mg/day |
-| <3 mL/min | 100 mg/day at extended intervals |
+| < 3 mL/min | 100 mg/day at extended intervals |
 
 ## Administration
 
-In both adults and children, the daily dose can be given as single infusion or in equally divided infusions at 6-, 8-, or 12- hour intervals at the recommended final concentration of not greater than 6 mg/mL (see Preparation of Solution).
+In both adults and children, the daily dose can be given as single infusion or in equally divided infusions at 6-, 8-, or 12-hour intervals at the recommended final concentration of not greater than 6 mg/mL (see Preparation of Solution).
 The rate of infusion depends on the volume of infusate.
 Whenever possible, therapy with ALOPRIM (allopurinol sodium) for Injection should be initiated 24 to 48 hours before the start of chemotherapy known to cause tumor cell lysis (including adrenocorticosteroids).
 
@@ -45,6 +45,7 @@ Sodium bicarbonate-containing solutions should not be used.
 A final concentration of no greater than 6 mg/mL is recommended.
 The solution should be stored at 20° to 25°C (68° to 77°F) and administration should begin within 10 hours after reconstitution.
 Do not refrigerate the reconstituted and/or diluted product.
+Discard unused portion.
 
 Parenteral drug products should be inspected visually for particulate matter and discoloration prior to administration, whenever solution and container permit.
 Do not use this product if particulate matter or discoloration is present.

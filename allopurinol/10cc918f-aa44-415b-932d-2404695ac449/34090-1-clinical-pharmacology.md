@@ -22,7 +22,7 @@ The action of oral allopurinol differs from that of uricosuric agents, which low
 Allopurinol reduces both the serum and urinary uric acid levels by inhibiting the formation of uric acid.
 The use of allopurinol to block the formation of urates avoids the hazard of increased renal excretion of uric acid posed by uricosuric drugs.
 
-## PHARMACOKINETICS
+## Pharmacokinetics
 
 Following intravenous administration in six healthy male and female subjects, allopurinol was rapidly eliminated from the systemic circulation primarily via oxidative metabolism to oxypurinol, with no detectable plasma concentration of allopurinol after 5 hours post dosing.
 Approximately 12% of the allopurinol intravenous dose was excreted unchanged, 76% excreted as oxypurinol, and the remaining dose excreted as riboside conjugates in the urine.
@@ -36,11 +36,11 @@ Pharmacokinetic parameter estimates of allopurinol (mean ± S.D.) following sing
 
 Administration of ALOPRIM® (allopurinol sodium) for Injection
 
-| Allopurinol Parameters | 100 mg i.v. | 300 mg i.v. | 100 mg p.o.n=7 | 300 mg p.o. |
+| Allopurinol Parameters | 100 mg i.v. | 300 mg i.v. | 100 mg p.o.n = 7 | 300 mg p.o. |
 | --- | --- | --- | --- | --- |
 | Cmax (µg/mL) | 1.58 ± 0.22 | 5.12 ± 0.82 | 0.53 ± 0.10 | 1.35 ± 0.49 |
 | Tmax (hr) | 0.50 | 0.50 | 1.00 ± 0.39 | 1.67 ± 0.96 |
-| T 1/2 (hr) | 1.00 ± 0.46 | 1.21 ± 0.33 | 0.98 ± 0.43 | 1.32 ± 0.32 |
+| T1/2 (hr) | 1.00 ± 0.46 | 1.21 ± 0.33 | 0.98 ± 0.43 | 1.32 ± 0.32 |
 | AUC0 ->∞ (hr∙µg/mL) | 1.99 ± 0.63 | 7.10 ± 1.28 | 1.03 ± 0.24 | 3.69 ± 0.96 |
 | CL (mL/min/kg) | 12.2 ± 3.11 | 9.94 ± 2.36 |  |  |
 | Vss (L/kg)Volume of Distribution (Steady-State) | 0.84 ± 0.13 | 0.87 ± 0.13 |  |  |
@@ -55,7 +55,7 @@ Administration of ALOPRIM® (allopurinol sodium) for Injection
 | --- | --- | --- | --- | --- |
 | Cmax (µg/mL) | 2.20 ± 0.31 | 6.18 ± 0.78 | 2.36 ± 0.30 | 6.36 ± 0.83 |
 | Tmax (hr) | 3.89 ± 1.41 | 4.16 ± 1.2 | 3.10 ± 1.49 | 4.13 ± 1.35 |
-| T 1/2 (hr) | 24.1 ± 5.4 | 23.5 ± 4.5 | 24.9 ± 8.4 | 23.7 ± 3.4 |
+| T1/2 (hr) | 24.1 ± 5.4 | 23.5 ± 4.5 | 24.9 ± 8.4 | 23.7 ± 3.4 |
 | AUC0 ->∞ (hr∙µg/mL) | 80 ± 24 | 231 ± 54 | 83 ± 22 | 245 ± 49 |
 | Frelative (%)Relative Bioavailability |  |  | 107 ± 25 | 108 ± 9 |
 

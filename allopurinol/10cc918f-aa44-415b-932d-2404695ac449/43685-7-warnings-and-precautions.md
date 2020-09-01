@@ -1,7 +1,18 @@
 # WARNINGS
 
-ALLOPURINOL SHOULD BE DISCONTINUED AT THE FIRST APPEARANCE OF SKIN RASH OR OTHER SIGNS WHICH MAY INDICATE AN ALLERGIC REACTION.
-In some instances with oral allopurinol, a skin rash may be followed by more severe hypersensitivity reactions such as exfoliative, urticarial, and purpuric lesions as well as Stevens-Johnson syndrome (erythema multiforme exudativum), and/or generalized vasculitis, irreversible hepatotoxicity and, on rare occasions, death.
+DISCONTINUE ALOPRIM AT THE FIRST APPEARANCE OF SKIN RASH OR OTHER SIGNS WHICH MAY INDICATE A HYPERSENSITIVITY REACTION.
+Serious and sometimes fatal dermatologic reactions, including toxic epidermal necrolysis (TEN), Stevens-Johnson syndrome (SJS), and drug reaction with eosinophilia and systemic symptoms (DRESS) have been reported in patients taking allopurinol.
+These reactions occur in approximately 5 in 10,000 (0.05%) patients taking allopurinol.
+Other serious hypersensitivity reactions that have been reported include exfoliative, urticarial and purpuric lesions; generalized vasculitis; and irreversible hepatotoxicity.
+
+The HLA-B*58:01 allele is a genetic marker for severe skin reactions indicative of hypersensitivity to allopurinol.
+Patients who carry the HLA-B*58:01 allele are at a higher risk of allopurinol hypersensitivity syndrome (AHS), but hypersensitivity reactions have been reported in patients who do not carry this allele.
+The frequency of this allele is higher in individuals of African, Asian (e.g., Han Chinese, Korean, Thai), and Native Hawaiian/Pacific Islander ancestry.
+Prior to starting ALOPRIM, consider testing for the HLA-B*58:01 allele in genetically at-risk populations.
+The use of ALOPRIM is not recommended in HLA-B*58:01 positive patients unless the benefits clearly outweigh the risks.
+
+The occurrence of hypersensitivity reactions may be increased in patients with renal impairment, especially in patients who are receiving thiazide diuretics.
+Reduce the dose of ALOPRIM in patients with impaired renal function (see DOSAGE AND ADMINISTRATION: Impaired Renal Function).
 
 In patients receiving mercaptopurine or azathioprine, the concomitant administration of 300 to 600 mg of ALOPRIM (allopurinol sodium) for Injection per day will require a reduction in dose to approximately one-third to one-fourth of the usual dose of mercaptopurine or azathioprine.
 Subsequent adjustment of doses of mercaptopurine or azathioprine should be made on the basis of therapeutic response and the appearance of toxic effects (see PRECAUTIONS: Drug Interactions).
@@ -11,9 +22,6 @@ If anorexia, weight loss, or pruritus develop in patients on allopurinol, evalua
 In patients with pre-existing liver disease, periodic liver function tests are recommended during the early stages of therapy.
 
 Due to the occasional occurrence of drowsiness, patients should be alerted to the need for due precaution when engaging in activities where alertness is mandatory.
-
-The occurrence of hypersensitivity reactions to allopurinol may be increased in patients with decreased renal function receiving thiazides and allopurinol concurrently.
-Thus, in patients with decreased renal function, such combinations should be administered with caution.
 
 # PRECAUTIONS
 
@@ -31,7 +39,7 @@ Patients should be carefully observed during the early stages of allopurinol adm
 
 In patients with severely impaired renal function or decreased urate clearance, the half-life of oxypurinol in the plasma is greatly prolonged.
 Patients should be treated with the lowest effective dose, in order to minimize possible side effects.
-The appropriate dose of ALOPRIM (allopurinol sodium) for Injection for patients with a creatinine clearance ≤10 mL/min is 100 mg per day.
+The appropriate dose of ALOPRIM (allopurinol sodium) for Injection for patients with a creatinine clearance ≤ 10 mL/min is 100 mg per day.
 For patients with a creatinine clearance between 10 and 20 mL/min, a dose of 200 mg per day is recommended.
 With extreme renal impairment (creatinine clearance less than 3 mL/min), the interval between doses may also need to be extended.
 
@@ -45,7 +53,7 @@ The correct dosage and schedule for maintaining the serum uric acid within the n
 In patients with pre-existing liver disease, periodic liver function tests are recommended during the early stages of therapy (see WARNINGS).
 
 Allopurinol and its primary active metabolite, oxypurinol, are eliminated by the kidneys; therefore, changes in renal function have a profound effect on dosage.
-In patients with decreased renal function, or who have concurrent illnesses which can affect renal function such as hypertension and diabetes mellitus, periodic laboratory parameters of renal function, particularly BUN and serum creatinine or creatinine clearance, should be performed and the patient's allopurinol dosage reassessed.
+In patients with decreased renal function, or who have concurrent illnesses which can affect renal function such as hypertension and diabetes mellitus, periodic laboratory parameters of renal function, particularly BUN and serum creatinine or creatinine clearance, should be performed and the patient’s allopurinol dosage reassessed.
 
 The prothrombin time should be reassessed periodically in the patients receiving dicumarol who are given allopurinol.
 

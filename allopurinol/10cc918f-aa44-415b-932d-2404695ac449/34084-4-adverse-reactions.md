@@ -14,9 +14,7 @@ A listing of the adverse reactions regardless of causality reported from clinica
 | Cutaneous/Dermatologic: | rash (1.5%) |
 | Genitourinary: | renal failure/insufficiency (1.2%) |
 | Gastrointestinal: | nausea (1.3%), vomiting (1.2%) |
-
 | Incidence Less Than 1%: |  |
-| --- | --- |
 | Body as Whole: | fever, pain, chills, alopecia, infection, sepsis, enlarged abdomen, mucositis/pharyngitis, blast crisis, cellulitis, hypervolemia |
 | Cardiovascular: | heart failure, cardiorespiratory arrest, hypertension, pulmonary embolus, hypotension, decreased venous pressure, flushing, headache, stroke, septic shock, cardiovascular disorder, ECG abnormality, hemorrhage, bradycardia, thrombophlebitis, ventricular fibrillation |
 | Cutaneous/Dermatologic: | urticaria, pruritus, local injection site reaction |
