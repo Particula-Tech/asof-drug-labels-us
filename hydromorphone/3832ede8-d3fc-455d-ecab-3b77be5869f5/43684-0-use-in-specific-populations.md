@@ -30,8 +30,8 @@ Labor or Delivery
 
 Opioids cross the placenta and may produce respiratory depression and psycho-physiologic effects in neonates.
 An opioid antagonist, such as naloxone, must be available for reversal of opioid-induced respiratory depression in the neonate.
-Hydromorphone Hydrochloride Injection (HIGH POTENCY) is not recommended for use in pregnant women during or immediately prior to labor, when other analgesic techniques are more appropriate.
-Opioid analgesics, including Hydromorphone Hydrochloride Injection (HIGH POTENCY), can prolong labor through actions which temporarily reduce the strength, duration, and frequency of uterine contractions.
+Hydromorphone Hydrochloride Injection [high potency formulation (HPF)] is not recommended for use in pregnant women during or immediately prior to labor, when other analgesic techniques are more appropriate.
+Opioid analgesics, including Hydromorphone Hydrochloride Injection [high potency formulation (HPF)], can prolong labor through actions which temporarily reduce the strength, duration, and frequency of uterine contractions.
 However, this effect is not consistent and may be offset by an increased rate of cervical dilation, which tends to shorten labor.
 Monitor neonates exposed to opioid analgesics during labor for signs of excess sedation and respiratory depression.
 
@@ -63,11 +63,11 @@ Maternal toxicity (decreased food consumption and body weight gain) was also not
 Risk Summary
 
 Low levels of opioid analgesics have been detected in human milk.
-The developmental and health benefits of breastfeeding should be considered along with the mother's clinical need for Hydromorphone Hydrochloride Injection (HIGH POTENCY) and any potential adverse effects on the breastfed infant from Hydromorphone Hydrochloride Injection (HIGH POTENCY) or from the underlying maternal condition.
+The developmental and health benefits of breastfeeding should be considered along with the mother's clinical need for Hydromorphone Hydrochloride Injection [high potency formulation (HPF)] and any potential adverse effects on the breastfed infant from Hydromorphone Hydrochloride Injection [high potency formulation (HPF)] or from the underlying maternal condition.
 
 Clinical Considerations
 
-Monitor infants exposed to Hydromorphone Hydrochloride Injection (HIGH POTENCY) through breast milk for excess sedation and respiratory depression.
+Monitor infants exposed to Hydromorphone Hydrochloride Injection [high potency formulation (HPF)] through breast milk for excess sedation and respiratory depression.
 Withdrawal symptoms can occur in breastfed infants when maternal administration of hydromorphone is stopped, or when breast-feeding is stopped.
 
 ## 8.3 Females and Males of Reproductive Potential
@@ -79,7 +79,7 @@ It is not known whether these effects on fertility are reversible [see Adverse R
 
 ## 8.4 Pediatric Use
 
-The safety and effectiveness of Hydromorphone Hydrochloride Injection (HIGH POTENCY) in pediatric patients has not been established.
+The safety and effectiveness of Hydromorphone Hydrochloride Injection [high potency formulation (HPF)] in pediatric patients has not been established.
 
 ## 8.5 Geriatric Use
 
@@ -87,7 +87,7 @@ Elderly patients (aged 65 years or older) may have increased sensitivity to hydr
 In general, use caution when selecting a dosage for an elderly patient, usually starting at the low end of the dosing range, reflecting the greater frequency of decreased hepatic, renal, or cardiac function and of concomitant disease or other drug therapy.
 
 Respiratory depression is the chief risk for elderly patients treated with opioids, and has occurred after large initial doses were administered to patients who were not opioid-tolerant or when opioids were co-administered with other agents that depress respiration.
-Titrate the dosage of Hydromorphone Hydrochloride Injection (HIGH POTENCY) slowly in geriatric patients and monitor closely for signs of central nervous system and respiratory depression [see Warnings and Precautions (5.6)].
+Titrate the dosage of Hydromorphone Hydrochloride Injection [high potency formulation (HPF)] slowly in geriatric patients and monitor closely for signs of central nervous system and respiratory depression [see Warnings and Precautions (5.6)].
 
 Hydromorphone is known to be substantially excreted by the kidney, and the risk of adverse reactions to this drug may be greater in patients with impaired renal function.
 Because elderly patients are more likely to have decreased renal function, care should be taken in dose selection, and it may be useful to monitor renal function.

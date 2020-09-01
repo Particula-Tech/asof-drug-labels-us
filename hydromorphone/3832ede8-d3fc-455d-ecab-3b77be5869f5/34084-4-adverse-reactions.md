@@ -5,7 +5,7 @@ The following serious adverse reactions are described, or described in greater d
 - Addiction, Abuse, and Misuse [see Warnings and Precautions (5.2)]
 - Life-Threatening Respiratory Depression [see Warnings and Precautions (5.3)]
 - Neonatal Opioid Withdrawal Syndrome [see Warnings and Precautions (5.4)]
-- Interactions with Benzodiazepines and Other CNS Depressants [see Warnings and Precautions (5.5)]
+- Interactions With Benzodiazepines and Other CNS Depressants [see Warnings and Precautions (5.5)]
 - Adrenal Insufficiency [see Warnings and Precautions (5.7)]
 - Severe Hypotension [see Warnings and Precautions (5.8)]
 - Gastrointestinal Adverse Reactions [see Warnings and Precautions (5.10)]
@@ -15,7 +15,7 @@ The following serious adverse reactions are described, or described in greater d
 The following adverse reactions associated with the use of hydromorphone were identified in clinical studies or postmarketing reports.
 Because some of these reactions were reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
 
-Serious adverse reactions associated with Hydromorphone Hydrochloride Injection (HIGH POTENCY) include respiratory depression and apnea and, to a lesser degree, circulatory depression, respiratory arrest, shock, and cardiac arrest.
+Serious adverse reactions associated with Hydromorphone Hydrochloride Injection [high potency formulation (HPF)] include respiratory depression and apnea and, to a lesser degree, circulatory depression, respiratory arrest, shock, and cardiac arrest.
 
 The most common adverse effects are lightheadedness, dizziness, sedation, nausea, vomiting, sweating, flushing, dysphoria, euphoria, dry mouth, and pruritus.
 These effects seem to be more prominent in ambulatory patients and in those not experiencing severe pain.
@@ -58,6 +58,6 @@ Serotonin syndrome: Cases of serotonin syndrome, a potentially life-threatening 
 
 Adrenal insufficiency: Cases of adrenal insufficiency have been reported with opioid use, more often following greater than one month of use.
 
-Anaphylaxis: Anaphylaxis has been reported with ingredients contained in Hydromorphone Hydrochloride Injection (HIGH POTENCY)
+Anaphylaxis: Anaphylaxis has been reported with ingredients contained in Hydromorphone Hydrochloride Injection [high potency formulation (HPF)]
 
 Androgen deficiency: Cases of androgen deficiency have occurred with chronic use of opioids [see Clinical Pharmacology (12.2)].

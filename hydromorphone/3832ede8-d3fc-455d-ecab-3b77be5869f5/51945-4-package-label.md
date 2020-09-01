@@ -4,7 +4,7 @@
 
 HIGH POTENCY FORMULATION
 
-Hydromorphone Hydrochloride Injection, USP CII
+Hydromorphone Hydrochloride Injection CII
 
 10 mg/mL
 
@@ -18,7 +18,7 @@ Distributed by Hospira, Inc., Lake Forest, IL 60045 USA
 
 NDC 0409-2634-01 Contains 10 of NDC 0409-2634-10
 
-HIGH POTENCY FORMULATION Hydromorphone Hydrochloride Injection, USP CII
+HIGH POTENCY FORMULATION Hydromorphone Hydrochloride Injection CII
 
 10 mg/mL
 
@@ -30,7 +30,7 @@ Hospira
 
 HIGH POTENCY FORMULATION
 
-Hydromorphone Hydrochloride Injection, USP CII
+Hydromorphone Hydrochloride Injection CII
 
 50 mg/5 mL (10 mg/mL)
 
@@ -50,7 +50,7 @@ NDC 0409-2634-05 Contains 10 of NDC 0409-2634-25
 
 HIGH POTENCY FORMULATION
 
-Hydromorphone Hydrochloride Injection, USP CII
+Hydromorphone Hydrochloride Injection CII
 
 50 mg/5 mL (10 mg/mL)
 
@@ -66,7 +66,7 @@ NDC-0409-2634-50
 
 HIGH POTENCY FORMULATION
 
-Hydromorphone Hydrochloride Injection, USP
+Hydromorphone Hydrochloride Injection
 
 CII
 
@@ -88,7 +88,7 @@ NDC 0409-2634-50
 
 HIGH POTENCY FORMULATION
 
-Hydromorphone Hydrochloride Injection, USP
+Hydromorphone Hydrochloride Injection
 
 CII
 
