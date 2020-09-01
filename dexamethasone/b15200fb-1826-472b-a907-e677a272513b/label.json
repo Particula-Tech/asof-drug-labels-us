@@ -6,14 +6,12 @@
     "ANDA084613",
     "ANDA087916",
     "ANDA088248",
-    "ANDA088252",
     "ANDA088306",
     "ANDA088316"
   ],
   "inn": "dexamethasone",
   "labeler": "West-Ward Pharmaceuticals Corp.",
   "package_ndcs": [
-    "0054-3176-44",
     "0054-3177-57",
     "0054-3177-63",
     "0054-4179-25",
@@ -23,14 +21,7 @@
     "0054-4182-31",
     "0054-4183-25",
     "0054-4184-25",
-    "0054-4186-25",
-    "0054-8174-25",
-    "0054-8175-25",
-    "0054-8176-25",
-    "0054-8179-25",
-    "0054-8180-25",
-    "0054-8181-25",
-    "0054-8183-25"
+    "0054-4186-25"
   ],
   "products": [
     {
@@ -42,11 +33,6 @@
       "form": "TABLET",
       "generic": "dexamethasone",
       "name": "Dexamethasone"
-    },
-    {
-      "form": "SOLUTION, CONCENTRATE",
-      "generic": "dexamethasone intensol",
-      "name": "Dexamethasone Intensol"
     }
   ],
   "setid": "b15200fb-1826-472b-a907-e677a272513b",
