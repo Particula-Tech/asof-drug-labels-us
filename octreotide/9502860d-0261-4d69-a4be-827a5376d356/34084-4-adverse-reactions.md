@@ -65,10 +65,12 @@ Evaluation of 20 patients treated for at least 6 months has failed to demonstrat
 However, antibody titers to octreotide acetate were subsequently reported in three patients and resulted in prolonged duration of drug action in two patients.
 Anaphylactoid reactions, including anaphylactic shock, have been reported in several patients receiving octreotide acetate.
 
-Postmarketing Experience
+## Postmarketing Experience
 
 The following adverse reactions have been identified during the postapproval use of octreotide acetate.
 Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
+
+Hepatobiliary: cholelithiasis, cholecystitis, cholangitis and pancreatitis, which have sometimes required cholecystectomy.
 
 Gastrointestinal: intestinal obstruction
 

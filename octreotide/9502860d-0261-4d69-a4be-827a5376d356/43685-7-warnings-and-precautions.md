@@ -9,6 +9,9 @@ Like patients without gallbladder abnormalities, the majority of patients develo
 The symptoms were not specific for gallbladder disease.
 A few patients developed acute cholecystitis, ascending cholangitis, biliary obstruction, cholestatic hepatitis, or pancreatitis during octreotide acetate therapy or following its withdrawal.
 One patient developed ascending cholangitis during octreotide acetate therapy and died.
+There have been postmarketing reports of cholelithiasis (gallstones) resulting in complications requiring cholecystectomy.
+
+If complications of cholelithiasis are suspected, discontinue Octreotide Acetate Injection and treat appropriately.
 
 # PRECAUTIONS
 
@@ -20,7 +23,7 @@ Cardiac conduction abnormalities have also occurred during treatment with octreo
 However, the incidence of these adverse events during long-term therapy was determined vigorously only in acromegaly patients who, due to their underlying disease and/or the subsequent treatment they receive, are at an increased risk for the development of diabetes mellitus, hypothyroidism, and cardiovascular disease.
 Although the degree to which these abnormalities are related to octreotide acetate therapy is not clear, new abnormalities of glycemic control, thyroid function and ECG developed during octreotide acetate therapy as described below.
 
-Risk of Pregnancy with Normalization of IGF-I and GH
+## Risk of Pregnancy with Normalization of IGF-I and GH
 
 Although acromegaly may lead to infertility, there are reports of pregnancy in acromegalic women.
 In women with active acromegaly who have been unable to become pregnant, normalization of GH and IGF-I may restore fertility.
@@ -56,13 +59,15 @@ Depressed vitamin B12 levels and abnormal Schilling's tests have been observed i
 ## Information for Patients
 
 Careful instruction in sterile subcutaneous injection technique should be given to the patients and to other persons who may administer Octreotide Acetate Injection.
+Inform patients that cholelithiasis has been reported with the use of Octreotide Acetate Injection.
+Advise patients to contact their healthcare provider if they experience signs or symptoms of gallstones (cholelithiasis) or complications of gallstones (e.g., cholecystitis, cholangitis, and pancreatitis).
 
-## ​Laboratory Tests
+## Laboratory Tests
 
 Laboratory tests that may be helpful as biochemical markers in determining and following patient response depend on the specific tumor.
 Based on diagnosis, measurement of the following substances may be useful in monitoring the progress of therapy:
 
-Acromegaly: Growth Hormone, IGF-I (somatomedin C) responsiveness to octreotide acetate may be evaluated by determining growth hormone levels at 1 to 4 hour intervals for 8 to 12 hours post dose.
+Acromegaly: Growth Hormone, IGF-I (somatomedin C) Responsiveness to octreotide acetate may be evaluated by determining growth hormone levels at 1 to 4 hour intervals for 8 to 12 hours post dose.
 Alternatively, a single measurement of IGF-I (somatomedin C) level may be made two weeks after drug initiation or dosage change.
 
 Carcinoid: 5-HIAA (urinary 5-hydroxyindole acetic acid), plasma serotonin, plasma Substance P
@@ -82,7 +87,7 @@ Concomitant administration of octreotide and bromocriptine increases the availab
 Limited published data indicate that somatostatin analogs might decrease the metabolic clearance of compounds known to be metabolized by cytochrome P450 enzymes, which may be due to the suppression of growth hormones.
 Since it cannot be excluded that octreotide may have this effect, other drugs mainly metabolized by CYP3A4 and which have a low therapeutic index (e.g., quinidine, terfenadine) should therefore be used with caution.
 
-## Drug Laboratory Test Interactions
+## Drug/Laboratory Test Interactions
 
 No known interference exists with clinical laboratory tests, including amine or peptide determinations.
 
@@ -101,8 +106,6 @@ The presence of endometritis coupled with the absence of corpora lutea, the redu
 Octreotide acetate did not impair fertility in rats at doses up to 1000 mcg/kg/day, which represents 7x the human exposure based on body surface area.
 
 ## Pregnancy
-
-### Teratogenic Effects: Pregnancy Category B
 
 There are no adequate and well-controlled studies of octreotide use in pregnant women.
 Reproduction studies have been performed in rats and rabbits at doses up to 16 times the highest recommended human dose based on body surface area and revealed no evidence of harm to the fetus due to octreotide.
