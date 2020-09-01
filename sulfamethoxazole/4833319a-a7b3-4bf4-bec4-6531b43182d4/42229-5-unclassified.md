@@ -5,3 +5,5 @@ To reduce the development of drug-resistant bacteria and maintain the effectiven
 Distributed by: Sun Pharmaceutical Industries, Inc.
 
 Cranbury, NJ 08512
+
+Rev 08, August 2020

@@ -23,9 +23,9 @@ Cross-sensitivity may exist with these agents.
 Diuresis and hypoglycemia have occurred rarely in patients receiving sulfonamides.
 
 Musculoskeletal: Arthralgia and myalgia.
-Isolated cases of rhabdomyolysis have been reported with sulfamethoxazole and trimethoprim, mainly in AIDS patients.
+Isolated cases of rhabdomyolysis have been reported with sulfamethoxazole and trimethoprim tablets, mainly in AIDS patients.
 
-Respiratory: Cough, shortness of breath and pulmonary infiltrates (seeWARNINGS).
+Respiratory: Cough, shortness of breath and pulmonary infiltrates (see WARNINGS).
 
 Miscellaneous: Weakness, fatigue, insomnia.
 

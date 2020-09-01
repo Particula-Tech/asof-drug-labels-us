@@ -28,26 +28,34 @@ Thirty percent of the total sulfonamide is excreted as free sulfamethoxazole, wi
 
 Both sulfamethoxazole and trimethoprim distribute to sputum, vaginal fluid and middle ear fluid; trimethoprim also distributes to bronchial secretion, and both pass the placental barrier and are excreted in human milk.
 
-Geriatric Pharmacokinetics: The pharmacokinetics of sulfamethoxazole 800 mg and trimethoprim 160 mg were studied in 6 geriatric subjects (mean age: 78.6 years) and 6 young healthy subjects (mean age: 29.3 years) using a non-US approved formulation.
+Pharmacokinetics in Pediatric Patients: A simulation conducted with data from a pharmacokinetic study in 153 infants and children demonstrated that mean steady state AUC and maximum plasma concentration of trimethoprim and sulfamethoxazole would be comparable between pediatric patients 2 months to 18 years receiving 8/40 (trimethoprim/sulfamethoxazole) mg/kg/day divided every 12 hours and adult patients receiving 320/1600 (trimethoprim/ sulfamethoxazole) mg/day.
+
+Pharmacokinetics in Geriatric Patients: The pharmacokinetics of sulfamethoxazole 800 mg and trimethoprim 160 mg were studied in 6 geriatric subjects (mean age: 78.6 years) and 6 young healthy subjects (mean age: 29.3 years) using a non-US approved formulation.
 Pharmacokinetic values for sulfamethoxazole in geriatric subjects were similar to those observed in young adult subjects.
 The mean renal clearance of trimethoprim was significantly lower in geriatric subjects compared with young adult subjects (19 mL/h/kg vs. 55 mL/h/kg).
 However, after normalizing by body weight, the apparent total body clearance of trimethoprim was on average 19% lower in geriatric subjects compared with young adult subjects.3
 
 ## Microbiology
 
+Mechanism of Action
+
 Sulfamethoxazole inhibits bacterial synthesis of dihydrofolic acid by competing with para-aminobenzoic acid (PABA).
 Trimethoprim blocks the production of tetrahydrofolic acid from dihydrofolic acid by binding to and reversibly inhibiting the required enzyme, dihydrofolate reductase.
 Thus, sulfamethoxazole and trimethoprim blocks two consecutive steps in the biosynthesis of nucleic acids and proteins essential to many bacteria.
 
+Resistance
+
 In vitro studies have shown that bacterial resistance develops more slowly with both sulfamethoxazole and trimethoprim in combination than with either sulfamethoxazole or trimethoprim alone.
 
-Sulfamethoxazole and trimethoprim have been shown to be active against most strains of the following microorganisms, both in vitro and in clinical infections as described in the INDICATIONS AND USAGE section.
+Antimicrobial Activity
 
-Aerobic gram-positive microorganisms: Streptococcus pneumoniae
+Sulfamethoxazole and trimethoprim have been shown to be active against most isolates of the following microorganisms, both in vitro and in clinical infections as described in the INDICATIONS AND USAGE section.
 
-Aerobic gram-negative microorganisms: Escherichia coli (including susceptible enterotoxigenic strains implicated in traveler's diarrhea) Klebsiella species Enterobacter species Haemophilus influenzae Morganella morganii Proteus mirabilis Proteus vulgaris Shigella flexneri Shigella sonnei
+Aerobic gram-positive bacteria: Streptococcus pneumoniae
 
-Other Organisms: Pneumocystis jiroveci
+Aerobic gram-negative bacteria: Escherichia coli (including susceptible enterotoxigenic strains implicated in traveler's diarrhea) Klebsiella species Enterobacter species Haemophilus influenzae Morganella morganii Proteus mirabilis Proteus vulgaris Shigella flexneri Shigella sonnei
+
+Other Microorganisms: Pneumocystis jirovecii
 
 Susceptibility Testing
 
