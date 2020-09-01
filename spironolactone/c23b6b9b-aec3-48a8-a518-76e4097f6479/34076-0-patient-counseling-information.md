@@ -5,4 +5,4 @@ Patients who receive spironolactone tablets should be advised to avoid potassium
 1. Distributed by: Sun Pharmaceutical Industries, Inc.
 2. Cranbury, NJ 08512
 
-Rev 10, July 2018
+Rev 11, August 2020

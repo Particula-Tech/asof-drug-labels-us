@@ -11,7 +11,7 @@ It may be given alone or with other diuretic agents that act more proximally in 
 
 Aldosterone antagonist activity: Increased levels of the mineralocorticoid, aldosterone, are present in primary and secondary hyperaldosteronism.
 Edematous states in which secondary aldosteronism is usually involved include congestive heart failure, hepatic cirrhosis, and nephrotic syndrome.
-By competing with aldosterone for receptor sites, Spironolactone provides effective therapy for the edema and ascites in those conditions.
+By competing with aldosterone for receptor sites, spironolactone provides effective therapy for the edema and ascites in those conditions.
 
 Spironolactone counteracts secondary aldosteronism induced by the volume depletion and associated sodium loss caused by active diuretic therapy.
 
@@ -33,14 +33,12 @@ Elimination
 The mean half-life of spironolactone is 1.4 hour.
 The mean half-life values of its metabolites including canrenone, 7-α-(thiomethyl) spirolactone (TMS), and 6-ß-hydroxy-7-α-(thiomethyl) spirolactone (HTMS) are 16.5, 13.8, and 15 hours, respectively.
 
-Metabolism
-
-Spironolactone is rapidly and extensively metabolized.
+Metabolism: Spironolactone is rapidly and extensively metabolized.
 Metabolites can be divided into two main categories: those in which sulfur of the parent molecule is removed (e.g., canrenone) and those in which the sulfur is retained (e.g., TMS and HTMS).
 In humans, the potencies of TMS and 7-α-thiospirolactone in reversing the effects of the synthetic mineralocorticoid, fludrocortisone, on urinary electrolyte composition were approximately a third relative to spironolactone.
 However, since the serum concentrations of these steroids were not determined, their incomplete absorption and/or first-pass metabolism could not be ruled out as a reason for their reduced in vivo activities.
 
-Excretion:The metabolites are excreted primarily in the urine and secondarily in bile.
+Excretion: The metabolites are excreted primarily in the urine and secondarily in bile.
 
 Specific Populations
 
@@ -52,7 +50,7 @@ Drug Interaction Studies:
 
 Drugs and Supplements Increasing Serum Potassium: Concomitant administration of spironolactone tablets with potassium supplementation, salt substitutes containing potassium, a diet rich in potassium, or drugs that can increase potassium, including ACE inhibitors, angiotensin II antagonists, non-steroidal anti-inflammatory drugs (NSAIDs), heparin and low molecular weight heparin, may lead to severe hyperkalemia [see Warnings and Precautions (5.1) and Drug Interactions (7.1)].
 
-Lithium: Spironolactone tablets reduces the renal clearance of lithium, inducing a high risk of lithium toxicity [see Warnings and Precautions (5.1) and Drug Interactions (7.2)].
+Lithium: Spironolactone tablets reduces the renal clearance of lithium, inducing a high risk of lithium toxicity [see Drug Interactions (7.2)].
 
 Nonsteroidal Anti-Inflammatory Drugs (NSAIDs): In some patients, the administration of an NSAID can reduce the diuretic, natriuretic, and antihypertensive effect of loop, potassium-sparing, and thiazide diuretics [see Drug Interactions (7.3)].
 
