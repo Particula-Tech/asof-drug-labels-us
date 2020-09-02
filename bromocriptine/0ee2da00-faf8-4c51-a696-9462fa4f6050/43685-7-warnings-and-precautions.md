@@ -168,7 +168,21 @@ Increased perinatal loss was produced in the subgroups of dams, sacrificed on da
 
 ## Pregnancy
 
-### Category B:
+Administration of 10-30 mg/kg of bromocriptine to 2 strains of rats on days 6 to 15 postcoitum (p.c.) as well as a single dose of 10 mg/kg on day 5 p.c. interfered with nidation.
+
+Three mg/kg given on days 6 to 15 were without effect on nidation, and did not produce any anomalies.
+In animals treated from day 8-15 p.c., i.e., after implantation, 30 mg/kg produced increased prenatal mortality in the form of increased incidence of embryonic resorption.
+One anomaly, aplasia of spinal vertebrae and ribs, was found in the group of 262 fetuses derived from the dams treated with 30 mg/kg bromocriptine.
+No fetotoxic effects were found in offspring of dams treated during the peri- or postnatal period.
+
+Two studies were conducted in rabbits (2 strains) to determine the potential to interfere with nidation.
+Dose levels of 100 or 300 mg/kg/day from day 1 to day 6 p.c. did not adversely affect nidation.
+The high dose was approximately 63 times the maximum human dose administered in controlled clinical trials (100 mg/day), based on body surface area.
+In New Zealand white rabbits, some embryo mortality occurred at 300 mg/kg which was a reflection of overt maternal toxicity.
+Three studies were conducted in 2 strains of rabbits to determine the teratological potential of bromocriptine at dose levels of 3, 10, 30, 100, and 300 mg/kg given from day 6 to day 18 p.c.
+In 2 studies with the Yellow-silver strain, cleft palate was found in 3 and 2 fetuses at maternally toxic doses of 100 and 300 mg/kg, respectively.
+One control fetus also exhibited this anomaly.
+In the third study conducted with New Zealand white rabbits using an identical protocol, no cleft palates were produced.
 
 Administration of 10-30 mg/kg of bromocriptine to 2 strains of rats on days 6 to 15 postcoitum (p.c.) as well as a single dose of 10 mg/kg on day 5 p.c. interfered with nidation.
 
