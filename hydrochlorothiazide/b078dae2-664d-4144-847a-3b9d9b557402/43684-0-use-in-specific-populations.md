@@ -56,7 +56,7 @@ Telmisartan
 No teratogenic effects were observed when telmisartan was administered to pregnant rats at oral doses of up to 50 mg/kg/day and to pregnant rabbits at oral doses of up to 45 mg/kg/day.
 In rabbits, embryo lethality associated with maternal toxicity (reduced body weight gain and food consumption) was observed at 45 mg/kg/day (approximately 12 times the maximum recommended human dose [MRHD] of 80 mg on a mg/m2 basis).
 In rats, maternally toxic (reduced body weight gain and food consumption) telmisartan doses of 15 mg/kg/day (approximately 1.9 times the MRHD on a mg/m2 basis), administered during late gestation and lactation, were observed to produce adverse effects in neonates, including reduced viability, low birth weight, delayed maturation, and decreased weight gain.
-The no-observed effect doses for developmental toxicity in rats and rabbits, 5 and 15 mg/kg/day, respectively, are approximately 0.64 and 3.7 times, respectively, on a mg/m2 basis, the MRHD of telmisartan (80 mg/day).
+The no-observed-effect doses for developmental toxicity in rats and rabbits, 5 and 15 mg/kg/day, respectively, are approximately 0.64 and 3.7 times, respectively, on a mg/m2 basis, the MRHD of telmisartan (80 mg/day).
 
 Hydrochlorothiazide
 
@@ -76,8 +76,7 @@ Risk Summary
 There is no information regarding the presence of MICARDIS HCT or telmisartan in human milk, the effects on the breastfed infant or the effects on milk production.
 Limited published studies report that hydrochlorothiazide is present in human milk.
 However, there is insufficient information to determine the effects of hydrochlorothiazide on the breastfed infant or the effects of hydrochlorothiazide on milk production.
-Telmisartan is present in the milk of lactating rats.
-(see Data).
+Telmisartan is present in the milk of lactating rats (see Data).
 Because of the potential for serious adverse reactions in the breastfed infant including hypotension, hyperkalemia and renal impairment, advise a nursing woman not to breastfeed during treatment with MICARDIS HCT.
 
 Data

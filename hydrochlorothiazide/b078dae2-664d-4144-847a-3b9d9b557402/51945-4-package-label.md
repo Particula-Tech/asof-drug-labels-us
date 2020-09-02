@@ -2,7 +2,7 @@
 
 NDC 0597-0043-37
 
-Micardis® HCT (telmisartan/hydrochlorothiazide) Tablets
+Micardis® HCT (telmisartan/ hydrochlorothiazide tablets)
 
 40 mg/12.5 mg
 
@@ -23,7 +23,7 @@ Boehringer Ingelheim
 
 NDC 0597-0044-37
 
-Micardis® HCT (telmisartan/hydrochlorothiazide) Tablets
+Micardis® HCT (telmisartan/ hydrochlorothiazide tablets)
 
 80 mg/12.5 mg
 
@@ -44,7 +44,7 @@ Boehringer Ingelheim
 
 NDC 0597-0042-37
 
-Micardis® HCT (telmisartan/hydrochlorothiazide) Tablets
+Micardis® HCT (telmisartan/ hydrochlorothiazide tablets)
 
 80 mg/25 mg
 

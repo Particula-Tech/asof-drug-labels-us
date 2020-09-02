@@ -73,8 +73,8 @@ Following oral administration, peak concentrations (Cmax) of telmisartan are rea
 Food slightly reduces the bioavailability of telmisartan, with a reduction in the area under the plasma concentration-time curve (AUC) of approximately 6% with 40 mg and approximately 20% after a 160 mg dose.
 MICARDIS HCT can be administered with or without food.
 The absolute bioavailability of telmisartan is dose dependent.
-At 40 and 160 mg the bioavailability was 42% and 58%, respectively.
-The pharmacokinetics of telmisartan with orally administered MICARDIS are nonlinear over the dose range 20 to 160 mg, with greater than proportional increases of plasma concentrations (Cmax and AUC) with increasing doses.
+At 40 mg and 160 mg, the bioavailability was 42% and 58%, respectively.
+The pharmacokinetics of telmisartan with orally administered MICARDIS are nonlinear over the dose range 20 mg to 160 mg, with greater than proportional increases of plasma concentrations (Cmax and AUC) with increasing doses.
 Telmisartan shows bi-exponential decay kinetics with a terminal elimination half-life of approximately 24 hours.
 Trough plasma concentrations of telmisartan with once-daily dosing are approximately 10% to 25% of peak plasma concentrations.
 Telmisartan has an accumulation index in plasma of 1.5 to 2.0 upon repeated once-daily dosing.

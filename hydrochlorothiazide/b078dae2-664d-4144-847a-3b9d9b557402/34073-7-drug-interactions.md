@@ -43,7 +43,7 @@ Monitor digoxin levels in patients taking concomitant MICARDIS HCT and digoxin.
 
 ## 7.6 Antidiabetic Drugs (Oral Agents and Insulin)
 
-Dosage adjustment of antidiabetic drugs may be required when coadministered with hydrochlorothiazide.
+Dosage adjustment of antidiabetic drugs may be required when co-administered with hydrochlorothiazide.
 
 ## 7.7 Cholestyramine and Colestipol Resins
 

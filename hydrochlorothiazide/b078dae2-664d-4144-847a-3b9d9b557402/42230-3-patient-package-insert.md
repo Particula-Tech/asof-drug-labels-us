@@ -1,4 +1,4 @@
-# Patient Information MICARDIS® HCT (my-CAR-dis HCT) (telmisartan and hydrochlorothiazide) Tablets
+# Patient Information MICARDIS® HCT (my-CAR-dis HCT) (telmisartan and hydrochlorothiazide tablets)
 
 Read this Patient Information before you start taking MICARDIS HCT tablets and each time you get a refill.
 There may be new information.
@@ -112,14 +112,18 @@ MICARDIS HCT tablets may cause serious side effects, including:
   Tell your doctor right away if you get any of these symptoms:
   - swelling of the face, tongue, throat
   - difficulty breathing
-  - Worsening of lupus.
-    Tell your doctor if your lupus gets worse or becomes active while taking MICARDIS HCT.
+- Worsening of lupus.
+  Tell your doctor if your lupus gets worse or becomes active while taking MICARDIS HCT.
 - Change in body salts (electrolytes) level in your blood and fluid problems.
   Your doctor may do tests to check your blood.
   Call your doctor right away if you have:
 
 |  | dry mouththirsttirednesssleepinessrestlessnessconfusion | seizuresfast heartbeatsweaknessmuscle pain or crampsvery low urine outputnausea or vomiting |
 | --- | --- | --- |
+
+- Skin Cancer.
+  One of the medicines in MICARDIS HCT may increase your risk of getting non-melanoma skin cancer.
+  Protect your skin from the sun and undergo regular skin cancer screening when taking MICARDIS HCT.
 
 The most common side effects of MICARDIS HCT tablets include:
 
@@ -179,7 +183,7 @@ How to open the blister:
 
 1. Tear (You may also use scissors to tear the blister apart)
 2. Peel (Peel off the paper layer from the aluminum foil)
-3. Push (Push the tablet through the foil)
+3. Push (Push the tablet through the aluminum foil)
 
 This Patient Information has been approved by the U.S. Food and Drug Administration.
 
@@ -187,11 +191,12 @@ Distributed by: Boehringer Ingelheim Pharmaceuticals, Inc. Ridgefield, CT 06877 
 
 Licensed from: Boehringer Ingelheim International GmbH Ingelheim, Germany
 
-Copyright © 2018 Boehringer Ingelheim International GmbH ALL RIGHTS RESERVED
+Copyright © 2020 Boehringer Ingelheim International GmbH ALL RIGHTS RESERVED
 
 MICARDIS® is a registered trademark of and used under license from Boehringer Ingelheim International GmbH.
-The other brands listed are trademarks of their owners.
 
-Revised: February 2018
+The other brands listed are trademarks of their respective owners and are not trademarks of Boehringer Ingelheim Pharmaceuticals, Inc.
 
-IT5825DB092018
+Revised: August 2020
+
+IT5825EH262020
