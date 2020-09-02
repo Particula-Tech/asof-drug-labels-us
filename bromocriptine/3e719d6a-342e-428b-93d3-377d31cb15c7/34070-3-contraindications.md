@@ -7,6 +7,7 @@ CYCLOSET is contraindicated in:
   Bromocriptine increases the likelihood of a hypotensive episode among patients with syncopal migraine.
   Loss of consciousness during a migraine may reflect dopamine receptor hypersensitivity.
   CYCLOSET is a dopamine receptor agonist and may, therefore, potentiate the risk for syncope in these patients.
-- Women who are nursing their children.
-  CYCLOSET may inhibit lactation.
-  There are postmarketing reports of stroke in this patient population although causality has not been proven [see Use in Specific Populations (8.3)].
+- Postpartum patients.
+  Serious and life-threatening adverse reactions have been reported with bromocriptine use in this population [see Warnings and Precautions (5.7) Adverse Reactions (6.2)].
+- Lactating patients.
+  CYCLOSET contains bromocriptine which inhibits lactation [see Use in Specific Populations (8.2)].

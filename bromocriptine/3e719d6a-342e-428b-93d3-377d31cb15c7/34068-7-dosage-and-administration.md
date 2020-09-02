@@ -4,6 +4,8 @@
 
 The recommended dose of CYCLOSET is 1.6 mg to 4.8 mg administered once daily within two hours after waking in the morning.
 CYCLOSET should be taken with food to potentially reduce gastrointestinal side effects such as nausea.
+If the morning dose is missed, instruct patients to take their usual dose the following morning.
+Doses of CYCLOSET should not be doubled the following morning.
 
 ## 2.2 Titration
 

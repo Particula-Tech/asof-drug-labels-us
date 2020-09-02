@@ -9,7 +9,7 @@ In patients with type 2 diabetes, treatment with CYCLOSET produced clinically si
 
 ## 14.1 Monotherapy
 
-A total of 159 overweight (body mass index ≥26.0 kg/m2 for males and ≥28.0 kg/m2 for females) adults with type 2 diabetes and inadequate glycemic control (HbA1c 7.5-11%) participated in a 24-week, placebo-controlled, monotherapy trial that evaluated the efficacy and safety of CYCLOSET as an adjunct to diet and exercise.
+A total of 159 adults with type 2 diabetes, overweight (body mass index ≥26.0 kg/m2 for males and ≥28.0 kg/m2 for females), and inadequate glycemic control (HbA1c 7.5-11%) participated in a 24-week, placebo-controlled, monotherapy trial that evaluated the efficacy and safety of CYCLOSET as an adjunct to diet and exercise.
 Mean body weight at baseline was 93 kg in the CYCLOSET group and 96 kg in the placebo group.
 Mean HbA1c at baseline was 9.0% in the CYCLOSET group and 8.8% in the placebo group.
 Mean duration of diabetes at baseline was 5 years in the CYCLOSET group and 4 years in the placebo group.
@@ -24,12 +24,12 @@ Table 2: Changes in Glycemic Parameters in a 24-Week Placebo-Controlled Study of
 | HbA1c (%) | N = 74 | N = 74 |
 | Baseline (mean) | 9.0 | 8.8 |
 | Change from baseline (adj. mean) | -0.1 | 0.3 |
-| Difference from placebo (adj. mean) | -0.4* |  |
+| Difference from placebo (adj. mean) | -0.4p = 0.05, |  |
 | Fasting Plasma Glucose (mg/dL) | N = 76 | N = 75 |
 | Baseline (mean) | 215 | 205 |
 | Change from baseline (adj. mean) | 0 | 23 |
-| Difference from placebo (adj. mean) | -23** |  |
-| P-value calculated by ANOVA; *p = 0.05, **p = 0.005 |  |  |
+| Difference from placebo (adj. mean) | -23p = 0.005 |  |
+| P-value calculated by ANOVA; |  |  |
 
 ## 14.2 Combination Therapy
 
@@ -55,12 +55,12 @@ Table 3: Changes in Glycemic Parameters for CYCLOSET Versus Placebo in Two Add-o
 | HbA1c (%) | n = 114 | n = 122 | n = 114 | n = 123 |
 | Baseline (mean) | 9.3 | 9.4 | 9.3 | 9.4 |
 | Change from baseline (adj. mean) | -0.1 | 0.4 | -0.4 | 0.3 |
-| Difference from placebo (adj. mean) | -0.5* |  | -0.6* |  |
+| Difference from placebo (adj. mean) | -0.5p≤ 0.001, |  | -0.6 |  |
 | Fasting Plasma Glucose (mg/dL) | n = 116 | n = 119 | n = 113 | n = 123 |
 | Baseline (mean) | 216 | 227 | 220 | 226 |
 | Change from baseline (adj. mean) | 10 | 28 | 3 | 23 |
-| Difference from placebo (adj. mean) | -18** |  | -20‡ |  |
-| P-value calculated by ANOVA; *p≤ 0.001,**p = 0.02; ‡ p = 0.006 |  |  |  |  |
+| Difference from placebo (adj. mean) | -18p = 0.02; |  | -20p = 0.006 |  |
+| P-value calculated by ANOVA; |  |  |  |  |
 
 CYCLOSET Add-on to Various Oral Antidiabetic Agents
 
