@@ -1,5 +1,6 @@
 # 17 PATIENT COUNSELING INFORMATION
 
+Advise the patient to read the FDA-approved patient labeling (Medication Guide).
 Dosing Instructions Advise patients to take deferasirox tablets with water or other liquids.
 Advise patients to swallow deferasirox tablets once daily with water or other liquids, preferably at the same time each day.
 Advise patients to take deferasirox tablets on an empty stomach or with a light meal (contains less than 7% fat content and approximately 250 calories).
@@ -14,9 +15,9 @@ Advise patients to contact their healthcare provider immediately if they experie
 Hepatic Toxicity and Failure Caution patients about the potential for hepatic toxicity when taking deferasirox tablets.
 Inform patients of the signs and symptoms of hepatic toxicity.
 Advise patients to contact their healthcare provider immediately if they experience any of these symptoms [see Warnings and Precautions (5.2)].
-Gastrointestinal Ulceration and Hemorrhage Caution patients about the potential for the development of GI ulcers or bleeding when taking deferasirox in combination with drugs that have ulcerogenic or hemorrhagic potential, such as NSAIDs, corticosteroids, oral bisphosphonates, or anticoagulants.
+GI Ulceration and Hemorrhage Caution patients about the potential for the development of GI ulcers or bleeding when taking deferasirox in combination with drugs that have ulcerogenic or hemorrhagic potential, such as NSAIDs, corticosteroids, oral bisphosphonates, or anticoagulants.
 Inform patients of the signs and symptoms of GI ulcers or bleeding.
-Advise patients to contact their healthcare provider for symptoms of heartburn but to seek immediate medical attention for symptoms of gastrointestinal hemorrhage (5.3)].
+Advise patients to contact their healthcare provider for symptoms of heartburn but to seek immediate medical attention for symptoms of GI hemorrhage [see Warnings and Precautions (5.3)].
 Allergic Reactions Serious allergic reactions (which include swelling of the throat) have been reported in patients taking-deferasirox, usually within the first month of treatment.
 If reactions are severe, advise patients to stop taking deferasirox immediately and seek immediate medical attention [see Warnings and Precautions (5.7)].
 Severe Skin Reactions Severe skin reactions have been reported in patients taking deferasirox tablets.
@@ -36,4 +37,4 @@ Based on serum ferritin levels and clinical response, consider increases in the 
 Caution patients with diabetes to monitor their glucose levels more frequently when repaglinide is used concomitantly with deferasirox [see Drug Interactions (7.3)].
 Handling Instructions Advise patients to store deferasirox in a dry, room-temperature environment [see How Supplied/Storage and Handling (16)].
 Driving and Using Machines Caution patients experiencing dizziness to avoid driving or operating machinery [see Adverse Reactions (6.1)].
-Manufactured by: MSN Laboratories Private Limited Telangana – 509 216, INDIA Distributed by: MSN Pharmaceuticals Inc. Piscataway, NJ 08854-3714 Issued on: October 2019
+Manufactured by: MSN Laboratories Private Limited Telangana – 509 216, INDIA Distributed by: MSN Pharmaceuticals Inc. Piscataway, NJ 08854-3714 Issued on: August 2020

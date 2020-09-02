@@ -30,18 +30,23 @@ Safety and effectiveness have not been established in pediatric patients less th
 Pediatric approval for treatment of transfusional iron overload was based on clinical studies of 292 pediatric patients 2 years to less than 16 years of age with various congenital and acquired anemias.
 Seventy percent of these patients had beta-thalassemia[see Indications and Usage (1), Dosage and Administration (2.1),Clinical Studies (14)].
 In those clinical studies, 173 children (ages 2 to < 12 years) and 119 adolescents (ages 12 to < 17 years) were exposed to deferasirox.
+Iron Overload in Non-Transfusion-Dependent Thalassemia Syndromes The safety and effectiveness of Deferasirox have been established in patients 10 years of age and older for the treatment of chronic iron overload with non-transfusion-dependent thalassemia (NTDT) syndromes [see Dosage and Administration (2.2)].
+Safety and effectiveness have not been established in patients less than 10 years of age with chronic iron overload in NTDT syndromes.
+Pediatric approval for treatment of NTDT syndromes with liver iron (Fe) concentration (LIC) of at least 5 mg Fe per gram of dry weight and a serum ferritin greater than 300 mcg/L was based on 16 pediatric patients treated with deferasirox therapy (10 years to less than 16 years of age) with chronic iron overload and NTDT.
+Use of deferasirox in these age groups is supported by evidence from adequate and well-controlled studies of deferasirox in adult and pediatric patients [see Indications and Usage (1.2),Dosage and Administration (2.2),Clinical Studies (14)].
 In general, risk factors for deferasirox-associated kidney injury include preexisting renal disease, volume depletion, overchelation, and concomitant use of other nephrotoxic drugs.
 Acute kidney injury, and acute liver injury and failure has occurred in pediatric patients.
 In a pooled safety analysis, pediatric patients with higher deferasirox exposures had a greater probability of renal toxicity and decreased renal function, resulting in increased deferasirox exposure and progressive renal toxicity/kidney injury.
-Higher rates of renal adverse events have been identified among pediatric patients receiving deferasirox tablets for oral suspension doses greater than 25 mg/kg/day equivalent to 17.5 mg/kg/day deferasirox when their serum ferritin values were less than 1,000 mcg/L [see Dosage and Administration (2.5), Warnings and Precautions (5.1, 5.6), Adverse Reactions (6.1, 6.2)].
+Higher rates of renal AEs have been identified among pediatric patients receiving deferasirox tablets for oral suspension doses greater than 25 mg/kg/day equivalent to 17.5 mg/kg/day deferasirox when their serum ferritin values were less than 1,000 mcg/L [see Dosage and Administration (2.5), Warnings and Precautions (5.1, 5.6), Adverse Reactions (6.1, 6.2)].
+Monitoring recommendations for all pediatric patients with Transfusional Iron Overload and NTDT It is recommended that serum ferritin be monitored every month to assess the patient’s response to therapy and to minimize the risk of overchelation [see Warnings and Precautions (5.6)].
 Monitor renal function by estimating GFR using an eGFR prediction equation appropriate for pediatric patients and evaluate renal tubular function.
 Monitor renal function more frequently in pediatric patients in the presence of renal toxicity risk factors, including episodes of dehydration, fever and acute illness that may result in volume depletion or decreased renal perfusion.
 Use the minimum effective dose [see Warnings and Precautions (5.1)].
-Interrupt deferasirox in pediatric patients with transfusional iron overload, for acute illnesses, which can cause volume depletion, such as vomiting, diarrhea, or prolonged decreased oral intake, and monitor more frequently.
+Interrupt deferasirox in pediatric patients with transfusional iron overload, and consider dose interruption in pediatric patients with non-transfusion-dependent iron overload, for acute illnesses, which can cause volume depletion, such as vomiting, diarrhea, or prolonged decreased oral intake, and monitor more frequently.
 Resume therapy as appropriate, based on assessments of renal function, when oral intake and volume status are normal.
 Evaluate the risk benefit profile of continued deferasirox use in the setting of decreased renal function.
 Avoid use of other nephrotoxic drugs [see Dosage and Administration (2.5),Warnings and Precautions (5.1)].
-JuveRenile Animal Toxicity Data Renal toxicity was observed in adult mice, rats, and marmoset monkeys administered deferasirox at therapeutic doses.
+Juvenile Animal Toxicity Data Renal toxicity was observed in adult mice, rats, and marmoset monkeys administered deferasirox at therapeutic doses.
 In a neonatal and juvenile toxicity study in rats, deferasirox was administered orally from postpartum Day 7 through 70, which equates to a human age range of term neonate through adolescence.
 Increased renal toxicity was identified in juvenile rats compared to adult rats at a dose based on mg/m2 approximately 0.4 times the recommended dose of 20 mg/kg/day.
 A higher frequency of renal abnormalities was noted when deferasirox was administered to non-iron overloaded animals compared to iron overloaded animals.
@@ -50,8 +55,8 @@ However, due to Novartis Pharmaceuticals Corporation’s marketing exclusivity r
 
 ## 8.5 Geriatric Use
 
-Four hundred thirty-one patients greater than or equal to 65 years of age were studied in clinical trials of deferasirox in the transfusional iron overload setting.
-Two hundred twenty-five of these patients were between 65 and 75 years of age while 206 were greater than or equal to 75 years of age.
+Four hundred thirty-one (431) patients greater than or equal to 65 years of age were studied in clinical trials of deferasirox in the transfusional iron overload setting.
+Two hundred twenty-five (225) of these patients were between 65 and 75 years of age while 206 were greater than or equal to 75 years of age.
 The majority of these patients had myelodysplastic syndrome (MDS) (n=393).
 In these trials, elderly patients experienced a higher frequency of adverse reactions than younger patients.
 Monitor elderly patients for early signs or symptoms of adverse reactions that may require a dose adjustment.

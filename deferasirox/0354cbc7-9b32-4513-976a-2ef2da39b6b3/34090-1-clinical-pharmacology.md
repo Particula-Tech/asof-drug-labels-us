@@ -26,7 +26,7 @@ The bioavailability (as measured by AUC inf) of deferasirox tablets was 36% grea
 After strength- adjustment, the mean AUCinf of deferasirox tablets (i.e., 360 mg strength) was similar to that of deferasirox tablets for oral suspension (i.e., 500 mg strength) under fasting conditions; however the mean Cmax was increased by 30%.
 The 30% increase in Cmax observed with deferasirox tablets is not clinically meaningful.
 The administration of deferasirox tablets with a light meal (approximately 250 calories with fat content less than 7% of total calories) indicated that the AUCinf and Cmax were similar to that under fasting conditions.
-The administration of deferasirox tablets with a high-fat meal (approximately 1000 calories with fat content greater than 50% of total calories), increased AUCinf by 18% and Cmax by 29% compared to that under fasting conditions [see Dosage and Administration (2.3)].
+The administration of deferasirox tablets with a high-fat meal (approximately 1,000 calories with fat content greater than 50% of total calories), increased AUCinf by 18% and Cmax by 29% compared to that under fasting conditions [see Dosage and Administration (2.3)].
 Distribution Deferasirox is highly (~99%) protein bound almost exclusively to serum albumin.
 The percentage of deferasirox confined to the blood cells was 5% in humans.
 The volume of distribution at steady state (Vss) of deferasirox is 14.37 ± 2.69 L in adults.
@@ -40,7 +40,7 @@ Renal excretion of deferasirox and metabolites is minimal (8% of the dose).
 The mean elimination half-life (t1/2) ranged from 8 to 16 hours following oral administration.
 Drug Interactions Midazolam: The concomitant administration of deferasirox tablets for oral suspension and CYP3A4 probe substrate midazolam resulted in a decrease of midazolam Cmax by 23% and AUCinf by 17%.
 In the clinical setting, this effect may be more pronounced, as the study was not adequately designed to conclusively assess the potential induction of CYP3A4 by deferasirox [see Drug Interactions (7.2)].
-Repaglinide: The concomitant administration of deferasirox tablets for oral suspension (30 mg per kg/day for 4 days) and the CYP2C8 probe substrate repaglinide (single dose of 0.5 mg) increased repaglinide AUCinf to 2.3­ fold and Cmax of 1.6-fold [see Drug Interactions (7.3)].
+Repaglinide: The concomitant administration of deferasirox tablets for oral suspension (30 mg per kg/day for 4 days) and the CYP2C8 probe substrate repaglinide (single dose of 0.5 mg) increased repaglinide AUCinf to 2.3-­fold and Cmax of 1.6-fold [see Drug Interactions (7.3)].
 Theophylline: The concomitant administration of deferasirox tablets for oral suspension (repeated dose of 30 mg per kg/day) and the CYP1A2 substrate theophylline (single dose of 120 mg) resulted in an approximate doubling of the theophylline AUCinf and elimination half-life.
 The single dose Cmax was not affected, but an increase in theophylline Cmax is expected to occur with chronic dosing [see Drug Interactions (7.4)].
 Rifampicin: The concomitant administration of deferasirox tablets for oral suspension (single dose of 30 mg per kg) and the strong uridine diphosphate glucuronosyltransferase (UGT) inducer rifampicin (600 mg per day for 9 days) decreased deferasirox AUCinf by 44% [see Drug Interactions (7.5)].
