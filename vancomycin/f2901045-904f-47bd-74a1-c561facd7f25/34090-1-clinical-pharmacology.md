@@ -41,7 +41,7 @@ Diphtheroids Enterococci (e.g., Enterococcus faecalis) Staphylococci, including 
 
 The following in vitro data are available, but their clinical significance is unknown.
 
-At least 90% of the following bacteria exhibit an in vitro minimum inhibitory concentration (MIC) less than or equal to the susceptible breakpoint for vancomycin against isolates of similar genus or organism group; however, the safety and effectiveness of vancomycin in treating clinical infections due to these microorganisms have not been established in adequate and well-controlled clinical trials.
+Vancomycin exhibits in vitro MIC's of 1 mcg/mL or less against most (≥ 90%) strains of streptococci listed below and MIC's of 4 mcg/mL or less against most (≥ 90%) strains of other listed microorganisms; however, the safety and effectiveness of vancomycin in treating clinical infections due to these microorganisms have not been established in adequate and well-controlled clinical trials.
 
 #### Aerobic gram-positive microorganisms
 
