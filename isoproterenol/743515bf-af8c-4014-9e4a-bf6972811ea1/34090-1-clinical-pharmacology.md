@@ -14,7 +14,6 @@ It prevents or relieves bronchoconstriction, but tolerance to this effect develo
 In man, isoproterenol causes less hyperglycemia than does epinephrine.
 Isoproterenol and epinephrine are equally effective in stimulating the release of free fatty acids and energy production.
 
-Absorption, Fate, and Excretion.
-Isoproterenol is metabolized primarily in the liver and other tissues by COMT.
+Absorption, Fate, and Excretion Isoproterenol is metabolized primarily in the liver and other tissues by COMT.
 Isoproterenol is a relatively poor substrate for MAO and is not taken up by sympathetic neurons to the same extent as are epinephrine and norepinephrine.
 The duration of action of isoproterenol may therefore be longer than that of epinephrine, but is still brief.
