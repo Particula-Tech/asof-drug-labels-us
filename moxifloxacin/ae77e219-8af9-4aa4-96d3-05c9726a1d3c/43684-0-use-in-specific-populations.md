@@ -2,20 +2,46 @@
 
 ## 8.1 Pregnancy
 
-Pregnancy Category C
+Risk Summary
 
-Teratogenic Effects:
+There are no adequate and well-controlled studies with moxifloxacin ophthalmic solution in pregnant women to inform any drug-associated risks.
 
-Moxifloxacin was not teratogenic when administered to pregnant rats during organogenesis at oral doses as high as 500 mg/kg/day (approximately 21,700 times the highest recommended total daily human ophthalmic dose); however, decreased fetal body weights and slightly delayed fetal skeletal development were observed.
-There was no evidence of teratogenicity when pregnant Cynomolgus monkeys were given oral doses as high as 100 mg/kg/day (approximately 4,300 times the highest recommended total daily human ophthalmic dose).
-An increased incidence of smaller fetuses was observed at 100 mg/kg/day.
+Oral administration of moxifloxacin to pregnant rats and monkeys and intravenously to pregnant rabbits during the period of organogenesis did not produce adverse maternal or fetal effects at clinically relevant doses.
+Oral administration of moxifloxacin to pregnant rats during late gestation through lactation did not produce adverse maternal, fetal or neonatal effects at clinically relevant doses (see DATA).
 
-Since there are no adequate and well-controlled studies in pregnant women, moxifloxacin ophthalmic solution should be used during pregnancy only if the potential benefit justifies the potential risk to the fetus.
+Data
 
-## 8.3 Nursing Mothers
+Animal Data
 
-Moxifloxacin has not been measured in human milk, although it can be presumed to be excreted in human milk.
-Caution should be exercised when moxifloxacin ophthalmic solution is administered to a nursing mother.
+Embryo-fetal studies were conducted in pregnant rats administered with 20, 100, or 500 mg/kg/day moxifloxacin by oral gavage on Gestation Days 6 to 17, to target the period of organogenesis.
+Decreased fetal body weight and delayed skeletal development were observed at 500 mg/kg/day [277 times the human area under the curve (AUC) at the recommended human ophthalmic dose].
+The No-Observed-Adverse-Effect-Level (NOAEL) for developmental toxicity was 100 mg/kg/day (30 times the human AUC at the recommended human ophthalmic dose).
+
+Embryo-fetal studies were conducted in pregnant rabbits administered with 2, 6.5, or 20 mg/kg/day moxifloxacin by intravenous administration on Gestation Days 6 to 20, to target the period of organogenesis.
+Abortions, increased incidence of fetal malformations, delayed fetal skeletal ossification, and reduced placental and fetal body weights were observed at 20 mg/kg/day (1086 times the human AUC at the recommended human ophthalmic dose), a dose that produced maternal body weight loss and death.
+The NOAEL for developmental toxicity was 6.5 mg/kg/day (246 times the human AUC at the recommended human ophthalmic dose).
+
+Pregnant cynomolgus monkeys were administered moxifloxacin at doses of 10, 30, or 100 mg/kg/day by intragastric intubation between Gestation Days 20 and 50, targeting the period of organogenesis.
+At the maternal toxic doses of ≥ 30 mg/kg/day, increased abortion, vomiting, and diarrhea were observed.
+Smaller fetuses/reduced fetal body weights were observed at 100 mg/kg/day (2864 times the human AUC at the recommended human ophthalmic dose).
+The NOAEL for fetal toxicity was 10 mg/kg/day (174 times the human AUC at the recommended human ophthalmic dose).
+
+In a pre- and postnatal study, rats were administered moxifloxacin by oral gavage at doses of 20, 100, and 500 mg/kg/day from Gestation Day 6 until the end of lactation.
+Maternal death occurred during gestation at 500 mg/kg/day.
+Slight increases in the duration of pregnancy, reduced pup birth weight, and decreased prenatal and neonatal survival were observed at 500 mg/kg/day (estimated 277 times the human AUC at the recommended human ophthalmic dose).
+The NOAEL for pre- and postnatal development was 100 mg/kg/day (estimated 30 times the human AUC at the recommended human ophthalmic dose).
+
+## 8.2 Lactation
+
+Risk Summary
+
+There is no data regarding the presence of moxifloxacin in human milk, the effects on the breastfed infants, or the effects on milk production/excretion to inform risk of moxifloxacin ophthalmic solution to an infant during lactation.
+
+A study in lactating rats has shown transfer of moxifloxacin into milk following oral administration.
+
+Systemic levels of moxifloxacin following topical ocular administration are low [see CLINICAL PHARMACOLOGY (12.3)], and it is not known whether measurable levels of moxifloxacin would be present in maternal milk following topical ocular administration.
+
+The developmental and health benefits of breastfeeding should be considered along with the mother's clinical need for moxifloxacin ophthalmic solution and any potential adverse effects on the breastfed child from moxifloxacin ophthalmic solution.
 
 ## 8.4 Pediatric Use
 

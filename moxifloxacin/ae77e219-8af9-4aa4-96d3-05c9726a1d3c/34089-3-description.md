@@ -2,12 +2,16 @@
 
 Moxifloxacin ophthalmic solution USP, 0.5% is a sterile solution for topical ophthalmic use.
 Moxifloxacin hydrochloride is an 8-methoxy fluoroquinolone anti-infective, with a diazabicyclononyl ring at the C7 position.
+The chemical name for moxifloxacin hydrochloride is 1-Cyclopropyl-6-fluoro-1,4-dihydro-8-methoxy-7-[(4aS,7aS)-octahydro-6H-pyrrolol[3,4- b]pyridin-6-yl]-4-oxo-3-quinolinecarboxylic acid, monohydrochloride.
+The molecular formula for moxifloxacin hydrochloride is C21H24FN3O4•HCl and its molecular weight is 437.9 g/mol.
 
-Chemical Name: 1-Cyclopropyl-6-fluoro-1,4-dihydro-8-methoxy-7-[(4aS,7aS)-octahydro-6H-pyrrolol[3,4-b]pyridin-6-yl]-4-oxo-3-quinolinecarboxylic acid, monohydrochloride.
+The chemical structure is presented below:
+
 Moxifloxacin hydrochloride USP is a slightly yellow to yellow crystalline powder.
+
 Each mL of moxifloxacin ophthalmic solution USP contains 5.45 mg moxifloxacin hydrochloride USP equivalent to 5 mg moxifloxacin base.
 
-Contains:
+Moxifloxacin ophthalmic solution contains:
 
 Active: Moxifloxacin 0.5% (5 mg/mL);
 

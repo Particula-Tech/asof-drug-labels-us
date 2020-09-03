@@ -22,7 +22,7 @@ Streptococcus viridans group
 
 Acinetobacter lwoffii*
 
-Haemophilus influenzae
+Haemophilus influenza
 
 Haemophilus parainfluenzae*
 

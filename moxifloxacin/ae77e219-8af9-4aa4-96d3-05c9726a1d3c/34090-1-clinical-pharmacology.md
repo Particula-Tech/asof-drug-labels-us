@@ -7,7 +7,8 @@ Moxifloxacin is a member of the fluoroquinolone class of anti-infective drugs [s
 ## 12.3 Pharmacokinetics
 
 Plasma concentrations of moxifloxacin were measured in healthy adult male and female subjects who received bilateral topical ocular doses of moxifloxacin ophthalmic solution 3 times a day.
-The mean steady-state Cmax (2.7 ng/mL) and estimated daily exposure AUC (45 ng•hr/mL) values were 1,600 and 1,000 times lower than the mean Cmax and AUC reported after therapeutic 400 mg doses of moxifloxacin.
+
+The mean steady-state Cmax (2.7 ng/mL) and AUC0 to ∞ (41.9 ng•hr/mL) values were 1600 and 1100 times lower than the mean Cmax and AUC reported after therapeutic 400 mg doses of moxifloxacin.
 The plasma half-life of moxifloxacin was estimated to be 13 hours.
 
 ## 12.4 Microbiology
@@ -19,14 +20,14 @@ Topoisomerase IV is an enzyme known to play a key role in the partitioning of th
 The mechanism of action for quinolones, including moxifloxacin, is different from that of macrolides, aminoglycosides, or tetracyclines.
 Therefore, moxifloxacin may be active against pathogens that are resistant to these antibiotics and these antibiotics may be active against pathogens that are resistant to moxifloxacin.
 There is no cross-resistance between moxifloxacin and the aforementioned classes of antibiotics.
-Cross resistance has been observed between systemic moxifloxacin and some other quinolones.
+Cross-resistance has been observed between systemic moxifloxacin and some other quinolones.
 
 In vitro resistance to moxifloxacin develops via multiple-step mutations.
-Resistance to moxifloxacin occurs in vitro at a general frequency of between 1.8 x 10-9 to < 1 x 10-11 for Gram-positive bacteria.
+Resistance to moxifloxacin occurs in vitro at a general frequency of between 1.8 x 10-9 to less than 1 x 10-11 for gram-positive bacteria.
 
-Moxifloxacin has been shown to be active against most strains of the following microorganisms, both in vitro and in clinical infections as described in the INDICATIONS AND USAGE section:
+Moxifloxacin has been shown to be active against most strains of the following microorganisms, both in vitro and in clinical infections as described in the Indications and Usage section:
 
-Aerobic Gram-Positive Microorganisms:
+Aerobic Gram-Positive Microorganisms
 
 Corynebacterium species*
 
@@ -46,7 +47,7 @@ Streptococcus pneumoniae
 
 Streptococcus viridans group
 
-Aerobic Gram-Negative Microorganisms:
+Aerobic Gram-Negative Microorganisms
 
 Acinetobacter lwoffii*
 
@@ -54,7 +55,7 @@ Haemophilus influenza
 
 Haemophilus parainfluenzae*
 
-Other Microorganisms:
+Other Microorganisms
 
 Chlamydia trachomatis
 
@@ -66,9 +67,9 @@ The safety and effectiveness of moxifloxacin ophthalmic solution in treating oph
 The following organisms are considered susceptible when evaluated using systemic breakpoints.
 However, a correlation between the in vitro systemic breakpoint and ophthalmological efficacy has not been established.
 The list of organisms is provided as guidance only in assessing the potential treatment of conjunctival infections.
-Moxifloxacin exhibits in vitro minimal inhibitory concentrations (MICs) of 2 mcg/mL or less (systemic susceptible breakpoint) against most (≥90%) strains of the following ocular pathogens.
+Moxifloxacin exhibits in vitro minimal inhibitory concentrations (MICs) of 2 microgram/mL or less (systemic susceptible breakpoint) against most (greater than or equal to 90%) strains of the following ocular pathogens.
 
-Aerobic Gram-Positive Microorganisms:
+Aerobic Gram-Positive Microorganisms
 
 Listeria monocytogenes
 
@@ -80,9 +81,9 @@ Streptococcus mitis
 
 Streptococcus pyogenes
 
-Streptococcus Group C, G and F
+Streptococcus Group C, G, and F
 
-Aerobic Gram-Negative Microorganisms:
+Aerobic Gram-Negative Microorganisms
 
 Acinetobacter baumannii
 
@@ -114,7 +115,7 @@ Proteus vulgaris
 
 Pseudomonas stutzeri
 
-Anaerobic Microorganisms:
+Anaerobic Microorganisms
 
 Clostridium perfringens
 
@@ -124,7 +125,7 @@ Prevotella species
 
 Propionibacterium acnes
 
-Other Microorganisms:
+Other Microorganisms
 
 Chlamydia pneumoniae
 
