@@ -83,3 +83,16 @@ For palliative management of patients with recurrent or inoperable brain tumors,
 4. 2.Test to distinguish Cushing’s syndrome due to pituitary ACTH excess from Cushing’s syndrome due to other causes.
 5. Give 2 mg of dexamethasone orally every 6 hours for 48 hours.
    Twenty-four hour urine collections are made for determination of 17-hydroxycorticosteroid excretion.
+
+## Proper Use of an Intensol™
+
+An Intensol is a concentrated oral solution as compared to standard oral liquid medications.
+It is recommended that an Intensol be mixed with liquid or semi-solid food such as water, juices, soda or soda-like beverages, applesauce and puddings.
+
+Use only the calibrated dropper provided with this product.
+Draw into the dropper the amount prescribed for a single dose.
+Then squeeze the dropper contents into a liquid or semi-solid food.
+Stir the liquid or food gently for a few seconds.
+The Intensol formulation blends quickly and completely.
+The entire amount of the mixture, of drug and liquid or drug and food, should be consumed immediately.
+Do not store for future use.
