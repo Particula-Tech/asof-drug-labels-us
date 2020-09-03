@@ -2,7 +2,7 @@
 
 ## 16.1 How Supplied
 
-XEOMIN (incobotulinumtoxinA) for injection is a sterile white to off-white lyophilized powder supplied in Type 1 borosilicate glass single-dose vials with tamper-proof aluminum seals and bromobutyl rubber closures that are not made with natural rubber latex in the following pack sizes:
+XEOMIN for injection is a sterile white to off-white lyophilized powder supplied in Type 1 borosilicate glass single-dose vials with tamper-proof aluminum seals and bromobutyl rubber closures that are not made with natural rubber latex in the following pack sizes:
 
 Upper Limb Spasticity and Cervical Dystonia
 

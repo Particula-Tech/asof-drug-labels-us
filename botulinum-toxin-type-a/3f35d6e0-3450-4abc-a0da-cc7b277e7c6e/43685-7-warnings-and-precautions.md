@@ -7,7 +7,7 @@ The symptoms are consistent with the mechanism of action of botulinum toxin and 
 These symptoms have been reported hours to weeks after injection.
 Swallowing and breathing difficulties can be life threatening and there have been reports of death related to the spread of toxin effects.
 The risk of symptoms is probably greatest in children treated for spasticity but symptoms can occur in adults treated for spasticity and other conditions, and particularly in those patients who have underlying conditions that would predispose them to these symptoms.
-In unapproved uses, including spasticity in children, and in approved indications, symptoms consistent with spread of toxin effect have been reported at doses comparable to or lower than doses used to treat cervical dystonia.
+In unapproved uses, including lower limb spasticity in children, and in approved indications, symptoms consistent with spread of toxin effect have been reported at doses comparable to or lower than doses used to treat cervical dystonia.
 
 Patients or caregivers should be advised to seek immediate medical care if swallowing, speech, or respiratory disorders occur.
 
@@ -28,7 +28,7 @@ The use of XEOMIN in patients with a known hypersensitivity to any botulinum neu
 Treatment with XEOMIN and other botulinum toxin products can result in swallowing or breathing difficulties.
 Patients with pre-existing swallowing or breathing difficulties may be more susceptible to these complications.
 In most cases, this is a consequence of weakening of muscles in the area of injection that are involved in breathing or swallowing.
-When distant effects occur, additional respiratory muscles may be involved [See Warnings and Precautions (5.1)].
+When distant effects occur, additional respiratory muscles may be involved [see Warnings and Precautions (5.1)].
 
 Deaths as a complication of severe dysphagia have been reported after treatment with botulinum toxin.
 Dysphagia may persist for several months, and require use of a feeding tube to maintain adequate nutrition and hydration.
@@ -42,7 +42,7 @@ Patients with smaller neck muscle mass and patients who require bilateral inject
 In general, limiting the dose injected into the sternocleidomastoid muscle may decrease the occurrence of dysphagia.
 
 Patients treated with botulinum toxin may require immediate medical attention should they develop problems with swallowing, speech or respiratory disorders.
-These reactions can occur within hours to weeks after injection with botulinum toxin [See Warnings and Precautions (5.1) and Adverse Reactions (6.1)].
+These reactions can occur within hours to weeks after injection with botulinum toxin [see Warnings and Precautions (5.1) and Adverse Reactions (6.1)].
 
 Patients with neuromuscular disorders with peripheral motor neuropathic diseases, amyotrophic lateral sclerosis, or neuromuscular junctional disorders (e.g., myasthenia gravis or Lambert-Eaton syndrome) may be at increased risk for severe dysphagia and respiratory compromise from typical doses of XEOMIN.
 
