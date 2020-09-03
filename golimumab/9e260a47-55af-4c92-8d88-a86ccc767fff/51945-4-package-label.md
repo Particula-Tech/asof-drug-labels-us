@@ -8,7 +8,7 @@ Simponi ARIA® golimumab
 
 For intravenous infusion
 
-Single-use vial.
+Single-dose vial.
 Discard unused portion.
 Rx Only
 
