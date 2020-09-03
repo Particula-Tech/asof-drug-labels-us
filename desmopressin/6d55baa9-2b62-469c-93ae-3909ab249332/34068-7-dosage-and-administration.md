@@ -7,7 +7,7 @@ Response should be estimated by two parameters: adequate duration of sleep and a
 Patients previously on intranasal DDAVP therapy should begin tablet therapy twelve hours after the last intranasal dose.
 During the initial dose titration period, patients should be observed closely and appropriate safety parameters measured to assure adequate response.
 Patients should be monitored at regular intervals during the course of DDAVP Tablet therapy to assure adequate antidiuretic response.
-Modification in dosage regimen should be implemented as necessary to assure adequate water turnover.
+Modifications in dosage regimen should be implemented as necessary to assure adequate water turnover.
 Fluid restriction should be observed.
 (See WARNINGS, PRECAUTIONS, Pediatric Use and Geriatric Use.)
 
@@ -16,7 +16,7 @@ Fluid restriction should be observed.
 It is recommended that patients be started on doses of 0.05 mg (½ of the 0.1 mg tablet) two times a day and individually adjusted to their optimum therapeutic dose.
 Most patients in clinical trials found that the optimal dosage range is 0.1 mg to 0.8 mg daily, administered in divided doses.
 Each dose should be separately adjusted for an adequate diurnal rhythm of water turnover.
-Total daily dosage should be increased or decreased in the range of 0.1 mg to 1.2 mg divided into two or three daily doses as needed to obtain adequate antidiuretic.
+Total daily dosage should be increased or decreased in the range of 0.1 mg to 1.2 mg divided into two or three daily doses as needed to obtain adequate antidiuresis.
 See Pediatric Use subsection for special considerations when administering desmopressin acetate to pediatric diabetes insipidus patients.
 
 ## Geriatric Use

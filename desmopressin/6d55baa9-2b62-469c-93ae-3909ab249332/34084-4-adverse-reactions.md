@@ -1,6 +1,6 @@
 # ADVERSE REACTIONS
 
-Infrequently, high doses of the intranasal formulations of DDAVP and DDAVP Injection have produced transient headache, nausea, flushing and mild abdominal cramps.
+Infrequently, large doses of the intranasal formulations of DDAVP and DDAVP Injection have produced transient headache, nausea, flushing and mild abdominal cramps.
 These symptoms have disappeared with reduction in dosage.
 
 ## Central Diabetes Insipidus

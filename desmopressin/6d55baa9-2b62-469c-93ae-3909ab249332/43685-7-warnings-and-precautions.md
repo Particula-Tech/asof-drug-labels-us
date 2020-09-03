@@ -24,7 +24,7 @@ DDAVP should be used with caution in patients with habitual or psychogenic polyd
 Intranasal formulations of DDAVP at high doses and DDAVP Injection have infrequently produced a slight elevation of blood pressure which disappears with a reduction of dosage.
 Although this effect has not been observed when single oral doses up to 0.6 mg have been administered, the drug should be used with caution in patients with coronary artery insufficiency and/or hypertensive cardiovascular disease, because of a possible rise in blood pressure.
 
-DDAVP should be used with caution in patients with conditions associated with fluid and electrolyte imbalance, such as cystic fibrosis, since these patients may develop hyponatremia.
+DDAVP should be used with caution in patients with conditions associated with fluid and electrolyte imbalance, such as cystic fibrosis, heart failure and renal disorders because these patients are prone to hyponatremia.
 
 Rare severe allergic reactions have been reported with DDAVP.
 Anaphylaxis has been reported rarely with intravenous and intranasal administration of DDAVP but not with DDAVP Tablets.
@@ -39,7 +39,7 @@ In some cases, measurements of plasma osmolality may be useful.
 ## Drug Interactions
 
 Although the pressor activity of DDAVP is very low compared to its antidiuretic activity, large doses of DDAVP Tablets should be used with other pressor agents only with careful patient monitoring.
-The concomitant administration of drugs that may increase the risk of water intoxication with hyponatremia, (e.g., tricyclic antidepressants, selective serotonin re-uptake inhibitors, chlorpromazine, opiate analgesics, NSAIDs, lamotrigene and carbamazepine) should be performed with caution.
+The concomitant administration of drugs that may increase the risk of water intoxication with hyponatremia, (e.g. tricyclic antidepressants, selective serotonin re-uptake inhibitors, chlorpromazine, opiate analgesics, NSAIDs, lamotrigine and carbamazepine) should be performed with caution.
 
 ## Carcinogenicity, Mutagenicity, Impairment of Fertility
 
@@ -83,7 +83,7 @@ DDAVP Tablets have been safely used in pediatric patients age 6 years and older 
 Some patients respond to a dose of 0.2 mg; however, increasing responses are seen at doses of 0.4 mg and 0.6 mg.
 No increase in the frequency or severity of adverse reactions or decrease in efficacy was seen with an increased dose or duration.
 The dose should be individually adjusted to achieve the best results.
-Treatment with desmopressin acetate for primary nocturnal enuresis should be interrupted during acute intercurrent illness characterized by fluid and/or electrolyte imbalance (e.g., systemic infections, fever, recurrent vomiting or diarrhea) or under conditions of extremely hot weather, vigorous exercise or other conditions associated with increased water intake.
+Treatment with desmopressin for primary nocturnal enuresis should be interrupted during acute intercurrent illness characterized by fluid and/or electrolyte imbalance (e.g., systemic infections, fever, recurrent vomiting or diarrhea) or under conditions of extremely hot weather, vigorous exercise or other conditions associated with increased water intake.
 
 ## Geriatric Use
 
@@ -94,7 +94,7 @@ In general, dose selection for an elderly patient should be cautious, usually st
 This drug is known to be substantially excreted by the kidney, and the risk of toxic reactions to this drug may be greater in patients with impaired renal function.
 Because elderly patients are more likely to have decreased renal function, care should be taken in dose selection, and it may be useful to monitor renal function.
 DDAVP is contraindicated in patients with moderate to severe renal impairment (defined as a creatinine clearance below 50 mL/min).
-(See CLINICAL PHARMACOLOGY, Human Pharmacokinetcs and CONTRAINDICATIONS.)
+(See CLINICAL PHARMACOLOGY, Human Pharmacokinetics and CONTRAINDICATIONS.)
 
 Use of DDAVP Tablets in geriatric patients requires careful fluid intake restrictions to prevent possible hyponatremia and water intoxication.
 Fluid restriction should be discussed with the patient.

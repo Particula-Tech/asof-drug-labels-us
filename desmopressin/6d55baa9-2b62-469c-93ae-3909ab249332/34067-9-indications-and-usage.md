@@ -11,4 +11,4 @@ Continued response to DDAVP can be monitored by measuring urine volume and osmol
 ## Primary Nocturnal Enuresis
 
 DDAVP Tablets are indicated for the management of primary nocturnal enuresis.
-DDAVP may be used alone or as an adjunct to behavioral conditioning or other nonpharmacologic intervention.
+DDAVP may be used alone or as an adjunct to behavioral conditioning or other non-pharmacologic intervention.

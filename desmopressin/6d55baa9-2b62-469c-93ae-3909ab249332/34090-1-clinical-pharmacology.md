@@ -9,7 +9,7 @@ In most patients, doses of 0.1 mg to 0.2 mg produced optimal antidiuretic effect
 With doses of 0.4 mg, antidiuretic effects were observed for up to 12 hours; measurements beyond 12 hours were not recorded.
 Increasing oral doses produced dose dependent increases in the plasma levels of DDAVP (desmopressin acetate).
 
-The plasma half-life of DDAVP followed a monexponential time course with t1/2 values of 1.5 to 2.5 hours which was independent of dose.
+The plasma half-life of DDAVP followed a monoexponential time course with t1/2 values of 1.5 to 2.5 hours which was independent of dose.
 
 The bioavailability of DDAVP oral tablets is about 5% compared to intranasal DDAVP, and about 0.16% compared to intravenous DDAVP.
 The time to reach maximum plasma DDAVP levels ranged from 0.9 to 1.5 hours following oral or intranasal administration, respectively.
@@ -57,7 +57,7 @@ Mean Peak Pharmacodynamic Parameters (SD) in Pediatric and Adolescent Diabetes I
 | 0.02 mg IN | 0.3 (0.25) | 761.8 (298.82) |
 | 0.2 mg PO | 0.3 (0.12) | 678.3 (147.91) |
 | 0.4 mg PO | 0.2 (0.15) | 787.2 (73.34) |
-| (SE) = Standard error of the mean |  |  |
+| (SD) = Standard Deviation |  |  |
 
 All four dose formulations (0.01 mg IN, 0.02 mg IN, 0.2 mg PO and 0.4 mg PO) have a similar, pronounced pharmacodynamic effect on urine volume and urine osmolality.
 At two hours after study drug administration, mean urine volume was 4 mL/min and urine osmolality was >500 mOsm/kg.
@@ -66,7 +66,7 @@ A statistical separation from baseline did not occur at any dose or time point.
 In these patients, the 0.2 mg tablets and the 0.01 mg intranasal spray exhibited similar pharmacodynamic profiles as did the 0.4 mg tablets and the 0.02 mg intranasal spray formulation.
 In another study of adult diabetes insipidus patients previously controlled on DDAVP intranasal spray, after one week of self-titration from spray to tablets, patients' diuresis was controlled with 0.1 mg DDAVP Tablets three times a day.
 
-## Primary Nocturnal Enuresis in Pediatrics
+## Primary Nocturnal Enuresis
 
 Two double-blind, randomized, placebo-controlled studies were conducted in 340 patients with primary nocturnal enuresis.
 Patients were 5-17 years old, and 72% were males.
