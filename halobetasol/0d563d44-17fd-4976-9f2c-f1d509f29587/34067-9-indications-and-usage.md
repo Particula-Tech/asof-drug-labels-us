@@ -1,3 +1,3 @@
 # 1 INDICATIONS AND USAGE
 
-ULTRAVATE lotion is a corticosteroid indicated for the topical treatment of plaque psoriasis in patients eighteen (18) years of age and older.
+ULTRAVATE lotion is indicated for the topical treatment of plaque psoriasis in patients 12 years of age and older.

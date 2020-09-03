@@ -2,14 +2,18 @@
 
 ## 5.1 Effects on Endocrine System
 
-ULTRAVATE lotion is a topical corticosteroid that has been shown to suppress the hypothalamic-pituitary-adrenal (HPA) axis.
+ULTRAVATE lotion has been shown to suppress the hypothalamic-pituitary-adrenal (HPA) axis.
 
 Systemic effects of topical corticosteroids may include reversible HPA axis suppression, with the potential for glucocorticosteroid insufficiency.
 This may occur during treatment or upon withdrawal of treatment of the topical corticosteroid.
 
-The potential for hypothalamic-pituitary adrenal (HPA) suppression with ULTRAVATE lotion was evaluated in a study of 20 adult subjects with moderate to severe plaque psoriasis involving ≥20% of their body surface area.
-ULTRAVATE lotion produced HPA axis suppression when used twice daily for two weeks in 5 out of 20 (25%) adult patients with plaque psoriasis.
-Recovery of HPA axis function was generally prompt with the discontinuation of treatment [see Clinical Pharmacology (12.2)].
+The potential for hypothalamic-pituitary adrenal (HPA) suppression with ULTRAVATE lotion was evaluated in the following studies:
+
+- •In a study of 20 adult subjects with moderate to severe plaque psoriasis involving ≥20% of their body surface area.
+  ULTRAVATE lotion produced HPA axis suppression when used twice daily for two weeks in 5 out of 20 (25%) adult subjects with plaque psoriasis.
+  The effects of HPA axis suppression were reversible on discontinuation of the treatment [see Clinical Pharmacology (12.2)].
+- •In another clinical study, 16 adolescent subjects (12 to less than 17 years old) with moderate to severe plaque psoriasis involving 10% or more of their body surface area applied a maximum of approximately 50 grams of ULTRAVATE lotion to affected areas twice daily for two weeks.
+  Of the 14 subjects evaluated for HPA axis suppression, adrenal suppression occurred in 1 subject (7%) which recovered upon retest [see Clinical Pharmacology (12.2)].
 
 Because of the potential for systemic absorption, use of topical corticosteroids, including ULTRAVATE lotion, may require that patients be evaluated periodically for evidence of HPA axis suppression.
 Factors that predispose a patient using a topical corticosteroid to HPA axis suppression include the use of more potent corticosteroids, use over large surface areas, prolonged use, occlusive use, use on an altered skin barrier, concomitant use of multiple corticosteroid-containing products, liver failure, and young age.
@@ -30,12 +34,19 @@ Local adverse reactions from topical corticosteroids may include atrophy, striae
 These may be more likely to occur with occlusive use, prolonged use, or use of higher potency corticosteroids, including ULTRAVATE lotion.
 Some local adverse reactions may be irreversible.
 
-## 5.3 Concomitant Skin Infections
+## 5.3 Ophthalmic Adverse Reactions
+
+Use of topical corticosteroids may increase the risk of posterior subcapsular cataracts and glaucoma.
+Cataracts and glaucoma have been reported in postmarketing experience with the use of topical corticosteroid products.
+
+Advise patients to report any visual symptoms and consider referral to an ophthalmologist for evaluation.
+
+## 5.4 Concomitant Skin Infections
 
 Use an appropriate antimicrobial agent if a skin infection is present or develops.
 If a favorable response does not occur promptly, discontinue use of ULTRAVATE lotion until the infection has been adequately treated.
 
-## 5.4 Allergic Contact Dermatitis
+## 5.5 Allergic Contact Dermatitis
 
 Allergic contact dermatitis with corticosteroids is usually diagnosed by observing failure to heal rather than noting a clinical exacerbation.
 Consider confirmation of a clinical diagnosis of allergic contact dermatitis by appropriate patch testing.

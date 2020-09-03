@@ -1,8 +1,8 @@
 # 14 CLINICAL STUDIES
 
-ULTRAVATE lotion was evaluated for the treatment of moderate to severe plaque psoriasis in two multicenter, randomized, double-blind, vehicle-controlled studies.
+ULTRAVATE lotion was evaluated for the treatment of moderate to severe plaque psoriasis in two multicenter, randomized, double-blind, vehicle-controlled trials.
 
-These studies were conducted in 443 subjects 18 years of age and older with plaque psoriasis involving between 2% and 12% body surface area.
+These trials were conducted in 443 subjects 18 years of age and older with plaque psoriasis involving between 2% and 12% body surface area.
 Baseline disease severity was determined using a static, five-level global evaluation scale, on which a subject scored either moderate or severe.
 Overall, 57% of subjects were male and 86% were Caucasian.
 
