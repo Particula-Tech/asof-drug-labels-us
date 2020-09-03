@@ -247,22 +247,30 @@ Forty-three percent (43%) of patients had received chemotherapy in the adjuvant 
 Twenty-one percent (21%) of patients had bone-only disease and 61% had visceral disease.
 Demographics and baseline disease characteristics were balanced and comparable between study arms.
 
-The efficacy results from MONALEESA-3 are summarized in Table 17 and Figure 13.
+The efficacy results from MONALEESA-3 are summarized in Table 17, and Figure 13, and Figure 14.
 Consistent results were observed in stratification factor subgroups of disease site and prior endocrine treatment for advanced disease.
-At the time of the PFS analysis, 17% of patients had died, and overall survival data were immature.
 
 Table 17: Efficacy Results - MONALEESA-3 (Investigator Assessment, Intent-to-Treat Population)
 
 |  | Fulvestrant plus Ribociclib | Fulvestrant plus Placebo |
 | --- | --- | --- |
-| Progression-free survival | N=484 | N=242 |
+| Progression-free survival* | N=484 | N=242 |
 | Events (n, %) | 210 (43.4%) | 151 (62.4%) |
 | Median (months, 95% CI) | 20.5 (18.5, 23.5) | 12.8 (10.9, 16.3) |
 | Hazard Ratio (95% CI) | 0.593 (0.480 to 0.732) |  |
 | p-value1 | <0.0001 |  |
-| Overall Response Rate2 | N=379 | N=181 |
+| Overall Survival | N=484 | N=242 |
+| Events (n, %) | 167 (34.5%) | 108 (44.6%) |
+| Median (months, 95% CI) | NR (42.5, NR) | 40.0 (37.0, NR) |
+| Hazard Ratio (95% CI) | 0.724 (0.568, 0.924) |  |
+| p-value1 | 0.00455 |  |
+| Overall Response Rate2* | N=379 | N=181 |
 | Patients with measurable disease (95% CI) | 40.9 (35.9, 45.8) | 28.7 (22.1, 35.3) |
+| Abbreviation: NR, not reached |  |  |
 | 1. p-value is obtained from the one-sided log-rank |  |  |
 | 2. Based on confirmed responses |  |  |
+| * Investigator Assessment |  |  |
 
-Figure 13: Kaplan-Meier Progression Free Survival Curves - MONALEESA-3 (Investigator Assessment)
+Figure 13: Kaplan-Meier Progression Free Survival Curves - MONALEESA-3 (Intent-To-Treat Population, Investigator Assessment)
+
+Figure 14: Kaplan-Meier Plot of Overall Survival - MONALEESA-3 (Intent-To-Treat Population)
