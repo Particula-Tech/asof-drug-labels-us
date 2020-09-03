@@ -20,7 +20,7 @@ Intravenous regional anesthesia (bier block) should not be performed due to a la
 Intra-articular infusions of local anesthetics following arthroscopic and other surgical procedures is an unapproved use, and there have been post-marketing reports of chondrolysis in patients receiving such infusions.
 The majority of reported cases of chondrolysis have involved the shoulder joint; cases of gleno-humeral chondrolysis have been described in pediatric and adult patients following intra-articular infusions of local anesthetics with and without epinephrine for periods of 48 to 72 hours.
 There is insufficient information to determine whether shorter infusion periods are not associated with these findings.
-The time of onset of symptoms, such as joint pain, stiffness and loss of motion can be variable, but may begin as early as the 2 nd month after surgery.
+The time of onset of symptoms, such as joint pain, stiffness and loss of motion can be variable, but may begin as early as the 2nd month after surgery.
 Currently, there is no effective treatment for chondrolysis; patients who experienced chondrolysis have required additional diagnostic and therapeutic procedures and some required arthroplasty or shoulder replacement.
 
 It is essential that aspiration for blood, or cerebrospinal fluid (where applicable), be done prior to injecting any local anesthetic, both the original dose and all subsequent doses, to avoid intravascular or subarachnoid injection.
@@ -168,7 +168,7 @@ Reproduction toxicity studies have been performed in pregnant New Zealand white 
 During gestation days 6 to 18, rabbits received 1.3, 4.2, or 13 mg/kg/day subcutaneously.
 In rats, subcutaneous doses of 5.3, 11 and 26 mg/kg/day were administered during gestation days 6 to 15.
 No teratogenic effects were observed in rats and rabbits at the highest doses tested.
-The highest doses of 13 mg/kg/day (rabbits) and 26 mg/kg/day (rats) are approximately 1/3 of the maximum recommended human dose (epidural, 770 mg/24 hours) based on a mg/m 2 basis.
+The highest doses of 13 mg/kg/day (rabbits) and 26 mg/kg/day (rats) are approximately 1/3 of the maximum recommended human dose (epidural, 770 mg/24 hours) based on a mg/m2 basis.
 In 2 prenatal and postnatal studies, the female rats were dosed daily from day 15 of gestation to day 20 postpartum.
 The doses were 5.3, 11 and 26 mg/kg/day subcutaneously.
 There were no treatment-related effects on late fetal development, parturition, lactation, neonatal viability, or growth of the offspring.

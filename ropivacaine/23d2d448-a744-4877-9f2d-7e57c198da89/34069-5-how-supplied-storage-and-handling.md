@@ -18,12 +18,12 @@ Naropin® Single Dose Infusion Bottles
 
 | Product Code | Unit of Sale | Strength | Each |
 | --- | --- | --- | --- |
-| 278565 | NDC 63323-285-65 Individual bottles sold as a case of 12 | 0.2% 200 mg per 100 mL (2 mg per mL) | NDC 63323-285-65 100 mL Single Dose Infusion Bottle |
-| 278564 | NDC 63323-285-64 Individual bottles sold as a case of 12 | 0.2% 400 mg per 200 mL (2 mg per mL) | NDC 63323-285-64 200 mL Single Dose Infusion Bottle |
+| 278565 | NDC 63323-285-65 Unit of 12 | 0.2% 200 mg per 100 mL (2 mg per mL) | NDC 63323-285-51 100 mL Single Dose Infusion Bottle |
+| 278564 | NDC 63323-285-64 Unit of 12 | 0.2% 400 mg per 200 mL (2 mg per mL) | NDC 63323-285-57 200 mL Single Dose Infusion Bottle |
 | 278600 | NDC 63323-286-00 Unit of 12 | 0.5% 500 mg per 100 mL (5 mg per mL) | NDC 63323-286-03 100 mL Single Dose Infusion Bottle |
 | 278663 | NDC 63323-286-63 Unit of 12 | 0.5% 1,000 mg per 200 mL (5 mg per mL) | NDC 63323-286-33 200 mL Single Dose Infusion Bottle |
 
-Naropin ® is also available as follows:
+Naropin® is also available as follows:
 
 Naropin® Plastic Ampule Sterile-Pak: Boxes of 5
 
@@ -56,7 +56,7 @@ When chemical disinfection of the container surface is desired, either isopropyl
 It is recommended that chemical disinfection be accomplished by wiping the ampule or vial stopper thoroughly with cotton or gauze that has been moistened with the recommended alcohol just prior to use.
 When a container is required to have a sterile outside, a Sterile-Pak should be chosen.
 Glass containers may, as an alternative, be autoclaved once.
-Stability has been demonstrated using a targeted F 0 of 7 minutes at 121°C.
+Stability has been demonstrated using a targeted F0 of 7 minutes at 121°C.
 
 Solutions should be stored at 20º to 25°C (68º to 77°F) [see USP Controlled Room Temperature].
 
@@ -68,4 +68,4 @@ In addition, continuous infusion bottles should not be left in place for more th
 
 NAROPIN is a trademark of Fresenius Kabi USA, LLC.
 
-Lake Zurich, IL 60047 www.fresenius-kabi.com/us Revised: August 2019
+Lake Zurich, IL 60047 www.fresenius-kabi.com/us Revised: June 2020

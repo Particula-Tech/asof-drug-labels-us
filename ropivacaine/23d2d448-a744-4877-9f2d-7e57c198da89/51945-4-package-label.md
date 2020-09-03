@@ -2,7 +2,7 @@
 
 NDC 63323-285-03 278513
 
-Naropin ®
+Naropin®
 
 (ropivacaine HCl Injection, USP)
 
@@ -22,7 +22,7 @@ Not for Intravenous Administration.
 
 NDC 63323-285-13 278513
 
-Naropin ®
+Naropin®
 
 (ropivacaine HCl Injection, USP)
 
@@ -44,7 +44,7 @@ Twenty-five 10 mL Single Dose Vials
 
 NDC 63323-285-07 278523
 
-Naropin ®
+Naropin®
 
 (ropivacaine HCl Injection, USP)
 
@@ -64,7 +64,7 @@ Not for Intravenous Administration.
 
 NDC 63323-285-23 278523
 
-Naropin ®
+Naropin®
 
 (ropivacaine HCl Injection, USP)
 
@@ -86,7 +86,7 @@ Twenty-five 20 mL Single Dose Vials
 
 NDC 63323-286-05 278623
 
-Naropin ®
+Naropin®
 
 (ropivacaine HCl Injection, USP)
 
@@ -106,7 +106,7 @@ Not for Intravenous Administration.
 
 NDC 63323-286-23 278623
 
-Naropin ®
+Naropin®
 
 (ropivacaine HCl Injection, USP)
 
@@ -128,7 +128,7 @@ Twenty-five 20 mL Single Dose Vials
 
 NDC 63323-286-09 278631
 
-Naropin ®
+Naropin®
 
 (ropivacaine HCl Injection, USP)
 
@@ -148,7 +148,7 @@ Not for Intravenous Administration.
 
 NDC 63323-286-31 278631
 
-Naropin ®
+Naropin®
 
 (ropivacaine HCl Injection, USP)
 
@@ -170,7 +170,7 @@ Contains Five Presterilized 30 mL Single Dose Vials
 
 NDC 63323-286-11 278635
 
-Naropin ®
+Naropin®
 
 (ropivacaine HCl Injection, USP)
 
@@ -190,7 +190,7 @@ Not for Intravenous Administration.
 
 NDC 63323-286-35 278635
 
-Naropin ®
+Naropin®
 
 (ropivacaine HCl Injection, USP)
 
@@ -214,7 +214,7 @@ Twenty-five
 
 NDC 63323-287-03 278721
 
-Naropin ®
+Naropin®
 
 (ropivacaine HCl Injection, USP)
 
@@ -233,7 +233,7 @@ Not for Intravenous Administration.
 
 NDC 63323-287-21 278721
 
-Naropin ®
+Naropin®
 
 (ropivacaine HCl Injection, USP)
 
@@ -254,7 +254,7 @@ Twenty-five 20 mL Single Dose Vials
 
 NDC 63323-288-03 278811
 
-Naropin ®
+Naropin®
 
 (ropivacaine HCl Injection, USP)
 
@@ -272,7 +272,7 @@ Not for Intravenous Administration.
 
 NDC 63323-288-11 278811
 
-Naropin ®
+Naropin®
 
 (ropivacaine HCl Injection, USP)
 
@@ -292,7 +292,7 @@ Twenty-five 10 mL Single Dose Vials
 
 NDC 63323-288-07 278821
 
-Naropin ®
+Naropin®
 
 (ropivacaine HCl Injection, USP)
 
@@ -310,7 +310,7 @@ Not for Intravenous Administration.
 
 NDC 63323-288-21 278821
 
-Naropin ®
+Naropin®
 
 (ropivacaine HCl Injection, USP)
 
@@ -330,9 +330,9 @@ Twenty-five
 
 # PACKAGE LABEL - PRINCIPAL DISPLAY PANEL - Naropin 200 mL Single Dose Bottle Label
 
-NDC 63323-285-64 278564
+NDC 63323-285-57 278564
 
-Naropin ®
+Naropin®
 
 (ropivacaine HCl Injection, USP)
 
@@ -350,9 +350,9 @@ Not for Intravenous Administration.
 
 # PACKAGE LABEL - PRINCIPAL DISPLAY PANEL - Naropin 100 mL Single Dose Bottle Label
 
-NDC 63323-285-65 278565
+NDC 63323-285-51 278565
 
-Naropin ®
+Naropin®
 
 (ropivacaine HCl Injection, USP)
 
@@ -372,7 +372,7 @@ Not for Intravenous Administration.
 
 NDC 63323-286-03 278600
 
-Naropin ®
+Naropin®
 
 (ropivacaine HCl Injection, USP)
 
@@ -392,7 +392,7 @@ Not for Intravenous Administration.
 
 NDC 63323-286-33 278663
 
-Naropin ®
+Naropin®
 
 (ropivacaine HCl Injection, USP)
 
@@ -412,7 +412,7 @@ Not for Intravenous Administration.
 
 NDC 63323-285-01 278510
 
-Naropin ®
+Naropin®
 
 (ropivacaine HCl Injection, USP)
 
@@ -428,7 +428,7 @@ Not for Inhalation.
 
 NDC 63323-285-01 278510
 
-Naropin ®
+Naropin®
 
 (ropivacaine HCl Injection, USP)
 
@@ -446,7 +446,7 @@ Not for Intravenous Administration.
 
 NDC 63323-285-10 278510
 
-Naropin ®
+Naropin®
 
 (ropivacaine HCl Injection, USP)
 
@@ -472,7 +472,7 @@ Contains Five Presterilized 10 mL Plastic Ampule Units
 
 NDC 63323-285-06 278520
 
-Naropin ®
+Naropin®
 
 (ropivacaine HCl Injection, USP)
 
@@ -488,7 +488,7 @@ Not for Inhalation.
 
 NDC 63323-285-06 278520
 
-Naropin ®
+Naropin®
 
 (ropivacaine HCl Injection, USP)
 
@@ -506,7 +506,7 @@ Not for Intravenous Administration.
 
 NDC 63323-285-20 278520
 
-Naropin ®
+Naropin®
 
 (ropivacaine HCl Injection, USP)
 
@@ -532,7 +532,7 @@ Contains Five Presterilized 20 mL Plastic Ampule Units
 
 NDC 63323-287-01 278720
 
-Naropin ®
+Naropin®
 
 (ropivacaine HCl Injection, USP)
 
@@ -548,7 +548,7 @@ Not for Inhalation.
 
 NDC 63323-287-01 278720
 
-Naropin ®
+Naropin®
 
 (ropivacaine HCl Injection, USP)
 
@@ -566,7 +566,7 @@ Not for Intravenous Administration.
 
 NDC 63323-287-20 278720
 
-Naropin ®
+Naropin®
 
 (ropivacaine HCl Injection, USP)
 
@@ -592,7 +592,7 @@ Contains Five Presterilized 20 mL Plastic Ampule Units
 
 NDC 63323-286-01 278620
 
-Naropin ®
+Naropin®
 
 (ropivacaine HCl Injection, USP)
 
@@ -608,7 +608,7 @@ Not for Inhalation.
 
 NDC 63323-286-01 278620
 
-Naropin ®
+Naropin®
 
 (ropivacaine HCl Injection, USP)
 
@@ -626,7 +626,7 @@ Not for Intravenous Administration.
 
 NDC 63323-286-20 278620
 
-Naropin ®
+Naropin®
 
 (ropivacaine HCl Injection, USP)
 
@@ -652,7 +652,7 @@ Contains Five Presterilized 20 mL Plastic Ampule Units
 
 NDC 63323-288-01 278810
 
-Naropin ®
+Naropin®
 
 (ropivacaine HCl Injection, USP)
 
@@ -668,7 +668,7 @@ Not for Inhalation.
 
 NDC 63323-288-01 278810
 
-Naropin ®
+Naropin®
 
 (ropivacaine HCl Injection, USP)
 
@@ -684,7 +684,7 @@ Not for Intravenous Administration.
 
 NDC 63323-288-10 278810
 
-Naropin ®
+Naropin®
 
 (ropivacaine HCl Injection, USP)
 
@@ -708,7 +708,7 @@ Contains Five Presterilized 10 mL Plastic Ampule Units
 
 NDC 63323-288-06 278820
 
-Naropin ®
+Naropin®
 
 (ropivacaine HCl Injection, USP)
 
@@ -724,7 +724,7 @@ Not for Inhalation.
 
 NDC 63323-288-06 278820
 
-Naropin ®
+Naropin®
 
 (ropivacaine HCl Injection, USP)
 
@@ -740,7 +740,7 @@ Not for Intravenous Administration.
 
 NDC 63323-288-20 278820
 
-Naropin ®
+Naropin®
 
 (ropivacaine HCl Injection, USP)
 
@@ -768,7 +768,7 @@ NDC 63323-285-02
 
 278561
 
-Naropin ®
+Naropin®
 
 (ropivacaine HCl Injection, USP)
 
@@ -784,7 +784,7 @@ Administration Only
 
 Product No. 278561
 
-Naropin ®
+Naropin®
 
 (ropivacaine HCl Injection, USP)
 
@@ -800,7 +800,7 @@ NDC 63323-285-04
 
 278563
 
-Naropin ®
+Naropin®
 
 (ropivacaine HCl Injection, USP)
 
@@ -816,7 +816,7 @@ Administration Only
 
 Product No. 278563
 
-Naropin ®
+Naropin®
 
 (ropivacaine HCl Injection, USP)
 
