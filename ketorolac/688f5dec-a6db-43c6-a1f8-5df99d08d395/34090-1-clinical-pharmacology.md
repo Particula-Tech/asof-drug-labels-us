@@ -104,22 +104,32 @@ Pharmacokinetic differences due to race have not been identified.
 
 Table 1: Table of Approximate Average Pharmacokinetic Parameters (Mean ± SD) Following Oral, Intramuscular and Intravenous Doses of Ketorolac Tromethamine
 
-| Pharmacokinetic Parameters (units) | OralDerived from PO pharmacokinetic studies in 77 normal fasted volunteers | IntramuscularDerived from IM pharmacokinetic studies in 54 normal volunteers |  |  | Intravenous BolusDerived from IV pharmacokinetic studies in 24 normal volunteers |  |
+| Pharmacokinetic Parameters (units) | Oral1 | Intramuscular2 |  |  | Intravenous Bolus3 |  |
 | --- | --- | --- | --- | --- | --- | --- |
 |  | 10 mg | 15 mg | 30 mg | 60 mg | 15 mg | 30 mg |
 | Bioavailability (extent) | 100% |  |  |  |  |  |
-| TmaxTime-to-peak plasma concentration (min) | 44 ± 34 | 33 ± 21Mean value was simulated from observed plasma concentration data and standard deviation was simulated from percent coefficient of variation for observed Cmax and Tmax data | 44 ± 29 | 33 ± 21 | 1.1 ± 0.7 | 2.9 ± 1.8 |
-| CmaxPeak plasma concentration (mcg/mL) [single-dose] | 0.87 ± 0.22 | 1.14 ± 0.32 | 2.42 ± 0.68 | 4.55 ± 1.27 | 2.47 ± 0.51 | 4.65 ± 0.96 |
-| Cmax (mcg/mL) [steady state qid] | 1.05 ± 0.26 | 1.56 ± 0.44 | 3.11 ± 0.87 | N/ANot applicable because 60 mg is only recommended as a single dose | 3.09 ± 1.17 | 6.85 ± 2.61 |
-| CminTrough plasma concentration (mcg/mL) [steady state qid] | 0.29 ± 0.07 | 0.47 ± 0.13 | 0.93 ± 0.26 | N/A | 0.61 ± 0.21 | 1.04 ± 0.35 |
-| CavgAverage plasma concentration (mcg/mL) [steady state qid] | 0.59 ± 0.20 | 0.94 ± 0.29 | 1.88 ± 0.59 | N/A | 1.09 ± 0.30 | 2.17 ± 0.59 |
-| VβVolume of distribution(L/kg) | 0.175 ± 0.039 |  |  |  |  | 0.210 ± 0.044 |
+| Tmax6 (min) | 44 ± 34 | 33 ± 214 | 44 ± 29 | 33 ± 214 | 1.1 ± 0.74 | 2.9 ± 1.8 |
+| Cmax7 (mcg/mL) [single-dose] | 0.87 ± 0.22 | 1.14 ± 0.324 | 2.42 ± 0.68 | 4.55 ± 1.274 | 2.47 ± 0.514 | 4.65 ± 0.96 |
+| Cmax (mcg/mL) [steady state qid] | 1.05 ± 0.264 | 1.56 ± 0.444 | 3.11 ± 0.874 | N/A5 | 3.09 ± 1.174 | 6.85 ± 2.61 |
+| Cmin8(mcg/mL) [steady state qid] | 0.29 ± 0.074 | 0.47 ± 0.134 | 0.93 ± 0.264 | N/A | 0.61 ± 0.214 | 1.04 ± 0.35 |
+| Cavg9 (mcg/mL) [steady state qid] | 0.59 ± 0.204 | 0.94 ± 0.294 | 1.88 ± 0.594 | N/A | 1.09 ± 0.304 | 2.17 ± 0.59 |
+| Vβ10 (L/kg) | 0.175 ± 0.039 |  |  |  |  | 0.210 ± 0.044 |
 | % Dose metabolized ≤ 50 |  |  | % Dose excreted in feces = 6 |  |  |  |
 | % Dose excreted in urine = 91 |  |  | % Plasma protein binding = 99 |  |  |  |
+| 1. Derived from PO pharmacokinetic studies in 77 normal fasted volunteers |  |  |  |  |  |  |
+| 2. Derived from IM pharmacokinetic studies in 54 normal volunteers |  |  |  |  |  |  |
+| 3. Derived from IV pharmacokinetic studies in 24 normal volunteers |  |  |  |  |  |  |
+| 4. Mean value was simulated from observed plasma concentration data and standard deviation was simulated from percent coefficient of variation for observed Cmax and Tmax data |  |  |  |  |  |  |
+| 5. Not applicable because 60 mg is only recommended as a single dose |  |  |  |  |  |  |
+| 6. Time-to-peak plasma concentration |  |  |  |  |  |  |
+| 7. Peak plasma concentration |  |  |  |  |  |  |
+| 8.Trough plasma concentration |  |  |  |  |  |  |
+| 9. Average plasma concentration |  |  |  |  |  |  |
+| 10. Volume of distribution |  |  |  |  |  |  |
 
-Table 2: The Influence of Age, Liver, and Kidney Function on the Clearance and Terminal Half-Life of Ketorolac Tromethamine (IMEstimated from 30 mg single IM doses of ketorolac tromethamineand ORALEstimated from 10 mg single oral doses of ketorolac tromethamine) in Adult Populations
+Table 2: The Influence of Age, Liver, and Kidney Function on the Clearance and Terminal Half-Life of Ketorolac Tromethamine (IM1 and ORAL2) in Adult Populations
 
-|  | Total Clearance [in L/h/kg]Liters/hour/kilogram |  | Terminal Half-Life [in hours] |  |
+|  | Total Clearance [in L/h/kg]3 |  | Terminal Half-Life [in hours] |  |
 | --- | --- | --- | --- | --- |
 | Type of Subjects | IM | ORAL | IM | ORAL |
 | Mean (range) | Mean (range) | Mean (range) | Mean (range) |  |
@@ -133,6 +143,9 @@ Table 2: The Influence of Age, Liver, and Kidney Function on the Clearance and T
 | (0.005 to 0.043) | (0.007 to 0.052) | (5.9 to 19.2) | (3.4 to 18.9) |  |
 | Renal Dialysis PatientsIM and Oral (n = 9)mean age = 40, range = 27 to 63 | 0.016 | -- | 13.6 | -- |
 | (0.003 to 0.036) | (8 to 39.1) |  |  |  |
+| 1. Estimated from 30 mg single IM doses of ketorolac tromethamine |  |  |  |  |
+| 2. Estimated from 10 mg single oral doses of ketorolac tromethamine |  |  |  |  |
+| 3. Liters/hour/kilogram |  |  |  |  |
 
 ## IV Administration
 

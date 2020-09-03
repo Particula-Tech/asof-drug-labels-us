@@ -15,7 +15,7 @@ KEEP THIS AND ALL MEDICATIONS OUT OF THE REACH OF CHILDREN.
 
 Distributed By:
 
-TEVA PHARMACEUTICALS USA, INC. North Wales, PA 19454
+Teva Pharmaceuticals USA, Inc. North Wales, PA 19454
 
 Rev.
 K 7/2015

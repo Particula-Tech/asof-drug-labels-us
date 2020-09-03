@@ -65,3 +65,5 @@
 | Medicines are sometimes prescribed for purposes other than those listed in a Medication Guide. Do not use NSAIDs for a condition for which it was not prescribed. Do not give NSAIDs to other people, even if they have the same symptoms that you have. It may harm them. |  |
 | If you would like more information about NSAIDs, talk with your healthcare provider. You can ask your pharmacist or healthcare provider for information about NSAIDs that is written for health professionals. |  |
 | This Medication Guide has been approved by the U.S. Food and Drug Administration. Revised July 2015 |  |
+
+Distributed By: Teva Pharmaceuticals USA, Inc. North Wales, PA 19454
