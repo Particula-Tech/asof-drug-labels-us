@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "ANDA210579"
+  ],
+  "inn": "chlordiazepoxide",
+  "labeler": "Misemer Pharmaceuticals, Inc",
+  "package_ndcs": [
+    "0276-0500-10"
+  ],
+  "products": [
+    {
+      "form": "CAPSULE",
+      "generic": "chlordiazepoxide hydrochloride and clidinium bromide capsules",
+      "name": "Not applicable"
+    }
+  ],
+  "setid": "a42fc981-77bc-4c9e-a79d-b821bffb65b4",
+  "source": "dailymed"
+}
