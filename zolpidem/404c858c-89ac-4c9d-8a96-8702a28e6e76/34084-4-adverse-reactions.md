@@ -4,7 +4,7 @@ The following serious adverse reactions are discussed in greater detail in other
 
 - Complex Sleep Behaviors [see Warnings and Precautions (5.1)]
 - CNS-Depressant Effects and Next-Day Impairment [see Warnings and Precautions (5.2)]
-- Serious Anaphylactic and Anaphylactoid Reactions [see Warnings and Precautions (5.4)]
+- Severe Anaphylactic and Anaphylactoid Reactions [see Warnings and Precautions (5.4)]
 - Abnormal Thinking and Behavior Changes [see Warnings and Precautions (5.5)]
 - Withdrawal Effects [see Warnings and Precautions (5.9)]
 
@@ -18,7 +18,7 @@ The reaction most commonly associated with discontinuation in patients treated w
 In a 6-month study in adult patients (18–64 years of age), 8.5% (57/669) of patients receiving AMBIEN CR 12.5 mg as compared to 4.6% on placebo (16/349) discontinued treatment due to an adverse reaction.
 Reactions most commonly associated with discontinuation of AMBIEN CR included anxiety (anxiety, restlessness or agitation) reported in 1.5% (10/669) of patients as compared to 0.3% (1/349) of patients on placebo, and depression (depression, major depression or depressed mood) reported in 1.5% (10/669) of patients as compared to 0.3% (1/349) of patients on placebo.
 
-Data from a clinical study in which selective serotonin reuptake inhibitor- (SSRI-) treated patients were given zolpidem revealed that four of the seven discontinuations during double-blind treatment with zolpidem (n=95) were associated with impaired concentration, continuing or aggravated depression, and manic reaction; one patient treated with placebo (n=97) was discontinued after an attempted suicide.
+Data from a clinical study in which selective serotonin reuptake inhibitor (SSRI)-treated patients were given zolpidem revealed that four of the seven discontinuations during double-blind treatment with zolpidem (n=95) were associated with impaired concentration, continuing or aggravated depression, and manic reaction; one patient treated with placebo (n=97) was discontinued after an attempted suicide.
 
 Most Commonly Observed Adverse Reactions in Controlled Trials
 
