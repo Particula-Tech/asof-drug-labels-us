@@ -52,7 +52,7 @@ The actual glomerular filtration rate, as determined by the clearance of probe d
 Absorption
 
 In a trial where subjects were instructed to take coadministered TYBOST and darunavir with food, median cobicistat peak plasma concentrations were observed approximately 3.5 hours postdose.
-Steady-state cobicistat Cmax, AUCtau, and Ctau (mean ± SD) values were 0.99 ± 0.3 mcg/mL (n=60), 7.6 ± 3.7 mcg*hr/mL (n=59), and 0.03 ± 0.1 mcg/mL (n=59), respectively.
+Steady-state cobicistat Cmax, AUCtau, and Ctau (mean ± SD) values were 0.99 ± 0.3 mcg/mL (n=60), 7.6 ± 3.7 mcg∙hr/mL (n=59), and 0.03 ± 0.1 mcg/mL (n=59), respectively.
 
 Effect of Food on Oral Absorption
 

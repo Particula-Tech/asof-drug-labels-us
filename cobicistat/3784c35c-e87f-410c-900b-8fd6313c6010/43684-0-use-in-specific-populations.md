@@ -12,7 +12,7 @@ Risk Summary
 TYBOST coadministered with darunavir or atazanavir is not recommended during pregnancy [see Dosage and Administration (2.5)].
 In a clinical trial of individuals taking cobicistat coadministered with darunavir, exposures of cobicistat and darunavir were substantially lower during the second and third trimesters of pregnancy [see Data and Clinical Pharmacology (12.3)].
 
-TYBOST use during pregnancy has been evaluated in a limited number of individuals as reported by the APR, and available data show no difference in the rate of overall birth defects for cobicistat compared with the background rate for major defects of 2.7% in a U.S. reference population of the Metropolitan Atlanta Congenital Defects Program (MACDP) (see Data).
+TYBOST use during pregnancy has been evaluated in a limited number of individuals as reported by the APR, and available data show no significant difference in the rate of overall birth defects for cobicistat compared with the background rate for major defects of 2.7% in a U.S. reference population of the Metropolitan Atlanta Congenital Defects Program (MACDP) (see Data).
 The rate of miscarriage is not reported in the APR.
 The estimated background rate of miscarriage in clinically recognized pregnancies in the U.S. general population is 15−20%.
 
@@ -35,14 +35,10 @@ There are no clinical data on the virologic response when darunavir/cobicistat i
 
 There were no new clinically relevant safety findings compared with the known safety profile of darunavir/cobicistat in HIV-1-infected adults.
 
-The APR has received prospective reports of live births following exposure to cobicistat-containing regimens during pregnancy, including 258 exposures in the first trimester and 64 exposures in the second/third trimester.
-Birth defects occurred in 6 of 258 (2.3%, 95% CI: 0.9% to 5.0%) live births with first trimester exposure of cobicistat-containing regimens.
-Insufficient numbers of pregnancies with earliest exposure to cobicistat in the second/third trimesters have been reported to the APR to estimate the rate of birth defects in this population.
-Among pregnant mothers in the U.S. reference population, the background rate of birth defects is 2.7%.
-There was no association between cobicistat and overall birth defects observed in the APR.
-Prospective reports from the APR of overall major birth defects in pregnancies exposed to cobicistat are compared with a U.S. background major birth defect rate.
+The APR has received prospective reports of live births following exposure to cobicistat-containing regimens during pregnancy, including over 400 exposures in the first trimester and over 80 exposures in the second/third trimester.
+The prevalence of birth defects in live births was 3.9% (95% CI: 2.2% to 6.3%) and 1.2% (95% CI: 0.0% to 6.5%) following first trimester and second/third trimester exposure, respectively, to cobicistat-containing regimens.
 Methodological limitations of the APR include the use of MACDP as the external comparator group.
-Limitations of using an external comparator include differences in methodology and populations, as well as confounding due to the underlying disease.
+The MACDP population is not disease-specific, evaluates women and infants from a limited geographic area, and does not include outcomes for births that occurred at <20 weeks gestation.
 
 Animal Data
 

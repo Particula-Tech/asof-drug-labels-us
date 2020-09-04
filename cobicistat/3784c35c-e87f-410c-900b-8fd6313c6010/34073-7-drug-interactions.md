@@ -10,6 +10,7 @@ Based on in vitro data, cobicistat is not expected to induce CYP1A2 or CYP2B6 an
 The induction effect of cobicistat on CYP2C9, CYP2C19, or UGT1A1 is unknown, but is expected to be low based on CYP3A in vitro induction data.
 
 Coadministration of TYBOST with atazanavir or darunavir with drugs highly dependent on CYP3A for clearance and for which elevated plasma concentrations are associated with serious and/or life-threatening events is contraindicated.
+Coadministration with drugs that have active metabolite(s) formed by CYP3A may result in reduced plasma concentrations of these active metabolite(s).
 Coadministration with other CYP3A substrates may require a dose adjustment or additional monitoring as shown in Table 6.
 
 ## 7.2 Potential Effect of Concomitant Drugs on the Pharmacokinetics of Cobicistat (Coadministered with Atazanavir or Darunavir)
@@ -81,6 +82,10 @@ Drug Interactions: Alteration in Dose or Regimen May Be Recommended Based on Dru
 | Anti-gout: colchicine | ↑ colchicine | Coadministration with colchicine is contraindicated in patients with renal and/or hepatic impairment due to potential for serious and/or life-threatening reactions. Treatment of gout flares – coadministration of colchicine: 0.6 mg (1 tablet) × 1 dose, followed by 0.3 mg (half tablet) 1 hour later. Treatment course to be repeated no earlier than 3 days. Prophylaxis of gout flares – coadministration of colchicine: If the original regimen was 0.6 mg twice a day, the regimen should be adjusted to 0.3 mg once a day. If the original regimen was 0.6 mg once a day, the regimen should be adjusted to 0.3 mg once every other day. Treatment of familial Mediterranean fever – coadministration of colchicine: Maximum daily dose of 0.6 mg (may be given as 0.3 mg twice a day). |
 | Antimycobacterial: rifampin | ↓ atazanavir ↓ darunavir ↓ cobicistat | Coadministration with rifampin is contraindicated due to potential for loss of therapeutic effect and development of resistance. |
 | rifabutin | ↑ rifabutin cobicistat: effects unknown darunavir: effects unknown atazanavir: effects unknown | The recommended dosage regimen for rifabutin is 150 mg every other day. Monitor for rifabutin associated adverse reactions including neutropenia and uveitis. |
+| Antiplatelets: |  |  |
+| ticagrelor | ↑ ticagrelor | Coadministration with ticagrelor is not recommended. |
+| clopidogrel | ↓ clopidogrel active metabolite | Coadministration with clopidogrel is not recommended due to potential reduction of the antiplatelet activity of clopidogrel. |
+| prasugrel | ↔ prasugrel active metabolite | No dose adjustment is needed when prasugrel is co-administered with TYBOST. |
 | Antipsychotics: |  |  |
 | lurasidone | ↑ lurasidone | Coadministration with lurasidone is contraindicated due to potential for serious and/or life-threatening reactions. |
 | pimozide | ↑ pimozide | Coadministration with pimozide is contraindicated due to potential for serious and/or life-threatening reactions such as cardiac arrhythmias. |
