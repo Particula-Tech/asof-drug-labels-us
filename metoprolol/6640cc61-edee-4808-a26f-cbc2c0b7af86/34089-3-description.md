@@ -1,4 +1,4 @@
-# DESCRIPTION
+# 11 DESCRIPTION
 
 Lopressor, metoprolol tartrate USP, is a selective beta1-adrenoreceptor blocking agent, available in 5-mL ampuls for intravenous administration.
 Each ampul contains a sterile solution of metoprolol tartrate USP, 5 mg, and sodium chloride USP, 45 mg, and water for injection USP.
