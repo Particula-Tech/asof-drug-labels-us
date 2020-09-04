@@ -26,10 +26,10 @@ Severe kidney problems
 Severe jaw bone problems (osteonecrosis)
 
 4.
-Bone, joint or muscle pain
+Unusual thigh bone fractures
 
 5.
-Unusual thigh bone fractures
+Bone, joint or muscle pain
 
 1.
 Low calcium levels in your blood (hypocalcemia).
@@ -69,11 +69,6 @@ Your risk of kidney problems is higher if you:
   Some people have developed unusual fractures in their thigh bone.
   Symptoms of a fracture may include new or unusual pain in your hip, groin, or thigh.
   5.
-  Possible harm to your unborn baby.
-  Zoledronic acid injection should not be used if you are pregnant.
-  Tell your doctor right away if you are pregnant or plan to become pregnant.
-  Zoledronic acid injection may harm your unborn baby.
-  6.
   Bone, joint, or muscle pain Some people who take bisphosphonates develop severe bone, joint, or muscle pain.
   Call your doctor right away if you have any of these side effects.
   What is Zoledronic acid injection?
@@ -95,9 +90,11 @@ Your risk of kidney problems is higher if you:
 - Have asthma (wheezing) from taking aspirin.
 - Plan to have dental surgery or teeth removed.
 - Are pregnant, or plan to become pregnant.
-  Zoledronic acid injection Zoledronic acid injection should not be used if you are pregnant.
+  Zoledronic acid injection should not be used if you are pregnant.
+  It is not known if zoledronic acid injection can harm your unborn baby.
 - Are breastfeeding or plan to breastfeed.
-  It is not known if zoledronic acid injection Tell your doctor about all the medicines you take, including prescription and non­prescription medicines, vitamins, and herbal supplements.
+  It is not known if zoledronic acid injection passes into your milk and may harm your baby.
+  Tell your doctor about all the medicines you take, including prescription and non­prescription medicines, vitamins, and herbal supplements.
   Certain medicines may affect how zoledronic acid injection works.
   Especially tell your doctor if you are taking:
 - An antibiotic.
@@ -109,7 +106,7 @@ Your risk of kidney problems is higher if you:
   Keep a list of them and show it to your doctor and pharmacist each time you get a new medicine.
   How will I receive Zoledronic acid injection?
 - Your doctor will tell you how often you will receive zoledronic acid injection.
-- Zoledronic acid injection isgiven by infusion into your vein (intravenously).
+- Zoledronic acid injection is given by infusion into your vein (intravenously).
   Your infusion should last at least 15 minutes.
 - Before you receive zoledronic acid injection, drink at least 2 glasses of fluid (such as water) within a few hours as directed by your doctor.
 - You may eat before your treatment with zoledronic acid injection.
@@ -118,11 +115,11 @@ Your risk of kidney problems is higher if you:
 - See “What is the most important information I should know about Zoledronic acid injection?”
   The most common side effects of zoledronic acid injection included:
 - Fever
-- Flu-like illness (fever, chills, bone, joint, or muscle pain, fatigue)
 - Pain in your bones, joints or muscles
 - Pain in your arms and legs
-- Nausea
 - Headache
+- Flu-like illness (fever, chills, bone, joint, or muscle pain, fatigue)
+- Nausea
 - Vomiting
 - Diarrhea Talk to your doctor about things you can do to help decrease some of these side effects that might happen with a zoledronic acid injection infusion.
   You may get allergic reactions, such as hives, swelling of your face, lips, tongue, or throat.
@@ -139,5 +136,7 @@ Your risk of kidney problems is higher if you:
   For more information, call 1-888-375-3784.
   What are the ingredients in Zoledronic Acid Injection?
   Active ingredient: zoledronic acid monohydrate Inactive ingredients: mannitol and sodium citrate.
-  This Medication Guide has been approved by the U.S. Food and Drug Administration.Rx Only Manufactured by: Gland Pharma Limited D.P.
-  Pally – 500 043 INDIA Manufactured for: Dr. Reddy’s Laboratories Limited Bachupally – 500 090 INDIA Revised: 0516
+  This Medication Guide has been approved by the U.S. Food and Drug Administration.
+  Zometa is a registered trademark of Novartis Pharmaceuticals Corporation.
+  Rx Only Manufactured by: Gland Pharma Limited D.P.
+  Pally – 500 043 INDIA Manufactured for: Dr. Reddy’s Laboratories Limited Bachupally – 500 090 INDIA Revised: 0520

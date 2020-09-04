@@ -55,20 +55,12 @@ These fractures can occur anywhere in the femoral shaft from just below the less
 
 Atypical femur fractures most commonly occur with minimal or no trauma to the affected area.
 They may be bilateral and many patients report prodromal pain in the affected area, usually presenting as dull, aching thigh pain, weeks to months before a complete fracture occurs.
-A number of reports note that patients were also receiving treatment with glucocorticoids (e.g., prednisone) at the time of fracture occurs.
 
 Any patient with a history of bisphosphonate exposure who presents with thigh or groin pain should be suspected of having an atypical fracture and should be evaluated to rule out an incomplete femur fracture.
 Patients presenting with an atypical femur fracture should also be assessed for symptoms and signs of fracture in the contralateral limb.
 Interruption of bisphosphonate therapy should be considered, pending a risk/benefit assessment, on an individual basis.
 
-## 5.6 Pregnancy
-
-ZOLEDRONIC ACID INJECTION SHOULD NOT BE USED DURING PREGNANCY.
-Zoledronic acid injection may cause fetal harm when administered to a pregnant woman.
-If the patient becomes pregnant while taking this drug, the patient should be apprised of the potential harm to the fetus.
-Women of childbearing potential should be advised to avoid becoming pregnant while on zoledronic acid injection therapy [seeUse in Specific Populations (8.1)].
-
-## 5.7 Musculoskeletal Pain
+## 5.6 Musculoskeletal Pain
 
 In post-marketing experience, severe and occasionally incapacitating bone, joint, and/or muscle pain have been infrequently reported in patients taking bisphosphonates, including zoledronic acid injection.
 The time to onset of symptoms varied from one day to several months after starting the drug.
@@ -76,7 +68,7 @@ Consider withholding future zoledronic acid injection treatment if severe sympto
 Most patients had relief of symptoms after stopping.
 A subset had recurrence of symptoms when rechallenged with the same drug or another bisphosphonate [see Adverse Reactions (6.2)].
 
-## 5.8 Patients with Asthma
+## 5.7 Patients with Asthma
 
 While not observed in clinical trials with zoledronic acid injection, there have been reports of bronchoconstriction in aspirin-sensitive patients receiving bisphosphonates.
 Use zoledronic acid injection with caution in aspirin-sensitive patients.

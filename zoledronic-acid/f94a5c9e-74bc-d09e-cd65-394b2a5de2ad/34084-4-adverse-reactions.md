@@ -16,7 +16,7 @@ The percentage of patients who withdrew from the study due to adverse events was
 Adverse reactions occurring in at least 2% of the Paget’s patients receiving zoledronic acid injection (single 5 mg intravenous infusion) or risedronate (30 mg oral daily dose for 2 months) over a 6-month study period are listed by system organ class in Table 1.
 
 Table 1.
-Adverse Reactions Reported in at Least 2% of Paget’s Patients Receiving Zoledronic Acid Injection (Single 5 mg intravenous Infusion) or Risedronate (Oral 30 mg Daily for 2 Months) Over a 6-Month Follow-Up Period
+Adverse Reactions Reported in at Least 2% of Paget’s Patients Receiving Zoledronic Acid Injection (Single 5 mg Intravenous Infusion) or Risedronate (Oral 30 mg Daily for 2 Months) Over a 6-Month Follow-Up Period
 
 | System Organ Class | 5 mg IV Zoledronic Acid Injection % (N = 177) | 30 mg/day x 2 Months risedronate % (N = 172) |
 | --- | --- | --- |
@@ -67,11 +67,15 @@ Renal Impairment
 
 In clinical trials in Paget’s disease there were no cases of renal deterioration following a single 5 mg 15-minute infusion [seeWarnings and Precautions (5.3)].
 
-Acute Phase Reaction The signs and symptoms of acute phase reaction (influenza-like illness, pyrexia, myalgia, arthralgia, and bone pain) were reported in 25% of patients in the zoledronic acid injection-treated group compared to 8% in the risedronate-treated group.
+Acute Phase Reaction
+
+The signs and symptoms of acute phase reaction (influenza-like illness, pyrexia, myalgia, arthralgia, and bone pain) were reported in 25% of patients in the zoledronic acid injection-treated group compared to 8% in the risedronate-treated group.
 Symptoms usually occur within the first 3 days following zoledronic acid injection administration.
 The majority of these symptoms resolved within 4 days of onset.
 
-Osteonecrosis of the Jaw Osteonecrosis of the jaw has been reported with zoledronic acid [see Warnings and Precautions (5.4)].
+Osteonecrosis of the Jaw
+
+Osteonecrosis of the jaw has been reported with zoledronic acid [see Warnings and Precautions (5.4)].
 
 ## 6.2 Post-Marketing Experience
 
@@ -107,7 +111,7 @@ Hypophosphatemia has been reported.
 
 Osteonecrosis of the Jaw
 
-Osteonecrosis of the jaw has been reported.
+Osteonecrosis of the jaw have been reported.
 
 Osteonecrosis of other bones
 
@@ -119,4 +123,4 @@ Cases of the following events have been reported: conjunctivitis, iritis, iridoc
 
 Other
 
-Hypotension in patients with underlying risk factors have been reported.
+Hypotension in patients with underlying risk factors has been reported.
