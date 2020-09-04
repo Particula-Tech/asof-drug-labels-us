@@ -71,7 +71,7 @@ Figure 3 illustrates mean serum calcium (mg/dL) over time for all patients still
 Daily dose during the study ranged from 30 mg twice daily to 90 mg four times daily.
 
 Figure 3.
-Serum Calcium Values in Patients with Parathyroid Carcinoma Receiving Cinacalcet Tablets at Baseline, Titration, and Maintenance Phase
+Serum Calcium Values in Patients with Parathyroid Carcinoma Receiving Cinacalcet hydrochloride Tablets at Baseline, Titration, and Maintenance Phase
 
 n = Number of patients with non-missing values at the timepoint.
 End of Titration (EOT) phase could occur at any visit from week 2 to 16.

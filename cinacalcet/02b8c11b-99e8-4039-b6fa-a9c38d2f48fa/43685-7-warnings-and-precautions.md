@@ -24,7 +24,7 @@ Seizures
 
 In clinical studies, seizures (primarily generalized or tonic-clonic) were observed in 1.4% (43/3049) of cinacalcet-treated patients and 0.7% (5/687) of placebo-treated patients.
 While the basis for the reported difference in seizure rate is not clear, the threshold for seizures is lowered by significant reductions in serum calcium levels.
-Monitor serum calcium levels in patients with seizure disorder receiving cinacalcet hydrochloride tablets.
+Monitor serum calcium levels in patients with seizure disorders receiving cinacalcet hydrochloride tablets.
 
 Concurrent Administration with Other Calcium-Lowering Drug Products
 
@@ -54,8 +54,8 @@ In postmarketing safety surveillance, isolated, idiosyncratic cases of hypotensi
 ## 5.4 Adynamic Bone Disease
 
 Adynamic bone disease may develop if iPTH levels are suppressed below 100 pg/mL.
-One clinical study evaluated bone histomorphometry in patients treated with cinacalcet tablets for 1 year.
-Three patients with mild hyperparathyroid bone disease at the beginning of the study developed adynamic bone disease during treatment with cinacalcet tablets.
+One clinical study evaluated bone histomorphometry in patients treated with cinacalcet hydrochloride tablets for 1 year.
+Three patients with mild hyperparathyroid bone disease at the beginning of the study developed adynamic bone disease during treatment with cinacalcet hydrochloride tablets.
 Two of these patients had iPTH levels below 100 pg/mL at multiple time points during the study.
-In three 6-month, phase 3 studies conducted in patients with CKD on dialysis, 11% of patients treated with cinacalcet tablets had mean iPTH values below 100 pg/mL during the efficacy-assessment phase.
-If iPTH levels decrease below 150 pg/mL in patients treated with cinacalcet tablets, the dose of cinacalcet tablets and/or vitamin D sterols should be reduced or therapy discontinued.
+In three 6-month, phase 3 studies conducted in patients with CKD on dialysis, 11% of patients treated with cinacalcet hydrochloride tablets had mean iPTH values below 100 pg/mL during the efficacy-assessment phase.
+If iPTH levels decrease below 150 pg/mL in patients treated with cinacalcet hydrochloride tablets, the dose of cinacalcet hydrochloride tablets and/or vitamin D sterols should be reduced or therapy discontinued.

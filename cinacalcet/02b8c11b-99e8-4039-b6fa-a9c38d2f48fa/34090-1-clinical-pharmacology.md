@@ -3,7 +3,7 @@
 ## 12.1 Mechanism of Action
 
 The calcium-sensing receptor on the surface of the chief cell of the parathyroid gland is the principal regulator of PTH synthesis and secretion.
-Cinacalcet, the active ingredient in cinacalcet hydrochloride tablets is a calcimimetic agent that, directly lowers PTH levels by increasing the sensitivity of the calcium-sensing receptor to extracellular calcium.
+Cinacalcet, the active ingredient in cinacalcet hydrochloride tablets is a calcimimetic agent that, directly lowers PTH levels by increasing the sensitivity of the calcium-sensing receptor to activation by extracellular calcium.
 The reduction in PTH is associated with a concomitant decrease in serum calcium levels.
 
 ## 12.2 Pharmacodynamics
@@ -15,6 +15,8 @@ After steady-state cinacalcet concentrations are reached (which occurs within 7 
 Reductions in PTH are associated with a decrease in bone turnover and bone fibrosis in patients with CKD on dialysis and uncontrolled secondary HPT.
 
 ## 12.3 Pharmacokinetics
+
+Absorbtion and Distribution
 
 After oral administration of cinacalcet, Cmax is achieved in approximately 2 to 6 hours.
 Cinacalcet Cmax and AUC(0-infinite) were increased by 82% and 68%, respectively, following administration with a high-fat meal compared with fasting in healthy volunteers.

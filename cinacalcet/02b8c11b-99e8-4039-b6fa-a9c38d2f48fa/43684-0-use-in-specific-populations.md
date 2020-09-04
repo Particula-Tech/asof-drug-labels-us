@@ -38,7 +38,7 @@ The developmental and health benefits of breastfeeding should be considered alon
 
 The safety and efficacy of cinacalcet hydrochloride tablets have not been established in pediatric patients.
 
-Dosing with cinacalcet hydrochloride in a pediatric study was stopped because of a fatality in a cinacalcet hydrochloride-treated individual.
+Dosing with cinacalcet hydrochloride in a pediatric study 1 was stopped because of a fatality in a cinacalcet hydrochloride-treated individual.
 The individual was noted to be severely hypocalcemic at the time of death.
 The cause of death was multifactorial and a contribution of cinacalcet hydrochloride to the death could not be excluded [see Warnings and Precautions (5.1)].
 

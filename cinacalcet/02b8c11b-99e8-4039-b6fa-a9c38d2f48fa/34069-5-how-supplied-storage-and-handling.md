@@ -11,5 +11,5 @@ Cinacalcet hydrochloride 90 mg tablets are formulated as light-green, film-coate
 
 Storage
 
-Store at 25 °C (77 °F), excursions permitted from 15to 30 °C (59 to 86 °F).
+Store at 25 °C (77 °F), excursions permitted from 15 °C to 30 °C (59°F to 86°F).
 [See USP controlled room temperature.]
