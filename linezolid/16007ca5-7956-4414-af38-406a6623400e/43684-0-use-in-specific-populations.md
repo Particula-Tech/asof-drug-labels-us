@@ -2,33 +2,54 @@
 
 ## 8.1 Pregnancy
 
-Teratogenic Effects
+Risk Summary
 
-Pregnancy Category C: Linezolid was not teratogenic in mice, rats, or rabbits at exposure levels 6.5-fold (in mice), equivalent to (in rats), or 0.06-fold (in rabbits) the expected human exposure level, based on AUCs.
-However, embryo and fetal toxicities were seen [see Non-Teratogenic Effects].
-There are no adequate and well-controlled studies in pregnant women.
-Linezolid should be used during pregnancy only if the potential benefit justifies the potential risk to the fetus.
+Available data from published and postmarketing case reports with linezolid use in pregnant women have not identified a drug-associated risk of major birth defects, miscarriage, or adverse maternal or fetal outcomes.
+When administered during organogenesis, linezolid did not cause malformations in mice, rats, or rabbits at maternal exposure levels approximately 6.5 times (mice), equivalent to (rats), or 0.06 times (rabbits) the clinical therapeutic exposure, based on AUCs.
+However, embryo-fetal lethality was observed in mice at 6.5 times the estimated human exposure.
+When female rats were dosed during organogenesis through lactation, postnatal survival of pups was decreased at doses approximately equivalent to the estimated human exposure based on AUCs (see Data).
 
-Non-Teratogenic Effects:
+The background risk of major birth defects and miscarriage for the indicated populations is unknown.
+All pregnancies have a background risk of birth defect, loss, or other adverse outcomes.
+In the U.S. general population, the estimated background risk of major birth defects and miscarriage in clinically recognized pregnancies is 2-4% and 15-20%, respectively.
 
-In mice, embryo and fetal toxicities were seen only at doses that caused maternal toxicity (clinical signs and reduced body weight gain).
-A dose of 450 mg/kg/day (6.5-fold the estimated human exposure level based on AUCs) correlated with increased postimplantational embryo death, including total litter loss, decreased fetal body weights, and an increased incidence of costal cartilage fusion.
+Data
 
-In rats, mild fetal toxicity was observed at 15 and 50 mg/kg/day (exposure levels 0.22-fold to approximately equivalent to the estimated human exposure, respectively, based on AUCs).
+Animal Data: In mice, embryo-fetal toxicities were observed only at doses that caused maternal toxicity (clinical signs and reduced body weight gain).
+An oral dose of 450 mg/kg/day given from Gestation Day (GD) 6-16 (6.5 times the estimated human exposure based on AUCs) correlated with increased postimplantational embryo death, including total litter loss, decreased fetal body weights, and an increased incidence of costal cartilage fusion.
+Neither maternal nor embryo-fetal toxicities were observed at doses up to 150 mg/kg/day.
+Fetal malformations were not observed.
+
+In rats, fetal toxicity was observed at 15 and 50 mg/kg/day administered orally from GD 6-17 (exposures 0.22 times to approximately equivalent to the estimated human exposure, respectively, based on AUCs).
 The effects consisted of decreased fetal body weights and reduced ossification of sternebrae, a finding often seen in association with decreased fetal body weights.
-Slight maternal toxicity, in the form of reduced body weight gain, was seen at 50 mg/kg/day.
+Fetal malformations were not observed.
+Maternal toxicity, in the form of reduced body weight gain, was seen at 50 mg/kg/day.
 
-In rabbits, reduced fetal body weight occurred only in the presence of maternal toxicity (clinical signs, reduced body weight gain and food consumption) when administered at a dose of 15 mg/kg/day (0.06-fold the estimated human exposure based on AUCs).
+In rabbits, reduced fetal body weight occurred only in the presence of maternal toxicity (clinical signs, reduced body weight gain and food consumption) when administered at an oral dose of 15 mg/kg/day given from GD 6-20 (0.06 times the estimated human exposure based on AUCs).
+Fetal malformations were not observed.
 
-When female rats were treated with 50 mg/kg/day (approximately equivalent to the estimated human exposure based on AUCs) of linezolid during pregnancy and lactation, survival of pups was decreased on postnatal days 1 to 4.
+When female rats were treated with 50 mg/kg/day (approximately equivalent to the estimated human exposure based on AUCs) of linezolid during pregnancy and lactation, (GD 6 through Lactation Day 20), survival of pups was decreased on postnatal days 1 to 4.
 Male and female pups permitted to mature to reproductive age, when mated, showed an increase in preimplantation loss.
 
-## 8.3 Nursing Mothers
+## 8.2 Lactation
 
-Linezolid and its metabolites are excreted in the milk of lactating rats.
-Concentrations in milk were similar to those in maternal plasma.
-It is not known whether linezolid is excreted in human milk.
-Because many drugs are excreted in human milk, caution should be exercised when linezolid is administered to a nursing woman.
+Risk Summary
+
+Linezolid is present in breast milk.
+Based on data from available published case reports, the daily dose of linezolid that the infant would receive from breastmilk would be approximately 6% to 9% of the recommended therapeutic infant dose (10 mg/kg every 8 hours).
+There is no information on the effects of linezolid on the breastfed infant; however, diarrhea and vomiting were the most common adverse reactions reported in clinical trials in infants receiving linezolid therapeutically [see Adverse Reactions (6.1)] and (see Clinical Considerations).
+There is no information on the effects of linezolid on milk production.
+The developmental and health benefits of breastfeeding should be considered along with the mother’s clinical need for linezolid and any potential adverse effects on the breastfed child from linezolid or from the underlying maternal condition.
+
+Clinical Considerations
+
+Advise lactating women to monitor a breastfed infant for diarrhea and vomiting.
+
+## 8.3 Females and Males of Reproductive Potential
+
+Infertility
+
+Males: Based on findings from studies in rats, linezolid may reversibly impair fertility in male patients [see Nonclinical Toxicology (13.1)].
 
 ## 8.4 Pediatric Use
 

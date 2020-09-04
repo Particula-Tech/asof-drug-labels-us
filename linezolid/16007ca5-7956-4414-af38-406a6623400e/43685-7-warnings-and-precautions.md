@@ -47,11 +47,11 @@ Treatment with antibacterial agents alters the normal flora of the colon leading
 
 C. difficile produces toxins A and B which contribute to the development of CDAD.
 Hypertoxin producing strains of C. difficile cause increased morbidity and mortality, as these infections can be refractory to antimicrobial therapy and may require colectomy.
-CDAD must be considered in all patients who present with diarrhea following antibiotic use.
+CDAD must be considered in all patients who present with diarrhea following antibacterial drug use.
 
 Careful medical history is necessary since CDAD has been reported to occur over two months after the administration of antibacterial agents.
 
-If CDAD is suspected or confirmed, ongoing antibiotic use not directed against C. difficile may need to be discontinued.
+If CDAD is suspected or confirmed, ongoing antibacterial drug use not directed against C. difficile may need to be discontinued.
 Appropriate fluid and electrolyte management, protein supplementation, antibiotic treatment of C. difficile, and surgical evaluation should be instituted as clinically indicated.
 
 ## 5.6 Potential Interactions Producing Elevation of Blood Pressure
@@ -77,6 +77,15 @@ While a causal relationship between linezolid and hypoglycemia has not been esta
 
 If hypoglycemia occurs, a decrease in the dose of insulin or oral hypoglycemic agent, or discontinuation of oral hypoglycemic agent, insulin, or linezolid may be required.
 
-## 5.10 Development of Drug-Resistant Bacteria
+## 5.10 Risks in Patients with Phenylketonuria
+
+Phenylalanine can be harmful to patients with phenylketonuria (PKU).
+Linezolid for oral suspension contains phenylalanine, a component of aspartame.
+Each 5 mL of the 100 mg/5 mL oral suspension contains 20 mg of phenylalanine.
+Before prescribing Linezolid for oral suspension to a patient with PKU, consider the combined daily amount of phenylalanine from all sources, including Linezolid for oral suspension.
+
+The other linezolid formulations do not contain phenylalanine.
+
+## 5.11 Development of Drug-Resistant Bacteria
 
 Prescribing linezolid in the absence of a proven or strongly suspected bacterial infection or a prophylactic indication is unlikely to provide benefit to the patient and increases the risk of the development of drug-resistant bacteria.
