@@ -1,6 +1,8 @@
-# CONTRAINDICATIONS
+# 4 CONTRAINDICATIONS
 
-MARCAINE is contraindicated in obstetrical paracervical block anesthesia.
-Its use in this technique has resulted in fetal bradycardia and death.
+MARCAINE / MARCAINE WITH EPINEPHRINE is contraindicated in:
 
-MARCAINE is contraindicated in patients with a known hypersensitivity to it or to any local anesthetic agent of the amide-type or to other components of MARCAINE solutions.
+- obstetrical paracervical block anesthesia.
+  Its use in this technique has resulted in fetal bradycardia and death.
+- intravenous regional anesthesia (Bier Block) [see Warnings and Precautions (5.7)].
+- patients with a known hypersensitivity to bupivacaine or to any local anesthetic agent of the amide-type or to other components of MARCAINE / MARCAINE WITH EPINEPHRINE.

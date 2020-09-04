@@ -1,9 +1,6 @@
-MarcaineTM
+This product's labeling may have been updated.
+For the most recent prescribing information, please visit www.pfizer.com.
 
-Bupivacaine Hydrochloride Injection, USP
+Distributed by Hospira, Inc., Lake Forest, IL 60045 USA
 
-MarcaineTM
-
-With Epinephrine 1:200,000 (as bitartrate)
-
-Bupivacaine Hydrochloride and Epinephrine Injection, USP Rx only
+LAB-1178-3.0

@@ -1,25 +1,8 @@
-# INDICATIONS AND USAGE
+# 1 INDICATIONS AND USAGE
 
-MARCAINE is indicated for the production of local or regional anesthesia or analgesia for surgery, dental and oral surgery procedures, diagnostic and therapeutic procedures, and for obstetrical procedures.
-Only the 0.25% and 0.5% concentrations are indicated for obstetrical anesthesia.
-(See WARNINGS.)
+MARCAINE / MARCAINE WITH EPINEPHRINE is indicated in adults for the production of local or regional anesthesia or analgesia for surgery, dental and oral surgery procedures, diagnostic and therapeutic procedures, and for obstetrical procedures.
+Specific concentrations and presentations of MARCAINE / MARCAINE WITH EPINEPHRINE are recommended for each type of block indicated to produce local or regional anesthesia or analgesia [see Dosage and Administration (2.2)].
 
-Experience with nonobstetrical surgical procedures in pregnant patients is not sufficient to recommend use of 0.75% concentration of MARCAINE in these patients.
+Limitations of Use
 
-MARCAINE is not recommended for intravenous regional anesthesia (Bier Block).
-See WARNINGS.
-
-The routes of administration and indicated MARCAINE concentrations are:
-
-- •local infiltration 0.25%
-- •peripheral nerve block 0.25% and 0.5%
-- •retrobulbar block 0.75%
-- •sympathetic block 0.25%
-- •lumbar epidural 0.25%, 0.5%, and 0.75% (0.75% not for obstetrical anesthesia)
-- •caudal 0.25% and 0.5%
-- •epidural test dose 0.5% with epinephrine 1:200,000
-- •dental blocks 0.5% with epinephrine 1:200,000
-
-(See DOSAGE AND ADMINISTRATION for additional information).
-
-Standard textbooks should be consulted to determine the accepted procedures and techniques for the administration of MARCAINE.
+Not all blocks are indicated for use with MARCAINE / MARCAINE WITH EPINEPHRINE given clinically significant risks associated with use [see Dosage and Administration (2.2), Contraindications (4), Warnings and Precautions (5.1, 5.4, 5.5, 5.7, 5.9)].
