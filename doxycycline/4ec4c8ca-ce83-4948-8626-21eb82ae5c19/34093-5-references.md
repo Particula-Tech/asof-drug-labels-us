@@ -13,9 +13,9 @@
    9th edition.
    Amarillo, TX: Pharmasoft Publishing, 2000: 225–226.
 
-Distributed By: West-Ward Pharmaceuticals Corp. Eatontown, NJ 07724 USA
-
-Manufactured By: HIKMA Pharmaceuticals P.O.
+Manufactured by: HIKMA Pharmaceuticals P.O.
 Box 182400 Amman 11118 - Jordan
 
-Revised January 2020
+Distr. by: West-Ward Pharmaceuticals Corp. Eatontown, NJ 07724 USA
+
+2INDOXY-E Revised June 2020

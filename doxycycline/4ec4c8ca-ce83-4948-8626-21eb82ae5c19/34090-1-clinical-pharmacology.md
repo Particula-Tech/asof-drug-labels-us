@@ -37,7 +37,7 @@ Doxycycline has been shown to be active against most isolates of the following m
 
 Gram-Negative Bacteria
 
-Acinetobacter species Bartonella bacilliformis Brucella species Klebsiella species Klebsiella granulomatis Campylobacter fetus Enterobacter aerogenes Escherichia coli Francisella tularensis Haemophilus ducreyi Haemophilus influenza Neisseria gonorrhoeae Shigella species Vibrio cholerae Yersinia pestis
+Acinetobacter species Bartonella bacilliformis Brucella species Klebsiella species Klebsiella granulomatis Campylobacter fetus Enterobacter aerogenes Escherichia coli Francisella tularensis Haemophilus ducreyi Haemophilus influenzae Neisseria gonorrhoeae Shigella species Vibrio cholerae Yersinia pestis
 
 Gram-Positive Bacteria
 
@@ -45,7 +45,7 @@ Bacillus anthracis Listeria monocytogenes Streptococcus pneumoniae
 
 Anaerobic Bacteria
 
-Clostridium species Fusobacterium fusiforme Propioni bacterium acnes
+Clostridium species Fusobacterium fusiforme Propionibacterium acnes
 
 Other Bacteria
 
