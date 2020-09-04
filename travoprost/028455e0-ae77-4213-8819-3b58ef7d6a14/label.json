@@ -1,0 +1,21 @@
+{
+  "application_numbers": [
+    "NDA021994"
+  ],
+  "inn": "travoprost",
+  "labeler": "Novartis Pharmaceuticals Corporation",
+  "package_ndcs": [
+    "0078-0946-25",
+    "0078-0946-40",
+    "0078-0946-98"
+  ],
+  "products": [
+    {
+      "form": "SOLUTION/ DROPS",
+      "generic": "travoprost",
+      "name": "Travatan Z"
+    }
+  ],
+  "setid": "028455e0-ae77-4213-8819-3b58ef7d6a14",
+  "source": "dailymed"
+}

@@ -1,0 +1,13 @@
+# PRINCIPAL DISPLAY PANEL
+
+NDC 0078-0946-25
+
+Rx Only
+
+TRAVATAN Z®
+
+(travoprost ophthalmic solution) 0.004%
+
+5 mL STERILE
+
+NOVARTIS
