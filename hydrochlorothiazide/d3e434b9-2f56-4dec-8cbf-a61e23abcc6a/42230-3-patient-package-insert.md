@@ -59,6 +59,9 @@ Tell your doctor about all your medical conditions including if you:
 - have diabetes
 - have gout
 - have any allergies
+- have had skin cancer or if you develop a new skin lesion during the treatment.
+  Treatment with hydrochlorothiazide may increase the risk of some types of skin cancer (non-melanoma skin cancer).
+  Discuss with your doctor how to protect your skin from sun exposure and how often you should undergo skin cancer screening.
 
 Tell your doctor about all of the medicines you take, including prescription and non-prescription medicines, vitamins, and herbal supplements.
 
@@ -109,6 +112,7 @@ HYZAAR may cause the following side effects that may be serious:
   Tell your doctor right away if you have:
   - decrease in vision
   - eye pain
+- Sensitivity of the skin to the sun and risk of skin cancer.
 
 The most common side effects of HYZAAR in people with high blood pressure are:
 

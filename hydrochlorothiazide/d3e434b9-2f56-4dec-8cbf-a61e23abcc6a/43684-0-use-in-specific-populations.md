@@ -42,7 +42,7 @@ Thiazides can cross the placenta, and concentrations reached in the umbilical ve
 Hydrochlorothiazide, like other diuretics, can cause placental hypoperfusion.
 It accumulates in the amniotic fluid, with reported concentrations up to 19 times higher than in umbilical vein plasma.
 Use of thiazides during pregnancy is associated with a risk of fetal or neonatal jaundice or thrombocytopenia.
-Since they do not alter the course of preeclampsia, these drugs should not be used to treat hypertension in pregnant women.
+Since they do not alter the course of pre-eclampsia, these drugs should not be used to treat hypertension in pregnant women.
 The use of hydrochlorothiazide for other indications in pregnancy should be avoided.
 
 Data
