@@ -14,4 +14,4 @@ Refrigeration of the undiluted agent will assure full potency until expiration d
 All units carry a date of expiration.
 Store in refrigerator 2° to 8°C (36° to 46°F).
 The multi-dose vials are stable for up to 14 days at room temperature without significant loss of potency.
-Manufactured by: Gland Pharma Limited D.P.Pally, Hyderabad -500043, INDIA Issued date: May 2020
+Manufactured by: Gland Pharma Limited D.P.Pally, Hyderabad -500043, INDIA Issued date: August 2020

@@ -34,3 +34,14 @@ The occurrence of bradyarrhythmias may be reduced by pretreatment with atropine 
 Intramuscular Use If necessary, succinylcholine may be given intramuscularly to infants, older pediatric patients or adults when a suitable vein is inaccessible.
 A dose of up to 3 to 4 mg/kg may be given, but not more than 150 mg total dose should be administered by this route.
 The onset of effect of succinylcholine given intramuscularly is usually observed in about 2 to 3 minutes.
+
+Compatibility and Admixtures
+
+Succinylcholine is acidic (pH 3.5) and should not be mixed with alkaline solutions having a pH greater than 8.5 (e.g., barbiturate solutions).
+Admixtures containing 1 to 2 mg/mL may be prepared by adding 1 g succinylcholine chloride to 1,000 or 500 mL sterile solution, such as 5% Dextrose Injection, USP or 0.9% Sodium Chloride Injection, USP.
+Admixtures of succinylcholine chloride must be used within 24 hours after preparation.
+Aseptic techniques should be used to prepare the diluted product.
+Admixtures of succinylcholine chloride should be prepared for single patient use only.
+The unused portion of diluted succinylcholine chloride should be discarded.
+
+To prevent needle-stick injuries, needles should not be recapped, purposely bent, or broken by hand.
