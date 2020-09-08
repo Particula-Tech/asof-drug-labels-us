@@ -25,11 +25,11 @@ Available studies have methodological limitations including whether women who fi
 
 ## 8.2 Lactation
 
-1. Risk Summary
-2. There are no data on the presence of acyclovir or hydrocortisone in human milk following topical administration.
-   There are no data on the effects of acyclovir or hydrocortisone on the breastfed infant or on milk production.
-   Systemic exposure following topical administration of either drug is expected to be minimal.
-   The developmental and health benefits of breastfeeding should be considered along with the mother’s clinical need for XERESE and any potential adverse effects on the breastfed child from XERESE or from the underlying maternal condition.
+- Risk Summary
+- There are no data on the presence of acyclovir or hydrocortisone in human milk following topical administration.
+  There are no data on the effects of acyclovir or hydrocortisone on the breastfed infant or on milk production.
+  Systemic exposure following topical administration of either drug is expected to be minimal.
+  The developmental and health benefits of breastfeeding should be considered along with the mother’s clinical need for XERESE and any potential adverse effects on the breastfed child from XERESE or from the underlying maternal condition.
 
 ## 8.4 Pediatric Use
 

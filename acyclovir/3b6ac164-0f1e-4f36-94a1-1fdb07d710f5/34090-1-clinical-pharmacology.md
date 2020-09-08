@@ -20,27 +20,27 @@ Some of the topical corticosteroids and their metabolites are also excreted into
 
 ## 12.4 Microbiology
 
-1. Mechanism of Action
-2. Acyclovir is a synthetic purine deoxynucleoside analogue with inhibitory activity against herpes simplex viruses type 1 (HSV-1) and type 2 (HSV-2) DNA polymerases.
-   It inhibits HSV-1 and HSV-2 replication in cell culture and in vivo.
-3. The inhibitory activity of acyclovir is selective due to its affinity for the enzyme thymidine kinase (TK) encoded by HSV.
-   This viral enzyme converts acyclovir into acyclovir monophosphate, a deoxynucleotide analogue.
-   The monophosphate is further converted into diphosphate by cellular guanylate kinase and into triphosphate by a number of cellular enzymes.
-   In biochemical assays, acyclovir triphosphate inhibits replication of α-herpes viral DNA.
-   This inhibition is accomplished in 3 ways: 1) competitive inhibition of viral DNA polymerase, 2) incorporation into and termination of the growing viral DNA chain, and 3) inactivation of the viral DNA polymerase.
-4. Hydrocortisone is the main glucocorticoid secreted by the adrenal cortex.
-   It is used topically for its anti-inflammatory effects which suppress the clinical manifestations of the disease in a wide range of disorders where inflammation is a prominent feature.
-5. Antiviral Activity
-6. The quantitative relationship between the susceptibility of herpes viruses to antivirals in cell culture and the clinical response to therapy has not been established in humans, and virus sensitivity testing has not been standardized.
-   Sensitivity testing results, expressed as the concentration of drug required to inhibit by 50% the growth of virus in cell culture (EC50 value), vary greatly depending upon a number of factors.
-   Using plaque-reduction assays on Vero cells, the EC50 value of acyclovir against herpes virus isolates ranged from 0.09 to 60 µM (0.02 to 13.5 µg/mL) for HSV-1 and from 0.04 to 44 µM (0.01 to 9.9 µg/mL) for HSV-2.
-7. Resistance
-8. In Cell Culture
-9. Acyclovir-resistant HSV-1 and HSV-2 strains were isolated in cell culture.
-   Acyclovir-resistant HSV resulted from mutations in the viral thymidine kinase (TK; pUL23) and DNA polymerase (POL; pUL30) genes.
-   Frameshifts were commonly isolated and result in premature truncation of the HSV TK product with consequent decreased susceptibility to acyclovir.
-   Mutations in the viral TK gene may lead to complete loss of TK activity (TK negative), reduced levels of TK activity (TK partial), or alteration in the ability of viral TK to phosphorylate the drug without an equivalent loss in the ability to phosphorylate thymidine (TK altered).
-   In cell culture the following resistance-associated substitutions in TK of HSV-1 and HSV-2 were observed (Table 1).
+- Mechanism of Action
+- Acyclovir is a synthetic purine deoxynucleoside analogue with inhibitory activity against herpes simplex viruses type 1 (HSV-1) and type 2 (HSV-2) DNA polymerases.
+  It inhibits HSV-1 and HSV-2 replication in cell culture and in vivo.
+- The inhibitory activity of acyclovir is selective due to its affinity for the enzyme thymidine kinase (TK) encoded by HSV.
+  This viral enzyme converts acyclovir into acyclovir monophosphate, a deoxynucleotide analogue.
+  The monophosphate is further converted into diphosphate by cellular guanylate kinase and into triphosphate by a number of cellular enzymes.
+  In biochemical assays, acyclovir triphosphate inhibits replication of α-herpes viral DNA.
+  This inhibition is accomplished in 3 ways: 1) competitive inhibition of viral DNA polymerase, 2) incorporation into and termination of the growing viral DNA chain, and 3) inactivation of the viral DNA polymerase.
+- Hydrocortisone is the main glucocorticoid secreted by the adrenal cortex.
+  It is used topically for its anti-inflammatory effects which suppress the clinical manifestations of the disease in a wide range of disorders where inflammation is a prominent feature.
+- Antiviral Activity
+- The quantitative relationship between the susceptibility of herpes viruses to antivirals in cell culture and the clinical response to therapy has not been established in humans, and virus sensitivity testing has not been standardized.
+  Sensitivity testing results, expressed as the concentration of drug required to inhibit by 50% the growth of virus in cell culture (EC50 value), vary greatly depending upon a number of factors.
+  Using plaque-reduction assays on Vero cells, the EC50 value of acyclovir against herpes virus isolates ranged from 0.09 to 60 µM (0.02 to 13.5 µg/mL) for HSV-1 and from 0.04 to 44 µM (0.01 to 9.9 µg/mL) for HSV-2.
+- Resistance
+- In Cell Culture
+- Acyclovir-resistant HSV-1 and HSV-2 strains were isolated in cell culture.
+  Acyclovir-resistant HSV resulted from mutations in the viral thymidine kinase (TK; pUL23) and DNA polymerase (POL; pUL30) genes.
+  Frameshifts were commonly isolated and result in premature truncation of the HSV TK product with consequent decreased susceptibility to acyclovir.
+  Mutations in the viral TK gene may lead to complete loss of TK activity (TK negative), reduced levels of TK activity (TK partial), or alteration in the ability of viral TK to phosphorylate the drug without an equivalent loss in the ability to phosphorylate thymidine (TK altered).
+  In cell culture the following resistance-associated substitutions in TK of HSV-1 and HSV-2 were observed (Table 1).
 
 Table 1: Summary of Acyclovir (ACV) Resistance-associated Amino Acid Substitutions in Cell Culture
 
@@ -50,11 +50,11 @@ Table 1: Summary of Acyclovir (ACV) Resistance-associated Amino Acid Substitutio
 | HSV-1 | POL | D368A, Y557S, E597D, V621S, L702H, N815S, V817M, G841C |
 | HSV-2 | POL | - |
 
-1. In HSV-Infected Patients
-2. Clinical HSV-1 and HSV-2 isolates obtained from patients who failed treatment for their α-herpesvirus infections were evaluated for genotypic changes in the TK and POL genes and for phenotypic resistance to acyclovir (Table 2).
-   HSV isolates with frameshift mutations and resistance-associated substitutions in TK and POL were identified.
-   The listing of substitutions in HSV TK and POL leading to decreased susceptibility to acyclovir is not all inclusive and additional changes will likely be identified in HSV variants isolated from patients who fail acyclovir-containing regimens.
-   The possibility of viral resistance to acyclovir should be considered in patients who fail to respond or experience recurrent viral shedding during therapy.
+- In HSV-Infected Patients
+- Clinical HSV-1 and HSV-2 isolates obtained from patients who failed treatment for their α-herpesvirus infections were evaluated for genotypic changes in the TK and POL genes and for phenotypic resistance to acyclovir (Table 2).
+  HSV isolates with frameshift mutations and resistance-associated substitutions in TK and POL were identified.
+  The listing of substitutions in HSV TK and POL leading to decreased susceptibility to acyclovir is not all inclusive and additional changes will likely be identified in HSV variants isolated from patients who fail acyclovir-containing regimens.
+  The possibility of viral resistance to acyclovir should be considered in patients who fail to respond or experience recurrent viral shedding during therapy.
 
 Table 2: Summary of ACV Resistance-associated Amino Acid Substitutions Observed in Treated Patients
 
@@ -66,8 +66,8 @@ Table 2: Summary of ACV Resistance-associated Amino Acid Substitutions Observed 
 
 Note: Additional substitutions to acyclovir resistance may exist.
 
-1. Cross-resistance
-2. Cross-resistance has been observed among HSV isolates carrying frameshift mutations and resistance-associated substitutions, which confer reduced susceptibility to penciclovir (PCV), famciclovir (FCV), and foscarnet (FOS) [Table 3].
+- Cross-resistance
+- Cross-resistance has been observed among HSV isolates carrying frameshift mutations and resistance-associated substitutions, which confer reduced susceptibility to penciclovir (PCV), famciclovir (FCV), and foscarnet (FOS) [Table 3].
 
 Table 3: Summary of Amino Acid Substitutions Conferring Cross-Resistance to PCV, FCV or FOS
 

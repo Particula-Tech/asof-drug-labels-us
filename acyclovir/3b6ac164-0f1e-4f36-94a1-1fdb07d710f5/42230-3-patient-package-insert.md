@@ -66,17 +66,9 @@ Active ingredients: acyclovir and hydrocortisone
 Inactive ingredients: cetostearyl alcohol, citric acid monohydrate, isopropyl myristate, mineral oil, Poloxamer 188, propylene glycol, sodium lauryl sulfate, purified water, USP, sodium hydroxide, and white petrolatum.
 May also contain hydrochloric acid.
 
-Distributed by:
+Distributed by: Bausch Health US, LLC, Bridgewater, NJ 08807 USA
 
-Bausch Health US, LLC
-
-Bridgewater, NJ 08807 USA
-
-Manufactured by:
-
-Contract Pharmaceuticals Limited (CPL)
-
-Mississauga, Ontario L5N 6L6, Canada
+Manufactured by: Bausch Health Companies Inc., Laval, Quebec H7L 4A8, Canada
 
 Product under license from Meda Pharma S.A.R.L., Luxembourg by Bausch Health Ireland Limited, Dublin, Ireland
 
@@ -86,8 +78,12 @@ XERESE is a trademark of Meda Pharma S.A.R.L. used under license.
 
 Zovirax is a registered trademark of the GlaxoSmithKline group of companies.
 
-© 2019 Bausch Health Companies Inc. or its affiliates
+© 2020 Bausch Health Companies Inc. or its affiliates
 
-1. For more information call 1-800-321-4576.
-   This Patient Information has been approved by the U.S. Food and Drug Administration.
-   Revised: 12/2019
+For more information call 1-800-321-4576.
+
+This Patient Information has been approved by the U.S. Food and Drug Administration.
+
+Revised: 08/2020
+
+9587303

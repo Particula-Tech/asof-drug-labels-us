@@ -8,7 +8,7 @@ The safety data derived from XERESE clinical trials reflect exposure to XERESE i
 
 The most common adverse reactions (<1%) were local skin reactions, and occurred in the area of the application site, including:
 
-- •Drying or flaking of the skin; burning or tingling following application; erythema; pigmentation changes; application site reaction including signs and symptoms of inflammation.
+- -Drying or flaking of the skin; burning or tingling following application; erythema; pigmentation changes; application site reaction including signs and symptoms of inflammation.
 
 Contact dermatitis following application has been observed when applied under occlusion in dermal safety trials.
 Where contact sensitivity tests have been conducted, the reactive substances were hydrocortisone or a component of the cream base.
@@ -18,7 +18,7 @@ Of 205 evaluable subjects, one confirmed case (0.5%) of sensitization to hydroco
 Additionally, one subject developed a contact allergy in the photosafety study to propylene glycol, one of the inactive ingredients of the cream base.
 
 Dermal tolerance was assessed in a 21-day cumulative irritation trial in 36 healthy subjects.
-XERESE, its cream base and Zovirax® (acyclovir) Cream 5% all showed a high and cumulative irritation potential under occlusive and semiocclusive conditions.
+XERESE, its cream base and Zovirax® (acyclovir) Cream 5% all showed a high and cumulative irritation potential under occlusive and semi-occlusive conditions.
 
 Photoallergic potential and phototoxicity were assessed in two trials in 50 and 30 healthy volunteers, respectively.
 No photoallergic or phototoxicity potential was identified for XERESE.
