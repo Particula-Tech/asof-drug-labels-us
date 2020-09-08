@@ -2,7 +2,7 @@
 
 Hepatotoxicity in Patients with Severe Pre-Existing Hepatic Impairment Instruct patients to inform their physician about any underlying liver disease [see Warnings and Precautions (5.2)].
 
-Renal Toxicity Instruct patients to inform their physician about any underlying renal disease [see Warnings and Precautions (5.3) and see Use in Specific Populations (8.6)].
+Renal Toxicity Instruct patients to inform their physician about any underlying renal disease [see Warnings and Precautions (5.3)].
 
 Embryo-Fetal Risk Advise pregnant women of the potential risk to a fetus [see Warnings and Precautions (5.5) and see Use in Specific Populations (8.1)].
 
@@ -39,6 +39,6 @@ Ahmedabad-382 213,
 
 India.
 
-51 3597 0 720287
+51 3597 1 723571
 
-Issued: April 2019
+Issued: April 2020
