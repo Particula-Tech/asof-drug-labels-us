@@ -2,24 +2,32 @@
 
 ## 8.1 Pregnancy
 
-Pregnancy Category C
+Risk Summary Available data from published case reports with RYANODEX use in pregnant women are insufficient to evaluate for a drug-associated risk of major birth defects, miscarriage, or adverse maternal or fetal outcomes.
+Dantrolene readily crosses the placenta; however, no serious adverse events have been reported in the neonate following maternal administration of dantrolene prior to delivery.
+There are risks to the pregnant woman and fetus associated with untreated malignant hyperthermia (see Clinical Considerations).
+In animal reproduction studies, dantrolene sodium administered to rats and rabbits produced embryolethality (rabbits) and decreased pup survival (rats) at doses seven times the human oral dose (see Data).
 
-Adequate and well controlled studies have not been conducted with RYANODEX in pregnant women.
-However, animal reproduction studies have been conducted with dantrolene sodium.
-In these studies, dantrolene sodium administered to rats and rabbits produced embryolethality (rabbits) and decreased pup survival (rats) at doses seven times the human oral dose.
-RYANODEX should be used during pregnancy only if the potential benefit justifies the potential risk to the fetus.
+The estimated background risk of major birth defects and miscarriage for the indicated population is unknown.
+All pregnancies have a background risk of birth defect, loss, or other adverse outcomes.
+In the U.S. general population, the estimated background risk of major birth defects and miscarriage in clinically recognized pregnancies is 2 to 4% and 15 to 20%, respectively.
 
-## 8.2 Labor and Delivery
+Clinical Considerations Disease-associated maternal and embryo/fetal risk Malignant hyperthermia is a medical emergency which can be fatal for the pregnant woman and fetus if left untreated.
+Life-sustaining therapy should not be withheld due to pregnancy.
 
-In one uncontrolled study, 100 mg per day of prophylactic oral dantrolene sodium was administered to term pregnant patients awaiting labor and delivery.
+Labor or Delivery In one uncontrolled study, 100 mg per day of prophylactic oral dantrolene sodium was administered to term pregnant patients awaiting labor and delivery.
 Dantrolene readily crossed the placenta, with maternal and fetal whole blood levels approximately equal at delivery; neonatal levels then fell approximately 50% per day for 2 days before declining sharply.
 No neonatal respiratory and neuromuscular side effects were observed in this study.
 
-## 8.3 Nursing Mothers
+Data Animal Data Animal reproduction studies have been conducted with dantrolene sodium.
+In these studies, dantrolene sodium administered to rats and rabbits produced embryolethality (rabbits) and decreased pup survival (rats) at doses seven times the human oral dose.
 
-Dantrolene is present in human milk.
-In one case report, low dantrolene concentrations (less than 2 micrograms per milliliter) were measured in the breast milk of a lactating woman during repeat intravenous dantrolene administration over 3 days.
-Because of the potential for serious adverse reactions of respiratory depression and muscle weakness in nursing infants from dantrolene, a decision should be made whether to discontinue nursing or to discontinue the drug, taking into account the importance of the drug to the mother.
+## 8.2 Lactation
+
+Risk Summary Dantrolene is reported to be present in human milk following intravenous administration over 3 days.
+There are no data on the effects on the breastfed infant or the effects on milk production.
+Because of the potential for serious adverse reactions in the breastfed infant, including respiratory depression and muscle weakness, advise patients that breastfeeding is not recommended during treatment with RYANODEX, and for 3 days after the last dose.
+
+Clinical Considerations A lactating woman should interrupt breastfeeding and pump and discard breast milk during treatment and for 3 days after RYANODEX administration.
 
 ## 8.4 Pediatric Use
 

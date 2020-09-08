@@ -46,21 +46,13 @@ Table 1: Adverse Events in Healthy Volunteers
 The following adverse reactions have been identified during postapproval use of another formulation of dantrolene sodium for injection.
 Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
 
-Pulmonary Edema
-
-There have been reports of pulmonary edema developing during the treatment of malignant hyperthermia crises with another dantrolene sodium dosage form.
+Pulmonary Edema There have been reports of pulmonary edema developing during the treatment of malignant hyperthermia crises with another dantrolene sodium dosage form.
 The contributory effect of the diluent volume and mannitol in these cases is not known.
 
-Thrombophlebitis and Tissue Necrosis
-
-There have been reports of thrombophlebitis following administration of intravenous dantrolene.
+Thrombophlebitis and Tissue Necrosis There have been reports of thrombophlebitis following administration of intravenous dantrolene.
 Tissue necrosis secondary to extravasation has been reported [see Warnings and Precautions (5.3)].
 
-Hypersensitivity/Anaphylactic Reactions
-
-There have been reports of urticaria and erythema possibly associated with the administration of dantrolene sodium for injection.
+Hypersensitivity/Anaphylactic Reactions There have been reports of urticaria and erythema possibly associated with the administration of dantrolene sodium for injection.
 Anaphylaxis has been reported.
 
-Injection Site Reactions
-
-Injection site reactions including pain, erythema, and swelling, commonly due to extravasation, have been reported.
+Injection Site Reactions Injection site reactions including pain, erythema, and swelling, commonly due to extravasation, have been reported.

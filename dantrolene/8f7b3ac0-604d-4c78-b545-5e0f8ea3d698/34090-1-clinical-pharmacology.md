@@ -34,18 +34,14 @@ Table 2: Pharmacokinetic Parameters for Dantrolene in Healthy Volunteers (Mean Â
 
 When prophylactic intravenous dantrolene infusion was administered, whole blood dantrolene concentrations remained at a near steady state level for 3 or more hours after the infusion was completed.
 
-Distribution
-
-Based on assays of whole blood and plasma, slightly greater amounts of dantrolene are associated with red blood cells than with the plasma fraction of blood.
+Distribution Based on assays of whole blood and plasma, slightly greater amounts of dantrolene are associated with red blood cells than with the plasma fraction of blood.
 Significant amounts of dantrolene are bound to plasma proteins, mostly albumin, and this binding is readily reversible.
 Binding to plasma protein is not significantly altered by diazepam, diphenylhydantoin, or phenylbutazone.
 Binding to plasma proteins is reduced by warfarin and clofibrate and increased by tolbutamide.
 
 Information concerning the passage of dantrolene across the blood-brain barrier is not available.
 
-Metabolism
-
-Dantrolene is found in measurable amounts in blood and urine.
+Metabolism Dantrolene is found in measurable amounts in blood and urine.
 Its major metabolites in body fluids are 5-hydroxy dantrolene and an acetylamino metabolite of dantrolene.
 Another metabolite with an unknown structure appears related to the latter.
 Dantrolene may also undergo hydrolysis and subsequent oxidation forming nitrophenylfuroic acid.
