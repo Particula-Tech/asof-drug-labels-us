@@ -3,7 +3,7 @@
 Fluorouracil 5% Topical Cream may cause fetal harm when administered to a pregnant woman.
 
 There are no adequate and well-controlled studies in pregnant women with either the topical or the parenteral forms of fluorouracil.
-One birth defect (cleft lip and palate) has been reported in the newborn of a patient using Fluorouracil 5% Topical Cream as recommended.
+One birth defect (cleft lip and palate) has been reported in the newborn of a patient using 5% Topical Cream as recommended.
 One birth defect (ventricular septal defect) and cases of miscarriage have been reported when Fluorouracil 5% Topical Cream was applied to mucous membrane areas.
 Multiple birth defects have been reported in a fetus of a patient treated with intravenous fluorouracil.
 

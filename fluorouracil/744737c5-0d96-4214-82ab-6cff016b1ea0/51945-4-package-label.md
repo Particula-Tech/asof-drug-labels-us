@@ -8,5 +8,18 @@ FOR TOPICAL USE ONLY - NOT FOR OPHTHALMIC, ORAL OR INTRAVAGINAL USE
 
 40 g
 
-FOR EXTERNAL USE ONLY TO OPEN: Remove cap and puncture seal with point on cap.
+Usual Dosage: For dosage recommendations and other important prescribing information, read accompanying insert.
+
+Store at 25°C (77°F); excursions permitted to 15°C to 30°C (59°F to 86°F).
+
+FOR EXTERNAL USE ONLY.
+
+Keep this and all medications out of the reach of children.
+
+Contains 5% fluorouracil in a vanishing cream base consisting of white petrolatum, stearyl alcohol, propylene glycol, polysorbate 60 and parabens (methyl and propyl).
+
 Apply preferably with a nonmetal applicator or suitable glove.
+
+Manufactured for: Mylan Pharmaceuticals Inc. Morgantown, WV 26505 U.S.A.
+
+Mylan.com

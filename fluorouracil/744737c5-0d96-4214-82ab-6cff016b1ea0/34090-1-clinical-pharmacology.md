@@ -4,7 +4,7 @@ There is evidence that the metabolism of fluorouracil in the anabolic pathway bl
 In this manner fluorouracil interferes with the synthesis of deoxyribonucleic acid (DNA) and to a lesser extent inhibits the formation of ribonucleic acid (RNA).
 Since DNA and RNA are essential for cell division and growth, the effect of fluorouracil may be to create a thymine deficiency which provokes unbalanced growth and death of the cell.
 The effects of DNA and RNA deprivation are most marked on those cells which grow more rapidly and take up fluorouracil at a more rapid rate.
-The catabolic metabolism of fluorouracil results in degradation products (eg, COz, urea, a-fluoro-(3-alanine) which are inactive.
+The catabolic metabolism of fluorouracil results in degradation products (eg, CO2, urea, α-fluoro-β(3-alanine) which are inactive.
 
 Systemic absorption studies of topically applied fluorouracil have been performed on patients with actinic keratoses using tracer amounts of 14C-labeled fluorouracil added to a 5% preparation.
 All patients had been receiving nonlabeled fluorouracil until the peak of the inflammatory reaction occurred (2 to 3 weeks), ensuring that the time of maximum absorption was used for measurement.
