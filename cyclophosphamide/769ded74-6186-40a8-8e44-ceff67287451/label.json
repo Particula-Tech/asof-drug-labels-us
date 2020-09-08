@@ -1,0 +1,22 @@
+{
+  "application_numbers": [
+    "NDA012141"
+  ],
+  "inn": "cyclophosphamide",
+  "labeler": "Baxter Healthcare Corporation",
+  "package_ndcs": [
+    "10019-982-01",
+    "10019-982-09",
+    "10019-984-01",
+    "10019-984-09"
+  ],
+  "products": [
+    {
+      "form": "TABLET",
+      "generic": "cyclophosphamide",
+      "name": "Cyclophosphamide"
+    }
+  ],
+  "setid": "769ded74-6186-40a8-8e44-ceff67287451",
+  "source": "dailymed"
+}
