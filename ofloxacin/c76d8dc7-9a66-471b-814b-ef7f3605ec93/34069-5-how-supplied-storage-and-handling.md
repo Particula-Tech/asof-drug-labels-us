@@ -20,15 +20,15 @@ Waluj, Aurangabad - 431 136,
 
 Maharashtra, India
 
-Distributed by:
+Manufactured for:
 
 Rising Pharmaceuticals, Inc.
 
-Saddle Brook, NJ 07663
+Allendale, NJ 07401
 
 Toll free number: 1-800-521-5340
 
-Revised: 02/2018
+Revised: 07/2020
 
 INSTRUCTIONS FOR USE
 
