@@ -52,10 +52,10 @@ For more information about VALTOCO, please visit www.valtoco.com or call 1-866-6
 You are encouraged to report side effects of prescription drugs to the FDA by visiting www.fda.gov/medwatch or by calling 1-800-FDA-1088.
 
 This Instructions for Use has been approved by the U.S. Food and Drug Administration.
-Issued: 1/2020
+Issued: 2/2020
 
 © Neurelis, Inc. 2020.
-Neurelis, VALTOCO, and the Neurelis and VALTOCO design marks are registered trademarks of Neurelis, Inc. US-PRC-20-00017 1/2020
+NEURELIS and VALTOCO and the NEURELIS and VALTOCO logos are registered trademarks of Neurelis, Inc. Part #124114 2/2020
 
 # INSTRUCTIONS FOR USE
 
@@ -111,7 +111,7 @@ For more information about VALTOCO, please visit www.valtoco.com or call 1-866-6
 You are encouraged to report side effects of prescription drugs to the FDA by visiting www.fda.gov/medwatch or by calling 1-800-FDA-1088.
 
 This Instructions for Use has been approved by the U.S. Food and Drug Administration.
-Issued: 1/2020
+Issued: 2/2020
 
 © Neurelis, Inc. 2020.
-Neurelis, VALTOCO, and the Neurelis and VALTOCO design marks are registered trademarks of Neurelis, Inc. US-PRC-20-00016 1/2020
+NEURELIS and VALTOCO and the NEURELIS and VALTOCO logos are registered trademarks of Neurelis, Inc. Part #124118 2/2020

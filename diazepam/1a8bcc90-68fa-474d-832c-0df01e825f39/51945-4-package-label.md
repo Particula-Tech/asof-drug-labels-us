@@ -1,8 +1,6 @@
 # PRINCIPAL DISPLAY PANEL - 5 mg Device Blister Pack Carton
 
-NDC 72252-505-02
-
-Rx Only
+NDC 72252-505-02 Rx Only
 
 VALTOCO® (diazepam nasal spray) CIV
 
@@ -25,9 +23,7 @@ Check product expiration date before use.
 
 # PRINCIPAL DISPLAY PANEL - 15 mg Device Blister Pack Carton
 
-NDC 72252-515-04
-
-Rx Only
+NDC 72252-515-04 Rx Only
 
 VALTOCO® (diazepam nasal spray) CIV
 
@@ -41,7 +37,7 @@ Do NOT open blister packs or test nasal sprays before use.
 
 This box contains 2 blister packs.
 Each blister pack contains 2 nasal spray devices.
-2 devices contain 1 dose (15 mg)
+2 devices contains 1 dose (15 mg)
 
 ATTENTION PHARMACIST: The entire carton is to be dispensed as a unit.
 Dispense the enclosed medication guide to the patient.
@@ -50,9 +46,7 @@ Check product expiration date before use.
 
 # PRINCIPAL DISPLAY PANEL - 10 mg Device Blister Pack Carton
 
-NDC 72252-510-02
-
-Rx Only
+NDC 72252-510-02 Rx Only
 
 VALTOCO® (diazepam nasal spray) CIV
 
@@ -75,9 +69,7 @@ Check product expiration date before use.
 
 # PRINCIPAL DISPLAY PANEL - 20 mg Device Blister Pack Carton
 
-NDC 72252-520-04
-
-Rx Only
+NDC 72252-520-04 Rx Only
 
 VALTOCO® (diazepam nasal spray) CIV
 

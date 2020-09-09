@@ -32,5 +32,5 @@
 | What are the ingredients in VALTOCO? |  |  |  |  |
 | Active ingredient: diazepam |  |  |  |  |
 | Inactive ingredients: benzyl alcohol, dehydrated alcohol, n-dodecyl beta-D-maltoside, and vitamin E. |  |  |  |  |
-| Distributed by Neurelis, Inc., San Diego, CA 92130 USA. VALTOCO and NEURELIS are registered trademarks of Neurelis, Inc. For more information, go to www.valtoco.com or call 1-866-696-3873. |  |  |  |  |
-| This Medication Guide has been approved by the U.S. Food and Drug Administration. |  |  |  | Issued: 01/2020 |
+| Distributed by Neurelis, Inc., San Diego, CA 92121 USA. NEURELIS and VALTOCO and the NEURELIS and VALTOCO logos are registered trademarks of Neurelis, Inc. For more information, go to www.valtoco.com or call 1-866-696-3873. |  |  |  |  |
+| This Medication Guide has been approved by the U.S. Food and Drug Administration. |  |  |  | Issued: 02/2020 |
