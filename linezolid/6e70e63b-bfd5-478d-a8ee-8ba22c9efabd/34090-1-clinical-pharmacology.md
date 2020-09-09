@@ -6,8 +6,8 @@ ZYVOX is an antibacterial drug [see Microbiology (12.4)].
 
 ## 12.2 Pharmacodynamics
 
-In a randomized, positive- and placebo-controlled crossover thorough QT study, 40 healthy subjects were administered a single ZYVOX 600 mg dose via a 1 hour IV infusion, a single ZYVOX 1200 mg dose via a 1 hour IV infusion, placebo, and a single oral dose of positive control.
-At both the 600 mg and 1200 mg ZYVOX doses, no significant effect on QTc interval was detected at peak plasma concentration or at any other time.
+In a randomized, positive- and placebo-controlled crossover thorough QT study, 40 healthy subjects were administered a single ZYVOX 600 mg dose via a 1 hour IV infusion, a single ZYVOX 1,200 mg dose via a 1 hour IV infusion, placebo, and a single oral dose of positive control.
+At both the 600 mg and 1,200 mg ZYVOX doses, no significant effect on QTc interval was detected at peak plasma concentration or at any other time.
 
 ## 12.3 Pharmacokinetics
 
@@ -179,7 +179,7 @@ Therefore, linezolid is not expected to affect the pharmacokinetics of other dru
 Concurrent administration of linezolid does not substantially alter the pharmacokinetic characteristics of (S)-warfarin, which is extensively metabolized by CYP2C9.
 Drugs such as warfarin and phenytoin, which are CYP2C9 substrates, may be given with linezolid without changes in dosage regimen.
 
-Antibiotics
+Antibacterial Drugs
 
 Aztreonam: The pharmacokinetics of linezolid or aztreonam are not altered when administered together.
 
@@ -189,7 +189,7 @@ Antioxidants
 
 The potential for drug-drug interactions with linezolid and the antioxidants Vitamin C and Vitamin E was studied in healthy volunteers.
 Subjects were administered a 600 mg oral dose of linezolid on Day 1, and another 600 mg dose of linezolid on Day 8.
-On Days 2–9, subjects were given either Vitamin C (1000 mg/day) or Vitamin E (800 IU/ day).
+On Days 2–9, subjects were given either Vitamin C (1,000 mg/day) or Vitamin E (800 IU/ day).
 The AUC0–∞ of linezolid increased 2.3% when co-administered with Vitamin C and 10.9% when co-administered with Vitamin E. No linezolid dose adjustment is recommended during co-administration with Vitamin C or Vitamin E.
 
 Strong CYP 3A4 Inducers

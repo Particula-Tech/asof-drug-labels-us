@@ -4,9 +4,9 @@
 
 Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in practice.
 
-Adults:
+Adults
 
-The safety of ZYVOX formulations was evaluated in 2046 adult patients enrolled in seven Phase 3 comparator-controlled clinical trials, who were treated for up to 28 days.
+The safety of ZYVOX formulations was evaluated in 2,046 adult patients enrolled in seven Phase 3 comparator-controlled clinical trials, who were treated for up to 28 days.
 
 Of the patients treated for uncomplicated skin and skin structure infections (uSSSIs), 25.4% of ZYVOX-treated and 19.6% of comparator-treated patients experienced at least one drug-related adverse event.
 For all other indications, 20.4% of ZYVOX -treated and 14.3% of comparator-treated patients experienced at least one drug-related adverse event.
@@ -39,7 +39,7 @@ Of the patients treated for uSSSIs, 3.5% of ZYVOX-treated and 2.4% of comparator
 For all other indications, discontinuations due to drug-related adverse events occurred in 2.1% of ZYVOX-treated and 1.7% of comparator-treated patients.
 The most common reported drug-related adverse events leading to discontinuation of treatment were nausea, headache, diarrhea, and vomiting.
 
-Pediatric Patients:
+Pediatric Patients
 
 The safety of ZYVOX formulations was evaluated in 215 pediatric patients ranging in age from birth through 11 years, and in 248 pediatric patients aged 5 through 17 years (146 of these 248 were age 5 through 11 and 102 were age 12 to 17).
 These patients were enrolled in two Phase 3 comparator-controlled clinical trials and were treated for up to 28 days.
@@ -73,7 +73,7 @@ Incidence (%) of Treatment-Emergent Adverse Reactions Occurring in > 1% of Pedia
 Of the pediatric patients treated for uSSSIs, 1.6% of ZYVOX-treated and 2.4% of comparator-treated patients discontinued treatment due to drug-related adverse events.
 For all other indications, discontinuations due to drug-related adverse events occurred in 0.9% of ZYVOX-treated and 6.1% of comparator-treated patients.
 
-Laboratory Abnormalities:
+Laboratory Abnormalities
 
 ZYVOX has been associated with thrombocytopenia when used in doses up to and including 600 mg every 12 hours for up to 28 days.
 In Phase 3 comparator-controlled trials, the percentage of adult patients who developed a substantially low platelet count (defined as less than 75% of lower limit of normal and/or baseline) was 2.4% (range among studies: 0.3 to 10.0%) with ZYVOX and 1.5% (range among studies: 0.4 to 7.0%) with a comparator.

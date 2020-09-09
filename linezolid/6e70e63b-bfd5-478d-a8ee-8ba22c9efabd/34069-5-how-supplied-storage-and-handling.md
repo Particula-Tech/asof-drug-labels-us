@@ -3,13 +3,13 @@
 ## 16.1 Injection
 
 ZYVOX I.V.
-Injection is available in single-use, ready-to-use flexible plastic infusion bags in a foil laminate overwrap.
-The infusion bags and ports are latex-free.
+Injection is available in single-dose, ready-to-use flexible plastic infusion bags in a foil laminate overwrap.
+The infusion bags and ports are not made with natural rubber latex.
 The infusion bags are available in the following package sizes:
 
-| 200 mg linezolid in a 100 mL bag (2 mg/mL) × 10 | NDC 0009-5137-04 |
+| 200 mg/100 mL (2 mg/mL) linezolid × 10 | NDC 0009-5137-04 |
 | --- | --- |
-| 600 mg linezolid in a 300 mL bag (2 mg/mL) × 10 | NDC 0009-5140-04 |
+| 600 mg/300 mL (2 mg/mL) linezolid × 10 | NDC 0009-5140-04 |
 
 ## 16.2 Tablets
 
@@ -27,7 +27,7 @@ ZYVOX for Oral Suspension is available as a dry, white to off-white, orange-flav
 When constituted as directed, each bottle will contain 150 mL of a suspension providing the equivalent of 100 mg of linezolid per each 5 mL.
 ZYVOX for Oral Suspension is supplied as follows:
 
-| 100 mg/5 mL in 240-mL glass bottles | NDC 0009-5136-01 |
+| 100 mg/5 mL in 240 mL glass bottles | NDC 0009-5136-01 |
 | --- | --- |
 
 ## 16.4 Storage and Handling

@@ -122,7 +122,7 @@ One group of patients received ZYVOX I.V.
 Injection 10 mg/kg every 8 hours followed by ZYVOX for Oral Suspension 10 mg/kg every 8 hours.
 A second group received vancomycin 10 to 15 mg/kg intravenously every 6 to 24 hours, depending on age and renal clearance.
 Patients who had confirmed VRE infections were placed in a third arm of the study and received ZYVOX 10 mg/kg every 8 hours intravenously and/or orally.
-All patients were treated for a total of 10 to 28 days and could receive concomitant Gram-negative antibiotics if clinically indicated.
+All patients were treated for a total of 10 to 28 days and could receive concomitant Gram-negative antibacterial drugs if clinically indicated.
 In the intent-to-treat (ITT) population, there were 206 patients randomized to linezolid and 102 patients randomized to vancomycin.
 The cure rates for ITT, MITT, and clinically evaluable patients are presented in Table 16.
 After the study was completed, 13 additional patients ranging from 4 days through 16 years of age were enrolled in an open-label extension of the VRE arm of the study.

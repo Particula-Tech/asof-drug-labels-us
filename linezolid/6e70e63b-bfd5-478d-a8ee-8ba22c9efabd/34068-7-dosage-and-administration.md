@@ -21,7 +21,7 @@ No dose adjustment is necessary when switching from intravenous to oral administ
 ## 2.2 Intravenous Administration
 
 ZYVOX I.V.
-Injection is supplied in single-use, ready-to-use infusion bags.
+Injection is supplied in single-dose, ready-to-use infusion bags.
 Parenteral drug products should be inspected visually for particulate matter prior to administration.
 Check for minute leaks by firmly squeezing the bag.
 If leaks are detected, discard the solution, as sterility may be impaired.
@@ -37,6 +37,7 @@ Do not use this intravenous infusion bag in series connections.
 Additives should not be introduced into this solution.
 If ZYVOX I.V.
 Injection is to be given concomitantly with another drug, each drug should be given separately in accordance with the recommended dosage and route of administration for each product.
+Discard unused portion.
 
 If the same intravenous line is used for sequential infusion of several drugs, the line should be flushed before and after infusion of ZYVOX I.V.
 Injection with an infusion solution compatible with ZYVOX I.V.
