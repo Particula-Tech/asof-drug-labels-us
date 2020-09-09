@@ -1,0 +1,22 @@
+{
+  "application_numbers": [
+    "NDA206976"
+  ],
+  "inn": "diclofenac",
+  "labeler": "IBSA Pharma Inc.",
+  "package_ndcs": [
+    "71858-0305-1",
+    "71858-0305-2",
+    "71858-0305-4",
+    "71858-0305-5"
+  ],
+  "products": [
+    {
+      "form": "SYSTEM",
+      "generic": "diclofenac epolamine",
+      "name": "LICART"
+    }
+  ],
+  "setid": "851c8b39-6056-4bbc-812e-b9b13977c1ac",
+  "source": "dailymed"
+}
