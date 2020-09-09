@@ -1,13 +1,15 @@
-# 1 gram Label
+# 1 gram Carton
 
 NDC 0409-7333-49
 
 Ceftriaxone
 
-For Injection, USP
+for Injection, USP
 
 For I.V.
 Use 1 gram
+
+Single-Dose Vials
 
 10 ADD-Vantage® Vials
 

@@ -11,7 +11,7 @@ The incidence of warmth, tightness or induration was 17% (3/17) after IM adminis
 
 ## General Disorders and Administration Site Conditions
 
-Injection site pain (0.6%).
+Injection site pain (0.6%)
 
 ## Hypersensitivity
 
@@ -101,7 +101,7 @@ Symptomatic precipitation of ceftriaxone calcium salt in the gallbladder, kernic
 
 ## Cephalosporin Class Adverse Reactions
 
-In addition to the adverse reactions listed above which have been observed in patients treated with ceftriaxone, the following adverse reactions and altered laboratory test results have been reported for cephalosporin class antibiotics:
+In addition to the adverse reactions listed above which have been observed in patients treated with ceftriaxone, the following adverse reactions and altered laboratory test results have been reported for cephalosporin class antibiotics.
 
 ### Adverse Reactions
 

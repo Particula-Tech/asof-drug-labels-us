@@ -10,18 +10,6 @@ Serious acute hypersensitivity reactions may require the use of subcutaneous epi
 As with all beta-lactam antibacterial agents, serious and occasionally fatal hypersensitivity reactions (i.e., anaphylaxis) have been reported.
 In case of severe hypersensitivity reactions, treatment with ceftriaxone must be discontinued immediately and adequate emergency measures must be initiated.
 
-## Methemoglobinemia
-
-Cases of methemoglobinemia have been reported in association with local anesthetic use (e.g. lidocaine).
-Although all patients are at risk for methemoglobinemia, patients with glucose-6-phosphate dehydrogenase deficiency, congenital or idiopathic methemoglobinemia, cardiac or pulmonary compromise, infants under 6 months of age, and concurrent exposure to oxidizing agents or their metabolites are more susceptible to developing clinical manifestations of the condition.
-If local anesthetics must be used in these patients, close monitoring for symptoms and signs of methemoglobinemia is recommended.
-
-Signs and symptoms of methemoglobinemia may occur immediately or may be delayed some hours after exposure, and are characterized by a cyanotic skin discoloration and abnormal coloration of the blood.
-Methemoglobin levels may continue to rise; therefore, immediate treatment is required to avert more serious central nervous system and cardiovascular adverse effects, including seizures, coma, arrhythmias, and death.
-Discontinue Ceftriaxone for injection, ADD-Vantage® System and any other oxidizing agents.
-Depending on the severity of the symptoms, patients may respond to supportive care, i.e., oxygen therapy, hydration.
-More severe symptoms may require treatment with methylene blue, exchange transfusion, or hyperbaric oxygen.
-
 ## Interaction with Calcium-Containing Products
 
 Do not use diluents containing calcium, such as Ringer’s solution or Hartmann’s solution, to reconstitute ceftriaxone vials or to further dilute a reconstituted vial for IV administration because a precipitate can form.
@@ -72,7 +60,7 @@ In patients with both severe renal and hepatic dysfunction, close clinical monit
 Effect on Prothrombin Time
 
 Alterations in prothrombin times have occurred in patients treated with ceftriaxone.
-Monitor prothrombin time during ceftriaxone treatment in patients with impaired vitamin K synthesis or low vitamin K stores (eg, chronic hepatic disease and malnutrition).
+Monitor prothrombin time during ceftriaxone treatment in patients with impaired vitamin K synthesis or low vitamin K stores (e.g., chronic hepatic disease and malnutrition).
 Vitamin K administration (10 mg weekly) may be necessary if the prothrombin time is prolonged before or during therapy.
 
 Concomitant use of ceftriaxone with Vitamin K antagonists may increase the risk of bleeding.
@@ -104,8 +92,6 @@ A cofactor role of ceftriaxone-related biliary precipitation cannot be ruled out
 
 ## Information for Patients
 
-- •Inform patients that use of local anesthetics may cause methemoglobinemia, a serious condition that must be treated promptly.
-  Advise patients or caregivers to stop use and seek immediate medical attention if they or someone in their care experience the following signs or symptoms: pale, gray, or blue colored skin (cyanosis); headache; rapid heart rate; shortness of breath; lightheadedness; or fatigue.
 - •Patients should be counseled that antibacterial drugs including ceftriaxone for injection should only be used to treat bacterial infections.
   They do not treat viral infections (e.g., common cold).
 - •When ceftriaxone for injection is prescribed to treat a bacterial infection, patients should be told that although it is common to feel better early in the course of therapy, the medication should be taken exactly as directed.
@@ -134,8 +120,6 @@ Ceftriaxone produced no impairment of fertility when given intravenously to rats
 
 Teratogenic Effects
 
-Pregnancy Category B
-
 Reproductive studies have been performed in mice and rats at doses up to 20 times the usual human dose and have no evidence of embryotoxicity, fetotoxicity or teratogenicity.
 In primates, no embryotoxicity or teratogenicity was demonstrated at a dose approximately 3 times the human dose.
 
@@ -144,7 +128,7 @@ Because animal reproductive studies are not always predictive of human response,
 
 Nonteratogenic Effects
 
-In rats, in the Segment I (fertility and general reproduction) and Segment III (perinatal and postnatal) studies with intravenously administered ceftriaxone, no adverse effects were noted on various reproductive parameters during gestation and lactation, including postnatal growth, functional behavior and reproductive ability of the offspring, at doses of 586 mg/kg/day or less
+In rats, in the Segment I (fertility and general reproduction) and Segment III (perinatal and postnatal) studies with intravenously administered ceftriaxone, no adverse effects were noted on various reproductive parameters during gestation and lactation, including postnatal growth, functional behavior and reproductive ability of the offspring, at doses of 586 mg/kg/day or less.
 
 ## Nursing Mothers
 
@@ -175,17 +159,3 @@ For this reason, urine-glucose determination during therapy with ceftriaxone sho
 The presence of ceftriaxone may falsely lower estimated blood glucose values obtained with some blood glucose monitoring systems.
 Please refer to instructions for use for each system.
 Alternative testing methods should be used if necessary.
-
-## Drug Interactions
-
-Patients that are administered local anesthetics may be at increased risk of developing methemoglobinemia when concurrently exposed to the following oxidizing agents:
-
-| Class | Examples |
-| --- | --- |
-| Nitrates/Nitrites | Nitroglycerin, nitroprusside, nitric oxide, nitrous oxide |
-| Local anesthetics | Benzocaine, lidocaine, bupivacaine, mepivacaine, tetracaine, prilocaine, procaine, articaine |
-| Antineoplastic agents | cyclophosphamide, flutamide, rasburicase, isofamide, hydroxyurea |
-| Antibiotics | dapsone, sulfonamides, nitrofurantoin, paraaminosalicylic acid |
-| Antimalarials | chloroquine, primaquine |
-| Anticonvulsants | phenytoin, sodium valproate, phenobarbital |
-| Other drugs | acetaminophen, metoclopramide, sulfa drugs (i.e., sulfasalazine), quinine |

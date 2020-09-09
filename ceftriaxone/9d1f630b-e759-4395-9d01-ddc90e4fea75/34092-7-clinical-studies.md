@@ -7,7 +7,7 @@ Ceftriaxone in ADD-Vantage® vials is not intended for intramuscular use.)
 In two adequate and well-controlled US clinical trials a single IM dose of ceftriaxone was compared with a 10 day course of oral antibiotic in pediatric patients between the ages of 3 months and 6 years.
 The clinical cure rates and statistical outcome appear in the table below:
 
-Table 7.
+Table 5.
 Clinical Efficacy in Pediatric Patients with Acute Bacterial Otitis Media
 
 | Study Day | Ceftriaxone Single Dose | Comparator- 10 Days of Oral Therapy | 95% Confidence Interval | Statistical Outcome |
@@ -16,7 +16,7 @@ Clinical Efficacy in Pediatric Patients with Acute Bacterial Otitis Media
 | Study 1 – US |  | amoxicillin/clavulanate |  | Ceftriaxone is lower than control at study day 14 and 28. |
 | 14 | 74% (220/296) | 82% (247/302) | (-14.4%, -0.5%) |  |
 | 28 | 58% (167/288) | 67% (200/297) | (-17.5%, -1.2%) |  |
-| Study 2 – US5 |  | TMP-SMZ |  | Ceftriaxone is equivalent to control at study day 14 and 28. |
+| Study 2 – US |  | TMP-SMZ |  | Ceftriaxone is equivalent to control at study day 14 and 28. |
 | 14 | 54% (113/210) | 60% (124/206) | (-16.4%, 3.6%) |  |
 | 28 | 35% (73/206) | 45% (93/205) | (-19.9%, 0.0%) |  |
 
@@ -25,7 +25,7 @@ The results of this study are tabulated as follows:
 
 Week 2 and 4 Bacteriologic Eradication Rates in the Per Protocol Analysis in the Roche Bacteriologic Study by pathogen:
 
-Table 8.
+Table 6.
 Bacteriologic Eradication Rates by Pathogen
 
 | No. Analyzed | No. Erad. (%) | No. Analyzed | No. Erad. (%) |  |

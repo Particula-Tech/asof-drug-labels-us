@@ -76,12 +76,12 @@ Searle & Co.
 
 ADD-Vantage® is a trademark of Hospira, Inc.
 
-Revised: January 2019
-
-46222442
-
 Novaplus is a registered trademark of Vizient, Inc.
 
-Manufactured in Austria by Sandoz GmbH for Hospira, Inc.
+Revised: August 2020
+
+46274075
+
+Manufactured by Sandoz GmbH for Hospira, Inc.
 
 Lake Forest, IL 60045, USA
