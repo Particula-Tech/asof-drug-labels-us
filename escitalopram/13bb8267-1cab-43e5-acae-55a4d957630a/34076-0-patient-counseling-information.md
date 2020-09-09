@@ -1,31 +1,18 @@
 # 17PATIENT COUNSELING INFORMATION
 
-See FDA-approved Medication Guide
+Advise the patient to read the FDA-approved patient labeling (Medication Guide).
 
-## 17.1Information for Patients
+Suicidal Thoughts and Behaviors
 
-Physicians are advised to discuss the following issues with patients for whom they prescribe Lexapro.
-
-General Information about Medication Guide
-
-Prescribers or other health professionals should inform patients, their families, and their caregivers about the benefits and risks associated with treatment with Lexapro and should counsel them in its appropriate use.
-A patient Medication Guide about “Antidepressant Medicines, Depression and other Serious Mental Illness, and Suicidal Thoughts or Actions” is available for Lexapro.
-The prescriber or health professional should instruct patients, their families, and their caregivers to read the Medication Guide and should assist them in understanding its contents.
-Patients should be given the opportunity to discuss the contents of the Medication Guide and to obtain answers to any questions they may have.
-The complete text of the Medication Guide is reprinted at the end of this document.
-
-Patients should be advised of the following issues and asked to alert their prescriber if these occur while taking Lexapro.
-
-Clinical Worsening and Suicide Risk
-
-Patients, their families, and their caregivers should be encouraged to be alert to the emergence of anxiety, agitation, panic attacks, insomnia, irritability, hostility, aggressiveness, impulsivity, akathisia (psychomotor restlessness), hypomania, mania, other unusual changes in behavior, worsening of depression, and suicidal ideation, especially early during antidepressant treatment and when the dose is adjusted up or down.
-Families and caregivers of patients should be advised to look for the emergence of such symptoms on a day-to-day basis, since changes may be abrupt.
-Such symptoms should be reported to the patient's prescriber or health professional, especially if they are severe, abrupt in onset, or were not part of the patient's presenting symptoms.
-Symptoms such as these may be associated with an increased risk for suicidal thinking and behavior and indicate a need for very close monitoring and possibly changes in the medication [see Warnings and Precautions (5.1)].
+Advise patients, their families and caregivers to look for the emergence of suicidal ideation and behavior, especially during treatment and when the dose is adjusted up or down, and instruct them to report such symptoms to their healthcare provider [see Boxed Warning and Warnings and Precautions (5.1)]
 
 Serotonin Syndrome
 
 Patients should be cautioned about the risk of serotonin syndrome with the concomitant use of Lexapro with other serotonergic drugs including triptans, tricyclic antidepressants, fentanyl, lithium, tramadol, tryptophan, buspirone, amphetamines and St. John’s Wort, and with drugs that impair metabolism of serotonin (in particular, MAOIs, both those intended to treat psychiatric disorders and also others, such as linezolid) [see Warnings and Precautions (5.2)].
+
+Activation of Mania or Hypomania
+
+Advise patients and their caregivers to observe for signs of activation of mania/hypomania and instruct them to report such symptoms to the healthcare provider [see Warnings and Precautions (5.5)].
 
 Abnormal Bleeding
 
@@ -55,12 +42,17 @@ Alcohol
 
 Patients should be told that, although Lexapro has not been shown in experiments with normal subjects to increase the mental and motor skill impairments caused by alcohol, the concomitant use of Lexapro and alcohol in depressed patients is not advised.
 
-Pregnancy and Breast Feeding
+Pregnancy
 
-Patients should be advised to notify their physician if they
+Advise pregnant women to notify their healthcare providers if they become pregnant or intend to become pregnant during treatment with Lexapro.
 
-- become pregnant or intend to become pregnant during therapy.
-- are breastfeeding an infant.
+Advise patients that Lexapro use later in pregnancy may lead to increased risk for neonatal complications requiring prolonged hospitalization, respiratory support, tube feeding, and/or persistent pulmonary hypertension (PPHN) of the newborn [see Use in Specific Populations (8.1)].
+
+Advise women that there is a pregnancy exposure registry that monitors pregnancy outcomes in women exposed to Lexapro during pregnancy [see Use in Specific Populations (8.1)].
+
+Lactation
+
+Advise breastfeeding women using LEXAPRO to monitor infants for excess sedation, restlessness, agitation, poor feeding and poor weight gain and to seek medical care if they notice these signs [see Use in Specific Populations (8.2)].
 
 Need for Comprehensive Treatment Program
 
@@ -71,4 +63,15 @@ Antidepressants are not intended for use in the adolescent who exhibits symptoms
 Appropriate educational placement is essential and psychosocial intervention is often helpful.
 When remedial measures alone are insufficient, the decision to prescribe antidepressant medication will depend upon the physician’s assessment of the chronicity and severity of the patient’s symptoms.
 
-## 17.2FDA-Approved Medication Guide
+Distributed by:
+
+Allergan USA, Inc.
+
+Madison, NJ 07940
+
+Licensed from H. Lundbeck A/S
+
+© 2020 Allergan.
+All rights reserved.
+
+V2.0USPI2120

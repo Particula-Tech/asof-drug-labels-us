@@ -56,12 +56,12 @@ No adjustment of dosage is needed in adolescent patients.
 
 Elderly - Escitalopram pharmacokinetics in subjects ≥ 65 years of age were compared to younger subjects in a single-dose and a multiple-dose study.
 Escitalopram AUC and half-life were increased by approximately 50% in elderly subjects, and Cmax was unchanged.
-10 mg is the recommended dose for elderly patients [see Dosage and Administration (2.3)].
+10 mg is the recommended dose for elderly patients [see Dosage and Administration (2.4)].
 
 Gender - Based on data from single- and multiple-dose studies measuring escitalopram in elderly, young adults, and adolescents, no dosage adjustment on the basis of gender is needed.
 
 Reduced hepatic function - Citalopram oral clearance was reduced by 37% and half-life was doubled in patients with reduced hepatic function compared to normal subjects.
-10 mg is the recommended dose of escitalopram for most hepatically impaired patients [see Dosage and Administration (2.3)].
+10 mg is the recommended dose of escitalopram for most hepatically impaired patients [see Dosage and Administration (2.4)].
 
 Reduced renal function - In patients with mild to moderate renal function impairment, oral clearance of citalopram was reduced by 17% compared to normal subjects.
 No adjustment of dosage for such patients is recommended.

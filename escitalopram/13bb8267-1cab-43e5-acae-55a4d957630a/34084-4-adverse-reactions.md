@@ -21,7 +21,7 @@ Adverse events during exposure were obtained primarily by general inquiry and re
 Consequently, it is not possible to provide a meaningful estimate of the proportion of individuals experiencing adverse events without first grouping similar types of events into a smaller number of standardized event categories.
 In the tables and tabulations that follow, standard World Health Organization (WHO) terminology has been used to classify reported adverse events.
 
-The stated frequencies of adverse reactions represent the proportion of individuals who experienced, at least once, a treatment-emergent adverse event of the type listed.
+The stated frequencies of adverse reactions represent the proportion of individuals who experienced, at least once, a treatment emergent adverse event of the type listed.
 An event was considered treatment-emergent if it occurred for the first time or worsened while receiving therapy following baseline evaluation.
 
 Adverse Events Associated with Discontinuation of Treatment
@@ -63,37 +63,36 @@ The most commonly observed adverse reactions in Lexapro patients (incidence of a
 Table 2 enumerates the incidence, rounded to the nearest percent, of treatment-emergent adverse events that occurred among 715 depressed patients who received Lexapro at doses ranging from 10 to 20 mg/day in placebo-controlled trials.
 Events included are those occurring in 2% or more of patients treated with Lexapro and for which the incidence in patients treated with Lexapro was greater than the incidence in placebo-treated patients.
 
-| TABLE 2 |
-| --- |
-| Treatment-Emergent Adverse Reactions observed with a frequency of ≥ 2% and greater than placebo for Major Depressive Disorder |
-| Adverse Reaction LexaproPlacebo |
-| (N=715) (N=592) % % |
-| Autonomic Nervous System Disorders |
-| Dry Mouth 6% 5% |
-| Sweating Increased 5% 2% |
-| Central & Peripheral Nervous System Disorders |
-| Dizziness 5% 3% |
-| Gastrointestinal Disorders |
-| Nausea 15% 7% |
-| Diarrhea 8% 5% |
-| Constipation 3% 1% |
-| Indigestion 3% 1% |
-| Abdominal Pain 2% 1% |
-| General |
-| Influenza-like Symptoms 5% 4% |
-| Fatigue 5% 2% |
-| Psychiatric Disorders |
-| Insomnia 9% 4% |
-| Somnolence 6% 2% |
-| Appetite Decreased 3% 1% |
-| Libido Decreased 3% 1% |
-| Respiratory System Disorders |
-| Rhinitis 5% 4% |
-| Sinusitis 3% 2% |
-| Urogenital |
-| Ejaculation Disorder1,2 9% <1% |
-| Impotence2 3% <1% |
-| Anorgasmia3 2% <1% |
+| Table 2 |  |  |
+| --- | --- | --- |
+| Treatment-Emergent Adverse Reactions observed with a frequency of ≥ 2% and greater than placebo for Major Depressive Disorder |  |  |
+| Adverse Reaction | Lexapro (N=715) % | Placebo (N=592) % |
+| Autonomic Nervous System Disorders |  |  |
+| Dry Mouth | 6% | 5% |
+| Sweating Increased | 5% | 2% |
+| Central & Peripheral Nervous System Disorders |  |  |
+| Dizziness | 5% | 3% |
+| Gastrointestinal Disorders |  |  |
+| Nausea | 15% | 7% |
+| Diarrhea | 8% | 5% |
+| Constipation | 3% | 1% |
+| Indigestion | 3% | 1% |
+| Abdominal Pain | 2% | 1% |
+| General |  |  |
+| Influenza-like Symptoms | 5% | 4% |
+| Fatigue | 5% | 2% |
+| Psychiatric Disorders |  |  |
+| Insomnia | 9% | 4% |
+| Somnolence | 6% | 2% |
+| Appetite Decreased | 3% | 1% |
+| Libido Decreased | 3% | 1% |
+| Respiratory System Disorders |  |  |
+| Rhinitis | 5% | 4% |
+| Sinusitis | 3% | 2% |
+| Urogenital |  |  |
+| Ejaculation Disorder1,2 | 9% | <1% |
+| Impotence2 | 3% | <1% |
+| Anorgasmia3 | 2% | <1% |
 
 1Primarily ejaculatory delay.
 
@@ -110,44 +109,43 @@ The most commonly observed adverse reactions in Lexapro patients (incidence of a
 Table 3 enumerates the incidence, rounded to the nearest percent of treatment-emergent adverse events that occurred among 429 GAD patients who received Lexapro 10 to 20 mg/day in placebo-controlled trials.
 Events included are those occurring in 2% or more of patients treated with Lexapro and for which the incidence in patients treated with Lexapro was greater than the incidence in placebo-treated patients.
 
-| TABLE 3 |
-| --- |
-| Treatment-Emergent Adverse Reactions observed with a frequency of ≥ 2% and greater than placebo for Generalized Anxiety Disorder |
-| Adverse ReactionsLexapro Placebo |
-| (N=429) (N=427) % % |
-| Autonomic Nervous System Disorders |
-| Dry Mouth 9% 5% |
-| Sweating Increased 4% 1% |
-| Central & Peripheral Nervous System Disorders |
-| Headache 24% 17% |
-| Paresthesia 2% 1% |
-| Gastrointestinal Disorders |
-| Nausea 18% 8% |
-| Diarrhea 8% 6% |
-| Constipation 5% 4% |
-| Indigestion 3% 2% |
-| Vomiting 3% 1% |
-| Abdominal Pain 2% 1% |
-| Flatulence 2% 1% |
-| Toothache 2% 0% |
-| General |
-| Fatigue 8% 2% |
-| Influenza-like Symptoms 5% 4% |
-| Musculoskeletal System Disorder |
-| Neck/Shoulder Pain 3% 1% |
-| Psychiatric Disorders |
-| Somnolence 13% 7% |
-| Insomnia 12% 6% |
-| Libido Decreased 7% 2% |
-| Dreaming Abnormal 3% 2% |
-| Appetite Decreased 3% 1% |
-| Lethargy 3% 1% |
-| Respiratory System Disorders |
-| Yawning 2% 1% |
-| Urogenital |
-| Ejaculation Disorder1,2 14% 2% |
-| Anorgasmia3 6% <1% |
-| Menstrual Disorder 2% 1% |
+| Table 3 |  |  |
+| --- | --- | --- |
+| Treatment-Emergent Adverse Reactions observed with a frequency of ≥ 2% and greater than placebo for Generalized Anxiety Disorder |  |  |
+| Adverse Reactions | Lexapro (N=429) % | Placebo (N=427) % |
+| Autonomic Nervous System Disorders |  |  |
+| Dry Mouth | 9% | 5% |
+| Sweating Increased | 4% | 1% |
+| Central & Peripheral Nervous System Disorders |  |  |
+| Headache | 24% | 17% |
+| Paresthesia | 2% | 1% |
+| Gastrointestinal Disorders |  |  |
+| Nausea | 18% | 8% |
+| Diarrhea | 8% | 6% |
+| Constipation | 5% | 4% |
+| Indigestion | 3% | 2% |
+| Vomiting | 3% | 1% |
+| Abdominal Pain | 2% | 1% |
+| Flatulence | 2% | 1% |
+| Toothache | 2% | 0% |
+| General |  |  |
+| Fatigue | 8% | 2% |
+| Influenza-like Symptoms | 5% | 4% |
+| Musculoskeletal System Disorder |  |  |
+| Neck/Shoulder Pain | 3% | 1% |
+| Psychiatric Disorders |  |  |
+| Somnolence | 13% | 7% |
+| Insomnia | 12% | 6% |
+| Libido Decreased | 7% | 2% |
+| Dreaming Abnormal | 3% | 2% |
+| Appetite Decreased | 3% | 1% |
+| Lethargy | 3% | 1% |
+| Respiratory System Disorders |  |  |
+| Yawning | 2% | 1% |
+| Urogenital |  |  |
+| Ejaculation Disorder1,2 | 14% | 2% |
+| Anorgasmia3 | 6% | <1% |
+| Menstrual Disorder | 2% | 1% |
 
 1Primarily ejaculatory delay.
 
@@ -164,9 +162,7 @@ Table 4 shows common adverse reactions that occurred in the 20 mg/day Lexapro gr
 | TABLE 4 |  |  |  |
 | --- | --- | --- | --- |
 | Incidence of Common Adverse Reactions in Patients with Major Depressive Disorder |  |  |  |
-| Adverse Reaction | Placebo | 10 mg/day | 20 mg/day |
-|  | (N=311) | Lexapro | Lexapro |
-|  |  | (N=310) | (N=125) |
+| Adverse Reaction | Placebo (N=311) | 10 mg/day Lexapro (N=310) | 20 mg/day Lexapro (N=125) |
 | Insomnia | 4% | 7% | 14% |
 | Diarrhea | 5% | 6% | 14% |
 | Dry Mouth | 3% | 4% | 9% |
@@ -223,7 +219,7 @@ These analyses revealed no clinically important changes in laboratory test param
 ECG Changes
 
 Electrocardiograms from Lexapro (N=625) and placebo (N=527) groups were compared with respect to outliers defined as subjects with QTc changes over 60 msec from baseline or absolute values over 500 msec post-dose, and subjects with heart rate increases to over 100 bpm or decreases to less than 50 bpm with a 25% change from baseline (tachycardic or bradycardic outliers, respectively).
-None of the patients in the Lexapro group had a QTcF interval >500 msec or a prolongation>60 msec compared to 0.2% of patients in the placebo group.
+None of the patients in the Lexapro group had a QTcF interval >500 msec or a prolongation >60 msec compared to 0.2% of patients in the placebo group.
 The incidence of tachycardic outliers was 0.2% in the Lexapro and the placebo group.
 The incidence of bradycardic outliers was 0.5% in the Lexapro group and 0.2% in the placebo group.
 
@@ -268,10 +264,8 @@ Urinary System Disorders - urinary frequency, urinary tract infection.
 
 Adverse Reactions Reported Subsequent to the Marketing of Escitalopram
 
-The following additional adverse reactions have been identified from spontaneous reports of escitalopram received worldwide.
-These adverse reactions have been chosen for inclusion because of a combination of seriousness, frequency of reporting, or potential causal connection to escitalopram and have not been listed elsewhere in labeling.
-However, because these adverse reactions were reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
-These events include:
+The following adverse reactions have been identified during post-approval use of Lexapro.
+Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
 
 Blood and Lymphatic System Disorders: anemia, agranulocytis, aplastic anemia, hemolytic anemia, idiopathic thrombocytopenia purpura, leukopenia, thrombocytopenia.
 

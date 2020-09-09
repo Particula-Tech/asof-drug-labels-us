@@ -1,6 +1,6 @@
 # 16HOW SUPPLIED/STORAGE AND HANDLING
 
-## 16.1Tablets
+Tablets
 
 5 mg Tablets:
 
@@ -29,10 +29,11 @@ White to off-white, round, scored, film-coated.
 Imprint on scored side with "F" on the left side and "L" on the right side.
 Imprint on the non-scored side with "20".
 
-## 16.2Oral Solution
+Oral Solution
 
-5 mg/5 mL, peppermint flavor (240 mL) NDC # 0456-2101-08
+5 mg/5 mL, peppermint flavor (240 mL) NDC # 0456-2101-08.
+The oral solution is not currently being marketed.
 
 Storage and Handling
 
-Store at 20°C to 25°C (68°F to 77°F); excursions permitted to 15 to 30°C (59 to 86°F).
+Store at 20°C to 25°C (68°F to 77°F); excursions permitted to 15°C to 30°C (59°F to 86°F).

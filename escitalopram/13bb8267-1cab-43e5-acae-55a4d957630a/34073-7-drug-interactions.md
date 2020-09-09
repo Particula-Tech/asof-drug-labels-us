@@ -2,11 +2,11 @@
 
 ## 7.1Monoamine Oxidase Inhibitors (MAOIs)
 
-[See Dosage and Administration (2.5 and 2.6), Contraindications (4.1) and Warnings and Precautions (5.2)].
+[See Dosage and Administration (2.6 and 2.7), Contraindications (4.1) and Warnings and Precautions (5.2)].
 
 ## 7.2Serotonergic Drugs
 
-[See Dosage and Administration (2.5 and 2.6), Contraindications (4.1) and Warnings and Precautions (5.2)].
+[See Dosage and Administration (2.6 and 2.7), Contraindications (4.1) and Warnings and Precautions (5.2)].
 
 ## 7.3Triptans
 

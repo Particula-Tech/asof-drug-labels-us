@@ -2,60 +2,85 @@
 
 ## 8.1Pregnancy
 
-In a rat embryo/fetal development study, oral administration of escitalopram (56, 112, or 150 mg/kg/day) to pregnant animals during the period of organogenesis resulted in decreased fetal body weight and associated delays in ossification at the two higher doses (approximately ≥ 56 times the maximum recommended human dose [MRHD] of 20 mg/day on a body surface area [mg/m2] basis).
-Maternal toxicity (clinical signs and decreased body weight gain and food consumption), mild at 56 mg/kg/day, was present at all dose levels.
-The developmental no-effect dose of 56 mg/kg/day is approximately 28 times the MRHD on a mg/m2 basis.
-No teratogenicity was observed at any of the doses tested (as high as 75 times the MRHD on a mg/m2 basis).
+Pregnancy Exposure Registry
 
-When female rats were treated with escitalopram (6, 12, 24, or 48 mg/kg/day) during pregnancy and through weaning, slightly increased offspring mortality and growth retardation were noted at 48 mg/kg/day which is approximately 24 times the MRHD on a mg/m2 basis.
-Slight maternal toxicity (clinical signs and decreased body weight gain and food consumption) was seen at this dose.
-Slightly increased offspring mortality was also seen at 24 mg/kg/day.
-The no-effect dose was 12 mg/kg/day which is approximately 6 times the MRHD on a mg/m2 basis.
+There is a pregnancy exposure registry that monitors pregnancy outcomes in women exposed to antidepressants during pregnancy.
+Healthcare providers are encouraged to register patients by calling the National Pregnancy Registry for Antidepressants at 1-844-405-6185 or visiting online at https://womensmentalhealth.org/clnical-and-research-programs/pregnancyregistry/antidepressants/
 
-In animal reproduction studies, racemic citalopram has been shown to have adverse effects on embryo/fetal and postnatal development, including teratogenic effects, when administered at doses greater than human therapeutic doses.
+Risk Summary
 
-In two rat embryo/fetal development studies, oral administration of racemic citalopram (32, 56, or 112 mg/kg/day) to pregnant animals during the period of organogenesis resulted in decreased embryo/fetal growth and survival and an increased incidence of fetal abnormalities (including cardiovascular and skeletal defects) at the high dose.
-This dose was also associated with maternal toxicity (clinical signs, decreased body weight gain).
-The developmental no-effect dose was 56 mg/kg/day.
-In a rabbit study, no adverse effects on embryo/fetal development were observed at doses of racemic citalopram of up to 16 mg/kg/day.
-Thus, teratogenic effects of racemic citalopram were observed at a maternally toxic dose in the rat and were not observed in the rabbit.
+Available data from published epidemiologic studies and postmarketing reports have not established an increased risk of major birth defects or miscarriage.
+There are risks of persistent pulmonary hypertension of the newborn (PPHN) (see Data) and poor neonatal adaptation (see Clinical Considerations) with exposure to selective serotonin reuptake inhibitors (SSRIs), including LEXAPRO, during pregnancy.
+There are risks associated with untreated depression in pregnancy (see Clinical Considerations).
 
-When female rats were treated with racemic citalopram (4.8, 12.8, or 32 mg/kg/day) from late gestation through weaning, increased offspring mortality during the first 4 days after birth and persistent offspring growth retardation were observed at the highest dose.
-The no-effect dose was 12.8 mg/kg/day.
-Similar effects on offspring mortality and growth were seen when dams were treated throughout gestation and early lactation at doses ≥ 24 mg/kg/day.
-A no-effect dose was not determined in that study.
+In animal reproduction studies, both escitalopram and racemic citalopram have been shown to have adverse effects on embryo/fetal and postnatal development, including fetal structural abnormalities, when administered at doses greater than human therapeutic doses (see Data).
 
-There are no adequate and well-controlled studies in pregnant women; therefore, escitalopram should be used during pregnancy only if the potential benefit justifies the potential risk to the fetus.
+The estimated background risk of major birth defects and miscarriage for the indicated population is unknown.
+All pregnancies have a background risk of birth defect, loss, or other adverse outcomes.
+In the U.S. general population, the estimated background risk of major birth defects and miscarriage in the clinically recognized pregnancies is 2 to 4% and 15 to 20%, respectively.
 
-Pregnancy-Nonteratogenic Effects
+Clinical Considerations
 
-Neonates exposed to Lexapro and other SSRIs or serotonin and norepinephrine reuptake inhibitors (SNRIs), late in the third trimester have developed complications requiring prolonged hospitalization, respiratory support, and tube feeding.
+Disease-associated maternal risk and/or embryo/fetal risk
+
+Women who discontinue antidepressants are more likely to experience a relapse of major depression than women who continue antidepressants.
+This finding is from a prospective longitudinal study of 201 pregnant women with a history of major depression, who were euthymic and taking antidepressants at the beginning of pregnancy.
+Consider the risk of untreated depression when discontinuing or changing treatment with antidepressant medication during pregnancy and postpartum.
+
+Fetal/Neonatal adverse reactions
+
+Neonates exposed to SSRIs or SNRIs, including Lexapro, late in third trimester have developed complications requiring prolonged hospitalization, respiratory support, and tube feeding.
 Such complications can arise immediately upon delivery.
 Reported clinical findings have included respiratory distress, cyanosis, apnea, seizures, temperature instability, feeding difficulty, vomiting, hypoglycemia, hypotonia, hypertonia, hyperreflexia, tremor, jitteriness, irritability, and constant crying.
 These features are consistent with either a direct toxic effect of SSRIs and SNRIs or, possibly, a drug discontinuation syndrome.
 It should be noted that, in some cases, the clinical picture is consistent with serotonin syndrome [see Warnings and Precautions (5.2)].
 
-Infants exposed to SSRIs in pregnancy may have an increased risk for persistent pulmonary hypertension of the newborn (PPHN).
-PPHN occurs in 1 - 2 per 1,000 live births in the general population and is associated with substantial neonatal morbidity and mortality.
-Several recent epidemiologic studies suggest a positive statistical association between SSRI use (including Lexapro) in pregnancy and PPHN.
-Other studies do not show a significant statistical association.
+Data
 
-Physicians should also note the results of a prospective longitudinal study of 201 pregnant women with a history of major depression, who were either on antidepressants or had received antidepressants less than 12 weeks prior to their last menstrual period, and were in remission.
-Women who discontinued antidepressant medication during pregnancy showed a significant increase in relapse of their major depression compared to those women who remained on antidepressant medication throughout pregnancy.
+Human Data
 
-When treating a pregnant woman with Lexapro, the physician should carefully consider both the potential risks of taking an SSRl, along with the established benefits of treating depression with an antidepressant.
-This decision can only be made on a case by case basis [see Dosage and Administration (2.1.)].
+Exposure to SSRIs, particularly later in pregnancy, may increase the risk for PPHN.
+PPHN occurs in 1-2 per 1000 live births in the general populations and is associated with substantial neonatal morbidity and mortality.
 
-## 8.2Labor and Delivery
+Animal Data
 
-The effect of Lexapro on labor and delivery in humans is unknown.
+In a rat embryo/fetal development study, oral administration of escitalopram (56, 112, or 150 mg/kg/day) to pregnant animals during the period of organogenesis resulted in decreased fetal body weight and associated delays in ossification at the two higher doses [approximately ≥ 55 times the maximum recommended human dose (MRHD) of 20 mg/day on a mg/m2 basis].
+Maternal toxicity (clinical signs and decreased body weight gain and food consumption), mild at 56 mg/kg/day, was present at all dose levels.
+The developmental no-effect dose of 56 mg/kg/day is approximately 27 times the MRHD of 20 mg on a mg/m2 basis.
+No malformations were observed at any of the doses tested (as high as 73 times the MRHD on a mg/m2 basis).
 
-## 8.3Nursing Mothers
+When female rats were treated with escitalopram (6, 12, 24, or 48 mg/kg/day) during pregnancy and through weaning, slightly increased offspring mortality and growth retardation were noted at 48 mg/kg/day which is approximately 23 times the MRHD of 20 mg on a mg/m2 basis.
+Slight maternal toxicity (clinical signs and decreased body weight gain and food consumption) was seen at this dose.
+Slightly increased offspring mortality was also seen at 24 mg/kg/day.
+The no-effect dose was 12 mg/kg/day which is approximately 6 times the MRHD of 20 mg on a mg/m2 basis.
 
-Escitalopram is excreted in human breast milk.
-Limited data from women taking 10-20 mg escitalopram showed that exclusively breast-fed infants receive approximately 3.9% of the maternal weight-adjusted dose of escitalopram and 1.7% of the maternal weight-adjusted dose of desmethylcitalopram.
-There were two reports of infants experiencing excessive somnolence, decreased feeding, and weight loss in association with breastfeeding from a racemic citalopram-treated mother; in one case, the infant was reported to recover completely upon discontinuation of racemic citalopram by its mother and, in the second case, no follow-up information was available.
-Caution should be exercised and breastfeeding infants should be observed for adverse reactions when Lexapro is administered to a nursing woman.
+In two rat embryo/fetal development studies, oral administration of racemic citalopram (32, 56, or 112 mg/kg/day) to pregnant animals during the period of organogenesis resulted in decreased embryo/fetal growth and survival and an increased incidence of fetal abnormalities (including cardiovascular and skeletal defects) at the high dose, which is approximately 18 times the MRHD of 60 mg/day on a mg/m2 basis.
+This dose was also associated with maternal toxicity (clinical signs, decreased body weight gain).
+The developmental no-effect dose was 56 mg/kg/day is approximately 9 times the MRHD on a mg/m2 basis.
+In a rabbit study, no adverse effects on embryo/fetal development were observed at doses of racemic citalopram of up to 16 mg/kg/day, or approximately 5 times the MRHD on a mg/m2 basis.
+Thus, developmental effects of racemic citalopram were observed at a maternally toxic dose in the rat and were not observed in the rabbit.
+
+When female rats were treated with racemic citalopram (4.8, 12.8, or 32 mg/kg/day) from late gestation through weaning, increased offspring mortality during the first 4 days after birth and persistent offspring growth retardation were observed at the highest dose, which is approximately 5 times the MRHD of 60 mg on a mg/m2 basis.
+The no-effect dose was 12.8 mg/kg/day is approximately 2 times the MRHD on a mg/m2 basis.
+Similar effects on offspring mortality and growth were seen when dams were treated throughout gestation and early lactation at doses ≥ 24 mg/kg/day, approximately 4 times the MRHD on a mg/m2 basis.
+A no-effect dose was not determined in that study.
+
+## 8.2Lactation
+
+Risk Summary
+
+Data from the published literature report the presence of escitalopram and desmethylescitalopram in human milk (see Data).
+There are reports of excessive sedation, restlessness, agitation, poor feeding and poor weight gain in infants exposed to escitalopram, through breast milk (see Clinical Considerations),.
+There are no data on the effects of escitalopram or its metabolites on milk production.
+The developmental and health benefits of breastfeeding should be considered along with the mother’s clinical need for LEXAPRO and any potential adverse effects on the breastfed child from LEXAPRO or from the underlying maternal condition.
+
+Clinical Considerations
+
+Infants exposed to LEXAPRO should be monitored for excess sedation, restlessness, agitation, poor feeding and poor weight gain.
+
+Data
+
+A study of 8 nursing mothers on escitalopram with daily doses of 10-20 mg/day showed that exclusively breast-fed infants receive approximately 3.9% of the maternal weight-adjusted dose of escitalopram and 1.7% of the maternal weight-adjusted dose of desmethylcitalopram.
 
 ## 8.4Pediatric Use
 
@@ -79,7 +104,7 @@ Nevertheless, greater sensitivity of some elderly individuals to effects of Lexa
 SSRIs and SNRIs, including Lexapro, have been associated with cases of clinically significant hyponatremia in elderly patients, who may be at greater risk for this adverse event [see Hyponatremia (5.6)].
 
 In two pharmacokinetic studies, escitalopram half-life was increased by approximately 50% in elderly subjects as compared to young subjects and Cmax was unchanged [see Clinical Pharmacology (12.3)].
-10 mg/day is the recommended dose for elderly patients [see Dosage and Administration (2.3)].
+10 mg/day is the recommended dose for elderly patients [see Dosage and Administration (2.4)].
 
 Of 4422 patients in clinical studies of racemic citalopram, 1357 were 60 and over, 1034 were 65 and over, and 457 were 75 and over.
 No overall differences in safety or effectiveness were observed between these subjects and younger subjects, and other reported clinical experience has not identified differences in responses between the elderly and younger patients, but again, greater sensitivity of some elderly individuals cannot be ruled out.

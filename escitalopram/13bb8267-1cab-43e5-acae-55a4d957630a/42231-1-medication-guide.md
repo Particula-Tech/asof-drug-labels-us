@@ -119,7 +119,7 @@ Do not take Lexapro if you:
 
 - are allergic to escitalopram or citalopram or any of the ingredients in Lexapro.
   See the end of this Medication Guide for a complete list of ingredients in Lexapro.
-- take a monoamine oxidase inhibitor (MAOI).
+- Take a monoamine oxidase inhibitor (MAOI).
   Ask your healthcare provider or a pharmacist if you are not sure if you take an MAOI, including linezolid.
 - Do not take an MAOI within 2 weeks of stopping Lexapro unless directed to do so by your physician.
 - Do not start Lexapro if you stopped taking an MAOI in the last 2 weeks unless directed to do so by your physician.
@@ -151,11 +151,13 @@ Before starting Lexapro, tell your healthcare provider if you:
 - have high blood pressure
 - have or had bleeding problems
 - are pregnant or plan to become pregnant.
-  It is not known if Lexapro will harm your unborn baby.
+  Taking LEXAPRO late in pregnancy may lead to an increased risk of certain problems in your newborn.
   Talk to your healthcare provider about the benefits and risks of treating depression during pregnancy
+  - If you become pregnant while taking LEXAPRO, talk to your healthcare provider about registering with the National Pregnancy Registry for Antidepressants.
+    You can register by calling 1-844-405-6185 or go to https://womensmentalhealth.org/clinical-and-research-programs/pregnancyregistry/antidepressants/.
 - are breast-feeding or plan to breast-feed.
-  Some Lexapro may pass into your breast milk.
-  Talk to your healthcare provider about the best way to feed your baby while taking Lexapro.
+  Lexapro may pass into your breast milk.
+  Talk to your healthcare provider about the best way to feed your baby if taking Lexapro.
 
 Tell your healthcare provider about all the medicines that you take, including prescription and non-prescription medicines, vitamins, and herbal supplements.
 Lexapro and some medicines may interact with each other, may not work as well, or may cause serious side effects.
@@ -163,7 +165,7 @@ Lexapro and some medicines may interact with each other, may not work as well, o
 Your healthcare provider or pharmacist can tell you if it is safe to take Lexapro with your other medicines.
 Do not start or stop any medicine while taking Lexapro without talking to your healthcare provider first.
 
-| If you take Lexapro, you should not take any other medicines that contain escitalopram or citalopram including: Celexa |
+| If you take Lexapro, you should not take any other medicines that contain escitalopram or citalopram including: Celexa. |
 | --- |
 
 How should I take Lexapro?
@@ -254,9 +256,11 @@ Distributed by: Allergan USA, Inc. Madison, NJ 07940
 
 Licensed from H. Lundbeck A/S
 
-Revised: 01/2019
+Revised: 08/2020
 
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
 
-© 2019 Allergan.
+© 2020 Allergan.
 All rights reserved.
+
+v2.0MG2010
