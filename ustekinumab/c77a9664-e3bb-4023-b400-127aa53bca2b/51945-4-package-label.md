@@ -1,26 +1,28 @@
 # PRINCIPAL DISPLAY PANEL - 45 mg/0.5 mL Vial Carton
 
-Single-dose prefilled syringe– Discard unused portion
-
-NDC 57894-060-03
-
 Stelara® (ustekinumab) Injection
 
 45 mg/0.5 mL
 
 For subcutaneous use
 
-Each vial contains 0.5 mL
+Contains one 45 mg/0.5 mL syringe
 
-Information for use and dosage– See package insert
+NDC 57894-060-03
+
+Single-dose prefilled syringe - Discard unused portion
+
+The 45 mg prefilled syringe contains: 45 mg ustekinumab, 0.5 mg L-histidine and L-histidine monohydrochloride monohydrate, 0.02 mg polysorbate 80, and 38 mg sucrose to fill a final volume of 0.5 mL
+
+See package insert for dosing information
 
 Rx only
 
 ATTENTION: Dispense the enclosed Medication Guide to each patient.
 
-# PRINCIPAL DISPLAY PANEL - 90 mg/mL Syringe Carton
+© 2009 Janssen
 
-NDC 57894-061-03
+# PRINCIPAL DISPLAY PANEL - 90 mg/mL Syringe Carton
 
 Stelara® (ustekinumab) Injection
 
@@ -30,13 +32,19 @@ For subcutaneous use
 
 Contains one 90 mg/mL syringe
 
-Single dose prefilled syringe – Discard unused portion
+NDC 57894-061-03
+
+Single-dose prefilled syringe - Discard unused portion
+
+The 90 mg prefilled syringe contains: 90 mg ustekinumab, 1 mg L-histidine and L-histidine monohydrochloride monohydrate, 0.04 mg polysorbate 80, and 76 mg sucrose to fill a final volume of 1 mL
 
 See package insert for dosing information
 
 Rx only
 
 ATTENTION: Dispense the enclosed Medication Guide to each patient.
+
+© 2009 Janssen
 
 # PRINCIPAL DISPLAY PANEL - 130 mg/26 mL Vial Carton
 
