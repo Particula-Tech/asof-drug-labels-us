@@ -21,4 +21,4 @@ This Medication Guide has been approved by the U.S. Food and Drug Administration
 
 Mylan Pharmaceuticals Inc. Morgantown, WV 26505 U.S.A.
 
-Revised: 6/2020 COLCTA:R5mmh/MG:COLCTA:R3m/MG:COLCTA:R3mh
+Revised: 8/2020 COLCTA:R6m/MG:COLCTA:R3m

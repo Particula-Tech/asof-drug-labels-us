@@ -9,11 +9,7 @@ They are available as follows:
 
 NDC 0378-1086-93 bottles of 30 tablets
 
-NDC 0378-1086-77 bottles of 90 tablets
-
 NDC 0378-1086-01 bottles of 100 tablets
-
-NDC 0378-1086-05 bottles of 500 tablets
 
 ## 16.2 Storage
 
