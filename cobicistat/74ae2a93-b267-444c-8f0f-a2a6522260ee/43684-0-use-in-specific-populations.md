@@ -14,8 +14,7 @@ A literature report evaluating the pharmacokinetics (PK) of antiretrovirals duri
 
 Prospective pregnancy data from the APR are not sufficient to adequately assess the risk of birth defects or miscarriage.
 However, elvitegravir, cobicistat, emtricitabine, and TDF use during pregnancy have been evaluated in a limited number of individuals as reported to the APR.
-Available data from the APR show no increase in the overall risk of major birth defects for cobicistat, emtricitabine or TDF compared with the background rate for major birth defects of 2.7% in a U.S. reference population of the Metropolitan Atlanta Congenital Defects Program (MACDP).
-The number of exposures to elvitegravir is insufficient to make a risk assessment compared to a reference population (see Data).
+Available data from the APR show no significant difference in the overall risk of major birth defects for elvitegravir, cobicistat, emtricitabine, or TDF compared with the background rate for major birth defects of 2.7% in a U.S. reference population of the Metropolitan Atlanta Congenital Defects Program (MACDP) (see Data).
 The rate of miscarriage is not reported in the APR.
 In the U.S. general population, the estimated background risk of miscarriage in clinically recognized pregnancies is 15–20%.
 
@@ -37,20 +36,15 @@ HIV status was also assessed for infants: 25 were uninfected, 2 had indeterminat
 
 Prospective reports from the APR of overall major birth defects in pregnancies exposed to the components of STRIBILD are compared with a U.S. background major birth defect rate.
 Methodological limitations of the APR include the use of MACDP as the external comparator group.
-Limitations of using an external comparator include differences in methodology and populations, as well as confounding due to the underlying disease.
+The MACDP population is not disease-specific, evaluates women and infants from a limited geographic area, and does not include outcomes for births that occurred at <20 weeks gestation.
 
-Elvitegravir: The APR has received prospective reports of 5 birth defects among 180 first trimester exposures to elvitegravir-containing regimens during pregnancy resulting in live births.
-No birth defects were reported among 52 exposures during the second/third trimester.
-The number of exposures is insufficient to make a risk assessment compared to a reference population.
+Elvitegravir: Based on prospective reports to the APR of exposures to elvitegravir-containing regimens during pregnancy resulting in live births (including over 300 exposed in the first trimester and over 60 exposed in the second/third trimester), the prevalence of birth defects in live births was 3.4% (95% CI: 1.7% to 6.0%) and 1.5% (95% CI: 0% to 7.9%) following first and second/third trimester exposure, respectively, to elvitegravir-containing regimens.
 
-Cobicistat: Based on prospective reports to the APR of 204 first trimester exposures to cobicistat-containing regimens during pregnancy, there was no increase in overall major birth defects with cobicistat compared with the background birth defect rate of 2.7% in the U.S. reference population of the MACDP.
-The prevalence of birth defects in live births was 2.5% (95% CI: 0.8% to 5.6%) with first trimester exposure to cobicistat-containing regimens; the 58 second/third trimester cobicistat exposures reported to the APR are insufficient to make a risk assessment.
+Cobicistat: Based on prospective reports to the APR of exposures to cobicistat-containing regimens during pregnancy resulting in live births (including over 400 exposed in the first trimester and over 80 exposed in the second/third trimester), the prevalence of birth defects in live births was 3.9% (95% CI: 2.2% to 6.3%) and 1.2% (95% CI: 0.0% to 6.5%) following first and second/third trimester exposure, respectively, to cobicistat-containing regimens.
 
-Emtricitabine: Based on prospective reports to the APR of exposures to emtricitabine-containing regimens during pregnancy resulting in live births (including over 2,700 exposed in the first trimester and over 1,200 exposed in the second/third trimester), there was no increase in overall major birth defects with emtricitabine compared with the background birth defect rate of 2.7% in the U.S. reference population of the MACDP.
-The prevalence of birth defects in live births was 2.4% (95% CI: 1.9% to 3.1%) with first trimester exposure to emtricitabine-containing regimens and 2.3% (95% CI: 1.5% to 3.3%) with second/third trimester exposure to emtricitabine-containing regimens.
+Emtricitabine: Based on prospective reports to the APR of exposures to emtricitabine-containing regimens during pregnancy resulting in live births (including over 3,600 exposed in the first trimester and over 1,400 exposed in the second/third trimester), the prevalence of birth defects in live births was 2.6% (95% CI: 2.1% to 3.2%) and 2.4% (95% CI: 1.6% to 3.3%) following first and second/third trimester exposure, respectively, to emtricitabine-containing regimens.
 
-Tenofovir DF: Based on prospective reports to the APR of exposures to TDF-containing regimens during pregnancy resulting in live births (including over 3,500 exposed in the first trimester and over 1,500 exposed in the second/third trimester), there was no increase in overall major birth defects with TDF compared with the background birth defect rate of 2.7% in the U.S. reference population of the MACDP.
-The prevalence of birth defects in live births was 2.3% (95% CI: 1.8% to 2.9%) with first trimester exposure, and 2.2% (95% CI: 1.6% to 3.1%) with the second/third trimester exposure to TDF-containing regimens.
+Tenofovir DF: Based on prospective reports to the APR of exposures to TDF-containing regimens during pregnancy resulting in live births (including over 4,200 exposed in the first trimester and over 1,800 exposed in the second/third trimester), the prevalence of birth defects in live births was 2.4% (95% CI: 1.9% to 2.9%) and 2.4% (95% CI: 1.8% to 3.2%) following first and second/third trimester exposure, respectively, to TDF-containing regimens.
 
 Animal Data
 

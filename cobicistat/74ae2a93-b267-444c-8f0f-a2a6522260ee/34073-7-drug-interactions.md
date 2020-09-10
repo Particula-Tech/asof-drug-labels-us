@@ -9,6 +9,8 @@ Complete information regarding potential drug-drug interactions with other antir
 
 Cobicistat, a component of STRIBILD, is an inhibitor of CYP3A and CYP2D6 and an inhibitor of the following transporters: P-glycoprotein (P-gp), BCRP, OATP1B1, and OATP1B3.
 Thus, coadministration of STRIBILD with drugs that are primarily metabolized by CYP3A or CYP2D6, or are substrates of P-gp, BCRP, OATP1B1, or OATP1B3, may result in increased plasma concentrations of such drugs.
+Coadministration of STRIBILD with drugs that have active metabolite(s) formed by CYP3A may result in reduced plasma concentration of these active metabolite(s) (Table 5).
+
 Elvitegravir is a modest inducer of CYP2C9 and may decrease the plasma concentrations of CYP2C9 substrates.
 
 ## 7.3 Potential for Other Drugs to Affect One or More Components of STRIBILD
@@ -36,9 +38,8 @@ Drug Interactions: Alteration in Dose or Regimen May Be Recommended Based on Dru
 
 | Concomitant Drug Class: Drug Name | Effect on Concentration↑=Increase, ↓=Decrease | Clinical Comment |
 | --- | --- | --- |
-| Acid Reducing Agents: AntacidsIndicates that a drug-drug interaction trial was conducted. e.g., aluminum and magnesium hydroxide | ↓ elvitegravir | Separate STRIBILD and antacid administration by at least 2 hours. |
 | Alpha 1-adrenoreceptor antagonist: alfuzosin | ↑ alfuzosin | Coadministration with alfuzosin is contraindicated due to potential for serious and/or life-threatening reactions such as hypotension. |
-| Antiarrhythmics: e.g., amiodarone bepridil digoxin disopyramide flecainide systemic lidocaine mexiletine propafenone quinidine | ↑ antiarrhythmics ↑ digoxin | Therapeutic concentration monitoring, if available, is recommended for antiarrhythmics when coadministered with STRIBILD. |
+| Antiarrhythmics: e.g., amiodarone bepridil digoxinIndicates that a drug-drug interaction trial was conducted. disopyramide flecainide systemic lidocaine mexiletine propafenone quinidine | ↑ antiarrhythmics ↑ digoxin | Therapeutic concentration monitoring, if available, is recommended for antiarrhythmics when coadministered with STRIBILD. |
 | Antibacterials: clarithromycin | ↑ clarithromycin ↑ cobicistat | Patients with CLcr greater than or equal to 60 mL/minute: No dose adjustment of clarithromycin is required. Patients with CLcr between 50 mL/minute and 60 mL/minute: The dose of clarithromycin should be reduced by 50%. |
 | Anticoagulants: Direct Oral Anticoagulants (DOACs) apixaban rivaroxaban betrixaban dabigatran edoxaban | ↑ apixaban | Due to potentially increased bleeding risk, dosing recommendations for coadministration with STRIBILD depends on the apixaban dose. Refer to apixaban dosing instructions for coadministration with strong CYP3A and P-gp inhibitors in apixaban prescribing information. |
 |  | ↑ rivaroxaban | Coadministration of rivaroxaban with STRIBILD is not recommended because it may lead to an increased bleeding risk. |
@@ -54,6 +55,8 @@ Drug Interactions: Alteration in Dose or Regimen May Be Recommended Based on Dru
 | Anti-gout: colchicine | ↑ colchicine | STRIBILD is not recommended to be coadministered with colchicine to patients with renal or hepatic impairment. Treatment of gout-flares – coadministration of colchicine in patients receiving STRIBILD: 0.6 mg (1 tablet) × 1 dose, followed by 0.3 mg (half tablet) 1 hour later. Treatment course to be repeated no earlier than 3 days. Prophylaxis of gout-flares – coadministration of colchicine in patients receiving STRIBILD: If the original regimen was 0.6 mg twice a day, the regimen should be adjusted to 0.3 mg once a day. If the original regimen was 0.6 mg once a day, the regimen should be adjusted to 0.3 mg once every other day. Treatment of familial Mediterranean fever – coadministration of colchicine in patients receiving STRIBILD: Maximum daily dose of 0.6 mg (may be given as 0.3 mg twice a day). |
 | Antimycobacterial: rifampin | ↓ elvitegravir ↓ cobicistat | Coadministration with rifampin is contraindicated due to potential for loss of elvitegravir therapeutic effect and development of resistance. |
 | rifabutin rifapentine |  | Coadministration of STRIBILD with rifabutin or rifapentine is not recommended. |
+| Antiplatelets: |  |  |
+| ticagrelor clopidogrel | ↑ ticagrelor ↓ clopidogrel active metabolite | Coadministration with ticagrelor is not recommended. Coadministration with clopidogrel is not recommended due to potential reduction of the antiplatelet activity of clopidogrel. |
 | Antipsychotics: |  |  |
 | lurasidone | ↑ lurasidone | Coadministration with lurasidone is contraindicated due to potential for serious and/or life-threatening reactions. |
 | pimozide | ↑ pimozide | Coadministration with pimozide is contraindicated due to potential for serious and/or life-threatening reactions such as cardiac arrhythmias. |
@@ -77,6 +80,7 @@ Drug Interactions: Alteration in Dose or Regimen May Be Recommended Based on Dru
 | fentanyl | ↑ fentanyl | Careful monitoring of therapeutic and adverse effects of fentanyl (including potentially fatal respiratory depression) is recommended with coadministration. |
 | tramadol | ↑ tramadol | A dose decrease may be needed for tramadol with concomitant use. |
 | Inhaled Beta Agonist: salmeterol | ↑ salmeterol | Coadministration of salmeterol and STRIBILD is not recommended because it may result in increased risk of cardiovascular adverse events associated with salmeterol, including QT prolongation, palpitations, and sinus tachycardia. |
+| Medications or Oral Supplements Containing Polyvalent Cations (e.g., Mg, Al, Ca, Fe, Zn): calcium or iron supplements, including multivitamins cation-containing antacids or laxatives sucralfate buffered medications | ↓ elvitegravir | Separate STRIBILD and administration of medications, antacids, or oral supplements containing polyvalent cations by at least 2 hours. |
 | Phosphodiesterase-5 (PDE-5) Inhibitors: sildenafil tadalafil vardenafil | ↑ PDE-5 inhibitors | Coadministration of sildenafil with STRIBILD is contraindicated when used for treatment of pulmonary arterial hypertension (PAH), due to potential for PDE-5 inhibitor associated adverse reactions, including hypotension, syncope, visual disturbances, and priapism. Use of tadalafil for PAH: Coadministration of tadalafil in patients on STRIBILD: In patients receiving STRIBILD for at least 1 week, start tadalafil at 20 mg once daily. Increase tadalafil dose to 40 mg once daily based upon individual tolerability. Coadministration of STRIBILD in patients on tadalafil: Avoid use of tadalafil during the initiation of STRIBILD. Stop tadalafil at least 24 hours prior to starting STRIBILD. After at least one week following initiation of STRIBILD, resume tadalafil at 20 mg once daily. Increase tadalafil dose to 40 mg once daily based upon individual tolerability. Use of PDE-5 inhibitors for erectile dysfunction: The below PDE-5 inhibitors can be used along with increased monitoring for PDE-5-inhibitor associated adverse events: Sildenafil at a single dose not exceeding 25 mg in 48 hours, orTadalafil at a single dose not exceeding 10 mg in 72 hours, orVardenafil at a single dose not exceeding 2.5 mg in 72 hours |
 | Sedative/hypnotics: |  |  |
 | midazolam (oral), triazolam | ↑ midazolam ↑ triazolam | Coadministration with triazolam or orally administered midazolam is contraindicated due to potential for serious and/or life-threatening reactions such as prolonged or increased sedation or respiratory depression. Triazolam and orally administered midazolam are extensively metabolized by CYP3A. Coadministration of triazolam or orally administered midazolam with STRIBILD may cause large increases in the concentrations of these benzodiazepines. |
@@ -84,4 +88,4 @@ Drug Interactions: Alteration in Dose or Regimen May Be Recommended Based on Dru
 
 ## 7.6 Drugs without Clinically Significant Interactions with STRIBILD
 
-Based on drug interaction studies conducted with the components of STRIBILD, no clinically significant drug interactions have been observed when STRIBILD is combined with the following drugs: famciclovir, famotidine, methadone, omeprazole, and sertraline.
+Based on drug interaction studies conducted with the components of STRIBILD, no clinically significant drug interactions have been observed or are expected when STRIBILD is combined with the following drugs: famciclovir, famotidine, methadone, omeprazole, prasugrel (active metabolite), and sertraline.

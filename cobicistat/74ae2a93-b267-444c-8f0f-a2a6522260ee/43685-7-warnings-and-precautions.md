@@ -44,12 +44,13 @@ Treatment with STRIBILD should be suspended in any patient who develops clinical
 
 ## 5.4 Risk of Adverse Reactions or Loss of Virologic Response Due to Drug Interactions
 
-The concomitant use of STRIBILD and other drugs may result in known or potentially significant drug interactions, some of which may lead to [see Contraindications (4) and Drug Interactions (7.5)]:
+The concomitant use of STRIBILD and other drugs may result in known or potentially significant drug interactions, some of which may lead to [see Contraindications (4) and Drug Interactions (7)]:
 
 - Loss of therapeutic effect of STRIBILD and possible development of resistance.
-- Possible clinically significant adverse reactions from greater exposures of concomitant drugs.
+- Clinically significant adverse reactions, potentially leading to severe, life-threatening, or fatal events, from greater exposures of concomitant drugs metabolized by CYP3A.
+- Loss of therapeutic effect of concomitant drugs that utilize CYP3A to form active metabolites.
 
-See Table 5 for steps to prevent or manage these possible and known significant drug interactions, including dosing recommendations [see Drug Interactions (7.5)].
+See Table 5 for steps to prevent or manage these possible and known significant drug interactions, including dosing recommendations [see Drug Interactions (7)].
 Consider the potential for drug interactions prior to and during STRIBILD therapy; review concomitant medications during STRIBILD therapy; and monitor for the adverse reactions associated with the concomitant drugs.
 
 ## 5.5 Bone Loss and Mineralization Defects
@@ -83,4 +84,4 @@ Hypophosphatemia and osteomalacia secondary to proximal renal tubulopathy should
 Immune reconstitution syndrome has been reported in patients treated with combination antiretroviral therapy, including STRIBILD.
 During the initial phase of combination antiretroviral treatment, patients whose immune system responds may develop an inflammatory response to indolent or residual opportunistic infections (such as Mycobacterium avium infection, cytomegalovirus, Pneumocystis jirovecii pneumonia (PCP), or tuberculosis), which may necessitate further evaluation and treatment.
 
-Autoimmune disorders (such as Graves' disease, polymyositis, and Guillain-Barré syndrome) have also been reported to occur in the setting of immune reconstitution; however, the time to onset is more variable and can occur many months after initiation of treatment.
+Autoimmune disorders (such as Graves' disease, polymyositis, Guillain-Barré syndrome, and autoimmune hepatitis) have also been reported to occur in the setting of immune reconstitution; however, the time to onset is more variable and can occur many months after initiation of treatment.

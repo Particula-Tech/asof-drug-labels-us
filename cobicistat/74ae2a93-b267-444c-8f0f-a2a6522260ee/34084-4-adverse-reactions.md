@@ -2,7 +2,7 @@
 
 The following adverse reactions are discussed in other sections of the labeling:
 
-- Severe Acute Exacerbations of Hepatitis B in Patients Coinfected with HIV-1 and HBV [see Boxed Warning and Warnings and Precautions (5.1)].
+- Severe Acute Exacerbations of Hepatitis B in Patients Coinfected with HIV-1 and HBV [see Warnings and Precautions (5.1)].
 - New Onset or Worsening Renal Impairment [see Warnings and Precautions (5.2)].
 - Lactic Acidosis/Severe Hepatomegaly with Steatosis [see Warnings and Precautions (5.3)].
 - Bone Loss and Mineralization Defects [see Warnings and Precautions (5.5)].
