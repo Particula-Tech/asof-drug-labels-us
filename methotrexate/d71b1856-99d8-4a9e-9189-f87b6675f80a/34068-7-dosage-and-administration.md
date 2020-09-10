@@ -31,18 +31,18 @@ The recommended dosage of Methotrexate Tablets is 2.5 mg orally 2 to 4 times per
 ## 2.3 Recommended Dosage for Rheumatoid Arthritis
 
 The recommended starting dosage of Methotrexate Tablets is 7.5 mg orally once weekly with escalation to achieve optimal response.
-Dosage of more than 20 mg once weekly result in an increased risk of serious adverse reactions, including myelosuppression.
+Dosages of more than 20 mg once weekly result in an increased risk of serious adverse reactions, including myelosuppression.
 When responses are observed, the majority occurred between 3 and 6 weeks from initiation of treatment; however, responses have occurred up to 12 weeks after treatment initiation.
 
 Administer folic acid or folinic acid to reduce the risk of methotrexate adverse reactions [see Warnings and Precautions (5.10)].
 
 ## 2.4 Recommended Dosage for Polyarticular Juvenile Idiopathic Arthritis
 
-The recommend starting dosage of Methotrexate Tablets is 10 mg/m2 orally once weekly with escalation to achieve optimal response.
+The recommended starting dosage of Methotrexate Tablets is 10 mg/m2 orally once weekly with escalation to achieve optimal response.
 Dosages of more than 30 mg/m2 once weekly result in an increased risk of serious adverse reactions, including myelosuppression.
 When responses are observed, the majority occurred between 3 and 6 weeks from initiation of treatment; however, responses have occurred up to 12 weeks after treatment initiation.
 
-Administer folic acid or folinic acid to reduce the risk of methotrexate adverse reactions [see Warnings and Precautions (5.10)].
+Administer folic acid or folinic acid to reduce the risk of methotrexate adverse reactions [see Warnings and Precautions(5.10)].
 
 ## 2.5 Recommended Dosage for Psoriasis
 
@@ -50,7 +50,7 @@ The recommended dosage of Methotrexate Tablets is 10 to 25 mg orally once weekly
 Adjust the dose gradually to achieve optimal clinical response; do not exceed a dose of 30 mg per week.
 Once optimal clinical response has been achieved, reduce the dosage to the lowest possible dosing regimen.
 
-Administer folic acid or folinic acid supplementation to reduce the risk of methotrexate adverse reactions [see Warnings and Precautions (5.10)].
+Administer folic acid or folinic acid supplementation to reduce the risk of methotrexate adverse reactions [see Warningsand Precautions (5.10)].
 
 ## 2.6 Dosage Modifications for Adverse Reactions
 

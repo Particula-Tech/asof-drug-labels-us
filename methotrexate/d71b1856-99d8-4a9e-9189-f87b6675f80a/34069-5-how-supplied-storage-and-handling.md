@@ -12,8 +12,7 @@ NDC 0054-4550-25: Bottle of 100 Tablets
 
 Dispense with a child-resistant closure in a well closed container, as defined in the USP/NF.
 
-Store at 20° to 25°C (68° to 77°F).
-[See USP Controlled Room Temperature.]
+Store at 20° to 25°C (68° to 77°F); excursions permitted to 15°C to 30°C (59°F to 86°F) [See USP Controlled Room Temperature.]
 
 Methotrexate Tablets are a cytotoxic drug.
 Follow applicable special handling and disposal procedures.1

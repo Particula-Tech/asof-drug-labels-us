@@ -6,11 +6,11 @@ Based on published reports and its mechanism of action, Methotrexate Tablets can
 Methotrexate Tablets is contraindicated for use in pregnant women receiving Methotrexate Tablets for the treatment of non-malignant diseases.
 Advise pregnant women with neoplastic diseases of the potential risk to a fetus.
 Advise females of reproductive potential to use effective contraception during treatment with Methotrexate Tablets and for 6 months after the final dose.
-Advise males with female partners of reproductive potential to use effective contraception during Methotrexate Tablets treatment and for 3 months after the final dose [see Contraindications (4), Use in Specific Populations (8.1, 8.3)].
+Advise males with female partners of reproductive potential to use effective contraception during Methotrexate Tablets treatment and for 3 months after the final dose [seeContraindications (4), Use in Specific Populations (8.1, 8.3)].
 
 ## 5.2 Hypersensitivity Reactions
 
-Hypersensitivity reactions, including anaphylaxis, can occur with methotrexate [see Contraindications (4), Adverse Reactions (6.1)].
+Hypersensitivity reactions, including anaphylaxis, can occur with methotrexate [see Contraindications (4), AdverseReactions (6.1)].
 
 If anaphylaxis or other serious hypersensitivity reaction occurs, immediately and permanently discontinue Methotrexate Tablets [see Dosage and Administration (2.6)].
 
@@ -25,7 +25,7 @@ Withhold, dose reduce, or discontinue Methotrexate Tablets taking into account t
 ## 5.4 Gastrointestinal Toxicity
 
 Diarrhea, vomiting, nausea, and stomatitis occurred in up to 10% of patients receiving methotrexate for treatment of non-neoplastic diseases.
-Hemorrhagic enteritis and fatal intestinal perforation have been reported [see Adverse Reactions (6.1, 6.2)].
+Hemorrhagic enteritis and fatal intestinal perforation have been reported [see Adverse Reactions (6.1,6.2)].
 Patients with peptic ulcer disease or ulcerative colitis are at a greater risk of developing severe gastrointestinal adverse reactions [see Drug Interactions (7.1)].
 
 Withhold or discontinue Methotrexate Tablets for severe gastrointestinal toxicity taking into account the importance of Methotrexate Tablet treatment in the context of the severity of the disease being treated, the severity of the adverse drug reaction, and availability of alternative therapy [see Dosage and Administration (2.6)].
@@ -107,7 +107,7 @@ Secondary malignancies can occur with methotrexate [see Adverse Reactions (6.2)]
 The risk of cutaneous malignancies is further increased when cyclosporine is administered to patients with psoriasis who received prior methotrexate.
 
 In some cases, lymphoproliferative disease occurring during therapy with low-dose methotrexate regressed completely following withdrawal of methotrexate.
-If lymphoproliferative disease occurs, discontinue Methotrexate Tablets [see Dosage and Administration (2.6)].
+If lymphoproliferative disease occurs, discontinue Methotrexate Tablets [seeDosage and Administration (2.6)].
 
 ## 5.14 Tumor Lysis Syndrome
 
