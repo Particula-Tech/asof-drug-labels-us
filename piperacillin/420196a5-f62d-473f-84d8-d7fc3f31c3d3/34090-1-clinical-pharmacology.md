@@ -2,7 +2,7 @@
 
 ## 12.1 Mechanism of Action
 
-Piperacillin and Tazobactam for Injection, USP is an antibacterial drug [see Microbiology (12.4)].
+Piperacillin and tazobactam for injection, USP is an antibacterial drug [see Microbiology (12.4)].
 
 ## 12.2 Pharmacodynamics
 
@@ -10,21 +10,22 @@ The pharmacodynamic parameter for piperacillin/tazobactam that is most predictiv
 
 ## 12.3 Pharmacokinetics
 
-The mean and coefficients of variation (CV%) for the pharmacokinetic parameters of piperacillin and tazobactam after multiple intravenous doses are summarized in Table 6.
+The mean and coefficients of variation (CV%) for the pharmacokinetic parameters of piperacillin and tazobactam after multiple intravenous doses are summarized in Table 7.
 
-Table 6: Mean (CV%) Piperacillin and Tazobactam PK Parameters
+Table 7: Mean (CV%) Piperacillin and Tazobactam PK Parameters
 
 | Piperacillin |  |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- |
-| Piperacillin/Tazobactam DosePiperacillin and tazobactam were given in combination, infused over 30 minutes. | Cmax mcg/mL | AUCNumbers in parentheses are coefficients of variation (CV%). mcg∙h/mL | CL mL/min | V L | T1/2 h | CLR mL/min |
-| 2.25 g | 134 | 131 (14) | 257 | 17.4 | 0.79 | -- |
-| 3.375 g | 242 | 242 (10) | 207 | 15.1 | 0.84 | 140 |
-| 4.5 g | 298 | 322 (16) | 210 | 15.4 | 0.84 | -- |
+| Piperacillin/Tazobactam DosePiperacillin and tazobactam were given in combination, infused over 30 minutes. | Cmax (mcg/mL) | AUCNumbers in [] parentheses are coefficients of variation [CV%]. (mcg∙h/mL) | CL (mL/min) | V (L) | T1/2 (h) | CLR (mL/min) |
+| 2.25 g | 134 | 131 [14] | 257 | 17.4 | 0.79 | -- |
+| 3.375 g | 242 | 242 [10] | 207 | 15.1 | 0.84 | 140 |
+| 4.5 g | 298 | 322 [16] | 210 | 15.4 | 0.84 | -- |
 | Tazobactam |  |  |  |  |  |  |
-| Piperacillin/Tazobactam Dose | Cmax mcg/mL | AUC mcg∙h/mL | CL mL/min | V L | T1/2 h | CLR mL/min |
-| 2.25 g | 15 | 16.0 (21) | 258 | 17.0 | 0.77 | -- |
-| 3.375 g | 24 | 25.0 (8) | 251 | 14.8 | 0.68 | 166 |
-| 4.5 g | 34 | 39.8 (15) | 206 | 14.7 | 0.82 | -- |
+| Piperacillin/Tazobactam Dose | Cmax (mcg/mL) | AUC (mcg∙h/mL) | CL (mL/min) | V (L) | T1/2 (h) | CLR (mL/min) |
+| 2.25 g | 15 | 16.0 [21] | 258 | 17.0 | 0.77 | -- |
+| 3.375 g | 24 | 25.0 [8] | 251 | 14.8 | 0.68 | 166 |
+| 4.5 g | 34 | 39.8 [15] | 206 | 14.7 | 0.82 | -- |
+| Cmax: maximum observed concentration, AUC: Area under the curve, CL=clearance, CLR= Renal clearance V=volume of distribution, T1/2 = elimination half-life |  |  |  |  |  |  |
 
 Peak plasma concentrations of piperacillin and tazobactam are attained immediately after completion of an intravenous infusion of piperacillin and tazobactam for injection.
 Piperacillin plasma concentrations, following a 30-minute infusion of piperacillin and tazobactam for injection, were similar to those attained when equivalent doses of piperacillin were administered alone.
@@ -38,9 +39,9 @@ Protein binding of the tazobactam metabolite is negligible.
 
 Piperacillin and tazobactam are widely distributed into tissues and body fluids including intestinal mucosa, gallbladder, lung, female reproductive tissues (uterus, ovary, and fallopian tube), interstitial fluid, and bile.
 Mean tissue concentrations are generally 50% to 100% of those in plasma.
-Distribution of piperacillin and tazobactam into cerebrospinal fluid is low in subjects with non-inflamed meninges, as with other penicillins (see Table 7).
+Distribution of piperacillin and tazobactam into cerebrospinal fluid is low in subjects with non-inflamed meninges, as with other penicillins (see Table 8).
 
-Table 7: Piperacillin/Tazobactam Concentrations in Selected Tissues and Fluids after Single 4 g/0.5 g 30-min IV Infusion of Piperacillin and Tazobactam for Injection
+Table 8: Piperacillin/Tazobactam Concentrations in Selected Tissues and Fluids after Single 4 g/0.5 g 30-min IV Infusion of Piperacillin and Tazobactam for Injection
 
 | Tissue or Fluid | Na | Sampling periodb (h) | Mean PIP Concentration Range (mg/L) | Tissue: Plasma Range | Tazo Concentration Range (mg/L) | Tazo Tissue: Plasma Range |
 | --- | --- | --- | --- | --- | --- | --- |
@@ -93,7 +94,7 @@ The clearance of both compounds is slower in the younger patients compared to ol
 In a population PK analysis, estimated clearance for 9 month-old to 12 year-old patients was comparable to adults, with a population mean (SE) value of 5.64 (0.34) mL/min/kg.
 The piperacillin clearance estimate is 80% of this value for pediatric patients 2 to 9 months old.
 In patients younger than 2 months of age, clearance of piperacillin is slower compared to older children; however, it is not adequately characterized for dosing recommendations.
-The population mean (SE) for piperacillin distribution volume is 0.243 (0.011) L/kg and is independent of age.
+The population mean (SE) for piperacillin volume of distribution is 0.243 (0.011) L/kg and is independent of age.
 
 Geriatrics
 
@@ -117,21 +118,23 @@ Mechanism of Action
 Piperacillin sodium exerts bactericidal activity by inhibiting septum formation and cell wall synthesis of susceptible bacteria.
 In vitro, piperacillin is active against a variety of Gram-positive and Gram-negative aerobic and anaerobic bacteria.
 Tazobactam sodium has little clinically relevant in vitro activity against bacteria due to its reduced affinity to penicillin-binding proteins.
-It is, however, a β-lactamase inhibitor of the Molecular class A enzymes, including Richmond-Sykes class III (Bush class 2b & 2b') penicillinases and cephalosporinases.
+It is, however, a beta-lactamase inhibitor of the Molecular class A enzymes, including Richmond-Sykes class III (Bush class 2b & 2b') penicillinases and cephalosporinases.
 It varies in its ability to inhibit class II and IV (2a & 4) penicillinases.
-Tazobactam does not induce chromosomally-mediated β-lactamases at tazobactam concentrations achieved with the recommended dosage regimen.
+Tazobactam does not induce chromosomally-mediated beta-lactamases at tazobactam concentrations achieved with the recommended dosage regimen.
 
-Spectrum of Activity
+Antimicrobial Activity
 
-Piperacillin/tazobactam has been shown to be active against most isolates of the following microorganisms both in vitro and in clinical infections [see Indications and Usage (1)].
+Piperacillin and tazobactam for injection has been shown to be active against most isolates of the following microorganisms both in vitro and in clinical infections [see Indications and Usage (1)].
 
-Gram-positive bacteria:
+Aerobic bacteria
+
+Gram-positive bacteria
 
 Staphylococcus aureus (methicillin susceptible isolates only)
 
-Gram-negative bacteria:
+Gram-negative bacteria
 
-Acinetobacter baumannii Escherichia coli Haemophilus influenzae (excluding β-lactamase negative, ampicillin-resistant isolates) Klebsiella pneumoniae Pseudomonas aeruginosa (given in combination with an aminoglycoside to which the isolate is susceptible)
+Acinetobacter baumannii Escherichia coli Haemophilus influenzae (excluding beta-lactamase negative, ampicillin-resistant isolates) Klebsiella pneumoniae Pseudomonas aeruginosa (given in combination with an aminoglycoside to which the isolate is susceptible)
 
 Anaerobic bacteria:
 
@@ -139,22 +142,25 @@ Bacteroides fragilis group (B. fragilis, B. ovatus, B. thetaiotaomicron, and B. 
 
 The following in vitro data are available, but their clinical significance is unknown.
 
-At least 90% of the following microorganisms exhibit an in vitro minimum inhibitory concentration (MIC) less than or equal to the susceptible breakpoint for piperacillin/tazobactam.
-However, the safety and effectiveness of piperacillin/tazobactam in treating clinical infections due to these bacteria have not been established in adequate and well-controlled clinical trials.
+At least 90 percent of the following bacteria exhibit an in vitro minimum inhibitory concentration (MIC) less than or equal to the susceptible breakpoint for piperacillin/tazobactam against isolates of similar genus or organism group.
 
-Gram-positive bacteria:
+However, the efficacy of piperacillin and tazobactam for injection in treating clinical infections caused by these bacteria has not been established in adequate and well-controlled clinical trials.
+
+Aerobic bacteria
+
+Gram-positive bacteria
 
 Enterococcus faecalis (ampicillin or penicillin-susceptible isolates only) Staphylococcus epidermidis (methicillin susceptible isolates only) Streptococcus agalactiae† Streptococcus pneumoniae† (penicillin-susceptible isolates only) Streptococcus pyogenes† Viridans group streptococci†
 
-Gram-negative bacteria:
+Gram-negative bacteria
 
 Citrobacter koseri Moraxella catarrhalis Morganella morganii Neisseria gonorrhoeae Proteus mirabilis Proteus vulgaris Serratia marcescens Providencia stuartii Providencia rettgeri Salmonella enterica
 
-Anaerobic bacteria:
+Anaerobic bacteria
 
 Clostridium perfringens Bacteroides distasonis Prevotella melaninogenica
 
-†These are not β-lactamase producing bacteria and, therefore, are susceptible to piperacillin alone.
+†These are not beta-lactamase producing bacteria and, therefore, are susceptible to piperacillin alone.
 
 Susceptibility Testing
 
