@@ -1,4 +1,4 @@
-# PACKAGE/LABEL PRINCIPAL DISPLAY PANEL
+# Package/Label Display Panel
 
 NDC 24208-434-10
 

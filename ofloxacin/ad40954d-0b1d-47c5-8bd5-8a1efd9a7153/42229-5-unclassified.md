@@ -1,3 +1,5 @@
+Sterile
+
 Rx only
 
 # PRECAUTIONS

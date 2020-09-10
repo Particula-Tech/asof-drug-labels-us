@@ -2,14 +2,17 @@
 
 The recommended dosage regimen for the treatment of bacterial conjunctivitis is:
 
-1. Days 1 and 2 Instill one to two drops every two to four hours in the affected eye(s).
-   Days 3 through 7 Instill one to two drops four times daily.
+Days 1 and 2 Instill one to two drops every two to four hours in the affected eye(s).
 
-The recommended dosage regimen for the treatment of bacterial corneal ulcer is:
+Days 3 through 7 Instill one to two drops four times daily.
 
-1. Days 1 and 2 Instill one to two drops into the affected eye every 30 minutes, while awake.
-   Awaken at approximately four and six hours after retiring and instill one to two drops.
-   Days 3 through 7 to 9 Instill one to two drops hourly, while awake.
-2. Days 7 to 9 through Instill one to two drops, four times daily. treatment completion
+The recommended dosage regimen for the treatment of bacterial cornealulcer is:
 
-DO NOT USE IF IMPRINTED “Protective Seal” WITH YELLOW IS NOT INTACT.
+Days 1 and 2 Instill one to two drops into the affected eye every 30 minutes, while awake.
+Awaken at approximately four and six hours after retiring and instill one to two drops.
+
+Days 3 through 7 to 9 Instill one to two drops hourly, while awake.
+
+Days 7 to 9 through Instill one to two drops, four times daily.
+
+treatment completion
