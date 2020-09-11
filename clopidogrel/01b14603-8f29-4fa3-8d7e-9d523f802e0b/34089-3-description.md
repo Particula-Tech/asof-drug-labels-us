@@ -1,6 +1,6 @@
 # 11 DESCRIPTION
 
-Plavix (clopidogrel bisulfate) is a thienopyridine class inhibitor of P2Y12 ADP platelet receptors.
+Plavix (clopidogrel tablets) is a thienopyridine class inhibitor of P2Y12 ADP platelet receptors.
 Chemically it is methyl (+)-(S)-α-(2-chlorophenyl)-6,7-dihydrothieno[3,2-c]pyridine-5(4H)-acetate sulfate (1:1).
 The empirical formula of clopidogrel bisulfate is C16H16ClNO2S•H2SO4 and its molecular weight is 419.9.
 

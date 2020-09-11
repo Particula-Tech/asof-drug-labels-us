@@ -4,7 +4,8 @@
 
 Risk Summary
 
-Available data from cases reported in published literature and postmarketing surveillance with clopidogrel use in pregnant women have not identified any drug-associated risks for major birth defects or miscarriage [see Data].There are risks to the pregnant woman and fetus associated with myocardial infarction and stroke [see Clinical Considerations].
+Available data from cases reported in published literature and postmarketing surveillance with clopidogrel use in pregnant women have not identified any drug-associated risks for major birth defects or miscarriage [see Data].
+There are risks to the pregnant woman and fetus associated with myocardial infarction and stroke [see Clinical Considerations].
 No evidence of fetotoxicity was observed when clopidogrel was administered to pregnant rats and rabbits during organogenesis at doses corresponding to 65 and 78 times the recommended daily human dose [see Data].
 
 The estimated background risk of major birth defects and miscarriage for the indicated populations is unknown.

@@ -1,4 +1,4 @@
-Medication Guide Plavix® (PLAV-iks) (clopidogrel bisulfate) tablets
+Medication Guide Plavix® (PLAV-iks) (clopidogrel tablets)
 
 Read this Medication Guide before you start taking Plavix and each time you get a refill.
 There may be new information.
@@ -64,7 +64,7 @@ Before you take Plavix, tell your doctor if you:
 - plan to have surgery or a dental procedure.
   See "How should I take Plavix?"
 - are pregnant or plan to become pregnant.
-  It is not known if Plavix will harm your unborn baby
+  It is not known if Plavix will harm your unborn baby.
 - are breastfeeding or plan to breastfeed.
   It is not known if Plavix passes into your breast milk.
   A decision should be made with your healthcare provider to avoid or discontinue breastfeeding when continuing Plavix is needed.
@@ -85,7 +85,7 @@ Especially tell your doctor if you take:
 
 - aspirin, especially if you have had a stroke.
   Always talk to your doctor about whether you should take aspirin along with Plavix to treat your condition.
-- Non-steroidal anti-inflammatory drugs (NSAIDs).
+- non-steroidal anti-inflammatory drugs (NSAIDs).
   Ask your doctor or pharmacist for a list of NSAID medicines if you are not sure.
 - warfarin (Coumadin®, Jantoven®).
 - selective serotonin reuptake inhibitors (SSRIs) and serotonin norepinephrine reuptake inhibitors (SNRIs).
@@ -117,7 +117,7 @@ Plavix can cause serious side effects including:
   TTP can happen with Plavix, sometimes after a short time (less than 2 weeks).
   TTP is a blood clotting problem where blood clots form in blood vessels; and can happen anywhere in the body.
   TTP needs to be treated in a hospital right away, because it may cause death.
-  Get medical help right away if you have any of these symptoms and they can not be explained by another medical condition:
+  Get medical help right away if you have any of these symptoms and they cannot be explained by another medical condition:
   - purplish spots (called purpura) on the skin or in the mouth (mucous membranes) due to bleeding under the skin
   - your skin or the whites of your eyes are yellow (jaundice)
   - you feel tired or weak
