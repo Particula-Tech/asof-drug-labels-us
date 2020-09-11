@@ -13,5 +13,5 @@ Manufactured by: Dexcel Pharma Technologies Ltd, 10 Hakidma St., Yokneam 2069200
 
 Tel: 1-888-periochip (737-4624) www.periochip.com
 
-1269350125-C Iss.
+1269350125-D Iss.
 11/12

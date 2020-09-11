@@ -28,7 +28,7 @@ No evidence that chlorhexidine gluconate has potential to cause genetic toxicity
 
 ## Pregnancy
 
-Teratogenic Effects: Pregnancy Category C – Animal reproduction studies have not been conducted in relation to PerioChip, because animal models that would permit use of a clinically relevant route of administration are not available.
+Teratogenic Effects: Animal reproduction studies have not been conducted in relation to PerioChip, because animal models that would permit use of a clinically relevant route of administration are not available.
 Chlorhexidine gluconate did not induce harm to the fetus when administered to rats by gavage at dosages up to 68.5 mg/kg/day.
 While chlorhexidine is known to be very poorly absorbed from the GI tract, it may be absorbed following placement within a periodontal pocket.
 Therefore, it is unclear whether these data are relevant to clinical use of PerioChip.
