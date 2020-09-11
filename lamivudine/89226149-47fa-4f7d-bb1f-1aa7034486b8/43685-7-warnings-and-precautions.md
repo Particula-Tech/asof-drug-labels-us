@@ -16,7 +16,7 @@ Important Differences among Lamivudine‑Containing Products
 EPIVIR tablets and oral solution contain a higher dose of the same active ingredient (lamivudine) than EPIVIR‑HBV tablets and EPIVIR‑HBV oral solution.
 EPIVIR‑HBV was developed for patients with chronic hepatitis B. The formulation and dosage of lamivudine in EPIVIR‑HBV are not appropriate for patients co-infected with HIV‑1 and HBV.
 Safety and efficacy of lamivudine have not been established for treatment of chronic hepatitis B in patients co‑infected with HIV‑1 and HBV.
-If treatment with EPIVIR‑HBV is prescribed for chronic hepatitis B for a patient with unrecognized or untreated HIV‑1 infection, rapid emergence of HIV‑1 resistance is likely to result because of the subtherapeutic dose and the inappropriateness of monotherapy HIV‑1 treatment.
+If treatment with EPIVIR‑HBV is prescribed for chronic hepatitis B for a patient with unrecognized or untreated HIV-1 infection, rapid emergence of HIV‑1 resistance is likely to result because of the subtherapeutic dose and the inappropriateness of monotherapy HIV‑1 treatment.
 If a decision is made to administer lamivudine to patients co‑infected with HIV‑1 and HBV, EPIVIR tablets, EPIVIR oral solution, or another product containing the higher dose of lamivudine should be used as part of an appropriate combination regimen.
 
 Emergence of Lamivudine-Resistant HBV
@@ -47,6 +47,6 @@ Autoimmune disorders (such as Graves’ disease, polymyositis, and Guillain-Barr
 
 Pediatric subjects who received EPIVIR oral solution (at weight band-based doses approximating 8 mg per kg per day) concomitantly with other antiretroviral oral solutions at any time in the ARROW trial had lower rates of virologic suppression, lower plasma lamivudine exposure, and developed viral resistance more frequently than those receiving EPIVIR tablets [see Clinical Pharmacology (12.3), Microbiology (12.4), Clinical Studies (14.2)].
 
-EPIVIR scored tablet is the preferred formulation for HIV‑1-infected pediatric patients who weigh at least 14 kg and for whom a solid dosage form is appropriate.
+EPIVIR scored tablet is the preferred formulation for HIV-1‑infected pediatric patients who weigh at least 14 kg and for whom a solid dosage form is appropriate.
 An all-tablet regimen should be used when possible to avoid a potential interaction with sorbitol [see Clinical Pharmacology (12.3)].
 Consider more frequent monitoring of HIV-1 viral load when treating with EPIVIR oral solution.

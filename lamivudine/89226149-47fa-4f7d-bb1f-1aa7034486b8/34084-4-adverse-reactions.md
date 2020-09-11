@@ -13,7 +13,7 @@ Clinical Trials Experience in Adult Subjects
 
 Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared with rates in the clinical trials of another drug and may not reflect the rates observed in clinical practice.
 
-The safety profile of EPIVIR in adults is primarily based on 3,568 HIV-1-infected subjects in 7 clinical trials.
+The safety profile of EPIVIR in adults is primarily based on 3,568 HIV-1‑infected subjects in 7 clinical trials.
 
 The most common adverse reactions are headache, nausea, malaise, fatigue, nasal signs and symptoms, diarrhea, and cough.
 
@@ -52,7 +52,7 @@ Selected Clinical Adverse Reactions (Greater than or Equal to 5% Frequency) in F
 | Arthralgia | 5% | 5% |
 | a Either zidovudine monotherapy or zidovudine in combination with zalcitabine. |  |  |
 
-Pancreatitis: Pancreatitis was observed in 9 out of 2,613 adult subjects (0.3%) who received EPIVIR in controlled clinical trials EPV20001, NUCA3001, NUCB3001, NUCA3002, NUCB3002, and NUCB3007 [see Warnings and Precautions (5.4)].
+Pancreatitis: Pancreatitis was observed in 9 out of 2,613 adult subjects (0.3%) who received EPIVIR in controlled clinical trials EPV20001, NUCA3001, NUCB3001, NUCA3002, NUCB3002, and NUCB3007 [see Warnings and Precautions (5.3)].
 
 EPIVIR 300 mg Once Daily: The types and frequencies of clinical adverse reactions reported in subjects receiving EPIVIR 300 mg once daily or EPIVIR 150 mg twice daily (in 3-drug combination regimens in EPV20001 and EPV40001) for 48 weeks were similar.
 
@@ -110,7 +110,7 @@ In an open‑label dose‑escalation trial (NUCA2002), 14 subjects (14%) develop
 Three of these subjects died of complications of pancreatitis.
 In a second open‑label trial (NUCA2005), 12 subjects (18%) developed pancreatitis.
 In Trial ACTG300, pancreatitis was not observed in 236 subjects randomized to EPIVIR plus RETROVIR.
-Pancreatitis was observed in 1 subject in this trial who received open‑label EPIVIR in combination with RETROVIR and ritonavir following discontinuation of didanosine monotherapy [see Warnings and Precautions (5.4)].
+Pancreatitis was observed in 1 subject in this trial who received open‑label EPIVIR in combination with RETROVIR and ritonavir following discontinuation of didanosine monotherapy [see Warnings and Precautions (5.3)].
 
 Paresthesias and Peripheral Neuropathies: Paresthesias and peripheral neuropathies were reported in 15 subjects (15%) in Trial NUCA2002, 6 subjects (9%) in Trial NUCA2005, and 2 subjects (less than 1%) in Trial ACTG300.
 
@@ -138,7 +138,7 @@ One event of Grade 4 hepatitis in the once-daily cohort was considered as uncert
 Neonates: Limited short-term safety information is available from 2 small, uncontrolled trials in South Africa in neonates receiving lamivudine with or without zidovudine for the first week of life following maternal treatment starting at Week 38 or 36 of gestation [see Clinical Pharmacology (12.3)].
 Selected adverse reactions reported in these neonates included increased liver function tests, anemia, diarrhea, electrolyte disturbances, hypoglycemia, jaundice and hepatomegaly, rash, respiratory infections, and sepsis; 3 neonates died (1 from gastroenteritis with acidosis and convulsions, 1 from traumatic injury, and 1 from unknown causes).
 Two other nonfatal gastroenteritis or diarrhea cases were reported, including 1 with convulsions; 1 infant had transient renal insufficiency associated with dehydration.
-The absence of control groups limits assessments of causality, but it should be assumed that perinatally exposed infants may be at risk for adverse reactions comparable to those reported in pediatric and adult HIV-1-infected patients treated with lamivudine-containing combination regimens.
+The absence of control groups limits assessments of causality, but it should be assumed that perinatally exposed infants may be at risk for adverse reactions comparable to those reported in pediatric and adult HIV-1‑infected patients treated with lamivudine-containing combination regimens.
 Long-term effects of in utero and infant lamivudine exposure are not known.
 
 ## 6.2 Postmarketing Experience

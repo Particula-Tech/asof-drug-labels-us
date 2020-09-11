@@ -38,6 +38,7 @@ Trademark owned or licensed by ViiV Healthcare.
 
 1. 10000000149606 Rev.
    9/18
+2. 
 
 PRINCIPAL DISPLAY PANEL
 
@@ -79,6 +80,7 @@ Trademark owned or licensed by ViiV Healthcare.
 
 1. 10000000149607 Rev.
    8/18
+2. 
 
 PRINCIPAL DISPLAY PANEL
 
@@ -106,3 +108,4 @@ Do not use if shrinkband on bottle is broken or missing.
 
 1. 62000000025189 Rev.
    06/18
+2. 

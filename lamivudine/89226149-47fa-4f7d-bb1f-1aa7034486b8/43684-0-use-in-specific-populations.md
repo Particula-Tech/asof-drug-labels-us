@@ -30,7 +30,7 @@ Lamivudine concentrations were generally similar in maternal, neonatal, and umbi
 In a subset of subjects, amniotic fluid specimens were collected following natural rupture of membranes and confirmed that lamivudine crosses the placenta in humans.
 Based on limited data at delivery, median (range) amniotic fluid concentrations of lamivudine were 3.9 (1.2 to 12.8)–fold greater compared with paired maternal serum concentration (n = 8).
 
-Animal Data: Lamivudine was administered orally to pregnant rats (at 90, 600, and 4,000 mg per kg per day) and rabbits (at 90, 300, and 1,000 mg per kg per day and at 15, 40, and 90 mg per kg per day) during organogenesis (on gestation Days 7 through 16 [rat] and 8 through 20 [rabbit]).
+Animal Data: Lamivudine was administered orally to pregnant rats (at 90, 600, and 4,000 mg per kg per day) and rabbits (at 90, 300, and 1,000 mg per kg per day and at 15, 40, and 90 mg per kg per day) during organogenesis (on Gestation Days 7 through 16 [rat] and 8 through 20 [rabbit]).
 No evidence of fetal malformations due to lamivudine was observed in rats and rabbits at doses producing plasma concentrations (Cmax) approximately 35 times higher than human exposure at the recommended daily dose.
 Evidence of early embryolethality was seen in the rabbit at system exposures (AUC) similar to those observed in humans, but there was no indication of this effect in the rat at plasma concentrations (Cmax) 35 times higher than human exposure at the recommended daily dose.
 Studies in pregnant rats showed that lamivudine is transferred to the fetus through the placenta.
@@ -41,7 +41,7 @@ In the study, development of the offspring, including fertility and reproductive
 
 Risk Summary
 
-The Centers for Disease Control and Prevention recommends that HIV-1-infected mothers in the United States not breastfeed their infants to avoid risking postnatal transmission of HIV-1 infection.
+The Centers for Disease Control and Prevention recommends that HIV-1‑infected mothers in the United States not breastfeed their infants to avoid risking postnatal transmission of HIV-1 infection.
 Lamivudine is present in human milk.
 There is no information on the effects of lamivudine on the breastfed infant or the effects of the drugs on milk production.
 Because of the potential for (1) HIV-1 transmission (in HIV-negative infants), (2) developing viral resistance (in HIV-positive infants), and (3) adverse reactions in a breastfed infant, instruct mothers not to breastfeed if they are receiving EPIVIR.
@@ -49,7 +49,7 @@ Because of the potential for (1) HIV-1 transmission (in HIV-negative infants), (
 ## 8.4 Pediatric Use
 
 The safety and effectiveness of EPIVIR in combination with other antiretroviral agents have been established in pediatric patients aged 3 months and older.
-EPIVIR scored tablet is the preferred formulation for HIV‑1-infected pediatric patients who weigh at least 14 kg and for whom a solid dosage form is appropriate because pediatric subjects who received EPIVIR oral solution had lower rates of virologic suppression, lower plasma lamivudine exposure, and developed viral resistance more frequently than those receiving EPIVIR tablets in the ARROW trial [see Dosage and Administration (2.2), Warnings and Precautions (5.6), Adverse Reactions (6.1), Clinical Pharmacology (12.3), Clinical Studies (14.2)].
+EPIVIR scored tablet is the preferred formulation for HIV-1‑infected pediatric patients who weigh at least 14 kg and for whom a solid dosage form is appropriate because pediatric subjects who received EPIVIR oral solution had lower rates of virologic suppression, lower plasma lamivudine exposure, and developed viral resistance more frequently than those receiving EPIVIR tablets in the ARROW trial [see Dosage and Administration (2.2), Warnings and Precautions (5.5), Adverse Reactions (6.1), Clinical Pharmacology (12.3), Clinical Studies (14.2)].
 
 ## 8.5 Geriatric Use
 

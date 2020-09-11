@@ -8,7 +8,7 @@ Lamivudine is an antiretroviral agent [see Microbiology (12.4)].
 
 Pharmacokinetics in Adults
 
-The pharmacokinetic properties of lamivudine have been studied in asymptomatic, HIV-1-infected adult subjects after administration of single intravenous (IV) doses ranging from 0.25 to 8 mg per kg, as well as single and multiple (twice-daily regimen) oral doses ranging from 0.25 to 10 mg per kg.
+The pharmacokinetic properties of lamivudine have been studied in asymptomatic, HIV-1‑infected adult subjects after administration of single intravenous (IV) doses ranging from 0.25 to 8 mg per kg, as well as single and multiple (twice-daily regimen) oral doses ranging from 0.25 to 10 mg per kg.
 
 The pharmacokinetic properties of lamivudine have also been studied as single and multiple oral doses ranging from 5 mg to 600 mg per day administered to HBV-infected subjects.
 
@@ -17,7 +17,7 @@ EPIVIR 300 mg once daily resulted in lamivudine exposures that were similar to E
 Intracellular lamivudine triphosphate exposures in peripheral blood mononuclear cells were also similar with respect to AUC24,ss and Cmax24,ss; however, trough values were lower compared with the 150-mg twice-daily regimen.
 Inter-subject variability was greater for intracellular lamivudine triphosphate concentrations versus lamivudine plasma trough concentrations.
 
-The pharmacokinetics of lamivudine was evaluated in 12 adult HIV‑1‑infected subjects dosed with lamivudine 150 mg twice daily in combination with other antiretroviral agents.
+The pharmacokinetics of lamivudine was evaluated in 12 adult HIV-1‑infected subjects dosed with lamivudine 150 mg twice daily in combination with other antiretroviral agents.
 The geometric mean (95% CI) for AUC(0-12) was 5.53 (4.58, 6.67) mcg.h per mL and for Cmax was 1.40 (1.17, 1.69) mcg per mL.
 
 Absorption and Bioavailability: Absolute bioavailability in 12 adult subjects was 86% ± 16% (mean ± SD) for the 150-mg tablet and 87% ± 13% for the oral solution.
@@ -27,7 +27,7 @@ The area under the plasma concentration versus time curve (AUC) and Cmax increas
 The accumulation ratio of lamivudine in HIV-1-positive asymptomatic adults with normal renal function was 1.50 following 15 days of oral administration of 2 mg per kg twice daily.
 
 Effects of Food on Oral Absorption: EPIVIR tablets and oral solution may be administered with or without food.
-An investigational 25-mg dosage form of lamivudine was administered orally to 12 asymptomatic, HIV-1-infected subjects on 2 occasions, once in the fasted state and once with food (1,099 kcal; 75 grams fat, 34 grams protein, 72 grams carbohydrate).
+An investigational 25-mg dosage form of lamivudine was administered orally to 12 asymptomatic, HIV-1‑infected subjects on 2 occasions, once in the fasted state and once with food (1,099 kcal; 75 grams fat, 34 grams protein, 72 grams carbohydrate).
 Absorption of lamivudine was slower in the fed state (Tmax: 3.2 ± 1.3 hours) compared with the fasted state (Tmax: 0.9 ± 0.3 hours); Cmax in the fed state was 40% ± 23% (mean ± SD) lower than in the fasted state.
 There was no significant difference in systemic exposure (AUC∞) in the fed and fasted states.
 
@@ -44,15 +44,15 @@ Lamivudine is not significantly metabolized by cytochrome P450 enzymes.
 
 Elimination: The majority of lamivudine is eliminated unchanged in urine by active organic cationic secretion.
 In 9 healthy subjects given a single 300-mg oral dose of lamivudine, renal clearance was 199.7 ± 56.9 mL per min (mean ± SD).
-In 20 HIV‑1-infected subjects given a single IV dose, renal clearance was 280.4 ± 75.2 mL per min (mean ± SD), representing 71% ± 16% (mean ± SD) of total clearance of lamivudine.
+In 20 HIV-1‑infected subjects given a single IV dose, renal clearance was 280.4 ± 75.2 mL per min (mean ± SD), representing 71% ± 16% (mean ± SD) of total clearance of lamivudine.
 
-In most single-dose trials in HIV‑1-infected subjects, HBV‑infected subjects, or healthy subjects with serum sampling for 24 hours after dosing, the observed mean elimination half-life (t½) ranged from 5 to 7 hours.
-In HIV‑1-infected subjects, total clearance was 398.5 ± 69.1 mL per min (mean ± SD).
+In most single-dose trials in HIV-1‑infected subjects, HBV‑infected subjects, or healthy subjects with serum sampling for 24 hours after dosing, the observed mean elimination half-life (t½) ranged from 5 to 7 hours.
+In HIV-1‑infected subjects, total clearance was 398.5 ± 69.1 mL per min (mean ± SD).
 Oral clearance and elimination half-life were independent of dose and body weight over an oral dosing range of 0.25 to 10 mg per kg.
 
 Specific Populations
 
-Patients with Renal Impairment: The pharmacokinetic properties of lamivudine have been determined in a small group of HIV‑1-infected adults with impaired renal function (Table 7).
+Patients with Renal Impairment: The pharmacokinetic properties of lamivudine have been determined in a small group of HIV-1‑infected adults with impaired renal function (Table 7).
 
 Table 7.
 Pharmacokinetic Parameters (Mean ± SD) after a Single 300-mg Oral Dose of Lamivudine in 3 Groups of Adults with Varying Degrees of Renal Function
@@ -83,15 +83,15 @@ Lamivudine pharmacokinetics in pregnant women were similar to those seen in non-
 Lamivudine concentrations were generally similar in maternal, neonatal, and umbilical cord serum samples.
 
 Pediatric Patients: The pharmacokinetics of lamivudine have been studied after either single or repeat doses of EPIVIR in 210 pediatric subjects.
-Pediatric subjects receiving lamivudine oral solution (dosed at approximately 8 mg per kg per day) achieved approximately 25% lower plasma concentrations of lamivudine compared with HIV‑1-infected adults.
+Pediatric subjects receiving lamivudine oral solution (dosed at approximately 8 mg per kg per day) achieved approximately 25% lower plasma concentrations of lamivudine compared with HIV-1‑infected adults.
 Pediatric subjects receiving lamivudine oral tablets achieved plasma concentrations comparable to or slightly higher than those observed in adults.
 The absolute bioavailability of both EPIVIR tablets and oral solution are lower in children than adults.
 The relative bioavailability of EPIVIR oral solution is approximately 40% lower than tablets containing lamivudine in pediatric subjects despite no difference in adults.
 Lower lamivudine exposures in pediatric patients receiving EPIVIR oral solution is likely due to the interaction between lamivudine and concomitant solutions containing sorbitol (such as ZIAGEN).
 Modeling of pharmacokinetic data suggests increasing the dosage of EPIVIR oral solution to 5 mg per kg taken orally twice daily or 10 mg per kg taken orally once daily (up to a maximum of 300 mg daily) is needed to achieve sufficient concentrations of lamivudine [see Dosage and Administration (2.2)].
-There are no clinical data in HIV-1 infected pediatric patients coadministered with sorbitol-containing medicines at this dose.
+There are no clinical data in HIV-1‑infected pediatric patients coadministered with sorbitol-containing medicines at this dose.
 
-The pharmacokinetics of lamivudine dosed once daily in HIV‑1-infected pediatric subjects aged 3 months through 12 years was evaluated in 3 trials (PENTA-15 [n = 17], PENTA 13 [n = 19], and ARROW PK [n = 35]).
+The pharmacokinetics of lamivudine dosed once daily in HIV-1‑infected pediatric subjects aged 3 months through 12 years was evaluated in 3 trials (PENTA-15 [n = 17], PENTA 13 [n = 19], and ARROW PK [n = 35]).
 All 3 trials were 2-period, crossover, open-label pharmacokinetic trials of twice- versus once-daily dosing of abacavir and lamivudine.
 These 3 trials demonstrated that once-daily dosing provides similar AUC0-24 to twice-daily dosing of lamivudine at the same total daily dose when comparing the dosing regimens within the same formulation (i.e., either the oral solution or the tablet formulation).
 The mean Cmax was approximately 80% to 90% higher with lamivudine once-daily dosing compared with twice-daily dosing.
@@ -149,7 +149,7 @@ Coadministration of TMP/SMX with lamivudine resulted in an increase of 43% ± 23
 The pharmacokinetic properties of TMP and SMX were not altered by coadministration with lamivudine.
 There is no information regarding the effect on lamivudine pharmacokinetics of higher doses of TMP/SMX such as those used in treat PCP.
 
-Zidovudine: No clinically significant alterations in lamivudine or zidovudine pharmacokinetics were observed in 12 asymptomatic HIV‑1-infected adult subjects given a single dose of zidovudine (200 mg) in combination with multiple doses of lamivudine (300 mg every 12 hours).
+Zidovudine: No clinically significant alterations in lamivudine or zidovudine pharmacokinetics were observed in 12 asymptomatic HIV-1‑infected adult subjects given a single dose of zidovudine (200 mg) in combination with multiple doses of lamivudine (300 mg every 12 hours).
 
 ## 12.4 Microbiology
 
