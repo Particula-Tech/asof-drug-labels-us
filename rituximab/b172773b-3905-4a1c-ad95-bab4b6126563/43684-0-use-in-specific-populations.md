@@ -43,7 +43,7 @@ The B-cell counts returned to normal levels, and immunologic function was restor
 ## 8.2 Lactation
 
 There are no data on the presence of rituximab in human milk, the effect on the breastfed child, or the effect on milk production.
-However, rituximab is detected in the milk of lactating cynomolgus monkeys and IgG is present in human milk.
+However, rituximab is detected in the milk of lactating cynomolgus monkeys, and IgG is present in human milk.
 Because of the potential of serious adverse reactions in the breastfed child, advise women not to breastfeed during treatment with RITUXAN and for at least 6 months after the last dose.
 
 ## 8.3 Females and Males of Reproductive Potential

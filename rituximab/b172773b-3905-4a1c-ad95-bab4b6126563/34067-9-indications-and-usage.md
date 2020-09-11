@@ -15,7 +15,7 @@ RITUXAN, in combination with fludarabine and cyclophosphamide (FC), is indicated
 
 ## 1.3 Rheumatoid Arthritis (RA)
 
-RITUXAN, in combination with methotrexate, is indicated for the treatment of adult patients with moderately- to severely- active rheumatoid arthritis who have had an inadequate response to one or more TNF antagonist therapies.
+RITUXAN, in combination with methotrexate, is indicated for the treatment of adult patients with moderately- to severely-active rheumatoid arthritis who have had an inadequate response to one or more TNF antagonist therapies.
 
 ## 1.4 Granulomatosis with Polyangiitis (GPA) (Wegener's Granulomatosis) and Microscopic Polyangiitis (MPA)
 

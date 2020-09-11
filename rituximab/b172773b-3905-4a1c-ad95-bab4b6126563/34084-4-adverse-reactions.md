@@ -365,18 +365,20 @@ Three patients received treatment with intravenous immunoglobulin.
 
 Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in practice.
 
-Non-U.S.-licensed rituximab in combination with short-term prednisone was compared to prednisone monotherapy in a randomized, controlled, multicenter open-label study of 90 patients (74 Pemphigus Vulgaris [PV] patients and 16 Pemphigus Foliaceus [PF] patients) (NCT00784589) [see Clinical Studies (14.8)].
+PV Study 1
+
+PV Study 1 (NCT00784589), a randomized, controlled, multicenter open-label study, evaluated the efficacy and safety of non-U.S.-licensed rituximab in combination with short-term prednisone compared to prednisone monotherapy in 90 patients (74 Pemphigus Vulgaris [PV] patients and 16 Pemphigus Foliaceus [PF] patients) [see Clinical Studies (14.8)].
 Safety results for the PV patient population during the 24-month treatment period are described below.
 
 The safety profile of the non-U.S.-licensed rituximab in patients with PV was consistent with that observed in patients with RITUXAN-treated RA and GPA and MPA [see Adverse Reactions (6.2 and 6.3)].
 
-Adverse reactions presented below in Table 4 were adverse events which occurred at a rate ≥5% among PV patients treated with non-U.S.-licensed rituximab and with at least 2% absolute difference in incidence between the group treated with non-U.S.-licensed rituximab and the prednisone monotherapy group up to Month 24.
+Adverse reactions from PV Study 1 are presented below in Table 4 and were adverse events which occurred at a rate ≥5% among PV patients treated with non-U.S.-licensed rituximab and with at least 2% absolute difference in incidence between the group treated with non-U.S.-licensed rituximab and the prednisone monotherapy group up to Month 24.
 No patients in the group treated with non-U.S.-licensed rituximab withdrew due to adverse reactions.
 The clinical study did not include sufficient number of patients to allow for direct comparison of adverse reaction rates between treatment groups.
 
-Table 4 Incidence of All Adverse Reactions Occurring in ≥ 5% Among PV Patients Treated with Non-U.S.-licensed Rituximab and with at Least 2% Absolute Difference in Incidence Between the Group Treated with Non-U.S.-licensed Rituximab with Short-term Prednisone and the Group Treated with Prednisone Monotherapy in the Clinical Study Up to Month 24
+Table 4 Incidence of All Adverse Reactions Occurring in ≥ 5% Among PV Patients Treated with Non-U.S.-licensed Rituximab and with at Least 2% Absolute Difference in Incidence Between the Group Treated with Non-U.S.-licensed Rituximab with Short-term Prednisone and the Group Treated with Prednisone Monotherapy in PV Study 1 (Up to Month 24)
 
-| Adverse Reactions | Non-U.S.-licensed rituximab + short-term prednisone N=38 n (%) | Prednisone N=36 n (%) |
+| Adverse Reaction | Non-U.S.-licensed rituximab + short-term prednisone N=38 n (%) | Prednisone N=36 n (%) |
 | --- | --- | --- |
 | Infusion-related reactionsInfusion-related reactions included symptoms collected on the next scheduled visit after each infusion, and adverse reactions occurring on the day of or one day after the infusion. The most common infusion-related reactions included headaches, chills, high blood pressure, nausea, asthenia, and pain. | 22 (58%) | N/A |
 | Depression | 7 (18%) | 4 (11%) |
@@ -412,6 +414,46 @@ Fourteen patients (37%) in the group treated with non-U.S.-licensed rituximab ex
 The most common infections in the group treated with non-U.S.-licensed rituximab were herpes simplex, herpes zoster, bronchitis, urinary tract infection, fungal infection, and conjunctivitis.
 Three patients (8%) in the group treated with non-U.S.-licensed rituximab experienced a total of 5 serious infections (Pneumocystis jirovecii pneumonia, infective thrombosis, intervertebral discitis, lung infection, Staphylococcal sepsis) and 1 patient (3%) in the prednisone group experienced 1 serious infection (Pneumocystis jirovecii pneumonia).
 
+PV Study 2
+
+In PV Study 2 (NCT02383589), a randomized, double-blind, double-dummy, active-comparator, multicenter study evaluating the efficacy and safety of RITUXAN compared to mycophenolate mofetil (MMF) in patients with moderate-to-severe PV requiring oral corticosteroids, 67 PV patients received treatment with RITUXAN (initial 1000 mg IV on Study Day 1 and a second 1000 mg IV on Study Day 15 repeated at Weeks 24 and 26) for up to 52 weeks [see Clinical Studies (14.8)].
+In PV Study 2, ADRs defined as adverse events occurring in ≥ 5% of patients in the RITUXAN arm and assessed as related are shown in Table 5.
+
+Table 5 Incidence of All Adverse Reactions occurring in ≥ 5% of RITUXAN-treated Pemphigus Vulgaris Patients (N=67) from PV Study 2 (up to Week 52)
+
+| Adverse Reactions | RITUXAN (N=67) |
+| --- | --- |
+| Infusion-related reactions | 15 (22%)The most common infusion-related reaction symptoms/Preferred Terms for PV Study 2 in the RITUXAN arm were dyspnoea, erythema, hyperhidrosis, flushing/hot flush, hypotension/low blood pressure and rash/rash pruritic |
+| Upper respiratory tract infection/ Nasopharyngitis | 11 (16%) |
+| Headache | 10 (15%) |
+| Asthenia/Fatigue | 9 (13%) |
+| Oral candidiasis | 6 (9%) |
+| Arthralgia | 6 (9%) |
+| Back pain | 6 (9%) |
+| Urinary tract infection | 5 (8%) |
+| Dizziness | 4 (6%) |
+
+Infusion-Related Reactions
+
+In PV Study 2, IRRs occurred primarily at the first infusion and the frequency of IRRs decreased with subsequent infusions: 17.9%, 4.7%, 3.5% and 3.5% of patients experienced IRRs at the first, second, third, and fourth infusions, respectively.
+In 11/15 patients who experienced at least one IRR, the IRRs were Grade 1 or 2.
+In 4/15 patients, Grade ≥ 3 IRRs were reported and led to discontinuation of RITUXAN treatment; three of the four patients experienced serious [life-threatening] IRRs.
+Serious IRRs occurred at the first (2 patients) or second (1 patient) infusion and resolved with symptomatic treatment.
+
+Infections
+
+In PV Study 2, 42/67 patients (62.7%) in the RITUXAN arm experienced infections.
+The most common infections in the RITUXAN arm were upper respiratory tract infection, nasopharyngitis, oral candidiasis and urinary tract infection.
+Six patients (9%) in the RITUXAN arm experienced serious infections.
+
+Laboratory Abnormalities
+
+In PV Study 2, in the RITUXAN arm, transient decreases in T-cell lymphocytes and phosphorus level were very commonly observed post-infusion.
+In some cases, treatment of hypophosphatemia was required.
+
+Hypogammaglobulinemia (IgG or IgM below the lower limit of normal), including prolonged hypogammaglobulinemia (defined as Ig levels below lower limit of normal for at least 4 months) was observed in PV Study 2.
+Based on levels < LLN measured at Week 16, Week 24, Week 40, and Week 52, 16.4% (11/67) of patients with normal baseline immunoglobulins had prolonged hypogammaglobulinemia (10 patients – IgM, 1 patient – both IgG and IgM) after treatment with RITUXAN.
+
 ## 6.5 Immunogenicity
 
 As with all therapeutic proteins, there is a potential for immunogenicity.
@@ -431,7 +473,8 @@ A total of 23/99 (23%) RITUXAN-treated adult patients with GPA and MPA developed
 The clinical relevance of anti-rituximab antibody formation in RITUXAN-treated adult patients is unclear.
 In GPA/MPA Study 4, a total of 4/21 (19%) RITUXAN-treated pediatric patients with GPA and MPA developed anti-rituximab antibodies during the overall study period (assessed at Month 18).
 
-Using a new ELISA assay, a total of 19/34 (56%) patients with PV, who were treated with non-U.S.-licensed rituximab, tested positive for anti-rituximab antibodies by 18 months.
+Using a new ELISA assay, a total of 19/34 (56%) patients with PV, who were treated with non-U.S.-licensed rituximab, tested positive for anti-rituximab antibodies by 18 months in PV Study 1.
+In PV Study 2, a total of 20/63 (32%) RITUXAN- treated PV patients tested positive for ADA by week 52 (19 patients had treatment-inducted ADA and 1 patient had treatment-enhanced ADA).
 The clinical relevance of anti-rituximab antibody formation in RITUXAN-treated PV patients is unclear.
 
 ## 6.6 Postmarketing Experience
