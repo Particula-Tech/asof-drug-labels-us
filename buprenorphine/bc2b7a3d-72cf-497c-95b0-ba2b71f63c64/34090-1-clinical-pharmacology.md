@@ -93,7 +93,7 @@ Metabolism
 Buprenorphine undergoes both N-dealkylation to norbuprenorphine and glucuronidation.
 The N-dealkylation pathway is mediated primarily by CYP3A4.
 Norbuprenorphine, the major metabolite, can further undergo glucuronidation.
-Norbuprenorphine has been found to bind opioid receptors in vitro; however, it has not been studied clinically for opioid-like activity.
+Norbuprenorphine has been found to bind to opioid receptors in vitro; however, it has not been studied clinically for opioid-like activity.
 
 Excretion
 
@@ -118,7 +118,7 @@ Specific Populations
 
 Age: Geriatric Patients
 
-No notable differences in pharmacokinetics were observed from population PK analysis in subjects aged 65 compared to younger subjects.
+No notable differences in pharmacokinetics were observed from population PK analysis in subjects aged 65 and older compared to younger subjects.
 Other reported clinical experience with buprenorphine has not identified differences in responses between the elderly and younger patients.
 
 Sex

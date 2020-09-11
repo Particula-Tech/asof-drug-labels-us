@@ -102,7 +102,7 @@ Of the total number of patients that were treated with BELBUCA in controlled and
 Of those, 49 patients were aged 75 years and older.
 The incidences of selected BELBUCA-related adverse effects were higher in older subjects.
 
-No notable differences in pharmacokinetics were observed from population pharmacokinetic analysis in subjects aged 65 compared to younger subjects.
+No notable differences in pharmacokinetics were observed from population pharmacokinetic analysis in subjects aged 65 and older compared to younger subjects.
 Other reported clinical experience with buprenorphine has not identified differences in responses between the elderly and younger patients.
 Although specific dose adjustments on the basis of advanced age are not required for pharmacokinetic reasons, use caution in the elderly population to ensure safe use.
 Titrate the dosage of BELBUCA slowly in geriatric patients and monitor closely for signs of central nervous system and respiratory depression [see Warnings and Precautions (5.6), Clinical Pharmacology (12.3)].

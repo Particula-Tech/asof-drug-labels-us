@@ -10,7 +10,7 @@ A total of 749 patients with chronic low back pain entered an open-label, dose-t
 Potential subjects were excluded from participation for QTcF interval of 450 ms or more, hypokalemia, clinically unstable cardiac disease, a history of Long QT Syndrome or an immediate family member with this condition, or taking Class IA or Class III antiarrhythmic medications.
 Patients initiated therapy with a single 75 mcg dose of BELBUCA on Day 1 and continued taking BELBUCA 75 mcg either once daily or every 12 hours for 4-8 days as tolerated.
 The dose was then increased to 150 mcg every 12 hours, and patients could continue to dose escalate in 150 mcg dose increments every 4-8 days for up to 6 weeks if the adverse effects were tolerable and the analgesic effects were not adequate.
-Patients who achieved adequate analgesia and tolerable adverse effects on BELBUCA for at least 2 weeks were then randomized to continue their titrated dose of BELBUCA or matching placebo.
+Patients who achieved adequate analgesia and tolerable adverse effects on BELBUCA for at least 2 weeks were then randomized to continue their titrated dose of BELBUCA or matching placebo buccal film.
 Sixty-one percent (61%) of the patients who entered the open-label dose titration period were able to titrate to a tolerable and effective dose and were randomized into a 12-week, double-blind treatment period.
 Fifteen percent of patients discontinued due to an adverse event and 4% discontinued due to lack of a therapeutic effect.
 The remaining 20% of patients discontinued due to various non-drug related administrative reasons.
@@ -27,7 +27,7 @@ The change from double-blind baseline to week 12 in mean pain (SD) NRS score was
 A higher proportion of BELBUCA patients (62%) had at least a 30% reduction in pain score from prior to open-label titration to study endpoint when compared to patients who received placebo buccal film (47%).
 A higher proportion of BELBUCA patients (41%) also had at least a 50% reduction in pain score from prior to open-label titration to study endpoint compared to patients who received placebo (33%).
 
-The proportion of patients with various degrees of improvement, from prior to open-label titration (Titration-Baseline) to study endpoint, is shown in Figure 1 below.
+The proportion of patients with various degrees of improvement, from prior to open-label titration (Titration-Baseline) to study endpoint, is shown in Figure 1.
 
 Figure 1: Percentage Improvement in Pain Intensity from Titration-Baseline to Week 12
 
@@ -55,6 +55,6 @@ The change from baseline to week 12 in mean pain (SD) NRS score was statisticall
 A higher proportion of BELBUCA patients (64%) had at least a 30% reduction in pain score from prior to open-label titration to study endpoint when compared to patients who received placebo buccal film (31%).
 A higher proportion of BELBUCA patients (39%) also had at least a 50% reduction in pain score from prior to open-label titration to study endpoint compared to patients who received placebo (17%).
 
-The proportion of patients with various degrees of improvement from prior to open-label titration (Titration-Baseline) to study endpoint is shown in Figure 2 below.
+The proportion of patients with various degrees of improvement from prior to open-label titration (Titration-Baseline) to study endpoint is shown in Figure 2.
 
 Figure 2: Percentage Improvement in Pain Intensity from Titration-Baseline to Week 12

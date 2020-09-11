@@ -87,7 +87,7 @@ Patients may also attempt to treat their pain or withdrawal symptoms with illici
 When a decision has been made to decrease the dose or discontinue therapy in an opioid-dependent patient taking BELBUCA, there are a variety of factors that should be considered, including the dose of BELBUCA the patient has been taking, the duration of treatment, the type of pain being treated, and the physical and psychological attributes of the patient.
 It is important to ensure ongoing care of the patient and to agree on an appropriate tapering schedule and follow-up plan so that patient and provider goals and expectations are clear and realistic.
 When opioid analgesics are being discontinued due to a suspected substance use disorder, evaluate and treat the patient, or refer for evaluation and treatment of the substance use disorder.
-Treatment should include evidence-based approaches, such as medication assisted treatment of opioid use disorder.
+Treatment should include evidence-based approaches, such as medication-assisted treatment of opioid use disorder.
 Complex patients with comorbid pain and substance use disorders may benefit from referral to a specialist.
 
 There are no standard opioid tapering schedules that are suitable for all patients.
