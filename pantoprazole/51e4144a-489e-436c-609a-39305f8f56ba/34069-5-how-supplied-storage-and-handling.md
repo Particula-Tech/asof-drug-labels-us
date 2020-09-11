@@ -7,9 +7,9 @@ PROTONIX I.V. is available as follows:
 
 | NDC Number | Strength | Package Size |
 | --- | --- | --- |
-| NDC 0008-0923-51 | 40 mg pantoprazole | Single vial |
-| NDC 0008-0923-55 | 40 mg pantoprazole | 10 vials |
-| NDC 0008-0923-60 | 40 mg pantoprazole | 25 vials |
+| NDC 0008-0923-51 | 40 mg/vial pantoprazole | Single vial |
+| NDC 0008-0923-55 | 40 mg/vial pantoprazole | 10 vials |
+| NDC 0008-0923-60 | 40 mg/vial pantoprazole | 25 vials |
 
 Storage and Handling
 
