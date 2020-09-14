@@ -159,4 +159,6 @@ TTP is a serious condition which can occur after a brief exposure (<2 weeks) and
 
 Immune system disorders: Hypersensitivity reactions including angioedema [see Contraindications (4.3)].
 
+Respiratory Disorders: Central sleep apnea, Cheyne-Stokes respiration
+
 Skin and subcutaneous tissue disorders: Rash
