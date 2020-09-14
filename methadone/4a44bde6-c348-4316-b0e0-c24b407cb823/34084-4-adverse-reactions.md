@@ -1,0 +1,57 @@
+# 6 ADVERSE REACTIONS
+
+The following serious adverse reactions are described, or described in greater detail, in other sections:
+
+- Addiction, Abuse, and Misuse [see WARNINGS AND PRECAUTIONS (5.1)]
+- Life Threatening Respiratory Depression [see WARNINGS AND PRECAUTIONS (5.3)]
+- QT Prolongation [see WARNINGS AND PRECAUTIONS (5.4)]
+- Neonatal Opioid Withdrawal Syndrome [see WARNINGS AND PRECAUTIONS (5.5)]
+- Interactions with Benzodiazepines and other CNS Depressants [see WARNINGS AND PRECAUTIONS (5.7)]
+- Serotonin Syndrome [see WARNINGS AND PRECAUTIONS (5.9)]
+- Adrenal Insufficiency [see WARNINGS AND PRECAUTIONS (5.10)]
+- Severe Hypotension [see WARNINGS AND PRECAUTIONS (5.11)]
+- Gastrointestinal Adverse Reactions [see WARNINGS AND PRECAUTIONS (5.13)]
+- Seizures [see WARNINGS AND PRECAUTIONS (5.14)]
+- Withdrawal [see WARNINGS AND PRECAUTIONS (5.15)]
+
+The following adverse reactions associated with the use of methadone were identified in clinical studies or postmarketing reports.
+Because some of these reactions were reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
+
+The major hazards of methadone are respiratory depression and, to a lesser degree, systemic hypotension.
+Respiratory arrest, shock, cardiac arrest, and death have occurred.
+
+The most frequently observed adverse reactions include lightheadedness, dizziness, sedation, nausea, vomiting, and sweating.
+These effects seem to be more prominent in ambulatory patients and in those who are not suffering severe pain.
+In such individuals, lower doses are advisable.
+
+Other adverse reactions include the following:
+
+Body as a Whole: asthenia (weakness), edema, headache
+
+Cardiovascular: arrhythmias, bigeminal rhythms, bradycardia, cardiomyopathy, ECG abnormalities, extrasystoles, flushing, heart failure, hypotension, palpitations, phlebitis, QT interval prolongation, syncope, T-wave inversion, tachycardia, torsades de pointes, ventricular fibrillation, ventricular tachycardia
+
+Central Nervous System: agitation, confusion, disorientation, dysphoria, euphoria, insomnia, hallucinations, seizures, visual disturbances
+
+Endocrine: hypogonadism, decreased testosterone
+
+Gastrointestinal: abdominal pain, anorexia, biliary tract spasm, constipation, dry mouth, glossitis
+
+Hematologic: reversible thrombocytopenia has been described in opioid addicts with chronic hepatitis
+
+Metabolic: hypokalemia, hypomagnesemia, weight gain
+
+Renal: antidiuretic effect, urinary retention or hesitancy
+
+Reproductive: amenorrhea, reduced libido and/or potency, reduced ejaculate volume, reduced seminal vesicle and prostate secretions, decreased sperm motility, abnormalities in sperm morphology
+
+Respiratory: pulmonary edema, respiratory depression
+
+Skin and Subcutaneous Tissue: pruritus, urticaria, other skin rashes, and rarely, hemorrhagic urticaria
+
+Hypersensitivity: Anaphylaxis has been reported with ingredients contained in methadone hydrochloride tablets.
+
+Serotonin Syndrome: Cases of serotonin syndrome, a potentially life-threatening condition, have been reported during concomitant use of opioids with serotonergic drugs.
+
+Adrenal Insufficiency: Cases of adrenal insufficiency have been reported with opioid use, more often following greater than one month of use.
+
+Androgen Deficiency: Cases of androgen deficiency have occurred with chronic use of opioids [see CLINICAL PHARMACOLOGY) (12.2)].

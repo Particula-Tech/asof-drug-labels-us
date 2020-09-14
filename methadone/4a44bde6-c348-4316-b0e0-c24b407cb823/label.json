@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "ANDA204166"
+  ],
+  "inn": "methadone",
+  "labeler": "VistaPharm, Inc.",
+  "package_ndcs": [
+    "66689-836-99"
+  ],
+  "products": [
+    {
+      "form": "TABLET",
+      "generic": "methadone",
+      "name": "Methadone Hydrochloride"
+    }
+  ],
+  "setid": "4a44bde6-c348-4316-b0e0-c24b407cb823",
+  "source": "dailymed"
+}
