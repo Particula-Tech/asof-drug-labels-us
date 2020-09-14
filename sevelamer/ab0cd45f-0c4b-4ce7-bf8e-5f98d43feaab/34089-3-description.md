@@ -8,4 +8,4 @@ Sevelamer carbonate is known chemically as poly(allylamine-co-N,N’-diallyl-1,3
 Sevelamer carbonate is hygroscopic, but insoluble in water.
 The structure is represented in Figure 1.
 Sevelamer Carbonate Tablets: Each film-coated tablet of sevelamer carbonate contains 800 mg of sevelamer carbonate on an anhydrous basis.
-The inactive ingredients are acetylated monoglycerides, ammonium hydroxide, black iron oxide, colloidal silicon dioxide, crospovidone, glyceryl behenate, hydroxypropyl cellulose, hypromellose, mannitol, propylene glycol, shellac glaze and talc.
+The inactive ingredients are acetylated monoglycerides, ammonium hydroxide, black iron oxide, colloidal silicon dioxide, crospovidone, glyceryl dibehenate, hydroxypropyl cellulose, hypromellose, mannitol, propylene glycol, shellac glaze and talc.
