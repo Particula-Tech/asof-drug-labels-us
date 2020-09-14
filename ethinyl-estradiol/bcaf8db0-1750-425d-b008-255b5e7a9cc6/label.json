@@ -1,0 +1,21 @@
+{
+  "application_numbers": [
+    "NDA204017"
+  ],
+  "inn": "ethinyl-estradiol",
+  "labeler": "Agile Therapeutics, Inc.",
+  "package_ndcs": [
+    "71671-100-01",
+    "71671-100-03",
+    "71671-100-11"
+  ],
+  "products": [
+    {
+      "form": "PATCH",
+      "generic": "levonorgestrel/ethinyl estradiol",
+      "name": "Twirla"
+    }
+  ],
+  "setid": "bcaf8db0-1750-425d-b008-255b5e7a9cc6",
+  "source": "dailymed"
+}
