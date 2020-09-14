@@ -18,13 +18,13 @@ Remind patients they need to orally inhale the contents of two capsules to take 
 They should not take more than 5 doses of INBRIJA in one day.
 Instruct patients they should not take more than one dose (2 capsules) per OFF period [see Dosage and Administration (2.2)].
 
-Lung disease
+Lung Disease
 
 Ask patients to report whether they develop asthma, COPD, or other chronic lung diseases, since INBRIJA is not recommended in patients with these conditions [see Warnings and Precautions (5.6)].
 
-Cough
+Cough/Sensation of Choking
 
-Inhalation of INBRIJA can lead to coughing at the time of administration [see Warnings and Precautions (5.6) and Adverse Reactions (6.1)].
+Inhalation of INBRIJA can lead to coughing or a sensation of choking at the time of administration [see Warnings and Precautions (5.6), and Adverse Reactions (6.1, 6.2)].
 
 Discoloration of Body Fluids
 

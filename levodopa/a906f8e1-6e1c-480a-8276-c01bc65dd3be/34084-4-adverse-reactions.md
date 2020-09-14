@@ -61,3 +61,8 @@ Adverse Reactions Leading to Discontinuation in Study 1
 
 In Study 1, 6 of 114 patients (5%) in the INBRIJA 84 mg group and 3 of 112 patients (3%) in the placebo group discontinued because of adverse reactions.
 The most common of these adverse reactions was cough, which lead to discontinuation in 2% of patients in the INBRIJA 84 mg group and none in the placebo group.
+
+## 6.2 Postmarketing Experience
+
+The following adverse reaction has been identified during post approval use of INBRIJA.
+Because adverse reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure: sensation of choking immediately following administration.

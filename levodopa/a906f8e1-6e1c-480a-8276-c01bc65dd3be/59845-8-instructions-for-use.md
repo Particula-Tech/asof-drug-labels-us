@@ -1,6 +1,6 @@
 INSTRUCTIONS FOR USE
 
-INBRIJA™ (in-BRIH-jah) (levodopa inhalation powder) For Oral Inhalation Only
+INBRIJA ® (in-BRIH-jah) (levodopa inhalation powder) For Oral Inhalation Only
 
 Read and follow these instructions before you start using INBRIJA and each time you get a refill.
 There may be new information.
@@ -47,15 +47,15 @@ Then, call your healthcare provider for treatment instructions until you receive
 | Take Your Dose |  |  |
 | Step 8. Breathe Out (Exhale) Stand or sit with your head and chest upright. Hold the inhaler level and away from your mouth (see Figure N). Breathe out completely (see Figure N). Do not breathe into mouthpiece. |  |  |
 | Step 9. Breathe In Deeply (Inhale) While keeping the inhaler level, close your lips firmly around the mouthpiece (see Figure O). Take in a deep, comfortable breath until your lungs feel full. This normally takes several seconds. As you breathe in, you will hear and feel the capsule "whirl" (spin). The whirl means the inhaler is working and you are getting your medicine. If you cough or stop your dose, start again from the beginning of Step 8 using the same capsule. |  |  |
-| Important: If you did not hear or feel the capsule "whirl" while inhaling you may need to take a deeper, longer breath. Start again from the beginning of Step 8 using the same capsule. |  |  |
+| Important: If you did not hear or feel the capsule "whirl" while inhaling you may need to take a deeper, longer breath or may need to clean the mouthpiece. Refer to Step 14 – Clean Mouthpiece. Start again from the beginning of Step 8 using the same capsule. |  |  |
 | Step 10. Hold Breath, Then Breathe Out Take the inhaler out of your mouth and hold your breath for 5 seconds (see Figure P). Then breathe out. |  |  |
 | Step 11. Remove Capsule From Inhaler Twist and pull off the mouthpiece (see Figure Q) and take out the used capsule (see Figure R). |  |  |
 | Step 12. Dose With 2 nd Capsule Repeat Steps 5 to 11 with the second capsule to finish the full dose (see Figure S). |  |  |
 | Dispose and Store |  |  |
 | Step 13. Throw Out Used Capsules Throw out used capsules in the household trash (see Figure T). |  |  |
-| Step 14. Store Inhaler Make sure there are no capsules in the inhaler before you store it. Attach the mouthpiece to the handle by pushing until you hear a click (see Figure U). |  |  |
-| Attach the cap over the mouthpiece (see Figure V). |  |  |
-| Your inhaler is now ready to store (see Figure W). |  |  |
+| Step 14. Clean Mouthpiece It is normal for some powder to remain in or on the inhaler. To avoid powder buildup, clean the powder off of the mouthpiece holes using a circular motion with a new dry cotton swab as needed. First, clean the holes from the top end of the mouthpiece (see Figure U). Next, clean the holes from the bottom end of the mouthpiece (see Figure V). You can also use a dry tissue to wipe the outside of the mouthpiece, as needed. Do not clean any other parts of the inhaler. Do not rinse the mouthpiece or get the inhaler wet. |  |  |
+| Step 15. Store Inhaler Make sure there are no capsules in the inhaler before you store it. Attach the mouthpiece to the handle by pushing until you hear a click (see Figure W). |  |  |
+| Attach the cap over the mouthpiece (see Figure X). Your inhaler is now ready to store (see Figure Y). |  |  |
 
 INBRIJA Storage, Cleaning and Disposal
 
@@ -71,20 +71,20 @@ Storing the Inhaler and Capsules
 
 Cleaning the Inhaler
 
-- It is normal for some powder to remain on the inhaler.
-- While cleaning the inhaler is not necessary, you may use a dry cotton swab or a dry tissue to wipe the inside or outside of the mouthpiece.
+- It is normal for some powder to remain in or on the inhaler.
+- If needed, to avoid powder buildup, you may use a dry cotton swab or a dry tissue to wipe the inside or outside of the mouthpiece.
 
 Disposing of the Inhaler and Capsules
 
 - Throw out all used capsules in your household trash.
 - After all capsules in the carton have been used, throw out the inhaler and use a new carton containing a new inhaler and capsules.
 
-This Instructions for Use has been approved by the U.S. Food and Drug Administration Rev: 09/2019
+This Instructions for Use has been approved by the U.S. Food and Drug Administration Rev: 08/2020
 
 Manufactured by: Acorda Therapeutics, Inc. 420 Saw Mill River Road Ardsley, NY 10502 USA
 
-Inbrija™ is a trademark of Acorda Therapeutics, Inc.
+Inbrija ® is a trademark of Acorda Therapeutics, Inc.
 
-©2019 Acorda Therapeutics, Inc. All rights reserved.
+©2020 Acorda Therapeutics, Inc. All rights reserved.
 
-0919342SPL-0
+2008342MFPI-0
