@@ -12,13 +12,9 @@ Cardiac monitoring is recommended in cases of overdosage.
 Because of low systemic bioavailability (15.2%) and an absence of acute drug-related systemic findings in clinical trials, overdosage of fluticasone furoate is unlikely to require any treatment other than observation.
 If used at excessive doses for prolonged periods, systemic effects such as hypercorticism may occur [see Warnings and Precautions (5.8)].
 
-Single- and repeat-dose trials of fluticasone furoate at doses of 50 to 4,000 mcg have been studied in human subjects.
-Decreases in mean serum cortisol were observed at dosages of 500 mcg or higher given once daily for 14 days.
-
 ## 10.2 Umeclidinium
 
 High doses of umeclidinium may lead to anticholinergic signs and symptoms.
-However, there were no systemic anticholinergic adverse effects following a once-daily inhaled dose of up to 1,000 mcg of umeclidinium (16 times the maximum recommended daily dose) for 14 days in subjects with COPD.
 
 ## 10.3 Vilanterol
 

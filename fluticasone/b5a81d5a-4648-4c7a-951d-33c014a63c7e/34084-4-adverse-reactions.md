@@ -5,7 +5,7 @@ The following adverse reactions are described in greater detail in other section
 - •Serious asthma-related events – hospitalizations, intubations, death [see Warnings and Precautions (5.1)]
 - •Candida albicans infection [see Warnings and Precautions (5.4)]
 - •Increased risk of pneumonia in COPD [see Warnings and Precautions (5.5)]
-- •Immunosuppression [see Warnings and Precautions (5.6)]
+- •Immunosuppression and risk of infections [see Warnings and Precautions (5.6)]
 - •Hypercorticism and adrenal suppression [see Warnings and Precautions (5.8)]
 - •Paradoxical bronchospasm [see Warnings and Precautions (5.10)]
 - •Cardiovascular effects [see Warnings and Precautions (5.12)]
@@ -13,22 +13,22 @@ The following adverse reactions are described in greater detail in other section
 - •Worsening of narrow-angle glaucoma [see Warnings and Precautions (5.14)]
 - •Worsening of urinary retention [see Warnings and Precautions (5.15)]
 
-## 6.1 Clinical Trials Experience
-
 Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared with rates in the clinical trials of another drug and may not reflect the rates observed in practice.
 
-The safety of TRELEGY ELLIPTA is based on the safety data from two 12-week treatment trials with coadministration of umeclidinium and the fixed-dose combination of fluticasone furoate/vilanterol and a 52-week long-term trial of TRELEGY ELLIPTA compared with the fixed-dose combinations of fluticasone furoate/vilanterol and umeclidinium/vilanterol [see Clinical Studies (14)].
+## 6.1 Clinical Trials Experience in Chronic Obstructive Pulmonary Disease
+
+The safety of TRELEGY ELLIPTA in COPD is based on the safety data from two 12-week treatment trials with coadministration of umeclidinium and the fixed-dose combination of fluticasone furoate/vilanterol and a 52-week long-term trial of TRELEGY ELLIPTA 100/62.5/25 mcg compared with the fixed-dose combinations of fluticasone furoate/vilanterol and umeclidinium/vilanterol [see Clinical Studies (14.1)].
 
 Trials 1 and 2
 
-Two 12-week treatment trials (Trial 1 and Trial 2) evaluated the coadministration of umeclidinium + fluticasone furoate/vilanterol, the components of TRELEGY ELLIPTA, compared with placebo + fluticasone furoate/vilanterol.
-A total of 824 subjects with COPD across two 12-week, randomized, double-blind clinical trials received at least 1 dose of umeclidinium 62.5 mcg + fluticasone furoate/vilanterol 100 mcg/25 mcg or placebo + fluticasone furoate/vilanterol 100 mcg/25 mcg administered once daily (mean age: 64 years, 92% white, 66% male across all treatments) [see Clinical Studies (14)].
-The incidence of adverse reactions associated with the use of umeclidinium 62.5 mcg + fluticasone furoate/vilanterol 100 mcg/25 mcg presented in Table 1 is based on the two 12-week trials.
+Two 12-week treatment trials (Trial 1, NCT #01957163 and Trial 2, NCT #02119286) evaluated the coadministration of umeclidinium + fluticasone furoate/vilanterol, the components of TRELEGY ELLIPTA, compared with placebo + fluticasone furoate/vilanterol.
+A total of 824 subjects with COPD across two 12-week, randomized, double-blind clinical trials received at least 1 dose of umeclidinium 62.5 mcg + fluticasone furoate/vilanterol 100/25 mcg or placebo + fluticasone furoate/vilanterol 100/25 mcg administered once daily (mean age: 64 years, 92% White, 66% male across all treatments) [see Clinical Studies (14.1)].
+The incidence of adverse reactions associated with the use of umeclidinium 62.5 mcg + fluticasone furoate/vilanterol 100/25 mcg presented in Table 2 is based on the two 12-week trials.
 
-Table 1.
-Adverse Reactions with Umeclidinium + Fluticasone Furoate/Vilanterol with ≥1% Incidence and More Common than Placebo + Fluticasone Furoate/Vilanterol (Trials 1 and 2)
+Table 2.
+Adverse Reactions with Umeclidinium + Fluticasone Furoate/Vilanterol with ≥1% Incidence and More Common than Placebo + Fluticasone Furoate/Vilanterol in Subjects with COPD (Trials 1 and 2)
 
-| Adverse Reaction | Umeclidinium + Fluticasone Furoate/ Vilanterol(n = 412)% | Placebo + Fluticasone Furoate/ Vilanterol(n = 412)% |
+| Adverse Reaction | Umec + FF/VI(n = 412)% | Placebo + FF/VI(n = 412)% |
 | --- | --- | --- |
 | Nervous system disorders |  |  |
 | Headache | 4 | 3 |
@@ -42,11 +42,54 @@ Adverse Reactions with Umeclidinium + Fluticasone Furoate/Vilanterol with ≥1% 
 | Diarrhea | 2 | <1 |
 | Infections and infestations |  |  |
 | Gastroenteritis | 1 | 0 |
+| Umec = Umeclidinium, FF/VI = Fluticasone Furoate/Vilanterol. |  |  |
 
-Trial 3 - Long-term Safety Data
+Trial 3 – Long-term Safety Data
 
-A 52-week trial (Trial 3) evaluated the long-term safety of TRELEGY ELLIPTA compared with the fixed-dose combinations of fluticasone furoate/vilanterol 100 mcg/25 mcg and umeclidinium/vilanterol 62.5 mcg/25 mcg.
-A total of 10,355 subjects with COPD with a history of moderate or severe exacerbations within the prior 12 months were randomized (2:2:1) to receive TRELEGY ELLIPTA, fluticasone furoate/vilanterol, or umeclidinium/vilanterol administered once daily in a double-blind clinical trial (mean age: 65 years, 77% white, 66% male across all treatments) [see Clinical Studies (14)].
+A 52-week trial (Trial 3, NCT #02164513) evaluated the long-term safety of TRELEGY ELLIPTA 100/62.5/25 mcg compared with the fixed-dose combinations of fluticasone furoate/vilanterol 100/25 mcg and umeclidinium/vilanterol 62.5/25 mcg.
+A total of 10,355 subjects with COPD with a history of moderate or severe exacerbations within the prior 12 months were randomized (2:2:1) to receive TRELEGY ELLIPTA 100/62.5/25 mcg, fluticasone furoate/vilanterol, or umeclidinium/vilanterol administered once daily in a double‑blind clinical trial (mean age: 65 years, 77% White, 66% male across all treatments) [see Clinical Studies (14.1)].
 
 The incidence of adverse reactions in the long-term trial were consistent with those in Trials 1 and 2.
-However, in addition to the adverse reactions shown in Table 1, adverse reactions occurring in ≥1% of the subjects treated with TRELEGY ELLIPTA (n = 4,151) for up to 52 weeks also included upper respiratory tract infection, pneumonia [see Warnings and Precautions (5.5)], bronchitis, oral candidiasis [see Warnings and Precautions (5.4)], arthralgia, influenza, sinusitis, pharyngitis, rhinitis, constipation, urinary tract infection, and dysphonia.
+However, in addition to the adverse reactions shown in Table 2, adverse reactions occurring in ≥1% of the subjects treated with TRELEGY ELLIPTA 100/62.5/25 mcg (n = 4,151) for up to 52 weeks also included upper respiratory tract infection, pneumonia [see Warnings and Precautions (5.5)], bronchitis, oral candidiasis [see Warnings and Precautions (5.4)], arthralgia, influenza, sinusitis, pharyngitis, rhinitis, constipation, urinary tract infection, and dysphonia.
+
+## 6.2 Clinical Trials Experience in Asthma
+
+The safety of TRELEGY ELLIPTA in asthma is based on a randomized, double-blind, parallel‑group, active-controlled trial of 24 to 52 weeks’ duration (Trial 4, NCT #02924688) that enrolled 2,436 adult subjects inadequately controlled on their current treatment of combination therapy (ICS plus a LABA) [see Clinical Studies (14.2)].
+In the overall population, 62% were female and 80% were White; mean age was 53 years.
+The incidence of adverse reactions occurring in ≥1% of the subjects treated with TRELEGY ELLIPTA 100/62.5/25 mcg or TRELEGY ELLIPTA 200/62.5/25 mcg is shown in Table 3.
+Adverse reactions observed for the groups treated with TRELEGY ELLIPTA were similar to those observed for the fluticasone furoate/vilanterol arms.
+
+Table 3.
+Adverse Reactions with TRELEGY ELLIPTA with ≥1% Incidence in Subjects with Asthma (Trial 4)
+
+| Adverse Reaction | TRELEGY ELLIPTA200/62.5/25 mcg(n = 408)% | TRELEGY ELLIPTA100/62.5/25 mcg(n =406)% | FF/VI200/25 mcg(n = 406)% | FF/VI100/25 mcg(n = 407)% |
+| --- | --- | --- | --- | --- |
+| Infections and infestations |  |  |  |  |
+| Pharyngitis/nasopharyngitis | 15 | 17 | 16 | 16 |
+| Upper respiratory tract infection/viral upper respiratory tract infection | 7 | 5 | 6 | 7 |
+| Bronchitis | 5 | 4 | 5 | 3 |
+| Respiratory tract infection/viral respiratory tract infection | 3 | 4 | 2 | 4 |
+| Sinusitis/acute sinusitis | 3 | 2 | 2 | 3 |
+| Urinary tract infection | 2 | <1 | <1 | 1 |
+| Rhinitis | 1 | 2 | 2 | 3 |
+| Influenza | 1 | 4 | 2 | 3 |
+| Pneumonia | <1 | 1 | 2 | 2 |
+| Nervous system disorders |  |  |  |  |
+| Headache | 5 | 9 | 6 | 7 |
+| Musculoskeletal and connective tissue disorders |  |  |  |  |
+| Back pain | 2 | 3 | 1 | 4 |
+| Respiratory, thoracic, and mediastinal disorders |  |  |  |  |
+| Dysphonia | 1 | 1 | 2 | 1 |
+| Oropharyngeal pain | 1 | 1 | <1 | <1 |
+| Cough | 1 | <1 | 1 | 1 |
+| FF/VI = Fluticasone Furoate/Vilanterol. |  |  |  |  |
+
+## 6.3 Postmarketing Experience
+
+In addition to adverse reactions reported from clinical trials, the following adverse reactions have been identified during postapproval use of TRELEGY ELLIPTA.
+Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
+These events have been chosen for inclusion due to either their seriousness, frequency of reporting, or causal connection to TRELEGY ELLIPTA or a combination of these factors.
+
+Immune System Disorders
+
+Hypersensitivity reactions, including anaphylaxis, angioedema, rash, and urticaria.

@@ -18,13 +18,15 @@ Vilanterol trifenatate is a white powder with a molecular weight of 774.8, and t
 It is practically insoluble in water.
 
 TRELEGY ELLIPTA is a light grey and beige plastic inhaler containing 2 foil blister strips.
-Each blister on one strip contains a white powder mix of micronized fluticasone furoate (100 mcg) and lactose monohydrate (12.3 mg) and each blister on the other strip contains a white powder blend of micronized umeclidinium bromide (74.2 mcg equivalent to 62.5 mcg of umeclidinium), micronized vilanterol trifenatate (40 mcg equivalent to 25 mcg of vilanterol), magnesium stearate (75 mcg), and lactose monohydrate (12.3 mg).
+Each blister on one strip contains a white powder mix of micronized fluticasone furoate (100 or 200 mcg) and lactose monohydrate (12.4 or 12.3 mg) and each blister on the other strip contains a white powder blend of micronized umeclidinium bromide (74.2 mcg equivalent to 62.5 mcg of umeclidinium), micronized vilanterol trifenatate (40 mcg equivalent to 25 mcg of vilanterol), magnesium stearate (75 mcg), and lactose monohydrate (12.3 mg).
 The lactose monohydrate contains milk proteins.
 After the inhaler is activated, the powder within both blisters is exposed and ready for dispersion into the airstream created by the patient inhaling through the mouthpiece.
 
-Comparative in vitro data for drug delivery and aerodynamic particle size distribution of the delivered drugs fluticasone furoate, umeclidinium, and vilanterol demonstrated that there were no pharmaceutical interactions and each drug was delivered in a comparable manner whether administered via a single ELLIPTA inhaler or from separate inhalers.
-
-Under standardized in vitro test conditions, TRELEGY ELLIPTA delivers 92, 55, and 22 mcg of fluticasone furoate, umeclidinium, and vilanterol, respectively, per dose when tested at a flow rate of 60 L/min for 4 seconds.
+Under standardized in vitro test conditions, TRELEGY ELLIPTA delivers 92 or 184 mcg of fluticasone furoate, 55 mcg of umeclidinium, and 22 mcg of vilanterol per dose when tested at a flow rate of 60 L/min for 4 seconds.
+At flow rates of 30, 60, and 90 L/min for 4 seconds under in vitro test conditions, TRELEGY ELLIPTA delivers ≥90% of the target dose for each component.
 
 In adult subjects with very severe COPD (FEV1/FVC [forced vital capacity] <70% and FEV1 <30% predicted), mean peak inspiratory flow through the ELLIPTA inhaler was 65.8 L/min (range: 43.5 to 94.1 L/min).
+
+In adult subjects with severe asthma, mean peak inspiratory flow through the ELLIPTA inhaler was 96.6 L/min (range: 72.4 to 124.6 L/min).
+
 The actual amount of drug delivered to the lung will depend on patient factors, such as inspiratory flow profile.

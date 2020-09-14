@@ -8,16 +8,16 @@ No studies of carcinogenicity, mutagenicity, or impairment of fertility were con
 
 Fluticasone Furoate
 
-Fluticasone furoate produced no treatment-related increases in the incidence of tumors in 2-year inhalation studies in rats and mice at inhaled doses up to 9 and 19 mcg/kg/day, respectively (both approximately equal to the MRHDID for adults on a mcg/m2 basis).
+Fluticasone furoate produced no treatment-related increases in the incidence of tumors in 2-year inhalation studies in rats and mice at inhaled doses up to 9 and 19 mcg/kg/day, respectively (both approximately 0.5 times the MRHDID of 200 mcg for adults on a mcg/m2 basis).
 
 Fluticasone furoate did not induce gene mutation in bacteria or chromosomal damage in a mammalian cell mutation test in mouse lymphoma L5178Y cells in vitro.
 There was also no evidence of genotoxicity in the in vivo micronucleus test in rats.
 
-No evidence of impairment of fertility was observed in male and female rats at inhaled fluticasone furoate doses up to 29 and 91 mcg/kg/day, respectively (approximately 7 and 17 times, respectively, the MRHDID for adults on an AUC basis).
+No evidence of impairment of fertility was observed in male and female rats at inhaled fluticasone furoate doses up to 29 and 91 mcg/kg/day, respectively (approximately 3 and 8 times, respectively, the MRHDID of 200 mcg for adults on an AUC basis).
 
 Umeclidinium
 
-Umeclidinium produced no treatment-related increases in the incidence of tumors in 2-year inhalation studies in rats and mice at inhaled doses up to 137 and 295/200 mcg/kg/day (male/female), respectively (approximately 17 and 20/20 times the MRHDID for adults on an AUC basis, respectively).
+Umeclidinium produced no treatment-related increases in the incidence of tumors in 2-year inhalation studies in rats and mice at inhaled doses up to 137 and 295/200 mcg/kg/day (male/female), respectively (approximately 17 and 20/20 times, respectively, the MRHDID for adults on an AUC basis).
 
 Umeclidinium tested negative in the following genotoxicity assays: the in vitro Ames assay, in vitro mouse lymphoma assay, and in vivo rat bone marrow micronucleus assay.
 
