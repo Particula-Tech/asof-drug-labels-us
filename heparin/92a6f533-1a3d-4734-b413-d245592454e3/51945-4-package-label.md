@@ -74,7 +74,7 @@ Rx only
 
 B. Braun Medical Inc. Bethlehem, PA 18018-3524 USA API from Spain
 
-Y94-003-289 LD-307-4
+Y94-003-380 LD-307-5
 
 EXP LOT
 
@@ -94,7 +94,7 @@ NDC 0264-9587-20 250 mL EXCEL® CONTAINER
 
 Each 100 mL contains: Heparin Sodium USP (porcine intestinal mucosa) 10,000 USP Heparin units; Hydrous Dextrose USP 5 g; Dibasic Sodium Phosphate•7H2O USP 0.41 g; Citric Acid Anhydrous USP 0.093 g; Sodium Metabisulfite NF (antioxidant) <0.07 g; Water for Injection USP qs
 
-Electrolytes (mEq/liter): Sodium 38 Phosphate (HPO) 30; Citrate 15
+Electrolytes (mEq/liter): Sodium 38; Phosphate (HPO) 30; Citrate 15
 
 WARNING: CONTAINS SULFITES.
 Do not admix with other drugs.
@@ -113,7 +113,7 @@ Not made with natural rubber latex, PVC or DEHP.
 
 REF P5872 Rx only B. Braun Medical Inc. Bethlehem, PA 18018-3524 USA API from Spain
 
-Y94-003-307 LD-309-5
+Y94-003-381 LD-309-6
 
 EXP LOT
 
