@@ -522,7 +522,7 @@ Neurologic: confusion, seizures or transient loss of consciousness, sometimes ap
 
 Ophthalmologic: conjunctivitis, lacrimation or lacrimation with or without conjunctivitis, cystoid macular edema (CME).
 Excessive tearing which may be attributable to lacrimal duct obstruction.
-Transient visual disturbances (flashes, flashing lights, scotomata), typically occurring during drug infusion reversible upon discontinuation of the infusion., in association with hypersensitivity reactions.
+Transient visual disturbances (flashes, flashing lights, scotomata), typically occurring during drug infusion and reversible upon discontinuation of the infusion., in association with hypersensitivity reactions.
 
 Respiratory: dyspnea, acute pulmonary edema, acute respiratory distress syndrome/pneumonitis, interstitial lung disease, interstitial pneumonia, respiratory failure, and pulmonary fibrosis, which may be fatal.
 Radiation pneumonitis in patients receiving concomitant radiotherapy.
