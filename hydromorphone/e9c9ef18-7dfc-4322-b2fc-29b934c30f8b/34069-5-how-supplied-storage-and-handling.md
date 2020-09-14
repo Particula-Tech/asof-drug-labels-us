@@ -14,6 +14,7 @@ How Supplied
 | NDC 0409-3356-01 Carton of 10 1 mL fill in 1 mL Single-dose Ampul | 2 mg/mL |
 | NDC 0409-2540-01 Carton of 10 1 mL fill in 1 mL Single-dose Ampul | 4 mg/mL |
 | NDC 0409-3365-01 Tray of 25 1 mL fill in 2 mL Single-dose Vial | 2 mg/mL |
+| NDC 0409-3365-10 Carton of 10 1 mL fill in 2 mL Single-dose Vial | 2 mg/mL |
 | NDC 0409-1283-31 Carton of 10 1 mL fill in 2.5 mL Carpuject™ Single-dose cartridge with Luer Lock for the Carpuject™ Syringe System | 1 mg/mL |
 | NDC 0409-1312-30 Carton of 10 1 mL fill in 2.5 mL Carpuject™ Single-dose cartridge with Luer Lock for the Carpuject™ Syringe System | 2 mg/mL |
 | NDC 0409-1304-31 Carton of 10 1 mL fill in 2.5 mL Carpuject™ Single-dose cartridge with Luer Lock for the Carpuject™ Syringe System | 4 mg/mL |
