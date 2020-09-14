@@ -2,7 +2,7 @@ Principal Display Panel - 2 mg Carton Label
 
 NDC 70709-002-60
 
-NITYRTM (nitisinone) tablets
+NITYR® (nitisinone) tablets
 
 2 mg
 
@@ -17,7 +17,7 @@ Principal Display Panel - Bottle Label
 
 NDC 70709-002-60
 
-NITYRTM (nitisinone) tablets
+NITYR® (nitisinone) tablets
 
 2 mg
 
@@ -31,7 +31,7 @@ Principal Display Panel - 5 mg Carton Label
 
 NDC 70709-005-60
 
-NITYRTM (nitisinone) tablets
+NITYR® (nitisinone) tablets
 
 5 mg
 
@@ -46,7 +46,7 @@ Principal Display Panel - Bottle Label
 
 NDC 70709-005-60
 
-NITYRTM (nitisinone) tablets
+NITYR® (nitisinone) tablets
 
 5 mg
 
@@ -60,7 +60,7 @@ Principal Display Panel - 10 mg Carton Label
 
 NDC 70709-000-60
 
-NITYRTM (nitisinone) tablets
+NITYR® (nitisinone) tablets
 
 10 mg
 
@@ -75,7 +75,7 @@ Principal Display Panel - Bottle Label
 
 NDC 70709-000-60
 
-NITYRTM (nitisinone) tablets
+NITYR® (nitisinone) tablets
 
 10 mg
 

@@ -8,7 +8,7 @@ It is practically insoluble in water, soluble in 2M sodium hydroxide and in meth
 Chemically, nitisinone is 2-(2-nitro-4-trifluoromethylbenzoyl) cyclohexane-1,3-dione, and the structural formula is:
 
 Figure 1.
-The molecular formula is C14H10F3NO5 and with a relative mass of 329.23.
+The molecular formula is C14H10F3NO5 with a relative mass of 329.23.
 
 Each NITYR (nitisinone) tablet contains 2, 5 or 10 mg of nitisinone.
 Inactive ingredients are: glyceryl dibehenate, and lactose monohydrate.

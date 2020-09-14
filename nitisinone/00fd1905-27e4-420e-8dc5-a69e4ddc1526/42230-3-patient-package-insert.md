@@ -1,4 +1,4 @@
-| Instructions for Use NITYRTM (ni-TIR) (nitisinone) tablets |
+| Instructions for Use NITYR® (ni-TIR) (nitisinone) tablets |
 | --- |
 
 Read this Instructions for Use before you start taking NITYR tablets using an oral syringe or mixed in applesauce, and each time you get a refill.
@@ -140,10 +140,10 @@ Inactive ingredients: glyceryl dibehenate and lactose monohydrate
 
 This Instructions for Use has been approved by the U.S. Food and Drug Administration.
 
-Manufactured by: Rivopharm SA Centro Insema 6928 Manno, Switzerland
+Manufactured by:
+
+Rivopharm SA Centro Insema 6928 Manno, Switzerland
 
 Marketed by: Cycle Pharmaceuticals Ltd. Bailey Grundy Barrett Building Little St. Mary’s Lane CB2 1RR, Cambridge, United Kingdom
 
-AW000050
-
-Issued: November 2018
+Issued: 09/2020

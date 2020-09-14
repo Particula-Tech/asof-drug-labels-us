@@ -21,13 +21,12 @@ In rabbits, nitisinone caused incomplete skeletal ossification of fetal bones at
 
 Risk Summary There are no data on the presence of nitisinone in human milk, the effects on the breastfed infant, or the effects on milk production.
 Data suggest that nitisinone is present in rat milk due to findings of ocular toxicity and lower body weight seen in drug naive nursing rat pups.
-The developmental and health benefits of breastfeeding should be considered along with the mother’s clinical need for NITYR and any potential adverse effects on the breastfed infant from NITYR or from the underlying maternal condition.
+The development and health benefits of breastfeeding should be considered along with the mother’s clinical need for NITYR and any potential adverse effects on the breastfed infant from NITYR or from the underlying maternal condition.
 
 ## 8.4 Pediatric Use
 
-Pediatric patients with HT-1, ages birth to 17 years have been treated with nitisinone in an open-label, uncontrolled clinical study [see Clinical Studies (14)].
-Monitoring of plasma and urine succinylacetone levels are recommended in the pediatric patients to ensure adequate control [see Dosage and Administration (2)].
-A nutritionist skilled in managing children with inborn errors of metabolism should be employed to design a low-protein diet deficient in tyrosine and phenylalanine.
+The safety and effectiveness of nitisinone have been established in pediatric patients for the treatment of HT-1 in combination with dietary restriction of tyrosine and phenylalanine.
+Use of NITYR in pediatric patients is supported by evidence from one open-label, uncontrolled clinical study conducted with another oral formulation of nitisinone in 207 patients with HT-1 ages 0 to 22 years (median age 9 months) [see Clinical Studies (14)].
 
 ## 8.5 Geriatric Use
 

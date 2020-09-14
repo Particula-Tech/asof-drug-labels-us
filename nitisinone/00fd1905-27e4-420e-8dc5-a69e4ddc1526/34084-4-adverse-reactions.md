@@ -2,7 +2,7 @@
 
 ## 6.1 Clinical Trials Experience
 
-Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in practice.
+Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in clinical practice.
 
 The safety of NITYR has been established based on studies of another oral formulation of nitisinone in patients with HT-1 [see Clinical Studies (14)].
 Below is a display of the adverse reactions of nitisinone in these studies.
@@ -22,7 +22,7 @@ No patients developed infections or bleeding as a result of the episodes of leuk
 Patients with HT-1 are at increased risk of developing porphyric crises, hepatic neoplasms, and liver failure requiring liver transplantation.
 These complications of HT-1 were observed in patients treated with nitisinone for a median of 22 months during the clinical trial (liver transplantation 13%, liver failure 7%, malignant hepatic neoplasms 5%, benign hepatic neoplasms 3%, porphyria 1%).
 
-The most common adverse reactions reported in the clinical trial are summarized in Table 1.
+The most common adverse reactions reported in the clinical trial are summarized in TABLE 1.
 
 | TABLE 1 Most Common Adverse Reactions* in Patients with HT-1 Treated with Nitisinone** |  |
 | --- | --- |

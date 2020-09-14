@@ -1,6 +1,13 @@
 # 7 DRUG INTERACTIONS
 
-## 7.1 Interaction with CYP2C9 Substrates
+Nitisinone is a moderate CYP2C9 inhibitor, a weak CYP2E1 inducer and an inhibitor of OAT1/OAT3.
+TABLE 2 includes drugs with clinically important drug interactions when administered concomitantly with NITYR and instructions for preventing or managing them.
 
-If NITYR is co-administered with drugs that are metabolized by CYP2C9, additional monitoring may be warranted because of a potential for increased systemic exposure of these drugs [see Clinical Pharmacology (12.3)].
-The risk is dependent upon the particular 2C9 substrate and its adverse reaction profile.
+| TABLE 2 Clinically Relevant Interactions Affecting Co-Administered Drugs |  |
+| --- | --- |
+| Sensitive CYP2C9 Substrates (e.g., celecoxib, tolbutamide) or CYP2C9 Substrates with a Narrow Therapeutic Index (e.g., phenytoin, warfarin) |  |
+| Clinical Impact | Increased exposure of the co-administered drugs metabolized by CYP2C9. [see Clinical Pharmacology (12.3)] |
+| Intervention | Reduce the dosage of the co-administered drugs metabolized by CYP2C9 drug by half. Additional dosage adjustments may be needed to maintain therapeutic drug concentrations for narrow therapeutic index drugs. See prescribing information for those drugs. |
+| OAT1/OAT3 Substrates (e.g., adefovir, ganciclovir, methotrexate) |  |
+| Clinical Impact | Increased exposure of the interacting drug [see Clinical Pharmacology (12.3)] |
+| Intervention | Monitor for potential adverse reactions related to the co-administered drug. |
