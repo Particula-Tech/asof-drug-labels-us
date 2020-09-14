@@ -11,7 +11,7 @@ Fluid Retention and Edema Inform patients of the possibility of developing edema
 Advise patients to contact their health care provider if unexpected rapid weight gain occurs [see Warnings and Precautions (5.1)].
 
 Hepatotoxicity Inform patients of the possibility of developing liver function abnormalities and serious hepatic toxicity.
-Advise patients to immediately contact their health care provider if signs of liver failure occur, including jaundice, anorexia, bleeding or bruising [see Warnings and Precautions (5.4)].
+Advise patients to immediately contact their health care provider if signs of liver failure occur, including jaundice, anorexia, bleeding, or bruising [see Warnings and Precautions (5.4)].
 
 Pregnancy and Breastfeeding Advise patients to inform their doctor if they are or think they may be pregnant.
 Advise women of reproductive potential to avoid becoming pregnant while taking imatinib mesylate tablets.
@@ -20,17 +20,17 @@ Avoid breastfeeding during treatment and for 1 month after the last dose [see Us
 
 Drug Interactions
 
-Imatinib mesylate tablets and certain other medicines such as warfarin, erythromycin, and phenytoin, including over-the-counter medications such as herbal products, can interact with each other.
+Imatinib mesylate tablets and certain other medicines, such as warfarin, erythromycin, and phenytoin, including over-the-counter medications, such as herbal products, can interact with each other.
 Advise patients to tell their doctor if they are taking or plan to take iron supplements.
 Avoid grapefruit juice and other foods known to inhibit CYP3A4 while taking imatinib mesylate tablets [see Drug Interactions (7)].
 
 Pediatric
 
 Advise patients that growth retardation has been reported in children and pre-adolescents receiving imatinib mesylate.
-The long term effects of prolonged treatment with imatinib mesylate on growth in children are unknown.
+The long-term effects of prolonged treatment with imatinib mesylate on growth in children are unknown.
 Therefore, closely monitor growth in children under imatinib mesylate treatment [see Warnings and Precautions (5.11)].
 
-Driving and Using Machines Advise patients that they may experience side effects such as dizziness, blurred vision or somnolence during treatment with imatinib mesylate.
+Driving and Using Machines Advise patients that they may experience side effects, such as dizziness, blurred vision, or somnolence during treatment with imatinib mesylate.
 Therefore, caution patients about driving a car or operating machinery [see Warnings and Precautions (5.13)].
 
 APOTEX INC. Imatinib Mesylate Tablets 100 mg and 400 mg
@@ -40,4 +40,4 @@ APOTEX INC. Imatinib Mesylate Tablets 100 mg and 400 mg
 | Apotex Inc. | Apotex Corp. |
 | Toronto, Ontario Canada M9L 1T9 | Weston Florida USA 33326 |
 
-Revised: June 2020 Revision: 20
+Revised: August 2020 Revision: 21

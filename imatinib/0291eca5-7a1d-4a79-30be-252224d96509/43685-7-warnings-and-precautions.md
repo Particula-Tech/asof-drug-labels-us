@@ -16,14 +16,14 @@ Effusions (including pleural effusion, pericardial effusion, ascites) or pulmona
 Treatment with imatinib mesylate tablets is associated with anemia, neutropenia, and thrombocytopenia.
 Perform complete blood counts weekly for the first month, biweekly for the second month, and periodically thereafter as clinically indicated (for example, every 2 to 3 months).
 In CML, the occurrence of these cytopenias is dependent on the stage of disease and is more frequent in patients with accelerated phase CML or blast crisis than in patients with chronic phase CML.
-In pediatric CML patients the most frequent toxicities observed were Grade 3 or 4 cytopenias including neutropenia, thrombocytopenia and anemia.
+In pediatric CML patients the most frequent toxicities observed were Grade 3 or 4 cytopenias, including neutropenia, thrombocytopenia and anemia.
 These generally occur within the first several months of therapy [see Dosage and Administration (2.14)].
 
 ## 5.3 Congestive Heart Failure and Left Ventricular Dysfunction
 
 Congestive heart failure and left ventricular dysfunction have been reported in patients taking imatinib mesylate.
-Cardiac adverse reactions were more frequent in patients with advanced age or co-morbidities including previous medical history of cardiac disease.
-In an international randomized Phase 3 study in 1,106 patients with newly diagnosed Ph+ CML in chronic phase, severe cardiac failure and left ventricular dysfunction were observed in 0.7% of patients taking imatinib mesylate compared to 0.9% of patients taking IFN + Ara-C.
+Cardiac adverse reactions were more frequent in patients with advanced age or co-morbidities, including previous medical history of cardiac disease.
+In an international randomized Phase 3 study in 1106 patients with newly diagnosed Ph+ CML in chronic phase, severe cardiac failure and left ventricular dysfunction were observed in 0.7% of patients taking imatinib mesylate compared to 0.9% of patients taking IFN + Ara-C.
 In another randomized trial with newly diagnosed Ph+ CML patients in chronic phase that compared imatinib mesylate and nilotinib, cardiac failure was observed in 1.1% of patient in the imatinib mesylate arm and 2.2% of patients in the nilotinib 300 mg twice daily arm and severe (Grade 3 or 4) cardiac failure occurred in 0.7% of patients in each group.
 Carefully monitor patients with cardiac disease or risk factors for cardiac or history of renal failure.
 Evaluate and treat any patient with signs or symptoms consistent with cardiac or renal failure.
@@ -65,7 +65,7 @@ If either is abnormal, consider prophylactic use of systemic steroids (1 to 2 mg
 Bullous dermatologic reactions, including erythema multiforme and Stevens-Johnson syndrome, have been reported with use of imatinib mesylate.
 In some cases of bullous dermatologic reactions, including erythema multiforme and Stevens-Johnson syndrome reported during postmarketing surveillance, a recurrent dermatologic reaction was observed upon rechallenge.
 Several foreign postmarketing reports have described cases in which patients tolerated the reintroduction of imatinib mesylate therapy after resolution or improvement of the bullous reaction.
-In these instances, imatinib mesylate was resumed at a dose lower than that at which the reaction occurred, and some patients also received concomitant treatment with corticosteroids or antihistamines.
+In these instances, imatinib mesylate was resumed at a dose lower than that at which the reaction occurred and some patients also received concomitant treatment with corticosteroids or antihistamines.
 
 ## 5.9 Hypothyroidism
 
@@ -83,12 +83,12 @@ If this drug is used during pregnancy or if the patient becomes pregnant while t
 ## 5.11 Growth Retardation in Children and Adolescents
 
 Growth retardation has been reported in children and pre-adolescents receiving imatinib mesylate tablets.
-The long term effects of prolonged treatment with imatinib mesylate on growth in children are unknown.
+The long-term effects of prolonged treatment with imatinib mesylate on growth in children are unknown.
 Therefore, monitor growth in children under imatinib mesylate treatment [see Adverse Reactions (6.1)].
 
 ## 5.12 Tumor Lysis Syndrome
 
-Cases of Tumor Lysis Syndrome (TLS), including fatal cases, have been reported in patients with CML, ALL and eosinophilic leukemia receiving imatinib mesylate tablets.
+Cases of Tumor Lysis Syndrome (TLS), including fatal cases, have been reported in patients with CML, ALL, and eosinophilic leukemia receiving imatinib mesylate tablets.
 The patients at risk of TLS are those with tumors having a high proliferative rate or high tumor burden prior to treatment.
 Monitor these patients closely and take appropriate precautions.
 Due to possible occurrence of TLS, correct clinically significant dehydration and treat high uric acid levels prior to initiation of imatinib mesylate.
@@ -96,11 +96,11 @@ Due to possible occurrence of TLS, correct clinically significant dehydration an
 ## 5.13 Impairments Related to Driving and Using Machinery
 
 Motor vehicle accidents have been reported in patients receiving imatinib mesylate tablets.
-Advise patients that they may experience side effects such as dizziness, blurred vision or somnolence during treatment with imatinib mesylate.
+Advise patients that they may experience side effects, such as dizziness, blurred vision, or somnolence during treatment with imatinib mesylate.
 Recommend caution when driving a car or operating machinery.
 
 ## 5.14 Renal Toxicity
 
 A decline in renal function may occur in patients receiving imatinib mesylate tablets.
-Median estimated glomerular filtration rate (eGFR) values in patients on imatinib mesylate tablets 400 mg daily for newly-diagnosed CML (four randomized trials) and another indication declined from a baseline value of 85 ml/min/1.73m2 (N=1190) to 75 ml/min/1.73m2 at 12 months (N=1082) and 69 ml/min/1.73m2 at 60 months (N=549).
-Evaluate renal function prior to initiating imatinib mesylate tablets and monitor during therapy, with attention to risk factors for renal dysfunction such as pre-existing renal impairment, diabetes mellitus, hypertension, and congestive heart failure.
+Median estimated glomerular filtration rate (eGFR) values in patients on imatinib mesylate tablets 400 mg daily for newly-diagnosed CML (four randomized trials) and another indication declined from a baseline value of 85 mL/min/1.73m2 (N = 1190) to 75 mL/min/1.73m2 at 12 months (N = 1082) and 69 mL/min/1.73m2 at 60 months (N = 549).
+Evaluate renal function prior to initiating imatinib mesylate tablets and monitor during therapy, with attention to risk factors for renal dysfunction, such as preexisting renal impairment, diabetes mellitus, hypertension, and congestive heart failure.

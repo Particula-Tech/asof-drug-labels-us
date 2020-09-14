@@ -30,8 +30,8 @@ The most frequently reported drug-related adverse reactions were edema, nausea a
 Edema was most frequently periorbital or in lower limbs and was managed with diuretics, other supportive measures, or by reducing the dose of Imatinib [see Dosage and Administration (2.13)].
 The frequency of severe superficial edema was 1.5% to 6%.
 
-A variety of adverse reactions represent local or general fluid retention including pleural effusion, ascites, pulmonary edema and rapid weight gain with or without superficial edema.
-These reactions appear to be dose related, were more common in the blast crisis and accelerated phase studies (where the dose was 600 mg/day) and are more common in the elderly.
+A variety of adverse reactions represent local or general fluid retention, including pleural effusion, ascites, pulmonary edema and rapid weight gain with or without superficial edema.
+These reactions appear to be dose related, were more common in the blast crisis and accelerated phase studies (where the dose was 600 mg/day), and are more common in the elderly.
 These reactions were usually managed by interrupting imatinib mesylate treatment and using diuretics or other appropriate supportive care measures.
 These reactions may be serious or life threatening.
 
@@ -41,7 +41,7 @@ Table 2: Adverse Reactions Regardless of Relationship to Study Drug Reported in 
 
 |  | All Grades |  | CTC Grades 3/4 |  |
 | --- | --- | --- | --- | --- |
-| Preferred Term | Imatinib mesylate N=551 (%) | IFN+Ara-C N=533 (%) | Imatinib mesylate N=551 (%) | IFN+Ara-C N=533 (%) |
+| Preferred Term | Imatinib mesylate N = 551 (%) | IFN+Ara-C N = 533 (%) | Imatinib mesylate N = 551 (%) | IFN+Ara-C N = 533 (%) |
 | Fluid Retention | 61.7 | 11.1 | 2.5 | 0.9 |
 | - Superficial Edema | 59.9 | 9.6 | 1.5 | 0.4 |
 | - Other Fluid Retention Reactions2 | 6.9 | 1.9 | 1.3 | 0.6 |
@@ -79,7 +79,7 @@ Table 3: Most Frequently Reported Non-hematologic Adverse Reactions (Regardless 
 
 |  |  | Patients with Newly Diagnosed Ph+ CML-CP |  |  |  |
 | --- | --- | --- | --- | --- | --- |
-|  |  | Imatinib mesylate 400 mg once-daily N=280 | Nilotinib 300 mg twice-daily N=279 | Imatinib mesylate 400 mg once-daily N=280 | Nilotinib 300 mg twice-daily N=279 |
+|  |  | Imatinib mesylate 400 mg once-daily N = 280 | Nilotinib 300 mg twice-daily N = 279 | Imatinib mesylate 400 mg once-daily N = 280 | Nilotinib 300 mg twice-daily N = 279 |
 | Body System and Preferred Term |  | All Grades (%) |  | CTC Gradesb 3/4 (%) |  |
 | Skin and subcutaneous tissue disorders | Rash | 19 | 38 | 2 | <1 |
 |  | Pruritus | 7 | 21 | 0 | <1 |
@@ -94,7 +94,7 @@ Table 3: Most Frequently Reported Non-hematologic Adverse Reactions (Regardless 
 |  | Dyspepsia | 12 | 10 | 0 | 0 |
 | Nervous system disorders | Headache | 23 | 32 | <1 | 3 |
 |  | Dizziness | 11 | 12 | <1 | <1 |
-| General disorders and administration site conditions | Fatigue | 20 | 23 | 1 | 1 |
+| General disorders and administration-site conditions | Fatigue | 20 | 23 | 1 | 1 |
 |  | Pyrexia | 13 | 14 | 0 | <1 |
 |  | Asthenia | 12 | 14 | 0 | <1 |
 |  | Peripheral edema | 20 | 9 | 0 | <1 |
@@ -116,13 +116,13 @@ Table 3: Most Frequently Reported Non-hematologic Adverse Reactions (Regardless 
 | Psychiatric disorders | Insomnia | 9 | 11 | 0 | 0 |
 | Vascular disorder | Hypertension | 4 | 10 | <1 | 1 |
 
-aExcluding laboratory abnormalities
+aExcluding laboratory abnormalities.
 
-bNCI Common Terminology Criteria for Adverse Events, Version 3.0
+bNCI Common Terminology Criteria for Adverse Events, version 3.0.
 
 Table 4: Adverse Reactions Regardless of Relationship to Study Drug Reported in Other CML Clinical Trials (greater than or equal to 10% of All Patients in any Trial)(1)
 
-|  | Myeloid Blast Crisis (n=260) % |  | Accelerated Phase (n=235) % |  | Chronic Phase, IFN Failure (n=532) % |  |
+|  | Myeloid Blast Crisis (n = 260) % |  | Accelerated Phase (n = 235) % |  | Chronic Phase, IFN Failure (n = 532) % |  |
 | --- | --- | --- | --- | --- | --- | --- |
 | Preferred Term | All Grades | Grade 3/4 | All Grades | Grade 3/4 | All Grades | Grade 3/4 |
 | Fluid Retention | 72 | 11 | 76 | 6 | 69 | 4 |
@@ -180,7 +180,7 @@ These reactions can usually be managed with either a reduction of the dose or an
 
 Table 5: Laboratory Abnormalities in Newly Diagnosed CML Clinical Trial (Imatinib Mesylate versus IFN+Ara-C)
 
-|  | Imatinib mesylate N=551 % |  | IFN+Ara−C N=533 % |  |
+|  | Imatinib mesylate N = 551 % |  | IFN+Ara−C N = 533 % |  |
 | --- | --- | --- | --- | --- |
 | CTC Grades | Grade 3 | Grade 4 | Grade 3 | Grade 4 |
 | Hematology Parameters* |  |  |  |  |
@@ -193,11 +193,11 @@ Table 5: Laboratory Abnormalities in Newly Diagnosed CML Clinical Trial (Imatini
 | − Elevated Alkaline Phosphatase | 0.2 | 0 | 0.8 | 0 |
 | − Elevated SGOT /SGPT | 4.7 | 0.5 | 7.1 | 0.4 |
 
-*p less than 0.001 (difference in Grade 3 plus 4 abnormalities between the two treatment groups)
+*p less than 0.001 (difference in Grade 3 plus 4 abnormalities between the two treatment groups).
 
-Table 6: Percent Incidence of Clinically Relevant Grade 3/4* Laboratory Abnormalities in the Newly Diagnosed CML Clinical Trial (Imatinib Mesylate versus nilotinib).
+Table 6: Percent Incidence of Clinically Relevant Grade 3/4* Laboratory Abnormalities in the Newly Diagnosed CML Clinical Trial (Imatinib Mesylate versus Nilotinib).
 
-|  | Imatinib mesylate 400 mg once-daily N=280 (%) | nilotinib 300 mg twice-daily N=279 (%) |  |  |
+|  | Imatinib mesylate 400 mg once-daily N = 280 (%) | Nilotinib 300 mg twice-daily N = 279 (%) |  |  |
 | --- | --- | --- | --- | --- |
 | Hematologic Parameters |  |  |  |  |
 | Thrombocytopenia | 9 | 10 |  |  |
@@ -218,13 +218,13 @@ Table 6: Percent Incidence of Clinically Relevant Grade 3/4* Laboratory Abnormal
 | Elevated alkaline phosphatase | <1 | 0 |  |  |
 | Elevated creatinine | <1 | 0 |  |  |
 
-*NCI Common Terminology Criteria for Adverse Events, version 3.0
+*NCI Common Terminology Criteria for Adverse Events, version 3.0.
 
 Table 7: Laboratory Abnormalities in Other CML Clinical Trials
 
 |  | Myeloid Blast Crisis |  | Accelerated Phase |  | Chronic Phase, IFN Failure |  |
 | --- | --- | --- | --- | --- | --- | --- |
-|  | (n=260) 600 mg n=223 400 mg n=37 % |  | (n=235) 600 mg n=158 400 mg n=77 % |  | (n=532) 400 mg % |  |
+|  | (n = 260) 600 mg n = 223 400 mg n = 37 % |  | (n = 235) 600 mg n = 158 400 mg n = 77 % |  | (n = 532) 400 mg % |  |
 | CTC Grades1 | Grade 3 | Grade 4 | Grade 3 | Grade 4 | Grade 3 | Grade 4 |
 | Hematology Parameters |  |  |  |  |  |  |
 | − Neutropenia | 16 | 48 | 23 | 36 | 27 | 9 |
@@ -236,7 +236,7 @@ Table 7: Laboratory Abnormalities in Other CML Clinical Trials
 | − Elevated Alkaline Phosphatase | 4.6 | 0 | 5.5 | 0.4 | 0.2 | 0 |
 | − Elevated SGOT (AST) | 1.9 | 0 | 3.0 | 0 | 2.3 | 0 |
 | − Elevated SGPT (ALT) | 2.3 | 0.4 | 4.3 | 0 | 2.1 | 0 |
-| 1CTC Grades: neutropenia (Grade 3 greater than or equal to 0.5 to 1.0 x 109/L, Grade 4 less than 0.5 x 109/L), thrombocytopenia (Grade 3 greater than or equal to 10 to 50 x 109/L, Grade 4 less than 10 x 109/L), anemia (hemoglobin greater than or equal to 65 to 80 g/L, Grade 4 less than 65 g/L), elevated creatinine (Grade 3 greater than 3 to 6 x upper limit normal range [ULN], Grade 4 greater than 6 x ULN), elevated bilirubin (Grade 3 greater than 3 to 10 x ULN, Grade 4 greater than 10 x ULN), elevated alkaline phosphatase (Grade 3 greater than 5 to 20 x ULN, Grade 4 greater than 20 x ULN), elevated SGOT or SGPT (Grade 3 greater than 5 to 20 x ULN, Grade 4 greater than 20 x ULN) |  |  |  |  |  |  |
+| 1CTC Grades: neutropenia (Grade 3 greater than or equal to 0.5 to 1.0 x 109/L, Grade 4 less than 0.5 x 109/L), thrombocytopenia (Grade 3 greater than or equal to 10 to 50 x 109/L, Grade 4 less than 10 x 109/L), anemia (hemoglobin greater than or equal to 65 to 80 g/L, Grade 4 less than 65 g/L), elevated creatinine (Grade 3 greater than 3 to 6 x upper limit normal range [ULN], Grade 4 greater than 6 x ULN), elevated bilirubin (Grade 3 greater than 3 to 10 x ULN, Grade 4 greater than 10 x ULN), elevated alkaline phosphatase (Grade 3 greater than 5 to 20 x ULN, Grade 4 greater than 20 x ULN), elevated SGOT or SGPT (Grade 3 greater than 5 to 20 x ULN, Grade 4 greater than 20 x ULN). |  |  |  |  |  |  |
 
 Hepatotoxicity Severe elevation of transaminases or bilirubin occurred in approximately 5% of CML patients (see Tables 6 and 7) and were usually managed with dose reduction or interruption (the median duration of these episodes was approximately 1 week).
 Treatment was discontinued permanently because of liver laboratory abnormalities in less than 1.0% of CML patients.
@@ -244,18 +244,18 @@ One patient, who was taking acetaminophen regularly for fever, died of acute liv
 
 ### Adverse Reactions in Pediatric Population
 
-Single agent therapy
+Single-agent Therapy
 
 The overall safety profile of pediatric patients treated with imatinib mesylate in 93 children studied was similar to that found in studies with adult patients, except that musculoskeletal pain was less frequent (20.5%) and peripheral edema was not reported.
 Nausea and vomiting were the most commonly reported individual adverse reactions with an incidence similar to that seen in adult patients.
 Most patients experienced adverse reactions at some time during the study.
 The incidence of Grade 3/4 events across all types of adverse reactions was 75%; the events with the highest Grade 3/4 incidence in CML pediatric patients were mainly related to myelosuppression.
 
-In combination with multi-agent chemotherapy
+In Combination with Multi-agent Chemotherapy
 
 Pediatric and young adult patients with very high risk ALL, defined as those with an expected 5-year event-free survival (EFS) less than 45%, were enrolled after induction therapy on a multicenter, non-randomized cooperative group pilot protocol.
 The study population included patients with a median age of 10 years (1 to 21 years), 61% of whom were male, 75% were white, 7% were black and 6% were Asian/Pacific Islander.
-Patients with Ph+ ALL (n=92) were assigned to receive imatinib mesylate tablets and treated in 5 successive cohorts.
+Patients with Ph+ ALL (n = 92) were assigned to receive imatinib mesylate tablets and treated in 5 successive cohorts.
 Imatinib mesylate tablets exposure was systematically increased in successive cohorts by earlier introduction and more prolonged duration.
 
 The safety of imatinib mesylate tablets given in combination with intensive chemotherapy was evaluated by comparing the incidence of grade 3 and 4 adverse events, neutropenia (less than 750/mcL) and thrombocytopenia (less than 75,000/mcL) in the 92 patients with Ph+ ALL compared to 65 patients with Ph-ALL enrolled on the trial who did not receive imatinib mesylate tablets.
@@ -268,7 +268,7 @@ Table 8: Adverse Reactions Reported More Frequently in Patients Treated with Stu
 
 | Adverse Event | Per Patient Incidence Ph+ ALL with Imatinib Mesylate Tablets | Per PatientIncidencePh- ALL No Imatinib Mesylate Tablets | Per PatientPer CycleIncidence with Imatinib Mesylate Tablets | Per PatientPer CycleIncidence No Imatinib Mesylate Tablets |
 | --- | --- | --- | --- | --- |
-| Grade 3 and 4 Adverse Events | N=92 | N=65 | N=778 | N=647 |
+| Grade 3 and 4 Adverse Events | N = 92 | N = 65 | N = 778 | N = 647 |
 | n (%) | n (%) | n (%) | n (%) |  |
 | Nausea and/or Vomiting | 15 (16) | 6 (9) | 28 (4) | 8 (1) |
 | Hypokalemia | 31 (34) | 16 (25) | 72 (9) | 32 (5) |
@@ -288,8 +288,8 @@ Table 8: Adverse Reactions Reported More Frequently in Patients Treated with Stu
 | Myelosuppression |  |  |  |  |
 | Neutropenia (<750/mcL) | 92 (100) | 63 (97) | 556 (71) | 218 (34) |
 | Thrombocytopenia (< 75,000/mcL) | 90 (92) | 63 (97) | 431 (55) | 329 (51) |
-| *Defined as the frequency of AEs per patient per treatment cycles that included imatinib mesylate tablets (includes patients with Ph+ ALL that received cycles with imatinib mesylate tablets) |  |  |  |  |
-| **Defined as the frequency of AEs per patient per treatment cycles that did not include imatinib mesylate tablets (includes patients with Ph+ ALL that received cycles without imatinib mesylate tablets as well as all patients with Ph- ALL who did not receive imatinib mesylate tablets in any treatment cycle) |  |  |  |  |
+| *Defined as the frequency of AEs per patient per treatment cycles that included imatinib mesylate tablets (includes patients with Ph+ ALL that received cycles with imatinib mesylate tablets). |  |  |  |  |
+| **Defined as the frequency of AEs per patient per treatment cycles that did not include imatinib mesylate tablets (includes patients with Ph+ ALL that received cycles without imatinib mesylate tablets as well as all patients with Ph- ALL who did not receive imatinib mesylate tablets in any treatment cycle). |  |  |  |  |
 
 ### Adverse Reactions in Other Subpopulations
 
@@ -310,7 +310,7 @@ Adverse reactions, regardless of relationship to study drug, that were reported 
 
 Table 9: Adverse Reactions Regardless of Relationship to Study Drug Reported (More than One Patient) in MPD Patients in the Phase 2 Study (greater than or equal to 10% All Patients) All Grades
 
-| Preferred Term | N=7 n (%) |
+| Preferred Term | N = 7 n (%) |
 | --- | --- |
 | Nausea | 4 (57.1) |
 | Diarrhea | 3 (42.9) |
@@ -338,7 +338,7 @@ Adverse reactions, regardless of relationship to study drug, that were reported 
 
 Table 10: Adverse Reactions Regardless of Relationship to Study Drug Reported in DFSP Patients in the Phase 2 Study (greater than or equal to 10% All Patients) All Grades
 
-| Preferred term | N=12 n (%) |
+| Preferred term | N = 12 n (%) |
 | --- | --- |
 | Nausea | 5 (41.7) |
 | Diarrhea | 3 (25.0) |
@@ -360,7 +360,7 @@ Clinically relevant or severe laboratory abnormalities in the 12 patients treate
 
 Table 11: Laboratory Abnormalities Reported in DFSP Patients in the Phase 2 Study
 
-|  | N=12 |  |
+|  | N = 12 |  |
 | --- | --- | --- |
 | CTC Grades1 | Grade 3 % | Grade 4 % |
 | Hematology Parameters |  |  |
@@ -369,7 +369,7 @@ Table 11: Laboratory Abnormalities Reported in DFSP Patients in the Phase 2 Stud
 | - Neutropenia | 0 | 8 |
 | Biochemistry Parameters |  |  |
 | - Elevated Creatinine | 0 | 8 |
-| 1CTC Grades: neutropenia (Grade 3 greater than or equal to 0.5 to 1.0 x 109/L, Grade 4 less than 0.5 x 109/L), thrombocytopenia (Grade 3 greater than or equal to 10 to 50 x 109/L, Grade 4 less than 10 x 109/L), anemia (Grade 3 greater than or equal to 65 to 80 g/L, Grade 4 less than 65 g/L), elevated creatinine (Grade 3 greater than 3 to 6 x upper limit normal range [ULN], Grade 4 greater than 6 x ULN), |  |  |
+| 1CTC Grades: neutropenia (Grade 3 greater than or equal to 0.5 to 1.0 x 109/L, Grade 4 less than 0.5 x 109/L), thrombocytopenia (Grade 3 greater than or equal to 10 to 50 x 109/L, Grade 4 less than 10 x 109/L), anemia (Grade 3 greater than or equal to 65 to 80 g/L, Grade 4 less than 65 g/L), elevated creatinine (Grade 3 greater than 3 to 6 x upper limit normal range [ULN], Grade 4 greater than 6 x ULN). |  |  |
 
 ### Adverse Reactions from Multiple Clinical Trials
 
@@ -405,6 +405,10 @@ Reproductive System and Breast Disorders: Estimated 0.1% to 1%: breast enlargeme
 
 Respiratory, Thoracic and Mediastinal Disorders: Estimated 1% to 10%: epistaxis Estimated 0.1% to 1%: pleural effusion Estimated 0.01% to 0.1%: interstitial pneumonitis, pulmonary fibrosis, pleuritic pain, pulmonary hypertension, pulmonary hemorrhage
 
+Endocrine Disorders:
+
+Estimated 0.1% to 1%: hypothyroidism, hyperthyroidism
+
 Eye, Ear and Labyrinth Disorders: Estimated 1% to 10%: conjunctivitis, vision blurred, orbital edema, conjunctival hemorrhage, dry eye Estimated 0.1% to 1%: vertigo, tinnitus, eye irritation, eye pain, scleral hemorrhage, retinal hemorrhage, blepharitis, macular edema, hearing loss, cataract Estimated 0.01% to 0.1%: papilledema1, glaucoma
 
 1Including some fatalities
@@ -414,26 +418,26 @@ Eye, Ear and Labyrinth Disorders: Estimated 1% to 10%: conjunctivitis, vision bl
 The following additional adverse reactions have been identified during post approval use of imatinib mesylate tablets.
 Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
 
-Infections: hepatitis B virus reactivation1
-
-Nervous System Disorders: cerebral edema1
-
-Eye Disorders: vitreous hemorrhage
+Blood and Lymphatic System Disorders: thrombotic microangiopathy
 
 Cardiac Disorders: pericarditis, cardiac tamponade1
 
-Vascular Disorders: thrombosis/embolism, anaphylactic shock
-
-Respiratory, Thoracic and Mediastinal Disorders: acute respiratory failure1, interstitial lung disease
+Eye Disorders: vitreous hemorrhage
 
 Gastrointestinal Disorders: ileus/intestinal obstruction, tumor hemorrhage/tumor necrosis, gastrointestinal perforation1 [see Warnings and Precautions (5.6)], diverticulitis, gastric antral vascular ectasia
 
-Skin and Subcutaneous Tissue Disorders: lichenoid keratosis, lichen planus, toxic epidermal necrolysis, palmar-plantar erythrodysesthesia syndrome, drug rash with eosinophilia and systemic symptoms (DRESS), pseudoporphyria
+Infections: hepatitis B virus reactivation1
 
 Musculoskeletal and Connective Tissue Disorders: avascular necrosis/hip osteonecrosis, rhabdomyolysis/myopathy, growth retardation in children, musculoskeletal pain upon treatment discontinuation (including myalgia, pain in extremity, arthalgia, bone pain)
 
+Nervous System Disorders: cerebral edema1
+
 Reproduction Disorders: hemorrhagic corpus luteum/hemorrhagic ovarian cyst
 
-Blood and Lymphatic System Disorders: thrombotic microangiopathy
+Respiratory, Thoracic and Mediastinal Disorders: acute respiratory failure1, interstitial lung disease
 
-1Including some fatalities
+Skin and Subcutaneous Tissue Disorders: lichenoid keratosis, lichen planus, toxic epidermal necrolysis, palmar-plantar erythrodysesthesia syndrome, drug rash with eosinophilia and systemic symptoms (DRESS), pseudoporphyria
+
+Vascular Disorders: thrombosis/embolism, anaphylactic shock
+
+1Including some fatalities.

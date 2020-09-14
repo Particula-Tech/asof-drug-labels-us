@@ -37,14 +37,12 @@ Imatinib mesylate tablets treatment can be given as a once daily dose.
 ## 2.6 Adult Patients with MDS/MPD
 
 Determine PDGFRb gene rearrangements status prior to initiating treatment.
-Information on FDA-approved tests for the detection of PDGFRb rearrangements is available at http://www.fda.gov/companiondiagnostics.
 
 The recommended dose of imatinib mesylate tablets is 400 mg/day (imatinib as free base) for adult patients with MDS/MPD.
 
 ## 2.7 Adult Patients with ASM
 
 Determine D816V c-Kit mutation status prior to initiating treatment.
-Information on FDA-approved test for the detection of D816V c-Kit mutation is available at http://www.fda.gov/companiondiagnostics.
 
 The recommended dose of imatinib mesylate tablets is 400 mg/day (imatinib as free base) for adult patients with ASM without the D816V c-Kit mutation.
 If c-Kit mutational status is not known or unavailable, treatment with imatinib mesylate tablets 400 mg/day (imatinib as free base) may be considered for patients with ASM not responding satisfactorily to other therapies.
@@ -69,8 +67,8 @@ If patients must be coadministered a strong CYP3A4 inducer, based on pharmacokin
 Hepatic Impairment: Patients with mild and moderate hepatic impairment do not require a dose adjustment and should be treated per the recommended dose.
 A 25% decrease in the recommended dose should be used for patients with severe hepatic impairment [see Use in Specific Populations (8.6)].
 
-Renal Impairment: Patients with moderate renal impairment (CrCL=20 to 39 mL/min) should receive a 50% decrease in the recommended starting dose and future doses can be increased as tolerated.
-Doses greater than 600 mg (imatinib as free base) are not recommended in patients with mild renal impairment (CrCL=40 to 59 mL/min).
+Renal Impairment: Patients with moderate renal impairment (CrCL = 20 to 39 mL/min) should receive a 50% decrease in the recommended starting dose and future doses can be increased as tolerated.
+Doses greater than 600 mg (imatinib as free base) are not recommended in patients with mild renal impairment (CrCL = 40 to 59 mL/min).
 For patients with moderate renal impairment doses greater than 400 mg (imatinib as free base) are not recommended.
 
 Imatinib should be used with caution in patients with severe renal impairment.
@@ -93,7 +91,7 @@ Table 1: Dose Adjustments for Neutropenia and Thrombocytopenia
 
 | ASM associated with eosinophilia (starting dose 100 mg) | ANC1 less than 1.0 x 109/L and/or platelets less than 50 x 109/L | 1. Stop imatinib mesylate until ANC greater than or equal to 1.5 x 109/L and platelets greater than or equal to 75 x 109/L 2. Resume treatment with imatinib mesylate at previous dose (i.e., dose before severe adverse reaction) |
 | --- | --- | --- |
-| HES/CEL with FIP1L1-PDGFRα fusion kinase (starting dose 100 mg) | ANC less than 1.0 x 109/L and/or platelets less than 50 x 109/L | 1. Stop imatinib mesylate until ANC greater than or equal to 1.5 x 109/L and platelets greater than or equal to 75 x 109/L 2. Resume treatment with imatinib mesylate at previous dose (i.e. dose before severe adverse reaction) |
+| HES/CEL with FIP1L1-PDGFRα fusion kinase (starting dose 100 mg) | ANC less than 1.0 x 109/L and/or platelets less than 50 x 109/L | 1. Stop imatinib mesylate until ANC greater than or equal to 1.5 x 109/L and platelets greater than or equal to 75 x 109/L 2. Resume treatment with imatinib mesylate at previous dose (i.e., dose before severe adverse reaction) |
 | Chronic Phase CML (starting dose 400 mg) | ANC less than 1.0 x 109/L and/or platelets less than 50 x 109/L | 1. Stop imatinib mesylate until ANC greater than or equal to 1.5 x 109/L and platelets greater than or equal to 75 x 109/L |
 | MDS/MPD, ASM and HES/CEL (starting dose 400 mg) |  | 2. Resume treatment with imatinib mesylate at the original starting dose of 400 mg |
 |  |  | 3. If recurrence of ANC less than 1.0 x 109/L and/or platelets less than 50 x 109/L, repeat step 1 and resume imatinib mesylate at a reduced dose of 300 mg |
@@ -102,4 +100,4 @@ Table 1: Dose Adjustments for Neutropenia and Thrombocytopenia
 | DFSP (starting dose 800 mg) | ANC less than 1.0 x 109/L and/or platelets less than 50 x 109/L | 1. Stop imatinib mesylate until ANC greater than or equal to 1.5 x 109/L and platelets greater than or equal to 75 x 109/L. 2. Resume treatment with imatinib mesylate at 600 mg 3. In the event of recurrence of ANC less than 1.0 x 109/L and/or platelets less than 50 x 109/L, repeat step 1 and resume imatinib mesylate at reduced dose of 400 mg. |
 | Pediatric newly diagnosed chronic phase CML (starting dose 340 mg/m2) | ANC less than 1.0 x 109/L and/or platelets less than 50 x 109/L | 1. Stop imatinib mesylate until ANC greater than or equal to 1.5 x109/L and platelets greater than or equal to 75 x 109/L. 2. Resume treatment with imatinib mesylate at previous dose (i.e., dose before severe adverse reaction) 3. In the event of recurrence of ANC less than 1.0 x 109/L and/or platelets less than 50 x 109/L, repeat step 1 and resume imatinib mesylate at reduced dose of 260 mg/m2 |
 
-1ANC = absolute neutrophil count
+1ANC = absolute neutrophil count.

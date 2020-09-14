@@ -13,11 +13,11 @@ Adult Overdose 1,200 to 1,600 mg (duration varying between 1 to 10 days): Nausea
 8 to 10 g (single dose): Vomiting and gastrointestinal pain have been reported.
 
 A patient with myeloid blast crisis experienced Grade 1 elevations of serum creatinine, Grade 2 ascites and elevated liver transaminase levels, and Grade 3 elevations of bilirubin after inadvertently taking 1,200 mg of imatinib mesylate (imatinib as free base) daily for 6 days.
-Therapy was temporarily interrupted, and complete reversal of all abnormalities occurred within 1 week.
+Therapy was temporarily interrupted and complete reversal of all abnormalities occurred within 1 week.
 Treatment was resumed at a dose of 400 mg daily (imatinib as free base) without recurrence of adverse reactions.
 Another patient developed severe muscle cramps after taking 1,600 mg of imatinib mesylate (imatinib as free base) daily for 6 days.
 Complete resolution of muscle cramps occurred following interruption of therapy and treatment was subsequently resumed.
 Another patient that was prescribed 400 mg daily (imatinib as free base), took 800 mg of imatinib mesylate (imatinib as free base) on Day 1 and 1,200 mg (imatinib as free base) on Day 2.
-Therapy was interrupted, no adverse reactions occurred, and the patient resumed therapy.
+Therapy was interrupted, no adverse reactions occurred and the patient resumed therapy.
 
 Pediatric Overdose One 3-year-old male exposed to a single dose of 400 mg experienced vomiting, diarrhea and anorexia and another 3-year-old male exposed to a single dose of 980 mg experienced decreased white blood cell count and diarrhea.
