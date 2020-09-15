@@ -122,7 +122,8 @@ Before taking ziprasidone capsules, tell your doctor if you
 - are pregnant or plan on becoming pregnant.
   - If you become pregnant while receiving ziprasidone capsules, talk to your healthcare provider about registering with the National Pregnancy Registry for Atypical Antipsychotics.
     You can register by calling 1-866-961-2388 or go to http://womensmentalhealth.org/clinical-and-research-programs/pregnancyregistry/
-- are breastfeeding or plan to breastfeed. ziprasidone can pass into your breast milk.
+- are breastfeeding or plan to breastfeed.
+  Ziprasidone can pass into your breast milk.
   Talk to your healthcare provider about the best way to feed your baby if you receive ziprasidone capsules.
 
 Because ziprasidone capsules can cause sleepiness, be careful when operating machinery or driving a motor vehicle.
