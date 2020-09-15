@@ -1,26 +1,26 @@
 PRINCIPAL DISPLAY PANEL - 1 mL Cartridge Label
 
-1 mL Single-use Carpuject™ Sterile Cartridge Unit with Luer Lock
+1 mL Single-dose Carpuject™ Sterile Cartridge Unit with Luer Lock
 
-Rx only NDC 0409-1782-03
+NDC 0409-1782-03 Rx only
 
 Naloxone Hydrochloride Injection, USP
-
-RL-5579
 
 0.4 mg/mL PROTECT FROM LIGHT
 
 For Intravenous, Intramuscular or Subcutaneous Use
 
-Hospira, Inc., Lake Forest, IL 60045 USA
+Distributed by Hospira, Inc., Lake Forest, IL 60045 USA
 
 Hospira
 
+PAA131899
+
 PRINCIPAL DISPLAY PANEL - 1 mL Cartridge Box
 
-NDC 0409-1782-69 Rx only
+NDC 0409-1782-69 Contains 10 of NDC 0409-1782-03 Rx only
 
-1 mL Single-use
+1 mL Single-dose
 
 10 Carpuject™ Sterile Cartridge Units with Luer Lock
 
