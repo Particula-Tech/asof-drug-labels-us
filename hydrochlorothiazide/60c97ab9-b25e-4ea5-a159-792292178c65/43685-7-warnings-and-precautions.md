@@ -109,8 +109,6 @@ Hydrochlorothiazide had no adverse effects on the fertility of mice and rats of 
 
 ### Teratogenic Effects–
 
-### Pregnancy Category B
-
 Studies in which hydrochlorothiazide was orally administered to pregnant mice and rats during their respective periods of major organogenesis at doses up to 3000 and 1000 mg hydrochlorothiazide/kg, respectively, provided no evidence of harm to the fetus.
 
 There are, however, no adequate and well-controlled studies in pregnant women.
@@ -130,3 +128,7 @@ Because of the potential for serious adverse reactions in nursing infants, a dec
 
 There are no well-controlled clinical trials in pediatric patients.
 Information on dosing in this age group is supported by evidence from empiric use in pediatric patients and published literature regarding the treatment of hypertension in such patients (see DOSAGE AND ADMINISTRATION, Infants and Children).
+
+Non-melanoma Skin Cancer
+
+Instruct patients taking hydrochlorothiazide to protect skin from the sun and undergo regular skin cancer screening.
