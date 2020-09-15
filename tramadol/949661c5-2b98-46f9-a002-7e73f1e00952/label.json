@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "NDA214044"
+  ],
+  "inn": "tramadol",
+  "labeler": "Athena Bioscience, LLC",
+  "package_ndcs": [
+    "71511-301-16"
+  ],
+  "products": [
+    {
+      "form": "SOLUTION",
+      "generic": "tramadol hydrochloride",
+      "name": "QDOLO"
+    }
+  ],
+  "setid": "949661c5-2b98-46f9-a002-7e73f1e00952",
+  "source": "dailymed"
+}
