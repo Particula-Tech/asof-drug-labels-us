@@ -13,7 +13,7 @@ Advise patients that there is a pregnancy exposure registry that monitors pregna
 
 Lactation Advise breastfeeding women using ziprasidone mesylate for injection to monitor infants for excess sedation, irritability, poor feeding, and extrapyramidal symptoms (tremors, and abnormal muscle movements) and to seek medical care if they notice these signs [see Use in Specific Populations (8.2)].
 Infertility Advise females of reproductive potential that ziprasidone mesylate for injection may impair fertility due to an increase in serum prolactin levels.
-The effects on fertility are reversible [see Warnings and Precautions (5.15) and Use in Specific Populations (8.3)].
+The effects on fertility are reversible [see Warnings and Precautions (5.15)and Use in Specific Populations (8.3)].
 
 Manufactured by:
 
@@ -21,4 +21,4 @@ Gland Pharma Limited
 
 Hyderabad, India
 
-Revised: February 2020
+Revised: September 2020

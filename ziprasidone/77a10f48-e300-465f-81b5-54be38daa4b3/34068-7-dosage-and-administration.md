@@ -8,7 +8,7 @@ Intramuscular administration of ziprasidone for more than three consecutive days
 If long-term therapy is indicated, oral ziprasidone hydrochloride capsules should replace the intramuscular administration as soon as possible.
 Since there is no experience regarding the safety of administering ziprasidone intramuscular to schizophrenic patients already taking oral ziprasidone, the practice of co-administration is not recommended.
 Ziprasidone intramuscular is intended for intramuscular use only and should not be administered intravenously.
-Intramuscular Preparation for Administration Ziprasidone mesylate for Injection should only be administered by intramuscular injection and should not be administered intravenously.
+Intramuscular Preparation for Administration Ziprasidone mesylate for injection should only be administered by intramuscular injection and should not be administered intravenously.
 Single-dose vials require reconstitution prior to administration.
 Add 1.2 mL of Sterile Water for Injection to the vial and shake vigorously until all the drug is dissolved.
 Each mL of reconstituted solution contains 20 mg ziprasidone.

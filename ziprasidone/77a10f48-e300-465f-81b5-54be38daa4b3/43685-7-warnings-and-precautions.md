@@ -184,7 +184,7 @@ Table 5: Lipid* Mean Change from Baseline in Short-Term (up to 6 weeks), Placebo
 | Borderline to High (≥200 mg/dL and <240 mg/dL to ≥240 mg/dL) | Ziprasidone | 207 | 56 (27.1%) |  |
 | Placebo | 82 | 22 (26.8%) |  |  |
 
-*Random” lipid measurements, fasting/non-fasting status unknown In long-term (at least 1 year), placebo-controlled, flexible-dose studies in schizophrenia, the mean change from baseline in random triglycerides for ziprasidone 20 to 40 mg BID was +26.3 mg/dL (N=15); for ziprasidone 60 to 80 mg BID was -39.3 mg/dL (N=10); and for placebo was +12.9 mg/dL (N=9).
+*"Random”lipid measurements, fasting/non-fasting status unknown In long-term (at least 1 year), placebo-controlled, flexible-dose studies in schizophrenia, the mean change from baseline in random triglycerides for ziprasidone 20 to 40 mg BID was +26.3 mg/dL (N=15); for ziprasidone 60 to 80 mg BID was -39.3 mg/dL (N=10); and for placebo was +12.9 mg/dL (N=9).
 In long-term (at least 1 year), placebo-controlled, flexible-dose studies in schizophrenia, the mean change from baseline in random total cholesterol for ziprasidone 20 to 40 mg BID was +2.5 mg/dL (N=14); for ziprasidone 60 to 80 mg BID was -19.7 mg/dL (N=10); and for placebo was -28.0 mg/dL (N=9).
 Table 7: Lipid* Mean Change from Baseline in Short-Term (up to 6 weeks), Placebo-Controlled, Flexible-Dose, Oral Ziprasidone Monotherapy Trials in Adult Patients with Bipolar Disorder
 
