@@ -131,6 +131,8 @@ Manufactured for:
 
 Cipla USA, Inc.
 
-9100 S. Dadeland Blvd., Suite 1500 Miami, FL 33156
+10 Independence Boulevard, Suite 300,
 
-Revised: 2/2017
+Warren, NJ 07059
+
+Revised: 2/2020
