@@ -1,0 +1,14 @@
+# 13 NONCLINICAL TOXICOLOGY
+
+## 13.1 Carcinogenesis, Mutagenesis, Impairment of Fertility
+
+A two-year rat inhalation toxicology study to assess carcinogenic potential of an inhaled solution of tobramycin has been completed.
+Rats were exposed to tobramycin for up to 1.5 hours per day for 95 weeks.
+Serum levels of tobramycin up to 35 mcg/mL were measured in rats, 35x the average 1 mcg/mL exposure levels observed in cystic fibrosis patients in clinical trials.
+There was no drug-related increase in the incidence of any variety of tumors.
+
+Additionally, tobramycin has been evaluated for genotoxicity in a battery of in vitro and in vivo tests.
+The Ames bacterial reversion test, conducted with five tester strains, failed to show a significant increase in revertants with or without metabolic activation in all strains.
+Tobramycin was negative in the mouse lymphoma forward mutation assay, did not induce chromosomal aberrations in Chinese hamster ovary cells, and was negative in the mouse micronucleus test.
+
+Subcutaneous administration of up to 100 mg/kg of tobramycin did not affect mating behavior or cause impairment of fertility in male or female rats.

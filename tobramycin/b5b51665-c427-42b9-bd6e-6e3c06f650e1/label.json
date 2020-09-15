@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "NDA201820"
+  ],
+  "inn": "tobramycin",
+  "labeler": "Prasco, LLC",
+  "package_ndcs": [
+    "66993-195-94"
+  ],
+  "products": [
+    {
+      "form": "SOLUTION",
+      "generic": "tobramycin inhalation",
+      "name": "Tobramycin Inhalation"
+    }
+  ],
+  "setid": "b5b51665-c427-42b9-bd6e-6e3c06f650e1",
+  "source": "dailymed"
+}
