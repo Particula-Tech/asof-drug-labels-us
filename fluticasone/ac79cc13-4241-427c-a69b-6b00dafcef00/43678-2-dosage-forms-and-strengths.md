@@ -1,0 +1,5 @@
+# 3 DOSAGE FORMS AND STRENGTHS
+
+Inhalation Powder: AirDuo Digihaler is an inhalation-driven, multidose dry powder inhaler (MDPI) with an electronic module, for oral inhalation that meters 55 mcg, 113 mcg, or 232 mcg of fluticasone propionate with 14 mcg of salmeterol from the device reservoir and delivers 49 mcg, 100 mcg, or 202 mcg of fluticasone propionate with 12.75 mcg of salmeterol, respectively, from the mouthpiece per actuation.
+The AirDuo Digihaler is a white inhaler with a yellow cap, and is provided in a sealed foil pouch with desiccant.
+AirDuo Digihaler contains a built-in electronic module [see How Supplied/Storage and Handling (16.2)].
