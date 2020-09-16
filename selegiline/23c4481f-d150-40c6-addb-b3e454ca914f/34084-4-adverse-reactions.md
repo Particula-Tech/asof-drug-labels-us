@@ -1,5 +1,6 @@
 # ADVERSE REACTIONS
 
+To report SUSPECTED ADVERSE REACTIONS, contact Rising Pharma Holdings, Inc at 1-844-874-7464 or FDA at 1-800-FDA-1088 or www.fda.gov/medwatch.
 Introduction The number of patients who received selegiline in prospectively monitored pre-marketing studies is limited.
 While other sources of information about the use of selegiline are available (e.g., literature reports, foreign post-marketing reports, etc.) they do not provide the kind of information necessary to estimate the incidence of adverse events.
 Thus, overall incidence figures for adverse reactions associated with the use of selegiline cannot be provided.
