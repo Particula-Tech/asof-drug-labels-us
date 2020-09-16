@@ -1,0 +1,23 @@
+{
+  "application_numbers": [
+    "ANDA077060",
+    "ANDA077078"
+  ],
+  "inn": "metformin",
+  "labeler": "Cadila Healthcare Limited",
+  "package_ndcs": [
+    "65841-027-01",
+    "65841-027-05",
+    "65841-039-01",
+    "65841-039-05"
+  ],
+  "products": [
+    {
+      "form": "TABLET, EXTENDED RELEASE",
+      "generic": "metformin hydrochloride",
+      "name": "METFORMIN HYDROCHLORIDE"
+    }
+  ],
+  "setid": "a8a10ea0-7aa6-48ab-aad4-af8895636672",
+  "source": "dailymed"
+}
