@@ -4,7 +4,7 @@ Cevimeline was administered to 1777 patients during clinical trials worldwide, i
 In placebo-controlled Sjögren’s studies in the U.S., 320 patients received cevimeline doses ranging from 15 mg tid to 60 mg tid, of whom 93% were women and 7% were men.
 Demographic distribution was 90% Caucasian, 5% Hispanic, 3% Black and 2% of other origin.
 In these studies, 14.6% of patients discontinued treatment with cevimeline due to adverse events.
-To report SUSPECTED ADVERSE REACTIONS, contact Rising Pharmaceuticals, Inc at 1-866-562-4597 or FDA at 1-800-FDA-1088 or www.fda.gov/medwatch.
+To report SUSPECTED ADVERSE REACTIONS, contact Rising Pharma Holdings, Inc at 1-844-874-7464 or FDA at 1-800-FDA-1088 or www.fda.gov/medwatch.
 The following adverse events associated with muscarinic agonism were observed in the clinical trials of cevimeline in Sjögren’s syndrome patients:
 
 | Adverse Event | Cevimeline 30 mg (tid) nn is the total number of patients exposed to the dose at any time during the study.= 533 | Placebo (tid) n= 164 |
