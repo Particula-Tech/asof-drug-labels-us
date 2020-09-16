@@ -1,3 +1,3 @@
-# INDICATIONS AND USAGE
+# 1 INDICATIONS AND USAGE
 
-For radiography of the gastrointestinal tract.
+ENTERO VU 24% is indicated for use in small bowel radiographic examinations to visualize the gastrointestinal (GI) tract in adult patients.

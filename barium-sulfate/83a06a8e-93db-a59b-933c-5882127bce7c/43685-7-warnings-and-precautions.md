@@ -1,61 +1,39 @@
-# WARNINGS
+# 5 WARNINGS AND PRECAUTIONS
 
-Rarely, severe allergic reactions of an anaphylactoid nature, have been reported following administration of barium sulfate contrast agents.
-Appropriately trained personnel and facilities should be available for emergency treatment of severe reactions and should remain available for at least 30 to 60 minutes following administration, since delayed reactions can occur.
+## 5.1 Hypersensitivity Reactions
 
-# PRECAUTIONS
+Barium sulfate preparations contain a number of excipients, including natural and artificial flavors and may induce serious hypersensitivity reactions.
+The manifestations include hypotension, bronchospasm and other respiratory impairments, and dermal reactions including rashes, urticaria and itching.
+A history of bronchial asthma, atopy, food allergies, or a previous reaction to a contrast agent may increase the risk for hypersensitivity reactions.
+Emergency equipment and trained personnel should be immediately available for treatment of a hypersensitivity reaction.
 
-## General
+## 5.2 Intra-abdominal Barium Leakage
 
-Diagnostic procedures which involve the use of radiopaque contrast agents should be carried out under the direction of personnel with the requisite training and with a thorough knowledge of the particular procedure to be performed.
-A history of bronchial asthma, atopy, as evidenced by hay fever and eczema, or a previous reaction to a contrast agent, warrant special attention.
-Caution should be exercised with the use of radiopaque media in severely debilitated patients and in those with marked hypertension or advanced cardiac disease.
+The use of ENTERO VU 24% is contraindicated in patients at high risk of perforation of the GI tract [see Contraindications (4)].
+Administration of ENTERO VU 24% may result in leakage of barium from the GI tract in the presence of conditions that increase the risk of perforation such as known carcinomas, GI fistula, inflammatory bowel disease, gastric or duodenal ulcer, appendicitis, diverticulitis, and in patients with a severe stenosis at any level of the GI tract, especially if it is distal to the stomach.
+Barium leakage has been associated with peritonitis and granuloma formation.
 
-Ingestion of this product is not recommended in patients with a history of food aspiration.
-If barium studies are required in these patients or in patients in whom integrity of the swallowing mechanism is unknown, proceed with caution.
-If this product is aspirated into the larynx, further administration should be immediately discontinued.
+## 5.3 Delayed Gastrointestinal Transit and Obstruction
 
-After any barium study of the GI tract, it is important to rehydrate the patient as quickly as possible to prevent impaction of the bowel by barium sulfate.
-To prevent barium sulfate impaction in the bowel, the use of mild laxatives such as milk of magnesia or lactulose, following completion of the examination may also be required.
-These mild laxatives are recommended on a routine basis and in patients with a history of constipation unless contraindicated.
+Orally administered barium sulfate may accumulate proximal to a constricting lesion of the colon, causing obstruction or impaction with development of baroliths (inspissated barium associated with feces) and may cause abdominal pain, appendicitis, bowel obstruction, or perforation.
+Patients with the following conditions are at higher risk for developing obstruction or baroliths: severe stenosis at any level of the GI tract, impaired GI motility, electrolyte imbalance, dehydration, on a low residue diet, on medications that delay GI motility, constipation, and the elderly [see Use in Specific Populations (8.5)].
+To reduce the risk of delayed GI transit and obstruction, patients should maintain adequate hydration after the barium sulfate procedure.
 
-Use with caution in patients with complete or nearly complete obstruction of the GI tract.
+## 5.4 Aspiration Pneumonitis
 
-## Information for Patients
+The use of ENTERO VU 24% is contraindicated in patients with trachea-esophageal fistula [see Contraindications (4)].
+Oral administration of barium is associated with aspiration pneumonitis, especially in patients with a history of food aspiration or with compromised swallowing mechanism.
+Vomiting following oral administration of barium sulfate may lead to aspiration pneumonitis.
+In patients at risk for aspiration, begin the procedure with a small ingested volume of ENTERO VU 24%.
+Monitor the patient closely for aspiration, discontinue administration of ENTERO VU 24% if aspiration is suspected, and monitor for development of aspiration pneumonitis.
 
-Before administration of this product patients should be instructed to:
+## 5.5 Systemic Embolization
 
-1. Inform their physician if they are pregnant.
-2. Inform their physician if they are allergic to any drugs or food, or if they have had any prior reactions to barium sulfate products or other contrast agents used in x-ray procedures (see PRECAUTIONS-General).
-3. Inform their physician about any other medications they are currently taking.
+Barium sulfate products may occasionally intravasate into the venous drainage of the large bowel and enter the circulation as a "barium embolus" leading to potentially fatal complications which include systemic and pulmonary embolism, disseminated intravascular coagulation, septicemia and prolonged severe hypotension.
+Although this complication is uncommon after oral administration of a barium sulfate suspension, monitor patients for potential intravasation when administering barium sulfate.
 
-## Drug Interactions
+## 5.6 Risk with Hereditary Fructose Intolerance
 
-The presence of barium sulfate formulations in the GI tract may alter the absorption of therapeutic agents taken concomitantly.
-In order to minimize any potential change in absorption, the separate administration of barium sulfate from that of other agents should be considered.
-
-## Usage in Pregnancy
-
-Radiation is known to cause harm to the unborn fetus exposed in utero.
-Therefore, radiographic procedures should only be used when, in the judgement of the physician, its use is deemed essential to the welfare of the pregnant patient.
-
-## Nursing Mothers
-
-Barium sulfate products may be used during lactation.
-
-# ALLERGIC REACTIONS
-
-Due to the increased likelihood of allergic reactions in atopic patients, it is important that a complete history of known and suspected allergies as well as allergic-like symptoms, e.g., rhinitis, bronchial asthma, eczema and urticaria, must be obtained prior to any medical procedure utilizing these products.
-A mild allergic reaction would most likely include generalized pruritus, erythema or urticaria (approximately 1 in 250,000).
-Such reactions will generally respond to an antihistamine such as 50 mg of diphenhydramine or its equivalent.
-In the rarer, more serious reactions (approximately 1 in 1,000,000) laryngeal edema, bronchospasm or hypotension could develop.
-Severe reactions which may require emergency measures are often characterized by peripheral vasodilation, hypotension, reflex tachycardia, dyspnea, agitation, confusion and cyanosis progressing to unconsciousness.
-Treatment should be initiated immediately with 0.3 to 0.5 mL of 1:1000 epinephrine subcutaneously.
-If bronchospasm predominates, 0.25 to 0.50 grams of intravenous aminophylline should be given slowly.
-Appropriate vasopressors might be required.
-
-Adrenocorticosteroids, even if given intravenously, exert no significant effect on the acute allergic reactions for a few hours.
-The administration of these agents should not be regarded as emergency measures for the treatment of allergic reactions.
-
-Apprehensive patients may develop weakness, pallor, tinnitus, diaphoresis and bradycardia following the administration of any diagnostic agent.
-Such reactions are usually non-allergic in nature and are best treated by having the patient lie flat for an additional 10 to 30 minutes under observation.
+ENTERO VU 24% contains sorbitol which may cause severe symptoms if ingested by patients with hereditary fructose intolerance.
+Severe symptoms may include the following: vomiting, hypoglycemia, jaundice, hemorrhage, hepatomegaly, hyperuricemia, and kidney failure.
+Before administration of ENTERO VU 24% assess patients for a history of hereditary fructose intolerance and avoid use in these patients.
