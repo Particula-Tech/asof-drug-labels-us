@@ -3,7 +3,7 @@
 The following adverse reactions are discussed in greater detail in other sections of the labeling:
 
 - Severe Hypersensitivity [see Warnings and Precautions (5.1)]
-- Severe Cutaneous Reactions [see Warnings and Precautions (5.2)]
+- Severe Cutaneous Adverse Reactions [see Warnings and Precautions (5.2)]
 - Hyperglycemia [see Warnings and Precautions (5.3)]
 - Pneumonitis [see Warnings and Precautions (5.4)]
 - Diarrhea [see Warnings and Precautions (5.5)]
@@ -15,7 +15,7 @@ Because clinical trials are conducted under widely varying conditions, adverse r
 The safety of PIQRAY was evaluated in a randomized, double-blind, placebo-controlled trial (SOLAR-1) in 571 patients with HR-positive, HER2-negative, advanced or metastatic breast cancer enrolled into two cohorts, with or without a PIK3CA mutation [see Clinical Studies (14)].
 
 Patients received either PIQRAY 300 mg plus fulvestrant (n = 284) or placebo plus fulvestrant (n = 287).
-Fulvestrant 500 mg was administered intramuscularly on Cycle 1, Day 1 and 15 and then at Day 1 of each 28-day cycle during treatment phase.
+Fulvestrant 500 mg was administered intramuscularly on Cycle 1, Day 1 and 15, and then at Day 1 of each 28-day cycle during treatment phase.
 
 Two patients (0.7%) died while on treatment with PIQRAY plus fulvestrant due to causes other than the underlying malignancy.
 Causes of death included one cardio-respiratory arrest and one second primary malignancy.
@@ -31,9 +31,9 @@ Among patients receiving PIQRAY plus fulvestrant, 4.6% permanently discontinued 
 The most frequent ARs leading to treatment discontinuation of PIQRAY in > 2% patients receiving PIQRAY plus fulvestrant were hyperglycemia (6%), rash (4.2%), diarrhea (2.8%), and fatigue (2.5%).
 
 Dose reductions due to ARs occurred in 55% of patients receiving PIQRAY plus fulvestrant.
-The most frequent ARs leading to dose reduction in > 2% patients receiving PIQRAY plus fulvestrant were hyperglycemia (29%), rash (9%), diarrhea (6%), stomatitis (3.5%) and mucosal inflammation (2.1%).
+The most frequent ARs leading to dose reduction in > 2% patients receiving PIQRAY plus fulvestrant were hyperglycemia (29%), rash (9%), diarrhea (6%), stomatitis (3.5%), and mucosal inflammation (2.1%).
 
-The most common adverse reactions including laboratory abnormalities (all grades, incidence ≥ 20%) were glucose increased, creatinine increased, diarrhea, rash, lymphocyte count decreased, GGT increased, nausea, ALT increased, fatigue, hemoglobin decreased, lipase increased, decreased appetite, stomatitis, vomiting, weight decreased, calcium decreased, glucose decreased, aPTT prolonged, and alopecia.
+The most common adverse reactions, including laboratory abnormalities (all grades, incidence ≥ 20%) were glucose increased, creatinine increased, diarrhea, rash, lymphocyte count decreased, gamma glutamyl transferase (GGT) increased, nausea, alanine aminotransferase (ALT) increased, fatigue, hemoglobin decreased, lipase increased, decreased appetite, stomatitis, vomiting, weight decreased, calcium decreased, glucose decreased, activated partial thromboplastin time (aPTT) prolonged, and alopecia.
 
 Adverse reactions and laboratory abnormalities are listed in Table 6 and Table 7, respectively.
 
@@ -73,7 +73,7 @@ Table 6: Adverse Reactions Occurring in ≥ 10% and ≥ 2% Higher than Placebo A
 | Grading according to CTCAE Version 4.03 1Stomatitis: including stomatitis, aphthous ulcer and mouth ulceration 2Abdominal pain: abdominal pain, abdominal pain upper, abdominal pain lower 3Fatigue: including fatigue, asthenia 4Mucosal dryness: including dry mouth, mucosal dryness, vulvovaginal dryness 5Urinary tract infection: including UTI and single case of urosepsis 6Dysgeusia: including dysgeusia, ageusia, hypogeusia 7Rash: including rash, rash maculo-papular, rash macular, rash generalized, rash papular, rash pruritic 8Dry skin: including dry skin, skin fissures, xerosis, xeroderma *No Grade 4 adverse reactions were reported. |  |  |  |  |
 
 Among the patients with Grade 2 or 3 rash, the median time to first onset of Grade 2 or 3 rash was 12 days.
-A subgroup of 86 patients received prophylaxis, including anti-histamines, prior to onset of rash.
+A subgroup of 86 patients received prophylaxis, including antihistamines, prior to onset of rash.
 In these patients, rash was reported less frequently than in the overall population, for all grades rash (27% vs 54%), Grade 3 rash (12% vs 20%) and rash leading to permanent discontinuation of PIQRAY (3.5% vs 4.2%).
 Of the 153 patients who experienced rash, 141 had resolution of the rash.
 
@@ -100,3 +100,10 @@ Table 7: Laboratory Abnormalities Occurring in ≥ 10% of Patients in SOLAR-1
 | Albumin decreased | 14 | 0* | 8 | 0* |  |  |
 | Magnesium decreased | 11 | 0.4* | 4.2 | 0* |  |  |
 | 1Glucose increase is an expected laboratory abnormality of PI3K inhibition. *No Grade 4 laboratory abnormalities were reported. |  |  |  |  |  |  |
+
+## 6.2 Postmarketing Experience
+
+The following adverse reactions have been identified during post-approval use of PIQRAY.
+Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
+
+Skin and sub-cutaneous tissue disorders: Drug reaction with eosinophilia and systemic symptoms (DRESS).

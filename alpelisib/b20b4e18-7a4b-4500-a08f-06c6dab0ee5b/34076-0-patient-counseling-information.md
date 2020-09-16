@@ -7,14 +7,14 @@ Severe Hypersensitivity
 Inform patients of the signs and symptoms of hypersensitivity.
 Advise patients to contact their healthcare provider immediately for signs and symptoms of hypersensitivity [see Warnings and Precautions (5.1)].
 
-Severe Cutaneous Reactions
+Severe Cutaneous Adverse Reactions
 
-Inform patients of the signs and symptoms of severe cutaneous reactions.
-Advise patients to contact their healthcare provider immediately for signs and symptoms of severe cutaneous reactions [see Warnings and Precautions (5.2)].
+Inform patients of the signs and symptoms of severe cutaneous adverse reactions (SCARs).
+Advise patients to contact their healthcare provider immediately for signs and symptoms of SCARs [see Warnings and Precautions (5.2)].
 
 Hyperglycemia
 
-Advise patients of the possibility of developing hyperglycemia and the need to monitor blood glucose periodically during therapy.
+Advise patients of the possibility of developing hyperglycemia and the need to monitor fasting blood glucose periodically during therapy.
 Advise patients to contact their healthcare provider immediately for signs and symptoms of hyperglycemia [see Warnings and Precautions (5.3)].
 
 Pneumonitis
@@ -65,4 +65,4 @@ Distributed by: Novartis Pharmaceuticals Corporation East Hanover, New Jersey 07
 
 © Novartis
 
-T2019-57
+T2020-127

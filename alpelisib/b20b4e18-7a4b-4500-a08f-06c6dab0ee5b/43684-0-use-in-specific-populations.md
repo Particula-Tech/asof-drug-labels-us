@@ -9,7 +9,7 @@ Refer to the Full Prescribing Information of fulvestrant for pregnancy informati
 
 Based on animal data and mechanism of action, PIQRAY can cause fetal harm when administered to a pregnant woman [see Clinical Pharmacology (12.1)].
 There are no available data in pregnant women to inform the drug-associated risk.
-In animal reproduction studies, oral administration of alpelisib to pregnant rats and rabbits during organogenesis caused adverse developmental outcomes including embryo-fetal mortality (post-implantation loss), reduced fetal weights, and increased incidences of fetal malformations at maternal exposures ≥ 0.8 times the exposure in humans based on AUC at the recommended dose of 300 mg/day (see Data).
+In animal reproduction studies, oral administration of alpelisib to pregnant rats and rabbits during organogenesis caused adverse developmental outcomes, including embryo-fetal mortality (post-implantation loss), reduced fetal weights, and increased incidences of fetal malformations at maternal exposures ≥ 0.8 times the exposure in humans based on AUC at the recommended dose of 300 mg/day (see Data).
 Advise pregnant women and females of reproductive potential of the potential risk to a fetus.
 
 The estimated background risk of major birth defects and miscarriage for the indicated population is unknown.

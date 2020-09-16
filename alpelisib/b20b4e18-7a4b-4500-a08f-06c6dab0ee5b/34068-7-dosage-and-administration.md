@@ -41,36 +41,43 @@ Table 1: PIQRAY Dose Reduction Guidelines for Adverse Reactions1
 
 Tables 2, 3, 4, and 5 summarize recommendations for dose interruption, reduction, or discontinuation of PIQRAY in the management of specific ARs.
 
+Cutaneous Adverse Reactions
+
+If a severe cutaneous adverse reaction (SCAR) is confirmed, permanently discontinue PIQRAY.
+Do not reintroduce PIQRAY in patients who have experienced previous SCAR during PIQRAY treatment [see Warnings and Precautions (5.2)].
+
+Table 2: Dose Modification and Management for Rash and Severe Cutaneous Adverse Reactions (SCARs)
+
+| [see Warnings and Precautions (5.1, 5.2)] |  |
+| --- | --- |
+| Grade1,2 | Recommendation3 |
+| Grade 1 (< 10% body surface area (BSA) with active skin toxicity) | No PIQRAY dose adjustment required. Initiate topical corticosteroid treatment. Consider adding oral antihistamine to manage symptoms. If the etiology is SCAR, permanently discontinue PIQRAY. |
+| Grade 2 (10%-30% BSA with active skin toxicity) | No PIQRAY dose adjustment required. Initiate or intensify topical corticosteroid and oral antihistamine treatment. Consider low dose systemic corticosteroid treatment. If the etiology is SCAR, permanently discontinue PIQRAY. |
+| Grade 3 (e.g., severe rash not responsive to medical management) (> 30% BSA with active skin toxicity) | Interrupt PIQRAY. Initiate or intensify topical/systemic corticosteroid and oral antihistamine treatment. If the etiology is SCAR, permanently discontinue PIQRAY. If the etiology is not a SCAR, interrupt dose until recovery to Grade ≤ 1, then resume PIQRAY at same dose level for first occurrence of rash, or at next lower dose level in case of second occurrence. |
+| Grade 4 (e.g., severe bullous, blistering or exfoliating skin conditions) (any % BSA associated with extensive superinfection, with IV antibiotics indicated; life-threatening consequences) | Permanently discontinue PIQRAY. |
+| 1Grading according to Common Terminology Criteria for Adverse Events (CTCAE) Version 5.0. 2For all grades of rash, consider consultation with a dermatologist. 3Antihistamines administered prior to rash onset may decrease incidence and severity of rash based on the SOLAR-1 trial. |  |
+
 Hyperglycemia
 
-Table 2: Dose Modification and Management for Hyperglycemia
+Table 3: Dose Modification and Management for Hyperglycemia
 
-| Fasting Plasma Glucose (FPG)/Blood Glucose Values1 | Recommendation |
+| [see Warnings and Precautions (5.3)] |  |
 | --- | --- |
-| Grade 1 FPG > ULN-160 mg/dL or > ULN-8.9 mmol/L | No PIQRAY dose adjustment required. Initiate or intensify anti-diabetic treatment2. |
-| Grade 2 FPG > 160-250 mg/dL or > 8.9-13.9 mmol/L | No PIQRAY dose adjustment required. Initiate or further intensify anti-diabetic treatment2. If FPG does not decrease to ≤ 160 mg/dL or 8.9 mmol/L within 21 days under appropriate anti-diabetic treatment, reduce PIQRAY dose by 1 dose level and follow FPG value specific recommendations. |
-| Grade 3 > 250-500 mg/dL or > 13.9-27.8 mmol/L | Interrupt PIQRAY. Initiate or intensify oral anti-diabetic treatment2 and consider additional anti-diabetic medications3 for 1-2 days until hyperglycemia improves. Administer intravenous hydration and consider appropriate treatment (e.g., intervention for electrolyte/ketoacidosis/hyperosmolar disturbances). If FPG decreases to ≤ 160 mg/dL or 8.9 mmol/L within 3 to 5 days under appropriate anti-diabetic treatment, resume PIQRAY at 1 lower dose level. If FPG does not decrease to ≤ 160 mg/dL or 8.9 mmol/L within 3 to 5 days under appropriate anti-diabetic treatment, consultation with a physician with expertise in the treatment of hyperglycemia is recommended. If FPG does not decrease to ≤ 160 mg/dL or 8.9 mmol/L within 21 days following appropriate anti-diabetic treatment2, permanently discontinue PIQRAY treatment. |
-| Grade 4 > 500 mg/dL or ≥ 27.8 mmol/L | Interrupt PIQRAY. Initiate or intensify appropriate anti-diabetic treatment2 (administer intravenous hydration and consider appropriate treatment (e.g., intervention for electrolyte/ketoacidosis/hyperosmolar disturbances)), re-check FPG within 24 hours and as clinically indicated. If FPG decreases to ≤ 500 mg/dL or 27.8 mmol/L, follow FPG value specific recommendations for Grade 3. If FPG is confirmed at > 500 mg/dL or 27.8 mmol/L, permanently discontinue PIQRAY treatment. |
-| 1FPG/Blood Glucose/Grade levels reflect hyperglycemia grading according to CTCAE Version 4.03 (CTCAE=Common Terminology Criteria for Adverse Events) 2Initiate applicable anti-diabetic medications, including metformin and insulin sensitizers (such as thiazolidinediones or dipeptidyl peptidase-4 inhibitors), and review respective prescribing information for dosing and dose titration recommendations, including local diabetic treatment guidelines. Metformin was recommended in the SOLAR-1 trial with the following guidance: Initiate metformin 500 mg once daily. Based on tolerability, metformin dose may be increased to 500 mg twice daily, followed by 500 mg with breakfast, and 1000 mg with dinner, followed by further increase to 1000 mg twice daily if needed [see Warnings and Precautions (5.3)]. 3As recommended in the SOLAR-1 trial, insulin may be used for 1-2 days until hyperglycemia resolves. However, this may not be necessary in the majority of PIQRAY-induced hyperglycemia, given the short half-life of PIQRAY and the expectation of glucose levels normalizing after interruption of PIQRAY. |  |
-
-Rash
-
-Table 3: Dose Modification and Management for Rash
-
-| Grade1,2 | Recommendation3 |
-| --- | --- |
-| Grade 1 (< 10% body surface area (BSA) with active skin toxicity) | No PIQRAY dose adjustment required. Initiate topical corticosteroid treatment. Consider adding oral antihistamine to manage symptoms. |
-| Grade 2 (10-30% BSA with active skin toxicity) | No PIQRAY dose adjustment required. Initiate or intensify topical corticosteroid and oral antihistamine treatment. Consider low dose systemic corticosteroid treatment. |
-| Grade 3 (e.g., severe rash not responsive to medical management) (> 30% BSA with active skin toxicity) | Interrupt PIQRAY. Initiate or intensify topical/systemic corticosteroid and oral antihistamine treatment. Once improved to ≤ Grade 1, resume PIQRAY at the same dose level for first occurrence of rash, or at next lower dose level in case of second occurrence. |
-| Grade 4 (e.g., severe bullous, blistering or exfoliating skin conditions) (any % BSA associated with extensive superinfection, with IV antibiotics indicated; life-threatening consequences) | Permanently discontinue PIQRAY. |
-| 1Grading according to CTCAE Version 5.0 2For all grades of rash, consider consultation with a dermatologist. 3Antihistamines administered prior to rash onset may decrease incidence and severity of rash based on the SOLAR-1 trial. |  |
+| Fasting Plasma Glucose (FPG)/Fasting Blood Glucose Values1 | Recommendation |
+| Dose modifications and management should only be based on fasting glucose values (FPG or fasting blood glucose). |  |
+| Grade 1 Fasting glucose > ULN -160 mg/dL or > ULN -8.9 mmol/L | No PIQRAY dose adjustment required. Initiate or intensify anti-diabetic treatment2. |
+| Grade 2 Fasting glucose > 160-250 mg/dL or > 8.9-13.9 mmol/L | No PIQRAY dose adjustment required. Initiate or further intensify anti-diabetic treatment2. If fasting glucose does not decrease to ≤ 160 mg/dL or 8.9 mmol/L within 21 days under appropriate anti-diabetic treatment, reduce PIQRAY dose by 1 dose level and follow fasting glucose value specific recommendations. |
+| Grade 3 > 250-500 mg/dL or > 13.9-27.8 mmol/L | Interrupt PIQRAY. Initiate or intensify oral anti-diabetic treatment2 and consider additional anti-diabetic medications3 for 1-2 days until hyperglycemia improves. Administer intravenous hydration and consider appropriate treatment (e.g., intervention for electrolyte/ketoacidosis/hyperosmolar disturbances). If fasting glucose decreases to ≤ 160 mg/dL or 8.9 mmol/L within 3 to 5 days under appropriate anti-diabetic treatment, resume PIQRAY at 1 lower dose level. If fasting glucose does not decrease to ≤ 160 mg/dL or 8.9 mmol/L within 3 to 5 days under appropriate anti-diabetic treatment, consultation with a physician with expertise in the treatment of hyperglycemia is recommended. If fasting glucose does not decrease to ≤ 160 mg/dL or 8.9 mmol/L within 21 days following appropriate anti-diabetic treatment2, permanently discontinue PIQRAY treatment. |
+| Grade 4 > 500 mg/dL or ≥ 27.8 mmol/L | Interrupt PIQRAY. Initiate or intensify appropriate anti-diabetic treatment2 (administer intravenous hydration and consider appropriate treatment (e.g., intervention for electrolyte/ketoacidosis/hyperosmolar disturbances)), re-check fasting glucose within 24 hours and as clinically indicated. If fasting glucose decreases to ≤ 500 mg/dL or 27.8 mmol/L, follow fasting glucose value specific recommendations for Grade 3. If fasting glucose is confirmed at > 500 mg/dL or 27.8 mmol/L, permanently discontinue PIQRAY treatment. |
+| Abbreviation: ULN, upper limit of normal. 1FPG/Fasting Blood Glucose/Grade levels reflect hyperglycemia grading according to Common Terminology Criteria for Adverse Events (CTCAE) Version 4.03. 2Initiate applicable anti-diabetic medications, including metformin and insulin sensitizers (such as thiazolidinediones or dipeptidyl peptidase-4 inhibitors), and review respective prescribing information for dosing and dose titration recommendations, including local diabetic treatment guidelines. Metformin was recommended in the SOLAR-1 trial with the following guidance: Initiate metformin 500 mg once daily. Based on tolerability, metformin dose may be increased to 500 mg twice daily, followed by 500 mg with breakfast, and 1000 mg with dinner, followed by further increase to 1000 mg twice daily if needed [see Warnings and Precautions (5.3)]. 3As recommended in the SOLAR-1 trial, insulin may be used for 1-2 days until hyperglycemia resolves. However, this may not be necessary in the majority of PIQRAY-induced hyperglycemia, given the short half-life of PIQRAY and the expectation of glucose levels normalizing after interruption of PIQRAY. |  |
 
 Diarrhea
 
 Table 4: Dose Modification and Management for Diarrhea
 
-| Grade1 | Recommendation |
+| [see Warnings and Precautions (5.5)] |  |
 | --- | --- |
+| Grade1 | Recommendation |
 | Grade 1 | No PIQRAY dose adjustment is required. Initiate appropriate medical therapy and monitor as clinically indicated. |
 | Grade 2 | Initiate or intensify appropriate medical therapy and monitor as clinically indicated. Interrupt PIQRAY dose until recovery to Grade ≤ 1, then resume PIQRAY at same dose level. |
 | Grade 3 and 4 | Initiate or intensify appropriate medical therapy and monitor as clinically indicated. Interrupt PIQRAY dose until recovery to Grade ≤ 1, then resume PIQRAY at the next lower dose level. |
@@ -85,6 +92,6 @@ Table 5: Dose Modification and Management for Other Toxicities (Excluding Hyperg
 | Grade 1 or 2 | No PIQRAY dose adjustment is required. Initiate appropriate medical therapy and monitor as clinically indicated2,3. |
 | Grade 3 | Interrupt PIQRAY dose until recovery to Grade ≤ 1, then resume PIQRAY at the next lower dose level. |
 | Grade 4 | Permanently discontinue PIQRAY. |
-| 1Grading according to CTCAE Version 5.0 2For Grade 2 and 3 pancreatitis, interrupt PIQRAY dose until recovery to Grade < 2 and resume at next lower dose level. Only one dose reduction is permitted. If toxicity reoccurs, permanently discontinue PIQRAY treatment. 3For Grade 2 total bilirubin elevation, interrupt PIQRAY dose until recovery to Grade ≤ 1 and resume at the same dose if resolved in ≤ 14 days or resume at the next lower dose level if resolved in > 14 days. |  |
+| 1Grading according to CTCAE Version 5.0. 2For Grade 2 and 3 pancreatitis, interrupt PIQRAY dose until recovery to Grade < 2 and resume at next lower-dose level. Only one dose reduction is permitted. If toxicity reoccurs, permanently discontinue PIQRAY treatment. 3For Grade 2 total bilirubin elevation, interrupt PIQRAY dose until recovery to Grade ≤ 1 and resume at the same dose if resolved in ≤ 14 days or resume at the next lower dose level if resolved in > 14 days. |  |
 
 Refer to the Full Prescribing Information of fulvestrant for dose modification guidelines in the event of toxicity and for other relevant safety information.
