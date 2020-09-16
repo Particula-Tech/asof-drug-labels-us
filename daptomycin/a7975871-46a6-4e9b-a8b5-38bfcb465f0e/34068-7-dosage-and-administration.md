@@ -56,7 +56,7 @@ Adult Patients:
 
 No dosage adjustment is required in adult patients with creatinine clearance (CLCR) greater than or equal to 30 mL/min.
 The recommended dosage regimen for CUBICIN in adult patients with CLCR less than 30 mL/min, including adult patients on hemodialysis or continuous ambulatory peritoneal dialysis (CAPD), is 4 mg/kg (cSSSI) or 6 mg/kg (S. aureus bloodstream infections) once every 48 hours (Table 3).
-When possible, CUBICIN should be administered following the completion of hemodialysis on hemodialysis days [see Warnings and Precautions (5.2, 5.8), Use in Specific Populations (8.6), and Clinical Pharmacology (12.3)].
+When possible, CUBICIN should be administered following the completion of hemodialysis on hemodialysis days [see Warnings and Precautions (5.2, 5.10), Use in Specific Populations (8.6), and Clinical Pharmacology (12.3)].
 
 Table 3: Recommended Dosage of CUBICIN in Adult Patients
 

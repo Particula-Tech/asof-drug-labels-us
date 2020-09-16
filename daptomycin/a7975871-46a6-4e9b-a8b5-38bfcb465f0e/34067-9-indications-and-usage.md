@@ -20,7 +20,7 @@ CUBICIN is not indicated for the treatment of left-sided infective endocarditis 
 The clinical trial of CUBICIN in adult patients with S. aureus bloodstream infections included limited data from patients with left-sided infective endocarditis; outcomes in these patients were poor [see Clinical Studies (14.2)].
 CUBICIN has not been studied in patients with prosthetic valve endocarditis.
 
-CUBICIN is not recommended in pediatric patients younger than 1 year of age due to the risk of potential effects on muscular, neuromuscular, and/or nervous systems (either peripheral and/or central) observed in neonatal dogs [see Warnings and Precautions (5.5) and Nonclinical Toxicology (13.2)].
+CUBICIN is not recommended in pediatric patients younger than 1 year of age due to the risk of potential effects on muscular, neuromuscular, and/or nervous systems (either peripheral and/or central) observed in neonatal dogs [see Warnings and Precautions (5.7) and Nonclinical Toxicology (13.2)].
 
 ## 1.5 Usage
 

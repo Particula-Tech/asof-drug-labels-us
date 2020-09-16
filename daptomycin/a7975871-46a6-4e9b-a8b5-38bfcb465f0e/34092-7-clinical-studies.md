@@ -134,7 +134,7 @@ The median time to clearance in patients with MSSA was 4 days and in patients wi
 
 Failure of treatment due to persisting or relapsing S. aureus infections was assessed by the Adjudication Committee in 19/120 (16%) CUBICIN-treated patients (12 with MRSA and 7 with MSSA) and 11/115 (10%) comparator-treated patients (9 with MRSA treated with vancomycin and 2 with MSSA treated with an anti-staphylococcal semi-synthetic penicillin).
 Among all failures, isolates from 6 CUBICIN-treated patients and 1 vancomycin-treated patient developed increasing MICs (reduced susceptibility) by central laboratory testing during or following therapy.
-Most patients who failed due to persisting or relapsing S. aureus infection had deep-seated infection and did not receive necessary surgical intervention [see Warnings and Precautions (5.7)].
+Most patients who failed due to persisting or relapsing S. aureus infection had deep-seated infection and did not receive necessary surgical intervention [see Warnings and Precautions (5.9)].
 
 Pediatric Patients (1 to 17 Years of Age) with S. aureus Bacteremia
 
