@@ -8,8 +8,6 @@ Glucagon for Injection is supplied as a sterile, lyophilized white powder in a v
 | --- | --- | --- |
 | NP509613 | 63323-596-16 | Glucagon for Injection, 1 mg per vial, in packages of 10. |
 
-Glucagon for Injection is also available as a Diagnostic Kit, it is supplied as follows:
-
 | Product # | NDC # |  |
 | --- | --- | --- |
 | NP509603 | 63323-594-03 | One carton containing one 1 mg of Glucagon for Injection, and one 1 mL of Sterile Water for Injection, USP (NDC 63323-185-03) for reconstitution. |

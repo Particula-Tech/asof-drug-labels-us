@@ -5,7 +5,7 @@
 Pregnancy Category B.
 
 Reproduction studies were performed in rats and rabbits with another glucagon product at doses of 0.4, 2, and 10 mg per kg.
-These doses represent exposures of up to 100 and 200 times the human dose based on mg/m 2 for rats and rabbits, respectively, and revealed no evidence of harm to the fetus.
+These doses represent exposures of up to 100 and 200 times the human dose based on mg/m2 for rats and rabbits, respectively, and revealed no evidence of harm to the fetus.
 There are, however, no adequate and well-controlled studies in pregnant women.
 Glucagon does not cross the human placental barrier.
 

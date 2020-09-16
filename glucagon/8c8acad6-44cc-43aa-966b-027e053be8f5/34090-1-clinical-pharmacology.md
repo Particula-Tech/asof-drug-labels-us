@@ -10,7 +10,7 @@ Table 3 displays the pharmacodynamics properties of Glucagon for Injection as a 
 
 Table 3: Pharmacodynamic Properties of Glucagon for Injection as a Diagnostic Aid
 
-| Route of Administration | Dose a | Time of Onset of Action for GI Smooth Muscle Relaxation | Duration of Smooth Muscle Relaxation |
+| Route of Administration | Dosea | Time of Onset of Action for GI Smooth Muscle Relaxation | Duration of Smooth Muscle Relaxation |
 | --- | --- | --- | --- |
 | Intravenous | 0.25 to 0.5 mg | 45 seconds | 9 to 17 minutes |
 | Intramuscular | 1 mg | 8 to 10 minutes | 12 to 27 minutes |
