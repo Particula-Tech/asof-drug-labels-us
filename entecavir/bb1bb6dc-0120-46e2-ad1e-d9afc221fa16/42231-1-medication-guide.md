@@ -1,6 +1,4 @@
-# MEDICATION GUIDE
-
-Patient Information
+# Patient Information
 
 Entecavir Tablets, USP
 
@@ -138,7 +136,7 @@ You may report side effects to the FDA at 1-800-FDA-1088.
 
 How should I store entecavir tablets?
 
-- •Store entecavir tablets at room temperature, between 68oF to 77oF (20oC to 25oC).
+- •Store entecavir tablets at room temperature, between 68°F and 77°F (20°C and 25°C).
 - •Keep entecavir tablets in a tightly closed container.
 - •Store entecavir tablets in the container, and keep the container out of the light.
 - •Safely throw away entecavir tablets that are out of date or no longer needed.
@@ -175,7 +173,7 @@ Tablet film-coat: titanium dioxide, talc, polyethylene glycol 3350, lecithin (so
 
 Distributed by: Solco Healthcare US, LLC
 
-- Cranbury, NJ 08512, USA
+- Somerset, NJ 08873, USA
 
 Manufactured by: Zhejiang Huahai Pharmaceutical Co., Ltd.
 
@@ -183,6 +181,4 @@ Manufactured by: Zhejiang Huahai Pharmaceutical Co., Ltd.
 
 This Patient Information has been approved by the U.S. Food and Drug Administration.
 
-Revised: 01/2018
-
-17769-01
+Revised: 06/2020

@@ -2,38 +2,53 @@
 
 ## 8.1 Pregnancy
 
-Pregnancy Category C
+Pregnancy Exposure Registry
 
-There are no adequate and well-controlled studies of entecavir in pregnant women.
-Because animal reproduction studies are not always predictive of human response, entecavir should be used during pregnancy only if the potential benefit justifies the potential risk to the fetus.
+There is a pregnancy exposure registry that monitors pregnancy outcomes in women exposed to Entecavir during pregnancy.
+Healthcare providers are encouraged to register patients by calling the Antiretroviral Pregnancy Registry (APR) at 1-800-258-4263.
 
-Antiretroviral Pregnancy Registry: To monitor fetal outcomes of pregnant women exposed to entecavir, an Antiretroviral Pregnancy Registry has been established.
-Healthcare providers are encouraged to register patients by calling 1-800-258-4263.
+Risk Summary
+
+Prospective pregnancy data from the APR are not sufficient to adequately assess the risk of birth defects, miscarriage or adverse maternal or fetal outcomes.
+Entecavir use during pregnancy has been evaluated in a limited number of individuals reported to the APR and the number of exposures to entecavir is insufficient to make a risk assessment compared to a reference population.
+The estimated background rate for major birth defects is 2.7% in the U.S. reference population of the Metropolitan Atlanta Congenital Defects Program (MACDP).
+The rate of miscarriage is not reported in the APR.
+All pregnancies have a background risk of birth defect, loss, or other adverse outcomes.
+In the U.S. general population, the estimated background risk of miscarriage in clinically recognized pregnancies is 15–20%.
+
+In animal reproduction studies, no adverse developmental effects were observed with entecavir at clinically relevant exposures.
+No developmental toxicities were observed at systemic exposures (AUC) approximately 25 (rats) and 200 (rabbits) times the exposure at the maximum recommended human dose (MRHD) of 1 mg/day (see Data).
+
+Data
 
 Animal Data
 
-Animal reproduction studies with entecavir in rats and rabbits revealed no evidence of teratogenicity.
-Developmental toxicity studies were performed in rats and rabbits.
-There were no signs of embryofetal or maternal toxicity when pregnant animals received oral entecavir at approximately 28 (rat) and 212 (rabbit) times the human exposure achieved at the highest recommended human dose of 1 mg/day.
-In rats, maternal toxicity, embryofetal toxicity (resorptions), lower fetal body weights, tail and vertebral malformations, reduced ossification (vertebrae, sternebrae, and phalanges), and extra lumbar vertebrae and ribs were observed at exposures 3100 times those in humans.
-In rabbits, embryofetal toxicity (resorptions), reduced ossification (hyoid), and an increased incidence of 13th rib were observed at exposures 883 times those in humans.
-In a peri-postnatal study, no adverse effects on offspring occurred when rats received oral entecavir at exposures greater than 94 times those in humans.
+Entecavir was administered orally to pregnant rats (at 2, 20, and 200 mg per kg per day) and rabbits (at 1, 4, and 16 mg per kg per day) during organogenesis (on gestation Days 6 through 15 [rat] and 6 through 18 [rabbit]).
+In rats, embryofetal toxicity including post-implantation loss, resorptions, tail and vertebral malformations, skeletal variations including reduced ossification (vertebrate, sternebrae, and phalanges) and extra lumbar vertebrae and ribs, and lower fetal body weights were observed at systemic exposures (AUC) 3,100 times those in humans at the MRHD.
+Maternal toxicity was also observed at this dose level.
+In rabbits, embryofetal toxicity including post-implantation loss, resorptions and skeletal variations, including reduced ossification (hyoid) and increased incidence of 13th rib, were observed at systemic exposures (AUC) 883 times those in humans at the MRHD.
+There were no signs of embryofetal toxicity when pregnant animals received oral entecavir at 28 (rat) and 212 (rabbit) times the human exposure (AUC) at the MRHD.
+In a pre/postnatal development study, entecavir was administered orally to pregnant rats at 0.3, 3, and 30 mg per kg per day from gestation day 6 to lactation/post-partum day 20.
+No adverse effects on the offspring occurred at up to the highest dose evaluated, resulting in exposures (AUC) greater than 94 times those in humans at the MRHD.
 
-## 8.2 Labor and Delivery
+## 8.2 Lactation
 
-There are no studies in pregnant women and no data on the effect of entecavir on transmission of HBV from mother to infant.
-Therefore, appropriate interventions should be used to prevent neonatal acquisition of HBV.
+Risk Summary
 
-## 8.3 Nursing Mothers
+It is not known whether Entecavir is present in human breast milk, affects human milk production, or has effects on the breastfed infant.
+When administered to lactating rats, entecavir was present in milk (see Data).
+The developmental and health benefits of breastfeeding should be considered along with the mother’s clinical need for Entecavir and any potential adverse effects on the breastfed infant from Entecavir or from the underlying maternal condition.
 
-It is not known whether entecavir is excreted into human milk; however, entecavir is excreted into the milk of rats.
-Because many drugs are excreted into human milk and because of the potential for serious adverse reactions in nursing infants from entecavir, a decision should be made to discontinue nursing or to discontinue entecavir taking into consideration the importance of continued hepatitis B therapy to the mother and the known benefits of breastfeeding.
+Data
+
+Entecavir was excreted into the milk of lactating rats following a single oral dose of 10 mg per kg on lactation day 7.
+Entecavir in milk was approximately 25% that in maternal plasma (based on AUC).
 
 ## 8.4 Pediatric Use
 
 Entecavir was evaluated in two clinical trials of pediatric subjects 2 years of age and older with HBeAg-positive chronic HBV infection and compensated liver disease.
 The exposure of entecavir in nucleoside-inhibitor-treatment-naïve and lamivudine-experienced pediatric subjects 2 years of age and older with HBeAg-positive chronic HBV infection and compensated liver disease receiving 0.015 mg/kg (up to 0.5 mg once daily) or 0.03 mg/kg (up to 1 mg once daily), respectively, was evaluated in Study AI463028.
-Safety and efficacy of the selected dose in treatment-naïve pediatric subjects were confirmed in Study AI463189, a randomized, placebo-controlled treatment trial [see Indications and Usage (1), Dosage and Administration (2.3), Adverse Reactions (6.2), Clinical Pharmacology (12.3), and Clinical Studies (14.2)].
+Safety and efficacy of the selected dose in treatment-naïve pediatric subjects were confirmed in Study AI463189, a randomized, placebo-controlled treatment trial [see Indications and Usage (1), Dosage and Administration (2.3), Adverse Reactions (6.1), Clinical Pharmacology (12.3), and Clinical Studies (14.2)].
 
 There are limited data available on the use of entecavir in lamivudine-experienced pediatric patients; entecavir should be used in these patients only if the potential benefit justifies the potential risk to the child.
 Since some pediatric patients may require long-term or even lifetime management of chronic active hepatitis B, consideration should be given to the impact of entecavir on future treatment options [see Microbiology (12.4)].

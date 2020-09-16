@@ -28,11 +28,11 @@ Distributed by:
 
 Solco Healthcare US, LLC
 
-Cranbury, NJ 08512, USA
+Somerset, NJ 08873, USA
 
-Rev.:01/2018
+Rev.:06/2020
 
-17763-01
+201459-01
 
 # Package/Label Display Panel
 
@@ -64,8 +64,8 @@ Distributed by:
 
 Solco Healthcare US, LLC
 
-Cranbury, NJ 08512, USA
+Somerset, NJ 08873, USA
 
-Rev.:01/2018
+Rev.:06/2020
 
-17766-01
+201461-01
