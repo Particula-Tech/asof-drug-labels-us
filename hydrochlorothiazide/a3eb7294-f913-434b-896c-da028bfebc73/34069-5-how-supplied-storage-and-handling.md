@@ -15,7 +15,7 @@ Keep container tightly closed.
 
 Rx only
 
-For all medical inquiries contact: ACTAVIS Medical Communications Parsippany, NJ 07054 USA 1-800-432-8534
+For all medical inquiries contact: ACTAVIS Medical Communications Parsippany, NJ 07054 USA 1-888-838-2872
 
 Made in India
 
@@ -23,6 +23,6 @@ Manufactured By: Watson Pharma Private Limited Verna, Salcette Goa 403 722 INDIA
 
 Distributed By: Actavis Pharma, Inc. Parsippany, NJ 07054 USA
 
-Revised: April 2020
+Revised: August 2020
 
-237496-2
+237496-3
