@@ -14,6 +14,13 @@ If extreme, this prolongation has the potential to cause fainting, irregular hea
 Advise patients to immediately report any of these symptoms.
 Advise patients to provide a complete list of current medications as caution should be taken when Arsenic Trioxide Injection is coadministered with other medications that can cause QT prolongation or lead to electrolyte abnormalities.
 
+- Encephalopathy and Wernicke's Encephalopathy (WE)
+
+Advise patients that symptoms of encephalopathies include neurological symptoms such as confusion, decreased level of consciousness, seizures, cognitive deficits, ataxia, visual symptoms and ocular motor dysfunction.
+Advise patients and caregivers to closely monitor for neurological symptoms and immediately report them to their healthcare provider.
+
+Advise patients at risk for thiamine deficiency (e.g., chronic alcohol use, malabsorption, nutritional deficiency, concomitant use of furosemide) that Wernicke's encephalopathy is a neurologic emergency that can be prevented and treated with thiamine supplementation, and to immediately report any neurological symptoms to their healthcare provider.
+
 - Other Side Effects
 
 Advise patients of the expected adverse reactions of Arsenic Trioxide Injection.
@@ -37,12 +44,8 @@ Advise females to discontinue breastfeeding during treatment with Arsenic Trioxi
 
 Manufactured for:
 
-Lake Zurich, IL 60047
-
-Made in Italy
+Lake Zurich, IL 60047 Made in Italy
 
 www.fresenius-kabi.com/us
 
-451442A
-
-Issued: July 2018
+451442B Revised: March 2020

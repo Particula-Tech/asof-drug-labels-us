@@ -4,7 +4,9 @@
 
 Arsenic Trioxide Injection is supplied as a sterile, clear, colorless solution in glass, single-dose vials.
 
-NDC 63323-637-10 10 mg/10 mL (1 mg/mL) vial in packages of ten vials.
+| Product Code | Unit of Sale | Strength | Each |
+| --- | --- | --- | --- |
+| 637110 | NDC 63323-637-10 Unit of 10 | 10 mg per 10 mL (1 mg per mL) | NDC 63323-637-03 10 mL Single Dose Vial |
 
 ## 16.2 Storage and Handling
 

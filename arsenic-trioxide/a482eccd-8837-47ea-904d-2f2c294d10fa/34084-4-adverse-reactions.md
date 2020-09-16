@@ -1,12 +1,13 @@
 # 6 ADVERSE REACTIONS
 
-The following serious adverse reactions are described elsewhere in the labeling.
+The following clinically significant adverse reactions are described elsewhere in the labeling.
 
 - Differentiation Syndrome [see Warnings and Precautions (5.1)]
 - Cardiac Conduction Abnormalities [see Warnings and Precautions (5.2)]
-- Hepatotoxicity [see Warnings and Precautions (5.3)]
-- Carcinogenesis [see Warnings and Precautions (5.4)]
-- Embryo-Fetal Toxicity [see Warnings and Precautions (5.5)]
+- Encephalopathy [see Warnings and Precautions (5.3)]
+- Hepatotoxicity [see Warnings and Precautions (5.4)]
+- Carcinogenesis [see Warnings and Precautions (5.5)]
+- Embryo-Fetal Toxicity [see Warnings and Precautions (5.6)]
 
 ## 6.1 Clinical Trials Experience
 
@@ -174,11 +175,11 @@ Hyperleukocytosis due to Arsenic Trioxide Injection may warrant treatment with h
 ## 6.2 Postmarketing Experience
 
 The following reactions have been reported from clinical trials and/or worldwide postmarketing surveillance.
-Because they are reported from a population of unknown size, precise estimates of frequency cannot be made.
+Because they are voluntarily reported from a population of unknown size, precise estimates of frequency or causal relationship to drug exposure cannot always be made.
 
 Cardiac disorders: Ventricular extrasystoles in association with QT prolongation, ventricular tachycardia in association with QT prolongation, including torsade de pointes, atrioventricular block, and congestive heart failure
 
-Nervous system disorders: Peripheral neuropathy, paresis, seizures, confusion
+Nervous system disorders: Peripheral neuropathy, paresis, seizures, confusion, encephalopathy, Wernicke's encephalopathy, posterior reversible encephalopathy syndrome
 
 Hematologic disorders: Pancytopenia, bone marrow necrosis
 
@@ -186,7 +187,7 @@ Infections and infestations: Herpes zoster
 
 Investigations: Gamma-glutamyltransferase increased
 
-Musculoskeletal and connective tissue disorders: Bone pain, myalgia, rhabdomyolysis Respiratory, thoracic, and mediastinal disorders: Differentiation syndrome, like retinoic acid syndrome, has been reported with the use of Arsenic Trioxide Injection for the treatment of malignancies other than APL [see Boxed Warning].
+Musculoskeletal and connective tissue disorders: Bone pain, myalgia, rhabdomyolysis Respiratory, thoracic, and mediastinal disorders: Differentiation syndrome, like retinoic acid syndrome, has been reported with the use of Arsenic Trioxide Injection for the treatment of malignancies other than APL.
 
 Ear and labyrinth disorders: Deafness
 
