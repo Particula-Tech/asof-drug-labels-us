@@ -1,5 +1,0 @@
-# 15 REFERENCES
-
-1. Clinical and Laboratory Standards Institute (CLSI).
-   Methods for Dilution Antimicrobial Susceptibility Tests for Bacteria That Grow Aerobically; Approved Standard—Tenth Edition.
-   CLSI Document M07-A10, Clinical and Laboratory Standards Institute, 950 West Valley Road, Suite 2500, Wayne, Pennsylvania, 19087, USA 2015.
