@@ -288,6 +288,7 @@ Figure 6
 - •The dose indicator starts with either the number 60 or 120 when full, depending upon the strength of the inhaler.
   The indicator is marked in intervals of 10 doses.
   Markings are either with numbers or dashes (alternating), counting down to “0”.
+- 
 
 | 60 Dose Inhaler |  |  | 120 Dose Inhaler |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- |
@@ -297,13 +298,6 @@ Figure 6
 |  | -- |  |  | -- |  |  |
 |  | 60 |  |  | 120 |  |  |
 | . |  |  |  |  |  |  |
-
-- •The dose indicator will tell you about how many doses are left in your PULMICORT FLEXHALER.
-- •If you complete the instructions for loading the dose more than one time before you inhale the dose, you will only receive one dose.
-  The dose indicator will move a small amount but it is not likely that you will see the dose indicator move with each dose.
-- •Your inhaler is empty when the number 0 on the red background reaches the middle of the dose indicator window.
-  Throw away this inhaler.
-  The inhaler may not give you the right amount of medicine, even though it may not feel completely empty and may seem like it continues to work (see Figure 7).
 
 Figure 7
 
