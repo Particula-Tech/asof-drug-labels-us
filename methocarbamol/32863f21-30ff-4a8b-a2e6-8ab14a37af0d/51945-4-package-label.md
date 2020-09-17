@@ -1,13 +1,3 @@
-# 500 mg Label
-
-NDC 43547-225-10 Rx only
-
-Methocarbamol Tablets, USP
-
-500 mg
-
-Solco Healthcare U.S. 100 Tablets
-
 # Container Label - 750 mg - 100 tablets
 
 NDC 43547- 226-10
@@ -30,11 +20,11 @@ Keep this and all drugs out of the reach of children.
 
 Manufactured by: Prinston Laboratories 3241 Woodpark Blvd, Charlotte, NC 28206
 
-Distributed by: Solco Healthcare US, LLC Cranbury, NJ 08512, USA
+Distributed by: Solco Healthcare U.S., LLC Somerset, NJ 08873, USA
 
-Rev: MAY2018
+Rev: JUL2020
 
-9040317-02
+9040317-03
 
 # Container Label - 500 mg - 100 tablets
 
@@ -58,8 +48,8 @@ Keep this and all drugs out of the reach of children.
 
 Manufactured by: Prinston Laboratories 3241 Woodpark Blvd, Charlotte, NC 28206
 
-Distributed by: Solco Healthcare US, LLC Cranbury, NJ 08512, USA
+Distributed by: Solco Healthcare U.S., LLC Somerset, NJ 08873, USA
 
-Rev: MAY2018
+Rev: JUL2020
 
-9040315-02
+9040315-03
