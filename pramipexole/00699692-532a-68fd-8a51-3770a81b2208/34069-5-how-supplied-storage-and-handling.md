@@ -27,6 +27,6 @@ Bottles of 30 NDC 55111-615-30
 
 ## 16.2 Storage and Handling
 
-­­Store at 20°-25°C (68°-77°F); [see USP Controlled Room Temperature].
+­­Store at 20° to 25°C (68° to 77°F) [see USP Controlled Room Temperature].
 Protect from exposure to high humidity.
 Store in a safe place out of the reach of children.

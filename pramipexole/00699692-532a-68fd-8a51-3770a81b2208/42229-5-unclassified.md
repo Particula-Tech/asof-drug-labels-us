@@ -1,6 +1,18 @@
+Rx Only
+
+Distributed by:
+
+Dr. Reddy's Laboratories, Inc.
+
+Princeton, NJ 08540 USA
+
+Made in India
+
+Revised: 0820
+
 # Patient Information
 
-Pramipexole Dihydrochloride Extended-Release Tablets
+Pramipexole Dihydrochloride Extended-release Tablets
 
 (pram" i pex' ole dye hye" droe klor' ide)
 
@@ -132,7 +144,7 @@ You may report side effects to FDA at 1-800-FDA-1088.
 
 How should I store pramipexole dihydrochloride extended-release tablets?
 
-- Store pramipexole dihydrochloride extended-release tablets at 20°-25°C (68°-77°F).
+- Store pramipexole dihydrochloride extended-release tablets at 20° to 25°C (68° to 77°F).
 - Keep pramipexole dihydrochloride extended-release tablets away from high humidity or moisture.
 - Keep pramipexole dihydrochloride extended-release tablets and all medicines out of the reach of children.
 
@@ -147,7 +159,7 @@ This Patient Information leaflet summarizes the most important information about
 If you would like more information, talk with your doctor.
 You can ask your pharmacist or doctor for more information about pramipexole dihydrochloride extended-release tablets that is written for healthcare professionals.
 
-For more information, call 1-888-375-3784.
+For additional information, you may also call 1-888-375-3784.
 
 What are the ingredients in pramipexole dihydrochloride extended-release tablets
 
@@ -159,12 +171,12 @@ This Patient Information has been approved by the U.S. Food and Drug Administrat
 
 Rx Only
 
-Manufactured by:
+Distributed by:
 
-Dr. Reddy’s Laboratories Limited
+Dr. Reddy's Laboratories, Inc.
 
-Bachupally – 500 090 INDIA
+Princeton, NJ 08540 USA
 
-Revised: 0618
+Made in India
 
-Dispense with Patient Information Sheet available at: www.drreddys.com/pi/pramipexoletabs.pdf
+Revised: 0820
