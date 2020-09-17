@@ -17,14 +17,14 @@ The mean and standard deviation (SD) pharmacokinetic parameters of daptomycin at
 
 Table 11: Mean (SD) Daptomycin Pharmacokinetic Parameters in Healthy Adult Volunteers at Steady-State
 
-| AUC0-24 (mcg∙h/mL) | t1/2 (h) | Vss (L/kg) | CLT (mL/h/kg) | Cmax (mcg/mL) |  |  |
-| --- | --- | --- | --- | --- | --- | --- |
-| DoseDaptomycin for injection was administered by IV infusion over a 30-minute period.Doses of Daptomycin for injection in excess of 6 mg/kg have not been approved. (mg/kg) |  | Pharmacokinetic ParametersAUC0-24, area under the concentration-time curve from 0 to 24 hours; t1/2, elimination half-life; Vss, volume of distribution at steady-state; CLT, total plasma clearance; Cmax, maximum plasma concentration. |  |  |  |  |
-| 4 | (N=6) | 494 (75) | 8.1 (1.0) | 0.096 (0.009) | 8.3 (1.3) | 57.8 (3.0) |
-| 6 | (N=6) | 632 (78) | 7.9 (1.0) | 0.101 (0.007) | 9.1 (1.5) | 93.9 (6.0) |
-| 8 | (N=6) | 858 (213) | 8.3 (2.2) | 0.101 (0.013) | 9.0 (3.0) | 123.3 (16.0) |
-| 10 | (N=9) | 1039 (178) | 7.9 (0.6) | 0.098 (0.017) | 8.8 (2.2) | 141.1 (24.0) |
-| 12 | (N=9) | 1277 (253) | 7.7 (1.1) | 0.097 (0.018) | 9.0 (2.8) | 183.7 (25.0) |
+| AUC0-24 (mcg∙h/mL) | t1/2 (h) | Vss (L/kg) | CLT (mL/h/kg) | Cmax (mcg/mL) |  |
+| --- | --- | --- | --- | --- | --- |
+| DoseDaptomycin for injection was administered by IV infusion over a 30-minute period.Doses of Daptomycin for injection in excess of 6 mg/kg have not been approved. (mg/kg) | Pharmacokinetic ParametersAUC0-24, area under the concentration-time curve from 0 to 24 hours; t1/2, elimination half-life; Vss, volume of distribution at steady-state; CLT, total plasma clearance; Cmax, maximum plasma concentration. |  |  |  |  |
+| 4 (N=6) | 494 (75) | 8.1 (1.0) | 0.096 (0.009) | 8.3 (1.3) | 57.8 (3.0) |
+| 6 (N=6) | 632 (78) | 7.9 (1.0) | 0.101 (0.007) | 9.1 (1.5) | 93.9 (6.0) |
+| 8 (N=6) | 858 (213) | 8.3 (2.2) | 0.101 (0.013) | 9.0 (3.0) | 123.3 (16.0) |
+| 10 (N=9) | 1039 (178) | 7.9 (0.6) | 0.098 (0.017) | 8.8 (2.2) | 141.1 (24.0) |
+| 12 (N=9) | 1277 (253) | 7.7 (1.1) | 0.097 (0.018) | 9.0 (2.8) | 183.7 (25.0) |
 
 Daptomycin pharmacokinetics were generally linear and time-independent at Daptomycin for injection doses of 4 to 12 mg/kg q24h administered by IV infusion over a 30-minute period for up to 14 days.
 Steady-state trough concentrations were achieved by the third daily dose.
@@ -116,8 +116,40 @@ The AUC0-∞ of daptomycin was approximately 30% higher in moderately obese subj
 The differences were most likely due to differences in the renal clearance of daptomycin.
 No adjustment of Daptomycin for injection dosage is warranted in obese patients.
 
-Pediatric use information is approved for Merck & Co., Inc.'s Cubicin (daptomycin for injection).
-However, due to Merck & Co., Inc.'s marketing exclusivity rights, this drug product is not labeled with that pediatric information.
+Pediatric
+
+The pharmacokinetics of daptomycin in pediatric subjects was evaluated in 3 single-dose pharmacokinetic studies.
+In general, body weight-normalized total body clearance in pediatric patients was higher than in adults and increased with a decrease of age, whereas elimination half-life tends to decrease with a decrease of age.
+Body weight-normalized total body clearance and elimination half-life of daptomycin in children 2 to 6 years of age were similar at different doses.
+
+A study was conducted to assess safety, efficacy, and pharmacokinetics of daptomycin in pediatric patients (1 to 17 years old, inclusive) with cSSSI caused by Gram-positive pathogens.
+Patients were enrolled into 4 age groups [see Clinical Studies (14.1)], and intravenous Daptomycin for injection doses of 5 to 10 mg/kg once daily were administered.
+Following administration of multiple doses, daptomycin exposure (AUCss and Cmax,ss) was similar across different age groups after dose adjustment based on body weight and age (Table 13).
+
+Table 13: Mean (SD) Daptomycin Population Pharmacokinetic Parameters in cSSSI Pediatric Patients
+
+| Dose (mg/kg) | Infusion Duration (min) | AUCss (mcg∙h/mL) | t1/2 (h) | Vss (mL) | CLT (mL/h/kg) | Cmax,ss (mcg/L) |  |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| Age | Pharmacokinetic Parameters |  |  |  |  |  |  |
+| 12 to 17 years (N=6) | 5 | 30 | 434 (67.9) | 7.1 (0.9) | 8200 (3250) | 11.8 (2.15) | 76.4 (6.75) |
+| 7 to 11 years (N=2) | 7 | 30 | 543Mean is calculated from N=2 | 6.8 | 4470 | 13.2 | 92.4 |
+| 2 to 6 years (N=7) | 9 | 60 | 452 (93.1) | 4.6 (0.8) | 2750 (832) | 20.8 (4.29) | 90.3 (14.0) |
+| 1 to less than 2 years (N=27) | 10 | 60 | 462 (138) | 4.8 (0.6) | 1670 (446) | 23.1 (5.43) | 81.6 (20.7) |
+| AUCss, area under the concentration-time curve at steady state; CLT, clearance normalized to body weight; Vss, volume of distribution at steady state; t½, terminal half-life |  |  |  |  |  |  |  |
+
+A study was conducted to assess safety, efficacy, and pharmacokinetics of daptomycin in pediatric patients with S. aureus bacteremia.
+Patients were enrolled into 3 age groups [see Clinical Studies (14.2)], and intravenous doses of 7 to 12 mg/kg once daily were administered.
+Following administration of multiple doses, daptomycin exposure (AUCss and Cmax,ss) was similar across different age groups after dose adjustment based on body weight and age (Table 14).
+
+Table 14: Mean (SD) of Daptomycin Pharmacokinetics in Bacteremia Pediatric Patients
+
+| Dose (mg/kg) | Infusion Duration (min) | AUCss (mcg∙h/mL) | t1/2 (h) | Vss (mL) | CLT (mL/h/kg) | Cmax,ss (mcg/mL) |  |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| Age | Pharmacokinetic Parameters |  |  |  |  |  |  |
+| 12 to 17 years (N=13) | 7 | 30 | 656 (334) | 7.5 (2.3) | 6420 (1980) | 12.4 (3.9) | 104 (35.5) |
+| 7 to 11 years (N=19) | 9 | 30 | 579 (116) | 6.0 (0.8) | 4510 (1470) | 15.9 (2.8) | 104 (14.5) |
+| 2 to 6 years (N=19) | 12 | 60 | 620 (109) | 5.1 (0.6) | 2200 (570) | 19.9 (3.4) | 106 (12.8) |
+| AUCss, area under the concentration-time curve at steady state; CLT, clearance normalized to body weight; Vss, volume of distribution at steady state; t½, terminal half-life No patients 1 to <2 years of age were enrolled in the study. Simulation using a population pharmacokinetic model demonstrated that the AUCss of daptomycin in pediatric patients 1 to <2 years of age receiving 12 mg/kg once daily would be comparable to that in adult patients receiving 6 mg/kg once daily. |  |  |  |  |  |  |  |
 
 Drug-Drug Interactions
 
@@ -200,6 +232,6 @@ However, the efficacy of daptomycin in treating clinical infections due to these
 
 Gram-Positive Bacteria Corynebacterium jeikeium Enterococcus faecalis (vancomycin-resistant isolates) Enterococcus faecium (including vancomycin-resistant isolates) Staphylococcus epidermidis (including methicillin-resistant isolates) Staphylococcus haemolyticus
 
-Susceptibility Test Methods
+Susceptibility Testing
 
-For specific information regarding susceptibility test interpretive criteria and associated test methods and quality control standards recognized by FDA for this drug, please see: https://www.fda.gov/STIC.
+For specific information regarding susceptibility test interpretive criteria and associated test methods and quality control standards recognized by FDA for daptomycin, please see: https://www.fda.gov/STIC.
