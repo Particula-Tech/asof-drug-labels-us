@@ -88,7 +88,7 @@ The whole blood trough concentration range described in Table 1 pertains to oral
 Anaphylactic reactions have occurred with injectables containing castor oil derivatives, such as tacrolimus injection.
 Therefore, monitoring for signs and symptoms of anaphylaxis is recommended [see Warnings and Precautions (5.9)].
 
-## 2.3 Dosing for Pediatric Kidney, Liver, and Heart Transplant Patients
+## 2.3 Dosing for Pediatric Liver Transplant Patients
 
 ### Oral Formulation (Capsules)
 
@@ -101,14 +101,16 @@ Summary of Initial Tacrolimus Capsule Dosing Recommendations and Whole Blood Tro
 
 | Patient Population | Initial Tacrolimus Capsule Dosing | Whole Blood Trough Concentration Range |
 | --- | --- | --- |
-| Pediatric kidney transplant patients | 0.3 mg/kg/day capsules, divided in two doses, administered every 12 hours | Month 1 to 12: 5 to 20 ng/mL |
-| Pediatric liver transplant patients See Clinical Studies (14.2), Liver Transplantation. | 0.15-0.2 mg/kg/day capsules, divided in two doses, administered every 12 hours | Month 1 to 12: 5 to 20 ng/mL |
-| Pediatric heart transplant patients | 0.3 mg/kg/day 0.1 mg/kg/day if cell depleting induction treatment is administered. capsules, divided in two doses, administered every 12 hours | Month 1 to 12: 5 to 20 ng/mL |
+| Pediatric liver transplant patients ‡ | 0.15 to 0.2 mg/kg/day capsules divided in two doses, administered every 12 hours | Month 1 to 12: 5 to 20 ng/mL |
+| *0.1 mg/kg/day if cell depleting induction treatment is administered. ‡See Clinical Studies (14.2), Liver Transplantation. |  |  |
 
-For conversion of pediatric patients from tacrolimus granules to tacrolimus capsules or from tacrolimus capsules to tacrolimus granules, the total daily dose should remain the same.
+For conversion of pediatric patients from tacrolimus for oral suspension to tacrolimus capsules or from tacrolimus capsules to tacrolimus for oral suspension, the total daily dose should remain the same.
 Following conversion from one formulation to another formulation of tacrolimus, therapeutic drug monitoring is recommended [see Dosage and Administration (2.6)].
 If a patient is unable to receive an oral formulation, the patient may be started on tacrolimus injection.
 For pediatric liver transplant patients, the intravenous dose is 0.03 to 0.05 mg/kg/day.
+
+Additional pediatric use information is approved for Astellas Pharma US, Inc.’s Prograf (tacrolimus) products.
+However, due to Astellas Pharma US, Inc.’s marketing exclusivity rights, this drug product is not labeled with that information.
 
 ## 2.4 Dosage Adjustment in Patients with Renal Impairment
 
@@ -147,3 +149,6 @@ Whole blood is the matrix of choice and specimens should be collected into tubes
 Heparin anticoagulation is not recommended because of the tendency to form clots on storage.
 Samples which are not analyzed immediately should be stored at room temperature or in a refrigerator and assayed within 7 days; see assay instructions for specifics.
 If samples are to be kept longer, they should be deep frozen at -20° C. One study showed drug recovery > 90% for samples stored at -20° C for 6 months, with reduced recovery observed after 6 months.
+
+Additional pediatric use information is approved for Astellas Pharma US, Inc.’s Prograf (tacrolimus) products.
+However, due to Astellas Pharma US, Inc.’s marketing exclusivity rights, this drug product is not labeled with that information.

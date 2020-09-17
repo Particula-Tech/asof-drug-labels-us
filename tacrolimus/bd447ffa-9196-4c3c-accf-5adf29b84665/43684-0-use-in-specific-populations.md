@@ -100,7 +100,7 @@ Controlled lactation studies have not been conducted in humans; however, tacroli
 The effects of tacrolimus on the breastfed infant, or on milk production have not been assessed.
 Tacrolimus is excreted in rat milk and in peri-/postnatal rat studies; exposure to tacrolimus during the postnatal period was associated with developmental toxicity in the offspring at clinically relevant doses [see Pregnancy (8.1) and Nonclinical Toxicology (13.1)].
 
-The developmental and health benefits of breastfeeding should be considered along with the mother’s clinical need for tacrolimus and any potential adverse effects on the breastfed child from tacrolimus or from the underlying maternal condition.
+The developmental and health benefits of breastfeeding should be considered along with the mother�s clinical need for tacrolimus and any potential adverse effects on the breastfed child from tacrolimus or from the underlying maternal condition.
 
 ## 8.3 Females and Males of Reproductive Potential
 
@@ -115,11 +115,16 @@ Based on findings in animals, male and female fertility may be compromised by tr
 
 ## 8.4 Pediatric Use
 
-Safety and effectiveness have been established in pediatric liver, kidney, and heart transplant patients.
+Safety and effectiveness have been established in pediatric liver transplant patients.
 
-### Kidney and heart transplant
+### Liver transplant
 
-Use of tacrolimus capsules in pediatric kidney and heart transplant patients is supported by adequate and well-controlled studies and pharmacokinetic data in adult kidney and heart transplant patients with additional pharmacokinetic data in pediatric kidney and heart transplant patients and safety data in pediatric liver transplant patients [see Dosage and Administration (2.3) and Clinical Pharmacology (12.3)].
+Safety and efficacy in pediatric liver transplant patients less than 16 years of age are based on evidence from active controlled studies that included 56 pediatric patients, 31 of which received tacrolimus.
+Additionally, 122 pediatric patients were studied in an uncontrolled trial of tacrolimus in living related donor liver transplantation.
+Pediatric patients generally required higher doses of tacrolimus to maintain blood trough concentrations of tacrolimus similar to adult patients [see Dosage and Administration (2.3), Adverse Reactions (6.1), Clinical Pharmacology (12.3) and Clinical Studies (14.2)].
+
+Additional pediatric use information is approved for Astellas Pharma US, Inc.’s Prograf (tacrolimus) products.
+However, due to Astellas Pharma US, Inc.’s marketing exclusivity rights, this drug product is not labeled with that information.
 
 ## 8.5 Geriatric Use
 

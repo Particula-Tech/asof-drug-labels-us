@@ -22,7 +22,7 @@ Pharmacokinetics Parameters (mean ± S.D.) of Tacrolimus in Healthy Volunteers a
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | C max (ng/mL) | T max(hr) | AUC (ng•hr/mL) | t 1/2 (hr) | CL (L/hr/kg) | V (L/kg) |  |  |  |
 | Healthy Volunteers | 8 | IV (0.025 mg/kg/4hr) | not applicable |  | 652 AUC 0-inf ± 156 | 34.2 ± 7.7 | 0.040 ± 0.009 | 1.91 ± 0.31 |
-| 30 | PO (5 mg) (granules) | 35.6 ± 10.9 | 1.3 ± 0.5 | 320 ± 164 | 32.1 ± 5.9 | not available |  |  |
+| 16 | PO (5 mg) (granules) | 35.6 ± 10.9 | 1.3 ± 0.5 | 320 ± 164 | 32.1 ± 5.9 | not available |  |  |
 | PO (5 mg) (capsules) | 28.8 ± 8.9 | 1.5 ± 0.7 | 266 ± 95 | 32.3 ± 8.8 |  |  |  |  |
 |  |  | IV (0.02 mg/kg/12 hr) |  |  | 294 ± 262 | 18.8 ± 16.7 | 0.083 ± 0.050 | 1.41 ± 0.66 |
 | Kidney Transplant Patients | 26 | PO (0.2 mg/kg/day) | 19.2 ± 10.3 | 3.0 | 203 ± 42 |  |  |  |
@@ -46,9 +46,11 @@ Another single dose trial in 32 healthy volunteers established the bioequivalenc
 
 Tacrolimus maximum blood concentrations (C max) and area under the curve (AUC) appeared to increase in a dose-proportional fashion in 18 fasted healthy volunteers receiving a single oral dose of 3, 7, and 10 mg.
 
-In 18 kidney transplant patients, tacrolimus trough concentrations from 3 to 30 ng/mL measured at 10-12 hours post-dose (C min) correlated well with the AUC (correlation coefficient 0.93).
+In 18 kidney transplant patients, tacrolimus trough concentrations from 3 to 30 ng/mL measured at 10 to 12 hours post-dose (C min) correlated well with the AUC (correlation coefficient 0.93).
 In 24 liver transplant patients over a concentration range of 10 to 60 ng/mL, the correlation coefficient was 0.94.
 In 25 heart transplant patients over a concentration range of 2 to 24 ng/mL, the correlation coefficient was 0.89 after an oral dose of 0.075 or 0.15 mg/kg/day at steady-state.
+
+If pediatric patients are converted between formulations, therapeutic drug monitoring must be performed and dose adjustments made to ensure that systemic exposure to tacrolimus is maintained.
 
 ### Food Effects
 
@@ -68,7 +70,7 @@ Tacrolimus capsules should be taken consistently every day either with or withou
 
 ### Distribution
 
-The plasma protein binding of tacrolimus is approximately 99% and is independent of concentration over a range of 5-50 ng/mL.
+The plasma protein binding of tacrolimus is approximately 99% and is independent of concentration over a range of 5 to 50 ng/mL.
 Tacrolimus is bound mainly to albumin and alpha-1-acid glycoprotein, and has a high level of association with erythrocytes.
 The distribution of tacrolimus between whole blood and plasma depends on several factors, such as hematocrit, temperature at the time of plasma separation, drug concentration, and plasma protein concentration.
 In a U.S. trial, the ratio of whole blood concentration to plasma concentration averaged 35 (range 12 to 67).
@@ -137,7 +139,7 @@ The mean clearance of tacrolimus in patients with renal dysfunction was similar 
 
 ### Patients with Hepatic Impairment
 
-Tacrolimus pharmacokinetics have been determined in six patients with mild hepatic dysfunction (mean Pugh score: 6.2) following single IV and oral administrations.
+Tacrolimus pharmacokinetics have been determined in six patients with mild hepatic dysfunction (mean Pugh score: 6.2) following oral administrations.
 The mean clearance of tacrolimus in patients with mild hepatic dysfunction was not substantially different from that in normal volunteers (see previous table).
 Tacrolimus pharmacokinetics were studied in 6 patients with severe hepatic dysfunction (mean Pugh score: > 10).
 The mean clearance was substantially lower in patients with severe hepatic dysfunction, irrespective of the route of administration [see Dosage and Administration (2.5) and Use in Specific Populations (8.7)].
@@ -175,3 +177,6 @@ Frequent monitoring of whole blood concentrations and appropriate dosage adjustm
 - Voriconazole (see complete prescribing information for VFEND): Repeat oral dose administration of voriconazole (400 mg every 12 hours for one day, then 200 mg every 12 hours for 6 days) increased tacrolimus (0.1 mg/kg single dose) C max and AUC τ in healthy subjects by an average of 2-fold (90% CI: 1.9, 2.5) and 3-fold (90% CI: 2.7, 3.8), respectively [see Drug Interactions (7.2)].
 - Posaconazole (see complete prescribing information for Noxafil): Repeat oral administration of posaconazole (400 mg twice daily for 7 days) increased tacrolimus (0.05 mg/kg single dose) C max and AUC in healthy subjects by an average of 2-fold (90% CI: 2.01, 2.42) and 4.5-fold (90% CI 4.03, 5.19), respectively [see Drug Interactions (7.2)].
 - Caspofungin (see complete prescribing information for CANCIDAS): Caspofungin reduced the blood AUC 0-12 of tacrolimus by approximately 20%, peak blood concentration (C max) by 16%, and 12-hour blood concentration (C 12hr) by 26% in healthy adult subjects when tacrolimus (2 doses of 0.1 mg/kg 12 hours apart) was administered on the 10th day of CANCIDAS 70 mg daily, as compared to results from a control period in which tacrolimus was administered alone [see Drug Interactions (7.2)].
+
+Additional pediatric use information is approved for Astellas Pharma US, Inc.’s Prograf (tacrolimus) products.
+However, due to Astellas Pharma US, Inc.’s marketing exclusivity rights, this drug product is not labeled with that information.

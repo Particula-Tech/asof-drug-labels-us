@@ -13,7 +13,7 @@ There were 205 patients randomized to tacrolimus-based immunosuppression and 207
 All patients received prophylactic induction therapy consisting of an antilymphocyte antibody preparation, corticosteroids, and azathioprine.
 Overall 1-year patient and graft survival was 96.1% and 89.6%, respectively.
 
-Data from this trial of tacrolimus in conjunction with azathioprine indicate that during the first 3 months of that trial, 80% of the patients maintained trough concentrations between 7-20 ng/mL, and then between 5-15 ng/mL, through 1 year.
+Data from this trial of tacrolimus in conjunction with azathioprine indicate that during the first 3 months of that trial, 80% of the patients maintained trough concentrations between 7 to 20 ng/mL, and then between 5 to 15 ng/mL, through 1 year.
 
 ### Tacrolimus/Mycophenolate Mofetil (MMF)
 
@@ -51,7 +51,7 @@ Incidence of BPAR, Graft Loss, Death, or Loss to Follow-up at 12 Months (Study 1
 | Treatment Difference of efficacy failure compared to Group C (99.2% CI Adjusted for multiple (6) pairwise comparisons using Bonferroni corrections.) | 15.8%(7.1%, 24.3%) | 11.2% (2.7%, 19.5%) | - | 26.0% (17.2%, 34.7%) |
 | Key: Group A = CsA/MMF/CS, B = CsA/MMF/CS/Daclizumab, C = Tac/MMF/CS/Daclizumab, and D = Siro/MMF/CS/Daclizumab |  |  |  |  |
 
-The protocol-specified target tacrolimus trough concentrations (C trough, Tac) were 3-7 ng/mL; however, the observed median C troughs, Tac approximated 7 ng/mL throughout the 12-month trial (Table 22).
+The protocol-specified target tacrolimus trough concentrations (C trough, Tac) were 3 to 7 ng/mL; however, the observed median C troughs, Tac approximated 7 ng/mL throughout the 12-month trial (Table 22).
 Approximately 80% of patients maintained tacrolimus whole blood concentrations between 4 to 11 ng/mL through 1 year post-transplant.
 
 Table 22.
@@ -159,6 +159,9 @@ Most patients are stable when trough whole blood concentrations are maintained b
 Long-term post-transplant patients are often maintained at the low end of this target range.
 
 Data from the U.S. clinical trial show that the median trough blood concentrations, measured at intervals from the second week to one year post-transplantation, ranged from 9.8 ng/mL to 19.4 ng/mL.
+
+Additional pediatric use information is approved for Astellas Pharma US, Inc.’s Prograf (tacrolimus) products.
+However, due to Astellas Pharma US, Inc.’s marketing exclusivity rights, this drug product is not labeled with that information.
 
 ## 14.3 Heart Transplantation
 

@@ -164,8 +164,8 @@ The 12-month post-transplant information from the U.S. trial and from the Europe
 The two trials also included different patient populations and patients were treated with immunosuppressive regimens of differing intensities.
 Adverse reactions reported in ≥ 15% in tacrolimus patients (combined trial results) are presented below for the two controlled trials in liver transplantation.
 
-The most common adverse reactions (≥ 40%) observed in tacrolimus-treated liver transplant patients are: tremor, headache, diarrhea, hypertension, nausea, abnormal renal function, abdominal pain, insomnia, paresthesia, anemia, pain, fever, asthenia, hyperkalemia, hypomagnesemia, and hyperglycemia.
-These all occur with oral and IV administration of tacrolimus and some may respond to a reduction in dosing (e.g., tremor, headache, paresthesia, hypertension).
+The most common adverse reactions (≥ 38%) observed in tacrolimus-treated liver transplant patients are: tremor, headache, diarrhea, hypertension, nausea, abnormal renal function, abdominal pain, insomnia, paresthesia, anemia, pain, fever, asthenia, hyperkalemia, hypomagnesemia, and hyperglycemia.
+These all occur with oral administration of tacrolimus and some may respond to a reduction in dosing (e.g., tremor, headache, paresthesia, hypertension).
 Diarrhea was sometimes associated with other gastrointestinal complaints such as nausea and vomiting.
 Based on reported adverse reaction terms related to decreased renal function, nephrotoxicity was reported in approximately 40% and 36% of liver transplantation patients receiving tacrolimus in the U.S. and European randomized trials.
 
@@ -347,7 +347,7 @@ Incidence of Post-Transplant Diabetes Mellitus and Insulin Use at 1 Year in Hear
 | Tacrolimus/ MMF | Cyclosporine/ MMF | Tacrolimus/ AZA | Cyclosporine/ AZA |  |
 | Patients at risk Patients without pre-transplant history of diabetes mellitus. | 75 | 83 | 132 | 138 |
 | New Onset PTDM | 10 (13%) | 6 (7%) | 29 (22%) | 5 (4%) |
-| Patients still on insulin at 1 year 7-12 months for the U.S. trial. | 7 (9%) | 1 (1%) | 24 (18%) | 4 (3%) |
+| Patients still on insulin at 1 year 7 to 12 months for the U.S. trial. | 7 (9%) | 1 (1%) | 24 (18%) | 4 (3%) |
 
 Less Frequently Reported Adverse Reactions (> 3% and < 15%) in Liver, Kidney, and Heart Transplant Studies: The following adverse reactions were reported in either liver, kidney, and/or heart transplant recipients who were treated with tacrolimus in clinical trials.
 
@@ -363,6 +363,9 @@ Less Frequently Reported Adverse Reactions (> 3% and < 15%) in Liver, Kidney, an
 - Musculoskeletal: Arthralgia, cramps, generalized spasm, leg cramps, myalgia, myasthenia, osteoporosis
 - Respiratory: Asthma, emphysema, hiccups, lung function decreased, pharyngitis, pneumonia, pneumothorax, pulmonary edema, rhinitis, sinusitis, voice alteration
 - Skin: Acne, alopecia, exfoliative dermatitis, fungal dermatitis, herpes simplex, herpes zoster, hirsutism, neoplasm skin benign, skin discoloration, skin ulcer, sweating
+
+Additional pediatric use information is approved for Astellas Pharma US, Inc.’s Prograf (tacrolimus) products.
+However, due to Astellas Pharma US, Inc.’s marketing exclusivity rights, this drug product is not labeled with that information.
 
 ## 6.2 Postmarketing Adverse Reactions
 
