@@ -64,14 +64,14 @@ How should I take MINOCIN capsules?
   Skipping doses may:
 
 - 
-  - 1.Decrease the effectiveness of the treatment
-  - 2.Increase the chance that bacteria will develop resistance to MINOCIN
-- 1.Take MINOCIN with a full glass of liquid.
+  - •Decrease the effectiveness of the treatment
+  - •Increase the chance that bacteria will develop resistance to MINOCIN
+- •Take MINOCIN with a full glass of liquid.
   Taking MINOCIN with enough liquid may lower your chance of getting irritation or ulcers in your esophagus.
   Your esophagus is the tube that connects your mouth to your stomach.
-- 2.MINOCIN capsules may be taken with or without food.
+- •MINOCIN capsules may be taken with or without food.
   If you forget to take MINOCIN, take it as soon as you remember.
-- 3.If you take too much MINOCIN, call your doctor or poison control center right away.
+- •If you take too much MINOCIN, call your doctor or poison control center right away.
 
 What are the possible side effects of MINOCIN?
 
