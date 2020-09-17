@@ -4,7 +4,7 @@
 
 Risk Summary
 
-This formulation of Vancomycin Injection, USP is not recommended for use during pregnancy because it contains the excipients, PEG 400 and NADA, which caused fetal malformations in animal reproduction studies (see Data).
+This formulation of Vancomycin Injection is not recommended for use during pregnancy because it contains the excipients, PEG 400 and NADA, which caused fetal malformations in animal reproduction studies (see Data).
 Advise pregnant women of the potential risk to the fetus.
 If therapy with vancomycin is needed during pregnancy, use other available formulations of vancomycin.
 
@@ -14,7 +14,7 @@ There are no available data on first trimester use of vancomycin, including vanc
 Vancomycin alone did not show adverse developmental effects when administered intravenously to pregnant rats and rabbits during organogenesis at doses less than or equal to the recommended maximum human dose based on body surface area.
 
 Reproduction studies in rabbits with intravenous doses of PEG 400 at approximately 5 times the maximum daily human dose based on body surface area comparisons administered during organogenesis resulted in fetal spinal malformations.
-Reproduction studies in rabbits and rats using intravenous doses of NADA at approximately 6 and 7 times the maximum daily human dose, respectively, based on body surface area comparisons resulted in maternal toxicity and fetal spinal and cardiovascular malformations in rabbits, and maternal toxicity with no significant adverse embryo-fetal effects in rats.
+Reproduction studies in rabbits and rats using intravenous doses of NADA at approximately 6 and 7 times the maximum daily human dose, respectively, based on body surface comparisons resulted in maternal toxicity and fetal spinal and cardiovascular malformations in rabbits, and maternal toxicity with no significant adverse embryo-fetal effects in rats.
 Vancomycin alone did not show adverse developmental effects when administered intravenously to pregnant rats and rabbits during organogenesis at doses less than or equal to the recommended maximum human dose based on body surface area (see Data).
 
 All pregnancies have a background risk of birth defect, loss, or other adverse outcomes.
@@ -45,11 +45,11 @@ Maternal toxicity was observed in rats (at doses 120 mg/kg and above) and rabbit
 Animal reproduction studies conducted in rabbits administered intravenous PEG 400 at 2000 mg/kg (approximately 5 times the maximum daily human dose, based on body surface comparisons) during organogenesis (gestation days 6 to 19) resulted in fetal scoliosis (thoracic and lumbar) and increased incidence of delayed or incomplete ossification of the pubes, epiphyses, and talus bones.
 No maternal toxicity was observed up to the maximum dose tested.
 
-Similarly, in animal reproduction studies conducted in pregnant rabbits (gestation days 6 to19) and pregnant rats (gestation days 6 to 17) administered intravenous NADA at 1680 and 3780 mg/kg, respectively (approximately 6 and 7 times the maximum daily human dose, respectively, based on body surface comparisons) resulted in fetal scoliosis and a spectrum of rare cardiovascular anomalies in rabbits and no adverse effects on fetuses in rats.
+Similarly, in animal reproduction studies conducted in pregnant rabbits (gestation days 6 to19) and pregnant rats (gestation days 6 to 17) administered intravenous NADA at 1680 and 3780 mg/kg, respectively (approximately 6 and 7 times the maximum daily human dose, respectively, based on body surface area comparisons) resulted in fetal scoliosis and a spectrum of rare cardiovascular anomalies in rabbits and no adverse effects on fetuses in rats.
 Increased incidence of delayed or incomplete ossifications of the metacarpals/metatarsals/phalanges and increased ossification (fused jugal/maxilla bones) were observed in rabbits at 1680 mg/kg.
 Minor fetal skeletal abnormalities were observed in rats at 3780 mg/kg which was also associated with maternal toxicity including increased incidence of litter loss.
 
-No animal studies have been conducted to evaluate the potential reproductive and embryo-fetal effects of Vancomycin Injection, USP.
+No animal studies have been conducted to evaluate the potential reproductive and embryo-fetal effects of Vancomycin Injection.
 
 ## 8.2 Lactation
 
@@ -67,8 +67,8 @@ Perform a pregnancy test in females of reproductive potential prior to prescribi
 
 ## 8.4 Pediatric Use
 
-Vancomycin Injection, USP is indicated in pediatric patients (1 month and older) [see Indications and Usage (1.1 to 1.5) and Dosage and Administration (2.2)].
-In pediatric patients, monitor vancomycin serum concentration and renal function when administering Vancomycin Injection, USP [see Dosage and Administration (2.2, 2.3) and Warnings and Precautions (5.3)].
+Vancomycin Injection is indicated in pediatric patients (1 month and older) [see Indications and Usage (1.1 to 1.5) and Dosage and Administration (2.2)].
+In pediatric patients, monitor vancomycin serum concentration and renal function when administering Vancomycin Injection [see Dosage and Administration (2.2, 2.3) and Warnings and Precautions (5.3)].
 More severe infusion related reactions related to vancomycin administration may occur in pediatric patients.
 Concomitant administration of vancomycin and intravenous anesthetic agents has been associated with erythema and histamine-like flushing in all patients including pediatric patients [see Warnings and Precautions (5.2)].
 

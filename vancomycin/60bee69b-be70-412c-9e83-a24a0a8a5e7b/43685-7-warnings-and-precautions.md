@@ -2,36 +2,36 @@
 
 ## 5.1 Risk of Embryo-Fetal Toxicity Due to PEG 400 and NADA Excipients
 
-This formulation of Vancomycin Injection, USP is not recommended during pregnancy because it contains the excipients PEG 400 and NADA, which caused fetal malformations in animal reproduction studies.
-The active ingredient vancomycin is not known to be associated with embryo-fetal toxicity [see BOXED WARNING, Warnings and Precautions (5.1) and Use in Specific Populations (8.1)].
+This formulation of Vancomycin Injection is not recommended during pregnancy because it contains the excipients PEG 400 and NADA, which caused fetal malformations in animal reproduction studies.
+The active ingredient vancomycin is not known to be associated with embryo-fetal toxicity [see Boxed Warning, Warnings and Precautions (5.1) and Use in Specific Populations (8.1)].
 
 Advise pregnant women of the potential risk to the fetus.
 If use of vancomycin is needed during pregnancy, use other available formulations of vancomycin.
 
 ## 5.2 Infusion Reactions
 
-Hypotension, including shock and cardiac arrest, wheezing, dyspnea, urticaria, muscular and chest pain may occur with rapid Vancomycin Injection, USP administration.
+Hypotension, including shock and cardiac arrest, wheezing, dyspnea, urticaria, muscular and chest pain may occur with rapid Vancomycin Injection administration.
 The reactions may be more severe in younger patients, particularly children, and in patients receiving concomitant muscle relaxant anesthetics.
 
-Rapid intravenous administration of Vancomycin Injection, USP may also be associated with "red man syndrome", which manifests as pruritus and erythema that involves the face, neck and upper torso.
+Rapid intravenous administration of Vancomycin Injection may also be associated with "red man syndrome", which manifests as pruritus and erythema that involves the face, neck and upper torso.
 
 Infusion-related adverse reactions are related to both the concentration and the rate of administration of vancomycin.
 Infusion-related adverse reactions may occur, however, at any rate or concentration.
 
-Administer Vancomycin Injection, USP over a period of 60 minutes or greater to reduce the risk of infusion-related adverse reactions.
+Administer Vancomycin Injection over a period of 60 minutes or greater to reduce the risk of infusion-related adverse reactions.
 In selected patients in need of fluid restriction, a concentration up to 10 mg/mL may be used; use of such higher concentrations may increase the risk of infusion-related adverse reactions.
 Administer prior to intravenous anesthetic agents when feasible.
 Stop the infusion if a reaction occurs.
 
 ## 5.3 Nephrotoxicity
 
-Vancomycin Injection, USP can result in acute kidney injury (AKI), including acute renal failure, mainly due to interstitial nephritis or less commonly acute tubular necrosis.
+Vancomycin Injection can result in acute kidney injury (AKI), including acute renal failure, mainly due to interstitial nephritis or less commonly acute tubular necrosis.
 AKI is manifested by increasing blood urea nitrogen (BUN) and serum creatinine (Cr).
 The risk of AKI increases with higher vancomycin serum levels, prolonged exposure, concomitant administration of other nephrotoxic drugs, concomitant administration of piperacillin-tazobactam [see Drug Interactions (7.2)], volume depletion, pre-existing renal impairment and in critically ill patients and patients with co-morbid conditions that predispose to renal impairment.
 
-Monitor serum vancomycin concentrations and renal function in all patients receiving Vancomycin Injection, USP.
+Monitor serum vancomycin concentrations and renal function in all patients receiving Vancomycin Injection.
 More frequent monitoring is recommended in patients with comorbidities that predispose to impairment in renal function or are concomitantly receiving other nephrotoxic drugs, in critically ill patients, in patients with changing renal function, and in patients requiring higher therapeutic vancomycin levels.
-If acute kidney injury occurs, discontinue Vancomycin Injection, USP or reduce the dose.
+If acute kidney injury occurs, discontinue Vancomycin Injection or reduce the dose.
 
 ## 5.4 Ototoxicity
 
@@ -41,13 +41,13 @@ Ototoxicity manifests as tinnitus, hearing loss, dizziness or vertigo.
 The risk is higher in older patients, patients who are receiving higher doses, who have an underlying hearing loss, who are receiving concomitant therapy with another ototoxic agent, such as an aminoglycoside or who have underlying renal impairment.
 Monitor for signs and symptoms of ototoxicity during therapy.
 Monitor serum vancomycin concentrations and renal function in all patients receiving parenteral vancomycin.
-Discontinue Vancomycin Injection, USP if ototoxicity occurs.
-Dosage of Vancomycin Injection, USP must be adjusted for patients with renal impairment [see Dosage and Administration (2.3)].
+Discontinue Vancomycin Injection if ototoxicity occurs.
+Dosage of Vancomycin Injection must be adjusted for patients with renal impairment [see Dosage and Administration (2.3)].
 Serial tests of auditory function may be helpful in order to minimize the risk of ototoxicity.
 
-## 5.5 Clostridium Difficile-Associated Diarrhea (CDAD)
+## 5.5 Clostridioides Difficile-Associated Diarrhea (CDAD)
 
-Clostridium difficile-associated diarrhea (CDAD) has been reported with use of nearly all antibacterial agents, including vancomycin and may range in severity from mild diarrhea to fatal colitis.
+Clostridioides difficile-associated diarrhea (CDAD) has been reported with use of nearly all antibacterial agents, including vancomycin and may range in severity from mild diarrhea to fatal colitis.
 Treatment with antibacterial agents alters the normal flora of the colon leading to overgrowth of C. difficile.
 
 C. difficile produces toxins A and B which contribute to the development of CDAD.
@@ -60,7 +60,7 @@ Appropriate fluid and electrolyte management, protein supplementation, antibacte
 
 Clinically significant serum concentrations have been reported in some patients being treated for active C. difficile-induced pseudomembranous colitis after multiple oral doses of vancomycin.
 
-Prolonged use of Vancomycin Injection, USP may result in the overgrowth of nonsusceptible microorganisms.
+Prolonged use of Vancomycin Injection may result in the overgrowth of nonsusceptible microorganisms.
 Careful observation of the patient is essential.
 If superinfection occurs during therapy, appropriate measures should be taken.
 In rare instances, there have been reports of pseudomembranous colitis due to C. difficile developing in patients who received intravenous vancomycin.
@@ -93,4 +93,4 @@ This syndrome appears to be resolved after discontinuation of intraperitoneal va
 
 ## 5.9 Development of Drug-Resistant Bacteria
 
-Prescribing Vancomycin Injection, USP in the absence of a proven or strongly suspected bacterial infection or a prophylactic indication is unlikely to provide benefit to the patient and increases the risk of the development of drug-resistant bacteria.
+Prescribing Vancomycin Injection in the absence of a proven or strongly suspected bacterial infection or a prophylactic indication is unlikely to provide benefit to the patient and increases the risk of the development of drug-resistant bacteria.

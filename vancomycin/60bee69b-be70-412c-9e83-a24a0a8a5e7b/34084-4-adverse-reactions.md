@@ -5,7 +5,7 @@ The following clinically significant adverse reactions are described elsewhere i
 - Infusion Reactions [see Warnings and Precautions (5.2)]
 - Nephrotoxicity [see Warnings and Precautions (5.3)]
 - Ototoxicity [see Warnings and Precautions (5.4)]
-- Clostridium Difficile-Associated Diarrhea [see Warnings and Precautions (5.5)]
+- Clostridioides Difficile-Associated Diarrhea [see Warnings and Precautions (5.5)]
 - Hemorrhagic Occlusive Retinal Vasculitis [see Warnings and Precautions (5.6)]
 - Neutropenia [see Warnings and Precautions (5.7)]
 
@@ -29,7 +29,7 @@ Gastrointestinal Disorders: Pseudomembranous colitis [see Warnings and Precautio
 
 Cardiac Disorders: Cardiac arrest, chest pain
 
-General Disorders and Administration Site Conditions: General discomfort, fever, chills, phlebitis, injection site irritation, injection site pain and necrosis following intramuscular injection, chemical peritonitis following intraperitoneal administration (Vancomycin Injection, USP is not approved for intramuscular and intraperitoneal administration) [see Warnings and Precautions (5.8)]
+General Disorders and Administration Site Conditions: General discomfort, fever, chills, phlebitis, injection site irritation, injection site pain and necrosis following intramuscular injection, chemical peritonitis following intraperitoneal administration (Vancomycin Injection is not approved for intramuscular and intraperitoneal administration) [see Warnings and Precautions (5.8)]
 
 Laboratory Abnormalities: Elevated blood urea nitrogen, elevated serum creatinine
 
