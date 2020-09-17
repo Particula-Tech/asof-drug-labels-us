@@ -1,22 +1,22 @@
 # INSTRUCTIONS FOR USE
 
-Dorzolamide Hydrochloride Ophthalmic Solution 2%
+Dorzolamide Hydrochloride (HCl) Ophthalmic Solution 2%
 
 Sterile
 
 1. 1.Wash hands before each use.
 2. 2.To open the bottle, remove the shrink neck band and unscrew the cap by turning counterclockwise.
-3. 
-4. 3.Tilt your head back and pull your lower eyelid down slightly to form a pocket between your eyelid and your eye.
-5. 
-6. 4.Invert the bottle, and instill drops as directed by your doctor.
-7. 
-8. 5.If your doctor has told you to use Dorzolamide HCl Ophthalmic Solution drops in both eyes, repeat Steps 3 and 4.
-9. 6.Replace cap on bottle and turn until closed.
+
+1. 3.Tilt your head back and pull your lower eyelid down slightly to form a pocket between your eyelid and your eye.
+
+1. 4.Invert the bottle, and instill drops as directed by your doctor.
+
+1. 5.If your doctor has told you to use Dorzolamide HCl Ophthalmic Solution drops in both eyes, repeat Steps 3 and 4.
+2. 6.Replace cap on bottle and turn until closed.
 
 How should I store Dorzolamide HCl Ophthalmic Solution?
 
-- •Store Dorzolamide HCl Ophthalmic Solution between 68°F - 77°F (20°C - 25°C).
+- •Store Dorzolamide HCl Ophthalmic Solution at 68° to 77°F (20° to 25°C).
 - •Protect from light.
 - •Safely throw away medicine that is out of date or no longer needed.
 
@@ -35,10 +35,24 @@ Important information about using Dorzolamide HCl Ophthalmic Solution
 
 This Instructions for Use has been approved by the U.S. Food and Drug Administration.
 
-Bausch + Lomb, a division of Valeant Pharmaceuticals North America LLC Bridgewater, NJ 08807 USA ©Bausch & Lomb Incorporated
+Distributed by:
 
-Revised: 07/2016
+Bausch + Lomb, a division of
 
-9633400 (15.5625 x 5” flat)
+Bausch Health US, LLC
 
-9633500 (1 x 5” folded)
+Bridgewater, NJ 08807 USA
+
+Manufactured by:
+
+Bausch & Lomb Incorporated
+
+Tampa, FL 33637 USA
+
+© 2020 Bausch & Lomb Incorporated or its affiliates
+
+Revised: 07/2020
+
+9633501 (folded)
+
+9633401 (flat)

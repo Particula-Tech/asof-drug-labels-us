@@ -4,7 +4,7 @@ Dorzolamide HCl Ophthalmic Solution is a carbonic anhydrase inhibitor formulated
 
 Dorzolamide hydrochloride, USP is described chemically as: (4S-trans)-4-(ethylamino)-5,6-dihydro-6-methyl-4H-thieno[2,3-b]thiopyran-2-sulfonamide 7,7-dioxide monohydrochloride.
 Dorzolamide hydrochloride is optically active.
-The specific rotation is
+The specific rotation is:
 
 α 25° (C=1, water) = ~ -17°.
 

@@ -33,10 +33,18 @@ Advise patients that if they develop any ocular reactions, particularly conjunct
 
 Instruct patients to avoid allowing the tip of the dispensing container to contact the eye or surrounding structures.
 
-Bausch + Lomb, a division of Valeant Pharmaceuticals North America LLC Bridgewater, NJ 08807 USA ©Bausch & Lomb Incorporated
+Distributed by:
 
-Revised: 07/2016
+Bausch + Lomb, a division of Bausch Health US, LLC Bridgewater, NJ 08807 USA
 
-9633400 (15.5625 x 5” flat)
+Manufactured by:
 
-9633500 (1 x 5” folded)
+Bausch & Lomb Incorporated
+
+Tampa, FL 33637 USA
+
+© 2020 Bausch & Lomb Incorporated or its affiliates
+
+9633501 (folded)
+
+9633401 (flat)
