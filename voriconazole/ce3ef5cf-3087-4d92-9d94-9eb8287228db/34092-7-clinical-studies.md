@@ -26,7 +26,7 @@ Treatment was then continued with OLAT, including itraconazole and lipid amphote
 Although initial therapy with conventional amphotericin B was to be continued for at least two weeks, actual duration of therapy was at the discretion of the investigator.
 Patients who discontinued initial randomized therapy due to toxicity or lack of efficacy were eligible to continue in the study with OLAT treatment.
 
-A satisfactory global response at 12 weeks (complete or partial resolution of all attributible symptoms, signs, radiographic/bronchoscopic abnormalities present at baseline) was seen in 53% of voriconazole treated patients compared to 32% of amphotericin B treated patients (Table 15).
+A satisfactory global response at 12 weeks (complete or partial resolution of all attributable symptoms, signs, radiographic/bronchoscopic abnormalities present at baseline) was seen in 53% of voriconazole treated patients compared to 32% of amphotericin B treated patients (Table 15).
 A benefit of voriconazole compared to amphotericin B on patient survival at Day 84 was seen with a 71% survival rate on voriconazole compared to 58% on amphotericin B (Table 13).
 
 Table 13 also summarizes the response (success) based on mycological confirmation and species.

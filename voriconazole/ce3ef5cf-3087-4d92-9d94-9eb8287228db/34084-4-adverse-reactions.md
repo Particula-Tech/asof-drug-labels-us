@@ -10,7 +10,7 @@ Infusion Related Reactions [see Warnings and Precautions (5.3)]
 
 Visual Disturbances [see Warnings and Precautions (5.4)]
 
-Serious Exfoliative Cutaneous Reactions [see Warnings and Precautions (5.5)]
+Severe Cutaneous Adverse Reactions [see Warnings and Precautions (5.5)]
 
 Photosensitivity [see Warnings and Precautions (5.6)]
 
@@ -97,7 +97,8 @@ Dermatological Reactions
 Dermatological reactions were common in patients treated with VFEND.
 The mechanism underlying these dermatologic adverse events remains unknown.
 
-Serious cutaneous reactions, including Stevens-Johnson syndrome, toxic epidermal necrolysis and erythema multiforme have been reported during treatment with VFEND [see Warnings and Precautions (5.5)].
+Severe cutaneous adverse reactions (SCARs), including Stevens-Johnson syndrome (SJS), toxic epidermal necrolysis (TEN), and drug reaction with eosinophilia and systemic symptoms (DRESS) have been reported during treatment with VFEND.
+Erythema multiforme has also been reported during treatment with VFEND [see Warnings and Precautions (5.5) and Adverse Reactions (6.2)].
 
 VFEND has also been associated with additional photosensitivity related skin reactions such as pseudoporphyria, cheilitis, and cutaneous lupus erythematosus [see Warnings and Precautions (5.6)].
 
@@ -236,7 +237,7 @@ Table 8: Treatment-Emergent Adverse Reactions Occurring in ≥5% of Pediatric Pa
 | Nervous System Disorders | Headache | 10 (10) |
 | Dizziness | 5 (5) |  |
 | Psychiatric Disorders | HallucinationsPooled reports include such terms as: hallucination; hallucination, auditory; hallucination, visual. Several patients had both visual and auditory hallucinations. | 5 (5) |
-| Renal and Urinary Disorders | Renal impairmentPooled reports include subch terms as: renal failure and a single patient with renal impairment. | 5 (5) |
+| Renal and Urinary Disorders | Renal impairmentPooled reports include such terms as: renal failure and a single patient with renal impairment. | 5 (5) |
 | Respiratory Disorders | Epistaxis | 17 (16) |
 | Cough | 10 (10) |  |
 | Dyspnea | 6 (6) |  |
@@ -316,6 +317,8 @@ Adults
 Skeletal: fluorosis and periostitis have been reported during long-term voriconazole therapy [see Warnings and Precautions (5.11)].
 
 Eye disorders: prolonged visual adverse reactions, including optic neuritis and papilledema [see Warnings and Precautions (5.4)].
+
+Skin and Appendages: drug reaction with eosinophilia and systemic symptoms (DRESS) has been reported [see Warnings and Precautions (5.5) and Adverse Reactions (6.1)].
 
 Pediatric Patients
 

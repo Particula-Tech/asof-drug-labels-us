@@ -31,9 +31,10 @@ Vfend® I.V.
 
 200 mg* 200 mg* of voriconazole
 
-Not made with natural rubber latex No Preservatives
+No Latex No Preservatives
 
-Sterile Single-Dose Vial – Discard Unused Portion For Intravenous Infusion Only
+Sterile Single Use Vial For I.V.
+Infusion Only
 
 Pfizer Injectables Rx only
 
@@ -46,9 +47,10 @@ NDC 0049-3190-28 Rx only
 
 200 mg* 200 mg* of voriconazole
 
-Not made with natural rubber latex No Preservatives
+No Latex No Preservatives
 
-Sterile Single-Dose Vial – Discard Unused Portion For Intravenous Infusion Only
+Sterile Single Use Vial For I.V.
+Infusion Only
 
 Pfizer Injectables
 
