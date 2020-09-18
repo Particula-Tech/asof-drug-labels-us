@@ -11,22 +11,22 @@ The most common adverse reactions resulting in dose reduction of ABRAXANE are ne
 The most common adverse reactions leading to withholding or delay in ABRAXANE dosing are neutropenia (41%), thrombocytopenia (30%), and anemia (16%).
 
 In a randomized open-label trial of ABRAXANE in combination with gemcitabine for pancreatic adenocarcinoma [see Clinical Studies (14.3)], the most common (≥ 20%) selected (with a ≥ 5% higher incidence) adverse reactions of ABRAXANE are neutropenia, fatigue, peripheral neuropathy, nausea, alopecia, peripheral edema, diarrhea, pyrexia, vomiting, decreased appetite, rash, and dehydration [see Adverse Reactions (6.1)].
-The most common serious adverse reactions of ABRAXANE (with a ≥ 1% higher incidence) are pyrexia (6%), dehydration (5%), pneumonia (4%) and vomiting (4%).
-The most common adverse reactions resulting in permanent discontinuation of ABRAXANE are peripheral neuropathy (8%), fatigue (4%) and thrombocytopenia (2%).
+The most common serious adverse reactions of ABRAXANE (with a ≥ 1% higher incidence) are pyrexia (6%), dehydration (5%), pneumonia (4%), and vomiting (4%).
+The most common adverse reactions resulting in permanent discontinuation of ABRAXANE are peripheral neuropathy (8%), fatigue (4%), and thrombocytopenia (2%).
 The most common adverse reactions resulting in dose reduction of ABRAXANE are neutropenia (10%) and peripheral neuropathy (6%).
-The most common adverse reactions leading to withholding or delay in ABRAXANE dosing are neutropenia (16%), thrombocytopenia (12%), fatigue (8%), peripheral neuropathy (15%), anemia (5%) and diarrhea (5%).
+The most common adverse reactions leading to withholding or delay in ABRAXANE dosing are neutropenia (16%), thrombocytopenia (12%), fatigue (8%), peripheral neuropathy (15%), anemia (5%), and diarrhea (5%).
 
 ## 6.1 Clinical Trials Experience
 
 Metastatic Breast Cancer
 
-Table 6 shows the frequency of important adverse events in the randomized comparative trial for the patients who received either single-agent ABRAXANE or paclitaxel injection for the treatment of metastatic breast cancer.
+Table 6 shows the frequency of important adverse reactions in the randomized comparative trial for the patients who received either single-agent ABRAXANE or paclitaxel injection for the treatment of metastatic breast cancer.
 
-Table 6: Frequencya of Important Treatment Emergent Adverse Events in the Randomized Metastatic Breast Cancer Study on an Every-3-Weeks Schedule
+Table 6: Adverse Reactions in the Randomized Metastatic Breast Cancer Study on an Every-3-Weeks Schedule
 
 |  | Percent of Patients |  |
 | --- | --- | --- |
-|  | ABRAXANE 260 mg/m2 over 30 min (n=229) | Paclitaxel Injection 175 mg/m2 over 3 hb (n=225) |
+|  | ABRAXANE 260 mg/m2 over 30 min (n=229) | Paclitaxel Injection 175 mg/m2 over 3 ha (n=225) |
 | Bone Marrow |  |  |
 | Neutropenia |  |  |
 | < 2.0 x 109/L | 80 | 82 |
@@ -41,14 +41,14 @@ Table 6: Frequencya of Important Treatment Emergent Adverse Events in the Random
 | Febrile Neutropenia | 2 | 1 |
 | Neutropenic Sepsis | <1 | <1 |
 | Bleeding | 2 | 2 |
-| Hypersensitivity Reactionc |  |  |
+| Hypersensitivity Reactionb |  |  |
 | All | 4 | 12 |
-| Severed | 0 | 2 |
+| Severec | 0 | 2 |
 | Cardiovascular |  |  |
 | Vital Sign Changes During Administration |  |  |
 | Bradycardia | <1 | <1 |
 | Hypotension | 5 | 5 |
-| Severe Cardiovascular Eventsd | 3 | 4 |
+| Severe Cardiovascular Eventsc | 3 | 4 |
 | Abnormal ECG |  |  |
 | All Patients | 60 | 52 |
 | Patients with Normal Baseline | 35 | 30 |
@@ -57,41 +57,40 @@ Table 6: Frequencya of Important Treatment Emergent Adverse Events in the Random
 | Dyspnea | 12 | 9 |
 | Sensory Neuropathy |  |  |
 | Any Symptoms | 71 | 56 |
-| Severe Symptomsd | 10 | 2 |
+| Severe Symptomsc | 10 | 2 |
 | Myalgia / Arthralgia |  |  |
 | Any Symptoms | 44 | 49 |
-| Severe Symptomsd | 8 | 4 |
+| Severe Symptomsc | 8 | 4 |
 | Asthenia |  |  |
 | Any Symptoms | 47 | 39 |
-| Severe Symptomsd | 8 | 3 |
+| Severe Symptomsc | 8 | 3 |
 | Fluid Retention/Edema |  |  |
 | Any Symptoms | 10 | 8 |
-| Severe Symptomsd | 0 | <1 |
+| Severe Symptomsc | 0 | <1 |
 | Gastrointestinal |  |  |
 | Nausea |  |  |
 | Any Symptoms | 30 | 22 |
-| Severe Symptomsd | 3 | <1 |
+| Severe Symptomsc | 3 | <1 |
 | Vomiting |  |  |
 | Any Symptoms | 18 | 10 |
-| Severe Symptomsd | 4 | 1 |
+| Severe Symptomsc | 4 | 1 |
 | Diarrhea |  |  |
 | Any Symptoms | 27 | 15 |
-| Severe Symptomsd | <1 | 1 |
+| Severe Symptomsc | <1 | 1 |
 | Mucositis |  |  |
 | Any Symptoms | 7 | 6 |
-| Severe Symptomsd | <1 | 0 |
+| Severe Symptomsc | <1 | 0 |
 | Alopecia | 90 | 94 |
 | Hepatic (Patients with Normal Baseline) |  |  |
 | Bilirubin Elevations | 7 | 7 |
 | Alkaline Phosphatase Elevations | 36 | 31 |
 | AST (SGOT) Elevations | 39 | 32 |
 | Injection Site Reaction | <1 | 1 |
-| a Based on worst grade by NCI Common Terminology Criteria for Adverse Events (CTCAE) version 2. |  |  |
-| b Paclitaxel injection patients received premedication. |  |  |
-| c Includes treatment-related events related to hypersensitivity (e.g., flushing, dyspnea, chest pain, hypotension) that began on a day of dosing. |  |  |
-| d Severe events are defined as at least grade 3 toxicity. |  |  |
+| a Paclitaxel injection patients received premedication. |  |  |
+| b Includes treatment-related events related to hypersensitivity (e.g., flushing, dyspnea, chest pain, hypotension) that began on a day of dosing. |  |  |
+| c Severe events are defined as at least Grade 3 toxicity. |  |  |
 
-Adverse Event Experiences by Body System
+Other Adverse Reactions
 
 Hematologic Disorders Neutropenia was dose dependent and reversible.
 Among patients with metastatic breast cancer in the randomized trial, neutrophil counts declined below 500 cells/mm3 (Grade 4) in 9% of the patients treated with a dose of 260 mg/m2 compared to 22% in patients receiving paclitaxel injection at a dose of 175 mg/m2.
@@ -148,6 +147,7 @@ Adverse reactions were assessed in 514 ABRAXANE/carboplatin-treated patients and
 ABRAXANE was administered as an intravenous infusion over 30 minutes at a dose of 100 mg/m2 on Days 1, 8, and 15 of each 21-day cycle.
 Paclitaxel injection was administered as an intravenous infusion over 3 hours at a dose of 200 mg/m2, following premedication.
 In both treatment arms carboplatin at a dose of AUC = 6 mg•min/mL was administered intravenously on Day 1 of each 21-day cycle after completion of ABRAXANE/paclitaxel infusion.
+
 The differences in paclitaxel dose and schedule between the two arms limit direct comparison of dose- and schedule-dependent adverse reactions.
 Among patients evaluable for adverse reactions, the median age was 60 years, 75% were men, 81% were White, 49% had adenocarcinoma, 43% had squamous cell lung cancer, 76% were ECOG PS 1.
 Patients in both treatment arms received a median of 6 cycles of treatment.
@@ -172,7 +172,7 @@ Table 8 provides the frequency and severity of adverse reactions, which occurred
 
 Table 8: Selected Adverse Reactions with a Difference of ≥5% for All Grade Toxicity or ≥2% for Grade 3-4 Toxicity Between Treatment Groups
 
-| System Organ Class | MedDRA v 12.1 Preferred Term | ABRAXANE (100 mg/m2 weekly) + carboplatin (N=514) |  | Paclitaxel Injection (200 mg/m2 every 3 weeks) + carboplatin (N=524) |  |
+| System Organ Class | Adverse Reaction | ABRAXANE (100 mg/m2 weekly) + carboplatin (N=514) |  | Paclitaxel Injection (200 mg/m2 every 3 weeks) + carboplatin (N=524) |  |
 | --- | --- | --- | --- | --- | --- |
 | Grade 1-4 Toxicity (%) | Grade 3-4 Toxicity (%) | Grades 1-4 Toxicity (%) | Grade 3-4 Toxicity (%) |  |  |
 | Nervous system disorders | Peripheral neuropathya | 48 | 3 | 64 | 12 |
@@ -243,7 +243,7 @@ Additional clinically relevant adverse reactions that were reported in < 10% of 
 
 Infections & infestations: oral candidiasis, pneumonia Vascular disorders: hypertension Cardiac disorders: tachycardia, congestive cardiac failure Eye disorders: cystoid macular edema
 
-Peripheral Neuropathy Grade 3 peripheral neuropathy occurred in 17% of patients who received ABRAXANE/gemcitabine compared to 1% of patients who received gemcitabine only; no patients developed grade 4 peripheral neuropathy.
+Peripheral Neuropathy Grade 3 peripheral neuropathy occurred in 17% of patients who received ABRAXANE/gemcitabine compared to 1% of patients who received gemcitabine only; no patients developed Grade 4 peripheral neuropathy.
 The median time to first occurrence of Grade 3 peripheral neuropathy in the ABRAXANE arm was 140 days.
 Upon suspension of ABRAXANE dosing, the median time to improvement from Grade 3 peripheral neuropathy to ≤ Grade 1 was 29 days.
 Of ABRAXANE-treated patients with Grade 3 peripheral neuropathy, 44% resumed ABRAXANE at a reduced dose.
@@ -257,50 +257,70 @@ Two of 17 patients in the ABRAXANE arm with pneumonitis died.
 
 ## 6.2 Postmarketing Experience
 
-Unless otherwise noted, the following discussion refers to the adverse reactions that have been identified during post-approval use of ABRAXANE.
+The following adverse reactions have been identified during postapproval use of ABRAXANE or with paclitaxel injection and may be expected to occur with ABRAXANE.
 Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
-In some instances, severe events observed with paclitaxel injection may be expected to occur with ABRAXANE.
 
-Hypersensitivity Reactions Severe and sometimes fatal hypersensitivity reactions have been reported with ABRAXANE.
-The use of ABRAXANE in patients previously exhibiting hypersensitivity to paclitaxel injection or human albumin has not been studied.
-In postmarketing experience, cross-hypersensitivity between ABRAXANE and other taxanes has been reported.
+Hypersensitivity Reactions
 
-Cardiovascular There have been reports of congestive heart failure, left ventricular dysfunction, and atrioventricular block with ABRAXANE.
-Most of the individuals were previously exposed to cardiotoxic drugs, such as anthracyclines, or had underlying cardiac history.
+Severe and sometimes fatal hypersensitivity reactions.
+Cross-hypersensitivity between ABRAXANE and other taxanes has been reported.
 
-Respiratory There have been reports of pneumonitis, interstitial pneumonia and pulmonary embolism in patients receiving ABRAXANE and reports of radiation pneumonitis in patients receiving concurrent radiotherapy.
-Reports of lung fibrosis have been received as part of the continuing surveillance of paclitaxel injection safety and may also be observed with ABRAXANE.
+Cardiovascular
 
-Neurologic Cranial nerve palsies and vocal cord paresis have been reported, as well as autonomic neuropathy resulting in paralytic ileus.
+Congestive heart failure, left ventricular dysfunction, and atrioventricular block.
+Most patients were previously exposed to cardiotoxic drugs, such as anthracyclines, or had underlying cardiac history.
 
-Vision Disorders Reports in the literature of abnormal visual evoked potentials in patients treated with paclitaxel injection suggest persistent optic nerve damage.
-These may also be observed with ABRAXANE.
+Respiratory
 
-Reduced visual acuity due to cystoid macular edema (CME) has been reported during treatment with ABRAXANE as well as with other taxanes.
-After cessation of treatment, CME improves and visual acuity may return to baseline.
+Pneumonitis, interstitial pneumonia, and pulmonary embolism
 
-Hepatic Reports of hepatic necrosis and hepatic encephalopathy leading to death have been received as part of the continuing surveillance of paclitaxel injection safety and may occur following ABRAXANE treatment.
+Radiation pneumonitis in patients receiving concurrent radiotherapy.
 
-Gastrointestinal (GI) There have been reports of intestinal obstruction, intestinal perforation, pancreatitis, and ischemic colitis following ABRAXANE treatment.
-There have been reports of neutropenic enterocolitis (typhlitis), despite the coadministration of G-CSF, occurring in patients treated with paclitaxel injection alone and in combination with other chemotherapeutic agents.
+Lung fibrosis has been reported with paclitaxel injection.
 
-Injection Site Reaction There have been reports of extravasation of ABRAXANE.
-Given the possibility of extravasation, it is advisable to monitor closely the ABRAXANE infusion site for possible infiltration during drug administration.
+Neurologic
 
-Severe events such as phlebitis, cellulitis, induration, necrosis, and fibrosis have been reported as part of the continuing surveillance of paclitaxel injection safety.
-In some cases, the onset of the injection site reaction in paclitaxel injection patients either occurred during a prolonged infusion or was delayed by a week to ten days.
-Recurrence of skin reactions at a site of previous extravasation following administration of paclitaxel injection at a different site, i.e., "recall", has been reported.
+Cranial nerve palsies and vocal cord paresis, as well as autonomic neuropathy resulting in paralytic ileus.
 
-Metabolic and Nutritional Disorders Tumor lysis syndrome has been reported with ABRAXANE.
+Vision Disorders
 
-Other Clinical Events Skin reactions including generalized or maculopapular rash, erythema, and pruritus have been observed with ABRAXANE.
-There have been case reports of photosensitivity reactions, radiation recall phenomenon, and in some patients previously exposed to capecitabine, reports of palmar-plantar erythrodysesthesia.
+Reduced visual acuity due to cystoid macular edema (CME).
+After cessation of treatment, CME may improve, and visual acuity may return to baseline.
+Abnormal visual evoked potentials in patients treated with paclitaxel injection suggest persistent optic nerve damage.
+
+Hepatic
+
+Hepatic necrosis and hepatic encephalopathy leading to death in patients treated with paclitaxel injection.
+
+Gastrointestinal (GI)
+
+Intestinal obstruction, intestinal perforation, pancreatitis, and ischemic colitis.
+In patients treated with paclitaxel injection, neutropenic enterocolitis (typhlitis) despite the coadministration of G-CSF, alone and in combination with other chemotherapeutic agents.
+
+Injection Site Reaction
+
+Extravasation.
+Closely monitor the ABRAXANE infusion site for possible infiltration during drug administration [see Dosage and Administration 2.1)].
+
+Severe events such as phlebitis, cellulitis, induration, necrosis, and fibrosis have been reported with paclitaxel injection.
+In some cases, the onset of the injection site reaction occurred during a prolonged infusion or was delayed up to ten days.
+Recurrence of skin reactions at a site of previous extravasation following administration of paclitaxel injection at a different site has been reported.
+
+Metabolic and Nutritional Disorders
+
+Tumor lysis syndrome
+
+Other Clinical Events
+
+Skin reactions including generalized or maculopapular rash, erythema, and pruritus
+
+Photosensitivity reactions, radiation recall phenomenon, scleroderma, and in some patients previously exposed to capecitabine, reports of palmar-plantar erythrodysesthesia.
 Stevens-Johnson syndrome and toxic epidermal necrolysis have been reported.
 
-There have been reports of conjunctivitis, cellulitis, and increased lacrimation with paclitaxel injection.
+Conjunctivitis, cellulitis, and increased lacrimation have been reported with paclitaxel injection.
 
 Accidental Exposure
 
-No reports of accidental exposure to ABRAXANE have been received.
-However, upon inhalation of paclitaxel, dyspnea, chest pain, burning eyes, sore throat, and nausea have been reported.
-Following topical exposure, events have included tingling, burning, and redness.
+Upon inhalation of paclitaxel, dyspnea, chest pain, burning eyes, sore throat, and nausea have been reported.
+
+Following topical exposure, tingling, burning, and redness have been reported.

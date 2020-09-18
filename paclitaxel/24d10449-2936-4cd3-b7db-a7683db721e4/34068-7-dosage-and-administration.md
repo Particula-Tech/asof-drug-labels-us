@@ -1,20 +1,31 @@
 # 2 DOSAGE AND ADMINISTRATION
 
-## 2.1 Recommended Dosage for Metastatic Breast Cancer
+## 2.1 Important Administration Instructions
+
+DO NOT SUBSTITUTE FOR OR WITH OTHER PACLITAXEL FORMULATIONS.
+ABRAXANE has different dosage and administration instructions from other paclitaxel products.
+
+Closely monitor the infusion site for extravasation or drug infiltration during administration.
+Limiting the infusion of ABRAXANE to 30 minutes may reduce the risk of infusion-related reactions [see Adverse Reactions (6.2)].
+
+Consider premedication in patients who have had prior hypersensitivity reactions to ABRAXANE.
+Do not re-challenge patients who experience a severe hypersensitivity reaction to ABRAXANE [see Contraindications (4) and Warnings and Precautions (5.5)].
+
+## 2.2 Recommended Dosage for Metastatic Breast Cancer
 
 After failure of combination chemotherapy for metastatic breast cancer or relapse within 6 months of adjuvant chemotherapy, the recommended regimen for ABRAXANE is 260 mg/m2 administered intravenously over 30 minutes every 3 weeks.
 
-## 2.2 Recommended Dosage for Non-Small Cell Lung Cancer
+## 2.3 Recommended Dosage for Non-Small Cell Lung Cancer
 
 The recommended dose of ABRAXANE is 100 mg/m2 administered as an intravenous infusion over 30 minutes on Days 1, 8, and 15 of each 21-day cycle.
 Administer carboplatin on Day 1 of each 21-day cycle immediately after ABRAXANE [see Clinical Studies (14.2)].
 
-## 2.3 Recommended Dosage for Adenocarcinoma of the Pancreas
+## 2.4 Recommended Dosage for Adenocarcinoma of the Pancreas
 
-The recommended dose of ABRAXANE is 125 mg/m2 administered as an intravenous infusion over 30-40 minutes on Days 1, 8 and 15 of each 28-day cycle.
-Administer gemcitabine immediately after ABRAXANE on Days 1, 8 and 15 of each 28-day cycle [see Clinical Studies (14.3)].
+The recommended dose of ABRAXANE is 125 mg/m2 administered as an intravenous infusion over 30-40 minutes on Days 1, 8, and 15 of each 28-day cycle.
+Administer gemcitabine immediately after ABRAXANE on Days 1, 8, and 15 of each 28-day cycle [see Clinical Studies (14.3)].
 
-## 2.4 Dosage Modifications for Hepatic Impairment
+## 2.5 Dosage Modifications for Hepatic Impairment
 
 For patients with moderate or severe hepatic impairment, reduce the starting dose of ABRAXANE as shown in Table 1.
 
@@ -31,7 +42,7 @@ Table 1: Recommendations for Starting Dose in Patients with Moderate and Severe 
 | b A dose increase to 260 mg/m2 for patients with metastatic breast cancer or 100 mg/m2 for patients with non-small cell lung cancer in subsequent courses should be considered if the patient tolerates the reduced dose for two cycles. |  |  |  |  |  |  |
 | c Patients with bilirubin levels above the upper limit of normal were excluded from clinical trials for pancreatic or lung cancer. |  |  |  |  |  |  |
 
-## 2.5 Dosage Modifications for Adverse Reactions
+## 2.6 Dosage Modifications for Adverse Reactions
 
 Metastatic Breast Cancer Patients who experience severe neutropenia (neutrophils less than 500 cells/mm3 for a week or longer) or severe sensory neuropathy during ABRAXANE therapy should have dosage reduced to 220 mg/m2 for subsequent courses of ABRAXANE.
 For recurrence of severe neutropenia or severe sensory neuropathy, additional dose reduction should be made to 180 mg/m2.
@@ -43,7 +54,7 @@ Non-Small Cell Lung Cancer
 - In patients who develop severe neutropenia or thrombocytopenia withhold treatment until counts recover to an absolute neutrophil count of at least 1500 cells/mm3 and platelet count of at least 100,000 cells/mm3 on Day 1 or to an absolute neutrophil count of at least 500 cells/mm3 and platelet count of at least 50,000 cells/mm3 on Days 8 or 15 of the cycle.
   Upon resumption of dosing, permanently reduce ABRAXANE and carboplatin doses as outlined in Table 2.
 - Withhold ABRAXANE for Grade 3-4 peripheral neuropathy.
-  Resume ABRAXANE and carboplatin at reduced doses (see Table 2) when peripheral neuropathy improves to Grade 1 or completely resolves [see Warnings and Precautions (5.2) and Adverse Reactions (6.11)].
+  Resume ABRAXANE and carboplatin at reduced doses (see Table 2) when peripheral neuropathy improves to Grade 1 or completely resolves [see Warnings and Precautions (5.2) and Adverse Reactions (6.1)].
 
 Table 2: Permanent Dose Reductions for Hematologic and Neurologic Adverse Reactions in NSCLC
 
@@ -98,25 +109,17 @@ Table 5: Dose Modifications for Other Adverse Reactions in Patients with Adenoca
 | Cutaneous Toxicity: Grade 2 or 3 | Reduce to next lower dose level; discontinue treatment if toxicity persists |  |  |
 | Gastrointestinal Toxicity: Grade 3 mucositis or diarrhea | Withhold until improves to ≤ Grade 1; resume at next lower dose level |  |  |
 
-## 2.6 Preparation and Administration Precautions
+## 2.7 Preparation for Intravenous Administration
 
 ABRAXANE is a cytotoxic drug.
 Follow applicable special handling and disposal procedures.1 The use of gloves is recommended.
 If ABRAXANE (lyophilized cake or reconstituted suspension) contacts the skin, wash the skin immediately and thoroughly with soap and water.
-Following topical exposure to paclitaxel, events may include tingling, burning and redness.
+Following topical exposure to paclitaxel, events may include tingling, burning, and redness.
 If ABRAXANE contacts mucous membranes, the membranes should be flushed thoroughly with water.
 
-Given the possibility of extravasation, it is advisable to closely monitor the infusion site for possible infiltration during drug administration.
-Limiting the infusion of ABRAXANE to 30 minutes, as directed, reduces the likelihood of infusion-related reactions [see Adverse Reactions (6.1)].
-
-Premedication to prevent hypersensitivity reactions is generally not needed prior to the administration of ABRAXANE.
-Premedication may be needed in patients who have had prior hypersensitivity reactions to ABRAXANE.
-Patients who experience a severe hypersensitivity reaction to ABRAXANE should not be re-challenged with this drug [see Warnings and Precautions (5.5)].
-
-## 2.7 Preparation for Intravenous Administration
-
 ABRAXANE is supplied as a sterile lyophilized powder for reconstitution before use.
-AVOID ERRORS, READ ENTIRE PREPARATION INSTRUCTIONS PRIOR TO RECONSTITUTION.
+
+Read the entire preparation instructions prior to reconstitution.
 
 | Aseptically, reconstitute each vial by injecting 20 mL of 0.9% Sodium Chloride Injection, USP.Slowly inject the 20 mL of 0.9% Sodium Chloride Injection, USP, over a minimum of 1 minute, using the sterile syringe to direct the solution flow onto the INSIDE WALL OF THE VIAL. DO NOT INJECT the 0.9% Sodium Chloride Injection, USP, directly onto the lyophilized cake as this will result in foaming. Once the injection is complete, allow the vial to sit for a minimum of 5 minutes to ensure proper wetting of the lyophilized cake/powder.Gently swirl and/or invert the vial slowly for at least 2 minutes until complete dissolution of any cake/powder occurs. Avoid generation of foam.If foaming or clumping occurs, stand solution for at least 15 minutes until foam subsides. |
 | --- |
@@ -132,10 +135,10 @@ Calculate the exact total dosing volume of 5 mg/mL suspension required for the p
 
 Inject the appropriate amount of reconstituted ABRAXANE into an empty, sterile intravenous bag [plasticized polyvinyl chloride (PVC) containers, PVC or non-PVC type intravenous bag].
 The use of specialized DEHP-free solution containers or administration sets is not necessary to prepare or administer ABRAXANE infusions.
-The use of medical devices containing silicone oil as a lubricant (ie, syringes and intravenous bags) to reconstitute and administer ABRAXANE may result in the formation of proteinaceous strands.
+The use of medical devices containing silicone oil as a lubricant (i.e., syringes and intravenous bags) to reconstitute and administer ABRAXANE may result in the formation of proteinaceous strands.
 
 Visually inspect the reconstituted ABRAXANE suspension in the intravenous bag prior to administration.
-Discard the reconstituted suspension if proteinaceous strands, particulate matter or discoloration are observed.
+Discard the reconstituted suspension if proteinaceous strands, particulate matter, or discoloration are observed.
 
 ## 2.8 Stability
 

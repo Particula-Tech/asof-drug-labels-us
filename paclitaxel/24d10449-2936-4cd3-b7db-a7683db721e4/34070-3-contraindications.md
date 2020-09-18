@@ -1,4 +1,6 @@
 # 4 CONTRAINDICATIONS
 
-- ABRAXANE should not be used in patients who have baseline neutrophil counts of < 1,500 cells/mm3.
-- Patients who experience a severe hypersensitivity reaction to ABRAXANE should not be rechallenged with the drug.
+ABRAXANE is contraindicated in patients with:
+
+- Baseline neutrophil counts of < 1,500 cells/mm3[see Warnings and Precautions (5.1)]
+- A history of severe hypersensitivity reactions to ABRAXANE [see Warnings and Precautions (5.5)]

@@ -8,7 +8,7 @@ Paclitaxel induces abnormal arrays or "bundles" of microtubules throughout the c
 
 ## 12.3 Pharmacokinetics
 
-The pharmacokinetics of total paclitaxel following 30 and 180-minute infusions of ABRAXANE at dose levels of 80 to 375 mg/m2 (0.31 to 1.15 times the maximum approved recommended dosage) were determined in clinical studies.
+The pharmacokinetics of total paclitaxel following 30- and 180-minute infusions of ABRAXANE at dose levels of 80 to 375 mg/m2 (0.31 to 1.15 times the maximum approved recommended dosage) were determined in clinical studies.
 Dose levels of mg/m2 refer to mg of paclitaxel in ABRAXANE.
 Following intravenous administration of ABRAXANE to patients with solid tumors, paclitaxel plasma concentrations declined in a biphasic manner, the initial rapid decline representing distribution to the peripheral compartment and the slower second phase representing drug elimination.
 
@@ -39,11 +39,11 @@ Fecal excretion was approximately 20% of the total dose administered.
 
 Specific Populations
 
-No clinically meaningful differences in the pharmacokinetics of paclitaxel in ABRAXANE were observed based on body weight (40 to 143 kg), body surface area (1.3 to 2.4 m2), sex, race (Asian vs. White), age (24 to 85 years), type of solid tumors, mild to moderate renal impairment (creatinine clearance 30 to <90 mL/min) and mild hepatic impairment (total bilirubin >1 to ≤1.5 x ULN and AST ≤10 x ULN).
+No clinically meaningful differences in the pharmacokinetics of paclitaxel in ABRAXANE were observed based on body weight (40 to 143 kg), body surface area (1.3 to 2.4 m2), sex, race (Asian vs. White), age (24 to 85 years), type of solid tumors, mild to moderate renal impairment (creatinine clearance 30 to <90 mL/min), and mild hepatic impairment (total bilirubin >1 to ≤1.5 x ULN and AST ≤10 x ULN).
 
-Patients with moderate (total bilirubin >1.5 to 3 x ULN and AST ≤10 x ULN) or severe (total bilirubin >3 to 5 x ULN) hepatic impairment had a 22% to 26% decrease in the maximum elimination rate of paclitaxel and approximately 20% increase in mean paclitaxel AUC compared with patients with normal hepatic function (total bilirubin ≤ULN and AST ≤ULN) [see Dosage and Administration (2.4) and Use in Specific Populations (8.7)].
+Patients with moderate (total bilirubin >1.5 to 3 x ULN and AST ≤10 x ULN) or severe (total bilirubin >3 to 5 x ULN) hepatic impairment had a 22% to 26% decrease in the maximum elimination rate of paclitaxel and approximately 20% increase in mean paclitaxel AUC compared with patients with normal hepatic function (total bilirubin ≤ULN and AST ≤ULN) [see Dosage and Administration (2.5) and Use in Specific Populations (8.7)].
 
-The effect of severe renal impairment or end stage renal disease (creatinine clearance < 30mL/min) on the pharmacokinetics of paclitaxel in ABRAXANE is unknown.
+The effect of severe renal impairment or end stage renal disease (creatinine clearance < 30 mL/min) on the pharmacokinetics of paclitaxel in ABRAXANE is unknown.
 
 Drug Interaction Studies Carboplatin: Administration of carboplatin immediately after the completion of the ABRAXANE infusion to patients with NSCLC did not cause clinically meaningful changes in paclitaxel exposure.
 The observed mean AUCinf of free carboplatin was approximately 23% higher than the targeted value (6 min*mg/mL), but its mean half-life and clearance were consistent with those reported in the absence of paclitaxel.
