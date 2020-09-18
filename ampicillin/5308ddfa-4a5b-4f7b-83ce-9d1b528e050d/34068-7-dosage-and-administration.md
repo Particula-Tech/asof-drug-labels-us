@@ -1,11 +1,11 @@
 # DOSAGE AND ADMINISTRATION
 
-This insert is for a Pharmacy Bulk Package and is intended for preparing IV admixtures only.
+This insert is for a Pharmacy Bulk Package and is intended for preparing intravenous admixtures only.
 Dosage recommendations for intramuscular or direct intravenous injection are for informational purposes only.
 
 Infections of the respiratory tract and soft tissues.
 
-Patients weighing 40 kg (88 lbs) or more: 250 to 500 mg every 6 hours.
+Patients weighing 40 kg (88 lbs) or more: 250 mg to 500 mg every 6 hours.
 
 Patients weighing less than 40 kg (88 lbs): 25 to 50 mg/kg/day in equally divided doses at 6- to 8- hour intervals.
 
@@ -39,9 +39,9 @@ Adults and children – 150 to 200 mg/kg/day in equally divided doses every 3 to
 (Treatment may be initiated with intravenous drip therapy and continued with intramuscular injections.)
 The doses for other infections may be given by either the intravenous or intramuscular route.
 
-Neonates (less than or equal to 28 days of postnatal age) – Dosage should be based on Gestational age and Postnatal age according to Table 3.
+Neonates (less than or equal to 28 days of postnatal age) – Dosage should be based on Gestational age and Postnatal age according to Table 1.
 
-1. Table 3 Dosage in Neonates (less than or equal to 28 days of postnatal age) for Bacterial Meningitis and Septicemia
+Table 1: Dosage in Neonates (less than or equal to 28 days of postnatal age) for Bacterial Meningitis and Septicemia
 
 | Gestational age (weeks) | Postnatal age (days) | Dosage |
 | --- | --- | --- |
@@ -49,12 +49,12 @@ Neonates (less than or equal to 28 days of postnatal age) – Dosage should be b
 | less than or equal to 34greater than 34 | greater than or equal to 8 and less than 28 | 150 mg/kg/day in equally divided doses every 12 hours |
 | greater than 34 | less than or equal to 28 | 150 mg/kg/day in equally divided doses every 8 hours |
 
-## Septicemia
+Septicemia
 
 Adults and children – 150 to 200 mg/kg/day.
 Start with intravenous administration for at least three days and continue with the intramuscular route every 3 to 4 hours.
 
-Neonates (less than or equal to 28 days of postnatal age) – Dosage should be based on Gestational age and Postnatal age according to Table 3 (above).
+Neonates (less than or equal to 28 days of postnatal age) – Dosage should be based on Gestational age and Postnatal age according to Table 1 (above).
 
 Treatment of all infections should be continued for a minimum of 48 to 72 hours beyond the time that the patient becomes asymptomatic or evidence of bacterial eradication has been obtained.
 A minimum of 10 days treatment is recommended for any infection caused by Group A beta-hemolytic streptococci to help prevent the occurrence of acute rheumatic fever or acute glomerulonephritis.
@@ -87,14 +87,14 @@ Stability studies on ampicillin sodium at several concentrations in various intr
 | 5% Dextrose Injection USP | up to 20 mg/mL | 1 hour |
 | 5% Dextrose and 0.45% NaCl Injection USP | up to 10 mg/mL | 1 hour |
 
-Only those solutions listed above should be used for the intravenous infusion of Ampicillin for Injection, USP.
+Only those solutions listed above should be used for the intravenous infusion of ampicillin for injection, USP.
 The concentrations should fall within the range specified.
 The drug concentration and the rate and volume of the infusion should be adjusted so that the total dose of ampicillin is administered before the drug loses its stability in the solution in use.
 
 ## Directions for Proper Use of Pharmacy Bulk Package
 
 This Pharmacy Bulk Package glass bottle contains ampicillin sodium equivalent to 10 grams of ampicillin.
-It is designed for use in the pharmacy in preparing IV admixtures using aseptic technique in a laminar flow hood.
+It is designed for use in the pharmacy in preparing intravenous admixtures using aseptic technique in a laminar flow hood.
 
 a) Add 94 mL Sterile Water for Injection USP.
 The resulting solution will contain 100 milligrams ampicillin activity per mL, and is stable up to ONE hour at room temperature.
@@ -109,7 +109,7 @@ c) Using aseptic technique under a laminar flow hood, the closure should be pene
 Use of a syringe and needle is not recommended as it may cause leakage.
 
 d) After entry, use entire contents of bottle promptly.
-The entire contents of the Pharmacy Bulk Package bottle must be dispensed within ONE hour of reconstitution.
+The entire contents of the Pharmacy Bulk Package must be dispensed within ONE hour of reconstitution.
 This time limit should begin with the introduction of solvent or diluent into the Pharmacy Bulk Package.
 
 Use of this product is restricted to a suitable work area, such as a laminar flow hood.

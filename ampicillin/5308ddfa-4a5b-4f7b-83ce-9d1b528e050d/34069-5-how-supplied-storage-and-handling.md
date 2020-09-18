@@ -9,3 +9,19 @@ NDC 0781-9409-95 10 gram Pharmacy Bulk Package – Packaged in 10s
 Store at 20° to 25°C (68° to 77°F) [see USP Controlled Room Temperature].
 
 Protect the constituted solution from freezing.
+
+Clinitest is a registered trademark of Miles, Inc.
+
+Clinistix is a registered trademark of Bayer Corporation.
+
+Tes-Tape is a registered trademark of Eli Lilly Company.
+
+Novaplus is a registered trademark of Vizient, Inc.
+
+Manufactured by Sandoz GmbH for
+
+Sandoz Inc., Princeton, NJ 08540
+
+Revised: August 2020
+
+46275236

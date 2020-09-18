@@ -34,14 +34,14 @@ In most cases, the rash is maculopapular, pruritic, and generalized.
 Therefore, the administration of ampicillin is not recommended in patients with mononucleosis.
 It is not known whether these patients are truly allergic to ampicillin.
 
-Prescribing Ampicillin in the absence of a proven or strongly suspected bacterial infection or a prophylactic indication is unlikely to provide benefit to the patient and increases the risk of the development of drug-resistant bacteria.
+Prescribing ampicillin in the absence of a proven or strongly suspected bacterial infection or a prophylactic indication is unlikely to provide benefit to the patient and increases the risk of the development of drug-resistant bacteria.
 
 ## Information for Patients
 
-Patients should be counseled that antibacterial drugs including Ampicillin for Injection, USP should only be used to treat bacterial infections.
+Patients should be counseled that antibacterial drugs including ampicillin should only be used to treat bacterial infections.
 They do not treat viral infections (e.g., the common cold).
-When Ampicillin is prescribed to treat a bacterial infection, patients should be told that although it is common to feel better early in the course of therapy, the medication should be taken exactly as directed.
-Skipping doses or not completing the full course of therapy may: (1) decrease the effectiveness of the immediate treatment, and (2) increase the likelihood that bacteria will develop resistance and will not be treatable by Ampicillin or other antibacterial drugs in the future.
+When ampicillin is prescribed to treat a bacterial infection, patients should be told that although it is common to feel better early in the course of therapy, the medication should be taken exactly as directed.
+Skipping doses or not completing the full course of therapy may: (1) decrease the effectiveness of the immediate treatment, and (2) increase the likelihood that bacteria will develop resistance and will not be treatable by ampicillin or other antibacterial drugs in the future.
 
 Diarrhea is a common problem caused by antibiotics which usually ends when the antibiotic is discontinued.
 Sometimes after starting treatment with antibiotics, patients can develop watery and bloody stools (with or without stomach cramps and fever) even as late as two or more months after having taken the last dose of the antibiotic.
@@ -68,7 +68,7 @@ Therefore, it is recommended that glucose tests based on enzymatic glucose oxida
 
 No long-term animal studies have been conducted with this drug.
 
-## Pregnancy Category B
+## Pregnancy
 
 Reproduction studies have been performed in laboratory animals at doses several times the human dose and have revealed no evidence of adverse effects due to ampicillin.
 There are, however, no adequate and well-controlled studies in pregnant women.
