@@ -4,7 +4,6 @@
 
 Verapamil has a negative inotropic effect, which in most patients is compensated by its afterload reduction (decreased systemic vascular resistance) properties without a net impairment of ventricular performance.
 In clinical experience with 4,954 patients, 87 (1.8%) developed congestive heart failure or pulmonary edema.
-
 Verapamil should be avoided in patients with severe left ventricular dysfunction (eg, ejection fraction less than 30%) or moderate to severe symptoms of cardiac failure and in patients with any degree of ventricular dysfunction if they are receiving a beta-adrenergic blocker (see PRECAUTIONS, Drug interactions).
 Patients with milder ventricular dysfunction should, if possible, be controlled with optimum doses of digitalis and/or diuretics before verapamil treatment.
 (Note interactions with digoxin under PRECAUTIONS)
@@ -93,7 +92,7 @@ Avoid co-administration of verapamil and ivabradine.
 ### Beta-blockers
 
 Concomitant therapy with beta-adrenergic blockers and verapamil may result in additive negative effects on heart rate, atrioventricular conduction and/or cardiac contractility.
-The combination of sustained-release verapamil and beta-adrenergic blocking agents has not been studied.
+The combination of extended-release verapamil and beta-adrenergic blocking agents has not been studied.
 However, there have been reports of excessive bradycardia and AV block, including complete heart block, when the combination has been used for the treatment of hypertension.
 For hypertensive patients, the risks of combined therapy may outweigh the potential benefits.
 The combination should be used only with caution and close monitoring.

@@ -1,6 +1,6 @@
 # CONTRAINDICATIONS
 
-Verapamil HCl caplets are contraindicated in:
+Verapamil HCl extended-release tablets are contraindicated in:
 
 1. Severe left ventricular dysfunction (see WARNINGS)
 2. Hypotension (systolic pressure less than 90 mm Hg) or cardiogenic shock

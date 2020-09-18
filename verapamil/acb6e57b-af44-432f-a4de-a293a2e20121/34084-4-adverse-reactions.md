@@ -12,9 +12,8 @@ The following reactions to orally administered verapamil occurred at rates great
 | Hypotension | 2.5% | AV block |  |
 | Headache | 2.2% | (total 1°, 2°, 3°) | 1.2% |
 | Edema | 1.9% | (2° and 3°) | 0.8% |
-| CHF, Pulmonary |  | Rash | 1.2% |
-| edema | 1.8% | Flushing | 0.6% |
-| Fatigue | 1.7% |  |  |
+| CHF, Pulmonary edema | 1.8% | Rash | 1.2% |
+| Fatigue | 1.7% | Flushing | 0.6% |
 
 Elevated liver enzymes (see WARNINGS)
 
@@ -35,3 +34,11 @@ Skin: arthralgia and rash, exanthema, hair loss, hyperkeratosis, macules, sweati
 Special senses: blurred vision, tinnitus.
 
 Urogenital: gynecomastia, galactorrhea/hyperprolactinemia, increased urination, spotty menstruation, impotence.
+
+## Treatment of acute cardiovascular adverse reactions
+
+The frequency of cardiovascular adverse reactions that require therapy is rare; hence, experience with their treatment is limited.
+Whenever severe hypotension or complete AV block occurs following oral administration of verapamil, the appropriate emergency measures should be applied immediately; eg, intravenously administered norepinephrine bitartrate, atropine sulfate, isoproterenol HCl (all in the usual doses), or calcium gluconate (10% solution).
+In patients with hypertrophic cardiomyopathy (IHSS), alpha-adrenergic agents (phenylephrine HCl, metaraminol bitartrate, or methoxamine HCl) should be used to maintain blood pressure, and isoproterenol and norepinephrine should be avoided.
+If further support is necessary, dopamine HCl or dobutamine HCl may be administered.
+Actual treatment and dosage should depend on the severity of the clinical situation and the judgment and experience of the treating physician.

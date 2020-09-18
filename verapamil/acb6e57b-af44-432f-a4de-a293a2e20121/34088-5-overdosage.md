@@ -4,10 +4,10 @@ Overdose with verapamil may lead to pronounced hypotension, bradycardia, and con
 Other symptoms secondary to hypoperfusion (eg, metabolic acidosis, hyperglycemia, hyperkalemia, renal dysfunction, and convulsions) may be evident.
 
 Treat all verapamil overdoses as serious and maintain observation for at least 48 hours (especially CALAN SR), preferably under continuous hospital care.
-Delayed pharmacodynamic consequences may occur with the sustained-release formulation.
+Delayed pharmacodynamic consequences may occur with the extended-release formulation.
 Verapamil is known to decrease gastrointestinal transit time.
 
-In overdose, caplets of CALAN SR have occasionally been reported to form concretions within the stomach or intestines.
+In overdose, extended-release tablets of CALAN SR have occasionally been reported to form concretions within the stomach or intestines.
 These concretions have not been visible on plain radiographs of the abdomen, and no medical means of gastrointestinal emptying is of proven efficacy in removing them.
 Endoscopy might reasonably be considered in cases of massive overdose when symptoms are unusually prolonged.
 

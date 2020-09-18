@@ -3,7 +3,7 @@
 ## Essential hypertension
 
 The dose of CALAN SR should be individualized by titration and the drug should be administered with food.
-Initiate therapy with 180 mg of sustained-release verapamil HCl, CALAN SR, given in the morning.
+Initiate therapy with 180 mg of extended-release verapamil HCl, CALAN SR, given in the morning.
 Lower initial doses of 120 mg a day may be warranted in patients who may have an increased response to verapamil (eg, the elderly or small people).
 Upward titration should be based on therapeutic efficacy and safety evaluated weekly and approximately 24 hours after the previous dose.
 The antihypertensive effects of CALAN SR are evident within the first week of therapy.
