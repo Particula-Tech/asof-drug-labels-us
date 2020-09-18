@@ -39,7 +39,7 @@ Also contains a mixture of propylene glycol and phosphatidylcholine derived from
 
 60 mL bottle Rx only
 
-# PRINCIPAL DISPLAY PANEL - 1 mg/mL Oral Solution Bottle Carton Kit
+# PRINCIPAL DISPLAY PANEL - 60 mL Kit Carton
 
 ALWAYS DISPENSE WITH MEDICATION GUIDE
 
