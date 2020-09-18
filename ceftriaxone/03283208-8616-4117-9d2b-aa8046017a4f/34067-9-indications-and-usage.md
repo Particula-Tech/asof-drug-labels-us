@@ -19,7 +19,7 @@ Caused by Streptococcus pneumoniae, Haemophilus influenzae (including beta-lacta
 
 NOTE: In one study lower clinical cure rates were observed with a single dose of ceftriaxone compared to 10 days of oral therapy.
 In a second study comparable cure rates were observed between single dose ceftriaxone and the comparator.
-The potentially lower clinical cure rate of ceftriaxone should be balanced against the potential advantages of parenteral therapy (see Clinical Studies).
+The potentially lower clinical cure rate of ceftriaxone should be balanced against the potential advantages of parenteral therapy (see CLINICAL STUDIES).
 
 ## Skin and Skin Structure Infections
 

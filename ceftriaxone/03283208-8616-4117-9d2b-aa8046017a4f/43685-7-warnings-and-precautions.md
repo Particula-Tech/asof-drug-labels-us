@@ -16,7 +16,7 @@ Do not use diluents containing calcium, such as Ringerâ€™s solution or Hartmannâ
 Precipitation of ceftriaxone-calcium can also occur when ceftriaxone is mixed with calcium-containing solutions in the same IV administration line.
 Ceftriaxone must not be administered simultaneously with calcium-containing IV solutions, including continuous calcium-containing infusions such as parenteral nutrition via a Y-site.
 However, in patients other than neonates, ceftriaxone and calcium-containing solutions may be administered sequentially of one another if the infusion lines are thoroughly flushed between infusions with a compatible fluid.
-In vitro studies using adult and neonatal plasma from umbilical cord blood demonstrated that neonates have an increased risk of precipitation of ceftriaxone-calcium (see Clinical Pharmacology, Contraindications and Dosage and Administration).
+In vitro studies using adult and neonatal plasma from umbilical cord blood demonstrated that neonates have an increased risk of precipitation of ceftriaxone-calcium (see CLINICAL PHARMACOLOGY, CONTRAINDICATIONS and DOSAGE AND ADMINISTRATION).
 
 ## Clostridium difficile-Associated Diarrhea
 
@@ -48,7 +48,7 @@ If superinfection occurs during therapy, appropriate measures should be taken.
 
 Patients with Renal or Hepatic Impairment
 
-Ceftriaxone is excreted via both biliary and renal excretion (see Clinical Pharmacology).
+Ceftriaxone is excreted via both biliary and renal excretion (see CLINICAL PHARMACOLOGY).
 Therefore, patients with renal failure normally require no adjustment in dosage when usual doses of ceftriaxone are administered.
 
 Dosage adjustments should not be necessary in patients with hepatic dysfunction; however, in patients with both hepatic dysfunction and significant renal disease, caution should be exercised and the ceftriaxone dosage should not exceed 2 g daily.
@@ -64,7 +64,7 @@ Monitor prothrombin time during ceftriaxone treatment in patients with impaired 
 Vitamin K administration (10 mg weekly) may be necessary if the prothrombin time is prolonged before or during therapy.
 
 Concomitant use of ceftriaxone with Vitamin K antagonists may increase the risk of bleeding.
-Coagulation parameters should be monitored frequently, and the dose of the anticoagulant adjusted accordingly, both during and after treatment with ceftriaxone (see Adverse Reactions).
+Coagulation parameters should be monitored frequently, and the dose of the anticoagulant adjusted accordingly, both during and after treatment with ceftriaxone (see ADVERSE REACTIONS).
 
 Gallbladder Pseudolithiasis
 
@@ -120,8 +120,6 @@ Ceftriaxone produced no impairment of fertility when given intravenously to rats
 
 ### Teratogenic Effects
 
-#### Pregnancy Category B
-
 Reproductive studies have been performed in mice and rats at doses up to 20 times the usual human dose and have no evidence of embryotoxicity, fetotoxicity or teratogenicity.
 In primates, no embryotoxicity or teratogenicity was demonstrated at a dose approximately 3 times the human dose.
 
@@ -139,16 +137,16 @@ Caution should be exercised when ceftriaxone is administered to a nursing woman.
 
 ## Pediatric Use
 
-Safety and effectiveness of ceftriaxone in neonates, infants and pediatric patients have been established for the dosages described in the DOSAGE and ADMINISTRATION section.
+Safety and effectiveness of ceftriaxone in neonates, infants and pediatric patients have been established for the dosages described in the DOSAGE AND ADMINISTRATION section.
 In vitro studies have shown that ceftriaxone, like some other cephalosporins, can displace bilirubin from serum albumin.
-Ceftriaxone should not be administered to hyperbilirubinemic neonates, especially prematures (see Contraindications).
+Ceftriaxone should not be administered to hyperbilirubinemic neonates, especially prematures (see CONTRAINDICATIONS).
 
 ## Geriatric Use
 
 Of the total number of subjects in clinical studies of ceftriaxone, 32% were 60 and over.
 No overall differences in safety or effectiveness were observed between these subjects and younger subjects, and other reported clinical experience has not identified differences in responses between the elderly and younger patients, but greater sensitivity of some older individuals cannot be ruled out.
 
-The pharmacokinetics of ceftriaxone were only minimally altered in geriatric patients compared to healthy adult subjects and dosage adjustments are not necessary for geriatric patients with ceftriaxone dosages up to 2 grams per day provided there is no severe renal and hepatic impairment (see Clinical Pharmacology).
+The pharmacokinetics of ceftriaxone were only minimally altered in geriatric patients compared to healthy adult subjects and dosage adjustments are not necessary for geriatric patients with ceftriaxone dosages up to 2 grams per day provided there is no severe renal and hepatic impairment (see CLINICAL PHARMACOLOGY).
 
 ## Influence on Diagnostic Tests
 
