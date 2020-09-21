@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "ANDA212239"
+  ],
+  "inn": "itraconazole",
+  "labeler": "Camber Pharmaceuticals, Inc.",
+  "package_ndcs": [
+    "31722-006-31"
+  ],
+  "products": [
+    {
+      "form": "SOLUTION",
+      "generic": "itraconazole",
+      "name": "Itraconazole"
+    }
+  ],
+  "setid": "5af0b33d-bfa6-420b-86f0-067f95b402b2",
+  "source": "dailymed"
+}
