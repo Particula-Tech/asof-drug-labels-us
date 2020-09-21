@@ -20,12 +20,14 @@ When to Seek Physician Advice
 
 Advise patients that if they develop an intercurrent ocular condition (e.g., trauma or infection) or have ocular surgery, or develop any ocular reactions, particularly conjunctivitis and eyelid reactions, they should immediately seek their physician's advice concerning the continued use of the multiple-dose container.
 
-Use with Contact Lenses
-
-Advise patients that XALATAN contains benzalkonium chloride, which may be absorbed by contact lenses.
+Contact Lens UseAdvise patients that XALATAN contains benzalkonium chloride, which may be absorbed by contact lenses.
 Contact lenses should be removed prior to administration of the solution.
 Lenses may be reinserted 15 minutes following administration of XALATAN.
 
 Use with Other Ophthalmic Drugs
 
-If more than one topical ophthalmic drug is being used, the drugs should be administered at least five (5) minutes apart.
+Advise patients that if more than one topical ophthalmic drug is being used, the drugs should be administered at least five (5) minutes apart.
+
+If a Dose is Missed
+
+Advise patients that if one dose is missed, treatment should continue with the next dose as normal.
