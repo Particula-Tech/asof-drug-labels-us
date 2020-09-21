@@ -1,6 +1,6 @@
 # 1 INDICATIONS AND USAGE
 
-ZEGERID® for oral suspension and ZEGERID capsules are indicated in adults for the:
+ZEGERID for oral suspension and ZEGERID capsules are indicated in adults for the:
 
 - •short-term treatment of active duodenal ulcer.
   Most patients heal within four weeks.

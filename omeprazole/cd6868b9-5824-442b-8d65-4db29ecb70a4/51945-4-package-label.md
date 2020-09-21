@@ -1,50 +1,54 @@
-# PACKAGE/LABEL PRINCIPAL DISPLAY PANEL- 20 mg sachet
+# PACKAGE/LABEL PRINCIPAL DISPLAY PANEL – 20mg sachet
+
+NDC 68012-052-30
+
+RX Only
 
 Zegerid®
 
-omeprazole/sodium bicarbonate
+(omeprazole/sodium bicarbonate)
 
-Powder for Oral Suspension
-
-20 mg/1680 mg
-
-NDC 68012-052-30
+For Oral Suspension
 
 Contains 30 single
 
 20-mg dose packets
 
-Rx only
+20 mg/1,680 mg
 
-Dispense with
+PHARMACIST: Dispense the enclosed
 
-enclosed
+Medication Guide to each patient.
 
-Medication guide
+For more information, call 1-800-321-4576.
+
+Salix PHARMACEUTICALS
 
 # Package/Label Display Panel- 40 mg sachet
 
+NDC 68012-054-30
+
+RX Only
+
 Zegerid®
 
-omeprazole/sodium bicarbonate
+(omeprazole/sodium bicarbonate)
 
-Powder for Oral Suspension
-
-NDC 68012-054-30
+For Oral Suspension
 
 Contains 30 single
 
-40-mgdose packets
+40-mg dose packets
 
-Rx only
+40 mg/1,680 mg
 
-Dispense with
+PHARMACIST: Dispense the enclosed
 
-enclosed
+Medication Guide to each patient.
 
-medication guide
+For more information, call 1-800-321-4576.
 
-40mg/1680mg
+Salix PHARMACEUTICALS
 
 # Package/Label Display Panel – 20 mg capsules
 

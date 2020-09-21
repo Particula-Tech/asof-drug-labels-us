@@ -20,7 +20,8 @@ ZEGERID can cause serious side effects, including:
   Long-term use of bicarbonate with calcium or milk can cause a condition called “milk-alkali syndrome”.
   Long-term use of sodium bicarbonate can cause a condition called “systemic alkalosis”.
   Talk to your doctor about any questions you may have.Too much sodium can cause swelling and weight gain.
-  Tell your doctor if you are on a low-sodium diet or if you have Bartter’s Syndrome (a rare kidney disorder).Tell your doctor right away if you have confusion, shaking hands, dizziness, muscle twitching, nausea, vomiting, and numbness or tingling in the face, arms, or legs.
+  Tell your doctor if you are on a low-sodium diet or if you have Bartter’s Syndrome (a rare kidney disorder).
+  Tell your doctor right away if you have confusion, shaking hands, dizziness, muscle twitching, nausea, vomiting, and numbness or tingling in the face, arms, or legs.
 - •Diarrhea caused by an infection (Clostridium difficile) in your intestines.
   Call your doctor right away if you have watery stools or stomach pain that does not go away.
   You may or may not have a fever.
@@ -31,7 +32,8 @@ ZEGERID can cause serious side effects, including:
   Lupus erythematosus is an autoimmune disorder (the body’s immune cells attack other cells or organs in the body).
   Some people who take PPI medicines, including ZEGERID, may develop certain types of lupus erythematosus or have worsening of the lupus they already have.
   Call your doctor right away if you have new or worsening joint pain or a rash on your cheeks or arms that gets worse in the sun.
-- Talk to your doctor about your risk of these serious side effects.
+
+Talk to your doctor about your risk of these serious side effects.
 
 ZEGERID can have other serious side effects.
 See “What are the possible side effects of ZEGERID?”
@@ -40,14 +42,15 @@ What is ZEGERID?
 
 A prescription medicine called a proton pump inhibitor (PPI) used to reduce the amount of acid in your stomach.
 
-1. ZEGERID for oral suspension and ZEGERID capsules is used in adults for:
-2. •up to 8 weeks for the healing of duodenal ulcers.
-3. •up to 8 weeks for the healing of stomach ulcers.
-4. •up to 4 weeks to treat heartburn and other symptoms that happen with gastroesophageal reflux disease (GERD).
-5. •up to 8 weeks for the healing and symptom relief of acid-related damage to the lining of the esophagus (called erosive esophagitis or EE).
-   Your doctor may prescribe another 4 weeks of ZEGERID in patients whose EE does not heal.
-6. •maintaining healing of EE and to help prevent the return of heartburn symptoms caused by GERD.
-   It is not known if ZEGERID is safe and effective when used for longer than 12 months for this purpose.
+ZEGERID for oral suspension and ZEGERID capsules is used in adults for:
+
+- •up to 8 weeks for the healing of duodenal ulcers.
+- •up to 8 weeks for the healing of stomach ulcers.
+- •up to 4 weeks to treat heartburn and other symptoms that happen with gastroesophageal reflux disease (GERD).
+- •up to 8 weeks for the healing and symptom relief of acid-related damage to the lining of the esophagus (called erosive esophagitis or EE).
+  Your doctor may prescribe another 4 weeks of ZEGERID in patients whose EE does not heal.
+- •maintaining healing of EE and to help prevent the return of heartburn symptoms caused by GERD.
+  It is not known if ZEGERID is safe and effective when used for longer than 12 months for this purpose.
 
 ZEGERID for oral suspension is used:
 
@@ -123,12 +126,12 @@ ZEGERID can cause serious side effects, including:
 - •Stomach growths (fundic gland polyps).
   People who take PPI medicines for a long time have an increased risk of developing a certain type of stomach growths called fundic gland polyps, especially after taking PPI medicines for more than 1 year.
   The most common side effects of ZEGERID include:
-- •headache
-- •abdominal pain
-- •nausea
-- •diarrhea
-- •vomiting
-- •gas
+- oheadache
+- oabdominal pain
+- onausea
+- odiarrhea
+- ovomiting
+- ogas
 
 These are not all the possible side effects of ZEGERID.
 
@@ -143,7 +146,7 @@ How should I store ZEGERID?
 
 Keep ZEGERID and all medicines out of the reach of children.
 
-General information about the safe and effective use of ZEGERID.
+General information about the safe and effective use of ZEGERID
 
 Medicines are sometimes prescribed for purposes other than those listed in a Medication Guide.
 Do not use ZEGERID for any condition for which it was not prescribed.
@@ -160,29 +163,27 @@ Inactive ingredients in ZEGERID for oral suspension: xylitol, sucrose, sucralose
 
 Inactive ingredients in ZEGERID capsules, for oral use: croscarmellose sodium and sodium stearyl fumarate.
 
-Manufactured for: Salix Pharmaceuticals, a division of
+Distributed by:
+
+Salix Pharmaceuticals, a division of
 
 Bausch Health US, LLC
 
 Bridgewater, NJ 08807 USA
 
-Zegerid is a trademark of Salix Pharmaceuticals, Inc. or its affiliates.
+ZEGERID is a trademark of Salix Pharmaceuticals, Inc. or its affiliates.
 
 Any other product/brand names are trademarks of the respective owners.
 
-© 2019 of Salix Pharmaceuticals, Inc. or its affiliates.
+© 2020 Salix Pharmaceuticals, Inc. or its affiliates
 
 For more information, go to www.Salix.com or 1-800-321-4576.
 
-Update p/n
-
-Update p/n
-
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
 
-Revised: September 2019
+- 9673201 Revised: September 2019
 
-Instructions for Use
+INSTRUCTIONS FOR USE
 
 ZEGERID® (ze-ger-id)
 
@@ -205,8 +206,8 @@ Important: ZEGERID should be taken on an empty stomach at least 1 hour before a 
 
 Giving ZEGERID for oral suspension with water through a nasogastric (NG) tube or orogastric (OG) tube:
 
-- Important: For patients receiving ZEGERID through a NG tube or OG tube, enteral feeding should be stopped approximately 3 hours before giving ZEGERID.
-  You should wait at least 1 hour after giving ZEGERID before you start enteral feeding again.
+Important: For patients receiving ZEGERID through a NG tube or OG tube, enteral feeding should be stopped approximately 3 hours before giving ZEGERID.
+You should wait at least 1 hour after giving ZEGERID before you start enteral feeding again.
 
 1. 1.ZEGERID comes in packets containing 20 mg or 40 mg of ZEGERID.
 2. 2.You will mix ZEGERID with 20 mL of water in a catheter tipped syringe.
@@ -219,4 +220,19 @@ Giving ZEGERID for oral suspension with water through a nasogastric (NG) tube or
 7. 7.Inject the medicine through the NG or OG tube into the stomach right away.
 8. 8.Refill the syringe with the same amount of water (20 mL) you used to prepare your dose of ZEGERID.
 9. 9.Shake the syringe and flush any remaining medicine from the NG tube or OG tube into the stomach.
-10. Issued: September 2019
+
+Distributed by:
+
+Salix Pharmaceuticals, a division of
+
+Bausch Health US, LLC
+
+Bridgewater, NJ 08807 USA
+
+ZEGERID is a trademark of Salix Pharmaceuticals, Inc. or its affiliates.
+
+Any other product/brand names are trademarks of the respective owners.
+
+© 2020 Salix Pharmaceuticals, Inc. or its affiliates
+
+9673201 Revised: 09/2019

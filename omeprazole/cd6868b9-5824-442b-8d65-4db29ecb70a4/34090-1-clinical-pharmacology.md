@@ -14,12 +14,12 @@ Results from a pharmacokinetic/pharmacodynamic (PK/PD) study of the antisecretor
 
 Table 8: Effect of ZEGERID for Oral Suspension on Intragastric pH, Day 7
 
-|  | Once Daily Dosage of ZEGERID for Oral Suspension |  |
+|  | Once-Daily Dosage of ZEGERID for Oral Suspension |  |
 | --- | --- | --- |
 | Parameter | 40 mg omeprazole and1,680 mg sodium bicarbonate (n = 24) | 20 mg omeprazole and 1,680 mg sodium bicarbonate (n = 28) |
 | % Decrease from Baseline for Integrated Gastric Acidity (mmol•hr/L) | 84% | 82% |
 | Coefficient of Variation | 20% | 24% |
-| % Time Gastric pH > 4 P < 0.05 20 mg vs. 40 mg(Hours) | 77%(18.6 h) | 51%(12.2 h) |
+| % Time Gastric pH > 4 P < 0.05 20 mg vs. 40 mg (Hours) | 77% (18.6 h) | 51% (12.2 h) |
 | Coefficient of Variation | 27% | 43% |
 | Median pH | 5.2 | 4.2 |
 | Coefficient of Variation | 17% | 37% |
@@ -71,11 +71,11 @@ Absorption
 
 Tables 9 and 10 show the systemic exposures and the time reach peak concentration (Tmax) of omeprazole in healthy subjects following administration of ZEGERID capsules and oral suspension, respectively, on an empty stomach one hour prior to a meal.
 
-Table 9: Arithmetic Mean (CV%) of the Systemic Exposures (Cmax, AUC) and Tmax of Omeprazole after a Single Oral Dose and Multiple Once Daily Doses of ZEGERID Capsules
+Table 9: Arithmetic Mean (CV%) of the Systemic Exposures (Cmax, AUC) and Tmax of Omeprazole after a Single Oral Dose and Multiple Once-Daily Doses of ZEGERID Capsules
 
 |  | 20 mg ZEGERID capsules |  |  | 40 mg ZEGERID capsules |  |  |
 | --- | --- | --- | --- | --- | --- | --- |
-|  | Day 1 | Day 7 | % Change(Day 7/Day 1) | Day 1 | Day 7 | % Change (Day 7/Day 1) |
+|  | Day 1 | Day 7 | % Change (Day 7/Day 1) | Day 1 | Day 7 | % Change (Day 7/Day 1) |
 | Cmax (ng/mL) | 498.1 (50.9) | 679.8 (44.0) | 36 | 1154 (53.0) | 1526 (48.7) | 32 |
 | Tmax (hr)[min – max] | 0.61 [0.25-1.5] | 0.82 [0.25-1.5] | n.a. | 0.56 [0.25-1.5] | 0.97 [0.25-3.5] | n.a. |
 | AUC0-inf* (ng•hr/mL) | 509.7 (60.5) | 1029 (67.9) | 102 | 1882 (120) | 3866 (83.3) | 105 |
@@ -83,7 +83,7 @@ Table 9: Arithmetic Mean (CV%) of the Systemic Exposures (Cmax, AUC) and Tmax of
 1. n.a.: not applicable
 2. * AUC0-24h was used on Day 7
 
-Table 10: Arithmetic Mean (CV%) of the Systemic Exposures (Cmax, AUC) and Tmax of Omeprazole after a Single Oral Dose and Multiple Once Daily Doses of ZEGERID Oral Suspension
+Table 10: Arithmetic Mean (CV%) of the Systemic Exposures (Cmax, AUC) and Tmax of Omeprazole after a Single Oral Dose and Multiple Once-Daily Doses of ZEGERID Oral Suspension
 
 |  | 20 mg ZEGERID oral suspension |  |  | 40 mg ZEGERID oral suspension |  |  |
 | --- | --- | --- | --- | --- | --- | --- |
@@ -94,7 +94,6 @@ Table 10: Arithmetic Mean (CV%) of the Systemic Exposures (Cmax, AUC) and Tmax o
 
 1. n.a.: not applicable
 2. * AUC0-24h was used on Day 7
-3. 
 
 Following single or repeated once-daily dosing, peak plasma concentrations (Cmax) of omeprazole from ZEGERID were approximately proportional from 20 to 40 mg doses.
 A greater than dose proportional increase in mean steady-state AUC (more than three-fold increase on Day 7) was observed when doubling the dose to 40 mg.
@@ -110,7 +109,9 @@ Distribution
 Omeprazole is bound to plasma proteins.
 Protein binding is approximately 95%.
 
-Elimination Metabolism
+Elimination
+
+Metabolism
 
 Omeprazole is extensively metabolized by the cytochrome P450 (CYP) enzyme system.
 The major part of its metabolism is dependent on the polymorphically expressed CYP2C19 [see Clinical Pharmacology (12.5)], responsible for the formation of hydroxyomeprazole, the major metabolite in plasma.
@@ -186,8 +187,7 @@ The exposure to the active metabolite of clopidogrel was decreased by 46% (Day 1
 Results from another crossover study in healthy subjects showed a similar pharmacokinetic interaction between clopidogrel (300 mg loading dose/75 mg daily maintenance dose) and omeprazole 80 mg daily when coadministered for 30 days.
 Exposure to the active metabolite of clopidogrel was reduced by 41% to 46% over this time period.
 
-In another study, 72 healthy subjects were given the same doses of clopidogrel and 80 mg omeprazole, but the drugs were administered 12 hours apart; the results were similar, indicating that administering clopidogrel and omeprazole at different times does not prevent their interaction.
-[seeWarnings and Precautions (5.7), DRUG INTERACTIONS (7)].
+In another study, 72 healthy subjects were given the same doses of clopidogrel and 80 mg omeprazole, but the drugs were administered 12 hours apart; the results were similar, indicating that administering clopidogrel and omeprazole at different times does not prevent their interaction [see Warnings and Precautions (5.7) and Drug Interactions (7)].
 
 Mycophenolate Mofetil
 
@@ -196,8 +196,8 @@ Administration of omeprazole 20 mg twice daily for 4 days and a single 1000 mg d
 Cilostazol
 
 Omeprazole acts as an inhibitor of CYP2C19.
-Omeprazole, given in doses of 40 mg daily for one week to 20 healthy subjects in cross-over study, increased Cmax and AUC of cilostazol by 18% and 26% respectively.
-The Cmax and AUC of one of the active metabolites, 3,4-dihydro-cilostazol, which has 4-7 times the activity of cilostazol, were increased by 29% and 69%, respectively.
+Omeprazole, given in doses of 40 mg daily for one week to 20 healthy subjects in crossover study, increased Cmax and AUC of cilostazol by 18% and 26% respectively.
+The Cmax and AUC of one of the active metabolites, 3,4-dihydro-cilostazol, which has 4 to 7 times the activity of cilostazol, were increased by 29% and 69%, respectively.
 Co-administration of cilostazol with omeprazole is expected to increase concentrations of cilostazol and the above mentioned active metabolite [see Drug Interactions (7)].
 
 Diazepam

@@ -5,7 +5,7 @@ If over-exposure occurs, call your Poison Control Center at 1-800-222-1222 for c
 Omeprazole
 
 Reports have been received of overdosage with omeprazole in humans.
-Doses ranged up to 2400 mg (120 times the usual recommended clinical dose).
+Doses ranged up to 2,400 mg (120 times the usual recommended clinical dose).
 Manifestations were variable, but included confusion, drowsiness, blurred vision, tachycardia, nausea, vomiting, diaphoresis, flushing, headache, dry mouth, and other adverse reactions similar to those seen in clinical experience with the recommended dosage [see Adverse Reactions (6)].
 Symptoms were transient, and no serious clinical outcome has been reported when omeprazole was taken alone.
 No specific antidote for omeprazole overdosage is known.

@@ -55,7 +55,7 @@ Omeprazole
 
 Reproductive studies conducted with omeprazole in rats at oral doses up to 138 mg/kg/day (about 34 times an oral human dose of 40 mg on a body surface area basis) and in rabbits at doses up to 69.1 mg/kg/day (about 34 times an oral human dose of 40 mg on a body surface area basis) during organogenesis did not disclose any evidence for a teratogenic potential of omeprazole.
 In rabbits, omeprazole in a dose range of 6.9 to 69.1 mg/kg/day (about 3.4 to 34 times an oral human dose of 40 mg on a body surface area basis) administered during organogenesis produced dose-related increases in embryo-lethality, fetal resorptions, and pregnancy disruptions.
-In rats, dose-related embryo/fetal toxicity and postnatal developmental toxicity were observed in offspring resulting from parents treated with omeprazole at 13.8 to 138.0 mg/kg/day (about 3.4 to 34 times an oral human dose of 40 mg on a body surface area basis), administered prior to mating through the lactation period.
+In rats, dose-related embryo/fetal toxicity and postnatal developmental toxicity were observed in offspring resulting from parents treated with omeprazole at 13.8 to 138 mg/kg/day (about 3.4 to 34 times an oral human dose of 40 mg on a body surface area basis), administered prior to mating through the lactation period.
 
 Esomeprazole
 
@@ -75,7 +75,7 @@ When rats were dosed from gestational Day 7 through weaning on postnatal Day 21,
 
 A pre- and postnatal development study in rats with esomeprazole strontium (using equimolar doses compared to esomeprazole magnesium study) produced similar results in dams and pups as described above.
 
-A follow up developmental toxicity study in rats with further time points to evaluate pup bone development from postnatal day 2 to adulthood was performed with esomeprazole magnesium at oral doses of 280 mg/kg/day (about 68 times an oral human dose of 40 mg on a body surface area basis) where esomeprazole administration was from either gestational day 7 or gestational day 16 until parturition.
+A follow-up developmental toxicity study in rats with further time points to evaluate pup bone development from postnatal day 2 to adulthood was performed with esomeprazole magnesium at oral doses of 280 mg/kg/day (about 68 times an oral human dose of 40 mg on a body surface area basis) where esomeprazole administration was from either gestational day 7 or gestational day 16 until parturition.
 When maternal administration was confined to gestation only, there were no effects on bone physeal morphology in the offspring at any age.
 
 ## 8.2 Lactation
@@ -102,23 +102,21 @@ Comparable findings described above have also been observed in this study with a
 
 ## 8.5 Geriatric Use
 
-Omeprazole was administered to over 2000 elderly individuals (≥65 years of age) in clinical trials in the U.S. and Europe.
+Omeprazole was administered to over 2,000 elderly individuals (≥65 years of age) in clinical trials in the U.S. and Europe.
 There were no differences in safety and effectiveness between the elderly and younger subjects.
 Other reported clinical experience has not identified differences in response between the elderly and younger subjects, but greater sensitivity of some older individuals cannot be ruled out.
 
 Pharmacokinetic studies with buffered omeprazole have shown the elimination rate was somewhat decreased in the elderly and bioavailability was increased.
 The plasma clearance of omeprazole was 250 mL/min (about half that of young subjects).
 The plasma half-life averaged one hour, about twice that in nonelderly, healthy subjects taking ZEGERID.
-However, no dosage adjustment is necessary in the elderly.
-[see Clinical Pharmacology (12.3)]
+However, no dosage adjustment is necessary in the elderly [see Clinical Pharmacology (12.3)].
 
 ## 8.6 Hepatic Impairment
 
 In patients with hepatic impairment (Child-Pugh Class A, B, or C) exposure to omeprazole substantially increased compared to healthy subjects.
-Avoid use of ZEGERID in patients with hepatic impairment for maintenance of healing of erosive esophagitis [see Clinical Pharmacology (12.3)]
+Avoid use of ZEGERID in patients with hepatic impairment for maintenance of healing of erosive esophagitis [see Clinical Pharmacology (12.3)].
 
 ## 8.7 Asian Population
 
 In studies of healthy subjects, Asians had approximately a four-fold higher exposure than Caucasians.
-Avoid use of ZEGERID in Asian patients for maintenance of healing of erosive esophagitis.
-[see Clinical Pharmacology (12.5)]
+Avoid use of ZEGERID in Asian patients for maintenance of healing of erosive esophagitis [see Clinical Pharmacology (12.5)].

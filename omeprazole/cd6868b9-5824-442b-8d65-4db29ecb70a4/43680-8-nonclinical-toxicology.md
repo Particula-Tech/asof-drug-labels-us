@@ -2,7 +2,7 @@
 
 ## 13.1 Carcinogenesis, Mutagenesis, Impairment of Fertility
 
-In two 24-month carcinogenicity studies in rats, omeprazole at daily doses of 1.7, 3.4, 13.8, 44.0 and 140.8 mg/kg/day (approximately 0.4 to 34.2 times the human dose of 40 mg/day on a body surface area basis) produced gastric ECL cell carcinoids in a dose-related manner in both male and female rats; the incidence of this effect was markedly higher in female rats, which had higher blood levels of omeprazole.
+In two 24-month carcinogenicity studies in rats, omeprazole at daily doses of 1.7, 3.4, 13.8, 44 and 140.8 mg/kg/day (approximately 0.4 to 34.2 times the human dose of 40 mg/day on a body surface area basis) produced gastric ECL cell carcinoids in a dose-related manner in both male and female rats; the incidence of this effect was markedly higher in female rats, which had higher blood levels of omeprazole.
 Gastric carcinoids seldom occur in the untreated rat.
 In addition, ECL cell hyperplasia was present in all treated groups of both sexes.
 In one of these studies, female rats were treated with 13.8 mg omeprazole/kg/day (approximately 3.36 times the human dose of 40 mg/day on a body surface area basis) for one year, then followed for an additional year without the drug.

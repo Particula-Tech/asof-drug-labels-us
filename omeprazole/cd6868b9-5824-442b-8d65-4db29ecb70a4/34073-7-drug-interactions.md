@@ -9,7 +9,7 @@ Table 6: Clinically Relevant Interactions Affecting Drugs Co-Administered with O
 | Antiretrovirals |  |
 | --- | --- |
 | Clinical Impact: | The effect of PPIs on antiretroviral drugs is variable. The clinical importance and the mechanisms behind these interactions are not always known. •Decreased exposure of some antiretroviral drugs (e.g., rilpivirine, atazanavir and nelfinavir) when used concomitantly with omeprazole may reduce antiviral effect and promote the development of drug resistance [see Clinical Pharmacology (12.3)].•Increased exposure of other antiretroviral drugs (e.g., saquinavir) when used concomitantly with omeprazole may increase toxicity [see Clinical Pharmacology (12.3)].•There are other antiretroviral drugs which do not result in clinically relevant interactions with omeprazole. |
-| Intervention: | Rilpivirine-containing products: Concomitant use with ZEGERID is contraindicated [see Contraindications (4)]. Atazanavir: Avoid concomitant use with ZEGERID. See prescribing information for atazanavir for dosing information.Nelfinavir: Avoid concomitant use with ZEGERID. See prescribing information for nelfinavir.Saquinavir: See the prescribing information for saquinavir for monitoring of potential saquinavir-related toxicities.Other antiretrovirals: See prescribing information for specific antiretroviral drugs. |
+| Intervention: | Rilpivirine-containing products: Concomitant use with ZEGERID is contraindicated [see Contraindications (4)].Atazanavir: Avoid concomitant use with ZEGERID. See prescribing information for atazanavir for dosing information.Nelfinavir: Avoid concomitant use with ZEGERID. See prescribing information for nelfinavir.Saquinavir: See the prescribing information for saquinavir for monitoring of potential saquinavir-related toxicities.Other antiretrovirals: See prescribing information for specific antiretroviral drugs. |
 | Warfarin |  |
 | Clinical Impact: | Increased INR and prothrombin time in patients receiving PPIs, including omeprazole, and warfarin concomitantly. Increases in INR and prothrombin time may lead to abnormal bleeding and even death. |
 | Intervention: | Monitor INR and prothrombin time and adjust the dose of warfarin, if needed, to maintain target INR range. |
@@ -42,7 +42,7 @@ Table 6: Clinically Relevant Interactions Affecting Drugs Co-Administered with O
 | Clinical Impact: | Potential for increased exposure of tacrolimus, especially in transplant patients who are intermediate or poor metabolizers of CYP2C19. |
 | Intervention: | Monitor tacrolimus whole blood concentrations. Dose adjustment may be needed to maintain therapeutic drug concentrations. See prescribing information for tacrolimus. |
 | Interactions with Investigations of Neuroendocrine Tumors |  |
-| Clinical Impact: | Serum chromogranin A (CgA) levels increase secondary to PPI-induced decreases in gastric acidity. The increased CgA level may cause false positive results in diagnostic investigations for neuroendocrine tumors [see Warnings and Precautions (5.11), Clinical Pharmacology (12.2)]. |
+| Clinical Impact: | Serum chromogranin A (CgA) levels increase secondary to PPI-induced decreases in gastric acidity. The increased CgA level may cause false positive results in diagnostic investigations for neuroendocrine tumors [see Warnings and Precautions (5.11) and Clinical Pharmacology (12.2)]. |
 | Intervention: | Temporarily stop PRILOSEC treatment at least 14 days before assessing CgA levels and consider repeating the test if initial CgA levels are high. If serial tests are performed (e.g., for monitoring), the same commercial laboratory should be used for testing, as reference ranges between tests may vary. |
 | Interaction with Secretin Stimulation Test |  |
 | Clinical Impact: | Hyper-response in gastrin secretion in response to secretin stimulation test, falsely suggesting gastrinoma. |
@@ -54,12 +54,14 @@ Table 6: Clinically Relevant Interactions Affecting Drugs Co-Administered with O
 | Clinical Impact: | There have been clinical reports of interactions with other drugs metabolized via the cytochrome P450 system (e.g., cyclosporine, disulfiram). |
 | Intervention: | Monitor patients to determine if it is necessary to adjust the dosage of these other drugs when taken concomitantly with ZEGERID. |
 
-Table 7: Clinically Relevant Interactions Affecting Omeprazole When Co-Administered with Other Drugs
+Table 7: Clinically Relevant Interactions Affecting Omeprazole When Co-Administered
+
+with Other Drugs
 
 | CYP2C19 or CYP3A4 Inducers |  |
 | --- | --- |
 | Clinical Impact: | Decreased exposure of omeprazole when used concomitantly with strong inducers [see Clinical Pharmacology (12.3)]. |
-| Intervention: | St. John’s Wort, rifampin: Avoid concomitant use with ZEGERID [see Warnings and Precautions (5.10)].Ritonavir-containing products: see prescribing information for specific drugs. |
+| Intervention: | St. John’s wort, rifampin: Avoid concomitant use with ZEGERID [see Warnings and Precautions (5.10)].Ritonavir-containing products: See prescribing information for specific drugs. |
 | CYP2C19 or CYP3A4 Inhibitors |  |
 | Clinical Impact: | Increased exposure of omeprazole [see Clinical Pharmacology (12.3)]. |
 | Intervention: | Voriconazole: Dosage adjustment of ZEGERID is not required. |

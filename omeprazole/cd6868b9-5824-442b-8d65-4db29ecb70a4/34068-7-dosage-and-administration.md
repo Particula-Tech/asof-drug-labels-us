@@ -23,17 +23,26 @@ Table 1: Recommended Dosage Regimen of ZEGERID for Oral Suspension and ZEGERID C
 
 | Indication | Dosage of ZEGERID for oral suspension or ZEGERID capsules | Treatment Duration |
 | --- | --- | --- |
-| Treatment of Active Duodenal Ulcer | 20 mg once daily | 4 weeksMost patients heal within 4 weeks. Some patients may require an additional 4 weeks of therapy. [see Clinical Studies (14.1)] The efficacy of ZEGERID used for longer than 8 weeks in patients with EE has not been established. If a patient does not respond to 8 weeks of treatment, an additional 4 weeks of treatment may be given. If there is recurrence of EE or GERD symptoms (e.g., heartburn), additional 4 to 8 week courses of ZEGERID may be considered. |
+| Treatment of Active Duodenal Ulcer | 20 mg once daily | 4 weeks |
 | Treatment of Active Benign Gastric Ulcer | 40 mg once daily | 4 to 8 weeks |
 | Treatment of Symptomatic GERD | 20 mg once daily | Up to 4 weeks |
 | Treatment of EE due to Acid-Mediated GERD | 20 mg once daily | 4 to 8 weeks |
 | Maintenance of Healing of EE due to Acid-Mediated GERD | 20 mg once daily | Controlled studies do not extend beyond 12 months. |
 
-Table 2: Recommended Dosage Regimen of 40 mg ZEGERID for Oral Suspension in Adults by Indication
+1 Most patients heal within 4 weeks.
+Some patients may require an additional 4 weeks of therapy [see Clinical Studies (14.1)].
 
-| Indication | Dosage of40 mg ZEGERID for oral suspension | Treatment Duration |
+1. 2 The efficacy of ZEGERID used for longer than 8 weeks in patients with EE has not been established.
+   If a patient does not respond to 8 weeks of treatment, an additional 4 weeks of treatment may be given.
+   If there is recurrence of EE or GERD symptoms (e.g., heartburn), additional 4 to 8 week courses of ZEGERID may be considered.
+
+Table 2: Recommended Dosage Regimen of 40 mg ZEGERID for Oral Suspension in
+
+Adults by Indication
+
+| Indication | Dosage of 40 mg ZEGERID for oral suspension | Treatment Duration |
 | --- | --- | --- |
-| Reduction of Risk of Upper GI Bleeding in Critically Ill Patients | 40 mg initially; followed by 40 mg 6 to 8 hours later; and 40 mg once daily thereafter | 14 days |
+| Reduction of Risk of Upper GI Bleeding in Critically Ill Patients | 40 mg initially; followed by40 mg 6 to 8 hours later; and40 mg once daily thereafter | 14 days |
 
 ## 2.3 Preparation and Administration
 

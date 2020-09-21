@@ -22,7 +22,7 @@ In the U.S. clinical trial population of 465 adult patients, the adverse reactio
 
 Table 3: Adverse Reactions Occurring in 1% or More of Adult Patients in US Clinical Trials of Omeprazole Therapy
 
-|  | Omeprazole%(n = 465) | Placebo%(n = 64) | Ranitidine%(n = 195) |
+|  | Omeprazole% (n = 465) | Placebo% (n = 64) | Ranitidine% (n = 195) |
 | --- | --- | --- | --- |
 | Headache | 7 | 6 | 8 |
 | Diarrhea | 3 | 3 | 2 |
@@ -57,7 +57,7 @@ Clinical Trial of 40 mg ZEGERID for Oral Suspension
 
 Adverse reactions reported in at least 3% of critically ill adult patients in a clinical trial of 40 mg ZEGERID for oral suspension compared to intravenous cimetidine for up to 14 days are presented in Table 5.
 
-Table 5: Common Adverse Reactionsreported in at least 3% of patients in either treatment group. by Body System and Preferred Term in a Randomized Controlled Trial of Critically Ill Adult Patients Treated up to 14 Days
+Table 5: Common Adverse Reactions1 by Body System and Preferred Term in a Randomized Controlled Trial of Critically Ill Adult Patients Treated up to 14 Days
 
 | Body System Preferred Term | ZEGERID40 mg for oral suspension once daily% (N=178) | Intravenous Cimetidine1,200 mg per day% (N=181) |
 | --- | --- | --- |
@@ -71,7 +71,7 @@ Table 5: Common Adverse Reactionsreported in at least 3% of patients in either t
 | Supraventricular Tachycardia | 3.4 | 1.1 |
 | Tachycardia NOS | 3.4 | 3.3 |
 | Ventricular Tachycardia | 4.5 | 3.3 |
-| Gastrointestinal DisordersIn this trial, clinically significant upper gastrointestinal bleeding was considered a serious adverse reaction, but it is not included in this table. |  |  |
+| Gastrointestinal Disorders2 |  |  |
 | Constipation | 4.5 | 4.4 |
 | Diarrhea NOS | 3.9 | 8.3 |
 | Gastric Hypomotility | 1.7 | 3.3 |
@@ -112,6 +112,10 @@ Table 5: Common Adverse Reactionsreported in at least 3% of patients in either t
 | Hypotension NOS | 9.6 | 6.6 |
 
 NOS = not otherwise specified
+
+1 reported in at least 3% of patients in either treatment group.
+
+2 In this trial, clinically significant upper gastrointestinal bleeding was considered a serious adverse reaction, but it is not included in this table.
 
 ## 6.2 Postmarketing Experience
 

@@ -40,12 +40,12 @@ Advise the patient to report any clinical symptoms that may be associated with h
 
 Drug Interactions
 
-Advise patients to report to their healthcare provider if they start treatment with rilpivirine-containing products, clopidogrel, St. John’s wort or rifampin, or if they take high-dose methotrexate [see Contraindications (4),Warnings and Precautions (5.7, 5.10, 5.12)].
+Advise patients to report to their healthcare provider if they start treatment with rilpivirine-containing products, clopidogrel, St. John’s wort or rifampin, or if they take high-dose methotrexate [see Contraindications (4) and Warnings and Precautions (5.7, 5.10, 5.12)].
 
 Administration
 
 1. Instruct patients that:
-2. •two packets of 20 mg ZEGERID for oral suspension are not interchangeable with one packet of 40 mg ZEGERID for oral suspension.
+2. •Two packets of 20 mg ZEGERID for oral suspension are not interchangeable with one packet of 40 mg ZEGERID for oral suspension.
 3. •Two 20 mg ZEGERID capsules are not interchangeable with one 40 mg ZEGERID capsule.
 
 Administration of ZEGERID Capsules
@@ -59,12 +59,18 @@ Administration of ZEGERID for Oral Suspension
 - •Advise patients that ZEGERID for oral suspension is intended to be mixed with water and administered orally or via a nasogastric (NG)/orogastric (OG) tube, as described in the Medication Guide.
 - •Instruct patients to suspend enteral feeding approximately 3 hours before and 1 hour after administration of ZEGERID for oral suspension [see Dosage and Administration (2.3)].
 
-Manufactured for: Salix Pharmaceuticals, a division of Bausch Health US, LLC Bridgewater, NJ 08807 USA
+Distributed by:
 
-Zegerid is a trademark of Salix Pharmaceuticals, Inc. or its affiliates.
+Salix Pharmaceuticals, a division of
+
+Bausch Health US, LLC
+
+Bridgewater, NJ 08807 USA
+
+ZEGERID is a trademark of Salix Pharmaceuticals, Inc. or its affiliates.
 
 Any other product/brand names are trademarks of the respective owners.
 
-© 2019 Salix Pharmaceuticals, Inc. or its affiliates
+© 2020 Salix Pharmaceuticals, Inc. or its affiliates
 
-- Update p/n
+9673201
