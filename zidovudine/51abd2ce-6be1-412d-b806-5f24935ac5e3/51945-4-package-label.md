@@ -1,3 +1,3 @@
 # PACKAGE LABEL-PRINCIPAL DISPLAY PANEL - 10 mg/mL (240 mL Bottle)
 
-NDC 65862-048-24 Rx only Zidovudine Syrup (Zidovudine Oral Solution, USP) 10 mg/mL AUROBINDO 240 mL
+NDC 65862-048-24 Rx only Zidovudine Oral Solution, USP 10 mg/mL AUROBINDO 240 mL
