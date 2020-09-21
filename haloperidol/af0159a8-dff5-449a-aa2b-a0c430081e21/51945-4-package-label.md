@@ -27,7 +27,9 @@ The dose of HALDOL Decanoate 50 should be expressed in terms of its haloperidol 
 
 Dispense in a light-resistant container as defined in the official compendium.
 
-ORTHO-McNEIL NEUROLOGICS, Division of Ortho-McNeil-Janssen Pharmaceuticals, Inc.
+Keep out of reach of children.
+
+Janssen
 
 # PRINCIPAL DISPLAY PANEL - 100 mg/mL Box
 
@@ -58,4 +60,6 @@ The dose of HALDOL Decanoate 100 should be expressed in terms of its haloperidol
 
 Dispense in a light-resistant container as defined in the official compendium.
 
-ORTHO-McNEIL NEUROLOGICS Division of Ortho-McNeil-Janssen Pharmaceuticals, Inc.
+Keep out of reach of children.
+
+Janssen
