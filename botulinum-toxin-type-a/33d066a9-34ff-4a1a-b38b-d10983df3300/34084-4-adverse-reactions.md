@@ -249,7 +249,7 @@ The potential for antibody formation may be minimized by injecting with the lowe
 
 The following adverse reactions have been identified during post-approval use of BOTOX.
 Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
-These reactions include: abdominal pain; alopecia, including madarosis; anorexia; brachial plexopathy; denervation/muscle atrophy; diarrhea; dry eye; hyperhidrosis; hypoacusis; hypoaesthesia; localized muscle twitching; malaise; paresthesia; peripheral neuropathy; radiculopathy; erythema multiforme, dermatitis psoriasiform, and psoriasiform eruption; strabismus; tinnitus; and visual disturbances.
+These reactions include: abdominal pain; alopecia, including madarosis; anorexia; brachial plexopathy; denervation/muscle atrophy; diarrhea; dry eye; eyelid edema (following periocular injection); hyperhidrosis; hypoacusis; hypoaesthesia; localized muscle twitching; malaise; paresthesia; peripheral neuropathy; radiculopathy; erythema multiforme, dermatitis psoriasiform, and psoriasiform eruption; strabismus; tinnitus; and visual disturbances.
 
 There have been spontaneous reports of death, sometimes associated with dysphagia, pneumonia, and/or other significant debility or anaphylaxis, after treatment with botulinum toxin [see Warnings and Precautions (5.4, 5.6)].
 

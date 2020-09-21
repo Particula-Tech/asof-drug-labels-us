@@ -16,4 +16,4 @@
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
 Revised: 7/2020
 
-V4.0MG1145
+v4.0MG1145
