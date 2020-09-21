@@ -12,7 +12,7 @@ Do not freeze.
 
 Haldol® BRAND OF
 
-HALOPERIDOL INJECTION (For Immediate Release)
+HALOPERIDOL INJECTION For Itramuscular Use For Immediate Release
 
 5 mg per mL
 
@@ -29,8 +29,8 @@ Parma, Italy
 
 Mfg for: Janssen Pharmaceuticals, Inc. Titusville, NJ 08560
 
-10000000092392
+62000000040377
 
-© Janssen 2005
+© 2005 Janssen
 
 Janssen
