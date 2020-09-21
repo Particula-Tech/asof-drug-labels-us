@@ -2,7 +2,7 @@
 
 BUPRENORPHINE (bue" pre nor' feen) SUBLINGUAL TABLETS CIII
 
-| IMPORTANT: Keep Buprenorphine Sublingual Tablets in a secure place away from children. Accidental use by a child is a medical emergency and can result in death. If a child accidentally uses Buprenorphine Sublingual Tablets, get emergency help right away. |
+| IMPORTANT: Keep Buprenorphine Sublingual Tablets in a secure place away from children. Accidental use by a child is a medical emergency and can result in death. If a child accidentally uses Buprenorphine Sublingual Tablets, get emergency help or call 911 right away. Tell your healthcare provider if you are living in a household where there are small children. |
 | --- |
 
 Read this Medication Guide that comes with Buprenorphine Sublingual Tablets before you start taking it and each time you get a refill.
@@ -14,8 +14,11 @@ Share the important information in this Medication Guide with members of your ho
 
 What is the most important information I should know about Buprenorphine Sublingual Tablets?
 
-- Buprenorphine is a medicine in Buprenorphine Sublingual Tablets that can cause serious and life-threatening problems, especially if you take or use certain other medicines or drugs.
+- Buprenorphine Sublingual Tablets contain a medicine called buprenorphine.
+  Buprenorphine is an opioid that can cause serious and life-threatening problems, especially if you take or use certain other medicines or drugs.
   Call your healthcare provider right away or get emergency help if you: feel faint or dizzy
+- Talk to your healthcare provider about naloxone.
+  Naloxone is a medicine that is available to patients for the emergency treatment of an opioid overdose, including accidental use of Buprenorphine Sublingual Tablets by a child.
 - have mental changes such as confusion
 - have slower breathing than you normally have
 - have severe sleepiness
@@ -216,6 +219,6 @@ Manufactured by: Actavis Elizabeth LLC Elizabeth, NJ 07207 USA
 Distributed by: Actavis Pharma, Inc. Parsippany, NJ 07054 USA
 
 Rev.
-B 10/2019
+C 7/2020
 
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
