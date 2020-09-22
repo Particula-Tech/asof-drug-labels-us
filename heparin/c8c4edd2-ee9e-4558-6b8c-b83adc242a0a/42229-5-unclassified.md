@@ -8,4 +8,4 @@ Instructions for Use of the Syringe Systems
 
 Distributed by Hospira, Inc., Lake Forest, IL 60045 USA
 
-LAB-0844-3.0
+LAB-0844-4.0
