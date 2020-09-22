@@ -83,7 +83,6 @@ Geriatric and Sex The pharmacokinetics of candesartan have been studied in the e
 The plasma concentration of candesartan was higher in the elderly (Cmax was approximately 50% higher, and AUC was approximately 80% higher) compared to younger subjects administered the same dose.
 The pharmacokinetics of candesartan were linear in the elderly, and candesartan and its inactive metabolite did not accumulate in the serum of these subjects upon repeated, once-daily administration.
 No initial dosage adjustment is necessary [see Dosage and Administration (2.1)].
-
 There is no difference in the pharmacokinetics of candesartan between male and female subjects.
 
 Renal Insufficiency In hypertensive patients with renal insufficiency, serum concentrations of candesartan were elevated.
@@ -95,7 +94,7 @@ No initial dosage adjustment is necessary in patients with renal insufficiency [
 In heart failure patients with renal impairment, AUC0-72h was 36% and 65% higher in mild and moderate renal impairment, respectively.
 Cmax was 15% and 55% higher in mild and moderate renal impairment, respectively.
 
-Pediatrics: Candesartan cilexetil pharmacokinetics has not been determined in children with renal insufficiency.
+Pediatrics Candesartan cilexetil pharmacokinetics has not been determined in children with renal insufficiency.
 
 Hepatic Insufficiency The pharmacokinetics of candesartan were compared in patients with mild and moderate hepatic impairment to matched healthy volunteers following a single oral dose of 16 mg candesartan cilexetil.
 The increase in AUC for candesartan was 30% in patients with mild hepatic impairment (Child-Pugh A) and 145% in patients with moderate hepatic impairment (Child-Pugh B). The increase in Cmax for candesartan was 56% in patients with mild hepatic impairment and 73% in patients with moderate hepatic impairment.

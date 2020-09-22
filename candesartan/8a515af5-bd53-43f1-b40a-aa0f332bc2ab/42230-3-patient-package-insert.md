@@ -2,7 +2,7 @@
 
 Candesartan Cilexetil (kan-de-sar-tan sye-lex-e-til) Tablets
 
-Read the Patient information that comes with candesartan cilexetil tablets before you start taking it and each time you get a refill.
+Read the Patient Information that comes with candesartan cilexetil tablets before you start taking it and each time you get a refill.
 There may be new information.
 This leaflet does not take the place of talking with your doctor about your medical condition or your treatment.
 If you have any questions about candesartan cilexetil tablets, ask your doctor or pharmacist.
@@ -97,8 +97,7 @@ Do not use after the expiration date stated on the bottle. â€¢ Do not freeze. â€
 
 Keep candesartan cilexetil tablets and all medicine out of the reach of children.
 
-General information about candesartan cilexetil tablets.
-Medicines are sometimes prescribed for conditions that are not mentioned in patient information leaflets.
+General information about candesartan cilexetil tablets Medicines are sometimes prescribed for conditions that are not mentioned in patient information leaflets.
 Do not use candesartan cilexetil tablets for a condition for which it was not prescribed.
 Do not give candesartan cilexetil tablets to other people, even if they have the same problem you have.
 It may harm them.
@@ -129,4 +128,4 @@ Manufactured by: Alembic Pharmaceuticals Limited (Formulation Division), Panelav
 
 Manufactured for: Alembic Pharmaceuticals, Inc. 750 Route 202, Bridgewater, NJ 08807 USA
 
-Revised: 11/2017
+Revised: 07/2020

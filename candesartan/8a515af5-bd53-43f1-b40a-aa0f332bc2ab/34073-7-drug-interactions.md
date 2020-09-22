@@ -2,7 +2,7 @@
 
 ## 7.1 Agents Increasing Serum Potassium
 
-Coadministration of candesartan cilexetil with potassium sparing diuretics, potassium supplements, potassium-containing salt substitutes or other drugs that raise serum potassium levels may result in hyperkalemia.
+Co-administration of candesartan cilexetil with potassium sparing diuretics, potassium supplements, potassium-containing salt substitutes or other drugs that raise serum potassium levels may result in hyperkalemia.
 Monitor serum potassium in such patients.
 
 ## 7.2 Lithium
@@ -25,4 +25,4 @@ Triple combination of candesartan cilexetil with an ACE-inhibitor and a mineralo
 Closely monitor blood pressure, renal function and electrolytes in patients on candesartan cilexetil and other agents that affect the RAS.
 
 Do not co-administer aliskiren with candesartan cilexetil in patients with diabetes.
-Avoid use of aliskiren with candesartan cilexetil in patients with renal impairment (GFR <60 ml/min) [see Contraindications (4)].
+Avoid use of aliskiren with candesartan cilexetil in patients with renal impairment (GFR <60 mL/min) [see Contraindications (4)].
