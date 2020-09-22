@@ -1,6 +1,6 @@
 # Medication Guide
 
-Escitalopram (EE-sye-TAL-o-pram) Oral Solution, USP
+Escitalopram (es“ sye tal‘ oh pram) Oral Solution, USP
 
 Read the Medication Guide that comes with escitalopram oral solution before you start taking it and each time you get a refill.
 There may be new information.
@@ -124,6 +124,7 @@ Do not take escitalopram oral solution if you:
   See the end of this Medication Guide for a complete list of ingredients in escitalopram oral solution.
 - Take a monoamine oxidase inhibitor (MAOI).
   Ask your healthcare provider or a pharmacist if you are not sure if you take an MAOI, including linezolid.
+
 - Do not take an MAOI within 2 weeks of stopping escitalopram oral solution unless directed to do so by your physician.
 - Do not start escitalopram oral solution if you stopped taking an MAOI in the last 2 weeks unless directed to do so by your physician.
 
@@ -149,7 +150,6 @@ Before starting escitalopram oral solution, tell your healthcare provider if you
 - Medicines used to treat mood, anxiety, psychotic or thought disorders, including tricyclics, lithium, SSRIs, SNRIs, amphetamines, or antipsychotics
 - Tramadol
 - Over-the-counter supplements such as tryptophan or St. John’s Wort
-
 - have liver problems
 - have kidney problems
 - have heart problems
@@ -160,11 +160,15 @@ Before starting escitalopram oral solution, tell your healthcare provider if you
 - have high blood pressure
 - have or had bleeding problems
 - are pregnant or plan to become pregnant.
-  It is not known if escitalopram oral solution will harm your unborn baby.
+  Taking escitalopram oral solution late in pregnancy may lead to an increased risk of certain problems in your newborn.
   Talk to your healthcare provider about the benefits and risks of treating depression during pregnancy.
+
+- If you become pregnant while taking escitalopram oral solution, talk to your healthcare provider about registering with the National Pregnancy Registry for Antidepressants.
+  You can register by calling 1-844-405-6185 or go to https://womensmentalhealth.org/clinical-and-research-programs/pregnancyregistry/antidepressants/.
+
 - are breast-feeding or plan to breast-feed.
-  Some escitalopram oxalate may pass into your breast milk.
-  Talk to your healthcare provider about the best way to feed your baby while taking escitalopram oral solution.
+  Escitalopram oxalate may pass into your breast milk.
+  Talk to your healthcare provider about the best way to feed your baby if taking escitalopram oral solution.
 
 Tell your healthcare provider about all the medicines that you take, including prescription and non-prescription medicines, vitamins, and herbal supplements.
 Escitalopram oral solution and some medicines may interact with each other, may not work as well, or may cause serious side effects.
@@ -257,6 +261,8 @@ Inactive ingredients:
 
 - Oral Solution: anhydrous citric acid, glycerin, malic acid, methylparaben, natural peppermint flavor, propylene glycol, propylparaben, purified water, sodium citrate and sorbitol.
 
+* Trademarks are the property of their respective owners.
+
 1 Coumadin® is manufactured by Bristol-Myers Squibb
 
 2 Jantoven® is manufactured by Upsher-Smith Laboratories, Inc.
@@ -266,6 +272,6 @@ Inactive ingredients:
 Distributed by: Amneal Pharmaceuticals LLC Bridgewater, NJ 08807
 
 Rev.
-01-2019-04
+09-2020-05
 
 This Medication Guide has been approved by the U.S. Food and Drug Administration.

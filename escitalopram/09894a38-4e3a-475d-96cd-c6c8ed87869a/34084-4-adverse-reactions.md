@@ -63,12 +63,11 @@ The most commonly observed adverse reactions in escitalopram oxalate patients (i
 Table 2 enumerates the incidence, rounded to the nearest percent, of treatment-emergent adverse events that occurred among 715 depressed patients who received escitalopram oxalate at doses ranging from 10 to 20 mg/day in placebo-controlled trials.
 Events included are those occurring in 2% or more of patients treated with escitalopram oxalate and for which the incidence in patients treated with escitalopram oxalate was greater than the incidence in placebo-treated patients.
 
-TABLE 2 Treatment-Emergent Adverse Reactions observed with a frequency of ≥ 2% and greater than placebo for Major Depressive Disorder
-
-| Autonomic Nervous System Disorders |  |  |
+| TABLE 2Treatment-Emergent Adverse Reactions observed with a frequency of ≥ 2% and greater than placebo for Major Depressive Disorder |  |  |
 | --- | --- | --- |
 | Adverse Reaction | Escitalopram Oxalate | Placebo |
 |  | (N=715) % | (N=592) % |
+| Autonomic Nervous System Disorders |  |  |
 | Dry Mouth | 6% | 5% |
 | Sweating Increased | 5% | 2% |
 | Central & Peripheral Nervous System Disorders |  |  |
@@ -107,11 +106,10 @@ The most commonly observed adverse reactions in escitalopram oxalate patients (i
 Table 3 enumerates the incidence, rounded to the nearest percent of treatment-emergent adverse events that occurred among 429 GAD patients who received escitalopram oxalate 10 to 20 mg/day in placebo-controlled trials.
 Events included are those occurring in 2% or more of patients treated with escitalopram oxalate and for which the incidence in patients treated with escitalopram oxalate was greater than the incidence in placebo-treated patients.
 
-TABLE 3 Treatment-Emergent Adverse Reactions observed with a frequency of ≥ 2% and greater than placebo for Generalized Anxiety Disorder
-
-|  | (N=429) % | (N=427) % |
+| TABLE 3Treatment-Emergent Adverse Reactions observed with a frequency of ≥ 2% and greater than placebo for Generalized Anxiety Disorder |  |  |
 | --- | --- | --- |
 | Adverse Reactions | Escitalopram Oxalate | Placebo |
+|  | (N=429) % | (N=427) % |
 | Autonomic Nervous System Disorders |  |  |
 | Dry Mouth | 9% | 5% |
 | Sweating Increased | 4% | 1% |
@@ -155,12 +153,11 @@ The potential dose dependency of common adverse reactions (defined as an inciden
 The overall incidence rates of adverse events in 10 mg escitalopram oxalate-treated patients (66%) was similar to that of the placebo-treated patients (61%), while the incidence rate in 20 mg/day escitalopram oxalate-treated patients was greater (86%).
 Table 4 shows common adverse reactions that occurred in the 20 mg/day escitalopram oxalate group with an incidence that was approximately twice that of the 10 mg/day escitalopram oxalate group and approximately twice that of the placebo group.
 
-TABLE 4 Incidence of Common Adverse Reactions in Patients with Major Depressive Disorder
-
-|  |  | (N=310) | (N=125) |
+| TABLE 4Incidence of Common Adverse Reactions in Patients with Major Depressive Disorder |  |  |  |
 | --- | --- | --- | --- |
 | Adverse Reaction | Placebo | 10 mg/day | 20 mg/day |
 |  | (N=311) | Escitalopram Oxalate | Escitalopram Oxalate |
+|  |  | (N=310) | (N=125) |
 | Insomnia | 4% | 7% | 14% |
 | Diarrhea | 5% | 6% | 14% |
 | Dry Mouth | 3% | 4% | 9% |
@@ -179,10 +176,9 @@ In particular, some evidence suggests that SSRIs can cause such untoward sexual 
 Reliable estimates of the incidence and severity of untoward experiences involving sexual desire, performance, and satisfaction are difficult to obtain, however, in part because patients and physicians may be reluctant to discuss them.
 Accordingly, estimates of the incidence of untoward sexual experience and performance cited in product labeling are likely to underestimate their actual incidence.
 
-TABLE 5 Incidence of Sexual Side Effects in Placebo-Controlled Clinical Trials
-
-| Adverse Event | Escitalopram Oxalate | Placebo |
+| TABLE 5Incidence of Sexual Side Effects in Placebo-Controlled Clinical Trials |  |  |
 | --- | --- | --- |
+| Adverse Event | Escitalopram Oxalate | Placebo |
 |  | In Males Only |  |
 |  | (N=407) | (N=383) |
 | Ejaculation Disorder (primarily ejaculatory delay) | 12% | 1% |
@@ -262,10 +258,8 @@ Urinary System Disorders - urinary frequency, urinary tract infection.
 
 Adverse Reactions Reported Subsequent to the Marketing of Escitalopram
 
-The following additional adverse reactions have been identified from spontaneous reports of escitalopram received worldwide.
-These adverse reactions have been chosen for inclusion because of a combination of seriousness, frequency of reporting, or potential causal connection to escitalopram and have not been listed elsewhere in labeling.
-However, because these adverse reactions were reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
-These events include:
+The following adverse reactions have been identified during post-approval use of escitalopram.
+Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
 
 Blood and Lymphatic System Disorders: anemia, agranulocytis, aplastic anemia, hemolytic anemia, idiopathic thrombocytopenia purpura, leukopenia, thrombocytopenia.
 

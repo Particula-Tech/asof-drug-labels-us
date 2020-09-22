@@ -1,56 +1,28 @@
 # 5 WARNINGS AND PRECAUTIONS
 
-## 5.1 Clinical Worsening and Suicide Risk
+## 5.1 Suicidal Thoughts and Behaviors in Adolescents and Young Adults
 
-Patients with major depressive disorder (MDD), both adult and pediatric, may experience worsening of their depression and/or the emergence of suicidal ideation and behavior (suicidality) or unusual changes in behavior, whether or not they are taking antidepressant medications, and this risk may persist until significant remission occurs.
-Suicide is a known risk of depression and certain other psychiatric disorders, and these disorders themselves are the strongest predictors of suicide.
-There has been a long-standing concern, however, that antidepressants may have a role in inducing worsening of depression and the emergence of suicidality in certain patients during the early phases of treatment.
-Pooled analyses of short-term placebo-controlled trials of antidepressant drugs (SSRIs and others) showed that these drugs increase the risk of suicidal thinking and behavior (suicidality) in children, adolescents, and young adults (ages 18 to 24) with major depressive disorder (MDD) and other psychiatric disorders.
-Short-term studies did not show an increase in the risk of suicidality with antidepressants compared to placebo in adults beyond age 24; there was a reduction with antidepressants compared to placebo in adults aged 65 and older.
+In pooled analyses of placebo-controlled trials of antidepressant drugs (SSRIs and other antidepressant classes) that included approximately 77,000 adult patients and 4,500 pediatric patients, the incidence of suicidal thoughts and behaviors in the antidepressant-treated patients age 24 years and younger was greater than in placebo-treated patients.
+There was considerable variation in risk of suicidal thoughts and behaviors among drugs, but there was an increased risk identified in young patients for most drugs studied.
+There were differences in absolute risk of suicidal thoughts and behaviors across the different indications, with the highest incidence in patients with MDD.
+The drug-placebo differences in the number of cases of suicidal thoughts and behaviors per 1000 patients treated are provided in Table 1.
 
-The pooled analyses of placebo-controlled trials in children and adolescents with MDD, obsessive compulsive disorder (OCD), or other psychiatric disorders included a total of 24 short-term trials of 9 antidepressant drugs in over 4400 patients.
-The pooled analyses of placebo-controlled trials in adults with MDD or other psychiatric disorders included a total of 295 short-term trials (median duration of 2 months) of 11 antidepressant drugs in over 77,000 patients.
-There was considerable variation in risk of suicidality among drugs, but a tendency toward an increase in the younger patients for almost all drugs studied.
-There were differences in absolute risk of suicidality across the different indications, with the highest incidence in MDD.
-The risk differences (drug vs. placebo), however, were relatively stable within age strata and across indications.
-These risk differences (drug-placebo difference in the number of cases of suicidality per 1000 patients treated) are provided in Table 1.
-
-TABLE 1
-
-| Age Range | Drug-Placebo Difference in Number of Cases of Suicidality per 1000 Patients Treated |
+| TABLE 1: Risk Differences of the Number of Patients of Suicidal Thoughts and Behaviors in the Pooled Placebo-Controlled Trials of Antidepressants in Pediatric and Adult Patients |  |
 | --- | --- |
+| Age Range | Drug-Placebo Difference in Number of Patients of Suicidal Thoughts and Behaviors per 1000 Patients Treated |
 |  | Increases Compared to Placebo |
-| <18 | 14 additional cases |
-| 18 to 24 | 5 additional cases |
+| <18 years old | 14 additional patients |
+| 18 to 24 years old | 5 additional patients |
 |  | Decreases Compared to Placebo |
-| 25 to 64 | 1 fewer case |
-| ≥65 | 6 fewer cases |
+| 25 to 64 years old | 1 fewer patient |
+| ≥65 years old | 6 fewer patients |
 
-No suicides occurred in any of the pediatric trials.
-There were suicides in the adult trials, but the number was not sufficient to reach any conclusion about drug effect on suicide.
+It is unknown whether the risk of suicidal thoughts and behaviors in children, adolescents, and young adults extends to longer-term use, i.e., beyond four months.
+However, there is substantial evidence from placebo-controlled maintenance trials in adults with MDD that antidepressants delay the recurrence of depression and that depression itself is a risk factor for suicidal thoughts and behaviors.
 
-It is unknown whether the suicidality risk extends to longer-term use, i.e., beyond several months.
-However, there is substantial evidence from placebo-controlled maintenance trials in adults with depression that the use of antidepressants can delay the recurrence of depression.
-
-All patients being treated with antidepressants for any indication should be monitored appropriately and observed closely for clinical worsening, suicidality, and unusual changes in behavior, especially during the initial few months of a course of drug therapy, or at times of dose changes, either increases or decreases.
-
-The following symptoms, anxiety, agitation, panic attacks, insomnia, irritability, hostility, aggressiveness, impulsivity, akathisia (psychomotor restlessness), hypomania, and mania, have been reported in adult and pediatric patients being treated with antidepressants for major depressive disorder as well as for other indications, both psychiatric and nonpsychiatric.
-Although a causal link between the emergence of such symptoms and either the worsening of depression and/or the emergence of suicidal impulses has not been established, there is concern that such symptoms may represent precursors to emerging suicidality.
-
-Consideration should be given to changing the therapeutic regimen, including possibly discontinuing the medication, in patients whose depression is persistently worse, or who are experiencing emergent suicidality or symptoms that might be precursors to worsening depression or suicidality, especially if these symptoms are severe, abrupt in onset, or were not part of the patient's presenting symptoms.
-
-If the decision has been made to discontinue treatment, medication should be tapered, as rapidly as is feasible, but with recognition that abrupt discontinuation can be associated with certain symptoms [see Dosage and Administration (2.4)].
-
-Families and caregivers of patients being treated with antidepressants for major depressive disorder or other indications, both psychiatric and nonpsychiatric, should be alerted about the need to monitor patients for the emergence of agitation, irritability, unusual changes in behavior, and the other symptoms described above, as well as the emergence of suicidality, and to report such symptoms immediately to health care providers.
-Such monitoring should include daily observation by families and caregivers [see also Patient Counseling Information (17.1)].
-
-Screening Patients for Bipolar Disorder
-
-A major depressive episode may be the initial presentation of bipolar disorder.
-It is generally believed (though not established in controlled trials) that treating such an episode with an antidepressant alone may increase the likelihood of precipitation of a mixed/manic episode in patients at risk for bipolar disorder.
-Whether any of the symptoms described above represent such a conversion is unknown.
-However, prior to initiating treatment with an antidepressant, patients with depressive symptoms should be adequately screened to determine if they are at risk for bipolar disorder; such screening should include a detailed psychiatric history, including a family history of suicide, bipolar disorder, and depression.
-It should be noted that escitalopram oxalate is not approved for use in treating bipolar depression.
+Monitor all antidepressant-treated patients for any indication for clinical worsening and emergence of suicidal thoughts and behaviors, especially during the initial few months of drug therapy, and at times of dosage changes.
+Counsel family members or caregivers of patients to monitor for changes in behavior and to alert the healthcare provider.
+Consider changing the therapeutic regimen, including possibly discontinuing escitalopram oxalate, in patients whose depression is persistently worse, or who are experiencing emergent suicidal thoughts or behaviors.
 
 ## 5.2 Serotonin Syndrome
 
@@ -87,12 +59,13 @@ These patients were excluded from clinical studies during the product's premarke
 In clinical trials of escitalopram oxalate, cases of convulsion have been reported in association with escitalopram oxalate treatment.
 Like other drugs effective in the treatment of major depressive disorder, escitalopram oxalate should be introduced with care in patients with a history of seizure disorder.
 
-## 5.5 Activation of Mania/Hypomania
+## 5.5 Activation of Mania or Hypomania
 
+In patients with bipolar disorder, treating a depressive episode with escitalopram oxalate or another antidepressant may precipitate a mixed/manic episode.
 In placebo-controlled trials of escitalopram oxalate in major depressive disorder, activation of mania/hypomania was reported in one (0.1%) of 715 patients treated with escitalopram oxalate and in none of the 592 patients treated with placebo.
 One additional case of hypomania has been reported in association with escitalopram oxalate treatment.
 Activation of mania/hypomania has also been reported in a small proportion of patients with major affective disorders treated with racemic citalopram and other marketed drugs effective in the treatment of major depressive disorder.
-As with all drugs effective in the treatment of major depressive disorder, escitalopram oxalate should be used cautiously in patients with a history of mania.
+Prior to initiating treatment with escitalopram oxalate, screen patients for any personal or family history of bipolar disorder, mania, or hypomania [see Dosage and Administration (2.3)].
 
 ## 5.6 Hyponatremia
 

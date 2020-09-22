@@ -12,5 +12,5 @@ Escitalopram oxalate, USP occurs as a fine, white to slightly-yellow powder and 
 
 Escitalopram oxalate, USP is available as an oral solution.
 
-Escitalopram oral solution, USP contains escitalopram oxalate, USP equivalent to 1 mg/mL escitalopram base.
+Escitalopram oral solution, USP contains 1.29 mg/ml escitalopram oxalate, USP equivalent to 1 mg/mL escitalopram base.
 It also contains the following inactive ingredients: anhydrous citric acid, glycerin, malic acid, methylparaben, natural peppermint flavor, propylene glycol, propylparaben, purified water, sodium citrate and sorbitol.

@@ -1,31 +1,18 @@
 # 17 PATIENT COUNSELING INFORMATION
 
-See FDA-approved Medication Guide
+Advise the patient to read the FDA-approved patient labeling (Medication Guide).
 
-## 17.1 Information for Patients
+Suicidal Thoughts and Behaviors
 
-Physicians are advised to discuss the following issues with patients for whom they prescribe escitalopram oxalate.
-
-General Information about Medication Guide
-
-Prescribers or other health professionals should inform patients, their families, and their caregivers about the benefits and risks associated with treatment with escitalopram oxalate and should counsel them in its appropriate use.
-A patient Medication Guide about “Antidepressant Medicines, Depression and other Serious Mental Illness, and Suicidal Thoughts or Actions” is available for escitalopram oxalate.
-The prescriber or health professional should instruct patients, their families, and their caregivers to read the Medication Guide and should assist them in understanding its contents.
-Patients should be given the opportunity to discuss the contents of the Medication Guide and to obtain answers to any questions they may have.
-The complete text of the Medication Guide is reprinted at the end of this document.
-
-Patients should be advised of the following issues and asked to alert their prescriber if these occur while taking escitalopram oxalate.
-
-Clinical Worsening and Suicide Risk
-
-Patients, their families, and their caregivers should be encouraged to be alert to the emergence of anxiety, agitation, panic attacks, insomnia, irritability, hostility, aggressiveness, impulsivity, akathisia (psychomotor restlessness), hypomania, mania, other unusual changes in behavior, worsening of depression, and suicidal ideation, especially early during antidepressant treatment and when the dose is adjusted up or down.
-Families and caregivers of patients should be advised to look for the emergence of such symptoms on a day-to-day basis, since changes may be abrupt.
-Such symptoms should be reported to the patient's prescriber or health professional, especially if they are severe, abrupt in onset, or were not part of the patient's presenting symptoms.
-Symptoms such as these may be associated with an increased risk for suicidal thinking and behavior and indicate a need for very close monitoring and possibly changes in the medication [see Warnings and Precautions (5.1)].
+Advise patients, their families and caregivers to look for the emergence of suicidal ideation and behavior, especially during treatment and when the dose is adjusted up or down, and instruct them to report such symptoms to their healthcare provider [see Boxed Warning and Warnings and Precautions (5.1)].
 
 Serotonin Syndrome
 
 Patients should be cautioned about the risk of serotonin syndrome with the concomitant use of escitalopram oxalate with other serotonergic drugs including triptans, tricyclic antidepressants, fentanyl, lithium, tramadol, tryptophan, buspirone, amphetamines and St. John’s Wort, and with drugs that impair metabolism of serotonin (in particular, MAOIs, both those intended to treat psychiatric disorders and also others, such as linezolid) [see Warnings and Precautions (5.2)].
+
+Activation of Mania or Hypomania
+
+Advise patients and their caregivers to observe for signs of activation of mania/hypomania and instruct them to report such symptoms to the healthcare provider [see Warnings and Precautions (5.5)].
 
 Abnormal Bleeding
 
@@ -49,18 +36,23 @@ While patients may notice improvement with escitalopram oxalate therapy in 1 to 
 
 Interference with Psychomotor Performance
 
-Because psychoactive drugs may impair judgment, thinking, or motor skills, patients should be cautioned about operating hazardous machinery, including automobiles, until they are reasonably certain thatescitalopram oxalate therapy does not affect their ability to engage in such activities.
+Because psychoactive drugs may impair judgment, thinking, or motor skills, patients should be cautioned about operating hazardous machinery, including automobiles, until they are reasonably certain that escitalopram oxalate therapy does not affect their ability to engage in such activities.
 
 Alcohol
 
 Patients should be told that, although escitalopram oxalate has not been shown in experiments with normal subjects to increase the mental and motor skill impairments caused by alcohol, the concomitant use of escitalopram oxalate and alcohol in depressed patients is not advised.
 
-Pregnancy and Breast Feeding
+Pregnancy
 
-Patients should be advised to notify their physician if they
+Advise pregnant women to notify their healthcare providers if they become pregnant or intend to become pregnant during treatment with escitalopram oxalate.
 
-- become pregnant or intend to become pregnant during therapy.
-- are breastfeeding an infant.
+Advise patients that escitalopram oxalate use later in pregnancy may lead to increased risk for neonatal complications requiring prolonged hospitalization, respiratory support, tube feeding, and/or persistent pulmonary hypertension (PPHN) of the newborn [see Use in Specific Populations (8.1)].
+
+Advise women that there is a pregnancy exposure registry that monitors pregnancy outcomes in women exposed to escitalopram oxalate during pregnancy [see Use in Specific Populations (8.1)].
+
+Lactation
+
+Advise breastfeeding women using escitalopram oxalate to monitor infants for excess sedation, restlessness, agitation, poor feeding and poor weight gain and to seek medical care if they notice these signs [see Use in Specific Populations (8.2)].
 
 Need for Comprehensive Treatment Program
 
@@ -71,11 +63,7 @@ Antidepressants are not intended for use in the adolescent who exhibits symptoms
 Appropriate educational placement is essential and psychosocial intervention is often helpful.
 When remedial measures alone are insufficient, the decision to prescribe antidepressant medication will depend upon the physician's assessment of the chronicity and severity of the patient's symptoms.
 
-* Trademarks are the property of their respective owners.
-
 Distributed by: Amneal Pharmaceuticals LLC Bridgewater, NJ 08807
 
 Rev.
-01-2019-04
-
-## 17.2 FDA-Approved Medication Guide
+09-2020-05

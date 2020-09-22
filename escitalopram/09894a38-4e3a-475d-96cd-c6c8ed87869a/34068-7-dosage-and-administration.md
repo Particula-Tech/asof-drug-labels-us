@@ -40,14 +40,18 @@ Generalized anxiety disorder is recognized as a chronic condition.
 The efficacy of escitalopram oral solution in the treatment of GAD beyond 8 weeks has not been systematically studied.
 The physician who elects to use escitalopram oral solution for extended periods should periodically re-evaluate the long-term usefulness of the drug for the individual patient.
 
-## 2.3 Special Populations
+## 2.3 Screen for Bipolar Disorder Prior to Starting Escitalopram Oral Solution
+
+Prior to initiating treatment with escitalopram oral solution or another antidepressant, screen patients for a personal family history of bipolar disorder, mania, or hypomania [see Warnings and Precautions (5.5)].
+
+## 2.4 Special Populations
 
 10 mg/day is the recommended dose for most elderly patients and patients with hepatic impairment.
 
 No dosage adjustment is necessary for patients with mild or moderate renal impairment.
 Escitalopram oral solution should be used with caution in patients with severe renal impairment.
 
-## 2.4 Discontinuation of Treatment with Escitalopram Oral Solution
+## 2.5 Discontinuation of Treatment with Escitalopram Oral Solution
 
 Symptoms associated with discontinuation of escitalopram oral solution and other SSRIs and SNRIs have been reported [see Warnings and Precautions (5.3)].
 Patients should be monitored for these symptoms when discontinuing treatment.
@@ -55,12 +59,12 @@ A gradual reduction in the dose rather than abrupt cessation is recommended when
 If intolerable symptoms occur following a decrease in the dose or upon discontinuation of treatment, then resuming the previously prescribed dose may be considered.
 Subsequently, the physician may continue decreasing the dose but at a more gradual rate.
 
-## 2.5 Switching a Patient To or From a Monoamine Oxidase Inhibitor (MAOI) Intended to Treat Psychiatric Disorders
+## 2.6 Switching a Patient to or from a Monoamine Oxidase Inhibitor (MAOI) Intended to Treat Psychiatric Disorders
 
 At least 14 days should elapse between discontinuation of an MAOI intended to treat psychiatric disorders and initiation of therapy with escitalopram oral solution.
 Conversely, at least 14 days should be allowed after stopping escitalopram oral solution before starting an MAOI intended to treat psychiatric disorders [see Contraindications (4.1)].
 
-## 2.6 Use of Escitalopram Oral Solution with Other MAOIs such as Linezolid or Methylene Blue
+## 2.7 Use of Escitalopram Oral Solution with Other MAOIs such as Linezolid or Methylene Blue
 
 Do not start escitalopram oral solution in a patient who is being treated with linezolid or intravenous methylene blue because there is an increased risk of serotonin syndrome.
 In a patient who requires more urgent treatment of a psychiatric condition, other interventions, including hospitalization, should be considered [see Contraindications (4.1)].

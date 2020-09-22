@@ -1,6 +1,6 @@
 # 16 HOW SUPPLIED/STORAGE AND HANDLING
 
-## 16.2 Oral Solution
+Oral Solution
 
 Escitalopram oral solution, USP, equivalent 5 mg base/5 mL, is a clear colorless to pale yellow, peppermint flavored solution, available as 240 mL; NDC 65162-705-88.
 
