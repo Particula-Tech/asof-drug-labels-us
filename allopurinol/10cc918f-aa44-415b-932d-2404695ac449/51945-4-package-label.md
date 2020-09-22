@@ -8,9 +8,11 @@ equivalent to 500 mg allopurinol
 
 For Intravenous Infusion
 
-Rx only Single-Dose Vial
-
 Sterile
+
+Discard unused portion.
+
+Rx only Single-Dose Vial
 
 Preparation of Solution: Inject 25 mL Sterile Water for Injection into vial.
 Swirl vial until solution results.
@@ -24,10 +26,10 @@ Store at 20° to 25°C (68° to 77°F).
 
 ALOPRIM® is a registered trademark of Mylan Teoranta
 
-Manufactured for: Mylan Institutional LLC Rockford, IL 61103 U.S.A.
+Manufactured for: Mylan Institutional LLC Morgantown, WV 26505 U.S.A.
 
 Made in Italy
 
-MI:187:1C:R5
+MI:187:1C:R6
 
 Mylan.com
