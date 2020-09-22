@@ -14,7 +14,7 @@ No other drug-related tumors were observed in either sex of either species.
 At doses that produced tumors in mice and rats, the estimated drug exposure (as measured by AUC) was approximately 3 times (mouse) and 24 times (rat) the estimated human exposure at the recommended therapeutic dose of 100 mg every 4 hours.
 It is not known how predictive the results of rodent carcinogenicity studies may be for humans.
 Two transplacental carcinogenicity studies were conducted in mice.
-One study administered zidovudine at doses of 20 mg per kg per day or 40 mg per kg per day from gestation Day 10 through parturition and lactation with dosing continuing in offspring for 24 months postnatally.
+One study administered zidovudine at doses of 20 mg per kg per day or 40 mg per kg per day from Gestation Day 10 through parturition and lactation with dosing continuing in offspring for 24 months postnatally.
 The doses of zidovudine administered in this study produced zidovudine exposures approximately 3 times the estimated human exposure at recommended doses.
 After 24 months, an increase in incidence of vaginal tumors was noted with no increase in tumors in the liver or lung or any other organ in either gender.
 These findings are consistent with results of the standard oral carcinogenicity study in mice, as described earlier.

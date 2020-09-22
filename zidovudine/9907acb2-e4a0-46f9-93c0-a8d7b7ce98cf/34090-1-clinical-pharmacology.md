@@ -7,7 +7,7 @@ Zidovudine is an antiretroviral agent [see Microbiology (12.4)].
 ## 12.3 Pharmacokinetics
 
 Absorption and Bioavailability In adults, following oral administration, zidovudine is rapidly absorbed and extensively distributed, with peak serum concentrations occurring within 0.5 to 1.5 hours.
-The AUC was equivalent when zidovudine was administered as zidovudine tablets or syrup compared with zidovudine capsules.
+The AUC was equivalent when zidovudine was administered as zidovudine tablets or oral solution compared with zidovudine capsules.
 The pharmacokinetic properties of zidovudine in fasting adult subjects are summarized in Table 7.
 
 Table 7.

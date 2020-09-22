@@ -30,7 +30,7 @@ Frequencies of Selected (Grade 3/4) Laboratory Abnormalities in Subjects with As
 
 | Test (Abnormal Level) | Zidovudine 500 mg/day (n = 453) | Placebo (n = 428) |
 | --- | --- | --- |
-| Anemia (Hgb<8 g/dL) Granulocytopenia (<750 cells/mm3) Thrombocytopenia (platelets<50,000/mm3) ALT (>5 x ULN) AST (>5 x ULN) | 1% 2% 0% 3% 1% | <1% 2% <1% 3% 2% |
+| Anemia (Hgb <8 g/dL) Granulocytopenia (<750 cells/mm3) Thrombocytopenia (platelets <50,000/mm3) ALT (>5 x ULN) AST (>5 x ULN) | 1% 2% 0% 3% 1% | <1% 2% <1% 3% 2% |
 | ULN = Upper limit of normal. |  |  |
 
 Pediatrics The clinical adverse reactions reported among adult recipients of zidovudine may also occur in pediatric patients.
@@ -56,7 +56,7 @@ Frequencies of Selected (Grade 3/4) Laboratory Abnormalities in Pediatric Subjec
 
 Macrocytosis was reported in the majority of pediatric subjects receiving zidovudine 180 mg per m2 every 6 hours in open-label trials.
 Additionally, adverse reactions reported at an incidence of less than 6% in these trials were congestive heart failure, decreased reflexes, ECG abnormality, edema, hematuria, left ventricular dilation, nervousness/irritability, and weight loss.
-Use for the Prevention of Maternal-Fetal Transmission of HIV-1 In a randomized, double-blind, placebo-controlled trial in HIV-1-infected women and their neonates conducted to determine the utility of zidovudine for the prevention of maternal-fetal HIV-1 transmission, zidovudine syrup at 2 mg per kg was administered every 6 hours for 6 weeks to neonates beginning within 12 hours following birth.
+Use for the Prevention of Maternal-Fetal Transmission of HIV-1 In a randomized, double-blind, placebo-controlled trial in HIV-1-infected women and their neonates conducted to determine the utility of zidovudine for the prevention of maternal-fetal HIV-1 transmission, zidovudine oral solution at 2 mg per kg was administered every 6 hours for 6 weeks to neonates beginning within 12 hours following birth.
 The most commonly reported adverse reactions were anemia (hemoglobin less than 9 g per dL) and neutropenia (less than 1,000 cells per mm3).
 Anemia occurred in 22% of the neonates who received zidovudine and in 12% of the neonates who received placebo.
 The mean difference in hemoglobin values was less than 1 g per dL for neonates receiving zidovudine compared with neonates receiving placebo.

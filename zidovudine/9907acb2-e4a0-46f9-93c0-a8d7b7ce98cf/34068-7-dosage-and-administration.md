@@ -9,9 +9,9 @@ Oral Dosing The recommended oral dose of zidovudine capsules is 300 mg twice dai
 Healthcare professionals should pay special attention to accurate calculation of the dose of zidovudine capsules, transcription of the medication order, dispensing information, and dosing instructions to minimize risk for medication dosing errors.
 Prescribers should calculate the appropriate dose of zidovudine capsules for each child based on body weight (kg) and should not exceed the recommended adult dose.
 Before prescribing zidovudine capsules, children should be assessed for the ability to swallow capsules.
-If a child is unable to reliably swallow a zidovudine capsule, the zidovudine syrup formulation should be prescribed.
+If a child is unable to reliably swallow a zidovudine capsule, the zidovudine oral solution formulation should be prescribed.
 The recommended oral dosage in pediatric patients aged 4 weeks to less than 18 years and weighing greater than or equal to 4 kg is provided in Table 1.
-Zidovudine syrup should be used to provide accurate dosage when capsules are not appropriate.
+Zidovudine oral solution should be used to provide accurate dosage when capsules are not appropriate.
 
 Table 1: Recommended Pediatric Oral Dosage of Zidovudine Capsules
 
@@ -49,7 +49,7 @@ Recommended Neonatal Dosages of Zidovudine
 | Oral | 8 mg/kg/day | 2 mg/kg every 6 hours |
 | Intravenous | 6 mg/kg/day | 1.5 mg/kg infused over 30 minutes, every 6 hours |
 
-Use an appropriate-sized syringe with 0.1 mL graduation to ensure accurate dosing of the syrup formulation in neonates.
+Use an appropriate-sized syringe with 0.1 mL graduation to ensure accurate dosing of the oral solution formulation in neonates.
 
 ## 2.4 Patients with Severe Anemia and/or Neutropenia
 
@@ -59,8 +59,7 @@ If marrow recovery occurs following dose interruption, resumption in dose may be
 
 ## 2.5 Patients with Renal Impairment
 
-In patients maintained on hemodialysis or peritoneal dialysis or with creatinine clearance (CrCl) by Cockcroft-Gault less than 15 mL per min, the recommended oral dosage is 100 mg every 6 to 8 hours.
-[see Use in Specific Populations (8.6), Clinical Pharmacology (12.3)].
+In patients maintained on hemodialysis or peritoneal dialysis or with creatinine clearance (CrCl) by Cockcroft-Gault less than 15 mL per min, the recommended oral dosage is 100 mg every 6 to 8 hours [see Use in Specific Populations (8.6), Clinical Pharmacology (12.3)].
 
 ## 2.6 Patients with Hepatic Impairment
 

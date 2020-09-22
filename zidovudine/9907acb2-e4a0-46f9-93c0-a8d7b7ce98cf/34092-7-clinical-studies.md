@@ -36,7 +36,7 @@ Number of Subjects (%) Reaching a Primary Clinical Endpoint (Disease Progression
 
 The utility of zidovudine for the prevention of maternal-fetal HIV-1 transmission was demonstrated in a randomized, double-blind, placebo-controlled trial (ACTG 076) conducted in HIV-1-infected pregnant women with CD4+ cell counts of 200 to 1,818 cells per mm3 (median in the treated group: 560 cells per mm3) who had little or no previous exposure to zidovudine.
 Oral zidovudine was initiated between 14 and 34 weeks of gestation (median 11 weeks of therapy) followed by IV administration of zidovudine during labor and delivery.
-Following birth, neonates received oral zidovudine syrup for 6 weeks.
+Following birth, neonates received zidovudine oral solution for 6 weeks.
 The trial showed a statistically significant difference in the incidence of HIV-1 infection in the neonates (based on viral culture from peripheral blood) between the group receiving zidovudine and the group receiving placebo.
 Of 363 neonates evaluated in the trial, the estimated risk of HIV-1 infection was 7.8% in the group receiving zidovudine and 24.9% in the placebo group, a relative reduction in transmission risk of 68.7%.
 Zidovudine was well tolerated by mothers and infants.
