@@ -74,7 +74,7 @@ The comparison of AUC on Day 8 vs. Day 1 at 260 mg/m2 and 340 mg/m2 dose levels 
 Mean imatinib AUC did not increase proportionally with increasing dose.
 
 Based on pooled population pharmacokinetic analysis in pediatric patients with hematological disorders (CML, Ph+ ALL, or other hematological disorders treated with imatinib), clearance of imatinib increases with increasing body surface area (BSA).
-After correcting for the BSA effect, other demographics such as age, body weight and body mass index did not have clinically significant effects on the exposure of imatinib.
+After correcting for the BSA effect, other demographics, such as age, body weight, and body mass index did not have clinically significant effects on the exposure of imatinib.
 The analysis confirmed that exposure of imatinib in pediatric patients receiving 260 mg/m2 once-daily (not exceeding 400 mg once-daily) or 340 mg/m2 once-daily (not exceeding 600 mg once-daily) were similar to those in adult patients who received imatinib 400 mg or 600 mg once-daily.
 
 ### Drug Interactions
@@ -89,7 +89,7 @@ The mean dose normalized AUC for imatinib in the patients receiving EIAED’s de
 Concomitant administration of imatinib mesylate tablets and St. John’s Wort led to a 30% reduction in the AUC of imatinib.
 
 Consider alternative therapeutic agents with less enzyme induction potential in patients when rifampin or other CYP3A4 inducers are indicated.
-Imatinib mesylate tablets doses up to 1200 mg/day (600 mg twice-daily) have been given to patients receiving concomitant strong CYP3A4 inducers [see Dosage and Administration (2.12)].
+Imatinib mesylate tablets doses up to 1200 mg/day (600 mg twice daily) have been given to patients receiving concomitant strong CYP3A4 inducers [see Dosage and Administration (2.12)].
 
 #### Agents Inhibiting CYP3A Metabolism
 

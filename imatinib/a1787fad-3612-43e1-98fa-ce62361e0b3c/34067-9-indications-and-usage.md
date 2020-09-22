@@ -18,11 +18,11 @@ Pediatric patients with newly diagnosed Philadelphia chromosome positive acute l
 
 ## 1.5 Myelodysplastic/Myeloproliferative Diseases (MDS/MPD)
 
-Adult patients with myelodysplastic/myeloproliferative diseases associated with PDGFR (platelet-derived growth factor receptor) gene re-arrangements as determined with an FDA-approved test [see Dosage and Administration (2.6)].
+Adult patients with myelodysplastic/myeloproliferative diseases associated with PDGFR (platelet-derived growth factor receptor) gene re-arrangements.
 
 ## 1.6 Aggressive Systemic Mastocytosis (ASM)
 
-Adult patients with aggressive systemic mastocytosis without the D816V c-Kit mutation as determined with an FDA-approved test [see Dosage and Administration (2.7)] or with c-Kit mutational status unknown.
+Adult patients with aggressive systemic mastocytosis without the D816V c-Kit mutation or with c-Kit mutational status unknown.
 
 ## 1.7 Hypereosinophilic Syndrome (HES) and/or Chronic Eosinophilic Leukemia (CEL)
 

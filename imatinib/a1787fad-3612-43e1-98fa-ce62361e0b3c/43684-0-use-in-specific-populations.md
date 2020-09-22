@@ -11,7 +11,7 @@ Reproductive studies in rats have demonstrated that imatinib mesylate induced te
 Advise women to avoid pregnancy when taking imatinib mesylate tablets.
 If this drug is used during pregnancy, or if the patient becomes pregnant while taking this drug, apprise the patient of the potential hazard to the fetus.
 
-The background risk of major birth defects and miscarriage for the indicated population is not known; however, in the U.S. general population, the estimated background risk of major birth defects of clinically recognized pregnancies is 2-4% and of miscarriage is 15%-20%.
+The background risk of major birth defects and miscarriage for the indicated population is not known; however, in the U.S. general population, the estimated background risk of major birth defects of clinically recognized pregnancies is 2%-4% and of miscarriage is 15%-20%.
 
 ### Data
 
@@ -30,7 +30,7 @@ Five animals developed a red vaginal discharge in the 45 mg/kg/day group on Days
 Other maternal effects noted only at the dose of 45 mg/kg/day (approximately one-half the maximum human dose of 800 mg/day based on body surface area) included an increased numbers of stillborn pups and pups dying between postpartum Days 0 and 4.
 In the F1 offspring at this same dose level, mean body weights were reduced from birth until terminal sacrifice and the number of litters achieving criterion for preputial separation was slightly decreased.
 There were no other significant effects in developmental parameters or behavioral testing.
-F1 fertility was not affected but reproductive effects were noted at 45 mg/kg/day including an increased number of resorptions and a decreased number of viable fetuses.
+F1 fertility was not affected but reproductive effects were noted at 45 mg/kg/day, including an increased number of resorptions and a decreased number of viable fetuses.
 The NOEL for both maternal animals and the F1 generation was 15 mg/kg/day.
 
 ## 8.2 Lactation
@@ -85,11 +85,11 @@ Reduce the dose by 25% for patients with severe hepatic impairment [see Dosage a
 
 Table 16: Liver Function Classification
 
-| Liver Function Test | Normal(N = 14) | Mild(N = 30) | Moderate(N = 20) | Severe(N = 20) |
+| Liver Function Test | Normal(n = 14) | Mild(n = 30) | Moderate(n = 20) | Severe(n = 20) |
 | --- | --- | --- | --- | --- |
 | Total Bilirubin | less than or equal to ULN | greater than 1.0-1.5 times the ULN | greater than 1.5-3 times the ULN | greater than 3-10 times the ULN |
 | SGOT | less than or equal to ULN | greater than ULN (can be normal if Total Bilirubin is greater than ULN) | Any | Any |
-| ULN = upper limit of normal for the institution |  |  |  |  |
+| Abbreviation: ULN, upper limit of normal for the institution. |  |  |  |  |
 
 ## 8.7 Renal Impairment
 
@@ -105,4 +105,4 @@ Table 17: Renal Function Classification
 | Mild | CrCL = 40-59 mL/min |
 | Moderate | CrCL = 20-39 mL/min |
 | Severe | CrCL = less than 20 mL/min |
-| CrCL = Creatinine Clearance |  |
+| Abbreviation: CrCL, Creatinine Clearance. |  |

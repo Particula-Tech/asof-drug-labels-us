@@ -46,10 +46,10 @@ Median time to CCyR in the 454 responders was 6 months (range 2 to 64 months, 25
 
 Table 18: Response in Newly Diagnosed CML Study (84-Month Data)
 
-| (Best Response Rate) | Imatinib Mesylate TabletsN = 553 | IFN+Ara-CN = 553 |
+| (Best Response Rate) | Imatinib Mesylate Tabletsn = 553 | IFN+Ara-Cn = 553 |
 | --- | --- | --- |
 | Hematologic ResponseHematologic response criteria (all responses to be confirmed after greater than or equal to 4 weeks): WBC less than 10 x 109/L, platelet less than 450 x 109/L, myelocyte + metamyelocyte less than 5% in blood, no blasts and promyelocytes in blood, no extramedullary involvement. |  |  |
-| CHR Rate n (%) | 534 (96.6%)p less than 0.001, Fischer’s exact test | 313 (56.6%) |
+| CHR Rate n (%) | 534 (96.6%)p less than 0.001, Fischer’s exact test. | 313 (56.6%) |
 | [95% CI] | [94.7%, 97.9%] | [52.4%, 60.8%] |
 | Cytogenetic ResponseCytogenetic response criteria (confirmed after greater than or equal to 4 weeks): complete (0% Ph+ metaphases) or partial (1%-35%). A major response (0%-35%) combines both complete and partial responses. |  |  |
 | Major Cytogenetic Response n (%) | 472 (85.4%) | 93 (16.8%) |
@@ -71,10 +71,10 @@ There was no apparent change from baseline in median index for patients treated 
 
 An open-label, multicenter, randomized trial (imatinib mesylate tablets versus nilotinib) was conducted to determine the efficacy of imatinib mesylate tablets versus nilotinib in adult patients with cytogenetically confirmed, newly diagnosed Ph+ CML-CP.
 Patients were within 6 months of diagnosis and were previously untreated for CML-CP, except for hydroxyurea and/or anagrelide.
-Efficacy was based on a total of 846 patients: 283 patients in the imatinib mesylate tablets 400 mg once-daily group, 282 patients in the nilotinib 300 mg twice-daily group, 281 patients in the nilotinib 400 mg twice-daily group.
+Efficacy was based on a total of 846 patients: 283 patients in the imatinib mesylate tablets 400 mg once daily group, 282 patients in the nilotinib 300 mg twice daily group, 281 patients in the nilotinib 400 mg twice daily group.
 
-Median age was 46 years in the imatinib mesylate tablets group and 47 years in both nilotinib groups, with 12%, 13%, and 10% of patients greater than or equal to 65 years of age in imatinib mesylate tablets 400 mg once-daily, nilotinib 300 mg twice-daily and nilotinib 400 mg twice-daily treatment groups, respectively.
-There were slightly more male than female patients in all groups (56%, 56%, and 62% in imatinib mesylate tablets 400 mg once-daily, nilotinib 300 mg twice-daily and nilotinib 400 mg twice-daily treatment groups, respectively).
+Median age was 46 years in the imatinib mesylate tablets group and 47 years in both nilotinib groups, with 12%, 13%, and 10% of patients greater than or equal to 65 years of age in imatinib mesylate tablets 400 mg once daily, nilotinib 300 mg twice daily and nilotinib 400 mg twice daily treatment groups, respectively.
+There were slightly more male than female patients in all groups (56%, 56%, and 62% in imatinib mesylate tablets 400 mg once daily, nilotinib 300 mg twice daily and nilotinib 400 mg twice daily treatment groups, respectively).
 More than 60% of all patients were Caucasian, and 25% were Asian.
 
 The primary data analysis was performed when all 846 patients completed 12 months of treatment or discontinued earlier.
@@ -89,16 +89,16 @@ Twelve patients in the imatinib mesylate tablets arm progressed to either accele
 
 Table 19: Efficacy (MMR and CCyR) of Imatinib Mesylate Tablets Compared to Nilotinib in Newly Diagnosed Ph+ CML-CP
 
-|  | Imatinib Mesylate Tablets400 mgonce-daily | Nilotinib300 mgtwice-daily |
+|  | Imatinib Mesylate Tablets400 mgonce daily | Nilotinib300 mgtwice daily |
 | --- | --- | --- |
 |  | N = 283 | N = 282 |
 | MMR at 12 months (95% CI) | 22% (17.6, 27.6) | 44% (38.4, 50.3) |
-| P-ValueCMH test stratified by Sokal risk group | < 0.0001 |  |
+| P-ValueCMH test stratified by Sokal risk group. | < 0.0001 |  |
 | CCyRCCyR: 0% Ph+ metaphases. Cytogenetic responses were based on the percentage of Ph-positive metaphases among greater than or equal to 20 metaphase cells in each bone marrow sample. by 12 months (95% CI) | 65% (59.2, 70.6) | 80% (75.0, 84.6) |
 | MMR at 24 months (95% CI) | 38% (31.8, 43.4) | 62% (55.8, 67.4) |
 | CCyR by 24 months (95% CI) | 77% (71.7, 81.8) | 87% (82.4, 90.6) |
 
-By the 60 months, MMR was achieved by 60% of patients on imatinib mesylate tablets and 77% of patients on nilotinib.
+By 60 months, MMR was achieved by 60% of patients on imatinib mesylate tablets and 77% of patients on nilotinib.
 
 Median overall survival was not reached in either arm.
 At the time of the 60-month final analysis, the estimated survival rate was 91.7% for patients on imatinib mesylate tablets and 93.7% for patients on nilotinib.
@@ -147,16 +147,17 @@ The confirmed and unconfirmed major cytogenetic response rate was also higher fo
 
 Table 20: Response in CML Studies
 
-|  | Chronic Phase IFN Failure(N = 532)400 mg | Accelerated Phase(N = 235)600 mg N = 158400 mg N = 77 | Myeloid Blast Crisis(N = 260)600 mg N = 223400 mg N = 37 |
+|  | Chronic Phase IFN Failure(n = 532)400 mg | Accelerated Phase(n = 235)600 mg n = 158400 mg n = 77 | Myeloid Blast Crisis(n = 260)600 mg n = 223400 mg n = 37 |
 | --- | --- | --- | --- |
 |  | % of patients [CI95%] |  |  |
-| Hematologic ResponseHematologic response criteria (all responses to be confirmed after greater than or equal to 4 weeks): CHR: Chronic phase study [WBC less than 10 x 109/L, platelet less than 450 x 109/L, myelocytes + metamyelocytes less than 5% in blood, no blasts and promyelocytes in blood, basophils less than 20%, no extramedullary involvement] and in the accelerated and blast crisis studies [ANC greater than or equal to 1.5 x 109/L, platelets greater than or equal to 100 x 109/L, no blood blasts, BM blasts less than 5% and no extramedullary disease] NEL: Same criteria as for CHR but ANC greater than or equal to 1 x 109/L and platelets greater than or equal to 20 x 109/L (accelerated and blast crisis studies) RTC: less than 15% blasts BM and PB, less than 30% blasts + promyelocytes in BM and PB, less than 20% basophils in PB, no extramedullary disease other than spleen and liver (accelerated and blast crisis studies). BM = bone marrow, PB = peripheral blood | 95% [92.3-96.3] | 71% [64.8-76.8] | 31% [25.2-36.8] |
+| Hematologic ResponseHematologic response criteria (all responses to be confirmed after greater than or equal to 4 weeks): CHR: Chronic phase study [WBC less than 10 x 109/L, platelet less than 450 x 109/L, myelocytes + metamyelocytes less than 5% in blood, no blasts and promyelocytes in blood, basophils less than 20%, no extramedullary involvement] and in the accelerated and blast crisis studies [ANC greater than or equal to 1.5 x 109/L, platelets greater than or equal to 100 x 109/L, no blood blasts, BM blasts less than 5% and no extramedullary disease]. NEL: Same criteria as for CHR but ANC greater than or equal to 1 x 109/L and platelets greater than or equal to 20 x 109/L (accelerated and blast crisis studies). RTC: less than 15% blasts BM and PB, less than 30% blasts + promyelocytes in BM and PB, less than 20% basophils in PB, no extramedullary disease other than spleen and liver (accelerated and blast crisis studies). | 95% [92.3-96.3] | 71% [64.8-76.8] | 31% [25.2-36.8] |
 | Complete Hematologic Response (CHR) | 95% | 38% | 7% |
 | No Evidence of Leukemia (NEL) | Not applicable | 13% | 5% |
 | Return to Chronic Phase (RTC) | Not applicable | 20% | 18% |
 | Major Cytogenetic ResponseCytogenetic response criteria (confirmed after greater than or equal to 4 weeks): complete (0% Ph+ metaphases) or partial (1%-35%). A major response (0%-35%) combines both complete and partial responses. | 60% [55.3-63.8] | 21% [16.2-27.1] | 7% [4.5-11.2] |
 | (UnconfirmedUnconfirmed cytogenetic response is based on a single bone marrow cytogenetic evaluation, therefore unconfirmed complete or partial cytogenetic responses might have had a lesser cytogenetic response on a subsequent bone marrow evaluation.) | (65%) | (27%) | (15%) |
 | CompleteComplete cytogenetic response confirmed by a second bone marrow cytogenetic evaluation performed at least 1 month after the initial bone marrow study. (Unconfirmed) | 39% (47%) | 16% (20%) | 2% (7%) |
+| Abbreviations: BM, bone marrow; PB, peripheral blood. |  |  |  |
 
 The median time to hematologic response was 1 month.
 In late chronic phase CML, with a median time from diagnosis of 32 months, an estimated 87.8% of patients who achieved MCyR maintained their response 2 years after achieving their initial response.
@@ -180,10 +181,10 @@ Complete hematologic response (CHR) was observed in 78% of patients after 8 week
 The complete cytogenetic response rate (CCyR) was 65%, comparable to the results observed in adults.
 Additionally, partial cytogenetic response (PCyR) was observed in 16%.
 The majority of patients who achieved a CCyR developed the CCyR between months 3 and 10 with a median time to response based on the Kaplan-Meier estimate of 6.74 months.
-Patients were allowed to be removed from protocol therapy to undergo alternative therapy including hematopoietic stem cell transplantation.
+Patients were allowed to be removed from protocol therapy to undergo alternative therapy, including hematopoietic stem cell transplantation.
 Thirty-one children received stem cell transplantation.
 Of the 31 children, 5 were transplanted after disease progression on study and 1 withdrew from study during first week treatment and received transplant approximately 4 months after withdrawal.
-Twenty-five children withdrew from protocol therapy to undergo stem cell transplant after receiving a median of 9 twenty-eight day courses (range 4 to 24).
+Twenty-five children withdrew from protocol therapy to undergo stem cell transplant after receiving a median of 9 twenty-eight day courses (range, 4 to 24).
 Of the 25 patients 13 (52%) had CCyR and 5 (20%) had PCyR at the end of protocol therapy.
 
 One open-label, single-arm study enrolled 14 pediatric patients with Ph+ chronic phase CML recurrent after stem cell transplant or resistant to interferon-alpha therapy.
@@ -257,7 +258,7 @@ Table 22: Response in MDS/MPD
 | Chromosome 5 Translocation | 14 | 11 (79) | 11 (79) |
 | Chromosome 4 Translocation | 2 | 2 (100) | 1 (50) |
 | Others / no Translocation | 14 | 1 (7) | 0 |
-| Molecular Relapse | 1 | NENE: Not Evaluable | NE |
+| Molecular Relapse | 1 | NENE: Not Evaluable. | NE |
 
 ## 14.6 Aggressive Systemic Mastocytosis
 
@@ -283,7 +284,7 @@ Table 23: Response in ASM
 | FIP1L1-PDGFRα Fusion Kinase (or CHIC2 Deletion) | 7 | 7 (100) | 0 |
 | Juxtamembrane Mutation | 2 | 0 | 2 (100) |
 | Unknown or No Cytogenetic Abnormality Detected | 15 | 0 | 7 (44) |
-| D816V Mutation | 4 | 1Patient had concomitant CML and ASM (25) | 0 |
+| D816V Mutation | 4 | 1Patient had concomitant CML and ASM. (25) | 0 |
 | Total | 28 | 8 (29) | 9 (32) |
 
 Imatinib mesylate tablets have not been shown to be effective in patients with less aggressive forms of systemic mastocytosis (SM).
@@ -322,19 +323,19 @@ A further 6 DFSP patients treated with imatinib mesylate tablets are reported in
 The total population treated for DFSP therefore comprises 18 patients, 8 of them with metastatic disease.
 The adult patients reported in the published literature were treated with either 400 mg (4 cases) or 800 mg (1 case) imatinib mesylate tablets daily.
 A single pediatric patient received 400 mg/m2/daily, subsequently increased to 520 mg/m2/daily.
-Ten patients had the PDGF B gene re-arrangement, 5 had no available cytogenetics and 3 had complex cytogenetic abnormalities.
+Ten patients had the PDGF B gene rearrangement, 5 had no available cytogenetics and 3 had complex cytogenetic abnormalities.
 Responses to treatment are described in Table 25.
 
 Table 25: Response in DFSP
 
-|  | Number of Patients (N = 18) | % |
+|  | Number of Patients (n = 18) | % |
 | --- | --- | --- |
 | Complete Response | 7 | 39 |
-| Partial Response5 patients made disease free by surgery | 8 | 44 |
+| Partial Response5 patients made disease free by surgery. | 8 | 44 |
 | Total Responders | 15 | 83 |
 
 Twelve of these 18 patients either achieved a complete response (7 patients) or were made disease free by surgery after a partial response (5 patients, including one child) for a total complete response rate of 67%.
 A further 3 patients achieved a partial response, for an overall response rate of 83%.
 Of the 8 patients with metastatic disease, five responded (62%), three of them completely (37%).
-For the 10 study patients with the PDGF B gene re-arrangement, there were 4 complete and 6 partial responses.
+For the 10 study patients with the PDGF B gene rearrangement, there were 4 complete and 6 partial responses.
 The median duration of response in the Phase 2 study was 6.2 months, with a maximum duration of 24.3 months, while in the published literature it ranged between 4 weeks and more than 20 months.

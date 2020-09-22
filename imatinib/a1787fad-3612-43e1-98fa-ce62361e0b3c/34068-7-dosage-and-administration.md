@@ -3,7 +3,7 @@
 ## 2.1 Drug Administration
 
 The prescribed dose should be administered orally, with a meal and a large glass of water.
-Doses of 400 mg or 600 mg should be administered once-daily, whereas a dose of 800 mg should be administered as 400 mg twice a day.
+Doses of 400 mg or 600 mg should be administered once daily, whereas a dose of 800 mg should be administered as 400 mg twice a day.
 
 For patients unable to swallow the film-coated tablets, the tablets may be dispersed in a glass of water or apple juice.
 The required number of tablets should be placed in the appropriate volume of beverage (approximately 50 mL for a 100 mg tablet, and 200 mL for a 400 mg tablet) and stirred with a spoon.
@@ -17,12 +17,12 @@ Treatment may be continued as long as there is no evidence of progressive diseas
 
 The recommended dose of imatinib mesylate tablets is 400 mg/day for adult patients in chronic phase CML and 600 mg/day for adult patients in accelerated phase or blast crisis.
 
-In CML, a dose increase from 400 mg to 600 mg in adult patients with chronic phase disease, or from 600 mg to 800 mg (given as 400 mg twice-daily) in adult patients in accelerated phase or blast crisis may be considered in the absence of severe adverse drug reaction and severe non-leukemia related neutropenia or thrombocytopenia in the following circumstances: disease progression (at any time), failure to achieve a satisfactory hematologic response after at least 3 months of treatment, failure to achieve a cytogenetic response after 6 to 12 months of treatment, or loss of a previously achieved hematologic or cytogenetic response.
+In CML, a dose increase from 400 mg to 600 mg in adult patients with chronic phase disease, or from 600 mg to 800 mg (given as 400 mg twice daily) in adult patients in accelerated phase or blast crisis may be considered in the absence of severe adverse drug reaction and severe non-leukemia related neutropenia or thrombocytopenia in the following circumstances: disease progression (at any time), failure to achieve a satisfactory hematologic response after at least 3 months of treatment, failure to achieve a cytogenetic response after 6 to 12 months of treatment, or loss of a previously achieved hematologic or cytogenetic response.
 
 ## 2.3 Pediatric Patients with Ph+ CML CP
 
 The recommended dose of imatinib mesylate tablets for children with newly diagnosed Ph+ CML is 340 mg/m2/day (not to exceed 600 mg).
-Imatinib mesylate tablets treatment can be given as a once-daily dose or the daily dose may be split into two - one portion dosed in the morning and one portion in the evening.
+Imatinib mesylate tablets treatment can be given as a once daily dose or the daily dose may be split into two - one portion dosed in the morning and one portion in the evening.
 There is no experience with imatinib mesylate tablets treatment in children under 1 year of age.
 
 ## 2.4 Adult Patients with Ph+ ALL
@@ -36,15 +36,13 @@ Imatinib mesylate tablets treatment can be given as a once daily dose.
 
 ## 2.6 Adult Patients with MDS/MPD
 
-Determine PDGFRb gene re-arrangements status prior to initiating treatment.
-Information on FDA-approved tests for the detection of PDGFRb re-arrangements is available at http://www.fda.gov/companiondiagnostics.
+Determine PDGFRb gene rearrangements status prior to initiating treatment.
 
 The recommended dose of imatinib mesylate tablets is 400 mg/day for adult patients with MDS/MPD.
 
 ## 2.7 Adult Patients with ASM
 
 Determine D816V c-Kit mutation status prior to initiating treatment.
-Information on FDA-approved test for the detection of D816V c-Kit mutation is available at http://www.fda.gov/companiondiagnostics.
 
 The recommended dose of imatinib mesylate tablets is 400 mg/day for adult patients with ASM without the D816V c-Kit mutation.
 If c-Kit mutational status is not known or unavailable, treatment with imatinib mesylate tablets 400 mg/day may be considered for patients with ASM not responding satisfactorily to other therapies.
@@ -97,7 +95,7 @@ Dose reduction or treatment interruptions for severe neutropenia and thrombocyto
 
 Table 1: Dose Adjustments for Neutropenia and Thrombocytopenia
 
-| ASM associated with eosinophilia (starting dose 100 mg) | ANCANC = absolute neutrophil count less than 1.0 x 109/Land/orplatelets less than 50 x 109/L | 1.Stop imatinib mesylate tablets until ANC greater than or equal to 1.5 x 109/L and platelets greater than or equal to 75 x 109/L2.Resume treatment with imatinib mesylate tablets at previous dose (i.e., dose before severe adverse reaction) |
+| ASM associated with eosinophilia (starting dose 100 mg) | ANCANC = absolute neutrophil count. less than 1.0 x 109/Land/orplatelets less than 50 x 109/L | 1.Stop imatinib mesylate tablets until ANC greater than or equal to 1.5 x 109/L and platelets greater than or equal to 75 x 109/L2.Resume treatment with imatinib mesylate tablets at previous dose (i.e., dose before severe adverse reaction) |
 | --- | --- | --- |
 | HES/CEL with FIP1L1-PDGFRα fusion kinase (starting dose 100 mg) | ANC less than 1.0 x 109/Land/orplatelets less than 50 x 109/L | 1.Stop imatinib mesylate tablets until ANC greater than or equal to 1.5 x 109/L and platelets greater than or equal to 75 x 109/L2.Resume treatment with imatinib mesylate tablets at previous dose (i.e., dose before severe adverse reaction) |
 | Chronic Phase CML (starting dose 400 mg)MDS/MPD, ASM and HES/CEL (starting dose 400 mg) | ANC less than 1.0 x 109/Land/orplatelets less than 50 x 109/L | 1.Stop imatinib mesylate tablets until ANC greater than or equal to 1.5 x 109/L and platelets greater than or equal to 75 x 109/L2.Resume treatment with imatinib mesylate tablets at the original starting dose of 400 mg3.If recurrence of ANC less than 1.0 x 109/L and/or platelets less than 50 x 109/L, repeat step 1 and resume imatinib mesylate tablets at a reduced dose of 300 mg |
