@@ -10,5 +10,5 @@ MICARDIS tablets 40 mg are oblong shaped and individually blister-sealed in cart
 
 MICARDIS tablets 80 mg are oblong shaped and individually blister-sealed in cartons of 30 tablets as 3 x 10 cards (NDC 0597-0041-37).
 
-Storage Store at 25°C (77°F); excursions permitted to 15°-30°C (59°-86°F) [see USP Controlled Room Temperature].
+Storage Store at 20°C to 25°C (68°F to 77°F); excursions permitted to 15°C to 30°C (59°F to 86°F) [see USP Controlled Room Temperature].
 Tablets should not be removed from blisters until immediately before administration.

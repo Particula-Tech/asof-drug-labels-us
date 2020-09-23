@@ -8,7 +8,7 @@ These benefits have been seen in controlled trials of antihypertensive drugs fro
 
 Control of high blood pressure should be part of comprehensive cardiovascular risk management, including, as appropriate, lipid control, diabetes management, antithrombotic therapy, smoking cessation, exercise, and limited sodium intake.
 Many patients will require more than one drug to achieve blood pressure goals.
-For specific advice on goals and management, see published guidelines, such as those of the National High Blood Pressure Education Program’s Joint National Committee on Prevention, Detection, Evaluation, and Treatment of High Blood Pressure (JNC).
+For specific advice on goals and management, see published guidelines, such as those of the National High Blood Pressure Education Program's Joint National Committee on Prevention, Detection, Evaluation, and Treatment of High Blood Pressure (JNC).
 
 Numerous antihypertensive drugs, from a variety of pharmacologic classes and with different mechanisms of action, have been shown in randomized controlled trials to reduce cardiovascular morbidity and mortality, and it can be concluded that it is blood pressure reduction, and not some other pharmacologic property of the drugs, that is largely responsible for those benefits.
 The largest and most consistent cardiovascular outcome benefit has been a reduction in the risk of stroke, but reductions in myocardial infarction and cardiovascular mortality also have been seen regularly.

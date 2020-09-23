@@ -1,6 +1,6 @@
 Patient Information
 
-MICARDIS® (my-CAR-dis) (telmisartan) Tablets
+MICARDIS® (my-CAR-dis) (telmisartan tablets)
 
 Read this Patient Information before you start taking MICARDIS tablets and each time you get a refill.
 There may be new information.
@@ -32,7 +32,7 @@ What should I tell my doctor before taking MICARDIS tablets?
 Before you take MICARDIS tablets, tell your doctor if you:
 
 - are pregnant or are planning to become pregnant.
-  See “What is the most important information I should know about MICARDIS tablets?”
+  See "What is the most important information I should know about MICARDIS tablets?"
 - are breast-feeding or plan to breast-feed.
   It is not known if MICARDIS passes into your breast milk.
   You and your doctor should decide if you will take MICARDIS tablets or breast-feed.
@@ -137,7 +137,7 @@ This Patient Information leaflet summarizes the most important information about
 If you would like more information, talk with your doctor.
 You can ask your pharmacist or doctor for information about MICARDIS tablets that is written for health professionals.
 
-For more information, scan the code below or go to www.us.micardis.com or call Boehringer Ingelheim Pharmaceuticals, Inc. at 1-800-542-6257, or (TTY) 1-800-459-9906.
+For current prescribing information, scan the code below or call Boehringer Ingelheim Pharmaceuticals, Inc. at 1-800-542-6257, or (TTY) 1-800-459-9906.
 
 What are the ingredients in MICARDIS tablets?
 
@@ -168,7 +168,7 @@ Tear (You may also use scissors to tear the blister apart)
 Peel (Peel off the paper layer from the aluminum foil)
 
 3.
-Push (Push the tablet through the foil)
+Push (Push the tablet through the aluminum foil)
 
 This Patient Information has been approved by the U.S. Food and Drug Administration
 
@@ -176,11 +176,11 @@ Distributed by: Boehringer Ingelheim Pharmaceuticals, Inc. Ridgefield, CT 06877 
 
 Licensed from: Boehringer Ingelheim International GmbH, Ingelheim, Germany
 
-Copyright © 2018 Boehringer Ingelheim International GmbH ALL RIGHTS RESERVED
+Copyright © 2020 Boehringer Ingelheim International GmbH ALL RIGHTS RESERVED
 
 MICARDIS® is a registered trademark of and used under license from Boehringer Ingelheim International GmbH.
-The other brands listed are trademarks of their owners.
+The other brands listed are trademarks of their respective owners and are not trademarks of Boehringer Ingelheim Pharmaceuticals, Inc.
 
-Revised: February 2018
+Revised: July 2020
 
-OT1200YB092018
+OT1200AAH042020
