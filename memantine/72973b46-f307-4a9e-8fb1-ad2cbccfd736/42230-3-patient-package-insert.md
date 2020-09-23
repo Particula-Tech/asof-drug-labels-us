@@ -61,8 +61,8 @@ How should I take memantine hydrochloride tablets?
   Do not use any tablets of memantine hydrochloride that are damaged or show signs of tampering.
 - If you forget to take one dose of memantine hydrochloride tablets, do not double up on the next dose.
   You should take only the next dose as scheduled.
-- If you have forgotten to take memantine hydrochloride tablets for several days, you should not take the next dose until you talk to your doctor.
-- If you take too many memantine hydrochloride tablets, call your doctor or poison control center at 1-800-222-1222 right away, or go to the nearest hospital emergency room.
+- If you have forgotten to take memantine hydrochloride for several days, you should not take the next dose until you talk to your doctor.
+- If you take too much memantine hydrochloride, call your doctor or poison control center at 1-800-222-1222, or go to the nearest hospital emergency room right away.
 
 What are the possible side effects of memantine hydrochloride tablets?
 
@@ -124,12 +124,9 @@ Clonshaugh, Ireland
 
 Licensed from Merz Pharma GmbH & Co. KGaA
 
-© 2019 Allergan.
+© 2020 Allergan.
 All rights reserved
 
 All trademarks are the property of their respective owners.
 
 Content updated: November 2018
-
-Rev.
-6/2019

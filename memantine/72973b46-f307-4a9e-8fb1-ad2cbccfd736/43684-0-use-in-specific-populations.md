@@ -61,7 +61,7 @@ Table 2: Study A Commonly Reported Adverse Reactions with a Frequency ≥ 5% and
 | Influenza | 7.1% | 3.4% |
 | Rhinorrhea | 5.4% | 0% |
 | Agitation | 5.4% | 1.7% |
-| Discontinuations due to Adverse Reactionsa |  |  |
+| Discontinuations due to adverse reactionsa |  |  |
 | Aggression | 3.6% | 1.7% |
 | Irritability | 1.8% | 3.4% |
 | a Reported adverse reactions leading to discontinuation in more than one patient in either treatment group. |  |  |
@@ -76,7 +76,7 @@ Table 3: 12-48 Week Open Label Lead-In study to Study B Commonly Reported Advers
 | Nasopharyngitis | 6.3% |
 | Pyrexia | 5.8% |
 | Irritability | 5.4% |
-| Discontinuations due to Adverse Reactionsa |  |
+| Discontinuations due to adverse reactionsa |  |
 | Irritability | 1.2% |
 | Aggression | 1.0% |
 | a At least 1% incidence of adverse reactions leading to premature discontinuation. |  |

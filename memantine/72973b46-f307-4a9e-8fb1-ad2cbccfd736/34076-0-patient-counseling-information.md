@@ -17,7 +17,9 @@ Manufactured by: Forest Laboratories Ireland Ltd., an Allergan affiliate Clonsha
 
 Licensed from Merz Pharma GmbH & Co. KGaA
 
-© 2019 Allergan.
+© 2020 Allergan.
 All rights reserved
 
 All trademarks are the property of their respective owners.
+
+Revised: 11/2018

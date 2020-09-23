@@ -79,8 +79,8 @@ In vitro studies conducted with marker substrates of CYP450 enzymes (CYP1A2, -2A
 In addition, in vitro studies indicate that at concentrations exceeding those associated with efficacy, memantine does not induce the cytochrome P450 isozymes CYP1A2, -2C9, -2E1 and -3A4/5.
 No pharmacokinetic interactions with drugs metabolized by these enzymes are expected.
 
-Pharmacokinetic studies evaluated the potential of memantine for interaction with warfarin, and buproprion.
-Memantine did not affect the pharmacokinetics of the CYP2B6 substrate buproprion or its metabolite hydroxy-buproprion.
+Pharmacokinetic studies evaluated the potential of memantine for interaction with warfarin, and bupropion.
+Memantine did not affect the pharmacokinetics of the CYP2B6 substrate bupropion or its metabolite hydroxy-bupropion.
 Furthermore, memantine did not affect the pharmacokinetics or pharmacodynamics of warfarin as assessed by the prothrombin INR.
 
 Effect of Other Drugs on Memantine Hydrochloride
