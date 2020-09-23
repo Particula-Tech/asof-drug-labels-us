@@ -1,0 +1,21 @@
+{
+  "application_numbers": [
+    "NDA021717"
+  ],
+  "inn": "lidocaine",
+  "labeler": "Oba Pharmaceuticals, Inc.",
+  "package_ndcs": [
+    "73575-010-02",
+    "73575-010-04",
+    "73575-010-09"
+  ],
+  "products": [
+    {
+      "form": "CREAM",
+      "generic": "lidocaine and tetracaine",
+      "name": "Pliaglis"
+    }
+  ],
+  "setid": "4ccdf61b-3128-4a97-a89c-a11e40823938",
+  "source": "dailymed"
+}
