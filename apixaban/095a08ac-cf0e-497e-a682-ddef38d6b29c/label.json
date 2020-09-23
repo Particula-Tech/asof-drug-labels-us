@@ -1,0 +1,27 @@
+{
+  "application_numbers": [
+    "ANDA209898"
+  ],
+  "inn": "apixaban",
+  "labeler": "Indoco Remedies Limited",
+  "package_ndcs": [
+    "14445-149-05",
+    "14445-149-10",
+    "14445-149-14",
+    "14445-149-18",
+    "14445-149-60",
+    "14445-150-05",
+    "14445-150-10",
+    "14445-150-18",
+    "14445-150-60"
+  ],
+  "products": [
+    {
+      "form": "TABLET, FILM COATED",
+      "generic": "apixaban",
+      "name": "apixaban"
+    }
+  ],
+  "setid": "095a08ac-cf0e-497e-a682-ddef38d6b29c",
+  "source": "dailymed"
+}
