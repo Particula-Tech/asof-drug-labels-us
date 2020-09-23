@@ -27,9 +27,9 @@ Shake the bottle well before each use.
 6. Repeat in the other nostril.
 7. Wipe the nasal applicator with a clean tissue and replace the plastic cap.
 
-Each bottle of NASONEX Nasal Spray contains enough medicine for you to spray medicine from the bottle 120 times.
-Do not use the bottle of NASONEX Nasal Spray after 120 sprays.
-Additional sprays after the 120 sprays may not contain the right amount of medicine, you should keep track of the number of sprays used from each bottle of NASONEX Nasal Spray, and throw away the bottle even if it has medicine still left in.
+Each bottle of NASONEX contains enough medicine for you to spray medicine from the bottle 120 times.
+Do not use the bottle of NASONEX after 120 sprays.
+Additional sprays after the 120 sprays may not contain the right amount of medicine, you should keep track of the number of sprays used from each bottle of NASONEX, and throw away the bottle even if it has medicine still left in.
 Do not count any sprays used for priming the device.
 Talk with your healthcare provider before your supply runs out to see if you should get a refill of your medicine.
 

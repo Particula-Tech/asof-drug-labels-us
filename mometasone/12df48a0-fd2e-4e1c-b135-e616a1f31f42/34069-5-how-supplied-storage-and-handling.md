@@ -1,9 +1,11 @@
 # 16 HOW SUPPLIED/STORAGE AND HANDLING
 
-NASONEX (mometasone furoate monohydrate) Nasal Spray, 50 mcg is supplied in a white, high-density, polyethylene bottle fitted with a white metered-dose, manual spray pump, and blue cap.
-It contains 17 g of product formulation, 120 sprays, each delivering 50 mcg of mometasone furoate per actuation.
+NASONEX Nasal Spray:
 
-(NDC 0085-1288-01).
+- 50 mcg mometasone furoate monohydrate
+- is supplied in a white, high-density, polyethylene bottle fitted with a white metered-dose, manual spray pump, and blue cap
+- contains 17 g of product formulation (NDC 0085-1288-01)
+- 120 sprays, each delivering 50 mcg of mometasone furoate per actuation
 
 Store at 25°C (77°F); excursions permitted to 15-30°C (59-86°F) [see USP Controlled Room Temperature].
 Protect from light.

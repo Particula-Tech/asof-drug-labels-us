@@ -2,7 +2,7 @@
 
 ## 13.1 Carcinogenesis, Mutagenesis, Impairment of Fertility
 
-In a 2-year carcinogenicity study in Sprague Dawley rats, mometasone furoate demonstrated no statistically significant increase in the incidence of tumors at inhalation doses up to 67 mcg/kg (approximately 1 and 2 times the maximum recommended daily intranasal dose [MRDID] in adults [400 mcg] and children [100 mcg], respectively, on a mcg/m2 basis).
+In a 2-year carcinogenicity study in Sprague Dawley rats, mometasone furoate demonstrated no statistically significant increase in the incidence of tumors at inhalation doses up to 67 mcg/kg (approximately 1 and 2 times the maximum recommended daily nasal dose [MRDID] in adults [400 mcg] and children [100 mcg], respectively, on a mcg/m2 basis).
 In a 19-month carcinogenicity study in Swiss CD-1 mice, mometasone furoate demonstrated no statistically significant increase in the incidence of tumors at inhalation doses up to 160 mcg/kg (approximately 2 times the MRDID in adults and children, respectively, on a mcg/m2 basis).
 
 Mometasone furoate increased chromosomal aberrations in an in vitro Chinese hamster ovary-cell assay, but did not increase chromosomal aberrations in an in vitro Chinese hamster lung cell assay.
@@ -13,9 +13,7 @@ In reproductive studies in rats, impairment of fertility was not produced by sub
 
 ## 13.2 Animal Toxicology and/or Pharmacology
 
-Reproduction Toxicology Studies
-
-In mice, mometasone furoate caused cleft palate at subcutaneous doses of 60 mcg/kg and above (less than the MRDID in adults on a mcg/m2 basis).
+Reproduction Toxicology Studies In mice, mometasone furoate caused cleft palate at subcutaneous doses of 60 mcg/kg and above (less than the MRDID in adults on a mcg/m2 basis).
 Fetal survival was reduced at 180 mcg/kg (approximately 2 times the MRDID in adults on a mcg/m2 basis).
 No toxicity was observed at 20 mcg/kg (less than the MRDID in adults on a mcg/m2 basis).
 
