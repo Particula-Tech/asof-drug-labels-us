@@ -39,3 +39,8 @@ Administration
   The next dose should not be doubled.
   Inform patients that doses of ranolazine extended-release tablets higher than 1000 mg twice daily should not be used [see DOSAGE AND ADMINISTRATION (2)].
 - Advise patients to inform their physician of any other medications taken concurrently with ranolazine extended-release tablets, including over-the-counter medications.
+
+Residual Inert Matrix Tablet
+
+Patients receiving ranolazine extended-release tablets may notice an inert matrix passing in the stool.
+Patients should be informed that the active medication has already been absorbed by the time the patient sees the inert matrix tablet.

@@ -85,6 +85,8 @@ How should I take ranolazine extended-release tablet?
   Do not make up for the missed dose.
   Do not take more than 1 dose at a time.
 - If you take too much ranolazine extended-release tablet, call your doctor, or go to the nearest emergency room right away.
+- When you take ranolazine extended-release tablet, you may see something in your stool that looks like a tablet.
+  This is the empty shell from the tablet after the medicine has been absorbed by your body.
 
 What should I avoid while taking ranolazine extended-release tablet?
 
@@ -176,4 +178,4 @@ Goa - 403 722
 
 INDIA.
 
-Revised: October 2019 ID#: 262256
+Revised: October 2020 ID#: 266227
