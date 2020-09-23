@@ -11,12 +11,12 @@ NDC 0054-0334-25: Bottle of 100 Capsules
 Store at 20° to 25°C (68° to 77°F).
 [See USP Controlled Room Temperature.]
 
-Distr. by: West-Ward
+Distr. by: Hikma
 
-Pharmaceuticals Corp.
+Pharmaceuticals USA Inc.
 
-Eatontown, NJ 07724
+Berkeley Heights, NJ 07922
 
-10006322/02
+C50000416/01
 
-Revised April 2016
+Revised September 2020
