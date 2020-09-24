@@ -17,7 +17,7 @@ The following table lists the adverse reactions that occurred with an overall fr
 | General Disorders and Administration Site Conditions | incision site complication, pharyngolaryngeal pain, procedural complication, procedural pain |
 | Nervous System Disorders | dizziness, headache, postoperative shivering, prolonged neuromuscular blockade |
 | Psychiatric Disorders | insomnia |
-| Respiratory, Thoracic and Mediastinal Disorders | dyspnea, oxygen desaturation <90% |
+| Respiratory, Thoracic and Mediastinal Disorders | dyspnea, oxygen desaturation < 90% |
 | Skin and Subcutaneous Tissue Disorders | pruritus |
 
 ## 6.2 Post Marketing Experience

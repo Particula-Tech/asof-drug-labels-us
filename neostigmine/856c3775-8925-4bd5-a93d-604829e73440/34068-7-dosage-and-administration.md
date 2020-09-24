@@ -17,7 +17,7 @@ An anticholinergic agent, e.g., atropine sulfate or glycopyrrolate, should be ad
 
 a. Peripheral nerve stimulation devices capable of delivering a train-of-four (TOF) stimulus are essential to effectively using neostigmine methylsulfate injection.
 
-b. There must be a twitch response to the first stimulus in the TOF of at least 10% of its baseline level, i.e., the response prior to NMBA administration, prior to the administration of neostigmine methylsulfate injection.
+b. There must be a twitch response to the first stimulus in the TOF of at least 10% of its baseline level, i.e. the response prior to NMBA administration, prior to the administration of neostigmine methylsulfate injection.
 
 c. Prior to administration, visually inspect neostigmine methylsulfate injection for particulate matter and discoloration.
 

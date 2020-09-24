@@ -13,19 +13,19 @@ Neostigmine methylsulfate does not readily cross the blood-brain barrier and, th
 
 ## 12.3 Pharmacokinetics
 
-Distribution: Following intravenous injection, the observed neostigmine methylsulfate volume of distribution is reported between 0.12 and 1.4 L/kg.
-Protein binding of neostigmine methylsulfate to human serum albumin ranges from 15 to 25%.
+Distribution: Following intravenous injection, the observed neostigmine methylsulfate volume of distribution is reported between 0.12 L/kg and 1.4 L/kg.
+Protein binding of neostigmine methylsulfate to human serum albumin ranges from 15% to 25%.
 
 Metabolism: Neostigmine methylsulfate is metabolized by microsomal enzymes in the liver.
 
 Elimination: Following intravenous injection, the reported elimination half-life of neostigmine methylsulfate is between 24 and 113 minutes.
-Total body clearance of neostigmine methylsulfate is reported between 1.14 and 16.7 mL/min/kg.
+Total body clearance of neostigmine methylsulfate is reported between 1.14 mL/min/kg and 16.7 mL/min/kg.
 
-Renal impairment: Elimination half-life of neostigmine methylsulfate was prolonged in anephric patients compared to normal subjects; elimination half-life for normal, transplant and anephric patients were 79.8 ± 48.6, 104.7 ± 64 and 181 ± 54 min (mean ± SD), respectively.
+Renal impairment: Elimination half-life of neostigmine methylsulfate was prolonged in anephric patients compared to normal subjects; elimination half-life for normal, transplant and anephric patients were 79.8 ± 48.6 min, 104.7 ± 64 min and 181 ± 54 min (mean ± SD), respectively.
 
 Hepatic impairment: The pharmacokinetics of neostigmine methylsulfate in patients with hepatic impairment has not been studied.
 
 Pediatrics: Elimination half-life of neostigmine methylsulfate in infants (2 to 10 months), children (1 to 6 years) and adults (29 to 48 years) were 39 ± 5 min, 48 ± 16 min, and 67 ± 8 min (mean ± SD), respectively.
-Observed neostigmine methylsulfate clearance for infants, children and adults were 14 ± 3, 11 ± 3 and 10 ± 2 mL/min/kg (mean ± SD), respectively.
+Observed neostigmine methylsulfate clearance for infants, children and adults were 14 ± 3 mL/min/kg, 11 ± 3 mL/min/kg and 10 ± 2 mL/min/kg (mean ± SD), respectively.
 
 Drug Interaction Studies: The pharmacokinetic interaction between neostigmine methylsulfate and other drugs has not been studied.

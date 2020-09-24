@@ -10,7 +10,7 @@ Rx Only
 
 Vial Label
 
-Amneal Biosciences LLC
+Amneal Pharmaceuticals LLC
 
 NDC: 70121-1478-7
 
@@ -22,7 +22,7 @@ Rx Only
 
 Carton Label
 
-Amneal Biosciences LLC
+Amneal Pharmaceuticals LLC
 
 NDC: 70121-1479-1
 
@@ -34,7 +34,7 @@ Rx Only
 
 Vial Label
 
-Amneal Biosciences LLC
+Amneal Pharmaceuticals LLC
 
 NDC: 70121-1479-7
 
@@ -46,4 +46,4 @@ Rx Only
 
 Carton Label
 
-Amneal Biosciences LLC
+Amneal Pharmaceuticals LLC
