@@ -31,16 +31,16 @@ Two of the five trials provided adequate demonstration of efficacy for mitigatio
 No two of the five trials adequately demonstrated efficacy for mitigation of coarse wrinkling, mottled hyperpigmentation, tactile skin roughness, and laxity.
 Data for fine wrinkling (the indication for which RENOVA (tretinoin cream) 0.02% demonstrated efficacy) from all five trials (four studies in lightly pigmented subjects with Fitzpatrick Skin Types I-III and one study in darkly pigmented subjects with Fitzpatrick Skin Types IV-VI) is provided below:
 
-FINE WRINKLING IN LIGHTLY PIGMENTED SUBJECTS
-
-|  | Subjects Using RENOVA (tretinoin cream) 0.02% + CSP (N=279) | Vehicle + CSP (N=280) |  |  |
+|  | Subjects Using RENOVA (tretinoin cream) 0.02% + CSP* (N=279) | Vehicle + CSP* (N=280) |  |  |
 | --- | --- | --- | --- | --- |
+| FINE WRINKLING IN LIGHTLY PIGMENTED SUBJECTS |  |  |  |  |
 | Worsened | 1% | 3% |  |  |
 | No Change | 40% | 58% |  |  |
 | Minimal Improvement | 35% | 27% |  |  |
 | Mild Improvement | 15% | 9% |  |  |
 | Moderate Improvement | 10% | 3% |  |  |
-| A single-center study (N=107) in darkly pigmented, mostly African-American, subjects with Fitzpatrick Skin Types IV-VI demonstrated minimal or mild improvement in fine facial wrinkling in 43% of patients using Vehicle + CSP compared to 29% of subjects using RENOVA (tretinoin cream) 0.02% + CSP. Although fewer darkly pigmented subjects improved with RENOVA (tretinoin cream) 0.02% than with vehicle, these findings may reflect the small size of this study. |  |  |  |  |
+| A single-center study (N=107) in darkly pigmented, mostly African-American, subjects with Fitzpatrick Skin Types IV-VI demonstrated minimal or mild improvement in fine facial wrinkling in 43% of patients using Vehicle + CSP compared to 29% of subjects using RENOVA (tretinoin cream) 0.02% + CSP*. Although fewer darkly pigmented subjects improved with RENOVA (tretinoin cream) 0.02% than with vehicle, these findings may reflect the small size of this study. |  |  |  |  |
+| * CSP – Comprehensive skin protection and sunlight avoidance programs including use of sunscreens, protective clothing, and non-prescription emollient creams. |  |  |  |  |
 
 Self-assessment of fine wrinkles after 24 weeks of treatment with either RENOVA (tretinoin cream) 0.02% or Vehicle from the four studies in lightly pigmented patients showed the following:
 

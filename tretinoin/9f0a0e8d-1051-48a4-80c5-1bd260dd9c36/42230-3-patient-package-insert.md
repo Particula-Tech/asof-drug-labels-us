@@ -1,6 +1,4 @@
-RENOVA (TRETINOIN CREAM) 0.02%
-
-RENOVA (reh-NO-vah) Generic Name: Tretinoin Cream (0.02%) Use only on the Face
+RENOVA (TRETINOIN CREAM) 0.02% RENOVA (reh-NO-vah) Generic Name: Tretinoin Cream (0.02%) Use only on the Face
 
 Read this leaflet carefully before you start to use your medicine.
 Read the information you get every time you get more medicine.
@@ -129,5 +127,7 @@ You can ask your pharmacist or doctor for information about RENOVA (tretinoin cr
 
 Storage: Store at 25°C (77°F); excursions permitted to 15° to 30°C (59° to 86°F).
 
-Manufactured for: Bausch Health US, LLC, Bridgewater, NJ 08807 USA Manufactured by: Bausch Health Companies Inc., Laval, Quebec H7L, 4A8, Canada RENOVA is a trademark of Bausch Health Companies Inc. or its affiliates. © 2019 Bausch Health Companies Inc. or its affiliates Rev.
+Manufactured for: Bausch Health US, LLC, Bridgewater, NJ 08807 USA Manufactured by: Bausch Health Companies Inc., Laval, Quebec H7L 4A8, Canada RENOVA is a trademark of Bausch Health Companies Inc. or its affiliates. © 2019 Bausch Health Companies Inc. or its affiliates Rev.
 09/2019 9418703
+
+9418803
