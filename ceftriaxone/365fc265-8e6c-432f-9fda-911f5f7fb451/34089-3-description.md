@@ -16,4 +16,4 @@ Ceftriaxone sodium contains approximately 83 mg (3.6 mEq) of sodium per gram of 
 A Pharmacy Bulk Package is a container of a sterile preparation for parenteral use that contains many single doses.
 The contents are intended for use in a pharmacy admixture program and are restricted to the preparation of admixtures for intravenous infusion.
 FURTHER DILUTION IS REQUIRED BEFORE USE.
-(See Dosage and Administration and Directions for Proper Use of Pharmacy Bulk Package.)
+(See DOSAGE AND ADMINISTRATION, and DIRECTIONS FOR PROPER USE OF PHARMACY BULK PACKAGE.)

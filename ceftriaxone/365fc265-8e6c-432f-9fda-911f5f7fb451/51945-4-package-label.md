@@ -1,26 +1,21 @@
-# 10 g Label
+# PACKAGE/LABEL PRINCIPAL DISPLAY PANEL
 
 NDC 0409-7334-10
 
-Ceftriaxone
+Ceftriaxone for
 
-For Injection, USP
+Injection, USP
 
-10 g – PHARMACY BULK PACKAGE NOT FOR DIRECT INFUSION
+PHARMACY BULK PACKAGE
+
+NOT FOR DIRECT INFUSION
+
+10 grams
 
 Rx Only
 
-Vial contains ceftriaxone sodium powder equivalent 10 grams of
+For Intravenous use
 
-ceftriaxone.
-Reconstituted and further dilute with appropriate I.V. diluent
-
-for parenteral administration.
-
-For Intravenous Use
-
-THIS PACKAGE IS NOT INTENDED
-
-TO BE DISPENSED AS A UNIT.
+1 Vial
 
 Hospira

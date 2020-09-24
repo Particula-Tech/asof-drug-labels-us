@@ -11,7 +11,7 @@ The incidence of warmth, tightness or induration was 17% (3/17) after IM adminis
 
 ## General Disorders and Administration Site Conditions
 
-Injection site pain (0.6%).
+Injection site pain (0.6%)
 
 ## Hypersensitivity
 
@@ -35,7 +35,7 @@ Granulocytopenia (0.9%), coagulopathy (0.4%)
 
 Diarrhea/loose stools (2.7%).
 Less frequently reported (<1%) were nausea or vomiting, and dysgeusia.
-The onset of pseudomembranous colitis symptoms may occur during or after antibacterial treatment (see Warnings).
+The onset of pseudomembranous colitis symptoms may occur during or after antibacterial treatment (see WARNINGS).
 
 ## Hepatic
 
@@ -65,7 +65,7 @@ Blood creatinine increased (0.6%).
 
 Other rarely observed adverse reactions (<0.1%) include abdominal pain, agranulocytosis, allergic pneumonitis, anaphylaxis, basophilia, biliary lithiasis, bronchospasm, colitis, dyspepsia, epistaxis, flatulence, gallbladder sludge, glycosuria, hematuria, jaundice, leukocytosis, lymphocytosis, monocytosis, nephrolithiasis, palpitations, a decrease in the prothrombin time, renal precipitations, seizures, and serum sickness.
 
-## Post marketing Experience
+## Post-Marketing Experience
 
 In addition to the adverse reactions reported during clinical trials, the following adverse experiences have been reported during clinical practice in patients treated with ceftriaxone.
 Data are generally insufficient to allow an estimate of incidence or to establish causation.
@@ -109,8 +109,8 @@ Allergic reactions, drug fever, serum sickness-like reaction, renal dysfunction,
 
 ### Altered Laboratory Tests
 
-Positive direct Coombs’ test, false-positive test for urinary glucose, and elevated LDH (see Precautions).
+Positive direct Coombs’ test, false-positive test for urinary glucose, and elevated LDH (see PRECAUTIONS).
 
-Several cephalosporins have been implicated in triggering seizures, particularly in patients with renal impairment when the dosage was not reduced (see Dosage and Administration).
+Several cephalosporins have been implicated in triggering seizures, particularly in patients with renal impairment when the dosage was not reduced (see DOSAGE AND ADMINISTRATION).
 If seizures associated with drug therapy occur, the drug should be discontinued.
 Anticonvulsant therapy can be given if clinically indicated.

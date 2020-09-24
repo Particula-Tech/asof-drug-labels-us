@@ -8,16 +8,16 @@ Do not use diluents containing calcium, such as Ringer’s solution or Hartmann�
 Precipitation of ceftriaxone-calcium can also occur when ceftriaxone is mixed with calcium-containing solutions in the same IV administration line.
 
 Ceftriaxone must not be administered simultaneously with calcium-containing IV solutions, including continuous calcium-containing infusions such as parenteral nutrition via a Y-site.
-However, in patients other than neonates, ceftriaxone and calcium-containing solutions may be administered sequentially of one another if the infusion lines are thoroughly flushed between infusions with a compatible fluid (see Warnings).
+However, in patients other than neonates, ceftriaxone and calcium-containing solutions may be administered sequentially of one another if the infusion lines are thoroughly flushed between infusions with a compatible fluid (see WARNINGS).
 
 There have been no reports of an interaction between ceftriaxone and oral calcium-containing products or interaction between intramuscular ceftriaxone and calcium-containing products (IV or oral).
 
 ## Neonates
 
 Hyperbilirubinemic neonates, especially prematures, should not be treated with ceftriaxone for injection.
-Ceftriaxone is contraindicated in premature neonates (see Contraindications).
+Ceftriaxone is contraindicated in premature neonates (see CONTRAINDICATIONS).
 
-Ceftriaxone is contraindicated in neonates (≤ 28 days) if they require (or are expected to require) treatment with calcium-containing IV solutions, including continuous calcium-containing infusions such as parenteral nutrition because of the risk of precipitation of ceftriaxone-calcium (see Contraindications).
+Ceftriaxone is contraindicated in neonates (≤ 28 days) if they require (or are expected to require) treatment with calcium-containing IV solutions, including continuous calcium-containing infusions such as parenteral nutrition because of the risk of precipitation of ceftriaxone-calcium (see CONTRAINDICATIONS).
 
 Intravenous doses should be given over 60 minutes in neonates to reduce the risk of bilirubin encephalopathy.
 
@@ -41,8 +41,6 @@ The total daily dose should not exceed 4 grams.
 
 If Chlamydia trachomatis is a suspected pathogen, appropriate antichlamydial coverage should be added, because ceftriaxone sodium has no activity against this organism.
 
-For the treatment of uncomplicated gonococcal infections, a single intramuscular dose of 250 mg is recommended.
-
 For preoperative use (surgical prophylaxis), a single dose of 1 gram administered intravenously 1/2 to 2 hours before surgery is recommended.
 
 Generally, ceftriaxone therapy should be continued for at least 2 days after the signs and symptoms of infection have disappeared.
@@ -50,9 +48,9 @@ The usual duration of therapy is 4 to 14 days; in complicated infections, longer
 
 When treating infections caused by Streptococcus pyogenes, therapy should be continued for at least 10 days.
 
-No dosage adjustment is necessary for patients with impairment of renal or hepatic function (see Precautions).
+No dosage adjustment is necessary for patients with impairment of renal or hepatic function (see PRECAUTIONS).
 
-The dosages recommended for adults require no modification in elderly patients, up to 2 g per day, provided there is no severe renal and hepatic impairment (see Precautions).
+The dosages recommended for adults require no modification in elderly patients, up to 2 g per day, provided there is no severe renal and hepatic impairment (see PRECAUTIONS).
 
 ## DIRECTIONS FOR PROPER USE OF PHARMACY BULK PACKAGE
 
@@ -97,7 +95,7 @@ Do not refrigerate the admixture as precipitation will occur.
 Vancomycin, amsacrine, aminoglycosides, and fluconazole are incompatible with ceftriaxone in admixtures.
 When any of these drugs are to be administered concomitantly with ceftriaxone by intermittent intravenous infusion, it is recommended that they be given sequentially, with thorough flushing of the intravenous lines (with one of the compatible fluids) between the administrations.
 
-Ceftriaxone for injection solutions should not be physically mixed with or piggybacked into solutions containing other antimicrobial drugs or into diluent solutions other than those listed above, due to possible incompatibility (see Warnings).
+Ceftriaxone for injection solutions should not be physically mixed with or piggybacked into solutions containing other antimicrobial drugs or into diluent solutions other than those listed above, due to possible incompatibility (see WARNINGS).
 
 Ceftriaxone sodium sterile powder should be stored at 20° to 25°C (68° to 77°F) [see USP Controlled Room Temperature] and protected from light.
 After reconstitution, protection from normal light is not necessary.
@@ -107,13 +105,15 @@ Ceftriaxone intravenous solutions, at concentrations of 10, 20 and 40 mg/mL, rem
 
 | Diluent | Storage |  |
 | --- | --- | --- |
-| Room Temp.(25°C) | Refrigerated(4°C) |  |
+| Room Temperature(25°C) | Refrigerated(4°C) |  |
 | Sterile Water | 2 days | 10 days |
 | 0.9% SodiumChloride Solution | 2 days | 10 days |
 | 5% Dextrose Solution | 2 days | 10 days |
 | 10% Dextrose Solution | 2 days | 10 days |
-| 5% Dextrose + 0.9%Sodium Chloride SolutionData available for 10 to 40 mg/mL concentrations in this diluent in PVC containers only. | 2 days | Incompatible |
+| 5% Dextrose + 0.9%Sodium Chloride Solution | 2 days | Incompatible |
 | 5% Dextrose + 0.45%Sodium Chloride Solution | 2 days | Incompatible |
+
+* Data available for 10 to 40 mg/mL concentrations in this diluent in PVC containers only.
 
 The following intravenous ceftriaxone solutions are stable at room temperature (25°C) for 24 hours, at concentrations between 10 mg/mL and 40 mg/mL: Sodium Lactate (PVC container), 10% Invert Sugar (glass container), 5% Sodium Bicarbonate (glass container), Freamine III (glass container), Normosol-M in 5% Dextrose (glass and PVC containers), Ionosol-B in 5% Dextrose (glass container), 5% Mannitol (glass container), 10% Mannitol (glass container).
 
