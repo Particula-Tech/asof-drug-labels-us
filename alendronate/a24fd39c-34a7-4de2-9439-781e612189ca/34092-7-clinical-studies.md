@@ -109,7 +109,7 @@ At the end of the FIT studies the between-treatment group differences were 3.2 m
 
 Weekly Dosing
 
-The therapeutic equivalence of once weekly alendronate 70 mg (n=519) and alendronate 10 mg daily (n=370) was demonstrated in a one-year, double-blind, multicenter study of postmenopausal women with osteoporosis.
+The therapeutic equivalence of once-weekly alendronate 70 mg (n=519) and alendronate 10 mg daily (n=370) was demonstrated in a one-year, double-blind, multicenter study of postmenopausal women with osteoporosis.
 In the primary analysis of completers, the mean increases from baseline in lumbar spine BMD at one year were 5.1% (4.8, 5.4%; 95% CI) in the 70-mg once-weekly group (n=440) and 5.4% (5.0, 5.8%; 95% CI) in the 10-mg daily group (n=330).
 The two treatment groups were also similar with regard to BMD increases at other skeletal sites.
 The results of the intention-to-treat analysis were consistent with the primary analysis of completers.
@@ -118,6 +118,7 @@ Concomitant Use with Estrogen/Hormone Replacement Therapy (HRT)
 
 The effects on BMD of treatment with alendronate 10 mg once daily and conjugated estrogen (0.625 mg/day) either alone or in combination were assessed in a two-year, double-blind, placebo-controlled study of hysterectomized postmenopausal osteoporotic women (n=425).
 At two years, the increases in lumbar spine BMD from baseline were significantly greater with the combination (8.3%) than with either estrogen or alendronate sodium alone (both 6.0%).
+
 The effects on BMD when alendronate sodium was added to stable doses (for at least one year) of HRT (estrogen ± progestin) were assessed in a one-year, double-blind, placebo-controlled study in postmenopausal osteoporotic women (n=428).
 The addition of alendronate 10 mg once daily to HRT produced, at one year, significantly greater increases in lumbar spine BMD (3.7%) vs. HRT alone (1.1%).
 

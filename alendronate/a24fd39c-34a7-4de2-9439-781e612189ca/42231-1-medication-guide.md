@@ -18,6 +18,7 @@ Alendronate sodium tablets can cause serious side effects including:
 - Esophagus problems.
 
 Some people who take alendronate sodium tablets may develop problems in the esophagus (the tube that connects the mouth and the stomach).
+
 These problems include irritation, inflammation, or ulcers of the esophagus which may sometimes bleed.
 
 - It is important that you take alendronate sodium tablets exactly as prescribed to help lower your chance of getting esophagus problems.
@@ -179,6 +180,7 @@ General information about the safe and effective use of alendronate sodium table
 
 Medicines are sometimes prescribed for purposes other than those listed in a Medication Guide.
 Do not use alendronate sodium tablets for a condition for which it was not prescribed.
+
 Do not give alendronate sodium tablets to other people, even if they have the same symptoms you have.
 It may harm them.
 

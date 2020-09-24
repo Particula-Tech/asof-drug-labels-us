@@ -4,8 +4,6 @@
 
 Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in clinical practice.
 
-Treatment of Osteoporosis in Postmenopausal Women
-
 Daily Dosing
 
 The safety of alendronate sodium in the treatment of postmenopausal osteoporosis was assessed in four clinical trials that enrolled 7453 women aged 44-84 years.
@@ -14,6 +12,7 @@ Overall, 3620 patients were exposed to placebo and 3432 patients exposed to alen
 Patients with pre-existing gastrointestinal disease and concomitant use of non-steroidal anti-inflammatory drugs were included in these clinical trials.
 In Study 1 and Study 2 all women received 500 mg elemental calcium as carbonate.
 In Study 3 and Study 4 all women with dietary calcium intake less than 1000 mg per day received 500 mg calcium and 250 IU Vitamin D per day.
+
 Among patients treated with alendronate 10 mg or placebo in Study 1 and Study 2, and all patients in Study 3 and Study 4, the incidence of all-cause mortality was 1.8% in the placebo group and 1.8% in the alendronate sodium group.
 The incidence of serious adverse event was 30.7% in the placebo group and 30.9% in the alendronate sodium group.
 The percentage of patients who discontinued the study due to any clinical adverse event was 9.5% in the placebo group and 8.9% in the alendronate sodium group.
@@ -88,6 +87,7 @@ Daily Dosing
 
 The safety of alendronate 5 mg/day in postmenopausal women 40-60 years of age has been evaluated in three double-blind, placebo-controlled studies involving over 1,400 patients randomized to receive alendronate sodium for either two or three years.
 In these studies the overall safety profiles of alendronate 5 mg/day and placebo were similar.
+
 Discontinuation of therapy due to any clinical adverse event occurred in 7.5% of 642 patients treated with alendronate 5 mg/day and 5.7% of 648 patients treated with placebo.
 
 Weekly Dosing
@@ -164,6 +164,7 @@ The overall safety and tolerability profile in the glucocorticoid-induced osteop
 Paget's Disease of Bone
 
 In clinical studies (osteoporosis and Paget's disease), adverse events reported in 175 patients taking alendronate 40 mg/day for 3-12 months were similar to those in postmenopausal women treated with alendronate 10 mg/day.
+
 However, there was an apparent increased incidence of upper gastrointestinal adverse reactions in patients taking alendronate 40 mg/day (17.7% alendronate sodium vs. 10.2% placebo).
 One case of esophagitis and two cases of gastritis resulted in discontinuation of treatment.
 

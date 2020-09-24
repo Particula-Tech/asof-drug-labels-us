@@ -42,12 +42,11 @@ In placebo-controlled clinical studies of alendronate sodium, the percentages of
 Osteonecrosis of the jaw (ONJ), which can occur spontaneously, is generally associated with tooth extraction and/or local infection with delayed healing, and has been reported in patients taking bisphosphonates, including alendronate sodium.
 Known risk factors for osteonecrosis of the jaw include invasive dental procedures (e.g., tooth extraction, dental implants, boney surgery), diagnosis of cancer, concomitant therapies (e.g., chemotherapy, corticosteroids, angiogenesis inhibitors), poor oral hygiene, and co-morbid disorders (e.g., periodontal and/or other pre-existing dental disease, anemia, coagulopathy, infection, ill-fitting dentures).
 The risk of ONJ may increase with duration of exposure to bisphosphonates.
+
 For patients requiring invasive dental procedures, discontinuation of bisphosphonate treatment may reduce the risk for ONJ.
 Clinical judgment of the treating physician and/or oral surgeon should guide the management plan of each patient based on individual benefit/risk assessment.
 
 Patients who develop osteonecrosis of the jaw while on bisphosphonate therapy should receive care by an oral surgeon.
-In these patients, extensive dental surgery to treat ONJ may exacerbate the condition.
-Discontinuation of bisphosphonate therapy should be considered based on individual benefit/risk assessment.Patients who develop osteonecrosis of the jaw while on bisphosphonate therapy should receive care by an oral surgeon.
 In these patients, extensive dental surgery to treat ONJ may exacerbate the condition.
 Discontinuation of bisphosphonate therapy should be considered based on individual benefit/risk assessment.
 

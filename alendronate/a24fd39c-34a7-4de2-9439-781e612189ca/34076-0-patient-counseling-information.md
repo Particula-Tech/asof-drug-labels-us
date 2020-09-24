@@ -12,6 +12,7 @@ Weight-bearing exercise should be considered along with the modification of cert
 ## 17.2 Dosing Instructions
 
 Instruct patients that the expected benefits of alendronate sodium may only be obtained when it is taken with plain water the first thing upon arising for the day at least 30 minutes before the first food, beverage, or medication of the day.
+
 Even dosing with orange juice or coffee has been shown to markedly reduce the absorption of alendronate sodium [see Clinical Pharmacology (12.3)].
 
 Instruct patients not to chew or suck on the tablet because of a potential for oropharyngeal ulceration.

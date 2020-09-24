@@ -39,7 +39,6 @@ In osteoporosis treatment studies alendronate 10 mg/day decreased the markers of
 In osteoporosis prevention studies alendronate 5 mg/day decreased osteocalcin and total serum alkaline phosphatase by approximately 40% and 15%, respectively.
 Similar reductions in the rate of bone turnover were observed in postmenopausal women during one-year studies with once weekly alendronate 70 mg for the treatment of osteoporosis and once weekly alendronate 35 mg for the prevention of osteoporosis.
 These data indicate that the rate of bone turnover reached a new steady-state, despite the progressive increase in the total amount of alendronate deposited within bone.
-
 As a result of inhibition of bone resorption, asymptomatic reductions in serum calcium and phosphate concentrations were also observed following treatment with alendronate sodium.
 In the long-term studies, reductions from baseline in serum calcium (approximately 2%) and phosphate (approximately 4 to 6%) were evident the first month after the initiation of alendronate 10 mg.
 No further decreases in serum calcium were observed for the five-year duration of treatment; however, serum phosphate returned toward prestudy levels during years three through five.
@@ -66,8 +65,10 @@ Paget's Disease of Bone
 
 Paget's disease of bone is a chronic, focal skeletal disorder characterized by greatly increased and disorderly bone remodeling.
 Excessive osteoclastic bone resorption is followed by osteoblastic new bone formation, leading to the replacement of the normal bone architecture by disorganized, enlarged, and weakened bone structure.
+
 Clinical manifestations of Paget's disease range from no symptoms to severe morbidity due to bone pain, bone deformity, pathological fractures, and neurological and other complications.
 Serum alkaline phosphatase, the most frequently used biochemical index of disease activity, provides an objective measure of disease severity and response to therapy.
+
 Alendronate sodium decreases the rate of bone resorption directly, which leads to an indirect decrease in bone formation.
 In clinical trials, alendronate sodium 40 mg once daily for six months produced significant decreases in serum alkaline phosphatase as well as in urinary markers of bone collagen degradation.
 As a result of the inhibition of bone resorption, alendronate sodium induced generally mild, transient, and asymptomatic decreases in serum calcium and phosphate.
@@ -120,6 +121,7 @@ Renal Impairment: Preclinical studies show that, in rats with kidney failure, in
 In healthy controls, drug that is not deposited in bone is rapidly excreted in the urine.
 No evidence of saturation of bone uptake was found after 3 weeks dosing with cumulative intravenous doses of 35 mg/kg in young male rats.
 Although no formal renal impairment pharmacokinetic study has been conducted in patients, it is likely that, as in animals, elimination of alendronate via the kidney will be reduced in patients with impaired renal function.
+
 Therefore, somewhat greater accumulation of alendronate in bone might be expected in patients with impaired renal function.
 
 No dosage adjustment is necessary for patients with creatinine clearance 35 to 60 mL/min.

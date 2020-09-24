@@ -8,10 +8,10 @@ Available data on the use of Alendronate sodium in pregnant women are insufficie
 Discontinue Alendronate sodium when pregnancy is recognized.
 
 In animal reproduction studies, daily oral administration of alendronate to rats from before mating through the end of gestation or lactation showed decreased postimplantation survival and decreased pup body weight gain starting at doses equivalent to less than half of the highest recommended 40 mg clinical daily dose (based on body surface area, mg/m 2).
-Oral administration of alendronate to rats during organogenesis resulted in reduced fetal ossificatin starting at doses 3 times the 40 mg clinical daily dose.
+Oral administration of alendronate to rats during organogenesis resulted in reduced fetal ossification starting at doses 3 times the 40 mg clinical daily dose.
 No similar fetal effects were observed in pregnant rabbits dosed orally during organogenesis at doses equivalent to approximately 10 times the 40 mg clinical daily dose.
 
-Delayed or failed delivery of offspring, protracted parturition, and late pregnancy maternal and fetal deaths due to maternal hypocalcemia occurred in rats at oral dose as low as one tenth the 40 mg clinical daily dose (see Data).
+Delayed or failed delivery of offspring, protracted parturition, and late pregnancy maternal and fetal deaths due to maternal hypocalcemia occurred in rats at oral doses as low as one tenth the 40 mg clinical daily dose (see Data).
 
 Bisphosphonates are incorporated into the bone matrix, from which they are gradually released over a period of years.
 The amount of bisphosphonate incorporated into adult bone and available for release into the systemic circulation is directly related to the dose and duration of bisphosphonate use.
@@ -26,7 +26,7 @@ Data
 
 Animal Data
 
-Reproduction studies in rats dosed orally from before mating to the end of gestation or lactation showed decreased postimplantation survival starting at 2 mg/kg/day and decreased body weight gain in starting at 1 mg/kg/day, doses equivalent to less than half the 40 mg clinical daily dose based on body surface area, mg/m 2.
+Reproduction studies in rats dosed orally from before mating to the end of gestation or lactation showed decreased postimplantation survival starting at 2 mg/kg/day and decreased body weight gain starting at 1 mg/kg/day, doses equivalent to less than half the 40 mg clinical daily dose based on body surface area, mg/m 2.
 Incidence of incomplete fetal ossification in vertebral, skull, and sternebral bones were increased in rats dosed orally during organogenesis starting at 10 mg/kg/day (approximately 3 times the 40 mg clinical daily dose).
 No similar fetal effects were observed in pregnant rabbits dosed orally during organogenesis at up to 35 mg/kg/day (equivalent to approximately 10 times the 40 mg clinical daily dose.
 
