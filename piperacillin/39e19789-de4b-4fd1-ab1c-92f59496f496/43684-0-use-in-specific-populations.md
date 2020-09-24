@@ -22,10 +22,12 @@ The developmental and health benefits of breastfeeding should be considered alon
 
 ## 8.4 Pediatric Use
 
-Use of piperacillin and tazobactam in pediatric patients 2 months of age or older with appendicitis and/or peritonitis is supported by evidence from well-controlled studies and pharmacokinetic studies in adults and in pediatric patients.
-This includes a prospective, randomized, comparative, open-label clinical trial with 542 pediatric patients 2 to 12 years of age with complicated intra-abdominal infections, in which 273 pediatric patients received piperacillin/tazobactam.
-Safety and efficacy in pediatric patients less than 2 months of age have not been established [see Clinical Pharmacology (12) and Dosage and Administration (2)].
-It has not been determined how to adjust piperacillin and tazobactam for injection dosage in pediatric patients with renal impairment.
+The safety and effectiveness of piperacillin and tazobactam for intra-abdominal infections, and nosocomial pneumonia have been established in pediatric patients 2 months of age and older.
+Use of piperacillin and tazobactam in pediatric patients 2 months of age and older with intra-abdominal infections including appendicitis and/or peritonitis is supported by evidence from well-controlled studies and pharmacokinetic studies in adults and in pediatric patients.
+This includes a prospective, randomized, comparative, open-label clinical trial with 542 pediatric patients 2 to 12 years of age with intra-abdominal infections (including appendicitis and/or peritonitis), in which 273 pediatric patients received piperacillin/tazobactam [see Adverse Reactions (6.1) and Clinical Pharmacology (12.3)].
+Use of piperacillin and tazobactam in pediatric patients 2 months of age and older with nosocomial pneumonia is supported by evidence from well-controlled studies in adults with nosocomial pneumonia, a simulation study performed with a population pharmacokinetic model, and a retrospective, cohort study of pediatric patients with nosocomial pneumonia in which 140 pediatric patients were treated with piperacillin and tazobactam and 267 patients treated with comparators (which included ticarcillin-clavulanate, carbapenems, ceftazidime, cefepime, or ciprofloxacin) [see Adverse Reactions (6.1) and Clinical Pharmacology (12.3)].
+The safety and effectiveness of piperacillin and tazobactam have not been established in pediatric patients less than 2 months of age [see Clinical Pharmacology (12) and Dosage and Administration (2)].
+Dosage of piperacillin and tazobactam in pediatric patients with renal impairment has not been determined.
 
 ## 8.5 Geriatric Use
 

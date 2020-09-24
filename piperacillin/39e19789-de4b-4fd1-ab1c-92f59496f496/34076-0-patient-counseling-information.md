@@ -10,5 +10,6 @@ They do not treat viral infections (e.g., the common cold).
 When piperacillin and tazobactam for injection is prescribed to treat a bacterial infection, patients should be told that although it is common to feel better early in the course of therapy, the medication should be taken exactly as directed.
 Skipping doses or not completing the full course of therapy may (1) decrease the effectiveness of the immediate treatment and (2) increase the likelihood that bacteria will develop resistance and will not be treatable by piperacillin and tazobactam for injection or other antibacterial drugs in the future.
 Counsel patients that piperacillin and tazobactam can cross the placenta in humans and is excreted in human milk.
+All brands listed are the trademarks of their respective owners and are not trademarks of Aurobindo Pharma Limited.
 Distributed by: AuroMedics Pharma LLC 279 Princeton-Hightstown Rd.
 E. Windsor, NJ 08520 Manufactured by: Aurobindo Pharma Limited Hyderabad - 500038 India

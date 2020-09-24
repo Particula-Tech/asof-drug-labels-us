@@ -3,12 +3,11 @@
 ## 6.1 Clinical Trials Experience
 
 Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in practice.
-
-During the initial clinical investigations, 2621 patients worldwide were treated with piperacillin and tazobactam for injection in phase 3 trials.
+Clinical Trials in Adult Patients During the initial clinical investigations, 2621 patients worldwide were treated with piperacillin and tazobactam for injection in phase 3 trials.
 In the key North American monotherapy clinical trials (n=830 patients), 90% of the adverse events reported were mild to moderate in severity and transient in nature.
 However, in 3.2% of the patients treated worldwide, piperacillin and tazobactam was discontinued because of adverse events primarily involving the skin (1.3%), including rash and pruritus; the gastrointestinal system (0.9%), including diarrhea, nausea, and vomiting; and allergic reactions (0.5%).
 
-Table 3: Adverse Reactions from Piperacillin and Tazobactam for Injection Monotherapy Clinical Trials
+Table 4: Adverse Reactions from Piperacillin and Tazobactam for Injection Monotherapy Clinical Trials
 
 | System Organ Class Adverse Reaction |
 | --- |
@@ -27,13 +26,13 @@ Table 3: Adverse Reactions from Piperacillin and Tazobactam for Injection Monoth
 Nosocomial Pneumonia Trials
 
 Two trials of nosocomial lower respiratory tract infections were conducted.
-In one study, 222 patients were treated with piperacillin and tazobactam in a dosing regimen of 4.5 g every 6 hours in combination with an aminoglycoside and 215 patients were treated with imipenem/cilastatin (500 mg/500 mg q6h) in combination with an aminoglycoside.
+In one study, 222 patients were treated with piperacillin and tazobactam in a dosing regimen of 4.5 g every 6 hours in combination with an aminoglycoside and 215 patients were treated with imipenem/cilastatin (500 mg/500 mg every 6 hours) in combination with an aminoglycoside.
 In this trial, treatment-emergent adverse events were reported by 402 patients, 204 (91.9%) in the piperacillin/tazobactam group and 198 (92.1%) in the imipenem/cilastatin group.
 Twenty-five (11.0%) patients in the piperacillin/tazobactam group and 14 (6.5%) in the imipenem/cilastatin group (p > 0.05) discontinued treatment due to an adverse event.
 
 The second trial used a dosing regimen of 3.375 g given every 4 hours with an aminoglycoside.
 
-Table 4: Adverse Reactions from Piperacillin and Tazobactam for Injection Plus Aminoglycoside Clinical Trialsa
+Table 5: Adverse Reactions from Piperacillin and Tazobactam for Injection Plus Aminoglycoside Clinical Trialsa
 
 | System Organ Class Adverse Reaction |  |  |  |  |  |  |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -50,13 +49,8 @@ Table 4: Adverse Reactions from Piperacillin and Tazobactam for Injection Plus A
 | Vascular disorders Thrombophlebitis (1.3%) Hypotension (1.3%) |  |  |  |  |  |  |  |  |  |  |  |
 | a For adverse drug reactions that appeared in both studies the higher frequency is presented. |  |  |  |  |  |  |  |  |  |  |  |
 
-Other trials: Nephrotoxicity In a randomized, multicenter, controlled trial in 1200 adult critically ill patients, piperacillin/tazobactam was found to be a risk factor for renal failure (odds ratio 1.7, 95% CI 1.18 to 2.43), and associated with delayed recovery of renal function as compared to other beta-lactam antibacterial drugs.1 [see Warnings and Precautions (5.5)].
-Pediatrics Studies of piperacillin and tazobactam in pediatric patients suggest a similar safety profile to that seen in adults.
-In a prospective, randomized, comparative, open-label clinical trial of pediatric patients with severe intra-abdominal infections (including appendicitis and/or peritonitis), 273 patients were treated with piperacillin and tazobactam (112.5 mg/kg every 8 hours) and 269 patients were treated with cefotaxime (50 mg/kg) plus metronidazole (7.5 mg/kg) every 8 hours.
-In this trial, treatment-emergent adverse events were reported by 146 patients, 73 (26.7%) in the piperacillin and tazobactam group and 73 (27.1%) in the cefotaxime/metronidazole group.
-Six patients (2.2%) in the piperacillin and tazobactam group and 5 patients (1.9%) in the cefotaxime/metronidazole group discontinued due to an adverse event.
-
-Adverse Laboratory Events (Seen During Clinical Trials)
+Other Trials: Nephrotoxicity In a randomized, multicenter, controlled trial in 1200 adult critically ill patients, piperacillin/tazobactam was found to be a risk factor for renal failure (odds ratio 1.7, 95% CI 1.18 to 2.43), and associated with delayed recovery of renal function as compared to other beta-lactam antibacterial drugs1 [see Warnings and Precautions (5.5)].
+Adverse Laboratory Changes (Seen During Clinical Trials)
 
 Of the trials reported, including that of nosocomial lower respiratory tract infections in which a higher dose of piperacillin and tazobactam for injection was used in combination with an aminoglycoside, changes in laboratory parameters include:
 
@@ -70,14 +64,19 @@ Hepatic—transient elevations of AST (SGOT), ALT (SGPT), alkaline phosphatase, 
 Renal—increases in serum creatinine, blood urea nitrogen
 
 Additional laboratory events include abnormalities in electrolytes (i.e., increases and decreases in sodium, potassium, and calcium), hyperglycemia, decreases in total protein or albumin, blood glucose decreased, gamma-glutamyltransferase increased, hypokalemia, and bleeding time prolonged.
+Clinical Trials in Pediatric Patients Clinical studies of piperacillin and tazobactam in pediatric patients suggest a similar safety profile to that seen in adults.
+In a prospective, randomized, comparative, open-label clinical trial of pediatric patients, 2 to 12 years of age, with intra-abdominal infections (including appendicitis and/or peritonitis), 273 patients were treated with piperacillin and tazobactam 112.5 mg/kg given IV every 8 hours and 269 patients were treated with cefotaxime (50 mg/kg) plus metronidazole (7.5 mg/kg) every 8 hours.
+In this trial, treatment-emergent adverse events were reported by 146 patients, 73 (26.7%) in the piperacillin and tazobactam group and 73 (27.1%) in the cefotaxime/metronidazole group.
+Six patients (2.2%) in the piperacillin and tazobactam group and 5 patients (1.9%) in the cefotaxime/metronidazole group discontinued due to an adverse event.
+In a retrospective, cohort study, 140 pediatric patients 2 months to less than 18 years of age with nosocomial pneumonia were treated with piperacillin and tazobactam and 267 patients were treated with comparators (which included ticarcillin-clavulanate, carbapenems, ceftazidime, cefepime, or ciprofloxacin).
+The rates of serious adverse reactions were generally similar between the piperacillin and tazobactam and comparator groups, including patients aged 2 months to 9 months treated with piperacillin and tazobactam 90 mg/kg IV every 6 hours and patients older than 9 months and less than 18 years of age treated with piperacillin and tazobactam 112.5 mg/kg IV every 6 hours.
 
-## 6.2 Post-Marketing Experience
+## 6.2 Postmarketing Experience
 
-In addition to the adverse drug reactions identified in clinical trials in Table 3 and Table 4, the following adverse reactions have been identified during post-approval use of piperacillin and tazobactam.
+In addition to the adverse drug reactions identified in clinical trials in Table 4 and Table 5, the following adverse reactions have been identified during post-approval use of piperacillin and tazobactam.
 Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
-Hepatobiliary—hepatitis, jaundice Hematologic—hemolytic anemia, agranulocytosis, pancytopenia Immune—hypersensitivity reactions, anaphylactic/anaphylactoid reactions (including shock) Renal—interstitial nephritis Psychiatric disorders—delirium Respiratory—eosinophilic pneumonia Skin and Appendages—erythema multiforme, Stevens-Johnson syndrome, toxic epidermal necrolysis, drug reaction with eosinophilia and systemic symptoms, (DRESS), acute generalized exanthematous pustulosis (AGEP), dermatitis exfoliative
+Hepatobiliary—hepatitis, jaundice Hematologic—hemolytic anemia, agranulocytosis, pancytopenia Immune—hypersensitivity reactions, anaphylactic/anaphylactoid reactions (including shock) Renal—interstitial nephritis Nervous system disorders—seizures Psychiatric disorders—delirium Respiratory—eosinophilic pneumonia Skin and Appendages—erythema multiforme, Stevens-Johnson syndrome, toxic epidermal necrolysis, drug reaction with eosinophilia and systemic symptoms, (DRESS), acute generalized exanthematous pustulosis (AGEP), dermatitis exfoliative Postmarketing experience with piperacillin and tazobactam in pediatric patients suggests a similar safety profile to that seen in adults.
 
 ## 6.3 Additional Experience with Piperacillin
 
 The following adverse reaction has also been reported for piperacillin for injection: Skeletal—prolonged muscle relaxation [see Drug Interactions (7.5)].
-Post-marketing experience with piperacillin and tazobactam in pediatric patients suggests a similar safety profile to that seen in adults.
