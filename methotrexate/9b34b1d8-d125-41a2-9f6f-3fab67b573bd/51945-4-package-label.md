@@ -1,29 +1,17 @@
-# Package/Label Display Panel
-
-## Methotrexate Tablets USP 2.5 mg 36s Label Text
+# PACKAGE LABEL PRINCIPAL DISPLAY PANEL
 
 NDC 0555-0572-35
 
-Methotrexate
-
-Tablets USP
+Methotrexate Tablets, USP
 
 2.5 mg
 
-Warning: Discontinue or reduce dosage
+Caution: Cytotoxic Agent
 
-immediately at first sign of ulceration or bleeding
-
-in mouth, gastrointestinal ulceration or bleeding,
-
-diarrhea or marked depression of bone marrow.
-
-PHARMACIST: PLEASE DISPENSE WITH
-
-ATTACHED PATIENT INFORMATION LEAFLET.
+PHARMACIST: Dispense the accompanying Patient Information Leaflet to each patient.
 
 Rx only
 
-36 TABLETS
+36 Tablets
 
 TEVA

@@ -1,13 +1,10 @@
-# DESCRIPTION
+# 11 DESCRIPTION
 
-Methotrexate, USP (formerly Amethopterin) is an antimetabolite used in the treatment of certain neoplastic diseases, severe psoriasis, and adult rheumatoid arthritis.
-Chemically methotrexate is N-[4-[[(2,4-diamino-6-pteridinyl)methyl]methylamino]benzoyl]-L-glutamic acid.
+Methotrexate, USP is dihydrofolate reductase inhibitor with the chemical name of L-glutamic acid, N-[4-[[(2,4-diamino-6-pteridinyl)methyl]methylamino]benzoyl].
+The molecular formula is C20H22N8O5 and the molecular weight is 454.45 g/mol.
 The structural formula is:
 
-C20H22N8O5 M.W.
-454.45
+Methotrexate tablets, USP for oral use are available in bottles of 36 and 100 tablets.
+Each tablet contains 2.5 mg methotrexate, USP equivalent to 2.74 mg methotrexate sodium.
 
-Methotrexate Tablets USP for oral administration, are available in bottles of 36 and 100.
-Methotrexate Tablets USP contain an amount of methotrexate sodium equivalent to 2.5 mg of methotrexate, USP.
-
-Inactive Ingredients: Hydroxypropyl methylcellulose, lactose anhydrous, magnesium stearate, microcrystalline cellulose, polyethylene glycol, pregelatinized corn starch, propylene glycol, sodium carbonate monohydrate and talc.
+Inactive Ingredients: Anhydrous lactose, hypromellose, magnesium stearate, microcrystalline cellulose, polyethylene glycol, pregelatinized corn starch, propylene glycol, sodium carbonate monohydrate, and talc.

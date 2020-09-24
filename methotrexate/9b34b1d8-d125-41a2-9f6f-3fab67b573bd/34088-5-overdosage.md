@@ -1,19 +1,23 @@
-# OVERDOSAGE
+# 10 OVERDOSAGE
 
-Leucovorin is indicated to diminish the toxicity and counteract the effect of inadvertently administered overdosages of methotrexate.
-Leucovorin administration should begin as promptly as possible.
-As the time interval between methotrexate administration and leucovorin initiation increases, the effectiveness of leucovorin in counteracting toxicity decreases.
-Monitoring of the serum methotrexate concentration is essential in determining the optimal dose and duration of treatment with leucovorin.
+Overdosage, including fatal overdosage, has occurred with methotrexate [see Warnings and Precautions (5.
+9)].
 
-In cases of massive overdosage, hydration and urinary alkalinization may be necessary to prevent the precipitation of methotrexate and/or its metabolites in the renal tubules.
-Generally speaking, neither hemodialysis nor peritoneal dialysis has been shown to improve methotrexate elimination.
-However, effective clearance of methotrexate has been reported with acute, intermittent hemodialysis using a high-flux dialyzer (Wall, SM et al: Am J Kidney Dis28(6): 846-854, 1996).
+Manifestations
 
-In postmarketing experience, overdose with methotrexate has generally occurred with oral and intrathecal administration, although intravenous and intramuscular overdose have also been reported.
+Manifestations of methotrexate overdosage include adverse reactions reported at pharmacologic doses, particularly hematologic and gastrointestinal reactions (e.g., leukopenia, thrombocytopenia, anemia, pancytopenia, myelosuppression, mucositis, stomatitis, oral ulceration, nausea, vomiting, gastrointestinal ulceration, or gastrointestinal bleeding).
+In some cases, no symptoms were reported; however, sepsis or septic shock, renal failure, and aplastic anemia were also reported.
 
-Reports of oral overdose often indicate accidental daily administration instead of weekly (single or divided doses).
-Symptoms commonly reported following oral overdose include those symptoms and signs reported at pharmacologic doses, particularly hematologic and gastrointestinal reaction.
-For example, leukopenia, thrombocytopenia, anemia, pancytopenia, bone marrow suppression, mucositis, stomatitis, oral ulceration, nausea, vomiting, gastrointestinal ulceration, gastrointestinal bleeding.
-In some cases, no symptoms were reported.
-There have been reports of death following overdose.
-In these cases, events such as sepsis or septic shock, renal failure, and aplastic anemia were also reported.
+Management
+
+Leucovorin and levoleucovorin are indicated for diminishing the methotrexate adverse reactions of methotrexate overdosage.
+Administer leucovorin or levoleucovorin as soon as possible after methotrexate overdosage).
+Monitor serum creatinine and methotrexate levels to guide leucovorin or levoleucovorin therapy.
+Refer to the leucovorin or levoleucovorin prescribing information for additional dosage information.
+
+Glucarpidase is indicated for the treatment of toxic plasma methotrexate concentrations (>1 micromole per liter) in patients with delayed methotrexate clearance due to impaired renal function.
+Refer to the glucarpidase prescribing information for additional dosage information.
+
+Administer concomitant hydration and urinary alkalinization.
+
+Neither hemodialysis nor peritoneal dialysis has been shown to improve methotrexate elimination; however, methotrexate has been effectively cleared with acute, intermittent hemodialysis using a high-flux dialyzer.
