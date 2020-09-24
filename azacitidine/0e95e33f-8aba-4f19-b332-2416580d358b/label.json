@@ -1,0 +1,20 @@
+{
+  "application_numbers": [
+    "NDA214120"
+  ],
+  "inn": "azacitidine",
+  "labeler": "Celgene Corporation",
+  "package_ndcs": [
+    "59572-730-14",
+    "59572-740-14"
+  ],
+  "products": [
+    {
+      "form": "TABLET, FILM COATED",
+      "generic": "azacitidine",
+      "name": "ONUREG"
+    }
+  ],
+  "setid": "0e95e33f-8aba-4f19-b332-2416580d358b",
+  "source": "dailymed"
+}
