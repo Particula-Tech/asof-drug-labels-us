@@ -6,11 +6,11 @@ With continued use of hydro­chlorothiazide and depletion of sodium, compensator
 Hydrochlorothiazide also decreases the excretion of cal­cium and uric acid, may increase the excretion of iodide and may reduce glomerular fil­tration rate.
 Metabolic toxicities associated with excessive elec­trolyte changes caused by hydrochlorothiazide have been shown to be dose-related.
 
-## Pharmacokinetics and Metabolism
+## Pharmacokinetics and Metabolism:
 
 Hydrochlorothiazide is well absorbed (65% to 75%) fol­lowing oral administration.
 Absorption of hydrochlorothi­azide is reduced in patients with congestive heart failure.
-Peak plasma concentrations are observed within 1 to 5 hours of dosing, and range from 70 to 490 ng/mL follow­ing oral doses of 12.5 to 100 mg.
+Peak plasma concentrations are observed within 1 to 5 hours of dosing and range from 70 to 490 ng/mL follow­ing oral doses of 12.5 to 100 mg.
 Plasma concentra­tions are linearly related to the administered dose.
 Concen­trations of hydrochlorothiazide are 1.6 to 1.8 times higher in whole blood than in plasma.
 Binding to serum proteins has been reported to be approxi­mately 40% to 68%.
@@ -20,15 +20,15 @@ Following oral doses of 12.5 to 100 mg, 55% to 77% of the administered dose appe
 In patients with renal disease, plasma con­centrations of hydrochlorothi­azide are increased and the elimination half-life is pro­longed.
 When hydrochloro­thiazide is adminis­tered with food, its bioavailabil­ity is reduced by 10%, the max­imum plasma concentration is reduced by 20%, and the time to maximum concentration increases from 1.6 to 2.9 hours.
 
-## Pharmacodynamics
+## Pharmacodynamics:
 
 Acute antihypertensive effects of thi­azides are thought to result from a reduction in blood vol­ume and cardiac output, sec­ondary to a natriuretic effect, although a direct vasodilatory mechanism has also been pro­posed.
 With chronic adminis­tration, plasma volume returns toward normal, but peripheral vascular resistance is de­creased.
-The exact mechanism of the anti-hypertensive effect of hydrochlorothiazide is not known.
+The exact mechanism of the antihypertensive effect of hydrochlorothiazide is not known.
 Thiazides do not affect normal blood pressure.
 Onset of action occurs within 2 hours of dos­ing, peak effect is observed at about 4 hours, and activity per­sists for up to 24 hours.
 
-## Clinical Studies
+## Clinical Studies:
 
-In an 87 patient 4-week double-blind, placebo-controlled, parallel group trial, patients who received hydrochloro­thiazide had reductions in seated systolic and diastolic blood pressure that were significantly greater than those seen in patients who received placebo.
+In an 87 patient 4-week double-blind, placebo controlled, parallel group trial, patients who received hydrochloro­thiazide had reductions in seated systolic and diastolic blood pressure that were significantly greater than those seen in patients who received placebo.
 In published placebo-controlled trials com­paring 12.5 mg of hydrochlorothiazide to 25 mg, the 12.5 mg dose preserved most of the placebo-corrected blood pressure reduction seen with 25 mg.

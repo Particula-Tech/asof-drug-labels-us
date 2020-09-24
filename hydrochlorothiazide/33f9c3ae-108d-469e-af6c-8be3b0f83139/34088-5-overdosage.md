@@ -7,4 +7,4 @@ Emesis should be induced or gastric lavage performed.
 Correct dehydration, electrolyte imbalance, hepatic coma and hypotension by established procedures.
 If required, give oxygen or artificial respiration for respiratory impairment.
 The degree to which hydrochlorothiazide is removed by hemodialysis has not been established.
-The oral LD50 of hydrochlorothiazide is greater than 10 g/kg in the mouse and rat.
+The oral LD50 of hydrochlorothiazide is greater than 10 gm/kg in the mouse and rat.

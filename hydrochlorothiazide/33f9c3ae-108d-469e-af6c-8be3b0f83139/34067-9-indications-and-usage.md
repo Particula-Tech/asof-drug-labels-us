@@ -1,7 +1,7 @@
 # INDICATIONS AND USAGE
 
-Hydrochloro­thiazide capsules USP are indicated in the management of hypertension either as the sole therapeutic agent, or in combination with other antihypertensives.
-Unlike potassium sparing combina­tion diuretic products, hydrochloro­thiazide capsules USP may be used in those patients in whom the development of hyperkalemia cannot be risked, including patients taking ACE inhibitors.
+Hydrochloro­thiazide capsules are indicated in the management of hypertension either as the sole therapeutic agent, or in combination with other antihypertensives.
+Unlike potassium sparing combina­tion diuretic products, hydrochloro­thiazide capsules may be used in those patients in whom the development of hyperkalemia cannot be risked, including patients taking ACE inhibitors.
 
 ## Usage in Pregnancy
 
