@@ -12,4 +12,4 @@
 
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
 
-PN0046 Revised 2/2020
+IN0556AU Revised 0220

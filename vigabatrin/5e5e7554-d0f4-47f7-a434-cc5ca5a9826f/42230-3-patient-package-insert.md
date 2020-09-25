@@ -108,4 +108,4 @@ VIGADRONE is a registered trademark of Upsher-Smith Laboratories, LLC.
 
 Made in Germany
 
-PN0046 Revised 2/2020
+IN0556AU Revised 0220
