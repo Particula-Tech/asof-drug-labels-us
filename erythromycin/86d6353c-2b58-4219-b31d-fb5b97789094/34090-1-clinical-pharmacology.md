@@ -12,112 +12,38 @@ The drug is excreted in human milk.
 
 ## Microbiology
 
+### Mechanism of Action
+
 Erythromycin acts by inhibition of protein synthesis by binding 50 S ribosomal subunits of susceptible organisms.
 It does not affect nucleic acid synthesis.
 Antagonism has been demonstrated in vitro between erythromycin and clindamycin, lincomycin, and chloramphenicol.
 
-Many strains of Haemophilus influenzae are resistant to erythromycin alone but are susceptible to erythromycin and sulfonamides used concomitantly.
+### Resistance
+
+Many strains of Haemophilus influenza are resistant to erythromycin alone but are susceptible to erythromycin and sulfonamides used concomitantly.
+
+### Interactions With Other Antimicrobials
 
 Staphylococci resistant to erythromycin may emerge during a course of therapy.
 
+### Antimicrobial Activity
+
 Erythromycin has been shown to be active against most strains of the following microorganisms, both in vitro and in clinical infections as described in the INDICATIONS AND USAGE section.
 
-Gram-positive Organisms:
+Gram-positive Organisms: Corynebacterium diphtheriae Corynebacterium minutissimum Listeria monocytogenes Staphylococcus aureus (resistant organisms may emerge during treatment) Streptococcus pneumoniae Streptococcus pyogenes
 
-Corynebacterium diphtheriae Corynebacterium minutissimum Listeria monocytogenes Staphylococcus aureus (resistant organisms may emerge during treatment) Streptococcus pneumoniae Streptococcus pyogenes
+Gram-negative Organisms: Bordetella pertussis Legionella pneumophila Neisseria gonorrhoeae
 
-Gram-negative Organisms:
-
-Bordetella pertussis Legionella pneumophila Neisseria gonorrhoeae
-
-Other Microorganisms:
-
-Chlamydia trachomatis Entamoeba histolytica Mycoplasma pneumoniae Treponema pallidum Ureaplasma urealyticum
+Other Microorganisms: Chlamydia trachomatis Entamoeba histolytica Mycoplasma pneumoniae Treponema pallidum Ureaplasma urealyticum
 
 The following in vitro data are available.
 
 Erythromycin exhibits in vitro minimal inhibitory concentrations (MIC's) of 0.5 µg/mL or less against most (≥ 90%) strains of the following microorganisms; however, the safety and effectiveness of erythromycin in treating clinical infections due to these microorganisms have not been established in adequate and well-controlled clinical trials.
 
-Gram-positive Organisms:
+Gram-positive Organisms: Viridans group streptococci
 
-Viridans group streptococci
+Gram-negative Organisms: Moraxella catarrhalis
 
-Gram-negative Organisms:
+### Susceptibility Testing
 
-Moraxella catarrhalis
-
-## Susceptibility Tests
-
-### Dilution Techniques
-
-Quantitative methods are used to determine antimicrobial minimum inhibitory concentrations (MIC's).
-These MIC's provide estimates of the susceptibility of bacteria to antimicrobial compounds.
-The MIC's should be determined using a standardized procedure.
-Standardized procedures are based on a dilution method1,2 (broth or agar) or equivalent with standardized inoculum concentrations and standardized concentrations of erythromycin powder.
-The MIC values should be interpreted according to the following criteria:
-
-#### For Staphylococcus spp
-
-| MIC (µg/mL) | Interpretation |
-| --- | --- |
-| ≤ 0.5 | Susceptible (S) |
-| 1 – 4 | Intermediate (I) |
-| ≥ 8 | Resistant (R) |
-
-#### For Streptococcus spp. and Streptococcus pneumoniae
-
-| MIC (µg/mL) | Interpretation |
-| --- | --- |
-| ≤ 0.25 | Susceptible (S) |
-| 0.5 | Intermediate (I) |
-| ≥ 1 | Resistant (R) |
-
-A report of "Susceptible" indicates that the pathogen is likely to be inhibited if the antimicrobial compound in the blood reaches the concentrations usually achievable.
-A report of "Intermediate" indicates that the result should be considered equivocal, and, if the microorganism is not fully susceptible to alternative, clinically feasible drugs, the test should be repeated.
-This category implies possible clinical applicability in body sites where the drug is physiologically concentrated or in situations where high dosage of drug can be used.
-This category also provides a buffer zone which prevents small uncontrolled technical factors from causing major discrepancies in interpretation.
-A report of "Resistant" indicates that the pathogen is not likely to be inhibited if the antimicrobial compound in the blood reaches the concentrations usually achievable; other therapy should be selected.
-
-Standardized susceptibility test procedures require the use of laboratory control microorganisms to control the technical aspects of the laboratory procedures.
-Standard erythromycin powder should provide the following MIC values:
-
-| Microorganism | MIC (µg/mL) |
-| --- | --- |
-| S. aureus ATCCATCC is a registered trademark of the American Type Culture Collection 29213 | 0.25-1 |
-| E. faecalis ATCC 29212 | 1-4 |
-| S. pneumoniae ATCC 49619 | 0.03-0.12 |
-
-### Diffusion Techniques
-
-Quantitative methods that require measurement of zone diameters also provide reproducible estimates of the susceptibility of bacteria to antimicrobial compounds.
-One such standardized procedure requires the use of standardized inoculum concentrations.
-This procedure uses paper disks impregnated with 15-µg erythromycin to test the susceptibility of microorganisms to erythromycin.
-
-Reports from the laboratory providing results of the standard single-disk susceptibility test with a 15-µg erythromycin disk should be interpreted according to the following criteria:
-
-#### For Staphylococcus spp
-
-| Zone Diameter (mm) | Interpretation |
-| --- | --- |
-| ≥ 23 | Susceptible (S) |
-| 14 – 22 | Intermediate (I) |
-| ≤ 13 | Resistant (R) |
-
-#### For Streptococcus spp. and Streptococcus pneumoniae
-
-| Zone Diameter (mm) | Interpretation |
-| --- | --- |
-| ≥ 21 | Susceptible (S) |
-| 16 – 20 | Intermediate (I) |
-| ≤ 15 | Resistant (R) |
-
-Interpretation should be as stated above for results using dilution techniques.
-Interpretation involves correlation of the diameter obtained in the disk test with the MIC for erythromycin.
-
-As with standardized dilution techniques, diffusion methods require the use of laboratory control microorganisms that are used to control the technical aspects of the laboratory procedures.
-For the diffusion technique, the 15-µg erythromycin disk should provide the following zone diameters in these laboratory test quality control strains:
-
-| Microorganism | Zone Diameter (mm) |
-| --- | --- |
-| S. aureus ATCC 25923 | 22-30 |
-| S. pneumoniae ATCC 49619 | 25-30 |
+For specific information regarding susceptibility test interpretive criteria and associated test methods and quality control standards recognized by FDA for this drug, please see: https://www.fda.gov/STIC.

@@ -24,7 +24,7 @@ The following dosage schedule is suggested for mild to moderate infections:
 
 ## Adults
 
-400 mg Erythromycin Ethylsuccinate every 6 hours is the usual dose.
+400 mg erythromycin ethylsuccinate every 6 hours is the usual dose.
 Dosage may be increased up to 4 g per day according to the severity of the infection.
 If twice-a-day dosage is desired, one-half of the total daily dose may be given every 12 hours.
 Doses may also be given three times daily by administering one-third of the total daily dose every 8 hours.
@@ -61,7 +61,3 @@ Although optimal dosage and duration have not been established, doses of erythro
 ## For treatment of Legionnaires' Disease
 
 Although optimal doses have not been established, doses utilized in reported clinical data were 1.6 to 4 g daily in divided doses.
-
-For the Erythromycin Ethylsuccinate 200 unit dose, reconstitute with 2.9 mL of water.
-
-For the Erythromycin Ethylsuccinate 400 unit dose, reconstitute with 2.7 mL of water.

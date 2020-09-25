@@ -9,7 +9,7 @@ The molecular formula is C43H75NO16 and the molecular weight is 862.06.
 The structural formula is:
 
 Erythromycin Ethylsuccinate 200 when reconstituted with water, forms a suspension containing erythromycin ethylsuccinate equivalent to 200 mg erythromycin per 5 mL (teaspoonful) or 100 mg per 2.5 mL (dropperful) with an appealing fruit flavor.
-Erythromycin Ethylsuccinate 400 when reconstituted with water, forms a suspension containing Erythromycin Ethylsuccinate equivalent to 400 mg of erythromycin per 5 mL (teaspoonful) with an appealing banana flavor.
+Erythromycin Ethylsuccinate 400 when reconstituted with water, forms a suspension containing erythromycin ethylsuccinate equivalent to 400 mg of erythromycin per 5 mL (teaspoonful) with an appealing banana flavor.
 
 These products are intended primarily for pediatric use but can also be used in adults.
 

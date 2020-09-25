@@ -32,24 +32,25 @@ In the treatment of infections due to Corynebacterium minutissimum.
 Intestinal amebiasis caused by Entamoeba histolytica (oral erythromycins only).
 Extraenteric amebiasis requires treatment with other agents.
 
-## Acute Pelvic Inflammatory Disease Caused by Neisseria gonorrhoeae
+## Acute Pelvic Inflammatory Disease caused by Neisseria gonorrhoeae
 
 As an alternative drug in treatment of acute pelvic inflammatory disease caused by N. gonorrhoeae in female patients with a history of sensitivity to penicillin.
 Patients should have a serologic test for syphilis before receiving erythromycin as treatment of gonorrhea and a follow-up serologic test for syphilis after 3 months.
 
-## Syphilis Caused by Treponema pallidum
+## Syphilis caused by Treponema pallidum
 
 Erythromycin is an alternate choice of treatment for primary syphilis in penicillin-allergic patients.
 In primary syphilis, spinal fluid examinations should be done before treatment and as part of follow-up after therapy.
 
-## Erythromycins are Indicated for the Treatment of the Following Infections Caused by Chlamydia trachomatis
+## Erythromycins are indicated for the treatment of the following infections caused by Chlamydia trachomatis
 
 Conjunctivitis of the newborn, pneumonia of infancy, and urogenital infections during pregnancy.
 When tetracyclines are contraindicated or not tolerated, erythromycin is indicated for the treatment of uncomplicated urethral, endocervical, or rectal infections in adults due to Chlamydia trachomatis.
 
 When tetracyclines are contraindicated or not tolerated, erythromycin is indicated for the treatment of nongonococcal urethritis caused by Ureaplasma urealyticum.
 
-Legionnaires' Disease caused by Legionella pneumophila.
+## Legionnaires' Disease caused by Legionella pneumophila
+
 Although no controlled clinical efficacy studies have been conducted, in vitro and limited preliminary clinical data suggest that erythromycin may be effective in treating Legionnaires' Disease.
 
 ## Prophylaxis
@@ -57,9 +58,9 @@ Although no controlled clinical efficacy studies have been conducted, in vitro a
 ### Prevention of Initial Attacks of Rheumatic Fever
 
 Penicillin is considered by the American Heart Association to be the drug of choice in the prevention of initial attacks of rheumatic fever (treatment of Streptococcus pyogenes infections of the upper respiratory tract, e.g., tonsillitis or pharyngitis).
-Erythromycin is indicated for the treatment of penicillin-allergic patients.4 The therapeutic dose should be administered for 10 days.
+Erythromycin is indicated for the treatment of penicillin-allergic patients.1 The therapeutic dose should be administered for 10 days.
 
 ### Prevention of Recurrent Attacks of Rheumatic Fever
 
 Penicillin or sulfonamides are considered by the American Heart Association to be the drugs of choice in the prevention of recurrent attacks of rheumatic fever.
-In patients who are allergic to penicillin and sulfonamides, oral erythromycin is recommended by the American Heart Association in the long-term prophylaxis of streptococcal pharyngitis (for the prevention of recurrent attacks of rheumatic fever).4
+In patients who are allergic to penicillin and sulfonamides, oral erythromycin is recommended by the American Heart Association in the long-term prophylaxis of Streptococcal pharyngitis (for the prevention of recurrent attacks of rheumatic fever).1
