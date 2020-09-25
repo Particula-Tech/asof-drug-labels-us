@@ -1,0 +1,24 @@
+{
+  "application_numbers": [
+    "ANDA208368"
+  ],
+  "inn": "cinacalcet",
+  "labeler": "Dr. Reddys Laboratories Inc",
+  "package_ndcs": [
+    "43598-367-05",
+    "43598-367-30",
+    "43598-368-05",
+    "43598-368-30",
+    "43598-369-05",
+    "43598-369-30"
+  ],
+  "products": [
+    {
+      "form": "TABLET",
+      "generic": "cinacalcet",
+      "name": "Cinacalcet"
+    }
+  ],
+  "setid": "0837aabc-e796-0e07-8958-71f1ff6e89bf",
+  "source": "dailymed"
+}
