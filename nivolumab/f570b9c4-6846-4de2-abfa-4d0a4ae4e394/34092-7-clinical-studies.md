@@ -612,7 +612,7 @@ Patients enrolled in the OPDIVO and ipilimumab MSI-H mCRC cohort received OPDIVO
 Treatment in both cohorts continued until unacceptable toxicity or radiographic progression.
 
 Tumor assessments were conducted every 6 weeks for the first 24 weeks and every 12 weeks thereafter.
-Efficacy outcome measures included ORR and DOR as assessed by an IRRC using RECIST v1.1.
+Efficacy outcome measures included ORR and DOR as assessed by BICR using RECIST v1.1.
 
 A total of 74 patients were enrolled in the single-agent MSI-H mCRC OPDIVO cohort.
 The median age was 53 years (range: 26 to 79) with 23% ≥65 years of age and 5% ≥75 years of age, 59% were male and 88% were White.
@@ -628,17 +628,17 @@ Efficacy results for each of these single-arm cohorts are shown in Table 46.
 
 Table 46: Efficacy Results - CHECKMATE-142
 
-|  | OPDIVO MSI-H/dMMR Cohort |  | OPDIVO and Ipilimumab MSI-H/dMMR Cohort |  |
+|  | OPDIVOa MSI-H/dMMR Cohort |  | OPDIVO and Ipilimumabb MSI-H/dMMR Cohort |  |
 | --- | --- | --- | --- | --- |
 |  | All Patients (n=74) | Prior Treatment (Fluoropyrimidine, Oxaliplatin, and Irinotecan) (n=53) | All Patients (n=119) | Prior Treatment (Fluoropyrimidine, Oxaliplatin, and Irinotecan) (n=82) |
-| IRRC Overall Response Rate; n (%) | 24 (32%) | 15 (28%) | 58 (49%) | 38 (46%) |
-| (95% CI)a | (22, 44) | (17, 42) | (39, 58) | (35, 58) |
-| Complete response (%) | 2 (2.7%) | 1 (1.9%) | 5 (4.2%) | 3 (3.7%) |
-| Partial response (%) | 22 (30%) | 14 (26%) | 53 (45%) | 35 (43%) |
+| Overall Response Rate per BICR; n (%) | 28 (38%) | 17 (32%) | 71 (60%) | 46 (56%) |
+| (95% CI)c | (27, 50) | (20, 46) | (50, 69) | (45, 67) |
+| Complete Response (%) | 8 (11%) | 5 (9%) | 17 (14%) | 11 (13%) |
+| Partial Response (%) | 20 (27%) | 12 (23%) | 54 (45%) | 35 (43%) |
 | Duration of Response |  |  |  |  |
-| Proportion with ≥6 months response duration | 63% | 67% | 83% | 89% |
-| Proportion with ≥12b months response duration | 38% | 40% | 19% | 21% |
-| a Estimated using the Clopper-Pearson method. b In the monotherapy cohort, 55% of the 20 patients with ongoing responses were followed for <12 months from the date of onset of response. In the combination cohort, 78% of the 51 patients with ongoing responses were followed for <12 months from the date of onset of response. |  |  |  |  |
+| Proportion of responders with ≥6 months response duration | 86% | 94% | 89% | 87% |
+| Proportion of responders with ≥12 months response duration | 82% | 88% | 77% | 74% |
+| a Minimum follow-up 33.7 months for all patients treated with OPDIVO (n=74). b Minimum follow-up 27.5 months for all patients treated with OPDIVO and ipilimumab (n=119). c Estimated using the Clopper-Pearson method. |  |  |  |  |
 
 ## 14.10 Hepatocellular Carcinoma
 

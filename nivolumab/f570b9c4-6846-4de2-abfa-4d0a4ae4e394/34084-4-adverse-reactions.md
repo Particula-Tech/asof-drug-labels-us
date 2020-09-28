@@ -888,7 +888,7 @@ The safety of OPDIVO administered as a single agent or in combination with ipili
 In CHECKMATE-142, 74 patients with mCRC received OPDIVO 3 mg/kg by intravenous infusion over 60 minutes every 2 weeks until disease progression or until intolerable toxicity and 119 patients with mCRC received OPDIVO 3 mg/kg and ipilimumab 1 mg/kg every 3 weeks for 4 doses, then OPDIVO 3 mg/kg every 2 weeks until disease progression or until unacceptable toxicity.
 
 In the OPDIVO with ipilimumab cohort, serious adverse reactions occurred in 47% of patients.
-OPDIVO was discontinued in 13% of patients and delayed in 45% of patients for an adverse reaction.
+Treatment was discontinued in 13% of patients and delayed in 45% of patients for an adverse reaction.
 The most frequent serious adverse reactions reported in ≥2% of patients were colitis/diarrhea, hepatic events, abdominal pain, acute kidney injury, pyrexia, and dehydration.
 The most common adverse reactions (reported in ≥20% of patients) were fatigue, diarrhea, pyrexia, musculoskeletal pain, abdominal pain, pruritus, nausea, rash, decreased appetite, and vomiting.
 
