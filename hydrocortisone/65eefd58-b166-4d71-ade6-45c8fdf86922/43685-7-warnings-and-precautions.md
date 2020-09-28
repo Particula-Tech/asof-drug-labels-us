@@ -279,6 +279,8 @@ Growth velocity may therefore be a more sensitive indicator of systemic corticos
 The linear growth of pediatric patients treated with corticosteroids should be monitored, and the potential growth effects of prolonged treatment should be weighed against clinical benefits obtained and the availability of treatment alternatives.
 In order to minimize the potential growth effects of corticosteroids, pediatric patients should be titrated to the lowest effective dose.
 
+Hypertrophic cardiomyopathy was reported after administration of hydrocortisone to prematurely born infants, therefore appropriate diagnostic evaluation and monitoring of cardiac function and structure should be performed.
+
 ## Geriatric Use
 
 Clinical studies did not include sufficient numbers of subjects aged 65 and over to determine whether they respond differently from younger subjects.
