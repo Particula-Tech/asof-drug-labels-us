@@ -39,7 +39,7 @@ Intensive Care Unit Sedation
 A total of 729 patients in the clinical studies were 65 years of age and over.
 A total of 200 patients were 75 years of age and over.
 In patients greater than 65 years of age, a higher incidence of bradycardia and hypotension was observed following administration of Precedex [see Warnings and Precautions (5.2)].
-Therefore a dose reduction may be considered in patients over 65 years of age [see Dosage and Administration (2.2) and Clinical Pharmacology (12.3)].
+Therefore, a dose reduction may be considered in patients over 65 years of age [see Dosage and Administration (2.2, 2.3), Clinical Pharmacology (12.3)].
 
 Procedural Sedation
 
@@ -50,4 +50,4 @@ A reduced loading dose of 0.5 mcg/kg given over 10 minutes is recommended and a 
 
 ## 8.6 Hepatic Impairment
 
-Since Precedex clearance decreases with increasing severity of hepatic impairment, dose reduction should be considered in patients with impaired hepatic function [see Dosage and Administration (2.2) and Clinical Pharmacology (12.3)].
+Since Precedex clearance decreases with increasing severity of hepatic impairment, dose reduction should be considered in patients with impaired hepatic function [see Dosage and Administration (2.2, 2.3), Clinical Pharmacology (12.3)].

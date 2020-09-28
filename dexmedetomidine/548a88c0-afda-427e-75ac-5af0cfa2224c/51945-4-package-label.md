@@ -5,13 +5,11 @@
 Single-dose bottle.
 Discard unused portion.
 
-Precedex™
-
-Dexmedetomidine HCl in 0.9% Sodium Chloride Injection
+Precedex™ Dexmedetomidine HCl in 0.9% Sodium Chloride Injection
 
 200 mcg/50 mL (4 mcg/mL)
 
-For Intravenous Infusion
+For Intravenous Use
 
 # PRINCIPAL DISPLAY PANEL - 50 mL Bottle Tray
 
@@ -20,13 +18,11 @@ For Intravenous Infusion
 Single-dose bottle.
 Discard unused portion.
 
-Precedex™
-
-Dexmedetomidine HCl in 0.9% Sodium Chloride Injection
+Precedex™ Dexmedetomidine HCl in 0.9% Sodium Chloride Injection
 
 200 mcg/50 mL (4 mcg/mL)
 
-For Intravenous Infusion
+For Intravenous Use
 
 Hospira
 
@@ -37,13 +33,11 @@ Hospira
 Single-dose bottle.
 Discard unused portion.
 
-Precedex™
-
-Dexmedetomidine HCl in 0.9% Sodium Chloride Injection
+Precedex™ Dexmedetomidine HCl in 0.9% Sodium Chloride Injection
 
 400 mcg/100 mL (4 mcg/mL)
 
-For Intravenous Infusion
+For Intravenous Use
 
 # PRINCIPAL DISPLAY PANEL - 100 mL Bottle Tray
 
@@ -52,15 +46,11 @@ For Intravenous Infusion
 Single-dose bottle.
 Discard unused portion.
 
-Precedex™
-
-Dexmedetomidine HCl in 0.9% Sodium Chloride Injection
+Precedex™ Dexmedetomidine HCl in 0.9% Sodium Chloride Injection
 
 400 mcg/100 mL (4 mcg/mL)
 
-For Intravenous Infusion
-
-Hospira
+For Intravenous Use Hospira
 
 # PRINCIPAL DISPLAY PANEL - 20 mL Vial Label
 
@@ -88,7 +78,7 @@ Precedex™ Dexmedetomidine HCl in 0.9% Sodium Chloride Injection
 
 Hospira
 
-For Intravenous Infusion
+For Intravenous Use
 
 # PRINCIPAL DISPLAY PANEL - 2 mL Vial Label
 
@@ -109,17 +99,43 @@ RL–7616
 
 # PRINCIPAL DISPLAY PANEL - 2 mL Vial Tray
 
-2 mL Single-dose 25 Fliptop Vials Preservative-Free
+2 mL Single-dose 25 Fliptop Vials Preservative-Free NDC 0409-1638-02 Contains 25 of NDC 0409-1638-32
 
-NDC 0409-1638-02 Contains 25 of NDC 0409-1638-32
-
-Rx only
-
-Precedex™ DEXMEDETOMIDINE HCl INJECTION
+Precedex™ DEXMEDETOMIDINE HCl INJECTION Rx only
 
 200 mcg/2 mL (100 mcg/mL)
 
 For Intravenous use.
 MUST BE DILUTED
+
+Hospira
+
+# PRINCIPAL DISPLAY PANEL - 250 mL Bottle Label
+
+250 mL Rx only NDC 0409-1434-01
+
+Single-dose bottle.
+Discard unused portion.
+
+Precedex™ Dexmedetomidine HCl in 0.9% Sodium Chloride Injection
+
+1,000 mcg/250 mL (4 mcg/mL)
+
+For Intravenous Use
+
+# PRINCIPAL DISPLAY PANEL - 250 mL Bottle Carton
+
+NDC 0409-1434-01
+
+1 Unit X 250 mL Rx only
+
+Single-dose bottle.
+Discard unused portion.
+
+Precedex™ Dexmedetomidine HCl in 0.9% Sodium Chloride Injection
+
+1,000 mcg/250 mL (4 mcg/mL)
+
+For Intravenous Use
 
 Hospira
