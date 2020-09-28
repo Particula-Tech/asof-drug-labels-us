@@ -1,0 +1,27 @@
+{
+  "application_numbers": [
+    "ANDA210538"
+  ],
+  "inn": "dimethyl-fumarate",
+  "labeler": "Cadila Healthcare Limited",
+  "package_ndcs": [
+    "70771-1530-7",
+    "70771-1531-6",
+    "70771-1531-8",
+    "70771-1532-3"
+  ],
+  "products": [
+    {
+      "form": "CAPSULE, DELAYED RELEASE",
+      "generic": "dimethyl fumarate",
+      "name": "dimethyl fumarate"
+    },
+    {
+      "form": "KIT",
+      "generic": "dimethyl fumarate",
+      "name": "dimethyl fumarate"
+    }
+  ],
+  "setid": "7203a262-de0f-42dd-b4fb-8856758b82e9",
+  "source": "dailymed"
+}
