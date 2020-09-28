@@ -32,7 +32,7 @@ Mean Antisecretory Effects After Single and Multiple Daily PREVACID Dosing
 | NOTE: An intragastric pH of greater than four reflects a reduction in gastric acid by 99%. |  |  |  |  |  |
 
 After the initial dose in this study, increased gastric pH was seen within one to two hours with 30 mg of lansoprazole and two to three hours with 15 mg of lansoprazole.
-After multiple daily dosing, increased gastric pH was seen within the first hour post-dosing with 30 mg of lansoprazole and within one to two hours post-dosing with 15 mg of lansoprazole.
+After multiple daily dosing, increased gastric pH was seen within the first hour postdosing with 30 mg of lansoprazole and within one to two hours postdosing with 15 mg of lansoprazole.
 
 Acid suppression may enhance the effect of antimicrobials in eradicating Helicobacter pylori (H. pylori).
 The percentage of time gastric pH was elevated above five and six was evaluated in a crossover study of PREVACID given daily, twice daily and three times daily (Table 7).
@@ -67,7 +67,7 @@ No significant increase in nitrosamine concentrations was observed.
 Serum Gastrin Effects
 
 In over 2100 patients, median fasting serum gastrin levels increased 50 to 100% from baseline but remained within normal range after treatment with 15 to 60 mg of oral lansoprazole.
-These elevations reached a plateau within two months of therapy and returned to pre-treatment levels within four weeks after discontinuation of therapy.
+These elevations reached a plateau within two months of therapy and returned to pretreatment levels within four weeks after discontinuation of therapy.
 
 Increased gastrin causes enterochromaffin-like cell hyperplasia and increased serum CgA levels.
 The increased CgA levels may cause false positive results in diagnostic investigations for neuroendocrine tumors [see Warnings and Precautions (5.8)].
@@ -141,8 +141,8 @@ In a study comparing 12 male and six female human subjects who received lansopra
 
 Racial or Ethnic Groups:
 
-The pooled mean pharmacokinetic parameters of PREVACID from twelve U.S. studies (N=513) were compared to the mean pharmacokinetic parameters from two Asian studies (N=20).
-The mean AUCs of PREVACID in Asian subjects were approximately twice those seen in pooled U.S. data; however, the inter-individual variability was high.
+The pooled mean pharmacokinetic parameters of PREVACID from twelve US studies (N=513) were compared to the mean pharmacokinetic parameters from two Asian studies (N=20).
+The mean AUCs of PREVACID in Asian subjects were approximately twice those seen in pooled US data; however, the inter-individual variability was high.
 The Cmax values were comparable.
 
 Patients with Renal Impairment:
@@ -197,7 +197,7 @@ Clopidogrel:
 
 Clopidogrel is metabolized to its active metabolite in part by CYP2C19.
 A study of healthy subjects who were CYP2C19 extensive metabolizers, receiving once daily administration of clopidogrel 75 mg alone or concomitantly with PREVACID 30 mg (n=40), for nine days was conducted.
-The mean AUC of the active metabolite of clopidogrel was reduced by approximately 14% (mean AUC ratio was 86%, with 90% CI of 80 to 92%) when PREVACID was co-administered compared to administration of clopidogrel alone.
+The mean AUC of the active metabolite of clopidogrel was reduced by approximately 14% (mean AUC ratio was 86%, with 90% CI of 80 to 92%) when PREVACID was coadministered compared to administration of clopidogrel alone.
 
 Pharmacodynamic parameters were also measured and demonstrated that the change in inhibition of platelet aggregation (induced by 5 mcM ADP) was related to the change in the exposure to clopidogrel active metabolite.
 The effect on exposure to the active metabolite of clopidogrel and on clopidogrel-induced platelet inhibition is not considered clinically important.
@@ -212,20 +212,20 @@ Microbiology
 
 Lansoprazole, clarithromycin and/or amoxicillin have been shown to be active against most strains of Helicobacter pylori in vitro and in clinical infections [see Indications and Usage (1.2)].
 
-Helicobacter pylori Pre-treatment Resistance
+Helicobacter pylori Pretreatment Resistance
 
-Clarithromycin pre-treatment resistance (≥2.0 mcg/mL) was 9.5% (91/960) by E-test and 11.3% (12/106) by agar dilution in the dual and triple therapy clinical trials (M93-125, M93-130, M93-131, M95-392, and M95-399).
+Clarithromycin pretreatment resistance (≥2.0 mcg/mL) was 9.5% (91/960) by E-test and 11.3% (12/106) by agar dilution in the dual and triple therapy clinical trials (M93-125, M93-130, M93-131, M95-392, and M95-399).
 
-Amoxicillin pre-treatment susceptible isolates (≤0.25 mcg/mL) occurred in 97.8% (936/957) and 98.0% (98/100) of the patients in the dual and triple therapy clinical trials by E-test and agar dilution, respectively.
-Twenty one of 957 patients (2.2%) by E-test, and two of 100 patients (2.0%) by agar dilution, had amoxicillin pre-treatment MICs of greater than 0.25 mcg/mL.
-One patient on the 14 day triple therapy regimen had an unconfirmed pre-treatment amoxicillin minimum inhibitory concentration (MIC) of greater than 256 mcg/mL by E-test and the patient was eradicated of H. pylori (Table 8).
+Amoxicillin pretreatment susceptible isolates (≤0.25 mcg/mL) occurred in 97.8% (936/957) and 98.0% (98/100) of the patients in the dual and triple therapy clinical trials by E-test and agar dilution, respectively.
+Twenty -one of 957 patients (2.2%) by E-test, and two of 100 patients (2.0%) by agar dilution, had amoxicillin pretreatment MICs of greater than 0.25 mcg/mL.
+One patient on the 14 day triple therapy regimen had an unconfirmed pretreatment amoxicillin minimum inhibitory concentration (MIC) of greater than 256 mcg/mL by E-test and the patient was eradicated of H. pylori (Table 8).
 
 Table 8.
-Clarithromycin Susceptibility Test Results and Clinical/Bacteriological OutcomesIncludes only patients with pre-treatment clarithromycin susceptibility test results
+Clarithromycin Susceptibility Test Results and Clinical/Bacteriological OutcomesIncludes only patients with pretreatment clarithromycin susceptibility test results
 
 | SSusceptible (S) MIC ≤0.25 mcg/mL, Intermediate (I) MIC 0.5 to 1.0 mcg/mL, Resistant (R) MIC ≥2 mcg/mL | I | R | No MIC |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- |
-| Clarithromycin Pre-treatment Results |  | Clarithromycin Post-treatment Results |  |  |  |  |
+| Clarithromycin Pretreatment Results |  | Clarithromycin Post-treatment Results |  |  |  |  |
 |  |  | H. pylori negative - eradicated | H. pylori positive – not eradicated Post-treatment susceptibility results |  |  |  |
 | Triple Therapy 14 Day (lansoprazole 30 mg twice daily/amoxicillin 1 g twice daily/clarithromycin 500 mg twice daily) (M95-399, M93-131, M95-392) |  |  |  |  |  |  |
 | Susceptible | 112 | 105 |  |  |  | 7 |
@@ -240,8 +240,8 @@ Patients not eradicated of H. pylori following lansoprazole/amoxicillin/clarithr
 Therefore, for those patients who fail therapy, clarithromycin susceptibility testing should be done when possible.
 Patients with clarithromycin resistant H. pylori should not be treated with lansoprazole/amoxicillin/clarithromycin triple therapy or with regimens which include clarithromycin as the sole antimicrobial agent.
 
-Amoxicillin Susceptibility Test Results and Clinical/Bacteriological Outcomes: In the dual and triple therapy clinical trials, 82.6% (195/236) of the patients that had pre-treatment amoxicillin susceptible MICs (≤0.25 mcg/mL) were eradicated of H. pylori.
-Of those with pre-treatment amoxicillin MICs of greater than 0.25 mcg/mL, three of six had the H. pylori eradicated.
+Amoxicillin Susceptibility Test Results and Clinical/Bacteriological Outcomes: In the dual and triple therapy clinical trials, 82.6% (195/236) of the patients that had pretreatment amoxicillin susceptible MICs (≤0.25 mcg/mL) were eradicated of H. pylori.
+Of those with pretreatment amoxicillin MICs of greater than 0.25 mcg/mL, three of six had the H. pylori eradicated.
 A total of 30% (21/70) of the patients failed lansoprazole 30 mg three times daily/amoxicillin 1 g three times daily dual therapy and a total of 12.8% (22/172) of the patients failed the 10 and 14 day triple therapy regimens.
 Post-treatment susceptibility results were not obtained on 11 of the patients who failed therapy.
 Nine of the 11 patients with amoxicillin post-treatment MICs that failed the triple therapy regimen also had clarithromycin resistant H. pylori isolates.

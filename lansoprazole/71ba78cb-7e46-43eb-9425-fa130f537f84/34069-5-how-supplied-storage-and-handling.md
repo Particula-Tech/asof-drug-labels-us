@@ -22,4 +22,4 @@ The tablets are available as follows:
 | 64764-543-11 | Unit dose packages of 100: 15 mg tablets |
 | 64764-544-11 | Unit dose packages of 100: 30 mg tablets |
 
-Store at 25°C (77°F); excursions permitted to 15-30°C (59-86°F)[see USP Controlled Room Temperature].
+Store at 25°C (77°F); excursions permitted to 15 to 30°C (59 to 86°F) [see USP Controlled Room Temperature].

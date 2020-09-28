@@ -41,7 +41,8 @@ Administration
 
 - Missed doses: If a dose is missed, administer as soon as possible.
   However, if the next scheduled dose is due, do not take the missed dose, and take the next dose on time.
-  Do not take two doses at one time to make up for a missed dose.PREVACID CapsulesPREVACID SoluTab
+  Do not take two doses at one time to make up for a missed dose.
+  PREVACID Capsules PREVACID SoluTab
   - PREVACID or PREVACID SoluTab should be taken before eating.
   - Do not crush or chew PREVACID capsule or PREVACID SoluTab.
   - Take PREVACID or PREVACID SoluTab at least 30 minutes prior to sucralfate.

@@ -79,7 +79,7 @@ PREVACID capsules
   1. Open capsule.
   2. Sprinkle intact granules into 40 mL of apple juice.
   3. Mix briefly.
-  4. Using a catheter tipped syringe, draw up the mixture.
+  4. Using a catheter -tipped syringe, draw up the mixture.
   5. Inject through the nasogastric tube into the stomach.
   6. Flush with additional apple juice to clear the tube.
 
