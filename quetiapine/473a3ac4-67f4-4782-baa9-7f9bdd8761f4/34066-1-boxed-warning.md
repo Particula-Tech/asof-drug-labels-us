@@ -5,7 +5,7 @@ Increased Mortality in Elderly Patients with Dementia-Related Psychosis
 Elderly patients with dementia-related psychosis treated with antipsychotic drugs are at an increased risk of death [see Warnings and Precautions (5.1)].
 SEROQUEL XR is not approved for the treatment of patients with dementia-related psychosis [see Warnings and Precautions (5.1)].
 
-Suicidal Thoughts and Behavior
+Suicidal Thoughts and Behaviors
 
 Antidepressants increased the risk of suicidal thoughts and behavior in children, adolescents, and young adults in short-term studies.
 These studies did not show an increase in the risk of suicidal thoughts and behavior with antidepressant use in patients over age 24; there was a reduction in risk with antidepressant use in patients aged 65 and older [see Warnings and Precautions (5.2)].

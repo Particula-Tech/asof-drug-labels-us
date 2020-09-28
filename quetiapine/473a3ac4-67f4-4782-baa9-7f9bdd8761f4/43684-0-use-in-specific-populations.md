@@ -105,7 +105,7 @@ The safety and effectiveness of SEROQUEL XR in the maintenance treatment of schi
 
 Bipolar Mania
 
-The efficacy and safety of SEROQUEL XR in the treatment of bipolar mania in children and adolescents ages 10-17 years is supported by one 3-week, double-blind, placebo controlled trial with SEROQUEL [see Indications and Usage (1.2), Dosage and Administration (2.2), Adverse Reactions (6.1), and Clinical Studies (14.2)].
+The efficacy and safety of SEROQUEL XR in the treatment of bipolar mania in children and adolescents ages 10-17 years is supported by one 3-week, double-blind, placebo‑controlled trial with SEROQUEL [see Indications and Usage (1.2), Dosage and Administration (2.2), Adverse Reactions (6.1), and Clinical Studies (14.2)].
 
 Safety and effectiveness of SEROQUEL XR in pediatric patients less than 10 years of age with bipolar mania have not been established.
 

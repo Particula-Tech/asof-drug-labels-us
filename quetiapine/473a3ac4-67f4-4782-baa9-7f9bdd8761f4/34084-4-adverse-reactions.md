@@ -393,7 +393,7 @@ Table 22: Adverse Reactions Associated with Extrapyramidal Symptoms in the Place
 
 Table 23 below presents a listing of patients with adverse reactions associated with EPS in a short-term placebo-controlled monotherapy trial in children and adolescent patients with bipolar mania (3-week duration).
 
-Table 23: Adverse Reactions Associated with Extrapyramidal Symptoms in a Placebo-controlled Trial in Children and Adolescent Patients with Bipolar I Mania (3-week duration)
+Table 23: Adverse Reactions Associated with Extrapyramidal Symptoms in a Placebo-Controlled Trial in Children and Adolescent Patients with Bipolar I Mania (3-week duration)
 
 | Preferred TermThere were no adverse reactions with the preferred term of dystonic or dyskinetic events. | SEROQUEL400 mg/day(N=95) |  | SEROQUEL600 mg/day(N=98) |  | All SEROQUEL(N=193) |  | Placebo(N=90) |  |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -455,3 +455,4 @@ The following adverse reactions were identified during post approval use of SERO
 Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
 
 Adverse reactions reported since market introduction which were temporally related to quetiapine therapy include anaphylactic reaction, cardiomyopathy, drug reaction with eosinophilia and systemic symptoms (DRESS), hyponatremia, myocarditis, nocturnal enuresis, pancreatitis, retrograde amnesia, rhabdomyolysis, syndrome of inappropriate antidiuretic hormone secretion (SIADH), Stevens-Johnson syndrome (SJS), toxic epidermal necrolysis (TEN), decreased platelet count, serious liver reactions (including hepatitis, liver necrosis, and hepatic failure), agranulocytosis, intestinal obstruction, ileus, colon ischemia, sleep apnea, urinary retention, and acute generalized exanthematous pustulosis (AGEP).
+Bezoar observed in overdosage [see Overdosage (10)].

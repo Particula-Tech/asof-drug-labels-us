@@ -7,7 +7,7 @@ Short-term Trials - Adults
 The efficacy of SEROQUEL XR in the treatment of schizophrenia was demonstrated in 1 short-term, 6-week, fixed-dose, placebo-controlled trial of inpatients and outpatients with schizophrenia (n=573) who met DSM-IV criteria for schizophrenia.
 SEROQUEL XR (once daily) was administered as 300 mg on Day 1, and the dose was increased to either 400 mg or 600 mg by Day 2, or 800 mg by Day 3.
 The primary endpoint was the change from baseline of the Positive and Negative Syndrome Scale (PANSS) total score at the end of treatment (Day 42).
-SEROQUEL XR doses of 400 mg, 600 mg and 800 mg once daily were superior to placebo in the PANSS total score at Day 42 (study 1 in Table 26).
+SEROQUEL XR doses of 400 mg, 600 mg and 800 mg once daily were superior to placebo in the PANSS total score at Day 42 (Study 1 in Table 26).
 
 Short-term Trials -Adolescents (ages 13-17)
 
@@ -16,13 +16,13 @@ Patients who met DSM-IV diagnostic criteria for schizophrenia were randomized in
 Study medication was initiated at 50 mg/day and on day 2 increased to 100 mg/per day (divided and given two or three times per day).
 Subsequently, the dose was titrated to the target dose of 400 mg/day or 800 mg/day using increments of 100 mg/day, divided and given two or three times daily.
 The primary efficacy variable was the mean change from baseline in total Positive and Negative Syndrome Scale (PANSS).
-SEROQUEL at 400 mg/day and 800 mg/day was superior to placebo in the reduction of PANSS total score (study 2 in Table 26).
+SEROQUEL at 400 mg/day and 800 mg/day was superior to placebo in the reduction of PANSS total score (Study 2 in Table 26).
 
 Table 26: Schizophrenia Short-Term Trials
 
 | Study Number | Treatment Group | Primary Efficacy Endpoint: PANSS Total |  |  |
 | --- | --- | --- | --- | --- |
-| Mean Baseline Score (SD) | LS Mean Change from Baseline (SE) | Placebo-subtracted DifferenceDifference (drug minus placebo) in least-squares mean change from baseline. (95% CI) |  |  |
+| Mean Baseline Score (SD) | LS Mean Change from Baseline (SE) | Placebo-subtracted DifferenceDifference (drug minus placebo) in least-squares mean change from baseline (95% CI) |  |  |
 | Study 1 | SEROQUEL XR (400 mg/day)Doses that are statistically significantly superior to placebo | 95.8 (13.9) | -24.8 (2.5) | -6.1 (-11.5, -0.6) |
 | SEROQUEL XR (600 mg/day) | 96.8 (14.1) | -30.9 (2.5) | -12.1 (-17.6, -6.7) |  |
 | SEROQUEL XR (800 mg/day) | 97.3 (14.7) | -31.3 (2.5) | -12.5 (-17.9, -7.1) |  |
@@ -35,12 +35,12 @@ Table 26: Schizophrenia Short-Term Trials
 
 Maintenance Trials
 
-In a longer-term trial (study 3), clinically stable adult outpatients (n=171) meeting DSM-IV criteria for schizophrenia who remained stable following 16 weeks of open-label treatment with flexible doses of SEROQUEL XR (400 mg/day-800 mg/day) were randomized to placebo or to continue on their current SEROQUEL XR (400 mg/day-800 mg/day) for observation for possible relapse during the double-blind continuation (maintenance) phase.
+In a longer-term trial (Study 3), clinically stable adult outpatients (n=171) meeting DSM-IV criteria for schizophrenia who remained stable following 16 weeks of open-label treatment with flexible doses of SEROQUEL XR (400 mg/day-800 mg/day) were randomized to placebo or to continue on their current SEROQUEL XR (400 mg/day-800 mg/day) for observation for possible relapse during the double-blind continuation (maintenance) phase.
 Stabilization during the open-label phase was defined as receiving a stable dose of SEROQUEL XR and having a CGI-S≤4 and a PANSS score ≤60 from beginning to end of this open-label phase (with no increase of ≥10 points in PANSS total score).
 Relapse during the double-blind phase was defined in terms of a ≥30% increase in the PANSS Total score, or CGI-Improvement score of ≥6, or hospitalization due to worsening of schizophrenia, or need for any other antipsychotic medication.
 Patients on SEROQUEL XR experienced a statistically significant longer time to relapse than did patients on placebo (Figure 1).
 
-Figure 1: Kaplan-Meier Curves of Time to Schizophrenic Relapse (study 3)
+Figure 1: Kaplan-Meier Curves of Time to Schizophrenic Relapse (Study 3)
 
 PLA Placebo.
 QTP Quetiapine.
@@ -80,7 +80,7 @@ Adjunct Therapy
 In a 3-week placebo-controlled trial, 170 patients with bipolar mania (YMRS ≥20) were randomized to receive SEROQUEL or placebo as adjunct treatment to lithium or divalproex.
 Patients may or may not have received an adequate treatment course of lithium or divalproex prior to randomization.
 SEROQUEL was superior to placebo when added to lithium or divalproex alone in the reduction of YMRS total score.
-The majority of patients in this trial taking SEROQUEL were dosed in a range between 400 mg/day and 800 mg/day (study 4 in Table 27).
+The majority of patients in this trial taking SEROQUEL were dosed in a range between 400 mg/day and 800 mg/day (Study 4 in Table 27).
 
 Children and Adolescents (ages 10-17)
 
@@ -89,7 +89,7 @@ Patients who met DSM-IV diagnostic criteria for a manic episode were randomized 
 Study medication was initiated at 50 mg/day and on day 2 increased to 100 mg/day (divided doses given two or three times daily).
 Subsequently, the dose was titrated to a target dose of 400 mg/day or 600 mg/day using increments of 100 mg/day, given in divided doses two or three times daily.
 The primary efficacy variable was the mean change from baseline in total YMRS score.
-SEROQUEL 400 mg/day and 600 mg/day were superior to placebo in the reduction of YMRS total score (study 5 in Table 27).
+SEROQUEL 400 mg/day and 600 mg/day were superior to placebo in the reduction of YMRS total score (Study 5 in Table 27).
 
 Table 27: Mania Trials
 
@@ -121,7 +121,7 @@ Patients randomized to SEROQUEL XR were administered 50 mg on Day 1, 100 mg on D
 
 The primary rating instrument used to assess depressive symptoms was the Montgomery-Asberg Depression Rating Scale (MADRS), a 10-item clinician-rated scale with scores ranging from 0 (no depressive features) to 60 (maximum score).
 The primary endpoint was the change from baseline in MADRS score at week 8.
-SEROQUEL XR was superior to placebo in reduction of MADRS score at week 8 (study 6 in Table 28).
+SEROQUEL XR was superior to placebo in reduction of MADRS score at week 8 (Study 6 in Table 28).
 
 The efficacy of SEROQUEL for the treatment of depressive episodes associated with bipolar disorder was established in 2 identical 8-week, randomized, double-blind, placebo-controlled studies (N=1045).
 These studies included patients with either bipolar I or II disorder and those with or without a rapid cycling course.
@@ -173,7 +173,7 @@ The efficacy of SEROQUEL XR as adjunctive therapy to antidepressants in the trea
 SEROQUEL XR 150 mg/day or 300 mg/day was given as adjunctive therapy to existing antidepressant therapy in patients who had previously shown an inadequate response to at least one antidepressant.
 SEROQUEL XR was administered as 50 mg/day on Days 1 and 2, and increased to 150 mg/day on Day 3 for both dose groups.
 On Day 5, the dose was increased to 300 mg/day in the 300 mg/day fixed-dose group.
-Inadequate response was defined as having continued depressive symptoms for the current episode [Hamilton Depression Rating Scale (HAM-D) total score of ≥ 20] despite using an antidepressant for 6 weeks at or above the minimally effective labelled dose.
+Inadequate response was defined as having continued depressive symptoms for the current episode [Hamilton Depression Rating Scale (HAM-D) total score of ≥20] despite using an antidepressant for 6 weeks at or above the minimally effective labelled dose.
 The mean HAM-D total score at entry was 24, and 17% of patients scored 28 or greater.
 Patients were on various antidepressants prior to study entry including SSRI’s (paroxetine, fluoxetine, sertraline, escitalopram, or citalopram), SNRI’s, (duloxetine and venlafaxine,) TCA (amitriptyline), and other (bupropion).
 

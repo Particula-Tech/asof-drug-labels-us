@@ -165,7 +165,7 @@ Table 5: Percentage of Adult Patients with Shifts in Total Cholesterol, Triglyce
 | Placebo | 125 | 8 (6%) |  |  |
 | Major Depressive Disorder (Adjunct Therapy) | SEROQUEL XR | 458 | 75 (16%) |  |
 | Placebo | 223 | 18 (8%) |  |  |
-| LDL-Cholesterol≥ 160 mg/dL | Schizophrenia | SEROQUEL XR | 691 | 47 (7%) |
+| LDL-Cholesterol≥160 mg/dL | Schizophrenia | SEROQUEL XR | 691 | 47 (7%) |
 | Placebo | 227 | 17 (8%) |  |  |
 | Bipolar Depression | SEROQUEL XR | 86 | 3 (4%) |  |
 | Placebo | 104 | 2 (2%) |  |  |
@@ -173,7 +173,7 @@ Table 5: Percentage of Adult Patients with Shifts in Total Cholesterol, Triglyce
 | Placebo | 135 | 2 (2%) |  |  |
 | Major Depressive Disorder (Adjunct Therapy) | SEROQUEL XR | 457 | 51 (11%) |  |
 | Placebo | 219 | 21 (10%) |  |  |
-| HDL-Cholesterol≤ 40 mg/dL | Schizophrenia | SEROQUEL XR | 600 | 87 (15%) |
+| HDL-Cholesterol≤40 mg/dL | Schizophrenia | SEROQUEL XR | 600 | 87 (15%) |
 | Placebo | 195 | 23 (12%) |  |  |
 | Bipolar Depression | SEROQUEL XR | 78 | 7 (9%) |  |
 | Placebo | 83 | 6 (7%) |  |  |
@@ -193,16 +193,16 @@ Table 6: Percentage of Patients with Shifts in Total Cholesterol, Triglycerides,
 
 | LaboratoryAnalyte | Treatment Arm6 weeks duration | N | Patientsn (%) |
 | --- | --- | --- | --- |
-| Cholesterol≥ 240 mg/dL | SEROQUEL XR 150 mg | 223 | 41 (18%) |
+| Cholesterol≥240 mg/dL | SEROQUEL XR 150 mg | 223 | 41 (18%) |
 | SEROQUEL XR 300 mg | 197 | 26 (13%) |  |
 | Placebo | 213 | 15 (7%) |  |
-| Triglycerides≥ 200 mg/dL | SEROQUEL XR 150 mg | 232 | 36 (16%) |
+| Triglycerides≥200 mg/dL | SEROQUEL XR 150 mg | 232 | 36 (16%) |
 | SEROQUEL XR 300 mg | 226 | 39 (17%) |  |
 | Placebo | 223 | 18 (8%) |  |
-| LDL-Cholesterol≥ 160 mg/dL | SEROQUEL XR 150 mg | 242 | 29 (12%) |
+| LDL-Cholesterol≥160 mg/dL | SEROQUEL XR 150 mg | 242 | 29 (12%) |
 | SEROQUEL XR 300 mg | 215 | 22 (10%) |  |
 | Placebo | 219 | 21 (10%) |  |
-| HDL-Cholesterol≤ 40 mg/dL | SEROQUEL XR 150 mg | 238 | 14 (6%) |
+| HDL-Cholesterol≤40 mg/dL | SEROQUEL XR 150 mg | 238 | 14 (6%) |
 | SEROQUEL XR 300 mg | 232 | 20 (9%) |  |
 | Placebo | 230 | 19 (8%) |  |
 
@@ -210,7 +210,7 @@ Children and Adolescents:
 
 Safety and effectiveness of SEROQUEL XR is supported by studies of SEROQUEL in children and adolescent patients 10 to 17 years of age [see Clinical Studies (14.1 and 14.2)].
 
-In a placebo-controlled SEROQUEL XR monotherapy study (8 weeks duration) of children and adolescent patients (10-17 years of age) with bipolar depression, in which efficacy was not established, the percentage of children and adolescents with shifts in total cholesterol (≥200 mg/dL), triglycerides (≥150 mg/dL), LDL-cholesterol (≥130 mg/dL), and HDL-cholesterol (≤40 mg/dL) from baseline to clinically significant levels were: total cholesterol 8% (7/83) for SEROQUEL XR vs. 6% (5/84) for placebo; triglycerides 28% (22/80) for SEROQUEL XR vs. 9% (7/82) for placebo; LDL-cholesterol 2% (2/86) for SEROQUEL XR vs. 4% (3/85) for placebo and HDL-cholesterol 20% (13/65) for SEROQUEL XR vs 15% (11/74) for placebo.
+In a placebo-controlled SEROQUEL XR monotherapy study (8 weeks duration) of children and adolescent patients (10-17 years of age) with bipolar depression, in which efficacy was not established, the percentage of children and adolescents with shifts in total cholesterol (≥200 mg/dL), triglycerides (≥150 mg/dL), LDL-cholesterol (≥130 mg/dL), and HDL-cholesterol (≤40 mg/dL) from baseline to clinically significant levels were: total cholesterol 8% (7/83) for SEROQUEL XR vs. 6% (5/84) for placebo; triglycerides 28% (22/80) for SEROQUEL XR vs. 9% (7/82) for placebo; LDL-cholesterol 2% (2/86) for SEROQUEL XR vs. 4% (3/85) for placebo and HDL-cholesterol 20% (13/65) for SEROQUEL XR vs. 15% (11/74) for placebo.
 
 Table 7 shows the percentage of children and adolescents with shifts in total cholesterol, triglycerides, LDL-cholesterol, and HDL-cholesterol from baseline to clinically significant levels by indication in clinical trials with SEROQUEL in adolescents (13-17 years) with schizophrenia and in children and adolescents (10-17 years) with bipolar mania.
 
@@ -222,7 +222,7 @@ Table 7: Percentage of Children and Adolescents with Shifts in Total Cholesterol
 | Placebo | 56 | 1 (2%) |  |  |
 | Bipolar Mania10-17 years, 3 weeks duration | SEROQUEL | 159 | 16 (10%) |  |
 | Placebo | 66 | 2 (3%) |  |  |
-| Triglycerides ≥150 mg/dL | Schizophrena | SEROQUEL | 103 | 17 (17%) |
+| Triglycerides ≥150 mg/dL | Schizophrenia | SEROQUEL | 103 | 17 (17%) |
 | Placebo | 51 | 4 (8%) |  |  |
 | Bipolar Mania | SEROQUEL | 149 | 32 (22%) |  |
 | Placebo | 60 | 8 (13%) |  |  |
@@ -290,7 +290,7 @@ The mean change in body weight in the schizophrenia trial was 2.0 kg in the SERO
 
 In an open-label study that enrolled patients from the above two pediatric trials, 63% of patients (241/380) completed 26 weeks of therapy with SEROQUEL.
 After 26 weeks of treatment, the mean increase in body weight was 4.4 kg.
-Forty-five percent of the patients gained ≥ 7% of their body weight, not adjusted for normal growth.
+Forty-five percent of the patients gained ≥7% of their body weight, not adjusted for normal growth.
 In order to adjust for normal growth over 26 weeks, an increase of at least 0.5 standard deviation from baseline in BMI was used as a measure of a clinically significant change; 18.3% of patients on SEROQUEL met this criterion after 26 weeks of treatment.
 
 When treating pediatric patients with SEROQUEL for any indication, weight gain should be assessed against that expected for normal growth.
@@ -394,10 +394,10 @@ In SEROQUEL XR clinical trials across all indications 1.8% (24/1336) of patients
 About 0.7% (26/3489) of SEROQUEL patients did experience TSH increases in monotherapy studies.
 Some patients with TSH increases needed replacement thyroid treatment.
 
-In all quetiapine trials, the incidence of shifts in thyroid hormones and TSH were1: decrease in free T4 (<0.8 LLN), 2.0% (357/17513); decrease in total T4 (<0.8 LLN), 4.0% (75/1861); decrease in free T3(<0.8 LLN), 0.4% (53/13766); decrease in total T3(<0.8 LLN), 2.0% (26/1312), and increase in TSH (>5 mIU/L), 4.9% (956/19412).
+In all quetiapine trials, the incidence of shifts in thyroid hormones and TSH were1: decrease in free T4 (<0.8 LLN), 2.0% (357/17513); decrease in total T4 (<0.8 LLN), 4.0% (75/1861); decrease in free T3 (<0.8 LLN), 0.4% (53/13766); decrease in total T3 (<0.8 LLN), 2.0% (26/1312), and increase in TSH (>5 mIU/L), 4.9% (956/19412).
 In eight patients, where TBG was measured, levels of TBG were unchanged.
 
-________________________
+_______________________
 
 1Based on shifts from normal baseline to potentially clinically important value at anytime post-baseline.
 Shifts in total T4, free T4, total T3 and free T3 are defined as <0.8 x LLN (pmol/L) and shift in TSH is >5 mIU/L at any time.
@@ -470,9 +470,9 @@ Gradual dose reduction is advised [see Use in Specific Populations (8.1)].
 
 Norquetiapine, an active metabolite of quetiapine, has moderate to strong affinity for several muscarinic receptor subtypes.
 This contributes to anticholinergic adverse reactions when SEROQUEL XR is used at therapeutic doses, taken concomitantly with other anticholinergic medications, or taken in overdose.
-SEROQUEL XR should be used with caution in patients receiving medications having anticholinergic (antimuscarinic) effects [see Overdosage (10.1) and Clinical Pharmacology (12.1)].
+SEROQUEL XR should be used with caution in patients receiving medications having anticholinergic (antimuscarinic) effects [see Drug Interactions (7.1),Overdosage (10.1), and Clinical Pharmacology (12.1)].
 
 Constipation was a commonly reported adverse event in patients treated with quetiapine and represents a risk factor for intestinal obstruction.
 Intestinal obstruction has been reported with quetiapine, including fatal reports in patients who were receiving multiple concomitant medications that decrease intestinal motility.
 
-SEROQUEL XR should be used with caution in patients with a current diagnosis or prior history of urinary retention, clinically significant prostatic hypertrophy, or constipation, or increased intraocular pressure.
+SEROQUEL XR should be used with caution in patients with a current diagnosis or prior history of urinary retention, clinically significant prostatic hypertrophy, or constipation.

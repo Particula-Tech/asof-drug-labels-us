@@ -64,7 +64,8 @@ As with other medications, patients should be advised to notify their physicians
 
 Pregnancy
 
-Advise pregnant women to notify their healthcare provider if they become pregnant or intend to become pregnant during treatment with SEROQUEL XR Advise patients that SEROQUEL XR may cause extrapyramidal and/or withdrawal symptoms (agitation, hypertonia, hypotonia, tremor, somnolence, respiratory distress, and feeding disorder) in a neonate.
+Advise pregnant women to notify their healthcare provider if they become pregnant or intend to become pregnant during treatment with SEROQUEL XR.
+Advise patients that SEROQUEL XR may cause extrapyramidal and/or withdrawal symptoms (agitation, hypertonia, hypotonia, tremor, somnolence, respiratory distress, and feeding disorder) in a neonate.
 Advise patients that there is a pregnancy registry that monitors pregnancy outcomes in women exposed to SEROQUEL XR during pregnancy [see Use in Specific Populations (8.1)].
 
 Infertility

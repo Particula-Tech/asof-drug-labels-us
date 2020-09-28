@@ -11,7 +11,7 @@ Quetiapine exposure is increased by the prototype CYP3A4 inhibitors (e.g., ketoc
 CYP3A4 inhibitors:
 
 Coadministration of ketoconazole, a potent inhibitor of cytochrome CYP3A4, resulted in significant increase in quetiapine exposure.
-The dose should be reduced to one sixth of the original dose in patients coadministered with a strong CYP3A4 inhibitor [see Dosage and Administration (2.5) and Clinical Pharmacology (12.3)].
+The dose should be reduced to one‑sixth of the original dose in patients coadministered with a strong CYP3A4 inhibitor [see Dosage and Administration (2.5) and Clinical Pharmacology (12.3)].
 
 CYP3A4 inducers:
 
@@ -19,7 +19,12 @@ Coadministration of quetiapine and phenytoin, a CYP3A4 inducer increased the mea
 Increased doses of SEROQUEL XR up to 5-fold may be required to maintain control of symptoms of schizophrenia in patients receiving quetiapine and phenytoin, or other known potent CYP3A4 inducers [see Dosage and Administration (2.6) and Clinical Pharmacology (12.3)].
 When the CYP3A4 inducer is discontinued, the dose of SEROQUEL XR should be reduced to the original level within 7-14 days [see Dosage and Administration (2.6)].
 
-The potential effects of several concomitant medications on quetiapine pharmacokinetics were studied.
+Anticholinergic Drugs:
+
+Concomitant treatment with quetiapine and other drugs with anticholinergic activity can increase the risk for severe gastrointestinal adverse reactions related to hypomotility.
+SEROQUEL should be used with caution in patients receiving medications having anticholinergic (antimuscarinic) effects [see Warnings and Precautions (5.20)].
+
+The potential effects of several concomitant medications on quetiapine pharmacokinetics were studied [see Clinical Pharmacology (12.3)].
 
 ## 7.2 Effect of Quetiapine on Other Drugs
 

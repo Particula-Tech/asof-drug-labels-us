@@ -98,7 +98,7 @@ Table 24: The Effect of Other Drugs on the Pharmacokinetics of Quetiapine
 | CoadministeredDrug | Dose Schedules |  | Effect onQuetiapinePharmacokinetics |
 | --- | --- | --- | --- |
 | Coadministered Drug | Quetiapine |  |  |
-| Phenytoin | 100 mg three times daily | 250 mg three times daily | 5-fold Increase in oral clearance |
+| Phenytoin | 100 mg three times daily | 250 mg three times daily | 5-fold increase in oral clearance |
 | Divalproex | 500 mg twice daily | 150 mg twice daily | 17% increase mean max plasma concentration at steady state.No effect on absorption or mean oral clearance |
 | Thioridazine | 200 mg twice daily | 300 mg twice daily | 65% increase in oral clearance |
 | Cimetidine | 400 mg three times daily for 4 days | 150 mg three times daily | 20% decrease in mean oral clearance |

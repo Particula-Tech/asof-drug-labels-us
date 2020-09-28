@@ -17,3 +17,7 @@ Cardiovascular monitoring should commence immediately and should include continu
 
 Appropriate supportive measures are the mainstay of management.
 For the most up-to-date information on the management of Seroquel XR overdosage, contact a certified Regional Poison Control Center (1-800-222-1222).
+
+SEROQUEL XR overdose may lead to gastric bezoar formation and appropriate diagnostic imaging is recommended to further guide patient management.
+Routine gastric lavage may not be effective in the removal of the bezoar due to gum like sticky consistency of the mass.
+Endoscopic pharmacobezoar removal has been performed successfully.

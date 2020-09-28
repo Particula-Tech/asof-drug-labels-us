@@ -44,7 +44,7 @@ The dose can be increased daily in increments of 50 mg/day to an effective dose,
 
 ## 2.5 Dose Modifications when used with CYP3A4 Inhibitors
 
-SEROQUEL XR dose should be reduced to one sixth of original dose when co-medicated with a potent CYP3A4 inhibitor (e.g., ketoconazole, itraconazole, indinavir, ritonavir, nefazodone, etc.). When the CYP3A4 inhibitor is discontinued, the dose of SEROQUEL XR should be increased by 6-fold [see Clinical Pharmacology (12.3) and Drug Interactions (7.1)].
+SEROQUEL XR dose should be reduced to one‑sixth of original dose when co-medicated with a potent CYP3A4 inhibitor (e.g., ketoconazole, itraconazole, indinavir, ritonavir, nefazodone, etc.). When the CYP3A4 inhibitor is discontinued, the dose of SEROQUEL XR should be increased by 6-fold [see Clinical Pharmacology (12.3) and Drug Interactions (7.1)].
 
 ## 2.6 Dose Modifications when used with CYP3A4 Inducers
 
