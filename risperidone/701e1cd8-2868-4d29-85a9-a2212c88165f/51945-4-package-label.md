@@ -1,6 +1,6 @@
 PRINCIPAL DISPLAY PANEL - 0.25 mg Tablet Label
 
-60 Tablets NDC 50458-590-60
+NDC 50458-590-60
 
 risperiDONE Tablets
 
@@ -8,11 +8,15 @@ risperiDONE Tablets
 
 Each tablet contains: Risperidone 0.25 mg
 
-PATRIOT PHARMACEUTICALS LLC
+Keep out of the reach of children.
+
+Rx only
+
+60 Tablets
 
 PRINCIPAL DISPLAY PANEL - 0.5 mg Tablet Label
 
-60 Tablets NDC 50458-591-60
+NDC 50458-591-60
 
 risperiDONE Tablets
 
@@ -20,11 +24,15 @@ risperiDONE Tablets
 
 Each tablet contains: Risperidone 0.5 mg
 
-PATRIOT PHARMACEUTICALS LLC
+Keep out of the reach of children.
+
+Rx only
+
+60 Tablets
 
 PRINCIPAL DISPLAY PANEL - 1 mg Tablet Label
 
-60 Tablets NDC 50458-592-60
+NDC 50458-592-60
 
 risperiDONE Tablets
 
@@ -32,11 +40,15 @@ risperiDONE Tablets
 
 Each tablet contains: Risperidone 1 mg
 
-PATRIOT PHARMACEUTICALS LLC
+Keep out of the reach of children.
+
+Rx only
+
+60 Tablets
 
 PRINCIPAL DISPLAY PANEL - 2 mg Tablet Label
 
-60 Tablets NDC 50458-593-60
+NDC 50458-593-60
 
 risperiDONE Tablets
 
@@ -44,11 +56,15 @@ risperiDONE Tablets
 
 Each tablet contains: Risperidone 2 mg
 
-PATRIOT PHARMACEUTICALS LLC
+Keep out of the reach of children.
+
+Rx only
+
+60 Tablets
 
 PRINCIPAL DISPLAY PANEL - 3 mg Tablet Label
 
-60 Tablets NDC 50458-594-60
+NDC 50458-594-60
 
 risperiDONE Tablets
 
@@ -56,11 +72,15 @@ risperiDONE Tablets
 
 Each tablet contains: Risperidone 3 mg
 
-PATRIOT PHARMACEUTICALS LLC
+Keep out of the reach of children.
+
+Rx only
+
+60 Tablets
 
 PRINCIPAL DISPLAY PANEL - 4 mg Tablet Label
 
-60 Tablets NDC 50458-595-60
+NDC 50458-595-60
 
 risperiDONE Tablets
 
@@ -68,7 +88,11 @@ risperiDONE Tablets
 
 Each tablet contains: Risperidone 4 mg
 
-PATRIOT PHARMACEUTICALS LLC
+Keep out of the reach of children.
+
+Rx only
+
+60 Tablets
 
 PRINCIPAL DISPLAY PANEL - 30 mL Oral Solution Carton
 
