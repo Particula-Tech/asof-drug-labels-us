@@ -7,14 +7,6 @@ See FDA-Approved Patient Labeling (Patient Information)
   Advise patients taking ADCIRCA not to take CIALIS or other PDE5 inhibitors.
 - Advise patients to seek immediate medical attention in the event of a sudden loss of vision in one or both eyes while taking ADCIRCA.
   Such an event may be a sign of NAION.
+  Also discuss with patients that there is an increased risk of NAION in individuals who have already experienced NAION in one eye, including whether such individuals could be adversely affected by use of vasodilators such as PDE5 inhibitors.
 - Advise patients to seek prompt medical attention in the event of sudden decrease or loss of hearing while taking ADCIRCA.
   These events may be accompanied by tinnitus and dizziness.
-
-Manufactured by: Eli Lilly and Company, Indianapolis, IN 46285, USA
-
-Marketed by: United Therapeutics Corporation
-
-Copyright © 2009, 2017, Eli Lilly and Company.
-All rights reserved.
-
-ADC-0004-USPI-20170801

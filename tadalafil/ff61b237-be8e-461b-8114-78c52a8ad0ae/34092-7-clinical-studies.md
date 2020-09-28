@@ -17,12 +17,12 @@ The majority of subjects had a World Health Organization (WHO) Functional Class 
 The mean baseline 6-minute walk distance (6-MWD) was 343 meters.
 Of the 405 subjects, 341 completed the study.
 
-The primary efficacy endpoint was the change from baseline at week 16 in 6-MWD (see Figure 1).
+The primary efficacy endpoint was the change from baseline at week 16 in 6-MWD (see Figure 4).
 In the ADCIRCA 40 mg treatment group, the placebo-adjusted mean change increase in 6-MWD was 33 meters (95% C.I.
 15-50 meters; p=0.0004).
 The improvement in 6-MWD was apparent at 8 weeks of treatment and then maintained at week 12 and week 16.
 
-Placebo-adjusted changes in 6-MWD at 16 weeks were evaluated in subgroups (see Figure 2).
+Placebo-adjusted changes in 6-MWD at 16 weeks were evaluated in subgroups (see Figure 5).
 In patients taking only ADCIRCA 40 mg (i.e., without concomitant bosentan), the placebo-adjusted mean change in 6-MWD was 44 meters.
 In patients taking ADCIRCA 40 mg and concomitant bosentan therapy, the placebo adjusted mean change in 6-MWD was 23 meters.
 
@@ -40,7 +40,7 @@ Table 2: Number (percent) with Clinical Worseninga
 | Worsening WHO class | 11 | 10 | 6 | 6 | 3 |
 | a Subjects may be counted in more than one category |  |  |  |  |  |
 
-The Kaplan-Meier plot of times to clinical worsening is shown below in Figure 3.
+The Kaplan-Meier plot of times to clinical worsening is shown below in Figure 6.
 
 ## 14.2 Long-Term Treatment of Pulmonary Arterial Hypertension
 

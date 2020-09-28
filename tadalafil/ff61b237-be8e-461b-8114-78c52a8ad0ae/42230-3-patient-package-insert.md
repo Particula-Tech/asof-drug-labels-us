@@ -53,12 +53,10 @@ Before taking ADCIRCA, tell your healthcare provider about all of your medical c
 - are allergic to ADCIRCA or Cialis or any of its ingredients.
   See the end of this leaflet for a complete list of ingredients in ADCIRCA.
 - have pulmonary veno-occlusive disease (PVOD)
-- have heart problems such as angina (chest pain), heart failure, irregular heartbeats, or have had a heart attack
-- have low blood pressure or high blood pressure that is not controlled
-- have had a stroke
+- have heart problems
+- have low blood pressure
 - have liver problems
 - have kidney problems or get dialysis
-- have stomach ulcers
 - have retinitis pigmentosa, a rare genetic eye disease
 - have ever had any sudden vision loss, including any damage to your optic nerve or NAION.
 - have ever had hearing problems such as ringing in the ears, dizziness, or loss of hearing
@@ -66,10 +64,9 @@ Before taking ADCIRCA, tell your healthcare provider about all of your medical c
 - have had an erection that lasted more than 4 hours
 - have blood cell problems such as sickle cell anemia, multiple myeloma, or leukemia
 - are pregnant or planning to become pregnant.
-  It is not known if ADCIRCA will harm your unborn baby.
   Talk to your healthcare provider if you are pregnant or plan to become pregnant.
 - are breastfeeding or plan to breast feed.
-  It is not known if ADCIRCA passes into your breast milk.
+  If you breastfeed while taking ADCIRCA, it is likely that ADCIRCA will pass into your breast milk.
   You and your healthcare provider should decide if you will take ADCIRCA or breastfeed.
   You should not do both.
 
@@ -79,9 +76,6 @@ ADCIRCA and other medicines may affect each other.
 Especially tell your healthcare provider if you take any of these medicines*:
 
 - nitrates or guanylate cyclase stimulators (see “What is the most important information I should know about ADCIRCA?”)
-- anti-hypertensives, used to treat high blood pressure.
-  Your blood pressure could suddenly drop.
-  You could get dizzy or faint.
 - alpha blockers, used to treat prostate disease and high blood pressure.
   Your blood pressure could suddenly drop.
   You could get dizzy or faint.
@@ -180,13 +174,13 @@ ADCIRCA® (tadalafil) is a trademark of Eli Lilly and Company.
 *The brands listed are trademarks of their respective owners and are not trademarks of Eli Lilly and Company.
 The makers of these brands are not affiliated with and do not endorse Eli Lilly and Company or its products.
 
-Revised 08/2017
+Revised 09/2020
 
 Manufactured by: Eli Lilly and Company, Indianapolis, IN 46285, USA
 
 Marketed by: United Therapeutics Corporation
 
-Copyright © 2009, 2017, Eli Lilly and Company.
+Copyright © 2009, 2020, Eli Lilly and Company.
 All rights reserved.
 
-ADC-0003-PPI-20170801
+ADC-0004-PPI-20200915
