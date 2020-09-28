@@ -180,7 +180,7 @@ Table 5: Percentage of Children and Adolescents with Shifts in Total Cholesterol
 | Bipolar Mania | SEROQUEL | 154 | 16 (10%) |  |
 | Placebo | 61 | 4 (7%) |  |  |
 
-In a placebo-controlled SEROQUEL XR monotherapy study (8 weeks duration) of children and adolescent patients (10-17 years of age) with bipolar depression, in which efficacy was not established, the percentage of children and adolescents with shifts in total cholesterol (≥200 mg/dL), triglycerides (≥150 mg/dL), LDL-cholesterol (≥ 130 mg/dL), and HDL-cholesterol (≤40 mg/dL) from baseline to clinically significant levels were: total cholesterol 8% (7/83) for SEROQUEL XR vs. 6% (5/84) for placebo; triglycerides 28% (22/80) for SEROQUEL XR vs. 9% (7/82) for placebo; LDL-cholesterol 2% (2/86) for SEROQUEL XR vs. 4% (3/85) for placebo and HDL-cholesterol 20% (13/65) for SEROQUEL XR vs. 15% (11/74) for placebo.
+In a placebo-controlled SEROQUEL XR monotherapy study (8 weeks duration) of children and adolescent patients (10 to 17 years of age) with bipolar depression, in which efficacy was not established, the percentage of children and adolescents with shifts in total cholesterol (≥200 mg/dL), triglycerides (≥150 mg/dL), LDL-cholesterol (≥ 130 mg/dL), and HDL-cholesterol (≤40 mg/dL) from baseline to clinically significant levels were: total cholesterol 8% (7/83) for SEROQUEL XR vs. 6% (5/84) for placebo; triglycerides 28% (22/80) for SEROQUEL XR vs. 9% (7/82) for placebo; LDL-cholesterol 2% (2/86) for SEROQUEL XR vs. 4% (3/85) for placebo and HDL-cholesterol 20% (13/65) for SEROQUEL XR vs. 15% (11/74) for placebo.
 
 Weight Gain
 
@@ -402,9 +402,9 @@ Gradual withdrawal is advised [see Use in Specific Populations (8.1)].
 
 Norquetiapine, an active metabolite of quetiapine, has moderate to strong affinity for several muscarinic receptor subtypes.
 This contributes to anticholinergic adverse reactions when SEROQUEL is used at therapeutic doses, taken concomitantly with other anticholinergic medications, or taken in overdose.
-SEROQUEL should be used with caution in patients receiving medications having anticholinergic (antimuscarinic) effects [see Overdosage (10.1) and Clinical Pharmacology (12.1)].
+SEROQUEL should be used with caution in patients receiving medications having anticholinergic (antimuscarinic) effects [see Drug Interactions (7.1), Overdosage (10.1) and Clinical Pharmacology (12.1)].
 
 Constipation was a commonly reported adverse event in patients treated with quetiapine and represents a risk factor for intestinal obstruction.
 Intestinal obstruction has been reported with quetiapine, including fatal reports in patients who were receiving multiple concomitant medications that decrease intestinal motility.
 
-SEROQUEL should be used with caution in patients with a current diagnosis or prior history of urinary retention, clinically significant prostatic hypertrophy, constipation, or increased intraocular pressure.
+SEROQUEL should be used with caution in patients with a current diagnosis or prior history of urinary retention, clinically significant prostatic hypertrophy or constipation.

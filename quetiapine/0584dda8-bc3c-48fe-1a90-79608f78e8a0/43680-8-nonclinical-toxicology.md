@@ -23,14 +23,14 @@ Mutagenesis
 
 Quetiapine was not mutagenic or clastogenic in standard genotoxicity tests.
 The mutagenic potential of quetiapine was tested in the in vitro Ames bacterial gene mutation assay and in the in vitro mammalian gene mutation assay in Chinese Hamster Ovary cells.
-The clastogenic potential of quetiapine was tested in the in vitro chromosomal aberration assay in cultured human lymphocytes and in the in vivo bone marrow micronucleus assay in rats up to 500 mg/kg, which is 6 times the maximum recommended human dose based on mg/m2 body surface area.
+The clastogenic potential of quetiapine was tested in the in vitro chromosomal aberration assay in cultured human lymphocytes and in the in vivo bone marrow micronucleus assay in rats up to 500 mg/kg, which is 6 times the MRHD based on mg/m2 body surface area.
 
 Impairment of Fertility
 
 Quetiapine decreased mating and fertility in male Sprague-Dawley rats at oral doses of 50 and 150 mg/kg or approximately 1 and 3 times the MRHD of 800 mg/day based on mg/m2 body surface area.
 Drug-related effects included increases in interval to mate and in the number of matings required for successful impregnation.
 These effects continued to be observed at 3 times the MRHD even after a two-week period without treatment.
-The no-effect dose for impaired mating and fertility in male rats was 25 mg/kg, or 0.3 times the MRHD dose based on mg/m2 body surface area.
+The no-effect dose for impaired mating and fertility in male rats was 25 mg/kg, or 0.3 times the MRHD based on mg/m2 body surface area.
 Quetiapine adversely affected mating and fertility in female Sprague-Dawley rats at an oral dose approximately 1 times the MRHD of 800 mg/day based on mg/m2 body surface area.
 Drug-related effects included decreases in matings and in matings resulting in pregnancy, and an increase in the interval to mate.
 An increase in irregular estrus cycles was observed at doses of 10 and 50 mg/kg, or approximately 0.1 and 1 times the MRHD of 800 mg/day based on mg/m2 body surface area.

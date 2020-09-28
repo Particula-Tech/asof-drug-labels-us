@@ -330,7 +330,7 @@ Table 15 presents a listing of patients with adverse reactions potentially assoc
 
 In Tables 15-16, dystonic event included nuchal rigidity, hypertonia, and muscle rigidity; parkinsonism included cogwheel rigidity and tremor; akathisia included akathisia only; dyskinetic event included tardive dyskinesia, dyskinesia, and choreoathetosis; and other extrapyramidal event included restlessness and extrapyramidal disorder.
 
-Table 15: Adverse Reactions Associated with Extrapyramidal Symptoms in the Placebo-controlled Trial in Adolescent Patients with Schizophrenia (6-week duration)
+Table 15: Adverse Reactions Associated with Extrapyramidal Symptoms in the Placebo-Controlled Trial in Adolescent Patients with Schizophrenia (6-week duration)
 
 | Preferred Term | SEROQUEL400 mg/day(N=73) |  | SEROQUEL800 mg/day(N=74) |  | AllSEROQUEL(N=147) |  | Placebo(N=75) |  |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |

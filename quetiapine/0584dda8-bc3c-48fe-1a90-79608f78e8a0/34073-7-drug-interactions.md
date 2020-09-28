@@ -19,6 +19,11 @@ Coadministration of quetiapine and phenytoin, a CYP3A4 inducer increased the mea
 Increased doses of SEROQUEL up to 5 fold may be required to maintain control of symptoms of schizophrenia in patients receiving quetiapine and phenytoin, or other known potent CYP3A4 inducers [see Dosage and Administration (2.6) and Clinical Pharmacology (12.3)].
 When the CYP3A4 inducer is discontinued, the dose of SEROQUEL should be reduced to the original level within 7-14 days [see Dosage and Administration (2.6)].
 
+Anticholinergic Drugs:
+
+Concomitant treatment with quetiapine and other drugs with anticholinergic activity can increase the risk for severe gastrointestinal adverse reactions related to hypomotility.
+SEROQUEL should be used with caution in patients receiving medications having anticholinergic (antimuscarinic) effects [see Warnings and Precautions (5.20)].
+
 The potential effects of several concomitant medications on quetiapine pharmacokinetics were studied [see Clinical Pharmacology (12.3)].
 
 ## 7.2 Effect of Quetiapine on Other Drugs
