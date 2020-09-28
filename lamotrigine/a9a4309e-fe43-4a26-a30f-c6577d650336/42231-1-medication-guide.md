@@ -121,7 +121,7 @@ What are lamotrigine tablets?
 - It is not known if lamotrigine tablets are safe or effective for people with mood episodes who have not already been treated with other medicines.
 - Lamotrigine tablets should not be used for acute treatment of manic or mixed mood episodes.
 
-Do not take lamotrigine tablets?
+Do not take lamotrigine tablets:
 
 - if you have had an allergic reaction to lamotrigine or to any of the inactive ingredients in lamotrigine tablets.
   See the end of this leaflet for a complete list of ingredients in lamotrigine tablets.
@@ -216,7 +216,7 @@ How should I store lamotrigine tablets?
 
 Keep lamotrigine tablets and all medicines out of the reach of children.
 
-General information about the safe and effective use of lamotrigine tablets
+General information about the safe and effective use of lamotrigine tablets.
 
 Medicines are sometimes prescribed for purposes other than those listed in a Medication Guide.
 Do not use lamotrigine tablets for a condition for which it was not prescribed.
@@ -237,6 +237,6 @@ Inactive ingredients: microcrystalline cellulose, lactose monohydrate, povidone,
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
 
 The brands listed are trademarks of their respective owners and are not trademarks of Aurobindo Pharma Limited.
-Dispense with Medication Guide available at: www.aurobindousa.com/product-medication-guides
+Dispense with Medication Guide available at: www.aurobindousa.com/medication-guides
 
-Distributed by: Aurobindo Pharma USA, Inc. 279 Princeton-Hightstown Road East Windsor, NJ 08520 Manufactured by: Aurobindo Pharma Limited Hyderabad-500 038, India Revised: 12/2019
+Distributed by: Aurobindo Pharma USA, Inc. 279 Princeton-Hightstown Road East Windsor, NJ 08520 Manufactured by: Aurobindo Pharma Limited Hyderabad-500 038, India Revised: 09/2020

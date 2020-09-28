@@ -115,7 +115,7 @@ Dose-Related Adverse Reactions from a Randomized, Placebo-Controlled, Adjunctive
 The overall adverse reaction profile for lamotrigine was similar between females and males and was independent of age.
 Because the largest non-Caucasian racial subgroup was only 6% of patients exposed to lamotrigine in placebo-controlled trials, there are insufficient data to support a statement regarding the distribution of adverse reaction reports by race.
 Generally, females receiving either lamotrigine as adjunctive therapy or placebo were more likely to report adverse reactions than males.
-The only adverse reaction for which the reports on lamotrigine were > 10% more frequent in females than males (without a corresponding difference by gender on placebo) was dizziness (difference = 16.5%).
+The only adverse reaction for which the reports on lamotrigine were >10% more frequent in females than males (without a corresponding difference by gender on placebo) was dizziness (difference = 16.5%).
 There was little difference between females and males in the rates of discontinuation of lamotrigine for individual adverse reactions.
 
 Controlled Monotherapy Trial in Adults with Partial-Onset Seizures: Table 10 lists adverse reactions that occurred in patients with epilepsy treated with monotherapy with lamotrigine in a double-blind trial following discontinuation of either concomitant carbamazepine or phenytoin not seen at an equivalent frequency in the control group.
@@ -345,3 +345,4 @@ Aggression, exacerbation of Parkinsonian symptoms in patients with pre-existing 
 Non-site Specific
 
 Progressive immunosuppression.
+Renal and Urinary Disorders Tubulointerstitial nephritis (has been reported alone and in association with uveitis).

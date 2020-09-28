@@ -107,7 +107,7 @@ Some patients also had new onset of signs and symptoms of involvement of other o
 ## 5.7 Potential Medication Errors
 
 Medication errors involving lamotrigine have occurred.
-In particular, the names lamotrigine can be confused with the names of other commonly used medications.
+In particular, the name lamotrigine can be confused with the names of other commonly used medications.
 Medication errors may also occur between the different formulations of lamotrigine.
 To reduce the potential of medication errors, write and say lamotrigine clearly.
 Depictions of the lamotrigine tablets can be found in the Medication Guide that accompanies the product to highlight the distinctive markings, colors, and shapes that serve to identify the different presentations of the drug and thus may help reduce the risk of medication errors.

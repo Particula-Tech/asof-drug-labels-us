@@ -57,7 +57,7 @@ a The majority of parameter means determined in each study had coefficients of v
 The overall mean values were calculated from individual study means that were weighted based on the number of volunteers/subjects in each study.
 The numbers in parentheses below each parameter mean represent the range of individual volunteer/subject values across studies.
 
-b` Carbamazepine, phenytoin, phenobarbital, and primidone have been shown to increase the apparent clearance of lamotrigine.
+b Carbamazepine, phenytoin, phenobarbital, and primidone have been shown to increase the apparent clearance of lamotrigine.
 Estrogen-containing oral contraceptives and other drugs, such as rifampin and protease inhibitors lopinavir/ritonavir and atazanavir/ritonavir, that induce lamotrigine glucuronidation have also been shown to increase the apparent clearance of lamotrigine [see Drug Interactions (7)].
 
 Absorption

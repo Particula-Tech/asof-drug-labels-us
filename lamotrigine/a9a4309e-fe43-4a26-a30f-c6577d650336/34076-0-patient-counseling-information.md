@@ -22,10 +22,8 @@ Oral Contraceptive Use Instruct women to notify their healthcare providers if th
 Starting estrogen-containing oral contraceptives may significantly decrease lamotrigine plasma levels and stopping estrogen-containing oral contraceptives (including the pill-free week) may significantly increase lamotrigine plasma levels [see Warnings and Precautions (5.8), Clinical Pharmacology (12.3)].
 Also instruct women to promptly notify their healthcare providers if they experience adverse reactions or changes in menstrual pattern (e.g., break-through bleeding) while receiving lamotrigine in combination with these medications.
 Discontinuing Lamotrigine Instruct patients to notify their healthcare providers if they stop taking lamotrigine for any reason and not to resume lamotrigine without consulting their healthcare providers.
-Aseptic Meningitis Inform patients that lamotrigine
-
-may cause aseptic meningitis.
+Aseptic Meningitis Inform patients that lamotrigine may cause aseptic meningitis.
 Instruct them to notify their healthcare providers immediately if they develop signs and symptoms of meningitis such as headache, fever, nausea, vomiting, stiff neck, rash, abnormal sensitivity to light, myalgia, chills, confusion, or drowsiness while taking lamotrigine.
 Potential Medication Errors To avoid a medication error of using the wrong drug or formulation, strongly advise patients to visually inspect their tablets to verify that they are lamotrigine, as well as the correct formulation of lamotrigine, each time they fill their prescription [see Dosage Forms and Strengths (3.1), How Supplied/Storage and Handling (16)].
 Refer the patient to the Medication Guide that provides depictions of the lamotrigine tablets.
-Dispense with Medication Guide available at: www.aurobindousa.com/product-medication-guides Distributed by: Aurobindo Pharma USA, Inc. 279 Princeton-Hightstown Road East Windsor, NJ 08520 Manufactured by: Aurobindo Pharma Limited Hyderabad-500 038, India Revised: 12/2019
+Dispense with Medication Guide available at: www.aurobindousa.com/medication-guides Distributed by: Aurobindo Pharma USA, Inc. 279 Princeton-Hightstown Road East Windsor, NJ 08520 Manufactured by: Aurobindo Pharma Limited Hyderabad-500 038, India Revised: 09/2020
