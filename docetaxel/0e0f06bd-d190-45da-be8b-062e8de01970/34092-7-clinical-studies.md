@@ -118,11 +118,11 @@ The efficacy data for the docetaxel 75 mg/m2 arm and the comparator arms are sum
 |  | Docetaxel | Best | Docetaxel | Control |
 |  | 75 mg/m2 n=55 | Supportive Care n=49 | 75 mg/m2 n=125 | (V/IVinorelbine/Ifosfamide) n=123 |
 | Overall SurvivalLog-rank Test | p=0.01 |  | p=0.13 |  |
-| Risk Ratioa value less than 1.00 favors docetaxel, Mortality (Docetaxel: Control) | 0.56 |  | 0.82 |  |
+| Risk Ratio, Mortality (Docetaxel: Control) | 0.56 |  | 0.82 |  |
 | 95% CI (Risk Ratio) | (0.35, 0.88) |  | (0.63, 1.06) |  |
-| Median Survival | 7.5 monthsp≤0.05; †uncorrected for multiple comparisons | 4.6 months | 5.7 months | 5.6 months |
+| Median Survival | 7.5 monthsa value less than 1.00 favors docetaxel | 4.6 months | 5.7 months | 5.6 months |
 | 95% CI | (5.5, 12.8) | (3.7, 6.1) | (5.1, 7.1) | (4.4, 7.9) |
-| % 1-year Survival | 37% | 12% | 30% | 20% |
+| % 1-year Survival | 37%uncorrected for multiple comparisons | 12% | 30% | 20% |
 | 95% CI | (24, 50) | (2, 23) | (22, 39) | (13, 27) |
 | Time to Progression | 12.3 weeks | 7.0 weeks | 8.3 weeks | 7.6 weeks |
 | 95% CI | (9.0, 18.3) | (6.0, 9.3) | (7.0,11.7) | (6.7, 10.1) |

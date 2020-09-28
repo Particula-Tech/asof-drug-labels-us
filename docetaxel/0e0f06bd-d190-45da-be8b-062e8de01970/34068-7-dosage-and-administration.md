@@ -8,7 +8,7 @@ Administer in a facility equipped to manage possible complications (e.g., anaphy
 
 - •For locally advanced or metastatic breast cancer after failure of prior chemotherapy, the recommended dose of Docetaxel Injection is 60 mg/m2 to 100 mg/m2 administered intravenously over 1 hour every 3 weeks.
 - •For the adjuvant treatment of operable node-positive breast cancer, the recommended Docetaxel Injection dose is 75 mg/m2 administered 1 hour after doxorubicin 50 mg/m2 and cyclophosphamide 500 mg/m2 every 3 weeks for 6 courses.
-  Prophylactic G-CSF may be used to mitigate the risk of hematological toxicities [see Dosage andAdministration (2.7)].
+  Prophylactic G-CSF may be used to mitigate the risk of hematological toxicities [see Dosage and Administration (2.7)].
 
 ## 2.2 Non-Small Cell Lung Cancer
 
@@ -65,10 +65,10 @@ Combination Therapy with Docetaxel Injection in the Adjuvant Treatment of Breast
 
 Docetaxel Injection in combination with doxorubicin and cyclophosphamide should be administered when the neutrophil count is ≥1,500 cells/mm3.
 Patients who experience febrile neutropenia should receive G-CSF in all subsequent cycles.
-Patients who continue to experience this reaction should remain on G-CSF and have their Docetaxel Injection dose reduced to 60 mg/ m2.
-Patients who experience grade 3 or 4 stomatitis should have their Docetaxel Injection dose decreased to 60 mg/ m2.
+Patients who continue to experience this reaction should remain on G-CSF and have their Docetaxel Injection dose reduced to 60 mg/m2.
+Patients who experience grade 3 or 4 stomatitis should have their Docetaxel Injection dose decreased to 60 mg/m2.
 Patients who experience severe or cumulative cutaneous reactions or moderate neurosensory signs and/or symptoms during Docetaxel Injection therapy should have their dosage of Docetaxel Injection reduced from 75 mg/m2 to 60 mg/m2.
-If the patient continues to experience these reactions at 60 mg/ m2, treatment should be discontinued.
+If the patient continues to experience these reactions at 60 mg/m2, treatment should be discontinued.
 
 Non-Small Cell Lung Cancer
 
@@ -100,8 +100,7 @@ In both studies, G-CSF was recommended during the second and/or subsequent cycle
 If an episode of febrile neutropenia, prolonged neutropenia or neutropenic infection occurs despite G-CSF use, the Docetaxel Injection dose should be reduced from 75 mg/m2 to 60 mg/m2.
 If subsequent episodes of complicated neutropenia occur the Docetaxel Injection dose should be reduced from 60 mg/m2 to 45 mg/m2.
 In case of grade 4 thrombocytopenia the Docetaxel Injection dose should be reduced from 75 mg/m2 to 60 mg/m2.
-Do not retreat patients with subsequent cycles of Docetaxel Injection until neutrophils recover to a level >1,500 cells/mm3[see Contraindications (4)].
-Avoid retreating patients until platelets recover to a level >100,000 cells/mm3.
+Patients should not be retreated with subsequent cycles of Docetaxel Injection until neutrophils recover to a level >1,500 cells/mm3[see Contraindications (4)] and platelets recover to a level >100,000 cells/mm3.
 Discontinue treatment if these toxicities persist [see Warnings and Precautions (5.3)].
 
 Recommended dose modifications for toxicities in patients treated with Docetaxel Injection in combination with cisplatin and fluorouracil are shown in Table 1.
@@ -156,7 +155,7 @@ For other greater than grade 3 toxicities, except alopecia and anemia, chemother
 
 For other fluorouracil dosage adjustments, also refer to the manufacturers’ prescribing information.
 
-Combination Therapy with Strong CYP3A4 Inhibitors:
+Combination Therapy with Strong CYP3A4 Inhibitors
 
 Avoid using concomitant strong CYP3A4 inhibitors (e.g., ketoconazole, itraconazole, clarithromycin, atazanavir, indinavir, nefazodone, nelfinavir, ritonavir, saquinavir, telithromycin and voriconazole).
 There are no clinical data with a dose adjustment in patients receiving strong CYP3A4 inhibitors.
