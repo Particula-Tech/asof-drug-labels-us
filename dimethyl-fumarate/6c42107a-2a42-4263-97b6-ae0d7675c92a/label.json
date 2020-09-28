@@ -1,0 +1,26 @@
+{
+  "application_numbers": [
+    "ANDA210305"
+  ],
+  "inn": "dimethyl-fumarate",
+  "labeler": "Cipla USA Inc.",
+  "package_ndcs": [
+    "69097-322-89",
+    "69097-323-03",
+    "69097-552-03"
+  ],
+  "products": [
+    {
+      "form": "CAPSULE, DELAYED RELEASE",
+      "generic": "dimethyl fumarate",
+      "name": "DIMETHYL FUMARATE"
+    },
+    {
+      "form": "KIT",
+      "generic": "dimethyl fumarate",
+      "name": "DIMETHYL FUMARATE"
+    }
+  ],
+  "setid": "6c42107a-2a42-4263-97b6-ae0d7675c92a",
+  "source": "dailymed"
+}
