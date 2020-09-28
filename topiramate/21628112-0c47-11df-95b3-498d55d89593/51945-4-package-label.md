@@ -6,13 +6,11 @@ TopAMAX® (topiramate) Tablets
 
 25 mg
 
-Rx only 60 tablets
-
 CAUTION: Verify Prescription Before Dispensing
 
 ATTENTION PHARMACIST: Dispense Accompanying Medication Guide to Each Patient
 
-Revised November 2011
+Rx only 60 tablets
 
 janssen
 
@@ -30,8 +28,6 @@ ATTENTION PHARMACIST: Dispense Accompanying Medication Guide to Each Patient
 
 Rx only 60 tablets
 
-Revised November 2011
-
 janssen
 
 # PRINCIPAL DISPLAY PANEL - 100 mg Tablet Bottle Label
@@ -47,8 +43,6 @@ CAUTION: Verify Prescription Before Dispensing
 ATTENTION PHARMACIST: Dispense Accompanying Medication Guide to Each Patient
 
 Rx only 60 tablets
-
-Revised November 2011
 
 janssen
 
@@ -66,8 +60,6 @@ ATTENTION PHARMACIST: Dispense Accompanying Medication Guide to Each Patient
 
 Rx only 60 tablets
 
-Revised November 2011
-
 janssen
 
 # PRINCIPAL DISPLAY PANEL - 15 mg Capsule Bottle Label
@@ -82,8 +74,6 @@ ATTENTION PHARMACIST: Dispense Accompanying Medication Guide to Each Patient
 
 Rx only 60 capsules
 
-Revised November 2011
-
 janssen
 
 # PRINCIPAL DISPLAY PANEL - 25 mg Capsule Bottle Label
@@ -97,7 +87,5 @@ TopAMAX® (topiramate capsules) Sprinkle Capsules
 ATTENTION PHARMACIST: Dispense Accompanying Medication Guide to Each Patient
 
 Rx only 60 capsules
-
-Revised November 2011
 
 janssen
