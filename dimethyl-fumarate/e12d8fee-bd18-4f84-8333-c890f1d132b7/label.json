@@ -1,0 +1,33 @@
+{
+  "application_numbers": [
+    "ANDA210440"
+  ],
+  "inn": "dimethyl-fumarate",
+  "labeler": "Ascend Laboratories, LLC",
+  "package_ndcs": [
+    "67877-555-10",
+    "67877-555-14",
+    "67877-555-33",
+    "67877-555-90",
+    "67877-556-10",
+    "67877-556-33",
+    "67877-556-46",
+    "67877-556-60",
+    "67877-556-90",
+    "67877-557-39"
+  ],
+  "products": [
+    {
+      "form": "KIT",
+      "generic": "dimethyl fumarate",
+      "name": "Dimethyl Fumarate"
+    },
+    {
+      "form": "CAPSULE, DELAYED RELEASE",
+      "generic": "dimethyl fumarate",
+      "name": "Dimethyl fumarate"
+    }
+  ],
+  "setid": "e12d8fee-bd18-4f84-8333-c890f1d132b7",
+  "source": "dailymed"
+}
