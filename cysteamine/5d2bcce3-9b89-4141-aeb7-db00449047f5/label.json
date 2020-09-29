@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "NDA211302"
+  ],
+  "inn": "cysteamine",
+  "labeler": "RECORDATI RARE DISEASES, INC.",
+  "package_ndcs": [
+    "55292-410-05"
+  ],
+  "products": [
+    {
+      "form": "SOLUTION",
+      "generic": "cysteamine hydrochloride",
+      "name": "CYSTADROPS"
+    }
+  ],
+  "setid": "5d2bcce3-9b89-4141-aeb7-db00449047f5",
+  "source": "dailymed"
+}
