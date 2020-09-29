@@ -1,6 +1,6 @@
 PRINCIPAL DISPLAY PANEL - 0.25 mg Bottle Label
 
-60 TABLETS NDC 50458-301-04
+NDC 50458-301-04
 
 RISPERDAL® (risperiDONE) TABLETS
 
@@ -8,11 +8,15 @@ RISPERDAL® (risperiDONE) TABLETS
 
 Each tablet contains: Risperidone 0.25 mg
 
-janssen Rx only
+Keep out of reach of children.
+
+Rx only
+
+60 Tablets
 
 PRINCIPAL DISPLAY PANEL - 0.5 mg Bottle Label
 
-60 TABLETS NDC 50458-302-06
+NDC 50458-302-06
 
 RISPERDAL® (risperiDONE) TABLETS
 
@@ -20,11 +24,15 @@ RISPERDAL® (risperiDONE) TABLETS
 
 Each tablet contains: Risperidone 0.5 mg
 
-janssen Rx only
+Keep out of reach of children.
+
+Rx only
+
+60 Tablets
 
 PRINCIPAL DISPLAY PANEL - 1 mg Bottle Label
 
-60 TABLETS NDC 50458-300-06
+NDC 50458-300-06
 
 RISPERDAL® (risperiDONE) TABLETS
 
@@ -32,11 +40,15 @@ RISPERDAL® (risperiDONE) TABLETS
 
 Each tablet contains: Risperidone 1 mg
 
-janssen
+Keep out of reach of children.
+
+Rx only
+
+60 Tablets
 
 PRINCIPAL DISPLAY PANEL - 2 mg Bottle Label
 
-60 TABLETS NDC 50458-320-06
+NDC 50458-320-06
 
 RISPERDAL® (risperiDONE) TABLETS
 
@@ -44,7 +56,11 @@ RISPERDAL® (risperiDONE) TABLETS
 
 Each tablet contains: Risperidone 2 mg
 
-janssen Rx only
+Keep out of reach of children.
+
+Rx only
+
+60 Tablets
 
 PRINCIPAL DISPLAY PANEL - 3 mg Bottle Label
 
@@ -56,7 +72,11 @@ RISPERDAL® (risperiDONE) TABLETS
 
 Each tablet contains: Risperidone 3 mg
 
-janssen Rx only
+Keep out of reach of children.
+
+Rx only
+
+60 Tablets
 
 PRINCIPAL DISPLAY PANEL - 4 mg Bottle Label
 
@@ -68,7 +88,11 @@ RISPERDAL® (risperiDONE) TABLETS
 
 Each tablet contains: Risperidone 4 mg
 
-janssen Rx only
+Keep out of reach of children.
+
+Rx only
+
+60 Tablets
 
 PRINCIPAL DISPLAY PANEL - 0.5 mg Tablet Carton
 
