@@ -1,7 +1,5 @@
 # 3 DOSAGE FORMS AND STRENGTHS
 
-## 3.1 Tablets
-
 Escitalopram tablets USP are film-coated, round tablets containing escitalopram oxalate in strengths equivalent to 5 mg, 10 mg and 20 mg escitalopram base.
 The 5 mg tablet is non-scored.
 Debossed with "LU" on one side "W21" on the other side.

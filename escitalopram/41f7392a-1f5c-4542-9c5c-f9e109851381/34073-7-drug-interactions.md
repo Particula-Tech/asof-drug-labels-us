@@ -2,16 +2,16 @@
 
 ## 7.1 Monoamine Oxidase Inhibitors (MAOIs)
 
-[See DOSAGE AND ADMINISTRATION (2.5 and 2.6), CONTRAINDICATIONS (4.1) and WARNINGS AND PRECAUTIONS (5.2)].
+[See Dosage and Administration (2.5 and 2.6), CONTRAINDICATIONS (4.1) and Warnings and Precautions (5.2)].
 
 ## 7.2 Serotonergic Drugs
 
-[See DOSAGE AND ADMINISTRATION (2.5 and 2.6), CONTRAINDICATIONS (4.1) and WARNINGS AND PRECAUTIONS (5.2)].
+[See Dosage and Administration (2.5 and 2.6), Contraindications (4.1) and Warnings and Precautions (5.2)].
 
 ## 7.3 Triptans
 
 There have been rare postmarketing reports of serotonin syndrome with use of an SSRI and a triptan.
-If concomitant treatment of escitalopram with a triptan is clinically warranted, careful observation of the patient is advised, particularly during treatment initiation and dose increases [see WARNINGS AND PRECAUTIONS (5.2)].
+If concomitant treatment of escitalopram with a triptan is clinically warranted, careful observation of the patient is advised, particularly during treatment initiation and dose increases [see Warnings and Precautions (5.2)].
 
 ## 7.4 CNS Drugs
 
@@ -21,7 +21,7 @@ Given the primary CNS effects of escitalopram, caution should be used when it is
 
 Although escitalopram did not potentiate the cognitive and motor effects of alcohol in a clinical trial, as with other psychotropic medications, the use of alcohol by patients taking escitalopram is not recommended.
 
-## 7.6 Drugs That Interfere With Hemostasis (NSAIDs, Aspirin, Warfarin, etc.)
+## 7.6 Drugs That Interfere with Hemostasis (NSAIDs, Aspirin, Warfarin, etc.)
 
 Serotonin release by platelets plays an important role in hemostasis.
 Epidemiological studies of the case-control and cohort design that have demonstrated an association between use of psychotropic drugs that interfere with serotonin reuptake and the occurrence of upper gastrointestinal bleeding have also shown that concurrent use of an NSAID or aspirin may potentiate the risk of bleeding.

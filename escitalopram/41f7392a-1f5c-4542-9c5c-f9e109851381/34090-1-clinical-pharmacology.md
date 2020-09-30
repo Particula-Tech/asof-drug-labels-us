@@ -59,7 +59,7 @@ Elderly
 
 Escitalopram pharmacokinetics in subjects 65 years of age were compared to younger subjects in a single-dose and a multiple-dose study.
 Escitalopram AUC and half-life were increased by approximately 50% in elderly subjects, and Cmax was unchanged.
-10 mg is the recommended dose for elderly patients [see DOSAGE AND ADMINISTRATION (2.3)].
+10 mg is the recommended dose for elderly patients [see Dosage and Administration (2.3)].
 
 Gender
 
@@ -68,7 +68,7 @@ Based on data from single- and multiple-dose studies measuring escitalopram in e
 Reduced hepatic function
 
 Citalopram oral clearance was reduced by 37% and half-life was doubled in patients with reduced hepatic function compared to normal subjects.
-10 mg is the recommended dose of escitalopram for most hepatically impaired patients [see DOSAGE AND ADMINISTRATION (2.3)].
+10 mg is the recommended dose of escitalopram for most hepatically impaired patients [see Dosage and Administration (2.3)].
 
 Reduced renal function
 
@@ -81,4 +81,4 @@ Drug-Drug Interactions
 In vitro enzyme inhibition data did not reveal an inhibitory effect of escitalopram on CYP3A4, -1A2, -2C9, -2C19, and -2E1.
 Based on in vitro data, escitalopram would be expected to have little inhibitory effect on in vivo metabolism mediated by these cytochromes.
 While in vivo data to address this question are limited, results from drug interaction studies suggest that escitalopram, at a dose of 20 mg, has no 3A4 inhibitory effect and a modest 2D6 inhibitory effect.
-See DRUG INTERACTIONS (7.18) for more detailed information on available drug interaction data.
+See Drug Interactions (7.18) for more detailed information on available drug interaction data.

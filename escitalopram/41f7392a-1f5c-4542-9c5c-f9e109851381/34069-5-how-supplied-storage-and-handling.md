@@ -1,7 +1,5 @@
 # 16 HOW SUPPLIED/STORAGE AND HANDLING
 
-## 16.1 Tablets
-
 Each film coated round tablet contains escitalopram oxalate equivalent to the labeled amount of escitalopram as follows
 
 5 mg Tablets: White to off-white, round, film coated tablets, debossed with "LU" on one side and "W21" on the other side
