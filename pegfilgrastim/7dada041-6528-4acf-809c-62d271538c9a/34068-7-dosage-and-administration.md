@@ -11,7 +11,7 @@ Do not administer ZIEXTENZO between 14 days before and 24 hours after administra
 ZIEXTENZO is administered subcutaneously via a single-dose prefilled syringe for manual use.
 
 Prior to use‚ remove the carton from the refrigerator and allow the ZIEXTENZO prefilled syringe to reach room temperature for a minimum of 15-30 minutes.
-Discard any prefilled syringe left at room temperature for greater than 72 hours.
+Discard any prefilled syringe left at room temperature for greater than 120 hours.
 
 Parenteral drug products should be inspected visually for particulate matter and discoloration prior to administration, whenever solution and container permit.
 ZIEXTENZO is supplied as a clear and colorless to slightly yellowish solution.

@@ -13,6 +13,6 @@ Use of the prefilled syringe is not recommended for direct administration for pe
 
 Store refrigerated between 36°F to 46°F (2°C to 8°C) in the carton to protect from light.
 Do not shake.
-Discard syringes stored at room temperature for more than 72 hours.
+Discard syringes stored at room temperature for more than 120 hours.
 Avoid freezing; if frozen, thaw in the refrigerator before administration.
 Discard syringe if frozen more than once.

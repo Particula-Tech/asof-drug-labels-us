@@ -1,6 +1,6 @@
 # 6 ADVERSE REACTIONS
 
-The following serious adverse reactions are discussed in greater detail in other sections of the labeling:
+The following clinically significant adverse reactions are discussed in greater detail in other sections of the labeling:
 
 - •Splenic Rupture [see Warnings and Precautions (5.1)]
 - •Acute Respiratory Distress Syndrome [see Warnings and Precautions (5.2)]

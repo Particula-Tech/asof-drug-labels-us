@@ -35,7 +35,7 @@ Storing the ZIEXTENZO prefilled syringe
   If ZIEXTENZO is accidentally frozen, thaw in the refrigerator before injecting.
 - •Do not use a ZIEXTENZO prefilled syringe that has been frozen more than 1 time.
   Use a new ZIEXTENZO prefilled syringe.
-- •Throw away (dispose of) any ZIEXTENZO that has been left at room temperature 68°F to 77°F (20°C to 25°C) for more than 72 hours.
+- •Throw away (dispose of) any ZIEXTENZO that has been left at room temperature 68°F to 95°F (20°C to 35°C) for more than 120 hours.
   See “14.
   Disposing of used prefilled syringes”.Keep ZIEXTENZO and all medicines out of the reach of children.
 
@@ -147,4 +147,4 @@ Manufactured by: Sandoz Inc. Princeton, NJ 08540
 
 US License No. 2003 Product of Slovenia.
 
-Issued: November/2019
+Revised: September 2020
