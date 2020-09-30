@@ -190,7 +190,7 @@ Cimetidine (non-specific CYP450 inhibitor and increases gastric pH)–Cimetidine
 
 Ranitidine (increases gastric pH)–Ranitidine (150 mg every 12 hours) had no significant effect on voriconazole Cmax and AUCτ following oral doses of 200 mg every 12 hours x 7 days to healthy subjects.
 
-Macrolide antibiotics–Co-administration of erythromycin (CYP3A4 inhibitor; 1g every 12 hours for 7 days) or azithromycin (500 mg every 24 hours for 3 days) with voriconazole 200 mg every 12 hours for 14 days had no significant effect on voriconazole steady-state Cmax and AUCτ in healthy subjects.
+Macrolide antibiotics–Co-administration of erythromycin (CYP3A4 inhibitor; 1 gram every 12 hours for 7 days) or azithromycin (500 mg every 24 hours for 3 days) with voriconazole 200 mg every 12 hours for 14 days had no significant effect on voriconazole steady-state Cmax and AUCτ in healthy subjects.
 The effects of voriconazole on the pharmacokinetics of either erythromycin or azithromycin are not known.
 
 Effects of Voriconazole on Other Drugs
@@ -246,7 +246,7 @@ Dose reduction of methadone may be needed [see Warnings and Precautions (5.12)].
 Tacrolimus (CYP3A4 substrate)–Repeat oral dose administration of voriconazole (400 mg every 12 hours x 1 day, then 200 mg every 12 hours x 6 days) increased tacrolimus (0.1 mg/kg single dose) Cmax and AUCτ in healthy subjects by an average of 2-fold (90% CI: 1.9, 2.5) and 3-fold (90% CI: 2.7, 3.8), respectively.
 When initiating therapy with voriconazole in patients already receiving tacrolimus, it is recommended that the tacrolimus dose be reduced to one-third of the original dose and followed with frequent monitoring of the tacrolimus blood levels.
 Increased tacrolimus levels have been associated with nephrotoxicity.
-When voriconazole is discontinued, tacrolimus levels should be carefully monitored and the dose increased as necessary [see Warnings and Precautions (5.12)].
+When voriconazole is discontinued, tacrolimus levels should be carefully monitored and the dose increased as necessary[see Warnings and Precautions (5.12)].
 
 Warfarin (CYP2C9 substrate)–Co-administration of voriconazole (300 mg every 12 hours x 12 days) with warfarin (30 mg single dose) significantly increased maximum prothrombin time by approximately 2 times that of placebo in healthy subjects.
 Close monitoring of prothrombin time or other suitable anticoagulation tests is recommended if warfarin and voriconazole are co-administered and the warfarin dose adjusted accordingly [see Warnings and Precautions (5.12)].
