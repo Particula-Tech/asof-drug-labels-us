@@ -1,0 +1,20 @@
+{
+  "application_numbers": [
+    "ANDA213186"
+  ],
+  "inn": "ramelteon",
+  "labeler": "Granules Pharmaceuticals Inc.",
+  "package_ndcs": [
+    "70010-028-03",
+    "70010-028-05"
+  ],
+  "products": [
+    {
+      "form": "TABLET",
+      "generic": "ramelteon",
+      "name": "Ramelteon"
+    }
+  ],
+  "setid": "a0a57843-81cb-474d-8e90-e04bbe93216a",
+  "source": "dailymed"
+}
