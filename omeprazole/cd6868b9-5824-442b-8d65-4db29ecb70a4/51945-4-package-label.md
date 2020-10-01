@@ -58,7 +58,7 @@ NDC 68012-102-30
 
 Zegerid®
 
-omeprazole/sodium bicarbonate
+(omeprazole/sodium bicarbonate)
 
 Capsules
 
@@ -66,16 +66,26 @@ Capsules
 
 20mg/1100mg
 
+PHARMACIST: Dispense the enclosed
+
+Medication Guide to each patient.
+
 # Package/Label Display Panel – 40 mg capsules
 
 NDC 68012-104-30
 
 Rx only
 
-Zegerid®omeprazole/sodium bicarbonate
+Zegerid®
+
+(omeprazole/sodium bicarbonate)
 
 Capsules
 
 30 Capsules
 
 40mg/1100mg
+
+PHARMACIST: Dispense the enclosed
+
+Medication Guide to each patient.

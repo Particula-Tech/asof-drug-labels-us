@@ -126,12 +126,12 @@ ZEGERID can cause serious side effects, including:
 - •Stomach growths (fundic gland polyps).
   People who take PPI medicines for a long time have an increased risk of developing a certain type of stomach growths called fundic gland polyps, especially after taking PPI medicines for more than 1 year.
   The most common side effects of ZEGERID include:
-- oheadache
-- oabdominal pain
-- onausea
-- odiarrhea
-- ovomiting
-- ogas
+- •headache
+- •abdominal pain
+- •nausea
+- •diarrhea
+- •vomiting
+- •gas
 
 These are not all the possible side effects of ZEGERID.
 
