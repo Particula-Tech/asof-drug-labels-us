@@ -9,7 +9,7 @@ The exact mechanism by which teriflunomide exerts its therapeutic effect in mult
 
 Potential to Prolong the QT Interval
 
-In a placebo controlled thorough QT study performed in healthy subjects, there was no evidence that teriflunomide caused QT interval prolongation of clinical significance (i.e., the upper bound of the 90% confidence interval for the largest placebo-adjusted, baseline-corrected QTc was below 10 ms).
+In a placebo-controlled thorough QT study performed in healthy subjects, there was no evidence that teriflunomide caused QT interval prolongation of clinical significance (i.e., the upper bound of the 90% confidence interval for the largest placebo-adjusted, baseline-corrected QTc was below 10 ms).
 
 ## 12.3 Pharmacokinetics
 

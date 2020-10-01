@@ -13,7 +13,7 @@ The following serious adverse reactions are described elsewhere in the prescribi
 
 Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in clinical practice.
 
-A total of 2047 patients receiving AUBAGIO (7 mg or 14 mg once daily) constituted the safety population in the pooled analysis of placebo controlled studies in patients with relapsing forms of multiple sclerosis; of these, 71% were female.
+A total of 2047 patients receiving AUBAGIO (7 mg or 14 mg once daily) constituted the safety population in the pooled analysis of placebo-controlled studies in patients with relapsing forms of multiple sclerosis; of these, 71% were female.
 The average age was 37 years.
 
 Table 1 lists adverse reactions in placebo-controlled trials with rates that were at least 2% for AUBAGIO patients and also at least 2% above the rate in placebo patients.

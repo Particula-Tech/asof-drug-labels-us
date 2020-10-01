@@ -4,9 +4,9 @@ Four randomized, controlled, double-blind clinical trials established the effica
 
 Study 1 was a double-blind, placebo-controlled clinical trial that evaluated once daily doses of AUBAGIO 7 mg and AUBAGIO 14 mg for up to 26 months in patients with relapsing forms of multiple sclerosis.
 Patients were required to have a diagnosis of multiple sclerosis exhibiting a relapsing clinical course, with or without progression, and to have experienced at least one relapse over the year preceding the trial or at least two relapses over the two years preceding the trial.
-Patients were required not to have received interferon-beta for at least four months, or any other multiple sclerosis medication for at least six months before entering the study, nor were these medications permitted during the study.
+Patients were required not to have received interferon beta for at least four months, or any other multiple sclerosis medication for at least six months before entering the study, nor were these medications permitted during the study.
 Neurological evaluations were to be performed at screening, every 12 weeks until week 108, and after suspected relapses.
-MRI was to be performed at screening, and at Week 24, 48, 72, and 108.
+MRI was to be performed at screening, and at week 24, 48, 72, and 108.
 The primary endpoint was the annualized relapse rate (ARR).
 
 In Study 1, 1088 patients were randomized to receive AUBAGIO 7 mg (n=366), AUBAGIO 14 mg (n=359), or placebo (n=363).
@@ -37,7 +37,7 @@ Table 2: Clinical and MRI Results of Study 1
 | Hazard ratio | 0.76 | 0.70 |  |
 | MRI Endpoints |  |  |  |
 | Median change from baseline in Total lesion volumeTotal lesion volume: sum of T2 and hypointense T1 lesion volume in mL (mL) at week 108 | 0.755 (p=0.0317)p-values based on cubic root transformed data for total lesion volume | 0.345 (p=0.0003) | 1.127 |
-| Mean number of Gd-enhancing T1-lesions per scan | 0.570 (p <0.0001) | 0.261 (p <0.0001) | 1.331 |
+| Mean number of Gd-enhancing T1-lesions per scan | 0.570 (p<0.0001) | 0.261 (p<0.0001) | 1.331 |
 
 | Figure 1: Kaplan-Meier Plot of Time to Disability Progression Sustained for 12 Weeks (Study 1) |
 | --- |
@@ -57,7 +57,7 @@ The percentage of patients who completed the study treatment period was 67%, 66%
 There was a statistically significant reduction in the ARR for patients who received AUBAGIO 7 mg or AUBAGIO 14 mg compared to patients who received placebo (see Table 3).
 There was a consistent reduction of the ARR noted in subgroups defined by sex, age group, prior multiple sclerosis therapy, and baseline disease activity.
 
-There was a statistically significant reduction in the relative risk of disability progression at week 108 sustained for 12 weeks (as measured by at least a 1-point increase from baseline EDSS ≤5.5 or a 0.5 point increase for those with a baseline EDSS >5.5) in the AUBAGIO 14 mg group compared to placebo (See Table 3 and Figure 2).
+There was a statistically significant reduction in the relative risk of disability progression at week 108 sustained for 12 weeks (as measured by at least a 1-point increase from baseline EDSS ≤5.5 or a 0.5 point increase for those with a baseline EDSS >5.5) in the AUBAGIO 14 mg group compared to placebo (see Table 3 and Figure 2).
 
 Table 3: Clinical Results of Study 2
 
@@ -77,7 +77,7 @@ Study 3 was a double-blind, placebo-controlled clinical trial that evaluated onc
 Patients were required to have had a first clinical event consistent with acute demyelination occurring within 90 days of randomization with 2 or more T2 lesions at least 3 mm in diameter that were characteristic of multiple sclerosis.
 A total of 614 patients received AUBAGIO 7 mg (n=203), AUBAGIO 14 mg (n=214), or placebo (n=197).
 Patients had a mean age of 32 years, EDSS at baseline of 1.7, and mean disease duration of two months.
-The proportion of patients free of relapse was greater in the AUBAGIO 7 mg (70.5%, p <0.05) and AUBAGIO 14 mg (72.2%, p <0.05) groups than in the placebo group (61.7%).
+The proportion of patients free of relapse was greater in the AUBAGIO 7 mg (70.5%, p<0.05) and AUBAGIO 14 mg (72.2%, p<0.05) groups than in the placebo group (61.7%).
 
 The effect of AUBAGIO on MRI activity was also demonstrated in Study 4, a randomized, double-blind, placebo-controlled clinical trial of multiple sclerosis patients with relapse.
 In Study 4, MRI was to be performed at baseline, 6 weeks, 12 weeks, 18 weeks, 24 weeks, 30 weeks, and 36 weeks after treatment initiation.
