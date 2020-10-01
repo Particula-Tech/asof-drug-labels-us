@@ -1,0 +1,26 @@
+{
+  "application_numbers": [
+    "ANDA210402"
+  ],
+  "inn": "dimethyl-fumarate",
+  "labeler": "Amneal Pharmaceuticals NY LLC",
+  "package_ndcs": [
+    "69238-1318-4",
+    "69238-1319-6",
+    "69238-1626-3"
+  ],
+  "products": [
+    {
+      "form": "KIT",
+      "generic": "dimethyl fumarate",
+      "name": "DIMETHYL FUMARATE"
+    },
+    {
+      "form": "CAPSULE, DELAYED RELEASE",
+      "generic": "dimethyl fumarate",
+      "name": "Dimethyl Fumarate"
+    }
+  ],
+  "setid": "4c7626c6-2b1b-4865-818c-0c79c18c049d",
+  "source": "dailymed"
+}
