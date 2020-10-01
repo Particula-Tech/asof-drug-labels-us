@@ -1,0 +1,29 @@
+{
+  "application_numbers": [
+    "ANDA210500"
+  ],
+  "inn": "dimethyl-fumarate",
+  "labeler": "Camber Pharmaceuticals, Inc.",
+  "package_ndcs": [
+    "31722-657-31",
+    "31722-657-32",
+    "31722-658-31",
+    "31722-658-32",
+    "31722-658-33",
+    "31722-680-60"
+  ],
+  "products": [
+    {
+      "form": "CAPSULE, DELAYED RELEASE",
+      "generic": "dimethyl fumarate",
+      "name": "Dimethyl Fumarate"
+    },
+    {
+      "form": "KIT",
+      "generic": "dimethyl fumarate",
+      "name": "Dimethyl Fumarate"
+    }
+  ],
+  "setid": "b856ac70-71cd-477b-95b1-0a6132c260e8",
+  "source": "dailymed"
+}
