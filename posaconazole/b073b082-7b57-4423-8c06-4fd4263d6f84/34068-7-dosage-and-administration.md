@@ -43,9 +43,9 @@ Preparation:
 - Equilibrate the refrigerated vial of Noxafil (posaconazole) injection to room temperature.
 - To prepare the required dose, aseptically transfer one vial (16.7 mL) of Noxafil injection (containing 300 mg of posaconazole in solution) to an intravenous bag (or bottle) of a compatible admixture diluent (as described in Table 2), to achieve a final concentration of posaconazole that is between 1 mg/mL and 2 mg/mL.
   Use of other diluents is not recommended because they may result in particulate formation.
-- Noxafil injection is a single dose sterile solution without preservatives.
-  Discard any unused portion.
-- Once admixed, the product should be used immediately.
+- Noxafil injection is a single-dose sterile solution without preservatives.
+  Discard any unused portion from the vial.
+- Once admixed, the diluted solution of Noxafil in the intravenous bag (or bottle) should be used immediately.
   If not used immediately, the solution can be stored up to 24 hours refrigerated 2-8°C (36-46°F).
 - Parenteral drug products should be inspected visually for particulate matter prior to administration, whenever solution and container permit.
   Once admixed, the solution of Noxafil ranges from colorless to yellow.
