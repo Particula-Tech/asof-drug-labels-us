@@ -1,0 +1,20 @@
+{
+  "application_numbers": [
+    "NDA213690"
+  ],
+  "inn": "minocycline",
+  "labeler": "Foamix Pharmaceuticals Inc.",
+  "package_ndcs": [
+    "72356-103-03",
+    "72356-103-90"
+  ],
+  "products": [
+    {
+      "form": "AEROSOL, FOAM",
+      "generic": "minocycline",
+      "name": "ZILXI"
+    }
+  ],
+  "setid": "116f9ade-1bdc-4162-98d8-d3a0c592f419",
+  "source": "dailymed"
+}
