@@ -39,3 +39,23 @@ Enalapril Maleate Tablets USP
 100 Tablets
 
 Rx only
+
+NDC 23155-772-01
+
+Enalapril Maleate Tablets USP
+
+10 mg
+
+100 Tablets
+
+Rx only
+
+NDC 23155-773-01
+
+Enalapril Maleate Tablets USP
+
+20 mg
+
+100 Tablets
+
+Rx only

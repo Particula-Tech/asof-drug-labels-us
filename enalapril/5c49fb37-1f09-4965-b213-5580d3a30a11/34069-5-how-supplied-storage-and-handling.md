@@ -16,23 +16,23 @@ NDC 23155-705-01 bottles of 100 (with desiccant)
 
 NDC 23155-705-10 bottles of 1000 (with desiccant)
 
-Enalapril maleate tablets USP, 10 mg are available as salmon, oval, convex tablets debossed "706" on one side and plain on the other side.
+Enalapril maleate tablets USP, 10 mg are available as salmon, oval, convex tablets debossed "706" on one side and bisect on the other side.
 
 They are supplied as follows:
 
-NDC 23155-706-01 bottles of 100 (with desiccant)
+NDC 23155-772-01 bottles of 100 (with desiccant)
 
-NDC 23155-706-10 bottles of 1000 (with desiccant)
+NDC 23155-772-10 bottles of 1000 (with desiccant)
 
-Enalapril maleate tablets USP, 20 mg are available as peach, oval, convex tablets debossed "707" on one side and plain on the other side.
+Enalapril maleate tablets USP, 20 mg are available as peach, oval, convex tablets debossed "707" on one side and bisect on the other side.
 
 They are supplied as follows:
 
-NDC 23155-707-01 bottles of 100 (with desiccant)
+NDC 23155-773-01 bottles of 100 (with desiccant)
 
-NDC 23155-707-05 bottles of 500 (with desiccant)
+NDC 23155-773-05 bottles of 500 (with desiccant)
 
-NDC 23155-701-10 bottles of 1000 (with desiccant)
+NDC 23155-773-10 bottles of 1000 (with desiccant)
 
 Storage
 
@@ -53,6 +53,6 @@ East Brunswick, NJ 08816
 
 1.866.901.DRUG (3784)
 
-51U000000348US02
+51U000000368US01
 
-Revised: 03/2020
+Revised: 06/2020
