@@ -45,7 +45,7 @@ Adverse Reaction Incidence in Two 12-Week Pediatric Clinical Trials in Subjects 
 
 | Adverse Event | Percent of Subjects |  |  |
 | --- | --- | --- | --- |
-| SEREVENT DISKUS50 mcgTwice Daily(n = 211) | AlbuterolInhalation Aerosol200 mcg4 Times Daily(n = 115) | Placebo(n = 215) |  |
+| SEREVENT DISKUS50 mcgTwice Daily(n = 211) | Albuterol Inhalation Aerosol200 mcg4 Times Daily(n = 115) | Placebo(n = 215) |  |
 | Ear, nose, and throat |  |  |  |
 | Ear signs and symptoms | 4 | 9 | 3 |
 | Pharyngitis | 6 | 3 | 3 |

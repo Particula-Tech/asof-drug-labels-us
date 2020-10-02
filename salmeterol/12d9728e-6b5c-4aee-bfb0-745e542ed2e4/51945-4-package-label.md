@@ -18,14 +18,16 @@ See prescribing information for dosing information.
 
 Rx only
 
+gsk
+
 1 DISKUS Inhalation Device Containing 1 Foil Strip of 60 Blisters
 
 Made in Singapore
 
-©2019 GSK group of companies or its licensor.
+©2020 GSK group of companies or its licensor.
 
-1. 62000000035029 Rev.
-   2/19
+1. 62000000049404 Rev.
+   4/20
 
 PRINCIPAL DISPLAY PANEL
 
@@ -49,11 +51,13 @@ See prescribing information for dosing information.
 
 Rx only
 
+gsk
+
 1 DISKUS Inhalation Device Containing 1 Foil Strip of 28 Blisters
 
 Made in Singapore
 
-©2019 GSK group of companies or its licensor.
+©2020 GSK group of companies or its licensor.
 
-1. 62000000035014 Rev.
-   2/19
+1. 62000000049400 Rev.
+   4/20
