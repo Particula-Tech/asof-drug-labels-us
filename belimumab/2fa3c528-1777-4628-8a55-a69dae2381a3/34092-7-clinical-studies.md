@@ -1,6 +1,6 @@
 # 14 CLINICAL STUDIES
 
-## 14.1 Clinical Trials Experience with Intravenous Administration
+## 14.1 Clinical Trials with Intravenous Administration
 
 The safety and effectiveness of BENLYSTA administered intravenously plus standard therapy were evaluated in 4 randomized, double‑blind, placebo‑controlled trials involving 2,581 adult patients (Trial 1, NCT #00071487, Trial 2, NCT #00410384, Trial 3, NCT #00424476, and Trial 4 NCT #01632241), and one trial involving 93 pediatric patients (Trial 5, NCT #01649765) with SLE according to the American College of Rheumatology criteria.
 Patients with severe active lupus nephritis and severe active CNS lupus were excluded.
@@ -65,12 +65,12 @@ Clinical Response Rate in Patients with SLE after 52 Weeks of Treatment
 
 The reduction in disease activity seen in the SRI-4 was related primarily to improvement in the most commonly involved organ systems; namely, mucocutaneous, musculoskeletal, and immune.
 
-Effect in Black/African-American Patients: In Trials 2 and 3, exploratory sub-group analyses of SRI-4 response rate in black patients (n = 148) were performed.
-The SRI-4 response rate in black patients in groups receiving BENLYSTA plus standard therapy was less than that in the group receiving placebo plus standard therapy (22/50 or 44% for placebo, 15/48 or 31% for BENLYSTA 1 mg/kg, and 18/50 or 36% for BENLYSTA 10 mg/kg).
+Effect in Black/African-American Patients: In Trials 2 and 3, exploratory sub-group analyses of SRI-4 response rate in Black patients (n = 148) were performed.
+The SRI-4 response rate in Black patients in groups receiving BENLYSTA plus standard therapy was less than that in the group receiving placebo plus standard therapy (22/50 or 44% for placebo, 15/48 or 31% for BENLYSTA 1 mg/kg, and 18/50 or 36% for BENLYSTA 10 mg/kg).
 
-Trial 4 was a 2:1 randomized, placebo-controlled trial in black patients (N = 448) conducted in North America, South America, Europe, and Africa (same study design as Trials 2 and 3 with exceptions of patients having a baseline SELENA-SLEDAI score of >8 and using the modified SLEDAI-2K scoring for proteinuria).
+Trial 4 was a 2:1 randomized, placebo-controlled trial in Black patients (N = 448) conducted in North America, South America, Europe, and Africa (same study design as Trials 2 and 3 with exceptions of patients having a baseline SELENA-SLEDAI score of >8 and using the modified SLEDAI-2K scoring for proteinuria).
 The population had a mean age of 39 years (range: 18 to 71) and 97% were female.
-The proportion of black patients achieving an SRI-S2K response at Week 52 (primary endpoint), and the individual components of the endpoint, were higher in the group receiving BENLYSTA 10 mg/kg plus standard therapy relative to the group receiving placebo plus standard therapy.
+The proportion of Black patients achieving an SRI-S2K response at Week 52 (primary endpoint), and the individual components of the endpoint, were higher in the group receiving BENLYSTA 10 mg/kg plus standard therapy relative to the group receiving placebo plus standard therapy.
 However, the treatment difference was not statistically significant (Table 5).
 
 Table 5.
@@ -138,7 +138,7 @@ The proportion of pediatric patients reporting at least one severe flare during 
 Pediatric patients receiving BENLYSTA 10 mg/kg plus standard therapy had a 62% lower risk of experiencing a severe flare during the 52 weeks of observation, relative to the placebo plus standard therapy group.
 Of the pediatric patients experiencing a severe flare, the median time to the first severe flare was 160 days in pediatric patients receiving BENLYSTA plus standard therapy compared with 82 days in pediatric patients receiving placebo plus standard therapy.
 
-## 14.2 Clinical Trials Experience with Subcutaneous Administration in Adults
+## 14.2 Clinical Trials with Subcutaneous Administration in Adults
 
 The safety and effectiveness of BENLYSTA administered subcutaneously were evaluated in a randomized, double‑blind, placebo‑controlled trial involving 836 adult patients with SLE according to the American College of Rheumatology criteria (Trial 6, NCT #01484496).
 Patients with severe active lupus nephritis and severe active CNS lupus were excluded.
@@ -156,7 +156,7 @@ Most patients (approximately 80%) were receiving 2 or more classes of SLE medica
 More than 50% of patients had 3 or more active organ systems involved at baseline.
 The most common active organ systems at baseline based on SELENA-SLEDAI were mucocutaneous (88%), musculoskeletal (78%), and immunologic (76%).
 Overall, 12% of patients had some degree of renal activity and less than 15% of patients had activity in the vascular, cardio-respiratory, or CNS systems.
-Patients were stratified by disease severity based on their SELENA-SLEDAI score (≤9 vs. ≥10), complement level (C3 and/or C4 low vs. other), and race (black vs. other), and then randomly assigned to receive BENLYSTA 200 mg plus standard therapy or placebo once weekly plus standard therapy.
+Patients were stratified by disease severity based on their SELENA-SLEDAI score (≤9 vs. ≥10), complement level (C3 and/or C4 low vs. other), and race (Black vs. other), and then randomly assigned to receive BENLYSTA 200 mg plus standard therapy or placebo once weekly plus standard therapy.
 
 The primary efficacy endpoint was the SLE Responder Index-4 (SRI-4) at Week 52 as described in the intravenous trials.
 Secondary efficacy endpoints included time to first severe flare (as measured by the modified SELENA-SLEDAI SLE Flare Index) and the proportion of patients receiving prednisone >7.5 mg/day at baseline whose average prednisone dose had been reduced by ≥25% to ≤7.5 mg/day during Weeks 40 through 52.
@@ -186,8 +186,8 @@ Proportion (%) of SRI-4 Responders (+/- Standard Error) by Visita
 
 a The same patients may not have responded at each timepoint.
 
-Effect in Black/African-American Patients: Exploratory sub-group analyses of SRI-4 response rate in black patients (n = 91) were performed.
-The SRI-4 response rate in black patients receiving BENLYSTA plus standard therapy was 45% (26/58) compared with 39% (13/33) in the group receiving placebo plus standard therapy [see Use in Specific Populations (8.8)].
+Effect in Black/African-American Patients: Exploratory sub-group analyses of SRI-4 response rate in Black patients (n = 91) were performed.
+The SRI-4 response rate in Black patients receiving BENLYSTA plus standard therapy was 45% (26/58) compared with 39% (13/33) in the group receiving placebo plus standard therapy [see Use in Specific Populations (8.8)].
 
 Effect on Concomitant Steroid Treatment: At baseline, 60% of patients were receiving prednisone at doses >7.5 mg/day.
 Among these patients, 18% of patients receiving BENLYSTA plus standard therapy reduced their average prednisone dose by at least 25% to ≤7.5 mg/day during Weeks 40 through 52 compared with 12% of patients on placebo plus standard therapy; this difference was not statistically significant (OR = 1.65 [95% CI: 0.95, 2.84]).

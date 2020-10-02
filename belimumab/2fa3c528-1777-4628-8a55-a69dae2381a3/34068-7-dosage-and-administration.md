@@ -13,11 +13,11 @@ Do not administer as an intravenous push or bolus.
 The recommended intravenous dosage regimen is 10 mg/kg at 2‑week intervals for the first 3 doses and at 4‑week intervals thereafter.
 Reconstitute, dilute, and administer as an intravenous infusion over a period of 1 hour.
 The infusion rate may be slowed or interrupted if the patient develops an infusion reaction.
-The infusion must be discontinued immediately if the patient experiences a serious hypersensitivity reaction [see Contraindications (4), Warnings and Precautions (5.3)].
+The infusion must be discontinued immediately if the patient experiences a serious hypersensitivity reaction [see Contraindications (4), Warnings and Precautions (5.2)].
 
 Premedication Recommendations prior to Intravenous Use
 
-Prior to intravenous dosing with BENLYSTA, consider administering premedication for prophylaxis against infusion reactions and hypersensitivity reactions [see Warnings and Precautions (5.3, 5.4), Adverse Reactions (6.1)].
+Prior to intravenous dosing with BENLYSTA, consider administering premedication for prophylaxis against infusion reactions and hypersensitivity reactions [see Warnings and Precautions (5.2, 5.3), Adverse Reactions (6.1)].
 
 Preparation of Intravenous Solutions
 
@@ -60,7 +60,7 @@ Dilution Instructions for Intravenous Use:
 Administration Instructions for Intravenous Use
 
 1. 1.The diluted solution of BENLYSTA should be administered by intravenous infusion over a period of 1 hour.
-2. 2.BENLYSTA should be administered by healthcare providers prepared to manage anaphylaxis [see Warnings and Precautions (5.3)].
+2. 2.BENLYSTA should be administered by healthcare providers prepared to manage anaphylaxis [see Warnings and Precautions (5.2)].
 3. 3.BENLYSTA should not be infused concomitantly in the same intravenous line with other agents.
    No physical or biochemical compatibility studies have been conducted to evaluate the coadministration of BENLYSTA with other agents.
 
@@ -78,7 +78,7 @@ If transitioning from intravenous therapy with BENLYSTA to subcutaneous administ
 Administration Instructions for Subcutaneous Injection
 
 1. 1.It is recommended that the first subcutaneous injection of BENLYSTA should be under the supervision of a healthcare professional.
-   The healthcare provider should provide proper training in subcutaneous technique and education about signs and symptoms of hypersensitivity reactions [see Warning and Precautions (5.3)].
+   The healthcare provider should provide proper training in subcutaneous technique and education about signs and symptoms of hypersensitivity reactions [see Warning and Precautions (5.2)].
    A patient may self-inject or the patient caregiver may administer BENLYSTA subcutaneously after the healthcare provider determines it is appropriate.
 2. 2.Instruct the patient or patient caregiver to follow the directions for administration provided in the Instructions for Use.
 3. 3.Instruct the patient to remove the autoinjector or prefilled syringe from the refrigerator and allow it to sit at room temperature for 30 minutes prior to the subcutaneous injection.

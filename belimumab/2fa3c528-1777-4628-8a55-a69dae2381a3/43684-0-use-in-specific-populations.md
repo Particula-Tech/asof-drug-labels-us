@@ -30,7 +30,7 @@ Passage of maternal autoantibodies across the placenta may result in adverse neo
 
 Fetal/Neonatal Adverse Reactions: Monoclonal antibodies are increasingly transported across the placenta as pregnancy progresses, with the largest amount transferred during the third trimester.
 Risks and benefits should be considered prior to administering live or live-attenuated vaccines to infants exposed to BENLYSTA in utero.
-Monitor an infant of a treated mother for B-cell reduction and other immune dysfunction [see Warnings and Precautions (5.7)].
+Monitor an infant of a treated mother for B-cell reduction and other immune dysfunction [see Warnings and Precautions (5.6)].
 
 Data
 
@@ -89,11 +89,11 @@ No dosage adjustment is recommended in patients with hepatic impairment.
 
 ## 8.8 Racial Groups
 
-In Trial 2 and Trial 3 (intravenous dosing), SLE Responder Index-4 (SRI-4) response rates were lower for black patients receiving BENLYSTA plus standard therapy relative to black patients receiving placebo plus standard therapy [see Clinical Studies (14.1)].
+In Trial 2 and Trial 3 (intravenous dosing), SLE Responder Index-4 (SRI-4) response rates were lower for Black patients receiving BENLYSTA plus standard therapy relative to Black patients receiving placebo plus standard therapy [see Clinical Studies (14.1)].
 
-In Trial 4 (intravenous dosing), a 2:1 randomized, placebo-controlled trial in black patients, SLE Responder Index (SRI-S2K) response rates were higher for black patients receiving BENLYSTA plus standard therapy (49%) relative to black patients receiving placebo plus standard therapy (42%).
+In Trial 4 (intravenous dosing), a 2:1 randomized, placebo-controlled trial in Black patients, SLE Responder Index (SRI-S2K) response rates were higher for Black patients receiving BENLYSTA plus standard therapy (49%) relative to Black patients receiving placebo plus standard therapy (42%).
 However, the treatment difference was not statistically significant [see Clinical Studies (14.1)].
 
-In Trial 6 (subcutaneous dosing), SRI-4 response was 45% (26/58) in black patients receiving BENLYSTA plus standard therapy compared with 39% (13/33) in black patients receiving placebo plus standard therapy [see Clinical Studies (14.2)].
+In Trial 6 (subcutaneous dosing), SRI-4 response was 45% (26/58) in Black patients receiving BENLYSTA plus standard therapy compared with 39% (13/33) in Black patients receiving placebo plus standard therapy [see Clinical Studies (14.2)].
 
-The safety profile of BENLYSTA in black patients was consistent with the known safety profile of BENLYSTA administered in the overall population [see Adverse Reactions (6.1)].
+The safety profile of BENLYSTA in Black patients was consistent with the known safety profile of BENLYSTA administered in the overall population [see Adverse Reactions (6.1)].
