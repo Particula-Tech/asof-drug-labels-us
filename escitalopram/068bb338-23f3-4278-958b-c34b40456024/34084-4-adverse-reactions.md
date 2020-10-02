@@ -262,10 +262,8 @@ Urinary System Disorders - urinary frequency, urinary tract infection.
 
 AdverseReactionsReportedSubsequenttotheMarketingofEscitalopram
 
-The following additional adverse reactions have been identified from spontaneous reports of escitalopram received worldwide.
-These adverse reactions have been chosen for inclusion because of a combination of seriousness, frequency of reporting, or potential causal connection to escitalopram and have not been listed elsewhere in labeling.
-However, because these adverse reactions were reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
-These events include:
+The following adverse reactions have been identified during post-approval use of escitalopram.
+Because these reactions are reported voluntarily from a population of uncertain size, it is always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
 
 Blood and Lymphatic System Disorders: anemia, agranulocytis, aplastic anemia, hemolytic anemia, idiopathic thrombocytopenia purpura, leukopenia, thrombocytopenia.
 

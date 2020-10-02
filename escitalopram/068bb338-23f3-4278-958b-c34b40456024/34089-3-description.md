@@ -8,7 +8,7 @@ The molecular formula is C 20H 21FN 2O • C 2H 2O 4 and the molecular weight is
 
 Escitalopram oxalate, USP occurs as a fine, white to slightly-yellow powder and is freely soluble in methanol and dimethyl sulfoxide (DMSO), soluble in isotonic saline solution, sparingly soluble in water and ethanol, slightly soluble in ethyl acetate, and insoluble in heptane.
 
-Escitalopram oxalate, USP is available as tablets.
+Escitalopram oxalate, USP is available as tablets for oral administration.
 
 Escitalopram tablets, USP are white to off-white, round, biconvex, film-coated tablets containing 6.38 mg, 12.75 mg And 25.55 mg escitalopram oxalate in strengths equivalent to 5 mg, 10 mg, and 20 mg, respectively, of escitalopram base.
 The 10 and 20 mg tablets are scored.

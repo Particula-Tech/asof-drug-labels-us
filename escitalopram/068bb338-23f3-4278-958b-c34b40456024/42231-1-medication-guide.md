@@ -7,14 +7,14 @@ There may be new information.
 This Medication Guide does not take the place of talking to your healthcare provider about your medical condition or treatment.
 Talk with your healthcare provider if there is something you do not understand or want to learn more about.
 
-WhatisthemostimportantinformationIshouldknowaboutescitalopramtablets?
+What is the most important information I should know about escitalopram tablets?
 
 Escitalopram tablets and other antidepressant medicines may cause serious side effects, including:
 
 1.
 Suicidal thoughts or actions:
 
-- Escitalopramtabletsandotherantidepressantmedicinesmayincreasesuicidalthoughtsoractions in some children, teenagers, or young adults within the firstfewmonthsoftreatmentorwhenthedoseischanged.
+- Escitalopram tablets and other antidepressant medicines may increase suicidal thoughts o ractions in some children, teenagers, or young adults within the first few months of treatment or when the dose is changed.
 - Depression or other serious mental illnesses are the most important causes of suicidal thoughts or actions.
 - Watch for these changes and call your healthcare provider right away if you notice:
 - New or sudden changes in mood, behavior, actions, thoughts, or feelings, especially if severe.
@@ -22,7 +22,7 @@ Suicidal thoughts or actions:
 
 Keep all follow-up visits with your healthcare provider and call between visits if you are worried about symptoms.
 
-Callyourhealthcareproviderrightawayifyouhaveanyofthefollowingsymptoms, orcall911ifanemergency, especiallyiftheyarenew, worse, orworryyou:
+Call your healthcare provider right away if you have any of the following symptoms, or call 911 if an emergency, especially if they are new, worse, or worry you:
 
 - attempts to commit suicide
 - acting on dangerous impulses
@@ -35,7 +35,8 @@ Callyourhealthcareproviderrightawayifyouhaveanyofthefollowingsymptoms, orcall911
 - an increase in activity or talking more than what is normal for you
 - other unusual changes in behavior or mood
 
-Callyourhealthcareproviderrightawayifyouhaveanyofthefollowingsymptoms, orcall911ifanemergency.Escitalopramtabletsmaybeassociatedwiththeseserioussideeffects:
+Call your healthcare provider right away if you have any of the following symptoms, or call 911 if an emergency.
+Escitalopram tablets may be associated with these serious side effects:
 
 2.
 Serotonin Syndrome.
@@ -49,20 +50,20 @@ This condition can be life-threatening and may include:
 - muscle rigidity
 
 3.
-Severeallergicreactions:
+Severe allergic reactions:
 
 - trouble breathing
 - swelling of the face, tongue, eyes or mouth
 - rash, itchy welts (hives) or blisters, alone or with fever or joint pain
 
 4.
-Abnormalbleeding: Escitalopram tablets and other antidepressant medicines may increase your risk of bleeding or bruising, especially if you take the blood thinner warfarin (Coumadin ®, Jantoven ®), a non-steroidal antiinflammatory drug (NSAIDs, like ibuprofen or naproxen), or aspirin.
+Abnormal bleeding: Escitalopram tablets and other antidepressant medicines may increase your risk of bleeding or bruising, especially if you take the blood thinner warfarin (Coumadin ®, Jantoven ®), a non-steroidal antiinflammatory drug (NSAIDs, like ibuprofen or naproxen), or aspirin.
 
 5.
-Seizuresorconvulsions
+Seizures or convulsions
 
 6.
-Manicepisodes:
+Manic episodes:
 
 - greatly increased energy
 - severe trouble sleeping
@@ -73,11 +74,10 @@ Manicepisodes:
 - talking more or faster than usual
 
 7.
-Changesinappetiteorweight.
-Children and adolescents should have height and weight monitored during treatment.
+Changes in appetite or weight.Children and adolescents should have height and weight monitored during treatment.
 
 8.
-Lowsalt(sodium)levelsintheblood.
+Low salt (sodium) levels in the blood.
 Elderly people may be at greater risk for this.
 Symptoms may include:
 
@@ -95,14 +95,14 @@ Visual problems
 Only some people are at risk for these problems.
 You may want to undergo an eye examination to see if you are at risk and receive preventative treatment if you are.
 
-Donotstopescitalopramtabletswithoutfirsttalkingtoyourhealthcareprovider.
+Do not stop escitalopram tablets without first talking to your healthcare provider.
 Stopping escitalopram tablets too quickly may cause serious symptoms including:
 
 - anxiety, irritability, high or low mood, feeling restless or changes in sleep habits
 - headache, sweating, nausea, dizziness
 - electric shock-like sensations, shaking, confusion
 
-Whatareescitalopramtablets?
+What are escitalopram tablets?
 
 Escitalopram tablets are a prescription medicine used to treat depression.
 It is important to talk with your healthcare provider about the risks of treating depression and also the risks of not treating it.
@@ -114,7 +114,7 @@ Escitalopram tablets are also used to treat:
 
 Talk to your healthcare provider if you do not think that your condition is getting better with escitalopram tablets treatment.
 
-Whoshouldnottakeescitalopramtablets?
+Who should not take escitalopram tablets?
 
 Do not take escitalopram tablets if you:
 
@@ -125,7 +125,8 @@ Do not take escitalopram tablets if you:
 - Do not take an MAOI within 2 weeks of stopping escitalopram tablets unless directed to do so by your physician
 - Do not start escitalopram tablets if you stopped taking an MAOI in the last 2 weeks unless directed to do so by your physician.
 
-PeoplewhotakeescitalopramtabletscloseintimetoanMAOImayhaveseriousorevenlife-threateningsideeffects.Getmedicalhelprightawayifyouhaveanyofthesesymptoms:
+People who take escitalopram tablets close in time to an MAOI may have serious or even life-threatening side effects.
+Get medical help right away if you have any of these symptoms:
 
 ○ high fever
 
@@ -141,14 +142,15 @@ PeoplewhotakeescitalopramtabletscloseintimetoanMAOImayhaveseriousorevenlife-thre
 
 - Do not take escitalopram tablets with Orap ®(pimozide) because taking these two drugs together can cause serious heart problems.
 
-WhatshouldItellmyhealthcareproviderbeforetakingescitalopramtablets?Askifyouarenotsure.
+What should I tell my healthcare provider before taking escitalopram tablets?
+Ask if you are not sure.
 
 Before starting escitalopram tablets, tell your healthcare provider if you:
 
 - Are taking certain drugs such as:
 - Triptans used to treat migraine headache
 - Medicines used to treat mood, anxiety, psychotic or thought disorders, including tricyclics, lithium, SSRIs, SNRIs, amphetamines or antipsychotics
-- tramadol
+- Tramadol
 - Over-the-counter supplements such as tryptophan or St. John's Wort
 - have liver problems
 - have kidney problems
@@ -160,13 +162,14 @@ Before starting escitalopram tablets, tell your healthcare provider if you:
 - have high blood pressure
 - have or had bleeding problems
 - are pregnant or plan to become pregnant.
-  It is not known if escitalopram tablets will harm your unborn baby.
-  Talk to your healthcare provider about the benefits and risks of treating depression during pregnancy
+  Taking escitalopram tablets lat in pregnancy may lead to an increased risk of certain problems in your newborn.
+  Talk to your healthcare provider about the benefits and risks of treating depression during pregnancy If you become pregnant while taking escitalopram tablets, talk to your healthcare provider about registering with the National Pregnancy Registry for Antidepressants.
+  You can register by calling 1-844-405-6185 or go to https://womensmentalhealth.org/clinical-and-research-programs/pregnancyregistry/antidepressants/.
 - are breast-feeding or plan to breast-feed.
-  Some escitalopram may pass into your breast milk.
+  Escitalopram tablets may pass into your breast milk.
   Talk to your healthcare provider about the best way to feed your baby while taking escitalopram tablets.
 
-Tellyourhealthcareprovideraboutallthe medicines thatyoutake, including prescription and non-prescription medicines, vitamins, and herbal supplements.
+Tell your healthcare provider about all the medicines that you take, including prescription and non-prescription medicines, vitamins, and herbal supplements.
 Escitalopram tablets and some medicines may interact with each other, may not work as well, or may cause serious side effects.
 
 Your healthcare provider or pharmacist can tell you if it is safe to take escitalopram tablets with your other medicines.
@@ -175,7 +178,7 @@ Do not start or stop any medicine while taking escitalopram tablets without talk
 | If you take escitalopram tablets, you should not take any other medicines that contain escitalopram or citalopram including: Celexa. |
 | --- |
 
-HowshouldItakeescitalopramtablets?
+How should I take escitalopram tablets?
 
 - Take escitalopram tablets exactly as prescribed.
   Your healthcare provider may need to change the dose of escitalopram tablets until it is the right dose for you.
@@ -185,15 +188,15 @@ HowshouldItakeescitalopramtablets?
   Do not take two doses of escitalopram tablets at the same time.
 - If you take too much escitalopram tablets, call your healthcare provider or poison control center right away, or get emergency treatment.
 
-WhatshouldIavoidwhiletakingescitalopramtablets?
+What should I avoid while taking escitalopram tablets?
 
 Escitalopram tablets can cause sleepiness or may affect your ability to make decisions, think clearly, or react quickly.
 You should not drive, operate heavy machinery, or do other dangerous activities until you know how escitalopram tablets affect you.
 Do not drink alcohol while using escitalopram tablets.
 
-Whatarethepossiblesideeffectsofescitalopramtablets?
+What are the possible side effects of escitalopram tablets?
 
-Escitalopramtabletsmaycauseserioussideeffects, including all of those described in the section entitled "What is the most important information I should know about escitalopram tablets?"
+Escitalopram tablets may cause serious side effects, including all of those described in the section entitled "What is the most important information I should know about escitalopram tablets?"
 
 Common possible side effects in people who take escitalopram tablets include:
 
@@ -229,14 +232,14 @@ For more information, ask your healthcare provider or pharmacist.
 CALL YOUR DOCTOR FOR MEDICAL ADVICE ABOUT SIDE EFFECTS.
 YOU MAY REPORT SIDE EFFECTS TO FDA AT 1-800-FDA-1088.
 
-HowshouldIstoreescitalopramtablets?
+How should I store escitalopram tablets?
 
 - Store escitalopram tablets at 20° to 25°C (68° to 77°F); excursions permitted to 15° to 30°C (59° to 86°F) [see USP Controlled Room Temperature].
 - Keep escitalopram tablets bottle closed tightly.
 
-Keepescitalopramtabletsandallmedicinesoutofthereachofchildren.
+Keep escitalopram tablets and all medicines out of the reach of children.
 
-Generalinformationaboutescitalopramtablets
+General information about escitalopram tablets
 
 Medicines are sometimes prescribed for purposes other than those listed in a Medication Guide.
 Do not use escitalopram tablets for a condition for which it was not prescribed.
@@ -249,7 +252,7 @@ You may ask your healthcare provider or pharmacist for information about escital
 
 For more information about escitalopram tablets call 1-800-912-9561.
 
-Whataretheingredientsinescitalopramtablets?
+What are the ingredients in escitalopram tablets?
 
 Active ingredient: escitalopram oxalate, USP
 
@@ -264,10 +267,10 @@ Manufactured by:
 
 TORRENT PHARMACEUTICALS LTD., INDIA.
 
-Manufactured For:
+Manufactured for:
 
 TORRENT PHARMA INC., Basking Ridge, NJ 07920.
 
-8075449 Revised June 2019
+8079972 Revised September 2020
 
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
