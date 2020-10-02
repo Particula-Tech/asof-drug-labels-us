@@ -1,0 +1,3 @@
+# 3 DOSAGE FORMS AND STRENGTHS
+
+Each yellow and blue BUTALBITAL, ASPIRIN, CAFFEINE and CODEINE PHOSPHATE Capsule USP 50 mg/325 mg/40 mg/30 mg is imprinted JSP 507.

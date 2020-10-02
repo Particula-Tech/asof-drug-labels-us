@@ -1,24 +1,35 @@
-# DESCRIPTION
+# 11 DESCRIPTION
 
-Each capsule for oral administration contains:
+BUTALBITAL, ASPIRIN, CAFFEINE and CODEINE PHOSPHATE USP is supplied in capsule form for oral administration.
 
-codeine phosphate, USP............
-30 mg (1/2 gr) butalbital, USP..........................
-50 mg caffeine, USP...........................
-40 mg aspirin, USP...........................
-325 mg
+Each capsule contains the following active ingredients:
 
-Codeine phosphate occurs as fine, white, needle-shaped crystals, or white, crystalline powder.
-It is affected by light.
-Its chemical name is 7,8-didehydro-4,5α-epoxy-3-methoxy-17- methylmorphinan-6α-ol phosphate (1:1) (salt) hemihydrate.
-Its molecular weight is 406.37 and its molecular formula is C18H21NO3•H3PO4•½H2O.
+Butalbital, USP……………..50 mg
 
-Butalbital, 5-allyl-5-isobutyl-barbituric acid, a white odorless crystalline powder, is a short- to intermediate-acting barbiturate.
+Aspirin, USP………………..325 mg
+
+Caffeine, USP………………40 mg
+
+Codeine phosphate, USP…...30 mg
+
+Butalbital (5-allyl-5-isobutyl-barbituric acid) is a short- to intermediate-acting barbiturate.
+It has the following structural formula:
+
 Its molecular weight is 224.26 and its molecular formula is C11H16N2O3.
 
-Caffeine, 1,3,7-trimethylxanthine, is a central nervous stimulant which occurs as a white powder or white glistening needles.
-Its molecular weight is (anhydrous) 194.19 and its molecular formula is C8H10N4O2.
+Aspirin (benzoic acid, 2-(acetyloxy)-) is a nonsteroidal anti-inflammatory drug.
+It has the following structural formula:
 
-Aspirin is benzoic acid, 2-(acetyloxy)-, with a molecular formula of C9H8O4 and its molecular weight is 180.16.
+Its molecular weight is 180.16 and its molecular formula is C9H8O4.
 
-Inactive Ingredients: D&C Yellow #10, D&C Yellow #10 Aluminum Lake, D&C Red #33, D&C Red #28, FD&C Blue #1, FD&C Blue #1 Aluminum Lake, FD&C Blue #2 Aluminum Lake, FD&C Blue #10 Aluminum Lake, FD&C Red #40 Aluminum Lake, gelatin, microcrystalline cellulose, pregelatinized starch, talc, titanium dioxide, stearic acid, colloidal silicon dioxide.
+Caffeine (1,3,7-trimethylxanthine), a methylxanthine, is a central nervous system stimulant.
+It has the following structural formula:
+
+Its molecular weight is 194.19 and its molecular formula is C8H10N4O2.
+
+Codeine phosphate (7,8-Didehydro-4,5α-epoxy-3-methoxy-17-methylmorphinan-6α-ol phosphate (1:1) (salt) hemihydrate) is an opioid agonist.
+It has the following structural formula:
+
+Its molecular weight is 397.37 and its molecular formula is C18H24NO7P.
+
+Inactive Ingredients: D&C Yellow #10, D&C Yellow #10 Aluminum Lake, D&C Red #33, D&C Red #28, FD&C Blue #1, FD&C Blue #1 Aluminum Lake, gelatin, microcrystalline cellulose, pregelatinized starch, talc, titanium dioxide, stearic acid, colloidal silicon dioxide.

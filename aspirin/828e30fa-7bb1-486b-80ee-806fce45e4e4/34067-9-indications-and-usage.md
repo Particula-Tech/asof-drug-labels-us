@@ -1,10 +1,10 @@
-# INDICATIONS AND USAGE
+# 1 INDICATIONS AND USAGE
 
-Butalbital, Aspirin, Caffeine and Codeine Phosphate Capsules are indicated for the relief of the symptom complex of tension (or muscle contraction) headache.
+BUTALBITAL, ASPIRIN, CAFFEINE and CODEINE PHOSPHATE is indicated for the management of the symptom complex of tension (or muscle contraction) headache, when non-opioid analgesic and alternative treatments are inadequate.
 
-Evidence supporting the efficacy of butalbital, aspirin, caffeine and codeine phosphate capsules is derived from 2 multi-clinic trials that compared patients with tension headache randomly assigned to 4 parallel treatments: 1) butalbital, aspirin, caffeine and codeine; 2) codeine; 3) butalbital, aspirin and caffeine; 4) placebo.
-Response was assessed over the course of the first 4 hours of each of 2 distinct headaches, separated by at least 24 hours.
-The combination product of butalbital, aspirin, caffeine and codeine proved statistically significantly superior to each of its components and to placebo on measures of pain relief.
+Limitations of Use
 
-Evidence supporting the efficacy and safety of butalbital, aspirin, caffeine and codeine in the treatment of multiple recurrent headaches is unavailable.
-Caution in this regard is required because codeine and butalbital are habit-forming and potentially abusable.
+Because of the risks of addiction, abuse, and misuse with opioids and butalbital, even at recommended doses [see Warnings and Precautions (5.1)], reserve BUTALBITAL, ASPIRIN, CAFFEINE and CODEINE PHOSPHATE for use in patients for whom alternative treatment options (e.g., non-opioid, non-barbiturate analgesics):
+
+- Have not been tolerated, or are not expected to be tolerated,
+- Have not provided adequate analgesia, or are not expected to provide adequate analgesia
