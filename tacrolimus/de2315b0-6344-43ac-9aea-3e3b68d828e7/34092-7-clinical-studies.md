@@ -93,7 +93,7 @@ Acute rejection rates at 12 months were 3.1% (1/32) in the ENVARSUS XR group and
 Study 3
 
 The conversion study, Study 3 (NCT00817206), was a Phase 3 randomized, open-label, multinational study evaluating once daily ENVARSUS XR when used to replace tacrolimus [immediate-release] capsules administered twice daily for maintenance immunosuppression to prevent acute allograft rejection in stable adult kidney transplant patients.
-Patients who received a kidney transplant 3 months to 5 years before study entry and on a stable dose of tacrolimus [immediaterelease] capsules of at least 2 mg per day and tacrolimus whole blood trough concentrations between 4 and 15 ng/mL were randomized to 1) switch from twice daily tacrolimus capsules to once daily ENVARSUS XR (N=163) or 2) continue tacrolimus capsules twice daily (N=163).
+Patients who received a kidney transplant 3 months to 5 years before study entry and on a stable dose of tacrolimus [immediate-release] capsules of at least 2 mg per day and tacrolimus whole blood trough concentrations between 4 and 15 ng/mL were randomized to 1) switch from twice daily tacrolimus capsules to once daily ENVARSUS XR (N=163) or 2) continue tacrolimus capsules twice daily (N=163).
 MMF or mycophenolate sodium (MPS), or azathioprine (AZA) and/or corticosteroids were allowed as concomitant immunosuppressants during the study period according to the standard of care at the participating site.
 
 The mean age of study population was 50 years; 67% were male; 73% were Caucasian, 22% were African-American, 2% were Asian and 3% were categorized as other races.

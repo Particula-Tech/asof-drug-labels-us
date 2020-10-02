@@ -6,7 +6,7 @@ Carcinogenesis
 
 Carcinogenicity studies were conducted in male and female rats and mice.
 In the 80-week mouse oral study and in the 104-week rat oral study, no relationship of tumor incidence to tacrolimus dosage was found.
-The highest dose used in the mouse was 3mg/kg/day (0.84 times the AUC at the recommended clinical dose of 0.14 mg/kg/day) and in the rat was 5mg/kg/day (0.24 times the AUC at the recommended clinical dose of 0.14 mg/kg/day) [see Boxed Warning and Warnings and Precautions (5.1)].
+The highest dose used in the mouse was 3mg/kg/day (0.84 times the AUC at the recommended clinical dose of 0.14 mg/kg/day) and in the rat was 5 mg/kg/day (0.24 times the AUC at the recommended clinical dose of 0.14 mg/kg/day) [see Boxed Warning and Warnings and Precautions (5.1)].
 
 A 104-week dermal carcinogenicity study was performed in mice with tacrolimus ointment (0.03%-3%), equivalent to tacrolimus doses of 1.1-118 mg/kg/day or 3.3-354 mg/m2/day.
 In the study, the incidence of skin tumors was minimal and the topical application of tacrolimus was not associated with skin tumor formation under ambient room lighting.

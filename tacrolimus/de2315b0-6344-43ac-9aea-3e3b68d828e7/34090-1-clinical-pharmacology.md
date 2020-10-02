@@ -103,7 +103,7 @@ In a sub-group analysis from the two combined Phase 3 studies in kidney transpla
 
 Drug Interaction Studies
 
-No drug-drug interaction studies were conducted specifically with ENVARSUS XR.
-
 Because tacrolimus is metabolized mainly by CYP3A enzymes, drugs or substances known to inhibit these enzymes and/or are known CYP3A substrates may increase tacrolimus whole blood concentrations.
 Drugs known to induce CYP3A enzymes may decrease tacrolimus whole blood concentrations [see Warnings and Precautions (5.9) and Drug Interactions (7.2)].
+
+Voriconazole: Co-administration of ENVARSUS XR with voriconazole following 400 mg BID of voriconazole resulted in a tacrolimus mean AUCinf increase by 2.62 fold and Cmax by 2.03 fold.

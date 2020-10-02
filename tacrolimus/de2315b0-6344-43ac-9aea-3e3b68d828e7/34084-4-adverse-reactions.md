@@ -159,12 +159,12 @@ In Study 3, the most common (≥10%) adverse reactions observed with Envarsus XR
 The following adverse reactions have been reported from marketing experience with tacrolimus in the U.S. and outside the U.S. Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
 The following reactions have been included due to either their seriousness, frequency of reporting or strength of causal connection to ENVARSUS XR:
 
-- Blood and Lymphatic System Disorders: Agranulocytosis, decreased blood fibrinogen, disseminated intravascular coagulation, hemolytic anemia, hemolytic uremic syndrome, leukopenia, pancytopenia, prolonged activated partial thromboplastin time, pure red cell aplasia [see Warnings and Precautions (5.12)], thrombocytopenic purpura, thrombotic thrombocytopenic purpura
+- Blood and Lymphatic System Disorders: Agranulocytosis, decreased blood fibrinogen, disseminated intravascular coagulation, hemolytic anemia, hemolytic uremic syndrome, leukopenia, febrile neutropenia, pancytopenia, prolonged activated partial thromboplastin time, pure red cell aplasia [see Warnings and Precautions (5.12)], thrombocytopenic purpura, thrombotic thrombocytopenic purpura, thrombotic microangiopathy
 - Cardiac Disorders: Atrial fibrillation, atrial flutter, cardiac arrhythmia, cardiac arrest, electrocardiogram T wave abnormal, flushing, myocardial hypertrophy, myocardial infarction, myocardial ischaemia, pericardial effusion, QT prolongation, supraventricular extrasystoles, supraventricular tachycardia, Torsade de Pointes, deep limb venous thrombosis, ventricular fibrillation
 - Ear Disorders: Hearing loss including deafness
-- Eye Disorders: Blindness, photophobia, optic atrophy
+- Eye Disorders: Blindness, optic neuropathy, photophobia, optic atrophy
 - Gastrointestinal Disorders: Abdominal pain, colitis, dysphagia, gastrointestinal perforation, impaired gastric emptying, intestinal obstruction, mouth ulceration, peritonitis, stomach ulcer
-- Hepatobiliary Disorders: Bile duct stenosis, cholangitis, cirrhosis, fatty liver, hepatic cytolysis, hepatic failure, hepatic necrosis, hepatic steatosis, jaundice, hemorrhagic pancreatitis, necrotizing pancreatitis, venoocclusive liver disease
+- Hepatobiliary Disorders: Bile duct stenosis, cholangitis, cirrhosis, fatty liver, hepatic cytolysis, hepatic failure, hepatic necrosis, hepatic steatosis, jaundice, hemorrhagic pancreatitis, necrotizing pancreatitis, venoocclusive liver disease, hepatitis (acute and chronic)
 - Hypersensitivity Reactions: Hypersensitivity, Stevens-Johnson syndrome, toxic epidermal necrolysis, urticaria
 - Immune System Disorders: Graft versus host disease (acute and chronic)
 - Metabolism and Nutrition Disorders: Glycosuria, increased amylase, pancreatitis
