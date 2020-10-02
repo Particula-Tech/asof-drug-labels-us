@@ -70,7 +70,7 @@ In most cases, no change in Xyrem treatment was required.
 In a controlled adult trial, with patients randomized to fixed doses of 3 g, 6 g, or 9 g per night Xyrem or placebo, there was a single event of depression at the 3 g per night dose.
 In another adult controlled trial, with patients titrated from an initial 4.5 g per night starting dose, the incidences of depression were 1 (1.7%), 1 (1.5%), 2 (3.2%), and 2 (3.6%) for the placebo, 4.5 g, 6 g, and 9 g per night doses, respectively.
 
-In the pediatric clinical trial in patients with narcolepsy (n=104), one patient experienced suicidal ideation while taking Xyrem.
+In the pediatric clinical trial in patients with narcolepsy (n=104), one patient experienced suicidal ideation and two patients reported depression while taking Xyrem.
 
 The emergence of depression in patients treated with Xyrem requires careful and immediate evaluation.
 Patients with a previous history of a depressive illness and/or suicide attempt should be monitored carefully for the emergence of depressive symptoms while taking Xyrem.

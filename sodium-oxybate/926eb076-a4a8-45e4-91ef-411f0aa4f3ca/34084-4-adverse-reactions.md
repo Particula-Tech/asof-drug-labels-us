@@ -31,7 +31,7 @@ Commonly Observed Adverse Reactions in Controlled Clinical Trials:
 
 The most common adverse reactions (incidence ≥5% and twice the rate seen with placebo) in patients treated with Xyrem were nausea, dizziness, vomiting, somnolence, enuresis, and tremor.
 
-Adverse Reactions Occurring at an Incidence of 2% or greater:
+Adverse Reactions Occurring at an Incidence of 2% or Greater:
 
 Table 4 lists adverse reactions that occurred at a frequency of 2% or more in any treatment group for three controlled trials and were more frequent in any Xyrem treatment group than with placebo.
 Adverse reactions are summarized by dose at onset.
@@ -39,7 +39,7 @@ Nearly all patients in these studies initiated treatment at 4.5 g per night.
 In patients who remained on treatment, adverse reactions tended to occur early and to diminish over time.
 Table 4 Adverse Reactions Occurring in ≥2% of Adult Patients and More Frequently with Xyrem than Placebo in Three Controlled Trials (N1, N3, N4) by Body System and Dose at Onset
 
-| System Organ Class/Adverse Reactions | Placebo (n=213) % | Xyrem 4.5g (n=185) % | Xyrem 6g (n=258) % | Xyrem 9g (n=178) % |
+| Adverse Reaction | Placebo (n=213) % | Xyrem 4.5g (n=185) % | Xyrem 6g (n=258) % | Xyrem 9g (n=178) % |
 | --- | --- | --- | --- | --- |
 | ANY ADVERSE REACTION | 62 | 45 | 55 | 70 |
 | GASTROINTESTINAL DISORDERS |  |  |  |  |
@@ -53,21 +53,21 @@ Table 4 Adverse Reactions Occurring in ≥2% of Adult Patients and More Frequent
 | Feeling drunk | 1 | 0 | <1 | 3 |
 | Edema peripheral | 1 | 3 | 0 | 0 |
 | MUSCULOSKELETAL AND CONNECTIVE TISSUE DISORDERS |  |  |  |  |
-| Pain in extremity | 1 | 3 | 1 | 1 |
 | Cataplexy | 1 | 1 | 1 | 2 |
 | Muscle spasms | 2 | 2 | <1 | 2 |
+| Pain in extremity | 1 | 3 | 1 | 1 |
 | NERVOUS SYSTEM DISORDERS |  |  |  |  |
 | Dizziness | 4 | 9 | 11 | 15 |
 | Somnolence | 4 | 1 | 3 | 8 |
 | Tremor | 0 | 0 | 2 | 5 |
-| Paresthesia | 1 | 2 | 1 | 3 |
 | Disturbance in attention | 0 | 1 | 0 | 4 |
+| Paresthesia | 1 | 2 | 1 | 3 |
 | Sleep paralysis | 1 | 0 | 1 | 3 |
 | PSYCHIATRIC DISORDERS |  |  |  |  |
 | Disorientation | 1 | 1 | 2 | 3 |
-| Anxiety | 1 | 1 | 1 | 2 |
 | Irritability | 1 | 0 | <1 | 3 |
 | Sleepwalking | 0 | 0 | 0 | 3 |
+| Anxiety | 1 | 1 | 1 | 2 |
 | RENAL AND URINARY DISORDERS |  |  |  |  |
 | Enuresis | 1 | 3 | 3 | 7 |
 | SKIN AND SUBCUTANEOUS TISSUE DISORDERS |  |  |  |  |
@@ -82,15 +82,17 @@ In controlled trials in narcolepsy, discontinuations of treatment due to adverse
 
 Pediatric Patients (7 Years of Age and Older)
 
-In the pediatric clinical trial (Trial N5), 104 patients aged 7 to 17 years (37 patients aged 7 to 11 years; 67 patients aged 12 to 17 years) with narcolepsy received Xyrem up to 377 days (median exposure 332 days).
+In the pediatric clinical trial (Trial N5), 104 patients aged 7 to 17 years (37 patients aged 7 to 11 years; 67 patients aged 12 to 17 years) with narcolepsy received Xyrem for up to one year.
+This study included an open-label safety continuation period in which eligible patients received Xyrem for up to an additional 2 years.
+The median and maximum exposure across the entire study were 371 and 987 days, respectively.
 
 Adverse Reactions Leading to Treatment Discontinuation
 
-In the pediatric clinical trial, 5 of 104 patients reported adverse reactions that led to withdrawal from the study (hallucination, tactile; suicidal ideation; weight decreased; sleep apnea syndrome; and affect lability).
+In the pediatric clinical trial, 7 of 104 patients reported adverse reactions that led to withdrawal from the study (hallucination, tactile; suicidal ideation; weight decreased; sleep apnea syndrome; affect lability; anger, anxiety, depression; and headache).
 
 Adverse Reactions in the Pediatric Clinical Trial
 
-The most common adverse reactions (>5%) were enuresis (18%), nausea (17%), headache (16%), vomiting (16%), weight decreased (12%), decreased appetite (8%), and dizziness (6%).
+The most common adverse reactions (≥5%) were nausea (20%), enuresis (19%), vomiting (18%), headache (17%), weight decreased (13%), decreased appetite (9%), dizziness (8%), and sleepwalking (6%).
 
 Additional information regarding safety in pediatric patients appears in the following sections:
 

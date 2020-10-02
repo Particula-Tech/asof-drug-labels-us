@@ -42,7 +42,7 @@ The developmental and health benefits of breastfeeding should be considered alon
 
 The safety and effectiveness of Xyrem in the treatment of cataplexy or excessive daytime sleepiness in pediatric patients (7 years of age and older) with narcolepsy have been established in a double-blind, placebo-controlled, randomized-withdrawal study [see Adverse Reactions (6.1) and Clinical Studies (14.3)].
 
-In the pediatric clinical trial with Xyrem administration in patients with narcolepsy, serious adverse reactions of central sleep apnea and oxygen desaturation documented by polysomnography evaluation; suicidal ideation in one patient; neuropsychiatric reactions including acute psychosis, confusion, and anxiety; and parasomnias, including sleepwalking, have been reported [see Warnings and Precautions (5.4, 5.5, 5.6, 5.7) and Adverse Reactions (6.1)].
+In the pediatric clinical trial with Xyrem administration in patients with narcolepsy, serious adverse reactions of central sleep apnea and oxygen desaturation documented by polysomnography evaluation; depression; suicidal ideation; neuropsychiatric reactions including acute psychosis, confusion, and anxiety; and parasomnias, including sleepwalking, have been reported [see Warnings and Precautions (5.4, 5.5, 5.6, 5.7) and Adverse Reactions (6.1)].
 
 Safety and effectiveness of Xyrem in pediatric patients below the age of 7 years have not been established.
 
