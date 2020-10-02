@@ -1,8 +1,10 @@
 # 2 DOSAGE AND ADMINISTRATION
 
+Although rizatriptan benzoate 5 mg tablets and orally disintegrating tablets are available in the marketplace, MAXALT Tablets and MAXALT-MLT Orally Disintegrating Tablets are no longer marketed in the 5 mg strength.
+
 ## 2.1 Dosing Information in Adults
 
-The recommended starting dose of MAXALT is either 5 mg or 10 mg for the acute treatment of migraines in adults.
+The recommended starting dose of rizatriptan benzoate is either 5 mg or 10 mg for the acute treatment of migraines in adults.
 The 10-mg dose may provide a greater effect than the 5-mg dose, but may have a greater risk of adverse reactions [see Clinical Studies (14.1)].
 
 Redosing in Adults
@@ -14,9 +16,9 @@ The safety of treating, on average, more than four headaches in a 30-day period 
 ## 2.2 Dosing Information in Pediatric Patients (Age 6 to 17 Years)
 
 Dosing in pediatric patients is based on the patient's body weight.
-The recommended dose of MAXALT is 5 mg in patients weighing less than 40 kg (88 lb), and 10 mg in patients weighing 40 kg (88 lb) or more.
+The recommended dose of rizatriptan benzoate is 5 mg in patients weighing less than 40 kg (88 lb), and 10 mg in patients weighing 40 kg (88 lb) or more.
 
-The efficacy and safety of treatment with more than one dose of MAXALT within 24 hours in pediatric patients 6 to 17 years of age have not been established.
+The efficacy and safety of treatment with more than one dose of rizatriptan benzoate within 24 hours in pediatric patients 6 to 17 years of age have not been established.
 
 ## 2.3 Administration of MAXALT-MLT Orally Disintegrating Tablets
 
@@ -28,9 +30,9 @@ The blister pack should then be peeled open with dry hands and the orally disint
 
 Adult Patients
 
-In adult patients taking propranolol, only the 5-mg dose of MAXALT is recommended, up to a maximum of 3 doses in any 24-hour period (15 mg) [see Drug Interactions (7.1) and Clinical Pharmacology (12.3)].
+In adult patients taking propranolol, only the 5-mg dose of rizatriptan benzoate is recommended, up to a maximum of 3 doses in any 24-hour period (15 mg) [see Drug Interactions (7.1) and Clinical Pharmacology (12.3)].
 
 Pediatric Patients
 
-For pediatric patients weighing 40 kg (88 lb) or more, taking propranolol, only a single 5-mg dose of MAXALT is recommended (maximum dose of 5 mg in a 24-hour period).
-MAXALT should not be prescribed to propranolol-treated pediatric patients who weigh less than 40 kg (88 lb) [see Drug Interactions (7.1) and Clinical Pharmacology (12.3)].
+For pediatric patients weighing 40 kg (88 lb) or more, taking propranolol, only a single 5-mg dose of rizatriptan benzoate is recommended (maximum dose of 5 mg in a 24-hour period).
+Rizatriptan benzoate should not be prescribed to propranolol-treated pediatric patients who weigh less than 40 kg (88 lb) [see Drug Interactions (7.1) and Clinical Pharmacology (12.3)].

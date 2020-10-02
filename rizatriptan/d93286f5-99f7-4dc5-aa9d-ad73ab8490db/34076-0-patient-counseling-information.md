@@ -35,4 +35,4 @@ Instruct patients not to remove the blister from the outer aluminum pouch until 
 Patients with Phenylketonuria
 
 Inform phenylketonuric patients that MAXALT-MLT Orally Disintegrating Tablets contain phenylalanine (a component of aspartame).
-Each 5-mg orally disintegrating tablet contains 1.1 mg phenylalanine, and each 10-mg orally disintegrating tablet contains 2.1 mg phenylalanine [see Use in Specific Populations (8.6)].
+Each 10-mg orally disintegrating tablet contains 2.1 mg phenylalanine [see Use in Specific Populations (8.6)].

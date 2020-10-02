@@ -196,7 +196,6 @@ MAXALT-MLT orally disintegrating tablets contain aspartame, a source of phenylal
 
 Phenylketonurics:
 
-MAXALT-MLT orally disintegrating tablets 5-mg contain 1.1 mg of phenylalanine.
 MAXALT-MLT orally disintegrating tablets 10-mg contain 2.1 mg of phenylalanine.
 
 This Patient Information has been approved by the U.S. Food and Drug Administration.
