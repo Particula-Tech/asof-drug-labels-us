@@ -1,26 +1,28 @@
 # 2 DOSAGE AND ADMINISTRATION
 
-NUCALA is for subcutaneous (SC) use only.
+NUCALA is for subcutaneous use only.
 
 ## 2.1 Severe Asthma
 
 Adults and Adolescents Aged 12 Years and Older
 
-The recommended dosage of NUCALA in adults and adolescents aged 12 years and older is 100 mg administered once every 4 weeks by SC injection into the upper arm, thigh, or abdomen.
+The recommended dosage of NUCALA in adults and adolescents aged 12 years and older is 100 mg administered once every 4 weeks by subcutaneous injection into the upper arm, thigh, or abdomen [see Dosage and Administration (2.4, 2.5)].
 
 Pediatric Patients Aged 6 to 11 Years
 
-The recommended dosage of NUCALA in children aged 6 to 11 years is 40 mg administered once every 4 weeks by SC injection into the upper arm, thigh, or abdomen.
+The recommended dosage of NUCALA for injection in children aged 6 to 11 years is 40 mg administered once every 4 weeks by subcutaneous injection into the upper arm, thigh, or abdomen [see Dosage and Administration (2.4)].
 
 ## 2.2 Eosinophilic Granulomatosis with Polyangiitis
 
-The recommended dosage of NUCALA is 300 mg administered once every 4 weeks by SC injection as 3 separate 100-mg injections into the upper arm, thigh, or abdomen.
-It is recommended that the individual 100-mg injections be administered at least 5 cm (approximately 2 inches) apart if more than 1 injection is administered at the same site.
-[See Dosage and Administration (2.3).]
+The recommended dosage of NUCALA is 300 mg administered once every 4 weeks by subcutaneous injection as 3 separate 100-mg injections into the upper arm, thigh, or abdomen [see Dosage and Administration (2.4, 2.5)].
+Administer individual 100-mg injections at least 5 cm (approximately 2 inches) apart.
 
-Preparation of the 300-mg dose for treatment of EGPA requires the reconstitution of 3 separate 100-mg vials or administration of 3 prefilled autoinjectors or 3 prefilled syringes as described below [see Dosage and Administration (2.3, 2.4)].
+## 2.3 Hypereosinophilic Syndrome
 
-## 2.3 Preparation and Administration of NUCALA for Injection Vial
+The recommended dosage of NUCALA is 300 mg administered once every 4 weeks by subcutaneous injection as 3 separate 100-mg injections into the upper arm, thigh, or abdomen [see Dosage and Administration (2.4, 2.5)].
+Administer individual 100-mg injections at least 5 cm (approximately 2 inches) apart.
+
+## 2.4 Preparation and Administration of NUCALA for Injection Vial
 
 NUCALA for injection should be reconstituted and administered by a healthcare professional.
 In line with clinical practice, monitoring of patients after administration of biologic agents is recommended [see Warnings and Precautions (5.1)].
@@ -41,46 +43,46 @@ Reconstitution Instructions
    Small air bubbles, however, are expected and acceptable.
    If particulate matter remains in the solution or if the solution appears cloudy or milky, the solution must not be administered.
 5. 5.If the reconstituted solution is not used immediately:
-   1. •store below 30°C (86°F),
-   2. •do not freeze, and
-   3. •discard if not used within 8 hours of reconstitution.
+6. •store below 30°C (86°F),
+7. •do not freeze, and
+8. •discard if not used within 8 hours of reconstitution.
 
 Administration of 100-mg Dose
 
-1. 1.For SC administration, preferably using a 1-mL polypropylene syringe fitted with a disposable 21- to 27-gauge x 0.5-inch (13-mm) needle.
+1. 1.For subcutaneous administration, preferably using a 1-mL polypropylene syringe fitted with a disposable 21- to 27-gauge x 0.5-inch (13-mm) needle.
 2. 2.Just before administration, remove 1 mL of reconstituted NUCALA for injection.
    Do not shake the reconstituted solution during the procedure as this could lead to product foaming or precipitation.
 3. 3.Administer the 1-mL injection (equivalent to 100 mg of mepolizumab) subcutaneously into the upper arm, thigh, or abdomen.
 
 Administration of 40-mg Dose
 
-1. 1.For SC administration, preferably using a 1-mL polypropylene syringe fitted with a disposable 21- to 27-gauge x 0.5 inch (13-mm) needle.
-2. 2.Just before administration, remove 0.4 mL of reconstituted NUCALA.
+1. 1.For subcutaneous administration, preferably using a 1-mL polypropylene syringe fitted with a disposable 21- to 27-gauge x 0.5 inch (13-mm) needle.
+2. 2.Just before administration, remove 0.4 mL of reconstituted NUCALA for injection.
    Do not shake the reconstituted solution during the procedure as this could lead to product foaming or precipitation.
 3. 3.Administer the 0.4-mL injection (equivalent to 40 mg of mepolizumab) subcutaneously into the upper arm, thigh, or abdomen.
 
-Each vial of NUCALA should be used for a single patient, and any remainder of the contents should be discarded.
+Each vial of NUCALA for injection should be used for a single patient, and any remainder of the contents should be discarded.
 
-## 2.4 Preparation and Administration of NUCALA Injection Prefilled Autoinjector and Prefilled Syringe
+## 2.5 Preparation and Administration of NUCALA Injection Prefilled Autoinjector and Prefilled Syringe
 
 NUCALA injection is intended for use under the guidance of a healthcare provider.
 The NUCALA injection prefilled autoinjector and prefilled syringe are only for use in adults and adolescents aged 12 years and older.
 A patient may self-inject or the patient caregiver may administer NUCALA injection subcutaneously after the healthcare provider determines it is appropriate.
-Provide proper training in SC injection technique and on the preparation and administration of NUCALA injection prior to use according to the “Instructions for Use”.
+Provide proper training in subcutaneous injection technique and on the preparation and administration of NUCALA injection prior to use according to the “Instructions for Use”.
 
 1. 1.
    Remove the prefilled autoinjector or prefilled syringe from the refrigerator and allow it to sit at room temperature for 30 minutes prior to injection.
-   Do not warm NUCALA in any other way.
+   Do not warm NUCALA injection in any other way.
 2. 2.
    Prior to administration, visually inspect the window of the prefilled autoinjector or the prefilled syringe for particulate matter or discoloration.
    NUCALA injection should be clear to opalescent, colorless to pale yellow to pale brown in color.
    Do not use NUCALA injection if the product exhibits discoloration, cloudiness, or particulate matter.
    Do not use the NUCALA prefilled autoinjector or prefilled syringe if dropped on a hard surface.
 3. 3.
-   Administer the SC injection into the thigh or abdomen, avoiding the 5 cm (2 inches) around the navel.
-   The upper arm can also be used if a caregiver administers the SC injection.
+   Administer the subcutaneous injection into the thigh or abdomen, avoiding the 5 cm (2 inches) around the navel.
+   The upper arm can also be used if a caregiver administers the subcutaneous injection.
 4. 4.
-   For use in EGPA, ensure injection sites for each SC injection are separated by at least 5 cm (2 inches).
+   For use in EGPA and HES, ensure injection sites for each subcutaneous injection are separated by at least 5 cm (2 inches).
 5. 5.
    Never give injections into areas where the skin is tender, bruised, red, or hard.
 6. 6.

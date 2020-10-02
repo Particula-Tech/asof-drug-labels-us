@@ -11,3 +11,7 @@ NUCALA is not indicated for the relief of acute bronchospasm or status asthmatic
 ## 1.2 Eosinophilic Granulomatosis with Polyangiitis
 
 NUCALA is indicated for the treatment of adult patients with eosinophilic granulomatosis with polyangiitis (EGPA).
+
+## 1.3 Hypereosinophilic Syndrome
+
+NUCALA is indicated for the treatment of adult and pediatric patients aged 12 years and older with hypereosinophilic syndrome (HES) for ≥6 months without an identifiable non-hematologic secondary cause.

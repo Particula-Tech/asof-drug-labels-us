@@ -1,3 +1,3 @@
 # 4 CONTRAINDICATIONS
 
-NUCALA should not be administered to patients with a history of hypersensitivity to mepolizumab or excipients in the formulation [see Description (11)].
+NUCALA is contraindicated in patients with a history of hypersensitivity to mepolizumab or excipients in the formulation [see Warnings and Precautions (5.1), Description (11)].

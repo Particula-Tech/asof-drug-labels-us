@@ -2,7 +2,7 @@
 
 ## 14.1 Severe Asthma
 
-The asthma development program for NUCALA in subjects aged 12 years and older included 3 double-blind, randomized, placebo‑controlled trials: 1 dose-ranging and exacerbation trial (Trial 1, NCT #01000506) and 2 confirmatory trials (Trial 2, NCT #01691521 and Trial 3, NCT #01691508).
+The asthma development program for NUCALA in subjects aged 12 years and older included 3 double-blind, randomized, placebo-controlled trials: 1 dose-ranging and exacerbation trial (Trial 1, NCT #01000506) and 2 confirmatory trials (Trial 2, NCT #01691521 and Trial 3, NCT #01691508).
 Mepolizumab was administered every 4 weeks in all 3 trials as add-on to background treatment.
 All subjects continued their background asthma therapy throughout the duration of the trials.
 
@@ -11,8 +11,8 @@ Dose-Ranging and Exacerbation Trial
 Trial 1 was a 52-week dose-ranging and exacerbation-reduction trial in subjects with severe asthma with a history of 2 or more exacerbations in the previous year despite regular use of high-dose ICS plus additional controller(s) with or without OCS.
 Subjects enrolled in this trial were required to have at least 1 of the following 4 pre-specified criteria in the previous 12 months: blood eosinophil count ≥300 cells/mcL, sputum eosinophil count ≥3%, exhaled nitric oxide concentration ≥50 ppb, or deterioration of asthma control after ≤25% reduction in regular maintenance ICS/OCS.
 Three IV dosages of mepolizumab (75, 250, and 750 mg) administered once every 4 weeks were evaluated compared with placebo.
-Results from this trial and the pharmacodynamic study supported the evaluation of mepolizumab 75 mg IV and 100 mg SC in the subsequent trials [see Clinical Pharmacology (12.2)].
-NUCALA is not indicated for IV use and should only be administered by the SC route.
+Results from this trial and the pharmacodynamic study supported the evaluation of mepolizumab 75 mg IV and 100 mg subcutaneous in the subsequent trials [see Clinical Pharmacology (12.2)].
+NUCALA is not indicated for IV use and should only be administered by the subcutaneous route.
 
 Confirmatory Trials
 
@@ -34,10 +34,10 @@ Demographics and Baseline Characteristics of Severe Asthma Trials
 
 |  | Trial 1(N = 616) | Trial 2(N = 576) | Trial 3(N = 135) |
 | --- | --- | --- | --- |
-| Mean age (y) | 49 | 50 | 50 |
+| Mean age, y | 49 | 50 | 50 |
 | Female, n (%) | 387 (63) | 328 (57) | 74 (55) |
 | White, n (%) | 554 (90) | 450 (78) | 128 (95) |
-| Duration of asthma, mean (y) | 19 | 20 | 19 |
+| Duration of asthma, mean, y | 19 | 20 | 19 |
 | Never smoked, n (%) | 483 (78) | 417 (72) | 82 (61) |
 | Baseline FEV1, L | 1.88 | 1.82 | 1.95 |
 | Baseline % predicted FEV1 | 60 | 61 | 59 |
@@ -49,7 +49,7 @@ Demographics and Baseline Characteristics of Severe Asthma Trials
 
 Exacerbations
 
-The primary endpoint for Trials 1 and 2 was the frequency of exacerbations defined as worsening of asthma requiring use of oral/systemic corticosteroids and/or hospitalization and/or emergency department visits.
+Efficacy was assessed in Trials 1 and 2 using an endpoint of the frequency of exacerbations defined as worsening of asthma requiring use of oral/systemic corticosteroids and/or hospitalization and/or emergency department visits.
 For subjects on maintenance OCS, an exacerbation requiring OCS was defined as the use of oral/systemic corticosteroids at least double the existing dose for at least 3 days.
 Compared with placebo, subjects receiving NUCALA 100 mg or mepolizumab 75 mg IV experienced significantly fewer exacerbations.
 Additionally, compared with placebo, there were fewer exacerbations requiring hospitalization and/or emergency department visits and exacerbations requiring only in-patient hospitalization with NUCALA 100 mg (Table 3).
@@ -82,11 +82,6 @@ Rate of Exacerbations in Severe Asthma Trials 1 and 2 (Intent-to-Treat Populatio
 
 The time to first exacerbation was longer for the groups receiving NUCALA 100 mg and mepolizumab 75 mg IV compared with placebo in Trial 2 (Figure 1).
 
-Figure 1.
-Kaplan-Meier Cumulative Incidence Curve for Time to First Exacerbation (Severe Asthma Trial 2)
-
-IV = intravenous, SC = subcutaneous.
-
 Trial 1 data were explored to determine criteria that could identify subjects likely to benefit from treatment with NUCALA.
 The exploratory analysis suggested that baseline blood eosinophil count of ≥150 cells/mcL was a potential predictor of treatment benefit.
 Exploratory analysis of Trial 2 data also suggested that baseline blood eosinophil count (obtained within 6 weeks of initiation of dosing) of ≥150 cells/mcL was a potential predictor of efficacy and showed a trend of greater exacerbation benefit with increasing blood eosinophil count.
@@ -100,7 +95,7 @@ In Trial 2, the SGRQ responder rate (defined as a decrease in score of 4 or more
 Oral Corticosteroid Reduction
 
 Trial 3 evaluated the effect of NUCALA 100 mg on reducing the use of maintenance OCS.
-The primary endpoint was the percent reduction of OCS dose during Weeks 20 to 24 compared with baseline dose, while maintaining asthma control.
+Efficacy was assessed using an endpoint of the percent reduction of OCS dose during Weeks 20 to 24 compared with baseline dose, while maintaining asthma control.
 Subjects were classified according to their change in OCS use during the trial with the following categories: 90% to 100% decrease, 75% to <90% decrease, 50% to <75% decrease, >0% to <50% decrease, and no improvement (i.e., no change or any increase or lack of asthma control or withdrawal of treatment).
 Compared with placebo, subjects receiving NUCALA 100 mg achieved greater reductions in daily maintenance OCS dose, while maintaining asthma control.
 Sixteen (23%) subjects in the group receiving NUCALA 100 mg versus 7 (11%) in the placebo group had a 90% to 100% reduction in their OCS dose.
@@ -136,7 +131,7 @@ Change from baseline in FEV1 at Week 12 was numerically lower in the mepolizumab
 A total of 136 adult subjects with EGPA were evaluated in a randomized, placebo-controlled, multicenter, 52-week trial (NCT #02020889).
 Subjects received 300 mg of NUCALA or placebo administered subcutaneously once every 4 weeks while continuing their stable OCS therapy.
 Starting at Week 4, OCS was tapered during the treatment period at the discretion of the investigator.
-The co-primary endpoints were the total accrued duration of remission over the 52‑week treatment period, defined as Birmingham Vasculitis Activity Score (BVAS) = 0 (no active vasculitis) plus prednisolone or prednisone dose less than or equal to 4 mg/day, and the proportion of subjects in remission at both Week 36 and Week 48 of treatment.
+Efficacy was assessed in this trial using co-endpoints of the total accrued duration of remission over the 52‑week treatment period, defined as Birmingham Vasculitis Activity Score (BVAS) = 0 (no active vasculitis) plus prednisolone or prednisone dose less than or equal to 4 mg/day, and the proportion of subjects in remission at both Week 36 and Week 48 of treatment.
 The BVAS is a clinician-completed tool to assess clinically active vasculitis that would likely require treatment, after exclusion of other causes.
 
 The demographics and baseline characteristics of subjects in this trial are provided in Table 5.
@@ -146,16 +141,16 @@ Demographics and Baseline Characteristics in EGPA
 
 |  | N = 136 |
 | --- | --- |
-| Mean age (y) | 48.5 |
+| Mean age, y | 48.5 |
 | Female, n (%) | 80 (59) |
 | White, n (%) | 125 (92) |
-| Duration (y) of EGPA, mean (SD) | 5.5 (4.63) |
+| Duration of EGPA, y, mean (SD) | 5.5 (4.63) |
 | History of >1 confirmed relapse in past 2 years, n (%) | 100 (74) |
 | Refractory disease, n (%) | 74 (54) |
 | Recurrence of EGPA symptoms, n (%) | 68 (50) |
 | Failed induction treatment, n (%) | 6 (4) |
-| Baseline oral corticosteroida daily dose (mg), median (range) | 12 (7.5-50) |
-| Receiving immunosuppressive therapyb, n (%) | 72 (53) |
+| Baseline oral corticosteroida daily dose, mg, median (range) | 12 (7.5-50) |
+| Receiving immunosuppressive therapy,b n (%) | 72 (53) |
 | a Prednisone or prednisolone equivalent. b e.g., Azathioprine, methotrexate, mycophenolic acid. EGPA = eosinophilic granulomatosis with polyangiitis, SD = standard deviation. |  |
 
 Remission
@@ -163,7 +158,7 @@ Remission
 Subjects receiving 300 mg of NUCALA achieved a significantly greater accrued time in remission compared with placebo.
 A significantly higher proportion of subjects receiving 300 mg of NUCALA achieved remission at both Week 36 and Week 48 compared with placebo (Table 6).
 Results of the components of remission are also shown in Table 6.
-In addition, significantly more subjects receiving 300 mg of NUCALA achieved remission within the first 24 weeks and remained in remission for the remainder of the 52-week study treatment period compared with placebo (19% for 300 mg of NUCALA versus 1% for placebo; OR 19.7; 95% CI: 2.3, 167.9).
+In addition, significantly more subjects receiving 300 mg of NUCALA achieved remission within the first 24 weeks and remained in remission for the remainder of the 52-week trial treatment period compared with placebo (19% for 300 mg of NUCALA versus 1% for placebo; OR 19.7; 95% CI: 2.3, 167.9).
 
 Table 6.
 Remission and Components of Remission in EGPA
@@ -177,11 +172,11 @@ Remission and Components of Remission in EGPA
 | 12 to <24 weeks | 3 (4) | 9 (13) | 6 (9) | 12 (18) | 11 (16) | 5 (7) |  |  |
 | 24 to <36 weeks | 0 | 10 (15) | 2 (3) | 10 (15) | 17 (25) | 2 (3) |  |  |
 | ≥36 weeks | 2 (3) | 9 (13) | 2 (3) | 14 (21) | 19 (28) | 45 (66) |  |  |
-| Odds ratio (mepolizumab/placebo)a(95% CI) |  | 5.9(2.7, 13.0) |  | 5.1(2.5, 10.4) |  | 3.7(1.8, 7.6) |  |  |
+| Odds ratio (NUCALA/placebo)a(95% CI) |  | 5.9(2.7, 13.0) |  | 5.1(2.5, 10.4) |  | 3.7(1.8, 7.6) |  |  |
 | Proportion of subjects at both Weeks 36 and 48 |  |  |  |  |  |  |  |  |
 | Subjects, n (%) | 2 (3) | 22 (32) | 7 (10) | 28 (41) | 23 (34) | 34 (50) |  |  |
-| Odds ratio (mepolizumab/placebo)a(95% CI) |  | 16.7(3.6, 77.6) |  | 6.6(2.6, 17.1) |  | 1.9(0.9, 4.2) |  |  |
-| a An odds ratio >1 favors mepolizumab. EGPA = eosinophilic granulomatosis with polyangiitis, OCS = oral corticosteroid, BVAS = Birmingham Vasculitis Activity Score. |  |  |  |  |  |  |  |  |
+| Odds ratio (NUCALA/placebo)a(95% CI) |  | 16.7(3.6, 77.6) |  | 6.6(2.6, 17.1) |  | 1.9(0.9, 4.2) |  |  |
+| a An odds ratio >1 favors NUCALA. EGPA = eosinophilic granulomatosis with polyangiitis, OCS = oral corticosteroid, BVAS = Birmingham Vasculitis Activity Score. |  |  |  |  |  |  |  |  |
 
 Additionally, a statistically significant benefit for these endpoints was demonstrated using remission defined as BVAS = 0 plus prednisolone/prednisone ≤7.5 mg/day.
 
@@ -189,12 +184,7 @@ Relapse
 
 The time to first relapse (defined as worsening related to vasculitis, asthma, or sino-nasal symptoms requiring an increase in dose of corticosteroids or immunosuppressive therapy or hospitalization) was significantly longer for subjects receiving 300 mg of NUCALA compared with placebo with a hazard ratio of 0.32 (95% CI: 0.21, 0.5) (Figure 2).
 Additionally, subjects receiving 300 mg of NUCALA had a reduction in rate of relapse compared with subjects receiving placebo (rate ratio 0.50; 95% CI: 0.36, 0.70 for 300 mg of NUCALA compared with placebo).
-The incidence and number of relapse types (vasculitis, asthma, sino‑nasal) were numerically lower with mepolizumab compared with placebo.
-
-Figure 2.
-Kaplan-Meier Plot of Time to First Relapse in EGPA
-
-EGPA = eosinophilic granulomatosis with polyangiitis, SC = subcutaneous.
+The incidence and number of relapse types (vasculitis, asthma, sino‑nasal) were numerically lower with NUCALA compared with placebo.
 
 Corticosteroid Reduction
 
@@ -210,12 +200,101 @@ Average Daily Oral Corticosteroid Dose during Weeks 48 to 52 in EGPA
 | >0 to ≤4.0 mg | 3 (4) | 18 (26) |  |  |  |  |  |  |  |  |  |
 | >4.0 to ≤7.5 mg | 18 (26) | 10 (15) |  |  |  |  |  |  |  |  |  |
 | >7.5 mg | 45 (66) | 28 (41) |  |  |  |  |  |  |  |  |  |
-| Comparison: mepolizumab/placeboa |  |  |  |  |  |  |  |  |  |  |  |
+| Comparison: NUCALA/placeboa |  |  |  |  |  |  |  |  |  |  |  |
 | Odds ratiob | --- | 0.20 |  |  |  |  |  |  |  |  |  |
 | 95% CI | --- | 0.09, 0.41 |  |  |  |  |  |  |  |  |  |
-| a Analyzed using a proportional odds model with covariates of treatment group, baseline oral corticosteroid daily dose, baseline Birmingham Vasculitis Activity Score, and region. b An odds ratio <1 favors mepolizumab. EGPA = eosinophilic granulomatosis with polyangiitis. |  |  |  |  |  |  |  |  |  |  |  |
+| a Analyzed using a proportional odds model with covariates of treatment group, baseline oral corticosteroid daily dose, baseline Birmingham Vasculitis Activity Score, and region. b An odds ratio <1 favors NUCALA. EGPA = eosinophilic granulomatosis with polyangiitis. |  |  |  |  |  |  |  |  |  |  |  |
 
 Asthma Control Questionnaire-6 (ACQ-6)
 
 The ACQ-6, a 6-item questionnaire completed by the subject, was developed to measure the adequacy of asthma control and change in asthma control.
 The on-treatment ACQ-6 responder rate during Weeks 48 to 52 (defined as a decrease in score of 0.5 or more compared with baseline) was 22% for 300 mg of NUCALA and 16% for placebo (OR 1.56; 95% CI: 0.63, 3.88 for 300 mg of NUCALA compared with placebo).
+
+## 14.3 Hypereosinophilic Syndrome
+
+A total of 108 adult and adolescent patients aged 12 years and older with HES for at least 6 months were evaluated in a randomized, double-blind, placebo-controlled, multicenter, 32-week trial (NCT #02836496).
+Patients with non-hematologic secondary HES (e.g., drug hypersensitivity, parasitic helminth infection, HIV infection, non-hematologic malignancy) or FIP1L1-PDGFRα kinase-positive HES were excluded from the trial.
+Patients received 300 mg of NUCALA or placebo subcutaneously once every 4 weeks while continuing their stable HES therapy.
+Patients entering the trial had experienced at least 2 HES flares within the past 12 months and a blood eosinophil count of 1,000 cells/mcL or higher during screening.
+Historical HES flares for the trial entry criteria were defined as HES-related worsening of clinical symptoms or blood eosinophil counts requiring an escalation in therapy.
+Patients must have been on stable HES therapy for the 4 weeks prior to randomization.
+HES therapy could include chronic or episodic oral corticosteroids (OCS), immunosuppressive, or cytotoxic therapy.
+
+The efficacy of NUCALA in HES was established based upon the proportion of patients who experienced a HES flare during the 32-week treatment period.
+A HES flare was defined as worsening of clinical signs and symptoms of HES or increasing eosinophils (on at least 2 occasions), resulting in the need to increase OCS or increase/add cytotoxic or immunosuppressive HES therapy.
+
+The demographics and baseline characteristics of patients in this trial are provided in Table 8.
+
+Table 8.
+Demographics and Baseline Characteristics in HES
+
+|  | N = 108 |
+| --- | --- |
+| Mean age, y, SD | 46.0 (15.78) |
+| Female, n (%) | 57 (53) |
+| White, n (%) | 100 (93) |
+| Mean duration of HES, y | 5.55 |
+| HES = hypereosinophilic syndrome, SD = standard deviation. |  |
+
+Flares
+
+The trial compared the proportion of patients who experienced a HES flare or withdrew from the trial in the NUCALA and placebo treatment groups (Table 9).
+Over the 32-week treatment period, the incidence of HES flare over the treatment period was 56% for the placebo group and 28% for the group treated with NUCALA (50% reduction).
+
+Table 9.
+Overview of HES Flares
+
+|  | Number (%) of Patients |  |  |  |
+| --- | --- | --- | --- | --- |
+| Placebon = 54 | NUCALA300 mgn = 54 |  |  |  |
+| Patients with ≥1 HES flare or who withdrew from trial | 30 (56) | 15 (28) |  |  |
+| Patients with ≥1 HES flare | 28 (52) | 14 (26) |  |  |
+| Patients with no HES flare who withdrew from trial | 2 (4) | 1 (2) |  |  |
+| Comparison: NUCALA/placeboa |  |  |  |  |
+| CMH P value |  | 0.002 |  |  |
+| Odds ratiob |  | 0.28 |  |  |
+| 95% CI |  | (0.12, 0.64) |  |  |
+| a Analysis compared the number of patients who experienced ≥1 HES flare and/or withdrew from the trial prematurely. |  |  |  |  |
+| b An odds ratio <1 favors NUCALA. |  |  |  |  |
+| HES = hypereosinophilic syndrome, CMH = Cochran-Mantel-Haenszel. |  |  |  |  |
+
+Time to First Flare
+
+Difference was observed between NUCALA and placebo arms in the time to first HES flare (Figure 3).
+The risk of first HES flare over the treatment period was 66 % lower for patients treated with NUCALA compared with placebo (Hazard Ratio: 0.34; 95 % CI 0.18, 0.67, P = 0.002).
+
+Proportion of Patients Who Experienced Flares during Week 20 through Week 32
+
+From Week 20 through Week 32, significantly fewer patients experienced a HES flare or withdrew from the trial when treated with 300 mg of NUCALA compared with placebo (17% vs. 35%, respectively, P = 0.020; OR: 0.33; 95 % CI: 0.13, 0.85).
+
+Rate of Flares
+
+Patients who received NUCALA experienced significantly fewer HES flares during the 32-week treatment period compared with the placebo group (Table 10).
+Treatment with NUCALA resulted in a statistically significant 66% reduction in the annualized rate of HES flares compared with placebo.
+
+Table 10.
+Frequency of Flares
+
+|  | Number (%) of Patients |  |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| Placebon = 54 | NUCALA300 mgn = 54 |  |  |  |  |  |  |
+| 0 | 26 (48) | 40 (74) |  |  |  |  |  |
+| 1 | 15 (28) | 11 (20) |  |  |  |  |  |
+| 2 | 7 (13) | 3 (6) |  |  |  |  |  |
+| 3 | 5 (9) | 0 |  |  |  |  |  |
+| 4 | 1 (2) | 0 |  |  |  |  |  |
+| ≥5 | 0 | 0 |  |  |  |  |  |
+| Comparison: NUCALA/placebo |  |  |  |  |  |  |  |
+| Wilcoxon P value (unadjusted/adjusted)a |  | 0.002/0.02 |  |  |  |  |  |
+| Rate/year | 1.46 | 0.50 |  |  |  |  |  |
+| Rate ratiob |  | 0.34 |  |  |  |  |  |
+| 95% CI |  | (0.19, 0.63) |  |  |  |  |  |
+| a Adjusted P values based on pre-specified hierarchy of endpoints. |  |  |  |  |  |  |  |
+| b A rate ratio <1 favors NUCALA. |  |  |  |  |  |  |  |
+
+Brief Fatigue Inventory
+
+Brief Fatigue Inventory (BFI) Item 3 asks subjects to record their worst level of weariness/tiredness severity during the past 24 hours (scale: 0 = no fatigue to 10 = as bad as you can imagine).
+At baseline, median BFI Item 3 scores were similar between treatment groups (4.46 for NUCALA 300 mg and 4.69 for placebo).
+At Week 32, BFI Item 3 scores improved with NUCALA compared with placebo (P = 0.036).
+The median change from baseline score for BFI Item 3 at Week 32 was -0.66 in the group treated with NUCALA and 0.32 in the placebo group.

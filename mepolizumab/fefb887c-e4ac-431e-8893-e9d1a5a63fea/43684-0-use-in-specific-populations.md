@@ -11,7 +11,7 @@ Risk Summary
 
 The data on pregnancy exposure are insufficient to inform on drug-associated risk.
 Monoclonal antibodies, such as mepolizumab, are transported across the placenta in a linear fashion as pregnancy progresses; therefore, potential effects on a fetus are likely to be greater during the second and third trimester of pregnancy.
-In a prenatal and postnatal development study conducted in cynomolgus monkeys, there was no evidence of fetal harm with IV administration of mepolizumab throughout pregnancy at doses that produced exposures up to approximately 9 times the exposure at the maximum recommended human dose (MRHD) of 300 mg SC (see Data).
+In a prenatal and postnatal development study conducted in cynomolgus monkeys, there was no evidence of fetal harm with IV administration of mepolizumab throughout pregnancy at doses that produced exposures up to approximately 9 times the exposure at the maximum recommended human dose (MRHD) of 300 mg subcutaneous (see Data).
 
 In the U.S. general population, the estimated background risk of major birth defects and miscarriage in clinically recognized pregnancies is 2% to 4% and 15% to 20%, respectively.
 
@@ -51,16 +51,16 @@ The safety and efficacy of NUCALA for severe asthma, and with an eosinophilic ph
 Use of NUCALA in adolescents aged 12 to 17 years is supported by evidence from adequate and well-controlled trials in adults and adolescents.
 A total of 28 adolescents aged 12 to 17 years with severe asthma were enrolled in the Phase 3 asthma trials.
 Of these, 25 were enrolled in the 32-week exacerbation trial (Trial 2, NCT #01691521) and had a mean age of 14.8 years.
-Subjects had a history of 2 or more exacerbations in the previous year despite regular use of medium- or high-dose ICS plus additional controller(s) with or without OCS and had blood eosinophils of ≥150 cells/mcL at screening or ≥300 cells/mcL within 12 months prior to enrollment.
+Patients had a history of 2 or more exacerbations in the previous year despite regular use of medium- or high-dose ICS plus additional controller(s) with or without OCS and had blood eosinophils of ≥150 cells/mcL at screening or ≥300 cells/mcL within 12 months prior to enrollment.
 [See Clinical Studies (14.1).]
-Subjects had a reduction in the rate of exacerbations that trended in favor of mepolizumab.
-Of the 19 adolescents who received mepolizumab, 9 received 100 mg and the mean apparent clearance in these subjects was 35% less than that of adults.
+Patients had a reduction in the rate of exacerbations that trended in favor of NUCALA.
+Of the 19 adolescents who received NUCALA, 9 received 100 mg and the mean apparent clearance in these patients was 35% less than that of adults.
 The safety profile observed in adolescents was generally similar to that of the overall population in the Phase 3 studies [see Adverse Reactions (6.1)].
 
 Use of NUCALA in children aged 6 to 11 years with severe asthma, and with an eosinophilic phenotype, is supported by evidence from adequate and well-controlled trials in adults and adolescents with additional pharmacokinetic, pharmacodynamic, and safety data in children aged 6 to 11 years.
 A single, open-label clinical trial (NCT #02377427) was conducted in 36 children aged 6 to 11 years (mean age: 8.6 years, 31% female) with severe asthma.
 Enrollment criteria were the same as for adolescents in the 32-week exacerbation trial (Trial 2).
-Based upon the pharmacokinetic data from this trial, a dose of 40 mg SC every 4 weeks was determined to have similar exposure to adults and adolescents administered a dose of 100 mg SC [see Clinical Pharmacology (12.3)].
+Based upon the pharmacokinetic data from this trial, a dose of 40 mg subcutaneous every 4 weeks was determined to have similar exposure to adults and adolescents administered a dose of 100 mg subcutaneous [see Clinical Pharmacology (12.3)].
 
 The efficacy of NUCALA in children aged 6 to 11 years is extrapolated from efficacy in adults and adolescents with support from pharmacokinetic analyses showing similar drug exposure levels for 40 mg administered subcutaneously every 4 weeks in children aged 6 to 11 years compared with adults and adolescents [see Clinical Pharmacology (12.3)].
 The safety profile and pharmacodynamic response observed in this trial for children aged 6 to 11 years were similar to that seen in adults and adolescents [see Adverse Reactions (6.1), Clinical Pharmacology (12.2)].
@@ -71,9 +71,19 @@ Eosinophilic Granulomatosis with Polyangiitis
 
 The safety and efficacy in patients aged younger than 18 years with EGPA have not been established.
 
+Hypereosinophilic Syndrome
+
+The safety and effectiveness of NUCALA for HES have been established in adolescent patients aged 12 years and older.
+The safety and effectiveness in pediatric patients aged younger than 12 years with HES have not been established.
+
+Use of NUCALA for this indication is supported by evidence from an adequate and well controlled study (NCT #02836496) in adults and adolescents and an open-label extension study (NCT #03306043).
+One adolescent received NUCALA during the controlled study and this patient and an additional three adolescents received NUCALA during the open-label extension study [see Clinical Studies (14.3)].
+The one adolescent treated with NUCALA in the 32-week trial did not have a HES flare or an adverse event reported.
+All adolescents received 300 mg of NUCALA for 20 weeks in the open-label extension.
+
 ## 8.5 Geriatric Use
 
-Clinical trials of NUCALA did not include sufficient numbers of subjects aged 65 years and older that received NUCALA (n = 46) to determine whether they respond differently from younger subjects.
+Clinical trials of NUCALA did not include sufficient numbers of subjects aged 65 years and older that received NUCALA (n = 50) to determine whether they respond differently from younger subjects.
 Other reported clinical experience has not identified differences in responses between the elderly and younger patients.
 In general, dose selection for an elderly patient should be cautious, usually starting at the low end of the dosing range, reflecting the greater frequency of decreased hepatic, renal, or cardiac function and of concomitant disease or other drug therapy.
 Based on available data, no adjustment of the dosage of NUCALA in geriatric patients is necessary, but greater sensitivity in some older individuals cannot be ruled out.

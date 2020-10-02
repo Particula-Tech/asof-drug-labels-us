@@ -2,7 +2,7 @@
 
 NUCALA for Injection
 
-NUCALA (mepolizumab) for injection is a sterile, preservative-free, white to off-white, lyophilized powder for reconstitution and SC injection in a single-dose glass vial with a flip-off seal.
+NUCALA (mepolizumab) for injection is a sterile, preservative-free, white to off-white, lyophilized powder for reconstitution and subcutaneous injection in a single-dose glass vial with a flip-off seal.
 The vial stopper is not made with natural rubber latex.
 
 NUCALA for injection is supplied as:
@@ -15,7 +15,7 @@ Store in the original carton to protect from light.
 
 NUCALA Injection
 
-NUCALA (mepolizumab) injection is a sterile, preservative-free, clear to opalescent, colorless to pale yellow to pale brown solution for SC use.
+NUCALA (mepolizumab) injection is a sterile, preservative-free, clear to opalescent, colorless to pale yellow to pale brown solution for subcutaneous use.
 Each single-dose prefilled autoinjector or single-dose prefilled syringe is designed to deliver 100 mg of mepolizumab in 1 mL of solution.
 The autoinjectors and syringes are not made with natural rubber latex.
 
