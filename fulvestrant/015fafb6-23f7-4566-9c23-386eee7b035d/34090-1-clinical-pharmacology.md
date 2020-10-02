@@ -9,7 +9,7 @@ In vitro studies demonstrated that fulvestrant is a reversible inhibitor of the 
 In in vivo tumor studies, fulvestrant delayed the establishment of tumors from xenografts of human breast cancer MCF-7 cells in nude mice.
 Fulvestrant inhibited the growth of established MCF-7 xenografts and of tamoxifen-resistant breast tumor xenografts.
 
-Fulvestrant showed no agonist-type effects in in vivo uterotropic assays in immature or ovariectomized mice and rats.
+Fulvestrant showed no agonist-type effects in in vivo uterotrophic assays in immature or ovariectomized mice and rats.
 In in vivo studies in immature rats and ovariectomized monkeys, fulvestrant blocked the uterotrophic action of estradiol.
 In postmenopausal women, the absence of changes in plasma concentrations of FSH and LH in response to fulvestrant treatment (250 mg monthly) suggests no peripheral steroidal effects.
 
@@ -21,7 +21,7 @@ These effects on the ER pathway were also associated with a decrease in Ki67 lab
 
 ## 12.3 Pharmacokinetics
 
-Absorption:
+Absorption
 
 The single dose and multiple dose PK parameters for the 500 mg dosing regimen with an additional dose (AD) at Day 15 are reported in Table 11.
 The additional dose of Fulvestrant Injection given two weeks after the initial dose allows for steady state concentrations to be reached within the first month of dosing.
@@ -35,14 +35,14 @@ Table 11: Summary of Fulvestrant Pharmacokinetic Parameters [gMean (CV%)] in Pos
 | 1 Additional 500 mg dose given on Day 15 |  |  |  |  |
 | 2 Month 3 |  |  |  |  |
 
-Distribution:
+Distribution
 
 The apparent volume of distribution at steady state is approximately 3 to 5 L/kg.
 This suggests that distribution is largely extravascular.
 Fulvestrant is highly (99%) bound to plasma proteins; VLDL, LDL and HDL lipoprotein fractions appear to be the major binding components.
 The role of sex hormone-binding globulin, if any, could not be determined.
 
-Metabolism:
+Metabolism
 
 Biotransformation and disposition of fulvestrant in humans have been determined following intramuscular and intravenous administration of 14C-labeled fulvestrant.
 Metabolism of fulvestrant appears to involve combinations of a number of possible biotransformation pathways analogous to those of endogenous steroids, including oxidation, aromatic hydroxylation, conjugation with glucuronic acid and/or sulphate at the 2, 3 and 17 positions of the steroid nucleus, and oxidation of the side chain sulphoxide.
@@ -50,30 +50,30 @@ Identified metabolites are either less active or exhibit similar activity to ful
 
 Studies using human liver preparations and recombinant human enzymes indicate that cytochrome P-450 3A4 (CYP 3A4) is the only P-450 isoenzyme involved in the oxidation of fulvestrant; however, the relative contribution of P-450 and non-P-450 routes in vivo is unknown.
 
-Excretion:
+Excretion
 
 Fulvestrant was rapidly cleared by the hepatobiliary route with excretion primarily via the feces (approximately 90%).
 Renal elimination was negligible (less than 1%).
 After an intramuscular injection of 250 mg, the clearance (Mean ± SD) was 690 ± 226 mL/min with an apparent half-life about 40 days.
 
-Special Populations:
+Special Populations
 
-Geriatric:
+Geriatric
 
 In patients with breast cancer, there was no difference in fulvestrant pharmacokinetic profile related to age (range 33 to 89 years).
 
-Gender:
+Gender
 
 Following administration of a single intravenous dose, there were no pharmacokinetic differences between men and women or between premenopausal and postmenopausal women.
 Similarly, there were no differences between men and postmenopausal women after intramuscular administration.
 
-Race:
+Race
 
 In the advanced breast cancer treatment trials, the potential for pharmacokinetic differences due to race have been evaluated in 294 women including 87.4% Caucasian, 7.8% Black, and 4.4% Hispanic.
 No differences in fulvestrant plasma pharmacokinetics were observed among these groups.
 In a separate trial, pharmacokinetic data from postmenopausal ethnic Japanese women were similar to those obtained in non-Japanese patients.
 
-Drug-Drug Interactions:
+Drug-Drug Interactions
 
 There are no known drug-drug interactions.
 Fulvestrant does not significantly inhibit any of the major CYP isoenzymes, including CYP 1A2, 2C9, 2C19, 2D6, and 3A4 in vitro, and studies of co-administration of fulvestrant with midazolam indicate that therapeutic doses of fulvestrant have no inhibitory effects on CYP 3A4 or alter blood levels of drug metabolized by that enzyme.

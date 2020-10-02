@@ -28,7 +28,7 @@ Pre/perimenopausal women treated with the combination of Fulvestrant Injection p
 
 Monotherapy
 
-Hepatic Impairment:
+Hepatic Impairment
 
 A dose of 250 mg is recommended for patients with moderate hepatic impairment (Child-Pugh class B) to be administered intramuscularly into the buttock (gluteal area) slowly (1 - 2 minutes) as one 5 mL injection on Days 1, 15, 29 and once monthly thereafter.
 

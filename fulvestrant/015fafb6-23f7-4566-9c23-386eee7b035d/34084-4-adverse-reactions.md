@@ -379,6 +379,9 @@ Table 10: Laboratory Abnormalities Occurring in ≥10% of Patients in MONALEESA-
 
 ## 6.2 Postmarketing Experience
 
+The following adverse reactions have been identified during post-approval use of Fulvestrant Injection.
+Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
+
 For Fulvestrant Injection 250 mg, other adverse reactions reported as drug-related and seen infrequently (<1%) include thromboembolic phenomena, myalgia, vertigo, leukopenia, and hypersensitivity reactions including angioedema and urticaria.
 
 Vaginal bleeding has been reported infrequently (<1%), mainly in patients during the first 6 weeks after changing from existing hormonal therapy to treatment with Fulvestrant Injection.

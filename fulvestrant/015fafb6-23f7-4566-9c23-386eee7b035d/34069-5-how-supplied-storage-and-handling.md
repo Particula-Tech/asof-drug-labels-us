@@ -12,7 +12,7 @@ The 2 x 5 mL single-dose prefilled syringes are presented in a tray with polysty
 Discard each syringe after use.
 If a patient dose requires only one syringe, unused syringe should be stored as directed below.
 
-Storage:
+Storage
 
 REFRIGERATE, 2° to 8°C (36° to 46°F).
 TO PROTECT FROM LIGHT, STORE IN THE ORIGINAL CARTON UNTIL TIME OF USE.
