@@ -1,4 +1,4 @@
-# References
+# REFERENCE
 
 1. 1.Jones CL, et al. Comparisons between oral and intraperitoneal 1,25-dihydroxyvitamin D3 therapy in children treated with peritoneal dialysis.
    Clin Nephrol.
@@ -10,12 +10,12 @@ Pharma Solutions, LLC
 
 St. Petersburg, FL 33716
 
-Distr. by: West-Ward
+Distr. by: Hikma
 
-Pharmaceuticals Corp.
+Pharmaceuticals USA Inc.
 
-Eatontown, NJ 07724
+Berkeley Heights, NJ 07922
 
-10003059/06
+C50000404/01
 
-Revised September 2017
+Revised September 2020

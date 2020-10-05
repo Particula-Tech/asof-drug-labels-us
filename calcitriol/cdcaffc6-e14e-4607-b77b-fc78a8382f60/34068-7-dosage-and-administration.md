@@ -10,7 +10,7 @@ The U.S. RDA for calcium in adults is 800 mg to 1200 mg.
 To ensure that each patient receives an adequate daily intake of calcium, the physician should either prescribe a calcium supplement or instruct the patient in proper dietary measures.
 
 Because of improved calcium absorption from the gastrointestinal tract, some patients on calcitriol may be maintained on a lower calcium intake.
-Patients who tend to develop hypercalcemia may require only low doses of calcium or no supplements at all.
+Patients who tend to develop hypercalcemia may require only low doses of calcium or no supplementation at all.
 
 During the titration period of treatment with calcitriol, serum calcium levels should be checked at least twice weekly.
 When the optimal dosage of calcitriol has been determined, serum calcium levels should be checked every month (or as given below for individual indications).
@@ -19,14 +19,14 @@ Samples for serum calcium estimation should be taken without a tourniquet.
 ## Dialysis Patients
 
 The recommended initial dose of calcitriol is 0.25 mcg/day.
-If a satisfactory response in the biochemical parameters and clinical manifestations of the disease state is not observed, dosage may be increased by 0.25 mcg/day at 4 to 8 week intervals.
+If a satisfactory response in the biochemical parameters and clinical manifestations of the disease state is not observed, dosage may be increased by 0.25 mcg/day at 4 to 8-week intervals.
 During this titration period, serum calcium levels should be obtained at least twice weekly, and if hypercalcemia is noted, the drug should be immediately discontinued until normocalcemia ensues (see PRECAUTIONS: General).
 Phosphorus, magnesium, and alkaline phosphatase should be determined periodically.
 
 Patients with normal or only slightly reduced serum calcium levels may respond to calcitriol doses of 0.25 mcg every other day.
 Most patients undergoing hemodialysis respond to doses between 0.5 and 1 mcg/day.
 
-Oral calcitriol may normalize plasma ionized calcium in some uremic patients, yet fail to suppress parathyroid hyperfunction.
+Oral calcitriol may normalize plasma-ionized calcium in some uremic patients, yet fail to suppress parathyroid hyperfunction.
 In these individuals with autonomous parathyroid hyperfunction, oral calcitriol may be useful to maintain normocalcemia, but has not been shown to be adequate treatment for hyperparathyroidism.
 
 ## Hypoparathyroidism
@@ -38,7 +38,7 @@ Careful consideration should also be given to lowering the dietary calcium intak
 Serum calcium, phosphorus, and 24-hour urinary calcium should be determined periodically.
 
 Most adult patients and pediatric patients age 6 years and older have responded to dosages in the range of 0.5 mcg to 2 mcg daily.
-Pediatric patients in the 1 to 5 year age group with hypoparathyroidism have usually been given 0.25 mcg to 0.75 mcg daily.
+Pediatric patients in the 1 to 5-year age group with hypoparathyroidism have usually been given 0.25 mcg to 0.75 mcg daily.
 The number of treated patients with pseudohypoparathyroidism less than 6 years of age is too small to make dosage recommendations.
 
 Malabsorption is occasionally noted in patients with hypoparathyroidism; hence, larger doses of calcitriol may be needed.

@@ -1,7 +1,7 @@
 # ADVERSE REACTIONS
 
-Since calcitriol is believed to be the active hormone which exerts vitamin D activity in the body, adverse effects are, in general, similar to those encountered with excessive vitamin D intake, ie, hypercalcemia syndrome or calcium intoxication (depending on the severity and duration of hypercalcemia) (see WARNINGS).
-Because of the short biological half-life of calcitriol, pharmacokinetic investigations have shown normalization of elevated serum calcium within a few days of treatment withdrawal, ie, much faster than in treatment with vitamin D3 preparations.
+Since calcitriol is believed to be the active hormone which exerts vitamin D activity in the body, adverse effects are, in general, similar to those encountered with excessive vitamin D intake, i.e., hypercalcemia syndrome or calcium intoxication, depending on the severity and duration of hypercalcemia (see WARNINGS).
+Because of the short biological half-life of calcitriol, pharmacokinetic investigations have shown normalization of elevated serum calcium within a few days of treatment withdrawal, i.e., much faster than in treatment with vitamin D3 preparations.
 
 The early and late signs and symptoms of vitamin D intoxication associated with hypercalcemia include:
 
@@ -16,5 +16,7 @@ In concurrent hypercalcemia and hyperphosphatemia, soft-tissue calcification may
 
 In patients with normal renal function, chronic hypercalcemia may be associated with an increase in serum creatinine (see PRECAUTIONS: General).
 
-Hypersensitivity reactions (pruritus, rash, urticaria, and very rarely severe erythematous skin disorders may occur in susceptible individuals.
+Hypersensitivity reactions (pruritus, rash, urticaria, and very rarely severe erythematous skin disorders) may occur in susceptible individuals.
 One case of erythema multiforme and one case of allergic reaction (swelling of lips and hives all over the body) were confirmed by rechallenge.
+
+To report SUSPECTED ADVERSE REACTIONS, contact Hikma Pharmaceuticals USA Inc. at 1-800-962-8364 or FDA at 1-800-FDA-1088 or www.fda.gov/medwatch.
