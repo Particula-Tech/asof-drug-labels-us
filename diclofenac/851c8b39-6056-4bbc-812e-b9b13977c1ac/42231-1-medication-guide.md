@@ -34,4 +34,4 @@
 
 Manufacturer: Teikoku Seiyaku Co., Ltd., 769-2601 Japan Manufactured for: IBSA Institut Biochimique SA, CH-6903 Lugano, Switzerland Distributed by: IBSA Pharma Inc., Parsippany, NJ 07054 USA
 
-For more information, go to www.ibsagroup.com or call 1-800-587-3513 Issued or Revised: 05/2020
+For more information, go to www.licart.com or call 1-800-587-3513 Issued or Revised: 09/2020
