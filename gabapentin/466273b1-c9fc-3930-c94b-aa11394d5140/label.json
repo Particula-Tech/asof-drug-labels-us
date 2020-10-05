@@ -1,0 +1,26 @@
+{
+  "application_numbers": [
+    "NDA022544"
+  ],
+  "inn": "gabapentin",
+  "labeler": "Almatica Pharma LLC",
+  "package_ndcs": [
+    "52427-803-90",
+    "52427-806-90",
+    "52427-815-99"
+  ],
+  "products": [
+    {
+      "form": "KIT",
+      "generic": "gabapentin",
+      "name": "Gralise"
+    },
+    {
+      "form": "TABLET, FILM COATED",
+      "generic": "gabapentin",
+      "name": "Gralise"
+    }
+  ],
+  "setid": "466273b1-c9fc-3930-c94b-aa11394d5140",
+  "source": "dailymed"
+}
