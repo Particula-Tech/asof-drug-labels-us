@@ -101,6 +101,11 @@ Ankylosing Spondylitis
 Trial AS evaluated 208 patients [see Clinical Studies (14.3)].
 The adverse reactions were similar to those reported in patients with RA, with the exception of the higher incidence of ALT increased, which occurred in 2.9% of SIMPONI ARIA-treated patients compared with none of the placebo-treated patients.
 
+Pediatric Patients with Polyarticular Juvenile Idiopathic Arthritis and Psoriatic Arthritis
+
+Trial pJIA evaluated 127 patients with JIA with active polyarthritis [see Use in Specific Populations (8.4) and Clinical Studies (14.4)].
+The adverse reactions observed were consistent with the established safety profile of SIMPONI ARIA in adult patients with RA and PsA.
+
 ## 6.2 Immunogenicity
 
 As with all therapeutic proteins, there is potential for immunogenicity.
@@ -112,15 +117,15 @@ Using an enzyme immunoassay (EIA) method, antibodies to golimumab were detected 
 
 A drug-tolerant enzyme immunoassay (drug-tolerant EIA) method for detecting antibodies to golimumab was developed and validated.
 This method is approximately 16-fold more sensitive than the original EIA method with less interference from golimumab in serum.
-The incidence of antibodies to golimumab with the drug-tolerant EIA method for Trials RA, PsA and AS was 21%, 19% and 19%, respectively.
-Where tested, approximately one-third were neutralizing.
+Through approximately 6 months, the incidence of antibodies to golimumab with the drug-tolerant EIA method for Trials RA, PsA, AS, and pJIA was 21%, 19%, 19% and 31%, respectively.
+Where tested, approximately one-third to one-half were neutralizing.
 
-Patients with RA, PsA and AS who developed anti-golimumab antibodies generally had lower trough steady-state serum concentrations of golimumab [see Pharmacokinetics (12.3)].
+Patients with RA, PsA, AS and pJIA who developed antibodies to golimumab generally had lower trough steady-state serum concentrations of golimumab [see Clinical Pharmacology (12.3)].
 
 ## 6.3 Postmarketing Experience
 
 The following adverse reactions have been identified during post-approval use of golimumab.
-Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to golimumab exposure.
+Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to golimumab exposure:
 
 General Disorders and Administration Site Conditions: Infusion-related reactions [see Warnings and Precautions (5.11)]
 

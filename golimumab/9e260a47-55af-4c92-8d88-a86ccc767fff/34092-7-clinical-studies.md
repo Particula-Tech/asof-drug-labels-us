@@ -2,7 +2,7 @@
 
 ## 14.1 Rheumatoid Arthritis
 
-The efficacy and safety of SIMPONI ARIA were evaluated in one multicenter, randomized, double-blind, controlled trial (Trial RA) in 592 patients ≥ 18 years of age with moderately to severely active RA despite concurrent MTX therapy and had not previously been treated with a biologic TNF-blocker.
+The efficacy and safety of SIMPONI ARIA were evaluated in one multicenter, randomized, double-blind, controlled trial (Trial RA, NCT00973479) in 592 patients ≥ 18 years of age with moderately to severely active RA despite concurrent MTX therapy and had not previously been treated with a biologic TNF-blocker.
 Patients were diagnosed according to the American College of Rheumatology (ACR) criteria, at least 3 months prior to administration of study agent and were required to have at least 6 swollen and 6 tender joints.
 Patients were randomized to receive either SIMPONI ARIA 2 mg/kg (N=395) or placebo (N=197) over a 30-minute intravenous infusion at Weeks 0, 4 and every 8 weeks thereafter in addition to their weekly maintenance MTX dose (15–25 mg).
 All patients receiving placebo + MTX received SIMPONI ARIA + MTX after Week 24, but the trial remained blinded until all patients had completed 108 weeks of treatment.
@@ -104,7 +104,7 @@ In Trial RA, patients receiving SIMPONI ARIA + MTX demonstrated greater improvem
 
 ## 14.2 Psoriatic Arthritis
 
-The efficacy and safety of SIMPONI ARIA were evaluated in a multicenter, randomized, double-blind, placebo-controlled trial in 480 patients ≥ 18 years of age with active psoriatic arthritis despite NSAID or DMARD therapy (Trial PsA).
+The efficacy and safety of SIMPONI ARIA were evaluated in a multicenter, randomized, double-blind, placebo-controlled trial in 480 patients ≥ 18 years of age with active psoriatic arthritis despite NSAID or DMARD therapy (Trial PsA, NCT02181673).
 Previous treatment with a biologic was not allowed.
 Patients in this trial had a diagnosis of PsA for at least six months and had symptoms of active disease [≥5 swollen joints and ≥5 tender joints and a CRP level of ≥ 0.6 mg/dL].
 Patients were randomized to either receive SIMPONI ARIA 2 mg/kg (N=241) or placebo (N=239) as a 30-minute intravenous infusion at Weeks 0, 4, 12 and 20.
@@ -196,9 +196,13 @@ Other Health Related Outcomes
 General health status was assessed by the 36-item Short Form Health Survey (SF-36).
 In Trial PsA, patients receiving SIMPONI ARIA demonstrated greater improvement from baseline compared with placebo in physical component summary, mental component summary scores and in all 8 domains of the SF-36.
 
+Treatment of Pediatric Patients
+
+The efficacy of SIMPONI ARIA in pediatric patients with PsA is based on the pharmacokinetic exposure and extrapolation of the established efficacy of SIMPONI ARIA in adult PsA patients in Trial PsA [see Use in Specific Populations (8.4), Clinical Pharmacology (12.3), Clinical Studies (14.4)].
+
 ## 14.3 Ankylosing Spondylitis
 
-The efficacy and safety of SIMPONI ARIA were evaluated in a multicenter, randomized, double-blind, placebo-controlled trial (Trial AS) in 208 patients ≥ 18 years of age with active ankylosing spondylitis (AS) and inadequate response or intolerance to NSAIDs.
+The efficacy and safety of SIMPONI ARIA were evaluated in a multicenter, randomized, double-blind, placebo-controlled trial (Trial AS, NCT02186873) in 208 patients ≥ 18 years of age with active ankylosing spondylitis (AS) and inadequate response or intolerance to NSAIDs.
 Patients had a diagnosis of definite AS for at least 3 months according to modified New York criteria.
 Patients had symptoms of active disease [Bath AS Disease Activity Index (BASDAI) ≥ 4, VAS for total back pain of ≥ 4, on scales of 0 to 10 cm (0 to 100 mm), and a hsCRP level of ≥ 0.3 mg/dL (3 mg/L)].
 Patients were randomized to receive either SIMPONI ARIA 2 mg/kg (N=105) or placebo (N=103) as a 30-minute intravenous infusion at Weeks 0, 4 and 12.
@@ -256,3 +260,13 @@ General health status was assessed by the 36-item Short Form Health Survey (SF-3
 In Trial AS, patients receiving SIMPONI ARIA demonstrated greater improvement from baseline compared with placebo in physical component summary and mental component summary scores and in all 8 domains of the SF-36.
 
 SIMPONI ARIA-treated patients showed significant improvement compared with placebo-treated patients in health related quality of life as assessed by the Ankylosing Spondylitis Quality of Life questionnaire (ASQoL).
+
+## 14.4 Polyarticular Juvenile Idiopathic Arthritis (pJIA)
+
+The efficacy of SIMPONI ARIA in pediatric patients with pJIA is based on the pharmacokinetic exposure and extrapolation of the established efficacy of SIMPONI ARIA in RA patients.
+Efficacy of SIMPONI ARIA was also assessed in a multicenter, open-label, single-arm study in 127 children (2 to < 18 years of age) with JIA with active polyarthritis despite treatment with MTX for at least 2 months (Trial pJIA, NCT02277444).
+The polyarticular JIA patient subtypes at study entry included: rheumatoid factor negative (43%), rheumatoid factor positive (35%), enthesitis-related arthritis (9%), oligoarticular extended (6%), juvenile psoriatic arthritis (4%), and systemic JIA without systemic manifestations (3%).
+All patients received SIMPONI ARIA 80 mg/m2 as an intravenous infusion at Week 0, 4, and every 8 weeks through Week 52.
+Patients continued stable doses of MTX weekly through Week 28; after Week 28, changes in MTX dose were permitted.
+Efficacy was assessed as supportive endpoints through Week 52.
+The efficacy was generally consistent with responses in patients with RA.

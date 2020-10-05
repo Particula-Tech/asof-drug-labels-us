@@ -67,13 +67,12 @@ Therefore, prescribers should exercise caution when considering resumption of TN
 
 Malignancies in Pediatric Patients
 
-Malignancies, some fatal, have been reported among children, adolescents, and young adults who received treatment with TNF-blocking agents (initiation of therapy ≤ 18 years of age), of which SIMPONI ARIA is a member.
+Malignancies, some fatal, have been reported among children, adolescents, and young adults who received treatment with TNF-blocking agents (initiation of therapy ≤ 18 years of age), including golimumab.
 Approximately half the cases were lymphomas, including Hodgkin's and non-Hodgkin's lymphoma.
 The other cases represented a variety of malignancies, including rare malignancies that are usually associated with immunosuppression, and malignancies that are not usually observed in children and adolescents.
 The malignancies occurred after a median of 30 months (range 1 to 84 months) after the first dose of TNF-blocker therapy.
 Most of the patients were receiving concomitant immunosuppressants.
-These cases were reported postmarketing and are derived from a variety of sources, including registries and spontaneous postmarketing reports.
-Use of SIMPONI ARIA in patients under 18 years of age has not been established.
+Most cases were reported postmarketing and are derived from a variety of sources, including registries and spontaneous postmarketing reports.
 
 Malignancies in Adult Patients
 
@@ -88,7 +87,7 @@ Rare postmarketing cases of hepatosplenic T-cell lymphoma (HSTCL) have been repo
 This rare type of T-cell lymphoma has a very aggressive disease course and is usually fatal.
 Nearly all of the reported TNF-blocker associated cases have occurred in patients with Crohn's disease or ulcerative colitis.
 The majority were in adolescent and young adult males.
-Almost all these patients had received treatment with azathioprine (AZA) or 6-mercaptopurine (6-MP) concomitantly with a TNF-blocker at or prior to diagnosis.
+Almost all these patients had received treatment with azathioprine (AZA) or 6-mercaptopurine (6–MP) concomitantly with a TNF-blocker at or prior to diagnosis.
 A risk for the development for hepatosplenic T-cell lymphoma in patients treated with TNF-blockers cannot be excluded.
 
 Melanoma and Merkel cell carcinoma have been reported in patients treated with TNF-blocking agents, including SIMPONI ARIA.
@@ -144,9 +143,14 @@ Caution should be exercised when using TNF-blockers, including SIMPONI ARIA, in 
 
 Live Vaccines
 
-Patients treated with SIMPONI ARIA may receive vaccinations, except for live vaccines.
+Avoid live vaccines in patients treated with SIMPONI ARIA.
 In patients receiving anti-TNF therapy, limited data are available on the response to live vaccination, or on the secondary transmission of infection by live vaccines.
 Use of live vaccines could result in clinical infections, including disseminated infections.
+
+Administration of live vaccines to infants exposed to SIMPONI ARIA in utero is not recommended for 6 months following the mother's last SIMPONI ARIA infusion during pregnancy [see Drug Interactions (7.3) and Use in Specific Populations (8.1)].
+
+Whenever possible update immunizations prior to initiation of treatment with SIMPONI ARIA following current immunization guidelines for patients receiving immunosuppressive agents.
+Advise patients to discuss with the physician before seeking any immunizations.
 
 Therapeutic Infectious Agents
 

@@ -20,6 +20,8 @@ The clinical relevance of this information is not known.
 
 ## 12.3 Pharmacokinetics
 
+Golimumab exhibited approximately dose-proportional pharmacokinetics in patients with RA over the dose range of 0.1 to 10.0 mg/kg following a single intravenous dose.
+
 Absorption
 
 Following a single intravenous administration of 2 mg/kg SIMPONI ARIA, a mean Cmax of 44.4 ± 11.3 mcg/mL was observed in patients with RA.
@@ -35,8 +37,6 @@ Elimination
 Following a single intravenous administration of 2 mg/kg SIMPONI ARIA, the systemic clearance of golimumab was estimated to be 6.9 ± 2.0 mL/day/kg in healthy subjects and 7.6 ± 2.0 mL/day/kg in patients with RA.
 The mean terminal half-life was estimated to be 12 ± 3 days in healthy subjects and the mean terminal half-life in RA patients was 14 ± 4 days.
 
-Population PK analysis indicated that concomitant use of MTX, NSAIDs, oral corticosteroids, or sulfasalazine (SSZ) did not significantly influence the clearance of golimumab following IV administration.
-
 Multiple Doses
 
 When 2 mg/kg SIMPONI ARIA was administered intravenously to patients with RA at weeks 0, 4 and every 8 weeks thereafter, serum concentrations reached steady-state by Week 12.
@@ -44,17 +44,28 @@ With concomitant use of MTX, treatment with 2 mg/kg golimumab every 8 weeks resu
 The mean steady-state trough serum concentration in patients with PsA was 0.7 ± 0.6 mcg/mL.
 The mean steady-state trough serum concentration in patients with AS was 0.8 ± 0.6 mcg/mL.
 
-Patients with RA, PsA and AS who developed anti-golimumab antibodies generally had lower trough steady-state serum concentrations of golimumab [see Immunogenicity (6.2)].
+Patients with RA, PsA and AS who developed antibodies to golimumab generally had lower trough steady-state serum concentrations of golimumab [see Adverse Reactions (6.2)].
 
 Specific Populations
 
 No formal study of the effect of renal or hepatic impairment on the PK of golimumab was conducted.
 
-Linearity
-
-Golimumab exhibited approximately dose-proportional pharmacokinetics in patients with RA over the dose range of 0.1 to 10.0 mg/kg following a single intravenous dose.
-
-Effect of Weight on Pharmacokinetics
+Body Weight
 
 Following intravenous administration, patients with higher body weight tended to have slightly higher serum golimumab concentrations than patients with lower body weights when golimumab was administered on a mg/kg (body weight) basis.
-However, based on population PK analysis, there were no clinically relevant differences in golimumab exposure following intravenous administration of 2 mg/kg SIMPONI ARIA in patients across a range of different body weights.
+However, based on population PK analysis, there were no clinically relevant differences in golimumab exposure following intravenous administration of 2 mg/kg SIMPONI ARIA in adult patients across a range of different body weights.
+
+Pediatrics
+
+When 80 mg/m2 SIMPONI ARIA was administered intravenously to patients with JIA with active polyarthritis at weeks 0, 4 and every 8 weeks thereafter, serum concentrations reached steady-state by Week 12.
+With concomitant use of MTX, treatment with 80 mg/m2 SIMPONI ARIA resulted in a mean steady-state trough serum golimumab concentration of approximately 0.5 ± 0.4 mcg/mL and a mean steady-state AUC of 425 ± 125 mcg∙day/mL in patients with JIA with active polyarthritis.
+Overall, the observed steady-state golimumab trough concentrations in patients with JIA with active polyarthritis were within the range of those observed for adult RA and PsA after administration of SIMPONI ARIA.
+
+Consistent with the intravenous data in adult patients with RA, population pharmacokinetic analyses for intravenous SIMPONI ARIA in pJIA revealed that there were no clinically relevant differences in golimumab exposure following intravenous administration of 80 mg/m2 SIMPONI ARIA in pediatric patients across a range of age and different body weights.
+The immune response effect on golimumab clearance in patients with JIA with active polyarthritis was comparable to adults with RA.
+
+Drug Interaction Studies
+
+Specific drug interaction studies have not been conducted with SIMPONI ARIA.
+
+Population PK analysis indicated that concomitant use of MTX, NSAIDs, oral corticosteroids, or sulfasalazine (SSZ) did not significantly influence the clearance of golimumab following IV administration.

@@ -55,8 +55,15 @@ In the pre- and postnatal development study in cynomolgus monkeys in which golim
 
 ## 8.4 Pediatric Use
 
-Safety and effectiveness of SIMPONI ARIA in pediatric patients less than 18 years of age have not been established.
-Malignancies, some fatal, have been reported among children, adolescents, and young adults who received treatment with other TNF-blocking agents [see Warnings and Precautions (5.2)].
+Safety and effectiveness of SIMPONI ARIA for active polyarticular juvenile idiopathic arthritis and PsA have been established in pediatric patients 2 years and older.
+
+Use of SIMPONI ARIA in these age groups is supported by evidence from adequate and well-controlled studies of SIMPONI ARIA in adults with RA and PsA, pharmacokinetic data from adult patients with RA and PsA and pediatric patients with JIA with active polyarthritis, and safety data from a clinical study in 127 pediatric patients 2 to < 18 years of age with JIA with active polyarthritis.
+The observed pre-dose (trough) concentrations are generally comparable between adults with RA and PsA and pediatric patients with JIA with active polyarthritis, and the PK exposure is expected to be comparable between adult PsA and pediatric patients with PsA [see Adverse Reactions (6.1), Clinical Pharmacology (12.3) and Clinical Studies (14.2, 14.4)].
+
+Malignancies, some fatal, have been reported among children, adolescents, and young adults who received treatment with golimumab and other TNF-blocking agents [see Warnings and Precautions (5.2)].
+
+The safety and effectiveness in pediatric patients below the age of 2 years have not been established in pJIA or in PsA.
+The safety and effectiveness of SIMPONI ARIA in pediatric patients with conditions other than pJIA and PsA have not been established.
 
 ## 8.5 Geriatric Use
 

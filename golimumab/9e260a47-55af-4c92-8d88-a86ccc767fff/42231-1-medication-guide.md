@@ -12,8 +12,8 @@
 | Cancer |  |  |  |
 | For children and adults receiving Tumor Necrosis Factor (TNF)-blocker medicines, including SIMPONI ARIA, the chances of getting cancer may increase.There have been cases of unusual cancers in children and teenage patients receiving TNF-blocking agents.People with inflammatory diseases, including rheumatoid arthritis (RA), especially those with very active disease, may be more likely to get lymphoma.Some people receiving TNF-blockers, like SIMPONI ARIA, developed a rare type of cancer called hepatosplenic T-cell lymphoma. This type of cancer often results in death. Most of these people were male teenagers or young men. Also, most people were being treated for Crohn's disease or ulcerative colitis with a TNF blocker and another medicine called azathioprine or 6-mercaptopurine, (6-MP).Some people treated with SIMPONI ARIA developed skin cancer. If any changes in the appearance of your skin or growths on your skin occur during or after your treatment with SIMPONI ARIA, tell your doctor.You should see your doctor periodically for skin examinations, especially if you have a history of skin cancer. |  |  |  |
 | What is SIMPONI ARIA? |  |  |  |
-| SIMPONI ARIA is a prescription medicine called a TNF-blocker. SIMPONI ARIA is used in adults: with the medicine methotrexate (MTX) to treat moderately to severely active RAto treat active psoriatic arthritis (PsA) alone or with MTXto treat active ankylosing spondylitis (AS) |  |  |  |
-| It is not known if SIMPONI ARIA is safe and effective in children under 18 years of age. |  |  |  |
+| SIMPONI ARIA is a prescription medicine called a TNF-blocker. SIMPONI ARIA is used to treat: Adults with the medicine methotrexate (MTX) to treat moderately to severely active RA.Active psoriatic arthritis (PsA) in people 2 years of age and older.Adults with active ankylosing spondylitis (AS). Active polyarticular juvenile idiopathic arthritis (pJIA) in people 2 years of age and older. |  |  |  |
+| It is not known if SIMPONI ARIA is safe and effective in children with PsA and pJIA under 2 years of age or in children with conditions other than PsA and pJIA. |  |  |  |
 | What should I tell my doctor before starting treatment with SIMPONI ARIA? |  |  |  |
 | See "What is the most important information I should know about SIMPONI ARIA?". |  |  |  |
 | Before starting SIMPONI ARIA, tell your doctor about all your medical conditions, including if you: |  |  |  |
@@ -24,9 +24,9 @@
 | Ask your doctor or pharmacist for a list of these medicines if you are not sure. |  |  |  |
 | Keep a list of all your medicines with you to show your doctor and pharmacist each time you get a new medicine. |  |  |  |
 | How should I receive SIMPONI ARIA? |  |  |  |
-| SIMPONI ARIA is prepared and given by a healthcare provider through a needle placed in your vein (infusion). The infusion is usually given in your arm and should take 30 minutes.Your doctor will decide how much SIMPONI ARIA you will receive based on your weight. Your usual schedule for receiving SIMPONI ARIA after your first treatment should be: |  |  |  |
+| SIMPONI ARIA is prepared and given by a healthcare provider through a needle placed in your vein (infusion). The infusion is usually given in your arm and should take 30 minutes.Your doctor will decide how much SIMPONI ARIA you will receive. Your usual schedule for receiving SIMPONI ARIA after your first treatment should be: |  |  |  |
 |  | 4 weeks after your first treatmentevery 8 weeks after that |  |  |
-| If you miss an appointment to receive SIMPONI ARIA, make another appointment as soon as possible.You may continue to use other medicines for your treatment while receiving SIMPONI ARIA, such as non-steroidal anti-inflammatory drugs (NSAIDs), prescription steroids, and pain relief medicines. |  |  |  |
+| If you miss an appointment to receive SIMPONI ARIA, make another appointment as soon as possible. |  |  |  |
 | What are the possible side effects of SIMPONI ARIA? |  |  |  |
 | SIMPONI ARIA can cause serious side effects, including: |  |  |  |
 | See "What is the most important information I should know about SIMPONI ARIA?" Serious Infections. |  |  |  |
@@ -58,6 +58,6 @@
 | What are the ingredients in SIMPONI ARIA? |  |  |  |
 | Active ingredient: golimumab. |  |  |  |
 | Inactive ingredients: L-histidine, L-histidine monohydrochloride monohydrate, polysorbate 80, sorbitol, and water for injection. SIMPONI ARIA is preservative-free and is not made with natural rubber latex. |  |  |  |
-| Manufactured by: Janssen Biotech, Inc. Horsham, PA 19044 US License No. 1864 © 2017 Janssen Pharmaceutical Companies |  |  |  |
+| Manufactured by: Janssen Biotech, Inc. Horsham, PA 19044 US License No. 1864 © 2017, 2020 Janssen Pharmaceutical Companies |  |  |  |
 | For more information go to www.SIMPONIARIA.com or call 1-800-JANSSEN (1-800-526-7736). |  |  |  |
-| This Medication Guide has been approved by the U.S. Food and Drug Administration |  |  | Approved: May 2018 |
+| This Medication Guide has been approved by the U.S. Food and Drug Administration |  |  | Revised: 9/2020 |
