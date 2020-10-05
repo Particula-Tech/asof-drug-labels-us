@@ -13,12 +13,18 @@ Cases of myopathy, including rhabdomyolysis, have been reported with HMG-CoA red
 CRESTOR therapy should be discontinued if markedly elevated creatine kinase levels occur or myopathy is diagnosed or suspected.
 CRESTOR therapy should also be temporarily withheld in any patient with an acute, serious condition suggestive of myopathy or predisposing to the development of renal failure secondary to rhabdomyolysis (e.g., sepsis, hypotension, dehydration, major surgery, trauma, severe metabolic, endocrine, and electrolyte disorders, or uncontrolled seizures).
 
-There have been rare reports of immune-mediated necrotizing myopathy (IMNM), an autoimmune myopathy, associated with statin use.
-IMNM is characterized by: proximal muscle weakness and elevated serum creatine kinase, which persist despite discontinuation of statin treatment; muscle biopsy showing necrotizing myopathy without significant inflammation; improvement with immunosuppressive agents.
-
 All patients should be advised to promptly report to their physician unexplained muscle pain, tenderness, or weakness, particularly if accompanied by malaise or fever or if muscle signs and symptoms persist after discontinuing CRESTOR.
 
-## 5.2 Liver Enzyme Abnormalities
+## 5.2 Immune-Mediated Necrotizing Myopathy
+
+There have been rare reports of immune-mediated necrotizing myopathy (IMNM), an autoimmune myopathy, associated with statin use.
+IMNM is characterized by: proximal muscle weakness and elevated serum creatine kinase, which persist despite discontinuation of statin treatment; positive anti-HMG CoA reductase antibody; muscle biopsy showing necrotizing myopathy; and improvement with immunosuppressive agents.
+Additional neuromuscular and serologic testing may be necessary.
+Treatment with immunosuppressive agents may be required.
+Consider risk of IMNM carefully prior to initiation of a different statin.
+If therapy is initiated with a different statin, monitor for signs and symptoms of IMNM.
+
+## 5.3 Liver Enzyme Abnormalities
 
 It is recommended that liver enzyme tests be performed before the initiation of CRESTOR, and if signs or symptoms of liver injury occur.
 
@@ -36,18 +42,18 @@ If an alternate etiology is not found, do not restart CRESTOR.
 CRESTOR should be used with caution in patients who consume substantial quantities of alcohol and/or have a history of chronic liver disease [see Clinical Pharmacology (12.3)].
 Active liver disease, which may include unexplained persistent transaminase elevations, is a contraindication to the use of CRESTOR [see Contraindications (4)].
 
-## 5.3 Concomitant Coumarin Anticoagulants
+## 5.4 Concomitant Coumarin Anticoagulants
 
 Caution should be exercised when anticoagulants are given in conjunction with CRESTOR because of its potentiation of the effect of coumarin-type anticoagulants in prolonging the prothrombin time/INR.
 In patients taking coumarin anticoagulants and CRESTOR concomitantly, INR should be determined before starting CRESTOR and frequently enough during early therapy to ensure that no significant alteration of INR occurs [see Drug Interactions (7.6)].
 
-## 5.4 Proteinuria and Hematuria
+## 5.5 Proteinuria and Hematuria
 
 In the CRESTOR clinical trial program, dipstick-positive proteinuria and microscopic hematuria were observed among CRESTOR treated patients.
 These findings were more frequent in patients taking CRESTOR 40 mg, when compared to lower doses of CRESTOR or comparator HMG‑CoA reductase inhibitors, though it was generally transient and was not associated with worsening renal function.
 Although the clinical significance of this finding is unknown, a dose reduction should be considered for patients on CRESTOR therapy with unexplained persistent proteinuria and/or hematuria during routine urinalysis testing.
 
-## 5.5 Endocrine Effects
+## 5.6 Endocrine Effects
 
 Increases in HbA1c and fasting serum glucose levels have been reported with HMG‑CoA reductase inhibitors, including CRESTOR.
 Based on clinical trial data with CRESTOR, in some instances these increases may exceed the threshold for the diagnosis of diabetes mellitus [see Adverse Reactions (6.1)].

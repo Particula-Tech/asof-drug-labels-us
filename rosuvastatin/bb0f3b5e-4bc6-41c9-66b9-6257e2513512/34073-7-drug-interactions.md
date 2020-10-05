@@ -40,7 +40,7 @@ If used together, the dose of CRESTOR should not exceed 10 mg once daily [see Do
 
 CRESTOR significantly increased INR in patients receiving coumarin anticoagulants.
 Therefore, caution should be exercised when coumarin anticoagulants are given in conjunction with CRESTOR.
-In patients taking coumarin anticoagulants and CRESTOR concomitantly, INR should be determined before starting CRESTOR and frequently enough during early therapy to ensure that no significant alteration of INR occurs [see Warnings and Precautions (5.3) and Clinical Pharmacology (12.3)].
+In patients taking coumarin anticoagulants and CRESTOR concomitantly, INR should be determined before starting CRESTOR and frequently enough during early therapy to ensure that no significant alteration of INR occurs [see Warnings and Precautions (5.4) and Clinical Pharmacology (12.3)].
 
 ## 7.7 Niacin
 
