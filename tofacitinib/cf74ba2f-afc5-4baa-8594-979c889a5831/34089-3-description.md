@@ -1,6 +1,6 @@
 # 11 DESCRIPTION
 
-XELJANZ/XELJANZ XR (tofacitinib) tablets are formulated with the citrate salt of tofacitinib, a JAK inhibitor.
+XELJANZ/XELJANZ XR (tofacitinib) tablets and XELJANZ (tofacitinib) Oral Solution are formulated with the citrate salt of tofacitinib, a JAK inhibitor.
 
 Tofacitinib citrate is a white to off-white powder with the following chemical name: (3R,4R)-4-methyl-3-(methyl-7H-pyrrolo [2,3-d]pyrimidin-4-ylamino)-ß-oxo-1-piperidinepropanenitrile, 2-hydroxy-1,2,3-propanetricarboxylate (1:1).
 
@@ -22,3 +22,6 @@ Printing ink contains, ammonium hydroxide, ferrosoferric oxide/black iron oxide,
 XELJANZ XR is supplied for oral administration as a 22 mg beige, oval, extended-release film-coated tablet with a drilled hole at one end of the tablet band.
 Each 22 mg tablet of XELJANZ XR contains 22 mg tofacitinib (equivalent to 35.54 mg tofacitinib citrate) and the following inactive ingredients: cellulose acetate, copovidone, FD&C Blue #2 Aluminum Lake, hydroxyethyl cellulose, hydroxypropyl cellulose, HPMC 2910/Hypromellose, magnesium stearate, red iron oxide, sorbitol, titanium dioxide, triacetin, and yellow iron oxide.
 Printing ink contains ammonium hydroxide, ferrosoferric oxide/black iron oxide, propylene glycol, and shellac glaze.
+
+XELJANZ Oral Solution is supplied for oral administration as a 1 mg/mL clear, colorless solution.
+Each 1 mL of XELJANZ Oral Solution contains 1 mg of tofacitinib (equivalent to 1.62 mg tofacitinib citrate) and the following inactive ingredients: grape flavor (natural), hydrochloric acid, lactic acid, purified water, sodium benzoate, sucralose, and xylitol.

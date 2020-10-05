@@ -28,9 +28,9 @@ Total serum immunoglobulins were not assessed in patients with active psoriatic 
 
 ## 12.3 Pharmacokinetics
 
-XELJANZ
+XELJANZ/XELJANZ Oral Solution
 
-Following oral administration of XELJANZ, peak plasma concentrations are reached within 0.5–1 hour, elimination half-life is about 3 hours and a dose-proportional increase in systemic exposure was observed in the therapeutic dose range.
+Following oral administration of XELJANZ/XELJANZ Oral Solution, peak plasma concentrations are reached within 0.5–1 hour, elimination half-life is about 3 hours and a dose-proportional increase in systemic exposure was observed in the therapeutic dose range.
 Steady state concentrations are achieved in 24–48 hours with negligible accumulation after twice daily administration.
 
 XELJANZ XR
@@ -38,7 +38,7 @@ XELJANZ XR
 Following oral administration of XELJANZ XR, peak plasma concentrations are reached at 4 hours and half-life is about 6 to 8 hours.
 Steady state concentrations are achieved within 48 hours with negligible accumulation after once daily administration.
 
-Table 6: Pharmacokinetic Parameters of XELJANZ/ XELJANZ XR Following Multiple Oral Dosing
+Table 7: Pharmacokinetic Parameters of XELJANZ/ XELJANZ XR Following Multiple Oral Dosing
 
 | Dosing Regimen | 5 mg Twice Daily | 10 mg Twice Daily | 11 mg Once Daily | 22 mg Once Daily |
 | --- | --- | --- | --- | --- |
@@ -78,10 +78,9 @@ The pharmacologic activity of tofacitinib is attributed to the parent molecule.
 Pharmacokinetics in Patient Populations
 
 Population pharmacokinetic analyses indicated that pharmacokinetic characteristics were similar between patients with rheumatoid arthritis, psoriatic arthritis, and UC.
-The coefficient of variation (%) in AUC of tofacitinib were generally similar across different disease patients, ranging from 22% to 34% (Table 7).
+The coefficient of variation (%) in AUC of tofacitinib were generally similar across different disease patients, ranging from 22% to 34% (Table 8).
 
-Table 7.
-XELJANZ Exposure in Patient Populations at 5 mg Twice Daily and 10 mg Twice Daily Doses
+Table 8: XELJANZ Exposure in Patient Populations at 5 mg Twice Daily and 10 mg Twice Daily Doses
 
 | Rheumatoid Arthritis | Psoriatic Arthritis | Ulcerative Colitis | Ulcerative Colitis |  |
 | --- | --- | --- | --- | --- |
@@ -91,24 +90,26 @@ XELJANZ Exposure in Patient Populations at 5 mg Twice Daily and 10 mg Twice Dail
 
 Specific Populations
 
-Covariate evaluation as part of population PK analyses in patient populations indicated no clinically relevant change in tofacitinib exposure, after accounting for differences in renal function (i.e., creatinine clearance) between patients, based on age, weight, gender and race (Figure 1).
+Covariate evaluation as part of population PK analyses in adult patient populations indicated no clinically relevant change in tofacitinib exposure, after accounting for differences in renal function (i.e., creatinine clearance) between patients, based on age, weight, gender and race (Figure 1).
 An approximately linear relationship between body weight and volume of distribution was observed, resulting in higher peak (Cmax) and lower trough (Cmin) concentrations in lighter patients.
 However, this difference is not considered to be clinically relevant.
 
+Covariate evaluation as part of population PK analyses in pcJIA patients identified body weight significantly impacting tofacitinib exposure, which supports weight-based dosing in this population.
+No additional dose adjustment is needed based on age, gender, race, or disease severity in pcJIA patients.
+
 The effect of renal and hepatic impairment and other intrinsic factors on the pharmacokinetics of tofacitinib is shown in Figure 1.
 
-Figure 1: Impact of Intrinsic Factors on Tofacitinib Pharmacokinetics
-
-Note: Reference values for weight, age, gender, and race comparisons are 70 kg, 55 years, male, and white, respectively; reference groups for renal and hepatic impairment data are subjects with normal renal and hepatic function.
-
-a [see Dosage and Administration (2.2, 2.3)] for dosage adjustment in RA, PsA, and UC patients.
+| Figure 1: Impact of Intrinsic Factors on Tofacitinib Pharmacokinetics |
+| --- |
+| Note: Reference values for weight, age, gender, and race comparisons are 70 kg, 55 years, male, and white, respectively; reference groups for renal and hepatic impairment data are subjects with normal renal and hepatic function. |
+| a Refer to Dosage and Administration (2.2, 2.3, 2.4) for dosage adjustment in RA, PsA, UC, and pcJIA patients. |
 
 In subjects with ESRD maintained on hemodialysis, mean AUC was approximately 40% higher compared with historical healthy subject data, consistent with approximately 30% contribution of renal clearance to the total clearance of tofacitinib.
-Dose adjustment is recommended in ESRD patients maintained on hemodialysis ([see Dosage and Administration (2.2, 2.3)] for dosage adjustment in RA, PsA, and UC patients).
+Dose adjustment is recommended in RA, PsA, UC, and pcJIA patients with ESRD maintained on hemodialysis [see Dosage and Administration (2.2, 2.3, 2.4)].
 
 Drug Interaction Studies
 
-Potential for XELJANZ/XELJANZ XR to Influence the PK of Other Drugs
+Potential for XELJANZ/XELJANZ XR/XELJANZ Oral Solution to Influence the PK of Other Drugs
 
 In vitro studies indicate that tofacitinib does not significantly inhibit or induce the activity of the major human drug-metabolizing CYPs (CYP1A2, CYP2B6, CYP2C8, CYP2C9, CYP2C19, CYP2D6, and CYP3A4) at concentrations corresponding to the steady state Cmax of a 10 mg twice daily dose.
 These in vitro results were confirmed by a human drug interaction study showing no changes in the pharmacokinetics of midazolam, a highly sensitive CYP3A4 substrate, when coadministered with XELJANZ.
@@ -120,17 +121,18 @@ Therefore, coadministration with XELJANZ/XELJANZ XR is not expected to result in
 
 In vitro data indicate that the potential for tofacitinib to inhibit transporters such as P-glycoprotein, organic anionic or cationic transporters at therapeutic concentrations is low.
 
-Dosing recommendations for coadministered drugs following administration with XELJANZ/XELJANZ XR are shown in Figure 2.
+Dosing recommendations for coadministered drugs following administration with XELJANZ/XELJANZ XR/XELJANZ Oral Solution are shown in Figure 2.
 
-Figure 2: Impact of Tofacitinib on the Pharmacokinetics of Other Drugs
-
-Note: Reference group is administration of concomitant medication alone; OCT = Organic Cationic Transporter; MATE = Multidrug and Toxic Compound Extrusion
+| Figure 2: Impact of Tofacitinib on the Pharmacokinetics of Other Drugs |
+| --- |
+| Note: Reference group is administration of concomitant medication alone; OCT = Organic Cationic Transporter; MATE = Multidrug and Toxic Compound Extrusion. |
 
 Potential for Other Drugs to Influence the Pharmacokinetics of Tofacitinib
 
 Since tofacitinib is metabolized by CYP3A4, interaction with drugs that inhibit or induce CYP3A4 is likely.
 Inhibitors of CYP2C19 alone or P-glycoprotein are unlikely to substantially alter the pharmacokinetics of tofacitinib (see Figure 3).
 
-Figure 3: Impact of Other Drugs on the Pharmacokinetics of Tofacitinib
-
-Note: Reference group is administration of tofacitinib alone. a [see Dosage and Administration (2.2, 2.3), Drug Interactions (7)].
+| Figure 3: Impact of Other Drugs on the Pharmacokinetics of Tofacitinib |
+| --- |
+| Note: Reference group is administration of tofacitinib alone. |
+| a [see Dosage and Administration (2.2, 2.3, 2.4), Drug Interactions (7)]. |

@@ -1,7 +1,8 @@
 {
   "application_numbers": [
     "NDA203214",
-    "NDA208246"
+    "NDA208246",
+    "NDA213082"
   ],
   "inn": "tofacitinib",
   "labeler": "Pfizer Laboratories Div Pfizer Inc",
@@ -13,9 +14,16 @@
     "0069-1001-03",
     "0069-1002-01",
     "0069-1002-02",
-    "0069-1002-03"
+    "0069-1002-03",
+    "0069-1029-01",
+    "0069-1029-02"
   ],
   "products": [
+    {
+      "form": "SOLUTION",
+      "generic": "tofacitinib",
+      "name": "XELJANZ"
+    },
     {
       "form": "TABLET, FILM COATED",
       "generic": "tofacitinib",

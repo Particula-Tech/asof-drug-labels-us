@@ -1,18 +1,18 @@
 # 8 USE IN SPECIFIC POPULATIONS
 
-All information provided in this section is applicable to XELJANZ and XELJANZ XR as they contain the same active ingredient (tofacitinib).
+All information provided in this section is applicable to XELJANZ/XELJANZ XR/XELJANZ Oral Solution as they contain the same active ingredient (tofacitinib).
 
 ## 8.1 Pregnancy
 
 Pregnancy Exposure Registry
 
-There is a pregnancy exposure registry that monitors pregnancy outcomes in women exposed to XELJANZ/XELJANZ XR during pregnancy.
-Patients should be encouraged to enroll in the XELJANZ/XELJANZ XR pregnancy registry if they become pregnant.
+There is a pregnancy exposure registry that monitors pregnancy outcomes in women exposed to XELJANZ/XELJANZ XR/XELJANZ Oral Solution during pregnancy.
+Patients should be encouraged to enroll in the XELJANZ/XELJANZ XR/XELJANZ Oral Solution pregnancy registry if they become pregnant.
 To enroll or obtain information from the registry, patients can call the toll free number 1-877-311-8972.
 
 Risk Summary
 
-Available data with XELJANZ/XELJANZ XR use in pregnant women are insufficient to establish a drug associated risk of major birth defects, miscarriage or adverse maternal or fetal outcomes.
+Available data with XELJANZ/XELJANZ XR/XELJANZ Oral Solution use in pregnant women are insufficient to establish a drug associated risk of major birth defects, miscarriage or adverse maternal or fetal outcomes.
 There are risks to the mother and the fetus associated with rheumatoid arthritis and UC in pregnancy (see Clinical Considerations).
 In animal reproduction studies, fetocidal and teratogenic effects were noted when pregnant rats and rabbits received tofacitinib during the period of organogenesis at exposures multiples of 73-times and 6.3-times the maximum recommended dose of 10 mg twice daily, respectively.
 Further, in a peri- and post-natal study in rats, tofacitinib resulted in reductions in live litter size, postnatal survival, and pup body weights at exposure multiples of approximately 73-times the recommended dose of 5 mg twice daily and approximately 36 times the maximum recommended dose of 10 mg twice daily, respectively (see Data).
@@ -53,7 +53,7 @@ Risk Summary
 There are no data on the presence of tofacitinib in human milk, the effects on a breastfed infant, or the effects on milk production.
 Tofacitinib is present in the milk of lactating rats (see Data).
 When a drug is present in animal milk, it is likely that the drug will be present in human milk.
-Given the serious adverse reactions seen in adults treated with XELJANZ/XELJANZ XR, such as increased risk of serious infections, advise patients that breastfeeding is not recommended during treatment and for at least 18 hours after the last dose of XELJANZ or 36 hours after the last dose of XELJANZ XR (approximately 6 elimination half-lives).
+Given the serious adverse reactions seen in patients treated with XELJANZ/XELJANZ XR/XELJANZ Oral Solution, such as increased risk of serious infections, advise patients that breastfeeding is not recommended during treatment and for at least 18 hours after the last dose of XELJANZ/XELJANZ Oral Solution or 36 hours after the last dose of XELJANZ XR (approximately 6 elimination half-lives).
 
 Data
 
@@ -73,12 +73,20 @@ Infertility
 
 Females
 
-Based on findings in rats, treatment with XELJANZ/XELJANZ XR may result in reduced fertility in females of reproductive potential.
+Based on findings in rats, treatment with XELJANZ/XELJANZ XR/XELJANZ Oral Solution may result in reduced fertility in females of reproductive potential.
 It is not known if this effect is reversible [see Nonclinical Toxicology (13.1)].
 
 ## 8.4 Pediatric Use
 
-The safety and effectiveness of XELJANZ/XELJANZ XR in pediatric patients have not been established.
+The safety and effectiveness of XELJANZ/XELJANZ Oral Solution for the treatment of active pcJIA have been established in patients 2 years to 17 years of age.
+Use of XELJANZ/XELJANZ Oral Solution for the treatment of pediatric patients with active pcJIA in this age group is supported by evidence from adequate and well-controlled studies of XELJANZ in adult RA patients with additional data from a clinical trial of XELJANZ/XELJANZ Oral Solution in pediatric patients (2 years to 17 years of age) with active pcJIA consisting of an 18-week, open label, run-in period followed by a 26-week placebo-controlled, randomized withdrawal period [see Clinical Studies (14.4)].
+The safety and effectiveness of XELJANZ/XELJANZ Oral Solution have not been established in pcJIA patients less than 2 years of age.
+
+Adverse reactions observed in pediatric patients receiving XELJANZ/XELJANZ Oral Solution were consistent with those reported in RA patients [see Adverse Reactions (6.1)].
+
+Safety and efficacy of XELJANZ/XELJANZ Oral Solution in pediatric patients for indications other than pcJIA have not been established.
+
+The safety and effectiveness of XELJANZ XR in pediatric patients have not been established.
 
 ## 8.5 Geriatric Use
 
@@ -99,7 +107,7 @@ As there is a higher incidence of infection in diabetic population in general, c
 Moderate and Severe Impairment
 
 XELJANZ-treated patients with moderate or severe renal impairment had greater tofacitinib blood concentrations than XELJANZ-treated patients with normal renal function.
-Therefore, dosage adjustment of XELJANZ/XELJANZ XR is recommended in patients with moderate or severe renal impairment (including but not limited to those with severe insufficiency who are undergoing hemodialysis) [see Dosage and Administration (2.2, 2.3)].
+Therefore, dosage adjustment of XELJANZ/XELJANZ XR/XELJANZ Oral Solution is recommended in patients with moderate or severe renal impairment (including but not limited to those with severe insufficiency who are undergoing hemodialysis) [see Dosage and Administration (2.2, 2.3, 2.4)].
 
 Mild impairment
 
@@ -109,18 +117,18 @@ No dosage adjustment is required in patients with mild renal impairment.
 
 Severe Impairment
 
-XELJANZ/XELJANZ XR has not been studied in patients with severe hepatic impairment; therefore, use of XELJANZ/XELJANZ XR in patients with severe hepatic impairment is not recommended.
+XELJANZ/XELJANZ XR/XELJANZ Oral Solution has not been studied in patients with severe hepatic impairment; therefore, use of XELJANZ/XELJANZ XR/XELJANZ Oral Solution in patients with severe hepatic impairment is not recommended.
 
 Moderate Impairment
 
 XELJANZ-treated patients with moderate hepatic impairment had greater tofacitinib blood concentration than XELJANZ-treated patients with normal hepatic function [see Clinical Pharmacology (12.3)].
 Higher blood concentrations may increase the risk of some adverse reactions.
-Therefore, dosage adjustment of XELJANZ/XELJANZ XR is recommended in patients with moderate hepatic impairment [see Dosage and Administration (2.2, 2.3)].
+Therefore, dosage adjustment of XELJANZ/XELJANZ XR/XELJANZ Oral Solution is recommended in patients with moderate hepatic impairment [see Dosage and Administration (2.2, 2.3, 2.4)].
 
 Mild Impairment
 
-No dosage adjustment of XELJANZ/XELJANZ XR is required in patients with mild hepatic impairment.
+No dosage adjustment of XELJANZ/XELJANZ XR/XELJANZ Oral Solution is required in patients with mild hepatic impairment.
 
 Hepatitis B or C Serology
 
-The safety and efficacy of XELJANZ/XELJANZ XR have not been studied in patients with positive hepatitis B virus or hepatitis C virus serology.
+The safety and efficacy of XELJANZ/XELJANZ XR/XELJANZ Oral Solution have not been studied in patients with positive hepatitis B virus or hepatitis C virus serology.
