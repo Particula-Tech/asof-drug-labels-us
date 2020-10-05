@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "ANDA091215"
+  ],
+  "inn": "emtricitabine",
+  "labeler": "Teva Pharmaceuticals USA, Inc.",
+  "package_ndcs": [
+    "0093-5234-56"
+  ],
+  "products": [
+    {
+      "form": "TABLET, FILM COATED",
+      "generic": "efavirenz, emtricitabine and tenofovir disoproxil fumarate",
+      "name": "Efavirenz, Emtricitabine and Tenofovir Disoproxil Fumarate"
+    }
+  ],
+  "setid": "fc9c2149-8d40-401b-af13-5ae7f953950a",
+  "source": "dailymed"
+}
