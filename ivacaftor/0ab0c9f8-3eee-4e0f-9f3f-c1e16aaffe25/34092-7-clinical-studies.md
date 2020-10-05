@@ -105,12 +105,12 @@ Patients who had persistent Burkholderia cenocepacia, Burkholderia dolosa, or My
 Patients were randomized 1:1 to receive either 150 mg of KALYDECO (n=34) or placebo (n=35) every 12 hours with food containing fat for 24 weeks in addition to their prescribed CF therapies.
 
 The primary efficacy endpoint was improvement in lung function as determined by the mean absolute change from baseline in percent predicted FEV1 through 24 weeks of treatment.
-The treatment difference for absolute change in percent predicted FEV1 through Week 24 was 2.1 percentage points (analysis conducted with the full analysis set which included all 69 patients), and did not reach statistical significance (Table 7).
+The treatment difference for absolute change in percent predicted FEV1 through Week 24 was 2.1 percentage points (analysis conducted with the full analysis set which included all 69 patients) and did not reach statistical significance (Table 7).
 
 Other efficacy variables that were analyzed included absolute change in sweat chloride from baseline through Week 24, improvement in cystic fibrosis respiratory symptoms through Week 24 as assessed by the CFQ-R respiratory domain score (Table 7), absolute change in body mass index (BMI) at Week 24, and time to first pulmonary exacerbation.
 The overall treatment difference for the absolute change from baseline in BMI at Week 24 was 0.3 kg/m2 and the calculated hazard ratio for time to first pulmonary exacerbation was 0.93, which were not statistically significant.
 
-Statistically significant improvements in clinical efficacy (FEV1, CFQ-R respiratory domain) were seen in several subgroup analyses, and decreases in sweat chloride were observed in all subgroups.
+Statistically significant improvements in clinical efficacy (FEV1, CFQ-R respiratory domain) were seen in several subgroup analyses and decreases in sweat chloride were observed in all subgroups.
 The mean baseline sweat chloride for all patients was 70 mmol/L.
 Subgroups analyzed included those based on age, lung function, and poly-T status (Table 7).
 
@@ -161,7 +161,7 @@ Table 8: Effect of KALYDECO for Efficacy Variables
 | By individual splice mutation (n). Results shown as mean (minimum, maximum) for change from study baseline for KALYDECO-treated patients |  |  |  |
 | 2789+5G→A (28) | 5.1 (-7.1, 17.0) | 8.6 (-5.6, 27.8) | 0.4 (-7.5, 8.8) |
 | 3272-26A→G (23) | 3.5 (-9.1, 16.0) | 8.0 (-11.1, 27.8) | -2.3 (-25.0, 11.8) |
-| 3849+10kBc→T (40) | 5.1 (-6.8, 16.2) | 7.5 (-30.6, 55.6) | -4.6 (-80.5, 23.0) |
+| 3849+10kbC→T (40) | 5.1 (-6.8, 16.2) | 7.5 (-30.6, 55.6) | -4.6 (-80.5, 23.0) |
 | 711+3A→G (2) | 9.2 (8.9, 9.6) | -8.3 (-13.9, -2.8) | -9.9 (-13.5, -6.3) |
 | E831X (1) | 7.1 (7.1, 7.1) | 0.0 (0.0, 0.0) | -7.8 (-7.8, -7.8) |
 | Missense mutations (n=62 for IVA and n=63 for PBO) Results shown as difference in mean (95% CI) change from study baseline for KALYDECO vs. placebo-treated patients: |  |  |  |

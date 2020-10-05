@@ -3,11 +3,11 @@
 ## 5.1 Transaminase (ALT or AST) Elevations
 
 Elevated transaminases have been reported in patients with CF receiving KALYDECO.
-It is recommended that ALT and AST be assessed prior to initiating KALYDECO, every 3 months during the first year of treatment, and annually thereafter.
-For patients with a history of transaminase elevations, more frequent monitoring of liver function tests should be considered.
+ALT and AST should be assessed prior to initiating KALYDECO, every 3 months during the first year of treatment, and annually thereafter.
+For patients with a history of transaminase elevations, consider more frequent monitoring of liver function tests.
 Patients who develop increased transaminase levels should be closely monitored until the abnormalities resolve.
 Dosing should be interrupted in patients with ALT or AST of greater than 5 times the upper limit of normal (ULN).
-Following resolution of transaminase elevations, consider the benefits and risks of resuming KALYDECO dosing [see Adverse Reactions (6) and Use in Specific Populations (8.6)].
+Following resolution of transaminase elevations, consider the benefits and risks of resuming KALYDECO [see Adverse Reactions (6) and Use in Specific Populations (8.6)].
 
 ## 5.2 Concomitant Use with CYP3A Inducers
 

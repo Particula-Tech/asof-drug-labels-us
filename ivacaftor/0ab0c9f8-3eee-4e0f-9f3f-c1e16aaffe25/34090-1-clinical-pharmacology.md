@@ -52,7 +52,7 @@ The mean changes in sweat chloride for the mutations for which KALYDECO is indic
 In an open-label clinical trial in 34 patients ages 2 to less than 6 years administered either 50 mg or 75 mg of ivacaftor twice daily (Trial 6), the mean absolute change from baseline in sweat chloride through 24 weeks of treatment was -45 mmol/L (95% CI -53, -38) [see Use in Specific Populations (8.4)].
 In a randomized, double-blind, placebo-controlled, 2-period, 3-treatment, 8-week crossover study in patients with CF age 12 years and older who were heterozygous for the F508del mutation and with a second CFTR mutation predicted to be responsive to ivacaftor (Trial 7), the treatment difference in mean change in sweat chloride from study baseline to the average of Week 4 and Week 8 of treatment for KALYDECO treated patients was -4.5 mmol/L (95% CI -6.7, -2.3).
 
-In a 24-week, open-label clinical trial in patients with CF aged less than 24 months administered either 25 mg, 50 mg or 75 mg of ivacaftor twice daily (Trial 8), the mean absolute change from baseline in sweat chloride for patients aged 12 months to less than 24 months (n=10) was -73.5 mmol/L (95% CI -86.0, -61.0) at Week 24, and the mean absolute change from baseline in sweat chloride for patients aged 6 months to less than 12 months (n=6) was -58.6 mmol/L (95% CI -75.9, -41.3) at Week 24.
+In a 24-week, open-label clinical trial in patients with CF aged less than 24 months administered either 25 mg, 50 mg or 75 mg of ivacaftor twice daily (Trial 8), the mean absolute change from baseline in sweat chloride for patients aged 12 months to less than 24 months (n=10) was -73.5 mmol/L (95% CI -86.0, -61.0) at Week 24, the mean absolute change from baseline in sweat chloride for patients aged 6 months to less than 12 months (n=6) was -58.6 mmol/L (95% CI -75.9, -41.3) at Week 24, and the mean absolute change from baseline in sweat chloride for patients aged 4 months to less than 6 months (n=3) was -50 mmol/L (95% CI -93.1, -6.9) at Week 24.
 [see Use in Specific Populations (8.4)].
 
 There was no direct correlation between decrease in sweat chloride levels and improvement in lung function (FEV1).
@@ -74,7 +74,7 @@ Absorption
 
 The exposure of ivacaftor increased approximately 2.5- to 4-fold when given with food that contains fat.
 Therefore, KALYDECO should be administered with fat-containing food.
-Examples of fat-containing foods include eggs, butter, peanut butter, cheese pizza, whole-milk dairy products (such as whole milk, cheese, and yogurt), etc. The median (range) Tmax is approximately 4.0 (3.0; 6.0) hours in the fed state.
+Examples of fat-containing foods include eggs, butter, peanut butter, cheese pizza, whole-milk dairy products (such as whole milk, cheese, yogurt, breast milk and infant formula), etc. The median (range) Tmax is approximately 4.0 (3.0; 6.0) hours in the fed state.
 
 KALYDECO granules (2 × 75 mg) had similar bioavailability as the 150 mg tablet when given with fat-containing food in adult subjects.
 The effect of food on ivacaftor absorption is similar for KALYDECO granules and the 150 mg tablet formulation.
@@ -86,6 +86,12 @@ Ivacaftor does not bind to human red blood cells.
 
 After oral administration of 150 mg every 12 hours for 7 days to healthy volunteers in a fed state, the mean (±SD) for apparent volume of distribution was 353 (122) L.
 
+Elimination
+
+The apparent terminal half-life was approximately 12 hours following a single dose.
+The mean apparent clearance (CL/F) of ivacaftor was similar for healthy subjects and patients with CF.
+The CL/F (SD) for the 150 mg dose was 17.3 (8.4) L/hr in healthy subjects.
+
 Metabolism
 
 Ivacaftor is extensively metabolized in humans.
@@ -94,14 +100,11 @@ M1 and M6 are the two major metabolites of ivacaftor in humans.
 M1 has approximately one-sixth the potency of ivacaftor and is considered pharmacologically active.
 M6 has less than one-fiftieth the potency of ivacaftor and is not considered pharmacologically active.
 
-Elimination
+Excretion
 
 Following oral administration, the majority of ivacaftor (87.8%) is eliminated in the feces after metabolic conversion.
 The major metabolites M1 and M6 accounted for approximately 65% of the total dose eliminated with 22% as M1 and 43% as M6.
 There was negligible urinary excretion of ivacaftor as unchanged parent.
-The apparent terminal half-life was approximately 12 hours following a single dose.
-The mean apparent clearance (CL/F) of ivacaftor was similar for healthy subjects and patients with CF.
-The CL/F (SD) for the 150 mg dose was 17.3 (8.4) L/hr in healthy subjects.
 
 Specific populations
 
@@ -113,8 +116,9 @@ Table 4: Ivacaftor Exposure by Age Group, Mean (SD)
 
 | Age Group | Dose | AUCss (ng*h/mL) |
 | --- | --- | --- |
-| 6 to less than 12 months (5 kg to <7 kg) Value based on data from a single patient; standard deviation not reported | 25 mg q12h | 5790 |
-| 6 to less than 12 months (7 kg to <14 kg) | 50 mg q12h | 9250 (3440) |
+| 4 to less than 6 months (≥5 kg) | 25 mg q12h | 6480 (2520) Values based on population PK modeling incorporating data from patients 4 to < 6 months of age from Trial 8 |
+| 6 to less than 12 months (5 kg to <7 kg) Value based on data from a single patient; standard deviation not reported | 25 mg q12h | 5360 |
+| 6 to less than 12 months (7 kg to <14 kg) | 50 mg q12h | 9390 (3120) |
 | 12 to less than 24 months (7 kg to <14 kg) | 50 mg q12h | 9050 (3050) |
 | 12 to less than 24 months (≥14 kg to <25 kg) | 75 mg q12h | 9600 (1800) |
 | 2 to less than 6 years (<14 kg) | 50 mg q12h | 10500 (4260) |
@@ -130,8 +134,8 @@ Based on simulations of these results, a reduced KALYDECO dose to one tablet or 
 The impact of mild hepatic impairment (Child-Pugh Class A) on the pharmacokinetics of ivacaftor has not been studied, but the increase in ivacaftor AUC0-∞ is expected to be less than two-fold.
 Therefore, no dose adjustment is necessary for patients with mild hepatic impairment.
 The impact of severe hepatic impairment (Child-Pugh Class C, score 10-15) on the pharmacokinetics of ivacaftor has not been studied.
-The magnitude of increase in exposure in these patients is unknown, but is expected to be substantially higher than that observed in patients with moderate hepatic impairment.
-When benefits are expected to outweigh the risks, KALYDECO should be used with caution in patients with severe hepatic impairment at a dose of one tablet or one packet of granules given once daily or less frequently [see Dosage and Administration (2.5) and Use in Specific Populations (8.6)].
+The magnitude of increase in exposure in these patients is unknown but is expected to be substantially higher than that observed in patients with moderate hepatic impairment.
+When benefits are expected to outweigh the risks, KALYDECO should be used with caution in patients with severe hepatic impairment at a dose of one tablet or one packet of granules given once daily or less frequently [see Dosage and Administration (2.4) and Use in Specific Populations (8.6)].
 
 Patients with Renal impairment
 
@@ -164,7 +168,7 @@ Dosing recommendations for co-administered drugs with KALYDECO are shown in Figu
 Potential for Other Drugs to Affect Ivacaftor
 
 In vitro studies showed that ivacaftor and metabolite M1 were substrates of CYP3A enzymes (i.e., CYP3A4 and CYP3A5).
-Exposure to ivacaftor is reduced by concomitant CYP3A inducers and increased by concomitant CYP3A inhibitors [see Dosage and Administration (2.6) and Drug Interactions (7)].
+Exposure to ivacaftor is reduced by concomitant CYP3A inducers and increased by concomitant CYP3A inhibitors [see Dosage and Administration (2.5) and Drug Interactions (7)].
 KALYDECO dosing recommendations for co-administration with other drugs are shown in Figure 3.
 
 | Figure 3: Impact of Other Drugs on KALYDECO |

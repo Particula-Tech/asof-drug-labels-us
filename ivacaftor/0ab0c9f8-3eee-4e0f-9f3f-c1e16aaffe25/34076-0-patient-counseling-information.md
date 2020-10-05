@@ -12,16 +12,17 @@ Drug Interactions with CYP3A Inducers and Inhibitors
 
 Ask patients to tell you all the medications they are taking including any herbal supplements or vitamins.
 Co-administration of KALYDECO with strong CYP3A inducers (e.g., rifampin, St. John's wort) is not recommended, as they may reduce the therapeutic effectiveness of KALYDECO.
-Reduction of the dose of KALYDECO to one tablet or one packet of granules twice a week is recommended when co-administered with strong CYP3A inhibitors, such as ketoconazole.
-Dose reduction to one tablet or one packet of granules once daily is recommended when co-administered with moderate CYP3A inhibitors, such as fluconazole.
-Food containing grapefruit or Seville oranges should be avoided [see Drug Interactions (7.1, 7.2) and Clinical Pharmacology (12.3)].
+Dose reduction is recommended when patients aged 6 months and older are taking concomitant strong CYP3A inhibitors, such as ketoconazole, or moderate CYP3A inhibitors, such as fluconazole [see Dosage and Administration (2.5), Drug Interactions (7.1)].
+Treatment with KALYDECO is not recommended in patients aged 4 months to less than 6 months who are taking concomitant moderate or strong CYP3A inhibitors.
+Food containing grapefruit should be avoided [see Drug Interactions (7.1, 7.2) and Clinical Pharmacology (12.3)].
 
 Use in Patients with Hepatic Impairment
 
 Inquire and/or assess whether patients have liver impairment.
-Reduce the dose of KALYDECO in patients with moderately impaired hepatic function (Child-Pugh Class B, score 7-9) to one tablet or one packet of granules once daily.
+Reduce the dose of KALYDECO in patients aged 6 months and older with moderately impaired hepatic function (Child-Pugh Class B, score 7-9) to one tablet or one packet of granules once daily.
 KALYDECO has not been studied in patients with severe hepatic impairment (Child-Pugh Class C, score 10-15); however, exposure is expected to be substantially higher than that observed in patients with moderate hepatic impairment.
-When benefits are expected to outweigh the risks, KALYDECO should be used with caution in patients with severe hepatic impairment at a dose of one tablet or one packet of granules given once daily or less frequently.
+When benefits are expected to outweigh the risks, KALYDECO should be used with caution in patients aged 6 months and older with severe hepatic impairment at a reduced dose [see Dosage and Administration (2.4)].
+Treatment with KALYDECO is not recommended in patients aged 4 months to less than 6 months with any signs of hepatic impairment..
 No dose adjustment is recommended for patients with mild hepatic impairment (Child-Pugh Class A, score 5-6) [see Use in Specific Populations (8.6)].
 
 Administration
@@ -30,7 +31,7 @@ KALYDECO® (ivacaftor) tablets 150 mg
 
 Inform patients that KALYDECO tablet is best absorbed by the body when taken with food that contains fat.
 A typical CF diet will satisfy this requirement.
-Examples include eggs, butter, peanut butter, cheese pizza, whole-milk dairy products (such as whole milk, cheese, and yogurt), etc.
+Examples include eggs, butter, peanut butter, cheese pizza, whole-milk dairy products (such as whole milk, cheese, yogurt, breast milk and infant forumla), etc.
 
 KALYDECO® (ivacaftor) oral granules 25 mg, 50 mg or 75 mg
 
@@ -46,7 +47,7 @@ Examples include eggs, butter, peanut butter, cheese pizza, whole-milk dairy pro
 Patients should be informed about what to do in the event they miss a dose of KALYDECO:
 
 - In case a dose of KALYDECO is missed within 6 hours of the time it is usually taken, patients should be instructed to take the prescribed dose of KALYDECO with fat-containing food as soon as possible.
-- If more than 6 hours have passed since KALYDECO is usually taken, the missed dose should NOT be taken and the patient should resume the usual dosing schedule.
+- If more than 6 hours have passed since KALYDECO is usually taken, the missed dose should NOT be taken, and the patient should resume the usual dosing schedule.
 - Patients should be advised to contact their healthcare provider if they have questions.
 
 Cataracts

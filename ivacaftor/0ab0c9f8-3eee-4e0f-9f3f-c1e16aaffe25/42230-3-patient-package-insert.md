@@ -8,18 +8,18 @@ This information does not take the place of talking to your doctor about your me
 
 What is KALYDECO?
 
-KALYDECO is a prescription medicine used for the treatment of cystic fibrosis (CF) in patients age 6 months and older who have at least one mutation in their CF gene that is responsive to KALYDECO.
+KALYDECO is a prescription medicine used for the treatment of cystic fibrosis (CF) in patients age 4 months and older who have at least one mutation in their CF gene that is responsive to KALYDECO.
 
 Talk to your doctor to learn if you have an indicated CF gene mutation.
 
-It is not known if KALYDECO is safe and effective in children under 6 months of age.
+It is not known if KALYDECO is safe and effective in children under 4 months of age.
 
 Who should not take KALYDECO?
 
 Do not take KALYDECO if you take certain medicines or herbal supplements such as:
 
-- the antibiotics rifampin (Rifamate®, Rifater®) or rifabutin (Mycobutin®)
-- seizure medications such as phenobarbital, carbamazepine (Tegretol®, Carbatrol®, Equetro®) or phenytoin (Dilantin®, Phenytek®)
+- the antibiotics rifampin (RIFAMATE®, RIFATER®) or rifabutin (MYCOBUTIN®)
+- seizure medications such as phenobarbital, carbamazepine (TEGRETOL®, CARBATROL®, EQUETRO®) or phenytoin (DILANTIN®, PHENYTEK®)
 - St. John's wort
 
 Talk to your doctor before taking KALYDECO if you take any of the medicines or supplements listed above.
@@ -29,7 +29,7 @@ What should I tell my doctor before taking KALYDECO?
 Before you take KALYDECO, tell your doctor if you:
 
 - have liver or kidney problems
-- drink grapefruit juice, or eat grapefruit or Seville oranges
+- drink grapefruit juice, or eat grapefruit
 - are pregnant or plan to become pregnant.
   It is not known if KALYDECO will harm your unborn baby.
   You and your doctor should decide if you will take KALYDECO while you are pregnant.
@@ -45,8 +45,8 @@ Ask your doctor or pharmacist for a list of these medicines if you are not sure.
 
 Especially tell your doctor if you take:
 
-- antifungal medications such as ketoconazole (e.g., Nizoral®), itraconazole (e.g., Sporanox®), posaconazole (e.g., Noxafil®), voriconazole (e.g., Vfend®), or fluconazole (e.g., Diflucan®)
-- antibiotics such as telithromycin (e.g., Ketek®), clarithromycin (e.g., Biaxin®), or erythromycin (e.g., Ery-Tab®)
+- antifungal medications such as ketoconazole (e.g., NIZORAL®), itraconazole (e.g., SPORANOX®), posaconazole (e.g., NOXAFIL®), voriconazole (e.g., VFEND®), or fluconazole (e.g., DIFLUCAN®)
+- antibiotics such as telithromycin (e.g., KETEK®), clarithromycin (e.g., BIAXIN®), or erythromycin (e.g., ERY-TAB®)
 
 Know the medicines you take.
 Keep a list of them to show your doctor and pharmacist when you get a new medicine.
@@ -69,7 +69,7 @@ KALYDECO Tablets (ages 6 years and older):
 - In the evening, 12 hours later, open another blister card to remove 1 KALYDECO tablet and take it with food that contains fat.
 - You may cut along the dotted line to separate your doses from the blister card.
 
-KALYDECO Oral Granules (ages 6 months to under 6 years old):
+KALYDECO Oral Granules (ages 4 months to under 6 years old):
 
 - Hold the packet with cut line on top.
 - Shake the packet gently to settle the KALYDECO granules.
@@ -81,13 +81,13 @@ KALYDECO Oral Granules (ages 6 months to under 6 years old):
 - After mixing, give KALYDECO within 1 hour.
   Make sure all medicine is taken.
 - Give a child fat-containing food just before or just after the KALYDECO granules dose.
-  Examples of fat-containing foods include eggs, butter, peanut butter, cheese pizza, and whole-milk dairy products such as whole milk, cheese, and yogurt.
+  Examples of fat-containing foods include eggs, butter, peanut butter, cheese pizza, and whole-milk dairy products such as whole milk, cheese, yogurt, breast milk and infant formula.
 
 What should I avoid while taking KALYDECO?
 
 - KALYDECO can cause dizziness in some people who take it.
   Do not drive a car, use machinery or do anything that needs you to be alert until you know how KALYDECO affects you.
-- You should avoid food containing grapefruit or Seville oranges while you are taking KALYDECO.
+- You should avoid food containing grapefruit while you are taking KALYDECO.
 
 What are the possible side effects of KALYDECO?
 
@@ -173,7 +173,7 @@ This Patient Information has been approved by the U.S. Food and Drug Administrat
 
 Manufactured for: Vertex Pharmaceuticals Incorporated 50 Northern Avenue Boston, MA 02210
 
-Approved April 2019
+Approved September 2020
 
 KALYDECO, VERTEX, and the VERTEX triangle logo are registered trademarks of Vertex Pharmaceuticals Incorporated.
-All other trademarks referenced herein are the property of their respective owners. ©2019 Vertex Pharmaceuticals Incorporated ALL RIGHTS RESERVED
+All other trademarks referenced herein are the property of their respective owners. ©2020 Vertex Pharmaceuticals Incorporated ALL RIGHTS RESERVED

@@ -17,7 +17,7 @@ Animal Data
 
 In an embryo-fetal development study in pregnant rats dosed during the period of organogenesis from gestation days 7-17, ivacaftor was not teratogenic and did not affect fetal survival at exposures up to 5 times the MRHD (based on summed AUCs for ivacaftor and its metabolites at maternal oral doses up to 200 mg/kg/day).
 In an embryo-fetal development study in pregnant rabbits dosed during the period of organogenesis from gestation days 7-19, ivacaftor was not teratogenic and did not affect fetal development or survival at exposures up to 11 times the MRHD (on an ivacaftor AUC basis at maternal oral doses up to 100 mg/kg/day).
-In a pre- and postnatal development study in pregnant female rats dosed from gestation day 7 through lactation day 20, ivacaftor had no effects on delivery or growth and development of offspring at exposures up to 3 times the MRHD (based on summed AUCs for ivacaftor and its metabolites at maternal oral doses up to 100 mg/kg/day).
+In a pre- and post-natal development study in pregnant female rats dosed from gestation day 7 through lactation day 20, ivacaftor had no effects on delivery or growth and development of offspring at exposures up to 3 times the MRHD (based on summed AUCs for ivacaftor and its metabolites at maternal oral doses up to 100 mg/kg/day).
 Decreased fetal body weights were observed at a maternally toxic dose that produced exposures 5 times the MRHD (based on summed AUCs for ivacaftor and its metabolites at a maternal oral dose of 200 mg/kg/day).
 Placental transfer of ivacaftor was observed in pregnant rats and rabbits.
 
@@ -36,24 +36,24 @@ Exposure (AUC0-24h) values for ivacaftor in milk were approximately 1.5 times hi
 
 ## 8.4 Pediatric Use
 
-KALYDECO is indicated for the treatment of CF in pediatric patients 6 months to 17 years of age who have one mutation in the CFTR gene that is responsive to ivacaftor potentiation based on clinical and/or in vitro assay data [see Clinical Pharmacology (12.1) and Clinical Studies (14)].
+The safety and effectiveness of KALYDECO for the treatment of CF have been established in pediatric patients 4 months to 17 years of age who have one mutation in the CFTR gene that is responsive to ivacaftor potentiation based on clinical and/or in vitro assay data [see Clinical Pharmacology (12.1) and Clinical Studies (14)].
 
-Placebo-controlled clinical trials established efficacy and safety in the following pediatric patients with CF:
+The use of KALYDECO for this indication is supported by evidence from placebo-controlled clinical trials in the following pediatric patients with CF:
 
 - 6 to 17 years of age with a G551D, G1244E, G1349D, G178R, G551S, S1251N, S1255P, S549N, S549R, or R117H mutation in the CFTR gene [see Adverse Reactions (6) and Clinical Studies (14)].
 - 12 to 17 years of age who are heterozygous for the F508del mutation and a second mutation predicted to be responsive to ivacaftor [see Adverse Reactions (6) and Clinical Studies (14)].
 
-The efficacy of KALYDECO in patients aged 2 to less than 6 years was extrapolated from patients 6 years of age and older with support from population pharmacokinetic analyses showing similar drug exposure levels in adults and children 2 to less than 6 years of age [see Clinical Pharmacology (12.3)].
+The effectiveness of KALYDECO in patients aged 2 to less than 6 years was extrapolated from patients 6 years of age and older with support from population pharmacokinetic analyses showing similar drug exposure levels in adults and children 2 to less than 6 years of age [see Clinical Pharmacology (12.3)].
 Safety of KALYDECO in this population was derived from a 24-week, open label, clinical trial in 34 patients ages 2 to less than 6 years (mean age 3 years) administered either 50 mg or 75 mg of ivacaftor granules twice daily (Trial 6).
 The type and frequency of adverse reactions in this trial were similar to those in patients 6 years and older.
 Transaminase elevations were more common in patients who had abnormal transaminases at baseline [see Warnings and Precautions (5.1) and Adverse Reactions (6.1)].
 
-The efficacy of KALYDECO in patients aged 6 months to less than 24 months was extrapolated from patients 6 years of age and older with support from population pharmacokinetic analyses showing similar drug exposure levels in adults and children 6 months to less than 24 months of age [see Clinical Pharmacology (12.3)].
-Safety of KALYDECO in this population was derived from a cohort of 11 patients aged 6 months to less than 12 months (mean age 9.0 months at baseline), and a cohort of 19 patients aged 12 months to less than 24 months (mean age 15.2 months at baseline) in a 24-week, open-label clinical study, administered either 25 mg, 50 mg or 75 mg of ivacaftor granules twice daily (Trial 8).
+The effectiveness of KALYDECO in patients aged 4 months to less than 24 months was extrapolated from patients 6 years of age and older with support from population pharmacokinetic analyses showing similar drug exposure levels in adults and children 4 months to less than 24 months of age [see Clinical Pharmacology (12.3)].
+Safety of KALYDECO in this population was derived from a cohort of 6 patients aged 4 months to less than 6 months (mean age 4.5 months at baseline), a cohort of 11 patients aged 6 months to less than 12 months (mean age 9.0 months at baseline), and a cohort of 19 patients aged 12 months to less than 24 months (mean age 15.2 months at baseline) in a 24-week, open-label clinical study, administered either 25 mg, 50 mg or 75 mg of ivacaftor granules twice daily (Trial 8).
 The safety profile of patients in this trial is similar to that observed in patients 2 years and older.
 
-The safety and efficacy of KALYDECO in patients with CF younger than 6 months of age have not been established.
-The use of KALYDECO in children under the age of 6 months is not recommended.
+The safety and effectiveness of KALYDECO in patients with CF younger than 4 months of age have not been established.
+The use of KALYDECO in children under the age of 4 months is not recommended.
 
 Juvenile Animal Toxicity Data
 
@@ -67,9 +67,14 @@ Clinical trials of KALYDECO did not include sufficient numbers of patients 65 ye
 
 ## 8.6 Hepatic Impairment
 
-No dose adjustment is necessary for patients with mild hepatic impairment (Child-Pugh Class A). A reduced dose of KALYDECO is recommended in patients with moderate hepatic impairment (Child-Pugh Class B), as follows: in patients 6 years and older, one 150 mg tablet once daily; in patients 6 months to less than 6 years with body weight 5 kg to less than 7 kg, one 25 mg packet of granules once daily; in patients 6 months to less than 6 years with body weight 7 kg to less than 14 kg, one 50 mg packet of granules once daily; and in patients 6 months to less than 6 years with body weight 14 kg or greater, one 75 mg packet of granules once daily.
+No dose adjustment is necessary for patients aged 6 months or older with mild hepatic impairment (Child-Pugh Class A) [see Clinical Pharmacology (12.3)].
+
+A reduced dose is recommended in patients aged 6 months or older with moderate hepatic impairment (Child-Pugh Class B) [see Dosage and Administration (2.5), Clinical Pharmacology (12.3)].
+
 Studies have not been conducted in patients with severe hepatic impairment (Child-Pugh Class C), but exposure is expected to be higher than in patients with moderate hepatic impairment.
-Therefore, use with caution at a dose of one tablet or one packet of granules once daily or less frequently in patients with severe hepatic impairment after weighing the risks and benefits of treatment [see Clinical Pharmacology (12.3)].
+Therefore, use with caution at a reduced dose, in patients aged 6 months or older with severe hepatic impairment after weighing the risks and benefits of treatment [see Dosage and Administration (2.4), Clinical Pharmacology (12.3)].
+
+Due to variability in maturation of cytochrome (CYP) enzymes involved in ivacaftor metabolism, treatment with KALYDECO is not recommended in patients aged 4 months to less than 6 months with hepatic impairment [see Dosage and Administration (2.3)].
 
 ## 8.7 Renal Impairment
 

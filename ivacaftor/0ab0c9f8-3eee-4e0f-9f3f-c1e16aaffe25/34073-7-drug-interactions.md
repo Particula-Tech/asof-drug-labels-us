@@ -6,13 +6,13 @@ Potential for other drugs to affect ivacaftor
 
 Ivacaftor is a sensitive CYP3A substrate.
 Co-administration with ketoconazole, a strong CYP3A inhibitor, significantly increased ivacaftor exposure [measured as area under the curve (AUC)] by 8.5-fold.
-Based on simulations of these results, a reduction of the KALYDECO dose is recommended when co-administered with strong CYP3A inhibitors, such as ketoconazole, itraconazole, posaconazole, voriconazole, telithromycin, and clarithromycin, as follows: in patients 6 years and older reduce dose to one 150 mg tablet twice a week; in patients 6 months to less than 6 years with body weight 5 kg to less than 7 kg, reduce dose to one 25 mg packet of granules twice a week; in patients 6 months to less than 6 years with body weight 7 kg to less than 14 kg, reduce dose to one 50 mg packet of granules twice a week; and in patients 6 months to less than 6 years with body weight 14 kg or greater, reduce dose to one 75 mg packet of granules twice a week.
+Based on simulations of these results, a reduction of the KALYDECO dose is recommended for patients taking concomitant strong CYP3A inhibitors, such as ketoconazole, itraconazole, posaconazole, voriconazole, telithromycin, and clarithromycin [see Dosage and Administration (2.5), Clinical Pharmacology (12.3)].
 
 Co-administration with fluconazole, a moderate inhibitor of CYP3A, increased ivacaftor exposure by 3-fold.
-Therefore, a reduction of the KALYDECO dose is recommended for patients taking concomitant moderate CYP3A inhibitors, such as fluconazole and erythromycin, as follows: in patients 6 years and older reduce dose to one 150 mg tablet once daily; in patients 6 months to less than 6 years with body weight 5 kg to less than 7 kg, reduce dose to one 25 mg packet of granules once daily; in patients 6 months to less than 6 years with body weight 7 kg to less than 14 kg, reduce dose to one 50 mg packet of granules once daily; and in patients 6 months to less than 6 years with body weight 14 kg or greater, reduce dose to one 75 mg packet of granules once daily.
+Therefore, a reduction of the KALYDECO dose is recommended for patients taking concomitant moderate CYP3A inhibitors, such as fluconazole and erythromycin [see Dosage and Administration (2.5), Clinical Pharmacology (12.3)].
 
 Co-administration of KALYDECO with grapefruit juice, which contains one or more components that moderately inhibit CYP3A, may increase exposure of ivacaftor.
-Therefore, food containing grapefruit or Seville oranges should be avoided during treatment with KALYDECO [see Clinical Pharmacology (12.3)].
+Therefore, avoid food containing grapefruit during treatment with KALYDECO [see Clinical Pharmacology (12.3)].
 
 ## 7.2 Inducers of CYP3A
 
@@ -26,7 +26,12 @@ Therefore, no dose adjustment is necessary during concomitant administration of 
 
 Potential for ivacaftor to affect other drugs
 
-## 7.4 CYP3A and/or P-gp Substrates
+## 7.4 CYP2C9 Substrates
+
+Ivacaftor may inhibit CYP2C9; therefore, monitoring of the international normalized ratio (INR) during co administration of KALYDECO with warfarin is recommended.
+Other therapeutic products for which exposure may be increased by KALYDECO include glimepiride and glipizide; these therapeutic products should be used with caution [see Clinical Pharmacology (12.3)].
+
+## 7.5 CYP3A and/or P-gp Substrates
 
 Ivacaftor and its M1 metabolite have the potential to inhibit CYP3A and P-gp.
 Co-administration with oral midazolam, a sensitive CYP3A substrate, increased midazolam exposure 1.5-fold, consistent with weak inhibition of CYP3A by ivacaftor.
