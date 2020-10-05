@@ -19,27 +19,26 @@ Samples for serum calcium estimation should be taken without a tourniquet.
 ## Dialysis Patients
 
 The recommended initial dose of calcitriol is 0.25 mcg/day.
-If a satisfactory response in the biochemical parameters and clinical manifestations of the disease state is not observed, dosage may be increased by 0.25 mcg/day at 4 to 8 week intervals.
+If a satisfactory response in the biochemical parameters and clinical manifestations of the disease state is not observed, dosage may be increased by 0.25 mcg/day at 4 to 8-week intervals.
 During this titration period, serum calcium levels should be obtained at least twice weekly, and if hypercalcemia is noted, the drug should be immediately discontinued until normocalcemia ensues (see PRECAUTIONS: General).
-
 Phosphorus, magnesium, and alkaline phosphatase should be determined periodically.
 
 Patients with normal or only slightly reduced serum calcium levels may respond to calcitriol doses of 0.25 mcg every other day.
 Most patients undergoing hemodialysis respond to doses between 0.5 and 1 mcg/day.
 
-Oral calcitriol may normalize plasma ionized calcium in some uremic patients, yet fail to suppress parathyroid hyperfunction.
+Oral calcitriol may normalize plasma-ionized calcium in some uremic patients, yet fail to suppress parathyroid hyperfunction.
 In these individuals with autonomous parathyroid hyperfunction, oral calcitriol may be useful to maintain normocalcemia, but has not been shown to be adequate treatment for hyperparathyroidism.
 
 ## Hypoparathyroidism
 
 The recommended initial dosage of calcitriol is 0.25 mcg/day given in the morning.
-If a satisfactory response in the biochemical parameters and clinical manifestations of the disease is not observed, the dose may be increased at 2 to 4 week intervals.
+If a satisfactory response in the biochemical parameters and clinical manifestations of the disease is not observed, the dose may be increased at 2- to 4- week intervals.
 During the dosage titration period, serum calcium levels should be obtained at least twice weekly and, if hypercalcemia is noted, calcitriol should be immediately discontinued until normocalcemia ensues (see PRECAUTIONS: General).
 Careful consideration should also be given to lowering the dietary calcium intake.
-Serum calcium, phosphorus, and 24 hour urinary calcium should be determined periodically.
+Serum calcium, phosphorus, and 24-hour urinary calcium should be determined periodically.
 
 Most adult patients and pediatric patients age 6 years and older have responded to dosages in the range of 0.5 mcg to 2 mcg daily.
-Pediatric patients in the 1 to 5 year age group with hypoparathyroidism have usually been given 0.25 mcg to 0.75 mcg daily.
+Pediatric patients in the 1 to 5-year age group with hypoparathyroidism have usually been given 0.25 mcg to 0.75 mcg daily.
 The number of treated patients with pseudohypoparathyroidism less than 6 years of age is too small to make dosage recommendations.
 
 Malabsorption is occasionally noted in patients with hypoparathyroidism; hence, larger doses of calcitriol may be needed.

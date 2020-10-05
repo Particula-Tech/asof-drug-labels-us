@@ -1,12 +1,12 @@
 # OVERDOSAGE
 
-Administration of calcitriol to patients in excess of their daily requirements can cause hypercalcemia, hypercalciuria and hyperphosphatemia.
-Since calcitriol is a derivative of vitamin D, the signs and symptoms of overdose are the same for an overdose of vitamin D (see ADVERSE REACTIONS).
+Administration of calcitriol to patients in excess of their daily requirements can cause hypercalcemia, hypercalciuria, and hyperphosphatemia.
+Since calcitriol is a derivative of vitamin D, the signs and symptoms of overdose are the same as for an overdose of vitamin D (see ADVERSE REACTIONS).
 High intake of calcium and phosphate concomitant with calcitriol may lead to similar abnormalities.
 The serum calcium times phosphate (Ca x P) product should not be allowed to exceed 70 mg2/dL2.
 High levels of calcium in the dialysate bath may contribute to the hypercalcemia (see WARNINGS).
 
-## Treatment of Hypercalcemia and Overdosage in Dialysis Patients and Hypoparathyroidism Patients:
+## Treatment of Hypercalcemia and Overdosage in Dialysis Patients and Hypoparathyroidism Patients
 
 General treatment of hypercalcemia (greater than 1 mg/dL above the upper limit of the normal range) consists of immediate discontinuation of calcitriol therapy, institution of a low-calcium diet and withdrawal of calcium supplements.
 Serum calcium levels should be determined daily until normocalcemia ensues.
@@ -28,16 +28,16 @@ If serum PTH is normal, discontinue calcitriol therapy and monitor patient in 3 
 
 ## Treatment of Hyperphosphatemia in Predialysis Patients
 
-If serum phosphorus levels exceed 5 mg/dL to 5.5 mg/dL, a calcium-containing phosphate binding agent (i.e., calcium carbonate or calcium acetate) should be taken with meals.
+If serum phosphorus levels exceed 5.0 mg/dL to 5.5 mg/dL, a calcium-containing phosphate-binding agent (i.e., calcium carbonate or calcium acetate) should be taken with meals.
 Serum phosphorus levels should be determined as described earlier (see PRECAUTIONS: Laboratory Tests).
-Aluminum-containing gels should be used with caution as phosphate binding agents because of the risk of slow aluminum accumulation.
+Aluminum-containing gels should be used with caution as phosphate-binding agents because of the risk of slow aluminum accumulation.
 
 ## Treatment of Accidental Overdosage of Calcitriol
 
 The treatment of acute accidental overdosage of calcitriol should consist of general supportive measures.
 If drug ingestion is discovered within a relatively short time, induction of emesis or gastric lavage may be of benefit in preventing further absorption.
 If the drug has passed through the stomach, the administration of mineral oil may promote its fecal elimination.
-Serial serum electrolyte determinations (especially calcium), rate of urinary calcium excretion and assessment of electrocardiographic abnormalities due to hypercalcemia should be obtained.
+Serial serum electrolyte determinations (especially calcium), rate of urinary calcium excretion, and assessment of electrocardiographic abnormalities due to hypercalcemia should be obtained.
 Such monitoring is critical in patients receiving digitalis.
 Discontinuation of supplemental calcium and a low-calcium diet are also indicated in accidental overdosage.
 Due to the relatively short duration of the pharmacological action of calcitriol, further measures are probably unnecessary.
