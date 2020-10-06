@@ -38,6 +38,8 @@ Manufactured for:
 
 Cipla USA, Inc.
 
-1560 Sawgrass Corporate Parkway, Suite 130, Sunrise, FL 33323
+10 Independence Boulevard, Suite 300,
 
-Revised: 08/2019
+Warren, NJ 07059
+
+Revised: 03/2020

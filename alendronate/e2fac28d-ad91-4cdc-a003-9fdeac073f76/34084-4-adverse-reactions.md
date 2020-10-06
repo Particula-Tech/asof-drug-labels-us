@@ -96,7 +96,7 @@ The overall safety and tolerability profiles of once weekly alendronate sodium 3
 
 The adverse reactions from these studies considered by the investigators as possibly, probably, or definitely drug related in greater than or equal to 1% of patients treated with either once weekly alendronate sodium 35 mg, alendronate sodium 5 mg/day or placebo are presented in Table 3.
 
-Table 3: Osteoporosis Prevention Studies in Postmenopausal Women Adverse Reactions Considered Possibly, Probably, or Definitely Drug Related by the Investigators and Reported in Greater Than or Equal to 1% of Patients TableFooter EndTableFooter
+Table 3: Osteoporosis Prevention Studies in Postmenopausal Women Adverse Reactions Considered Possibly, Probably, or Definitely Drug Related by the Investigators and Reported in Greater Than or Equal to 1% of Patients
 
 |  | Two/Three-Year Studies |  | One-Year Study |  |
 | --- | --- | --- | --- | --- |
@@ -121,7 +121,7 @@ Osteoporosis in Men
 In two placebo-controlled, double-blind, multicenter studies in men (a two-year study of alendronate sodium 10 mg/day and a one-year study of once weekly alendronate sodium 70 mg) the rates of discontinuation of therapy due to any clinical adverse event were 2.7% for alendronate sodium 10 mg/day vs. 10.5% for placebo, and 6.4% for once weekly alendronate sodium 70 mg vs. 8.6% for placebo.
 The adverse reactions considered by the investigators as possibly, probably, or definitely drug related in greater than or equal to 2% of patients treated with either alendronate sodium or placebo are presented in Table 4.
 
-Table 4: Osteoporosis Studies in Men Adverse Reactions Considered Possibly, Probably, or Definitely Drug Related by the Investigators and Reported in Greater Than or Equal to 2% of Patients TableFooter EndTableFooter
+Table 4: Osteoporosis Studies in Men Adverse Reactions Considered Possibly, Probably, or Definitely Drug Related by the Investigators and Reported in Greater Than or Equal to 2% of Patients
 
 |  | Two-year Study |  | One-year Study |  |
 | --- | --- | --- | --- | --- |
@@ -141,7 +141,7 @@ In two, one-year, placebo-controlled, double-blind, multicenter studies in patie
 The adverse reactions considered by the investigators as possibly, probably, or definitely drug related in greater than or equal to 1% of patients treated with either alendronate sodium 5 or 10 mg/day or placebo are presented in TABLE 5.
 
 Table 5.
-One-Year Studies in Glucocorticoid -Treated Patients Adverse Reactions Considered Possibly, Probably, or Definitely Drug Related by the Investigators and Reported in Greater Than or Equal to 1% of Patients TableFooter EndTableFooter
+One-Year Studies in Glucocorticoid -Treated Patients Adverse Reactions Considered Possibly, Probably, or Definitely Drug Related by the Investigators and Reported in Greater Than or Equal to 1% of Patients
 
 |  | Alendronate 10 mg/day %(n=157) | Alendronate 5 mg/day %(n=161) | Placebo %(n=159) |
 | --- | --- | --- | --- |

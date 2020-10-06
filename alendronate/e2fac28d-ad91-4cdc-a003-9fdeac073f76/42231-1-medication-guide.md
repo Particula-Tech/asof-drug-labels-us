@@ -122,7 +122,7 @@ How should I take alendronate sodium tablets, USP?
 
 - Take alendronate sodium tablets, USP exactly as your doctor tells you.
 - Alendronate sodium tablets, USP works only if taken on an empty stomach.
-- Take alendronate sodium tablets, after you get up for the day and before taking your first food, drink, or other medicine.
+- Take alendronate sodium tablets, USP after you get up for the day and before taking your first food, drink, or other medicine.
 - Take alendronate sodium tablets, USP while you are sitting or standing.
 - Do not chew or suck on a tablet of alendronate sodium.
 - Swallow alendronate sodium tablet with a full glass (6-8 oz) of plain water only.
@@ -130,7 +130,7 @@ How should I take alendronate sodium tablets, USP?
 
 o If you take Alendronate Daily:
 
-- Take 1 alendronate tablet, USP one time a day, every day after you get up for the day and before taking your first food, drink, or other medicine.
+- Take 1 alendronate tablet one time a day, every day after you get up for the day and before taking your first food, drink, or other medicine.
 
 o If you take Once Weekly alendronate sodium tablets, USP:
 
@@ -184,7 +184,7 @@ You may report side effects to FDA at 1-800-FDA-1088.
 
 How do I store alendronate sodium tablets, USP?
 
-- Store alendronate sodium tablets, USP at 20° to 25°C (68°-77°F); excursions permitted to 15° to 30°C (59° to 86°F).
+- Store alendronate sodium tablets, USP at 20°C to 25°C (68°F to 77°F); excursions permitted to 15°C to 30°C (59°F to 86°F).
 - Keep alendronate sodium tablets, USP in a tightly closed container.
 
 Keep alendronate sodium tablets, USP and all medicines out of the reach of children.
@@ -219,6 +219,8 @@ Manufactured for:
 
 Cipla USA, Inc.
 
-1560 Sawgrass Corporate Parkway, Suite 130, Sunrise, FL 33323
+10 Independence Boulevard, Suite 300,
 
-Revised: 08/2019
+Warren, NJ 07059
+
+Revised: 03/2020

@@ -4,11 +4,11 @@
 
 The recommended dosage is:
 
-one 70 mg tablet once weekly
+●one 70 mg tablet once weekly
 
 or
 
-one 10 mg tablet once daily
+●one 10 mg tablet once daily
 
 ## 2.2 Prevention of Osteoporosis in Postmenopausal Women
 
@@ -47,7 +47,7 @@ Re-treatment may also be considered in those who failed to normalize their serum
 
 Instruct patients to do the following:
 
-- Take alendronate sodium tabletsat least one-half hour before the first food, beverage, or medication of the day with plain water only [see Patient Counseling Information (17.2)].
+- Take alendronate sodium tablets at least one-half hour before the first food, beverage, or medication of the day with plain water only [see Patient Counseling Information (17.2)].
   Other beverages (including mineral water), food, and some medications are likely to reduce the absorption of alendronate sodium tablets [see Drug Interactions (7.1)].
   Waiting less than 30 minutes, or taking alendronate sodium tablets with food, beverages (other than plain water) or other medications will lessen the effect of alendronate sodium tablets, by decreasing its absorption into the body.
 - Take alendronate sodium tablets upon arising for the day.

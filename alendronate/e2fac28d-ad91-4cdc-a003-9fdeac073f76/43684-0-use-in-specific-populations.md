@@ -49,16 +49,16 @@ The developmental and health benefits of breastfeeding should be considered alon
 Alendronate sodium is not indicated for use in pediatric patients.
 
 The safety and efficacy of alendronate sodium were examined in a randomized, double-blind, placebo-controlled two-year study of 139 pediatric patients, aged 4-18 years, with severe osteogenesis imperfecta (OI).
-One-hundred-and-nine patients were randomized to 5 mg alendronate sodiumdaily (weight less than 40 kg) or 10 mg alendronate sodium daily (weight greater than or equal to 40 kg) and 30 patients to placebo.
+One-hundred-and-nine patients were randomized to 5 mg alendronate sodium daily (weight less than 40 kg) or 10 mg alendronate sodium daily (weight greater than or equal to 40 kg) and 30 patients to placebo.
 The mean baseline lumbar spine BMD Z-score of the patients was -4.5.
-The mean change in lumbar spine BMD Z-score from baseline to Month 24 was 1.3 in thealendronate sodium-treated patients and 0.1 in the placebo-treated patients.
+The mean change in lumbar spine BMD Z-score from baseline to Month 24 was 1.3 in the alendronate sodium-treated patients and 0.1 in the placebo-treated patients.
 Treatment with alendronate sodium did not reduce the risk of fracture.
 Sixteen percent of the alendronate sodium patients who sustained a radiologically-confirmed fracture by Month 12 of the study had delayed fracture healing (callus remodeling) or fracture non-union when assessed radiographically at Month 24 compared with 9% of the placebo-treated patients.
 In alendronate sodium-treated patients, bone histomorphometry data obtained at Month 24 demonstrated decreased bone turnover and delayed mineralization time; however, there were no mineralization defects.
 There were no statistically significant differences between the alendronate sodium and placebo groups in reduction of bone pain.
 The oral bioavailability in children was similar to that observed in adults.
 
-The overall safety profile of alendronate sodiumin osteogenesis imperfecta patients treated for up to 24 months was generally similar to that of adults with osteoporosis treated with alendronate sodium.
+The overall safety profile of alendronate sodium in osteogenesis imperfecta patients treated for up to 24 months was generally similar to that of adults with osteoporosis treated with alendronate sodium.
 However, there was an increased occurrence of vomiting in osteogenesis imperfecta patients treated with alendronate sodium compared to placebo.
 During the 24-month treatment period, vomiting was observed in 32 of 109 (29.4%) patients treated with alendronate sodium and 3 of 30 (10%) patients treated with placebo.
 
