@@ -1,0 +1,27 @@
+{
+  "application_numbers": [
+    "ANDA205576"
+  ],
+  "inn": "propofol",
+  "labeler": "Pfizer Laboratories Div Pfizer Inc",
+  "package_ndcs": [
+    "0069-0209-01",
+    "0069-0209-05",
+    "0069-0209-10",
+    "0069-0209-25",
+    "0069-0234-01",
+    "0069-0234-05",
+    "0069-0234-20",
+    "0069-0248-01",
+    "0069-0248-10"
+  ],
+  "products": [
+    {
+      "form": "INJECTION, EMULSION",
+      "generic": "propofol",
+      "name": "Propofol"
+    }
+  ],
+  "setid": "3acf8e6c-827d-11e2-9e96-0800200c9a66",
+  "source": "dailymed"
+}
