@@ -99,7 +99,7 @@ Serious cardiovascular, cerebrovascular, and vascular events, including myocardi
 Most, but not all, of these patients had preexisting cardiovascular risk factors.
 Many of these events were reported to occur during or shortly after sexual activity, and a few were reported to occur shortly after the use of VIAGRA without sexual activity.
 Others were reported to have occurred hours to days after the use of VIAGRA and sexual activity.
-It is not possible to determine whether these events are related directly to VIAGRA, to sexual activity, to the patient's underlying cardiovascular disease, to a combination of these factors, or to other factors [see Warnings and Precautions (5.1) and Patient Counseling Information (17.3)].
+It is not possible to determine whether these events are related directly to VIAGRA, to sexual activity, to the patient's underlying cardiovascular disease, to a combination of these factors, or to other factors [see Warnings and Precautions (5.1) and Patient Counseling Information (17)].
 
 Hemic and Lymphatic: vaso-occlusive crisis: In a small, prematurely terminated study of REVATIO (sildenafil) in patients with pulmonary arterial hypertension (PAH) secondary to sickle cell disease, vaso-occlusive crises requiring hospitalization were more commonly reported in patients who received sildenafil than in those randomized to placebo.
 The clinical relevance of this finding to men treated with VIAGRA for ED is not known.
@@ -113,12 +113,11 @@ Special senses:
 Hearing: Cases of sudden decrease or loss of hearing have been reported postmarketing in temporal association with the use of PDE5 inhibitors, including VIAGRA.
 In some of the cases, medical conditions and other factors were reported that may have also played a role in the otologic adverse events.
 In many cases, medical follow-up information was limited.
-It is not possible to determine whether these reported events are related directly to the use of VIAGRA, to the patient's underlying risk factors for hearing loss, a combination of these factors, or to other factors [see Warnings and Precautions (5.4) and Patient Counseling Information (17.5)].
+It is not possible to determine whether these reported events are related directly to the use of VIAGRA, to the patient's underlying risk factors for hearing loss, a combination of these factors, or to other factors [see Warnings and Precautions (5.4) and Patient Counseling Information (17)].
 
 Ocular: diplopia, temporary vision loss/decreased vision, ocular redness or bloodshot appearance, ocular burning, ocular swelling/pressure, increased intraocular pressure, retinal edema, retinal vascular disease or bleeding, and vitreous traction/detachment.
 
 Non-arteritic anterior ischemic optic neuropathy (NAION), a cause of decreased vision including permanent loss of vision, has been reported rarely post-marketing in temporal association with the use of phosphodiesterase type 5 (PDE5) inhibitors, including VIAGRA.
-Most, but not all, of these patients had underlying anatomic or vascular risk factors for developing NAION, including but not necessarily limited to: low cup to disc ratio ("crowded disc"), age over 50, diabetes, hypertension, coronary artery disease, hyperlipidemia and smoking.
-It is not possible to determine whether these events are related directly to the use of PDE5 inhibitors, to the patient's underlying vascular risk factors or anatomical defects, to a combination of these factors, or to other factors [see Warnings and Precautions (5.3) and Patient Counseling Information (17.4)].
+Most, but not all, of these patients had underlying anatomic or vascular risk factors for developing NAION, including but not necessarily limited to: low cup to disc ratio ("crowded disc"), age over 50, diabetes, hypertension, coronary artery disease, hyperlipidemia and smoking [see Warnings and Precautions (5.3) and Patient Counseling Information (17)].
 
-Urogenital: prolonged erection, priapism [see Warnings and Precautions (5.2) and Patient Counseling Information (17.6)], and hematuria.
+Urogenital: prolonged erection, priapism [see Warnings and Precautions (5.2) and Patient Counseling Information (17)], and hematuria.

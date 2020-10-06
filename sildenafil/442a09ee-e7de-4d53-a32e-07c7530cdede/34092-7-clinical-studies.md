@@ -35,9 +35,9 @@ Erectile dysfunction was attributed to organic (58%; generally not characterized
 Sixty-three percent, 74%, and 82% of the patients on 25 mg, 50 mg and 100 mg of VIAGRA, respectively, reported an improvement in their erections, compared to 24% on placebo.
 In the titration studies (n=644) (with most patients eventually receiving 100 mg), results were similar.
 
-| Overall treatment p<0.0001 |  |
-| --- | --- |
-| Figure 7. Percentage of Patients Reporting an Improvement in Erections. |  |
+|  | Overall treatment p<0.0001 |  |
+| --- | --- | --- |
+| Figure 7. Percentage of Patients Reporting an Improvement in Erections. |  |  |
 
 The patients in studies had varying degrees of ED.
 One-third to one-half of the subjects in these studies reported successful intercourse at least once during a 4-week, treatment-free run-in period.

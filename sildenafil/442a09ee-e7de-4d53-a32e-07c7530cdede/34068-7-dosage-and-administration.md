@@ -4,7 +4,6 @@
 
 For most patients, the recommended dose is 50 mg taken, as needed, approximately 1 hour before sexual activity.
 However, VIAGRA may be taken anywhere from 30 minutes to 4 hours before sexual activity.
-
 The maximum recommended dosing frequency is once per day.
 
 Based on effectiveness and toleration, the dose may be increased to a maximum recommended dose of 100 mg or decreased to 25 mg.

@@ -65,6 +65,7 @@ Figure 2: Mean Standing Systolic Blood Pressure Change from Baseline
 Blood pressure was measured immediately pre-dose and at 15, 30, 45 minutes, and 1, 1.5, 2, 2.5, 3, 4, 6 and 8 hours after VIAGRA or matching placebo.
 Outliers were defined as subjects with a standing systolic blood pressure of <85 mmHg or a decrease from baseline in standing systolic blood pressure of >30 mmHg at one or more timepoints.
 There were no subjects treated with VIAGRA 25 mg who had a standing SBP < 85mmHg.
+
 There were three subjects with a decrease from baseline in standing systolic BP >30mmHg following VIAGRA 25 mg, one subject with a decrease from baseline in standing systolic BP > 30 mmHg following placebo and two subjects with a decrease from baseline in standing systolic BP > 30 mmHg following both VIAGRA and placebo.
 No severe adverse events potentially related to blood pressure effects were reported in this group.
 

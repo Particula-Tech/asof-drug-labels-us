@@ -11,3 +11,8 @@ Although plasma levels of sildenafil at 24 hours post dose are much lower than a
 
 VIAGRA is contraindicated in patients with a known hypersensitivity to sildenafil, as contained in VIAGRA and REVATIO, or any component of the tablet.
 Hypersensitivity reactions have been reported, including rash and urticaria [see Adverse Reactions (6.1)].
+
+## 4.3 Concomitant Guanylate Cyclase (GC) Stimulators
+
+Do not use VIAGRA in patients who are using a GC stimulator, such as riociguat.
+PDE5 inhibitors, including VIAGRA, may potentiate the hypotensive effects of GC stimulators.
