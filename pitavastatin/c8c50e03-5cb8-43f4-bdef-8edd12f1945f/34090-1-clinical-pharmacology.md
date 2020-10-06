@@ -2,89 +2,73 @@
 
 ## 12.1 Mechanism of Action
 
-Pitavastatin competitively inhibits HMG-CoA reductase, which is a rate-determining enzyme involved with biosynthesis of cholesterol, in a manner of competition with the substrate so that it inhibits cholesterol synthesis in the liver.
+Pitavastatin is an inhibitor of 3-hydroxy-3-methylglutaryl-coenzyme A (HMG-CoA) reductase, the enzyme that catalyzes the conversion of HMG-CoA to mevalonate, a rate-limiting step in the biosynthetic pathway for cholesterol.
 As a result, the expression of LDL-receptors followed by the uptake of LDL from blood to liver is accelerated and then the plasma TC decreases.
-Further, the sustained inhibition of cholesterol synthesis in the liver decreases levels of very low density lipoproteins.
+Sustained inhibition of cholesterol synthesis in the liver also decreases levels of very low density lipoproteins.
 
 ## 12.2 Pharmacodynamics
 
-In a randomized, double-blind, placebo-controlled, 4-way parallel, active-comparator study with moxifloxacin in 174 healthy participants, pitavastatin was not associated with clinically meaningful prolongation of the QTc interval or heart rate at daily doses up to 16 mg (4 times the recommended maximum daily dose).
+Cardiac Electrophysiology In a randomized, double-blind, placebo-controlled, 4-way parallel, active-comparator study with moxifloxacin in 174 healthy participants, pitavastatin was not associated with clinically meaningful prolongation of the QTc interval or heart rate at daily doses up to 16 mg (4 times the recommended maximum dose of 4 mg daily).
 
 ## 12.3 Pharmacokinetics
 
 Absorption
 
 Pitavastatin peak plasma concentrations are achieved about 1 hour after oral administration.
-Both C max and AUC 0-inf increased in an approximately dose-proportional manner for single pitavastatin doses from 1 mg to 24 mg once daily.
+Both Cmax and AUC0-inf increased in an approximately dose-proportional manner for single pitavastatin doses from 1 mg to 24 mg once daily.
 The absolute bioavailability of pitavastatin oral solution is 51%.
-Administration of a 4 mg ZYPITAMAG tablet with a high fat meal (50% fat content) decreases pitavastatin C max by 39% but does not significantly reduce pitavastatin AUC.
-The C max and AUC of pitavastatin did not differ following evening or morning drug administration.
+The Cmax and AUC of pitavastatin did not differ following evening or morning drug administration.
 In healthy volunteers receiving 4 mg pitavastatin, the percent change from baseline for LDL-C following evening dosing was slightly greater than that following morning dosing.
 Pitavastatin was absorbed in the small intestine but very little in the colon.
 
-Distribution
+Effect of Food Administration of pitavastatin with a high fat meal (50% fat content) decreases pitavastatin Cmax by 43% but does not significantly reduce pitavastatin AUC.
 
-Pitavastatin is more than 99% protein bound in human plasma, mainly to albumin and alpha 1-acid glycoprotein, and the mean volume of distribution is approximately 148 L. Association of pitavastatin and/or its metabolites with the blood cells is minimal.
+Distribution Pitavastatin is more than 99% protein bound in human plasma, mainly to albumin and alpha 1-acid glycoprotein, and the mean volume of distribution is approximately 148 L. Association of pitavastatin and/or its metabolites with the blood cells is minimal.
 
-Metabolism
-
+Elimination Metabolism The principal route of pitavastatin metabolism is glucuronidation via liver uridine 5'-diphosphate glucuronosyltransferase (UGT) with subsequent formation of pitavastatin lactone.
+There is only minimal metabolism by the cytochrome P450 system.
 Pitavastatin is marginally metabolized by CYP2C9 and to a lesser extent by CYP2C8.
-The major metabolite in human plasma is the lactone which is formed via an ester-type pitavastatin glucuronide conjugate by uridine 5'-diphosphate (UDP) glucuronosyltransferase (UGT1A3 and UGT2B7).
+The major metabolite in human plasma is the lactone which is formed via an ester-type pitavastatin glucuronide conjugate by UGTs (UGT1A3 and UGT2B7).
 
-Excretion
-
-A mean of 15% of radioactivity of orally administered, single 32 mg 14C-labeled pitavastatin dose was excreted in urine, whereas a mean of 79% of the dose was excreted in feces within 7 days.
+Excretion A mean of 15% of radioactivity of orally administered, single 32 mg 14C-labeled pitavastatin dose was excreted in urine, whereas a mean of 79% of the dose was excreted in feces within 7 days.
 The mean plasma elimination half-life is approximately 12 hours.
 
-Race
+Specific Populations Racial or Ethnic Groups In pharmacokinetic studies pitavastatin Cmax and AUC were 21 and 5% lower, respectively in Black or African American healthy volunteers compared with those of Caucasian healthy volunteers.
+In pharmacokinetic comparison between Caucasian volunteers and Japanese volunteers, there were no significant differences in Cmax and AUC.
 
-In pharmacokinetic studies pitavastatin C max and AUC were 21 and 5% lower, respectively in Black or African American healthy volunteers compared with those of Caucasian healthy volunteers.
-In pharmacokinetic comparison between Caucasian volunteers and Japanese volunteers, there were no significant differences in C max and AUC.
+Male and Female Patients In a pharmacokinetic study which compared healthy male and female volunteers, pitavastatin Cmax and AUC were 60 and 54% higher, respectively in females.
 
-Gender
+Geriatric Patients In a pharmacokinetic study which compared healthy young and geriatric (≥ 65 years) volunteers, pitavastatin Cmax and AUC were 10 and 30% higher, respectively, in the geriatric patients [see Use in Specific Populations (8.5)]
 
-In a pharmacokinetic study which compared healthy male and female volunteers, pitavastatin C max and AUC were 60 and 54% higher, respectively in females.
-This had no effect on the efficacy or safety of pitavastatin in women in clinical studies.
+Pediatric Patients Pediatric use information is approved for Kowa Co Ltd’s LIVALO (pitavastatin) tablets.
+However, due to Kowa Co Ltd’s marketing exclusivity rights, this drug product is not labeled with that information.
 
-Geriatric
+Patients with Renal Impairment
 
-In a pharmacokinetic study which compared healthy young and elderly (≥ 65 years) volunteers, pitavastatin C max and AUC were 10 and 30% higher, respectively, in the elderly.
-This had no effect on the efficacy or safety of pitavastatin in elderly subjects in clinical studies.
-
-Renal Impairment
-
-In patients with moderate renal impairment (glomerular filtration rate of 30 mL/min/1.73 m 2 to 59 mL/min/1.73 m 2) and end stage renal disease receiving hemodialysis, pitavastatin AUC 0-inf is 102 and 86% higher than those of healthy volunteers, respectively, while pitavastatin C max is 60 and 40% higher than those of healthy volunteers, respectively.
+In patients with moderate renal impairment (estimated glomerular filtration rate of 30 mL/min/1.73 m2 to 59 mL/min/1.73 m2) and end stage renal disease receiving hemodialysis, pitavastatin AUC0-inf is 102% and 86% higher than those of healthy volunteers, respectively, while pitavastatin Cmax is 60% and 40% higher than those of healthy volunteers, respectively.
 Patients received hemodialysis immediately before pitavastatin dosing and did not undergo hemodialysis during the pharmacokinetic study.
-Hemodialysis patients have 33 and 36% increases in the mean unbound fraction of pitavastatin as compared to healthy volunteers and patients with moderate renal impairment, respectively.
+Hemodialysis patients have 33% and 36% increases in the mean unbound fraction of pitavastatin as compared to healthy volunteers and patients with moderate renal impairment, respectively [see Use in Specific Populations (8.6)].
 
-In another pharmacokinetic study, patients with severe renal impairment (glomerular filtration rate 15 mL/min/1.73 m 2 to 29 mL/min/1.73 m 2) not receiving hemodialysis were administered a single dose of pitavastatin 4 mg.
-The AUC 0-inf and the C max were 36 and 18% higher, respectively, compared with those of healthy volunteers.
-For both patients with severe renal impairment and healthy volunteers, the mean percentage of protein-unbound pitavastatin was approximately 0.6%.
+In another pharmacokinetic study, patients with severe renal impairment (estimated glomerular filtration rate 15 mL/min/1.73 m2 to 29 mL/min/1.73 m2) not receiving hemodialysis were administered a single dose of pitavastatin 4 mg.
+The AUC0-inf and the Cmax were 36% and 18% higher, respectively, compared with those of healthy volunteers.
+For both patients with severe renal impairment and healthy volunteers, the mean percentage of protein-unbound pitavastatin was approximately 0.6% [see Use in Specific Populations (8.6)].
 
 The effect of mild renal impairment on pitavastatin exposure has not been studied.
 
-Hepatic Impairment
+Patients with Hepatic Impairment The disposition of pitavastatin was compared in healthy volunteers and patients with various degrees of hepatic impairment.
+Pitavastatin Cmax and AUCinf in patients with moderate hepatic impairment (Child-Pugh B disease) was 2.7-fold and 3.8-fold higher, respectively as compared to health volunteers.
+In patients with mild hepatic impairment (Child-Pugh A disease), pitavastatin Cmax and AUCinf were 30% and 60% higher as compared to healthy volunteers.
+Mean pitavastatin half-life for moderate hepatic impairment, mild hepatic impairment, and healthy were 15, 10, and 8 hours, respectively [see Contraindications (4), Warnings and Precautions (5.3)].
 
-The disposition of pitavastatin was compared in healthy volunteers and patients with various degrees of hepatic impairment.
-The ratio of pitavastatin C max between patients with moderate hepatic impairment (Child-Pugh B disease) and healthy volunteers was 2.7.
-The ratio of pitavastatin AUC inf between patients with moderate hepatic impairment and healthy volunteers was 3.8.
-The ratio of pitavastatin C max between patients with mild hepatic impairment (Child-Pugh A disease) and healthy volunteers was 1.3.
-The ratio of pitavastatin AUC inf between patients with mild hepatic impairment and healthy volunteers was 1.6.
-Mean pitavastatin t ½ for moderate hepatic impairment, mild hepatic impairment, and healthy were 15, 10, and 8 hours, respectively.
+Drug Interaction Studies
 
-Drug-Drug Interactions
+Warfarin The steady-state pharmacodynamics (international normalized ratio [INR] and prothrombin time [PT]) and pharmacokinetics of warfarin in healthy volunteers were unaffected by the coadministration of pitavastatin 4 mg daily.
 
-The principal route of pitavastatin metabolism is glucuronidation via liver UGTs with subsequent formation of pitavastatin lactone.
-There is only minimal metabolism by the cytochrome P450 system.
+Table 3 presents the effect of coadministered drugs on pitavastatin systemic exposure:
 
-Warfarin
+Table 3 Effect of Coadministered Drugs on Pitavastatin Systemic Exposure
 
-The steady-state pharmacodynamics (international normalized ratio [INR] and prothrombin time [PT]) and pharmacokinetics of warfarin in healthy volunteers were unaffected by the coadministration of pitavastatin 4 mg daily.
-However, patients receiving warfarin should have their PT time or INR monitored when ZYPITAMAG is added to their therapy.
-
-Table 2 Effect of Coadministered Drugs on Pitavastatin Systemic Exposure
-
-| Coadministered drug | Dose regimen | Change in AUC* | Change in C max* |
+| Coadministered drug | Dosage regimen | Change in AUC* | Change in C max* |
 | --- | --- | --- | --- |
 | Cyclosporine | Pitavastatin 2 mg QD for 6 days + cyclosporine 2 mg/kg on Day 6 | ↑ 4.6 fold † | ↑ 6.6 fold † |
 | Erythromycin | Pitavastatin 4 mg single dose on Day 4 + erythromycin 500 mg 4 times daily for 6 days | ↑ 2.8 fold † | ↑ 3.6 fold † |
@@ -104,7 +88,9 @@ Table 2 Effect of Coadministered Drugs on Pitavastatin Systemic Exposure
 | † Considered clinically significant [see Dosage and Administration (2) and Drug Interactions (7)] |  |  |  |
 | BID = twice daily; QD = once daily; LA = Long Acting |  |  |  |
 
-Table 3 Effect of Pitavastatin Coadministration on Systemic Exposure to Other Drugs
+Table 4 presents the effect of pitavastatin coadministration on systemic exposure of other drugs:
+
+Table 4 Effect of Pitavastatin Coadministration on Systemic Exposure to Other Drugs
 
 | Coadministered drug | Dose regimen |  | Change in AUC* | Change in C max * |
 | --- | --- | --- | --- | --- |

@@ -1,41 +1,51 @@
 # 5 WARNINGS AND PRECAUTIONS
 
-## 5.1 Skeletal Muscle Effects
+## 5.1 Myopathy and Rhabdomyolysis
 
-Cases of myopathy and rhabdomyolysis with acute renal failure secondary to myoglobinuria have been reported with HMG-CoA reductase inhibitors, including pitavastatin.
-These risks can occur at any dose level, but increase in a dose-dependent manner.
+ZYPITAMAG may cause myopathy (muscle pain, tenderness, or weakness with creatine kinase (CK) above ten times the upper limit of normal) and rhabdomyolysis (with or without acute renal failure secondary to myoglobinuria).
+Rare fatalities have occurred as a result of rhabdomyolysis with statin use, including pitavastatin.
 
-ZYPITAMAG should be prescribed with caution in patients with predisposing factors for myopathy.
-These factors include advanced age (≥ 65 years), renal impairment, and inadequately treated hypothyroidism.
-The risk of myopathy may also be increased with concurrent administration of fibrates or lipid-modifying doses of niacin.
-ZYPITAMAG should be administered with caution in patients with impaired renal function, in elderly patients, or when used concomitantly with fibrates or lipid-modifying doses of niacin [see Drug Interactions (7.6), Use in Specific Populations (8.5, 8.6) and Clinical Pharmacology (12.3)].
+Risk Factors for Myopathy
 
-Cases of myopathy, including rhabdomyolysis, have been reported with HMG-CoA reductase inhibitors coadministered with colchicine, and caution should be exercised when prescribing ZYPITAMAG with colchicine [see Drug Interactions (7.7)].
+Risk factors for myopathy include age 65 years or greater, uncontrolled hypothyroidism, renal impairment, concomitant use of certain drugs, and higher ZYPITAMAG dosage.
+Dosages of pitavastatin greater than 4 mg once daily were associated with an increased risk for severe myopathy in premarketing clinical studies.
+The maximum recommended dose of ZYPITAMAG is 4 mg once daily [see Dosage and Administration (2.2)].
+
+Steps to Prevent or Reduce the Risk of Myopathy and Rhabdomyolysis
+
+ZYPITAMAG is contraindicated in patients taking cyclosporine and not recommended in patients taking gemfibrozil [see Contraindications (4) and Drug Interactions (7)].
+There are ZYPITAMAG dosage restrictions for patients taking erythromycin or rifampin [see Dosage and Administration (2.4)].
+The following drugs when used concomitantly with ZYPITAMAG may also increase the risk of myopathy and rhabdomyolysis: lipid-modifying dosages of niacin (>1 grams/day), fibrates, and colchicine [see Drug Interactions (7)].
+
+Discontinue ZYPITAMAG if markedly elevated CK levels occur or myopathy is diagnosed or suspected.
+Muscle symptoms and CK increases may resolve if ZYPITAMAG is discontinued.
+Temporarily discontinue ZYPITAMAG in patients experiencing an acute or serious condition at high risk of developing renal failure secondary to rhabdomyolysis, e.g., sepsis; shock; severe hypovolemia; major surgery; trauma; severe metabolic, endocrine, or electrolyte disorders; or uncontrolled epilepsy.
+
+Inform patients of the risk of myopathy and rhabdomyolysis when starting or increasing the ZYPITAMAG dosage.
+Instruct patients to promptly report any unexplained muscle pain, tenderness or weakness particularly if accompanied by malaise or fever.
+
+## 5.2 Immune-Mediated Necrotizing Myopathy
 
 There have been rare reports of immune-mediated necrotizing myopathy (IMNM), an autoimmune myopathy, associated with statin use.
-IMNM is characterized by: proximal muscle weakness and elevated serum creatine kinase, which persist despite discontinuation of statin treatment; muscle biopsy showing necrotizing myopathy without significant inflammation; improvement with immunosuppressive agents.
+IMNM is characterized by: proximal muscle weakness and elevated serum creatine kinase, which persist despite discontinuation of statin treatment; positive anti-HMG CoA reductase antibody; muscle biopsy showing necrotizing myopathy; and improvement with immunosuppressive agents.
+Additional neuromuscular and serologic testing may be necessary.
+Treatment with immunosuppressive agents may be required.
+Consider risk of IMNM carefully prior to initiation of a different statin.
+If therapy is initiated with a different statin, monitor for signs and symptoms of IMNM.
 
-ZYPITAMAG therapy should be discontinued if markedly elevated creatine kinase (CK) levels occur or myopathy is diagnosed or suspected.
-ZYPITAMAG therapy should also be temporarily withheld in any patient with an acute, serious condition suggestive of myopathy or predisposing to the development of renal failure secondary to rhabdomyolysis (e.g., sepsis, hypotension, dehydration, major surgery, trauma, severe metabolic, endocrine, and electrolyte disorders, or uncontrolled seizures).
-All patients should be advised to promptly report unexplained muscle pain, tenderness, or weakness, particularly if accompanied by malaise or fever or if muscle signs and symptoms persist after discontinuing ZYPITAMAG.
+## 5.3 Hepatic Dysfunction
 
-## 5.2 Liver Enzyme Abnormalities
-
-Increases in serum transaminases (aspartate aminotransferase [AST]/serum glutamic-oxaloacetic transaminase, or alanine aminotransferase [ALT]/serum glutamic-pyruvic transaminase) have been reported with HMG-CoA reductase inhibitors, including pitavastatin.
-In most cases, the elevations were transient and resolved or improved on continued therapy or after a brief interruption in therapy.
-
-In placebo-controlled Phase 2 studies, ALT > 3 times the upper limit of normal was not observed in the placebo, pitavastatin 1 mg, or pitavastatin 2 mg groups.
-One out of 202 patients (0.5%) administered pitavastatin 4 mg had ALT > 3 times the upper limit of normal.
-
-It is recommended that liver enzyme tests be performed before the initiation of ZYPITAMAG and if signs or symptoms of liver injury occur.
-
+Increases in serum transaminases have been reported with ZYPITAMAG [see Adverse Reactions (6)].
+In most cases, the elevations were transient and either resolved or improved on continued therapy or after a brief interruption in therapy.
 There have been rare postmarketing reports of fatal and non-fatal hepatic failure in patients taking statins, including pitavastatin.
-If serious liver injury with clinical symptoms and/or hyperbilirubinemia or jaundice occurs during treatment with ZYPITAMAG, promptly interrupt therapy.
-If an alternate etiology is not found do not restart ZYPITAMAG.
 
-As with other HMG-CoA reductase inhibitors, ZYPITAMAG should be used with caution in patients who consume substantial quantities of alcohol.
-Active liver disease, which may include unexplained persistent transaminase elevations, is a contraindication to the use of ZYPITAMAG [see Contraindications (4)].
+Patients who consume substantial quantities of alcohol and/or have a history of liver disease may be at increased risk for hepatic injury.
 
-## 5.3 Endocrine Function
+Consider liver enzyme testing before the initiation of ZYPITAMAG and thereafter, when clinically indicated.
+ZYPITAMAG is contraindicated in patients with active liver disease including unexplained persistent elevations in hepatic transaminase levels [see Contraindications (4)].
+If serious hepatic injury with clinical symptoms and/or hyperbilirubinemia or jaundice occurs, promptly discontinue ZYPITAMAG.
 
-Increases in HbA1c and fasting serum glucose levels have been reported with HMG-CoA reductase inhibitors, including pitavastatin.
+## 5.4 Increases in HbA1c and Fasting Serum Glucose Levels
+
+Increases in HbA1c and fasting serum glucose levels have been reported with statins, including pitavastatin.
+Optimize lifestyle measures, including regular exercise, maintaining a healthy body weight, and making healthy food choices.
