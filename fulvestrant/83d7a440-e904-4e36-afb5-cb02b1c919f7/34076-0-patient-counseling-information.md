@@ -29,4 +29,4 @@ Wilmington, DE 19850
 
 FASLODEX is a registered trademark of the AstraZeneca group of companies
 
-©AstraZeneca 2019
+©AstraZeneca 2020
