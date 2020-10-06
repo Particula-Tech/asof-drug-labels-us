@@ -78,10 +78,10 @@ Table 6 Analysis of Response (ITT)
 
 | Parameter | Decitabine For Injection N=89 | Supportive Care N=81 |
 | --- | --- | --- |
-| Overall Response Rate (CR+PR)† Complete Response (CR) Partial Response (PR) | 15 (17%)** 8 (9%) 7 (8%) | 0 (0%) 0 (0%) 0 (0%) |
+| Overall Response Rate (CR+PR)† Complete Response (CR) Partial Response (PR) | 15 (17%)* 8 (9%) 7 (8%) | 0 (0%) 0 (0%) 0 (0%) |
 | Duration of Response Median time to (CR+PR) response - Days (range) Median Duration of (CR+PR) response - Days (range) | 93 (55-272) 288 (116-388) | NA NA |
 
-**p-value <0.001 from two-sided Fisher’s Exact Test comparing Decitabine For Injection vs. Supportive Care.
+*p-value <0.001 from two-sided Fisher’s Exact Test comparing Decitabine For Injection vs. Supportive Care.
 
 †In the statistical analysis plan, a p-value of ≤ 0.024 was required to achieve statistical significance.
 

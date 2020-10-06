@@ -157,7 +157,7 @@ Table 1 Adverse Reactions Reported in ≥ 5% of Patients in the Decitabine For I
 In a single-arm MDS study (N=99), decitabine for injection was dosed at 20 mg/m2 intravenously, infused over one hour daily, for 5 consecutive days of a 4 week cycle.
 Table 2 presents all adverse reactions occurring in at least 5% of patients.
 
-Table 2 Adverse Reactions Reported in ≥ 5% of Patients in a Single-arm Study1
+Table 2 Adverse Reactions Reported in ≥ 5% of Patients in a Single-arm Study*
 
 |  |  | Decitabine For Injection N = 99 (%) |  |
 | --- | --- | --- | --- |
@@ -256,7 +256,7 @@ Table 2 Adverse Reactions Reported in ≥ 5% of Patients in a Single-arm Study1
 | Hypertension | 6 (6) |  |  |
 | Hypotension | 11 (11) |  |  |
 
-1 In this single arm study, investigators reported adverse events based on clinical signs and symptoms rather than predefined laboratory abnormalities.
+* In this single arm study, investigators reported adverse events based on clinical signs and symptoms rather than predefined laboratory abnormalities.
 Thus not all laboratory abnormalities were recorded as adverse events.
 
 No overall difference in safety was detected between patients > 65 years of age and younger patients in these MDS trials.
@@ -286,3 +286,4 @@ Because these reactions are reported voluntarily from a population of uncertain 
 
 - Sweet’s syndrome (acute febrile neutrophilic dermatosis)
 - Differentiation syndrome
+- Interstitial lung disease

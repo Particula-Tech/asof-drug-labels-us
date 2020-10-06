@@ -26,12 +26,12 @@ Population PK analysis (N=35) showed that the cumulative AUC per cycle for treat
 
 Table 3 Mean (CV% or 95% CI) Pharmacokinetic Parameters of Decitabine
 
-| Dose | Cmax (ng/ mL) | AUC0-INF (ng·h/m L) | T½ (h) | CL (L/h/m2) | AUCCumulative *** (ng·h/mL) |
+| Dose | Cmax (ng/ mL) | AUC0-INF (ng·h/m L) | T½ (h) | CL (L/h/m2) | AUCCumulative‡ (ng·h/mL) |
 | --- | --- | --- | --- | --- | --- |
 | 15 mg/m2 3-hr infusion every 8 hours for 3 days (Option 1)* | 73.8 (66) | 163 (62) | 0.62 (49) | 125 (53) | 1332 (1010 - 1730) |
-| 20 mg/m2 1-hr infusion daily for 5 days (Option 2)** | 147 (49) | 115 (43) | 0.54 (43) | 210 (47) | 570 (470 -700) |
+| 20 mg/m2 1-hr infusion daily for 5 days (Option 2)† | 147 (49) | 115 (43) | 0.54 (43) | 210 (47) | 570 (470 -700) |
 
-* N=14, **N=11, ***N=35 Cumulative AUC per cycle
+* N=14, † N=11, ‡ N=35 Cumulative AUC per cycle
 
 The exact route of elimination and metabolic fate of decitabine is not known in humans.
 One of the pathways of elimination of decitabine appears to be deamination by cytidine deaminase found principally in the liver but also in granulocytes, intestinal epithelium and whole blood.
