@@ -2,9 +2,9 @@ MEDICATION GUIDE
 
 Atomoxetine
 
-(A-toe-MOX-e-teen)
+(a" toe mox' e teen)
 
-Capsules
+Capsules, USP
 
 Read the Medication Guide that comes with atomoxetine capsules before you or your child starts taking it and each time you get a refill.
 There may be new information.
@@ -18,17 +18,15 @@ The following have been reported with use of atomoxetine capsules:
 
 Children and teenagers sometimes think about suicide, and many report trying to kill themselves.
 Results from atomoxetine capsules clinical studies with over 2200 child or teenage ADHD patients suggest that some children and teenagers may have a higher chance of having suicidal thoughts or actions.
-Although no suicides occurred in these studies, 4 out of every 1000 patients developed suicidal thoughts.
+Although no suicides occurred in these studies, 4 out of every 1,000 patients developed suicidal thoughts.
 Tell your child or teenager's doctor if your child or teenager (or there is a family history of):
 
-has bipolar illness (manic-depressive illness)
-
+- has bipolar illness (manic-depressive illness)
 - had suicide thoughts or actions before starting atomoxetine capsules
 
 The chance for suicidal thoughts and actions may be higher:
 
-early during atomoxetine capsules treatment
-
+- early during atomoxetine capsules treatment
 - during dose adjustments
 
 Prevent suicidal thoughts and action in your child or teenager by:
@@ -87,7 +85,7 @@ New mental (psychiatric) problems in children and teenagers:
 
 Call your child or teenager's doctor right away about any new mental symptoms because adjusting or stopping atomoxetine capsules treatment may need to be considered.
 
-What are atomoxetine Capsules?
+What are atomoxetine capsules?
 
 Atomoxetine capsules are a selective norepinephrine reuptake inhibitor medicine.
 It is used for the treatment of attention deficit and hyperactivity disorder (ADHD).
@@ -114,8 +112,15 @@ Before starting atomoxetine capsules tell your doctor or your child's doctor abo
 - heart problems, heart defects, irregular heart beat, high blood pressure, or low blood pressure
 - mental problems, psychosis, mania, bipolar illness, or depression
 - liver problems
-
-Tell your doctor if you or your child is pregnant, planning to become pregnant, or breastfeeding.
+- are pregnant or plan to become pregnant.
+  It is not known if atomoxetine capsules will harm your unborn baby.
+  Talk to your doctor if you are pregnant or plan to become pregnant.
+  - There is a pregnancy registry for females who are exposed to ADHD medications, including atomoxetine capsules, during pregnancy.
+    The purpose of the registry is to collect information about the health of females exposed to atomoxetine capsules and their baby.
+    If you or your child becomes pregnant during treatment with atomoxetine capsules, talk to your healthcare provider about registering with the National Pregnancy Registry of ADHD Medications at 1-866-961-2388 or visit online at https://womensmentalhealth.org/adhdmedications/.
+- are breastfeeding or plan to breastfeed.
+  It is not known if atomoxetine passes into your breast milk.
+  Talk to your doctor about the best way to feed your baby if you take atomoxetine capsules.
 
 Can atomoxetine capsules be taken with other medicines?
 
@@ -219,15 +224,15 @@ It may harm them.
 This Medication Guide summarizes the most important information about atomoxetine capsules.
 If you would like more information, talk with your doctor.
 You can ask your doctor or pharmacist for information about atomoxetine capsules that was written for healthcare professionals.
-Please address medical inquiries to, (MedicalAffairs@zydususa.com) Tel.: 1-877-993-8779.
+Please address medical inquiries to MedicalAffairs@zydususa.com or Tel.: 1-877-993-8779.
 
 What are the ingredients in atomoxetine capsules?
 
-Active ingredient: atomoxetine hydrochloride.
+Active ingredient: atomoxetine hydrochloride, USP.
 
 Inactive ingredients: Colloidal silicon dioxide, gelatin, pregelatinized starch, sodium lauryl sulfate and titanium dioxide.
 Additionally each 18 mg capsule shell contains: iron oxide yellow, each 25 mg and 40 mg capsule shell contains: FD & C blue # 2, each 60 mg capsule shell contains: FD & C blue # 2 and iron oxide yellow and each 80 mg and 100 mg capsule shell contains: iron oxide red and iron oxide yellow.
-The capsule is printed with black pharmaceutical ink which contains following ingredients: black iron oxide, butyl alcohol, dehydrated alcohol, isopropyl alcohol, potassium hydroxide, propylene glycol, purified water, shellac and strong ammonia solution.
+The capsule is printed with black pharmaceutical ink which contains following ingredients: black iron oxide, potassium hydroxide, propylene glycol and shellac.
 
 Nardil® is a registered trademark of Pfizer Inc.
 
@@ -237,8 +242,7 @@ Emsam® is a registered trademark of Somerset Pharmaceuticals Inc.
 
 This Medication Guide has been approved by the US Food and Drug Administration.
 
-This product's package insert may have been updated.
-For current package insert, please visit www.zydususa.com.
+Medication Guide available at www.zydususa.com/medguides or call 1-877-993-8779.
 
 Manufactured by:
 
@@ -252,4 +256,4 @@ Zydus Pharmaceuticals (USA) Inc.
 
 Pennington, NJ 08534
 
-Rev.: 07/17
+Rev.: 09/20

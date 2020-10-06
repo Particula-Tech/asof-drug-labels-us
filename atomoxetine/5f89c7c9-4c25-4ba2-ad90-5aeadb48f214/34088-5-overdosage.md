@@ -4,7 +4,7 @@
 
 There is limited clinical trial experience with atomoxetine overdose.
 During postmarketing, there have been fatalities reported involving a mixed ingestion overdose of atomoxetine and at least one other drug.
-There have been no reports of death involving overdose of atomoxetine alone, including intentional overdoses at amounts up to 1400 mg.
+There have been no reports of death involving overdose of atomoxetine alone, including intentional overdoses at amounts up to 1,400 mg.
 In some cases of overdose involving atomoxetine, seizures have been reported.
 The most commonly reported symptoms accompanying acute and chronic overdoses of atomoxetine were gastrointestinal symptoms, somnolence, dizziness, tremor, and abnormal behavior.
 Hyperactivity and agitation have also been reported.

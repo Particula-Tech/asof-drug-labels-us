@@ -1,7 +1,5 @@
 ## WARNING: SUICIDAL IDEATION IN CHILDREN AND ADOLESCENTS
 
-WARNING: SUICIDAL IDEATION IN CHILDREN AND ADOLESCENTS
-
 Atomoxetine increased the risk of suicidal ideation in short-term studies in children or adolescents with Attention-Deficit/Hyperactivity Disorder (ADHD).
 Anyone considering the use of atomoxetine in a child or adolescent must balance this risk with the clinical need.
 Co-morbidities occurring with ADHD may be associated with an increase in the risk of suicidal ideation and/or behavior.

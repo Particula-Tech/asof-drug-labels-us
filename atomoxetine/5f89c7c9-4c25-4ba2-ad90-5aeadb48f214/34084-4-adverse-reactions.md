@@ -2,23 +2,23 @@
 
 ## 6.1 Clinical Trials Experience
 
-Atomoxetine was administered to 5382 children or adolescent patients with ADHD and 1007 adults with ADHD in clinical studies.
-During the ADHD clinical trials, 1625 children and adolescent patients were treated for longer than 1 year and 2529 children and adolescent patients were treated for over 6 months.
+Atomoxetine was administered to 5,382 children or adolescent patients with ADHD and 1,007 adults with ADHD in clinical studies.
+During the ADHD clinical trials, 1,625 children and adolescent patients were treated for longer than 1 year and 2,529 children and adolescent patients were treated for over 6 months.
 
 Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in practice.
 
 Child and Adolescent Clinical Trials
 
-Reasons for discontinuation of treatment due to adverse reactions in child and adolescent clinical trials — In acute child and adolescent placebo-controlled trials, 3.0% (48/1613) of atomoxetine subjects and 1.4% (13/945) placebo subjects discontinued for adverse reactions.
+Reasons for discontinuation of treatment due to adverse reactions in child and adolescent clinical trials — In acute child and adolescent placebo-controlled trials, 3.0% (48/1,613) of atomoxetine subjects and 1.4% (13/945) placebo subjects discontinued for adverse reactions.
 For all studies, (including open-label and long-term studies), 6.3% of extensive metabolizer (EM) patients and 11.2% of poor metabolizer (PM) patients discontinued because of an adverse reaction.
 Among atomoxetine -treated patients, irritability (0.3%, N=5); somnolence (0.3%, N=5); aggression (0.2%, N=4); nausea (0.2%, N=4); vomiting (0.2%, N=4); abdominal pain (0.2%, N=4); constipation (0.1%, N=2); fatigue (0.1%, N=2); feeling abnormal (0.1%, N=2); and headache (0.1%, N=2) were the reasons for discontinuation reported by more than 1 patient.
 
 Seizures
 
 Atomoxetine has not been systematically evaluated in pediatric patients with seizure disorder as these patients were excluded from clinical studies during the product's premarket testing.
-In the clinical development program, seizures were reported in 0.2% (12/5073) of children whose average age was 10 years (range 6 to 16 years).
+In the clinical development program, seizures were reported in 0.2% (12/5,073) of children whose average age was 10 years (range 6 to 16 years).
 
-In these clinical trials, the seizure risk among poor metabolizers was 0.3% (1/293) compared to 0.2% (11/4741) for extensive metabolizers.
+In these clinical trials, the seizure risk among poor metabolizers was 0.3% (1/293) compared to 0.2% (11/4,741) for extensive metabolizers.
 
 Commonly observed adverse reactions in acute child and adolescent, placebo-controlled trials
 
@@ -32,7 +32,7 @@ Table 2 Common Treatment-Emergent Adverse Reactions Associated with the Use of A
 
 | Adverse ReactionReactions reported by at least 2% of patients treated with atomoxetine, and greater than placebo. The following reactions did not meet this criterion but were reported by more atomoxetine-treated patients than placebo-treated patients and are possibly related to atomoxetine treatment: blood pressure increased, early morning awakening (terminal insomnia), flushing, mydriasis, sinus tachycardia, asthenia, palpitations, mood swings, constipation, and dyspepsia. The following reactions were reported by at least 2% of patients treated with atomoxetine, and equal to or less than placebo: pharyngolaryngeal pain, insomnia (insomnia includes the terms, insomnia, initial insomnia, middle insomnia). The following reaction did not meet this criterion but shows a statistically significant dose relationship: pruritus. | Percentage of Patients Reporting Reaction |  |
 | --- | --- | --- |
-|  | Atomoxetine (N=1597) | Placebo (N=934) |
+|  | Atomoxetine (N=1,597) | Placebo (N=934) |
 | Gastrointestinal Disorders |  |  |
 | Abdominal painAbdominal pain includes the terms: abdominal pain upper, abdominal pain, stomach discomfort, abdominal discomfort, epigastric discomfort. | 18 | 10 |
 | Vomiting | 11 | 6 |
@@ -97,8 +97,8 @@ Table 4 Common Treatment-Emergent Adverse Reactions Associated with the Use of A
 
 | Adverse Reactiona | Percentage of Patients Reporting Reaction |  |  |
 | --- | --- | --- | --- |
-|  | Atomoxetine | Placebo |  |
-| System Organ Class/Adverse Reaction | (N=1697) | (N=1560) |  |
+| Atomoxetine | Placebo |  |  |
+| (N=1,697) | (N=1,560) |  |  |
 | Cardiac Disorders |  |  |  |
 | Palpitations | 3 | 1 |  |
 | Gastrointestinal Disorders |  |  |  |

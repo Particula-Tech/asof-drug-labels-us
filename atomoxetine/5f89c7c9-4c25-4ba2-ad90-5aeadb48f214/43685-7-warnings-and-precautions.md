@@ -67,11 +67,11 @@ Pulse and blood pressure should be measured at baseline, following atomoxetine d
 
 The following table provides short-term, placebo-controlled clinical trial data for the proportions of patients having an increase in: diastolic blood pressure ≥15 mm Hg; systolic blood pressure ≥20 mm Hg; heart rate greater than or equal to 20 bpm, in both the pediatric and adult populations (see Table 1).
 
-Table 1Proportion of patients meeting threshold at any one time during clinical trial.
+Table 1Abbreviations: bpm=beats per minute; DBP=diastolic blood pressure; HR=heart rate; mm Hg=millimeters mercury; SBP=systolic blood pressure.
 
 |  | Pediatric Acute | Placebo-Controlled |  |  | Adult Acute | Placebo-Controlled |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-|  | MaximumAbbreviations: bpm=beats per minute; DBP=diastolic blood pressure; HR=heart rate; mm Hg=millimeters mercury; SBP=systolic blood pressure. |  | Endpoint |  | Maximum |  | Endpoint |  |
+|  | MaximumProportion of patients meeting threshold at any one time during clinical trial. |  | Endpoint |  | Maximum |  | Endpoint |  |
 |  | Atomoxetine | Placebo | Atomoxetine | Placebo | Atomoxetine | Placebo | Atomoxetine | Placebo |
 |  | % | % | % | % | % | % | % | % |
 | DBP (≥ 15 mm Hg) | 21.5 | 14.1 | 9.3 | 4.8 | 12.6 | 8.7 | 4.8 | 3.5 |
@@ -146,7 +146,7 @@ In general, the weight and height gain of pediatric patients treated with atomox
 Subsequently, weight gain rebounds and at about 3 years of treatment, patients treated with atomoxetine have gained 17.9 kg on average, 0.5 kg more than predicted by their baseline data.
 After about 12 months, gain in height stabilizes, and at 3 years, patients treated with atomoxetine have gained 19.4 cm on average, 0.4 cm less than predicted by their baseline data (see Figure 1 below).
 
-Figure 1: Mean Weight and Height Percentiles Over Time for Patients With Three Years of atomoxetine Treatment
+Figure 1: Mean Weight and Height Percentiles Over Time for Patients with Three Years of atomoxetine Treatment
 
 This growth pattern was generally similar regardless of pubertal status at the time of treatment initiation.
 Patients who were pre-pubertal at the start of treatment (girls ≤8 years old, boys ≤9 years old) gained an average of 2.1 kg and 1.2 cm less than predicted after three years.
@@ -172,8 +172,7 @@ Laboratory tests are available to identify CYP2D6 PMs.
 The blood levels in PMs are similar to those attained by taking strong inhibitors of CYP2D6.
 The higher blood levels in PMs lead to a higher rate of some adverse effects of atomoxetine [see Adverse Reactions (6.1)].
 
-## 5.13 Concomitant Use of Potent CYP2D6 Inhibitors or Use in patients who are known to be CYP2D6 PMs
+## 5.13 Concomitant Use of Potent CYP2D6 Inhibitors or Use in Patients who are known to be CYP2D6 PMs
 
 Atomoxetine is primarily metabolized by the CYP2D6 pathway to 4-hydroxyatomoxetine.
-Dosage adjustment of atomoxetine may be necessary when coadministered with potent CYP2D6 inhibitors (e.g., paroxetine, fluoxetine, and quinidine) or when administered to CYP2D6 PMs.
-[See Dosage and Administration (2.4) and Drug Interactions (7.2)].
+Dosage adjustment of atomoxetine may be necessary when coadministered with potent CYP2D6 inhibitors (e.g., paroxetine, fluoxetine, and quinidine) or when administered to CYP2D6 PMs [see Dosage and Administration (2.4) and Drug Interactions (7.2)].
