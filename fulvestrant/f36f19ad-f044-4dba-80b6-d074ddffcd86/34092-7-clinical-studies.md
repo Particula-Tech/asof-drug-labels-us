@@ -40,7 +40,7 @@ Table 12: Efficacy Results in CONFIRM (Intent-To-Treat (ITT) Population)
 | Median OS (months) | 26.4 | 22.3 |
 | Hazard Ratio2 (95% CI3)6 | 0.81 (0.69 to 0.96) |  |
 | ORR7 (95% CI3) | 13.8% (9.7%, 18.8%) (33/240) | 14.6% (10.5%, 19.4%) (38/261) |
-| 1. PFS (Progression Free Survival) = the time between randomization and the earliest of progression or death from any cause. Minimum follow-up duration of 18 months.2. Hazard Ratio <1 favors fulvestrant 500 mg.3. CI=Confidence Interval4. OS=Overall Survival5. Minimum follow up duration of 50 months.6. Not statistically significant as no adjustments were made for multiplicity.7. ORR (Objective Response Rate), as defined as number (%) of patients with complete response or partial response, was analyzed in the evaluable patients with measurable disease at baseline (fulvestrant 500 mg N=240; fulvestrant 250 mg N=261). Minimum follow-up duration of 18 months. |  |  |
+| 1. PFS (Progression Free Survival) = the time between randomization and the earliest of progression or death from any cause. Minimum follow-up duration of 18 months.2. Hazard Ratio <1 favors fulvestrant 500 mg.3. CI=Confidence Interval.4. OS=Overall Survival.5.Minimum follow up duration of 50 months.6. Not statistically significant as no adjustments were made for multiplicity.7. ORR (Objective Response Rate), as defined as number (%) of patients with complete response or partial response, was analyzed in the evaluable patients with measurable disease at baseline (fulvestrant 500 mg N=240; fulvestrant 250 mg N=261). Minimum follow-up duration of 18 months. |  |  |
 
 Figure 6: Kaplan-Meier PFS: CONFIRM ITT Population
 
@@ -121,7 +121,7 @@ Table 14: Efficacy Results in Studies 0020 and 0021 (Objective Response Rate (OR
 | Overall Survival (OS) |  |  |  |  |
 | Died n (%)Median Survival (days) | 152 (73.8%)844 | 149 (76.8%)913 | 167 (75.2%)803 | 173 (75.5%)736 |
 | Hazard Ratio6(2-sided 95% CI) | 0.98(0.78, 1.24) |  | 0.97(0.78, 1.21) |  |
-| 1. CR = Complete Response2. PR = Partial Response3. FUL = Fulvestrant4. ANA = anastrozole5. CI = Confidence Interval6. Hazard Ratio <1 favors fulvestrant |  |  |  |  |
+| 1. CR = Complete Response.2. PR = Partial Response.3. FUL = Fulvestrant.4. ANA = anastrozole.5. CI = Confidence Interval.6. Hazard Ratio <1 favors fulvestrant. |  |  |  |  |
 
 Combination Therapy
 
@@ -231,21 +231,27 @@ Forty-three percent (43%) of patients had received chemotherapy in the adjuvant 
 Twenty-one percent (21%) of patients had bone-only disease and 61% had visceral disease.
 Demographics and baseline disease characteristics were balanced and comparable between study arms.
 
-The efficacy results from MONALEESA-3 are summarized in Table 17 and Figure 13.
+The efficacy results from MONALEESA-3 are summarized in Table 17, Figure 13, and Figure 14.
 Consistent results were observed in stratification factor subgroups of disease site and prior endocrine treatment for advanced disease.
-At the time of the PFS analysis, 17% of patients had died, and overall survival data were immature.
 
 Table 17: Efficacy Results – MONALEESA-3 (Investigator Assessment, Intent-to-Treat Population)
 
 |  | Fulvestrant plus Ribociclib | Fulvestrant plus Placebo |
 | --- | --- | --- |
-| Progression-free survival | N=484 | N=242 |
+| Progression-free survival* | N=484 | N=242 |
 | Events (n, %) | 210 (43.4%) | 151 (62.4%) |
 | Median (months, 95% CI) | 20.5 (18.5, 23.5) | 12.8 (10.9, 16.3) |
 | Hazard Ratio (95% CI) | 0.593 (0.480 to 0.732) |  |
 | p-value1 | <0.0001 |  |
-| Overall Response Rate2 | N=379 | N=181 |
+| Overall Survival | N=484 | N=242 |
+| Events (n, %) | 167 (34.5%) | 108 (44.6%) |
+| Median (months, 95% CI) | NR (42.5, NR) | 40.0 (37.0, NR) |
+| Hazard Ratio (95% CI) | 0.724 (0.568, 0.924) |  |
+| p-value1 | 0.00455 |  |
+| Overall Response Rate2* | N=379 | N=181 |
 | Patients with measurable disease (95% CI) | 40.9 (35.9, 45.8) | 28.7 (22.1, 35.3) |
-| 1. p-value is obtained from the one-sided log-rank2. Based on confirmed responses |  |  |
+| Abbreviation: NR, not reached1. p-value is obtained from the one-sided log-rank2. Based on confirmed responses*Investigator Assessment |  |  |
 
-Figure 13: Kaplan-Meier Progression Free Survival Curves – MONALEESA-3 (Investigator assessment)
+Figure 13: Kaplan-Meier Progression Free Survival Curves – MONALEESA-3 (Intent-to-Treat Population, Investigator assessment)
+
+Figure 14: Kaplan-Meier plot of Overall Survival – MONALEESA-3 (Intent-to-Treat Population)

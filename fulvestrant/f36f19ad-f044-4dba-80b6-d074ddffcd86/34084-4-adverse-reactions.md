@@ -2,10 +2,10 @@
 
 The following adverse reactions are discussed in more detail in other sections of the labeling:
 
-- Risk of Bleeding [see Warnings and Precautions (5.1)]
-- Increased Exposure in Patients with Hepatic Impairment [see Warnings and Precautions (5.2)]
-- Injection Site Reaction [see Warnings and Precautions (5.3)]
-- Embryo-Fetal Toxicity [see Warnings and Precautions (5.4)]
+- Risk of Bleeding [see Warnings and Precautions (5.1)].
+- Increased Exposure in Patients with Hepatic Impairment [see Warnings and Precautions (5.2)].
+- Injection Site Reaction [see Warnings and Precautions (5.3)].
+- Embryo-Fetal Toxicity [see Warnings and Precautions (5.4)].
 
 ## 6.1 Clinical Trials Experience
 
@@ -47,7 +47,7 @@ Table 1: Adverse Reactions in CONFIRM (≥5% in Either Treatment Group)
 | Dyspnea | 4 | 5 |
 | 1. Including more severe injection site related sciatica, neuralgia, neuropathic pain, and peripheral neuropathy. |  |  |
 
-In the pooled safety population (N=1127) from clinical trials comparing fulvestrant 500 mg to fulvestrant 250 mg, post-baseline increases of ≥1 CTC grade in either AST, ALT, or alkaline phosphatase were observed in >15% of patients receiving fulvestrant.
+In the pooled safety population (N=1,127) from clinical trials comparing fulvestrant 500 mg to fulvestrant 250 mg, post-baseline increases of ≥1 CTC grade in either AST, ALT, or alkaline phosphatase were observed in >15% of patients receiving fulvestrant.
 Grade 3 to 4 increases were observed in 1% to 2% of patients.
 The incidence and severity of increased hepatic enzymes (ALT, AST, ALP) did not differ between the 250 mg and the 500 mg fulvestrant arms.
 
@@ -338,7 +338,7 @@ Table 9: Adverse Reactions Occurring in ≥10% and ≥2% higher than Fulvestrant
 | Investigations |  |  |  |  |  |  |
 | Alanine aminotransferase increased | 15 | 7 | 2 | 5 | <1 | 0 |
 | Aspartate aminotransferase increased | 13 | 5 | 1 | 5 | <1 | 0 |
-| Grading according to CTCAE 4.03.CTCAE=Common Terminology Criteria for Adverse Events; N=number of patients1. Infections; urinary tract infections; respiratory tract infections; gastroenteritis; sepsis (<1%). |  |  |  |  |  |  |
+| Grading according to CTCAE 4.03.CTCAE=Common Terminology Criteria for Adverse Events; N=number of patients.1. Infections; urinary tract infections; respiratory tract infections; gastroenteritis; sepsis (<1%). |  |  |  |  |  |  |
 
 Additional adverse reactions in MONALEESA-3 for patients receiving fulvestrant plus ribociclib included asthenia (14%), dyspepsia (10%), thrombocytopenia (9%), dry skin (8%), dysgeusia (7%), electrocardiogram QT prolonged (6%), dry mouth (5%), vertigo (5%), dry eye (5%), lacrimation increased (4%), erythema (4%), hypocalcemia (4%), blood bilirubin increased (1%), and syncope (1%).
 
