@@ -14,19 +14,11 @@ For Single Patient Use Only
 
 2 mg/1.5 mL (1.34 mg/mL) Prefilled pen
 
-Each pen delivers doses of 1 mg only
+Each pen delivers doses in 1 mg increments only
 
 For subcutaneous use only
 
-Rx only
-
-Once weekly
-
-Discard pen 8 weeks after first use.
-
-REFRIGERATE – DO NOT FREEZE.
-
-Recommended for use with NovoFine® or NovoFine® Plus disposable needles.
+Use OZEMPIC once weekly
 
 Contains: 2 Ozempic® pens, 4 NovoFine® Plus 32G needles, Product Literature.
 
@@ -50,19 +42,36 @@ For Single Patient Use Only
 
 2 mg/1.5 mL (1.34 mg/mL) Prefilled pen
 
-Pen delivers doses of 0.25 mg, 0.5 mg
+Pen delivers doses in 0.25 mg or 0.5 mg increments only
 
 For subcutaneous use only
 
-Rx only.
-Once weekly
-
-Discard pen 8 weeks after first use.
-
-REFRIGERATE – DO NOT FREEZE.
-
-Recommended for use with NovoFine® orNovoFine® Plus disposable needles.
+Use OZEMPIC once weekly
 
 Contains: 1 Ozempic® pen, 6 NovoFine® Plus 32G needles, Product Literature.
+
+Dispense the enclosed Medication Guide to each patient.
+
+# PRINCIPAL DISPLAY PANEL – 3 ML Pen
+
+1 mg
+
+NDC 0169-4130-13 List 413013
+
+OZEMPIC®
+
+(semaglutide) injection
+
+For Single Patient Use Only
+
+4 mg/3 mL (1.34 mg/mL) Prefilled pen
+
+Pen delivers doses in 1 mg increments only
+
+For subcutaneous use only
+
+Use OZEMPIC once weekly
+
+Contains: 1 OZEMPIC pen, 4 NovoFine® Plus 32G needles, Product Literature.
 
 Dispense the enclosed Medication Guide to each patient.

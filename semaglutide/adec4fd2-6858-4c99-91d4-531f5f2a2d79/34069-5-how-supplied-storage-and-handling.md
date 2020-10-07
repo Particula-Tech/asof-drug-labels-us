@@ -2,16 +2,13 @@
 
 How Supplied
 
-OZEMPIC injection is supplied as a clear, colorless solution that contains 2 mg of semaglutide in a 1.5 mL (1.34 mg/mL) pre-filled, disposable, single-patient-use pen injector in the following packaging configurations:
+Injection: clear, colorless solution of 1.34 mg/mL of semaglutide available in pre-filled, disposable, single-patient-use pens in the following packaging configurations:
 
-1. Carton of 1 Pen (NDC 0169-4132-12)
-2. •Pen delivers doses of 0.25 mg or 0.5 mg per injection
-3. •6 NovoFine® Plus needles
-4. •Intended for treatment initiation at the 0.25 mg dose and maintenance treatment at the 0.5 mg dose
-5. Carton of 2 Pens (NDC 0169-4136-02)
-6. •Pen delivers doses of 1 mg per injection
-7. •4 NovoFine® Plus needles
-8. •Intended for maintenance treatment at the 1 mg dose only
+| Dose per Injection | Use For | Total Strength per Total Volume | Doses per Pen | Carton Contents | NDC |
+| --- | --- | --- | --- | --- | --- |
+| 0.25 mg0.5 mg | Initiation Maintenance | 2 mg / 1.5 mL | 4 doses of 0.25 mg and2 doses of 0.5 mg or 4 doses of 0.5 mg | 1 pen6 NovoFine® Plus needles | 0169-4132-12 |
+| 1 mg | Maintenance | 2 mg / 1.5 mL | 2 doses of 1 mg | 2 pens4 NovoFine® Plus needles | 0169-4136-02 |
+| 1 mg | Maintenance | 4 mg / 3 mL | 4 doses of 1 mg | 1 pen4 NovoFine® Plus needles | 0169-4130-13 |
 
 Each OZEMPIC pen is for use by a single patient.
 An OZEMPIC pen must never be shared between patients, even if the needle is changed [see Warnings and Precautions (5.4)].
