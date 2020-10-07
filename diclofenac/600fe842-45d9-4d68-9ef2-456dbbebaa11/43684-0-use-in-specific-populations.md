@@ -6,12 +6,12 @@ Risk Summary
 
 ARTHROTEC is contraindicated in pregnant women [see Contraindications (4)].
 
-There are no adequate and well-controlled studies of ARTHROTEC in pregnant women; however, there is information available about the active drug components of ARTHROTEC, misoprostol and diclofenac sodium.
+There are no adequate and well-controlled studies of ARTHROTEC in pregnant women; however, there is information available about the active drug components of ARTHROTEC, diclofenac sodium and misoprostol.
 Administration of misoprostol to pregnant women can cause abortion, premature birth, birth defects or uterine rupture.
 Congenital anomalies sometimes associated with fetal death have been reported subsequent to the unsuccessful use of misoprostol as an abortifacient, but the drug's teratogenic mechanism has not been demonstrated.
-Use of NSAIDS, including diclofenac, during the third trimester of pregnancy increases the risk of premature closure of fetal ductus arteriosus [see Data].
-There are clinical considerations when misoprostol and diclofenac are used in pregnant women [see Clinical Considerations].
-In reproduction studies with pregnant rabbits, there were no skeletal or visceral malformations when the combination of diclofenac sodium and misoprostol was administered during organogenesis at doses less than the maximum recommended human doses (MRHD); however, embryotoxicity was observed at this exposure [see Data].
+Use of NSAIDS, including diclofenac, during the third trimester of pregnancy increases the risk of premature closure of fetal ductus arteriosus (see Data).
+There are clinical considerations when misoprostol and diclofenac are used in pregnant women (see Clinical Considerations).
+In reproduction studies with pregnant rabbits, there were no skeletal or visceral malformations when the combination of diclofenac sodium and misoprostol was administered during organogenesis at doses less than the maximum recommended human doses (MRHD); however, embryotoxicity was observed at this exposure (see Data).
 Based on animal data, prostaglandins have been shown to have an important role in endometrial vascular permeability, blastocyst implantation, and decidualization.
 In animal studies, administration of prostaglandin synthesis inhibitors such as diclofenac, resulted in increased pre- and post-implantation loss.
 If a woman becomes pregnant while taking ARTHROTEC, discontinue the drug and advise the woman of the potential risks to her and to a fetus.
@@ -55,7 +55,8 @@ Labor or Delivery
 There are no studies on the effects of ARTHROTEC or diclofenac during labor or delivery.
 In animal studies, NSAIDS, including diclofenac, are known to inhibit prostaglandin synthesis, cause delayed parturition, and increase the incidence of stillbirth.
 In humans, some case reports and studies have associated misoprostol with risk of stillbirth, uterine hyperstimulation, perineal tear, amniotic fluid embolism, severe bleeding, shock, uterine rupture and death.
-The risk of uterine rupture associated with misoprostol use in pregnancy may occur at any gestational age, and increases with advancing gestational ages and with prior uterine surgery, including cesarean delivery.Grand multiparity also appears to be a risk factor for uterine rupture.
+The risk of uterine rupture associated with misoprostol use in pregnancy may occur at any gestational age, and increases with advancing gestational ages and with prior uterine surgery, including cesarean delivery.
+Grand multiparity also appears to be a risk factor for uterine rupture.
 
 Data
 
@@ -105,10 +106,10 @@ Infertility
 
 Females
 
-Based on the mechanism of action, the use of prostaglandin-mediated NSAIDs, including ARTHROTEC, may delay or prevent rupture of ovarian follicles, which has been associated with reversible infertility in some women [see Clinical Pharmacology (12.1)].
+Based on the mechanism of action, the use of prostaglandin-mediated NSAIDs, including diclofenac, a component of ARTHROTEC, may delay or prevent rupture of ovarian follicles, which has been associated with reversible infertility in some women [see Clinical Pharmacology (12.1)].
 Published animal studies have shown that administration of prostaglandin synthesis inhibitors has the potential to disrupt prostaglandin-mediated follicular rupture required for ovulation.
 Small studies in women treated with NSAIDs have also shown a reversible delay in ovulation.
-Consider withdrawal of NSAIDs, including ARTHOTEC, in women who have difficulties conceiving or who are undergoing investigation of infertility.
+Consider withdrawal of NSAIDs, including ARTHROTEC, in women who have difficulties conceiving or who are undergoing investigation of infertility.
 
 ## 8.4 Pediatric Use
 

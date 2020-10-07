@@ -1,17 +1,17 @@
 # 16 HOW SUPPLIED/STORAGE AND HANDLING
 
-ARTHROTEC (diclofenac sodium/misoprostol) is supplied as a film-coated tablet in dosage strengths of either 50 mg diclofenac sodium/200 mcg misoprostol or 75 mg diclofenac sodium/200 mcg misoprostol.
-The 50 mg/200 mcg dosage strength is a round, biconvex, white to off-white tablet imprinted with four "A's" encircling a "50" in the middle on one side and "SEARLE" and "1411" on the other.
-The 75 mg/200 mcg dosage strength is a round, biconvex, white to off-white tablet imprinted with four "A's" encircling a "75" in the middle on one side and "SEARLE" and "1421" on the other.
+ARTHROTEC (diclofenac sodium and misoprostol) delayed-release tablets are supplied as:
+
+- 50 mg diclofenac sodium and 200 mcg misoprostol as round, biconvex, white to off-white tablets imprinted with four "A's" encircling a "50" in the middle on one side and "SEARLE" and "1411" on the other.
+- 75 mg diclofenac sodium and 200 mcg misoprostol as round, biconvex, white to off-white tablets imprinted with four "A's" encircling a "75" in the middle on one side and "SEARLE" and "1421" on the other.
 
 The dosage strengths are supplied in:
 
-| Strength | NDC Number | Size |
-| --- | --- | --- |
-| 50/200 | 0025-1411-60 | bottle of 60 |
-|  | 0025-1411-90 | bottle of 90 |
-|  | 0025-1411-34 | carton of 100 unit dose |
-| 75/200 | 0025-1421-60 | bottle of 60 |
-|  | 0025-1421-34 | carton of 100 unit dose |
+| Strength |  | NDC Number | Size |
+| --- | --- | --- | --- |
+| ARTHROTEC 50 | 50 mg diclofenac sodium and 200 mcg misoprostol | 0025-1411-60 | bottle of 60 |
+| 0025-1411-90 | bottle of 90 |  |  |
+| ARTHROTEC 75 | 75 mg diclofenac sodium and 200 mcg misoprostol | 0025-1421-60 | bottle of 60 |
 
-Store at or below 25°C (77°F), in a dry area.
+Store at 20°C to 25°C (68°F to 77°F).
+Excursions permitted to 15°C to 30°C (59°F to 86°F) [See USP Controlled Room Temperature].

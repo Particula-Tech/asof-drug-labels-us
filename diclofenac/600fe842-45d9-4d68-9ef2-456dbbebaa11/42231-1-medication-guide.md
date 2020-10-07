@@ -10,12 +10,12 @@
 | increasing doses of NSAIDslonger use of NSAIDssmokingdrinking alcohol | older agepoor healthadvanced liver diseasebleeding problems |
 | NSAID containing medicines should only be used: exactly as prescribedat the lowest dose possible for your treatmentfor the shortest time needed |  |
 | What is Arthrotec? |  |
-| Arthotec contains 2 medicines: Diclofenac is a non-steroidal anti-inflammatory drug (NSAID). See "What is the most important information I should know about medicines called Nonsteroidal Anti-inflammatory Drugs (NSAIDs)?Misoprostol is a medicine used to protect the the lining of the esophagus, stomach and intestines while taking diclofenac. |  |
+| Arthrotec contains 2 medicines: Diclofenac is a non-steroidal anti-inflammatory drug (NSAID). See "What is the most important information I should know about medicines called Nonsteroidal Anti-inflammatory Drugs (NSAIDs)?Misoprostol is a medicine used to protect the lining of the esophagus, stomach and intestines while taking diclofenac. |  |
 | Arthrotec is a prescription medicine used to treat: symptoms of osteoarthritis or rheumatoid arthritis in people at high risk of developing stomach (gastric) and intestinal (duodenal) ulcers while taking NSAIDs. |  |
 | What are NSAIDs? |  |
 | NSAIDs are used to treat pain and redness, swelling, and heat (inflammation) from medical conditions such as different types of arthritis, menstrual cramps, and other types of short-term pain. |  |
 | Who should not take Arthrotec? |  |
-| Do not take Arthrotec: if you are allergic to diclofenac, misoprostol or any other ingredients in Arthrotec. See the end of this Medication Guide for a list of ingredients in Arthortec.if you have had an asthma attack, hives, or other allergic reaction with aspirin or any other NSAIDs.right before or after heart bypass surgery.if you are pregnant.If you currently have bleeding in your stomach (gastrointestinal bleeding). |  |
+| Do not take Arthrotec: if you are allergic to diclofenac, misoprostol or any other ingredients in Arthrotec. See the end of this Medication Guide for a list of ingredients in Arthrotec.if you have had an asthma attack, hives, or other allergic reaction with aspirin or any other NSAIDs.right before or after heart bypass surgery.if you are pregnant.If you currently have bleeding in your stomach (gastrointestinal bleeding). |  |
 | Before taking Arthrotec, tell your healthcare provider about all of your medical conditions, including if you: have liver or kidney problems.have high blood pressure.have asthma.are pregnant or plan to become pregnant. See "Who should not take Arthrotec?"are breastfeeding or plan to breast feed. |  |
 | Tell your healthcare provider about all of the medicines you take, including prescription or over-the-counter medicines, vitamins or herbal supplements. NSAIDs and some other medicines can interact with each other and cause serious side effects. Do not start taking any new medicine without talking to your healthcare provider first. |  |
 | What are the possible side effects of NSAIDs? |  |
@@ -35,4 +35,4 @@
 | Active ingredients: diclofenac sodium, misoprostol. |  |
 | Inactive ingredients: colloidal silicon dioxide, crospovidone, hydrogenated castor oil, hypromellose, lactose, magnesium stearate, methacrylic acid copolymer, microcrystalline cellulose, povidone (polyvidone) K-30, sodium hydroxide, starch (corn), talc, triethyl citrate. |  |
 | Manufactured for: Pfizer Inc., 235 East 42nd Street, New York, NY, 10017 Distributed by: G. D. Searle LLC, Division of Pfizer Inc., 235 East 42nd Street, New York, NY, 10017 For more information, go to www.pfizer.com or call 1-800-438-1985 |  |
-| This Medication Guide has been approved by the U.S. Food and Drug Administration. LAB: 0793-3.0 Revised: July 2020 |  |
+| This Medication Guide has been approved by the U.S. Food and Drug Administration. LAB: 0793-4.0 Revised: September 2020 |  |

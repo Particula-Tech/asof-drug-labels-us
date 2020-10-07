@@ -93,7 +93,7 @@ Exercise caution when prescribing ARTHROTEC with concomitant drugs that are know
 
 ## 5.4 Hypertension
 
-NSAIDs, including ARTHROTEC, can lead to new onset of hypertension or worsening of pre-existing hypertension, either of which may contribute to the increased incidence of CV events.
+NSAIDs, including diclofenac, a component of ARTHROTEC, can lead to new onset of hypertension or worsening of pre-existing hypertension, either of which may contribute to the increased incidence of CV events.
 Patients taking angiotensin converting enzyme (ACE) inhibitors, thiazide diuretics, or loop diuretics may have impaired response to these therapies when taking NSAIDs [see Drug Interactions (7)].
 
 Monitor blood pressure (BP) during the initiation of NSAID treatment and throughout the course of therapy.
@@ -134,7 +134,7 @@ In patients with normal renal function, these effects have been attributed to a 
 
 ## 5.7 Anaphylactic Reactions
 
-Diclofenac/misoprostol has been associated with anaphylactic reactions in patients with and without known hypersensitivity to diclofenac/misoprostol and in patients with aspirin-sensitive asthma [see Contraindications (4) and Warnings and Precautions (5.8)].
+ARTHROTEC has been associated with anaphylactic reactions in patients with and without known hypersensitivity to the individual components of diclofenac sodium and misoprostol and in patients with aspirin-sensitive asthma [see Contraindications (4) and Warnings and Precautions (5.8)].
 
 Seek emergency help if an anaphylactic reaction occurs.
 
@@ -146,17 +146,17 @@ When ARTHROTEC is used in patients with preexisting asthma (without known aspiri
 
 ## 5.9 Serious Skin Reactions
 
-NSAIDs, including diclofenac, can cause serious skin adverse reactions such as exfoliative dermatitis, Stevens-Johnson Syndrome (SJS), and toxic epidermal necrolysis (TEN), which can be fatal.
+NSAIDs, including diclofenac, a component of ARTHROTEC, can cause serious skin adverse reactions such as exfoliative dermatitis, Stevens-Johnson Syndrome (SJS), and toxic epidermal necrolysis (TEN), which can be fatal.
 These serious events may occur without warning.
 Inform patients about the signs and symptoms of serious skin reactions, and to discontinue the use of ARTHROTEC at the first appearance of skin rash or any other sign of hypersensitivity.
 ARTHROTEC is contraindicated in patients with previous serious skin reactions to NSAIDs [see Contraindications (4)].
 
 ## 5.10 Premature Closure of Fetal Ductus Arteriosus
 
-Diclofenac may cause premature closure of the fetal ductus arteriosus.
+Diclofenac, a component of ARTHROTEC, may cause premature closure of the fetal ductus arteriosus.
 ARTHROTEC is contraindicated in pregnant women.
 Advise pregnant women of the potential risk to a fetus.
-Verify the pregnancy status of females of reproductive potential prior to initiation of ARTHOTEC.
+Verify the pregnancy status of females of reproductive potential prior to initiation of ARTHROTEC.
 Advise females of reproductive potential to use effective contraception during treatment with ARTHROTEC [see Contraindications (4) and Use in Specific Populations (8.1, 8.3)].
 
 ## 5.11 Hematologic Toxicity
@@ -165,13 +165,13 @@ Anemia has occurred in NSAID-treated patients.
 This may be due to occult or gross blood loss, fluid retention, or an incompletely described effect on erythropoiesis.
 If a patient treated with ARTHROTEC has any signs or symptoms of anemia, monitor hemoglobin or hematocrit.
 
-NSAIDs, including ARTHROTEC, may increase the risk of bleeding events.
+NSAIDs, including diclofenac a component ARTHROTEC, may increase the risk of bleeding events.
 Co-morbid conditions such as coagulation disorders or concomitant use of warfarin and other anticoagulants, antiplatelet agents (e.g., aspirin), and serotonin reuptake inhibitors (SSRIs) and serotonin norepinephrine reuptake inhibitors (SNRIs) may increase this risk.
 Monitor these patients for signs of bleeding [see Drug Interactions (7)].
 
 ## 5.12 Masking of Inflammation and Fever
 
-The pharmacological activity of ARTHROTEC in reducing inflammation, and possibly fever, may diminish the utility of diagnostic signs in detecting infections.
+The pharmacological activity of diclofenac, a component of ARTHROTEC, in reducing inflammation, and possibly fever, may diminish the utility of diagnostic signs in detecting infections.
 
 ## 5.13 Laboratory Monitoring
 

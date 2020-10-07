@@ -2,7 +2,7 @@
 
 ## 12.1 Mechanism of Action
 
-ARTHROTEC (diclofenac/misoprostol) is a combination product containing diclofenac, a nonsteroidal anti-inflammatory drug (NSAID) with analgesic, anti-inflammatory and antipyretic properties, and misoprostol, a GI mucosal protective prostaglandin E1 analog.
+ARTHROTEC is a combination product containing diclofenac sodium, a nonsteroidal anti-inflammatory drug (NSAID) with analgesic, anti-inflammatory and antipyretic properties, and misoprostol, a GI mucosal protective prostaglandin-1 (PGE1) analog.
 
 Diclofenac
 
@@ -16,7 +16,7 @@ Because diclofenac is an inhibitor of prostaglandin synthesis, its mode of actio
 
 Misoprostol
 
-Misoprostol is a synthetic prostaglandin E1 analog with gastric antisecretory and mucosal protective properties.
+Misoprostol is a synthetic PGE1 analog with gastric antisecretory and mucosal protective properties.
 NSAIDs inhibit prostaglandin synthesis.
 A deficiency of prostaglandins within the gastric and duodenal mucosa may lead to diminishing bicarbonate and mucus secretion and may contribute to the mucosal damage caused by NSAIDs.
 
@@ -58,9 +58,9 @@ Table 2: Pharmacokinetic Parameters of Diclofenac and Misoprostol Acid Following
 | DICLOFENAC Mean (SD) |  |  |  |
 | Treatment (n=36) | Cmax (ng/mL) | Tmax (hr) | AUC(0–12h) (ng∙hr/mL) |
 | ARTHROTEC 50 | 1207 (364) | 2.4 (1.0) | 1380 (272) |
-| Diclofenac | 1298 (441) | 2.4 (1.0) | 1357 (290) |
+| Diclofenac Sodium | 1298 (441) | 2.4 (1.0) | 1357 (290) |
 | ARTHROTEC 75 | 2025 (2005) | 2.0 (1.4) | 2773 (1347) |
-| Diclofenac | 2367 (1318) | 1.9 (0.7) | 2609 (1185) |
+| Diclofenac Sodium | 2367 (1318) | 1.9 (0.7) | 2609 (1185) |
 | SD: Standard deviation of the mean; AUC: Area under the curve; Cmax: Peak concentration; Tmax: Time to peak concentration |  |  |  |
 
 Absorption
@@ -90,7 +90,7 @@ These data may not reflect drug level in mature milk and in a daily dosing regim
 
 Metabolism
 
-Diclofenac: Diclofenac metabolism is predominantly mediated via CYP2C9 in the liver.
+Diclofenac: Metabolism is predominantly mediated via CYP2C9 in the liver.
 Five metabolites (4'hydroxy-, 5-hydroxy-, 3'-hydroxy-, 4',5-dihydroxy- and 3'-hydroxy-4'-methoxy diclofenac) have been identified.
 The major metabolite (4'-hydroxy-diclofenac) has very weak pharmacologic activity.
 
@@ -98,7 +98,7 @@ Both diclofenac and its oxidative metabolites undergo glucuronidation or sulfati
 Acylglucuronidation mediated by UGT2B7 and oxidation mediated by CYP2C8 may also play a role in diclofenac metabolism.
 CYP3A4 is responsible for the formation of minor metabolites, 5-hydroxy and 3'-hydroxy-diclofenac.
 
-Misoprostol: It undergoes rapid and extensive metabolism to its biologically active metabolite, misoprostol acid.
+Misoprostol: Undergoes rapid and extensive metabolism to its biologically active metabolite, misoprostol acid.
 
 Excretion
 
@@ -128,10 +128,6 @@ A 4-week study, comparing plasma level profiles of diclofenac (50 mg two times a
 In subjects over 64 years of age, the AUC for misoprostol acid was increased.
 
 In a multiple-dose crossover study of 24 elderly subjects aged 65 years or older, the misoprostol contained in ARTHROTEC (two times a day) did not affect the pharmacokinetics of diclofenac.
-
-Age: Pediatric Population
-
-Diclofenac and misoprostol have not been investigated in pediatric patients.
 
 Race: Pharmacokinetic differences due to race have not been identified.
 
