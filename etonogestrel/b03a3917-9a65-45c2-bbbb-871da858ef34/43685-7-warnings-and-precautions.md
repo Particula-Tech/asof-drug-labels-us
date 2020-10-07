@@ -21,13 +21,14 @@ Implant removal may be difficult or impossible if the implant is not inserted co
 
 There have been reports of migration of the implant within the arm from the insertion site, which may be related to deep insertion.
 There also have been postmarketing reports of implants located within the vessels of the arm and the pulmonary artery, which may be related to deep insertions or intravascular insertion.
+Some cases of implants found within the pulmonary artery were associated with chest pain and/or respiratory disorders (such as dyspnea, cough, or hemoptysis); others were asymptomatic.
 In cases where the implant has migrated to the pulmonary artery, endovascular or surgical procedures may be needed for removal.
 
 If at any time the implant cannot be palpated, it should be localized, and removal is recommended.
 
 Exploratory surgery without knowledge of the exact location of the implant is strongly discouraged.
-Removal of deeply inserted implants should be conducted with caution in order to prevent injury to deeper neural or vascular structures in the arm and be performed by healthcare providers familiar with the anatomy of the arm.
-If the implant is located in the chest, healthcare providers familiar with the anatomy of the chest should be consulted.
+Removal of deeply inserted implants should be conducted with caution in order to prevent injury to deeper neural or vascular structures in the arm and be performed by healthcare professionals familiar with the anatomy of the arm.
+If the implant is located in the chest, healthcare professionals familiar with the anatomy of the chest should be consulted.
 Failure to remove the implant may result in continued effects of etonogestrel, such as compromised fertility, ectopic pregnancy, or persistence or occurrence of a drug-related adverse event.
 
 ## 5.2 Changes in Menstrual Bleeding Patterns
@@ -44,11 +45,11 @@ Irregular bleeding (10.8%) was the single most common reason women stopped treat
 In these studies, women had an average of 17.7 days of bleeding or spotting every 90 days (based on 3,315 intervals of 90 days recorded by 780 patients).
 The percentages of patients having 0, 1-7, 8-21, or >21 days of spotting or bleeding over a 90-day interval while using the non-radiopaque etonogestrel implant are shown in Table 1.
 
-Table 1: Percentages of Patients With 0, 1-7, 8-21, or >21 Days of Spotting or Bleeding Over a 90-Day Interval While Using the Non-Radiopaque Etonogestrel Implant (IMPLANON)
+Table 1: Bleeding or Spotting: Incidence and Duration Over a 90-Day Interval While Using the Non-Radiopaque Etonogestrel Implant (IMPLANON)
 
 | Treatment Days 91-180 (N = 745) | Treatment Days 271-360 (N = 657) | Treatment Days 631-720 (N = 547) |  |
 | --- | --- | --- | --- |
-| Total Days of Spotting or Bleeding | Percentage of Patients |  |  |
+| Total Days of Bleeding or Spotting | Percentage of Patients |  |  |
 | 0 Days | 19% | 24% | 17% |
 | 1-7 Days | 15% | 13% | 12% |
 | 8-21 Days | 30% | 30% | 37% |
@@ -173,7 +174,7 @@ When an implant is removed, it is important to remove it in its entirety [see Do
 
 ## 5.17 Monitoring
 
-A woman who is using NEXPLANON should have a yearly visit with her healthcare provider for a blood pressure check and for other indicated health care.
+A woman who is using NEXPLANON should have a yearly visit with her healthcare professional for a blood pressure check and for other indicated health care.
 
 ## 5.18 Drug-Laboratory Test Interactions
 

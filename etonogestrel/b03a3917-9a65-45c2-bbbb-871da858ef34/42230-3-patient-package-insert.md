@@ -91,7 +91,7 @@ Certain medicines may make NEXPLANON less effective, including:
 
 Ask your healthcare provider if you are not sure if your medicine is one listed above.
 
-If you are taking medicines or herbal products that might make NEXPLANON less effective, you and your doctor may decide to leave NEXPLANON in place; in that case, an additional non-hormonal contraceptive should be used.
+If you are taking medicines or herbal products that might make NEXPLANON less effective, you and your healthcare provider may decide to leave NEXPLANON in place; in that case, an additional non-hormonal contraceptive should be used.
 Because the effect of another medicine on NEXPLANON may last up to 28 days after stopping the medicine, it is necessary to use the additional non-hormonal contraceptive for that long.
 
 When you are using NEXPLANON, tell all of your healthcare providers that you have NEXPLANON in place in your arm.
@@ -116,11 +116,11 @@ Immediately after the NEXPLANON implant has been placed, you and your healthcare
 
 If you cannot feel the implant immediately after insertion, the implant may not have been inserted, or it may have been inserted deeply.
 A deep insertion may cause problems with locating and removing the implant.
-Once the healthcare professional has located the implant, it should be removed.
+Once the healthcare provider has located the implant, it should be removed.
 
 If at any time you cannot feel the NEXPLANON implant, contact your healthcare provider immediately and use a non-hormonal birth control method (such as condoms) until your healthcare provider confirms that the implant is in place.
 You may need special tests to check that the implant is in place or to help find the implant when it is time to take it out.
-If the implant cannot be found in the arm after a thorough search, your healthcare professional may use x-rays or other imaging methods on your chest.
+If the implant cannot be found in the arm after a thorough search, your healthcare provider may use x-rays or other imaging methods on your chest.
 
 Depending on the exact position of the implant, removal may be difficult and may require surgery.
 
@@ -191,12 +191,13 @@ Special procedures, including surgery in the hospital, may be needed to remove t
 If the implant is not removed, then the effects of NEXPLANON will continue for a longer period of time.
 
 Implants have been found in the pulmonary artery (a blood vessel in the lung).
-If the implant cannot be found in the arm, your healthcare professional may use x-rays or other imaging methods on the chest.
+If the implant cannot be found in the arm, your healthcare provider may use x-rays or other imaging methods on the chest.
 If the implant is located in the chest, surgery may be needed.
 
 Other problems related to insertion and removal are:
 
 - Pain, irritation, swelling, or bruising at the insertion site
+- Numbness and tingling at the insertion site
 - Scarring, including a thick scar called a keloid around the insertion site
 - Infection
 - Scar tissue may form around the implant making it difficult to remove
@@ -291,5 +292,5 @@ Additional Information
 
 This Patient Information leaflet contains important information about NEXPLANON.
 If you would like more information, talk with your healthcare provider.
-You can ask your healthcare provider for information about NEXPLANON that is written for healthcare professionals.
+You can ask your healthcare provider for information about NEXPLANON that is written for healthcare providers.
 You may also call 1-800-622-4477 or visit www.NEXPLANON-USA.com.

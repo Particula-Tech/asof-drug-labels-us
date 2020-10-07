@@ -2,7 +2,7 @@
 
 The efficacy of NEXPLANON does not depend on daily, weekly or monthly administration.
 
-All healthcare providers should receive instruction and training prior to performing insertion and/or removal of NEXPLANON.
+All healthcare professionals should receive instruction and training prior to performing insertion and/or removal of NEXPLANON.
 
 A single NEXPLANON implant is inserted subdermally just under the skin at the inner side of the non-dominant upper arm.
 The insertion site is overlying the triceps muscle about 8-10 cm (3-4 inches) from the medial epicondyle of the humerus and 3-5 cm (1.25-2 inches) posterior to (below) the sulcus (groove) between the biceps and triceps muscles.
@@ -74,9 +74,9 @@ If intercourse has already occurred, pregnancy should be excluded.
 ## 2.2 Insertion of NEXPLANON
 
 The basis for successful use and subsequent removal of NEXPLANON is a correct and carefully performed subdermal insertion of the single, rod-shaped implant in accordance with the instructions.
-Both the healthcare provider and the woman should be able to feel the implant under the skin after placement.
+Both the healthcare professional and the woman should be able to feel the implant under the skin after placement.
 
-All healthcare providers performing insertions and/or removals of NEXPLANON should receive instructions and training prior to inserting or removing the implant.
+All healthcare professionals performing insertions and/or removals of NEXPLANON should receive instructions and training prior to inserting or removing the implant.
 
 Preparation
 
@@ -84,9 +84,9 @@ Before inserting NEXPLANON, carefully read the instructions for insertion as wel
 If you are unsure of the necessary steps to safely insert and/or remove NEXPLANON, do not attempt the procedure.
 
 Call the Merck National Service Center at 1-877-888-4231 if you have any questions.
-Videos demonstrating insertion and removal are available online for trained healthcare providers (www.nexplanontraining.com).
+Videos demonstrating insertion and removal are available online for trained healthcare professionals (www.nexplanontraining.com).
 
-Before insertion of NEXPLANON, the healthcare provider should confirm that:
+Before insertion of NEXPLANON, the healthcare professional should confirm that:
 
 - The woman is not pregnant and has no other contraindication for the use of NEXPLANON [see Contraindications (4)].
 - The woman has had a medical history and physical examination, including a gynecologic examination, performed.
@@ -106,7 +106,7 @@ The following equipment is needed for the implant insertion:
 
 Insertion Procedure
 
-To help make sure the implant is inserted just under the skin, the healthcare providers should be positioned to see the advancement of the needle by viewing the applicator from the side and not from above the arm.
+To help make sure the implant is inserted just under the skin, the healthcare professionals should be positioned to see the advancement of the needle by viewing the applicator from the side and not from above the arm.
 From the side view, the insertion site and the movement of the needle just under the skin can be clearly visualized.
 
 For illustrative purposes, Figures depict the left inner arm.
@@ -183,7 +183,7 @@ Keep the applicator in the same position with the needle inserted to its full le
 If needed, you may use your free hand to stabilize the applicator.
 Unlock the purple slider by pushing it slightly down (Figure 8a).
 Move the slider fully back until it stops.
-Do not move () the applicator while moving the purple slider (Figure 8b).
+Do not move the applicator while moving the purple slider (Figure 8b).
 The implant is now in its final subdermal position, and the needle is locked inside the body of the applicator.
 The applicator can now be removed (Figure 8c).
 
@@ -236,21 +236,21 @@ Deeply-placed implants should be localized and removed as soon as possible to av
 
 Preparation
 
-Removal of the implant should only be performed under aseptic conditions by a healthcare provider who is familiar with the removal technique.
+Removal of the implant should only be performed under aseptic conditions by a healthcare professional who is familiar with the removal technique.
 If you are unfamiliar with the removal technique, call 1-877-888-4231 for further information.
 
-Before initiating the removal procedure, the healthcare provider should assess the location of the implant and carefully read the instructions for removal.
+Before initiating the removal procedure, the healthcare professional should assess the location of the implant and carefully read the instructions for removal.
 The exact location of the implant in the arm should be verified by palpation.
 If the implant is not palpable, consult the User Card or medical record to verify the arm which contains the implant.
 If the implant cannot be palpated, it may be deeply located or have migrated.
 Consider that it may lie close to vessels and nerves.
-Removal of non-palpable implants should only be performed by a healthcare provider experienced in removing deeply placed implants and familiar with localizing the implant and the anatomy of the arm.
+Removal of non-palpable implants should only be performed by a healthcare professional experienced in removing deeply placed implants and familiar with localizing the implant and the anatomy of the arm.
 Call 1-877-888-4231 for further information.
 [See Localization and Removal of a Non-Palpable Implant, below.]
 
 Procedure for Removal of an Implant that is Palpable
 
-Before removal of the implant, the healthcare provider should confirm that:
+Before removal of the implant, the healthcare professional should confirm that:
 
 - The woman does not have allergies to the antiseptic or anesthetic to be used.
 
@@ -274,7 +274,7 @@ The arm should be positioned with the elbow flexed and the hand underneath the h
 Step 2.
 Locate the implant by palpation.
 Push down the end of the implant closest to the shoulder (Figure 10) to stabilize it; a bulge should appear indicating the tip of the implant that is closest to the elbow.
-If the tip does not pop up, removal of the implant may be more challenging and should be performed by providers experienced with removing deeper implants.
+If the tip does not pop up, removal of the implant may be more challenging and should be performed by professionals experienced with removing deeper implants.
 Call 1-877-888-4231 for further information.
 
 Mark the distal end (end closest to the elbow), for example, with a surgical marker.
@@ -315,7 +315,7 @@ Gently grasp the implant and then flip the forceps over into your other hand (Fi
 Step 8.
 With a second pair of forceps carefully dissect the tissue around the implant and grasp the implant (Figure 18).
 The implant can then be removed.
-If the implant cannot be grasped, stop the procedure and refer the woman to a healthcare provider experienced with complex removals or call 1-877-888-4231.
+If the implant cannot be grasped, stop the procedure and refer the woman to a healthcare professional experienced with complex removals or call 1-877-888-4231.
 
 Step 9.
 Confirm that the entire implant, which is 4 cm long, has been removed by measuring its length.
@@ -339,18 +339,18 @@ An implant that has been deeply inserted or has migrated may not be palpable and
 A non-palpable implant should always be located prior to attempting removal.
 Given the radiopaque nature of the implant, suitable methods for localization include two-dimensional X-ray and X-ray computer tomography (CT).
 Ultrasound scanning (USS) with a high-frequency linear array transducer (10 MHz or greater) or magnetic resonance imaging (MRI) may be used.
-Once the implant has been localized in the arm, the implant should be removed by a healthcare provider experienced in removing deeply placed implants and familiar with the anatomy of the arm.
+Once the implant has been localized in the arm, the implant should be removed by a healthcare professional experienced in removing deeply placed implants and familiar with the anatomy of the arm.
 The use of ultrasound guidance during the removal should be considered.
 
 If the implant cannot be found in the arm after comprehensive localization attempts, consider applying imaging techniques to the chest as events of migration to the pulmonary vasculature have been reported.
-If the implant is located in the chest, surgical or endovascular procedures may be needed for removal; healthcare providers familiar with the anatomy of the chest should be consulted.
+If the implant is located in the chest, surgical or endovascular procedures may be needed for removal; healthcare professionals familiar with the anatomy of the chest should be consulted.
 
 If at any time these imaging methods fail to locate the implant, etonogestrel blood level determination can be used for verification of the presence of the implant.
 For details on etonogestrel blood level determination, call 1-877-888-4231 for further instructions.
 
 If the implant migrates within the arm, removal may require a minor surgical procedure with a larger incision or a surgical procedure in an operating room.
 Removal of deeply inserted implants should be conducted with caution in order to help prevent injury to deeper neural or vascular structures in the arm.
-Non-palpable and deeply inserted implants should be removed by healthcare providers familiar with the anatomy of the arm and removal of deeply-inserted implants.
+Non-palpable and deeply inserted implants should be removed by healthcare professionals familiar with the anatomy of the arm and removal of deeply-inserted implants.
 
 Exploratory surgery without knowledge of the exact location of the implant is strongly discouraged.
 
