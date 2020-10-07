@@ -206,9 +206,7 @@ NOTE: As with many other drugs, certain advice to patients being treated with VA
 This information is intended to aid in the safe and effective use of this medication.
 It is not a disclosure of all possible adverse or intended effects.
 
-Non-melanoma Skin Cancer
-
-Instruct patients taking hydrochlorothiazide to protect skin from the sun and undergo regular skin cancer screening.
+Non-melanoma Skin Cancer Instruct patients taking hydrochlorothiazide to protect skin from the sun and undergo regular skin cancer screening.
 
 Drug Interactions Neprilysin Inhibitors
 
@@ -233,7 +231,7 @@ If it is necessary to continue the diuretic, provide medical supervision for at 
 
 Agents Causing Renin Release The antihypertensive effect of enalapril is augmented by antihypertensive agents that cause renin release (e.g., diuretics).
 
-Non-steroidal Anti-inflammatory Agents including Selective Cyclooxygenase-2 Inhibitors (COX-2 Inhibitors) In patients who are elderly, volume-depleted (including those on diuretic therapy), or with compromised renal function, coadministration of NSAIDs, including selective COX-2 inhibitors, with ACE inhibitors, including enalapril, may result in deterioration of renal function, including possible acute renal failure.
+Non-steroidal Anti-inflammatory Agents Including Selective Cyclooxygenase-2 Inhibitors (COX-2 Inhibitors) In patients who are elderly, volume-depleted (including those on diuretic therapy), or with compromised renal function, coadministration of NSAIDs, including selective COX-2 inhibitors, with ACE inhibitors, including enalapril, may result in deterioration of renal function, including possible acute renal failure.
 These effects are usually reversible.
 Monitor renal function periodically in patients receiving enalapril and NSAID therapy.
 
@@ -259,7 +257,7 @@ mTOR (mammalian target of rapamycin) inhibitors: Patients receiving coadministra
 
 When administered concurrently the following drugs may interact with thiazide diuretics:
 
-Alcohol, Barbiturates, or Narcotics Potentiation of orthostatic hypotension may occur.
+Alcohol, barbiturates, or narcotics Potentiation of orthostatic hypotension may occur.
 
 Anti-diabetic drugs (oral agents and insulin) Dosage adjustment of the anti-diabetic drug may be required.
 

@@ -1,14 +1,12 @@
-Rx only
-
 Distributed by: Bausch Health US, LLC Bridgewater, NJ 08807 USA
 
 Manufactured by: Bausch Health Companies Inc. Steinbach, MB R5G 1Z7, Canada
 
-Vaseretic is a trademark of Bausch Health Companies Inc. or its affiliates.
+VASERETIC is a trademark of Bausch Health Companies Inc. or its affiliates.
 
 © 2020 Bausch Health Companies Inc. or its affiliates
 
 Rev.
-08/2020
+09/2020
 
-Updated p/n
+9390805_ 20002950

@@ -1,6 +1,6 @@
 # HOW SUPPLIED
 
-VASERETIC Tablets 10-25 mg are rust-colored, oval-shaped tablets with one side imprinted with "VASE 10-25" and both sides scored.
+VASERETIC Tablets 10-25 mg are rust-colored, oval-shaped tablets with one side imprinted with “VASE 10-25” and both sides scored.
 Each tablet contains 10 mg of enalapril maleate and 25 mg of hydrochlorothiazide.
 They are supplied as follows:
 
