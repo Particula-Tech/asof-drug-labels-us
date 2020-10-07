@@ -6,11 +6,14 @@ In adults, symptomatic response to therapy with omeprazole does not preclude the
 Consider additional follow-up and diagnostic testing in adult patients who have a suboptimal response or an early symptomatic relapse after completing treatment with a PPI.
 In older patients, also consider an endoscopy.
 
-## 5.2 Acute Interstitial Nephritis
+## 5.2 Tubulointerstitial Nephritis
 
-Acute interstitial nephritis has been observed in patients taking PPIs including omeprazole.
-Acute interstitial nephritis may occur at any point during PPI therapy and is generally attributed to an idiopathic hypersensitivity reaction.
-Discontinue omeprazole if acute interstitial nephritis develops [see Contraindications (4)].
+Tubulointerstitial nephritis (TIN) has been observed in patients taking PPIs and may occur at any point during PPI therapy.
+Presentation ranges from symptomatic acute hypersensitivity reactions to an asymptomatic gradual decrease in glomerular filtration rate.
+In reported case series, TIN was diagnosed on biopsy and in the absence of extra-renal manifestations or systemic inflammatory symptoms up to two years after the start of PPI therapy.
+
+Discontinue omeprazole delayed-release capsules and evaluate patients with an unexplained decrease in glomerular filtration rate for TIN.
+Avoid PPIs in patients with a prior history of PPI-induced TIN.
 
 ## 5.3 Clostridium difficile-Associated Diarrhea
 

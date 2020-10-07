@@ -10,14 +10,16 @@ This information does not take the place of talking with your doctor about your 
 
 What is the most important information I should know about omeprazole delayed-release capsules?
 
+You should take omeprazole delayed-release capsules exactly as prescribed, at the lowest dose possible and for the shortest time needed.
+
 Omeprazole delayed-release capsules may help your acid-related symptoms, but you could still have serious stomach problems.
 Talk with your doctor.
 
 Omeprazole delayed-release capsules can cause serious side effects, including:
 
-• A type of kidney problem (acute interstitial nephritis).
-Some people who take proton pump inhibitor (PPI) medicines, including omeprazole delayed-release capsules, may develop a kidney problem called acute interstitial nephritis that can happen at any time during treatment with omeprazole delayed-release capsules.
-Call your doctor if you have a decrease in the amount that you urinate or if you have blood in your urine.
+• A type of kidney problem (tubulointerstitial nephritis).
+Some people who take proton pump inhibitor (PPI) medicines, including omeprazole delayed-release capsules, may develop a kidney problem called tubulointerstitial nephritis that can happen at any time during treatment with omeprazole delayed-release capsules.
+Call your doctor right away if you have a decrease in the amount that you urinate or if you have blood in your urine.
 
 • Diarrhea.
 Omeprazole delayed-release capsules may increase your risk of getting severe diarrhea.
@@ -153,8 +155,8 @@ Talk with your doctor about the possibility of vitamin B-12 deficiency if you ha
 This problem can be serious.
 Low magnesium can happen in some people who take a PPI medicine for at least 3 months.
 If low magnesium levels happen, it is usually after a year of treatment.
-
 You may or may not have symptoms of low magnesium.
+
 Tell your doctor right away if you develop any of these symptoms:
 
 | • seizures | • jitteriness | • spasms of the hands and feet |
@@ -255,7 +257,7 @@ Dr. Reddy’s Laboratories Limited
 
 Bachupally – 500 090 INDIA
 
-Revised: 1019
+Revised: 0720
 
 Dispense with medication guide available at:
 
