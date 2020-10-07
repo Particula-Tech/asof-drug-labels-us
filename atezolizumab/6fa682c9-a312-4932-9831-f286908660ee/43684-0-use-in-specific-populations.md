@@ -53,6 +53,11 @@ Based on animal studies, TECENTRIQ may impair fertility in females of reproducti
 
 The safety and effectiveness of TECENTRIQ have not been established in pediatric patients.
 
+The safety and antitumor activity of TECENTRIQ were assessed but not established in a single-arm, multi-center, multi-cohort trial (NCT02541604) in 60 pediatric patients aged 7 months to <17 years with relapsed or progressive solid tumors and lymphomas.
+No new safety signals were observed in pediatric patients in this study.
+
+In pediatric patients who received TECENTRIQ 15 mg/kg with a maximum dose of 1200 mg every 3 weeks, the steady-state exposure (AUC) of atezolizumab in pediatric patients aged 12 years or older was comparable to that in adult patients who received TECENTRIQ 1200 mg every 3 weeks, while the exposure trended lower in pediatric patients less than 12 years old.
+
 ## 8.5 Geriatric Use
 
 Of 3040 patients with urothelial carcinoma, lung cancer, triple-negative breast cancer, hepatocellular carcinoma, and melanoma who were treated with TECENTRIQ in clinical studies, 43% were 65 years and over and 12% were 75 years and over.
