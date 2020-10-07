@@ -14,6 +14,6 @@ To ensure the patient is not pregnant at the time of the first injection, the fi
 If the time interval between injections is greater than 13 weeks, the physician should determine that the patient is not pregnant before administering the drug.
 The efficacy of Depo-Provera CI depends on adherence to the dosage schedule of administration.
 
-## 2.2 Switching from other Methods of Contraception
+## 2.2 Switching From Other Methods of Contraception
 
 When switching from other contraceptive methods, Depo-Provera CI should be given in a manner that ensures continuous contraceptive coverage based upon the mechanism of action of both methods, (e.g., patients switching from oral contraceptives should have their first injection of Depo-Provera CI on the day after the last active tablet or at the latest, on the day following the final inactive tablet).

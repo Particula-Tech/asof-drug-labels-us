@@ -25,7 +25,7 @@ Mean Percent Change from Baseline in BMD in Adults by Skeletal Site and Cohort (
 | 5 years | -5.38% n=33 | 0.43% n=105 | -5.16% n=21 | 0.19% n=65 | -6.12% n=34 | -0.27% n=106 |
 | 7 years | -3.13% n=12 | 0.53% n=60 | -1.34% n=7 | 0.94% n=39 | -5.38% n=13 | -0.11% n=63 |
 
-## 14.3 Bone Mineral Density Changes in Adolescent Females (12–18 years of age)
+## 14.3 Bone Mineral Density Changes in Adolescent Females (12–18 Years of Age)
 
 The impact of Depo-Provera CI (150 mg) use for up to 240 weeks (4.6 years) was evaluated in an open-label non-randomized clinical study in 389 adolescent females (12–18 years).
 Use of Depo-Provera CI was associated with a significant decline from baseline in BMD.
@@ -92,7 +92,7 @@ Table 6: Extent of BMD Recovery (Months Post-Treatment) in Adolescents by Years 
 | 48 M post-treatment | 10 | 6.5% | 9 | 3.5% |
 | 60 M post-treatment | 3 | 6.2% | 2 | 5.7% |
 
-## 14.4 Relationship of fracture incidence to use of DMPA 150 mg IM or non-use by women of reproductive age
+## 14.4 Relationship of Fracture Incidence to Use of DMPA 150 mg IM or Non-Use by Women of Reproductive Age
 
 A retrospective cohort study to assess the association between DMPA injection and the incidence of bone fractures was conducted in 312,395 female contraceptive users in the UK.
 The incidence rates of fracture were compared between DMPA users and contraceptive users who had no recorded use of DMPA.

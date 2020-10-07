@@ -40,9 +40,9 @@ Table 2 Adverse Reactions that Were Reported by between 1 and 5% of Subjects
 | Skin and Appendages | Acne (1.2%) No hair growth/alopecia (1.1%) Rash (1.1%) |
 | Urogenital | Leukorrhea (2.9%) Breast pain (2.8%) Vaginitis (1.2%) |
 
-Adverse reactions leading to study discontinuation in ≥ 2% of subjects: bleeding (8.2%), amenorrhea (2.1%), weight gain (2.0%)
+Adverse reactions leading to study discontinuation in ≥2% of subjects: bleeding (8.2%), amenorrhea (2.1%), weight gain (2.0%)
 
-## 6.2 Post-marketing Experience
+## 6.2 Post-Marketing Experience
 
 The following adverse reactions have been identified during post approval use of Depo-Provera CI.
 Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.

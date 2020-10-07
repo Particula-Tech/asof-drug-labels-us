@@ -2,7 +2,7 @@
 
 ## 12.1 Mechanism of Action
 
-Depo-Provera CI (medroxyprogesterone acetate [MPA]), inhibits the secretion of gonadotropins which primarily prevents follicular maturation and ovulation and causes thickening of cervical mucus.
+Depo-Provera CI (medroxyprogesterone acetate [MPA]) inhibits the secretion of gonadotropins which primarily prevents follicular maturation and ovulation and causes thickening of cervical mucus.
 These actions contribute to its contraceptive effect.
 
 ## 12.2 Pharmacodynamics

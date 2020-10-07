@@ -8,7 +8,7 @@ It is unknown if use of Depo-Provera CI by younger women will reduce peak bone m
 
 After discontinuing Depo-Provera CI in adolescents, mean BMD loss at total hip and femoral neck did not fully recover by 60 months (240 weeks) post-treatment [see Clinical Studies (14.3)].
 Similarly, in adults, there was only partial recovery of mean BMD at total hip, femoral neck and lumbar spine towards baseline by 24 months post-treatment.
-[See Clinical Studies (14.2).]
+[see Clinical Studies (14.2).]
 
 Depo-Provera CI should not be used as a long-term birth control method (i.e., longer than 2 years) unless other birth control methods are considered inadequate.
 BMD should be evaluated when a woman needs to continue to use Depo-Provera CI long-term.
@@ -144,7 +144,7 @@ Neonates exposed to medroxyprogesterone acetate in-utero and followed to adolesc
 
 A woman who is taking hormonal contraceptive should have a yearly visit with her healthcare provider for a blood pressure check and for other indicated healthcare.
 
-## 5.19 Interference with Laboratory Tests
+## 5.19 Interference With Laboratory Tests
 
 The use of Depo-Provera CI may change the results of some laboratory tests, such as coagulation factors, lipids, glucose tolerance, and binding proteins.
 [See Drug Interactions (7.2).]
