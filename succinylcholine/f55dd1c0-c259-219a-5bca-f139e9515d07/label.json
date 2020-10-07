@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "ANDA210698"
+  ],
+  "inn": "succinylcholine",
+  "labeler": "Dr.Reddy's Laboratories Inc.,",
+  "package_ndcs": [
+    "43598-666-25"
+  ],
+  "products": [
+    {
+      "form": "INJECTION, SOLUTION",
+      "generic": "succinylcholine",
+      "name": "Succinylcholine"
+    }
+  ],
+  "setid": "f55dd1c0-c259-219a-5bca-f139e9515d07",
+  "source": "dailymed"
+}
