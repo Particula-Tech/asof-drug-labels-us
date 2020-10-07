@@ -18,6 +18,8 @@ Keep out of reach of children.
 
 Rx only
 
+Product of Ireland
+
 Capsule contents manufactured by: Janssen Pharmaceutica NV Olen, Belgium
 
 Manufactured by: JOLLC Gurabo, Puerto Rico 00778
