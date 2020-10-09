@@ -1,5 +1,8 @@
 # 10 OVERDOSAGE
 
-There is no specific antidote for mesalamine overdose and treatment for suspected acute severe toxicity with DELZICOL should be symptomatic and supportive.
-This may include prevention of further gastrointestinal tract absorption, correction of fluid electrolyte imbalance, and maintenance of adequate renal function.
+DELZICOL is an aminosalicylate, and symptoms of salicylate toxicity include nausea, vomiting and abdominal pain, tachypnea, hyperpnea, tinnitus, and neurologic symptoms (headache, dizziness, confusion, seizures).
+Severe salicylate intoxication may lead to electrolyte and blood pH imbalance and potentially to other organ (e.g., renal and liver) involvement.
+There is no specific antidote for mesalamine overdose; however, conventional therapy for salicylate toxicity may be beneficial in the event of acute overdosage and may include gastrointestinal tract decontamination to prevent of further absorption.
+Correct fluid and electrolyte imbalance by the administration of appropriate intravenous therapy and maintain adequate renal function.
+
 DELZICOL is a pH dependent delayed-release product and this factor should be considered when treating a suspected overdose.

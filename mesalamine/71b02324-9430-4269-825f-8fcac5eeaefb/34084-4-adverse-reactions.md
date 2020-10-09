@@ -6,6 +6,8 @@ The most serious adverse reactions seen in DELZICOL clinical trials or with othe
 - Mesalamine-Induced Acute Intolerance Syndrome [see Warnings and Precautions (5.2)]
 - Hypersensitivity Reactions [see Warnings and Precautions (5.3)]
 - Hepatic Failure [see Warnings and Precautions (5.4)]
+- Photosensitivity [see Warnings and Precautions (5.5)]
+- Nephrolithiasis [see Warnings and Precautions (5.6)]
 
 ## 6.1 Clinical Trials Experience
 
@@ -95,14 +97,14 @@ Maintenance of Remission of Ulcerative Colitis
 Clinical studies supporting the use of mesalamine delayed release tablets in the maintenance of remission of ulcerative colitis in adults included a randomized, double-blind, multi-center, placebo-controlled clinical trial of 6 months’ duration in 264 patients (Study 4) [see Clinical Studies (14.2)].
 
 In Study 4, a randomized, double-blind, multi-center, placebo-controlled clinical trial of 6 months’ duration, 87 patients were randomized to receive mesalamine delayed release tablets 1.6 grams per /day compared to 87 patients randomized to placebo.
-The average age of patients in Study 4 was 42 years and 55 % of patients were male.
+The average age of patients in Study 4 was 42 years and 55% of patients were male.
 Adverse reactions leading to study withdrawal in patients using mesalamine delayed release tablets included (each in one patient): anxiety, stomatitis and asthenia.
 
 In addition to the adverse reactions listed in Table 2, the following occurred at a frequency of 2% or greater in patients who received mesalamine delayed-release tablets in Study 4: abdominal enlargement, gastroenteritis, gastrointestinal hemorrhage, infection, joint disorder, nervousness, paresthesia, hemorrhoids, tenesmus, urinary frequency and vision abnormalities.
 
 ## 6.2 Postmarketing Experience
 
-In addition to the adverse reactions reported above in clinical trials involving mesalamine delayed-release tablets, the adverse reactions listed below have been identified during post-approval use of mesalamine delayed-release tablets and other mesalamine-containing products.
+The following adverse reactions have been identified during post-approval use of DELZICOL or other mesalamine-containing products.
 Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
 
 Body as a Whole: Neck pain, facial edema, edema, lupus-like syndrome, drug fever.
@@ -119,7 +121,7 @@ Musculoskeletal: Gout.
 
 Nervous: Depression, somnolence, emotional lability, hyperesthesia, vertigo, confusion, tremor, peripheral neuropathy, transverse myelitis, Guillain-Barré syndrome, intracranial hypertension.
 
-Renal: Renal failure, interstitial nephritis, minimal change nephropathy [see Warnings and Precautions (5.1)].
+Renal: Renal failure, interstitial nephritis, minimal change disease, nephrolithiasis [see Warnings and Precautions (5.1, 5.6)].
 
 Respiratory/Pulmonary: Eosinophilic pneumonia, interstitial pneumonitis, asthma exacerbation, pleuritis.
 

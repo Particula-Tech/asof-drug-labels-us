@@ -2,8 +2,8 @@
 
 ## 12.1 Mechanism of Action
 
-The mechanism of action of mesalamine is unknown, but appears to be topical rather than systemic.
-Mucosal production of arachidonic acid metabolites, both through the cyclooxygenase pathways, that is, prostanoids, and through the lipoxygenase pathways, that is, leukotrienes and hydroxyeicosatetraenoic acids, is increased in patients with chronic ulcerative colitis, and it is possible that mesalamine diminishes inflammation by blocking cyclooxygenase and inhibiting prostaglandin production in the colon.
+The mechanism of action of mesalamine is not fully understood, but appears to be a topical anti-inflammatory effect on colonic epithelial cells.
+Mucosal production of arachidonic acid metabolites, both through the cyclooxygenase pathways, that is, prostanoids, and through the lipoxygenase pathways, that is, leukotrienes and hydroxyeicosatetraenoic acids, is increased in patients with ulcerative colitis, and it is possible that mesalamine diminishes inflammation by blocking cyclooxygenase and inhibiting prostaglandin production in the colon.
 
 ## 12.3 Pharmacokinetics
 
