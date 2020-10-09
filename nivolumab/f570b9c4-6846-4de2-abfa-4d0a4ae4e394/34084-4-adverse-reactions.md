@@ -1171,3 +1171,5 @@ Because these reactions are reported voluntarily from a population of uncertain 
 Eye: Vogt-Koyanagi-Harada (VKH) syndrome
 
 Complications of OPDIVO Treatment After Allogeneic HSCT: Treatment refractory, severe acute and chronic GVHD
+
+Blood and lymphatic system disorders: hemophagocytic lymphohistiocytosis (HLH) (including fatal cases), autoimmune hemolytic anemia (including fatal cases)
