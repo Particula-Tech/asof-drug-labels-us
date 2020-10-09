@@ -16,8 +16,6 @@ NDC 76282-420-30
 
 ONCE DAILY Lisinopril Tablets, USP 20 mg EXELAN PHARMACEUTICALS, INC. Rx Only 30 Tablets
 
--
-
 NDC 76282-421-30
 
 ONCE DAILY Lisinopril Tablets, USP 30 mg EXELAN PHARMACEUTICALS, INC. Rx Only 30 Tablets

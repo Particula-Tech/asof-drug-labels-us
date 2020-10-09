@@ -24,12 +24,8 @@ Leukopenia/Neutropenia: Tell patients to report promptly any indication of infec
 
 All brand names listed are the registered trademarks of their respective owners and are not trademarks of Exelan Pharmaceuticals, Inc.
 
-Manufactured for: Exelan Pharmaceuticals, Inc. Lawrenceville, GA 30046
+Manufactured by: InvaGen Pharmaceuticals, Inc. (a subsidiary of Cipla Ltd.) Hauppauge, NY 11788
 
-Manufactured by: InvaGen Pharmaceuticals, Inc. Hauppauge, NY 11788
+Manufactured for: Exelan Pharmaceuticals, Inc. Boca Raton, FL 33432
 
-or
-
-Ascent Pharmaceuticals, Inc. Central Islip, NY 11722
-
-Revised: 02/2018
+Revised: 05/2020
