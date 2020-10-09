@@ -4,8 +4,7 @@
 
 Adults
 
-Administer the appropriate volume of the reconstituted CUBICIN RF (concentration of 50 mg/mL) to adult patients intravenously either by injection over a two (2) minute period or by intravenous infusion over a thirty (30) minute period.
-[see Dosage and Administration (2.2, 2.4, 2.7)].
+Administer the appropriate volume of the reconstituted CUBICIN RF (concentration of 50 mg/mL) to adult patients intravenously either by injection over a two (2) minute period or by intravenous infusion over a thirty (30) minute period [see Dosage and Administration (2.2, 2.4, 2.7)].
 
 Pediatric Patients (1 to 17 Years of Age)
 
@@ -57,7 +56,7 @@ Adult Patients:
 
 No dosage adjustment is required in adult patients with creatinine clearance (CLCR) greater than or equal to 30 mL/min.
 The recommended dosage regimen for CUBICIN RF in adult patients with CLCR less than 30 mL/min, including adult patients on hemodialysis or continuous ambulatory peritoneal dialysis (CAPD), is 4 mg/kg (cSSSI) or 6 mg/kg (S. aureus bloodstream infections) once every 48 hours (Table 3).
-When possible, CUBICIN RF should be administered following the completion of hemodialysis on hemodialysis days [see Warnings and Precautions (5.2, 5.8), Use in Specific Populations (8.6), and Clinical Pharmacology (12.3)].
+When possible, CUBICIN RF should be administered following the completion of hemodialysis on hemodialysis days [see Warnings and Precautions (5.2, 5.10), Use in Specific Populations (8.6), and Clinical Pharmacology (12.3)].
 
 Table 3: Recommended Dosage of CUBICIN RF in Adult Patients
 

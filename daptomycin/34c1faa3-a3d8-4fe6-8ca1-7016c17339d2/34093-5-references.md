@@ -11,4 +11,4 @@
    Ann Pharmacother 48(5):652-655, 2014.
 5. Li JS, Sexton DJ, Mick N, Nettles R, Fowler VG Jr, Ryan T, Bashore T, Corey GR.
    Proposed modifications to the Duke criteria for the diagnosis of infective endocarditis.
-   Clin Infect Dis 2000;30:633–638.
+   Clin Infect Dis 2000; 30:633–638.

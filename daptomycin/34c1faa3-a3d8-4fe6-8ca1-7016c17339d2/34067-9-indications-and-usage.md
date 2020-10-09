@@ -6,11 +6,11 @@ CUBICIN® RF is indicated for the treatment of adult and pediatric patients (1 t
 
 ## 1.2 Staphylococcus aureus Bloodstream Infections (Bacteremia) in Adult Patients, Including Those with Right-Sided Infective Endocarditis, Caused by Methicillin-Susceptible and Methicillin-Resistant Isolates
 
-CUBICIN® RF is indicated for the treatment of adult patients with Staphylococcus aureus bloodstream infections (bacteremia), including adult patients with right-sided infective endocarditis, caused by methicillin-susceptible and methicillin-resistant isolates.
+CUBICIN RF is indicated for the treatment of adult patients with Staphylococcus aureus bloodstream infections (bacteremia), including adult patients with right-sided infective endocarditis, caused by methicillin-susceptible and methicillin-resistant isolates.
 
 ## 1.3 Staphylococcus aureus Bloodstream Infections (Bacteremia) in Pediatric Patients (1 to 17 Years of Age)
 
-CUBICIN® RF is indicated for the treatment of pediatric patients (1 to 17 years of age) with Staphylococcus aureus bloodstream infections (bacteremia).
+CUBICIN RF is indicated for the treatment of pediatric patients (1 to 17 years of age) with Staphylococcus aureus bloodstream infections (bacteremia).
 
 ## 1.4 Limitations of Use
 
@@ -20,7 +20,7 @@ CUBICIN RF is not indicated for the treatment of left-sided infective endocardit
 The clinical trial of CUBICIN in adult patients with S. aureus bloodstream infections included limited data from patients with left-sided infective endocarditis; outcomes in these patients were poor [see Clinical Studies (14.2)].
 CUBICIN has not been studied in patients with prosthetic valve endocarditis.
 
-CUBICIN RF is not recommended in pediatric patients younger than 1 year of age due to the risk of potential effects on muscular, neuromuscular, and/or nervous systems (either peripheral and/or central) observed in neonatal dogs [see Warnings and Precautions (5.5) and Nonclinical Toxicology (13.2)].
+CUBICIN RF is not recommended in pediatric patients younger than 1 year of age due to the risk of potential effects on muscular, neuromuscular, and/or nervous systems (either peripheral and/or central) observed in neonatal dogs [see Warnings and Precautions (5.7) and Nonclinical Toxicology (13.2)].
 
 ## 1.5 Usage
 
