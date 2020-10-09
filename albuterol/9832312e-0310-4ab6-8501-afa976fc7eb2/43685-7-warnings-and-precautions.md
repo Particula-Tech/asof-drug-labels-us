@@ -9,9 +9,9 @@ If it occurs, therapy with COMBIVENT RESPIMAT should be discontinued immediately
 
 The albuterol sulfate contained in COMBIVENT RESPIMAT, like other beta‑adrenergic agonists, can produce a clinically significant cardiovascular effect in some patients, as measured by pulse rate, blood pressure, and/or symptoms.
 If these symptoms occur, COMBIVENT RESPIMAT may need to be discontinued.
-There is some evidence from post-marketing data and published literature of rare occurrences of myocardial ischemia associated with albuterol.
+There is some evidence from postmarketing data and published literature of rare occurrences of myocardial ischemia associated with albuterol.
 In addition, beta‑adrenergic agonists have been reported to produce electrocardiogram (ECG) changes, such as flattening of the T wave, prolongation of the QTc interval, and ST segment depression.
-Therefore, COMBIVENT RESPIMAT should be used with caution in patients with cardiovascular disorders; especially coronary insufficiency, cardiac arrhythmias, and hypertension [see Drug Interactions (7.2)].
+Therefore, COMBIVENT RESPIMAT should be used with caution in patients with cardiovascular disorders, especially coronary insufficiency, cardiac arrhythmias, and hypertension [see Drug Interactions (7.2)].
 
 ## 5.3 Ocular Effects
 
@@ -36,7 +36,7 @@ The exact cause of death is unknown, but cardiac arrest following an unexpected 
 ## 5.6 Hypersensitivity Reactions Including Anaphylaxis
 
 Hypersensitivity reactions including urticaria, angioedema, rash, bronchospasm, anaphylaxis, and oropharyngeal edema may occur after administration of ipratropium bromide or albuterol sulfate.
-In clinical trials and post-marketing experience with ipratropium containing products, hypersensitivity reactions such as skin rash, pruritus, angioedema of tongue, lips and face, urticaria (including giant urticaria), laryngospasm and anaphylactic reactions have been reported [see Adverse Reactions (6.1, 6.2)].
+In clinical trials and postmarketing experience with ipratropium containing products, hypersensitivity reactions such as skin rash, pruritus, angioedema of tongue, lips and face, urticaria (including giant urticaria), laryngospasm, and anaphylactic reactions have been reported [see Adverse Reactions (6.1, 6.2)].
 If such a reaction occurs, therapy with COMBIVENT RESPIMAT should be stopped at once and alternative treatment should be considered [see Contraindications (4)].
 
 ## 5.7 Coexisting Conditions

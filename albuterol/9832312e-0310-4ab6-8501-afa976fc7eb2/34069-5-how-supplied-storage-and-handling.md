@@ -8,7 +8,7 @@ The COMBIVENT RESPIMAT cartridge is only intended for use with the COMBIVENT RES
 The COMBIVENT RESPIMAT inhaler is a cylindrical shaped plastic inhalation device with a gray colored body and a clear base.
 The clear base is removed to insert the cartridge.
 The inhaler contains a dose indicator.
-The orange colored cap and the written information on the label of the gray inhaler body indicate that it is labeled for use with the COMBIVENT RESPIMAT cartridge.
+The orange-colored cap and the written information on the label of the gray inhaler body indicate that it is labeled for use with the COMBIVENT RESPIMAT cartridge.
 
 COMBIVENT RESPIMAT Inhalation Spray is available as: COMBIVENT RESPIMAT Inhalation Spray: 120 metered actuations (NDC 0597-0024-02))
 
@@ -24,5 +24,5 @@ Do not spray into eyes.
 
 Storage
 
-Store at 25°C (77°F); excursions permitted to 15°C to 30°C (59°F to 86°F) [see USP Controlled Room Temperature].
+Store at 20°C to 25°C (68°F to 77°F); excursions permitted to 15°C to 30°C (59°F to 86°F) [see USP Controlled Room Temperature].
 Avoid freezing.

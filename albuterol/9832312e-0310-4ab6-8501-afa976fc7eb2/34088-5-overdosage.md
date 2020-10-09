@@ -6,4 +6,4 @@ Manifestations of overdosage with albuterol may include anginal pain, hypertensi
 As with all beta2-adrenergic agonist aerosol medications, cardiac arrest and even death may be associated with abuse.
 
 Treatment of overdosage consists of discontinuation of COMBIVENT RESPIMAT together with institution of appropriate medical and supportive therapy.
-Dialysis is not appropriate treatment for overdosage of albuterol as an inhalation aerosol; the judicious use of a cardiovascular beta‑receptor blocker, such as metoprolol tartrate may be indicated.
+Dialysis is not appropriate treatment for overdosage of albuterol as an inhalation aerosol; the judicious use of a cardiovascular beta‑receptor blocker, such as metoprolol tartrate, may be indicated.

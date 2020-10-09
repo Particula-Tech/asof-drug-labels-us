@@ -1,6 +1,6 @@
-Instructions for Use COMBIVENT® RESPIMAT® (COM beh vent - RES peh mat) (ipratropium bromide and albuterol) inhalation spray
+Instructions for Use COMBIVENT® RESPIMAT® (COM beh vent - RES peh mat) (ipratropium bromide and albuterol inhalation spray)
 
-For Oral Inhalation Only Do not spray COMBIVENT RESPIMAT into your eyes
+For Oral Inhalation Only Do not spray COMBIVENT RESPIMAT into your eyes.
 
 Read these Instructions for Use before you start using COMBIVENT RESPIMAT and each time you get a refill.
 There may be new information.
@@ -47,13 +47,13 @@ Prepare for first use
 | 3. Replace clear base Put the clear base back into place until it clicks.Do not remove the clear base or the cartridge after it has been put together. |  |
 | 4. Turn Keep the cap closed.Turn the clear base in the direction of the arrows on the label until it clicks (half a turn). |  |
 | 5. Open Open the cap until it snaps fully open. |  |
-| 6. Press Point the inhaler toward the ground.Press the dose-release button.Close the cap.If you do not see a mist, repeat steps 4 to 6 until a mist is seen.After a mist is seen, Repeat steps 4 to 6 three more times.After complete preparation of your inhaler, it will be ready to deliver the number of puffs on the label. |  |
+| 6. Press Point the inhaler toward the ground.Press the dose-release button.Close the cap.If you do not see a mist, repeat steps 4 to 6 until a mist is seen.After a mist is seen, repeat steps 4 to 6 three more times.After complete preparation of your inhaler, it will be ready to deliver the number of puffs on the label. |  |
 
-Daily use (TOP)
+Daily use (T O P)
 
 | Turn Keep the cap closed.Turn the clear base in the direction of the arrows on the label until it clicks (half a turn). |  |
 | --- | --- |
-| Open OPEN the cap until it snaps fully open. |  |
+| Open Open the cap until it snaps fully open. |  |
 | Press Breathe out slowly and fully.Close your lips around the mouthpiece without covering the air vents.Point the inhaler to the back of your throat.While taking a slow, deep breath through your mouth, Press the dose-release button and continue to breathe in.Hold your breath for 10 seconds or for as long as comfortable.Close the cap until you use your inhaler again. |  |
 
 Answers to Common Questions
@@ -123,8 +123,7 @@ Repeat Turn, Open, Press (TOP) three times after inserting the cartridge as show
 Is the dose indicator on the COMBIVENT RESPIMAT pointing to 0?
 You have used up all your medicine and the inhaler is locked.
 
-For more information about COMBIVENT RESPIMAT or a video demonstration on how to use COMBIVENT RESPIMAT, go to www.combivent.com, or scan the code below.
-You may also call 1-800-542-6257 or (TTY) 1-800-459-9906 for further information about COMBIVENT RESPIMAT.
+For more information about COMBIVENT RESPIMAT including current prescribing information or a video demonstration on how to use COMBIVENT RESPIMAT, go to www.combivent.com, scan the code below, or call Boehringer Ingelheim Pharmaceuticals, Inc. at 1-800-542-6257 or (TTY) 1-800-459-9906.
 
 This Instructions for Use has been approved by the U.S. Food and Drug Administration.
 
@@ -132,10 +131,12 @@ Distributed by: Boehringer Ingelheim Pharmaceuticals, Inc., Ridgefield, CT 06877
 
 RESPIMAT® is a registered trademark of and used under license from Boehringer Ingelheim International GmbH
 
-COMBIVENT® is a registered trademark of Boehringer Ingelheim Pharmaceuticals, Inc. Copyright © 2016 Boehringer Ingelheim International GmbH
+COMBIVENT® is a registered trademark of Boehringer Ingelheim Pharmaceuticals, Inc.
+
+Copyright © 2020 Boehringer Ingelheim International GmbH
 
 ALL RIGHTS RESERVED
 
-Revised: June 2016
+Revised: September 2020
 
-OT24008IF132016 304000-04
+OT24008JI102020

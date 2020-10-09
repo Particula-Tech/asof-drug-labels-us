@@ -1,7 +1,15 @@
-COMBIVENT RESPIMAT (ipratropium bromide and albuterol) Inhalation Spray NDC: 0597-0024-02 Carton Label
+# PRINCIPAL DISPLAY PANEL - 20 mcg/100 mcg Carton
 
-Cartridge Label
+NDC 0597-0024-02
 
-Inhaler Front
+Combivent® Respimat® (ipratropium bromide and albuterol inhalation spray)
 
-Inhaler Back
+20 mcg/100 mcg per actuation*
+
+FOR ORAL INHALATION ONLY
+
+Rx only
+
+4 Grams 120 Metered Doses
+
+Boehringer Ingelheim

@@ -34,7 +34,7 @@ However, all beta‑adrenergic agonist drugs, including albuterol sulfate, can p
 
 Cardiovascular effects At recommended doses, ipratropium bromide does not produce clinically significant changes in pulse rate or blood pressure.
 
-Ocular effects In studies without a positive control, ipratropium bromide did not alter pupil size, accommodation or visual acuity.
+Ocular effects In studies without a positive control, ipratropium bromide did not alter pupil size, accommodation, or visual acuity.
 
 Mucociliary clearance and respiratory secretions Controlled clinical studies have demonstrated that ipratropium bromide does not alter either mucociliary clearance or the volume or viscosity of respiratory secretions.
 
@@ -58,7 +58,7 @@ Following intravenous administration, approximately one-half of the dose is excr
 Albuterol is longer acting than isoproterenol in most patients because it is not a substrate for the cellular uptake processes for catecholamines, nor for metabolism by catechol-O-methyl transferase.
 Instead, the drug is conjugatively metabolized to albuterol 4'-O-sulfate.
 
-Intravenous pharmacokinetics of albuterol was studied in a comparable group of 16 healthy male volunteers; the mean terminal half-life following a 30-minute infusion of 1.5 mg was 3.9 hours with a mean clearance of 439 mL/min/1.73 m2.
+Intravenous pharmacokinetics of albuterol was studied in a comparable group of 16 healthy male volunteers; the mean terminal half-life following a 30-minute infusion of 1.5 mg was 3.9 hours, with a mean clearance of 439 mL/min/1.73 m2.
 
 ### COMBIVENT RESPIMAT Inhalation Spray
 
@@ -67,7 +67,7 @@ Plasma ipratropium concentrations were low with an average peak plasma concentra
 The majority of the study participants exhibited levels below the lower limit of quantitation (<10 pg/mL) by 4 to 6 hours following dosing.
 The steady state systemic exposure obtained for ipratropium bromide following COMBIVENT RESPIMAT was comparable to that of CFC-propelled COMBIVENT Inhalation Aerosol.
 Ipratropium plasma AUC and total amount of drug excreted unchanged in urine (Ae) ratios for COMBIVENT RESPIMAT/CFC-propelled COMBIVENT Inhalation Aerosol were 1.04 and 1.18, respectively.
-For albuterol the steady-state systemic exposure was less from COMBIVENT RESPIMAT compared to that of CFC-propelled COMBIVENT Inhalation Aerosol.
+For albuterol the steady state systemic exposure was less from COMBIVENT RESPIMAT compared to that of CFC-propelled COMBIVENT Inhalation Aerosol.
 Albuterol plasma AUC and urine Ae ratios for COMBIVENT RESPIMAT/CFC-propelled COMBIVENT Inhalation Aerosol were 0.74 and 0.86, respectively.
 
 Pharmacokinetic drug-drug interaction between ipratropium bromide and albuterol sulfate was evaluated in a crossover study in 12 healthy male volunteers who received CFC-propelled COMBIVENT Inhalation Aerosol and the two active components separately as individual treatments.
@@ -77,7 +77,7 @@ Results from this study indicated that the coadministration of these two compone
 
 Age Consistent with CFC-propelled COMBIVENT Inhalation Aerosol (36/206 mcg), patients receiving COMBIVENT RESPIMAT (20/100 mcg) aged 65 years and over had higher steady state systemic exposures than patients aged under 65 years for both ipratropium (AUC = 166 vs. 105 pg•hr/mL, Cmax = 38.5 vs. 30.1 pg/mL) and albuterol (AUC = 5.44 vs. 3.27 ng•hr/mL, Cmax = 1.19 vs. 0.74 ng/mL).
 
-Gender The AUC- and Cmax-values for ipratropium were 131 pg.hr/mL and 35.4 pg/mL in males and 123 pg.hr/mL and 31.7 pg/mL in females, respectively.
+Gender The AUC and Cmax values for ipratropium were 131 pg.hr/mL and 35.4 pg/mL in males and 123 pg.hr/mL and 31.7 pg/mL in females, respectively.
 The AUC- and Cmax-values for albuterol were 4.0 ng•hr/mL and 0.89 ng/mL in males and 4.2 ng•hr/mL and 0.93 ng/mL in females, respectively.
 
 Hepatic and Renal Impairment The pharmacokinetics of COMBIVENT RESPIMAT or ipratropium bromide has not been studied in patients with hepatic or renal insufficiency.
