@@ -3,7 +3,7 @@
 ## Hyperkalemia
 
 Triamterene and hydrochlorothiazide should not be used in the presence of elevated serum potassium levels (greater than or equal to 5.5 mEq/liter).
-If hyperkalemia develops, this drug should be discontinued and a thiazide alone should be substituted.
+If hyperkalemia develops, this drug should be discontinued, and a thiazide alone should be substituted.
 
 ## Antikaliuretic Therapy or Potassium Supplementation
 

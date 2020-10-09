@@ -6,7 +6,7 @@
 If hyperkalemia is suspected, (warning signs include paresthesias, muscular weakness, fatigue, flaccid paralysis of the extremities, bradycardia and shock) an electrocardiogram (ECG) should be obtained.
 However, it is important to monitor serum potassium levels because mild hyperkalemia may not be associated with ECG changes.
 
-If hyperkalemia is present, triamterene and hydrochlorothiazide should be discontinued immediately and a thiazide alone should be substituted.
+If hyperkalemia is present, triamterene and hydrochlorothiazide should be discontinued immediately, and a thiazide alone should be substituted.
 If the serum potassium exceeds 6.5 mEq/liter, more vigorous therapy is required.
 The clinical situation dictates the procedures to be employed.
 These include the intravenous administration of calcium chloride solution, sodium bicarbonate solution and/or the oral or parenteral administration of glucose with a rapid-acting insulin preparation.
@@ -121,7 +121,7 @@ Serum potassium should be monitored frequently.
 
 ## Drug/Laboratory Test Interactions
 
-Triamterene and quinidine have similar fluorescence spectra; thus triamterene and hydrochlorothiazide may interfere with the measurement of quinidine.
+Triamterene and quinidine have similar fluorescence spectra; thus, triamterene and hydrochlorothiazide may interfere with the measurement of quinidine.
 
 ## Carcinogenesis, Mutagenesis, Impairment of Fertility
 
@@ -170,7 +170,7 @@ Studies of the effects of triamterene and hydrochlorothiazide tablets, the triam
 Hydrochlorothiazide had no adverse effects on the fertility of mice and rats of either sex in studies wherein these species were exposed, via their diet, to doses of up to 100 and 4 mg/kg/day, respectively, prior to mating and throughout gestation.
 Corresponding multiples of the MRHD are 100 (mice) and 4 (rats) on the basis of body-weight and 9.4 (mice) and 0.8 (rats) on the basis of body-surface area.
 
-## Pregnancy Category C
+## Pregnancy
 
 ### Teratogenic Effects
 
@@ -212,3 +212,9 @@ If use of the combination drug product is deemed essential, the patient should s
 ## Pediatric Use
 
 Safety and effectiveness in pediatric patients have not been established.
+
+## Information for Patients
+
+Non-melanoma Skin Cancer
+
+Instruct patients taking hydrochlorothiazide to protect skin from the sun and undergo regular skin cancer screening.
