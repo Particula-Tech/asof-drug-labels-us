@@ -36,7 +36,7 @@ If oral nicardipine is to be used, administer the first dose 1 hour prior to dis
 
 Specific Populations
 
-Titrate nicardipine hydrochloride injection slowly in patients with heart failure or impaired hepatic or renal function [see Warnings and Precautions (5.2, 5.3 and 5.4.)]
+Titrate nicardipine hydrochloride injection slowly in patients with heart failure or impaired hepatic or renal function [see Warnings and Precautions (5.2, 5.3 and 5.4)]
 
 ## 2.2 Monitoring
 
@@ -46,7 +46,7 @@ It reaches about 50% of its ultimate decrease in about 45 minutes.
 
 Monitor blood pressure and heart rate continually during infusion and avoid too rapid or excessive blood pressure drop during treatment.
 If there is concern of impending hypotension or tachycardia, the infusion should be discontinued.
-Then, when blood pressure has stabilized, restart infusion of nicardipine hydrochloride injection at low doses such as 30 to 50 mL/hr (3 to 5 mg/hr) and adjusted to maintain desired blood pressure.
+Then, when blood pressure has stabilized, restart infusion of nicardipine hydrochloride injection at low doses such as 30 to 50 mL/hr (3 to 5 mg/hr) and adjust to maintain desired blood pressure.
 
 ## 2.3 Instructions for Administration
 

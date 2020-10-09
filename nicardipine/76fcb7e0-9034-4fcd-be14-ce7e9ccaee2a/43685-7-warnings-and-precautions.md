@@ -6,7 +6,7 @@ Increases in frequency, duration, or severity of angina have been seen in chroni
 Induction or exacerbation of angina has been seen in less than 1% of coronary artery disease patients treated with nicardipine hydrochloride.
 The mechanism of this effect has not been established.
 
-## 5.2 Excerbation of Heart Failure
+## 5.2 Exacerbation of Heart Failure
 
 Titrate slowly when using nicardipine hydrochloride injection, particularly in combination with a beta-blocker, in patients with heart failure or significant left ventricular dysfunction because of possible negative inotropic effects.
 

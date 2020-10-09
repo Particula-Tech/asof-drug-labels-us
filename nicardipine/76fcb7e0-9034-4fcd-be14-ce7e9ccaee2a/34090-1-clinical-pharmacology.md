@@ -12,7 +12,7 @@ In animal models, nicardipine produced relaxation of coronary vascular smooth mu
 Hemodynamics
 
 Nicardipine hydrochloride injection produces significant decreases in systemic vascular resistance.
-In a study of intra-arterially administered nicardipine hydrochoride injection, the degree of vasodilation and the resultant decrease in blood pressure were more prominent in hypertensive patients than in normotensive volunteers.
+In a study of intra-arterially administered nicardipine hydrochloride injection, the degree of vasodilation and the resultant decrease in blood pressure were more prominent in hypertensive patients than in normotensive volunteers.
 Administration of nicardipine hydrochloride injection to normotensive volunteers at dosages of 0.25 to 3 mg/hr for eight hours produced changes of < 5 mmHg in systolic blood pressure and < 3 mmHg in diastolic blood pressure.
 
 An increase in heart rate is a normal response to vasodilation and decrease in blood pressure; in some patients these increases in heart rate may be pronounced.
@@ -52,7 +52,7 @@ The relative and effective refractory periods of the His-Purkinje system were sl
 Hepatic Function
 
 Because the liver extensively metabolizes nicardipine, plasma concentrations are influenced by changes in hepatic function.
-In a clinical study with oral nicardipine in patients with severe liver disease, plasma concentrations were elevated and the half-life was prolonged [see Warnings and Precautions (5.3].
+In a clinical study with oral nicardipine in patients with severe liver disease, plasma concentrations were elevated and the half-life was prolonged [see Warnings and Precautions (5.3)].
 Similar results were obtained in patients with hepatic disease when nicardipine hydrochloride injection was administered for 24 hours at 0.6 mg/hr.
 
 Renal Function
@@ -95,3 +95,5 @@ Nicardipine hydrochloride injection has been shown to be rapidly and extensively
 Nicardipine does not induce or inhibit its own metabolism, however, nicardipine has been shown to inhibit certain cytochrome P450 enzymes (including CYP3A4, CYP2D6, CYP2C8, and CYP2C19).
 Inhibition of these enzymes may result in increased plasma levels of certain drugs, including cyclosporine and tacrolimus (7.3, 7.4).
 The altered pharmacokinetics may necessitate dosage adjustment of the affected drug or discontinuation of treatment.
+After coadministration of a radioactive intravenous dose of nicardipine hydrochloride injection with an oral 30 mg dose given every 8 hours, 49% of the radioactivity was recovered in the urine and 43% in the feces within 96 hours.
+None of the dose was recovered as unchanged nicardipine.
