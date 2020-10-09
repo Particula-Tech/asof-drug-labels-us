@@ -15,7 +15,7 @@ In evaluating individual cases, consideration should be given to using lower ini
 
 [See Dosage and Administration (2.9, 2.10), Contraindications (4.1), and Warnings and Precautions (5.2)].
 
-## 7.4 Drugs that Interfere with Hemostasis (e.g., NSAIDS, Aspirin, Warfarin)
+## 7.4 Drugs that Interfere with Hemostasis (e.g., NSAIDs, Aspirin, Warfarin)
 
 Serotonin release by platelets plays an important role in hemostasis.
 Epidemiological studies of the case-control and cohort design that have demonstrated an association between use of psychotropic drugs that interfere with serotonin reuptake and the occurrence of upper gastrointestinal bleeding have also shown that concurrent use of an NSAID or aspirin may potentiate this risk of bleeding.
@@ -37,7 +37,7 @@ Pimozide — Concomitant use in patients taking pimozide is contraindicated.
 Pimozide can prolong the QT interval.
 Fluoxetine can increase the level of pimozide through inhibition of CYP2D6.
 Fluoxetine can also prolong the QT interval.
-Clinical studies of pimozide with other antidepressants demonstrate an increase in drug interaction or QTc prolongation.
+Clinical studies of pimozide with other antidepressants demonstrate an increase in drug interaction or QT prolongation.
 While a specific study with pimozide and fluoxetine has not been conducted, the potential for drug interactions or QT prolongation warrants restricting the concurrent use of pimozide and fluoxetine [see Contraindications (4.2), Warnings and precautions (5.10), and Drug Interactions (7.8)].
 Thioridazine — Thioridazine should not be administered with fluoxetine or within a minimum of 5 weeks after fluoxetine has been discontinued, because of the risk of QT Prolongation [see Contraindications (4.2), Warnings and Precautions (5.10), and Drug Interactions (7.8)].
 In a study of 19 healthy male subjects, which included 6 slow and 13 rapid hydroxylators of debrisoquin, a single 25 mg oral dose of thioridazine produced a 2.4-fold higher Cmax and a 4.5-fold higher AUC for thioridazine in the slow hydroxylators compared with the rapid hydroxylators.

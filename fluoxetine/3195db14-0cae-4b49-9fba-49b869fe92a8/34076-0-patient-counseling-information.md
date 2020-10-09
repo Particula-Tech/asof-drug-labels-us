@@ -56,7 +56,7 @@ Patients should be advised to avoid driving a car or operating hazardous machine
 Patients should be advised that taking fluoxetine oral solution can cause mild pupillary dilation, which in susceptible individuals, can lead to an episode of angle- closure glaucoma.
 Pre-existing glaucoma is almost always open-angle glaucoma because angle- closure glaucoma, when diagnosed, can be treated definitively with iridectomy.
 Open-angle glaucoma is not a risk factor for angle- closure glaucoma.
-Patients may wish to be examined to determine whether they are susceptible to angle- closure, and have a prophylactic procedure (e.g., iridectomy), if they are susceptible.
+Patients may wish to be examined to determine whether they are susceptible to angle-closure, and have a prophylactic procedure (e.g., iridectomy), if they are susceptible.
 [see Warnings and Precautions (5.13)]
 
 ## 17.10 Use of Concomitant Medications
@@ -81,4 +81,4 @@ Limited evidence is available concerning the longer-term effects of fluoxetine o
 Height and weight should be monitored periodically in pediatric patients receiving fluoxetine [see Warnings and Precautions (5.6) and Use in Specific Populations (8.4)].
 Symbyax® and Sarafem® are registered trademarks of Eli Lilly.
 Dispense with Medication Guide available at: www.aurobindousa.com/product-medication-guides.
-Distributed by: Aurobindo Pharma USA, Inc. 279 Princeton-Hightstown Road East Windsor, NJ 08520 Manufactured by: Aurobindo Pharma Limited Hyderabad–500 038, India Revised: 01/2019
+Distributed by: Aurobindo Pharma USA, Inc. 279 Princeton-Hightstown Road East Windsor, NJ 08520 Manufactured by: Aurobindo Pharma Limited Hyderabad–500 038, India Revised: 10/2020

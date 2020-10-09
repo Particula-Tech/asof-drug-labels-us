@@ -2,7 +2,7 @@
 
 ## 8.1 Pregnancy
 
-Teratogenic Effects Pregnancy Category C —Fluoxetine should be used during pregnancy only if the potential benefit justifies the potential risk to the fetus.
+Teratogenic Effects Pregnancy Category C — Fluoxetine should be used during pregnancy only if the potential benefit justifies the potential risk to the fetus.
 All pregnancies have a background risk of birth defects, loss, or other adverse outcome regardless of drug exposure.
 Treatment of Pregnant Women during the First Trimester — There are no adequate and well-controlled clinical studies on the use of fluoxetine in pregnant women.
 Results of a number of published epidemiological studies assessing the risk of fluoxetine exposure during the first trimester of pregnancy have demonstrated inconsistent results.
