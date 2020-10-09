@@ -8,23 +8,22 @@ REYATAZ is contraindicated:
 
 Table 6 displays drugs that are contraindicated with REYATAZ.
 
-Table 6: Drugs that are Contraindicated with REYATAZ (Information in the table applies to REYATAZ with or without ritonavir, unless otherwise indicated)
+Table 6: Drugs Contraindicated with REYATAZ (Information in the table applies to REYATAZ with or without ritonavir, unless otherwise indicated)
 
-| Drug Class | Drugs within class that are contraindicated with REYATAZ | Clinical Comment |
-| --- | --- | --- |
-| Alpha 1-Adrenoreceptor Antagonist | Alfuzosin | Potential for increased alfuzosin concentrations, which can result in hypotension. |
-| Antimycobacterials | Rifampin | Rifampin substantially decreases plasma concentrations of atazanavir, which may result in loss of therapeutic effect and development of resistance. |
-| Antineoplastics | Irinotecan | Atazanavir inhibits UGT1A1 and may interfere with the metabolism of irinotecan, resulting in increased irinotecan toxicities. |
-| Antipsychotics | Lurasidone | Potential for serious and/or life-threatening reactions if REYATAZ is coadministered with ritonavir. |
-|  | Pimozide | Potential for serious and/or life-threatening reactions such as cardiac arrhythmias. |
-| Benzodiazepines | Triazolam, orally administered midazolama | Triazolam and orally administered midazolam are extensively metabolized by CYP3A4. Coadministration of triazolam or orally administered midazolam with REYATAZ may cause large increases in the concentration of these benzodiazepines. Potential for serious and/or life-threatening events such as prolonged or increased sedation or respiratory depression. |
-| Ergot Derivatives | Dihydroergotamine, ergotamine, ergonovine, methylergonovine | Potential for serious and/or life-threatening events such as acute ergot toxicity characterized by peripheral vasospasm and ischemia of the extremities and other tissues. |
-| GI Motility Agent | Cisapride | Potential for serious and/or life-threatening reactions such as cardiac arrhythmias. |
-| Hepatitis C Direct-Acting Antivirals | Elbasvir/grazoprevir | May increase the risk of ALT elevations due to a significant increase in grazoprevir plasma concentrations. |
-| Glecaprevir/pibrentasvir | May increase the risk of ALT elevations due to an increase in glecaprevir and pibrentasvir concentrations. |  |
-| Herbal Products | St. John’s wort (Hypericum perforatum) | Coadministration of St. John’s wort and REYATAZ may result in loss of therapeutic effect and development of resistance. |
-| HMG-CoA Reductase Inhibitors | Lovastatin, simvastatin | Potential for serious reactions such as myopathy, including rhabdomyolysis. |
-| PDE5 Inhibitor | Sildenafilb when dosed as REVATIO® for the treatment of pulmonary arterial hypertension | Potential for sildenafil-associated adverse events (which include visual disturbances, hypotension, priapism, and syncope). |
-| Protease Inhibitors | Indinavir | Both REYATAZ and indinavir are associated with indirect (unconjugated) hyperbilirubinemia. |
-| Non-nucleoside Reverse Transcriptase Inhibitors | Nevirapine | Nevirapine substantially decreases atazanavir exposure which may result in loss of therapeutic effect and development of resistance. Potential risk for nevirapine-associated adverse reactions due to increased nevirapine exposures. |
-| a See Drug Interactions, Table 16 (7) for parenterally administered midazolam. b See Drug Interactions, Table 16 (7) for sildenafil when dosed as VIAGRA® for erectile dysfunction. |  |  |
+| Drug Class | Drugs within class that are contraindicated with REYATAZ |
+| --- | --- |
+| Alpha 1-adrenoreceptor antagonist | Alfuzosin |
+| Antiarrhythmics | Amiodarone (with ritonavir), quinidine (with ritonavir) |
+| Antimycobacterials | Rifampin |
+| Antineoplastics | Irinotecan |
+| Antipsychotics | Lurasidone (with ritonavir), pimozide |
+| Benzodiazepines | Triazolam, orally administered midazolama |
+| Ergot Derivatives | Dihydroergotamine, ergotamine, ergonovine, methylergonovine |
+| GI Motility Agent | Cisapride |
+| Hepatitis C Direct-Acting Antivirals | Elbasvir/grazoprevir; glecaprevir/pibrentasvir |
+| Herbal Products | St. John’s wort (Hypericum perforatum) |
+| Lipid-Modifying Agents: | Lovastatin, simvastatin, lomitapide |
+| Phosphodiesterase-5 (PDE-5) Inhibitor | Sildenafilb when dosed as REVATIO® for the treatment of pulmonary arterial hypertension |
+| Protease Inhibitors | Indinavir |
+| Non-nucleoside Reverse Transcriptase Inhibitors | Nevirapine |
+| a See Drug Interactions, Table 16 (7) for parenterally administered midazolam. b See Drug Interactions, Table 16 (7) for sildenafil when dosed as VIAGRA® for erectile dysfunction. |  |

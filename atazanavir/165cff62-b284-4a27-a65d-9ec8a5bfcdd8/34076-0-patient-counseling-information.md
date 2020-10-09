@@ -2,7 +2,7 @@
 
 Advise the patient to read the FDA-approved patient labeling (Patient Information and Instructions for Use).
 
-REYATAZ is not a cure for HIV infection.
+REYATAZ is not a cure for HIV-1 infection.
 Advise patients to remain under the care of a healthcare provider while using REYATAZ.
 
 ### Cardiac Conduction Abnormalities
@@ -55,7 +55,7 @@ Tell patients if a dose of REYATAZ is missed, they should take the dose as soon 
 
 ### Pregnancy
 
-Inform pregnant patients that there is a pregnancy exposure registry that monitors pregnancy outcomes in women exposed to REYATAZ during pregnancy.
+Inform pregnant patients that there is a pregnancy exposure registry that monitors pregnancy outcomes in pregnant patients exposed to REYATAZ during pregnancy.
 Healthcare providers are encouraged to register patients by calling the Antiretroviral Pregnancy Registry [see Use in Specific Populations (8.1)].
 
 Lactation

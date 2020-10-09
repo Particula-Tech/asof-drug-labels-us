@@ -51,7 +51,7 @@ Table 2: Recommended Dosage of REYATAZ Capsules and Ritonavir in Pediatric Patie
 | Less than 15 kg | Capsules not recommended | N/A |
 | At least 15 kg to less than 35 kg | 200 mg | 100 mg |
 | At least 35 kg | 300 mg | 100 mg |
-| Treatment-Naive, at least 13 years old and cannot tolerate ritonavirc |  |  |
+| Treatment-Naive, at least 13 years old and cannot tolerate ritonavir |  |  |
 | At least 40 kg | 400 mg | N/A |
 | a Administer REYATAZ capsules and ritonavir simultaneously with food. b The same recommendations regarding the timing and maximum doses of concomitant PPIs and H2RAs in adults also apply to pediatric patients. See Drug Interactions (7) for instructions concerning coadministration of acid-reducing medications (eg, H2RA or PPIs), and other antiretroviral drugs (eg, efavirenz, tenofovir DF, and didanosine). c In treatment-experienced patients, REYATAZ capsules must be administered with ritonavir. |  |  |
 
@@ -61,7 +61,7 @@ Consult the dosing table for the specific formulation.
 ## 2.5 Dosage and Administration of REYATAZ Oral Powder in Pediatric Patients
 
 REYATAZ oral powder is for use in treatment-naive or treatment-experienced pediatric patients who are at least 3 months of age and weighing at least 5 kg.
-REYATAZ oral powder must be mixed with food or beverage for administration and ritonavir must be given immediately afterwards.
+REYATAZ oral powder must be mixed with food or a beverage for administration and ritonavir must be given immediately afterwards.
 Table 3 displays the recommended dosage of REYATAZ oral powder and ritonavir.
 
 Table 3: Recommended Dosage of REYATAZ Oral Powder and Ritonavir in Pediatric Patients (at least 3 months of age and weighing at least 5 kg)a,b
@@ -96,7 +96,7 @@ Consult the dosing table for the specific formulation.
   Pour another 10 mL of formula into the medicine cup to rinse off remaining REYATAZ oral powder in cup.
   Draw up residual mixture into the syringe and administer into either right or left inner cheek of infant.
 - •Administer ritonavir immediately following REYATAZ powder administration.
-- •Administer the entire dosage of REYATAZ oral powder (mixed in the food or beverage) within one hour of preparation (may leave the mixture at room temperature during this one hour period).
+- •Administer the entire dosage of REYATAZ oral powder (mixed in the food or beverage) within one hour of preparation [may leave the mixture at a temperature of 68°F to 86°F (20°C to 30°C) for up to one hour].
   Ensure that the patient eats or drinks all the food or beverage that contains the powder.
   Additional food may be given after consumption of the entire mixture.
 
@@ -113,14 +113,14 @@ Table 4: Recommended Dosage of REYATAZ and Ritonavir in Pregnant Patientsa
 | Treatment-Naive and Treatment-Experienced |  |  |
 | Recommended Regimen | 300 mg | 100 mg |
 | Treatment-Experienced During the Second or Third Trimester When Coadministered with either H2RA or Tenofovir DFb |  |  |
-| In combination with either H2RA or tenofovir DF | 400 mg | 100 mg |
-| a See Drug Interactions (7) for instructions concerning coadministration of acid-reducing medications (eg, H2RA or PPIs), and other antiretroviral drugs (eg, efavirenz, tenofovir DF, and didanosine). b REYATAZ is not recommended for treatment-experienced pregnant patients during the second and third trimester taking REYATAZ with both tenofovir DF and H2RA. |  |  |
+| In combination with EITHER H2RA OR tenofovir DF | 400 mg | 100 mg |
+| a See Drug Interactions (7) for instructions concerning coadministration of acid-reducing medications (eg, H2RA or PPIs), and other antiretroviral drugs (eg, efavirenz, tenofovir DF, and didanosine). b REYATAZ is not recommended for treatment-experienced pregnant patients during the second and third trimester taking REYATAZ with BOTH tenofovir DF and H2RA. |  |  |
 
 ## 2.7 Dosage in Patients with Renal Impairment
 
 For patients with renal impairment, including those with severe renal impairment who are not managed with hemodialysis, no dose adjustment is required for REYATAZ.
 Treatment-naive patients with end-stage renal disease managed with hemodialysis should receive REYATAZ 300 mg with ritonavir 100 mg.
-REYATAZ is not recommended in HIV-treatment-experienced patients with end-stage renal disease managed with hemodialysis[see Use in Specific Populations (8.7)].
+REYATAZ is not recommended in treatment-experienced patients with HIV-1 infection who have end-stage renal disease managed with hemodialysis[see Use in Specific Populations (8.7)].
 
 ## 2.8 Dosage Adjustments in Patients with Hepatic Impairment
 

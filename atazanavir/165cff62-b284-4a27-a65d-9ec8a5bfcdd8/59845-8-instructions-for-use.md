@@ -11,7 +11,7 @@ Important information:
 
 - •For more information about REYATAZ oral powder, see the Patient Information leaflet.
 - •REYATAZ oral powder must be mixed with food or liquid.
-  If REYATAZ oral powder is mixed with water, the child must eat food right after taking REYATAZ oral powder.
+  If REYATAZ oral powder is mixed with water, your child must eat food right after taking REYATAZ oral powder.
 - •REYATAZ oral powder must be taken with ritonavir.
 - •Talk with your child’s healthcare provider to help decide the best schedule for giving your child REYATAZ oral powder.
 
@@ -32,7 +32,7 @@ Preparing a dose of REYATAZ oral powder mixed with food:
 
 Before you prepare a dose of REYATAZ oral powder mixed with food, gather the following supplies:
 
-| •paper towel•tablespoon•small clean container (such as a small cup or bowl) •a food such as applesauce or yogurt•the correct number of packets of REYATAZ oral powder needed for the prescribed dose |  |
+| •paper towel•tablespoon•small clean container (such as a small cup or bowl) •a food such as applesauce or yogurt•the correct number of packets of REYATAZ oral powder needed for the prescribed dose•a clean pair of scissors |  |
 | --- | --- |
 | Step 1. Place at least 1 tablespoon of a food such as applesauce or yogurt in the small container (see Figure A). | Figure A |
 | Step 2. Tap the packet of REYATAZ oral powder to settle the contents to the bottom of the packet (see Figure B). | Figure B |
@@ -47,7 +47,7 @@ Before you prepare a dose of REYATAZ oral powder mixed with food, gather the fol
 | Step 9. Give your child ritonavir as prescribed right after taking REYATAZ oral powder. |  |
 | Step 10. Wash the container and tablespoon. Allow the container and spoon to dry. Throw away the paper towel and clean the work surface. |  |
 | Preparing a dose of REYATAZ oral powder mixed with liquid in a small drinking cup:Before you prepare a dose of REYATAZ oral powder mixed with liquid in a small drinking cup, gather the following supplies: |  |
-| •paper towel•spoon•30 milliliter (mL) medicine cup (ask your pharmacist for this). See Figure F.•small drinking cup•liquid such as milk or water•the correct number of packets of REYATAZ oral powder needed for the prescribed dose | Figure F |
+| •paper towel•spoon•30 milliliter (mL) medicine cup (ask your pharmacist for this). See Figure F.•small drinking cup•liquid such as milk or water•the correct number of packets of REYATAZ oral powder needed for the prescribed dose•a clean pair of scissors | Figure F |
 | Step 1. Using the 30 mL medicine cup, pour at least 30 mL of liquid into the small drinking cup (see Figure G). | Figure G |
 | Step 2. Tap the packet of REYATAZ oral powder to settle the contents to the bottom of the packet (see Figure H). | Figure H |
 | Step 3. Using a clean pair of scissors, cut open the packet on the dotted line (see Figure I). | Figure I |
@@ -60,7 +60,7 @@ Before you prepare a dose of REYATAZ oral powder mixed with food, gather the fol
 | Step 8. Give your child ritonavir as prescribed right after taking REYATAZ oral powder. |  |
 | Step 9. Wash the small drinking cup, medicine cup, and spoon. Allow the small drinking cup, medicine cup, and spoon to dry. Throw away the paper towel and clean the work surface. |  |
 | Preparing a dose of REYATAZ oral powder mixed with liquid infant formula using an oral dosing syringe and a small medicine cup:Before you prepare a dose of REYATAZ oral powder mixed with infant formula using an oral dosing syringe, gather the following supplies: |  |
-| •paper towel•small spoon•30 milliliter (mL) medicine cup (ask your pharmacist for this). See Figure L.•10 mL oral dosing syringe (ask your pharmacist for this). See Figure L.•infant formula•the correct number of packets of REYATAZ oral powder needed for the prescribed dose | Figure L |
+| •paper towel•small spoon•30 milliliter (mL) medicine cup (ask your pharmacist for this). See Figure L.•10 mL oral dosing syringe (ask your pharmacist for this). See Figure L.•infant formula•the correct number of packets of REYATAZ oral powder needed for the prescribed dose•a clean pair of scissors | Figure L |
 | Step 1. Prepare the infant formula according to the directions on the infant formula package. |  |
 | Step 2. Pour 10 mL of infant formula into the medicine cup (see Figure M). | Figure M |
 | Step 3. Tap the packet of REYATAZ oral powder to settle the contents to the bottom of the packet (see Figure N). | Figure N |
@@ -80,15 +80,15 @@ Before you prepare a dose of REYATAZ oral powder mixed with food, gather the fol
 
 How should I store REYATAZ oral powder?
 
-- •Store REYATAZ oral powder below 86°F (30°C).
+- •Store REYATAZ oral powder at a temperature of 68°F to 86°F (20°C to 30°C).
 - •Store REYATAZ oral powder in the original packet.
   Do not open until ready to use.
-- •After REYATAZ oral powder is mixed with food or liquid, it may be kept at room temperature 68°F to 86°F (20°C to 30°C) for up to 1 hour.
+- •After REYATAZ oral powder is mixed with food or liquid, it may be kept at a temperature of 68°F to 86°F (20°C to 30°C) for up to 1 hour.
   Take REYATAZ oral powder within 1 hour after mixing with food or liquid.
 - Keep REYATAZ oral powder and all medicines out of the reach of children.
 - This Instructions for Use has been approved by the U.S. Food and Drug Administration.
 
 Distributed by: Bristol-Myers Squibb Company Princeton, NJ 08543 USA
 
-| [print code] | Revised: October 2017 |
+| [print code] | Revised: September 2020 |
 | --- | --- |
