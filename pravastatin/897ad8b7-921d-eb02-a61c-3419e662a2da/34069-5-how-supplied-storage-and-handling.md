@@ -12,10 +12,6 @@ Bottles contain a desiccant canister.
 They are supplied in bottles of 90 (NDC 0003-5194-10).
 Bottles contain a desiccant canister.
 
-80 mg tablets: Yellow, oval-shaped tablet with “BMS” on one side and “80” on the other side.
-They are supplied in bottles of 90 (NDC 0003-5195-10).
-Bottles contain a desiccant canister.
-
 ## 16.2 Storage
 
 Store at 25°C (77°F); excursions permitted to 15°C to 30°C (59°F to 86°F) [see USP Controlled Room Temperature].

@@ -9,7 +9,3 @@ See How Supplied section for a complete list of available packages of PRAVACHOL.
 # Pravachol 40 mg Tablets Representative Packaging
 
 90 tablets NDC 0003-5194-10 40 mg PRAVACHOL® (pravastatin sodium) Tablets Rx only Bristol-Myers Squibb
-
-# Pravachol 80 mg Tablets Representative Packaging
-
-90 tablets NDC 0003-5195-10 80 mg PRAVACHOL® (pravastatin sodium) Tablets Rx only Bristol-Myers Squibb

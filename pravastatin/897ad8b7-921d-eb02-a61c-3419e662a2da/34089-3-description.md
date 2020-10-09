@@ -11,6 +11,6 @@ Pravastatin sodium is an odorless, white to off-white, fine or crystalline powde
 It is a relatively polar hydrophilic compound with a partition coefficient (octanol/water) of 0.59 at a pH of 7.0.
 It is soluble in methanol and water (>300 mg/mL), slightly soluble in isopropanol, and practically insoluble in acetone, acetonitrile, chloroform, and ether.
 
-PRAVACHOL is available for oral administration as 20 mg, 40 mg, and 80 mg tablets.
+PRAVACHOL is available for oral administration as 20 mg and 40 mg tablets.
 Inactive ingredients include: croscarmellose sodium, lactose, magnesium oxide, magnesium stearate, microcrystalline cellulose, and povidone.
-The 20 mg and 80 mg tablets also contain Yellow Ferric Oxide and the 40 mg tablet also contains Green Lake Blend (mixture of D&C Yellow No. 10-Aluminum Lake and FD&C Blue No. 1-Aluminum Lake).
+The 20 mg tablets also contains Yellow Ferric Oxide and the 40 mg tablet also contains Green Lake Blend (mixture of D&C Yellow No. 10-Aluminum Lake and FD&C Blue No. 1-Aluminum Lake).

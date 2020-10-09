@@ -42,7 +42,7 @@ Compared to healthy subjects with normal renal function, patients with severe re
 
 Hepatic Impairment: In a study comparing the kinetics of pravastatin in patients with biopsy confirmed cirrhosis (N=7) and normal subjects (N=7), the mean AUC varied 18-fold in cirrhotic patients and 5-fold in healthy subjects.
 Similarly, the peak pravastatin values varied 47-fold for cirrhotic patients compared to 6-fold for healthy subjects.
-[See Warnings and Precautions (5.2).]
+[See Warnings and Precautions (5.3).]
 
 Geriatric: In a single oral dose study using pravastatin 20 mg, the mean AUC for pravastatin was approximately 27% greater and the mean cumulative urinary excretion (CUE) approximately 19% lower in elderly men (65-75 years old) compared with younger men (19-31 years old).
 In a similar study conducted in women, the mean AUC for pravastatin was approximately 46% higher and the mean CUE approximately 18% lower in elderly women (65-78 years old) compared with younger women (18-38 years old).
