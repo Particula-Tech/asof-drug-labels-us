@@ -9,7 +9,7 @@ LIPITOR can be administered as a single dose at any time of the day, with or wit
 The starting dose and maintenance doses of LIPITOR should be individualized according to patient characteristics such as goal of therapy and response.
 After initiation and/or upon titration of LIPITOR, lipid levels should be analyzed within 2 to 4 weeks and dosage adjusted accordingly.
 
-## 2.2 Heterozygous Familial Hypercholesterolemia in Pediatric Patients (10 Years to17 Years of Age)
+## 2.2 Heterozygous Familial Hypercholesterolemia in Pediatric Patients (10 Years to 17 Years of Age)
 
 The recommended starting dose of LIPITOR is 10 mg/day; the usual dose range is 10 to 20 mg orally once daily [see Clinical Studies (14.6)].
 Doses should be individualized according to the recommended goal of therapy [see Indications and Usage (1.2) and Clinical Pharmacology (12)].
