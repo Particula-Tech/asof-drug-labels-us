@@ -62,10 +62,10 @@ Miscellaneous: A symptom complex has been reported which may include some or all
 
 Hydrochlorothiazide – Body as a Whole: Weakness; Digestive: Pancreatitis, jaundice (intrahepatic cholestatic jaundice), sialadenitis, cramping, gastric irritation, anorexia; Hematologic: Aplastic anemia, agranulocytosis, leukopenia, hemolytic anemia, thrombocytopenia; Hypersensitivity: Purpura, photosensitivity, urticaria, necrotizing angiitis (vasculitis and cutaneous vasculitis), fever, respiratory distress including pneumonitis and pulmonary edema, anaphylactic reactions; Musculoskeletal: Muscle spasm; Nervous System/Psychiatric: Restlessness; Renal: Renal failure, renal dysfunction, interstitial nephritis (see WARNINGS); Skin: Erythema multiforme including Stevens-Johnson syndrome, exfoliative dermatitis including toxic epidermal necrolysis, alopecia; Special Senses: Transient blurred vision, xanthopsia.
 
-To report SUSPECTED ADVERSE REACTIONS, contact Bausch Health US, LLC at 1-800-321-4576 or FDA at 1-800-FDA-1088 or www.fda.gov/medwatch.
-
 ## Postmarketing Experience
 
 Non-melanoma Skin Cancer: Hydrochlorothiazide is associated with an increased risk of non-melanoma skin cancer.
 In a study conducted in the Sentinel System, increased risk was predominantly for squamous cell carcinoma (SCC) and in white patients taking large cumulative doses.
 The increased risk for SCC in the overall population was approximately 1 additional case per 16,000 patients per year, and for white patients taking a cumulative dose of ≥50,000 mg the risk increase was approximately 1 additional SCC case for every 6,700 patients per year.
+
+To report SUSPECTED ADVERSE REACTIONS, contact Bausch Health US, LLC at 1-800-321-4576 or FDA at 1-800-FDA-1088 or www.fda.gov/medwatch.
