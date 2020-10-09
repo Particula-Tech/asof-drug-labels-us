@@ -28,13 +28,14 @@ Additional systemic embryofetal development studies were conducted in rats and m
 Subcutaneous doses of 0.1 and 9 mg/kg/day hydrocortisone butyrate were administered to pregnant female rats during gestation days 9 – 15.
 In the presence of maternal toxicity, an increase in fetal deaths and fetal resorptions and an increase in the number of ossifications in caudal vertebrae were noted at a dose of 9 mg/kg/day (3X MTHD).
 No treatment-related effects on embryofetal toxicity or teratogenicity were noted at 0.1 mg/kg/day (0.1X MTHD).
+
 Subcutaneous doses of 0.2 and 1 mg/kg/day hydrocortisone butyrate were administered to pregnant female mice during gestation days 7 – 13.
 In the absence of maternal toxicity, an increased number of cervical ribs and one fetus with clubbed legs were noted at a dose of 1 mg/kg/day (0.2X MTHD).
 No treatment-related effects on embryofetal toxicity or teratogenicity were noted at doses of 1 and 0.2 mg/kg/day, respectively (0.2X MTHD and 0.1X MTHD, respectively).
 
 No topical embryofetal development studies were conducted with hydrocortisone butyrate cream.
 However, topical embryofetal development studies were conducted in rats and rabbits with a hydrocortisone butyrate ointment formulation.
-Topical doses of 1% and 10% hydrocortisone butyrate ointment were administered to pregnant female rats during gestation days 6 – 15 or pregnant female rabbits during gestation days 6 –18.
+Topical doses of 1% and 10% hydrocortisone butyrate ointment were administered to pregnant female rats during gestation days 6 – 15 or pregnant female rabbits during gestation days 6 - 18.
 A dose-dependent increase in fetal resorptions was noted in rabbits (0.2 – 2X MTHD) and fetal resorptions were noted in rats at the 10% hydrocortisone butyrate ointment dose (80X MTHD).
 No treatment-related effects on embryofetal toxicity were noted at the 1% hydrocortisone butyrate ointment dose in rats (8X MTHD).
 A dose at which no treatment-related effects on embryofetal toxicity were observed in rabbits after topical administration of hydrocortisone butyrate ointment was not established in this study.

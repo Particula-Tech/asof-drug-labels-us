@@ -15,17 +15,9 @@ Advise patients of the following:
 - •If no improvement is seen within 2 weeks, contact physician.
 - •Do not use other corticosteroid-containing products while using Locoid Lipocream without first consulting physician.
 
-Manufactured for:
+Manufactured for: Valeant Pharmaceuticals North America LLC Bridgewater, NJ 08807 USA
 
-Valeant Pharmaceuticals North America LLC
-
-Bridgewater, NJ 08807 USA
-
-By:
-
-Ferndale Laboratories, Inc.
-
-Ferndale, MI 48220 USA
+By: Ferndale Laboratories, Inc. Ferndale, MI 48220 USA
 
 Locoid and Locoid Lipocream are trademarks of Leo Pharma A/S used under license.
 
