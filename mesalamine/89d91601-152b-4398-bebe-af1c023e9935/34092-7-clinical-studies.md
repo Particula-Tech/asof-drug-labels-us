@@ -1,4 +1,4 @@
-# 14. CLINICAL STUDIES
+# 14CLINICAL STUDIES
 
 Two double-blind, placebo-controlled, multicenter trials of mesalamine suppositories were conducted in North America in adult patients with mildly to moderately active ulcerative proctitis.
 The regimen in Study 1 was a 500 mg mesalamine suppository administered rectally three times daily and in Study 2 was a 500 mg mesalamine suppository administered rectally twice daily.
@@ -7,7 +7,7 @@ A total of 173 patients were evaluated (Study 1, N=79; Study 2, N=94), of which 
 The mean age of patients was 39 years (range 17 to 73 years), 60% were female, and 97% were white.
 
 The primary measures of efficacy were clinical disease activity index (DAI) and histologic evaluations in both trials.
-The DAI is a composite index reflecting rectal bleeding, stool frequency, mucosal appearance at endoscopy, and a physician's global assessment of disease.
+The DAI is a composite index reflecting rectal bleeding, stool frequency, mucosal appearance at endoscopy, and a physician’s global assessment of disease.
 Patients were evaluated clinically and sigmoidoscopically after 3 and 6 weeks of treatment.
 
 Compared to placebo, mesalamine suppositories were statistically (p<0.01) superior to placebo in both trials with respect to improvement in stool frequency, rectal bleeding, mucosal appearance, disease severity, and overall disease activity after 3 and 6 weeks of treatment.

@@ -1,23 +1,23 @@
-# 5. WARNINGS AND PRECAUTIONS
+# 5WARNINGS AND PRECAUTIONS
 
-## 5.1 Renal Impairment
+## 5.1Renal Impairment
 
-Renal impairment, including minimal change nephropathy, acute and chronic interstitial nephritis, and renal failure, has been reported in patients given products such as CANASA that contain mesalamine or are converted to mesalamine [see Adverse Reactions (6.2)].
+Renal impairment, including minimal change disease, acute and chronic interstitial nephritis, and renal failure, has been reported in patients given products such as CANASA that contain mesalamine or are converted to mesalamine.
+In animal studies, the kidney was the principal organ of mesalamine toxicity [see Adverse Reactions (6.2), Nonclinical Toxicology (13.2)].
 
-Evaluate renal function prior to initiation of CANASA therapy and periodically while on therapy.
+Evaluate renal function prior to initiation of CANASA and periodically while on therapy.
 
-Evaluate the risks and benefits of using CANASA in patients with known renal impairment or a history of renal disease or taking concomitant nephrotoxic drugs.
-In animal studies, the kidney was the principal organ for toxicity [see Drug Interactions (7.1), Use in Specific Populations (8.6) and Nonclinical Toxicology (13.2)].
+Evaluate the risks and benefits of using CANASA in patients with known renal impairment or a history of renal disease or taking concomitant nephrotoxic drugs [see Drug Interactions (7.1), Use in Specific Populations (8.6)].
 
-## 5.2 Mesalamine-Induced Acute Intolerance Syndrome
+## 5.2Mesalamine-Induced Acute Intolerance Syndrome
 
 Mesalamine has been associated with an acute intolerance syndrome that may be difficult to distinguish from an exacerbation of ulcerative colitis.
 Although the exact frequency of occurrence has not been determined, it has occurred in 3% of patients in controlled clinical trials of mesalamine or sulfasalazine.
-Symptoms include cramping, acute abdominal pain and bloody diarrhea, and sometimes fever, headache, and rash.
+Symptoms include cramping, acute abdominal pain and bloody diarrhea, and sometimes fever, headache, malaise, pruritis, conjunctivitis, and rash.
 Monitor patients for worsening of these symptoms while on treatment.
 If acute intolerance syndrome is suspected, promptly discontinue treatment with CANASA.
 
-## 5.3 Hypersensitivity Reactions
+## 5.3Hypersensitivity Reactions
 
 Hypersensitivity reactions have been reported in patients taking sulfasalazine.
 Some patients may have a similar reaction to CANASA or to other compounds that contain or are converted to mesalamine.
@@ -26,12 +26,23 @@ As with sulfasalazine, mesalamine-induced hypersensitivity reactions may present
 Evaluate patients immediately if signs or symptoms of a hypersensitivity reaction are present.
 Discontinue CANASA if an alternative etiology for the signs and symptoms cannot be established.
 
-## 5.4 Hepatic Failure
+## 5.4Hepatic Failure
 
 There have been reports of hepatic failure in patients with pre-existing liver disease who have been administered other products containing mesalamine.
 Evaluate the risks and benefits of using CANASA in patients with known liver impairment.
 
-## 5.5 Interaction with Laboratory Test for Urinary Normetanephrine
+## 5.5 Photosensitivity
+
+In patients treated with mesalamine or sulfasalazine who have pre-existing skin conditions such as atopic dermatitis and atopic eczema have reported more severe photosensitivity reactions.
+Advise patients to avoid sun exposure, wear protective clothing, and use a broad-spectrum sunscreen when outdoors.
+
+## 5.6 Nephrolithiasis
+
+Cases of nephrolithiasis have been reported with the use of mesalamine, including stones of 100% mesalamine content.
+Mesalamine-containing stones are radiotransparent and undetectable by standard radiography or computed tomography (CT).
+Ensure adequate hydration during treatment with CANASA.
+
+## 5.7Interaction with Laboratory Test for Urinary Normetanephrine
 
 Use of mesalamine may lead to spuriously elevated test results when measuring urinary normetanephrine by liquid chromatography with electrochemical detection, because of the similarity in the chromatograms of normetanephrine and mesalamine's main metabolite, N-acetylaminosalicylic acid.
 Consider an alternative, selective assay for normetanephrine.
