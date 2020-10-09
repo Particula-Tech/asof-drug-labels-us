@@ -144,7 +144,21 @@ NOT FOR OBSTETRIC OR SPINAL ANESTHESIA
 
 Hospira
 
-# CA-3505
+# PRINCIPAL DISPLAY PANEL - 75 mg/10 mL Vial Carton - 1582
+
+10 mL 10 Single-dose Vials
+
+NDC 0409-1582-10 Contains 10 of NDC 0409-1582-18 Rx only
+
+Preservative-Free
+
+Marcaine™ 0.75% bupivacaine HCI injection, USP 75 mg/10 mL (7.5 mg/mL)
+
+EPIDURAL and RETROBULBAR ANESTHESIA USE
+
+NOT FOR OBSTETRIC OR SPINAL ANESTHESIA
+
+Hospira
 
 # PRINCIPAL DISPLAY PANEL - 225 mg/30 mL Vial Label
 
@@ -152,11 +166,11 @@ Hospira
 
 NDC 0409-1582-19 Rx only
 
-Marcaine™ 0.75% bupivacaine HCl injection, USP
+Marcaine™ 0.75% bupivacaine HCl injection, USP 225 mg/30 mL (7.5 mg/mL)
 
-225 mg/30 mL (7.5 mg/mL)
+for EPIDURAL and RETROBULBAR ANESTHESIA
 
-for EPIDURAL and RETROBULBAR ANESTHESIA NOT FOR OBSTETRIC OR SPINAL ANESTHESIA
+NOT FOR OBSTETRIC OR SPINAL ANESTHESIA
 
 Hospira
 
@@ -164,13 +178,13 @@ Hospira
 
 30 mL 10 SINGLE-DOSE VIALS–PRESERVATIVE FREE
 
-NDC 0409-1582-29 Rx only
+NDC 0409-1582-29 Contains 10 of NDC 0409-1582-19 Rx only
 
-Marcaine™ 0.75% bupivacaine HCl injection, USP
+Marcaine™ 0.75% bupivacaine HCl injection, USP 225 mg/30 mL (7.5 mg/mL)
 
-225 mg/30 mL (7.5 mg/mL)
+for EPIDURAL and RETROBULBAR ANESTHESIA
 
-for EPIDURAL and RETROBULBAR ANESTHESIA NOT FOR OBSTETRIC OR SPINAL ANESTHESIA
+NOT FOR OBSTETRIC OR SPINAL ANESTHESIA
 
 Hospira
 
@@ -242,7 +256,23 @@ For INFILTRATION, NERVE BLOCK, CAUDAL and EPIDURAL ANESTHESIA
 
 Not for spinal anesthesia
 
-# CA-3582
+# PRINCIPAL DISPLAY PANEL - 25 mg/10 mL Vial Carton - 1746
+
+10 mL 10 Single-dose Vials Preservative-Free
+
+NDC 0409-1746-10 Contains 10 of NDC 0409-1746-70 Rx only
+
+Marcaine™ 0.25% 25 mg/10 mL (2.5 mg/mL) with epinephrine 1:200,000 (as bitartrate)
+
+bupivacaine hydrochloride and epinephrine injection, USP
+
+For INFILTRATION, NERVE BLOCK, CAUDAL and EPIDURAL ANESTHESIA
+
+Not for spinal anesthesia
+
+WARNING: Contains Sulfites
+
+Hospira
 
 # PRINCIPAL DISPLAY PANEL - 75 mg/30 mL Vial Label - 1746
 
@@ -252,9 +282,7 @@ NDC 0409-1746-71 Rx only
 
 PRESERVATIVE-FREE
 
-Marcaine™ 0.25% 75 mg/30 mL (2.5 mg/mL)
-
-with epinephrine 1:200,000 (as bitartrate)
+Marcaine™ 0.25% 75 mg/30 mL (2.5 mg/mL) with epinephrine 1:200,000 (as bitartrate)
 
 bupivacaine hydrochloride and epinephrine injection, USP
 
@@ -270,13 +298,11 @@ Hospira
 
 30 mL 10 Single Dose Vials
 
-NDC 0409-1746-30 Rx only
+NDC 0409-1746-30 Contains 10 of NDC 0409-1746-71 Rx only
 
 PRESERVATIVE-FREE
 
-Marcaine™ 0.25% 75 mg/30 mL (2.5 mg/mL)
-
-with epinephrine 1:200,000 (as bitartrate)
+Marcaine™ 0.25% 75 mg/30 mL (2.5 mg/mL) with epinephrine 1:200,000 (as bitartrate)
 
 bupivacaine hydrochloride and epinephrine injection, USP
 
@@ -292,9 +318,7 @@ Hospira
 
 10 mL Single-dose Vial Preservative-Free
 
-Marcaine™ 0.5% 50 mg/10 mL (5 mg/mL)
-
-with epinephrine 1:200,000 (as bitartrate)
+Marcaine™ 0.5% 50 mg/10 mL (5 mg/mL) with epinephrine 1:200,000 (as bitartrate)
 
 bupivacaine hydrochloride and epinephrine injection, USP
 
@@ -306,7 +330,25 @@ WARNING: Contains Sulfites
 
 Hospira
 
-# CA-3588
+# PRINCIPAL DISPLAY PANEL - 50 mg/10 mL Vial Carton - 1749
+
+10 mL 10 Single-dose Vials
+
+NDC 0409-1749-10 Contains 10 of NDC 0409-1749-70 Rx only
+
+Preservative-Free
+
+Marcaine™ 0.5% 50 mg/10 mL (5 mg/mL) with epinephrine 1:200,000 (as bitartrate)
+
+bupivacaine hydrochloride and epinephrine injection, USP
+
+For NERVE BLOCK, CAUDAL and EPIDURAL ANESTHESIA
+
+Not for spinal anesthesia
+
+WARNING: Contains Sulfites
+
+Hospira
 
 # PRINCIPAL DISPLAY PANEL - 150 mg/30 mL Vial Label - 1749
 
@@ -316,9 +358,7 @@ NDC 0409-1749-71 Rx only
 
 PRESERVATIVE-FREE
 
-Marcaine™ 0.5% 150 mg/30 mL (5 mg/mL)
-
-with epinephrine 1:200,000 (as bitartrate)
+Marcaine™ 0.5% 150 mg/30 mL (5 mg/mL) with epinephrine 1:200,000 (as bitartrate)
 
 bupivacaine hydrochloride and epinephrine injection, USP
 
@@ -334,13 +374,11 @@ Hospira
 
 30 mL 10 Single Dose Vials
 
-NDC 0409-1749-29 Rx only
+NDC 0409-1749-29 Contains 10 of NDC 0409-1749-71 Rx only
 
 PRESERVATIVE-FREE
 
-Marcaine™ 0.5% 150 mg/30 mL (5 mg/mL)
-
-with epinephrine 1:200,000 (as bitartrate)
+Marcaine™ 0.5% 150 mg/30 mL (5 mg/mL) with epinephrine 1:200,000 (as bitartrate)
 
 bupivacaine hydrochloride and epinephrine injection, USP for NERVE BLOCK, CAUDAL, and EPIDURAL ANESTHESIA
 
