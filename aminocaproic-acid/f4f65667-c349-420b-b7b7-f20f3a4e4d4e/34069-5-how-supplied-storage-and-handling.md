@@ -8,4 +8,5 @@ NDC 0517-9120-25 20 mL multiple dose vial Boxes of 25
 
 Store at 20°-25°C (68°-77°F); excursions permitted to 15°-30°C (59°-86°F) (See USP Controlled Room Temperature).
 
-AMERICAN REGENT, INC. SHIRLEY, NY 11967
+AMERICAN REGENT, INC. SHIRLEY, NY 11967 IN9120 Rev.
+05/2020 MG #7242
