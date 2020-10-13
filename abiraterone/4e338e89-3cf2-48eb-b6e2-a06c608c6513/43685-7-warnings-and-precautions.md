@@ -50,7 +50,7 @@ The safety of ZYTIGA re-treatment of patients who develop AST or ALT greater tha
 
 ## 5.4 Increased Fractures and Mortality in Combination with Radium Ra 223 Dichloride
 
-ZYTIGA plus prednisone/prednisolone is not recommended for use in combination with radium 223 dichloride outside of clinical trials.
+ZYTIGA plus prednisone/prednisolone is not recommended for use in combination with radium Ra 223 dichloride outside of clinical trials.
 
 The clinical efficacy and safety of concurrent initiation of ZYTIGA plus prednisone/prednisolone and radium Ra 223 dichloride was assessed in a randomized, placebo-controlled multicenter study (ERA-223 trial) in 806 patients with asymptomatic or mildly symptomatic castration-resistant prostate cancer with bone metastases.
 The study was unblinded early based on an Independent Data Monitoring Committee recommendation.
@@ -64,3 +64,9 @@ Based on animal reproductive studies and mechanism of action, ZYTIGA can cause f
 In animal reproduction studies, oral administration of abiraterone acetate to pregnant rats during organogenesis caused adverse developmental effects at maternal exposures approximately ≥ 0.03 times the human exposure (AUC) at the recommended dose.
 Advise males with female partners of reproductive potential to use effective contraception during treatment with ZYTIGA and for 3 weeks after the last dose of ZYTIGA [see Use in Specific Populations (8.1, 8.3)].
 ZYTIGA should not be handled by females who are or may become pregnant [see How Supplied/Storage and Handling (16)].
+
+## 5.6 Hypoglycemia
+
+Severe hypoglycemia has been reported when ZYTIGA was administered to patients with pre-existing diabetes receiving medications containing thiazolidinediones (including pioglitazone) or repaglinide [see Drug Interactions (7.2)].
+Monitor blood glucose in patients with diabetes during and after discontinuation of treatment with ZYTIGA.
+Assess if antidiabetic drug dosage needs to be adjusted to minimize the risk of hypoglycemia.

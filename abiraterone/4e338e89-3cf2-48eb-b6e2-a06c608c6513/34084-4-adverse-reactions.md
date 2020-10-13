@@ -214,3 +214,5 @@ Musculoskeletal and Connective Tissue Disorders: myopathy, including rhabdomyoly
 Hepatobiliary Disorders: fulminant hepatitis, including acute hepatic failure and death.
 
 Cardiac Disorders: QT prolongation and Torsades de Pointes (observed in patients who developed hypokalemia or had underlying cardiovascular conditions).
+
+Immune System Disorders – Hypersensitivity: anaphylactic reactions (severe allergic reactions that include, but are not limited to difficulty swallowing or breathing, swollen face, lips, tongue or throat, or an itchy rash (urticaria)).
