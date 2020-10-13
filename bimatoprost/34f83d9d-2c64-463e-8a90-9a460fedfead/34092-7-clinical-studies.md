@@ -26,7 +26,8 @@ Table 3
 | Eyelash growth (length) (mm; % increase) | N=137 1.4; 25% | N=141 0.1; 2% |
 | Fullness/thickness (mm2; % increase) | N=136 0.7; 106% | N=140 0.1; 12% |
 | Eyelash darkness (intensity*; % increase in darkness) | N=135 -20.2; -18% | N=138 -3.6; -3% |
-| * a negative value is representative of eyelash darkening |  |  |
+
+* a negative value is representative of eyelash darkening
 
 After the 16-week treatment period, a 4-week post-treatment period followed during which the effects of bimatoprost started to return toward baseline.
 The effect on eyelash growth is expected to abate following longer term discontinuation.

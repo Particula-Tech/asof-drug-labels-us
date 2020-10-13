@@ -2,11 +2,7 @@ FDA-approved Patient Labeling
 
 PATIENT INFORMATION
 
-LATISSE® [la teece]
-
-(bimatoprost ophthalmic solution) 0.03%
-
-Read the Patient Information that comes with LATISSE® before you start using it and each time you get a refill.
+LATISSE® [la teece] (bimatoprost ophthalmic solution) 0.03% Read the Patient Information that comes with LATISSE® before you start using it and each time you get a refill.
 There may be new information.
 This leaflet does not take the place of talking with your physician about your treatment.
 
@@ -56,7 +52,7 @@ This was reported in approximately 4% of patients.
 LATISSE® solution may cause other less common side effects which typically occur on the skin close to where LATISSE® is applied, or in the eyes.
 These include skin darkening, eye irritation, dryness of the eyes, and redness of the eyelids.
 
-If you develop a new ocular condition (e.g., trauma or infection), experience a sudden decrease in visual acuity, have ocular surgery, or develop any ocular reactions, particularly conjunctivitis and eyelid reactions, you should immediately seek your physician's advice concerning the continued use of LATISSE® solution.
+If you develop a new ocular condition (e.g., trauma or infection), experience a sudden decrease in visual acuity, have ocular surgery, or develop any ocular reactions, particularly conjunctivitis and eyelid reactions, you should immediately seek your physician’s advice concerning the continued use of LATISSE® solution.
 
 What happens if I stop using LATISSE®?
 
@@ -86,44 +82,44 @@ Illustration 2
 
 DO NOT APPLY in your eye or to the lower lid.
 ONLY use the sterile applicators supplied with LATISSE® to apply the product.
-If you miss a dose, don't try to “catch up.”
+If you miss a dose, don’t try to “catch up.”
 Just apply LATISSE® solution the next evening.
 Fifty percent of patients treated with LATISSE® in a clinical study saw significant improvement by 2 months after starting treatment.
 
 If any LATISSE® solution gets into the eye proper, it is not expected to cause harm.
 The eye should not be rinsed.
 
-Don't allow the tip of the bottle or applicator to contact surrounding structures, fingers, or any other unintended surface in order to avoid contamination by common bacteria known to cause infections.
+Don’t allow the tip of the bottle or applicator to contact surrounding structures, fingers, or any other unintended surface in order to avoid contamination by common bacteria known to cause infections.
 
 Contact lenses should be removed prior to application of LATISSE® and may be reinserted 15 minutes following its administration.
 
 Use of LATISSE® more than once a day will not increase the growth of eyelashes more than use once a day.
 
-Store LATISSE® solution at 36°-77°F (2°-25°C).
+Store LATISSE® solution at 36o to 77oF (2o to 25oC).
 
-General Information about LATISSE®
-
-Prescription treatments are sometimes prescribed for conditions that are not mentioned in patient information leaflets.
+General Information about LATISSE® Prescription treatments are sometimes prescribed for conditions that are not mentioned in patient information leaflets.
 Do not use LATISSE® solution for a condition for which it was not prescribed.
 Do not give LATISSE® to other people.
 It may not be appropriate for them to use.
 
 This leaflet summarizes the most important information about LATISSE® solution.
 If you would like more information, talk with your physician.
-You can also call Allergan's product information department at 1-800-678-1605.
+You can also call Allergan’s product information department at 1-800-678-1605.
 
 What are the ingredients in LATISSE®?
 
-Active ingredient: bimatoprost
-
-Inactive ingredients: benzalkonium chloride; sodium chloride; sodium phosphate, dibasic; citric acid; and purified water.
+Active ingredient: bimatoprost Inactive ingredients: benzalkonium chloride; sodium chloride; sodium phosphate, dibasic; citric acid; and purified water.
 Sodium hydroxide and/or hydrochloric acid may be added to adjust pH.
 The pH during its shelf life ranges from 6.8 - 7.8.
 
-© 2017 Allergan.
+Distributed by
+
+Allergan USA, Inc. Madison, NJ 07940
+
+© 2020 Allergan.
 All rights reserved.
 All trademarks are the property of their respective owners.
 Patented.
-See: www.allergan.com/patents Irvine, CA 92612 Made in the U.S.A.
+See: www.allergan.com/patents
 
-72303US17
+v1.0PPI3616

@@ -48,20 +48,24 @@ Eyelash changes are likely reversible upon discontinuation of treatment.
 
 When to Seek Physician Advice
 
-Advise patients that if they develop a new ocular condition (e.g., trauma or infection), experience a sudden decrease in visual acuity, have ocular surgery, or develop any ocular reactions, particularly conjunctivitis and eyelid reactions, they should immediately seek their physician's advice concerning the continued use of LATISSE®.
+Advise patients that if they develop a new ocular condition (e.g., trauma or infection), experience a sudden decrease in visual acuity, have ocular surgery, or develop any ocular reactions, particularly conjunctivitis and eyelid reactions, they should immediately seek their physician’s advice concerning the continued use of LATISSE®.
 Patients on IOP-lowering medications should not use LATISSE® without prior consultation with their physician.
 
-Use with Contact Lenses
+Contact Lens Use
 
 Advise patients that LATISSE® solution contains benzalkonium chloride, which may be absorbed by and cause discoloration of soft contact lenses.
 Contact lenses should be removed prior to application of LATISSE® and may be reinserted 15 minutes following its administration.
 
-© 2017 Allergan.
+Distributed by
+
+Allergan USA, Inc. Madison, NJ 07940
+
+© 2020 Allergan.
 All rights reserved.
 All trademarks are the property of their respective owners.
 Patented.
-See: www.allergan.com/patents Irvine, CA 92612 Made in the U.S.A.
+See: www.allergan.com/patents
 
-72303US17
+v1.0USPI3616
 
-------Cut---Here---✂-------------------------------------------------------------------------------------------------------------
+------Cut---Here--- -------------------------------------------------------------------------------------------------------------
