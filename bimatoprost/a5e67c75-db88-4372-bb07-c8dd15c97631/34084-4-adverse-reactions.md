@@ -8,7 +8,7 @@ The following adverse reactions are described elsewhere in the labeling:
 - Macular Edema [see Warnings and Precautions (5.4)]
 - Hypersensitivity [see Contraindications (4)]
 
-## 6.1 Clinical Trial Experience
+## 6.1 Clinical Trials Experience
 
 Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in practice.
 
@@ -20,4 +20,4 @@ Other adverse drug reactions (reported in 1 to 4% of patients) with LUMIGAN® 0.
 
 The following adverse reactions have been identified during postapproval use of LUMIGAN® 0.01%.
 Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
-These reactions, which have been chosen for inclusion due to either their seriousness, frequency of reporting, possible causal connection to LUMIGAN®, or a combination of these factors include: asthma-like symptoms, dry eye, dyspnea, eye discharge, eye edema, foreign body sensation, headache, hypersensitivity including signs and symptoms of eye allergy and allergic dermatitis, lacrimation increased, and periorbital and lid changes including deepening of the eyelid sulcus.
+These reactions, which have been chosen for inclusion due to either their seriousness, frequency of reporting, possible causal connection to LUMIGAN®, or a combination of these factors include: asthma-like symptoms, dizziness, dry eye, dyspnea, eye discharge, eye edema, foreign body sensation, headache, hypersensitivity including signs and symptoms of eye allergy and allergic dermatitis, hypertension, lacrimation increased, periorbital and lid changes including deepening of the eyelid sulcus, and photophobia.

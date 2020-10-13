@@ -20,9 +20,9 @@ Serious damage to the eye and subsequent loss of vision may result from using co
 
 When to Seek Physician Advice
 
-Advise patients that if they develop an intercurrent ocular condition (e.g., trauma or infection), have ocular surgery, or develop any ocular reactions, particularly conjunctivitis and eyelid reactions, they should immediately seek their physician's advice concerning the continued use of LUMIGAN® 0.01%.
+Advise patients that if they develop an intercurrent ocular condition (e.g., trauma or infection), have ocular surgery, or develop any ocular reactions, particularly conjunctivitis and eyelid reactions, they should immediately seek their physician’s advice concerning the continued use of LUMIGAN® 0.01%.
 
-Use with Contact Lenses
+Contact Lens Use
 
 Advise patients that LUMIGAN® 0.01% contains benzalkonium chloride, which may be absorbed by soft contact lenses.
 Contact lenses should be removed prior to instillation of LUMIGAN® 0.01% and may be reinserted 15 minutes following its administration.
@@ -31,10 +31,14 @@ Use with Other Ophthalmic Drugs
 
 Advise patients that if more than one topical ophthalmic drug is being used, the drugs should be administered at least five (5) minutes between applications.
 
-© 2017 Allergan.
+Distributed by:
+
+Allergan USA, Inc. Madison, NJ 07940
+
+© 2020 Allergan.
 All rights reserved.
 All trademarks are the property of their respective owners.
 Patented.
-See: www.allergan.com/patents Irvine, CA 92612 Made in the U.S.A.
+See: www.allergan.com/patents
 
-71807US15
+Rev: 9/2020

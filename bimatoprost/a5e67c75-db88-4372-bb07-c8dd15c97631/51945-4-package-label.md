@@ -1,8 +1,14 @@
+PRINCIPAL DISPLAY PANEL
+
 ALLERGAN
 
 NDC 0023-3205-05
 
-LUMIGAN® (bimatoprost ophthalmic solution)
+LUMIGAN®
+
+(bimatoprost
+
+ophthalmic solution)
 
 0.01%
 

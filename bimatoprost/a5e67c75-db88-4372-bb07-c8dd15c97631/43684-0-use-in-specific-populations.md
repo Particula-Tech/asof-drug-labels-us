@@ -25,22 +25,20 @@ No abnormalities were observed in rat fetuses at doses up to 0.6 mg/kg/day.
 
 In an embryofetal development mouse study, abortion and early delivery were observed in pregnant mice administered bimatoprost orally during organogenesis at doses greater than or equal to 0.3 mg/kg/day (33 times the human systemic exposure to bimatoprost 0.03% dosed bilaterally once daily, based on AUC).
 The NOAEL for abortion and early delivery was 0.1 mg/kg/day (2.6 times the human systemic exposure to bimatoprost 0.03% dosed bilaterally once daily, based on AUC).
-No abnormalities were observed in mouse fetuses at doses up to 0.6 mg/kg/day (72 times the human systemic exposure to bimatoprost 0.03% dosed bilaterally once
-
-daily, based on AUC).
+No abnormalities were observed in mouse fetuses at doses up to 0.6 mg/kg/day (72 times the human systemic exposure to bimatoprost 0.03% dosed bilaterally once daily, based on AUC).
 
 In a pre/postnatal development study, treatment of pregnant rats with bimatoprost orally from gestation day 7 to lactation day 20 resulted in reduced gestation length, increased late resorptions, fetal deaths, and postnatal pup mortality, and reduced pup body weight at doses greater than or equal to 0.3 mg/kg/day.
 These effects were observed at exposures at least 41 times the human systemic exposure to bimatoprost 0.03% dosed bilaterally once daily, based on AUC.
 The NOAEL for postnatal development and mating performance of the offspring was 0.1 mg/kg/day (estimated at 14 times the human systemic exposure to bimatoprost 0.03% dosed bilaterally once daily, based on AUC).
 
-## 8.2 Lactation
+## 8.2Lactation
 
 Risk Summary
 
 It is not known whether topical ocular treatment with LUMIGAN® 0.01% could result in sufficient systemic absorption to produce detectable quantities in human milk.
 In animal studies, bimatoprost has been shown to be present in breast milk of lactating rats at an intravenous dose (i.e., 1 mg/kg) 970 times the RHOD (on a mg/rn 2 basis), however, no animal data is available at clinically relevant doses.
 
-The developmental and health benefits of breastfeeding should be considered along with the mother's clinical need for LUMIGAN® 0.01% and any potential adverse effects on the breastfed child from LUMIGAN® 0.01%.
+The developmental and health benefits of breastfeeding should be considered along with the mother’s clinical need for LUMIGAN® 0.01% and any potential adverse effects on the breastfed child from LUMIGAN® 0.01%.
 
 ## 8.4 Pediatric Use
 

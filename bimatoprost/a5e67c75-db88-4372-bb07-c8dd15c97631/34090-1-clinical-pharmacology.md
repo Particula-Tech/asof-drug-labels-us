@@ -10,21 +10,27 @@ The higher the level of IOP, the greater the likelihood of optic nerve damage an
 
 ## 12.3 Pharmacokinetics
 
-Absorption: After one drop of bimatoprost ophthalmic solution 0.03% was administered once daily to both eyes of 15 healthy subjects for two weeks, blood concentrations peaked within 10 minutes after dosing and were below the lower limit of detection (0.025 ng/mL) in most subjects within 1.5 hours after dosing.
-Mean Cmax and AUC0-24hr values were similar on days 7 and 14 at approximately 0.08 ng/mL and 0.09 ng•hr/mL,
+Absorption
 
-respectively, indicating that steady state was reached during the first week of ocular dosing.
-There was no
+After one drop of bimatoprost ophthalmic solution 0.03% was administered once daily to both eyes of 15 healthy subjects for two weeks, blood concentrations peaked within 10 minutes after dosing and were below the lower limit of detection (0.025 ng/mL) in most subjects within 1.5 hours after dosing.
+Mean Cmax and AUC0-24hr values were similar on days 7 and 14 at approximately 0.08 ng/mL and 0.09 ng•hr/mL, respectively, indicating that steady state was reached during the first week of ocular dosing.
+There was no significant systemic drug accumulation over time.
 
-significant systemic drug accumulation over time.
+Distribution
 
-Distribution: Bimatoprost is moderately distributed into body tissues with a steady-state volume of distribution of 0.67 L/kg.
+Bimatoprost is moderately distributed into body tissues with a steady-state volume of distribution of 0.67 L/kg.
 In human blood, bimatoprost resides mainly in the plasma.
 Approximately 12% of bimatoprost remains unbound in human plasma.
 
-Metabolism: Bimatoprost is the major circulating species in the blood once it reaches the systemic circulation following ocular dosing.
+Elimination
+
+Metabolism
+
+Bimatoprost is the major circulating species in the blood once it reaches the systemic circulation following ocular dosing.
 Bimatoprost then undergoes oxidation, N-deethylation and glucuronidation to form a diverse variety of metabolites.
 
-Elimination: Following an intravenous dose of radiolabeled bimatoprost (3.12 mcg/kg) to six healthy subjects, the maximum blood concentration of unchanged drug was 12.2 ng/mL and decreased rapidly with an elimination half-life of approximately 45 minutes.
+Excretion
+
+Following an intravenous dose of radiolabeled bimatoprost (3.12 mcg/kg) to six healthy subjects, the maximum blood concentration of unchanged drug was 12.2 ng/mL and decreased rapidly with an elimination half-life of approximately 45 minutes.
 The total blood clearance of bimatoprost was 1.5 L/hr/kg.
 Up to 67% of the administered dose was excreted in the urine while 25% of the dose was recovered in the feces.
