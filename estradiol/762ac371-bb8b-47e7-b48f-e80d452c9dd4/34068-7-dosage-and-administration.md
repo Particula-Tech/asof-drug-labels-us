@@ -13,8 +13,7 @@ EstroGel 0.06% 1.25 g per day is the single approved dose for the treatment of m
 The lowest effective dose of EstroGel 0.06% for this indication has not been determined.
 
 Before using the canister for the first time, it must be primed.
-Remove the large canister cover, and fully depress the pump 3 times.
-If no gel is observed, fully depress a further 2 times.
+Remove the large canister cover, and fully depress the pump 5 times.
 Discard the unused gel by thoroughly rinsing down the sink or placing it in the household trash.
 After priming, the pump is ready to use.
 
@@ -28,8 +27,7 @@ The lowest effective dose of EstroGel 0.06% for this indication has not been det
 When prescribing solely for the treatment of moderate to severe symptoms of vulvar and vaginal atrophy, topical vaginal products should be considered.
 
 Before using the canister for the first time, it must be primed.
-Remove the large canister cover, and fully depress the pump 3 times.
-If no gel is observed, fully depress a further 2 times.
+Remove the large canister cover, and fully depress the pump 5 times.
 Discard the unused gel by thoroughly rinsing down the sink or placing it in the household trash.
 After priming, the pump is ready to use.
 

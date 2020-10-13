@@ -35,6 +35,8 @@ Mean maximal serum concentrations of estradiol and estrone on Day 14 were 46.4 p
 The time‑averaged serum estradiol and estrone concentrations over the 24-hour dose interval after administration of 1.25 g EstroGel on Day 14 are 28.3 pg/mL and 48.6 pg/mL, respectively.
 Mean concentration-time profiles for unadjusted estradiol and estrone on Day 14 are shown in Figure 1.
 
+FIGURE 1 Mean Serum Concentration-time Profiles for Unadjusted Estradiol and Estrone After Multiple-dose Applications of 1.25 g EstroGel 0.06% for 14 Days
+
 The serum concentrations of estradiol following 2.5 g EstroGel applications (1.25 g on each arm from wrist to shoulder) appeared to reach steady state after the third daily application.
 Distribution
 

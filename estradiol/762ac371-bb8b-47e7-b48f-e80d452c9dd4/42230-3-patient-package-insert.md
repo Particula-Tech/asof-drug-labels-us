@@ -174,8 +174,7 @@ Priming the EstroGel pump
 
 Figure B
 
-- Slowly push the pump all the way down 3 times.
-  If no gel is observed, pump all the way down for an additional 2 times.
+- Slowly push the pump all the way down 5 times.
   Do not use any EstroGel that came out while priming.
   Wash it down the sink to avoid accidental exposure to others.
 - After priming, the EstroGel pump is ready to use.
@@ -235,16 +234,16 @@ Manufactured for:
 
 ASCEND Therapeutics ® US, LLC
 
-Herndon, VA 20170
+Morristown, NJ 07960
 
 By DPT Laboratories Ltd.
 
 San Antonio, TX 78215
 
-140992Rev052018
+141165Rev082020
 
 Utilizes EHG ® Technology
 
-©2018 ASCEND Therapeutics ® US, LLC
+©2020 ASCEND Therapeutics ® US, LLC
 
-Revised: 5/2018
+Revised: 8/2020
