@@ -1,7 +1,22 @@
-# Drug Interactions
+# 7 DRUG INTERACTIONS
 
-Cyclopropane and halothane anesthetics increase cardiac autonomic irritability and therefore seem to sensitize the myocardium to the action of intravenously administered epinephrine or norepinephrine.
-Hence, the use of LEVOPHED during cyclopropane and halothane anesthesia is generally considered contraindicated because of the risk of producing ventricular tachycardia or fibrillation.
-The same type of cardiac arrhythmias may result from the use of LEVOPHED in patients with profound hypoxia or hypercarbia.
+## 7.1 MAO-Inhibiting Drugs
 
-LEVOPHED should be used with extreme caution in patients receiving monoamine oxidase inhibitors (MAOI) or antidepressants of the triptyline or imipramine types, because severe, prolonged hypertension may result.
+Co-administration of LEVOPHED with monoamine oxidase (MAO) inhibitors or other drugs with MAO-inhibiting properties (e.g., linezolid) can cause severe, prolonged hypertension.
+
+If administration of LEVOPHED cannot be avoided in patients who recently have received any of these drugs and in whom, after discontinuation, MAO activity has not yet sufficiently recovered, monitor for hypertension.
+
+## 7.2 Tricyclic Antidepressants
+
+Co-administration of LEVOPHED with tricyclic antidepressants (including amitriptyline, nortriptyline, protriptyline, clomipramine, desipramine, imipramine) can cause severe, prolonged hypertension.
+If administration of LEVOPHED cannot be avoided in these patients, monitor for hypertension.
+
+## 7.3 Antidiabetics
+
+LEVOPHED can decrease insulin sensitivity and raise blood glucose.
+Monitor glucose and consider dosage adjustment of antidiabetic drugs.
+
+## 7.4 Halogenated Anesthetics
+
+Concomitant use of LEVOPHED with halogenated anesthetics (e.g., cyclopropane, desflurane, enflurane, isoflurane, and sevoflurane) may lead to ventricular tachycardia or ventricular fibrillation.
+Monitor cardiac rhythm in patients receiving concomitant halogenated anesthetics.
