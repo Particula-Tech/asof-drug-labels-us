@@ -15,7 +15,7 @@ KEPPRA XR is administered once daily.
 KEPPRA XR tablets should be swallowed whole.
 The tablets should not be chewed, broken, or crushed.
 
-## 2.2 Dosage Adjustment in Adult Patients with Renal Impairment
+## 2.2 Dosage Adjustments in Adult Patients with Renal Impairment
 
 KEPPRA XR dosing must be individualized according to the patient's renal function status.
 Recommended dosage adjustments for adults are shown in Table 1.
