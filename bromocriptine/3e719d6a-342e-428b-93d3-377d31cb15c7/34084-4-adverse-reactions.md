@@ -91,7 +91,7 @@ In the 52-week safety trial, somnolence and hypoesthesia were the only adverse r
 
 Fibrotic-Related Complications
 
-Among the CYCLOSET–treated patients (n = 2500) in controlled clinical trials, there was one case (0.04% event rate) of an adverse reaction of pulmonary fibrosis.
+Among the CYCLOSET-treated patients (n = 2500) in controlled clinical trials, there was one case (0.04% event rate) of an adverse reaction of pulmonary fibrosis.
 
 Serious Adverse Reactions and Cardiovascular Safety
 
