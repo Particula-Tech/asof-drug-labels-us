@@ -1,7 +1,8 @@
 # 10 OVERDOSAGE
 
-There is no specific antidote for mesalamine overdose and treatment for suspected acute severe toxicity with Asacol HD should be symptomatic and supportive.
-This may include prevention of further gastrointestinal tract absorption, correction of fluid electrolyte imbalance, and maintenance of adequate renal function.
-Asacol HD is a pH dependent delayed-release product and this factor should be considered when treating a suspected overdose.
+Asacol HD is an aminosalicylate, and symptoms of salicylate toxicity include nausea, vomiting and abdominal pain, tachypnea, hyperpnea, tinnitus, and neurologic symptoms (headache, dizziness, confusion, seizures).
+Severe salicylate intoxication may lead to electrolyte and blood pH imbalance and potentially to other organ (e.g., renal and liver) involvement.
+There is no specific antidote for mesalamine overdose; however, conventional therapy for salicylate toxicity may be beneficial in the event of acute overdosage and may include gastrointestinal tract decontamination to prevent of further absorption.
+Correct fluid and electrolyte imbalance by the administration of appropriate intravenous therapy and maintain adequate renal function.
 
-Single oral doses of 5000 mg/kg mesalamine suspension in mice (approximately 4.2 times the recommended human dose of Asacol HD based on body surface area), 4595 mg/kg in rats (approximately 7.8 times the recommended human dose of Asacol HD based on body surface area) and 3000 mg/kg in cynomolgus monkeys (approximately 10 times the recommended human dose of Asacol HD based on body surface area) were lethal.
+Asacol HD is a pH dependent delayed-release product and this factor should be considered when treating a suspected overdose.

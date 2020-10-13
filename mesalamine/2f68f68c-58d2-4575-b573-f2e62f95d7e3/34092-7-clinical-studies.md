@@ -1,7 +1,5 @@
 # 14 CLINICAL STUDIES
 
-## 14.1 Moderately Active Ulcerative Colitis
-
 The efficacy of Asacol HD at 4.8 grams per day was studied in a six-week, randomized, double-blind, active-controlled study in 772 patients with moderately active ulcerative colitis (UC).
 Moderately active UC was defined as a Physician’s Global Assessment (PGA) score of 2; the PGA is a four-point scale (0 to 3) that encompasses the clinical assessments of rectal bleeding, stool frequency, and sigmoidoscopy findings.
 

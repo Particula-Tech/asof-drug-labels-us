@@ -5,7 +5,7 @@
 Risk Summary
 
 Limited published data on mesalamine use in pregnant women are insufficient to inform a drug-associated risk.
-No fetal harm was observed in animal reproduction studies of mesalamine in rats and rabbits at oral doses approximately 0.97 times (rat) and 1.95 times (rabbit) the recommended human dose [see Data].
+No fetal harm was observed in animal reproduction studies of mesalamine in rats and rabbits at oral doses approximately 0.97 times (rat) and 1.95 times (rabbit) the recommended human dose (see Data).
 
 The estimated background risk of major birth defects and miscarriage for the indicated populations is unknown.
 In the U.S. general population, the estimated background risk of major birth defects and miscarriage in clinically recognized pregnancies is 2 to 4% and 15 to 20%, respectively.
@@ -22,7 +22,7 @@ These mesalamine doses were about 0.97 times (rat) and 1.95 times (rabbit) the r
 
 Risk Summary
 
-Mesalamine and its N-acetyl metabolite are present in human milk in undetectable to small amounts [see Data].
+Mesalamine and its N-acetyl metabolite are present in human milk in undetectable to small amounts (see Data).
 There are limited reports of diarrhea in breastfed infants.
 There is no information on the effects of the drug on milk production.
 The developmental and health benefits of breastfeeding should be considered along with the mother’s clinical need for Asacol HD and any potential adverse effects on the breastfed infant from the drug or from the underlying maternal condition.
@@ -47,11 +47,11 @@ See the prescribing information for other approved mesalamine products for the s
 
 ## 8.5 Geriatric Use
 
-Clinical studies of Asacol HD did not include sufficient numbers of patients aged 65 and over to determine whether they respond differently than younger patients.
-Reports from uncontrolled clinical studies and postmarketing experience for another oral formulation of mesalamine suggest a higher incidence of blood dyscrasias (agranulocytosis, neutropenia, pancytopenia) in patients who were 65 years or older compared to younger patients.
+Clinical studies of Asacol HD did not include sufficient numbers of patients aged 65 years and over to determine whether they respond differently than younger patients.
+Reports from uncontrolled clinical studies and postmarketing reporting systems suggested a higher incidence of blood dyscrasias (i.e., agranulocytosis, neutropenia, and pancytopenia) in patients who were 65 years or older compared to younger patients taking mesalamine-containing products such as Asacol HD.
 Monitor complete blood cell counts and platelet counts in elderly patients during therapy with Asacol HD.
 
-In general, the greater frequency of decreased hepatic, renal, or cardiac function, and of concomitant disease or other drug therapy in elderly patients should be considered when prescribing Asacol HD [see Use in Specific Populations (8.6)].
+In general, consider the greater frequency of decreased hepatic, renal, or cardiac function, and of concomitant disease or other drug therapy in elderly patients when prescribing Asacol HD [see Use in Specific Populations (8.6)].
 
 ## 8.6 Renal Impairment
 

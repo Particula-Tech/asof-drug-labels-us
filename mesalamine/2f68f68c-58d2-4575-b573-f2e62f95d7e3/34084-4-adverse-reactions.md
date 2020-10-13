@@ -1,11 +1,13 @@
 # 6 ADVERSE REACTIONS
 
-The most serious adverse reactions seen in Asacol HD clinical trials or with other products that contain mesalamine or are metabolized to mesalamine were:
+The following serious or clinically significant adverse described elsewhere in labeling are:
 
 - Renal Impairment [see Warnings and Precautions (5.1)]
 - Mesalamine-Induced Acute Intolerance Syndrome [see Warnings and Precautions (5.2)]
 - Hypersensitivity Reactions [see Warnings and Precautions (5.3)]
 - Hepatic Failure [see Warnings and Precautions (5.4)]
+- Photosensitivity [see Warnings and Precautions (5.5)]
+- Nephrolithiasis [see Warnings and Precautions (5.6)]
 
 ## 6.1 Clinical Trials Experience
 
@@ -47,7 +49,7 @@ Adverse Reactions Occurring in ≥1% of All Treated Patients (Three studies comb
 
 ## 6.2 Postmarketing Experience
 
-In addition to the adverse reactions reported above in clinical trials involving the Asacol HD tablet, the adverse events listed below have been reported in postmarketing experience with other mesalamine-containing products or products that are metabolized to mesalamine.
+The following adverse reactions have been identified during post-approval use of Asacol HD or other mesalamine-containing products or products that are metabolized to mesalamine.
 Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
 
 Body as a Whole: Facial edema, edema, peripheral edema, asthenia, chills, infection, malaise, pain, neck pain, chest pain, back pain, abdominal enlargement, lupus-like syndrome, drug fever (rare).
@@ -75,6 +77,6 @@ Skin: Alopecia, psoriasis (rare), pyoderma gangrenosum (rare), erythema nodosum,
 
 Special Senses: Ear pain, tinnitus, ear congestion, ear disorder, conjunctivitis, eye pain, blurred vision, vision abnormality, taste perversion.
 
-Renal/Urogenital: Renal failure (rare), interstitial nephritis, minimal change nephropathy, nephrolithiasis [see Warnings and Precautions (5.1), (5.5)], dysuria, urinary frequency and urgency, hematuria, epididymitis, decreased libido, dysmenorrhea, menorrhagia.
+Renal/Urogenital: Renal failure (rare), interstitial nephritis, minimal change disease, nephrolithiasis [see Warnings and Precautions (5.1, 5.6)], dysuria, urinary frequency and urgency, hematuria, epididymitis, decreased libido, dysmenorrhea, menorrhagia.
 
 Laboratory Abnormalities: Elevated AST (SGOT) or ALT (SGPT), elevated alkaline phosphatase, elevated GGT, elevated LDH, elevated bilirubin, elevated serum creatinine and BUN.
