@@ -1,6 +1,6 @@
 # 3 DOSAGE FORMS AND STRENGTHS
 
-Trazodone Hydrochloride Tablets USP are available in the following strengths:
+Trazodone hydrochloride tablets, USP are available in the following strengths:
 
 50 mg: White, round, compressed tablet, debossed “PLIVA 433” on one side and scored on the other side.
 

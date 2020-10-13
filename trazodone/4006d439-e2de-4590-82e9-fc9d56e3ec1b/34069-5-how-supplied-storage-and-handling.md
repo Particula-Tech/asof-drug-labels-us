@@ -1,12 +1,12 @@
 # 16 HOW SUPPLIED/STORAGE AND HANDLING
 
-Trazodone Hydrochloride Tablets USP are available as follows:
+Trazodone hydrochloride tablets, USP are available as follows:
 
 50 mg: White, round, compressed tablet, debossed “PLIVA 433” on one side and scored on the other side.
-Available in bottles of 100 tablets (50111-433-01), 500 tablets (NDC 50111-433-02) and 1000 tablets (50111-433-03).
+Available in bottles of 100 tablets (50111-560-01), 500 tablets (NDC 50111-560-02) and 1000 tablets (50111-560-03).
 
 100 mg: White, round, compressed tablet, debossed “PLIVA 434” on one side and scored on the other side.
-Available in bottles of 100 tablets (50111-434-01), 500 tablets (NDC 50111-434-02) and 1000 tablets (NDC 50111-434-03).
+Available in bottles of 100 tablets (50111-561-01), 500 tablets (NDC 50111-561-02) and 1000 tablets (NDC 50111-561-03).
 
 150 mg: White, oval, flat-faced, beveled edge tablet, scored and debossed as “PLIVA” bisect “441” on one side and tri-scored and debossed as “50” in each section on the other side.
 Available in bottles of 100 tablets (NDC 50111-450-01) and 500 tablets (50111-450-02).
@@ -21,7 +21,7 @@ Directions for using the correct score when breaking the tablet please refer to 
 
 - For 150 mg, use the entire tablet.
 
-Store at 20°C to 25°C (68°F to 77°F) [See USP Controlled Room Temperature].
+Store at 20°C to 25°C (68°F to 77°F) [see USP Controlled Room Temperature].
 
 Dispense in a tight, light-resistant container as defined in the USP.
 

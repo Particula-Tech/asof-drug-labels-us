@@ -49,7 +49,7 @@ Manufactured For:
 
 Teva Pharmaceuticals USA, Inc.
 
-North Wales, PA 19454
+Parsippany, NJ 07054
 
 Rev.
-H 5/2019
+I 7/2020
