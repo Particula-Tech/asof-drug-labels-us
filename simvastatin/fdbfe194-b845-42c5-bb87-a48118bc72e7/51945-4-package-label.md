@@ -1,17 +1,3 @@
-PRINCIPAL DISPLAY PANEL - 5 mg Tablet Bottle Label
-
-NDC 0006-0726-31
-
-Zocor® (Simvastatin) Tablets
-
-5 mg
-
-Each tablet contains 5 mg of simvastatin.
-
-Rx only
-
-30 Tablets
-
 PRINCIPAL DISPLAY PANEL - 10 mg Tablet Bottle Label
 
 NDC 0006-0735-31

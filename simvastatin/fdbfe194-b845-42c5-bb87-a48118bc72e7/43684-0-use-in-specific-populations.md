@@ -69,7 +69,7 @@ Caution should be exercised when ZOCOR is administered to patients with severe r
 
 ## 8.7 Hepatic Impairment
 
-ZOCOR is contraindicated in patients with active liver disease which may include unexplained persistent elevations in hepatic transaminase levels [see Contraindications (4) and Warnings and Precautions (5.2)].
+ZOCOR is contraindicated in patients with active liver disease which may include unexplained persistent elevations in hepatic transaminase levels [see Contraindications (4) and Warnings and Precautions (5.3)].
 
 ## 8.8 Chinese Patients
 

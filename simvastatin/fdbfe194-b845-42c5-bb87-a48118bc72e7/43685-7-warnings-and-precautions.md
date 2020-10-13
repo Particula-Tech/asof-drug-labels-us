@@ -25,9 +25,6 @@ Patients should be advised of the increased risk of myopathy, including rhabdomy
 If symptoms occur, treatment should be discontinued immediately.
 [See Warnings and Precautions (5.2).]
 
-There have been rare reports of immune-mediated necrotizing myopathy (IMNM), an autoimmune myopathy, associated with statin use.
-IMNM is characterized by: proximal muscle weakness and elevated serum creatine kinase, which persist despite discontinuation of statin treatment; muscle biopsy showing necrotizing myopathy without significant inflammation; improvement with immunosuppressive agents.
-
 All patients starting therapy with ZOCOR, or whose dose of ZOCOR is being increased, should be advised of the risk of myopathy, including rhabdomyolysis, and told to report promptly any unexplained muscle pain, tenderness or weakness particularly if accompanied by malaise or fever or if muscle signs and symptoms persist after discontinuing ZOCOR.
 ZOCOR therapy should be discontinued immediately if myopathy is diagnosed or suspected.
 In most cases, muscle symptoms and CK increases resolved when treatment was promptly discontinued.
@@ -89,7 +86,16 @@ Table 1: Drug Interactions Associated with Increased Risk of Myopathy/Rhabdomyol
 | Daptomycin | Temporarily suspend simvastatin |
 | Grapefruit juice | Avoid grapefruit juice |
 
-## 5.2 Liver Dysfunction
+## 5.2 Immune-Mediated Necrotizing Myopathy
+
+There have been rare reports of immune-mediated necrotizing myopathy (IMNM), an autoimmune myopathy, associated with statin use.
+IMNM is characterized by: proximal muscle weakness and elevated serum creatine kinase, which persist despite discontinuation of statin treatment; positive anti-HMG CoA reductase antibody; muscle biopsy showing necrotizing myopathy; and improvement with immunosuppressive agents.
+Additional neuromuscular and serologic testing may be necessary.
+Treatment with immunosuppressive agents may be required.
+Consider risk of IMNM carefully prior to initiation of a different statin.
+If therapy is initiated with a different statin, monitor for signs and symptoms of IMNM.
+
+## 5.3 Liver Dysfunction
 
 Persistent increases (to more than 3× the ULN) in serum transaminases have occurred in approximately 1% of patients who received simvastatin in clinical studies.
 When drug treatment was interrupted or discontinued in these patients, the transaminase levels usually fell slowly to pretreatment levels.
@@ -117,6 +123,6 @@ Active liver diseases or unexplained transaminase elevations are contraindicatio
 Moderate (less than 3× ULN) elevations of serum transaminases have been reported following therapy with simvastatin.
 These changes appeared soon after initiation of therapy with simvastatin, were often transient, were not accompanied by any symptoms and did not require interruption of treatment.
 
-## 5.3 Endocrine Function
+## 5.4 Endocrine Function
 
 Increases in HbA1c and fasting serum glucose levels have been reported with HMG-CoA reductase inhibitors, including ZOCOR.
