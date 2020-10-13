@@ -428,11 +428,9 @@ Twenty-two percent of patients' tumors were HPV-positive, 23% had PD-L1 TPS ≥5
 Eighty-five percent of patients' tumors had PD-L1 expression of CPS ≥1 and 43% had CPS ≥20.
 
 The trial demonstrated a statistically significant improvement in OS for patients randomized to KEYTRUDA in combination with chemotherapy compared to those randomized to cetuximab in combination with chemotherapy at a pre-specified interim analysis in the overall population.
-The trial also demonstrated a statistically significant improvement in OS for the subgroup of patients with PD-L1 CPS ≥1 randomized to KEYTRUDA as a single agent compared to those randomized to cetuximab in combination with chemotherapy.
-At the time of the interim analysis, there was no significant difference in OS between the KEYTRUDA single agent arm and the control arm for the overall population.
 Table 42 and Figure 9 summarize efficacy results for KEYTRUDA in combination with chemotherapy.
 
-Table 42: Efficacy Results for KEYTRUDA plus Platinum/Fluorouracil in KEYNOTE-048
+Table 42: Efficacy ResultsResults at a pre-specified interim analysis for KEYTRUDA plus Platinum/Fluorouracil in KEYNOTE-048
 
 |  | n=281 | n=278 |
 | --- | --- | --- |
@@ -454,12 +452,16 @@ Table 42: Efficacy Results for KEYTRUDA plus Platinum/Fluorouracil in KEYNOTE-04
 | Duration of Response |  |  |
 | Median in months (range) | 6.7 (1.6+, 30.4+) | 4.3 (1.2+, 27.9+) |
 
-In KEYNOTE-048, OS HRs for patients randomized to KEYTRUDA in combination with chemotherapy, compared with cetuximab in combination with chemotherapy, were similar for all populations regardless of PD-L1 expression in a pre-specified interim analysis: ITT (HR 0.77, 95% CI: 0.63, 0.93), CPS ≥1 (HR 0.71, 95% CI: 0.57, 0.88), CPS ≥20 (HR 0.69, 95% CI:0.51, 0.94).
+At the pre-specified final OS analysis for the ITT population, the hazard ratio was 0.72 (95% CI: 0.60, 0.87).
+In addition, KEYNOTE-048 demonstrated a statistically significant improvement in OS for the subgroups of patients with PD-L1 CPS ≥1 (HR=0.65, 95% CI: 0.53, 0.80) and CPS ≥20 (HR=0.60, 95% CI: 0.45, 0.82).
+
+The trial also demonstrated a statistically significant improvement in OS for the subgroup of patients with PD-L1 CPS ≥1 randomized to KEYTRUDA as a single agent compared to those randomized to cetuximab in combination with chemotherapy at a pre-specified interim analysis.
+At the time of the interim and final analyses, there was no significant difference in OS between the KEYTRUDA single agent arm and the control arm for the overall population.
 
 Table 43 summarizes efficacy results for KEYTRUDA as a single agent in the subgroups of patients with CPS ≥1 HNSCC and CPS ≥20 HNSCC.
 Figure 10 summarizes the OS results in the subgroup of patients with CPS ≥1 HNSCC.
 
-Table 43: Efficacy Results for KEYTRUDA as a Single Agent in KEYNOTE-048 (CPS ≥1 and CPS ≥20)
+Table 43: Efficacy ResultsResults at a pre-specified interim analysis for KEYTRUDA as a Single Agent in KEYNOTE-048 (CPS ≥1 and CPS ≥20)
 
 | n=257 | n=255 | n=133 | n=122 |  |
 | --- | --- | --- | --- | --- |
@@ -473,7 +475,7 @@ Table 43: Efficacy Results for KEYTRUDA as a Single Agent in KEYNOTE-048 (CPS �
 | PFS |  |  |  |  |
 | Number of events (%) | 225 (88%) | 231 (91%) | 113 (85%) | 111 (91%) |
 | Median in months (95% CI) | 3.2 (2.2, 3.4) | 5.0 (4.8, 5.8) | 3.4 (3.2, 3.8) | 5.0 (4.8, 6.2) |
-| Hazard ratio (95% CI) | 1.15 (0.95, 1.38) |  | 0.99 (0.75, 1.29) |  |
+| Hazard ratio (95% CI) | 1.15 (0.95, 1.38) |  | 0.97 (0.74, 1.27) |  |
 | Objective Response Rate |  |  |  |  |
 | ORRResponse: Best objective response as confirmed complete response or partial response (95% CI) | 19% (14.5, 24.4) | 35% (29.1, 41.1) | 23% (16.4, 31.4) | 36% (27.6, 45.3) |
 | Complete response rate | 5% | 3% | 8% | 3% |
@@ -481,7 +483,9 @@ Table 43: Efficacy Results for KEYTRUDA as a Single Agent in KEYNOTE-048 (CPS �
 | Duration of Response |  |  |  |  |
 | Median in months (range) | 20.9 (1.5+, 34.8+) | 4.5 (1.2+, 28.6+) | 20.9 (2.7, 34.8+) | 4.2 (1.2+, 22.3+) |
 
-In an exploratory subgroup analysis for patients with CPS 1-19 HNSCC, the median OS was 10.8 months (95% CI: 9.0, 12.6) for KEYTRUDA as a single agent and 10.1 months (95% CI: 8.7, 12.1) for cetuximab in combination with chemotherapy, with an HR of 0.90 (95% CI: 0.68, 1.18).
+At the pre-specified final OS analysis comparing KEYTRUDA as a single agent to cetuximab in combination with chemotherapy, the hazard ratio for the subgroup of patients with CPS ≥1 was 0.74 (95% CI: 0.61, 0.90) and the hazard ratio for the subgroup of patients with CPS ≥20 was 0.58 (95% CI: 0.44, 0.78).
+
+In an exploratory subgroup analysis for patients with CPS 1-19 HNSCC at the time of the pre-specified final OS analysis, the median OS was 10.8 months (95% CI: 9.0, 12.6) for KEYTRUDA as a single agent and 10.1 months (95% CI: 8.7, 12.1) for cetuximab in combination with chemotherapy, with an HR of 0.86 (95% CI: 0.66, 1.12).
 
 Previously treated recurrent or metastatic HNSCC
 
@@ -1080,7 +1084,7 @@ Testing of TMB was blinded with respect to clinical outcomes.
 The major efficacy outcome measures were ORR and DoR in patients who received at least one dose of KEYTRUDA as assessed by BICR according to RECIST v1.1, modified to follow a maximum of 10 target lesions and a maximum of 5 target lesions per organ.
 
 In KEYNOTE-158, 1050 patients were included in the efficacy analysis population.
-TMB was analysed in the subset of 790 patients with sufficient tissue for testing based on protocol-specified testing requirements.
+TMB was analyzed in the subset of 790 patients with sufficient tissue for testing based on protocol-specified testing requirements.
 Of the 790 patients, 102 (13%) had tumors identified as TMB-H, defined as TMB ≥10 mutations per megabase.
 Among the 102 patients with TMB-H advanced solid tumors, the study population characteristics were: median age of 61 years (range: 27 to 80), 34% age 65 or older; 34% male; 81% White; and 41% ECOG PS of 0 and 58% ECOG PS of 1.
 Fifty-six percent of patients had at least two prior lines of therapy.

@@ -1013,7 +1013,7 @@ Table 30: Adverse Reactions Occurring in ≥20% of Patients with Endometrial Car
 | Nausea | 48 | 5 |
 | StomatitisIncludes glossitis, mouth ulceration, oral discomfort, oral mucosal blistering, oropharyngeal pain, and stomatitis | 43 | 0 |
 | Vomiting | 39 | 0 |
-| Abdominal pain Includes abdominal discomfort, abdominal pain, lower abdominal pain, and upper abdominal pain | 33 | 6 |
+| Abdominal painIncludes abdominal discomfort, abdominal pain, lower abdominal pain, and upper abdominal pain | 33 | 6 |
 | Constipation | 32 | 0 |
 | Metabolism |  |  |
 | Decreased appetiteIncludes decreased appetite and early satiety | 52 | 0 |
