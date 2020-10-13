@@ -10,7 +10,7 @@ KEPPRA is indicated as adjunctive therapy for the treatment of myoclonic seizure
 
 ## 1.3 Primary Generalized Tonic-Clonic Seizures
 
-KEPPRA is indicated as adjunctive therapy for the treatment of primary generalized tonic-clonic seizures in adults and children 6 years of age and older with idiopathic generalized epilepsy.
+KEPPRA is indicated as adjunctive therapy for the treatment of primary generalized tonic-clonic seizures in patients 6 years of age and older with idiopathic generalized epilepsy.
 
 ## 1.4 Limitations of Use
 
