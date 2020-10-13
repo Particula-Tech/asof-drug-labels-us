@@ -31,7 +31,7 @@ Gabapentin can be removed from plasma by hemodialysis.
 Specific Populations Age The effect of age was studied in subjects 20 to 80 years of age.
 Apparent oral clearance (CL/F) of gabapentin decreased as age increased, from about 225 mL/min in those under 30 years of age to about 125 mL/min in those over 70 years of age.
 Renal clearance (CLr) and CLr adjusted for body surface area also declined with age; however, the decline in the renal clearance of gabapentin with age can largely be explained by the decline in renal function.
-[see Dosage and Administration (2.4)and Use in Specific Populations (8.5)].
+[see Dosage and Administration (2.4) and Use in Specific Populations (8.5)].
 
 Gender Although no formal study has been conducted to compare the pharmacokinetics of gabapentin in men and women, it appears that the pharmacokinetic parameters for males and females are similar and there are no significant gender differences.
 
@@ -57,7 +57,7 @@ These pharmacokinetic data indicate that the effective daily dose in pediatric p
 
 Adult Patients with Renal Impairment
 
-Subjects (N=60) with renal impairment (mean creatinine clearance ranging from 13 mL/min to 114 mL/min) were administered single 400 mg oral doses of gabapentin.
+Subjects (N=60) with renal impairment (mean creatinine clearance ranging from 13 ml/min to 114 mL/min) were administered single 400 mg oral doses of gabapentin.
 The mean gabapentin half-life ranged from about 6.5 hours (patients with creatinine clearance >60 mL/min) to 52 hours (creatinine clearance <30 mL/min) and gabapentin renal clearance from about 90 mL/min (>60 mL/min group) to about 10 mL/min (<30 mL/min).
 Mean plasma clearance (CL/F) decreased from approximately 190 mL/min to 20 mL/min [see Dosage and Administration (2.3) and Use in Specific Populations (8.6)].
 Pediatric patients with renal insufficiency have not been studied.
@@ -65,7 +65,7 @@ Pediatric patients with renal insufficiency have not been studied.
 Hemodialysis
 
 In a study in anuric adult subjects (N=11), the apparent elimination half-life of gabapentin on nondialysis days was about 132 hours; during dialysis the apparent half-life of gabapentin was reduced to 3.8 hours.
-Hemodialysis thus has a significant effect on gabapentin elimination in anuric subjects [see Dosage and Administration (2.3)and Use in Specific Populations (8.6)].
+Hemodialysis thus has a significant effect on gabapentin elimination in anuric subjects [see Dosage and Administration (2.3) and Use in Specific Populations (8.6)].
 
 Hepatic Disease
 
@@ -117,7 +117,7 @@ The effect of gabapentin on cimetidine was not evaluated.
 Oral Contraceptive Based on AUC and half-life, multiple-dose pharmacokinetic profiles of norethindrone and ethinyl estradiol following administration of tablets containing 2.5 mg of norethindrone acetate and 50 mcg of ethinyl estradiol were similar with and without coadministration of gabapentin (400 mg three times a day; N=13).
 The Cmax of norethindrone was 13% higher when it was coadministered with gabapentin; this interaction is not expected to be of clinical importance.
 
-Antacid (Maalox®) (aluminum hydroxide, magnesium hydroxide)
+Antacid (Maalox®)(aluminum hydroxide, magnesium hydroxide)
 
 Antacid (Maalox®) containing magnesium and aluminum hydroxides reduced the mean bioavailability of gabapentin (N=16) by about 20%.
 This decrease in bioavailability was about 10% when gabapentin was administered 2 hours after Maalox.

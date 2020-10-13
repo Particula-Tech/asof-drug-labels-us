@@ -10,8 +10,8 @@ Controlled PHN Studies: Duration, Dosages, and Number of Patients
 
 | Study | Study Duration | Gabapentin (mg/day)a Target Dose | Patients Receiving Gabapentin | Patients Receiving Placebo |
 | --- | --- | --- | --- | --- |
-| 1 | 8 weeks | 3600 | 113 | 116 |
-| 2 | 7 weeks | 1800, 2400 | 223 | 111 |
+| 1 | 8 weeks | 3,600 | 113 | 116 |
+| 2 | 7 weeks | 1,800, 2,400 | 223 | 111 |
 | Total |  |  | 336 | 227 |
 | aGiven in 3 divided doses (TID) |  |  |  |  |
 

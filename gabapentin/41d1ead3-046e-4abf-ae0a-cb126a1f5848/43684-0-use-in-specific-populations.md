@@ -12,7 +12,7 @@ In the U.S. general population, the estimated background risk of major birth def
 The background risk of major birth defects and miscarriage for the indicated population is unknown.
 
 Data Animal data When pregnant mice received oral doses of gabapentin (500 mg, 1,000 mg, or 3,000 mg/kg/day) during the period of organogenesis, embryofetal toxicity (increased incidences of skeletal variations) was observed at the two highest doses.
-The no-effect dose for embryofetal developmental toxicity in mice (500 mg/kg/day) is less than the maximum recommended human dose (MRHD) of 3,600 mg/kg on a body surface area (mg/m2) basis.
+The no-effect dose for embryofetal developmental toxicity in mice (500 mg/kg/day) is less than the maximum recommended human dose (MRHD) of 3,600 mg on a body surface area (mg/m2) basis.
 
 In studies in which rats received oral doses of gabapentin (500 to 2,000 mg/kg/day) during pregnancy, adverse effect on offspring development (increased incidences of hydroureter and/or hydronephrosis) were observed at all doses.
 The lowest dose tested is similar to the MRHD on a mg/m2 basis.
@@ -54,7 +54,7 @@ Because elderly patients are more likely to have decreased renal function, care 
 
 ## 8.6 Renal Impairment
 
-Dosage adjustment in adult patients with compromised renal function is necessary [see Dosage and Administration (2.3)and Clinical Pharmacology (12.3)].
+Dosage adjustment in adult patients with compromised renal function is necessary [see Dosage and Administration (2.3) and Clinical Pharmacology (12.3)].
 Pediatric patients with renal insufficiency have not been studied.
 
-Dosage adjustment in patients undergoing hemodialysis is necessary [see Dosage and Administration (2.3)and Clinical Pharmacology (12.3)].
+Dosage adjustment in patients undergoing hemodialysis is necessary [see Dosage and Administration (2.3) and Clinical Pharmacology (12.3)].

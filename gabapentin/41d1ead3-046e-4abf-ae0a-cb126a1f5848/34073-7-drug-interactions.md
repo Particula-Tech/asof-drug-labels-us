@@ -9,7 +9,7 @@ Gabapentin is not appreciably metabolized nor does it interfere with the metabol
 Hydrocodone Coadministration of gabapentin with hydrocodone decreases hydrocodone exposure [see Clinical Pharmacology (12.3)].
 The potential for alteration in hydrocodone exposure and effect should be considered when gabapentin is started or discontinued in a patient taking hydrocodone.
 
-Morphine When gabapentin is administered with morphine, patients should be observed for signs of central nervous system (CNS) depression, such as somnolence, sedation and respiratory depression [see Clinical Pharmacology (12.3)].
+Morphine When gabapentin is administered with morphine, patients should be observed for signs of CNS depression, such as somnolence, sedation and respiratory depression [see Clinical Pharmacology (12.3)].
 
 ## 7.3 Maalox® (aluminum hydroxide, magnesium hydroxide)
 

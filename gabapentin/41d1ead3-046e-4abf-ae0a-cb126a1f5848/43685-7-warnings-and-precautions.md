@@ -21,7 +21,7 @@ Patients should be instructed to discontinue gabapentin and seek immediate medic
 ## 5.3 Effects on Driving and Operating Heavy Machinery
 
 Patients taking gabapentin should not drive until they have gained sufficient experience to assess whether gabapentin impairs their ability to drive.
-Driving performance studies conducted with a prodrug of gabapentin (gabapentin enacarbil tablet, extended release) indicate that gabapentin may cause significant driving impairment.
+Driving performance studies conducted with a prodrug of gabapentin (gabapentin enacarbil tablet, extended-release) indicate that gabapentin may cause significant driving impairment.
 Prescribers and patients should be aware that patients’ ability to assess their own driving competence, as well as their ability to assess the degree of somnolence caused by gabapentin, can be imperfect.
 The duration of driving impairment after starting therapy with gabapentin is unknown.
 Whether the impairment is related to somnolence [see Warnings and Precautions (5.4)] or other effects of gabapentin is unknown.
@@ -33,7 +33,7 @@ Moreover, because gabapentin causes somnolence and dizziness [see Warnings and P
 During the controlled epilepsy trials in patients older than 12 years of age receiving doses of gabapentin up to 1,800 mg daily, somnolence, dizziness, and ataxia were reported at a greater rate in patients receiving gabapentin compared to placebo: i.e., 19% in drug versus 9% in placebo for somnolence, 17% in drug versus 7% in placebo for dizziness, and 13% in drug versus 6% in placebo for ataxia.
 In these trials somnolence, ataxia and fatigue were common adverse reactions leading to discontinuation of gabapentin in patients older than 12 years of age, with 1.2%, 0.8% and 0.6% discontinuing for these events, respectively.
 
-During the controlled trials in patients with post-herpetic neuralgia, somnolence and dizziness were reported at a greater rate compared to placebo in patients receiving gabapentin, in dosages up to 3,600 mg per day: i.e., 21% in gabapentin-treated patients versus 5% in placebo-treated patients for somnolence and 28% in gabapentin-treated patients versus 8% in placebo-treated patients for dizziness.
+During the controlled trials in patients with post-herpetic neuralgia, somnolence, and dizziness were reported at a greater rate compared to placebo in patients receiving gabapentin, in dosages up to 3,600 mg per day: i.e., 21% in gabapentin-treated patients versus 5% in placebo-treated patients for somnolence and 28% in gabapentin-treated patients versus 8% in placebo-treated patients for dizziness.
 Dizziness and somnolence were among the most common adverse reactions leading to discontinuation of gabapentin.
 
 Patients should be carefully observed for signs of central nervous system (CNS) depression, such as somnolence and sedation, when gabapentin is used with other drugs with sedative properties because of potential synergy.
@@ -83,7 +83,13 @@ Should suicidal thoughts and behavior emerge during treatment, the prescriber ne
 Patients, their caregivers, and families should be informed that AEDs increase the risk of suicidal thoughts and behavior and should be advised of the need to be alert for the emergence or worsening of the signs and symptoms of depression, any unusual changes in mood or behavior, or the emergence of suicidal thoughts, behavior, or thoughts about self-harm.
 Behaviors of concern should be reported immediately to healthcare providers.
 
-## 5.7 Neuropsychiatric Adverse Reactions (Pediatric Patients 3 to 12 Years of Age)
+## 5.7 Respiratory Depression
+
+There is evidence from case reports, human studies, and animal studies associating Gabapentin Capsules with serious, life-threatening, or fatal respiratory depression when co-administered with CNS depressants, including opioids, or in the setting of underlying respiratory impairment.
+When the decision is made to co-prescribe Gabapentin Capsules with another CNS depressant, particularly an opioid, or to prescribe Gabapentin Capsules to patients with underlying respiratory impairment, monitor patients for symptoms of respiratory depression and sedation, and consider initiating Gabapentin Capsules at a low dose.
+The management of respiratory depression may include close observation, supportive measures, and reduction or withdrawal of CNS depressants (including Gabapentin Capsules).
+
+## 5.8 Neuropsychiatric Adverse Reactions (Pediatric Patients 3 to 12 Years of Age)
 
 Gabapentin use in pediatric patients with epilepsy 3 to 12 years of age is associated with the occurrence of CNS related adverse reactions.
 The most significant of these can be classified into the following categories: 1) emotional lability (primarily behavioral problems), 2) hostility, including aggressive behaviors, 3) thought disorder, including concentration problems and change in school performance, and 4) hyperkinesia (primarily restlessness and hyperactivity).
@@ -94,7 +100,7 @@ One of these reactions, a report of hostility, was considered serious.
 Discontinuation of gabapentin treatment occurred in 1.3% of patients reporting emotional lability and hyperkinesia and 0.9% of gabapentin-treated patients reporting hostility and thought disorder.
 One placebo-treated patient (0.4%) withdrew due to emotional lability.
 
-## 5.8 Tumorigenic Potential
+## 5.9 Tumorigenic Potential
 
 In an oral carcinogenicity study, gabapentin increased the incidence of pancreatic acinar cell tumors in rats [see Nonclinical Toxicology (13.1)].
 The clinical significance of this finding is unknown.
@@ -103,7 +109,7 @@ Clinical experience during gabapentin’s premarketing development provides no d
 In clinical studies in adjunctive therapy in epilepsy comprising 2,085 patient-years of exposure in patients >12 years of age, new tumors were reported in 10 patients (2 breast, 3 brain, 2 lung, 1 adrenal, 1 non-Hodgkin’s lymphoma, 1 endometrial carcinoma in situ), and preexisting tumors worsened in 11 patients (9 brain, 1 breast, 1 prostate) during or up to 2 years following discontinuation of gabapentin.
 Without knowledge of the background incidence and recurrence in a similar population not treated with gabapentin, it is impossible to know whether the incidence seen in this cohort is or is not affected by treatment.
 
-## 5.9 Sudden and Unexplained Death in Patients with Epilepsy
+## 5.10 Sudden and Unexplained Death in Patients with Epilepsy
 
 During the course of premarketing development of gabapentin, 8 sudden and unexplained deaths were recorded among a cohort of 2,203 epilepsy patients treated (2,103 patient-years of exposure) with gabapentin.
 

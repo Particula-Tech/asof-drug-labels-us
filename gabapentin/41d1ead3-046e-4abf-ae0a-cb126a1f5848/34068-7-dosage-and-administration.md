@@ -35,8 +35,8 @@ Gabapentin Dosage Based on Renal Function
 
 | Renal Function Creatinine Clearance (mL/min) | Total Daily Dose Range (mg/day) | Dose Regimen (mg) |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- |
-| ≥ 60 | 900 to 3600 | 300 TID | 400 TID | 600 TID | 800 TID | 1200 TID |
-| >30 to 59 | 400 to 1400 | 200 BID | 300 BID | 400 BID | 500 BID | 700 BID |
+| ≥ 60 | 900 to 3,600 | 300 TID | 400 TID | 600 TID | 800 TID | 1,200 TID |
+| >30 to 59 | 400 to 1,400 | 200 BID | 300 BID | 400 BID | 500 BID | 700 BID |
 | >15 to 29 | 200 to 700 | 200 QD | 300 QD | 400 QD | 500 QD | 700 QD |
 | 15a | 100 to 300 | 100 QD | 125 QD | 150 QD | 200 QD | 300 QD |
 |  |  | Post-Hemodialysis Supplemental Dose (mg)b |  |  |  |  |
