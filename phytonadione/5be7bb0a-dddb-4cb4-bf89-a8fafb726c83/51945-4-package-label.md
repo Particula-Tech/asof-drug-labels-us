@@ -4,10 +4,10 @@ NDC 0187-1704-05
 
 Rx only
 
-MEPHYTON® (phytonadione) Tablets 5 mg
-
-Each tablet contains 5 mg phytonadione
+Mephyton® (phytonadione) Tablets 5 mg
 
 100 Tablets
 
-VALEANT
+Each tablet contains 5 mg phytonadione
+
+BAUSCH Health

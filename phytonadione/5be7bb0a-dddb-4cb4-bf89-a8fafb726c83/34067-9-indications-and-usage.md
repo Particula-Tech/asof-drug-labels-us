@@ -1,6 +1,6 @@
 # INDICATIONS AND USAGE
 
-Mephyton is indicated in the following coagulation disorders which are due to faulty formation of factors II,VII, IX and X when caused by vitamin K deficiency or interference with vitamin K activity.
+Mephyton is indicated in the following coagulation disorders which are due to faulty formation of factors II, VII, IX and X when caused by vitamin K deficiency or interference with vitamin K activity.
 
 Mephyton tablets are indicated in:
 

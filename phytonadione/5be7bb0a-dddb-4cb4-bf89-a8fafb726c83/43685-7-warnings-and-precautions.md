@@ -17,8 +17,7 @@ Failure to respond to vitamin K may indicate a congenital coagulation defect or 
 ## General
 
 Vitamin K1 is fairly rapidly degraded by light; therefore, always protect Mephyton from light.
-Store Mephyton in closed original carton until contents have been used.
-(See HOW SUPPLIED, Storage.)
+Store Mephyton in closed original carton until contents have been used (see HOW SUPPLIED, Storage).
 
 ## Drug Interactions
 
@@ -32,12 +31,12 @@ Prothrombin time should be checked regularly as clinical conditions indicate.
 ## Carcinogenesis, Mutagenesis, Impairment of Fertility
 
 Studies of carcinogenicity or impairment of fertility have not been performed with Mephyton.
-Mephyton at concentrations up to 2,000 mcg/plate with or without metabolic activation, was negative in the Ames microbial mutagen test.
+Mephyton at concentrations up to 2,000 mcg/plate, with or without metabolic activation, was negative in the Ames microbial mutagen test.
 
 ## Pregnancy
 
 Animal reproduction studies have not been conducted with Mephyton.
-It is also not known whether Mephyton can cause fetal harm when administered to a pregnant woman or can effect reproduction capacity.
+It is also not known whether Mephyton can cause fetal harm when administered to a pregnant woman or can affect reproduction capacity.
 Mephyton should be given to a pregnant woman only if clearly needed.
 
 ## Pediatric Use

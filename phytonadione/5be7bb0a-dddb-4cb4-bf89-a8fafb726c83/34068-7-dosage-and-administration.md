@@ -1,18 +1,17 @@
 # DOSAGE AND ADMINISTRATION
 
-Mephyton Summary of Dosage Guidelines (See circular text for details.)
+Mephyton Tablets Summary of Dosage Guidelines (See package insert for details.)
 
 | Adults | Initial Dosage |
 | --- | --- |
-| Anticoagulant-Induced Prothrombin Deficiency (caused by coumarin or indanedione derivatives) | 2.5 mg-10 mg or up to 25 mg (rarely 50 mg) |
-| Hypoprothrombinemia Due to Other Causes (antibiotics; salicylates or other drugs; factors limiting absorption or synthesis) | 2.5 mg-25 mg or more (rarely up to 50 mg) |
+| Anticoagulant-Induced Prothrombin Deficiency (caused by coumarin or indanedione derivatives) | 2.5 mg to 10 mg or up to 25 mg (rarely 50 mg) |
+| Hypoprothrombinemia Due to Other Causes (antibiotics; salicylates or other drugs; factors limiting absorption or synthesis) | 2.5 mg to 25 mg or more (rarely up to 50 mg) |
 
 ## Anticoagulant-Induced Prothrombin Deficiency in Adults
 
 To correct excessively prolonged prothrombin times caused by oral anticoagulant therapy, 2.5 to 10 mg or up to 25 mg initially is recommended.
 In rare instances 50 mg may be required.
-Frequency and amount of subsequent doses should be determined by prothrombin time response or clinical condition.
-(See WARNINGS.)
+Frequency and amount of subsequent doses should be determined by prothrombin time response or clinical condition (see WARNINGS).
 If, in 12 to 48 hours after oral administration, the prothrombin time has not been shortened satisfactorily, the dose should be repeated.
 
 ## Hypoprothrombinemia Due to Other Causes in Adults
