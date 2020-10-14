@@ -37,6 +37,8 @@ There have been rare reports of immune-mediated necrotizing myopathy (IMNM), an 
 IMNM is characterized by: proximal muscle weakness and elevated serum creatine kinase, which persist despite discontinuation of statin treatment; positive anti-HMG CoA reductase antibody; muscle biopsy showing necrotizing myopathy; and improvement with immunosuppressive agents.
 Additional neuromuscular and serologic testing may be necessary.
 Treatment with immunosuppressive agents may be required.
+Consider risk of IMNM carefully prior to initiation of a different statin.
+If therapy is initiated with a different statin, monitor for signs and symptoms of IMNM.
 
 ## 5.3 Liver Dysfunction
 
