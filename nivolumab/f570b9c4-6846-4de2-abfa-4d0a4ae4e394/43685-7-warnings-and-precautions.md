@@ -52,6 +52,8 @@ Approximately 13% (2/16) of patients had recurrence of pneumonitis after re-init
 
 The incidence and severity of immune-mediated pneumonitis in patients with NSCLC treated with OPDIVO 360 mg every 3 weeks in combination with ipilimumab 1 mg/kg every 6 weeks and 2 cycles of platinum-doublet chemotherapy were comparable to treatment with OPDIVO in combination with ipilimumab only.
 
+The incidence and severity of immune-mediated pneumonitis in patients with malignant pleural mesothelioma treated with OPDIVO 3 mg/kg every 2 weeks with ipilimumab 1 mg/kg every 6 weeks were similar to those occurring in NSCLC.
+
 ## 5.2 Immune-Mediated Colitis
 
 OPDIVO can cause immune-mediated colitis, defined as requiring use of corticosteroids with no clear alternate etiology.
@@ -357,7 +359,7 @@ OPDIVO 3 mg/kg with Ipilimumab 1 mg/kg
 Immune-mediated rash occurred in 16% (90/547) of patients with RCC and 14% (17/119) of patients with CRC who received OPDIVO 3 mg/kg with ipilimumab 1 mg/kg every 3 weeks.
 Median time to onset was 1.5 months (range: 1 day to 20.9 months) in RCC and 26 days (range: 5 days to 9.8 months) in CRC.
 
-Immune-mediated rash led to permanent discontinuation or withholding of OPDIVO with ipilimumab in 0.5% of patients with RCC or CRC (n=666) and withholding of OPDIVO with ipilimumab in 2.6% of patients.
+Immune-mediated rash led to permanent discontinuation of OPDIVO with ipilimumab in 0.5% of patients with RCC or CRC (n=666) and withholding of OPDIVO with ipilimumab in 2.6% of patients.
 All patients with immune-mediated rash required systemic corticosteroids, including 19% who received high-dose corticosteroids (at least 40 mg prednisone equivalents per day) for a median duration of 22 days (range: 1 day to 23 months).
 Complete resolution occurred in 66% of patients.
 Immune-mediated rash recurred in approximately 3% (3/98) of patients who resumed OPDIVO and ipilimumab.
@@ -365,6 +367,7 @@ Immune-mediated rash recurred in approximately 3% (3/98) of patients who resumed
 ## 5.7 Immune-Mediated Encephalitis
 
 OPDIVO can cause immune-mediated encephalitis with no clear alternate etiology.
+Fatal cases have been reported.
 Evaluation of patients with neurologic symptoms may include, but not be limited to, consultation with a neurologist, brain MRI, and lumbar puncture.
 
 Withhold OPDIVO in patients with new-onset moderate to severe neurologic signs or symptoms and evaluate to rule out infectious or other causes of moderate to severe neurologic deterioration.
@@ -423,6 +426,7 @@ Infusion-related reactions occurred in 2.5% (10/407) of patients with melanoma a
 OPDIVO 3 mg/kg with Ipilimumab 1 mg/kg
 
 Infusion-related reactions occurred in 5.1% (28/547) of patients with RCC and 4.2% (5/119) of patients with CRC who received OPDIVO 3 mg/kg with ipilimumab 1 mg/kg every 3 weeks, respectively.
+Infusion-related reactions occurred in 12% (37/300) of patients with malignant pleural mesothelioma who received OPDIVO 3 mg/kg every 2 weeks with ipilimumab 1 mg/kg every 6 weeks.
 
 ## 5.10 Complications of Allogeneic Hematopoietic Stem Cell Transplantation
 
