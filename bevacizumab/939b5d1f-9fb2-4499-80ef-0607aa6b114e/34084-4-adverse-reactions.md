@@ -459,3 +459,5 @@ Musculoskeletal and Connective Tissue Disorders: Osteonecrosis of the jaw
 Renal: Renal thrombotic microangiopathy (manifested as severe proteinuria)
 
 Respiratory: Nasal septum perforation
+
+Vascular: Arterial (including aortic) aneurysms, dissections, and rupture
