@@ -1,7 +1,7 @@
 # 1 INDICATIONS AND USAGE
 
-Tribenzor (olmesartan medoxomil, amlodipine, hydrochlorothiazide) is indicated for the treatment of hypertension, alone or with other antihypertensive agents, to lower blood pressure.
-Lowering blood pressure reduces the risk of fatal and nonfatal cardiovascular events, primarily strokes and myocardial infarctions.
+Tribenzor is indicated for the treatment of hypertension, alone or with other antihypertensive agents, to lower blood pressure.
+Lowering blood pressure reduces the risk of fatal and nonfatal cardiovascular (CV) events, primarily strokes and myocardial infarctions.
 These benefits have been seen in controlled trials of antihypertensive drugs from a wide variety of pharmacologic classes including the class to which this drug principally belongs.
 There are no controlled trials demonstrating risk reduction with Tribenzor.
 

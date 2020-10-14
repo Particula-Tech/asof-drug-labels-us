@@ -36,36 +36,9 @@ These doses in mice and rats are about 117 and 39 times, respectively, the MRHD 
 The NTP, however, found equivocal evidence for hepatocarcinogenicity in male mice.
 
 Hydrochlorothiazide was not genotoxic in vitro in the Ames mutagenicity assay of Salmonella typhimurium strains TA 98, TA 100, TA 1535, TA 1537, and TA 1538, or in the Chinese Hamster Ovary (CHO) test for chromosomal aberrations.
-It was also not genotoxic in vivo in assays using mouse germinal cell chromosomes, Chinese Hamster bone marrow chromosomes, or in Drosophilla sex-linked recessive lethal trait gene.
+It was also not genotoxic in vivo in assays using mouse germinal cell chromosomes, Chinese Hamster bone marrow chromosomes, or in Drosophila sex-linked recessive lethal trait gene.
 Positive test results were obtained in the in vitro CHO Sister Chromatid Exchange (clastogenicity) assay, the Mouse Lymphoma Cell (mutagenicity) assay and the Aspergillus nidulans nondisjunction assay.
 
 Hydrochlorothiazide had no adverse effects on the fertility of mice and rats of either sex in studies wherein these species were exposed, via their diet, to doses of up to 100 and 4 mg/kg, respectively, prior to mating and throughout gestation.
 These doses in mice and rats are about 19 and 1.5 times, respectively, the MRHD of 25 mg/day on a mg/m2 basis.
 (Calculations based on a 60 kg patient.)
-
-## 13.3 Developmental Toxicity
-
-No reproductive studies have been conducted with the combination of olmesartan medoxomil, amlodipine and hydrochlorothiazide.
-However, these studies have been conducted for olmesartan medoxomil, amlodipine and hydrochlorothiazide alone, and olmesartan medoxomil and hydrochlorothiazide together.
-
-Olmesartan medoxomil.
-No teratogenic effects were observed when olmesartan medoxomil was administered to pregnant rats at oral doses up to 1000 mg/kg/day (240 times the maximum recommended human dose [MRHD] on a mg/m2 basis) or pregnant rabbits at oral doses up to 1 mg/kg/day (half the MRHD on a mg/m2 basis; higher doses could not be evaluated for effects on fetal development as they were lethal to the does).
-In rats, significant decreases in pup birth weight and weight gain were observed at doses ≥1.6 mg/kg/day, and delays in developmental milestones (delayed separation of ear auricular, eruption of lower incisors, appearance of abdominal hair, descent of testes, and separation of eyelids) and dose-dependent increases in the incidence of dilation of the renal pelvis were observed at doses ≥8 mg/kg/day.
-The no observed effect dose for developmental toxicity in rats is 0.3 mg/kg/day, about one-tenth the MRHD of 40 mg/day.
-
-Olmesartan medoxomil and Hydrochlorothiazide.
-No teratogenic effects were observed when 1.6:1 combinations of olmesartan medoxomil and hydrochlorothiazide were administered to pregnant mice at oral doses up to 1625 mg/kg/day (122 times the MRHD on a mg/m2 basis) or pregnant rats up to 1625 mg/kg/day (243 times the MRHD on a mg/m2 basis) or pregnant rabbits at oral doses up to 1 mg/kg/day (0.3 times the MRHD on a mg/m2 basis).
-In rats, however, fetal body weights at 1625 mg/kg/day (a toxic, sometimes lethal dose in the dams) were significantly lower than control.
-The no observed effect dose for developmental toxicity in rats is 162.5 mg/kg/day, about 24 times, on a mg/m2 basis, the MRHD of 40 mg olmesartan medoxomil/25 mg hydrochlorothiazide/day.
-(Calculations based on a 60 kg patient.)
-
-Amlodipine.
-No evidence of teratogenicity or other embryo/fetal toxicity was found when pregnant rats and rabbits were treated orally with amlodipine maleate at doses of up to 10 mg amlodipine/kg/day (respectively about 10 and 20 times the maximum recommended human dose of 10 mg amlodipine on a mg/m2 basis) during their respective periods of major organogenesis (calculations based on a patient weight of 60 kg).
-However, litter size was significantly decreased (by about 50%) and the number of intrauterine deaths was significantly increased (about 5-fold) in rats receiving amlodipine maleate at a dose equivalent to 10 mg amlodipine/kg/day for 14 days before mating and throughout mating and gestation.
-Amlodipine maleate has been shown to prolong both the gestational period and the duration of labor in rats at this dose.
-There are no adequate and well-controlled studies in pregnant women.
-Amlodipine should be used during pregnancy only if the potential benefit justifies the potential risk to the fetus.
-
-Hydrochlorothiazide.
-Thiazides cross the placental barrier and appear in cord blood.
-There is a risk of fetal or neonatal jaundice, thrombocytopenia and possibly other adverse reactions that have occurred in adults.

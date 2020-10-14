@@ -46,62 +46,6 @@ Amlodipine
 
 Amlodipine has been evaluated for safety in more than 11,000 patients in U.S. and foreign clinical trials.
 
-The following adverse reactions occurred in <1% but >0.1% of patients in controlled clinical trials under conditions of open trials or marketing experience where a causal relationship is uncertain; they are listed to alert physicians to a possible relationship:
-
-Cardiovascular: arrhythmia (including ventricular tachycardia and atrial fibrillation), bradycardia, chest pain, hypotension, peripheral ischemia, syncope, tachycardia, postural dizziness, postural hypotension, vasculitis
-
-Central and Peripheral Nervous System: hypoesthesia, neuropathy peripheral, paresthesia, tremor, vertigo
-
-Gastrointestinal: anorexia, constipation, dyspepsia*, dysphagia, diarrhea, flatulence, pancreatitis, vomiting, gingival hyperplasia
-
-General: allergic reaction, asthenia*, back pain, hot flushes, malaise, pain, rigors, weight gain, weight decrease
-
-Musculoskeletal System: arthralgia, arthrosis, muscle cramps*, myalgia
-
-Psychiatric: sexual dysfunction (male* and female), insomnia, nervousness, depression, abnormal dreams, anxiety, depersonalization
-
-Respiratory: dyspnea*, epistaxis
-
-Skin and Appendages: angioedema, erythema multiforme, pruritus*, rash*, rash erythematous, rash maculopapular
-
-Special Senses: abnormal vision, conjunctivitis, diplopia, eye pain, tinnitus
-
-Urinary System: micturition frequency, micturition disorder, nocturia
-
-Autonomic Nervous System: dry mouth, sweating increased
-
-Metabolic and Nutritional: hyperglycemia, thirst
-
-Hemopoietic: leukopenia, purpura, thrombocytopenia
-
-* = events that occurred in less than 1% in placebo-controlled trials, but the incidence of these side effects was between 1% and 2% in all multiple dose studies.
-
-The following adverse reactions occurred in <0.1% of patients: cardiac failure, pulse irregularity, extrasystoles, skin discoloration, urticaria, skin dryness, alopecia, dermatitis, muscle weakness, twitching, ataxia, hypertonia, migraine, cold and clammy skin, apathy, agitation, amnesia, gastritis, increased appetite, loose stools, coughing, rhinitis, dysuria, polyuria, parosmia, taste perversion, abnormal visual accommodation, and xerophthalmia.
-
-Hydrochlorothiazide
-
-Other adverse reactions that have been reported with hydrochlorothiazide, without regard to causality, are listed below:
-
-Body as a Whole: weakness
-
-Digestive: pancreatitis, jaundice (intrahepatic cholestatic jaundice), sialadenitis, cramping, gastric irritation
-
-Hematologic: aplastic anemia, agranulocytosis, leukopenia, hemolytic anemia, thrombocytopenia
-
-Hypersensitivity: purpura, photosensitivity, urticaria, necrotizing angiitis (vasculitis and cutaneous vasculitis), fever, respiratory distress including pneumonitis and pulmonary edema, anaphylactic reactions
-
-Metabolic: hyperglycemia, glycosuria, hyperuricemia
-
-Musculoskeletal: muscle spasm
-
-Nervous System/Psychiatric: restlessness
-
-Renal: renal failure, renal dysfunction, interstitial nephritis
-
-Skin: erythema multiforme including Stevens-Johnson syndrome, exfoliative dermatitis including toxic epidermal necrolysis
-
-Special Senses: transient blurred vision, xanthopsia
-
 ## 6.2 Post-Marketing Experience
 
 The following adverse reactions have been identified during post-approval use of the individual components of Tribenzor.
@@ -146,4 +90,4 @@ Non-melanoma Skin Cancer
 
 Hydrochlorothiazide is associated with an increased risk of non-melanoma skin cancer.
 In a study conducted in the Sentinel System, increased risk was predominantly for squamous cell carcinoma (SCC) and in white patients taking large cumulative doses.
-The increased risk for SCC in the overall population was approximately 1 additional case per 16,000 patients per year, and for white patients taking a cumulative dose of ≥50,000mg the risk increase was approximately 1 additional SCC case for every 6,700 patients per year.
+The increased risk for SCC in the overall population was approximately 1 additional case per 16,000 patients per year, and for white patients taking a cumulative dose of ≥50,000 mg the risk increase was approximately 1 additional SCC case for every 6,700 patients per year.

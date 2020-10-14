@@ -140,7 +140,7 @@ At least 61% of the oral dose is eliminated unchanged within 24 hours.
 
 Specific Populations
 
-Geriatric
+Geriatric Patients
 
 Olmesartan medoxomil.
 The pharmacokinetics of olmesartan medoxomil were studied in the elderly (≥65 years).
@@ -150,7 +150,7 @@ Modest accumulation of olmesartan was observed in the elderly with repeated dosi
 Amlodipine.
 Elderly patients have decreased clearance of amlodipine with a resulting increase in AUC of approximately 40% to 60%, and a lower initial dose may be required.
 
-Gender
+Male and Female Patients
 
 Population pharmacokinetic analysis indicated that gender had no effect on the clearance of olmesartan and amlodipine.
 Female patients had approximately 20% smaller clearances of hydrochlorothiazide than male patients.
@@ -159,7 +159,7 @@ Olmesartan medoxomil.
 Minor differences were observed in the pharmacokinetics of olmesartan medoxomil in women compared to men.
 Area under the curve and Cmax were 10% to 15% higher in women than in men.
 
-Renal Insufficiency
+Patients with Renal Impairment
 
 Olmesartan medoxomil.
 In patients with renal insufficiency, serum concentrations of olmesartan were elevated compared to subjects with normal renal function.
@@ -169,7 +169,7 @@ The pharmacokinetics of olmesartan medoxomil in patients undergoing hemodialysis
 Amlodipine.
 The pharmacokinetics of amlodipine are not significantly influenced by renal impairment.
 
-Hepatic Insufficiency
+Patients with Hepatic Impairment
 
 Olmesartan medoxomil.
 Increases in AUC0-∞ and Cmax were observed in patients with moderate hepatic impairment compared to those in matched controls, with an increase in AUC of about 60%.
@@ -182,7 +182,7 @@ Heart Failure
 Amlodipine.
 Patients with heart failure have decreased clearance of amlodipine with a resulting increase in AUC of approximately 40% to 60%.
 
-Drug Interactions
+Drug Interaction Studies
 
 Simvastatin: Co-administration of multiple doses of 10 mg of amlodipine with 80 mg simvastatin resulted in a 77% increase in exposure to simvastatin compared to simvastatin alone.
 [see Drug Interactions (7.2)].
@@ -210,11 +210,11 @@ Atorvastatin: Co-administration of multiple 10 mg doses of amlodipine with 80 mg
 
 Digoxin: Co-administration of amlodipine with digoxin did not change serum digoxin levels or digoxin renal clearance in normal volunteers.
 
+No significant drug interactions were reported in studies in which olmesartan medoxomil was coadministered with digoxin in healthy volunteers.
+
 Ethanol (alcohol): Single and multiple 10 mg doses of amlodipine had no significant effect on the pharmacokinetics of ethanol.
 
 Warfarin: Co-administration of amlodipine with warfarin did not change the warfarin prothrombin response time.
 No significant drug interactions were reported in studies in which olmesartan medoxomil was coadministered with warfarin in healthy volunteers.
-
-Digoxin: No significant drug interactions were reported in studies in which olmesartan medoxomil was coadministered with digoxin in healthy volunteers.
 
 Antacids: The bioavailability of olmesartan medoxomil was not significantly altered by the co-administration of antacids [Al(OH)3/Mg(OH)2].

@@ -1,13 +1,17 @@
 # 5 WARNINGS AND PRECAUTIONS
 
-## 5.1 Fetal toxicity
+## 5.1 Fetal Toxicity
 
-Pregnancy Category D
-
+Olmesartan medoxomil.
+Tribenzor can cause fetal harm when administered to a pregnant woman.
 Use of drugs that act on the renin-angiotensin system during the second and third trimesters of pregnancy reduces fetal renal function and increases fetal and neonatal morbidity and death.
 Resulting oligohydramnios can be associated with fetal lung hypoplasia and skeletal deformations.
 Potential neonatal adverse effects include skull hypoplasia, anuria, hypotension, renal failure, and death.
 When pregnancy is detected, discontinue Tribenzor as soon as possible [see Use in specific Populations (8.1].
+
+Hydrochlorothiazide.
+Thiazides cross the placental barrier and appear in cord blood.
+Adverse reactions include fetal or neonatal jaundice and thrombocytopenia [see Use in Specific Populations (8.1)].
 
 ## 5.2 Hypotension in Volume- or Salt-Depleted Patients
 
@@ -35,7 +39,8 @@ Impaired renal function was reported in 2.1% of subjects receiving Tribenzor com
 
 If progressive renal impairment becomes evident consider withholding or discontinuing Tribenzor.
 
-Olmesartan medoxomil Changes in renal function occur in some individuals treated with olmesartan medoxomil as a consequence of inhibiting the renin-angiotensin-aldosterone system.
+Olmesartan medoxomil.
+Changes in renal function occur in some individuals treated with olmesartan medoxomil as a consequence of inhibiting the renin-angiotensin-aldosterone system.
 In patients whose renal function may depend upon the activity of the renin-angiotensin-aldosterone system (e.g., patients with severe congestive heart failure), treatment with ACE inhibitors and angiotensin receptor antagonists has been associated with oliguria or progressive azotemia and (rarely) with acute renal failure and/or death.
 Similar effects may occur in patients treated with Tribenzor due to the olmesartan medoxomil component [see Drug Interactions (7.2) and Clinical Pharmacology (12.3)].
 
@@ -53,8 +58,8 @@ Since amlodipine is extensively metabolized by the liver and the plasma eliminat
 
 ## 5.6 Electrolyte and Metabolic Imbalances
 
-Tribenzor contains hydrochlorothiazide which can cause hypokalemia, hyponatremia and hypomagnesmia.
-Hypomagnesmia can result in hypokalemia which may be difficult to treat despite potassium repletion.
+Tribenzor contains hydrochlorothiazide which can cause hypokalemia, hyponatremia and hypomagnesemia.
+Hypomagnesemia can result in hypokalemia which may be difficult to treat despite potassium repletion.
 Tribenzor also contains olmesartan, a drug that affects the RAS.
 Drugs that inhibit the RAS can also cause hyperkalemia.
 

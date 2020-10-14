@@ -1,7 +1,7 @@
 # 2 DOSAGE AND ADMINISTRATION
 
 Dose once daily.
-Dosage may be increased in 2 week intervals, as needed.
+Dosage may be increased in 2-week intervals, as needed.
 The maximum recommended dose of Tribenzor is 40/10/25 mg.
 
 Dose selection should be individualized based on previous therapy.

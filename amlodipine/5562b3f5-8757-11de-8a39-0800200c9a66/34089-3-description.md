@@ -8,10 +8,10 @@ The olmesartan medoxomil component of Tribenzor is chemically described as 2,3-d
 Its empirical formula is C29H30N6O6.
 
 The amlodipine besylate component of Tribenzor is chemically described as 3-ethyl-5-methyl (±)-2-[(2-aminoethoxy)methyl]-4-(2-chlorophenyl)-1,4-dihydro-6-methyl-3,5-pyridinedicarboxylate, monobenzenesulphonate.
-Its empirical formula is C20H25CIN2O5•C6H6O3S.
+Its empirical formula is C20H25ClN2O5•C6H6O3S.
 
 The hydrochlorothiazide component of Tribenzor is chemically described as 6-chloro-3,4-dihydro-2H-1,2,4-benzo-thiazidiazine-7-sulfonamide 1,1-dioxide.
-Its empirical formula is C7H8CIN3O4S2.
+Its empirical formula is C7H8ClN3O4S2.
 
 The structural formula for olmesartan medoxomil is:
 
