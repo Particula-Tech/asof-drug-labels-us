@@ -65,7 +65,7 @@ Adding a progestin to postmenopausal estrogen therapy has been shown to reduce t
 Breast Cancer
 
 The WHI substudy of daily CE (0.625 mg)-alone provided information about breast cancer in estrogen-alone users.
-In the WHI estrogen-alone substudy, after an average follow-up of 7.1 years, daily CE-alone was not associated with an increased risk of invasive breast cancer [relative risk (RR) 0.80] compare to placebo5 [see Clinical Studies (14.2)].
+In the WHI estrogen-alone substudy, after an average follow-up of 7.1 years, daily CE-alone was not associated with an increased risk of invasive breast cancer [relative risk (RR) 0.80] compared to placebo5 [see Clinical Studies (14.2)].
 
 After a mean follow-up of 5.6 years, the WHI substudy of daily CE (0.625 mg) plus MPA (2.5 mg) reported an increased risk of invasive breast cancer in women who took daily CE plus MPA compared to placebo.
 In this substudy, prior use of estrogen-alone or estrogen plus progestin therapy was reported by 26 percent of the women.
