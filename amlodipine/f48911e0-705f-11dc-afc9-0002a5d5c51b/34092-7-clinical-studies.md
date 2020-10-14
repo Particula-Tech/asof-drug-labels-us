@@ -1,6 +1,6 @@
 # 14 CLINICAL STUDIES
 
-## 14.1Azor
+## 14.1 Azor
 
 An 8-week multicenter, randomized, double-blind, placebo controlled, parallel group factorial study in patients with mild to severe hypertension was conducted to determine if treatment with Azor was associated with clinically significant reduction in blood pressure compared to the respective monotherapies.
 The study randomized 1940 patients equally to one of the following 12 treatment arms: placebo, monotherapy treatment with amlodipine 5 mg or 10 mg, monotherapy treatment with olmesartan medoxomil 10 mg, 20 mg, or 40 mg, or combination therapy with amlodipine/ olmesartan medoxomil at doses of 5/10 mg, 5/20 mg, 5/40 mg, 10/10 mg, 10/20 mg, and 10/40 mg.

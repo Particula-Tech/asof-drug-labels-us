@@ -41,9 +41,7 @@ These decreases in blood pressure are not accompanied by a significant change in
 With chronic once daily oral administration, antihypertensive effectiveness is maintained for at least 24 hours.
 Plasma concentrations correlate with effect in both young and elderly patients.
 The magnitude of reduction in blood pressure with amlodipine is also correlated with the height of pretreatment elevation; thus, individuals with moderate hypertension (diastolic pressure 105-114 mmHg) had about a 50% greater response than patients with mild hypertension (diastolic pressure 90-104 mmHg).
-Normotensive subjects experienced no clinically significant change in blood pressures (+1/-2 mmHg).
-
-In hypertensive patients with normal renal function, therapeutic doses of amlodipine resulted in a decrease in renal vascular resistance and an increase in glomerular filtration rate and effective renal plasma flow without change in filtration fraction or proteinuria.
+Normotensive subjects experienced no clinically significant change in blood pressures (+1/-2 mmHg).In hypertensive patients with normal renal function, therapeutic doses of amlodipine resulted in a decrease in renal vascular resistance and an increase in glomerular filtration rate and effective renal plasma flow without change in filtration fraction or proteinuria.
 
 As with other calcium channel blockers, hemodynamic measurements of cardiac function at rest and during exercise (or pacing) in patients with normal ventricular function treated with amlodipine have generally demonstrated a small increase in cardiac index without significant influence on dP/dt or on left ventricular end diastolic pressure or volume.
 In hemodynamic studies, amlodipine has not been associated with a negative inotropic effect when administered in the therapeutic dose range to intact animals and man, even when co-administered with beta-blockers to man.
@@ -105,7 +103,9 @@ Olmesartan appears to be eliminated in a biphasic manner with a terminal elimina
 Olmesartan shows linear pharmacokinetics following single oral doses of up to 320 mg and multiple oral doses of up to 80 mg.
 Steady-state levels of olmesartan are achieved within 3 to 5 days and no accumulation in plasma occurs with once-daily dosing.
 
-Geriatric
+Specific Populations
+
+Geriatric Patients
 
 The pharmacokinetic properties of Azor in the elderly are similar to those of the individual components.
 
@@ -117,7 +117,7 @@ The pharmacokinetics of olmesartan medoxomil were studied in the elderly (≥65 
 Overall, maximum plasma concentrations of olmesartan were similar in young adults and the elderly.
 Modest accumulation of olmesartan was observed in the elderly with repeated dosing; AUCѕѕ, τ was 33% higher in elderly patients, corresponding to an approximate 30% reduction in CLR.
 
-Pediatric
+Pediatric Patients
 
 Amlodipine.
 Sixty-two hypertensive patients aged 6 to 17 years received doses of amlodipine between 1.25 mg and 20 mg.
@@ -126,7 +126,7 @@ Weight-adjusted clearance and volume of distribution were similar to values in a
 Olmesartan medoxomil.
 The pharmacokinetics of olmesartan medoxomil have not been investigated in patients <18 years of age.
 
-Gender
+Male and Female Patients
 
 Population pharmacokinetic analysis indicated that female patients had approximately 15% smaller clearances of olmesartan than male patients.
 Gender had no effect on the clearance of amlodipine.

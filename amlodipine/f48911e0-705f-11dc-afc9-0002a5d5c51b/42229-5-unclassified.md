@@ -1,4 +1,4 @@
-Renal Insufficiency
+Patients with Renal Impairment
 
 Amlodipine.
 The pharmacokinetics of amlodipine are not significantly influenced by renal impairment.
@@ -10,7 +10,7 @@ After repeated dosing, the AUC was approximately tripled in patients with severe
 The pharmacokinetics of olmesartan medoxomil in patients undergoing hemodialysis has not been studied.
 No initial dosage adjustment is recommended for patients with moderate to marked renal impairment (creatinine clearance <40 mL/min).
 
-Hepatic Insufficiency
+Patients with Hepatic Impairment
 
 Amlodipine.
 Patients with hepatic insufficiency have decreased clearance of amlodipine with a resulting increase in AUC of approximately 40% to 60%.
@@ -23,7 +23,7 @@ Heart Failure
 Amlodipine.
 Patients with heart failure have decreased clearance of amlodipine with a resulting increase in AUC of approximately 40% to 60%.
 
-Drug Interactions
+Drug Interaction Studies
 
 Simvastatin: Co-administration of multiple doses of 10 mg of amlodipine with 80 mg simvastatin resulted in a 77% increase in exposure to simvastatin compared to simvastatin alone.
 [see Drug Interactions (7.1)].

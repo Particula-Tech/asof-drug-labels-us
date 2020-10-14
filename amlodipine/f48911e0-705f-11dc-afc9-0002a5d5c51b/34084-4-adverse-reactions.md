@@ -45,7 +45,7 @@ Initial Therapy
 
 Analyzing the data described above specifically for initial therapy, it was observed that higher doses of Azor caused slightly more hypotension and orthostatic symptoms, but not at the recommended starting dose of Azor 5/20 mg.
 No increase in the incidence of syncope or near syncope was observed.
-The incidences of discontinuation because of any treatment emergent adverse events in the double blind phase are summarized in the table below.
+The incidences of discontinuation because of any treatment emergent adverse events in the double-blind phase are summarized in the table below.
 
 Discontinuation for any Treatment Emergent Adverse Event1
 
@@ -59,7 +59,7 @@ Discontinuation for any Treatment Emergent Adverse Event1
 
 Amlodipine.
 
-Amlodipine has been evaluated for safety in more than 11,000 patients in and foreign clinical trials.
+Amlodipine has been evaluated for safety in more than 11,000 patients in U.S. and foreign clinical trials.
 Most adverse reactions reported during therapy with amlodipine were of mild or moderate severity.
 In controlled clinical trials directly comparing amlodipine (N=1730) in doses up to 10 mg to placebo (N=1250), discontinuation of amlodipine due to adverse reactions was required in only about 1.5% of amlodipine-treated patients and about 1% of placebo-treated patients.
 The most common side effects were headache and edema.
@@ -89,7 +89,7 @@ This experience included about 900 patients treated for at least 6 months and mo
 Treatment with olmesartan medoxomil was well tolerated, with an incidence of adverse events similar to that seen with placebo.
 Events were generally mild, transient, and without relationship to the dose of olmesartan medoxomil.
 
-The overall frequency of adverse events was not dose-related.
+The overall frequency of adverse events was not dose related.
 Analysis of gender, age, and race groups demonstrated no differences between olmesartan medoxomil- and placebo-treated patients.
 The rate of withdrawals due to adverse events in all trials of hypertensive patients was 2.4% (i.e., 79/3278) of patients treated with olmesartan medoxomil and 2.7% (i.e., 32/1179) of control patients.
 In placebo-controlled trials, the only adverse event that occurred in more than 1% of patients treated with olmesartan medoxomil and at a higher incidence in olmesartan medoxomil treated patients vs. placebo was dizziness (3% vs 1%).
@@ -122,7 +122,7 @@ Skin and Appendages: alopecia, pruritus, urticaria
 Data from one controlled trial and an epidemiologic study have suggested that high-dose olmesartan may increase cardiovascular (CV) risk in diabetic patients, but the overall data are not conclusive.
 The randomized, placebo-controlled, double-blind ROADMAP trial (Randomized Olmesartan And Diabetes MicroAlbuminuria Prevention trial, n=4447) examined the use of olmesartan, 40 mg daily, vs. placebo in patients with type 2 diabetes mellitus, normoalbuminuria, and at least one additional risk factor for CV disease.
 The trial met its primary endpoint, delayed onset of microalbuminuria, but olmesartan had no beneficial effect on decline in glomerular filtration rate (GFR).
-There was a finding of increased CV mortality (adjudicated sudden cardiac death, fatal myocardial infarction, fatal stroke, revascularization death) in the olmesartan group compared to the placebo group (15 olmesartan vs. 3 placebo, HR 4.9, 95% confidence interval [CI], 1.4, 17), but the risk of non-fatal myocardial infarction was lower with olmesartan (HR 0.64, 95% CI 0.35, 1.18).
+There was a finding of increased CV mortality (adjudicated sudden cardiac death, fatal myocardial infarction, fatal stroke, revascularization death) in the olmesartan group compared to the placebo group (15 olmesartan vs. 3 placebo, HR 4.9, 95% confidence interval [CI], 1.4, 17), but the risk of nonfatal myocardial infarction was lower with olmesartan (HR 0.64, 95% CI 0.35, 1.18).
 
 The epidemiologic study included patients 65 years and older with overall exposure of > 300,000 patient-years.
 In the sub-group of diabetic patients receiving high-dose olmesartan (40 mg/d) for > 6 months, there appeared to be an increased risk of death (HR 2.0, 95% CI 1.1, 3.8) compared to similar patients taking other angiotensin receptor blockers.

@@ -16,7 +16,7 @@ Blood pressure should be closely monitored when amlodipine is co-administered wi
 
 ## 7.2 Drug Interactions with Olmesartan Medoxomil
 
-Non-Steroidal Anti-Inflammatory Agents including Selective Cyclooxygenase-2 Inhibitors (COX-2 Inhibitors)
+Non-Steroidal Anti-Inflammatory Agents including Selective Cyclooxygenase-2 Inhibitors (COX-2 Inhibitors):
 
 In patients who are elderly, volume-depleted (including those on diuretic therapy), or with compromised renal function, co-administration of NSAIDs, including selective COX-2 inhibitors, with angiotensin II receptor antagonists, including olmesartan medoxomil, may result in deterioration of renal function, including possible acute renal failure.
 These effects are usually reversible.
@@ -24,7 +24,7 @@ Monitor renal function periodically in patients receiving olmesartan medoxomil a
 
 The antihypertensive effect of angiotensin II receptor antagonists, including olmesartan medoxomil may be attenuated by NSAIDs including selective COX-2 inhibitors.
 
-Dual Blockade of the Renin-Angiotensin System (RAS)
+Dual Blockade of the Renin-Angiotensin System (RAS):
 
 Dual blockade of the RAS with angiotensin receptor blockers, ACE inhibitors, or aliskiren is associated with increased risks of hypotension, hyperkalemia, and changes in renal function (including acute renal failure) compared to monotherapy.
 Most patients receiving the combination of two RAS inhibitors do not obtain any additional benefit compared to monotherapy.
@@ -34,13 +34,13 @@ Closely monitor blood pressure, renal function and electrolytes in patients on A
 Do not co-administer aliskiren with Azor in patients with diabetes [see Contraindications (4)].
 Avoid use of aliskiren with Azor in patients with renal impairment (GFR <60 ml/min).
 
-Use with Colesevelam Hydrochloride
+Use with Colesevelam Hydrochloride:
 
 Concurrent administration of bile acid sequestering agent colesevelam hydrochloride reduces the systemic exposure and peak plasma concentration of olmesartan.
 Administration of olmesartan at least 4 hours prior to colesevelam hydrochloride decreased the drug interaction effect.
 Consider administering olmesartan at least 4 hours before the colesevelam hydrochloride dose [see Clinical Pharmacology (12.3)].
 
-Lithium
+Lithium:
 
 Increases in serum lithium concentrations and lithium toxicity have been reported during concomitant administration of lithium with angiotensin II receptor antagonists, including AZOR.
 Monitor serum lithium levels during concomitant use.
