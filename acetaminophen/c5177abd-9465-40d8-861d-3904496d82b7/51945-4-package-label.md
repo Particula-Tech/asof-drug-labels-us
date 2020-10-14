@@ -4,13 +4,13 @@ OFIRMEV® (acetaminophen) injection 1000 mg/100 mL (10 mg/mL)
 
 For Intravenous Use Only
 
-Single Use Vial.
+Rx only
+
+Single-Dose Vial.
 Doses less than 1000 mg require aseptic transfer to a separate container prior to dispensing.
 Discard unused portion.
 
-Rx only
-
-Rev 03/2019
+Rev 06/2020
 
 Mallinckrodt™ Pharmaceuticals
 
@@ -26,7 +26,7 @@ For Intravenous Use Only
 
 Rx only
 
-Single Use Container.
+Single-Dose Container.
 Discard unused portion.
 Doses less than 1000 mg require aseptic transfer to a separate container prior to dispensing.
 See Package Insert for recommended dosage and Full Prescribing Information.
@@ -40,12 +40,14 @@ After removing the overwrap, check for minute leaks by squeezing container firml
 If leaks are found, discard solution as sterility may be impaired.
 Each 100 mL contains 1000 mg acetaminophen, USP, 3850 mg mannitol, USP, 25 mg cysteine hydrochloride, monohydrate, USP, 10.4 mg dibasic sodium phosphate, USP. pH may have been adjusted with hydrochloric acid and/or sodium hydroxide.
 
-Manufactured for: Mallinckrodt Hospital Products Inc. Hazelwood, MO 63042 USA Patented: US 6,028,222; US 6,992,218
+Manufactured for: Mallinckrodt Hospital Products Inc. Hazelwood, MO 63042 USA © 2020 Mallinckrodt.
 
-Rev 08/2016
+Rev 06/2020
 
-FUM 0021 01-79-01-001A
+FUM 0021 01-79-01-001B
 
 90 C/PP
 
-Mallinckrodt™
+Mallinckrodt™ Pharmaceuticals
+
+EXP MM-YYYY LOT 0000000
