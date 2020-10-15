@@ -9,7 +9,7 @@ Patients were maintained on inhaled corticosteroid treatment.
 Serial FEV1 measurements, shown below in Figure 1 as average of the mean changes from test-day baseline at Day 1 and Day 85, demonstrated that two inhalations of PROAIR RESPICLICK produced significantly greater improvement in FEV1 AUC0‑6hr over the pre-treatment value than placebo in Study 1.
 Consistent results were observed in Study 2.
 
-- Figure 1: FEV1 as Mean Change from Test-Day, Pre-Dose Baseline in a 12-Week Clinical Trial (Study 1)
+Figure 1: FEV1 as Mean Change from Test-Day, Pre-Dose Baseline in a 12-Week Clinical Trial (Study 1)
 
 In Study 1, 44 of 78 patients treated with PROAIR RESPICLICK achieved a 15% increase in FEV1 within 30 minutes post‑dose on Day 1.
 The median time to onset was 5.7 minutes, and median duration of effect as measured by a 15% increase was approximately 2 hours.

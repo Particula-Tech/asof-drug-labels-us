@@ -13,7 +13,7 @@ If the patient needs more doses of PROAIR RESPICLICK, this may be a marker of de
 ## 5.3 Use of Anti-Inflammatory Agents
 
 The use of beta-adrenergic-agonist bronchodilators alone may not be adequate to control asthma in many patients.
-Early consideration should be given to adding anti-inflammatory agents, eg, corticosteroids, to the therapeutic regimen.
+Early consideration should be given to adding anti-inflammatory agents, e.g., corticosteroids, to the therapeutic regimen.
 
 ## 5.4 Cardiovascular Effects
 
@@ -28,7 +28,7 @@ Therefore, PROAIR RESPICLICK, like all sympathomimetic amines, should be used wi
 Fatalities have been reported in association with excessive use of inhaled sympathomimetic drugs in patients with asthma.
 The exact cause of death is unknown, but cardiac arrest following an unexpected development of a severe acute asthmatic crisis and subsequent hypoxia is suspected.
 
-## 5.6 Immediate Hypersensitivity Reactions
+## 5.6 Hypersensitivity Reactions including Anaphylaxis
 
 Immediate hypersensitivity reactions may occur after administration of albuterol sulfate, as demonstrated by rare cases of urticaria, angioedema, rash, bronchospasm, anaphylaxis, and oropharyngeal edema.
 PROAIR RESPICLICK contains small amounts of lactose, which may contain trace levels of milk proteins.
