@@ -10,5 +10,9 @@ Manufactured by: Bausch & Lomb Incorporated Tampa, FL 33637 USA
 
 © 2020 Bausch & Lomb Incorporated or its affiliates
 
-Update P/N Rev.
-07/2020
+9118305 (FOLDED)
+
+9118205 (FLAT)
+
+Rev.
+09/2020
