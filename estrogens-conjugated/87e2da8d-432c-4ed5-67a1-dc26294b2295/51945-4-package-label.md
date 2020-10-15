@@ -14,10 +14,10 @@ Premarin® Intravenous (conjugated estrogens, USP) for injection Prepared by cry
 
 To be reconstituted with Sterile Water for Injection, USP.
 See package circular for reconstitution instructions and complete directions for use.
-Distributed by Wyeth Pharmaceuticals Inc A subsidiary of Pfizer Inc
+Distributed by Wyeth Pharmaceuticals LLC A subsidiary of Pfizer Inc
 
-14513800 cod.
-229845
+14513801 cod.
+224591
 
 # PRINCIPAL DISPLAY PANEL - 25 mg Vial Carton
 
