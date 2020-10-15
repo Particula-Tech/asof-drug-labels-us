@@ -81,10 +81,13 @@ Advise patients how to recognize such a reaction and when to seek medical attent
 
 Pregnancy
 
-- Neonatal Opioid Withdrawal Syndrome
-  - Inform female patients of reproductive potential that prolonged use of OXAYDO during pregnancy can result in neonatal opioid withdrawal syndrome, which may be life-threatening if not recognized and treated [see Warnings and Precautions (5.4), Use in Specific Populations (8.1)].
-- Embryo-Fetal Toxicity
-  - Inform female patients of reproductive potential that OXAYDO can cause fetal harm and to inform the healthcare provider of a known or suspected pregnancy [see Use in Specific Populations (8.1)].
+Neonatal Opioid Withdrawal Syndrome
+
+Inform female patients of reproductive potential that prolonged use of OXAYDO during pregnancy can result in neonatal opioid withdrawal syndrome, which may be life-threatening if not recognized and treated [see Warnings and Precautions (5.4), Use in Specific Populations (8.1)].
+
+Embryo-Fetal Toxicity
+
+Inform female patients of reproductive potential that OXAYDO can cause fetal harm and to inform the healthcare provider of a known or suspected pregnancy [see Use in Specific Populations (8.1)].
 
 Lactation
 
@@ -109,7 +112,7 @@ Distributed by:
 
 Zyla Life Sciences US Inc. Wayne, PA 19087
 
-© 2019 Zyla Life Sciences.
+© 2020 Zyla Life Sciences.
 All rights reserved.
 
-LBL #: 201.05 10/2019
+LBL #: 201.06 10/2020

@@ -13,3 +13,5 @@ Dispense in tight container as defined in the USP, with a child-resistant closur
 Store at 25°C (77°F); with excursions permitted to 15°-30°C (59°-86°F) [See USP Controlled Room Temperature].
 
 Protect from moisture.
+
+Store OXAYDO securely and dispose of properly [see Patient Counseling Information (17)].

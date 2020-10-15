@@ -48,6 +48,10 @@ Overestimating the OXAYDO dosage when converting patients from another opioid pr
 
 Accidental ingestion of even one dose of OXAYDO, especially by children, can result in respiratory depression and death due to an overdose of oxycodone.
 
+Opioids can cause sleep-related breathing disorders including central sleep apnea (CSA) and sleep-related hypoxemia.
+Opioid use increases the risk of CSA in a dose-dependent fashion.
+In patients who present with CSA, consider decreasing the opioid dosage using best practices for opioid taper [see Dosage and Administration (2.4)].
+
 ## 5.4 Neonatal Opioid Withdrawal Syndrome
 
 Prolonged use of OXAYDO during pregnancy can result in withdrawal in the neonate.

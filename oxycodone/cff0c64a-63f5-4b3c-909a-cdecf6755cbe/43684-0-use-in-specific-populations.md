@@ -22,6 +22,7 @@ Clinical Considerations
 - Neonatal opioid withdrawal syndrome presents as irritability, hyperactivity and abnormal sleep pattern, high pitched cry, tremor, vomiting, diarrhea, and failure to gain weight.
   The onset, duration, and severity of neonatal opioid withdrawal syndrome vary based on the specific opioid used, duration of use, timing and amount of last maternal use, and rate of elimination of the drug by the newborn.
   Observe newborns for symptoms of neonatal opioid withdrawal syndrome and manage accordingly [see Warnings and Precautions (5.4)].
+
 - Labor or Delivery
 - Opioids cross the placenta and may produce respiratory depression and psycho-physiologic effects in neonates.
   An opioid antagonist, such as naloxone, must be available for reversal of opioid-induced respiratory depression in the neonate.
