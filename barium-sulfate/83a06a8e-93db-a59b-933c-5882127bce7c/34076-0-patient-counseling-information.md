@@ -11,3 +11,7 @@ Rx only
 Manufactured by EZEM Canada Inc Anjou (Quebec) Canada H1J 2Z4
 
 For Bracco Diagnostics Inc. Monroe Township, NJ 08831
+
+CL10F501
+
+rev.06/20
