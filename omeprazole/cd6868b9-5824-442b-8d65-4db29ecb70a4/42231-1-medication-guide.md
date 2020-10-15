@@ -19,7 +19,8 @@ ZEGERID can cause serious side effects, including:
 - •ZEGERID contains sodium bicarbonate.
   Long-term use of bicarbonate with calcium or milk can cause a condition called “milk-alkali syndrome”.
   Long-term use of sodium bicarbonate can cause a condition called “systemic alkalosis”.
-  Talk to your doctor about any questions you may have.Too much sodium can cause swelling and weight gain.
+  Talk to your doctor about any questions you may have.
+  Too much sodium can cause swelling and weight gain.
   Tell your doctor if you are on a low-sodium diet or if you have Bartter’s Syndrome (a rare kidney disorder).
   Tell your doctor right away if you have confusion, shaking hands, dizziness, muscle twitching, nausea, vomiting, and numbness or tingling in the face, arms, or legs.
 - •Diarrhea caused by an infection (Clostridium difficile) in your intestines.
@@ -181,7 +182,8 @@ For more information, go to www.Salix.com or 1-800-321-4576.
 
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
 
-- 9673201 Revised: September 2019
+- 9673201
+- Revised: September 2019
 
 INSTRUCTIONS FOR USE
 
@@ -235,4 +237,6 @@ Any other product/brand names are trademarks of the respective owners.
 
 © 2020 Salix Pharmaceuticals, Inc. or its affiliates
 
-9673201 Revised: 09/2019
+9673201
+
+Revised: 09/2019
