@@ -7,7 +7,7 @@ Risk Summary
 SIKLOS can cause fetal harm based on findings from animal studies and the drug's mechanism of action [see Clinical Pharmacology (12.1)].
 There are no studies with the use of SIKLOS in pregnant women, and limited available data on SIKLOS use during pregnancy are insufficient to inform drug-associated risks.
 Drugs which affect DNA synthesis, such as hydroxyurea, may be potential mutagenic agents.
-In animal reproduction studies, administration of hydroxyurea to pregnant rats and rabbits during organogenesis produced embryotoxic and teratogenic effects at doses 0.8 times and 0.3 times, respectively, the maximum recommended human daily dose on a mg/m² basis.
+In animal reproduction studies, administration of hydroxyurea to pregnant rats and rabbits during organogenesis produced embryotoxic and teratogenic effects at doses 0.8 times and 0.3 times, respectively, the maximum recommended human daily dose on a mg/m2 basis.
 In rats and rabbits, fetal malformations were observed with partially ossified cranial bones, absence of eye sockets, hydrocephaly, bipartite sternebrae, and missing lumbar vertebrae.
 Embryotoxicity was characterized by decreased fetal viability, reduced live litter sizes, and developmental delays (see Data).
 Advise pregnant women of the potential risk to a fetus (see Clinical Considerations).
@@ -99,4 +99,4 @@ Reduce dosage and closely monitor the hematologic parameters when SIKLOS is to b
 
 ## 8.7 Hepatic impairment
 
-Close monitoring of hematologic parameters is advised in patients with hepatic impairment receiving SIKLOS.
+Monitor hematologic parameters more frequently in patients with hepatic impairment receiving SIKLOS.

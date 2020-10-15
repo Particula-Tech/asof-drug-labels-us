@@ -13,4 +13,4 @@ Advise the patient or caregiver to read the FDA-approved patient labeling (Instr
 - Advise females to discontinue breastfeeding during treatment with SIKLOS [see Use in Specific Populations (8.2)].
 - Advise male patients of potential risk to fertility.
 - Advise patients with HIV infection to contact their physician for signs and symptoms of pancreatitis, hepatic events, and peripheral neuropathy [see Warnings and Precautions (5.5)].
-- Because SIKLOS 1,000 mg tablets are scored, advise patients on how to take SIKLOS properly.
+- Because SIKLOS tablets are scored, advise patients on how to take SIKLOS properly.

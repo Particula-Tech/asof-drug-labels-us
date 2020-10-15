@@ -7,11 +7,12 @@ Each bottle containing SIKLOS 100 mg tablets or SIKLOS 1000 mg tablets is suppli
 
 SIKLOS is supplied in the following strengths:
 
-- 100 mg off-white round, film-coated tablet, embossed with 100 on one side. - 1,000 mg off-white, capsule-shaped, film-coated, functionally triple-scored tablet with scoring on both sides which can be divided into four equal parts embossed with "T" on one side.
+- - 100 mg off-white, capsule-shaped, film-coated, functionally scored tablet with scoring on both sides which can be divided into two equal parts, each part is debossed with "H" on one side.
+- - 1,000 mg off-white, capsule-shaped, film-coated, functionally triple-scored tablet with scoring on both sides which can be divided into four equal parts, each part is debossed with "T" on one side.
 
 |  | Bottles of 30 | Bottles of 60 |
 | --- | --- | --- |
-| 100 mg | N/A | NDC 71770-100-60 |
+| 100 mg | N/A | NDC 71770-105-60 |
 | 1,000 mg | NDC 71770-120-30 | N/A |
 
 ## 16.2 Storage
@@ -19,7 +20,7 @@ SIKLOS is supplied in the following strengths:
 Store at 20°C to 25°C (68°F to 77°F); excursions permitted between 15°C and 30°C (59°F and 86°F) [see USP Controlled Room Temperature].
 Keep tightly closed.
 
-Broken 1,000 mg tablets must be stored in the bottle and must be used within three months.
+Broken tablets must be stored in the bottle and must be used within three months.
 
 ## 16.3 Handling and Disposal
 

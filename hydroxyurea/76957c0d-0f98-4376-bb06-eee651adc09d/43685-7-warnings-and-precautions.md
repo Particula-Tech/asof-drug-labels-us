@@ -10,7 +10,7 @@ Thrombocytopenia and anemia occur less often, and are seldom seen without a prec
 Some patients, treated at the recommended initial dose of 20 mg/kg/day, have experienced severe or life-threatening myelosuppression.
 Due to the change in body weight requiring modification of daily dose, pediatric patients have an increased risk of myelosuppression at the time of dose adjustment.
 
-Evaluate hematologic status prior to and during treatment with SIKLOS.
+Evaluate hematologic status prior to and every two weeks during treatment with SIKLOS.
 Provide supportive care and modify dose or discontinue SIKLOS as needed.
 Recovery from myelosuppression is usually observed within 15 days when therapy is interrupted.
 Resume therapy after interruption at a lower dose [see Dosage and Administration (2.1)].

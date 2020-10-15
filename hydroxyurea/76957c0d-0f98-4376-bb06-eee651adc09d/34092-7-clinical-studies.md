@@ -15,22 +15,22 @@ Table 3: Comparison of SCD Events in the First Year of Treatment with SIKLOS wit
 | --- | --- | --- | --- |
 | SCD events | Patients under 18 years old previously not treated with hydroxyurea with at least 12 months follow-up data available for clinical efficacy (N=141) |  |  |
 | Number of patients with at least one vaso-occlusive episode (in 120 evaluable patients) |  |  |  |
-| No | 37 (30.8%) | 69 (57.5%) |  |
-| Yes | 83 (69.2%) | 51 (42.5%) |  |
+| No | 37 (31%) | 69 (57.5%) |  |
+| Yes | 83 (69%) | 51 (42.5%) |  |
 | Number of vasoocclusive episodes over 12 months (in 113 evaluable patients) |  |  |  |
-| Median (range) | 2.0 (0.0, 10.0) | 0.0 (0.0, 7.0) | -1.0 (-10.0, 5.0) |
+| Median (range) | 2 (0, 1) | 0 (0.0, 7.0) | -1 (-10.0, 5.0) |
 | Number of patients with at least one episode of acute chest syndrome (in 123 evaluable patients) |  |  |  |
-| No | 94 (76.4%) | 116 (94.3%) |  |
-| Yes | 29 (23.6%) | 7 (5.7%) |  |
+| No | 94 (76%) | 116 (94%) |  |
+| Yes | 29 (24%) | 7 (6%) |  |
 | Number of episodes of acute chest syndrome over 12 months (in 123 evaluable patients) |  |  |  |
-| Median (range) | 0.0 (0.0, 2.0) | 0.0 (0.0, 1.0) | 0.0 (-2.0, 1.0) |
+| Median (range) | 0 (0.0, 2.0) | 0 (0.0, 1.0) | 0 (-2.0, 1.0) |
 | Number of patients with at least one hospitalization related to SCD (in 110 evaluable patients) |  |  |  |
-| No | 27 (24.5%) | 64 (58.2%) |  |
-| Yes | 83 (75.5%) | 46 (41.8%) |  |
+| No | 27 (25%) | 64 (58%) |  |
+| Yes | 83 (75%) | 46 (42%) |  |
 | Number of hospitalizations related to SCD over 12 months (in 106 evaluable patients) |  |  |  |
-| Median (range) | 2.0 (0.0, 6.0) | 0.0 (0.0, 7.0) | -1.0 (-6.0, 6.0) |
+| Median (range) | 2 (0.0, 6.0) | 0 (0.0, 7.0) | -1 (-6.0, 6.0) |
 | Number of days of hospitalizations related to SCD over 12 months (in 100 evaluable patients) |  |  |  |
-| Median (range) | 8.0 (0.0, 58.0) | 0.0 (0.0, 100.0) | -3.0 (-58.0, 86.0) |
+| Median (range) | 8 (0.0, 58.0) | 0 (0.0, 100.0) | -3 (-58.0, 86.0) |
 | Number of patients with at least one blood transfusion (in 122 evaluable patients) |  |  |  |
-| No | 66 (54.1%) | 94 (77.0%) |  |
-| Yes | 56 (45.9%) | 28 (23.0%) |  |
+| No | 66 (54%) | 94 (77%) |  |
+| Yes | 56 (46%) | 28 (23%) |  |

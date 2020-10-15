@@ -14,11 +14,10 @@ Table 1: Dosing Recommendation Based on Blood Count
 | Dosing After Hematologic Recovery | Reduce dose by 5 mg/kg/day. | Reduce the dose from the dose associated with hematologic toxicity. May titrate up or down every 8 weeks in 5 mg/kg/day increments. The patient should be at a stable dose with no hematologic toxicity for 24 weeks. Discontinue the treatment permanently if a patient develops hematologic toxicity twice. |  |
 
 Siklos is available in 100 mg and 1,000 mg tablets.
+The 100 mg tablets have 1 score line and can be split into 2 parts (each 50 mg).
 The 1,000 mg tablets have 3 score lines and can be split into 4 parts (each 250 mg).
-Therefore, the two strengths can be used to deliver doses of 1,000 mg, 750 mg, 500 mg, 250 mg, 100 mg, and combinations thereof.
+Therefore, the two strengths can be used to deliver doses of 1,000 mg, 750 mg, 500 mg, 250 mg, 100 mg, 50 mg and combinations thereof.
 Calculate the rounded doses to the nearest 50 mg or 100 mg strength based on clinical judgment.
-
-Do not split the SIKLOS 100 mg tablets into smaller parts.
 
 Patients must be able to follow directions regarding drug administration and their monitoring and care.
 
@@ -28,7 +27,7 @@ Monitor for an increase in HbF of at least two-fold over the baseline value.
 
 Administration:
 
-The tablet should be taken once daily, with a glass of water.
+The tablets should be taken once daily, at the same time each day, with a glass of water.
 For patients who are not able to swallow the tablets, these can be dispersed immediately before use in a small quantity of water in a teaspoon.
 
 SIKLOS is a cytotoxic drug.
