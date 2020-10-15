@@ -2,9 +2,9 @@
 
 The active ingredient of ProAir Digihaler inhalation powder is albuterol sulfate, a racemic salt of albuterol.
 Albuterol sulfate is a beta2-adrenergic agonist.
-It has the chemical name a1-[(tert-butylamino) methyl]-4-hydroxy-m-xylene-a,a'-diol sulfate (2:1) (salt), and the following chemical structure:
+It has the chemical name α1-[(tert-butylamino) methyl]-4-hydroxy-m-xylene-α,α'-diol sulfate (2:1) (salt), and the following chemical structure:
 
-The molecular weight of albuterol sulfate is 576.7, and the empirical formula is (C13H21NO3)2·H2SO4.
+The molecular weight of albuterol sulfate is 576.7, and the empirical formula is (C13H21NO3)2•H2SO4.
 Albuterol sulfate is a white to off-white crystalline powder.
 It is soluble in water and slightly soluble in ethanol.
 Albuterol sulfate is the official U.S. Adopted Name in the United States, and salbutamol sulfate is the recommended World Health Organization international nonproprietary name.

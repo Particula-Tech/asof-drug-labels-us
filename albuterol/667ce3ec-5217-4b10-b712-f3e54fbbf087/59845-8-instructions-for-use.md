@@ -1,6 +1,6 @@
 # Instructions for Use
 
-ProAir Digihaler (prō´ār di´ji haye´´ler)
+ProAir® Digihaler® (prō´ār di´ji haye´´ler)
 
 (albuterol sulfate)
 
@@ -31,7 +31,8 @@ There are 3 main parts of your ProAir Digihaler inhaler including:
   Do not open the cap unless you are ready for your next dose.
 - You will hear a “click” sound when the cap is opened fully.
   If you do not hear the “click” sound the inhaler may not be activated to give you a dose of medicine.
-- ProAir Digihaler does not have an activation button or medicine canister.When you open the cap, a dose of ProAir Digihaler will be activated for delivery of the medicine.
+- ProAir Digihaler does not have an activation button or medicine canister.
+  When you open the cap, a dose of ProAir Digihaler will be activated for delivery of the medicine.
 - ProAir Digihaler does not need to be wirelessly connected to the mobile application (App) in order for it to work and for you to take your medicine.
 - In general, the technique for administering ProAir Digihaler to children is similar to that for adults.
   Children should use ProAir Digihaler under adult supervision, as instructed by the patient’s physician.
@@ -39,7 +40,6 @@ There are 3 main parts of your ProAir Digihaler inhaler including:
   ProAir Digihaler does not need priming.Using your ProAir Digihaler inhaler:Important: Make sure the red cap is closed before you start using your inhaler.
   Step 1.
   Open
-- Breathe in quickly and deeply through your mouth, to deliver the dose of medicine to your lungs.
 
 - Hold the inhaler upright and open the red cap fully until you feel and hear a “click”.
   See Figure C.
@@ -59,11 +59,12 @@ There are 3 main parts of your ProAir Digihaler inhaler including:
   - Do not block the vent above the mouthpiece with your lips or fingers.
     See Figure G. Figure G
 
-- Breath in quickly and deeply through your mouth, to deliver the dose of medicine to your lungs.
+- Breathe in quickly and deeply through your mouth, to deliver the dose of medicine to your lungs.
 - Remove the inhaler from your mouth.
 - Hold your breath for about 10 seconds or for as long as you comfortably can.
 - Your ProAir Digihaler Inhaler delivers your dose of medicine as a very fine powder that you may or may not taste or feel.
-  Do not take an extra dose from the inhaler even if you do not taste or feel the medicine.Step 3.CloseFigure H
+  Do not take an extra dose from the inhaler even if you do not taste or feel the medicine.Step 3.
+  CloseFigure H
 
 - Close the red cap firmly over the mouthpiece.
   See Figure H.
@@ -83,22 +84,25 @@ Storing your ProAir Digihaler inhaler
 Cleaning your ProAir Digihaler inhaler
 
 - Do not wash or put any part of your ProAir Digihaler inhaler in water.
+  Replace your inhaler if washed or placed in water.
 - ProAir Digihaler contains a powder and must be kept clean and dry at all times.
 - If the mouthpiece needs cleaning, gently wipe it with a dry cloth or tissue.
 
 Replacing your ProAir Digihaler inhaler
 
-- The counter on the back of your inhaler shows how many doses you have left.
+- The dose counter on the back of your inhaler shows how many doses you have left.
+  Do not try to change the numbers for the dose counter.
 - When there are 20 doses left, the dose counter color will change to red and you should refill your prescription or ask your doctor for another prescription.
-- When the counter displays ‘0’ your ProAir Digihaler inhaler is empty and you should stop using the inhaler and throw it away.
+- When the dose counter displays ‘0’ your ProAir Digihaler inhaler is empty and you should stop using the inhaler and throw it away.
 - Throw away your ProAir Digihaler inhaler 13 months after removing it from the foil pouch for the first time, when the dose counter displays ‘0’, or after the expiration date on the package, whichever comes first.
 - ProAir Digihaler contains a lithium – manganese dioxide battery and should be thrown away (disposed of) in accordance with state and local regulations.
 
-Important Information
+Important information
 
 - Do not open the red cap unless you are taking a dose.
   Repeatedly opening and closing the cap without inhaling a dose will waste the medicine and may damage your inhaler.
 - Your ProAir Digihaler inhaler contains dry powder so it is important that you do not blow or breathe into it.
+- Do not take the inhaler apart.
 
 Support
 
@@ -106,7 +110,11 @@ Support
 - If you have any questions about ProAir Digihaler, how to use your inhaler, go to www.ProAirDigihaler.com or call 1-888-603-0788.
 
 This device complies with part 15 of the FCC Rules.
-Operation is subject to the following two conditions: (1) This device may not cause harmful interference, and (2) this device must accept any interference received, including interference that may cause undesired operation.
+Operation is subject to the following two conditions:
+
+(1) This device may not cause harmful interference, and
+
+(2) This device must accept any interference received, including interference that may cause undesired operation.
 Changes or modifications not expressly approved by Teva could void the user’s authority to operate the equipment.
 
 This Instructions for Use has been approved by the U.S. Food and Drug Administration.
@@ -121,9 +129,9 @@ Teva Pharmaceuticals USA, Inc.
 
 Parsippany, NJ 07054
 
-ã2020 Teva Respiratory, LLC.
+©2020 Teva Respiratory, LLC.
 All rights reserved.
 
 PRODHIFU-002
 
-Revised March 2020
+Revised September 2020

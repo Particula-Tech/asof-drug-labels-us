@@ -50,15 +50,17 @@ The developmental and health benefits of breastfeeding should be considered alon
 
 ## 8.4 Pediatric Use
 
-The safety and effectiveness of ProAir Digihaler for the treatment or prevention of bronchospasm in children 12 to 17 years of age and older with reversible obstructive airway disease is based on two 12-week clinical trials in 318 patients 12 years of age and older with asthma comparing doses of 180 mcg four times daily with placebo, one long-term safety study in children 12 years of age and older, and one single-dose crossover study comparing doses of 90 and 180 mcg with albuterol sulfate inhalation aerosol (ProAir® HFA) in 71 patients [see Clinical Studies (14.1)].
+The safety and effectiveness of ProAir Digihaler for the treatment or prevention of bronchospasm with reversible obstructive airway disease have been established in pediatric patients 12 to 17 years of age.
+Use of ProAir Digihaler for this indication is supported by evidence from two 12-week clinical trials in 318 patients 12 years of age and older with asthma comparing doses of 180 mcg four times daily with placebo, one long-term safety study in children 12 years of age and older, and one single-dose crossover study comparing doses of 90 and 180 mcg with albuterol sulfate inhalation aerosol (ProAir® HFA) in 71 patients [see Clinical Studies (14.1)].
 
-The safety and effectiveness of ProAir Digihaler for treatment of exercise-induced bronchospasm in children 12 years of age and older is based on one single-dose crossover study in 38 patients age 16 and older with exercise-induced bronchospasm comparing doses of 180 mcg with placebo [see Clinical Studies (14.2)].
+The safety and effectiveness of ProAir Digihaler for treatment of exercise-induced bronchospasm have been established in children 12 years of age and older.
+Use of ProAir Digihaler for this indication is supported from one single-dose crossover study in 38 patients age 16 and older with exercise-induced bronchospasm comparing doses of 180 mcg with placebo [see Clinical Studies (14.2)].
 The safety profile for patients ages 12 to 17 was consistent with the overall safety profile seen in these studies.
 
 The safety of ProAir Digihaler in children 4 to 11 years of age is based on two single-dose, controlled, crossover studies: one with 61 patients comparing doses of 90 and 180 mcg with matched placebo and albuterol HFA MDI and one with 15 patients comparing a dose of 180 mcg with matched albuterol HFA MDI; and one 3‑week clinical trial in 185 patients 4 to 11 years of age with asthma comparing a dose of 180 mcg four times daily with matched albuterol HFA MDI.
 The effectiveness of albuterol sulfate MDPI in children 4 to 11 years with exercise-induced bronchospasm is extrapolated from clinical trials in patients 12 years of age and older with asthma and exercise-induced bronchospasm, based on data from a single-dose study comparing the bronchodilatory effect of albuterol sulfate MDPI 90 mcg and 180 mcg with placebo in 61 patients with asthma, and data from a 3‑week clinical trial in 185 asthmatic children 4 to 11 years of age comparing a dose of 180 mcg albuterol 4 times daily with placebo [see Clinical Studies (14.1)].
 
-The safety and effectiveness of ProAir Digihaler in pediatric patients below the age of 4 years has not been established.
+The safety and effectiveness of ProAir Digihaler in pediatric patients below the age of 4 years have not been established.
 
 ## 8.5 Geriatric Use
 

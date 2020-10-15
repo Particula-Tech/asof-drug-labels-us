@@ -28,10 +28,10 @@ Therefore, ProAir Digihaler, like all sympathomimetic amines, should be used wit
 Fatalities have been reported in association with excessive use of inhaled sympathomimetic drugs in patients with asthma.
 The exact cause of death is unknown, but cardiac arrest following an unexpected development of a severe acute asthmatic crisis and subsequent hypoxia is suspected.
 
-## 5.6 Immediate Hypersensitivity Reactions
+## 5.6 Hypersensitivity Reactions including Anaphylaxis
 
 Immediate hypersensitivity reactions may occur after administration of albuterol sulfate, as demonstrated by rare cases of urticaria, angioedema, rash, bronchospasm, anaphylaxis, and oropharyngeal edema.
-ProAir Digihalercontains small amounts of lactose, which may contain trace levels of milk proteins.
+ProAir Digihaler contains small amounts of lactose, which may contain trace levels of milk proteins.
 Hypersensitivity reactions including anaphylaxis, angioedema, pruritus, and rash have been reported with the use of therapies containing lactose (lactose is an inactive ingredient in ProAir Digihaler).
 The potential for hypersensitivity must be considered in the clinical evaluation of patients who experience immediate hypersensitivity reactions while receiving ProAir Digihaler.
 

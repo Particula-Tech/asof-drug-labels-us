@@ -59,18 +59,15 @@ Following intravenous administration of racemic albuterol, between 25% and 46% o
 
 Specific Populations
 
-Age: No pharmacokinetic studies for ProAir Digihaler have been conducted in neonates or elderly subjects.
+No pharmacokinetic studies for ProAir Digihaler have been conducted in neonates or elderly subjects.
 The systemic exposure in children 6 to 11 years of age is similar to that of adults following 180 mcg single dose inhalation of albuterol sulfate MDPI.
+The influence of gender or race on the pharmacokinetics of ProAir Digihaler has not been studied.
 
-Sex: The influence of sex on the pharmacokinetics of ProAir Digihaler has not been studied.
-
-Race: The influence of race on the pharmacokinetics of ProAir Digihaler has not been studied.
-
-Renal Impairment: The effect of renal impairment on the pharmacokinetics of albuterol was evaluated in 5 subjects with creatinine clearance of 7 to 53 mL/min, and the results were compared with those from healthy volunteers.
+Patients with Renal Impairment: The effect of renal impairment on the pharmacokinetics of albuterol was evaluated in 5 subjects with creatinine clearance of 7 to 53 mL/min, and the results were compared with those from healthy volunteers.
 Renal disease had no effect on the half-life, but there was a 67% decline in albuterol clearance.
 Caution should be used when administering high doses of ProAir Digihaler to patients with renal impairment [see Use in Specific Populations (8.5)].
 
-Hepatic Impairment: The effect of hepatic impairment on the pharmacokinetics of ProAir Digihaler has not been evaluated.
+Patients with Hepatic Impairment: The effect of hepatic impairment on the pharmacokinetics of ProAir Digihaler has not been evaluated.
 
 Drug Interaction Studies: In vitro and in vivo drug interaction studies have not been conducted with ProAir Digihaler.
 Known clinically significant drug interactions are outlined in Drug Interactions (7).
