@@ -2,9 +2,20 @@
 
 Vasostrict® (vasopressin injection, USP) is a clear, practically colorless solution for intravenous administration available as:
 
-NDC 42023-164-25: A carton of 25 single dose vials each containing vasopressin 1 mL at 20 units/mL.
+NDC 42023-164-10: A carton of 10 single dose vials.
+Each vial contains vasopressin 1 mL at 20 units/mL.
 
-NDC 42023-190-01: A carton of 1 multiple dose vial containing vasopressin 10 mL at 200 units/10 mL (20 units/mL).
+NDC 42023-164-25: A carton of 25 single dose vials.
+Each vial contains vasopressin 1 mL at 20 units/mL.
+
+NDC 42023-190-01: A carton of 1 multiple dose vial.
+Each vial contains vasopressin 10 mL at 200 units/10 mL (20 units/mL).
+
+NDC 42023-219-10: A carton of 10 single dose vials.
+Each vial contains vasopressin 100 mL at 40 units/100 mL (0.4 units/mL).
+
+NDC 42023-220-10: A carton of 10 single dose vials.
+Each vial contains vasopressin 100 mL at 60 units/100 mL (0.6 units/mL).
 
 Store between 2°C and 8°C (36°F and 46°F).
 Do not freeze.
@@ -23,3 +34,4 @@ The storage conditions and expiration periods are summarized in the following ta
 | --- | --- | --- | --- |
 | 1 mL Vial | Until manufacturer expiration date | 12 months or until manufacturer expiration date, whichever is earlier | N/A |
 | 10 mL Vial | Until manufacturer expiration date | 12 months or until manufacturer expiration date, whichever is earlier | 30 days |
+| 100 mL Vial | Until manufacturer expiration date | 12 months or until manufacturer expiration date, whichever is earlier | N/A |
