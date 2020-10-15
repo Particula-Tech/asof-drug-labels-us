@@ -1,0 +1,21 @@
+{
+  "application_numbers": [
+    "NDA201688"
+  ],
+  "inn": "tobramycin",
+  "labeler": "Mylan Specialty L.P.",
+  "package_ndcs": [
+    "49502-346-08",
+    "49502-346-24",
+    "49502-346-56"
+  ],
+  "products": [
+    {
+      "form": "CAPSULE",
+      "generic": "tobramycin",
+      "name": "TOBI Podhaler"
+    }
+  ],
+  "setid": "6f3ffc58-f84f-4a6e-84af-49c3309a374e",
+  "source": "dailymed"
+}
