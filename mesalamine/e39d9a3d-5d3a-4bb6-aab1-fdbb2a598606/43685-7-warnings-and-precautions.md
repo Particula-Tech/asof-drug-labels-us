@@ -1,27 +1,44 @@
 # PRECAUTIONS
 
-## General
+## Renal Impairment
 
-Caution should be exercised if PENTASA is administered to patients with impaired hepatic function.
+Renal impairment, including minimal change disease, acute and chronic interstitial nephritis, and renal failure have been reported in patients given PENTASA or other products that contain mesalamine or are converted to mesalamine.
+
+Mesalamine is known to be substantially excreted by the kidney, and the risk of adverse reactions may be greater in patients with impaired renal function.
+Evaluate renal function in all patients prior to initiation and periodically while on therapy with PENTASA.
+Evaluate the risks and benefits of using PENTASA in patients with known renal impairment or a history of renal disease or taking concomitant nephrotoxic drugs.
+
+## Mesalamine-Induced Acute Intolerance Syndrome
 
 Mesalamine has been associated with an acute intolerance syndrome that may be difficult to distinguish from a flare of inflammatory bowel disease.
-Although the exact frequency of occurrence cannot be ascertained, it has occurred in 3% of patients in controlled clinical trials of mesalamine or sulfasalazine.
-Symptoms include cramping, acute abdominal pain and bloody diarrhea, sometimes fever, headache, and rash.
-If acute intolerance syndrome is suspected, prompt withdrawal is required.
-If a rechallenge is performed later in order to validate the hypersensitivity, it should be carried out under close medical supervision at reduced dose and only if clearly needed.
+Symptoms include cramping, acute abdominal pain, bloody diarrhea, and sometimes fever, headache, and rash.
+Monitor patients for worsening of these symptoms while on treatment.
+If acute intolerance syndrome is suspected, promptly discontinue treatment with PENTASA.
+
+## Hypersensitivity Reactions
+
+Hypersensitivity reactions have been reported in patients taking sulfasalazine.
+Some patients may have a similar reaction to PENTASA or to other compounds that contain or are converted to mesalamine.
+
+As with sulfasalazine, mesalamine-induced hypersensitivity reactions may present as internal organ involvement, including myocarditis, pericarditis, nephritis, hepatitis, pneumonitis, and hematologic abnormalities.
+Evaluate patients immediately if signs or symptoms of a hypersensitivity reaction are present.
+Discontinue PENTASA if an alternative etiology for the signs and symptoms cannot be established.
+
+## Hepatic Failure
+
+There have been reports of hepatic failure in patients with pre-existing liver disease who have been administered other products containing mesalamine.
+Evaluate the risks and benefits of using PENTASA in patients with known liver impairment.
+
+## Photosensitivity
 
 Patients with pre-existing skin conditions such as atopic dermatitis and atopic eczema have reported more severe photosensitivity reactions.
+Advise patients to avoid sun exposure, wear protective clothing, and use a broad-spectrum sunscreen when outdoors.
 
-## Renal
+## Nephrolithiasis
 
-Caution should be exercised if PENTASA is administered to patients with impaired renal function.
-Single reports of nephrotic syndrome and interstitial nephritis associated with mesalamine therapy have been described in the foreign literature.
-There have been rare reports of interstitial nephritis in patients receiving PENTASA.
-In animal studies, a 13-week oral toxicity study in mice and 13-week and 52-week oral toxicity studies in rats and cynomolgus monkeys have shown the kidney to be the major target organ of mesalamine toxicity.
-Oral daily doses of 2400 mg/kg in mice and 1150 mg/kg in rats produced renal lesions including granular and hyaline casts, tubular degeneration, tubular dilation, renal infarct, papillary necrosis, tubular necrosis, and interstitial nephritis.
-In cynomolgus monkeys, oral daily doses of 250 mg/kg or higher produced nephrosis, papillary edema, and interstitial fibrosis.
-Patients with preexisting renal disease, increased BUN or serum creatinine, or proteinuria should be carefully monitored, especially during the initial phase of treatment.
-Mesalamine-induced nephrotoxicity should be suspected in patients developing renal dysfunction during treatment.
+Cases of nephrolithiasis have been reported with the use of mesalamine, including stones with 100% mesalamine content.
+Mesalamine-containing stones are radiotransparent and undetectable by standard radiography or computed tomography (CT).
+Ensure adequate hydration during treatment.
 
 ## Interference with Laboratory Tests
 
@@ -32,9 +49,15 @@ Consider an alternative, selective assay for normetanephrine.
 
 No investigations of interactions between PENTASA and other drugs have been performed; however, the following drug-drug interactions have been reported for products containing mesalamine:
 
-The concurrent use of mesalamine with known nephrotoxic agents, including non-steroidal anti-inflammatory drugs (NSAIDs), may increase the risk of renal reactions.
+### Nephrotoxic Agents, Including Non-Steroidal Anti-Inflammatory Drugs
+
+The concurrent use of mesalamine with known nephrotoxic agents, including non-steroidal anti-inflammatory drugs (NSAIDs), may increase the risk of nephrotoxicity.
+Monitor patients taking nephrotoxic drugs for changes in renal function and mesalamine-related adverse reactions.
+
+### Azathioprine or 6-Mercaptopurine
 
 The concurrent use of mesalamine with azathioprine or 6-mercaptopurine and/or any other drugs known to cause myelotoxicity may increase the risk for blood disorders, bone marrow failure, and associated complications.
+If concomitant use of PENTASA and azathioprine or 6-mercaptopurine cannot be avoided, monitor blood tests, including complete blood cell counts and platelet counts.
 
 ## Carcinogenesis, Mutagenesis, Impairment of Fertility
 
@@ -48,3 +71,49 @@ No evidence of mutagenicity was observed in an in vitro Ames test and in an in v
 No effects on fertility or reproductive performance were observed in male or female rats at oral doses of mesalamine up to 400 mg/kg/day (0.8 times the recommended human dose based on body surface area).
 
 Semen abnormalities and infertility in men, which have been reported in association with sulfasalazine, have not been seen with PENTASA capsules during controlled clinical trials.
+
+## Pregnancy
+
+### Teratogenic Effects
+
+Published data from meta-analyses, cohort studies, and case series on the use of mesalamine during pregnancy have not reliably informed an association with mesalamine and major birth defects, miscarriage, or adverse maternal or fetal outcomes.
+There is no clear evidence that mesalamine exposure in early pregnancy is associated with an increased risk of major congenital malformations, including cardiac malformations.
+Published epidemiologic studies have important methodological limitations which hinder interpretation of the data, including inability to control for confounders, such as underlying maternal disease, maternal use of concomitant medications, and missing information on the dose and duration of use for mesalamine products.
+PENTASA should only be used during pregnancy if the benefits outweigh the risks.
+
+In animal reproduction studies, oral administration of mesalamine during organogenesis to pregnant rats at doses up to 1000 mg/kg/day (5900 mg/m²) and rabbits at doses of 800 mg/kg/day (6856 mg/m²) revealed no evidence of teratogenic effects or harm to the fetus due to mesalamine.
+
+The estimated background risk of major birth defects and miscarriage for the indicated populations is unknown.
+All pregnancies have a background risk of birth defect, loss, or other adverse outcomes.
+In the U.S. general population, the estimated background risk of major birth defects and miscarriages in clinically recognized pregnancies is 2% to 4% and 15% to 20%, respectively.
+
+### Nonteratogenic Effects
+
+Published data suggest that increased disease activity is associated with the risk of developing adverse pregnancy outcomes in women with ulcerative colitis.
+Adverse pregnancy outcomes include preterm delivery (before 37 weeks of gestation), low birth weight (less than 2500 g) infants, and small for gestational age at birth.
+
+## Nursing Mothers
+
+Data from published literature report the presence of mesalamine and its metabolite, N-acetyl-5-aminosalicylic acid in human milk in small amounts with relative infant doses (RID) of 0.1% or less for mesalamine.
+The clinical significance of this has not been determined and there is limited experience of nursing women using mesalamine.
+
+There are reports of diarrhea observed in breastfed infants exposed to mesalamine.
+The effect of PENTASA on milk production is unknown.
+Exercise caution if PENTASA is administered to a nursing woman and monitor breastfed infants for diarrhea.
+
+In published lactation studies, maternal mesalamine doses from various oral and rectal formulations and products ranged from 500 mg to 4.8 g daily.
+The average concentration of mesalamine in milk ranged from non-detectable to 0.5 mg/L.
+The average concentration of N-acetyl-5-aminosalicylic acid in milk ranged from 0.2 to 9.3 mg/L.
+Based on these concentrations, estimated infant daily dosages for an exclusively breastfed infant are 0 to 0.075 mg/kg/day of mesalamine (RID 0% to 0.1%) and 0.03 to 1.4 mg/kg/day of N-acetyl-5-aminosalicylic acid.
+
+## Pediatric Use
+
+Safety and efficacy of PENTASA in pediatric patients have not been established.
+
+## Geriatric Use
+
+Clinical trials of PENTASA did not include sufficient numbers of patients aged 65 years and over to determine whether they respond differently from younger patients.
+Reports from uncontrolled clinical studies and postmarketing reporting systems suggested a higher incidence of blood dyscrasias (i.e., agranulocytosis, neutropenia, and pancytopenia) in patients receiving mesalamine-containing products such as PENTASA who were 65 years or older compared to younger patients.
+Monitor complete blood cell counts and platelet counts in elderly patients during treatment with PENTASA.
+
+In general, consider the greater frequency of decreased hepatic, renal, or cardiac function, and of concurrent disease or other drug therapy in elderly patients when prescribing PENTASA.

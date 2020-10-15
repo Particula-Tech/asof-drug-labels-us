@@ -1,12 +1,9 @@
 # OVERDOSAGE
 
-Single oral doses of mesalamine up to 5 g/kg in pigs or a single intravenous dose of mesalamine at 920 mg/kg in rats were not lethal.
+PENTASA is an aminosalicylate, and symptoms of salicylate toxicity may be possible, such as: nausea, vomiting, abdominal pain, tachypnea, hyperpnea, tinnitus, and neurologic symptoms (headache, dizziness, confusion, seizures).
+Severe intoxication with salicylates may lead to electrolyte and blood pH imbalance and potentially to other organ (e.g., renal and liver) damage.
 
-There is no clinical experience with PENTASA overdosage.
-PENTASA is an aminosalicylate, and symptoms of salicylate toxicity may be possible, such as: tinnitus, vertigo, headache, confusion, drowsiness, sweating, hyperventilation, vomiting, and diarrhea.
-Severe intoxication with salicylates can lead to disruption of electrolyte balance and blood-pH, hyperthermia, and dehydration.
+## Treatment of Overdosage
 
-Treatment of Overdosage: Since PENTASA is an aminosalicylate, conventional therapy for salicylate toxicity may be beneficial in the event of acute overdosage.
-This includes prevention of further gastrointestinal tract absorption by emesis and, if necessary, by gastric lavage.
-Fluid and electrolyte imbalance should be corrected by the administration of appropriate intravenous therapy.
-Adequate renal function should be maintained.
+There is no specific antidote for mesalamine overdose; however, conventional therapy for salicylate toxicity may be beneficial in the event of acute overdosage and may include gastrointestinal tract decontamination to prevent further absorption.
+Correct fluid and electrolyte imbalance by the administration of appropriate intravenous therapy and maintain adequate renal function.

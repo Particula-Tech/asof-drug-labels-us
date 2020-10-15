@@ -8,11 +8,6 @@ PENTASA controlled-release 500-mg capsules are supplied in bottles of 120 capsul
 Each blue capsule contains 500 mg of mesalamine in controlled-release beads.
 PENTASA controlled-release capsules are identified with a pentagonal starburst logo and S429 500 mg on the capsules.
 
-Store at 25°C (77°F); excursions permitted to 15 to 30°C (59 to 86°F) [see USP Controlled Room Temperature].
+Store at 25°C (77°F); excursions permitted to 15°C to 30°C (59°F to 86°F) [see USP Controlled Room Temperature].
 
-To report SUSPECTED ADVERSE REACTIONS, contact Shire US Inc. at 1-800-828-2088 or FDA at 1-800-FDA-1088 or www.fda.gov/medwatch.
-
-Manufactured for Shire US Inc. 300 Shire Way, Lexington, MA 02421, USA PENTASA is a registered trademark of Ferring B.V. © 2019 Takeda Pharmaceutical Company Limited
-
-Rev.
-07/2019
+To report SUSPECTED ADVERSE REACTIONS, contact Takeda Pharmaceuticals at 1-800-828-2088 or FDA at 1-800-FDA-1088 or www.fda.gov/medwatch.

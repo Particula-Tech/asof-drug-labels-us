@@ -1,3 +1,3 @@
 # CONTRAINDICATIONS
 
-PENTASA is contraindicated in patients who have demonstrated hypersensitivity to mesalamine, any other components of this medication, or salicylates.
+PENTASA is contraindicated in patients with known or suspected hypersensitivity to salicylates, aminosalicylates, or any components of this medication.
