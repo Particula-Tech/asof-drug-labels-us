@@ -11,7 +11,7 @@ Recombinant human hyaluronidase is an endoglycosidase used to increase the dispe
 It is produced by mammalian (Chinese Hamster Ovary) cells containing a DNA plasmid encoding for a soluble fragment of human hyaluronidase (PH20).
 It is a glycosylated single-chain protein with an approximate molecular weight of 61 kD.
 
-RITUXAN HYCELA (rituximab and hyaluronidase human) Injection is a colorless to yellowish, clear to opalescent solution supplied in sterile, preservative-free, single-dose vials for subcutaneous administration.
+RITUXAN HYCELA (rituximab and hyaluronidase human) injection is a colorless to yellowish, clear to opalescent solution supplied in sterile, preservative-free, single-dose vials for subcutaneous use.
 
 RITUXAN HYCELA is supplied as 1,400 mg rituximab and 23,400 Units hyaluronidase human per 11.7 mL in single-dose vials or 1,600 mg rituximab and 26,800 Units hyaluronidase human per 13.4 mL in single-dose vials.
 Each mL of solution contains rituximab (120 mg), hyaluronidase human (2,000 Units), L-histidine (0.53 mg), L-histidine hydrochloride monohydrate (3.47 mg), L-methionine (1.49 mg), polysorbate 80 (0.6 mg), α,α-trehalose dihydrate (79.45 mg), and Water for Injection.

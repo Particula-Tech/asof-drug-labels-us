@@ -4,15 +4,15 @@
 
 Risk Summary
 
-Based on human data, rituximab-containing products can cause adverse developmental outcomes including B-cell lymphocytopenia in infants exposed to rituximab in-utero (see Clinical Considerations).
+Based on human data, rituximab-containing products can cause fetal harm due to B-cell lymphocytopenia in infants exposed to rituximab in-utero (see Clinical Considerations).
 There are no available data on RITUXAN HYCELA use in pregnant women to inform a drug-associated risk of major birth defects and miscarriage.
 In animal reproduction studies, intravenous administration of a rituximab product to pregnant cynomolgus monkeys during the period of organogenesis caused lymphoid B cell depletion in the newborn offspring at doses resulting in 80% of the exposure (based on AUC) of those achieved following a dose of 2 grams in humans.
 Reduced fetal weight and increased fetal lethality were observed following subcutaneous administration of hyaluronidase human in mice at a dose > 2700 times higher than the human dose.
 Comparable systemic exposure levels could occur in a pregnant patient following accidental intravenous administration of an entire vial of RITUXAN HYCELA (see Data).
-Advise pregnant women of the risk to a fetus.
+Advise pregnant women of the potential risk to a fetus.
 
-Adverse outcomes in pregnancy occur regardless of the health of the mother or the use of medications.
-The background risk of major birth defects and miscarriage for the indicated population is unknown.
+The estimated background risk of major birth defects and miscarriage for the indicated populations is unknown.
+All pregnancies have a background risk of birth defect, loss, or other adverse outcomes.
 The estimated background risk in the U.S. general population of major birth defects is 2%–4% and of miscarriage is 15%–20% of clinically recognized pregnancies.
 
 Clinical Considerations
@@ -25,7 +25,7 @@ Data
 
 Human Data
 
-Postmarketing data indicate that B-cell lymphocytopenia generally lasting less than six months can occur in infants exposed to rituximab in-utero.
+Postmarketing data indicate that B-cell lymphocytopenia generally lasting less than 6 months can occur in infants exposed to rituximab in-utero.
 Rituximab was detected postnatally in the serum of infants exposed in-utero.
 
 Animal Data
@@ -57,18 +57,22 @@ Hyaluronidase Human:
 ## 8.2 Lactation
 
 There are no data on the presence of rituximab or hyaluronidase human in human milk, the effect on the breastfed infant, or the effect on milk production.
-However, rituximab is detected in the milk of lactating cynomolgus monkeys, and IgG is present in human milk.
-Since many drugs including antibodies are present in human milk, advise a lactating woman not to breastfeed during treatment and for at least 6 months after the last dose of RITUXAN HYCELA due to the potential for serious adverse reactions in breastfed infants.
+However, rituximab is detected in the milk of lactating cynomolgus monkeys and IgG is present in human milk.
+Since many drugs including antibodies are present in human milk, advise women not to breastfeed during treatment with RITUXAN HYCELA and for 6 months after the last dose due to the potential for serious adverse reactions in breastfed infants.
 
 ## 8.3 Females and Males of Reproductive Potential
 
 Rituximab-containing products can cause fetal harm [see Use in Specific Populations (8.1)].
 
+Pregnancy Testing
+
+Verify pregnancy status in females of reproductive potential prior to initiating RITUXAN HYCELA.
+
 Contraception
 
 Females
 
-Females of childbearing potential should use effective contraception while receiving RITUXAN HYCELA and for 12 months following treatment.
+Advise females of reproductive potential to use effective contraception during treatment with RITUXAN HYCELA and for 12 months after the last dose of rituximab-containing products, including RITUXAN HYCELA.
 
 ## 8.4 Pediatric Use
 

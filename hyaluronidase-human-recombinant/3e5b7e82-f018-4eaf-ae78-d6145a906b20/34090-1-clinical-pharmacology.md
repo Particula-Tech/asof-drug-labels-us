@@ -52,6 +52,7 @@ Table 4: Rituximab Exposure Values following Subcutaneous Administration of RITU
 | AUCTAU, mcg∙day/mL (CV%) | 5 | 4088 (34.2) |  |  |
 
 In the SABRINA study, the geometric mean Ctrough in the RITUXAN HYCELA arm was higher than in the rituximab arm with a geometric mean ratio (Ctrough, RITUXAN HYCELA/Ctrough, rituximab) of 1.52 (90% CI: 1.36, 1.70) at Cycle 7 [see Clinical Studies (14.1)].
+
 In the SAWYER study, the geometric mean Ctrough in the RITUXAN HYCELA arm was higher than in the rituximab arm with an adjusted geometric mean ratio of 1.53 (90% CI: 1.27–1.85) at Cycle 5 [see Clinical Studies (14.3)].
 
 Table 5: Pharmacokinetic Parameters of Rituximab following Subcutaneous Administration of RITUXAN HYCELAParameters represented as geometric mean (%CV) unless otherwise specified

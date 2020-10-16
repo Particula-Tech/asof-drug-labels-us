@@ -115,5 +115,5 @@ The safety of immunization with live viral vaccines following rituximab-containi
 ## 5.11 Embryo-Fetal Toxicity
 
 Based on human data, rituximab-containing products can cause fetal harm due to B-cell lymphocytopenia in infants exposed to rituximab in-utero.
-Advise pregnant women of the risk to a fetus.
-Females of childbearing potential should use effective contraception while receiving RITUXAN HYCELA and for 12 months following the last dose of rituximab-containing products, including RITUXAN HYCELA.
+Advise pregnant women of the potential risk to a fetus.
+Advise females of reproductive potential to use effective contraception during treatment with RITUXAN HYCELA and for 12 months after the last dose of rituximab-containing products, including RITUXAN HYCELA [see Use in Specific Populations (8.1, 8.3)].

@@ -15,7 +15,7 @@ Premedicate before each dose of RITUXAN HYCELA [see Dosage and Administration (2
 Dose reductions of RITUXAN HYCELA are not recommended.
 When RITUXAN HYCELA is given in combination with chemotherapy dose, reduce the chemotherapeutic drugs to manage adverse reactions.
 
-## 2.2 Recommended Dose for Follicular Lymphoma (FL)
+## 2.2 Recommended Dosage for Follicular Lymphoma (FL)
 
 All patients must receive at least one full dose of a rituximab product by intravenous infusion before starting treatment with RITUXAN HYCELA [see Dosage and Administration (2.1) and Warnings and Precautions (5.4)].
 Premedicate before each dose [see Dosage and Administration (2.5)].
@@ -29,7 +29,7 @@ The recommended dose is RITUXAN HYCELA 1,400 mg/23,400 Units (1,400 mg rituximab
   Administer RITUXAN HYCELA as a single-agent every 8 weeks for 12 doses.
 - Non-progressing, Follicular Lymphoma after first line CVP chemotherapy Following completion of 6–8 cycles of CVP chemotherapy and a full dose of a rituximab product by intravenous infusion at week 1, administer once weekly for 3 weeks (i.e., 4 weeks in total) at 6 month intervals to a maximum of 16 doses.
 
-## 2.3 Recommended Dose for Diffuse Large B-Cell Lymphoma (DLBCL)
+## 2.3 Recommended Dosage for Diffuse Large B-Cell Lymphoma (DLBCL)
 
 All patients must receive at least one full dose of a rituximab product by intravenous infusion in combination with CHOP chemotherapy before starting treatment with RITUXAN HYCELA [see Dosage and Administration (2.1) and Warnings and Precautions (5.4)].
 Premedicate before each dose [see Dosage and Administration (2.5)].
@@ -37,7 +37,7 @@ Premedicate before each dose [see Dosage and Administration (2.5)].
 The recommended dose for DLBCL is RITUXAN HYCELA 1,400 mg/23,400 Units (1,400 mg rituximab and 23,400 Units hyaluronidase human) at a fixed dose irrespective of patient's body surface area in combination with CHOP chemotherapy.
 Administer RITUXAN HYCELA 1,400 mg/23,400 Units on Day 1 of Cycles 2–8 of CHOP chemotherapy for up to 7 cycles following a full dose of a rituximab product by intravenous infusion at Day 1, Cycle 1 of CHOP chemotherapy (i.e., up to 6–8 cycles in total).
 
-## 2.4 Recommended Dose for Chronic Lymphocytic Leukemia (CLL)
+## 2.4 Recommended Dosage for Chronic Lymphocytic Leukemia (CLL)
 
 All patients must receive at least one full dose of a rituximab product by intravenous infusion in combination with FC chemotherapy before starting treatment with RITUXAN HYCELA [see Dosage and Administration (2.1) and Warnings and Precautions (5.4)].
 Premedicate before each dose [see Dosage and Administration (2.5)].
@@ -52,20 +52,31 @@ Premedication with a glucocorticoid should also be considered [see Dosage and Ad
 
 Provide prophylaxis for Pneumocystis jiroveci pneumonia (PCP) and herpes virus infections for patients with CLL during treatment and for up to 12 months following treatment as appropriate [see Warnings and Precautions (5.6)].
 
-## 2.6 Administration and Storage
+## 2.6 Preparation and Administration
+
+To prevent medication errors, check the vial labels to ensure that the drug being prepared and administered is RITUXAN HYCELA for subcutaneous use.
+Do not administer RITUXAN HYCELA intravenously.
 
 RITUXAN HYCELA is ready to use.
-To avoid needle clogging, attach the hypodermic injection needle to the syringe immediately prior to administration.
-RITUXAN HYCELA is compatible with polypropylene and polycarbonate syringe material and stainless steel transfer and injection needles.
-Use the product immediately.
 
-Parenteral drug products should be inspected visually for particulate matter and discoloration prior to administration.
+Preparation
+
+RITUXAN HYCELA is compatible with polypropylene and polycarbonate syringe material and stainless steel transfer and injection needles.
+
+Withdraw 20 mL into a syringe using any length, narrow gauge needle (e.g., 25–30 gauge).
+
+Label the syringe with the provided peel-off label.
+
+Change the needle to a 1/2" to 5/8" long, narrow gauge needle (e.g., 25–30 gauge) immediately prior to subcutaneous administration to avoid needle clogging.
+
+Visually inspect for particulate matter and discoloration prior to administration.
 RITUXAN HYCELA should be a clear to opalescent and colorless to yellowish liquid.
-Do not use vial if particulates or discoloration is present.
+Do not use if particulates or discoloration is present.
 
 Administration
 
-- Inject RITUXAN HYCELA into the subcutaneous tissue of the abdomen over approximately 5–7 minutes and never inject into areas where the skin is red, bruised, tender or hard, or areas where there are moles or scars.
+- Inject RITUXAN HYCELA into the subcutaneous tissue of the abdomen over approximately 5–7 minutes.
+  Never inject into areas where the skin is red, bruised, tender or hard, or areas where there are moles or scars.
   No data are available on performing the injection at other sites of the body.
 - Inject 11.7 mL of RITUXAN HYCELA 1,400 mg/23,400 Units vial (1,400 mg rituximab and 23,400 Units hyaluronidase human) subcutaneously into the abdomen over approximately 5 minutes.
 - Inject 13.4 mL of RITUXAN HYCELA 1,600 mg/26,800 Units vial (1,600 mg rituximab and 26,800 Units hyaluronidase human) subcutaneously into the abdomen over approximately 7 minutes.
@@ -78,6 +89,6 @@ During treatment with RITUXAN HYCELA, do not administer other medications for su
 
 Storage
 
-After the solution of RITUXAN HYCELA is withdrawn from the vial, it should be labeled with the peel-off sticker and used immediately.
-If not used immediately, prepare in controlled and validated aseptic conditions.
-Once transferred from the vial into the syringe, store the solution of RITUXAN HYCELA in the refrigerator at 2°C–8°C (36°F–46°F) up to 48 hours and subsequently for 8 hours at room temperature up to 30°C (86°F) in diffuse light.
+Use immediately.
+
+If not used immediately store refrigerated at 2°C to 8°C (36°F to 46°F) up to 48 hours and subsequently for 8 hours at room temperature up to 30°C (86°F) in diffuse light.

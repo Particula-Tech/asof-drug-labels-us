@@ -1,6 +1,6 @@
 # 6 ADVERSE REACTIONS
 
-The following serious adverse reactions are discussed in greater detail in other sections of the labeling:
+The following clinically significant adverse reactions are described elsewhere in the labeling:
 
 - Mucocutaneous reactions [see Warnings and Precautions (5.1)]
 - Hepatitis B reactivation including fulminant hepatitis [see Warnings and Precautions (5.2)]
@@ -19,8 +19,7 @@ Because clinical trials are conducted under widely varying conditions, adverse r
 The data described below reflect exposure to RITUXAN HYCELA in 892 patients in four controlled trials with exposures ranging from a single injection up to 27 months of treatment.
 
 The population included 382 patients with follicular lymphoma (FL), 369 patients with diffuse large B-cell lymphoma (DLBCL), and 141 patients with chronic lymphocytic leukemia (CLL).
-The population was aged 18–85 years (with a median age of 60 years), 53% male and 47% female.
-Most of the patients were Caucasians (84%).
+The median age was 60 years (range: 18–85 years, 53% were male, and 84% were White.
 In the SABRINA study patients with FL received a full dose of a rituximab product by intravenous infusion, followed by RITUXAN HYCELA (1,400 mg rituximab/23,400 Units hyaluronidase human), in combination with chemotherapy for up to 7 doses (i.e., total of 8 doses in combination with chemotherapy), or as monotherapy for up to 12 doses (maintenance treatment).
 In the MabEase study patients with DLBCL received a full dose of a rituximab product by intravenous infusion, followed by RITUXAN HYCELA (1,400 mg rituximab/23,400 Units hyaluronidase human), given in combination with chemotherapy for up to 7 doses (i.e., up to a total of 8 doses).
 In the SAWYER study patients with CLL on part 2 received a full dose of a rituximab product by intravenous infusion, followed by RITUXAN HYCELA (1,600 mg rituximab/26,800 Units hyaluronidase human) for up to 5 doses, in combination with fludarabine and cyclophosphamide (i.e., total of 6 doses).
@@ -78,7 +77,7 @@ Majority of these reactions were Grade 1 and 2 and were observed in 31 patients 
 
 Table 1: Incidence of Adverse Reactions in ≥ 5% of Patients with Previously Untreated Follicular Lymphoma Receiving RITUXAN HYCELA or Rituximab in Combination with CHOP or CVP and as Monotherapy for Maintenance Treatment
 
-| All AEs % | Grade 3–4 % | All AEs % | Grade 3–4 % |  |
+| All Grades % | Grade 3–4 % | All Grades % | Grade 3–4 % |  |
 | --- | --- | --- | --- | --- |
 | Body System/Adverse Reactions | RITUXAN HYCELA (n=197) |  | Rituximab (n=210) |  |
 | Gastrointestinal Disorders |  |  |  |  |
@@ -148,9 +147,9 @@ The data in Table 2 were obtained in the MabEASE study, a comparative, randomize
 Eighty two percent of patients receiving RITUXAN HYCELA or rituximab completed all 8 cycles of study treatment.
 In both RITUXAN HYCELA and rituximab treatment groups, patients experienced 4.9 months median duration of rituximab exposure in each arm.
 
-The demographic characteristics were balanced between the two treatment groups.
-Most patients were Caucasian (79%) and more than half (54%) were male.
-The study population had a median age of 64 years (61% of patients aged ≥ 60 years) with median BSA of 1.83 m2 (1.83 and 1.84 m2 for RITUXAN HYCELA and rituximab groups, respectively).
+The demographic characteristics were balanced.
+Most patients were White (79%) and 54% were male.
+The median was 64 years and median BSA was 1.83 m2.
 
 The incidences of adverse reactions of any grade (RITUXAN HYCELA [94%] vs. rituximab [92%]) (Table 2), Grade 3–4 adverse reactions (RITUXAN HYCELA [63%] vs. rituximab [57%]), and serious adverse reactions (RITUXAN HYCELA [42%] vs. rituximab [37%]) were generally comparable between the two treatment groups.
 The common adverse reactions (occurring in ≥ 20% of patients in any treatment group) were neutropenia, alopecia, nausea, and anemia.
@@ -167,7 +166,7 @@ Majority of these reactions were Grade 1 and 2 and were observed in 16 patients 
 
 Table 2: Incidence of Adverse Reactions in ≥ 5% of Patients with Previously Untreated DLBCL Receiving RITUXAN HYCELA or Rituximab in Combination with CHOP
 
-| All AEs % | Grade 3–4 % | All AEs % | Grade 3–4 % |  |
+| All Grades % | Grade 3–4 % | All Grades % | Grade 3–4 % |  |
 | --- | --- | --- | --- | --- |
 | Body System/Adverse Reactions | RITUXAN HYCELA + CHOP (n=369) |  | Rituximab + CHOP (n=203) |  |
 | Gastrointestinal Disorders |  |  |  |  |
@@ -219,7 +218,7 @@ The safety analysis population in part 2 of the study included 85 patients recei
 In both RITUXAN HYCELA and rituximab groups, patients had similar median duration of rituximab exposure (4.9 vs. 4.7 months).
 The majority of patients received all 6 cycles of study treatment (86% RITUXAN HYCELA vs. 81% rituximab).
 
-The patient population was predominantly Caucasian (96%), male (65%), with a median age of 60 years and median BSA of 1.9 m2 (1.97 and 1.86 m2 for the RITUXAN HYCELA and intravenous rituximab groups, respectively).
+The patient population was predominantly White (96%) and male (65%), with a median age of 60 years and median BSA of 1.9 m2 (1.97 and 1.86 m2 for the RITUXAN HYCELA and intravenous rituximab groups, respectively).
 Overall, the treatment groups were balanced with respect to demographic characteristics, with the exception of more males in the RITUXAN HYCELA arm (71% RITUXAN HYCELA vs. 60% rituximab).
 Baseline disease characteristics were similar between the two groups.
 Over half of the patients (62%) had Binet Stage B disease and the majority had typical CLL characterizations (93%), with median time from first CLL diagnosis to randomization being 18.5 months.
@@ -238,7 +237,7 @@ In the rituximab group, 2 patients died due to diarrhea and listeriosis and 2 pa
 
 Table 3: Incidence of Adverse Reactions in ≥ 5% of Patients with Previously Untreated CLL Receiving RITUXAN HYCELA or Rituximab in Combination with FC
 
-| All AEs % | Grade 3–4 % | All AEs % | Grade 3–4 % |  |
+| All Grades % | Grade 3–4 % | All Grades % | Grade 3–4 % |  |
 | --- | --- | --- | --- | --- |
 | Body System/Adverse Reactions | RITUXAN HYCELA + FC (n=85) |  | Rituximab + FC (n=89) |  |
 | Gastrointestinal Disorders |  |  |  |  |
@@ -293,12 +292,12 @@ The detection of antibody formation is highly dependent on the sensitivity and s
 Additionally, the observed incidence of antibody (including neutralizing antibody) positivity in an assay may be influenced by several factors including assay methodology, sample handling, timing of sample collection, concomitant medications, and underlying disease.
 For these reasons, comparison of the incidence of antibodies to RITUXAN HYCELA and rituximab in the studies described below with the incidence of antibodies in other studies or to other products may be misleading.
 
-In the SABRINA study, where previously untreated patients with follicular lymphoma were treated with RITUXAN HYCELA or rituximab in combination with CVP or CHOP, the incidence of treatment-induced/enhanced anti-rituximab antibodies in the RITUXAN HYCELA group was similar to that observed in the rituximab group (2.0% RITUXAN HYCELA vs. 1.5% rituximab).
-The incidence of treatment-induced/enhanced anti-recombinant human hyaluronidase antibodies was 13% in the RITUXAN HYCELA group compared with 8% in the rituximab group, and the overall proportion of patients found to have anti-recombinant human hyaluronidase antibodies remained generally constant over the follow-up period in both cohorts.
+In the SABRINA study, where previously untreated patients with follicular lymphoma were treated with RITUXAN HYCELA or rituximab in combination with CVP or CHOP, the incidence of treatment-induced/enhanced anti-rituximab antibodies in the RITUXAN HYCELA group was similar to that observed in the rituximab group (2.0% RITUXAN HYCELA vs. 1.9% rituximab).
+The incidence of treatment-induced/enhanced anti-recombinant human hyaluronidase antibodies was 15% in the RITUXAN HYCELA group compared with 8% in the rituximab group, and the overall proportion of patients found to have anti-recombinant human hyaluronidase antibodies remained generally constant over the follow-up period in both cohorts.
 All patients who tested positive for anti-recombinant human hyaluronidase antibodies at any point during the study were negative for neutralizing antibodies.
 
-In the SAWYER study, where previously untreated patients with CLL were treated with RITUXAN HYCELA or rituximab in combination with FC, the incidence of treatment-induced/enhanced anti-rituximab antibodies was 2.4% in the RITUXAN HYCELA group vs. 6.7% in rituximab group.
-The incidence of treatment-induced/enhanced anti-recombinant human hyaluronidase antibodies was 10.6% in the RITUXAN HYCELA treatment arm.
+In the SAWYER study, where previously untreated patients with CLL were treated with RITUXAN HYCELA or rituximab in combination with FC, the incidence of treatment-induced/enhanced anti-rituximab antibodies was 12% in the RITUXAN HYCELA group and 15% in the rituximab group.
+The incidence of treatment-induced/enhanced anti-recombinant human hyaluronidase antibodies was 11% in the RITUXAN HYCELA treatment arm.
 None of the patients who tested positive for anti-recombinant human hyaluronidase antibodies tested positive for neutralizing antibodies.
 
 The clinical relevance of the development of anti-rituximab or anti-recombinant human hyaluronidase antibodies after treatment with RITUXAN HYCELA is not known.
