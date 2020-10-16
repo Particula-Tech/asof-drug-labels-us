@@ -4,12 +4,11 @@ NDC 0187-5200-30
 
 Rx only
 
-Carac® (fluorouracil cream)
-
-CREAM, 0.5%
+Carac® (fluorouracil cream) CREAM, 0.5%
 
 FOR TOPICAL USE ONLY
 
-Net Wt.30 g
+Net Wt.
+30 g
 
 VALEANT
