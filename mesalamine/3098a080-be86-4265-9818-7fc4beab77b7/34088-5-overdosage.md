@@ -1,7 +1,9 @@
 # 10 OVERDOSAGE
 
-LIALDA is an aminosalicylate, and symptoms of salicylate toxicity may include tinnitus, vertigo, headache, confusion, drowsiness, sweating, seizures, hyperventilation, dyspnea, vomiting, and diarrhea.
-Severe intoxication may lead to disruption of electrolyte balance and blood pH, hyperthermia, dehydration, and end organ damage.
+LIALDA is an aminosalicylate, and symptoms of salicylate toxicity may include nausea, vomiting, abdominal pain, tachypnea, hyperpnea, tinnitus, and neurologic symptoms (headache, dizziness, confusion, seizures).
+Severe intoxication with salicylates may lead to electrolyte and blood pH imbalance, and potentially end organ (e.g., renal and liver) damage.
 
-There is no specific known antidote for mesalamine overdose; however, conventional therapy for salicylate toxicity may be beneficial in the event of acute overdosage.
-Correct fluid and electrolyte imbalance and maintain adequate renal function.
+There is no specific known antidote for mesalamine overdose; however, conventional therapy for salicylate toxicity may be beneficial in the event of acute overdosage and may include gastrointestinal tract decontamination to prevent further absorption.
+Correct fluid and electrolyte imbalance by the administration of appropriate intravenous therapy and maintain adequate renal function.
+
+LIALDA is a pH-dependent, delayed-release product and this factor should be considered when treating a suspected overdose.

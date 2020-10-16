@@ -1,11 +1,14 @@
 # 6 ADVERSE REACTIONS
 
-The most serious adverse reactions seen in LIALDA clinical trials or with other products that contain or are metabolized to mesalamine are:
+The following clinically significant adverse reactions are described elsewhere in labeling:
 
 - Renal impairment, including renal failure [see Warnings and Precautions (5.1)]
 - Mesalamine-induced acute intolerance syndrome [see Warnings and Precautions (5.2)]
 - Hypersensitivity reactions [see Warnings and Precautions (5.3)]
-- Hepatic impairment [see Warnings and Precautions (5.4)]
+- Hepatic failure [see Warnings and Precautions (5.4)]
+- Upper gastrointestinal tract obstruction [see Warnings and Precautions (5.5)]
+- Photosensitivity [see Warnings and Precautions (5.6)]
+- Nephrolithiasis [see Warnings and Precautions (5.7)]
 
 ## 6.1 Clinical Trials Experience
 
@@ -19,8 +22,9 @@ The most common adverse reactions occurring in at least 1% of LIALDA- or placebo
 
 Table 2: Adverse ReactionsReported in at least 1% of patients in at least one LIALDA group and greater than placebo in Two Eight-Week, Placebo-Controlled Trials of Induction Therapy (Study 1 and Study 2) in Adults with Mildly to Moderately Active Ulcerative Colitis
 
-| Adverse Reaction | LIALDA 2.4 g once daily (n=177) | LIALDA 4.8 g once daily (n=179) | Placebo (n=179) |
+| (n=177) | (n=179) | (n=179) |  |
 | --- | --- | --- | --- |
+| Adverse Reaction | LIALDA 2.4 g once daily | LIALDA 4.8 g once daily | Placebo |
 | Headache | 6% | 3% | <1% |
 | Flatulence | 4% | 3% | 3% |
 | Liver Function Test Abnormal | <1% | 2% | 1% |
@@ -38,7 +42,8 @@ Table 3: Adverse ReactionsReported in at least 1% of patients in Three Trials of
 
 | Adverse Reaction | % |
 | --- | --- |
-|  | LIALDA 2.4 g/dayAdministered either as 1.2 g twice daily or 2.4 g once daily (n=1082) |
+|  | LIALDA 2.4 g/dayAdministered either as 1.2 g twice daily or 2.4 g once daily |
+|  | (n=1082) |
 | Headache | 3% |
 | Liver function test abnormal | 2% |
 | Abdominal pain | 2% |
@@ -82,7 +87,7 @@ The most common adverse reactions reported in at least 5% of pediatric patients 
 
 ## 6.2 Postmarketing Experience
 
-In addition to the adverse reactions reported above in clinical trials involving LIALDA, the adverse reactions listed below have been identified during post-approval use of LIALDA and other mesalamine-containing products.
+The following adverse reactions have been identified during post-approval use of LIALDA or other mesalamine-containing products.
 Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
 
 Body as a Whole: lupus-like syndrome, drug fever
@@ -101,7 +106,7 @@ Musculoskeletal and Connective Tissue Disorders: myalgia, lupus-like syndrome
 
 Neurological/Psychiatric: peripheral neuropathy, Guillain-Barré syndrome, transverse myelitis, intracranial hypertension
 
-Renal Disorders: renal failure, interstitial nephritis, nephrogenic diabetes insipidus [see Warnings and Precautions (5.1)]
+Renal Disorders: renal failure, interstitial nephritis, nephrogenic diabetes insipidus, nephrolithiasis [see Warnings and Precautions (5.1, 5.7)]
 
 Respiratory, Thoracic and Mediastinal Disorders: interstitial lung disease, hypersensitivity pneumonitis (including interstitial pneumonitis, allergic alveolitis, eosinophilic pneumonitis)
 

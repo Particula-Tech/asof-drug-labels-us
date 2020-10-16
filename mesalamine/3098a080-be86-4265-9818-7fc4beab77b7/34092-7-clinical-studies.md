@@ -1,6 +1,6 @@
 # 14 CLINICAL STUDIES
 
-## 14.1 Adults with Mildly to Moderately Active Ulcerative Colitis
+## 14.1 Adults With Mildly to Moderately Active Ulcerative Colitis
 
 Induction of Remission
 
@@ -8,7 +8,7 @@ Two similarly designed, randomized, double-blind, placebo-controlled trials (Stu
 The study population was primarily Caucasian (80%), had a mean age of 42 years (6% age 65 years or older), and was approximately 50% male.
 Both studies used LIALDA dosages of 2.4 g and 4.8 g administered once daily for 8 weeks, except in Study 1 the 2.4 g dosage was administered as two divided doses (i.e., 1.2 g twice daily).
 The primary efficacy endpoint in both trials was to compare the percentage of patients in remission after 8 weeks of treatment for the LIALDA treatment groups versus placebo.
-Remission was defined as an Ulcerative Colitis Disease Activity Index (UC-DAI) of ≤ 1, with scores of zero for rectal bleeding and for stool frequency, and a sigmoidoscopy score reduction of 1 point or more from baseline.
+Remission was defined as an Ulcerative Colitis Disease Activity Index (UC-DAI) of ≤1, with scores of zero for rectal bleeding and for stool frequency, and a sigmoidoscopy score reduction of 1 point or more from baseline.
 
 In both studies, the LIALDA dosages of 2.4 g and 4.8 g once daily demonstrated superiority over placebo in the primary efficacy endpoint (Table 6).
 Both LIALDA dosages also provided consistent benefit in secondary efficacy parameters, including clinical improvement, clinical remission, and sigmoidoscopic improvement.
@@ -65,5 +65,4 @@ Other Endpoints
 Clinical remission, defined by a Mayo stool frequency subscore equal to 0 or 1, Mayo rectal bleeding subscore equal to 0, and a Mayo endoscopic subscore equal to 0 or 1 (modified to exclude friability) or 0 on the UC-DAI, was determined for patients with available endoscopic assessment after completion of the 26-week phase.
 Patients without endoscopic data at week 26 were assumed not to have achieved clinical remission.
 Of the 42 patients in the recommended LIALDA dosage arm, 36% achieved clinical remission.
-
 Clinical remission could not be assessed in the initial 8-week phase because there were too few patients who underwent endoscopy.

@@ -5,6 +5,7 @@ Administration Instructions
 - Evaluate renal function prior to initiation of LIALDA and periodically while on therapy.
 - Swallow LIALDA tablets whole; do not split or crush.
 - Administer LIALDA tablets with food [see Clinical Pharmacology (12.3)].
+- Drink an adequate amount of fluids [see Warnings and Precautions (5.7)].
 
 Adults
 

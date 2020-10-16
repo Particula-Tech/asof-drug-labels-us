@@ -3,7 +3,7 @@
 ## 12.1 Mechanism of Action
 
 The mechanism of action of mesalamine is not fully understood, but it appears to have a topical anti-inflammatory effect on the colonic epithelial cells.
-Mucosal production of arachidonic acid metabolites, both through the cyclooxygenase and lipoxygenase pathways, is increased in patients with chronic inflammatory bowel disease, and it is possible that mesalamine diminishes inflammation by blocking cyclooxygenase and inhibiting prostaglandin production in the colon.
+Mucosal production of arachidonic acid metabolites, both through the cyclooxygenase and lipoxygenase pathways, is increased in patients with ulcerative colitis, and it is possible that mesalamine diminishes inflammation by blocking cyclooxygenase and inhibiting prostaglandin production in the colon.
 
 ## 12.3 Pharmacokinetics
 
@@ -14,7 +14,7 @@ The total absorption of mesalamine from LIALDA 2.4 g or 4.8 g given once daily f
 Gamma-scintigraphy studies have shown that a single dose of LIALDA 1.2 g (one tablet) passed intact through the upper gastrointestinal tract of fasted healthy subjects.
 Scintigraphic images showed a trail of radio-labeled tracer in the colon, suggesting that mesalamine had distributed through this region of the gastrointestinal tract.
 
-In a single-dose study, LIALDA 1.2 g, 2.4 g and 4.8 g were administered in the fasted state to healthy subjects.
+In a single-dose study, LIALDA 1.2 g, 2.4 g, and 4.8 g were administered in the fasted state to healthy subjects.
 Plasma concentrations of mesalamine were detectable after 2 hours and reached a maximum by 9-12 hours on average for the doses studied.
 The pharmacokinetic parameters are highly variable among subjects (Table 4).
 Mesalamine systemic exposure in terms of area under the plasma concentration-time curve (AUC) was slightly more than dose proportional between 1.2 g and 4.8 g LIALDA.
