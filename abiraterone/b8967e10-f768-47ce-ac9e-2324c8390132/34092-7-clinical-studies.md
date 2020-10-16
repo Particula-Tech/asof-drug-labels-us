@@ -72,7 +72,7 @@ Table 6: Overall Survival of Patients Treated with Either Abiraterone Acetate or
 | Median survival (months)(95% CI) | 34.7(3.7, 36.8) | 30.3(28.7, 33.3) |
 | p-value1 | 0.0033 |  |
 | Hazard ratio2 (95% CI) | 0.81 (0.70, 0.93) |  |
-| 1 p-value is derived from a log-rank test stratified by ECOG performance status score (0 vs. 1).2 Hazard Ratio is derived from a stratified proportional hazards model. Hazard ratio <1 favors Abiraterone AcetateFigure 2 Kaplan Meier Overall Survival Curves in Study 2 |  |  |
+| 1 p-value is derived from a log-rank test stratified by ECOG performance status score (0 vs. 1).2 Hazard Ratio is derived from a stratified proportional hazards model. Hazard ratio <1 favors Abiraterone Acetate Figure 2 Kaplan Meier Overall Survival Curves in Study 2 |  |  |
 
 At the pre-specified rPFS analysis, 150 (28%) patients treated with abiraterone acetate and 251 (46%) patients treated with placebo had radiographic progression.
 A significant difference in rPFS between treatment groups was observed (Table 7 and Figure 3).

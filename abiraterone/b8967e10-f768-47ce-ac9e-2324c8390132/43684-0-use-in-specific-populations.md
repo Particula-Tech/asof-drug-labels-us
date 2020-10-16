@@ -4,27 +4,27 @@
 
 Risk Summary
 
-Based on findings from animal studies and the mechanism of action, YONSA is contraindicated for use in pregnant women because the drug can cause fetal harm and potential loss of pregnancy.
-YONSA is not indicated for use in females.
+The safety and efficacy of YONSA have not been established in females.
+Based on findings from animal studies and the mechanism of action, YONSA can cause fetal harm and potential loss of pregnancy.
 
 There are no human data on the use of YONSA in pregnant women.
-In animal reproduction studies, oral administration of abiraterone acetate in pregnant mice during organogenesis, caused adverse developmental effects at maternal exposures of approximately ≥ 0.03 times the human exposure (AUC) at the recommended dose [see Data].
+In animal reproduction studies, oral administration of abiraterone acetate to pregnant rats during organogenesis, caused adverse developmental effects at maternal exposures of approximately ≥ 0.03 times the human exposure (AUC) at the recommended dose (see Data).
 
 Data
 
 Animal Data
 
-In an embryo-fetal developmental toxicity study in rats, abiraterone acetate caused developmental toxicity when administered at oral doses of 10, 30 or 100 mg/kg/day during the period of organogenesis (gestational days 6-17).
+In an embryo-fetal developmental toxicity study in rats, abiraterone acetate caused developmental toxicity when administered at oral doses of 10, 30 or 100 mg/kg/day throughout the period of organogenesis (gestational days 6-17).
 Findings included embryo-fetal lethality (increased post implantation loss and resorptions and decreased number of live fetuses), fetal developmental delay (skeletal effects) and urogenital effects (bilateral ureter dilation) at doses >10 mg/kg/day, decreased fetal ano-genital distance at >30 mg/kg/day, and decreased fetal body weight at 100 mg/kg/day.
 Doses >10 mg/kg/day caused maternal toxicity.
-These doses tested in rats resulted in systemic exposures (AUC) approximately 0.03, 0.1 and 0.3 times, respectively, of the AUC achieved in patients.
+The doses tested in rats resulted in systemic exposures (AUC) approximately 0.03, 0.1 and 0.3 times, respectively, the AUC in patients.
 
 ## 8.2 Lactation
 
 Risk Summary
 
-YONSA is not indicated for use in women.
-There is no information available on the presence of YONSA in human milk, the effects of the drug on the breastfed infant, or the effects of the drug on milk production.
+The safety and efficacy of YONSA have not been established in females.
+There is no information available on the presence of abiraterone acetate in human milk, or on the effects on the breastfed child or milk production.
 
 ## 8.3 Females and Males of Reproductive Potential
 
@@ -32,15 +32,11 @@ Contraception
 
 Males
 
-Based on findings in animal reproduction studies, advise male patients with female partners of reproductive potential to use effective contraception during treatment and for at least 3 weeks after the final dose of YONSA [see Use in Specific Populations (8.1)].
+Based on findings in animal reproduction studies and its mechanism of action, advise male patients with female partners of reproductive potential to use effective contraception during treatment and for 3 weeks after the final dose of YONSA [see Use in Specific Populations (8.1)].
 
 Infertility
 
 Based on animal studies, abiraterone acetate may impair reproductive function and fertility in males of reproductive potential [see Nonclinical Toxicology (13.1)].
-
-## 8.4 Pediatric Use
-
-Safety and effectiveness of abiraterone acetate in pediatric patients have not been established.
 
 ## 8.5 Geriatric Use
 

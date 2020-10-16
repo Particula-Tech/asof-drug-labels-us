@@ -2,15 +2,16 @@
 
 The following are discussed in more detail in other sections of the labeling:
 
-- •Hypertension, Hypokalemia, and Fluid Retention due to Mineralocorticoid Excess [see Warnings and Precautions (5.1)].
-- •Adrenocortical Insufficiency [see Warnings and Precautions (5.2)].
-- •Hepatotoxicity [see Warnings and Precautions (5.3)].
+- Hypokalemia, Fluid Retention, and Cardiovascular Adverse Reactions due to Mineralocorticoid Excess [see Warnings and Precautions (5.1)].
+- Adrenocortical Insufficiency [see Warnings and Precautions (5.2)].
+- Hepatotoxicity [see Warnings and Precautions (5.3)].
+- Increased Fractures and Mortality in Combination with Radium Ra 223 Dichloride [see Warnings and Precautions (5.4)].
 
 ## 6.1 Clinical Trial Experience
 
 Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in clinical practice.
 
-Two randomized placebo-controlled, multicenter clinical trials enrolled patients who had metastatic castration-resistant prostate cancer who were using a gonadotropin-releasing hormone (GnRH) agonist or were previously treated with orchiectomy.
+Two randomized placebo-controlled, multicenter clinical trials (Study 1 and Study 2) enrolled patients who had metastatic castration-resistant prostate cancer who were using a gonadotropin-releasing hormone (GnRH) agonist or were previously treated with orchiectomy.
 In both Study 1 and Study 2 abiraterone acetate was administered at a dose equivalent to 500 mg of YONSA daily in combination with a different corticosteroid twice daily in the active treatment arms.
 Placebo plus corticosteroid was given to control patients.
 
@@ -166,3 +167,5 @@ Respiratory, Thoracic and Mediastinal Disorders: non-infectious pneumonitis.
 Musculoskeletal and Connective Tissue Disorders: myopathy, including rhabdomyolysis.
 
 Hepatobiliary Disorders: fulminant hepatitis, including acute hepatic failure and death.
+
+Cardiac Disorders: QT prolongation and Torsades de Pointes (observed in patients who developed hypokalemia or had underlying cardiovascular conditions).

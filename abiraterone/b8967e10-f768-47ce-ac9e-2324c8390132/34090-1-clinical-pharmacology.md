@@ -21,25 +21,29 @@ Changes in serum prostate specific antigen (PSA) levels may be observed but have
 
 In a clinical study in patients with metastatic CRPC who were treated with YONSA 500 mg once daily and methylprednisolone 4 mg twice daily for 84 days, the average serum testosterone level ± standard deviation (SD) on days 9 and 10 of treatment was 0.33 ± 0.09 ng/dL.
 
+Cardiac Electrophysiology
+
+In a multi-center, open-label, single-arm trial, 33 patients with metastatic CRPC received a dose of 1,000 mg once daily orally of another abiraterone acetate product at least 1 hour before or 2 hours after a meal in combination with a different corticosteroid orally twice daily.
+Assessments up to Cycle 2 Day 2 showed no large changes in the QTc interval (i.e., >20 ms) from baseline.
+However, small increases in the QTc interval (i.e., <10 ms) due to abiraterone acetate cannot be excluded due to study design limitations.
+
 ## 12.3 Pharmacokinetics
 
-Following administration of abiraterone acetate, the pharmacokinetics of abiraterone and abiraterone acetate have been studied in healthy volunteers and in patients with metastatic CRPC.
+Following administration of abiraterone acetate, the pharmacokinetics of abiraterone and abiraterone acetate have been studied in healthy subjects and in patients with metastatic CRPC.
 In vivo, abiraterone acetate is converted to abiraterone.
 In clinical studies of other abiraterone acetate formulations, abiraterone acetate plasma concentrations were below detectable levels (< 0.2 ng/mL) in > 99% of the analyzed samples.
 
-Geometric mean ±SD abiraterone Cmax was 73 ± 44 ng/mL and AUCINF was 373 ± 249 ng·hr/mL following a single dose of YONSA 500 mg in overnight fasted healthy volunteers.
+Geometric mean ±SD abiraterone Cmax was 73 ± 44 ng/mL and AUC0-∞ was 373 ± 249 ng·hr/mL following a single dose of YONSA 500 mg in overnight fasted healthy subjects.
 Dose proportionality was observed in single doses of YONSA in a range of 125 mg to 625 mg.
 
 Absorption
 
-Following oral administration of YONSA to healthy volunteers and patients with metastatic CRPC, the mean time to reach maximum plasma abiraterone concentrations is approximately 2 hours.
+Following oral administration of YONSA to healthy subjects and patients with metastatic CRPC, the median time to reach maximum plasma abiraterone concentrations is 2 hours.
 
 Effect of Food
 
-Abiraterone Cmax was approximately 6.5-fold higher and AUCINF was 4.4-fold higher when a single dose of YONSA 500 mg was administered with a high-fat meal (56-60% fat, 900-1,000 calories) compared to overnight fasting in healthy volunteers.
+Abiraterone Cmax was approximately 6.5-fold higher and AUC0-∞ was 4.4-fold higher when a single dose of YONSA 500 mg was administered with a high-fat meal (56-60% fat, 900-1,000 calories) compared to overnight fasting in healthy subjects.
 
-Other formulations of abiraterone acetate may differ in their food effects and dose.
-This may impact the ability to take other abiraterone formulations with food.
 YONSA can be taken with or without food [see Dosage and Administration (2.2)].
 
 Distribution and Protein Binding
@@ -78,7 +82,7 @@ Systemic exposure to abiraterone after a single oral 1,000 mg dose of another ab
 
 Drug Interactions
 
-In vitro studies with human hepatic microsomes showed that abiraterone has the potential to inhibit CYP1A2, CYP2D6 and CYP2C8 and to a lesser extent CYP2C9, CYP2C19 and CYP3A4/5.
+In vitro studies with human hepatic microsomes showed that abiraterone has the potential to inhibit CYP1A2, CYP2D6, CYP2C8 and to a lesser extent CYP2C9, CYP2C19 and CYP3A4/5.
 
 In an in vivo drug-drug interaction trial, the Cmax and AUC of dextromethorphan (CYP2D6 substrate) were increased 2.8- and 2.9-fold, respectively when dextromethorphan 30 mg was given with 1,000 mg daily of another abiraterone acetate product (plus a different corticosteroid twice daily).
 The AUC for dextrorphan, the active metabolite of dextromethorphan, increased approximately 1.3 fold [see Drug Interactions (7.2)].
@@ -86,7 +90,7 @@ The AUC for dextrorphan, the active metabolite of dextromethorphan, increased ap
 In a clinical study to determine the effects of 1,000 mg daily of another abiraterone acetate product (plus a different corticosteroid twice daily) on a single 100 mg dose of the CYP1A2 substrate theophylline, no increase in systemic exposure of theophylline was observed.
 
 Abiraterone is a substrate of CYP3A4, in vitro.
-In a clinical pharmacokinetic interaction study of healthy subjects, pretreated with a strong CYP3A4 inducer (rifampin, 600 mg daily for 6 days) followed by a single dose of 1,000 mg of another abiraterone acetate product, the mean plasma AUCINF of abiraterone was decreased by 55% [see Drug Interactions (7.1)].
+In a clinical pharmacokinetic interaction study of healthy subjects, pretreated with a strong CYP3A4 inducer (rifampin, 600 mg daily for 6 days) followed by a single dose of 1000 mg of another abiraterone acetate product, the mean plasma AUC∞ of abiraterone was decreased by 55% [see Drug Interactions (7.1)].
 
 In a separate clinical pharmacokinetic interaction study of healthy subjects, co-administration of ketoconazole, a strong inhibitor of CYP3A4, had no clinically meaningful effect on the pharmacokinetics of abiraterone [see Drug Interactions (7.1)].
 
@@ -94,9 +98,3 @@ In a CYP2C8 drug-drug interaction trial in healthy subjects, the AUC of pioglita
 
 In vitro, abiraterone and its major metabolites were shown to inhibit the hepatic uptake transporter OATP1B1.
 There are no clinical data available to confirm transporter based interaction.
-
-## 12.6 QT Prolongation
-
-In a multi-center, open-label, single-arm trial, 33 patients with metastatic CRPC received a dose of 1,000 mg once daily orally of another abiraterone acetate product at least 1 hour before or 2 hours after a meal in combination with a different corticosteroid orally twice daily.
-Assessments up to Cycle 2 Day 2 showed no large changes in the QTc interval (i.e., >20 ms) from baseline.
-However, small increases in the QTc interval (i.e., <10 ms) due to abiraterone acetate cannot be excluded due to study design limitations.
