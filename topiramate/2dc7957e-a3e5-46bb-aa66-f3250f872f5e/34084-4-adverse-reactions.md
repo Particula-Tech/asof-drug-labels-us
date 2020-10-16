@@ -9,9 +9,10 @@ The following serious adverse reactions are discussed in more detail in other se
 - Suicidal Behavior and Ideation [see Warnings and Precautions (5.6)]
 - Cognitive/Neuropsychiatric Adverse Reactions [see Warnings and Precautions (5.7)]
 - Withdrawal of Antiepileptic Drugs [see Warnings and Precautions (5.9)]
-- Hyperammonemia and Encephalopathy (Without and With Concomitant Valproic Acid Use) [see Warnings and Precautions (5.10)]
-- Kidney Stones [see Warnings and Precautions (5.11)]
-- Hypothermia With Concomitant Valproic Acid Use [see Warnings and Precautions (5.12)]
+- Serious Skin Reactions [see Warnings and Precautions (5.10)]
+- Hyperammonemia and Encephalopathy (Without and With Concomitant Valproic Acid Use) [see Warnings and Precautions (5.11)]
+- Kidney Stones [see Warnings and Precautions (5.12)]
+- Hypothermia With Concomitant Valproic Acid Use [see Warnings and Precautions (5.13)]
 
 The data described in the following sections were obtained using immediate-release topiramate tablets.
 TROKENDI XR ® has not been studied in a randomized, placebo-controlled Phase III clinical study; however, it is expected that TROKENDI XR ® would produce a similar adverse reaction profile as immediate-release topiramate.
@@ -374,7 +375,7 @@ Laboratory Test Abnormalities
 
 Adult Patients
 
-In addition to changes in serum bicarbonate (i.e., metabolic acidosis), sodium chloride, and ammonia, immediate-release topiramate was associated with changes in several clinical laboratory analytes in randomized, double-blind, placebo-controlled studies [see Warnings and Precautions (5.4, 5.10)].
+In addition to changes in serum bicarbonate (i.e., metabolic acidosis), sodium chloride, and ammonia, immediate-release topiramate was associated with changes in several clinical laboratory analytes in randomized, double-blind, placebo-controlled studies [see Warnings and Precautions (5.4, 5.11)].
 Controlled trials of adjunctive topiramate treatment of adults for partial-onset seizures showed an increased incidence of markedly decreased serum phosphorus (6% topiramate versus 2% placebo), markedly increased serum alkaline phosphatase (3% topiramate versus 1% placebo), and decreased serum potassium (0.4% topiramate versus 0.1% placebo).
 
 Pediatric Patients
@@ -392,13 +393,13 @@ TROKENDI XR ® is not indicated for prophylaxis of migraine headache in pediatri
 The following adverse reactions have been identified during post-approval use of immediate-release topiramate.
 Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
 
-Body as a Whole-General Disorders: oligohydrosis and hyperthermia [see Warnings and Precautions (5.3)], hyperammonemia, hyperammonemic encephalopathy [see Warnings and Precautions (5.10)], hypothermia with concomitant valproic acid [see Warnings and Precautions 5.12)].
+Body as a Whole-General Disorders: oligohydrosis and hyperthermia [see Warnings and Precautions (5.3)], hyperammonemia, hyperammonemic encephalopathy [see Warnings and Precautions (5.11)], hypothermia with concomitant valproic acid [see Warnings and Precautions 5.13)].
 
 Gastrointestinal System Disorders: hepatic failure (including fatalities), hepatitis, pancreatitis
 
 Skin and Appendage Disorders: bullous skin reactions (including erythema multiforme, Stevens-Johnson syndrome, toxic epidermal necrolysis), pemphigus
 
-Urinary System Disorders: kidney stones, nephrocalcinosis [see Warnings and Precautions (5.11)]
+Urinary System Disorders: kidney stones, nephrocalcinosis [see Warnings and Precautions (5.12)]
 
 Vision disorders: acute myopia, secondary angle closure glaucoma [see Warnings and Precautions (5.1)], maculopathy
 

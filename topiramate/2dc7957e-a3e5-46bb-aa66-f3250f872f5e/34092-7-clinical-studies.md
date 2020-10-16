@@ -210,7 +210,7 @@ The percent reduction from baseline to the last 12 weeks of the double-blind pha
 The 100 mg immediate-release topiramate dose produced a statistically significant treatment difference relative to placebo of 28% reduction from baseline in the monthly migraine attack rate.
 
 The mean reduction from baseline to the last 12 weeks of the double-blind phase in average monthly attack rate, a key secondary efficacy endpoint in Study 13 (and the primary efficacy endpoint in Studies 11 and 12, of adults) was 3.0 for 100 mg immediate-release topiramate dose and 1.7 for placebo.
-This 1.3 treatment difference in mean reduction from baseline of montly migraine rate was statistically significant (p=0.0087).
+This 1.3 treatment difference in mean reduction from baseline of monthly migraine rate was statistically significant (p=0.0087).
 
 Table 11: Percent Reduction from Baseline to the Last 12 Weeks of Double-Blind Phase in Average Monthly Attack Rate: Study 13 (Intent-to-Treat Analysis Set)
 

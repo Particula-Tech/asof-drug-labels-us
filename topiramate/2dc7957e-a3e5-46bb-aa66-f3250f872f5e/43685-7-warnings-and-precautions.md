@@ -156,7 +156,14 @@ If this drug is used during pregnancy, or if the patient becomes pregnant while 
 In patients with or without a history of seizures or epilepsy, antiepileptic drugs, including TROKENDI XR ®, should be gradually withdrawn to minimize the potential for seizures or increased seizure frequency [see Clinical Studies (14)].
 In situations where rapid withdrawal of TROKENDI XR ® is medically required, appropriate monitoring is recommended.
 
-## 5.10 Hyperammonemia and Encephalopathy (Without and With Concomitant Valproic Acid Use)
+## 5.10 Serious Skin Reactions
+
+Serious skin reactions (Stevens-Johnson Syndrome [SJS] and Toxic Epidermal Necrolysis [TEN]) have been reported in patients receiving topiramate.
+TROKENDI XR ® should be discontinued at the first sign of a rash, unless the rash is clearly not drug-related.
+If signs or symptoms suggest SJS/TEN, use of this drug should not be resumed and alternative therapy should be considered.
+Inform patients about the signs of serious skin reactions.
+
+## 5.11 Hyperammonemia and Encephalopathy (Without and With Concomitant Valproic Acid Use)
 
 Topiramate treatment can cause hyperammonemia with or without encephalopathy [see Adverse Reactions (6.2)].
 The risk for hyperammonemia with topiramate appears dose-related.
@@ -180,7 +187,7 @@ Although not studied, topiramate or TROKENDI XR ® treatment or an interaction o
 
 In patients who develop unexplained lethargy, vomiting, or changes in mental status associated with any topiramate treatment, hyperammonemic encephalopathy should be considered and an ammonia level should be measured.
 
-## 5.11 Kidney Stones
+## 5.12 Kidney Stones
 
 Topiramate increases the risk of kidney stones.
 During adjunctive epilepsy trials, the risk for kidney stones in immediate-release topiramate-treated adults was 1.5%, an incidence about 2 to 4 times greater than expected in a similar, untreated population.
@@ -197,7 +204,7 @@ The concomitant use of TROKENDI XR ® with any other drug producing metabolic ac
 Increased fluid intake increases the urinary output, lowering the concentration of substances involved in stone formation.
 Hydration is recommended to reduce new stone formation.
 
-## 5.12 Hypothermia With Concomitant Valproic Acid Use
+## 5.13 Hypothermia With Concomitant Valproic Acid Use
 
 Hypothermia, defined as a drop in body core temperature to < 35ºC (95ºF), has been reported in association with topiramate use with concomitant valproic acid (VPA) both in conjunction with and in the absence of hyperammonemia.
 This adverse reaction in patients using concomitant topiramate and valproate can occur after starting topiramate treatment or after increasing the daily dose of topiramate [see Drug Interactions (7.2)].

@@ -110,7 +110,7 @@ These include, but are not limited to:
 
 - oligohydrosis and hyperthermia [see Warnings and Precautions (5.3)]
 - dose-related increased incidence of metabolic acidosis [see Warnings and Precautions (5.4)]
-- dose-related increased incidence of hyperammonemia [see Warnings and Precautions (5.10)]
+- dose-related increased incidence of hyperammonemia [see Warnings and Precautions (5.11)]
 
 Not Recommended for Pediatric Patients Younger than 6 Years of Age
 
@@ -140,7 +140,7 @@ The incidence of these abnormal shifts was 6 % for placebo, 10% for 5 mg/kg/day,
 There was a mean dose-related increase in alkaline phosphatase.
 The significance of these findings is uncertain.
 
-Topiramate produced a dose-related increased incidence of hyperammonemia [see Warnings and Precautions (5.10)].
+Topiramate produced a dose-related increased incidence of hyperammonemia [see Warnings and Precautions (5.11)].
 
 Treatment with immediate-release topiramate for up to 1 year was associated with reductions in Z SCORES for length, weight, and head circumference [see Warnings and Precautions (5.4) and Adverse Reactions (6)].
 
