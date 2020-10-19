@@ -33,5 +33,7 @@ Omeprazole Delayed-Release Capsules
 
 Distributed by: Lannett Company, Inc. Philadelphia, PA 19136
 
-CIA74312R Rev.
-06/2020
+Dispense with Medication Guide available at: www.lannett.com/med-guide/omeprazole
+
+CIA74312S Rev.
+09/2020

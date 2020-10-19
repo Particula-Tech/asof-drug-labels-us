@@ -1,6 +1,6 @@
 # MEDICATION GUIDE
 
-| Omeprazole (oh-MEP-ra-zole) Delayed-Release Capsules, USP CIA77775N Rev. 06/2020 |
+| Dispense with Medication Guide available at: www.lannett.com/med-guide/omeprazoleOmeprazole (oh-MEP-ra-zole) Delayed-Release Capsules, USP |
 | --- |
 | Read this Medication Guide before you start taking Omeprazole Delayed-Release Capsules and each time you get a refill. There may be new information. This information does not take the place of talking with your doctor about your medical condition or your treatment. |
 | What is the most important information I should know about Omeprazole Delayed-Release Capsules? Omeprazole Delayed-Release Capsules may help your acid-related symptoms, but you could still have serious stomach problems. Talk with your doctor. Omeprazole Delayed-Release Capsules can cause serious side effects, including: A type of kidney problem (tubulointerstitial nephritis). Some people who take proton pump inhibitor (PPI) medicines, including Omeprazole Delayed-Release Capsules, may develop a kidney problem called tubulointerstitial nephritis that can happen at any time during treatment with Omeprazole Delayed-Release Capsules. Call your doctor if you have a decrease in the amount that you urinate or if you have blood in your urine.Diarrhea. Omeprazole Delayed-Release Capsules may increase your risk of getting severe diarrhea. This diarrhea may be caused by an infection (Clostridium difficile) in your intestines.Call your doctor right away if you have watery stool, stomach pain, and fever that does not go away. Bone fractures. People who take multiple daily doses of PPI medicines for a long period of time (a year or longer) may have an increased risk of fractures of the hip, wrist, or spine. You should take Omeprazole Delayed-Release Capsules exactly as prescribed, at the lowest dose possible for your treatment and for the shortest time needed. Talk to your doctor about your risk of bone fracture if you take Omeprazole Delayed-Release Capsules. Certain types of lupus erythematosus. Lupus erythematosus is an autoimmune disorder (the body’s immune cells attack other cells or organs in the body). Some people who take proton PPI medicines, including Omeprazole Delayed-Release Capsules, may develop certain types of lupus erythematosus or have worsening of the lupus they already have. Call your doctor right away if you have new or worsening joint pain or a rash on your cheeks or arms that gets worse in the sun. Omeprazole Delayed-Release Capsules can have other serious side effects. See “What are the possible side effects of Omeprazole Delayed-Release Capsules?” |
@@ -16,6 +16,6 @@
 
 This Medication Guide and Instructions for Use has been approved by the U.S. Food and Drug Administration.
 
-CIA77775N
+CIA77775P
 
-Revised: 06/2020
+Revised: 09/2020
