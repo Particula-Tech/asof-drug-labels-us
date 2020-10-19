@@ -51,12 +51,10 @@ Before taking tadalafil tablets, tell your healthcare provider about all of your
 - are allergic to tadalafil tablets or CIALIS or any of its ingredients.
   See the end of this leaflet for a complete list of ingredients in tadalafil tablets.
 - have pulmonary veno-occlusive disease (PVOD)
-- have heart problems such as angina (chest pain), heart failure, irregular heartbeats, or have had a heart attack
-- have low blood pressure or high blood pressure that is not controlled
-- have had a stroke
+- have heart problems
+- have low blood pressure
 - have liver problems
 - have kidney problems or get dialysis
-- have stomach ulcers
 - have retinitis pigmentosa, a rare genetic eye disease
 - have ever had any sudden vision loss, including any damage to your optic nerve or NAION.
 - have ever had hearing problems such as ringing in the ears, dizziness, or loss of hearing
@@ -64,10 +62,9 @@ Before taking tadalafil tablets, tell your healthcare provider about all of your
 - have had an erection that lasted more than 4 hours
 - have blood cell problems such as sickle cell anemia, multiple myeloma, or leukemia
 - are pregnant or planning to become pregnant.
-  It is not known if tadalafil tablets will harm your unborn baby.
   Talk to your healthcare provider if you are pregnant or plan to become pregnant.
 - are breastfeeding or plan to breast feed.
-  It is not known if tadalafil passes into your breast milk.
+  If you breastfeed while taking tadalafil tablets, it is likely that tadalafil tablets will pass into your breast milk.
   You and your healthcare provider should decide if you will take tadalafil tablets or breastfeed.
   You should not do both.
 
@@ -77,9 +74,6 @@ Tadalafil tablets and other medicines may affect each other.
 Especially tell your healthcare provider if you take any of these medicines:
 
 - nitrates or guanylate cyclase stimulators (see "What is the most important information I should know about tadalafil tablets?")
-- anti-hypertensives, used to treat high blood pressure.
-  Your blood pressure could suddenly drop.
-  You could get dizzy or faint.
 - alpha blockers, used to treat prostate disease and high blood pressure.
   Your blood pressure could suddenly drop.
   You could get dizzy or faint.
@@ -191,4 +185,4 @@ Nagpur 441 108
 
 INDIA
 
-October 2018 ID#:256095
+November 2020 ID#:266684

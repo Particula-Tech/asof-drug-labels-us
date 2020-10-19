@@ -17,18 +17,18 @@ The majority of subjects had a World Health Organization (WHO) Functional Class 
 The mean baseline 6 minute walk distance (6-MWD) was 343 meters.
 Of the 405 subjects, 341 completed the study.
 
-The primary efficacy endpoint was the change from baseline at week 16 in 6-MWD (see Figure 1).
+The primary efficacy endpoint was the change from baseline at week 16 in 6-MWD (see Figure 4).
 In the tadalafil 40 mg treatment group, the placebo-adjusted mean change increase in 6-MWD was 33 meters (95% C.I.
 15 to 50 meters; p=0.0004).
 The improvement in 6-MWD was apparent at 8 weeks of treatment and then maintained at week 12 and week 16.
 
-Figure 1: 6-Minute Walk Distance (meters) Mean Change from Baseline, with 95% Confidence Intervals
+Figure 4: 6-Minute Walk Distance (meters) Mean Change from Baseline, with 95% Confidence Intervals
 
-Placebo-adjusted changes in 6-MWD at 16 weeks were evaluated in subgroups (see Figure 2).
+Placebo-adjusted changes in 6-MWD at 16 weeks were evaluated in subgroups (see Figure 5).
 In patients taking only tadalafil 40 mg (i.e., without concomitant bosentan), the placebo-adjusted mean change in 6-MWD was 44 meters.
 In patients taking tadalafil 40 mg and concomitant bosentan therapy, the placebo adjusted mean change in 6-MWD was 23 meters.
 
-Figure 2: Placebo-adjusted Mean Change in 6-Minute Walk Distance (meters) of Tadalafil 40 mg, with 95% Confidence Intervals
+Figure 5: Placebo-adjusted Mean Change in 6-Minute Walk Distance (meters) of Tadalafil 40 mg, with 95% Confidence Intervals
 
 There was less clinical worsening (defined as death, lung transplantation, atrial septostomy, hospitalization because of worsening PAH, initiation of new PAH therapy [prostacyclin or analog, endothelin receptor antagonist, PDE5 inhibitor], or worsening WHO functional class) in the tadalafil 40 mg group compared to the placebo group and the groups that used lower doses of tadalafil.
 
@@ -44,13 +44,9 @@ Table 2: Number (percent) with Clinical Worsening a
 | Worsening WHO class | 11 | 10 | 6 | 6 | 3 |
 | a Subjects may be counted in more than one category |  |  |  |  |  |
 
-The Kaplan-Meier plot of times to clinical worsening is shown below in Figure 3.
+The Kaplan-Meier plot of times to clinical worsening is shown below in Figure 6.
 
-Double click here to open Word Application.
-
-Write ordered list in to word document.
-
-Close Word Application.
+Figure 6: Kaplan-Meier Plot of Time to Clinical Worsening
 
 ## 14.2 Long-Term Treatment of Pulmonary Arterial Hypertension
 

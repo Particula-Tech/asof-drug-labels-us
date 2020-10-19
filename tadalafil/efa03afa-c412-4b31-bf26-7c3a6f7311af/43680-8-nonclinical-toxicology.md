@@ -10,7 +10,7 @@ Systemic drug exposures, as measured by AUC of unbound tadalafil, were approxima
 Mutagenesis
 
 Tadalafil was not mutagenic in the in vitro bacterial Ames assays or the forward mutation test in mouse lymphoma cells.
-Tadalafil was not clastogenic in the in vitro chromosomal aberration test in human lymphocytes or the in vivo rat micronucleus assays.
+Tadalafil was not clastogenic in the in vitro chromosomal aberration test Page 18 of 26 in human lymphocytes or the in vivo rat micronucleus assays.
 
 Impairment of Fertility
 
@@ -27,15 +27,3 @@ In mice and rats, lymphoid necrosis and hemorrhage were seen in the spleen, thym
 In dogs, an increased incidence of disseminated arteritis was observed in 1– and 6-month studies at unbound tadalafil exposure of 0.5– to 38–fold the human exposure (AUC) at the MRHD of 40 mg.
 In a 12–month dog study, no disseminated arteritis was observed, but 2 dogs exhibited marked decreases in white blood cells (neutrophils) and moderate decreases in platelets with inflammatory signs at unbound tadalafil exposures of approximately 4– to 10–fold the human exposure at the MRHD of 40 mg.
 The abnormal blood–cell findings were reversible within 2 weeks upon removal of the drug.
-
-## 13.3 Reproductive Toxicology Studies
-
-Reproduction studies have been performed in rats and mice at exposures up to 17 times the MRHD of 40 mg and have revealed no evidence of impaired fertility or harm to the fetus because of tadalafil.
-In addition, there was no evidence of teratogenicity, embryotoxicity, or fetotoxicity when tadalafil was given to pregnant rats or mice at exposures up to 7 times the MRHD during the period of major organ development.
-
-In a rat prenatal and postnatal development study at doses of 60, 200, and 1000 mg/kg, a reduction in postnatal survival of pups was observed.
-The no-observed-effect-level (NOEL) for maternal toxicity was 200 mg/kg/day and for developmental toxicity was 30 mg/kg/day.
-This gives approximately 8- and 5-fold exposure multiples, respectively, of the human AUC for the MRHD of 40 mg.
-Tadalafil and/or its metabolites cross the placenta, resulting in fetal exposure in rats.
-
-Tadalafil and/or its metabolites were secreted into the milk in lactating rats at concentrations approximately 2.4– fold greater than found in the plasma.
