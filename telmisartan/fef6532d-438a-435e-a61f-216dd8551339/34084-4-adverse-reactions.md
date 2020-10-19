@@ -37,9 +37,7 @@ The incidence of cough occurring with telmisartan in 6 placebo-controlled trials
 In addition to those listed above, adverse events that occurred in more than 0.3% of 3500 patients treated with telmisartan monotherapy in controlled or open trials are listed below.
 It cannot be determined whether these events were causally related to telmisartan tablets:
 
-Autonomic Nervous System: impotence, increased sweating, flushing; Body as a Whole: allergy, fever, leg pain, malaise; Cardiovascular: palpitation, dependent edema, angina pectoris, tachycardia, leg edema, abnormal ECG; CNS: insomnia, somnolence, migraine, vertigo, paresthesia, involuntary muscle contractions, hypoesthesia; Gastrointestinal: flatulence, constipation, gastritis, vomiting, dry mouth, hemorrhoids, gastroenteritis, enteritis, gastroesophageal reflux, toothache, non-­specific gastrointestinal disorders; Metabolic: gout, hypercholesterolemia, diabetes mellitus; Musculoskeletal: arthritis, arthralgia, leg cramps; Psychiatric: anxiety, depression, nervousness; Resistance Mechanism: infection, fungal infection, abscess, otitis media; Respiratory: asthma, bronchitis, rhinitis, dyspnea, epistaxis; Skin: dermatitis, rash, eczema, pruritus; Urinary: micturition frequency, cystitis;
-
-Vascular: cerebrovascular disorder; and Special Senses: abnormal vision, conjunctivitis, tinnitus, earache.
+Autonomic Nervous System: impotence, increased sweating, flushing; Body as a Whole: allergy, fever, leg pain, malaise; Cardiovascular: palpitation, dependent edema, angina pectoris, tachycardia, leg edema, abnormal ECG; CNS: insomnia, somnolence, migraine, vertigo, paresthesia, involuntary muscle contractions, hypoesthesia; Gastrointestinal: flatulence, constipation, gastritis, vomiting, dry mouth, hemorrhoids, gastroenteritis, enteritis, gastroesophageal reflux, toothache, non-­specific gastrointestinal disorders; Metabolic: gout, hypercholesterolemia, diabetes mellitus; Musculoskeletal: arthritis, arthralgia, leg cramps; Psychiatric: anxiety, depression, nervousness; Resistance Mechanism: infection, fungal infection, abscess, otitis media; Respiratory: asthma, bronchitis, rhinitis, dyspnea, epistaxis; Skin: dermatitis, rash, eczema, pruritus; Urinary: micturition frequency, cystitis; Vascular: cerebrovascular disorder; and Special Senses: abnormal vision, conjunctivitis, tinnitus, earache.
 
 During initial clinical studies, a single case of angioedema was reported (among a total of 3781 patients treated).
 
@@ -55,6 +53,9 @@ One telmisartan-treated patient discontinued therapy because of increases in cre
 
 Liver Enzymes: Occasional elevations of liver chemistries occurred in patients treated with telmisartan; all marked elevations occurred at a higher frequency with placebo.
 No telmisartan-treated patients discontinued therapy because of abnormal hepatic function.
+Cardiovascular Risk Reduction Because common adverse reactions were well characterized in studies of telmisartan in hypertension, only adverse events leading to discontinuation and serious adverse events were recorded in subsequent studies of telmisartan for cardiovascular risk reduction.
+In TRANSCEND (N=5926, 4 years and 8 months of follow-up), discontinuations for adverse events were 8.4% on telmisartan and 7.6% on placebo.
+The only serious adverse events at least 1% more common on telmisartan than placebo were intermittent claudication (7% vs 6%) and skin ulcer (3% vs 2%).
 
 ## 6.2 Postmarketing Experience
 

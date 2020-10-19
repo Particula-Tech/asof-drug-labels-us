@@ -21,6 +21,7 @@ What are telmisartan tablets?
 Telmisartan tablets are a prescription medicine used:
 
 - to treat high blood pressure (hypertension)
+- in certain high risk people aged 55 years and older to help lower their risk of having certain cardiovascular problems such as heart attack, or death
 
 It is not known if telmisartan tablets are safe and effective in children.
 
@@ -83,7 +84,6 @@ Telmisartan tablets may cause serious side effects, including:
 
 - Injury or death to your unborn baby.
   See “What is the most important information I should know about telmisartan tablets?”
-
 - Low blood pressure (hypotension) is most likely to happen if you also:
   - take water pills (diuretics)
   - are on a low-salt diet
@@ -159,6 +159,8 @@ Medicines that lower your blood pressure lower your chance of having a stroke or
 
 High blood pressure makes the heart work harder to pump blood throughout the body and causes damage to the blood vessels.
 If high blood pressure is not treated, it can lead to stroke, heart attack, heart failure, kidney failure, and vision problems.
+What is Cardiovascular Risk?
+Patients older than 55 years of age who have been diagnosed with blood vessel disease in the heart, legs, or brain (coronary, peripheral, or cerebral vascular disease) or diabetes with end organ damage (for example: kidney, heart, and brain) are at higher risk of cardiovascular events (for example: death from cardiovascular causes, and/or heart attack).
 
 How to open the blister: 1.
 Bend & Tear (You may also use scissors to tear the blister apart) 2.
@@ -168,4 +170,4 @@ This Patient Information has been approved by the U.S. Food and Drug Administrat
 
 The brands listed are trademarks of their respective owners and are not trademarks of Aurobindo Pharma Limited.
 
-Distributed by: Aurobindo Pharma USA, Inc. 279 Princeton-Hightstown Road East Windsor, NJ 08520 Manufactured by: Aurobindo Pharma Limited Hyderabad-500 038, India Revised: 05/2019
+Distributed by: Aurobindo Pharma USA, Inc. 279 Princeton-Hightstown Road East Windsor, NJ 08520 Manufactured by: Aurobindo Pharma Limited Hyderabad-500 038, India Revised: 10/2020
