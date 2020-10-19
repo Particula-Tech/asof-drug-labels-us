@@ -10,11 +10,11 @@ In addition to blocking sodium channels, amiodarone blocks myocardial potassium 
 The antisympathetic action and the block of calcium and potassium channels are responsible for the negative dromotropic effects on the sinus node and for the slowing of conduction and prolongation of refractoriness in the atrioventricular (AV) node.
 Its vasodilatory action can decrease cardiac workload and consequently myocardial oxygen consumption.
 
-Amiodarone hydrochloride prolongs the duration of the action potential of all cardiac fibers while causing minimal reduction of dV/dt (maximal upstroke velocity of the action potential).
+Pacerone prolongs the duration of the action potential of all cardiac fibers while causing minimal reduction of dV/dt (maximal upstroke velocity of the action potential).
 The refractory period is prolonged in all cardiac tissues.
 Amiodarone hydrochloride increases the cardiac refractory period without influencing resting membrane potential, except in automatic cells where the slope of the prepotential is reduced, generally reducing automaticity.
 These electrophysiologic effects are reflected in a decreased sinus rate of 15% to 20%, increased PR and QT intervals of about 10%, the development of U-waves, and changes in T-wave contour.
-These changes should not require discontinuation of amiodarone hydrochloride as they are evidence of its pharmacological action, although amiodarone hydrochloride can cause marked sinus bradycardia or sinus arrest and heart block [see Warnings and Precautions (5.4)].
+These changes should not require discontinuation of Pacerone as they are evidence of its pharmacological action, although Pacerone can cause marked sinus bradycardia or sinus arrest and heart block [see Warnings and Precautions (5.4)].
 
 Hemodynamics
 
@@ -52,8 +52,8 @@ The mean AUC and mean Cmax of the major metabolite of amiodarone, DEA increased 
 
 Distribution
 
-Amiodarone hydrochloride is highly protein-bound (approximately 96%).
-Amiodarone hydrochloride has a very large but variable volume of distribution, averaging about 60 L/kg, because of extensive accumulation in various sites, especially adipose tissue and highly perfused organs, such as the liver, lung, and spleen.
+Pacerone is highly protein-bound (approximately 96%).
+Pacerone has a very large but variable volume of distribution, averaging about 60 L/kg, because of extensive accumulation in various sites, especially adipose tissue and highly perfused organs, such as the liver, lung, and spleen.
 
 One major metabolite of amiodarone hydrochloride, DEA, has been identified in man; it accumulates to an even greater extent in almost all tissues.
 No data are available on the activity of DEA in humans, but in animals, it has significant electrophysiologic and antiarrhythmic effects generally similar to amiodarone itself.
@@ -70,7 +70,7 @@ For the metabolite, the mean plasma-elimination half-life was approximately 61 d
 These data probably reflect an initial elimination of drug from well-perfused tissue (the 2.5- to 10-day half-life phase), followed by a terminal phase representing extremely slow elimination from poorly perfused tissue compartments such as fat.
 
 The considerable inter-subject variation in both phases of elimination, as well as uncertainty as to what compartment is critical to drug effect, requires attention to individual responses once arrhythmia control is achieved with loading doses because the correct maintenance dose is determined, in part, by the elimination rates.
-Individualize maintenance doses of amiodarone hydrochloride [see Dosage and Administration (2)].
+Individualize maintenance doses of Pacerone tablets [see Dosage and Administration (2)].
 
 Metabolism
 
@@ -107,7 +107,7 @@ Cimetidine inhibits CYP3A and can increase serum amiodarone levels.
 Cholestyramine reduces enterohepatic circulation of amiodarone thereby increasing its elimination.
 This results in reduced amiodarone serum levels and half-life.
 
-Effects of amiodarone on agents:
+Effects of amiodarone on agents
 
 CYP3A substrates:
 

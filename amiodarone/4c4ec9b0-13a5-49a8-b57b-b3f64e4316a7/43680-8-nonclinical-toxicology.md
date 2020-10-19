@@ -3,7 +3,7 @@
 ## 13.1 Carcinogenesis, Mutagenesis, Impairment of Fertility
 
 Amiodarone hydrochloride was associated with a statistically significant, dose-related increase in the incidence of thyroid tumors (follicular adenoma and/or carcinoma) in rats.
-The incidence of thyroid tumors was greater than control at the lowest dose level tested, i.e., 5 mg/kg/day (approximately 0.08 times the maximum recommended human maintenance dose600 mg in a 60 kg patient (dose compared on a body surface area basis)).
+The incidence of thyroid tumors was greater than control at the lowest dose level tested, i.e., 5 mg/kg/day (approximately 0.08 times the maximum recommended human maintenance dose 600 mg in a 60 kg patient (dose compared on a body surface area basis)).
 
 Mutagenicity studies (Ames, micronucleus, and lysogenic tests) with amiodarone hydrochloride were negative.
 

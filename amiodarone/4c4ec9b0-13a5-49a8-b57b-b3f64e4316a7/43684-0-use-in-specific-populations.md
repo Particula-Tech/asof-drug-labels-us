@@ -4,7 +4,7 @@
 
 Risk Summary
 
-Available data from postmarketing reports and published case series indicate that amiodarone use in pregnant women may increase the risk for fetal adverse effects including neonatal hypo- and hyperthyroidism, neonatal bradycardia, neurodevelopmental abnormalities, preterm birth and fetal growth restriction.
+Available data from post-marketing reports and published case series indicate that amiodarone use in pregnant women may increase the risk for fetal adverse effects including neonatal hypo- and hyperthyroidism, neonatal bradycardia, neurodevelopmental abnormalities, preterm birth and fetal growth restriction.
 Amiodarone and its metabolite, desethylamiodarone (DEA), cross the placenta.
 Untreated underlying arrhythmias, including ventricular arrhythmias, during pregnancy pose a risk to the mother and fetus (see Clinical Considerations).
 In animal studies, administration of amiodarone to rabbits, rats, and mice during organogenesis resulted in embryo-fetal toxicity at doses less than the maximum recommended human maintenance dose (see Data).
@@ -16,7 +16,7 @@ In the U.S. general population, the estimated background risk of major birth def
 
 Clinical Considerations
 
-Disease-associated maternal and/or embryo/fetal Risk
+Disease-associated maternal and/or embryo/fetal risk
 
 The incidence of ventricular tachycardia is increased and may be more symptomatic during pregnancy.
 Ventricular arrhythmias most often occur in pregnant women with underlying cardiomyopathy, congenital heart disease, valvular heart disease, or mitral valve prolapse.
@@ -32,7 +32,7 @@ Monitor the newborn for signs and symptoms of thyroid disorder and cardiac arrhy
 Labor and Delivery
 
 Risk of arrhythmias may increase during labor and delivery.
-Patients treated with Pacerone tablets should be monitored continuously during labor and delivery [see Warnings and Precautions (5.4)].
+Patients treated with Pacerone should be monitored continuously during labor and delivery [see Warnings and Precautions (5.4)].
 
 Data
 
@@ -49,18 +49,18 @@ Risk Summary
 
 Amiodarone and one of its major metabolites, DEA, are present in breastmilk at between 3.5% and 45% of the maternal weight-adjusted dosage of amiodarone.
 There are cases of hypothyroidism and bradycardia in breastfed infants, although it is unclear if these effects are due to amiodarone exposure in breastmilk.
-Breastfeeding is not recommended during treatment with Pacerone tablets [see Warnings and Precautions (5.6, 5.7)].
+Breastfeeding is not recommended during treatment with Pacerone [see Warnings and Precautions (5.6, 5.7)].
 
 ## 8.3 Females and Males of Reproductive Potential
 
 Infertility
 
-Based on animal fertility studies, Pacerone tablets may reduce female and male fertility.
+Based on animal fertility studies, amiodarone hydrochloride may reduce female and male fertility.
 It is not known if this effect is reversible [see Nonclinical Toxicology (13.1)].
 
 ## 8.4 Pediatric Use
 
-The safety and effectiveness of Pacerone tablets in pediatric patients have not been established.
+The safety and effectiveness of Pacerone in pediatric patients have not been established.
 
 ## 8.5 Geriatric Use
 

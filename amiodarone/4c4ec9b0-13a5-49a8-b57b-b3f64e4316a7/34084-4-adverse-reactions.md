@@ -15,9 +15,9 @@ The following serious adverse reactions are described in more detail in other se
 
 Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in practice.
 
-At the usual maintenance dose (400 mg/day) and above, amiodarone causes adverse reactions in about three-fourths of all patients, resulting in discontinuation in 7% to 18%.
+At the usual maintenance dose (400 mg/day) and above, amiodarone hydrochloride causes adverse reactions in about three-fourths of all patients, resulting in discontinuation in 7% to 18%.
 
-In surveys of almost 5,000 patients treated in open U.S. studies and in published reports of treatment with amiodarone, the adverse reactions most frequently requiring discontinuation of amiodarone included pulmonary infiltrates or fibrosis, paroxysmal ventricular tachycardia, congestive heart failure, and elevation of liver enzymes.
+In surveys of almost 5,000 patients treated in open U.S. studies and in published reports of treatment with amiodarone hydrochloride, the adverse reactions most frequently requiring discontinuation of amiodarone hydrochloride included pulmonary infiltrates or fibrosis, paroxysmal ventricular tachycardia, congestive heart failure, and elevation of liver enzymes.
 Other symptoms causing discontinuations less often included visual disturbances, photosensitivity, blue skin discoloration, hyperthyroidism, and hypothyroidism.
 
 The following side-effect rates are based on a retrospective study of 241 patients treated for 2 to 1,515 days (mean 441.3 days):
@@ -62,9 +62,9 @@ Common: Flushing, abnormal taste and smell, edema, abnormal salivation, coagulat
 
 Uncommon: Blue skin discoloration, rash, spontaneous ecchymosis, alopecia, hypotension, and cardiac conduction abnormalities.
 
-## 6.2 Postmarketing Experience
+## 6.2 Post-marketing Experience
 
-The following adverse reactions have been identified during post-approval use of amiodarone.
+The following adverse reactions have been identified during post-approval use of amiodarone hydrochloride.
 Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
 
 Hematologic: hemolytic anemia, aplastic anemia, pancytopenia, neutropenia, thrombocytopenia, agranulocytosis, granuloma.

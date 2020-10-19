@@ -5,7 +5,7 @@ Advise the patient to read the FDA-approved patient labeling (Medication Guide).
 Advise pregnant women of the potential risk to a fetus.
 Advise females of reproductive potential to inform their prescriber of a known or suspected pregnancy [see Use in Specific Populations (8.1)].
 
-Advise women that breastfeeding is not recommended during treatment with Pacerone tablets [see Use in Specific Populations (8.2)].
+Advise women that breastfeeding is not recommended during treatment with Pacerone [see Use in Specific Populations (8.2)].
 
 Advise patients to avoid grapefruit juice and St. John's Wort.
 
