@@ -1,13 +1,21 @@
 {
   "application_numbers": [
-    "ANDA203972"
+    "ANDA203972",
+    "ANDA208266"
   ],
   "inn": "dexmedetomidine",
   "labeler": "Par Pharmaceutical, Inc.",
   "package_ndcs": [
-    "42023-146-25"
+    "42023-146-25",
+    "42023-186-20",
+    "42023-187-10"
   ],
   "products": [
+    {
+      "form": "INJECTION, SOLUTION",
+      "generic": "dexmedetomidine hydrochloride",
+      "name": "Dexmedetomidine Hydrochloride"
+    },
     {
       "form": "INJECTION, SOLUTION, CONCENTRATE",
       "generic": "dexmedetomidine hydrochloride",

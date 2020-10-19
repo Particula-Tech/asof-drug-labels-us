@@ -12,6 +12,8 @@ Table 1: Dosage Information
 
 | INDICATION | DOSAGE AND ADMINISTRATION |
 | --- | --- |
+| Initiation of Intensive CareUnit Sedation | For adult patients: a loading infusion of one mcg/kg over 10 minutes.For adult patients being converted from alternate sedative therapy: a loading dose may not be required.For patients over 65 years of age: a dose reduction should be considered [see Use in Specific Populations (8.5)].For adult patients with impaired hepatic function: a dose reduction should be considered [see Use in Specific Populations (8.6), Clinical Pharmacology (12.3)]. |
+| Maintenance of Intensive CareUnit Sedation | For adult patients: a maintenance infusion of 0.2 to 0.7 mcg/kg/hour. The rate of the maintenance infusion should be adjusted to achieve the desired level of sedation.For patients over 65 years of age: a dose reduction should be considered[see Use in Specific Populations (8.5)].For adult patients with impaired hepatic function: a dose reduction should be considered [see Use in Specific Populations (8.6), Clinical Pharmacology (12.3)]. |
 | Initiation of Procedural Sedation | For adult patients: a loading infusion of one mcg/kg over 10 minutes. For less invasive procedures such as ophthalmic surgery, a loading infusion of 0.5 mcg/kg given over 10 minutes may be suitable. |
 | For awake fiberoptic intubation in adult patients: a loading infusion of one mcg/kg over 10 minutes. |  |
 | For patients over 65 years of age: a loading infusion of 0.5 mcg/kg over 10 minutes [see Use in Specific Populations (8.5)]. |  |
@@ -33,11 +35,18 @@ Strict aseptic technique must always be maintained during handling of dexmedetom
 
 Parenteral drug products should be inspected visually for particulate matter and discoloration prior to administration, whenever solution and container permit.
 
-Dexmedetomidine hydrochloride injection must be diluted with 0.9% sodium chloride injection to achieve required concentration (4 mcg/mL) prior to administration.
+Dexmedetomidine Hydrochloride Injection, 200 mcg/2 mL (100 mcg/mL)
+
+Dexmedetomidine Hydrochloride Injection must be diluted with 0.9% sodium chloride injection to achieve required concentration (4 mcg/mL) prior to administration.
 Preparation of solutions is the same, whether for the loading dose or maintenance infusion.
 
 To prepare the infusion, withdraw 2 mL of dexmedetomidine hydrochloride injection, and add to 48 mL of 0.9% sodium chloride injection to a total of 50 mL.
 Shake gently to mix well.
+
+Dexmedetomidine Hydrochloride in 0.9% Sodium Chloride Injection, 200 mcg/50 mL (4 mcg/mL) and 400 mcg/100 mL (4 mcg/mL)
+
+Dexmedetomidine Hydrochloride in 0.9% Sodium Chloride Injection is supplied in glass containers containing a premixed, ready to use dexmedetomidine hydrochloride solution in 0.9% sodium chloride in water.
+No further dilution of these preparations are necessary.
 
 ## 2.5 Administration with Other Fluids
 
