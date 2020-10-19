@@ -1,5 +1,7 @@
 # ADVERSE REACTIONS:
 
+To report SUSPECTED ADVERSE REACTIONS, contact Fresenius Kabi USA, LLC at 1-800-551-7176 or FDA at 1-800-FDA-1088 or www.fda.gov/medwatch.
+
 Adverse reaction rates increase with higher doses of ketorolac tromethamine.
 Practitioners should be alert for the severe complications of treatment with ketorolac tromethamine, such as GI ulceration, bleeding and perforation, postoperative bleeding, acute renal failure, anaphylactic and anaphylactoid reactions and liver failure (see Boxed WARNING, WARNINGS, PRECAUTIONS, and DOSAGE AND ADMINISTRATION).
 These NSAID-related complications can be serious in certain patients for whom ketorolac tromethamine is indicated, especially when the drug is used inappropriately.

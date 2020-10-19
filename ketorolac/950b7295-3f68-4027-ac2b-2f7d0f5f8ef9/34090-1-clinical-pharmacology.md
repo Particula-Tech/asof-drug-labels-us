@@ -110,7 +110,7 @@ There was little difference in the Cmax for the two groups (elderly, 2.52 mcg/mL
 Pediatric Patients
 
 Limited information is available regarding the pharmacokinetics of dosing of ketorolac tromethamine in the pediatric population.
-Following a single intravenous bolus dose of 0.5 mg/kg in 10 children 4 to 8 years old, the half-life was 5.8 ± 1.6 hours, the average clearance was 0.042 ± 0.01 L/hr/kg, the volume of distribution during the terminal phase (Vᵦ) was 0.34 ± 0.12 L/kg and the volume of distribution at steady state (Vss) was 0.26 ± 0.08 L/kg.
+Following a single intravenous bolus dose of 0.5 mg/kg in 10 children 4 to 8 years old, the half-life was 5.8 ± 1.6 hours, the average clearance was 0.042 ± 0.01 L/hr/kg, the volume of distribution during the terminal phase (Vβ) was 0.34 ± 0.12 L/kg and the volume of distribution at steady state (Vss) was 0.26 ± 0.08 L/kg.
 The volume of distribution and clearance of ketorolac in pediatric patients was higher than those observed in adult subjects (see Table 1).
 There are no pharmacokinetic data available for administration of ketorolac tromethamine by the intramuscular route in pediatric patients.
 
