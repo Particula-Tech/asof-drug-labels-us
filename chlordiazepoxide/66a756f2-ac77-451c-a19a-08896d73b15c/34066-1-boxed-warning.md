@@ -1,18 +1,16 @@
-# WARNING: RISKS FROM CONCOMITANT USE WITH OPIOIDS
+# WARNING: RISKS FROM CONCOMITANT USE WITH OPIOIDS; ABUSE, MISUSE, AND ADDICTION; DEPENDENCE AND WITHDRAWAL REACTIONS; and SUICIDAL THOUGHTS AND BEHAVIORS
 
-Concomitant use of benzodiazepines and opioids may result in profound sedation, respiratory depression, coma, and death (see PRECAUTIONS: Drug-Drug Interactions).
+Concomitant use of benzodiazepines and opioids may result in profound sedation, respiratory depression, coma, and death.
+Reserve concomitant prescribing of these drugs in patients for whom alternative treatment options are inadequate.
+Limit dosages and durations to the minimum required.
+Follow patients for signs and symptoms of respiratory depression and sedation.
 
-- •Reserve concomitant prescribing of these drugs for use in patients for whom alternative treatment options are inadequate.
-- •Limit dosages and durations to the minimum required.
-- •Follow patients for signs and symptoms of respiratory depression and sedation.
-
-Suicidality and Antidepressant Drugs
-
-Antidepressants increased the risk compared to placebo of suicidal thinking and behavior (suicidality) in children, adolescents, and young adults in short-term studies of major depressive disorder (MDD) and other psychiatric disorders.
-Anyone considering the use of chlordiazepoxide and amitriptyline hydrochloride tablets or any other antidepressant in a child, adolescent, or young adult must balance this risk with the clinical need.
-Short-term studies did not show an increase in the risk of suicidality with antidepressants compared to placebo in adults beyond age 24; there was a reduction in the risk with antidepressants compared to placebo in adults aged 65 and older.
-Depression and certain other psychiatric disorders are themselves associated with increases in the risk of suicide.
-Patients of all ages who are started on antidepressant therapy should be monitored appropriately and observed closely for clinical worsening, suicidality, or unusual changes in behavior.
-Families and caregivers should be advised of the need for close observation and communication with the prescriber.
-Chlordiazepoxide and amitriptyline hydrochloride tablets are not approved for use in pediatric patients.
-(See WARNINGS: Clinical Worsening and Suicide Risk, PRECAUTIONS: Information for Patients and PRECAUTIONS: Pediatric Use.)
+- •The use of benzodiazepines, including chlordiazepoxide and amitriptyline hydrochloride tablets, exposes users to risks of abuse, misuse, and addiction, which can lead to overdose or death.
+  Abuse and misuse of benzodiazepines commonly involve concomitant use of other medications, alcohol, and/or illicit substances, which is associated with an increased frequency of serious adverse outcomes.
+  Before prescribing chlordiazepoxide and amitriptyline hydrochloride tablets and throughout treatment, assess each patient’s risk for abuse, misuse, and addiction (see WARNINGS).
+- •The continued use of benzodiazepines, including chlordiazepoxide and amitriptyline hydrochloride tablets, for several days to weeks may lead to clinically significant physical dependence.
+  Abrupt discontinuation or rapid dosage reduction of chlordiazepoxide and amitriptyline hydrochloride tablets after continued use may precipitate acute withdrawal reactions, which can be life-threatening.
+  To reduce the risk of withdrawal reactions, use a gradual taper to discontinue chlordiazepoxide and amitriptyline hydrochloride tablets or reduce the dosage (see DOSAGE AND ADMINISTRATION and WARNINGS).
+- •Antidepressants increased the risk of suicidal thoughts and behaviors in pediatric and young adult patients in short-term studies.
+  Closely monitor all antidepressant-treated patients for clinical worsening, and for emergence of suicidal thoughts and behaviors (see WARNINGS).
+  Chlordiazepoxide and amitriptyline hydrochloride tablets are not approved for use in pediatric patients (see PRECAUTIONS).

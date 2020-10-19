@@ -59,12 +59,12 @@ It is strongly recommended that the physician contact the local poison control c
 
 *Poisindex® Toxicologic Management.
 Topic: Antidepressants, Tricyclic.
-Micromedex Inc. Vol. 85.
+Micromedex Inc., Vol. 85.
 
 ### Chlordiazepoxide Overdosage
 
 Manifestations of benzodiazepine overdosage include somnolence, confusion, coma and diminished reflexes.
 Dialysis is of limited value.
 There have been occasional reports of excitation in patients following benzodiazepine overdosage; if this occurs, barbiturates should not be used.
-Withdrawal symptoms of the barbiturate type have occurred after the discontinuation of benzodiazepines (see DRUG ABUSE AND DEPENDENCE section).
+Withdrawal symptoms of the barbiturate type have occurred after the discontinuation of benzodiazepines (see DRUG ABUSE AND DEPENDENCE).
 Since chlordiazepoxide and amitriptyline hydrochloride tablets contain amitriptyline, it is important to note that use of the benzodiazepine antagonist flumazenil is contraindicated in patients who are showing signs of serious cyclic antidepressant overdose.

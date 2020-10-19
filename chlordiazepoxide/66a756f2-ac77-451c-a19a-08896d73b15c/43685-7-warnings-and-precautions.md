@@ -3,7 +3,7 @@
 ## Risks from Concomitant Use with Opioids
 
 Concomitant use of benzodiazepines, including chlordiazepoxide and amitriptyline hydrochloride tablets, and opioids may result in profound sedation, respiratory depression, coma, and death.
-Because of these risks, reserve concomitant prescribing of these drugs for use in patients for whom alternative treatment options are inadequate.
+Because of these risks, reserve concomitant prescribing of these drugs in patients for whom alternative treatment options are inadequate.
 
 Observational studies have demonstrated that concomitant use of opioid analgesics and benzodiazepines increases the risk of drug-related mortality compared to use of opioids
 
@@ -15,60 +15,64 @@ If an opioid is initiated in a patient already taking chlordiazepoxide and amitr
 Advise both patients and caregivers about the risks of respiratory depression and sedation when chlordiazepoxide and amitriptyline hydrochloride tablets are used with opioids.
 Advise patients not to drive or operate heavy machinery until the effects of concomitant use with the opioid have been determined (see PRECAUTIONS: Drug-Drug Interactions).
 
-## Clinical Worsening and Suicide Risk
+## Abuse, Misuse, and Addiction
 
-Patients with major depressive disorder (MDD), both adult and pediatric, may experience worsening of their depression and/or the emergence of suicidal ideation and behavior (suicidality) or unusual changes in behavior, whether or not they are taking antidepressant medications, and this risk may persist until significant remission occurs.
-Suicide is a known risk of depression and certain other psychiatric disorders, and these disorders themselves are the strongest predictors of suicide.
-There has been a long-standing concern, however, that antidepressants may have a role in inducing worsening of depression and the emergence of suicidality in certain patients during the early phases of treatment.
-Pooled analyses of short-term placebo-controlled trials of antidepressant drugs (SSRIs and others) showed that these drugs increase the risk of suicidal thinking and behavior (suicidality) in children, adolescents, and young adults (ages 18 to 24) with major depressive disorder (MDD) and other psychiatric disorders.
-Short-term studies did not show an increase in the risk of suicidality with antidepressants compared to placebo in adults beyond age 24; there was a reduction with antidepressants compared to placebo in adults aged 65 and older.
+The use of benzodiazepines, including chlordiazepoxide and amitriptyline hydrochloride tablets, exposes users to the risks of abuse, misuse, and addiction, which can lead to overdose or death.
+Abuse and misuse of benzodiazepines often (but not always) involve the use of doses greater than the maximum recommended dosage and commonly involve concomitant use of other medications, alcohol, and/or illicit substances, which is associated with an increased frequency of serious adverse outcomes, including respiratory depression, overdose, or death (see DRUG ABUSE AND DEPENDENCE: Abuse).
 
-The pooled analyses of placebo-controlled trials in children and adolescents with MDD, obsessive compulsive disorder (OCD), or other psychiatric disorders included a total of 24 short-term trials of 9 antidepressant drugs in over 4400 patients.
-The pooled analyses of placebo-controlled trials in adults with MDD or other psychiatric disorders included a total of 295 short-term trials (median duration of 2 months) of 11 antidepressant drugs in over 77,000 patients.
-There was considerable variation in risk of suicidality among drugs, but the tendency toward an increase in the younger patients for almost all drugs studied.
-There were differences in absolute risk of suicidality across the different indications, with the highest incidence in MDD.
-The risk differences (drug vs placebo), however, were relatively stable within age strata and across indications.
-These risk differences (drug-placebo difference in the number of cases of suicidality per 1000 patients treated) are provided in Table 1.
+Before prescribing chlordiazepoxide and amitriptyline hydrochloride tablets and throughout treatment, assess each patient’s risk for abuse, misuse, and addiction (e.g., using a standardized screening tool).
+Use of chlordiazepoxide and amitriptyline hydrochloride tablets, particularly in patients at elevated risk, necessitates counseling about the risks and proper use of chlordiazepoxide and amitriptyline hydrochloride tablets along with monitoring for signs and symptoms of abuse, misuse, and addiction.
+Prescribe the lowest possible dosage for the shortest duration; avoid or minimize concomitant use of CNS depressants and other substances associated with abuse, misuse, and addiction (e.g., opioid analgesics, stimulants); and advise patients on the proper disposal of unused drug.
+If a substance use disorder is suspected, evaluate the patient and institute (or refer them for) early treatment, as appropriate.
 
-Table 1
+## Dependence and Withdrawal Reactions
 
-| Age Range | Drug-Placebo Difference inNumber of Cases of Suicidalityper 1000 Patients Treated |
+To reduce the risk of withdrawal reactions, use a gradual taper to discontinue chlordiazepoxide and amitriptyline hydrochloride tablets or reduce the dosage (a patient-specific plan should be used to taper the dose) (see DOSAGE AND ADMINISTRATION: Discontinuation or Dosage Reduction of Chlordiazepoxide and Amitriptyline Hydrochloride Tablets).
+
+Patients at an increased risk of withdrawal adverse reactions after benzodiazepine discontinuation or rapid dosage reduction include those who take higher dosages, and those who have had longer durations of use.
+
+### Acute Withdrawal Reactions
+
+The continued use of benzodiazepines, including chlordiazepoxide and amitriptyline hydrochloride tablets, for several days to weeks may lead to clinically significant physical dependence.
+Abrupt discontinuation or rapid dosage reduction of chlordiazepoxide and amitriptyline hydrochloride tablets after continued use (for several days to weeks), or administration of flumazenil (a benzodiazepine antagonist) may precipitate acute withdrawal reactions, which can be life-threatening (e.g., seizures) (see DRUG ABUSE AND DEPENDENCE: Dependence).
+
+### Protracted Withdrawal Syndrome
+
+In some cases, benzodiazepine users have developed a protracted withdrawal syndrome with withdrawal symptoms lasting weeks to more than 12 months (see DRUG ABUSE AND DEPENDENCE: Dependence).
+
+## Suicidal Thoughts and Behaviors in Adolescent and Young Adults
+
+In pooled analyses of placebo-controlled trials of antidepressant drugs (SSRIs and other antidepressant classes) that included approximately 77,000 adult patients and 4,500 pediatric patients, the incidence of suicidal thoughts and behaviors in antidepressant-treated patients age 24 years and younger was greater than in placebo-treated patients.
+There was considerable variation in risk of suicidal thoughts and behaviors among drugs, but there was an increased risk identified in young patients for most drugs studied.
+There were differences in absolute risk of suicidal thoughts and behaviors across the different indications, with the highest incidence in patients with MDD.
+The drug-placebo differences in the number of cases of suicidal thoughts and behaviors per 1000 patients treated are provided in Table 1.
+
+Table 1: Risk Differences of the Number of Patients of Suicidal Thoughts and Behavior in the Pooled Placebo-Controlled Trials of Antidepressants in Pediatric and Adult Patients
+
+| Age Range | Drug-Placebo Difference in Number of Patients of Suicidal Thoughts or Behaviors per 1000 Patients Treated |
 | --- | --- |
-|  | Drug-Related Increases |
-| < 18 | 14 additional cases |
-| 18 to 24 | 5 additional cases |
-|  | Drug-Related Decreases |
-| 25 to 64 | 1 fewer cases |
-| ≥ 65 | 6 fewer cases |
+|  | Increases Compared to Placebo |
+| < 18 years old | 14 additional patients |
+| 18-24 years old | 5 additional patients |
+|  | Decreases Compared to Placebo |
+| 25-64 years old | 1 fewer patient |
+| ≥ 65 years old | 6 fewer patients |
 
-No suicides occurred in any of the pediatric trials.
-There were suicides in the adult trials, but the number was not sufficient to reach any conclusion about the drug effect on suicide.
+It is unknown whether the risk of suicidal thoughts and behaviors in children, adolescents, and young adults extends to longer-term use, i.e., beyond four months.
+However, there is substantial evidence from placebo-controlled maintenance trials in adults with MDD that antidepressants delay the recurrence of depression and that depression itself is a risk factor for suicidal thoughts and behaviors.
 
-It is unknown whether the suicidality risk extends to longer-term use, i.e., beyond several months.
-However, there is substantial evidence from placebo-controlled maintenance trials in adults with depression that the use of antidepressants can delay the recurrence of depression.
+Monitor all antidepressant-treated patients for any indication for clinical worsening and emergence of suicidal thoughts and behaviors, especially during the initial few months of drug therapy, and at times of dosage changes.
+Counsel family members or caregivers of patients to monitor for changes in behavior and to alert the healthcare provider.
+Consider changing the therapeutic regimen, including possibly discontinuing chlordiazepoxide and amitriptyline hydrochloride tablets, in patients whose depression is persistently worse, or who are experiencing emergent suicidal thoughts or behaviors.
 
-All pediatric patients being treated with antidepressants for any indication should be monitored appropriately and observed closely for clinical worsening, suicidality, and unusual changes in behavior, especially during the initial few months of a course of drug therapy, or at times of dose changes, either increases or decreases.
+## Activation of Mania or Hypomania
 
-The following symptoms, anxiety, agitation, panic attacks, insomnia, irritability, hostility, aggressiveness, impulsivity, akathisia (psychomotor restlessness), hypomania, and mania, have been reported in adult and pediatric patients being treated with antidepressants for major depressive disorder as well as for other indications, both psychiatric and nonpsychiatric.
-Although a causal link between the emergence of such symptoms and either the worsening of depression and/or the emergence of suicidal impulses has not been established, there is concern that such symptoms may represent precursors to emerging suicidality.
-
-Consideration should be given to changing the therapeutic regimen, including possibly discontinuing the medication, in patients whose depression is persistently worse, or who are experiencing emergent suicidality or symptoms that might be precursors to worsening depression or suicidality, especially if these symptoms are severe, abrupt in onset, or were not part of the patient's presenting symptoms.
-
-Families and caregivers of patients being treated with antidepressants for major depressive disorder or other indications, both psychiatric and nonpsychiatric, should be alerted about the need to monitor patients for the emergence of agitation, irritability, unusual changes in behavior, and the other symptoms described above, as well as the emergence of suicidality, and to report such symptoms immediately to health care providers.
-Such monitoring should include daily observation by families and caregivers.
-Prescriptions for chlordiazepoxide and amitriptyline hydrochloride tablets should be written for the smallest quantity of tablets consistent with good patient management, in order to reduce the risk of overdose.
-
-## Screening Patients for Bipolar Disorder
-
-A major depressive episode may be the initial presentation of bipolar disorder.
-It is generally believed (though not established in controlled trials) that treating such an episode with an antidepressant alone may increase the likelihood of precipitation of a mixed/manic episode in patients at risk for bipolar disorder.
-Whether any of the symptoms described above represent such a conversion is unknown.
-However, prior to initiating treatment with an antidepressant, patients with depressive symptoms should be adequately screened to determine if they are at risk for bipolar disorder; such screening should include a detailed psychiatric history, including a family history of suicide, bipolar disorder, and depression.
-It should be noted that chlordiazepoxide and amitriptyline hydrochloride tablets are not approved for use in treating bipolar depression.
+In patients with bipolar disorder, treating a depressive episode with chlordiazepoxide and amitriptyline hydrochloride tablets or another antidepressant may precipitate a mixed/manic episode.
+Prior to initiating treatment with chlordiazepoxide and amitriptyline hydrochloride tablets, screen patients for any personal or family history of bipolar disorder, mania, or hypomania.
 
 ## Angle-Closure Glaucoma
 
-The pupillary dilation that occurs following use of many antidepressant drugs including chlordiazepoxide and amitriptyline hydrochloride tablets may trigger an angle-closure attack in a patient with anatomically narrow angles who does not have a patent iridectomy.
+The pupillary dilation that occurs following use of many antidepressant drugs including chlordiazepoxide and amitriptyline hydrochloride tablets may trigger an angle closure attack in a patient with anatomically narrow angles who does not have a patent iridectomy.
 
 ## General
 
@@ -95,9 +99,6 @@ Because use of these drugs is rarely a matter of urgency, their use during this 
 The possibility that a woman of childbearing potential may be pregnant at the time of institution of therapy should be considered.
 Patients should be advised that if they become pregnant during therapy or intend to become pregnant they should communicate with their physicians about the desirability of discontinuing the drug.
 
-Withdrawal symptoms of the barbiturate type have occurred after the discontinuation of benzodiazepines.
-(See DRUG ABUSE AND DEPENDENCE section.)
-
 # PRECAUTIONS
 
 ## General
@@ -117,16 +118,16 @@ Patients on prolonged treatment should have periodic liver function tests and bl
 
 ## Drug-Drug Interactions
 
-The concomitant use of benzodiazepines and opioids increases the risk of respiratory depression because of actions at different receptor sites in the CNS that control respiration.
-Benzodiazepines interact at GAGAA sites and opioids interact primarily at mu receptors.
-When benzodiazepines and opioids are combined, the potential for benzodiazepines to significantly worsen opioid-related respiratory depression exists.
-Limit dosage and duration of concomitant use of benzodiazepines and opioids, and monitor patients closely for respiratory depression and sedation.
-
 ### Topiramate
 
 Some patients may experience a large increase in amitriptyline concentration in the presence of topiramate and any adjustments in amitriptyline dose should be made according to the patient's clinical response and not on the basis of plasma levels.
 
 ## Drug and Treatment Interactions
+
+The concomitant use of benzodiazepines and opioids increases the risk of respiratory depression because of actions at different receptor sites in the CNS that control respiration.
+Benzodiazepines interact at GABAA sites and opioids interact primarily at mu receptors.
+When benzodiazepines and opioids are combined, the potential for benzodiazepines to significantly worsen opioid-related respiratory depression exists.
+Limit dosage and duration of concomitant use of benzodiazepines and opioids, and monitor patients closely for respiratory depression and sedation.
 
 Because of its amitriptyline component, chlordiazepoxide and amitriptyline hydrochloride tablets may block the antihypertensive action of guanethidine or compounds with a similar mechanism of action.
 
@@ -169,13 +170,13 @@ As a general rule, nursing should not be undertaken while a patient is on a drug
 
 ## Pediatric Use
 
-Safety and effectiveness in the pediatric population have not been established (see BOX WARNING and WARNINGS: Clinical Worsening and Suicide Risk).
+Safety and effectiveness in the pediatric population have not been established (see BOX WARNING and WARNINGS: Suicidal Thoughts and Behaviors in Adolescents and Young Adults).
 
 Anyone considering the use of chlordiazepoxide and amitriptyline hydrochloride tablets in a child or adolescent must balance the potential risks with the clinical need.
 
 ## Geriatric Use
 
-In elderly and debilitated patients it is recommended that dosage be limited to the smallest effective amount to preclude the development of ataxia, oversedation, confusion or anticholinergic effects.
+In elderly and debilitated patients it is recommended that dosage be limited to the smallest effective amount to preclude the development of ataxia, over sedation, confusion or anticholinergic effects.
 
 Of the total number of subjects in clinical studies of chlordiazepoxide and amitriptyline hydrochloride tablets, 74 individuals were 65 years and older.
 An additional 34 subjects were between 60 and 69 years of age.
@@ -184,7 +185,7 @@ No overall differences in safety and effectiveness were observed between these s
 The active ingredients in chlordiazepoxide and amitriptyline hydrochloride tablets are known to be substantially excreted by the kidney and the risk of toxic reactions to this drug may be greater in patients with impaired renal function.
 Because elderly patients are more likely to have decreased renal function, care should be taken in dose selection and it may be useful to monitor renal function.
 
-Sedating drugs may cause confusion and oversedation in the elderly; elderly patients generally should be started on low doses of chlordiazepoxide and amitriptyline hydrochloride tablets and observed closely.
+Sedating drugs may cause confusion and over-sedation in the elderly; elderly patients generally should be started on low doses of chlordiazepoxide and amitriptyline hydrochloride tablets and observed closely.
 
 Clinical studies of chlordiazepoxide and amitriptyline hydrochloride tablets did not include sufficient numbers of subjects aged 65 years and older to determine whether they respond differently than younger subjects.
 Other reported clinical experience has not identified differences in responses between the elderly and younger patients.
@@ -192,24 +193,29 @@ In general, dose selection for an elderly patient should be cautious, usually st
 
 ## Information for Patients
 
-Prescribers or other health professionals should inform patients, their families, and their caregivers about the benefits and risks associated with treatment with chlordiazepoxide and amitriptyline hydrochloride tablets and should counsel them in its appropriate use.
-A patient Medication Guide about “Antidepressant Medicines, Depression and other Serious Mental Illness, and Suicidal Thoughts or Actions” is available for chlordiazepoxide and amitriptyline hydrochloride tablets.
-The prescriber or health professional should instruct patients, their families, and their caregivers to read the Medication Guide and should assist them in understanding its contents.
-Patients should be given the opportunity to discuss the contents of the Medication Guide and to obtain answers to any questions they may have.
-The complete text of the Medication Guide is reprinted at the end of this document.
+Advise the patient to read the FDA-approved patient labeling (Medication Guide).
 
-Patients should be advised of the following issues and asked to alert their prescriber if these occur while taking chlordiazepoxide and amitriptyline hydrochloride tablets.
+## Risks from Concomitant Use with Opioids
+
+Advise both patients and caregivers about the risks of potentially fatal respiratory depression and sedation when chlordiazepoxide and amitriptyline hydrochloride tablets are used with opioids and not to use such drugs concomitantly unless supervised by a health care provider.
+Advise patients not to drive or operate heavy machinery until the effects of concomitant use with the opioid have been determined (see WARNINGS: Risks from Concomitant Use with Opioids and PRECAUTIONS: Drug-Drug Interactions).
+
+## Abuse, Misuse, and Addiction
+
+Inform patients that the use of chlordiazepoxide and amitriptyline hydrochloride tablets, even at recommended dosages, exposes users to risks of abuse, misuse, and addiction, which can lead to overdose and death, especially when used in combination with other medications (e.g., opioid analgesics), alcohol, and/or illicit substances.
+Inform patients about the signs and symptoms of benzodiazepine abuse, misuse, and addiction; to seek medical help if they develop these signs and/or symptoms; and on the proper disposal of unused drug (see WARNINGS: Abuse, Misuse, and Addiction and DRUG ABUSE AND DEPENDENCE).
+
+## Withdrawal Reactions
+
+Inform patients that the continued use of chlordiazepoxide and amitriptyline hydrochloride tablets for several days to weeks may lead to clinically significant physical dependence and that abrupt discontinuation or rapid dosage reduction of chlordiazepoxide and amitriptyline hydrochloride tablets may precipitate acute withdrawal reactions, which can be life-threatening.
+Inform patients that in some cases, patients have developed a protracted withdrawal syndrome with withdrawal symptoms lasting weeks to more than 12 months.
+Instruct patients that discontinuation or dosage reduction of chlordiazepoxide and amitriptyline tablets may require a slow taper (see WARNINGS: Dependence and Withdrawal Reactions and DRUG ABUSE AND DEPENDENCE).
+
+## Suicidal Thoughts and Behaviors
+
+Advise patients and caregivers to look for the emergence of suicidal thoughts and behaviors, especially early during treatment and when the dosage is adjusted up or down (see WARNINGS: Suicidal Thoughts and Behaviors in Adolescents and Young Adults).
 
 Patients should be advised that taking chlordiazepoxide and amitriptyline hydrochloride tablets can cause mild pupillary dilation, which in susceptible individuals, can lead to an episode of angle-closure glaucoma.
 Pre-existing glaucoma is almost always open-angle glaucoma because angle-closure glaucoma, when diagnosed, can be treated definitively with iridectomy.
-Open-angle glaucoma is not a risk factor for angle-closure glaucoma.
-Patients may wish to be examined to determine whether they are susceptible to angle-closure, and have a prophylactic procedure (e.g., iridectomy), if they are susceptible.
-
-### Clinical Worsening and Suicide Risk
-
-Patients, their families, and their caregivers should be encouraged to be alert to the emergence of anxiety, agitation, panic attacks, insomnia, irritability, hostility, aggressiveness, impulsivity, akathisia (psychomotor restlessness), hypomania, mania, other unusual changes in behavior, worsening of depression, and suicidal ideation, especially early during antidepressant treatment and when the dose is adjusted up or down.
-Families and caregivers of patients should be advised to look for the emergence of such symptoms on a day-to-day basis, since changes may be abrupt.
-Such symptoms should be reported to the patient's prescriber or health professional, especially if they are severe, abrupt in onset, or were not part of the patient's presenting symptoms.
-Symptoms such as these may be associated with an increased risk for suicidal thinking and behavior and indicate a need for very close monitoring and possibly changes in the medication.
-
-To assure the safe and effective use of benzodiazepines, patients should be informed that, since benzodiazepines may produce psychological and physical dependence, it is advisable that they consult with their physician before either increasing the dose or abruptly discontinuing this drug.
+Open-angle glaucoma is not a risk factor for angle closure glaucoma.
+Patients may wish to be examined to determine whether they are susceptible to angle closure, and have a prophylactic procedure (e.g., iridectomy), if they are susceptible.
