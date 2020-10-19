@@ -30,8 +30,8 @@ During Therapy
 - In patients not adequately controlled with doses of 21 mg per kg (e.g., serum ferritin levels persistently above 2,500 mcg/L and not showing a decreasing trend over time), doses of up to 28 mg per kg may be considered.
   Doses above 28 mg per kg are not recommended [see Warnings and Precautions (5.6)].
 - Adjust dose based on serum ferritin levels
-  - If the serum ferritin falls below 1,000 mcg/L at 2 consecutive visits, consider dose reduction, especially if the deferasirox dose is greater than 17.5 mg/kg/day [see Adverse Reactions (6.1)].
-  - If the serum ferritin falls below 500 mcg/L, interrupt deferasirox therapy and continue monthly monitoring.
+  - If the serum ferritin falls below 1,000 mcg/L at 2 consecutive visits, consider dose reduction especially if the deferasirox dose is greater than 17.5 mg/kg/day [see Adverse Reactions (6.1)].
+  - If the serum ferritin falls below 500 mcg/L, interrupt deferasirox therapy to minimize the risk of overchelation, and continue monthly monitoring [see Warnings and Precautions (5.6)].
   - Evaluate the need for ongoing chelation therapy for patients whose conditions no longer require regular blood transfusions.
   - Use the minimum effective dose to maintain iron burden in the target range [see Warnings and Precautions (5.6)].
 - Monitor blood counts, liver function, renal function and ferritin monthly [see Warnings and Precautions (5.1, 5.2, 5.4)].
@@ -56,13 +56,13 @@ Prior to starting therapy, obtain:
 
 Initiating Therapy
 
-- The recommended initial dose of Deferasirox for patients with eGFR greater than 60 mL/min/1.73 m2is 7 mg per kg body weight orally once daily.
+- The recommended initial dose of deferasirox for patients with eGFR greater than 60 mL/min/1.73 m2is 7 mg per kg body weight orally once daily.
   Calculate doses (mg per kg per day) to the nearest whole tablet.
 - If the baseline LIC is greater than 15 mg Fe/g dw, consider increasing the dose to 14 mg/kg/day after 4 weeks.
 
 During Therapy
 
-- Monitor serum ferritin monthly.
+- Monitor serum ferritin monthly to assess the patient's response to therapy and to minimize the risk of overchelation [see Warnings and Precautions (5.6)].
   Interrupt treatment when serum ferritin is less than 300 mcg/L and obtain an LIC to determine whether the LIC has fallen to less than 3 mg Fe/g dw.
 - Use the minimum effective dose to achieve a trend of decreasing ferritin.
 - Monitor LIC every 6 months.
@@ -122,7 +122,7 @@ Individualize dose titration based on improvement in renal injury [see Use in Sp
 
 ## 2.5 Dose Modifications for Decreases in Renal Function while on Deferasirox
 
-Deferasirox is contraindicated in patients with eGFR less than 40 mL/minute/1.73 m2 [see Contraindications (4)].
+Deferasirox is contraindicated in patients with eGFR less than 40 mL/min/1.73 m2 [see Contraindications (4)].
 
 For decreases in renal function while receiving deferasirox [see Warnings and Precautions (5.1)], modify the dose as follows:
 

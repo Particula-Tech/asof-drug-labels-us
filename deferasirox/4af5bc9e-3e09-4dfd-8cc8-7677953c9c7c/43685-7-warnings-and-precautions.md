@@ -3,7 +3,7 @@
 ## 5.1 Acute Kidney Injury, Including Acute Renal Failure Requiring Dialysis and Renal Tubular Toxicity Including Fanconi Syndrome
 
 Deferasirox is contraindicated in patients with eGFR less than 40 mL/min/1.73 m2.
-Exercise caution in pediatric patients with eGFR between 40 and 60 mL/minute/1.73 m2.
+Exercise caution in pediatric patients with eGFR between 40 and 60 mL/min/1.73 m2.
 If treatment is needed, use the minimum effective dose and monitor renal function frequently.
 Individualize dose titration based on improvement in renal injury [see Use in Specific Populations (8.6)].
 For patients with renal impairment (eGFR 40 to 60 mL/min/1.73 m2) reduce the starting dose by 50% [see Dosage and Administration (2.4, 2.5), Use in Specific Populations (8.6)].
@@ -15,13 +15,14 @@ Preexisting renal disease and concomitant use of other nephrotoxic drugs may inc
 Acute illnesses associated with volume depletion and overchelation may increase the risk of acute kidney injury in pediatric patients.
 In pediatric patients, small decreases in eGFR can result in increases in deferasirox exposure, particularly in younger patients with body surface area typical of patients less than age 7 years.
 This can lead to a cycle of worsening renal function and further increases in Exjade exposure, unless the dose is reduced or interrupted.
-Renal tubular toxicity, including acquired Fanconi syndrome, has been reported in patients treated with deferasirox, most commonly in pediatric patients with beta-thalassemia and serum ferritin levels less than 1,500 mcg/L [see Warnings and Precautions (5.6), Adverse Reactions (6.1, 6.2), Use in Special Populations (8.4), Clinical Pharmacology (12.3)].
+Renal tubular toxicity, including acquired Fanconi syndrome, has been reported in patients treated with deferasirox, most commonly in pediatric patients with beta-thalassemia and serum ferritin levels less than 1,500 mcg/L [see Warnings and Precautions (5.6), Adverse Reactions (6.1, 6.2), Use in Specific Populations (8.4), Clinical Pharmacology (12.3)].
 
 Evaluate renal glomerular and tubular function before initiating therapy or increasing the dose.
 Use prediction equations validated for use in adult and pediatric patients to estimate GFR.
 Obtain serum electrolytes and urinalysis in all patients to evaluate renal tubular function [see Dosage and Administration (2.1, 2.2)].
 
 Monitor all patients for changes in eGFR and for renal tubular toxicity weekly during the first month after initiation or modification of therapy and at least monthly thereafter.
+Dose reduction or interruption may be considered if abnormalities occur in levels of markers of renal tubular function and/or as clinically indicated.
 Monitor serum ferritin monthly to evaluate for overchelation.
 Use the minimum dose to establish and maintain a low iron burden.
 Monitor renal function more frequently in patients with preexisting renal disease or decreased renal function.
@@ -42,7 +43,7 @@ Interrupt deferasirox therapy when acute liver injury or acute kidney injury is 
 Monitor liver and renal function more frequently in pediatric patients who are receiving deferasirox in the 14 to 28 mg/kg/day range and when iron burden is approaching normal.
 Use the minimum effective dose to achieve and maintain a low iron burden [see Dosage and Administration (2.5), Warnings and Precautions (5.6), Adverse Reactions (6.1)].
 
-Measure transaminases (AST and ALT) and bilirubin in all patients before the initiation of treatment and every 2 weeks during the first month and at least monthly thereafter.
+Measure transaminases [aspartate transaminase (AST) and alanine transaminase (ALT)] and bilirubin in all patients before the initiation of treatment and every 2 weeks during the first month and at least monthly thereafter.
 Consider dose modifications or interruption of treatment for severe or persistent elevations.
 
 Avoid the use of deferasirox in patients with severe (Child-Pugh C) hepatic impairment.
@@ -53,9 +54,9 @@ Patients with mild (Child-Pugh A) or moderate (Child-Pugh B) hepatic impairment 
 
 GI hemorrhage, including deaths, has been reported, especially in elderly patients who had advanced hematologic malignancies and/or low platelet counts.
 Nonfatal upper GI irritation, ulceration and hemorrhage have been reported in patients, including children and adolescents, receiving deferasirox [see Adverse Reactions (6.1)].
-Monitor for signs and symptoms of GI ulceration and hemorrhage during deferasirox therapy and promptly initiate additional evaluation and treatment if a serious GI adverse event is suspected.
-The risk of gastrointestinal hemorrhage may be increased when administering deferasirox in combination with drugs that have ulcerogenic or hemorrhagic potential, such as nonsteroidal anti-inflammatory drugs (NSAIDs), corticosteroids, oral bisphosphonates, or anticoagulants.
-There have been reports of ulcers complicated with gastrointestinal perforation (including fatal outcome) [see Adverse Reactions (6.2)].
+Monitor for signs and symptoms of GI ulceration and hemorrhage during deferasirox therapy and promptly initiate additional evaluation and treatment if a serious GI adverse reaction is suspected.
+The risk of GI hemorrhage may be increased when administering deferasirox in combination with drugs that have ulcerogenic or hemorrhagic potential, such as nonsteroidal anti-inflammatory drugs (NSAIDs), corticosteroids, oral bisphosphonates, or anticoagulants.
+There have been reports of ulcers complicated with GI perforation (including fatal outcome) [see Adverse Reactions (6.2)].
 
 ## 5.4 Bone Marrow Suppression
 
@@ -82,8 +83,8 @@ Use the minimum effective dose to achieve and maintain a low iron burden [see Do
 
 ## 5.6 Overchelation
 
-For patients with transfusional iron overload, measure serum ferritin monthly to assess for possible overchelation of iron.
-An analysis of pediatric patients treated with Exjade in pooled clinical trials (n=158), found a higher rate of renal adverse events among patients receiving doses greater than 25 mg/kg/day equivalent to 17.5 mg/kg/day deferasirox while their serum ferritin values were less than 1,000 mcg/L.
+For patients with transfusional iron overload, measure serum ferritin monthly to assess the patient's response to therapy and minimize the risk of overchelation.
+An analysis of pediatric patients treated with Exjade in pooled clinical trials (n=158), found a higher rate of renal adverse reactions among patients receiving doses greater than 25 mg/kg/day equivalent to 17.5 mg/kg/day deferasirox while their serum ferritin values were less than 1,000 mcg/L.
 Consider dose reduction or closer monitoring of renal and hepatic function, and serum ferritin levels during these periods.
 Use the minimum effective dose to maintain a low-iron burden [see Adverse Reactions (6.1), Use in Specific Populations (8.4)].
 
@@ -91,7 +92,7 @@ If the serum ferritin falls below 1,000 mcg/L at 2 consecutive visits, consider 
 If the serum ferritin falls below 500 mcg/L, interrupt therapy with deferasirox and continue monthly monitoring.
 Evaluate the need for ongoing chelation for patients whose conditions do not require regular blood transfusions.
 Use the minimum effective dose to maintain iron burden in the target range.
-Continued administration of deferasirox in the 14 to 28 mg/kg/day range, when the body iron burden is approaching or within the normal range can result in life threatening adverse events [see Dosage and Administration (2.1)].
+Continued administration of deferasirox in the 14 to 28 mg/kg/day range, when the body iron burden is approaching or within the normal range can result in life threatening adverse reactions [see Dosage and Administration (2.1)].
 
 For patients with NTDT, measure LIC by liver biopsy or by using an FDA-cleared or approved method for monitoring patients receiving deferasirox therapy every 6 months on treatment.
 Interrupt deferasirox administration when the LIC is less than 3 mg Fe/g dw.
@@ -120,7 +121,7 @@ Reintroduction at a lower dose with escalation may be considered after resolutio
 ## 5.10 Auditory and Ocular Abnormalities
 
 Auditory disturbances (high frequency hearing loss, decreased hearing), and ocular disturbances (lens opacities, cataracts, elevations in intraocular pressure, and retinal disorders) were reported at a frequency of less than 1% with deferasirox therapy in the clinical studies.
-The frequency of auditory adverse events irrespective of causality was increased among pediatric patients, who received Exjade doses greater than 25 mg/kg/day equivalent to 17.5 mg/kg/day deferasirox when serum ferritin was less than 1,000 mcg/L [see Warnings and Precautions (5.6)].
+The frequency of auditory adverse reactions was increased among pediatric patients, who received Exjade doses greater than 25 mg/kg/day equivalent to 17.5 mg/kg/day deferasirox when serum ferritin was less than 1,000 mcg/L [see Warnings and Precautions (5.6)].
 
 Perform auditory and ophthalmic testing (including slit lamp examinations and dilated fundoscopy) before starting deferasirox treatment and thereafter at regular intervals (every 12 months).
 If disturbances are noted, monitor more frequently.

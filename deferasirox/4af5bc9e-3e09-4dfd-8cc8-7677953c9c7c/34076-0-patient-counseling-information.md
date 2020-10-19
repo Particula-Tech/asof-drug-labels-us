@@ -1,5 +1,7 @@
 # 17 PATIENT COUNSELING INFORMATION
 
+Advise the patient to read the FDA-approved patient labeling (Medication Guide).
+
 Dosing Instructions
 
 Advise patients to take deferasirox tablets with water or other liquids.
@@ -26,11 +28,11 @@ Caution patients about the potential for hepatic toxicity when taking deferasiro
 Inform patients of the signs and symptoms of hepatic toxicity.
 Advise patients to contact their healthcare provider immediately if they experience any of these symptoms [see Warnings and Precautions (5.2)].
 
-Gastrointestinal Ulceration and Hemorrhage
+GI Ulceration and Hemorrhage
 
 Caution patients about the potential for the development of GI ulcers or bleeding when taking deferasirox in combination with drugs that have ulcerogenic or hemorrhagic potential, such as NSAIDs, corticosteroids, oral bisphosphonates, or anticoagulants.
 Inform patients of the signs and symptoms of GI ulcers or bleeding.
-Advise patients to contact their healthcare provider for symptoms of heartburn but to seek immediate medical attention for symptoms of gastrointestinal hemorrhage [see Warnings and Precautions (5.3)].
+Advise patients to contact their healthcare provider for symptoms of heartburn but to seek immediate medical attention for symptoms of GI hemorrhage [see Warnings and Precautions (5.3)].
 
 Allergic Reactions
 
@@ -83,3 +85,5 @@ Call your doctor for medical advice about side effects.
 You may report side effects to FDA at 1-800-FDA-1088.
 
 Exjade® (deferasirox) tablets for oral suspension are the registered trade mark of their respective owners.
+
+Medication Guide available at www.zydususa.com/medguides/ or call 1-877-993-8779.

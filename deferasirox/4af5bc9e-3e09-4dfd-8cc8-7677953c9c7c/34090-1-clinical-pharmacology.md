@@ -34,7 +34,7 @@ After strength-adjustment, the mean AUCinf of deferasirox tablets (i.e., 360 mg 
 The 30% increase in Cmax observed with deferasirox tablets is not clinically meaningful.
 
 The administration of deferasirox tablets with a light meal (approximately 250 calories with fat content less than 7% of total calories) indicated that the AUCinf and Cmax were similar to that under fasting conditions.
-The administration of deferasirox tablets with a high-fat meal (approximately 1000 calories with fat content greater than 50% of total calories), increased AUCinf by 18% and Cmax by 29% compared to that under fasting conditions [see Dosage and Administration (2.3)].
+The administration of deferasirox tablets with a high-fat meal (approximately 1,000 calories with fat content greater than 50% of total calories), increased AUCinf by 18% and Cmax by 29% compared to that under fasting conditions [see Dosage and Administration (2.3)].
 
 Distribution
 

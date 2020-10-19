@@ -5,5 +5,10 @@ In one case, this resulted in hepatitis which resolved without long-term consequ
 In one pediatric case, a dose of 2 to 3 times the prescribed dose for 6 days resulted in acute renal failure requiring hemofiltration and acute liver injury/failure, which were reversible with intensive care support.
 Single doses of deferasirox up to 80 mg per kg per day with the tablet for oral suspension formulation in iron-overloaded beta-thalassemic patients have been tolerated with nausea and diarrhea noted.
 In healthy subjects, single doses of up to 40 mg per kg per day with the tablet for oral suspension formulation were tolerated.
+
+Early signs of acute overdose are digestive effects such as abdominal pain, diarrhea, nausea, and vomiting.
+Hepatic and renal disorders have been reported, including cases of liver enzyme and creatinine increased with recovery after treatment discontinuation.
+An erroneously administered single dose of 90 mg/kg led to Fanconi syndrome which resolved after treatment.
+
 There is no specific antidote for deferasirox.
-In case of overdose, induce vomiting and employ gastric lavage.
+In case of overdose, it may be treated with induction of vomiting or gastric lavage, and by symptomatic treatment.
