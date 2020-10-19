@@ -1,111 +1,145 @@
-PRINCIPAL DISPLAY PANEL
+# PRINCIPAL DISPLAY PANEL
 
-Package Label – 2.5 mg
+NDC 0078-0594-51
 
-Rx Only NDC 0078-0594-51
-
-Afinitor® (everolimus) Tablets
-
-Each tablet contains
-
-2.5 mg everolimus
+Rx only
 
 28 Tablets
 
 Carton contains 4 individual blister cards of 7 tablets.
 
-PRINCIPAL DISPLAY PANEL
-
-Package Label – 5 mg
-
-Rx Only NDC 0078-0566-51
-
-Afinitor® (everolimus) Tablets
+AFINITOR® (everolimus) tablets
 
 Each tablet contains
 
-5 mg everolimus
+2.5 mg
+
+everolimus
+
+NOVARTIS
+
+# PRINCIPAL DISPLAY PANEL
+
+NDC 0078-0566-51
+
+Rx only
 
 28 Tablets
 
 Carton contains 4 individual blister cards of 7 tablets.
 
-PRINCIPAL DISPLAY PANEL
-
-Package Label – 7.5 mg
-
-Rx Only NDC 0078-0620-51
-
-Afinitor® (everolimus) Tablets
+AFINITOR® (everolimus) tablets
 
 Each tablet contains
 
-7.5 mg everolimus
+5 mg
+
+everolimus
+
+NOVARTIS
+
+# PRINCIPAL DISPLAY PANEL
+
+NDC 0078-0620-51
+
+Rx only
 
 28 Tablets
 
 Carton contains 4 individual blister cards of 7 tablets.
 
-PRINCIPAL DISPLAY PANEL
-
-Package Label – 10 mg
-
-Rx Only NDC 0078-0567-51
-
-Afinitor® (everolimus) Tablets
+AFINITOR® (everolimus) tablets
 
 Each tablet contains
 
-10 mg everolimus
+7.5 mg
+
+everolimus
+
+NOVARTIS
+
+# PRINCIPAL DISPLAY PANEL
+
+NDC 0078-0567-51
+
+Rx only
 
 28 Tablets
 
 Carton contains 4 individual blister cards of 7 tablets.
 
-PRINCIPAL DISPLAY PANEL
+AFINITOR® (everolimus) tablets
 
-Package Label – 2 mg
+Each tablet contains
 
-Rx Only NDC 0078-0626-51
+10 mg
 
-Afinitor DISPERZ® (everolimus tablets for oral suspension)
+everolimus
 
-TABLETS MUST BE DISPERSED IN WATER.
+NOVARTIS
 
-TABLETS MUST NOT BE SWALLOWED WHOLE, CHEWED OR CRUSHED.
+# PRINCIPAL DISPLAY PANEL
+
+NDC 0078-0626-51
+
+Rx only
 
 28 Tablets for Oral Suspension
 
 Carton contains 4 individual blister cards of 7 tablets.
 
-PRINCIPAL DISPLAY PANEL
+AFINITOR DISPERZ® (everolimus tablets for oral suspension)
 
-Package Label – 3 mg
-
-Rx Only NDC 0078-0627-51
-
-Afinitor DISPERZ® (everolimus tablets for oral suspension)
+2 mg
 
 TABLETS MUST BE DISPERSED IN WATER.
 
 TABLETS MUST NOT BE SWALLOWED WHOLE, CHEWED OR CRUSHED.
 
+Each tablet contains 2 mg everolimus
+
+NOVARTIS
+
+# PRINCIPAL DISPLAY PANEL
+
+NDC 0078-0627-51
+
+Rx only
+
 28 Tablets for Oral Suspension
 
 Carton contains 4 individual blister cards of 7 tablets.
 
-PRINCIPAL DISPLAY PANEL
+AFINITOR DISPERZ® (everolimus tablets for oral suspension)
 
-Package Label – 5 mg
-
-Rx Only NDC 0078-0628-51
-
-Afinitor DISPERZ® (everolimus tablets for oral suspension)
+3 mg
 
 TABLETS MUST BE DISPERSED IN WATER.
 
 TABLETS MUST NOT BE SWALLOWED WHOLE, CHEWED OR CRUSHED.
 
+Each tablet contains 3 mg everolimus
+
+NOVARTIS
+
+# PRINCIPAL DISPLAY PANEL
+
+NDC 0078-0628-51
+
+Rx only
+
 28 Tablets for Oral Suspension
 
 Carton contains 4 individual blister cards of 7 tablets.
+
+AFINITOR DISPERZ® (everolimus tablets for oral suspension)
+
+5 mg
+
+TABLETS MUST BE DISPERSED IN WATER.
+
+TABLETS MUST NOT BE SWALLOWED WHOLE, CHEWED OR CRUSHED.
+
+Each tablet contains 5 mg everolimus
+
+NOVARTIS
