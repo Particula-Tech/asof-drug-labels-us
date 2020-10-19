@@ -31,7 +31,6 @@ Made in Canada
 
 1. A019644 Rev.
    3/18
-2. 
 
 PRINCIPAL DISPLAY PANEL
 
@@ -60,4 +59,3 @@ Contains 42 sachets of 5 mL each
 
 1. A019639 Rev.
    2/18
-2. 

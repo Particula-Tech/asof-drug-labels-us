@@ -12,12 +12,14 @@ Lactation
 
 Instruct mothers with HIV-1 infection not to breastfeed because HIV-1 can be passed to the baby in the breast milk [see Use in Specific Populations (8.2)].
 
-Trademarks are owned or licensed to the GSK group of companies.
+Trademarks are owned by or licensed to the GSK group of companies.
+
+Distributed by:
 
 GlaxoSmithKline
 
 Research Triangle Park, NC 27709
 
-©2019 GSK group of companies or its licensor.
+©2020 GSK group of companies or its licensor.
 
-MPR:9PI
+MPR:10PI
