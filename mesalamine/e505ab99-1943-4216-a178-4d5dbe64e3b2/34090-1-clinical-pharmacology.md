@@ -1,14 +1,9 @@
 # CLINICAL PHARMACOLOGY
 
-Sulfasalazine is split by bacterial action in the colon into sulfapyridine (SP) and mesalamine (5-ASA).
-It is thought that the mesalamine component is therapeutically active in ulcerative colitis [A.K.
-Azad Khan et al, Lancet 2:892-895 (1977)].
-The usual oral dose of sulfasalazine for active ulcerative colitis in adults is two to four grams per day in divided doses.
-Four grams of sulfasalazine provide 1.6 g of free mesalamine to the colon.
 Each ROWASA® (mesalamine) Rectal Suspension Enema delivers up to 4 g of mesalamine to the left side of the colon.
 
-The mechanism of action of mesalamine (and sulfasalazine) is unknown, but appears to be topical rather than systemic.
-Mucosal production of arachidonic acid (AA) metabolites, both through the cyclooxygenase pathways, i.e., prostanoids, and through the lipoxygenase pathways, i.e., leukotrienes (LTs) and hydroxyeicosatetraenoic acids (HETEs) is increased in patients with chronic inflammatory bowel disease, and it is possible that mesalamine diminishes inflammation by blocking cyclooxygenase and inhibiting prostaglandin (PG) production in the colon.
+The mechanism of action of mesalamine (and sulfasalazine) is not fully understood, but appears to be a topical anti-inflammatory effect on colonic epithelial cells.
+Mucosal production of arachidonic acid (AA) metabolites, both through the cyclooxygenase pathways, i.e., prostanoids, and through the lipoxygenase pathways, i.e., leukotrienes (LTs) and hydroxyeicosatetraenoic acids (HETEs) is increased in patients with ulcerative colitis, and it is possible that mesalamine diminishes inflammation by blocking cyclooxygenase and inhibiting prostaglandin (PG) production in the colon.
 
 ## Preclinical Toxicology
 
@@ -56,11 +51,11 @@ In a placebo-controlled, international, multicenter trial of 153 patients with a
 | Mucosal Inflammation | ROWASA® Placebo |  | 2.17 2.18 | 1.22† 1.74 | 0.96‡ 1.61 | -1.21† -0.56 |
 | Physician's Assessment of Disease Severity | ROWASA® Placebo |  | 1.86 1.87 | 1.13‡ 1.62 | 0.88‡ 1.55 | -0.97‡ -0.30 |
 | Each parameter has a 4-point scale with a numerical rating: |  |  |  |  |  |  |
-| 0=normal, 1=mild, 2=moderate, 3=severe. The four parameters are added together to produce a maximum overall DAI of 12. |  |  |  |  |  |  |
+| 0 = normal, 1 = mild, 2 = moderate, 3 = severe. The four parameters are added together to produce a maximum overall DAI of 12. |  |  |  |  |  |  |
 | * Percent change for overall DAI only (calculated by taking the average of the change for each individual patient). |  |  |  |  |  |  |
-| †Significant ROWASA®/placebo difference. p<0.01 |  |  |  |  |  |  |
-| ‡Significant ROWASA®/placebo difference. p<0.001 |  |  |  |  |  |  |
-| §Significant ROWASA®/placebo difference. p<0.05 |  |  |  |  |  |  |
+| †Significant ROWASA®/placebo difference. p < 0.01 |  |  |  |  |  |  |
+| ‡Significant ROWASA®/placebo difference. p < 0.001 |  |  |  |  |  |  |
+| §Significant ROWASA®/placebo difference. p < 0.05 |  |  |  |  |  |  |
 
 Differences between ROWASA® (mesalamine) Rectal Suspension Enema and placebo were also statistically different in subgroups of patients on concurrent sulfasalazine and in those having an upper disease boundary between 5 and 20 or 20 and 40 cm.
 Significant differences between ROWASA® (mesalamine) Rectal Suspension Enema and placebo were not achieved in those subgroups of patients on concurrent prednisone or with an upper disease boundary between 40 and 50 cm.

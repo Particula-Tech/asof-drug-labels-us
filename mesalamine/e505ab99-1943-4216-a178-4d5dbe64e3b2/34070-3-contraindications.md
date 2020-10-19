@@ -1,3 +1,3 @@
 # CONTRAINDICATIONS
 
-ROWASA® (mesalamine) Rectal Suspension Enema is contraindicated for patients known to have hypersensitivity to the drug or any component of this medication.
+ROWASA® (mesalamine) Rectal Suspension Enema is contraindicated in patients with known or suspected hypersensitivity to salicylates, aminosalicylates, sulfites or any other component of this medication.

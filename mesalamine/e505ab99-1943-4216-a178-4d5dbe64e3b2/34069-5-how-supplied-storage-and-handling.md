@@ -28,8 +28,8 @@ Take care in choosing a suitable location for administration of this product.
 
 Rx only
 
-IN-003606-02 Rev.
-6/2017
+IN-003606-X1 Rev.
+9/2020
 
 Distributed by:
 
@@ -37,10 +37,8 @@ MEDA PHARMACEUTICALS®
 
 Somerset, New Jersey 08873-4120
 
-©2017 Meda Pharmaceuticals Inc.
+©2020 Meda Pharmaceuticals Inc.
 
-MEDA PHARMACEUTICALS and ROWASA are registered trademarks of Meda AB or a related entity.
+ROWASA is a registered trademark of Alaven Pharmaceutical LLC, a Mylan company.
 
-For Medical inquiries, Call Toll Free: 1-866-210-5949
-
-www.rowasa.com
+For Medical Inquiries, Call Toll Free: 1-866-210-5949

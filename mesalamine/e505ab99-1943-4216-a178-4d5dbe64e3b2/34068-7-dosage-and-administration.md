@@ -1,9 +1,11 @@
 # DOSAGE AND ADMINISTRATION
 
-The usual dosage of ROWASA® (mesalamine) Rectal Suspension Enema in 60 mL units is one rectal instillation (4 grams) once a day, preferably at bedtime, and retained for approximately eight hours.
+The recommended adult dosage of ROWASA® (mesalamine) Rectal Suspension Enema in 60 mL units is one rectal instillation (4 grams) once a day, preferably at bedtime, and retained for approximately eight hours.
 While the effect of ROWASA® (mesalamine) Rectal Suspension Enema may be seen within 3 to 21 days, the usual course of therapy would be from 3 to 6 weeks depending on symptoms and sigmoidoscopic findings.
 Studies available to date have not assessed if ROWASA® (mesalamine) Rectal Suspension Enema will modify relapse rates after the 6-week short-term treatment.
 ROWASA® (mesalamine) Rectal Suspension Enema is for rectal use only.
+
+Drink an adequate amount of fluids during treatment.
 
 Patients should be instructed to shake the bottle well to make sure the suspension is homogeneous.
 The patient should remove the protective sheath from the applicator tip.
