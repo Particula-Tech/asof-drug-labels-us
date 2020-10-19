@@ -5,34 +5,30 @@
 The recommended dose of tadalafil tablets is 40 mg (two 20 mg tablets) taken once daily with or without food.
 Dividing the dose (40 mg) over the course of the day is not recommended.
 
-## 2.2 Use in Special Populations
+## 2.2 Dose Adjustment in Renal Impairment
 
-Renal Impairment
+Mild (creatinine clearance 51 to 80 mL/min) or moderate (creatinine clearance 31 to 50 mL/min): Start dosing at 20 mg once daily.
+Increase to 40 mg once daily based on individual tolerability.
 
-- Mild (creatinine clearance 51 to 80 mL/min) or moderate (creatinine clearance 31 to 50 mL/min): Start dosing at 20 mg once daily.
-  Increase to 40 mg once daily based on individual tolerability.
-- Severe (creatinine clearance <30 mL/min and on hemodialysis): Avoid use of tadalafil tablets because of increased tadalafil exposure (AUC), limited clinical experience, and the lack of ability to influence clearance by dialysis [see Warnings and Precautions (5.3) and Use in Specific Populations (8.6)].
+Severe (creatinine clearance <30 mL/min and on hemodialysis): Avoid use of tadalafil tablets because of increased tadalafil exposure (AUC), limited clinical experience, and the lack of ability to influence clearance by dialysis [see Use in Specific Populations (8.6)].
 
-Hepatic Impairment
+## 2.3 Dose Adjustment in Hepatic Impairment
 
-- Mild or moderate (Child Pugh Class A or B): Because of limited clinical experience in patients with mild to moderate hepatic cirrhosis, consider a starting dose of 20 mg once per day.
-- Severe (Child Pugh Class C): Patients with severe hepatic cirrhosis have not been studied.
-  Avoid use of tadalafil tablets [see Warnings and Precautions (5.4) and Use in Specific Populations (8.7)].
+Mild or moderate (Child Pugh Class A or B): Because of limited clinical experience in patients with mild to moderate hepatic cirrhosis, consider a starting dose of 20 mg once per day.
 
-Geriatric Patients
+Severe (Child Pugh Class C): Patients with severe hepatic cirrhosis have not been studied.
+Avoid use of tadalafil tablets [see Use in Specific Populations (8.7)].
 
-- No dose adjustment is required in patients >65 years of age without renal impairment or hepatic impairment.
-
-## 2.3 Use with Ritonavir
+## 2.4 Dose Adjustments for Use with Ritonavir
 
 Co-administration of Tadalafil Tablets in Patients on Ritonavir
 
 In patients receiving ritonavir for at least one week, start tadalafil tablets at 20 mg once daily.
-Increase to 40 mg once daily based upon individual tolerability [see Warnings and Precautions (5.2), Drug Interactions (7.2) and Clinical Pharmacology (12.3)].
+Increase to 40 mg once daily based upon individual tolerability [see Drug Interactions (7.5) and Clinical Pharmacology (12.3)].
 
 Co-administration of Ritonavir in Patients on Tadalafil Tablets
 
 Avoid use of tadalafil tablets during the initiation of ritonavir.
 Stop tadalafil tablets at least 24 hours prior to starting ritonavir.
 After at least one week following the initiation of ritonavir, resume tadalafil tablets at 20 mg once daily.
-Increase to 40 mg once daily based upon individual tolerability [see Warnings and Precautions (5.2), Drug Interactions (7.2) and Clinical Pharmacology (12.3)].
+Increase to 40 mg once daily based upon individual tolerability [see Drug Interactions (7.5) and Clinical Pharmacology (12.3)].

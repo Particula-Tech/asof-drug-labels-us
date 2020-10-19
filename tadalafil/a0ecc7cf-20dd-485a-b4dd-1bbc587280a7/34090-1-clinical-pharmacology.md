@@ -30,63 +30,19 @@ A double–blind, placebo–controlled, crossover study in 150 male subjects at 
 Subjects received daily doses of tadalafil 20 mg or matching placebo for 7 days and then were given a single dose of 0.4 mg sublingual nitroglycerin (NTG) at pre–specified timepoints following their last dose of tadalafil (2, 4, 8, 24, 48, 72, and 96 hours after tadalafil).
 A significant interaction between tadalafil and NTG was observed at each timepoint up to and including 24 hours.
 At 48 hours, by most hemodynamic measures, the interaction between tadalafil and NTG was not observed, although a few more tadalafil subjects compared to placebo experienced greater blood–pressure lowering effects at this timepoint.
-After 48 hours, the interaction was not detectable [See Contraindications (4.1) and Warnings and Precautions (5.1)].
+After 48 hours, the interaction was not detectable [See Contraindications (4.1)].
 
-Effects on Blood Pressure
+Effects on Blood Pressure.
 
-Tadalafil 20 mg administered to healthy male subjects produced no significant difference compared to placebo in supine systolic and diastolic blood pressure (difference in the mean maximal decrease of 1.6/0.8 mm Hg, respectively) and in standing systolic and diastolic blood pressure (difference in the mean maximal decrease of 0.2/4.6 mm Hg, respectively).
-In addition, there was no significant effect on heart rate.
+The effects of tadalafil on blood pressure alone and administered with antihypertensives, alcohol, and alpha-blockers is shown in Figure 1.
 
-Effects on Blood Pressure When Administered with Antihypertensives
+a In some subjects, postural dizziness and orthostatic hypotension were observed.
+When tadalafil was administered with lower doses of alcohol (0.6 g/kg), hypotension was not observed, and dizziness occurred at a similar frequency to alcohol alone.
 
-Amlodipine — A study assessed the interaction between amlodipine (5 mg daily) and tadalafil 10 mg.
-There was no effect of tadalafil on amlodipine blood levels and no effect of amlodipine on tadalafil blood levels.
-The mean reduction in supine systolic/diastolic blood pressure because of tadalafil 10 mg in subjects taking amlodipine was 3/2 mm Hg, compared to placebo.
-In a similar study using tadalafil 20 mg, there were no clinically significant differences between tadalafil and placebo in subjects taking amlodipine.
+b In studies of tadalafil co-administration with doxazosin, the number of subjects with potentially clinically significant standing blood pressure decreases was greater for the combination.
+Some patients had symptoms associated with the decrease in blood pressure including syncope.
 
-Angiotensin II receptor blockers (with and without other antihypertensives) — A study assessed the interaction between angiotensin II receptor blockers and tadalafil 20 mg.
-Subjects in the study were taking any marketed angiotensin II receptor blocker, either alone, as a component of a combination product, or as part of a multiple antihypertensive regimen.
-Following dosing, ambulatory measurements of blood pressure revealed differences between tadalafil and placebo of 8/4 mm Hg in systolic/diastolic blood pressure.
-
-Bendroflumethiazide — A study assessed the interaction between bendroflumethiazide (2.5 mg daily) and tadalafil 10 mg.
-Following dosing, the mean reduction in supine systolic/diastolic blood pressure because of tadalafil 10 mg in subjects taking bendroflumethiazide was 6/4 mm Hg, compared to placebo.
-
-Enalapril — A study assessed the interaction between enalapril (10 to 20 mg daily) and tadalafil 10 mg.
-Following dosing, the mean reduction in supine systolic/diastolic blood pressure because of tadalafil 10 mg in subjects taking enalapril was 4/1 mm Hg, compared to placebo.
-
-Metoprolol — A study assessed the interaction between sustained–release metoprolol (25 to 200 mg daily) and tadalafil 10 mg.
-Following dosing, the mean reduction in supine systolic/diastolic blood pressure because of tadalafil 10 mg in subjects taking metoprolol was 5/3 mm Hg, compared to placebo.
-
-Effects on Blood Pressure When Administered with Alcohol
-
-Alcohol and PDE5 inhibitors, including tadalafil, are mild systemic vasodilators.
-The interaction of tadalafil with alcohol was evaluated in three clinical pharmacology studies.
-In two of these, alcohol was administered at a dose of 0.7 g/kg, which is equivalent to approximately 6 ounces of 80–proof vodka in an 80 kg male, and tadalafil was administered at a dose of 10 mg in one study and 20 mg in another.
-In both these studies, all patients imbibed the entire alcohol dose within 10 minutes of starting.
-In one of these two studies, blood alcohol levels of 0.08% were confirmed.
-In these two studies, more patients had clinically significant decreases in blood pressure on the combination of tadalafil and alcohol as compared to alcohol alone.
-Some subjects reported postural dizziness, and orthostatic hypotension was observed in some subjects.
-When tadalafil 20 mg was administered with a lower dose of alcohol (0.6 g/kg, which is equivalent to approximately 4 ounces of 80–proof vodka, administered in less than 10 minutes), orthostatic hypotension was not observed, dizziness occurred with similar frequency to alcohol alone, and the hypotensive effects of alcohol were not potentiated.
-
-Tadalafil did not affect alcohol plasma concentrations and alcohol did not affect tadalafil plasma concentrations.
-
-Effects on Blood Pressure When Administered with Alpha-Blockers
-
-Alpha-blockers and PDE5 inhibitors, including tadalafil, are systemic vasodilators.
-In subjects receiving concomitant tadalafil (20 mg single dose) and doxazosin (8 mg daily), an alpha-1 adrenergic receptor blocker, there was an augmentation of the blood pressure–lowering effect of doxazosin.
-This effect was still present at 12 hours postdose and had generally disappeared at 24 hours.
-The number of subjects with potentially clinically significant standing–blood–pressure decreases was greater for the combination.
-
-An additional study was performed with tadalafil (20 mg single dose) and doxazosin (4 and 8 mg daily) using ambulatory blood pressure monitoring.
-The augmentation appeared unrelated to dosing times and resulted in a greater number of outliers for the combination than had been observed in the previous study.
-Both of these studies had some symptomatology associated with these blood pressure changes.
-
-A further study was carried out with doxazosin (up to 4 mg daily) added to tadalafil (5 mg daily) and there was again an augmentation of response.
-In this clinical pharmacology study there were symptoms associated with the decrease in blood pressure, including syncope.
-
-An interaction study with tadalafil (20 mg single dose) and alfuzosin, also an alpha-1 adrenergic receptor blocker, showed no clinically significant effect on blood pressure.
-
-In two clinical pharmacology studies in healthy volunteers, tadalafil (5 mg daily, and 10 mg and 20 mg single dose) had no clinically significant effect on blood pressure changes because of tamsulosin, a selective alpha-1a adrenergic receptor blocking agent.
+Figure 1: Effects of Tadalafil on Blood Pressure
 
 Effects on Cardiac Electrophysiology
 
@@ -131,25 +87,25 @@ Over a dose range of 2.5 to 20 mg, tadalafil exposure (AUC) increases proportion
 In PAH patients administered between 20 and 40 mg of tadalafil, an approximately 1.5-fold greater AUC was observed indicating a less than proportional increase in exposure over the entire dose range of 2.5 to 40 mg.
 During tadalafil 20 and 40 mg once daily dosing, steady-state plasma concentrations were attained within 5 days, and exposure was approximately 1.3-fold higher than after a single dose.
 
-Absorption — After single oral-dose administration, the maximum observed plasma concentration (Cmax) of tadalafil is achieved between 2 and 8 hours (median time of 4 hours).
+Absorption— After single oral-dose administration, the maximum observed plasma concentration (Cmax) of tadalafil is achieved between 2 and 8 hours (median time of 4 hours).
 Absolute bioavailability of tadalafil following oral dosing has not been determined.
 
 The rate and extent of absorption of tadalafil are not influenced by food; thus tadalafil may be taken with or without food.
 
-Distribution — The mean apparent volume of distribution following oral administration is approximately 77 L, indicating that tadalafil is distributed into tissues.
+Distribution— The mean apparent volume of distribution following oral administration is approximately 77 L, indicating that tadalafil is distributed into tissues.
 At therapeutic concentrations, 94% of tadalafil in plasma is bound to proteins.
 
-Metabolism — Tadalafil is predominantly metabolized by CYP3A to a catechol metabolite.
+Metabolism— Tadalafil is predominantly metabolized by CYP3A to a catechol metabolite.
 The catechol metabolite undergoes extensive methylation and glucuronidation to form the methylcatechol and methylcatechol glucuronide conjugate, respectively.
 The major circulating metabolite is the methylcatechol glucuronide.
 Methylcatechol concentrations are less than 10% of glucuronide concentrations.
 In vitro data suggests that metabolites are not expected to be pharmacologically active at observed metabolite concentrations.
 
-Elimination — Following 40 mg, the mean oral clearance for tadalafil is 3.4 L/hr and the mean terminal half-life is 15 hours in healthy subjects.
+Elimination— Following 40 mg, the mean oral clearance for tadalafil is 3.4 L/hr and the mean terminal half-life is 15 hours in healthy subjects.
 In patients with pulmonary hypertension not receiving concomitant bosentan, the mean oral clearance for tadalafil is 1.6 L/hr, and the mean terminal half-life is 35 hours.
 Tadalafil is excreted predominantly as metabolites, mainly in the feces (approximately 61% of the dose) and to a lesser extent in the urine (approximately 36% of the dose).
 
-Population pharmacokinetics — In patients with pulmonary hypertension not receiving concomitant bosentan, the average tadalafil exposure at steady-state following 40 mg was 26% higher when compared to those of healthy volunteers.
+Population pharmacokinetics— In patients with pulmonary hypertension not receiving concomitant bosentan, the average tadalafil exposure at steady-state following 40 mg was 26% higher when compared to those of healthy volunteers.
 The results suggest a lower clearance of tadalafil in patients with pulmonary hypertension compared to healthy volunteers.
 
 Geriatric patients
@@ -161,13 +117,13 @@ Renal impairment
 In clinical pharmacology studies using single-dose tadalafil (5 to 10 mg), tadalafil exposure (AUC) doubled in subjects with mild (creatinine clearance 51 to 80 mL/min) or moderate (creatinine clearance 31 to 50 mL/min) renal impairment.
 In subjects with end-stage renal disease on hemodialysis, there was a two-fold increase in Cmax and 2.7- to 4.1-fold increase in AUC following single-dose administration of 10 or 20 mg tadalafil, respectively.
 Exposure to total methylcatechol (unconjugated plus glucuronide) was 2- to 4-fold higher in subjects with renal impairment, compared to those with normal renal function.
-Hemodialysis (performed between 24 and 30 hours post-dose) contributed negligibly to tadalafil or metabolite elimination [see Dosage and Administration (2.2) and Warnings and Precautions (5.3)].
+Hemodialysis (performed between 24 and 30 hours post-dose) contributed negligibly to tadalafil or metabolite elimination [see Dosage and Administration (2.2)].
 
 Hepatic impairment
 
 In clinical pharmacology studies, tadalafil exposure (AUC) in subjects with mild or moderate hepatic impairment (Child-Pugh Class A or B) was comparable to exposure in healthy subjects when a dose of 10 mg was administered.
 There are no available data for doses higher than 10 mg of tadalafil in patients with hepatic impairment.
-Insufficient data are available for subjects with severe hepatic impairment (Child-Pugh Class C) [see Dosage and Administration (2.2) and Warnings and Precautions (5.4)].
+Insufficient data are available for subjects with severe hepatic impairment (Child-Pugh Class C) [see Dosage and Administration (2.3)].
 
 Patients with diabetes mellitus
 
@@ -187,48 +143,46 @@ No dose adjustment is warranted.
 Drug interaction studies
 
 Tadalafil is a substrate of and predominantly metabolized by CYP3A.
-Drugs that inhibit CYP3A can increase tadalafil exposure.
+
+Cytochrome P450 3A4 inhibitors
+
+Ketoconazole increased tadalafil exposure relative to the values for tadalafil alone (Figure 2).
+Although specific interactions have not been studied, other CYP3A inhibitors, such as erythromycin, itraconazole, and grapefruit juice, would likely increase tadalafil exposure.
 
 Ritonavir
 
-Ritonavir (500 mg or 600 mg twice daily at steady state), an inhibitor of CYP3A, CYP2C9, CYP2C19, and CYP2D6, increased tadalafil 20 mg single-dose exposure (AUC) by 32% with a 30% reduction in Cmax, relative to the values for tadalafil 20 mg alone.
-Ritonavir (200 mg twice daily), increased tadalafil 20 mg single-dose exposure (AUC) by 124% with no change in Cmax, relative to the values for tadalafil 20 mg alone.
+Ritonavir increased tadalafil 20–mg single-dose exposure relative to the values for tadalafil alone.
 Ritonavir inhibits and induces CYP3A, the enzyme involved in the metabolism of tadalafil, in a time-dependent manner.
-The results suggest the initial inhibitory effect of ritonavir on CYP3A may be mitigated by a more slowly evolving induction effect so that after about 1 week of ritonavir twice daily, the exposure of tadalafil is similar in the presence of and absence of ritonavir [see Dosage and Administration (2.3), Warnings and Precautions (5.2), and Drug Interactions (7.2)].
+The initial inhibitory effect of ritonavir on CYP3A may be mitigated by a more slowly evolving induction effect so that after about 1 week of ritonavir twice daily, the exposure of tadalafil is similar in the presence of and absence of ritonavir [see Dosage and Administration (2.4) and Drug Interactions (7.5)].
 Although specific interactions have not been studied, other HIV protease inhibitors would likely increase tadalafil exposure.
 
-Other Cytochrome P450 inhibitors
+Cytochrome P450 3A4 inducers
 
-CYP3A (e.g., ketoconazole) — Ketoconazole (400 mg daily), a selective and potent inhibitor of CYP3A, increased tadalafil 20 mg single-dose exposure (AUC) by 312% and Cmax by 22%, relative to the values for tadalafil 20 mg alone.
-Ketoconazole (200 mg daily) increased tadalafil 10 mg single-dose exposure (AUC) by 107% and Cmax by 15%, relative to the values for tadalafil 10 mg alone.
+Rifampin (600 mg daily), a CYP3A inducer, reduced tadalafil 10 mg single–dose exposure (AUC) by 88% and Cmax by 46%, relative to the values for tadalafil 10 mg alone [see Drug Interactions (7.5)].
 
-Although specific interactions have not been studied, other CYP3A inhibitors, such as erythromycin, itraconazole, and grapefruit juice, would likely increase tadalafil exposure.
-
-Cytochrome P450 inducers
-
-CYP3A (e.g., rifampin, bosentan) — Rifampin (600 mg daily), a CYP3A inducer, reduced tadalafil 10 mg single–dose exposure (AUC) by 88% and Cmax by 46%, relative to the values for tadalafil 10 mg alone.
-
-Bosentan (125 mg twice daily), a substrate of CYP2C9 and CYP3A and a moderate inducer of CYP3A, CYP2C9 and possibly CYP2C19, reduced tadalafil (40 mg once per day) systemic exposure by 42% and Cmax by 27% following multiple-dose co-administration.
-
+Bosentan, a substrate of CYP2C9 and CYP3A and a moderate inducer of CYP3A, CYP2C9 and possibly CYP2C19, reduced tadalafil systemic exposure following multiple-dose co-administration (Figure 2).
 Although specific interactions have not been studied, other CYP3A inducers, such as carbamazepine, phenytoin, and phenobarbital, would likely decrease tadalafil exposure.
 
-Cytochrome P450 substrates — Tadalafil is not expected to cause clinically significant inhibition or induction of the clearance of drugs metabolized by cytochrome P450 (CYP) isoforms.
+Exposure changes of tadalafil following co-administration with other drugs are shown in Figure 2.
 
-CYP1A2 (e.g., theophylline) — Tadalafil (10 mg once per day) had no significant effect on the pharmacokinetics of theophylline.
-When tadalafil was administered to subjects taking theophylline, a small augmentation (3 beats per minute) of the increase in heart rate associated with theophylline was observed.
+a Ritonavir is also a CYP2C9/CYP2C19/CYP2D6 Inhibitor and CYP3A inducer.
 
-CYP2C9 (e.g., warfarin) — Tadalafil (10 mg and 20 mg once per day) had no significant effect on exposure (AUC) to S– warfarin or R–warfarin, nor did tadalafil affect changes in prothrombin time induced by warfarin.
+b [see Dosage and Administration (2.4)].
 
-CYP3A (e.g., midazolam, lovastatin or bosentan) — Tadalafil (10 mg and 20 mg once per day) had no significant effect on exposure (AUC) to midazolam or lovastatin.
-Tadalafil (40 mg once per day) had no clinically significant effect on exposure (AUC and Cmax) of bosentan, a substrate of CYP2C9 and CYP3A, or its metabolites.
+c Bosentan is also a CYP2C9/CYP2C19 inducer.
 
-Aspirin — Tadalafil (10 mg and 20 mg once per day) did not potentiate the increase in bleeding time caused by aspirin.
+Figure 2: Impact of Other Drugs on the Pharmacokinetics of Tadalafil
 
-P-glycoprotein (e.g., digoxin) — Coadministration of tadalafil (40 mg once per day) for 10 days did not have a significant effect on the steady-state pharmacokinetics of digoxin (0.25 mg/day) in healthy subjects.
+Cytochrome P450 substrates
 
-Combined oral contraceptives — At steady-state, tadalafil (40 mg once per day) increased ethinyl estradiol exposure (AUC) by 26% and Cmax by 70% relative to oral contraceptive administered with placebo.
-There was no significant effect of tadalafil on levonorgestrel.
+Tadalafil is not expected to cause clinically significant inhibition or induction of the clearance of drugs metabolized by cytochrome P450 (CYP) isoforms.
 
-Antacids — Simultaneous administration of an antacid (magnesium hydroxide/aluminum hydroxide) and tadalafil (10 mg) reduced the apparent rate of absorption of tadalafil without altering exposure (AUC) to tadalafil.
+Exposure changes of drugs following co-administration with tadalafil are shown in Figure 3.
 
-H2 antagonists (e.g., nizatidine) — An increase in gastric pH resulting from administration of nizatidine had no significant effect on tadalafil (10 mg) pharmacokinetics.
+a A small augmentation (increase of 3 beats per minute) in heart rate was observed with theophylline.
+
+b Tadalafil (40 mg qd) had no clinically significant effect on exposure (AUC and Cmax) of bosentan metabolites.
+
+c 95% CI
+
+Figure 3: Impact of Tadalafil on the Pharmacokinetics of Other Drugs
