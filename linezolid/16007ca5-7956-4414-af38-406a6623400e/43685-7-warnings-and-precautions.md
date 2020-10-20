@@ -4,7 +4,7 @@
 
 Myelosuppression (including anemia, leukopenia, pancytopenia, and thrombocytopenia) has been reported in patients receiving linezolid.
 In cases where the outcome is known, when linezolid was discontinued, the affected hematologic parameters have risen toward pretreatment levels.
-Complete blood counts should be monitored weekly in patients who receive linezolid, particularly in those who receive linezolid for longer than two weeks, those with pre-existing myelosuppression, those receiving concomitant drugs that produce bone marrow suppression, or those with a chronic infection who have received previous or concomitant antibiotic therapy.
+Complete blood counts should be monitored weekly in patients who receive linezolid, particularly in those who receive linezolid for longer than two weeks, those with pre-existing myelosuppression, those receiving concomitant drugs that produce bone marrow suppression, or those with a chronic infection who have received previous or concomitant antibacterial drug therapy.
 Discontinuation of therapy with linezolid should be considered in patients who develop or have worsening myelosuppression.
 
 ## 5.2 Peripheral and Optic Neuropathy
@@ -52,7 +52,7 @@ CDAD must be considered in all patients who present with diarrhea following anti
 Careful medical history is necessary since CDAD has been reported to occur over two months after the administration of antibacterial agents.
 
 If CDAD is suspected or confirmed, ongoing antibacterial drug use not directed against C. difficile may need to be discontinued.
-Appropriate fluid and electrolyte management, protein supplementation, antibiotic treatment of C. difficile, and surgical evaluation should be instituted as clinically indicated.
+Appropriate fluid and electrolyte management, protein supplementation, antibacterial drug treatment of C. difficile, and surgical evaluation should be instituted as clinically indicated.
 
 ## 5.6 Potential Interactions Producing Elevation of Blood Pressure
 

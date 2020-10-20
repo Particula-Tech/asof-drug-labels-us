@@ -12,7 +12,7 @@ Affected spermatids contained abnormally formed and oriented mitochondria and we
 Epithelial cell hypertrophy and hyperplasia in the epididymis were observed in conjunction with decreased fertility.
 Similar epididymal changes were not seen in dogs.
 
-In sexually mature male rats exposed to drug as juveniles, mildly decreased fertility was observed following treatment with linezolid through most of their period of sexual development (50 mg/kg/day from days 7 to 36 of age, and 100 mg/kg/day from days 37 to 55 of age), with exposures up to 1.7-fold greater than mean AUCs observed in pediatric patients aged 3 months to 11 years.
+In sexually mature male rats exposed to drug as juveniles, mildly decreased fertility was observed following treatment with linezolid through most of their period of sexual development (50 mg/kg/day from days 7 to 36 of age, and 100 mg/kg/day from days 37 to 55 of age), with exposures up to 1.7 times greater than mean AUCs observed in pediatric patients aged 3 months to 11 years.
 Decreased fertility was not observed with shorter treatment periods, corresponding to exposure in utero through the early neonatal period (gestation day 6 through postnatal day 5), neonatal exposure (postnatal days 5 to 21), or to juvenile exposure (postnatal days 22 to 35).
 Reversible reductions in sperm motility and altered sperm morphology were observed in rats treated from postnatal day 22 to 35.
 

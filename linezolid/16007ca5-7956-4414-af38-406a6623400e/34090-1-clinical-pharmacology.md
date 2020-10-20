@@ -124,7 +124,7 @@ Mean (Standard Deviation) AUCs and Elimination Half-lives of Linezolid and Metab
 | METABOLITE A |  |  |  |
 | AUC0-48, mcg h/mL | 7.6 (1.9) | 11.7 (4.3) | 56.5 (30.6) |
 | t1/2, hours | 6.3 (2.1) | 6.6 (2.3) | 9 (4.6) |
-| METABOLITE BMetabolite B is the major metabolic of linezolid. |  |  |  |
+| METABOLITE BMetabolite B is the major metabolite of linezolid. |  |  |  |
 | AUC0-48, mcg h/mL | 30.5 (6.2) | 51.1 (38.5) | 203 (92) |
 | t1/2, hours | 6.6 (2.7) | 9.9 (7.4) | 11 (3.9) |
 
@@ -152,7 +152,7 @@ Therefore, linezolid is not expected to affect the pharmacokinetics of other dru
 Concurrent administration of linezolid does not substantially alter the pharmacokinetic characteristics of (S)-warfarin, which is extensively metabolized by CYP2C9.
 Drugs such as warfarin and phenytoin, which are CYP2C9 substrates, may be given with linezolid without changes in dosage regimen.
 
-Antibiotics: Aztreonam: The pharmacokinetics of linezolid or aztreonam are not altered when administered together.
+Antibacterial Drugs: Aztreonam: The pharmacokinetics of linezolid or aztreonam are not altered when administered together.
 Gentamicin: The pharmacokinetics of linezolid or gentamicin are not altered when administered together.
 
 Antioxidants: The potential for drug-drug interactions with linezolid and the antioxidants Vitamin C and Vitamin E was studied in healthy volunteers.
