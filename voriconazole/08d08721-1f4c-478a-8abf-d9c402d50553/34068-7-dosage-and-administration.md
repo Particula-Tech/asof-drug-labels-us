@@ -67,7 +67,7 @@ If patient is unable to tolerate 4 mg/kg intravenously every 12 hours, reduce th
 The recommended dosing regimen for pediatric patients 2 to less than 12 years of age and 12 to 14 years of age with body weight less than 50 kg is shown in Table 2.
 For pediatric patients 12 to 14 years of age with a body weight greater than or equal to 50 kg and those 15 years of age and above regardless of body weight, administer the adult dosing regimen of VFEND [see Dosage and Administration (2.3)].
 
-Table 2: Recommended Dosing Regimen for Pediatric Patients 2 to less than 12 years of age and 12 to 14 years of age with body weight less than 50 kgBased on a population pharmacokinetic analysis in 112 immunocompromised pediatric patients aged 2 to less than12 years of age and 26 immunocompromised pediatric patients aged 12 to less than 17 years of age.
+Table 2: Recommended Dosing Regimen for Pediatric Patients 2 to less than 12 years of age and 12 to 14 years of age with body weight less than 50 kgBased on a population pharmacokinetic analysis in 112 immunocompromised pediatric patients aged 2 to less than 12 years of age and 26 immunocompromised pediatric patients aged 12 to less than 17 years of age.
 
 |  | Intravenous infusion | Intravenous infusion | Oral |
 | --- | --- | --- | --- |
