@@ -2,23 +2,17 @@ PRINCIPAL DISPLAY PANEL
 
 NDC 0173-0682-20
 
-Ventolin® HFA
+Ventolin HFA
 
-(albuterol sulfate)
-
-Inhalation Aerosol
+(albuterol sulfate inhalation aerosol)
 
 90 mcg per actuation
 
 200 Metered Inhalations
 
-FOR ORAL INHALATION ONLY
+For oral inhalation with Ventolin HFA actuator only.
 
-For use with Ventolin® HFA actuator only.
-
-Discard when the counter reads 000 or 12 months after removal from the moisture-protective foil pouch.
-
-Pouch opened: ____ Use by: ____
+Discard when the counter reads 000.
 
 Net Wt.
 18 g
@@ -49,5 +43,5 @@ Shake the inhaler well before each spray.
 
 Store at room temperature between 68oF and 77oF (20oC and 25oC). with the mouthpiece down.
 
-1. 10000000143842 Rev.
-   11/16
+1. 62000000048002 Rev.
+   3/20

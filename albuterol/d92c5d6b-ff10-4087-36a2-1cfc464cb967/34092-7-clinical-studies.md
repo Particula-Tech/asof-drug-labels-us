@@ -4,7 +4,7 @@
 
 Adult and Adolescent Subjects Aged 12 Years and Older
 
-The efficacy of VENTOLIN HFA was evaluated in two 12-week, randomized, double-blind, placebo controlled trials in subjects aged 12 years and older with mild to moderate asthma.
+The efficacy of VENTOLIN HFA was evaluated in two 12-week, randomized, double-blind, placebo-controlled trials in subjects aged 12 years and older with mild to moderate asthma.
 These trials included a total of 610 subjects (323 males, 287 females).
 In each trial, subjects received 2 inhalations of VENTOLIN HFA, CFC 11/12-propelled albuterol, or HFA-134a placebo 4 times daily for 12 weeks’ duration.
 Subjects taking the HFA-134a placebo inhaler also took VENTOLIN HFA for asthma symptom relief on an as-needed basis.

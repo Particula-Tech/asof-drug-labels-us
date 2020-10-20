@@ -3,7 +3,7 @@
 ## 13.1 Carcinogenesis, Mutagenesis, Impairment of Fertility
 
 In a 2-year study in Sprague-Dawley rats, albuterol sulfate caused a dose-related increase in the incidence of benign leiomyomas of the mesovarium at and above dietary doses of 2 mg/kg (approximately 15 and 6 times the MRHDID for adults and children, respectively, on a mg/m2 basis).
-In another study this effect was blocked by the coadministration of propranolol, a non‑selective beta-adrenergic antagonist.
+In another study this effect was blocked by the coadministration of propranolol, a non-selective beta-adrenergic antagonist.
 In an 18-month study in CD-1 mice, albuterol sulfate showed no evidence of tumorigenicity at dietary doses of up to 500 mg/kg (approximately 1,900 and 740 times the MRHDID for adults and children, respectively, on a mg/m2 basis).
 In a 22-month study in Golden hamsters, albuterol sulfate showed no evidence of tumorigenicity at dietary doses of up to 50 mg/kg (approximately 250 and 100 times the MRHDID for adults and children, respectively, on a mg/m2 basis).
 

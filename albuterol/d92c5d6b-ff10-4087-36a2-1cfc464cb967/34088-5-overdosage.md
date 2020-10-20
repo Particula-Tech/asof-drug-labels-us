@@ -2,7 +2,7 @@
 
 The expected signs and symptoms with overdosage of albuterol are those of excessive beta-adrenergic stimulation and/or occurrence or exaggeration of any of the signs and symptoms of beta-adrenergic stimulation (e.g., seizures, angina, hypertension or hypotension, tachycardia with rates up to 200 beats/min, arrhythmias, nervousness, headache, tremor, muscle cramps, dry mouth, palpitation, nausea, dizziness, fatigue, malaise, insomnia, hyperglycemia, hypokalemia, metabolic acidosis).
 
-As with all inhaled sympathomimetic medicines, cardiac arrest and even death may be associated with an overdose of VENTOLIN HFA Inhalation Aerosol.
+As with all inhaled sympathomimetic medicines, cardiac arrest and even death may be associated with an overdose of VENTOLIN HFA.
 
 Treatment consists of discontinuation of VENTOLIN HFA together with appropriate symptomatic therapy.
 The judicious use of a cardioselective beta-receptor blocker may be considered, bearing in mind that such medication can produce bronchospasm.

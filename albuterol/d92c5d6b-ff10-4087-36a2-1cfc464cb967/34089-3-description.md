@@ -8,7 +8,7 @@ It is soluble in water and slightly soluble in ethanol.
 
 The World Health Organization recommended name for albuterol base is salbutamol.
 
-VENTOLIN HFA is a blue plastic inhaler with a blue strapcap containing a pressurized metered-dose aerosol canister fitted with a counter.
+VENTOLIN HFA is a blue plastic inhaler with a blue cap containing a pressurized metered-dose aerosol canister fitted with a counter.
 Each canister contains a microcrystalline suspension of albuterol sulfate in propellant HFA-134a (1,1,1,2-tetrafluoroethane).
 It contains no other excipients.
 
