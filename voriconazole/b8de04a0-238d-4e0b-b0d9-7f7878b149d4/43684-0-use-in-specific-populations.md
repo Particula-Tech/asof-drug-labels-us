@@ -19,7 +19,8 @@ Data
 
 Animal Data
 
-Voriconazole was administered orally to pregnant rats during organogenesis (gestation days 6–17) at 10, 30, and 60 mg/kg/day..Voriconazole was associated with increased incidences in hydroureter and hydronephrosis at 10 mg/kg/day or greater, approximately 0.3 times the recommended human dose (RMD) based on mg/m2, and cleft palate at 60 mg/kg, approximately 2 times the RMD based on mg/m2.
+Voriconazole was administered orally to pregnant rats during organogenesis (gestation days 6–17) at 10, 30, and 60 mg/kg/day.
+Voriconazole was associated with increased incidences in hydroureter and hydronephrosis at 10 mg/kg/day or greater, approximately 0.3 times the recommended human dose (RMD) based on mg/m2, and cleft palate at 60 mg/kg, approximately 2 times the RMD based on mg/m2.
 Reduced ossification of sacral and caudal vertebrae, skull, pubic, and hyoid bone, supernumerary ribs, anomalies of the sternbrae, and dilatation of the ureter/renal pelvis were also observed at doses of 10 mg/kg or greater.
 There was no evidence of maternal toxicity at any dose.
 
