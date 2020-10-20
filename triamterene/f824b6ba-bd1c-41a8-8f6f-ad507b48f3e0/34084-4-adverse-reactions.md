@@ -66,6 +66,12 @@ Thrombocytopenia and pancreatitis – rarely, in newborns whose mothers have rec
 
 ## Skin
 
-Erythema multiforme including Stevens-Johnson syndrome, exfoliative dermatitis including toxic epidermal necrolysis.
+Erythema multiforme including Stevens-Johnson syndrome; exfoliative dermatitis, including toxic epidermal necrolysis.
+
+Postmarketing Experience: Non-Melanoma Skin Cancer
+
+Hydrochlorothiazide is associated with an increased risk of non-melanoma skin cancer.
+In a study conducted in the Sentinel System, increased risk was predominantly for squamous cell carcinoma (SCC) and in white patients taking large cumulative doses.
+The increased risk for SCC in the overall population was approximately 1 additional case per 16,000 patients per year, and for white patients taking a cumulative dose of ≥50,000 mg the risk increase was approximately 1 additional SCC case for every 6,700 patients per year.
 
 To report SUSPECTED ADVERSE REACTIONS, contact Sandoz Inc. at 1-800-525-8747 or FDA at 1-800-FDA-1088 or www.fda.gov/medwatch.

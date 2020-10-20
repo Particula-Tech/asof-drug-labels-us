@@ -20,4 +20,4 @@ Dependent edema in pregnancy resulting from restriction of venous return by the 
 There is hypervolemia during normal pregnancy which is harmful to neither the fetus nor the mother (in the absence of cardiovascular disease), but which is associated with edema, including generalized edema in the majority of pregnant women.
 If this edema produces discomfort, increased recumbency will often provide relief.
 In rare instances this edema may cause extreme discomfort which is not relieved by rest.
-In these cases a short course of diuretics may provide relief and may be appropriate.
+In these cases, a short course of diuretics may provide relief and may be appropriate.

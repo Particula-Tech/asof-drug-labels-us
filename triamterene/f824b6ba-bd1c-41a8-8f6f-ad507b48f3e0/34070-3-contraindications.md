@@ -11,7 +11,7 @@ If potassium supplementation is used, careful monitoring of the serum potassium 
 
 ## Impaired Renal Function
 
-Triamterene and hydrochlorothiazide is contraindicated in patients with anuria, acute and chronic renal insufficiency or significant renal impairment.
+Triamterene and hydrochlorothiazide is contraindicated in patients with anuria, acute and chronic renal insufficiency, or significant renal impairment.
 
 ## Hypersensitivity
 
@@ -19,4 +19,4 @@ Hypersensitivity to either drug in the preparation or to other sulfonamide-deriv
 
 ## Hyperkalemia
 
-Triamterene and hydrochlorothiazide should not be used in patients with preexisting elevated serum potassium.
+Triamterene and hydrochlorothiazide should not be used in patients with pre-existing elevated serum potassium.

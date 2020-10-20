@@ -1,6 +1,6 @@
 # OVERDOSAGE
 
-Electrolyte imbalance is the major concern (see WARNINGS section).
+Electrolyte imbalance is the major concern (see WARNINGS).
 Symptoms reported include: polyuria, nausea, vomiting, weakness, lassitude, fever, flushed face, and hyperactive deep tendon reflexes.
 If hypotension occurs, it may be treated with pressor agents such as levarterenol to maintain blood pressure.
 Carefully evaluate the electrolyte pattern and fluid balance.

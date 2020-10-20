@@ -11,44 +11,45 @@ The exact mechanism of the antihypertensive effect of hydrochlorothiazide is not
 The triamterene component of triamterene and hydrochlorothiazide capsule exerts its diuretic effect on the distal renal tubule to inhibit the reabsorption of sodium in exchange for potassium and hydrogen ions.
 Its natriuretic activity is limited by the amount of sodium reaching its site of action.
 Although it blocks the increase in this exchange that is stimulated by mineralocorticoids (chiefly aldosterone), it is not a competitive antagonist of aldosterone and its activity can be demonstrated in adrenalectomized rats and patients with Addison’s disease.
-As a result, the dose of triamterene required is not proportionally related to the level of mineralocorticoid activity, but is dictated by the response of the individual patients, and the kaliuretic effect of concomitantly administered drugs.
+As a result, the dose of triamterene required is not proportionally related to the level of mineralocorticoid activity but is dictated by the response of the individual patients, and the kaliuretic effect of concomitantly administered drugs.
 By inhibiting the distal tubular exchange mechanism, triamterene maintains or increases the sodium excretion and reduces the excess loss of potassium, hydrogen, and chloride ions induced by hydrochlorothiazide.
 As with hydrochlorothiazide, triamterene may reduce glomerular filtration and renal plasma flow.
-Via this mechanism it may reduce uric acid excretion although it has no tubular effect on uric acid reabsorption or secretion.
+Via this mechanism, it may reduce uric acid excretion although it has no tubular effect on uric acid reabsorption or secretion.
 Triamterene does not affect calcium excretion.
 No predictable antihypertensive effect has been demonstrated for triamterene.
 
 Duration of diuretic activity and effective dosage range of the hydrochlorothiazide and triamterene components are similar.
-Onset of diuresis with triamterene and hydrochlorothiazide takes place within one hour, peaks at two to three hours and tapers off during the subsequent seven to nine hours.
+Onset of diuresis with triamterene and hydrochlorothiazide takes place within one hour, peaks at two to three hours, and tapers off during the subsequent seven to nine hours.
 
 Triamterene and hydrochlorothiazide capsules are well absorbed.
 
-Upon administration of a single oral dose to fasted normal male volunteers, the following mean pharmacokinetic parameters were determined:
+Upon administration of a single oral dose to fasted normal male volunteers, mean pharmacokinetic parameters were determined (Table 1).
 
-|  | AUC (0-48)ng*hrs/mL(± SD) | Cmaxng/mL(± SD) | MedianTmaxHrs | Aemg(±SD) |
+Table 1.
+Mean Pharmacokinetic Parameters after Single Oral Dose in Fasted Male VolunteersAUC(0-48), Cmax, Tmax, and Ae represent area under the plasma concentration versus time plot, maximum plasma concentration, time to reach Cmax, and amount excreted in urine over 48 hours.
+
+|  | AUC (0-48)ng*h/mL(± SD) | Cmaxng/mL(± SD) | MedianTmaxh | AeMg(± SD) |
 | --- | --- | --- | --- | --- |
-| triamterene | 148.7 (87.9) | 46.4 (29.4) | 1.1 | 2.7 (1.4) |
-| hydroxytriamterene sulfate | 1865 (471) | 720 (364) | 1.3 | 19.7 (6.1) |
-| hydrochlorothiazide | 834 (177) | 135.1 (35.7) | 2.0 | 14.3 (3.8) |
-| Where AUC (0-48), Cmax, Tmax and Ae represent area under the plasma concentration versus time plot, maximum plasma concentration, time to reach Cmax and amount excreted in urine over 48 hours. |  |  |  |  |
+| Triamterene | 148.7 (87.9) | 46.4 (29.4) | 1.1 | 2.7 (1.4) |
+| Hydroxytriamterene sulfate | 1,865 (471) | 720 (364) | 1.3 | 19.7 (6.1) |
+| Hydrochlorothiazide | 834 (177) | 135.1 (35.7) | 2.0 | 14.3 (3.8) |
 
-One triamterene and hydrochlorothiazide capsule is bioequivalent to a single-entity 25 mg hydrochlorothiazide tablet and 37.5 mg triamterene capsule used in the double-blind clinical trial below.
-(See Clinical Trials.)
+A capsule of triamterene and hydrochlorothiazide is bioequivalent to a single entity 25-mg hydrochlorothiazide tablet and 37.5-mg triamterene capsule used in the double-blind clinical trial below (see CLINICAL TRIALS).
 
 In a limited study involving 12 subjects, coadministration of triamterene and hydrochlorothiazide capsule with a high-fat meal resulted in: (1) an increase in the mean bioavailability of triamterene by about 67% (90% confidence interval = 0.99, 1.90), p-hydroxytriamterene sulfate by about 50% (90% confidence interval = 1.06, 1.77), hydrochlorothiazide by about 17% (90% confidence interval = 0.90, 1.34); (2) increases in the peak concentrations of triamterene and p-hydroxytriamterene; and (3) a delay of up to 2 hours in the absorption of the active constituents.
 
-## Clinical Trials
+## CLINICAL TRIALS
 
 A placebo-controlled, double-blind trial was conducted to evaluate the efficacy of triamterene and hydrochlorothiazide capsules.
-This trial demonstrated that triamterene and hydrochlorothiazide capsules 37.5 mg/25 mg were effective in controlling blood pressure while reducing the incidence of hydrochlorothiazide-induced hypokalemia.
+This trial demonstrated that triamterene and hydrochlorothiazide capsules (25 mg hydrochlorothiazide/37.5 mg triamterene) was effective in controlling blood pressure while reducing the incidence of hydrochlorothiazide-induced hypokalemia.
 This trial involved 636 patients with mild to moderate hypertension controlled by hydrochlorothiazide 25 mg daily and who had hypokalemia (serum potassium <3.5 mEq/L) secondary to the hydrochlorothiazide.
 Patients were randomly assigned to 4 weeks’ treatment with once-daily regimens of 25 mg hydrochlorothiazide plus placebo, or 25 mg hydrochlorothiazide combined with one of the following doses of triamterene: 25 mg, 37.5 mg, 50 mg, or 75 mg.
 
 Blood pressure and serum potassium were monitored at baseline and throughout the trial.
-All five treatment groups had similar mean blood pressure and serum potassium concentrations at baseline (mean systolic blood pressure range: 137±14 mmHg to 140±16 mmHg; mean diastolic blood pressure range: 86±9 mmHg to 88±8 mmHg; mean serum potassium range: 2.3 to 3.4 mEq/L with the majority of patients having values between 3.1 and 3.4 mEq/L).
+All five treatment groups had similar mean blood pressure and serum potassium concentrations at baseline (mean systolic blood pressure range: 137 ± 14 mmHg to 140 ± 16 mmHg; mean diastolic blood pressure range: 86 ± 9 mmHg to 88 ± 8 mmHg; mean serum potassium range: 2.3 to 3.4 mEq/L with the majority of patients having values between 3.1 and 3.4 mEq/L).
 
-While all triamterene regimens reversed hypokalemia, at week 4 the 37.5 mg regimen proved optimal compared with the other tested regimens.
-On this regimen, 81% of the patients had a significant (p<0.05) reversal of hypokalemia vs. 59% of patients on the placebo/hydrochlorothiazide regimen.
-The mean serum potassium concentration on 37.5 mg triamterene went from 3.2±0.2 mEq/L at baseline to 3.7±0.3 mEq/L at week 4, a significantly greater (p<0.05) improvement than that achieved with placebo/hydrochlorothiazide (i.e., 3.2±0.2 mEq/L at baseline and 3.5±0.4 mEq/L at week 4).
-Also, 51% of patients in the 37.5 mg triamterene group had an increase in serum potassium of ≥0.5 mEq/L at week 4 vs. 33% in the placebo group.
-The 37.5 mg triamterene/25 mg hydrochlorothiazide regimen also maintained control of blood pressure; mean supine systolic blood pressure at week 4 was 138±21 mmHg while mean supine diastolic blood pressure was 87±13 mmHg.
+While all triamterene regimens reversed hypokalemia, at Week 4 the 37.5-mg regimen proved optimal compared with the other tested regimens.
+On this regimen, 81% of the patients had a significant (P<0.05) reversal of hypokalemia vs. 59% of patients on the placebo/hydrochlorothiazide regimen.
+The mean serum potassium concentration on 37.5 mg triamterene went from 3.2 ± 0.2 mEq/L at baseline to 3.7 ± 0.3 mEq/L at Week 4, a significantly greater (P<0.05) improvement than that achieved with placebo/hydrochlorothiazide (i.e., 3.2 ± 0.2 mEq/L at baseline and 3.5 ± 0.4 mEq/L at Week 4).
+Also, 51% of patients in the 37.5-mg triamterene group had an increase in serum potassium of ≥0.5 mEq/L at Week 4 vs. 33% in the placebo group.
+The 37.5-mg triamterene/25-mg hydrochlorothiazide regimen also maintained control of blood pressure; mean supine systolic blood pressure at Week 4 was 138 ± 21 mmHg while mean supine diastolic blood pressure was 87 ± 13 mmHg.

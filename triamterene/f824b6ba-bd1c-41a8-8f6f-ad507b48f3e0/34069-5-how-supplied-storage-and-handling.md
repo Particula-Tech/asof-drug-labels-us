@@ -21,6 +21,4 @@ Sandoz Inc.
 Princeton, NJ 08540
 
 Rev.
-March 2018
-
-46225003
+September 2020
