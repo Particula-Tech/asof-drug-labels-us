@@ -25,6 +25,7 @@ Made in UK
 
 1. 62000000036616 Rev.
    4/19
+2. 
 
 PRINCIPAL DISPLAY PANEL
 
@@ -53,6 +54,7 @@ Made in Singapore
 
 1. 62000000036624 Rev.
    4/19
+2. 
 
 PRINCIPAL DISPLAY PANEL
 
@@ -83,3 +85,4 @@ Made in Singapore
 
 1. 62000000036620 Rev.
    4/19
+2. 
