@@ -1,0 +1,20 @@
+{
+  "application_numbers": [
+    "ANDA213560"
+  ],
+  "inn": "halobetasol",
+  "labeler": "QUAGEN PHARMACEUTICALS LLC",
+  "package_ndcs": [
+    "70752-119-02",
+    "70752-119-04"
+  ],
+  "products": [
+    {
+      "form": "OINTMENT",
+      "generic": "halobetasol propionate",
+      "name": "Halobetasol Propionate"
+    }
+  ],
+  "setid": "fd4ebec1-e5ba-46cc-9627-4645a7b3bf19",
+  "source": "dailymed"
+}
