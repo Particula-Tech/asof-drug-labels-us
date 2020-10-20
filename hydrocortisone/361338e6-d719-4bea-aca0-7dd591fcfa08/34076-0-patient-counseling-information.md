@@ -18,6 +18,6 @@ Manufactured by:
 
 PharmaDerm® A division of Fougera PHARMACEUTICALS INC. Melville, New York 11747 www.pharmaderm.com
 
-46200776A
+46275355A /46275356A
 
-R01/17
+R08/2020
