@@ -20,11 +20,11 @@ SEE CRIMP FOR LOT NO. AND EXPIRATION DATE
 
 Manufactured by: Almirall Hermal GmbH, 21465 Reinbek, Germany
 
-Distributed by: Aqua Pharmaceuticals, an Almirall Company Exton, PA 19341, U.S.A.
+Distributed by: Almirall, LLC, Exton, PA 19341, U.S.A.
 
-Fluoroplex is a registered trademark of Aqua Pharmaceuticals, LLC
+Fluoroplex is a registered trademark of Almirall, LLC
 
-AQUA PHARMACEUTICALS
+ALMIRALL, LLC
 
 # PRINCIPAL DISPLAY PANEL - 30 g Carton Label
 
@@ -46,8 +46,8 @@ Store at 15° - 30°C (59° - 86°F).
 
 Manufactured by: Almirall Hermal GmbH, 21465 Reinbek, Germany
 
-Distributed by: Aqua Pharmaceuticals, an Almirall Company Exton, PA 19341, U.S.A.
+Distributed by: Almirall, LLC, Exton, PA 19341, U.S.A.
 
-Fluoroplex is a registered trademark of Aqua Pharmaceuticals, LLC
+Fluoroplex is a registered trademark of Almirall, LLC
 
-AQUA PHARMACEUTICALS an Almirall company
+ALMIRALL, LLC

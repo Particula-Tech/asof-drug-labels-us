@@ -1,5 +1,5 @@
-Revised July 2016
+Revised October 2019
 
-AQUA PHARMACEUTICALS an Almirall company
+ALMIRALL, LLC
 
-® Marks owned by Aqua Pharmaceuticals Manufactured by: Aqua Pharmaceuticals, an Almirall Company Exton, PA 19341, U.S.A. Made in Germany
+® Marks owned by Almirall, LLC Manufactured by: Almirall, LLC Exton, PA 19341, U.S.A. Made in Germany

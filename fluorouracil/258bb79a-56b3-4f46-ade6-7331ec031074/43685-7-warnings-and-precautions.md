@@ -29,7 +29,7 @@ In mice, single-dose intravenous and intraperitoneal injections of fluorouracil 
 
 Fluorouracil was negative in the dominant lethal mutation assay performed in mice.
 
-Pregnancy: Teratogenic Effects: Pregnancy Category X: Fluorouracil may cause fetal harm when administered to a pregnant woman.
+Pregnancy: Teratogenic Effects: Fluorouracil may cause fetal harm when administered to a pregnant woman.
 Fluorouracil administered parenterally has been shown to be teratogenic in mice, rats and hamsters, and embryolethal in monkeys.
 Fluorouracil is contraindicated in women who are or may become pregnant.
 If this drug is used during pregnancy, or if the patient becomes pregnant while taking this drug, the patient should be apprised of the potential hazard to the fetus.
