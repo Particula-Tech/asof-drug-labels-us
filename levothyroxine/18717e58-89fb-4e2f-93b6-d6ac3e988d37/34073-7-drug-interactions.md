@@ -4,16 +4,15 @@
 
 Many drugs can exert effects on thyroid hormone pharmacokinetics and metabolism (e.g., absorption, synthesis, secretion, catabolism, protein binding, and target tissue response) and may alter the therapeutic response to levothyroxine sodium tablets (see Tables 2 to 5 below).
 
-Table 2.
-Drugs That May Decrease T4 Absorption (Hypothyroidism)\
+Table 2 Drugs That May Decrease T4 Absorption (Hypothyroidism)
 
 | Potential impact: Concurrent use may reduce the efficacy of levothyroxine sodium tablets by binding and delaying or preventing absorption, potentially resulting in hypothyroidism. |  |
 | --- | --- |
 | Drug or Drug Class | Effect |
-| Calcium Carbonate Ferrous Sulfate | Calcium carbonate may form an insoluble chelate with levothyroxine, and ferrous sulfate likely forms a ferric-thyroxine complex. Administer levothyroxine sodium tablets at least 4 hours apart from these agents. |
+| Phosphate Binders (e.g., calcium carbonate, ferrous sulfate, sevelamer, lanthanum) | Phosphate binders may bind to levothyroxine. Administer levothyroxine sodium tablets at least 4 hours apart from these agents. |
 | Orlistat | Monitor patients treated concomitantly with orlistat and levothyroxine sodium tablets for changes in thyroid function. |
-| Bile Acid Sequestrants -Colesevelam -Cholestyramine -Colestipol Ion Exchange Resins -Kayexalate -Sevelamer | Bile acid sequestrants and ion exchange resins are known to decrease levothyroxine absorption. Administer levothyroxine sodium tablets at least 4 hours prior to these drugs or monitor TSH levels. |
-| Other drugs: Proton Pump Inhibitors Sucralfate Antacids - Aluminum & Magnesium Hydroxides - Simethicone | Gastric acidity is an essential requirement for adequate absorption of levothyroxine. Sucralfate, antacids and proton pump inhibitors may cause hypochlorhydria, affect intragastric pH, and reduce levothyroxine absorption. Monitor patients appropriately. |
+| Bile Acid Sequestrants (e.g., colesevelam, cholestyramine, colestipol) Ion Exchange Resins (e.g., Kayexalate) | Bile acid sequestrants and ion exchange resins are known to decrease levothyroxine absorption. Administer levothyroxine sodium tablets at least 4 hours prior to these drugs or monitor TSH levels. |
+| Proton Pump Inhibitors Sucralfate Antacids (e.g., aluminum & magnesium hydroxides, simethicone) | Gastric acidity is an essential requirement for adequate absorption of levothyroxine. Sucralfate, antacids and proton pump inhibitors may cause hypochlorhydria, affect intragastric pH, and reduce levothyroxine absorption. Monitor patients appropriately. |
 
 Table 3.
 Drugs That May Alter T4 and Triiodothyronine (T3) Serum Transport Without Affecting Free Thyroxine (FT4) Concentration (Euthyroidism)
