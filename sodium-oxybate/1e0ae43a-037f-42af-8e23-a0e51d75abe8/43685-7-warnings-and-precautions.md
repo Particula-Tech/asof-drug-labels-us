@@ -76,7 +76,7 @@ Of the two suicides, one patient used Xyrem in conjunction with other drugs.
 Xyrem was not involved in the second suicide.
 Adverse reactions of depression were reported by 7% of 781 patients treated with Xyrem, with four patients (<1%) discontinuing because of depression.
 In most cases, no change in Xyrem treatment was required.
-In a clinical trial with Xyrem in pediatric patients with narcolepsy (n=104), one patient experienced suicidal ideation while taking Xyrem.
+In a clinical trial with Xyrem in pediatric patients with narcolepsy (n=104), one patient experienced suicidal ideation and two patients reported depression while taking Xyrem.
 
 The emergence of depression in patients treated with XYWAV requires careful and immediate evaluation.
 Patients with a previous history of a depressive illness and/or suicide attempt should be monitored carefully for the emergence of depressive symptoms while taking XYWAV.

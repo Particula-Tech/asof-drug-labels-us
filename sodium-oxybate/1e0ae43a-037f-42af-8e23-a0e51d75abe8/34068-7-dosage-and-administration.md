@@ -67,7 +67,7 @@ Titrate as needed based on efficacy and tolerability [see Dosage and Administrat
 
 The recommended starting dosage in patients with hepatic impairment is one-half of the original dosage per night administered orally, divided into two doses [see Use in Specific Populations (8.6) and Clinical Pharmacology (12.3)].
 
-## 2.6 Dose Adjustment with Co-administration of Divalproex Sodium
+## 2.6 Dosage Adjustment with Co-administration of Divalproex Sodium
 
 When initiating divalproex sodium in patients taking a stable dosage of XYWAV, a reduction of the XYWAV dosage by at least 20% is recommended with initial concomitant use [see Drug Interactions (7.2) and Clinical Pharmacology (12.3)].
 When initiating XYWAV in patients already taking divalproex sodium, a lower starting dosage of XYWAV is recommended.

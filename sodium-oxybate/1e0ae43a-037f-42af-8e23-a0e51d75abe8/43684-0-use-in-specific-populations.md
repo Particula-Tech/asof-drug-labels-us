@@ -44,7 +44,7 @@ The safety and effectiveness of XYWAV for the treatment of cataplexy or excessiv
 XYWAV has not been studied in a pediatric clinical trial.
 Use of XYWAV in pediatric patients 7 years of age and older with narcolepsy is supported by evidence from an adequate and well-controlled study of sodium oxybate in pediatric patients 7 to 17 years of age, a study in adults showing a treatment effect of XYWAV similar to that observed with sodium oxybate, pharmacokinetic data of sodium oxybate from adult and pediatric patients, and pharmacokinetic data of XYWAV from healthy adult volunteers [see Adverse Reactions (6.1) and Clinical Studies (14.1, 14.2)].
 
-In the pediatric clinical trial with sodium oxybate administration in patients with narcolepsy, serious adverse reactions of central sleep apnea and oxygen desaturation documented by polysomnography evaluation; suicidal ideation in one patient; neuropsychiatric reactions including acute psychosis, confusion, and anxiety; and parasomnias, including sleepwalking, have been reported [see Warnings and Precautions (5.4, 5.5, 5.6, 5.7) and Adverse Reactions (6.1)].
+In the pediatric clinical trial with sodium oxybate administration in patients with narcolepsy, serious adverse reactions of central sleep apnea and oxygen desaturation documented by polysomnography evaluation; depression; suicidal ideation; neuropsychiatric reactions including acute psychosis, confusion, and anxiety; and parasomnias, including sleepwalking, have been reported [see Warnings and Precautions (5.4, 5.5, 5.6, 5.7) and Adverse Reactions (6.1)].
 
 Safety and effectiveness of XYWAV in pediatric patients below the age of 7 years have not been established.
 

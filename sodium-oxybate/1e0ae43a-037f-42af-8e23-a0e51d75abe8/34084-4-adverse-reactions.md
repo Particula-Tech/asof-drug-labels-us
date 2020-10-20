@@ -67,15 +67,17 @@ Pain, feeling drunk, pain in extremity, cataplexy, disturbance in attention, sle
 
 Pediatric Patients (7 Years of Age and Older)
 
-In the pediatric clinical trial with Xyrem (same active moiety as XYWAV), 104 patients aged 7 to 17 years (37 patients aged 7 to 11 years; 67 patients aged 12 to 17 years) with narcolepsy received Xyrem up to 377 days (median exposure 332 days) [see Clinical Studies (14.2)].
+In the pediatric clinical trial with Xyrem (same active moiety as XYWAV), 104 patients aged 7 to 17 years (37 patients aged 7 to 11 years; 67 patients aged 12 to 17 years) with narcolepsy received Xyrem for up to one year [see Clinical Studies (14.2)].
+This study included an open-label safety continuation period in which eligible patients received Xyrem for up to an additional 2 years.
+The median and maximum exposure across the entire study were 371 and 987 days, respectively.
 
 Adverse Reactions Leading to Treatment Discontinuation
 
-In the pediatric clinical trial with Xyrem, 5 of 104 patients reported adverse reactions that led to withdrawal from the study (hallucination, tactile; suicidal ideation; weight decreased; sleep apnea syndrome; and affect lability).
+In the pediatric clinical trial with Xyrem, 7 of 104 patients reported adverse reactions that led to withdrawal from the study (hallucination, tactile; suicidal ideation; weight decreased; sleep apnea syndrome; affect lability; anger, anxiety, depression; and headache).
 
 Adverse Reactions in the Xyrem Pediatric Clinical Trial
 
-The most common adverse reactions (≥5%) were enuresis (18%), nausea (17%), headache (16%), vomiting (16%), weight decreased (12%), decreased appetite (8%), and dizziness (6%).
+The most common adverse reactions (≥5%) were nausea (20%), enuresis (19%), vomiting (18%), headache (17%), weight decreased (13%), decreased appetite (9%), dizziness (8%), and sleepwalking (6%).
 
 Additional information regarding safety in pediatric patients appears in the following sections:
 
