@@ -14,7 +14,6 @@ Fluoxetine binds to these and other membrane receptors from brain tissue much le
 ## 12.3 Pharmacokinetics
 
 Systemic Bioavailability — In man, following a single oral 40 mg dose, peak plasma concentrations of fluoxetine from 15 to 55 ng/mL are observed after 6 to 8 hours.
-The capsule and oral solution dosage forms of fluoxetine are bioequivalent.
 Food does not appear to affect the systemic bioavailability of fluoxetine, although it may delay its absorption by 1 to 2 hours, which is probably not clinically significant.
 Thus, fluoxetine may be administered with or without food.
 Protein Binding — Over the concentration range from 200 to 1000 ng/mL, approximately 94.5% of fluoxetine is bound in vitro to human serum proteins, including albumin and α1-glycoprotein.
@@ -51,7 +50,7 @@ This is of potential consequence when drug discontinuation is required or when d
 Liver Disease — As might be predicted from its primary site of metabolism, liver impairment can affect the elimination of fluoxetine.
 The elimination half-life of fluoxetine was prolonged in a study of cirrhotic patients, with a mean of 7.6 days compared with the range of 2 to 3 days seen in subjects without liver disease; norfluoxetine elimination was also delayed, with a mean duration of 12 days for cirrhotic patients compared with the range of 7 to 9 days in normal subjects.
 This suggests that the use of fluoxetine in patients with liver disease must be approached with caution.
-If fluoxetine is administered to patients with liver disease, a lower or less frequent dose should be used [see Dosage and Administration (2.7), Use in Specific Populations (8.6)].
+If fluoxetine is administered to patients with liver disease, a lower or less frequent dose should be used [see Dosage and Administration (2.7) and Use in Specific Populations (8.6)].
 Renal Disease — In depressed patients on dialysis (N=12), fluoxetine administered as 20 mg once daily for 2 months produced steady-state fluoxetine and norfluoxetine plasma concentrations comparable with those seen in patients with normal renal function.
 While the possibility exists that renally excreted metabolites of fluoxetine may accumulate to higher levels in patients with severe renal dysfunction, use of a lower or less frequent dose is not routinely necessary in renally impaired patients.
 Geriatric Pharmacokinetics — The disposition of single doses of fluoxetine in healthy elderly subjects (>65 years of age) did not differ significantly from that in younger normal subjects.

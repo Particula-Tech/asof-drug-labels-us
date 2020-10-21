@@ -112,8 +112,6 @@ Fluoxetine capsules monotherapy is not indicated for the treatment of treatment 
 
 ## 2.7 Dosing in Specific Populations
 
-Treatment of Pregnant Women — When treating pregnant women with fluoxetine capsules, the physician should carefully consider the potential risks and potential benefits of treatment.
-Neonates exposed to SSRIs or SNRIs late in the third trimester have developed complications requiring prolonged hospitalization, respiratory support, and tube feeding [see Use in Specific Populations (8.1)].
 Geriatric — Consider a lower or less frequent dosage for the elderly [see Use in Specific Populations (8.5)].
 Hepatic Impairment — As with many other medications, use a lower or less frequent dosage in patients with hepatic impairment [see Clinical Pharmacology (12.4) and Use in Specific Populations (8.6)].
 Concomitant Illness — Patients with concurrent disease or on multiple concomitant medications may require dosage adjustments [see Clinical Pharmacology (12.4) and Warnings and Precautions (5.12)].
@@ -139,4 +137,4 @@ If acceptable alternatives to linezolid or intravenous methylene blue treatment 
 The patient should be monitored for symptoms of serotonin syndrome for five weeks or until 24 hours after the last dose of linezolid or intravenous methylene blue, whichever comes first.
 Therapy with fluoxetine capsules may be resumed 24 hours after the last dose of linezolid or intravenous methylene blue [see Warnings and Precautions (5.2)].
 The risk of administering methylene blue by non-intravenous routes (such as oral tablets or by local injection) or in intravenous doses much lower than 1 mg/kg with fluoxetine capsules is unclear.
-The clinician should, nevertheless, be aware of the possibility of emergent symptoms of serotonin syndrome with such use [see Warnings and Precautions (5.2)].
+The healthcare provider should, nevertheless, be aware of the possibility of emergent symptoms of serotonin syndrome with such use [see Warnings and Precautions (5.2)].

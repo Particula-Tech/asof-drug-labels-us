@@ -1,6 +1,6 @@
 # Medication Guide
 
-Fluoxetine Capsules, USP (floo ox' e teen) Read the Medication Guide that comes with fluoxetine capsules before you start taking them and each time you get a refill.
+Fluoxetine Capsules, USP (floo ox' e teen) for oral use Read the Medication Guide that comes with fluoxetine capsules before you start taking them and each time you get a refill.
 There may be new information.
 This Medication Guide does not take the place of talking to your healthcare provider about your medical condition or treatment.
 Talk with your healthcare provider if there is something you do not understand or want to learn more about.
@@ -164,11 +164,13 @@ Before starting fluoxetine capsules, tell your healthcare provider if you:
 - have high blood pressure
 - have or had bleeding problems
 - are pregnant or plan to become pregnant.
-  It is not known if fluoxetine capsules will harm your unborn baby.
+  Taking fluoxetine capsules late in pregnancy may lead to an increased risk of certain problems in your newborn.
   Talk to your healthcare provider about the benefits and risks of treating depression during pregnancy.
+  - If you become pregnant while taking fluoxetine capsules, talk to your healthcare provider about registering with the National Pregnancy Registry for Antidepressants.
+    You can register by calling 1-844-405-6185 or go to https://womensmentalhealth.org/clinical-and-research-programs/pregnancyregistry/antidepressants/.
 - are breast-feeding or plan to breast-feed.
-  Some fluoxetine may pass into your breast milk.
-  Talk to your healthcare provider about the best way to feed your baby while taking fluoxetine capsules.
+  Fluoxetine may pass into your breast milk.
+  Talk to your healthcare provider about the best way to feed your baby if taking fluoxetine capsules.
 
 Tell your healthcare provider about all the medicines that you take, including prescription and non-prescription medicines, vitamins, and herbal supplements.
 Fluoxetine capsules and some medicines may interact with each other, may not work as well, or may cause serious side effects.
@@ -278,8 +280,8 @@ Jantoven® is a registered trademark of Upsher-Smith Laboratories Inc.
 Zyprexa® is a registered trademark of Eli Lilly and Company.
 
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
-Dispense with Medication Guide available at: www.aurobindousa.com/product-medication-guides Distributed by: Aurobindo Pharma USA, Inc. 279 Princeton-Hightstown Road East Windsor, NJ 08520
+Dispense with Medication Guide available at: www.aurobindousa.com/medication-guides Distributed by: Aurobindo Pharma USA, Inc. 279 Princeton-Hightstown Road East Windsor, NJ 08520
 
 Manufactured by: Aurobindo Pharma Limited Hyderabad-500 038, India
 
-Revised: 06/2018
+Revised: 10/2020
