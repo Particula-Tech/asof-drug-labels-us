@@ -1,118 +1,37 @@
-Medication Guide for Diclofenac Sodium (dye kloe’ fen ak soe’ dee um) and Misoprostol (mye’ soe pros’ tol) Delayed-Release Tablets
-
-A combination of diclofenac a Nonsteroidal Anti-inflammatory Drug (NSAID) and misoprostol a GI mucosal protective prostaglandin E1 analog
-
-What is the most important information I should know about diclofenac sodium and misoprostol delayed-release tablets?
-
-Do not take diclofenac sodium and misoprostol delayed-release tablets if you are pregnant.
-Diclofenac sodium and misoprostol can cause abortion, premature birth, birth defects, and uterine rupture.
-
-What is the most important information I should know about medicines containing Nonsteroidal Anti-inflammatory Drugs (NSAIDs)?
-
-NSAIDs can cause serious side effects, including:
-
-- Increased risk of a heart attack or stroke that can lead to death.
-  This risk may happen early in treatment and may increase: ○ with increasing doses of NSAIDs ○ with longer use of NSAIDs
-
-Do not take NSAID containing medicines right before or after a heart surgery called a “coronary artery bypass graft (CABG)."
-
-Avoid taking NSAID containing medicines after a recent heart attack, unless your healthcare provider tells you to.
-You may have an increased risk of another heart attack if you take NSAIDs after a recent heart attack
-
-- Increased risk of bleeding, ulcers, and tears (perforation) of the esophagus (tube leading from the mouth to the stomach), stomach and intestines: ○ anytime during use ○ without warning symptoms ○ that may cause death
-
-The risk of getting an ulcer or bleeding increases with:
-
-| ○ past history of stomach ulcers, or stomach or intestinal bleeding with use of NSAIDs |  |
+| MEDICATION GUIDE for Diclofenac Sodium (dye kloe' fen ak soe' dee um) and Misoprostol (mye'' soe pros' tol) Delayed-Release TabletsA combination of diclofenac a Nonsteroidal Anti-inflammatory Drug (NSAID) and misoprostol a GI mucosal protective prostaglandin E1 analog |  |
 | --- | --- |
-| ○ taking medicines called “corticosteroids”, “anticoagulants”, “SSRIs”, or “SNRIs” |  |
-| ○ increasing doses of NSAIDs | ○ older age |
-| ○ longer use of NSAIDs | ○ poor health |
-| ○ smoking | ○ advanced liver disease |
-| ○ drinking alcohol | ○ bleeding problems |
-
-NSAID containing medicines should only be used: ○ exactly as prescribed ○ at the lowest dose possible for your treatment ○ for the shortest time needed
-
-What are NSAIDs?
-NSAIDs are used to treat pain and redness, swelling, and heat (inflammation) from medical conditions such as different types of arthritis, menstrual cramps, and other types of short-term pain.
-
-Who should not take NSAID containing medicines?
-Do not take NSAIDs:
-
-- if you have had an asthma attack, hives, or other allergic reaction with aspirin or any other NSAIDs.
-- right before or after heart bypass surgery.
-
-Before taking diclofenac sodium and misoprostol delayed-release tablets, tell your healthcare provider about all of your medical conditions, including if you:
-
-- have liver or kidney problems
-- have high blood pressure
-- have asthma
-- are pregnant or plan to become pregnant.
-- are breastfeeding or plan to breastfeed.
-
-Tell your healthcare provider about all of the medicines you take, including prescription or over-the-counter medicines, vitamins or herbal supplements.
-NSAIDs and some other medicines can interact with each other and cause serious side effects.
-Do not start taking any new medicine without talking to your healthcare provider first.
-
-What are the possible side effects of NSAIDs?
-NSAIDs can cause serious side effects, including: See “What is the most important information I should know about medicines called Nonsteroidal Anti-inflammatory Drugs (NSAIDs)?”
-
-- new or worse high blood pressure
-- heart failure
-- liver problems including liver failure
-- kidney problems including kidney failure
-- low red blood cells (anemia)
-- life-threatening skin reactions
-- life-threatening allergic reactions
-- Other side effects of NSAIDs include: stomach pain, constipation, diarrhea, gas, heartburn, nausea, vomiting, and dizziness.
-
-Get emergency help right away if you get any of the following symptoms:
-
-| ● shortness of breath or trouble breathing | ● slurred speech |
-| --- | --- |
-| ● chest pain | ● swelling of the face or throat |
-| ● weakness in one part or side of your body |  |
-
-Stop taking your NSAID and call your healthcare provider right away if you get any of the following symptoms:
-
-| ● nausea | ● vomit blood |  |
-| --- | --- | --- |
-| ● more tired or weaker than usual | ● there is blood in your bowel movement or it is black and sticky like tar |  |
-| ● diarrhea | ● unusual weight gain |  |
-| ● itching | ● skin rash or blisters with fever |  |
-| ● your skin or eyes look yellow | ● swelling of the arms, legs, hands and feet |  |
-| ● indigestion or stomach pain |  |  |
-| ● flu-like symptoms |  |  |
-
-If you take too much of your NSAID, call your healthcare provider or get medical help right away.
-These are not all the possible side effects of NSAIDs.
-For more information, ask your healthcare provider or pharmacist about NSAIDs.
-
-Call your doctor for medical advice about side effects.
-You may report side effects to FDA at 1-800-FDA-1088.
-
-Other information about NSAIDs
-
-- Aspirin is an NSAID but it does not increase the chance of a heart attack.
-  Aspirin can cause bleeding in the brain, stomach, and intestines.
-  Aspirin can also cause ulcers in the stomach and intestines.
-- Some NSAIDs are sold in lower doses without a prescription (over-the-counter).
-  Talk to your healthcare provider before using over-the-counter NSAIDs for more than 10 days.
-
-General information about the safe and effective use of NSAIDs Medicines are sometimes prescribed for purposes other than those listed in a Medication Guide.
-Do not use NSAIDs for a condition for which it was not prescribed.
-Do not give NSAIDs to other people, even if they have the same symptoms that you have.
-It may harm them.
-
-If you would like more information about NSAIDs, talk with your healthcare provider.
-You can ask your pharmacist or healthcare provider for information about NSAIDs that is written for health professionals.
-
-Manufactured by: Actavis Laboratories FL, Inc. Fort Lauderdale, FL 33314 USA
-
-Distributed by: Actavis Pharma, Inc. Parsippany, NJ 07054 USA
-
-For more information, go to www.actavis.com or call 1-800-272-5525
+| What is the most important information I should know about diclofenac sodium and misoprostol delayed-release tablets?Diclofenac sodium and misoprostol delayed-release tablets contain diclofenac (a nonsteroidal anti-inflammatory drug (NSAID)) and misoprostol, and can cause abortion, premature birth, birth defects, and the uterus to tear (uterine rupture). The risk of uterine rupture increases as your pregnancy advances, if you have given birth to 5 or more children, and if you have had surgery on the uterus, such as a cesarean delivery. Do not take diclofenac sodium and misoprostol delayed-release tablets if you are pregnant.What is the most important information I should know about medicines containing Nonsteroidal Anti-inflammatory Drugs (NSAIDs)?NSAIDs can cause serious side effects, including: Increased risk of a heart attack or stroke that can lead to death. This risk may happen early in treatment and may increase: ○ with increasing doses of NSAIDs○ with longer use of NSAIDsDo not take NSAID containing medicines right before or after a heart surgery called a “coronary artery bypass graft (CABG)."Avoid taking NSAID containing medicines after a recent heart attack, unless your healthcare provider tells you to. You may have an increased risk of another heart attack if you take NSAIDs after a recent heart attack Increased risk of bleeding, ulcers, and tears (perforation) of the esophagus (tube leading from the mouth to the stomach), stomach and intestines: ○ anytime during use ○ without warning symptoms ○ that may cause deathThe risk of getting an ulcer or bleeding increases with: |  |
+| past history of stomach ulcers, or stomach or intestinal bleeding with use of NSAIDs |  |
+| taking medicines called “corticosteroids”, “anticoagulants”, “SSRIs”, or “SNRIs” |  |
+| increasing doses of NSAIDs | older age |
+| longer use of NSAIDs | poor health |
+| smoking | advanced liver disease |
+| drinking alcohol | bleeding problems |
+| NSAID containing medicines should only be used: ○ exactly as prescribed○ at the lowest dose possible for your treatment○ for the shortest time needed |  |
+| What is diclofenac sodium and misoprostol delayed-release tablets? Diclofenac sodium and misoprostol delayed-release tablets contains 2 medicines: Diclofenac is a non-steroidal anti-inflammatory drug (NSAID). See “What is the most important information I should know about medicines called Nonsteroidal Anti-inflammatory Drugs (NSAIDs)? Misoprostol is a medicine used to protect the lining of the esophagus, stomach and intestines while taking diclofenac. Diclofenac sodium and misoprostol delayed-release tablets is a prescription medicine used to treat: symptoms of osteoarthritis or rheumatoid arthritis in people at high risk of developing stomach (gastric) and intestinal (duodenal) ulcers while taking NSAIDs. What are NSAIDs?NSAIDs are used to treat pain and redness, swelling, and heat (inflammation) from medical conditions such as different types of arthritis, menstrual cramps, and other types of short-term pain. |  |
+| Who should not take diclofenac sodium and misoprostol delayed-release tablets? Do not take diclofenac sodium and misoprostol delayed-release tablets: if you are allergic to diclofenac, misoprostol or any other ingredients in diclofenac sodium and misoprostol delayed-release tablets. See the end of this Medication Guide for a list of ingredients in diclofenac sodium and misoprostol delayed-release tablets. if you have had an asthma attack, hives, or other allergic reaction with aspirin or any other NSAIDs.right before or after heart bypass surgery.if you are pregnant. If you currently have bleeding in your stomach (gastrointestinal bleeding). |  |
+| Before taking diclofenac sodium and misoprostol delayed-release tablets, tell your healthcare provider about all of your medical conditions, including if you: have liver or kidney problems.have high blood pressure.have asthma.are pregnant or plan to become pregnant. See “Who should not take diclofenac sodium and misoprostol delayed-release tablets?”are breastfeeding or plan to breastfeed. Tell your healthcare provider about all of the medicines you take, including prescription or over-the-counter medicines, vitamins or herbal supplements. NSAIDs and some other medicines can interact with each other and cause serious side effects. Do not start taking any new medicine without talking to your healthcare provider first. |  |
+| What are the possible side effects of NSAIDs?NSAIDs can cause serious side effects, including:See “What is the most important information I should know about medicines called Nonsteroidal Anti-inflammatory Drugs (NSAIDs)?” new or worse high blood pressureheart failureliver problems including liver failurekidney problems including kidney failurelow red blood cells (anemia)life-threatening skin reactionslife-threatening allergic reactionsOther side effects of NSAIDs include: stomach pain, constipation, diarrhea, gas, heartburn, nausea, vomiting, and dizziness |  |
+| Get emergency help right away if you get any of the following symptoms: |  |
+| shortness of breath or trouble breathing | slurred speech |
+| chest pain | swelling of the face or throat |
+| weakness in one part or side of your body |  |
+| Stop taking your NSAID and call your healthcare provider right away if you get any of the following symptoms: |  |
+| nausea | vomit blood |
+| more tired or weaker than usual | there is blood in your bowel |
+| diarrhea | movement or it is black and sticky like tar |
+| itching | unusual weight gain |
+| your skin or eyes look yellow | skin rash or blisters with fever |
+| indigestion or stomach pain | swelling of the arms, legs, hands and feet |
+| flu-like symptoms |  |
+| If you take too much of your NSAID, call your healthcare provider or get medical help right away.These are not all the possible side effects of NSAIDs. For more information, ask your healthcare provider or pharmacist about NSAIDs.Call your doctor for medical advice about side effects. You may report side effects to FDA at 1-800-FDA-1088. |  |
+| Other information about NSAIDs |  |
+| Aspirin is an NSAID but it does not increase the chance of a heart attack. Aspirin can cause bleeding in the brain, stomach, and intestines. Aspirin can also cause ulcers in the stomach and intestines. |  |
+| Some NSAIDs are sold in lower doses without a prescription (over-the-counter). Talk to your healthcare provider before using over-the-counter NSAIDs for more than 10 days. |  |
+| General information about the safe and effective use of NSAIDsMedicines are sometimes prescribed for purposes other than those listed in a Medication Guide. Do not use NSAIDs for a condition for which it was not prescribed. Do not give NSAIDs to other people, even if they have the same symptoms that you have. It may harm them.If you would like more information about NSAIDs, talk with your healthcare provider. You can ask your pharmacist or healthcare provider for information about NSAIDs that is written for health professionals. |  |
+| Active ingredients: diclofenac sodium, misoprostol.Inactive ingredients: colloidal silicon dioxide, crospovidone, hydrogenated castor oil, hypromellose, lactose monohydrate, magnesium stearate, methacrylic acid copolymer dispersion, microcrystalline cellulose, povidone K-30, sodium hydroxide, corn starch, talc, and triethyl citrate. |  |
+| Manufactured by: Actavis Laboratories FL, Inc., Fort Lauderdale, FL 33314 USADistributed by: Actavis Pharma, Inc., Parsippany, NJ 07054 USAFor more information, go to www.actavis.com or call 1-888-838-2872. |  |
 
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
-
-Revised: May 2016
+Rev.
+A 9/2020

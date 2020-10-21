@@ -6,7 +6,6 @@ Carcinogenesis
 
 Long-term animal studies to evaluate the potential for carcinogenesis and animal studies to evaluate the effects on fertility have been performed with each component of diclofenac sodium and misoprostol given alone.
 
-The carcinogenicity potential of diclofenac sodium and misoprostol has not been studied in animals.
 In a 24 month rat carcinogenicity study, misoprostol administered orally at doses up to 2.4 mg/kg/day (14.4 mg/m2/day, 24 times the recommended maximum human dose of 0.6 mg/m2/day) was not tumorigenic.
 In a 21 month mouse carcinogenicity study, misoprostol administered orally at doses up to 16 mg/kg/day (48 mg/m2/day), 80 times the recommended maximum human dose based on body surface area, was not tumorigenic.
 
@@ -15,7 +14,7 @@ In a 24 month mouse carcinogenicity study, oral diclofenac sodium at doses up to
 
 Mutagenesis
 
-Diclofenac sodium and misoprostol combinations in 250:1 ratio was not genotoxic in the Ames test, the Chinese hamster ovary cell (CHO/HGPRT) forward mutation test, the rat lymphocyte chromosome aberration test, or the mouse bone marrow micronucleus test.
+Diclofenac sodium and misoprostol combination in 250:1 ratio was not genotoxic in the Ames test, the Chinese hamster ovary cell (CHO/HGPRT) forward mutation test, the rat lymphocyte chromosome aberration test, or the mouse bone marrow micronucleus test.
 
 Impairment of Fertility
 

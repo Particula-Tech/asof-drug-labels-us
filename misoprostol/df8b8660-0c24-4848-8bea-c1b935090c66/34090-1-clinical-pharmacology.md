@@ -2,7 +2,7 @@
 
 ## 12.1 Mechanism of Action
 
-Diclofenac/misoprostol is a combination product containing diclofenac, a nonsteroidal anti-inflammatory drug (NSAID) with analgesic, anti-inflammatory and antipyretic properties, and misoprostol, a GI mucosal protective prostaglandin E1 analog.
+Diclofenac sodium and misoprostol tablets are a combination product containing diclofenac sodium, a nonsteroidal anti-inflammatory drug (NSAID) with analgesic, anti-inflammatory and antipyretic properties, and misoprostol, a GI mucosal protective prostaglandin-1 (PGE1) analog.
 
 Diclofenac
 
@@ -16,7 +16,7 @@ Because diclofenac is an inhibitor of prostaglandin synthesis, its mode of actio
 
 Misoprostol
 
-Misoprostol is a synthetic prostaglandin E1 analog with gastric antisecretory and mucosal protective properties.
+Misoprostol is a synthetic PGE1 analog with gastric antisecretory and mucosal protective properties.
 NSAIDs inhibit prostaglandin synthesis.
 A deficiency of prostaglandins within the gastric and duodenal mucosa may lead to diminishing bicarbonate and mucus secretion and may contribute to the mucosal damage caused by NSAIDs.
 
@@ -45,7 +45,7 @@ The pharmacokinetic profiles of diclofenac and misoprostol administered as the f
 No pharmacokinetic interaction between the two drugs has been observed following multiple dosing.
 The diclofenac total exposure [area under the curve (AUC)] is dose-proportional within the range of 25 mg to 150 mg.
 Approximately dose-proportional increase in misoprostol exposure was also observed within the range of 200 to 400 mcg.
-Neither diclofenac nor misoprostol accumulated in plasma following repeated doses of diclofenac sodium and misoprostol given every 12 hours under fasted conditions.
+Neither diclofenac nor misoprostol accumulated in plasma following repeated doses of diclofenac sodium and misoprostol delayed-release tablets given every 12 hours under fasted conditions.
 
 Table 2: Pharmacokinetic Parameters of Diclofenac and Misoprostol Acid Following Single Oral Doses of Diclofenac Sodium and Misoprostol Delayed-Release Tablets or Separate Products in Healthy Subjects
 
@@ -72,7 +72,7 @@ Table 2: Pharmacokinetic Parameters of Diclofenac and Misoprostol Acid Following
 | Misoprostol Delayed- |  |  |  |  |  |  |  |  |
 | Release Tablets |  |  |  |  |  |  |  |  |
 | 75 mg/0.2 mg |  |  |  |  |  |  |  |  |
-| Diclofenac |  | 2367 (1318) |  | 1.9 (0.7) |  |  | 2609 (1185) |  |
+| Diclofenac Sodium |  | 2367 (1318) |  | 1.9 (0.7) |  |  | 2609 (1185) |  |
 | SD: Standard deviation of the mean; AUC: Area under the curve; Cmax: Peak concentration; Tmax: Time to peak concentration |  |  |  |  |  |  |  |  |
 
 Absorption
@@ -97,20 +97,20 @@ Misoprostol: The plasma protein binding of misoprostol acid is less than 90% and
 
 After a single oral dose of misoprostol to nursing mothers, misoprostol acid was excreted in breast milk.
 The maximum concentration of misoprostol acid in expressed breast milk was achieved within 1 hour after dosing and was 7.6 pg/mL (CV 37%) and 20.9 pg/mL (CV 77%) after single 200 mcg and 600 mcg misoprostol administration, respectively.
-The misoprostol acid concentrations in breast milk declined to less than 1 pg/mL at 5 hours post-dose.
+The misoprostol acid concentrations in breast milk declined to <1 pg/mL at 5 hours post-dose.
 These data may not reflect drug level in mature milk and in a daily dosing regimen for osteoarthritis or rheumatoid arthritis.
 
 Metabolism
 
-Diclofenac: Diclofenac metabolism is predominantly mediated via CYP2C9 in the liver.
+Diclofenac: Metabolism is predominantly mediated via CYP2C9 in the liver.
 Five metabolites (4'hydroxy-, 5-hydroxy-, 3'-hydroxy-, 4',5-dihydroxy- and 3'-hydroxy-4'-methoxy diclofenac) have been identified.
 The major metabolite (4'-hydroxy-diclofenac) has very weak pharmacologic activity.
 
 Both diclofenac and its oxidative metabolites undergo glucuronidation or sulfation followed by biliary excretion.
-Acylglucuronidation mediated by UGT2B7 and oxidation mediated by CYP2C8 may also play a role in diclofenac metabolism.
+Acyl glucuronidation mediated by UGT2B7 and oxidation mediated by CYP2C8 may also play a role in diclofenac metabolism.
 CYP3A4 is responsible for the formation of minor metabolites, 5-hydroxy and 3'-hydroxy-diclofenac.
 
-Misoprostol: It undergoes rapid and extensive metabolism to its biologically active metabolite, misoprostol acid.
+Misoprostol: Undergoes rapid and extensive metabolism to its biologically active metabolite, misoprostol acid.
 
 Excretion
 
@@ -140,10 +140,6 @@ A 4-week study, comparing plasma level profiles of diclofenac (50 mg two times a
 In subjects over 64 years of age, the AUC for misoprostol acid was increased.
 
 In a multiple-dose crossover study of 24 elderly subjects aged 65 years or older, the misoprostol contained in diclofenac sodium and misoprostol (two times a day) did not affect the pharmacokinetics of diclofenac.
-
-Age: Pediatric Population
-
-Diclofenac and misoprostol have not been investigated in pediatric patients.
 
 Race: Pharmacokinetic differences due to race have not been identified.
 

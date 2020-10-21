@@ -1,6 +1,6 @@
 # 11 DESCRIPTION
 
-Diclofenac sodium and misoprostol delayed-release tablets, USP are a combination product containing diclofenac sodium, a nonsteroidal anti-inflammatory drug (NSAID) with analgesic properties, and misoprostol, a gastrointestinal (GI) mucosal protective prostaglandin E1 analog.
+Diclofenac sodium and misoprostol delayed-release tablets, USP are a combination product containing diclofenac sodium, a nonsteroidal anti-inflammatory drug (NSAID) with analgesic properties, and misoprostol, a gastrointestinal (GI) mucosal protective prostaglandin-1 (PGE1) analog.
 Diclofenac sodium and misoprostol delayed-release tablets, USP are white to off-white, round, biconvex tablets, and approximately 11 mm in diameter.
 Each tablet consists of an enteric-coated core containing 50 mg or 75 mg diclofenac sodium surrounded by an outer mantle containing 0.2 mg misoprostol.
 
@@ -16,4 +16,4 @@ Its chemical formula and name are:
 
 C22H38O5 [M.W. = 382.54] (±) methyl 11α,16-dihydroxy-16-methyl-9-oxoprost-13E-en-1-oate.
 
-Inactive ingredients in diclofenac sodium and misoprostol delayed-release tablets include: colloidal silicon dioxide; crospovidone; hydrogenated castor oil; hypromellose; lactose; magnesium stearate; methacrylic acid copolymer dispersion; microcrystalline cellulose; povidone (polyvidone) K-30; sodium hydroxide; starch (corn); talc; triethyl citrate.
+Inactive ingredients in diclofenac sodium and misoprostol delayed-release tablets include: colloidal silicon dioxide, crospovidone, hydrogenated castor oil, hypromellose, lactose monohydrate, magnesium stearate, methacrylic acid copolymer dispersion, microcrystalline cellulose, povidone K-30, sodium hydroxide, corn starch, talc, and triethyl citrate.

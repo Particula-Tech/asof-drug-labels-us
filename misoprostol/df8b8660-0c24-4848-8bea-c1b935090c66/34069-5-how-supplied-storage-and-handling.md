@@ -1,8 +1,10 @@
 # 16 HOW SUPPLIED/STORAGE AND HANDLING
 
 Diclofenac sodium and misoprostol delayed-release tablets, USP are supplied in dosage strengths of either 50 mg diclofenac sodium/0.2 mg misoprostol or 75 mg diclofenac sodium/0.2 mg misoprostol.
-The 50 mg/0.2 mg dosage strength are white to off white, round, biconvex tablets, plain on one side and debossed with “0397” on the other side.
-The 75 mg/0.2 mg dosage strength are white to off white, round, biconvex tablets, plain on one side and debossed with “0398” on the other side.
+
+- The 50 mg/0.2 mg dosage strength is white to off white, round, biconvex tablets, plain on one side and debossed with “0397” on the other side.
+
+- The 75 mg/0.2 mg dosage strength is white to off white, round, biconvex tablets, plain on one side and debossed with “0398” on the other side.
 
 The dosage strengths are supplied in:
 

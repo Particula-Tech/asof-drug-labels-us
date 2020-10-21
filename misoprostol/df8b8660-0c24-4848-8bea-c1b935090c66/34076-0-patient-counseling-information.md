@@ -59,4 +59,5 @@ Manufactured by: Actavis Laboratories FL, Inc. Fort Lauderdale, FL 33314 USA
 
 Distributed by: Actavis Pharma, Inc. Parsippany, NJ 07054 USA
 
-Revised: May 2016
+Rev.
+A 9/2020

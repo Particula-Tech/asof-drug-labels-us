@@ -16,15 +16,15 @@ The following adverse reactions are discussed in greater detail in other section
 
 Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in practice.
 
-Adverse reaction information for diclofenac sodium and misoprostol is derived from Phase III multinational controlled clinical trials in over 2,000 patients receiving diclofenac sodium and misoprostol delayed-release tablets, 50 mg/0.2 mg or diclofenac sodium and misoprostol delayed-release tablets, 75 mg/0.2 mg, as well as from blinded, controlled trials of diclofenac delayed-release tablets and misoprostol tablets.
+Adverse reaction information for diclofenac sodium and misoprostol is derived from multinational controlled clinical trials in over 2,000 patients receiving diclofenac sodium and misoprostol delayed-release tablets, 50 mg/0.2 mg or diclofenac sodium and misoprostol delayed-release tablets, 75 mg/0.2 mg, as well as from blinded, controlled trials of diclofenac sodium delayed-release tablets and misoprostol tablets.
 
 Gastrointestinal
 
-GI disorders had the highest reported incidence of adverse events for patients receiving diclofenac sodium and misoprostol.
-These events were generally minor, but led to discontinuation of therapy in 9% of patients on diclofenac sodium and misoprostol and 5% of patients on diclofenac.
+GI disorders had the highest reported incidence of adverse reactions for patients receiving diclofenac sodium and misoprostol.
+These events were generally minor, but led to discontinuation of therapy in 9% of patients on diclofenac sodium and misoprostol and 5% of patients on diclofenac sodium.
 For GI ulcer rates, [see Clinical Studies (14)].
 
-| GI disorder | Diclofenac Sodium and Misoprostol | Diclofenac |
+| GI disorder | Diclofenac Sodium and Misoprostol | Diclofenac Sodium |
 | --- | --- | --- |
 | Abdominal pain | 21% | 15% |
 | Diarrhea | 19% | 11% |
@@ -116,6 +116,6 @@ Skin and appendages: acne, bruising, erythema multiforme, exfoliative dermatitis
 
 Special senses: hearing impairment, taste loss.
 
-Renal and urinary disorders: cystitis, hematuria, interstitial nephritis, micturition frequency, nephrotic syndrome, oliguria, papillary necrosis, renal failure, glomerulonephritis membranous, glomerulonephritis minimal lesion, glomerulohephritis.
+Renal and urinary disorders: cystitis, hematuria, interstitial nephritis, micturition frequency, nephrotic syndrome, oliguria, papillary necrosis, renal failure, glomerulonephritis membranous, glomerulonephritis minimal lesion, glomerulonephritis.
 
 Vision: amblyopia, blurred vision, conjunctivitis, glaucoma, iritis, lacrimation abnormal, night blindness, vision abnormal.

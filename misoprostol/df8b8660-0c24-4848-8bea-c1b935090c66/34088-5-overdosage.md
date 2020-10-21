@@ -22,9 +22,9 @@ The toxic dose of misoprostol in humans has not been determined.
 Cumulative total daily doses of 1600 mcg have been tolerated, with only symptoms of GI discomfort being reported.
 Clinical signs that may indicate an overdose are sedation, tremor, convulsions, dyspnea, abdominal pain, diarrhea, fever, palpitations, hypotension, or bradycardia.
 
-Diclofenac Sodium and Misoprostol
+Diclofenac Sodium and Misoprostol Delayed-Release Tablets
 
-Symptoms of overdosage with diclofenac sodium and misoprostol should be treated with supportive therapy.
+Symptoms of overdosage with diclofenac sodium and misoprostol delayed-release tablets should be treated with supportive therapy.
 In case of acute overdosage, gastric lavage is recommended.
 Induced diuresis may be beneficial because diclofenac sodium and misoprostol metabolites are excreted in the urine.
 The effect of dialysis or hemoperfusion on the elimination of diclofenac sodium (99% protein bound) and misoprostol acid remains unproven.
