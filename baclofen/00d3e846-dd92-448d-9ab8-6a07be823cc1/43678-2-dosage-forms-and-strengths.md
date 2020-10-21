@@ -1,8 +1,8 @@
 # 3 DOSAGE FORMS AND STRENGTHS
 
-GABLOFEN is a sterile, pyrogen-free, isotonic solution free of antioxidants, preservatives or other potentially neurotoxic additives indicated only for intrathecal administration.
-The drug is stable in solution at 37°C and compatible with CSF.
-Each milliliter of GABLOFEN contains baclofen USP 50 mcg, 500 mcg, 1,000 mcg or 2,000 mcg and sodium chloride 9 mg in Water for Injection; pH range is 5.5 to 7.5.
-Each vial or syringe is intended for single use only.
-Discard any unused portion.
-Do not autoclave.
+GABLOFEN (baclofen injection) is available, for intrathecal use only, in:
+
+- Single-dose syringe of 1 mL containing 50 mcg (50 mcg/mL)
+- Single-dose syringes and vials of 10,000 mcg per 20 mL (500 mcg/mL)
+- Single-dose syringes and vials of 20,000 mcg per 20 mL (1,000 mcg/mL)
+- Single-dose syringes and vials of 40,000 mcg per 20 mL (2,000 mcg/mL)

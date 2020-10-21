@@ -24,12 +24,14 @@ Increased Risk of Drowsiness with Alcohol and Other CNS Depressants
 Inform patients and their caregivers that the drowsiness associated with GABLOFEN use can be worsened by alcohol and other CNS depressants.
 Advise patients to read all medicine labels carefully, and to tell their physician about all prescription and nonprescription drugs they may use.
 
-Distributed By: Piramal Critical Care, Inc.
+Distributed By:
 
-3950 Schelden Circle,
+Piramal Critical Care, Inc.
+
+3950 Schelden Circle
 
 Bethlehem, PA 18017, USA
 
-(888) 822-8431
+Phone: 888 822 8431
 
-Issued 12/2019
+Issued 10/2020
