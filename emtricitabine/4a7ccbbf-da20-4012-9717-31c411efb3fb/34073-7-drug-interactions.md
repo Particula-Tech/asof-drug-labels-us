@@ -7,7 +7,7 @@ No drug-drug interactions due to competition for renal excretion have been obser
 Some examples include, but are not limited to, acyclovir, adefovir dipivoxil, cidofovir, ganciclovir, valacyclovir, valganciclovir, aminoglycosides (e.g., gentamicin), and high-dose or multiple NSAIDs [see Warnings and Precautions (5.3)].
 Drugs that decrease renal function may increase concentrations of FTC and/or tenofovir.
 
-## 7.2 Established and Other Potentially Significant Interactions
+## 7.2 Established and Significant Interactions
 
 Table 7 provides a listing of established or clinically significant drug interactions.
 The drug interactions described are based on studies conducted with either emtricitabine and tenofovir disoproxil fumarate tablets, the components of emtricitabine and tenofovir disoproxil fumarate tablets (FTC and TDF) as individual agents and/or in combination, or are predicted drug interactions that may occur with emtricitabine and tenofovir disoproxil fumarate tablets [see Clinical Pharmacology (12.3)].

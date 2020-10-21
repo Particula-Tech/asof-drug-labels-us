@@ -92,9 +92,9 @@ The safety profile of emtricitabine and tenofovir disoproxil fumarate for HIV-1 
 Subjects were followed for a median of 71 weeks and 87 weeks, respectively.
 Table 5 provides a list of selected adverse events that occurred in 2% or more of subjects in any treatment group in the iPrEx trial, with an incidence greater than placebo.
 
-Table 5 Selected Adverse-Events (All Grades) Reported in ≥2% in Any Treatment Group in the iPrEx Trial and Greater than Placebo
+Table 5 Selected Adverse Events (All Grades) Reported in ≥2% in Any Treatment Group in the iPrEx Trial and Greater than Placebo
 
-|  | FTC/TDF (N=1251) | Placebo (N=1248) |
+|  | FTC/TDF (N=1,251) | Placebo (N=1,248) |
 | --- | --- | --- |
 | Headache | 7% | 6% |
 | Abdominal pain | 4% | 2% |
@@ -111,7 +111,7 @@ Table 6 Laboratory Abnormalities (Highest Toxicity Grade Reported for Each Subje
 
 | Grade 2 to 4a | iPrEx Trial |  | Partners PrEP Trial |  |
 | --- | --- | --- | --- | --- |
-| FTC/TDF (N=1251) | Placebo (N=1248) | FTC/TDF (N=1579) | Placebo (N=1584) |  |
+| FTC/TDF (N=1,251) | Placebo (N=1,248) | FTC/TDF (N=1,579) | Placebo (N=1,584) |  |
 | Creatinine (>1.4 x ULN) | <1% | <1% | <1% | <1% |
 | Phosphorus (<2.0 mg/dL) | 10% | 8% | 9% | 9% |
 | AST (>2.6 x ULN) | 5% | 5% | <1% | <1% |

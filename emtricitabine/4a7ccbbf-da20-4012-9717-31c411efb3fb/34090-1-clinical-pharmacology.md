@@ -59,7 +59,7 @@ Pediatric Patients
 
 Treatment of HIV-1 Infection: The pharmacokinetic data for tenofovir and FTC following administration of emtricitabine and tenofovir disoproxil fumarate in pediatric subjects weighing 17 kg and above are not available.
 The dosage recommendations of emtricitabine and tenofovir disoproxil fumarate in this population are based on the dosage recommendations of FTC and TDF in this population.
-Refer to the FTC and TDF prescribing information for pharmacokinetic information on the individual products in pediatric patients.
+Refer to the EMTRIVA and VIREAD prescribing information for pharmacokinetic information on the individual products in pediatric patients.
 
 HIV-1 PrEP: The pharmacokinetic data for tenofovir and FTC following administration of emtricitabine and tenofovir disoproxil fumarate in HIV-1 uninfected adolescents weighing 35 kg and above are not available.
 The dosage recommendations of emtricitabine and tenofovir disoproxil fumarate for HIV-1 PrEP in this population are based on safety and adherence data from the ATN113 trial [see Use in Specific Populations (8.4)] and known pharmacokinetic information in HIV-infected adolescents taking TDF and FTC for treatment.

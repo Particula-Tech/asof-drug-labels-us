@@ -2,52 +2,27 @@
 
 ## 8.1 Pregnancy
 
-Pregnancy Exposure Registry
-
-There is a pregnancy exposure registry that monitors pregnancy outcomes in women exposed to emtricitabine and tenofovir disoproxil fumarate tablets during pregnancy.
+Pregnancy Exposure Registry There is a pregnancy exposure registry that monitors pregnancy outcomes in women exposed to emtricitabine and tenofovir disoproxil fumarate tablets during pregnancy.
 Healthcare providers are encouraged to register patients by calling the Antiretroviral Pregnancy Registry (APR) at 1-800-258-4263.
-
-Risk Summary
-
-Data on the use of emtricitabine and tenofovir disoproxil fumarate during pregnancy from observational studies have shown no increased risk of major birth defects.
-Available data from the APR show no increase in the overall risk of major birth defects with first trimester exposure for emtricitabine (FTC) (2.3%) or tenofovir disoproxil fumarate (TDF) (2.1%) compared with the background rate for major birth defects of 2.7% in a U.S. reference population of the Metropolitan Atlanta Congenital Defects Program (MACDP) (see Data).
+Risk Summary Data on the use of emtricitabine and tenofovir disoproxil fumarate during pregnancy from observational studies have shown no increased risk of major birth defects.
+Available data from the APR show no significant difference in the overall risk of major birth defects with first trimester exposure for emtricitabine (FTC) (2.3%) or tenofovir disoproxil fumarate (TDF) (2.1%) compared with the background rate for major birth defects of 2.7% in a U.S. reference population of the Metropolitan Atlanta Congenital Defects Program (MACDP) (see Data).
 The rate of miscarriage for individual drugs is not reported in the APR.
 In the U.S. general population, the estimated background risk of miscarriage in clinically recognized pregnancies is 15 to 20%.
-
 In animal reproduction studies, no adverse developmental effects were observed when the components of emtricitabine and tenofovir disoproxil fumarate tablets were administered separately at doses/exposures ≥60 (FTC), ≥14 (TDF) and 2.7 (tenofovir) times those of the recommended daily dose of emtricitabine and tenofovir disoproxil fumarate (see Data).
-
-Clinical Considerations
-
-Disease-associated maternal and/or embryo/fetal risk
-
-HIV-1 PrEP: Published studies indicate an increased risk of HIV-1 infection during pregnancy and an increased risk of mother to child transmission during acute HIV-1 infection.
+Clinical Considerations Disease-associated maternal and/or embryo/fetal risk HIV-1 PrEP: Published studies indicate an increased risk of HIV-1 infection during pregnancy and an increased risk of mother to child transmission during acute HIV-1 infection.
 In women at risk of acquiring HIV-1, consideration should be given to methods to prevent acquisition of HIV, including continuing or initiating emtricitabine and tenofovir disoproxil fumarate for HIV-1 PrEP, during pregnancy.
-
-Data
-
-Human Data
-
-Emtricitabine and tenofovir disoproxil fumarate for HIV-1 PrEP: In an observational study based on prospective reports to the APR, 78 HIV-seronegative women exposed to emtricitabine and tenofovir disoproxil fumarate during pregnancy delivered live-born infants with no major malformations.
-All except for one were first trimester exposures, and the median duration of exposure was 10.5 weeks.
+Data Human Data Emtricitabine and tenofovir disoproxil fumarate for HIV-1 PrEP: In an observational study based on prospective reports to the APR, 78 HIV-seronegative women exposed to emtricitabine and tenofovir disoproxil fumarate during pregnancy delivered live-born infants with no major malformations.
+All but one were first trimester exposures, and the median duration of exposure was 10.5 weeks.
 There were no new safety findings in the women receiving emtricitabine and tenofovir disoproxil fumarate for HIV-1 PrEP compared with HIV-1 infected women treated with other antiretroviral medications.
 
-Emtricitabine: Based on prospective reports to the APR of 3,749 exposures to FTC-containing regimens during pregnancy resulting in live births (including 2,614 exposed in the first trimester and 1,135 exposed in the second/third trimester), there was no increase in overall major birth defects with FTC compared with the background birth defect rate of 2.7% in a U.S. reference population of the MACDP.
-The prevalence of major birth defects in live births was 2.3% (95% CI: 1.8% to 2.9%) with first trimester exposure to FTC-containing regimens and 2.1% (95% CI: 1.4% to 3.1%) with the second/third trimester exposure to FTC-containing regimens.
-
-Tenofovir Disoproxil Fumarate: Based on prospective reports from the APR of 4,817 exposures to TDF-containing regimens during pregnancy resulting in live births (including 3,342 exposed in the first trimester and 1,475 exposed in the second/third trimester), there was no increase in overall major birth defects with TDF compared with the background birth defect rate of 2.7% in a U.S. reference population of the MACDP.
-The prevalence of major birth defects in live births was 2.3% (95% CI: 1.8% to 2.8%) with first trimester exposure to TDF-containing regimens, and 2.1% (95% CI: 1.4% to 3.0%) with the second/third trimester exposure to TDF-containing regimens.
-
+Emtricitabine: Based on prospective reports to the APR of exposures to FTC-containing regimens during pregnancy resulting in live births (including over 3,300 exposed in the first trimester and over 1,300 exposed in the second/third trimester), the prevalence of major birth defects in live births was 2.6% (95% CI: 2.1% to 3.2%) and 2.3% (95% CI: 1.6% to 3.3%) following first and second/third trimester exposure, respectively, to FTC-containing regimens.
+Tenofovir Disoproxil Fumarate: Based on prospective reports to the APR of exposures to TDF-containing regimens during pregnancy resulting in live births (including over 4,000 exposed in the first trimester and over 1,700 exposed in the second/third trimester), the prevalence of major birth defects in live births was 2.4% (95% CI: 2.0% to 2.9%) and 2.4% (95% CI: 1.7% to 3.2%) following first and second/third trimester exposure, respectively, to TDF-containing regimens.
 Methodologic limitations of the APR include the use of MACDP as the external comparator group.
 The MACDP population is not disease-specific, evaluates women and infants from a limited geographic area, and does not include outcomes for births that occurred at <20 weeks gestation.
-
 Additionally, published observational studies on emtricitabine and tenofovir exposure in pregnancy have not shown an increased risk for major malformations.
-
-Animal Data
-
-Emtricitabine: FTC was administered orally to pregnant mice (at 0, 250, 500, or 1,000 mg/kg/day), and rabbits (at 0, 100, 300, or 1,000 mg/kg/day) through organogenesis (on gestation days 6 through 15, and 7 through 19, respectively).
+Animal Data Emtricitabine: FTC was administered orally to pregnant mice (at 0, 250, 500, or 1,000 mg/kg/day), and rabbits (at 0, 100, 300, or 1,000 mg/kg/day) through organogenesis (on gestation days 6 through 15, and 7 through 19, respectively).
 No significant toxicological effects were observed in embryo-fetal toxicity studies performed with FTC in mice at exposures (AUC) approximately 60 times higher and in rabbits at approximately 120 times higher than human exposures at the recommended daily dose.
 In a pre/postnatal development study in mice, FTC was administered orally at doses up to 1,000 mg/kg/day; no significant adverse effects directly related to drug were observed in the offspring exposed daily from before birth (in utero) through sexual maturity at daily exposures (AUC) of approximately 60 times higher than human exposures at the recommended daily dose.
-
 Tenofovir Disoproxil Fumarate: TDF was administered orally to pregnant rats (at 0, 50, 150, or 450 mg/kg/day) and rabbits (at 0, 30, 100, or 300 mg/kg/day) through organogenesis (on gestation days 7 through 17, and 6 through 18, respectively).
 No significant toxicological effects were observed in embryo-fetal toxicity studies performed with TDF in rats at doses up to 14 times the human dose based on body surface area comparisons and in rabbits at doses up to 19 times the human dose based on body surface area comparisons.
 In a pre/postnatal development study in rats, TDF was administered orally through lactation at doses up to 600 mg/kg/day; no adverse effects were observed in the offspring at tenofovir exposures of approximately 2.7 times higher than human exposures at the recommended daily dose of emtricitabine and tenofovir disoproxil fumarate.
@@ -102,7 +77,8 @@ In the ATN113 trial, HIV-1 seroconversion occurred in 3 subjects.
 Tenofovir diphosphate levels in dried blood spot assays indicate that these subjects had poor adherence.
 No tenofovir- or FTC-associated HIV-1 resistance substitutions were detected in virus isolated from the 3 subjects who seroconverted [see Microbiology (12.4)].
 
-Adherence to study drug, as demonstrated by tenofovir diphosphate levels in dried blood spot assays, declined markedly after Week 12 once subjects switched from monthly to quarterly visits, suggesting that adolescents may benefit from more frequent visits and counseling.
+Adherence to study drug, as demonstrated by tenofovir diphosphate levels in dried blood spot assays, declined markedly after Week 12 once subjects switched from monthly to quarterly visits, suggesting that adolescents may benefit from more frequent visits and counseling [see Warnings and Precautions (5.2)].
+Safety and effectiveness of emtricitabine and tenofovir disoproxil fumarate for HIV-1 PrEP in pediatric patients weighing less than 35 kg have not been established.
 
 ## 8.5 Geriatric Use
 
@@ -112,8 +88,8 @@ Clinical trials of FTC, TDF or emtricitabine and tenofovir disoproxil fumarate d
 
 Treatment of HIV-1 Infection
 
-The dosing interval for emtricitabine and tenofovir disoproxil fumarate should be modified in HIV-infected adult patients with estimated creatinine clearance of 30 to 49 mL/min.
-Emtricitabine and tenofovir disoproxil fumarate is not recommended in patients with estimated creatinine clearance below 30 mL/min and in patients with end-stage renal disease requiring dialysis [see Dosage and Administration (2.6)].
+The dosing interval for emtricitabine and tenofovir disoproxil fumarate should be modified in HIV-infected adult individuals with estimated creatinine clearance of 30 to 49 mL/min.
+Emtricitabine and tenofovir disoproxil fumarate is not recommended in individuals with estimated creatinine clearance below 30 mL/min and in individuals with end-stage renal disease requiring dialysis [see Dosage and Administration (2.6)].
 
 HIV-1 PrEP
 

@@ -2,18 +2,19 @@
 
 ## 2.1 Testing Prior to Initiation of Emtricitabine and Tenofovir Disoproxil Fumarate Tablets for Treatment of HIV-1 Infection or for HIV-1 PrEP
 
-Prior to or when initiating emtricitabine and tenofovir disoproxil fumarate tablets, test patients for hepatitis B virus infection [see Warnings and Precautions (5.1)].
+Prior to or when initiating emtricitabine and tenofovir disoproxil fumarate tablets, test individuals for hepatitis B virus infection [see Warnings and Precautions (5.1)].
 
-Prior to initiation and during use of emtricitabine and tenofovir disoproxil fumarate tablets, on a clinically appropriate schedule, assess serum creatinine, estimated creatinine clearance, urine glucose and urine protein in all patients.
-In patients with chronic kidney disease, also assess serum phosphorus [see Warnings and Precautions (5.3)].
+Prior to initiation, and during use of emtricitabine and tenofovir disoproxil fumarate tablets, on a clinically appropriate schedule, assess serum creatinine, estimated creatinine clearance, urine glucose, and urine protein in all individuals.
+In individuals with chronic kidney disease, also assess serum phosphorus [see Warnings and Precautions (5.3)].
 
 ## 2.2 HIV-1 Screening for Individuals Receiving Emtricitabine and Tenofovir Disoproxil Fumarate Tablets for HIV-1 PrEP
 
-Screen all patients for HIV-1 infection before initiating emtricitabine and tenofovir disoproxil fumarate tablets for HIV-1 PrEP and at least once every 3 months while taking emtricitabine and tenofovir disoproxil fumarate tablets [see Indications and Usage (1.2), Contraindications (4) and Warnings and Precautions (5.2)].
+Screen all individuals for HIV-1 infection immediately prior to initiating emtricitabine and tenofovir disoproxil fumarate tablets for HIV-1 PrEP and at least once every 3 months while taking emtricitabine and tenofovir disoproxil fumarate tablets, and upon diagnosis of any other sexually transmitted infections (STIs) [see Indications and Usage (1.2), Contraindications (4) and Warnings and Precautions (5.2)].
+If recent (<1 month) exposure to HIV-1 are suspected or clinical symptoms consistent with acute HIV-1 infection are present, use a test approved or cleared by the FDA as an aid in the diagnosis of acute or primary HIV-1 infection [see Warnings and Precautions (5.2), Use in Specific Populations (8.4), and Clinical Studies (14.3 and 14.4)].
 
 ## 2.3 Recommended Dosage for Treatment of HIV-1 Infection in Adults and Pediatric Patients Weighing at Least 35 kg
 
-Emtricitabine and tenofovir disoproxil fumarate tablets is a two-drug fixed dose combination product containing emtricitabine (FTC) and tenofovir disoproxil fumarate (TDF).
+Emtricitabine and tenofovir disoproxil fumarate tablets are a two-drug fixed dose combination product containing emtricitabine (FTC) and tenofovir disoproxil fumarate (TDF).
 The recommended dosage of emtricitabine and tenofovir disoproxil fumarate tablets in adults and in pediatric patients weighing at least 35 kg is one tablet (containing 200 mg of FTC and 300 mg of TDF) once daily taken orally with or without food [see Clinical Pharmacology (12.3)].
 
 ## 2.4 Recommended Dosage for Treatment of HIV-1 Infection in Pediatric Patients Weighing at Least 17 kg and Able to Swallow a Tablet
@@ -30,11 +31,11 @@ Table 1 Dosing for Treatment of HIV-1 Infection in Pediatric Patients Weighing 1
 | 22 to less than 28 | one 133 mg /200 mg tablet once daily |
 | 28 to less than 35 | one 167 mg /250 mg tablet once daily |
 
-## 2.5 Recommended Dosage for HIV-1 PrEP
+## 2.5 Recommended Dosage for HIV-1 PrEP in Adults and Adolescents Weighing at Least 35 kg
 
-The dosage of emtricitabine and tenofovir disoproxil fumarate tablets in HIV-1 uninfected adults and adolescents weighing at least 35 kg is one tablet (containing 200 mg of FTC and 300 mg of TDF) once daily taken orally with or without food [see Clinical Pharmacology (12.3)].
+The dosage of emtricitabine and tenofovir disoproxil fumarate tablets for HIV-1 PrEP is one tablet (containing 200 mg of FTC and 300 mg of TDF) once daily taken orally with or without food in HIV-1 uninfected adults and adolescents weighing at least 35 kg [see Clinical Pharmacology (12.3)].
 
-## 2.6 Dosage Adjustment in Patients with Renal Impairment
+## 2.6 Dosage Adjustment in Individuals with Renal Impairment
 
 Treatment of HIV-1 Infection
 
