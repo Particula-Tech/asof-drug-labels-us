@@ -21,9 +21,10 @@ Discontinue in patients with fistula formation involving any internal organ.
 In a controlled clinical study in which Avastin was not administered within 28 days of major surgical procedures, the incidence of wound healing complications, including serious and fatal complications, was 15% in patients with mCRC who underwent surgery while receiving Avastin and 4% in patients who did not receive Avastin.
 In a controlled clinical study in patients with relapsed or recurrent GBM, the incidence of wound healing events was 5% in patients who received Avastin and 0.7% in patients who did not receive Avastin [see Adverse Reactions (6.1)].
 
-Discontinue Avastin in patients with wound healing complications requiring medical intervention.
+In patients who experience wound healing complications during Avastin treatment, withhold Avastin until adequate wound healing.
 Withhold for at least 28 days prior to elective surgery.
-Do not administer for at least 28 days following surgery and until the wound is fully healed.
+Do not administer for at least 28 days following major surgery and until adequate wound healing.
+The safety of resumption of AVASTIN after resolution of wound healing complications has not been established [see Dosage and Administration (2.9)].
 
 Necrotizing fasciitis including fatal cases, has been reported in patients receiving Avastin, usually secondary to wound healing complications, gastrointestinal perforation or fistula formation.
 Discontinue Avastin in patients who develop necrotizing fasciitis.

@@ -367,7 +367,7 @@ The most frequent serious adverse reactions (≥ 2%) were gastrointestinal hemor
 Adverse reactions leading to discontinuation of Avastin occurred in 15% of patients in the Avastin and atezolizumab arm.
 The most common adverse reactions leading to Avastin discontinuation were hemorrhages (4.9%), including bleeding varicose vein, hemorrhage and gastrointestinal, subarachnoid, and pulmonary hemorrhages; and increased transaminases or bilirubin (0.9%).
 
-Adverse reactions leading to interruption of Avastin occurred in 46% of patients in the Avastin and atezolizumab arm; the most common (≥ 2%) were proteinuria (6%); infections (6%); hypertension (6%); liver function laboratory abnormalities including increased transaminases, bilirubin, or alkaline phosphatate (4.6%); gastrointestinal hemorrhages (3%); thrombocytopenia/decreased platelet count (4.3%); and pyrexia (2.4%).
+Adverse reactions leading to interruption of Avastin occurred in 46% of patients in the Avastin and atezolizumab arm; the most common (≥ 2%) were proteinuria (6%); infections (6%); hypertension (6%); liver function laboratory abnormalities including increased transaminases, bilirubin, or alkaline phosphatase (4.6%); gastrointestinal hemorrhages (3%); thrombocytopenia/decreased platelet count (4.3%); and pyrexia (2.4%).
 
 Tables 9 and 10 summarize adverse reactions and laboratory abnormalities, respectively, in patients who received Avastin and atezolizumab in IMbrave150.
 

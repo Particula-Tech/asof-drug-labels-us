@@ -2,7 +2,8 @@
 
 ## 2.1 Important Administration Information
 
-Do not administer Avastin until at least 28 days following surgery and the wound is fully healed.
+Withhold for at least 28 days prior to elective surgery.
+Do not administer Avastin until at least 28 days following surgery and until adequate wound healing.
 
 ## 2.2 Metastatic Colorectal Cancer
 
@@ -64,7 +65,8 @@ Table 1: Dosage Modifications for Adverse Reactions
 | Adverse Reaction | Severity | Dosage Modification |
 | --- | --- | --- |
 | Gastrointestinal Perforations and Fistulae [see Warnings and Precautions (5.1)]. | Gastrointestinal perforation, any gradeTracheoesophageal fistula, any gradeFistula, Grade 4Fistula formation involving any internal organ | Discontinue Avastin |
-| Wound Healing Complications [see Warnings and Precautions (5.2)]. | Wound healing complications requiring medical interventionNecrotizing fasciitis | Discontinue Avastin |
+| Wound Healing Complications [see Warnings and Precautions (5.2)]. | Any | Withhold AVASTIN until adequate wound healing.The safety of resumption of AVASTIN after resolution of wound healing complications has not been established. |
+| Necrotizing fasciitis | Discontinue Avastin |  |
 | Hemorrhage [see Warnings and Precautions (5.3)]. | Grade 3 or 4 | Discontinue Avastin |
 | Recent history of hemoptysis of 1/2 teaspoon (2.5 mL) or more | Withhold Avastin |  |
 | Thromboembolic Events [see Warnings and Precautions (5.4, 5.5)]. | Arterial thromboembolism, severe | Discontinue Avastin |

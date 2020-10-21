@@ -4,7 +4,7 @@ Gastrointestinal Perforations and Fistulae: Avastin may increase the risk of dev
 Advise patients to immediately contact their health care provider for high fever, rigors, persistent or severe abdominal pain, severe constipation, or vomiting [see Warnings and Precautions (5.1)].
 
 Surgery and Wound Healing Complications: Avastin can increase the risk of wound healing complications.
-Advise patients that Avastin should not be used for at least 28 days before or after surgery and until surgical wounds are fully healed [see Warnings and Precautions (5.2)].
+Instruct patients not to undergo surgery without first discussing this potential risk with their healthcare provider [see Warnings and Precautions (5.2)].
 
 Hemorrhage: Avastin can increase the risk of hemorrhage.
 Advise patients to immediately contact their health care provider for signs and symptoms of serious or unusual bleeding including coughing or spitting blood [see Warnings and Precautions (5.3)].
