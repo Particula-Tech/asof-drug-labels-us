@@ -13,13 +13,13 @@ Each mL of Oral Solution for oral administration contains:
 Furosemide is a diuretic which is an anthranilic acid derivative.
 Chemically, it is 4-chloro-N-furfuryl-5-sulfamoylanthranilic acid.
 Furosemide is a white to slightly yellow, crystalline powder.
-It is practically insoluble in water, sparingly soluble in alcohol, freely soluble in dilute alkali solutions and insoluble in dilute acids.
+It is practically insoluble in water; freely soluble in acetone, dimethylformamide and in solutions of alkali hydroxides; soluble in methanol; sparingly soluble in alcohol; slightly soluble in ether; very slightly soluble in chloroform.
 The CAS Registry Number is 54-31-9.
 
 The structural formula is as follows:
 
 C12H11ClN2O5S M.W.
-330.74
+330.75
 
 Furosemide Tablets USP are available for oral administration containing 20 mg, 40 mg or 80 mg of Furosemide USP.
 The tablets meet Dissolution Test 1.

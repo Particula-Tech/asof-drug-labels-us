@@ -2,7 +2,7 @@
 
 Adverse reactions are categorized below by organ system and listed by decreasing severity.
 
-Gastrointestinal System Reactions
+Gastrointestinal System Reactions:
 
 1. 1.hepatic encephalopathy in patients with hepatocellular insufficiency
 2. 2.pancreatitis
@@ -16,14 +16,14 @@ Gastrointestinal System Reactions
 10. 10.nausea
 11. 11.vomiting
 
-Systemic Hypersensitivity Reactions
+Systemic Hypersensitivity Reactions:
 
-1. 1.severe anaphylactic or anaphylactoid reations (e.g. with shock)
+1. 1.severe anaphylactic or anaphylactoid reactions (e.g. with shock)
 2. 2.systemic vasculitis
 3. 3.interstitial nephritis
 4. 4.necrotizing angiitis
 
-Central Nervous System Reactions
+Central Nervous System Reactions:
 
 1. 1.tinnitus and hearing loss
 2. 2.paresthesias
@@ -33,7 +33,7 @@ Central Nervous System Reactions
 6. 6.blurred vision
 7. 7.xanthopsia
 
-Hematologic Reactions
+Hematologic Reactions:
 
 1. 1.aplastic anemia
 2. 2.thrombocytopenia
@@ -43,7 +43,7 @@ Hematologic Reactions
 6. 6.anemia
 7. 7.eosinophilia
 
-Dermatologic-Hypersensitivity Reactions
+Dermatologic-Hypersensitivity Reactions:
 
 1. 1.toxic epidermal necrolysis
 2. 2.Stevens-Johnson Syndrome
@@ -58,12 +58,12 @@ Dermatologic-Hypersensitivity Reactions
 11. 11.pruritus
 12. 12.urticaria
 
-Cardiovascular Reaction
+Cardiovascular Reaction:
 
-1. 1.Orthostatic hypotension may occur and be aggravated by alcohol, barbiturates or narcotics.
+1. 1.Orthostatic hypotension may occur and be aggravated by alcohol, barbiturates, or narcotics.
 2. 2.Increase in cholesterol and triglyceride serum levels
 
-Other Reactions
+Other Reactions:
 
 1. 1.hyperglycemia
 2. 2.glycosuria
@@ -76,3 +76,5 @@ Other Reactions
 9. 9.fever
 
 Whenever adverse reactions are moderate or severe, furosemide dosage should be reduced or therapy withdrawn.
+
+To report SUSPECTED ADVERSE REACTIONS, contact West-Ward Pharmaceuticals Corp. at 1-800-962-8364 or FDA at 1-800-FDA-1088 or www.fda.gov/medwatch.

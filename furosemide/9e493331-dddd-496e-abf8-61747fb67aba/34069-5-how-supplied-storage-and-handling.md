@@ -10,7 +10,7 @@ Furosemide Tablets USP
 
 Furosemide Oral Solution USP
 
-| 10 mg per mL oral solution is supplied as a(orange-flavored) clear, orange-colored solution.NDC 0054-3294-46: Bottle of 60 mL Dispense only in this bottle and only with the calibrated dropper provided. NDC 0054-3294-50: Bottle of 120 mLDispense only in this bottle.PROTECT FROM LIGHT. NOTE: DISCARD OPENED BOTTLE AFTER 90 DAYS. |
+| 10 mg per mL oral solution is supplied as a(orange-flavored) clear, orange-colored solution.NDC 0054-3294-46: Bottle of 60 mL Dispense only in this bottle and only with the calibrated oral syringe provided. NDC 0054-3294-50: Bottle of 120 mLDispense only in this bottle.PROTECT FROM LIGHT. NOTE: DISCARD OPENED BOTTLE AFTER 90 DAYS. |
 | --- |
 | 40 mg per 5 mL oral solution is supplied as a(pineapple-peach flavored) clear, orange-colored solution.NDC 0054-3298-63: Bottle of 500 mLDispense in a tight, light-resistant, child-resistant container as defined in the USP/NFPROTECT FROM LIGHT. |
 | Store and Dispense Store at 20° to 25°C (68° to 77°F). [See USP Controlled Room Temperature.] |
@@ -21,6 +21,6 @@ Pharmaceuticals Corp.
 
 Eatontown, NJ 07724
 
-4052002//12
+4052002//14
 
-Revised July 2017
+Revised August 2020
