@@ -280,7 +280,6 @@ Made in India
 
 1. 546721-01 Rev.
    11/17
-2. 
 
 PRINCIPAL DISPLAY PANEL
 
@@ -330,7 +329,6 @@ Made in India
 
 1. 546720-01 Rev.
    11/17
-2. 
 
 PRINCIPAL DISPLAY PANEL
 
@@ -380,4 +378,3 @@ Made in India
 
 1. 546722-01 Rev.
    11/17
-2. 

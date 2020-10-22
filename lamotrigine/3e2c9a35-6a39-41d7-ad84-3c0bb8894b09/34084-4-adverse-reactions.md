@@ -5,12 +5,13 @@ The following serious adverse reactions are described in more detail in the Warn
 - •Serious Skin Rashes [see Warnings and Precautions (5.1)]
 - •Hemophagocytic Lymphohistiocytosis [see Warnings and Precautions (5.2)]
 - •Multiorgan Hypersensitivity Reactions and Organ Failure [see Warnings and Precautions (5.3)]
-- •Blood Dyscrasias [see Warnings and Precautions (5.4)]
-- •Suicidal Behavior and Ideation [see Warnings and Precautions (5.5)]
-- •Aseptic Meningitis [see Warnings and Precautions (5.6)]
-- •Withdrawal Seizures [see Warnings and Precautions (5.9)]
-- •Status Epilepticus [see Warnings and Precautions (5.10)]
-- •Sudden Unexplained Death in Epilepsy [see Warnings and Precautions (5.11)]
+- •Cardiac Rhythm and Conduction Abnormalities [see Warnings and Precautions (5.4)]
+- •Blood Dyscrasias [see Warnings and Precautions (5.5)]
+- •Suicidal Behavior and Ideation [see Warnings and Precautions (5.6)]
+- •Aseptic Meningitis [see Warnings and Precautions (5.7)]
+- •Withdrawal Seizures [see Warnings and Precautions (5.10)]
+- •Status Epilepticus [see Warnings and Precautions (5.11)]
+- •Sudden Unexplained Death in Epilepsy [see Warnings and Precautions (5.12)]
 
 ## 6.1 Clinical Trial Experience with LAMICTAL XR for Treatment of Primary Generalized Tonic-Clonic and Partial-Onset Seizures
 
@@ -62,9 +63,7 @@ Adverse Reactions in Pooled, Placebo-Controlled, Adjunctive Trials in Patients w
 | Vascular disorder |  |  |
 | Hot flush | 2 | 0 |
 | a Adverse reactions that occurred in at least 2% of patients treated with LAMICTAL XR and at a greater incidence than placebo. |  |  |
-
-Note: In these trials the incidence of nonserious rash was 2% for LAMICTAL XR and 3% for placebo.
-In clinical trials evaluating immediate-release lamotrigine, the rate of serious rash was 0.3% in adults on adjunctive therapy for epilepsy [see Boxed Warning].
+| Note: In these trials the incidence of nonserious rash was 2% for LAMICTAL XR and 3% for placebo. In clinical trials evaluating immediate-release lamotrigine, the rate of serious rash was 0.3% in adults on adjunctive therapy for epilepsy [see Boxed Warning]. |  |  |
 
 Adverse reactions were also analyzed to assess the incidence of the onset of an event in the titration period, and in the maintenance period, and if adverse reactions occurring in the titration phase persisted in the maintenance phase.
 
@@ -206,3 +205,7 @@ Aggression, exacerbation of Parkinsonian symptoms in patients with pre-existing 
 Non-site Specific
 
 Progressive immunosuppression.
+
+Renal and Urinary Disorders
+
+Tubulointerstitial nephritis (has been reported alone and in association with uveitis).

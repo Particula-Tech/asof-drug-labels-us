@@ -26,11 +26,17 @@ Significantly reduced concentrations of folate are associated with teratogenesis
 Folate concentrations were also reduced in male rats given repeated oral doses of lamotrigine.
 Reduced concentrations were partially returned to normal when supplemented with folinic acid.
 
-Cardiovascular
+Cardiac Electrophysiology
 
-In dogs, lamotrigine is extensively metabolized to a 2-N-methyl metabolite.
+Effect of Lamotrigine: In vitro studies show that lamotrigine exhibits Class IB antiarrhythmic activity at therapeutically relevant concentrations.
+It inhibits human cardiac sodium channels with rapid onset and offset kinetics and strong voltage dependence, consistent with other Class IB antiarrhythmic agents.
+LAMICTAL XR did not slow ventricular conduction (widen QRS) in healthy individuals in a thorough QT study; however, it could slow ventricular conduction and increase the risk of arrhythmia in patients with structural heart disease or myocardial ischemia.
+Elevated heart rates could also increase the risk of ventricular conduction slowing with LAMICTAL XR.
+
+Effect of Lamotrigine Metabolite: In dogs, lamotrigine is extensively metabolized to a 2-N-methyl metabolite.
 This metabolite causes dose-dependent prolongation of the PR interval, widening of the QRS complex, and, at higher doses, complete AV conduction block.
-Similar cardiovascular effects are not anticipated in humans because only trace amounts of the 2-N-methyl metabolite (<0.6% of lamotrigine dose) have been found in human urine [see Clinical Pharmacology (12.3)].
+The in vitro electrophysiological effects of this metabolite have not been studied.
+Similar cardiovascular effects from this metabolite are not anticipated in humans because only trace amounts of the 2-N-methyl metabolite (<0.6% of lamotrigine dose) have been found in human urine [see Clinical Pharmacology (12.3)].
 However, it is conceivable that plasma concentrations of this metabolite could be increased in patients with a reduced capacity to glucuronidate lamotrigine (e.g., in patients with liver disease, patients taking concomitant medications that inhibit glucuronidation).
 
 ## 12.3 Pharmacokinetics
@@ -124,7 +130,7 @@ Mean Pharmacokinetic Parametersa of Immediate-Release Lamotrigine in Healthy Vol
 
 Drug Interactions
 
-The apparent clearance of lamotrigine is affected by the coadministration of certain medications [see Warnings and Precautions (5.8, 5.12), Drug Interactions (7)].
+The apparent clearance of lamotrigine is affected by the coadministration of certain medications [see Warnings and Precautions (5.9, 5.13), Drug Interactions (7)].
 
 The net effects of drug interactions with lamotrigine, based on drug interaction studies using immediate-release lamotrigine, are summarized in Tables 5 and 8, followed by details of the drug interaction studies below.
 
@@ -159,7 +165,7 @@ Summary of Drug Interactions with Lamotrigine
 | Valproate | ↓ | ↑ |  |  |  |  |  |  |  |  |
 | Valproate + phenytoin and/or carbamazepine | Not assessed | ↔ |  |  |  |  |  |  |  |  |
 | Zonisamide | Not assessed | ↔ |  |  |  |  |  |  |  |  |
-| a From adjunctive clinical trials and volunteer trials. b Net effects were estimated by comparing the mean clearance values obtained in adjunctive clinical trials and volunteer trials. c The effect of other hormonal contraceptive preparations or hormone replacement therapy on the pharmacokinetics of lamotrigine has not been systematically evaluated in clinical trials, although the effect may be similar to that seen with the ethinylestradiol/levonorgestrel combinations. d Modest decrease in levonorgestrel. e Slight decrease, not expected to be clinically meaningful. f Compared with historical controls. g Not administered, but an active metabolite of carbamazepine. h Not administered, but an active metabolite of oxcarbazepine. I Not administered, but an active metabolite of risperidone. j Slight increase, not expected to be clinically meaningful. ↔ = No significant effect. ? = Conflicting data. |  |  |  |  |  |  |  |  |  |  |
+| a From adjunctive clinical trials and volunteer trials. b Net effects were estimated by comparing the mean clearance values obtained in adjunctive clinical trials and volunteer trials. c The effect of other hormonal contraceptive preparations or hormone replacement therapy on the pharmacokinetics of lamotrigine has not been systematically evaluated in clinical trials, although the effect may be similar to that seen with the ethinylestradiol/levonorgestrel combinations. d Modest decrease in levonorgestrel. e Slight decrease, not expected to be clinically meaningful. f Compared with historical controls. g Not administered, but an active metabolite of carbamazepine. h Not administered, but an active metabolite of oxcarbazepine. i Not administered, but an active metabolite of risperidone. j Slight increase, not expected to be clinically meaningful. ↔ = No significant effect. ? = Conflicting data. |  |  |  |  |  |  |  |  |  |  |
 
 Estrogen-Containing Oral Contraceptives
 
