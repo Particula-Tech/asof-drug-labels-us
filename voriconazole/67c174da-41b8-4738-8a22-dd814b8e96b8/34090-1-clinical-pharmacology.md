@@ -197,7 +197,7 @@ Ranitidine (150 mg every 12 hours) had no significant effect on voriconazole Cma
 
 ##### Macrolide Antibiotics
 
-Coadministration of erythromycin (CYP3A4 inhibitor; 1 g every 12 hours for 7 days) or azithromycin (500 mg every 24 hours for 3 days) with voriconazole 200 mg every 12 hours for 14 days had no significant effect on voriconazole steady state Cmax and AUCτ in healthy subjects.
+Coadministration of erythromycin (CYP3A4 inhibitor; 1 gram every 12 hours for 7 days) or azithromycin (500 mg every 24 hours for 3 days) with voriconazole 200 mg every 12 hours for 14 days had no significant effect on voriconazole steady state Cmax and AUCτ in healthy subjects.
 The effects of voriconazole on the pharmacokinetics of either erythromycin or azithromycin are not known.
 
 #### Effects of Voriconazole on Other Drugs
