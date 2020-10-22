@@ -213,4 +213,4 @@ Product of Finland
 
 © 2014 Vertical Pharmaceuticals, LLC
 
-151083-7 Revised 08/2020
+151083-8 Revised 10/2020
