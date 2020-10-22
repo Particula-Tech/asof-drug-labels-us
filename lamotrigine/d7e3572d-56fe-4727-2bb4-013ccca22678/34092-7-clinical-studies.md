@@ -99,7 +99,3 @@ LAMICTAL was superior to placebo in delaying time to occurrence of a mood episod
 The mean dose of LAMICTAL was about 211 mg/day.
 
 Although these trials were not designed to separately evaluate time to the occurrence of depression or mania, a combined analysis for the 2 trials revealed a statistically significant benefit for LAMICTAL over placebo in delaying the time to occurrence of both depression and mania, although the finding was more robust for depression.
-
-Figure 1: Kaplan-Meier Estimation of Cumulative Proportion of Patients with Mood Episode (Trial 1)
-
-Figure 2: Kaplan-Meier Estimation of Cumulative Proportion of Patients with Mood Episode (Trial 2)

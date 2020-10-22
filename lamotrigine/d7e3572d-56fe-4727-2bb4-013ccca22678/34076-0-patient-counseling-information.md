@@ -14,7 +14,14 @@ Multiorgan Hypersensitivity Reactions, Blood Dyscrasias, and Organ Failure
 
 Inform patients that multiorgan hypersensitivity reactions and acute multiorgan failure may occur with LAMICTAL.
 Isolated organ failure or isolated blood dyscrasias without evidence of multiorgan hypersensitivity may also occur.
-Instruct patients to contact their healthcare providers immediately if they experience any signs or symptoms of these conditions [see Warnings and Precautions (5.3, 5.4)].
+Instruct patients to contact their healthcare providers immediately if they experience any signs or symptoms of these conditions [see Warnings and Precautions (5.3, 5.5)].
+
+Cardiac Rhythm and Conduction Abnormalities
+
+Inform patients that, due to its mechanism of action, LAMICTAL could lead to irregular heart rhythm.
+This risk is increased in patients with underlying cardiac disease or heart conduction problems or who are taking other medications that affect heart conduction.
+Patients should be made aware of and report cardiac signs or symptoms to their healthcare provider right away.
+Patients who develop syncope should lie down with raised legs and contact their healthcare provider [see Warnings and Precautions (5.4)].
 
 Suicidal Thinking and Behavior
 
@@ -45,7 +52,7 @@ Discuss the benefits and risks of continuing breastfeeding.
 Oral Contraceptive Use
 
 Instruct women to notify their healthcare providers if they plan to start or stop use of oral contraceptives or other female hormonal preparations.
-Starting estrogen-containing oral contraceptives may significantly decrease lamotrigine plasma levels and stopping estrogen-containing oral contraceptives (including the pill-free week) may significantly increase lamotrigine plasma levels [see Warnings and Precautions (5.8), Clinical Pharmacology (12.3)].
+Starting estrogen-containing oral contraceptives may significantly decrease lamotrigine plasma levels and stopping estrogen-containing oral contraceptives (including the pill-free week) may significantly increase lamotrigine plasma levels [see Warnings and Precautions (5.9), Clinical Pharmacology (12.3)].
 Also instruct women to promptly notify their healthcare providers if they experience adverse reactions or changes in menstrual pattern (e.g., break-through bleeding) while receiving LAMICTAL in combination with these medications.
 
 Discontinuing LAMICTAL
@@ -74,4 +81,4 @@ Research Triangle Park, NC 27709
 
 ©2020 GSK group of companies or its licensor.
 
-LMT:22PI
+LMT:23PI

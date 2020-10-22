@@ -85,13 +85,13 @@ Discontinuation Strategy
 
 Epilepsy: For patients receiving LAMICTAL in combination with other AEDs, a re-evaluation of all AEDs in the regimen should be considered if a change in seizure control or an appearance or worsening of adverse reactions is observed.
 
-If a decision is made to discontinue therapy with LAMICTAL, a step-wise reduction of dose over at least 2 weeks (approximately 50% per week) is recommended unless safety concerns require a more rapid withdrawal [see Warnings and Precautions (5.9)].
+If a decision is made to discontinue therapy with LAMICTAL, a step-wise reduction of dose over at least 2 weeks (approximately 50% per week) is recommended unless safety concerns require a more rapid withdrawal [see Warnings and Precautions (5.10)].
 
 Discontinuing carbamazepine, phenytoin, phenobarbital, primidone, or other drugs such as rifampin and the protease inhibitors lopinavir/ritonavir and atazanavir/ritonavir that induce lamotrigine glucuronidation should prolong the half-life of lamotrigine; discontinuing valproate should shorten the half-life of lamotrigine.
 
 Bipolar Disorder: In the controlled clinical trials, there was no increase in the incidence, type, or severity of adverse reactions following abrupt termination of LAMICTAL.
 In the clinical development program in adults with bipolar disorder, 2 patients experienced seizures shortly after abrupt withdrawal of LAMICTAL.
-Discontinuation of LAMICTAL should involve a step-wise reduction of dose over at least 2 weeks (approximately 50% per week) unless safety concerns require a more rapid withdrawal [see Warnings and Precautions (5.9)].
+Discontinuation of LAMICTAL should involve a step-wise reduction of dose over at least 2 weeks (approximately 50% per week) unless safety concerns require a more rapid withdrawal [see Warnings and Precautions (5.10)].
 
 ## 2.2 Epilepsy—Adjunctive Therapy
 

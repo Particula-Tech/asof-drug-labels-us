@@ -28,6 +28,19 @@ Significantly reduced concentrations of folate are associated with teratogenesis
 Folate concentrations were also reduced in male rats given repeated oral doses of lamotrigine.
 Reduced concentrations were partially returned to normal when supplemented with folinic acid.
 
+Cardiac Electrophysiology
+
+Effect of Lamotrigine: In vitro studies show that lamotrigine exhibits Class IB antiarrhythmic activity at therapeutically relevant concentrations.
+It inhibits human cardiac sodium channels with rapid onset and offset kinetics and strong voltage dependence, consistent with other Class IB antiarrhythmic agents.
+LAMICTAL did not slow ventricular conduction (widen QRS) in healthy individuals in a thorough QT study; however, it could slow ventricular conduction and increase the risk of arrhythmia in patients with structural heart disease or myocardial ischemia.
+Elevated heart rates could also increase the risk of ventricular conduction slowing with LAMICTAL.
+
+Effect of Lamotrigine Metabolite: In dogs, lamotrigine is extensively metabolized to a 2-N-methyl metabolite.
+This metabolite causes dose-dependent prolongation of the PR interval, widening of the QRS complex, and, at higher doses, complete AV conduction block.
+The in vitro electrophysiological effects of this metabolite have not been studied.
+Similar cardiovascular effects a from this metabolite are not anticipated in humans because only trace amounts of the 2-N-methyl metabolite (<0.6% of lamotrigine dose) have been found in human urine [see Clinical Pharmacology (12.3)].
+However, it is conceivable that plasma concentrations of this metabolite could be increased in patients with a reduced capacity to glucuronidate lamotrigine (e.g., in patients with liver disease, patients taking concomitant medications that inhibit glucuronidation).
+
 Accumulation in Kidneys
 
 Lamotrigine accumulated in the kidney of the male rat, causing chronic progressive nephrosis, necrosis, and mineralization.
@@ -37,13 +50,6 @@ Melanin Binding
 
 Lamotrigine binds to melanin-containing tissues, e.g., in the eye and pigmented skin.
 It has been found in the uveal tract up to 52 weeks after a single dose in rodents.
-
-Cardiovascular
-
-In dogs, lamotrigine is extensively metabolized to a 2-N-methyl metabolite.
-This metabolite causes dose-dependent prolongation of the PR interval, widening of the QRS complex, and, at higher doses, complete AV conduction block.
-Similar cardiovascular effects are not anticipated in humans because only trace amounts of the 2-N-methyl metabolite (<0.6% of lamotrigine dose) have been found in human urine [see Clinical Pharmacology (12.3)].
-However, it is conceivable that plasma concentrations of this metabolite could be increased in patients with a reduced capacity to glucuronidate lamotrigine (e.g., in patients with liver disease, patients taking concomitant medications that inhibit glucuronidation).
 
 ## 12.3 Pharmacokinetics
 
@@ -115,7 +121,7 @@ Half-life and apparent oral clearance vary depending on concomitant AEDs.
 
 Drug Interactions
 
-The apparent clearance of lamotrigine is affected by the coadministration of certain medications [see Warnings and Precautions (5.8, 5.12), Drug Interactions (7)].
+The apparent clearance of lamotrigine is affected by the coadministration of certain medications [see Warnings and Precautions (5.9, 5.13), Drug Interactions (7)].
 
 The net effects of drug interactions with lamotrigine are summarized in Tables 13 and 15, followed by details of the drug interaction studies below.
 
