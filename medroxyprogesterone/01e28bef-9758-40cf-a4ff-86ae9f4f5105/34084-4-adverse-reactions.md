@@ -6,8 +6,8 @@ The following important adverse reactions observed with the use of medroxyproges
 - Thromboembolic disease [see Warnings and Precautions (5.2)]
 - Breast Cancer [see Warnings and Precautions (5.3)]
 - Anaphylaxis and Anaphylactoid Reactions [see Warnings and Precautions (5.5)]
-- Bleeding Irregularities [see Warnings and Precautions (5.9)]
-- Weight Gain [see Warnings and Precautions (5.10)]
+- Bleeding Irregularities [see Warnings and Precautions (5.10)]
+- Weight Gain [see Warnings and Precautions (5.11)]
 
 ## 6.1 Clinical Trials Experience
 

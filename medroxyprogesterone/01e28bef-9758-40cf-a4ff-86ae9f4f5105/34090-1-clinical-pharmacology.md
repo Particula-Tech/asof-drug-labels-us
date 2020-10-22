@@ -2,8 +2,8 @@
 
 ## 12.1 Mechanism of Action
 
-Medroxyprogesterone acetate injectable suspension, when administered at the recommended dose to women every 3 months, inhibits the secretion of gonadotropins which, in turn, prevents follicular maturation and ovulation and results in endometrial thinning.
-These actions produce its contraceptive effect.
+Medroxyprogesterone acetate injectable suspension, inhibits the secretion of gonadotropins which primarily prevents follicular maturation and ovulation and causes thickening of cervical mucus.
+These actions contribute to its contraceptive effect.
 
 ## 12.2 Pharmacodynamics
 
