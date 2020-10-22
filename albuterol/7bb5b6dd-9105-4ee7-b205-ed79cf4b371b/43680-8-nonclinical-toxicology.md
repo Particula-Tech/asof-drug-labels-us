@@ -17,7 +17,7 @@ Reproduction studies in rats demonstrated no evidence of impaired fertility at o
 Preclinical: Intravenous studies in rats with albuterol sulfate have demonstrated that albuterol crosses the blood-brain barrier and reaches brain concentrations amounting to approximately 5% of the plasma concentrations.
 In structures outside the blood-brain barrier (pineal and pituitary glands), albuterol concentrations were found to be 100 times those in the whole brain.
 
-Studies in laboratory animals (minipigs, rodents, and dogs) have demonstrated the occurrence of cardiac arrhythmias and sudden death (with histologic evidence of myocardial necrosis) when b‑agonists and methylxanthines were administered concurrently.
+Studies in laboratory animals (minipigs, rodents, and dogs) have demonstrated the occurrence of cardiac arrhythmias and sudden death (with histologic evidence of myocardial necrosis) when β‑agonists and methylxanthines were administered concurrently.
 The clinical significance of these findings is unknown.
 
 Propellant HFA‑134a is devoid of pharmacological activity except at very high doses in animals (380 ‑ 1300 times the maximum human exposure based on comparisons of AUC values), primarily producing ataxia, tremors, dyspnea, or salivation.

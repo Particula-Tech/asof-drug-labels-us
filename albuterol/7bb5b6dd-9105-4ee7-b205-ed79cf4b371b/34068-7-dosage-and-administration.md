@@ -26,8 +26,7 @@ In this way, the patient can be sure to always know the correct number of remain
 Never attach a canister of medication from any other inhaler to the Albuterol Sulfate HFA actuator and never attach the Albuterol Sulfate HFA canister to an actuator from any other inhaler.
 If the mouthpiece becomes blocked, washing the mouthpiece will remove the blockage.
 If it is necessary to use the inhaler before it is completely dry, shake off excess water, replace canister, spray twice into the air away from face, and take the prescribed dose.
-After such use, the mouthpiece should be rewashed and allowed to air dry thoroughly.
-[see FDA-Approved Patient Labeling (17.9)].
+After such use, the mouthpiece should be rewashed and allowed to air dry thoroughly [see FDA-Approved Patient Labeling (17.9)].
 
 Dose Counter: Albuterol Sulfate HFA has a dose counter attached to the actuator.
 When the patient receives the inhaler, a black dot will appear in the viewing window until it has been primed 3 times, at which point the number 200 will be displayed.

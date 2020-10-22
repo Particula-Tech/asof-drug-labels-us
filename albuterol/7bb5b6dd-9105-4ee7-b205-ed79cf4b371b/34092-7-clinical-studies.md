@@ -7,6 +7,12 @@ An evaluator-blind marketed active comparator HFA-134a albuterol inhaler arm (56
 
 Serial FEV1 measurements, shown below as percent change from test-day baseline at Day 1 and at Day 43, demonstrated that two inhalations of Albuterol Sulfate HFA Inhalation Aerosol produced significantly greater improvement in FEV1 over the pre-treatment value than the matched placebo, as well as a comparable bronchodilator effect to the marketed active comparator HFA-134a albuterol inhaler.
 
+FEV1 as Mean Percent Change from Test-Day Pre-Dose in a
+
+6-Week Clinical Trial Day 1
+
+Day 43
+
 In this study, 31 of 58 patients treated with Albuterol Sulfate HFA Inhalation Aerosol achieved a 15% increase in FEV1 within 30 minutes post-dose on Day 1.
 In these patients, the median time to onset, median time to peak effect, and median duration of effect were 8.2 minutes, 47 minutes, and approximately 3 hours, respectively.
 In some patients, the duration of effect was as long as 6 hours.
@@ -14,7 +20,7 @@ In some patients, the duration of effect was as long as 6 hours.
 In a placebo-controlled, single-dose, crossover study, Albuterol Sulfate HFA Inhalation Aerosol, administered at albuterol doses of 90, 180 and 270 mcg, produced bronchodilator responses significantly greater than those observed with a matched placebo HFA inhalation aerosol and comparable to a marketed active comparator HFA-134a albuterol inhaler.
 
 Pediatric Patients 4 to 11 Years of Age: In a 3-week, randomized, double-blind, placebo-controlled trial, the same formulation of albuterol as in Albuterol Sulfate HFA Inhalation Aerosol (50 patients) was compared to a matched placebo HFA inhalation aerosol (45 patients) in asthmatic children 4 to 11 years of age at a dose of 180 mcg albuterol four times daily.
-Serial FEV1 measurements, expressed as the maximum percent change from test-day baseline in percent predicted FEV1 at Day 1 and at Day 22 observed within two hours post-dose, demonstrated that two inhalations of HFA albuterol sulfate produced significantly greater improvement in FEV1 over the pre-treatment value than the matched placebo.
+Serial FEV1 measurements, expressed as the maximum percent change from test-day baseline in percent predicted FEV1 at Day 1 and at Day 22 observed within two hours post-dose, demonstrated that two inhalations of HFA albuterol sulfate produced significantly greater improvement in FEV1 over the pretreatment value than the matched placebo.
 
 In this study, 21 of 50 pediatric patients treated with the same formulation of albuterol as in Albuterol Sulfate HFA Inhalation Aerosol achieved a 15% increase in FEV1 within 30 minutes post-dose on Day 1.
 In these patients, the median time to onset, median time to peak effect and median duration of effect were 10 minutes, 31 minutes, and approximately 4 hours, respectively.

@@ -68,18 +68,18 @@ Children should use Albuterol Sulfate HFA Inhalation Aerosol under adult supervi
 
 See tear-off illustrated Information for the Patient leaflet.
 
-Mktd by: Teva Pharmaceuticals USA, Inc.
+Distributed by:
 
-North Wales, PA 19454
+Teva Pharmaceuticals USA, Inc.
 
-Mfd by: IVAX Pharmaceuticals Ireland
+Parsippany, NJ 07054
 
-Waterford, Ireland
+©2020 Teva Pharmaceuticals USA, Inc. All rights reserved.
 
-Copyright ©2019, Teva Pharmaceuticals USA, Inc.
+ASHFA-004
 
-All rights reserved.
+Attention Pharmacist:
 
-03/2019
+Detach Patient's Instructions for Use from package insert and dispense with the product.
 
-ASHFA-003
+---------------------------------------------------------------------------------------------------------------------

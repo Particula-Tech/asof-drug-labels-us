@@ -3,7 +3,7 @@
 Use of Albuterol Sulfate HFA may be associated with the following:
 
 - Paradoxical bronchospasm [see Warnings and Precautions (5.1)]
-- Cardiovascular Effects [see Warnings and Precautions (5.4)]
+- Cardiovascular effects [see Warnings and Precautions (5.4)]
 - Immediate hypersensitivity reactions [see Warnings and Precautions (5.6)]
 - Hypokalemia [see Warnings and Precautions (5.8)]
 

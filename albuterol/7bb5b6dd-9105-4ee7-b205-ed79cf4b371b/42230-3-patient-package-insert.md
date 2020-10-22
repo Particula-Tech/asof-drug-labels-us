@@ -11,7 +11,7 @@ What is Albuterol Sulfate HFA?
 Albuterol Sulfate HFA is a prescription medicine used in people 4 years of age and older to:
 
 - treat or prevent bronchospasm in people who have reversible obstructive airway disease
-- prevent exercise induced bronchospasm
+- prevent exercise-induced bronchospasm
 
 It is not known if Albuterol Sulfate HFA is safe and effective in children under 4 years of age.
 
@@ -45,7 +45,7 @@ Albuterol Sulfate HFA may affect the way other medicines work, and other medicin
 Especially tell your doctor if you take:
 
 - other inhaled medicines or asthma medicines
-- beta blocker medicines
+- beta-blocker medicines
 - diuretics
 - digoxin
 - monoamine oxidase inhibitors
@@ -132,7 +132,7 @@ This Patient Information summarizes the most important information about Albuter
 If you would like more information, talk with your doctor.
 You can ask your pharmacist or doctor for information about Albuterol Sulfate HFA that is written for health professionals.
 
-For more information, call 1-888-482-9522.
+For more information, call 1-888-483-8279.
 
 What are the ingredients in Albuterol Sulfate HFA?
 
@@ -140,10 +140,18 @@ Active ingredient: albuterol sulfate
 
 Inactive ingredients: propellant HFA-134a and ethanol.
 
-ASHFAPL-002
+Distributed by:
+
+Teva Pharmaceuticals USA, Inc.
+
+Parsippany, NJ 07054
+
+©2020 Teva Pharmaceuticals USA, Inc. All rights reserved.
+
+ASHFAPL-003
 
 Rev.
-1/2018
+05/2020
 
 Instructions for Use
 
@@ -171,10 +179,8 @@ See Figure B.
 You will see a black dot in the viewing window on the actuator until the device has been primed 3 times.
 See Figure B and "Priming Your Albuterol Sulfate HFA Device" below.
 
-| Figure A | Figure B |
-| --- | --- |
-
 - Do not use the Albuterol Sulfate HFA actuator with a canister of medicine from any other inhaler.
+
 - Do not use an Albuterol Sulfate HFA canister with an actuator from any other inhaler, including another Albuterol Sulfate HFA inhaler.
 
 Priming Your Albuterol Sulfate HFA Device:
@@ -187,13 +193,9 @@ Do not prime your Albuterol Sulfate HFA device every day.
 - Shake the inhaler well, and spray it into the air away from your face.
   See Figure C.
 
-Figure C
-
 - Shake and spray the inhaler like this 2 more times to finish priming it.
   The dose counter on the actuator should display the number 200 after you prime the actuator for the first time.
   See Figure D.
-
-Figure D
 
 Each Time You Use Your Albuterol Sulfate HFA Device:
 
@@ -223,8 +225,6 @@ Step 2.
 Hold the inhaler with the mouthpiece down.
 See Figure E.
 
-Figure E
-
 Step 3.
 Breathe out through your mouth and push as much air from your lungs as you can.
 Put the mouthpiece in your mouth and close your lips around it.
@@ -233,8 +233,6 @@ See Figure F.
 Step 4.
 Push the top of the canister all the way down while you breathe in deeply and slowly through your mouth.
 See Figure F.
-
-Figure F
 
 Step 5.
 Right after the spray comes out, take your finger off the canister.
@@ -254,9 +252,6 @@ Cleaning Your Albuterol Sulfate HFA Device:
 It is very important to keep the plastic actuator clean so the medicine will not build-up and block the spray.
 See Figure G and Figure H.
 
-| Figure G | Figure H |
-| --- | --- |
-
 - Do not try to clean the metal canister or let it get wet.
   The inhaler may stop spraying if it is not cleaned correctly.
 - If you have more than 1 Albuterol Sulfate HFA inhaler, wash each device at separate times to prevent putting the wrong canister together with the wrong plastic actuator.
@@ -265,22 +260,18 @@ See Figure G and Figure H.
   - Take the canister out of the actuator, and take the cap off the mouthpiece.
   - Hold the actuator under the faucet and run warm water through it for about 30 seconds.
     See Figure I.
-  - 
-  - Figure I
   - Turn the actuator upside down and run warm water through the mouthpiece for about 30 seconds.
     See Figure J.
-  - 
-  - Figure J
-  - Shake off as much water from the actuator as you can.
-    Look into the mouthpiece to make sure any medicine build-up has been completely washed away.
-    If there is any build-up, repeat the washing instructions.
-  - Let the actuator air-dry completely, such as overnight.
-    See Figure K.
-  - 
-  - Figure K
-  - When the actuator is dry, put the canister in the actuator and make sure it fits firmly.
-    Shake the inhaler well and spray it twice into the air away from your face.
-    Put the cap back on the mouthpiece.
+
+- Shake off as much water from the actuator as you can.
+  Look into the mouthpiece to make sure any medicine build-up has been completely washed away.
+  If there is any build-up, repeat the washing instructions.
+- Let the actuator air-dry completely, such as overnight.
+  See Figure K.
+
+- When the actuator is dry, put the canister in the actuator and make sure it fits firmly.
+  Shake the inhaler well and spray it twice into the air away from your face.
+  Put the cap back on the mouthpiece.
 
 If you need to use your inhaler before the actuator is completely dry:
 
@@ -302,10 +293,14 @@ Replacing Your Albuterol Sulfate HFA Device
 
 This Patient Information and Instructions for Use has been approved by the U.S. Food and Drug Administration.
 
-Marketed by Teva Pharmaceuticals USA, Inc. North Wales, PA 19454
+Distributed by:
 
-Manufactured by IVAX Pharmaceuticals Ireland Waterford, Ireland
+Teva Pharmaceuticals USA, Inc.
 
-Revised 1/2018
+Parsippany, NJ 07054
 
-ASHFAIFU-002
+©2020 Teva Pharmaceuticals USA, Inc. All rights reserved.
+
+ASHFAIFU-003
+
+Revised 05/2020

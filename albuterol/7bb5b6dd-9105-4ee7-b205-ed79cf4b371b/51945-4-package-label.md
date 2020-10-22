@@ -1,8 +1,4 @@
-# Package/Label Display Panel, Part 1 of 2
-
-# Package/Label Display Panel, Part 2 of 2
-
-## Albuterol Sulfate HFA Inhalation Aerosol 90 mcg per Actuation, 200 Metered Inhalations Carton Text
+# Package/Label Display Panel
 
 NDC 0093-3174-31
 

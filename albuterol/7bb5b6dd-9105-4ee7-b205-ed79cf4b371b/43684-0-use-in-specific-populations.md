@@ -49,7 +49,7 @@ A study in which pregnant rats were dosed with radiolabeled albuterol sulfate de
 Risk Summary
 
 There are no available data on the presence of albuterol in human milk, the effects on the breastfed child, or the effects on milk production.
-However, plasma levels of albuterol after inhaled therapeutic doses are low in humans, and if present in breast milk, albuterol has a low oral bioavailability [see Clinical Pharmacology (12.3)].
+However, plasma levels of albuterol after inhaled therapeutic doses are low in humans, and if present in breast milk, albuterol has a low oral bioavailability [see Clinical Pharmacology (12.2)].
 
 The developmental and health benefits of breastfeeding should be considered along with the mother’s clinical need for albuterol and any potential adverse effects on the breastfed child from albuterol or from the underlying maternal condition.
 

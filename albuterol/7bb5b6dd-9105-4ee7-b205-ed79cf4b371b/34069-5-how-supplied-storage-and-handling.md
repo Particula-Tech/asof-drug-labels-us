@@ -1,4 +1,4 @@
-# 16 HOW SUPPLIED/STORAGE & HANDLING
+# 16 HOW SUPPLIED/STORAGE AND HANDLING
 
 Albuterol Sulfate HFA Inhalation Aerosol is supplied as a pressurized aluminum canister with a red plastic actuator with a dose counter and white dust cap each in boxes of one.
 Each canister contains 8.5 g of the formulation and provides 200 actuations (NDC 0093-3174-31).
