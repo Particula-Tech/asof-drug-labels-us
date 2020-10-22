@@ -33,8 +33,8 @@ Pregnancy
 Advise patients to notify their healthcare provider if they become pregnant or intend to become pregnant during levetiracetam therapy.
 Encourage patients to enroll in the North American Antiepileptic Drug (NAAED) pregnancy registry if they become pregnant [see Use in Specific Populations (8.1)].
 
-Dispense with Medication Guide available at: www.aurobindousa.com/product-medication-guides
+Dispense with Medication Guide available at: www.aurobindousa.com/medication-guides
 
 Distributed by: Aurobindo Pharma USA, Inc. 279 Princeton-Hightstown Road East Windsor, NJ 08520 Manufactured by: Aurobindo Pharma Limited Hyderabad-500 038, India
 
-Revised: 12/2019
+Revised: 10/2020

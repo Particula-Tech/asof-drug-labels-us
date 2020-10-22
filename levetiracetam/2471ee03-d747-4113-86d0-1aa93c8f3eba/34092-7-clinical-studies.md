@@ -8,7 +8,7 @@ In these studies, 904 patients were randomized to placebo, 1000 mg, 2000 mg, or 
 Patients enrolled in Study 1 or Study 2 had refractory partial-onset seizures for at least two years and had taken two or more classical AEDs.
 Patients enrolled in Study 3 had refractory partial-onset seizures for at least 1 year and had taken one classical AED.
 At the time of the study, patients were taking a stable dose regimen of at least one and could take a maximum of two AEDs.
-During the baseline period, patients had to have experienced at least two partial- onset seizures during each 4-week period.
+During the baseline period, patients had to have experienced at least two partial-onset seizures during each 4-week period.
 Study 1 Study 1 was a double-blind, placebo-controlled, parallel-group study conducted at 41 sites in the United States comparing levetiracetam 1000 mg/day (N=97), levetiracetam 3000 mg/day (N=101), and placebo (N=95) given in equally divided doses twice daily.
 After a prospective baseline period of 12 weeks, patients were randomized to one of the three treatment groups described above.
 The 18-week treatment period consisted of a 6-week titration period, followed by a 12-week fixed dose evaluation period, during which concomitant AED regimens were held constant.
@@ -24,6 +24,8 @@ Table 10: Reduction in Mean Over Placebo in Weekly Frequency of Partial-Onset Se
 | *statistically significant versus placebo |  |  |  |
 
 The percentage of patients (y-axis) who achieved ≥50% reduction in weekly seizure rates from baseline in partial-onset seizure frequency over the entire randomized treatment period (titration + evaluation period) within the three treatment groups (x-axis) is presented in Figure 1.
+Study 2
+
 Study 2 Study 2 was a double-blind, placebo-controlled, crossover study conducted at 62 centers in Europe comparing levetiracetam 1000 mg/day (N=106), levetiracetam 2000 mg/day (N=105), and placebo (N=111) given in equally divided doses twice daily.
 The first period of the study (Period A) was designed to be analyzed as a parallel-group study.
 After a prospective baseline period of up to 12 weeks, patients were randomized to one of the three treatment groups described above.

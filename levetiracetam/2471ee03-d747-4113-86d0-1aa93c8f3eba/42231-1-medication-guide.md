@@ -61,7 +61,6 @@ Compare the name above with the name on your bottle and the appearance of your m
 Tell your pharmacist immediately if you think you have been given the wrong medicine.
 
 Who should not take levetiracetam tablets?
-
 Do not take levetiracetam tablets if you are allergic to levetiracetam.
 
 What should I tell my healthcare provider before starting levetiracetam tablets?
@@ -109,10 +108,7 @@ Levetiracetam tablets may make you dizzy or sleepy.
 
 What are the possible side effects of levetiracetam tablets?
 
-Levetiracetam tablets can cause serious side effects including:
-
-See “What is the most important information I should know about levetiracetam tablets?”
-
+Levetiracetam tablets can cause serious side effects including: • See “What is the most important information I should know about levetiracetam tablets?”
 Call your healthcare provider right away if you have any of these symptoms:
 
 - mood and behavior changes such as aggression, agitation, anger, anxiety, apathy, mood swings, depression, hostility, and irritability.
@@ -158,7 +154,7 @@ Medicines are sometimes prescribed for purposes other than those listed in a Med
 Do not use levetiracetam tablets for a condition for which it was not prescribed.
 Do not give levetiracetam tablets to other people, even if they have the same symptoms that you have.
 They may harm them.
-You can ask your pharmacist or healthcare provider for information about levetiracetam tablets that is written for health professionals.
+You can ask your pharmacist or healthcare provider information about levetiracetam tablets that is written for health professionals.
 
 What are the ingredients in levetiracetam tablets?
 
@@ -174,6 +170,6 @@ Inactive ingredients: corn starch, colloidal silicon dioxide, povidone, talc, ma
 
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
 
-Dispense with Medication Guide available at: www.aurobindousa.com/product-medication-guides
+Dispense with Medication Guide available at: www.aurobindousa.com/medication-guides
 
-Distributed by: Aurobindo Pharma USA, Inc. 279 Princeton-Hightstown Road East Windsor, NJ 08520 Manufactured by: Aurobindo Pharma Limited Hyderabad-500 038, India Revised: 12/2019
+Distributed by: Aurobindo Pharma USA, Inc. 279 Princeton-Hightstown Road East Windsor, NJ 08520 Manufactured by: Aurobindo Pharma Limited Hyderabad-500 038, India Revised: 10/2020
