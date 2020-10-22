@@ -27,7 +27,7 @@ Amlodipine besylate tablets can relieve this pain.
 
 Who should not use amlodipine besylate tablets?
 
-Do not use amlodipine besylate tablets if you are allergic to amlodipine (the active ingredient in amlodipine Besylate tablets), or to the inactive ingredients.
+Do not use amlodipine besylate tabletsif you are allergic to amlodipine (the active ingredient in amlodipine Besylate tablets), or to the inactive ingredients.
 Your doctor or pharmacist can give you a list of these ingredients.
 
 What should I tell my doctor before taking amlodipine besylate tablets?
@@ -61,7 +61,7 @@ What should I avoid while taking amlodipine besylate tablets?
 
 What are the possible side effects of amlodipine besylate tablets?
 
-Amlodipine besylate tablets may cause the following side effects.
+Amlodipine besylate tabletsmay cause the following side effects.
 Most side effects are mild or moderate:
 
 - swelling of your legs or ankles
@@ -95,10 +95,10 @@ Only use amlodipine besylate tablets the way your doctor told you to.
 Do not give amlodipine besylate tablets to other people, even if they have the same symptoms you have.
 It may harm them.
 
-You can ask your pharmacist or doctor for information about amlodipine besylate tablets, or you can visit exelan pharmaceuticals website at www.exelanpharma.com or call 1-855-295-7455.
+You can ask your pharmacist or doctor for information about amlodipine besylate tablets, or you can visit exelan pharmaceuticals website at www.exelanpharma.com or call 1-866-604-3268.
 
-Manufactured by: InvaGen Pharmaceuticals, Inc. Hauppauge, NY 11788
+Manufactured by: InvaGen Pharmaceuticals, Inc. (a subsidiary of Cipla Ltd.) Hauppauge, NY 11788
 
-Manufactured for: Exelan Pharmaceuticals, Inc. Lawrenceville, GA 30046
+Manufactured for: Exelan Pharmaceuticals, Inc. Boca Raton, FL 33432
 
-Rev: 12/17
+Rev: 06/20
