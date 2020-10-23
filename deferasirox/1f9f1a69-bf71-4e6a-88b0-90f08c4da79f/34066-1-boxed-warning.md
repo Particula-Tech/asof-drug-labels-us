@@ -1,4 +1,4 @@
-# WARNING: RENAL FAILURE, HEPATIC FAILURE, AND GASTROINTESTINAL HEMORRHAGE
+# WARNING: RENAL FAILURE, HEPATIC FAILURE, and GASTROINTESTINAL HEMORRHAGE
 
 Renal Failure • Deferasirox tablets for oral suspension can cause acute renal failure and death, particularly in patients with comorbidities and those who are in the advanced stages of their hematologic disorders. • Evaluate baseline renal function prior to starting or increasing deferasirox tablets for oral suspension dosing in all patients.
 Deferasirox tablets for oral suspension are contraindicated in adult and pediatric patients with eGFR less than 40 mL/min/1.73 m2.

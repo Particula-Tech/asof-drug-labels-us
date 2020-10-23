@@ -36,7 +36,7 @@ Call your healthcare provider right away, if you develop any of the following si
 | --- | --- |
 | • upper right stomach-area (abdomen) pain | • dark urine |
 
-Bleeding, ulcers and tears of the stomach or intestine.
+Bleeding, ulcers, and tears of the stomach or intestine.
 Severe stomach and intestine bleeding (hemorrhage) that have caused death have happened in some people treated with deferasirox tablets for oral suspension, especially in elderly people who have advanced blood cancers or low platelet counts.
 Some people have also had ulcers of the stomach or intestine, sometimes with tears (perforation) that have caused death.
 In some people who have taken deferasirox tablets for oral suspension, including children and adolescents, irritation of the upper gastrointestinal tract, ulcers, and bleeding have happened, but did not cause death.
@@ -56,16 +56,18 @@ Your healthcare provider may need to monitor you more closely during treatment w
 - Tell your healthcare provider if you get heartburn during treatment with deferasirox tablets for oral suspension.
 - Get emergency medical help right away if you vomit blood or pass black or bloody stools, or if you have severe stomach-area (abdomen) pain during treatment with deferasirox tablets for oral suspension.
 
-See “What are possible side effects of deferasirox tablets for oral suspension?” for more information about side effects.
+See “What are the possible side effects of deferasirox tablets for oral suspension?” for more information about side effects.
 What are deferasirox tablets for oral suspension?
 Deferasirox tablets for oral suspension are prescription medicine that is used to treat:
 
 - people 2 years of age and older who have an increased amount of iron in their blood for a long period of time (chronic), caused by repeated blood transfusions
+- certain people 10 years of age or older with thalassemia who have an increased amount of iron in their blood but who are not receiving regular blood transfusions
 
 It is not known if deferasirox tablets for oral suspension are safe and effective when used with other medicines to treat an increased amount of iron in the blood.
 It is not known if deferasirox tablets for oral suspension are safe and effective for treating children under 2 years of age who have an increased amount of iron in their blood for a long period of time (chronic) caused by repeated blood transfusions.
+It is not known if deferasirox tablets for oral suspension are safe and effective for treating children under 10 years of age with thalassemia who have an increased amount of iron in their blood, but who are not receiving regular blood transfusions.
 Do not take deferasirox tablets for oral suspension if you: • have certain kidney problems • have high-risk myelodysplastic syndrome (MDS) • have advanced cancer • have a low platelet count • are allergic to deferasirox or any of the ingredients in deferasirox tablets for oral suspension.
-See the end of this leaflet for a list of the ingredients in deferasirox tablets for oral suspension.
+See the end of this Medication Guide for a list of the ingredients in deferasirox tablets for oral suspension.
 Ask your healthcare provider if you are not sure if you have any of the medical conditions listed above.
 Before taking deferasirox tablets for oral suspension, tell your healthcare provider about all of your medical conditions, including if you: • have kidney problems • have liver problems • have advanced cancer.
 See “Do not take deferasirox tablets for oral suspension if you” • have a blood disorder that may increase your risk for bleeding • are pregnant or plan to become pregnant.
@@ -80,17 +82,18 @@ You should not do both.
 Tell your healthcare provider about all the medicines you take,including prescription medicines, over-the-counter medicines, vitamins, and herbal supplements.
 Some medicines may affect how deferasirox tablets for oral suspension works, and deferasirox tablets for oral suspension may affect how other medicines work.
 Also, your risk of sudden kidney problems or severe bleeding may be increased if you take deferasirox tablets for oral suspension with certain medicines.
-See ‘What is the most important information I should know about deferasirox tablets for oral suspension?” • Avoid taking the following medicines during treatment with deferasirox tablets for oral suspension: o antacid products (medicines used to treat heartburn) that contain aluminum o theophylline o certain medicines to lower your cholesterol, called bile acid sequestrants.
+See "What is the most important information I should know about deferasirox tablets for oral suspension?" • Avoid taking the following medicines during treatment with deferasirox tablets for oral suspension: o antacid products (medicines used to treat heartburn) that contain aluminum o theophylline o certain medicines to lower your cholesterol, called bile acid sequestrants.
 Ask your healthcare provider if you are not sure if you take one of these medicines.
 Know the medicines you take.
 Keep a list of them to show your healthcare provider or pharmacist when you get a new medicine.
-How should I take deferasirox tablets for oral suspension? • Take deferasirox tablets for oral suspension exactly as your healthcare provider tells you to. • Do not change your dose of deferasirox tablets for oral suspension or stop taking it unless your healthcare provider tells you to. • Take deferasirox tablets for oral suspension 1 time every day, preferably at the same time every day. • Take deferasirox tablets for oral suspension on an empty stomach at least 30 minutes before eating food. • Do not to chew deferasirox tablets for oral suspension tablets or swallow them whole. • Place the prescribed number of deferasirox tablets for oral suspension tablets in a cup with water, orange juice, or apple juice.
+How should I take deferasirox tablets for oral suspension? • Take deferasirox tablets for oral suspension exactly as your healthcare provider tells you to. • Do not change your dose of deferasirox tablets for oral suspension or stop taking it unless your healthcare provider tells you to. • Take deferasirox tablets for oral suspension 1 time every day, preferably at the same time every day. • Take deferasirox tablets for oral suspension on an empty stomach at least 30 minutes before eating food. • Do not chew deferasirox tablets for oral suspension tablets or swallow them whole. • Place the prescribed number of deferasirox tablets for oral suspension tablets in a cup with water, orange juice, or apple juice.
 Stir to disperse the tablets in the liquid. o If your prescribed dose of deferasirox tablets for oral suspension is less than 1 gram, use 3.5 ounces of liquid to disperse the tablets. o If your prescribed dose of deferasirox tablets for oral suspension is 1 gram or more, use 7 ounces of liquid to disperse the tablets. • Completely disperse the tablets until it becomes a fine suspension.
 Then drink the suspension right away. • Do not disperse deferasirox tablets for oral suspension tablets in carbonated drinks or milk. • After drinking the suspension, add a small amount of water, orange juice, or apple juice to the cup to disperse any remaining medicine, and then drink it. • Do not take deferasirox tablets for oral suspension with aluminum-containing antacid products.
 See “Before taking deferasirox tablets for oral suspension” • Tell your healthcare provider if you or your child gain or lose any weight.
 Your or your child’s dose of deferasirox tablets for oral suspension may need to be adjusted. • If you take the diabetes medicine repaglinide during treatment with deferasirox tablets for oral suspension, you may need to test your blood sugar (glucose) levels more often.
 Follow your healthcare provider’s instructions about how often to test your blood sugar during this time. • Your healthcare provider should do blood and urine tests before, and during treatment to check how you respond to deferasirox tablets for oral suspension, and to monitor you for side effects.
-Your healthcare provider may change your dose, temporarily or permanently stop deferasirox tablets for oral suspension if you have certain side effects. • In people who have thalassemia, your healthcare provider will check the amount of iron in your liver before and during treatment with deferasirox tablets for oral suspension. • If you or your child take too much deferasirox tablets for oral suspension, call your healthcare provider right away or go to the nearest hospital emergency room.
+Your healthcare provider may change your dose, or temporarily or permanently stop deferasirox tablets for oral suspension if you have certain side effects. • In people who have thalassemia, your healthcare provider will check the amount of iron in your liver before and during treatment with deferasirox tablets for oral suspension. • If you or your child take too much deferasirox tablets for oral suspension, call your healthcare provider right away or go to the nearest hospital emergency room.
+Symptoms that can happen if you take too much deferasirox tablets for oral suspension include: stomach-area (abdominal) pain, diarrhea, nausea, and vomiting.
 
 What should I avoid while taking deferasirox tablets for oral suspension?
 
@@ -105,7 +108,7 @@ Deferasirox tablets for oral suspension can cause serious side effects, includin
 • See “What is the most important information I should know about deferasirox tablets for oral suspension?”
 
 • Effects on your bone marrow.
-Deferasirox tablets for oral suspension can affect your bone marrow and cause you to have low white blood cell count which can be serious, decreased platelets, or worsening of your anemia, and may lead to death.
+Deferasirox tablets for oral suspension can affect your bone marrow and cause you to have a low white blood cell count which can be serious, decreased platelets, or worsening of your anemia, and may lead to death.
 Your risk for effects on your bone marrow may be increased if you already have other blood disorders.
 Your healthcare provider will do blood tests to monitor your blood cell counts for these problems.
 
@@ -131,7 +134,7 @@ Get medical help right away if you develop any one or more of the following sign
 | o mouth sores | o enlarged lymph nodes |
 
 •Hearing and vision problems.
-Deferasirox tablets for oral suspension can cause decreased hearing and changes in your vision including cataracts, increased pressure in your eye, and problems with your retinas.
+Deferasirox tablets for oral suspension can cause decreased hearing and changes in your vision, including cataracts, increased pressure in your eye, and problems with your retinas.
 Your healthcare provider should do hearing and vision tests before you start and then regularly during treatment.
 Your healthcare provider may decrease your dose or stop deferasirox tablets for oral suspension if you develop hearing or vision problems.
 Tell your healthcare provider if you develop any changes in your vision or hearing during treatment with deferasirox tablets for oral suspension.
@@ -157,8 +160,6 @@ Active ingredient: deferasirox
 Inactive ingredients: Crospovidone (NF), sodium starch glycolate (NF), croscarmellose sodium (NF), colloidal silicon dioxide (NF), sodium lauryl sulphate (NF), povidone (K-30) (USP), lactose monohydrate (NF), and magnesium stearate (NF).
 
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
-Additional pediatric use information is approved for Novartis Pharmaceuticals Corporation’s EXJADE® (deferasirox) tablets for oral suspension.
-However, due to Novartis Pharmaceuticals Corporation’s marketing exclusivity rights, this drug product is not labeled with that pediatric information.
 
 Medication Guide available at http://www.alembicusa.com/medicationguide.aspx or call 1-866-210-9797.
 
@@ -180,4 +181,4 @@ Alembic Pharmaceuticals, Inc.
 
 USA
 
-Revised: 11/2019
+Revised: 08/2020

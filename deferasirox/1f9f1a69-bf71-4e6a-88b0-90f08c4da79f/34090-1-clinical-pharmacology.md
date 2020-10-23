@@ -24,7 +24,7 @@ At the maximum approved recommended dose, deferasirox does not prolong the QT in
 Absorption
 
 Deferasirox tablets for oral suspension are absorbed following oral administration with median times to maximum plasma concentration (Tmax) of about 1.5 to 4 hours.
-The Cmax and AUC of deferasirox increase approximately linearly with dose after both single administration and under steady-state conditions.
+The Cmax and area under the curve (AUC) of deferasirox increase approximately linearly with dose after both single administration and under steady-state conditions.
 Exposure to deferasirox increased by an accumulation factor of 1.3 to 2.3 after multiple doses.
 The absolute bioavailability (AUC) of deferasirox tablets for oral suspension is 70% compared to an intravenous dose.
 The bioavailability (AUC) of deferasirox was variably increased when taken with a meal.
