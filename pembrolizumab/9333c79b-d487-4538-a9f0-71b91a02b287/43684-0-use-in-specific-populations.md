@@ -42,20 +42,21 @@ Advise females of reproductive potential to use effective contraception during t
 
 ## 8.4 Pediatric Use
 
-The safety and effectiveness of KEYTRUDA have been established in pediatric patients with cHL, PMBCL, MSI-H cancer, and TMB-H cancer.
-Use of KEYTRUDA in pediatric patients with cHL, PMBCL, MSI-H cancer, and TMB-H cancer is supported by evidence from adequate and well-controlled studies of KEYTRUDA in adults with additional pharmacokinetic and safety data in pediatric patients [see Adverse Reactions (6.1), Clinical Studies (14.5, 14.6, 14.8, 14.17), Clinical Pharmacology (12.3)].
+The safety and effectiveness of KEYTRUDA as a single agent have been established in pediatric patients with cHL, PMBCL, MCC, MSI-H cancer, and TMB-H cancer.
+Use of KEYTRUDA in pediatric patients for these indications is supported by evidence from adequate and well-controlled studies in adults with additional pharmacokinetic and safety data in pediatric patients [see Adverse Reactions (6.1), Clinical Pharmacology (12.3), Clinical Studies (14.5, 14.6, 14.8, 14.14, 14.17)].
 
-There is limited experience with KEYTRUDA in pediatric patients.
-In a trial (NCT02332668), 40 pediatric patients (16 children ages 2 years to less than 12 years and 24 adolescents ages 12 years to 18 years) with various cancers, including unapproved usages, were administered KEYTRUDA 2 mg/kg every 3 weeks.
-Patients received KEYTRUDA for a median of 3 doses (range: 1-17 doses), with 34 patients (85%) receiving KEYTRUDA for 2 doses or more.
-
-The safety profile in these pediatric patients was similar to that seen in adults; adverse reactions that occurred at a higher rate (≥15% difference) in pediatric patients when compared to adults <65 years of age were fatigue (45%), vomiting (38%), abdominal pain (28%), increased transaminases (28%) and hyponatremia (18%).
-
-The concentrations of pembrolizumab in pediatric patients were comparable to those observed in adult patients at the same dose regimen of 2 mg/kg every 3 weeks.
+In KEYNOTE-051, 161 pediatric patients (62 pediatric patients aged 6 months to younger than 12 years and 99 pediatric patients aged 12 to 17 years) with advanced melanoma, lymphoma, or PD-L1 positive solid tumors received KEYTRUDA 2 mg/kg every 3 weeks.
+The median duration of exposure was 2.1 months (range: 1 day to 24 months).
+Adverse reactions that occurred at a ≥10% higher rate in pediatric patients when compared to adults included pyrexia (33%), vomiting (30%), upper respiratory tract infection (29%), and headache (25%).
+Laboratory abnormalities that occurred at a ≥10% higher rate in pediatric patients when compared to adults were leukopenia (30%), neutropenia (26%), and Grade 3 anemia (17%).
 
 The safety and effectiveness of KEYTRUDA in pediatric patients have not been established in the other approved indications [see Indications and Usage (1)].
 
 ## 8.5 Geriatric Use
 
-Of 3991 patients with melanoma, NSCLC, HNSCC, cHL or urothelial carcinoma who were treated with KEYTRUDA in clinical studies, 46% were 65 years and over and 16% were 75 years and over.
+Of 3781 patients with melanoma, NSCLC, HNSCC, or urothelial carcinoma who were treated with KEYTRUDA in clinical studies, 48% were 65 years and over and 17% were 75 years and over.
 No overall differences in safety or effectiveness were observed between elderly patients and younger patients.
+
+Of 389 adult patients with cHL who were treated with KEYTRUDA in clinical studies, 46 (12%) were 65 years and over.
+Patients aged 65 years and over had a higher incidence of serious adverse reactions (50%) than patients aged younger than 65 years (24%).
+Clinical studies of KEYTRUDA in cHL did not include sufficient numbers of patients aged 65 years and over to determine whether effectiveness differs from that in younger patients.

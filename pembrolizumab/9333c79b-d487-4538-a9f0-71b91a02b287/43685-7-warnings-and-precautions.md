@@ -29,6 +29,12 @@ Four of the 15 patients received high-dose corticosteroids for a median duration
 Pneumonitis led to discontinuation of KEYTRUDA in 5 (1.8%) patients.
 Pneumonitis resolved in 12 (80%) of the patients.
 
+In clinical studies enrolling 389 adult patients with cHL who received KEYTRUDA as a single agent, pneumonitis occurred in 31 (8%) patients, including Grades 3-4 pneumonitis in 2.3% of patients.
+Patients received high-dose corticosteroids for a median duration of 10 days (range: 2 days to 53 months).
+Pneumonitis rates were similar in patients with and without prior thoracic radiation.
+Pneumonitis led to discontinuation of KEYTRUDA in 21 (5.4%) patients.
+Of the patients who developed pneumonitis, 42% interrupted KEYTRUDA, 68% discontinued KEYTRUDA, and 77% had resolution.
+
 ## 5.2 Immune-Mediated Colitis
 
 KEYTRUDA can cause immune-mediated colitis.
@@ -115,6 +121,7 @@ The median time to onset was 3.5 months (range: 1 day to 18.9 months), and the m
 Hypothyroidism led to discontinuation of KEYTRUDA in 1 (<0.1%) patient.
 Hypothyroidism resolved in 48 (20%) of the 237 patients.
 The incidence of new or worsening hypothyroidism was higher in 1185 patients with HNSCC (16%) receiving KEYTRUDA as a single agent or in combination with platinum and FU, including Grade 3 (0.3%) hypothyroidism.
+The incidence of new or worsening hypothyroidism was higher in 389 patients with cHL (17%) receiving KEYTRUDA as a single agent, including Grade 1 (6.2%) and Grade 2 (10.8%) hypothyroidism.
 
 Thyroiditis occurred in 16 (0.6%) of 2799 patients receiving KEYTRUDA, including Grade 2 (0.3%) thyroiditis.
 The median time of onset was 1.2 months (range: 0.5 to 3.5 months).
@@ -178,19 +185,12 @@ For severe (Grade 3) or life-threatening (Grade 4) infusion-related reactions, s
 
 ## 5.9 Complications of Allogeneic HSCT
 
-Allogeneic HSCT after treatment with KEYTRUDA
+Fatal and other serious complications can occur in patients who receive allogeneic hematopoietic stem cell transplantation (HSCT) before or after being treated with a PD-1/PD-L1 blocking antibody.
+Transplant-related complications include hyperacute graft-versus-host-disease (GVHD), acute GVHD, chronic GVHD, hepatic veno-occlusive disease (VOD) after reduced intensity conditioning, and steroid-requiring febrile syndrome (without an identified infectious cause).
+These complications may occur despite intervening therapy between PD-1/PD-L1 blockade and allogeneic HSCT.
 
-Immune-mediated complications, including fatal events, occurred in patients who underwent allogeneic hematopoietic stem cell transplantation (HSCT) after being treated with KEYTRUDA.
-Of 23 patients with cHL who proceeded to allogeneic HSCT after treatment with KEYTRUDA on any trial, 6 patients (26%) developed graft-versus-host-disease (GVHD), one of which was fatal, and 2 patients (9%) developed severe hepatic veno-occlusive disease (VOD) after reduced-intensity conditioning, one of which was fatal.
-Cases of fatal hyperacute GVHD after allogeneic HSCT have also been reported in patients with lymphoma who received a PD-1 receptor blocking antibody before transplantation.
-These complications may occur despite intervening therapy between PD-1 blockade and allogeneic HSCT.
-Follow patients closely for early evidence of transplant-related complications such as hyperacute GVHD, severe (Grade 3 to 4) acute GVHD, steroid-requiring febrile syndrome, hepatic VOD, and other immune-mediated adverse reactions, and intervene promptly.
-
-Allogeneic HSCT prior to treatment with KEYTRUDA
-
-In patients with a history of allogeneic HSCT, acute GVHD, including fatal GVHD, has been reported after treatment with KEYTRUDA.
-Patients who experienced GVHD after their transplant procedure may be at increased risk for GVHD after treatment with KEYTRUDA.
-Consider the benefit of treatment with KEYTRUDA versus the risk of possible GVHD in patients with a history of allogeneic HSCT.
+Follow patients closely for evidence of transplant-related complications and intervene promptly.
+Consider the benefit versus risks of treatment with a PD-1/PD-L1 blocking antibody prior to or after an allogeneic HSCT.
 
 ## 5.10 Increased Mortality in Patients with Multiple Myeloma when KEYTRUDA is Added to a Thalidomide Analogue and Dexamethasone
 

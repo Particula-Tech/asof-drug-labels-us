@@ -20,10 +20,6 @@ In addition to the 2799 patients, certain subsections in the WARNINGS AND PRECAU
 Across all trials, KEYTRUDA was administered at doses of 2 mg/kg intravenously every 3 weeks, 10 mg/kg intravenously every 2 weeks, 10 mg/kg intravenously every 3 weeks, or 200 mg intravenously every 3 weeks.
 Among the 2799 patients, 41% were exposed for 6 months or more and 21% were exposed for 12 months or more.
 
-The data described in this section were obtained in eleven randomized, controlled trials (KEYNOTE-002, KEYNOTE-006, KEYNOTE-010, KEYNOTE-042, KEYNOTE-045, KEYNOTE-177, KEYNOTE-048, KEYNOTE-189, KEYNOTE-407, KEYNOTE-181, and KEYNOTE-426) and twelve non-randomized, open-label trials (KEYNOTE-028, KEYNOTE-012, KEYNOTE-087, KEYNOTE-170, KEYNOTE-052, KEYNOTE-057, KEYNOTE-059, KEYNOTE-158, KEYNOTE-224, KEYNOTE-017, KEYNOTE-146, and KEYNOTE-629).
-The data described in this section also included a single randomized, double-blind, placebo-controlled trial (KEYNOTE-054) in which KEYTRUDA was administered for the adjuvant treatment of 509 patients with melanoma with involvement of lymph node(s) following complete surgical resection.
-In these trials, KEYTRUDA was administered at 2 mg/kg every 3 weeks, 200 mg every 3 weeks, or 10 mg/kg every 2 or 3 weeks.
-
 Melanoma
 
 Ipilimumab-Naive Melanoma
@@ -506,17 +502,99 @@ The incidence of adverse reactions, including serious adverse reactions, was sim
 The most common adverse reactions (occurring in ≥20% of patients) were fatigue, decreased appetite, and dyspnea.
 Adverse reactions occurring in patients with HNSCC were generally similar to those occurring in 2799 patients with melanoma or NSCLC treated with KEYTRUDA as a single agent, with the exception of increased incidences of facial edema (10% all Grades; 2.1% Grades 3-4) and new or worsening hypothyroidism [see Warnings and Precautions (5.4)].
 
-cHL
+Relapsed or Refractory cHL
 
-Among the 210 patients with cHL enrolled in KEYNOTE-087 [see Clinical Studies (14.5)], the median duration of exposure to KEYTRUDA was 8.4 months (range: 1 day to 15.2 months).
-KEYTRUDA was discontinued due to adverse reactions in 5% of patients, and treatment was interrupted due to adverse reactions in 26%.
-Fifteen percent (15%) of patients had an adverse reaction requiring systemic corticosteroid therapy.
-Serious adverse reactions occurred in 16% of patients.
-The most frequent serious adverse reactions (≥1%) included pneumonia, pneumonitis, pyrexia, dyspnea, graft versus host disease and herpes zoster.
+KEYNOTE-204
+
+The safety of KEYTRUDA was evaluated in KEYNOTE-204 [see Clinical Studies (14.5)].
+Adults with relapsed or refractory cHL received KEYTRUDA 200 mg intravenously every 3 weeks (n=148) or brentuximab vedotin (BV) 1.8 mg/kg intravenously every 3 weeks (n=152).
+The trial required an ANC ≥1000/µL, platelet count ≥75,000/µL, hepatic transaminases ≤2.5 times the upper limit of normal (ULN), bilirubin ≤1.5 times ULN, and ECOG performance status of 0 or 1.
+The trial excluded patients with active non-infectious pneumonitis, prior pneumonitis requiring steroids, active autoimmune disease, a medical condition requiring immunosuppression, or allogeneic HSCT within the past 5 years.
+The median duration of exposure to KEYTRUDA was 10 months (range: 1 day to 2.2 years), with 68% receiving at least 6 months of treatment and 48% receiving at least 1 year of treatment.
+
+Serious adverse reactions occurred in 30% of patients who received KEYTRUDA.
+Serious adverse reactions in ≥1% included pneumonitis, pneumonia, pyrexia, myocarditis, acute kidney injury, febrile neutropenia, and sepsis.
+Three patients (2%) died from causes other than disease progression: two from complications after allogeneic HSCT and one from unknown cause.
+
+Permanent discontinuation of KEYTRUDA due to an adverse reaction occurred in 14% of patients; 7% of patients discontinued treatment due to pneumonitis.
+Dosage interruption of KEYTRUDA due to an adverse reaction occurred in 30% of patients.
+Adverse reactions which required dosage interruption in ≥3% of patients were upper respiratory tract infection, pneumonitis, transaminase increase, and pneumonia.
+
+Thirty-eight percent of patients had an adverse reaction requiring systemic corticosteroid therapy.
+
+Table 17 summarizes adverse reactions in KEYNOTE-204.
+
+Table 17: Adverse Reactions (≥10%) in Patients with cHL who Received KEYTRUDA in KEYNOTE-204
+
+|  | All GradesGraded per NCI CTCAE v4.0 (%) | Grades 3- 4 (%) | All Grades (%) | Grades 3- 4Adverse reactions in BV arm were Grade 3 only. (%) |
+| --- | --- | --- | --- | --- |
+| Adverse Reaction | KEYTRUDA 200 mg every 3 weeks N=148 |  | Brentuximab Vedotin 1.8 mg/kg every 3 weeks N=152 |  |
+| Infections |  |  |  |  |
+| Upper respiratory tract infectionIncludes acute sinusitis, nasopharyngitis, pharyngitis, pharyngotonsillitis, rhinitis, sinusitis, sinusitis bacterial, tonsillitis, upper respiratory tract infection, viral upper respiratory tract infection | 41 | 1.4 | 24 | 0 |
+| Urinary tract infection | 11 | 0 | 3 | 0.7 |
+| Musculoskeletal and Connective Tissue |  |  |  |  |
+| Musculoskeletal painIncludes arthralgia, back pain, bone pain, musculoskeletal discomfort, musculoskeletal chest pain, musculoskeletal pain, myalgia, neck pain, non-cardiac chest pain, pain in extremity | 32 | 0 | 29 | 1.3 |
+| Gastrointestinal |  |  |  |  |
+| DiarrheaIncludes diarrhea, gastroenteritis, colitis, enterocolitis | 22 | 2.7 | 17 | 1.3 |
+| Nausea | 14 | 0 | 24 | 0.7 |
+| Vomiting | 14 | 1.4 | 20 | 0 |
+| Abdominal painIncludes abdominal discomfort, abdominal pain, abdominal pain lower, abdominal pain upper | 11 | 0.7 | 13 | 1.3 |
+| General |  |  |  |  |
+| Pyrexia | 20 | 0.7 | 13 | 0.7 |
+| FatigueIncludes fatigue, asthenia | 20 | 0 | 22 | 0.7 |
+| Skin and Subcutaneous Tissue |  |  |  |  |
+| RashIncludes dermatitis acneiform, dermatitis atopic, dermatitis allergic, dermatitis contact, dermatitis exfoliative, dermatitis psoriasiform, eczema, rash, rash erythematous, rash follicular‚ rash maculo-papular, rash papular, rash pruritic, toxic skin eruption | 20 | 0 | 19 | 0.7 |
+| Pruritus | 18 | 0 | 12 | 0 |
+| Respiratory, Thoracic and Mediastinal |  |  |  |  |
+| CoughIncludes cough, productive cough | 20 | 0.7 | 14 | 0.7 |
+| PneumonitisIncludes pneumonitis, interstitial lung disease | 11 | 5 | 3 | 1.3 |
+| DyspneaIncludes dyspnea, dyspnea exertional, wheezing | 11 | 0.7 | 7 | 0.7 |
+| Endocrine |  |  |  |  |
+| Hypothyroidism | 19 | 0 | 3 | 0 |
+| Nervous System |  |  |  |  |
+| Peripheral neuropathyIncludes dysaesthesia, hypoaesthesia, neuropathy peripheral, paraesthesia, peripheral motor neuropathy, peripheral sensorimotor neuropathy, peripheral sensory neuropathy, polyneuropathy | 11 | 0.7 | 43 | 7 |
+| HeadacheIncludes headache, migraine, tension headache | 11 | 0 | 11 | 0 |
+
+Clinically relevant adverse reactions in <10% of patients who received KEYTRUDA included herpes virus infection (9%), pneumonia (8%), oropharyngeal pain (8%), hyperthyroidism (5%), hypersensitivity (4.1%), infusion reactions (3.4%), altered mental state (2.7%), and in 1.4% each, uveitis, myocarditis, thyroiditis, febrile neutropenia, sepsis, and tumor flare.
+
+Table 18 summarizes laboratory abnormalities in KEYNOTE-204.
+
+Table 18: Laboratory Abnormalities (≥15%) That Worsened from Baseline in Patients with cHL in KEYNOTE-204
+
+|  | All GradesGraded per NCI CTCAE v4.0 (%) | Grades 3-4 (%) | All Grades (%) | Grades 3-4 (%) |
+| --- | --- | --- | --- | --- |
+| Laboratory AbnormalityEach test incidence is based on the number of patients who had both baseline and at least one on-study laboratory measurement available: KEYTRUDA (range: 143 to 148 patients) and BV (range: 146 to 152 patients); hypomagnesemia: KEYTRUDA n=53 and BV n=50. | KEYTRUDA 200 mg every 3 weeks |  | Brentuximab Vedotin 1.8 mg/kg every 3 weeks |  |
+| Chemistry |  |  |  |  |
+| Hyperglycemia | 46 | 4.1 | 36 | 2.0 |
+| Increased AST | 39 | 5 | 41 | 3.9 |
+| Increased ALT | 34 | 6 | 45 | 5 |
+| Hypophosphatemia | 31 | 5 | 18 | 2.7 |
+| Increased creatinine | 28 | 3.4 | 14 | 2.6 |
+| Hypomagnesemia | 25 | 0 | 12 | 0 |
+| Hyponatremia | 24 | 4.1 | 20 | 3.3 |
+| Hypocalcemia | 22 | 2.0 | 16 | 0 |
+| Increased alkaline phosphatase | 21 | 2.1 | 22 | 2.6 |
+| Hyperbilirubinemia | 16 | 2.0 | 9 | 1.3 |
+| Hypoalbuminemia | 16 | 0.7 | 19 | 0.7 |
+| Hyperkalemia | 15 | 1.4 | 8 | 0 |
+| Hematology |  |  |  |  |
+| Lymphopenia | 35 | 9 | 32 | 13 |
+| Thrombocytopenia | 34 | 10 | 26 | 5 |
+| Neutropenia | 28 | 8 | 43 | 17 |
+| Anemia | 24 | 5 | 33 | 8 |
+
+KEYNOTE-087
+
+Among the 210 patients with cHL who received KEYTRUDA in KEYNOTE-087 [see Clinical Studies (14.5)], the median duration of exposure to KEYTRUDA was 8.4 months (range: 1 day to 15.2 months).
+Serious adverse reactions occurred in 16% of patients who received KEYTRUDA.
+Serious adverse reactions that occurred in ≥1% of patients included pneumonia, pneumonitis, pyrexia, dyspnea, graft versus host disease (GVHD) and herpes zoster.
 Two patients died from causes other than disease progression; one from GVHD after subsequent allogeneic HSCT and one from septic shock.
-Tables 17 and 18 summarize adverse reactions and laboratory abnormalities, respectively, in patients on KEYTRUDA in KEYNOTE-087.
 
-Table 17: Adverse Reactions in ≥10% of Patients with cHL in KEYNOTE-087
+Permanent discontinuation of KEYTRUDA due to an adverse reaction occurred in 5% of patients and dosage interruption due to an adverse reaction occurred in 26%.
+Fifteen percent of patients had an adverse reaction requiring systemic corticosteroid therapy.
+Tables 19 and 20 summarize adverse reactions and laboratory abnormalities, respectively, in KEYNOTE-087.
+
+Table 19: Adverse Reactions (≥10%) in Patients with cHL who Received KEYTRUDA in KEYNOTE-087
 
 |  | All GradesGraded per NCI CTCAE v4.0 (%) | Grade 3 (%) |
 | --- | --- | --- |
@@ -545,13 +623,13 @@ Table 17: Adverse Reactions in ≥10% of Patients with cHL in KEYNOTE-087
 | Headache | 11 | 0.5 |
 | Peripheral neuropathyIncludes neuropathy peripheral, peripheral sensory neuropathy, hypoesthesia, paresthesia, dysesthesia, polyneuropathy | 10 | 0 |
 
-Other clinically important adverse reactions that occurred in less than 10% of patients on KEYNOTE-087 included infusion reactions (9%), hyperthyroidism (3%), pneumonitis (3%), uveitis and myositis (1% each), and myelitis and myocarditis (0.5% each).
+Clinically relevant adverse reactions in <10% of patients who received KEYTRUDA included infusion reactions (9%), hyperthyroidism (3%), pneumonitis (3%), uveitis and myositis (1% each), and myelitis and myocarditis (0.5% each).
 
-Table 18: Selected Laboratory Abnormalities Worsened from Baseline Occurring in ≥15% of cHL Patients Receiving KEYTRUDA in KEYNOTE-087
+Table 20: Select Laboratory Abnormalities (≥15%) That Worsened from Baseline in Patients with cHL who Received KEYTRUDA in KEYNOTE-087
 
 |  | All GradesGraded per NCI CTCAE v4.0 (%) | Grades 3-4 (%) |
 | --- | --- | --- |
-| Laboratory TestEach test incidence is based on the number of patients who had both baseline and at least one on-study laboratory measurement available: KEYTRUDA (range: 208 to 209 patients) | KEYTRUDA 200 mg every 3 weeks |  |
+| Laboratory AbnormalityEach test incidence is based on the number of patients who had both baseline and at least one on-study laboratory measurement available: KEYTRUDA (range: 208 to 209 patients) | KEYTRUDA 200 mg every 3 weeks |  |
 | Chemistry |  |  |
 | HypertransaminasemiaIncludes elevation of AST or ALT | 34 | 2 |
 | Increased alkaline phosphatase | 17 | 0 |
@@ -565,15 +643,15 @@ Hyperbilirubinemia occurred in less than 15% of patients on KEYNOTE-087 (10% all
 
 PMBCL
 
-Among the 53 patients with PMBCL treated in KEYNOTE-170 [see Clinical Studies (14.6)], the median duration of exposure to KEYTRUDA was 3.5 months (range: 1 day to 22.8 months).
-
-KEYTRUDA was discontinued due to adverse reactions in 8% of patients, and treatment was interrupted due to adverse reactions in 15%.
-Twenty-five percent of patients had an adverse reaction requiring systemic corticosteroid therapy.
-Serious adverse reactions occurred in 26% of patients, and included arrhythmia (4%), cardiac tamponade (2%), myocardial infarction (2%), pericardial effusion (2%), and pericarditis (2%).
+Among the 53 patients with PMBCL who received KEYTRUDA in KEYNOTE-170 [see Clinical Studies (14.6)], the median duration of exposure to KEYTRUDA was 3.5 months (range: 1 day to 22.8 months).
+Serious adverse reactions occurred in 26% of patients.
+Serious adverse reactions that occurred in >2% of patients included arrhythmia (4%), cardiac tamponade (2%), myocardial infarction (2%), pericardial effusion (2%), and pericarditis (2%).
 Six (11%) patients died within 30 days of start of treatment.
-Tables 19 and 20 summarize adverse reactions and laboratory abnormalities, respectively, in patients on KEYTRUDA in KEYNOTE-170.
+Permanent discontinuation of KEYTRUDA due to an adverse reaction occurred in 8% of patients and dosage interruption due to an adverse reaction occurred in 15%.
+Twenty-five percent of patients had an adverse reaction requiring systemic corticosteroid therapy.
+Tables 21 and 22 summarize adverse reactions and laboratory abnormalities, respectively, in KEYNOTE-170.
 
-Table 19: Adverse Reactions in ≥10% of Patients with PMBCL in KEYNOTE-170
+Table 21: Adverse Reactions (≥10%) in Patients with PMBCL who Received KEYTRUDA in KEYNOTE-170
 
 |  | All GradesGraded per NCI CTCAE v4.0 (%) | Grades 3-4 (%) |
 | --- | --- | --- |
@@ -597,13 +675,13 @@ Table 19: Adverse Reactions in ≥10% of Patients with PMBCL in KEYNOTE-170
 | Nervous System |  |  |
 | Headache | 11 | 0 |
 
-Other clinically important adverse reactions that occurred in less than 10% of patients in KEYNOTE-170 included hypothyroidism (8%), hyperthyroidism and pericarditis (4% each), and thyroiditis, pericardial effusion, pneumonitis, arthritis and acute kidney injury (2% each).
+Clinically relevant adverse reactions in <10% of patients who received KEYTRUDA included hypothyroidism (8%), hyperthyroidism and pericarditis (4% each), and thyroiditis, pericardial effusion, pneumonitis, arthritis and acute kidney injury (2% each).
 
-Table 20: Laboratory Abnormalities Worsened from Baseline Occurring in ≥15% of PMBCL Patients Receiving KEYTRUDA in KEYNOTE-170
+Table 22: Laboratory Abnormalities (≥15%) That Worsened from Baseline in Patients with PMBCL who Received KEYTRUDA in KEYNOTE-170
 
 |  | All GradesGraded per NCI CTCAE v4.0 (%) | Grades 3-4 (%) |
 | --- | --- | --- |
-| Laboratory TestEach test incidence is based on the number of patients who had both baseline and at least one on-study laboratory measurement available: KEYTRUDA (range: 44 to 48 patients) | KEYTRUDA 200 mg every 3 weeks |  |
+| Laboratory AbnormalityEach test incidence is based on the number of patients who had both baseline and at least one on-study laboratory measurement available: KEYTRUDA (range: 44 to 48 patients) | KEYTRUDA 200 mg every 3 weeks |  |
 | Hematology |  |  |
 | Anemia | 47 | 0 |
 | Leukopenia | 35 | 9 |
@@ -638,9 +716,9 @@ The most frequent serious adverse reactions (≥2%) were urinary tract infection
 
 Immune-related adverse reactions that required systemic glucocorticoids occurred in 8% of patients, use of hormonal supplementation due to an immune-related adverse reaction occurred in 8% of patients, and 5% of patients required at least one steroid dose ≥40 mg oral prednisone equivalent.
 
-Table 21 summarizes adverse reactions in patients on KEYTRUDA in KEYNOTE-052.
+Table 23 summarizes adverse reactions in patients on KEYTRUDA in KEYNOTE-052.
 
-Table 21: Adverse Reactions Occurring in ≥10% of Patients Receiving KEYTRUDA in KEYNOTE-052
+Table 23: Adverse Reactions Occurring in ≥10% of Patients Receiving KEYTRUDA in KEYNOTE-052
 
 |  | All GradesGraded per NCI CTCAE v4.0 (%) | Grades 3–4 (%) |
 | --- | --- | --- |
@@ -690,9 +768,9 @@ The most common adverse reaction resulting in permanent discontinuation of KEYTR
 Adverse reactions leading to interruption of KEYTRUDA occurred in 20% of patients; the most common (≥1%) were urinary tract infection (1.5%), diarrhea (1.5%), and colitis (1.1%).
 Serious adverse reactions occurred in 39% of KEYTRUDA-treated patients.
 The most frequent serious adverse reactions (≥2%) in KEYTRUDA-treated patients were urinary tract infection, pneumonia, anemia, and pneumonitis.
-Tables 22 and 23 summarize adverse reactions and laboratory abnormalities, respectively, in patients on KEYTRUDA in KEYNOTE-045.
+Tables 24 and 25 summarize adverse reactions and laboratory abnormalities, respectively, in patients on KEYTRUDA in KEYNOTE-045.
 
-Table 22: Adverse Reactions Occurring in ≥10% of Patients Receiving KEYTRUDA in KEYNOTE-045
+Table 24: Adverse Reactions Occurring in ≥10% of Patients Receiving KEYTRUDA in KEYNOTE-045
 
 |  | All GradesGraded per NCI CTCAE v4.0 (%) | Grades 3-4 (%) | All Grades (%) | Grades 3-4 (%) |
 | --- | --- | --- | --- | --- |
@@ -722,7 +800,7 @@ Table 22: Adverse Reactions Occurring in ≥10% of Patients Receiving KEYTRUDA i
 | Renal and Urinary |  |  |  |  |
 | Hematuria Includes blood urine present, hematuria, chromaturia | 12 | 2.3 | 8 | 1.6 |
 
-Table 23: Laboratory Abnormalities Worsened from Baseline Occurring in ≥20% of Urothelial Carcinoma Patients Receiving KEYTRUDA in KEYNOTE-045
+Table 25: Laboratory Abnormalities Worsened from Baseline Occurring in ≥20% of Urothelial Carcinoma Patients Receiving KEYTRUDA in KEYNOTE-045
 
 |  | All GradesGraded per NCI CTCAE v4.0 % | Grades 3-4 % | All Grades % | Grades 3-4 % |
 | --- | --- | --- | --- | --- |
@@ -752,9 +830,9 @@ The most common adverse (>1%) reaction resulting in permanent discontinuation of
 Adverse reactions leading to interruption of KEYTRUDA occurred in 22% of patients; the most common (≥2%) were diarrhea (4%) and urinary tract infection (2%).
 Serious adverse reactions occurred in 28% of KEYTRUDA-treated patients.
 The most frequent serious adverse reactions (≥2%) in KEYTRUDA-treated patients were pneumonia (3%), cardiac ischemia (2%), colitis (2%), pulmonary embolism (2%), sepsis (2%), and urinary tract infection (2%).
-Tables 24 and 25 summarize adverse reactions and laboratory abnormalities, respectively, in patients on KEYTRUDA in KEYNOTE-057.
+Tables 26 and 27 summarize adverse reactions and laboratory abnormalities, respectively, in patients on KEYTRUDA in KEYNOTE-057.
 
-Table 24: Adverse Reactions Occurring in ≥10% of Patients Receiving KEYTRUDA in KEYNOTE-057
+Table 26: Adverse Reactions Occurring in ≥10% of Patients Receiving KEYTRUDA in KEYNOTE-057
 
 | All GradesGraded per NCI CTCAE v4.03 (%) | Grades 3–4 (%) |  |
 | --- | --- | --- |
@@ -782,7 +860,7 @@ Table 24: Adverse Reactions Occurring in ≥10% of Patients Receiving KEYTRUDA i
 | Endocrine |  |  |
 | Hypothyroidism | 11 | 0 |
 
-Table 25: Laboratory Abnormalities Worsened from Baseline Occurring in ≥20% of BCG-unresponsive NMIBC Patients Receiving KEYTRUDA in KEYNOTE-057
+Table 27: Laboratory Abnormalities Worsened from Baseline Occurring in ≥20% of BCG-unresponsive NMIBC Patients Receiving KEYTRUDA in KEYNOTE-057
 
 | All GradesGraded per NCI CTCAE v4.03 (%) | Grades 3-4 (%) |  |
 | --- | --- | --- |
@@ -827,9 +905,9 @@ Patients with autoimmune disease or a medical condition that required immunosupp
 KEYTRUDA was discontinued due to adverse reactions in 8% of patients.
 Serious adverse reactions occurred in 39% of patients receiving KEYTRUDA.
 The most frequent serious adverse reactions reported included anemia (7%), fistula (4.1%), hemorrhage (4.1%), and infections [except UTIs] (4.1%).
-Tables 26 and 27 summarize adverse reactions and laboratory abnormalities, respectively, in patients on KEYTRUDA in KEYNOTE-158.
+Tables 28 and 29 summarize adverse reactions and laboratory abnormalities, respectively, in patients on KEYTRUDA in KEYNOTE-158.
 
-Table 26: Adverse Reactions Occurring in ≥10% of Patients with Cervical Cancer in KEYNOTE-158
+Table 28: Adverse Reactions Occurring in ≥10% of Patients with Cervical Cancer in KEYNOTE-158
 
 |  | All GradesGraded per NCI CTCAE v4.0 (%) | Grades 3–4 (%) |
 | --- | --- | --- |
@@ -863,7 +941,7 @@ Table 26: Adverse Reactions Occurring in ≥10% of Patients with Cervical Cancer
 | Respiratory, Thoracic and Mediastinal |  |  |
 | Dyspnea | 10 | 1.0 |
 
-Table 27: Laboratory Abnormalities Worsened from Baseline Occurring in ≥20% of Patients with Cervical Cancer in KEYNOTE-158
+Table 29: Laboratory Abnormalities Worsened from Baseline Occurring in ≥20% of Patients with Cervical Cancer in KEYNOTE-158
 
 |  | All GradesGraded per NCI CTCAE v4.0 (%) | Grades 3-4 (%) |
 | --- | --- | --- |
@@ -924,9 +1002,9 @@ The most common adverse reactions (≥20%) in patients receiving KEYTRUDA and ax
 
 Twenty-seven percent (27%) of patients treated with KEYTRUDA in combination with axitinib received an oral prednisone dose equivalent to ≥40 mg daily for an immune-mediated adverse reaction.
 
-Tables 28 and 29 summarize the adverse reactions and laboratory abnormalities, respectively, that occurred in at least 20% of patients treated with KEYTRUDA and axitinib in KEYNOTE-426.
+Tables 30 and 31 summarize the adverse reactions and laboratory abnormalities, respectively, that occurred in at least 20% of patients treated with KEYTRUDA and axitinib in KEYNOTE-426.
 
-Table 28: Adverse Reactions Occurring in ≥20% of Patients Receiving KEYTRUDA with Axitinib in KEYNOTE-426
+Table 30: Adverse Reactions Occurring in ≥20% of Patients Receiving KEYTRUDA with Axitinib in KEYNOTE-426
 
 | All GradesGraded per NCI CTCAE v4.03 (%) | Grades 3-4 (%) | All Grades (%) | Grades 3-4 (%) |  |
 | --- | --- | --- | --- | --- |
@@ -953,7 +1031,7 @@ Table 28: Adverse Reactions Occurring in ≥20% of Patients Receiving KEYTRUDA w
 | Dysphonia | 25 | 0.2 | 3.3 | 0 |
 | Cough | 21 | 0.2 | 14 | 0.5 |
 
-Table 29: Laboratory Abnormalities Worsened from Baseline Occurring in ≥20% of Patients Receiving KEYTRUDA with Axitinib in KEYNOTE-426
+Table 31: Laboratory Abnormalities Worsened from Baseline Occurring in ≥20% of Patients Receiving KEYTRUDA with Axitinib in KEYNOTE-426
 
 | All GradesGraded per NCI CTCAE v4.03 % | Grades 3-4 % | All Grades % | Grades 3-4 % |  |
 | --- | --- | --- | --- | --- |
@@ -994,9 +1072,9 @@ The most common adverse reactions (≥ 2%) leading to discontinuation of KEYTRUD
 
 Adverse reactions leading to interruption of KEYTRUDA occurred in 49% of patients; the most common adverse reactions leading to interruption of KEYTRUDA (≥2%) were: fatigue (14%), diarrhea (6%), decreased appetite (6%), rash (5%), renal impairment (4%), vomiting (4%), increased lipase (4%), decreased weight (4%), nausea (3%), increased blood alkaline phosphatase (3%), skin ulcer (3%), adrenal insufficiency (2%), increased amylase (2%), hypocalcemia (2%), hypomagnesemia (2%), hyponatremia (2%), peripheral edema (2%), musculoskeletal pain (2%), pancreatitis (2%), and syncope (2%).
 
-Tables 30 and 31 summarize adverse reactions and laboratory abnormalities, respectively, in patients on KEYTRUDA in combination with lenvatinib.
+Tables 32 and 33 summarize adverse reactions and laboratory abnormalities, respectively, in patients on KEYTRUDA in combination with lenvatinib.
 
-Table 30: Adverse Reactions Occurring in ≥20% of Patients with Endometrial Carcinoma in KEYNOTE-146
+Table 32: Adverse Reactions Occurring in ≥20% of Patients with Endometrial Carcinoma in KEYNOTE-146
 
 | All Grades (%) | Grades 3-4 (%) |  |
 | --- | --- | --- |
@@ -1034,7 +1112,7 @@ Table 30: Adverse Reactions Occurring in ≥20% of Patients with Endometrial Car
 | Palmar-plantar erythrodysesthesia syndrome | 26 | 3 |
 | RashIncludes rash, rash generalized, rash macular, and rash maculo-papular | 21 | 3 |
 
-Table 31: Laboratory Abnormalities Worsened from Baseline Occurring in ≥20% (All Grades) or ≥3% (Grades 3-4) of Patients with Endometrial Carcinoma in KEYNOTE-146
+Table 33: Laboratory Abnormalities Worsened from Baseline Occurring in ≥20% (All Grades) or ≥3% (Grades 3-4) of Patients with Endometrial Carcinoma in KEYNOTE-146
 
 | All Grades %Laboratory abnormality percentage is based on the number of patients who had both baseline and at least one post-baseline laboratory measurement for each parameter (range: 71 to 92 patients). | Grade 3-4 % |  |
 | --- | --- | --- |

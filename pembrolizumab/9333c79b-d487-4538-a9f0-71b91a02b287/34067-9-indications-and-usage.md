@@ -37,17 +37,13 @@ KEYTRUDA, as a single agent, is indicated for the treatment of patients with rec
 
 ## 1.5 Classical Hodgkin Lymphoma
 
-KEYTRUDA is indicated for the treatment of adult and pediatric patients with refractory classical Hodgkin lymphoma (cHL), or who have relapsed after 3 or more prior lines of therapy.
+KEYTRUDA is indicated for the treatment of adult patients with relapsed or refractory classical Hodgkin lymphoma (cHL).
 
-This indication is approved under accelerated approval based on tumor response rate and durability of response [see Clinical Studies (14.5)].
-Continued approval for this indication may be contingent upon verification and description of clinical benefit in the confirmatory trials.
+KEYTRUDA is indicated for the treatment of pediatric patients with refractory cHL, or cHL that has relapsed after 2 or more lines of therapy.
 
 ## 1.6 Primary Mediastinal Large B-Cell Lymphoma
 
 KEYTRUDA is indicated for the treatment of adult and pediatric patients with refractory primary mediastinal large B-cell lymphoma (PMBCL), or who have relapsed after 2 or more prior lines of therapy.
-
-This indication is approved under accelerated approval based on tumor response rate and durability of response [see Clinical Studies (14.6)].
-Continued approval for this indication may be contingent upon verification and description of clinical benefit in confirmatory trials.
 
 Limitations of Use: KEYTRUDA is not recommended for treatment of patients with PMBCL who require urgent cytoreductive therapy.
 
