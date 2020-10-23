@@ -4,7 +4,7 @@
 
 ### Teratogenic Effects
 
-Pregnancy Category C: There are no adequate and well-controlled studies of trospium chloride in pregnant women.
+There are no adequate and well-controlled studies of trospium chloride in pregnant women.
 Trospium chlorideshould be used during pregnancy only if the potential benefit to the patient outweighs the risk to the patient and fetus.
 Women who become pregnant during trospium chloride treatment are encouraged to contact their physician.
 
@@ -19,7 +19,7 @@ No increased risk above background was observed in rats and rabbits treated at a
 In a rat embryo/fetal development study, pregnant rats received doses of trospium chloride up to 200 mg/kg/day, from implantation to closure of the fetal hard palate, with maternal systemic exposures corresponding to approximately nine times the exposure of women treated at the MRHD of 40 mg, based on AUC.
 No malformations or fetal toxicity were observed.
 
-The offspring of female rats exposed orally, pre-and post-natally, to trospium chloride up to 200 mg/kg/day showed no increased developmental toxicity over background in surviving pups.
+The offspring of female rats exposed orally, pre- and post-natally, to trospium chloride up to 200 mg/kg/day showed no increased developmental toxicity over background in surviving pups.
 However, maternal toxicity (death, irregular breathing, increased excitability) was observed at 200 mg/kg/day.
 A no-effect level for maternal and pup toxicity (survival to Day 4) was 20 mg/kg/day, an exposure approximately equivalent to the maximal recommended human dose (MRHD) of 40 mg.
 
