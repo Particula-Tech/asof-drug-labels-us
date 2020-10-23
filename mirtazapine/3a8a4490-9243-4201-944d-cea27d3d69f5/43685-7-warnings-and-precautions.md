@@ -12,11 +12,11 @@ Table 1: Risk Differences of the Number of Patients with Suicidal Thoughts and B
 | Age Range | Drug-Placebo Difference in Number of Patients with Suicidal Thoughts or Behaviors per 1000 Patients Treated |
 | --- | --- |
 |  | Increases Compared to Placebo |
-| <18years old | 14 additional patients |
+| <18 years old | 14 additional patients |
 | 18 to 24 years old | 5 additional patients |
 |  | Decreases Compared to Placebo |
 | 25 to 64 years old | 1 fewer patient |
-| ≥65years old | 6 fewer patients |
+| ≥65 years old | 6 fewer patients |
 
 It is unknown whether the risk of suicidal thoughts and behaviors in children, adolescents, and young adults extends to longer-term use, i.e., beyond four months.
 However, there is substantial evidence from placebo-controlled maintenance trials in adults with MDD that antidepressants delay the recurrence of depression and that depression itself is a risk factor for suicidal thoughts and behaviors.
