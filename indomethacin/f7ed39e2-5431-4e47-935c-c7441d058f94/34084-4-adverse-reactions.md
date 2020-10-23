@@ -10,7 +10,7 @@ The following adverse reactions are discussed in greater detail in other section
 - •Renal Toxicity and Hyperkalemia [see Warnings and Precautions (5.6)]
 - •Anaphylactic Reactions [see Warnings and Precautions (5.7)]
 - •Serious Skin Reactions [see Warnings and Precautions (5.9)]
-- •Hematologic Toxicity [see Warnings and Precautions (5.11)]
+- •Hematologic Toxicity [see Warnings and Precautions (5.12)]
 
 ## 6.1 Clinical Trials Experience
 
@@ -34,11 +34,11 @@ Table 1 Summary of Adverse Reactions for Indomethacin Capsules
 | Incidence greater than 1% | Incidence less than 1% |  |
 | --- | --- | --- |
 | GASTROINTESTINAL |  |  |
-| Nausea with or without vomiting dyspepsia (including indigestion, heartburn and epigastric pain) diarrhea abdominal distress or pain constipation | anorexia bloating (includes distension) flatulence peptic ulcer gastroenteritis rectal bleeding proctitis single or multiple ulcerations,including perforation and hemorrhage of the esophagus, stomach, duodenum or small and large intestines intestinal ulceration associated with stenosis and obstruction | gastrointestinal bleeding without obvious ulcer formation and perforation of preexisting sigmoid lesions (diverticulum, carcinoma, etc.) development of ulcerative colitis and regional ileitis ulcerative stomatitis toxic hepatitis and jaundice (some fatal cases have been reported) intestinal strictures (diaphragms)pancreatitis |
+| nausea* with or without vomiting dyspepsia* (including indigestion, heartburn and epigastric pain) diarrhea abdominal distress or pain constipation | anorexia bloating (includes distension) flatulence peptic ulcer gastroenteritis rectal bleeding proctitis single or multiple ulcerations,including perforation and hemorrhage of the esophagus, stomach, duodenum or small and large intestines intestinal ulceration associated with stenosis and obstruction | gastrointestinal bleeding without obvious ulcer formation and perforation of preexisting sigmoid lesions (diverticulum, carcinoma, etc.) development of ulcerative colitis and regional ileitis ulcerative stomatitis toxic hepatitis and jaundice (some fatal cases have been reported) intestinal strictures (diaphragms)pancreatitis |
 | CENTRAL NERVOUS SYSTEM |  |  |
-| headache (11.7%) dizziness vertigo somnolence depression and fatigue (including malaise and listlessness) | anxiety (includes nervousness) muscle weakness involuntary muscle movements insomnia muzziness psychic disturbances including psychotic episodes mental confusion drowsiness | light-headedness syncope paresthesia aggravation of epilepsy and parkinsonism depersonalization coma peripheral neuropathy convulsion dysarthria |
+| headache (11.7%) dizziness* vertigo somnolence depression and fatigue (including malaise and listlessness) | anxiety (includes nervousness) muscle weakness involuntary muscle movements insomnia muzziness psychic disturbances including psychotic episodes mental confusion drowsiness | light-headedness syncope paresthesia aggravation of epilepsy and parkinsonism depersonalization coma peripheral neuropathy convulsion dysarthria |
 | SPECIAL SENSES |  |  |
-| tinnitus | ocular - corneal deposits and retinal disturbances, including those of the macula, have been reported in some patients on prolonged therapy with indomethacin capsules | blurred vision diplopia hearing disturbances, deafness |
+| tinnitus | ocular-corneal deposits and retinal disturbances, including those of the macula, have been reported in some patients on prolonged therapy with indomethacin | blurred vision diplopia hearing disturbances, deafness |
 | CARDIOVASCULAR |  |  |
 | None | hypertension hypotension tachycardia chest pain | congestive heart failure arrhythmia; palpitations |
 | METABOLIC |  |  |
@@ -53,6 +53,7 @@ Table 1 Summary of Adverse Reactions for Indomethacin Capsules
 | None | hematuria vaginal bleeding proteinuria nephrotic syndrome interstitial nephritis | BUN elevation renal insufficiency, including renal failure |
 | MISCELLANEOUS |  |  |
 | None | epistaxis breast changes, including enlargement and tenderness, or gynecomastia |  |
+| * Reactions occurring in 3% to 9% of patients treated with indomethacin capsules. (Those reactions occurring in less than 3% of the patients are unmarked.) |  |  |
 
 Causal relationship unknown: Other reactions have been reported but occurred under circumstances where a causal relationship could not be established.
 However, in these rarely reported events, the possibility cannot be excluded.

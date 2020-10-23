@@ -4,20 +4,40 @@
 
 Risk Summary
 
-Use of NSAIDs, including indomethacin capsules, during the third trimester of pregnancy increases the risk of premature closure of the fetal ductus arteriosus.
-Avoid use of NSAIDs, including indomethacin capsules, in pregnant women starting at 30 weeks of gestation (third trimester).
+Use of NSAIDs, including indomethacin capsules, can cause premature closure of the fetal ductus arteriosus and fetal renal dysfunction leading to oligohydramnios and, in some cases, neonatal renal impairment.
+Because of these risks, limit dose and duration of indomethacin capsules use between about 20 and 30 weeks of gestation, and avoid indomethacin capsules use at about 30 weeks of gestation and later in pregnancy (see Clinical Considerations, Data).
 
-There are no adequate and well-controlled studies of indomethacin capsules in pregnant women.
+Premature Closure of Fetal Ductus Arteriosus
 
-Data from observational studies regarding potential embryofetal risks of NSAID use in women in the first or second trimesters of pregnancy are inconclusive.
+Use of NSAIDs, including indomethacin capsules, at about 30 weeks gestation or later in pregnancy increases the risk of premature closure of the fetal ductus arteriosus.
+
+Oligohydramnios/Neonatal Renal Impairment
+
+Use of NSAIDs at about 20 weeks gestation or later in pregnancy has been associated with cases of fetal renal dysfunction leading to oligohydramnios, and in some cases, neonatal renal impairment.
+
+Data from observational studies regarding other potential embryofetal risks of NSAID use in women in the first or second trimesters of pregnancy are inconclusive.
 In the general U.S. population, all clinically recognized pregnancies, regardless of drug exposure, have a background rate of 2 to 4% for major malformations, and 15 to 20% for pregnancy loss.
 In animal reproduction studies retarded fetal ossification was observed with administration of indomethacin to mice and rats during organogenesis at doses 0.1 and 0.2 times, respectively, the maximum recommended human dose (MRHD, 200 mg).
 In published studies in pregnant mice, indomethacin produced maternal toxicity and death, increased fetal resorptions, and fetal malformations at 0.1 times the MRHD.
 When rat and mice dams were dosed during the last three days of gestation, indomethacin produced neuronal necrosis in the offspring at 0.1 and 0.05 times the MRHD, respectively [see Data].
 Based on animal data, prostaglandins have been shown to have an important role in endometrial vascular permeability, blastocyst implantation, and decidualization.
 In animal studies, administration of prostaglandin synthesis inhibitors such as indomethacin, resulted in increased pre- and post-implantation loss.
+Prostaglandins also have been shown to have an important role in fetal kidney development.
+In published animal studies, prostaglandin synthesis inhibitors have been reported to impair kidney development when administered at clinically relevant doses.
 
 Clinical Considerations
+
+Fetal/Neonatal Adverse Reactions
+
+Premature Closure of Fetal Ductus Arteriosus:
+
+Avoid use of NSAIDs in women at about 30 weeks gestation and later in pregnancy, because NSAIDs, including indomethacin capsules, can cause premature closure of the fetal ductus arteriosus (see Data).
+
+Oligohydramnios/Neonatal Renal Impairment
+
+If an NSAID is necessary at about 20 weeks gestation or later in pregnancy, limit the use to the lowest effective dose and shortest duration possible.
+If indomethacin capsules treatment extends beyond 48 hours, consider monitoring with ultrasound for oligohydramnios.
+If oligohydramnios occurs, discontinue indomethacin capsules and follow up according to clinical practice (see Data).
 
 Labor or Delivery
 
@@ -25,6 +45,24 @@ There are no studies on the effects of indomethacin capsules during labor or del
 In animal studies, NSAIDs, including indomethacin, inhibit prostaglandin synthesis, cause delayed parturition, and increase the incidence of stillbirth.
 
 Data
+
+Human Data
+
+Premature Closure of Fetal Ductus Arteriosus:
+
+Published literature reports that the use of NSAIDs at about 30 weeks of gestation and later in pregnancy may cause premature closure of the fetal ductus arteriosus.
+
+Oligohydramnios/Neonatal Renal Impairment:
+
+Published studies and postmarketing reports describe maternal NSAID use at about 20 weeks gestation or later in pregnancy associated with fetal renal dysfunction leading to oligohydramnios, and in some cases, neonatal renal impairment.
+These adverse outcomes are seen, on average, after days to weeks of treatment, although oligohydramnios has been infrequently reported as soon as 48 hours after NSAID initiation.
+In many cases, but not all, the decrease in amniotic fluid was transient and reversible with cessation of the drug.
+There have been a limited number of case reports of maternal NSAID use and neonatal renal dysfunction without oligohydramnios, some of which were irreversible.
+Some cases of neonatal renal dysfunction required treatment with invasive procedures, such as exchange transfusion or dialysis.
+
+Methodological limitations of these postmarketing studies and reports include lack of a control group; limited information regarding dose, duration, and timing of drug exposure; and concomitant use of other medications.
+These limitations preclude establishing a reliable estimate of the risk of adverse fetal and neonatal outcomes with maternal NSAID use.
+Because the published safety data on neonatal outcomes involved mostly preterm infants, the generalizability of certain reported risks to the full-term infant exposed to NSAIDs through maternal use is uncertain.
 
 Animal data
 
@@ -80,7 +118,7 @@ As symptoms subside, the total daily dosage should be reduced to the lowest leve
 ## 8.5 Geriatric Use
 
 Elderly patients, compared to younger patients, are at greater risk for NSAID-associated serious cardiovascular, gastrointestinal, and/or renal adverse reactions.
-If the anticipated benefit for the elderly patient outweighs these potential risks, start dosing at the low end of the dosing range, and monitor patients for adverse effects [see Warnings and Precautions (5.1, 5.2, 5.3, 5.6, 5.13)].
+If the anticipated benefit for the elderly patient outweighs these potential risks, start dosing at the low end of the dosing range, and monitor patients for adverse effects [see Warnings and Precautions (5.1, 5.2, 5.3, 5.6, 5.14)].
 
 Indomethacin may cause confusion or rarely, psychosis [see Adverse Reactions (6.1)]; physicians should remain alert to the possibility of such adverse effects in the elderly.
 
