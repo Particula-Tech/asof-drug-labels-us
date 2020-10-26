@@ -34,15 +34,15 @@ Patients should be informed that alcohol may enhance the drowsiness caused by an
 
 ++Glucophage® is a registered trade mark by Bristol Meyers Squibb for Metformin Hydrochloride Tablets.
 
-Manufactured for:
+Distributed by:
 
-Heritage Pharmaceuticals Inc.
+Avet Pharmaceuticals Inc.
 
 East Brunswick, NJ 08816
 
 1.866.901.DRUG (3784)
 
-Revised: 11/2017
+Revised: 06/2020
 
 Patient Information Leaflet
 
@@ -144,7 +144,7 @@ It may harm them.
 This leaflet summarizes the most important information about trospium chloride tablets.
 If you would like more information, talk with your doctor.
 You can ask your doctor or pharmacist for information about trospium chloride tablets that is written for health professionals.
-You can also call Heritage at 1-866-901-DRUG (3784).
+You can also call Avet at 1-866-901-DRUG (3784).
 
 What are the ingredients in trospium chloride tablets?
 
@@ -152,14 +152,16 @@ Active Ingredient: trospium chloride.
 
 Inactive Ingredients: black iron oxide, confectioners' sugar, croscarmellose sodium, hypromellose, lactose monohydrate, magnesium stearate, microcrystalline cellulose, polyethylene glycol, povidone, propylene glycol, shellac, silicon dioxide, talc and titanium dioxide.
 
-Manufactured for:
+Dispense with Patient Information available at: www.avetpharma.com/product
 
-Heritage Pharmaceuticals Inc.
+Distributed by:
+
+Avet Pharmaceuticals Inc.
 
 East Brunswick, NJ 08816
 
 1.866.901.DRUG (3784)
 
-51U000000240US04
+51U000000240US05
 
-Revised: 11/2017
+Revised: 06/2020
