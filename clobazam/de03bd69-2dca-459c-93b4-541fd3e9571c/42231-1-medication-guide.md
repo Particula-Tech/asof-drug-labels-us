@@ -1,48 +1,57 @@
-MEDICATION GUIDE ONFI® (ON-fee) (clobazam) Tablets and Oral Suspension, CIV
+MEDICATION GUIDE ONFI® (ON-fee) (clobazam) tablets and oral suspension, C-IV
 
 What is the most important information I should know about ONFI?
 
-- Do not stop taking ONFI without first talking to your healthcare provider.
-  Stopping ONFI suddenly can cause serious side effects.
 - ONFI is a benzodiazepine medicine.
-  Benzodiazepines can cause severe drowsiness, breathing problems (respiratory depression), coma, and death when taken with opioid medicines.
-- ONFI can make you sleepy or dizzy and can slow your thinking and motor skills.
-  This may get better over time.
-  - Do not drive, operate heavy machinery, or do other dangerous activities until you know how ONFI affects you.
-  - ONFI may cause problems with your coordination, especially when you are walking or picking things up.
-- Do not drink alcohol or take other drugs that may make you sleepy or dizzy while taking ONFI until you talk to your healthcare provider.
-  When taken with alcohol or drugs that cause sleepiness or dizziness, ONFI may make your sleepiness or dizziness much worse.
-- ONFI can cause withdrawal symptoms.
-  - Do not stop taking ONFI all of a sudden without first talking to a healthcare provider.
-    Stopping ONFI suddenly can cause seizures that will not stop (status epilepticus), hearing or seeing things that are not there (hallucinations), shaking, nervousness, and stomach and muscle cramps.
-  - Talk to your healthcare provider about slowly stopping ONFI to avoid withdrawal symptoms.
-- ONFI can be abused and cause dependence.
+  Taking benzodiazepines with opioid medicines, alcohol, or other central nervous system (CNS) depressants (including street drugs) can cause severe drowsiness, breathing problems (respiratory depression), coma, and death.
+  Get emergency help right away if any of the following happens:Do not drive or operate heavy machinery until you know how taking ONFI with opioids affects you.
+  - shallow or slowed breathing
+  - breathing stops (which may lead to the heart stopping)
+  - excessive sleepiness (sedation)
+- Risk of abuse, misuse, and addiction.
+  There is a risk of abuse, misuse, and addiction with ONFI treatment which can lead to overdose or death.
+  You can develop an addiction even if you take ONFI as prescribed by your healthcare provider.
+  - Serious side effects including coma and death have happened in people who have abused or misused benzodiazepines, including ONFI.
+    These serious side effects may include delirium, paranoia, suicidal thoughts or actions, seizures, and difficulty breathing.
+    Call your healthcare provider or go to the nearest hospital emergency room right away if you get any of these serious side effects.
+  - Take ONFI exactly as your healthcare provider prescribed.
+  - Do not share your ONFI with other people.
+  - Keep ONFI in a safe place and away from children.
+- Physical dependence and withdrawal reactions.
+  ONFI can cause physical dependence and withdrawal reactions, especially if you continue to take ONFI for several days to several weeks.
+  - Do not stop taking ONFI all of a sudden.
+    Stopping ONFI suddenly can cause serious and life-threatening side effects, including, unusual movements, responses, or expressions, seizures, sudden and severe mental or nervous system changes, depression, seeing or hearing things that others do not see or hear, homicidal thoughts, an extreme increase in activity or talking, losing touch with reality, and suicidal thoughts or actions.
+    Call your healthcare provider or go to the nearest hospital emergency room right away if you get any of these symptoms.
+  - Some people who stop ONFI suddenly have symptoms that can last for several weeks to more than 12 months, including, anxiety, trouble remembering, learning, or concentrating, depression, problems sleeping, feeling like insects are crawling under your skin, weakness, shaking, muscle twitching, burning or prickling feeling in your hands, arms, legs or feet, and ringing in your ears.
   - Physical dependence is not the same as drug addiction.
     Your healthcare provider can tell you more about the differences between physical dependence and drug addiction.
-- ONFI is a federally controlled substance (CIV) because it can be abused or lead to dependence.
-  Keep ONFI in a safe place to prevent misuse and abuse.
-  Selling or giving away ONFI may harm others, and is against the law.
-  Tell your healthcare provider if you have ever abused or been dependent on alcohol, prescription medicines or street drugs.
+  - Do not take more ONFI than prescribed or take ONFI for longer than prescribed.
+
+- ONFI can make you sleepy or dizzy and can slow your thinking and motor skills.
+
+- Do not drive, operate heavy machinery, or do other dangerous activities until you know how ONFI affects you.
+- Do not drink alcohol or take other drugs that may make you sleepy or dizzy while taking ONFI without first talking to your healthcare provider.
+  When taken with alcohol or drugs that cause sleepiness or dizziness, ONFI may make your sleepiness or dizziness much worse.
+
 - Serious skin reactions have been seen when ONFI is taken with other medicines and may require stopping its use.
   Do not stop taking ONFI without first talking to your healthcare provider.
   - A serious skin reaction can happen at any time during your treatment with ONFI, but is more likely to happen within the first 8 weeks of treatment.
     These skin reactions may need to be treated right away.
   - Call your healthcare provider immediately if you have skin blisters, rash, sores in mouth, hives or any other allergic reaction.
-- Like other antiepileptic drugs, ONFI may cause suicidal thoughts or actions in a very small number of people, about 1 in 500.
+- Like other antiepileptic medicines, ONFI may cause suicidal thoughts or actions in a very small number of people, about 1 in 500.
 
 Call your healthcare provider right away if you have any of these symptoms, especially if they are new, worse, or worry you:
 
 - thoughts about suicide or dying
 - attempts to commit suicide
 - new or worse depression
-- new or worse anxiety
+- new or worse anxiety or irritability
 - feeling agitated or restless
-- panic attacks
-- trouble sleeping (insomnia)
-- new or worse irritability
-- acting aggressive, being angry, or violent
-- acting on dangerous impulses
 - an extreme increase in activity and talking (mania)
+- trouble sleeping (insomnia)
+- new or worse panic attacks
+- acting aggressive, being angry or violent
+- acting on dangerous impulses
 - other unusual changes in behavior or mood
 
 How can I watch for early symptoms of suicidal thoughts and actions?
@@ -52,12 +61,18 @@ How can I watch for early symptoms of suicidal thoughts and actions?
 
 Call your healthcare provider between visits as needed, especially if you are worried about symptoms.
 
+Stopping a seizure medicine suddenly in a patient who has epilepsy can cause seizures that will not stop (status epilepticus).
+
 Suicidal thoughts or actions can be caused by things other than medicines.
 If you have suicidal thoughts or actions, your healthcare provider may check for other causes.
 
 What is ONFI?
 
-ONFI is a prescription medicine used along with other medicines to treat seizures associated with Lennox-Gastaut syndrome in people 2 years of age or older.
+- ONFI is a prescription medicine used along with other medicines to treat seizures associated with Lennox-Gastaut syndrome in people 2 years of age or older.
+- ONFI is a federally controlled substance (C-IV) because it contains clobazam that can be abused or lead to dependence.
+  Keep ONFI in a safe place to prevent misuse and abuse.
+  Selling or giving away ONFI may harm others, and is against the law.
+  Tell your healthcare provider if you have ever abused or been dependent on alcohol, prescription medicines, or street drugs.
 
 It is not known if ONFI is safe and effective in children less than 2 years old.
 
@@ -109,9 +124,7 @@ How should I take ONFI?
 
 What should I avoid while taking ONFI?
 
-- Do not drive, operate heavy machinery, or do other dangerous activities until you know how ONFI affects you.
-- Do not drink alcohol or take other medicines that may make you sleepy or dizzy while taking ONFI until you talk to your healthcare provider.
-  When taken with alcohol or medicines that cause sleepiness or dizziness, ONFI may make your sleepiness or dizziness much worse.
+See “What is the most important information I should know about ONFI?”
 
 What are the possible side effects of ONFI?
 
@@ -137,7 +150,7 @@ You may report side effects to FDA at 1-800-FDA-1088.
 
 How should I store ONFI?
 
-- Store ONFI tablets and oral suspension between 68°F to 77°F (20°C to 25°C).
+- Store ONFI tablets and oral suspension at room temperature between 68°F to 77°F (20°C to 25°C).
 
 Tablets
 
@@ -169,11 +182,11 @@ Marketed by: Lundbeck, Deerfield, IL 60015, U.S.A.
 
 ONFI is a registered trademark of Lundbeck
 
-For more information about ONFI, go to www.ONFI.com or call Lundbeck at 1-866-402-8520
+For more information about ONFI, go to www.ONFI.com or call Lundbeck at 1-866-402-8520.
 
-This Medication Guide has been approved by the U.S. Food and Drug Administration Revised: 12/2016
+This Medication Guide has been approved by the U.S. Food and Drug Administration Revised: 10/2020
 
-Instructions for Use ONFI® (ON-fee) (clobazam) Oral Suspension
+Instructions for Use ONFI® (ON-fee) (clobazam) Oral Suspension, CIV
 
 Read this Instructions for Use before using ONFI oral suspension and each time you get a refill.
 There may be new information.

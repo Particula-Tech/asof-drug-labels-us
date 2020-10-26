@@ -9,11 +9,11 @@ Information on the registry can also be found at the website http://www.aedpregn
 
 Risk Summary There are no adequate and well-controlled studies of ONFI in pregnant women.
 Available data suggest that the class of benzodiazepines is not associated with marked increases in risk for congenital anomalies.
-Although some early epidemiological studies suggested a relationship between benzodiazepine drug use in pregnancy and congenital anomalies such as cleft lip and or palate, these studies had considerable limitations.
+Although some early epidemiological studies suggested a relationship between benzodiazepine drug use in pregnancy and congenital anomalies such as cleft lip and/or palate, these studies had considerable limitations.
 More recently completed studies of benzodiazepine use in pregnancy have not consistently documented elevated risks for specific congenital anomalies.
 There is insufficient evidence to assess the effect of benzodiazepine pregnancy exposure on neurodevelopment.
 There are clinical considerations regarding exposure to benzodiazepines during the second and third trimester of pregnancy or immediately prior to or during childbirth.
-These risks include decreased fetal movement and/or fetal heart rate variability, “floppy infant syndrome,” dependence, and withdrawal [see Clinical Considerations and Human Data].
+These risks include decreased fetal movement and/or fetal heart rate variability, “floppy infant syndrome,” dependence, and withdrawal [seeClinical Considerationsand Human Data].
 Administration of clobazam to pregnant rats and rabbits during the period of organogenesis or to rats throughout pregnancy and lactation resulted in developmental toxicity, including increased incidences of fetal malformations and mortality, at plasma exposures for clobazam and its major active metabolite, N-desmethylclobazam, below those expected at therapeutic doses in patients [see Animal Data].
 Data for other benzodiazepines suggest the possibility of long-term effects on neurobehavioral and immunological function in animals following prenatal exposure to benzodiazepines at clinically relevant doses.
 ONFI should be used during pregnancy only if the potential benefit to the mother justifies the potential risk to the fetus.
@@ -28,7 +28,7 @@ Symptoms may be mild and transient or severe.
 Standard management for neonatal withdrawal syndrome has not yet been defined.
 Observe newborns who are exposed to ONFI in utero during the later stages of pregnancy for symptoms of withdrawal and manage accordingly.
 
-Labor and Delivery Administration of benzodiazepines immediately prior to or during childbirth can result in a floppy infant syndrome which is characterized by lethargy, hypothermia, hypotonia, respiratory depression, and difficulty feeding.
+Labor and Delivery Administration of benzodiazepines immediately prior to or during childbirth can result in a floppy infant syndrome, which is characterized by lethargy, hypothermia, hypotonia, respiratory depression, and difficulty feeding.
 Floppy infant syndrome occurs mainly within the first hours after birth and may last up to 14 days.
 Observe exposed newborns for these symptoms and manage accordingly.
 
@@ -37,7 +37,7 @@ Dolovich et al. published a meta-analysis of 23 studies that examined the effect
 Eleven of the 23 studies included in the meta-analysis considered the use of chlordiazepoxide and diazepam and not other benzodiazepines.
 The authors considered case-control and cohort studies separately.
 The data from the cohort studies did not suggest an increased risk for major malformations (OR 0.90; 95% CI 0.61—1.35) or for oral cleft (OR 1.19; 95% CI 0.34—4.15).
-The data from the case-control studies suggested an association between benzodiazepines and major malformations (OR 3.01, 95% CI 1.32—6.84) and oral cleft (OR 1.79; 95% CI 1.13—2.82).
+The data from the case-control studies suggested an association between benzodiazepines and major malformations (OR 3.01; 95% CI 1.32—6.84) and oral cleft (OR 1.79; 95% CI 1.13—2.82).
 The limitations of this meta-analysis included the small number of reports included in the analysis, and that most cases for analyses of both oral cleft and major malformations came from only three studies.
 A follow up to that meta-analysis included 3 new cohort studies that examined risk for major malformations and one study that considered cardiac malformations.
 The authors found no new studies with an outcome of oral clefts.
@@ -74,7 +74,7 @@ After short-term administration, clobazam and N-desmethylclobazam are transferre
 
 ## 8.3 Females and Males of Reproductive Potential
 
-Administration of clobazam to rats prior to and during mating and early gestation resulted in adverse effects on fertility and early embryonic development at plasma exposures for clobazam and its major active metabolite, N desmethylclobazam, below those in humans at the MRHD [see Nonclinical Toxicology (13.1)].
+Administration of clobazam to rats prior to and during mating and early gestation resulted in adverse effects on fertility and early embryonic development at plasma exposures for clobazam and its major active metabolite, N-desmethylclobazam, below those in humans at the MRHD [see Nonclinical Toxicology (13.1)].
 
 ## 8.4 Pediatric Use
 

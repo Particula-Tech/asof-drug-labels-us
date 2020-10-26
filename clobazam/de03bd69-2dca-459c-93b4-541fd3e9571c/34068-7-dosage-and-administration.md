@@ -17,10 +17,12 @@ Recommended Total Daily Dosing by Weight Group
 | Starting Day 7 | 10 mg | 20 mg |
 | Starting Day 14 | 20 mg | 40 mg |
 
-## 2.2 Gradual Withdrawal
+## 2.2 Discontinuation or Dosage Reduction of ONFI
 
-As with all antiepileptic drugs and benzodiazepines, withdraw ONFI gradually.
-Taper by decreasing the total daily dose by 5-10 mg/day on a weekly basis until discontinued [see Warnings and Precautions (5.4)].
+To reduce the risk of withdrawal reactions, increased seizure frequency, and status epilepticus, use a gradual taper to discontinue ONFI or reduce the dosage.
+Taper by decreasing the total daily dose by 5-10 mg/day on a weekly basis until discontinued.
+If a patient develops withdrawal reactions, consider pausing the taper or increasing the dosage to the previous tapered dosage level.
+Subsequently decrease the dosage more slowly [see Warnings and Precautions (5.3) and Drug Abuse and Dependence (9.3)].
 
 ## 2.3 Important Administration Instructions
 
