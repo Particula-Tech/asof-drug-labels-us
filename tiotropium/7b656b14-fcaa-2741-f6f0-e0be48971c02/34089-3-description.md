@@ -2,14 +2,14 @@
 
 The active component of SPIRIVA RESPIMAT is tiotropium.
 The drug substance, tiotropium bromide monohydrate, is an anticholinergic with specificity for muscarinic receptors.
-It is chemically described as (1α, 2ß, 4ß, 5α, 7ß)-7-[(Hydroxydi-2-thienylacetyl)oxy]-9,9-dimethyl-3-oxa-9-azoniatricyclo[3.3.1.02,4] nonane bromide monohydrate.
+It is chemically described as (1α, 2β, 4β, 5α, 7β)-7-[(Hydroxydi-2-thienylacetyl)oxy]-9,9-dimethyl-3-oxa-9-azoniatricyclo[3.3.1.02,4] nonane bromide monohydrate.
 It is a synthetic, non-chiral, quaternary ammonium compound.
 Tiotropium bromide is a white or yellowish white powder.
 It is sparingly soluble in water and soluble in methanol.
 
 The structural formula is:
 
-Tiotropium bromide (monohydrate) has a molecular mass of 490.4 and a molecular formula of C19H22NO4S2Br • H2O.
+Tiotropium bromide (monohydrate) has a molecular mass of 490.4 and a molecular formula of C19H22NO4S2Br ∙ H2O.
 
 The drug product, SPIRIVA RESPIMAT, is composed of a sterile, aqueous solution of tiotropium bromide filled into a 4.5 mL plastic container crimped into an aluminum cylinder (SPIRIVA RESPIMAT cartridge) for use with the SPIRIVA RESPIMAT inhaler.
 Excipients include water for injection, edetate disodium, benzalkonium chloride and hydrochloric acid.

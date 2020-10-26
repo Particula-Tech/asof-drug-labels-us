@@ -5,13 +5,17 @@
 The efficacy of SPIRIVA RESPIMAT compared to placebo was evaluated in 6 clinical trials: one dose-ranging trial and 5 confirmatory trials (Trials 1-5).
 In addition, SPIRIVA RESPIMAT was compared to SPIRIVA HandiHaler in a long-term active-controlled trial in COPD (Trial 6).
 
-Dose-Ranging Trial Dose selection for the Phase III clinical program was supported by a 3-week randomized, double-blind, placebo and active-controlled, parallel group trial in 202 COPD patients.
+Dose-Ranging Trial
+
+Dose selection for the Phase III clinical program was supported by a 3-week randomized, double-blind, placebo and active-controlled, parallel group trial in 202 COPD patients.
 A total of five doses of tiotropium RESPIMAT (1.25 to 20 mcg) were evaluated compared to placebo.
 Results demonstrated numerical improvements in FEV1 at all doses compared to placebo.
 The difference in trough FEV1 from placebo for the 1.25, 2.5, 5, 10 and 20 mcg once daily doses were 0.08 L (95% CI -0.03, 0.20), 0.03 L (-0.08, 0.15), 0.13 L (0.02, 0.25), 0.11 L (-0.004, 0.224), and 0.13 L (0.01, 0.24), respectively.
 Based on these results, the 5 and 10 mcg doses were further evaluated in the confirmatory COPD trials.
 
-Confirmatory Trials A total of 6614 COPD patients (2801 receiving SPIRIVA RESPIMAT 5 mcg and 2798 receiving placebo) were studied in the five confirmatory trials of SPIRIVA RESPIMAT.
+Confirmatory Trials
+
+A total of 6614 COPD patients (2801 receiving SPIRIVA RESPIMAT 5 mcg and 2798 receiving placebo) were studied in the five confirmatory trials of SPIRIVA RESPIMAT.
 Trials 1 and 2 were 12-week, randomized, double-blind, placebo- and active- (ipratropium) controlled trials that evaluated bronchodilation.
 Trials 3-5 were 48-week, randomized, double-blind, placebo-controlled, trials that evaluated bronchodilation and effects on COPD exacerbations.
 Trials 1-4 included both the tiotropium RESPIMAT 5 mcg and 10 mcg doses, whereas Trial 5 included only the 5 mcg dose.
@@ -27,7 +31,9 @@ Mean pre-bronchodilator FEV1 was between 1.03 and 1.26 L with a mean FEV1/FVC ra
 Except for LABAs and other inhaled anticholinergic agents, other pulmonary medications were allowed as concomitant therapy in Trials 1-4.
 LABA use was permitted in Trial 5.
 
-Effect on Lung Function SPIRIVA RESPIMAT 5 mcg demonstrated significant improvement in trough FEV1 compared to placebo in all 5 confirmatory trials (Table 4).
+Effect on Lung Function
+
+SPIRIVA RESPIMAT 5 mcg demonstrated significant improvement in trough FEV1 compared to placebo in all 5 confirmatory trials (Table 4).
 The change from baseline in trough FEV1 over time from Trial 4 is depicted in Figure 1 and is representative of the other two 48-week trials.
 In Trials 3 and 4 patients treated with SPIRIVA RESPIMAT 5 mcg also used less rescue medication compared to patients on placebo.
 
@@ -45,7 +51,9 @@ Table 4 Mean Change from Baseline in Trough FEV1 (L) at End of Treatment
 
 Figure 1 Trough FEV1 Change from Baseline over 48 weeks (Trial 4), SPIRIVA RESPIMAT 5 mcg
 
-Exacerbations Trials 3, 4, and 5 also evaluated the effect of SPIRIVA RESPIMAT 5 mcg on COPD exacerbations.
+Exacerbations
+
+Trials 3, 4, and 5 also evaluated the effect of SPIRIVA RESPIMAT 5 mcg on COPD exacerbations.
 For Trials 3 and 4, a pooled analysis of exacerbation rate per patient year was pre-specified as a primary endpoint, while the primary endpoint for Trial 5 was time to first exacerbation.
 Trial 5 also included exacerbation rate per patient year as a secondary endpoint.
 Exacerbations were defined as a complex of respiratory events/symptoms with a duration of ≥3 days with ≥2 of the following (increase of symptoms or new onset): shortness of breath/dyspnea/shallow, rapid breathing; sputum production (volume); occurrence of purulent sputum; cough; wheezing; chest tightness.
@@ -57,7 +65,11 @@ In Trial 5, treatment with SPIRIVA RESPIMAT 5 mcg delayed the time to first COPD
 Consistent with the pooled analysis of Trials 3 and 4, for Trial 5, exacerbation rate was also lower in SPIRIVA RESPIMAT 5 mcg compared to placebo.
 In Trial 5, SPIRIVA RESPIMAT 5 mcg also reduced the risk of COPD exacerbation-related hospitalization (HR = 0.73; 95% CI = 0.59, 0.90) compared to placebo.
 
-Long-term Active-Controlled Mortality Trial Survival In a pooled analysis of SPIRIVA RESPIMAT placebo-controlled clinical trials with complete vital status (mortality) follow-up, including the three 48-week trials (Trial 3, 4, and 5) and one 24-week placebo-controlled trial, 68 deaths (Incidence Rate 2.64 deaths per 100 patient years) were observed in the SPIRIVA RESPIMAT 5 mcg treatment group compared to 51 deaths (Incidence Rate 1.98 deaths per 100 patient years) in those treated with placebo.
+Long-term Active-Controlled Mortality Trial
+
+Survival
+
+In a pooled analysis of SPIRIVA RESPIMAT placebo-controlled clinical trials with complete vital status (mortality) follow-up, including the three 48-week trials (Trial 3, 4, and 5) and one 24-week placebo-controlled trial, 68 deaths (Incidence Rate 2.64 deaths per 100 patient years) were observed in the SPIRIVA RESPIMAT 5 mcg treatment group compared to 51 deaths (Incidence Rate 1.98 deaths per 100 patient years) in those treated with placebo.
 In a 4-year, randomized, double-blind, placebo-controlled, multicenter clinical trial of tiotropium bromide inhalation powder (SPIRIVA HandiHaler) in 5992 COPD patients a similar incidence rate of death had been observed between SPIRIVA HandiHaler and placebo treated groups.
 
 For clarification of the observed difference in fatal events, a long-term, randomized, double-blind, double dummy, active-controlled trial with an observation period up to 3 years was conducted to evaluate the risk of all-cause mortality associated with the use of SPIRIVA RESPIMAT compared to SPIRIVA HandiHaler (Trial 6).
@@ -92,7 +104,9 @@ There were 113 patients (2%) treated with SPIRIVA RESPIMAT 5 mcg who had cardiov
 Of the cardiovascular deaths, 11 (0.2%) and 3 (0.1%) deaths were due to myocardial infarction in SPIRIVA RESPIMAT 5 mcg patients and SPIRIVA HandiHaler patients, respectively.
 For cardiac deaths, sudden cardiac death, and sudden death, there were a total of 69 (1.2%) and 68 (1.2%) deaths in SPIRIVA RESPIMAT 5 mcg patients and SPIRIVA HandiHaler patients, respectively.
 
-Effect on Lung Function and Exacerbations In the lung function sub-study the effect of SPIRIVA RESPIMAT 5 mcg on trough FEV1 over 120 weeks was similar to SPIRIVA HandiHaler with a mean difference of -0.010 L (95% CI -0.038 to 0.018 L).
+Effect on Lung Function and Exacerbations
+
+In the lung function sub-study the effect of SPIRIVA RESPIMAT 5 mcg on trough FEV1 over 120 weeks was similar to SPIRIVA HandiHaler with a mean difference of -0.010 L (95% CI -0.038 to 0.018 L).
 
 Trial 6 also included time to first exacerbation as a co-primary endpoint (exacerbations defined as in Trials 3-5).
 SPIRIVA RESPIMAT 5 mcg failed to demonstrate superiority to SPIRIVA HandiHaler with a similar time to first COPD exacerbation between treatment groups [hazard ratio of 0.98 (95% CI 0.93 to 1.03)].
@@ -102,7 +116,9 @@ SPIRIVA RESPIMAT 5 mcg failed to demonstrate superiority to SPIRIVA HandiHaler w
 The SPIRIVA RESPIMAT clinical development program included six 4-week to 8-week cross-over design trials and ten 12-week to 48-week parallel-arm design trials in adult, adolescent (aged 12 to 17 years) and pediatric (aged 1 to 11 years) patients with asthma symptomatic on at least ICS.
 In all trials, SPIRIVA RESPIMAT was administered on a background of ICS therapy.
 
-Dose Selection Dose selection for the confirmatory trials was based on three randomized, double-blind, placebo-controlled, 4-week to 8-week, cross-over trials in 256 adult patients, 105 adolescent (age 12 to 17 years) patients, and 101 pediatric (age 6 to 11 years) patients that assessed doses ranging from 1.25 mcg to 10 mcg once daily.
+Dose Selection
+
+Dose selection for the confirmatory trials was based on three randomized, double-blind, placebo-controlled, 4-week to 8-week, cross-over trials in 256 adult patients, 105 adolescent (age 12 to 17 years) patients, and 101 pediatric (age 6 to 11 years) patients that assessed doses ranging from 1.25 mcg to 10 mcg once daily.
 Results demonstrated numerical improvements in FEV1 at all doses compared to placebo; however, across the trials, the response was not dose-ordered.
 For adult patients, in the 4-week trial the difference in peak FEV1 within 3 h post-dosing (peak FEV1, 0-3hr) from placebo for the tiotropium RESPIMAT 1.25, 2.5, and 5 mcg doses were 0.138 L (95% CI 0.090, 0.186), 0.128 L (0.080, 0.176), and 0.188 L (0.140, 0.236), respectively.
 For adolescent patients, the difference in peak FEV1, 0-3hr from placebo for the tiotropium RESPIMAT 1.25, 2.5, and 5 mcg doses were 0.067 L (95% CI −0.005, 0.138), 0.057 L (−0.021, 0.135), and 0.113 L (0.036, 0.190), respectively.
@@ -112,7 +128,9 @@ The 10 mcg dose offered no substantial benefit over lower doses and resulted in 
 The two dose regimen trials in adults with asthma were randomized, double-blind, 4-week, cross-over trials comparing tiotropium RESPIMAT 2.5 mcg twice-daily with 5 mcg once-daily.
 24-hour FEV1 results demonstrated comparable treatment effects for twice-daily and once-daily dosing.
 
-12-week to 48-week Parallel-Arm Design Trials in Adults The program for persistent asthma in adult patients included one 12-week (Trial 1), two replicate 24-week (Trials 2 and 3), and two replicate 48-week (Trials 4 and 5) randomized, double-blind, placebo-controlled trials in a total of 3476 asthma patients (673 receiving SPIRIVA RESPIMAT 2.5 mcg once-daily, 1128 receiving SPIRIVA RESPIMAT 5 mcg once-daily, 541 receiving salmeterol 50 mcg twice daily, and 1134 receiving placebo) on background treatment of at least ICS.
+12-week to 48-week Parallel-Arm Design Trials in Adults
+
+The program for persistent asthma in adult patients included one 12-week (Trial 1), two replicate 24-week (Trials 2 and 3), and two replicate 48-week (Trials 4 and 5) randomized, double-blind, placebo-controlled trials in a total of 3476 asthma patients (673 receiving SPIRIVA RESPIMAT 2.5 mcg once-daily, 1128 receiving SPIRIVA RESPIMAT 5 mcg once-daily, 541 receiving salmeterol 50 mcg twice daily, and 1134 receiving placebo) on background treatment of at least ICS.
 Trial 1 evaluated three treatments: SPIRIVA RESPIMAT 2.5 mcg once-daily, SPIRIVA RESPIMAT 5 mcg once-daily, and placebo.
 Trials 2 and 3 evaluated four treatments: SPIRIVA RESPIMAT 2.5 mcg once-daily, SPIRIVA RESPIMAT 5 mcg once-daily, salmeterol 50 mcg twice daily, and placebo.
 Trials 4 and 5 evaluated two treatments: SPIRIVA RESPIMAT 5 mcg once-daily and placebo.
@@ -123,11 +141,11 @@ The patient characteristics for the 12 week to 48 week trials in adult patients 
 
 Table 6 Summary of Baseline Patient Characteristics, Adult Confirmatory Studies
 
-|  | Adults, 18 yrs and older |  |  |  |  |
+|  | Trial 1 | Trial 2 | Trial 3 | Trial 4 | Trial 5 |
 | --- | --- | --- | --- | --- | --- |
-| Trial 1 | Trial 2 | Trial 3 | Trial 4 | Trial 5 |  |
+|  | Adults, 18 yrs and older |  |  |  |  |
 | Demographics |  |  |  |  |  |
-| Mean age in years (range) | 42.9 (18 – 74) | 43.3 (18 – 75) | 42.9 (18 – 75) | 53.4 (18 – 75) | 52.5 (19 – 75) |
+| Mean age in years (range) | 42.9 (18 – 74) | 43.3 (18 – 75) | 42.9 (18 – 75) | 53.4 (18-75) | 52.5 (19-75) |
 | Mean duration of asthma (years) | 16.2 | 21.7 | 21.8 | 31.5 | 29.1 |
 | Smoking status, ex-smoker (%) | 18 | 14 | 19 | 22 | 26 |
 | Laboratory (median) |  |  |  |  |  |
@@ -139,27 +157,29 @@ Table 6 Summary of Baseline Patient Characteristics, Adult Confirmatory Studies
 | Absolute reversibility (mL) | 556 | 488 | 477 | 215 | 218 |
 | Post-bronchodilator FEV1/FVC (%) | 74 | 72 | 72 | 60 | 59 |
 
-The primary efficacy endpoint in Trial 1 was change from pre-treatment baseline in peak FEV1, 0-3h at week 12.
-The co-primary efficacy endpoints in Trials 2 and 3 were change from pre-treatment baseline in peak FEV1, 0-3 hr and change from pre-treatment baseline in trough FEV1 at week 24.
+The primary efficacy endpoint in Trial 1 was change from pre-treatment baseline in peak FEV1, 0-3hr at week 12.
+The co-primary efficacy endpoints in Trials 2 and 3 were change from pre-treatment baseline in peak FEV1, 0-3hr and change from pre-treatment baseline in trough FEV1 at week 24.
 Additional efficacy measures included asthma exacerbation, Asthma Control Questionnaire (ACQ), and Asthma Quality of Life Questionnaire (AQLQ).
 
 For Trials 1, 2, and 3, SPIRIVA RESPIMAT 2.5 mcg showed statistically significant improvements in lung function over placebo when used in addition to background treatment of ICS (Table 7).
 
-Table 7 Differences from Placebo in Peak FEV1, 0-3 and Trough FEV1, Adult Confirmatory Studies at Primary Endpoint Time Evaluation
+Table 7 Differences from Placebo in Peak FEV1, 0-3 hr and Trough FEV1, Adult Confirmatory Studies at Primary Endpoint Time Evaluation
 
-| Treatment (Duration) ICS Background Treatment b,c | Treatment in mcg/day | n | Peak FEV1, 0- 3hr, in L a |  |  | Trough FEV1, in L a |  |  |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Δ from baseline | Difference from placebo |  | Δ from baseline | Difference from placebo |  |  |  |  |
 | Mean | 95% CI | Mean | 95% CI |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Treatment (Duration) ICS Background Treatment b,c | Treatment in mcg/day | n | Peak FEV1, 0-3hr, in L a |  |  | Trough FEV1, in L a |  |  |
+| Δ from baseline | Difference from placebo |  | Δ from baseline | Difference from placebo |  |  |  |  |
 | Adult patients, age 18 years and older |  |  |  |  |  |  |  |  |
 | Trial 1 (12 weeks) Low dose ICS | SPIRIVA RESPIMAT 2.5 mcg Placebo | 154 155 | 0.29 0.13 | 0.16 | 0.09, 0.23 | 0.13 0.02 | 0.11 | 0.04, 0.18 |
-| Trial 2 (24 weeks) Medium dose ICS | SPIRIVA RESPIMAT 2.5 mcg Salmeterol 100 mcg Placebo | 259 271 265 | 0.29 0.27 0.05 | 0.24 0.21 | 0.18, 0.29 0.16, 0.27 | 0.15 0.09 –0.03 | 0.19 0.12 | 0.13, 0.24 0.06, 0.18 |
-| Trial 3 (24 weeks) Medium dose ICS | SPIRIVA RESPIMAT 2.5 mcg Salmeterol 100 mcg Placebo | 256 264 253 | 0.29 0.25 0.08 | 0.21 0.18 | 0.16, 0.26 0.12, 0.23 | 0.16 0.09 –0.01 | 0.18 0.11 | 0.12, 0.23 0.05, 0.16 |
-| a Means adjusted for treatment, center/country, visit, visit*treatment, baseline, baseline*visit. b Additional asthma medications allowed in stable doses prior to and throughout the trials. c Low dose ICS = 200–400 mcg budesonide-equivalent. Medium dose ICS = 400–800 mcg budesonide-equivalent. |  |  |  |  |  |  |  |  |
+| Trial 2 (24 weeks) Medium dose ICS | SPIRIVA RESPIMAT 2.5 mcg Salmeterol 100 mcg Placebo | 259 271 265 | 0.29 0.27 0.05 | 0.24 0.21 | 0.18, 0.29 0.16, 0.27 | 0.15 0.09 −0.03 | 0.19 0.12 | 0.13, 0.24 0.06, 0.18 |
+| Trial 3 (24 weeks) Medium dose ICS | SPIRIVA RESPIMAT 2.5 mcg Salmeterol 100 mcg Placebo | 256 264 253 | 0.29 0.25 0.08 | 0.21 0.18 | 0.16, 0.26 0.12, 0.23 | 0.16 0.09 −0.01 | 0.18 0.11 | 0.12, 0.23 0.05, 0.16 |
+| a Means adjusted for treatment, center/country, visit, visit*treatment, baseline, baseline*visit. |  |  |  |  |  |  |  |  |
+| b Additional asthma medications allowed in stable doses prior to and throughout the trials. |  |  |  |  |  |  |  |  |
+| c Low dose ICS = 200–400 mcg budesonide-equivalent. Medium dose ICS = 400–800 mcg budesonide-equivalent. |  |  |  |  |  |  |  |  |
 
 Trials 1, 2, and 3 also included a SPIRIVA RESPIMAT 5 mcg once daily treatment arm.
 In these asthma trials, the FEV1 response (change from baseline for tiotropium compared to placebo) was generally lower for the 5 mcg dose compared to the 2.5 mcg dose.
-The peak FEV1, 0-3hr response was 16% to 20% lower for the 5 mcg dose compared to the 2.5 mcg dose in all three trials, and, the trough FEV1 response was 11% higher for the 5 mcg dose compared to the 2.5 mcg dose for one trial (Trial 1) and 18% and 24% lower for the 5 mcg dose compared to the 2.5 mcg dose for the other two trials (Trials 2 and 3).
+The peak FEV1 0-3hr response was 16% to 20% lower for the 5 mcg dose compared to the 2.5 mcg dose in all three trials, and, the trough FEV1 response was 11% higher for the 5 mcg dose compared to the 2.5 mcg dose for one trial (Trial 1) and 18% and 24% lower for the 5 mcg dose compared to the 2.5 mcg dose for the other two trials (Trials 2 and 3).
 
 Improvements in morning and evening peak expiratory flow (PEF) were consistent with the observed FEV1 treatment response.
 Examination of age, gender, smoking history, and serum IgE level subgroups did not identify differences in response among these subgroups.
@@ -175,26 +195,28 @@ Results of asthma exacerbation are shown in Table 8.
 
 Table 8 Exacerbations in Patients on ICS over 24-Weeks
 
-|  | Trial 2 |  | Trial 3 |  |
-| --- | --- | --- | --- | --- |
 |  | SPIRIVA RESPIMAT 2.5 mcg (N=259) | Placebo (N=265) | SPIRIVA RESPIMAT 2.5 mcg (N=256) | Placebo (N=253) |
+| --- | --- | --- | --- | --- |
+|  | Trial 2 |  | Trial 3 |  |
 | Number of patients with at least 1 event, n (%) | 9 (3.5) | 24 (9.1) | 13 (5.1) | 19 (7.5) |
 | Rate of exacerbations per patient year |  |  |  |  |
 | Mean rate of events | 0.08 | 0.24 | 0.13 | 0.18 |
-| Comparison to Placebo,Rate ratio (95% CI) | 0.32 (0.20, 0.51) |  | 0.70 (0.46, 1.08) |  |
+| Comparison to Placebo, Rate ratio (95% CI) | 0.32 (0.20, 0.51) |  | 0.70 (0.46, 1.08) |  |
 | Time to first asthma exacerbation |  |  |  |  |
-| Comparison to Placebo,Hazard ratio (95% CI) | 0.37 (0.17, 0.80) |  | 0.66 (0.33, 1.34) |  |
+| Comparison to Placebo, Hazard ratio (95% CI) | 0.37 (0.17, 0.80) |  | 0.66 (0.33, 1.34) |  |
 
 Trials 2 and 3 also evaluated the rate of exacerbations and time to first asthma exacerbation for the SPIRIVA RESPIMAT 5 mcg dose.
 The rate of asthma exacerbations compared to placebo for SPIRIVA RESPIMAT 5 mcg was 0.78 (95% CI 0.55, 1.10) in Trial 2 and 0.76 (0.50, 1.16) in Trial 3.
 The hazard ratio for time to first asthma exacerbation for SPIRIVA RESPIMAT 5 mcg compared to placebo was 0.72 (95% CI 0.39, 1.35), in Trial 2 and 0.72 (0.36, 1.43) in Trial 3.
 
 ACQ and AQLQ were assessed in Trials 2 and 3 at week 24.
-In Trial 2, the ACQ-7 (7 items) responder rate (defined as a change in score >0.5) for the SPIRIVA RESPIMAT 2.5 mcg treatment arm was 63% compared to 53% for placebo with an odds ratio of 1.47 (95% CI 1.02, 2.11).
+In Trial 2, the ACQ-7 (7 items) responder rate (defined as a change in score ≥0.5) for the SPIRIVA RESPIMAT 2.5 mcg treatment arm was 63% compared to 53% for placebo with an odds ratio of 1.47 (95% CI 1.02, 2.11).
 The ACQ-5 (derived from ACQ 7 by removing the FEV1 component and rescue bronchodilator component) results also had a similar trend.
-In Trial 2, the AQLQ responder rate (defined as a change in score >0.5) for the SPIRIVA RESPIMAT 2.5 mcg treatment arm was 58% compared to 50% for placebo with an odds ratio of 1.34 (95% CI 0.94, 1.93).
+In Trial 2, the AQLQ responder rate (defined as a change in score ≥0.5) for the SPIRIVA RESPIMAT 2.5 mcg treatment arm was 58% compared to 50% for placebo with an odds ratio of 1.34 (95% CI 0.94, 1.93).
 
-12-week and 48-week Parallel-Arm Design Trials in Adolescents 12-17 Years of Age Efficacy in adolescents was based on partial extrapolation of efficacy in adults and two randomized, double-blind, placebo-controlled trials of 12 and 48 weeks duration in a total of 789 asthma patients 12 to 17 years of age (252 receiving SPIRIVA RESPIMAT 2.5 mcg once-daily, 264 receiving 5 mcg once-daily, and 273 receiving placebo).
+12-week and 48-week Parallel-Arm Design Trials in Adolescents 12-17 Years of Age
+
+Efficacy in adolescents was based on partial extrapolation of efficacy in adults and two randomized, double-blind, placebo-controlled trials of 12 and 48 weeks duration in a total of 789 asthma patients 12 to 17 years of age (252 receiving SPIRIVA RESPIMAT 2.5 mcg once-daily, 264 receiving 5 mcg once-daily, and 273 receiving placebo).
 The 12-week trial enrolled patients with severe asthma who were on background treatment of ICS plus one or more controller medications (e.g.
 LABA).
 The 48-week trial enrolled patients with moderate asthma on background treatment of at least ICS.
@@ -204,7 +226,9 @@ The primary efficacy endpoint in both trials was change from pre-treatment basel
 The primary endpoint evaluation for FEV1 was defined at week 24 for the 48-week trial and at end of the treatment period (week 12) for the 12-week trial.
 Given the demonstration of efficacy in the adult population, the results of the 2 trials support the efficacy of SPIRIVA RESPIMAT 2.5 mcg once daily in adolescent patients 12-17 years of age with asthma (mean difference in peak FEV1, 0-3hr from placebo for SPIRIVA RESPIMAT 2.5 mcg were 0.13 L (95% CI 0.03, 0.23) and 0.11 L (0.002, 0.22) for the 48-week and 12-week trials, respectively).
 
-12-week and 48-week Parallel-Arm Design Trials in Pediatric Patients 6-11 Years of Age Efficacy in pediatric patients 6-11 years of age was based on partial extrapolation of efficacy in adults and two randomized, double-blind, placebo-controlled trials of 12 and 48 weeks duration in a total of 801 asthma patients 6 to 11 years of age (271 receiving SPIRIVA RESPIMAT 2.5 mcg once-daily, 265 receiving 5 mcg once-daily, and 265 receiving placebo).
+12-week and 48-week Parallel-Arm Design Trials in Pediatric Patients 6-11 Years of Age
+
+Efficacy in pediatric patients 6-11 years of age was based on partial extrapolation of efficacy in adults and two randomized, double-blind, placebo-controlled trials of 12 and 48 weeks duration in a total of 801 asthma patients 6 to 11 years of age (271 receiving SPIRIVA RESPIMAT 2.5 mcg once-daily, 265 receiving 5 mcg once-daily, and 265 receiving placebo).
 The 12-week trial enrolled patients with severe asthma who were on background treatment of ICS plus one or more controller medications (e.g.
 LABA).
 The 48-week trial enrolled patients with moderate asthma on background treatment of at least ICS.

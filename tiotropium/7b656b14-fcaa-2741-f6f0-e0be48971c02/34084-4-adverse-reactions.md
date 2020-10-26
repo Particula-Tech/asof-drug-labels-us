@@ -46,11 +46,15 @@ Table 1 Number (Percentage) of COPD Patients Exposed to SPIRIVA RESPIMAT 5 mcg w
 
 Other reactions that occurred in the SPIRIVA RESPIMAT 5 mcg group at an incidence of 1% to 3% and at a higher incidence rate on SPIRIVA RESPIMAT 5 mcg than on placebo included: Cardiac disorders: palpitations; Gastrointestinal disorders: constipation, gastroesophageal reflux disease, oropharyngeal candidiasis; Nervous system disorders: dizziness; Respiratory, thoracic, and mediastinal disorders: dysphonia; Skin and subcutaneous tissue disorders: pruritus, rash; Renal and urinary disorders: urinary tract infection.
 
-Less Common Adverse Reactions Among the adverse reactions observed in the clinical trials with an incidence of <1% and at a higher incidence rate on SPIRIVA RESPIMAT 5 mcg than on placebo were: dysphagia, gingivitis, intestinal obstruction including ileus paralytic, joint swelling, dysuria, urinary retention, epistaxis, laryngitis, angioedema, dry skin, skin infection, and skin ulcer.
+Less Common Adverse Reactions
+
+Among the adverse reactions observed in the clinical trials with an incidence of <1% and at a higher incidence rate on SPIRIVA RESPIMAT 5 mcg than on placebo were: dysphagia, gingivitis, intestinal obstruction including ileus paralytic, joint swelling, dysuria, urinary retention, epistaxis, laryngitis, angioedema, dry skin, skin infection, and skin ulcer.
 
 ## 6.2 Clinical Trials Experience in Asthma
 
-Adult Patients SPIRIVA RESPIMAT 2.5 mcg has been compared to placebo in four placebo-controlled parallel-group trials ranging from 12 to 52 weeks of treatment duration in adult patients (aged 18 to 75 years) with asthma.
+Adult Patients
+
+SPIRIVA RESPIMAT 2.5 mcg has been compared to placebo in four placebo-controlled parallel-group trials ranging from 12 to 52 weeks of treatment duration in adult patients (aged 18 to 75 years) with asthma.
 The safety data described below are based on one 1-year, two 6-month and one 12-week randomized, double-blind, placebo-controlled trials in a total of 2849 asthma patients on background treatment of at least ICS or ICS and long-acting beta agonist (ICS/LABA).
 Of these patients, 787 were treated with SPIRIVA RESPIMAT at the recommended dose of 2.5 mcg once-daily; 59.7% were female and 47.5% were Caucasian with a mean age of 43.7 years and a mean post-bronchodilator percent predicted forced expiratory volume in 1 second (FEV1) of 90.0% at baseline.
 
@@ -58,26 +62,32 @@ Table 2 shows all adverse reactions that occurred with an incidence of >2% in th
 
 Table 2 Number (Percentage) of Asthma Patients Exposed to SPIRIVA RESPIMAT 2.5 mcg with Adverse Reactions >2% (and Higher than Placebo): Pooled Data from 4 Adult Clinical Trials with Treatment Periods Ranging between 12 and 52 Weeks in Asthma Patients
 
-| Body System (Reaction)* |  | SPIRIVA RESPIMAT 2.5 mcg [n=787] | Placebo [n=735] |
-| --- | --- | --- | --- |
-| Respiratory, Thoracic, and Mediastinal Disorders |  |  |  |
-|  | Pharyngitis | 125 (15.9) | 91 (12.4) |
-|  | Sinusitis | 21 (2.7) | 10 (1.4) |
-|  | Bronchitis | 26 (3.3) | 10 (1.4) |
-| Nervous System Disorders |  |  |  |
-|  | Headache | 30 (3.8) | 20 (2.7) |
-| *Adverse reactions include a grouping of similar terms |  |  |  |
+| Body System (Reaction)* | SPIRIVA RESPIMAT 2.5 mcg [n=787] | Placebo [n=735] |
+| --- | --- | --- |
+| Respiratory, Thoracic, and Mediastinal Disorders |  |  |
+| Pharyngitis | 125 (15.9) | 91 (12.4) |
+| Sinusitis | 21 (2.7) | 10 (1.4) |
+| Bronchitis | 26 (3.3) | 10 (1.4) |
+| Nervous System Disorders |  |  |
+| Headache | 30 (3.8) | 20 (2.7) |
+| *Adverse reactions include a grouping of similar terms |  |  |
 
 Other reactions that occurred in the SPIRIVA RESPIMAT 2.5 mcg group at an incidence of 1% to 2% and at a higher incidence rate on SPIRIVA RESPIMAT 2.5 mcg than on placebo included: Nervous system disorders: dizziness; Gastrointestinal disorders: oropharyngeal candidiasis, diarrhea; Respiratory, thoracic, and mediastinal disorders: cough, rhinitis allergic; Renal and urinary disorders: urinary tract infection; General disorders and administration site conditions: pyrexia; and Vascular disorders: hypertension.
 
-Less Common Adverse Reactions Among the adverse reactions observed in the clinical trials with an incidence of 0.5% to <1% and at a higher incidence rate on SPIRIVA RESPIMAT 2.5 mcg than on placebo were: palpitations, dysphonia, acute tonsillitis, tonsillitis, rhinitis, herpes zoster, gastroesophageal reflux disease, oropharyngeal discomfort, abdominal pain upper, insomnia, hypersensitivity (including immediate reactions), angioedema, dehydration, arthralgia, muscle spasms, pain in extremity, chest pain, hepatic function abnormal, liver function test abnormal.
+Less Common Adverse Reactions
 
-Adolescent Patients Aged 12 to 17 years SPIRIVA RESPIMAT 2.5 mcg has been compared to placebo in two placebo-controlled parallel-group trials ranging from 12 to 48 weeks of treatment duration in adolescent patients with asthma.
+Among the adverse reactions observed in the clinical trials with an incidence of 0.5% to <1% and at a higher incidence rate on SPIRIVA RESPIMAT 2.5 mcg than on placebo were: palpitations, dysphonia, acute tonsillitis, tonsillitis, rhinitis, herpes zoster, gastroesophageal reflux disease, oropharyngeal discomfort, abdominal pain upper, insomnia, hypersensitivity (including immediate reactions), angioedema, dehydration, arthralgia, muscle spasms, pain in extremity, chest pain, hepatic function abnormal, liver function test abnormal.
+
+Adolescent Patients Aged 12 to 17 years
+
+SPIRIVA RESPIMAT 2.5 mcg has been compared to placebo in two placebo-controlled parallel-group trials ranging from 12 to 48 weeks of treatment duration in adolescent patients with asthma.
 The safety data described below are based on one 48-week and one 12-week double-blind, placebo-controlled trials in a total of 789 adolescent asthma patients on background treatment of at least ICS or ICS plus one or more controller.
 Of these patients, 252 were treated with SPIRIVA RESPIMAT at the recommended dose of 2.5 mcg once-daily; 63.9% were male and 95.6% were Caucasian with a mean age of 14.3 years and a mean post-bronchodilator percent predicted FEV1 of 98.3% at baseline.
 The adverse reaction profile for adolescent patients with asthma was comparable to that observed in adult patients with asthma.
 
-Pediatric Patients Aged 6 to 11 years SPIRIVA RESPIMAT 2.5 mcg has been compared to placebo in two placebo-controlled parallel-group trials ranging from 12 to 48 weeks of treatment duration in pediatric patients aged 6 to 11 years with asthma.
+Pediatric Patients Aged 6 to 11 years
+
+SPIRIVA RESPIMAT 2.5 mcg has been compared to placebo in two placebo-controlled parallel-group trials ranging from 12 to 48 weeks of treatment duration in pediatric patients aged 6 to 11 years with asthma.
 The safety data are based on one 48-week and one 12-week double-blind, placebo-controlled trials in a total of 801 pediatric asthma patients aged 6 to 11 years on background treatment of at least ICS or ICS plus one or more controller.
 Of these patients, 271 were treated with SPIRIVA RESPIMAT at the recommended dose of 2.5 mcg once-daily; 71.2% were male and 86.7% were Caucasian with a mean age of 8.9 years and a mean post-bronchodilator percent predicted FEV1 of 97.9% at baseline.
 The adverse reaction profile for pediatric patients aged 6 to 11 years with asthma was comparable to that observed in adult patients with asthma.

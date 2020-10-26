@@ -1,11 +1,31 @@
-Spiriva Respimat 1.25 mcg
+# PRINCIPAL DISPLAY PANEL - 1.25 mcg Carton
 
-Spiriva Respimat 1.25 mcg Professional Sample
+NDC 0597-0160-61
 
-Spiriva Respimat 2.5 mcg
+Spiriva® Respimat® (tiotropium bromide inhalation spray)
 
-Spiriva Respimat 2.5 mcg Institutional Pack 10s
+1.25 mcg/actuation*
 
-Spiriva Respimat 2.5 mcg Professional Sample
+FOR ORAL INHALATION ONLY
 
-Spiriva Respimat 2.5 mcg Institutional Pack 28s
+Rx only
+
+4 Grams 60 Metered Inhalations (Two inhalations equal one dose)
+
+Boehringer Ingelheim
+
+# PRINCIPAL DISPLAY PANEL - 2.5 mcg Carton
+
+NDC 0597-0100-61
+
+Spiriva® Respimat® (tiotropium bromide inhalation spray)
+
+2.5 mcg/actuation*
+
+FOR ORAL INHALATION ONLY
+
+Rx only
+
+4 Grams 60 Metered Inhalations (Two inhalations equal one dose)
+
+Boehringer Ingelheim

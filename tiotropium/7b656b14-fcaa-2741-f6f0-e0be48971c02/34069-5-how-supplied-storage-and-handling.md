@@ -14,13 +14,14 @@ SPIRIVA RESPIMAT Inhalation Spray is available in two dosage strengths, identifi
 
 To deliver the recommended dosage for COPD:
 
-- SPIRIVA RESPIMAT Inhalation Spray 2.5 mcg/actuation 60 metered actuations (NDC 0597-0100-61)
-- SPIRIVA RESPIMAT Inhalation Spray 2.5 mcg/actuation 28 metered actuations (NDC 0597-0100-31) (institutional pack)
-- SPIRIVA RESPIMAT Inhalation Spray 2.5 mcg/actuation 10 metered actuations (NDC 0597-0100-51) (institutional pack)
+| SPIRIVA RESPIMAT Inhalation Spray | 2.5 mcg/actuation | 60 metered actuations | (NDC 0597-0100-61) |
+| --- | --- | --- | --- |
+| SPIRIVA RESPIMAT Inhalation Spray | 2.5 mcg/actuation | 10 metered actuations | (NDC 0597-0100-51) (institutional pack) |
 
 To deliver the recommended dosage for asthma:
 
-- SPIRIVA RESPIMAT Inhalation Spray 1.25 mcg/actuation 60 metered actuations (NDC 0597-0160-61)
+| SPIRIVA RESPIMAT Inhalation Spray | 1.25 mcg/actuation | 60 metered actuations | (NDC 0597-0160-61) |
+| --- | --- | --- | --- |
 
 The SPIRIVA RESPIMAT cartridge for each strength has a net fill weight of 4 grams and when used with the SPIRIVA RESPIMAT inhaler, is designed to deliver the labeled number of metered actuations after preparation for use.
 Each actuation from the SPIRIVA RESPIMAT inhaler delivers 1.25 or 2.5 mcg of tiotropium (equivalent to 1.562 or 3.124 mcg, respectively, of tiotropium bromide monohydrate) from the mouthpiece.
@@ -32,5 +33,7 @@ After assembly, the SPIRIVA RESPIMAT inhaler should be discarded at the latest 3
 Keep out of reach of children.
 Do not spray into eyes.
 
-Storage Store at 25°C (77°F); excursions permitted to 15°C to 30°C (59°F to 86°F) [see USP Controlled Room Temperature].
+Storage
+
+Store at 20°C to 25°C (68°F to 77°F); excursions permitted to 15°C to 30°C (59°F to 86°F) [see USP Controlled Room Temperature].
 Avoid freezing.
