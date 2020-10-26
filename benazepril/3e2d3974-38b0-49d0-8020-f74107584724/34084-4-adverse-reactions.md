@@ -59,7 +59,7 @@ Because these reactions are reported voluntarily from a population of uncertain 
 
 Non-melanoma Skin Cancer: Hydrochlorothiazide is associated with an increased risk of non-melanoma skin cancer.
 In a study conducted in the Sentinel System, increased risk was predominantly for squamous cell carcinoma (SCC) and in white patients taking large cumulative doses.
-The increased risk for SCC in the overall population was approximately 1 additional case per 16,000 patients per year, and for white patients taking a cumulative dose of ≥50,000mg the risk increase was approximately SCC case for every 6,700 patients per year.
+The increased risk for SCC in the overall population was approximately 1 additional case per 16,000 patients per year, and for white patients taking a cumulative dose of ≥50,000mg the risk increase was approximately 1 additional SCC case for every 6,700 patients per year.
 
 Benazepril Stevens-Johnson syndrome, pancreatitis, hemolytic anemia, pemphigus, and thrombocytopenia, eosinophilic pneumonitis
 
@@ -81,7 +81,7 @@ Skin: Erythema multiforme including Stevens-Johnson syndrome, and exfoliative de
 
 Clinical Laboratory Test Findings
 
-Serum Electrolytes: (see PRECAUTIONS).
+Serum Electrolytes:see PRECAUTIONS.
 
 Creatinine and BUN: Minor reversible increases in serum creatinine and BUN were observed in patients with essential hypertension treated with Benazepril HCl and Hydrochlorothiazide.
 Such increases occurred most frequently in patients with renal artery stenosis (see PRECAUTIONS).

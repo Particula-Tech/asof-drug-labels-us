@@ -12,7 +12,7 @@ When involvement of the tongue, glottis, or larynx appears likely to cause airwa
 
 Black patients receiving ACE inhibitors have been reported to have a higher incidence of angioedema compared to nonblacks.
 
-Patients receiving coadministration of ACE inhibitor and mTOR (mammalian target of rapamycin) inhibitor (e.g., tesmsirolimus, sirolimus, everolimus) therapy or a neprilysin inhibitor may be at increased risk for angioedema (see PRECAUTIONS).
+Patients receiving coadministration of ACE inhibitor and mTOR (mammalian target of rapamycin) inhibitor (e.g., temsirolimus, sirolimus, everolimus) therapy or a neprilysin inhibitor may be at increased risk for angioedema (see PRECAUTIONS).
 
 Intestinal Angioedema: Intestinal angioedema has been reported in patients treated with ACE inhibitors.
 These patients presented with abdominal pain (with or without nausea or vomiting); in some cases there was no prior history of facial angioedema and C-1 esterase levels were normal.
@@ -82,7 +82,7 @@ Closely observe infants with histories of in utero exposure to Benazepril HCl an
 
 No teratogenic effects of Benazepril HCl and hydrochlorothiazide were seen in studies of pregnant rats, mice, and rabbits.
 On a mg/m2 basis, the doses used in these studies were 60 times (in rats), 9 times (in mice), and more than 0.8 times (in rabbits) the maximum recommended human dose (assuming a 50-kg woman).
-On a mg/kg basis these these multiples are 300 times (in rats), 90 times (in mice), and more than 3 times (in rabbits) the maximum recommended human dose.
+On a mg/kg basis these multiples are 300 times (in rats), 90 times (in mice), and more than 3 times (in rabbits) the maximum recommended human dose.
 When hydrochlorothiazide was orally administered without benazepril to pregnant mice and rats during their respective periods of major organogenesis, at doses up to 3000 and 1000 mg/kg/day respectively, there was no evidence of harm to the fetus.
 Similarly, no teratogenic effects of benazepril were seen in studies of pregnant rats, mice, and rabbits; on a mg/kg basis, the doses used in these studies were 300 times (in rats), 90 times (in mice), and more than 3 times (in rabbits) the maximum recommended human dose.
 
@@ -112,10 +112,6 @@ Prompt medical or surgical treatments may need to be considered if the intraocul
 Risk factors for developing acute angle-closure glaucoma may include a history of sulfonamide or penicillin allergy.
 
 # PRECAUTIONS
-
-## Patient Information
-
-Non-melanoma Skin Cancer: Instruct patients taking hydrochlorothiazide to protect skin from the sun and undergo regular skin cancer screening.
 
 ## General
 
@@ -162,6 +158,8 @@ All patients should be cautioned that inadequate fluid intake, excessive perspir
 Hyperkalemia: A patient receiving Benazepril HCl and Hydrochlorothiazide should be told not to use potassium supplements or salt substitutes containing potassium without consulting the prescribing physician.
 
 Neutropenia: Patients should be told to promptly report any indication of infection (e.g., sore throat, fever), which could be a sign of neutropenia.
+
+Non-melanoma Skin Cancer: Instruct patients taking hydrochlorothiazide to protect skin from the sun and undergo regular skin cancer screening.
 
 ## Laboratory Tests
 
@@ -233,7 +231,7 @@ Pressor amines: Hydrochlorothiazide may reduce the response to pressor amines su
 
 Non-clinical safety data
 
-## Carcinogenesis, Mutagenesis, Fertility
+## Carcinogenesis, Mutagenicity, Fertility
 
 No evidence of carcinogenicity was found when benazepril was given to rats and mice for 104 weeks at doses up to 150 mg/kg/day.
 On a body-surface-area basis, this dose is 18 times (rats) and 9 times (mice) the maximum recommended human dose.

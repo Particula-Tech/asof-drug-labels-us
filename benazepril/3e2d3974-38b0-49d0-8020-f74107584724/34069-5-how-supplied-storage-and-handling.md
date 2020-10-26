@@ -30,7 +30,7 @@ Perrigo®
 
 Allegan, MI 49010
 
-37Y00 RC J2 Rev 05-20
+37Y00 RC J3 Rev 10-20
 
 Manufactured for:
 
@@ -38,8 +38,8 @@ Validus Pharmaceuticals LLC
 
 Parsippany, NJ 07054
 
-© 2019 Validus Pharmaceuticals LLC
+© 2020 Validus Pharmaceuticals LLC
 
-60160-01
+60160-02
 
-May 2020
+October 2020
