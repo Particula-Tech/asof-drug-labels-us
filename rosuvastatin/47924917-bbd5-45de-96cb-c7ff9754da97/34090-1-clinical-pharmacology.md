@@ -65,12 +65,12 @@ However, due to AstraZeneca’s marketing exclusivity rights, this drug product 
 
 Geriatric Patients
 
-There were no differences in plasma concentrations of rosuvastatin between the nonelderly and elderly populations (age ≥ 65 years).
+There were no differences in plasma concentrations of rosuvastatin between the nonelderly and elderly populations (age ≥65 years).
 
 Patients with Renal Impairment
 
-Mild to moderate renal impairment (CLcr ≥ 30 mL/min/1.73 m2) had no influence on plasma concentrations of rosuvastatin.
-However, plasma concentrations of rosuvastatin increased to a clinically significant extent (about 3-fold) in patients with severe renal impairment (CLcr < 30 mL/min/1.73 m2) not receiving hemodialysis compared with healthy subjects (CLcr > 80 mL/min/1.73 m2).
+Mild to moderate renal impairment (CLcr ≥30 mL/min/1.73 m2) had no influence on plasma concentrations of rosuvastatin.
+However, plasma concentrations of rosuvastatin increased to a clinically significant extent (about 3-fold) in patients with severe renal impairment (CLcr <30 mL/min/1.73 m2) not receiving hemodialysis compared with healthy subjects (CLcr >80 mL/min/1.73 m2).
 
 Hemodialysis
 
@@ -88,7 +88,7 @@ In patients with Child-Pugh B disease, Cmax and AUC were increased 100% and 21%,
 Rosuvastatin clearance is not dependent on metabolism by cytochrome P450 3A4 to a clinically significant extent.
 
 Rosuvastatin is a substrate for certain transporter proteins including the hepatic uptake transporter organic anion-transporting polyprotein 1B1 (OATP1B1) and efflux transporter breast cancer resistance protein (BCRP).
-Concomitant administration of rosuvastatin with medications that are inhibitors of these transporter proteins (e.g., cyclosporine, certain HIV protease inhibitors) may result in increased rosuvastatin plasma concentrations [see Dosage and Administration (2.4)] and Drug Interactions (7.1, 7.3)].
+Concomitant administration of rosuvastatin with medications that are inhibitors of these transporter proteins (e.g., cyclosporine, certain HIV protease inhibitors) may result in increased rosuvastatin plasma concentrations [see Dosage and Administration (2.4) and Drug Interactions (7.1, 7.3)].
 
 Table 4.
 Effect of Coadministered Drugs on Rosuvastatin Systemic Exposure
@@ -144,7 +144,7 @@ Effect of Rosuvastatin Coadministration on Systemic Exposure to Other Drugs
 
 EE = ethinyl estradiol, NG = norgestrel, QD= Once daily
 
-1 Clinically significant pharmacodynamic effects [see Warnings and Precautions (5.3)]
+1 Clinically significant pharmacodynamic effects [see Warnings and Precautions (5.4)]
 
 2 Mean ratio with 90% CI (with/without coadministered drug, e.g., 1= no change, 0.7=30% decrease, 11=11-fold increase in exposure)
 

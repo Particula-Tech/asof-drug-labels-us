@@ -25,7 +25,7 @@ Edema, hemorrhage, and partial necrosis in the interstitium of the choroid plexu
 Corneal opacity was seen in dogs treated for 52 weeks at 6 mg/kg/day by oral gavage (systemic exposures 20 times the human exposure at 40 mg/day based on AUC).
 Cataracts were seen in dogs treated for 12 weeks by oral gavage at 30 mg/kg/day (systemic exposures 60 times the human exposure at 40 mg/day based on AUC).
 Retinal dysplasia and retinal loss were seen in dogs treated for 4 weeks by oral gavage at 90 mg/kg/day (systemic exposures 100 times the human exposure at 40 mg/day based on AUC).
-Doses ≤ 30 mg/kg/day (systemic exposures ≤ 60 times the human exposure at 40 mg/day based on AUC) did not reveal retinal findings during treatment for up to one year.
+Doses ≤30 mg/kg/day (systemic exposures ≤60 times the human exposure at 40 mg/day based on AUC) did not reveal retinal findings during treatment for up to one year.
 
 Juvenile Toxicology Study
 

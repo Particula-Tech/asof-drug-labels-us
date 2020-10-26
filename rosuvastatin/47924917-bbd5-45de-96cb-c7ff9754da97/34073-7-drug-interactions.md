@@ -40,7 +40,7 @@ If used together, the dose of rosuvastatin should not exceed 10 mg once daily [s
 
 Rosuvastatin significantly increased INR in patients receiving coumarin anticoagulants.
 Therefore, caution should be exercised when coumarin anticoagulants are given in conjunction with rosuvastatin.
-In patients taking coumarin anticoagulants and rosuvastatin concomitantly, INR should be determined before starting rosuvastatin and frequently enough during early therapy to ensure that no significant alteration of INR occurs [see Warnings and Precautions (5.3) and Clinical Pharmacology (12.3)].
+In patients taking coumarin anticoagulants and rosuvastatin concomitantly, INR should be determined before starting rosuvastatin and frequently enough during early therapy to ensure that no significant alteration of INR occurs [see Warnings and Precautions (5.4) and Clinical Pharmacology (12.3)].
 
 ## 7.7 Niacin
 

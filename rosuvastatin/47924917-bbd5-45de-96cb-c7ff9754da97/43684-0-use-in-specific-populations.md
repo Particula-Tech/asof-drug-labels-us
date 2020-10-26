@@ -67,13 +67,13 @@ Elderly patients are at higher risk of myopathy and rosuvastatin should be presc
 
 ## 8.6 Renal Impairment
 
-Rosuvastatin exposure is not influenced by mild to moderate renal impairment (CLcr ≥ 30 mL/min/1.73 m2).
+Rosuvastatin exposure is not influenced by mild to moderate renal impairment (CLcr ≥30 mL/min/1.73 m2).
 Exposure to rosuvastatin is increased to a clinically significant extent in patients with severe renal impairment (CLcr <30 mL/min/1.73 m2) who are not receiving hemodialysis and dose adjustment is required [see Dosage and Administration (2.5), Warnings and Precautions (5.1) and Clinical Pharmacology (12.3)].
 
 ## 8.7 Hepatic Impairment
 
 Rosuvastatin is contraindicated in patients with active liver disease, which may include unexplained persistent elevations of hepatic transaminase levels.
-Chronic alcohol liver disease is known to increase rosuvastatin exposure; rosuvastatin should be used with caution in these patients [see Contraindications (4), Warnings and Precautions (5.2) and Clinical Pharmacology (12.3)].
+Chronic alcohol liver disease is known to increase rosuvastatin exposure; rosuvastatin should be used with caution in these patients [see Contraindications (4), Warnings and Precautions (5.3) and Clinical Pharmacology (12.3)].
 
 ## 8.8 Asian Patients
 

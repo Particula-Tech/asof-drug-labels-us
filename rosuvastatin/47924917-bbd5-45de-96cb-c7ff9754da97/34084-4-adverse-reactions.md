@@ -3,7 +3,7 @@
 The following serious adverse reactions are discussed in greater detail in other sections of the label:
 
 - Rhabdomyolysis with myoglobinuria and acute renal failure and myopathy (including myositis) [see Warnings and Precautions (5.1)]
-- Liver enzyme abnormalities [see Warnings and Precautions (5.2)]
+- Liver enzyme abnormalities [see Warnings and Precautions (5.3)]
 
 ## 6.1 Clinical Studies Experience
 
@@ -16,7 +16,7 @@ The most common adverse reactions that led to treatment discontinuation were:
 - abdominal pain
 - nausea
 
-The most commonly reported adverse reactions (incidence ≥ 2%) in the rosuvastatin controlled clinical trial database of 5394 patients were:
+The most commonly reported adverse reactions (incidence ≥2%) in the rosuvastatin controlled clinical trial database of 5394 patients were:
 
 - headache
 - myalgia
@@ -24,11 +24,11 @@ The most commonly reported adverse reactions (incidence ≥ 2%) in the rosuvasta
 - asthenia
 - nausea
 
-Adverse reactions reported in ≥ 2% of patients in placebo-controlled clinical studies and at a rate greater than placebo are shown in Table 1.
+Adverse reactions reported in ≥2% of patients in placebo-controlled clinical studies and at a rate greater than placebo are shown in Table 1.
 These studies had a treatment duration of up to 12 weeks.
 
 Table 1.
-Adverse Reactions1 Reported in ≥ 2% of Patients Treated with Rosuvastatin and > Placebo in Placebo-Controlled Trials (% of Patients)
+Adverse Reactions1 Reported in ≥2% of Patients Treated with Rosuvastatin and > Placebo in Placebo-Controlled Trials (% of Patients)
 
 | Adverse Reactions | Rosuvastatin 5 mg N=291 | Rosuvastatin 10 mg N=283 | Rosuvastatin 20 mg N=64 | Rosuvastatin 40 mg N=106 | Total Rosuvastatin 5 mg to 40 mg N=744 | Placebo N=382 |
 | --- | --- | --- | --- | --- | --- | --- |
@@ -41,15 +41,15 @@ Adverse Reactions1 Reported in ≥ 2% of Patients Treated with Rosuvastatin and 
 1 Adverse reactions by COSTART preferred term.
 
 Other adverse reactions reported in clinical studies were abdominal pain, dizziness, hypersensitivity (including rash, pruritus, urticaria, and angioedema) and pancreatitis.
-The following laboratory abnormalities have also been reported: dipstick-positive proteinuria and microscopic hematuria [see Warnings and Precautions (5.4)]; elevated creatine phosphokinase, transaminases, glucose, glutamyl transpeptidase, alkaline phosphatase, and bilirubin; and thyroid function abnormalities.
+The following laboratory abnormalities have also been reported: dipstick-positive proteinuria and microscopic hematuria [see Warnings and Precautions (5.5)]; elevated creatine phosphokinase, transaminases, glucose, glutamyl transpeptidase, alkaline phosphatase, and bilirubin; and thyroid function abnormalities.
 
 In a clinical trial, involving 981 participants treated with rosuvastatin 40 mg (n=700) or placebo (n=281) with a mean treatment duration of 1.7 years, 5.6% of subjects treated with rosuvastatin versus 2.8% of placebo-treated subjects discontinued due to adverse reactions.
 The most common adverse reactions that led to treatment discontinuation were: myalgia, hepatic enzyme increased, headache, and nausea.
 
-Adverse reactions reported in ≥ 2% of patients and at a rate greater than placebo are shown in Table 2.
+Adverse reactions reported in ≥2% of patients and at a rate greater than placebo are shown in Table 2.
 
 Table 2.
-Adverse Reactions1 Reported in ≥ 2% of Patients Treated with Rosuvastatin and > Placebo in a Trial (% of Patients)
+Adverse Reactions1 Reported in ≥2% of Patients Treated with Rosuvastatin and > Placebo in a Trial (% of Patients)
 
 | Adverse Reactions | Rosuvastatin 40 mg N=700 | Placebo N=281 |
 | --- | --- | --- |
@@ -71,12 +71,12 @@ Myalgia was the most common adverse reaction that led to treatment discontinuati
 
 There was a significantly higher frequency of diabetes mellitus reported in patients taking rosuvastatin (2.8%) versus patients taking placebo (2.3%).
 Mean HbA1c was significantly increased by 0.1% in rosuvastatin-treated patients compared to placebo-treated patients.
-The number of patients with a HbA1c > 6.5% at the end of the trial was significantly higher in rosuvastatin-treated versus placebo-treated patients [see Warnings and Precautions (5.5)].
+The number of patients with a HbA1c >6.5% at the end of the trial was significantly higher in rosuvastatin-treated versus placebo-treated patients [see Warnings and Precautions (5.6)].
 
-Adverse reactions reported in ≥ 2% of patients and at a rate greater than placebo are shown in Table 3.
+Adverse reactions reported in ≥2% of patients and at a rate greater than placebo are shown in Table 3.
 
 Table 3.
-Adverse Reactions1Reported in ≥ 2% of Patients Treated with Rosuvastatin and > Placebo in a Trial (% of Patients)
+Adverse Reactions1Reported in ≥2% of Patients Treated with Rosuvastatin and > Placebo in a Trial (% of Patients)
 
 | Adverse Reactions | Rosuvastatin 20 mg N=8901 | Placebo N=8901 |
 | --- | --- | --- |
@@ -92,7 +92,7 @@ Adverse Reactions1Reported in ≥ 2% of Patients Treated with Rosuvastatin and >
 
 The following adverse reactions have been identified during postapproval use of rosuvastatin: arthralgia, fatal and non-fatal hepatic failure, hepatitis, jaundice, thrombocytopenia, depression, sleep disorders (including insomnia and nightmares), peripheral neuropathy, interstitial lung disease and gynecomastia.
 Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
-There have been rare reports of immune-mediated necrotizing myopathy associated with statin use [see Warnings and Precautions (5.1)].
+There have been rare reports of immune-mediated necrotizing myopathy associated with statin use [see Warnings and Precautions (5.2)].
 There have been rare postmarketing reports of cognitive impairment (e.g., memory loss, forgetfulness, amnesia, memory impairment, and confusion) associated with statin use.
 These cognitive issues have been reported for all statins.
 The reports are generally nonserious, and reversible upon statin discontinuation, with variable times to symptom onset (1 day to years) and symptom resolution (median of 3 weeks).
