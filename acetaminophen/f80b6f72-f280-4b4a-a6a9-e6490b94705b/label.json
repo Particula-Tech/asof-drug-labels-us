@@ -1,0 +1,20 @@
+{
+  "application_numbers": [
+    "ANDA210969"
+  ],
+  "inn": "acetaminophen",
+  "labeler": "AuroMedics Pharma LLC",
+  "package_ndcs": [
+    "55150-307-01",
+    "55150-307-24"
+  ],
+  "products": [
+    {
+      "form": "INJECTION, SOLUTION",
+      "generic": "acetaminophen",
+      "name": "Acetaminophen"
+    }
+  ],
+  "setid": "f80b6f72-f280-4b4a-a6a9-e6490b94705b",
+  "source": "dailymed"
+}
