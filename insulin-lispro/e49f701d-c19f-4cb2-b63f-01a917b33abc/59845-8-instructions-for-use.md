@@ -162,7 +162,7 @@ This Instructions for Use has been approved by the U.S. Food and Drug Administra
 
 Mix75/25™ and KwikPen® are trademarks of Eli Lilly and Company.
 
-Issued: February 2020
+Issued: June 2020
 
 Manufactured by Eli Lilly and Company Indianapolis, IN 46285, USA
 
@@ -172,4 +172,4 @@ All rights reserved.
 | Insulin Lispro Protamine and Insulin Lispro Injectable Suspension Mix75/25 KwikPen meets the current dose accuracy and functional requirements of ISO 11608-1. |
 | --- |
 
-ILPILIS7525KP-0001-IFU-20200207
+ILPILIS7525KP-0002-IFU-20200609
