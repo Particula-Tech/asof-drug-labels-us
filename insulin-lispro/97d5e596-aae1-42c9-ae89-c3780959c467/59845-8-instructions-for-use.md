@@ -285,7 +285,7 @@ This Instructions for Use has been approved by the U.S. Food and Drug Administra
 
 KwikPen® is a registered trademark of Eli Lilly and Company.
 
-Revised: February 2020
+Revised: June 2020
 
 Manufactured by Eli Lilly and Company Indianapolis, IN 46285, USA
 
@@ -295,7 +295,7 @@ All rights reserved.
 | Insulin Lispro Injection KwikPen meets the current dose accuracy and functional requirements of ISO 11608-1. |
 | --- |
 
-LISKP-0004-IFU-20200212
+LISKP-0005-IFU-20200609
 
 Instructions for Use
 
