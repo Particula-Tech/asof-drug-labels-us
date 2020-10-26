@@ -112,10 +112,6 @@ Risk factors for developing acute angle-closure glaucoma may include a history o
 
 # PRECAUTIONS
 
-## Patient Information
-
-Non-melanoma Skin Cancer: Instruct patients taking hydrochlorothiazide to protect skin from the sun and undergo regular skin cancer screening.
-
 ## General
 
 Serum Electrolyte Abnormalities
@@ -161,6 +157,8 @@ All patients should be cautioned that inadequate fluid intake, excessive perspir
 Hyperkalemia: A patient receiving Lotensin HCT should be told not to use potassium supplements or salt substitutes containing potassium without consulting the prescribing physician.
 
 Neutropenia: Patients should be told to promptly report any indication of infection (e.g., sore throat, fever), which could be a sign of neutropenia.
+
+Non-melanoma Skin Cancer: Instruct patients taking hydrochlorothiazide to protect skin from the sun and undergo regular skin cancer screening.
 
 ## Laboratory Tests
 

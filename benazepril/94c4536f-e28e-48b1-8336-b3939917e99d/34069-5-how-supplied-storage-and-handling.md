@@ -28,4 +28,4 @@ Manufactured for and Distributed by: Validus Pharmaceuticals LLC 119 Cherry Hill
 
 © 2020 Validus Pharmaceuticals LLC
 
-60024-04 May 2020
+60024-05 October 2020
