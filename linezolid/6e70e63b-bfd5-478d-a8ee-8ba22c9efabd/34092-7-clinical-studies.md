@@ -101,9 +101,9 @@ The cure rate was higher in the high-dose arm than in the low-dose arm, although
 Table 15.
 Cure Rates at the Test-of-Cure Visit for ITT Adult Patients with Documented Vancomycin-Resistant Enterococcal Infections at Baseline
 
-| Source of Infection | ZYVOX 600 mg every 12 hours n/N (%) | ZYVOX 200 mg every 12 hours n/N (%) |
+| ZYVOX 600 mg every 12 hours n/N (%) | ZYVOX 200 mg every 12 hours n/N (%) |  |
 | --- | --- | --- |
-|  | Cured |  |
+| Source of Infection | Cured |  |
 | Any site | 39/58 (67) | 24/46 (52) |
 | Any site with associated bacteremia | 10/17 (59) | 4/14 (29) |
 | Bacteremia of unknown origin | 5/10 (50) | 2/7 (29) |

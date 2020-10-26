@@ -153,7 +153,7 @@ Because these reactions are reported voluntarily from a population of uncertain 
   Although these reports have primarily been in patients treated for longer than the maximum recommended duration of 28 days, these events have also been reported in patients receiving shorter courses of therapy.
 - Serotonin syndrome has been reported in patients receiving concomitant serotonergic agents, including antidepressants such as selective serotonin reuptake inhibitors (SSRIs) and ZYVOX [see Warnings and Precautions (5.3)].
 - Convulsions [see Warnings and Precautions (5.8)].
-- Anaphylaxis, angioedema, and bullous skin disorders including severe cutaneous adverse reactions (SCAR) such as toxic epidermal necrolysis and Stevens-Johnson syndrome.
+- Anaphylaxis, angioedema, bullous skin disorders including severe cutaneous adverse reactions (SCAR) such as toxic epidermal necrolysis and Stevens-Johnson syndrome, and hypersensitivity vasculitis.
 - Superficial tooth discoloration and tongue discoloration have been reported with the use of linezolid.
   The tooth discoloration was removable with professional dental cleaning (manual descaling) in cases with known outcome.
 - Hypoglycemia, including symptomatic episodes [see Warnings and Precautions (5.9)].

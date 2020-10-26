@@ -32,7 +32,7 @@ ZYVOX for Oral Suspension is supplied as follows:
 
 ## 16.4 Storage and Handling
 
-Store at 25°C (77°F).
+Store at 25ºC (77ºF).
 Protect from light.
 Keep bottles tightly closed to protect from moisture.
 It is recommended that the infusion bags be kept in the overwrap until ready to use.
