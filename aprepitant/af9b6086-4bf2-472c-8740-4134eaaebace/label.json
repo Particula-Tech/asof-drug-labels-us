@@ -1,0 +1,33 @@
+{
+  "application_numbers": [
+    "ANDA211835"
+  ],
+  "inn": "aprepitant",
+  "labeler": "Torrent Pharmaceuticals Limited",
+  "package_ndcs": [
+    "13668-591-80",
+    "13668-591-81",
+    "13668-591-82",
+    "13668-592-83",
+    "13668-592-84",
+    "13668-592-85",
+    "13668-592-86",
+    "13668-593-80",
+    "13668-593-86",
+    "13668-594-87"
+  ],
+  "products": [
+    {
+      "form": "CAPSULE",
+      "generic": "aprepitant",
+      "name": "APREPITANT"
+    },
+    {
+      "form": "KIT",
+      "generic": "aprepitant",
+      "name": "APREPITANT"
+    }
+  ],
+  "setid": "af9b6086-4bf2-472c-8740-4134eaaebace",
+  "source": "dailymed"
+}
