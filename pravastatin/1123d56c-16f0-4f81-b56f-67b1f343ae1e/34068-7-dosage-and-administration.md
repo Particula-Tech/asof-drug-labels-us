@@ -27,20 +27,20 @@ Adolescents (Ages 14 to 18 Years)
 The recommended starting dose is 40 mg once daily in adolescents 14 to 18 years of age.
 Doses greater than 40 mg have not been studied in this patient population.
 
-Children and adolescents treated with pravastatin should be reevaluated in adulthood and appropriate changes made to their cholesterol-lowering regimen to achieve adult goals for LDL-C [see INDICATIONS AND USAGE (1.2)].
+Children and adolescents treated with pravastatin should be reevaluated in adulthood and appropriate changes made to their cholesterol-lowering regimen to achieve adult goals for LDL-C [see Indications and Usage (1.2)].
 
 ## 2.5 Concomitant Lipid-Altering Therapy
 
 Pravastatin sodium may be used with bile acid resins.
 When administering a bile-acid-binding resin (e.g., cholestyramine, colestipol) and pravastatin, pravastatin sodium should be given either 1 hour or more before or at least 4 hours following the resin.
-[See CLINICAL PHARMACOLOGY (12.3).]
+[See Clinical Pharmacology (12.3).]
 
 ## 2.6 Dosage in Patients Taking Cyclosporine
 
 In patients taking immunosuppressive drugs such as cyclosporine concomitantly with pravastatin, therapy should begin with 10 mg of pravastatin sodium once-a-day at bedtime and titration to higher doses should be done with caution.
 Most patients treated with this combination received a maximum pravastatin sodium dose of 20 mg/day.
-In patients taking cyclosporine, therapy should be limited to 20 mg of pravastatin sodium once daily [see WARNINGS AND PRECAUTIONS (5.1) and DRUG INTERACTIONS (7.1)].
+In patients taking cyclosporine, therapy should be limited to 20 mg of pravastatin sodium once daily [see Warnings and Precautions (5.1) and Drug Interactions (7.1)].
 
 ## 2.7 Dosage in Patients Taking Clarithromycin
 
-In patients taking clarithromycin, therapy should be limited to 40 mg of pravastatin sodium once daily [see DRUG INTERACTIONS (7.2)].
+In patients taking clarithromycin, therapy should be limited to 40 mg of pravastatin sodium once daily [see Drug Interactions (7.2)].

@@ -89,7 +89,7 @@ Musculoskeletal:
 
 Myopathy, rhabdomyolysis, tendon disorder, polymyositis
 
-There have been rare reports of immune-mediated necrotizing myopathy associated with statin use [see WARNINGS AND PRECAUTIONS (5.1)].
+There have been rare reports of immune-mediated necrotizing myopathy associated with statin use [see Warnings and Precautions (5.2)].
 
 Nervous System:
 
@@ -133,7 +133,7 @@ Liver function test abnormalities, thyroid function abnormalities.
 
 ## 6.3 Laboratory Test Abnormalities
 
-Increases in ALT, AST values and CPK have been observed [see WARNINGS AND PRECAUTIONS (5.1, 5.2)].
+Increases in ALT, AST values and CPK have been observed [see Warnings and Precautions (5.1, 5.3)].
 
 Transient, asymptomatic eosinophilia has been reported.
 Eosinophil counts usually returned to normal despite continued therapy.
@@ -143,4 +143,4 @@ Anemia, thrombocytopenia, and leukopenia have been reported with statins.
 
 In a 2-year, double-blind, placebo-controlled study involving 100 boys and 114 girls with HeFH (n=214; age range 8 to 18.5 years, 53% female, 95% Caucasians, <1% Blacks, 3% Asians, 1% Other), the safety and tolerability profile of pravastatin was generally similar to that of placebo.
 
-[See WARNINGS AND PRECAUTIONS (5.3), USE IN SPECIFIC POPULATIONS (8.4), and CLINICAL PHARMACOLOGY (12.3).]
+[See Warnings and Precautions (5.4), Use in Specific Populations (8.4), and Clinical Pharmacology (12.3).]

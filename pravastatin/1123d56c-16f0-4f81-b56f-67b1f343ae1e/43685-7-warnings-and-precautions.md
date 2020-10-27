@@ -6,13 +6,10 @@ Rare cases of rhabdomyolysis with acute renal failure secondary to myoglobinuria
 A history of renal impairment may be a risk factor for the development of rhabdomyolysis.
 Such patients merit closer monitoring for skeletal muscle effects.
 
-Uncomplicated myalgia has also been reported in pravastatin-treated patients [see ADVERSE REACTIONS (6)].
+Uncomplicated myalgia has also been reported in pravastatin-treated patients [see Adverse Reactions (6)].
 Myopathy, defined as muscle aching or muscle weakness in conjunction with increases in creatine phosphokinase (CPK) values to greater than 10 times the ULN, was rare (<0.1%) in pravastatin clinical trials.
 Myopathy should be considered in any patient with diffuse myalgias, muscle tenderness or weakness, and/or marked elevation of CPK.
 Predisposing factors include advanced age (≥65), uncontrolled hypothyroidism, and renal impairment.
-
-There have been rare reports of immune-mediated necrotizing myopathy (IMNM), an autoimmune myopathy, associated with statin use.
-IMNM is characterized by: proximal muscle weakness and elevated serum CPK, which persist despite discontinuation of statin treatment; muscle biopsy showing necrotizing myopathy without significant inflammation and improvement with immunosuppressive agents.
 
 All patients should be advised to promptly report to their physician unexplained muscle pain, tenderness, or weakness, particularly if accompanied by malaise or fever or if muscle signs and symptoms persist after discontinuing pravastatin.
 
@@ -28,12 +25,21 @@ There was a trend toward more frequent CPK elevations and patient withdrawals du
 The use of fibrates alone may occasionally be associated with myopathy.
 The benefit of further alterations in lipid levels by the combined use of pravastatin sodium with fibrates should be carefully weighed against the potential risks of this combination.
 
-Cases of myopathy, including rhabdomyolysis, have been reported with pravastatin coadministered with colchicine, and caution should be exercised when prescribing pravastatin with colchicine [see DRUG INTERACTIONS (7.3)].
+Cases of myopathy, including rhabdomyolysis, have been reported with pravastatin coadministered with colchicine, and caution should be exercised when prescribing pravastatin with colchicine [see Drug Interactions (7.3)].
 
-## 5.2 Liver
+## 5.2 Immune-Mediated Necrotizing Myopathy
+
+There have been rare reports of immune-mediated necrotizing myopathy (IMNM), an autoimmune myopathy, associated with statin use.
+IMNM is characterized by: proximal muscle weakness and elevated serum creatine kinase, which persist despite discontinuation of statin treatment; positive anti-HMG CoA reductase antibody; muscle biopsy showing necrotizing myopathy; and improvement with immunosuppressive agents.
+Additional neuromuscular and serologic testing may be necessary.
+Treatment with immunosuppressive agents may be required.
+Consider risk of IMNM carefully prior to initiation of a different statin.
+If therapy is initiated with a different statin, monitor for signs and symptoms of IMNM.
+
+## 5.3 Liver
 
 Statins, like some other lipid-lowering therapies, have been associated with biochemical abnormalities of liver function.
-In 3 long-term (4.8 to 5.9 years), placebo-controlled clinical trials (WOS, LIPID, CARE), 19,592 subjects (19,768 randomized) were exposed to pravastatin or placebo [see CLINICAL STUDIES (14)].
+In 3 long-term (4.8 to 5.9 years), placebo-controlled clinical trials (WOS, LIPID, CARE), 19,592 subjects (19,768 randomized) were exposed to pravastatin or placebo [see Clinical Studies (14)].
 In an analysis of serum transaminase values (ALT, AST), incidences of marked abnormalities were compared between the pravastatin and placebo treatment groups; a marked abnormality was defined as a post-treatment test value greater than 3 times the ULN for subjects with pretreatment values less than or equal to the ULN, or 4 times the pretreatment value for subjects with pretreatment values greater than the ULN but less than 1.5 times the ULN.
 Marked abnormalities of ALT or AST occurred with similar low frequency (≤1.2%) in both treatment groups.
 Overall, clinical trial experience showed that liver function test abnormalities observed during pravastatin therapy were usually asymptomatic, not associated with cholestasis, and did not appear to be related to treatment duration.
@@ -44,14 +50,14 @@ Conclusions regarding liver safety are limited since the study was not large eno
 
 It is recommended that liver function tests be performed prior to the initiation of therapy and when clinically indicated.
 
-Active liver disease or unexplained persistent transaminase elevations are contraindications to the use of pravastatin [see CONTRAINDICATIONS (4.2)].
+Active liver disease or unexplained persistent transaminase elevations are contraindications to the use of pravastatin [see Contraindications (4.2)].
 Caution should be exercised when pravastatin is administered to patients who have a recent (<6 months) history of liver disease, have signs that may suggest liver disease (e.g., unexplained aminotransferase elevations, jaundice), or are heavy users of alcohol.
 
 There have been rare postmarketing reports of fatal and non-fatal hepatic failure in patients taking statins, including pravastatin.
 If serious liver injury with clinical symptoms and/or hyperbilirubinemia or jaundice occurs during treatment with pravastatin sodium, promptly interrupt therapy.
 If an alternate etiology is not found do not restart pravastatin sodium.
 
-## 5.3 Endocrine Function
+## 5.4 Endocrine Function
 
 Statins interfere with cholesterol synthesis and lower circulating cholesterol levels and, as such, might theoretically blunt adrenal or gonadal steroid hormone production.
 Results of clinical trials with pravastatin in males and post-menopausal females were inconsistent with regard to possible effects of the drug on basal steroid hormone levels.

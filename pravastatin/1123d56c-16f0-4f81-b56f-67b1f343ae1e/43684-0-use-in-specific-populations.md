@@ -5,7 +5,7 @@
 Risk Summary
 
 Pravastatin sodium is contraindicated for use in pregnant woman because of the potential for fetal harm.
-As safety in pregnant women has not been established and there is no apparent benefit to therapy with pravastatin sodium during pregnancy, pravastatin should be immediately discontinued as soon as pregnancy is recognized [see CONTRAINDICATIONS (4.3)].
+As safety in pregnant women has not been established and there is no apparent benefit to therapy with pravastatin sodium during pregnancy, pravastatin should be immediately discontinued as soon as pregnancy is recognized [see Contraindications (4.3)].
 Limited published data on the use of pravastatin in pregnant women are insufficient to determine a drug-associated risk of major congenital malformations or miscarriage.
 In animal reproduction studies, no evidence of fetal malformations was seen in rabbits or rats exposed to 10 times to 120 times, respectively, the maximum recommended human dose (MRHD) of 80 mg/day.
 Fetal skeletal abnormalities, offspring mortality, and developmental delays occurred when pregnant rats were administered 10 times to 12 times the MRHD during organogenesis to parturition [see Data].
@@ -42,7 +42,7 @@ In lactating rats, up to 7 times higher levels of pravastatin are present in the
 
 Risk Summary
 
-Pravastatin use is contraindicated during breastfeeding [see CONTRAINDICATIONS (4.4)].
+Pravastatin use is contraindicated during breastfeeding [see Contraindications (4.4)].
 Based on one lactation study in published literature, pravastatin is present in human milk.
 There is no available information on the effects of the drug on the breastfed infant or the effects of the drug on milk production.
 Because of the potential for serious adverse reactions in a breastfed infant, advise patients that breastfeeding is not recommended during treatment with pravastatin sodium.
@@ -53,17 +53,17 @@ Contraception
 
 Females:
 
-Pravastatin may cause fetal harm when administered to a pregnant woman [see USE IN SPECIFIC POPULATIONS (8.1)].
+Pravastatin may cause fetal harm when administered to a pregnant woman [see Use in Specific Populations (8.1)].
 Advise females of reproductive potential to use effective contraception during treatment with pravastatin.
 
 ## 8.4 Pediatric Use
 
 The safety and effectiveness of pravastatin sodium in children and adolescents from 8 to 18 years of age have been evaluated in a placebo-controlled study of 2 years duration.
 Patients treated with pravastatin had an adverse experience profile generally similar to that of patients treated with placebo with influenza and headache commonly reported in both treatment groups.
-[See ADVERSE REACTIONS (6.4).]
+[See Adverse Reactions (6.4).]
 Doses greater than 40 mg have not been studied in this population.
-Children and adolescent females of childbearing potential should be counseled on appropriate contraceptive methods while on pravastatin therapy [see CONTRAINDICATIONS (4.3) and USE IN SPECIFIC POPULATIONS (8.1)].
-For dosing information [see DOSAGE AND ADMINISTRATION (2.4)].
+Children and adolescent females of childbearing potential should be counseled on appropriate contraceptive methods while on pravastatin therapy [see Contraindications (4.3) and Use in Specific Populations (8.1)].
+For dosing information [see Dosage and Administration (2.4)].
 
 Double-blind, placebo-controlled pravastatin studies in children less than 8 years of age have not been conducted.
 
@@ -75,9 +75,9 @@ The beneficial effect of pravastatin in elderly subjects in reducing cardiovascu
 The adverse event profile in the elderly was similar to that in the overall population.
 Other reported clinical experience has not identified differences in responses to pravastatin between elderly and younger patients.
 
-Mean pravastatin AUCs are slightly (25% to 50%) higher in elderly subjects than in healthy young subjects, but mean maximum plasma concentration (Cmax), time to maximum plasma concentration (Tmax), and half-life (t½) values are similar in both age groups and substantial accumulation of pravastatin would not be expected in the elderly [see CLINICAL PHARMACOLOGY (12.3)].
+Mean pravastatin AUCs are slightly (25% to 50%) higher in elderly subjects than in healthy young subjects, but mean maximum plasma concentration (Cmax), time to maximum plasma concentration (Tmax), and half-life (t½) values are similar in both age groups and substantial accumulation of pravastatin would not be expected in the elderly [see Clinical Pharmacology (12.3)].
 
-Since advanced age (≥65 years) is a predisposing factor for myopathy, pravastatin sodium should be prescribed with caution in the elderly [see WARNINGS AND PRECAUTIONS (5.1) and CLINICAL PHARMACOLOGY (12.3)].
+Since advanced age (≥65 years) is a predisposing factor for myopathy, pravastatin sodium should be prescribed with caution in the elderly [see Warnings and Precautions (5.1) and Clinical Pharmacology (12.3)].
 
 ## 8.6 Homozygous Familial Hypercholesterolemia
 
