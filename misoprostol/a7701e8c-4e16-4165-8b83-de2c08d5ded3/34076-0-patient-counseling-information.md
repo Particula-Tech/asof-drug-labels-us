@@ -53,3 +53,6 @@ Alert patients that NSAIDs may be present in "over the counter" medications for 
 Use of NSAIDS and Low-Dose Aspirin
 
 Inform patients not to use low-dose aspirin concomitantly with diclofenac sodium/misoprostol until they talk to their healthcare provider [see Drug Interactions (7)].
+
+This product's labeling may have been updated.
+For the most recent prescribing information, please visit www.greenstonellc.com.

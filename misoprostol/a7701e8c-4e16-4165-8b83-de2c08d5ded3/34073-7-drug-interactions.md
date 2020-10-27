@@ -1,8 +1,8 @@
 # 7 DRUG INTERACTIONS
 
-See Table 1 for clinically significant drug interactions with diclofenac/misoprostol.
+See Table 1 for clinically significant drug interactions with diclofenac and misoprostol.
 
-Table 1: Clinically Significant Drug Interactions with Diclofenac/Misoprostol
+Table 1: Clinically Significant Drug Interactions with Diclofenac and Misoprostol
 
 | Drugs That Interfere with Hemostasis |  |
 | --- | --- |
@@ -34,7 +34,7 @@ Table 1: Clinically Significant Drug Interactions with Diclofenac/Misoprostol
 | Intervention: | The concomitant use of diclofenac sodium/misoprostol with other NSAIDs or salicylates is not recommended. |
 | Pemetrexed |  |
 | Clinical Impact: | Concomitant use of diclofenac and pemetrexed may increase the risk of pemetrexed-associated myelosuppression, renal, and GI toxicity (see the pemetrexed prescribing information). |
-| Intervention: | During concomitant use of diclofenac sodium/misoprostol and pemetrexed, in patients with renal impairment whose creatinine clearance ranges from 45 to 79 mL/min, monitor for myelosuppression, renal and GI toxicity. NSAIDs with short elimination half-lives (e.g., diclofenac, indomethacin) should be avoided for a period of two days before, the day of, and two days following administration of pemetrexed. In the absence of data regarding potential interaction between pemetrexed and NSAIDs with longer half-lives (e.g., meloxicam, nabumetone), patients taking these NSAIDs should interrupt dosing for at least five days before, the day of, and two days following pemetrexed administration. |
+| Intervention: | During concomitant use of diclofenac sodium/misoprostol and pemetrexed, in patients with renal impairment whose creatinine clearance ranges from 45 to 79 mL/min, monitor for myelosuppression, renal and GI toxicity. Avoid diclofenac sodium/misoprostol for a period of two days before, the day of, and two days following administration of pemetrexed. |
 | Antacids |  |
 | Clinical Impact: | Antacids reduce the bioavailability of misoprostol acid. Antacids may also delay absorption of diclofenac. Magnesium-containing antacids exacerbate misoprostol-associated diarrhea. |
 | Intervention: | Concomitant use of diclofenac sodium/misoprostol and magnesium-containing antacids is not recommended. |
@@ -42,5 +42,5 @@ Table 1: Clinically Significant Drug Interactions with Diclofenac/Misoprostol
 | Clinical Impact: | Concomitant use of corticosteroids with diclofenac may increase the risk of GI ulceration or bleeding. |
 | Intervention | Monitor patients with concomitant use of diclofenac sodium/misoprostol with corticosteroids for signs of bleeding [see Warnings and Precautions (5.2)]. |
 | CYP2C9 Inhibitors or Inducers |  |
-| Clinical Impact: | Diclofenac is metabolized by cytochrome P450 enzymes, predominantly by CYP2C9. Co-administration of diclofenac with CYP2C9 inhibitors (e.g. voriconzaole) may enhance the exposure and toxicity of diclofenac [see Clinical Pharmacology (12.3)] whereas co-administration with CYP2C9 inducers (e.g., rifampin) may lead to compromised efficacy of diclofenac. |
+| Clinical Impact: | Diclofenac is metabolized by cytochrome P450 enzymes, predominantly by CYP2C9. Co-administration of diclofenac with CYP2C9 inhibitors (e.g., voriconzaole) may enhance the exposure and toxicity of diclofenac [see Clinical Pharmacology (12.3)] whereas co-administration with CYP2C9 inducers (e.g., rifampin) may lead to compromised efficacy of diclofenac. |
 | Intervention: | CYP 2C9 inhibitors: When concomitant use of CYP2C9 inhibitors is necessary, the total daily dose of diclofenac should not exceed the lowest recommended dose of diclofenac sodium/misoprostol 50 twice daily [see Dosage and Administration (2)]. CYP2C9 inducers: A dosage adjustment may be warranted when diclofenac sodium/misoprostol is administered with CYP2C9 inducers. Administer the separate products of misoprostol and diclofenac if a higher dose of diclofenac is deemed necessary. |

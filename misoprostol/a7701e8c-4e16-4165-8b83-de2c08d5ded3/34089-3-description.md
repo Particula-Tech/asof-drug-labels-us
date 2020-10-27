@@ -1,8 +1,8 @@
 # 11 DESCRIPTION
 
-Diclofenac sodium/misoprostol is a combination product containing diclofenac sodium, a nonsteroidal anti-inflammatory drug (NSAID) with analgesic properties, and misoprostol, a gastrointestinal (GI) mucosal protective prostaglandin E1 analog.
-Diclofenac sodium/misoprostol oral tablets are white to off-white, round, biconvex, and approximately 11 mm in diameter.
-Each tablet consists of an enteric-coated core containing 50 mg (diclofenac sodium/misoprostol 50) or 75 mg (diclofenac sodium/misoprostol 75) diclofenac sodium surrounded by an outer mantle containing 200 mcg misoprostol.
+Diclofenac sodium/misoprostol is a combination product containing diclofenac sodium, a nonsteroidal anti-inflammatory drug (NSAID) with analgesic properties, and misoprostol, a gastrointestinal (GI) mucosal protective prostaglandin-1 (PGE1) analog.
+Diclofenac sodium/misoprostol tablets are white to off-white, round, biconvex, and approximately 11 mm in diameter.
+Each tablet consists of an enteric-coated core containing 50 mg (diclofenac sodium/misoprostol 50) or 75 mg (diclofenac sodium/misoprostol 75) of diclofenac sodium (equivalent to 46.39 mg or 69.58 mg of diclofenac, respectively) surrounded by an outer mantle containing 200 mcg misoprostol.
 
 Diclofenac sodium is a phenylacetic acid derivative that is a white to off-white, virtually odorless, crystalline powder.
 Diclofenac sodium is freely soluble in methanol, soluble in ethanol, and practically insoluble in chloroform and in dilute acid.
