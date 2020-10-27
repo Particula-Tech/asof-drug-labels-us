@@ -1,6 +1,6 @@
 # HOW SUPPLIED
 
-Ampicillin Capsules, USP: Each capsule, for oral administration, contains ampicillin trihydrate equivalent to 250 mg or 500 mg ampicillin, and are supplied as:
+Ampicillin capsules, USP: Each capsule, for oral administration, contains ampicillin trihydrate equivalent to 250 mg or 500 mg ampicillin, and are supplied as:
 
 250 mg: white, opaque, hard gelatin capsules, imprinted in black ink GG 850/GG 850.
 
@@ -17,3 +17,17 @@ NDC 0781-2145-05 in bottles of 500
 Store at 20° to 25°C (68° to 77°F) [see USP Controlled Room Temperature].
 
 Dispense in a tight container.
+
+Clinitest® is a registered trademark of Miles, Inc.
+
+Clinistix® is a registered trademark of Bayer Corporation.
+
+Tes-Tape® is a registered trademark of Eli Lilly Company.
+
+Revised: August 2020
+
+46275512
+
+Manufactured by Sandoz GmbH for
+
+Sandoz Inc., Princeton, NJ 08540

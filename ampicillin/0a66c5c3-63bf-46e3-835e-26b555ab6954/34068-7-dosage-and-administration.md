@@ -1,6 +1,6 @@
 # DOSAGE AND ADMINISTRATION
 
-ADULTS AND CHILDREN WEIGHING OVER 20 KG:
+Adults and children weighing over 20 kg:
 
 For genitourinary or gastrointestinal tract infections other than gonorrhea in men and women, the usual dose is 500 mg qid in equally spaced doses; severe or chronic infections may require larger doses.
 For the treatment of gonorrhea in both men and women, a single oral dose of 3.5 grams of ampicillin administered simultaneously with 1 gram of probenecid is recommended.
@@ -11,18 +11,18 @@ Prolonged intensive therapy is needed for complications such as prostatitis and 
 
 For respiratory tract infections, the usual dose is 250 mg qid in equally spaced doses.
 
-CHILDREN WEIGHING 20 KG OR LESS:
+Pediatric patients weighing 20 kg or less:
 
 For genitourinary or gastrointestinal tract infections, the usual dose is 100 mg/kg/day total, qid in equally divided and spaced doses.
-For respiratory infections, the usual dose is 50 mg/kg/day total, in equally divided and spaced doses three to four times daily.
+For respiratory tract infections, the usual dose is 50 mg/kg/day total, in equally divided and spaced doses three to four times daily.
 Doses for children should not exceed doses recommended for adults.
 
-ALL PATIENTS, IRRESPECTIVE OF AGE AND WEIGHT:
+All Patients, Irrespective of Age and Weight:
 
 Larger doses may be required for severe or chronic infections.
 Although ampicillin is resistant to degradation by gastric acid, it should be administered at least one-half hour before or two hours after meals for maximal absorption.
 Except for the single dose regimen for gonorrhea referred to above, therapy should be continued for a minimum of 48 to 72 hours after the patient becomes asymptomatic or evidence of bacterial eradication has been obtained.
-In infections caused by hemolytic strains of streptococci, a minimum of 10 days’ treatment is recommended to guard against the risk of rheumatic fever of glomerulonephritis (see PRECAUTIONS–Laboratory Tests).
+In infections caused by hemolytic strains of streptococci, a minimum of 10 days’ treatment is recommended to guard against the risk of rheumatic fever or glomerulonephritis (see PRECAUTIONS–Laboratory Tests).
 In the treatment of chronic urinary or gastrointestinal infections, frequent bacteriologic and clinical appraisal is necessary during therapy and may be necessary for several months afterwards.
 Stubborn infections may require treatment for several weeks.
 Smaller doses than those indicated above should not be used.
