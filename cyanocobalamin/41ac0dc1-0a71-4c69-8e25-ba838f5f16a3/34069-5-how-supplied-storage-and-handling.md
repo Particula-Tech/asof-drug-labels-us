@@ -6,7 +6,7 @@
 | 70069- 172 -10 | 10 mL |  |
 | 70069- 172 -25 |  |  |
 
-1 mL vial, packaged 25 vials per tray.
+1 mL multiple dose vial, packaged 25 vials per tray.
 
 10 mL multiple dose vial, packaged as;
 
@@ -22,13 +22,16 @@ Use only if solution is clear and seal intact.
 
 For Product Inquiry call 1-800-417-9175
 
-Manufactured by: Manufactured for:
+Manufactured for:
 
-Wintac Limited Somerset Therapeutics, LLC
+Somerset Therapeutics, LLC
 
-Bangalore 562123 Somerset, NJ 08873
+Hollywood, FL 33024
 
-India.
-ST-CYC/P/03
+Made in India
 
-Code No.: KR/DRUGS/KTK/28/289/97 Revised: 06/2018
+Code No.: KR/DRUGS/KTK/28/289/97
+
+ST-CYC/P/05
+
+Revised: 09/2020

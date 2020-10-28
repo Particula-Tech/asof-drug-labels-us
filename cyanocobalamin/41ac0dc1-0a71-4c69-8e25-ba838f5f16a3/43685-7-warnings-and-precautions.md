@@ -1,6 +1,6 @@
 # WARNINGS
 
-WARNING: This product contains aluminum that may be toxic.
+This product contains aluminum that may be toxic.
 Aluminum may reach toxic levels with prolonged parenteral administration if kidney function is impaired.
 Premature neonates are particularly at risk because their kidneys are immature, and they require large amounts of calcium and phosphate solutions, which contain aluminum.
 
@@ -67,7 +67,7 @@ Pernicious anemia is associated with an increased incidence of carcinoma of the 
 
 ## Pregnancy
 
-Pregnancy Category C—Adequate and well-controlled studies have not been done in pregnant women.
+Adequate and well-controlled studies have not been done in pregnant women.
 However, Vitamin B12 is an essential vitamin and requirements are increased during pregnancy.
 Amounts of Vitamin B12 that are recommended by the Food and Nutrition Board, National Academy of Science-National Research Council for pregnant women (4 mcg daily) should be consumed during pregnancy.
 
