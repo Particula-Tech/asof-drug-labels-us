@@ -2,7 +2,7 @@
 
 ## 16.1 How Supplied
 
-Enstilar® (calcipotriene and betamethasone dipropionate) Foam, 0.005%/0.064% is a white to off-white opalescent liquid in a pressurized aluminum spray can with a continuous valve and actuator.
+Enstilar (calcipotriene and betamethasone dipropionate) Foam, 0.005%/0.064% is a white to off-white opalescent liquid in a pressurized aluminum spray can with a continuous valve and actuator.
 At administration, the product is a white to off-white foam after evaporation of the propellants.
 It is available as:
 
@@ -22,4 +22,4 @@ It is available as:
 
 ## 16.3 Handling
 
-- Enstilar Foam is flammable; avoid heat, flame or smoking when using this product.
+- Enstilar® Foam is flammable; avoid heat, flame or smoking when using this product.

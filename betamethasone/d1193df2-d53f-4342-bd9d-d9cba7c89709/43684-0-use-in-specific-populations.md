@@ -8,14 +8,14 @@ Available data with Enstilar Foam are not sufficient to evaluate a drug-associat
 Although there are no available data on use of the calcipotriene component in pregnant women, systemic exposure to calcipotriene after topical administration of Enstilar Foam is likely to be low [see Clinical Pharmacology (12.3)].
 
 Observational studies suggest an increased risk of having low birth weight infants with the maternal use of potent or super potent topical corticosteroids (see Data).
-Advise pregnant women that Enstilar Foam may increase the potential risk of having a low birth weight infant and to use Enstilar Foam on the smallest area of skin and for the shortest duration possible.
+Advise pregnant women that Enstilar® Foam may increase the potential risk of having a low birth weight infant and to use Enstilar Foam on the smallest area of skin and for the shortest duration possible.
 
 In animal reproduction studies, oral administration of calcipotriene to pregnant rats during the period of organogenesis resulted in an increased incidence of minor skeletal abnormalities, including enlarged fontanelles and extra ribs (see Data).
 Oral administration of calcipotriene to pregnant rabbits during the period of organogenesis had no apparent effects on embryo-fetal development.
 Subcutaneous administration of betamethasone dipropionate to pregnant rats and rabbits during the period of organogenesis resulted in fetal toxicity, including fetal deaths, reduced fetal weight, and fetal malformations (cleft palate and crooked or short tail) (see Data).
-The available data do not allow the calculation of relevant comparisons between the systemic exposures of calcipotriene and betamethasone dipropionate observed in animal studies to the systemic exposures that would be expected in humans after topical use of Enstilar® Foam.
+The available data do not allow the calculation of relevant comparisons between the systemic exposures of calcipotriene and betamethasone dipropionate observed in animal studies to the systemic exposures that would be expected in humans after topical use of Enstilar Foam.
 
-The estimated background risk of major birth defects and miscarriage of the indicated population is unknown.
+The background risk of major birth defects and miscarriage in the indicated population is unknown.
 All pregnancies have a background risk of birth defect, loss, or other adverse outcomes.
 In the U.S. general population, the estimated background risk of major birth defects and miscarriage in clinically recognized pregnancies is 2% to 4% and 15% to 20%, respectively.
 
@@ -63,7 +63,7 @@ Risk Summary
 
 There is no information regarding the presence of topically administered calcipotriene and betamethasone dipropionate in human milk, the effects on the breastfed infant, or the effects on milk production.
 Concentrations of calcipotriene in plasma are low after topical administration, and therefore, concentrations in human milk are likely to be low [see Clinical Pharmacology (12.3)].
-It is not known whether topical administration of large amounts of betamethasone dipropionate could result in sufficient systemic absorption to produce detectable quantities in human milk (see Clinical Considerations).
+It is not known whether topical administration of large amounts of betamethasone dipropionate could result in sufficient systemic absorption to produce detectable quantities in human milk.
 The developmental and health benefits of breastfeeding should be considered along with the mother's clinical need for Enstilar® Foam and any potential adverse effects on the breastfed child from Enstilar Foam or from the underlying maternal condition.
 
 Clinical Considerations

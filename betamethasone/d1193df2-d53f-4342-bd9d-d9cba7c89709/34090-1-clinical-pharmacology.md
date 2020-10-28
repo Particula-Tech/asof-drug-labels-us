@@ -9,24 +9,28 @@ However, while their pharmacologic and clinical effects are known, the exact mec
 
 Hypothalamic-Pituitary-Adrenal (HPA) Axis Suppression:
 
-HPA axis suppression as indicated by a 30-minute post-stimulation cortisol level of ≤18 mcg/dL was evaluated in both adults (N=35) and a subset of pediatric subjects aged 12 to 17 years (N=33) following once daily application of Enstilar Foam on the body and scalp for 4 weeks.
+HPA axis suppression as indicated by a 30-minute post-stimulation cortisol level of ≤18 mcg/dL was evaluated in the following trials [see Warnings and Precautions (5.3)]:
 
-- Enstilar Foam was applied to adult subjects with moderate to severe plaque psoriasis affecting a mean body surface area of 18% (range 12 to 28%) and mean scalp area of 50 % (range 30 to 100%).
+- Enstilar Foam was applied to adult subjects (N=35) with moderate to severe plaque psoriasis affecting a mean body surface area of 18% (range 12 to 28%) and mean scalp area of 50 % (range 30 to 100%).
   The mean ± SD weekly dose used was 62 ± 28 grams.
   HPA axis suppression was not observed in any subjects after 4 weeks of treatment.
-  Lack of adrenal suppression observed in this trial does not rule out the risk of HPA axis suppression [see Warnings and Precautions (5.3)].
-- Enstilar Foam was applied to pediatric subjects age 12 to 17 years with moderate plaque psoriasis affecting a mean body surface area of 16% (range from 10% to 21%) and mean scalp area of 56% (range from 25% to 90%).
+  Lack of adrenal suppression observed in this trial does not rule out the risk of HPA axis suppression.
+- Enstilar Foam was applied to adolescent subjects (N=33) age 12 to 17 years with moderate plaque psoriasis affecting a mean body surface area of 16% (range from 10% to 21%) and mean scalp area of 56% (range from 25% to 90%).
   The mean ± SD weekly dose used was 47 ± 22 grams.
   HPA axis suppression was observed in 3 (9%) of the subjects.
+- Enstilar® Foam was applied once daily for 4 weeks to adult subjects (N=21) with plaque psoriasis affecting a mean body surface area of 15% (range 10 to 30%), then twice weekly on 2 non-consecutive days for 52 weeks with 4 weeks and once daily treatment was resumed if loss of response occurred.
+  The mean ± SD total dose used in the 52-week period was 1400 ± 905 grams (including total dose of 528 ± 650 grams used in the loss of response period).
+  HPA axis suppression was observed in 2 (10%) of the subjects at Week 56.
 
 Effects on Calcium Metabolism
 
-Effects of once daily application of Enstilar® Foam for 4 weeks on calcium metabolism in adult subjects (N=564) with plaque psoriasis were examined in three randomized, multicenter, vehicle- and/or active-controlled clinical trials.
-Following once daily application of Enstilar Foam, elevated serum calcium levels outside the normal range were observed in 3 subjects.
-Elevated urinary calcium levels outside the normal range were observed in 17 subjects.
-
-In a trial, calcium metabolism was evaluated in 106 subjects aged 12 to 17 years with plaque psoriasis of the scalp and body after once daily application of Enstilar Foam for 4 weeks.
-No cases of hypercalcemia and no clinically relevant changes in urinary calcium were reported.
+- Effects of once daily application of Enstilar Foam for 4 weeks on calcium metabolism in adult subjects (N=564) with plaque psoriasis were examined in three randomized, multicenter, vehicle- and/or active-controlled clinical trials.
+  Following once daily application of Enstilar Foam, elevated serum calcium levels outside the normal range were observed in 3 subjects.
+  Elevated urinary calcium levels outside the normal range were observed in 17 subjects.
+- In a trial, calcium metabolism was evaluated in 106 adolescent subjects aged 12 to 17 years with plaque psoriasis of the scalp and body after once daily application of Enstilar Foam for 4 weeks.
+  No cases of hypercalcemia and no clinically relevant changes in urinary calcium were reported.
+- In a trial, 272 subjects aged 18 years and older with plaque psoriasis applied Enstilar Foam once daily for 4 weeks and then twice weekly on 2 non-consecutive days for 52 weeks, including once daily for 4 weeks if loss of response occurred.
+  No cases of hypercalcemia and no clinically relevant changes in urinary calcium were reported.
 
 Vasoconstrictor Assay
 
@@ -57,9 +61,9 @@ Metabolism
 Calcipotriene: Calcipotriene metabolism following systemic uptake is rapid and occurs in the liver.
 The primary metabolites of calcipotriene are less potent than the parent compound.
 
-Calcipotriene is metabolized to MC1046 (the α,ß-unsaturated ketone analog of calcipotriene), which is metabolized further to MC1080 (a saturated ketone analog).
+Calcipotriene is metabolized to MC1046 (the α,β-unsaturated ketone analog of calcipotriene), which is metabolized further to MC1080 (a saturated ketone analog).
 MC1080 is the major metabolite in plasma.
 MC1080 is slowly metabolized to calcitroic acid.
 
-Betamethasone dipropionate: Betamethasone dipropionate is metabolized to betamethasone 17-propionate (B17P) and betamethasone, including the 6ß-hydroxy derivatives of those compounds by hydrolysis.
+Betamethasone dipropionate: Betamethasone dipropionate is metabolized to betamethasone 17-propionate (B17P) and betamethasone, including the 6β-hydroxy derivatives of those compounds by hydrolysis.
 Betamethasone 17-propionate (B17P) is the primary metabolite.

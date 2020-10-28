@@ -17,3 +17,4 @@ Each gram of Enstilar Foam contains 50 mcg of calcipotriene (equivalent to 52.2 
 Enstilar Foam is a white to off-white opalescent liquid in a pressurized aluminum spray can with a continuous valve and actuator.
 The propellants used in Enstilar Foam are dimethyl ether and butane.
 At administration, the product is a white to off-white foam after evaporation of the propellants.
+Enstilar Foam has the appearance of a non-expanding foam that gradually collapses after spraying.
