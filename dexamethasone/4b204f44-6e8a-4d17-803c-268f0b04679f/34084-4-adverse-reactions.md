@@ -1,8 +1,8 @@
 # 6 ADVERSE REACTIONS
 
-## 6.1Clinical Studies Experience
+## 6.1Clinical Trials Experience
 
-Because clinical studies are conducted under widely varying conditions, adverse reaction rates observed in the clinical studies of a drug cannot be directly compared to rates in the clinical studies of another drug and may not reflect the rates observed in practice.
+Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical studies of a drug cannot be directly compared to rates in the clinical studies of another drug and may not reflect the rates observed in practice.
 
 Adverse reactions associated with ophthalmic steroids including OZURDEX® include elevated intraocular pressure, which may be associated with optic nerve damage, visual acuity and field defects, posterior subcapsular cataract formation, secondary ocular infection from pathogens including herpes simplex, and perforation of the globe where there is thinning of the cornea or sclera.
 
@@ -98,4 +98,4 @@ Among these patients, 61% of OZURDEX® subjects vs. 8% of sham-controlled subjec
 
 The following reactions have been identified during post-marketing use of OZURDEX® in clinical practice.
 Because they are reported voluntarily from a population of unknown size, estimates of frequency cannot be made.
-The reactions, which have been chosen for inclusion due to either their seriousness, frequency of reporting, possible causal connection to OZURDEX®, or a combination of these factors, include: complication of device insertion (implant misplacement), device dislocation with or without corneal edema, endophthalmitis, hypotony of the eye (associated with vitreous leakage due to injection), and retinal detachment.
+The reactions, which have been chosen for inclusion due to either their seriousness, frequency of reporting, possible causal connection to OZURDEX®, or a combination of these factors, include: complication of device insertion resulting in ocular tissue injury including sclera, subconjunctiva, lens and retina (implant misplacement), device dislocation with or without corneal edema, endophthalmitis, hypotony of the eye (associated with vitreous leakage due to injection), and retinal detachment.

@@ -24,10 +24,10 @@ Advise patients not to drive or use machines until this has been resolved.
 
 Distributed by: Allergan USA, Inc. Madison, NJ 07940
 
-© 2018 Allergan.
+© 2020 Allergan.
 All rights reserved.
 All trademarks are the property of their respective owners.
 Patented.
 See: www.allergan.com/patents
 
-v1.0USPI3348
+v2.0USPI3348
