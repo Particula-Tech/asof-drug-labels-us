@@ -6,7 +6,7 @@ The following are discussed in more detail in other sections of the labeling:
 - Known hypersensitivity to methylphenidate or other ingredients of dexmethylphenidate hydrochloride extended-release capsules [see Contraindications (4)]
 - Hypertensive Crisis with Concomitant Use of Monoamine Oxidase Inhibitors [see Contraindications (4), Drug Interactions (7.1)]
 - Serious Cardiovascular Reactions [see Warnings and Precautions (5.2)]
-- Blood Pressure and Heart Rate Increases [see Warnings and Precautions [(5.3)]
+- Blood Pressure and Heart Rate Increases [see Warnings and Precautions (5.3)]
 - Psychiatric Adverse Reactions [see Warnings and Precautions (5.4)]
 - Priapism [see Warnings and Precautions (5.5)]
 - Peripheral Vasculopathy, including Raynaud’s Phenomenon [see Warnings and Precautions (5.6)]
@@ -32,7 +32,7 @@ The table includes only those events that occurred in 5% or more of patients tre
 
 Table 1: Common Adverse Reactions in Pediatric Patients (6 to 17 years of age) with ADHD
 
-| System Organ Class Adverse Reaction | Dexmethylphenidate Hydrochloride Extended-Release Capsules N=53 | Placebo N=47 |
+| System Organ Class Adverse Reaction | Dexmethylphenidate Hydrochloride Extended-Release Capsules N = 53 | Placebo N = 47 |
 | --- | --- | --- |
 | Gastrointestinal Disorders | 38% | 19% |
 | Dyspepsia | 8% | 4% |
@@ -43,7 +43,9 @@ Table 1: Common Adverse Reactions in Pediatric Patients (6 to 17 years of age) w
 | Psychiatric Disorders | 26% | 15% |
 | Anxiety | 6% | 0% |
 
-Table 2 below enumerates the incidence of dose-related adverse reactions that occurred during a fixed-dose, double-blind, placebo-controlled trial in pediatric patients with ADHD taking dexmethylphenidate hydrochloride extended-release capsules up to 30mg daily versus placebo.
+Abbreviation: attention deficit hyperactivity disorder.
+
+Table 2 below enumerates the incidence of dose-related adverse reactions that occurred during a fixed-dose, double-blind, placebo-controlled trial in pediatric patients with ADHD taking dexmethylphenidate hydrochloride extended-release capsules up to 30 mg daily versus placebo.
 The table includes only those reactions that occurred in patients treated with dexmethylphenidate hydrochloride extended-release capsules for which the incidence was at least 5% and greater than the incidence among placebo-treated patients.
 
 Table 2: Dose-Related Adverse Reactions in Pediatric Patients (6 to 17 years of age) with ADHD
@@ -65,12 +67,14 @@ Table 2: Dose-Related Adverse Reactions in Pediatric Patients (6 to 17 years of 
 | Nasal Congestion | 0% | 0% | 5% | 0% |
 | Pruritus | 0% | 0% | 3% | 0% |
 
+Abbreviation: attention deficit hyperactivity disorder.
+
 Clinical Trials Experience with Dexmethylphenidate Hydrochloride Extended-Release Capsules in Adult Patients with ADHD
 
 The safety data in this section is based on data from a 5-week controlled clinical study of dexmethylphenidate hydrochloride extended-release capsules in 218 adult patients (221 randomized) with ADHD ages 18 to 60 years.
 In this study, 101 adult patients were treated for at least 6 months.
 
-This study was a randomized, double-blind, placebo-controlled, parallel-group study to evaluate the efficacy, safety, and tolerability of dexmethylphenidate hydrochloride extended-release capsules 20 mg, 30 mg, or 40 mg daily who met DSM-IV criteria for ADHD [see Clinical Studies (14.1)].
+This study was a randomized, double-blind, placebo-controlled, parallel-group study to evaluate the efficacy, safety, and tolerability of dexmethylphenidate hydrochloride extended-release capsules 20 mg, 30 mg, or 40 mg daily who met DSM-IV criteria for ADHD [see Clinical Studies (14.2)].
 
 Most Common Adverse Reactions (incidence of greater than or equal to 5% and at least twice placebo): dry mouth, dyspepsia, headache, anxiety, and pharyngolaryngeal pain.
 
@@ -93,7 +97,7 @@ Table 3: Dose-Related Adverse Reactions in Adult Patients (18 to 60 years of age
 | Psychiatric Disorders | 40% | 43% | 46% | 30% |
 | Anxiety | 5% | 11% | 11% | 2% |
 | Respiratory, Thoracic and Mediastinal Disorders | 16% | 9% | 15% | 8% |
-| PharyngolaryngealPain | 4% | 4% | 7% | 2% |
+| Pharyngolaryngeal Pain | 4% | 4% | 7% | 2% |
 
 Two other adverse reactions occurring in clinical trials with dexmethylphenidate hydrochloride extended-release capsules at a frequency greater than placebo, but which were not dose related were: feeling jittery (12% and 2%, respectively) and dizziness (6% and 2%, respectively).
 
@@ -116,7 +120,7 @@ Musculoskeletal: rhabdomyolysis
 
 Immune System Disorders: hypersensitivity reactions, including angioedema and anaphylaxis
 
-Adverse Reactions Reported with All Methylphenidate Hydrochloride and Dexmethylphenidate Hydrochloride Formulations
+Adverse Reactions Reported with all Methylphenidate Hydrochloride and Dexmethylphenidate Hydrochloride Formulations
 
 The following adverse reactions associated with the use of all methylphenidate hydrochloride and dexmethylphenidate hydrochloride formulations were identified in clinical trials, spontaneous reports, and literature.
 Because these reactions were reported voluntarily from a population of uncertain size, it is not always possible to estimate their frequency reliably or to establish a causal relationship to drug exposure.
@@ -131,7 +135,7 @@ Metabolism and Nutrition Disorders: decreased appetite, reduced weight gain, and
 
 Psychiatric Disorders: insomnia, anxiety, restlessness, agitation, psychosis (sometimes with visual and tactile hallucinations), depressed mood
 
-Nervous system disorders: headache, dizziness, tremor, dyskinesia including choreoatheetoid movements, drowsiness, convulsions, cerebrovascular disorders (including vasculitis, cerebral hemorrhages and cerebrovascular accidents), serotonin syndrome in combination with serotonergic drugs
+Nervous System Disorders: headache, dizziness, tremor, dyskinesia including choreoatheetoid movements, drowsiness, convulsions, cerebrovascular disorders (including vasculitis, cerebral hemorrhages and cerebrovascular accidents), serotonin syndrome in combination with serotonergic drugs
 
 Eye Disorders: blurred vision, difficulties in visual accommodation
 

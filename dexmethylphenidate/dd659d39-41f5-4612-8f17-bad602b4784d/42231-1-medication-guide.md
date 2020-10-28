@@ -1,14 +1,14 @@
 # MEDICATION GUIDE
 
-Dexmethylphenidate (dex meth ill FEN i date) Hydrochloride Extended-Release Capsules CII
+Dexmethylphenidate (dex" meth il fen' i date) Hydrochloride (hye" droe klor' ide) Extended-Release Capsules CII
 
-| What is the most important information I should know about dexmethylphenidate hydrochloride extended-release capsules? Dexmethylphenidate hydrochloride extended-release capsules are a federal controlled substance (CII) because it can be abused or lead to dependence. Keep dexmethylphenidate hydrochloride extended-release capsules in a safe place to prevent misuse and abuse. Selling or giving away dexmethylphenidate hydrochloride extended-release capsules may harm others, and is against the law. Tell your doctor if you or your child have abused or been dependent on alcohol, prescription medicines or street drugs.The following have been reported with use of methylphenidate hydrochloride and other stimulant medicines.1. Heart-related problems:•sudden death in patients who have heart problems or heart defects•stroke and heart attack in adults• increased blood pressure and heart rateTell your doctor if you or your child has any heart problems, heart defects, high blood pressure, or a family history of these problems. Your doctor should check you or your child carefully for heart problems before starting dexmethylphenidate hydrochloride extended-release capsules. Your doctor should check your or your child’s blood pressure and heart rate regularly during treatment with dexmethylphenidate hydrochloride extended-release capsules. Call your doctor right away if you or your child has any signs of heart problems such as chest pain, shortness of breath, or fainting while taking dexmethylphenidate hydrochloride extended-release capsules.2. Mental (Psychiatric) problems:All Patients•new or worse behavior and thought problems•new or worse bipolar illness• new or worse aggressive behavior or hostility•new psychotic symptoms (such as hearing voices, believing things that are not true, are suspicious) or new manic symptomsTell your doctor about any mental problems you or your child have, or about a family history of suicide, bipolar illness, or depression. Call your doctor right away if you or your child have any new or worsening mental symptoms or problems while taking dexmethylphenidate hydrochloride extended-release capsules, especially seeing or hearing things that are not real, believing things that are not real, or are suspicious. |
+| What is the most important information I should know about dexmethylphenidate hydrochloride extended-release capsules? Dexmethylphenidate hydrochloride extended-release capsules are a federal controlled substance (CII) because it can be abused or lead to dependence. Keep dexmethylphenidate hydrochloride extended-release capsules in a safe place to prevent misuse and abuse. Selling or giving away dexmethylphenidate hydrochloride extended-release capsules may harm others, and is against the law. Tell your doctor if you or your child have abused or been dependent on alcohol, prescription medicines, or street drugs.The following have been reported with use of methylphenidate hydrochloride and other stimulant medicines:1. Heart-related problems:• sudden death in patients who have heart problems or heart defects• stroke and heart attack in adults• increased blood pressure and heart rateTell your doctor if you or your child have any heart problems, heart defects, high blood pressure, or a family history of these problems. Your doctor should check you or your child carefully for heart problems before starting dexmethylphenidate hydrochloride extended-release capsules. Your doctor should check your or your child’s blood pressure and heart rate regularly during treatment with dexmethylphenidate hydrochloride extended-release capsules. Call your doctor right away if you or your child has any signs of heart problems such as chest pain, shortness of breath, or fainting while taking dexmethylphenidate hydrochloride extended-release capsules.2. Mental (Psychiatric) problems:All Patients• new or worse behavior and thought problems• new or worse bipolar illness• new or worse aggressive behavior or hostility• new psychotic symptoms (such as hearing voices, believing things that are not true, are suspicious) or new manic symptomsTell your doctor about any mental problems you or your child have, or about a family history of suicide, bipolar illness, or depression. Call your doctor right away if you or your child have any new or worsening mental symptoms or problems while taking dexmethylphenidate hydrochloride extended-release capsules, especially seeing or hearing things that are not real, believing things that are not real, or are suspicious. |
 | --- |
 
 What are dexmethylphenidate hydrochloride extended-release capsules?
 
 - Dexmethylphenidate hydrochloride extended-release capsules are a central nervous system stimulant (CNS) prescription medicine.
-  They are used for the treatment of Attention Deficit and Hyperactivity Disorder (ADHD).
+  They are used for the treatment of Attention Deficit Hyperactivity Disorder (ADHD).
   Dexmethylphenidate hydrochloride extended-release capsules may help increase attention and decrease impulsiveness and hyperactivity in patients with ADHD.
 - Dexmethylphenidate hydrochloride extended-release capsules should be used as a part of a total treatment program for ADHD that may include counseling or other therapies.
 
@@ -23,14 +23,17 @@ Before starting dexmethylphenidate hydrochloride extended-release capsules tell 
 - circulation problems in fingers or toes
 - if you are pregnant or plan to become pregnant.
   It is not known if dexmethylphenidate hydrochloride extended-release capsules will harm your unborn baby.
-  Talk to your doctor if you are pregnant or plan to become pregnant.
+
+- There is a pregnancy registry for females who are exposed to ADHD medications, including dexmethylphenidate hydrochloride extended-release capsules, during pregnancy.
+  The purpose of the registry is to collect information about the health of females exposed to dexmethylphenidate hydrochloride extended-release capsules and their baby.
+  If you or your child becomes pregnant during treatment with dexmethylphenidate hydrochloride extended-release capsules, talk to your healthcare provider about registering with the National Pregnancy Registry of ADHD medications at 1-866-961-2388 or visit online athttps://womensmentalhealth.org/adhd-medications/.
+
 - if you are breastfeeding or plan to breastfeed.
   Dexmethylphenidate hydrochloride passes into your breast milk.
-  You and your doctor should decide if you will take dexmethylphenidate hydrochloride extended-release capsules or breastfeed.
-
-Tell your doctor about all of the medicines that you or your child takes including prescription and over-the-counter medicines, vitamins, and herbal supplements.
-Dexmethylphenidate hydrochloride extended-release capsules and some medicines may interact with each other and cause serious side effects.
-Sometimes the doses of other medicines will need to be adjusted while taking dexmethylphenidate hydrochloride extended-release capsules.
+  Talk to your healthcare provider about the best way to feed the baby during treatment with dexmethylphenidate hydrochloride extended-release capsules.
+  Tell your doctor about all of the medicines that you or your child takes, including prescription and over-the-counter medicines, vitamins, and herbal supplements.
+  Dexmethylphenidate hydrochloride extended-release capsules and some medicines may interact with each other and cause serious side effects.
+  Sometimes the doses of other medicines will need to be adjusted while taking dexmethylphenidate hydrochloride extended-release capsules.
 
 Your doctor will decide whether dexmethylphenidate hydrochloride extended-release capsules can be taken with other medicines.
 
@@ -73,7 +76,7 @@ Dexmethylphenidate hydrochloride extended-release capsules may cause serious sid
 - painful and prolonged erections (priapism) have occurred with methylphenidate.
   If you or your child develops priapism, seek medical help right away.
   Because of the potential for lasting damage, priapism should be evaluated by a doctor immediately.
-- circulation problems in fingers and toes (Peripheral vasculopathy, including Raynaud’s phenomenon):
+- circulation problems in fingers and toes (Peripheral Vasculopathy, including Raynaud’s phenomenon):
   - fingers or toes may feel numb, cool, painful
   - fingers or toes may change color from pale, to blue, to red
 
@@ -90,12 +93,14 @@ Children (6 to 17 years)
 
 Adults
 
-● dry mouth ● dyspepsia ● headache ● anxiety ● pharyngolaryngeal pain Call your doctor for medical advice about side effects.
+● dry mouth ● dyspepsia ● headache ● anxiety ● pharyngolaryngeal pain
+
+Call your doctor for medical advice about side effects.
 You may report side effects to FDA at 1-800-FDA-1088.
 
 How should I store dexmethylphenidate hydrochloride extended-release capsules?
 
-- Store dexmethylphenidate hydrochloride extended-release capsules in a safe place at room temperature, 68° to 77°F (20° to 25°C).
+- Store dexmethylphenidate hydrochloride extended-release capsules in a safe place and in a tightly closed container at room temperature, 68° to 77°F (20° to 25°C).
 - Dispose of remaining, unused, or expired dexmethylphenidate hydrochloride extended-release capsules by a medicine take-back program at authorized collection sites such as retail pharmacies, hospital or clinic pharmacies, and law enforcement locations.
   If no take-back program or authorized collector is available, mix dexmethylphenidate hydrochloride extended-release capsules with an undesirable, nontoxic substance such as dirt, cat litter, or used coffee grounds to make it less appealing to children and pets.
   Place the mixture in a container such as a sealed plastic bag and throw away (discard) dexmethylphenidate hydrochloride extended-release capsules in the household trash.
@@ -113,7 +118,7 @@ What are the ingredients in dexmethylphenidate hydrochloride extended-release ca
 
 Active ingredient: dexmethylphenidate hydrochloride
 
-Inactive ingredients: ammonio methacrylate copolymer, D&C yellow no. 10 aluminum lake, FD&C blue no. 1 aluminum lake, FD&C blue no. 2/indigo carmine aluminum lake, FD&C red no. 40 aluminum lake, gelatin, hypromellose, iron oxide black, methacrylic acid copolymer, non-pareil seeds (which contain corn starch and sucrose), polyethylene glycol, propylene glycol, shellac glaze, talc, titanium dioxide and triethyl citrate.
+Inactive ingredients: ammonio methacrylate copolymer, D&C yellow no. 10 aluminum lake, FD&C blue no. 1 aluminum lake, FD&C blue no. 2/indigo carmine aluminum lake, FD&C red no. 40 aluminum lake, gelatin, hypromellose, iron oxide black, methacrylic acid copolymer, non-pareil seeds (which contain corn starch and sucrose), polyethylene glycol, propylene glycol, shellac glaze, talc, titanium dioxide, and triethyl citrate.
 Additionally, 5 mg and 25 mg capsules contain FD&C blue no. 1; 10 mg and 30 mg capsules contain D&C yellow no. 10; 15 mg capsules contain FD&C green no. 3; 35 mg capsules contain D&C yellow no. 10 and FD&C blue no. 1; and 40 mg capsules contain FD&C blue no. 1 and FD&C green no. 3.
 
 For more information, call 1-888-838-2872.
@@ -122,4 +127,4 @@ Teva Pharmaceuticals USA, Inc.
 North Wales, PA 19454
 
 This Medication Guide has been approved by the U.S. Food and Drug Administration Rev.
-F 1/2019
+G 12/2019

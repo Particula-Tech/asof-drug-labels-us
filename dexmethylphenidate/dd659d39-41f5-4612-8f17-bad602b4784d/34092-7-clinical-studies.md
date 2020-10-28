@@ -24,7 +24,7 @@ Table 6: Summary of Efficacy Results from ADHD Study in Pediatric Patients (6 to
 | Study 1 | Dexmethylphenidate Hydrochloride Extended-Release Capsules 5 to 30 mg/day(n = 52) | 33.3 (9.18) | 16.41 (1.8) | 10.64 (5.38, 15.91) |
 |  | Placebo(n = 45) | 34.9 (10.03) | 5.77 (1.93) | -- |
 
-Abbreviations: SD, standard deviation; SE, standard error; LS Mean, least-squares mean; CI, confidence interval, not adjusted for multiple comparisons.
+Abbreviations: ADHD, Attention Deficit Hyperactivity Disorder; SD, standard deviation; SE, standard error; LS Mean, least-squares mean; CI, confidence interval, not adjusted for multiple comparisons.
 
 aDifference (drug minus placebo) in least-squares mean change from baseline.
 
@@ -57,6 +57,6 @@ Table 7: Summary of Efficacy Results from ADHD Study in Adults (Study 4)
 |  | Dexmethylphenidate Hydrochloride Extended-Release Capsules 40 mg/day(n = 54) | 36.9 (8.25) | 16.51 (1.48) | 8.96 (4.83, 13.08) |
 |  | Placebo(n = 53) | 37.5 (7.82) | 7.55 (1.49) | -- |
 
-Abbreviations: SD, standard deviation; SE, standard error; LS Mean, least-squares mean; CI, confidence interval, not adjusted for multiple comparisons.
+Abbreviations: ADHD, attention deficit hyperactivity disorder; SD, standard deviation; SE, standard error; LS Mean, least-squares mean; CI, confidence interval, not adjusted for multiple comparisons.
 
 aDifference (drug minus placebo) in least-squares mean change from baseline.
