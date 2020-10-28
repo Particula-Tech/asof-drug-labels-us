@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "NDA050616"
+  ],
+  "inn": "dexamethasone",
+  "labeler": "Novartis Pharmaceuticals Corporation",
+  "package_ndcs": [
+    "0078-0876-01"
+  ],
+  "products": [
+    {
+      "form": "OINTMENT",
+      "generic": "tobramycin and dexamethasone",
+      "name": "TobraDex"
+    }
+  ],
+  "setid": "7f310e0e-0d3b-493d-b6c4-238493a2a9b9",
+  "source": "dailymed"
+}
