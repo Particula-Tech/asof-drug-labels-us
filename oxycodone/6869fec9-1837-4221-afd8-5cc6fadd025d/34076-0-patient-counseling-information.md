@@ -2,7 +2,7 @@
 
 Advise the patient to read the FDA-approved patient labeling (Medication Guide).
 
-Storage and Disposal
+Storage and Disposal:
 
 Because of the risks associated with accidental ingestion, misuse, and abuse, advise patients to store Oxycodone Hydrochloride Oral Solution securely, out of sight and reach of children, and in a location not accessible by others, including visitors to the home (see Warnings and Precautions (5.2, 5.14), Drug Abuse and Dependence (9.2)].
 Inform patients that leaving Oxycodone Hydrochloride Oral Solution unsecured can pose a deadly risk to others in the home.
@@ -31,7 +31,7 @@ Advise patients how to recognize respiratory depression and to seek medical atte
 
 Accidental Ingestion
 
-Inform patients that accidental ingestion, especially by children, may result in respiratory depression or death [see Warnings and Precautions (5.4].
+Inform patients that accidental ingestion, especially by children, may result in respiratory depression or death [see Warnings and Precautions (5.4)].
 
 Interactions with Benzodiazepines and Other CNS Depressants
 
@@ -103,7 +103,7 @@ It is not known whether these effects on fertility are reversible [see Use in Sp
 Driving or Operating Heavy Machinery
 
 Inform patients that Oxycodone Hydrochloride Oral Solution may impair the ability to perform potentially hazardous activities such as driving a car or operating heavy machinery.
-Advise patients not to perform such tasks until they know how they will react to the medication [see Warnings and Precautions (5.15)].
+Advise patients not to perform such tasks until they know how they will react to the medication [see Warnings and Precautions (5.5)].
 
 Constipation
 

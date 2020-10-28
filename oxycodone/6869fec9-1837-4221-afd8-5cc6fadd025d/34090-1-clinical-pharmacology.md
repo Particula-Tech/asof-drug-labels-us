@@ -12,7 +12,7 @@ However, specific CNS opioid receptors for endogenous compounds with opioid-like
 
 ## 12.2 Pharmacodynamics
 
-Effects on the Central Nervous System (CNS)
+Effects of the Central Nervous System (CNS)
 
 Oxycodone produces respiratory depression by direct action on brain stem respiratory centers.
 The respiratory depression involves a reduction in the responsiveness of the brain stem respiratory centers to both increases in carbon dioxide tension and electrical stimulation.
@@ -43,7 +43,7 @@ The causal role of opioids in the clinical syndrome of hypogonadism is unknown b
 
 Effects on the Immune System
 
-Opioids have been shown to have a variety of effects on components of the immune system in in-vitro and animal models.
+Opioids have been shown to have a variety of effects on components of the immune system in in-vitro and Animal models.
 The clinical significance of these findings is unknown.
 Overall, the effects of opioids appear to be modestly immunosuppressive.
 

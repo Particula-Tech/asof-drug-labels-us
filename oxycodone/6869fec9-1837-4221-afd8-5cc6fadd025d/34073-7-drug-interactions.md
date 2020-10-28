@@ -1,6 +1,6 @@
 # 7 DRUG INTERACTIONS
 
-Table 1 includes clinically significant drug interactions with Oxycodone Hydrochloride Oral Solution
+Table 1 includes clinically significant drug interactions with Oxycodone Hydrochloride Oral Solution.
 
 Table 1: Clinically Significant Drug Interactions with Oxycodone Hydrochloride Oral Solution
 
@@ -12,7 +12,7 @@ Table 1: Clinically Significant Drug Interactions with Oxycodone Hydrochloride O
 | CYP3A4 Inducers |  |
 | Clinical Impact: | The concomitant use of Oxycodone Hydrochloride Oral Solution and CYP3A4 inducers can decrease the plasma concentration of oxycodone [see Clinical Pharmacology (12.3)], resulting in decreased efficacy or onset of a withdrawal syndrome in patients who have developed physical dependence to oxycodone [see Warnings and Precautions (5.6)]. After stopping a CYP3A4 inducer, as the effects of the inducer decline, the oxycodone plasma concentration will increase [see Clinical Pharmacology (12.3)], which could increase or prolong both the therapeutic effects and adverse reactions, and may cause serious respiratory depression. |
 | Intervention: | If concomitant use is necessary, consider increasing the Oxycodone Hydrochloride Oral Solution dosage until stable drug effects are achieved. Monitor for signs of opioid withdrawal. If a CYP3A4 inducer is discontinued, consider Oxycodone Hydrochloride Oral Solution dosage reduction and monitor for signs of respiratory depression. |
-| Examples: | Rifampin, carbamazepine, phenytoin |
+| Examples | Rifampin, carbamazepine, phenytoin |
 | Benzodiazepines and other Central Nervous System (CNS) Depressants |  |
 | Clinical Impact: | Due to additive pharmacologic effect, the concomitant use of benzodiazepines or other CNS depressants including alcohol, increases the risk of respiratory depression, profound sedation, coma, and death. |
 | Intervention: | Reserve concomitant prescribing of these drugs for use in patients for whom alternative treatment options are inadequate. Limit dosages and durations to the minimum required. Follow patients closely for signs of respiratory depression and sedation [see Warnings and Precautions (5.7)]. |
@@ -36,5 +36,5 @@ Table 1: Clinically Significant Drug Interactions with Oxycodone Hydrochloride O
 | Clinical Impact: | Opioids can reduce the efficacy of diuretics by inducing the release of antidiuretic antidiuretic hormone. |
 | Intervention: | Monitor patients for signs of diminished diuresis and/or effects on blood pressure and increase the dosage of the diuretic as needed. |
 | Anticholinergic Drugs |  |
-| Clinical Impact: | The concomitant use of anticholinergic drugs may increase risk of urinary retention and/or severe constipation,which may lead to paralytic ileus. |
+| Clinical Impact: | The concomitant use of anticholinergic drugs may increase risk of urinary retention and/or severe constipation, which may lead to paralytic ileus. |
 | Intervention: | Monitor patients for signs of urinary retention or reduced gastric motility when Oxycodone Hydrochloride Oral Solution is used concomitantly with anticholinergic drugs. |

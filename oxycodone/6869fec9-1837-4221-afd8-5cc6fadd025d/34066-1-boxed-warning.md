@@ -3,12 +3,12 @@
 Risk of Medication Errors
 
 Ensure accuracy when prescribing, dispensing, and administering Oxycodone Hydrochloride Oral Solution.
-Dosing errors due to confusion between mg and mL, and other oxycodone hydrochloride oral solutions of different concentrations can result in accidental overdose.
+Dosing errors due to confusion between mg and mL, and other oxycodone hydrochloride oral solutions of different concentrations can results in accidental overdose.
 [see Dosage and Administration (2.1), Warnings and Precautions (5.1)].
 
 Addiction, Abuse, and Misuse
 
-Oxycodone Hydrochloride Oral Solution exposes users to risks of opioid addiction, abuse, and misuse, which can lead to overdose and death.
+Oxycodone Hydrochloride Oral Solution exposes users to risks of addiction, abuse, and misuse, which can lead to overdose and death.
 Assess patient's risk prior to prescribing Oxycodone Hydrochloride Oral Solution, and monitor all patients regularly for the development of these behaviors and conditions.
 [see Warnings and Precautions (5.2)].
 
@@ -32,7 +32,7 @@ Monitor for respiratory depression, especially during initiation of Oxycodone Hy
 Accidental Ingestion
 
 Accidental ingestion of even one dose of Oxycodone Hydrochloride Oral Solution, especially by children, can result in a fatal overdose of oxycodone.
-[see Warnings and Precautions (5.4)].
+[see Warnings and Precautions(5.4)].
 
 Neonatal Opioid Withdrawal Syndrome
 
@@ -42,7 +42,7 @@ If opioid use is required for a prolonged period in a pregnant woman, advise the
 
 Cytochrome P450 3A4 Interaction
 
-The concomitant use of Oxycodone Hydrochloride Oral Solution with all cytochrome P450 3A4 inhibitors may result in an increase in oxycodone plasma concentrations, which could increase or prolong adverse reactions and may cause potentially fatal respiratory depression.
+The concomitant of Oxycodone Hydrochloride Oral Solution with all cytochrome P450 3A4 inhibitors may result in an increase in oxycodone plasma concentrations, which could increase or prolong adverse reactions and may cause potentially fatal respiratory depression.
 In addition, discontinuation of a concomitantly used cytochrome P450 3A4 inducer may result in an increase in oxycodone plasma concentration.
 Monitor patients receiving Oxycodone Hydrochloride Oral Solution and any CYP3A4 inhibitor or inducer.
 [see Warnings and Precautions (5.6), Drug Interactions (7), Clinical Pharmacology (12.3)].

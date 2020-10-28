@@ -19,6 +19,7 @@ Do not use household teaspoons or tablespoons to measure Oxycodone Hydrochloride
 Use the lowest effective dosage for the shortest duration consistent with individual patient treatment goals [see Warnings and Precautions (5)].
 
 Initiate the dosing regimen for each patient individually, taking into account the patient's severity of pain, patient response, prior analgesic treatment experience, and risk factors for addiction, abuse, and misuse [see Warnings and Precautions (5.2)].
+
 Monitor patients closely for respiratory depression, especially within the first 24-72 hours of initiating therapy and following dosage increases with Oxycodone Hydrochloride Oral Solution and adjust the dosage accordingly [see Warnings and Precautions (5.4)].
 
 ## 2.2 Initial Dosage

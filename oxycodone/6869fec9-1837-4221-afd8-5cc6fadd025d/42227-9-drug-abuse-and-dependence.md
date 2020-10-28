@@ -41,6 +41,7 @@ Parenteral drug abuse is commonly associated with transmission of infectious dis
 Both tolerance and physical dependence can develop during chronic opioid therapy.
 Tolerance is the need for increasing doses of opioids to maintain a defined effect such as analgesia (in the absence of disease progression or other external factors).
 Tolerance may occur to both the desired and undesired effects of drugs, and may develop at different rates for different effects.
+
 Physical dependence is a physiological state in which the body adapts to the drug after a period of regular exposure, resulting in withdrawal symptoms after abrupt discontinuation or a significant dosage reduction of a drug.
 Withdrawal also may be precipitated through the administration of drugs with opioid antagonist activity (e.g., naloxone, nalmefene), mixed agonist/antagonist analgesics (e.g., pentazocine, butorphanol, nalbuphine), or partial agonists (e.g., buprenorphine).
 Physical dependence may not occur to a clinically significant degree until after several days to weeks of continued opioid usage.

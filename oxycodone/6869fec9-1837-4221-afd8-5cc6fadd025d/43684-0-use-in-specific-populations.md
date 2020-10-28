@@ -13,7 +13,7 @@ Based on animal data, advise pregnant women of the potential risk to a fetus.
 
 The background risk of major birth defects and miscarriage for the indicated population is unknown.
 All pregnancies have a background risk of birth defect, loss, or other adverse outcomes.
-In the U.S.general population, the estimated background risk of major birth defects and miscarriage in clinically recognized pregnancies is 2-4% and 15-20%, respectively.
+In the U.S. general population, the estimated background risk of major birth defects and miscarriage in clinically recognized pregnancies is 2-4% and 15-20%, respectively.
 
 Clinical Considerations
 
@@ -41,7 +41,7 @@ Animal Data
 In embryo-fetal development studies in rats and rabbits, pregnant animals received oral doses of oxycodone hydrochloride administered during the period of organogenesis up to 16 mg/kg/day and up 25 mg/kg/day, respectively.
 These studies revealed no evidence of teratogenicity or embryo-fetal toxicity due to oxycodone.
 The highest doses tested in rats and rabbits were equivalent to approximately 2.6 and 8.1 times an adult human dose of 60 mg/day, respectively, on a mg/m2 basis.
-In published studies, offspring of pregnant rats administered oxycodone during gestation have been reported to exhibit neurobehavioral effects including altered stress responses, increased anxiety-like behavior (2 mg/kg/day IV from Gestation Day 8 to 21 and Postnatal Day 1, 3, and 5; 0.3-times an adult human dose of 60 mg/day, on a mg/m2 basis) and altered learning and memory (15 mg/kg/day orally from breeding through parturition; 2.4 times an adult human dose of 60 mg/day,on a mg/m2 basis).
+In published studies, offspring of pregnant rats administered oxycodone during gestation have been reported to exhibit neurobehavioral effects including altered stress responses, increased anxiety-like behavior (2 mg/kg/day IV from Gestation Day 8 to 21 and Postnatal Day 1, 3, and 5; 0.3-times an adult human dose of 60 mg/day, on a mg/m2 basis) and altered learning and memory (15 mg/kg/day orally from breeding through parturition; 2.4 times an adult human dose of 60 mg/day, on a mg/m2 basis).
 
 ## 8.2 Lactation
 
