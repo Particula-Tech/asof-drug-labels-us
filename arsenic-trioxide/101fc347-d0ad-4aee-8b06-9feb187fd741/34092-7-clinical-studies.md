@@ -6,8 +6,8 @@ TRISENOX in combination with tretinoin was investigated in Study APL0406 (NCT004
 The patients were randomized 1:1 to receive TRISENOX/tretinoin for induction and consolidation or chemotherapy/tretinoin for induction, consolidation, and maintenance.
 
 Patients in the TRISENOX/tretinoin group received induction treatment with TRISENOX 0.15 mg/kg intravenously once daily in combination with tretinoin 22.5 mg/m2 (rounded to the nearest 10 mg increment) orally twice daily until hematologic complete remission (CR) or for a maximum of 60 days.
-Patients in this group who achieved a CR during induction received four 8-week cycles of consolidation treatment with TRISENOX 0.15 mg/kg intravenously once daily for 5 days every week during weeks 1-4 of the 8-week cycle, in combination with tretinoin 22.5 mg/m2 (rounded to the nearest 10 mg increment) orally twice daily during weeks 1-2 and 5-6 of the 8-week cycle.
-Tretinoin was omitted during weeks 5-6 of the last cycle.
+Patients in this group who achieved a CR during induction received four 8-week cycles of consolidation treatment with TRISENOX 0.15 mg/kg intravenously once daily for 5 days every week during weeks 1 to 4 of the 8-week cycle, in combination with tretinoin 22.5 mg/m2 (rounded to the nearest 10 mg increment) orally twice daily during weeks 1 to 2 and 5 to 6 of the 8-week cycle.
+Tretinoin was omitted during weeks 5 to 6 of the last cycle.
 
 Patients in the chemotherapy/tretinoin group received idarubicin 12 mg/m2 intravenously once daily on days 2, 4, 6, and 8 in combination with tretinoin 22.5 mg/m2 (rounded to the nearest 10 mg increment) orally twice daily, starting on day 1, until hematologic CR or for a maximum of 60 days.
 Patients in this group who achieved a CR during induction received consolidation and maintenance treatment with tretinoin in combination with chemotherapy.
@@ -23,14 +23,12 @@ With a median follow-up of 34.4 months, the 2 year EFS rate of the modified ITT 
 Overall survival (OS) for the mITT population was 99% (95% CI: 93, 100) in the TRISENOX/tretinoin arm versus 91% (95% CI: 86, 97) in the chemotherapy/tretinoin arm.
 The difference in 2-year OS rate between the arms was 8% (95% CI: 0, 16).
 
-Figure 1: Event-Free Survival for Newly-Diagnosed APL
-
 The number of patients in the plot is based on the mITT population.
 
 ## 14.2 Relapsed or Refractory APL
 
-TRISENOX has been investigated in Study PLRXAS01, an open-label, single-arm trial in 40 relapsed or refractory APL patients, previously treated with an anthracycline and a retinoid regimen.
-Patients received TRISENOX 0.15 mg/kg/day intravenously over 1 to 2 hours until the bone marrow was cleared of leukemic cells or up to a maximum of 60 days.
+TRISENOX was investigated in Study PLRXAS01, an open-label, single-arm trial in 40 patients with relapsed or refractory APL who were previously treated with an anthracycline and a retinoid regimen.
+Patients received TRISENOX 0.15 mg/kg/day intravenously over 1 to 2 hours until the bone marrow was cleared of leukemic cells or for a maximum of 60 days.
 The CR (absence of visible leukemic cells in bone marrow and peripheral recovery of platelets and white blood cells with a confirmatory bone marrow ≥ 30 days later) rate in this population of previously treated patients was 28 of 40 (70%).
 Among the 22 patients who had relapsed less than one year after treatment with tretinoin, there were 18 complete responders (82%).
 Of the 18 patients receiving TRISENOX ≥ one year from tretinoin treatment, there were 10 complete responders (55%).
@@ -47,5 +45,5 @@ Cytogenetic conversion to no detection of the APL chromosome rearrangement was o
 RT-PCR conversions to no detection of the APL gene rearrangement were demonstrated in 22 of 28 (79%) of patients who met the response criteria, in 3 of 5 (60%) of patients who met some, but not all, of the response criteria, and in 2 of 7 (29%) of patients who did not respond.
 
 Responses were seen across all age groups tested, ranging from 6 to 72 years.
-The ability to achieve a CR was similar for both genders.
-There were insufficient patients of Black, Hispanic, or Asian derivation to estimate relative response rates in these groups, but responses were seen in members of each group.
+The ability to achieve a CR was similar for both sexes.
+There were insufficient patients of Black, Hispanic, or Asian ancestry to estimate relative response rates in these groups, but responses were seen in each group.

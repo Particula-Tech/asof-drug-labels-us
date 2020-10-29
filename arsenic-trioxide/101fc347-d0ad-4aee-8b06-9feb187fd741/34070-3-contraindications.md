@@ -1,3 +1,3 @@
 # 4 CONTRAINDICATIONS
 
-TRISENOX is contraindicated in patients who are hypersensitive to arsenic.
+TRISENOX is contraindicated in patients with hypersensitivity to arsenic.

@@ -12,7 +12,7 @@ Advise pregnant women of the potential risk to a fetus.
 
 The estimated background risk of major birth defects and miscarriage for the indicated population is unknown.
 All pregnancies have a background risk of birth defect, loss, or other adverse outcomes.
-In the U.S. general population, the estimated background risk of major birth defects and miscarriage in clinically recognized pregnancies is 2-4% and 15-20%, respectively.
+In the U.S. general population, the estimated background risk of major birth defects and miscarriage in clinically recognized pregnancies is 2% to 4% and 15% to 20%, respectively.
 
 Data
 
@@ -35,25 +35,26 @@ Intravenous injection of 2 mg/kg sodium arsenite (approximately equivalent to th
 Risk Summary
 
 Arsenic trioxide is excreted in human milk.
-There is no information on the effects of arsenic trioxide on the breastfed child or on milk production.
-Because of the potential for serious adverse reactions in a breastfed child from TRISENOX, discontinue breastfeeding during treatment with TRISENOX and for two weeks after the final dose.
+There are no data on the effects of arsenic trioxide on the breastfed child or on milk production.
+Because of the potential for serious adverse reactions in a breastfed child, advise women not to breastfeed during treatment with TRISENOX and for 2 weeks after the final dose.
 
 ## 8.3 Females and Males of Reproductive Potential
 
+TRISENOX can cause fetal harm when administered to a pregnant woman [see Use in Specific Populations (8.1)].
+
 Pregnancy Testing
 
-TRISENOX can cause fetal harm when administered to a pregnant woman.
-Conduct pregnancy testing in females of reproductive potential prior to initiation of treatment with TRISENOX [see Use in Specific Populations (8.1)].
+Conduct pregnancy testing in females of reproductive potential prior to initiation of TRISENOX.
 
 Contraception
 
 Females
 
-Advise females of reproductive potential to use effective contraception during and after treatment with TRISENOX and for six months after the final dose.
+Advise females of reproductive potential to use effective contraception during treatment with TRISENOX and for 6 months after the final dose.
 
 Males
 
-Advise males with female sexual partners of reproductive potential to use effective contraception during and after treatment with TRISENOX and for three months after the final dose.
+Advise males with female partners of reproductive potential to use effective contraception during treatment with TRISENOX and for 3 months after the final dose.
 
 Infertility
 
@@ -73,24 +74,23 @@ No differences in efficacy and safety were observed by age.
 ## 8.5 Geriatric Use
 
 Use of TRISENOX in combination with tretinoin in newly-diagnosed adult patients with low-risk APL is supported by a randomized, controlled trial that included 16 patients between the ages of 60 and 70 years.
-No differences in efficacy and safety were observed by age.
-A literature review included an additional 77 patients treated with arsenic trioxide in combination with tretinoin as part of induction and consolidation therapy for low and high risk APL, with ages ranging from 60 to 84 years.
+No overall differences in safety or effectiveness were observed between these patients and younger patients.
+A literature review included an additional 77 patients aged 60 to 84 years who were treated with arsenic trioxide in combination with tretinoin as part of induction and consolidation therapy for low- and high-risk APL.
 These studies showed lower survival rates in older patients.
 Monitor elderly patients frequently during treatment with TRISENOX.
 
-The safety and efficacy of TRISENOX as a single agent in older patients with relapsed or refractory APL is supported by the pivotal phase 2 study in 40 patients with relapsed or refractory APL.
-Six patients age 65 and above (age range: 65 to 73 years) were treated with TRISENOX at the recommended dose.
-A literature review included an additional 4 patients treated with arsenic trioxide for relapsed or refractory APL with ages ranging from 69 to 72 years.
-No differences in efficacy and safety were observed by age.
+Use of TRISENOX as monotherapy in patients with relapsed or refractory APL is supported by the open-label, single-arm trial that included 6 patients aged 65 and older (range: 65 to 73 years).
+A literature review included an additional 4 patients aged 69 to 72 years who were treated with arsenic trioxide for relapsed or refractory APL.
+No overall differences in safety or effectiveness were observed between these patients and younger patients.
 
-## 8.6 Patients with Renal Impairment
+## 8.6 Renal Impairment
 
 Exposure of arsenic trioxide may be higher in patients with severe renal impairment [see Clinical Pharmacology (12.3)].
-Patients with severe renal impairment (creatinine clearance less than 30 mL/min) should be monitored for toxicity when these patients are treated with TRISENOX, and a dose reduction may be warranted.
+Monitor patients with severe renal impairment (creatinine clearance [CLcr] less than 30 mL/min) frequently for toxicity; a dose reduction may be warranted.
 
 The use of TRISENOX in patients on dialysis has not been studied.
 
-## 8.7 Patients with Hepatic Impairment
+## 8.7 Hepatic Impairment
 
 Since limited data are available across all hepatic impairment groups, caution is advised in the use of TRISENOX in patients with hepatic impairment [see Clinical Pharmacology (12.3)].
-Monitor patients with severe hepatic impairment (Child-Pugh Class C) who are treated with TRISENOX for toxicity.
+Monitor patients with severe hepatic impairment (Child-Pugh Class C) frequently for toxicity.
