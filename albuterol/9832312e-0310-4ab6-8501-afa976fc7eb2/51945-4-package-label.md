@@ -1,4 +1,4 @@
-# PRINCIPAL DISPLAY PANEL - 20 mcg/100 mcg Carton
+# PRINCIPAL DISPLAY PANEL - 20 mcg/100 mcg Cartridge Carton
 
 NDC 0597-0024-02
 
