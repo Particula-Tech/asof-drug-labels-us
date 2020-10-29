@@ -12,5 +12,3 @@ The primary release procedure for DYSPORT uses a cell-based potency assay to det
 The assay and reference material are specific to DYSPORT.
 One unit of DYSPORT corresponds to the calculated median lethal intraperitoneal dose (LD50) in mice.
 Due to specific details of the assay system, such as vehicle, dilution scheme and laboratory protocols, Units of biological activity of DYSPORT cannot be converted into Units of any other botulinum toxin or any toxin assessed with any other specific assay method.
-
-Due to specific details of the assay system, such as vehicle, dilution scheme and laboratory protocols, Units of biological activity of DYSPORT cannot be converted into Units of any other botulinum toxin or any toxin assessed with any other specific assay method.

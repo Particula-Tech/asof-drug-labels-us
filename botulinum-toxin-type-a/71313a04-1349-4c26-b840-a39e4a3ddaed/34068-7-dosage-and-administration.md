@@ -60,7 +60,7 @@ Table 2: Recommended Solution Concentration and Dosing Range of DYSPORT by Indic
 | Cervical Dystonia, Adults | 50 Units/0.1 mL or 25 Units/0.1 mL | 500 Units to 1000 Units |
 | Glabellar Lines, Adults | 12 Units/0.1 mL or 20 Units/0.1 mL | 50 Units, divided in five equal aliquots of 10 Units (0.08 mL) each or 50 Units, divided in five equal aliquots of 10 Units (0.05 mL) each |
 | Spasticity, Adults* | 10 Units/0.1 mL or 20 Units/0.1 mL | Upper Limb: 500 Units to 1000 Units Lower Limb: 1000 Units to 1500 Units Maximum total dose per treatment session = 1500 Units |
-| Spasticity, Pediatric Patients‡ | 20 Units/0.1 mL or 50 Units/0.1 mL** | Upper Limb, Excluding Spasticity Caused by Cerebral Palsy: 8 Units/kg to 16 Units/kg per limb Maximum total dose per treatment session = 16 Units/kg or 640 Units, whichever is lower Lower Limb: 10 Units/kg to 15 Units/kg per limb Maximum total dose per treatment session for unilateral limb injections = 15 Units/kg or 1000 Units, whichever is lower Maximum total dose per treatment session for bilateral limb injections = 30 Units/kg or 1000 Units, whichever is lower Maximum total dose per treatment session = 30 Units/kg or 1000 Units, whichever is lower |
+| Spasticity, Pediatric Patients‡ | 20 Units/0.1 mL or 50 Units/0.1 mL** | Upper Limb: 8 Units/kg to 16 Units/kg per limb Maximum total dose per treatment session = 16 Units/kg or 640 Units, whichever is lower Lower Limb: 10 Units/kg to 15 Units/kg per limb Maximum total dose per treatment session for unilateral limb injections = 15 Units/kg or 1000 Units, whichever is lower Maximum total dose per treatment session for bilateral limb injections = 30 Units/kg or 1000 Units, whichever is lower Maximum total dose per treatment session = 30 Units/kg or 1000 Units, whichever is lower |
 
 * No more than 1 mL should generally be administered at any single injections site ‡ No more than 0.5 mL of DYSPORT should be administered in any single injection site ** Further dilution with preservative-free 0.9% Sodium Chloride Injection, USP, may be required to achieve the final volume for injection.
 
@@ -171,11 +171,11 @@ Dosing in initial and sequential treatment sessions should be tailored to the in
 No more than 0.5 mL should generally be administered at any single injection site.
 The maximum recommended total dose of DYSPORT in a single treatment session for spasticity in pediatric patients 2 years or older is 30 Units/kg or 1000 Units in a 3-month interval.
 Although actual location of the injection sites can be determined by palpation, the use of injection guiding technique (e.g., electromyography or electrical stimulation) is recommended to target the injection sites.
-Upper Limb Spasticity in Pediatric Patients 2 Years of Age and Older, Excluding Spasticity Caused by Cerebral Palsy In the clinical trial that assessed the efficacy and safety of DYSPORT for treatment of upper limb spasticity in pediatric patients 2 years of age or older with a weight of at least 10 kg [see Clinical Studies (14.4)], doses of 8 Units/kg or 16 Units/kg were divided among selected muscles of the target upper limb at a given treatment session (see Table 5 and Figure 4).
+Upper Limb Spasticity in Pediatric Patients 2 Years of Age and Older In the clinical trial that assessed the efficacy and safety of DYSPORT for treatment of upper limb spasticity in pediatric patients 2 years of age or older with a weight of at least 10 kg [see Clinical Studies (14.4)], doses of 8 Units/kg or 16 Units/kg were divided among selected muscles of the target upper limb at a given treatment session (see Table 5 and Figure 4).
 Table 5 describes the recommended Units/kg dose of DYSPORT per muscle.
 The maximum recommended total dose of DYSPORT administered for treatment of upper limb spasticity must not exceed 16 Units/kg or 640 Units, whichever is lower.
 
-Table 5: DYSPORT Dosing by Muscle for Upper Limb Spasticity Patients, Excluding Spasticity Cauased by Cerebral Palsy
+Table 5: DYSPORT Dosing by Muscle for Upper Limb Spasticity in Pediatric Patients
 
 | Muscle | Recommended Dose Range per muscle per upper limb (units/kg Body Weight) | Number of injection sites per muscle |
 | --- | --- | --- |

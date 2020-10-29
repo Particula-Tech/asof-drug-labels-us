@@ -40,20 +40,12 @@ Glabellar Lines
 
 DYSPORT is not recommended for use in pediatric patients less than 18 years of age.
 
-Upper Limb Spasticity, Excluding Spasticity Caused by Cerebral Palsy
+Spasticity
 
 Safety and effectiveness have been established in pediatric patients 2 years of age and older [see Warnings and Precautions (5.1), Adverse Reactions (6.1), and Clinical Studies (14.4)].
-The safety and effectiveness of DYSPORT have been established by evidence from adequate and well-controlled studies of DYSPORT in patients 2 years of age and older with upper limb spasticity.
-A pediatric assessment for DYSPORT demonstrates that DYSPORT is safe and effective in another pediatric population.
-However, DYSPORT is not approved for such patient population due to marketing exclusivity for another botulinum toxin.
-Safety and effectiveness in pediatric patients below the age of 2 years have not been established [see Boxed Warning and Warnings and Precautions (5.2)].
-
-Lower Limb Spasticity in Pediatric Patients
-
-Safety and effectiveness have been established in pediatric patients 2 years of age and older [see Warnings and Precautions (5.1), Adverse Reactions (6.1), and Clinical Studies (14.4)].
-The safety and effectiveness of DYSPORT have been established by evidence from adequate and well-controlled studies of DYSPORT in patients 2 years of age and older with lower limb spasticity.
-The safety and effectiveness of DYSPORT injected into proximal muscles of the lower limb for the treatment of spasticity in pediatric patients has not been established [see Boxed Warning, Warnings and Precautions (5.2) and Adverse Reactions (6.1)].
-Safety and effectiveness in pediatric patients below the age of 2 years have not been established [see Boxed Warning, Warnings and Precautions (5.2)]
+The safety and effectiveness of DYSPORT have been established by evidence from adequate and well-controlled studies of DYSPORT in patients 2 years of age and older with upper and lower limb spasticity.
+The safety and effectiveness of DYSPORT injected into proximal muscles of the lower limb for the treatment of spasticity in pediatric patients has not been established [see Boxed Warning, Warnings and Precautions (5.2), and Adverse Reactions (6.1)].
+Safety and effectiveness in pediatric.below the age of 2 years have not been established [see Boxed Warning and Warnings and Precautions (5.2)].
 
 Juvenile Animal Data
 

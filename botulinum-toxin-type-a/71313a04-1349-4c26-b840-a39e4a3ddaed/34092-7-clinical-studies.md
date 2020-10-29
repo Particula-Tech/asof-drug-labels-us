@@ -208,8 +208,8 @@ Table 23: Primary Endpoint Change in MAS and the First Secondary Endpoint PGA at
 
 ## 14.4 Spasticity in Pediatric Patients
 
-Upper Limb Spasticity in Pediatric Patients The efficacy of DYSPORT for the treatment of upper limb spasticity in pediatric patients 2 years of age and older was evaluated in a double-blind, low-dose controlled, multicenter study (NCT02106351).
-A total of 208 toxin naive or non-naive (66% had prior treatment with a botulinum toxin) patients weighing at least 10 kgs, with a baseline Modified Ashworth Score (MAS) of grade 2 or greater (99% patients) at the primary targeted muscle groups (PTMG), were enrolled in the modified Intention to Treat population (mITT).
+Upper Limb Spasticity in Pediatric Patients The efficacy of DYSPORT for the treatment of upper limb spasticity in pediatric patients 2 to 17 years of age was evaluated in a double-blind, low-dose controlled, multicenter study (NCT02106351).
+A total of 208 patients with spasticity because of cerebral palsy who were toxin naïve or non-naïve (66% had prior treatment with botulinum toxin), weighed at least 10 kgs, and had a baseline Modified Ashworth Score (MAS) of grade 2 or greater (99% patients) at the primary targeted muscle groups (PTMG), were enrolled in the modified Intention to Treat population (mITT).
 Patients received DYSPORT 16 Units/kg (n=70), DYSPORT 8 Units/kg (n=69), or DYSPORT 2 Units/kg (n=69) injected into the upper limb.
 The elbow flexors and wrist flexors respectively were the PTMG in 57% and in 43% of patients.
 The median age of the patients in this study was 9 years (range 2 to 17 years; 57% were between 2 and 9 years of age); 60% of patients were male, and 75% were White.
@@ -218,7 +218,7 @@ The primary efficacy endpoint was the mean change from baseline in MAS in the PT
 The secondary efficacy endpoint was the mean Physician Global Assessment (PGA) score assessed at Week 6 (Table 25).
 Although PGA scores numerically favored DYSPORT treatment over the low-dose control, the difference was not statistically significant.
 
-Table 24: Modified Ashworth Scale Score in the PTMG Change from Baseline at Week 6 in Pediatric Patients in Upper LImb Spasticity (mITT Population)
+Table 24: Modified Ashworth Scale Score in the PTMG Change from Baseline at Week 6 in Pediatric Patients with Upper LImb Spasticity (mITT Population)
 
 |  | Control Group | Treatment Groups |  |
 | --- | --- | --- | --- |
@@ -253,8 +253,9 @@ Table 25: Physician Global Assessment of Treatment Response at Week 6 in Pediatr
 
 aLS=Least Square b p-value is derived from ANOVA on ranked PGA score with treatment, age range at baseline, prior botulinum toxin treatment status at baseline, and center as explanatory variables
 
-Lower Limb Spasticity in Pediatric Patients The efficacy of DYSPORT was evaluated in a double-blind, placebo-controlled, multicenter study in patients 2 to 17 years of age treated for lower limb spasticity because of cerebral palsy causing dynamic equinus foot deformity.
-A total of 235 (158 DYSPORT and 77 placebo) toxin-naive or non-naive patients with a Modified Ashworth Score (MAS) of grade 2 or greater at the ankle plantar flexors were enrolled to receive DYSPORT 10 Units/kg/leg (n=79), DYSPORT 15 Units/kg/leg (n=79) or placebo (n=77) injected into the gastrocnemius and soleus muscles (see Table 27).
+Lower Limb Spasticity in Pediatric Patients The efficacy of DYSPORT for the treatment of lower limb spasticity in patients 2 to 17 years of age was evaluated in a double-blind, placebo-controlled, multicenter study.
+A total of 235 patients with cerebral palsy causing dynamic equinus foot deformity who were toxin-naïve or non-naïve and had a Modified Ashworth Score (MAS) of grade 2 or greater at the ankle plantar flexors were enrolled.
+Patients received DYSPORT 10 Units/kg/leg (n=79), DYSPORT 15 Units/kg/leg (n=79) or placebo (n=77) injected into the gastrocnemius and soleus muscles (see Table 27).
 Forty-one percent of patients (n=66) were treated bilaterally and received a total lower limb DYSPORT dose of either 20 Units/kg (n=37) or 30 Units/kg (n=29).
 The median age of the patients in this study was 5 years (range 2 to 17 years); 60% of patients were male, and 73% were Caucasian.
 The primary efficacy endpoint was the mean change from baseline in MAS in ankle plantar flexor at Week 4; a co-primary endpoint was the mean Physician’s Global Assessment (PGA) score at Week 4 (see Table 26).

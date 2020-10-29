@@ -28,25 +28,13 @@ DYSPORT is a prescription medicine that is injected into muscles and used:
 
 - to treat cervical dystonia (CD) in adults
 - to improve the look of moderate to severe frown lines between the eyebrows (glabellar lines) in adults younger than 65 years of age for a short period of time (temporary)
-- to treat increased muscle stiffness in adults with spasticity
-- to treat increased muscle stiffness in children 2 years of age and older with upper limb spasticity, excluding spasticity caused by cerebral palsy
-- to treat increased muscle stiffness in children 2 years of age and older with lower limb spasticity
+- to treat increased muscle stiffness in people 2 years of age and older with spasticity
 
 It is not known whether DYSPORT is safe or effective in people younger than:
 
 - 18 years of age for the treatment of cervical dystonia
 - 18 years of age for the treatment of glabellar lines
 - 2 years of age for the treatment of spasticity
-
-It is not known whether DYSPORT is safe or effective for the treatment of other types of muscle spasms.
-It is not known whether DYSPORT is safe or effective for the treatment of other wrinkles.
-
-Lower limb spasticity in children is caused by muscle spasms in calf muscles.
-These spasms cause an abnormal position of these muscles.
-After DYSPORT is injected into muscles, those muscles are weakened for up to 16 to 22 weeks or longer.
-This may help lessen your symptoms.
-
-• For the treatment of cervical dystonia, glabellar lines, and upper limb spasticity in adults, it is not known whether DYSPORT is safe or effective in children under 18 years of age. • For the treatment of lower limb spasticity, it is not known whether DYSPORT is safe or effective in children under 2 years of age. • It is not known whether DYSPORT is safe or effective for the treatment of other types of muscle spasms. • It is not known whether DYSPORT is safe or effective for the treatment of other wrinkles.
 
 Who should not take DYSPORT?
 
@@ -152,6 +140,7 @@ The most common side effects of DYSPORT in adults with lower limb spasticity inc
 
 - muscle weakness
 - pain in your arms or legs
+- fall
 
 The most common side effects of DYSPORT in children (2 to 17 years of age) with upper limb spasticity include:
 
@@ -190,6 +179,6 @@ Distributed by: Ipsen Biopharmaceuticals, Inc. Cambridge, MA 02142 and Galderma 
 Fort Worth, TX 76177; Manufactured by: Ipsen Biopharma Ltd., Wrexham, LL13 9UF, UK U.S. License No. 1787 For more information about DYSPORT, call 855-463-5127 or go to www.dysport.com or www.DysportUSA.com.
 This Medication Guide has been approved by the U.S. Food and Drug Administration
 
-Revised 9/2019 DYSPORT is a registered trademark of Ipsen Biopharm Limited.
-Botox, Xeomin and Myobloc are registered trademarks of their respective owners. © 2019.
+Revised 07/2020 DYSPORT is a registered trademark of Ipsen Biopharm Limited.
+Botox, Xeomin and Myobloc are registered trademarks of their respective owners. © 2020.
 All rights reserved.

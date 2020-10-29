@@ -7,7 +7,7 @@ The following serious adverse reactions are discussed below and elsewhere in lab
 - Spread of Toxin Effect [see Warnings and Precautions (5.2)]
 - Hypersensitivity Reactions [see Warnings and Precautions (5.3)]
 - Dysphagia and Breathing Difficulties [see Warnings and Precautions (5.4)]
-- Facial Anatomy in the Treatment of Glabellar Lines [see Warnings and Precautions (5.6)]
+- Facial Anatomy in the Treatment of Glabellar Lines [see Warnings and Precautions (5.5)]
 - Dry Eye with the Treatment of Glabellar Lines [see Warnings and Precautions (5.6)]
 - Pre-existing Neuromuscular Disorders [see Warnings and Precautions (5.7)]
 - Human Albumin and Transmission of Viral Diseases [see Warnings and Precautions (5.8)]
@@ -214,7 +214,7 @@ Table 12: Adverse Reactions Observed in ≥ 3% of Patients Treated in the Double
 | Musculoskeletal and connective tissue diorders Muscular weakness | 1 | 4 | 6 |
 | Nervous system disorders Headache Epilepsy | 0 1 | 6 0 | 3 4 |
 
-1 Low dose active comparator arm 2 includes pharyngitis, pharyngitis streptococcal, pharyngotosilitis
+1 Low dose active comparator arm 2 Includes pharyngitis, pharyngitis streptococcal, pharyngotosilitis
 
 Additional adverse reactions occurring below 3% and considered to be drug related include: myalgia, pain in extremity, fatigue, influenza-like illness, injection site eczema, injection site bruising, injection site rash, injection site pain, and injection site swelling.
 
