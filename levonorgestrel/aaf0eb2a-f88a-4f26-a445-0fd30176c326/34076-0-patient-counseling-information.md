@@ -46,7 +46,7 @@ Allergan USA, Inc. Medicines360
 
 Irvine, CA 92612 San Francisco, CA 94111
 
-© 2020 Allergan and Medicines360.
+© 2019 Allergan and Medicines360.
 All rights reserved.
 
 V1.0USPI5858

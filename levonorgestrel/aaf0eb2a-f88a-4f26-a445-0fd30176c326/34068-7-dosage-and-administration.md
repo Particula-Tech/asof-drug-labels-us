@@ -164,13 +164,12 @@ Step 4 – Inserting LILETTA into the Uterus
 
 Figure 8: Advancing Insertion Tube until Flange is 1.5 to 2 cm from the External Cervix
 
-● Using your thumb or finger, gently slide only the BLUE slider back.
-You will feel slight resistance initially to move the BLUE slider out of its starting position.
-Continue to move the BLUE slider back until you feel slight resistance again as the BLUE and GREEN sliders will merge together to form a joint slider recess.
-Do not move the BLUE slider any more than is necessary to create the recess.
-Maintain the GREEN slider so that the double line markings on the slider and the insertion handle remain aligned (Figure 9).
-This will allow the IUS arms to open in the lower uterine segment.
-Do not pull the sliders back any further as this could result in premature release of the IUS at the incorrect location.
+- Using your thumb or finger, gently slide only the BLUE slider back until you feel resistance.
+  The BLUE and GREEN sliders will merge together to form a common slider recess.
+  Do not move the BLUE slider any more than is necessary to create the recess.
+  Maintain the GREEN slider so that the double line markings on the slider and the insertion handle remain aligned (Figure 9).
+  This will allow the IUS arms to open in the lower uterine segment.
+  Do not pull the sliders back any further as this could result in premature release of the IUS at the incorrect location.
 
 Figure 9: Releasing and Opening the Arms of the IUS
 
@@ -184,7 +183,7 @@ Figure 10: Move LILETTA into the Fundal Position
 
 Step 5 – Releasing LILETTA and Procedure Completion
 
-While holding the inserter steady and maintaining its position relative to the cervix, move both sliders (BLUE and GREEN) together while maintaining the joint slider recess down toward the number 3 on the handle (Figure 11) until a click is heard and the GREEN indicator at the bottom of the handle is visible, signifying deployment (Figure 12).
+While holding the inserter steady and maintaining its position relative to the cervix, move both sliders (BLUE and GREEN) together while maintaining the common slider recess down toward the number 3 on the handle (Figure 11) until a click is heard and the GREEN indicator at the bottom of the handle is visible (Figure 12).
 
 Figure 11: Releasing LILETTA from the Inserter Tube
 
