@@ -2,7 +2,7 @@
 
 Original Prescription Strength
 
-NDC 50580-646-01
+NDC 50580-646-02
 
 RHINOCORT® ALLERGY SPRAY
 
@@ -15,4 +15,4 @@ Budesonide (glucocorticoid) Nasal spray, 32 mcg per spray Nasal Allergy Symptom 
 - Itchy Nose
 - Sneezing
 
-60 SPRAYS 0.169 fl oz (5 ml)
+120 SPRAYS 0.285 fl oz (8.43 ml)
