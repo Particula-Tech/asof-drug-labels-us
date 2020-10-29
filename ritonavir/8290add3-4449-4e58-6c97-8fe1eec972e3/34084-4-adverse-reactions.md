@@ -230,4 +230,6 @@ Body as a Whole Redistribution/accumulation of body fat has been reported [see W
 Cardiovascular Bradyarrhythmias.
 First-degree AV block, second-degree AV block, third-degree AV block, QTc interval prolongation, torsades (torsade) de pointes [see Warnings and Precautions (5.5, 5.6)].
 
+Renal and Urinary Disorders Nephrolithiasis
+
 Skin and Appendages Toxic epidermal necrolysis (TEN), Stevens-Johnson syndrome and erythema multiforme.
