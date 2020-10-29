@@ -1,4 +1,4 @@
 # ACTIONS:
 
 MESTINON inhibits the destruction of acetylcholine by cholinesterase and thereby permits freer transmission of nerve impulses across the neuromuscular junction.
-Pyridostigmine is an analog of neostigmine (PROSTIGMIN™), but differs from it in certain clinically significant respects; for example, pyridostigmine is characterized by a longer duration of action and fewer gastrointestinal side effects.
+Pyridostigmine is an analog of neostigmine (Prostigmin), but differs from it in certain clinically significant respects; for example, pyridostigmine is characterized by a longer duration of action and fewer gastrointestinal side effects.

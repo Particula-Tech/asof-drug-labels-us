@@ -36,14 +36,10 @@ Store at 25°C (77°F); excursions permitted to 15° to 30°C (59° to 86°F).
 
 # PRINCIPAL DISPLAY PANEL - 180 mg Bottle Label
 
-NDC 0187-3013-30 Rx Only Pull here
-
-Mestinon® (pyridostigmine bromide) TIMESPAN®
+NDC 0187-3013-30 Rx Only MESTINON® (pyridostigmine bromide) TIMESPAN® Tablets
 
 180 mg
 
-Each tablet contains180 mg pyridostigmine bromide in a specially constructed tablet for sustained release
-
 30 Tablets
 
-VALEANT
+Each tablet contains180 mg pyridostigmine bromide in a specially constructed tablet for sustained release BAUSCH Health
