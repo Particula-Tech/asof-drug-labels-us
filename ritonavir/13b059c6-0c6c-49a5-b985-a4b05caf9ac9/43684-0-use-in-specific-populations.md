@@ -57,7 +57,7 @@ Because of the potential for (1) HIV transmission (in HIV-negative infants), (2)
 Contraception
 
 Use of NORVIR may reduce the efficacy of combined hormonal contraceptives.
-Advise patients using combined hormonal contraceptives to use an effective alternative contraceptive method or an additional barrier method of contraception [see Drug Interactions (7.3)].
+Advise patients using combined hormonal contraceptives to use an effective alternative contraceptive method or an additional barrier method of contraception [see Drug Interactions (7.2)].
 
 ## 8.4 Pediatric Use
 

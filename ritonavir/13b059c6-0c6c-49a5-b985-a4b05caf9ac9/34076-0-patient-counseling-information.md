@@ -20,7 +20,7 @@ General Administration Information [see Dosage and Administration (2)]:
 Drug Interactions
 
 - NORVIR may interact with some drugs; therefore, patients should be advised to report to their doctor the use of any other prescription, non-prescription medication or herbal products, particularly St. John's Wort.
-- Instruct patients receiving combined hormonal contraception to use an effective alternative contraceptive method or an additional barrier method during therapy with NORVIR because hormonal levels may decrease [see Drug Interactions (7.3), Use in Specific Populations (8.3)].
+- Instruct patients receiving combined hormonal contraception to use an effective alternative contraceptive method or an additional barrier method during therapy with NORVIR because hormonal levels may decrease [see Drug Interactions (7.2), Use in Specific Populations (8.3)].
 
 Hepatotoxicity
 
@@ -75,4 +75,4 @@ NORVIR 100 mg soft gelatin capsules are manufactured for:
 
 AbbVie Inc. North Chicago, IL 60064 USA
 
-©2019 AbbVie Inc. All rights reserved.
+©2020 AbbVie Inc. All rights reserved.

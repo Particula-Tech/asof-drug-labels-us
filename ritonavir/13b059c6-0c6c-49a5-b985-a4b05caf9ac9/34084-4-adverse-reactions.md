@@ -143,6 +143,10 @@ Nervous System
 There have been postmarketing reports of seizure.
 Also, see Cardiovascular System.
 
+Renal and Urinary Disorders
+
+Nephrolithiasis
+
 Skin and subcutaneous tissue disorders
 
 Toxic epidermal necrolysis (TEN) has been reported.
