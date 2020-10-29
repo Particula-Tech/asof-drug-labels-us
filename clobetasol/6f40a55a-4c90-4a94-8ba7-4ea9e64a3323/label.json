@@ -1,0 +1,20 @@
+{
+  "application_numbers": [
+    "NDA213691"
+  ],
+  "inn": "clobetasol",
+  "labeler": "Mylan Specialty L.P.",
+  "package_ndcs": [
+    "49502-537-35",
+    "49502-537-99"
+  ],
+  "products": [
+    {
+      "form": "LOTION",
+      "generic": "clobetasol propionate",
+      "name": "IMPEKLO"
+    }
+  ],
+  "setid": "6f40a55a-4c90-4a94-8ba7-4ea9e64a3323",
+  "source": "dailymed"
+}
