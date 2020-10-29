@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "ANDA213255"
+  ],
+  "inn": "acetaminophen",
+  "labeler": "Mylan Institutional LLC",
+  "package_ndcs": [
+    "67457-940-10"
+  ],
+  "products": [
+    {
+      "form": "INJECTION, SOLUTION",
+      "generic": "acetaminophen",
+      "name": "Acetaminophen"
+    }
+  ],
+  "setid": "1d456d07-fca2-4d43-92c0-f3b3c8b54420",
+  "source": "dailymed"
+}
