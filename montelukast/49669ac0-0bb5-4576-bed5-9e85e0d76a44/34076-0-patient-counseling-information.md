@@ -16,4 +16,4 @@ For the tablets and chewable tablets, advise the patient and/or caregiver to rea
 - Instruct patients with known aspirin sensitivity to continue avoidance of aspirin or non-steroidal anti-inflammatory agents while taking montelukast sodium.
 - Inform phenylketonuric patients that the 4 mg and 5 mg chewable tablets contain phenylalanine (a component of aspartame).
 
-Dispense with medication guide available at: http://www.risingpharma.com/med-guides.html Distributed by: Rising Health, LLC Saddle Brook, NJ 07663 Made in India Code: TS/DRUGS/22/2009 Revised: 05/2020
+Dispense with medication guide available at: http://www.risingpharma.com/med-guides.html Distributed by: Rising Health, LLC Saddle Brook, NJ 07663 Made in India Code: TS/DRUGS/22/2009 Revised: 10/2020
