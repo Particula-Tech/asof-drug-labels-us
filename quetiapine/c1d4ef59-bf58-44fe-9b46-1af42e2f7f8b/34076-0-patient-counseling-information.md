@@ -2,7 +2,7 @@
 
 Advise the patient to read the FDA-approved patient labeling (Medication Guide)
 
-Patients should be advised of the following issues and asked to alert their prescriber if these occur while taking quetiapine fumarate.
+Patients should be advised of the following issues and asked to alert their prescriber if these occur while taking quetiapine.
 
 Increased Mortality in Elderly Patients with Dementia-Related Psychosis
 
@@ -46,8 +46,8 @@ Children and adolescent patients should have their blood pressure measured at th
 
 Leukopenia/Neutropenia
 
-Patients with a pre-existing low WBC or a history of drug induced leukopenia/neutropenia should be advised that they should have their CBC monitored while taking quetiapine fumarate.
-Patients should be advised to talk to their doctor as soon as possible if they have a fever, flu-like symptoms, sore throat, or any other infection as this could be a result of a very low WBC, which may require quetiapine fumarate to be stopped and/or treatment to be given [see Warnings and Precautions (5.10)].
+Patients with a pre-existing low WBC or a history of drug-induced leukopenia/neutropenia should be advised that they should have their CBC monitored while taking quetiapine.
+Patients should be advised to talk to their doctor as soon as possible if they have a fever, flu-like symptoms, sore throat, or any other infection as this could be a result of a very low WBC, which may require quetiapine to be stopped and/or treatment to be given [see Warnings and Precautions (5.10)].
 
 Interference with Cognitive and Motor Performance
 
@@ -64,26 +64,26 @@ As with other medications, patients should be advised to notify their physicians
 
 Pregnancy
 
-Advise pregnant women to notify their healthcare provider if they become pregnant or intend to become pregnant during treatment with quetiapine fumarate.
-Advise patients that quetiapine fumarate may cause extrapyramidal and/or withdrawal symptoms (agitation, hypertonia, hypotonia, tremor, somnolence, respiratory distress, and feeding disorder) in a neonate.
-Advise patients that there is a pregnancy registry that monitors pregnancy outcomes in women exposed to quetiapine fumarate during pregnancy [see Use in Specific Populations (8.1)].
+Advise pregnant women to notify their healthcare provider if they become pregnant or intend to become pregnant during treatment with quetiapine.
+Advise patients that quetiapine may cause extrapyramidal and/or withdrawal symptoms (agitation, hypertonia, hypotonia, tremor, somnolence, respiratory distress, and feeding disorder) in a neonate.
+Advise patients that there is a pregnancy registry that monitors pregnancy outcomes in women exposed to quetiapine during pregnancy [see Use in Specific Populations (8.1)].
 
 Infertility
 
-Advise females of reproductive potential that quetiapine fumarate may impair fertility due to an increase in serum prolactin levels.
+Advise females of reproductive potential that quetiapine may impair fertility due to an increase in serum prolactin levels.
 The effects on fertility are reversible [see Use in Specific Populations (8.3)].
 
 Need for Comprehensive Treatment Program
 
-Quetiapine fumarate is indicated as an integral part of a total treatment program for adolescents with schizophrenia and pediatric bipolar disorder that may include other measures (psychological, educational, and social).
-Effectiveness and safety of quetiapine fumarate have not been established in pediatric patients less than 13 years of age for schizophrenia or less than 10 years of age for bipolar mania.
+Quetiapine is indicated as an integral part of a total treatment program for adolescents with schizophrenia and pediatric bipolar disorder that may include other measures (psychological, educational, and social).
+Effectiveness and safety of quetiapine have not been established in pediatric patients less than 13 years of age for schizophrenia or less than 10 years of age for bipolar mania.
 Appropriate educational placement is essential and psychosocial intervention is often helpful.
 The decision to prescribe atypical antipsychotic medication will depend upon the physician’s assessment of the chronicity and severity of the patient’s symptoms [see Indications and Usage (1.3)].
 
 Manufactured In Czech Republic By: Teva Czech Industries, s.r.o.
 Opava-Komarov, Czech Republic
 
-Manufactured For: Teva Pharmaceuticals USA, Inc. North Wales, PA 19454
+Manufactured For: Teva Pharmaceuticals USA, Inc. Parsippany, NJ 07054
 
 Rev.
-M 2/2020
+N 9/2020

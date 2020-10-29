@@ -1,6 +1,6 @@
 # 16 HOW SUPPLIED/STORAGE AND HANDLING
 
-Quetiapine Tablets USP are available as follows:
+Quetiapine Tablets, USP are available as follows:
 
 25 mg – light orange, round, biconvex, film-coated, unscored tablets, debossed with “93” on one side and “V7” on the other side, in bottles of 100 (NDC 0093-2063-01).
 

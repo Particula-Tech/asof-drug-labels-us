@@ -4,15 +4,19 @@
 
 NDC 0093-2063-01
 
-Quetiapine Tablets USP 25 mg*
+Quetiapine Tablets, USP 25 mg*
 
-PHARMACIST: Dispense the accompanying Medication Guide to each patient.
+PHARMACIST: Dispense the
+
+accompanying Medication
+
+Guide to each patient.
 
 Rx only
 
-100TABLETS
+100Tablets
 
-TEVA
+teva
 
 # Package/Label Display Panel
 
@@ -20,15 +24,19 @@ TEVA
 
 NDC 0093-8166-01
 
-Quetiapine Tablets USP 50 mg*
+Quetiapine Tablets, USP 50 mg*
 
-PHARMACIST: Dispense the accompanying Medication Guide to each patient.
+PHARMACIST: Dispense the
+
+accompanying Medication
+
+Guide to each patient.
 
 Rx only
 
-100TABLETS
+100Tablets
 
-TEVA
+teva
 
 # Package/Label Display Panel
 
@@ -36,15 +44,19 @@ TEVA
 
 NDC 0093-8162-01
 
-Quetiapine Tablets USP 100 mg*
+Quetiapine Tablets, USP 100 mg*
 
-PHARMACIST: Dispense the accompanying Medication Guide to each patient.
+PHARMACIST: Dispense the
+
+accompanying Medication
+
+Guide to each patient.
 
 Rx only
 
-100TABLETS
+100Tablets
 
-TEVA
+teva
 
 # Package/Label Display Panel
 
@@ -52,15 +64,19 @@ TEVA
 
 NDC 0093-8163-01
 
-Quetiapine Tablets USP 200 mg*
+Quetiapine Tablets, USP 200 mg*
 
-PHARMACIST: Dispense the accompanying Medication Guide to each patient.
+PHARMACIST: Dispense the
+
+accompanying Medication
+
+Guide to each patient.
 
 Rx only
 
-100TABLETS
+100Tablets
 
-TEVA
+teva
 
 # Package/Label Display Panel
 
@@ -68,15 +84,19 @@ TEVA
 
 NDC 0093-8164-01
 
-Quetiapine Tablets USP 300 mg*
+Quetiapine Tablets, USP 300 mg*
 
-PHARMACIST: Dispense the accompanying Medication Guide to each patient.
+PHARMACIST: Dispense the
+
+accompanying Medication
+
+Guide to each patient.
 
 Rx only
 
-100TABLETS
+100Tablets
 
-TEVA
+teva
 
 # Package/Label Display Panel
 
@@ -84,12 +104,16 @@ TEVA
 
 NDC 0093-8165-01
 
-Quetiapine Tablets USP 400 mg*
+Quetiapine Tablets, USP 400 mg*
 
-PHARMACIST: Dispense the accompanying Medication Guide to each patient.
+PHARMACIST: Dispense the
+
+accompanying Medication
+
+Guide to each patient.
 
 Rx only
 
-100TABLETS
+100Tablets
 
-TEVA
+teva

@@ -91,11 +91,11 @@ Before you take quetiapine tablets, tell your healthcare provider if you have or
 - any other medical condition
 - pregnancy or plans to become pregnant.
   It is not known if quetiapine tablets will harm your unborn baby.
-- If you become pregnant while receiving quetiapine fumarate, talk to your healthcare provider about registering with the National Pregnancy Registry for Atypical Antipsychotics.
+- If you become pregnant while receiving quetiapine, talk to your healthcare provider about registering with the National Pregnancy Registry for Atypical Antipsychotics.
   You can register by calling 1-866-961-2388 or go to http://womensmentalhealth.org/clinical-and-research-programs/pregnancyregistry/
 - breast-feeding or plans to breast-feed.
-  Quetiapine fumarate can pass into your breast milk.
-  Talk to your healthcare provider about the best way to feed your baby if you receive quetiapine fumarate.
+  Quetiapine can pass into your breast milk.
+  Talk to your healthcare provider about the best way to feed your baby if you receive quetiapine.
 - if you have or have had a condition where you cannot completely empty your bladder (urinary retention), have an enlarged prostate, or constipation, or increased pressure inside your eyes.
 
 Tell the healthcare provider about all the medicines that you take or recently have taken including prescription medicines, over-the-counter medicines, herbal supplements, and vitamins.
@@ -103,7 +103,7 @@ Tell the healthcare provider about all the medicines that you take or recently h
 Quetiapine tablets and other medicines may affect each other causing serious side effects.
 Quetiapine tablets may affect the way other medicines work, and other medicines may affect how quetiapine tablets work.
 
-Tell your healthcare provider if you are having a urine drug screen because quetiapine fumarate may affect your test results.
+Tell your healthcare provider if you are having a urine drug screen because quetiapine may affect your test results.
 Tell those giving the test that you are taking quetiapine tablets.
 
 How should I take quetiapine tablets?
@@ -246,7 +246,7 @@ For more information, call 1-888-838-2872.
 
 What are the ingredients in quetiapine tablets?
 
-Active ingredient: quetiapine fumarate
+Active ingredient: quetiapine
 
 Inactive ingredients: colloidal silicon dioxide, dibasic calcium phosphate dihydrate, hypromellose, lactose monohydrate, magnesium stearate, microcrystalline cellulose, povidone, sodium starch glycolate, titanium dioxide and triacetin.
 Additionally, the 25 mg, 100 mg, and 300 mg tablets contain iron oxide yellow; the 25 mg and 100 mg tablets contain FD&C yellow #6/sunset yellow FCF/aluminum lake; and the 50 mg, 200 mg, and 400 mg tablets contain polydextrose and polyethylene glycol.
@@ -256,7 +256,7 @@ This Medication Guide has been approved by the U.S. Food and Drug Administration
 Manufactured In Czech Republic By: Teva Czech Industries, s.r.o.
 Opava-Komarov, Czech Republic
 
-Manufactured For: Teva Pharmaceuticals USA, Inc. North Wales, PA 19454
+Manufactured For: Teva Pharmaceuticals USA, Inc. Parsippany, NJ 07054
 
 Rev.
-J 2/2020
+K 9/2020

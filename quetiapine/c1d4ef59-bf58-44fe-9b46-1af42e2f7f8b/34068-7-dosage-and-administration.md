@@ -43,7 +43,7 @@ Quetiapine tablets dose should be reduced to one sixth of original dose when co-
 
 ## 2.6 Dose Modifications when used with CYP3A4 Inducers
 
-Quetiapine tablets dose should be increased up to 5 fold of the original dose when used in combination with a chronic treatment (e.g., greater than 7 to 14 days) of a potent CYP3A4 inducer (e.g., phenytoin, carbamazepine, rifampin, avasimibe, St. John’s wort etc.). The dose should be titrated based on the clinical response and tolerability of the individual patient.
+Quetiapine tablets dose should be increased up to 5-fold of the original dose when used in combination with a chronic treatment (e.g., greater than 7 to 14 days) of a potent CYP3A4 inducer (e.g., phenytoin, carbamazepine, rifampin, avasimibe, St. John’s wort etc.). The dose should be titrated based on the clinical response and tolerability of the individual patient.
 When the CYP3A4 inducer is discontinued, the dose of quetiapine tablets should be reduced to the original level within 7 to 14 days [see Clinical Pharmacology (12.3) and Drug Interactions (7.1)].
 
 ## 2.7 Re-initiation of Treatment in Patients Previously Discontinued
