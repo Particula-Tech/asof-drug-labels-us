@@ -6,7 +6,7 @@ Ertapenem for Injection
 
 1 g per vial
 
-For Intravenous or Intramuscular Use 10 Single dose vials
+For Intravenous or Intramuscular Use 10 Single-dose vials
 
 Rx only
 
@@ -20,6 +20,6 @@ Ertapenem for Injection
 
 For Intravenous or Intramuscular Use
 
-Single dose vial
+Single-dose vial
 
 Rx only

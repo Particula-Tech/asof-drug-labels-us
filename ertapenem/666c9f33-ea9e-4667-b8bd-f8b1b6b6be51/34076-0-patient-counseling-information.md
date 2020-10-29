@@ -24,4 +24,4 @@ Lake Zurich, IL 60047 www.fresenius-kabi.com/us
 
 Made in Italy
 
-451641A Revised: October 2019
+451641B Revised: May 2020

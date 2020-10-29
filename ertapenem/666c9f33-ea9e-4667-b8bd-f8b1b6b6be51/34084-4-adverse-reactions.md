@@ -66,9 +66,13 @@ Digestive System: acid regurgitation, oral candidiasis, dyspepsia, gastrointesti
 
 Musculoskeletal System: leg pain
 
-Nervous System & Psychiatric: anxiety, nervousness, seizure [see Warnings and Precautions (5.2)], tremor, depression, hypesthesia, spasm, paresthesia, aggressive behavior, vertigo Respiratory System: cough, pharyngitis, rales/rhonchi, respiratory distress, pleural effusion, hypoxemia, bronchoconstriction, pharyngeal discomfort, epistaxis, pleuritic pain, asthma, hemoptysis, hiccups, voice disturbance
+Nervous System & Psychiatric: anxiety, nervousness, seizure [see Warnings and Precautions (5.2)], tremor, depression, hypesthesia, spasm, paresthesia, aggressive behavior, vertigo
 
-Skin & Skin Appendage: erythema, sweating, dermatitis, desquamation, flushing, urticaria Special Senses: taste perversion
+Respiratory System: cough, pharyngitis, rales/rhonchi, respiratory distress, pleural effusion, hypoxemia, bronchoconstriction, pharyngeal discomfort, epistaxis, pleuritic pain, asthma, hemoptysis, hiccups, voice disturbance
+
+Skin & Skin Appendage: erythema, sweating, dermatitis, desquamation, flushing, urticaria
+
+Special Senses: taste perversion
 
 Urogenital System: renal impairment, oliguria/anuria, vaginal pruritus, hematuria, urinary retention, bladder dysfunction, vaginal candidiasis, vulvovaginitis.
 

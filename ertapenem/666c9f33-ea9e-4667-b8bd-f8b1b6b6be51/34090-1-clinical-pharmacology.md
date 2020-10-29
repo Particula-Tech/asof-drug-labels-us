@@ -89,10 +89,10 @@ Total and unbound fractions of ertapenem pharmacokinetics were investigated in 2
 
 Following a single 1 g I.V. dose of ertapenem, the unbound AUC increased 1.5-fold and 2.3-fold in subjects with mild renal impairment (CL CR 60 to 90 mL/min/1.73 m 2) and moderate renal impairment (CL CR 31 to 59 mL/min/1.73 m 2), respectively, compared with healthy young subjects (25 to 45 years of age).
 No dosage adjustment is necessary in patients with CL CR ≥ 31 mL/min/1.73 m 2.
-The unbound AUC increased 4.4-fold and 7.6-fold in subjects with advanced renal impairment (CL CR 5 to 30 mL/min/1.73 m 2) and endstage renal disease (CL CR < 10 mL/min/1.73 m 2), respectively, compared with healthy young subjects.
+The unbound AUC increased 4.4-fold and 7.6-fold in subjects with advanced renal impairment (CL CR 5 to 30 mL/min/1.73 m 2) and end-stage renal disease (CL CR < 10 mL/min/1.73 m 2), respectively, compared with healthy young subjects.
 The effects of renal impairment on AUC of total drug were of smaller magnitude.
 The recommended dose of ertapenem in adult patients with CL CR ≤ 30 mL/min/1.73 m 2 is 0.5 grams every 24 hours.
-Following a single 1 g I.V. dose given immediately prior to a 4 hour hemodialysis session in 5 adult patients with endstage renal disease, approximately 30% of the dose was recovered in the dialysate.
+Following a single 1 g I.V. dose given immediately prior to a 4 hour hemodialysis session in 5 adult patients with end-stage renal disease, approximately 30% of the dose was recovered in the dialysate.
 Dose adjustments are recommended for patients with severe renal impairment and end-stage renal disease [see Dosage and Administration (2.4)].
 There are no data in pediatric patients with renal impairment.
 

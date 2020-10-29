@@ -66,10 +66,10 @@ There are no data in pediatric patients on hemodialysis.
 When only the serum creatinine is available, the following formula 1 may be used to estimate creatinine clearance.
 The serum creatinine should represent a steady state of renal function.
 
-| Males: | (weight in kg) x (140-age in years) |  |
-| --- | --- | --- |
-| (72) x serum creatinine (mg/100 mL) |  |  |
-| Females: | (0.85) x (value calculated for males) |  |
+| Males: | (weight in kg) x (140-age in years) |
+| --- | --- |
+|  | (72) x serum creatinine (mg/100 mL) |
+| Females: | (0.85) x (value calculated for males) |
 
 1Cockcroft and Gault equation: Cockcroft DW, Gault MH.
 Prediction of creatinine clearance from serum creatinine.
@@ -109,6 +109,8 @@ ERTAPENEM FOR INJECTION MUST BE RECONSTITUTED PRIOR TO ADMINISTRATION.
 
 NOTE: THE RECONSTITUTED SOLUTION SHOULD NOT BE ADMINISTERED INTRAVENOUSLY.
 
+Discard unused portion.
+
 2Refer to the prescribing information for lidocaine HCl.
 
 Pediatric patients 3 months to 12 years of age
@@ -135,6 +137,8 @@ ERTAPENEM FOR INJECTION MUST BE RECONSTITUTED PRIOR TO ADMINISTRATION.
 3. The reconstituted I.M. solution should be used within 1 hour after preparation.
 
 NOTE: THE RECONSTITUTED SOLUTION SHOULD NOT BE ADMINISTERED INTRAVENOUSLY.
+
+Discard unused portion.
 
 2Refer to the prescribing information for lidocaine HCl.
 

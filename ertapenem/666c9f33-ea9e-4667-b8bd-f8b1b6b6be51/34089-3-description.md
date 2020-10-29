@@ -2,9 +2,9 @@
 
 Ertapenem for Injection is a sterile, synthetic, parenteral, 1-β methyl-carbapenem that is structurally related to beta-lactam antibiotics.
 
-Chemically, Ertapenem for Injection is described as [4 R-[3(3 S*,5 S*),4α,5β,6β(R*)]]-3-[[5-[[(3-carboxyphenyl)amino]carbonyl]-3-pyrrolidinyl]thio]-6-(1-hydroxyethyl)-4-methyl-7-oxo-1-azabicyclo [3.2.0]hept-2-ene-2-carboxylic acid monosodium salt.
+Chemically, Ertapenem for Injection is described as [4R-[3(3S*,5S*),4α,5β,6β(R*)]]-3-[[5-[[(3-carboxyphenyl)amino]carbonyl]-3-pyrrolidinyl]thio]-6-(1-hydroxyethyl)-4-methyl-7-oxo-1-azabicyclo [3.2.0]hept-2-ene-2-carboxylic acid monosodium salt.
 Its molecular weight is 497.5.
-The empirical formula is C 22H 24N 3O 7SNa, and its structural formula is:
+The empirical formula is C22H24N3O7SNa, and its structural formula is:
 
 Ertapenem sodium is a white to off-white hygroscopic, weakly crystalline powder.
 It is soluble in water and 0.9% sodium chloride solution, practically insoluble in ethanol, and insoluble in isopropyl acetate and tetrahydrofuran.
