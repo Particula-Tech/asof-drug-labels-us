@@ -96,8 +96,8 @@ Table 3: XEOMIN Dosing by Muscle for Treatment of Pediatric Upper Limb Spasticit
 | Flexor carpi radialis | 1 | 25 | 1 |
 | Flexor carpi ulnaris | 1 | 25 | 1 |
 | Pronated Forearm |  |  |  |
-| Pronator quadratus | 0.5 | 12.5 | 2 |
-| Pronator teres | 1-2 | 50 | 1 |
+| Pronator quadratus | 0.5 | 12.5 | 1 |
+| Pronator teres | 1-2 | 50 | 1-2 |
 | Clenched Fist |  |  |  |
 | Flexor digitorum superficialis | 1 | 25 | 1 |
 | Flexor digitorum profundus | 1 | 25 | 1 |
