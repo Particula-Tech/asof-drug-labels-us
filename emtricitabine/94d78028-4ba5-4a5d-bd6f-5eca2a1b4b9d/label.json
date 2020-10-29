@@ -1,0 +1,22 @@
+{
+  "application_numbers": [
+    "ANDA209721"
+  ],
+  "inn": "emtricitabine",
+  "labeler": "Amneal Pharmaceuticals NY LLC",
+  "package_ndcs": [
+    "60219-2092-3",
+    "60219-2093-3",
+    "60219-2094-3",
+    "60219-2095-3"
+  ],
+  "products": [
+    {
+      "form": "TABLET, FILM COATED",
+      "generic": "emtricitabine and tenofovir disoproxil fumarate",
+      "name": "Emtricitabine and Tenofovir Disoproxil Fumarate"
+    }
+  ],
+  "setid": "94d78028-4ba5-4a5d-bd6f-5eca2a1b4b9d",
+  "source": "dailymed"
+}
