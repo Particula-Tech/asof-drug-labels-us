@@ -46,7 +46,7 @@ No effects on neurobehavior, sensory and motor function, or learning and memory 
 
 In a toxicity study in juvenile dogs treated with fosaprepitant from postnatal day 14 (equivalent to a newborn human) to day 42 (approximately equivalent to a 2 year old human), decreased testicular weight and Leydig cell size were seen in the males at 6 mg/kg/day and increased uterine weight, hypertrophy of the uterus and cervix, and edema of vaginal tissues were seen in females from 4 mg/kg/day.
 A study was also conducted in young rats to evaluate the effects of aprepitant on growth and on neurobehavioral and sexual development.
-Rats were treated at oral doses up to the maximum feasible dose of 1000 mg/kg twice daily from the early postnatal period (Postnatal Day 10 (equivalent to a newborn human) through Postnatal Day 58 (approximately equivalent to a 15 year old human).
+Rats were treated at oral doses up to the maximum feasible dose of 1000 mg/kg twice daily from the early postnatal period (Postnatal Day 10 (equivalent to a newborn human) through Postnatal Day 58 (approximately equivalent to a 15 year old human)).
 Slight changes in the onset of sexual maturation were observed in female and male rats; however, there were no effects on mating, fertility, embryonic-fetal survival, or histomorphology of the reproductive organs.
 There were no effects in neurobehavioral tests of sensory function, motor function, and learning and memory.
 

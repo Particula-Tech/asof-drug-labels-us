@@ -9,7 +9,7 @@ The following clinically significant adverse reactions are described elsewhere i
 
 Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in clinical practice.
 
-The overall safety of fosaprepitant for injection was evaluated in approximately 1600 adult patients.
+The overall safety of fosaprepitant for injection was evaluated in approximately 1,600 adult patients.
 
 Adverse Reactions in Adults for the Prevention of Nausea and Vomiting Associated with MEC
 

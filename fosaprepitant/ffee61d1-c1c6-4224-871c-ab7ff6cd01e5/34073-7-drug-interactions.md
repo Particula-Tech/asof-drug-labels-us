@@ -39,7 +39,7 @@ Table 7
 | Examples | birth control pills, skin patches, implants, and certain IUDs |
 | CYP2C9 Substrates |  |
 | Warfarin |  |
-| Clinical Impact | Decreased warfarin exposure and prolongation of prothrombin time (INR) [see Warnings and Precautions (5.4), Clinical Pharmacology (12.3)]. |
+| Clinical Impact | Decreased warfarin exposure and decreased prothrombin time (INR) [see Warnings and Precautions (5.4), Clinical Pharmacology (12.3)]. |
 | Intervention | In patients on chronic warfarin therapy, monitor the prothrombin time (INR) in the 2-week period, particularly at 7 to 10 days, following administration of fosaprepitant for injection with each chemotherapy cycle. |
 | Other |  |
 | 5-HT3 Antagonists |  |

@@ -10,7 +10,7 @@ Table 1
 | Recommended Adult Dosing for the Prevention of Nausea and Vomiting Associated with HEC |  |  |  |  |
 | --- | --- | --- | --- | --- |
 |  | Day 1 | Day 2 | Day 3 | Day 4 |
-| Fosaprepitant for injection | 150 mg intravenously over 20 to 30 minutes approximately 30 minutes prior to chemotherapy | none | none | none |
+| Fosaprepitant for injection | 150 mg intravenously over 20 to 30 minutes | none | none | none |
 | Dexamethasone* | 12 mg orally | 8 mg orally | 8 mg orally twice daily | 8 mg orally twice daily |
 | 5-HT3 antagonist | See selected 5-HT3 antagonist prescribing information for the recommended dosage | none | none | none |
 | * Administer dexamethasone 30 minutes prior to chemotherapy treatment on Day 1 and in the morning on Days 2 through 4. Also administer dexamethasone in the evenings on Days 3 and 4. A 50% dosage reduction of dexamethasone on Days 1 and 2 is recommended to account for a drug interaction with fosaprepitant for injection [see Clinical Pharmacology (12.3)]. |  |  |  |  |
@@ -20,7 +20,7 @@ Table 2
 | Recommended Adult Dosing for the Prevention of Nausea and Vomiting Associated with MEC |  |
 | --- | --- |
 |  | Day 1 |
-| Fosaprepitant for injection | 150 mg intravenously over 20 to 30 minutes approximately 30 minutes prior to chemotherapy |
+| Fosaprepitant for injection | 150 mg intravenously over 20 to 30 minutes |
 | Dexamethasone* | 12 mg orally |
 | 5-HT3 antagonist | See selected 5-HT3 antagonist prescribing information for the recommended dosage |
 | *Administer dexamethasone 30 minutes prior to chemotherapy treatment on Day 1. A 50% dosage reduction of dexamethasone is recommended to account for a drug interaction with fosaprepitant for injection [see Clinical Pharmacology (12.3)]. |  |

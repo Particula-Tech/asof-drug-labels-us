@@ -24,6 +24,4 @@ Lake Zurich, IL 60047
 
 www.fresenius-kabi.com/us
 
-451365B
-
-Revised: June 2020
+451365C
