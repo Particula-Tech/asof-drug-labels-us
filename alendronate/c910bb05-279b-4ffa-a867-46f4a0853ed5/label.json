@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "ANDA090520"
+  ],
+  "inn": "alendronate",
+  "labeler": "Hikma Pharmaceuticals USA Inc.",
+  "package_ndcs": [
+    "0054-0282-59"
+  ],
+  "products": [
+    {
+      "form": "SOLUTION",
+      "generic": "alendronate sodium",
+      "name": "Alendronate Sodium"
+    }
+  ],
+  "setid": "c910bb05-279b-4ffa-a867-46f4a0853ed5",
+  "source": "dailymed"
+}
