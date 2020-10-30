@@ -12,13 +12,12 @@ DO NOT REFRIGERATE.
 
 Rx only
 
-Distributed by: MEDA Pharmaceuticals® Meda Pharmaceuticals Inc. Somerset, New Jersey 08873-4120 ©2018 Meda Pharmaceuticals Inc.
+Distributed by: Meda Pharmaceuticals Inc. Somerset, New Jersey 08873-4120
+
+©2020 Mylan Specialty L.P.
 
 For Medical Inquiries, call toll-free 1-877-848-6608
 
-CORTIFOAM and MEDA PHARMACEUTICALS are registered trademarks of Meda AB or a related entity.
+Cortifoam is a registered trademark of Alaven Pharmaceutical LLC, a Mylan company.
 
-IN-683015-03 Rev.
-7/2018
-
-26612
+IN-683015-04 141153-0720

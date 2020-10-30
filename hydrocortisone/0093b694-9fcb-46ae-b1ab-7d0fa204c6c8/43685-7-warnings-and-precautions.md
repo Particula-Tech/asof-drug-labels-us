@@ -1,6 +1,6 @@
 # WARNINGS
 
-## General:
+## General
 
 Do not insert any part of the aerosol container directly into the anus.
 Contents of the container are under pressure.
@@ -11,7 +11,7 @@ If there is not evidence of clinical or proctologic improvement within two or th
 
 Rare instances of anaphylactoid reactions have occurred in patients receiving corticosteroid therapy (see ADVERSE REACTIONS).
 
-## Cardio-renal:
+## Cardio-renal
 
 Corticosteroids can cause elevation of blood pressure, salt and water retention, and increased excretion of potassium.
 These effects are less likely to occur with the synthetic derivatives except when used in large doses.
@@ -20,7 +20,7 @@ All corticosteroids increase calcium excretion.
 
 Literature reports suggest an apparent association between use of corticosteroids and left ventricular free wall rupture after a recent myocardial infarction; therefore, therapy with corticosteroids should be used with great caution in these patients.
 
-## Endocrine:
+## Endocrine
 
 Corticosteroids can produce reversible hypothalamic-pituitary adrenal (HPA) axis suppression with the potential for glucocorticosteroid insufficiency after withdrawal of treatment.
 
@@ -29,7 +29,7 @@ Changes in thyroid status of the patient may necessitate adjustment in dosage.
 
 # PRECAUTIONS
 
-## General:
+## General
 
 The lowest possible dose of corticosteroid should be used to control the condition under treatment.
 When reduction in dosage is possible, the reduction should be gradual.
@@ -39,17 +39,17 @@ Since complications of treatment with glucocorticoids are dependent on the size 
 Kaposi's sarcoma has been reported to occur in patients receiving corticosteroid therapy, most often for chronic conditions.
 Discontinuation of corticosteroids may result in clinical improvement.
 
-## Cardio-renal:
+## Cardio-renal
 
 As sodium retention with resultant edema and potassium loss may occur in patients receiving corticosteroids, these agents should be used with caution in patients with congestive heart failure, hypertension, or renal insufficiency.
 
-## Endocrine:
+## Endocrine
 
 Drug-induced secondary adrenocortical insufficiency may be minimized by gradual reduction of dosage.
 This type of relative insufficiency may persist for months after discontinuation of therapy; therefore, in any situation of stress occurring during that period, hormone therapy should be reinstituted.
 Since mineralocorticoid secretion may be impaired, salt and/or a mineralocorticoid should be administered concurrently.
 
-## Gastrointestinal:
+## Gastrointestinal
 
 Steroids should be used with caution in active or latent peptic ulcers, diverticulitis, fresh intestinal anastomoses, and nonspecific ulcerative colitis, since they may increase the risk of a perforation.
 Where surgery is imminent, it is hazardous to wait more than a few days for a satisfactory response to medical treatment.
@@ -60,13 +60,13 @@ Signs of peritoneal irritation following gastrointestinal perforation in patient
 
 There is an enhanced effect of corticosteroids in patients with cirrhosis.
 
-## Musculoskeletal:
+## Musculoskeletal
 
 Corticosteroids decrease bone formation and increase bone resorption both through their effect on calcium regulation (i.e., decreasing absorption and increasing excretion) and inhibition of osteoblast function.
 This, together with a decrease in the protein matrix of the bone secondary to an increase in protein catabolism, and reduced sex hormone production, may lead to inhibition of bone growth in pediatric patients and the development of osteoporosis at any age.
 Special consideration should be given to patients at increased risk of osteoporosis (i.e., postmenopausal women) before initiating corticosteroid therapy.
 
-## Neuro-psychiatric:
+## Neuro-psychiatric
 
 An acute myopathy has been observed with the use of high doses of corticosteroids, most often occurring in patients with disorders of neuromuscular transmission (e.g., myasthenia gravis), or in patients receiving concomitant therapy with neuromuscular blocking drugs (e.g., pancuronium).
 This acute myopathy is generalized, may involve ocular and respiratory muscles, and may result in quadriparesis.
@@ -76,19 +76,19 @@ Clinical improvement or recovery after stopping corticosteroids may require week
 Psychic derangements may appear when corticosteroids are used, ranging from euphoria, insomnia, mood swings, personality changes, and severe depression to frank psychotic manifestations.
 Also, existing emotional instability or psychotic tendencies may be aggravated by corticosteroids.
 
-## Ophthalmic:
+## Ophthalmic
 
 Intraocular pressure may become elevated in some individuals.
 If steroid therapy is continued for more than 6 weeks, intraocular pressure should be monitored.
 
-## Information for Patients:
+## Information for Patients
 
 Patients should be warned not to discontinue the use of corticosteroids abruptly or without medical supervision, to advise any medical attendants that they are taking corticosteroids and to seek medical advice at once should they develop fever or other signs of infection.
 
 Persons who are on corticosteroids should be warned to avoid exposure to chicken pox or measles.
 Patients should also be advised that if they are exposed, medical advice should be sought without delay.
 
-## Drug Interactions:
+## Drug Interactions
 
 Aminoglutethimide: Aminoglutethimide may lead to a loss of corticosteroid-induced adrenal suppression.
 
@@ -130,13 +130,13 @@ Vaccines: Patients on prolonged corticosteroid therapy may exhibit a diminished 
 Corticosteroids may also potentiate the replication of some organisms contained in live attenuated vaccines.
 Routine administration of vaccines or toxoids should be deferred until corticosteroid therapy is discontinued if possible (see WARNINGS, Infections, Vaccination).
 
-## Carcinogenesis, Mutagenesis, Impairment of Fertility:
+## Carcinogenesis, Mutagenesis, Impairment of Fertility
 
 No adequate studies have been conducted in animals to determine whether corticosteroids have a potential for carcinogenesis or mutagenesis.
 
 Steroids may increase or decrease motility and number of spermatozoa in some patients.
 
-## Pregnancy: Teratogenic Effects:
+## Pregnancy: Teratogenic Effects
 
 Corticosteroids have been shown to be teratogenic in many species when given in doses equivalent to the human dose.
 Animal studies in which corticosteroids have been given to pregnant mice, rats, and rabbits have yielded an increased incidence of cleft palate in the offspring.
@@ -144,15 +144,15 @@ There are no adequate and well-controlled studies in pregnant women.
 Corticosteroids should be used during pregnancy only if the potential benefit justifies the potential risk to the fetus.
 Infants born to mothers who have received corticosteroids during pregnancy should be carefully observed for signs of hypoadrenalism.
 
-## Nursing Mothers:
+## Nursing Mothers
 
 Systemically administered corticosteroids appear in human milk and could suppress growth, interfere with endogenous corticosteroid production, or cause other untoward effects.
 Caution should be exercised when corticosteroids are administered to a nursing woman.
 
-## Pediatric Use:
+## Pediatric Use
 
 Safety and effectiveness in pediatric patients have not been established.
 
-## Geriatric use:
+## Geriatric use
 
 No overall differences in safety or effectiveness were observed between elderly subjects and younger subjects, and other reported clinical experience has not identified differences in responses between the elderly and younger patients, but greater sensitivity of some older individuals cannot be ruled out.
