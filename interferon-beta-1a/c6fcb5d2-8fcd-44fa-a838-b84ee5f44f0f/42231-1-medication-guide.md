@@ -1,6 +1,6 @@
 # MEDICATION GUIDE
 
-REBIF interferon beta-1a Injection for subcutaneous use
+REBIF (interferon beta-1a) Injection for subcutaneous use
 
 Read this Medication Guide before you start using REBIF and each time you get a refill.
 There may be new information.
@@ -50,7 +50,7 @@ Do not take REBIF if you:
 
 What should I tell my healthcare provider before taking REBIF?
 
-Before you take REBIF, tell your healthcare provider if have or have had any of the following conditions:
+Before you take REBIF, tell your healthcare provider if you have or have had any of the following conditions:
 
 - mental illness, including depression and suicidal behavior
 - liver problems
@@ -143,7 +143,7 @@ General information about the safe and effective use of REBIF
 
 Medicines are sometimes prescribed for purposes other than those listed in a Medication Guide.
 Do not use REBIF for a condition for which it was not prescribed.
-Do not give REBIF to other people, even if they have they have the same symptoms that you have.
+Do not give REBIF to other people, even if they have the same symptoms that you have.
 It may harm them.
 
 This Medication Guide summarizes the most important information about REBIF.

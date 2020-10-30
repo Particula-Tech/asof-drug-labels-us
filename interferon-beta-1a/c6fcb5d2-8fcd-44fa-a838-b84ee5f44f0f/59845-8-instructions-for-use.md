@@ -1,4 +1,4 @@
-# Instructions for Use REBIF (Re-bif) interferon beta-1a (in-ter-feer-on beta-one-â) Injection for subcutaneous use Prefilled Syringe
+# Instructions for Use REBIF (Re-bif) (interferon beta-1a) (in-ter-feer-on beta-one-â) Injection for subcutaneous use Prefilled Syringe
 
 Read and follow the Instructions for Use that come with your REBIF prefilled syringe before you start using it and each time you get a refill.
 Before you use a REBIF prefilled syringe for the first time, make sure your healthcare provider shows you the right way to use it.
@@ -112,7 +112,7 @@ Manufactured by: EMD Serono, Inc. Rockland, MA 02370 U.S. License 1773
 
 Marketed by: EMD Serono, Inc. Rockland, MA 02370
 
-Revised 11/2015
+Revised 10/2020
 
 Rebif® Rebidose®
 
