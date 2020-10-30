@@ -75,17 +75,7 @@ While not observed in clinical trials with Zoledronic Acid Injection, there have
 
 Only limited clinical data are available for use of Zoledronic Acid Injection to treat hypercalcemia of malignancy in patients with hepatic insufficiency, and these data are not adequate to provide guidance on dosage selection or how to safely use Zoledronic Acid Injection in these patients.
 
-## 5.9 Use in Pregnancy
-
-Bisphosphonates, such as Zoledronic Acid Injection, are incorporated into the bone matrix, from where they are gradually released over periods of weeks to years.
-There may be a risk of fetal harm (e.g., skeletal and other abnormalities) if a woman becomes pregnant after completing a course of bisphosphonate therapy.
-
-Zoledronic Acid Injection may cause fetal harm when administered to a pregnant woman.
-In reproductive studies in pregnant rats, subcutaneous doses equivalent to 2.4 or 4.8 times the human systemic exposure resulted in pre- and post-implantation losses, decreases in viable fetuses and fetal skeletal, visceral, and external malformations.
-There are no adequate and well-controlled studies in pregnant women.
-If this drug is used during pregnancy, or if the patient becomes pregnant while taking this drug, the patient should be apprised of the potential hazard to a fetus [see Use in Specific Populations (8.1)].
-
-## 5.10 Hypocalcemia
+## 5.9 Hypocalcemia
 
 Hypocalcemia has been reported in patients treated with Zoledronic Acid Injection.
 Cardiac arrhythmias and neurologic adverse events (seizures, tetany, and numbness) have been reported secondary to cases of severe hypocalcemia.
@@ -93,3 +83,12 @@ In some instances, hypocalcemia may be life-threatening.
 Caution is advised when Zoledronic Acid Injection is administered with drugs known to cause hypocalcemia, as severe hypocalcemia may develop, [see Drug Interactions (7)].
 Serum calcium should be measured and hypocalcemia must be corrected before initiating Zoledronic Acid Injection.
 Adequately supplement patients with calcium and vitamin D.
+
+## 5.10 Embryo-Fetal Toxicity
+
+Based on findings from animal studies and its mechanism of action, Zoledronic Acid Injection can cause fetal harm when administered to a pregnant woman.
+In animal reproduction studies, administration of zoledronic acid to pregnant rats during organogenesis resulted in fetal malformations and embryo-fetal lethality at maternal exposures that were greater than or equal to 2.4 times the human clinical exposure based on area under the curve (AUC).
+Bisphosphonates, such as Zoledronic Acid Injection, are incorporated into the bone matrix, from where they are gradually released over periods of weeks to years.
+There may be a risk of fetal harm (e.g., skeletal and other abnormalities) if a woman becomes pregnant after completing a course of bisphosphonate therapy.
+Advise pregnant women and females of reproductive potential of the potential risk to a fetus.
+Advise females of reproductive potential to use effective contraception during and after Zoledronic Acid Injection treatment [see Use in Specific Populations (8.1, 8.3), Clinical Pharmacology (12.1)].

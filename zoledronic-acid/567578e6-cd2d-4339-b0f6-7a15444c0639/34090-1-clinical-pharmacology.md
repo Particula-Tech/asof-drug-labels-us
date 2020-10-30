@@ -59,7 +59,7 @@ The balance of drug not recovered in urine over 0-24 hours, representing drug pr
 The 0-24 hour renal clearance of zoledronic acid was 3.7 ± 2.0 L/h.
 
 Zoledronic acid clearance was independent of dose but dependent upon the patient's creatinine clearance.
-In a study in patients with cancer and bone metastases, increasing the infusion time of a 4-mg dose of zoledronic acid from 5 minutes (n=5) to 15 minutes (n=7) resulted in a 34% decrease in the zoledronic acid concentration at the end of the infusion ([mean ± SD] 403 ± 118 ng/mL versus 264 ± 86 ng/mL) and a 10% increase in the total AUC (378 ± 116 ng x h/mL versus 420 ± 218 ng x h/mL).
+In a study in patients with cancer and bone metastases, increasing the infusion time of a 4-mg dose of zoledronic acid from 5 minutes (n = 5) to 15 minutes (n = 7) resulted in a 34% decrease in the zoledronic acid concentration at the end of the infusion ([mean ± SD] 403 ± 118 ng/mL versus 264 ± 86 ng/mL) and a 10% increase in the total AUC (378 ± 116 ng x h/mL versus 420 ± 218 ng x h/mL).
 The difference between the AUC means was not statistically significant.
 
 Special Populations
@@ -83,14 +83,14 @@ No clinical studies were conducted to evaluate the effect of hepatic impairment 
 Renal Insufficiency
 
 The pharmacokinetic studies conducted in 64 cancer patients represented typical clinical populations with normal to moderately impaired renal function.
-Compared to patients with normal renal function (N=37), patients with mild renal impairment (N=15) showed an average increase in plasma AUC of 15%, whereas patients with moderate renal impairment (N=11) showed an average increase in plasma AUC of 43%.
+Compared to patients with normal renal function (N = 37), patients with mild renal impairment (N = 15) showed an average increase in plasma AUC of 15%, whereas patients with moderate renal impairment (N = 11) showed an average increase in plasma AUC of 43%.
 Limited pharmacokinetic data are available for Zoledronic Acid Injection in patients with severe renal impairment (creatinine clearance less than 30 mL/min).
 Based on population PK/PD modeling, the risk of renal deterioration appears to increase with AUC, which is doubled at a creatinine clearance of 10 mL/min.
 Creatinine clearance is calculated by the Cockcroft-Gault formula:
 
-- CrCl=[140-age (years)] x weight (kg) {x 0.85 for female patients} [72 x serum creatinine (mg/dL)]
+- CrCl = [140-age (years)] x weight (kg) {x 0.85 for female patients} [72 x serum creatinine (mg/dL)]
 
 Zoledronic Acid Injection systemic clearance in individual patients can be calculated from the population clearance of Zoledronic Acid Injection, CL (L/h)=6.5(CrCl/90)0.4.
-These formulae can be used to predict the Zoledronic Acid Injection AUC in patients, where CL=Dose/AUC0-∞.
+These formulae can be used to predict the Zoledronic Acid Injection AUC in patients, where CL = Dose/AUC0-∞.
 The average AUC0-24 in patients with normal renal function was 0.42 mg•h/L and the calculated AUC0-∞ for a patient with creatinine clearance of 75 mL/min was 0.66 mg•h/L following a 4-mg dose of Zoledronic Acid Injection.
 However, efficacy and safety of adjusted dosing based on these formulae have not been prospectively assessed [see Warnings and Precautions (5.3)].
