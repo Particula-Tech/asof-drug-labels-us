@@ -1,6 +1,6 @@
 # INSTRUCTIONS FOR USE
 
-Lansoprazole (lan-SOE-pra-zole) Delayed-Release Orally Disintegrating Tablets
+Lansoprazole (lan-soe'-pra-zole) Delayed-Release Orally Disintegrating Tablets
 
 Important:
 
@@ -52,4 +52,4 @@ Ltd. Jerusalem, 9777402, Israel
 Manufactured For: Teva Pharmaceuticals USA, Inc. North Wales, PA 19454
 
 Rev.
-A 10/2017
+B 2/2020

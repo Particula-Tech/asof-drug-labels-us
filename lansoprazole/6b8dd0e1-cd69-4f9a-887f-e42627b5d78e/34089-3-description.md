@@ -1,10 +1,8 @@
 # 11 DESCRIPTION
 
-The active ingredient in Lansoprazole Delayed-Release Orally Disintegrating Tablets is lansoprazole, USP, a substituted benzimidazole, 2-[[[3-methyl-4-(2,2,2-trifluoroethoxy)-2-pyridyl] methyl] sulfinyl] benzimidazole, a compound that inhibits gastric acid secretion.
+The active ingredient in Lansoprazole Delayed-Release Orally Disintegrating Tablets is lansoprazole USP, a substituted benzimidazole, 2-[[[3-methyl-4-(2,2,2-trifluoroethoxy)-2-pyridyl] methyl] sulfinyl] benzimidazole, a compound that inhibits gastric acid secretion.
+Its molecular formula is C16H14F3N3O2S with a molecular weight of 369.36.
 Lansoprazole, USP has the following structure:
-
-C16H14F3N3O2S M.W.
-369.36
 
 Lansoprazole, USP is a white to brownish crystalline powder which melts with decomposition at approximately 166°C.
 Lansoprazole, USP is freely soluble in dimethylformamide; soluble in methanol; sparingly soluble in ethanol; slightly soluble in ethyl acetate, dichloromethane and acetonitrile; very slightly soluble in ether; and practically insoluble in hexane and water.

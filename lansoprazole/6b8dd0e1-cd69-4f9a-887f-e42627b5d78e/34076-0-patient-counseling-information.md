@@ -61,4 +61,4 @@ Ltd. Jerusalem, 9777402, Israel
 Manufactured For: Teva Pharmaceuticals USA, Inc. North Wales, PA 19454
 
 Rev.
-B 6/2018
+D 9/2020

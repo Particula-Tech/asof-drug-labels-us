@@ -7,7 +7,7 @@
 | Duodenal Ulcers |  |  |
 | Short-Term Treatment | 15 mg | Once daily for 4 weeks |
 | Maintenance of Healed | 15 mg | Once daily |
-| Eradication of H. pylori to Reduce the Risk of Duodenal Ulcer Recurrence1 |  |  |
+| Eradication of H. pylori to Reduce the Risk of Duodenal Ulcer Recurrence* |  |  |
 | Triple Therapy: |  |  |
 | Lansoprazole | 30 mg | Twice daily for 10 or 14 days |
 | Amoxicillin | 1 gram | Twice daily for 10 or 14 days |
@@ -18,24 +18,24 @@
 | Benign Gastric Ulcer |  |  |
 | Short-Term Treatment | 30 mg | Once daily for up to 8 weeks |
 | NSAID-Associated Gastric Ulcer |  |  |
-| Healing | 30 mg | Once daily for 8 weeks2 |
-| Risk Reduction | 15 mg | Once daily for up to 12 weeks2 |
+| Healing | 30 mg | Once daily for 8 weeks† |
+| Risk Reduction | 15 mg | Once daily for up to 12 weeks† |
 | Gastroesophageal Reflux Disease (GERD) |  |  |
 | Short-Term Treatment of Symptomatic GERD | 15 mg | Once daily for up to 8 weeks |
-| Short-Term Treatment of Erosive Esophagitis | 30 mg | Once daily for up to 8 weeks3 |
-| Maintenance of Healing of Erosive Esophagitis | 15 mg | Once daily4 |
-| Pathological Hypersecretory Conditions Including Zollinger-Ellison Syndrome | 60 mg | Once daily5 |
-| 1. Please refer to the amoxicillin and clarithromycin full prescribing information, Contraindications and Warnings and Precautions sections, and for information regarding dosing in elderly and renally-impaired patients. |  |  |
-| 2. Controlled studies did not extend beyond indicated duration. |  |  |
-| 3. For patients who do not heal with lansoprazole delayed-release orally disintegrating tablets for eight weeks (5 to 10%), it may be helpful to give an additional eight weeks of treatment. If there is a recurrence of erosive esophagitis, an additional eight week course of lansoprazole delayed-release orally disintegrating tablets may be considered. |  |  |
-| 4. Controlled studies did not extend beyond 12 months. |  |  |
-| 5. Varies with individual patient. Recommended adult starting dose is 60 mg once daily. Doses should be adjusted to individual patient needs and should continue for as long as clinically indicated. Dosages up to 90 mg twice daily have been administered. Daily dose of greater than 120 mg should be administered in divided doses. Some patients with Zollinger-Ellison syndrome have been treated continuously with lansoprazole for more than four years. |  |  |
+| Short-Term Treatment of Erosive Esophagitis | 30 mg | Once daily for up to 8 weeks‡ |
+| Maintenance of Healing of Erosive Esophagitis | 15 mg | Once daily¶ |
+| Pathological Hypersecretory Conditions Including Zollinger-Ellison Syndrome | 60 mg | Once daily§ |
+| * Please refer to the amoxicillin and clarithromycin full prescribing information, Contraindications and Warnings and Precautions sections, and for information regarding dosing in elderly and renally-impaired patients. |  |  |
+| † Controlled studies did not extend beyond indicated duration. |  |  |
+| ‡ For patients who do not heal with lansoprazole delayed-release orally disintegrating tablets for eight weeks (5 to 10%), it may be helpful to give an additional eight weeks of treatment. If there is a recurrence of erosive esophagitis, an additional eight week course of lansoprazole delayed-release orally disintegrating tablets may be considered. |  |  |
+| § Varies with individual patient. Recommended adult starting dose is 60 mg once daily. Doses should be adjusted to individual patient needs and should continue for as long as clinically indicated. Dosages up to 90 mg twice daily have been administered. Daily dose of greater than 120 mg should be administered in divided doses. Some patients with Zollinger-Ellison syndrome have been treated continuously with lansoprazole for more than four years. |  |  |
+| ¶ Controlled studies did not extend beyond 12 months. |  |  |
 
 ## 2.2 Recommended Pediatric Dosage by Indication
 
 Pediatric Patients 1 to 11 Years of Age
 
-In clinical studies, lansoprazole was not administered beyond 12 weeks in 1 to 11 year old.
+In clinical studies, lansoprazole was not administered beyond 12 weeks in 1 to 11 year olds.
 It is not known if lansoprazole is safe and effective if used longer than the recommended duration.
 Do not exceed the recommended dose and duration of use in pediatric patients as outlined below [see Use in Specific Populations (8.4)].
 
