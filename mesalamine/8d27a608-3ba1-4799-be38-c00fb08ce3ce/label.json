@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "NDA022301"
+  ],
+  "inn": "mesalamine",
+  "labeler": "Teva Pharmaceuticals USA, Inc.-",
+  "package_ndcs": [
+    "0093-9224-89"
+  ],
+  "products": [
+    {
+      "form": "CAPSULE, EXTENDED RELEASE",
+      "generic": "mesalamine",
+      "name": "mesalamine"
+    }
+  ],
+  "setid": "8d27a608-3ba1-4799-be38-c00fb08ce3ce",
+  "source": "dailymed"
+}
