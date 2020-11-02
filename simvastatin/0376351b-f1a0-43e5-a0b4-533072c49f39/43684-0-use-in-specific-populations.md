@@ -19,7 +19,9 @@ Simvastatin was not teratogenic in rats or rabbits at doses (25, 10 mg/kg/day, r
 However, in studies with another structurally-related statin, skeletal malformations were observed in rats and mice.
 Women of childbearing potential, who require treatment with simvastatin for a lipid disorder, should be advised to use effective contraception.
 For women trying to conceive, discontinuation of simvastatin should be considered.
-If pregnancy occurs, simvastatin should be immediately discontinued.
+If pregnancy occurs, simvastatin should be immediately discontinued. _________________________________
+
+2 Manson, J.M., Freyssinges, C., Ducrocq, M.B., Stephenson, W.P., Postmarketing Surveillance of Lovastatin and Simvastatin Exposure During Pregnancy, Reproductive Toxicology, 10(6):439-446, 1996.
 
 ## 8.3 Nursing Mothers
 
@@ -35,9 +37,7 @@ Doses greater than 40 mg have not been studied in this population.
 In this limited controlled study, there was no significant effect on growth or sexual maturation in the adolescent boys or girls, or on menstrual cycle length in girls.
 [See Dosage and Administration (2.5), Adverse Reactions (6.1), Clinical Studies (14.2).]
 Adolescent females should be counseled on appropriate contraceptive methods while on simvastatin therapy [see Contraindications (4) and Use in Specific Populations (8.1)].
-Simvastatin has not been studied in patients younger than 10 years of age, nor in pre-menarchal girls. _________________________________
-
-2 Manson, J.M., Freyssinges, C., Ducrocq, M.B., Stephenson, W.P., Postmarketing Surveillance of Lovastatin and Simvastatin Exposure During Pregnancy, Reproductive Toxicology, 10(6):439-446, 1996.
+Simvastatin has not been studied in patients younger than 10 years of age, nor in pre-menarchal girls.
 
 ## 8.5 Geriatric Use
 
@@ -65,7 +65,7 @@ Caution should be exercised when simvastatin is administered to patients with se
 
 ## 8.7 Hepatic Impairment
 
-Simvastatin is contraindicated in patients with active liver disease which may include unexplained persistent elevations in hepatic transaminase levels [see Contraindications (4) and Warnings and Precautions (5.2)].
+Simvastatin is contraindicated in patients with active liver disease which may include unexplained persistent elevations in hepatic transaminase levels [see Contraindications (4) and Warnings and Precautions (5.3)].
 
 ## 8.8 Chinese Patients
 

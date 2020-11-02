@@ -2,7 +2,7 @@
 
 ## 6.1 Clinical Trials Experience
 
-Because clinical studies are conducted under widely varying conditions, adverse reaction rates observed in the clinical studies of a drug cannot be directly compared to rates in the clinical studies of another drug and may not reflect the rates observed in practice.
+Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in practice.
 In the pre-marketing controlled clinical studies and their open extensions (2,423 patients with median duration of follow-up of approximately 18 months), 1.4% of patients were discontinued due to adverse reactions.
 The most common adverse reactions that led to treatment discontinuation were: gastrointestinal disorders (0.5%), myalgia (0.1%), and arthralgia (0.1%).
 The most commonly reported adverse reactions (incidence ≥5%) in simvastatin controlled clinical trials were: upper respiratory infections (9%), headache (7.4%), abdominal pain (7.3%), constipation (6.6%), and nausea (5.4%).
@@ -30,7 +30,7 @@ The incidence of rhabdomyolysis (defined as myopathy with a CK >40 times ULN) in
 The incidence of myopathy, including rhabdomyolysis, was highest during the first year and then notably decreased during the subsequent years of treatment.
 In this trial, patients were carefully monitored and some interacting medicinal products were excluded.
 Other adverse reactions reported in clinical trials were: diarrhea, rash, dyspepsia, flatulence, and asthenia.
-Laboratory Tests Marked persistent increases of hepatic transaminases have been noted [see Warnings and Precautions (5.2)].
+Laboratory Tests Marked persistent increases of hepatic transaminases have been noted [see Warnings and Precautions (5.3)].
 Elevated alkaline phosphatase and γ-glutamyl transpeptidase have also been reported.
 About 5% of patients had elevations of CK levels of 3 or more times the normal value on one or more occasions.
 This was attributable to the noncardiac fraction of CK.

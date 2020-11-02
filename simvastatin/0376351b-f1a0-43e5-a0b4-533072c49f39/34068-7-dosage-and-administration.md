@@ -36,12 +36,12 @@ Simvastatin tablets dosage should not exceed 20 mg/day (or 40 mg/day for patient
 The recommended usual starting dose is 10 mg once a day in the evening.
 The recommended dosing range is 10 to 40 mg/day; the maximum recommended dose is 40 mg/day.
 Doses should be individualized according to the recommended goal of therapy [see NCEP Pediatric Panel Guidelines1 and Clinical Studies (14.2)].
-Adjustments should be made at intervals of 4 weeks or more.
+Adjustments should be made at intervals of 4 weeks or more. ______________________________ 1 National Cholesterol Education Program (NCEP): Highlights of the Report of the Expert Panel on Blood Cholesterol Levels in Children and Adolescents.
+Pediatrics.
+89(3):495-501.
+1992.
 
 ## 2.6 Patients with Renal Impairment
 
 Because simvastatin tablets do not undergo significant renal excretion, modification of dosage should not be necessary in patients with mild to moderate renal impairment.
-However, caution should be exercised when simvastatin tablets are administered to patients with severe renal impairment; such patients should be started at 5 mg/day and be closely monitored [see Warnings and Precautions (5.1) and Clinical Pharmacology (12.3)]. ______________________________ 1 National Cholesterol Education Program (NCEP): Highlights of the Report of the Expert Panel on Blood Cholesterol Levels in Children and Adolescents.
-Pediatrics.
-89(3):495-501.
-1992.
+However, caution should be exercised when simvastatin tablets are administered to patients with severe renal impairment; such patients should be started at 5 mg/day and be closely monitored [see Warnings and Precautions (5.1) and Clinical Pharmacology (12.3)].

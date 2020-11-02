@@ -27,4 +27,4 @@ Patients should be advised that if they become pregnant they should stop taking 
 Women who are breastfeeding should not use simvastatin.
 Patients who have a lipid disorder and are breastfeeding should be advised to discuss the options with their healthcare professional. _________________________________________________________________________________________________________________________________________________________________ Manufactured for: Northstar Rx LLC Memphis, TN 38141.
 Manufactured by: Aurobindo Pharma Limited Unit-VII (SEZ) Mahabubnagar (Dt)-509302 India.
-M.L.No.: 22/MN/AP/2009/F/R Revised: 12/2019
+M.L.No.: 22/MN/AP/2009/F/R Revised: 10/2020
