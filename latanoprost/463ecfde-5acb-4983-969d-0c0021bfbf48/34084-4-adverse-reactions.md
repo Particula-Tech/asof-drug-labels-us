@@ -47,12 +47,11 @@ Table 2: Adverse Reactions That Were Reported in 1–5% of Patients Receiving La
 | Erythema of the eyelid | 3 | 2 |
 | Photophobia | 2 | 1 |
 | Eyelid edema | 1 | 3 |
+| Blepharitis | 1 | 3 |
 | Systemic Events |  |  |
 | Upper respiratory tract infection/nasopharyngitis/influenza | 3 | 3 |
 | Myalgia/arthralgia/back pain | 1 | 0.5 |
 | Rash/allergic skin reaction | 1 | 0.3 |
-
-The ocular event/signs and symptoms of blepharitis have been identified as "commonly observed" through analysis of clinical trial data.
 
 ## 6.2 Postmarketing Experience
 
@@ -62,7 +61,7 @@ The reactions, which have been chosen for inclusion due to either their seriousn
 
 Nervous System Disorders: Dizziness; headache; toxic epidermal necrolysis
 
-Eye Disorders: Eyelash and vellus hair changes of the eyelid (increased length, thickness, pigmentation, and number of eyelashes); keratitis; corneal edema and erosions; intraocular inflammation (iritis/uveitis); macular edema, including cystoid macular edema; trichiasis; periorbital and lid changes resulting in deepening of the eyelid sulcus; iris cyst; eyelid skin darkening; localised skin reaction on the eyelids; conjunctivitis; pseudopemphigoid of the ocular conjunctiva
+Eye Disorders: Eyelash and vellus hair changes of the eyelid (increased length, thickness, pigmentation, and number of eyelashes); keratitis; corneal edema and erosions; intraocular inflammation (iritis/uveitis); macular edema, including cystoid macular edema; trichiasis; periorbital and lid changes resulting in deepening of the eyelid sulcus; iris cyst; eyelid skin darkening; localized skin reaction on the eyelids; conjunctivitis; pseudopemphigoid of the ocular conjunctiva
 
 Respiratory, Thoracic and Mediastinal Disorders: Asthma and exacerbation of asthma; dyspnea
 

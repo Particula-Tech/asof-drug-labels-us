@@ -11,6 +11,6 @@ A 3-year open-label, prospective safety study with a 2-year extension phase was 
 The analysis was based on observed-cases population of the 380 patients who continued in the extension phase.
 
 Results showed that the onset of noticeable increased iris pigmentation occurred within the first year of treatment for the majority of the patients who developed noticeable increased iris pigmentation.
-Patients continued to show signs of increasing iris pigmentation throughout the five years of the study.
+Patients continued to show signs of increasing iris pigmentation throughout the 5 years of the study.
 Observation of increased iris pigmentation did not affect the incidence, nature, or severity of adverse events (other than increased iris pigmentation) recorded in the study.
 IOP reduction was similar regardless of the development of increased iris pigmentation during the study.
