@@ -1,10 +1,8 @@
 # PRINCIPAL DISPLAY PANEL
 
-NDC 0187-5202-60
+NDC 0187-5202-60 Rx only
 
-Rx only
-
-Noritate® metronidazole cream Cream,1%
+Noritate® metronidazole cream Cream, 1%
 
 Net Wt.
 60 g
