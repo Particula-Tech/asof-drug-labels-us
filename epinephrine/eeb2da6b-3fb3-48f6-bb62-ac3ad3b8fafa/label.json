@@ -1,0 +1,22 @@
+{
+  "application_numbers": [
+    "NDA207534"
+  ],
+  "inn": "epinephrine",
+  "labeler": "USWM, LLC",
+  "package_ndcs": [
+    "78670-130-02",
+    "78670-130-11",
+    "78670-131-02",
+    "78670-131-11"
+  ],
+  "products": [
+    {
+      "form": "SOLUTION",
+      "generic": "epinephrine",
+      "name": "Symjepi"
+    }
+  ],
+  "setid": "eeb2da6b-3fb3-48f6-bb62-ac3ad3b8fafa",
+  "source": "dailymed"
+}
