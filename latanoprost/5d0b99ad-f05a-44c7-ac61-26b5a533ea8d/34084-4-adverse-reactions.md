@@ -14,43 +14,44 @@ Because clinical trials are conducted under widely varying conditions, the adver
 
 Latanoprost ophthalmic solution was studied in three multicenter, randomized, controlled clinical trials.
 Patients received 50 mcg/mL latanoprost ophthalmic solution once daily or 5 mg/mL active-comparator (timolol) twice daily.
-The patient population studied had a mean age of 65 ± 10 years.
+The patient population studied had a mean age of 65±10 years.
 Seven percent of patients withdrew before the 6-month endpoint.
 
-| Table 1: | Ocular Adverse Reactions and Ocular Signs/Symptoms Reported by 5-15% of Patients Receiving Latanoprost |  |  |
-| --- | --- | --- | --- |
-|  |  | Adverse Reactions (incidence (%)) |  |
-| Symptom/Finding |  | Latanoprost (n = 460) | Timolol (n = 369) |
-| Foreign body sensation |  | 13 | 8 |
-| Punctate keratitis |  | 10 | 9 |
-| Stinging |  | 9 | 12 |
-| Conjunctival hyperemia |  | 8 | 3 |
-| Blurred vision |  | 8 | 8 |
-| Itching |  | 8 | 8 |
-| Burning |  | 7 | 8 |
-| Increased pigmentation of the iris |  | 7 | 0 |
+Table 1: Ocular Adverse Reactions and Ocular Signs/Symptoms Reported by 5-15% of Patients Receiving Latanoprost
+
+|  | Adverse Reactions (incidence (%)) |  |
+| --- | --- | --- |
+| Symptom/Finding | Latanoprost (n = 460) | Timolol (n = 369) |
+| Foreign body sensation | 13 | 8 |
+| Punctate keratitis | 10 | 9 |
+| Stinging | 9 | 12 |
+| Conjunctival hyperemia | 8 | 3 |
+| Blurred vision | 8 | 8 |
+| Itching | 8 | 8 |
+| Burning | 7 | 8 |
+| Increased pigmentation of the iris | 7 | 0 |
 
 Less than 1% of the patients treated with latanoprost ophthalmic solution required discontinuation of therapy because of intolerance to conjunctival hyperemia.
 
-| Table 2: | Adverse Reactions That Were Reported in 1-5% of Patients Receiving Latanoprost |  |  |
-| --- | --- | --- | --- |
-|  |  | Adverse Reactions (incidence (%)) |  |
-|  |  | Latanoprost (n = 460) | Timolol (n = 369) |
-| Ocular Events/Signs and Symptoms |  |  |  |
-| Excessive tearing |  | 4 | 6 |
-| Eyelid discomfort/pain |  | 4 | 2 |
-| Dry eye |  | 3 | 3 |
-| Eye pain |  | 3 | 3 |
-| Eyelid margin crusting |  | 3 | 3 |
-| Erythema of the eyelid |  | 3 | 2 |
-| Photophobia |  | 2 | 1 |
-| Eyelid edema |  | 1 | 3 |
-| Systemic Events |  |  |  |
-| Upper respiratory tract infection/nasopharyngitis/influenza |  | 3 | 3 |
-| Myalgia/arthralgia/back pain |  | 1 | 0.5 |
-| Rash/allergic skin reaction |  | 1 | 0.3 |
+Table 2: Adverse Reactions That Were Reported in 1-5% of Patients Receiving Latanoprost
 
-The ocular event/signs and symptoms of blepharitis have been identified as "commonly observed" through analysis of clinical trial data.
+|  | Adverse Reactions (incidence (%)) |  |
+| --- | --- | --- |
+| Latanoprost (n = 460) | Timolol (n = 369) |  |
+| Ocular Events/Signs and Symptoms |  |  |
+| Excessive tearing | 4 | 6 |
+| Eyelid discomfort/pain | 4 | 2 |
+| Dry eye | 3 | 3 |
+| Eye pain | 3 | 3 |
+| Eyelid margin crusting | 3 | 3 |
+| Erythema of the eyelid | 3 | 2 |
+| Photophobia | 2 | 1 |
+| Eyelid edema | 1 | 3 |
+| Blepharitis | 1 | 3 |
+| Systemic Events |  |  |
+| Upper respiratory tract infection/nasopharyngitis/influenza | 3 | 3 |
+| Myalgia/arthralgia/back pain | 1 | 0.5 |
+| Rash/allergic skin reaction | 1 | 0.3 |
 
 ## 6.2 Postmarketing Experience
 

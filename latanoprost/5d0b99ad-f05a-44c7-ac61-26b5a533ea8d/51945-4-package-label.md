@@ -2,6 +2,6 @@
 
 Container Label
 
-Carton Label (Pack of 1)
+Carton Label – Monocarton
 
-Carton Label (Pack of 3)
+Carton Label – 3's Pack
