@@ -15,8 +15,10 @@ Patients should be instructed:
 
 Trademark is owned by or licensed to the GSK group of companies.
 
+Distributed by:
+
 GlaxoSmithKline Research Triangle Park, NC 27709
 
-©2019 GSK group of companies or its licensor.
+©2020 GSK group of companies or its licensor.
 
-MLR:8PI
+MLR:9PI

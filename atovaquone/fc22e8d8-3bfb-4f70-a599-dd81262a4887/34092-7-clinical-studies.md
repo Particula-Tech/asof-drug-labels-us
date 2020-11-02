@@ -73,7 +73,7 @@ Among 156 evaluable patients, the parasitological cure rate (elimination of para
 MALARONE was evaluated for treatment of acute, uncomplicated malaria caused by P. falciparum in 8 Phase 3 randomized, open-label, controlled clinical trials (N = 1,030 enrolled in both treatment groups).
 The mean age of subjects was 27 years and 16% were children 12 years and younger; 74% of subjects were male.
 Evaluable patients included those whose outcomes at 28 days were known.
-Among 471 evaluable patients treated with the equivalent of 4 MALARONE tablets once daily for 3 days, 464 had a sensitive response (elimination of parasitemia with no recurrent parasitemia during follow-up for 28 days) ().
+Among 471 evaluable patients treated with the equivalent of 4 MALARONE tablets once daily for 3 days, 464 had a sensitive response (elimination of parasitemia with no recurrent parasitemia during follow-up for 28 days) (Table 8).
 Seven patients had a response of RI resistance (elimination of parasitemia but with recurrent parasitemia between 7 and 28 days after starting treatment).
 In these trials, the response to treatment with MALARONE was similar to treatment with the comparator drug in 4 trials.
 
