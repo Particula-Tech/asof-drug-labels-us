@@ -1,0 +1,20 @@
+{
+  "application_numbers": [
+    "ANDA209646"
+  ],
+  "inn": "ephedrine",
+  "labeler": "Fresenius Kabi USA, LLC",
+  "package_ndcs": [
+    "65219-257-00",
+    "65219-257-01"
+  ],
+  "products": [
+    {
+      "form": "INJECTION",
+      "generic": "ephedrine sulfate",
+      "name": "Ephedrine Sulfate"
+    }
+  ],
+  "setid": "5ecd9746-25c7-4bd4-9503-eb97e7db5aa5",
+  "source": "dailymed"
+}
