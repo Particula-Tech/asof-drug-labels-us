@@ -1,3 +1,3 @@
 # 3 DOSAGE FORMS AND STRENGTHS
 
-Sterile ophthalmic solution containing 50 mcg/mL latanoprost.
+Ophthalmic solution containing latanoprost 50 mcg/mL (0.005%).

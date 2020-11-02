@@ -1,3 +1,3 @@
 # 1 INDICATIONS AND USAGE
 
-Latanoprost Ophthalmic Solution is indicated for the reduction of elevated intraocular pressure in patients with open-angle glaucoma or ocular hypertension.
+Latanoprost ophthalmic solution is indicated for the reduction of elevated intraocular pressure (IOP) in patients with open-angle glaucoma or ocular hypertension.

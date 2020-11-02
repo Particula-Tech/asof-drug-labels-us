@@ -2,7 +2,7 @@
 
 ## 12.1 Mechanism of Action
 
-Latanoprost is a prostanoid selective FP receptor agonist that is believed to reduce the intraocular pressure (IOP) by increasing the outflow of aqueous humor.
+Latanoprost is a prostaglandin F2α analogue that is believed to reduce the IOP by increasing the outflow of aqueous humor.
 Studies in animals and man suggest that the main mechanism of action is increased uveoscleral outflow.
 Elevated IOP represents a major risk factor for glaucomatous field loss.
 The higher the level of IOP, the greater the likelihood of optic nerve damage and visual field loss.
@@ -23,6 +23,8 @@ Distribution
 The distribution volume in humans is 0.16 ± 0.02 L/kg.
 The acid of latanoprost can be measured in aqueous humor during the first 4 hours, and in plasma only during the first hour after local administration.
 Studies in man indicate that the peak concentration in the aqueous humor is reached about two hours after topical administration.
+
+Elimination
 
 Metabolism
 
