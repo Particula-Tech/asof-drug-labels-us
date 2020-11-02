@@ -1,0 +1,22 @@
+{
+  "application_numbers": [
+    "NDA021234"
+  ],
+  "inn": "diclofenac",
+  "labeler": "IBSA Pharma Inc.",
+  "package_ndcs": [
+    "71858-0405-1",
+    "71858-0405-2",
+    "71858-0405-4",
+    "71858-0405-5"
+  ],
+  "products": [
+    {
+      "form": "SYSTEM",
+      "generic": "diclofenac epolamine",
+      "name": "FLECTOR"
+    }
+  ],
+  "setid": "1f19a016-c4fc-43c5-9990-e5f2e2776a82",
+  "source": "dailymed"
+}
