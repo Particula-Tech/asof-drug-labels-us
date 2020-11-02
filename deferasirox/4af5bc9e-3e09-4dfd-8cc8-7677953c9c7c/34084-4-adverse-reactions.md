@@ -89,40 +89,39 @@ Non-Transfusion-Dependent Thalassemia Syndromes
 
 In Study 5, 110 patients with NTDT received 1 year of treatment with deferasirox 5 or 10 mg/kg/day and 56 patients received placebo in a double-blind, randomized trial.
 In Study 6, 130 of the patients who completed Study 5 were treated with open-label deferasirox at 5, 10, or 20 mg/kg/day (depending on the baseline LIC) for 1 year [see Clinical Studies (14)].
-In Study 7, 134 patients with NTDT of 10 years of age or older with iron overload, received deferasirox tablets for oral suspension for up to 5 years, at a starting dose of 10 mg/kg/day followed by dose adjustment at Week4, and then approximately every 6 months thereafter based on LIC levels.
 Table 3 and 4 display the frequency of adverse reactions in patients with NTDT.
 Adverse reactions with a suspected relationship to study drug were included in Table 3 if they occurred at ≥ 5% of patients in Study 5.
 
 Table 3 Adverse Reactions Occurring in Greater Than 5% Patients with NTDT
 
-| Any adverse reaction | Study 5 |  | Study 6 | Study 7 |
-| --- | --- | --- | --- | --- |
-| Deferasirox | Placebo | Deferasirox | Deferasirox |  |
-| N = 110 | N = 56 | N = 130 | N = 134 |  |
-| n (%) | n (%) | n (%) | n (%) |  |
-| 31 (28) | 9 (16) | 27 (21) | 50 (37) |  |
-| Nausea | 7 (6) | 4 (7) | 2 (2)a | 7 (5) |
-| Rash | 7 (6) | 1 (2) | 2 (2)a | 3 (2)a |
-| Diarrhea | 5 (5) | 1 (2) | 7 (5) | 8 (6) |
-| Abbreviation: NTDT, non-transfusion-dependent thalassemia. |  |  |  |  |
-| aThe occurrence of nausea, and rash are included for Study 6 and rash for Study 7 for consistency. There were no additional adverse reactions with a suspected relationship to study drug occurring in >5% of patients in Study 6 and Study 7. |  |  |  |  |
+| Any adverse reaction | Study 5 |  | Study 6 |
+| --- | --- | --- | --- |
+| Deferasirox | Placebo | Deferasirox |  |
+| N = 110 | N = 56 | N = 130 |  |
+| n (%) | n (%) | n (%) |  |
+| 31 (28) | 9 (16) | 27 (21) |  |
+| Nausea | 7 (6) | 4 (7) | 2 (2)a |
+| Rash | 7 (6) | 1 (2) | 2 (2)a |
+| Diarrhea | 5 (5) | 1 (2) | 7 (5) |
+| Abbreviation: NTDT, non-transfusion-dependent thalassemia. |  |  |  |
+| aThe occurrence of nausea, and rash are included for Study 6. There were no additional adverse reactions with a suspected relationship to study drug occurring in >5% of patients in Study 6. |  |  |  |
 
 In Study 5, 1 patient in the placebo 10 mg/kg/day group experienced an ALT increase to greater than 5 times ULN and greater than 2 times baseline (Table 4).
 Three deferasirox-treated patients (all in the 10 mg/kg/day group) had 2 consecutive serum creatinine level increases greater than 33% from baseline and greater than ULN.
 Serum creatinine returned to normal in all 3 patients (in 1 spontaneously and in the other 2 after drug interruption).
 Two additional cases of ALT increase and 2 additional cases of serum creatinine increase were observed in the 1-year extension of Study 5.
-The number (%) of patients with NTDT with increase in serum creatinine or SGPT/ALT in Study 5, Study 6, and Study 7 are presented in Table 4 below.
+The number (%) of patients with NTDT with increase in serum creatinine or SGPT/ALT in Study 5 and Study 6 are presented in Table 4 below.
 
 Table 4 Number (%) of Patients with NTDT with Increases in Serum Creatinine or SGPT/ALT
 
-| Laboratory Parameter | Study 5 |  | Study 6 | Study 7 |
-| --- | --- | --- | --- | --- |
-| Deferasirox | Placebo | Deferasirox | Deferasirox |  |
-| N = 110 | N = 56 | N = 130 | N = 134 |  |
-| n (%) | n (%) | n (%) | n (%) |  |
-| Serum creatinine (> 33% increase from baseline and > ULN at ≥ 2 consecutive post-baseline values) | 3 (3) | 0 | 2 (2) | 2 (2) |
-| SGPT/ALT (> 5 x ULN and > 2 x baseline) | 1 (1) | 1 (2) | 2 (2) | 1 (1) |
-| Abbreviations: ALT, alanine transaminase; NTDT, non-transfusion-dependent thalassemia; SGPT, serum glutamic-pyruvic transaminase; ULN, upper limit of normal. |  |  |  |  |
+| Laboratory Parameter | Study 5 |  | Study 6 |
+| --- | --- | --- | --- |
+| Deferasirox | Placebo | Deferasirox |  |
+| N = 110 | N = 56 | N = 130 |  |
+| n (%) | n (%) | n (%) |  |
+| Serum creatinine (> 33% increase from baseline and > ULN at ≥ 2 consecutive post-baseline values) | 3 (3) | 0 | 2 (2) |
+| SGPT/ALT (> 5 x ULN and > 2 x baseline) | 1 (1) | 1 (2) | 2 (2) |
+| Abbreviations: ALT, alanine transaminase; NTDT, non-transfusion-dependent thalassemia; SGPT, serum glutamic-pyruvic transaminase; ULN, upper limit of normal. |  |  |  |
 
 Proteinuria
 

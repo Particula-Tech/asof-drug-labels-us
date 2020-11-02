@@ -86,4 +86,4 @@ You may report side effects to FDA at 1-800-FDA-1088.
 
 Exjade® (deferasirox) tablets for oral suspension are the registered trade mark of their respective owners.
 
-Medication Guide available at www.zydususa.com/medguides/ or call 1-877-993-8779.
+Medication Guide available at www.zydususa.com/medguides or call 1-877-993-8779.
