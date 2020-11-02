@@ -11,7 +11,7 @@ LANOXIN® (digoxin) Injection
 A sterile solution for intravenous or intramuscular injection.
 Dilution not required.
 
-In a vehicle of 40% propylene glycol and 10% alcohol.
+In a vehicle of 42.5% (W/V) propylene glycol and 10% alcohol (V/V).
 Dibasic sodium phosphate 0.17%, citric acid anhydrous 0.08%.
 
 See prescribing information for dosage information.
@@ -39,16 +39,16 @@ NDC 70515-261-10 LANOXIN® (digoxin) Injection 500 mcg (0.5 mg) in 2 mL (250 mcg
 A sterile solution for intravenous or intramuscular injection.
 Dilution not required.
 
-In a vehicle of 40% propylene glycol and 10% alcohol.
+In a vehicle of 42.5% (W/V) propylene glycol and 10% alcohol (V/V).
 Dibasic sodium phosphate 0.17%, citric acid anhydrous 0.08%.
 
 See prescribing information for dosage information.
 
 Store at 25°C (77°F); excursions permitted to 15° to 30°C (59° to 86°F) [see USP Controlled Room Temperature] and protect from light.
 
-GTIN XXXXXXXXXXXXXX S/N XXXXXXXXXXXX
+GTIN S/N
 
-Lot XXXXXX Exp MMM YYYY
+EXP MMM YYYY LOT
 
 Manufactured for Covis Pharma Zug, 6300 Switzerland
 
@@ -64,7 +64,7 @@ LANOXIN® (digoxin) Injection Pediatric
 
 A sterile solution for intravenous or intramuscular injection.
 Dilution not required.
-In a vehicle of 40% propylene glycol and 10% alcohol.
+In a vehicle of 42.5% (W/V) propylene glycol and 10% alcohol (V/V).
 Sodium phosphate 0.17%.
 Citric acid anhydrous 0.08%.
 
@@ -80,15 +80,17 @@ NDC 70515-263-10 10 vials 1 mL each Rx only
 
 LANOXIN® (digoxin) Injection Pediatric
 
-100 mcg (0.1 mg) In 1 mL
+100 mcg (0.1 mg) in 1 mL
 
 C O V I S
 
-NDC 70515-263-10 10 vials 1 mL each LANOXIN® (digoxin) Injection Pediatric 100 mcg (0.1 mg) in 1 mL
+NDC 70515-263-10 10 vials 1 mL each
+
+LANOXIN® (digoxin) Injection Pediatric 100 mcg (0.1 mg) in 1 mL
 
 A sterile solution for intravenous or intramuscular injection.
 Dilution not required.
-In a vehicle of 40% propylene glycol and 10% alcohol.
+In a vehicle of 42.5% (W/V) propylene glycol and 10% alcohol (V/V).
 Sodium phosphate 0.17%.
 Citric acid anhydrous 0.08%.
 
@@ -96,9 +98,9 @@ See prescribing information for dosage information.
 
 Store at 25°C (77°F); excursions permitted to 15 to 30°C (59 to 86°F) [see USP Controlled Room Temperature] and protect from light.
 
-GTIN XXXXXXXXXXXXXX S/N XXXXXXXXXXXX
+GTIN S/N
 
-Lot XXXXXX Exp MMM YYYY
+EXP MMM YYYY LOT
 
 Manufactured for Covis Pharma Zug, 6300 Switzerland
 

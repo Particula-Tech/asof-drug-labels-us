@@ -39,7 +39,7 @@ Recommended LANOXIN Injection Loading Dose
 
 The maintenance dose is based on lean body weight, renal function, age, and concomitant products [see Clinical Pharmacology (12.3)].
 
-The recommended starting maintenance doses in adults and pediatric patients over 10 years old with normal renal function are given in Table 2.
+The recommended starting maintenance doses in adults and pediatric patients over 10 years old with normal renal function are given in.
 Doses may be increased every 2 weeks according to clinical response, serum drug levels, and toxicity.
 
 Table 2.

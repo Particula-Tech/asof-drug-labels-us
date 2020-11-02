@@ -13,7 +13,7 @@ Digoxin exists as odorless white crystals that melt with decomposition above 230
 The drug is practically insoluble in water and in ether; slightly soluble in diluted (50%) alcohol and in chloroform; and freely soluble in pyridine.
 
 LANOXIN Injection and Injection Pediatric are sterile solutions of digoxin for intravenous or intramuscular injection.
-The vehicle contains 40% propylene glycol and 10% alcohol.
+The vehicle contains 42.5% (W/V) propylene glycol and 10% alcohol (V/V).
 The injection is buffered to a pH of 6.8-7.2 with 0.17% dibasic sodium phosphate and 0.08% anhydrous citric acid.
 Each 2-mL ampule or vial of LANOXIN Injection contains 500 mcg (0.5 mg) digoxin (250 mcg [0.25 mg] per mL).
 Dilution is not required.
