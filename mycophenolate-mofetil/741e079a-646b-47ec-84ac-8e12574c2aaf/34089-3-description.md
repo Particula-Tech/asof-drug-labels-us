@@ -3,7 +3,7 @@
 Mycophenolate mofetil is an antimetabolite immunosuppressant.
 It is the 2-morpholinoethyl ester of mycophenolic acid (MPA), an immunosuppressive agent; inosine monophosphate dehydrogenase (IMPDH) inhibitor.
 
-The chemical name for mycophenolate mofetil (MMF) is 2-morpholinoethyl (E)-6-(1,3-dihydro-4-hydroxy-6-methoxy-7-methyl-3-oxo-5-isobenzofuranyl)-4-methyl-4-hexenoate.
+The chemical name for mycophenolate mofetil (MMF) is 2-morpholinoethyl (E)-6-(1, 3-dihydro-4-hydroxy-6-methoxy-7-methyl-3-oxo-5-isobenzofuranyl)-4-methyl-4-hexenoate.
 It has an empirical formula of C 23H 31NO 7, a molecular weight of 433.50, and the following structural formula:
 
 MMF is a white to off-white crystalline powder.

@@ -10,7 +10,7 @@ Avoid use of MMF during pregnancy if safer treatment options are available [see 
 
 Patients receiving immunosuppressants, including mycophenolate mofetil, are at increased risk of developing lymphomas and other malignancies, particularly of the skin [see Adverse Reactions (6.1)].
 The risk appears to be related to the intensity and duration of immunosuppression rather than to the use of any specific agent.
-For patients with increased risk for skin cancer, exposure to sunlight and UV light should be limited by wearing protective clothing and using a sunscreen with a high protection factor.
+For patients with increased risk for skin cancer, exposure to sunlight and UV light should be limited by wearing protective clothing and using a broad-spectrum sunscreen with a high protection factor.
 
 Post-transplant lymphoproliferative disorder (PTLD) developed in 0.4% to 1% of patients receiving mycophenolate mofetil (2 g or 3 g) with other immunosuppressive agents in controlled clinical trials of kidney, heart and liver transplant patients [see Adverse Reactions (6.1)].
 The majority of PTLD cases appear to be related to Epstein Barr Virus (EBV) infection.
@@ -72,7 +72,7 @@ Mycophenolate mofetil is an inosine monophosphate dehydrogenase (IMPDH) inhibito
 
 ## 5.7 Immunizations
 
-During treatment with mycophenolate mofetil, the use of live attenuated vaccines should be avoided and patients should be advised that vaccinations may be less effective.
+During treatment with mycophenolate mofetil, the use of live attenuated vaccines should be avoided (e.g., intranasal influenza, measles, mumps, rubella, oral polio, BCG, yellow fever, varicella, and TY21a typhoid vaccines) and patients should be advised that vaccinations may be less effective.
 Advise patients to discuss with the physician before seeking any immunizations.
 
 ## 5.10 Blood Donation

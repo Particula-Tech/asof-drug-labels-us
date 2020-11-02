@@ -24,11 +24,10 @@ In 12 healthy volunteers, the mean absolute bioavailability of oral MMF relative
 Two 500 mg mycophenolate mofetil tablets have been shown to be bioequivalent to four 250 mg mycophenolate mofetil capsules.
 Five mL of the 200 mg/mL constituted mycophenolate mofetil oral suspension have been shown to be bioequivalent to four 250 mg capsules.
 
-The mean (± SD) pharmacokinetic parameters estimates for MPA following the administration of MMF given as single doses to healthy volunteers, and multiple doses to kidney, heart, and liver transplant patients are shown in Table 8.
+The mean (± SD) pharmacokinetic parameters estimates for MPA following the administration of MMF given as single doses to healthy volunteers, and multiple doses to kidney, heart, and liver transplant patients, are shown in Table 8.
 The area under the plasma-concentration time curve (AUC) for MPA appears to increase in a dose-proportional fashion in kidney transplant patients receiving multiple oral doses of MMF up to a daily dose of 3 g (1.5 g twice daily) (see Table 8).
 
-Table 8.
-Pharmacokinetic Parameters for MPA [mean (±SD)] Following Administration of MMF to Healthy Volunteers (Single Dose), and Kidney, Heart, and Liver Transplant Patients (Multiple Doses)
+Table 8 Pharmacokinetic Parameters for MPA [mean (±SD)] Following Administration of MMF to Healthy Volunteers (Single Dose), and Kidney, Heart, and Liver Transplant Patients (Multiple Doses)
 
 | Healthy Volunteers | Dose/Route | T max (h) | C max (mcg/mL) | Total AUC (mcg∙h/mL) |
 | --- | --- | --- | --- | --- |
@@ -131,8 +130,7 @@ However, it should be noted that for unexplained reasons, the healthy volunteers
 In a single-dose (1 g intravenous) study of 6 volunteers with severe hepatic impairment (aminopyrine breath test less than 0.2% of dose) due to alcoholic cirrhosis, MMF was rapidly converted to MPA.
 MPA AUC was 44.1 mcg∙h/mL (±15.5).
 
-Table 9.
-Pharmacokinetic Parameters for MPA [mean (±SD)] Following Single Doses of MMF Capsules in Chronic Renal and Hepatic Impairment
+Table 9 Pharmacokinetic Parameters for MPA [mean (±SD)] Following Single Doses of MMF Capsules in Chronic Renal and Hepatic Impairment
 
 | Pharmacokinetic Parameters for Renal Impairment |  |  |  |  |
 | --- | --- | --- | --- | --- |
@@ -151,8 +149,7 @@ Pediatric Patients
 The pharmacokinetic parameters of MPA and MPAG have been evaluated in 55 pediatric patients (ranging from 1 year to 18 years of age) receiving mycophenolate mofetil oral suspension at a dose of 600 mg/m 2 twice daily (up to a maximum of 1 g twice daily) after allogeneic kidney transplantation.
 The pharmacokinetic data for MPA is provided in Table 10.
 
-Table 10.
-Mean (±SD) Computed Pharmacokinetic Parameters for MPA by Age and Time After Allogeneic Kidney Transplantation
+Table 10 Mean (±SD) Computed Pharmacokinetic Parameters for MPA by Age and Time After Allogeneic Kidney Transplantation
 
 | Age Group | (n) | Time | T max (h) |  | Dose Adjusted adjusted to a dose of 600 mg/m 2 C max (mcg/mL) |  | Dose Adjusted AUC 0-12 (mcg∙h/mL) |  |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |

@@ -34,8 +34,7 @@ Approximately 53% of the kidney transplant patients, 65% of the heart transplant
 Adverse reactions reported in ≥ 20% of patients in the mycophenolate mofetil treatment groups are presented below.
 The safety data of three kidney transplantation studies are pooled together.
 
-Table 3.
-Adverse Reactions in Controlled Studies of De Novo Kidney, Heart or Liver Transplantation Reported in ≥20% of Patients in the Mycophenolate Mofetil Group
+Table 3 Adverse Reactions in Controlled Studies of De Novo Kidney, Heart or Liver Transplantation Reported in ≥20% of Patients in the Mycophenolate Mofetil Group
 
 | System Organ Class | % | % | % | % | % | % | % |
 | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -115,8 +114,7 @@ Mouth, esophageal, gastric, duodenal, and intestinal ulcers often complicated by
 Endoscopic investigation of patients with mycophenolate mofetil-related diarrhea revealed isolated cases of intestinal villous atrophy [see Warnings and Precautions (5.5)].
 The following adverse reactions were reported with 3% to <20% incidence in kidney, heart, and liver transplant patients treated with mycophenolate mofetil, in combination with cyclosporine and corticosteroids.
 
-Table 4.
-Adverse Reactions in Controlled Studies of De Novo Kidney, Heart or Liver Transplantation Reported in 3% to <20% of Patients Treated with Mycophenolate Mofetil in Combination with Cyclosporine and Corticosteroids
+Table 4 Adverse Reactions in Controlled Studies of De Novo Kidney, Heart or Liver Transplantation Reported in 3% to <20% of Patients Treated with Mycophenolate Mofetil in Combination with Cyclosporine and Corticosteroids
 
 | Body System | Adverse Reactions |
 | --- | --- |
@@ -146,7 +144,7 @@ Elderly patients (≥65 years), particularly those who are receiving mycophenola
 The following adverse reactions have been identified during post-approval use of mycophenolate mofetil.
 Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure:
 
-- Embryo-Fetal Toxicity: Congenital malformations, and spontaneous abortions, mainly in the first trimester, have been reported following exposure to mycophenolate mofetil (MMF) in combination with other immunosuppressants during pregnancy [see Warnings and Precautions (5.1), and Use in Specific Populations (8.1), (8.3)].
+- Embryo-Fetal Toxicity: Congenital malformations and spontaneous abortions, mainly in the first trimester, have been reported following exposure to mycophenolate mofetil (MMF) in combination with other immunosuppressants during pregnancy [see Warnings and Precautions (5.1), and Use in Specific Populations (8.1), (8.3)].
   Congenital malformations include:
   - Facial malformations: cleft lip, cleft palate, micrognathia, hypertelorism of the orbits
   - Abnormalities of the ear and eye: abnormally formed or absent external/middle ear, coloboma, microphthalmos
