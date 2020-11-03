@@ -2,11 +2,8 @@
 
 ## 2.1 Dosage
 
-PANCREAZE is not interchangeable with other pancrelipase products.PANCREAZE is not interchangeable with other pancrelipase products.
+PANCREAZE is not interchangeable with other pancrelipase products.
 
-PANCREAZE is orally administered.
-Therapy should be initiated at the lowest recommended dose and gradually increased.
-The dosage of PANCREAZE should be individualized based on clinical symptoms, the degree of steatorrhea present, and the fat content of the diet (see below).
 PANCREAZE is orally administered.
 Therapy should be initiated at the lowest recommended dose and gradually increased.
 The dosage of PANCREAZE should be individualized based on clinical symptoms, the degree of steatorrhea present, and the fat content of the diet (see Limitations on Dosing below).

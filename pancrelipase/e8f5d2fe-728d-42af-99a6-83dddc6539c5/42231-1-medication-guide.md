@@ -39,10 +39,9 @@ Before taking PANCREAZE, tell your doctor about all your medical conditions, inc
 - have trouble swallowing capsules
 - have any other medical condition
 - are pregnant or plan to become pregnant.
-  It is not known if PANCREAZE will harm your unborn baby.
 - are breastfeeding or plan to breastfeed.
   It is not known if PANCREAZE passes into your breast milk.
-  You and your doctor should decide if you will take PANCREAZE or breastfeed.
+  Talk to your doctor about the best way to feed your baby if you take PANCREAZE.
 
 Tell your doctor about all the medicines you take, including prescription and over-the-counter medicines, vitamins, or herbal supplements.
 
@@ -121,7 +120,7 @@ How should I store PANCREAZE?
   Avoid heat.
 - Keep PANCREAZE in a dry place and in the original container.
 - After opening the bottle, keep it closed tightly between uses.
-- The PANCREAZE 2,600 USP units of lipase, the PANCREAZE 4,200 USP units of lipase and PANCREAZE 21,000 USP units of lipase bottles contain a desiccant canister.
+- All PANCREAZE bottles contain a desiccant canister.
   Do not eat or throw away the desiccant canister in your medicine bottle.
   This canister will protect your medicine from moisture.
 
@@ -144,14 +143,18 @@ What are the ingredients in PANCREAZE?
 
 Active Ingredient: lipase, protease, amylase
 
-Inactive ingredients in PANCREAZE 2,600 USP units of lipase: colloidal silicon dioxide, crospovidone, magnesium stearate, methacrylic acid ethyl acrylate copolymer, microcrystalline cellulose, montan glycol wax, simethicone emulsion, talc and triethyl citrate.
-The capsule shell contains hypromellose, titanium dioxide, iron oxide, and imprint ink contains iron oxide, shellac, ammonium hydroxide, propylene glycol, potassium hydroxide.
+Inactive ingredients in all strengths of PANCREAZE: colloidal silicon dioxide, crospovidone, magnesium stearate, methacrylic acid ethyl acrylate copolymer, microcrystalline cellulose, montan glycol wax, simethicone emulsion, talc and triethyl citrate.
+The capsule shell contains hypromellose, titanium dioxide and iron oxide.
 
-Inactive ingredients in other strengths: cellulose, colloidal anhydrous silica, crospovidone, magnesium stearate, methacrylic acid ethyl acrylate copolymer, montan glycol wax, simethicone emulsion, talc and triethyl citrate.
-The capsule shell contains gelatin, titanium dioxide, sodium lauryl sulfate, sorbitan monolaurate, and gelatin capsule imprint ink.
-PANCREAZE 4,200, 10,500, and 16,800 USP units of lipase also contain iron oxide.
+Imprint ink for Pancreaze 2600 contains black iron oxide, shellac, propylene glycol, strong ammonia solution, potassium hydroxide.
+
+Imprint ink for Pancreaze 4200, 10500 and 16800 contains black iron oxide, shellac-glaze-45%, ammonium hydroxide, propylene glycol.
+
+Imprint ink for Pancreaze 21000 contains yellow iron oxide, shellac, strong ammonia solution, propylene glycol.
 
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
+
+03/2020
 
 Product of Germany
 
@@ -169,6 +172,6 @@ VIVUS, Inc.
 
 Campbell, CA 95008, USA
 
-©VIVUS, Inc. 2010
+©VIVUS, Inc. 2010-2020
 
-PH-10-001-00
+PH-10-001-04

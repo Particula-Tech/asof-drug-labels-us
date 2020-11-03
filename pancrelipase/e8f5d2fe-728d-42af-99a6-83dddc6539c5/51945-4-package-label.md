@@ -86,7 +86,7 @@ PANCREAZE ® (pancrelipase) Delayed-Release Capsules
 
 Each capsule contains:
 
-Lipase 2,600 USP Units Amylase 10,850 USP Units Protease 6,200 USP Units
+Lipase 2,600 USP Units Amylase 15,200 USP Units Protease 8,800 USP Units
 
 DOSE BY LIPASE UNITS
 

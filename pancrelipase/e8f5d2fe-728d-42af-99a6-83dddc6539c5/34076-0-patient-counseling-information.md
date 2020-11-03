@@ -18,7 +18,7 @@ If necessary, the capsule contents can also be sprinkled on soft acidic foods.
 
 Instruct patients to notify their healthcare professional if they are pregnant or are thinking of becoming pregnant during treatment with PANCREAZE [see Use in Specific Populations (8.1)].
 
-Instruct patients to notify their healthcare professional if they are breastfeeding or are thinking of breastfeeding during treatment with PANCREAZE [see Use in Specific Populations (8.3)].
+Instruct patients to notify their healthcare professional if they are breastfeeding or are thinking of breastfeeding during treatment with PANCREAZE [see Use in Specific Populations (8.2)].
 
 ## 17.2 Fibrosing Colonopathy
 
