@@ -122,7 +122,7 @@ Preservative-Free Rx only
 
 NDC 0009-0039-28 Contains 25 of NDC 0009-0039-30
 
-Single use vial.
+Single-Dose Vial.
 Discard unused portion.
 25–1 mL Act-O-Vial® Systems
 
@@ -136,13 +136,13 @@ Preservative-Free
 
 Pfizer Injectables Rx only
 
-# PRINCIPAL DISPLAY PANEL - 1 mL Vial Label
+# PRINCIPAL DISPLAY PANEL - 40 mg Vial Label - Act-O-Vial System
 
 NDC 0009-0039-33
 
 Rx ONLY
 
-SOLU-MEDROL® Methylprednisolone Sodium Succinate for Injection, USP Single-Use Vial
+SOLU-MEDROL® Methylprednisolone Sodium Succinate for Injection, USP Single-Dose Vial
 
 For IM or IV Use Only
 
@@ -154,7 +154,7 @@ Preservative-Free 1 mL Act-O-Vial® System
 
 novaplus™+
 
-# PRINCIPAL DISPLAY PANEL - 1 mL Vial Carton
+# PRINCIPAL DISPLAY PANEL - 40 mg Vial Carton - Act-O-Vial System
 
 NDC 0009-0039-32 Contains 25 of NDC 0009-0039-33
 
@@ -168,7 +168,7 @@ Preservative-Free
 
 For Intramuscular or Intravenous Use Only
 
-Single-Use Vials
+Single-Dose Vials
 
 Discard unused portion.
 
@@ -192,7 +192,7 @@ Preservative-Free Rx only
 
 NDC 0009-0047-22 Contains 25 of NDC 0009-0047-25
 
-Single use vial.
+Single-Dose Vial.
 Discard unused portion.
 25–2 mL Act-O-Vial® Systems
 
@@ -206,13 +206,13 @@ Preservative-Free
 
 Pfizer Injectables Rx only
 
-# PRINCIPAL DISPLAY PANEL - 2 mL Vial Label
+# PRINCIPAL DISPLAY PANEL - 125 mg Vial Label - Act-O-Vial System
 
 NDC 0009-0047-27
 
 Rx ONLY
 
-SOLU-MEDROL® Methylprednisolone Sodium Succinate for Injection, USP Single-Use Vial
+SOLU-MEDROL® Methylprednisolone Sodium Succinate for Injection, USP Single-Dose Vial
 
 For IM or IV Use Only
 
@@ -224,7 +224,7 @@ Preservative-Free 2 mL Act-O-Vial® System
 
 novaplus™+
 
-# PRINCIPAL DISPLAY PANEL - 2 mL Vial Carton
+# PRINCIPAL DISPLAY PANEL - 125 mg Vial Carton - Act-O-Vial System
 
 NDC 0009-0047-26 Contains 25 of NDC 0009-0047-27
 
@@ -238,7 +238,7 @@ Preservative-Free
 
 For Intramuscular or Intravenous Use Only
 
-Single-Use Vials
+Single-Dose Vials
 
 Discard unused portion.
 
@@ -246,13 +246,13 @@ Rx ONLY
 
 novaplus™+
 
-# PRINCIPAL DISPLAY PANEL - 500 mg Vial Label - Preservative-Free
+# PRINCIPAL DISPLAY PANEL - 500 mg Vial Label - Act-O-Vial System
 
-NDC 0009-0003-02
-
-Single use vial.
+Single-Dose Vial.
 Discard unused portion.
 4 mL Act-O-Vial®
+
+NDC 0009-0003-02
 
 Solu-Medrol® (methylprednisolone sodium succinate for injection, USP)
 
@@ -260,11 +260,11 @@ Solu-Medrol® (methylprednisolone sodium succinate for injection, USP)
 
 Preservative-Free Rx only
 
-# PRINCIPAL DISPLAY PANEL - 500 mg Vial Carton - Preservative-Free
+# PRINCIPAL DISPLAY PANEL - 500 mg Vial Carton - Act-O-Vial System
 
 NDC 0009-0003-02
 
-Single use vial.
+Single-Dose Vial.
 Discard unused portion.
 4 mL Act-O-Vial®
 
@@ -280,13 +280,13 @@ Rx only
 
 Pfizer Injectables
 
-# PRINCIPAL DISPLAY PANEL - 1 gram Vial Label - Preservative-Free
+# PRINCIPAL DISPLAY PANEL - 1 gram Vial Label - Act-O-Vial System
 
-NDC 0009-0018-20
-
-Single use vial.
+Single-Dose Vial.
 Discard unused portion.
 8 mL Act-O-Vial®
+
+NDC 0009-0018-20
 
 Solu-Medrol® (methylprednisolone sodium succinate for injection, USP)
 
@@ -294,11 +294,11 @@ Solu-Medrol® (methylprednisolone sodium succinate for injection, USP)
 
 Preservative-Free Rx only
 
-# PRINCIPAL DISPLAY PANEL - 1 gram Vial Carton - Preservative-Free
+# PRINCIPAL DISPLAY PANEL - 1 gram Vial Carton - Act-O-Vial System
 
 NDC 0009-0018-20
 
-Single use vial.
+Single-Dose Vial.
 Discard unused portion.
 8 mL Act-O-Vial®
 
