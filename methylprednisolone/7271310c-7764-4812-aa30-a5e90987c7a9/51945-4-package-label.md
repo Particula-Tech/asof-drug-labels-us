@@ -56,7 +56,7 @@ PREMIERProRx®
 
 NDC 0009-0039-06 Contains 25 of NDC 0009-0039-05
 
-Single use vial.
+Single-Dose Vial.
 Discard unused portion.
 25–1 mL Act-O-Vial® Systems
 
@@ -90,7 +90,7 @@ PREMIERProRx®
 
 NDC 0009-0047-04 Contains 25 of NDC 0009-0047-03
 
-Single use vial.
+Single-Dose Vial.
 Discard unused portion.
 25–2 mL Act-O-Vial® Systems
 
