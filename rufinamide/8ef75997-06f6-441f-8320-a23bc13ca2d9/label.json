@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "ANDA207363"
+  ],
+  "inn": "rufinamide",
+  "labeler": "Hikma Pharmaceuticals USA Inc.",
+  "package_ndcs": [
+    "0054-0528-63"
+  ],
+  "products": [
+    {
+      "form": "SUSPENSION",
+      "generic": "rufinamide",
+      "name": "Rufinamide"
+    }
+  ],
+  "setid": "8ef75997-06f6-441f-8320-a23bc13ca2d9",
+  "source": "dailymed"
+}
