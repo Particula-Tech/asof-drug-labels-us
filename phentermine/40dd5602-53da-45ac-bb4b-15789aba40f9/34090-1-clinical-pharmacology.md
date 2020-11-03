@@ -94,7 +94,7 @@ Hepatic Impairment
 A single-dose, open-label study was conducted to evaluate the pharmacokinetics of Qsymia 15 mg/92 mg in healthy volunteers with normal hepatic function compared with patients with mild (Child-Pugh score 5 - 6) and moderate (Child-Pugh score 7 - 9) hepatic impairment.
 In patients with mild and moderate hepatic impairment, phentermine AUC was 37% and 60% higher compared to healthy volunteers.
 Pharmacokinetics of topiramate was not affected in patients with mild and moderate hepatic impairment when compared with healthy volunteers.
-Qsymia has not been studied in patients with severe hepatic impairment (Child-Pugh score 10 - 15) [see Dosage and Administration (2.3), Warnings and Precautions (5.14), and Use in Specific Populations (8.8)].
+Qsymia has not been studied in patients with severe hepatic impairment (Child-Pugh score 10 - 15) [see Dosage and Administration (2.3), Warnings and Precautions (5.14), and Use in Specific Populations (8.7)].
 
 Drug Interactions
 
@@ -115,7 +115,7 @@ Topiramate is not a P-glycoprotein substrate.
 
 Effects of Phentermine/Topiramate on Other Drugs
 
-Table 6.
+Table 5.
 Effect of Phentermine/Topiramate on the Pharmacokinetics of Co-administered Drugs
 
 | Drug and Dose (mg) | Change in AUC | Change in C max |  |
@@ -127,7 +127,7 @@ Effect of Phentermine/Topiramate on the Pharmacokinetics of Co-administered Drug
 
 Effect of Other Drugs on Phentermine/Topiramate
 
-Table 7.
+Table 6.
 Effect of Co-administered Drugs on the Pharmacokinetics of Phentermine/Topiramate
 
 | Dose (mg) | Change in AUC | Change in C max |  |
@@ -144,12 +144,12 @@ Effects of Topiramate Alone on Other Drugs and Effects of Other Drugs on Topiram
 Antiepileptic Drugs
 
 Potential interactions between topiramate and standard antiepileptic (AED) drugs were assessed in controlled clinical pharmacokinetic studies in patients with epilepsy.
-The effects of these interactions on mean plasma AUCs are summarized in Table 8.
+The effects of these interactions on mean plasma AUCs are summarized in Table 7.
 
-In Table 8, the second column (AED concentration) describes what happens to the concentration of the AED listed in the first column when topiramate is added.
+In Table 7, the second column (AED concentration) describes what happens to the concentration of the AED listed in the first column when topiramate is added.
 The third column (topiramate concentration) describes how the co-administration of a drug listed in the first column modifies the concentration of topiramate in experimental settings when topiramate was given alone.
 
-Table 8.
+Table 7.
 Summary of AED Interactions with Topiramate
 
 | AED Co-administered | AED Concentration | Topiramate Concentration |

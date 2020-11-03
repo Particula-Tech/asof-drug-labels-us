@@ -36,17 +36,20 @@ If an increase in Qsymia dose is prescribed after medical evaluation, advise pat
 
 Advise patients to discontinue the Qsymia 15 mg/92 mg dose gradually by taking one Qsymia 15 mg/92 mg capsule every other day for at least one week before stopping in order to avoid a seizure.
 
-Females of Reproductive Potential
+Pregnancy
 
-Qsymia can cause fetal harm and patients should avoid getting pregnant while taking Qsymia [see Warnings and Precautions (5.1)]
+Qsymia can cause fetal harm and patients should avoid getting pregnant while taking Qsymia [see Warnings and Precautions (5.1), Drug Interactions (7.2), Use in Specific Populations (8.3))].
 
-- Pregnancy testing is recommended before starting Qsymia and monthly thereafter during therapy.
-- Advise patients about effective methods of contraception, as well as the importance of using effective contraception consistently during Qsymia therapy.
-  Advise females who become pregnant during Qsymia therapy to stop Qsymia immediately and tell their healthcare provider(s).
+Advise patients who can become pregnant:
 
-Nursing Mothers
+- that pregnancy testing is recommended before initiating Qsymia and monthly during therapy;
+- to use effective contraception during Qsymia therapy;
+- who experience spotting while taking a combined oral contraceptive to notify their healthcare provider;
+- with a known or suspected pregnancy to stop Qsymia immediately and notify their healthcare provider.
 
-Either discontinue nursing or discontinue Qsymia [see Use in Specific Populations (8.3)].
+Lactation
+
+Advise patients that breastfeeding is not recommended with Qsymia treatment [see Use in Specific Populations (8.2)].
 
 Elevation in Heart Rate
 

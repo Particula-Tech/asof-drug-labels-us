@@ -1,6 +1,6 @@
 Manufactured for VIVUS, Inc. by Catalent Pharma Solutions, LLC 1100 Enterprise Drive Winchester, KY 40391
 
-Copyright © 2012 - 2017 VIVUS, Inc. All rights reserved.
+Copyright © 2012 - 2020 VIVUS, Inc. All rights reserved.
 
 VIVUS, Inc 900 E. Hamilton Ave., Suite 550 Campbell, CA 95008 USA
 
@@ -13,42 +13,43 @@ Who should not take Qsymia?
 Do not take Qsymia if you:
 
 - are pregnant, planning to become pregnant, or become pregnant during Qsymia treatment.
-- have glaucoma
-- have thyroid problems (hyperthyroidism)
+- have glaucoma.
+- have thyroid problems (hyperthyroidism).
 - are taking certain medicines called monoamine oxidase inhibitors (MAOIs) or have taken MAOIs in the past 14 days.
 - are allergic to topiramate, sympathomimetic amines such as phentermine, or any of the ingredients in Qsymia.
   See the end of this Medication Guide for a complete list of ingredients in Qsymia.
 
 What should I tell my healthcare provider before taking Qsymia?
 
-Tell your healthcare provider if you:
+Before taking Qsymia, tell your healthcare provider about all of your medical conditions, including if you:
 
-- are pregnant or planning to become pregnant
-- have had a heart attack or stroke
-- have or have had an abnormal heart rhythm
-- have or have had depression, mood problems, or suicidal thoughts or behavior
-- have eye problems, especially glaucoma
-- have a history of metabolic acidosis (too much acid in the blood) or a condition that puts you at higher risk for metabolic acidosis such as
+- have had a heart attack or stroke.
+- have or have had an abnormal heart rhythm.
+- have or have had depression, mood problems, or suicidal thoughts or behavior.
+- have eye problems, especially glaucoma.
+  See " Who should not take Qsymia?"
+- have a history of too much acid in the blood (metabolic acidosis) or a condition that puts you at higher risk for metabolic acidosis such as
   - chronic diarrhea, surgery, a diet high in fat and low in carbohydrates (ketogenic diet), weak, brittle, or soft bones (osteomalacia, osteoporosis, osteopenia), or decreased bone density
-- have kidney problems, have kidney stones, or are getting kidney dialysis
-- have liver problems
-- have seizures or convulsions (epilepsy)
-- are breastfeeding.
-  It is not known if Qsymia passes into your breast milk.
+- have type 2 diabetes and take medicine to control your blood sugar.
+- have kidney problems, kidney stones, or are getting kidney dialysis.
+- have liver problems.
+- have seizures or convulsions (epilepsy).
+- are breastfeeding or plan to breastfeed.
+  Qsymia can pass into your breast milk and may harm your baby.
   You and your healthcare provider should decide if you will take Qsymia or breastfeed.
   You should not do both.
 
-Tell your healthcare provider about all the medicines you take, including prescription and non-prescription medicines, vitamins, and herbal supplements.
+Tell your healthcare provider about all the medicines you take, including prescription and over-the-counter medicines, vitamins, and herbal supplements.
 Qsymia taken with other medicines may affect how each medicine works and may cause side effects.
 
 Especially tell your healthcare provider if you take:
 
 - Birth control pills.
-  Tell your healthcare provider if your menstrual bleeding changes while you are taking birth control pills and Qsymia.
-- Water pills (diuretics) such as hydrochlorothiazide (HCTZ)
-- Any medicines that impair or decrease your thinking, concentration, or muscle coordination
-- Carbonic anhydrase inhibitors [such as ZONEGRAN ® (zonisamide), DIAMOX ® (acetazolamide) or NEPTAZANE ® (methazolamide)]
-- Seizure medicines such as Valproic acid (DEPAKENE ® or DEPAKOTE ®)
+  Tell your healthcare provider if your menstrual bleeding changes while you are taking birth control pills that contain both estrogen and progestin (combination oral contraceptives) and Qsymia.
+- Water pills (diuretics) such as hydrochlorothiazide (HCTZ).
+- Any medicines that impair or decrease your thinking, concentration, or muscle coordination.
+- Carbonic anhydrase inhibitors such as ZONEGRAN (zonisamide), DIAMOX (acetazolamide) or NEPTAZANE (methazolamide).
+- Seizure medicines such as valproic acid (DEPAKENE or DEPAKOTE).
 
 Ask your healthcare provider or pharmacist for a list of these medicines, if you are not sure.
 
@@ -65,13 +66,13 @@ How should I take Qsymia?
 - If you miss a dose of Qsymia, wait until the next morning to take your usual dose of Qsymia.
   Do not double your dose.
 - To start treatment with Qsymia
-  - Take one Qsymia 3.75 mg/23 mg capsule (Figure A) once each morning for the first 14 days
-  - After taking Qsymia 3.75 mg/23 mg capsule for 14 days, then take one Qsymia 7.5 mg/46 mg capsule (Figure B) once each morning
+  - Take 1 Qsymia 3.75 mg/23 mg capsule (Figure A) 1 time each morning for the first 14 days.
+  - After taking Qsymia 3.75 mg/23 mg capsule for 14 days, then take 1 Qsymia 7.5 mg/46 mg capsule (Figure B) 1 time each morning.
 - After taking Qsymia for 12 weeks
-  - Your healthcare provider should either (1) tell you to stop taking Qsymia or (2) increase your dose of Qsymia if you do not lose a certain amount of weight within the first 12 weeks of treatment at the recommended dose.
+  - Your healthcare provider should either tell you to stop taking Qsymia or increase your dose of Qsymia if you do not lose a certain amount of weight within the first 12 weeks of treatment at the recommended dose.
 - If your healthcare provider increases the dose of Qsymia
-  - Take one Qsymia 11.25 mg/69 mg capsule (Figure C) once each morning for 14 days
-  - After taking 14 days of Qsymia 11.25 mg/69 mg capsule, then take one Qsymia 15 mg/92 mg capsule (Figure D) once each morning
+  - Take 1 Qsymia 11.25 mg/69 mg capsule (Figure C) 1 time each morning for 14 days.
+  - After taking 14 days of Qsymia 11.25 mg/69 mg capsule, then take 1 Qsymia 15 mg/92 mg capsule (Figure D) 1 time each morning.
 - Stopping Qsymia treatment
 
 Your healthcare provider should tell you to stop taking Qsymia if you have not lost a certain amount of weight after an additional 12 weeks of treatment on the higher dose.
@@ -88,12 +89,14 @@ What should I avoid while taking Qsymia?
   See " What is the most important information I should know about Qsymia."
 - Do not drink alcohol while taking Qsymia.
   Qsymia and alcohol can affect each other causing side effects such as sleepiness or dizziness.
-- Do not drive a car or operate heavy machinery, or do other dangerous activities until you know how Qsymia affects you.
+- Do not drive a car, operate heavy machinery, or do other dangerous activities until you know how Qsymia affects you.
   Qsymia can slow your thinking and motor skills, and may affect vision.
 
 What are the possible side effects of Qsymia?
 
-- See " What is the most important information I should know about Qsymia?" at the beginning of this Medication Guide
+Qsymia can cause serious side effects, including:
+
+- See " What is the most important information I should know about Qsymia?" at the beginning of this Medication Guide.
 - Mood changes and trouble sleeping.
   Qsymia may cause depression or mood problems, and trouble sleeping.
   Tell your healthcare provider if symptoms occur.
@@ -115,8 +118,8 @@ What are the possible side effects of Qsymia?
   Seizures may happen in people who may or may not have had seizures in the past if you stop Qsymia too fast.
   Your healthcare provider will tell you how to stop taking Qsymia slowly.
 - Kidney stones.
-  Drinking plenty of fluids when taking Qsymia to help decrease your chances of getting kidney stones.
-  If you get severe side or back pain, and/or blood in your urine, call your healthcare provider
+  Drink plenty of fluids when taking Qsymia to help decrease your chances of getting kidney stones.
+  If you get severe side or back pain, or blood in your urine, call your healthcare provider
 - Decreased sweating and increased body temperature (fever).
   People should be watched for signs of decreased sweating and fever, especially in hot temperatures.
   Some people may need to be hospitalized for this condition.
@@ -136,7 +139,9 @@ These are not all of the possible side effects of Qsymia.
 For more information, ask your healthcare provider or pharmacist.
 
 Call your doctor for medical advice about side effects.
-You may report side effects to VIVUS at 1-888-998-4887 or FDA at 1-800-FDA-1088.
+You may report side effects to FDA at 1-800-FDA-1088.
+
+You can also report side effects to VIVUS at 1-888-998-4887.
 
 How should I store Qsymia?
 
@@ -144,16 +149,16 @@ How should I store Qsymia?
 
 Keep Qsymia and all medicines out of the reach of children.
 
-General Information about Qsymia
+General Information about the safe and effective use of Qsymia.
 
 Medicines are sometimes prescribed for purposes other than those listed in a Medication Guide.
 Do not use Qsymia for a condition for which it was not prescribed.
 Do not give Qsymia to other people, even if they have the same symptoms you have.
 It may harm them.
 
-This Medication Guide summarizes important information about Qsymia.
+This Medication Guide summarizes the most important information about Qsymia.
 If you would like more information, talk with your healthcare provider.
-You can ask your pharmacist or healthcare provider for information about Qsymia that is written for healthcare professionals.
+You can ask your pharmacist or healthcare provider for information about Qsymia that is written for health professionals.
 
 For more information, go to www.QsymiaREMS.com or call 1-888-998-4887.
 
@@ -163,9 +168,7 @@ Active Ingredient: phentermine hydrochloride and topiramate extended-release
 
 Inactive Ingredients: methylcellulose, sucrose, starch, microcrystalline cellulose, ethylcellulose, povidone, gelatin, talc, titanium dioxide, FD&C Blue #1, FD&C Red #3, FD&C Yellow #5 and #6, and pharmaceutical black and white inks.
 
-This Medication Guide has been approved by the U.S. Food and Drug Administration.
-
-Copyright © 2012 - 2017 VIVUS, Inc. All rights reserved.
+Copyright © 2012 - 2020 VIVUS, Inc. All rights reserved.
 
 VIVUS, Inc 900 E. Hamilton Ave., Suite 550 Campbell, CA 95008 USA
 
@@ -173,4 +176,6 @@ US Patent Numbers: 7,056,890; 7,553,818; 7,659,256; 7,674,776; 8,580,298; 8,580,
 
 Qsymia is a registered trademark of VIVUS, Inc.
 
-PH-03-002-09
+PH-03-002-10
+
+This Medication Guide has been approved by the U.S. Food and Drug Administration Revised: 10/2020

@@ -1,4 +1,4 @@
-MEDICATION GUIDE QSYMIA® (Kyoo sim ee' uh) (phentermine and topiramate extended-release) Capsules CIV
+MEDICATION GUIDE QSYMIA® (Kyoo sim ee' uh) (phentermine and topiramate extended-release) capsules, for oral use, CIV
 
 Read this Medication Guide before you start taking Qsymia and each time you get a refill.
 There may be new information.
@@ -7,21 +7,21 @@ If you have any questions about Qsymia, talk to your healthcare provider or phar
 
 What is the most important information I should know about Qsymia?
 
-(For other side effects, also see " What are the possible side effects of Qsymia?")
-
 Qsymia can cause serious side effects, including:
 
-- Birth defects (cleft lip/cleft palate).
+- Birth defects (cleft lip and cleft palate).
   If you take Qsymia during pregnancy, your baby has a higher risk for birth defects called cleft lip and cleft palate.
   These defects can begin early in pregnancy, even before you know you are pregnant.
-  Women who are pregnant must not take Qsymia.
-  Women who can become pregnant should: If you become pregnant while taking Qsymia, stop taking Qsymia immediately, and tell your healthcare provider right away.
-  Healthcare providers and patients should report all cases of pregnancy to:
-  1. Have a negative pregnancy test before taking Qsymia and every month while taking Qsymia.
+  Patients who are pregnant must not take Qsymia.
+  Patients who can become pregnant should: If you become pregnant while taking Qsymia, stop taking Qsymia immediately and tell your healthcare provider right away.
+  Healthcare providers and patients should report all cases of pregnancy to: Because of the risk for birth defects (cleft lip and cleft palate), Qsymia is available through a restricted program called the Qsymia Risk Evaluation and Mitigation Strategy (REMS).
+  Qsymia is only available through certified pharmacies that participate in the Qsymia REMS program.
+  Your healthcare provider can give you information about how to find a certified pharmacy.
+  For more information, go to www.QsymiaREMS.com or call 1-888-998-4887
+  1. Have a pregnancy test before taking Qsymia and every month while taking Qsymia.
   2. Use effective birth control (contraception) consistently while taking Qsymia.
      Talk to your healthcare provider about how to prevent pregnancy.
   - FDA MedWatch at 1-800-FDA-1088, and
-  - The Qsymia Pregnancy Surveillance Program at 1-888-998-4887
 - Increases in heart rate.
   Qsymia can increase your heart rate at rest.
   Your healthcare provider should check your heart rate while you take Qsymia.
@@ -46,14 +46,17 @@ Qsymia can cause serious side effects, including:
   - any sudden decrease in vision, with or without eye pain and redness,
   - a blockage of fluid in the eye causing increased pressure in the eye (secondary angle closure glaucoma).
 
+Qsymia can have other serious side effects.
+See " What are the possible side effects of Qsymia?"
+
 What is Qsymia?
 
-Qsymia is a prescription medicine that contains phentermine and topiramate extended-release that may help some obese adults or some overweight adults who also have weight-related medical problems lose weight and keep the weight off.
-
-Qsymia should be used with a reduced calorie diet and increased physical activity.
-
-It is not known if Qsymia changes your risk of heart problems or stroke or of death due to heart problems or stroke.
-
-It is not known if Qsymia is safe and effective when taken with other prescription, over-the-counter, or herbal weight loss products.
-
-It is not known if Qsymia is safe and effective in children under 18 years old.
+- Qsymia is a prescription medicine that contains phentermine and topiramate extended-release that may help some obese adults or some overweight adults who also have weight-related medical problems lose weight and keep the weight off.
+- Qsymia should be used with a reduced calorie diet and increased physical activity.
+- It is not known if Qsymia changes your risk of heart problems or stroke or of death due to heart problems or stroke.
+- It is not known if Qsymia is safe and effective when taken with other prescription and over-the-counter medicines, or herbal weight loss products.
+- It is not known if Qsymia is safe and effective in children under 18 years old.
+- Qsymia is a federally controlled substance (CIV) because it contains phentermine and can be abused or lead to drug dependence.
+  Keep Qsymia in a safe place, to protect it from theft.
+  Never give your Qsymia to anyone else, because it may cause death or harm them.
+  Selling or giving away Qsymia is against the law.

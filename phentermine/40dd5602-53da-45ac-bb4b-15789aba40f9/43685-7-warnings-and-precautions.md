@@ -1,18 +1,17 @@
 # 5 WARNINGS AND PRECAUTIONS
 
-## 5.1 Fetal Toxicity
+## 5.1 Embryo-Fetal Toxicity
 
 Qsymia can cause fetal harm.
-Data from pregnancy registries and epidemiology studies indicate that a fetus exposed to topiramate, a component of Qsymia, in the first trimester of pregnancy has an increased risk of oral clefts (cleft lip with or without cleft palate).
-If Qsymia is used during pregnancy or if a patient becomes pregnant while taking Qsymia, treatment should be discontinued immediately, and the patient should be apprised of the potential hazard to a fetus.
-Females of reproductive potential should have a negative pregnancy test before starting Qsymia and monthly thereafter during Qsymia therapy.
-Females of reproductive potential should use effective contraception during Qsymia therapy [see Use in Specific Populations (8.1) and (8.6)].
+Data from a pregnancy registry and epidemiologic studies indicate that a fetus exposed to topiramate, a component of Qsymia, in the first trimester of pregnancy has an increased risk of oral clefts (cleft lip with or without cleft palate).
+Pregnancy testing is recommended before initiating Qsymia treatment in patients who can become pregnant and monthly during Qsymia therapy.
+Advise patients who can become pregnant of the potential risk to a fetus and to use effective contraception during Qsymia therapy [see Use in Specific Populations (8.1) and (8.3)].
 
 Qsymia Risk Evaluation and Mitigation Strategy (REMS)
 
 Because of the teratogenic risk associated with Qsymia therapy, Qsymia is available through a limited program under the REMS.
 Under the Qsymia REMS, only certified pharmacies may distribute Qsymia.
-Further information, is available at www.QsymiaREMS.com or by telephone at 1-888-998-4887.
+Further information is available at www.QsymiaREMS.com or by telephone at 1-888-998-4887.
 
 ## 5.2 Increase in Heart Rate
 

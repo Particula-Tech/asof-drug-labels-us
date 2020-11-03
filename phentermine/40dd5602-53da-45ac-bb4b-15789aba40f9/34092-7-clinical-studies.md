@@ -28,11 +28,11 @@ During the study, a well-balanced, reduced-calorie diet to result in an approxim
 
 A substantial percentage of randomized patients withdrew from each study prior to week 56, 40% in Study 1, and 31% in Study 2.
 
-Table 9 provides the results for the weight loss at 1 year in Studies 1 and 2.
-After 1 year of treatment with Qsymia, all dose levels resulted in statistically significant weight loss compared to placebo (Table 9, Figures 1 and 2).
+Table 8 provides the results for the weight loss at 1 year in Studies 1 and 2.
+After 1 year of treatment with Qsymia, all dose levels resulted in statistically significant weight loss compared to placebo (Table 8, Figures 1 and 2).
 A statistically significant greater proportion of the patients randomized to Qsymia than placebo achieved 5% and 10% weight loss.
 
-Table 9.
+Table 8.
 Weight Loss at One Year in Study 1 and 2
 
 | Placebo | Qsymia 3.75 mg/23 mg | Qsymia 15 mg/92 mg | Placebo | Qsymia 7.5 mg/46 mg | Qsymia 15 mg/92 mg |  |
@@ -53,10 +53,10 @@ Weight Loss at One Year in Study 1 and 2
 | Figure 1. Study 1 Percent Weight Change | Figure 2. Study 2 Percent Weight Change |
 | --- | --- |
 
-The changes in cardiovascular, metabolic, and anthropometric risk factors associated with obesity from Study 1 and 2 are presented in Table 10 and 11.
+The changes in cardiovascular, metabolic, and anthropometric risk factors associated with obesity from Study 1 and 2 are presented in Table 9 and 10.
 One year of therapy with Qsymia resulted in relative improvement over placebo in several risk factors associated with obesity with the exception of heart rate [see Warnings and Precautions (5.2)].
 
-Table 10.
+Table 9.
 Least-Squares (LS) Mean Study 1 adjusted for baseline bodyweight Change from Baseline and Treatment Difference from Placebo in Risk Factors Following One Year of Treatment in Study 1 (Obesity)
 
 | Qsymia 3.75 mg/23 mg | Qsymia 15 mg/92 mg |  |  |  |  |
@@ -91,7 +91,7 @@ Least-Squares (LS) Mean Study 1 adjusted for baseline bodyweight Change from Bas
 | LS Mean Change (SE) | -3.1 (0.5) | -5.6 (0.6) | -10.9 (0.5) |  |  |
 | SD=standard deviation; SE=standard error |  |  |  |  |  |
 
-Table 11.
+Table 10.
 Least-Squares (LS) Mean Study 2 adjusted for baseline bodyweight and diabetic status Change from Baseline and Treatment Difference from Placebo in Risk Factors Following One Year of Treatment in Study 2 (Overweight and Obese with Comorbidities)
 
 | Qsymia 7.5 mg/46 mg | Qsymia 15 mg/92 mg |  |  |  |  |

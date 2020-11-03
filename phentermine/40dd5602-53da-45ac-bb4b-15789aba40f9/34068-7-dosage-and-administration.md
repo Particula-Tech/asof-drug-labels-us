@@ -2,6 +2,8 @@
 
 ## 2.1 General Dosing and Administration
 
+Pregnancy testing is recommended before initiating Qsymia in patients who can become pregnant and monthly during Qsymia therapy [see Warnings and Precautions (5.1) and Use in Specific Populations (8.3).
+
 Determine the patient's BMI.
 BMI is calculated by dividing weight (in kilograms) by height (in meters) squared.
 A BMI conversion chart (Table 1) based on height [inches (in) or centimeters (cm)] and weight [pounds (lb) or kilograms (kg)] is provided below.
