@@ -2,9 +2,11 @@ PRINCIPAL DISPLAY PANEL
 
 NDC 0173-0718-20
 
-Flovent HFA 44 mcg
+Flovent HFA
 
-(fluticasone propionate 44 mcg inhalation aerosol)
+(fluticasone propionate inhalation aerosol)
+
+44 mcg
 
 For oral inhalation with FLOVENT HFA actuator only.
 
@@ -21,19 +23,20 @@ Net Wt.
 
 Made in UK
 
-©2019 GSK group of companies or its licensor.
+©2020 GSK group of companies or its licensor.
 
-1. 62000000036616 Rev.
-   4/19
-2. 
+1. 62000000051332 Rev.
+   5/20
 
 PRINCIPAL DISPLAY PANEL
 
 NDC 0173-0719-20
 
-Flovent HFA 110 mcg
+Flovent HFA
 
-(fluticasone propionate 110 mcg inhalation aerosol)
+(fluticasone propionate inhalation aerosol)
+
+110 mcg
 
 For oral inhalation with FLOVENT HFA actuator only.
 
@@ -50,19 +53,20 @@ Net Wt.
 
 Made in Singapore
 
-©2019 GSK group of companies or its licensor.
+©2020 GSK group of companies or its licensor.
 
-1. 62000000036624 Rev.
-   4/19
-2. 
+1. 62000000051337 Rev.
+   5/20
 
 PRINCIPAL DISPLAY PANEL
 
 NDC 0173-0720-20
 
-Flovent HFA 220 mcg
+Flovent HFA
 
-(fluticasone propionate 220 mcg inhalation aerosol)
+(fluticasone propionate inhalation aerosol)
+
+220 mcg
 
 For oral inhalation with FLOVENT HFA actuator only.
 
@@ -72,8 +76,6 @@ Each actuation of the inhaler delivers 250 mcg of fluticasone propionate from th
 
 Rx only
 
-With Counter
-
 Net Wt.
 12 g
 
@@ -81,8 +83,7 @@ Net Wt.
 
 Made in Singapore
 
-©2019 GSK group of companies or its licensor.
+©2020 GSK group of companies or its licensor.
 
-1. 62000000036620 Rev.
-   4/19
-2. 
+1. 62000000051334 Rev.
+   5/20

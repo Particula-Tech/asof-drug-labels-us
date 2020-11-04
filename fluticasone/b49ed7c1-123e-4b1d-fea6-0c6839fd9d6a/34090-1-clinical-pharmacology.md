@@ -78,7 +78,7 @@ Exposure was lower in children aged 4 to 11 years, who did not use a VHC, as sho
 Table 3.
 Systemic Exposure to Fluticasone Propionate following FLOVENT HFA 88 mcg Twice Daily
 
-| Age | Valved Holding Chamber | N | AUC0-τ, pg•h/mL(95% CI) | Cmax, pg/mL(95% CI) |
+| Age | Valved Holding Chamber | N | AUC(0-τ), pg•h/mL(95% CI) | Cmax, pg/mL(95% CI) |
 | --- | --- | --- | --- | --- |
 | 6 to <12 Months | Yes | 17 | 141 (88, 227) | 19 (13, 29) |
 | 1 to <4 Years | Yes | 164 | 143 (131, 157) | 20 (18, 21) |
@@ -98,7 +98,7 @@ Systemic Exposure to Fluticasone Propionate following a Single Dose of FLOVENT H
 | 4 to 11 Years | No | 21 | 141 (111, 178) | 23 (19, 28) |
 
 There was a dose-related increase in systemic exposure in subjects aged 12 years and older receiving higher doses of fluticasone propionate (220 and 440 mcg twice daily).
-The AUC0-τ in pg•h/mL was 358 (95% CI: 272, 473) and 640 (95% CI: 477, 858), and Cmax in pg/mL was 47.3 (95% CI: 37, 61) and 87 (95% CI: 68, 112) following fluticasone propionate 220 and 440 mcg, respectively.
+The AUC(0-τ) in pg•h/mL was 358 (95% CI: 272, 473) and 640 (95% CI: 477, 858), and Cmax in pg/mL was 47.3 (95% CI: 37, 61) and 87 (95% CI: 68, 112) following fluticasone propionate 220 and 440 mcg, respectively.
 
 Patients with Hepatic and Renal Impairment: Formal pharmacokinetic studies using FLOVENT HFA have not been conducted in patients with hepatic or renal impairment.
 However, since fluticasone propionate is predominantly cleared by hepatic metabolism, impairment of liver function may lead to accumulation of fluticasone propionate in plasma.

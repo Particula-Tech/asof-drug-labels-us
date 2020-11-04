@@ -6,7 +6,7 @@ The active component of FLOVENT HFA 44 mcg, FLOVENT HFA 110 mcg, and FLOVENT HFA
 Fluticasone propionate is a white powder with a molecular weight of 500.6, and the empirical formula is C25H31F3O5S.
 It is practically insoluble in water, freely soluble in dimethyl sulfoxide and dimethylformamide, and slightly soluble in methanol and 95% ethanol.
 
-Flovent HFA is a dark orange plastic inhaler with a peach strapcap containing a pressurized metered-dose aerosol canister fitted with a counter.
+Flovent HFA is a dark orange plastic inhaler with a peach cap containing a pressurized metered-dose aerosol canister fitted with a counter.
 Each canister contains a microcrystalline suspension of micronized fluticasone propionate in propellant HFA-134a (1,1,1,2-tetrafluoroethane).
 It contains no other excipients.
 

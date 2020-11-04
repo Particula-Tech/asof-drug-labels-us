@@ -7,7 +7,7 @@ Risk Summary
 There are insufficient data on the use of FLOVENT HFA in pregnant women.
 There are clinical considerations with the use of FLOVENT HFA in pregnant women.
 (See Clinical Considerations.)
-In animals, teratogenicity characteristic of corticosteroids, decreased fetal body weight, and/or skeletal variations in rats, mice, and rabbits were observed with subcutaneously administered maternal toxic doses of fluticasone propionate less than the maximum recommended human daily inhaled dose (MRHDID) on a mcg/m2 basis.
+In animals, teratogenicity characteristic of corticosteroids, decreased fetal body weight and/or skeletal variations in rats, mice, and rabbits, was observed with subcutaneously administered maternal toxic doses of fluticasone propionate less than the maximum recommended human daily inhaled dose (MRHDID) on a mcg/m2 basis.
 (See Data.)
 However, fluticasone propionate administered via inhalation to rats decreased fetal body weight but did not induce teratogenicity at a maternal toxic dose less than the MRHDID on a mcg/m2 basis.
 (See Data.)
@@ -96,7 +96,7 @@ The mean and median change from baseline in urine cortisol over 12 hours were -0
 
 In a 1-way crossover trial in children aged 6 to younger than 12 months with reactive airways disease (N = 21), serum cortisol was measured over a 12-hour dosing period.
 Subjects received placebo treatment for a 2-week period followed by a 4-week treatment period with 88 mcg of FLOVENT HFA twice daily with an AeroChamber Plus Valved Holding Chamber (VHC) with mask.
-The geometric mean ratio of serum cortisol over 12 hours (AUC0-12 h) following FLOVENT HFA (n = 16) versus placebo (n = 18) was 0.95 (95% CI: 0.72, 1.27).
+The geometric mean ratio of serum cortisol over 12 hours [AUC(0-12 h)] following FLOVENT HFA (n = 16) versus placebo (n = 18) was 0.95 (95% CI: 0.72, 1.27).
 
 Safety: FLOVENT HFA administered as 88 mcg twice daily was evaluated for safety in 239 pediatric subjects aged 1 to younger than 4 years in a 12-week, double-blind, placebo-controlled trial.
 Treatments were administered with an AeroChamber Plus VHC with mask.
@@ -120,10 +120,22 @@ In Vitro Medication Delivery through AeroChamber Plus Valved Holding Chamber wit
 
 | Age | Mask | Flow Rate(L/min) | Holding Time(seconds) | Mean Medication Delivery through AeroChamber Plus VHC(mcg/actuation) | Body Weight 50th Percentile(kg)a | Medication Delivered per Actuation(mcg/kg)b |
 | --- | --- | --- | --- | --- | --- | --- |
-| 6 to 12Months | Small | 4.9 | 02510 | 8.36.77.57.5 | 7.5-9.9 | 0.8-1.10.7-0.90.8-1.00.8-1.0 |
-| 2 to 5 Years | Small | 8.0 | 02510 | 7.36.86.77.7 | 12.3-18.0 | 0.4-0.60.4-0.60.4-0.50.4-0.6 |
-| 2 to 5 Years | Medium | 8.0 | 02510 | 7.87.78.19.0 | 12.3-18.0 | 0.4-0.60.4-0.60.5-0.70.5-0.7 |
-| >5 Years | Medium | 12.0 | 02510 | 12.311.812.010.1 | 18.0 | 0.70.70.70.6 |
+| 6 to 12 Months | Small | 4.9 | 0 | 8.3 | 7.5-9.9 | 0.8-1.1 |
+|  |  |  | 2 | 6.7 |  | 0.7-0.9 |
+|  |  |  | 5 | 7.5 |  | 0.8-1.0 |
+|  |  |  | 10 | 7.5 |  | 0.8-1.0 |
+| 2 to 5 Years | Small | 8.0 | 0 | 7.3 | 12.3-18.0 | 0.4-0.6 |
+|  |  |  | 2 | 6.8 |  | 0.4-0.6 |
+|  |  |  | 5 | 6.7 |  | 0.4-0.5 |
+|  |  |  | 10 | 7.7 |  | 0.4-0.6 |
+| 2 to 5 Years | Medium | 8.0 | 0 | 7.8 | 12.3-18.0 | 0.4-0.6 |
+|  |  |  | 2 | 7.7 |  | 0.4-0.6 |
+|  |  |  | 5 | 8.1 |  | 0.5-0.7 |
+|  |  |  | 10 | 9.0 |  | 0.5-0.7 |
+| >5 Years | Medium | 12.0 | 0 | 12.3 | 18.0 | 0.7 |
+|  |  |  | 2 | 11.8 |  | 0.7 |
+|  |  |  | 5 | 12.0 |  | 0.7 |
+|  |  |  | 10 | 10.1 |  | 0.6 |
 | a Centers for Disease Control growth charts, developed by the National Center for Health Statistics in collaboration with the National Center for Chronic Disease Prevention and Health Promotion (2000). Ranges correspond to the average of the 50th percentile weight for boys and girls at the ages indicated. b A single inhalation of FLOVENT HFA in a 70-kg adult without use of a valved holding chamber and mask delivers approximately 44 mcg, or 0.6 mcg/kg. |  |  |  |  |  |  |
 
 ## 8.5 Geriatric Use

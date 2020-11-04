@@ -43,7 +43,7 @@ Additional Adverse Reactions
 Other adverse reactions not previously listed, whether considered drug-related or not by the investigators, that were reported more frequently by subjects with asthma treated with FLOVENT HFA compared with subjects treated with placebo include the following: rhinitis, rhinorrhea/post-nasal drip, nasal sinus disorders, laryngitis, diarrhea, viral gastrointestinal infections, dyspeptic symptoms, gastrointestinal discomfort and pain, hyposalivation, musculoskeletal pain, muscle pain, muscle stiffness/tightness/rigidity, dizziness, migraines, fever, viral infections, pain, chest symptoms, viral skin infections, muscle injuries, soft tissue injuries, urinary infections.
 
 Fluticasone propionate inhalation aerosol (440 or 880 mcg twice daily) was administered for 16 weeks to 168 subjects with asthma requiring oral corticosteroids (Trial 3).
-Adverse reactions not included above, but reported by more than 3 subjects in either group treated with FLOVENT HFA and more commonly than in the placebo group included nausea and vomiting, arthralgia and articular rheumatism, and malaise and fatigue.
+Adverse reactions not included above but reported by more than 3 subjects in either group treated with FLOVENT HFA and more commonly than in the placebo group included nausea and vomiting, arthralgia and articular rheumatism, and malaise and fatigue.
 
 In 2 long-term trials (26 and 52 weeks), the pattern of adverse reactions in subjects treated with FLOVENT HFA at dosages up to 440 mcg twice daily was similar to that observed in the 12-week trials.
 There were no new and/or unexpected adverse reactions with long-term treatment.
