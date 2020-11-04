@@ -36,10 +36,8 @@ Events involving the implant site, or insertion or removal procedures or complic
 
 Table 1: Adverse events (≥ 5% in the PROBUPHINE arm and more than in Placebo/SL BPN) by HLGT and treatment group for phase 3 controlled trials
 
-| MedDRA Preferred Term | n (%) A subject reporting more than one adverse event for a particular MedDRA Higher Level Group Term or Preferred Term is counted only once for that MedDRA Higher Level Group Term or Preferred Term. Percentages are rounded to the nearest whole number, and to the nearest decimal when < 0.5%. | n (%) |
+| System Organ Class High Level Group Term MedDRA Preferred Term | PROBUPHINE (N=309) n (%) A subject reporting more than one adverse event for a particular MedDRA Higher Level Group Term or Preferred Term is counted only once for that MedDRA Higher Level Group Term or Preferred Term. Percentages are rounded to the nearest whole number, and to the nearest decimal when < 0.5%. | Placebo/ SL BPN'SL BPN' =Denotes subjects assigned to Daily Sublingual Buprenorphine Arm in PRO-806 and PRO-814 studies. All subjects in all studies took SL BPN before study treatment period was initiated and had the option of taking SL BPN as supplemental medication during treatment. (N=317) n (%) |
 | --- | --- | --- |
-| System Organ Class | PROBUPHINE | Placebo/ SL BPN'SL BPN' =Denotes subjects assigned to Daily Sublingual Buprenorphine Arm in PRO-806 and PRO-814 studies. All subjects in all studies took SL BPN before study treatment period was initiated and had the option of taking SL BPN as supplemental medication during treatment. |
-| High Level Group Term | (N=309) | (N=317) |
 | GASTROINTESTINAL DISORDERS |  |  |
 | GASTROINTESTINAL SIGNS AND SYMPTOMS | 42 (14) | 39 (12) |
 | Nausea | 20 (6) | 15 (5) |

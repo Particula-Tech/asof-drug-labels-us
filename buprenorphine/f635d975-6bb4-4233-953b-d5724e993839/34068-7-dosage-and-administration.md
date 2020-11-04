@@ -372,7 +372,6 @@ Therefore, it is important to measure the implant to ensure the entire implant h
 
 Step 14.
 After removal of all four implants, clean the incision site.
-
 Step 15.
 Close the incision with sutures.
 
