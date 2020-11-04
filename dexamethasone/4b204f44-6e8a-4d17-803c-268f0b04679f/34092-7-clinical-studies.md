@@ -67,6 +67,10 @@ The occurrence of cataracts impacted visual acuity during the study.
 The visual acuity improvement from baseline increases during a treatment cycle, peaks at approximately 3 Months posttreatment and diminishes thereafter.
 Patients who were pseudophakic at baseline achieved greater mean BCVA change from baseline at the final study visit.
 
+Figure 2: Proportion of Subjects with ≥ 15 Letters Improvement from Baseline BCVA in the Study Eye
+
+Figure 3: Mean BCVA Change from Baseline
+
 The best corrected visual acuity outcomes for the Pseudophakic and Phakic subgroups from Studies 1 and 2 at Month 39 are presented in Table 6.
 
 Table 6: Visual Acuity outcomes at Month 39 (Subgroup for pooled data with LOCFc)

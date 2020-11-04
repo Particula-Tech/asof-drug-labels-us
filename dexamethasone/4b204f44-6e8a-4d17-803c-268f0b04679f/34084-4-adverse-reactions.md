@@ -87,6 +87,8 @@ Sham: 1 laser iridotomy
 
 The increase in mean IOP was seen with each treatment cycle, and the mean IOP generally returned to baseline between treatment cycles (at the end of the 6 month period) shown below:
 
+Figure 1: Mean IOP during the study
+
 Cataracts and Cataract Surgery
 
 At baseline, 243 of the 324 OZURDEX® subjects were phakic; 230 of 328 sham-controlled subjects were phakic.
