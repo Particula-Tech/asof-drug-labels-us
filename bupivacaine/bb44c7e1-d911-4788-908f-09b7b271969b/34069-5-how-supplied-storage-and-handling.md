@@ -24,6 +24,6 @@ For single-dose vials: Discard the unused portion.
 
 Distributed by Hospira, Inc., Lake Forest, IL 60045 USA Novaplus is a registered trademark of Vizient, Inc.
 
-LAB-1180-3.0
+LAB-1180-4.0
 
-Revised: 04/2019
+Revised: 09/2020
