@@ -1,29 +1,25 @@
-# VIAL LABEL
+# Principal Display Panel - Vial
 
-NDC 0143-9533-01
+NDC 0143-9533-01 Rx only
 
-Rx only
+Allopurinol Sodium for Injection
 
-ALLOPURINOL SODIUM FOR INJECTION
+500 mg per vial
 
-500 mg/vial
+For Intravenous Infusion
 
-FOR INTRAVENOUS INFUSION
+Sterile Single Use Vial
 
-STERILE SINGLE USE VIAL
+# Principal Display panel - Carton
 
-# CARTON LABEL
+NDC 0143-9533-01 Rx only
 
-NDC 0143-9533-01
+Allopurinol Sodium for Injection
 
-Rx only
+500 mg per vial
 
-ALLOPURINOL SODIUM FOR INJECTION
+For Intravenous Infusion
 
-500 mg/vial
-
-FOR INTRAVENOUS INFUSION
-
-STERILE SINGLE USE VIAL
+Sterile Single Use Vial
 
 # SERIALIZATION IMAGE

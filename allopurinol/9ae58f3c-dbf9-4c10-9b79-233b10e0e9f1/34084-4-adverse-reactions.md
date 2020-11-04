@@ -18,7 +18,7 @@ A listing of the adverse reactions regardless of causality reported from clinica
 | Body as Whole: | fever, pain, chills, alopecia, infection, sepsis, enlarged abdomen, mucositis/pharyngitis, blast crisis, cellulitis, hypervolemia |
 | Cardiovascular: | heart failure, cardiorespiratory arrest, hypertension, pulmonary embolus, hypotension, decreased venous pressure, flushing, headache, stroke, septic shock, cardiovascular disorder, ECG abnormality, hemorrhage, bradycardia, thrombophlebitis, ventricular fibrillation |
 | Cutaneous/Dermatologic: | urticaria, pruritus, local injection site reaction |
-| Gastrointestinal: | diarrhea, gastrointestinalbleeding, hyperbilirubinemia, splenomegaly, hepatomegaly, intestinal obstruction, jaundice, flatulence, constipation, liver failure, proctitis |
+| Gastrointestinal: | diarrhea, gastrointestinal bleeding, hyperbilirubinemia, splenomegaly, hepatomegaly, intestinal obstruction, jaundice, flatulence, constipation, liver failure, proctitis |
 | Genitourinary: | hematuria, increased creatinine, oliguria, kidney function abnormality, urinary tract infection |
 | Hematologic: | leukopenia, marrow aplasia, thrombocytopenia, eosinophilia,neutropenia, anemia, pancytopenia, ecchymosis, bone marrow suppression, disseminated intravascular coagulation |
 | Metabolic: | hypocalcemia, hyperphosphatemia, hypokalemia, hyperuricemia, electrolyte abnormality, hypercalcemia, hyperglycemia, hypernatremia, hyponatremia, metabolic acidosis, edema, glycosuria, hyperkalemia, lactic acidosis, water intoxication, hypomagnesemia |

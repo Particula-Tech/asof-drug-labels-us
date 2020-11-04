@@ -1,19 +1,27 @@
 # WARNINGS
 
-ALLOPURINOL SHOULD BE DISCONTINUED AT THE FIRST APPEARANCE OF SKIN RASH OR OTHER SIGNS WHICH MAY INDICATE AN ALLERGIC REACTION.
-In some instances with oral allopurinol, a skin rash may be followed by more severe hypersensitivity reactions such as exfoliative, urticarial, and purpuric lesions as well as Stevens-Johnson syndrome (erythema multiforme exudativum), and/or generalized vasculitis, irreversible hepatotoxicity and, on rare occasions, death.
+DISCONTINUE ALLOPURINOL SODIUM FOR INJECTION AT THE FIRST APPEARANCE OF SKIN RASH OR OTHER SIGNS WHICH MAY INDICATE A HYPERSENSITIVITY REACTION.
+Serious and sometimes fatal dermatologic reactions, including toxic epidermal necrolysis (TEN), Stevens-Johnson syndrome (SJS), and drug reaction with eosinophilia and systemic symptoms (DRESS) have been reported in patients taking allopurinol.
+These reactions occur in approximately 5 in 10,000 (0.05%) patients taking allopurinol.
+Other serious hypersensitivity reactions that have been reported include exfoliative, urticarial and purpuric lesions; generalized vasculitis; and irreversible hepatotoxicity.
+
+The HLA-B*58:01 allele is a genetic marker for severe skin reactions indicative of hypersensitivity to allopurinol.
+Patients who carry the HLA-B*58:01 allele are at a higher risk of allopurinol hypersensitivity syndrome (AHS), but hypersensitivity reactions have been reported in patients who do not carry this allele.
+The frequency of this allele is higher in individuals of African, Asian (e.g., Han Chinese, Korean, Thai), and Native Hawaiian/Pacific Islander ancestry.
+Prior to starting Allopurinol Sodium for Injection, consider testing for the HLA-B*58:01 allele in genetically at-risk populations.
+The use of Allopurinol Sodium for Injection is not recommended in HLA-B*58:01 positive patients unless the benefits clearly outweigh the risks.
+
+The occurrence of hypersensitivity reactions may be increased in patients with renal impairment, especially in patients who are receiving thiazide diuretics.
+Reduce the dose of Allopurinol Sodium for Injection in patients with impaired renal function (see DOSAGE AND ADMINISTRATION-Impaired Renal Function).
 
 In patients receiving mercaptopurine or azathioprine, the concomitant administration of 300 to 600 mg of allopurinol sodium for injection per day will require a reduction in dose to approximately one-third to one-fourth of the usual dose of mercaptopurine or azathioprine.
-Subsequent adjustment of doses of mercaptopurine or azathioprine should be made on the basis of therapeutic response and the appearance of toxic effects (see PRECAUTIONS- Drug Interactions).
+Subsequent adjustment of doses of mercaptopurine or azathioprine should be made on the basis of therapeutic response and the appearance of toxic effects (see PRECAUTIONS-Drug Interactions).
 
 A few cases of reversible clinical hepatotoxicity have been noted in patients taking oral allopurinol, and in some patients asymptomatic rises in serum alkaline phosphatase or serum transaminase have been observed.
 If anorexia, weight loss, or pruritus develop in patients on allopurinol, evaluation of liver function should be part of their diagnostic workup.
 In patients with pre-existing liver disease, periodic liver function tests are recommended during the early stages of therapy.
 
 Due to the occasional occurrence of drowsiness, patients should be alerted to the need for due precaution when engaging in activities where alertness is mandatory.
-
-The occurrence of hypersensitivity reactions to allopurinol may be increased in patients with decreased renal function receiving thiazides and allopurinol concurrently.
-Thus, in patients with decreased renal function, such combinations should be administered with caution.
 
 # PRECAUTIONS
 
@@ -118,8 +126,6 @@ No evidence of clastogenicity was observed in an in vivo micronucleus test in ra
 Allopurinol oral doses of 20 mg/kg/day had no effect on male or female fertility in rats or rabbits (about 1/3 or 1/2 the human dose on a mg/m2 basis, respectively).
 
 ## Pregnancy
-
-## Teratogenic Effects: Pregnancy Category C.
 
 There was no evidence of fetotoxicity or teratogenicity in rats or rabbits treated during the period of organogenesis with oral allopurinol at doses up to 200 mg/kg/day and up to 100 mg/kg/day, respectively (about three times the human dose on a mg/m2 basis).
 However, there is a published report in pregnant mice that single intraperitoneal doses of 50 or 100 mg/kg (about 1/3 or 3/4 the human dose on a mg/m2 basis) of allopurinol on gestation days 10 or 13 produced significant increases in fetal deaths and teratogenic effects (cleft palate, harelip, and digital defects).

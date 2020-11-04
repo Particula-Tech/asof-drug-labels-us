@@ -1,7 +1,8 @@
 # DESCRIPTION
 
 Allopurinol sodium for injection is a xanthine oxidase inhibitor.
-It is available in vials as the sterile lyophilized sodium salt of allopurinol sodium equivalent to 500 mg of allopurinol.
+Allopurinol sodium for Injection is a sterile solution for intravenous infusion only.
+It is available in vials as the sterile lyophilized sodium salt of allopurinol equivalent to 500 mg of allopurinol.
 Allopurinol sodium for injection contains no preservatives.
 
 The chemical name for allopurinol sodium is 1,5-dihydro-4H-pyrazolo[3,4-d]pyrimidin-4-one monosodium salt.
