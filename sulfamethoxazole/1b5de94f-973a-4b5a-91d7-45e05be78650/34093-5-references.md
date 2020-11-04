@@ -1,4 +1,4 @@
-# REFERENCES
+# REFERENCES:
 
 1. Kremers P, Duvivier J, Heusghem C. Pharmacokinetic Studies of Co-Trimoxazole in Man after Single and Repeated Doses.
    J Clin Pharmacol.
@@ -38,4 +38,4 @@
     MMWR.
     1991; 40(RR-2):1–13.
 
-Manufactured for: CRONUS PHARMA LLC 2 Tower Center Blvd, Suite - 1101A East Brunswick, NJ 08816 USA Made in India Code: TS/DRUGS/22/2009 Revised: 11/2018
+Manufactured for: CRONUS PHARMA LLC 2 Tower Center Blvd, Suite - 1101A East Brunswick, NJ 08816 USA Made in India Code: TS/DRUGS/22/2009 Revised: 09/2020
