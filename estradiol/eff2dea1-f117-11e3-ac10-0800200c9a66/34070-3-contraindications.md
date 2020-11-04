@@ -1,13 +1,12 @@
-# 4. CONTRAINDICATIONS
+# 4 CONTRAINDICATIONS
 
-ELESTRIN should not be used in women with any of the following conditions:
+ELESTRIN is contraindicated in women with any of the following conditions:
 
-- •Undiagnosed abnormal genital bleeding
-- •Known, suspected, or history of breast cancer
-- •Known or suspected estrogen-dependent neoplasia
-- •Active DVT, PE, or history of these conditions
-- •Active arterial thromboembolic disease (for example, stroke and MI) or a history of these conditions
-- •Known anaphylactic reaction or angioedema to ELESTRIN
-- •Known liver impairment or disease
-- •Known protein C, protein S, or antithrombin deficiency, or other known thrombophilic disorders
-- •Known or suspected pregnancy
+- •Undiagnosed abnormal genital bleeding [see Warnings and Precautions (5.2)].
+- •Breast cancer or a history of breast cancer [see Warnings and precautions (5.2)].
+- •Estrogen-dependent neoplasia [see Warnings and Precautions (5.2)].
+- •Active DVT, PE, or history of these conditions [see Warnings and Precautions (5.1)].
+- •Active arterial thromboembolic disease (for example, stroke and MI) or a history of these conditions [see warnings and Precautions (5.1)].
+- •Known anaphylactic reaction, or angioedema, or hypersensitivity to ELESTRIN.
+- •Hepatic impairment or disease.
+- •Protein C, protein S, or antithrombin deficiency, or other known thrombophilic disorders.

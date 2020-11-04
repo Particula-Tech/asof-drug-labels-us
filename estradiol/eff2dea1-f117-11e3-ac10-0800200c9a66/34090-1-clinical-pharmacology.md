@@ -1,4 +1,4 @@
-# 12. CLINICAL PHARMACOLOGY
+# 12 CLINICAL PHARMACOLOGY
 
 ## 12.1 Mechanism of Action
 
@@ -18,17 +18,18 @@ Estrogens act to reduce the elevated levels of these hormones seen in postmenopa
 
 ## 12.2 Pharmacodynamics
 
-Currently, there are no pharmacodynamic data known for ELESTRIN.
+Generally, a serum estrogen concentration does not predict an individual woman’s therapeutic response to ELESTRIN nor her risk for adverse outcomes.
+Likewise, exposure comparisons across different estrogen products to infer efficacy or safety for the individual woman may not be valid.
 
 ## 12.3 Pharmacokinetics
 
-Absorption
+### Absorption
 
 Steady-state serum concentrations of estradiol are achieved in approximately 3 days following daily application of ELESTRIN to the upper arm.
 
 Pharmacokinetic parameters for estradiol on Day 14 following daily application of 0.87 g or 1.7 g of ELESTRIN are summarized in Table 2.
 Dose dependent PK parameters for ELESTRIN 0.87 g and 1.7 g indicated the dose and serum estradiol (E2) concentrations to be linearly related but not dose-proportional (i.e., doubling in dose led to a 2.5- to 3.0-fold increase in PK parameters).
-The nominal mean delivery rates of estradiol using the baseline- adjusted average serum concentrations from pharmacokinetic studies using 0.87 g per day and 1.7 g per day are 0.0125 mg per day and 0.0375 mg per day, respectively.
+The nominal mean delivery rates of estradiol using the baseline-adjusted average serum concentrations from pharmacokinetic studies using 0.87 g per day and 1.7 g per day are 0.0125 mg per day and 0.0375 mg per day, respectively.
 
 TABLE 2 - Summary of Unadjusted PK Parameters for Estradiol after 14 Days of Dosing
 
@@ -38,7 +39,7 @@ TABLE 2 - Summary of Unadjusted PK Parameters for Estradiol after 14 Days of Dos
 | Cmax (pg/mL) | 21.6 | 66.7 |
 | Cave (pg/mL) | 15.4 | 39.2 |
 | Cmin (pg/mL) | 9.4 | 21.1 |
-| Tmax (h)Tmax shown as median (range) | 18 (1-20) | 4 (1-20) |
+| Tmax (h)Tmax shown as median (range) | 18 (1 - 20) | 4 (1 - 20) |
 | Fluctuation Index | 0.80 | 1.16 |
 | E2:E1E2:E1 (estradiol:estrone) ratio ratio | 0.53 | 0.98 |
 
@@ -52,30 +53,27 @@ Application of sunscreen 10 minutes before application of ELESTRIN increased the
 No significant change in estradiol exposure was observed when sunscreen was applied 25 minutes after application of ELESTRIN.
 In the same study, prolonged (7 days) concomitant application of sunscreen to the site of ELESTRIN application increased exposure to estradiol by about 2-fold, regardless of whether it was applied before or after application of ELESTRIN.
 
-Distribution
+### Distribution
 
 The distribution of exogenous estrogens is similar to that of endogenous estrogens.
 Estrogens are widely distributed in the body and are generally found in higher concentrations in the sex hormone target organs.
 Estrogens circulate in blood largely bound to SHBG and albumin.
 
-Metabolism
+### Metabolism
 
 Exogenous estrogens are metabolized in the same manner as endogenous estrogens.
 Circulating estrogens exist in a dynamic equilibrium of metabolic interconversions.
 These transformations take place mainly in the liver.
 Estradiol is converted reversibly to estrone, and both can be converted to estriol, which is a major urinary metabolite.
 Estrogens also undergo enterohepatic recirculation via sulfate and glucuronide conjugation in the liver, biliary secretion of conjugates into the intestine, and hydrolysis in the intestine followed by reabsorption.
+
 In postmenopausal women, a significant proportion of the circulating estrogens exist as sulfate conjugates, especially estrone sulfate, which serves as a circulating reservoir for the formation of more active estrogens.
 
-Excretion
+### Excretion
 
 Estradiol, estrone and estriol are excreted in the urine along with glucuronide and sulfate conjugates.
 
-Use in Specific Populations
-
-No pharmacokinetic studies were conducted in specific populations, including women with renal or hepatic impairment.
-
-Potential for Estradiol Transfer
+### Potential for Estradiol Transfer
 
 The potential for estradiol transfer between treated postmenopausal female subjects and their untreated male partners was evaluated.
 Two and 8 hours after women applied 2.6 g ELESTRIN to one arm (12 women per time point), they engaged in direct arm-to-arm contact with a male partner for 5 minutes.

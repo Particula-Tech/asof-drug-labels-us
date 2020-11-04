@@ -1,11 +1,11 @@
 # 14. CLINICAL STUDIES
 
-## 14.1 Effects On Vasomotor Symptoms
+## 14.1 Effects on Vasomotor Symptoms in Postmenopausal Women
 
 A randomized, double-blind, placebo-controlled clinical trial evaluated the efficacy of 12-week treatment with three different daily doses of ELESTRIN for the treatment of vasomotor symptoms in 484 postmenopausal women between 28 and 74 years of age (mean 54 years; 83-88 percent Caucasian per group) who had at least 60 moderate-to-severe hot flushes per week at baseline.
 At baseline, mean hot flushes is 13 per day, mean serum estradiol is 11.2-13.2 pg/mL, and prior hormone/estrogen therapy is 75.7-84.5 percent.
-Subjects applied placebo, ELESTRIN 1.7 g (1.04 mg estradiol), or 2.6 g (1.56 mg estradiol) once daily to the upper arm.
-The study was amended to identify the lowest effective dose of ELESTRIN and limit the number of subjects exposed to the 2.6 g dose.
+Participants applied placebo, 1.7 g (1.04 mg estradiol), or 2.6 g (1.56 mg estradiol) once daily to the upper arm.
+The study was amended to identify the lowest effective dose of ELESTRIN and limit the number of women exposed to the 2.6 g dose.
 After the study amendment, ELESTRIN 0.87 g (0.52 mg estradiol) was added and the 2.6 g was discontinued from further enrollment.
 Reduction in both the frequency and severity of moderate to severe hot flushes was statistically significant for the ELESTRIN 1.7 g per day dose compared to placebo at week 4.
 Statistically significant reductions in both the frequency and severity of moderate to severe hot flushes when compared to placebo were delayed for the ELESTRIN 0.87 g per day dose to week 5.
@@ -13,7 +13,7 @@ Both the 0.87 g per day and 1.7 g per day doses were statistically significant c
 Statistically significant reductions in the frequency and severity of daily moderate-to-severe hot flush rate compared to placebo were noted beginning at week 3 for the 1.7 g per day ELESTRIN treatment (data on file).
 The reductions in frequency and severity are shown in Table 3.
 
-TABLE 3 - Mean Change From BaselineDifferences from baseline based on LS means derived from the ANCOVA model with factors for baseline, treatment, site, and treatment-by-baseline interaction. in the Number and Severity of Hot Flushes after ELESTRIN Treatment
+TABLE 3 - Mean Change from BaselineDifferences from baseline based on LS means derived from the ANCOVA model with factors for baseline, treatment, site, and treatment-by-baseline interaction. in the Number and Severity of Hot Flushes after ELESTRIN Treatment
 
 | Evaluation |  | Placebo (N=137) | ELESTRIN 0.87 g/day (N=136) | ELESTRIN 1.7 g/day (N=142) |
 | --- | --- | --- | --- | --- |
@@ -36,7 +36,7 @@ The primary endpoint was the incidence of CHD (defined as nonfatal MI, silent MI
 A “global index” included the earliest occurrence of CHD, invasive breast cancer, stroke, PE, endometrial cancer (only in the CE plus MPA substudy), colorectal cancer, hip fracture, or death due to other cause.
 These substudies did not evaluate the effects of CE-alone or CE plus MPA on menopausal symptoms.
 
-WHI Estrogen-Alone Substudy
+### WHI Estrogen-Alone Substudy
 
 The WHI estrogen-alone substudy was stopped early because an increased risk of stroke was observed, and it was deemed that no further information would be obtained regarding the risk and benefits of estrogen-alone in predetermined endpoints.
 
@@ -74,9 +74,9 @@ Centrally adjudicated results for stroke events from the estrogen-alone substudy
 Estrogen-alone therapy increased the risk of ischemic stroke, and this excess risk was present in all subgroups of women examined.10
 
 Timing of initiation of estrogen-alone therapy relative to the start of menopause may affect the overall risk benefit profile.
-The WHI estrogen-alone substudy stratified by age showed in women 50 to 59 years of age a non- significant trend toward reduced risk for CHD [hazard ratio (HR) 0.63 (95 percent CI, 0.36-1.09)] and overall mortality [HR 0.71 (95 percent CI, 0.46–1.11)].
+The WHI estrogen-alone substudy stratified by age showed in women 50 to 59 years of age a non-significant trend toward reduced risk for CHD [hazard ratio (HR) 0.63 (95 percent CI, 0.36-1.09)] and overall mortality [HR 0.71 (95 percent CI, 0.46–1.11)].
 
-WHI Estrogen Plus Progestin Substudy
+### WHI Estrogen Plus Progestin Substudy
 
 The WHI estrogen plus progestin substudy was stopped early.
 According to the predefined stopping rule, after an average follow-up of 5.6 years of treatment, the increased risk of invasive breast cancer and cardiovascular events exceeded the specified benefits included in the “global index.”
@@ -122,7 +122,7 @@ After an average follow-up of 5.2 years, the relative risk of probable dementia 
 The absolute risk of probable dementia for CE-alone versus placebo was 37 versus 25 cases per 10,000 women-years.
 Probable dementia as defined in the study included Alzheimer’s disease (AD), vascular dementia (VaD) and mixed type (having features of both AD and VaD).
 The most common classification of probable dementia in the treatment group and the placebo group was AD.
-Since the ancillary study was conducted in women 65 to 79 years of age, it is unknown whether these findings apply to younger postmenopausal women [see Warnings and Precautions (5.3), and Use in Specific Populations (8.5)].
+Since the ancillary study was conducted in women 65 to 79 years of age, it is unknown whether these findings apply to younger postmenopausal women [see Warnings and Precautions (5.3) and Use in Specific Populations (8.5)].
 
 The WHIMS estrogen plus progestin ancillary study enrolled 4,532 predominantly healthy postmenopausal women 65 years of age and older (47 percent were 65 to 69 years of age, 35 percent were 70 to 74 years of age, and 18 percent were 75 years of age and older) to evaluate the effects of daily CE (0.625 mg) plus MPA (2.5 mg) on the incidence of probable dementia (primary outcome) compared to placebo.
 
@@ -130,7 +130,7 @@ After an average follow-up of 4 years, the relative risk of probable dementia fo
 The absolute risk of probable dementia for CE plus MPA versus placebo was 45 versus 22 cases per 10,000 women-years.
 Probable dementia as defined in the study included AD, VaD and mixed types (having features of both AD and VaD).
 The most common classification of probable dementia in the treatment group and the placebo group was AD.
-Since the ancillary study was conducted in women 65 to 79 years of age, it is unknown whether these findings apply to younger postmenopausal women [see Warnings and Precautions (5.3), and Use in Specific Populations (8.5)].
+Since the ancillary study was conducted in women 65 to 79 years of age, it is unknown whether these findings apply to younger postmenopausal women [see Warnings and Precautions (5.3) and Use in Specific Populations (8.5)].
 
 When data from the two populations were pooled as planned in the WHIMS protocol, the reported overall relative risk for probable dementia was 1.76 (95 percent CI, 1.19-2.60).
 Differences between groups became apparent in the first year of treatment.
