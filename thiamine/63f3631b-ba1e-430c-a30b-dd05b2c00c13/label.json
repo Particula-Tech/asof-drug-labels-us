@@ -1,0 +1,20 @@
+{
+  "application_numbers": [
+    "ANDA080575"
+  ],
+  "inn": "thiamine",
+  "labeler": "Hikma Pharmaceuticals USA Inc.",
+  "package_ndcs": [
+    "0641-6228-01",
+    "0641-6228-25"
+  ],
+  "products": [
+    {
+      "form": "INJECTION, SOLUTION",
+      "generic": "thiamine hydrochloride",
+      "name": "Thiamine Hydrochloride"
+    }
+  ],
+  "setid": "63f3631b-ba1e-430c-a30b-dd05b2c00c13",
+  "source": "dailymed"
+}

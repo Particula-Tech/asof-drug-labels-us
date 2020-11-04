@@ -1,0 +1,16 @@
+# DESCRIPTION
+
+Thiamine Hydrochloride Injection, USP is a sterile solution of thiamine hydrochloride in Water for Injection for intramuscular (IM) or slow intravenous (IV) administration.
+
+Each mL contains: Thiamine hydrochloride 100 mg; chlorobutanol anhydrous (chloral derivative) 0.5%; monothioglycerol 0.5%; water for injection, q.s.
+Sodium hydroxide may have been added for pH adjustment (2.5 to 4.5).
+
+Thiamine hydrochloride, or vitamin B1, occurs as white crystals or crystalline powder that usually has a slight characteristic odor.
+Freely soluble in water; soluble in glycerin; slightly soluble in alcohol; insoluble in ether and benzene.
+Thiamine is rapidly destroyed in neutral or alkaline solutions but is stable in the dry state.
+It is reasonably stable to heat in acid solution.
+
+The chemical name of thiamine hydrochloride is thiazolium,3-[(4-amino-2-methyl-5- pyrimidinyl)methyl]-5-(2-hydroxyethyl)-4-methylchloride, monohydrochloride and it has the following structural formula:
+
+C12H17CIN4OS • HCl M.W.
+337.27
