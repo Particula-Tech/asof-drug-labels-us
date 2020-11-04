@@ -60,4 +60,4 @@ No dose adjustment is required in patients with mild, moderate or severe renal i
 ## 8.7 Hepatic Impairment
 
 No dose adjustment is required in patients with mild or moderate hepatic impairment [see Clinical Pharmacology (12.3)].
-There is no clinical experience in patients with severe hepatic impairment, and a dosing recommendation can not be provided for patients with severe hepatic impairment.
+There is no clinical experience in patients with severe hepatic impairment, and a dosing recommendation cannot be provided for patients with severe hepatic impairment.

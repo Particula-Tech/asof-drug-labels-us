@@ -6,6 +6,7 @@ Administration
 
 - Warn patients and/or caregivers to not stop taking EMFLAZA abruptly or without first checking with their healthcare providers as there may be a need for gradual dose reduction to decrease the risk of adrenal insufficiency [see Dosage and Administration (2.3) and Warnings and Precautions (5.1)].
 - EMFLAZA may be taken with or without food.
+  Do not take EMFLAZA with grapefruit juice.
 
 Tablets
 
@@ -14,8 +15,7 @@ Tablets
 Oral Suspension
 
 - EMFLAZA Oral Suspension must be shaken well prior to measuring out each dose with the enclosed oral dispenser.
-- The EMFLAZA Oral Suspension dose may be placed in 3-4 ounces of juice or milk, mixed thoroughly, and immediately administered.
-  Do not take with grapefruit juice.
+- The EMFLAZA Oral Suspension dose may be placed in 3-4 ounces of juice (except grapefruit juice) or milk, mixed thoroughly, and immediately administered.
 - Discard any unused EMFLAZA Oral Suspension remaining after 1 month of first opening the bottle.
 
 Increased Risk of Infection Tell patients and/or caregivers to inform their healthcare provider if the patient has had recent or ongoing infections or if they have recently received a vaccine.

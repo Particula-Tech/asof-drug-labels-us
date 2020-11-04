@@ -19,15 +19,15 @@ Dosage of EMFLAZA must be decreased gradually if the drug has been administered 
 ## 2.4 Important Preparation and Administration Instructions
 
 EMFLAZA Tablets and Oral Suspension can be taken with or without food.
+Do not administer EMFLAZA with grapefruit juice [see Drug Interactions (7.1)]
 
 EMFLAZA Tablets EMFLAZA Tablets can be administered whole or crushed and taken immediately after mixing with applesauce.
 
 EMFLAZA Oral Suspension Shake EMFLAZA Oral Suspension well before administration.
 
 Use only the oral dispenser provided with the product.
-After withdrawing the appropriate dose into the oral dispenser, slowly add the EMFLAZA Oral Suspension into 3 to 4 ounces of juice or milk and mix well.
+After withdrawing the appropriate dose into the oral dispenser, slowly add the EMFLAZA Oral Suspension into 3 to 4 ounces of juice (except grapefruit juice) or milk and mix well.
 The dose should then be administered immediately.
-Do not administer EMFLAZA with grapefruit juice [see Drug Interactions (7.1)].
 
 Discard any unused EMFLAZA Oral Suspension remaining after 1 month of first opening the bottle.
 

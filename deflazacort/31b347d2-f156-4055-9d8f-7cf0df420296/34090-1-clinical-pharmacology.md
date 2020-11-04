@@ -16,7 +16,7 @@ The administration of deflazacort with food or crushed in applesauce did not aff
 Distribution The protein binding of the active metabolite of deflazacort is about 40%.
 
 Elimination Metabolism Deflazacort is rapidly converted to the active metabolite 21-desDFZ by esterases after oral administration.
-21-desDFZ is further metabolized by CYP3A4 to several other inactive metabolites.
+21-desDFZ is further metabolized by CYP3A4 to several other inactive metabolites, including 6β-hydroxy-21-desacetyl deflazacort.
 
 Excretion Urinary excretion is the predominant route of deflazacort elimination (about 68% of the dose), and the elimination is almost completed by 24 hours post dose.
 21-desDFZ accounts for 18% of the eliminated drug in the urine.
@@ -47,18 +47,15 @@ Geometric mean exposures (Cmax, AUClast, and AUCinf) of 21-desDFZ were approxima
 
 In Vitro Assessment of Drug Interactions
 
-Drug-Metabolizing Enzyme Inhibition 21-desDFZ at concentrations up to 100 μM did not inhibit CYP1A2, 2C9, 2C19, 3A4, UGT1A1, UGT1A4, UGT1A6, UGT1A9, or UGT2B7 and exhibited weak and not likely clinically meaningful inhibition for 2B6, 2C8, 2D6, and 3A4, UGT1A3 and UGT2B15.
+Drug-Metabolizing Enzyme Inhibition 21-desDFZ at clinically relevant concentrations did not inhibit CYP1A2, 2C9, 2C19, 3A4, UGT1A1, UGT1A4, UGT1A6, UGT1A9, or UGT2B7 and exhibited weak and not likely clinically meaningful inhibition for 2B6, 2C8, 2D6, and 3A4, UGT1A3 and UGT2B15.
 
-6β-Hydroxy-21-desacetyl deflazacort exhibited modestly detectable inhibition for CYP2C19 and 3A4 (midazolam as probe substrate) with IC50 at approximately 50 and 35 μM, respectively.
-Weak inhibition was observed for CYP1A2, 2B6, 2C8, 2C9, 2D6 and 3A4 (testosterone as probe substrate) with IC50 greater than 50 μM.
+6β-Hydroxy-21-desacetyl deflazacort at clinically relevant concentrations did not significantly inhibit CYP2C19, 3A4 1A2, 2B6, 2C8, 2C9, or 2D6.
 
-Drug-Metabolizing Enzyme Induction Deflazacort and 6β-hydroxy-21-desacetyl deflazacort at concentrations up to 10 μM caused no significant induction response for CYP1A2, 2B6, or 3A4.
+Drug-Metabolizing Enzyme Induction 21-desDFZ and 6β-hydroxy-21-desacetyl deflazacort at clinically relevant concentrations did not significantly induce CYP1A2, 2B6, or 3A4.
 
 Transporters Both deflazacort and 21-desDFZ are substrates of Pgp.
 21-desDFZ is not a substrate for BCRP.
 Neither deflazacort nor 21-desDFZ inhibited Pgp or BCRP in vitro.
 21-desDFZ was not a substrate for SLC transporters OATP1B1 or OATP1B3, and did not inhibit SLC transporters OATP1B1, OATP1B3, OAT1, OAT3, or OCT2.
 
-6β-Hydroxy-21-desacetyl deflazacort is a substrate of human OAT3 uptake transporter but not a substrate of the human BCRP, Pgp, MATE1, MATE2-K, OAT1, OATP1B1, OATP1B3, and OCT2 transporters.
-It did not inhibit BCRP, OAT1, OAT3 or OCT2 but slightly inhibited Pgp (IC50 19.81 μM), OATP1B1 (IC50 36.72 μM), and OATP1B3 (IC50 42.22 μM).
-6β-Hydroxy-21-desacetyl deflazacort had weak inhibition on MATE1, MATE2-K, OCT1, and BSEP with IC50 greater than 50 μM.
+6β-Hydroxy-21-desacetyl deflazacort at clinically relevant concentrations did not significantly inhibit BCRP, OAT1, OAT3, Pgp, OATP1B1, OATP1B3 MATE1, MATE2-K, OCT1, OCT2, or BSEP transporters.
