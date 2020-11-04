@@ -9,3 +9,15 @@ NDC 0781-3451-96, 1 gram, carton of 25 vials
 As with other cephalosporins, Cefazolin for Injection, USP tends to darken depending on storage conditions; within the stated recommendations, however product potency is not adversely affected.
 
 Before reconstitution protect from light and store at 20° to 25°C (68° to 77°F) [see USP Controlled Room Temperature].
+
+Clinitest® is a registered trademark of Miles, Inc.
+
+Clinistix® is a registered trademark of Bayer Corporation.
+
+Revised: September 2020
+
+46276357
+
+Manufactured by Sandoz GmbH for
+
+Sandoz Inc., Princeton, NJ 08540

@@ -1,12 +1,12 @@
 # INDICATIONS AND USAGE
 
-Cefazolin for Injection, USP is indicated in the treatment of the following infections due to susceptible organisms:
+Cefazolin for injection is indicated in the treatment of the following infections due to susceptible organisms:
 
 Respiratory Tract Infections: Due to S. pneumoniae, Klebsiella species, H. influenzae, S. aureus (penicillin-sensitive and penicillin-resistant), and group A beta-hemolytic streptococci.
 
 Injectable benzathine penicillin is considered to be the drug of choice in treatment and prevention of streptococcal infections, including the prophylaxis of rheumatic fever.
 
-Cefazolin for Injection, USP is effective in the eradication of streptococci from the nasopharynx; however, data establishing the efficacy of Cefazolin for Injection, USP in the subsequent prevention of rheumatic fever are not available at present.
+Cefazolin for injection is effective in the eradication of streptococci from the nasopharynx; however, data establishing the efficacy of cefazolin for injection in the subsequent prevention of rheumatic fever are not available at present.
 
 Urinary Tract Infections: Due to E. coli, P. mirabilis, Klebsiella species, and some strains of enterobacter and enterococci.
 
@@ -22,16 +22,16 @@ Septicemia: Due to S. pneumoniae, S. aureus (penicillin-sensitive and penicillin
 
 Endocarditis: Due to S. aureus (penicillin-sensitive and penicillin-resistant) and group A beta-hemolytic streptococci.
 
-Perioperative Prophylaxis: The prophylactic administration of Cefazolin for Injection, USP preoperatively, intraoperatively, and postoperatively may reduce the incidence of certain postoperative infections in patients undergoing surgical procedures which are classified as contaminated or potentially contaminated (e.g., vaginal hysterectomy, and cholecystectomy in high-risk patients such as those older than 70 years, with acute cholecystitis, obstructive jaundice, or common duct bile stones).
+Perioperative Prophylaxis: The prophylactic administration of cefazolin for injection preoperatively, intraoperatively, and postoperatively may reduce the incidence of certain postoperative infections in patients undergoing surgical procedures which are classified as contaminated or potentially contaminated (e.g., vaginal hysterectomy, and cholecystectomy in high-risk patients such as those older than 70 years, with acute cholecystitis, obstructive jaundice, or common duct bile stones).
 
-The perioperative use of Cefazolin for Injection, USP may also be effective in surgical patients in whom infection at the operative site would present a serious risk (e.g., during open-heart surgery and prosthetic arthroplasty).
+The perioperative use of cefazolin for injection may also be effective in surgical patients in whom infection at the operative site would present a serious risk (e.g., during open-heart surgery and prosthetic arthroplasty).
 
-The prophylactic administration of Cefazolin for Injection, USP should usually be discontinued within a 24-hour period after the surgical procedure.
-In surgery where the occurrence of infection may be particularly devastating (e.g., open-heart surgery and prosthetic arthroplasty), the prophylactic administration of Cefazolin for Injection, USP may be continued for 3 to 5 days following the completion of surgery.
+The prophylactic administration of cefazolin for injection should usually be discontinued within a 24-hour period after the surgical procedure.
+In surgery where the occurrence of infection may be particularly devastating (e.g., open-heart surgery and prosthetic arthroplasty), the prophylactic administration of cefazolin for injection may be continued for 3 to 5 days following the completion of surgery.
 
 If there are signs of infection, specimens for cultures should be obtained for the identification of the causative organism so that appropriate therapy may be instituted.
 (See DOSAGE AND ADMINISTRATION).
 
-To reduce the development of drug-resistant bacteria and maintain the effectiveness of Cefazolin for Injection, USP and other antibacterial drugs, Cefazolin for Injection, USP should be used only to treat or prevent infections that are proven or strongly suspected to be caused by susceptible bacteria.
+To reduce the development of drug-resistant bacteria and maintain the effectiveness of cefazolin for injection and other antibacterial drugs, cefazolin for injection should be used only to treat or prevent infections that are proven or strongly suspected to be caused by susceptible bacteria.
 When culture and susceptibility information are available, they should be considered in selecting or modifying antibacterial therapy.
 In the absence of such data, local epidemiology and susceptibility patterns may contribute to the empiric selection of therapy.

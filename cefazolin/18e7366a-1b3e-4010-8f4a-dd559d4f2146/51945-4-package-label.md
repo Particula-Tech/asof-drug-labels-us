@@ -1,4 +1,4 @@
-# 500 mg Label
+# 500 mg Carton
 
 NDC 0781-3450-95
 
@@ -16,7 +16,7 @@ Sterile
 
 SANDOZ – A Novartis Division
 
-# 1 g Label
+# 1 g Carton
 
 NDC 0781-3451-96
 

@@ -21,4 +21,4 @@ Some induration has occurred.
 
 Other Reactions: Genital and anal pruritus (including vulvar pruritus, genital moniliasis, and vaginitis).
 
-To report SUSPECTED ADVERSE EVENTS, contact FDA at 1-800-FDA-1088 or www.fda.gov.
+To report SUSPECTED ADVERSE REACTIONS, contact Sandoz Inc. at 1-800-525-8747 or FDA at 1-800-FDA-1088 or www.fda.gov/medwatch.

@@ -1,4 +1,6 @@
-To reduce the development of drug-resistant bacteria and maintain the effectiveness of Cefazolin for Injection and other antibacterial drugs, Cefazolin for Injection should be used only to treat or prevent infections that are proven or strongly suspected to be caused by bacteria.
+Rx Only
+
+To reduce the development of drug-resistant bacteria and maintain the effectiveness of cefazolin for injection and other antibacterial drugs, cefazolin for injection should be used only to treat or prevent infections that are proven or strongly suspected to be caused by bacteria.
 
 # RECONSTITUTION
 
@@ -7,12 +9,12 @@ To reduce the development of drug-resistant bacteria and maintain the effectiven
 Parenteral drug products should be SHAKEN WELL when reconstituted, and inspected visually for particulate matter prior to administration.
 If particulate matter is evident in reconstituted fluids, the drug solutions should be discarded.
 
-When reconstituted or diluted according to the instructions below, Cefazolin for Injection is stable for 24 hours at room temperature or for 10 days if stored under refrigeration (5°C or 41°F).
+When reconstituted or diluted according to the instructions below, cefazolin for injection is stable for 24 hours at room temperature or for 10 days if stored under refrigeration (5°C or 41°F).
 Reconstituted solutions may range in color from pale yellow to yellow without a change in potency.
 
 ## Single-Dose Vials
 
-For IM injection, IV direct (bolus) injection or IV infusion, reconstitute with Sterile Water for Injection according to the following table.
+For intramuscular injection, intravenous direct (bolus) injection or intravenous infusion, reconstitute with Sterile Water for Injection according to the following table.
 SHAKE WELL.
 
 | Vial Size | Amount of Diluent | Approximate Concentration | Approximate Available Volume |
@@ -26,15 +28,15 @@ SHAKE WELL.
 
 Reconstitute vials with Sterile Water for Injection according to the dilution table above.
 Shake well until dissolved.
-Cefazolin for Injection should be injected into a large muscle mass.
-Pain on injection is infrequent with Cefazolin for Injection.
+Cefazolin for injection should be injected into a large muscle mass.
+Pain on injection is infrequent with cefazolin for injection.
 
 ## Intravenous Administration
 
 Direct (bolus) injection: Following reconstitution according to the above table, further dilute vials with approximately 5 mL Sterile Water for Injection.
 Inject the solution slowly over 3 to 5 minutes, directly or through tubing for patients receiving parenteral fluids (see list below).
 
-Intermittent or continuous infusion: Dilute reconstituted Cefazolin for Injection in 50 to 100 mL of 1 of the following solutions:
+Intermittent or continuous infusion: Dilute reconstituted cefazolin for injection in 50 to 100 mL of 1 of the following solutions:
 
 Sodium Chloride Injection, USP
 
@@ -57,17 +59,3 @@ Ringer’s Injection, USP
 5% Sodium Bicarbonate Injection, USP
 
 Prior to administration parenteral drug products should be inspected visually for particulate matter and discoloration whenever solution and container permit.
-
-Clinitest® is a registered trademark of Miles, Inc.
-
-Clinistix® is a registered trademark of Bayer Corporation.
-
-12-2015M
-
-46175734
-
-Manufactured in Austria by
-
-Sandoz GmbH for
-
-Sandoz Inc., Princeton, NJ 08540
