@@ -31,10 +31,9 @@ The adverse event profile of carvedilol observed in the long-term COMET trial wa
 Table 2.
 Adverse Events (%) Occurring More Frequently with Immediate-Release Carvedilol than with Placebo in Subjects with Mild-to-Moderate Heart Failure (HF) Enrolled in U.S. Heart Failure Trials or in Subjects with Severe Heart Failure in the COPERNICUS Trial (Incidence >3% in Subjects Treated with Carvedilol, Regardless of Causality)
 
-| Body System/ Adverse Event | Mild-to-Moderate HF |  | Severe HF |  |
+| Body System/Adverse Event | Mild-to-Moderate HF |  | Severe HF |  |
 | --- | --- | --- | --- | --- |
-| Carvedilol | Placebo | Carvedilol | Placebo |  |
-| (n = 765) | (n = 437) | (n = 1,156) | (n = 1,133) |  |
+| Carvedilol(n = 765) | Placebo(n = 437) | Carvedilol(n = 1,156) | Placebo(n = 1,133) |  |
 | Body as a Whole |  |  |  |  |
 | Asthenia | 7 | 7 | 11 | 9 |
 | Fatigue | 24 | 22 | — | — |
@@ -149,23 +148,23 @@ Table 4 shows adverse events in U.S. placebo‑controlled clinical trials for hy
 Table 4.
 Adverse Events (% Occurrence) in U.S. Placebo-Controlled Hypertension Trials with Immediate-Release Carvedilol (Incidence ≥1% in Subjects Treated with Carvedilol, Regardless of Causality)a
 
-| Adverse Event | Carvedilol(n = 1,142) | Placebo(n = 462) |
-| --- | --- | --- |
-| Cardiovascular |  |  |
-| Bradycardia | 2 | — |
-| Postural hypotension | 2 | — |
-| Peripheral edema | 1 | — |
-| Central Nervous System |  |  |
-| Dizziness | 6 | 5 |
-| Insomnia | 2 | 1 |
-| Gastrointestinal |  |  |
-| Diarrhea | 2 | 1 |
-| Hematologic |  |  |
-| Thrombocytopenia | 1 | — |
-| Metabolic |  |  |
-| Hypertriglyceridemia | 1 | — |
+| Adverse Event | Carvedilol(n = 1,142) | Placebo(n = 462) |  |  |  |
+| --- | --- | --- | --- | --- | --- |
+| Cardiovascular |  |  |  |  |  |
+| Bradycardia | 2 | — |  |  |  |
+| Postural hypotension | 2 | — |  |  |  |
+| Peripheral edema | 1 | — |  |  |  |
+| Central Nervous System |  |  |  |  |  |
+| Dizziness | 6 | 5 |  |  |  |
+| Insomnia | 2 | 1 |  |  |  |
+| Gastrointestinal |  |  |  |  |  |
+| Diarrhea | 2 | 1 |  |  |  |
+| Hematologic |  |  |  |  |  |
+| Thrombocytopenia | 1 | — |  |  |  |
+| Metabolic |  |  |  |  |  |
+| Hypertriglyceridemia | 1 | — |  |  |  |
+| a Shown are events with rate >1% rounded to nearest integer. |  |  |  |  |  |
 
-a Shown are events with rate >1% rounded to nearest integer.
 Dyspnea and fatigue were also reported in these trials, but the rates were equal or greater in subjects who received placebo.
 
 The following adverse events not described above were reported as possibly or probably related to carvedilol in worldwide open or controlled trials with carvedilol in subjects with hypertension or heart failure.

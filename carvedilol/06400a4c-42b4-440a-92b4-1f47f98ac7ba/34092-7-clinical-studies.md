@@ -97,8 +97,7 @@ Results of COPERNICUS Trial in Subjects with Severe Heart Failure
 | Mortality + all hospitalization | 507 | 425 | 0.76(0.67 – 0.87) | 24 | 0.00004 |
 | Mortality + CV hospitalization | 395 | 314 | 0.73(0.63 – 0.84) | 27 | 0.00002 |
 | Mortality + HF hospitalization | 357 | 271 | 0.69(0.59 – 0.81) | 31 | 0.000004 |
-
-Cardiovascular = CV; Heart failure = HF.
+| Cardiovascular = CV; Heart failure = HF. |  |  |  |  |  |
 
 Figure 1.
 Survival Analysis for COPERNICUS (Intent-to-Treat)

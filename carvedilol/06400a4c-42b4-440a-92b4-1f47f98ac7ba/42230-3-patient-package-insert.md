@@ -1,4 +1,6 @@
-PATIENT INFORMATION COREG CR (Co-REG)
+PATIENT INFORMATION
+
+COREG CR (Co-REG)
 
 (carvedilol phosphate)
 
@@ -139,7 +141,7 @@ What are the ingredients in COREG CR?
 
 Active ingredient: carvedilol phosphate
 
-Inactive ingredients: crospovidone, hydrogenated castor oil, hydrogenated vegetable oil, magnesium stearate, methacrylic acid copolymers, microcrystalline cellulose, and povidone
+Inactive ingredients: crospovidone, hydrogenated castor oil, hydrogenated vegetable oil, magnesium stearate, methacrylic acid copolymers, microcrystalline cellulose, and povidone.
 
 COREG CR capsules come in the following strengths: 10 mg, 20 mg, 40 mg, 80 mg.
 What is high blood pressure (hypertension)?
@@ -151,10 +153,13 @@ COREG CR can help your blood vessels relax so your blood pressure is lower.
 Medicines that lower blood pressure may lower your chance of having a stroke or heart attack.
 
 COREG CR and COREG are trademarks owned by or licensed to the GSK group of companies.
+
+Distributed by:
+
 GlaxoSmithKline
 
 Research Triangle Park, NC 27709
 
-©2017 the GSK group of companies or its licensor September 2017
+©2020 the GSK group of companies or its licensor October 2020
 
-CCR:8PIL
+CCR:9PIL

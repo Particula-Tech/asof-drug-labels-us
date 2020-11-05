@@ -2,7 +2,7 @@
 
 Advise the patient to read the FDA-approved patient labeling (Patient Information).
 
-- Patients taking COREG CR should be advised of the following:
+Patients taking COREG CR should be advised of the following:
 
 - •Patients should not interrupt or discontinue using COREG CR without a physician’s advice.
 - •Patients with heart failure should consult their physician if they experience signs or symptoms of worsening heart failure such as weight gain or increasing shortness of breath.
@@ -20,12 +20,14 @@ COREG CR and COREG are trademarks owned by or licensed to the GSK group of compa
 The other brand listed is a trademark owned by or licensed to its owner and is not owned by or licensed to the GSK group of companies.
 The maker of this brand is not affiliated with and does not endorse the GSK group of companies or its products.
 
+Distributed by:
+
 GlaxoSmithKline
 
 Research Triangle Park, NC 27709
 
-©2019 GSK group of companies or its licensor.
+©2020 GSK group of companies or its licensor.
 
-CCR:20PI
+CCR:21PI
 
 - PHARMACIST─DETACH HERE AND GIVE INSTRUCTIONS TO PATIENT
