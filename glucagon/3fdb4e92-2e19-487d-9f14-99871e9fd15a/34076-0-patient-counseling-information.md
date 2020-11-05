@@ -15,9 +15,9 @@ Serious Hypersensitivity:
 Inform patients that allergic reactions can occur with BAQSIMI.
 Advise patients to seek immediate medical attention if they experience any symptoms of serious hypersensitivity reactions [see Warnings and Precautions (5.3)].
 
-Literature issued: July 2019
+Literature revised: October 2020
 
-Marketed by: Lilly USA, LLC, Indianapolis, IN 46285, USA Copyright © 2019, Eli Lilly and Company.
+Marketed by: Lilly USA, LLC, Indianapolis, IN 46285, USA Copyright © 2019, 2020, Eli Lilly and Company.
 All rights reserved.
 
-BAQ-0001-USPI-20190724
+BAQ-0002-USPI-20201027

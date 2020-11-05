@@ -1,11 +1,11 @@
 # 5 WARNINGS AND PRECAUTIONS
 
-## 5.1 Catecholamine Release in Patients with Pheochromocytoma
+## 5.1 Substantial Increase in Blood Pressure in Patients with Pheochromocytoma
 
 BAQSIMI is contraindicated in patients with pheochromocytoma because glucagon may stimulate release of catecholamines from the tumor [see Contraindications (4)].
-If the patient develops a dramatic increase in blood pressure and a previously undiagnosed pheochromocytoma is suspected, 5 to 10 mg of phentolamine mesylate, administered intravenously, has been shown to be effective in lowering blood pressure.
+If the patient develops a substantial increase in blood pressure and a previously undiagnosed pheochromocytoma is suspected, 5 to 10 mg of phentolamine mesylate, administered intravenously, has been shown to be effective in lowering blood pressure.
 
-## 5.2 Lack of Efficacy in Patients with Insulinoma
+## 5.2 Hypoglycemia in Patients with Insulinoma
 
 In patients with insulinoma, administration of glucagon may produce an initial increase in blood glucose; however, BAQSIMI administration may directly or indirectly (through an initial rise in blood glucose) stimulate exaggerated insulin release from an insulinoma and cause hypoglycemia.
 BAQSIMI is contraindicated in patients with insulinoma [see Contraindications (4)].
