@@ -1,23 +1,14 @@
 {
   "application_numbers": [
-    "ANDA062031",
     "ANDA062421"
   ],
   "inn": "doxycycline",
   "labeler": "Actavis Pharma, Inc.",
   "package_ndcs": [
-    "0591-5440-05",
-    "0591-5440-50",
-    "0591-5535-50",
     "0591-5553-05",
     "0591-5553-50"
   ],
   "products": [
-    {
-      "form": "CAPSULE",
-      "generic": "doxycycline hyclate",
-      "name": "Doxycycline Hyclate"
-    },
     {
       "form": "TABLET",
       "generic": "doxycycline hyclate",
