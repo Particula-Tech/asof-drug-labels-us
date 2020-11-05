@@ -5,12 +5,8 @@
   Symptoms such as weight loss, failure to thrive in infants, abdominal pain, and behavioral disturbances may be indications of digoxin toxicity.
 - •Instruct the patient to monitor and record their heart rate and blood pressure daily.
 
-Manufactured in Canada by
-
-Avara Boucherville Pharmaceutical Services, Inc. for
+Distributed by
 
 Sandoz Inc., Princeton, NJ 08540
 
-Revised October 2018
-
-46238555
+46251358
