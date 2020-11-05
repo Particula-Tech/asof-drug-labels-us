@@ -17,38 +17,32 @@ Other less frequently reported adverse reactions (<1%) include: Abdominal discom
 
 In pediatric patients (aged 2 months to 12 years), 1 US/Canadian clinical trial was conducted which compared 45/6.4 mg/kg/day (divided every 12 hours) of amoxicillin and clavulanate potassium for 10 days versus 40/10 mg/kg/day (divided every 8 hours) of amoxicillin and clavulanate potassium for 10 days in the treatment of acute otitis media.
 A total of 575 patients were enrolled, and only the suspension formulations were used in this trial.
-Overall, the adverse reactions seen were comparable to that noted above; however, there were differences in the rates of diarrhea, skin rashes/urticaria, and diaper area rashes.
-[see Clinical Studies (14.2)]
+Overall, the adverse reactions seen were comparable to that noted above; however, there were differences in the rates of diarrhea, skin rashes/urticaria, and diaper area rashes [see Clinical Studies (14.2)].
 
-## 6.2 Postmarketing Experience
+## 6.2 Post-Marketing Experience
 
-In addition to adverse reactions reported from clinical trials, the following have been identified during postmarketing use of amoxicillin and clavulanate potassium.
+In addition to adverse reactions reported from clinical trials, the following have been identified during post-marketing use of amoxicillin and clavulanate potassium.
 Because they are reported voluntarily from a population of unknown size, estimates of frequency cannot be made.
 These events have been chosen for inclusion due to a combination of their seriousness, frequency of reporting, or potential causal connection to amoxicillin and clavulanate potassium.
 
 Gastrointestinal: Indigestion, gastritis, stomatitis, glossitis, black “hairy” tongue, mucocutaneous candidiasis, enterocolitis, and hemorrhagic/pseudomembranous colitis.
-Onset of pseudomembranous colitis symptoms may occur during or after antibiotic treatment.
-[see Warnings and Precautions (5.3)]
+Onset of pseudomembranous colitis symptoms may occur during or after antibiotic treatment [see Warnings and Precautions (5.3)].
 
-Hypersensitivity Reactions: Pruritus, angioedema, serum sickness–like reactions (urticaria or skin rash accompanied by arthritis, arthralgia, myalgia, and frequently fever), erythema multiforme, Stevens-Johnson syndrome, acute generalized exanthematous pustulosis, hypersensitivity vasculitis, and cases of exfoliative dermatitis (including toxic epidermal necrolysis) have been reported.
-[see Warnings and Precautions (5.1)]
+Hypersensitivity Reactions: Pruritus, angioedema, serum sickness–like reactions (urticaria or skin rash accompanied by arthritis, arthralgia, myalgia, and frequently fever), erythema multiforme, Stevens-Johnson syndrome, acute generalized exanthematous pustulosis, hypersensitivity vasculitis, and cases of exfoliative dermatitis (including toxic epidermal necrolysis) have been reported [see Warnings and Precautions (5.1)].
 
 Liver: Hepatic dysfunction, including hepatitis and cholestatic jaundice, increases in serum transaminases (AST and/or ALT), serum bilirubin, and/or alkaline phosphatase, has been reported with amoxicillin and clavulanate potassium.
 It has been reported more commonly in the elderly, in males, or in patients on prolonged treatment.
 The histologic findings on liver biopsy have consisted of predominantly cholestatic, hepatocellular, or mixed cholestatic-hepatocellular changes.
 The onset of signs/symptoms of hepatic dysfunction may occur during or several weeks after therapy has been discontinued.
 The hepatic dysfunction, which may be severe, is usually reversible.
-Deaths have been reported.
-[see Contraindications (4.2), Warnings and Precautions (5.2)]
+Deaths have been reported [see Contraindications (4.2), Warnings and Precautions (5.2)].
 
-Renal: Interstitial nephritis, hematuria, and crystalluria have been reported.
-[see Overdosage (10)]
+Renal: Interstitial nephritis, hematuria, and crystalluria have been reported [see Overdosage (10)].
 
 Hemic and Lymphatic Systems: Anemia, including hemolytic anemia, thrombocytopenia, thrombocytopenic purpura, eosinophilia, leukopenia, and agranulocytosis have been reported.
 These reactions are usually reversible on discontinuation of therapy and are believed to be hypersensitivity phenomena.
 Thrombocytosis was noted in less than 1% of the patients treated with amoxicillin and clavulanate potassium.
-There have been reports of increased prothrombin time in patients receiving amoxicillin and clavulanate potassium and anticoagulant therapy concomitantly.
-[see Drug Interactions (7.2)]
+There have been reports of increased prothrombin time in patients receiving amoxicillin and clavulanate potassium and anticoagulant therapy concomitantly [see Drug Interactions (7.2)].
 
 Central Nervous System: Agitation, anxiety, behavioral changes, confusion, convulsions, dizziness, insomnia, and reversible hyperactivity have been reported.
 

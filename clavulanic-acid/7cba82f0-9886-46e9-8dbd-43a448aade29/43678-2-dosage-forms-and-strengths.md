@@ -22,9 +22,9 @@ Amoxicillin and Clavulanate Potassium Tablets, USP, (Chewable) 200 mg/28.5 mg: E
 
 Amoxicillin and Clavulanate Potassium Tablets, USP, (Chewable) 400 mg/57 mg: Each chewable tablet is round, pink, cherry-banana flavored, embossed GGN4 on one side and plain on the reverse side, and contains 400 mg amoxicillin as the trihydrate and 57 mg clavulanic acid as the potassium salt.
 
-The 250-mg tablet of amoxicillin and clavulanate potassium and the 250-mg chewable tablet should NOT be substituted for each other, as they are not interchangeable and the 250-mg tablet should not be used in children weighing less than 40 kg.
-The 250-mg tablet of amoxicillin and clavulanate potassium and the 250-mg chewable tablet do not contain the same amount of clavulanic acid.
-The 250-mg tablet of amoxicillin and clavulanate potassium contains 125 mg of clavulanic acid whereas the 250-mg chewable tablet contains 62.5 mg of clavulanic acid.
+The 250 mg tablet of amoxicillin and clavulanate potassium and the 250 mg chewable tablet should NOT be substituted for each other, as they are not interchangeable and the 250 mg tablet should not be used in children weighing less than 40 kg.
+The 250 mg tablet of amoxicillin and clavulanate potassium and the 250 mg chewable tablet do not contain the same amount of clavulanic acid.
+The 250 mg tablet of amoxicillin and clavulanate potassium contains 125 mg of clavulanic acid whereas the 250 mg chewable tablet contains 62.5 mg of clavulanic acid.
 
 Two 250 mg tablets of amoxicillin and clavulanate potassium should NOT be substituted for one 500 mg tablet of amoxicillin and clavulanate potassium.
 Since both the 250 mg and 500 mg tablets of amoxicillin and clavulanate potassium contain the same amount of clavulanic acid (125 mg, as the potassium salt), two 250 mg tablets of amoxicillin and clavulanate potassium are not equivalent to one 500 mg tablet of amoxicillin and clavulanate potassium.

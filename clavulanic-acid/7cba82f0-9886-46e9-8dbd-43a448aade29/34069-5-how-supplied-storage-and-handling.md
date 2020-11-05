@@ -50,4 +50,4 @@ NDC 0781-1643-66 Carton of 20 (4 x 5) tablets
 Store at 20° to 25°C (68° to 77°F) [see USP Controlled Room Temperature].
 Dispense in original container.
 
-Keep out of reach of children.
+KEEP OUT OF REACH OF CHILDREN.

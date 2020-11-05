@@ -2,9 +2,7 @@
 
 ## 8.1 Pregnancy
 
-### Teratogenic Effects
-
-#### Pregnancy Category B
+Teratogenic Effects
 
 Reproduction studies performed in pregnant rats and mice given amoxicillin and clavulanate potassium (2:1 ratio formulation of amoxicillin:clavulanate) at oral doses up to 1200 mg/kg/day revealed no evidence of harm to the fetus due to amoxicillin and clavulanate potassium.
 The amoxicillin doses in rats and mice (based on body surface area) were approximately 4 and 2 times the maximum recommended adult human oral dose (875 mg every 12 hours).
@@ -26,12 +24,10 @@ Caution should be exercised when amoxicillin/clavulanate potassium is administer
 ## 8.4 Pediatric Use
 
 The safety and effectiveness of amoxicillin and clavulanate potassium for oral suspension and chewable tablets have been established in pediatric patients.
-Use of amoxicillin and clavulanate potassium in pediatric patients is supported by evidence from studies of amoxicillin and clavulanate potassium tablets in adults with additional data from a study of amoxicillin and clavulanate potassium for oral suspension in pediatric patients aged 2 months to 12 years with acute otitis media.
-[see Clinical Studies (14.2)]
+Use of amoxicillin and clavulanate potassium in pediatric patients is supported by evidence from studies of amoxicillin and clavulanate potassium tablets in adults with additional data from a study of amoxicillin and clavulanate potassium for oral suspension in pediatric patients aged 2 months to 12 years with acute otitis media [see Clinical Studies (14.2)].
 
 Because of incompletely developed renal function in neonates and young infants, the elimination of amoxicillin may be delayed; clavulanate elimination is unaltered in this age group.
-Dosing of amoxicillin and clavulanate potassium should be modified in pediatric patients aged <12 weeks (<3 months).
-[see Dosage and Administration (2.2)]
+Dosing of amoxicillin and clavulanate potassium should be modified in pediatric patients aged <12 weeks (<3 months) [see Dosage and Administration (2.2)].
 
 ## 8.5 Geriatric Use
 

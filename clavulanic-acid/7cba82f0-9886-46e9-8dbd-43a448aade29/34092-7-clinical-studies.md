@@ -2,19 +2,18 @@
 
 ## 14.1 Lower Respiratory Tract and Complicated Urinary Tract Infections
 
-Data from 2 pivotal trials in 1,191 patients treated for either lower respiratory tract infections or complicated urinary tract infections compared a regimen of 875-mg tablets of amoxicillin and clavulanate potassium every 12 hours to 500-mg tablets of amoxicillin and clavulanate potassium dosed every 8 hours (584 and 607 patients, respectively).
+Data from 2 pivotal trials in 1,191 patients treated for either lower respiratory tract infections or complicated urinary tract infections compared a regimen of 875 mg tablets of amoxicillin and clavulanate potassium every 12 hours to 500 mg tablets of amoxicillin and clavulanate potassium dosed every 8 hours (584 and 607 patients, respectively).
 Comparable efficacy was demonstrated between the every 12 hours and every 8 hours dosing regimens.
 There was no significant difference in the percentage of adverse events in each group.
-The most frequently reported adverse event was diarrhea; incidence rates were similar for the 875-mg every 12 hours and 500-mg every 8 hours dosing regimens (15% and 14%, respectively); however, there was a statistically significant difference (p < 0.05) in rates of severe diarrhea or withdrawals with diarrhea between the regimens: 1% for 875-mg every 12 hours regimen versus 2% for the 500-mg every 8 hours regimen.
+The most frequently reported adverse event was diarrhea; incidence rates were similar for the 875 mg every 12 hours and 500 mg every 8 hours dosing regimens (15% and 14%, respectively); however, there was a statistically significant difference (p < 0.05) in rates of severe diarrhea or withdrawals with diarrhea between the regimens: 1% for 875 mg every 12 hours regimen versus 2% for the 500 mg every 8 hours regimen.
 
-In one of these pivotal trials, patients with either pyelonephritis (n = 361) or a complicated urinary tract infection (i.e., patients with abnormalities of the urinary tract that predispose to relapse of bacteriuria following eradication, n = 268) were randomized (1:1) to receive either 875-mg tablets of amoxicillin and clavulanate potassium every 12 hours (n=308) or 500-mg tablets of amoxicillin and clavulanate potassium every 8 hours (n=321).
+In one of these pivotal trials, patients with either pyelonephritis (n = 361) or a complicated urinary tract infection (i.e., patients with abnormalities of the urinary tract that predispose to relapse of bacteriuria following eradication, n = 268) were randomized (1:1) to receive either 875 mg tablets of amoxicillin and clavulanate potassium every 12 hours (n=308) or 500 mg tablets of amoxicillin and clavulanate potassium every 8 hours (n=321).
 
 The number of bacteriologically evaluable patients was comparable between the two dosing regimens.
 Amoxicillin and clavulanate potassium produced comparable bacteriological success rates in patients assessed 2 to 4 days immediately following end of therapy.
-The bacteriologic efficacy rates were comparable at one of the follow-up visits (5 to 9 days post-therapy) and at a late post-therapy visit (in the majority of cases, this was 2 to 4 weeks post-therapy), as seen in Table 7.
+The bacteriologic efficacy rates were comparable at one of the follow-up visits (5 to 9 days post-therapy) and at a late post-therapy visit (in the majority of cases, this was 2 to 4 weeks post-therapy), as seen in Table 5.
 
-Table 7.
-Bacteriologic efficacy rates for amoxicillin and clavulanate potassium
+Table 5: Bacteriologic efficacy rates for amoxicillin and clavulanate potassium
 
 | Time Post Therapy | 875 mg every 12 hours % (n) | 500 mg every 8 hours % (n) |
 | --- | --- | --- |

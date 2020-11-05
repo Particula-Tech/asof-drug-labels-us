@@ -16,7 +16,6 @@ Inactive Ingredients
   In addition, the 875 mg/125 mg tablet contains crospovidone.
   Each tablet of amoxicillin and clavulanate potassium contains 0.63 mEq potassium.
 - •For Oral Suspension – Aspartame, colloidal silicon dioxide, hydroxypropyl methylcellulose, mannitol, orange flavoring, precipitated silicon dioxide, succinic acid, xanthan gum, and golden syrup flavoring (caramel).
-- •Chewable Tablets – Aspartame, banana flavoring, cherry flavoring, colloidal silicon dioxide, FD&C Red No. 40, magnesium stearate, mannitol, and sodium starch glycolate.
-  [see Warnings and Precautions (5.6)]
-  - ∘Each 200-mg chewable tablet and each 5 mL of reconstituted 200 mg/5 mL oral suspension of amoxicillin and clavulanate potassium contains 0.14 mEq potassium
-  - ∘Each 400-mg chewable tablet and each 5 mL of reconstituted 400 mg/5 mL oral suspension of amoxicillin and clavulanate potassium contains 0.29 mEq potassium
+- •Chewable Tablets – Aspartame, banana flavoring, cherry flavoring, colloidal silicon dioxide, FD&C Red No. 40, magnesium stearate, mannitol, and sodium starch glycolate [see Warnings and Precautions (5.6)].
+  - ∘Each 200 mg chewable tablet and each 5 mL of reconstituted 200 mg/5 mL oral suspension of amoxicillin and clavulanate potassium contains 0.14 mEq potassium
+  - ∘Each 400 mg chewable tablet and each 5 mL of reconstituted 400 mg/5 mL oral suspension of amoxicillin and clavulanate potassium contains 0.29 mEq potassium

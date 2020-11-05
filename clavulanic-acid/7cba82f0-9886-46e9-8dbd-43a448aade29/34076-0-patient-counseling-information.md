@@ -23,18 +23,9 @@ Follow your doctor’s instructions about the amount to use and the days of trea
 Discard any unused medicine.
 
 Patients should be aware that amoxicillin and clavulanate potassium contains a penicillin class drug product that can cause allergic reactions in some individuals.
-CLINITEST is a registered trademark of Miles, Inc.
 
-10-2014M
+CLINITEST® is a registered trademark of Miles, Inc.
 
-46147356
+46276381
 
-46147427
-
-Manufactured in Austria by
-
-Sandoz GmbH for
-
-Sandoz Inc.
-
-Princeton, NJ 08540
+Manufactured by Sandoz GmbH for Sandoz Inc., Princeton, NJ 08540

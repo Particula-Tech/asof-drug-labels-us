@@ -10,5 +10,4 @@ In case of overdosage, adequate fluid intake and diuresis should be maintained t
 
 Renal impairment appears to be reversible with cessation of drug administration.
 High blood levels may occur more readily in patients with impaired renal function because of decreased renal clearance of amoxicillin/clavulanate potassium.
-Amoxicillin/clavulanate potassium may be removed from circulation by hemodialysis.
-[see Dosage and Administration (2.3)]
+Amoxicillin/clavulanate potassium may be removed from circulation by hemodialysis [see Dosage and Administration (2.3)].

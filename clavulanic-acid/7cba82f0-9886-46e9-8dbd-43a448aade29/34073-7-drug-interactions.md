@@ -4,7 +4,7 @@
 
 Probenecid decreases the renal tubular secretion of amoxicillin but does not delay renal excretion of clavulanic acid.
 Concurrent use with amoxicillin and clavulanate potassium may result in increased and prolonged blood concentrations of amoxicillin.
-Coadministration of probenecid is not recommended.
+Co-administration of probenecid is not recommended.
 
 ## 7.2 Oral Anticoagulants
 

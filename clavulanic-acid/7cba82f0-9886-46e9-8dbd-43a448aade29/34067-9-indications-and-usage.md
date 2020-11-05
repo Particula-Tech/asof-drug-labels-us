@@ -4,7 +4,7 @@ To reduce the development of drug-resistant bacteria and maintain the effectiven
 When culture and susceptibility information are available, they should be considered in selecting or modifying antibacterial therapy.
 In the absence of such data, local epidemiology and susceptibility patterns may contribute to the empiric selection of therapy.
 
-Amoxicillin and clavulanate potassium tablets, USP, for oral suspension, USP, and chewable tablets, USP are a combination penicillin-class antibacterial and beta-lactamase inhibitor indicated in the treatment of infections due to susceptible isolates of the designated bacteria in the conditions listed below:
+Amoxicillin and clavulanate potassium tablets, oral suspension and chewable tablets are a combination penicillin-class antibacterial and beta-lactamase inhibitor indicated in the treatment of infections due to susceptible isolates of the designated bacteria in the conditions listed below:
 
 ## 1.1 Lower Respiratory Tract Infections
 
@@ -12,19 +12,19 @@ Caused by beta-lactamase–producing isolates of Haemophilus influenzae and Mora
 
 ## 1.2 Acute Bacterial Otitis Media
 
-Caused by beta-lactamase–producing isolates of H. influenzae and M. catarrhalis.
+Caused by beta-lactamase–producing isolates of H.influenzae and M.catarrhalis.
 
 ## 1.3 Sinusitis
 
-Caused by beta-lactamase–producing isolates of H. influenzae and M. catarrhalis.
+Caused by beta-lactamase–producing isolates of H.influenzae and M.catarrhalis.
 
 ## 1.4 Skin and Skin Structure Infections
 
-Caused by beta-lactamase–producing isolates of Staphylococcus aureus, Escherichia coli, and Klebsiella species.
+Caused by beta-lactamase producing isolates of Staphylococcus aureus, Escherichia coli, and Klebsiella species.
 
 ## 1.5 Urinary Tract Infections
 
-Caused by beta-lactamase–producing isolates of E. coli, Klebsiella species, and Enterobacter species.
+Caused by beta-lactamase producing isolates of E.coli, Klebsiella species, and Enterobacter species.
 
 ## 1.6 Limitations of Use
 

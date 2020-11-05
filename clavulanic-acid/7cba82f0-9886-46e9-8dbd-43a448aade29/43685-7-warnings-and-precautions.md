@@ -16,15 +16,15 @@ Hepatic function should be monitored at regular intervals in patients with hepat
 ## 5.3 Clostridium difficile Associated Diarrhea
 
 Clostridium difficile associated diarrhea (CDAD) has been reported with use of nearly all antibacterial agents, including amoxicillin and clavulanate potassium, and may range in severity from mild diarrhea to fatal colitis.
-Treatment with antibacterial agents alters the normal flora of the colon leading to overgrowth of C. difficile.
+Treatment with antibacterial agents alters the normal flora of the colon leading to overgrowth of C.difficile.
 
-C. difficile produces toxins A and B which contribute to the development of CDAD.
-Hypertoxin-producing strains of C. difficile cause increased morbidity and mortality, as these infections can be refractory to antimicrobial therapy and may require colectomy.
+C.difficile produces toxins A and B which contribute to the development of CDAD.
+Hypertoxin-producing strains of C.difficile cause increased morbidity and mortality, as these infections can be refractory to antimicrobial therapy and may require colectomy.
 CDAD must be considered in all patients who present with diarrhea following antibacterial use.
 Careful medical history is necessary since CDAD has been reported to occur over 2 months after the administration of antibacterial agents.
 
-If CDAD is suspected or confirmed, ongoing antibacterial use not directed against C. difficile may need to be discontinued.
-Appropriate fluid and electrolyte management, protein supplementation, antibacterial treatment of C. difficile, and surgical evaluation should be instituted as clinically indicated.
+If CDAD is suspected or confirmed, ongoing antibacterial use not directed against C.difficile may need to be discontinued.
+Appropriate fluid and electrolyte management, protein supplementation, antibacterial treatment of C.difficile, and surgical evaluation should be instituted as clinically indicated.
 
 ## 5.4 Skin Rash in Patients with Mononucleosis
 
@@ -39,7 +39,7 @@ If superinfection occurs, amoxicillin/clavulanate potassium should be discontinu
 ## 5.6 Phenylketonurics
 
 Amoxicillin and clavulanate potassium chewable tablets and amoxicillin and clavulanate potassium for oral suspension contain aspartame which contains phenylalanine.
-Each 200-mg chewable tablet of amoxicillin and clavulanate potassium contains 2 mg phenylalanine; each 400-mg chewable tablet contains 4 mg phenylalanine; each 5 mL of either the 200 mg/5 mL or 400 mg/5 mL oral suspension contains 7 mg phenylalanine.
+Each 200 mg chewable tablet of amoxicillin and clavulanate potassium contains 2 mg phenylalanine; each 400 mg chewable tablet contains 4 mg phenylalanine; each 5 mL of either the 200 mg/5 mL or 400 mg/5 mL oral suspension contains 7 mg phenylalanine.
 The other formulations of amoxicillin and clavulanate potassium do not contain phenylalanine.
 
 ## 5.7 Development of Drug-Resistant Bacteria
