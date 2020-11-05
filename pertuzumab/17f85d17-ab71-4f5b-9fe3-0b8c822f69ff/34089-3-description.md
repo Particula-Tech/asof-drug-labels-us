@@ -1,8 +1,7 @@
 # 11 DESCRIPTION
 
 Pertuzumab is a recombinant humanized monoclonal antibody that targets the extracellular dimerization domain (Subdomain II) of the human epidermal growth factor receptor 2 protein (HER2).
-Pertuzumab is produced by recombinant DNA technology in a mammalian cell (Chinese Hamster Ovary) culture that may contain the antibiotic, gentamicin.
-Gentamicin is not detectable in the final product.
+Pertuzumab is produced by recombinant DNA technology in a mammalian cell (Chinese Hamster Ovary) culture.
 Pertuzumab has an approximate molecular weight of 148 kDa.
 
 PERJETA injection is a sterile, clear to slightly opalescent, colorless to pale brown liquid for intravenous infusion.
