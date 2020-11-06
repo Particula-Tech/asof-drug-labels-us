@@ -24,11 +24,11 @@ The majority of these patients discontinued within the first 12 weeks of treatme
 Approximately 24% of patients treated with CONTRAVE and 12% of patients treated with placebo discontinued treatment because of an adverse reaction [see Adverse Reactions (6.1)].
 
 The co-primary endpoints were percent change from baseline body weight and the proportion of patients achieving at least a 5% reduction in body weight.
-In the 56-week COR-I trial, the mean change in body weight was -5.4% among patients assigned to CONTRAVE 32 mg/360 mg compared with -1.3% among patients assigned to placebo (Intent-To-Treat [ITT] population), as shown in Table 7 and Figure 1.
-In this trial, the achievement of at least a 5% reduction in body weight from baseline occurred more frequently for patients treated with CONTRAVE 32 mg/360 mg compared with placebo (42% vs 17%; Table 7).
-Results from COR-BMOD and COR-Diabetes are shown in Table 7 and Figures 2 and 3.
+In the 56-week COR-I trial, the mean change in body weight was -5.4% among patients assigned to CONTRAVE 32 mg/360 mg compared with -1.3% among patients assigned to placebo (Intent-To-Treat [ITT] population), as shown in Table 6 and Figure 1.
+In this trial, the achievement of at least a 5% reduction in body weight from baseline occurred more frequently for patients treated with CONTRAVE 32 mg/360 mg compared with placebo (42% vs 17%; Table 6).
+Results from COR-BMOD and COR-Diabetes are shown in Table 6 and Figures 2 and 3.
 
-Table 7.
+Table 6.
 Changes in Weight in 56-Week Trials with CONTRAVE (ITT/LOCF*)
 
 |  | COR-I |  | COR-BMOD |  | COR-Diabetes |  |
@@ -45,7 +45,7 @@ Changes in Weight in 56-Week Trials with CONTRAVE (ITT/LOCF*)
 | Risk difference vs placebo (95% CI) | 14† (10, 18) |  | 14† (7, 21) |  | 10‡ (4, 15) |  |
 | Type 1 error was controlled across all 3 endpoints *Based on last observation carried forward (LOCF) in all randomized subjects who had a baseline body weight measurement and at least one post baseline body weight measurement during the defined treatment phase. All available body weight data during the double-blind treatment phase are included in the analysis, including data collected from subjects who discontinued study drug. †Difference from placebo, p<0.001 ‡Difference from placebo, p<0.01 |  |  |  |  |  |  |
 
-The percentages of patients who achieved at least 5% or at least 10% body weight loss from baseline were greater among those assigned to CONTRAVE, compared with placebo, in all four obesity trials (Table 7).
+The percentages of patients who achieved at least 5% or at least 10% body weight loss from baseline were greater among those assigned to CONTRAVE, compared with placebo, in all four obesity trials (Table 6).
 
 | Figure 1. Weight Loss Over Time in Completer Population: COR-I Trial |
 | --- |
@@ -61,10 +61,10 @@ The percentages of patients who achieved at least 5% or at least 10% body weight
 
 Effect on Cardiovascular and Metabolic Parameters
 
-Changes in cardiovascular and metabolic parameters associated with obesity are presented for COR-I and COR-BMOD (Table 8).
+Changes in cardiovascular and metabolic parameters associated with obesity are presented for COR-I and COR-BMOD (Table 7).
 Changes in mean blood pressure and heart rate are further described elsewhere [see Warnings and Precautions (5.5)].
 
-Table 8.
+Table 7.
 Change in Markers of Cardiovascular and Metabolic Parameters from Baseline in 56 Week Trials with CONTRAVE 32 mg/360 mg (COR-I and COR-BMOD)*
 
 | Parameter | COR-I |  |  | COR-BMOD |  |  |
@@ -95,9 +95,9 @@ Change in Markers of Cardiovascular and Metabolic Parameters from Baseline in 56
 
 Effect of CONTRAVE on Cardiometabolic Parameters and Anthropometry in Patients with Type 2 Diabetes Mellitus
 
-Changes in glycemic control observed from baseline to Week 56 among patients with type 2 diabetes and obesity assigned to either CONTRAVE 32 mg/360 mg or placebo are shown in Table 9.
+Changes in glycemic control observed from baseline to Week 56 among patients with type 2 diabetes and obesity assigned to either CONTRAVE 32 mg/360 mg or placebo are shown in Table 8.
 
-Table 9.
+Table 8.
 Changes in Cardiometabolic Parameters and Waist Circumference in Patients with Type 2 Diabetes Mellitus in a 56 Week Trial with CONTRAVE 32 mg/360 mg (COR-Diabetes)
 
 |  | CONTRAVE 32 mg/360 mg N=265 |  | Placebo N=159 |  | CONTRAVE minus Placebo (LS Mean) |

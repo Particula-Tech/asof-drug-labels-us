@@ -45,7 +45,7 @@ Concern is warranted because CONTRAVE and other drugs may affect each other's me
 Pregnancy
 
 Advise pregnant patients and all patients who can become pregnant of the potential risk to a fetus.
-Advise patients to inform their healthcare provider of a known or suspected pregnancy to discuss if Contrave should be discontinued [see Use in Specific Populations (8.1)].
+Advise patients to inform their healthcare provider of a known or suspected pregnancy to discuss if CONTRAVE should be discontinued [see Use in Specific Populations (8.1)].
 
 Patients with type 2 diabetes mellitus on antidiabetic therapy should be advised to monitor their blood glucose levels and report symptoms of hypoglycemia to their healthcare provider(s).
 

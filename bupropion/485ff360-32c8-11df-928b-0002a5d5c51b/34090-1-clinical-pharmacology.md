@@ -118,6 +118,7 @@ Renal Impairment
 
 A single-dose pharmacokinetic study conducted for CONTRAVE, comparing patients with mild (n=8), moderate (n=8) and severe (n=7) renal impairment to subjects with normal renal function (n=13), showed that renal impairment had no significant effect on the PK parameters of the parent drugs naltrexone and bupropion.
 However, systemic exposure (AUCinf) of some metabolites was increased in patients with impairment of renal function [see Dosage and Administration (2.2) and Use in Specific Populations (8.6)].
+
 Following a single-dose of 16 mg naltrexone /180 mg bupropion, AUCinf of 6-beta-naltrexol was approximately1.5-, 1.7-, and 2.2-fold higher in patients with mild, moderate, and severe renal impairment, respectively.
 In patients with mild, moderate, and severe renal impairment, AUC of bupropion metabolites threohydrobupropion and erythrohydrobupropion increased approximately 1.3-, 1.9-, and 1.7-fold and 1.2-, 1.8-, and 1.5-fold, respectively.
 No studies have been conducted for CONTRAVE in patients with end stage renal disease.
@@ -141,7 +142,7 @@ Effects of Naltrexone/Bupropion on the Pharmacokinetics of Other Drugs
 Drug interaction between CONTRAVE and CYP2D6 substrates (metoprolol) or other drugs (atorvastatin, glyburide, lisinopril, nifedipine, valsartan) has been evaluated.
 In addition, drug interaction between bupropion, a component of CONTRAVE, and CYP2D6 substrates (desipramine) or other drugs (citalopram, lamotrigine) has also been evaluated.
 
-Table 5.
+Table 4.
 Effect of Naltrexone/Bupropion Coadministration on Systemic Exposure of Other Drugs
 
 | Naltrexone/Bupropion Dosage | Coadministered Drug |  |
@@ -167,7 +168,7 @@ Effects of Other Drugs on the Pharmacokinetics of Naltrexone/Bupropion
 Drug interactions between CYP2B6 inhibitors (ticlopidine, clopidogrel, prasugrel), CYP2B6 inducers (ritonavir, lopinavir) and bupropion (one of the CONTRAVE components), or between other drugs (atorvastatin, glyburide, metoprolol, lisinopril, nifedipine, valsartan) and CONTRAVE have been evaluated.
 While not systematically studied, carbamazepine, phenobarbital, or phenytoin may induce the metabolism of bupropion.
 
-Table 6.
+Table 5.
 Effect of Coadministered Drugs on Systemic Exposure of Naltrexone/Bupropion
 
 | Name and Dose Regimens | Coadministered Drug |  |
