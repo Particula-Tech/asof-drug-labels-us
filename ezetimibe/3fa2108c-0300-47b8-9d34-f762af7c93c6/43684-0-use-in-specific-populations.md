@@ -42,7 +42,7 @@ Fetal exposure to ezetimibe (conjugated and unconjugated) was confirmed in subse
 The fetal maternal plasma exposure ratio (total ezetimibe) was 1.5 for rats on gestation day 20 and 0.03 for rabbits on gestation day 22.
 
 The effect of ezetimibe on prenatal and postnatal development and maternal function was evaluated in pregnant rats at doses of 100, 300 or 1000 mg/kg/day (gestation day 6 through lactation day 21).
-No maternal toxicity or adverse developmental outcomes were observed up to and including the highest dose tested (17 times the human exposure at 10 mg daily based on AUC0-24hr for total ezetimibe)
+No maternal toxicity or adverse developmental outcomes were observed up to and including the highest dose tested (17 times the human exposure at 10 mg daily based on AUC0-24hr for total ezetimibe).
 
 Multiple-dose studies of ezetimibe coadministered with statins in rats and rabbits during organogenesis result in higher ezetimibe and statin exposures.
 Reproductive findings occur at lower doses in combination therapy compared to monotherapy.

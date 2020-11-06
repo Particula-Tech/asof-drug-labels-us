@@ -21,7 +21,7 @@ For additional results see Table 3.
 
 Table 3.
 Effects of NEXLIZET on Lipid Parameters in Patients on Maximally Tolerated Statin Therapy (Mean % Change from Baseline to Week 12 in Study 1)3.5% of subjects on NEXLIZET, 6.8% of subjects on bempedoic acid, 7% of subjects on ezetimibe and 2.4% of subjects on placebo had missing LDL-C data at Week 12.
-Percent change from baseline was analyzed using analysis of covariance (ANCOVA), with treatment and randomization strata (high intensity statin versus other and (ASCVD and/or HeFH versus multiple CV risk factors) as factors and baseline lipid parameter as a covariate.
+Percent change from baseline was analyzed using analysis of covariance (ANCOVA), with treatment and randomization strata (high intensity statin versus other and ASCVD and/or HeFH versus multiple CV risk factors) as factors and baseline lipid parameter as a covariate.
 Missing data for LDL-C, non-HDL-C, TC and apo B were imputed through multiple imputation using a pattern mixture model (PMM) account for treatment adherence.
 
 |  | LDL-C LS Mean | non-HDL-C LS Mean | apo B LS Mean | TC LS Mean |

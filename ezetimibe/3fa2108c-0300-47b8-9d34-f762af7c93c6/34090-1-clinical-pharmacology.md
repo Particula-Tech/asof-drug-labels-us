@@ -229,4 +229,4 @@ Administration with gemfibrozil (600 mg BID for 7 days) resulted in a 1.64- and 
 
 Cholestyramine: Administration of ezetimibe with cholestyramine (4 g BID for 14 days) resulted in a 55% and a 4% decrease in total ezetimibe AUC and Cmax, respectively [see Drug Interactions (7)].
 
-No clinically meaningful pharmacokinetic interaction was observed following co-administration of ezetimibe with aluminum & magnesium hydroxide combination antacid, cimetidine, glipizide, lovastatin, pravastatin, atorvastatin, rosuvastatin, fluvastatin, simvastatin, digoxin, ethyl estradiol/levonorgestrel, and warfarin.
+No clinically meaningful pharmacokinetic interaction was observed following coadministration of ezetimibe with aluminum & magnesium hydroxide combination antacid, cimetidine, glipizide, lovastatin, pravastatin, atorvastatin, rosuvastatin, fluvastatin, simvastatin, digoxin, ethinyl estradiol/levonorgestrel, and warfarin.
