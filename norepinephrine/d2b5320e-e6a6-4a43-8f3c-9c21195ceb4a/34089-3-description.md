@@ -6,5 +6,6 @@ LEVOPHED is (-)-α-(aminomethyl)-3,4-dihydroxybenzyl alcohol tartrate (1:1) (sal
 
 LEVOPHED is supplied in a sterile aqueous solution in the form of the bitartrate salt to be administered by intravenous infusion.
 Norepinephrine is sparingly soluble in water, very slightly soluble in alcohol and ether, and readily soluble in acids.
-Each mL contains 1 mg of norepinephrine base (equivalent to 1.89 mg of norepinephrine bitartrate, anhydrous basis), sodium chloride for isotonicity, not more than 0.2 mg (vials) of sodium metabisulfite as an antioxidant, and may contain sodium hydroxide and/or hydrochloric acid for pH adjustment to 3.0–4.5.
+Each mL contains 1 mg of norepinephrine base (equivalent to 1.89 mg of norepinephrine bitartrate, anhydrous basis), sodium chloride for isotonicity, not more than 0.2 mg (vials) of sodium metabisulfite as an antioxidant.
+It has a pH of 3.0 to 4.5.
 The air in the containers has been displaced by nitrogen gas.
