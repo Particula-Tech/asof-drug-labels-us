@@ -1,4 +1,4 @@
-# Instructions for Use VALCYTE (Val-site) (valganciclovir hydrochloride) for oral solution
+# Instructions for Use VALCYTE (Val-site) (valganciclovir) for oral solution
 
 Be sure that you read, and that you understand and follow these instructions carefully to ensure proper dosing of the oral solution.
 
@@ -6,8 +6,8 @@ Important:
 
 - Avoid contact with your skin or eyes.
   If you come in contact with the contents of the oral solution, wash your skin well with soap and water or rinse your eyes well with plain water.
-- Do not use VALCYTE for oral solution after the expiration date on the bottle.
-- Always use the oral dispenser provided to take or give a dose of VALCYTE.
+- Do not use VALCYTE for oral solution after the discard date on the bottle.
+- Always use the oral dispenser provided to give or take a dose of VALCYTE for oral solution.
 - Call your pharmacist if your oral dispenser is lost or damaged, and they will tell you how to continue to give or take a dose of VALCYTE for oral solution.
 - Ask your healthcare provider or pharmacist to show you how to measure your prescribed dose.
 
@@ -39,8 +39,8 @@ This Patient Information and Instructions for Use have been approved by the U.S.
 
 VALCYTE is a registered trademark of Hoffmann-La Roche Inc.
 
-Distributed by: Genentech USA, Inc. A Member of the Roche Group 1 DNA Way South San Francisco, CA 94080-4990 Revised: 08/2018
+Distributed by: Genentech USA, Inc. A Member of the Roche Group 1 DNA Way South San Francisco, CA 94080-4990 Revised: 10/2020
 
 For more information, go to www.VALCYTE.com or call 1-888-835-2555.
 
-© 2018 Genentech, Inc. All rights reserved.
+© 2020 Genentech, Inc. All rights reserved.

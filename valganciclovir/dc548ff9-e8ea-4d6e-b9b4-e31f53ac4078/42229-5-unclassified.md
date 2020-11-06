@@ -4,6 +4,6 @@ Distributed by: Genentech USA, Inc. A Member of the Roche Group 1 DNA Way South 
 
 For more information, go to www.VALCYTE.com or call 1-888-835-2555.
 
-© 2018 Genentech, Inc. All rights reserved.
+© 2020 Genentech, Inc. All rights reserved.
 
 Representative sample of labeling (see the HOW SUPPLIED section for complete listing):

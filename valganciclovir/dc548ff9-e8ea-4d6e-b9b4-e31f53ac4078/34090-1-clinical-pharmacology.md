@@ -81,12 +81,12 @@ In these studies, patients received oral doses of valganciclovir (either VALCYTE
 In studies using the pediatric valganciclovir dosing algorithm, the pharmacokinetics of ganciclovir were similar across organ types and age ranges (Table 14).
 Relative to adult transplant patients (Table 11), AUC values in pediatric patients were somewhat increased, but were within the range considered safe and effective in adults.
 
-Table 14 Ganciclovir Pharmacokinetics by Age in Pediatric Solid Organ Transplant Patients Administered VALCYTEAges ranged from 26 to 124 days..
+Table 14 Ganciclovir Pharmacokinetics by Age in Pediatric Solid Organ Transplant Patients Administered VALCYTE
 
 | < 4 months | 4 months to ≤ 2 years | > 2 to < 12 years | ≥ 12 years |  |  |
 | --- | --- | --- | --- | --- | --- |
 | Organ | PK Parameter mean (SD) | Age Group |  |  |  |
-| Heart (N=26) | N | 14 | 6 | 2 | 4 |
+| Heart (N=26) | N | 14Ages ranged from 26 to 124 days. | 6 | 2 | 4 |
 | AUC0-24h (mcg∙h/mL) | 66.3 (20.5) | 55.4 (22.8) | 59.6 (21.0) | 60.6 (25.0) |  |
 | Cmax (mcg/mL) | 10.8 (3.30) | 8.2 (2.5) | 12.5 (1.2) | 9.5 (3.3) |  |
 | t1/2 (h) | 3.5 (0.87) | 3.8 (1.7) | 2.8 (0.9) | 4.9 (0.8) |  |

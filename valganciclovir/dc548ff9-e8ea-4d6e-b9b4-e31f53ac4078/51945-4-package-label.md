@@ -20,11 +20,13 @@ Genentech
 
 NDC 0004-0039-09
 
-Valcyte® (valganciclovir hydrochloride) for oral solution
+Valcyte® (valganciclovir) for oral solution
 
-50 mg/1 mL
+50 mg/mL
 
 Each mL of constituted oral solution contains 50 mg valganciclovir free base.
+
+New Oral Dispensers
 
 100 mL (3.4 fl oz)
 
@@ -32,4 +34,4 @@ Rx only
 
 Genentech
 
-10206717
+10225110
