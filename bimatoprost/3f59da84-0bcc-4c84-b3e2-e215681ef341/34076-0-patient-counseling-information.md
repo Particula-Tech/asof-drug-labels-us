@@ -19,4 +19,4 @@ All rights reserved.
 DURYSTA™ is a trademark of Allergan, Inc. Patented.
 See: www.allergan.com/patents
 
-v1.0USPI9652
+v1.1USPI9652

@@ -4,7 +4,7 @@
 
 Risk Summary
 
-There are no adequate and well-controlled studies of DURYSTA (bimatoprost implant) administration in pregnant women to inform a drug associated risk.
+There are no adequate and well-controlled studies of DURYSTA (bimatoprost intracameral implant) administration in pregnant women to inform a drug associated risk.
 Oral administration of bimatoprost to pregnant rats and mice throughout organogenesis did not produce adverse maternal or fetal effects at clinically relevant exposures.
 Oral administration of bimatoprost to rats from the start of organogenesis to the end of lactation did not produce adverse maternal, fetal or neonatal effects at clinically relevant exposures [see Animal Data].
 
