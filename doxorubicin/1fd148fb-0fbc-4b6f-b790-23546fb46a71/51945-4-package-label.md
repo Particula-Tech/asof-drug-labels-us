@@ -2,11 +2,11 @@
 
 NDC 0069-3030-20
 
-Rx only
+Single-dose Rx only
 
-Single-Dose Discard unused portion
+Discard unused portion
 
-DOXOrubicin HCl Injection, USP
+DOXOrubicin Hydrochloride Injection
 
 10 mg/5 mL (2 mg/mL)
 
@@ -18,9 +18,9 @@ Caution: Cytotoxic Agent
 
 NDC 0069-3030-20 Rx only
 
-SINGLE-DOSE: DISCARD UNUSED PORTION
+Single-dose: Discard unused portion
 
-DOXOrubicin HCl Injection, USP
+DOXOrubicin Hydrochloride Injection
 
 10 mg/5 mL (2 mg/mL)
 
@@ -36,11 +36,11 @@ Pfizer Injectables
 
 NDC 0069-3031-20
 
-Rx only
+Single-dose Rx only
 
-Single-Dose Discard unused portion
+Discard unused portion
 
-DOXOrubicin HCl Injection, USP
+DOXOrubicin Hydrochloride Injection
 
 20 mg/10 mL (2 mg/mL)
 
@@ -52,9 +52,9 @@ Caution: Cytotoxic Agent
 
 NDC 0069-3031-20 Rx only
 
-SINGLE-DOSE: DISCARD UNUSED PORTION
+Single-dose: Discard unused portion
 
-DOXOrubicin HCl Injection, USP
+DOXOrubicin Hydrochloride Injection
 
 20 mg/10 mL (2 mg/mL)
 
@@ -70,11 +70,11 @@ Pfizer Injectables
 
 NDC 0069-3032-20
 
-Rx only
+Single-dose Rx only
 
-Single-Dose Discard unused portion
+Discard unused portion
 
-DOXOrubicin HCl Injection, USP
+DOXOrubicin Hydrochloride Injection
 
 50 mg/25 mL (2 mg/mL)
 
@@ -86,9 +86,9 @@ Caution: Cytotoxic Agent
 
 NDC 0069-3032-20 Rx only
 
-SINGLE-DOSE: DISCARD UNUSED PORTION
+Single-dose: Discard unused portion
 
-DOXOrubicin HCl Injection, USP
+DOXOrubicin Hydrochloride Injection
 
 50 mg/25 mL (2 mg/mL)
 
@@ -104,9 +104,9 @@ Pfizer Injectables
 
 NDC 0069-3033-20
 
-Multiple Dose Vial Rx only
+Multiple-dose Vial Rx only
 
-DOXOrubicin HCl Injection, USP
+DOXOrubicin Hydrochloride Injection
 
 150 mg/75 mL (2 mg/mL)
 
@@ -120,9 +120,9 @@ Pfizer Injectables
 
 NDC 0069-3033-20 Rx only
 
-Multiple Dose Vial
+Multiple-dose Vial
 
-DOXOrubicin HCl Injection, USP
+DOXOrubicin Hydrochloride Injection
 
 150 mg/75 mL (2 mg/mL)
 
@@ -138,9 +138,9 @@ Pfizer Injectables
 
 NDC 0069-3034-20
 
-Multiple Dose Vial Rx only
+Multiple-dose Vial Rx only
 
-DOXOrubicin HCl Injection, USP
+DOXOrubicin Hydrochloride Injection
 
 200 mg/100 mL (2 mg/mL)
 
@@ -154,9 +154,9 @@ Pfizer Injectables
 
 NDC 0069-3034-20 Rx only
 
-Multiple Dose Vial
+Multiple-dose Vial
 
-DOXOrubicin HCl Injection, USP
+DOXOrubicin Hydrochloride Injection
 
 200 mg/100 mL (2 mg/mL)
 
