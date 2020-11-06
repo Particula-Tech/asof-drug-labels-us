@@ -2,11 +2,11 @@
 
 NDC 0069-4004-05
 
-Single-Dose Discard unused portion
+Single-dose Discard unused portion
 
 Rx only
 
-DOXOrubicin HCl Injection, USP
+DOXOrubicin Hydrochloride Injection
 
 10 mg/5 mL
 
@@ -18,9 +18,9 @@ For Intravenous Use Only Caution: Cytotoxic Agent
 
 NDC 0069-4004-05 Rx only
 
-SINGLE-DOSE: DISCARD UNUSED PORTION
+Single-dose: Discard unused portion
 
-DOXOrubicin HCl Injection, USP
+DOXOrubicin Hydrochloride Injection
 
 10 mg/5 mL
 
@@ -36,11 +36,11 @@ PREMIERProRx®
 
 NDC 0069-4015-10
 
-Single-Dose Discard unused portion
+Single-dose Discard unused portion
 
 Rx only
 
-DOXOrubicin HCl Injection, USP
+DOXOrubicin Hydrochloride Injection
 
 20 mg/10 mL
 
@@ -54,9 +54,9 @@ Caution: Cytotoxic Agent
 
 NDC 0069-4015-10 Rx only
 
-SINGLE-DOSE: DISCARD UNUSED PORTION
+Single-dose: Discard unused portion
 
-DOXOrubicin HCl Injection, USP
+DOXOrubicin Hydrochloride Injection
 
 20 mg/10 mL
 
@@ -72,11 +72,11 @@ PREMIERProRx®
 
 NDC 0069-4026-25
 
-Single-Dose Discard unused portion
+Single-dose Discard unused portion
 
 Rx only
 
-DOXOrubicin HCl Injection, USP
+DOXOrubicin Hydrochloride Injection
 
 50 mg/25 mL
 
@@ -90,9 +90,9 @@ Caution: Cytotoxic Agent
 
 NDC 0069-4026-25 Rx only
 
-SINGLE-DOSE: DISCARD UNUSED PORTION
+Single-dose: Discard unused portion
 
-DOXOrubicin HCl Injection, USP
+DOXOrubicin Hydrochloride Injection
 
 50 mg/25 mL
 
@@ -108,9 +108,9 @@ PREMIERProRx®
 
 NDC 0069-4037-01
 
-Multiple Dose Vial Rx only
+Multiple-dose Vial Rx only
 
-DOXOrubicin HCl Injection, USP
+DOXOrubicin Hydrochloride Injection
 
 200 mg/100 mL
 
@@ -126,9 +126,9 @@ PREMIERProRx®
 
 NDC 0069-4037-01 Rx only
 
-Multiple Dose Vial
+Multiple-dose Vial
 
-DOXOrubicin HCl Injection, USP
+DOXOrubicin Hydrochloride Injection
 
 200 mg/100 mL
 
