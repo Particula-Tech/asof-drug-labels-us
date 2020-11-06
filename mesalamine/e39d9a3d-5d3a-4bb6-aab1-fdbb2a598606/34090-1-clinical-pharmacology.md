@@ -11,7 +11,7 @@ Mucosal production of arachidonic acid (AA) metabolites, both through the cycloo
 
 ### Absorption
 
-PENTASA is an ethylcellulose-coated, controlled-release formulation of mesalamine designed to release therapeutic quantities of mesalamine throughout the gastrointestinal tract.
+PENTASA is an ethylcellulose-coated, extended-release formulation of mesalamine designed to release therapeutic quantities of mesalamine throughout the gastrointestinal tract.
 Based on urinary excretion data, 20% to 30% of the mesalamine in PENTASA is absorbed.
 In contrast, when mesalamine is administered orally as an unformulated 1-g aqueous suspension, mesalamine is approximately 80% absorbed.
 
