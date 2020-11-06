@@ -6,7 +6,9 @@ BETHKIS is an aminoglycoside antibacterial [see Clinical Pharmacology (12.4)].
 
 ## 12.3 Pharmacokinetics
 
-BETHKIS contains tobramycin, a cationic polar molecule that does not readily cross epithelial membranes.1 The bioavailability of BETHKIS may vary because of individual differences in nebulizer performance and airway pathology.2
+BETHKIS contains tobramycin, a cationic polar molecule that does not readily cross epithelial membranes.
+1 The bioavailability of BETHKIS may vary because of individual differences in nebulizer performance and airway pathology.
+2
 
 ### Sputum Concentrations
 
@@ -60,12 +62,14 @@ Dilution Techniques
 
 Quantitative methods can be used to determine the minimum inhibitory concentration (MIC) of tobramycin that will inhibit the growth of the bacteria being tested.
 The MIC provides an estimate of the susceptibility of bacteria to tobramycin.
-The MIC should be determined using a standardized procedure.3, 5 Standardized procedures are based on a dilution method (broth or agar) or equivalent with standardized inoculum concentrations and standardized concentrations of tobramycin powder.
+The MIC should be determined using a standardized procedure.
+3, 5 Standardized procedures are based on a dilution method (broth or agar) or equivalent with standardized inoculum concentrations and standardized concentrations of tobramycin powder.
 
 Diffusion Techniques
 
 Quantitative methods that require measurement of zone diameters also provide reproducible estimates of the susceptibility of bacteria to antimicrobial compounds.
-One such standardized procedure requires the use of standardized inoculum concentrations.4, 5 This procedure uses paper disks impregnated with 10 mcg of tobramycin to test the susceptibility of bacteria to tobramycin.
+One such standardized procedure requires the use of standardized inoculum concentrations.
+4, 5 This procedure uses paper disks impregnated with 10 mcg of tobramycin to test the susceptibility of bacteria to tobramycin.
 
 Susceptibility Test Interpretive Criteria
 

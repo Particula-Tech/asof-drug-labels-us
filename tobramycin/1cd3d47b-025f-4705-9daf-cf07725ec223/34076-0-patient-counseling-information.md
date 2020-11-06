@@ -5,7 +5,7 @@ Advise the patient to read the FDA-approved patient labeling (Patient Informatio
 Information for Patients
 
 Information on the long term efficacy and safety of BETHKIS is limited.
-There is no information in patients with severe cystic fibrosis (FEV1 < 40% predicted).
+There is no information in patients with severe cystic fibrosis (FEV 1 < 40% predicted).
 
 Patients should be advised to complete a full 28-day course of BETHKIS, even if they are feeling better.
 After 28 days of therapy, patients should stop BETHKIS therapy for the next 28 days, and then resume therapy for the next 28 day on and 28 day off cycle.

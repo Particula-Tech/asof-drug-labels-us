@@ -7,6 +7,7 @@ The recommended dosage of BETHKIS for patients six years of age and older is to 
 The doses should be taken as close to 12 hours apart as possible and not less than 6 hours apart.
 
 The 300 mg/4 mL dose of BETHKIS is the same for patients regardless of age or weight.
+BETHKIS has not been studied in patients less than six years old.The 300 mg/4 mL dose of BETHKIS is the same for patients regardless of age or weight.
 BETHKIS has not been studied in patients less than six years old.
 
 If patients miss a dose, they should take it as soon as possible anytime up to 6 hours prior to their next scheduled dose.

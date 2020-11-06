@@ -2,7 +2,7 @@
 
 BETHKIS is a sterile, clear, colorless to pale yellow, non-pyrogenic, aqueous solution with pH and salinity adjusted.
 BETHKIS is administered by a compressed air driven reusable nebulizer.
-The chemical formula for tobramycin is C18H37N5O9 and the molecular weight is 467.52.
+The chemical formula for tobramycin is C 18H 37N 5O 9 and the molecular weight is 467.52.
 Tobramycin is O-3-amino-3-deoxy-α-D-glucopyranosyl-(1→4)-O-[2,6-diamino- 2,3,6-trideoxy-α-D-ribo-hexopyranosyl-(1→6)]-2-deoxy-L‑streptamine.
 
 The structural formula for tobramycin is:

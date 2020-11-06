@@ -2,7 +2,7 @@
 
 ## Patient Information
 
-BETHKIS®
+BETHKIS ®
 
 (BETH kiss)
 
@@ -16,7 +16,7 @@ BETHKIS contains an antibacterial medicine called tobramycin (an aminoglycoside)
 It is not known if BETHKIS is safe and effective:
 
 - in children under 6 years of age
-- in people who have decreased lung volume or a forced expiratory volume in one second (FEV1) less than 40% or greater than 80% predicted
+- in people who have decreased lung volume or a forced expiratory volume in one second (FEV 1) less than 40% or greater than 80% predicted
 - in people who are colonized with a bacterium called Burkholderia cepacian
 
 Do not take BETHKIS if you are allergic to tobramycin, any of the ingredients in BETHKIS, or to any other aminoglycoside antibacterial.
@@ -146,7 +146,7 @@ This Patient Information has been approved by the U.S. Food and Drug Administrat
 
 ## Instructions for Use
 
-BETHKIS®
+BETHKIS ®
 
 (BETH kiss)
 
@@ -259,7 +259,7 @@ After your BETHKIS Dose:
 
 Step 15: Clean and disinfect your nebulizer (see manufacturer’s instructions).
 
-Care and Use of Your PARI Vios® Compressor
+Care and Use of Your PARI Vios ® Compressor
 
 Follow the manufacturer’s instructions for care and use of your compressor.
 
