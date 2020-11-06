@@ -12,4 +12,4 @@ Voriconazole Tablets 200 mg;
 
 Bottles of 90
 
-NDC 68462-572-90
+NDC 68462-572-9

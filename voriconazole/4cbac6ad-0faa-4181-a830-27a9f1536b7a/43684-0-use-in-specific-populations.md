@@ -62,6 +62,9 @@ Sun avoidance and dermatologic follow-up are recommended in pediatric patients e
 Voriconazole has not been studied in pediatric patients with hepatic or renal impairment [see Dosage and Administration (2.5, 2.6)].
 Hepatic function and serum creatinine levels should be closely monitored in pediatric patients [see Dosage and Administration (2.6) and Warnings and Precautions (5.1, 5.9)].
 
+1. Pediatric use information is approved for Pfizer's VFEND® (voriconazole) tablets.
+   However, due to Pfizer's marketing exclusivity rights, this drug product is not labeled with that pediatric information.
+
 ## 8.5 Geriatric Use
 
 In multiple dose therapeutic trials of voriconazole, 9.2% of patients were ≥ 65 years of age and 1.8% of patients were ≥ 75 years of age.

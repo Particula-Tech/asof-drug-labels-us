@@ -54,10 +54,10 @@ If patient is unable to tolerate 300 mg orally every 12 hours, reduce the oral m
 
 ## 2.4 Recommended Dosing Regimen in Pediatric Patients
 
-The recommended dosing regimen for pediatric patients 2 to less than 12 years of age and 12 to 14 years of age with body weight less than 50 kg is shown in Table 2.
-For pediatric patients 12 to 14 years of age with a body weight greater than or equal to 50 kg and those 15 years of age and above regardless of body weight, administer the adult dosing regimen of voriconazole tablets [seeDosage and Administration (2.3)].
+The recommended dosing regimen for pediatric patients 12 to 14 years of age with body weight less than 50 kg is shown in Table 2.
+For pediatric patients 12 to 14 years of age with a body weight greater than or equal to 50 kg and those 15 years of age and above regardless of body weight, administer the adult dosing regimen of voriconazole tablets [see Dosage and Administration (2.3)].
 
-Table 2: Recommended Dosing Regimen for Pediatric Patients 2 to less than 12 years of age and 12 to 14 years of age with body weight less than 50 kg∧
+Table 2: Recommended Dosing Regimen for Pediatric Patients 12 to 14 years of age with body weight less than 50 kg∧
 
 | Infection | Intravenous infusion | Intravenous infusion | Oral |
 | --- | --- | --- | --- |
@@ -67,7 +67,7 @@ Table 2: Recommended Dosing Regimen for Pediatric Patients 2 to less than 12 yea
 | Scedosporiosis and Fusariosis |  |  |  |
 | Esophageal Candidiasis† | Not Evaluated | 4 mg/kg every 12 hours | 9 mg/kg every 12 hours (maximum dose of 350 mg every 12 hours) |
 
-^ Based on a population pharmacokinetic analysis in 112 immunocompromised pediatric patients aged 2 to less than12 years of age and 26 immunocompromised pediatric patients aged 12 to less than 17 years of age.
+^ Based on a population pharmacokinetic analysis in 26 immunocompromised pediatric patients aged 12 to less than 17 years of age.
 
 * In the Phase 3 clinical trials, patients with IA received intravenous (IV) treatment for at least 6 weeks and up to a maximum of 12 weeks.
 Patients received IV treatment for at least the first 7 days of therapy and then could be switched to oral voriconazole therapy.
@@ -85,21 +85,14 @@ Note that an 8 mg/kg intravenous dose will provide voriconazole exposure approxi
 The oral dose recommendation for children is based on studies in which voriconazole tablets was administered as the powder for oral suspension formulation.
 Bioequivalence between the voriconazole powder for oral suspension and voriconazole tablets has not been investigated in a pediatric population.
 
-Oral bioavailability may be limited in pediatric patients 2 to 12 years with malabsorption and very low body weight for age.
-In that case, intravenous voriconazole administration is recommended.
-
 Method for Adjusting the Dosing Regimen in Pediatric Patients
-
-Pediatric Patients 2 to less than 12 years of age and 12 to 14 years of age with body weight less than 50 kg
-
-If patient response is inadequate and the patient is able to tolerate the initial intravenous maintenance dose, the maintenance dose may be increased by 1 mg/kg steps.
-If patient response is inadequate and the patient is able to tolerate the oral maintenance dose, the dose may be increased by 1 mg/kg steps or 50 mg steps to a maximum of 350 mg every 12 hours.
-If patients are unable to tolerate the initial intravenous maintenance dose, reduce the dose by 1 mg/kg steps.
-If patients are unable to tolerate the oral maintenance dose, reduce the dose by 1 mg/kg or 50 mg steps.
 
 Pediatric patients 12 to 14 years of age weighing greater than or equal to 50 kg and 15 years of age and older regardless of body weight:
 
 Use the optimal method for titrating dosage recommended for adults [see Dosage and Administration (2.3)].
+
+1. Pediatric use information is approved for Pfizer's VFEND® (voriconazole) tablets.
+   However, due to Pfizer's marketing exclusivity rights, this drug product is not labeled with that pediatric information.
 
 ## 2.5 Dosage Modifications in Patients With Hepatic Impairment
 

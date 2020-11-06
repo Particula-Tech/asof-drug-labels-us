@@ -1,6 +1,6 @@
 # 6 ADVERSE REACTIONS
 
-The following serious adverse reactions are described elsewhere in the labeling: Hepatic Toxicity [see Warnings and Precautions (5.1)] Arrhythmias and QT Prolongation [see Warnings and Precautions (5.2)] Infusion Related Reactions [see Warnings and Precautions (5.3)] Visual Disturbances [see Warnings and Precautions (5.4)] Serious Exfoliative Cutaneous Reactions [see Warnings and Precautions (5.5)] Photosensitivity [see Warnings and Precautions (5.6)] Renal Toxicity [see Warnings and Precautions (5.7)]
+The following serious adverse reactions are described elsewhere in the labeling: Hepatic Toxicity [see Warnings and Precautions (5.1)] Arrhythmias and QT Prolongation [see Warnings and Precautions (5.2)] Infusion Related Reactions [see Warnings and Precautions (5.3)] Visual Disturbances [see Warnings and Precautions (5.4)] Severe Cutaneous Adverse Reactions [see Warnings and Precautions (5.5)] Photosensitivity [see Warnings and Precautions (5.6)] Renal Toxicity [see Warnings and Precautions (5.7)]
 
 ## 6.1 Clinical Trials Experience
 
@@ -83,7 +83,8 @@ These effects were noted early in administration of voriconazole and continued t
 Fourteen days after end of dosing, ERG, visual fields and color perception returned to normal [see Warnings and Precautions (5.4)].
 Dermatological Reactions Dermatological reactions were common in the patients treated with voriconazole.
 The mechanism underlying these dermatologic adverse events remains unknown.
-Serious cutaneous reactions, including Stevens-Johnson syndrome, toxic epidermal necrolysis and erythema multiforme have been reported during treatment with voriconazole [see Warnings and Precautions (5.5)].
+Severe cutaneous adverse reactions (SCARs), including Stevens-Johnson syndrome (SJS), toxic epidermal necrolysis (TEN), and drug reaction with eosinophilia and systemic symptoms (DRESS) have been reported during treatment with voriconazole.
+Erythema multiforme has also been reported during treatment with voriconazole [see Warnings and Precautions (5.5) and Adverse Reactions (6.2)].
 
 Voriconazole has also been associated with additional photosensitivity related skin reactions such as pseudoporphyria, cheilitis, and cutaneous lupus erythematosus [see Warnings and Precautions (5.6)].
 Less Common Adverse Reactions The following adverse reactions occurred in < 2% of all voriconazole-treated patients in all therapeutic studies (N=1655).
@@ -271,6 +272,9 @@ Table 9: Incidence of Hepatic Abnormalities among Pediatric Subjects
 | Alkaline Phosphatase | >3× ULN | 8/97 (8) |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 | n = number of patients with a clinically significant abnormality while on study therapy N = total number of patients with at least one observation of the given lab test while on study therapy AST = Aspartate aminotransferase; ALT = alanine aminotransferase ULN = upper limit of normal |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
+1. Pediatric use information is approved for Pfizer's VFEND® (voriconazole) tablets.
+   However, due to Pfizer's marketing exclusivity rights, this drug product is not labeled with that pediatric information.
+
 ## 6.2 Postmarketing Experience in Adult and Pediatric Patients
 
 The following adverse reactions have been identified during post-approval use of Voriconazole.
@@ -278,5 +282,7 @@ Because these reactions are reported voluntarily from a population of uncertain 
 
 Adults Skeletal: fluorosis and periostitis have been reported during long-term voriconazole therapy [see Warnings and Precautions (5.11)].
 Eye disorders: prolonged visual adverse reactions, including optic neuritis and papilledema [see Warnings and Precautions (5.4)].
+
+Skin and Appendages: drug reaction with eosinophilia and systemic symptoms (DRESS) has been reported [see Warnings and Precautions (5.5) and Adverse Reactions (6.1)].
 
 Pediatric Patients There have been postmarketing reports of pancreatitis in pediatric patients.

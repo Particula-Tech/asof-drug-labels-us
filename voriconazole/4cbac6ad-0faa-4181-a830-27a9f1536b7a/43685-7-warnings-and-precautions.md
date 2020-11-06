@@ -7,12 +7,15 @@ Instances of hepatic reactions were noted to occur primarily in patients with se
 Hepatic reactions, including hepatitis and jaundice, have occurred among patients with no other identifiable risk factors.
 Liver dysfunction has usually been reversible on discontinuation of therapy [see Adverse Reactions (6.1)].
 
-A higher frequency of liver enzyme elevations was observed in the pediatric population [seeAdverse Reactions (6.1)].
+A higher frequency of liver enzyme elevations was observed in the pediatric population [see Adverse Reactions (6.1)].
 Hepaticfunction should be monitored in both adult and pediatric patients.
 
 Measure serum transaminase levels and bilirubin at the initiation of voriconazole therapy and monitor at least weekly for the first month of treatment.
 Monitoring frequency can be reduced to monthly during continued use if no clinically significant changes are noted.
 If liver function tests become markedly elevated compared to baseline, voriconazole tablets should be discontinued unless the medical judgment of the benefit/risk of the treatment for the patient justifies continued use [see Dosage and Administration (2.5) and Adverse Reactions (6.1)]
+
+1. Pediatric use information is approved for Pfizer's VFEND® (voriconazole) tablets.
+   However, due to Pfizer's marketing exclusivity rights, this drug product is not labeled with that pediatric information.
 
 ## 5.2 Arrhythmias and QT Prolongation
 
@@ -30,22 +33,16 @@ Voriconazole should be administered with caution to patients with potentially pr
 
 Rigorous attempts to correct potassium, magnesium and calcium should be made before starting and during voriconazole therapy [see Clinical Pharmacology (12.3)].
 
-## 5.3 Infusion Related Reactions
-
-During infusion of the intravenous formulation of voriconazole in healthy subjects, anaphylactoid-type reactions, including flushing, fever, sweating, tachycardia, chest tightness, dyspnea, faintness, nausea, pruritus and rash, have occurred uncommonly.
-Symptoms appeared immediately upon initiating the infusion.
-Consideration should be given to stopping the infusion should these reactions occur.
-
 ## 5.4 Visual Disturbances
 
 The effect of voriconazole on visual function is not known if treatment continues beyond 28 days.
 There have been post-marketing reports of prolonged visual adverse events, including optic neuritis and papilledema.
 If treatment continues beyond 28 days, visual function including visual acuity, visual field, and color perception should be monitored [see Adverse Reactions (6.2)].
 
-## 5.5 Serious Exfoliative Cutaneous Reactions
+## 5.5 Severe Cutaneous Adverse Reactions
 
-Serious exfoliative cutaneous reactions, such as Stevens-Johnson syndrome, have been reported during treatment with voriconazole.
-If a patient develops an exfoliative cutaneous reaction, voriconazole should be discontinued.
+Severe cutaneous adverse reactions (SCARs), such as Stevens-Johnson syndrome (SJS), toxic epidermal necrolysis (TEN), and drug reaction with eosinophilia and systemic symptoms (DRESS), which can be life-threatening or fatal, have been reported during treatment with voriconazole.
+If a patient develops a severe cutaneous adverse reaction, voriconazole should be discontinued.
 
 ## 5.6 Photosensitivity
 

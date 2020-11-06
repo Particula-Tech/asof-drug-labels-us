@@ -200,13 +200,19 @@ Trademarks are the property of their respective owners.
 
 Manufactured by:
 
-Glenmark Pharmaceuticals Ltd. Plot No. 2, Phase-2, Pharma Zone SEZ, Pithampur, Dist.-Dhar, Madhya Pradesh 454 775, India
+Glenmark Pharmaceuticals Limited Pithampur, Madhya Pradesh 454 775, India
 
 Manufactured for:
 
 Glenmark Pharmaceuticals Inc., USA Mahwah, NJ 07430
 
 Questions?
-1 (888)721-7115 www.glenmarkpharma.com/usa
+1 (888) 721-7115
 
-April 2019 This Patient Information has been approved by the U.S. Food and Drug Administration.
+www.glenmarkpharma-us.com
+
+Product of India
+
+October 2020
+
+This Patient Information has been approved by the U.S. Food and Drug Administration.
