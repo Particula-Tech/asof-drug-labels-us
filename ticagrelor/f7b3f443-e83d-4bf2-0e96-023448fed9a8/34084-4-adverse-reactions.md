@@ -9,7 +9,7 @@ The following adverse reactions are also discussed elsewhere in the labeling:
 
 Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in practice.
 
-BRILINTA has been evaluated for safety in more than 32,000 patients.
+BRILINTA has been evaluated for safety in more than 58,000 patients.
 
 Bleeding in PLATO (Reduction in risk of thrombotic events in ACS)
 
@@ -50,13 +50,13 @@ T Ticagrelor; C Clopidogrel.
 
 Table 2 - CABG-related bleeding (PLATO)
 
-|  | BRILINTA90 mg BIDN=770 | ClopidogrelN=814 |
-| --- | --- | --- |
-|  | n (%) patientswith event | n (%) patientswith event |
-| PLATO Total Major | 626 (81.3) | 666 (81.8) |
-| Fatal/Life-threatening | 337 (43.8) | 350 (43.0) |
-| Fatal | 6 (0.8) | 7 (0.9) |
-| PLATO Major bleed: any one of the following: fatal; intracranial; intrapericardial with cardiac tamponade; hypovolemic shock or severe hypotension requiring intervention; significantly disabling (e.g., intraocular with permanent vision loss); associated with a decrease in Hb of at least 3 g/dL (or a fall in hematocrit (Hct) of at least 9%); transfusion of 2 or more units.PLATO Major bleed, fatal/life-threatening: any major bleed as described above and associated with a decrease in Hb of more than 5 g/dL (or a fall in hematocrit (Hct) of at least 15%); transfusion of 4 or more units. |  |  |
+|  | BRILINTA90 mg BIDN=770 | ClopidogrelN=814 |  |
+| --- | --- | --- | --- |
+|  | n (%) patientswith event | n (%) patientswith event |  |
+| PLATO Total Major | 626 (81.3) | 666 (81.8) |  |
+| Fatal/Life-threatening | 337 (43.8) | 350 (43.0) |  |
+| Fatal | 6 (0.8) | 7 (0.9) |  |
+| PLATO Major bleed: any one of the following: fatal; intracranial; intrapericardial with cardiac tamponade; hypovolemic shock or severe hypotension requiring intervention; significantly disabling (e.g., intraocular with permanent vision loss); associated with a decrease in Hb of at least 3 g/dL (or a fall in hematocrit (Hct) of at least 9%); transfusion of 2 or more units.PLATO Major bleed, fatal/life-threatening: any major bleed as described above and associated with a decrease in Hb of more than 5 g/dL (or a fall in hematocrit (Hct) of at least 15%); transfusion of 4 or more units. |  |  |  |
 
 When antiplatelet therapy was stopped 5 days before CABG, major bleeding occurred in 75% of BRILINTA treated patients and 79% on clopidogrel.
 
@@ -78,9 +78,9 @@ Overall outcome of bleeding events in the PEGASUS study are shown in Table 4.
 
 Table 4 - Bleeding events (PEGASUS)
 
-| Events / 1000 patient years | Events / 1000 patient years |  |
+|  | BRILINTA60 mg BIDN=6958 | PlaceboN=6996 |
 | --- | --- | --- |
-|  | BRILINTA60 mg BID N=6958 | Placebo N=6996 |
+|  | Events / 1000 patient years | Events / 1000 patient years |
 | TIMI Major | 8 | 3 |
 | Fatal | 1 | 1 |
 | Intracranial hemorrhage | 2 | 1 |
@@ -105,15 +105,15 @@ Bleeding in THEMIS (Prevention of major CV events in patients with CAD and Type 
 
 The Kaplan-Meier curve of time to first TIMI Major bleeding event is presented in Figure 3.
 
-Figure 3 - Time to first TIMI Major bleeding event (THEMIS)
+Figure 3 – Time to first TIMI Major bleeding event (THEMIS)
 
 T = Ticagrelor; P = Placebo; N = Number of patients
 
 The bleeding events in THEMIS are shown below in Table 6.
 
-Table 6 - Bleeding events (THEMIS)
+Table 6 – Bleeding events (THEMIS)
 
-|  | Events / 1000 patient years | Events / 1000 patient years |
+| Events / 1000 patient years | Events / 1000 patient years |  |
 | --- | --- | --- |
 |  | BRILINTA N=9562 | Placebo N=9531 |
 | TIMI Major | 9 | 4 |
@@ -122,10 +122,23 @@ Table 6 - Bleeding events (THEMIS)
 | Fatal bleeding | 1 | 0 |
 | Intracranial hemorrhage | 3 | 2 |
 
+Bleeding in THALES (Reduction in risk of stroke in patients with acute ischemic stroke or TIA)
+
+The Kaplan-Meier curve of time course of GUSTO severe bleeding events is presented in Figure 4.
+
+Figure 4 – Time course of GUSTO severe bleeding events
+
+KM%: Kaplan-Meier percentage evaluated at Day 30; T = Ticagrelor; P = placebo; N = Number of patients
+
+GUSTO Severe: Any one of the following: fatal bleeding, intracranial bleeding (excluding asymptomatic hemorrhagic transformations of ischemic brain infarctions and excluding microhemorrhages < 10 mm evident only on gradient-echo magnetic resonance imaging), bleeding that caused hemodynamic compromise requiring intervention (eg, systolic blood pressure <90 mmg Hg that required blood or fluid replacement, or vasopressor/inotropic support, or surgical intervention).
+
+Intracranial bleeding and fatal bleeding in THALES: In total, there were 21 intracranial hemorrhages (ICHs) for BRILINTA and 6 ICHs for placebo.
+Fatal bleedings, almost all ICH, occurred in 11 for BRILINTA and in 2 for placebo.
+
 Bradycardia
 
 In a Holter substudy of about 3000 patients in PLATO, more patients had ventricular pauses with BRILINTA (6.0%) than with clopidogrel (3.5%) in the acute phase; rates were 2.2% and 1.6%, respectively, after 1 month.
-PLATO, PEGASUS and THEMIS excluded patients at increased risk of bradycardic events (e.g., patients who have sick sinus syndrome, 2nd or 3rd degree AV block, or bradycardic-related syncope and not protected with a pacemaker).
+PLATO, PEGASUS, THEMIS and THALES excluded patients at increased risk of bradycardic events (e.g., patients who have sick sinus syndrome, 2nd or 3rd degree AV block, or bradycardic-related syncope and not protected with a pacemaker).
 
 Lab abnormalities
 

@@ -14,5 +14,5 @@ The active O-demethylated metabolite did not demonstrate genotoxicity in the Ame
 
 Impairment of Fertility
 
-Ticagrelor had no effect on male fertility at doses up to 180 mg/kg/day or on female fertility at doses up to 200 mg/kg/day (>15‑fold the MRHD on the basis of AUC).
-Doses of ≥10 mg/kg/day given to female rats caused an increased incidence of irregular duration estrus cycles (1.5‑fold the MRHD based on AUC).
+Ticagrelor had no effect on male fertility at doses up to 180 mg/kg/day or on female fertility at doses up to 200 mg/kg/day (>15-fold the MRHD on the basis of AUC).
+Doses of ≥10 mg/kg/day given to female rats caused an increased incidence of irregular duration estrus cycles (1.5-fold the MRHD based on AUC).
