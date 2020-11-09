@@ -14,7 +14,11 @@ NDC 0009-0870-26 Contains 25 of NDC 0009-0870-21
 
 25—2 mL Single Dose Vials
 
-Cleocin Phosphate® clindamycin injection, USP 300 mg/2 mL* (150 mg/mL)
+Cleocin Phosphate® clindamycin injection, USP
+
+300 mg/2 mL*
+
+(150 mg/mL)
 
 For intramuscular or intravenous use
 
@@ -38,7 +42,11 @@ NDC 0009-0775-26 Contains 25 of NDC 0009-0775-20
 
 25—4 mL Single Dose Vials
 
-Cleocin Phosphate® clindamycin injection, USP 600 mg/4 mL* (150 mg/mL)
+Cleocin Phosphate® clindamycin injection, USP
+
+600 mg/4 mL*
+
+(150 mg/mL)
 
 For intramuscular or intravenous use
 
@@ -62,7 +70,11 @@ NDC 0009-0902-18 Contains 25 of NDC 0009-0902-11
 
 25—6 mL Single Dose Vials
 
-Cleocin Phosphate® clindamycin injection, USP 900 mg/6 mL* (150 mg/mL)
+Cleocin Phosphate® clindamycin injection, USP
+
+900 mg/6 mL*
+
+(150 mg/mL)
 
 For intramuscular or intravenous use
 
@@ -92,11 +104,17 @@ NDC 0009-0728-09 Contains 5 of NDC 0009-0728-05
 
 5—60 mL Pharmacy Bulk Packages
 
-Cleocin Phosphate® clindamycin injection, USP 9,000 mg/60 mL* (150 mg/mL)
+Cleocin Phosphate® clindamycin injection, USP
+
+9,000 mg/60 mL*
+
+(150 mg/mL)
 
 For intramuscular or intravenous use Not for direct infusion
 
-Pfizer Injectables Rx only
+Pfizer Injectables
+
+Rx only
 
 # PRINCIPAL DISPLAY PANEL - 600 mg/4 mL Vial Label
 
@@ -120,11 +138,17 @@ Rx only
 
 NDC 0009-3124-03 Contains 25 of NDC 0009-3124-01
 
-Cleocin Phosphate® clindamycin injection, USP 600 mg/4 mL* (150 mg/mL)
+Cleocin Phosphate® clindamycin injection, USP
+
+600 mg/4 mL*
+
+(150 mg/mL)
 
 For intravenous use only
 
-Pfizer Injectables Rx only
+Pfizer Injectables
+
+Rx only
 
 # PRINCIPAL DISPLAY PANEL - 900 mg/6 mL Vial Label
 
@@ -148,11 +172,17 @@ Rx only
 
 NDC 0009-3447-03 Contains 25 of NDC 0009-3447-01
 
-Cleocin Phosphate® clindamycin injection, USP 900 mg/6 mL* (150 mg/mL)
+Cleocin Phosphate® clindamycin injection, USP
+
+900 mg/6 mL*
+
+(150 mg/mL)
 
 For intravenous use only
 
-Pfizer Injectables Rx only
+Pfizer Injectables
+
+Rx only
 
 # PRINCIPAL DISPLAY PANEL - 300 mg/ 50 mL Container Label
 
@@ -302,8 +332,14 @@ Rx only
 
 NDC 0009-6582-01 Contains 25 of NDC 0009-6582-02
 
-Cleocin Phosphate® clindamycin injection, USP 300 mg/2 mL* (150 mg/mL)
+Cleocin Phosphate® clindamycin injection, USP
+
+300 mg/2 mL*
+
+(150 mg/mL)
 
 For intravenous use only
 
-Pfizer Injectables Rx only
+Pfizer Injectables
+
+Rx only
