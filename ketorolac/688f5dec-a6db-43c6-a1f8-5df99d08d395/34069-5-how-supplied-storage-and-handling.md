@@ -13,9 +13,7 @@ PROTECT FROM LIGHT AND EXCESSIVE HUMIDITY.
 
 KEEP THIS AND ALL MEDICATIONS OUT OF THE REACH OF CHILDREN.
 
-Distributed By:
-
-Teva Pharmaceuticals USA, Inc. North Wales, PA 19454
+Distributed By: Teva Pharmaceuticals USA, Inc. North Wales, PA 19454
 
 Rev.
-K 7/2015
+L 10/2020

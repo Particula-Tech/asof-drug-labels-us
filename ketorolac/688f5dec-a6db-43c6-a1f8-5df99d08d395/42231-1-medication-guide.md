@@ -32,7 +32,7 @@
 | have liver or kidney problems |  |
 | have high blood pressure |  |
 | have asthma |  |
-| are pregnant or plan to become pregnant. Talk to your healthcare provider if you are considering taking NSAIDs during pregnancy. You should not take NSAIDs after 29 weeks of pregnancy. |  |
+| are pregnant or plan to become pregnant. Taking NSAIDs at about 20 weeks of pregnancy or later may harm your unborn baby. If you need to take NSAIDs for more than 2 days when you are between 20 and 30 weeks of pregnancy, your healthcare provider may need to monitor the amount of fluid in your womb around your baby. You should not take NSAIDs after about 30 weeks of pregnancy. |  |
 | are breastfeeding or plan to breast feed. |  |
 | Tell your healthcare provider about all of the medicines you take, including prescription or over-the-counter medicines, vitamins or herbal supplements. NSAIDs and some other medicines can interact with each other and cause serious side effects. Do not start taking any new medicine without talking to your healthcare provider first. |  |
 | What are the possible side effects of NSAIDs? |  |
@@ -64,6 +64,9 @@
 | General information about the safe and effective use of NSAIDs |  |
 | Medicines are sometimes prescribed for purposes other than those listed in a Medication Guide. Do not use NSAIDs for a condition for which it was not prescribed. Do not give NSAIDs to other people, even if they have the same symptoms that you have. It may harm them. |  |
 | If you would like more information about NSAIDs, talk with your healthcare provider. You can ask your pharmacist or healthcare provider for information about NSAIDs that is written for health professionals. |  |
-| This Medication Guide has been approved by the U.S. Food and Drug Administration. Revised July 2015 |  |
+| This Medication Guide has been approved by the U.S. Food and Drug Administration. |  |
 
 Distributed By: Teva Pharmaceuticals USA, Inc. North Wales, PA 19454
+
+Rev.
+A 10/2020
