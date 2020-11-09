@@ -25,8 +25,8 @@ In moderate to severe cases, consideration should be given to management with fl
 Penicillin should be used with caution in individuals with histories of significant allergies and/or asthma (see WARNINGS).
 Whenever allergic reactions occur, penicillin should be withdrawn unless, in the opinion of the physician, the condition being treated is lifethreatening and amenable only to penicillin therapy.
 
-Buffered Penicillin G Potassium for Injection, USP by the intravenous route in high doses (above 10 million units) should be administered slowly because of the potential adverse effects of electrolyte imbalance from the potassium content of the penicillin.
-Buffered Penicillin G Potassium for Injection, USP contains approximately 6.8 milligrams of sodium (0.3 mEq) and 65.6 milligrams of potassium (1.68 mEq) per million units of penicillin G.
+Buffered penicillin G potassium for injection by the intravenous route in high doses (above 10 million units) should be administered slowly because of the potential adverse effects of electrolyte imbalance from the potassium content of the penicillin.
+Buffered penicillin G potassium for injection contains approximately 6.8 milligrams of sodium (0.3 mEq) and 65.6 milligrams of potassium (1.68 mEq) per million units of penicillin G.
 
 The use of antibiotics may promote overgrowth of nonsusceptible organisms, including fungi.
 Indwelling intravenous catheters encourage superinfections.
@@ -34,7 +34,7 @@ Should superinfection occur, appropriate measures should be taken.
 
 When indicated, incision and drainage or other surgical procedures should be performed in conjunction with antibiotic therapy.
 
-Prescribing Penicillin G Potassium in the absence of a proven or strongly suspected bacterial infection or a prophylactic indication is unlikely to provide benefit to the patient and increases the risk of the development of drug-resistant bacteria.
+Prescribing penicillin G potassium in the absence of a proven or strongly suspected bacterial infection or a prophylactic indication is unlikely to provide benefit to the patient and increases the risk of the development of drug-resistant bacteria.
 
 ## Laboratory Tests
 
@@ -48,7 +48,7 @@ All infections due to Group A beta-hemolytic streptococci should be treated for 
 Patients being treated for gonococcal infection should have a serologic test for syphilis before receiving penicillin.
 All cases of penicillin treated syphilis should receive adequate follow-up including clinical and serological examinations.
 The recommended follow-up varies with the stage of syphilis being treated.
-See CDC recommendations.4
+See CDC recommendations.1
 
 ## Drug Interactions
 
@@ -57,7 +57,7 @@ This has been documented in vitro, however, the clinical significance of this in
 
 Penicillin blood levels may be prolonged by concurrent administration of probenecid which blocks the renal tubular secretion of penicillins.
 
-Other drugs may compete with Penicillin G for renal tubular secretion and thus prolong the serum half-life of penicillin.
+Other drugs may compete with penicillin G for renal tubular secretion and thus prolong the serum half-life of penicillin.
 These drugs include: aspirin, phenylbutazone, sulfonamides, indomethacin, thiazide diuretics, furosemide and ethacrynic acid.
 
 ## Drug/Laboratory Test Interactions
@@ -72,9 +72,7 @@ No long-term animal studies have been conducted with this drug.
 
 ## Pregnancy
 
-### Teratogenic Effects
-
-#### Pregnancy Category B
+Teratogenic Effects
 
 Reproduction studies performed in the mouse, rat, and rabbit have revealed no evidence of impaired fertility or harm to the fetus due to penicillin G. Human experience with the penicillins during pregnancy has not shown any positive evidence of adverse effects on the fetus.
 There are, however, no adequate and well controlled studies in pregnant women showing conclusively that harmful effects of these drugs on the fetus can be excluded.
@@ -95,7 +93,7 @@ Recommended guidelines for pediatric dosages are presented in DOSAGE AND ADMINIS
 
 The potential for toxic effects in children from chemicals that may leach from the single dose premixed intravenous preparation in plastic containers has not been evaluated.
 
-Patients should be counseled that antibacterial drugs including Penicillin G Potassium should only be used to treat bacterial infections.
+Patients should be counseled that antibacterial drugs including penicillin G potassium should only be used to treat bacterial infections.
 They do not treat viral infections (e.g., the common cold).
-When Penicillin G Potassium is prescribed to treat a bacterial infection, patients should be told that although it is common to feel better early in the course of therapy, the medication should be taken exactly as directed.
-Skipping doses or not completing the full course of therapy may: (1) decrease the effectiveness of the immediate treatment, and (2) increase the likelihood that bacteria will develop resistance and will not be treatable by Penicillin G Potassium or other antibacterial drugs in the future.
+When penicillin G potassium is prescribed to treat a bacterial infection, patients should be told that although it is common to feel better early in the course of therapy, the medication should be taken exactly as directed.
+Skipping doses or not completing the full course of therapy may: (1) decrease the effectiveness of the immediate treatment, and (2) increase the likelihood that bacteria will develop resistance and will not be treatable by penicillin G potassium or other antibacterial drugs in the future.

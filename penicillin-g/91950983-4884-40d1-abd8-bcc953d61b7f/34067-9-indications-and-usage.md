@@ -2,12 +2,12 @@
 
 ## Therapy
 
-Buffered Penicillin G Potassium for Injection, USP is indicated in the treatment of serious infections caused by susceptible strains of the designated microorganisms in the conditions listed below.
-Appropriate culture and susceptibility tests should be done before treatment in order to isolate and identify organisms causing infection and to determine their susceptibility to penicillin G. Therapy with Buffered Penicillin G Potassium for Injection, USP may be initiated before results of such tests are known when there is reason to believe the infection may involve any of the organisms listed below, however, once these results become available, appropriate therapy should be continued.
+Buffered penicillin G potassium for injection is indicated in the treatment of serious infections caused by susceptible strains of the designated microorganisms in the conditions listed below.
+Appropriate culture and susceptibility tests should be done before treatment in order to isolate and identify organisms causing infection and to determine their susceptibility to penicillin G. Therapy with Buffered penicillin G potassium for injection may be initiated before results of such tests are known when there is reason to believe the infection may involve any of the organisms listed below, however, once these results become available, appropriate therapy should be continued.
 
 | CLINICAL INDICATION | INFECTING ORGANISM |
 | --- | --- |
-| Septicemia, empyema, pneumonia, pericarditis, endocarditis, meningitis | Streptococcus pyogenes (group A β-hemolytic streptococcus), other β-hemolytic streptococci including groups C, H, G, L and M, Streptococcus pneumoniae and Staphylococcus species (non-penicillinase producing strains) |
+| Septicemia, empyema, pneumonia, pericarditis, endocarditis, meningitis | Streptococcus pyogenes (group A beta-hemolytic streptococcus), other beta-hemolytic streptococci including groups C, H, G, L and M, Streptococcus pneumoniae and Staphylococcus species (non-penicillinase producing strains) |
 | Anthrax | Bacillus anthracis |
 | Actinomycosis (cervicofacial disease and thoracic and abdominal disease) | Actinomyces Israelil |
 | Botulism (adjunctive therapy to antitoxin), gas gangrene, and tetanus (adjunctive therapy to human tetanus immune globulin) | Clostridium species |
@@ -23,6 +23,6 @@ Appropriate culture and susceptibility tests should be done before treatment in 
 | Meningococcal meningitis and/or septicemia | Neisseria meningitidis |
 | Gram-negative bacillary infections (bacteremias) | Escherichia coli, Enterobacter aerogenes, Alcaligenes faecalis, salmonella, shigella and Proteus mirabilis, Penicillin G is not the drug of choice in the treatment of gram-negative bacillary infections. |
 
-To reduce the development of drug-resistant bacteria and maintain the effectiveness of Penicillin G Potassium and other antibacterial drugs, Penicillin G Potassium should be used only to treat or prevent infections that are proven or strongly suspected to be caused by susceptible bacteria.
+To reduce the development of drug-resistant bacteria and maintain the effectiveness of penicillin G potassium and other antibacterial drugs, penicillin G potassium should be used only to treat or prevent infections that are proven or strongly suspected to be caused by susceptible bacteria.
 When culture and susceptibility information are available, they should be considered in selecting or modifying antibacterial therapy.
 In the absence of such data, local epidemiology and susceptibility patterns may contribute to the empiric selection of therapy.

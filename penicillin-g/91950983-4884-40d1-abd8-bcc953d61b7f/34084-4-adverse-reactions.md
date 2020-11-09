@@ -35,7 +35,7 @@ Reactions include neutropenia, which resolves after penicillin therapy is discon
 
 ## Metabolic
 
-Buffered Penicillin G Potassium for Injection, USP (1 million units contains 0.3 mEq of sodium and 1.68 mEq of potassium) may cause serious and even fatal electrolyte disturbances, i.e., hyperkalemia, when given intravenously in large doses.
+Buffered penicillin G potassium for injection (1 million units contains 0.3 mEq of sodium and 1.68 mEq of potassium) may cause serious and even fatal electrolyte disturbances, i.e., hyperkalemia, when given intravenously in large doses.
 
 ## Nervous system
 

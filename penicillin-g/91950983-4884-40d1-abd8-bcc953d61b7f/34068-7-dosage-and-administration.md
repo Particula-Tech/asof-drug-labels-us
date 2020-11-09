@@ -1,6 +1,6 @@
 # DOSAGE AND ADMINISTRATION
 
-Buffered Penicillin G Potassium for Injection, USP may be given intravenously or intramuscularly.
+Buffered penicillin G potassium for injection may be given intravenously or intramuscularly.
 The usual dose recommendations are as follows:
 
 | CLINICAL INDICATION | DOSAGE |
@@ -8,7 +8,7 @@ The usual dose recommendations are as follows:
 | Serious infections due to susceptible strains of streptococci (including S. pneumoniae) and staphylococci-septicemia, empyema, pneumonia, pericarditis, endocarditis and meningitis | 5 to 24 million units/day depending on the infection and its severity administered in equally divided doses every 4 to 6 hours |
 | Anthrax | Minimum of 8 million units/day in divided doses every 6 hours. Higher doses may be required depending on susceptibility of organism. |
 | Actinomycosis |  |
-| Cervicofacial disease | 1 to 6 million units/dayBecause of its short half-life, Penicillin G is administered in divided doses, usually every 4 to 6 hours with the exception of meningococcal meningitis/septicemia, i.e., every 2 hours. |
+| Cervicofacial disease | 1 to 6 million units/day |
 | Thoracic and abdominal disease | 10 to 20 million units/day |
 | Clostridial infections |  |
 | Botulism (adjunctive therapy to antitoxin) | 20 million units/day |
@@ -23,13 +23,14 @@ The usual dose recommendations are as follows:
 | Pasteurella infections including bacteremia and meningitis | 4 to 6 million units/day for 2 weeks |
 | Haverhill fever, Rat-bite fever | 12 to 20 million units/day for 3 to 4 weeks |
 | Disseminated gonococcal infections, such as meningitis endocarditis, arthritis, etc., caused by penicillin-susceptible organisms | 10 million units/day; duration depends on the type of infection |
-| Syphilis (neurosyphilis) | 12 to 24 million units/day, as 2 to 4 MU every 4 hours for 10 to 14 days; many experts recommend additional therapy with Benzathine PCN G 2.4 MU IM weekly for 3 doses after completion of IV therapy |
+| Syphilis (neurosyphilis) | 12 to 24 million units/day, as 2 to 4 MU every 4 hours for 10 to 14 days; many experts recommend additional therapy with Benzathine PCN G 2.4 MU intramuscular weekly for 3 doses after completion of intravenous therapy |
 | Meningococcal meningitis and/or septicemia | 24 million units/day as 2 million units every 2 hours |
+
+* Because of its short half-life, penicillin G is administered in divided doses, usually every 4 to 6 hours with the exception of meningococcal meningitis/septicemia, i.e., every 2 hours.
 
 ## Pediatric patients
 
-This product should not be administered to patients requiring less than one million units per dose.
-(see PRECAUTIONS – Pediatric Use).
+This product should not be administered to patients requiring less than one million units per dose (see PRECAUTIONS – Pediatric Use).
 
 | CLINICAL INDICATION | DOSAGE |
 | --- | --- |
@@ -55,7 +56,7 @@ Uremic patients with a creatinine clearance greater than 10 mL/min/1.73m2; admin
 Additional dosage modifications should be made in patients with hepatic disease and renal impairment.
 
 For most acute infections, treatment should be continued for at least 48 to 72 hours after the patient becomes asymptomatic.
-Antibiotic therapy for Group A β-hemolytic streptococcal infections should be maintained for at least 10 days to reduce the risk of rheumatic fever.
+Antibiotic therapy for Group A beta-hemolytic streptococcal infections should be maintained for at least 10 days to reduce the risk of rheumatic fever.
 
 Parenteral drug products should be inspected visually for particulate matter and discoloration prior to administration whenever solution and container permit.
 
@@ -74,20 +75,20 @@ The following table shows the amount of solvent required for solution of various
 
 | Approx. Desired Concentration (units/mL) | Approx. Volume for 1,000,000 units (mL) | Solvent for Vial of 5,000,000 units (mL) | Infusion Only 20,000,000 units (mL) |
 | --- | --- | --- | --- |
-| 100,000 | 9.8 | -- | -- |
+| 100,000 | 9.8 | - | - |
 | 250,000 | 3.8 | 18 | 72 |
 | 500,000 | 1.8 | 8 | 31.5 |
-| 750,000 | -- | 4.7 | -- |
-| 1,000,000 | -- | 3 | 11.5 |
+| 750,000 | - | 4.7 | - |
+| 1,000,000 | - | 3 | 11.5 |
 
 When the required volume of solvent is greater than the capacity of the vial, the penicillin can be dissolved by first injecting only a portion of the solvent into the vial, then withdrawing the resultant solution and combining it with the remainder of the solvent in a larger sterile container.
 
-Penicillin G Potassium for Injection, USP is highly water soluble.
+Penicillin G potassium for injection is highly water soluble.
 It may be dissolved in small amounts of Water for Injection, or Sterile Isotonic Sodium Chloride Solution for Parenteral Use.
 All solutions should be stored in a refrigerator.
 When refrigerated, penicillin solutions may be stored for seven days without significant loss of potency.
 
-Buffered Penicillin G Potassium for Injection may be given intramuscularly or by continuous intravenous drip for dosages of 500,000, 1,000,000 or 5,000,000 units.
+Buffered penicillin G potassium for injection may be given intramuscularly or by continuous intravenous drip for dosages of 500,000, 1,000,000 or 5,000,000 units.
 It is also suitable for intrapleural, intraarticular, and other local installations.
 
 THE 20,000,000 UNIT (20 MILLION UNIT) DOSAGE MAY BE ADMINISTERED BY INTRAVENOUS INFUSION ONLY.

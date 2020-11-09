@@ -1,12 +1,17 @@
 # REFERENCES
 
-1. 1.National Committee for Clinical Laboratory Standards, Performance Standards for Antimicrobial Disk Susceptibility Tests – Fourth Edition.
-   Tentative Standard NCCLS Document M2-T4, Vol. 8, No. 7, NCCLS, Villanova, PA, 1988.
-2. 2.National Committee for Clinical Laboratory Standards, Methods for Dilution Antimicrobial Susceptibility Tests for Bacteria that Grow Aerobically – Second Edition.
-   Tentative Standard NCCLS Document M7-T2, Vol. 8, No. 8.
-   NCCLS, Villanova, PA, 1988.
-3. 3.National Committee for Clinical Laboratory Standards, Methods for Antimicrobial Susceptibility Testing of Anaerobic Bacteria – Second Edition.
-   Tentative Standard NCCLS Document M11-T2, Villanova, PA, 1988 (or current M11-A2).
-4. 4.1989 Sexually transmitted diseases treatment guidelines.
+1. 1.1989 Sexually transmitted diseases treatment guidelines.
    MMWR 38(S-8); 5-14, Sept.
    1, 1989.
+
+Clinitest® is a registered trademark of Miles, Inc.
+
+Clinistix® is a registered trademark of Bayer Corporation.
+
+Revised: September 2020
+
+46276384
+
+46276385
+
+Manufactured by Sandoz GmbH for Sandoz Inc., Princeton, NJ 08540
