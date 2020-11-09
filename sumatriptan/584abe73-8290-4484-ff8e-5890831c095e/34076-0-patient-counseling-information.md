@@ -38,12 +38,12 @@ Ability to Perform Complex Tasks
 
 Treatment with IMITREX tablets may cause somnolence and dizziness; instruct patients to evaluate their ability to perform complex tasks after administration of IMITREX tablets.
 
-Trademark is owned by or licensed to the GSK group of companies.
+Trademarks are owned by or licensed to the GSK group of companies.
 
 GlaxoSmithKline
 
 Research Triangle Park, NC 27709
 
-©2017 GSK group of companies or its licensor.
+©2020 GSK group of companies or its licensor.
 
-IMT:5PI
+IMT:6PI

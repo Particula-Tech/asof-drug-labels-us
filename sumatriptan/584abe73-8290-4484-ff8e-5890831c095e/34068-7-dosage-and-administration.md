@@ -11,7 +11,7 @@ The maximum daily dose is 200 mg in a 24-hour period.
 
 Use after IMITREX Injection
 
-If the migraine returns following an initial treatment with IMITREX (sumatriptan succinate) injection, additional single IMITREX tablets (up to 100 mg/day) may be given with an interval of at least 2 hours between tablet doses.
+If the migraine returns following an initial treatment with IMITREX (sumatriptan) injection, additional single IMITREX tablets (up to 100 mg/day) may be given with an interval of at least 2 hours between tablet doses.
 
 The safety of treating an average of more than 4 headaches in a 30-day period has not been established.
 
