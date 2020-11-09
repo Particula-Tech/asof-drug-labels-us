@@ -21,4 +21,4 @@ The imprinting ink also contains ammonium hydroxide, butyl alcohol, black iron o
 The 20 mg ink also contains titanium dioxide.
 The 40 mg ink may also contain n-butyl alcohol.
 
-USP dissolution test is pending.
+Esomeprazole Magnesium Delayed-release Capsules meet USP Dissolution Test 4.

@@ -1,11 +1,10 @@
 # MEDICATION GUIDE
 
-Esomeprazole Magnesium (ES-oh-MEP-ra-zole mag-NEE-zee-um)
+Dispense with Medication Guide available at: www.lannett.com/med-guide/esomeprazole
+
+Esomeprazole Magnesium (es” oh mep’ ra zole mag nee’ zee um)
 
 Delayed-release Capsules, USP
-
-CIA77978C Rev.
-11/2019
 
 Read the Medication Guide that comes with Esomeprazole Magnesium Delayed-release Capsules before you start taking Esomeprazole Magnesium Delayed-release Capsules and each time you get a refill.
 There may be new information.
@@ -238,9 +237,9 @@ This Medication Guide has been approved by the U.S. Food and Drug Administration
 
 Distributed by: Lannett Company, Inc. Philadelphia, PA 19136
 
-CIA77978C
+CIA77978D
 
 Rev.
-11/2019
+10/2020
 
 All brand names are the trademarks of their respective owners.

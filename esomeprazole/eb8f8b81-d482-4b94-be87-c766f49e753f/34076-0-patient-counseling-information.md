@@ -30,9 +30,11 @@ Administration
 
 Distributed by: Lannett Company, Inc. Philadelphia, PA 19136
 
-CIA77977C
+Dispense with Medication Guide available at: www.lannett.com/med-guide/esomeprazole
+
+CIA77977D
 
 Rev.
-11/2019
+10/2020
 
 All brand names are the trademarks of their respective owners.
