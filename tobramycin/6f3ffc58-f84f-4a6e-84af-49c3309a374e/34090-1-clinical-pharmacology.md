@@ -2,7 +2,7 @@
 
 ## 12.1 Mechanism of Action
 
-Tobramycin is an aminoglycoside antibiotic [see Clinical Pharmacology (12.4)].
+Tobramycin is an aminoglycoside antibacterial [see Clinical Pharmacology (12.4)].
 
 ## 12.3 Pharmacokinetics
 
@@ -49,7 +49,7 @@ No clinically relevant covariates that were predictive of tobramycin clearance w
 
 ### Mechanism of Action
 
-Tobramycin is an aminoglycoside antimicrobial produced by Streptomyces tenebrarius.
+Tobramycin is an aminoglycoside antibacterial produced by Streptomyces tenebrarius.
 It acts primarily by disrupting protein synthesis leading to altered cell membrane permeability, progressive disruption of the cell envelope, and eventual cell death.
 
 Tobramycin has in vitro activity against Gram-negative bacteria including P. aeruginosa.
