@@ -6,30 +6,12 @@ Diazepam rectal gel should only be administered by caregivers who in the opinion
 
 Risks from Concomitant Use with Opioids
 
-Concomitant use of benzodiazepines, including Diastat and Diastat AcuDial, and opioids may result in
+Concomitant use of benzodiazepines, including DIASTAT and DIASTAT ACUDIAL, and opioids may result in profound sedation, respiratory depression, coma, and death.
+Because of these risks, reserve concomitant prescribing of benzodiazepines and opioids for use in patients for whom alternative treatment options are inadequate.
 
-profound sedation, respiratory depression, coma, and death.
-Because of these risks, reserve concomitant
-
-prescribing of benzodiazepines and opioids for use in patients for whom alternative treatment options are
-
-inadequate.
-
-Observational studies have demonstrated that concomitant use of opioid analgesics and benzodiazepines
-
-increases the risk of drug-related mortality compared to use of opioids alone.
-If a decision is made to
-
-prescribe Diastat or Diastat AcuDial concomitantly with opioids, prescribe the lowest effective dosages
-
-and minimum durations of concomitant use, and follow patients closely for signs and symptoms of
-
-respiratory depression and sedation.
-Advise both patients and caregivers about the risks of respiratory
-
-depression and sedation when Diastat or Diastat AcuDial is used with opioids (see PRECAUTIONS
-
-section).
+Observational studies have demonstrated that concomitant use of opioid analgesics and benzodiazepines increases the risk of drug-related mortality compared to use of opioids alone.
+If a decision is made to prescribe DIASTAT or DIASTAT ACUDIAL concomitantly with opioids, prescribe the lowest effective dosages and minimum durations of concomitant use, and follow patients closely for signs and symptoms of respiratory depression and sedation.
+Advise both patients and caregivers about the risks of respiratory depression and sedation when DIASTAT or DIASTAT ACUDIAL is used with opioids (see PRECAUTIONS).
 
 ## CNS Depression
 
@@ -64,18 +46,18 @@ There may also be non-teratogenic risks associated with the use of benzodiazepin
 There have been reports of neonatal flaccidity, respiratory and feeding difficulties, and hypothermia in children born to mothers who have been receiving benzodiazepines late in pregnancy.
 In addition, children born to mothers receiving benzodiazepines on a regular basis late in pregnancy may be at some risk of experiencing withdrawal symptoms during the postnatal period.
 
-Advice Regarding the Use of Diazepam rectal gel in Women of Childbearing Potential: In general, the use of Diazepam rectal gel in women of childbearing potential, and more specifically during known pregnancy, should be considered only when the clinical situation warrants the risk to the fetus.
+Advice Regarding the Use of Diazepam Rectal Gel in Women of Childbearing Potential: In general, the use of diazepam rectal gel in women of childbearing potential, and more specifically during known pregnancy, should be considered only when the clinical situation warrants the risk to the fetus.
 
 The specific considerations addressed above regarding the use of anticonvulsants in epileptic women of childbearing potential should be weighed in treating or counseling these women.
 
-Because of experience with other members of the benzodiazepine class, Diazepam rectal gel is assumed to be capable of causing an increased risk of congenital abnormalities when administered to a pregnant woman during the first trimester.
+Because of experience with other members of the benzodiazepine class, diazepam rectal gel is assumed to be capable of causing an increased risk of congenital abnormalities when administered to a pregnant woman during the first trimester.
 The possibility that a woman of childbearing potential may be pregnant at the time of institution of therapy should be considered.
 If this drug is used during pregnancy, or if the patient becomes pregnant while taking this drug, the patient should be apprised of the potential hazard to the fetus.
 Patients should also be advised that if they become pregnant during therapy or intend to become pregnant they should communicate with their physician about the desirability of discontinuing the drug.
 
 ## Withdrawal Symptoms
 
-Withdrawal symptoms of the barbiturate type have occurred after the discontinuation of regular use of benzodiazepines (see DRUG ABUSE AND DEPENDENCE section).
+Withdrawal symptoms of the barbiturate type have occurred after the discontinuation of regular use of benzodiazepines (see DRUG ABUSE AND DEPENDENCE).
 
 ## Chronic Use
 
@@ -91,43 +73,27 @@ Tonic status epilepticus has been precipitated in patients treated with IV diaze
 
 Information to Be Communicated by the Prescriber to Patients and Caregivers
 
-Risks from Concomitant Use with Opioids: Inform patients and caregivers that potentially fatal additive
+Risks from Concomitant Use with Opioids: Inform patients and caregivers that potentially fatal additive effects may occur if DIASTAT or DIASTAT ACUDIAL is used with opioids and not to use such drugs concomitantly unless supervised by a health care provider (see WARNINGS and PRECAUTIONS,Drug Interactions).
 
-effects may occur if Diastat or Diastat AcuDial is used with opioids and not to use such drugs
+Administration: Prescribers are strongly advised to take all reasonable steps to ensure that caregivers fully understand their role and obligations vis a vis the administration of diazepam rectal gel to individuals in their care.
+Prescribers should routinely discuss the steps in the Patient/Caregiver Package Insert (see Patient/Caregiver Insert printed at the end of the product labeling and also included in the product carton).
+The successful and safe use of diazepam rectal gel depends in large measure on the competence and performance of the caregiver.
 
-concomitantly unless supervised by a health care provider (see WARNINGS and PRECAUTIONS, Drug Interactions).
-
-Administration: Prescribers are strongly advised to take all reasonable steps to ensure that caregivers
-
-fully understand their role and obligations vis a vis the administration of Diazepam rectal gel to
-
-individuals in their care.
-Prescribers should routinely discuss the steps in the Patient/Caregiver Package
-
-Insert (see Patient/Caregiver Insert printed at the end of the product labeling and also included in the
-
-product carton).
-The successful and safe use of Diazepam rectal gel depends in large measure on the
-
-competence and performance of the caregiver.
-
-Prescribers should advise caregivers that they expect to be informed immediately if a patient develops any
-
-new findings which are not typical of the patient’s characteristic seizure episode.
+Prescribers should advise caregivers that they expect to be informed immediately if a patient develops any new findings which are not typical of the patient’s characteristic seizure episode.
 
 ## Caution in Renally Impaired Patients
 
-Metabolites of Diazepam rectal gel are excreted by the kidneys; to avoid their excess accumulation, caution should be exercised in the administration of the drug to patients with impaired renal function.
+Metabolites of diazepam rectal gel are excreted by the kidneys; to avoid their excess accumulation, caution should be exercised in the administration of the drug to patients with impaired renal function.
 
 ## Caution in Hepatically Impaired Patients
 
 Concomitant liver disease is known to decrease the clearance of diazepam (see CLINICAL PHARMACOLOGY, Special Populations, Hepatic Impairment).
-Therefore, Diazepam rectal gel should be used with caution in patients with liver disease.
+Therefore, diazepam rectal gel should be used with caution in patients with liver disease.
 
 ## Use in Pediatrics
 
-The controlled trials demonstrating the effectiveness of Diazepam rectal gel included children two years of age and older.
-Clinical studies have not been conducted to establish the efficacy and safety of Diazepam rectal gel in children under two years of age.
+The controlled trials demonstrating the effectiveness of diazepam rectal gel included children two years of age and older.
+Clinical studies have not been conducted to establish the efficacy and safety of diazepam rectal gel in children under two years of age.
 
 ## Use in Patients with Compromised Respiratory Function
 
@@ -135,57 +101,39 @@ Diazepam rectal gel should be used with caution in patients with compromised res
 
 ## Use in Elderly
 
-In elderly patients Diazepam rectal gel should be used with caution due to an increase in halflife with a corresponding decrease in the clearance of free diazepam.
+In elderly patients diazepam rectal gel should be used with caution due to an increase in half-life with a corresponding decrease in the clearance of free diazepam.
 It is also recommended that the dosage be decreased to reduce the likelihood of ataxia or oversedation.
 
-## Interference With Cognitive and Motor Performance
+## Interference With Cognitive and Motor Performance:
 
-Because benzodiazepines have the potential to impair judgment, thinking, or motor skills, patients should be cautioned about operating hazardous machinery, including automobiles, until they are reasonably certain that Diazepam rectal gel therapy does not affect them adversely.
+Because benzodiazepines have the potential to impair judgment, thinking, or motor skills, patients should be cautioned about operating hazardous machinery, including automobiles, until they are reasonably certain that diazepam rectal gel therapy does not affect them adversely.
 
-Pregnancy: Patients should be advised to notify their physician if they become pregnant or intend to become pregnant during therapy with Diazepam rectal gel (see WARNINGS section).
+Pregnancy: Patients should be advised to notify their physician if they become pregnant or intend to become pregnant during therapy with diazepam rectal gel (see WARNINGS).
 
-Nursing: Because diazepam and its metabolites may be present in human breast milk for prolonged periods of time after acute use of Diazepam rectal gel, patients should be advised not to breast-feed for an appropriate period of time after receiving treatment with Diazepam rectal gel.
+Nursing: Because diazepam and its metabolites may be present in human breast milk for prolonged periods of time after acute use of diazepam rectal gel, patients should be advised not to breast-feed for an appropriate period of time after receiving treatment with diazepam rectal gel.
 
 ## Concomitant Medication
 
-Although Diazepam rectal gel is indicated for use solely on an intermittent basis, the potential or a synergistic CNS-depressant effect when used simultaneously with alcohol or other CNS-depressants must be considered by the prescribing physician, and appropriate recommendations made to the patient and/or caregiver.
+Although diazepam rectal gel is indicated for use solely on an intermittent basis, the potential for a synergistic CNS-depressant effect when used simultaneously with alcohol or other CNS-depressants must be considered by the prescribing physician, and appropriate recommendations made to the patient and/or caregiver.
 
 ## Drug Interactions
 
-There have been no clinical studies or reports in literature to evaluate the interaction of rectally
+There have been no clinical studies or reports in literature to evaluate the interaction of rectally administered diazepam with other drugs.
+As with all drugs, the potential for interaction by a variety of mechanisms is a possibility.
 
-administered diazepam with other drugs.
-As with all drugs, the potential for interaction by a variety of
+Effect of Concomitant Use of Benzodiazepines and Opioids: The concomitant use of benzodiazepines and opioids increases the risk of respiratory depression because of actions at different receptor sites in the CNS that control respiration.
+Benzodiazepines interact at GABAA sites, and opioids interact primarily at mu receptors.
+When benzodiazepines and opioids are combined, the potential for benzodiazepines to significantly worsen opioid-related respiratory depression exists.
+Limit dosage and duration of concomitant use of benzodiazepines and opioids, and follow patients closely for respiratory depression and sedation.
 
-mechanisms is a possibility.
+Other Psychotropic Agents or Other CNS Depressants: If diazepam rectal gel is to be combined with other psychotropic agents or other CNS depressants, careful consideration should be given to the pharmacology of the agents to be employed particularly with known compounds which may potentiate the action of diazepam, such as phenothiazines, narcotics, barbiturates, MAO inhibitors and other antidepressants.
 
-Effect of Concomitant Use of Benzodiazepines and Opioids: The concomitant use of benzodiazepines and
-
-opioids increases the risk of respiratory depression because of actions at different receptor sites in the
-
-CNS that control respiration.
-Benzodiazepines interact at GABAA sites, and opioids interact primarily at
-
-mu receptors.
-When benzodiazepines and opioids are combined, the potential for benzodiazepines to
-
-significantly worsen opioid-related respiratory depression exists.
-Limit dosage and duration of
-
-concomitant use of benzodiazepines and opioids, and follow patients closely for respiratory depression
-
-and sedation.
-
-Other Psychotropic Agents or Other CNS Depressants: If Diazepam rectal gel is to be combined with other psychotropic agents or other CNS depressants, careful consideration should be given to the pharmacology of the agents to be employed particularly with known compounds which may potentiate the action of diazepam, such as phenothiazines, narcotics, barbiturates, MAO inhibitors and other antidepressants.
-
-Cimetidine: The clearance of diazepam and certain other benzodiazepines can be delayed in association
-
-with cimetidine administration.
+Cimetidine: The clearance of diazepam and certain other benzodiazepines can be delayed in association with cimetidine administration.
 The clinical significance of this is unclear.
 
 Valproate: Valproate may potentiate the CNS-depressant effects of diazepam.
 
-Effect of Other Drugs on Diazepam Metabolism:In vitro studies using human liver preparations suggest that CYP2C19 and CYP3A4 are the principal isozymes involved in the initial oxidative metabolism of diazepam.
+Effect of Other Drugs on Diazepam Metabolism: In vitro studies using human liver preparations suggest that CYP2C19 and CYP3A4 are the principal isozymes involved in the initial oxidative metabolism of diazepam.
 Therefore, potential interactions may occur when diazepam is given concurrently with agents that affect CYP2C19 and CYP3A4 activity.
 Potential inhibitors of CYP2C19 (e.g., cimetidine, quinidine, and tranylcypromine) and CYP3A4 (e.g., ketoconazole, troleandomycin, and clotrimazole) could decrease the rate of diazepam elimination, while inducers of CYP2C19 (e.g., rifampin) and CYP3A4 (e.g., carbamazepine, phenytoin, dexamethasone and phenobarbital) could increase the rate of elimination of diazepam.
 
@@ -204,13 +152,13 @@ No adverse effects on fertility or offspring viability were noted at a dose of 8
 
 ## Pregnancy
 
-Category D (see WARNINGS section)
+(see WARNINGS)
 
 ## Labor and Delivery
 
 In humans, measurable amounts of diazepam have been found in maternal and cord blood, indicating placental transfer of the drug.
-Until additional information is available, Diazepam rectal gel is not recommended for obstetrical use.
+Until additional information is available, diazepam rectal gel is not recommended for obstetrical use.
 
 ## Nursing Mothers
 
-Because diazepam and its metabolites may be present in human breast milk for prolonged periods of time after acute use of Diazepam rectal gel, patients should be advised not to breast-feed for an appropriate period of time after receiving treatment with Diazepam rectal gel.
+Because diazepam and its metabolites may be present in human breast milk for prolonged periods of time after acute use of diazepam rectal gel, patients should be advised not to breast-feed for an appropriate period of time after receiving treatment with diazepam rectal gel.

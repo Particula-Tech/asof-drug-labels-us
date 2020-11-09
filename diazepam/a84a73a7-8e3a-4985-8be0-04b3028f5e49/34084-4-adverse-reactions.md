@@ -3,35 +3,35 @@
 Diazepam rectal gel adverse event data were collected from double-blind, placebo-controlled studies and open-label studies.
 The majority of adverse events were mild to moderate in severity and transient in nature.
 
-Two patients who received Diazepam rectal gel died seven to 15 weeks following treatment; neither of these deaths was deemed related to Diazepam rectal gel.
+Two patients who received diazepam rectal gel died seven to 15 weeks following treatment; neither of these deaths was deemed related to diazepam rectal gel.
 
-The most frequent adverse event reported to be related to Diazepam rectal gel in the two double-blind, placebo-controlled studies was somnolence (23%).
+The most frequent adverse event reported to be related to diazepam rectal gel in the two double-blind, placebo-controlled studies was somnolence (23%).
 Less frequent adverse events were dizziness, headache, pain, abdominal pain, nervousness, vasodilatation, diarrhea, ataxia, euphoria, incoordination, asthma, rhinitis, and rash, which occurred in approximately 2-5% of patients.
 
-Approximately 1.4% of the 573 patients who received Diazepam rectal gel in clinical trials of epilepsy discontinued treatment because of an adverse event.
+Approximately 1.4% of the 573 patients who received diazepam rectal gel in clinical trials of epilepsy discontinued treatment because of an adverse event.
 The adverse event most frequently associated with discontinuation (occurring in three patients) was somnolence.
 Other adverse events most commonly associated with discontinuation and occurring in two patients were hypoventilation and rash.
 Adverse events occurring in one patient were asthenia, hyperkinesia, incoordination, vasodilatation and urticaria.
 These events were judged to be related to diazepam rectal gel.
 
-In the two domestic double-blind, placebo-controlled, parallel-group studies, the proportion of patients who discontinued treatment because of adverse events was 2% for the group treated with Diazepam rectal gel, versus 2% for the placebo group.
-In the Diazepam rectal gel group, the adverse events considered the primary reason for discontinuation were different in the two patients who discontinued treatment; one discontinued due to rash and one discontinued due to lethargy.
+In the two domestic double-blind, placebo-controlled, parallel-group studies, the proportion of patients who discontinued treatment because of adverse events was 2% for the group treated with diazepam rectal gel, versus 2% for the placebo group.
+In the diazepam rectal gel group, the adverse events considered the primary reason for discontinuation were different in the two patients who discontinued treatment; one discontinued due to rash and one discontinued due to lethargy.
 The primary reason for discontinuation in the patients treated with placebo was lack of effect.
 
 ## Adverse Event Incidence in Controlled Clinical Trials
 
-Table 1 lists treatment-emergent signs and symptoms that occurred in > 1% of patients enrolled in parallel-group, placebo-controlled trials and were numerically more common in the Diazepam rectal gel group.
+Table 1 lists treatment-emergent signs and symptoms that occurred in > 1% of patients enrolled in parallel-group, placebo-controlled trials and were numerically more common in the diazepam rectal gel group.
 Adverse events were usually mild or moderate in intensity.
 
-The prescriber should be aware that these figures, obtained when Diazepam rectal gel was added to concurrent antiepileptic drug therapy, cannot be used to predict the frequency of adverse events in the course of usual medical practice when patient characteristics and other factors may differ from those prevailing during clinical studies.
+The prescriber should be aware that these figures, obtained when diazepam rectal gel was added to concurrent antiepileptic drug therapy, cannot be used to predict the frequency of adverse events in the course of usual medical practice when patient characteristics and other factors may differ from those prevailing during clinical studies.
 Similarly, the cited frequencies cannot be directly compared with figures obtained from other clinical investigations involving different treatments, uses, or investigators.
 An inspection of these frequencies, however, does provide the prescribing physician with one basis to estimate the relative contribution of drug and non-drug factors to the adverse event incidences in the population studied.
 
-TABLE 1: Treatment-Emergent Signs And Symptoms That Occurred In > 1% Of Patients Enrolled In Parallel-Group, Placebo-Controlled Trials And Were Numerically More Common In The Diazepam rectal gel Group
+TABLE 1: Treatment-Emergent Signs and Symptoms That Occurred in > 1% of Patients Enrolled in Parallel-Group, Placebo-Controlled Trials and Were Numerically More Common in the Diazepam Rectal Gel Group
 
 |  | Term | % | % |
 | --- | --- | --- | --- |
-|  |  | Diastat | Placebo |
+|  |  | DIASTAT | Placebo |
 | Body System | COSTART | N = 101 | N = 104 |
 | Body As A Whole | Headache | 5% | 4% |
 | Cardiovascular | Vasodilatation | 2% | 0% |
@@ -44,7 +44,7 @@ TABLE 1: Treatment-Emergent Signs And Symptoms That Occurred In > 1% Of Patients
 | Respiratory | Asthma | 2% | 0% |
 | Skin and Appendages | Rash | 3% | 0% |
 
-Other events reported by 1% or more of patients treated in controlled trials but equally or more frequent in the placebo group than in the Diazepam rectal gel group were abdominal pain, pain, nervousness, and rhinitis.
+Other events reported by 1% or more of patients treated in controlled trials but equally or more frequent in the placebo group than in the diazepam rectal gel group were abdominal pain, pain, nervousness, and rhinitis.
 Other events reported by fewer than 1% of patients were infection, anorexia, vomiting, anemia, lymphadenopathy, grand mal convulsion, hyperkinesia, cough increased, pruritus, sweating, mydriasis, and urinary tract infection.
 
 The pattern of adverse events was similar for different age, race and gender groups.
@@ -55,7 +55,7 @@ Diazepam rectal gel has been administered to 573 patients with epilepsy during a
 During these trials, all adverse events were recorded by the clinical investigators using terminology of their own choosing.
 To provide a meaningful estimate of the proportion of individuals having adverse events, similar types of events were grouped into a smaller number of standardized categories using modified COSTART dictionary terminology.
 These categories are used in the listing below.
-All of the events listed below occurred in at least 1% of the 573 individuals exposed to Diazepam rectal gel.
+All of the events listed below occurred in at least 1% of the 573 individuals exposed to diazepam rectal gel.
 
 All reported events are included except those already listed above, events unlikely to be drug-related, and those too general to be informative.
 Events are included without regard to determination of a causal relationship to diazepam.
@@ -68,6 +68,8 @@ NERVOUS: Agitation, confusion, convulsion, dysarthria, emotional lability, speec
 
 RESPIRATORY: Hiccup
 
-The following infrequent adverse events were not seen with Diazepam rectal gel but have been reported previously with diazepam use: depression, slurred speech, syncope, constipation, changes in libido, urinary retention, bradycardia, cardiovascular collapse, nystagmus, urticaria, neutropenia and jaundice.
+The following infrequent adverse events were not seen with diazepam rectal gel but have been reported previously with diazepam use: depression, slurred speech, syncope, constipation, changes in libido, urinary retention, bradycardia, cardiovascular collapse, nystagmus, urticaria, neutropenia and jaundice.
 
-Paradoxical reactions such as acute hyperexcited states, anxiety, hallucinations, increased muscle spasticity, insomnia, rage, sleep disturbances and stimulation have been reported with diazepam; should these occur, use of Diazepam rectal gel should be discontinued.
+Paradoxical reactions such as acute hyperexcited states, anxiety, hallucinations, increased muscle spasticity, insomnia, rage, sleep disturbances and stimulation have been reported with diazepam; should these occur, use of diazepam rectal gel should be discontinued.
+
+To report SUSPECTED ADVERSE REACTIONS, contact Bausch Health US, LLC at 1-800-321-4576 or FDA at 1-800-FDA-1088 or www.fda.gov/medwatch.

@@ -4,23 +4,23 @@ Diazepam rectal gel rectal delivery system is a non-sterile, prefilled, unit dos
 The rectal delivery system includes a plastic applicator with a flexible, molded tip available in two lengths, designated for convenience as 10 mg Delivery System and 20 mg Delivery System.
 The available doses from 20 mg delivery system are 12.5 mg, 15 mg, 17.5 mg and 20 mg.
 The available doses from 10 mg delivery system are 5 mg, 7.5 mg and 10 mg.
-The Diazepam rectal gel delivery system is available in the following three presentations:
+The diazepam rectal gel delivery system is available in the following three presentations:
 
-| Diastat® | Rectal Tip Size | NDC |
+| DIASTAT® | Rectal Tip Size | NDC |
 | --- | --- | --- |
-| 2.5 mg Twin Pack | 4.4 cm | NDC 66490-650-20 |
-| Diastat®AcuDial™ | Rectal Tip Size | NDC |
-| 10 mg Delivery | 4.4 cm | NDC 0187-0658-20 |
+| 2.5 mg Twin Pack | 4.4 cm | 66490-650-20 |
+| DIASTAT® ACUDIAL™ | Rectal Tip Size | NDC |
+| 10 mg Delivery | 4.4 cm | 0187-0658-20 |
 | System Twin Pack |  |  |
-| 20 mg Delivery | 6.0 cm | NDC 0187-0659-20 |
+| 20 mg Delivery | 6.0 cm | 0187-0659-20 |
 | System Twin Pack |  |  |
 
 Each Twin Pack contains two diazepam rectal gel delivery systems, two packets of lubricating jelly, and administration and disposal Instructions available on the bottom of the package.
-Diastat® AcuDial™ is also packed with Instructions for Caregivers upon receipt from pharmacy.
+DIASTAT ACUDIAL is also packed with Instructions for Caregivers upon receipt from pharmacy.
 
-Store at 25°C (77°F); excursions permitted to 15-30°C (59-86°F)[See USP Controlled Room Temperature].
+Store at 25°C (77°F); excursions permitted to 15° to 30°C (59° to 86°F) [see USP Controlled Room Temperature].
 
-Diastat®AcuDial™
+DIASTAT®ACUDIAL™
 
 INSTRUCTIONS FOR CAREGIVERS UPON RECEIPT FROM PHARMACY
 
@@ -39,13 +39,15 @@ The instructions are also available on the bottom of each drug product package.
 
 CAUTION: Federal law prohibits the transfer of this drug to any person other than the patient for whom it was prescribed.
 
-Manufactured for: Valeant Pharmaceuticals North America LLC Bridgewater, NJ 08807 USA
+Manufactured for: Bausch Health US, LLC Bridgewater, NJ 08807 USA
 
-By: DPT Laboratories, Ltd. San Antonio, TX 78215 USA
+Manufactured by: DPT Laboratories, Ltd. San Antonio, TX 78215 USA
 
-All other product/brand names are trademarks of their respective owners.
+®/™ are trademarks of Bausch Health Companies Inc. or its affiliates.
 
-9596200-70012677
+© 2019 Bausch Health Companies Inc. or its affiliates
+
+9435003
 
 Rev.
-12/16
+10/19

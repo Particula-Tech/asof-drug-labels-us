@@ -1,12 +1,10 @@
-Diastat® C-IV (diazepam rectal gel) Diastat® AcuDial™ C-IV (diazepam rectal gel)
-
 ADMINISTRATION AND DISPOSAL INSTRUCTIONS
 
-IMPORTANT
+I M P O R T A N T
 
 Read first before using
 
-To the caregiver using Diastat®:
+To the caregiver using DIASTAT®:
 
 Please do not give DIASTAT® until:
 
@@ -14,16 +12,16 @@ Please do not give DIASTAT® until:
 2. 2.Reviewed administration steps with the doctor
 3. 3.Understand the directions
 
-To the caregiver using Diastat® AcuDialTM:
+To the caregiver using DIASTAT® ACUDlAL™:
 
-Please do not give DIASTAT® AcuDial™ until:
+Please do not give DIASTAT® ACUDlAL™ until:
 
 1. 1.You have confirmed:
-2. 2.Prescribed dose is visible and if known, is correct
-3. 3.green “READY” band is visible
-4. 4.You have thoroughly read these instructions
-5. 5.Reviewed administration steps with the doctor
-6. 6.Understand the directions
+2. •Prescribed dose is visible and if known, is correct
+3. •green “READY” band is visible
+4. 2.You have thoroughly read these instructions
+5. 3.Reviewed administration steps with the doctor
+6. 4.Understand the directions
 
 Please do not administer DIASTAT until you feel comfortable with how to use DIASTAT.
 The doctor will tell you exactly when to use DIASTAT.
@@ -47,7 +45,7 @@ If you have any questions or feel unsure about using the treatment, CALL THE DOC
 
 When to treat.
 Based on the doctor’s directions or prescription.
-Your doctor may prescribe a second dose of Diazepam rectal gel.
+Your doctor may prescribe a second dose of diazepam rectal gel.
 If a second dose is needed, give it 4 hours to 12 hours after the first dose.
 
 ________________________________________________________
@@ -64,64 +62,54 @@ DIASTAT should be used with caution:
 
 Discuss beforehand with the doctor any additional steps you may need to take if there is leakage of DIASTAT or a bowel movement.
 
-Patient’s DIASTAT dosage is: __________mg
+Patient’s DIASTAT dosage is __________mg
 
-Patient’s resting breathing rate_________ Patient’s current weight____________
+Patient’s resting breathing rate _________ Patient’s current weight ____________
 
-Confirm current weight is still the same as when DIASTAT was prescribed____________
+Confirm current weight is still the same as when DIASTAT was prescribed ____________
 
-Check expiration data and always remove cap before using.
+Check expiration date and always remove cap before using.
 Be sure seal pin is removed with the cap.
 
-TREATMENT 1 ------------------------------------------------------------------------------------------------------------
+T R E A T M E N T 1 ------------------------------------------------------------------------------------------------------------
 
-Important things to tell the doctor.
+Important things to tell the doctor:
 
-Things to do after treatment with DIASTAT.
+Things to do after treatment with DIASTAT:
 
 Stay with the person for 4 hours and make notes on the following:
 
-- •Changes in resting breathing rate__________________________
-- •Changes in color ______________________________________
-- •Possible side effects from treatment_______________________
-- •Your doctor may prescribe a second dose of Diazepam rectal gel.
+- •Changes in resting breathing rate __________________________________________________
+- •Changes in color _______________________________________________________________
+- •Possible side effects from treatment ________________________________________________
+- •Your doctor may prescribe a second dose of diazepam rectal gel.
   If a second dose is needed, give it 4 hours to 12 hours after the first dose.
 
-TREATMENT 2
+T R E A T M E N T 2
 
 ------------------------------------------------------------------------------------------------------------
 
-Important things to tell the doctor
+Important things to tell the doctor:
 
-Things to do after treatment with DIASTAT.
+Things to do after treatment with DIASTAT:
 
 Stay with the person for 4 hours and make notes on the following:
 
-- •Changes in resting breathing rate_________________________
-- •Changes in color ___________________________________
-- •Possible side effects from treatment________________________
+- •Changes in resting breathing rate___________________________________________________
+- •Changes in color ________________________________________________________________
+- •Possible side effects from treatment_________________________________________________
 
-HOW TO ADMINISTER AND DISPOSAL
+ADMINISTRATION AND DISPOSAL INSTRUCTIONS
 
-®/™ are trademarks of Valeant
+Manufactured for: Bausch Health US, LLC Bridgewater, NJ 08807 USA
 
-Pharmaceuticals International, Inc. or its
+Manufactured by: DPT Laboratories, Ltd. San Antonio, TX 78215 USA
 
-affiliates.
+®/™ are trademarks of Bausch Health Companies Inc. or its affiliates.
 
-©Valeant Pharmaceuticals North America LLC
+© 2019 Bausch Health Companies Inc. or its affiliates
 
-Manufactured for:
+Rev.
+10/19
 
-Valeant Pharmaceuticals North America LLC
-
-Bridgewater, NJ 08807 USA
-
-By:
-
-DPT Laboratories, Ltd.
-
-San Antonio, TX 78215 USA
-
-9596200-70012677 Rev.
-12/16
+9435003

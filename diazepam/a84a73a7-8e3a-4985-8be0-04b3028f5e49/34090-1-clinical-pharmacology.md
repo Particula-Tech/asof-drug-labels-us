@@ -3,7 +3,7 @@
 ## Mechanism of Action
 
 Although the precise mechanism by which diazepam exerts its antiseizure effects is unknown, animal and in vitro studies suggest that diazepam acts to suppress seizures through an interaction with γ-aminobutyric acid (GABA) receptors of the A-type (GABAA).
-GABA, the major inhibitory neurotransmitter in the central nervous system, acts at this receptor to open the membrane channel allowing chloride ions to flow into neurons.
+GABA, the major inhibitory neurotransmitter in the central nervous system (CNS), acts at this receptor to open the membrane channel allowing chloride ions to flow into neurons.
 Entry of chloride ions causes an inhibitory potential that reduces the ability of neurons to depolarize to the threshold potential necessary to produce action potentials.
 Excessive depolarization of neurons is implicated in the generation and spread of seizures.
 It is believed that diazepam enhances the actions of GABA by causing GABA to bind more tightly to the GABAA receptor.
@@ -15,9 +15,9 @@ No pharmacokinetic studies were conducted in pediatric patients.
 Therefore, information from the literature is used to define pharmacokinetic labeling in the pediatric population.
 
 Diazepam rectal gel is well absorbed following rectal administration, reaching peak plasma concentrations in 1.5 hours.
-The absolute bioavailability of Diazepam rectal gel relative to Valium injectable is 90%.
-The volume of distribution of Diazepam rectal gel is calculated to be approximately 1 L/kg.
-The mean elimination half-life of diazepam and desmethyldiazepam following administration of a 15 mg dose of Diazepam rectal gel was found to be about 46 hours (CV=43%) and 71 hours (CV=37%), respectively.
+The absolute bioavailability of diazepam rectal gel relative to Valium injectable is 90%.
+The volume of distribution of diazepam rectal gel is calculated to be approximately 1 L/kg.
+The mean elimination half-life of diazepam and desmethyldiazepam following administration of a 15 mg dose of diazepam rectal gel was found to be about 46 hours (CV=43%) and 71 hours (CV=37%), respectively.
 Both diazepam and its major active metabolite desmethyldiazepam bind extensively to plasma proteins (95-98%).
 
 Metabolism and Elimination: It has been reported in the literature that diazepam is extensively metabolized to one major active metabolite (desmethyldiazepam) and two minor active metabolites, 3-hydroxydiazepam (temazepam) and 3-hydroxy-N-diazepam (oxazepam) in plasma.
@@ -31,20 +31,20 @@ No inhibition was demonstrated in the presence of inhibitors selective for CYP2A
 ### Hepatic Impairment:
 
 No pharmacokinetic studies were conducted with diazepam rectal gel in hepatically impaired subjects.
-Literature review indicates that following administration of 0.1 to 0.15 mg/kg of diazepam intravenously, the half-life of diazepam was prolonged by two to five-fold in subjects with alcoholic cirrhosis (n=24) compared to age-matched control subjects (n=37) with a corresponding decrease in clearance by half: however, the exact degree of hepatic impairment in these subjects was not characterized in this literature (see PRECAUTIONS section).
+Literature review indicates that following administration of 0.1 to 0.15 mg/kg of diazepam intravenously, the half-life of diazepam was prolonged by two to five-fold in subjects with alcoholic cirrhosis (n=24) compared to age-matched control subjects (n=37) with a corresponding decrease in clearance by half: however, the exact degree of hepatic impairment in these subjects was not characterized in this literature (see PRECAUTIONS).
 
 ### Renal Impairment:
 
-The pharmacokinetics of diazepam have not been studied in renally impaired subjects (see PRECAUTIONS section).
+The pharmacokinetics of diazepam have not been studied in renally impaired subjects (see PRECAUTIONS).
 
 ### Pediatrics:
 
 No pharmacokinetic studies were conducted with diazepam rectal gel in the pediatric population.
-However, literature review indicates that following IV administration (0.33 mg/kg), diazepam has a longer half-life in neonates (birth up to one month; approximately 50-95 hours) and infants (one month up to two years; about 40-50 hours), whereas it has a shorter half-life in children (two to 12 years; approximately 15-21 hours) and adolescents (12 to 16 years; about 18-20 hours) (see PRECAUTIONS section).
+However, literature review indicates that following IV administration (0.33 mg/kg), diazepam has a longer half-life in neonates (birth up to one month; approximately 50-95 hours) and infants (one month up to two years; about 40-50 hours), whereas it has a shorter half-life in children (two to 12 years; approximately 15-21 hours) and adolescents (12 to 16 years; about 18-20 hours) (see PRECAUTIONS).
 
 ### Elderly:
 
-A study of single dose IV administration of diazepam (0.1 mg/kg) indicates that the elimination half-life of diazepam increases linearly with age, ranging from about 15 hours at 18 years (healthy young adults) to about 100 hours at 95 years (healthy elderly) with a corresponding decrease in clearance of free diazepam (see PRECAUTIONS and DOSAGE AND ADMINISTRATION sections).
+A study of single dose IV administration of diazepam (0.1 mg/kg) indicates that the elimination half-life of diazepam increases linearly with age, ranging from about 15 hours at 18 years (healthy young adults) to about 100 hours at 95 years (healthy elderly) with a corresponding decrease in clearance of free diazepam (see PRECAUTIONS and DOSAGE AND ADMINISTRATION).
 
 ### Effect of Gender, Race, and Cigarette Smoking:
 
@@ -62,10 +62,10 @@ Adults were dosed at four and 12 hours after the first dose and were observed fo
 Primary outcomes for this study were seizure frequency during the period of observation and a global assessment that took into account the severity and nature of the seizures as well as their frequency.
 
 The median seizure frequency for the diazepam rectal gel treated group was zero seizures per hour, compared to a median seizure frequency of 0.3 seizures per hour for the placebo group, a difference that was statistically significant (p <0.0001).
-All three categories of the global assessment (seizure frequency, seizure severity, and “overall”) were also found to be statistically significant in favor of Diazepam rectal gel (p < 0.0001).
+All three categories of the global assessment (seizure frequency, seizure severity, and “overall”) were also found to be statistically significant in favor of diazepam rectal gel (p < 0.0001).
 The following histogram displays the results for the “overall” category of the global assessment.
 
-Patients treated with Diazepam rectal gel experienced prolonged time-to-next-seizure compared to placebo (p = 0.0002) as shown in the following graph.
+Patients treated with diazepam rectal gel experienced prolonged time-to-next-seizure compared to placebo (p = 0.0002) as shown in the following graph.
 
 In addition, 62% of patients treated with diazepam rectal gel were seizure-free during the observation period compared to 20% of placebo patients.
 
