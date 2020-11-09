@@ -1,4 +1,4 @@
-| PATIENT INFORMATIONIMITREX (IM-i-trex) (sumatriptan succinate)injection |  |
+| PATIENT INFORMATIONIMITREX (IM-i-trex) (sumatriptan)injection |  |
 | --- | --- |
 | What is the most important information I should know about IMITREX?IMITREX can cause serious side effects, including:Heart attack and other heart problems. Heart problems may lead to death.Stop taking IMITREX and get emergency medical help right away if you have any of the following symptoms of a heart attack: •discomfort in the center of your chest that lasts for more than a few minutes, or that goes away and comes back•severe tightness, pain, pressure, or heaviness in your chest, throat, neck, or jaw•pain or discomfort in your arms, back, neck, jaw, or stomach•shortness of breath with or without chest discomfort•breaking out in a cold sweat•nausea or vomiting•feeling lightheaded IMITREX is not for people with risk factors for heart disease unless a heart exam is done and shows no problem. You have a higher risk for heart disease if you: •have high blood pressure•have high cholesterol levels•smoke•are overweight•have diabetes•have a family history of heart disease |  |
 | What is IMITREX?IMITREX injection is a prescription medicine used to treat acute migraine headaches with or without aura and acute cluster headaches in adults who have been diagnosed with migraine or cluster headaches.IMITREX is not used to treat other types of headaches such as hemiplegic (that make you unable to move on one side of your body) or basilar (rare form of migraine with aura) migraines.IMITREX is not used to prevent or decrease the number of migraine or cluster headaches you have.It is not known if IMITREX is safe and effective in children under 18 years of age. |  |
@@ -12,14 +12,14 @@
 | osudden or severe stomach painostomach pain after mealsoweight lossofever | onausea or vomitingoconstipation or diarrheaobloody diarrhea |
 | •problems with blood circulation to your legs and feet (peripheral vascular ischemia). Symptoms of peripheral vascular ischemia include: ocramping and pain in your legs or hipsofeeling of heaviness or tightness in your leg musclesoburning or aching pain in your feet or toes while restingonumbness, tingling, or weakness in your legsocold feeling or color changes in 1 or both legs or feet •medication overuse headaches. Some people who use too many IMITREX injections may have worse headaches (medication overuse headache). If your headaches get worse, your healthcare provider may decide to stop your treatment with IMITREX.•serotonin syndrome. Serotonin syndrome is a rare but serious problem that can happen in people using IMITREX, especially if IMITREX is used with anti‑depressant medicines called SSRIs or SNRIs. Call your healthcare provider right away if you have any of the following symptoms of serotonin syndrome: omental changes such as seeing things that are not there (hallucinations), agitation, or comaofast heartbeatochanges in blood pressureohigh body temperatureotight musclesotrouble walking •hives (itchy bumps); swelling of your tongue, mouth or throat.•seizures. Seizures have happened in people taking IMITREX who have never had seizures before. Talk with your healthcare provider about your chance of having seizures while you take IMITREX. The most common side effects of IMITREX Injection include: •pain or redness at your injection site•tingling or numbness in your fingers or toes•dizziness•warm, hot, burning feeling to your face (flushing)•discomfort or stiffness in your neck•feeling weak, drowsy, or tired Tell your healthcare provider if you have any side effect that bothers you or that does not go away.These are not all the possible side effects of IMITREX. Call your doctor for medical advice about side effects. You may report side effects to FDA at 1-800-FDA-1088. |  |
 | How should I store IMITREX injection? •Store IMITREX between 36°F to 86°F (2°C to 30°C).•Store your medicine away from light.•Keep your medicine in the packaging or carrying case provided with it. Keep IMITREX and all medicines out of the reach of children. |  |
-| General information about the safe and effective use of IMITREXMedicines are sometimes prescribed for purposes other than those listed in Patient Information leaflets. Do not use IMITREX for a condition for which it was not prescribed. Do not give IMITREX to other people, even if they have the same symptoms you have. It may harm them.This Patient Information leaflet summarizes the most important information about IMITREX. If you would like more information, talk with your healthcare provider. You can ask your healthcare provider or pharmacist for information about IMITREX that is written for healthcare professionals.For more information, go to www.gsk.com or call 1-888-825-5249. |  |
+| General information about the safe and effective use of IMITREXMedicines are sometimes prescribed for purposes other than those listed in Patient Information leaflets. Do not use IMITREX for a condition for which it was not prescribed. Do not give IMITREX to other people, even if they have the same symptoms you have. It may harm them.This Patient Information leaflet summarizes the most important information about IMITREX. If you would like more information, talk with your healthcare provider. You can ask your healthcare provider or pharmacist for information about IMITREX that is written for healthcare professionals.For more information, call 1-888-825-5249. |  |
 | What are the ingredients in IMITREX injection?Active ingredient: sumatriptan succinateInactive ingredients: sodium chloride, water for injection |  |
-| IMITREX and AMERGE are trademarks owned by or licensed to the GSK group of companies. The other brands listed are trademarks owned by or licensed to their respective owners and are not owned by or licensed to the GSK group of companies. The makers of these brands are not affiliated with and do not endorse the GSK group of companies or its products.GlaxoSmithKlineResearch Triangle Park, NC 27709©2018 GSK group of companies or its licensor.IMJ:7PPI |  |
+| IMITREX and AMERGE are trademarks owned by or licensed to the GSK group of companies. The other brands listed are trademarks owned by or licensed to their respective owners and are not owned by or licensed to the GSK group of companies. The makers of these brands are not affiliated with and do not endorse the GSK group of companies or its products.GlaxoSmithKlineResearch Triangle Park, NC 27709©2020 GSK group of companies or its licensor.IMJ:8PPI |  |
 
 1. This Patient Information has been approved by the U.S. Food and Drug Administration.
-   Revised July 2018
+   Revised September 2020
 
-| Instructions for UseIMITREX (IM-i-trex) STATdose System(sumatriptan succinate)Injection |  |
+| Instructions for UseIMITREX (IM-i-trex) STATdose System(sumatriptan)Injection |  |
 | --- | --- |
 
 Read this Instructions for Use before you start to use the IMITREX STATdose System.
@@ -36,7 +36,7 @@ When you first open the IMITREX STATdose System box, the Cartridge Pack and the 
 The grey and blue Carrying Case is used for storing the unloaded Pen and the Cartridge Pack when they are not being used.
 
 - •The Cartridge Pack holds 2 individually sealed Syringe Cartridges.
-  Each Syringe Cartridge holds 1 dose of IMITREX (sumatriptan succinate) Injection.
+  Each Syringe Cartridge holds 1 dose of IMITREX (sumatriptan) Injection.
 - •The Cartridge Pack for the 4-mg strength of this medicine is yellow.
 - •The Cartridge Pack for the 6-mg strength is blue (as shown).
 - •Refill Cartridge Packs are available.
@@ -76,7 +76,7 @@ Do not touch the Blue Button on top of the Pen (see Figure A) while you are load
 
 How to unload the IMITREX STATdose Pen after taking your medicine
 
-- Right after you complete your injection with the Pen, you need to return the used Syringe Cartridge to the Cartridge Pack.
+Right after you complete your injection with the Pen, you need to return the used Syringe Cartridge to the Cartridge Pack.
 
 | Figure I | 9.Push the Pen down into the empty side of the Cartridge Pack as far as it will go (see Figure I). |
 | --- | --- |
@@ -106,10 +106,10 @@ Put your used syringe cartridge pack in a FDA-cleared sharps disposal container 
 Figure Q
 
 - •If you do not have a FDA-cleared sharps disposal container, you may use a household container that is:
-  - •made of a heavy-duty plastic,
-  - •can be closed with a tight-fitting, puncture-resistant lid, without sharps being able to come out, upright and stable during use,
-  - •leak-resistant, and
-  - •properly labeled to warn of hazardous waste inside the container.
+  - omade of a heavy-duty plastic,
+  - ocan be closed with a tight-fitting, puncture-resistant lid, without sharps being able to come out, upright and stable during use,
+  - oleak-resistant, and
+  - oproperly labeled to warn of hazardous waste inside the container.
 - •When your sharps disposal container is almost full, you will need to follow your community guidelines for the right way to dispose of your sharps disposal container.
   There may be state or local laws about how you should throw away used needles and cartridges.
   For more information about safe sharps disposal, and for specific information about sharps disposal in the state that you live in, go to the FDA’s website at: http://www.fda.gov/safesharpsdisposal.
@@ -124,8 +124,8 @@ GlaxoSmithKline
 
 Research Triangle Park, NC 27709
 
-©2018 GSK group of companies or its licensor.
+©2020 GSK group of companies or its licensor.
 
-July 2018
+September 2020
 
-IMJ:8PIL
+IMJ:9PIL
