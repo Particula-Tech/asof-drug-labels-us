@@ -255,6 +255,8 @@ A few women who use birth control that contains hormones may get:
 
 • Broken or Bent Implant
 
+Breakage or bending of the implant may occur due to external forces (e.g., manipulation of the implant or contact sports).
+A broken implant may move from the insertion site.
 If you feel that the implant may have broken or bent while in your arm, contact your healthcare provider.
 
 When should I call my healthcare provider?

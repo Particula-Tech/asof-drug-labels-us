@@ -165,9 +165,10 @@ It is unknown if NEXPLANON causes fluid retention.
 
 Contact lens wearers who develop visual changes or changes in lens tolerance should be assessed by an ophthalmologist.
 
-## 5.16 In Situ Broken or Bent Implant
+## 5.16 Broken or Bent Implant
 
-There have been reports of broken or bent implants while in the patient's arm.
+There have been reports of broken or bent implants, which may be related to external forces (e.g., manipulation of the implant or contact sports) while in the patient’s arm.
+There have also been reports of migration of a broken implant fragment within the arm.
 Based on in vitro data, when an implant is broken or bent, the release rate of etonogestrel may be slightly increased.
 
 When an implant is removed, it is important to remove it in its entirety [see Dosage and Administration (2.3)].
