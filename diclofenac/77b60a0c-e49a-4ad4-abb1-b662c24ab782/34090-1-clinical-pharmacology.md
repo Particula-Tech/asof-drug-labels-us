@@ -55,7 +55,7 @@ The metabolites include 4'-hydroxy-, 5-hydroxy-, 3'-hydroxy-, 4',5-dihydroxy- an
 The major diclofenac metabolite, 4'-hydroxy-diclofenac, has very weak pharmacologic activity.
 The formation of 4’-hydroxy-diclofenac is primarily mediated by CYP2C9.
 Both diclofenac and its oxidative metabolites undergo glucuronidation or sulfation followed by biliary excretion.
-Acylglucuronidation mediated by UGT2B7 and oxidation mediated by CYP2C8 may also play a role in diclofenac metabolism.
+Acyl glucuronidation mediated by UGT2B7 and oxidation mediated by CYP2C8 may also play a role in diclofenac metabolism.
 CYP3A4 is responsible for the formation of minor metabolites, 5-hydroxy- and 3’-hydroxy-diclofenac.
 In patients with renal dysfunction, peak concentrations of metabolites 4'-hydroxy- and 5-hydroxy-diclofenac were approximately 50% and 4% of the parent compound after single oral dosing compared to 27% and 1% in normal healthy subjects.
 

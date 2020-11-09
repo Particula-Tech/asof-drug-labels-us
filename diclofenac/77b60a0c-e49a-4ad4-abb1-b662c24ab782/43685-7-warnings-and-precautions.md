@@ -146,9 +146,36 @@ These serious events may occur without warning.
 Inform patients about the signs and symptoms of serious skin reactions and discontinue the use of diclofenac at the first appearance of skin rash or any other sign of hypersensitivity.
 Diclofenac is contraindicated in patients with previous serious skin reactions to NSAIDs (see CONTRAINDICATIONS).
 
-Premature Closure of Fetal Ductus Arteriosus
+Drug Rash with Eosinophilia and Systemic Symptoms (DRESS)
 
-Diclofenac may cause premature closure of the fetal ductus arteriosus Avoid use of NSAIDs, including diclofenac, in pregnant women starting at 30 weeks of gestation (third trimester) (see PRECAUTIONS; Pregnancy).
+Drug Reaction with Eosinophilia and Systemic Symptoms (DRESS) has been reported in patients taking NSAIDs such as diclofenac potassium tablets.
+Some of these events have been fatal or life-threatening.
+DRESS typically, although not exclusively, presents with fever, rash, lymphadenopathy, and/or facial swelling.
+Other clinical manifestations may include hepatitis, nephritis, hematological abnormalities, myocarditis, or myositis.
+Sometimes symptoms of DRESS may resemble an acute viral infection.
+Eosinophilia is often present.
+Because this disorder is variable in its presentation, other organ systems not noted here may be involved.
+It is important to note that early manifestations of hypersensitivity, such as fever or lymphadenopathy, may be present even though rash is not evident.
+If such signs or symptoms are present, discontinue diclofenac potassium tablets and evaluate the patient immediately.
+
+Fetal Toxicity
+
+Premature Closure of Fetal Ductus Arteriosus:
+
+Avoid use of NSAIDs, including diclofenac potassium tablets, in pregnant women at about 30 weeks gestation and later.
+NSAIDs including diclofenac potassium tablets, increase the risk of premature closure of the fetal ductus arteriosus at approximately this gestational age.
+
+Oligohydramnios/Neonatal Renal Impairment:
+
+Use of NSAIDs, including diclofenac potassium tablets, at about 20 weeks gestation or later in pregnancy may cause fetal renal dysfunction leading to oligohydramnios and, in some cases, neonatal renal impairment.
+These adverse outcomes are seen, on average, after days to weeks of treatment, although oligohydramnios has been infrequently reported as soon as 48 hours after NSAID initiation.
+Oligohydramnios is often, but not always, reversible with treatment discontinuation.
+Complications of prolonged oligohydramnios may, for example, include limb contractures and delayed lung maturation.
+In some postmarketing cases of impaired neonatal renal function, invasive procedures such as exchange transfusion or dialysis were required.
+
+If NSAID treatment is necessary between about 20 weeks and 30 weeks gestation, limit diclofenac potassium tablets use to the lowest effective dose and shortest duration possible.
+Consider ultrasound monitoring of amniotic fluid if diclofenac potassium tablets treatment extends beyond 48 hours.
+Discontinue diclofenac potassium tablets if oligohydramnios occurs and follow up according to clinical practice (see PRECAUTIONS; Pregnancy).
 
 Hematological Toxicity
 
@@ -158,7 +185,7 @@ If a patient treated with diclofenac has any signs or symptoms of anemia, monito
 
 NSAIDs, including diclofenac, may increase the risk of bleeding events.
 Co-morbid conditions such as coagulation disorders, concomitant use of warfarin and other anticoagulants, antiplatelet agents (e.g., aspirin), serotonin reuptake inhibitors (SSRIs) and serotonin norepinephrine reuptake inhibitors (SNRIs) may increase this risk.
-Monitor these patients for signs of bleeding (see PRECAUTIONS; DrugInteractions).
+Monitor these patients for signs of bleeding (see PRECAUTIONS; Drug Interactions).
 
 # PRECAUTIONS
 
@@ -198,9 +225,9 @@ Anaphylactic Reactions
 Inform patients of the signs of an anaphylactic reaction (e.g., difficulty breathing, swelling of the face or throat).
 Instruct patients to seek immediate emergency help if these occur (see WARNINGS; Anaphylactic Reactions).
 
-Serious Skin Reactions
+Serious Skin Reactions, including DRESS
 
-Advise patients to stop diclofenac immediately if they develop any type of rash and contact their healthcare provider as soon as possible (see WARNINGS; Serious Skin Reactions).
+Advise patients to stop taking diclofenac potassium tablets immediately if they develop any type of rash or fever and to contact their healthcare provider as soon as possible (see WARNINGS).
 
 Female Fertility
 
@@ -208,7 +235,8 @@ Advise females of reproductive potential who desire pregnancy that NSAIDs, inclu
 
 Fetal Toxicity
 
-Inform pregnant women to avoid use of diclofenac and other NSAIDs, starting at 30 weeks gestation because of the risk of the premature closure of the fetal ductus arteriosus (see WARNINGS; Premature Closure of Fetal Ductus Arteriosus).
+Inform pregnant women to avoid use of diclofenac potassium tablets and other NSAIDs starting at 30 weeks gestation because of the risk of the premature closing of the fetal ductus arteriosus.
+If treatment with diclofenac potassium tablets are needed for a pregnant woman between about 20 to 30 weeks gestation, advise her that she may need to be monitored for oligohydramnios, if treatment continues for longer than 48 hours (see WARNINGS; Fetal Toxicity, PRECAUTIONS; Pregnancy).
 
 Avoid Concomitant Use of NSAIDs
 
@@ -245,7 +273,7 @@ Table 2: Clinically Significant Drug Interactions with Diclofenac
 | Intervention: | During concomitant use of diclofenac and ACE-inhibitors, ARBs, or beta-blockers, monitor blood pressure to ensure that the desired blood pressure is obtained.During concomitant use of diclofenac and ACE-inhibitors or ARBs in patients who are elderly, volume-depleted, or have impaired renal function, monitor for signs of worsening renal function (see WARNINGS; Renal Toxicity and Hyperkalemia).When these drugs are administered concomitantly, patients should be adequately hydrated. Assess renal function at the beginning of the concomitant treatment and periodically thereafter. |
 | Diuretics |  |
 | Clinical Impact: | Clinical studies, as well as postmarketing observations, showed that NSAIDs reduced the natriuretic effect of loop diuretics (e.g., furosemide) and thiazide diuretics in some patients. This effect has been attributed to the NSAID inhibition of renal prostaglandin synthesis. |
-| Intervention: | During concomitant use of diclofenac with diuretics, observe patients for signs of worsening renal function, in addition to assuring diuretic efficacy including antihypertensive effects (see WARNINGS; Renal Toxicityand Hyperkalemia) |
+| Intervention: | During concomitant use of diclofenac with diuretics, observe patients for signs of worsening renal function, in addition to assuring diuretic efficacy including antihypertensive effects (see WARNINGS; Renal Toxicity and Hyperkalemia) |
 | Digoxin |  |
 | Clinical Impact: | The concomitant use of diclofenac with digoxin has been reported to increase the serum concentration and prolong the half-life of digoxin. |
 | Intervention: | During concomitant use of diclofenac and digoxin, monitor serum digoxin levels. |
@@ -292,15 +320,58 @@ Pregnancy
 
 Risk Summary
 
-Use of NSAIDs, including diclofenac, during the third trimester of pregnancy increases the risk of premature closure of the fetal ductus arteriosus.
-Avoid use of NSAIDs, including diclofenac, in pregnant women starting at 30 weeks of gestation (third trimester) (see WARNINGS; Premature Closure of Fetal Ductus Arterious).
+Use of NSAIDs, including diclofenac potassium tablets, can cause premature closure of the fetal ductus arteriosus and fetal renal dysfunction leading to oligohydramnios and, in some cases, neonatal renal impairment.
+Because of these risks, limit dose and duration of diclofenac potassium tablets use between about 20 and 30 weeks of gestation, and avoid diclofenac potassium tablets use at about 30 weeks of gestation and later in pregnancy (see WARNINGS; Fetal Toxicity).
 
-There are no adequate and well-controlled studies of diclofenac in pregnant women.
-Data from observational studies regarding potential embryofetal risks of NSAID use in women in the first or second trimesters of pregnancy are inconclusive.
-In the general U.S. population, all clinically recognized pregnancies, regardless of drug exposure, have a background rate of 2 to 4% for major malformations, and 15 to 20% for pregnancy loss.
-In animal reproduction studies, no evidence of teratogenicity was observed in mice, rats, or rabbits given diclofenac during the period of organogenesis at doses up to approximately 0.5, 0.5, and 1 times, respectively, the maximum recommended human dose (MRHD) of diclofenac, despite the presence of maternal and fetal toxicity at these doses [see Data].
+Premature Closure of Fetal Ductus Arteriosus
+
+Use of NSAIDs, including diclofenac potassium tablets, at about 30 weeks gestation or later in pregnancy increases the risk of premature closure of the fetal ductus arteriosus.
+
+Oligohydramnios/Neonatal Renal Impairment
+
+Use of NSAIDs at about 20 weeks gestation or later in pregnancy has been associated with cases of fetal renal dysfunction leading to oligohydramnios, and in some cases, neonatal renal impairment.
+
+Data from observational studies regarding other potential embryofetal risks of NSAID use in women in the first or second trimesters of pregnancy are inconclusive.
+In the general U.S. population, all clinically recognized pregnancies, regardless of drug exposure, have a background rate of 2% to 4% for major malformations, and 15% to 20% for pregnancy loss.
+In animal reproduction studies no evidence of teratogenicity was observed in mice, rats, or rabbits given diclofenac during the period of organogenesis at doses up to approximately 0.5, 0.5, and 1 times, respectively, the maximum recommended human dose (MRHD) of diclofenac, despite the presence of maternal and fetal toxicity at these doses [see Data].
 Based on animal data, prostaglandins have been shown to have an important role in endometrial vascular permeability, blastocyst implantation, and decidualization.
 In animal studies, administration of prostaglandin synthesis inhibitors such as diclofenac, resulted in increased pre- and post-implantation loss.
+Prostaglandins also have been shown to have an important role in fetal kidney development.
+In published animal studies, prostaglandin synthesis inhibitors have been reported to impair kidney development when administered at clinically relevant doses.
+
+Clinical Considerations
+
+Fetal/Neonatal Adverse Reactions
+
+Premature Closure of Fetal Ductus Arteriosus:
+
+Avoid use of NSAIDs in women at about 30 weeks gestation and later in pregnancy, because NSAIDs, including diclofenac potassium tablets, can cause premature closure of the fetal ductus arteriosus (see WARNINGS; Fetal Toxicity).
+
+Oligohydramnios/Neonatal Renal Impairment
+
+If an NSAID is necessary at about 20 weeks gestation or later in pregnancy, limit the use to the lowest effective dose and shortest duration possible.
+If diclofenac potassium tablets treatment extends beyond 48 hours, consider monitoring with ultrasound for oligohydramnios.
+If oligohydramnios occurs, discontinue diclofenac potassium tablets and follow up according to clinical practice (see WARNINGS; Fetal Toxicity).
+
+Data
+
+Human Data
+
+Premature Closure of Fetal Ductus Arteriosus:
+
+Published literature reports that the use of NSAIDs at about 30 weeks of gestation and later in pregnancy may cause premature closure of the fetal ductus arteriosus.
+
+Oligohydramnios/Neonatal Renal Impairment:
+
+Published studies and postmarketing reports describe maternal NSAID use at about 20 weeks gestation or later in pregnancy associated with fetal renal dysfunction leading to oligohydramnios, and in some cases, neonatal renal impairment.
+These adverse outcomes are seen, on average, after days to weeks of treatment, although oligohydramnios has been infrequently reported as soon as 48 hours after NSAID initiation.
+In many cases, but not all, the decrease in amniotic fluid was transient and reversible with cessation of the drug.
+There have been a limited number of case reports of maternal NSAID use and neonatal renal dysfunction without oligohydramnios, some of which were irreversible.
+Some cases of neonatal renal dysfunction required treatment with invasive procedures, such as exchange transfusion or dialysis.
+
+Methodological limitations of these postmarketing studies and reports include lack of a control group; limited information regarding dose, duration, and timing of drug exposure; and concomitant use of other medications.
+These limitations preclude establishing a reliable estimate of the risk of adverse fetal and neonatal outcomes with maternal NSAID use.
+Because the published safety data on neonatal outcomes involved mostly preterm infants, the generalizability of certain reported risks to the full-term infant exposed to NSAIDs through maternal use is uncertain.
 
 Data
 
