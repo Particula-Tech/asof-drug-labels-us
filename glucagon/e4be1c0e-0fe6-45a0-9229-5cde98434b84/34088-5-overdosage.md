@@ -1,5 +1,5 @@
 # 10 OVERDOSAGE
 
-If overdosage occurs, the patient may experience nausea, vomiting, inhibition of GI tract motility, increase in blood pressure and heart rate, and decrease in serum potassium.
-In case of suspected overdosage, monitor and correct hypokalemia.
-If the patient develops a severe increase in blood pressure, phentolamine mesylate may be effective in lowering blood pressure for the short time that control would be needed.
+If overdosage occurs, the patient may experience nausea, vomiting, inhibition of GI tract motility, increase in blood pressure and pulse rate.
+In case of suspected overdosing, the serum potassium may decrease and should be monitored and corrected if needed.
+If the patient develops a dramatic increase in blood pressure, phentolamine mesylate has been shown to be effective in lowering blood pressure for the short time that control would be needed.

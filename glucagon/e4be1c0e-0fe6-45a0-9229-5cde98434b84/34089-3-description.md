@@ -1,12 +1,14 @@
 # 11 DESCRIPTION
 
-Glucagon for Injection, for intravenous or intramuscular use, is a gastrointestinal motility inhibitor that is produced by solid phase peptide synthesis.
+Glucagon is an antihypoglycemic agent and a gastrointestinal motility inhibitor.
+It is produced by solid phase peptide synthesis.
+The chemical structure of the glucagon is identical to human glucagon.
 Glucagon is a single-chain polypeptide containing 29 amino acid residues.
-The chemical structure of the glucagon polypeptide is identical to human glucagon and to glucagon extracted from beef and pork pancreas.
 The structure of glucagon is:
 
-C153H225N43O49S Molecular Weight = 3483
+| Molecular Formula = C153H225N43O49S | Molecular Weight = 3483 |
+| --- | --- |
 
-Glucagon for Injection is a sterile, lyophilized white powder in a 3 mL vial.
-The reconstituted solution contains 1 mg of glucagon as hydrochloride per mL and lactose monohydrate (107 mg).
+Glucagon for Injection is a sterile, lyophilized white powder in a 3 mL vial for subcutaneous, intramuscular or intravenous use.
+The reconstituted solution contains glucagon as hydrochloride 1 mg per mL and lactose monohydrate (107 mg).
 Glucagon for Injection is supplied at pH 2.5 to 3.5 and is soluble in water.

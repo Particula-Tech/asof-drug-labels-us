@@ -1,7 +1,9 @@
 # 1 INDICATIONS AND USAGE
 
-Glucagon for Injection is indicated for use as a diagnostic aid during radiologic examinations to temporarily inhibit movement of the gastrointestinal tract.
+## 1.1 Severe Hypoglycemia
 
-Limitations of Use:
+Glucagon for Injection is indicated for the treatment of severe hypoglycemia in pediatric and adult patients with diabetes.
 
-Glucagon for Injection is not indicated for the emergency treatment of hypoglycemia because it is not packaged with a syringe and diluent necessary for rapid preparation and administration during an emergency outside of a healthcare facility.
+## 1.2 Diagnostic Aid
+
+Glucagon for Injection is indicated as a diagnostic aid for use during radiologic examinations to temporarily inhibit movement of the gastrointestinal tract in adult patients.

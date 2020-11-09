@@ -1,32 +1,55 @@
 # 2 DOSAGE AND ADMINISTRATION
 
-## 2.1 Recommended Dose
+## 2.1 Important Administration Instructions for Using the Glucagon Emergency Kit for Low Blood Sugar to Treat Severe Hypoglycemia
 
-Determine the dose based on the type of diagnostic procedure, the route of administration and expected procedure duration [see Clinical Pharmacology (12.2)].
+Glucagon for Injection is for subcutaneous, intramuscular, or intravenous injection.
+Administer intravenously ONLY under medical supervision.
 
-The usual dose to inhibit movement of the:
+Instruct patients and their caregivers on the signs and symptoms of severe hypoglycemia.
+Because severe hypoglycemia requires the help of others to recover, instruct the patient to inform those around them about Glucagon for Injection and its Instructions for Use.
+Administer Glucagon for Injection as soon as possible when severe hypoglycemia is recognized.
 
-- Stomach and small bowel is 0.2 mg to 0.5 mg given intravenously or 1 mg given intramuscularly.
-- Colon is 0.5 mg to 0.75 mg given intravenously or 1 mg to 2 mg given intramuscularly.
+Instruct the patient or caregiver to read the Instructions for Use at the time they receive a prescription for Glucagon for Injection.
+Emphasize the following instructions to the patient or caregiver:
 
-Bolus doses above 1 mg administered intravenously have caused nausea and vomiting and are not recommended [see Adverse Reactions (6)].
+- Using the supplied prefilled syringe, carefully insert the needle through the rubber stopper of the vial containing Glucagon for Injection powder and inject all the liquid from the syringe into the vial.
+- Shake the vial gently until the powder is completely dissolved and no particles remain in the fluid.
+  The reconstituted solution should be clear and colorless.
+  Inspect visually for particulate matter and discoloration.
+  If the resulting solution is cloudy or contains particulate matter do not use.
+- The reconstituted solution is 1 mg per mL glucagon.
+- Immediately after reconstitution, inject the solution subcutaneously or intramuscularly in the upper arm, thigh, or buttocks.
+  In addition, healthcare providers may administer intravenously.
+- Call for emergency assistance immediately after administering the dose.
+- When the patient has responded to the treatment and is able to swallow, give oral carbohydrates to restore the liver glycogen and prevent recurrence of hypoglycemia.
+- Discard any unused portion.
 
-## 2.2 Reconstitution of the Lyophilized Powder
+## 2.2 Dosage in Adults and Pediatric Patients for Using the Glucagon Emergency Kit for Low Blood Sugar to Treat Severe Hypoglycemia
 
-Glucagon for Injection is a lyophilized powder, which requires reconstitution with Sterile Water for Injection prior to intravenous or intramuscular use.
+Adults and Pediatric Patients Weighing More Than 25 kg or for Pediatric Patients with Unknown Weight 6 Years and Older
 
-- Using a syringe, withdraw 1 mL of Sterile Water for Injection and inject into the vial containing Glucagon for Injection lyophilized powder.
-- Shake the vial gently until the powder is completely dissolved and no particles remain in the reconstituted solution.
-- Visually inspect the reconstituted solution for particulate matter and discoloration prior to administration.
-  The reconstituted solution should be clear and of water-like consistency.
-  Discard the reconstituted solution if there are signs of gel formation or particles.
-- The reconstituted solution has a concentration of approximately 1 mg of glucagon per mL.
-- Use the reconstituted glucagon immediately after reconstitution.
+- The recommended dosage is 1 mg (1 mL) injected subcutaneously or intramuscularly into the upper arm, thigh, or buttocks, or intravenously.
+- If there has been no response after 15 minutes, an additional 1 mg dose (1 mL) of Glucagon for Injection may be administered using a new kit while waiting for emergency assistance.
 
-## 2.3 Important Administration Instructions
+Pediatric Patients Weighing Less Than 25 kg or for Pediatric Patients with Unknown Weight Less Than 6 Years of Age
 
-- Glucagon for Injection must be administered by medical personnel.
-- The timing of administration of Glucagon for Injection depends upon the organ under examination and route of administration [see Clinical Pharmacology (12.2)].
-- If given intravenously, administer Glucagon for Injection as a bolus over a time period of 1 minute.
+- The recommended dosage is 0.5 mg (0.5 mL) injected subcutaneously or intramuscularly into the upper arm, thigh, or buttocks, or intravenously.
+- If there has been no response after 15 minutes, an additional 0.5 mg dose (0.5 mL) of Glucagon for Injection may be administered using a new kit while waiting for emergency assistance.
+
+## 2.3 Important Administration Instruction for Using Glucagon for Injection Diagnostic Kit and Glucagon for Injection Single-Dose Vial as a Diagnostic Aid
+
+- Reconstitute Glucagon for Injection with 1 mL of Sterile Water for Injection.
+  Using a syringe, withdraw all of the Sterile Water for Injection (if supplied) or 1 mL Sterile Water for Injection and inject into the Glucagon for Injection vial.
+- Shake the vial gently until the powder is completely dissolved and no particles remain in the fluid.
+  The reconstituted fluid should be clear and colorless.
+  Inspect visually for particulate matter and discoloration.
+  If the resulting solution is cloudy or contains particulate matter do not use.
+- The reconstituted solution is 1 mg per mL glucagon.
+- Immediately after reconstitution, inject the solution intravenously or intramuscularly into upper arm, thigh, or buttocks.
 - Discard any unused portion.
 - After the end of the diagnostic procedure, give oral carbohydrates to patients who have been fasting, if this is compatible with the diagnostic procedure.
+
+## 2.4 Dosage in Adults for Using Glucagon for Injection Diagnostic Kit and Glucagon for Injection Single-Dose Vial as a Diagnostic Aid
+
+- The recommended diagnostic dose for relaxation of the stomach, duodenal bulb, duodenum, and small bowel is 0.2 mg to 0.5 mg administered intravenously or 1 mg administered intramuscularly; the recommended dose to relax the colon is 0.5 mg to 0.75 mg administered intravenously or 1 mg to 2 mg administered intramuscularly [see Clinical Pharmacology (12.2)].
+- The onset of action after an injection will depend on the organ under examination and route of administration [see Clinical Pharmacology (12.2)].

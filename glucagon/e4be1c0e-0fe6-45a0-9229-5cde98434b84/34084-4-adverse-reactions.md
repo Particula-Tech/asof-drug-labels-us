@@ -1,35 +1,55 @@
 # 6 ADVERSE REACTIONS
 
-The following serious adverse reactions are described below and elsewhere in the labeling:
+The following important adverse reactions are described below and elsewhere in the labeling:
 
-- Hypertension in patients with Pheochromocytoma [see Contraindications (4) and Warnings and Precautions (5.1)]
-- Hypoglycemia in Patients with Insulinoma and Glucagonoma [see Contraindications (4) and Warnings and Precautions (5.2)]
-- Hyperglycemia in Patients with Diabetes Mellitus [see Warnings and Precautions (5.3)]
-- Hypersensitivity and Allergic Reactions; generalized allergic reactions including generalized rash, and in some cases anaphylactic shock with breathing difficulties, and hypotension [see Warnings and Precautions (5.5)]
+- Hypersensitivity and Allergic Reactions [see Warnings and Precautions (5.3)]
+- Necrolytic Migratory Erythema [see Warnings and Precautions (5.5)]
+- Hyperglycemia in Patients with Diabetes Mellitus when Used as a Diagnostic Aid [see Warnings and Precautions (5.6)]
+- Blood Pressure and Heart Rate Increase in Patients with Cardiac Disease when Used as a Diagnostic Aid [see Warnings and Precautions (5.7)]
 
-Adverse Reactions from Clinical Trials
+## 6.1 Clinical Studies Experience
 
 Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to the rates in clinical trials of another drug and may not reflect the rates observed in practice.
 
-In an open-label clinical study of Glucagon for Injection, 29 healthy volunteers received a single dose of 1 mg Glucagon for Injection intramuscularly.
+In a randomized single-blind clinical study of Glucagon for Injection, 29 healthy subjects received a single dose of 1 mg Glucagon for Injection intramuscularly.
 Table 1 shows the most common adverse reactions that were not present at baseline and occurred in at least 5% of patients.
 
-Table 1: Adverse Reactions in Healthy Volunteers Who Received Glucagon for Injection, 1 mg Administered Intramuscularly
+Table 1: Adverse Reactions Occurring in ≥ 5% of Healthy Subjects Who Received Glucagon for Injection Intramuscularly
 
-|  | (N=29) % of Patients |
+|  | Glucagon for Injection (N=29) % of Patients |
 | --- | --- |
-| Vomiting | 17 |
-| Nausea | 7 |
+| Nausea | 17 |
+| Vomiting | 7 |
 
-Adverse Reactions from the Literature and Other Clinical Studies
+In a randomized, single-blind clinical study of Glucagon for Injection, 31 healthy subjects received a single dose of 1 mg Glucagon for Injection subcutaneously.
+Table 2 shows the most common adverse reactions that were not present at baseline and occurred in at least 5% of patients.
+(2.1)].
 
-The following adverse reactions have been identified from the literature and clinical studies with the use of glucagon.
-Therefore, it is not possible to reliably estimate their frequency.
+Table 2: Adverse Reactions Occurring ≥5% in Healthy Subjects Who Received Glucagon for Injection Subcutaneously
 
-- Nausea and vomiting occurred with doses above 1 mg administered by rapid intravenous injection (within 1 to 2 seconds).
-  Doses above 1 mg are not recommended for intravenous use [see Dosage and Administration (2.1)].
-- Hypotension was reported up to 2 hours after administration in patients receiving glucagon as premedication for upper GI endoscopy procedures.
-- A temporary increase in both blood pressure and pulse rate occurred following the administration of glucagon.
-  Patients taking beta-blockers experienced a temporary increase in both pulse and blood pressure that was greater than normal [see Drug Interactions (7)].
-- Other adverse reactions included hypoglycemia and hypoglycemic coma, as described in postmarketing reports.
+|  | Glucagon for Injection (N=31) % of Patients |
+| --- | --- |
+| Injection site swelling | 58 |
+| Injection site erythema | 55 |
+| Vomiting | 36 |
+| Nausea | 32 |
+| Decreased blood pressure | 23 |
+| Asthenia | 23 |
+| Headache | 13 |
+| Dizziness | 10 |
+| Pallor | 10 |
+| Diarrhea | 7 |
+| Somnolence | 7 |
+
+Other Adverse Reactions
+
+Hypertension and tachycardia have occurred with glucagon treatment.
+
+## 6.2 Postmarketing Experience
+
+Additional adverse reactions have been identified during post-approval use of glucagon.
+Because these reactions are reported voluntarily from a population of uncertain size, it is generally not possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
+
+- hypoglycemia and hypoglycemic coma.
   Patients taking indomethacin may be more likely to experience hypoglycemia following glucagon administration [see Drug Interactions (7)].
+- Necrolytic migratory erythema (NME) cases have been reported postmarketing in patients receiving continuous infusion of glucagon.

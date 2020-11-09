@@ -1,27 +1,26 @@
-PACKAGE LABEL - PRINCIPAL DISPLAY - Glucagon Kit 1 mg Vial Label 509603 Glucagon for Injection 1 mg per vial For intramuscular or intravenous injection.
+PACKAGE LABEL - PRINCIPAL DISPLAY - Glucagon Kit 1 mg Vial Label Glucagon 509603 for Injection (Synthetic) 1 mg per vial For intramuscular or intravenous injection.
 For diagnostic use only.
 Reconstitute with Sterile Water for Injection, USP Rx only
 
-PACKAGE LABEL - PRINCIPAL DISPLAY - Glucagon Kit 1 mL Diluent Vial Label NDC 63323-185-03 95127 Sterile Water for Injection, USP 1 mL per vial FOR DRUG DILUENT USE ONLY.
-Contains no antimicrobial or other added substance.
+PACKAGE LABEL - PRINCIPAL DISPLAY - Glucagon Kit 1 mL Diluent Vial Label Sterile Water for Injection, USP 1 mL per vial FOR DRUG DILUENT USE ONLY Contains no antimicrobial or other added substance.
 Do not give intravenously unless rendered nearly Isotonic.
 Discard unused portion.
 1 mL Single Dose Vial Rx only
 
-PACKAGE LABEL - PRINCIPAL DISPLAY - Glucagon Kit 1 mg Vial Carton Panel Glucagon for Injection 1 mg per vial For intramuscular or intravenous injection only.
+PACKAGE LABEL - PRINCIPAL DISPLAY - Glucagon Kit 1 mg Vial Carton Panel Glucagon 509603 for Injection (Synthetic) 1 mg per vial For intramuscular or intravenous injection only.
 FOR DIAGNOSTIC USE ONLY.
 Reconstitute with Sterile Water for Injection, USP immediately before use.
-Each Kit contains:
+Each kit contains:
 
-- One single use vial with 1 mg of Glucagon for Injection
-- One single use vial with 1 mL of Sterile Water for Injection, USP
+- One single dose vial with 1 mg of Glucagon for Injection
+- One single dose vial with 1 mL of Sterile Water for Injection, USP
 
-Single Use Vials Rx only
+Single Dose Vials Rx only
 
-PACKAGE LABEL - PRINCIPAL DISPLAY - Glucagon 1 mg Vial Label Glucagon for Injection 1 mg per vial For intramuscular or intravenous injection.
+PACKAGE LABEL - PRINCIPAL DISPLAY - Glucagon 1 mg Vial Label Glucagon 509613 for Injection (Synthetic) 1 mg per vial For intramuscular or intravenous injection.
 For diagnostic use only.
 Reconstitute with Sterile Water for Injection, USP Rx only
 
-PACKAGE LABEL - PRINCIPAL DISPLAY - Glucagon 1 mg Vial Tray Label Glucagon for Injection 1 mg per vial For intramuscular or intravenous injection only.
+PACKAGE LABEL - PRINCIPAL DISPLAY - Glucagon 1 mg Vial Tray Label NDC 63323-596-13 Glucagon for Injection (Synthetic) 1 mg per vial For intramuscular or intravenous injection only.
 For diagnostic use only.
 10 Vials Rx only
