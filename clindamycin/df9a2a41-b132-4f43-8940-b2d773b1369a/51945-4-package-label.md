@@ -1,8 +1,6 @@
 # PRINCIPAL DISPLAY PANEL - 75 mg Capsule Bottle Label
 
-NDC 0009-0331-02
-
-Pfizer
+Pfizer NDC 0009-0331-02
 
 Cleocin HCl®
 
@@ -14,9 +12,7 @@ clindamycin hydrochloride capsules, USP
 
 # PRINCIPAL DISPLAY PANEL - 150 mg Capsule Bottle Label
 
-NDC 0009-0225-02
-
-Pfizer
+Pfizer NDC 0009-0225-02
 
 Cleocin HCl®
 
@@ -28,9 +24,7 @@ clindamycin hydrochloride capsules, USP
 
 # PRINCIPAL DISPLAY PANEL - 300 mg Capsule Bottle Label
 
-NDC 0009-0395-14
-
-Pfizer
+Pfizer NDC 0009-0395-14
 
 Cleocin HCl®
 
