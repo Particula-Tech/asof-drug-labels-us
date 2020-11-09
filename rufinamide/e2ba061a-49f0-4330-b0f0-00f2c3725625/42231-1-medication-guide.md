@@ -11,13 +11,12 @@ This information does not take the place of talking to your healthcare provider 
 What is the most important information I should know about rufinamide oral suspension?
 
 Do not stop taking rufinamide oral suspension without first talking to your healthcare provider.
-
 Stopping rufinamide oral suspension suddenly can cause serious problems.
 
 Rufinamide oral suspension can cause serious side effects, including:
 
-1.
 Like other antiepileptic drugs, rufinamide oral suspension may cause suicidal thoughts or actions in a very small number of people, about 1 in 500.
+
 Call a healthcare provider right away if you have any of these symptoms, especially if they are new, worse, or worry you:
 
 - thoughts about suicide or dying
@@ -46,22 +45,19 @@ Do not stop rufinamide oral suspension without first talking to a healthcare pro
 
 - Stopping rufinamide oral suspension suddenly can cause serious problems.
   Stopping a seizure medicine suddenly in a patient who has epilepsy can cause seizures that will not stop (status epilepticus).
-
-2.
-Rufinamide oral suspension may cause you to feel sleepy, tired, weak, dizzy, or have problems with coordination and walking.
+- Rufinamide oral suspension may cause you to feel sleepy, tired, weak, dizzy, or have problems with coordination and walking.
 
 What is rufinamide oral suspension?
 
 Rufinamide oral suspension is a prescription medicine used with other medicines to treat seizures associated with Lennox-Gastaut Syndrome (LGS) in adults and pediatric patients 1 year of age and older.
 
-It is not known if rufinamide oral suspension is safe and effective in the treatment of Lennox-Gastaut Syndrome in pediatric patients under 1 year of age.
+It is not known if rufinamide oral suspension is safe and effective in the treatment of Lennox‑Gastaut Syndrome in pediatric patients under 1 year of age.
 
 Who should not take rufinamide oral suspension?
 
 Do not take rufinamide oral suspension if you have a genetic condition called familial short QT syndrome, a problem that affects the electrical system of the heart.
 
 What should I tell my healthcare provider before taking rufinamide oral suspension?
-
 Before you take rufinamide oral suspension, tell your healthcare provider if you:
 
 - have heart problems
@@ -73,15 +69,15 @@ Before you take rufinamide oral suspension, tell your healthcare provider if you
   Tell your healthcare provider right away if you become pregnant while taking rufinamide oral suspension.
   You and your healthcare provider will decide if you should take rufinamide oral suspension while you are pregnant.
 - Rufinamide oral suspension may make certain types of birth control less effective.
-  Talk to your healthcare provider about the best birth control methods for you while you take rufinamide oral suspension. ○ If you become pregnant while taking rufinamide oral suspension, talk to your healthcare provider about registering with the North American Antiepileptic Drug Pregnancy Registry.
+  Talk to your healthcare provider about the best birth control methods for you while you take rufinamide oral suspension.
+- If you become pregnant while taking rufinamide oral suspension, talk to your healthcare provider about registering with the North American Antiepileptic Drug Pregnancy Registry.
   You can enroll in this registry by calling 1-888-233-2334.
   The purpose of this registry is to collect information about the safety of antiepileptic medicines during pregnancy.
 - are breastfeeding or plan to breastfeed.
-  Rufinamide may pass into your breast milk.
-  You and your healthcare provider should decide if you will take rufinamide oral suspension or breastfeed.
-  You should not do both.
+  It is not known if rufinamide will pass into your breast milk.
+  Talk to your healthcare provider about the best way to feed your baby if you take rufinamide oral suspension.
 
-Tell your healthcare provider about all the medicines you take, including prescription and non-prescription medicines, vitamins, and herbal supplements.
+Tell your healthcare provider about all the medicines you take, including prescription and non‑prescription medicines, vitamins, and herbal supplements.
 
 Taking rufinamide oral suspension with certain other medicines can cause side effects or affect how well they work.
 Do not start or stop other medicines without talking to your healthcare provider.
@@ -98,7 +94,9 @@ How should I take rufinamide oral suspension?
 - Take rufinamide oral suspension with food.
 - If you take rufinamide oral suspension, shake the bottle well before you take each dose.
   Measure your dose of rufinamide oral suspension using the bottle adapter and dosing syringes provided.
-  See the complete Instructions for Use below for information on how to use the dosing syringes and measure your dose of rufinamide oral suspension.
+
+See the complete Instructions for Use below for information on how to use the dosing syringes and measure your dose of rufinamide oral suspension.
+
 - If you take too much rufinamide oral suspension, call your local Poison Control Center or get emergency medical help right away.
 
 What should I avoid while taking rufinamide oral suspension?
@@ -149,12 +147,11 @@ These are not all of the possible side effects of rufinamide oral suspension.
 For more information, ask your healthcare provider or pharmacist.
 
 Call your doctor for medical advice about side effects.
-You may report side effects to FDA at 1-800-FDA-1088.
+You may report side effects to FDA at 1‑800-FDA-1088.
 
 How should I store rufinamide oral suspension?
 
-- Store rufinamide oral suspension at 59º to 86ºF (15º to 30ºC).
-
+- Store rufinamide oral suspension at 59ºF to 86ºF (15ºC to 30ºC).
 - Replace the cap securely after opening.
 - Keep rufinamide oral suspension in an upright position.
 - Use rufinamide oral suspension within 90 days of first opening the bottle.
@@ -188,8 +185,8 @@ Bionpharma Inc.
 
 Princeton, NJ 08540
 
-Revised June 2018
+Revised September 2020
 
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
 
-FDA-03
+FDA-05

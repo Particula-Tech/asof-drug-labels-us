@@ -107,7 +107,7 @@ Figure J
 Step 11.
 Cap the bottle tightly.
 The cap will fit over the bottle adapter.
-Store the bottle upright at 59° to 86°F (15° to 30°C).
+Store the bottle upright at 59°F to 86°F (15°C to 30°C).
 See Figure K
 
 Figure K
@@ -122,6 +122,6 @@ Bionpharma Inc.
 
 Princeton, NJ 08540
 
-June 2018
+September 2020
 
-FDA-03
+FDA-04

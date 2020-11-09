@@ -10,6 +10,6 @@ The oral suspension is available in bottles of 460 mL (NDC 69452-223-84).
 
 ## 16.2 Storage and Handling
 
-Store the oral suspension at 25ºC (77ºF); excursions permitted to 15º to 30ºC (59º to 86ºF) [See USP Controlled Room Temperature].
+Store the oral suspension at 25ºC (77ºF); excursions permitted to 15ºC to 30ºC (59ºF to 86ºF) [See USP Controlled Room Temperature].
 Replace cap securely after opening.
 The cap fits properly in place when the adapter is in place.
