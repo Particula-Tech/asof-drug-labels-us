@@ -2,6 +2,6 @@ FABIOR is a licensed trademark of Mayne Pharma LLC used under license to Mayne P
 
 ©2016 Mayne Pharma All rights reserved.1240 Sugg Parkway Greenville NC 27834
 
-Manufactured for: Mayne Pharma Greenville, NC 27834
+Distributed by: Mayne Pharma Greenville, NC 27834
 
-141026
+141136

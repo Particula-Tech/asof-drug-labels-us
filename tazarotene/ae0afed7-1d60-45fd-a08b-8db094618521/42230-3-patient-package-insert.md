@@ -82,8 +82,6 @@ Shake the FABIOR Foam can before use.
 
 2.
 Remove cap from can.
-Nozzle should be lined up with black mark on rim of can.
-If black mark is not lined up with the nozzle, twist nozzle to line up with black mark.
 See Figure A.
 
 Figure A
@@ -193,4 +191,4 @@ All rights reserved.
 
 Distributed by: Mayne Pharma Greenville, NC 27834
 
-November 2016
+02/2020
