@@ -1,6 +1,3 @@
-# HOW SUPPLIED
+# 16 HOW SUPPLIED/STORAGE AND HANDLING
 
-Tranexamic acid injection, USP 1,000 mg per 10 mL (100 mg / mL) is a clear, colorless solution, free from visible particles and is supplied as follows: 10 mL single-dose vials in a carton of 10 NDC 55150-188-10 STORAGE Store at 20° to 25°C (68° to 77°F).
-[See USP Controlled Room Temperature.]
-Distributed by: AuroMedics Pharma LLC 279 Princeton-Hightstown Rd.
-E. Windsor, NJ 08520 Manufactured by: Aurobindo Pharma Limited Hyderabad - 500038 India Revised: July 2019
+Tranexamic acid injection USP, 1,000 mg per 10 mL (100 mg/mL) is a sterile, clear, colorless solution free from visible particles and is supplied as follows: 1,000 mg per 10 mL (100 mg/mL) 10 mL Single-Dose Vials Packaged in a Carton of 10 NDC 55150-188-10 Store at 20ºC to 25°C (68ºF to 77°F); excursions permitted to 15°C to 30°C (59°F to 86°F) [see USP Controlled Room Temperature].
