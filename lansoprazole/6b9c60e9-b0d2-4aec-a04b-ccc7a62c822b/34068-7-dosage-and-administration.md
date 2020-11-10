@@ -29,8 +29,10 @@
 
 ## 2.2 Recommended Pediatric Dosage by Indication
 
-Pediatric Patients 1 to 11 Years of Age In clinical studies, lansoprazole delayed-release capsules were not administered beyond 12 weeks in 1 to 11 year olds.
-It is not known if lansoprazole is safe and effective if used longer than therecommended duration.
+Pediatric Patients 1 to 11 Years of Age
+
+In clinical studies, lansoprazole delayed-release capsules were not administered beyond 12 weeks in 1 to 11 year olds.
+It is not known if lansoprazole is safe and effective if used longer than there commended duration.
 Do not exceed the recommended dose and duration of use in pediatric patients as outlined below [see Use in Specific Populations (8.4)].
 
 | Indication | Recommended Dose | Frequency |
@@ -86,6 +88,6 @@ Administration with Apple Juice Through a Nasogastric Tube (≥16 French)
 1. Open capsule.
 2. Sprinkle intact granules into 40 mL of apple juice.
 3. Mix briefly.
-4. Using a catheter tipped syringe, draw up the mixture.
+4. Using a catheter-tipped syringe, draw up the mixture.
 5. Inject through the nasogastric tube into the stomach.
 6. Flush with additional apple juice to clear the tube.

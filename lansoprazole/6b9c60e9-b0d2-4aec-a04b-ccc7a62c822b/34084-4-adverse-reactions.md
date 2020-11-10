@@ -38,7 +38,7 @@ In the risk reduction study of lansoprazole for NSAID-associated gastric ulcers,
 Another study for the same indication, where patients took either a COX-2 inhibitor or lansoprazole and naproxen, demonstrated that the safety profile was similar to the prior study.
 Additional reactions from this study not previously observed in other clinical trials with lansoprazole included contusion, duodenitis, epigastric discomfort, esophageal disorder, fatigue, hunger, hiatal hernia, hoarseness, impaired gastric emptying, metaplasia, and renal impairment.
 
-Additional adverse experiences occurring in less than 1% of patients or subjects who received Lansoprazole delayed-release capsules in domestic trials are shown below:
+Additional adverse experiences occurring in less than 1% of patients or subjects who received lansoprazole delayed-release capsules in domestic trials are shown below:
 
 Body as a Whole – abdomen enlarged, allergic reaction, asthenia, back pain, candidiasis, carcinoma, chest pain (not otherwise specified), chills, edema, fever, flu syndrome, halitosis, infection (not otherwise specified), malaise, neck pain, neck rigidity, pain, pelvic pain
 

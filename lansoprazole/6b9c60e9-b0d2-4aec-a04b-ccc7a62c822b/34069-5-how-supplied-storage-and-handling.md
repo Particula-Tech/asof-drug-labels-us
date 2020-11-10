@@ -6,19 +6,18 @@ They are available as follows:
 
 NDC Number Size
 
-27241-019-03 Bottles of 30: 15 mg capsules
+27241-019-03 Bottles of 30 with child-resistant closure: 15 mg capsules
 
-27241-019-10 Bottles of 100: 15 mg capsules
+27241-019-10 Bottles of 100 with child-resistant closure: 15 mg capsules
 
-27241-020-03 Bottles of 30: 30 mg capsules
+27241-020-03 Bottles of 30 with child-resistant closure: 30 mg capsules
 
-27241-020-09 Bottles of 90: 30 mg capsules
+27241-020-09 Bottles of 90 with child-resistant closure: 30 mg capsules
 
-27241-020-10 Bottles of 100: 30 mg capsules
+27241-020-10 Bottles of 100 with child-resistant closure: 30 mg capsules
 
 27241-020-50 Bottles of 500: 30 mg capsules
 
 27241-020-90 Bottles of 1000: 30 mg capsules
 
-Store at 25°C (77°F); excursions permitted to 15° to 30°C (59° to 86°F).
-[see USP Controlled Room Temperature]
+Store at 25°C (77°F); excursions permitted to 15°C to 30°C (59°F to 86°F) [see USP Controlled Room Temperature].

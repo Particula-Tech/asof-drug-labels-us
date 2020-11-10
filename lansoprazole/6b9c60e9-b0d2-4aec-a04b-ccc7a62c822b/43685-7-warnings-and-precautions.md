@@ -14,7 +14,7 @@ Discontinue lansoprazole delayed-release capsules if acute interstitial nephriti
 
 ## 5.3 Clostridium difficile-Associated Diarrhea
 
-Published observational studies suggest that proton pump inhibitor (PPI) therapy like lansoprazole may be associated with an increased risk of Clostridium difficile-associated diarrhea (CDAD), especially in hospitalized patients.
+Published observational studies suggest that PPI therapy like lansoprazole may be associated with an increased risk of Clostridium difficile-associated diarrhea (CDAD), especially in hospitalized patients.
 This diagnosis should be considered for diarrhea that does not improve [see Adverse Reactions (6.2)].
 Patients should use the lowest dose and shortest duration of PPI therapy appropriate to the condition being treated.
 CDAD has been reported with use of nearly all antibacterial agents.
@@ -37,9 +37,9 @@ The most common form of CLE reported in patients treated with PPIs was subacute 
 Generally, histological findings were observed without organ involvement.
 
 Systemic lupus erythematosus (SLE) is less commonly reported than CLE in patients receiving PPIs.
-PPI-associated SLE is usually milder than non-drug induced SLE.
+PPI-associated SLE is usually milder than nondrug induced SLE.
 Onset of SLE typically occurred within days to years after initiating treatment primarily in patients ranging from young adults to the elderly.
-The majority of patients presented with rash; however, arthralgia andcytopenia were also reported.
+The majority of patients presented with rash; however, arthralgia and cytopenia were also reported.
 
 Avoid administration of PPIs for longer than medically indicated.
 If signs or symptoms consistent with CLE or SLE are noted in patients receiving lansoprazole, discontinue the drug and refer the patient to the appropriate specialist for evaluation.
@@ -77,3 +77,9 @@ In high-dose methotrexate administration, a temporary withdrawal of the PPI may 
 PPI use is associated with an increased risk of fundic gland polyps that increases with long-term use, especially beyond one year.
 Most PPI users who developed fundic gland polyps were asymptomatic and fundic gland polyps were identified incidentally on endoscopy.
 Use the shortest duration of PPI therapy appropriate to the condition being treated.
+
+## 5.12 Risk of Heart Valve Thickening in Pediatric Patients Less Than One Year of Age
+
+Lansoprazole is not approved in pediatric patients less than one year of age.
+Nonclinical studies in juvenile rats with lansoprazole have demonstrated an adverse effect of heart valve thickening.
+The risk of heart valve injury does not appear to be relevant to patients one year of age and older [see Use in Specific Populations (8.4)].

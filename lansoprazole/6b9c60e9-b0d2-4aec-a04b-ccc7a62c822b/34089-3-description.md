@@ -1,6 +1,6 @@
 # 11 DESCRIPTION
 
-The active ingredient in lansoprazole delayed-release capsules, USP is lansoprazole, a substituted benzimidazole, 2-[[[3-methyl-4-(2,2,2-trifluoroethoxy)-2-pyridyl] methyl] sulfinyl] benzimidazole, a compound that inhibits gastric acid secretion.
+The active ingredient in lansoprazole delayed-release capsules USP is lansoprazole, a substituted benzimidazole, 2-[[[3-methyl-4-(2,2,2-trifluoroethoxy)-2-pyridyl] methyl] sulfinyl] benzimidazole, a compound that inhibits gastric acid secretion.
 Its empirical formula is C16H14F3N3O2S with a molecular weight of 369.37.
 Lansoprazole has the following structure:
 
