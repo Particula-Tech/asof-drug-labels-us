@@ -27,16 +27,16 @@ In general, anaphylactic reactions to drugs are more likely to occur in individu
 Inform patients of the signs of an anaphylactic reaction (e.g., difficulty breathing, swelling of the face or throat).
 If these occur, patients should be instructed to seek immediate emergency help [see Contraindications (4), Warnings and Precautions (5.13)].
 
-Serious Skin Reactions
+Serious Skin Reactions, including DRESS
 
-Inform patients that TREXIMET, like other NSAID-containing products, may increase the risk of serious skin side effects such as exfoliative dermatitis, Stevens-Johnson syndrome, and toxic epidermal necrolysis, which may result in hospitalizations and even death.
+Inform patients that TREXIMET, like other NSAID-containing products, may increase the risk of serious skin side effects such as exfoliative dermatitis, Stevens-Johnson syndrome, toxic epidermal necrolysis, and DRESS, which may result in hospitalizations and even death.
 Although serious skin reactions may occur without warning, patients should be alert for the signs and symptoms of skin rash and blisters, fever, or other signs of hypersensitivity such as itching and should ask for medical advice when observing any indicative signs or symptoms.
-Advise patients to stop the drug immediately if they develop any type of rash and contact their healthcare providers as soon as possible [see Warnings and Precautions (5.14)].
+Advise patients to stop taking TREXIMET immediately if they develop any type of rash or fever and contact their healthcare providers as soon as possible [see Warnings and Precautions (5.14, 5.15)].
 
 Fetal Toxicity
 
-Inform patients that TREXIMET should not be used during the third trimester of pregnancy because NSAID-containing products have been shown to cause premature closure of the ductus arteriosus.
-Inform patients that TREXIMET should be used during the first and second trimester of pregnancy only if the potential benefit justifies the potential risk to the fetus [see Contraindications (4), Warnings and Precautions (5.15), Use in Specific Populations (8.1)].
+Inform pregnant women to avoid use of TREXIMET and other NSAIDs starting at 30 weeks gestation because of the risk of the premature closing of the fetal ductus arteriosus.
+If treatment with TREXIMET is needed for a pregnant woman between about 20 to 30 weeks gestation, advise her that she may need to be monitored for oligohydramnios, if treatment continues for longer than 48 hours [see Warnings and Precautions (5.16), Use in Specific Populations (8.1)].
 
 Nursing Mothers
 
@@ -65,7 +65,7 @@ Treatment with TREXIMET may cause somnolence and dizziness; instruct patients to
 Asthma
 
 Advise patients with preexisting asthma to seek immediate medical attention if their asthma worsens after taking TREXIMET.
-Patients with a history of aspirin-sensitive asthma should not take TREXIMET [see Contraindications (4), Warnings and Precautions (5.17)].
+Patients with a history of aspirin-sensitive asthma should not take TREXIMET [see Contraindications (4), Warnings and Precautions (5.18)].
 
 Avoid Concomitant Use of NSAIDs
 

@@ -186,12 +186,12 @@ In patients with normal renal function, these effects have been attributed to a 
 
 Anaphylactic reactions may occur in patients without known prior exposure to either component of TREXIMET.
 Such reactions can be life-threatening or fatal.
-In general, anaphylactic reactions to drugs are more likely to occur in individuals with a history of sensitivity to multiple allergens although anaphylactic reactions with naproxen have occurred in patient without known hypersensitivity to naproxen or to patients with aspirin sensitive asthma [see Contraindications (4) and Warnings and Precautions (5.17)].
+In general, anaphylactic reactions to drugs are more likely to occur in individuals with a history of sensitivity to multiple allergens although anaphylactic reactions with naproxen have occurred in patient without known hypersensitivity to naproxen or to patients with aspirin sensitive asthma [see Contraindications (4) and Warnings and Precautions (5.18)].
 TREXIMET should not be given to patients with the aspirin triad.
 This symptom complex typically occurs in patients with asthma who experience rhinitis with or without nasal polyps, or who exhibit severe, potentially fatal bronchospasm after taking aspirin or other NSAIDs [see Contraindications (4)].
 
 TREXIMET is contraindicated in patients with a history of hypersensitivity reaction to sumatriptan, naproxen, or any other component of TREXIMET.
-Naproxen has been associated with anaphylactic reactions in patients without known hypersensitivity to naproxen and in patients with aspirin-sensitive asthma [see Contraindications (4) and Warnings and Precautions (5.17)].
+Naproxen has been associated with anaphylactic reactions in patients without known hypersensitivity to naproxen and in patients with aspirin-sensitive asthma [see Contraindications (4) and Warnings and Precautions (5.18)].
 Seek emergency help if an anaphylactic reaction occurs.
 
 ## 5.14 Serious Skin Reactions
@@ -201,12 +201,38 @@ These serious events may occur without warning.
 Inform patients about the signs and symptoms of serious skin reactions and to discontinue the use of TREXIMET at the first appearance of skin rash or any other sign of hypersensitivity.
 TREXIMET is contraindicated in patients with previous serious skin reactions to NSAIDs [see Contraindications (4)].
 
-## 5.15 Premature Closure of the Ductus Arteriosus
+## 5.15 Drug Rash with Eosinophilia and Systemic Symptoms (DRESS)
 
-TREXIMET may cause premature closure of the ductus arteriosus.
-Avoid use of NSAIDs, including TREXIMET, in pregnant women starting at 30 weeks of gestation (third trimester) [see Contraindications (4), Use in Specific Populations (8.1)].
+Drug Reaction with Eosinophilia and Systemic Symptoms (DRESS) has been reported in patients taking NSAIDs such as TREXIMET.
+Some of these events have been fatal or life-threatening.
+DRESS typically, although not exclusively, presents with fever, rash, lymphadenopathy, and/or facial swelling.
+Other clinical manifestations may include hepatitis, nephritis, hematological abnormalities, myocarditis, or myositis.
+Sometimes symptoms of DRESS may resemble an acute viral infection.
+Eosinophilia is often present.
+Because this disorder is variable in its presentation, other organ systems not noted here may be involved.
+It is important to note that early manifestations of hypersensitivity, such as fever or lymphadenopathy, may be present even though rash is not evident.
+If such signs or symptoms are present, discontinue TREXIMET and evaluate the patient immediately.
 
-## 5.16 Hematologic Toxicity
+## 5.16 Fetal Toxicity
+
+Premature Closure of Fetal Ductus Arteriosus:
+
+Avoid use of NSAIDs, including TREXIMET, in pregnant women at about 30 weeks gestation and later.
+NSAIDs, including TREXIMET, increase the risk of premature closure of the fetal ductus arteriosus at approximately this gestational age.
+
+Oligohydramnios/Neonatal Renal Impairment:
+
+Use of NSAIDs, including TREXIMET, at about 20 weeks gestation or later in pregnancy may cause fetal renal dysfunction leading to oligohydramnios and, in some cases, neonatal renal impairment.
+These adverse outcomes are seen, on average, after days to weeks of treatment, although oligohydramnios has been infrequently reported as soon as 48 hours after NSAID initiation.
+Oligohydramnios is often, but not always, reversible with treatment discontinuation.
+Complications of prolonged oligohydramnios may, for example, include limb contractures and delayed lung maturation.
+In some postmarketing cases of impaired neonatal renal function, invasive procedures such as exchange transfusion or dialysis were required.
+
+If NSAID treatment is necessary between about 20 weeks and 30 weeks gestation, limit TREXIMET use to the lowest effective dose and shortest duration possible.
+Consider ultrasound monitoring of amniotic fluid if TREXIMET treatment extends beyond 48 hours.
+Discontinue TREXIMET if oligohydramnios occurs and follow up according to clinical practice [see Use in Specific Populations (8.1)].
+
+## 5.17 Hematologic Toxicity
 
 Anemia has occurred in patients receiving NSAIDs.
 This may be due to fluid retention, occult or gross gastrointestinal blood loss, or an incompletely described effect upon erythropoiesis.
@@ -216,24 +242,24 @@ NSAIDs, including TREXIMET, may increase the risk of bleeding events.
 Co-morbid conditions such as coagulation disorders or concomitant use of warfarin, other anticoagulants, antiplatelet agents (e.g., aspirin), serotonin reuptake inhibitors (SSRIs), and serotonin norepinephrine reuptake inhibitors (SNRIs) may increase this risk.
 Monitor these patients for signs of bleeding [see Drug Interactions (7)].
 
-## 5.17 Exacerbation of Asthma Related to Aspirin Sensitivity
+## 5.18 Exacerbation of Asthma Related to Aspirin Sensitivity
 
 A subpopulation of patients with asthma may have aspirin-sensitive asthma which may include chronic rhinosinusitis complicated by nasal polyps; severe, potentially fatal bronchospasm; and/or intolerance to aspirin and other NSAIDs.
 Because cross-reactivity between aspirin and other NSAIDs has been reported in such aspirin-sensitive patients, TREXIMET is contraindicated in patients with this form of aspirin sensitivity and should be used with caution in patients with preexisting asthma [see Contraindications (4)].
 
 When TREXIMET is used in patients with preexisting asthma (without known aspirin sensitivity), monitor patients for changes in the signs and symptoms of asthma.
 
-## 5.18 Seizures
+## 5.19 Seizures
 
 Seizures have been reported following administration of sumatriptan.
 Some have occurred in patients with either a history of seizures or concurrent conditions predisposing to seizures.
 There are also reports in patients where no such predisposing factors are apparent.
 TREXIMET should be used with caution in patients with a history of epilepsy or conditions associated with a lowered seizure threshold.
 
-## 5.19 Masking of Inflammation and Fever
+## 5.20 Masking of Inflammation and Fever
 
 The pharmacological activity of TREXIMET in reducing inflammation, and possibly fever, may diminish the utility of diagnostic signs in detecting infections.
 
-## 5.20 Laboratory Monitoring
+## 5.21 Laboratory Monitoring
 
 Because serious GI bleeding, hepatotoxicity, and renal injury can occur without warning symptoms or signs, consider monitoring patients on long-term NSAID treatment with a CBC and a chemistry profile periodically [see Warnings and Precautions (5.2, 5.7, 5.12)].

@@ -4,7 +4,7 @@ The makers of these brands are not affiliated with and do not endorse Currax™ 
 
 Distributed by Currax™ Pharmaceuticals LLC Morristown, NJ 07960
 
-©2019, Currax™ Pharmaceuticals LLC.
+©2020, Currax™ Pharmaceuticals LLC.
 All rights reserved.
 
-July 2019 TRE-LC003.05
+11/2020 TRE-LC003.06
