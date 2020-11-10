@@ -14,9 +14,9 @@ In animal studies, empagliflozin, a component of TRIJARDY XR, resulted in advers
 Doses approximately 13-times the maximum clinical dose caused renal pelvic and tubule dilatations that were reversible.
 No adverse developmental effects were observed when linagliptin or metformin were administered to pregnant rats or rabbits (see Data).
 
-The estimated background risk of major birth defects is 6 to 10% in women with pre-gestational diabetes with a HbA1c >7 and has been reported to be as high as 20 to 25% in women with HbA1c >10.
+The estimated background risk of major birth defects is 6% to 10% in women with pre-gestational diabetes with a HbA1c >7 and has been reported to be as high as 20% to 25% in women with HbA1c >10.
 The estimated background risk of miscarriage for the indicated population is unknown.
-In the U.S. general population, the estimated background risk of major birth defects and miscarriage in clinically recognized pregnancies is 2 to 4% and 15 to 20%, respectively.
+In the U.S. general population, the estimated background risk of major birth defects and miscarriage in clinically recognized pregnancies is 2% to 4% and 15% to 20%, respectively.
 
 Clinical Considerations
 
@@ -71,7 +71,7 @@ Published clinical lactation studies report that metformin is present in human m
 However, the studies were not designed to definitely establish the risk of use of metformin during lactation because of small sample size and limited adverse event data collected in infants.
 
 Empagliflozin was present at a low level in rat fetal tissues after a single oral dose to the dams at gestation day 18.
-In rat milk, the mean milk to plasma ratio ranged from 0.634 -5, and was greater than one from 2 to 24 hours post-dose.
+In rat milk, the mean milk to plasma ratio ranged from 0.634 to 5, and was greater than one from 2 to 24 hours post-dose.
 The mean maximal milk to plasma ratio of 5 occurred at 8 hours post-dose, suggesting accumulation of empagliflozin in the milk.
 Juvenile rats directly exposed to empagliflozin showed a risk to the developing kidney (renal pelvic and tubular dilatations) during maturation.
 

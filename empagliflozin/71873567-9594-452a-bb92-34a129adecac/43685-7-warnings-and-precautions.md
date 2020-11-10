@@ -77,8 +77,9 @@ Monitor for signs and symptoms of hypotension after initiating therapy and incre
 
 ## 5.5 Ketoacidosis
 
-Reports of ketoacidosis, a serious life-threatening condition requiring urgent hospitalization have been identified in postmarketing surveillance in patients with type 1 and type 2 diabetes mellitus receiving sodium glucose co-transporter-2 (SGLT2) inhibitors, including empagliflozin.
+Reports of ketoacidosis, a serious life-threatening condition requiring urgent hospitalization have been identified in clinical trials and postmarketing surveillance in patients with type 1 and type 2 diabetes mellitus receiving sodium glucose co-transporter-2 (SGLT2) inhibitors, including empagliflozin.
 Fatal cases of ketoacidosis have been reported in patients taking empagliflozin.
+In placebo-controlled trials of patients with type 1 diabetes, the risk of ketoacidosis was increased in patients who received SGLT2 inhibitors compared to patients who received placebo.
 TRIJARDY XR is not indicated for the treatment of patients with type 1 diabetes mellitus [see Indications and Usage (1)].
 
 Patients treated with TRIJARDY XR who present with signs and symptoms consistent with severe metabolic acidosis should be assessed for ketoacidosis regardless of presenting blood glucose levels, as ketoacidosis associated with TRIJARDY XR may be present even if blood glucose levels are less than 250 mg/dL.
@@ -147,7 +148,7 @@ Monitor and treat as appropriate.
 
 There have been postmarketing reports of serious hypersensitivity reactions in patients treated with linagliptin (one of the components of TRIJARDY XR).
 These reactions include anaphylaxis, angioedema, and exfoliative skin conditions.
-Onset of these reactions occurred within the first 3 months after initiation of treatment with linagliptin, with some reports occurring after the first dose.
+Onset of these reactions occurred predominantly within the first 3 months after initiation of treatment with linagliptin, with some reports occurring after the first dose.
 
 Angioedema has also been reported with other dipeptidyl peptidase-4 (DPP-4) inhibitors.
 Use caution in a patient with a history of angioedema to another DPP-4 inhibitor because it is unknown whether such patients will be predisposed to angioedema with TRIJARDY XR.

@@ -89,6 +89,10 @@ Increase in Uric Acid: Changes in laboratory values that occurred more frequentl
 Increase in Lipase: In a placebo-controlled clinical trial with linagliptin in type 2 diabetes mellitus patients with micro- or macroalbuminuria, a mean increase of 30% in lipase concentrations from baseline to 24 weeks was observed in the linagliptin arm, compared to a mean decrease of 2% in the placebo arm.
 Lipase levels above 3 times upper limit of normal were seen in 8.2% compared to 1.7% patients in the linagliptin and placebo arms, respectively.
 
+Increase in Amylase: In a cardiovascular safety study comparing linagliptin versus glimepiride in patients with type 2 diabetes mellitus, amylase levels above 3 times upper limit of normal were seen in 1.0% compared to 0.5% of patients in the linagliptin and glimepiride arms, respectively.
+
+The clinical significance of elevations in lipase and amylase with linagliptin is unknown in the absence of other signs and symptoms of pancreatitis [see Warnings and Precautions (5.2)].
+
 Metformin
 
 Decrease in Vitamin B12: In metformin clinical trials of 29-week duration, a decrease to subnormal levels of previously normal serum vitamin B12 levels was observed in approximately 7% of patients.

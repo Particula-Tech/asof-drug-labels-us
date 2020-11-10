@@ -6,7 +6,8 @@ Empagliflozin is indicated to reduce the risk of cardiovascular death in adults 
 
 Limitations of Use
 
-TRIJARDY XR is not recommended for patients with type 1 diabetes or for the treatment of diabetic ketoacidosis [see Warnings and Precautions (5.5)].
+TRIJARDY XR is not recommended in patients with type 1 diabetes mellitus.
+It may increase the risk of diabetic ketoacidosis in these patients [see Warnings and Precautions (5.5)].
 
 TRIJARDY XR has not been studied in patients with a history of pancreatitis.
 It is unknown whether patients with a history of pancreatitis are at an increased risk for the development of pancreatitis while using TRIJARDY XR [see Warnings and Precautions (5.2)].

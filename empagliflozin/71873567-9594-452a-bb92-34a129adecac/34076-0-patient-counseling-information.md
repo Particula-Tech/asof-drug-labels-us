@@ -93,22 +93,20 @@ Inform patients that elevated glucose in urinalysis is expected when taking TRIJ
 
 Pregnancy
 
-Advise pregnant women, and females of reproductive potential, of the potential risk to a fetus with treatment with TRIJARDY XR [see Use in Specific Populations (8.1)].
-Instruct females of reproductive potential to report pregnancies to their physicians as soon as possible.
+Advise pregnant patients, and patients of reproductive potential, of the potential risk to a fetus with treatment with TRIJARDY XR [see Use in Specific Populations (8.1)].
+Instruct patients to report pregnancies to their physicians as soon as possible.
 
 Lactation
 
-Advise women that breastfeeding is not recommended during treatment with TRIJARDY XR [see Use in Specific Populations (8.2)].
+Advise patients that breastfeeding is not recommended during treatment with TRIJARDY XR [see Use in Specific Populations (8.2)].
 
-Females and Males of Reproductive Potential
+Patients of Reproductive Potential
 
-Inform females that treatment with metformin may result in ovulation in some premenopausal anovulatory women which may lead to unintended pregnancy [see Use in Specific Populations (8.3)].
+Inform patients that treatment with metformin may result in ovulation in some premenopausal anovulatory patients which may lead to unintended pregnancy [see Use in Specific Populations (8.3)].
 
 Administration Instructions
 
 Inform patients that the tablets must be swallowed whole and never split, crushed, dissolved, or chewed and that incompletely dissolved TRIJARDY XR tablets may be eliminated in the feces.
-Patients should be told that if they see tablets in feces, they should report this finding to their healthcare provider.
-The healthcare provider should assess adequacy of glycemic control if a patient reports observing tablets in feces.
 
 Missed Dose
 
