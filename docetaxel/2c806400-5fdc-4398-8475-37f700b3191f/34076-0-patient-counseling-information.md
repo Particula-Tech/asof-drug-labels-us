@@ -102,4 +102,4 @@ Manufactured In Romania By: Sindan Pharma SRL Bucharest 1, Romania 011171
 Distributed By: Actavis Pharma, Inc. Parsippany, NJ 07054 USA
 
 Rev.
-G 7/2020
+H 11/2020
