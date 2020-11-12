@@ -49,7 +49,7 @@ Table 2: Recommended Dosage of Atazanavir Capsules and Ritonavir in Pediatric Pa
 | Less than 15 kg | Capsules not recommended | N/A |
 | At least 15 kg to less than 35 kg | 200 mg | 100 mg |
 | At least 35 kg | 300 mg | 100 mg |
-| Treatment-Naive, at least 13 years old and cannot tolerate ritonavirc |  |  |
+| Treatment-Naive, at least 13 years old and cannot tolerate ritonavir |  |  |
 | At least 40 kg | 400 mg | N/A |
 | a Administer atazanavir capsules and ritonavir simultaneously with food. b The same recommendations regarding the timing and maximum doses of concomitant PPIs and H2RAs in adults also apply to pediatric patients. See Drug Interactions (7) for instructions concerning coadministration of acid-reducing medications (e.g., H2RA or PPIs), and other antiretroviral drugs (e.g., efavirenz, tenofovir DF, and didanosine). c In treatment-experienced patients, atazanavir capsules must be administered with ritonavir. |  |  |
 
@@ -69,14 +69,14 @@ Table 4: Recommended Dosage of Atazanavir Capsules and Ritonavir in Pregnant Pat
 | Treatment-Naive and Treatment-Experienced |  |  |
 | Recommended Regimen | 300 mg | 100 mg |
 | Treatment-Experienced During the Second or Third Trimester When Coadministered with either H2RA or Tenofovir DFb |  |  |
-| In combination with either H2RA or tenofovir DF | 400 mg | 100 mg |
-| a See Drug Interactions (7) for instructions concerning coadministration of acid-reducing medications (e.g., H2RA or PPIs), and other antiretroviral drugs (e.g., efavirenz, tenofovir DF, and didanosine). b Atazanavir capsules are not recommended for treatment-experienced pregnant patients during the second and third trimester taking atazanavir capsules with both tenofovir DF and H2RA. |  |  |
+| In combination with EITHER H2RA OR tenofovir | 400 mg | 100 mg |
+| a See Drug Interactions (7) for instructions concerning coadministration of acid-reducing medications (e.g., H2RA or PPIs), and other antiretroviral drugs (e.g., efavirenz, tenofovir DF, and didanosine). b Atazanavir capsules are not recommended for treatment-experienced pregnant patients during the second and third trimester taking atazanavir capsules with BOTH tenofovir DF and H2RA. |  |  |
 
 ## 2.7 Dosage in Patients with Renal Impairment
 
 For patients with renal impairment, including those with severe renal impairment who are not managed with hemodialysis, no dose adjustment is required for atazanavir capsules.
 Treatment-naive patients with end-stage renal disease managed with hemodialysis should receive atazanavir capsules 300 mg with ritonavir 100 mg.
-Atazanavir capsules are not recommended in HIV-treatment-experienced patients with end-stage renal disease managed with hemodialysis [see Use in Specific Populations (8.7)].
+Atazanavir capsules are not recommended in treatment-experienced patients with HIV-1 infection who have end-stage renal disease managed with hemodialysis [see Use in Specific Populations (8.7)].
 
 ## 2.8 Dosage Adjustments in Patients with Hepatic Impairment
 

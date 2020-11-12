@@ -1,7 +1,7 @@
 # 17 PATIENT COUNSELING INFORMATION
 
 Advise the patient to read the FDA-approved patient labeling (Patient Information).
-Atazanavir is not a cure for HIV infection.
+Atazanavir is not a cure for HIV-1 infection.
 Advise patients to remain under the care of a healthcare provider while using atazanavir.
 
 Cardiac Conduction Abnormalities
@@ -41,9 +41,9 @@ Tell patients if a dose of atazanavir is missed, they should take the dose as so
 
 Pregnancy
 
-Inform pregnant patients that there is a pregnancy exposure registry that monitors pregnancy outcomes in women exposed to atazanavir during pregnancy.
+Inform pregnant patients that there is a pregnancy exposure registry that monitors pregnancy outcomes in pregnant patients exposed to atazanavir during pregnancy.
 Healthcare providers are encouraged to register patients by calling the Antiretroviral Pregnancy Registry [see Use in Specific Populations (8.1)].
 Lactation Instruct women with HIV-1 infection not to breastfeed because HIV-1 can be passed to the baby in the breast milk.
 Atazanavir can also be passed to the baby in breast milk and it is not known whether it could harm the baby [see Use in Specific Populations (8.2)].
 
-Distributed by: Aurobindo Pharma USA, Inc. 279 Princeton-Hightstown Road East Windsor, NJ 08520 Manufactured by: Aurobindo Pharma Limited Hyderabad-500 038, India Issued: April 2018
+Distributed by: Aurobindo Pharma USA, Inc. 279 Princeton-Hightstown Road East Windsor, NJ 08520 Manufactured by: Aurobindo Pharma Limited Hyderabad-500 038, India Revised: 11/2020

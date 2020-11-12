@@ -2,17 +2,16 @@
 
 ## 5.1 Cardiac Conduction Abnormalities
 
-Atazanavir has been shown to prolong the PR interval of the electrocardiogram in some patients.
-In healthy volunteers and in patients, abnormalities in atrioventricular (AV) conduction were asymptomatic and generally limited to first-degree AV block.
+Atazanavir has been shown to prolong the PR interval of the electrocardiogram in some subjects.
+In healthy subjects and in subjects with HIV-1 infection treated with atazanavir, abnormalities in atrioventricular (AV) conduction were asymptomatic and generally limited to first-degree AV block.
 There have been reports of second-degree AV block and other conduction abnormalities [see Adverse Reactions (6.2) and Overdosage (10)].
-In clinical trials that included electrocardiograms, asymptomatic first-degree AV block was observed in 5.9% of atazanavir-treated patients (n=920), 5.2% of lopinavir/ritonavir-treated patients (n=252), 10.4% of nelfinavir-treated patients (n=48), and 3.0% of efavirenz­-treated patients (n=329).
-In Study AI424-045, asymptomatic first-degree AV block was observed in 5% (6/118) of atazanavir/ritonavir-treated patients and 5% (6/116) of lopinavir/ritonavir-treated patients who had on-study electrocardiogram measurements.
-Because of limited clinical experience in patients with preexisting conduction system disease (e.g., marked first-degree AV block or second- or third-degree AV block).
-ECG monitoring should be considered in these patients [see Clinical Pharmacology (12.2)].
+In clinical trials that included electrocardiograms, asymptomatic first-degree AV block was observed in 5.9% of atazanavir-treated subjects (n=920), 5.2% of lopinavir/ritonavir-treated subjects (n=252), 10.4% of nelfinavir-treated subjects (n=48), and 3.0% of efavirenz-treated subjects (n=329).
+In Study AI424-045, asymptomatic first-degree AV block was observed in 5% (6/118) of atazanavir with ritonavir-treated subjects and 5% (6/116) of lopinavir/ritonavir-treated subjects who had on-study electrocardiogram measurements.
+Because of limited clinical experience in those with preexisting conduction system disease (e.g., marked first-degree AV block or second- or third-degree AV block), ECG monitoring should be considered in these patients [see Clinical Pharmacology (12.2)].
 
 ## 5.2 Severe Skin Reactions
 
-In controlled clinical trials, rash (all grades, regardless of causality) occurred in approximately 20% of patients treated with atazanavir.
+In controlled clinical trials, rash (all grades, regardless of causality) occurred in approximately 20% of subjects with HIV-1 infection treated with atazanavir.
 The median time to onset of rash in clinical studies was 7.3 weeks and the median duration of rash was 1.4 weeks.
 Rashes were generally mild-to-moderate maculopapular skin eruptions.
 Treatment-emergent adverse reactions of moderate or severe rash (occurring at a rate of ≥2%) are presented for the individual clinical studies [see Adverse Reactions (6.1)].
@@ -28,7 +27,7 @@ In these patients, hepatic laboratory testing should be conducted prior to initi
 
 ## 5.5 Chronic Kidney Disease
 
-Chronic kidney disease in HIV-infected patients treated with atazanavir, with or without ritonavir, has been reported during postmarketing surveillance.
+Chronic kidney disease in patients with HIV-1 infection treated with atazanavir, with or without ritonavir, has been reported during postmarketing surveillance.
 Reports included biopsy-proven cases of granulomatous interstitial nephritis associated with the deposition of atazanavir drug crystals in the renal parenchyma.
 Consider alternatives to atazanavir in patients at high risk for renal disease or with preexisting renal disease.
 Renal laboratory testing (including serum creatinine, estimated creatinine clearance, and urinalysis with microscopic examination) should be conducted in all patients prior to initiating therapy with atazanavir and continued during treatment with atazanavir.
@@ -37,7 +36,7 @@ In patients with progressive kidney disease, discontinuation of atazanavir may b
 
 ## 5.6 Nephrolithiasis and Cholelithiasis
 
-Cases of nephrolithiasis and/or cholelithiasis have been reported during postmarketing surveillance in HIV-infected patients receiving atazanavir therapy.
+Cases of nephrolithiasis and/or cholelithiasis have been reported during postmarketing surveillance in patients with HIV-1 infection receiving atazanavir therapy.
 Some patients required hospitalization for additional management and some had complications.
 Because these events were reported voluntarily during clinical practice, estimates of frequency cannot be made.
 If signs or symptoms of nephrolithiasis and/or cholelithiasis occur, temporary interruption or discontinuation of therapy may be considered [see Adverse Reactions (6.2)].
@@ -53,7 +52,7 @@ These interactions may lead to:
 - loss of therapeutic effect of atazanavir with ritonavir and possible development of resistance.
 
 See Table 16 for steps to prevent or manage these possible and known significant drug interactions, including dosing recommendations [see Drug Interactions (7)].
-Consider the potential for drug interactions prior to and during atazanavr/ritonavir therapy; review concomitant medications during atazanavir /ritonavir therapy; and monitor for the adverse reactions associated with the concomitant medications [see Contraindications (4) and Drug Interactions (7)].
+Consider the potential for drug interactions prior to and during therapy containing atazanavir with ritonavir; and monitor for the adverse reactions associated with concomitant medications [see Contraindications (4) and Drug Interactions (7)].
 
 ## 5.8 Hyperbilirubinemia
 
@@ -66,7 +65,7 @@ Dose reduction of atazanavir is not recommended since long-term efficacy of redu
 
 ## 5.9 Diabetes Mellitus/Hyperglycemia
 
-New-onset diabetes mellitus, exacerbation of preexisting diabetes mellitus, and hyperglycemia have been reported during postmarketing surveillance in HIV-infected patients receiving protease inhibitor therapy.
+New-onset diabetes mellitus, exacerbation of preexisting diabetes mellitus, and hyperglycemia have been reported during postmarketing surveillance in patients with HIV-1 infection receiving protease inhibitor therapy.
 Some patients required either initiation or dose adjustments of insulin or oral hypoglycemic agents for treatment of these events.
 In some cases, diabetic ketoacidosis has occurred.
 In those patients who discontinued protease inhibitor therapy, hyperglycemia persisted in some cases.
@@ -76,7 +75,8 @@ Because these events have been reported voluntarily during clinical practice, es
 
 Immune reconstitution syndrome has been reported in patients treated with combination antiretroviral therapy, including atazanavir.
 During the initial phase of combination antiretroviral treatment, patients whose immune system responds may develop an inflammatory response to indolent or residual opportunistic infections (such as Mycobacterium avium infection, cytomegalovirus, Pneumocystis jiroveci pneumonia, or tuberculosis), which may necessitate further evaluation and treatment.
-Autoimmune disorders (such as Graves’ disease, polymyositis, and Guillain-Barré syndrome) have also been reported to occur in the setting of immune reconstitution; however, the time to onset is more variable, and can occur many months after initiation of treatment.
+
+Autoimmune disorders (such as Graves’ disease, polymyositis, Guillain-Barré syndrome, and autoimmune hepatitis) have also been reported to occur in the setting of immune reconstitution; however, the time to onset is more variable, and can occur many months after initiation of treatment.
 
 ## 5.11 Fat Redistribution
 
