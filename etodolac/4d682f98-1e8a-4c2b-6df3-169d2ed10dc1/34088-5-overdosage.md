@@ -1,9 +1,9 @@
 # OVERDOSAGE
 
 Symptoms following acute NSAID overdose are usually limited to lethargy, drowsiness, nausea, vomiting, and epigastric pain, which are generally reversible with supportive care.
-Gastrointestinal bleeding can occur and coma has occurred following massive ibuprofen or mefenamic-acid overdose.
+Gastrointestinal bleeding can occur, and coma has occurred following massive ibuprofen or mefenamic-acid overdose.
 Hypertension, acute renal failure, and respiratory depression may occur but are rare.
-Anaphylactoid reactions have been reported with therapeutic ingestion of NSAIDs, and may occur following overdose.
+Anaphylactoid reactions have been reported with therapeutic ingestion of NSAIDs and may occur following overdose.
 
 Patients should be managed by symptomatic and supportive care following an NSAID overdose.
 There are no specific antidotes.
