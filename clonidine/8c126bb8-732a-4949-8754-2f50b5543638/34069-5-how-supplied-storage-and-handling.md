@@ -10,12 +10,12 @@ Discard unused portion.
 
 Duraclon® is a licensed registered trademark.
 
-Manufactured for: Mylan Institutional LLC Rockford, IL 61103 U.S.A.
+Manufactured for: Mylan Institutional LLC Morgantown, WV 26505 U.S.A.
 
 Manufactured by: Mylan Institutional Galway, Ireland
 
-0919L101
+0919L102
 
-Revised: 4/2018 MI:DURAIJ:R4
+Revised: 7/2020 MI:DURAIJ:R5
 
 To request medical information or to report suspected adverse reactions, contact Drug Safety at 1-877-446-3679 (1-877-4-INFO-RX) or FDA at 1-800-FDA-1088 or www.fda.gov/medwatch.

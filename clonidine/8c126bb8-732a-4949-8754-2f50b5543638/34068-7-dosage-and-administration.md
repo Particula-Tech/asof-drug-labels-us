@@ -14,3 +14,5 @@ Since only a minimal amount of clonidine is removed during routine hemodialysis,
 Duraclon must not be used with a preservative.
 
 Parenteral drug products should be inspected visually for particulate matter and discoloration prior to administration, whenever solution and container permit.
+
+Discard unused portion.
