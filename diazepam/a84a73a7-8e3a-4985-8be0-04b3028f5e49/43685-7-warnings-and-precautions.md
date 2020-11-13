@@ -73,7 +73,7 @@ Tonic status epilepticus has been precipitated in patients treated with IV diaze
 
 Information to Be Communicated by the Prescriber to Patients and Caregivers
 
-Risks from Concomitant Use with Opioids: Inform patients and caregivers that potentially fatal additive effects may occur if DIASTAT or DIASTAT ACUDIAL is used with opioids and not to use such drugs concomitantly unless supervised by a health care provider (see WARNINGS and PRECAUTIONS,Drug Interactions).
+Risks from Concomitant Use with Opioids: Inform patients and caregivers that potentially fatal additive effects may occur if DIASTAT or DIASTAT ACUDIAL is used with opioids and not to use such drugs concomitantly unless supervised by a health care provider (see WARNINGS and PRECAUTIONS, Drug Interactions).
 
 Administration: Prescribers are strongly advised to take all reasonable steps to ensure that caregivers fully understand their role and obligations vis a vis the administration of diazepam rectal gel to individuals in their care.
 Prescribers should routinely discuss the steps in the Patient/Caregiver Package Insert (see Patient/Caregiver Insert printed at the end of the product labeling and also included in the product carton).
