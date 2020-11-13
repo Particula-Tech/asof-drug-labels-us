@@ -49,7 +49,7 @@ To reseal, turn cap past "clicks" until tightly locked.
 
 REF 12134
 
-PERIDEX04BLDL
+PERIDEX04BLDLA
 
 NDC 48878-0620-1
 
@@ -114,4 +114,4 @@ No.
 
 3M ESPE
 
-64PERIBTLLBLDL
+64PERIBTLLBLDLA
