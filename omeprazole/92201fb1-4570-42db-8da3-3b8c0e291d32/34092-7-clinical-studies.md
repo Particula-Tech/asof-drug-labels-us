@@ -146,11 +146,10 @@ Results are shown below.
 
 In a U.S. multicenter double-blind placebo controlled study of 20 mg or 40 mg of Omeprazole Delayed-Release Capsules in patients with symptoms of GERD and endoscopically diagnosed EE of grade 2 or above, the percentage healing rates (per protocol) were as follows:
 
-| % Successful Symptomatic Outcome1 |  |  |  |
+|  | 20 mgOmeprazole Delayed-Release Capsules (n=83) | 40 mgOmeprazole Delayed-Release Capsules (n=87) | Placebo (n=43) |
 | --- | --- | --- | --- |
-| Week | 20 mgOmeprazole Delayed-Release Capsules (n=83) | 40 mgOmeprazole Delayed-Release Capsules (n=87) | Placebo (n=43) |
-| 4 | 391 | 451 | 7 |
-| 8 | 741 | 751 | 14 |
+| Week 4 | 391 | 451 | 7 |
+| Week 8 | 741 | 751 | 14 |
 | 1. (p < 0.01) Omeprazole Delayed-Release Capsules versus placebo. |  |  |  |
 
 In this study, the 40 mg dose was not superior to the 20 mg dose of Omeprazole Delayed-Release Capsules in the percentage healing rate.
