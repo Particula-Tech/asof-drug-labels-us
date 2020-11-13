@@ -3,7 +3,7 @@
 The following serious adverse reactions are discussed in greater detail in other sections of the label:
 
 - Increased Mortality, Myocardial Infarction, Stroke, and Thromboembolism [see Warnings and Precautions (5.1)]
-- Increased mortality and/or increased risk of tumor progression or recurrence in Patients With Cancer [see Warnings and Precautions (5.2)]
+- Increased mortality and/or increased risk of tumor progression or recurrence in Patients with Cancer [see Warnings and Precautions (5.2)]
 - Hypertension [see Warnings and Precautions (5.3)]
 - Seizures [see Warnings and Precautions (5.4)]
 - PRCA [see Warnings and Precautions (5.6)]
@@ -12,7 +12,7 @@ The following serious adverse reactions are discussed in greater detail in other
 
 ## 6.1 Clinical Trials Experience
 
-Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in practice.
+Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of other drugs and may not reflect the rates observed in practice.
 
 Patients with Chronic Kidney Disease
 
@@ -86,7 +86,7 @@ Adverse Reactions in Zidovudine-treated Patients with HIV-infection
 | Respiratory tract congestion | 1% | Not reported |
 | Pulmonary embolism | 1% | Not reported |
 
-Patients with cancer on Chemotherapy
+Patients with Cancer on Chemotherapy
 
 The data below were obtained in Study C1, a 16-week, double-blind, placebo-controlled study that enrolled 344 patients with anemia secondary to chemotherapy.
 There were 333 patients who were evaluable for safety; 168 of 174 patients (97%) randomized to epoetin alfa received at least 1 dose of study drug, and 165 of 170 patients (97%) randomized to placebo received at least 1 placebo dose.
@@ -152,7 +152,6 @@ Adverse Reactions in Surgery Patients
 ## 6.2 Postmarketing Experience
 
 The following adverse reactions have been identified during post-approval use of epoetin alfa.
-
 Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
 
 - Seizures [see Warnings and Precautions (5.4)]
@@ -167,6 +166,6 @@ Because these reactions are reported voluntarily from a population of uncertain 
 As with all therapeutic proteins, there is a potential for immunogenicity.
 The detection of antibody formation is highly dependent on the sensitivity and specificity of the assay.
 Additionally, the observed incidence of antibody (including neutralizing antibody) positivity in an assay may be influenced by several factors, including assay methodology, sample handling, timing of sample collection, concomitant medications, and underlying disease.
-For these reasons, comparison of the incidence of antibodies to epoetin alfa with the incidence of antibodies to other products may be misleading.
+For these reasons, comparison of the incidence of antibodies in the studies described below with the incidence of antibodies to other epoetin alfa products may be misleading.
 
 Neutralizing antibodies to epoetin alfa that cross-react with endogenous erythropoietin and other ESAs can result in PRCA or severe anemia (with or without other cytopenias) [see Warnings and Precautions (5.6)].

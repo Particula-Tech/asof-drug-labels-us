@@ -13,6 +13,10 @@ Monitoring of Response to Therapy
 Correct or exclude other causes of anemia (e.g., vitamin deficiency, metabolic or chronic inflammatory conditions, bleeding, etc.) before initiating RETACRIT.
 Following initiation of therapy and after each dose adjustment, monitor hemoglobin weekly until the hemoglobin level is stable and sufficient to minimize the need for RBC transfusion.
 
+Selection of Formulation
+
+In pregnant women, lactating women, neonates, and infants use only single-dose vials (the benzyl alcohol-free formulation) [see Contraindications (4) and Use in Specific Populations (8.1, 8.2, and 8.4)].
+
 ## 2.2 Patients with Chronic Kidney Disease
 
 In controlled trials, patients experienced greater risks for death, serious adverse cardiovascular reactions, and stroke when administered erythropoiesis-stimulating agents (ESAs) to target a hemoglobin level of greater than 11 g/dL.
@@ -128,5 +132,7 @@ Deep venous thrombosis prophylaxis is recommended during RETACRIT therapy [see W
   Do not use any vials exhibiting particulate matter or discoloration.
 - Discard unused portions of RETACRIT in preservative-free vials.
   Do not re-enter preservative-free vials.
+- Store unused portions of RETACRIT in multiple-dose vials at 2°C to 8°C (36°F to 46°F).
+  Discard 21 days after initial entry.
 - Do not dilute.
   Do not mix with other drug solutions.
