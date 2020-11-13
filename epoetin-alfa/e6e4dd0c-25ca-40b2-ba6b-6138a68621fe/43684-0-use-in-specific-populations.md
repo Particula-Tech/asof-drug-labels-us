@@ -4,6 +4,10 @@
 
 Risk Summary
 
+RETACRIT from multiple-dose vials contains benzyl alcohol and is contraindicated in pregnant women [see Contraindications (4)].
+When therapy with RETACRIT is needed during pregnancy, use a benzyl alcohol-free formulation (i.e., single-dose vial).
+Do not mix RETACRIT with bacteriostatic saline when administering to pregnant women because it contains benzyl alcohol (see Clinical Considerations) [see Dosage and Administration (2.1)].
+
 The limited available data on epoetin alfa use in pregnant women are insufficient to determine a drug-associated risk of adverse developmental outcomes.
 In animal reproductive and developmental toxicity studies, adverse fetal effects including embryo-fetal death, skeletal anomalies, and growth defects occurred when pregnant rats received epoetin alfa at doses approximating the clinical recommended starting doses (see Data).
 Consider the benefits and risks of RETACRIT single-dose vials for the mother and possible risks to the fetus when prescribing RETACRIT to a pregnant woman.
@@ -11,6 +15,14 @@ Consider the benefits and risks of RETACRIT single-dose vials for the mother and
 The estimated background risk of major birth defects and miscarriage for the indicated population is unknown.
 All pregnancies have a background risk of birth defect, loss, or other adverse outcomes.
 In the U.S. general population, the estimated background risks of major birth defects and miscarriage in clinically recognized pregnancies is 2–4% and 15–20%, respectively.
+
+Clinical Considerations
+
+Fetal/Neonatal Adverse Reactions
+
+The multiple-dose vials of RETACRIT contain benzyl alcohol.
+The preservative benzyl alcohol has been associated with serious adverse reactions and death when administered intravenously to neonates and infants [see Warnings and Precautions (5.9), Use in Specific Populations (8.4)].
+There is a potential for similar risks to fetuses exposed to benzyl alcohol in utero.
 
 Data
 
@@ -34,11 +46,28 @@ This animal dose level of 500 U/kg/day is approximately five times the clinical 
 
 Risk Summary
 
+RETACRIT from multiple-dose vials contains benzyl alcohol and is contraindicated in lactating women [see Contraindications (4), Warnings and Precautions (5.9)].
+Advise a lactating woman not to breastfeed for at least 2 weeks after the last dose.
+The preservative benzyl alcohol has been associated with serious adverse reactions and death when administered intravenously to neonates and infants [see Use in Specific Populations (8.4)].
+There is a potential for similar risks to infants exposed to benzyl alcohol through human milk.
+
+Do not mix RETACRIT with bacteriostatic saline containing benzyl alcohol, if administering RETACRIT to a lactating woman [see Dosage and Administration (2.1)].
+
 There is no information regarding the presence of epoetin alfa products in human milk, the effects on the breastfed infant, or the effects on milk production.
 However, endogenous erythropoietin is present in human milk.
 Because many drugs are present in human milk, caution should be exercised when RETACRIT is administered to a lactating woman.
 
 ## 8.4 Pediatric Use
+
+The multiple-dose vials are formulated with benzyl alcohol and are contraindicated for use in neonates and infants [see Contraindications (4), Warnings and Precautions (5.9)].
+When therapy with RETACRIT is needed in neonates and infants, use the single-dose vial, which is a benzyl alcohol-free formulation.
+Do not mix the single-dose vials with bacteriostatic saline when administering RETACRIT to neonates or infants because it contains benzyl alcohol [see Dosage and Administration (2.6)].
+
+Serious adverse reactions including fatal reactions and the "gasping syndrome" occurred in premature neonates and infants in the neonatal intensive care unit who received drugs containing benzyl alcohol as a preservative.
+In these cases, benzyl alcohol dosages of 99 to 234 mg/kg/day produced high levels of benzyl alcohol and its metabolites in the blood and urine (blood levels of benzyl alcohol were 0.61 to 1.378 mmol/L).
+Additional adverse reactions included gradual neurological deterioration, seizures, intracranial hemorrhage, hematologic abnormalities, skin breakdown, hepatic and renal failure, hypotension, bradycardia, and cardiovascular collapse.
+Preterm, low birth weight infants may be more likely to develop these reactions because they may be less able to metabolize benzyl alcohol.
+The minimum amount of benzyl alcohol at which serious adverse reactions may occur is not known [see Warnings and Precautions (5.9)].
 
 Pediatric Patients with CKD
 

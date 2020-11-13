@@ -52,7 +52,9 @@ Adult Patients with CKD Not Requiring Dialysis
 
 Four clinical studies were conducted in patients with CKD not on dialysis involving 181 patients treated with epoetin alfa.
 These patients responded to epoetin alfa therapy in a manner similar to that observed in patients on dialysis.
-Patients with CKD not on dialysis demonstrated a dose-dependent and sustained increase in hemoglobin when epoetin alfa was administered by either an intravenous or subcutaneous route, with similar rates of rise of hemoglobin when epoetin alfa was administered by either route.Patients with chronic kidney disease not on dialysis: ESA effects on rates of transfusion
+Patients with CKD not on dialysis demonstrated a dose-dependent and sustained increase in hemoglobin when epoetin alfa was administered by either an intravenous or subcutaneous route, with similar rates of rise of hemoglobin when epoetin alfa was administered by either route.
+
+Patients with chronic kidney disease not on dialysis: ESA effects on rates of transfusion
 
 In TREAT, a randomized, double-blind trial of 4038 patients with CKD and type 2 diabetes not on dialysis, a post-hoc analysis showed that the proportion of patients receiving RBC transfusions was lower in patients administered an ESA to target a hemoglobin of 13 g/dL compared to the control arm in which an ESA was administered intermittently if hemoglobin concentration decreased to less than 9 g/dL (15% versus 25%, respectively).
 In CHOIR, a randomized open-label study of 1432 patients with CKD not on dialysis, use of epoetin alfa to target a higher (13.5 g/dL) versus lower (11.3 g/dL) hemoglobin goal did not reduce the use of RBC transfusions.
@@ -99,7 +101,7 @@ Study C1: Proportion of Patients Transfused
 
 | Chemotherapy Regimen | Epoetin alfa (n = 174) | Placebo (n = 170) |
 | --- | --- | --- |
-|  | Week 5 Through Week 16 or End of StudyLast-known RBC transfusion status carried forward for patients who discontinued treatment |  |
+|  | Week 5 Through Week 16 or End of StudyLast-known RBC transfusion status carried forward for patients who discontinued treatment. |  |
 | All Regimens | 14% (25/174)Two-sided p < 0.001, logistic regression analysis adjusting for accrual rate and stratification variables. | 28% (48/170) |
 | Regimens without cisplatin | 14% (21/148) | 26% (35/137) |
 | Regimens containing cisplatin | 15% (4/26) | 39% (13/33) |

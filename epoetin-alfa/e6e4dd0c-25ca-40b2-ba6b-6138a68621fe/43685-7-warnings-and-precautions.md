@@ -76,7 +76,7 @@ Adverse effects on PFS and/or OS were observed in studies of patients receiving 
 Table 2.
 Randomized, Controlled Studies with Decreased Survival and/or Decreased Locoregional Control
 
-| Study/Tumor/(n) | Hemoglobin Target | Achieved Hemoglobin (Median; Q1, Q3Q1 = 25th percentile Q3 = 75th percentile) | Primary Efficacy Outcome | Adverse Outcome for ESA-containing Arm |
+| Study/Tumor/(n) | Hemoglobin Target | Achieved Hemoglobin (Median; Q1, Q3Q1 = 25th percentile; Q3 = 75th percentile) | Primary Efficacy Outcome | Adverse Outcome for ESA-containing Arm |
 | --- | --- | --- | --- | --- |
 | Chemotherapy |  |  |  |  |
 | Study 1 Metastatic breast cancer (n = 2098) | ≤12 g/dLThis study did not include a defined hemoglobin target. Doses were titrated to achieve and maintain the lowest hemoglobin level sufficient to avoid transfusion and not to exceed 12 g/dL. | 11.6 g/dL; 10.7, 12.1 g/dL | Progression-free survival (PFS) | Decreased progression-free and overall survival |
@@ -100,7 +100,7 @@ Investigator-assessed time to tumor progression was not different between the 2 
 Survival at 12 months was significantly lower in the epoetin alfa arm (70% vs. 76%; HR 1.37, 95% CI: 1.07, 1.75; p = 0.012).
 
 Study 3 was a randomized, double-blind study (darbepoetin alfa vs. placebo) conducted in 344 anemic patients with lymphoid malignancy receiving chemotherapy.
-With a median follow-up of 29 months, overall mortality rates were significantly higher among patients randomized to darbepoetin alfa as compared to placebo (HR 1.36, 95% CI: 1.02,1.82).
+With a median follow-up of 29 months, overall mortality rates were significantly higher among patients randomized to darbepoetin alfa as compared to placebo (HR 1.36, 95% CI: 1.02, 1.82).
 
 Study 8 was a multicenter, randomized, double-blind study (epoetin alfa vs. placebo) in which patients with advanced non-small cell lung cancer receiving only palliative radiotherapy or no active therapy were treated with epoetin alfa to achieve and maintain hemoglobin levels between 12 and 14 g/dL.
 Following an interim analysis of 70 patients (planned accrual 300 patients), a significant difference in survival in favor of the patients in the placebo arm of the study was observed (median survival 63 vs. 129 days; HR 1.84; p = 0.04).
@@ -115,7 +115,7 @@ Study 1 was a randomized, open-label, multicenter study in 2,098 anemic women wi
 This was a non-inferiority study designed to rule out a 15% risk increase in tumor progression or death of epoetin alfa plus standard of care (SOC) as compared with SOC alone.
 At the time of clinical data cutoff, the median progression free survival (PFS) per investigator assessment of disease progression was 7.4 months in each arm (HR 1.09, 95% CI: 0.99, 1.20), indicating the study objective was not met.
 There were more deaths from disease progression in the epoetin alfa plus SOC arm (59% vs. 56%) and more thrombotic vascular events in the epoetin alfa plus SOC arm (3% vs. 1%).
-At the final analysis, 1653 deaths were reported (79.8% subjects in the epoetin alfa plus SOC group and 77.8% subjects in the SOC group.
+At the final analysis, 1653 deaths were reported (79.8% subjects in the epoetin alfa plus SOC group and 77.8% subjects in the SOC group).
 Median overall survival in the epoetin alfa plus SOC group was 17.8 months compared with 18.0 months in the SOC alone group (HR 1.07, 95% CI: 0.97, 1.18).
 
 Study 4 was a randomized, open-label, controlled, factorial design study in which darbepoetin alfa was administered to prevent anemia in 733 women receiving neo-adjuvant breast cancer treatment.
@@ -181,14 +181,25 @@ Immediately and permanently discontinue RETACRIT and administer appropriate ther
 Blistering and skin exfoliation reactions including Erythema multiforme and Stevens-Johnson Syndrome (SJS)/Toxic Epidermal Necrolysis (TEN), have been reported in patients treated with ESAs (including epoetin alfa) in the postmarketing setting.
 Discontinue RETACRIT therapy immediately if a severe cutaneous reaction, such as SJS/TEN, is suspected.
 
-## 5.9 Risk in Patients with Phenylketonuria
+## 5.9 Risk of Serious Adverse Reactions Due to Benzyl Alcohol Preservative
+
+RETACRIT from multiple-dose vials contains benzyl alcohol and is contraindicated for use in neonates, infants, pregnant women, and lactating women [see Contraindications (4)].
+In addition, do not mix RETACRIT with bacteriostatic saline (which also contains benzyl alcohol) when administering RETACRIT to these patient populations [see Dosage and Administration (2)].
+
+Serious and fatal reactions including "gasping syndrome" can occur in neonates and infants treated with benzyl alcohol-preserved drugs, including RETACRIT multiple-dose vials.
+The "gasping syndrome" is characterized by central nervous system depression, metabolic acidosis, and gasping respirations.
+There is a potential for similar risks to fetuses and infants exposed to benzyl alcohol in utero or in breast-fed milk, respectively.
+RETACRIT multiple-dose vials contain 8.5 mg of benzyl alcohol per mL.
+The minimum amount of benzyl alcohol at which serious adverse reactions may occur is not known [see Use in Specific Populations (8.1, 8.2, and 8.4)].
+
+## 5.10 Risk in Patients with Phenylketonuria
 
 Phenylalanine can be harmful to patients with phenylketonuria (PKU).
 RETACRIT contains phenylalanine, a component of aspartame.
 Each 1 mL single-dose vial of 2,000, 3,000, 4,000, and 10,000 Units of epoetin alfa-epbx injection contains 0.5 mg of phenylalanine.
 Before prescribing RETACRIT to a patient with PKU, consider the combined daily amount of phenylalanine from all sources, including RETACRIT.
 
-## 5.10 Dialysis Management
+## 5.11 Dialysis Management
 
 Patients may require adjustments in their dialysis prescriptions after initiation of RETACRIT.
 Patients receiving RETACRIT may require increased anticoagulation with heparin to prevent clotting of the extracorporeal circuit during hemodialysis.

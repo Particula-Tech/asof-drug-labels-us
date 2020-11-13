@@ -1,6 +1,6 @@
 # Instructions for Use
 
-RETACRIT™ (Ret-uh-krit) (epoetin alfa-epbx)
+RETACRIT® (Ret-uh-krit) (epoetin alfa-epbx)
 
 Use these Instructions for Use if you or your caregiver has been trained to give RETACRIT injections at home.
 Do not give yourself the injection unless you have received training from your healthcare provider.
@@ -30,10 +30,16 @@ When you receive your RETACRIT vial make sure that:
   If you shake RETACRIT, the solution in the vial may look foamy and should not be used.
 - Do not freeze RETACRIT.
   Do not use a vial of RETACRIT that has been frozen.
+- Do not use the carton of RETACRIT multiple-dose vials if it has been frozen or if the green area on the freeze strip indicator inside the RETACRIT carton looks white or cloudy.
 - Store RETACRIT in the refrigerator between 36°F to 46°F (2°C to 8°C).
 - Keep RETACRIT away from light.
 - Single-dose vials of RETACRIT should be used only one time.
   Throw the vial away after use even if there is medicine left in the vial.
+- After removing a dose from the multiple-dose vial, store the vial in the refrigerator (but not the freezer).
+  Do not store the vial for more than 21 days.
+- Throw away the multiple-dose vials as directed by your healthcare provider:
+  - if there is not enough medicine left in the multiple-dose vial for another dose, or
+  - if it has been more than 21 days since you first put a needle into the multiple-dose vial
 
 How should I prepare for an injection of RETACRIT?
 
@@ -45,6 +51,17 @@ How should I prepare for an injection of RETACRIT?
 
 Only use disposable syringes and needles.
 Use the syringes and needles only one time and then throw them away as instructed by your healthcare provider.
+
+What do I need to know about the different types of RETACRIT vials?
+
+RETACRIT comes in two different types of vials:
+
+- Single-dose vials
+- Multiple-dose vials
+
+The multiple-dose vial of RETACRIT contains the preservative benzyl alcohol.
+Benzyl alcohol has been shown to cause brain damage, other serious side effects and death in newborn and premature babies.
+RETACRIT that comes in single-dose vials does not contain benzyl alcohol.
 
 Important: Follow these instructions exactly to help avoid infections.
 
@@ -176,8 +193,8 @@ Keep RETACRIT and all medicines out of reach of children.
 
 These Instructions for Use have been approved by the U.S. Food and Drug Administration.
 
-Manufactured by Hospira, Inc., a Pfizer Company, Lake Forest, IL 60045 USA US License No. 1974 Distributed by Vifor (International) Inc., Rechenstrasse 37, 9014 St. Gallen, Switzerland
+Manufactured by Hospira, Inc., a PfizerCompany, Lake Forest, IL 60045 USA US License No. 1974
 
-LAB-1282-2.0
+Distributed by Vifor (International) Inc., Rechenstrasse 37, 9014 St. Gallen, Switzerland
 
-Issued: 6/2020
+LAB-1282-4.0 Revised: 8/2020
