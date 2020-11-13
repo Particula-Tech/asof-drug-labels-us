@@ -1,3 +1,1 @@
-Genzyme Corporation Cambridge, MA 02142 A SANOFI COMPANY
-
-Revised: September 2019
+Manufactured for: Genzyme Corporation Cambridge, MA 02142 A SANOFI COMPANY

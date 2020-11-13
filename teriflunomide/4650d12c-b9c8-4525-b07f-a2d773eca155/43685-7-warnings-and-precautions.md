@@ -2,9 +2,10 @@
 
 ## 5.1 Hepatotoxicity
 
-Severe liver injury including fatal liver failure and dysfunction has been reported in some patients treated with leflunomide, which is indicated for rheumatoid arthritis.
-A similar risk would be expected for teriflunomide because recommended doses of teriflunomide and leflunomide result in a similar range of plasma concentrations of teriflunomide.
-Patients with pre-existing liver disease may be at increased risk of developing elevated serum transaminases when taking AUBAGIO.
+Clinically significant and potentially life-threatening liver injury, including acute liver failure requiring transplant, has been reported in patients treated with AUBAGIO in the postmarketing setting.
+Patients with pre-existing liver disease and patients taking other hepatotoxic drugs may be at increased risk for developing liver injury when taking AUBAGIO.
+Clinically significant liver injury can occur at any time during treatment with AUBAGIO.
+
 Patients with pre-existing acute or chronic liver disease, or those with serum alanine aminotransferase (ALT) greater than two times the upper limit of normal (ULN) before initiating treatment, should not normally be treated with AUBAGIO.
 AUBAGIO is contraindicated in patients with severe hepatic impairment [see Contraindications (4)].
 
@@ -106,22 +107,37 @@ The risk of malignancy, particularly lymphoproliferative disorders, is increased
 There is a potential for immunosuppression with AUBAGIO.
 No apparent increase in the incidence of malignancies and lymphoproliferative disorders was reported in the AUBAGIO clinical trials, but larger and longer-term studies would be needed to determine whether there is an increased risk of malignancy or lymphoproliferative disorders with AUBAGIO.
 
-## 5.5 Hypersensitivity and Serious Skin Reactions
+## 5.5 Hypersensitivity Reactions
 
 AUBAGIO can cause anaphylaxis and severe allergic reactions [see Contraindications (4)].
 Signs and symptoms have included dyspnea, urticaria, and angioedema including lips, eyes, throat, and tongue.
 
-Cases of serious skin reactions, including cases of Stevens-Johnson syndrome (SJS) and a fatal case of toxic epidermal necrolysis (TEN), have been reported with AUBAGIO.
+Inform patients of the signs and symptoms of anaphylaxis and angioedema.
 
-In patients treated with leflunomide, the parent compound, very rare cases of Drug Reaction with Eosinophilia and Systemic Symptoms (DRESS) have also been reported.
+## 5.6 Serious Skin Reactions
 
-Inform patients of the signs and symptoms of anaphylaxis and angioedema and signs and symptoms that may signal a serious skin reaction.
-Inform patients that a fever associated with signs of other organ system involvement (e.g., rash, lymphadenopathy, or hepatic dysfunction) may be drug-related.
+Cases of serious skin reactions, sometimes fatal, including Stevens-Johnson syndrome (SJS), toxic epidermal necrolysis (TEN), and drug reaction with eosinophilia and systemic symptoms (DRESS) [see Warnings and Precautions (5.7)], have been reported with AUBAGIO.
+Fatal outcomes were reported in one case of TEN and one case of DRESS.
+
+Inform patients of the signs and symptoms that may signal a serious skin reaction.
 Instruct patients to discontinue AUBAGIO and seek immediate medical care should these signs and symptoms occur.
-Discontinue AUBAGIO, unless the reactions are clearly not drug-related, and begin an accelerated elimination procedure immediately [see Warnings and Precautions (5.3)].
+Unless the reaction is clearly not drug related, discontinue AUBAGIO and begin an accelerated elimination procedure immediately [see Warnings and Precautions (5.3)].
 In such cases, patients should not be re-exposed to teriflunomide [see Contraindications (4)].
 
-## 5.6 Peripheral Neuropathy
+## 5.7 Drug Reaction with Eosinophilia and Systemic Symptoms
+
+Drug reaction with eosinophilia and systemic symptoms (DRESS), also known as multiorgan hypersensitivity, has occurred with AUBAGIO.
+One fatal case of DRESS that occurred in close temporal association (34 days) with the initiation of AUBAGIO treatment has been reported in the postmarketing setting.
+DRESS typically, although not exclusively, presents with fever, rash, lymphadenopathy and/or facial swelling, in association with other organ system involvement, such as hepatitis, nephritis, hematologic abnormalities, myocarditis, or myositis, sometimes resembling an acute viral infection.
+Eosinophilia is often present.
+This disorder is variable in its expression, and other organ systems not noted here may be involved.
+It is important to note that early manifestations of hypersensitivity (e.g., fever, lymphadenopathy) may be present even though rash is not evident.
+If such signs or symptoms are present, the patient should be evaluated immediately.
+
+Discontinue AUBAGIO, unless an alternative etiology for the signs or symptoms is established, and begin an accelerated elimination procedure immediately [see Warnings and Precautions (5.3)].
+In such cases, patients should not be re-exposed to teriflunomide [see Contraindications (4)].
+
+## 5.8 Peripheral Neuropathy
 
 In placebo-controlled studies, peripheral neuropathy, including both polyneuropathy and mononeuropathy (e.g., carpal tunnel syndrome), occurred more frequently in patients taking AUBAGIO than in patients taking placebo.
 The incidence of peripheral neuropathy confirmed by nerve conduction studies was 1.4% (13 patients) and 1.9% (17 patients) of patients receiving 7 mg and 14 mg of AUBAGIO, respectively, compared with 0.4% receiving placebo (4 patients).
@@ -133,7 +149,7 @@ Peripheral neuropathy also occurred in patients receiving leflunomide.
 Age older than 60 years, concomitant neurotoxic medications, and diabetes may increase the risk for peripheral neuropathy.
 If a patient taking AUBAGIO develops symptoms consistent with peripheral neuropathy, such as bilateral numbness or tingling of hands or feet, consider discontinuing AUBAGIO therapy and performing an accelerated elimination procedure [see Warnings and Precautions (5.3)].
 
-## 5.7 Increased Blood Pressure
+## 5.9 Increased Blood Pressure
 
 In placebo-controlled studies, the mean change from baseline to the end of study in systolic blood pressure was +2.3 mmHg and +2.7 mmHg for AUBAGIO 7 mg and 14 mg, respectively, and -0.6 mmHg for placebo.
 The change from baseline in diastolic blood pressure was +1.4 mmHg and +1.9 mmHg for AUBAGIO 7 mg and 14 mg, respectively, and -0.3 mmHg for placebo.
@@ -141,7 +157,7 @@ Hypertension was an adverse reaction in 3.1% and 4.3% of patients treated with 7
 Check blood pressure before start of AUBAGIO treatment and periodically thereafter.
 Elevated blood pressure should be appropriately managed during treatment with AUBAGIO.
 
-## 5.8 Respiratory Effects
+## 5.10 Respiratory Effects
 
 Interstitial lung disease, including acute interstitial pneumonitis, has been reported with AUBAGIO in the postmarketing setting.
 
@@ -150,7 +166,7 @@ Interstitial lung disease may be fatal and may occur acutely at any time during 
 New onset or worsening pulmonary symptoms, such as cough and dyspnea, with or without associated fever, may be a reason for discontinuation of therapy and for further investigation as appropriate.
 If discontinuation of the drug is necessary, consider initiation of an accelerated elimination procedure [see Warnings and Precautions (5.3)].
 
-## 5.9 Concomitant Use with Immunosuppressive or Immunomodulating Therapies
+## 5.11 Concomitant Use with Immunosuppressive or Immunomodulating Therapies
 
 Coadministration with antineoplastic or immunosuppressive therapies used for treatment of multiple sclerosis has not been evaluated.
 Safety studies in which AUBAGIO was concomitantly administered with other immune modulating therapies for up to one year (interferon beta, glatiramer acetate) did not reveal any specific safety concerns.

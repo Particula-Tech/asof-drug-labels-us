@@ -11,4 +11,4 @@ Monitoring to Assess Safety
   Further monitoring should be based on signs and symptoms of infection [see Warnings and Precautions (5.4)].
 - Prior to initiating AUBAGIO, screen patients for latent tuberculosis infection with a tuberculin skin test or blood test for mycobacterium tuberculosis infection [see Warnings and Precautions (5.4)].
 - Exclude pregnancy prior to initiation of treatment with AUBAGIO in females of reproductive potential [see Warnings and Precautions (5.2)].
-- Check blood pressure before start of AUBAGIO treatment and periodically thereafter [see Warnings and Precautions (5.7)].
+- Check blood pressure before start of AUBAGIO treatment and periodically thereafter [see Warnings and Precautions (5.9)].

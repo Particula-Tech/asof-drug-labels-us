@@ -2,9 +2,9 @@
 
 - Hepatotoxicity
 
-Severe liver injury including fatal liver failure has been reported in patients treated with leflunomide, which is indicated for rheumatoid arthritis.
-A similar risk would be expected for teriflunomide because recommended doses of teriflunomide and leflunomide result in a similar range of plasma concentrations of teriflunomide.
-Concomitant use of AUBAGIO with other potentially hepatotoxic drugs may increase the risk of severe liver injury.
+Clinically significant and potentially life-threatening liver injury, including acute liver failure requiring transplant, has been reported in patients treated with AUBAGIO in the postmarketing setting [see Warnings and Precautions (5.1)].
+Concomitant use of AUBAGIO with other hepatotoxic drugs may increase the risk of severe liver injury.
+
 Obtain transaminase and bilirubin levels within 6 months before initiation of AUBAGIO therapy.
 Monitor ALT levels at least monthly for six months after starting AUBAGIO [see Warnings and Precautions (5.1)].
 If drug induced liver injury is suspected, discontinue AUBAGIO and start an accelerated elimination procedure with cholestyramine or charcoal [see Warnings and Precautions (5.3)].

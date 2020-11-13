@@ -4,10 +4,12 @@ The following serious adverse reactions are described elsewhere in the prescribi
 
 - Hepatotoxicity [see Contraindications (4) and Warnings and Precautions (5.1)]
 - Bone Marrow Effects/Immunosuppression Potential/Infections [see Warnings and Precautions (5.4)]
-- Hypersensitivity and Serious Skin Reactions [see Contraindications (4) and Warnings and Precautions (5.5)]
-- Peripheral Neuropathy [see Warnings and Precautions (5.6)]
-- Increased Blood Pressure [see Warnings and Precautions (5.7)]
-- Respiratory Effects [see Warnings and Precautions (5.8)]
+- Hypersensitivity Reactions [see Contraindications (4) and Warnings and Precautions (5.5)]
+- Serious Skin Reactions [see Warnings and Precautions (5.6)]
+- Drug Reaction with Eosinophilia and Systemic Symptoms [see Warnings and Precautions (5.7)]
+- Peripheral Neuropathy [see Warnings and Precautions (5.8)]
+- Increased Blood Pressure [see Warnings and Precautions (5.9)]
+- Respiratory Effects [see Warnings and Precautions (5.10)]
 
 ## 6.1 Clinical Trials Experience
 
@@ -57,9 +59,11 @@ No patient in any treatment group had a serum phosphorus below 0.3 mmol/L.
 The following adverse reactions have been identified during postapproval use of AUBAGIO.
 Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
 
+- Drug-induced liver injury (DILI) [see Warnings and Precautions (5.1)]
 - Hypersensitivity reactions, some of which were severe, such as anaphylaxis and angioedema [see Warnings and Precautions (5.5)]
-- Severe skin reactions, including toxic epidermal necrolysis and Stevens-Johnson syndrome [see Warnings and Precautions (5.5)]
+- Severe skin reactions, including toxic epidermal necrolysis and Stevens-Johnson syndrome [see Warnings and Precautions (5.6)]
+- Drug reaction with eosinophilia and systemic symptoms (DRESS) [see Warnings and Precautions (5.7)]
 - Psoriasis or worsening of psoriasis (including pustular psoriasis)
 - Thrombocytopenia [see Warnings and Precautions (5.4)]
-- Interstitial lung disease [see Warnings and Precautions (5.8)]
+- Interstitial lung disease [see Warnings and Precautions (5.10)]
 - Pancreatitis
