@@ -1,7 +1,7 @@
 # DRUG ABUSE AND DEPENDENCE
 
 Diazepam is a Schedule IV controlled substance and can produce drug dependence.
-It is recommended that patients be treated with Diazepam rectal gel no more frequently than every five days and no more than five times per month.
+It is recommended that patients be treated with diazepam rectal gel no more frequently than every five days and no more than five times per month.
 
 Addiction-prone individuals (such as drug addicts or alcoholics) should be under careful surveillance when receiving diazepam or other psychotropic agents because of the predisposition of such patients to habituation and dependence.
 
