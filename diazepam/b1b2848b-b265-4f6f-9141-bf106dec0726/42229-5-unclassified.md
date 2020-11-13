@@ -1,6 +1,10 @@
-Diazepam Rectal Gel Diazepam Rectal Gel Rectal Delivery System CIV ADMINISTRATION AND DISPOSAL INSTRUCTIONS
+Diazepam Rectal Gel
 
-IMPORTANT
+Diazepam Rectal Gel Rectal Delivery System C-IV
+
+ADMINISTRATION AND DISPOSAL INSTRUCTIONS
+
+I M P O R T A N T
 
 Read first before using
 
@@ -64,47 +68,45 @@ Discuss beforehand with the doctor any additional steps you may need to take if 
 
 Patient’s Diazepam Rectal Gel dosage is: __________mg
 
-Patient’s resting breathing rate_________ Patient’s current weight____________
+Patient’s resting breathing rate _________ Patient’s current weight ____________
 
-Confirm current weight is still the same as when Diazepam Rectal Gel was prescribed____________
+Confirm current weight is still the same as when Diazepam Rectal Gel was prescribed ____________
 
-Check expiration data and always remove cap before using.
+Check expiration date and always remove cap before using.
 Be sure seal pin is removed with the cap.
 
-TREATMENT 1 ------------------------------------------------------------------------------------------------------------
+T R E A T M E N T 1 ------------------------------------------------------------------------------------------------------------
 
-Important things to tell the doctor.
+Important things to tell the doctor:
 
-Things to do after treatment with Diazepam Rectal Gel.
+Things to do after treatment with Diazepam Rectal Gel:
 
 Stay with the person for 4 hours and make notes on the following:
 
-- •Changes in resting breathing rate__________________________
-- •Changes in color ______________________________________
-- •Possible side effects from treatment_______________________
+- •Changes in resting breathing rate________________________________________________
+- •Changes in color ____________________________________________________________
+- •Possible side effects from treatment _____________________________________________
 - •Your doctor may prescribe a second dose of Diazepam Rectal Gel.
   If a second dose is needed, give it 4 hours to 12 hours after the first dose.
 
-TREATMENT 2
+T R E A T M E N T 2 ------------------------------------------------------------------------------------------------------------
 
-------------------------------------------------------------------------------------------------------------
+Important things to tell the doctor:
 
-Important things to tell the doctor
-
-Things to do after treatment with Diazepam Rectal Gel.
+Things to do after treatment with Diazepam Rectal Gel:
 
 Stay with the person for 4 hours and make notes on the following:
 
-- •Changes in resting breathing rate_________________________
-- •Changes in color ___________________________________
-- •Possible side effects from treatment________________________
+- •Changes in resting breathing rate__________________________________________________
+- •Changes in color ____________________________________________________________
+- •Possible side effects from treatment_________________________________________________
 
-HOW TO ADMINISTER AND DISPOSAL
+Diazepam Rectal Gel Diazepam Rectal Gel Rectal Delivery System C-IV
 
-Manufactured for: Oceanside Pharmaceuticals, a division of Valeant Pharmaceuticals North America LLC Bridgewater, NJ 08807 USA
+ADMINISTRATION AND DISPOSAL INSTRUCTIONS
 
-Manufactured by: DPT Laboratories, Ltd. San Antonio, TX 78215 USA
+Distributed by: Oceanside Pharmaceuticals, a division of Bausch Health US, LLC Bridgewater, NJ 08807 USA Manufactured by: DPT Laboratories, Ltd. San Antonio, TX 78215 USA
 
-9570801
+© 2019 Bausch Health Companies Inc. or its affiliates
 
-Revised: 03/2017
+9570802 Revised: 10/2019

@@ -3,7 +3,7 @@
 ## Mechanism of Action
 
 Although the precise mechanism by which diazepam exerts its antiseizure effects is unknown, animal and in vitro studies suggest that diazepam acts to suppress seizures through an interaction with γ-aminobutyric acid (GABA) receptors of the A-type (GABAA).
-GABA, the major inhibitory neurotransmitter in the central nervous system, acts at this receptor to open the membrane channel allowing chloride ions to flow into neurons.
+GABA, the major inhibitory neurotransmitter in the central nervous system (CNS), acts at this receptor to open the membrane channel allowing chloride ions to flow into neurons.
 Entry of chloride ions causes an inhibitory potential that reduces the ability of neurons to depolarize to the threshold potential necessary to produce action potentials.
 Excessive depolarization of neurons is implicated in the generation and spread of seizures.
 It is believed that diazepam enhances the actions of GABA by causing GABA to bind more tightly to the GABAA receptor.
@@ -31,20 +31,20 @@ No inhibition was demonstrated in the presence of inhibitors selective for CYP2A
 ### Hepatic Impairment:
 
 No pharmacokinetic studies were conducted with diazepam rectal gel in hepatically impaired subjects.
-Literature review indicates that following administration of 0.1 to 0.15 mg/kg of diazepam intravenously, the half-life of diazepam was prolonged by two to five-fold in subjects with alcoholic cirrhosis (n=24) compared to age-matched control subjects (n=37) with a corresponding decrease in clearance by half: however, the exact degree of hepatic impairment in these subjects was not characterized in this literature (see PRECAUTIONS section).
+Literature review indicates that following administration of 0.1 to 0.15 mg/kg of diazepam intravenously, the half-life of diazepam was prolonged by two to five-fold in subjects with alcoholic cirrhosis (n=24) compared to age-matched control subjects (n=37) with a corresponding decrease in clearance by half: however, the exact degree of hepatic impairment in these subjects was not characterized in this literature (see PRECAUTIONS).
 
 ### Renal Impairment:
 
-The pharmacokinetics of diazepam have not been studied in renally impaired subjects (see PRECAUTIONS section).
+The pharmacokinetics of diazepam have not been studied in renally impaired subjects (see PRECAUTIONS).
 
 ### Pediatrics:
 
 No pharmacokinetic studies were conducted with diazepam rectal gel in the pediatric population.
-However, literature review indicates that following IV administration (0.33 mg/kg), diazepam has a longer half-life in neonates (birth up to one month; approximately 50-95 hours) and infants (one month up to two years; about 40-50 hours), whereas it has a shorter half-life in children (two to 12 years; approximately 15-21 hours) and adolescents (12 to 16 years; about 18-20 hours) (see PRECAUTIONS section).
+However, literature review indicates that following IV administration (0.33 mg/kg), diazepam has a longer half-life in neonates (birth up to one month; approximately 50-95 hours) and infants (one month up to two years; about 40-50 hours), whereas it has a shorter half-life in children (two to 12 years; approximately 15-21 hours) and adolescents (12 to 16 years; about 18-20 hours) (see PRECAUTIONS).
 
 ### Elderly:
 
-A study of single dose IV administration of diazepam (0.1 mg/kg) indicates that the elimination half-life of diazepam increases linearly with age, ranging from about 15 hours at 18 years (healthy young adults) to about 100 hours at 95 years (healthy elderly) with a corresponding decrease in clearance of free diazepam (see PRECAUTIONS and DOSAGE AND ADMINISTRATION sections).
+A study of single dose IV administration of diazepam (0.1 mg/kg) indicates that the elimination half-life of diazepam increases linearly with age, ranging from about 15 hours at 18 years (healthy young adults) to about 100 hours at 95 years (healthy elderly) with a corresponding decrease in clearance of free diazepam (see PRECAUTIONS and DOSAGE AND ADMINISTRATION).
 
 ### Effect of Gender, Race, and Cigarette Smoking:
 

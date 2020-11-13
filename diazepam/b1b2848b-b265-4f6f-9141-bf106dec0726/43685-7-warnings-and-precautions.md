@@ -11,7 +11,7 @@ Because of these risks, reserve concomitant prescribing of benzodiazepines and o
 
 Observational studies have demonstrated that concomitant use of opioid analgesics and benzodiazepines increases the risk of drug-related mortality compared to use of opioids alone.
 If a decision is made to prescribe diazepam rectal gel or diazepam rectal gel rectal delivery system concomitantly with opioids, prescribe the lowest effective dosages and minimum durations of concomitant use, and follow patients closely for signs and symptoms of respiratory depression and sedation.
-Advise both patients and caregivers about the risks of respiratory depression and sedation when diazepam rectal gel or diazepam rectal gel rectal delivery system is used with opioids (see PRECAUTIONSsection).
+Advise both patients and caregivers about the risks of respiratory depression and sedation when diazepam rectal gel or diazepam rectal gel rectal delivery system is used with opioids (see PRECAUTIONS).
 
 ## CNS Depression
 
@@ -46,7 +46,7 @@ There may also be non-teratogenic risks associated with the use of benzodiazepin
 There have been reports of neonatal flaccidity, respiratory and feeding difficulties, and hypothermia in children born to mothers who have been receiving benzodiazepines late in pregnancy.
 In addition, children born to mothers receiving benzodiazepines on a regular basis late in pregnancy may be at some risk of experiencing withdrawal symptoms during the postnatal period.
 
-Advice Regarding the Use of Diazepam rectal gel in Women of Childbearing Potential: In general, the use of diazepam rectal gel in women of childbearing potential, and more specifically during known pregnancy, should be considered only when the clinical situation warrants the risk to the fetus.
+Advice Regarding the Use of Diazepam Rectal Gel in Women of Childbearing Potential: In general, the use of diazepam rectal gel in women of childbearing potential, and more specifically during known pregnancy, should be considered only when the clinical situation warrants the risk to the fetus.
 
 The specific considerations addressed above regarding the use of anticonvulsants in epileptic women of childbearing potential should be weighed in treating or counseling these women.
 
@@ -57,7 +57,7 @@ Patients should also be advised that if they become pregnant during therapy or i
 
 ## Withdrawal Symptoms
 
-Withdrawal symptoms of the barbiturate type have occurred after the discontinuation of regular use of benzodiazepines (see DRUG ABUSE AND DEPENDENCE section).
+Withdrawal symptoms of the barbiturate type have occurred after the discontinuation of regular use of benzodiazepines (see DRUG ABUSE AND DEPENDENCE).
 
 ## Chronic Use
 
@@ -101,20 +101,20 @@ Diazepam rectal gel should be used with caution in patients with compromised res
 
 ## Use in Elderly
 
-In elderly patients diazepam rectal gel should be used with caution due to an increase in halflife with a corresponding decrease in the clearance of free diazepam.
+In elderly patients diazepam rectal gel should be used with caution due to an increase in half-life with a corresponding decrease in the clearance of free diazepam.
 It is also recommended that the dosage be decreased to reduce the likelihood of ataxia or oversedation.
 
-## Interference With Cognitive and Motor Performance
+## Interference With Cognitive and Motor Performance:
 
 Because benzodiazepines have the potential to impair judgment, thinking, or motor skills, patients should be cautioned about operating hazardous machinery, including automobiles, until they are reasonably certain that diazepam rectal gel therapy does not affect them adversely.
 
-Pregnancy: Patients should be advised to notify their physician if they become pregnant or intend to become pregnant during therapy with diazepam rectal gel (see WARNINGS section).
+Pregnancy: Patients should be advised to notify their physician if they become pregnant or intend to become pregnant during therapy with diazepam rectal gel (see WARNINGS).
 
 Nursing: Because diazepam and its metabolites may be present in human breast milk for prolonged periods of time after acute use of diazepam rectal gel, patients should be advised not to breast-feed for an appropriate period of time after receiving treatment with diazepam rectal gel.
 
 ## Concomitant Medication
 
-Although diazepam rectal gel is indicated for use solely on an intermittent basis, the potential or a synergistic CNS-depressant effect when used simultaneously with alcohol or other CNS-depressants must be considered by the prescribing physician, and appropriate recommendations made to the patient and/or caregiver.
+Although diazepam rectal gel is indicated for use solely on an intermittent basis, the potential for a synergistic CNS-depressant effect when used simultaneously with alcohol or other CNS-depressants must be considered by the prescribing physician, and appropriate recommendations made to the patient and/or caregiver.
 
 ## Drug Interactions
 
@@ -135,7 +135,7 @@ The clinical significance of this is unclear.
 
 Valproate: Valproate may potentiate the CNS-depressant effects of diazepam.
 
-Effect of Other Drugs on Diazepam Metabolism:In vitro studies using human liver preparations suggest that CYP2C19 and CYP3A4 are the principal isozymes involved in the initial oxidative metabolism of diazepam.
+Effect of Other Drugs on Diazepam Metabolism: In vitro studies using human liver preparations suggest that CYP2C19 and CYP3A4 are the principal isozymes involved in the initial oxidative metabolism of diazepam.
 Therefore, potential interactions may occur when diazepam is given concurrently with agents that affect CYP2C19 and CYP3A4 activity.
 Potential inhibitors of CYP2C19 (e.g., cimetidine, quinidine, and tranylcypromine) and CYP3A4 (e.g., ketoconazole, troleandomycin, and clotrimazole) could decrease the rate of diazepam elimination, while inducers of CYP2C19 (e.g., rifampin) and CYP3A4 (e.g., carbamazepine, phenytoin, dexamethasone and phenobarbital) could increase the rate of elimination of diazepam.
 
@@ -154,7 +154,7 @@ No adverse effects on fertility or offspring viability were noted at a dose of 8
 
 ## Pregnancy
 
-Category D (see WARNINGS section)
+(see WARNINGS)
 
 ## Labor and Delivery
 

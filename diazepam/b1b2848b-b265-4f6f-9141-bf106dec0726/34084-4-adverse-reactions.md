@@ -27,7 +27,7 @@ The prescriber should be aware that these figures, obtained when diazepam rectal
 Similarly, the cited frequencies cannot be directly compared with figures obtained from other clinical investigations involving different treatments, uses, or investigators.
 An inspection of these frequencies, however, does provide the prescribing physician with one basis to estimate the relative contribution of drug and non-drug factors to the adverse event incidences in the population studied.
 
-TABLE 1: Treatment-Emergent Signs And Symptoms That Occurred In > 1% Of Patients Enrolled In Parallel-Group, Placebo-Controlled Trials And Were Numerically More Common In The Diazepam rectal gel Group
+TABLE 1: Treatment-Emergent Signs and Symptoms That Occurred in > 1% of Patients Enrolled in Parallel-Group, Placebo-Controlled Trials and Were Numerically More Common in the Diazepam Rectal Gel Group
 
 | Body As A Whole | Headache | 5% | 4% |
 | --- | --- | --- | --- |
@@ -48,7 +48,7 @@ Other events reported by fewer than 1% of patients were infection, anorexia, vom
 
 The pattern of adverse events was similar for different age, race and gender groups.
 
-## Other Adverse Events Observed During All Clinical Trials
+## Other Adverse Events Observed During All Clinical Trials:
 
 Diazepam rectal gel has been administered to 573 patients with epilepsy during all clinical trials, only some of which were placebo-controlled.
 During these trials, all adverse events were recorded by the clinical investigators using terminology of their own choosing.
@@ -70,3 +70,5 @@ RESPIRATORY: Hiccup
 The following infrequent adverse events were not seen with diazepam rectal gel but have been reported previously with diazepam use: depression, slurred speech, syncope, constipation, changes in libido, urinary retention, bradycardia, cardiovascular collapse, nystagmus, urticaria, neutropenia and jaundice.
 
 Paradoxical reactions such as acute hyperexcited states, anxiety, hallucinations, increased muscle spasticity, insomnia, rage, sleep disturbances and stimulation have been reported with diazepam; should these occur, use of diazepam rectal gel should be discontinued.
+
+To report SUSPECTED ADVERSE REACTIONS, contact Oceanside Pharmaceuticals at 1-800-321-4576 or FDA at 1-800-FDA-1088 or www.fda.gov/medwatch.

@@ -1,12 +1,12 @@
 # DOSAGE AND ADMINISTRATION
 
-(see also Patient/Caregiver Package Insert)
+(seealso Patient/Caregiver Package Insert)
 
 This section is intended primarily for the prescriber; however, the prescriber should also be aware of the dosing information and directions for use provided in the patient package insert.
 
 A decision to prescribe diazepam rectal gel involves more than the diagnosis and the selection of the correct dose for the patient.
 
-First, the prescriber must be convinced from historical reports and/or personal observations that the patient exhibits the characteristic identifiable seizure cluster that can be distinguished from the patient¹s usual seizure activity by the caregiver who will be responsible for administering diazepam rectal gel.
+First, the prescriber must be convinced from historical reports and/or personal observations that the patient exhibits the characteristic identifiable seizure cluster that can be distinguished from the patient’s usual seizure activity by the caregiver who will be responsible for administering diazepam rectal gel.
 
 Second, because diazepam rectal gel is only intended for adjunctive use, the prescriber must ensure that the patient is receiving an optimal regimen of standard anti-epileptic drug treatment and is, nevertheless, continuing to experience these characteristic episodes.
 
@@ -49,7 +49,7 @@ Diazepam rectal gel 2.5 mg is also available with a 4.4 cm tip.
 
 In elderly and debilitated patients, it is recommended that the dosage be adjusted downward to reduce the likelihood of ataxia or oversedation.
 
-The prescribed dose of diazepam rectal gel should be adjusted by the physician periodically to reflect changes in the patient¹s age or weight.
+The prescribed dose of diazepam rectal gel should be adjusted by the physician periodically to reflect changes in the patient’s age or weight.
 
 The diazepam rectal gel 2.5 mg dose may also be used as a partial replacement dose for patients who may expel a portion of the first dose.
 

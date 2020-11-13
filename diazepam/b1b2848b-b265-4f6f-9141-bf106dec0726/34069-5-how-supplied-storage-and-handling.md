@@ -8,17 +8,17 @@ The Diazepam Rectal Gel delivery system is available in the following three pres
 
 | Diazepam Rectal Gel | Rectal Tip Size | NDC |
 | --- | --- | --- |
-| 2.5 mg Twin Pack | 4.4 cm | NDC 68682-650-20 |
+| 2.5 mg Twin Pack | 4.4 cm | 68682-650-20 |
 | Diazepam Rectal Gel | Rectal Tip Size | NDC |
-| 10 mg Delivery | 4.4 cm | NDC 68682-652-20 |
+| 10 mg Delivery | 4.4 cm | 68682-652-20 |
 | System Twin Pack |  |  |
-| 20 mg Delivery | 6.0 cm | NDC 68682-655-20 |
+| 20 mg Delivery | 6.0 cm | 68682-655-20 |
 | System Twin Pack |  |  |
 
 Each Twin Pack contains two Diazepam Rectal Gel delivery systems, two packets of lubricating jelly, and administration and disposal Instructions available on the bottom of the package.
 Diazepam Rectal Gel delivery system is also packed with Instructions for Caregivers upon receipt from pharmacy.
 
-Store at 25°C (77°F); excursions permitted to 15° to 30°C (59° to 86°F) [See USP Controlled Room Temperature].
+Store at 25°C (77°F); excursions permitted to 15° to 30°C (59° to 86°F) [see USP Controlled Room Temperature].
 
 Diazepam Rectal Gel 10 mg delivery system and 20 mg delivery system
 
@@ -39,14 +39,10 @@ The instructions are also available on the bottom of each drug product package.
 
 CAUTION: Federal law prohibits the transfer of this drug to any person other than the patient for whom it was prescribed.
 
-Manufactured for: Oceanside Pharmaceuticals, a division of Valeant Pharmaceuticals North America LLC Bridgewater, NJ 08807 USA
+Distributed by: Oceanside Pharmaceuticals, a division of Bausch Health US, LLC Bridgewater, NJ 08807 USA
 
 Manufactured by: DPT Laboratories, Ltd. San Antonio, TX 78215 USA
 
-All other product/brand names are trademarks of their respective owners.
+© 2019 Bausch Health Companies Inc. or its affiliates
 
-©Valeant Pharmaceuticals North America LLC
-
-9570801
-
-Revised: 03/2017
+9570802 Revised: 10/2019
