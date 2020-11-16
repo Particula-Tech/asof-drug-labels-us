@@ -1,8 +1,8 @@
 # 10. OVERDOSAGE
 
-Doxepin is routinely administered for indications other than insomnia at doses 10- to 50-fold higher than the highest recommended dose of Silenor.
+Doxepin is routinely administered for indications other than insomnia at doses 10- to 50-fold higher than the highest recommended dose of SILENOR.
 
-The signs and symptoms associated with doxepin use at doses several-fold higher than the maximum recommended dose (Excessive dose) of Silenor for the treatment of insomnia are described [see Overdosage (10.1)], as are signs and symptoms associated with higher multiples of the maximum recommended dose (Critical overdose) [see Overdosage (10.2)].
+The signs and symptoms associated with doxepin use at doses several-fold higher than the maximum recommended dose (Excessive dose) of SILENOR for the treatment of insomnia are described [see Overdosage (10.1)], as are signs and symptoms associated with higher multiples of the maximum recommended dose (Critical overdose) [see Overdosage (10.2)].
 
 ## 10.1. Signs and Symptoms of Excessive Doses
 
@@ -26,7 +26,7 @@ Manifestations of doxepin critical overdose include: cardiac dysrhythmias, sever
 Electrocardiogram changes, particularly in QRS axis or width, are clinically significant indicators of tricyclic compound toxicity.
 Other signs of overdose may include, but are not limited to: confusion, disturbed concentration, transient visual hallucinations, dilated pupils, agitation, hyperactive reflexes, stupor, drowsiness, muscle rigidity, vomiting, hypothermia, hyperpyrexia.
 
-## 10.3. Recommended Management
+## 10.3 Recommended Management
 
 As management of overdose is complex and changing, it is recommended that the physician contact a poison control center for current information on treatment.
 In addition, the possibility of a multiple drug ingestion should be considered.
