@@ -26,7 +26,7 @@ Treatment was then continued with OLAT, including itraconazole and lipid amphote
 Although initial therapy with conventional amphotericin B was to be continued for at least two weeks, actual duration of therapy was at the discretion of the investigator.
 Patients who discontinued initial randomized therapy due to toxicity or lack of efficacy were eligible to continue in the study with OLAT treatment.
 
-A satisfactory global response at 12 weeks (complete or partial resolution of all attributible symptoms, signs, radiographic/bronchoscopic abnormalities present at baseline) was seen in 53% of voriconazole treated patients compared to 32% of amphotericin B treated patients (Table 15).
+A satisfactory global response at 12 weeks (complete or partial resolution of all attributable symptoms, signs, radiographic/bronchoscopic abnormalities present at baseline) was seen in 53% of voriconazole treated patients compared to 32% of amphotericin B treated patients (Table 15).
 A benefit of voriconazole compared to amphotericin B on patient survival at Day 84 was seen with a 71% survival rate on voriconazole compared to 58% on amphotericin B (Table 13).
 
 Table 13 also summarizes the response (success) based on mycological confirmation and species.
@@ -155,7 +155,7 @@ Two of these patients relapsed, 1 with a sinus infection and profound neutropeni
 A total of 22 patients aged 12 to 18 years with IA were included in the adult therapeutic studies.
 Twelve out of 22 (55%) patients had successful response after treatment with a maintenance dose of voriconazole 4 mg/kg every 12 hours.
 
-Fifty-three pediatric patients aged 2 to less than 18 years old were treated with voriconazole in two prospective, open-label, noncomparative, multicenter clinical studies.
+Fifty-three pediatric patients aged 2 to less than 18 years old were treated with voriconazole in two prospective, open-label, non-comparative, multicenter clinical studies.
 
 One study was designed to enroll pediatric patients with IA or infections with rare molds (such as Scedosporium or Fusarium).
 Patients aged 2 to less than 12 years and 12 to 14 years with body weight less than 50 kg received an intravenous voriconazole loading dose of 9 mg/kg every 12 hours for the first 24-hours followed by an 8 mg/kg intravenous maintenance dose every 12 hours.

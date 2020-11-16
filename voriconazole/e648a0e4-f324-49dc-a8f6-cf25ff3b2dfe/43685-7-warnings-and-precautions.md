@@ -42,10 +42,10 @@ The effect of voriconazole on visual function is not known if treatment continue
 There have been post-marketing reports of prolonged visual adverse events, including optic neuritis and papilledema.
 If treatment continues beyond 28 days, visual function including visual acuity, visual field, and color perception should be monitored [see Adverse Reactions (6.2)].
 
-## 5.5 Serious Exfoliative Cutaneous Reactions
+## 5.5 Severe Cutaneous Adverse Reactions
 
-Serious exfoliative cutaneous reactions, such as Stevens-Johnson syndrome, have been reported during treatment with voriconazole.
-If a patient develops an exfoliative cutaneous reaction, voriconazole should be discontinued.
+Severe cutaneous adverse reactions (SCARs), such as Stevens-Johnson syndrome (SJS), toxic epidermal necrolysis (TEN), and drug reaction with eosinophilia and systemic symptoms (DRESS), which can be life-threatening or fatal, have been reported during treatment with voriconazole.
+If a patient develops a severe cutaneous adverse reaction, voriconazole should be discontinued [see Adverse Reactions (6.1, 6.2)].
 
 ## 5.6 Photosensitivity
 

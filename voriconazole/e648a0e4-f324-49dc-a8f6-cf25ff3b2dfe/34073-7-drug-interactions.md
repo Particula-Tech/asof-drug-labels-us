@@ -14,7 +14,7 @@ Table 10: Effect of Other Drugs on Voriconazole Pharmacokinetics [see Clinical P
 | Low-dose Ritonavir (100 mg every 12 hours) (CYP450 Induction) | Reduced | Coadministration of voriconazole and low-dose ritonavir (100 mg every 12 hours) should be avoided, unless an assessment of the benefit/risk to the patient justifies the use of voriconazole. |
 | Carbamazepine (CYP450 Induction) | Not Studied In Vivo or In Vitro, but Likely to Result in Significant Reduction | Contraindicated |
 | Long Acting Barbiturates (CYP450 Induction) | Not Studied In Vivo or In Vitro, but Likely to Result in Significant Reduction | Contraindicated |
-| Phenytoin* (CYP450 Induction) | Significantly Reduced | Increase voriconazole maintenance dose from 4 mg/kg to 5 mg/kg IV every 12 hours or from 200 mg to 400 mg orally every 12 hours (100 mg to 200 mg orally every 12 hours in patients weighing less than 40 kg). |
+| Phenytoin (CYP450 Induction) | Significantly Reduced | Increase voriconazole maintenance dose from 4 mg/kg to 5 mg/kg IV every 12 hours or from 200 mg to 400 mg orally every 12 hours (100 mg to 200 mg orally every 12 hours in patients weighing less than 40 kg). |
 | St. John's Wort (CYP450 inducer; P-gp inducer) | Significantly Reduced | Contraindicated |
 | Oral Contraceptives containing ethinyl estradiol and norethindrone (CYP2C19 Inhibition) | Increased | Monitoring for adverse events and toxicity related to voriconazole is recommended when coadministered with oral contraceptives. |
 | Fluconazole (CYP2C9, CYP2C19 and CYP3A4 Inhibition) | Significantly Increased | Avoid concomitant administration of voriconazole and fluconazole. Monitoring for adverse events and toxicity related to voriconazole is started within 24 hours after the last dose of fluconazole. |
