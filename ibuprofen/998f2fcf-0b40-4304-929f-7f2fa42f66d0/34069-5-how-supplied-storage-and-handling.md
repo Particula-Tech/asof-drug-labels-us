@@ -20,8 +20,8 @@ Manufactured and Distributed By
 
 Perrigo®
 
-Allegan, MI 49010 • www.perrigo.com
+Allegan, MI 49010 • www.perrigorx.com
 
-Rev 03-19
+Rev 10-20
 
-: 01900 RC J6
+: 01900 RC J7
