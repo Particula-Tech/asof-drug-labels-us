@@ -1,15 +1,12 @@
 # 6 ADVERSE REACTIONS
 
-LABAs, such as formoterol fumarate, one of the active ingredients in BEVESPI AEROSPHERE, as monotherapy (without an inhaled corticosteroid) for asthma increase the risk of asthma-related events.
-BEVESPI AEROSPHERE is not indicated for the treatment of asthma [see Warnings and Precautions (5.1)].
-
 The following adverse reactions are described in greater detail elsewhere in the labeling:
 
 - •Paradoxical bronchospasm [see Warnings and Precautions (5.4)]
-- •Hypersensitivity reactions [see Contraindications (4), Warnings and Precautions (5.5)]
+- •Hypersensitivity reactions including Anaphylaxis [see Contraindications (4), Warnings and Precautions (5.5)]
 - •Cardiovascular effects [see Warnings and Precautions (5.6)]
-- •Worsening of narrow-angle glaucoma [see Warnings and Precautions (5.9)]
-- •Worsening of urinary retention [see Warnings and Precautions (5.10)]
+- •Worsening of narrow-angle glaucoma [see Warnings and Precautions (5.7)]
+- •Worsening of urinary retention [see Warnings and Precautions (5.8)]
 
 ## 6.1 Clinical Trials Experience
 

@@ -3,11 +3,11 @@
 Advise the patient to read the FDA-approved patient labeling (Patient Information and Instructions for Use)
 
 Serious Asthma-Related Events: Inform patients that LABAs, such as formoterol fumarate, one of the active ingredients in BEVESPI AEROSPHERE, when used alone (without an inhaled corticosteroid), increase the risk of serious asthma-related events, including asthma-related death.
-BEVESPI AEROSPHERE is not indicated for the treatment of asthma.
+BEVESPI AEROSPHERE is not indicated for the treatment of asthma [see Warnings and Precautions (5.1)].
 
 Not for Acute Symptoms: Inform patients that BEVESPI AEROSPHERE is not meant to relieve acute symptoms of COPD and extra doses should not be used for that purpose.
 Advise them to treat acute symptoms with a rescue inhaler such as albuterol.
-Provide patients with such medicine and instruct them in how it should be used.
+Provide patients with such medicine and instruct them in how it should be used [see Warnings and Precautions (5.2)].
 
 Instruct patients to seek medical attention immediately if they experience any of the following:
 
@@ -17,21 +17,21 @@ Instruct patients to seek medical attention immediately if they experience any o
 Patients should not stop therapy with BEVESPI AEROSPHERE without physician/provider guidance since symptoms may recur after discontinuation.
 
 Do Not Use Additional Long-Acting Beta2-Agonists: Instruct patients to not use other medicines containing a LABA.
-Patients should not use more than the recommended dose of BEVESPI AEROSPHERE.
+Patients should not use more than the recommended dose of BEVESPI AEROSPHERE [see Warnings and Precautions (5.3)].
 
 Instruct patients who have been taking inhaled, short-acting beta2-agonists on a regular basis to discontinue the regular use of these products and use them only for the symptomatic relief of acute symptoms.
 
 Paradoxical Bronchospasm: As with other inhaled medicines, BEVESPI AEROSPHERE can cause paradoxical bronchospasm.
-If paradoxical bronchospasm occurs, instruct patients to discontinue BEVESPI AEROSPHERE.
+If paradoxical bronchospasm occurs, instruct patients to discontinue BEVESPI AEROSPHERE [see Warnings and Precautions (5.4)].
 
 Risks Associated With Beta2-Agonist Therapy: Inform patients of adverse effects associated with beta2-agonists, such as palpitations, chest pain, rapid heart rate, tremor, or nervousness.
-Instruct patients to consult a physician immediately should any of these signs or symptoms develop.
+Instruct patients to consult a physician immediately should any of these signs or symptoms develop [see Warnings and Precautions (5.6)].
 
 Worsening of Narrow Angle Glaucoma: Instruct patients to be alert for signs and symptoms of acute narrow-angle glaucoma (e.g., eye pain or discomfort, blurred vision, visual halos, or colored images in association with red eyes from conjunctival congestion and corneal edema).
-Instruct patients to consult a physician immediately should any of these signs or symptoms develop.
+Instruct patients to consult a physician immediately should any of these signs or symptoms develop [see Warnings and Precautions (5.7)].
 
 Worsening of Urinary Retention: Instruct patients to be alert for signs and symptoms of urinary retention (e.g., difficulty passing urine, painful urination).
-Instruct patients to consult a physician immediately should any of these signs or symptoms develop.
+Instruct patients to consult a physician immediately should any of these signs or symptoms develop [see Warnings and Precautions (5.8)].
 
 Instructions for Administering BEVESPI AEROSPHERE
 
@@ -57,6 +57,6 @@ Inform patients that if they accidentally get BEVESPI AEROSPHERE in their eyes, 
 
 Distributed by: AstraZeneca Pharmaceuticals LP, Wilmington, DE 19850
 
-BEVESPI®, AEROSPHERE™ and BEVESPI AEROSPHERE™ are trademarks of the AstraZeneca group of companies.
+BEVESPI, AEROSPHERE and BEVESPI AEROSPHERE are registered trademarks of the AstraZeneca group of companies.
 
 ©AstraZeneca 2019

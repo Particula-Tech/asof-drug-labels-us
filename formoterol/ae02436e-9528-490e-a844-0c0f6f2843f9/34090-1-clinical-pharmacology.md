@@ -5,8 +5,8 @@
 BEVESPI AEROSPHERE
 
 BEVESPI AEROSPHERE contains both glycopyrrolate and formoterol fumarate.
-The mechanism of action described below for the individual components apply to BEVESPI AEROSPHERE.
-These drugs represent two different classes of medications (a long-acting muscarinic antagonist and a long-acting selective beta2-adrenoceptor agonist) that have different effects on clinical and physiological indices.
+The mechanism of action described below for the individual components applies to BEVESPI AEROSPHERE.
+These drugs represent two different classes of medications (an anticholinergic, and a long-acting selective beta2-adrenoceptor agonist) that have different effects on clinical physiology and inflammatory indices of COPD.
 
 Glycopyrrolate
 
@@ -31,13 +31,9 @@ The precise function of these receptors has not been established, but they raise
 The pharmacologic effects of beta2-adrenoceptor agonist drugs, including formoterol fumarate, are at least in part attributable to stimulation of intracellular adenyl cyclase, the enzyme that catalyzes the conversion of adenosine triphosphate (ATP) to cyclic-3', 5'-adenosine monophosphate (cyclic AMP).
 Increased cyclic AMP levels cause relaxation of bronchial smooth muscle and inhibition of release of mediators of immediate hypersensitivity from cells, especially from mast cells.
 
-In vitro tests show that formoterol fumarate is an inhibitor of the release of mast cell mediators, such as histamine and leukotrienes, from the human lung.
-Formoterol fumarate also inhibits histamine-induced plasma albumin extravasation in anesthetized guinea pigs and inhibits allergen-induced eosinophil influx in dogs with airway hyper-responsiveness.
-The relevance of these in vitro and animal findings to humans is unknown.
-
 ## 12.2 Pharmacodynamics
 
-Cardiovascular effects: Healthy Subjects
+Cardiac Electrophysiology
 
 The potential for QTc interval prolongation was assessed in a double-blind, single-dose, placebo- and positive-controlled crossover trial in 69 healthy subjects.
 The largest mean (90% upper confidence bound) differences from placebo in baseline-corrected QTcI for 2 inhalations of BEVESPI AEROSPHERE and glycopyrrolate/formoterol fumarate 72/19.2 mcg, were 3.1 (4.7) ms and 7.6 (9.2) ms, respectively, and excluded the clinically relevant threshold of 10 ms.
@@ -72,37 +68,37 @@ Glycopyrrolate: Population pharmacokinetic analysis showed that estimated Vc/F (
 Formoterol Fumarate: Population pharmacokinetic analysis showed that estimated Vc/F (volume of the central compartment), and V2/F (volume of the peripheral compartment) are 948 L, and 434 L, respectively.
 Over the concentration range of 10-500 nmol/L, plasma protein binding of formoterol ranged from 46% to 58%.
 
-Metabolism
-
-Glycopyrrolate: Based on information from the published literature, metabolism plays a minor role in the overall elimination of glycopyrrolate.
-
-Formoterol Fumarate: The primary metabolism of formoterol is by direct glucuronidation and by O-demethylation followed by conjugation to inactive metabolites.
-Secondary metabolic pathways include deformylation and sulfate conjugation.
-CYP2D6 and CYP2C have been identified as being primarily responsible for O-demethylation.
-
 Elimination
 
-Glycopyrrolate: After IV administration of a 0.2 mg radiolabeled glycopyrrolate, 85% of dose recovered was recovered in urine 48 hours post dose and some of radioactivity was also recovered in bile.
+Glycopyrrolate: After IV administration of a 0.2 mg dose of radiolabeled glycopyrrolate, 85% of the dose recovered was recovered in urine 48 hours post dose and some of radioactivity was also recovered in bile.
 The terminal elimination half-life derived via population pharmacokinetics analysis was 11.8 hours.
 
 Formoterol Fumarate: The excretion of formoterol was studied in four healthy subjects following simultaneous administration of radiolabeled formoterol via the oral and IV routes.
 In that study, 62% of the radiolabeled formoterol was excreted in the urine while 24% was eliminated in the feces.
 The terminal elimination half-life derived via population pharmacokinetics analysis was 11.8 hours.
 
-Special Populations
+Metabolism
 
-Effect of age, sex, race/ethnicity, or body weight:
+Glycopyrrolate: Based on literature, and an in-vitro human hepatocyte study, metabolism plays a minor role in the overall elimination of glycopyrronium.
+CYP2D6 was found to be the predominant enzyme involved in the metabolism of glycopyrronium.
+In-vitro studies indicate the glycopyrrolate does not inhibit any subtype of cytochrome P450 and that there is no induction of CYP1A2, 2B6, or 3A4 at therapeutically relevant concentrations.
+
+Formoterol Fumarate: The primary metabolism of formoterol is by direct glucuronidation and by O-demethylation followed by conjugation to inactive metabolites.
+Secondary metabolic pathways include deformylation and sulfate conjugation.
+CYP2D6 and CYP2C have been identified as being primarily responsible for O-demethylation.
+
+Specific Populations
 
 Population pharmacokinetic analysis showed no evidence of a clinically significant effect of age, sex, race/ethnicity, or body weight on the pharmacokinetics of glycopyrrolate and formoterol.
 
-Hepatic Impairment: Dedicated studies evaluating effect of hepatic impairment on the pharmacokinetics of glycopyrrolate and formoterol were not conducted.
+Patients with Hepatic Impairment: Dedicated studies evaluating effect of hepatic impairment on the pharmacokinetics of glycopyrrolate and formoterol were not conducted.
 
-Renal Impairment: Dedicated studies evaluating effect of renal impairment on the pharmacokinetics of glycopyrrolate and formoterol were not conducted.
+Patients with Renal Impairment: Dedicated studies evaluating effect of renal impairment on the pharmacokinetics of glycopyrrolate and formoterol were not conducted.
 When glycopyrrolate was administered IV in uremic patients undergoing renal transplantation, mean elimination half-life was significantly longer (46.8 minutes) than in healthy patients (18.6 minutes).
-The mean AUC (10.6 hr-μg/L), mean plasma clearance (0.43 L/hr/kg), and mean 3-hour urine excretion (0.7%) for glycopyrrolate were also significantly different than those of controls (3.73 hr-μg/L, 1.14 L/hr/kg, and 50%, respectively).
+The mean AUC (10.6 hr-mcg/L), mean plasma clearance (0.43 L/hr/kg), and mean 3-hour urine excretion (0.7%) for glycopyrrolate were also significantly different than those of controls (3.73 hr-mcg/L, 1.14 L/hr/kg, and 50%, respectively).
 A population pharmacokinetic analysis using BEVESPI AEROSPHERE showed that formoterol systemic exposure (AUC0-12) in subjects with COPD with moderate renal impairment (45 mL/min creatinine clearance) is expected to be approximately 45% higher compared to subjects with COPD with normal renal function (94 mL/min creatinine clearance).
 
-Drug Interactions
+Drug Interaction Studies
 
 No pharmacokinetic interaction is expected when glycopyrrolate and formoterol fumarate are administered in combination by the inhaled route.
 Specific drug-drug interaction studies have not been performed with glycopyrrolate or formoterol fumarate.

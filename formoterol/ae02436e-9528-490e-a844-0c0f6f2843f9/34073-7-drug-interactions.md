@@ -34,4 +34,4 @@ In this setting, cardioselective beta-blockers could be considered, although the
 ## 7.6 Anticholinergics
 
 There is a potential for an additive interaction with concomitantly used anticholinergic medications.
-Therefore, avoid coadministration of BEVESPI AEROSPHERE with other anticholinergic-containing drugs as this may lead to an increase in anticholinergic adverse effects [see Warnings and Precautions (5.9, 5.10) and Adverse Reactions (6)].
+Therefore, avoid coadministration of BEVESPI AEROSPHERE with other anticholinergic-containing drugs as this may lead to an increase in anticholinergic adverse effects [see Warnings and Precautions (5.7, 5.8) and Adverse Reactions (6)].

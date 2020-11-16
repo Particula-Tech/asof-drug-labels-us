@@ -2,35 +2,79 @@
 
 ## 8.1 Pregnancy
 
-Teratogenic Effects:
+Risk Summary
 
-Pregnancy Category C. There are no adequate and well-controlled trials of BEVESPI AEROSPHERE or its individual components, glycopyrrolate and formoterol fumarate, in pregnant women.
-Because animal reproduction studies are not always predictive of human response, BEVESPI AEROSPHERE should be used during pregnancy only if the potential benefit justifies the potential risk to the fetus.
-Women should be advised to contact their physicians if they become pregnant while taking BEVESPI AEROSPHERE.
+There are no adequate and well-controlled trials of BEVESPI AEROSPHERE or its individual components, glycopyrrolate and formoterol fumarate, in pregnant women to inform a drug-associated risk.
 
-Glycopyrrolate: There was no evidence of teratogenic effects in rats and rabbits at approximately 18,000 and 270 times, respectively, the maximum recommended human daily inhalation dose (MRHDID) in adults (on a mg/m2 basis at a maternal oral dose of 65 mg/kg/day in rats and at a maternal intramuscular injection dose of 0.5 mg/kg in rabbits).
+In animal reproduction studies, glycopyrrolate alone, administered by the subcutaneous route in rats and rabbits, did not cause structural abnormalities or affect fetal survival at exposures approximately 2700 and 5400 times from the maximum recommended human daily inhalation dose (MRHDID), respectively.
+Glycopyrrolate had no effects on the physical, functional, and behavioral development of rat pups with exposures up to 2700 times the MRHDID.
 
-Single-dose studies in humans found that very small amounts of glycopyrrolate passed the placental barrier.
+Formoterol fumarate alone, administered by the oral route in rats and rabbits, caused structural abnormalities at 1500 and 61,000 times the MRHDID, respectively.
+Formoterol fumarate was also embryocidal, increased pup loss at birth and during lactation, and decreased pup weight in rats at 110 times the MRHDID.
+These adverse effects generally occurred at large multiples of the MRHDID when formoterol fumarate was administered by the oral route to achieve high systemic exposures.
+No structural abnormalities, embryocidal, or developmental effects were seen in rats that received inhalation doses up to 350 times the MRHDID.
 
-Formoterol Fumarate: Formoterol fumarate has been shown to be teratogenic, embryocidal, to increase pup loss at birth and during lactation, and to decrease pup weights in rats and teratogenic in rabbits.
-These effects were observed at approximately 1,500 (rats) and 61,000 (rabbits) times the MRHDID (on a mg/m2 basis at maternal oral doses of 3 mg/kg/day and above in rats and 60 mg/kg/day in rabbits).
-Umbilical hernia was observed in rat fetuses at approximately 1,500 times the MRHDID (on a mg/m2 basis at maternal oral doses of 3 mg/kg/day and above).
-Prolonged pregnancy and fetal brachygnathia was observed in rats at approximately 7600 times the MRHDID (on a mg/m2 basis at an oral maternal dose of 15 mg/kg/day in rats).
-In another study in rats, no teratogenic effects were seen at approximately 600 times the MRHDID (on a mg/m2 basis at maternal inhalation doses up to 1.2 mg/kg/day in rats).
+The estimated background risk of major birth defects and miscarriage for the indicated population is unknown.
+In the U.S. general population, the estimated background risk of major birth defects and miscarriage in clinically recognized pregnancies is 2-4% and 15-20%, respectively.
 
-Subcapsular cysts on the liver were observed in rabbit fetuses at an oral dose approximately 61,000 times the MRHDID (on a mg/m2 basis at a maternal oral dose of 60 mg/kg/day in rabbits).
-No teratogenic effects were observed at approximately 3600 times the MRHDID (on a mg/m2 basis at maternal oral doses up to 3.5 mg/kg/day).
+Clinical Considerations
 
-## 8.2 Labor and Delivery
-
-There are no well-controlled human trials that have investigated the effects of BEVESPI AEROSPHERE on preterm labor or labor at term.
+Labor or Delivery: There are no well-controlled human trials that have investigated the effects of BEVESPI AEROSPHERE on preterm labor or labor at term.
 Because beta2-agonists may potentially interfere with uterine contractility, BEVESPI AEROSPHERE should be used during labor only if the potential benefit justifies the potential risk.
 
-## 8.3 Nursing Mothers
+Data
 
-It is not known whether BEVESPI AEROSPHERE is excreted in human milk.
-Because many drugs are excreted in human milk and because formoterol fumarate, one of the active ingredients in BEVESPI AEROSPHERE, has been detected in the milk of lactating rats, caution should be exercised when BEVESPI AEROSPHERE is administered to a nursing woman.
-Since there are no data from controlled trials on the use of BEVESPI AEROSPHERE by nursing mothers, a decision should be made whether to discontinue nursing or to discontinue BEVESPI AEROSPHERE, taking into account the importance of BEVESPI AEROSPHERE to the mother.
+Animal Data
+
+Glycopyrrolate
+
+In an embryo-fetal development study in pregnant rats dosed during the period of organogenesis from gestation days 6 to 17, glycopyrrolate produced no structural abnormalities or effects on fetal survival; however, slight reductions of fetal body weight in the presence of maternal toxicity at the highest tested dose that was 2700 times the MRHDID (on a mcg/m2 basis at a maternal subcutaneous dose of 10,000 mcg/kg/day).
+Fetal body weights were unaffected with doses up to 270 times the MRHDID (on a mcg/m2 basis with maternal subcutaneous doses up to 1000 mcg/kg/day).
+Maternal toxicity was observed with doses 270 times the MRHDID and higher (on a mcg/m2 basis with maternal subcutaneous doses of 1000 mcg/kg/day and higher).
+
+In an embryo-fetal development study in pregnant rabbits dosed during the period of organogenesis from gestation days 6 to 18, glycopyrrolate produced no structural abnormalities or effects on fetal survival; however, slight reductions of fetal body weight in the presence of maternal toxicity at the highest tested dose that was 5400 times the MRHDID (on a mcg/m2 basis at a maternal subcutaneous dose of 10,000 mcg/kg/day).
+Fetal body weights were unaffected with doses up to 540 times the MRHDID (on a mcg/m2 basis with maternal subcutaneous doses up to 1000 mcg/kg/day).
+Maternal toxicity was observed with doses 540 times the MRHDID and higher (on a mcg/m2 basis with maternal subcutaneous doses of 1000 mcg/kg/day and higher).
+
+In a pre- and post-natal development study, pregnant female rats received glycopyrrolate at doses of 100, 1000, and 10,000 mcg/kg/day from gestation day 6 through the lactation period.
+Pup body weight gain was slightly reduced from birth through the lactation period at a dose 2700 times the MRHDID (on a mcg/m2 basis with a maternal subcutaneous dose of 10,000 mcg/kg/day); however, pup body weight gain was unaffected after weaning There were no treatment-related effects on the physical, functional, and behavioral development of pups with doses up to 2700 times the MRHDID (on a mcg/m2 basis with maternal subcutaneous doses up to 10,000 mcg/kg/day).
+Maternal toxicity was observed from gestation days 6 to 18 with doses 270 times the MRHDID and higher (on a mcg/m2 basis with maternal subcutaneous doses of 1000 mcg/kg/day and higher).
+
+Formoterol Fumarate
+
+In a fertility and reproduction study, male rats were orally dosed for at least 9 weeks and females for 2 weeks prior to pairing and throughout the mating period.
+Females were either dosed up to gestation day 19 or up until weaning of their offspring.
+Males were dosed up to 25 weeks.
+Umbilical hernia was observed in rat fetuses at oral doses 1500 times the MRHDID (on a mcg/m2 basis at maternal oral doses of 3000 mcg/kg/day and higher).
+Brachygnathia was observed in rat fetuses at a dose 8000 times the MRHDID (on a mcg/m2 basis at a maternal oral dose of 15,000 mcg/kg/day).
+Pregnancy was prolonged at a dose 8000 times the MRHDID (on a mcg/m2 basis at a maternal oral dose of 15,000 mcg/kg/day).
+Fetal and pup deaths occurred at doses approximately 1500 times the MRHDID and higher (on a mcg/m2 basis at oral doses of 3000 mcg/kg/day and higher) during gestation.
+
+In an embryo-fetal development study in pregnant rats dosed during the period of organogenesis, no structural abnormalities, embryocidal effects, or developmental effects were seen at doses up to 350 times the MRHDID (on a mcg/m2 basis with maternal inhalation doses up to 690 mcg/kg/day).
+
+In an embryo-fetal development study in pregnant rabbits dosed during the period of organogenesis from gestation days 6 to 18, subcapsular cysts on the liver were observed in the fetuses at a dose 61,000 times the MRHDID (on a mcg/m2 basis with a maternal oral dose of 60,000 mcg/kg/day).
+No teratogenic effects were observed at doses up to 3500 times the MRHDID (on a mcg/m2 basis at maternal oral doses up to 3500 mcg/kg/day).
+
+In a pre- and post-natal development study, pregnant female rats received formoterol at oral doses of 0, 210, 840, and 3400 mcg/kg/day from gestation day 6 (completion of implantation) through the lactation period.
+Pup survival was decreased from birth to postpartum day 26 at doses 110 times the MRHDID and higher (on a mcg/m2 basis at maternal oral doses of 210 mcg/kg/day and higher), although there was no evidence of a dose-response relationship.
+There were no treatment-related effects on the physical, functional, and behavioral development of rat pups.
+
+## 8.2 Lactation
+
+Risk Summary
+
+There are no available data on the effects of BEVESPI AEROSPHERE, glycopyrrolate, or formoterol fumarate on the breastfed child or on milk production.
+There are no available data on the presence of glycopyrrolate or formoterol fumarate in human milk.
+Formoterol fumarate and glycopyrrolate have been detected in the plasma of undosed rat pups suckling from exposed dams [see Data].
+The developmental and health benefits of breastfeeding should be considered along with the mother's clinical need for BEVESPI AEROSPHERE and any potential adverse effects on the breast-fed child from BEVESPI AEROSPHERE or from the underlying maternal condition.
+
+Animal Data
+
+In the reproductive/developmental toxicity study in rats, plasma levels of glycopyrrolate were measured in pups on post-natal day 4.
+The maximum concentration in the pups was 6% of the maternal dose of 10 mg/kg/day (pup plasma concentration of 96 ng/mL at 1 hour after dosing corresponded with 1610 ng/mL in the dam at 0.5 hours after dosing).
+
+In the fertility and reproduction study in rats, plasma levels of formoterol were measured in pups on post-natal day 15 [seeUse in Specific Populations (8.1)].
+It was estimated that the maximum plasma concentration that the pups received from the maternal animal, at the highest dose of 15 mg/kg, after nursing was 4.4% (0.24 nmol/L for a litter vs. 5.5 nmol/L for the mother).
 
 ## 8.4 Pediatric Use
 
@@ -53,4 +97,4 @@ Therefore, patients with hepatic disease should be closely monitored.
 ## 8.7 Renal Impairment
 
 Formal pharmacokinetic studies using BEVESPI AEROSPHERE have not been conducted in patients with renal impairment.
-In patients with severe renal impairment (creatinine clearance of ≤30 mL/min/1.73 m2) or end-stage renal disease requiring dialysis, BEVESPI AEROSPHERE should be used if the expected benefit outweighs the potential risk [see Clinical Pharmacology (12.3)].
+In patients with severe renal impairment (creatinine clearance of ≤30 mL/min/1.73 m2) or end-stage renal disease requiring dialysis, use of BEVESPI AEROSPHERE should be considered only if the expected benefit outweighs the potential risk [see Clinical Pharmacology (12.3)].

@@ -1,9 +1,13 @@
 # 16 HOW SUPPLIED/STORAGE AND HANDLING
 
-BEVESPI AEROSPHERE Inhalation Aerosol is supplied as a pressurized aluminum canister with an attached dose indicator, a white plastic actuator and mouthpiece, and an orange dust cap.
-Each 120 inhalation canister has a net fill weight of 10.7 grams (NDC 0310-4600-12) and each 28 inhalation canister (institutional pack) has a net fill weight of 5.9 grams (NDC 0310-4600-39).
-Each canister is packaged in a foil pouch with desiccant sachet and is placed into a carton.
-Each carton contains one canister and a Patient Information leaflet.
+BEVESPI AEROSPHERE Inhalation Aerosol:
+
+- •9 mcg glycopyrrolate and 4.8 mcg formoterol fumarate per inhalation
+- •is supplied as a pressurized aluminum canister with an attached dose indicator, a white plastic actuator and mouthpiece, and an orange dust cap
+- •each 120 inhalation canister has a net fill weight of 10.7 grams (NDC 0310-4600-12)
+- •each 28 inhalation canister (institutional pack) has a net fill weight of 5.9 grams (NDC 0310-4600-39)
+- •each canister is packaged in a foil pouch with desiccant sachet and is placed into a carton
+- •each carton contains one canister and a Patient Information leaflet
 
 The BEVESPI AEROSPHERE canister should only be used with the BEVESPI AEROSPHERE actuator, and the BEVESPI AEROSPHERE actuator should not be used with any other inhalation drug product.
 

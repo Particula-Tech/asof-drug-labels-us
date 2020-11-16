@@ -9,9 +9,8 @@ Cardiac monitoring is recommended in case of overdosage.
 Glycopyrrolate
 
 High doses of glycopyrrolate, a component of BEVESPI AEROSPHERE, may lead to anticholinergic signs and symptoms such as nausea, vomiting, dizziness, lightheadedness, blurred vision, increased intraocular pressure (causing pain, vision disturbances or reddening of the eye), obstipation or difficulties in voiding.
-However, there were no systemic anticholinergic adverse effects following single inhaled doses up to 144 mcg in subjects with COPD.
 
 Formoterol Fumarate
 
 An overdose of formoterol fumarate would likely lead to an exaggeration of effects that are typical for beta2-agonists: seizures, angina, hypertension, hypotension, tachycardia, atrial and ventricular tachyarrhythmias, nervousness, headache, tremor, palpitations, muscle cramps, nausea, dizziness, sleep disturbances, metabolic acidosis, hyperglycemia, hypokalemia.
-As with all sympathomimetic medications, cardiac arrest and even death may be associated with abuse of formoterol fumarate.
+As with all sympathomimetic medications, cardiac arrest and even death may be associated with overdosage of formoterol fumarate.

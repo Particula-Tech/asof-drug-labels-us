@@ -25,10 +25,3 @@ The actual amount of drug delivered to the lung may depend on patient factors, s
 BEVESPI AEROSPHERE also contains porous particles that form a cosuspension with the drug crystals.
 The porous particles are comprised of the phospholipid, 1,2-Distearoyl-sn-glycero-3-phosphocholine (DSPC), and calcium chloride.
 Porous particles and HFA 134a are excipients in the formulation.
-
-Priming BEVESPI AEROSPHERE is essential to ensure appropriate drug content in each actuation.
-Prime BEVESPI AEROSPHERE before using for the first time.
-To prime BEVESPI AEROSPHERE, release 4 sprays into the air away from the face, shaking well before each spray.
-
-If the product is not used for more than 7 days re-prime the device.
-To re-prime BEVESPI AEROSPHERE, release 2 sprays into the air away from the face, shaking well before each spray.
