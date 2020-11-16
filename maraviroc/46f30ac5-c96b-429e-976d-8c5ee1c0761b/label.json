@@ -10,9 +10,15 @@
     "49702-224-18",
     "49702-233-08",
     "49702-235-08",
-    "49702-237-55"
+    "49702-237-55",
+    "49702-260-55"
   ],
   "products": [
+    {
+      "form": "KIT",
+      "generic": "maraviroc",
+      "name": "SELZENTRY"
+    },
     {
       "form": "SOLUTION",
       "generic": "maraviroc",

@@ -17,7 +17,7 @@ The safety and efficacy of SELZENTRY have not been specifically studied in patie
 ## 5.2 Severe Skin and Hypersensitivity Reactions
 
 Severe, potentially life-threatening skin and hypersensitivity reactions have been reported in patients taking SELZENTRY, in most cases concomitantly with other drugs associated with these reactions.
-These include cases of Stevens-Johnson syndrome (SJS), toxic epidermal necrolysis (TEN), and drug rash with eosinophilia and systemic symptoms (DRESS) [see Adverse Reactions (6.3)].
+These include cases of Stevens-Johnson syndrome (SJS), toxic epidermal necrolysis (TEN), and drug rash with eosinophilia and systemic symptoms (DRESS) [see Adverse Reactions (6.2)].
 The cases were characterized by features including rash, constitutional findings, and sometimes organ dysfunction, including hepatic failure.
 Discontinue SELZENTRY and other suspected agents immediately if signs or symptoms of severe skin or hypersensitivity reactions develop (including, but not limited to, severe rash or rash accompanied by fever, malaise, muscle or joint aches, blisters, oral lesions, conjunctivitis, facial edema, lip swelling, eosinophilia).
 Delay in stopping treatment with SELZENTRY or other suspect drugs after the onset of rash may result in a life-threatening reaction.
@@ -25,13 +25,13 @@ Clinical status, including liver aminotransferases, should be monitored and appr
 
 ## 5.3 Cardiovascular Events
 
-Eleven subjects (1.3%) who received SELZENTRY had cardiovascular events, including myocardial ischemia and/or infarction, during the Phase 3 trials in treatment-experienced subjects (total exposure 609 patient-years [300 on SELZENTRY once daily + 309 on SELZENTRY twice daily]), while no subjects who received placebo had such events (total exposure 111 patient-years).
+Eleven subjects (1.3%) who received SELZENTRY had cardiovascular events, including myocardial ischemia and/or infarction, during the Phase 3 trials in treatment‑experienced subjects (total exposure 609 patient‑years [300 on SELZENTRY once daily + 309 on SELZENTRY twice daily]), while no subjects who received placebo had such events (total exposure 111 patient‑years).
 These subjects generally had cardiac disease or cardiac risk factors prior to use of SELZENTRY, and the relative contribution of SELZENTRY to these events is not known.
 
-In the Phase 2b/3 trial in treatment-naive adult subjects, 3 subjects (0.8%) who received SELZENTRY had events related to ischemic heart disease and 5 subjects (1.4%) who received efavirenz had such events (total exposure 506 and 508 patient-years for SELZENTRY and efavirenz, respectively).
+In the Phase 2b/3 trial in treatment‑naive adult subjects, 3 subjects (0.8%) who received SELZENTRY had events related to ischemic heart disease and 5 subjects (1.4%) who received efavirenz had such events (total exposure 506 and 508 patient‑years for SELZENTRY and efavirenz, respectively).
 
 When SELZENTRY was administered to healthy volunteers at doses higher than the recommended dose, symptomatic postural hypotension was seen at a greater frequency than in placebo.
-However, when SELZENTRY was given at the recommended dose in HIV-1-infected adult subjects in Phase 3 trials, postural hypotension was seen at a rate similar to placebo (approximately 0.5%).
+However, when SELZENTRY was given at the recommended dose in HIV-1–infected adult subjects in Phase 3 trials, postural hypotension was seen at a rate similar to placebo (approximately 0.5%).
 
 Patients with cardiovascular comorbidities, risk factors for postural hypotension, or receiving concomitant medication known to lower blood pressure, could be at increased risk of cardiovascular adverse events triggered by postural hypotension.
 Additional monitoring may be warranted.
@@ -53,11 +53,11 @@ Autoimmune disorders (such as Graves’ disease, polymyositis, and Guillain-Barr
 ## 5.5 Potential Risk of Infection
 
 SELZENTRY antagonizes the CCR5 co-receptor located on some immune cells, and therefore could potentially increase the risk of developing infections.
-The overall incidence and severity of infection, as well as AIDS-defining category C infections, were comparable in the treatment groups during the Phase 3 adult treatment-experienced trials of SELZENTRY.
+The overall incidence and severity of infection, as well as AIDS-defining category C infections, were comparable in the treatment groups during the Phase 3 adult treatment‑experienced trials of SELZENTRY.
 While there was a higher rate of certain upper respiratory tract infections reported in the treatment arm receiving SELZENTRY compared with placebo (23% versus 13%), there was a lower rate of pneumonia (2% versus 5%) reported in subjects receiving SELZENTRY.
-A higher incidence of Herpes virus infections (11 per 100 patient-years) was also reported in the treatment arm receiving SELZENTRY when adjusted for exposure compared with placebo (8 per 100 patient-years).
+A higher incidence of Herpes virus infections (11 per 100 patient‑years) was also reported in the treatment arm receiving SELZENTRY when adjusted for exposure compared with placebo (8 per 100 patient‑years).
 
-In the Phase 2b/3 trial in treatment-naive adult subjects, the incidence of AIDS-defining Category C events when adjusted for exposure was 1.8 for SELZENTRY compared with 2.4 for efavirenz per 100 patient-years of exposure.
+In the Phase 2b/3 trial in treatment‑naive adult subjects, the incidence of AIDS-defining Category C events when adjusted for exposure was 1.8 for SELZENTRY compared with 2.4 for efavirenz per 100 patient‑years of exposure.
 
 Patients should be monitored closely for evidence of infections while receiving SELZENTRY.
 
@@ -65,7 +65,7 @@ Patients should be monitored closely for evidence of infections while receiving 
 
 While no increase in malignancy has been observed with SELZENTRY, due to this drug’s mechanism of action, it could affect immune surveillance and lead to an increased risk of malignancy.
 
-The exposure-adjusted rate for malignancies per 100 patient-years of exposure in adult treatment-experienced trials was 4.6 for SELZENTRY compared with 9.3 on placebo.
-In treatment-naive adult subjects, the rates were 1.0 and 2.4 per 100 patient-years of exposure for SELZENTRY and efavirenz, respectively.
+The exposure-adjusted rate for malignancies per 100 patient‑years of exposure in adult treatment‑experienced trials was 4.6 for SELZENTRY compared with 9.3 on placebo.
+In treatment‑naive adult subjects, the rates were 1.0 and 2.4 per 100 patient‑years of exposure for SELZENTRY and efavirenz, respectively.
 
 Long-term follow-up is needed to more fully assess this risk.

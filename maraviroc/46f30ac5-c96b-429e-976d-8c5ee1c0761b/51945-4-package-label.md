@@ -193,3 +193,36 @@ Rev.
 8/17
 
 PAA091184
+
+PRINICIPAL DISPLAY PANEL
+
+NDC 49702-260-55
+
+Selzentry
+
+(maraviroc) oral solution
+
+20 mg/mL
+
+ALWAYS DISPENSE WITH MEDICATION GUIDE
+
+Contents:
+
+- •Oral solution bottle
+- •One 3-mL oral dosing syringe
+- •One 10-mL oral dosing syringe
+- •1 Press-in bottle adapter
+- •Prescribing Information
+- •Medication Guide
+- •Instructions for Use
+
+Rx only
+
+230 mL
+
+©2020 the ViiV Healthcare group of companies or its licensor.
+
+Rev.
+4/20
+
+DFT-02479-4990748

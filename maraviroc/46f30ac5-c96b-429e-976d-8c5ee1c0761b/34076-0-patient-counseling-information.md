@@ -45,9 +45,9 @@ ViiV Healthcare
 
 Research Triangle Park, NC 27709
 
-©2018 ViiV Healthcare group of companies or its licensor.
+©2020 ViiV Healthcare group of companies or its licensor.
 
-SEL:13PI
+SEL:14PI
 
 PHARMACIST‑DETACH HERE AND GIVE MEDICATION GUIDE TO PATIENT
 

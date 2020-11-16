@@ -28,7 +28,7 @@ In the rat pre- and post-natal development study, maraviroc was administered ora
 
 Risk Summary
 
-The Centers for Disease Control and Prevention recommend that HIV‑1-infected mothers in the United States not breastfeed their infants to avoid risking postnatal transmission of HIV‑1 infection.
+The Centers for Disease Control and Prevention recommend that HIV‑1–infected mothers in the United States not breastfeed their infants to avoid risking postnatal transmission of HIV‑1 infection.
 
 There are no data on the presence of maraviroc in human milk, the effects on the breastfed infant, or the effects on milk production.
 When administered to lactating rats, maraviroc was present in milk (see Data).
@@ -40,18 +40,28 @@ Maraviroc (and related metabolites) was excreted into the milk of lactating rats
 
 ## 8.4 Pediatric Use
 
-The safety, pharmacokinetic (PK) profile, and antiviral activity of SELZENTRY were evaluated in treatment-experienced, CCR5-tropic, HIV-1-infected pediatric subjects aged 2 to less than 18 years weighing at least 10 kg in an open-label, multicenter clinical trial, A4001031 [see Adverse Reactions (6.1), Clinical Studies (14.2)].
+The safety and efficacy of SELZENTRY have been established in pediatric patients aged from birth to less than 18 years.
+The use of SELZENTRY in pediatric patients was supported by pharmacokinetic and safety data described below and by previous demonstration of efficacy in adult patients [see Indications and Usage (1)], Dosage and Administration (2.4)].
+
+HIV-1–Infected Pediatric Patients Aged 2 to Less Than 18 Years: The safety, pharmacokinetic profile, and antiviral activity of SELZENTRY were evaluated in treatment-experienced, CCR5-tropic, HIV-1–infected pediatric subjects aged 2 to less than 18 years weighing at least 10 kg in an open-label, multicenter clinical trial, A4001031 [see Adverse Reactions (6.1), Clinical Studies (14.2)].
 Pharmacokinetics were evaluated in a total of 98 pediatric subjects: 85 subjects received SELZENTRY and concomitant medications that included potent CYP3A inhibitors with or without potent CYP3A inducers, 10 subjects received SELZENTRY and noninteracting medications (not containing potent CYP3A inhibitors or potent CYP3A inducers), and three subjects received SELZENTRY and medications that included potent CYP3A inducers without potent CYP3A inhibitors [see Clinical Pharmacology (12.3)].
 
-See Dosage and Administration (2.4, 2.5) for dosing recommendations for pediatric patients aged 2 years and older and weighing at least 10 kg.
-The pharmacokinetics, safety, and efficacy of maraviroc in patients younger than 2 years have not been established.
-Therefore, SELZENTRY is not recommended in this patient population.
-Additionally, there are insufficient data to make dosing recommendations for use of SELZENTRY in pediatric patients concomitantly receiving noninteracting medications and weighing less than 30 kg or in pediatric patients concomitantly receiving potent CYP3A inducers without a potent CYP3A inhibitor [see Dosage and Administration (2.4, 2.5)].
+HIV-1–Infected Pediatric Patients Aged Older Than 6 Weeks to Less Than 2 Years: No clinical trials have been conducted in children aged older than 6 weeks to less than 2 years.
+Dosing recommendations for SELZENTRY in this population when concomitantly receiving noninteracting medications are based on population pharmacokinetic modeling and simulation only [see Dosage and Recommendations (2.4), Clinical Pharmacology (12.3)].
+
+HIV-1–Infected Neonates Aged from Birth to 6 Weeks: The recommendation of SELZENTRY for the treatment of HIV-1 infection in this pediatric population is based on safety and pharmacokinetic data obtained from clinical trial IMPAACT P2007.
+In IMPAACT P2007, the safety and pharmacokinetic profiles of SELZENTRY were evaluated in full-term HIV-1–exposed neonates (born to HIV-1–infected mothers) aged from birth through 6 weeks [see Adverse Reactions (6.1)].
+Pharmacokinetics were evaluated in 38 of 47 enrolled neonates who received SELZENTRY as a single dose (n = 13) or multiple doses (n = 25) up to 6 weeks of age concomitantly with other antiretrovirals (mostly zidovudine and/or nevirapine) with or without maternal exposure to efavirenz.
+HIV-1 status was assessed by nucleic acid test at birth, Week 6, and Week 16; all 47 enrolled neonates were HIV-1 negative at completion of the study [see Clinical Pharmacology (12.3)].
+
+There are insufficient data to make dosing recommendations for use of SELZENTRY in pediatric patients concomitantly receiving potent CYP3A inhibitors and weighing less than 10 kg, or in any pediatric patients concomitantly receiving potent CYP3A inducers without a potent CYP3A inhibitor [see Dosage and Administration (2.4, 2.5)].
+
+SELZENTRY is not recommended in pre-term neonates or in pediatric patients weighing less than 2 kg.
 
 ## 8.5 Geriatric Use
 
 There were insufficient numbers of subjects aged 65 and over in the clinical trials to determine whether they respond differently from younger subjects.
-In general, caution should be exercised when administering SELZENTRY in elderly patients, also reflecting the greater frequency of decreased hepatic and renal function, of concomitant disease and other drug therapy.
+In general, caution should be exercised when administering SELZENTRY in elderly patients, also reflecting the greater frequency of decreased hepatic and renal function, of concomitant disease and other drug therapies.
 
 ## 8.6 Renal Impairment
 

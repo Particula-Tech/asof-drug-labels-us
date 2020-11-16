@@ -10,23 +10,23 @@ The following adverse reactions are discussed in other sections of the labeling:
 
 Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared with rates in the clinical trials of another drug and may not reflect the rates observed in practice.
 
-Adverse Reactions in Adult Subjects
+Clinical Trials Experience in Adult Subjects
 
-Treatment-Experienced Subjects: The safety profile of SELZENTRY is primarily based on 840 HIV-1-infected subjects who received at least 1 dose of SELZENTRY during two Phase 3 trials.
-A total of 426 of these subjects received the indicated twice-daily dosing regimen.
+Treatment‑Experienced Subjects: The safety profile of SELZENTRY is primarily based on 840 HIV-1–infected subjects who received at least 1 dose of SELZENTRY during two Phase 3 trials.
+A total of 426 of these subjects received the indicated twice‑daily dosing regimen.
 
-Assessment of treatment-emergent adverse events is based on the pooled data from 2 trials in subjects with CCR5-tropic HIV-1 (A4001027 and A4001028).
-The median duration of therapy with SELZENTRY for subjects in these trials was 48 weeks, with the total exposure on SELZENTRY twice daily at 309 patient-years versus 111 patient-years on placebo each administered with optimized background therapy (OBT).
+Assessment of treatment‑emergent adverse events is based on the pooled data from 2 trials in subjects with CCR5-tropic HIV‑1 (A4001027 and A4001028).
+The median duration of therapy with SELZENTRY for subjects in these trials was 48 weeks, with the total exposure on SELZENTRY twice daily at 309 patient‑years versus 111 patient‑years on placebo each administered with optimized background therapy (OBT).
 The population was 89% male and 84% white, with mean age of 46 years (range: 17 to 75 years).
 Subjects received dose equivalents of 300 mg maraviroc once or twice daily.
 
-The most common adverse events reported with twice-daily therapy with SELZENTRY with frequency rates higher than placebo, regardless of causality, were upper respiratory tract infections, cough, pyrexia, rash, and dizziness.
+The most common adverse events reported with twice‑daily therapy with SELZENTRY with frequency rates higher than placebo, regardless of causality, were upper respiratory tract infections, cough, pyrexia, rash, and dizziness.
 In these 2 trials, the rate of discontinuation due to adverse events was 5% for subjects who received SELZENTRY twice daily + OBT as well as those who received placebo + OBT.
 Most of the adverse events reported were judged to be mild to moderate in severity.
-The data described below occurred with twice-daily dosing of SELZENTRY.
+The data described below occurred with twice‑daily dosing of SELZENTRY.
 
 The total numbers of subjects reporting infections were 233 (55%) and 84 (40%) in the group receiving SELZENTRY twice daily and the placebo group, respectively.
-Correcting for the longer duration of exposure on SELZENTRY compared with placebo, the exposure-adjusted frequency (rate per 100 subject-years) of these events was 133 for both SELZENTRY twice daily and placebo.
+Correcting for the longer duration of exposure on SELZENTRY compared with placebo, the exposure‑adjusted frequency (rate per 100 subject‑years) of these events was 133 for both SELZENTRY twice daily and placebo.
 
 Dizziness or postural dizziness occurred in 8% of subjects on either SELZENTRY or placebo, with 2 subjects (0.5%) on SELZENTRY permanently discontinuing therapy (1 due to syncope, 1 due to orthostatic hypotension) versus 1 subject on placebo (0.5%) permanently discontinuing therapy due to dizziness.
 
@@ -87,7 +87,7 @@ Selected Treatment-Emergent Adverse Events (All Causality) ≥2% on SELZENTRY (a
 | Apocrine and eccrine gland disorders | 5 | 7 | 4 | 7.5 |
 | Pruritus | 4 | 5 | 2 | 4 |
 | Lipodystrophies | 3 | 5 | 0.5 | 1 |
-| Erythemas | 2 | 3 | 1 | 2 |
+| Erythema | 2 | 3 | 1 | 2 |
 | Vascular Disorders |  |  |  |  |
 | Vascular hypertensive disorders | 3 | 4 | 2 | 4 |
 | a 300-mg dose equivalent. b PYE = Patient-years of exposure. |  |  |  |  |
@@ -105,7 +105,7 @@ Maximum Shift in Laboratory Test Values (without Regard to Baseline) ≥2% of Gr
 | Amylase | >2.0 x ULN | 5.7 | 5.8 |  |  |  |  |  |
 | Lipase | >2.0 x ULN | 4.9 | 6.3 |  |  |  |  |  |
 | Absolute neutrophil count | <750/mm3 | 4.3 | 2.4 |  |  |  |  |  |
-| ULN=Upper limit of normal. a Percentages based on total subjects evaluated for each laboratory parameter. |  |  |  |  |  |  |  |  |
+| ULN = Upper limit of normal. a Percentages based on total subjects evaluated for each laboratory parameter. |  |  |  |  |  |  |  |  |
 
 Treatment‑Naive Subjects: Treatment-Emergent Adverse Events: Treatment-emergent adverse events, regardless of causality, from Trial A4001026, a double-blind, comparative, controlled trial in which 721 treatment-naive subjects received SELZENTRY 300 mg twice daily (n = 360) or efavirenz 600 mg once daily (n = 361) in combination with lamivudine/zidovudine (COMBIVIR) for 96 weeks, are summarized in Table 7.
 Selected events occurring in greater than or equal to 2% of subjects and at a numerically higher rate in subjects treated with SELZENTRY are included; events that occurred at the same or higher rate on efavirenz are not displayed.
@@ -168,9 +168,6 @@ Maximum Shift in Laboratory Test Values (without Regard to Baseline) ≥2% of Gr
 | Hemoglobin | <7.0 g/dL | 2.9 | 2.3 |  |  |  |  |  |  |  |  |  |  |  |  |
 | ULN = Upper limit of normal. a n = Total number of subjects evaluable for laboratory abnormalities. Percentages based on total subjects evaluated for each laboratory parameter. If the same subject in a given treatment group had greater than 1 occurrence of the same abnormality, only the most severe is counted. |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
-Percentages based on total subjects evaluated for each laboratory parameter.
-If the same subject in a given treatment group had greater than 1 occurrence of the same abnormality, only the most severe is counted.
-
 Less Common Adverse Events in Clinical Trials: The following adverse events occurred in less than 2% of subjects treated with SELZENTRY or at a rate similar to the comparator.
 These events have been included because of their seriousness and either increased frequency on SELZENTRY or are potential risks due to the mechanism of action.
 Events attributed to the subjects’ underlying HIV-1 infection are not listed.
@@ -191,17 +188,29 @@ Nervous System Disorders: Cerebrovascular accident, convulsions and epilepsy, tr
 
 Clinical Trials Experience in Pediatric Subjects
 
-Trial A4001031 is an open-label trial in which 103 treatment-experienced, CCR5-tropic, HIV-1–infected pediatric subjects aged 2 to less than 18 years weighing at least 10 kg received SELZENTRY twice daily in combination with OBT.
+HIV-1–Infected Pediatric Subjects: Trial A4001031 is an open-label trial in which 103 treatment-experienced, CCR5-tropic, HIV-1–infected pediatric subjects aged 2 to less than 18 years weighing at least 10 kg received SELZENTRY twice daily in combination with OBT.
 The dose of SELZENTRY was based on body surface area (BSA) and on whether the subject was receiving potent CYP3A inhibitors and/or inducers.
 The median duration of therapy with SELZENTRY was 131 weeks with 72% of subjects receiving study treatment for greater than 48 weeks and 62% of subjects receiving study treatment for 96 weeks.
 
 In these 103 children and adolescents, the safety profile through 96 weeks was similar to that for adults.
 Most of the adverse reactions reported were mild to moderate; severe (Grade 3 and 4) adverse reactions occurred in 2% of subjects.
-The most common adverse reactions (all grades) reported with twice-daily therapy with SELZENTRY, were vomiting (12%), abdominal pain (4%), diarrhea (4%), nausea (4%), and dizziness (3%).
+The most common adverse reactions (all grades) reported with twice-daily therapy with SELZENTRY were vomiting (12%), abdominal pain (4%), diarrhea (4%), nausea (4%), and dizziness (3%).
 Three subjects (3%) discontinued due to adverse events.
 
 Maraviroc-related gastrointestinal adverse events through 48 weeks (nausea, vomiting, diarrhea, constipation, and abdominal pain/cramps) were observed more commonly in subjects who received the SELZENTRY oral solution (21%) compared with those who received SELZENTRY tablets (16%).
 Subjects were permitted to change formulations after Week 48.
+
+HIV-1–Exposed Neonates: The IMPAACT P2007 trial was an open-label trial in which 47 full-term HIV-1–exposed neonates (born to HIV-1–infected mothers) received at least one dose of SELZENTRY in combination with other antiretrovirals, mostly zidovudine and/or nevirapine [see Clinical Pharmacology (12.3)].
+Cohort 1 received 2 single doses of SELZENTRY: the first within 3 days of birth and the second at 7 to 14 days of age.
+Cohort 2 received SELZENTRY twice daily for 6 weeks beginning within 3 days of birth and continued through Week 6.
+Both cohorts received SELZENTRY with or without exposure to maternal efavirenz (in utero only in Cohort 1, and both in utero and after birth while breastfeeding in Cohort 2).
+The population was 51% male and 81% black.
+All infants were followed for safety through 16 weeks, with a total of 37 infants evaluable for safety.
+
+There were no additional adverse reactions observed in neonates compared with those seen in adults.
+All adverse reactions reported were mild to moderate.
+The most common adverse reaction (all grades) reported with SELZENTRY was hemoglobin decreased (14%).
+One subject (3%) discontinued due to an adverse event (Grade 3 staphylococcal sepsis).
 
 ## 6.2 Postmarketing Experience
 

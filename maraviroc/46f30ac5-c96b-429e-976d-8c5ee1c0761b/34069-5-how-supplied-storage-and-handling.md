@@ -12,15 +12,15 @@ SELZENTRY film-coated tablets are available as follows:
 
 300-mg tablets: Bottle of 60 tablets (NDC 49702-224-18).
 
-SELZENTRY film-coated tablets should be stored at 20oC to 25oC (68oF to 77oF); excursions permitted between 15oC and 30oC (59oF and 86oF) [see USP Controlled Room Temperature].
+SELZENTRY film‑coated tablets should be stored at 20oC to 25oC (68oF to 77oF); excursions permitted between 15oC and 30oC (59oF and 86oF) [see USP Controlled Room Temperature].
 
 SELZENTRY oral solution is a clear, colorless, strawberry-flavored liquid.
 Each mL of the solution contains 20 mg of maraviroc.
-It is packaged in plastic bottles as follows:
+It is supplied in a Convenience Combination Kit (NDC 49702-260-55) as follows:
 
-Bottle of 230 mL (NDC 49702-237-55).
-Each bottle is packaged with one press-in bottle adapter and one 10–mL oral dosing syringe with 0.5–mL gradations.
-The press-in bottle adapter and oral dosing syringe are not made with natural rubber latex.
+Bottle of 230 mL (NDC 49702-237-48).
+Each plastic bottle is packaged with one press-in bottle adapter, one 10–mL oral dosing syringe with 0.5–mL gradations, and one 3–mL oral dosing syringe with 0.5–mL gradations.
+The press-in bottle adapter and oral dosing syringes are not made with natural rubber latex.
 This product does not require reconstitution.
 
 SELZENTRY oral solution should be stored at 20oC to 25oC (68oF to 77oF); excursions permitted between 15oC and 30oC (59oF and 86oF) [see USP Controlled Room Temperature].
