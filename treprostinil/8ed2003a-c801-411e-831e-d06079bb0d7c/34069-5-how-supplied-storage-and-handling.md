@@ -4,13 +4,13 @@
 
 Orenitram is an 8-mm round biconvex tablet with strength identified by color and print and supplied as follows:
 
-| Strength | Color | Printing on Tablets | NDC # 100-Count Bottle | NDC # 10-Count Bottle |
-| --- | --- | --- | --- | --- |
-| 0.125 mg | White | UT 0.125 | 66302-300-01 | 66302-300-10 |
-| 0.25 mg | Green | UT 0.25 | 66302-302-01 | 66302-302-10 |
-| 1 mg | Yellow | UT 1 | 66302-310-01 | 66302-310-10 |
-| 2.5 mg | Pink | UT 2.5 | 66302-325-01 | 66302-325-10 |
-| 5 mg | Red | UT 5 | 66302-350-01 | 66302-350-10 |
+| Strength | Color | Printing on Tablets | NDC # 100-Count Bottle | NDC # 10-Count Bottle | NDC # 10-Count Carton (Unit-Dose Blister) |
+| --- | --- | --- | --- | --- | --- |
+| 0.125 mg | White | UT 0.125 | 66302-300-01 | 66302-300-10 | 66302-300-02 |
+| 0.25 mg | Green | UT 0.25 | 66302-302-01 | 66302-302-10 | 66302-302-02 |
+| 1 mg | Yellow | UT 1 | 66302-310-01 | 66302-310-10 | 66302-310-02 |
+| 2.5 mg | Pink | UT 2.5 | 66302-325-01 | 66302-325-10 | 66302-325-02 |
+| 5 mg | Red | UT 5 | 66302-350-01 | 66302-350-10 | 66302-350-02 |
 
 ## 16.2 Storage
 
