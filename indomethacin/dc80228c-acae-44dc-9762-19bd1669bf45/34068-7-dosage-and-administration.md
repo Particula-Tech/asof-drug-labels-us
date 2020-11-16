@@ -1,59 +1,47 @@
-# DOSAGE AND ADMINISTRATION:
+# 2 DOSAGE AND ADMINISTRATION
 
-Carefully consider the potential benefits and risks of Indomethacin Extended-release Capsules and other treatment options before deciding to use Indomethacin Extended-release Capsules.
-Use the lowest effective dose for the shortest duration consistent with individual patient treatment goals (See WARNINGS).
+## 2.1 General Dosing Instructions
 
-Indomethacin Extended-release Capsules USP 75 mg are available for oral use.
-Indomethacin Extended-release Capsules USP 75 mg can be administered once a day and can be substituted for indomethacin 25 mg capsules t.i.d.
-However, there will be significant difference between the two dosage regimens in indomethacin blood levels, especially after 12 hours (See CLINICAL PHARMACOLOGY).
-In addition, Indomethacin Extended-release Capsules USP 75 mg b.i.d. can be substituted for indomethacin 50 mg capsules t.i.d.
-Indomethacin Extended-release Capsules USP 75 mg may be substituted for all the indications of indomethacin capsules except acute gouty arthritis.
+Carefully consider the potential benefits and risks of indomethacin extended-release capsules and other treatment options before deciding to use indomethacin extended-release capsules.
+Use the lowest effective dosage for the shortest duration consistent with individual patient treatment goals [see Warnings and Precautions (5)].
 
-Adverse reactions appear to correlate with the size of the dose of indomethacin in most patients, but not all.
-Therefore, every effort should be made to determine the smallest effective dosage for the individual patient.
+After observing the response to initial therapy with indomethacin, the dose and frequency should be adjusted to suit an individual patient’s needs.
 
-Always give Indomethacin Extended-release Capsules USP 75 mg with food, immediately after meals, or with antacids to reduce gastric irritation.
+Adverse reactions generally appear to correlate with the dose of indomethacin.
+Therefore, every effort should be made to determine the lowest effective dosage for the individual patient.
 
-Pediatric Use: Indomethacin Extended-release Capsules USP 75 mg ordinarily should not be prescribed for children 14 years of age and under (See WARNINGS).
+THIS SECTION PREDOMINANTLY REFERENCES THE INDOMETHACIN IMMEDIATE-RELEASE CAPSULE ORAL DOSAGE AND IS INTENDED TO PROVIDE GUIDANCE IN USING INDOMETHACIN EXTENDED-RELEASE CAPSULES, 75 MG
 
-Adult Use: Dosage Recommendations for Active Stages of the Following:
+Indomethacin extended-release capsules, 75 mg once a day can be substituted for indomethacin immediate-release capsules, 25 mg three times a day.
+However, there will be significant differences between the two dosage regimens in indomethacin blood levels, especially after 12 hours [see Clinical Pharmacology (12)].
+In addition, indomethacin extended-release capsules, 75 mg twice a day can be substituted for indomethacin immediate-release capsules, USP 50 mg three times a day.
 
-1.
-Moderate to severe rheumatoid arthritis, including acute flares of chronic disesase; moderate to severe ankylosing spondylitis; and moderate to severe osteoarthritis.
+Indomethacin extended-release capsules may be substituted for all the indications for indomethacin immediate-release capsules, USP except acute gouty arthritis.
 
-The following information is provided as background only and refers to immediate-release indomethacin capsules (25 mg or 50 mg):
+Dosage Recommendations for Active Stages of the Following:
 
-Suggested Dosage:
+## 2.2 Moderate to severe rheumatoid arthritis including acute flares of chronic disease; moderate to severe ankylosing spondylitis; and moderate to severe osteoarthritis
 
-The following recommendations on dosing pertain to immediate-release indomethacin capsules USP, and provide important information regarding the dosage and administration of indomethacin.
-The prescriber should be aware of this information when considering and prescribing Indomethacin Extended-release Capsules USP 75 mg.
+Indomethacin immediate-release capsules, 25 mg twice a day or three times a day.
+If this is well tolerated, increase the daily dosage by 25 mg or by 50 mg, if required by continuing symptoms, at weekly intervals until a satisfactory response is obtained or until a total daily dose of 150 to 200 mg is reached.
+Doses above this amount generally do not increase the effectiveness of the drug.
 
-Indomethacin capsules 25 mg b.i.d. or t.i.d.
-If this is well tolerated, increase the daily dosage by 25 or 50 mg, if required by continuing symptoms, at weekly intervals until a satisfactory response is obtained or until a total daily dose of 150-200 mg is reached.
-DOSES ABOVE THIS AMOUNT GENERALLY DO NOT INCREASE THE EFFECTIVENESS OF THE DRUG.
-
-In patients who have persistent night pain and/or morning stiffness, the giving of a large portion, up to a maximum of 100 mg, of the total daily dose at bedtime, either orally or by rectal suppositories, may be helpful in affording relief.
+In patients who have persistent night pain and/or morning stiffness, the giving of a large portion, up to a maximum of 100 mg, of the total daily dose at bedtime may be helpful in affording relief.
 The total daily dose should not exceed 200 mg.
 In acute flares of chronic rheumatoid arthritis, it may be necessary to increase the dosage by 25 mg or, if required, by 50 mg daily.
 
-The following information refers to Indomethacin Extended-release Capsules USP 75 mg:
+If minor adverse effects develop as the dosage is increased, reduce the dosage rapidly to a tolerated dose and observe the patient closely.
 
-If Indomethacin Extended-release Capsules USP 75 mg are used for initiating indomethacin treatment, one capsule daily should be the usual starting dose in order to observe patient tolerance since 75 mg per day is the maximum recommended starting dose for indomethacin (see above).
-If Indomethacin Extended-release Capsules USP 75 mg are used to increase the daily dose, patients should be observed for possible signs and symptoms of intolerance since the daily increment will exceed the daily increment recommended for other dosage forms.
-For patients who require 150 mg of indomethacin per day and have demonstrated acceptable tolerance, Indomethacin Extended-release Capsules USP 75 mg may be prescribed as one capsule twice daily.
-
-If minor adverse effects develop as the dosage is increased, reduce the dosage rapidly to a tolerated dose and OBSERVE THE PATIENT CLOSELY.
-
-If severe adverse reactions occur, STOP THE DRUG.
+If severe adverse reactions occur, stop the drug.
 After the acute phase of the disease is under control, an attempt to reduce the daily dose should be made repeatedly until the patient is receiving the smallest effective dose or the drug is discontinued.
 
 Careful instructions to, and observations of, the individual patient are essential to the prevention of serious, irreversible, including fatal, adverse reactions.
 
-As advancing years appear to increase the possibility of adverse reactions, Indomethacin Extended-release Capsules should be used with greater care in the aged.
+As advancing years appear to increase the possibility of adverse reactions, indomethacin extended-release capsules should be used with greater care in the elderly [see Use in Specific Populations (8.5)].
 
-2.
-Acute painful shoulder (bursitis and/or tendinitis): Initial Dose: 75 mg to 150mg daily.
-When 150 mg is prescribed, give as one capsule twice daily.
+## 2.3 Acute painful shoulder (bursitis and/or tendinitis)
 
-The drug should be discontinued after the signs and symptoms of inflammation have been controlled for several days.
-The usual course of therapy is 7 to 14 days.
+Indomethacin immediate-release capsules 75 - 150 mg daily in 3 or 4 divided doses.
+
+Discontinue indomethacin extended-release capsules treatment after the signs and symptoms of inflammation have been controlled for several days.
+The usual course of therapy is 7 - 14 days.

@@ -68,19 +68,16 @@ Do not take NSAIDs:
 
 Before taking NSAIDS, tell your healthcare provider about all of your medical conditions, including if you:
 
-•have liver or kidney problems
+- have liver or kidney problems
+- have high blood pressure
+- have asthma
+- are pregnant or plan to become pregnant.
+  Taking NSAIDs at about 20 weeks of pregnancy or later may harm your unborn baby.
+  If you need to take NSAIDs for more than 2 days when you are between 20 and 30 weeks of pregnancy, your healthcare provider may need to monitor the amount of fluid in your womb around your baby.
+  You should not take NSAIDs after about 30 weeks of pregnancy.
+- are breastfeeding or plan to breast feed.
 
-• have high blood pressure
-
-• have asthma
-
-• are pregnant or plan to become pregnant.
-Talk to your healthcare provider if you are considering taking NSAIDs during pregnancy.
-You should not take NSAIDs after 29 weeks of pregnancy.
-
-• are breastfeeding or plan to breast feed.
-
-Tell your healthcare provider about all of the medicines you take, including prescription or over-the-counter medicines, vitamins or herbal supplements.
+Tell your healthcare provider about all of the medicines you take, including prescription or over-the­ counter medicines, vitamins or herbal supplements.
 NSAIDs and some other medicines can interact with each other and cause serious side effects.
 Do not start taking any new medicine without talking to your healthcare provider first.
 
@@ -154,12 +151,11 @@ You may report side effects to FDA at 1-800-FDA-1088.
 
 Other information about NSAIDs
 
-• Aspirin is an NSAID but it does not increase the chance of a heart attack.
-Aspirin can cause bleeding in the brain, stomach, and intestines.
-Aspirin can also cause ulcers in the stomach and intestines.
-
-• Some NSAIDs are sold in lower doses without a prescription (over-the-counter).
-Talk to your healthcare provider before using over-the-counter NSAIDs for more than 10 days.
+- Aspirin is an NSAID but it does not increase the chance of a heart attack.
+  Aspirin can cause bleeding in the brain, stomach, and intestines.
+  Aspirin can also cause ulcers in the stomach and intestines.
+- Some NSAIDs are sold in lower doses without a prescription (over-the-counter).
+  Talk to your healthcare provider before using over-the-counter NSAIDs for more than 10 days.
 
 General information about the safe and effective use of NSAIDs
 
@@ -179,10 +175,7 @@ KVK-TECH INC.
 
 Newtown, PA 18940
 
-Item ID # 006030/07
-
-Manufacturer’s Code: 10702 01/19
-
-For more information, go to www.kvktech.com or call our customer service at 215-579-1842.
+For more information, go to www.kvktech.com or call our customer service at 1-800-862-3895.
 
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
+Issued or Revised: Oct 2020
