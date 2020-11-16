@@ -45,7 +45,9 @@ Monitor patients closely for respiratory depression, especially within the first
 
 To reduce the risk of respiratory depression, proper dosing and titration of APADAZ are essential [see Dosage and Administration (2)].
 Overestimating the APADAZ dosage when converting patients from another opioid product can result in a fatal overdose with the first dose.
+
 Accidental ingestion of even one dose of APADAZ, especially by children, can result in respiratory depression and death due to an overdose of hydrocodone.
+
 Opioids can cause sleep-related breathing disorders including central sleep apnea (CSA) and sleep-related hypoxemia.
 Opioid use increases the risk of CSA in a dose-dependent fashion.
 In patients who present with CSA, consider decreasing the opioid dosage using best practices for opioid taper [see Dosage and Administration (2.1)].
@@ -143,7 +145,6 @@ Avoid the use of APADAZ in patients with impaired consciousness or coma.
 There have been post-marketing reports of hypersensitivity and anaphylaxis associated with use of acetaminophen.
 Clinical signs included swelling of the face, mouth, and throat, respiratory distress, urticaria, rash, pruritus, and vomiting.
 There were infrequent reports of life-threatening anaphylaxis requiring emergency medical attention.
-
 Instruct patients to discontinue APADAZ tablets immediately and seek medical care if they experience these symptoms.
 Do not prescribe APADAZ tablets for patients with acetaminophen allergy.
 
@@ -162,11 +163,13 @@ Monitor patients with a history of seizure disorders for worsened seizure contro
 
 ## 5.16 Withdrawal
 
-Avoid the use of mixed agonist/antagonist (e.g, pentazocine, nalbuphine, and butorphanol) or partial agonist (e.g., buprenorphine) analgesics in patients who are receiving a full opioid agonist analgesic, including APADAZ [see Drug Interactions (7)].
-In these patients, mixed agonist/antagonist and partial agonist analgesics may reduce the analgesic effect and/or precipitate withdrawal symptoms.
+Do not abruptly discontinue APADAZ in a patient physically dependent on opioids.
+When discontinuing APADAZ in a physically dependent patient, gradually taper the dosage.
+Rapid tapering of APADAZ in a patient physically dependent on opioids may lead to a withdrawal syndrome and return of pain [see Dosage and Administration (2.5), Drug Abuse and Dependence (9.3)].
 
-When discontinuing APADAZ, gradually taper the dosage [see Dosage and Administration (2.5)].
-Do not abruptly discontinue APADAZ [see Drug Abuse and Dependence (9.3)].
+Additionally, avoid the use of mixed agonist/antagonist (e.g, pentazocine, nalbuphine, and butorphanol) or partial agonist (e.g., buprenorphine) analgesics in patients who are receiving a full opioid agonist analgesic, including APADAZ.
+In these patients, mixed agonist/antagonist and partial agonist analgesics may reduce the analgesic effect and/or may precipitate withdrawal symptoms.
+[see Drug Interactions (7)].
 
 ## 5.17 Risks of Driving and Operating Machinery
 

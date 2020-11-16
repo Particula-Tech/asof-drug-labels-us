@@ -6,15 +6,13 @@ APADAZ exposes patients and other users to the risks of opioid addiction, abuse,
 Assess each patient’s risk prior to prescribing APADAZ, and monitor all patients regularly for the development of these behaviors and conditions [see Warnings and Precautions (5.1)].
 
 Opioid Analgesic Risk Evaluation and Mitigation Strategy (REMS) To ensure that the benefits of opioid analgesics outweigh the risks of addiction, abuse, and misuse, the Food and Drug Administration (FDA) has required a REMS for these products [see Warnings and Precautions (5.2)].
-Under the requirements of the REMS, drug companies with approved opioid analgesic products must make REMS-compliant education programs available to healthcare providers.
+Under the requirements of the REMS, drug companies with approved opioid analgesic products must make REMScompliant education programs available to healthcare providers.
 Healthcare providers are strongly encouraged to
 
 - complete a REMS-compliant education program,
-- counsel patients and/or their caregivers, with every prescription, on safe use, serious risks, storage, and
-- disposal of these products,
-- emphasize to patients and their caregivers the importance of reading the Medication Guide every time it is
-- provided by their pharmacist, and
-- consider other tools to improve patient, household, and community safety.
+- counsel patients and/or their caregivers, with every prescription, on safe use, serious risks, storage, and disposal of these products,
+- emphasize to patients and their caregivers the importance of reading the Medication Guide every time it is provided by their pharmacist, and
+- consider other tools to improve patient, household, and communitysafety.
 
 Life-Threatening Respiratory Depression Serious, life-threatening, or fatal respiratory depression may occur with use of APADAZ.
 Monitor for respiratory depression, especially during initiation of APADAZ or following a dose increase [see Warnings and Precautions (5.3)].
@@ -34,7 +32,6 @@ Most of the cases of liver injury are associated with the use of acetaminophen a
 
 Risks From Concomitant Use With Benzodiazepines Or Other CNS Depressants Concomitant use of opioids with benzodiazepines or other central nervous system (CNS) depressants, including alcohol, may result in profound sedation, respiratory depression, coma, and death [see Warnings and Precautions (5.7), Drug Interactions (7)].
 
-- Reserve concomitant prescribing of APADAZ and benzodiazepines or other CNS depressants for use in
-- patients for whom alternative treatment options are inadequate.
-- Limit dosages and durations to the minimum required.
+- Reserve concomitant prescribing of APADAZ and benzodiazepines or other CNS depressants for use in patients for whom alternative treatment options are inadequate.
+- Limit dosages and durations to the minimumrequired.
 - Follow patients for signs and symptoms of respiratory depression and sedation.

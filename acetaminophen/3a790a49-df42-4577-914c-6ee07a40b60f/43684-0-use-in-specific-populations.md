@@ -32,7 +32,9 @@ Opioid analgesics, including APADAZ, can prolong labor through actions which tem
 However, this effect is not consistent and may be offset by an increased rate of cervical dilation, which tends to shorten labor.
 Monitor neonates exposed to opioid analgesics during labor for signs of excess sedation and respiratory depression.
 
-Data Human Data Acetaminophen: Published data from a large population-based prospective cohort study and a population-based, case-control study do not clearly report an association with oral acetaminophen and major birth defects, miscarriage, or adverse maternal or fetal outcomes when acetaminophen is used during pregnancy.
+Data Human Data
+
+Acetaminophen: Published data from a large population-based prospective cohort study and a population-based, case-control study do not clearly report an association with oral acetaminophen and major birth defects, miscarriage, or adverse maternal or fetal outcomes when acetaminophen is used during pregnancy.
 However, these studies cannot definitely establish the absence of any risk because of methodological limitations including recall bias.
 
 Animal Data No reproductive or developmental toxicology studies were conducted with benzhydrocodone or the combination of benzhydrocodone and acetaminophen.
@@ -90,7 +92,7 @@ Because elderly patients are more likely to have decreased renal function, care 
 
 The effect of hepatic impairment on the pharmacokinetics of APADAZ has not been determined.
 Patients with hepatic impairment may have higher plasma concentrations than those with normal function.
-Use a low initial dose of APADAZ in patients with hepatic impairment or active liver disease and monitor closely for adverse events such as respiratory depression and hepatotoxicity [see Warnings and Precautions (5.3 and 5.6)].
+Use a low initial dose of APADAZ in patients with hepatic impairment or active liver disease and monitor closely for adverse events such as respiratory depression and hepatotoxicity [see Warnings and Precautions (5.3, 5.6)].
 
 ## 8.7 Renal Impairment
 

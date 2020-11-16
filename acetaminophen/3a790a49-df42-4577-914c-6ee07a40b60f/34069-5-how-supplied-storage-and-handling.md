@@ -18,3 +18,5 @@ Flush expired or unused APADAZ tablets that are no longer needed down the toilet
 
 Storage Store at 20°C to 25°C (68°F to 77°F).
 Excursions permitted between 15°C to 30°C (59°F to 86°F) [See USP Controlled Room Temperature].
+
+Store APADAZ securely and dispose of properly [see Patient Counseling Information (17)].

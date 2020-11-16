@@ -9,7 +9,7 @@ The chemical name is 6,7-didehydro-4,5α-epoxy-3-methoxy-17- methylmorphinan-6-y
 The molecular formula is C25H26ClNO4, which corresponds to a molecular weight of 439.93 g/mol.
 It has the following chemical structure:
 
-Acetaminophen, 4’-hydroxyacetanilide, a slightly bitter, white, odorless, crystalline powder, is a non-opiate, nonsalicylate analgesic and antipyretic.
+Acetaminophen, 4’-hydroxyacetanilide, a slightly bitter, white, odorless, crystalline powder, is a non-opiate, non-salicylate analgesic and antipyretic.
 The molecular formula for acetaminophen is C8H9NO2, which corresponds to a molecular weight of 151.16 g/mol.
 It has the following structural formula:
 

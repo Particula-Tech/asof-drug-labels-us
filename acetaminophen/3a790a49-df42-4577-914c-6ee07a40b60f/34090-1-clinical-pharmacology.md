@@ -49,7 +49,7 @@ Overall, the effects of opioids appear to be modestly immunosuppressive.
 Concentration–Efficacy Relationships The minimum effective analgesic concentration will vary widely among patients, especially among patients who have been previously treated with potent agonist opioids.
 The minimum effective analgesic concentration of hydrocodone for any individual patient may increase over time due to an increase in pain, the development of a new pain syndrome, and/or the development of analgesic tolerance [see Dosage and Administration (2.1, 2.5)].
 
-Concentration–Adverse Reaction Relationships There is a relationship between increasing hydrocodone plasma concentration and increasing frequency of doserelated opioid adverse reactions such as nausea, vomiting, CNS effects, and respiratory depression.
+Concentration–Adverse Reaction Relationships There is a relationship between increasing hydrocodone plasma concentration and increasing frequency of dose-related opioid adverse reactions such as nausea, vomiting, CNS effects, and respiratory depression.
 In opioid-tolerant patients, the situation may be altered by the development of tolerance to opioid-related adverse reactions [see Dosage and Administration (2.1, 2.2, 2.4)].
 
 ## 12.3 Pharmacokinetics
@@ -98,7 +98,7 @@ Metabolism Benzhydrocodone is a prodrug of hydrocodone and is converted to activ
 
 Hydrocodone exhibits a complex pattern of metabolism, including O-demethylation, N-demethylation, and 6-keto reduction to the corresponding 6-α-and 6-β-hydroxy metabolites.
 Hydromorphone, a potent opioid, is formed from the O-demethylation of hydrocodone and contributes to the total analgesic effect of hydrocodone.
-The O- and Ndemethylation processes are mediated by separate P-450 isoenzymes: CYP2D6 and CYP3A4, respectively [see Drug Interactions (7)].
+The O- and N- demethylation processes are mediated by separate P-450 isoenzymes: CYP2D6 and CYP3A4, respectively [see Drug Interactions (7)].
 
 Acetaminophen is primarily metabolized in the liver by first-order kinetics and involves three principal separate pathways: a) conjugation with glucuronide; b) conjugation with sulfate; and c) oxidation via the cytochrome, P450-dependent, mixed-function oxidase enzyme pathway to form a reactive intermediate metabolite, which conjugates with glutathione and is then further metabolized to form cysteine and mercapturic acid conjugates.
 The principal cytochrome P450 isoenzyme involved appears to be CYP2E1, with CYP1A2 and CYP3A4 as additional pathways.

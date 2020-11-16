@@ -2,6 +2,15 @@
 
 Advise the patient to read the FDA-approved patient labeling (Medication Guide).
 
+Storage and Disposal:
+
+Because of the risks associated with accidental ingestion, misuse, and abuse, advise patients to store APADAZ securely, out of sight and reach of children, and in a location not accessible by others, including visitors to the home [see Warnings and Precautions (5.1, 5.2), Drug Abuse and Dependence (9.2)].
+Inform patients that leaving APADAZ unsecured can pose a deadly risk to others in the home.
+
+Advise patients and caregivers that when medicines are no longer needed, they should be disposed of promptly.
+Expired, unwanted, or unused APADAZ should be disposed of by flushing the unused medication down the toilet if a drug take-back option is not readily available.
+Inform patients that they can visit www.fda.gov/drugdisposal for a complete list of medicines recommended for disposal by flushing, as well as additional information on disposal of unused medicines.
+
 Important Administration Instructions
 
 Instruct patients how to properly take APADAZ [see Dosage and Administration (2), Warnings and Precautions (5)].
@@ -9,7 +18,10 @@ Instruct patients how to properly take APADAZ [see Dosage and Administration (2)
 - Do not take more than 4,000 milligrams of acetaminophen per day.
   Call your doctor if you took more than the recommended dose.
 - Use APADAZ exactly as prescribed to reduce the risk of life-threatening adverse reactions (e.g., respiratory depression).
-- Do not discontinue APADAZ without first discussing the need for a tapering regimen with your doctor.
+
+Important Discontinuation Instructions
+
+In order to avoid developing withdrawal symptoms, instruct patients not to discontinue APADAZ without first discussing a tapering plan with the prescriber [see Dosage and Administration (2.5)].
 
 Addiction, Abuse, and Misuse
 
@@ -20,10 +32,9 @@ Life-Threatening Respiratory Depression Inform patients of the risk of life-thre
 Advise patients how to recognize respiratory depression and to seek medical attention if breathing difficulties develop.
 
 Accidental Ingestion Inform patients that accidental ingestion, especially by children, may result in respiratory depression or death [see Warnings and Precautions (5.3)].
-Instruct patients to take steps to store APADAZ securely and to dispose of unused APADAZ by flushing the tablets down the toilet.
 
 Maximum Daily Acetaminophen Use Advise patients not to take more than 4,000 milligrams of acetaminophen per day and call their doctor if they have taken more than the recommended dose.
-Advise patients not to take APADAZ in combination with other tramadol or acetaminophen-containing products, including over-the-counter preparations [(see Warnings and Precautions (5.6)].
+Advise patients not to take APADAZ in combination with other tramadol or acetaminophen-containing products, including over-the-counter preparations [see Warnings and Precautions (5.6)].
 
 Interactions with Benzodiazepines and Other CNS Depressants Inform patients that potentially fatal additive effects may occur if APADAZ is used with benzodiazepines or other CNS depressants, including alcohol, and not to use these unless supervised by a healthcare provider [see Warnings and Precautions (5.7), Drug Interactions (7)].
 
@@ -61,11 +72,9 @@ Advise patients not to perform such tasks until they know how they will react to
 
 Constipation Advise patients of the potential for severe constipation, including management instructions and when to seek medical attention [see Adverse Reactions (6)].
 
-Disposal of Unused APADAZ Advise patients to flush the unused tablets down the toilet when APADAZ is no longer needed or to contact the Drug Enforcement Administration (DEA) to find the location of an authorized collector (1-800-882-9539).
-
 Manufactured for: KVK-Tech, Inc. 110 Terry Drive, Newtown, PA 18940
 
-Manufacturer’s Code: 10702 Item ID#: 006398/00 Rev.
-01/2019
+Manufacturer’s Code: 10702 Item ID#: 006398/02 Rev.
+10/2019
 
 Made in U.S.A
