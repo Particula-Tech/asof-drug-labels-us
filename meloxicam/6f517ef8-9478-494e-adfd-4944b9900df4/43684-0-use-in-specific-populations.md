@@ -4,10 +4,17 @@
 
 Risk Summary
 
-Use of NSAIDs, including ANJESO, during the third trimester of pregnancy increases the risk of premature closure of the fetal ductus arteriosus.
-Avoid use of NSAIDs, including ANJESO, in pregnant women starting at 30 weeks of gestation (third trimester) [see Warnings and Precautions (5.10)].
+Use of NSAIDs, including ANJESO, can cause premature closure of the fetal ductus arteriosus and fetal renal dysfunction leading to oligohydramnios and, in some cases, neonatal renal impairment.
+Because of these risks, limit dose and duration of ANJESO use between about 20 and 30 weeks of gestation, and avoid ANJESO use at about 30 weeks of gestation and later in pregnancy (see Clinical Considerations, Data).
 
-There are no adequate and well-controlled studies of meloxicam in pregnant women.
+Premature Closure of Fetal Ductus Arteriosus
+
+Use of NSAIDs, including ANJESO, at about 30 weeks gestation or later in pregnancy increases the risk of premature closure of the fetal ductus arteriosus.
+
+Oligohydramnios/Neonatal Renal Impairment
+
+Use of NSAIDs at about 20 weeks gestation or later in pregnancy has been associated with cases of fetal renal dysfunction leading to oligohydramnios, and in some cases, neonatal renal impairment.
+
 Data from observational studies regarding potential embryofetal risks of NSAID use in women in the first or second trimesters of pregnancy are inconclusive.
 In the general U.S. population, all clinically recognized pregnancies, regardless of drug exposure, have a background rate of 2-4% for major malformations, and 15-20% for pregnancy loss.
 
@@ -18,8 +25,22 @@ No teratogenic effects were observed in rats and rabbits treated with meloxicam 
 
 Based on animal data, prostaglandins have been shown to have an important role in endometrial vascular permeability, blastocyst implantation, and decidualization.
 In animal studies, administration of prostaglandin synthesis inhibitors, such as meloxicam, resulted in increased pre- and post-implantation loss.
+Prostaglandins also have been shown to have an important role in fetal kidney development.
+In published animal studies, prostaglandin synthesis inhibitors have been reported to impair kidney development when administered at clinically relevant doses.
 
 Clinical Considerations
+
+Fetal/Neonatal Adverse Reactions
+
+Premature Closure of Fetal Ductus Arteriosus:
+
+Avoid use of NSAIDs in women at about 30 weeks gestation and later in pregnancy, because NSAIDs, including ANJESO, can cause premature closure of the fetal ductus arteriosus (see Data).
+
+Oligohydramnios/Neonatal Renal Impairment
+
+If an NSAID is necessary at about 20 weeks gestation or later in pregnancy, limit the use to the lowest effective dose and shortest duration possible.
+If ANJESO treatment extends beyond 48 hours, consider monitoring with ultrasound for oligohydramnios.
+If oligohydramnios occurs, discontinue ANJESO and follow up according to clinical practice (see Data).
 
 Labor or delivery
 
@@ -27,6 +48,24 @@ There are no studies on the effects of meloxicam during labor or delivery.
 In animal studies, NSAIDs, including meloxicam, inhibit prostaglandin synthesis, cause delayed parturition, and increase the incidence of stillbirth.
 
 Data
+
+Human Data
+
+Premature Closure of Fetal Ductus Arteriosus:
+
+Published literature reports that the use of NSAIDs at about 30 weeks of gestation and later in pregnancy may cause premature closure of the fetal ductus arteriosus.
+
+Oligohydramnios/Neonatal Renal Impairment:
+
+Published studies and postmarketing reports describe maternal NSAID use at about 20 weeks gestation or later in pregnancy associated with fetal renal dysfunction leading to oligohydramnios, and in some cases, neonatal renal impairment.
+These adverse outcomes are seen, on average, after days to weeks of treatment, although oligohydramnios has been infrequently reported as soon as 48 hours after NSAID initiation.
+In many cases, but not all, the decrease in amniotic fluid was transient and reversible with cessation of the drug.
+There have been a limited number of case reports of maternal NSAID use and neonatal renal dysfunction without oligohydramnios, some of which were irreversible.
+Some cases of neonatal renal dysfunction required treatment with invasive procedures, such as exchange transfusion or dialysis.
+
+Methodological limitations of these postmarketing studies and reports include lack of a control group; limited information regarding dose, duration, and timing of drug exposure; and concomitant use of other medications.
+These limitations preclude establishing a reliable estimate of the risk of adverse fetal and neonatal outcomes with maternal NSAID use.
+Because the published safety data on neonatal outcomes involved mostly preterm infants, the generalizability of certain reported risks to the full-term infant exposed to NSAIDs through maternal use is uncertain.
 
 Animal Data
 
@@ -75,7 +114,7 @@ The safety and efficacy of ANJESO has not been established in pediatric patients
 ## 8.5 Geriatric Use
 
 Elderly patients, compared to younger patients, are at greater risk for NSAID-associated serious cardiovascular, gastrointestinal, and/or renal adverse reactions.
-If the anticipated benefit for the elderly patient outweighs these potential risks monitor patients for adverse effects [see Warnings and Precautions (5.1, 5.2, 5.3, 5.6, 5.13)].
+If the anticipated benefit for the elderly patient outweighs these potential risks monitor patients for adverse effects [see Warnings and Precautions (5.1, 5.2, 5.3, 5.6, 5.14)].
 
 Of the total number of patients in clinical studies of ANJESO, 197 patients were age 65 and over.
 No overall differences in safety or effectiveness were observed between these patients and younger patients, and other reported clinical experience has not identified differences in responses between the elderly and younger patients.

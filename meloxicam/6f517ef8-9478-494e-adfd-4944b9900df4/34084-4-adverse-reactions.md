@@ -10,7 +10,7 @@ The following adverse reactions are discussed in greater detail in the other sec
 - Renal Toxicity and Hyperkalemia [see Warnings and Precautions (5.6)]
 - Anaphylactic Reactions [see Warnings and Precautions (5.7)]
 - Serious Skin Reactions [see Warnings and Precautions (5.9)]
-- Hematologic Toxicity [see Warnings and Precautions (5.11)]
+- Hematologic Toxicity [see Warnings and Precautions (5.)]
 
 ## 6.1 Clinical Trials Experience
 
@@ -27,7 +27,7 @@ Table 1: Proportion of Patients Experiencing Common Adverse Reactions in Placebo
 | --- | --- | --- |
 |  | ANJESO | Placebo |
 | Constipation | 57 (7.6%) | 24 (6.1%) |
-| Gamma-Glutamyltransferase Increased | 21 (2.8%) | 6 (1.5%) |
+| Gamma-Glutamyl transferase Increased | 21 (2.8%) | 6 (1.5%) |
 | Anemia | 18 (2.4%) | 4 (1.0%) |
 
 The following is a list of adverse drug reactions occurring in <2% of patients receiving ANJESO in clinical trials.
