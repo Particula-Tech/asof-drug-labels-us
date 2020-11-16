@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "NDA018965"
+  ],
+  "inn": "naproxen",
+  "labeler": "Acella Pharmaceuticals, LLC",
+  "package_ndcs": [
+    "42192-619-16"
+  ],
+  "products": [
+    {
+      "form": "SUSPENSION",
+      "generic": "naproxen",
+      "name": "Naproxen"
+    }
+  ],
+  "setid": "7e6f03fb-4b36-4418-9684-f45637abbb78",
+  "source": "dailymed"
+}
