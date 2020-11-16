@@ -26,10 +26,10 @@ The incidence and severity of infections in adolescents were similar to those in
 
 Table 6: Summary of Efficacy Results in Subjects with PI
 
-| Number of Subjects (mITT Population) Total Number of person-yearsa | 59 55.9 |  |  |  |  |  |  |  |
+| Number of Subjects (mITT Population) Total Number of person-years a | 59 55.9 |  |  |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Infections Number of confirmed serious acute bacterial infectionsb Rate of SBIs (SBIs/total person-years) Rate of Infections (Infections/total person-years)a | 0 0.0 3.4 |  |  |  |  |  |  |  |
-| Antibiotic use due to infectionc Number of subjects (%) Days per subject per year | 37 (63%) 32.9 |  |  |  |  |  |  |  |
+| Infections Number of confirmed serious acute bacterial infections b Rate of SBIs (SBIs/total person-years) Rate of Infections (Infections/total person-years) a | 0 0.0 3.4 |  |  |  |  |  |  |  |
+| Antibiotic use due to infection c Number of subjects (%) Days per subject per year | 37 (63%) 32.9 |  |  |  |  |  |  |  |
 | Days off school/daycare/work due to infection Number of persons with days off of school, daycare or work due to infections Total days Days per subject per year | 23 (39%) 93 1.7 |  |  |  |  |  |  |  |
 | Unscheduled Medical Visits due to infection Number of persons with unscheduled medical visits due to infections (%) Total visits Visits per subject per year | 24 (41%) 54 0.97 |  |  |  |  |  |  |  |
 | Hospitalization due to infection Number of subjects (%) Number of Days Hospitalizations per subject per year | 1 (1.7%) 5 0.02 |  |  |  |  |  |  |  |

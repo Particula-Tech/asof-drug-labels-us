@@ -12,7 +12,8 @@ ASCENIV is contraindicated in IgA-deficient patients with antibodies against IgA
 
 ## 5.2 Thrombosis
 
-Thrombosis may occur following treatment with immune globulin products, including ASCENIV.4,5,6 Risk factors may include: advanced age, prolonged immobilization, hypercoagulable conditions, history of venous or arterial thrombosis, use of estrogens, indwelling central vascular catheters, hyperviscosity and cardiovascular risk factors.
+Thrombosis may occur following treatment with immune globulin products, including ASCENIV.
+4,5,6 Risk factors may include: advanced age, prolonged immobilization, hypercoagulable conditions, history of venous or arterial thrombosis, use of estrogens, indwelling central vascular catheters, hyperviscosity and cardiovascular risk factors.
 Thrombosis may occur in the absence of known risk factors.
 
 Consider baseline assessment of blood viscosity in patients at risk for hyperviscosity, including patients with cryoglobulins, fasting chylomicronemia/markedly high triacylglycerols (triglycerides), or monoclonal gammopathies.
@@ -22,22 +23,25 @@ Monitor for signs and symptoms of thrombosis and assess blood viscosity in patie
 
 ## 5.3 Acute Renal Dysfunction and Acute Renal Failure
 
-Acute renal dysfunction/failure, osmotic nephrosis, and death1,2 may occur upon use of human IGIV products.
+Acute renal dysfunction/failure, osmotic nephrosis, and death 1,2 may occur upon use of human IGIV products.
 Ensure that patients are not volume depleted before administering ASCENIV.
-Periodic monitoring of renal function and urine output is particularly important in patients judged to be at increased risk of developing acute renal failure.2 Assess renal function, including measurement of blood urea nitrogen (BUN) and serum creatinine, before the initial infusion of ASCENIV and at appropriate intervals thereafter.
+Periodic monitoring of renal function and urine output is particularly important in patients judged to be at increased risk of developing acute renal failure.
+2 Assess renal function, including measurement of blood urea nitrogen (BUN) and serum creatinine, before the initial infusion of ASCENIV and at appropriate intervals thereafter.
 If renal function deteriorates, consider discontinuing ASCENIV (see Patient Counseling Information [17]).
 In patients who are at risk of developing renal dysfunction, because of pre-existing renal insufficiency or predisposition to acute renal failure (such as diabetes mellitus, hypovolemia, overweight, use of concomitant nephrotoxic medicinal products or age of >65 years), administer ASCENIV at the minimum infusion rate practicable (see Dosage and Administration [2]).
 
 ## 5.4 Hyperproteinemia, Increased Serum Viscosity, and Hyponatremia
 
 Hyperproteinemia, increased serum viscosity, and hyponatremia may occur in patients receiving IGIV treatment, including ASCENIV.
-It is critical to clinically distinguish true hyponatremia from a pseudohyponatremia that is associated with or causally related to hyperproteinemia with concomitant decreased calculated serum osmolality or elevated osmolar gap, because treatment aimed at decreasing serum free water in patients with pseudohyponatremia may lead to volume depletion, a further increase in serum viscosity, and a possible predisposition to thrombotic events.3
+It is critical to clinically distinguish true hyponatremia from a pseudohyponatremia that is associated with or causally related to hyperproteinemia with concomitant decreased calculated serum osmolality or elevated osmolar gap, because treatment aimed at decreasing serum free water in patients with pseudohyponatremia may lead to volume depletion, a further increase in serum viscosity, and a possible predisposition to thrombotic events.
+3
 
 ## 5.5 Aseptic Meningitis Syndrome (AMS)
 
 AMS may occur with IGIV treatments, including ASCENIV.
 AMS usually begins within several hours to 2 days following IGIV treatment.
-Discontinuation of IGIV treatment has resulted in remission of AMS within several days without sequelae.7,8,9
+Discontinuation of IGIV treatment has resulted in remission of AMS within several days without sequelae.
+7,8,9
 
 AMS may occur more frequently in association with high doses (2 g/kg) and/or rapid infusion of IGIV.
 
@@ -47,7 +51,8 @@ Conduct a thorough neurological examination on patients exhibiting such signs an
 
 ## 5.6 Hemolysis
 
-IGIV products, including ASCENIV, may contain blood group antibodies that can act as hemolysins and induce in vivo coating of red blood cells (RBCs) with immunoglobulin, causing a positive direct antiglobulin reaction and hemolysis.10,11,12 Delayed hemolytic anemia can develop subsequent to IGIV treatment due to enhanced RBC sequestration,13 and acute hemolysis, consistent with intravascular hemolysis, has been reported.
+IGIV products, including ASCENIV, may contain blood group antibodies that can act as hemolysins and induce in vivo coating of red blood cells (RBCs) with immunoglobulin, causing a positive direct antiglobulin reaction and hemolysis.
+10,11,12 Delayed hemolytic anemia can develop subsequent to IGIV treatment due to enhanced RBC sequestration, 13 and acute hemolysis, consistent with intravascular hemolysis, has been reported.
 
 Monitor patients for clinical signs and symptoms of hemolysis (see Patient Counseling Information [17]).
 If these are present after ASCENIV infusion, perform appropriate confirmatory laboratory testing.
@@ -55,7 +60,7 @@ If transfusion is indicated for patients who develop hemolysis with clinically c
 
 ## 5.7 Transfusion-Related Acute Lung Injury (TRALI)
 
-Noncardiogenic pulmonary edema may occur in patients following IGIV treatment,14 including ASCENIV.
+Noncardiogenic pulmonary edema may occur in patients following IGIV treatment, 14 including ASCENIV.
 TRALI is characterized by severe respiratory distress, pulmonary edema, hypoxemia, normal left ventricular function, and fever.
 Symptoms typically appear within 1 to 6 hours following treatment.
 

@@ -9,7 +9,8 @@ Animal reproduction studies have not been conducted with ASCENIV.
 It is not known whether ASCENIV can cause fetal harm when administered to a pregnant woman or can affect reproduction capacity.
 Immune globulins cross the placenta from maternal circulation increasingly after 30 weeks of gestation.
 In the U.S. general population, the estimated background risk of major birth defects and miscarriage in clinically recognized pregnancies is 2-4% and 15-20% respectively.
-ASCENIV should be given to pregnant women only if clearly needed.17,18
+ASCENIV should be given to pregnant women only if clearly needed.
+17,18
 
 ## 8.2 Lactation
 
