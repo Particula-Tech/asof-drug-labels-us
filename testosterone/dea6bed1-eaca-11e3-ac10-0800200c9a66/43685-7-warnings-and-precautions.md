@@ -66,8 +66,8 @@ With large doses of exogenous androgens, including Natesto, spermatogenesis may 
 
 ## 5.10 Hepatic Adverse Effects
 
-Prolonged use of high doses of orally active 17-alpha-alkyl androgens (methyltestosterone) has been associated with serious hepatic adverse effects (peliosis hepatitis, hepatic neoplasms, cholestatic hepatitis, and jaundice).
-Peliosis hepatitis can be a life-threatening or fatal complication.
+Prolonged use of high doses of orally active 17-alpha-alkyl androgens (methyltestosterone) has been associated with serious hepatic adverse effects (peliosis hepatis, hepatic neoplasms, cholestatic hepatitis, and jaundice).
+Peliosis hepatis can be a life-threatening or fatal complication.
 Long-term therapy with intramuscular testosterone enanthate has produced multiple hepatic adenomas.
 Natesto is not known to cause these adverse effects.
 Nonetheless, patients should be instructed to report any signs or symptoms of hepatic dysfunction (e.g., jaundice).
