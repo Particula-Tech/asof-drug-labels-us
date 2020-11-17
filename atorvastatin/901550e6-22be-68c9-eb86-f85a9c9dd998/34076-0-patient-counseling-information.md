@@ -211,7 +211,7 @@ or
 
 Srikakulam - 532 409 INDIA
 
-Revised: 0620
+Revised: 1020
 
 Dispense with Patient Information Sheet available at:
 
