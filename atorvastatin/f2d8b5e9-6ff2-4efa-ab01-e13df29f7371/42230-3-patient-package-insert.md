@@ -171,4 +171,4 @@ Inactive Ingredients: anhydrous lactose, NF; colloidal silicon dioxide, NF; copo
 
 Manufactured by: ScieGen Pharmaceuticals, Inc. Hauppauge, NY 11788 USA
 
-Rev: 03/20
+Rev: 10/2020

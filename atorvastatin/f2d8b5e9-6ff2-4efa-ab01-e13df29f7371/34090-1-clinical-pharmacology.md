@@ -58,7 +58,7 @@ Drug Interaction Studies
 
 Atorvastatin is a substrate of the hepatic transporters, OATP1B1 and OATP1B3 transporter.
 Metabolites of atorvastatin are substrates of OATP1B1.
-Atorvastatin is also identified as a substrate of the efflux transporter BCRP, which may limit the intestinal absorption and biliary clearance of atorvastatin
+Atorvastatin is also identified as a substrate of the efflux transporter BCRP, which may limit the intestinal absorption and biliary clearance of atorvastatin.
 
 TABLE 4.
 Effect of Co-administered Drugs on the Pharmacokinetics of Atorvastatin
