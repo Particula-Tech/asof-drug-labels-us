@@ -2,11 +2,11 @@
 
 minimum annual $250,000 Donation See details on back.
 
-Children's Miracle Network Hospitals®
+Children's Miracle Network Hospitals ®
 
 New Information: Read Entire Label
 
-Motrin®IB Ibuprofen Tablets USP, 200 mg Pain Reliever / Fever Reducer (NSAID)
+Motrin ®IB Ibuprofen Tablets USP, 200 mg Pain Reliever / Fever Reducer (NSAID)
 
 FPO
 
