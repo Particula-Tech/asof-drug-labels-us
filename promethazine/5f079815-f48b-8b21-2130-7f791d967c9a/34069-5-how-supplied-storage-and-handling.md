@@ -6,4 +6,5 @@ Box of 1000 NDC 0713-0536-10 25 mg, white, bullet-shaped suppository wrapped in 
 Box of 12 NDC 0713-0526-12 25 mg, white, bullet-shaped suppository wrapped in silver foil.
 Box of 1000 NDC 0713-0526-10 Store refrigerated between 2°-8°C (36°-46°F).
 Dispense in well-closed container.
-Manufactured by: G&W Laboratories, Inc. South Plainfield, NJ 07080 Rev: 06/2014 8-PROMGW7
+Manufactured by: Cosette Pharmaceuticals, Inc. 111 Coolidge Street, South Plainfield, NJ 07080 8-PROMCP1 Iss.
+09/2019
