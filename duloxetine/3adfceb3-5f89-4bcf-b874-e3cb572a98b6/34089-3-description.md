@@ -6,7 +6,7 @@ The molecular formula is C18H19NOS•HCl, which corresponds to a molecular weigh
 The structural formula is:
 
 Duloxetine hydrochloride USP is a white to brownish-white solid, which is slightly soluble in water.
-Each capsule contains enteric-coated pellets of 22.4, 33.7, or 67.3 mg of duloxetine hydrochloride USP equivalent to 20, 30, or 60 mg of duloxetine, respectively.
+Each capsule contains enteric-coated pellets of 20, 30, or 60 mg of duloxetine (equivalent to 22.4, 33.7, or 67.3 mg of duloxetine hydrochloride USP, respectively).
 These enteric-coated pellets are designed to prevent degradation of the drug in the acidic environment of the stomach.
 Inactive ingredients include crospovidone, hydroxy propyl cellulose, hypromellose, hypromellose phthalate, sugar spheres, talc, titanium dioxide, and triethylcitrate.
 The empty hard gelatin capsule shells contain gelatin, titanium dioxide, and sodium lauryl sulphate.

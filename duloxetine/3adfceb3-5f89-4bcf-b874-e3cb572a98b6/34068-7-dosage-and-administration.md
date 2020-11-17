@@ -1,82 +1,85 @@
 # 2 DOSAGE AND ADMINISTRATION
 
-Swallow duloxetine delayed-release capsules whole.
-Do not chew or crush.
-Do not open the capsule and sprinkle its contents on food or mix with liquids.
-All of these might affect the enteric coating.
-Duloxetine delayed-release capsules can be given without regard to meals.
+## 2.1 Important Administration Instructions
+
+Administer duloxetine delayed-release capsules orally (with or without meals) and swallow whole.
+Do not chew or crush, and do not open the delayed-release capsule and sprinkle its contents on food or mix with liquids because these actions might affect the enteric coating.
 If a dose of duloxetine delayed-release capsules is missed, take the missed dose as soon as it is remembered.
 If it is almost time for the next dose, skip the missed dose and take the next dose at the regular time.
 Do not take two doses of duloxetine delayed-release capsules at the same time.
 
-## 2.1 Dosage for Treatment of Major Depressive Disorder
+## 2.2 Dosage for Treatment of Major Depressive Disorder in Adults
 
-Administer duloxetine delayed-release capsules at a total dose of 40 mg/day (given as 20 mg twice daily) to 60 mg/day (given either once daily or as 30 mg twice daily).
-For some patients, it may be desirable to start at 30 mg once daily for 1 week, to allow patients to adjust to the medication before increasing to 60 mg once daily.
+The recommended starting dosage in adults with MDD is 40 mg/day (given as 20 mg twice daily) to 60 mg/day (given either once daily or as 30 mg twice daily).
+For some patients, it may be desirable to start at 30 mg once daily for 1 week, to allow patients to adjust to duloxetine delayed-release capsules before increasing to 60 mg once daily.
 While a 120 mg/day dose was shown to be effective, there is no evidence that doses greater than 60 mg/day confer any additional benefits.
-The safety of doses above 120 mg/day has not been adequately evaluated.
-Periodically reassess to determine the need for maintenance treatment and the appropriate dose for such treatment [see Clinical Studies (14.1)].
+Periodically reassess to determine the need for maintenance treatment and the appropriate dosage for such treatment.
 
-## 2.2 Dosage for Treatment of Generalized Anxiety Disorder
+## 2.3 Dosage for Treatment of Generalized Anxiety Disorder
 
-Adults — For most patients, initiate duloxetine delayed-release capsules 60 mg once daily.
-For some patients, it may be desirable to start at 30 mg once daily for 1 week, to allow patients to adjust to the medication before increasing to 60 mg once daily.
-While a 120 mg once daily dose was shown to be effective, there is no evidence that doses greater than 60 mg/day confer additional benefit.
-Nevertheless, if a decision is made to increase the dose beyond 60 mg once daily, increase dose in increments of 30 mg once daily.
-The safety of doses above 120 mg once daily has not been adequately evaluated.
-Periodically reassess to determine the continued need for maintenance treatment and the appropriate dose for such treatment [see Clinical Studies (14.2)].
+Recommended Dosage in Adults Less than 65 Years of Age
 
-Elderly — Initiate duloxetine delayed-release capsules at a dose of 30 mg once daily for 2 weeks before considering an increase to the target dose of 60 mg.
+For most adults less than 65 years of age with GAD, initiate duloxetine delayed-release capsules 60 mg once daily.
+For some patients, it may be desirable to start at 30 mg once daily for 1 week, to allow patients to adjust to duloxetine delayed-release capsules before increasing to 60 mg once daily.
+While a 120 mg once daily dosage was shown to be effective, there is no evidence that doses greater than 60 mg/day confer additional benefit.
+Nevertheless, if a decision is made to increase the dosage beyond 60 mg once daily, increase dosage in increments of 30 mg once daily.
+Periodically reassess to determine the continued need for maintenance treatment and the appropriate dosage for such treatment.
+
+Recommended Dosage in Geriatric Patients In geriatric patients with GAD, initiate duloxetine delayed-release capsules at a dosage of 30 mg once daily for 2 weeks before considering an increase to the target dose of 60 mg/day.
 Thereafter, patients may benefit from doses above 60 mg once daily.
 If a decision is made to increase the dose beyond 60 mg once daily, increase dose in increments of 30 mg once daily.
 The maximum dose studied was 120 mg per day.
-Safety of doses above 120 mg once daily has not been adequately evaluated [see Clinical Studies (14.2)].
 
-Children and Adolescents (7 to 17 years of age) — Initiate duloxetine delayed-release capsules at a dose of 30 mg once daily for 2 weeks before considering an increase to 60 mg.
-The recommended dose range is 30 to 60 mg once daily.
-Some patients may benefit from doses above 60 mg once daily.
-If a decision is made to increase the dose beyond 60 mg once daily, increase dose in increments of 30 mg once daily.
+Recommended Dosage in Pediatric Patients 7 to 17 Years of Age
+
+Initiate duloxetine delayed-release capsules in pediatric patients 7 to 17 years of age with GAD at a dosage of 30 mg once daily for 2 weeks before considering an increase to 60 mg once daily.
+The recommended dosage range is 30 to 60 mg once daily.
+Some patients may benefit from dosages above 60 mg once daily.
+If a decision is made to increase the dose beyond 60 mg once daily, increase dosage in increments of 30 mg once daily.
 The maximum dose studied was 120 mg per day.
-The safety of doses above 120 mg once daily has not been evaluated [see Clinical Studies (14.2)].
 
-## 2.3 Dosage for Treatment of Diabetic Peripheral Neuropathic Pain
+## 2.4 Dosage for Treatment of Diabetic Peripheral Neuropathic Pain in Adults
 
-Administer duloxetine delayed-release capsules 60 mg once daily.
-There is no evidence that doses higher than 60 mg confer additional significant benefit and the higher dose is clearly less well tolerated [see Clinical Studies (14.3)].
+Administer 60 mg once daily in adults with diabetic peripheral neuropathic pain.
+There is no evidence that doses higher than 60 mg once daily confer additional significant benefit and the higher dosage is clearly less well tolerated.
 For patients for whom tolerability is a concern, a lower starting dose may be considered.
 
-Since diabetes is frequently complicated by renal disease, consider a lower starting dose and gradual increase in dose for patients with renal impairment [see Dosage and Administration (2.6), Use in Specific Populations (8.10), and Clinical Pharmacology (12.3)].
+Since diabetes is frequently complicated by renal disease, consider a lower starting dosage and gradual increase in dosage for patients with renal impairment [see Dosage and Administration (2.7) and Use in Specific Populations (8.10)].
 
-## 2.4 Dosage for Treatment of Fibromyalgia
+## 2.5 Dosage for Treatment of Fibromyalgia
 
-Administer duloxetine delayed-release capsules 60 mg once daily.
-Begin treatment at 30 mg once daily for 1 week, to allow patients to adjust to the medication before increasing to 60 mg once daily.
-Some patients may respond to the starting dose.
-There is no evidence that doses greater than 60 mg/day confer additional benefit, even in patients who do not respond to a 60 mg dose, and higher doses are associated with a higher rate of adverse reactions [see Clinical Studies (14.4)].
+Recommended Dosage in Adults
 
-## 2.5 Dosage for Treatment of Chronic Musculoskeletal Pain
+The recommended duloxetine delayed-release capsules dosage is 60 mg once daily in adults with fibromyalgia.
+Begin treatment at 30 mg once daily for 1 week, to allow patients to adjust to duloxetine delayed-release capsules before increasing to 60 mg once daily.
+Some patients may respond to the starting dosage.
+There is no evidence that dosages greater than 60 mg/day confer additional benefit, even in patients who do not respond to a 60 mg/day dosage, and higher dosages were associated with a higher rate of adverse reactions.
+Additional pediatric use information is approved for Eli Lilly and Company, Inc.’s CYMBALTA (duloxetine) delayed-release capsules.
+However, due to Eli Lilly and Company Inc.’s marketing exclusivity rights, this drug product is not labeled with that pediatric information.
 
-Administer duloxetine delayed-release capsules 60 mg once daily.
-Begin treatment at 30 mg for one week, to allow patients to adjust to the medication before increasing to 60 mg once daily.
-There is no evidence that higher doses confer additional benefit, even in patients who do not respond to a 60 mg dose, and higher doses are associated with a higher rate of adverse reactions [see Clinical Studies (14.5)].
+## 2.6 Dosage for Treatment of Chronic Musculoskeletal Pain in Adults
 
-## 2.6 Dosing in Special Populations
+The recommended duloxetine delayed-release capsules dosage is 60 mg once daily in adults with chronic musculoskeletal pain.
+Begin treatment at 30 mg once daily for one week, to allow patients to adjust to duloxetine delayed-release capsules before increasing to 60 mg once daily.
+There is no evidence that higher dosages confer additional benefit, even in patients who do not respond to a 60 mg once daily dosage, and higher dosages are associated with a higher rate of adverse reactions [see Clinical Studies (14.6)].
 
-Hepatic Impairment — Avoid use in patients with chronic liver disease or cirrhosis [see Warnings and Precautions (5.14) and Use in Specific Populations (8.9)].
+## 2.7 Dosage in Patients with Hepatic Impairment or Severe Renal Impairment
 
-Severe Renal Impairment — Avoid use in patients with severe renal impairment, GFR <30 mL/min [see Warnings and Precautions (5.14) and Use in Specific Populations (8.10)].
+Avoid use in patients with chronic liver disease or cirrhosis [see Warnings and Precautions (5.14) and Use in Specific Populations (8.9)].
 
-## 2.7 Discontinuing Duloxetine Delayed-Release Capsules
+Avoid use in patients with severe renal impairment, GFR <30 mL/minute [see Warnings and Precautions (5.14) and Use in Specific Populations (8.10)].
+
+## 2.8 Discontinuing Duloxetine Delayed-Release Capsules
 
 Adverse reactions after discontinuation of duloxetine delayed-release capsules, after abrupt or tapered discontinuation, include: dizziness, headache, nausea, diarrhea, paresthesia, irritability, vomiting, insomnia, anxiety, hyperhidrosis, and fatigue.
 A gradual reduction in dosage rather than abrupt cessation is recommended whenever possible [see Warnings and Precautions (5.7)].
 
-## 2.8 Switching a Patient to or from a Monoamine Oxidase Inhibitor (MAOI) Intended to Treat Psychiatric Disorders
+## 2.9 Switching a Patient to or from a Monoamine Oxidase Inhibitor (MAOI) Intended to Treat Psychiatric Disorders
 
 At least 14 days should elapse between discontinuation of an MAOI intended to treat psychiatric disorders and initiation of therapy with duloxetine delayed-release capsules.
 Conversely, at least 5 days should be allowed after stopping duloxetine delayed-release capsules before starting an MAOI intended to treat psychiatric disorders [see Contraindications (4)].
 
-## 2.9 Use of Duloxetine Delayed-Release Capsules with Other MAOIs such as Linezolid or Methylene Blue
+## 2.10 Use of Duloxetine Delayed-Release Capsules with Other MAOIs such as Linezolid or Methylene Blue
 
 Do not start duloxetine delayed-release capsules in a patient who is being treated with linezolid or intravenous methylene blue because there is an increased risk of serotonin syndrome.
 In a patient who requires more urgent treatment of a psychiatric condition, other interventions, including hospitalization, should be considered [see Contraindications (4)].
