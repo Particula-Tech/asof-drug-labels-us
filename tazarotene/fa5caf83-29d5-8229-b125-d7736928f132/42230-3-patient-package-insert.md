@@ -6,7 +6,7 @@ Tazarotene Cream (taz-AR-oh-teen)
 | --- |
 
 What is the most important information I should know about tazarotene cream?
-Tazarotene cream may cause birth defects if used during pregnancy. • Females must not be pregnant when they start using tazarotene cream or become pregnant during treatment with tazarotene cream. • For females who are able to get pregnant: ° Your doctor will order a pregnancy test for you within 2 weeks before you begin treatment with tazarotene cream to be sure that you are not pregnant.
+Tazarotene cream may cause birth defects if used during pregnancy.• Females must not be pregnant when they start using tazarotene cream or become pregnant during treatment with tazarotene cream.• For females who are able to get pregnant: ° Your doctor will order a pregnancy test for you within 2 weeks before you begin treatment with tazarotene cream to be sure that you are not pregnant.
 Your doctor will decide when to do the test. ° Begin treatment with tazarotene cream during a normal menstrual period. ° Use an effective form of birth control during treatment with tazarotene cream.
 Talk with your doctor about birth control options that may be used to prevent pregnancy during treatment with tazarotene cream. ° Stop using tazarotene cream and tell your doctor right away if you become pregnant while using tazarotene cream.
 
@@ -70,6 +70,6 @@ Active ingredient: tazarotene Inactive ingredients: benzyl alcohol 1%; carbomer 
 
 This Patient Information has been approved by the U.S. Food and Drug Administration.
 
-Manufactured by: G&W Laboratories, Inc. 111 Coolidge Street South Plainfield, NJ 07080
+Manufactured by: Cosette Pharmaceuticals, Inc. 111 Coolidge Street South Plainfield, NJ 07080
 
-8-0670GW4 Revised: November 2017
+8-0670CP1 Issued: 08/2019

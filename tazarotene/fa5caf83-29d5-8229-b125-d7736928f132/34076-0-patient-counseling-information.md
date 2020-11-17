@@ -29,6 +29,6 @@ Not for ophthalmic, oral, or intravaginal use.
 7.
 Wash hands thoroughly after applying tazarotene cream.
 
-Manufactured by: G&W Laboratories, Inc. 111 Coolidge Street South Plainfield, NJ 07080
+Manufactured by: Cosette Pharmaceuticals, Inc. 111 Coolidge Street South Plainfield, NJ 07080
 
-8-0670GW4 Revised: 11/2017
+8-0670CP1 Issued: 08/2019
