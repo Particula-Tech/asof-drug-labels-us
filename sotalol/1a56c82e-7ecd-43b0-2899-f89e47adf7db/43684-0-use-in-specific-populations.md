@@ -3,7 +3,7 @@
 ## 8.1 Pregnancy
 
 Pregnancy Category B There are no adequate and well-controlled studies in pregnant women.
-Sotalol has been shown to cross the placenta, and is found in amniotic fluid.
+Sotalol has been shown to cross the placenta and is found in amniotic fluid.
 In animal studies there was no increase in congenital anomalies, but an increase in early resorptions occurred at sotalol doses 18 times the maximum recommended human dose (MRHD, based on surface area).
 Animal reproductive studies are not always predictive of human response.
 

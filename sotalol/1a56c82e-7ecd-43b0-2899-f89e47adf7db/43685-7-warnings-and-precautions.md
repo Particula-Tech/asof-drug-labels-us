@@ -6,7 +6,7 @@ Sotalol hydrochloride/Sotalol hydrochloride AF can cause serious and potentially
 Factors such as reduced creatinine clearance, female sex, higher doses, reduced heart rate and history of sustained VT/VF or heart failure increase the risk of TdP.
 The risk of TdP can be reduced by adjustment of the sotalol dose according to creatinine clearance and by monitoring the ECG for excessive increases in the QT interval [see Dosage and Administration (2.1)].
 
-Correct hypokalemia or hypomagnesemia prior to initiating sotalol hydrochloride/sotalol hydrochloride AF, as these conditions can exaggerate the degree of QT prolongation, and increase the potential for Torsade de Pointes.
+Correct hypokalemia or hypomagnesemia prior to initiating sotalol hydrochloride/sotalol hydrochloride AF, as these conditions can exaggerate the degree of QT prolongation and increase the potential for Torsade de Pointes.
 Special attention should be given to electrolyte and acid-base balance in patients experiencing severe or prolonged diarrhea or patients receiving concomitant diuretic drugs.
 
 Proarrhythmic events must be anticipated not only on initiating therapy, but with every upward dose adjustment [see Dosage and Administration (2.1)].
@@ -15,7 +15,7 @@ In general, do not use sotalol with other drugs known to cause QT prolongation [
 
 ## 5.2 Bradycardia/Heart Block/Sick Sinus Syndrome
 
-Sinus bradycardia (heart rate less than 50 bpm) occurred in 13% of patients receiving sotalol in clinical trials, and led to discontinuation in about 3% of patients.
+Sinus bradycardia (heart rate less than 50 bpm) occurred in 13% of patients receiving sotalol in clinical trials and led to discontinuation in about 3% of patients.
 Bradycardia itself increases the risk of Torsade de Pointes.
 Sinus pause, sinus arrest and sinus node dysfunction occur in less than 1% of patients.
 The incidence of 2nd- or 3rd-degree AV block is approximately 1%.

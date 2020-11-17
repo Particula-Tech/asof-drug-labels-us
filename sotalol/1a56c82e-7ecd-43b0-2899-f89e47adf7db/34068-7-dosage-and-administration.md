@@ -89,3 +89,39 @@ Table 2: Dosing Intervals for treatment of AFIB/AFL in renal impairment
 | > 60 | 12 |
 | 40–59 | 24 |
 | <40 | Contraindicated |
+
+## 2.6 Preparation of Extemporaneous Oral Solution
+
+Sotalol hydrochloride/Sotalol hydrochloride AF Syrup 5 mg/mL can be compounded using Simple Syrup containing 0.1% sodium benzoate (Syrup, NF) as follows:
+
+1.
+Measure 120 mL of Simple Syrup.
+
+2.
+Transfer the syrup to a 6-ounce amber plastic (polyethylene terephthalate [PET]) prescription bottle.
+An oversized bottle is used to allow for a headspace, so that there will be more effective mixing during shaking of the bottle.
+
+3.
+Add five (5) Sotalol hydrochloride/Sotalol hydrochloride AF 120 mg tablets to the bottle.
+These tablets are added intact; it is not necessary to crush the tablets.
+The addition of the tablets can also be done first.
+The tablets can also be crushed if preferred.
+If the tablets are crushed, care should be taken to transfer the entire quantity of tablet powder into the bottle containing the syrup.
+
+4.
+Shake the bottle to wet the entire surface of the tablets.
+If the tablets have been crushed, shake the bottle until the endpoint is achieved.
+
+5.
+Allow the tablets to hydrate for at least two hours.
+
+6.
+After at least two hours have elapsed, shake the bottle intermittently over the course of at least another two hours until the tablets are completely disintegrated.
+The tablets can be allowed to hydrate overnight to simplify the disintegration process.
+
+The endpoint is achieved when a dispersion of fine particles in the syrup is obtained.
+
+This compounding procedure results in a solution containing 5 mg/mL of sotalol HCl.
+The fine solid particles are the water-insoluble inactive ingredients of the tablets.
+
+Stability studies indicate that the suspension is stable for three months when stored at 15°C to 30°C (59°F to 86°F) [see USP Controlled Room Temperature] and ambient humidity.

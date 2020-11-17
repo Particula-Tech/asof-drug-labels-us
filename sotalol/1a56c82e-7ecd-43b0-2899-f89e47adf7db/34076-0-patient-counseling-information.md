@@ -21,6 +21,6 @@ Sotalol Hydrochloride/Sotalol Hydrochloride AF Tablets, USP
 | Toronto, Ontario | Weston, Florida, |
 | Canada M9L1T9 | USA 33326 |
 
-Revised: December 2017
+Revised: November 2020
 
-Revision: 1
+Revision: 2
