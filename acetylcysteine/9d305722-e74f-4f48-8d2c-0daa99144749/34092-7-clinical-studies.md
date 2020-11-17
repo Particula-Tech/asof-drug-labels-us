@@ -6,7 +6,7 @@ A randomized, open-label, multi-center clinical study was conducted in Australia
 One hundred nine subjects were randomized to a 15-minute infusion rate and seventy-one subjects were randomized to a 60 minute infusion rate.
 The loading dose was 150 mg/kg followed by a maintenance dose of 50 mg/kg over 4 hours and then 100 mg/kg over 16 hours.
 Of the 180 patients, 27% were male and 73% were female.
-Ages ranged from 15 to 83 years, with the mean age being 30 years (+13.0).
+Ages ranged from 15 to 83 years, with the mean age being 30 years (±13.0).
 
 A subgroup of 58 subjects (33 in the 15-minute infusion group; 25 in the 60-minute infusion group) was treated within 8 hours of acetaminophen ingestion.
 No hepatotoxicity occurred within this subgroup; however, with 95% confidence, the true hepatotoxicity rates could range from 0% to 9% for the 15-minute infusion group and from 0% to 12% for the 60-minute infusion group.

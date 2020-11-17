@@ -17,7 +17,7 @@ Overall, 17% of patients developed an acute hypersensitivity reaction (18% in th
 Table 5.
 Incidence of Drug-Related Adverse Reactions Occurring Within the First 2 Hours Following Study Drug Administration by Preferred Term: Loading Dose/Infusion Rate Study
 
-| Treatment Group | 15-min |  |  |  | 60-min |  |  |  |
+| Treatment Group | 15-minutes |  |  |  | 60-minutes |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | Number of Patients | n=109 |  |  |  | n=71 |  |  |  |
 | Cardiac disorders | 5 (5%) |  |  |  | 2 (3%) |  |  |  |
@@ -28,7 +28,7 @@ Incidence of Drug-Related Adverse Reactions Occurring Within the First 2 Hours F
 | 1 (1%) |  | 6 (6%) |  |  | 1 (1%) | 1 (1%) |  |  |
 |  | 2 (2%) | 11 (10%) |  |  | 2 (3%) | 4 (6%) |  |  |
 | Immune System Disorders | 20 (18%) |  |  |  | 10 (14%) |  |  |  |
-| Severity:Anaphylactoid reaction | Unkn | Mild | Moderate | Severe | Unkn | Mild | Moderate | Severe |
+| Severity:Hypersensitivity reaction | Unkn | Mild | Moderate | Severe | Unkn | Mild | Moderate | Severe |
 | 2 (2%) | 6 (6%) | 11 (10%) | 1 (1%) |  | 4 (6%) | 5 (7%) | 1 (1%) |  |
 | Respiratory, thoracic and mediastinal disorders | 2 (2%) |  |  |  | 2 (3%) |  |  |  |
 | Severity: | Unkn | Mild | Moderate | Severe | Unkn | Mild | Moderate | Severe |
@@ -46,6 +46,8 @@ Incidence of Drug-Related Adverse Reactions Occurring Within the First 2 Hours F
 
 Unkn=Unknown
 
+NOS=not otherwise specified
+
 Safety Study
 
 A large multi-center study was performed in Canada where data were collected from patients who were treated with intravenous acetylcysteine for acetaminophen overdose between 1980 and 2005.
@@ -53,11 +55,10 @@ This study evaluated 4709 adult cases and 1905 pediatric cases.
 The incidence of hypersensitivity reactions in adult (overall incidence 8%) and pediatric (overall incidence 10%) patients is presented in Tables 6 and 7.
 
 Table 6.
-Distribution of reported hypersensitivity reactions in adult patients receiving intravenous Acetylcysteine
+Distribution of reported hypersensitivity reactions in adult patients receiving intravenous acetylcysteine
 
-|  | Incidence (%) |
+| Reaction | Incidence (%) n=4709 |
 | --- | --- |
-| Reaction | % of Patients (n=4709) |
 | Urticaria/Facial Flushing | 6.1% |
 | Pruritus | 4.3% |
 | Respiratory Symptoms* | 1.9% |
@@ -66,11 +67,10 @@ Distribution of reported hypersensitivity reactions in adult patients receiving 
 | Anaphylaxis | 0.1% |
 
 Table 7.
-Distribution of reported hypersensitivity reactions in pediatric patients receiving intravenous Acetylcysteine
+Distribution of reported hypersensitivity reactions in pediatric patients receiving intravenous acetylcysteine
 
-|  | Incidence (%) |
+| Reaction | Incidence (%) n=1905 |
 | --- | --- |
-| Reaction | % of Patients (n=1905) |
 | Urticaria/Facial Flushing | 7.6% |
 | Pruritus | 4.1% |
 | Respiratory Symptoms* | 2.2% |

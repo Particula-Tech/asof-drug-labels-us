@@ -12,6 +12,6 @@ Perrigo®
 
 Minneapolis, MN 55427
 
-9X400 RC J5 Rev 09-16 E
+33U00 RC J2 Rev 12-19
 
 U.S. Patent Nos. 8,148,356, 8,399,445, 8,653,061 8,722,738 and 9,327,028

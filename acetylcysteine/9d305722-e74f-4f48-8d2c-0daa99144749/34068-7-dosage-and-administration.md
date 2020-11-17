@@ -156,7 +156,7 @@ For the recommended weight-based dosage and weight-based dilution in patients wh
 
 | Table 3. Recommended Acetylcysteine Injection Dosage and Dilution for Patients 21 kg to 40 kg |  |  |  |
 | --- | --- | --- | --- |
-| Body Weight | Bag 1 (Loading Dose)150 mg/kg in 100 mL of diluent* infused over 1 hour | Bag 2 (Second Dose)50 mg/kg in 250 mL of diluent* infused over 4 hours | Bag 3 (Third Dose)100 mg/kg diluted in 500 mL of diluent * infused over 16 hours |
+| Body Weight | Bag 1 (Loading Dose)150 mg/kg in 100 mL of diluent* infused over 1 hour | Bag 2 (Second Dose)50 mg/kg in 250 mL of diluent* infused over 4 hours | Bag 3 (Third Dose)100 mg/kg in 500 mL of diluent * infused over 16 hours |
 | 21 kg | 3,150 mg | 1,050 mg | 2,100 mg |
 | 30 kg | 4,500 mg | 1,500 mg | 3,000 mg |
 | 40 kg | 6,000 mg | 2,000 mg | 4,000 mg |
@@ -165,7 +165,7 @@ For the recommended weight-based dosage and weight-based dilution in patients wh
 
 | Table 4. Recommended Acetylcysteine Injection Dosage and Dilution for Patients 41 kg or Greater |  |  |  |
 | --- | --- | --- | --- |
-| Body Weight | Bag 1 (Loading Dose)150 mg/kg in 200 mL of diluent* infused over 1 hour | Bag 2 (Second Dose)50 mg/kg in 500 mL of diluent* infused over 4 hours | Bag 3 (Third Dose)100 mg/kg diluted in 1000 mL of diluent * infused over 16 hours |
+| Body Weight | Bag 1 (Loading Dose)150 mg/kg in 200 mL of diluent* infused over 1 hour | Bag 2 (Second Dose)50 mg/kg in 500 mL of diluent* infused over 4 hours | Bag 3 (Third Dose)100 mg/kg in 1000 mL of diluent * infused over 16 hours |
 | 41 kg | 6,150 mg | 2,050 mg | 4,100 mg |
 | 50 kg | 7,500 mg | 2,500 mg | 5,000 mg |
 | 60 kg | 9,000 mg | 3,000 mg | 6,000 mg |
