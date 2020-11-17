@@ -34,3 +34,8 @@ Bottles of 100 NDC 60505-0249-3
 Bottles of 500 NDC 60505-0249-5
 
 Bottles of 1,000 NDC 60505-0249-8
+
+Storage
+
+Store at 20°C to 25°C (68°F to 77°F); excursions permitted to 15°C to 30°C (59°F to 86°F) [see USP Controlled Room Temperature].
+Protect from light and moisture.

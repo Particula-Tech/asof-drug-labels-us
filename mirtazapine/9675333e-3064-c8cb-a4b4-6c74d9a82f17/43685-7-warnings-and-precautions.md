@@ -52,7 +52,7 @@ If concomitant use of mirtazapine tablets with other serotonergic drugs is clini
 
 The pupillary dilation that occurs following use of many antidepressant drugs, including mirtazapine tablets, may trigger an angle-closure attack in a patient with anatomically narrow angles who does not have a patent iridectomy.
 
-## 5.5 QT Prolongation and Torsades de Pointes
+## 5.5 QTc Prolongation and Torsades de Pointes
 
 The effect of mirtazapine tablets on QTc interval was assessed in a clinical randomized trial with placebo and positive (moxifloxacin) controls involving 54 healthy volunteers using exposure response analysis.
 This trial showed a positive relationship between mirtazapine concentrations and prolongation of the QTc interval.

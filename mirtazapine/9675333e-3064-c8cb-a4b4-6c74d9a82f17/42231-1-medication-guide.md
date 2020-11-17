@@ -44,6 +44,8 @@ Call your healthcare provider or get emergency medical help right away if you or
 
 • trouble sleeping
 
+• other unusual changes in behavior or mood
+
 What are mirtazapine tablets?
 
 Mirtazapine tablets are prescription medicines used to treat a certain type of depression called Major Depressive Disorder (MDD) in adults.
@@ -99,7 +101,7 @@ You can register by calling 1-844-405-6185 or visiting online at http://womensme
 The purpose of this registry is to monitor the pregnancy outcomes in women who have been treated with mirtazapine tablets at any time during pregnancy.
 
 • are breastfeeding or plan to breastfeed.
-Mirtazapine tablets may pass into your breast milk.
+Mirtazapine may pass into your breast milk.
 Talk to your healthcare provider about the best way to feed your baby during treatment with mirtazapine tablets.
 
 Tell your healthcare provider about all the medicines you take, including prescription and over-the-counter medicines, vitamins, and herbal supplements.
@@ -154,9 +156,9 @@ Do not change your dose or stop taking mirtazapine tablets without first talking
 
 • Your healthcare provider may need to change the dose of mirtazapine tablets until it is the right dose for you
 
-• If you take too much mirtazapine tablets call your healthcare provider or poison control center at 1­800-222-1222 right away or go to the nearest hospital emergency room.
-
 • Take mirtazapine tablets 1 time each day, preferably in the evening at bedtime
+
+• If you take too much mirtazapine tablets call your healthcare provider or poison control center at 1­800-222-1222 right away or go to the nearest hospital emergency room.
 
 What should I avoid while taking mirtazapine tablets?
 
@@ -363,4 +365,7 @@ APOTEX INC. MIRTAZAPINE TABLETS, USP 15 mg, 30 mg and 45 mg
 
 Manufactured by Manufactured for Apotex Inc. Apotex Corp. Toronto, Ontario Weston, Florida Canada M9L 1T9 33326
 
-Revised: May 2020
+Revised: November 2020
+
+Rev.
+15

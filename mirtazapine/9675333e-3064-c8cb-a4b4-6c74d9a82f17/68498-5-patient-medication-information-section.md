@@ -46,7 +46,7 @@ Advise patients to notify their healthcare provider if they develop an allergic 
 Pregnancy
 
 - Advise patients to notify their physician if they become pregnant or intend to become pregnant during mirtazapine tablets therapy.
-- Advise patients that there is a pregnancy exposure registry that monitors pregnancy outcomes in women exposed to mirtazapine tablets during pregnancy [see Use in Specific Populations (8.1)].
+- Advise patients that there is a pregnancy exposure registry that monitors pregnancy outcomes in women exposed to mirtazapine tablets during pregnancy [see Use in Specific Populations (8.2)].
 
 Lactation
 
@@ -71,6 +71,6 @@ MIRTAZAPINE TABLETS, USP
 | Toronto, Ontario | Weston, Florida |
 | Canada M9l 1T9 | 33326 |
 
-Revised May 2020
+Revised November 2020
 
-Rev 14
+Rev 15

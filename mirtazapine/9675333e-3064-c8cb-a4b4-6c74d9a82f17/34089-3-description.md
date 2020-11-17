@@ -9,5 +9,5 @@ The structural formula is the following and it is the racemic mixture:
 Mirtazapine is a white to creamy white crystalline powder which is practically insoluble in water.
 
 Mirtazapine tablets are available for oral administration as scored film-coated tablets containing 15 or 30 mg of mirtazapine.
-Each tablet contains the following inactive ingredients: colloidal silicon dioxide anhydrous, corn starch, ferric oxide (yellow), hydroxypropyl cellulose, hypromellose, magnesium stearate, lactose monohydrate, polyethylene glycol 8000, and titanium dioxide.
-The 30 mg tablets also contain ferric oxide (red).
+Each tablet contains the following inactive ingredients: croscarmellose sodium, hydroxypropyl cellulose, hypromellose, lactose monohydrate, magnesium stearate, microcrystalline cellulose, polyethylene glycol and titanium dioxide.
+In addition, mirtazapine tablets, USP 15 mg and 30 mg contains iron oxide yellow and mirtazapine tablets, USP 30 mg contains iron oxide red
