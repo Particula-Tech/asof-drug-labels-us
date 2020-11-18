@@ -107,7 +107,7 @@ Simvastatin
 
 In a study including 16 elderly patients between 70 and 78 years of age who received simvastatin 40 mg/day, the mean plasma level of HMG-CoA reductase inhibitory activity was increased approximately 45% compared with 18 patients between 18-30 years of age.
 
-Pediatric Patients: [See Pediatric Use (8.4).]
+Pediatric Patients: [See Use in Specific Populations (8.4).]
 
 Gender
 

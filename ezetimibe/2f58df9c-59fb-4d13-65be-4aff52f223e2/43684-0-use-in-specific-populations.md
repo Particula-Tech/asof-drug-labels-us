@@ -108,7 +108,7 @@ However, because renal impairment is a risk factor for statin-associated myopath
 ## 8.7 Hepatic Impairment
 
 VYTORIN is contraindicated in patients with active liver disease or unexplained persistent elevations in hepatic transaminases.
-[See Contraindications (4) and Warnings and Precautions (5.2).]
+[See Contraindications (4) and Warnings and Precautions (5.3).]
 
 ## 8.8 Chinese Patients
 

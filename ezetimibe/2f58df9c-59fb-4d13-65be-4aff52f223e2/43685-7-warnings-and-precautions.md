@@ -32,9 +32,6 @@ Most patients who developed rhabdomyolysis were taking a statin prior to initiat
 However, rhabdomyolysis has been reported with ezetimibe monotherapy and with the addition of ezetimibe to agents known to be associated with increased risk of rhabdomyolysis, such as fibric acid derivatives.
 VYTORIN and a fenofibrate, if taking concomitantly, should both be immediately discontinued if myopathy is diagnosed or suspected.
 
-There have been rare reports of immune-mediated necrotizing myopathy (IMNM), an autoimmune myopathy, associated with statin use.
-IMNM is characterized by: proximal muscle weakness and elevated serum creatine kinase, which persist despite discontinuation of statin treatment; muscle biopsy showing necrotizing myopathy without significant inflammation; improvement with immunosuppressive agents.
-
 All patients starting therapy with VYTORIN or whose dose of VYTORIN is being increased should be advised of the risk of myopathy, including rhabdomyolysis, and told to report promptly any unexplained muscle pain, tenderness or weakness particularly if accompanied by malaise or fever or if muscle signs and symptoms persist after discontinuing VYTORIN.
 VYTORIN therapy should be discontinued immediately if myopathy is diagnosed or suspected.
 In most cases, muscle symptoms and CK increases resolved when simvastatin treatment was promptly discontinued.
@@ -83,7 +80,16 @@ Table 1: Drug Interactions Associated with Increased Risk of Myopathy/Rhabdomyol
 | Daptomycin | Temporarily suspend VYTORIN |
 | Grapefruit juice | Avoid grapefruit juice |
 
-## 5.2 Liver Enzymes
+## 5.2 Immune-Mediated Necrotizing Myopathy
+
+There have been rare reports of immune-mediated necrotizing myopathy (IMNM), an autoimmune myopathy, associated with statin use.
+IMNM is characterized by: proximal muscle weakness and elevated serum creatine kinase, which persist despite discontinuation of statin treatment; positive anti-HMG CoA reductase antibody; muscle biopsy showing necrotizing myopathy; and improvement with immunosuppressive agents.
+Additional neuromuscular and serologic testing may be necessary.
+Treatment with immunosuppressive agents may be required.
+Consider risk of IMNM carefully prior to initiation of a different statin.
+If therapy is initiated with a different statin, monitor for signs and symptoms of IMNM.
+
+## 5.3 Liver Enzymes
 
 In three placebo-controlled, 12-week trials, the incidence of consecutive elevations (≥3 × ULN) in serum transaminases was 1.7% overall for patients treated with VYTORIN and appeared to be dose-related with an incidence of 2.6% for patients treated with VYTORIN 10/80.
 In controlled long-term (48-week) extensions, which included both newly-treated and previously-treated patients, the incidence of consecutive elevations (≥3 × ULN) in serum transaminases was 1.8% overall and 3.6% for patients treated with VYTORIN 10/80.
@@ -101,6 +107,6 @@ Note that ALT may emanate from muscle, therefore ALT rising with CK may indicate
 VYTORIN should be used with caution in patients who consume substantial quantities of alcohol and/or have a past history of liver disease.
 Active liver diseases or unexplained persistent transaminase elevations are contraindications to the use of VYTORIN.
 
-## 5.3 Endocrine Function
+## 5.4 Endocrine Function
 
 Increases in HbA1c and fasting serum glucose levels have been reported with HMG-CoA reductase inhibitors, including simvastatin.

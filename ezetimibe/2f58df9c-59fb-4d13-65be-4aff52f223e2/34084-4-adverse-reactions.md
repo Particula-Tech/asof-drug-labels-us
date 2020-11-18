@@ -3,13 +3,13 @@
 The following serious adverse reactions are discussed in greater detail in other sections of the label:
 
 - Rhabdomyolysis and myopathy [see Warnings and Precautions (5.1)]
-- Liver enzyme abnormalities [see Warnings and Precautions (5.2)]
+- Liver enzyme abnormalities [see Warnings and Precautions (5.3)]
 
 ## 6.1 Clinical Trials Experience
 
 VYTORIN
 
-Because clinical studies are conducted under widely varying conditions, adverse reaction rates observed in the clinical studies of a drug cannot be directly compared to rates in the clinical studies of another drug and may not reflect the rates observed in practice.
+Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in practice.
 
 In the VYTORIN (ezetimibe and simvastatin) placebo-controlled clinical trials database of 1420 patients (age range 20-83 years, 52% women, 87% Caucasians, 3% Blacks, 5% Hispanics, 3% Asians) with a median treatment duration of 27 weeks, 5% of patients on VYTORIN and 2.2% of patients on placebo discontinued due to adverse reactions.
 
@@ -65,7 +65,7 @@ Other adverse reactions reported with simvastatin in placebo-controlled clinical
 
 Laboratory Tests
 
-Marked persistent increases of hepatic serum transaminases have been noted [see Warnings and Precautions (5.2)].
+Marked persistent increases of hepatic serum transaminases have been noted [see Warnings and Precautions (5.3)].
 Elevated alkaline phosphatase and γ-glutamyl transpeptidase have been reported.
 About 5% of patients taking simvastatin had elevations of CK levels of 3 or more times the normal value on one or more occasions.
 This was attributable to the noncardiac fraction of CK [see Warnings and Precautions (5.1)].
