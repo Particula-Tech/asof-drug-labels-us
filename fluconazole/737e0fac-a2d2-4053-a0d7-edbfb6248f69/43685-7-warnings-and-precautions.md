@@ -160,8 +160,8 @@ An effect of this magnitude should not necessitate a change in the fluconazole d
 
 ### Ibrutinib
 
-Moderate inhibitors of CYP3A4 such as fluconazole increase plasma ibrutinib concentrations and may increase risk of toxicity.
-If the combination cannot be avoided, reduce the dose of ibrutinib as instructed in ibrutinib prescribing information and provide close clinical monitoring.
+Moderate inhibitors of CYP3A4 such as fluconazole may increase plasma ibrutinib concentrations and increase risk of adverse reactions associated with ibrutinib.
+If ibrutinib and fluconazole are concomitantly administered, reduce the dose of ibrutinib as instructed in ibrutinib prescribing information and the patient should be frequently monitored for any adverse reactions associated with ibrutinib.
 
 ### Losartan
 
@@ -286,8 +286,9 @@ Reduce the dose of tofacitinib when given concomitantly with fluconazole (i.e., 
 
 ### Tolvaptan
 
-Exposure to tolvaptan is significantly increased (200% in AUC; 80% in Cmax) when tolvaptan, a CYP3A4 substrate, is coadministered with fluconazole, a moderate CYP3A4 inhibitor, with risk of significant increase in adverse effects particularly significant diuresis, dehydration and acute renal failure.
-In case of concomitant use, the tolvaptan dose should be reduced and the patient managed cautiously.
+Plasma exposure to tolvaptan is significantly increased (200% in AUC; 80% in Cmax) when tolvaptan, a CYP3A4 substrate, is coadministered with fluconazole, a moderate CYP3A4 inhibitor.
+This interaction may result in the risk of a significant increase in adverse reactions associated with tolvaptan, particularly significant diuresis, dehydration and acute renal failure.
+If tolvaptan and fluconazole are concomitantly administered, the tolvaptan dose should be reduced as instructed in the tolvaptan prescribing information and the patient should be frequently monitored for any adverse reactions associated with tolvaptan.
 
 ### Triazolam
 
