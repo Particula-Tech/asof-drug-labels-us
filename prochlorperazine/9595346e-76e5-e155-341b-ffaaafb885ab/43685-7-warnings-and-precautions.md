@@ -26,7 +26,7 @@ The need for continued treatment should be reassessed periodically.
 If signs and symptoms of tardive dyskinesia appear in a patient on neuroleptics, drug discontinuation should be considered.
 However, some patients may require treatment despite the presence of the syndrome.
 
-For further information about the description of tardive dyskinesia and its clinical detection, please refer to the sections on PRECAUTIONS and ADVERSE REACTIONS.
+For further information about the description of tardive dyskinesia and its clinical detection, please refer to the sections on PRECAUTIONSand ADVERSE REACTIONS.
 
 Neuroleptic Malignant Syndrome (NMS): A potentially fatal symptom complex sometimes referred to as Neuroleptic Malignant Syndrome (NMS) has been reported in association with antipsychotic drugs.
 Clinical manifestations of NMS are hyperpyrexia, muscle rigidity, altered mental status and evidence of autonomic instability (irregular pulse or blood pressure, tachycardia, diaphoresis, and cardiac dysrhythmias).

@@ -7,7 +7,7 @@ Rx only
 Storage: Store at 20-25°C (68-77°F) [See USP Controlled Room Temperature].
 Do not remove from foil until ready to use.
 
-Manufactured by: G&W Laboratories, Inc. South Plainfield, NJ 07080
+Manufactured by: Cosette Pharmaceuticals, Inc. 111 Coolidge Street South Plainfield, NJ 07080
 
-Rev.
-11/2016 8-0135GW11
+Iss.
+10/2019 8-0135CP1

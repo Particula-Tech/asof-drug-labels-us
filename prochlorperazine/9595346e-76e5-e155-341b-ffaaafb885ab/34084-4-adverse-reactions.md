@@ -31,7 +31,7 @@ Dosage should not be increased until these side effects have subsided.
 If these symptoms become too troublesome, they can usually be controlled by a reduction of dosage or change of drug.
 Treatment with anti-parkinsonian agents, benzodiazepines or propranolol may be helpful.
 
-Extrapyramidal Symptoms Dystonia Class effect: Symptoms of dystonia, prolonged abnormal contractions of muscle groups, may occur in susceptible individuals during the first few days of treatment.
+Extrapyramidal Symptoms DystoniaClass effect: Symptoms of dystonia, prolonged abnormal contractions of muscle groups, may occur in susceptible individuals during the first few days of treatment.
 Dystonic symptoms include: spasm of the neck muscles, sometimes progressing to tightness of the throat, swallowing difficulty, difficulty breathing, and/or protrusion of the tongue.
 While these symptoms can occur at low doses, they occur more frequently and with greater severity with high potency and at higher doses of first generation antipsychotic drugs.
 An elevated risk of acute dystonia is observed in males and younger age groups.
@@ -73,4 +73,4 @@ Although phenothiazines cause neither psychic nor physical dependence, sudden di
 
 Note: There have been occasional reports of sudden death in patients receiving phenothiazines.
 In some cases, the cause appeared to be cardiac arrest or asphyxia due to failure of the cough reflex.
-To report SUSPECTED ADVERSE REACTIONS, contact G&W Laboratories, Inc. at 1-800-922-1038 or FDA at 1-800-FDA-1088 or www.fda.gov/medwatch.
+To report SUSPECTED ADVERSE REACTIONS, contact Cosette Pharmaceuticals, Inc. at 1-800-922-1038 or FDA at 1-800-FDA-1088 or www.fda.gov/medwatch.
