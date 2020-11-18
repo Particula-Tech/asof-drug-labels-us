@@ -7,10 +7,10 @@ The recommended dosage for ZYVOX formulations for the treatment of infections is
 Table 1.
 Dosage Guidelines for ZYVOX
 
-| InfectionDue to the designated pathogens [see Indications and Usage (1)] | Pediatric PatientsNeonates less than7 days: Most pre-term neonates less than 7 days of age (gestational age less than 34 weeks) have lower systemic linezolid clearance values and larger AUC values than many full-term neonates and older infants. These neonates should be initiated with a dosing regimen of 10 mg/kg every 12 hours. Consideration may be given to the use of 10 mg/kg every 8 hours regimen in neonates with a sub-optimal clinical response. All neonatal patients should receive 10 mg/kg every 8 hours by 7 days of life [see Use in Specific Populations (8.4) and Clinical Pharmacology (12.3)]. (Birth through 11 Years of Age) | Adults and Adolescents (12 Years and Older) |  |
+| Pediatric PatientsNeonates less than7 days: Most pre-term neonates less than 7 days of age (gestational age less than 34 weeks) have lower systemic linezolid clearance values and larger AUC values than many full-term neonates and older infants. These neonates should be initiated with a dosing regimen of 10 mg/kg every 12 hours. Consideration may be given to the use of 10 mg/kg every 8 hours regimen in neonates with a sub-optimal clinical response. All neonatal patients should receive 10 mg/kg every 8 hours by 7 days of life [see Use in Specific Populations (8.4) and Clinical Pharmacology (12.3)]. (Birth through 11 Years of Age) | Adults and Adolescents (12 Years and Older) |  |  |
 | --- | --- | --- | --- |
-|  | Dosage, Route and Frequency of Administration |  | Recommended Duration of Treatment (consecutive days) |
-| Nosocomial pneumonia | 10 mg/kg intravenously or oralOral dosing using either ZYVOX Tablets or ZYVOX for Oral Suspension [see How Supplied/Storage and Handling (16)]. every 8 hours | 600 mg intravenously or oral every 12 hours | 10 to 14 |
+| InfectionDue to the designated pathogens [see Indications and Usage (1)] | Dosage, Route and Frequency of Administration |  | Recommended Duration of Treatment (consecutive days) |
+| Nosocomial pneumonia | 10 mg/kg intravenously or oral Oral dosing using either ZYVOX Tablets or ZYVOX for Oral Suspension [see How Supplied/Storage and Handling (16)]. every 8 hours | 600 mg intravenously or oral every 12 hours | 10 to 14 |
 | Community-acquired pneumonia, including concurrent bacteremia |  |  |  |
 | Complicated skin and skin structure infections |  |  |  |
 | Vancomycin-resistant Enterococcus faecium infections, including concurrent bacteremia | 10 mg/kg intravenously or oral every 8 hours | 600 mg intravenously or oral every 12 hours | 14 to 28 |
@@ -21,7 +21,7 @@ No dose adjustment is necessary when switching from intravenous to oral administ
 ## 2.2 Intravenous Administration
 
 ZYVOX I.V.
-Injection is supplied in single-use, ready-to-use infusion bags.
+Injection is supplied in single-dose, ready-to-use infusion bags.
 Parenteral drug products should be inspected visually for particulate matter prior to administration.
 Check for minute leaks by firmly squeezing the bag.
 If leaks are detected, discard the solution, as sterility may be impaired.
@@ -37,6 +37,7 @@ Do not use this intravenous infusion bag in series connections.
 Additives should not be introduced into this solution.
 If ZYVOX I.V.
 Injection is to be given concomitantly with another drug, each drug should be given separately in accordance with the recommended dosage and route of administration for each product.
+Discard unused portion.
 
 If the same intravenous line is used for sequential infusion of several drugs, the line should be flushed before and after infusion of ZYVOX I.V.
 Injection with an infusion solution compatible with ZYVOX I.V.
