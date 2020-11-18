@@ -15,6 +15,6 @@ Retain in carton until time of use.
 
 Distributed by Hospira, Inc., Lake Forest, IL 60045 USA
 
-LAB-0894-1.0
+LAB-0894-2.0
 
-Revised: 04/2018
+Revised: 11/2020
