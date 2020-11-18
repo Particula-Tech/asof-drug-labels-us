@@ -290,7 +290,7 @@ This Medication Guide summarizes the most important information about duloxetine
 If you would like more information, talk with your healthcare provider.
 You may ask your healthcare provider or pharmacist for information about duloxetine delayed-release capsules that is written for healthcare professionals.
 
-For more information about duloxetine delayed-release capsules call Actavis at 1-800-432-8534.
+For more information about duloxetine delayed-release capsules call Actavis at 1-888-838-2872.
 
 What are the ingredients in duloxetine delayed-release capsules?
 
@@ -308,4 +308,4 @@ Manufactured by: Actavis Elizabeth LLC Elizabeth, NJ 07207 USA
 Distributed by: Actavis Pharma, Inc. Parsippany, NJ 07054 USA
 
 Rev.
-A 10/2019
+B 9/2020

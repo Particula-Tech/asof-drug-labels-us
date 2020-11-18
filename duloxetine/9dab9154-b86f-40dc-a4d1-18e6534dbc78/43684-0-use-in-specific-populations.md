@@ -77,35 +77,62 @@ The presence of duloxetine hydrochloride metabolites in breast milk was not exam
 
 ## 8.4 Pediatric Use
 
-The safety and effectiveness in pediatric patients less than 7 years of age have not been established.
+The safety and effectiveness of duloxetine delayed-release capsules have been established for treatment of generalized anxiety disorder (GAD) in patients 7 to 17 years of age.
+The safety and effectiveness of duloxetine delayed-release capsules have not been established in pediatric patients with major depressive disorder (MDD), diabetic peripheral neuropathic pain, or chronic musculoskeletal pain.
 
-Safety and effectiveness of duloxetine delayed-release capsules have not been established in pediatric patients less than 18 years of age with MDD.
+Antidepressants increased the risk of suicidal thoughts and behavior in pediatric patients.
+Monitor all pediatric patients being treated with antidepressants for clinical worsening and emergence of suicidal thoughts and behaviors, especially during the initial few months of treatment, or at times of dosage changes [see Warnings and Precautions (5.1)].
+Perform regular monitoring of weight and growth in pediatric patients treated with duloxetine delayed-release capsules [see Adverse Reactions (6.1)].
 
+Generalized Anxiety Disorder
+
+Use of duloxetine delayed-release capsules for the treatment of GAD in patients 7 to 17 years of age is supported by one 10-week, placebo-controlled trial (GAD-6).
+The study included 272 pediatric patients with GAD of which 47% were 7 to 11 years of age (53% were 12 to 17 years of age).
+Duloxetine delayed-release capsules demonstrated superiority over placebo as measured by greater improvement in the Pediatric Anxiety Rating Scale (PARS) for GAD severity score [see Clinical Studies (14.3)].
+
+The safety and effectiveness of duloxetine delayed-release capsules for the treatment of GAD in pediatric patients less than 7 years of age have not been established.
+
+Pediatric use information for patients ages 13 to 17 years with fibromyalgia is approved for Eli Lilly and Company, Inc.'s CYMBALTA® (duloxetine) delayed-release capsules.
+However, due to Eli Lilly and Company, Inc.'s marketing exclusivity rights, this drug product is not labeled with that pediatric information.
+
+Major Depressive Disorder
+
+The safety and effectiveness of duloxetine delayed-release capsules have not been established in pediatric patients for the treatment of MDD.
+Efficacy of duloxetine delayed-release capsules was not demonstrated in two 10-week, placebo-controlled trials with 800 pediatric patients aged 7 to 17 years old with MDD (MDD-6 and MDD-7).
+Neither duloxetine delayed-release capsules nor an active control (approved for treatment of pediatric MDD) was superior to placebo.
+
+The most frequently observed adverse reactions in the MDD pediatric clinical trials included nausea, headache, decreased weight, and abdominal pain.
 Decreased appetite and weight loss have been observed in association with the use of SSRIs and SNRIs.
-Perform regular monitoring of weight and growth in children and adolescents treated with an SNRI such as duloxetine delayed-release capsules [see Adverse Reactions (6.11)].
 
-Information describing two additional clinical studies in which efficacy was not demonstrated in patients ages 7 to 17 years is approved for Eli Lilly and Company, Inc.’s CYMBALTA® (duloxetine) delayed-release capsules.
-Other pediatric use information for patients ages 7 to 17 years is approved for Eli Lilly and Company, Inc.'s CYMBALTA® (duloxetine) delayed-release capsules.
-However, due to Eli Lilly and Company, Inc.’s marketing exclusivity rights, this drug product is not labeled with that pediatric information.
+Juvenile Animal Toxicology Data
 
-Animal Data - Duloxetine administration to young rats from post-natal day 21 (weaning) through post-natal day 90 (adult) resulted in decreased body weights that persisted into adulthood, but recovered when drug treatment was discontinued; slightly delayed (~1.5 days) sexual maturation in females, without any effect on fertility; and a delay in learning a complex task in adulthood, which was not observed after drug treatment was discontinued.
+Duloxetine administration to young rats from post-natal day 21 (weaning) through post-natal day 90 (adult) resulted in decreased body weights that persisted into adulthood, but recovered when drug treatment was discontinued; slightly delayed (~1.5 days) sexual maturation in females, without any effect on fertility; and a delay in learning a complex task in adulthood, which was not observed after drug treatment was discontinued.
 These effects were observed at the high dose of 45 mg/kg/day (2 times the MRHD, for a child); the no-effect-level was 20 mg/kg/day (≈1 times the MRHD, for a child).
 
 ## 8.5 Geriatric Use
 
-Of the 2,418 patients in premarketing clinical studies of duloxetine delayed-release capsules for MDD, 5.9% (143) were 65 years of age or over.
-Of the 1041 patients in CLBP premarketing studies, 21.2% (221) were 65 years of age or over.
-Of the 487 patients in OA premarketing studies, 40.5% (197) were 65 years of age or over.
-Of the 1,074 patients in the DPNP premarketing studies, 33% (357) were 65 years of age or over.
-Of the 1,761 patients in FM premarketing studies, 7.9% (140) were 65 years of age or over.
-In the MDD, DPNP, FM, OA, CLBP and other studies, no overall differences in safety or effectiveness were generally observed between these subjects and younger subjects, and other reported clinical experience has not identified differences in responses between the elderly and younger patients, but greater sensitivity of some older individuals cannot be ruled out.
-SSRIs and SNRIs, including duloxetine delayed-release capsules have been associated with cases of clinically significant hyponatremia in elderly patients, who may be at greater risk for this adverse event [see Warnings and Precautions (5.13)].
+Geriatric Exposure in Premarketing Clinical Trials of Duloxetine Delayed-Release Capsules
 
-In an analysis of data from all placebo-controlled-trials, patients treated with duloxetine delayed-release capsules reported a higher rate of falls compared to patients treated with placebo.
+- Of the 2,418 patients in MDD trials, 6% (143) were 65 years of age or over.
+- Of the 1041 patients in CLBP trials, 21% (221) were 65 years of age or over.
+- Of the 487 patients in OA trials, 41% (197) were 65 years of age or over.
+- Of the 1,074 patients in the DPNP trials, 33% (357) were 65 years of age or over.
+- Of the 1,761 patients in FM trials, 8% (140) were 65 years of age or over.
+
+In the MDD, GAD, DPNP, FM, OA, and CLBP studies, no overall differences in safety or effectiveness were generally observed between these patients and younger adult patients, and other reported clinical experience has not identified differences in responses between these geriatric and younger adult patients, but greater sensitivity of some older patients cannot be ruled out.
+
+SSRIs and SNRIs, including duloxetine delayed-release capsules have been associated with clinically significant hyponatremia in geriatric patients, who may be at greater risk for this adverse reaction [see Warnings and Precautions (5.13)].
+
+In an analysis of data from all placebo-controlled-trials, duloxetine delayed-release capsule-treated patients reported a higher rate of falls compared to placebo-treated patients.
 The increased risk appears to be proportional to a patient’s underlying risk for falls.
 Underlying risk appears to increase steadily with age.
-As elderly patients tend to have a higher prevalence of risk factors for falls such as medications, medical comorbidities and gait disturbances, the impact of increasing age by itself on falls during treatment with duloxetine delayed-release capsules is unclear.
-Falls with serious consequences including bone fractures and hospitalizations have been reported [see Warnings and Precautions (5.3) and Adverse Reactions (6.10)].
+As geriatric patients tend to have a higher prevalence of risk factors for falls such as medications, medical comorbidities and gait disturbances, the impact of increasing age by itself on falls during duloxetine delayed-release capsules treatment is unclear.
+Falls with serious consequences including bone fractures and hospitalizations have been reported with duloxetine delayed-release capsules use [see Warnings and Precautions (5.3) and Adverse Reactions (6.1)].
+
+The pharmacokinetics of duloxetine after a single dose of 40 mg were compared in healthy elderly females (65 to 77 years) and healthy middle-age females (32 to 50 years).
+There was no difference in the Cmax, but the AUC of duloxetine was somewhat (about 25%) higher and the half-life about 4 hours longer in the elderly females.
+Population pharmacokinetic analyses suggest that the typical values for clearance decrease by approximately 1% for each year of age between 25 to 75 years of age; but age as a predictive factor only accounts for a small percentage of between-patient variability.
+Dosage adjustment based on the age of the adult patient is not necessary.
 
 ## 8.6 Gender
 
@@ -125,12 +152,12 @@ No specific pharmacokinetic study was conducted to investigate the effects of ra
 
 Patients with clinically evident hepatic impairment have decreased duloxetine metabolism and elimination.
 After a single 20 mg dose of duloxetine delayed-release capsules, 6 cirrhotic patients with moderate liver impairment (Child-Pugh Class B) had a mean plasma duloxetine clearance about 15% that of age- and gender-matched healthy subjects, with a 5-fold increase in mean exposure (AUC).
-Although Cmax was similar to normals in the cirrhotic patients, the half-life was about 3 times longer [see Dosage and Administration (2.6) and Warnings and Precautions (5.14)].
+Although Cmax was similar to normals in the cirrhotic patients, the half-life was about 3 times longer [see Dosage and Administration (2.7) and Warnings and Precautions (5.14)].
 
 ## 8.10 Severe Renal Impairment
 
 Limited data are available on the effects of duloxetine in patients with end-stage renal disease (ESRD).
-After a single 60 mg dose of duloxetine, Cmax and AUC values were approximately 100% greater in patients with end-stage renal disease receiving chronic intermittent hemodialysis than in subjects with normal renal function.
+After a single 60 mg dose of duloxetine, Cmax and AUC values were approximately 100% greater in patients with ESRD receiving chronic intermittent hemodialysis than in subjects with normal renal function.
 The elimination half-life, however, was similar in both groups.
 The AUCs of the major circulating metabolites, 4-hydroxy duloxetine glucuronide and 5-hydroxy, 6-methoxy duloxetine sulfate, largely excreted in urine, were approximately 7- to 9-fold higher and would be expected to increase further with multiple dosing.
-Population PK analyses suggest that mild to moderate degrees of renal impairment (estimated CrCl 30 to 80 mL/min) have no significant effect on duloxetine apparent clearance [see Dosage and Administration (2.6) and Warnings and Precautions (5.14)].
+Population PK analyses suggest that mild to moderate degrees of renal impairment (estimated CrCl 30 to 80 mL/min) have no significant effect on duloxetine apparent clearance [see Dosage and Administration (2.7) and Warnings and Precautions (5.14)].
