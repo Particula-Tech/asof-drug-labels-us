@@ -1,6 +1,6 @@
 # 3 DOSAGE FORMS AND STRENGTHS
 
-Each 5 mL of clear, nearly colorless lithium oral solution USP contains 8 mEq lithium ion (Li+) (equivalent to the amount of lithium in 300 mg of lithium carbonate).
+Each 5 mL of clear, colorless to slightly amber or red lithium oral solution USP contains 8 mEq lithium ion (Li+) (equivalent to the amount of lithium in 300 mg of lithium carbonate).
 
 Each 300 mg tablet for oral administration contains: lithium carbonate USP and is a white to off-white, biconvex tablet, scored on one side with product identification "54 452" debossed on the other side.
 

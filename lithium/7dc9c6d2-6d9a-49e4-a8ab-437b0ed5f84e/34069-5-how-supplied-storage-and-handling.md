@@ -2,7 +2,7 @@
 
 Lithium Oral Solution USP, 8 mEq per 5 mL.
 
-Lithium Oral Solution USP is supplied as a clear nearly colorless solution.
+Lithium Oral Solution USP is supplied as a clear, colorless to slightly amber or red solution.
 
 NDC 0054-3527-63: Bottle of 500 mL
 
