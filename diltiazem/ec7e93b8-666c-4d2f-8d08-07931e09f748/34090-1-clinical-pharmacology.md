@@ -1,15 +1,15 @@
 # CLINICAL PHARMACOLOGY
 
-The therapeutic effects of diltiazem are believed to be related to its ability to inhibit the influx of calcium ions during membrane depolarization of cardiac and vascular smooth muscle.
+The therapeutic effects of diltiazem hydrochloride are believed to be related to its ability to inhibit the influx of calcium ions during membrane depolarization of cardiac and vascular smooth muscle.
 
 ## Mechanism of Action
 
-Diltiazem hydrochloride produces its antihypertensive effect primarily by relaxation of vascular smooth muscle and the resultant decrease in peripheral vascular resistance.
-The magnitude of blood pressure reduction is related to the degree of hypertension; thus hypertensive individuals experience an antihypertensive effect, whereas there is only a modest fall in blood pressure in normotensives.
+Diltiazem hydrochloride extended-release capsules produce their antihypertensive effect primarily by relaxation of vascular smooth muscle and the resultant decrease in peripheral vascular resistance.
+The magnitude of blood pressure reduction is related to the degree of hypertension; thus, hypertensive individuals experience an antihypertensive effect, whereas there is only a modest fall in blood pressure in normotensives.
 
-## Hemodynamic and Electrophysiologic Effects
+## Hemodynamic and Electrophysiological Effects
 
-Like other calcium antagonists, diltiazem decreases sinoatrial and atrioventricular conduction in isolated tissues and has a negative inotropic effect in isolated preparations.
+Like other calcium channel antagonists, diltiazem decreases sinoatrial and atrioventricular conduction in isolated tissues and has a negative inotropic effect in isolated preparations.
 In the intact animal, prolongation of the AH interval can be seen at higher doses.
 
 In man, diltiazem prevents spontaneous and ergonovine-provoked coronary artery spasm.
@@ -23,14 +23,14 @@ Diltiazem hydrochloride extended-release capsules produce antihypertensive effec
 Postural hypotension is infrequently noted upon suddenly assuming an upright position.
 No reflex tachycardia is associated with the chronic antihypertensive effects.
 Diltiazem hydrochloride extended-release capsules decrease vascular resistance, increase cardiac output (by increasing stroke volume), and produce a slight decrease or no change in heart rate.
-During dynamic exercise, increases in diastolic pressure are inhibited while maximum achievable systolic pressure is usually reduced.
-Heart rate at maximum exercise does not change, or is slightly reduced.
-Chronic therapy with diltiazem produces no change or an increase in plasma catecholamines.
+During dynamic exercise, increases in diastolic pressure are inhibited, while maximum achievable systolic pressure is usually reduced.
+Heart rate at maximum exercise does not change or is slightly reduced.
+Chronic therapy with diltiazem hydrochloride produces no change or an increase in plasma catecholamines.
 No increased activity of the renin-angiotensin-aldosterone axis has been observed.
-Diltiazem hydrochloride extended-release capsules antagonizes the renal and peripheral effects of angiotensin II.
+Diltiazem hydrochloride extended-release capsules antagonize the renal and peripheral effects of angiotensin II.
 Hypertensive animal models respond to diltiazem with reductions in blood pressure and increased urinary output and natriuresis without a change in urinary sodium/potassium ratio.
 
-Intravenous diltiazem hydrochloride in doses of 20 mg prolongs AH conduction time and AV node functional and effective refractory periods approximately 20%.
+Intravenous diltiazem hydrochloride in doses of 20 mg prolongs AH conduction time and AV node functional and effective refractory periods by approximately 20%.
 In a study involving single oral doses of 300 mg of diltiazem hydrochloride in six normal volunteers, the average maximum PR prolongation was 14% with no instances of greater than first-degree AV block.
 Diltiazem-associated prolongation of the AH interval is not more pronounced in patients with first-degree heart block.
 In patients with sick sinus syndrome, diltiazem significantly prolongs sinus cycle length (up to 50% in some cases).
@@ -40,12 +40,12 @@ Chronic oral administration of diltiazem hydrochloride in doses of up to 360 mg/
 ## Pharmacokinetics and Metabolism
 
 Diltiazem is well absorbed from the gastrointestinal tract and is subject to an extensive first-pass effect, giving an absolute bioavailability (compared to intravenous administration) of about 40%.
-Diltiazem undergoes extensive metabolism in which 2% to 4% of the unchanged drug appears in the urine.
-In vitro binding studies show diltiazem is 70% to 80% bound to plasma proteins.
-Competitive in vitro ligand binding studies have also shown diltiazem binding is not altered by therapeutic concentrations of digoxin, hydrochlorothiazide, phenylbutazone, propranolol, salicylic acid, or warfarin.
+Diltiazem hydrochloride undergoes extensive metabolism in which 2% to 4% of the unchanged drug appears in the urine.
+In vitro binding studies show diltiazem hydrochloride is 70% to 80% bound to plasma proteins.
+Competitive in vitro ligand binding studies have also shown diltiazem hydrochloride binding is not altered by therapeutic concentrations of digoxin, hydrochlorothiazide, phenylbutazone, propranolol, salicylic acid, or warfarin.
 The plasma elimination half-life following single or multiple drug administration is approximately 3.0 to 4.5 hours.
 Desacetyl diltiazem is also present in the plasma at levels of 10% to 20% of the parent drug and is 25% to 50% as potent a coronary vasodilator as diltiazem.
-Minimum therapeutic plasma levels of diltiazem appear to be in the range of 50 to 200 ng/mL.
+Minimum therapeutic plasma levels of diltiazem hydrochloride appear to be in the range of 50 - 200 ng/mL.
 There is a departure from linearity when dose strengths are increased; the half-life is slightly increased with dose.
 A study that compared patients with normal hepatic function to patients with cirrhosis found an increase in half-life and a 69% increase in bioavailability in the hepatically impaired patients.
 A single study in nine patients with severely impaired renal function showed no difference in the pharmacokinetic profile of diltiazem compared to patients with normal renal function.

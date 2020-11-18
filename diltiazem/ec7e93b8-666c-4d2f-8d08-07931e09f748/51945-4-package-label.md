@@ -1,10 +1,10 @@
-# PRINCIPAL DISPLAY PANEL - 60 mg
+# PRINCIPAL DISPLAY PANEL – 60 mg
 
 NDC 0378-6060-01
 
 Twice-a-Day Dosage
 
-Diltiazem HCl Extended-release Capsules, USP 60 mg*
+Diltiazem HCl Extended-Release Capsules, USP 60 mg*
 
 Rx only 100 Capsules
 
@@ -25,15 +25,15 @@ Mylan Pharmaceuticals Inc. Morgantown, WV 26505 U.S.A.
 
 Mylan.com
 
-RM6060A8
+RM6060A9
 
-# PRINCIPAL DISPLAY PANEL - 90 mg
+# PRINCIPAL DISPLAY PANEL – 90 mg
 
 NDC 0378-6090-01
 
 Twice-a-Day Dosage
 
-Diltiazem HCl Extended-release Capsules, USP 90 mg*
+Diltiazem HCl Extended-Release Capsules, USP 90 mg*
 
 Rx only 100 Capsules
 
@@ -54,15 +54,15 @@ Mylan Pharmaceuticals Inc. Morgantown, WV 26505 U.S.A.
 
 Mylan.com
 
-RM6090A8
+RM6090A9
 
-# PRINCIPAL DISPLAY PANEL - 120 mg
+# PRINCIPAL DISPLAY PANEL – 120 mg
 
 NDC 0378-6120-01
 
 Twice-a-Day Dosage
 
-Diltiazem HCl Extended-release Capsules, USP 120 mg*
+Diltiazem HCl Extended-Release Capsules, USP 120 mg*
 
 Rx only 100 Capsules
 
@@ -83,4 +83,4 @@ Mylan Pharmaceuticals Inc. Morgantown, WV 26505 U.S.A.
 
 Mylan.com
 
-RM6120A8
+RM6120A9
