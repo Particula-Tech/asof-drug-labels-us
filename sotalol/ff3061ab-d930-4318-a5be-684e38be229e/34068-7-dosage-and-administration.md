@@ -37,7 +37,7 @@ Continue to monitor QTc around Tmax (2 to 4 hours post-dose) following the first
 If the QTc interval prolongs to >500 ms or increases 20% from baseline when initiating for an oral dose of 80 mg, discontinue drug; if initiating for an oral dose of 120 mg discontinue drug and consider a lower dose.
 If re-initiation at a lower dose of 80 mg is desired, wait at least 1 day (in patients with CrCL≥60 mL/min), or at least 3 days (in patients with CrCL ≥30 to <60 mL/min), or 7 days (in patients with CrCL ≥10 to <30 mL/min).
 
-The intravenous loading dose depends on the target oral dose and creatinine clearance; the dosing interval for oral administration of sotalol and the minimum delay between the end of the infusion and the first oral dose also depend on renal function; see Table 2 [see Clinical Studies (14.6)].
+The intravenous loading dose depends on the target oral dose and creatinine clearance; the dosing interval for oral administration of sotalol and the minimum delay between the end of the infusion and the first oral dose also depend on renal function; see Table 2 [see Clinical Studies (14.4)].
 
 Table 2: Recommended Loading Dosage
 
