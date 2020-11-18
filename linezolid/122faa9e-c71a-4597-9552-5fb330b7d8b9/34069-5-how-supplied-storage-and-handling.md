@@ -1,14 +1,14 @@
 # 16 HOW SUPPLIED/STORAGE AND HANDLING
 
 ZYVOX I.V.
-Injection is available in single-use, ready-to-use flexible plastic infusion bags in a foil laminate overwrap.
-The infusion bags and ports are latex-free.
+Injection is available in single-dose, ready-to-use flexible plastic infusion bags in a foil laminate overwrap.
+The infusion bags and ports are not made with natural rubber latex.
 The infusion bags are available in the following package sizes:
 
-| 600 mg linezolid in a 300 mL bag (2 mg/mL) × 10 | NDC 0009-4992-02 |
+| 600 mg/300 mL (2 mg/mL) linezolid × 10 | NDC 0009-4992-02 |
 | --- | --- |
 
-Store at 25ºC (77ºF).
+Store at 25°C (77°F).
 Protect from light.
 It is recommended that the infusion bags be kept in the overwrap until ready to use.
 Protect infusion bags from freezing.
