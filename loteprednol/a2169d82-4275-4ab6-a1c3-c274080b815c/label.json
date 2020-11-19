@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "NDA210933"
+  ],
+  "inn": "loteprednol",
+  "labeler": "Kala Pharmaceuticals, Inc.",
+  "package_ndcs": [
+    "71571-333-83"
+  ],
+  "products": [
+    {
+      "form": "SUSPENSION/ DROPS",
+      "generic": "loteprednol etabonate",
+      "name": "Eysuvis"
+    }
+  ],
+  "setid": "a2169d82-4275-4ab6-a1c3-c274080b815c",
+  "source": "dailymed"
+}
