@@ -18,8 +18,6 @@ Each capsule contains 22.4 mg of duloxetine hydrochloride equivalent to 20 mg du
 
 Rx only
 
-www.Cymbalta.com
-
 Lilly
 
 PACKAGE LABEL- Cymbalta 30 mg, bottle of 30
@@ -42,8 +40,6 @@ Each capsule contains 33.7 mg of duloxetine hydrochloride equivalent to 30 mg du
 
 Rx only
 
-www.Cymbalta.com
-
 Lilly
 
 PACKAGE LABEL- Cymbalta 60 mg, bottle of 30
@@ -65,7 +61,5 @@ delayed release capsules
 Each capsule contains 67.3 mg of duloxetine hydrochloride equivalent to 60 mg duloxetine.
 
 Rx only
-
-www.Cymbalta.com
 
 Lilly
