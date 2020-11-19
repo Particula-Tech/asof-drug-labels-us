@@ -13,7 +13,7 @@ Patients who were intolerant of the initial dosage regimen had their dose decrea
 Patients who were tolerant of one tablet daily at 8 weeks may have had their dose increased to 50 mg daily at the discretion of the investigator.
 The mean daily dose at study end for patients randomized to spironolactone was 26 mg.
 
-1663 patients were randomized 1:1 to spironolactone or placebo.
+1,663 patients were randomized 1:1 to spironolactone or placebo.
 87% of patients were white, 7% black, 2% Asian.
 73% were male and median age was 67.
 The median ejection fraction was 26%.

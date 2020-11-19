@@ -3,7 +3,7 @@
 Patients who receive spironolactone should be advised to avoid potassium supplements and foods containing high levels of potassium, including salt substitutes.
 
 This product’s label may have been updated.
-For full prescribing information, please visit www.amneal.com.
+For current full prescribing information, please visit www.amneal.com.
 
 Manufactured by:
 
@@ -19,4 +19,4 @@ Amneal Pharmaceuticals LLC
 Bridgewater, NJ 08807
 
 Rev.
-04-2018-03
+08-2020-05
