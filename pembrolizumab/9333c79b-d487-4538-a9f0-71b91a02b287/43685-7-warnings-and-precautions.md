@@ -1,33 +1,36 @@
 # 5 WARNINGS AND PRECAUTIONS
 
-## 5.1 Immune-Mediated Pneumonitis
+## 5.1 Severe and Fatal Immune-Mediated Adverse Reactions
 
-KEYTRUDA can cause immune-mediated pneumonitis, including fatal cases.
-Monitor patients for signs and symptoms of pneumonitis.
-Evaluate patients with suspected pneumonitis with radiographic imaging and administer corticosteroids (initial dose of 1 to 2 mg/kg/day prednisone or equivalent followed by a taper) for Grade 2 or greater pneumonitis.
-Withhold KEYTRUDA for moderate (Grade 2) pneumonitis, and permanently discontinue KEYTRUDA for severe (Grade 3), life-threatening (Grade 4), or recurrent moderate (Grade 2) pneumonitis [see Dosage and Administration (2.3) and Adverse Reactions (6.1)].
+KEYTRUDA is a monoclonal antibody that belongs to a class of drugs that bind to either the programmed death-receptor 1 (PD-1) or the PD-ligand 1 (PD-L1), blocking the PD-1/PD-L1 pathway, thereby removing inhibition of the immune response, potentially breaking peripheral tolerance and inducing immune-mediated adverse reactions.
+Important immune-mediated adverse reactions listed under WARNINGS AND PRECAUTIONS may not include all possible severe and fatal immune-mediated adverse reactions.
 
-In clinical studies enrolling 2799 patients with various cancers who received KEYTRUDA as a single agent, pneumonitis occurred in 94 (3.4%) patients, including Grade 1 (0.8%), Grade 2 (1.3%), Grade 3 (0.9%), Grade 4 (0.3%), and Grade 5 (0.1%) pneumonitis.
-The median time to onset was 3.3 months (range: 2 days to 19.3 months), and the median duration was 1.5 months (range: 1 day to 17.2+ months).
-Sixty-three (67%) of the 94 patients received systemic corticosteroids, with 50 of the 63 receiving high-dose corticosteroids for a median duration of 8 days (range: 1 day to 10.1 months) followed by a corticosteroid taper.
-Pneumonitis occurred more frequently in patients with a history of prior thoracic radiation (6.9%) than in patients who did not receive prior thoracic radiation (2.9%).
-Pneumonitis led to discontinuation of KEYTRUDA in 36 (1.3%) patients.
-Pneumonitis resolved in 55 (59%) of the 94 patients.
+Immune-mediated adverse reactions, which may be severe or fatal, can occur in any organ system or tissue and can affect more than one body system simultaneously.
+Immune-mediated adverse reactions can occur at any time after starting treatment with a PD-1/PD-L1 blocking antibody.
+While immune-mediated adverse reactions usually manifest during treatment with PD-1/PD-L1 blocking antibodies, immune-mediated adverse reactions can also manifest after discontinuation of PD-1/PD-L1 blocking antibodies.
 
-In clinical studies enrolling 790 patients with NSCLC who received KEYTRUDA as a single agent as first-line therapy for advanced disease, pneumonitis occurred in 65 (8.2%) patients, including Grades 3-4 in 3.2% of patients.
-Forty-eight of the 65 patients received high-dose corticosteroids for a median duration of 5 days (range: 1 to 26 days).
-Pneumonitis occurred in 17% of patients with a history of prior thoracic radiation and 7.7% of patients who did not receive prior thoracic radiation.
-Pneumonitis led to discontinuation of KEYTRUDA in 29 (3.7%) patients.
-Pneumonitis resolved in 51% of the patients.
+Early identification and management of immune-mediated adverse reactions are essential to ensure safe use of PD-1/PD-L1 blocking antibodies.
+Monitor patients closely for symptoms and signs that may be clinical manifestations of underlying immune-mediated adverse reactions.
+Evaluate liver enzymes, creatinine, and thyroid function at baseline and periodically during treatment.
+In cases of suspected immune-mediated adverse reactions, initiate appropriate workup to exclude alternative etiologies, including infection.
+Institute medical management promptly, including specialty consultation as appropriate.
 
-In KEYNOTE-048 enrolling 300 patients with HNSCC who received KEYTRUDA as a single agent pneumonitis occurred in 18 (6%) patients, including Grade 3 (1.3%), Grade 4 (0%), and Grade 5 (0.3%).
-Eight of the 18 patients received high-dose corticosteroids for a median duration of 14 days (range: 1 to 77 days).
-Pneumonitis led to discontinuation of KEYTRUDA in 2 (0.7%) patients.
-Pneumonitis resolved in 12 (66%) of the patients.
-Pneumonitis occurred in 15 (5.4%) patients of 276 patients with HNSCC receiving KEYTRUDA in combination with platinum and FU as first-line therapy for advanced disease, including Grade 3 (1.1%), Grade 4 (0%), and Grade 5 (0.4%) pneumonitis.
-Four of the 15 patients received high-dose corticosteroids for a median duration of 16 days (range: 2 to 32 days).
-Pneumonitis led to discontinuation of KEYTRUDA in 5 (1.8%) patients.
-Pneumonitis resolved in 12 (80%) of the patients.
+Withhold or permanently discontinue KEYTRUDA depending on severity [see Dosage and Administration (2.3)].
+In general, if KEYTRUDA requires interruption or discontinuation, administer systemic corticosteroid therapy (1 to 2 mg/kg/day prednisone or equivalent) until improvement to Grade 1 or less.
+Upon improvement to Grade 1 or less, initiate corticosteroid taper and continue to taper over at least 1 month.
+Consider administration of other systemic immunosuppressants in patients whose immune-mediated adverse reactions are not controlled with corticosteroid therapy.
+
+Toxicity management guidelines for adverse reactions that do not necessarily require systemic steroids (e.g., endocrinopathies and dermatologic reactions) are discussed below.
+
+Immune-Mediated Pneumonitis
+
+KEYTRUDA can cause immune-mediated pneumonitis.
+The incidence of pneumonitis is higher in patients who have received prior thoracic radiation.
+Immune-mediated pneumonitis occurred in 3.4% (94/2799) of patients receiving KEYTRUDA, including fatal (0.1%), Grade 4 (0.3%), Grade 3 (0.9%), and Grade 2 (1.3%) adverse reactions.
+Systemic corticosteroids were required in 67% (63/94) of patients with pneumonitis.
+Pneumonitis led to permanent discontinuation of KEYTRUDA in 1.3% (36) of patients and withholding of KEYTRUDA in 0.9% (26) of patients.
+All patients who were withheld reinitiated KEYTRUDA after symptom improvement; of these, 23% had recurrence of pneumonitis.
+Pneumonitis resolved in 59% of the 94 patients.
 
 In clinical studies enrolling 389 adult patients with cHL who received KEYTRUDA as a single agent, pneumonitis occurred in 31 (8%) patients, including Grades 3-4 pneumonitis in 2.3% of patients.
 Patients received high-dose corticosteroids for a median duration of 10 days (range: 2 days to 53 months).
@@ -35,155 +38,156 @@ Pneumonitis rates were similar in patients with and without prior thoracic radia
 Pneumonitis led to discontinuation of KEYTRUDA in 21 (5.4%) patients.
 Of the patients who developed pneumonitis, 42% interrupted KEYTRUDA, 68% discontinued KEYTRUDA, and 77% had resolution.
 
-## 5.2 Immune-Mediated Colitis
+Immune-Mediated Colitis
 
-KEYTRUDA can cause immune-mediated colitis.
-Monitor patients for signs and symptoms of colitis.
-Administer corticosteroids (initial dose of 1 to 2 mg/kg/day prednisone or equivalent followed by a taper) for Grade 2 or greater colitis.
-Withhold KEYTRUDA for moderate (Grade 2) or severe (Grade 3) colitis, and permanently discontinue KEYTRUDA for life-threatening (Grade 4) colitis [see Dosage and Administration (2.3) and Adverse Reactions (6.1)].
+KEYTRUDA can cause immune-mediated colitis, which may present with diarrhea.
+Cytomegalovirus (CMV) infection/reactivation has been reported in patients with corticosteroid-refractory immune-mediated colitis.
+In cases of corticosteroid-refractory colitis, consider repeating infectious workup to exclude alternative etiologies.
+Immune-mediated colitis occurred in 1.7% (48/2799) of patients receiving KEYTRUDA, including Grade 4 (<0.1%), Grade 3 (1.1%), and Grade 2 (0.4%) adverse reactions.
+Systemic corticosteroids were required in 69% (33/48) of patients with colitis.
+Additional immunosuppressant therapy was required in 4.2% of patients.
+Colitis led to permanent discontinuation of KEYTRUDA in 0.5% (15) of patients and withholding of KEYTRUDA in 0.5% (13) of patients.
+All patients who were withheld reinitiated KEYTRUDA after symptom improvement; of these, 23% had recurrence of colitis.
+Colitis resolved in 85% of the 48 patients.
 
-Colitis occurred in 48 (1.7%) of 2799 patients receiving KEYTRUDA, including Grade 2 (0.4%), Grade 3 (1.1%), and Grade 4 (<0.1%) colitis.
-The median time to onset was 3.5 months (range: 10 days to 16.2 months), and the median duration was 1.3 months (range: 1 day to 8.7+ months).
-Thirty-three (69%) of the 48 patients received systemic corticosteroids, with 27 of the 33 requiring high-dose corticosteroids for a median duration of 7 days (range: 1 day to 5.3 months) followed by a corticosteroid taper.
-Colitis led to discontinuation of KEYTRUDA in 15 (0.5%) patients.
-Colitis resolved in 41 (85%) of the 48 patients.
+Hepatotoxicity and Immune-Mediated Hepatitis
 
-## 5.3 Immune-Mediated Hepatitis (KEYTRUDA) and Hepatotoxicity (KEYTRUDA in Combination with Axitinib)
-
-Immune-Mediated Hepatitis
+KEYTRUDA as a Single Agent
 
 KEYTRUDA can cause immune-mediated hepatitis.
-Monitor patients for changes in liver function.
-Administer corticosteroids (initial dose of 0.5 to 1 mg/kg/day [for Grade 2 hepatitis] and 1 to 2 mg/kg/day [for Grade 3 or greater hepatitis] prednisone or equivalent followed by a taper) and, based on severity of liver enzyme elevations, withhold or discontinue KEYTRUDA [see Dosage and Administration (2.3) and Adverse Reactions (6.1)].
+Immune-mediated hepatitis occurred in 0.7% (19/2799) of patients receiving KEYTRUDA, including Grade 4 (<0.1%), Grade 3 (0.4%), and Grade 2 (0.1%) adverse reactions.
+Systemic corticosteroids were required in 68% (13/19) of patients with hepatitis.
+Eleven percent of these patients required additional immunosuppressant therapy.
+Hepatitis led to permanent discontinuation of KEYTRUDA in 0.2% (6) of patients and withholding of KEYTRUDA in 0.3% (9) of patients.
+All patients who were withheld reinitiated KEYTRUDA after symptom improvement; of these, none had recurrence of hepatitis.
+Hepatitis resolved in 79% of the 19 patients.
 
-Hepatitis occurred in 19 (0.7%) of 2799 patients receiving KEYTRUDA, including Grade 2 (0.1%), Grade 3 (0.4%), and Grade 4 (<0.1%) hepatitis.
-The median time to onset was 1.3 months (range: 8 days to 21.4 months), and the median duration was 1.8 months (range: 8 days to 20.9+ months).
-Thirteen (68%) of the 19 patients received systemic corticosteroids, with 12 of the 13 receiving high-dose corticosteroids for a median duration of 5 days (range: 1 to 26 days) followed by a corticosteroid taper.
-Hepatitis led to discontinuation of KEYTRUDA in 6 (0.2%) patients.
-Hepatitis resolved in 15 (79%) of the 19 patients.
-
-Hepatotoxicity in Combination with Axitinib
+KEYTRUDA with Axitinib
 
 KEYTRUDA in combination with axitinib can cause hepatic toxicity with higher than expected frequencies of Grades 3 and 4 ALT and AST elevations compared to KEYTRUDA alone.
 Monitor liver enzymes before initiation of and periodically throughout treatment.
 Consider more frequent monitoring of liver enzymes as compared to when the drugs are administered as single agents.
-For elevated liver enzymes, interrupt KEYTRUDA and axitinib and consider administering corticosteroids as needed [see Dosage and Administration (2.3)].
+For elevated liver enzymes, interrupt KEYTRUDA and axitinib, and consider administering corticosteroids as needed [see Dosage and Administration (2.3)].
 
 With the combination of KEYTRUDA and axitinib, Grades 3 and 4 increased ALT (20%) and increased AST (13%) were seen.
-The median time to onset of increased ALT was 2.3 months (range: 7 days to 19.8 months).
 Fifty-nine percent of the patients with increased ALT received systemic corticosteroids.
 In patients with ALT ≥3 times ULN (Grades 2-4, n=116), ALT resolved to Grades 0-1 in 94%.
-Among the 92 patients who were rechallenged with either KEYTRUDA (3%) or axitinib (31%) administered as a single agent or with both (50%), 55% had no recurrence of ALT >3 times ULN.
+Among the 92 patients who were rechallenged with either KEYTRUDA (n=3) or axitinib (n=34) administered as a single agent or with both (n=55), recurrence of ALT ≥3 times ULN was observed in 1 patient receiving KEYTRUDA, 16 patients receiving axitinib, and 24 patients receiving both KEYTRUDA and axitinib.
+All patients with a recurrence of ALT ≥3 ULN subsequently recovered from the event.
 
-## 5.4 Immune-Mediated Endocrinopathies
+Immune-Mediated Endocrinopathies
 
 Adrenal Insufficiency
 
-KEYTRUDA can cause adrenal insufficiency (primary and secondary).
-Monitor for signs and symptoms of adrenal insufficiency.
-Administer corticosteroids and hormone replacement as clinically indicated.
-Withhold KEYTRUDA for moderate (Grade 2) adrenal insufficiency and withhold or discontinue KEYTRUDA for severe (Grade 3) or life-threatening (Grade 4) adrenal insufficiency [see Dosage and Administration (2.3) and Adverse Reactions (6.1)].
+KEYTRUDA can cause primary or secondary adrenal insufficiency.
+For Grade 2 or higher adrenal insufficiency, initiate symptomatic treatment, including hormone replacement as clinically indicated.
+Withhold KEYTRUDA depending on severity [see Dosage and Administration (2.3)].
 
-Adrenal insufficiency occurred in 0.8% (22/2799) of patients receiving KEYTRUDA, including Grade 4 (<0.1%), Grade 3 (0.3%), and Grade 2 (0.3%) adrenal insufficiency.
-The median time to onset was 5.3 months (range: 26 days to 16.6 months), and the median duration was not reached (range: 4 days to 1.9+ years).
-Adrenal insufficiency led to permanent discontinuation of KEYTRUDA in <0.1% of patients and withholding of KEYTRUDA in 0.3% of patients.
-
-Systemic corticosteroids were required in 77% (17/22) of patients with adrenal insufficiency, including 9% who received high-dose corticosteroids (prednisone ≥40 mg per day or equivalent) for median duration of 4 days (range: 1 to 6 days) followed by corticosteroid taper.
-Adrenal insufficiency resolved in 23% of the patients.
+Adrenal insufficiency occurred in 0.8% (22/2799) of patients receiving KEYTRUDA, including Grade 4 (<0.1%), Grade 3 (0.3%), and Grade 2 (0.3%) adverse reactions.
+Systemic corticosteroids were required in 77% (17/22) of patients with adrenal insufficiency; of these, the majority remained on systemic corticosteroids.
+Adrenal insufficiency led to permanent discontinuation of KEYTRUDA in <0.1% (1) of patients and withholding of KEYTRUDA in 0.3% (8) of patients.
+All patients who were withheld reinitiated KEYTRUDA after symptom improvement.
 
 Hypophysitis
 
-KEYTRUDA can cause hypophysitis.
-Monitor for signs and symptoms of hypophysitis (including hypopituitarism).
-Administer corticosteroids and hormone replacement as clinically indicated.
-Withhold KEYTRUDA for moderate (Grade 2) hypophysitis and withhold or discontinue KEYTRUDA for severe (Grade 3) or life-threatening (Grade 4) hypophysitis [see Dosage and Administration (2.3) and Adverse Reactions (6.1)].
+KEYTRUDA can cause immune-mediated hypophysitis.
+Hypophysitis can present with acute symptoms associated with mass effect such as headache, photophobia, or visual field defects.
+Hypophysitis can cause hypopituitarism.
+Initiate hormone replacement as indicated.
+Withhold or permanently discontinue KEYTRUDA depending on severity [see Dosage and Administration (2.3)].
 
-Hypophysitis occurred in 17 (0.6%) of 2799 patients receiving KEYTRUDA, including Grade 2 (0.2%), Grade 3 (0.3%), and Grade 4 (<0.1%) hypophysitis.
-The median time to onset was 3.7 months (range: 1 day to 11.9 months), and the median duration was 4.7 months (range: 8+ days to 12.7+ months).
-Sixteen (94%) of the 17 patients received systemic corticosteroids, with 6 of the 16 receiving high-dose corticosteroids.
-Hypophysitis led to discontinuation of KEYTRUDA in 4 (0.1%) patients.
-Hypophysitis resolved in 7 (41%) of the 17 patients.
+Hypophysitis occurred in 0.6% (17/2799) of patients receiving KEYTRUDA, including Grade 4 (<0.1%), Grade 3 (0.3%), and Grade 2 (0.2%) adverse reactions.
+Systemic corticosteroids were required in 94% (16/17) of patients with hypophysitis; of these, the majority remained on systemic corticosteroids.
+Hypophysitis led to permanent discontinuation of KEYTRUDA in 0.1% (4) of patients and withholding of KEYTRUDA in 0.3% (7) of patients.
+All patients who were withheld reinitiated KEYTRUDA after symptom improvement.
 
 Thyroid Disorders
 
-KEYTRUDA can cause thyroid disorders, including hyperthyroidism, hypothyroidism and thyroiditis.
-Monitor patients for changes in thyroid function (at the start of treatment, periodically during treatment, and as indicated based on clinical evaluation) and for clinical signs and symptoms of thyroid disorders.
-Administer replacement hormones for hypothyroidism and manage hyperthyroidism with thionamides and beta-blockers as appropriate.
-Withhold or discontinue KEYTRUDA for severe (Grade 3) or life-threatening (Grade 4) hyperthyroidism [see Dosage and Administration (2.3) and Adverse Reactions (6.1)].
+KEYTRUDA can cause immune-mediated thyroid disorders.
+Thyroiditis can present with or without endocrinopathy.
+Hypothyroidism can follow hyperthyroidism.
+Initiate hormone replacement for hypothyroidism or institute medical management of hyperthyroidism as clinically indicated.
+Withhold or permanently discontinue KEYTRUDA depending on severity [see Dosage and Administration (2.3)].
 
-Hyperthyroidism occurred in 96 (3.4%) of 2799 patients receiving KEYTRUDA, including Grade 2 (0.8%) and Grade 3 (0.1%) hyperthyroidism.
-The median time to onset was 1.4 months (range: 1 day to 21.9 months), and the median duration was 2.1 months (range: 3 days to 15.0+ months).
-Hyperthyroidism led to discontinuation of KEYTRUDA in 2 (<0.1%) patients.
-Hyperthyroidism resolved in 71 (74%) of the 96 patients.
+Thyroiditis occurred in 0.6% (16/2799) of patients receiving KEYTRUDA, including Grade 2 (0.3%).
+No patients discontinued KEYTRUDA due to thyroiditis.
+KEYTRUDA was withheld in <0.1% (1) of patients.
 
-Hypothyroidism occurred in 237 (8.5%) of 2799 patients receiving KEYTRUDA, including Grade 2 (6.2%) and Grade 3 (0.1%) hypothyroidism.
-The median time to onset was 3.5 months (range: 1 day to 18.9 months), and the median duration was not reached (range: 2 days to 27.7+ months).
-Hypothyroidism led to discontinuation of KEYTRUDA in 1 (<0.1%) patient.
-Hypothyroidism resolved in 48 (20%) of the 237 patients.
-The incidence of new or worsening hypothyroidism was higher in 1185 patients with HNSCC (16%) receiving KEYTRUDA as a single agent or in combination with platinum and FU, including Grade 3 (0.3%) hypothyroidism.
+Hyperthyroidism occurred in 3.4% (96/2799) of patients receiving KEYTRUDA, including Grade 3 (0.1%) and Grade 2 (0.8%).
+Hyperthyroidism led to permanent discontinuation of KEYTRUDA in <0.1% (2) of patients and withholding of KEYTRUDA in 0.3% (7) of patients.
+All patients who were withheld reinitiated KEYTRUDA after symptom improvement.
+
+Hypothyroidism occurred in 8% (237/2799) of patients receiving KEYTRUDA, including Grade 3 (0.1%) and Grade 2 (6.2%).
+Hypothyroidism led to permanent discontinuation of KEYTRUDA in <0.1% (1) of patients and withholding of KEYTRUDA in 0.5% (14) of patients.
+All patients who were withheld reinitiated KEYTRUDA after symptom improvement.
+The majority of patients with hypothyroidism required long-term thyroid hormone replacement.
+
+The incidence of new or worsening hypothyroidism was higher in 1185 patients with HNSCC, occurring in 16% of patients receiving KEYTRUDA as a single agent or in combination with platinum and FU, including Grade 3 (0.3%) hypothyroidism.
 The incidence of new or worsening hypothyroidism was higher in 389 patients with cHL (17%) receiving KEYTRUDA as a single agent, including Grade 1 (6.2%) and Grade 2 (10.8%) hypothyroidism.
 
-Thyroiditis occurred in 16 (0.6%) of 2799 patients receiving KEYTRUDA, including Grade 2 (0.3%) thyroiditis.
-The median time of onset was 1.2 months (range: 0.5 to 3.5 months).
+Type 1 Diabetes Mellitus, which can present with Diabetic Ketoacidosis
 
-Type 1 Diabetes mellitus
-
-KEYTRUDA can cause type 1 diabetes mellitus, including diabetic ketoacidosis, which have been reported in 6 (0.2%) of 2799 patients receiving KEYTRUDA.
 Monitor patients for hyperglycemia or other signs and symptoms of diabetes.
-Administer insulin for type 1 diabetes and withhold KEYTRUDA and administer anti-hyperglycemics in patients with severe hyperglycemia [see Dosage and Administration (2.3) and Adverse Reactions (6.1)].
+Initiate treatment with insulin as clinically indicated.
+Withhold KEYTRUDA depending on severity [see Dosage and Administration (2.3)].
 
-## 5.5 Immune-Mediated Nephritis and Renal Dysfunction
+Type 1 diabetes mellitus occurred in 0.2% (6/2799) of patients receiving KEYTRUDA.
+Type 1 diabetes mellitus led to permanent discontinuation in <0.1% (1) of patients and withholding of KEYTRUDA in <0.1% (1) of patients.
+All patients who were withheld reinitiated KEYTRUDA after symptom improvement.
+All patients with Type 1 diabetes mellitus required long-term insulin therapy.
+
+Immune-Mediated Nephritis with Renal Dysfunction
 
 KEYTRUDA can cause immune-mediated nephritis.
-Monitor patients for changes in renal function.
-Administer corticosteroids (initial dose of 1 to 2 mg/kg/day prednisone or equivalent followed by a taper) for Grade 2 or greater nephritis.
-Withhold KEYTRUDA for moderate (Grade 2), and permanently discontinue KEYTRUDA for severe (Grade 3) or life-threatening (Grade 4) nephritis [see Dosage and Administration (2.3) and Adverse Reactions (6.1)].
+Immune-mediated nephritis occurred in 0.3% (9/2799) of patients receiving KEYTRUDA, including Grade 4 (<0.1%), Grade 3 (0.1%), and Grade 2 (0.1%) adverse reactions.
+Systemic corticosteroids were required in 89% (8/9) of patients with nephritis.
+Nephritis led to permanent discontinuation of KEYTRUDA in 0.1% (3) of patients and withholding of KEYTRUDA in 0.1% (3) of patients.
+All patients who were withheld reinitiated KEYTRUDA after symptom improvement; of these, none had recurrence of nephritis.
+Nephritis resolved in 56% of the 9 patients.
 
-Nephritis occurred in 9 (0.3%) of 2799 patients receiving KEYTRUDA, including Grade 2 (0.1%), Grade 3 (0.1%), and Grade 4 (<0.1%) nephritis.
-The median time to onset was 5.1 months (range: 12 days to 12.8 months), and the median duration was 3.3 months (range: 12 days to 8.9+ months).
-Eight (89%) of the 9 patients received systemic corticosteroids, with 7 of the 8 receiving high-dose corticosteroids for a median duration of 15 days (range: 3 days to 4.0 months) followed by a corticosteroid taper.
-Nephritis led to discontinuation of KEYTRUDA in 3 (0.1%) patients.
-Nephritis resolved in 5 (56%) of the 9 patients.
-Nephritis occurred in 1.7% of 405 patients receiving KEYTRUDA in combination with pemetrexed and platinum in the KEYNOTE-189 study, including Grade 3 (1%) and Grade 4 (0.5%) nephritis.
-The median time to onset was 3.2 months (range: 16 days to 11.1 months) and the duration ranged from 1.6 to 16.8+ months.
-Six (86%) of the 7 patients received systemic corticosteroids, with all 6 receiving high-dose corticosteroids for a median duration of 3 days (range: 1 to 17 days) followed by a corticosteroid taper.
-Nephritis led to discontinuation of KEYTRUDA in 5 (1.2%) patients.
-Nephritis resolved in 2 (29%) of the 7 patients.
+Immune-Mediated Dermatologic Adverse Reactions
 
-## 5.6 Immune-Mediated Skin Adverse Reactions
+KEYTRUDA can cause immune-mediated rash or dermatitis.
+Exfoliative dermatitis, including Stevens Johnson Syndrome, DRESS, and toxic epidermal necrolysis (TEN), has occurred with PD-1/PD-L1 blocking antibodies.
+Topical emollients and/or topical corticosteroids may be adequate to treat mild to moderate non-exfoliative rashes.
+Withhold or permanently discontinue KEYTRUDA depending on severity [see Dosage and Administration (2.3)].
 
-Immune-mediated rashes, including SJS, TEN (some cases with fatal outcome), exfoliative dermatitis, and bullous pemphigoid, can occur.
-Monitor patients for suspected severe skin reactions and exclude other causes.
-Based on the severity of the adverse reaction, withhold or permanently discontinue KEYTRUDA and administer corticosteroids.
-For signs or symptoms of SJS or TEN, withhold KEYTRUDA and refer the patient for specialized care for assessment and treatment.
-If SJS or TEN is confirmed, permanently discontinue KEYTRUDA [see Dosage and Administration (2.3)].
+Immune-mediated dermatologic adverse reactions occurred in 1.4% (38/2799) of patients receiving KEYTRUDA, including Grade 3 (1%) and Grade 2 (0.1%) adverse reactions.
+Systemic corticosteroids were required in 40% (15/38) of patients with immune-mediated dermatologic adverse reactions.
+Immune-mediated dermatologic adverse reactions led to permanent discontinuation of KEYTRUDA in 0.1% (2) of patients and withholding of KEYTRUDA in 0.6% (16) of patients.
+All patients who were withheld reinitiated KEYTRUDA after symptom improvement; of these, 6% had recurrence of immune-mediated dermatologic adverse reactions.
+Immune-mediated dermatologic adverse reactions resolved in 79% of the 38 patients.
 
-## 5.7 Other Immune-Mediated Adverse Reactions
+Other Immune-Mediated Adverse Reactions
 
-Immune-mediated adverse reactions, which may be severe or fatal, can occur in any organ system or tissue in patients receiving KEYTRUDA.
-While immune-mediated adverse reactions usually occur during treatment with PD-1/PD-L1 blocking antibodies, they may occur after discontinuation of treatment.
+The following clinically significant immune-mediated adverse reactions occurred at an incidence of <1% (unless otherwise noted) in patients who received KEYTRUDA or were reported with the use of other PD-1/PD-L1 blocking antibodies.
+Severe or fatal cases have been reported for some of these adverse reactions.
 
-For suspected immune-mediated adverse reactions, ensure adequate evaluation to confirm etiology or exclude other causes.
-Based on the severity of the adverse reaction, withhold KEYTRUDA and administer corticosteroids.
-Upon improvement to Grade 1 or less, initiate corticosteroid taper and continue to taper over at least 1 month.
-Based on limited data from clinical studies in patients whose immune-related adverse reactions could not be controlled with corticosteroid use, administration of other systemic immunosuppressants can be considered.
-Resume KEYTRUDA when the immune-mediated adverse reaction remains at Grade 1 or less following corticosteroid taper.
-Permanently discontinue KEYTRUDA for any Grade 3 immune-mediated adverse reaction that recurs and for any life-threatening immune-mediated adverse reaction [see Dosage and Administration (2.3) and Adverse Reactions (6.1)].
+Cardiac/Vascular: Myocarditis, pericarditis, vasculitis
 
-The following clinically significant, immune-mediated adverse reactions occurred in less than 1% (unless otherwise indicated) of 2799 patients treated with KEYTRUDA: arthritis (1.5%), uveitis, myositis, Guillain-Barré syndrome, myasthenia gravis, vasculitis, pancreatitis, hemolytic anemia, sarcoidosis, and encephalitis.
-In addition, myelitis and myocarditis were reported in other trials, including cHL, and post-marketing use.
+Nervous System: Meningitis, encephalitis, myelitis and demyelination, myasthenic syndrome/myasthenia gravis (including exacerbation), Guillain-Barré syndrome, nerve paresis, autoimmune neuropathy
 
-Solid organ transplant rejection has been reported in the post-marketing setting in patients treated with KEYTRUDA.
-Treatment with KEYTRUDA may increase the risk of rejection in solid organ transplant recipients.
-Consider the benefit of treatment with KEYTRUDA versus the risk of possible organ rejection in these patients.
+Ocular: Uveitis, iritis and other ocular inflammatory toxicities can occur.
+Some cases can be associated with retinal detachment.
+Various grades of visual impairment, including blindness, can occur.
+If uveitis occurs in combination with other immune-mediated adverse reactions, consider a Vogt-Koyanagi-Harada-like syndrome, as this may require treatment with systemic steroids to reduce the risk of permanent vision loss.
 
-## 5.8 Infusion-Related Reactions
+Gastrointestinal: Pancreatitis, to include increases in serum amylase and lipase levels, gastritis, duodenitis
 
-KEYTRUDA can cause severe or life-threatening infusion-related reactions, including hypersensitivity and anaphylaxis, which have been reported in 6 (0.2%) of 2799 patients receiving KEYTRUDA.
+Musculoskeletal and Connective Tissue: Myositis/polymyositis, rhabdomyolysis (and associated sequelae, including renal failure), arthritis (1.5%), polymyalgia rheumatica
+
+Endocrine: Hypoparathyroidism
+
+Hematologic/Immune: Hemolytic anemia, aplastic anemia, hemophagocytic lymphohistiocytosis, systemic inflammatory response syndrome, histiocytic necrotizing lymphadenitis (Kikuchi lymphadenitis), sarcoidosis, immune thrombocytopenic purpura, solid organ transplant rejection
+
+## 5.2 Infusion-Related Reactions
+
+KEYTRUDA can cause severe or life-threatening infusion-related reactions, including hypersensitivity and anaphylaxis, which have been reported in 0.2% of 2799 patients receiving KEYTRUDA.
 Monitor patients for signs and symptoms of infusion-related reactions including rigors, chills, wheezing, pruritus, flushing, rash, hypotension, hypoxemia, and fever.
+Interrupt or slow the rate of infusion for mild (Grade 1) or moderate (Grade 2) infusion-related reactions.
 For severe (Grade 3) or life-threatening (Grade 4) infusion-related reactions, stop infusion and permanently discontinue KEYTRUDA [see Dosage and Administration (2.3)].
 
-## 5.9 Complications of Allogeneic HSCT
+## 5.3 Complications of Allogeneic HSCT
 
 Fatal and other serious complications can occur in patients who receive allogeneic hematopoietic stem cell transplantation (HSCT) before or after being treated with a PD-1/PD-L1 blocking antibody.
 Transplant-related complications include hyperacute graft-versus-host-disease (GVHD), acute GVHD, chronic GVHD, hepatic veno-occlusive disease (VOD) after reduced intensity conditioning, and steroid-requiring febrile syndrome (without an identified infectious cause).
@@ -192,12 +196,12 @@ These complications may occur despite intervening therapy between PD-1/PD-L1 blo
 Follow patients closely for evidence of transplant-related complications and intervene promptly.
 Consider the benefit versus risks of treatment with a PD-1/PD-L1 blocking antibody prior to or after an allogeneic HSCT.
 
-## 5.10 Increased Mortality in Patients with Multiple Myeloma when KEYTRUDA is Added to a Thalidomide Analogue and Dexamethasone
+## 5.4 Increased Mortality in Patients with Multiple Myeloma when KEYTRUDA is Added to a Thalidomide Analogue and Dexamethasone
 
 In two randomized trials in patients with multiple myeloma, the addition of KEYTRUDA to a thalidomide analogue plus dexamethasone, a use for which no PD-1 or PD-L1 blocking antibody is indicated, resulted in increased mortality.
 Treatment of patients with multiple myeloma with a PD-1 or PD-L1 blocking antibody in combination with a thalidomide analogue plus dexamethasone is not recommended outside of controlled trials.
 
-## 5.11 Embryo-Fetal Toxicity
+## 5.5 Embryo-Fetal Toxicity
 
 Based on its mechanism of action, KEYTRUDA can cause fetal harm when administered to a pregnant woman.
 Animal models link the PD-1/PD-L1 signaling pathway with maintenance of pregnancy through induction of maternal immune tolerance to fetal tissue.

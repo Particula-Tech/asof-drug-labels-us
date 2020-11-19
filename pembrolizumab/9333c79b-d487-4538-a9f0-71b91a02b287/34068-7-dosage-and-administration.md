@@ -41,42 +41,48 @@ Table 1: Recommended Dosage
 
 ## 2.3 Dose Modifications
 
-No dose reductions of KEYTRUDA are recommended.
-Withhold or discontinue KEYTRUDA to manage adverse reactions as described in Table 2.
+No dose reduction for KEYTRUDA is recommended.
+In general, withhold KEYTRUDA for severe (Grade 3) immune-mediated adverse reactions.
+Permanently discontinue KEYTRUDA for Life-threatening (Grade 4) immune-mediated adverse reactions, recurrent severe (Grade 3) immune-mediated reactions that require systemic immunosuppressive treatment, or an inability to reduce corticosteroid dose to 10 mg or less of prednisone or equivalent per day within 12 weeks of initiating steroids.
 
-Table 2: Recommended Dose Modifications for Adverse Reactions [see Warnings and Precautions (5.1-5.8)]
+Dosage modifications for KEYTRUDA for adverse reactions that require management different from these general guidelines are summarized in Table 2.
 
-| Adverse Reaction | SeverityToxicity was graded per National Cancer Institute Common Terminology Criteria for Adverse Events. Version 4.0 (NCI CTCAE v4) | Dose Modification for KEYTRUDA |
+Table 2: Recommended Dosage Modifications for Adverse Reactions
+
+| Adverse Reaction | SeverityBased on Common Terminology Criteria for Adverse Events (CTCAE), version 4.0 | Dosage Modification |
 | --- | --- | --- |
-| Immune-mediated pneumonitis | Grade 2 | WithholdResume in patients with complete or partial resolution (Grades 0 to 1) after corticosteroid taper. |
-| Grades 3 or 4 or recurrent Grade 2 | Permanently discontinue |  |
-| Immune-mediated colitis | Grades 2 or 3 | Withhold |
+| Immune-Mediated Adverse Reactions [see Warnings and Precautions (5.1)] |  |  |
+| Pneumonitis | Grade 2 | WithholdResume in patients with complete or partial resolution (Grades 0 to 1) after corticosteroid taper. Permanently discontinue if no complete or partial resolution within 12 weeks of initiating steroids or inability to reduce prednisone to 10 mg per day or less (or equivalent) within 12 weeks of initiating steroids. |
+| Grade 3 or 4 | Permanently discontinue |  |
+| Colitis | Grade 2 or 3 | Withhold |
 | Grade 4 | Permanently discontinue |  |
-| Immune-mediated hepatitis in patients with HCC | Aspartate aminotransferase (AST) or alanine aminotransferase (ALT) greater than or equal to 5 times upper limit of normal (ULN) if baseline less than 2 times ULN; AST or ALT greater than 3 times baseline if baseline greater than or equal to 2 times ULN Total bilirubin greater than 2.0 mg/dL if baseline less than 1.5 mg/dL; or Total bilirubin greater than 3.0 mg/dL, regardless of baseline levels | WithholdResume in HCC patients when AST or ALT and total bilirubin recover to Grades 0-1 or to baseline. |
-| ALT or AST greater than 10 times ULN; or Child-Pugh score greater than or equal to 9 points; Gastrointestinal bleeding suggestive of portal hypertension; or New onset of clinically detectable ascites; or encephalopathy | Permanently discontinue |  |
-| Immune-mediated hepatitis in patients without HCC | AST or ALT greater than 3 but no more than 5 times the ULN or total bilirubin greater than 1.5 but no more than 3 times the ULN | Withhold |
-| For liver enzyme elevations in RCC patients treated with combination therapy, see dosing guidelines following this table. | In patients without liver metastases, AST or ALT greater than 5 times ULN or total bilirubin greater than 3 times ULN In patients with liver metastasis and Grade 2 AST or ALT at baseline, with an increase in AST or ALT of 50% or more relative to baseline that persists for at least 1 week | Permanently discontinue |
-| Immune-mediated endocrinopathies | Grades 3 or 4 | Withhold until clinically stable |
-| Immune-mediated nephritis | Grade 2 | Withhold |
-| Grades 3 or 4 | Permanently discontinue |  |
-| Immune-mediated skin adverse reactions | Grade 3 or suspected Stevens-Johnson Syndrome (SJS) or toxic epidermal necrolysis (TEN) | Withhold |
-| Grade 4 or confirmed SJS or TEN | Permanently discontinue |  |
+| Hepatitis with no tumor involvement of the liver | AST or ALT increases to more than 3 and up to 8 times ULN or Total bilirubin increases to more than 1.5 and up to 3 times ULN | Withhold |
+| For liver enzyme elevations in patients treated with combination therapy with axitinib, see Table 3. | AST or ALT increases to more than 8 times ULN or Total bilirubin increases to more than 3 times ULN | Permanently discontinue |
+| Hepatitis with tumor involvement of the liverIf AST and ALT are less than or equal to ULN at baseline, withhold or permanently discontinue KEYTRUDA based on recommendations for hepatitis with no liver involvement. | Baseline AST or ALT is more than 1 and up to 3 times ULN and increases to more than 5 and up to 10 times ULN or Baseline AST or ALT is more than 3 and up to 5 times ULN and increases to more than 8 and up to 10 times ULN | Withhold |
+| ALT or AST increases to more than 10 times ULN or Total bilirubin increases to more than 3 times ULN | Permanently discontinue |  |
+| Endocrinopathies | Grade 3 or 4 | Withhold until clinically stable or permanently discontinue depending on severity |
+| Nephritis with Renal Dysfunction | Grade 2 or 3 increased blood creatinine | Withhold |
+| Grade 4 increased blood creatinine | Permanently discontinue |  |
+| Exfoliative Dermatologic Conditions | Suspected SJS, TEN, or DRESS | Withhold |
+| Confirmed SJS, TEN, or DRESS | Permanently discontinue |  |
+| Myocarditis | Grade 2, 3, or 4 | Permanently discontinue |
+| Neurological Toxicities | Grade 2 | Withhold |
+| Grade 3 or 4 | Permanently discontinue |  |
 | Hematologic toxicity in patients with cHL or PMBCL | Grade 4 | Withhold until resolution to Grades 0 or 1 |
-| Other immune-mediated adverse reactions | Grades 2 or 3 based on the severity and type of reaction | Withhold |
-| Grade 3 based on the severity and type of reaction or Grade 4 | Permanently discontinue |  |
-| Recurrent immune-mediated adverse reactions | Recurrent Grade 2 pneumonitis Recurrent Grades 3 or 4 | Permanently discontinue |
-| Inability to taper corticosteroid | Requirement for 10 mg per day or greater prednisone or equivalent for more than 12 weeks after last dose of KEYTRUDA | Permanently discontinue |
-| Persistent Grade 2 or 3 adverse reaction (excluding endocrinopathy) | Grades 2 or 3 adverse reactions lasting 12 weeks or longer after last dose of KEYTRUDA | Permanently discontinue |
-| Infusion-related reactions | Grades 1 or 2 | Interrupt or slow the rate of infusion |
-| Grades 3 or 4 | Permanently discontinue |  |
+| Other Adverse Reactions |  |  |
+| Infusion-related reactions [see Warnings and Precautions (5.2)] | Grade 1 or 2 | Interrupt or slow the rate of infusion |
+| Grade 3 or 4 | Permanently discontinue |  |
+| ALT = alanine aminotransferase, AST = aspartate aminotransferase, DRESS = Drug Rash with Eosinophilia and Systemic Symptoms, SJS = Stevens Johnson Syndrome, TEN = toxic epidermal necrolysis, ULN = upper limit normal |  |  |
 
-In patients with RCC being treated with KEYTRUDA in combination with axitinib:
+The following table represents dosage modifications that are different from those described above for KEYTRUDA or in the Full Prescribing Information for the drug administered in combination.
 
-- If ALT or AST ≥3 times ULN but <10 times ULN without concurrent total bilirubin ≥2 times ULN, withhold both KEYTRUDA and axitinib until these adverse reactions recover to Grades 0-1.
-  Consider corticosteroid therapy.
-  Consider rechallenge with a single drug or sequential rechallenge with both drugs after recovery.
-  If rechallenging with axitinib, consider dose reduction as per the axitinib Prescribing Information.
-- If ALT or AST ≥10 times ULN or >3 times ULN with concurrent total bilirubin ≥2 times ULN, permanently discontinue both KEYTRUDA and axitinib and consider corticosteroid therapy.
+Table 3: Recommended Specific Dosage Modifications for Adverse Reactions for Combination
+
+| Treatment | Adverse Reaction | Severity | Dosage Modification |
+| --- | --- | --- | --- |
+| KEYTRUDA in combination with axitinib | Liver enzyme elevationsConsider corticosteroid therapy | ALT or AST increases to at least 3 times but less than 10 times ULN without concurrent total bilirubin at least 2 times ULN | Withhold both KEYTRUDA and axitinib until resolution to Grades 0 or 1Based on Common Terminology Criteria for Adverse Events (CTCAE), version 4.0. Consider rechallenge with a single drug or sequential rechallenge with both drugs after recovery. If rechallenging with axitinib, consider dose reduction as per the axitinib Prescribing Information. |
+| ALT or AST increases to more than 3 times ULN with concurrent total bilirubin at least 2 times ULN or ALT or AST ≥10 times ULN | Permanently discontinue both KEYTRUDA and axitinib |  |  |
+| ALT = alanine aminotransferase, AST = aspartate aminotransferase, ULN = upper limit normal |  |  |  |
 
 When administering KEYTRUDA in combination with lenvatinib for the treatment of endometrial carcinoma, interrupt one or both as appropriate.
 No dose reductions are recommended for KEYTRUDA.
