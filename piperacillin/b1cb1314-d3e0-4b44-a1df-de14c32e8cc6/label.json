@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "ANDA203557"
+  ],
+  "inn": "piperacillin",
+  "labeler": "Sandoz Inc",
+  "package_ndcs": [
+    "0781-3117-46"
+  ],
+  "products": [
+    {
+      "form": "INJECTION, POWDER, LYOPHILIZED, FOR SOLUTION",
+      "generic": "piperacillin and tazobactam",
+      "name": "Piperacillin and Tazobactam"
+    }
+  ],
+  "setid": "b1cb1314-d3e0-4b44-a1df-de14c32e8cc6",
+  "source": "dailymed"
+}
