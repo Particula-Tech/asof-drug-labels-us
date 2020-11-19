@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "NDA020298"
+  ],
+  "inn": "allopurinol",
+  "labeler": "Mylan Institutional LLC",
+  "package_ndcs": [
+    "67457-978-50"
+  ],
+  "products": [
+    {
+      "form": "INJECTION, POWDER, LYOPHILIZED, FOR SOLUTION",
+      "generic": "allopurinol",
+      "name": "Aloprim"
+    }
+  ],
+  "setid": "018525b1-e37d-4ff2-9dc3-36b3d90ac3e0",
+  "source": "dailymed"
+}
