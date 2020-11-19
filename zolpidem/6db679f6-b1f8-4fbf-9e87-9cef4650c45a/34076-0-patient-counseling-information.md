@@ -56,7 +56,9 @@ Lupin Pharmaceuticals, Inc.
 
 Baltimore, MD 21202
 
-PI7610000204
-
 Rev.
-09/2019
+12/2019
+
+PI7610000205
+
+SAP code: 263479

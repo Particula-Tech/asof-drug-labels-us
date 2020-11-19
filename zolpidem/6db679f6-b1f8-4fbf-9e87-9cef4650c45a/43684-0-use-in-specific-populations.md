@@ -12,9 +12,9 @@ Zolpidem Tartrate Sublingual Tablets should be used during pregnancy only if the
 
 Administration of zolpidem to pregnant rats and rabbits resulted in adverse effects on offspring at doses greater than the recommended human dose (RHD) of 3.5 mg/day (approximately 2.8 mg/day zolpidem base); however, teratogenicity was not observed.
 
-When zolpidem was administered at oral doses of 4, 20, and 100 mg base/kg/day to pregnant rats during the period of organogenesis, dose-related decreases in fetal skull ossification were observed at all but the lowest dose, which is approximately 15 times the RHD on a mg/m2 basis.
+When zolpidem was administered at oral doses of 4, 20, and 100 mg base/kg/day to pregnant rats during the period of organogenesis, dose-related decreases in fetal skull ossification were observed at all but the lowest dose, which is approximately 15 times the RHD on a mg/m 2 basis.
 In rabbits treated during organogenesis with zolpidem at oral doses of 1, 4, and 16 mg base/kg/day, increased embryo-fetal death and incomplete fetal skull ossification were seen at the highest dose tested.
-The no-effect dose for embryo-fetal toxicity in rabbits is approximately 30 times the RHD on a mg/m2 basis.
+The no-effect dose for embryo-fetal toxicity in rabbits is approximately 30 times the RHD on a mg/m 2 basis.
 
 Administration of zolpidem to rats at oral doses of 4, 20, and 100 mg base/kg/day during the latter part of pregnancy and throughout lactation produced decreased offspring growth and survival at all but the lowest dose, which is approximately 15 times the RHD on a mg/m2 basis.
 
@@ -61,5 +61,5 @@ Table 2: Adverse Reactions in Geriatric Patients in Pooled Trials of 5 mg to 10 
 ## 8.6 Gender Difference in Pharmacokinetics
 
 Women cleared zolpidem tartrate from the body after sublingual administration of a 3.5 mg dose of Zolpidem Tartrate Sublingual Tablets at a lower rate than men (2.7 mL/min/kg vs. 4.0 mL/min/kg).
-Cmax and AUC parameters of zolpidem were approximately 45% higher at the same dose in female subjects compared with male subjects.
+C max and AUC parameters of zolpidem were approximately 45% higher at the same dose in female subjects compared with male subjects.
 Given the higher blood levels of zolpidem tartrate in women compared to men at a given dose, the recommended dose of Zolpidem Tartrate Sublingual Tablets for women is 1.75 mg, and the recommended dose for adult men is 3.5 mg.

@@ -6,7 +6,7 @@ Zolpidem Tartrate Sublingual Tablets are intended to be placed under the tongue 
 
 Zolpidem Tartrate Sublingual Tablets contain a bicarbonate-carbonate buffer.
 
-Chemically, zolpidem tartrate is N,N-6-trimethyl-2-p-tolylimidazo[1,2-α]pyridine-3-acetamide L-(+)-tartrate (2:1).
+Chemically, zolpidem tartrate is N,N-6-trimethyl-2- p-tolylimidazo[1,2- α]pyridine-3-acetamide L-(+)-tartrate (2:1).
 
 Zolpidem tartrate is a white to almost white crystalline powder that is sparingly soluble in water, alcohol, and propylene glycol.
 It has a molecular weight of 764.88.

@@ -1,6 +1,6 @@
 # MEDICATION GUIDE
 
-Zolpidem Tartrate (ZOL-pi-dem TAR-trate or zole-PI-dem TAR-trate) Sublingual Tablet CIV
+Zolpidem Tartrate ((zol' pi dem tar' trate)) Sublingual Tablet CIV
 
 Phenylketonurics
 
@@ -90,7 +90,7 @@ Keep a list of your medicines with you to show your doctor and pharmacist each t
 How should I take Zolpidem Tartrate Sublingual Tablet?
 
 - See "What is the most important information I should know about Zolpidem Tartrate Sublingual Tablet "
-- Read the "Instructions for Use" at the end of this Medication Guide for detailed instructions on how to take Zolpidem Tartrate Sublingual Tablet.
+- Read the " Instructions for Use" at the end of this Medication Guide for detailed instructions on how to take Zolpidem Tartrate Sublingual Tablet.
 - Take Zolpidem Tartrate Sublingual Tablet exactly as prescribed.
   Only take one Zolpidem Tartrate Sublingual Tablet per night if needed.
 - Do not take Zolpidem Tartrate Sublingual Tablet if you drank alcohol that evening or before bed.
@@ -172,11 +172,11 @@ Manufactured for:
 Lupin Pharmaceuticals, Inc. Baltimore, MD 21202
 
 Rev.
-09/2019
+12/2019
 
 Instructions for Use
 
-Zolpidem Tartrate (ZOL-pi-dem TAR-trate or zole-PI-dem TAR-trate) Sublingual Tablet CIV
+Zolpidem Tartrate ((zol' pi dem tar' trate)) Sublingual Tablet CIV
 
 Read these Instructions for Use before you start taking Zolpidem Tartrate Sublingual Tablet and each time you get a refill.
 There may be new information.
@@ -256,7 +256,9 @@ Lupin Pharmaceuticals, Inc.
 
 Baltimore, MD 21202
 
-PI7610000204
-
 Rev.
-09/2019
+12/2019
+
+PI7610000205
+
+SAP code: 263479

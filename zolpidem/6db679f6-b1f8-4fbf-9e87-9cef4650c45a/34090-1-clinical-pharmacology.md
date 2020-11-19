@@ -4,21 +4,21 @@
 
 Zolpidem, the active moiety of zolpidem tartrate, is a hypnotic agent with a chemical structure unrelated to benzodiazepines, barbiturates, or other drugs with known hypnotic properties.
 It interacts with a GABA-BZ complex and shares some of the pharmacological properties of the benzodiazepines.
-In contrast to the benzodiazepines, which nonselectively bind to and activate all BZ receptor subtypes, zolpidem in vitro binds the BZ1 receptor preferentially with a high affinity ratio of the alpha1/alpha5 subunits.
-This selective binding of zolpidem on the BZ1 receptor is not absolute, but it may explain the relative absence of myorelaxant and anticonvulsant effects in animal studies as well as the preservation of deep sleep (stages 3 and 4) in human studies of zolpidem at hypnotic doses.
+In contrast to the benzodiazepines, which nonselectively bind to and activate all BZ receptor subtypes, zolpidem in vitro binds the BZ 1 receptor preferentially with a high affinity ratio of the alpha 1/alpha 5 subunits.
+This selective binding of zolpidem on the BZ 1 receptor is not absolute, but it may explain the relative absence of myorelaxant and anticonvulsant effects in animal studies as well as the preservation of deep sleep (stages 3 and 4) in human studies of zolpidem at hypnotic doses.
 
 ## 12.3 Pharmacokinetics
 
 Absorption
 
 Zolpidem Tartrate Sublingual Tablets disintegrates in the sublingual cavity after administration.
-On average, Zolpidem Tartrate Sublingual Tablets are rapidly absorbed in both genders, with a mean Tmax across studies of about 35 minutes to about 75 minutes.
+On average, Zolpidem Tartrate Sublingual Tablets are rapidly absorbed in both genders, with a mean T max across studies of about 35 minutes to about 75 minutes.
 
-In healthy normal volunteers (age 21 to 45 years) dosed with 3.5 mg Zolpidem Tartrate Sublingual Tablets, the average Cmax and AUC were 77 ng/mL and 296 ng·h/mL, respectively in women.
-The average Cmax and AUC were 53 ng/mL and 198 ng·h/mL, respectively in men.
-In women, the average Cmax and AUC of the 1.75 mg Zolpidem Tartrate Sublingual Tablets dose were 37 ng/mL and 151 ng·h/mL, respectively.
+In healthy normal volunteers (age 21 to 45 years) dosed with 3.5 mg Zolpidem Tartrate Sublingual Tablets, the average C max and AUC were 77 ng/mL and 296 ng·h/mL, respectively in women.
+The average C max and AUC were 53 ng/mL and 198 ng·h/mL, respectively in men.
+In women, the average C max and AUC of the 1.75 mg Zolpidem Tartrate Sublingual Tablets dose were 37 ng/mL and 151 ng·h/mL, respectively.
 
-Food decreased the overall Cmax and AUC of Zolpidem Tartrate Sublingual Tablets 3.5 mg by 42% and 19%, respectively, and increased the time to peak exposure (Tmax) to nearly 3 hours.
+Food decreased the overall C max and AUC of Zolpidem Tartrate Sublingual Tablets 3.5 mg by 42% and 19%, respectively, and increased the time to peak exposure (T max) to nearly 3 hours.
 For optimal effect, Zolpidem Tartrate Sublingual Tablets should not be administered with or immediately after a meal.
 
 Distribution
@@ -36,19 +36,19 @@ The elimination half-life of a single dose of a 3.5 mg Zolpidem Tartrate Subling
 Special Populations
 
 Elderly: The recommended dose for Zolpidem Tartrate Sublingual Tablets is 1.75 mg.
-A pharmacokinetic study of 1.75 mg and 3.5 mg doses of Zolpidem Tartrate Sublingual Tablets showed that the plasma Cmax and AUC0-4hr in elderly subjects following the 3.5 mg dose was higher by 34% and 30%, respectively, than the non-elderly subjects.
-The Cmax and AUC of 1.75 mg in elderly subjects were consistently lower than those observed for the 3.5 mg dose in non-elderly subjects but consistently higher than the 1.75 mg dose in non-elderly subjects.
+A pharmacokinetic study of 1.75 mg and 3.5 mg doses of Zolpidem Tartrate Sublingual Tablets showed that the plasma C max and AUC 0-4hr in elderly subjects following the 3.5 mg dose was higher by 34% and 30%, respectively, than the non-elderly subjects.
+The C max and AUC of 1.75 mg in elderly subjects were consistently lower than those observed for the 3.5 mg dose in non-elderly subjects but consistently higher than the 1.75 mg dose in non-elderly subjects.
 The elimination half-life remained unchanged.
 
 Hepatic Impairment: The pharmacokinetics of oral zolpidem tartrate in eight patients with chronic hepatic insufficiency were compared to results in subjects with normal hepatic function.
-Following a single 20 mg oral zolpidem tartrate dose, mean Cmax and AUC were found to be two times (250 ng/mL vs. 499 ng/mL) and five times (788 ng·hr/mL vs. 4203 ng·hr/mL) higher, respectively, in hepatically compromised patients compared to subjects with normal hepatic function.
-Tmax did not change.
+Following a single 20 mg oral zolpidem tartrate dose, mean C max and AUC were found to be two times (250 ng/mL vs. 499 ng/mL) and five times (788 ng·hr/mL vs. 4203 ng·hr/mL) higher, respectively, in hepatically compromised patients compared to subjects with normal hepatic function.
+T max did not change.
 The mean half-life in cirrhotic patients of 9.9 hr (range: 4.1 to 25.8 hr) was greater than that observed in subjects with normal hepatic function of 2.2 hr (range: 1.6 to 2.4 hr). Dosing should be modified accordingly in patients with hepatic insufficiency [see Dosage and
 
 Administration (2.5)].
 
-Renal Impairment: The pharmacokinetics of zolpidem tartrate were studied in 11 patients with end-stage renal failure (mean ClCr = 6.5 ± 1.5 mL/min) undergoing hemodialysis three times a week, who were dosed with zolpidem tartrate 10 mg orally each day for 14 or 21 days.
-No statistically significant differences were observed for Cmax, Tmax, half-life, and AUC between the first and last day of drug administration when baseline concentration adjustments were made.
+Renal Impairment: The pharmacokinetics of zolpidem tartrate were studied in 11 patients with end-stage renal failure (mean Cl Cr = 6.5 ± 1.5 mL/min) undergoing hemodialysis three times a week, who were dosed with zolpidem tartrate 10 mg orally each day for 14 or 21 days.
+No statistically significant differences were observed for C max, T max, half-life, and AUC between the first and last day of drug administration when baseline concentration adjustments were made.
 Zolpidem was not hemodialyzable.
 No accumulation of unchanged drug appeared after 14 or 21 days.
 Zolpidem pharmacokinetics were not significantly different in renally-impaired patients.
@@ -68,7 +68,7 @@ The lack of a drug interaction following single-dose administration does not pre
 
 An additive adverse effect on psychomotor performance between alcohol and oral zolpidem was demonstrated [see Warnings and Precautions (5.1)].
 
-Following five consecutive nightly doses at bedtime of oral zolpidem tartrate 10 mg in the presence of sertraline 50 mg (17 consecutive daily doses, at 7:00 am, in healthy female volunteers), zolpidem Cmax was significantly higher (43%) and Tmax was significantly decreased (-53%).
+Following five consecutive nightly doses at bedtime of oral zolpidem tartrate 10 mg in the presence of sertraline 50 mg (17 consecutive daily doses, at 7:00 am, in healthy female volunteers), zolpidem C max was significantly higher (43%) and Tmax was significantly decreased (-53%).
 Pharmacokinetics of sertraline and N-desmethylsertraline were unaffected by zolpidem.
 
 A single-dose interaction study with zolpidem tartrate 10 mg and fluoxetine 20 mg at steady-state levels in male volunteers did not demonstrate any clinically significant pharmacokinetic or pharmacodynamic interactions.
@@ -80,13 +80,13 @@ Drugs that Affect Drug Metabolism via Cytochrome P450
 Some compounds known to inhibit CYP3A may increase exposure to zolpidem.
 The effect of inhibitors of other P450 enzymes on the pharmacokinetics of zolpidem is unknown.
 
-A single-dose interaction study with zolpidem tartrate 10 mg and itraconazole 200 mg at steady-state levels in male volunteers resulted in a 34% increase in AUC0-∞ of zolpidem tartrate.
+A single-dose interaction study with zolpidem tartrate 10 mg and itraconazole 200 mg at steady-state levels in male volunteers resulted in a 34% increase in AUC 0-∞ of zolpidem tartrate.
 There were no pharmacodynamic effects of zolpidem detected on subjective drowsiness, postural sway, or psychomotor performance.
 
-A single-dose interaction study with zolpidem tartrate 10 mg and rifampin 600 mg at steady-state levels in female subjects showed significant reductions of the AUC (-73%), Cmax (-58%), and T1/2 (-36 %) of zolpidem together with significant reductions in the pharmacodynamic effects of zolpidem tartrate.
+A single-dose interaction study with zolpidem tartrate 10 mg and rifampin 600 mg at steady-state levels in female subjects showed significant reductions of the AUC (-73%), C max (-58%), and T 1/2 (-36 %) of zolpidem together with significant reductions in the pharmacodynamic effects of zolpidem tartrate.
 Rifampin, a CYP3A4 inducer, significantly reduced the exposure to and the pharmacodynamic effects of zolpidem.
 
-A single-dose interaction study with zolpidem tartrate 5 mg and ketoconazole, a potent CYP3A4 inhibitor, given as 200 mg twice daily for 2 days increased Cmax of zolpidem (30%) and the total AUC of zolpidem (70%) compared to zolpidem alone and prolonged the elimination half-life (30 %) along with an increase in the pharmacodynamic effects of zolpidem.
+A single-dose interaction study with zolpidem tartrate 5 mg and ketoconazole, a potent CYP3A4 inhibitor, given as 200 mg twice daily for 2 days increased C max of zolpidem (30%) and the total AUC of zolpidem (70%) compared to zolpidem alone and prolonged the elimination half-life (30 %) along with an increase in the pharmacodynamic effects of zolpidem.
 Consideration should be given to using a lower dose of zolpidem when ketoconazole and zolpidem are given together.
 
 Other Drugs with No Interactions with Zolpidem
