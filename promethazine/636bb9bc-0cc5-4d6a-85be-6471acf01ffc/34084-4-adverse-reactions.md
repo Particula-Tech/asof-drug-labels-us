@@ -14,4 +14,5 @@ Neuroleptic malignant syndrome (potentially fatal) has also been reported (See W
 Paradoxical Reactions Hyperexcitability and abnormal movements have been reported in patients following a single administration of promethazine HCl.
 Consideration should be given to the discontinuation of promethazine HCl and to the use of other drugs if these reactions occur.
 Respiratory depression, nightmares, delirium, and agitated behavior have also been reported in some of these patients.
-To report SUSPECTED ADVERSE REACTIONS, contact G&W Laboratories, Inc. at 1-800-922-1038 or FDA at 1-800-FDA-1088 or www.fda.gov/medwatch.
+
+To report SUSPECTED ADVERSE REACTIONS, contact Cosette Pharmaceuticals, Inc. at 1-800-922-1038 or FDA at 1-800-FDA-1088 or www.fda.gov/medwatch.
