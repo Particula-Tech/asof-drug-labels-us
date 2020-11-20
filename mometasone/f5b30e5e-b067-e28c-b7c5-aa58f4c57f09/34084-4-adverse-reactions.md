@@ -14,4 +14,4 @@ The following signs of skin atrophy were also observed among 63 subjects treated
 Because adverse reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
 Postmarketing reports for local adverse reactions to topical corticosteroids include irritation, dryness, folliculitis, hypertrichosis, acneiform eruptions, hypopigmentation, perioral dermatitis, allergic contact dermatitis, secondary infection, skin atrophy, striae, and miliaria.
 These adverse reactions may occur more frequently with the use of occlusive dressing Postmarketing reports for ophthalmic adverse reactions to topical corticosteroids include blurred vision, cataracts, glaucoma, increased intraocular pressure, and central serous chorioretinopathy.
-To report SUSPECTED ADVERSE REACTIONS, contact G&W Laboratories, Inc. at 1-800-922-1038 or FDA at 1-800-FDA-1088 or www.fda.gov/medwatch.
+To report SUSPECTED ADVERSE REACTIONS, contact Cosette Pharmaceuticals, Inc. at 1-800-922-1038 or FDA at 1-800-FDA-1088 or www.fda.gov/medwatch.

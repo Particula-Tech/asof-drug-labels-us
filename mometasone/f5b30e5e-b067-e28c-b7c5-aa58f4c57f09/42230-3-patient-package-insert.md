@@ -21,8 +21,7 @@ How should I use mometasone furoate, USP ointment 0.1%? • Use mometasone furoa
 Tell your healthcare provider if the treated skin area does not get better after 2 weeks of treatment. • Do not bandage, cover, or wrap the treated skin area unless your healthcare provider tells you to. • Mometasone furoate, USP ointment 0.1% should not be used to treat diaper rash or redness.
 Do not apply mometasone furoate, USP ointment 0.1% in the diaper area if wearing diapers or plastic pants. • Avoid using mometasone furoate, USP ointment 0.1% on the face, groin, or underarms (armpits). • Wash your hands after applying mometasone furoate, USP ointment 0.1%.
 
-What are the possible side effects of mometasone furoate, USP ointment 0.1%?
-Mometasone furoate, USP ointment 0.1% may cause serious side effects, including: • Mometasone furoate, USP ointment 0.1% can pass through your skin.
+What are the possible side effects of mometasone furoate, USP ointment 0.1%?Mometasone furoate, USP ointment 0.1% may cause serious side effects, including: • Mometasone furoate, USP ointment 0.1% can pass through your skin.
 Too much mometasone furoate, USP ointment 0.1% passing through your skin can cause your adrenal glands to stop working properly.
 Your healthcare provider may do blood tests to check for adrenal gland problems. • Vision problems.
 Topical corticosteroids may increase your chance of developing vision problems such as cataract and glaucoma.
@@ -44,4 +43,7 @@ It may harm them.
 You can ask your pharmacist or healthcare provider for information about mometasone furoate, USP ointment 0.1% that is written for health professionals.
 
 What are the ingredients in mometasone furoate, USP ointment 0.1%?
-Active ingredient: mometasone furoate Inactive ingredients: hexylene glycol, phosphoric acid, propylene glycol stearate, purified water, white wax, and white petrolatum Manufactured by: G&W Laboratories, Inc. 111 Coolidge Street South Plainfield, NJ 07080 8-0635GWLNC2 Issue: 06/2018 GW 7270 This Patient Information has been approved by the U.S. Food and Drug Administration.
+Active ingredient: mometasone furoate Inactive ingredients: hexylene glycol, phosphoric acid, propylene glycol stearate, purified water, white wax, and white petrolatum Manufactured for: Cosette Pharmaceuticals, Inc. 111 Coolidge Street South Plainfield, NJ 07080
+
+8-0635CPLNC1 Iss.
+08/2019 GW 7308 This Patient Information has been approved by the U.S. Food and Drug Administration.
