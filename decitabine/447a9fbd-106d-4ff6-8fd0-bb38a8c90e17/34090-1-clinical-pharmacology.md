@@ -15,26 +15,25 @@ However, there have been no studies of decitabine-induced hypomethylation and ph
 
 ## 12.3 Pharmacokinetics
 
-Pharmacokinetic parameters were evaluated in patients.
-Eleven patients received 20 mg/m2 infused over 1 hour intravenously (treatment Option 2).
-Fourteen patients received 15 mg/m2 infused over 3 hours (treatment Option 1).
+Pharmacokinetic (PK) parameters were evaluated in patients.
+Eleven patients received 20 mg/m 2 infused over 1 hour intravenously (treatment Option 2).
+Fourteen patients received 15 mg/m 2 infused over 3 hours intravenously (treatment Option 1).
 PK parameters are shown in Table 3.
 Plasma concentration-time profiles after discontinuation of infusion showed a biexponential decline.
-The CL of decitabine was higher following treatment Option 2.
-Upon repeat doses there was no systemic accumulation of decitabine or any changes in PK parameters.
+The clearance (CL) of decitabine was higher following treatment Option 2.
+Upon repeat doses, there was no systemic accumulation of decitabine or any changes in PK parameters.
 Population PK analysis (N=35) showed that the cumulative AUC per cycle for treatment Option 2 was 2.3-fold lower than the cumulative AUC per cycle following treatment Option 1.
 
 Table 3 Mean (CV% or 95% CI) Pharmacokinetic Parameters of Decitabine
 
-| Dose | Cmax | AUC0- | T1/2(h) | CL | AUCCumulative*** |
+| Dose | C max | AUC 0-∞ | T 1/2(h) | CL | AUC Cumulative‡ |
 | --- | --- | --- | --- | --- | --- |
-| (ng/mL) | (ngh/mL) | (L/h/m2) | (ngh/mL) |  |  |
-| 15 mg/m2 3-hr infusion every 8 hours for 3 days (Option 1)* | 73.8 | 163 | 0.62 | 125 | 1332 |
+| (ng/mL) | (ng●h/mL) | (L/h/m 2) | (ng●h/mL) |  |  |
+| 15 mg/m 2 3-hr infusion every 8 hours for 3 days (Option 1)* | 73.8 | 163 | 0.62 | 125 | 1332 |
 | (66) | (62) | (49) | (53) | (1010-1730) |  |
-| 20 mg/m2 1-hr infusion daily for 5 days (Option 2)** | 147 | 115 | 0.54 | 210 | 570 |
+| 20 mg/m 2 1-hr infusion daily for 5 days (Option 2) † | 147 | 115 | 0.54 | 210 | 570 |
 | (49) | (43) | (43) | (47) | (470-700) |  |
-
-* N=14, **N=11, ***N=35 Cumulative AUC per cycle
+| * N=14, †N=11, ‡N=35 Cumulative AUC per cycle |  |  |  |  |  |
 
 The exact route of elimination and metabolic fate of decitabine is not known in humans.
 One of the pathways of elimination of decitabine appears to be deamination by cytidine deaminase found principally in the liver but also in granulocytes, intestinal epithelium and whole blood.
@@ -43,6 +42,6 @@ Specific Populations
 
 Patients with Renal Impairment
 
-There are no data on the use of Decitabine for injection in patients with renal impairment; therefore, if Decitabine for injection is administered to these patients, monitor them frequently for excessive toxicity.
+There are no data on the use of Decitabine for injection in patients with renal impairment.
 
-Patients with Hepatic Impairment There are no data on the use of Decitabine for injection in patients with hepatic impairment; therefore, if Decitabine for injection is administered to these patients, monitor them frequently for excessive toxicity.
+Patients with Hepatic Impairment There are no data on the use of Decitabine for injection in patients with hepatic impairment.
