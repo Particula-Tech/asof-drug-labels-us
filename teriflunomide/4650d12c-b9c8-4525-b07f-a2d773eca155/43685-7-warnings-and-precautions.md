@@ -40,7 +40,7 @@ If a woman becomes pregnant while taking AUBAGIO, stop treatment with AUBAGIO, a
 
 Upon discontinuing AUBAGIO, it is recommended that all females of reproductive potential undergo an accelerated drug elimination procedure.
 Women receiving AUBAGIO treatment who wish to become pregnant must discontinue AUBAGIO and undergo an accelerated drug elimination procedure, which includes verification that plasma concentrations of teriflunomide are less than 0.02 mg/L (0.02 mcg/mL).
-Men wishing to father a child should also discontinue use of AUBAGIO and either undergo an accelerated elimination procedure or wait until verification that the plasma teriflunomide concentration is less than 0.02 mg/L (0.02 mcg/mL) [see Use in Specific Population (8.3)].
+Men wishing to father a child should also discontinue use of AUBAGIO and either undergo an accelerated elimination procedure or wait until verification that the plasma teriflunomide concentration is less than 0.02 mg/L (0.02 mcg/mL) [see Use in Specific Populations (8.3)].
 Based on animal data, human plasma concentrations of teriflunomide of less than 0.02 mg/L (0.02 mcg/mL) are expected to have minimal embryofetal risk [see Contraindications (4), Warnings and Precautions (5.3), and Use in Specific Populations (8.1)].
 
 ## 5.3 Procedure for Accelerated Elimination of Teriflunomide
