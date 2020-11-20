@@ -22,11 +22,11 @@ Table 2: Suicidality per 1000 Patients Treated
 | Age Range | Drug-Placebo Difference in Number of Cases of Suicidality per 1000 Patients Treated |
 | --- | --- |
 |  | Increases Compared to Placebo |
-| < 18 | 14 additional cases |
+| <18 | 14 additional cases |
 | 18 to 24 | 5 additional cases |
 |  | Decreases Compared to Placebo |
 | 25 to 64 | 1 fewer case |
-| ≥ 65 | 6 fewer cases |
+| ≥65 | 6 fewer cases |
 
 No suicides occurred in any of the pediatric trials.
 There were suicides in the adult trials, but the number was not sufficient to reach any conclusion about drug effect on suicide.
@@ -127,13 +127,13 @@ In U.S. placebo-controlled clinical trials for OCD, 17% of patients treated with
 One patient discontinued treatment with fluoxetine because of anorexia [see Use in Specific Populations (8.4)].
 
 In U.S. placebo-controlled clinical trials for Bulimia Nervosa, 8% of patients treated with fluoxetine 60 mg and 4% of patients treated with placebo reported anorexia (decreased appetite).
-Patients treated with fluoxetine 60 mg on average lost 0.45 kg compared with a gain of 0.16 kg by patients treated with placebo in the 16 week double-blind trial.
+Patients treated with fluoxetine 60 mg on average lost 0.45 kg compared with a gain of 0.16 kg by patients treated with placebo in the 16-week double-blind trial.
 Weight change should be monitored during therapy.
 
 ## 5.7 Abnormal Bleeding
 
 SNRIs and SSRIs, including fluoxetine, may increase the risk of bleeding reactions.
-Concomitant use of aspirin, non-steroidal anti-inflammatory drugs, warfarin, and other anti-coagulants may add to this risk.
+Concomitant use of aspirin, nonsteroidal anti-inflammatory drugs, warfarin, and other anti-coagulants may add to this risk.
 Case reports and epidemiological studies (case-control and cohort design) have demonstrated an association between use of drugs that interfere with serotonin reuptake and the occurrence of gastrointestinal bleeding.
 Bleeding reactions related to SNRIs and SSRIs use have ranged from ecchymoses, hematomas, epistaxis, and petechiae to life-threatening hemorrhages.
 
@@ -169,10 +169,10 @@ Among the most common adverse reactions associated with discontinuation (inciden
 
 ## 5.11 QT Prolongation
 
-Postmarketing cases of QT interval prolongation and ventricular arrhythmia including torsade de pointes have been reported in patients treated with fluoxetine.
+Post-marketing cases of QT interval prolongation and ventricular arrhythmia including Torsades de Pointes have been reported in patients treated with fluoxetine.
 Fluoxetine should be used with caution in patients with congenital long QT syndrome; a previous history of QT prolongation; a family history of long QT syndrome or sudden cardiac death; and other conditions that predispose to QT prolongation and ventricular arrhythmia.
 Such conditions include concomitant use of drugs that prolong the QT interval; hypokalemia or hypomagnesemia; recent myocardial infarction, uncompensated heart failure, bradyarrhythmias, and other significant arrhythmias; and conditions that predispose to increased fluoxetine exposure (overdose, hepatic impairment, use of CYP2D6 inhibitors, CYP2D6 poor metabolizer status, or use of other highly protein-bound drugs).
-Fluoxetine is primarily metabolized by CYP2D6 [see Contraindications (4.2), Adverse Reactions (6.2), Drug Interactions (7.7, 7.8), Overdose (10.1), and Clinical Pharmacology (12.3)].
+Fluoxetine is primarily metabolized by CYP2D6 [see Contraindications (4.2), Adverse Reactions (6.2), Drug Interactions (7.7, 7.8), Overdosage (10.1), and Clinical Pharmacology (12.3)].
 
 Pimozide and thioridazine are contraindicated for use with fluoxetine.
 Avoid the concomitant use of drugs known to prolong the QT interval.
@@ -181,7 +181,7 @@ These include specific antipsychotics (e.g., ziprasidone, iloperidone, chlorprom
 Consider ECG assessment and periodic ECG monitoring if initiating treatment with fluoxetine in patients with risk factors for QT prolongation and ventricular arrhythmia.
 Consider discontinuing fluoxetine and obtaining a cardiac evaluation if patients develop signs or symptoms consistent with ventricular arrhythmia.
 
-## 5.12 Use in Patients With Concomitant Illness
+## 5.12 Use in Patients with Concomitant Illness
 
 Clinical experience with fluoxetine in patients with concomitant systemic illness is limited.
 Caution is advisable in using fluoxetine in patients with diseases or conditions that could affect metabolism or hemodynamic responses.
@@ -212,7 +212,7 @@ While these reactions are generally self-limiting, there have been reports of se
 Patients should be monitored for these symptoms when discontinuing treatment with fluoxetine.
 A gradual reduction in the dose rather than abrupt cessation is recommended whenever possible.
 If intolerable symptoms occur following a decrease in the dose or upon discontinuation of treatment, then resuming the previously prescribed dose may be considered.
-Subsequently, the physician may continue decreasing the dose but at a more gradual rate.
+Subsequently, the healthcare provider may continue decreasing the dose but at a more gradual rate.
 Plasma fluoxetine and norfluoxetine concentration decrease gradually at the conclusion of therapy which may minimize the risk of discontinuation symptoms with this drug.
 
 ## 5.16 Fluoxetine and Olanzapine in Combination

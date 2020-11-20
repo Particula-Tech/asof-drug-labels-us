@@ -1,8 +1,10 @@
 # MEDICATION GUIDE
 
-FLUOXETINE (floo-OX-e-teen)
+Fluoxetine (floo ox' e teen)
 
-CAPSULES
+Capsules, USP
+
+for oral use
 
 Read the Medication Guide that comes with fluoxetine capsules before you start taking them and each time you get a refill.
 There may be new information.
@@ -101,7 +103,7 @@ Symptoms may include:
 - confusion, problems concentrating or thinking or memory problems
 
 10.
-Changes in the electrical activity of your heart (QT prolongation and ventricular arrhythmia including torsade de pointes).
+Changes in the electrical activity of your heart (QT prolongation and ventricular arrhythmia including Torsades de Pointes).
 This condition can be life threatening.
 The symptoms may include:
 
@@ -129,6 +131,7 @@ Fluoxetine capsules are used to treat:
 - Bulimia Nervosa*
 - Panic Disorder*
 - Depressive episodes associated with Bipolar I Disorder, taken with olanzapine (Zyprexa®)
+- Treatment Resistant Depression (depression that has not gotten better with at least 2 other treatments), taken with olanzapine (Zyprexa®)*
 
 * Not approved for use in children
 
@@ -181,11 +184,13 @@ Before starting fluoxetine capsules, tell your healthcare provider if you:
 - have high blood pressure
 - have or had bleeding problems
 - are pregnant or plan to become pregnant.
-  It is not known if fluoxetine capsules will harm your unborn baby.
+  Taking fluoxetine capsules late in pregnancy may lead to an increased risk of certain problems in your newborn.
   Talk to your healthcare provider about the benefits and risks of treating depression during pregnancy.
+  - If you become pregnant while taking fluoxetine capsules, talk to your healthcare provider about registering with the National Pregnancy Registry for Antidepressants.
+    You can register by calling 1-844-405-6185 or go to https://womensmentalhealth.org/clinical-and-research-programs/pregnancyregistry/antidepressants/.
 - are breastfeeding or plan to breastfeed.
-  Some fluoxetine may pass into your breast milk.
-  Talk to your healthcare provider about the best way to feed your baby while taking fluoxetine capsules.
+  Fluoxetine may pass into your breast milk.
+  Talk to your healthcare provider about the best way to feed your baby if taking fluoxetine capsules.
 
 Tell your healthcare provider about all the medicines that you take, including prescription and non-prescription medicines, vitamins, and herbal supplements.
 Fluoxetine capsules and some medicines may interact with each other, may not work as well, or may cause serious side effects.
@@ -195,7 +200,7 @@ Do not start or stop any medicine while taking fluoxetine capsules without talki
 
 If you take fluoxetine capsules, you should not take any other medicines that contain fluoxetine hydrochloride including:
 
-| Symbyax®Sarafem®Prozac® Weekly™ |
+| Symbyax®Sarafem® |
 | --- |
 
 How should I take fluoxetine capsules?
@@ -285,10 +290,11 @@ Active ingredient: fluoxetine hydrochloride
 
 Inactive ingredients: colloidal silicon dioxide, pregelatinized corn starch, and simethicone.
 The capsule shell contains D&C Red #28, D&C Yellow #10, FD&C Blue #1, FD&C Blue #2, FD&C Red #40, gelatin, and titanium dioxide.
-The imprinting ink contains FD&C Blue #1 aluminum lake, FD&C Blue #2 aluminum lake, FD&C Red #40 aluminum lake, D&C Yellow #10 aluminum lake, iron oxide black and shellac glaze, and may contain propylene glycol.
+The imprinting ink contains FD&C Blue #1 aluminum lake, FD&C Blue #2 aluminum lake, FD&C Red #40 aluminum lake, D&C Yellow #10 aluminum lake, iron oxide black, shellac glaze, and may contain propylene glycol.
+
+Brands listed are the trademarks of their respective owners.
 
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
-All brand names listed are the registered trademarks of their respective owners and are not trademarks of Teva Pharmaceuticals USA.
 
 Manufactured In Czech Republic By:
 
@@ -303,4 +309,4 @@ Teva Pharmaceuticals USA, Inc.
 North Wales, PA 19454
 
 Rev.
-K 1/2017
+L 8/2020

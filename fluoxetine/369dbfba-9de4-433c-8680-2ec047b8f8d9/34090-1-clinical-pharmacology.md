@@ -16,7 +16,6 @@ Fluoxetine binds to these and other membrane receptors from brain tissue much le
 
 Systemic Bioavailability — In man, following a single oral 40 mg dose, peak plasma concentrations of fluoxetine from 15 to 55 ng/mL are observed after 6 to 8 hours.
 
-The capsule, tablet, and oral solution dosage forms of fluoxetine are bioequivalent.
 Food does not appear to affect the systemic bioavailability of fluoxetine, although it may delay its absorption by 1 to 2 hours, which is probably not clinically significant.
 Thus, fluoxetine may be administered with or without food.
 
@@ -60,24 +59,24 @@ This is of potential consequence when drug discontinuation is required or when d
 Liver Disease — As might be predicted from its primary site of metabolism, liver impairment can affect the elimination of fluoxetine.
 The elimination half-life of fluoxetine was prolonged in a study of cirrhotic patients, with a mean of 7.6 days compared with the range of 2 to 3 days seen in subjects without liver disease; norfluoxetine elimination was also delayed, with a mean duration of 12 days for cirrhotic patients compared with the range of 7 to 9 days in normal subjects.
 This suggests that the use of fluoxetine in patients with liver disease must be approached with caution.
-If fluoxetine is administered to patients with liver disease, a lower or less frequent dose should be used [see Dosage and Administration (2.7), Use in Specific Populations (8.6)].
+If fluoxetine is administered to patients with liver disease, a lower or less frequent dose should be used [see Dosage and Administration (2.7) and Use in Specific Populations (8.6)].
 
-Renal Disease — In depressed patients on dialysis (N = 12), fluoxetine administered as 20 mg once daily for 2 months produced steady-state fluoxetine and norfluoxetine plasma concentrations comparable with those seen in patients with normal renal function.
+Renal Disease — In depressed patients on dialysis (N=12), fluoxetine administered as 20 mg once daily for 2 months produced steady-state fluoxetine and norfluoxetine plasma concentrations comparable with those seen in patients with normal renal function.
 While the possibility exists that renally excreted metabolites of fluoxetine may accumulate to higher levels in patients with severe renal dysfunction, use of a lower or less frequent dose is not routinely necessary in renally impaired patients.
 
-Geriatric Pharmacokinetics — The disposition of single doses of fluoxetine in healthy elderly subjects (> 65 years of age) did not differ significantly from that in younger normal subjects.
+Geriatric Pharmacokinetics — The disposition of single doses of fluoxetine in healthy elderly subjects (>65 years of age) did not differ significantly from that in younger normal subjects.
 However, given the long half-life and nonlinear disposition of the drug, a single-dose study is not adequate to rule out the possibility of altered pharmacokinetics in the elderly, particularly if they have systemic illness or are receiving multiple drugs for concomitant diseases.
-The effects of age upon the metabolism of fluoxetine have been investigated in 260 elderly but otherwise healthy depressed patients (≥ 60 years of age) who received 20 mg fluoxetine for 6 weeks.
+The effects of age upon the metabolism of fluoxetine have been investigated in 260 elderly but otherwise healthy depressed patients (≥60 years of age) who received 20 mg fluoxetine for 6 weeks.
 Combined fluoxetine plus norfluoxetine plasma concentrations were 209.3 ± 85.7 ng/mL at the end of 6 weeks.
 No unusual age-associated pattern of adverse reactions was observed in those elderly patients.
 
-Pediatric Pharmacokinetics (children and adolescents) — Fluoxetine pharmacokinetics were evaluated in 21 pediatric patients (10 children ages 6 to < 13, 11 adolescents ages 13 to < 18) diagnosed with Major Depressive Disorder or Obsessive Compulsive Disorder (OCD).
+Pediatric Pharmacokinetics (children and adolescents) — Fluoxetine pharmacokinetics were evaluated in 21 pediatric patients (10 children ages 6 to <13, 11 adolescents ages 13 to <18) diagnosed with Major Depressive Disorder or Obsessive Compulsive Disorder (OCD).
 Fluoxetine 20 mg/day was administered for up to 62 days.
-The average steady-state concentrations of fluoxetine in these children were 2 fold higher than in adolescents (171 and 86 ng/mL, respectively).
-The average norfluoxetine steady-state concentrations in these children were 1.5 fold higher than in adolescents (195 and 113 ng/mL, respectively).
+The average steady-state concentrations of fluoxetine in these children were 2-fold higher than in adolescents (171 and 86 ng/mL, respectively).
+The average norfluoxetine steady-state concentrations in these children were 1.5-fold higher than in adolescents (195 and 113 ng/mL, respectively).
 These differences can be almost entirely explained by differences in weight.
 No gender-associated difference in fluoxetine pharmacokinetics was observed.
-Similar ranges of fluoxetine and norfluoxetine plasma concentrations were observed in another study in 94 pediatric patients (ages 8 to < 18) diagnosed with Major Depressive Disorder.
+Similar ranges of fluoxetine and norfluoxetine plasma concentrations were observed in another study in 94 pediatric patients (ages 8 to <18) diagnosed with Major Depressive Disorder.
 
 Higher average steady-state fluoxetine and norfluoxetine concentrations were observed in children relative to adults; however, these concentrations were within the range of concentrations observed in the adult population.
 As in adults, fluoxetine and norfluoxetine accumulated extensively following multiple oral dosing; steady-state concentrations were achieved within 3 to 4 weeks of daily dosing.
