@@ -22,4 +22,4 @@ These adverse reactions may occur more frequently with the use of occlusive dres
 
 Postmarketing reports for ophthalmic adverse reactions to topical corticosteroids include blurred vision, cataracts, glaucoma, increased intraocular pressure, and central serous chorioretinopathy.
 
-To report SUSPECTED ADVERSE REACTIONS, contact G&W Laboratories, Inc. at 1-800-922-1038 or FDA at 1-800-FDA-1088 or www.fda.gov/medwatch.
+To report SUSPECTED ADVERSE REACTIONS, contact Cosette Pharmaceuticals, Inc. at 1-800-922-1038 or FDA at 1-800-FDA-1088 or www.fda.gov/medwatch

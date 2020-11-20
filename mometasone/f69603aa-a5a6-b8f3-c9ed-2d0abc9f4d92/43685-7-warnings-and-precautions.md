@@ -13,7 +13,7 @@ The results show that the drug caused a slight lowering of adrenal corticosteroi
 If HPA axis suppression is noted, an attempt should be made to gradually withdraw the drug, to reduce the frequency of application, or to substitute a less potent corticosteroid.
 Recovery of HPA axis function is generally prompt upon discontinuation of topical corticosteroids.
 Infrequently, signs and symptoms of glucocorticosteroid insufficiency may occur, requiring supplemental systemic corticosteroids.
-Pediatric patients may be more susceptible to systemic toxicity from equivalent doses due to their larger skin surface to body mass ratios [see Use in Specific Populations (8.4)].
+Pediatric patients may be more susceptible to systemic toxicity from equivalent doses due to their larger skin surface to body mass ratios [seeUse in Specific Populations (8.4)].
 
 ## 5.2 Ophthalmic Adverse Reactions
 
