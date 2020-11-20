@@ -23,10 +23,6 @@ In view of the long and variable half- life of amiodarone, potential for drug in
 
 Patients should avoid grapefruit juice beverages while taking amiodarone because exposure to amiodarone is significantly increased [see Clinical Pharmacology (12.3)].
 
-### Effect of Amiodarone on Other Drugs
-
-Amiodarone and DEA are inhibitors of P-glycoprotein and certain CYP450 enzymes, including CYP1A2, CYP2C9, CYP2D6, and CYP3A [see Clinical Pharmacology (12.3)].
-
 #### Antiarrhythmics
 
 The metabolism of quinidine, procainamide, and flecainide can be inhibited by amiodarone.
@@ -35,13 +31,13 @@ In general, initiate any added antiarrhythmic drug at a lower than usual dose an
 During transfer to oral amiodarone, reduce the dose levels of previously administered antiarrhythmic agents by 30% to 50% several days after the addition of oral amiodarone.
 Review the continued need for the other antiarrhythmic agent after the effects of amiodarone have been established, and attempt discontinuation [see Clinical Pharmacology (12.3)].
 
-#### Digoxin
+##### Digoxin
 
 In patients receiving digoxin therapy, administration of oral amiodarone results in an increase in serum digoxin concentration.
 Reduce dose of digoxin by half or discontinue digoxin.
 If digitalis treatment is continued, monitor serum levels closely and observe patients for clinical evidence of toxicity [see Clinical Pharmacology (12.3)].
 
-HMG-CoA Reductase Inhibitors
+#### HMG-CoA Reductase Inhibitors
 
 Limit the dose of simvastatin in patients on amiodarone to 20 mg daily.
 Limit the daily dose of lovastatin to 40 mg.
@@ -52,7 +48,7 @@ Lower starting and maintenance doses of other CYP3A4 substrates (e.g., atorvasta
 Potentiation of warfarin-type (CYP2C9 and CYP3A substrate) anticoagulant response is almost always seen in patients receiving amiodarone and can result in serious or fatal bleeding.
 Since the concomitant administration of warfarin with amiodarone increases INR by 100% after 3 to 4 days, reduce the dose of the anticoagulant by one-third to one-half, and monitor INR closely.
 
-Cyclosporine (CYP3A Substrate)
+#### Cyclosporine (CYP3A Substrate)
 
 Administered in combination with oral amiodarone has been reported to produce persistently elevated plasma concentrations of cyclosporine resulting in elevated creatinine, despite reduction in dose of cyclosporine.
 Monitor cyclosporine drug levels and renal function in patients taking both drugs.
