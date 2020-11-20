@@ -38,7 +38,8 @@ One patient had a history of prolonged QTc and a screening measurement of 489 ms
 The other patient had a QTc of 391 msec at the end of treatment with ziprasidone and upon switching to thioridazine experienced QTc measurements of 518 and 593 msec.
 
 Some drugs that prolong the QT/QTc interval have been associated with the occurrence of torsade de pointes and with sudden unexplained death.
-The relationship of QT prolongation to torsade de pointes is clearest for larger increases (20 msec and greater) but it is possible that smaller QT/QTc prolongations may also increase risk, or increase it in susceptible individuals Although torsade de pointes has not been observed in association with the use of ziprasidone in premarketing studies and experience is too limited to rule out an increased risk, there have been rare post-marketing reports (in the presence of multiple confounding factors) [see Adverse Reactions (6.2)].
+The relationship of QT prolongation to torsade de pointes is clearest for larger increases (20 msec and greater) but it is possible that smaller QT/QTc prolongations may also increase risk, or increase it in susceptible individuals.
+Although torsade de pointes has not been observed in association with the use of ziprasidone in premarketing studies and experience is too limited to rule out an increased risk, there have been rare post-marketing reports (in the presence of multiple confounding factors) [see Adverse Reactions (6.2)].
 
 A study evaluating the QT/QTc prolonging effect of intramuscular ziprasidone, with intramuscular haloperidol as a control, was conducted in patient volunteers.
 In the trial, ECGs were obtained at the time of maximum plasma concentration following two injections of ziprasidone (20 mg then 30 mg) or haloperidol (7.5 mg then 10 mg) given four hours apart.
@@ -368,7 +369,7 @@ Prescriptions for ziprasidone should be written for the smallest quantity of cap
 
 ## 5.19 Patients with Concomitant Illnesses
 
-Clinical experience with ziprasidone in patients with certain concomitant systemic illnesses is limited [see Use in Specific Populations (8.6),(8.7)].
+Clinical experience with ziprasidone in patients with certain concomitant systemic illnesses is limited [see Use in Specific Populations (8.6), (8.7)].
 
 Ziprasidone has not been evaluated or used to any appreciable extent in patients with a recent history of myocardial infarction or unstable heart disease.
 Patients with these diagnoses were excluded from premarketing clinical studies.

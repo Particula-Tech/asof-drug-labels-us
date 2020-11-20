@@ -5,7 +5,7 @@
 Carcinogenesis
 
 Lifetime carcinogenicity studies were conducted with ziprasidone in Long Evans rats and CD-1 mice.
-Ziprasidone was administered for 24 months in the diet at doses of 2, 6, or 12 mg/kg/day to rats, and 50, 100, or 200 mg/kg/day to mice (0.1 to 0.6 and 1 to 5 times the (MRHD) of 200 mg/day based on mg/m2 body surface area, respectively).
+Ziprasidone was administered for 24 months in the diet at doses of 2, 6, or 12 mg/kg/day to rats, and 50, 100, or 200 mg/kg/day to mice (0.1 to 0.6 and 1 to 5 times the maximum recommended human dose (MRHD) of 200 mg/day based on mg/m2 body surface area, respectively).
 In the rat study, there was no evidence of an increased incidence of tumors compared to controls.
 In male mice, there was no increase in incidence of tumors relative to controls.
 In female mice, there were dose-related increases in the incidences of pituitary gland adenoma and carcinoma, and mammary gland adenocarcinoma at all doses tested (50 to 200 mg/kg/day or 1 to 5 times the MRHD based on mg/m2 body surface area).
