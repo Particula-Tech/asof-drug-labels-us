@@ -13,7 +13,7 @@ Safety and effectiveness of lamotrigine tablets have not been established (1) as
 
 ## 1.2 Bipolar Disorder
 
-Lamotrigine tablets are indicated for the maintenance treatment of bipolar I disorder to delay the time to occurrence of mood episodes (depression, mania, hypomania, mixed episodes) in patients treated for acute mood episodes with standard therapy [see Clinical Studies (14.1)].
+Lamotrigine tablets are indicated for the maintenance treatment of bipolar I disorder to delay the time to occurrence of mood episodes (depression, mania, hypomania, mixed episodes) in patients treated for acute mood episodes with standard therapy [see Clinical Studies (14.2)].
 
 Limitations of Use Treatment of acute manic or mixed episodes is not recommended.
 Effectiveness of lamotrigine tablets in the acute treatment of mood episodes has not been established.

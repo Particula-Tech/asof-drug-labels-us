@@ -14,7 +14,6 @@ Children and teenagers aged between 2 and 17 years have a higher chance of getti
 The risk of getting a serious skin rash is higher if you:
 
 - take lamotrigine tablets while taking valproate [DEPAKENE (valproic acid) or DEPAKOTE (divalproex sodium)].
-
 - take a higher starting dose of lamotrigine tablets than your healthcare provider prescribed.
 - increase your dose of lamotrigine tablets faster than prescribed.
 
@@ -39,11 +38,24 @@ Call your healthcare provider right away if you have any of these symptoms:
 - severe muscle pain
 - swelling of your face, eyes, lips, or tongue
 - swollen lymph glands
-- unusual bruising or bleeding
+- unusual bruising or bleeding, looking pale
 - weakness, fatigue
 - yellowing of your skin or the white part of your eyes
+- trouble walking or seeing
+- seizures for the first time or happening more often
+- pain and/or tenderness in the area towards the top of your stomach (enlarged liver and/or spleen)
 
 3.
+In patients with known heart problems, the use of lamotrigine tablets may lead to a fast heart beat.
+Call your healthcare provider right away if you:
+
+- have a fast, slow, or pounding heart beat.
+- feel your heart skip a beat.
+- have shortness of breath.
+- have chest pain.
+- feel lightheaded.
+
+4.
 Like other antiepileptic drugs, lamotrigine tablets may cause suicidal thoughts or actions in a very small number of people, about 1 in 500.
 
 Call a healthcare provider right away if you have any of these symptoms, especially if they are new, worse, or worry you:
@@ -73,7 +85,7 @@ How can I watch for early symptoms of suicidal thoughts and actions in myself or
 - Keep all follow-up visits with your healthcare provider as scheduled.
 - Call your healthcare provider between visits as needed, especially if you are worried about symptoms.
 
-4.
+5.
 Lamotrigine tablets may cause aseptic meningitis, a serious inflammation of the protective membrane that covers the brain and spinal cord.
 
 Call your healthcare provider right away if you have any of the following symptoms:
@@ -97,7 +109,7 @@ For more information ask your healthcare provider or pharmacist.
 Tell your healthcare provider if you have any side effect that bothers you.
 Be sure to read the section below entitled “What are the possible side effects of lamotrigine tablets?”
 
-5.
+6.
 People prescribed lamotrigine tablets have sometimes been given the wrong medicine because many medicines have names similar to lamotrigine tablets, so always check that you receive lamotrigine tablets.
 
 Taking the wrong medication can cause serious health problems.
@@ -130,6 +142,7 @@ Before taking lamotrigine tablets, tell your healthcare provider about all of yo
 
 - have had a rash or allergic reaction to another antiseizure medicine.
 - have or have had depression, mood problems, or suicidal thoughts or behavior.
+- have a history of heart problems or irregular heart beats or any of your family members have any heart problem, including genetic abnormalities.
 - have had aseptic meningitis after taking lamotrigine tablets or lamotrigine extended-release tablets.
 - are taking oral contraceptives (birth control pills) or other female hormonal medicines.
   Do not start or stop taking birth control pills or other female hormonal medicine until you have talked with your healthcare provider.
@@ -239,4 +252,4 @@ This Medication Guide has been approved by the U.S. Food and Drug Administration
 The brands listed are trademarks of their respective owners and are not trademarks of Aurobindo Pharma Limited.
 Dispense with Medication Guide available at: www.aurobindousa.com/medication-guides
 
-Distributed by: Aurobindo Pharma USA, Inc. 279 Princeton-Hightstown Road East Windsor, NJ 08520 Manufactured by: Aurobindo Pharma Limited Hyderabad-500 038, India Revised: 09/2020
+Distributed by: Aurobindo Pharma USA, Inc. 279 Princeton-Hightstown Road East Windsor, NJ 08520 Manufactured by: Aurobindo Pharma Limited Hyderabad-500 038, India Revised: 11/2020
