@@ -70,11 +70,7 @@ Directions for Proper Use of a Pharmacy Bulk Package
   This time limit should begin with the introduction of the solvent or diluent into the Pharmacy Bulk Package.
   Discard any unused portion after 4 HOURS.
   This pharmacy bulk package is not intended to be dispensed as a unit.
-- PRIOR TO RECONSTITUTION: Visually examine outer (natural foil) bag for damage.
-  IF THE SEAL IS BROKEN OR DAMAGE IS OBSERVED, DO NOT OPEN THE OUTER BAG.
-  STERILITY OF THE INNER BAG SURFACE MAY BE COMPROMISED.
-  DISCARD BOTH BAGS IMMEDIATELY.
-  DO NOT USE THE INNER BAG IF PARTICULATE OR FOREIGN MATTER IS PRESENT, IF THE DRY POWDER IS DARK YELLOW OR BROWN, IF THE SEALS ARE NOT INTACT, OR IF THERE IS ANY OTHER DAMAGE TO THE BAG.
+- PRIOR TO RECONSTITUTION: DO NOT USE THE INNER BAG IF PARTICULATE OR FOREIGN MATTER IS PRESENT, IF THE DRY POWDER IS DARK YELLOW OR BROWN, IF THE SEALS ARE NOT INTACT, OR IF THERE IS ANY OTHER DAMAGE TO THE BAG.
   IN SUCH CASES, DISCARD THE BAG IMMEDIATELY.
 - After initial reconstitution port entry, use entire contents of the Pharmacy Bulk Package promptly.
   Any unused portion must be discarded after 4 HOURS.
