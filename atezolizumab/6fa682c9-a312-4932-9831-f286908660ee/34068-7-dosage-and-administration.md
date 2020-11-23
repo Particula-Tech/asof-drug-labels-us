@@ -111,30 +111,37 @@ Refer to the Prescribing Information for cobimetinib and vemurafenib prior to in
 
 ## 2.8 Dosage Modifications for Adverse Reactions
 
-No dose reductions of TECENTRIQ are recommended.
-Recommendations for dosage modifications are provided in Table 1.
+No dose reduction for TECENTRIQ is recommended.
+In general, withhold TECENTRIQ for severe (Grade 3) immune-mediated adverse reactions.
+Permanently discontinue TECENTRIQ for life-threatening (Grade 4) immune-mediated adverse reactions, recurrent severe (Grade 3) immune-mediated reactions that require systemic immunosuppressive treatment, or an inability to reduce corticosteroid dose to 10 mg or less of prednisone or equivalent per day within 12 weeks of initiating steroids.
+
+Dosage modifications for TECENTRIQ for adverse reactions that require management different from these general guidelines are summarized in Table 1.
 
 Table 1: Recommended Dosage Modifications for Adverse Reactions
 
-| Adverse Reaction | Severity of Adverse ReactionNational Cancer Institute Common Terminology Criteria for Adverse Events (NCI CTCAE) version 4.0 | Dosage Modifications |
+| Adverse Reaction | SeverityBased on Common Terminology Criteria for Adverse Events (CTCAE), version 4. | Dosage Modification |
 | --- | --- | --- |
-| Pneumonitis [see Warnings and Precautions (5.1)] | Grade 2 | Withhold dose until Grade 1 or resolved and corticosteroid dose is less than or equal to prednisone 10 mg per day (or equivalent) |
-| Grade 3 or 4 | Permanently discontinue |  |
-| Hepatitis in patients with cancers other than HCCHCC: Hepatocellular Carcinoma [see Warnings and Precautions (5.2)] | AST or ALT more than 3 and up to 8 times the upper limit of normal (ULN) or total bilirubin more than 1.5 and up to 3 times the upper limit of normal (ULN) | Withhold dose until Grade 1 or resolved and corticosteroid dose is less than or equal to prednisone 10 mg per day (or equivalent) |
-| AST or ALT more than 8 times the upper limit of normal (ULN) or total bilirubin more than 3 times the upper limit of normal (ULN) | Permanently discontinue |  |
-| Hepatitis in patients with HCC [see Warnings and Precautions (5.2)] | AST or ALT is within normal limits at baseline and increases to more than 3 and up to 10 times the ULNAST or ALT is more than 1 and up to 3 times ULN at baseline and increases to more than 5 and up to 10 times the ULNAST or ALT is more than 3 and up to 5 times ULN at baseline and increases to more than 8 and up to 10 times the ULN | Withhold dose until Grade 1 or resolved and corticosteroid dose is less than or equal to prednisone 10 mg per day (or equivalent) |
-| AST or ALT increases to more than 10 times the ULN or total bilirubin increases to more than 3 times the ULN | Permanently discontinue |  |
-| Colitis or diarrhea [see Warnings and Precautions (5.3)] | Grade 2 or 3 | Withhold dose until Grade 1 or resolved and corticosteroid dose is less than or equal to prednisone 10 mg per day (or equivalent) |
+| Immune-Mediated Adverse Reactions [see Warnings and Precautions (5.1)] |  |  |
+| Pneumonitis | Grade 2 | WithholdResume in patients with complete or partial resolution (Grade 0 to 1) after corticosteroid taper. Permanently discontinue if no complete or partial resolution within 12 weeks of initiating steroids or inability to reduce prednisone to 10 mg per day or less (or equivalent) within 12 weeks of initiating steroids. |
+| Grades 3 or 4 | Permanently discontinue |  |
+| Colitis | Grades 2 or 3 | Withhold |
 | Grade 4 | Permanently discontinue |  |
-| Endocrinopathies (including but not limited to hypophysitis, adrenal insufficiency, hyperthyroidism, and type 1 diabetes mellitus) [see Warnings and Precautions (5.4)] | Grade 2, 3, or 4 | Withhold dose until Grade 1 or resolved and clinically stable on hormone replacement therapy. |
-| Other immune-mediated adverse reactions involving a major organ [see Warnings and Precautions (5.5)] | Grade 3 | Withhold dose until Grade 1 or resolved and corticosteroid dose is less than or equal to prednisone 10 mg per day (or equivalent) |
-| Grade 4 | Permanently discontinue |  |
-| Infections [see Warnings and Precautions (5.6)] | Grade 3 or 4 | Withhold dose until Grade 1 or resolved |
-| Infusion-Related Reactions [see Warnings and Precautions (5.7)] | Grade 1 or 2 | Interrupt or slow the rate of infusion |
-| Grade 3 or 4 | Permanently discontinue |  |
-| Persistent Grade 2 or 3 adverse reaction (excluding endocrinopathies) | Grade 2 or 3 adverse reaction that does not recover to Grade 0 or 1 within 12 weeks after last TECENTRIQ dose | Permanently discontinue |
-| Inability to taper corticosteroid | Inability to reduce to less than or equal to prednisone 10 mg per day (or equivalent) within 12 weeks after last TECENTRIQ dose | Permanently discontinue |
-| Recurrent Grade 3 or 4 adverse reaction | Recurrent Grade 3 or 4 (severe or life-threatening) adverse reaction | Permanently discontinue |
+| Hepatitis with no tumor involvement of the liver | AST or ALT increases to more than 3 and up to 8 times ULN or Total bilirubin increases to more than 1.5 and up to 3 times ULN | Withhold |
+| AST or ALT increases to more than 8 times ULN or Total bilirubin increases to more than 3 times ULN | Permanently discontinue |  |
+| Hepatitis with tumor involvement of the liverIf AST and ALT are less than or equal to ULN at baseline, withhold or permanently discontinue TECENTRIQ based on recommendations for hepatitis with no liver involvement. | Baseline AST or ALT is more than 1 and up to 3 times ULN and increases to more than 5 and up to 10 times ULN or Baseline AST or ALT is more than 3 and up to 5 times ULN and increases to more than 8 and up to 10 times ULN | Withhold |
+| AST or ALT increases to more than 10 times ULN or Total bilirubin increases to more than 3 times ULN | Permanently discontinue |  |
+| Endocrinopathies | Grades 3 or 4 | Withhold until clinically stable or permanently discontinue depending on severity |
+| Nephritis with Renal Dysfunction | Grades 2 or 3 increased blood creatinine | Withhold |
+| Grade 4 increased blood creatinine | Permanently discontinue |  |
+| Exfoliative Dermatologic Conditions | Suspected SJS, TEN, or DRESS | Withhold |
+| Confirmed SJS, TEN, or DRESS | Permanently discontinue |  |
+| Myocarditis | Grades 2, 3, or 4 | Permanently discontinue |
+| Neurological Toxicities | Grade 2 | Withhold |
+| Grades 3 or 4 | Permanently discontinue |  |
+| Other Adverse Reactions |  |  |
+| Infusion-Related Reactions [see Warnings and Precautions (5.2)] | Grades 1 or 2 | Interrupt or slow the rate of infusion |
+| Grades 3 or 4 | Permanently discontinue |  |
+| ALT = alanine aminotransferase, AST = aspartate aminotransferase, ULN = upper limit normal, DRESS = Drug Rash with Eosinophilia and Systemic Symptoms, SJS = Stevens Johnson syndrome, TEN = toxic epidermal necrolysis |  |  |
 
 ## 2.9 Preparation and Administration
 

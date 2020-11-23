@@ -2,13 +2,8 @@
 
 The following clinically significant adverse reactions are described elsewhere in the labeling:
 
-- Immune-Mediated Pneumonitis [see Warnings and Precautions (5.1)]
-- Immune-Mediated Hepatitis [see Warnings and Precautions (5.2)]
-- Immune-Mediated Colitis [see Warnings and Precautions (5.3)]
-- Immune-Mediated Endocrinopathies [see Warnings and Precautions (5.4)]
-- Other Immune-Mediated Adverse Reactions [see Warnings and Precautions (5.5)]
-- Infections [see Warnings and Precautions (5.6)]
-- Infusion-Related Reactions [see Warnings and Precautions (5.7)]
+- Severe and Fatal Immune-Mediated Adverse Reactions [see Warnings and Precautions (5.1)]
+- Infusion-Related Reactions [see Warnings and Precautions (5.2)]
 
 ## 6.1 Clinical Trials Experience
 
@@ -680,7 +675,7 @@ Table 20: Adverse Reactions Occurring in ≥10% of Patients on the TECENTRIQ plu
 | --- | --- | --- | --- | --- |
 | Adverse Reaction | TECENTRIQ in combination with Cobimetinib and Vemurafenib (n=230) |  | Placebo with Cobimetinib and Vemurafenib (n=281) |  |
 | Skin and Subcutaneous Tissue Disorders |  |  |  |  |
-| RashIncludes rash, rash maculo-papular, dermatitis acneiform, rash macular, rash erythematous, eczema, skin exfoliation, rash popular, rash pustular, palmar-plantar erythrodysaesthesia syndrome, dermatitis, dermatitis contact, erythema multiforme, rash pruritic, drug eruption, nodular rash, dermatitis allergic, exfoliative rash, dermatitis exfoliative generalised and rash morbilliform | 75 | 27 | 72 | 23 |
+| RashIncludes rash, rash maculo-papular, dermatitis acneiform, rash macular, rash erythematous, eczema, skin exfoliation, rash papular, rash pustular, palmar-plantar erythrodysaesthesia syndrome, dermatitis, dermatitis contact, erythema multiforme, rash pruritic, drug eruption, nodular rash, dermatitis allergic, exfoliative rash, dermatitis exfoliative generalised and rash morbilliform | 75 | 27 | 72 | 23 |
 | Pruritus | 26 | < 1 | 17 | <1 |
 | Photosensitivity reaction | 21 | <1 | 25 | 3.2 |
 | General Disorders and Administration Site Conditions |  |  |  |  |
@@ -742,10 +737,10 @@ Table 21: Laboratory Abnormalities Worsening from Baseline Occurring in ≥20% o
 | Increased Blood Urea Nitrogen | 47 | NANA= Not applicable. NCI CTCAE v4.0 does not include these laboratories. | 37 | NA |
 | Decreased Albumin | 43 | 0.9 | 34 | 1.5 |
 | Increased Bilirubin | 42 | 3.1 | 33 | 0.7 |
-| Decreaed Calcium | 41 | 1.3 | 28 | 0 |
+| Decreased Calcium | 41 | 1.3 | 28 | 0 |
 | Decreased Sodium | 40 | 5 | 34 | 7 |
 | Decreased Thyroid-Stimulating Hormone | 38 | NA | 23 | NA |
-| Increased Thyroid-Stimulating Hormone Increased Thyroid Stimulating Hormone has a difference <5% (All Grades) between arm and is included for clinical completeness. | 37 | NA | 33 | NA |
+| Increased Thyroid-Stimulating Hormone Increased Thyroid Stimulating Hormone has a difference <5% (All Grades) between arms and is included for clinical completeness. | 37 | NA | 33 | NA |
 | Decreased Potassium | 36 | 5 | 22 | 4.3 |
 | Increased Triiodothyronine | 33 | NA | 8 | NA |
 | Increased Free Thyroxine | 32 | NA | 21 | NA |
