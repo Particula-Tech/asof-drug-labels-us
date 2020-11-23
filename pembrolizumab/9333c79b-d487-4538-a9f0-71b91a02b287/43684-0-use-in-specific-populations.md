@@ -60,3 +60,6 @@ No overall differences in safety or effectiveness were observed between elderly 
 Of 389 adult patients with cHL who were treated with KEYTRUDA in clinical studies, 46 (12%) were 65 years and over.
 Patients aged 65 years and over had a higher incidence of serious adverse reactions (50%) than patients aged younger than 65 years (24%).
 Clinical studies of KEYTRUDA in cHL did not include sufficient numbers of patients aged 65 years and over to determine whether effectiveness differs from that in younger patients.
+
+Of 596 adult patients with TNBC who were treated with KEYTRUDA in combination with paclitaxel, paclitaxel protein-bound, or gemcitabine and carboplatin in KEYNOTE-355, 137 (23%) were 65 years and over.
+No overall differences in safety or effectiveness were observed between elderly patients and younger patients.

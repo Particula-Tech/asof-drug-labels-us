@@ -1,6 +1,6 @@
 # 2 DOSAGE AND ADMINISTRATION
 
-## 2.1 Patient Selection for NSCLC, HNSCC, Urothelial Carcinoma, Gastric Cancer, Esophageal Cancer, Cervical Cancer, MSI-H or dMMR Cancer, MSI-H or dMMR CRC, or TMB-H Cancer
+## 2.1 Patient Selection for NSCLC, HNSCC, Urothelial Carcinoma, Gastric Cancer, Esophageal Cancer, Cervical Cancer, MSI-H or dMMR Cancer, MSI-H or dMMR CRC, TMB-H Cancer, or TNBC
 
 Select patients for treatment with KEYTRUDA as a single agent based on the presence of positive PD-L1 expression in:
 
@@ -18,6 +18,10 @@ For the MSI-H/dMMR indications, select patients for treatment with KEYTRUDA as a
 For the TMB-H indication, select patients for treatment with KEYTRUDA as a single agent based on TMB-H status in tumor specimens [see Clinical Studies (14.17)].
 
 Because the effect of prior chemotherapy on test results for tumor mutation burden (TMB-H), MSI-H, or dMMR in patients with high-grade gliomas is unclear, it is recommended to test for these markers in the primary tumor specimens obtained prior to initiation of temozolomide chemotherapy in patients with high-grade gliomas.
+
+Select patients for treatment with KEYTRUDA in combination with chemotherapy based on the presence of positive PD-L1 expression in:
+
+- locally recurrent unresectable or metastatic TNBC [see Clinical Studies (14.19)].
 
 Information on FDA-approved tests for the detection of PD-L1 expression and TMB status is available at: http://www.fda.gov/CompanionDiagnostics.
 An FDA-approved test for the detection of MSI-H or dMMR is not currently available.
@@ -38,6 +42,7 @@ Table 1: Recommended Dosage
 | Adult patients with NSCLC or HNSCC | 200 mg every 3 weeks or 400 mg every 6 weeks Administer KEYTRUDA prior to chemotherapy when given on the same day. | Until disease progression, unacceptable toxicity, or up to 24 months |
 | Adult patients with RCC | 200 mg every 3 weeks or 400 mg every 6 weeks Administer KEYTRUDA in combination with axitinib 5 mg orally twice daily.When axitinib is used in combination with KEYTRUDA, dose escalation of axitinib above the initial 5 mg dose may be considered at intervals of six weeks or longer. | Until disease progression, unacceptable toxicity, or for KEYTRUDA, up to 24 months |
 | Adult patients with Endometrial Carcinoma | 200 mg every 3 weeks or 400 mg every 6 weeks Administer KEYTRUDA in combination with lenvatinib 20 mg orally once daily. | Until disease progression, unacceptable toxicity, or for KEYTRUDA, up to 24 months |
+| Adult patients with locally recurrent unresectable or metastatic TNBC | 200 mg every 3 weeks or 400 mg every 6 weeks Administer KEYTRUDA prior to chemotherapy when given on the same day. | Until disease progression, unacceptable toxicity, or up to 24 months |
 
 ## 2.3 Dose Modifications
 

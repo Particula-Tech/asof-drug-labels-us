@@ -1148,6 +1148,69 @@ Patients with autoimmune disease or a medical condition that required systemic c
 Adverse reactions occurring in patients with cSCC were similar to those occurring in 2799 patients with melanoma or NSCLC treated with KEYTRUDA as a single agent.
 Laboratory abnormalities (Grades 3-4) that occurred at a higher incidence included lymphopenia (11%).
 
+TNBC
+
+The safety of KEYTRUDA in combination with paclitaxel, paclitaxel protein-bound, or gemcitabine and carboplatin was investigated in KEYNOTE-355, a multicenter, double-blind, randomized (2:1), placebo-controlled trial in patients with locally recurrent unresectable or metastatic TNBC who had not been previously treated with chemotherapy in the metastatic setting [see Clinical Studies (14.19)].
+A total of 596 patients (including 34 patients from a safety run-in) received KEYTRUDA 200 mg every 3 weeks in combination with paclitaxel, paclitaxel protein-bound, or gemcitabine and carboplatin.
+
+The median duration of exposure to KEYTRUDA was 5.7 months (range: 1 day to 33.0 months).
+
+Fatal adverse reactions occurred in 2.5% of patients receiving KEYTRUDA in combination with chemotherapy, including cardio-respiratory arrest (0.7%) and septic shock (0.3%).
+
+Serious adverse reactions occurred in 30% of patients receiving KEYTRUDA in combination with paclitaxel, paclitaxel protein-bound, or gemcitabine and carboplatin.
+Serious adverse reactions in ≥2% of patients were pneumonia (2.9%), anemia (2.2%), and thrombocytopenia (2%).
+
+KEYTRUDA was discontinued for adverse reactions in 11% of patients.
+The most common adverse reactions resulting in permanent discontinuation of KEYTRUDA (≥1%) were increased ALT (2.2%), increased AST (1.5%), and pneumonitis (1.2%).
+Adverse reactions leading to the interruption of KEYTRUDA occurred in 50% of patients.
+The most common adverse reactions leading to interruption of KEYTRUDA (≥2%) were neutropenia (22%), thrombocytopenia (14%), anemia (7%), increased ALT (6%), leukopenia (5%), increased AST (5%), decreased white blood cell count (3.9%), and diarrhea (2%).
+
+Tables 35 and 36 summarize the adverse reactions and laboratory abnormalities in patients on KEYTRUDA in KEYNOTE-355.
+
+Table 35: Adverse Reactions Occurring in ≥20% of Patients Receiving KEYTRUDA with Chemotherapy in KEYNOTE-355
+
+| All GradesGraded per NCI CTCAE v4.03 (%) | Grades 3-4 (%) | All Grades (%) | Grades 3-4 (%) |  |
+| --- | --- | --- | --- | --- |
+| Adverse Reaction | KEYTRUDA 200 mg every 3 weeks with chemotherapy n=596 |  | Placebo every 3 weeks with chemotherapy n=281 |  |
+| General |  |  |  |  |
+| FatigueIncludes fatigue and asthenia | 48 | 5 | 49 | 4.3 |
+| Gastrointestinal |  |  |  |  |
+| Nausea | 44 | 1.7 | 47 | 1.8 |
+| Diarrhea | 28 | 1.8 | 23 | 1.8 |
+| Constipation | 28 | 0.5 | 27 | 0.4 |
+| Vomiting | 26 | 2.7 | 22 | 3.2 |
+| Skin and Subcutaneous Tissue |  |  |  |  |
+| Alopecia | 34 | 0.8 | 35 | 1.1 |
+| RashIncludes rash, rash maculo-papular, rash pruritic, rash pustular, rash macular, rash papular, butterfly rash, rash erythematous, eyelid rash | 26 | 2 | 16 | 0 |
+| Respiratory, Thoracic and Mediastinal |  |  |  |  |
+| CoughIncludes cough, productive cough, upper-airway cough syndrome | 23 | 0 | 20 | 0.4 |
+| Metabolism and Nutrition |  |  |  |  |
+| Decreased appetite | 21 | 0.8 | 14 | 0.4 |
+| Nervous System |  |  |  |  |
+| HeadacheIncludes headache, migraine, tension headache | 20 | 0.7 | 23 | 0.7 |
+
+Table 36: Laboratory Abnormalities Worsened from Baseline Occurring in ≥20% of Patients Receiving KEYTRUDA with Chemotherapy in KEYNOTE-355
+
+| All GradesGraded per NCI CTCAE v4.03 % | Grades 3-4 % | All Grades % | Grades 3-4 % |  |
+| --- | --- | --- | --- | --- |
+| Laboratory TestEach test incidence is based on the number of patients who had both baseline and at least one on-study laboratory measurement available: KEYTRUDA + chemotherapy (range: 566 to 592 patients) and placebo + chemotherapy (range: 269 to 280 patients). | KEYTRUDA 200 mg every 3 weeks with chemotherapy |  | Placebo every 3 weeks with chemotherapy |  |
+| Hematology |  |  |  |  |
+| Anemia | 90 | 20 | 85 | 19 |
+| Leukopenia | 85 | 39 | 86 | 39 |
+| Neutropenia | 76 | 49 | 77 | 52 |
+| Lymphopenia | 70 | 26 | 70 | 19 |
+| Thrombocytopenia | 54 | 19 | 53 | 21 |
+| Chemistry |  |  |  |  |
+| Increased ALT | 60 | 11 | 58 | 8 |
+| Increased AST | 57 | 9 | 55 | 6 |
+| Hyperglycemia | 52 | 4.4 | 51 | 2.2 |
+| Hypoalbuminemia | 37 | 2.2 | 32 | 2.2 |
+| Increased alkaline phosphatase | 35 | 3.9 | 39 | 2.2 |
+| Hypocalcemia | 29 | 3.3 | 27 | 1.8 |
+| Hyponatremia | 28 | 5 | 26 | 6 |
+| Hypophosphatemia | 21 | 7 | 18 | 4.8 |
+| Hypokalemia | 20 | 4.4 | 18 | 4.0 |
+
 ## 6.2 Immunogenicity
 
 As with all therapeutic proteins, there is the potential for immunogenicity.

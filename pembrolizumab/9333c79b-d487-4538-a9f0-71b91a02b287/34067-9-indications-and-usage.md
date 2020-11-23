@@ -130,8 +130,15 @@ Limitations of Use: The safety and effectiveness of KEYTRUDA in pediatric patien
 
 KEYTRUDA is indicated for the treatment of patients with recurrent or metastatic cutaneous squamous cell carcinoma (cSCC) that is not curable by surgery or radiation.
 
-## 1.19 Adult Indications: Additional Dosing Regimen of 400 mg Every 6 Weeks
+## 1.19 Triple-Negative Breast Cancer
 
-KEYTRUDA is indicated for use at an additional recommended dosage of 400 mg every 6 weeks for all approved adult indications [see Indications and Usage (1.1-1.18) and Dosage and Administration (2.2)].
-This indication is approved under accelerated approval based on pharmacokinetic data, the relationship of exposure to efficacy, and the relationship of exposure to safety [see Clinical Pharmacology (12.2) and Clinical Studies (14.19)].
+KEYTRUDA, in combination with chemotherapy, is indicated for the treatment of patients with locally recurrent unresectable or metastatic triple-negative breast cancer (TNBC) whose tumors express PD-L1 (CPS ≥10) as determined by an FDA-approved test [see Dosage and Administration (2.1)].
+
+This indication is approved under accelerated approval based on progression-free survival [see Clinical Studies (14.19)].
+Continued approval for this indication may be contingent upon verification and description of clinical benefit in the confirmatory trials.
+
+## 1.20 Adult Indications: Additional Dosing Regimen of 400 mg Every 6 Weeks
+
+KEYTRUDA is indicated for use at an additional recommended dosage of 400 mg every 6 weeks for all approved adult indications [see Indications and Usage (1.1-1.19) and Dosage and Administration (2.2)].
+This indication is approved under accelerated approval based on pharmacokinetic data, the relationship of exposure to efficacy, and the relationship of exposure to safety [see Clinical Pharmacology (12.2) and Clinical Studies (14.20)].
 Continued approval for this dosing may be contingent upon verification and description of clinical benefit in the confirmatory trials.
