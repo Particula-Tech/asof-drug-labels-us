@@ -17,5 +17,5 @@ Made in USA
 
 Distributed by: Alvogen, Inc. Pine Brook NJ 07058 USA
 
-PI335-00 Rev.
-08/2014
+PI335-01 Rev.
+01/2017 PKG02240
