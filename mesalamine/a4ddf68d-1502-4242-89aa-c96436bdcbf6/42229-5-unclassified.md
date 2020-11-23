@@ -8,8 +8,6 @@ How to Use this Medication
 
 Best results are achieved if the bowel is emptied immediately before the medication is given.
 
-Use as described by your physician.
-
 NOTE: Mesalamine Rectal Suspension Enema will cause staining of direct contact surfaces, including but not limited to fabrics, flooring, painted surfaces, marble, granite, vinyl, and enamel.
 Take care in choosing a suitable location for administration of this product.
 
@@ -49,8 +47,8 @@ Yeruham, Israel
 
 Distributed By Perrigo®
 
-Allegan, MI 49010 • www.perrigo.com
+Allegan, MI 49010 • www.perrigorx.com
 
-Rev 12-17
+Rev 10-20
 
-2N900 RC J7
+2N900 RC J8

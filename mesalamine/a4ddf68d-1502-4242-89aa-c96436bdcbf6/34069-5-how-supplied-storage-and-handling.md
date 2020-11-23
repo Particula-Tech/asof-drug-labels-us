@@ -27,7 +27,7 @@ Once the foil-wrapped unit of seven bottles is opened, all enemas should be used
 Contents of enemas removed from the foil pouch may darken with time.
 Slight darkening will not affect potency, however, enemas with dark brown contents should be discarded.
 
-NOTE: Mesalamine Rectal Suspension, USP will cause staining of direct contact surfaces, including but not limited to fabrics, flooring, painted surfaces, marble, granite, vinyl, and enamel.
+NOTE: Mesalamine Rectal Suspension Enema will cause staining of direct contact surfaces, including but not limited to fabrics, flooring, painted surfaces, marble, granite, vinyl, and enamel.
 Take care in choosing a suitable location for administration of this product.
 
 For more information call Perrigo at 1-866-634-9120.
@@ -42,8 +42,8 @@ Yeruham, Israel
 
 Distributed By Perrigo®
 
-Allegan, MI 49010 • www.perrigo.com
+Allegan, MI 49010 • www.perrigorx.com
 
-Rev 12-17
+Rev 10-20
 
-2N900 RC J7
+2N900 RC J8

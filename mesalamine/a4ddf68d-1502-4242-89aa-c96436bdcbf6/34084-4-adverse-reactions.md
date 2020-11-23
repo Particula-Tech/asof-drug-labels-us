@@ -1,3 +1,5 @@
+# To report SUSPECTED ADVERSE REACTIONS, contact Perrigo at 1-866-634-9120 or FDA at 1-800-FDA-1088 or www.fda.gov/medwatch.
+
 # ADVERSE REACTIONS
 
 ## Clinical Adverse Experience -
@@ -5,7 +7,7 @@
 Mesalamine Rectal Suspension Enema is usually well tolerated.
 Most adverse effects have been mild and transient.
 
-ADVERSE REACTIONS OCCURRING IN MORE THAN 0.1% OF MESLAMINE RECTAL SUSPENSION ENEMA TREATED PATIENTS (COMPARISON TO PLACEBO)
+ADVERSE REACTIONS OCCURRING IN MORE THAN 0.1% OF MESALAMINE RECTAL SUSPENSION ENEMA TREATED PATIENTS (COMPARISON TO PLACEBO)
 
 |  | MESALAMINE RECTAL SUSPENSION ENEMA |  | PLACEBO |  |
 | --- | --- | --- | --- | --- |
@@ -36,13 +38,13 @@ ADVERSE REACTIONS OCCURRING IN MORE THAN 0.1% OF MESLAMINE RECTAL SUSPENSION ENE
 | Asthenia | 1 | 0.12 | 4 | 3.12 |
 | Insomnia | 1 | 0.12 | 3 | 2.34 |
 
-In addition, the following adverse events have been identified during post-approval use of products which contain (or are metabolized to) mesalamine in clinical practice: nephrotoxicity, pancreatitis, fibrosing alveolitis and elevated liver enzymes.
+In addition, the following adverse events have been identified during post-approval use of products which contain (or are metabolized to) mesalamine in clinical practice: nephrotoxicity, pancreatitis, fibrosing alveolitis, elevated liver enzymes, nephrogenic diabetes insipidus, intracranial hypertension and nephrolithiasis.
 Cases of pancreatitis and fibrosing alveolitis have been reported as manifestations of inflammatory bowel disease as well.
 Published case reports and/or spontaneous post marketing surveillance have described rare instances of aplastic anemia, agranulocytosis, thrombocytopenia, eosinophilia, pancytopenia, neutropenia, oligospermia, and infertility in men.
 Anemia, leukocytosis and thrombocytosis can be part of the clinical presentation of inflammatory bowel disease.
 
-## Hair Loss -
+## Hair Loss
 
-Mild hair loss characterized by "more hair in the comb" but no withdrawal from clinical trials has been observed in seven of 815 mesalamine patients but none of the placebo-treated patients.
+Mild hair loss characterized by "more hair in the comb" but no withdrawal from clinical trials has been observed in 7 of 815 mesalamine patients but none of the placebo-treated patients.
 In the literature there are at least six additional patients with mild hair loss who received either mesalamine or sulfasalazine.
 Retreatment is not always associated with repeated hair loss.
