@@ -84,3 +84,5 @@ The following adverse reactions have been identified during post-approval use of
 Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
 
 Hypersensitivity reactions: dyspnea, rash, pruritus, urticaria, and facial edema [see Contraindications (4)].
+
+Psychiatric disorders: Suicide, suicide attempts, suicidal ideation, self-injurious ideation, depression, anxiety, insomnia, nightmares, and visual hallucinations [see Warnings and Precautions (5.1)].

@@ -2,6 +2,11 @@
 
 ## 8.1 Pregnancy
 
+Pregnancy Exposure Registry
+
+There is a pregnancy exposure registry that monitors pregnancy outcomes in women exposed to MOTEGRITY during pregnancy.
+Healthcare providers are encouraged to register patients by contacting MotherToBaby Pregnancy Studies conducted by the Organization of Teratology Information Specialists (OTIS) at 1-877-311-8972 or visiting https://mothertobaby.org/pregnancy-studies/.
+
 Risk Summary
 
 Available data from case reports with prucalopride use in pregnant women are insufficient to identify any drug-associated risks of miscarriage, major birth defects, or adverse maternal or fetal outcomes.

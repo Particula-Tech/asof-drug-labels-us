@@ -1,14 +1,7 @@
-Manufactured for:
+Distributed by: Takeda Pharmaceuticals America, Inc. Lexington, MA 02421
 
-Shire US Inc. 300 Shire Way Lexington, MA 02421
+For more information go to http://www.motegrity.com or call 1-800-828-2088
 
-For more information go to www.motegrity.com or call 1-800-828-2088
-
-Motegrity is a trademark or registered trademark of Shire LLC, a wholly-owned, indirect subsidiary of Shire plc.
-
-Shire and the Shire Logo are trademarks or registered trademarks of Shire Pharmaceutical Holdings Ireland Limited or its affiliates.
-
-Copyright © 2018 Shire LLC.
-All rights reserved.
+MOTEGRITY® and the MOTEGRITY Logo® are registered trademarks of Takeda Pharmaceuticals U.S.A., Inc. TAKEDA® and the TAKEDA Logo® are registered trademarks of Takeda Pharmaceutical Company Limited. © 2020 Takeda Pharmaceuticals U.S.A., Inc. All rights reserved.
 
 TRPI0
