@@ -6,7 +6,7 @@ CLARINEX® (desloratadine) 5 mg TABLETS
 
 Rx only
 
-actual size
+actual size ®
 
 PRINCIPAL DISPLAY PANEL - 473 mL Bottle Carton
 
