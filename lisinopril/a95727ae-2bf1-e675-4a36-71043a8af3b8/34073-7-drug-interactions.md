@@ -26,7 +26,7 @@ The antihypertensive effect of ACE inhibitors, including lisinopril, may be atte
 
 Dual blockade of the RAS with angiotensin receptor blockers, ACE inhibitors, or aliskiren is associated with increased risks of hypotension, hyperkalemia, and changes in renal function (including acute renal failure) compared to monotherapy.
 
-The VA NEPHRON trial enrolled 1448 patients with type 2 diabetes, elevated urinary-albumin-to-creatinine ratio, and decreased estimated glomerular filtration rate (GFR 30 mL/min to 89.9 mL/min), randomized them to lisinopril or placebo on a background of losartan therapy and followed them for a median of 2.2 years.
+The VA NEPHRON trial enrolled 1,448 patients with type 2 diabetes, elevated urinary-albumin-to-creatinine ratio, and decreased estimated glomerular filtration rate (GFR 30 mL/min to 89.9 mL/min), randomized them to lisinopril or placebo on a background of losartan therapy and followed them for a median of 2.2 years.
 Patients receiving the combination of losartan and lisinopril did not obtain any additional benefit compared to monotherapy for the combined endpoint of decline in GFR, end state renal disease, or death, but experienced an increased incidence of hyperkalemia and acute kidney injury compared with the monotherapy group.
 
 In general, avoid combined use of RAS inhibitors.

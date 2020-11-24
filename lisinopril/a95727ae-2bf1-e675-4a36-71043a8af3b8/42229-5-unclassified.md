@@ -1,6 +1,8 @@
 Zestril is a registered trademark of Alvogen AZ IP Holdings LLC.
 
-Distributed by: Almatica Pharma, Inc. Pine Brook, NJ 07058 USA
+Distributed by: Almatica Pharma LLC Morristown, NJ 07960 USA
 
-PI438-09 Rev.
-03/2019
+PI438-11
+
+Rev.
+03/2020

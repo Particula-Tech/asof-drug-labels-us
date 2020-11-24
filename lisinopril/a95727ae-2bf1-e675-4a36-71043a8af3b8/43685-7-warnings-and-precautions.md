@@ -34,7 +34,7 @@ Anaphylactoid Reactions
 
 Anaphylactoid Reactions During Desensitization
 
-Two patients undergoing desensitizing treatment with hymenoptera venom while receiving ACE inhibitors sustained life-threatening anaphylactoid reactions.
+Two patients undergoing desensitizing treatment with hymenoptera venom while receiving ACE inhibitors sustained life- threatening anaphylactoid reactions.
 
 Anaphylactoid Reactions During Dialysis
 
