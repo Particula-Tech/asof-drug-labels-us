@@ -30,8 +30,14 @@ Administration of live-attenuated or live vaccines is not recommended during OCR
 Malignancies
 
 Advise patients that an increased risk of malignancy, including breast cancer, may exist with OCREVUS.
-Advise patients that they should follow standard breast cancer screening guidelines [see Warnings and Precautions (5.3)].
+Advise patients that they should follow standard breast cancer screening guidelines [see Warnings and Precautions (5.4)].
 
-Pregnancy
+Contraception
 
-Instruct patients that if they are pregnant or plan to become pregnant while taking OCREVUS they should inform their healthcare provider [see Pregnancy (8.1)].
+Females of childbearing potential should use effective contraception while receiving OCREVUS and for 6 months after the last infusion of OCREVUS [see Clinical Pharmacology (12.3)].
+
+Pregnancy Registry
+
+Instruct patients that if they are pregnant or plan to become pregnant while taking OCREVUS they should inform their healthcare provider [see Use in Specific Populations (8.1)].
+
+Encourage patients to enroll in the OCREVUS Pregnancy Registry if they become pregnant while taking OCREVUS [see Use in Specific Populations (8.1)].

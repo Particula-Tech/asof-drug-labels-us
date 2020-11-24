@@ -25,7 +25,6 @@ In RMS trials, 58% of OCREVUS-treated patients experienced one or more infection
 In the PPMS trial, 70% of OCREVUS-treated patients experienced one or more infections compared to 68% of patients on placebo.
 OCREVUS increased the risk for upper respiratory tract infections, lower respiratory tract infections, skin infections, and herpes-related infections [see Adverse Reactions (6.1)].
 OCREVUS was not associated with an increased risk of serious infections in MS patients.
-
 Delay OCREVUS administration in patients with an active infection until the infection is resolved.
 
 Respiratory Tract Infections
@@ -58,8 +57,8 @@ Typical symptoms associated with PML are diverse, progress over days to weeks, a
 
 Hepatitis B Virus (HBV) Reactivation
 
-There were no reports of hepatitis B reactivation in MS patients treated with OCREVUS.
-Fulminant hepatitis, hepatic failure, and death caused by HBV reactivation have occurred in patients treated with other anti-CD20 antibodies.
+Hepatitis B reactivation has been reported in MS patients treated with OCREVUS in the postmarketing setting.
+Fulminant hepatitis, hepatic failure, and death caused by HBV reactivation have occurred in patients treated with anti-CD20 antibodies.
 Perform HBV screening in all patients before initiation of treatment with OCREVUS.
 Do not administer OCREVUS to patients with active HBV confirmed by positive results for HBsAg and anti-HB tests.
 For patients who are negative for surface antigen [HBsAg] and positive for HB core antibody [HBcAb+] or are carriers of HBV [HBsAg+], consult liver disease experts before starting and during treatment.
@@ -84,7 +83,14 @@ Depletion of B-cells in these infants may increase the risks from live or live-a
 
 You may administer non-live vaccines, as indicated, prior to recovery from B-cell depletion, but should consider assessing vaccine immune responses, including consultation with a qualified specialist, to assess whether a protective immune response was mounted [see Use in Specific Populations (8.1)].
 
-## 5.3 Malignancies
+## 5.3 Reduction in Immunoglobulins
+
+As expected with any B-cell depleting therapy, decreased immunoglobulin levels are observed with OCREVUS treatment.
+The pooled data of OCREVUS clinical studies (RMS and PPMS) and their open-label extensions (up to approximately 7 years of exposure) have shown an association between decreased levels of immunoglobulin G (IgG<LLN) and increased rates of serious infections.
+Monitor the levels of quantitative serum immunoglobulins during OCREVUS treatment and after discontinuation of treatment, until B-cell repletion, and especially in the setting of recurrent serious infections.
+Consider discontinuing OCREVUS therapy in patients with serious opportunistic or recurrent serious infections, and if prolonged hypogammaglobulinemia requires treatment with intravenous immunoglobulins [see Adverse Reactions (6.1)].
+
+## 5.4 Malignancies
 
 An increased risk of malignancy with OCREVUS may exist.
 In controlled trials, malignancies, including breast cancer, occurred more frequently in OCREVUS-treated patients.

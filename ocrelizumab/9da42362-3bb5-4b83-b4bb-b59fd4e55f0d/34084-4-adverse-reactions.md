@@ -4,7 +4,8 @@ The following serious adverse reactions are discussed in greater detail in other
 
 - Infusion Reactions [see Warnings and Precautions (5.1)]
 - Infections [see Warnings and Precautions (5.2)]
-- Malignancies [see Warnings and Precautions (5.3)]
+- Reduction in Immunoglobulins [see Warnings and Precautions (5.3)]
+- Malignancies [see Warnings and Precautions (5.4)]
 
 ## 6.1 Clinical Trials Experience
 
@@ -60,14 +61,16 @@ Laboratory Abnormalities
 
 Decreased Immunoglobulins
 
-OCREVUS decreased total immunoglobulins with the greatest decline seen in IgM levels.
-In MS clinical trials, there was no apparent association between immunoglobulin decrease and risk for serious infections.
+OCREVUS decreased total immunoglobulins with the greatest decline seen in IgM levels; however, a decrease in IgG levels was associated with an increased rate of serious infections.
 
 In the active-controlled (RMS) trials (Study 1 and Study 2), the proportion of patients at baseline reporting IgG, IgA, and IgM below the lower limit of normal (LLN) in OCREVUS-treated patients was 0.5%, 1.5%, and 0.1%, respectively.
 Following treatment, the proportion of OCREVUS-treated patients reporting IgG, IgA, and IgM below the LLN at 96 weeks was 1.5%, 2.4%, and 16.5%, respectively.
 
 In the placebo-controlled (PPMS) trial (Study 3), the proportion of patients at baseline reporting IgG, IgA, and IgM below the LLN in OCREVUS-treated patients was 0.0%, 0.2%, and 0.2%, respectively.
 Following treatment, the proportion of OCREVUS-treated patients reporting IgG, IgA, and IgM below the LLN at 120 weeks was 1.1%, 0.5%, and 15.5%, respectively.
+
+The pooled data of OCREVUS clinical studies (RMS and PPMS) and their open-label extensions (up to approximately 7 years of exposure) have shown an association between decreased levels of IgG and increased rates of serious infections.
+The type, severity, latency, duration, and outcome of SIs observed during episodes of immunoglobulins below LLN were consistent with the overall SIs observed in patients treated with OCREVUS.
 
 Decreased Neutrophil Levels
 

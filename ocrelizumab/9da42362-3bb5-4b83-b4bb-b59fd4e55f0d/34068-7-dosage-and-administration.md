@@ -8,6 +8,9 @@ Prior to initiating OCREVUS, perform Hepatitis B virus (HBV) screening.
 OCREVUS is contraindicated in patients with active HBV confirmed by positive results for HBsAg and anti-HBV tests.
 For patients who are negative for surface antigen [HBsAg] and positive for HB core antibody [HBcAb+] or are carriers of HBV [HBsAg+], consult liver disease experts before starting and during treatment [see Warnings and Precautions (5.2)].
 
+Serum Immunoglobulins Prior to initiating OCREVUS, perform testing for quantitative serum immunoglobulins [see Warnings and Precautions (5.3)].
+For patients with low serum immunoglobulins, consult immunology experts before initiating treatment with OCREVUS.
+
 Vaccinations
 
 Because vaccination with live-attenuated or live vaccines is not recommended during treatment and after discontinuation until B-cell repletion, administer all immunizations according to immunization guidelines at least 4 weeks prior to initiation of OCREVUS for live or live-attenuated vaccines and, whenever possible, at least 2 weeks prior to initiation of OCREVUS for non-live vaccines [see Warnings and Precautions (5.2) and Clinical Pharmacology (12.2)].
