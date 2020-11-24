@@ -25,19 +25,17 @@ The increased systemic exposure should be taken into consideration when treating
 
 ## 2.4 Use with Concomitant Therapy
 
-Patients taking cyclosporine
+Patients taking cyclosporine and darolutamide The dose of rosuvastatin tablets should not exceed 5 mg once daily [see Warnings and Precautions (5.1), Drug Interactions (7.1), Drug Interactions (7.4) and Clinical Pharmacology (12.3)].
 
-The dose of rosuvastatin tablets should not exceed 5 mg once daily [see Warnings and Precautions (5.1), Drug Interactions (7.1) and Clinical Pharmacology (12.3)].
-
-Patients taking gemfibrozil
-
-Avoid concomitant use of rosuvastatin with gemfibrozil.
+Patients taking gemfibrozil Avoid concomitant use of rosuvastatin with gemfibrozil.
 If concomitant use cannot be avoided, initiate rosuvastatin tablets at 5 mg once daily.
-The dose of rosuvastatin tablets should not exceed 10 mg once daily [see Warnings and Precautions (5.1), Drug Interactions (7.2) and Clinical Pharmacology (12.3)].
+The dose of rosuvastatin tablets should not exceed 10 mg once daily.
+[see Warnings and Precautions (5.1), Drug Interactions (7.2) and Clinical Pharmacology (12.3)].
 
-Patients taking atazanavir and ritonavir, lopinavir and ritonavir, or simeprevir
+Patients taking regorafenib Concomitant use of rosuvastatin tablets and regorafenib, the dose of rosuvastatin tablets should not exceed 10 mg once daily.
+[see Warnings and Precautions (5.1), Drug Interactions (7.5) and Clinical Pharmacology (12.3)].
 
-Initiate rosuvastatin therapy with 5 mg once daily.
+Patients taking atazanavir and ritonavir, lopinavir and ritonavir, simeprevir or combination of dasabuvir/ombitasvir/paritaprevir/ritonavir, elbasvir/grazoprevir, sofosbuvir/velpatasvir and glecaprevir/pibrentasvir Initiate rosuvastatin therapy with 5 mg once daily.
 The dose of rosuvastatin tablets should not exceed 10 mg once daily [see Warnings and Precautions (5.1), Drug Interactions (7.3), and Clinical Pharmacology (12.3)].
 
 ## 2.5 Dosing in Patients with Severe Renal Impairment
