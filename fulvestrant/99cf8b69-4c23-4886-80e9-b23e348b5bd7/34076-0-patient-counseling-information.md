@@ -26,4 +26,4 @@ Monroe, NC 28110
 Manufactured for:
 
 Glenmark Pharmaceuticals Inc., USA Mahwah, NJ 07430 Questions?
-1 (888) 721-7115 www.glenmarkpharma-us.com July 2020
+1 (888) 721-7115 www.glenmarkpharma-us.com November 2020

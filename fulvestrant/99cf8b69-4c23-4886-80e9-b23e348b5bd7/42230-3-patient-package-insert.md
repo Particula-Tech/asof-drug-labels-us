@@ -109,4 +109,4 @@ Glenmark Pharmaceuticals Inc., USA Mahwah, NJ 07430 Questions?
 
 This Patient Information has been approved by the U.S. Food and Drug Administration
 
-July 2020
+November 2020

@@ -41,7 +41,7 @@ Peel open the safety needle (SafetyGlide™) outer packaging.
 
 5.
 Hold the syringe upright on the ribbed part (C).
-With the other hand, take hold of the cap (A) and carefully TWIST THE CAP COUNTER-CLOCKWISE until the cap disconnects for removal (see Figure 1).
+With the other hand, take hold of the cap (A) and carefully TWIST THE CAP COUNTER-CLOCKWISE (DO NOT TILT CAP BACK AND FORTH) until the cap disconnects for removal of the tip cap (see Figure 1).
 
 6.
 Pull the cap (A) off in a straight upward direction.
