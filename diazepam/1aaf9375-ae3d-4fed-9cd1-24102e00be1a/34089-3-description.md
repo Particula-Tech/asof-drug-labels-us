@@ -18,4 +18,4 @@ alcohol......................................................................
 
 Inactive Ingredients
 
-The 25 mg per 5 mL (5 mg/mL) IntensolTM Oral Solution (Concentrate) contains alcohol, D&C Yellow No. 10, polyethylene glycol, propylene glycol, succinic acid and water.
+alcohol, D&C Yellow No. 10, polyethylene glycol, propylene glycol, succinic acid and water.

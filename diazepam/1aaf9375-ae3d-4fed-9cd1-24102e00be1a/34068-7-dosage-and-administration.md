@@ -14,6 +14,12 @@ In such cases dosage should be increased cautiously to avoid adverse effects.
 | Pediatric Patients: |  |
 | Because of varied responses to CNS-acting drugs, initiate therapy with lowest dose and increase as required. Not for use in pediatric patients under 6 months. | 1 mg to 2.5 mg, 3 or 4 times daily initially; increase gradually as needed and tolerated |
 
+Discontinuation or Dosage Reduction of Diazepam
+
+To reduce the risk of withdrawal reactions, use a gradual taper to discontinue diazepam or reduce the dosage.
+If a patient develops withdrawal reactions, consider pausing the taper or increasing the dosage to the previous tapered dosage level.
+Subsequently decrease the dosage more slowly (see WARNINGS: Dependence and Withdrawal Reactions and DRUG ABUSE AND DEPENDENCE: Dependence).
+
 ## Proper Use of an Intensol™
 
 An Intensol is a concentrated oral solution as compared to standard oral liquid medications.
