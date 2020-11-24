@@ -16,7 +16,7 @@ The largest and most consistent cardiovascular outcome benefit has been a reduct
 Elevated systolic or diastolic pressure causes increased cardiovascular risk, and the absolute risk increase per mmHg is greater at higher blood pressures, so that even modest reductions of severe hypertension can provide substantial benefit.
 Relative risk reduction from blood pressure reduction is similar across populations with varying absolute risk, so the absolute benefit is greater in patients who are at higher risk independent of their hypertension (for example, patients with diabetes or hyperlipidemia), and such patients would be expected to benefit from more aggressive treatment to a lower blood pressure goal.
 
-Some antihypertensive drugs have smaller blood pressure effects (as monotherapy) in black patients, and many antihypertensive drugs have additional approved indications and effects (eg, on angina, heart failure, or diabetic kidney disease).
+Some antihypertensive drugs have smaller blood pressure effects (as monotherapy) in black patients, and many antihypertensive drugs have additional approved indications and effects (e.g., on angina, heart failure, or diabetic kidney disease).
 These considerations may guide selection of therapy.
 
 TENORMIN may be administered with other antihypertensive agents.
@@ -31,4 +31,4 @@ TENORMIN is indicated in the management of hemodynamically stable patients with 
 Treatment can be initiated as soon as the patient’s clinical condition allows.
 (See DOSAGE AND ADMINISTRATION, CONTRAINDICATIONS, and WARNINGS.)
 In general, there is no basis for treating patients like those who were excluded from the ISIS-1 trial (blood pressure less than 100 mm Hg systolic, heart rate less than 50 bpm) or have other reasons to avoid beta blockade.
-As noted above, some subgroups (eg, elderly patients with systolic blood pressure below 120 mm Hg) seemed less likely to benefit.
+As noted above, some subgroups (e.g., elderly patients with systolic blood pressure below 120 mm Hg) seemed less likely to benefit.

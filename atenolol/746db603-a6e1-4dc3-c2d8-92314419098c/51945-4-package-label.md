@@ -2,13 +2,11 @@
 
 NDC 52427-429-90
 
-Rx only
+Rx Only
 
 TENORMIN® (atenolol)
 
 25 mg tablets
-
-Rx only
 
 90 Tablets
 
@@ -16,7 +14,7 @@ Rx only
 
 NDC 52427-430-90
 
-Rx only
+Rx Only
 
 TENORMIN® (atenolol)
 
@@ -28,7 +26,7 @@ TENORMIN® (atenolol)
 
 NDC 52427-431-90
 
-Rx only
+Rx Only
 
 TENORMIN® (atenolol)
 

@@ -13,7 +13,7 @@ At the first sign or symptom of impending cardiac failure, patients should be tr
 If cardiac failure continues despite adequate treatment, TENORMIN should be withdrawn.
 (See DOSAGE AND ADMINISTRATION)
 
-| Cessation of Therapy with TENORMIN Patients with coronary artery disease, who are being treated with TENORMIN, should be advised against abrupt discontinuation of therapy. Severe exacerbation of angina and the occurrence of myocardial infarction and ventricular arrhythmias have been reported in angina patients following the abrupt discontinuation of therapy with beta blockers. The last two complications may occur with or without preceding exacerbation of the angina pectoris. As with other beta blockers, when discontinuation of TENORMIN is planned, the patients should be carefully observed and advised to limit physical activity to a minimum. If the angina worsens or acute coronary insufficiency develops, it is recommended that TENORMIN be promptly reinstituted, at least temporarily. Because coronary artery disease is common and may be unrecognized, it may be prudent not to discontinue TENORMIN therapy abruptly even in patients treated only for hypertension. (See DOSAGE AND ADMINISTRATION.) |
+| Cessation of Therapy with TENORMIN Patients with coronary artery disease, who are being treated with TENORMIN, should be advised against abrupt discontinuation of therapy. Severe exacerbation of angina and the occurrence of myocardial infarction and ventricular arrhythmias have been reported in angina patients following the abrupt discontinuation of therapy with beta-blockers. The last two complications may occur with or without preceding exacerbation of the angina pectoris. As with other beta-blockers, when discontinuation of TENORMIN is planned, the patients should be carefully observed and advised to limit physical activity to a minimum. If the angina worsens or acute coronary insufficiency develops, it is recommended that TENORMIN be promptly reinstituted, at least temporarily. Because coronary artery disease is common and may be unrecognized, it may be prudent not to discontinue TENORMIN therapy abruptly even in patients treated only for hypertension. (See DOSAGE AND ADMINISTRATION.) |
 | --- |
 
 ## Concomitant Use of Calcium Channel Blockers
@@ -24,7 +24,7 @@ Patients with pre-existing conduction abnormalities or left ventricular dysfunct
 
 ## Bronchospastic Diseases
 
-PATIENTS WITH BRONCHOSPASTIC DISEASE SHOULD, IN GENERAL, NOT RECEIVE BETA BLOCKERS.
+PATIENTS WITH BRONCHOSPASTIC DISEASE SHOULD, IN GENERAL, NOT RECEIVE BETA-BLOCKERS.
 Because of its relative beta1 selectivity, however, TENORMIN may be used with caution in patients with bronchospastic disease who do not respond to, or cannot tolerate, other antihypertensive treatment.
 Since beta1 selectivity is not absolute, the lowest possible dose of TENORMIN should be used with therapy initiated at 50 mg and a beta2-stimulating agent (bronchodilator) should be made available.
 If dosage must be increased, dividing the dose should be considered in order to achieve lower peak blood levels.
@@ -36,12 +36,12 @@ Chronically administered beta-blocking therapy should not be routinely withdrawn
 ## Diabetes and Hypoglycemia
 
 TENORMIN should be used with caution in diabetic patients if a beta-blocking agent is required.
-Beta blockers may mask tachycardia occurring with hypoglycemia, but other manifestations such as dizziness and sweating may not be significantly affected.
-At recommended doses TENORMIN does not potentiate insulin-induced hypoglycemia and, unlike nonselective beta blockers, does not delay recovery of blood glucose to normal levels.
+Beta-blockers may mask tachycardia occurring with hypoglycemia, but other manifestations such as dizziness and sweating may not be significantly affected.
+At recommended doses TENORMIN does not potentiate insulin-induced hypoglycemia and, unlike nonselective beta-blockers, does not delay recovery of blood glucose to normal levels.
 
 ## Thyrotoxicosis
 
-Beta-adrenergic blockade may mask certain clinical signs (eg, tachycardia) of hyperthyroidism.
+Beta-adrenergic blockade may mask certain clinical signs (e.g., tachycardia) of hyperthyroidism.
 Abrupt withdrawal of beta blockade might precipitate a thyroid storm; therefore, patients suspected of developing thyrotoxicosis from whom TENORMIN therapy is to be withdrawn should be monitored closely.
 (See DOSAGE AND ADMINISTRATION.)
 
@@ -57,8 +57,8 @@ Administration of atenolol, starting in the second trimester of pregnancy, has b
 No studies have been performed on the use of atenolol in the first trimester and the possibility of fetal injury cannot be excluded.
 If this drug is used during pregnancy, or if the patient becomes pregnant while taking this drug, the patient should be apprised of the potential hazard to the fetus.
 
-Neonates born to mothers who are receiving TENORMIN at parturition or breast-feeding may be at risk for hypoglycemia and bradycardia.
-Caution should be exercised when TENORMIN is administered during pregnancy or to a woman who is breast-feeding.
+Neonates born to mothers who are receiving TENORMIN at parturition or breastfeeding may be at risk for hypoglycemia and bradycardia.
+Caution should be exercised when TENORMIN is administered during pregnancy or to a woman who is breastfeeding.
 (See PRECAUTIONS, Nursing Mothers.)
 
 Atenolol has been shown to produce a dose-related increase in embryo/fetal resorptions in rats at doses equal to or greater than 50 mg/kg/day or 25 or more times the maximum recommended human antihypertensive dose.* Although similar effects were not seen in rabbits, the compound was not evaluated in rabbits at doses above 25 mg/kg/day or 12.5 times the maximum recommended human antihypertensive dose.*
@@ -67,7 +67,7 @@ Atenolol has been shown to produce a dose-related increase in embryo/fetal resor
 
 ## General
 
-Patients already on a beta blocker must be evaluated carefully before TENORMIN is administered.
+Patients already on a beta-blocker must be evaluated carefully before TENORMIN is administered.
 Initial and subsequent TENORMIN dosages can be adjusted downward depending on clinical observations including pulse and blood pressure.
 TENORMIN may aggravate peripheral arterial circulatory disorders.
 
@@ -80,26 +80,26 @@ The drug should be used with caution in patients with impaired renal function.
 
 ## Drug Interactions
 
-Catecholamine-depleting drugs (eg, reserpine) may have an additive effect when given with beta-blocking agents.
+Catecholamine-depleting drugs (e.g., reserpine) may have an additive effect when given with beta-blocking agents.
 Patients treated with TENORMIN plus a catecholamine depletor should therefore be closely observed for evidence of hypotension and/or marked bradycardia which may produce vertigo, syncope, or postural hypotension.
 
 Calcium channel blockers may also have an additive effect when given with TENORMIN (See WARNINGS).
 
 Disopyramide is a Type I antiarrhythmic drug with potent negative inotropic and chronotropic effects.
-Disopyramide has been associated with severe bradycardia, asystole and heart failure when administered with beta blockers.
+Disopyramide has been associated with severe bradycardia, asystole and heart failure when administered with beta-blockers.
 
-Amiodarone is an antiarrhythmic agent with negative chronotropic properties that may be additive to those seen with beta blockers.
+Amiodarone is an antiarrhythmic agent with negative chronotropic properties that may be additive to those seen with beta-blockers.
 
-Beta blockers may exacerbate the rebound hypertension which can follow the withdrawal of clonidine.
-If the two drugs are coadministered, the beta blocker should be withdrawn several days before the gradual withdrawal of clonidine.
-If replacing clonidine by beta-blocker therapy, the introduction of beta blockers should be delayed for several days after clonidine administration has stopped.
+Beta-blockers may exacerbate the rebound hypertension which can follow the withdrawal of clonidine.
+If the two drugs are coadministered, the beta-blocker should be withdrawn several days before the gradual withdrawal of clonidine.
+If replacing clonidine by beta-blocker therapy, the introduction of beta-blockers should be delayed for several days after clonidine administration has stopped.
 
-Concomitant use of prostaglandin synthase inhibiting drugs, eg, indomethacin, may decrease the hypotensive effects of beta blockers.
+Concomitant use of prostaglandin synthase inhibiting drugs, e.g., indomethacin, may decrease the hypotensive effects of beta-blockers.
 
 Information on concurrent usage of atenolol and aspirin is limited.
-Data from several studies, ie, TIMI-II, ISIS-2, currently do not suggest any clinical interaction between aspirin and beta blockers in the acute myocardial infarction setting.
+Data from several studies, i.e., TIMI-II, ISIS-2, currently do not suggest any clinical interaction between aspirin and beta-blockers in the acute myocardial infarction setting.
 
-While taking beta blockers, patients with a history of anaphylactic reaction to a variety of allergens may have a more severe reaction on repeated challenge, either accidental, diagnostic or therapeutic.
+While taking beta-blockers, patients with a history of anaphylactic reaction to a variety of allergens may have a more severe reaction on repeated challenge, either accidental, diagnostic or therapeutic.
 Such patients may be unresponsive to the usual doses of epinephrine used to treat the allergic reaction.
 
 Both digitalis glycosides and beta-blockers slow atrioventricular conduction and decrease heart rate.
@@ -108,7 +108,7 @@ Concomitant use can increase the risk of bradycardia.
 ## Carcinogenesis, Mutagenesis, Impairment of Fertility
 
 Two long-term (maximum dosing duration of 18 or 24 months) rat studies and one long-term (maximum dosing duration of 18 months) mouse study, each employing dose levels as high as 300 mg/kg/day or 150 times the maximum recommended human antihypertensive dose,* did not indicate a carcinogenic potential of atenolol.
-A third (24 month) rat study, employing doses of 500 and 1,500 mg/kg/day (250 and 750 times the maximum recommended human antihypertensive dose*) resulted in increased incidences of benign adrenal medullary tumors in males and females, mammary fibroadenomas in females, and anterior pituitary adenomas and thyroid parafollicular cell carcinomas in males.
+A third (24 month) rat study, employing doses of 500 mg/kg/day and 1,500 mg/kg/day (250 and 750 times the maximum recommended human antihypertensive dose*) resulted in increased incidences of benign adrenal medullary tumors in males and females, mammary fibroadenomas in females, and anterior pituitary adenomas and thyroid parafollicular cell carcinomas in males.
 No evidence of a mutagenic potential of atenolol was uncovered in the dominant lethal test (mouse), in vivo cytogenetics test (Chinese hamster) or Ames test (S typhimurium).
 
 Fertility of male or female rats (evaluated at dose levels as high as 200 mg/kg/day or 100 times the maximum recommended human dose*) was unaffected by atenolol administration.
@@ -129,11 +129,11 @@ See WARNINGS - Pregnancy and Fetal Injury.
 
 Atenolol is excreted in human breast milk at a ratio of 1.5 to 6.8 when compared to the concentration in plasma.
 Caution should be exercised when TENORMIN is administered to a nursing woman.
-Clinically significant bradycardia has been reported in breast-fed infants.
+Clinically significant bradycardia has been reported in breastfed infants.
 Premature infants, or infants with impaired renal function, may be more likely to develop adverse effects.
 
-Neonates born to mothers who are receiving TENORMIN at parturition or breast-feeding may be at risk for hypoglycemia and bradycardia.
-Caution should be exercised when TENORMIN is administered during pregnancy or to a woman who is breast-feeding (See WARNINGS, Pregnancy and Fetal Injury).
+Neonates born to mothers who are receiving TENORMIN at parturition or breastfeeding may be at risk for hypoglycemia and bradycardia.
+Caution should be exercised when TENORMIN is administered during pregnancy or to a woman who is breastfeeding (See WARNINGS, Pregnancy and Fetal Injury).
 
 ## Pediatric Use
 

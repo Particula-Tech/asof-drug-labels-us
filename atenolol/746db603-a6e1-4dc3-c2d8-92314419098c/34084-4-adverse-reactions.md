@@ -2,7 +2,7 @@
 
 Most adverse effects have been mild and transient.
 
-The frequency estimates in the following table were derived from controlled studies in hypertensive patients in which adverse reactions were either volunteered by the patient (US studies) or elicited, eg, by checklist (foreign studies).
+The frequency estimates in the following table were derived from controlled studies in hypertensive patients in which adverse reactions were either volunteered by the patient (US studies) or elicited, e.g., by checklist (foreign studies).
 The reported frequency of elicited adverse effects was higher for both TENORMIN and placebo-treated patients than when these reactions were volunteered.
 Where frequency of adverse effects of TENORMIN and placebo is similar, causal relationship to TENORMIN is uncertain.
 
@@ -27,13 +27,13 @@ Where frequency of adverse effects of TENORMIN and placebo is similar, causal re
 | GASTROINTESTINAL |  |  |  |  |
 | Diarrhea | 2 | 0 | 3 | 2 |
 | Nausea | 4 | 1 | 3 | 1 |
-| RESPIRATORY (see WARNINGS) |  |  |  |  |
+| RESPIRATORY (See WARNINGS) |  |  |  |  |
 | Wheeziness | 0 | 0 | 3 | 3 |
 | Dyspnea | 0.6 | 1 | 6 | 4 |
 
 ## Acute Myocardial Infarction
 
-In a series of investigations in the treatment of acute myocardial infarction, bradycardia and hypotension occurred more commonly, as expected for any beta blocker, in atenolol-treated patients than in control patients.
+In a series of investigations in the treatment of acute myocardial infarction, bradycardia and hypotension occurred more commonly, as expected for any beta-blocker, in atenolol-treated patients than in control patients.
 However, these usually responded to atropine and/or to withholding further dosage of atenolol.
 The incidence of heart failure was not increased by atenolol.
 Inotropic agents were infrequently used.
@@ -67,7 +67,7 @@ In the subsequent International Study of Infarct Survival (ISIS-1) including ove
 
 |  | Reasons for Reduced Dosage |  |  |  |
 | --- | --- | --- | --- | --- |
-|  | IV AtenololReduced Dose(<5 mg)Full dosage was 10 mg and some patients received less than 10 mg but more than 5 mg. |  | Oral PartialDose |  |
+|  | I.V. AtenololReduced Dose(<5 mg)Full dosage was 10 mg and some patients received less than 10 mg but more than 5 mg. |  | Oral PartialDose |  |
 | Hypotension/Bradycardia | 105 | (1.3%) | 1168 | (14.5%) |
 | Cardiogenic Shock | 4 | (.04%) | 35 | (.44%) |
 | Reinfarction | 0 | (0%) | 5 | (.06%) |
@@ -78,7 +78,7 @@ In the subsequent International Study of Infarct Survival (ISIS-1) including ove
 | Bronchospasm | 1 | (.01%) | 50 | (.62%) |
 
 During postmarketing experience with TENORMIN, the following have been reported in temporal relationship to the use of the drug: elevated liver enzymes and/or bilirubin, hallucinations, headache, impotence, Peyronie's disease, postural hypotension which may be associated with syncope, psoriasiform rash or exacerbation of psoriasis, psychoses, purpura, reversible alopecia, thrombocytopenia, visual disturbance, sick sinus syndrome, and dry mouth.
-TENORMIN, like other beta blockers, has been associated with the development of antinuclear antibodies (ANA), lupus syndrome, and Raynaud’s phenomenon.
+TENORMIN, like other beta-blockers, has been associated with the development of antinuclear antibodies (ANA), lupus syndrome, and Raynaud’s phenomenon.
 
 # POTENTIAL ADVERSE EFFECTS
 
@@ -100,5 +100,7 @@ Discontinuance of the drug should be considered if any such reaction is not othe
 Patients should be closely monitored following cessation of therapy.
 (See DOSAGE AND ADMINISTRATION).
 
-The oculomucocutaneous syndrome associated with the beta blocker practolol has not been reported with TENORMIN.
+The oculomucocutaneous syndrome associated with the beta-blocker practolol has not been reported with TENORMIN.
 Furthermore, a number of patients who had previously demonstrated established practolol reactions were transferred to TENORMIN therapy with subsequent resolution or quiescence of the reaction.
+
+To report SUSPECTED ADVERSE REACTIONS, contact Almatica Pharma, Inc. at 1-877-447-7979 or FDA at 1-800-FDA-1088 or www.fda.gov/medwatch for voluntary reporting of adverse reactions.
