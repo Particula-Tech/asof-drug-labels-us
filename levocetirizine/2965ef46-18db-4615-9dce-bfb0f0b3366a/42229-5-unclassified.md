@@ -10,8 +10,6 @@ Perrigo®
 
 Allegan, MI 49010
 
-www.perrigo.com
+www.perrigorx.com
 
-Rev 07-19
-
-4T800 RC J9
+Rev 04-20

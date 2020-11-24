@@ -1,4 +1,4 @@
-# Package/Label Display Panel - Carton
+# Package/Label Display Panel
 
 Rx Only
 
