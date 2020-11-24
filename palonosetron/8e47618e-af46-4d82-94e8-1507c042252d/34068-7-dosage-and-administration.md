@@ -22,7 +22,7 @@ Table 1: Antiemetic Treatment Regimen
 ## 2.2 Preparation and Administration of AKYNZEO for injection and AKYNZEO injection
 
 AKYNZEO for injection and AKYNZEO injection are for use as an intravenous infusion after dilution.
-AKYNZEO for injection and AKYNZEO injection contain no antimicrobial preservatives and are intended for single use only.
+AKYNZEO for injection and AKYNZEO injection contain no antimicrobial preservatives, are intended for single use only and are compatible with intravenous dexamethasone sodium phosphate which can be added to the AKYNZEO solution or infused simultaneously.
 
 Preparation
 
@@ -39,7 +39,7 @@ Table 2: Preparation of AKYNZEO for injection
 
 Storage
 
-The total time from reconstitution to the start of the infusion should not exceed 24 hours.
+The total time from reconstitution to the start of the infusion, with or without intravenous dexamethasone sodium phosphate, should not exceed 24 hours.
 Store the reconstituted solution and the final diluted solution at room temperature.
 See Table 3 for preparation instructions of AKYZNEO injection.
 
@@ -54,7 +54,7 @@ Table 3: Preparation of AKYNZEO Injection
 
 Storage
 
-The total time from dilution to the start of the infusion should not exceed 24 hours.
+The total time from dilution to the start of the infusion, with or without intravenous dexamethasone sodium phosphate, should not exceed 24 hours.
 Store the final diluted solution at room temperature.
 
 Administration
@@ -66,5 +66,5 @@ At the end of the infusion, flush the infusion line with the same carrier soluti
 
 AKYNZEO for injection and AKYNZEO injection are incompatible with any solution containing divalent cations (e.g., calcium, magnesium), including Lactated Ringer’s Injection and Hartmann's Solution.
 
-Limited data are available on the compatibility of AKYNZEO for injection and AKYNZEO injection with other intravenous substances, additives or other medications, and they should not be added to the AKYNZEO solution or infused simultaneously.
+Limited data are available on the compatibility of AKYNZEO for injection and AKYNZEO injection with other intravenous substances, additives or other medications with the exception of intravenous dexamethasone sodium phosphate [see Dosage and Administration (2.2)], and they should not be added to the AKYNZEO solution or infused simultaneously.
 If the same intravenous line is used for sequential infusion of several different drugs, flush the line before and after infusion of AKYNZEO solution with 0.9% Sodium Chloride Injection, USP.
