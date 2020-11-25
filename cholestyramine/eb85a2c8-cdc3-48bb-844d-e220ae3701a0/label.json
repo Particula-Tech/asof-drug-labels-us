@@ -1,0 +1,20 @@
+{
+  "application_numbers": [
+    "ANDA209599"
+  ],
+  "inn": "cholestyramine",
+  "labeler": "TAGI Pharma, Inc.",
+  "package_ndcs": [
+    "51224-009-10",
+    "51224-009-20"
+  ],
+  "products": [
+    {
+      "form": "POWDER, FOR SUSPENSION",
+      "generic": "cholestyramine",
+      "name": "Cholestyramine Light"
+    }
+  ],
+  "setid": "eb85a2c8-cdc3-48bb-844d-e220ae3701a0",
+  "source": "dailymed"
+}
