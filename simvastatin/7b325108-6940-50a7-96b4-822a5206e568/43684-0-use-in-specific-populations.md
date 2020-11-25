@@ -69,7 +69,7 @@ Caution should be exercised when simvastatin is administered to patients with se
 
 ## 8.7 Hepatic Impairment
 
-Simvastatin is contraindicated in patients with active liver disease which may include unexplained persistent elevations in hepatic transaminase levels [see Contraindications (4) and Warnings and Precautions (5.2)].
+Simvastatin is contraindicated in patients with active liver disease which may include unexplained persistent elevations in hepatic transaminase levels [see Contraindications (4) and Warnings and Precautions (5.3)].
 
 ## 8.8 Chinese Patients
 

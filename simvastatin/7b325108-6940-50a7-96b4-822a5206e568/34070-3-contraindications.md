@@ -5,7 +5,7 @@ Simvastatin is contraindicated in the following conditions:
 - Concomitant administration of strong CYP3A4 inhibitors (e.g., itraconazole, ketoconazole, posaconazole, voriconazole, HIV protease inhibitors, boceprevir, telaprevir, erythromycin, clarithromycin, telithromycin, nefazodone and cobicistat-containing products) [see Warnings and Precautions (5.1)]
 - Concomitant administration of gemfibrozil, cyclosporine, or danazol [see Warnings and Precautions (5.1)].
 - Hypersensitivity to any component of this medication [see Adverse Reactions (6.2)].
-- Active liver disease, which may include unexplained persistent elevations in hepatic transaminase levels [see Warnings and Precautions (5.2)].
+- Active liver disease, which may include unexplained persistent elevations in hepatic transaminase levels [see Warnings and Precautions (5.3)].
 - Women who are pregnant or may become pregnant.
   Serum cholesterol and triglycerides increase during normal pregnancy, and cholesterol or cholesterol derivatives are essential for fetal development.
   Because HMG-CoA reductase inhibitors (statins) decrease cholesterol synthesis and possibly the synthesis of other biologically active substances derived from cholesterol, simvastatin may cause fetal harm when administered to a pregnant woman.

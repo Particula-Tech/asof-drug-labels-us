@@ -41,8 +41,8 @@ PuraCap Caribe
 Dorado, PR 00646 USA
 
 Rev.
-03-2020
+10-2020
 
 BP0141
 
-BPCM0017/06
+BPCM0017/07
