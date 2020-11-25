@@ -1,6 +1,6 @@
 # CONTRAINDICATIONS
 
-Since the pharmacologic and clinical actions of HALDOL Decanoate 50 and HALDOL Decanoate 100 are attributed to HALDOL (haloperidol) as the active medication, Contraindications, Warnings, and additional information are those of HALDOL, modified only to reflect the prolonged action.
+Since the pharmacologic and clinical actions of HALDOL decanoate 50 and HALDOL decanoate 100 are attributed to HALDOL (haloperidol) as the active medication, Contraindications, Warnings, and additional information are those of HALDOL, modified only to reflect the prolonged action.
 
 HALDOL is contraindicated in patients with:
 

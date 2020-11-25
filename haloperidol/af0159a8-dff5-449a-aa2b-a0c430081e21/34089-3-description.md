@@ -7,6 +7,6 @@ The structural formula of haloperidol decanoate, 4-(4-chlorophenyl)-1-[4-(4-fluo
 
 Haloperidol decanoate is almost insoluble in water (0.01 mg/mL), but is soluble in most organic solvents.
 
-Each mL of HALDOL Decanoate 50 for IM injection contains 50 mg haloperidol (present as haloperidol decanoate 70.52 mg) in a sesame oil vehicle, with 1.2% (w/v) benzyl alcohol as a preservative.
+Each mL of HALDOL decanoate 50 for IM injection contains 50 mg haloperidol (present as haloperidol decanoate 70.52 mg) in a sesame oil vehicle, with 1.2% (w/v) benzyl alcohol as a preservative.
 
-Each mL of HALDOL Decanoate 100 for IM injection contains 100 mg haloperidol (present as haloperidol decanoate 141.04 mg) in a sesame oil vehicle, with 1.2% (w/v) benzyl alcohol as a preservative.
+Each mL of HALDOL decanoate 100 for IM injection contains 100 mg haloperidol (present as haloperidol decanoate 141.04 mg) in a sesame oil vehicle, with 1.2% (w/v) benzyl alcohol as a preservative.

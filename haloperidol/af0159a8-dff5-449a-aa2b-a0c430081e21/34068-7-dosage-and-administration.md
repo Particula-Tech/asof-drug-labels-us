@@ -1,19 +1,19 @@
 # DOSAGE AND ADMINISTRATION
 
-HALDOL Decanoate 50 and HALDOL Decanoate 100 should be administered by deep intramuscular injection.
+HALDOL decanoate 50 and HALDOL decanoate 100 should be administered by deep intramuscular injection.
 A 21 gauge needle is recommended.
 The maximum volume per injection site should not exceed 3 mL.
 DO NOT ADMINISTER INTRAVENOUSLY.
 
 Parenteral drug products should be inspected visually for particulate matter and discoloration prior to administration, whenever solution and container permit.
 
-HALDOL Decanoate 50 and HALDOL Decanoate 100 are intended for use in schizophrenic patients who require prolonged parenteral antipsychotic therapy.
-These patients should be previously stabilized on antipsychotic medication before considering a conversion to haloperidol decanoate.
+HALDOL decanoate 50 and HALDOL decanoate 100 are intended for use in schizophrenic patients who require prolonged parenteral antipsychotic therapy.
+These patients must be previously stabilized on antipsychotic medication before considering a conversion to haloperidol decanoate.
 Furthermore, it is recommended that patients being considered for haloperidol decanoate therapy have been treated with, and tolerate well, short-acting HALDOL (haloperidol) in order to reduce the possibility of an unexpected adverse sensitivity to haloperidol.
 Close clinical supervision is required during the initial period of dose adjustment in order to minimize the risk of overdosage or reappearance of psychotic symptoms before the next injection.
 During dose adjustment or episodes of exacerbation of symptoms of schizophrenia, haloperidol decanoate therapy can be supplemented with short-acting forms of haloperidol.
 
-The dose of HALDOL Decanoate 50 or HALDOL Decanoate 100 should be expressed in terms of its haloperidol content.
+The dose of HALDOL decanoate 50 or HALDOL decanoate 100 should be expressed in terms of its haloperidol content.
 The starting dose of haloperidol decanoate should be based on the patient's age, clinical history, physical condition, and response to previous antipsychotic therapy.
 The preferred approach to determining the minimum effective dose is to begin with lower initial doses and to adjust the dose upward as needed.
 For patients previously maintained on low doses of antipsychotics (e.g. up to the equivalent of 10 mg/day oral haloperidol), it is recommended that the initial dose of haloperidol decanoate be 10–15 times the previous daily dose in oral haloperidol equivalents; limited clinical experience suggests that lower initial doses may be adequate.
