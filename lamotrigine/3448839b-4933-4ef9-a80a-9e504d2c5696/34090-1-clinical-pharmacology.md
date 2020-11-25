@@ -8,12 +8,12 @@ Lamotrigine also displayed inhibitory properties in the kindling model in rats b
 The relevance of these models to human epilepsy, however, is not known.
 
 One proposed mechanism of action of lamotrigine, the relevance of which remains to be established in humans, involves an effect on sodium channels.
-In vitro pharmacological studies suggest that lamotrigine inhibits voltage-sensitive sodium channels, thereby stabilizing neuronal membranes and consequently modulating presynaptic transmitter release of excitatory amino acids (e.g., glutamate and aspartate).
+In virto pharmacological studies suggest that lamotrigine inhibits voltage-sensitive sodium channels, thereby stabilizing neuronal membranes and consequently modulating presynaptic transmitter release of excitatory amino acids (e.g., glutamate and aspartate).
 
 Effect of Lamotrigine on N-Methyl d-Aspartate-Receptor-Mediated Activity
 
 Lamotrigine did not inhibit N-methyl d-aspartate (NMDA)-induced depolarizations in rat cortical slices or NMDA-induced cyclic GMP formation in immature rat cerebellum, nor did lamotrigine displace compounds that are either competitive or noncompetitive ligands at this glutamate receptor complex (CNQX, CGS, TCHP).
-The IC50 for lamotrigine effects on NMDA-induced currents (in the presence of 3 µM of glycine) in cultured hippocampal neurons exceeded 100 µM.
+The IC 50 for lamotrigine effects on NMDA-induced currents (in the presence of 3 µM of glycine) in cultured hippocampal neurons exceeded 100 µM.
 
 The mechanisms by which lamotrigine exerts its therapeutic action in bipolar disorder have not been established.
 
@@ -28,6 +28,19 @@ Significantly reduced concentrations of folate are associated with teratogenesis
 Folate concentrations were also reduced in male rats given repeated oral doses of lamotrigine.
 Reduced concentrations were partially returned to normal when supplemented with folinic acid.
 
+Cardiac Electrophysiology
+
+Effect of Lamotrigine: In vitro studies show that lamotrigine exhibits Class IB antiarrhythmic activity at therapeutically relevant concentrations.
+It inhibits human cardiac sodium channels with rapid onset and offset kinetics and strong voltage dependence, consistent with other Class IB antiarrhythmic agents.
+Lamotrigine did not slow ventricular conduction (widen QRS) in healthy individuals in a thorough QT study; however, it could slow ventricular conduction and increase the risk of arrhythmia in patients with structural heart disease or myocardial ischemia.
+Elevated heart rates could also increase the risk of ventricular conduction slowing with lamotrigine.
+
+Effect of Lamotrigine Metabolite: In dogs, lamotrigine is extensively metabolized to a 2-N- methyl metabolite.
+This metabolite causes dose-dependent prolongation of the PR interval, widening of the QRS complex, and, at higher doses, complete AV conduction block.
+The in vitro electrophysiological effects of this metabolite have not been studied.
+Similar cardiovascular effects from this metabolite are not anticipated in humans because only trace amounts of the 2-N-methyl metabolite (<0.6% of lamotrigine dose) have been found in human urine [see Clinical Pharmacology (12.3)].
+However, it is conceivable that plasma concentrations of this metabolite could be increased in patients with a reduced capacity to glucuronidate lamotrigine (e.g., in patients with liver disease, patients taking concomitant medications that inhibit glucuronidation).
+
 Accumulation in Kidneys
 
 Lamotrigine accumulated in the kidney of the male rat, causing chronic progressive nephrosis, necrosis, and mineralization.
@@ -38,28 +51,21 @@ Melanin Binding
 Lamotrigine binds to melanin-containing tissues, e.g., in the eye and pigmented skin.
 It has been found in the uveal tract up to 52 weeks after a single dose in rodents.
 
-Cardiovascular
-
-In dogs, lamotrigine is extensively metabolized to a 2-N-methyl metabolite.
-This metabolite causes dose-dependent prolongations of the PR interval, widening of the QRS complex, and, at higher doses, complete AV conduction block.
-Similar cardiovascular effects are not anticipated in humans because only trace amounts of the 2-N-methyl metabolite (<0.6% of lamotrigine dose) have been found in human urine [see Clinical Pharmacology (12.3)].
-However, it is conceivable that plasma concentrations of this metabolite could be increased in patients with a reduced capacity to glucuronidate lamotrigine (e.g., in patients with liver disease, patients taking concomitant medications that inhibit glucuronidation).
-
 ## 12.3 Pharmacokinetics
 
 The pharmacokinetics of lamotrigine have been studied in subjects with epilepsy, healthy young and elderly volunteers, and volunteers with chronic renal failure.
 Lamotrigine pharmacokinetic parameters for adult and pediatric subjects and healthy normal volunteers are summarized in Tables 14 and 16.
 
-Table 14.Mean Pharmacokinetic Parametersa in Healthy Volunteers and Adult Subjects with Epilepsy
+Table 14.Mean Pharmacokinetic Parameters a in Healthy Volunteers and Adult Subjects with Epilepsy
 
-| Adult Study Population | Number of Subjects | Tmax: Time of Maximum Plasma Concentration (h) | t1/2: Elimination Half-life (h) | CL/F: Apparent Plasma Clearance (mL/min/kg) |
+| Adult Study Population | Number of Subjects | T max: Time of Maximum Plasma Concentration (h) | t 1/2: Elimination Half-life (h) | CL/F: Apparent Plasma Clearance (mL/min/kg) |
 | --- | --- | --- | --- | --- |
 | Healthy volunteers taking no other medications: Single-dose Lamotrigine Multiple-dose Lamotrigine | 179 36 | 2.2 (0.25 to 12.0) 1.7 (0.5 to 4.0) | 32.8 (14.0 to 103.0) 25.4 (11.6 to 61.6) | 0.44 (0.12 to 1.10) 0.58 (0.24 to 1.15) |
 | Healthy volunteers taking valproate: Single-dose Lamotrigine Multiple-dose Lamotrigine | 6 18 | 1.8 (1.0 to 4.0) 1.9 (0.5 to 3.5) | 48.3 (31.5 to 88.6) 70.3 (41.9 to 113.5) | 0.30 (0.14 to 0.42) 0.18 (0.12 to 0.33) |
 | Subjects with epilepsy taking valproate only: Single-dose Lamotrigine | 4 | 4.8 (1.8 to 8.4) | 58.8 (30.5 to 88.8) | 0.28 (0.16 to 0.40) |
-| Subjects with epilepsy taking carbamazepine, phenytoin, phenobarbital, or primidoneb plus valproate: Single-dose Lamotrigine | 25 | 3.8 (1.0 to 10.0) | 27.2 (11.2 to 51.6) | 0.53 (0.27 to 1.04) |
-| Subjects with epilepsy taking carbamazepine, phenytoin, phenobarbital, or primidone:b Single-dose Lamotrigine Multiple-dose Lamotrigine | 24 17 | 2.3 (0.5 to 5.0) 2.0 (0.75 to 5.93) | 14.4 (6.4 to 30.4) 12.6 (7.5 to 23.1) | 1.10 (0.51 to 2.22) 1.21 (0.66 to 1.82) |
-| a The majority of parameter means determined in each study had coefficients of variation between 20% and 40% for half-life and CL/F and between 30% and 70% for Tmax. The overall mean values were calculated from individual study means that were weighted based on the number of volunteers/subjects in each study. The numbers in parentheses below each parameter mean represent the range of individual volunteer/subject values across studies. |  |  |  |  |
+| Subjects with epilepsy taking carbamazepine, phenytoin, phenobarbital, or primidone b plus valproate: Single-dose Lamotrigine | 25 | 3.8 (1.0 to 10.0) | 27.2 (11.2 to 51.6) | 0.53 (0.27 to 1.04) |
+| Subjects with epilepsy taking carbamazepine, phenytoin, phenobarbital, or primidone: b Single-dose Lamotrigine Multiple-dose Lamotrigine | 24 17 | 2.3 (0.5 to 5.0) 2.0 (0.75 to 5.93) | 14.4 (6.4 to 30.4) 12.6 (7.5 to 23.1) | 1.10 (0.51 to 2.22) 1.21 (0.66 to 1.82) |
+| a The majority of parameter means determined in each study had coefficients of variation between 20% and 40% for half-life and CL/F and between 30% and 70% for T max. The overall mean values were calculated from individual study means that were weighted based on the number of volunteers/subjects in each study. The numbers in parentheses below each parameter mean represent the range of individual volunteer/subject values across studies. |  |  |  |  |
 | b Carbamazepine, phenytoin, phenobarbital, and primidone have been shown to increase the apparent clearance of lamotrigine. Estrogen-containing oral contraceptives and other drugs, such as rifampin and protease inhibitors lopinavir/ritonavir and atazanavir/ritonavir, that induce lamotrigine glucuronidation have also been shown to increase the apparent clearance of lamotrigine [see Drug Interactions (7)]. |  |  |  |  |
 
 Absorption
@@ -95,7 +101,7 @@ Enzyme Induction
 
 The effects of lamotrigine on the induction of specific families of mixed-function oxidase isozymes have not been systematically evaluated.
 
-Following multiple administrations (150 mg twice daily) to normal volunteers taking no other medications, lamotrigine induced its own metabolism, resulting in a 25% decrease in t½ and a 37% increase in CL/F at steady state compared with values obtained in the same volunteers following a single dose.
+Following multiple administrations (150 mg twice daily) to normal volunteers taking no other medications, lamotrigine induced its own metabolism, resulting in a 25% decrease in t ½ and a 37% increase in CL/F at steady state compared with values obtained in the same volunteers following a single dose.
 Evidence gathered from other sources suggests that self-induction by lamotrigine may not occur when lamotrigine is given as adjunctive therapy in patients receiving enzyme-inducing drugs such as carbamazepine, phenytoin, phenobarbital, primidone, or other drugs such as rifampin and the protease inhibitors lopinavir/ritonavir and atazanavir/ritonavir that induce lamotrigine glucuronidation [see Drug Interactions (7)].
 
 Elimination
@@ -105,37 +111,37 @@ Half-life and apparent oral clearance vary depending on concomitant AEDs.
 
 Drug Interactions
 
-The apparent clearance of lamotrigine is affected by the coadministration of certain medications [see Warnings and Precautions (5.8, 5.12), Drug Interactions (7)].
+The apparent clearance of lamotrigine is affected by the coadministration of certain medications [see Warnings and Precautions (5.9, 5.13), Drug Interactions (7)].
 
 The net effects of drug interactions with lamotrigine are summarized in Tables 13 and 15, followed by details of the drug interaction studies below.
 
 Table 15 Summary of Drug Interactions with Lamotrigine
 
-| Drug | Drug Plasma Concentration with Adjunctive Lamotriginea | Lamotrigine Plasma Concentration with Adjunctive Drugsb |
+| Drug | Drug Plasma Concentration with Adjunctive Lamotrigine a | Lamotrigine Plasma Concentration with Adjunctive Drugs b |
 | --- | --- | --- |
-| Oral contraceptives (e.g., ethinylestradiol/levonorgestrel)c | ↔d | ↓ |
-| Aripiprazole | Not assessed | ↔e |
-| Atazanavir/ritonavir | ↔f | ↓ |
+| Oral contraceptives (e.g., ethinylestradiol/levonorgestrel) c | ↔ d | ↓ |
+| Aripiprazole | Not assessed | ↔ e |
+| Atazanavir/ritonavir | ↔ f | ↓ |
 | Bupropion | Not assessed | ↔ |
 | Carbamazepine | ↔ | ↓ |
-| Carbamazepine epoxideg | ? |  |
+| Carbamazepine epoxide g | ? |  |
 | Felbamate | Not assessed | ↔ |
 | Gabapentin | Not assessed | ↔ |
 | Lacosamide | Not assessed | ↔ |
 | Levetiracetam | ↔ | ↔ |
 | Lithium | ↔ | Not assessed |
-| Lopinavir/ritonavir | ↔e | ↓ |
-| Olanzapine | ↔ | ↔e |
+| Lopinavir/ritonavir | ↔ e | ↓ |
+| Olanzapine | ↔ | ↔ e |
 | Oxcarbazepine | ↔ | ↔ |
-| 10-Monohydroxy oxcarbazepine metaboliteh | ↔ |  |
-| Perampanel | Not assessed | ↔e |
+| 10-Monohydroxy oxcarbazepine metabolite h | ↔ |  |
+| Perampanel | Not assessed | ↔ e |
 | Phenobarbital/primidone | ↔ | ↓ |
 | Phenytoin | ↔ | ↓ |
 | Pregabalin | ↔ | ↔ |
 | Rifampin | Not assessed | ↓ |
 | Risperidone | ↔ | Not assessed |
-| 9-Hydroxyrisperidonei | ↔ |  |
-| Topiramate | ↔j | ↔ |
+| 9-Hydroxyrisperidone i | ↔ |  |
+| Topiramate | ↔ j | ↔ |
 | Valproate | ↓ | ↑ |
 | Valproate + phenytoin and/or | Not assessed | ↔ |
 | carbamazepine |  |  |
@@ -155,7 +161,7 @@ Table 15 Summary of Drug Interactions with Lamotrigine
 
 Estrogen-Containing Oral Contraceptives
 
-In 16 female volunteers, an oral contraceptive preparation containing 30 mcg ethinylestradiol and 150 mcg levonorgestrel increased the apparent clearance of lamotrigine (300 mg/day) by approximately 2-fold with mean decreases in AUC of 52% and in Cmax of 39%.
+In 16 female volunteers, an oral contraceptive preparation containing 30 mcg ethinylestradiol and 150 mcg levonorgestrel increased the apparent clearance of lamotrigine (300 mg/day) by approximately 2-fold with mean decreases in AUC of 52% and in C max of 39%.
 In this study, trough serum lamotrigine concentrations gradually increased and were approximately 2-fold higher on average at the end of the week of the inactive hormone preparation compared with trough lamotrigine concentrations at the end of the active hormone cycle.
 
 Gradual transient increases in lamotrigine plasma levels (approximate 2-fold increase) occurred during the week of inactive hormone preparation (pill-free week) for women not also taking a drug that increased the clearance of lamotrigine (carbamazepine, phenytoin, phenobarbital, primidone, or other drugs such as rifampin and the protease inhibitors lopinavir/ritonavir and atazanavir/ritonavir that induce lamotrigine glucuronidation) [see Drug Interactions (7)].
@@ -163,7 +169,7 @@ The increase in lamotrigine plasma levels will be greater if the dose of lamotri
 Increases in lamotrigine plasma levels could result in dose-dependent adverse reactions.
 
 In the same study, coadministration of lamotrigine (300 mg/day) in 16 female volunteers did not affect the pharmacokinetics of the ethinylestradiol component of the oral contraceptive preparation.
-There were mean decreases in the AUC and Cmax of the levonorgestrel component of 19% and 12%, respectively.
+There were mean decreases in the AUC and C max of the levonorgestrel component of 19% and 12%, respectively.
 Measurement of serum progesterone indicated that there was no hormonal evidence of ovulation in any of the 16 volunteers, although measurement of serum FSH, LH, and estradiol indicated that there was some loss of suppression of the hypothalamic-pituitary-ovarian axis.
 
 The effects of doses of lamotrigine other than 300 mg/day have not been systematically evaluated in controlled clinical trials.
@@ -182,12 +188,12 @@ Therefore, adjustments to the dosage of lamotrigine in the presence of progestog
 
 Aripiprazole
 
-In 18 patients with bipolar disorder on a stable regimen of 100 to 400 mg/day of lamotrigine, the lamotrigine AUC and Cmax were reduced by approximately 10% in patients who received aripiprazole 10 to 30 mg/day for 7 days, followed by 30 mg/day for an additional 7 days.
+In 18 patients with bipolar disorder on a stable regimen of 100 to 400 mg/day of lamotrigine, the lamotrigine AUC and C max were reduced by approximately 10% in patients who received aripiprazole 10 to 30 mg/day for 7 days, followed by 30 mg/day for an additional 7 days.
 This reduction in lamotrigine exposure is not considered clinically meaningful.
 
 Atazanavir/Ritonavir
 
-In a study in healthy volunteers, daily doses of atazanavir/ritonavir (300 mg/100 mg) reduced the plasma AUC and Cmax of lamotrigine (single 100-mg dose) by an average of 32% and 6%, respectively, and shortened the elimination half-lives by 27%.
+In a study in healthy volunteers, daily doses of atazanavir/ritonavir (300 mg/100 mg) reduced the plasma AUC and C max of lamotrigine (single 100-mg dose) by an average of 32% and 6%, respectively, and shortened the elimination half-lives by 27%.
 In the presence of atazanavir/ritonavir (300 mg/100 mg), the metabolite-to-lamotrigine ratio was increased from 0.45 to 0.71 consistent with induction of glucuronidation.
 The pharmacokinetics of atazanavir/ritonavir were similar in the presence of concomitant lamotrigine to the historical data of the pharmacokinetics in the absence of lamotrigine.
 
@@ -233,21 +239,21 @@ The pharmacokinetics of lithium were not altered in healthy subjects (n = 20) by
 
 Lopinavir/Ritonavir
 
-The addition of lopinavir (400 mg twice daily)/ritonavir (100 mg twice daily) decreased the AUC, Cmax, and elimination half-life of lamotrigine by approximately 50% to 55.4% in 18 healthy subjects.
+The addition of lopinavir (400 mg twice daily)/ritonavir (100 mg twice daily) decreased the AUC, C max, and elimination half-life of lamotrigine by approximately 50% to 55.4% in 18 healthy subjects.
 The pharmacokinetics of lopinavir/ritonavir were similar with concomitant lamotrigine, compared with that in historical controls.
 
 Olanzapine
 
-The AUC and Cmax of olanzapine were similar following the addition of olanzapine (15 mg once daily) to lamotrigine (200 mg once daily) in healthy male volunteers (n = 16) compared with the AUC and Cmax in healthy male volunteers receiving olanzapine alone (n = 16).
+The AUC and Cmax of olanzapine were similar following the addition of olanzapine (15 mg once daily) to lamotrigine (200 mg once daily) in healthy male volunteers (n = 16) compared with the AUC and C max in healthy male volunteers receiving olanzapine alone (n = 16).
 
-In the same trial, the AUC and Cmax of lamotrigine were reduced on average by 24% and 20%, respectively, following the addition of olanzapine to lamotrigine in healthy male volunteers compared with those receiving lamotrigine alone.
+In the same trial, the AUC and C max of lamotrigine were reduced on average by 24% and 20%, respectively, following the addition of olanzapine to lamotrigine in healthy male volunteers compared with those receiving lamotrigine alone.
 This reduction in lamotrigine plasma concentrations is not expected to be clinically meaningful.
 
 Oxcarbazepine
 
-The AUC and Cmax of oxcarbazepine and its active 10-monohydroxy oxcarbazepine metabolite were not significantly different following the addition of oxcarbazepine (600 mg twice daily) to lamotrigine (200 mg once daily) in healthy male volunteers (n = 13) compared with healthy male volunteers receiving oxcarbazepine alone (n = 13).
+The AUC and C max of oxcarbazepine and its active 10-monohydroxy oxcarbazepine metabolite were not significantly different following the addition of oxcarbazepine (600 mg twice daily) to lamotrigine (200 mg once daily) in healthy male volunteers (n = 13) compared with healthy male volunteers receiving oxcarbazepine alone (n = 13).
 
-In the same trial, the AUC and Cmax of lamotrigine were similar following the addition of oxcarbazepine (600 mg twice daily) to lamotrigine in healthy male volunteers compared with those receiving lamotrigine alone.
+In the same trial, the AUC and C max of lamotrigine were similar following the addition of oxcarbazepine (600 mg twice daily) to lamotrigine in healthy male volunteers compared with those receiving lamotrigine alone.
 Limited clinical data suggest a higher incidence of headache, dizziness, nausea, and somnolence with coadministration of lamotrigine and oxcarbazepine compared with lamotrigine alone or oxcarbazepine alone.
 
 Perampanel
@@ -302,7 +308,7 @@ Since lamotrigine is metabolized predominately by glucuronic acid conjugation, d
 
 Other
 
-In vitro assessment of the inhibitory effect of lamotrigine at OCT2 demonstrate that lamotrigine, but not the N(2)-glucuronide metabolite, is an inhibitor of OCT2 at potentially clinically relevant concentrations, with IC50 value of 53.8 μM [see Drug Interactions (7)].
+In vitro assessment of the inhibitory effect of lamotrigine at OCT2 demonstrate that lamotrigine, but not the N(2)-glucuronide metabolite, is an inhibitor of OCT2 at potentially clinically relevant concentrations, with IC 50 value of 53.8 μM [see Drug Interactions (7)].
 
 Results of in vitro experiments suggest that clearance of lamotrigine is unlikely to be reduced by concomitant administration of amitriptyline, clonazepam, clozapine, fluoxetine, haloperidol, lorazepam, phenelzine, sertraline, or trazodone.
 
@@ -341,11 +347,11 @@ Mean Pharmacokinetic Parameters in Pediatric Subjects with Epilepsy
 | valproate only | 8 | 2.9 (1.0 to 6.0) | 44.9 (29.5 to 52.5) | 0.47 (0.23 to 0.77) |
 | Ages 5 to 11 years Subjects taking carbamazepine, phenytoin, phenobarbital, or primidonea | 7 | 1.6 (1.0 to 3.0) | 7.0 (3.8 to 9.8) | 2.54 (1.35 to 5.58) |
 | Subjects taking carbamazepine, phenytoin, phenobarbital, or primidonea plus valproate | 8 | 3.3 (1.0 to 6.4) | 19.1 (7.0 to 31.2) | 0.89 (0.39 to 1.93) |
-| Subjects taking valproate onlyb | 3 | 4.5 (3.0 to 6.0) | 65.8 (50.7 to 73.7) | 0.24 (0.21 to 0.26) |
+| Subjects taking valproate only b | 3 | 4.5 (3.0 to 6.0) | 65.8 (50.7 to 73.7) | 0.24 (0.21 to 0.26) |
 | Ages 13 to 18 years Subjects taking carbamazepine, phenytoin, phenobarbital, or primidonea | 11 | ___c | ___c | 1.3 |
 | Subjects taking valproate only | 4 | ___c | ___c | 0.3 |
 | a Carbamazepine, phenytoin, phenobarbital, and primidone have been shown to increase the apparent clearance of lamotrigine. Estrogen-containing oral contraceptives, rifampin, and the protease inhibitors lopinavir/ritonavir and atazanavir/ritonavir have also been shown to increase the apparent clearance of lamotrigine [see Drug Interactions (7)]. |  |  |  |  |
-| b Two subjects were included in the calculation for mean Tmax. |  |  |  |  |
+| b Two subjects were included in the calculation for mean T max. |  |  |  |  |
 | c Parameter not estimated. |  |  |  |  |
 
 Geriatric Patients: The pharmacokinetics of lamotrigine following a single 150-mg dose of lamotrigine were evaluated in 12 elderly volunteers between the ages of 65 and 76 years (mean creatinine clearance = 61 mL/min, range: 33 to 108 mL/min).

@@ -1,16 +1,17 @@
 # 6 ADVERSE REACTIONS
 
-The following adverse reactions are described in more detail in the Warnings and Precautions section of the label:
+The following serious adverse reactions are described in more detail in the Warnings and Precautions section of the labeling:
 
-- Serious skin rashes [see Warnings and Precautions (5.1)]
+- Serious Skin Rashes [see Warnings and Precautions (5.1)]
 - Hemophagocytic Lymphohistiocytosis [see Warnings and Precautions (5.2)]
-- Multiorgan hypersensitivity reactions and organ failure [see Warnings and Precautions (5.3)]
-- Blood dyscrasias [see Warnings and Precautions (5.4)]
-- Suicidal behavior and ideation [see Warnings and Precautions (5.5)]
-- Aseptic meningitis [see Warnings and Precautions (5.6)]
-- Withdrawal seizures [see Warnings and Precautions (5.9)]
-- Status epilepticus [see Warnings and Precautions (5.10)]
-- Sudden unexplained death in epilepsy [see Warnings and Precautions (5.11)]
+- Multiorgan Hypersensitivity Reactions and Organ Failure [see Warnings and Precautions (5.3)]
+- Cardiac Rhythm and Conduction Abnormalities [see Warnings and Precautions (5.4)]
+- Blood Dyscrasias [see Warnings and Precautions (5.5)]
+- Suicidal Behavior and Ideation [see Warnings and Precautions (5.6)]
+- Aseptic Meningitis [see Warnings and Precautions (5.7)]
+- Withdrawal Seizures [see Warnings and Precautions (5.10)]
+- Status Epilepticus [see Warnings and Precautions (5.11)]
+- Sudden Unexplained Death in Epilepsy [see Warnings and Precautions (5.12)]
 
 ## 6.1 Clinical Trial Experience
 
@@ -46,7 +47,7 @@ Controlled Adjunctive Clinical Trials in Adults with Epilepsy: Table 8 lists adv
 In these trials, either lamotrigine or placebo was added to the patient's current AED therapy.
 
 Table 8.
-Adverse Reactions in Pooled, Placebo-Controlled Adjunctive Trials in Adult Patients with Epilepsya,b
+Adverse Reactions in Pooled, Placebo-Controlled Adjunctive Trials in Adult Patients with Epilepsy a,b
 
 | Body System/Adverse Reaction | Percent of Patients Receiving Adjunctive Lamotrigine (n = 711) | Percent of Patients Receiving Adjunctive Placebo (n = 419) |
 | --- | --- | --- |
@@ -69,7 +70,7 @@ Dose-Related Adverse Reactions from a Randomized, Placebo-Controlled Adjunctive 
 |  | Percent of Patients Experiencing Adverse Reactions |  |  |
 | --- | --- | --- | --- |
 | Adverse Reaction | Placebo (n = 73) | Lamotrigine 300 mg (n = 71) | Lamotrigine 500 mg (n = 72) |
-| Ataxia Blurred vision Diplopia Dizziness Nausea Vomiting | 10 10 8 27 11 4 | 10 11 24a 31 18 11 | 28a, b 25a, b 49a, b 54a, b 25a 18a |
+| Ataxia Blurred vision Diplopia Dizziness Nausea Vomiting | 10 10 8 27 11 4 | 10 11 24 a 31 18 11 | 28 a, b 25 a, b 49 a, b 54 a, b 25 a 18 a |
 | a Significantly greater than placebo group (P <0.05). |  |  |  |
 | b Significantly greater than group receiving lamotrigine 300 mg (P <0.05). |  |  |  |
 
@@ -82,9 +83,9 @@ There was little difference between females and males in the rates of discontinu
 Controlled Monotherapy Trial in Adults with Partial-Onset Seizures: Table 10 lists adverse reactions that occurred in patients with epilepsy treated with monotherapy with lamotrigine in a double-blind trial following discontinuation of either concomitant carbamazepine or phenytoin not seen at an equivalent frequency in the control group.
 
 Table 10.
-Adverse Reactions in a Controlled Monotherapy Trial in Adult Patients with Partial-Onset Seizuresa,b
+Adverse Reactions in a Controlled Monotherapy Trial in Adult Patients with Partial-Onset Seizures a,b
 
-| Body System/ Adverse Reaction | Percent of Patients Receiving Lamotriginec as Monotherapy (n = 43) | Percent of Patients Receiving Low-Dose Valproated Monotherapy (n = 44) |
+| Body System/ Adverse Reaction | Percent of Patients Receiving Lamotrigine c as Monotherapy (n = 43) | Percent of Patients Receiving Low-Dose Valproate d Monotherapy (n = 44) |
 | --- | --- | --- |
 | Body as a whole Pain Infection Chest pain | 5 5 5 | 0 2 2 |
 | Digestive Vomiting Dyspepsia Nausea | 9 7 7 | 0 2 2 |
@@ -116,7 +117,7 @@ Special Senses: Vision abnormality.
 Incidence in Controlled Adjunctive Trials in Pediatric Patients with Epilepsy: Table 11 lists adverse reactions that occurred in 339 pediatric patients with partial-onset seizures or generalized seizures of Lennox-Gastaut syndrome who received lamotrigine up to 15 mg/kg/day or a maximum of 750 mg/day.
 
 Table 11.
-Adverse Reactions in Pooled, Placebo-Controlled Adjunctive Trials in Pediatric Patients with Epilepsya
+Adverse Reactions in Pooled, Placebo-Controlled Adjunctive Trials in Pediatric Patients with Epilepsy a
 
 | Body System/ Adverse Reaction | Percent of Patients Receiving Lamotrigine (n = 168) | Percent of Patients Receiving Placebo (n = 171) |
 | --- | --- | --- |
@@ -144,7 +145,7 @@ Approximately 16% of 2,401 patients who received lamotrigine (50 to 500 mg/day) 
 The overall adverse reaction profile for lamotrigine was similar between females and males, between elderly and nonelderly patients, and among racial groups.
 
 Table 12.
-Adverse Reactions in 2 Placebo-Controlled Trials in Adult Patients with Bipolar I Disordera,b
+Adverse Reactions in 2 Placebo-Controlled Trials in Adult Patients with Bipolar I Disorder a,b
 
 | Body System/ Adverse Reaction | Percent of Patients Receiving Lamotrigine (n = 227) | Percent of Patients Receiving Placebo (n = 190) |
 | --- | --- | --- |
@@ -152,7 +153,7 @@ Adverse Reactions in 2 Placebo-Controlled Trials in Adult Patients with Bipolar 
 | Digestive Nausea Constipation Vomiting | 14 5 5 | 11 2 2 |
 | Nervous System Insomnia Somnolence Xerostomia (dry mouth) | 10 9 6 | 6 7 4 |
 | Respiratory Rhinitis Exacerbation of cough Pharyngitis | 7 5 5 | 4 3 4 |
-| Skin Rash (nonserious)c | 7 | 5 |
+| Skin Rash (nonserious) c | 7 | 5 |
 | a Adverse reactions that occurred in at least 5% of patients treated with lamotrigine and at a greater incidence than placebo. |  |  |
 | b Patients in these trials were converted to lamotrigine (100 to 400 mg/day) or placebo monotherapy from add-on therapy with other psychotropic medications. Patients may have reported multiple adverse reactions during the trial; thus, patients may be included in more than 1 category. |  |  |
 | c In the overall bipolar and other mood disorders clinical trials, the rate of serious rash was 0.08% (1 of 1,233) of adult patients who received lamotrigine as initial monotherapy and 0.13% (2 of 1,538) of adult patients who received lamotrigine as adjunctive therapy [see Warnings and Precautions (5.1)]. |  |  |
@@ -178,7 +179,7 @@ Respiratory: Sinusitis.
 Urogenital: Urinary frequency.
 
 Adverse Reactions following Abrupt Discontinuation: In the 2 controlled clinical trials, there was no increase in the incidence, severity, or type of adverse reactions in patients with bipolar disorder after abruptly terminating therapy with lamotrigine.
-In the clinical development program in adults with bipolar disorder, 2 patients experienced seizures shortly after abrupt withdrawal of lamotrigine [see Warnings and Precautions (5.9)].
+In the clinical development program in adults with bipolar disorder, 2 patients experienced seizures shortly after abrupt withdrawal of lamotrigine [see Warnings and Precautions (5.10)].
 
 Mania/Hypomania/Mixed Episodes: During the double-blind placebo-controlled clinical trials in bipolar I disorder in which adults were converted to monotherapy with lamotrigine (100 to 400-mg/day) from other psychotropic medications and followed for up to 18 months, the rates of manic or hypomanic or mixed mood episodes reported as adverse reactions were 5% for patients treated with lamotrigine (n = 227), 4% for patients treated with lithium (n = 166), and 7% for patients treated with placebo (n = 190).
 In all bipolar controlled trials combined, adverse reactions of mania (including hypomania and mixed mood episodes) were reported in 5% of patients treated with lamotrigine (n = 956), 3% of patients treated with lithium (n = 280), and 4% of patients treated with placebo (n = 803).
@@ -298,3 +299,7 @@ Aggression, exacerbation of Parkinsonian symptoms in patients with pre-existing 
 Non-site Specific
 
 Progressive immunosuppression.
+
+Renal and Urinary Disorders
+
+Tubulointerstitial nephritis (has been reported alone and in association with uveitis).
