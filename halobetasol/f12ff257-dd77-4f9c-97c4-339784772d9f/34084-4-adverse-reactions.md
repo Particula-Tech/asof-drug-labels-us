@@ -5,4 +5,4 @@ Less frequently reported adverse reactions were pustulation, erythema, skin atro
 
 The following additional local adverse reactions are reported infrequently with topical corticosteroids, and they may occur more frequently with high potency corticosteroids, such as Halobetasol Propionate Ointment.
 These reactions are listed in an approximate decreasing order of occurrence: folliculitis, hypertrichosis, acneiform eruptions, hypopigmentation, perioral dermatitis, allergic contact dermatitis, secondary infection, striae and miliaria.
-To report SUSPECTED ADVERSE REACTIONS, contact G&W Laboratories, Inc. at 1-800-922-1038 or FDA at 1-800-FDA-1088 or www.fda.gov/medwatch.
+To report SUSPECTED ADVERSE REACTIONS, contact Cosette Pharmaceuticals, Inc. at 1-800-922-1038 or FDA at 1-800-FDA-1088 or www.fda.gov/medwatch.
