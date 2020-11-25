@@ -8,7 +8,7 @@ In older patients, also consider an endoscopy.
 
 ## 5.2 Acute Tubulointerstitial Nephritis
 
-Acute Tubulointerstitial nephritis (TIN) has been observed in patients taking PPIs and may occur at any point during PPI therapy.
+Acute Tubulointerstitial Nephritis (TIN) has been observed in patients taking PPIs and may occur at any point during PPI therapy.
 Patients may present with varying signs and symptoms from symptomatic hypersensitivity reactions to non-specific symptoms of decrease renal function (e.g., malaise, nausea, anorexia).
 In reported case series, some patients were diagnosed on biopsy and in the absence of extra-renal manifestations (e.g., fever rash or arthralgia).
 Discontinue omeprazole delayed-release capsules and evaluate patients with suspected acute TIN [see Contraindications (4)].
