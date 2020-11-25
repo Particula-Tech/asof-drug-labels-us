@@ -50,47 +50,51 @@ Table 2: Recommended Dosages of OPDIVO in Combination with Other Therapeutic Age
 
 ## 2.3 Dose Modifications
 
-Recommendations for OPDIVO modifications are provided in Table 3.
-When OPDIVO is administered in combination with ipilimumab, if OPDIVO is withheld, ipilimumab should also be withheld.
-Review the Prescribing Information for ipilimumab for recommended dose modifications.
+No dose reduction for OPDIVO is recommended.
+In general, withhold OPDIVO for severe (Grade 3) immune-mediated adverse reactions.
+Permanently discontinue OPDIVO for life-threatening (Grade 4) immune-mediated adverse reactions, recurrent severe (Grade 3) immune-mediated reactions that require systemic immunosuppressive treatment, or an inability to reduce corticosteroid dose to 10 mg or less of prednisone or equivalent per day within 12 weeks of initiating steroids.
 
-There are no recommended dose modifications for hypothyroidism or hyperthyroidism.
+Dosage modifications for OPDIVO or OPDIVO in combination with ipilimumab for adverse reactions that require management different from these general guidelines are summarized in Table 3, unless otherwise noted.
 
-Interrupt or slow the rate of infusion in patients with mild or moderate infusion-related reactions.
-Discontinue OPDIVO in patients with severe or life-threatening infusion-related reactions.
+When OPDIVO is administered in combination with ipilimumab, withhold or permanently discontinue both ipilimumab and OPDIVO for an adverse reaction meeting these dose modification guidelines.
 
-Table 3: Recommended Dose Modifications for OPDIVO
+Table 3: Recommended Dosage Modifications for Adverse Reactions
 
-| Adverse Reaction | Severity* | Dose Modification |
-| --- | --- | --- |
-| Colitis | Grade 2 diarrhea or colitis | Withhold dosea |
-| Grade 3 diarrhea or colitis | Withhold dosea when administered as a single agent |  |
-| Permanently discontinue when administered with ipilimumab |  |  |
-| Grade 4 diarrhea or colitis | Permanently discontinue |  |
-| Pneumonitis | Grade 2 pneumonitis | Withhold dosea |
-| Grade 3 or 4 pneumonitis | Permanently discontinue |  |
-| Hepatitis/non-HCCb | Aspartate aminotransferase (AST) or alanine aminotransferase (ALT) more than 3 and up to 5 times the upper limit of normal (ULN) or total bilirubin more than 1.5 and up to 3 times the ULN | Withhold dosea |
-| AST or ALT more than 5 times the ULN or total bilirubin more than 3 times the ULN | Permanently discontinue |  |
-| Hepatitis/HCCb | •If AST/ALT is within normal limits at baseline and increases to more than 3 and up to 5 times the ULN•If AST/ALT is more than 1 and up to 3 times ULN at baseline and increases to more than 5 and up to 10 times the ULN•If AST/ALT is more than 3 and up to 5 times ULN at baseline and increases to more than 8 and up to 10 times the ULN | Withhold dosec |
-| If AST or ALT increases to more than 10 times the ULN or total bilirubin increases to more than 3 times the ULN | Permanently discontinue |  |
-| Hypophysitis | Grade 2 or 3 hypophysitis | Withhold dosea |
-| Grade 4 hypophysitis | Permanently discontinue |  |
-| Adrenal Insufficiency | Grade 2 adrenal insufficiency | Withhold dosea |
-| Grade 3 or 4 adrenal insufficiency | Permanently discontinue |  |
-| Type 1 Diabetes Mellitus | Grade 3 hyperglycemia | Withhold dosea |
-| Grade 4 hyperglycemia | Permanently discontinue |  |
-| Nephritis and Renal Dysfunction | Serum creatinine more than 1.5 and up to 6 times the ULN | Withhold dosea |
-| Serum creatinine more than 6 times the ULN | Permanently discontinue |  |
-| Skin | Grade 3 rash or suspected Stevens-Johnson syndrome (SJS) or toxic epidermal necrolysis (TEN) | Withhold dosea |
-| Grade 4 rash or confirmed SJS or TEN | Permanently discontinue |  |
-| Encephalitis | New-onset moderate or severe neurologic signs or symptoms | Withhold dosea |
-| Immune-mediated encephalitis | Permanently discontinue |  |
-| Other | Other Grade 3 adverse reaction First occurrence Recurrence of same Grade 3 adverse reactions | Withhold dosea Permanently discontinue |
-| Life-threatening or Grade 4 adverse reaction | Permanently discontinue |  |
-| Grade 3 myocarditis | Permanently discontinue |  |
-| Requirement for 10 mg per day or greater prednisone or equivalent for more than 12 weeks | Permanently discontinue |  |
-| Persistent Grade 2 or 3 adverse reactions lasting 12 weeks or longer | Permanently discontinue |  |
-| * Toxicity was graded per National Cancer Institute Common Terminology Criteria for Adverse Events. Version 4.0 (NCI CTCAE v4). a Resume treatment when adverse reaction improves to Grade 0 or 1. b HCC: hepatocellular carcinoma. c Resume treatment when AST/ALT returns to baseline. |  |  |
+| Adverse Reaction | Severitya | Dosage Modification |  |
+| --- | --- | --- | --- |
+| Immune-Mediated Adverse Reactions [see Warnings and Precautions (5.1)] |  |  |  |
+| Pneumonitis | Grade 2 | Withholdb |  |
+| Grades 3 or 4 | Permanently discontinue |  |  |
+| ColitisFor colitis in patients treated with combination therapy with ipilimumab, see Table 4. | Grade 2 or 3 | Withholdb |  |
+| Grade 4 | Permanently discontinue |  |  |
+| Hepatitis with no tumor involvement of the liverFor liver enzyme elevations in patients treated with combination therapy with ipilimumab, see Table 4. | AST/ALT increases to more than 3 and up to 8 times ULN or Total bilirubin increases to more than 1.5 and up to 3 times ULN. | Withholdb |  |
+| AST or ALT increases to more than 8 times ULN or Total bilirubin increases to more than 3 times ULN. | Permanently discontinue |  |  |
+| Hepatitis with tumor involvement of the livercFor liver enzyme elevations in patients treated with combination therapy with ipilimumab, see Table 4. | Baseline AST/ALT is more than 1 and up to 3 times ULN and increases to more than 5 and up to 10 times ULNorBaseline AST/ALT is more than 3 and up to 5 times ULN and increases to more than 8 and up to 10 times ULN. | Withholdb |  |
+| AST/ALT increases to more than 10 times ULN or Total bilirubin increases to more than 3 times ULN. | Permanently discontinue |  |  |
+| Endocrinopathiesd | Grade 3 or 4 | Withhold until clinically stable or permanently discontinue depending on severity |  |
+| Nephritis with Renal Dysfunction | Grade 2 or 3 increased blood creatinine | Withholdb |  |
+| Grade 4 increased blood creatinine | Permanently discontinue |  |  |
+| Exfoliative Dermatologic Conditions | Suspected SJS, TEN, or DRESS | Withhold |  |
+| Confirmed SJS, TEN, or DRESS | Permanently discontinue |  |  |
+| Myocarditis | Grades 2, 3, or 4 | Permanently discontinue |  |
+| Neurological Toxicities | Grade 2 | Withholdb |  |
+| Grade 3 or 4 | Permanently discontinue |  |  |
+| Other Adverse Reactions |  |  |  |
+| Infusion-Related Reactions[see Warnings and Precautions (5.2)] | Grade 1 or 2 | Interrupt or slow the rate of infusion |  |
+| Grade 3 or 4 | Permanently discontinue |  |  |
+| a Based on Common Terminology Criteria for Adverse Events (CTCAE), version 4.03 b Resume in patients with complete or partial resolution (Grade 0 to 1) after corticosteroid taper. Permanently discontinue if no complete or partial resolution within 12 weeks of last dose or inability to reduce prednisone to 10 mg per day (or equivalent) or less within 12 weeks of initiating steroids. c If AST and ALT are less than or equal to ULN at baseline, withhold or permanently discontinue OPDIVO based on recommendations for hepatitis with no liver involvement. d Depending on clinical severity, consider withholding for Grade 2 endocrinopathy until symptom improvement with hormone replacement. Resume once acute symptoms have resolved. ALT = alanine aminotransferase, AST = aspartate aminotransferase, DRESS = Drug Rash with Eosinophilia and Systemic Symptoms, SJS = Stevens Johnson Syndrome, TEN = toxic epidermal necrolysis, ULN = upper limit normal |  |  |  |
+
+Table 4: Recommended Dosage Modifications for Adverse Reactions in Patients Treated with Combination Therapy
+
+| Treatment | Adverse Reaction | Severitya | Dosage Modification |  |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| OPDIVO in combination with ipilimumab | Colitis | Grade 2 | Withholdb |  |  |  |  |
+| Grade 3 or 4 | Permanently discontinue |  |  |  |  |  |  |
+| Hepatitis with no tumor involvement of the liver or Hepatitis with tumor involvement of the liver/non-HCC | AST/ALT increases to more than 3 and up to 5 times ULN orTotal bilirubin increases to more than 1.5 and up to 3 times ULN. | Withholdb |  |  |  |  |  |
+| AST or ALT more than 5 times ULN orTotal bilirubin more than 3 times ULN. | Permanently discontinue |  |  |  |  |  |  |
+| Hepatitis with tumor involvement of the liverc/HCC | Baseline AST/ALT is more than 1 and up to 3 times ULN and increases to more than 5 and up to 10 times ULNorBaseline AST/ALT is more than 3 and up to 5 times ULN and increases to more than 8 and up to 10 times ULN. | Withholdb |  |  |  |  |  |
+| AST/ALT increases to more than 10 times ULN orTotal bilirubin increases to more than 3 times ULN. | Permanently discontinue |  |  |  |  |  |  |
+| a Based on Common Terminology Criteria for Adverse Events (CTCAE), version 4.03 b Resume in patients with complete or partial resolution (Grade 0 to 1) after corticosteroid taper. Permanently discontinue if no complete or partial resolution within 12 weeks of last dose or inability to reduce prednisone to 10 mg per day (or equivalent) or less within 12 weeks of initiating steroids. c If AST and ALT are less than or equal to ULN at baseline, withhold or permanently discontinue OPDIVO in combination with ipilimumab based on recommendations for hepatitis with no liver involvement. |  |  |  |  |  |  |  |
 
 ## 2.4 Preparation and Administration
 
