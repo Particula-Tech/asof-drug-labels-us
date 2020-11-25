@@ -4,7 +4,7 @@
   Risk factors may include: advanced age, prolonged immobilization, hypercoagulable conditions, history of venous or arterial thrombosis, use of estrogens, indwelling central vascular catheters, hyperviscosity and cardiovascular risk factors.
   Thrombosis may occur in the absence of known risk factors.
   (see Warnings and Precautions [5.1], Patient Counseling Information [17.2]).
-- Use of Immune Globulin Intravenous (IGIV) products, particularly those containing sucrose, has been reported to be associated with renal dysfunction, acute renal failure, osmotic nephrosis, and death1,2.
+- Use of Immune Globulin Intravenous (IGIV) products, particularly those containing sucrose, has been reported to be associated with renal dysfunction, acute renal failure, osmotic nephrosis, and death 1,2.
   Patients at risk of acute renal failure include those with any degree of pre-existing renal insufficiency, diabetes mellitus, advanced age (above 65 years of age), volume depletion, sepsis, paraproteinemia, or receiving known nephrotoxic drugs (see Warnings and Precautions [5.3]).
 - Renal dysfunction and acute renal failure occur more commonly in patients receiving IGIV products containing sucrose.
   BIVIGAM does not contain sucrose.

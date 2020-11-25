@@ -4,7 +4,8 @@
 
 Pregnancy Category C. Animal reproduction studies have not been conducted with BIVIGAM.
 It is not known whether BIVIGAM can cause fetal harm when administered to a pregnant woman or can affect reproduction capacity.
-BIVIGAM should be given to pregnant women only if clearly needed.17,18
+BIVIGAM should be given to pregnant women only if clearly needed.
+17,18
 
 ## 8.3 Nursing Mothers
 

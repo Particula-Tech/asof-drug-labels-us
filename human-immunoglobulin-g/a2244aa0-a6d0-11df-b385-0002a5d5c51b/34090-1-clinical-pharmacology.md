@@ -21,15 +21,15 @@ Table 4: Total IgG Pharmacokinetic Parameter Estimates (PK Population) in Adults
 |  | 3-week cycle (n = 5) |  | 4-week cycle (n = 16) |  | Total (n = 21) |  |
 | --- | --- | --- | --- | --- | --- | --- |
 | Statistic | Mean (SD) | CV% | Mean (SD) | CV% | Mean (SD) | CV% |
-| Cmax (mg/dL) | 2184 (293) | 13.4 | 2122 (425) | 20.0 | 2137 (392) | 18.3 |
-| Cmin (mg/dL) | 996 (176) | 17.6 | 1106 (396) | 35.8 | 1080 (355) | 32.9 |
-| Tmax (h) a | 4.05 (2.67 – 26.1) | NA | 3.47 (2.58 – 78.6) | NA | 3.50 (2.58 – 78.6) | NA |
-| AUCtau (day*mg/dL) | 27841 (4925) | 17.7 | 35509 (6472) | 18.2 | 33592 (6898) | 20.5 |
-| t½ (d) | 19.6 (4.1) | 21.1 | 33.5 (10.7) | 32.0 | 30.0 (11.2) | 37.5 |
+| C max (mg/dL) | 2184 (293) | 13.4 | 2122 (425) | 20.0 | 2137 (392) | 18.3 |
+| C min (mg/dL) | 996 (176) | 17.6 | 1106 (396) | 35.8 | 1080 (355) | 32.9 |
+| T max (h) a | 4.05 (2.67 – 26.1) | NA | 3.47 (2.58 – 78.6) | NA | 3.50 (2.58 – 78.6) | NA |
+| AUC tau (day*mg/dL) | 27841 (4925) | 17.7 | 35509 (6472) | 18.2 | 33592 (6898) | 20.5 |
+| t ½ (d) | 19.6 (4.1) | 21.1 | 33.5 (10.7) | 32.0 | 30.0 (11.2) | 37.5 |
 | CL (dL/kg/d) | 0.0197 (0.002234) | 11.3 | 0.0141 (0.00463) | 32.8 | 0.0155 (0.00480) | 31.0 |
-| Vss (dL/kg) | 0.584 (0.132) | 22.6 | 0.640 (0.141) | 22.1 | 0.626 (0.138) | 22.0 |
+| V ss (dL/kg) | 0.584 (0.132) | 22.6 | 0.640 (0.141) | 22.1 | 0.626 (0.138) | 22.0 |
 | MRT (day) | 29.5 (5.1) | 17.54 | 48.3 (14.6) | 30.2 | 43.6 (15.2) | 35.0 |
-| AUCtau = steady-state area under the plasma concentration versus time curve with tau = dosing interval; CL = total body clearance; Cmax = maximum concentration; Cmin = minimum concentration; CV = coefficient of variation; n = number of subjects; NA = not applicable; SD = standard deviation; Tmax = time of maximum concentration; t½ = terminal half-life; Vss = Volume of distribution steady-state; MRT = mean residence time; a Median and Range. |  |  |  |  |  |  |
+| AUC tau = steady-state area under the plasma concentration versus time curve with tau = dosing interval; CL = total body clearance; C max = maximum concentration; C min = minimum concentration; CV = coefficient of variation; n = number of subjects; NA = not applicable; SD = standard deviation; T max = time of maximum concentration; t ½ = terminal half-life; V ss = Volume of distribution steady-state; MRT = mean residence time; a Median and Range. |  |  |  |  |  |  |
 
 The median terminal half-life of BIVIGAM was 30 days for the 21 subjects.
 Mean trough IgG subclass levels were consistent with physiological values.

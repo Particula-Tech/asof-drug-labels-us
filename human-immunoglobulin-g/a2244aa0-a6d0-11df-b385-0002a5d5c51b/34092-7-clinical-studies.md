@@ -31,13 +31,13 @@ Table 5: Summary of Efficacy Results in Subjects with PI
 
 | Number of Subjects (ITT Population) | 58 |  |
 | --- | --- | --- |
-| Total Number of person-yearsa | 53.5 |  |
+| Total Number of person-years a | 53.5 |  |
 | Infections |  |  |
-| Number of confirmed serious acute bacterial infectionsb | 2 |  |
+| Number of confirmed serious acute bacterial infections b | 2 |  |
 | Rate of SBIs (SBIs/total person-years) | 0.037 |  |
 | Total infections | 197 |  |
 | Infections per subject per year | 3.7 |  |
-| Antibiotic usec |  |  |
+| Antibiotic use c |  |  |
 | Number of subjects (%) | 50 (86%) |  |
 | Days per subject per year | 39.1 |  |
 | Days off school/work due to infections |  |  |

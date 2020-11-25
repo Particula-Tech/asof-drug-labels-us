@@ -35,7 +35,7 @@ Table 2: Adverse Reactions (ARs) (within 72 hours after the end of a BIVIGAM inf
 | Lethargy | 4 (6%) | 4 (0.5%) |
 | Back Pain | 3 (5%) | 3 (0.4%) |
 | Blood Pressure Diastolic Decreased | 3 (5%) | 5 (0.7%) |
-| Fibromyalgiaa | 3 (5%) | 17 (2.3%) |
+| Fibromyalgia a | 3 (5%) | 17 (2.3%) |
 | Migraine | 3 (5%) | 8 (1.1%) |
 | Myalgia | 3 (5%) | 4 (0.5%) |
 | Pharyngolaryngeal Pain | 3 (5%) | 3 (0.4%) |
