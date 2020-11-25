@@ -4,7 +4,7 @@
 
 Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in practice.
 
-Adults:
+Adults
 
 The safety of linezolid formulations was evaluated in 2046 adult patients enrolled in seven Phase 3 comparator-controlled clinical trials, who were treated for up to 28 days.
 
@@ -39,7 +39,7 @@ Of the patients treated for uSSSIs, 3.5% of linezolid-treated and 2.4% of compar
 For all other indications, discontinuations due to drug-related adverse events occurred in 2.1% of linezolid-treated and 1.7% of comparator-treated patients.
 The most common reported drug-related adverse events leading to discontinuation of treatment were nausea, headache, diarrhea, and vomiting.
 
-Pediatric Patients:
+Pediatric Patients
 
 The safety of linezolid formulations was evaluated in 215 pediatric patients ranging in age from birth through 11 years, and in 248 pediatric patients aged 5 through 17 years (146 of these 248 were age 5 through 11 and 102 were age 12 to 17).
 These patients were enrolled in two Phase 3 comparator-controlled clinical trials and were treated for up to 28 days.
@@ -54,26 +54,26 @@ Table 3 shows the incidence of all-causality, treatment-emergent adverse reactio
 Table 3.
 Incidence (%) of Treatment-Emergent Adverse Reactions Occurring in > 1% of Pediatric Patients (and >1 Patient) in Either Treatment Group in Comparator-Controlled Clinical Trials
 
-|  | Linezolid (n=248) | Cefadroxil (n=251) | Linezolid (n=215) | Vancomycin (n=101) |
-| --- | --- | --- | --- | --- |
-| ADVERSE REACTIONS | Uncomplicated Skin and Skin Structure InfectionsPatients 5 through 11 years of age received linezolid 10 mg/kg by mouth every 12 hours or cefadroxil 15 mg/kg by mouth every 12 hours. Patients 12 years or older received linezolid 600 mg by mouth every 12 hours or cefadroxil 500 mg by mouth every 12 hours. |  | All Other IndicationsPatients from birth through 11 years of age received linezolid 10 mg/kg intravenously by mouth every 8 hours or vancomycin 10 to 15 mg/kg intravenously every 6–24 hours, depending on age and renal clearance. |  |
-| Diarrhea | 7.8 | 8.0 | 10.8 | 12.1 |
-| Vomiting | 2.9 | 6.4 | 9.4 | 9.1 |
-| Headache | 6.5 | 4.0 | 0.9 | 0 |
-| Anemia | 0 | 0 | 5.6 | 7.1 |
-| Thrombocytopenia | 0 | 0 | 4.7 | 2.0 |
-| Nausea | 3.7 | 3.2 | 1.9 | 0 |
-| Generalized abdominal pain | 2.4 | 2.8 | 0.9 | 2.0 |
-| Localized abdominal pain | 2.4 | 2.8 | 0.5 | 1.0 |
-| Loose stools | 1.6 | 0.8 | 2.3 | 3.0 |
-| Eosinophilia | 0.4 | 0.8 | 1.9 | 1.0 |
-| Pruritus at non-application site | 0.8 | 0.4 | 1.4 | 2.0 |
-| Vertigo | 1.2 | 0.4 | 0 | 0 |
+|  | Linezolid (n=248) | Cefadroxil (n=251) |  | Linezolid (n=215) |  | Vancomycin (n=101) |
+| --- | --- | --- | --- | --- | --- | --- |
+| ADVERSE REACTIONS | Uncomplicated Skin and Skin Structure InfectionsPatients 5 through 11 years of age received linezolid 10 mg/kg by mouth every 12 hours or cefadroxil 15 mg/kg by mouth every 12 hours. Patients 12 years or older received linezolid 600 mg by mouth every 12 hours or cefadroxil 500 mg by mouth every 12 hours. |  | All Other IndicationsPatients from birth through 11 years of age received linezolid 10 mg/kg intravenously by mouth every 8 hours or vancomycin 10 to 15 mg/kg intravenously every 6–24 hours, depending on age and renal clearance. |  |  |  |
+| Diarrhea | 7.8 | 8.0 |  | 10.8 |  | 12.1 |
+| Vomiting | 2.9 | 6.4 |  | 9.4 |  | 9.1 |
+| Headache | 6.5 | 4.0 |  | 0.9 |  | 0 |
+| Anemia | 0 | 0 |  | 5.6 |  | 7.1 |
+| Thrombocytopenia | 0 | 0 |  | 4.7 |  | 2.0 |
+| Nausea | 3.7 | 3.2 |  | 1.9 |  | 0 |
+| Generalized abdominal pain | 2.4 | 2.8 |  | 0.9 |  | 2.0 |
+| Localized abdominal pain | 2.4 | 2.8 |  | 0.5 |  | 1.0 |
+| Loose stools | 1.6 | 0.8 |  | 2.3 |  | 3.0 |
+| Eosinophilia | 0.4 | 0.8 |  | 1.9 |  | 1.0 |
+| Pruritus at non-application site | 0.8 | 0.4 |  | 1.4 |  | 2.0 |
+| Vertigo | 1.2 | 0.4 |  | 0 |  | 0 |
 
 Of the pediatric patients treated for uSSSIs, 1.6% of linezolid-treated and 2.4% of comparator-treated patients discontinued treatment due to drug-related adverse events.
 For all other indications, discontinuations due to drug-related adverse events occurred in 0.9% of linezolid-treated and 6.1% of comparator-treated patients.
 
-Laboratory Abnormalities:
+Laboratory Abnormalities
 
 Linezolid has been associated with thrombocytopenia when used in doses up to and including 600 mg every 12 hours for up to 28 days.
 In Phase 3 comparator-controlled trials, the percentage of adult patients who developed a substantially low platelet count (defined as less than 75% of lower limit of normal and/or baseline) was 2.4% (range among studies: 0.3 to 10.0%) with linezolid and 1.5% (range among studies: 0.4 to 7.0%) with a comparator.
@@ -153,7 +153,7 @@ Because these reactions are reported voluntarily from a population of uncertain 
   Although these reports have primarily been in patients treated for longer than the maximum recommended duration of 28 days, these events have also been reported in patients receiving shorter courses of therapy.
 - Serotonin syndrome has been reported in patients receiving concomitant serotonergic agents, including antidepressants such as selective serotonin reuptake inhibitors (SSRIs) and linezolid [see Warnings and Precautions (5.3)].
 - Convulsions [see Warnings and Precautions (5.8)].
-- Anaphylaxis, angioedema, and bullous skin disorders including severe cutaneous adverse reactions (SCAR) such as toxic epidermal necrolysis and Stevens-Johnson syndrome.
+- Anaphylaxis, angioedema, bullous skin disorders including severe cutaneous adverse reactions (SCAR) such as toxic epidermal necrolysis and Stevens-Johnson syndrome, and hypersensitivity vasculitis.
 - Superficial tooth discoloration and tongue discoloration have been reported with the use of linezolid.
   The tooth discoloration was removable with professional dental cleaning (manual descaling) in cases with known outcome.
 - Hypoglycemia, including symptomatic episodes [see Warnings and Precautions (5.9)].

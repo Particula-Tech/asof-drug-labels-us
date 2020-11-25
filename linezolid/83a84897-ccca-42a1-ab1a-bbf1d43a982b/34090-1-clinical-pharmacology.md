@@ -6,8 +6,8 @@ Linezolid is an antibacterial drug [see Microbiology (12.4)].
 
 ## 12.2 Pharmacodynamics
 
-In a randomized, positive- and placebo-controlled crossover thorough QT study, 40 healthy subjects were administered a single linezolid 600 mg dose via a 1 hour IV infusion, a single linezolid 1200 mg dose via a 1 hour IV infusion, placebo, and a single oral dose of positive control.
-At both the 600 mg and 1200 mg linezolid doses, no significant effect on QTc interval was detected at peak plasma concentration or at any other time.
+In a randomized, positive- and placebo-controlled crossover thorough QT study, 40 healthy subjects were administered a single linezolid 600 mg dose via a 1 hour IV infusion, a single linezolid 1,200 mg dose via a 1 hour IV infusion, placebo, and a single oral dose of positive control.
+At both the 600 mg and 1,200 mg linezolid doses, no significant effect on QTc interval was detected at peak plasma concentration or at any other time.
 
 ## 12.3 Pharmacokinetics
 
@@ -25,11 +25,12 @@ Mean (Standard Deviation) Pharmacokinetic Parameters of Linezolid in Adults
 | 600 mg tablet |  |  |  |  |  |  |
 | single dose | 12.70 (3.96) | --- | 1.28 (0.66) | 91.40 (39.30) | 4.26 (1.65) | 127 (48) |
 | every 12 hours | 21.20 (5.78) | 6.15 (2.94) | 1.03 (0.62) | 138.00 (42.10) | 5.40 (2.06) | 80 (29) |
-| 600 mg IV injection Data dose-normalized from 625 mg, intravenous dose was given as 0.5-hour infusion. Cmax = Maximum plasma concentration; Cmin = Minimum plasma concentration; Tmax = Time to Cmax; AUC = Area under concentration-time curve; t1/2 = Elimination half-life; CL = Systemic clearance |  |  |  |  |  |  |
+| 600 mg IV injection Data dose-normalized from 625 mg, intravenous dose was given as 0.5-hour infusion. |  |  |  |  |  |  |
 | single dose | 12.90 (1.60) | --- | 0.50 (0.10) | 80.20 (33.30) | 4.40 (2.40) | 138 (39) |
 | every 12 hours | 15.10 (2.52) | 3.68 (2.36) | 0.51 (0.03) | 89.70 (31.00) | 4.80 (1.70) | 123 (40) |
 | 600 mg oral suspension |  |  |  |  |  |  |
 | single dose | 11.00 (2.76) | --- | 0.97 (0.88) | 80.80 (35.10) | 4.60 (1.71) | 141 (45) |
+| Cmax = Maximum plasma concentration; Cmin = Minimum plasma concentration; Tmax = Time to Cmax; AUC = Area under concentration-time curve; t1/2 = Elimination half-life; CL = Systemic clearance |  |  |  |  |  |  |
 
 Figure 1.
 Plasma Concentrations of Linezolid in Adults at Steady-State Following Oral Dosing Every 12 Hours (Mean ± Standard Deviation, n=16)
@@ -170,7 +171,7 @@ Therefore, linezolid is not expected to affect the pharmacokinetics of other dru
 Concurrent administration of linezolid does not substantially alter the pharmacokinetic characteristics of (S)-warfarin, which is extensively metabolized by CYP2C9.
 Drugs such as warfarin and phenytoin, which are CYP2C9 substrates, may be given with linezolid without changes in dosage regimen.
 
-Antibiotics
+Antibacterial Drugs
 
 Aztreonam: The pharmacokinetics of linezolid or aztreonam are not altered when administered together.
 
@@ -180,7 +181,7 @@ Antioxidants
 
 The potential for drug-drug interactions with linezolid and the antioxidants Vitamin C and Vitamin E was studied in healthy volunteers.
 Subjects were administered a 600 mg oral dose of linezolid on Day 1, and another 600 mg dose of linezolid on Day 8.
-On Days 2 – 9, subjects were given either Vitamin C (1000 mg/day) or Vitamin E (800 IU/ day).
+On Days 2 – 9, subjects were given either Vitamin C (1,000 mg/day) or Vitamin E (800 IU/ day).
 The AUC0–∞ of linezolid increased 2.3% when co-administered with Vitamin C and 10.9% when co-administered with Vitamin E. No linezolid dose adjustment is recommended during co-administration with Vitamin C or Vitamin E.
 
 Strong CYP 3A4 Inducers
@@ -250,7 +251,15 @@ Linezolid has been shown to be active against most isolates of the following mic
 
 Gram-positive bacteria
 
-Enterococcus faecium (vancomycin-resistant isolates only) Staphylococcus aureus (including methicillin-resistant isolates) Streptococcus agalactiae Streptococcus pneumoniae Streptococcus pyogenes
+Enterococcus faecium (vancomycin-resistant isolates only)
+
+Staphylococcus aureus (including methicillin-resistant isolates)
+
+Streptococcus agalactiae
+
+Streptococcus pneumoniae
+
+Streptococcus pyogenes
 
 The following in vitro data are available, but their clinical significance is unknown.
 Greater than 90% of the following bacteria exhibit an in vitro MIC less than or equal to the linezolid-susceptible breakpoint for organisms of similar genus.
@@ -258,7 +267,15 @@ The safety and effectiveness of linezolid in treating clinical infections due to
 
 Gram-positive bacteria
 
-Enterococcus faecalis (including vancomycin-resistant isolates) Enterococcus faecium (vancomycin-susceptible isolates) Staphylococcus epidermidis (including methicillin-resistant isolates) Staphylococcus haemolyticus Viridans group streptococci
+Enterococcus faecalis (including vancomycin-resistant isolates)
+
+Enterococcus faecium (vancomycin-susceptible isolates)
+
+Staphylococcus epidermidis (including methicillin-resistant isolates)
+
+Staphylococcus haemolyticus
+
+Viridans group streptococci
 
 Gram-negative bacteria
 
