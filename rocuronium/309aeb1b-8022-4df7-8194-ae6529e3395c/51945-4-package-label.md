@@ -2,30 +2,21 @@
 
 5 mL Multiple dose vial
 
-Rocuronium Bromide Inj.
+Rocuronium Bromide Injection
+
 50 mg/5 mL (10 mg/mL)
 
 WARNING: Paralyzing Agent
 
-For IV use only Rx only
+For Intravenous use only
 
-Peel off & apply to syringe
-
-NDC 0409-9558-11
-
-WARNING: Paralyzing Agent.
-Causes Respiratory Arrest.
-Facilities must be immediately available for artificial respiration
+Distributed by Hospira, Inc. Lake Forest, IL 60045 USA
 
 Hospira
-
-Dist. by Hospira, Inc. Lake Forest, IL 60045 USA
 
 # PRINCIPAL DISPLAY PANEL - 5 mL Vial Box
 
 10 x 5 mL multiple dose vials
-
-NDC 0409-9558-05 Contains 10 of NDC 0409-9558-11
 
 Rocuronium Bromide Injection
 
@@ -33,13 +24,15 @@ Rocuronium Bromide Injection
 
 WARNING: Paralyzing Agent
 
-Rx only
-
 For intravenous use only WARNING: Paralyzing Agent.
 Causes Respiratory Arrest.
 Facilities must be immediately available for artificial respiration
 
 Dosage: Read enclosed prescribing information.
+
+Rx only
+
+NDC 0409-9558-05 Contains 10 of NDC 0409-9558-11
 
 Storage: Rocuronium Bromide Injection should be stored under refrigeration, 2 to 8°C (36 to 46°F).
 DO NOT FREEZE.
@@ -56,30 +49,21 @@ Hospira
 
 10 mL Multiple dose vial
 
-Rocuronium Bromide Inj.
+Rocuronium Bromide Injection
+
 100 mg/10 mL (10 mg/mL)
 
 WARNING: Paralyzing Agent
 
-For IV use only Rx only
+For Intravenous use only
 
-Peel off & apply to syringe
-
-NDC 0409-9558-31
-
-WARNING: Paralyzing Agent.
-Causes Respiratory Arrest.
-Facilities must be immediately available for artificial respiration
+Distributed by Hospira, Inc. Lake Forest, IL 60045 USA
 
 Hospira
-
-Dist. by Hospira, Inc. Lake Forest, IL 60045 USA
 
 # PRINCIPAL DISPLAY PANEL - 10 mL Vial Box
 
 10 x 10 mL multiple dose vials
-
-NDC 0409-9558-10 Contains 10 of NDC 0409-9558-31
 
 Rocuronium Bromide Injection
 
@@ -87,13 +71,17 @@ Rocuronium Bromide Injection
 
 WARNING: Paralyzing Agent
 
-Rx only
+For intravenous use only
 
-For intravenous use only WARNING: Paralyzing Agent.
+WARNING: Paralyzing Agent.
 Causes Respiratory Arrest.
 Facilities must be immediately available for artificial respiration
 
 Dosage: Read enclosed prescribing information.
+
+Rx only
+
+NDC 0409-9558-10 Contains 10 of NDC 0409-9558-31
 
 Storage: Rocuronium Bromide Injection should be stored under refrigeration, 2 to 8°C (36 to 46°F).
 DO NOT FREEZE.
