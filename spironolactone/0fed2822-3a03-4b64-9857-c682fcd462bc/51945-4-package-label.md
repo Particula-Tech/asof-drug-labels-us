@@ -8,9 +8,7 @@ Aldactone® spironolactone tablets, USP
 
 25 mg
 
-100 Tablets
-
-Rx only
+100 Tablets Rx only
 
 # PRINCIPAL DISPLAY PANEL - 50 mg Tablet Bottle Label
 
