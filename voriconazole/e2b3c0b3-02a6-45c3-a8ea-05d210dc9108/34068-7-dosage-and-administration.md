@@ -15,7 +15,7 @@ Once the patient has clinically improved and can tolerate medication given by mo
 The recommended oral maintenance dose of 200 mg achieves a voriconazole exposure similar to 3 mg/kg intravenously; a 300 mg oral dose achieves an exposure similar to 4 mg/kg intravenously.
 Switching between the intravenous and oral formulations is appropriate because of the high bioavailability of the oral formulation in adults [see Clinical Pharmacology (12)].
 
-Candidemia in non-neutropenic Patients and Other Deep Tissue Candida Infections
+Candidemia in Non-neutropenic Patients and Other Deep Tissue Candida Infections
 
 See Table 1.
 Patients should be treated for at least 14 days following resolution of symptoms or following last positive culture, whichever is longer.
