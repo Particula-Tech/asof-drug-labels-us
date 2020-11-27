@@ -1,6 +1,6 @@
 # 16 HOW SUPPLIED/STORAGE AND HANDLING
 
-Rosuvastatin Tablets USP are supplied as:
+Rosuvastatin Tablets, USP are supplied as:
 
 5 mg tablets: Pink colored, film-coated, circular tablets debossed with “G” on one side and “C” on the other side.
 

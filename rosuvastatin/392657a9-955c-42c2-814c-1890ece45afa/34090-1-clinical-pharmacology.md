@@ -140,7 +140,7 @@ Effect of Rosuvastatin Coadministration on Systemic Exposure to Other Drugs
 | 40 mg QD for 28 days | Oral Contraceptive(ethinyl estradiol 0.035 mg & norgestrel 0.18, 0.215 and 0.250 mg) QD for 21 Days | EE 1.3(1.2 to 1.3)2NG 1.3(1.3 to 1.4)2 | EE 1.3(1.2 to 1.3)2NG 1.2(1.1 to 1.3)2 |
 
 - EE = ethinyl estradiol, NG = norgestrel, QD= Once daily
-- 1Clinically significant pharmacodynamic effects [see Warnings and Precautions (5.3)] 2Mean ratio with 90% CI (with/without coadministered drug, e.g., 1= no change, 0.7=30% decrease, 11=11-fold increase in exposure)
+- 1Clinically significant pharmacodynamic effects [see Warnings and Precautions (5.4)] 2Mean ratio with 90% CI (with/without coadministered drug, e.g., 1= no change, 0.7=30% decrease, 11=11-fold increase in exposure)
 
 ## 12.5 Pharmacogenomics
 

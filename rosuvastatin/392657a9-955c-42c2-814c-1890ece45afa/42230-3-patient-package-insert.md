@@ -1,6 +1,6 @@
 # PATIENT INFORMATION
 
-Rosuvastatin (roe-SOO-va-STAT-in KAL-see-um) Tablets USP
+Rosuvastatin (roe-SOO-va-STAT-in KAL-see-um) Tablets, USP
 
 Read this Patient Information carefully before you start taking rosuvastatin tablets and each time you get a refill.
 If you have any questions about rosuvastatin tablets, ask your doctor.
@@ -67,11 +67,11 @@ Especially tell your doctor if you take:
 - •anti-viral medicines including certain HIV or hepatitis C protease inhibitors such as:
   - olopinavir, ritonavir, fosamprenavir, tipranavir, atazanavir, simeprevir)
   - ocombination of
-    - ▪sofosbuvir/velpatasvir/voxilaprevir
-    - ▪dasabuvir/ombitasvir/paritaprevir/ritonavir
-    - ▪elbasvir/grazoprevir
-    - ▪sofosbuvir/velpatasvir
-    - ▪glecaprevir/pibrentasvir and
+    - •sofosbuvir/velpatasvir/voxilaprevir
+    - •dasabuvir/ombitasvir/paritaprevir/ritonavir
+    - •elbasvir/grazoprevir
+    - •sofosbuvir/velpatasvir
+    - •glecaprevir/pibrentasvir and
   - oall other combinations with ledipasvir including ledipasvir/sofosbuvir
 - •certain anti-fungal medicines (such as itraconazole, ketoconazole and fluconazole)
 - •coumarin anticoagulants (medicines that prevent blood clots, such as warfarin)
@@ -170,4 +170,4 @@ Questions?
 
 www.glenmarkpharma-us.com
 
-June 2020
+November 2020
