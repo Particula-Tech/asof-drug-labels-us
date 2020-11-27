@@ -69,4 +69,4 @@ Pregnancy Exposure Registry
 
 Inform patients that there is an antiretroviral pregnancy registry that monitors fetal outcomes of pregnant women exposed to ritonavir [see Use in Specific Populations (8.1)].
 Lactation Instruct women with HIV-1 infection not to breastfeed because HIV-1 can be passed to the baby in breast milk [see Use in Specific Populations (8.2)].
-Dispense with Patient Information available at: www.aurobindousa.com/product-medication-guides
+Dispense with Patient Information available at: www.aurobindousa.com/medication-guides

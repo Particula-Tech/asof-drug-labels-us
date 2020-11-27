@@ -157,6 +157,7 @@ Tell your healthcare provider right away if you have symptoms such as:
   The exact cause and long-term health effects of these conditions are not known.
 - Increased bleeding for hemophiliacs.
   Some people with hemophilia have increased bleeding with protease inhibitors including ritonavir tablets.
+- Kidney stones
 
 The most common side effects of ritonavir tablets include:
 
@@ -199,14 +200,10 @@ What are the ingredients in ritonavir tablets?
 Active ingredient: ritonavir
 
 Inactive ingredients: copovidone, corn starch, dibasic calcium phosphate anhydrous, dibasic calcium phosphate dihydrate, hypromellose, mannitol, microcrystalline cellulose, polyethylene glycol, polysorbate, powdered cellulose, silicified microcrystalline cellulose, sodium stearyl fumarate, sorbitan monolaurate, talc, and titanium dioxide.
-
 For more information, call Aurobindo Pharma USA, Inc. at 1-866-850-2876.
-
 The brands listed are trademarks of their respective owners and are not trademarks of Aurobindo Pharma Limited.
 The makers of these brands are not affiliated with and do not endorse Aurobindo Pharma Limited or its products.
-
 This Patient Information has been approved by the U.S. Food and Drug Administration.
+Dispense with Patient Information available at: www.aurobindousa.com/medication-guides
 
-Dispense with Patient Information available at: www.aurobindousa.com/product-medication-guides
-
-Distributed by: Aurobindo Pharma USA, Inc. 279 Princeton-Hightstown Road East Windsor, NJ 08520 Manufactured by: Aurobindo Pharma Limited Hyderabad-500 038, India Revised: 01/2020
+Distributed by: Aurobindo Pharma USA, Inc. 279 Princeton-Hightstown Road East Windsor, NJ 08520 Manufactured by: Aurobindo Pharma Limited Hyderabad-500 038, India Revised: 11/2020

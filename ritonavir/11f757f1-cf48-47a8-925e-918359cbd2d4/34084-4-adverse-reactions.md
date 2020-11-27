@@ -118,4 +118,8 @@ The possibility of drug interaction cannot be excluded.
 Endocrine System Cushing’s syndrome and adrenal suppression have been reported when ritonavir has been co­-administered with fluticasone propionate or budesonide.
 Nervous System There have been postmarketing reports of seizure.
 Also, see Cardiovascular System.
+Renal and Urinary Disorders
+
+Nephrolithiasis
+
 Skin and subcutaneous tissue disorders Toxic epidermal necrolysis (TEN) has been reported.
