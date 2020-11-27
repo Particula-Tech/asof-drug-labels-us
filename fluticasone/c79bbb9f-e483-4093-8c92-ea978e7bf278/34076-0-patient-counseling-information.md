@@ -78,6 +78,6 @@ Patients should be advised not to block the other nostril because the exhaled br
 
 Distributed by: OptiNose US, Inc. 1020 Stony Hill Rd Yardley, PA 19067
 
-XHANCE and OPTINOSE are trademarks or registered trademarks of OptiNose AS
+XHANCE and OPTINOSE are registered trademarks of OptiNose AS
 
-©2019, OptiNose US, Inc. All rights reserved.
+©2020, OptiNose US, Inc. All rights reserved.

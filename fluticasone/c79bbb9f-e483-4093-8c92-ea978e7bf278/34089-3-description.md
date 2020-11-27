@@ -15,4 +15,4 @@ When XHANCE has not been used for ≥ 7 days, prime again by releasing 2 sprays 
 After priming, each spray delivers 93 mcg of fluticasone propionate in 106 mg of aqueous suspension through the cone-shaped nosepiece.
 The system also has a flexible mouthpiece.
 Within the device is a non‑removable amber glass bottle with a metering spray pump, an applicator, and a valve that prevents release of breath until the bottle is pressed.
-A removable orange cap covers both the nosepiece and mouthpiece.
+A base covers the bottom of the bottle, and a removable orange cap covers both the nosepiece and mouthpiece.

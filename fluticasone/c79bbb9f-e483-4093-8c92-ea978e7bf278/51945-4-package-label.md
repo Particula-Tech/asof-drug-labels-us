@@ -1,10 +1,10 @@
-# PRINCIPAL DISPLAY PANEL - Carton - Front Side
+# PRINCIPAL DISPLAY PANEL - Carton Label - Outside
 
 NDC 71143-375-01
 
 XHANCE® (fluticasone propionate) nasal spray 93 mcg
 
-This carton contains: 1 Prefilled XHANCE unit (each spray contains 93 mcg fluticasone propionate)
+This carton contains: 1 Prefilled XHANCE Unit (each spray contains 93 mcg fluticasone propionate)
 
 Shake Before Each Use For Intranasal Use Only Rx ONLY
 
@@ -16,33 +16,34 @@ XHANCE® (fluticasone propionate) nasal spray 93 mcg
 
 Please read instructions carefully before use.
 
-XHANCE® (fluticasone propionate) nasal spray 93 mcg
-
-For more information, please visit www.XHANCE.com or call 1.833.678.6673
-
-Usual Dosage: See prescribing information.
-
-Inactive Ingredients: microcrystalline cellulose and carboxymethylcellulose sodium, dextrose, 0.02% w/w benzalkonium chloride, polysorbate 80, EDTA, purified water
-
-Distributed by: OptiNose US, Inc. Yardley, PA 19067 Made in Canada.
-XHANCE and OPTINOSE are trademarks or registered trademarks of OptiNose AS. ©2019 OptiNose US, Inc. All rights reserved.
-
 For Intranasal Use Only.
-See prescribing information.
+See Prescribing Information.
 Shake XHANCE before each use.
 
 Store at room temperature (between 15°C and 25°C; 59°F and 77°F).
 Avoid exposure to extreme heat, cold or light.
 
-00371143375011
+Usual Dosage: See Prescribing Information.
 
-LOT ####### EXP XXXXXX SERIAL #
+Inactive Ingredients: microcrystalline cellulose and carboxymethylcellulose sodium, dextrose, 0.02% w/w benzalkonium chloride, polysorbate 80, EDTA, purified water
 
-2008495
+Distributed by: OptiNose US, Inc., Yardley, PA 19067 Made in Canada.
+XHANCE and OPTINOSE are registered trademarks of OptiNose AS.
+Patented.
+See www.XHANCE.com/patents. ©2020 OptiNose US, Inc. All rights reserved.
 
-# PRINCIPAL DISPLAY PANEL - Carton - Inside
+LOT ###### EXP XX/XXXX SERIAL #
 
-Read enclosed Instructions for Use
+XHANCE® (fluticasone propionate) nasal spray 93 mcg
 
-The XHANCE Bottle is made of glass and can be damaged if dropped or hit too hard.
-If you drop or hit XHANCE, call 1.833.678.6673.
+For more information, please visit www.XHANCE.com or call 1.833.678.6673
+
+# PRINCIPAL DISPLAY PANEL - Carton Label - Inside
+
+For best results:
+
+Keep using XHANCE regularly twice each day without missing a dose
+
+Do not stop using XHANCE unless your healthcare provider tells you to do so
+
+Read enclosed Instructions for Use and visit www.XHANCE.com for more information.
