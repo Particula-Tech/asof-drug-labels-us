@@ -11,7 +11,7 @@ ZESTORETIC should be promptly discontinued and the appropriate therapy and monit
 Even in those instances where swelling of only the tongue is involved, without respiratory distress, patients may require prolonged observation since treatment with antihistamines and corticosteroids may not be sufficient.
 Very rarely, fatalities have been reported due to angioedema associated with laryngeal edema or tongue edema.
 Patients with involvement of the tongue, glottis or larynx are likely to experience airway obstruction, especially those with a history of airway surgery.
-Where there is involvement of the tongue, glottis or larynx, likely to cause airway obstruction, subcutaneous epinephrine solution 1:1000 (0.3 mL to 0.5 mL) and/or measures necessary to ensure a patent airway should be promptly provided (See ADVERSE REACTIONS).
+Where there is involvement of the tongue, glottis or larynx, likely to cause airway obstruction, subcutaneous epinephrine solution 1:1000 (0.3 mL to 0.5 mL) and/or measures necessary to ensure a patent airway should be promptly provided (see ADVERSE REACTIONS).
 
 Patients receiving coadministration of ACE inhibitor and mTOR (mammalian target of rapamycin) inhibitor (e.g., temsirolimus, sirolimus, everolimus) therapy or a neprilysin inhibitor may be at increased risk for angioedema (see PRECAUTIONS).
 
@@ -32,11 +32,11 @@ Symptoms have not been relieved by antihistamines in these situations.
 In these patients, consideration should be given to using a different type of dialysis membrane or a different class of antihypertensive agent.
 Anaphylactoid reactions have also been reported in patients undergoing low-density lipoprotein apheresis with dextran sulfate absorption.
 
-Hypotension and Related Effects: Excessive hypotension was rarely seen in uncomplicated hypertensive patients but is a possible consequence of lisinopril use in salt/volume-depleted persons such as those treated vigorously with diuretics or patients on dialysis (See PRECAUTIONS, Drug Interactions and ADVERSE REACTIONS).
+Hypotension and Related Effects: Excessive hypotension was rarely seen in uncomplicated hypertensive patients but is a possible consequence of lisinopril use in salt/volume-depleted persons such as those treated vigorously with diuretics or patients on dialysis (see PRECAUTIONS, Drug Interactions and ADVERSE REACTIONS).
 
 Syncope has been reported in 0.8 percent of patients receiving ZESTORETIC.
 In patients with hypertension receiving lisinopril alone, the incidence of syncope was 0.1 percent.
-The overall incidence of syncope may be reduced by proper titration of the individual components (See PRECAUTIONS, Drug Interactions, ADVERSE REACTIONS and DOSAGE AND ADMINISTRATION).
+The overall incidence of syncope may be reduced by proper titration of the individual components (seePRECAUTIONS, Drug Interactions, ADVERSE REACTIONS and DOSAGE AND ADMINISTRATION).
 
 In patients with severe congestive heart failure, with or without associated renal insufficiency, excessive hypotension has been observed and may be associated with oliguria and/or progressive azotemia, and rarely with acute renal failure and/or death.
 Because of the potential fall in blood pressure in these patients, therapy should be started under very close medical supervision.
@@ -85,7 +85,7 @@ Associated with the decreased fetal weight was a delay in fetal ossification.
 The decreased fetal weight and delay in fetal ossification were not seen in saline-supplemented animals given 90/10 mg/kg/day.
 
 When used in pregnancy, during the second and third trimesters, ACE inhibitors can cause injury and even death to the developing fetus.
-When pregnancy is detected, discontinue ZESTORETIC as soon as possible (See Lisinopril, Fetal Toxicity).
+When pregnancy is detected, discontinue ZESTORETIC as soon as possible (seeLisinopril, Fetal Toxicity).
 
 ## Hydrochlorothiazide
 
@@ -114,7 +114,7 @@ Sensitivity reactions may occur in patients with or without a history of allergy
 
 The possibility of exacerbation or activation of systemic lupus erythematosus has been reported.
 
-Lithium generally should not be given with thiazides (See PRECAUTIONS, Drug Interactions, Lisinopril and Hydrochlorothiazide).
+Lithium generally should not be given with thiazides (see PRECAUTIONS, Drug Interactions, Lisinopril and Hydrochlorothiazide).
 
 # PRECAUTIONS
 
@@ -135,14 +135,14 @@ Some hypertensive patients with no apparent pre-existing renal vascular disease 
 This is more likely to occur in patients with pre-existing renal impairment.
 Dosage reduction of lisinopril and/or discontinuation of the diuretic may be required.
 
-Evaluation of the hypertensive patient should always include assessment of renal function (See DOSAGE AND ADMINISTRATION).
+Evaluation of the hypertensive patient should always include assessment of renal function (see DOSAGE AND ADMINISTRATION).
 
 Hyperkalemia: In clinical trials hyperkalemia (serum potassium greater than 5.7 mEq/L) occurred in approximately 1.4 percent of hypertensive patients treated with lisinopril plus hydrochlorothiazide.
 In most cases these were isolated values which resolved despite continued therapy.
 Hyperkalemia was not a cause of discontinuation of therapy.
 Risk factors for the development of hyperkalemia include renal insufficiency, diabetes mellitus, and the concomitant use of potassium-sparing diuretics, potassium supplements and/or potassium-containing salt substitutes.
 Hyperkalemia can cause serious, sometimes fatal, arrhythmias.
-ZESTORETIC should be used cautiously, if at all, with these agents and with frequent monitoring of serum potassium (See PRECAUTIONS, Drug Interactions).
+ZESTORETIC should be used cautiously, if at all, with these agents and with frequent monitoring of serum potassium (see PRECAUTIONS, Drug Interactions).
 
 Cough: Presumably due to the inhibition of the degradation of endogenous bradykinin, persistent nonproductive cough has been reported with all ACE inhibitors, almost always resolving after discontinuation of therapy.
 ACE inhibitor-induced cough should be considered in the differential diagnosis of cough.
@@ -162,7 +162,7 @@ Hypokalemia may develop, especially with brisk diuresis, when severe cirrhosis i
 
 Interference with adequate oral electrolyte intake will also contribute to hypokalemia.
 Hypokalemia may cause cardiac arrhythmia and may also sensitize or exaggerate the response of the heart to the toxic effects of digitalis (e.g., increased ventricular irritability).
-Because lisinopril reduces the production of aldosterone, concomitant therapy with lisinopril attenuates the diuretic-induced potassium loss (See PRECAUTIONS, Drug Interactions, Agents Increasing Serum Potassium).
+Because lisinopril reduces the production of aldosterone, concomitant therapy with lisinopril attenuates the diuretic-induced potassium loss (see PRECAUTIONS, Drug Interactions, Agents Increasing Serum Potassium).
 
 Although any chloride deficit is generally mild and usually does not require specific treatment, except under extraordinary circumstances (as in liver disease or renal disease), chloride replacement may be required in the treatment of metabolic alkalosis.
 
@@ -207,6 +207,8 @@ Pregnancy: Female patients of childbearing age should be told about the conseque
 Discuss treatment options with women planning to become pregnant.
 Patients should be asked to report pregnancies to their physicians as soon as possible.
 
+Non-melanoma Skin Cancer: Instruct patients taking hydrochlorothiazide to protect skin from the sun and undergo regular skin cancer screening.
+
 NOTE: As with many other drugs, certain advice to patients being treated with ZESTORETIC is warranted.
 This information is intended to aid in the safe and effective use of this medication.
 It is not a disclosure of all possible adverse or intended effects.
@@ -217,8 +219,8 @@ It is not a disclosure of all possible adverse or intended effects.
 
 Hypotension - Patients on Diuretic Therapy: Patients on diuretics and especially those in whom diuretic therapy was recently instituted, may occasionally experience an excessive reduction of blood pressure after initiation of therapy with lisinopril.
 The possibility of hypotensive effects with lisinopril can be minimized by either discontinuing the diuretic or increasing the salt intake prior to initiation of treatment with lisinopril.
-If it is necessary to continue the diuretic, initiate therapy with lisinopril at a dose of 5 mg daily, and provide close medical supervision after the initial dose for at least two hours and until blood pressure has stabilized for at least an additional hour (See WARNINGS, and DOSAGE AND ADMINISTRATION).
-When a diuretic is added to the therapy of a patient receiving lisinopril, an additional antihypertensive effect is usually observed (See DOSAGE AND ADMINISTRATION).
+If it is necessary to continue the diuretic, initiate therapy with lisinopril at a dose of 5 mg daily, and provide close medical supervision after the initial dose for at least two hours and until blood pressure has stabilized for at least an additional hour (see WARNINGS, andDOSAGE AND ADMINISTRATION).
+When a diuretic is added to the therapy of a patient receiving lisinopril, an additional antihypertensive effect is usually observed (see DOSAGE AND ADMINISTRATION).
 
 Non-Steroidal Anti-Inflammatory Agents including Selective Cyclooxygenase-2 Inhibitors (COX-2 Inhibitors): In patients who are elderly, volume-depleted (including those on diuretic therapy), or with compromised renal function, co-administration of NSAIDs, including selective COX-2 inhibitors, with ACE inhibitors, including lisinopril, may result in deterioration of renal function, including possible acute renal failure.
 These effects are usually reversible.
@@ -248,11 +250,9 @@ Lithium: Lithium toxicity has been reported in patients receiving lithium concom
 Lithium toxicity was usually reversible upon discontinuation of lithium and the ACE inhibitor.
 It is recommended that serum lithium levels be monitored frequently if lisinopril is administered concomitantly with lithium.
 
-mTOR (mammalian target of rapamycin) inhibitors Patients receiving coadministration of ACE inhibitor and mTOR inhibitor (e.g., temsirolimus, sirolimus, everolimus) therapy may be at increased risk for angioedema.
-(see WARNINGS)
+mTOR (mammalian target of rapamycin) inhibitors Patients receiving coadministration of ACE inhibitor and mTOR inhibitor (e.g., temsirolimus, sirolimus, everolimus) therapy may be at increased risk for angioedema (see WARNINGS).
 
-Neprilysin Inhibitors Patients taking concomitant neprilysin inhibitors may be at increased risk for angioedema.
-(see WARNINGS)
+Neprilysin Inhibitors Patients taking concomitant neprilysin inhibitors may be at increased risk for angioedema (see WARNINGS).
 
 ### Hydrochlorothiazide
 

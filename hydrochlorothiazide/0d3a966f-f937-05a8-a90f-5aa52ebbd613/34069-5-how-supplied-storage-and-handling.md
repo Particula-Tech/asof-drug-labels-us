@@ -8,5 +8,5 @@ ZESTORETIC 20-25 Tablets: Peach, round, biconvex, uncoated tablets identified wi
 
 ## Storage
 
-Store at controlled room temperature, 20° to 25°C (68° to 77°F) [see USP].
+Store at controlled room temperature, 20°C to 25°C (68°F to 77°F) [see USP].
 Protect from excessive light and humidity.

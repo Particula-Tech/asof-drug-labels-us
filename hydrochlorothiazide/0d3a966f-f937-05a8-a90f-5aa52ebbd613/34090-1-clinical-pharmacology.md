@@ -10,7 +10,7 @@ The ZESTORETIC 10-12.5 combination worked equally well in black and white patien
 The ZESTORETIC 20-12.5 and ZESTORETIC 20-25 combinations appeared somewhat less effective in black patients, but relatively few black patients were studied.
 In most patients, the antihypertensive effect of ZESTORETIC was sustained for at least 24 hours.
 
-In a randomized, controlled comparison, the mean antihypertensive effects of ZESTORETIC 20-12.5 and ZESTORETIC 20-25 were similar, suggesting that many patients who respond adequately to the latter combination may be controlled with ZESTORETIC 20-12.5 (See DOSAGE AND ADMINISTRATION).
+In a randomized, controlled comparison, the mean antihypertensive effects of ZESTORETIC 20-12.5 and ZESTORETIC 20-25 were similar, suggesting that many patients who respond adequately to the latter combination may be controlled with ZESTORETIC 20-12.5 (see DOSAGE AND ADMINISTRATION).
 
 Concomitant administration of lisinopril and hydrochlorothiazide has little or no effect on the bioavailability of either drug.
 The combination tablet is bioequivalent to concomitant administration of the separate entities.
@@ -26,7 +26,7 @@ Inhibition of ACE results in decreased plasma angiotensin II which leads to decr
 The latter decrease may result in a small increase of serum potassium.
 Removal of angiotensin II negative feedback on renin secretion leads to increased plasma renin activity.
 In hypertensive patients with normal renal function treated with lisinopril alone for up to 24 weeks, the mean increase in serum potassium was less than 0.1 mEq/L; however, approximately 15 percent of patients had increases greater than 0.5 mEq/L and approximately six percent had a decrease greater than 0.5 mEq/L.
-In the same study, patients treated with lisinopril plus a thiazide diuretic showed essentially no change in serum potassium (See PRECAUTIONS).
+In the same study, patients treated with lisinopril plus a thiazide diuretic showed essentially no change in serum potassium (see PRECAUTIONS).
 
 ACE is identical to kininase, an enzyme that degrades bradykinin.
 Whether increased levels of bradykinin, a potent vasodepressor peptide, play a role in the therapeutic effects of lisinopril remains to be elucidated.
@@ -61,7 +61,7 @@ By whole body autoradiography, radioactivity was found in the placenta following
 Pharmacodynamics
 
 Administration of lisinopril to patients with hypertension results in a reduction of supine and standing blood pressure to about the same extent with no compensatory tachycardia.
-Symptomatic postural hypotension is usually not observed although it can occur and should be anticipated in volume and/or salt-depleted patients (See WARNINGS).
+Symptomatic postural hypotension is usually not observed although it can occur and should be anticipated in volume and/or salt-depleted patients (see WARNINGS).
 
 In most patients studied, onset of antihypertensive activity was seen at one hour after oral administration of an individual dose of lisinopril, with peak reduction of blood pressure achieved by six hours.
 
@@ -76,7 +76,7 @@ In hemodynamic studies in patients with essential hypertension, blood pressure r
 In a study in nine hypertensive patients, following administration of lisinopril, there was an increase in mean renal blood flow that was not significant.
 Data from several small studies are inconsistent with respect to the effect of lisinopril on glomerular filtration rate in hypertensive patients with normal renal function, but suggest that changes, if any, are not large.
 
-In patients with renovascular hypertension lisinopril has been shown to be well tolerated and effective in controlling blood pressure (See PRECAUTIONS).
+In patients with renovascular hypertension lisinopril has been shown to be well tolerated and effective in controlling blood pressure (see PRECAUTIONS).
 
 ## Hydrochlorothiazide
 
