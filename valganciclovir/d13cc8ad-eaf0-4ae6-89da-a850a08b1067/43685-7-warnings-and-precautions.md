@@ -26,7 +26,7 @@ Acute renal failure may occur in:
 ## 5.3 Impairment of Fertility
 
 Based on animal data and limited human data, valganciclovir at the recommended human doses may cause temporary or permanent inhibition of spermatogenesis in males, and may cause suppression of fertility in females.
-Advise patients that fertility may be impaired with use of valganciclovir[see Use in Specific Populations (8.1, 8.3), Nonclinical Toxicology (13.1)].
+Advise patients that fertility may be impaired with use of valganciclovir [see Use in Specific Populations (8.1, 8.3), Nonclinical Toxicology (13.1)].
 
 ## 5.4 Fetal Toxicity
 

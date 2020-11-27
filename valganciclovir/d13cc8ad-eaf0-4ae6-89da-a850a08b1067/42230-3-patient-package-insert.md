@@ -110,6 +110,11 @@ The most common side effects of valganciclovir tablets in children include:
 | • diarrhea • fever • fatigue • nausea • shaky movements (tremors) | • vomiting • low white blood cell counts in blood tests • headache |
 | --- | --- |
 
+These are not all the possible side effects of valganciclovir tablets.
+
+Call your doctor for medical advice about side effects.
+You may report side effects to FDA at 1-800-FDA-1088.
+
 How should I store valganciclovir tablets?
 
 - Valganciclovir tablets comes in a child-resistant package.
@@ -145,6 +150,6 @@ Bridgewater, NJ 08807.
 
 Made in India.
 
-Revised: 12/2018
+Revised: 11/2020
 
 For more information, call Ajanta Pharma USA Inc. at 855-664-7744.
