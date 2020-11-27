@@ -33,4 +33,4 @@ Pregnancy
 
 Inform pregnant women that sertraline may cause withdrawal symptoms in the newborn or persistent pulmonary hypertension of the newborn (PPHN) [See Use in Specific Populations (8.1)].
 
-Revised: 09/2019
+Revised: 03/2020

@@ -214,10 +214,12 @@ Disclaimer: Other brands listed are the registered trademarks of their respectiv
 
 This Medication Guide has been approved by the U.S. Food and Drug Administration
 
-Manufactured for: Cipla USA, Inc. 1560 Sawgrass Corporate Parkway, Suite 130 Sunrise, FL 33323 Manufactured by: InvaGen Pharmaceuticals, Inc.
+Manufactured by: InvaGen Pharmaceuticals, Inc. (a subsidiary of Cipla Ltd.) Hauppauge, NY 11788
 
-(a subsidiary of Cipla Ltd.)
+or
 
-Hauppauge, NY, 11788
+Manufactured by: Ascent Pharmaceuticals, Inc. Central Islip, NY 11722
 
-Or Ascent Pharmaceuticals, Inc. Central Islip, NY 11722 Revised: 08/2018 Barcode: 835-09-2019
+Manufactured for: Cipla USA, Inc. 10 Independence Boulevard, Suite 300 Warren, NJ 07059
+
+Revised: 03/2020
