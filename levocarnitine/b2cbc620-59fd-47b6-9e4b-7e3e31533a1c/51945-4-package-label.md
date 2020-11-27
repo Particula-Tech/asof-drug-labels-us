@@ -2,7 +2,7 @@
 
 NDC 54482-145-08
 
-CARNITOR® (levocarnitine) Oral Solution
+CARNITOR ® (levocarnitine) Oral Solution
 
 118 mL (4 fl. oz.)
 
@@ -27,7 +27,7 @@ Rev 171:05 06/20 OL(H)-7 06/20
 
 NDC 54482-145-08
 
-CARNITOR® (levocarnitine) Oral Solution
+CARNITOR ® (levocarnitine) Oral Solution
 
 118 mL (4 fl. oz.)
 
