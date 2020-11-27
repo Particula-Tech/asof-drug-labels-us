@@ -1,0 +1,21 @@
+{
+  "application_numbers": [
+    "NDA022534"
+  ],
+  "inn": "docetaxel",
+  "labeler": "Sun Pharmaceutical Industries, Inc.",
+  "package_ndcs": [
+    "47335-323-40",
+    "47335-895-40",
+    "47335-939-40"
+  ],
+  "products": [
+    {
+      "form": "INJECTION, SOLUTION",
+      "generic": "docetaxel",
+      "name": "Docetaxel"
+    }
+  ],
+  "setid": "c85b2c62-3c33-4cbc-8b79-d5e17851a1b4",
+  "source": "dailymed"
+}
