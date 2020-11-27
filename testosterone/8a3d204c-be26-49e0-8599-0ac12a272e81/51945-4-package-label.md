@@ -1,6 +1,6 @@
 # PRINCIPAL DISPLAY PANEL - 50 mg/0.5 mL Autoinjector
 
-XYOSTEDTM (testosterone enathate) Injection, USP
+XYOSTED®(testosterone enathate) Injection, USP
 
 NDC 54436-250-02 Rx ONLY
 
@@ -9,13 +9,13 @@ NDC 54436-250-02 Rx ONLY
 CIII
 
 For subcutaneous injection only.
-Single use autoinjector. ​DO NOT​ reuse.
+Single-dose autoinjector. ​DO NOT​ reuse.
 
 50 mg
 
 # PRINCIPAL DISPLAY PANEL - 75 mg/0.5 mL Autoinjector
 
-XYOSTEDTM (testosterone enathate) Injection, USP
+XYOSTED®(testosterone enathate) Injection, USP
 
 NDC 54436-275-02 Rx ONLY
 
@@ -24,13 +24,13 @@ NDC 54436-275-02 Rx ONLY
 CIII
 
 For subcutaneous injection only.
-Single use autoinjector. ​DO NOT​ reuse.
+Single-dose autoinjector. ​DO NOT​ reuse.
 
 75 mg
 
 # PRINCIPAL DISPLAY PANEL - 100 mg/0.5 mL Autoinjector
 
-XYOSTEDTM (testosterone enathate) Injection, USP
+XYOSTED®(testosterone enathate) Injection, USP
 
 NDC 54436-200-02 Rx ONLY
 
@@ -39,7 +39,7 @@ NDC 54436-200-02 Rx ONLY
 CIII
 
 For subcutaneous injection only.
-Single use autoinjector. ​DO NOT​ reuse.
+Single-dose autoinjector. ​DO NOT​ reuse.
 
 100 mg
 
