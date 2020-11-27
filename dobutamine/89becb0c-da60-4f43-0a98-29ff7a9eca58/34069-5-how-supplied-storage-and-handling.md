@@ -9,10 +9,10 @@ Dobutamine Injection, USP is supplied in 20 mL single-dose glass vials containin
 Store at 20 to 25°C (68 to 77°F).
 [See USP Controlled Room Temperature.]
 
-Manufactured by Hospira, Inc., Lake Forest, IL 60045 USA
+Distributed by Hospira, Inc., Lake Forest, IL 60045, USA
 
-N+ and NOVAPLUS are registered trademarks of Vizient, Inc.
+Novaplus is a registered trademark of Vizient, Inc.
 
-LAB-1054-2.0
+LAB-1054-3.0
 
-11/2017
+Revised: 11/2020
