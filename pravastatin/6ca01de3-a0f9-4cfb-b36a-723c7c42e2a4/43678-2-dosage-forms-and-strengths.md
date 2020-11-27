@@ -2,10 +2,10 @@
 
 Pravastatin sodium tablets USP are supplied as:
 
-10 mg tablets: Yellow colored, circular shaped tablets having flat surface, with “G5” debossed on one surface and “10” debossed on the other surface.
+10 mg tablets: Yellow colored, circular shaped, flat faced tablets with “G5” debossed on one side and “10” debossed on the other side.
 
-20 mg tablets: Yellow rounded-rectangular tablets having biconvex surface, with “G5” debossed on one surface and “20” debossed on the other surface.
+20 mg tablets: Yellow rounded-rectangular, biconvex tablets with “G5” debossed on one side and “20” debossed on the other side.
 
-40 mg tablets: Green rounded-rectangular tablets having biconvex surface, with “G5” debossed on one surface and “40” debossed on the other surface.
+40 mg tablets: Green rounded-rectangular, biconvex tablets with “G5” debossed on one side and “40” debossed on the other side.
 
-80 mg tablets: Yellow oval tablets having biconvex surface, with “G5” debossed on one surface and “80” debossed on the other surface.
+80 mg tablets: Yellow oval, biconvex tablets with “G5” debossed on one side and “80” debossed on the other side.

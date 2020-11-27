@@ -1,12 +1,10 @@
-Manufactured by:
-
-Glenmark Pharmaceuticals Ltd. India
-
 Manufactured for:
 
 Glenmark Pharmaceuticals Inc., USA Mahwah, NJ 07430
 
 Questions?
-1 (888)721-7115 www.glenmarkpharma.com/usa
+1 (888) 721-7115
 
-August 2016
+www.glenmarkpharma-us.com
+
+November 2020
