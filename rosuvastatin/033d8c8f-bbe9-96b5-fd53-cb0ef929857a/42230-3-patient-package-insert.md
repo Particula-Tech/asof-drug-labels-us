@@ -10,9 +10,7 @@ Only your doctor can determine if rosuvastatin tablets are right for you.
 
 What are rosuvastatin tablets?
 
-Rosuvastatin tablets are a prescription medicine that contains a cholesterol-lowering medicine called rosuvastatin calcium.
-Most of the cholesterol in your blood is made in the liver.
-Rosuvastatin tablets work by reducing cholesterol in two ways: rosuvastatin tablets blocks an enzyme in the liver causing the liver to make less cholesterol, and rosuvastatin tablets increases the uptake and breakdown by the liver of cholesterol already in the blood.
+Rosuvastatin tablets are prescription medicine that contains a cholesterol-lowering medicine called rosuvastatin calcium.
 
 - Rosuvastatin tablets are used along with diet to:
   - lower the level of your “bad” cholesterol (LDL)
@@ -65,7 +63,17 @@ Especially tell your doctor if you take:
 
 - cyclosporine (a medicine for your immune system)
 - gemfibrozil (a fibric acid medicine for lowering cholesterol)
-- anti-viral medicines including HIV or hepatitis C protease inhibitors (such as lopinavir, ritonavir, fosamprenavir, tipranavir, atazanavir, or simeprevir)
+- darolutamide (a medicine for the treatment of prostate cancer)
+- regorafenib (a medicine used to treat cancer of the colon and rectum)
+- anti-viral medicines including certain HIV or hepatitis C virus drugs such as:
+  - lopinavir, ritonavir, fosamprenavir, tipranavir, atazanavir, simeprevir
+  - combination of
+    - sofosbuvir/velpatasvir/voxilaprevir
+    - dasabuvir/ombitasvir/paritaprevir/ritonavir
+    - elbasvir/grazoprevir
+    - sofosbuvir/velpatasvir
+    - glecaprevir/pibrentasvir and
+  - all other combinations with ledipasvir including ledipasvir/sofosbuvir
 - certain anti-fungal medicines (such as itraconazole, ketoconazole and fluconazole)
 - coumarin anticoagulants (medicines that prevent blood clots, such as warfarin)
 - niacin or nicotinic acid
@@ -141,9 +149,7 @@ What are the Ingredients in rosuvastatin tablets?
 
 Active Ingredient: rosuvastatin as rosuvastatin calcium
 
-Inactive Ingredientsin 5 mg, 10 mg, 20 mg and 40 mg tablets: crospovidone, dibasic calcium phosphate dihydrate, FD&C Blue No. 2, FD&C Red No. 40, FD&C Yellow No. 6, hypromellose, lactose monohydrate, magnesium stearate, microcrystalline cellulose, titanium dioxide, and triacetin.
-
-In addition, the rosuvastatin tablets 5 mg also contain FD&C Yellow No. 5.
+Inactive Ingredientsin 5 mg, 10 mg, 20 mg and 40 mg tablets: crospovidone, dibasic calcium phosphate dihydrate, iron oxide yellow, iron oxide red, hypromellose, lactose monohydrate, magnesium stearate, microcrystalline cellulose, titanium dioxide, and triacetin.
 
 General Information about the safe and effective use of rosuvastatin tablets
 
@@ -171,5 +177,6 @@ Biocon Pharma Limited, Special Economic Zone, Plot No.5, Phase IV, Bommasandra -
 Lic.
 No. KTK/25/664/2017
 
-Biocon Pharma Inc. Revised.
-May, 2019
+Biocon Pharma Inc. This Patient Information has been approved by the U.S. Food and Drug Administration
+
+Revised 11/2020

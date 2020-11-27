@@ -46,7 +46,7 @@ Limited data indicate that rosuvastatin is present in human milk.
 There is no available information on the effects of the drug on the breastfed infant or the effects of the drug on milk production.
 Because of the potential for serious adverse reactions in a breastfed infant, advise patients that breastfeeding is not recommended during treatment with rosuvastatin.
 
-## 8.3 Females And Males of Reproductive Potential
+## 8.3 Females and Males of Reproductive Potential
 
 Contraception
 
@@ -74,7 +74,7 @@ Exposure to rosuvastatin is increased to a clinically significant extent in pati
 ## 8.7 Hepatic Impairment
 
 Rosuvastatin is contraindicated in patients with active liver disease, which may include unexplained persistent elevations of hepatic transaminase levels.
-Chronic alcohol liver disease is known to increase rosuvastatin exposure; rosuvastatin should be used with caution in these patients [seeContraindications (4), Warning and Precautions (5.2), and Clinical Pharmacology (12.3)].
+Chronic alcohol liver disease is known to increase rosuvastatin exposure; rosuvastatin should be used with caution in these patients [seeContraindications (4), Warning and Precautions (5.3), and Clinical Pharmacology (12.3)].
 
 ## 8.8 Asian Patients
 
