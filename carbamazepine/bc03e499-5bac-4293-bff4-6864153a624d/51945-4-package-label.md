@@ -12,7 +12,7 @@ Should not be used with other carbamazepine containing products.
 
 100 mg
 
-Shire
+Takeda
 
 Dispense the accompanying Medication Guide to each patient.
 
@@ -30,7 +30,7 @@ Should not be used with other carbamazepine containing products.
 
 200 mg
 
-Shire
+Takeda
 
 Dispense the accompanying Medication Guide to each patient.
 
@@ -48,6 +48,6 @@ Should not be used with other carbamazepine containing products.
 
 300 mg
 
-Shire
+Takeda
 
 Dispense the accompanying Medication Guide to each patient.

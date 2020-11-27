@@ -225,8 +225,8 @@ In addition:
 
 This Medication Guide has been approved by the US Food and Drug Administration.
 
-Shire US Inc.
+Distributed by: Takeda Pharmaceuticals America, Inc.
 
-300 Shire Way, Lexington, MA 02421
+Lexington, MA 02421
 
-Issued [11/2015]
+Issued [08/2020]

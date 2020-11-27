@@ -18,10 +18,11 @@ Supplied in bottles of 120............................NDC 54092-173-12
 Store at 25°C (77°F); excursions permitted to 15-30°C (59-86°F) [see USP controlled room temperature].
 PROTECT FROM LIGHT AND MOISTURE.
 
-Manufactured for: Shire US Inc. 300 Shire Way, Lexington, MA 02421
+Distributed by: Takeda Pharmaceuticals America, Inc. Lexington, MA 02421
 
-To report SUSPECTED ADVERSE REACTIONS, contact Shire US Inc. at 1-800-828-2088 or FDA at 1-800-FDA-1088 or www.fda.gov/medwatch
+To report SUSPECTED ADVERSE REACTIONS, contact Takeda Pharmaceuticals at 1-800-828-2088 or FDA at 1-800-FDA-1088 or www.fda.gov/medwatch
 
-© 2018 Shire US Inc. Rev 08/2018
+© 2020 Takeda Pharmaceuticals U.S.A., Inc. All rights reserved.
+Rev 08/2020
 
-Carbatrol® is registered in the US Patent and Trade Office
+CARBATROL® is a registered trademark of Takeda Pharmaceuticals U.S.A., Inc.
