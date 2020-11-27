@@ -14,7 +14,14 @@ MultiorganHypersensitivity Reactions, Blood Dyscrasias, and Organ Failure
 
 Inform patients that multiorgan hypersensitivity reactions and acute multiorgan failure may occur with SUBVENITE.
 Isolated organ failure or isolated blood dyscrasias without evidence of multiorgan hypersensitivity may also occur.
-Instruct patients to contact their healthcare providers immediately if they experience any signs or symptoms of these conditions [see Warnings and Precautions (5.3, 5.4)].
+Instruct patients to contact their healthcare providers immediately if they experience any signs or symptoms of these conditions [see Warnings and Precautions (5.3, 5.5)].
+
+Cardiac Rhythm and Conduction Abnormalities
+
+Inform patients that, due to its mechanism of action, SUBVENITE could lead to irregular heart rhythm.
+This risk is increased in patients with underlying cardiac disease or heart conduction problems or who are taking other medications that affect heart conduction.
+Patients should be made aware of and report cardiac signs or symptoms to their healthcare provider right away.
+Patients who develop syncope should lie down with raised legs and contact their healthcare provider [see Warnings and Precautions (5.4)].
 
 Suicidal Thinking and Behavior
 
@@ -45,7 +52,7 @@ Discuss the benefits and risks of continuing breastfeeding.
 Oral Contraceptive Use
 
 Instruct women to notify their healthcare providers if they plan to start or stop use of oral contraceptives or other female hormonal preparations.
-Starting estrogen-containing oral contraceptives may significantly decrease lamotrigine plasma levels and stopping estrogen-containing oral contraceptives (including the pill-free week) may significantly increase lamotrigine plasma levels [see Warnings and Precautions (5.8), Clinical Pharmacology (12.3)].
+Starting estrogen-containing oral contraceptives may significantly decrease lamotrigine plasma levels and stopping estrogen-containing oral contraceptives (including the pill-free week) may significantly increase lamotrigine plasma levels [see Warnings and Precautions (5.9), Clinical Pharmacology (12.3)].
 Also instruct women to promptly notify their healthcare providers if they experience adverse reactions or changes in menstrual pattern (e.g., break-through bleeding) while receiving SUBVENITE in combination with these medications.
 
 Discontinuing SUBVENITE
@@ -59,5 +66,5 @@ Instruct them to notify their healthcare providers immediately if they develop s
 
 Potential Medication Errors
 
-To avoid a medication error of using the wrong drug or formulation, strongly advise patients to visually inspect their tablets to verify that they are lamotrigine, as well as the correct formulation of SUBVENITE, each time they fill their prescription [see Dosage Forms and Strengths (3.1, 3.2, 3.3), How Supplied/Storage and Handling (16)].
+To avoid a medication error of using the wrong drug or formulation, strongly advise patients to visually inspect their tablets to verify that they are lamotrigine, as well as the correct formulation of SUBVENITE, each time they fill their prescription [see Dosage Forms and Strengths (3.1), How Supplied/Storage and Handling (16)].
 Refer the patient to the Medication Guide that provides depictions of the SUBVENITE tablets.

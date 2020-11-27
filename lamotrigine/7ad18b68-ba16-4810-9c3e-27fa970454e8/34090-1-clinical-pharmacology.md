@@ -28,6 +28,19 @@ Significantly reduced concentrations of folate are associated with teratogenesis
 Folate concentrations were also reduced in male rats given repeated oral doses of lamotrigine.
 Reduced concentrations were partially returned to normal when supplemented with folinic acid.
 
+Cardiac Electrophysiology
+
+Effect of Lamotrigine: In vitro studies show that lamotrigine exhibits Class IB antiarrhythmic activity at therapeutically relevant concentrations.
+It inhibits human cardiac sodium channels with rapid onset and offset kinetics and strong voltage dependence, consistent with other Class IB antiarrhythmic agents.
+Lamotrigine did not slow ventricular conduction (widen QRS) in healthy individuals in a thorough QT study; however, it could slow ventricular conduction and increase the risk of arrhythmia in patients with structural heart disease or myocardial ischemia.
+Elevated heart rates could also increase the risk of ventricular conduction slowing with lamotrigine.
+
+Effect of Lamotrigine Metabolite: In dogs, lamotrigine is extensively metabolized to a 2-N- methyl metabolite.
+This metabolite causes dose-dependent prolongation of the PR interval, widening of the QRS complex, and, at higher doses, complete AV conduction block.
+The in vitro electrophysiological effects of this metabolite have not been studied.
+Similar cardiovascular effects from this metabolite are not anticipated in humans because only trace amounts of the 2-N-methyl metabolite (<0.6% of lamotrigine dose) have been found in human urine [see Clinical Pharmacology (12.3)].
+However, it is conceivable that plasma concentrations of this metabolite could be increased in patients with a reduced capacity to glucuronidate lamotrigine (e.g., in patients with liver disease, patients taking concomitant medications that inhibit glucuronidation).
+
 Accumulation in Kidneys
 
 Lamotrigine accumulated in the kidney of the male rat, causing chronic progressive nephrosis, necrosis, and mineralization.
@@ -37,13 +50,6 @@ Melanin Binding
 
 Lamotrigine binds to melanin-containing tissues, e.g., in the eye and pigmented skin.
 It has been found in the uveal tract up to 52 weeks after a single dose in rodents.
-
-Cardiovascular
-
-In dogs, lamotrigine is extensively metabolized to a 2-N-methyl metabolite.
-This metabolite causes dose-dependent prolongations of the PR interval, widening of the QRS complex, and, at higher doses, complete AV conduction block.
-Similar cardiovascular effects are not anticipated in humans because only trace amounts of the 2-N-methyl metabolite (<0.6% of lamotrigine dose) have been found in human urine [see Clinical Pharmacology (12.3)].
-However, it is conceivable that plasma concentrations of this metabolite could be increased in patients with a reduced capacity to glucuronidate lamotrigine (e.g., in patients with liver disease, patients taking concomitant medications that inhibit glucuronidation).
 
 ## 12.3 Pharmacokinetics
 
@@ -60,8 +66,11 @@ Mean Pharmacokinetic Parametersa in Healthy Volunteers and Adult Subjects with E
 | Subjects with epilepsy taking valproate only: Single-dose SUBVENITE | 4 | 4.8 (1.8 to 8.4) | 58.8 (30.5 to 88.8) | 0.28 (0.16 to 0.40) |
 | Subjects with epilepsy taking carbamazepine, phenytoin, phenobarbital, or primidoneb plus valproate: Single-dose SUBVENITE | 25 | 3.8 (1.0 to 10.0) | 27.2 (11.2 to 51.6) | 0.53 (0.27 to 1.04) |
 | Subjects with epilepsy taking carbamazepine, phenytoin, phenobarbital, or primidone:b Single-dose SUBVENITE Multiple-dose SUBVENITE | 24 17 | 2.3 (0.5 to 5.0) 2.0 (0.75 to 5.93) | 14.4 (6.4 to 30.4) 12.6 (7.5 to 23.1) | 1.10 (0.51 to 2.22) 1.21 (0.66 to 1.82) |
-| a The majority of parameter means determined in each study had coefficients of variation between 20% and 40% for half-life and CL/F and between 30% and 70% for Tmax. The overall mean values were calculated from individual study means that were weighted based on the number of volunteers/subjects in each study. The numbers in parentheses below each parameter mean represent the range of individual volunteer/subject values across studies. |  |  |  |  |
-| b Carbamazepine, phenytoin, phenobarbital, and primidone have been shown to increase the apparent clearance of lamotrigine. Estrogen-containing oral contraceptives and other drugs, such as rifampin and protease inhibitors lopinavir/ritonavir and atazanavir/ritonavir, that induce lamotrigine glucuronidation have also been shown to increase the apparent clearance of lamotrigine [see Drug Interactions (7)]. |  |  |  |  |
+
+a The majority of parameter means determined in each study had coefficients of variation between 20% and 40% for half-life and CL/F and between 30% and 70% for Tmax.
+The overall mean values were calculated from individual study means that were weighted based on the number of volunteers/subjects in each study.
+The numbers in parentheses below each parameter mean represent the range of individual volunteer/subject values across studies. b Carbamazepine, phenytoin, phenobarbital, and primidone have been shown to increase the apparent clearance of lamotrigine.
+Estrogen-containing oral contraceptives and other drugs, such as rifampin and protease inhibitors lopinavir/ritonavir and atazanavir/ritonavir, that induce lamotrigine glucuronidation have also been shown to increase the apparent clearance of lamotrigine [see Drug Interactions (7)].
 
 Absorption
 
@@ -106,7 +115,7 @@ Half-life and apparent oral clearance vary depending on concomitant AEDs.
 
 Drug Interactions
 
-The apparent clearance of lamotrigine is affected by the coadministration of certain medications [see Warnings and Precautions (5.8, 5.12), Drug Interactions (7)].
+The apparent clearance of lamotrigine is affected by the coadministration of certain medications [see Warnings and Precautions (5.9, 5.13), Drug Interactions (7)].
 
 The net effects of drug interactions with lamotrigine are summarized in Tables 13 and 15, followed by details of the drug interaction studies below.
 
@@ -346,9 +355,9 @@ Mean Pharmacokinetic Parameters in Pediatric Subjects with Epilepsy
 | Subjects taking valproate onlyb | 3 | 4.5 (3.0 to 6.0) | 65.8 (50.7 to 73.7) | 0.24 (0.21 to 0.26) |
 | Ages 13 to 18 years Subjects taking carbamazepine, phenytoin, phenobarbital, or primidonea | 11 | ___c | ___c | 1.3 |
 | Subjects taking valproate only | 4 | ___c | ___c | 0.3 |
-| a Carbamazepine, phenytoin, phenobarbital, and primidone have been shown to increase the apparent clearance of lamotrigine. Estrogen-containing oral contraceptives, rifampin, and the protease inhibitors lopinavir/ritonavir and atazanavir/ritonavir have also been shown to increase the apparent clearance of lamotrigine [see Drug Interactions (7)]. |  |  |  |  |
-| b Two subjects were included in the calculation for mean Tmax. |  |  |  |  |
-| c Parameter not estimated. |  |  |  |  |
+
+a Carbamazepine, phenytoin, phenobarbital, and primidone have been shown to increase the apparent clearance of lamotrigine.
+Estrogen-containing oral contraceptives, rifampin, and the protease inhibitors lopinavir/ritonavir and atazanavir/ritonavir have also been shown to increase the apparent clearance of lamotrigine [see Drug Interactions (7)]. b Two subjects were included in the calculation for mean Tmax. c Parameter not estimated.
 
 Geriatric Patients: The pharmacokinetics of lamotrigine following a single 150-mg dose of lamotrigine were evaluated in 12 elderly volunteers between the ages of 65 and 76 years (mean creatinine clearance = 61 mL/min, range: 33 to 108 mL/min).
 The mean half-life of lamotrigine in these subjects was 31.2 hours (range: 24.5 to 43.4 hours), and the mean clearance was 0.40 mL/min/kg (range: 0.26 to 0.48 mL/min/kg).

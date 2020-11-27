@@ -1,16 +1,17 @@
 # 6 ADVERSE REACTIONS
 
-The following adverse reactions are described in more detail in the Warnings and Precautions section of the label:
+The following serious adverse reactions are described in more detail in the Warnings and Precautions section of the labeling:
 
-- Serious skin rashes [see Warnings and Precautions (5.1)]
+- Serious Skin Rashes [see Warnings and Precautions (5.1)]
 - Hemophagocytic Lymphohistiocytosis [see Warnings and Precautions (5.2)]
-- Multiorgan hypersensitivity reactions and organ failure [see Warnings and Precautions (5.3)]
-- Blood dyscrasias [see Warnings and Precautions (5.4)]
-- Suicidal behavior and ideation [see Warnings and Precautions (5.5)]
-- Aseptic meningitis [see Warnings and Precautions (5.6)]
-- Withdrawal seizures [see Warnings and Precautions (5.9)]
-- Status epilepticus [see Warnings and Precautions (5.10)]
-- Sudden unexplained death in epilepsy [see Warnings and Precautions (5.11)]
+- Multiorgan Hypersensitivity Reactions and Organ Failure [see Warnings and Precautions (5.3)]
+- Cardiac Rhythm and Conduction Abnormalities [see Warnings and Precautions (5.4)]
+- Blood Dyscrasias [see Warnings and Precautions (5.5)]
+- Suicidal Behavior and Ideation [see Warnings and Precautions (5.6)]
+- Aseptic Meningitis [see Warnings and Precautions (5.7)]
+- Withdrawal Seizures [see Warnings and Precautions (5.10)]
+- Status Epilepticus [see Warnings and Precautions (5.11)]
+- Sudden Unexplained Death in Epilepsy [see Warnings and Precautions (5.12)]
 
 ## 6.1 Clinical Trial Experience
 
@@ -153,9 +154,9 @@ Adverse Reactions in 2 Placebo-Controlled Trials in Adult Patients with Bipolar 
 | Nervous System Insomnia Somnolence Xerostomia (dry mouth) | 10 9 6 | 6 7 4 |
 | Respiratory Rhinitis Exacerbation of cough Pharyngitis | 7 5 5 | 4 3 4 |
 | Skin Rash (nonserious)c | 7 | 5 |
-| a Adverse reactions that occurred in at least 5% of patients treated with SUBVENITE and at a greater incidence than placebo. |  |  |
-| b Patients in these trials were converted to SUBVENITE (100 to 400 mg/day) or placebo monotherapy from add-on therapy with other psychotropic medications. Patients may have reported multiple adverse reactions during the trial; thus, patients may be included in more than 1 category. |  |  |
-| c In the overall bipolar and other mood disorders clinical trials, the rate of serious rash was 0.08% (1 of 1,233) of adult patients who received SUBVENITE as initial monotherapy and 0.13% (2 of 1,538) of adult patients who received SUBVENITE as adjunctive therapy [see Warnings and Precautions (5.1)]. |  |  |
+
+aAdverse reactions that occurred in at least 5% of patients treated with SUBVENITE and at a greater incidence than placebo. bPatients in these trials were converted to SUBVENITE (100 to 400 mg/day) or placebo monotherapy from add-on therapy with other psychotropic medications.
+Patients may have reported multiple adverse reactions during the trial; thus, patients may be included in more than 1 category. cIn the overall bipolar and other mood disorders clinical trials, the rate of serious rash was 0.08% (1 of 1,233) of adult patients who received SUBVENITE as initial monotherapy and 0.13% (2 of 1,538) of adult patients who received SUBVENITE as adjunctive therapy [see Warnings and Precautions (5.1)].
 
 Other reactions that occurred in 5% or more patients but equally or more frequently in the placebo group included: dizziness, mania, headache, infection, influenza, pain, accidental injury, diarrhea, and dyspepsia.
 
@@ -178,9 +179,9 @@ Respiratory: Sinusitis.
 Urogenital: Urinary frequency.
 
 Adverse Reactions following Abrupt Discontinuation: In the 2 controlled clinical trials, there was no increase in the incidence, severity, or type of adverse reactions in patients with bipolar disorder after abruptly terminating therapy with SUBVENITE.
-In the clinical development program in adults with bipolar disorder, 2 patients experienced seizures shortly after abrupt withdrawal of SUBVENITE [see Warnings and Precautions (5.9)].
+In the clinical development program in adults with bipolar disorder, 2 patients experienced seizures shortly after abrupt withdrawal of SUBVENITE [see Warnings and Precautions (5.10)].
 
-Mania/Hypomania/Mixed Episodes: During the double-blind placebo-controlled clinical trials in bipolar I disorder in which adults were converted to monotherapy with SUBVENITE (100 to 400-mg/day) from other psychotropic medications and followed for up to 18 months, the rates of manic or hypomanic or mixed mood episodes reported as adverse reactions were 5% for patients treated with SUBVENITE (n = 227), 4% for patients treated with lithium (n = 166), and 7% for patients treated with placebo (n = 190).
+Mania/Hypomania/Mixed Episodes: During the double-blind placebo-controlled clinical trials in bipolar I disorder in which adults were converted to monotherapy with SUBVENITE (100 to 400 mg/day) from other psychotropic medications and followed for up to 18 months, the rates of manic or hypomanic or mixed mood episodes reported as adverse reactions were 5% for patients treated with SUBVENITE (n = 227), 4% for patients treated with lithium (n = 166), and 7% for patients treated with placebo (n = 190).
 In all bipolar controlled trials combined, adverse reactions of mania (including hypomania and mixed mood episodes) were reported in 5% of patients treated with SUBVENITE (n = 956), 3% of patients treated with lithium (n = 280), and 4% of patients treated with placebo (n = 803).
 
 ## 6.2 Other Adverse Adverse Reactions Observed in All Clinical Trials
@@ -298,3 +299,7 @@ Aggression, exacerbation of Parkinsonian symptoms in patients with pre-existing 
 Non-site Specific
 
 Progressive immunosuppression.
+
+Renal and Urinary Disorders
+
+Tubulointerstitial nephritis (has been reported alone and in association with uveitis).

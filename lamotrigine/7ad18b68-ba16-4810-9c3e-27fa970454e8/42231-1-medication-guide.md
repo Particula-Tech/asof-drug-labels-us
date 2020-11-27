@@ -38,11 +38,18 @@ Call your healthcare provider right away if you have any of these symptoms:
 - severe muscle pain
 - swelling of your face, eyes, lips, or tongue
 - swollen lymph glands
-- unusual bruising or bleeding
+- unusual bruising or bleeding, looking pale
 - weakness, fatigue
 - yellowing of your skin or the white part of your eyes
+- trouble walking or seeing
+- seizures for the first time or happening more often
+- pain and/or tenderness in the area towards the top of your stomach (enlarged liver and/or spleen)
 
 3.
+In patients with known heart problems, the use of lamotrigine may lead to a fast heart beat.
+Call your healthcare provider right away if you:• have a fast, slow, or pounding heart beat. • feel your heart skip a beat. • have shortness of breath. • have chest pain. • feel lightheaded.
+
+4.
 Like other antiepileptic drugs, SUBVENITE may cause suicidal thoughts or actions in a very small number of people, about 1 in 500.
 
 Call a healthcare provider right away if you have any of these symptoms, especially if they are new, worse, or worry you:
@@ -72,7 +79,7 @@ How can I watch for early symptoms of suicidal thoughts and actions in myself or
 - Keep all follow-up visits with your healthcare provider as scheduled.
 - Call your healthcare provider between visits as needed, especially if you are worried about symptoms.
 
-4.
+5.
 SUBVENITE may cause aseptic meningitis, a serious inflammation of the protective membrane that covers the brain and spinal cord.
 
 Call your healthcare provider right away if you have any of the following symptoms:
@@ -96,7 +103,7 @@ For more information ask your healthcare provider or pharmacist.
 Tell your healthcare provider if you have any side effect that bothers you.
 Be sure to read the section below entitled "What are the possible side effects of SUBVENITE?"
 
-5.
+6.
 People prescribed SUBVENITE have sometimes been given the wrong medicine because many medicines have names similar to SUBVENITE, so always check that you receive SUBVENITE.
 
 Taking the wrong medication can cause serious health problems.
@@ -117,12 +124,13 @@ SUBVENITE should not be used for acute treatment of manic or mixed mood episodes
 Do not take SUBVENITE:
 
 - if you have had an allergic reaction to lamotrigine or to any of the inactive ingredients in SUBVENITE.
-  See the end of this leaflet for a complete list of ingredients in LAMICTAL.
+  See the end of this leaflet for a complete list of ingredients in SUBVENITE.
 
 Before taking SUBVENITE, tell your healthcare provider about all of your medical conditions, including if you:
 
 - have had a rash or allergic reaction to another antiseizure medicine.
 - have or have had depression, mood problems, or suicidal thoughts or behavior.
+- have a history of heart problems or irregular heart beats or any of your family members have any heart problem, including genetic abnormalities.
 - have had aseptic meningitis after taking SUBVENITE.
 - are taking oral contraceptives (birth control pills) or other female hormonal medicines.
   Do not start or stop taking birth control pills or other female hormonal medicine until you have talked with your healthcare provider.
@@ -219,7 +227,7 @@ It may harm them.
 If you take a urine drug screening test, SUBVENITE may make the test result positive for another drug.
 If you require a urine drug screening test, tell the healthcare professional administering the test that you are taking SUBVENITE.
 
-You can ask your healthcare provider or pharmacist for information about SUBVENITE that is written for healthcare professionals.
+You can ask your healthcare provider or pharmacist for information about SUBVENITE that is written for health professionals.
 
 For more information, call 1-800-273-6729.
 
@@ -236,10 +244,10 @@ Trademarks are the property of their respective owners.
 
 Manufactured by:
 
-TORRENT PHARMACEUTICALS LTD., Bharuch-392 130, INDIA.
+TORRENT PHARMACEUTICALS LTD., INDIA.
 
 For:
 
 OWP Pharmaceuticals, Inc., 400 E. Diehl Road, Suite 400, Naperville, IL 60563.
 
-OWOSSUBMGI1019 8076980 Revised October 2019
+8080087 OWOSSUBMGI0920 Revised November 2020

@@ -18,7 +18,7 @@ Safety and effectiveness of SUBVENITE have not been established (1) as initial m
 
 ## 1.2 Bipolar Disorder
 
-SUBVENITE is indicated for the maintenance treatment of bipolar I disorder to delay the time to occurrence of mood episodes (depression, mania, hypomania, mixed episodes) in patients treated for acute mood episodes with standard therapy [see Clinical Studies (14.1)].
+SUBVENITE is indicated for the maintenance treatment of bipolar I disorder to delay the time to occurrence of mood episodes (depression, mania, hypomania, mixed episodes) in patients treated for acute mood episodes with standard therapy [see Clinical Studies (14.2)].
 
 Limitations of Use
 
