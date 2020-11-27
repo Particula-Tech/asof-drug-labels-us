@@ -2,7 +2,7 @@
 
 NDC 54482-148-01
 
-CARNITOR® SF (levocarnitine) Sugar-Free Oral Solution
+CARNITOR ® SF (levocarnitine) Sugar-Free Oral Solution
 
 118 mL (4 fl. oz.)
 
@@ -28,7 +28,7 @@ REV.
 
 NDC 54482-148-01
 
-CARNITOR® SF (levocarnitine) Sugar-Free Oral Solution
+CARNITOR ® SF (levocarnitine) Sugar-Free Oral Solution
 
 118 mL (4 fl. oz.)
 
