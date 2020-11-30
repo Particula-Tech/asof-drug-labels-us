@@ -20,7 +20,7 @@ Data
 Animal data
 
 When pregnant mice received oral doses of gabapentin (500, 1000, or 3000 mg/kg/day) during the period of organogenesis, embryofetal toxicity (increased incidences of skeletal variations) was observed at the two highest doses.
-The no-effect dose for embryofetal developmental toxicity in mice (500 mg/kg/day) is less than the maximum recommended human dose (MRHD) of 3600 mg/kg on a body surface area (mg/m2) basis.
+The no-effect dose for embryofetal developmental toxicity in mice (500 mg/kg/day) is less than the maximum recommended human dose (MRHD) of 3600 mg on a body surface area (mg/m2) basis.
 
 In studies in which rats received oral doses of gabapentin (500 to 2000 mg/kg/day) during pregnancy, adverse effect on offspring development (increased incidences of hydroureter and/or hydronephrosis) were observed at all doses.
 The lowest dose tested is similar to the MRHD on a mg/m2 basis.
@@ -43,10 +43,15 @@ The developmental and health benefits of breastfeeding should be considered alon
 
 ## 8.4 Pediatric Use
 
-Safety and effectiveness as adjunctive therapy in the treatment of partial seizures in pediatric patients below the age of 3 years has not been established [see Clinical Studies (14.2)].
+Safety and effectiveness of gabapentin in the management of postherpetic neuralgia in pediatric patients have not been established.
+Safety and effectiveness as adjunctive therapy in the treatment of partial seizures in pediatric patients below the age of 3 years has not been established
+
+[see Clinical Studies (14.2)]
 
 ## 8.5 Geriatric Use
 
+The total number of patients treated with gabapentin in controlled clinical trials in patients with postherpetic neuralgia was 336, of which 102 (30%) were 65 to 74 years of age, and 168 (50%) were 75 years of age and older.
+There was a larger treatment effect in patients 75 years of age and older compared to younger patients who received the same dosage.
 Since gabapentin is almost exclusively eliminated by renal excretion, the larger treatment effect observed in patients ≥ 75 years may be a consequence of increased gabapentin exposure for a given dose that results from an age-related decrease in renal function.
 However, other factors cannot be excluded.
 The types and incidence of adverse reactions were similar across age groups except for peripheral edema and ataxia, which tended to increase in incidence with age.

@@ -1,4 +1,4 @@
-# Medication Guide
+# MEDICATION GUIDE
 
 Gabapentin Capsules USP
 
@@ -62,7 +62,7 @@ If you have suicidal thoughts or actions, your healthcare provider may check for
 Changes in behavior and thinking -Using gabapentin in children 3 to 12 years of age can cause emotional changes, aggressive behavior, problems with concentration, restlessness, changes in school performance, and hyperactivity.
 
 3.
-Gabapentin may cause a serious or life-threatening allergic reactions that may affect your skin or other parts of your body such as your liver or blood cells.
+Gabapentin may cause serious or life-threatening allergic reactions that may affect your skin or other parts of your body such as your liver or blood cells.
 This may cause you to be hospitalized or to stop gabapentin.
 You may or may not have a rash with an allergic reaction caused by gabapentin.
 Call a healthcare provider right away if you have any of the following symptoms:
@@ -92,12 +92,15 @@ Call a healthcare provider right away if you have any of the following symptoms:
 These symptoms may be the first signs of a serious reaction.
 A healthcare provider should examine you to decide if you should continue taking gabapentin.
 
+4.
+Serious breathing problems.
+Serious breathing problems can occur when gabapentin is taken with other medicines that can cause severe sleepiness or decreased awareness, or when it is taken by someone who already has breathing problems.
+Watch for increased sleepiness or decreased breathing when starting gabapentin or when the dose is increased.
+Get help right away if breathing problems occur.
+
 What is gabapentin?
 
-Gabapentin is a prescription medicine used to treat:
-
-· Partial seizures when taken together with other medicines in adults and children 3 years of age and older with seizures.
-
+Gabapentin is a prescription medicine used to treat: ·Pain from damaged nerves (postherpetic pain) that follows healing of shingles (a painful rash that comes after a herpes zoster infection) in adults. · Partial seizures when taken together with other medicines in adults and children 3 years of age and older with seizures.
 Who should not take gabapentin?
 
 Do not take gabapentin if you are allergic to gabapentin or any of the other ingredients in gabapentin.
@@ -111,7 +114,7 @@ Before taking gabapentin, tell your healthcare provider if you:
 
 · have or have had depression, mood problems, or suicidal thoughts or behavior
 
-· have diabetes
+· have diabetes · have breathing problems
 
 · are pregnant or plan to become pregnant.
 It is not known if gabapentin can harm your unborn baby.
@@ -127,6 +130,9 @@ Gabapentin can pass into breast milk.
 You and your healthcare provider should decide how you will feed your baby while you take gabapentin.
 
 Tell your healthcare provider about all the medicines you take, including prescription and over-the-counter medicines, vitamins, and herbal supplements.
+Especially tell your healthcare provider if you take any opioid pain medicine (such as oxycodone), any medicines for anxiety (such as lorazepam) or insomnia (such as zolpidem), or any medicines that make you sleepy.
+
+You may have a higher chance for dizziness, sleepiness, or breathing problems if these medicines are taken with gabapentin.
 
 Taking gabapentin with certain other medicines can cause side effects or affect how well they work.
 Do not start or stop other medicines without talking to your healthcare provider.
@@ -219,7 +225,7 @@ You can ask your healthcare provider or pharmacist for information about gabapen
 
 What are the ingredients in gabapentin?
 
-Active ingredient: gabapentin USP
+Active ingredient: Gabapentin USP
 
 Inactive ingredients in the capsules: anhydrous lactose, cornstarch, and talc.
 The 100-mg capsule shell also contains: gelatin, sodium lauryl sulfate, and titanium dioxide.
@@ -241,8 +247,8 @@ Mumbai – 400 013, INDIA
 
 Distributed by:
 
-Ascend Laboratories, LCC
+Ascend Laboratories, LLC
 
 Parsippany, NJ 07054
 
-Revised: August, 2019
+Revised: July, 2020

@@ -1,5 +1,11 @@
 # 2 DOSAGE & ADMINISTRATION
 
+## 2.1 Dosage for Postherpetic Neuralgia
+
+In adults with postherpetic neuralgia, gabapentin may be initiated on Day 1 as a single 300 mg dose, on Day 2 as 600 mg/day (300 mg two times a day), and on Day 3 as 900 mg/day (300 mg three times a day).
+The dose can subsequently be titrated up as needed for pain relief to a dose of 1800 mg/day (600 mg three times a day).
+In clinical studies, efficacy was demonstrated over a range of doses from 1800 mg/day to 3600 mg/day with comparable effects across the dose range; however, in these clinical studies, the additional benefit of using doses greater than 1800 mg/day was not demonstrated.
+
 ## 2.2 Dosage for Epilepsy with Partial Onset Seizures
 
 Patients 12 years of age and above
@@ -18,7 +24,7 @@ The recommended maintenance dose of gabapentin in patients 3 to 4 years of age i
 The recommended maintenance dose of gabapentin in patients 5 to 11 years of age is 25 mg/kg/day to 35 mg/kg/day, given in three divided doses.
 Gabapentin may be administered as the oral capsule.
 Dosages up to 50 mg/kg/day have been well tolerated in a long-term clinical study.
-The maximum time interval between doses should not exceed 12 hour.
+The maximum time interval between doses should not exceed 12 hours.
 
 ## 2.3 Dosage Adjustment in Patients with Renal Impairment
 
