@@ -14,8 +14,8 @@ When used in streptococcal infections, therapy should be continued for 10 days.
 
 For treatment of brucellosis, 500 mg tetracycline four times a day for three weeks accompanied by streptomycin, 1 gram intramuscularly twice daily the first week and once daily the second week.
 
-For the treatment of syphilis in patients allergic to penicillin, the following dosage of tetracycline is recommended: early syphilis (less than one year’s duration), 500 mg four times a day for 15 days.
-Syphilis of more than one year’s duration (except neurosyphilis), 500 mg four times a day for 30 days.
+For the treatment of syphilis in patients allergic to penicillin, the following dosage of tetracycline is recommended: early syphilis (less than one year's duration), 500 mg four times a day for 15 days.
+Syphilis of more than one year's duration (except neurosyphilis), 500 mg four times a day for 30 days.
 
 For treatment of gonorrhea, the recommended dose is 500 mg by mouth four times a day for seven days.
 

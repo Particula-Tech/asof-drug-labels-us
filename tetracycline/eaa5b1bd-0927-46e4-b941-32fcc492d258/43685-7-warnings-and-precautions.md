@@ -32,7 +32,7 @@ Intracranial hypertension (IH, pseudotumor cerebri) has been associated with the
 Women of childbearing age who are overweight or have a history of IH are at greater risk for developing tetracycline associated IH.
 Concomitant use of isotretinoin and tetracycline should be avoided because isotretinoin, a systemic retinoid, is also known to cause pseudotumor cerebri.
 
-Although IH typically resolve after discontinuation of treatment, the possibility for permanent visual loss exists.
+Although IH typically resolves after discontinuation of treatment, the possibility for permanent visual loss exists.
 If visual disturbance occurs during treatment, prompt ophthalmologic evaluation is warranted.
 Since intracranial pressure can remain elevated for weeks after drug cessation patients should be monitored until they stabilize.
 

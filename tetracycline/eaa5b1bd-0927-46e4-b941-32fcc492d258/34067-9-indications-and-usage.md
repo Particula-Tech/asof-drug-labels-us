@@ -25,15 +25,15 @@ Tetracycline is indicated in the treatment of infections caused by susceptible s
 - Infections due to Campylobacter fetus.
 - As adjunctive therapy in intestinal amebiasis caused by Entamoeba histolytica.
 - Urinary tract infections caused by susceptible strains of Escherichia coli, Klebsiella, etc.
-- Other infections caused by susceptible gram-negative organisms such as E. coli, Enterobacter aerogenes, Shigellasp., Acinetobacter sp., Klebsiella sp., and Bacteroides sp.
+- Other infections caused by susceptible gram-negative organisms such as E. coli, Enterobacter aerogenes, Shigellasp., Acinetobacter sp., Klebsiellasp., and Bacteroides sp.
 - In severe acne, adjunctive therapy with tetracycline may be useful.
 
 When penicillin is contraindicated, tetracyclines are alternative drugs in the treatment of the following infections:
 
 - Syphilis and yaws caused by Treponema pallidum and pertenue, respectively,
-- Vincent’s infection caused by Fusobacterium fusiforme,
+- Vincent's infection caused by Fusobacterium fusiforme,
 - Infections caused by Neisseria gonorrhoeae,
-- Anthrax caused by Bacillus anthracis,
+- Anthrax caused by Bacillusanthracis,
 - Infections due to Listeria monocytogenes,
 - Actinomycosis caused by Actinomyces species,
 - Infections due to Clostridium species.

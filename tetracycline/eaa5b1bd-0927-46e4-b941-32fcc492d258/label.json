@@ -3,7 +3,7 @@
     "NDA050278"
   ],
   "inn": "tetracycline",
-  "labeler": "Heritage Pharmaceuticals Inc.",
+  "labeler": "Heritage Pharmaceuticals Inc. d/b/a Avet Pharmaceuticals Inc.",
   "package_ndcs": [
     "23155-017-01",
     "23155-017-10",
@@ -14,7 +14,7 @@
     {
       "form": "CAPSULE",
       "generic": "tetracycline hydrochloride",
-      "name": "Tetracycline Hydrochloride"
+      "name": "tetracycline hydrochloride"
     }
   ],
   "setid": "eaa5b1bd-0927-46e4-b941-32fcc492d258",
