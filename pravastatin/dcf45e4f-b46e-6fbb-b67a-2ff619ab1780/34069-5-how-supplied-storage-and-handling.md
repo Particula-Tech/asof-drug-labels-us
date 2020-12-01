@@ -24,7 +24,7 @@ Bottles of 90 (NDC 60505-1323-9) Bottles of 100 (NDC 60505-1323-1) Bottles of 50
 
 ## 16.2 Storage
 
-Store at 20° to 25°C (68° to 77°F); excursions permitted from 15° to 30°C (59° to 86°F).
+Store at 20°C to 25°C (68°F to 77°F); excursions permitted from 15°C to 30°C (59°F to 86°F).
 [See USP Controlled Room Temperature].
 Dispense in a tight, light-resistant container [see USP].
 Protect from light and moisture.

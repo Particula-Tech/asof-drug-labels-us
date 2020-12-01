@@ -27,7 +27,7 @@ A chemically similar drug in this class produced optic nerve degeneration (Walle
 This same drug also produced vestibulocochlear Wallerian-like degeneration and retinal ganglion cell chromatolysis in dogs treated for 14 weeks at 180 mg/kg/day, a dose which resulted in a mean plasma drug level similar to that seen with the 60 mg/kg/day dose.
 
 When administered to juvenile rats (postnatal days [PND] 4 through 80 at 5 to 45 mg/kg/day), no drug related changes were observed at 5 mg/kg/day.
-At 15 and 45 mg/kg/day, altered body-weight gain was observed during the dosing and 52-day recovery periods as well as slight thinning of the corpus callosum at the end of the recovery period.
+At 15 and 45 mg/kg/day, altered body weight gain was observed during the dosing and 52-day recovery periods as well as slight thinning of the corpus callosum at the end of the recovery period.
 This finding was not evident in rats examined at the completion of the dosing period and was not associated with any inflammatory or degenerative changes in the brain.
 The biological relevance of the corpus callosum finding is uncertain due to the absence of any other microscopic changes in the brain or peripheral nervous tissue and because it occurred at the end of the recovery period.
 Neurobehavioral changes (enhanced acoustic startle responses and increased errors in water-maze learning) combined with evidence of generalized toxicity were noted at 45 mg/kg/day during the later part of the recovery period.

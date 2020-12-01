@@ -1,6 +1,6 @@
 # 7 DRUG INTERACTIONS
 
-For the concurrent therapy of either cyclosporine, fibrates, niacin (nicotinic acid), or erythromycin, the risk of myopathy increases [see Warnings and Precautions (5.1) and Clinical Pharmacology (12.3)].
+For the concurrent therapy of either cyclosporine, fibrates, niacin (nicotinic acid), or erythromycin, the risk of myopathy increases [see Warnings and Precautions (5.1)andClinical Pharmacology (12.3)].
 
 ## 7.1 Cyclosporine
 

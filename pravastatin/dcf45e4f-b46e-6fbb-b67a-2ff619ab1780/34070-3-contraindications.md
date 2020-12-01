@@ -6,7 +6,7 @@ Hypersensitivity to any component of this medication.
 
 ## 4.2 Liver
 
-Active liver disease or unexplained, persistent elevations of serum transaminases [see Warnings and Precautions (5.2)].
+Active liver disease or unexplained, persistent elevations of serum transaminases [see Warnings and Precautions (5.3)].
 
 ## 4.3 Pregnancy
 
@@ -19,4 +19,4 @@ If the patient becomes pregnant while taking this class of drug, therapy should 
 ## 4.4 Lactation
 
 Pravastatin is present in human milk.
-Because statins have the potential for serious adverse reactions in nursing infants, women who require pravastatin sodium treatment should not breastfeed their infants [see Use in Specific Populations (8.2)].
+Because statins have the potential for serious adverse reactions in nursing infants, women who require pravastatin sodium treatment should not breastfeed their infants [see Use Specific Populations(8.2)].

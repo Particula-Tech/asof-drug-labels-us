@@ -53,7 +53,7 @@ Compared to healthy subjects with normal renal function, patients with severe re
 Hepatic Impairment
 
 In a study comparing the kinetics of pravastatin in patients with biopsy confirmed cirrhosis (N=7) and normal subjects (N=7), the mean AUC varied 18-fold in cirrhotic patients and 5-fold in healthy subjects.
-Similarly, the peak pravastatin values varied 47-fold for cirrhotic patients compared to 6-fold for healthy subjects [see Warnings and Precautions (5.2)].
+Similarly, the peak pravastatin values varied 47-fold for cirrhotic patients compared to 6-fold for healthy subjects [see Warnings and Precautions (5.3)].
 
 Geriatric
 
