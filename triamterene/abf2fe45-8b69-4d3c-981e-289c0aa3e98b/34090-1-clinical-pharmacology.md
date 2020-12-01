@@ -31,9 +31,9 @@ Peak plasma levels are achieved within one hour after dosing.
 Triamterene is primarily metabolized to the sulfate conjugate of hydroxytriamterene.
 Both the plasma and urine levels of this metabolite greatly exceed triamterene levels.
 
-The amount of triamterene added to 50 mg of hydrochlorothiazide in triamterene and hydrochlorothiazide tablets was determined from steady-state dose-response evaluations in which various doses of liquid preparations of triamterene were administered to hypertensive persons who developed hypokalemia with hydrochlorothiazide (50 mg given once daily).
+The amount of triamterene added to 50 mg of hydrochlorothiazide in triamterene and hydrochlorothiazide tablets, 75 mg/50 mg was determined from steady-state dose-response evaluations in which various doses of liquid preparations of triamterene were administered to hypertensive persons who developed hypokalemia with hydrochlorothiazide (50 mg given once daily).
 Single daily doses of 75 mg triamterene resulted in greater increases in serum potassium than lower doses (25 mg and 50 mg), while doses greater than 75 mg of triamterene resulted in no additional elevations in serum potassium levels.
-The amount of triamterene added to the 25 mg of hydrochlorothiazide in triamterene and hydrochlorothiazide tablets 37.5 mg/25 mg was also determined from steady-state dose-response evaluations in which various doses of liquid preparations of triamterene were administered to hypertensive persons who developed hypokalemia with hydrochlorothiazide (25 mg given once daily).
+The amount of triamterene added to the 25 mg of hydrochlorothiazide in triamterene and hydrochlorothiazide tablets, 37.5 mg/25 mg was also determined from steady-state dose-response evaluations in which various doses of liquid preparations of triamterene were administered to hypertensive persons who developed hypokalemia with hydrochlorothiazide (25 mg given once daily).
 Single daily doses of 37.5 mg triamterene resulted in greater increases in serum potassium than a lower dose (25 mg), while doses greater than 37.5 mg of triamterene, i.e., 75 mg and 100 mg, resulted in no additional elevations in serum potassium levels.
 The dose-response relationship of triamterene was also evaluated in patients rendered hypokalemic by hydrochlorothiazide given 25 mg twice daily.
 Triamterene given twice daily increased serum potassium levels in a dose-related fashion.
@@ -43,5 +43,5 @@ Ordinarily, triamterene does not entirely compensate for the kaliuretic effect o
 In some individuals, however, it may induce hyperkalemia (see WARNINGS).
 
 The triamterene and hydrochlorothiazide components of this product are well absorbed and are bioequivalent to liquid preparations of the individual components administered orally.
-Food does not influence the absorption of triamterene or hydrochlorothiazide from triamterene and hydrochlorothiazide tablets.
+Food does not influence the absorption of triamterene or hydrochlorothiazide from triamterene and hydrochlorothiazide 37.5 mg/25 mg or 75 mg/50 mg tablets.
 The hydrochlorothiazide component of triamterene and hydrochlorothiazide tablets is bioequivalent to single entity hydrochlorothiazide tablet formulations.

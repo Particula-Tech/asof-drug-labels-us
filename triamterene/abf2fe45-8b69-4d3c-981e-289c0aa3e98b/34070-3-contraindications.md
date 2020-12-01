@@ -8,7 +8,7 @@ If hyperkalemia develops, this drug should be discontinued and a thiazide alone 
 ## Antikaliuretic Therapy or Potassium Supplementation:
 
 Triamterene and hydrochlorothiazide should not be given to patients receiving other potassium-conserving agents such as spironolactone, amiloride hydrochloride or other formulations containing triamterene.
-Concomitant potassium supplementation in the form of medication, potassium-containing salt substitute, or potassium-enriched diets should also not be used.
+Concomitant potassium supplementation in the form of medication, potassium-containing salt substitute or potassium-enriched diets should also not be used.
 
 ## Impaired Renal Function:
 

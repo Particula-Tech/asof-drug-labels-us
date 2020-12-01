@@ -1,10 +1,8 @@
 # HOW SUPPLIED:
 
-Triamterene and Hydrochlorothiazide Tablets, USP, 37.5 mg/25 mg, are light green, round, scored tablets, debossed with Watson 424 and are available in bottles of 30, 100 and 500.
+Triamterene and Hydrochlorothiazide Tablets USP, 37.5 mg/25 mg, are light green, round, scored tablets, debossed with Watson 424 and are available in bottles of 100 (NDC 0591-0424-01) and 500 (NDC 0591-0424-05).
 
-Triamterene and Hydrochlorothiazide Tablets, USP, 75 mg/50 mg, are yellow, round, scored tablets, debossed with Watson 348 and are available in bottles of 30, 100, 500 and 1000.
-
-Bottles of 30 and 100 tablets are provided with child-resistant closures.
+Triamterene and Hydrochlorothiazide Tablets, USP, 75 mg/50 mg, are yellow, round, scored tablets, debossed with Watson 348 and are available in bottles of 100 (NDC 0591-0348-01), 500 (NDC 0591-0348-05), and 1000 (NDC 0591-0348-10).
 
 Store at 20° to 25°C (68° to 77°F) [See USP Controlled Room Temperature].
 Protect from light.
@@ -15,4 +13,4 @@ Manufactured by: Watson Pharma Private Limited Verna, Salcette Goa 403 722 INDIA
 
 Distributed by: Actavis Pharma, Inc. Parsippany, NJ 07054 USA
 
-Revised: November 2014
+Revised: November 2020

@@ -3,7 +3,7 @@
 | Hyperkalemia: Abnormal elevation of serum potassium levels (greater than or equal to 5.5 mEq/liter) can occur with all potassium-conserving diuretic combinations, including triamterene and hydrochlorothiazide. Hyperkalemia is more likely to occur in patients with renal impairment, diabetes (even without evidence of renal impairment), or elderly or severely ill patients. Since uncorrected hyperkalemia may be fatal, serum potassium levels must be monitored at frequent intervals especially in patients first receiving triamterene and hydrochlorothiazide, when dosages are changed or with any illness that may influence renal function. |
 | --- |
 
-If hyperkalemia is suspected (warning signs include paresthesias, muscular weakness, fatigue, flaccid paralysis of the extremities, bradycardia and shock), an electrocardiogram (ECG) should be obtained.
+If hyperkalemia is suspected, (warning signs include paresthesias, muscular weakness, fatigue, flaccid paralysis of the extremities, bradycardia and shock), an electrocardiogram (ECG) should be obtained.
 However, it is important to monitor serum potassium levels because mild hyperkalemia may not be associated with ECG changes.
 
 If hyperkalemia is present, triamterene and hydrochlorothiazide should be discontinued immediately and a thiazide alone should be substituted.
@@ -111,9 +111,9 @@ Triamterene and quinidine have similar fluorescence spectra; thus, triamterene a
 
 ## Carcinogenesis, Mutagenesis, Impairment of Fertility:
 
-Carcinogenesis: Long-term studies with triamterene/hydrochlorothiazide combination have not been conducted.
+Carcinogenesis: Long-term studies with the triamterene and hydrochlorothiazide combination have not been conducted.
 
-Triamterene: In studies conducted under the auspices of the National Toxicology Program, groups of rats were fed diets containing 0, 150, 300 or 600 ppm triamterene and groups of mice were fed diets containing 0, 100, 200 or 400 ppm triamterene.
+Triamterene: In studies conducted under the auspices of the National Toxicology Program, groups of rats were fed diets containing 0, 150, 300 or 600 ppm triamterene, and groups of mice were fed diets containing 0, 100, 200 or 400 ppm triamterene.
 Male and female rats exposed to the highest tested concentration received triamterene at about 25 and 30 mg/kg/day, respectively.
 Male and female mice exposed to the highest tested concentration received triamterene at about 45 and 60 mg/kg/day, respectively.
 
@@ -135,14 +135,14 @@ Hydrochlorothiazide: Hydrochlorothiazide was not genotoxic in in vitro assays us
 Positive test results were obtained in the in vitro CHO sister chromatid exchange (clastogenicity) test, and in the mouse lymphoma cell (mutagenicity) assays, using concentrations of hydrochlorothiazide of 43 to 1300 mcg/mL.
 Positive test results were also obtained in the Aspergillus nidulans nondisjunction assay using an unspecified concentration of hydrochlorothiazide.
 
-Impairment of Fertility: Studies of the effects of the triamterene/ hydrochlorothiazide combination, or of triamterene alone on animal reproductive function have not been conducted.
+Impairment of Fertility: Studies of the effects of the triamterene and hydrochlorothiazide combination, or of triamterene alone on animal reproductive function have not been conducted.
 
 Hydrochlorothiazide: Hydrochlorothiazide had no adverse effects on the fertility of mice and rats of either sex in studies wherein these species were exposed, via their diet, to doses of up to 100 and 4 mg/kg/day, respectively, prior to mating and throughout gestation.
 Corresponding multiples of the MRHD are 100 (mice) and 4 (rats) on the basis of body-weight and 9.4 (mice) and 0.8 (rats) on the basis of body-surface area.
 
 ## Pregnancy:
 
-Teratogenic Effects: Category C: Animal reproduction studies to determine the potential for fetal harm by triamterene and hydrochlorothiazide tablets have not been conducted.
+Teratogenic Effects: Triamterene and Hydrochlorothiazide Tablets: Animal reproduction studies to determine the potential for fetal harm by triamterene and hydrochlorothiazide tablets have not been conducted.
 Nevertheless, a One Generation Study in the rat approximated triamterene and hydrochlorothiazide’s composition by using a 1:1 ratio of triamterene to hydrochlorothiazide (30:30 mg/kg/day).
 There was no evidence of teratogenicity at those doses that were, on a body-weight basis, 15 and 30 times, respectively, the MRHD, and, on the basis of body-surface area, 3.1 and 6.2 times, respectively, the MRHD.
 
@@ -153,8 +153,8 @@ Triamterene: Reproduction studies have been performed in rats at doses as high a
 
 Because animal reproduction studies are not always predictive of human response, this drug should be used during pregnancy only if clearly needed.
 
-Hydrochlorothiazide: Hydrochlorothiazide was orally administered to pregnant mice and rats during respective periods of major organogenesis at doses up to 3000 and 1000 mg/kg/day, respectively.
-At these doses, which are multiples of the MRHD equal to 3000 for mice and 1000 for rats, based on body-weight, and equal to 282 for mice and 206 for rats, based on body-surface area, there was no evidence of harm to the fetus.
+Hydrochlorothiazide: Hydrochlorothiazide was orally administered to pregnant mice and rats during respective periods of major organogenesis at doses up to 3,000 and 1,000 mg/kg/day, respectively.
+At these doses, which are multiples of the MRHD equal to 3,000 for mice and 1,000 for rats, based on body-weight, and equal to 282 for mice and 206 for rats, based on body-surface area, there was no evidence of harm to the fetus.
 There are, however, no adequate and well-controlled studies in pregnant women.
 Because animal reproduction studies are not always predictive of human response, this drug should be used during pregnancy only if clearly needed.
 
@@ -172,3 +172,7 @@ If use of the combination drug product is deemed essential, the patient should s
 ## Pediatric Use:
 
 Safety and effectiveness in pediatric patients have not been established.
+
+## Information for Patients:
+
+Non-melanoma Skin Cancer: Instruct patients taking hydrochlorothiazide to protect skin from the sun and undergo regular skin cancer screening.
