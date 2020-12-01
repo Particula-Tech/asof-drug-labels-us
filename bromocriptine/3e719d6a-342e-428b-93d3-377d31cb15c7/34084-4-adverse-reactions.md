@@ -27,7 +27,7 @@ There were no differences in the pattern of common adverse reactions across race
 In the 52-week CYCLOSET safety trial, 11.5% of CYCLOSET-treated women compared to 3.6% of placebo-treated women reported vomiting.
 In this same trial, 5.4% of CYCLOSET-treated men compared to 2.8% of placebo-treated men reported vomiting.
 
-Table 1: Adverse Reactions Occurring in ≥5% in CYCLOSET-Treated Patients and More Frequent than in Placebo in CYCLOSET Clinical Trials
+Table 1: Adverse Reactions Occurring in ≥5% in CYCLOSET-Treated Patients and More Frequent than in Placebo in CYCLOSET Clinical TrialsAll randomized subjects receiving at least one dose of study drug
 
 | Monotherapy | CYCLOSET 1.6 mg – 4.8 mg N (%) | Placebo N (%) |
 | --- | --- | --- |
@@ -68,7 +68,6 @@ Table 1: Adverse Reactions Occurring in ≥5% in CYCLOSET-Treated Patients and M
 | Vomiting | 167 (8.1) | 32 (3.1) |
 | Diarrhea | 167 (8.1) | 81 (8.0) |
 | Constipation | 119 (5.8) | 52 (5.1) |
-| †All randomized subjects receiving at least one dose of study drug |  |  |
 
 Hypoglycemia
 
