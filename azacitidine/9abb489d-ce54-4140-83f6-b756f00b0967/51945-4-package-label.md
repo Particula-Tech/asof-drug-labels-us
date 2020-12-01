@@ -10,6 +10,6 @@ For Subcutaneous And Intravenous Use Only
 
 Single-Dose Vial
 
-Breckenridge Pharmaceutical, Inc.
+breckenridge A Towa Company
 
 Rx Only

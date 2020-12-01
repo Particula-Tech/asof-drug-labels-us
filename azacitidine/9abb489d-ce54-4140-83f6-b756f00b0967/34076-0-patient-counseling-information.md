@@ -6,7 +6,7 @@ Instruct patients to inform their physician about any underlying liver disease [
 
 Renal Toxicity
 
-Instruct patients to inform their physician about any underlying renal disease [see Warnings and Precautions (5.3) and Use in Specific Populations (8.6)].
+Instruct patients to inform their physician about any underlying renal disease [see Warnings and Precautions (5.3)].
 
 Embryo-Fetal Risk
 

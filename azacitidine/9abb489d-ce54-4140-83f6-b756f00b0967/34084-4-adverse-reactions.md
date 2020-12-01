@@ -40,12 +40,12 @@ Most patients received daily azacitidine doses of 75 mg/m2.
 Table 1 presents adverse reactions occurring in at least 5% of patients treated with azacitidine (subcutaneous) in Studies 1 and 2.
 It is important to note that duration of exposure was longer for the azacitidine-treated group than for the observation group: patients received azacitidine for injection for a mean of 11.4 months while mean time in the observation arm was 6.1 months.
 
-Table 1: Most Frequently Observed Adverse Reactions (5.0% in All with Subcutaneous Azacitidine Treated Patients; Studies 1 and 2)
+Table 1: Most Frequently Observed Adverse Reactions (≥ 5.0% in All Subcutaneous Azacitidine Treated Patients; Studies 1 and 2)
 
-| Blood and lymphatic system disorders |  |  |
+| System Organ Class Preferred TermMultiple terms of the same preferred terms for a patient are only counted once within each treatment group. | All Azacitidine for InjectionIncludes adverse reactions from all patients exposed to azacitidine, including patients after crossing over from observations. (N=220) | ObservationIncludes adverse reactions from observation period only; excludes any adverse events after crossover to azacitidine. (N=92) |
 | --- | --- | --- |
 |  | Number (%) of Patients |  |
-| System Organ Class Preferred TermMultiple terms of the same preferred terms for a patient are only counted once within each treatment group. | All Azacitidine for InjectionIncludes adverse reactions from all patients exposed to azacitidine, including patients after crossing over from observations. (N=220) | ObservationIncludes adverse reactions from observation period only; excludes any adverse events after crossover to azacitidine. (N=92) |
+| Blood and lymphatic system disorders |  |  |
 | Anemia | 153 (70) | 59 (64) |
 | Anemia aggravated | 12 (6) | 5 (5) |
 | Febrile neutropenia | 36 (16) | 4 (4) |
@@ -110,13 +110,13 @@ Table 1: Most Frequently Observed Adverse Reactions (5.0% in All with Subcutaneo
 Table 2 presents adverse reactions occurring in at least 5% of patients treated with azacitidine in Study 4.
 Similar to Studies 1 and 2 described above, duration of exposure to treatment with azacitidine was longer (mean 12.2 months) compared with best supportive care (mean 7.5 months).
 
-Table 2: Most Frequently Observed Adverse Reactions (5.0% in the Azacitidine Treated Patients and the Percentage with NCI CTC Grade 3/4 Reactions; Study 4)
+Table 2: Most Frequently Observed Adverse Reactions (≥ 5.0% in the Azacitidine Treated Patients and the Percentage with NCI CTC Grade 3/4 Reactions; Study 4)
 
-| Blood and lymphatic system disorders |  |  |  |  |
+| System Organ Class Preferred TermMultiple reports of the same preferred term from a patient were only counted once within each treatment. | Azacitidine for Injection (N=175) | Best Supportive Care Only (N=102) | Azacitidine for Injection (N=175) | Best Supportive Care Only (N=102) |
 | --- | --- | --- | --- | --- |
 |  | Number (%) of Patients |  |  |  |
 |  | Any Grade |  | Grade 3/4 |  |
-| System Organ Class Preferred TermMultiple reports of the same preferred term from a patient were only counted once within each treatment. | Azacitidine for Injection (N=175) | Best Supportive Care Only (N=102) | Azacitidine for Injection (N=175) | Best Supportive Care Only (N=102) |
+| Blood and lymphatic system disorders |  |  |  |  |
 | Anemia | 90 (51) | 45 (44) | 24 (14) | 9 (9) |
 | Febrile neutropenia | 24 (14) | 10 (10) | 22 (13) | 7 (7) |
 | Leukopenia | 32 (18) | 2 (2) | 26 (15) | 1 (1) |
@@ -166,6 +166,7 @@ Table 2: Most Frequently Observed Adverse Reactions (5.0% in the Azacitidine Tre
 | Hypertension | 15 (9) | 4 (4) | 2 (1) | 2 (2) |
 
 In Studies 1, 2 and 4 with subcutaneous administration of azacitidine, adverse reactions of neutropenia, thrombocytopenia, anemia, nausea, vomiting, diarrhea, constipation, and injection site erythema/reaction tended to increase in incidence with higher doses of azacitidine for injection.
+
 Adverse reactions that tended to be more pronounced during the first 1 to 2 cycles of subcutaneous treatment compared with later cycles included thrombocytopenia, neutropenia, anemia, nausea, vomiting, injection site erythema/pain/bruising/reaction, constipation, petechiae, dizziness, anxiety, hypokalemia, and insomnia.
 There did not appear to be any adverse reactions that increased in frequency over the course of treatment.
 
@@ -213,8 +214,9 @@ Vascular disorders: orthostatic hypotension.
 The following adverse reactions have been identified during postmarketing use of azacitidine.
 Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
 
-- -Interstitial lung disease
-- -Tumor lysis syndrome
-- -Injection site necrosis
-- -Sweet's syndrome (acute febrile neutrophilic dermatosis)
-- -Necrotizing fasciitis (including fatal cases)
+1. -Interstitial lung disease
+2. -Tumor lysis syndrome
+3. -Injection site necrosis
+4. -Sweet's syndrome (acute febrile neutrophilic dermatosis)
+5. -Necrotizing fasciitis (including fatal cases)
+6. -Differentiation syndrome

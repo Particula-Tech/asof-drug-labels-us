@@ -1,5 +1,5 @@
-Manufactured by: Panacea Biotec Ltd. Baddi - 173205, India
+Manufactured by: Panacea Biotec Pharma Limited Baddi- 173 205, India.
 
 Distributed by: Breckenridge Pharmaceutical, Inc. Berlin, CT 06037
 
-Rev.: 06/2019
+PPIA046A

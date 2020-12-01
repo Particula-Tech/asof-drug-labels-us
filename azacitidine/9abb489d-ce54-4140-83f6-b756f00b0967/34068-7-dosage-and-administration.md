@@ -19,7 +19,7 @@ Monitor patients for hematologic response and renal toxicities [see Warnings and
 
 ## 2.3 Dosage Adjustment Based on Hematology Laboratory Values
 
-- For patients with baseline (start of treatment) WBC greater than or equal to 3.0 x109/L, ANC greater than or equal to 1.5 x109/L, and platelets greater than or equal to 75.0 x109/L, adjust the dose as follows, based on nadir counts for any given cycle:
+- For patients with baseline (start of treatment) WBC greater than or equal to 3.0 ×109/L, ANC greater than or equal to 1.5 ×109/L, and platelets greater than or equal to 75.0 ×109/L, adjust the dose as follows, based on nadir counts for any given cycle:
 
 | ANC (×109/L) | Platelets (×109/L) |  |
 | --- | --- | --- |
@@ -28,8 +28,14 @@ Monitor patients for hematologic response and renal toxicities [see Warnings and
 | 0.5 –1.5 | 25-50 | 67% |
 | Greater than 1.5 | Greater than 50 | 100% |
 
-- For patients whose baseline counts are WBC less than 3.0 ×109/L, ANC Less than 1.5 ×109/L, or platelets less than 75.0 ×109/L, base dose adjustments on nadir counts and bone marrow biopsy cellularity at the time of the nadir as noted below, unless there is clear improvement in differentiation (percentage of mature granulocytes is higher and ANC is higher than at onset of that course) at the time of the next cycle, in which case continue the current dose.
-  WBC or Platelet Nadir % decrease in counts from baselineBone Marrow Biopsy Cellularity at Time of Nadir (%)30-6015-30Less than 15% Dose in the Next Course50 - 751005033greater than75755033
+- For patients whose baseline counts are WBC less than 3.0 ×109/L, ANC less than 1.5 ×109/L, or platelets less than 75.0 ×109/L, base dose adjustments on nadir counts and bone marrow biopsy cellularity at the time of the nadir as noted below, unless there is clear improvement in differentiation (percentage of mature granulocytes is higher and ANC is higher than at onset of that course) at the time of the next cycle, in which case continue the current dose.
+
+| 30-60 | 15-30 | Less than 15 |  |
+| --- | --- | --- | --- |
+| WBC or Platelet Nadir % decrease in counts from baseline | Bone Marrow Biopsy Cellularity at Time of Nadir (%) |  |  |
+|  | % Dose in the Next Course |  |  |
+| 50 - 75 | 100 | 50 | 33 |
+| greater than 75 | 75 | 50 | 33 |
 
 If a nadir as defined in the table above has occurred, give the next course 28 days after the start of the preceding course, provided that both the WBC and the platelet counts are greater than 25% above the nadir and rising.
 If a greater than 25% increase above the nadir is not seen by day 28, reassess counts every 7 days.
@@ -72,8 +78,8 @@ Preparation for Delayed Subcutaneous Administration: The reconstituted product m
 For doses requiring more than 1 vial, divide the dose equally between the syringes (e.g., dose 150 mg = 6 mL, 2 syringes with 3 mL in each syringe) and inject into two separate sites.
 Due to retention in the vial and needle, it may not be feasible to withdraw all of the suspension from the vial.
 The product must be refrigerated immediately.
-When Azacitidine for injection is reconstituted using water for injection that has not been refrigerated, the reconstituted product may be held under refrigerated conditions (2ºC - 8ºC, 36ºF - 46ºF) for up to 8 hours.
-When Azacitidine for injection is reconstituted using refrigerated (2ºC - 8ºC, 36ºF - 46ºF) water for injection, the reconstituted product may be stored under refrigerated conditions (2ºC - 8ºC, 36ºF - 46ºF) for up to 22 hours.
+When Azacitidine for injection is reconstituted using water for injection that has not been refrigerated, the reconstituted product may be held under refrigerated conditions (2°C - 8°C, 36°F - 46°F) for up to 8 hours.
+When Azacitidine for injection is reconstituted using refrigerated (2°C - 8°C, 36°F - 46°F) water for injection, the reconstituted product may be stored under refrigerated conditions (2°C - 8°C, 36°F - 46°F) for up to 22 hours.
 After removal from refrigerated conditions, the suspension may be allowed to equilibrate to room temperature for up to 30 minutes prior to administration.
 
 Subcutaneous Administration
@@ -85,7 +91,7 @@ Azacitidine for injection suspension is administered subcutaneously.
 Rotate sites for each injection (thigh, abdomen, or upper arm).
 New injections should be given at least one inch from an old site and never into areas where the site is tender, bruised, red, or hard.
 
-Suspension Stability: Azacitidine for injection reconstituted with non-refrigerated water for injection for subcutaneous administration may be stored for up to 1 hour at 25°C (77°F) or for up to 8 hours between 2°C and 8°C (36°F and 46°F); when reconstituted with refrigerated (2ºC - 8ºC, 36ºF - 46ºF) water for injection, it may be stored for 22 hours between 2°C and 8°C (36°F and 46°F).
+Suspension Stability: Azacitidine for injection reconstituted with non-refrigerated water for injection for subcutaneous administration may be stored for up to 1 hour at 25°C (77°F) or for up to 8 hours between 2°C and 8°C (36°F and 46°F); when reconstituted with refrigerated (2°C - 8°C, 36°F - 46°F) water for injection, it may be stored for 22 hours between 2°C and 8°C (36°F and 46°F).
 
 ## 2.8 Instructions for Intravenous Administration
 

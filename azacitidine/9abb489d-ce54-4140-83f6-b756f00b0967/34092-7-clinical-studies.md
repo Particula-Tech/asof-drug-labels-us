@@ -93,7 +93,6 @@ Benefit was seen in patients who did not meet the criteria for PR or better, but
 About 24% of azacitidine for injection-treated patients were considered improved, and about 2/3 of those lost transfusion dependence.
 In the observation group, only 5/83 patients met criteria for improvement; none lost transfusion dependence.
 In all 3 studies, about 19% of patients met criteria for improvement with a median duration of 195 days.
-
 Study 4 was an international, multicenter, open-label, randomized trial in MDS patients with RAEB, RAEB-T or modified CMMoL according to FAB classification and Intermediate-2 and High risk according to IPSS classification.
 Of the 358 patients enrolled in the study, 179 were randomized to receive azacitidine plus best supportive care (BSC) and 179 were randomized to receive conventional care regimens (CCR) plus BSC (105 to BSC alone, 49 to low dose cytarabine and 25 to chemotherapy with cytarabine and anthracycline).
 The primary efficacy endpoint was overall survival.
@@ -113,7 +112,8 @@ The hazard ratio describing this treatment effect was 0.58 (95% CI: 0.43, 0.77).
 
 Kaplan-Meier Curve of Time to Death from Any Cause: (Intent-to-Treat Population)
 
-Key: AZA = azacitidine; CCR = conventional care regimens; CI = confidence interval; HR = Hazard Ratio
+| Key: AZA = azacitidine; CCR = conventional care regimens; CI = confidence interval; HR = Hazard Ratio |
+| --- |
 
 Azacitidine treatment led to a reduced need for red blood cell transfusions (see Table 6).
 In patients treated with azacitidine who were RBC transfusion dependent at baseline and became transfusion independent, the median duration of RBC transfusion independence was 13.0 months.

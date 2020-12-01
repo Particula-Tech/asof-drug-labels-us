@@ -49,7 +49,7 @@ No formal clinical drug interaction studies with azacitidine have been conducted
 An in vitro study of azacitidine incubation in human liver fractions indicated that azacitidine may be metabolized by the liver.
 Whether azacitidine metabolism may be affected by known microsomal enzyme inhibitors or inducers has not been studied.
 
-An in vitro study with cultured human hepatocytes indicated that azacitidine at concentrations up to 100 μM (IV Cmax = 10.6 μM) does not cause any inhibition of CYP2B6 and CYP2C8.
+An in vitro study with cultured human hepatocytes indicated that azacitidine at concentrations up to 100 µM (IV Cmax = 10.6 µM) does not cause any inhibition of CYP2B6 and CYP2C8.
 The potential of azacitidine to inhibit other cytochrome P450 (CYP) enzymes is not known.
 
-In vitro studies with human cultured hepatocytes indicate that azacitidine at concentrations of 1.0 μM to 100 μM does not induce CYP 1A2, 2C19, or 3A4/5.
+In vitro studies with human cultured hepatocytes indicate that azacitidine at concentrations of 1.0 µM to 100 µM does not induce CYP 1A2, 2C19, or 3A4/5.

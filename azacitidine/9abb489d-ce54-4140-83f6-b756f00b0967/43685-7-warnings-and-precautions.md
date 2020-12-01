@@ -25,7 +25,7 @@ If unexplained reductions in serum bicarbonate <20 mEq/L or elevations of BUN or
 
 Patients with renal impairment may be at increased risk for renal toxicity.
 Also, azacitidine and its metabolites are primarily excreted by the kidney.
-Therefore, monitor these patients closely for toxicity [see Dosage and Administration (2.4,2.5)].
+Therefore, monitor these patients closely for toxicity [see Dosage and Administration (2.4, 2.5)].
 Patients with MDS and renal impairment were excluded from the clinical studies.
 
 ## 5.4 Tumor Lysis Syndrome
