@@ -32,7 +32,7 @@ Risk Summary
 
 There are no data on the presence of pegfilgrastim in human milk, the effects on the breastfed child, or the effects on milk production.
 Other filgrastim products are secreted poorly into breast milk, and filgrastim products are not absorbed orally by neonates.
-The developmental and health benefits of breastfeeding should be considered along with the mother’s clinical need for Neulasta and any potential adverse effects on the breastfed child from Neulasta or from the underlying maternal condition.
+The developmental and health benefits of breastfeeding should be considered along with the mother's clinical need for Neulasta and any potential adverse effects on the breastfed child from Neulasta or from the underlying maternal condition.
 
 ## 8.4 Pediatric Use
 

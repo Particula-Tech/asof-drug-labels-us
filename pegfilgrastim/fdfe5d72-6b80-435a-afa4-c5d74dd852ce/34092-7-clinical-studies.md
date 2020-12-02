@@ -31,7 +31,7 @@ The most common adverse reaction reported was bone pain.
 ## 14.2 Patients with Hematopoietic Subsyndrome of Acute Radiation Syndrome
 
 Efficacy studies of Neulasta could not be conducted in humans with acute radiation syndrome for ethical and feasibility reasons.
-Approval of this indication was based on efficacy studies conducted in animals and data supporting Neulasta’s effect on severe neutropenia in patients with cancer receiving myelosuppressive chemotherapy [see Dosage and Administration (2.1)].
+Approval of this indication was based on efficacy studies conducted in animals and data supporting Neulasta's effect on severe neutropenia in patients with cancer receiving myelosuppressive chemotherapy [see Dosage and Administration (2.1)].
 
 The recommended dose of Neulasta is two doses, 6 mg each, administered one week apart for humans exposed to myelosuppressive doses of radiation.
 For pediatric patients weighing less than 45 kg, dosing of Neulasta is weight based and is provided in Table 1 [see Dosage and Administration (2.3)].

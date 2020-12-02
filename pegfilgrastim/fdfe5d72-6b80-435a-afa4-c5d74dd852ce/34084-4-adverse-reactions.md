@@ -1,4 +1,4 @@
-# 6ADVERSE REACTIONS
+# 6 ADVERSE REACTIONS
 
 The following clinically significant adverse reactions are discussed in greater detail in other sections of the labeling:
 
@@ -68,7 +68,7 @@ Because these reactions are reported voluntarily from a population of uncertain 
 - Leukocytosis [see Warnings and Precautions (5.7)]
 - Capillary Leak Syndrome [see Warnings and Precautions (5.8)]
 - Injection site reactions
-- Sweet’s syndrome (acute febrile neutrophilic dermatosis), cutaneous vasculitis
+- Sweet's syndrome (acute febrile neutrophilic dermatosis), cutaneous vasculitis
 - Application site reactions (including events such as application site hemorrhage, application site pain, application site discomfort, application site bruise, and application site erythema) have been reported with the use of the on-body injector for Neulasta.
 - Contact dermatitis and local skin reactions such as rash, pruritus, and urticaria have been reported with the use of the on-body injector for Neulasta, possibly indicating a hypersensitivity reaction to the adhesive.
 - Aortitis [see Warnings and Precautions (5.11)]

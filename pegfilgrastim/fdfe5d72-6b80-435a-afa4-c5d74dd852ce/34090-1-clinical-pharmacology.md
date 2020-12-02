@@ -1,4 +1,4 @@
-# 12CLINICAL PHARMACOLOGY
+# 12 CLINICAL PHARMACOLOGY
 
 ## 12.1 Mechanism of Action
 
@@ -31,7 +31,7 @@ In a study of 30 subjects with varying degrees of renal dysfunction, including e
 Pediatric Patients with Cancer Receiving Myelosuppressive Chemotherapy
 
 The pharmacokinetics and safety of pegfilgrastim were studied in 37 pediatric patients with sarcoma in Study 4 [see Clinical Studies (14.1)].
-The mean (± standard deviation [SD]) systemic exposure (AUC0-inf) of Neulasta after subcutaneous administration at 100 mcg/kg was 47.9 (± 22.5) mcg·hr/mL in the youngest age group (0 to 5 years, n = 11), 22.0 (± 13.1) mcg·hr/mL in the 6 to 11 years age group (n = 10), and 29.3 (± 23.2) mcg·hr/mL in the 12 to 21 years age group (n = 13).
+The mean (± standard deviation [SD]) systemic exposure (AUC0-inf) of Neulasta after subcutaneous administration at 100 mcg/kg was 47.9 (± 22.5) mcg∙hr/mL in the youngest age group (0 to 5 years, n = 11), 22.0 (± 13.1) mcg∙hr/mL in the 6 to 11 years age group (n = 10), and 29.3 (± 23.2) mcg∙hr/mL in the 12 to 21 years age group (n = 13).
 The terminal elimination half-lives of the corresponding age groups were 30.1 (± 38.2) hours, 20.2 (± 11.3) hours, and 21.2 (± 16.0) hours, respectively.
 
 Patients Acutely Exposed to Myelosuppressive Doses of Radiation

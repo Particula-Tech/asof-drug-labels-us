@@ -1,4 +1,4 @@
-# 1INDICATIONS AND USAGE
+# 1 INDICATIONS AND USAGE
 
 ## 1.1 Patients with Cancer Receiving Myelosuppressive Chemotherapy
 

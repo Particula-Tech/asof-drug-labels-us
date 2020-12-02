@@ -1,4 +1,4 @@
-# 17PATIENT COUNSELING INFORMATION
+# 17 PATIENT COUNSELING INFORMATION
 
 Advise the patient to read the FDA-approved patient labeling (Patient Information and Instructions for Use).
 
@@ -44,7 +44,7 @@ Advise patients on the use of the on-body injector (OBI) for Neulasta:
 - Advise the patient:
   - do not reapply the OBI for Neulasta if the OBI for Neulasta comes off before full dose is delivered and instead call their healthcare provider immediately, as they may need a replacement dose.
   - avoid bumping the OBI for Neulasta or knocking the OBI for Neulasta off the body.
-  - do not use other materials to hold the on-body injector in place that could cover audio/visual indicators or compress the on-body injector against the patient’s skin, as this could dislodge the cannula and lead to a missed dose or incomplete dose of Neulasta.
+  - do not use other materials to hold the on-body injector in place that could cover audio/visual indicators or compress the on-body injector against the patient's skin, as this could dislodge the cannula and lead to a missed dose or incomplete dose of Neulasta.
   - do not expose the OBI for Neulasta to medical imaging studies (e.g., X-ray scan, MRI, CT scan and ultrasound), radiation treatment, and oxygen rich environments such as hyperbaric chambers to avoid OBI for Neulasta damage and patient injury.
 
 - Advise the patient to avoid:

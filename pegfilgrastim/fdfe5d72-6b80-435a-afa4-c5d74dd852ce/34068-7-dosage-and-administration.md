@@ -1,4 +1,4 @@
-# 2DOSAGE AND ADMINISTRATION
+# 2 DOSAGE AND ADMINISTRATION
 
 ## 2.1 Patients with Cancer Receiving Myelosuppressive Chemotherapy
 
@@ -15,7 +15,7 @@ Administer the second dose one week after the first dose.
 
 Obtain a baseline complete blood count (CBC).
 Do not delay administration of Neulasta if a CBC is not readily available.
-Estimate a patient’s absorbed radiation dose (i.e., level of radiation exposure) based on information from public health authorities, biodosimetry if available, or clinical findings such as time to onset of vomiting or lymphocyte depletion kinetics.
+Estimate a patient's absorbed radiation dose (i.e., level of radiation exposure) based on information from public health authorities, biodosimetry if available, or clinical findings such as time to onset of vomiting or lymphocyte depletion kinetics.
 
 ## 2.3 Administration
 
@@ -50,9 +50,9 @@ Refer to Table 1.
 
 ## 2.4 Special Healthcare Provider Instructions for the On-body Injector for Neulasta
 
-A healthcare provider must fill the on-body injector (OBI) with Neulasta using the prefilled syringe and then apply the OBI for Neulasta to the patient’s skin (abdomen or back of arm).
+A healthcare provider must fill the on-body injector (OBI) with Neulasta using the prefilled syringe and then apply the OBI for Neulasta to the patient's skin (abdomen or back of arm).
 The back of the arm may only be used if there is a caregiver available to monitor the status of the OBI for Neulasta.
-Approximately 27 hours after the OBI for Neulasta is applied to the patient’s skin, Neulasta will be delivered over approximately 45 minutes.
+Approximately 27 hours after the OBI for Neulasta is applied to the patient's skin, Neulasta will be delivered over approximately 45 minutes.
 A healthcare provider may initiate administration with the OBI for Neulasta on the same day as the administration of cytotoxic chemotherapy, as long as the OBI for Neulasta delivers Neulasta no less than 24 hours after administration of cytotoxic chemotherapy.
 
 The prefilled syringe co-packaged in Neulasta Onpro® kit must only be used with the OBI for Neulasta.
