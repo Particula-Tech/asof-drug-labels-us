@@ -26,5 +26,5 @@ Advise females of reproductive potential of the risk to a fetus, to use effectiv
 
 Advise women not to breastfeed during treatment with LIPITOR [see Contraindications (4) and Use in Specific Populations (8.2)].
 
-This product's label may have been updated.
-For current full prescribing information, please visit www.pfizer.com.
+This product's labeling may have been updated.
+For the most recent prescribing information, please visit www.pfizer.com.

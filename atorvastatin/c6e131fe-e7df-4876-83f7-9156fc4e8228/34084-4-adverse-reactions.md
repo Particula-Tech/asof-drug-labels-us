@@ -2,23 +2,22 @@
 
 The following serious adverse reactions are discussed in greater detail in other sections of the label:
 
-Rhabdomyolysis and myopathy [see Warnings and Precautions (5.1)]
+Myopathy and Rhabdomyolysis [see Warnings and Precautions (5.1)]
 
 Liver enzyme abnormalities [see Warnings and Precautions (5.3)]
 
 ## 6.1 Clinical Trials Experience
 
-Because clinical trials are conducted under widely varying conditions, the adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in clinical practice.
+Because clinical trials are conducted under widely varying conditions, the adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in practice.
 
 In the LIPITOR placebo-controlled clinical trial database of 16,066 patients (8755 LIPITOR vs. 7311 placebo; age range 10–93 years, 39% women, 91% Caucasians, 3% Blacks, 2% Asians, 4% other) with a median treatment duration of 53 weeks, 9.7% of patients on LIPITOR and 9.5% of the patients on placebo discontinued due to adverse reactions regardless of causality.
 The five most common adverse reactions in patients treated with LIPITOR that led to treatment discontinuation and occurred at a rate greater than placebo were: myalgia (0.7%), diarrhea (0.5%), nausea (0.4%), alanine aminotransferase increase (0.4%), and hepatic enzyme increase (0.4%).
 
 The most commonly reported adverse reactions (incidence ≥ 2% and greater than placebo) regardless of causality, in patients treated with LIPITOR in placebo controlled trials (n=8755) were: nasopharyngitis (8.3%), arthralgia (6.9%), diarrhea (6.8%), pain in extremity (6.0%), and urinary tract infection (5.7%).
 
-Table 3 summarizes the frequency of clinical adverse reactions, regardless of causality, reported in ≥ 2% and at a rate greater than placebo in patients treated with LIPITOR (n=8755), from seventeen placebo-controlled trials.
+Table 2 summarizes the frequency of clinical adverse reactions, regardless of causality, reported in ≥ 2% and at a rate greater than placebo in patients treated with LIPITOR (n=8755), from seventeen placebo-controlled trials.
 
-Table 3.
-Clinical adverse reactions occurring in ≥ 2% in patients treated with any dose of LIPITOR and at an incidence greater than placebo regardless of causality (% of patients).
+Table 2: Clinical Adverse Reactions Occurring in ≥ 2% in Patients Treated with any Dose of LIPITOR and at an Incidence Greater than Placebo Regardless of Causality (% of Patients).
 
 | Adverse ReactionAdverse Reaction ≥ 2% in any dose greater than placebo | Any dose N=8755 | 10 mg N=3908 | 20 mg N=188 | 40 mg N=604 | 80 mg N=4055 | Placebo N=7311 |
 | --- | --- | --- | --- | --- | --- | --- |

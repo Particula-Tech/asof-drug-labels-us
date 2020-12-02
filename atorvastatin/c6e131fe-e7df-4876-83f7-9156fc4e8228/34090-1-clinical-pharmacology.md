@@ -60,8 +60,7 @@ Atorvastatin is a substrate of the hepatic transporters, OATP1B1 and OATP1B3 tra
 Metabolites of atorvastatin are substrates of OATP1B1.
 Atorvastatin is also identified as a substrate of the efflux transporter BCRP, which may limit the intestinal absorption and biliary clearance of atorvastatin.
 
-TABLE 4.
-Effect of Co-administered Drugs on the Pharmacokinetics of Atorvastatin
+TABLE 6: Effect of Co-administered Drugs on the Pharmacokinetics of Atorvastatin
 
 |  | Dose (mg) | Ratio of AUCRepresents ratio of treatments (co-administered drug plus atorvastatin vs. atorvastatin alone). | Ratio of Cmax |
 | --- | --- | --- | --- |
@@ -94,8 +93,7 @@ Effect of Co-administered Drugs on the Pharmacokinetics of Atorvastatin
 | Fenofibrate 160 mg QD, 7 days | 40 mg SD | 1.03 | 1.02 |
 | Boceprevir 800 mg TIDThree times daily, 7 days | 40 mg SD | 2.32 | 2.66 |
 
-TABLE 5.
-Effect of Atorvastatin on the Pharmacokinetics of Co-administered Drugs
+TABLE 7: Effect of Atorvastatin on the Pharmacokinetics of Co-administered Drugs
 
 |  | Drug/Dose (mg) | Ratio of AUC | Ratio of Cmax |
 | --- | --- | --- | --- |
@@ -106,3 +104,5 @@ Effect of Atorvastatin on the Pharmacokinetics of Co-administered Drugs
 | 10 mg, SD | Tipranavir 500 mg BIDTwice daily/ritonavir 200 mg BID, 7 days | 1.08 | 0.96 |
 | 10 mg QD for 4 days | Fosamprenavir 1400 mg BID, 14 days | 0.73 | 0.82 |
 | 10 mg QD for 4 days | Fosamprenavir 700 mg BID/ritonavir 100 mg BID, 14 days | 0.99 | 0.94 |
+
+LIPITOR had no clinically significant effect on prothrombin time when administered to patients receiving chronic warfarin treatment.

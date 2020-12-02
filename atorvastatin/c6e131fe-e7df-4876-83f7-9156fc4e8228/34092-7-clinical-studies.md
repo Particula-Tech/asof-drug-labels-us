@@ -42,13 +42,12 @@ Subjects were randomly assigned to either 10 mg/day or 80 mg/day of LIPITOR and 
 The primary endpoint was the time-to-first occurrence of any of the following major cardiovascular events (MCVE): death due to CHD, non-fatal myocardial infarction, resuscitated cardiac arrest, and fatal and non-fatal stroke.
 The mean LDL-C, TC, TG, non-HDL, and HDL cholesterol levels at 12 weeks were 73, 145, 128, 98, and 47 mg/dL during treatment with 80 mg of LIPITOR and 99, 177, 152, 129, and 48 mg/dL during treatment with 10 mg of LIPITOR.
 
-Treatment with LIPITOR 80 mg/day significantly reduced the rate of MCVE (434 events in the 80 mg/day group vs. 548 events in the 10 mg/day group) with a relative risk reduction of 22%, HR 0.78, 95% CI (0.69, 0.89), p=0.0002 (see Figure 3 and Table 6).
+Treatment with LIPITOR 80 mg/day significantly reduced the rate of MCVE (434 events in the 80 mg/day group vs. 548 events in the 10 mg/day group) with a relative risk reduction of 22%, HR 0.78, 95% CI (0.69, 0.89), p=0.0002 (see Figure 3 and Table 9).
 The overall risk reduction was consistent regardless of age (<65, ≥65) or gender.
 
 Figure 3: Effect of LIPITOR 80 mg/day vs. 10 mg/day on Time to Occurrence of Major Cardiovascular Events (TNT)
 
-TABLE 6.
-Overview of Efficacy Results in TNT
+TABLE 8: Overview of Efficacy Results in TNT
 
 | PRIMARY ENDPOINT | n | (%) | n | (%) |  |
 | --- | --- | --- | --- | --- | --- |
@@ -73,11 +72,11 @@ Overview of Efficacy Results in TNT
 | Suicide, homicide, and othertraumatic non-CV death | 9 | (0.2) | 15 | (0.3) | 1.67 (0.73, 3.82) |
 | HR=hazard ratio; CHD=coronary heart disease; CI=confidence interval; MI=myocardial infarction; CHF=congestive heart failure; CV=cardiovascular; PVD=peripheral vascular disease; CABG=coronary artery bypass graft Confidence intervals for the Secondary Endpoints were not adjusted for multiple comparisons |  |  |  |  |  |
 
-Of the events that comprised the primary efficacy endpoint, treatment with LIPITOR 80 mg/day significantly reduced the rate of non-fatal, non-procedure related MI and fatal and non-fatal stroke, but not CHD death or resuscitated cardiac arrest (Table 6).
+Of the events that comprised the primary efficacy endpoint, treatment with LIPITOR 80 mg/day significantly reduced the rate of non-fatal, non-procedure related MI and fatal and non-fatal stroke, but not CHD death or resuscitated cardiac arrest (Table 8).
 Of the predefined secondary endpoints, treatment with LIPITOR 80 mg/day significantly reduced the rate of coronary revascularization, angina, and hospitalization for heart failure, but not peripheral vascular disease.
 The reduction in the rate of CHF with hospitalization was only observed in the 8% of patients with a prior history of CHF.
 
-There was no significant difference between the treatment groups for all-cause mortality (Table 6).
+There was no significant difference between the treatment groups for all-cause mortality (Table 8).
 The proportions of subjects who experienced cardiovascular death, including the components of CHD death and fatal stroke, were numerically smaller in the LIPITOR 80 mg group than in the LIPITOR 10 mg treatment group.
 The proportions of subjects who experienced noncardiovascular death were numerically larger in the LIPITOR 80 mg group than in the LIPITOR 10 mg treatment group.
 
@@ -99,10 +98,9 @@ Therapeutic response is seen within 2 weeks, and maximum response is usually ach
 LIPITOR is effective in a wide variety of patient populations with hyperlipidemia, with and without hypertriglyceridemia, in men and women, and in the elderly.
 
 In two multicenter, placebo-controlled, dose-response studies in patients with hyperlipidemia, LIPITOR given as a single dose over 6 weeks, significantly reduced total-C, LDL-C, apo B, and TG.
-(Pooled results are provided in Table 7.)
+(Pooled results are provided in Table 9.)
 
-TABLE 7.
-Dose Response in Patients With Primary Hyperlipidemia (Adjusted Mean % Change From Baseline)Results are pooled from 2 dose-response studies.
+TABLE 9: Dose Response in Patients With Primary Hyperlipidemia (Adjusted Mean % Change From Baseline)Results are pooled from 2 dose-response studies.
 
 | Dose | N | TC | LDL-C | Apo B | TG | HDL-C | Non-HDL-C/ HDL-C |
 | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -116,10 +114,9 @@ In patients with Fredrickson Types IIa and IIb hyperlipoproteinemia pooled from 
 Additionally, analysis of the pooled data demonstrated consistent and significant decreases in total-C, LDL-C, TG, total-C/HDL-C, and LDL-C/HDL-C.
 
 In three multicenter, double-blind studies in patients with hyperlipidemia, LIPITOR was compared to other statins.
-After randomization, patients were treated for 16 weeks with either LIPITOR 10 mg per day or a fixed dose of the comparative agent (Table 8).
+After randomization, patients were treated for 16 weeks with either LIPITOR 10 mg per day or a fixed dose of the comparative agent (Table 10).
 
-TABLE 8.
-Mean Percentage Change From Baseline at Endpoint (Double-Blind, Randomized, Active-Controlled Trials)
+TABLE 10: Mean Percentage Change From Baseline at Endpoint (Double-Blind, Randomized, Active-Controlled Trials)
 
 | Treatment (Daily Dose) | N | Total-C | LDL-C | Apo B | TG | HDL-C | Non-HDL-C/ HDL-C |
 | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -136,17 +133,16 @@ Mean Percentage Change From Baseline at Endpoint (Double-Blind, Randomized, Acti
 | Simvastatin 10 mg | 45 | -24 | -30 | -30 | -15 | +7 | -33 |
 | 95% CI for Diff |  | -8.7, -2.7 | -10.1, -2.6 | -8.0, -1.1 | -15.1, -0.7 | -4.3, 3.9 | -9.6, -1.9 |
 
-The impact on clinical outcomes of the differences in lipid-altering effects between treatments shown in Table 8 is not known.
-Table 8 does not contain data comparing the effects of LIPITOR 10 mg and higher doses of lovastatin, pravastatin, and simvastatin.
+The impact on clinical outcomes of the differences in lipid-altering effects between treatments shown in Table 10 is not known.
+Table 10 does not contain data comparing the effects of LIPITOR 10 mg and higher doses of lovastatin, pravastatin, and simvastatin.
 The drugs compared in the studies summarized in the table are not necessarily interchangeable.
 
 ## 14.3 Hypertriglyceridemia
 
-The response to LIPITOR in 64 patients with isolated hypertriglyceridemia (Fredrickson Type IV) treated across several clinical trials is shown in the table below (Table 9).
+The response to LIPITOR in 64 patients with isolated hypertriglyceridemia (Fredrickson Type IV) treated across several clinical trials is shown in the table below (Table 11).
 For the LIPITOR-treated patients, median (min, max) baseline TG level was 565 (267–1502).
 
-TABLE 9.
-Combined Patients With Isolated Elevated TG: Median (min, max) Percentage Change From Baseline
+TABLE 11: Combined Patients With Isolated Elevated TG: Median (min, max) Percentage Change From Baseline
 
 |  | Placebo (N=12) | LIPITOR 10 mg (N=37) | LIPITOR 20 mg (N=13) | LIPITOR 80 mg (N=14) |
 | --- | --- | --- | --- | --- |
@@ -159,10 +155,9 @@ Combined Patients With Isolated Elevated TG: Median (min, max) Percentage Change
 
 ## 14.4 Dysbetalipoproteinemia
 
-The results of an open-label crossover study of 16 patients (genotypes: 14 apo E2/E2 and 2 apo E3/E2) with dysbetalipoproteinemia (Fredrickson Type III) are shown in the table below (Table 10).
+The results of an open-label crossover study of 16 patients (genotypes: 14 apo E2/E2 and 2 apo E3/E2) with dysbetalipoproteinemia (Fredrickson Type III) are shown in the table below (Table 12).
 
-TABLE 10.
-Open-Label Crossover Study of 16 Patients With Dysbetalipoproteinemia (Fredrickson Type III)
+TABLE 12: Open-Label Crossover Study of 16 Patients With Dysbetalipoproteinemia (Fredrickson Type III)
 
 |  | Median (min, max) at Baseline (mg/dL) | LIPITOR 10 mg | LIPITOR 80 mg |
 | --- | --- | --- | --- |
@@ -189,10 +184,9 @@ The mean baseline LDL-C value was 218.6 mg/dL (range: 138.5–385.0 mg/dL) in th
 The dosage of LIPITOR (once daily) was 10 mg for the first 4 weeks and uptitrated to 20 mg if the LDL-C level was > 130 mg/dL.
 The number of LIPITOR-treated patients who required uptitration to 20 mg after Week 4 during the double-blind phase was 78 (55.7%).
 
-LIPITOR significantly decreased plasma levels of total-C, LDL-C, triglycerides, and apolipoprotein B during the 26-week double-blind phase (see Table 11).
+LIPITOR significantly decreased plasma levels of total-C, LDL-C, triglycerides, and apolipoprotein B during the 26-week double-blind phase (see Table 13).
 
-TABLE 11.
-Lipid-altering Effects of LIPITOR in Adolescent Boys and Girls with Heterozygous Familial Hypercholesterolemia or Severe Hypercholesterolemia (Mean Percentage Change From Baseline at Endpoint in Intention-to-Treat Population)
+TABLE 13: Lipid-altering Effects of LIPITOR in Adolescent Boys and Girls with Heterozygous Familial Hypercholesterolemia or Severe Hypercholesterolemia (Mean Percentage Change From Baseline at Endpoint in Intention-to-Treat Population)
 
 | DOSAGE | N | Total-C | LDL-C | HDL-C | TG | Apolipoprotein B |
 | --- | --- | --- | --- | --- | --- | --- |
