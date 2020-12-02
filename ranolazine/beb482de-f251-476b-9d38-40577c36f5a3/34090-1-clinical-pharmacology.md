@@ -5,10 +5,10 @@
 The mechanism of action of ranolazine's antianginal effects has not been determined.
 Ranolazine has anti-ischemic and antianginal effects that do not depend upon reductions in heart rate or blood pressure.
 It does not affect the rate-pressure product, a measure of myocardial work, at maximal exercise.
-Ranolazine at therapeutic levels can inhibit the cardiac late sodium current (INa).
+Ranolazine at therapeutic levels can inhibit the cardiac late sodium current (I Na).
 However, the relationship of this inhibition to angina symptoms is uncertain.
 
-The QT prolongation effect of ranolazine on the surface electrocardiogram is the result of inhibition of IKr, which prolongs the ventricular action potential.
+The QT prolongation effect of ranolazine on the surface electrocardiogram is the result of inhibition of I Kr, which prolongs the ventricular action potential.
 
 ## 12.2 Pharmacodynamics
 
@@ -23,7 +23,7 @@ Dose and plasma concentration-related increases in the QTc interval [see Warning
 These effects are believed to be caused by ranolazine and not by its metabolites.
 The relationship between the change in QTc and ranolazine plasma concentrations is linear, with a slope of about 2.6 msec/1000 ng/mL, through exposures corresponding to doses several-fold higher than the maximum recommended dose of 1000 mg twice daily.
 The variable blood levels attained after a given dose of ranolazine give a wide range of effects on QTc.
-At Tmax following repeat dosing at 1000 mg twice daily, the mean change in QTc is about 6 msec, but in the 5% of the population with the highest plasma concentrations, the prolongation of QTc is at least 15 msec.
+At T max following repeat dosing at 1000 mg twice daily, the mean change in QTc is about 6 msec, but in the 5% of the population with the highest plasma concentrations, the prolongation of QTc is at least 15 msec.
 In cirrhotic subjects with mild or moderate hepatic impairment, the relationship between plasma level of ranolazine and QTc is much steeper [see Contraindications (4)].
 
 Age, weight, gender, race, heart rate, congestive heart failure, diabetes, and renal impairment did not alter the slope of the QTc-concentration relationship of ranolazine.
@@ -35,11 +35,11 @@ However, this difference in arrhythmias did not lead to a reduction in mortality
 ## 12.3 Pharmacokinetics
 
 Ranolazine is extensively metabolized in the gut and liver and its absorption is highly variable.
-For example, at a dose of 1000 mg twice daily, the mean steady-state Cmax was 2600 ng/mL with 95% confidence limits of 400 and 6100 ng/mL.
+For example, at a dose of 1000 mg twice daily, the mean steady-state C max was 2600 ng/mL with 95% confidence limits of 400 and 6100 ng/mL.
 The pharmacokinetics of the (+) R- and (-) S-enantiomers of ranolazine are similar in healthy volunteers.
 The apparent terminal half-life of ranolazine is 7 hours.
 Steady state is generally achieved within 3 days of twice-daily dosing with RANEXA.
-At steady state over the dose range of 500 to 1000 mg twice daily, Cmax and AUC0–τ increase slightly more than proportionally to dose, 2.2- and 2.4-fold, respectively.
+At steady state over the dose range of 500 to 1000 mg twice daily, C max and AUC 0–τ increase slightly more than proportionally to dose, 2.2- and 2.4-fold, respectively.
 With twice-daily dosing, the trough:peak ratio of the ranolazine plasma concentration is 0.3 to 0.6.
 The pharmacokinetics of ranolazine is unaffected by age, gender, or food.
 
@@ -50,7 +50,7 @@ After oral administration of 14C-ranolazine as a solution, 73% of the dose is sy
 The bioavailability of ranolazine from RANEXA tablets relative to that from a solution of ranolazine is 76%.
 Because ranolazine is a substrate of P-gp, inhibitors of P-gp may increase the absorption of ranolazine.
 
-Food (high-fat breakfast) has no important effect on the Cmax and AUC of ranolazine.
+Food (high-fat breakfast) has no important effect on the C max and AUC of ranolazine.
 Therefore, RANEXA may be taken without regard to meals.
 Over the concentration range of 0.25 to 10 µg/mL, ranolazine is approximately 62% bound to human plasma proteins.
 

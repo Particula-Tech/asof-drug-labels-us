@@ -44,7 +44,7 @@ In general, dose selection for an elderly patient should usually start at the lo
 ## 8.6 Use in Patients with Hepatic Impairment
 
 RANEXA is contraindicated in patients with liver cirrhosis.
-In a study of cirrhotic patients, the Cmax of ranolazine was increased 30% in cirrhotic patients with mild (Child-Pugh Class A) hepatic impairment, but increased 80% in cirrhotic patients with moderate (Child-Pugh Class B) hepatic impairment compared to patients without hepatic impairment.
+In a study of cirrhotic patients, the C max of ranolazine was increased 30% in cirrhotic patients with mild (Child-Pugh Class A) hepatic impairment, but increased 80% in cirrhotic patients with moderate (Child-Pugh Class B) hepatic impairment compared to patients without hepatic impairment.
 This increase was not enough to account for the 3-fold increase in QT prolongation seen in cirrhotic patients with mild to moderate hepatic impairment [see Clinical Pharmacology (12.2)].
 
 ## 8.7 Use in Patients with Renal Impairment
@@ -55,7 +55,7 @@ One subject required hemodialysis, while the other 2 subjects improved upon drug
 Monitor renal function periodically in patients with moderate to severe renal impairment.
 Discontinue RANEXA if acute renal failure develops.
 
-In a separate study, Cmax was increased between 40% and 50% in patients with mild, moderate, or severe renal impairment compared to patients with no renal impairment, suggesting a similar increase in exposure in patients with renal failure independent of the degree of impairment.
+In a separate study, C max was increased between 40% and 50% in patients with mild, moderate, or severe renal impairment compared to patients with no renal impairment, suggesting a similar increase in exposure in patients with renal failure independent of the degree of impairment.
 The pharmacokinetics of ranolazine has not been assessed in patients on dialysis.
 
 ## 8.8 Use in Patients with Heart Failure

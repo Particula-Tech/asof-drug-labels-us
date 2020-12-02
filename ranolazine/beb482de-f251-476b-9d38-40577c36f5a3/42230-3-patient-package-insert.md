@@ -1,4 +1,4 @@
-Patient Information RANEXA® (rah NEX ah) (ranolazine) extended-release tablets Dosing Strengths: 500 mg tablets 1000 mg tablets
+Patient Information RANEXA ® (rah NEX ah) (ranolazine) extended-release tablets Dosing Strengths: 500 mg tablets 1000 mg tablets
 
 Read this Patient Information before you start taking RANEXA and each time you get a refill.
 There may be new information.
@@ -17,12 +17,12 @@ Who should not take RANEXA?
 Do not take RANEXA if:
 
 - you take any of the following medicines:
-  - for fungus infection: ketoconazole (Nizoral®), itraconazole (Sporanox®, Onmel™)
-  - for infection: clarithromycin (Biaxin®)
+  - for fungus infection: ketoconazole (Nizoral ®), itraconazole (Sporanox ®, Onmel™)
+  - for infection: clarithromycin (Biaxin ®)
   - for depression: nefazodone
-  - for HIV: nelfinavir (Viracept®), ritonavir (Norvir®), lopinavir and ritonavir (Kaletra®), indinavir (Crixivan®), saquinavir (Invirase®)
-  - for tuberculosis (TB): rifampin (Rifadin®), rifabutin (Mycobutin®), rifapentine (Priftin®)
-  - for seizures: phenobarbital, phenytoin (Phenytek®, Dilantin®, Dilantin-125®), carbamazepine (Tegretol®)
+  - for HIV: nelfinavir (Viracept ®), ritonavir (Norvir ®), lopinavir and ritonavir (Kaletra ®), indinavir (Crixivan ®), saquinavir (Invirase ®)
+  - for tuberculosis (TB): rifampin (Rifadin ®), rifabutin (Mycobutin ®), rifapentine (Priftin ®)
+  - for seizures: phenobarbital, phenytoin (Phenytek ®, Dilantin ®, Dilantin-125 ®), carbamazepine (Tegretol ®)
   - St. John's wort (Hypericum perforatum)
 - you have scarring (cirrhosis) of your liver
 
