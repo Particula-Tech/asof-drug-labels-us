@@ -1,0 +1,22 @@
+{
+  "application_numbers": [
+    "NDA203826"
+  ],
+  "inn": "phenylephrine",
+  "labeler": "Civica, Inc.",
+  "package_ndcs": [
+    "72572-570-01",
+    "72572-570-10",
+    "72572-571-01",
+    "72572-571-25"
+  ],
+  "products": [
+    {
+      "form": "INJECTION",
+      "generic": "phenylephrine hydrochloride",
+      "name": "Phenylephrine Hydrochloride"
+    }
+  ],
+  "setid": "7a23ed28-3912-4398-b660-bf9ec3ee3926",
+  "source": "dailymed"
+}
