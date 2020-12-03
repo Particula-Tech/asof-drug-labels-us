@@ -72,6 +72,18 @@ Skin and Subcutaneous Tissue Disorders: Acneiform skin reactions
 
 Vascular Disorders: Hypotension, Orthostatic hypotension
 
+### Adverse Reactions Identified in Clinical Trials with Haloperidol Decanoate
+
+The adverse reactions listed below were identified in clinical trials with haloperidol decanoate (long-acting depot formulation), and reflect exposure to the active moiety haloperidol in 410 patients who participated in 13 clinical trials with haloperidol decanoate (15 to 500 mg/month) in the treatment of schizophrenia or schizoaffective disorder.
+These clinical trials comprised:
+
+- 1 double-blind, active comparator-controlled trial with fluphenazine decanoate.
+- 2 trials comparing the decanoate formulation to oral haloperidol.
+- 9 open-label trials.
+- 1 dose-response trial.
+
+Nervous System Disorders: Akinesia, Cogwheel rigidity, Masked facies.
+
 ## Postmarketing Experience
 
 The following adverse reactions relating to the active moiety haloperidol have been identified during postapproval use of haloperidol or haloperidol decanoate.

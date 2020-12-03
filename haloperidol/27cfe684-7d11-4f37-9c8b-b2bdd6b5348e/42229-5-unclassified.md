@@ -1,5 +1,3 @@
-(For Immediate Release)
-
 # INSTRUCTIONS FOR OPENING AMPULE
 
 |  | Step 1 |
@@ -14,11 +12,8 @@
 
 Product of Belgium
 
-Manufactured by: GlaxoSmithKline Manufacturing S.p.A.
-Parma, Italy
-
 Manufactured for: Janssen Pharmaceuticals, Inc. Titusville, NJ 08560
 
-Revised March 2019
+Revised November 2020
 
 © 2005 Janssen Pharmaceuticals Companies
