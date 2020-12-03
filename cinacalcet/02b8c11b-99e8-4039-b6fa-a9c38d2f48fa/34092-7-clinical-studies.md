@@ -30,8 +30,8 @@ Effects of Cinacalcet Hydrochloride Tablets on iPTH, Ca x P, Serum Calcium, and 
 | Placebo (n = 205) | Cinacalcet hydrochloride tablets (n = 205) | Placebo (n =165) | Cinacalcet hydrochloride tablets (n =166) | Placebo (n =101) | Cinacalcet hydrochloride tablets (n =294) |  |
 | iPTH |  |  |  |  |  |  |
 | Baseline (pg/mL): Median Mean (SD) | 535 651 (398) | 537 636 (341) | 556 630 (317) | 547 652 (372) | 670 832 (486) | 703 848 (685) |
-| Evaluation Phase (pg/mL) Median Percent Change Patients Achieving Primary Endpoint (iPTH ≤ 250 pg/mL) (%) iPTH value based on averaging over the evaluation phase (defined as weeks 13 to 26 in studies 1 and 2 and weeks 17 to 26 in study 3). Values shown are medians unless indicated otherwise. | 563 | 275 | 592 | 238 | 737 | 339 |
-| +3.8 4% | -48.3 41%p < 0.001 compared with placebo; p-values presented for primary endpoint only. | +8.4 7% | -54.1 46% | +2.3 6% | -48.2 35% |  |
+| Evaluation Phase (pg/mL) Median Percent Change Patients Achieving Primary Endpoint (iPTH ≤ 250 pg/mL) (%)a | 563 | 275 | 592 | 238 | 737 | 339 |
+| +3.8 4% | -48.3 41%** | +8.4 7% | -54.1 46%** | +2.3 6% | -48.2 35%** |  |
 | Patients Achieving ≥ 30% Reduction in iPTH (%)a Patients Achieving iPTH ≤ 250 pg/mL and Ca x P < 55 mg2/dL2 (%) | 11% 1% | 61% 32% | 12% 5% | 68% 35% | 10% 5% | 59% 28% |
 | Ca x P |  |  |  |  |  |  |
 | Baseline (mg2/dL2) Evaluation Phase (mg2/dL2) Median Percent Change | 62 59 -2.0 | 61 52 -14.9 | 61 59 -3.1 | 61 47 -19.7 | 61 57 -4.8 | 59 48 -15.7 |
@@ -39,6 +39,8 @@ Effects of Cinacalcet Hydrochloride Tablets on iPTH, Ca x P, Serum Calcium, and 
 | Baseline (mg/dL) Evaluation Phase (mg/dL) Median Percent Change | 9.8 9.9 +0.5 | 9.8 9.1 -5.5 | 9.9 9.9 +0.1 | 10.0 9.1 -7.4 | 9.9 10.0 +0.3 | 9.8 9.1 -6.0 |
 | Phosphorus |  |  |  |  |  |  |
 | Baseline (mg/dL) Evaluation Phase (mg/dL) Median Percent Change | 6.3 6.0 -1.0 | 6.1 5.6 -9.0 | 6.1 5.9 -2.4 | 6.0 5.1 -12.4 | 6.1 5.6 -5.6 | 6.0 5.3 -8.6 |
+| **p < 0.001 compared with placebo; p-values presented for primary endpoint only. |  |  |  |  |  |  |
+| a iPTH value based on averaging over the evaluation phase (defined as weeks 13 to 26 in studies 1 and 2 and weeks 17 to 26 in study 3). Values shown are medians unless indicated otherwise. |  |  |  |  |  |  |
 
 Figure 1.
 Mean (SE) iPTH Values (Pooled Phase 3 Studies)

@@ -16,7 +16,7 @@ Reductions in PTH are associated with a decrease in bone turnover and bone fibro
 
 ## 12.3 Pharmacokinetics
 
-Absorbtion and Distribution
+Absorption and Distribution
 
 After oral administration of cinacalcet, Cmax is achieved in approximately 2 to 6 hours.
 Cinacalcet Cmax and AUC(0-infinite) were increased by 82% and 68%, respectively, following administration with a high-fat meal compared with fasting in healthy volunteers.

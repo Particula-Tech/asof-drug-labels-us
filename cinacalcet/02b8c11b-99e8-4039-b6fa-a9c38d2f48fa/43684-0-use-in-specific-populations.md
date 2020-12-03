@@ -38,12 +38,16 @@ The developmental and health benefits of breastfeeding should be considered alon
 
 The safety and efficacy of cinacalcet hydrochloride tablets have not been established in pediatric patients.
 
-Dosing with cinacalcet hydrochloride in a pediatric study 1 was stopped because of a fatality in a cinacalcet hydrochloride-treated individual.
-The individual was noted to be severely hypocalcemic at the time of death.
-The cause of death was multifactorial and a contribution of cinacalcet hydrochloride to the death could not be excluded [see Warnings and Precautions (5.1)].
+The use of Cinacalcet hydrochloride for the treatment of secondary HPT in pediatric patients with CKD on dialysis was evaluated in two randomized, controlled studies (Pediatric Study 1 and Study 2) where 47 pediatric patients aged 6 years to less than 18 years received at least one dose of Cinacalcet hydrochloride and in one single-arm study (Pediatric Study 3) where 17 pediatric patients aged 28 days to less than 6 years received at least one dose of Cinacalcet hydrochloride.
 
-Additional information describing clinical studies in which efficacy was not demonstrated in pediatric patients is approved for Amgen Inc.'s SENSIPAR® (cinacalcet hydrochloride).
-However, due to Amgen Inc.'s marketing exclusivity rights, this drug product is not labeled with that pediatric information.
+Dosing with cinacalcet hydrochloride in a Pediatric Study 1 was stopped because of a fatality in a cinacalcet hydrochloride-treated individual.
+The individual was noted to be severely hypocalcemic at the time of death.
+The cause of death was multifactorial and a contribution of cinacalcet hydrochloride to the death could not be excluded.
+[see Warnings and Precautions (5.1)].
+
+Study 1 was terminated and changes to Cinacalcet hydrochloride dosing after the fatality were implemented in Pediatric Study 2 and Study 3 to minimize the risk of severe hypocalcemia.
+The data in Pediatric Studies 2 and 3 were insufficient to establish the safety and efficacy of Cinacalcet hydrochloride for the treatment of secondary HPT in pediatric patients with CKD on dialysis.
+In aggregate, the pediatric studies did not establish a safe and effective Cinacalcet hydrochloride dosing regimen for the pediatric population.
 
 ## 8.5 Geriatric Use
 
