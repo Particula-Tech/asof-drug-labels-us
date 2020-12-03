@@ -29,10 +29,11 @@ Paramus, NJ 07652
 
 Manufactured by:
 
-China Chemical & Pharmaceutical Co., Ltd.
+TWi Pharmaceuticals, Inc.
 
-Tainan City, 72042, Taiwan
+Taoyuan City, 32063, Taiwan
 
 OS011
 
-01/2017
+Rev.
+12/2020
