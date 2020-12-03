@@ -1,4 +1,4 @@
-# ADVERSE REACTIONS
+# ADVERSE REACTIONS:
 
 In controlled clinical trials of twice-daily administration, the total incidence of adverse reactions associated with the use of Fluticasone Propionate Cream was approximately 4%.
 These adverse reactions were usually mild; self-limiting; and consisted primarily of pruritus, dryness, numbness of fingers, and burning.
@@ -16,4 +16,4 @@ Local drug-related adverse events were transient burning, resolving the same day
 The following local adverse reactions have been reported infrequently with topical corticosteroids, and they may occur more frequently with the use of occlusive dressings and higher potency corticosteroids.
 These reactions are listed in an approximately decreasing order of occurrence: irritation, folliculitis, acneiform eruptions, hypopigmentation, perioral dermatitis, allergic contact dermatitis, secondary infection, skin atrophy, striae, and miliaria.
 Also, there are reports of the development of pustular psoriasis from chronic plaque psoriasis following reduction or discontinuation of potent topical corticosteroid products.
-To report SUSPECTED ADVERSE REACTIONS, contact G&W Laboratories, Inc. at 1-800-922-1038 or FDA at 1-800-FDA-1088 or www.fda.gov/medwatch.
+To report SUSPECTED ADVERSE REACTIONS, contact Cosette Pharmaceuticals, Inc. at 1-800-922-1038 or FDA at 1-800-FDA-1088 or www.fda.gov/medwatch.
