@@ -10,7 +10,9 @@ The following adverse reactions are described elsewhere in the labeling:
 - •Macular Edema [see Warnings and Precautions (5.6)]
 - •Hypersensitivity [see Contraindications (4)]
 
-## 6.1 Clinical Trial Experience
+## 6.1 Clinical Trials Experience
+
+Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in practice.
 
 The following information is based on clinical trial results from a multicenter, double-masked, randomized, vehicle-controlled, parallel study including 278 adult patients for four months of treatment.
 
@@ -24,4 +26,4 @@ Additional adverse reactions reported with bimatoprost ophthalmic solution (Lumi
 
 The following adverse reactions have been identified during postapproval use of bimatoprost ophthalmic solution.
 Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
-The reactions include: dry skin of the eyelid and/or periocular area, eye swelling, eyelid edema, hypersensitivity (local allergic reactions), lacrimation increased, madarosis and trichorrhexis (temporary loss of a few lashes to loss of sections of eyelashes, and temporary eyelash breakage, respectively), periorbital and lid changes associated with a deepening of the eyelid sulcus, rash (including macular and erythematous), skin discoloration (periorbital), and vision blurred.
+The reactions include: dry skin of the eyelid and/or periocular area, eye swelling, eyelid edema, hordeolum, hypersensitivity (local allergic reactions), lacrimation increased, madarosis and trichorrhexis (temporary loss of a few lashes to loss of sections of eyelashes, and temporary eyelash breakage, respectively), periorbital and lid changes associated with a deepening of the eyelid sulcus, rash (including macular and erythematous), skin discoloration (periorbital), trichiasis, and vision blurred.

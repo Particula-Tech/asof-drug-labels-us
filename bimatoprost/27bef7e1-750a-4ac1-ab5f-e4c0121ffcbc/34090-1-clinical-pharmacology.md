@@ -19,12 +19,14 @@ Bimatoprost is moderately distributed into body tissues with a steady-state volu
 In human blood, bimatoprost resides mainly in the plasma.
 Approximately 12% of bimatoprost remains unbound in human plasma.
 
-### Metabolism
+### Elimination
+
+Metabolism
 
 Bimatoprost is the major circulating species in the blood once it reaches the systemic circulation.
 Bimatoprost then undergoes oxidation, N-deethylation, and glucuronidation to form a diverse variety of metabolites.
 
-### Elimination
+### Excretion
 
 Following an intravenous dose of radiolabeled bimatoprost (3.12 mcg/kg) to six healthy subjects, the maximum blood concentration of unchanged drug was 12.2 ng/mL and decreased rapidly with an elimination half-life of approximately 45 minutes.
 The total blood clearance of bimatoprost was 1.5 L/hr/kg.

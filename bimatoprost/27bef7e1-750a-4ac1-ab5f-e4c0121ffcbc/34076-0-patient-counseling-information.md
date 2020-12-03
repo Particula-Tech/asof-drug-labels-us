@@ -51,12 +51,9 @@ When to Seek Physician Advice
 Advise patients that if they develop a new ocular condition (e.g., trauma or infection), experience a sudden decrease in visual acuity, have ocular surgery, or develop any ocular reactions, particularly conjunctivitis and eyelid reactions, they should immediately seek their physician's advice concerning the continued use of bimatoprost ophthalmic solution.
 Patients on IOP-lowering medications should not use bimatoprost ophthalmic solution without prior consultation with their physician.
 
-Use with Contact Lenses
+Contact Lens Use
 
 Advise patients that bimatoprost ophthalmic solution contains benzalkonium chloride, which may be absorbed by and cause discoloration of soft contact lenses.
 Contact lenses should be removed prior to application of bimatoprost ophthalmic solution and may be reinserted 15 minutes following its administration.
 
 Manufactured by Alcon Laboratories, Inc. Fort Worth, Texas 76134 for Sandoz Inc. Princeton, NJ 08540
-
-Rev.
-September 2019

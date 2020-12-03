@@ -76,7 +76,7 @@ This helps minimize any potential for contamination from one eyelid to another.
 
 DO NOT APPLY in your eye or to the lower lid.
 ONLY use the sterile applicators supplied with bimatoprost ophthalmic solution to apply the product.
-If you miss a dose, don’t try to “catch up.”
+If you miss a dose, don’t try to “catch up”.
 Just apply bimatoprost ophthalmic solution the next evening.
 Fifty percent of patients treated with bimatoprost ophthalmic solution in a clinical study saw significant improvement by 2 months after starting treatment.
 
@@ -113,6 +113,3 @@ The pH during its shelf life ranges from 6.8 to 7.8.
 Lumigan® is a registered trademark of Allergan, Inc.
 
 Manufactured by Alcon Laboratories, Inc. Fort Worth, Texas 76134 for Sandoz Inc. Princeton, NJ 08540
-
-Rev.
-September 2019

@@ -19,7 +19,7 @@ Data
 
 Animal Data
 
-In an embryofetal development rat study, abortion was observed in pregnant rats administered bimatoprost orally during organogenesis at 0.6 mg/kg/day (94 times the human systemic exposure following topical ophthalmic administration of bimatoprost 0.03% to the cornea or conjunctival sac bilaterally once daily, based on AUC.
+In an embryofetal development rat study, abortion was observed in pregnant rats administered bimatoprost orally during organogenesis at 0.6 mg/kg/day (94 times the human systemic exposure following topical ophthalmic administration of bimatoprost 0.03% to the cornea or conjunctival sac bilaterally once daily, based on AUC).
 The No Observed Adverse Effect Level (NOAEL) for abortion was 0.3 mg/kg/day (estimated at 47 times the human systemic exposure following topical ophthalmic administration of bimatoprost 0.03% to the cornea or conjunctival sac bilaterally once daily based on AUC).
 No abnormalities were observed in rat fetuses at doses up to 0.6 mg/kg/day.
 
@@ -28,7 +28,7 @@ The NOAEL for abortion and early delivery was 0.1 mg/kg/day (2.6 times the human
 No abnormalities were observed in mouse fetuses at doses up to 0.6 mg/kg/day (72 times the human systemic exposure following topical ophthalmic administration of bimatoprost 0.03% to the cornea or conjunctival sac bilaterally once daily, based on AUC).
 
 In a pre/postnatal development study, treatment of pregnant rats with bimatoprost orally from gestation day 7 to lactation day 20 resulted in reduced gestation length, increased late resorptions, fetal deaths, and postnatal pup mortality, and reduced pup body weight at doses greater than or equal to 0.3 mg/kg/day.
-These effects were observed at exposures at least 41 times the human systemic exposure following topical ophthalmic administration of bimatoprost 0.03% to the cornea or conjunctival sac bilaterally once daily, based on AUC).
+These effects were observed at exposures at least 41 times the human systemic exposure following topical ophthalmic administration of bimatoprost 0.03% to the cornea or conjunctival sac bilaterally once daily, based on AUC.
 The NOAEL for postnatal development and mating performance of the offspring was 0.1 mg/kg/day (estimated at 14 times the human systemic exposure following topical ophthalmic administration of bimatoprost 0.03% to the cornea or conjunctival sac bilaterally once daily, based on AUC).
 
 ## 8.2 Lactation
