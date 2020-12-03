@@ -2,7 +2,7 @@
 
 ## 2.1 Recommended Dose for Metastatic CRPC
 
-The recommended dose of abiraterone acetate tablets are 1,000 mg (four 250 mg tablets) orally once daily with prednisone 5 mg orally twice daily.
+The recommended dose of abiraterone acetate tablets is 1,000 mg (four 250 mg tablets) orally once daily with prednisone 5 mg orally twice daily.
 
 ## 2.3 Important Administration Instructions
 

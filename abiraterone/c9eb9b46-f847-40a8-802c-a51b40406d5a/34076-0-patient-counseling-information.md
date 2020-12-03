@@ -19,6 +19,11 @@ Hepatotoxicity
   Inform patients that their liver function will be monitored using blood tests.
   Advise patients to immediately report symptoms of hepatotoxicity to their healthcare provider [see Warnings and Precautions (5.3)].
 
+Hypoglycemia
+
+- Inform patients that severe hypoglycemia has been reported when abiraterone acetate was administered to patients with pre-existing diabetes who were receiving medications containing thiazolidinediones (including pioglitazone) or repaglinide – antidiabetic drugs.
+  Advise patients with diabetes to monitor glucose levels during and after treatment with abiraterone acetate [see Warnings and Precautions (5.6) and Drug Interactions (7.2)].
+
 Use in Combination with Radium Ra 223 Dichloride
 
 - Advise patients that radium Ra 223 dichloride showed an increase in mortality and an increased rate of fracture when used in combination with abiraterone acetate plus prednisone/prednisolone.
@@ -38,7 +43,7 @@ Embryo-Fetal Toxicity
 
 - Inform patients that abiraterone acetate may harm a developing fetus and can cause loss of pregnancy.
 - Advise males with female partners of reproductive potential to use effective contraception during treatment and for 3 weeks after the final dose of abiraterone acetate [see Use in Specific Populations (8.1)].
-- Advise females who are pregnant or women who may be pregnant should not handle abiraterone acetate 250 mg tablets or other abiraterone acetate tablets if broken, crushed, or damaged without protection, e.g., gloves [see Use in Specific Populations (8.1) and How Supplied/Storage and Handling (16)].
+- Advise females who are pregnant or women who may be pregnant not to handle abiraterone acetate 250 mg uncoated tablets or other abiraterone acetate tablets if broken, crushed, or damaged without protection, e.g., gloves [see Use in Specific Populations (8.1) and How Supplied/Storage and Handling (16)].
 
 Infertility
 
@@ -47,4 +52,4 @@ Infertility
 Distributed by: Amneal Pharmaceuticals LLC Bridgewater, NJ 08807
 
 Rev.
-07-2019-02
+11-2020-04

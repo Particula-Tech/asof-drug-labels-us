@@ -7,7 +7,7 @@ Concurrent use of spironolactone was not allowed during the study period.
 
 COU-AA-301: Patients with metastatic CRPC who had received prior docetaxel chemotherapy
 
-In COU-AA-301 (NCT00638690), a total of 1195 patients were randomized 2:1 to receive either abiraterone acetate orally at a dose of 1,000 mg once daily in combination with prednisone 5 mg orally twice daily (N=797) or placebo once daily plus prednisone 5 mg orally twice daily (N=398).
+In COU-AA-301 (NCT00638690), a total of 1,195 patients were randomized 2:1 to receive either abiraterone acetate orally at a dose of 1,000 mg once daily in combination with prednisone 5 mg orally twice daily (N=797) or placebo once daily plus prednisone 5 mg orally twice daily (N=398).
 Patients randomized to either arm were to continue treatment until disease progression (defined as a 25% increase in PSA over the patient’s baseline/nadir together with protocol-defined radiographic progression and symptomatic or clinical progression), initiation of new treatment, unacceptable toxicity or withdrawal.
 
 The following patient demographics and baseline disease characteristics were balanced between the treatment arms.

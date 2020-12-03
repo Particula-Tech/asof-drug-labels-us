@@ -88,7 +88,7 @@ Table 2: Laboratory Abnormalities of Interest in COU-AA-301
 
 COU-AA-302: Metastatic CRPC Prior to Chemotherapy
 
-COU-AA-302 enrolled 1088 patients with metastatic CRPC who had not received prior cytotoxic chemotherapy.
+COU-AA-302 enrolled 1,088 patients with metastatic CRPC who had not received prior cytotoxic chemotherapy.
 Patients were ineligible if AST and/or ALT ≥2.5X ULN and patients were excluded if they had liver metastases.
 
 Table 3 shows adverse reactions on the abiraterone acetate arm in COU-AA-302 that occurred in ≥5% of patients with a ≥2% absolute increase in frequency compared to placebo.
@@ -173,3 +173,5 @@ Musculoskeletal and Connective Tissue Disorders: myopathy, including rhabdomyoly
 Hepatobiliary Disorders: fulminant hepatitis, including acute hepatic failure and death.
 
 Cardiac Disorders: QT prolongation and Torsades de Pointes (observed in patients who developed hypokalemia or had underlying cardiovascular conditions).
+
+Immune System Disorders: Hypersensitivity: anaphylactic reactions (severe allergic reactions that include, but are not limited to difficulty swallowing or breathing, swollen face, lips, tongue or throat, or an itchy rash (urticaria)).

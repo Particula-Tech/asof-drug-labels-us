@@ -13,6 +13,7 @@ Before taking abiraterone acetate tablets, tell your healthcare provider about a
 
 - have heart problems
 - have liver problems
+- have diabetes
 - have a history of adrenal problems
 - have a history of pituitary problems
 - are receiving any other treatment for prostate cancer
@@ -68,11 +69,11 @@ Tell your healthcare provider if you get any of the following symptoms:
 | headache | swelling in your legs or feet |
 
 - Adrenal problems may happen if you stop taking prednisone, get an infection, or are under stress.
-- Liver problems.
+- Severe liver problems.
   You may develop changes in liver function blood test.
   Your healthcare provider will do blood tests to check your liver before treatment with abiraterone acetate tablets and during treatment with abiraterone acetate tablets.
   Liver failure may occur, which can lead to death.
-  Tell your healthcare provider if you notice any of the following changes:
+  Tell your healthcare provider right away if you notice any of the following changes:
 
 - yellowing of the skin or eyes
 - darkening of the urine
@@ -80,6 +81,23 @@ Tell your healthcare provider if you get any of the following symptoms:
 
 - Increased risk of bone fracture and death when abiraterone acetate tablets and prednisone or prednisolone, is used in combination with a type of radiation called radium Ra 223 dichloride.
   Tell your healthcare provider about any other treatments you are taking for prostate cancer.
+
+- Severe low blood sugar (hypoglycemia).
+  Severe low blood sugar with abiraterone acetate tablets can happen in people who have diabetes and take certain antidiabetic medicines.
+  You and/or your healthcare provider should check your blood sugar levels regularly during treatment with abiraterone acetate tablets and after you stop treatment.
+  Your healthcare provider may also need to change the dose of your antidiabetic medicines.
+  Signs and symptoms of low blood sugar may include:
+
+- headache
+- drowsiness
+- weakness
+- dizziness
+- confusion
+- irritability
+- hunger
+- fast heart beat
+- sweating
+- feeling jittery
 
 The most common side effects of abiraterone acetate tablets include:
 
@@ -106,7 +124,7 @@ How should I store abiraterone acetate tablets?
 
 Keep abiraterone acetate tablets and all medicines out of the reach of children.
 
-General information about abiraterone acetate tablets.
+General information aboutthe safe and effective use of abiraterone acetate tablets.
 
 Medicines are sometimes prescribed for purposes other than those listed in a Patient Information leaflet.
 
@@ -116,17 +134,22 @@ It may harm them.
 
 You can ask your healthcare provider or pharmacist for information about abiraterone acetate tablets that is written for health professionals.
 
-For more information, call Amneal Pharmaceuticals at 1-877-835-5472 or go to www.amneal.com.
-
 What are the ingredients of abiraterone acetate tablets?
 
 Active ingredient: abiraterone acetate, USP
 
-Inactive ingredients: colloidal silicon dioxide, croscarmellose sodium, lactose monohydrate, magnesium stearate, microcrystalline cellulose, povidone, and sodium lauryl sulfate.
+Inactive ingredients:
 
-Distributed by: Amneal Pharmaceuticals LLC Bridgewater, NJ 08807
+250 mg uncoated tablets: colloidal silicon dioxide, croscarmellose sodium, lactose monohydrate, magnesium stearate, microcrystalline cellulose, povidone, and sodium lauryl sulfate.
 
-Rev.
-07-2019-02
+For more information, call Amneal Pharmaceuticals at 1-877-835-5472 or go to www.amneal.com.
+
+Distributed by:
+
+Amneal Pharmaceuticals LLC
+
+Bridgewater, NJ 08807
 
 This Patient Information has been approved by the U.S. Food and Drug Administration.
+
+Revised:11-2020-04
