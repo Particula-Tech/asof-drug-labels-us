@@ -1,13 +1,47 @@
-CONTAINER LABEL - 0.075 mg/1.5 mL
+PRINCIPAL DISPLAY PANEL
 
 NDC 67184-0515-1
 
-CARTON LABEL - 0.075 mg/1.5 mL
+Palonosetron HCl Injection 0.075 mg/1.5 mL (0.05 mg/mL)
+
+For intravenous injection only.
+1.5-mL single-dose sterile vial.
+Discard unused portion.
+
+Rx Only
+
+PRINCIPAL DISPLAY PANEL
 
 NDC 67184-0515-2
 
-CONTAINER LABEL - 0.25 mg/5 mL NDC 67184-0514-1
+Palonosetron HCl Injection 0.075 mg/1.5 mL (0.05 mg/mL*)
 
-CARTON LABEL - 0.25 mg/5 mL
+For intravenous injection only.
+Five 1.5 mL single-dose sterile vials.
+Discard unused portion.
+
+Rx Only
+
+PRINCIPAL DISPLAY PANEL
 
 NDC 67184-0514-1
+
+Palonosetron HCl Injection 0.25 mg/5 mL (0.05 mg/mL)
+
+For intravenous injection only.
+5 mL single-dose sterile vial.
+Discard unused portion.
+
+Rx Only
+
+PRINCIPAL DISPLAY PANEL
+
+NDC 67184-0514-1
+
+Palonosetron HCl Injection 0.25 mg/5 mL (0.05 mg/mL*)
+
+For intravenous injection only.
+5 mL single-dose sterile vial.
+Discard unused portion.
+
+Rx Only
