@@ -9,24 +9,22 @@ Advise the patient:
 - Report any signs of local adverse reaction to their healthcare provider.
 - Do not use on the face, underarms, or groin areas unless directed by the healthcare provider.
 
-Manufactured by: G&W Laboratories, Inc. South Plainfield, NJ 07080
+Distributed by: Cosette Pharmaceuticals, Inc. South Plainfield, NJ 07080
 
-8-0632GW3 Rev.
-02/2017
+8-0632CP2 Rev.
+09/2020
 
 PATIENT INFORMATION
 
 Fluticasone Propionate Ointment, USP 0.005%
 
-Important: Fluticasone Propionate Ointment, 0.005% is for use on skin only (topical).
-Do not get Fluticasone Propionate Ointment, 0.005% near or in your eyes, mouth, or vagina.
+Important: Fluticasone Propionate Ointment, 0.005% is for use on skin only (topical).Do not get Fluticasone Propionate Ointment, 0.005% near or in your eyes, mouth, or vagina.
 
 Read this Patient Information before you start using Fluticasone Propionate Ointment, 0.005% and each time you get a refill.
 There may be new information.
 This information does not take the place of talking to your healthcare provider about your medical condition or your treatment.
 
-What is Fluticasone Propionate Ointment, 0.005%?
-Fluticasone Propionate Ointment, 0.005% is a prescription corticosteroid medicine used on the skin (topical) for the relief of inflammation and itching caused by certain skin conditions in adults.
+What is Fluticasone Propionate Ointment, 0.005%?Fluticasone Propionate Ointment, 0.005% is a prescription corticosteroid medicine used on the skin (topical) for the relief of inflammation and itching caused by certain skin conditions in adults.
 
 It is not known if Fluticasone Propionate Ointment, 0.005% is safe and effective in children.
 Fluticasone Propionate Ointment, 0.005% is not recommended for use in children.
@@ -78,8 +76,7 @@ How should I store Fluticasone Propionate Ointment, 0.005%?
 
 Keep Fluticasone Propionate Ointment, 0.005% and all medicines out of the reach of children.
 
-General information about the safe and effective use of Fluticasone Propionate Ointment, 0.005%.
-Medicines are sometimes prescribed for purposes other than those listed in a Patient Information leaflet.
+General information about the safe and effective use of Fluticasone Propionate Ointment, 0.005%.Medicines are sometimes prescribed for purposes other than those listed in a Patient Information leaflet.
 Do not use Fluticasone Propionate Ointment, 0.005% for a condition for which it was not prescribed.
 Do not give Fluticasone Propionate Ointment, 0.005% to other people, even if they have the same symptoms you have.
 It may harm them.
@@ -88,9 +85,12 @@ You can ask your pharmacist or healthcare provider for information about Flutica
 What are the ingredients in Fluticasone Propionate Ointment, 0.005%?
 Active ingredient: fluticasone propionate Inactive ingredients: base of mineral oil, microcrystalline wax, propylene glycol, and sorbitan sesquioleate
 
-Manufactured by: G&W Laboratories, Inc. South Plainfield, NJ 07080 8-0632GW3 Rev.
-02/2017
+Distributed by: Cosette Pharmaceuticals, Inc. South Plainfield, NJ 07080
+
+8-0632CP2 Rev.
+09/2020
 
 This Patient Information has been approved by the U.S. Food and Drug Administration.
 
-Revised: February 2017
+Rev.
+09/2020
