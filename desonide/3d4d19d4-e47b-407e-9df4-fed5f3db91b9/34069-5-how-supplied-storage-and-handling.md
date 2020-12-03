@@ -8,4 +8,4 @@ Store at 20-25°C (68-77°F) [see USP Controlled Room Temperature].
 Manufactured by: Encube Ethicals Pvt.
 Ltd. Plot No. C1, Madkaim Ind.
 Estate, Madkaim, Post Mardol, Ponda, Goa-403 404, India.
-Distributed by: Encube Ethicals, Inc. 200 Meredith Avenue, Suite 101A Durham, NC 27713 USA Rev: 03 June 2019
+Distributed by: Encube Ethicals, Inc. 200 Meredith Avenue, Suite 101A Durham, NC 27713 USA Rev: 04 December 2019
