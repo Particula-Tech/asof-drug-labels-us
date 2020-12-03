@@ -2,28 +2,62 @@
 
 ## 8.1. Pregnancy
 
-Pregnancy Category C
+Risk Summary
 
-There are no adequate and well-controlled studies of Doxepin HCl Tablets in pregnant women.
-Doxepin HCl Tablets should be used during pregnancy only if the potential benefit justifies the potential risk to the fetus.
-Administration of doxepin to pregnant animals resulted in adverse effects on offspring development at doses greater than the maximum recommended human dose (MRHD) of 6 mg/day.
+Available data from published epidemiologic studies and postmarketing reports have not established an increased risk of major birth defects or miscarriage (see Data).
+There are risks of poor neonatal adaptation with exposure to tricyclic antidepressants (TCAs), including doxepin, during pregnancy (see Clinical Considerations).
+In animal reproduction studies, oral administration of doxepin to rats and rabbits during the period of organogenesis caused adverse developmental effects at doses 65 and 23 times the maximum recommended human dose (MRHD) of 6 mg/day based on AUC, respectively.
+Oral administration of doxepin to pregnant rats during pregnancy and lactation resulted in decreased pup survival and a delay in pup growth at doses 60 times the MRHD based on AUC (see Data).
 
-When doxepin (30, 100 and 150 mg/kg/day) was administered orally to pregnant rats during the period of organogenesis, developmental toxicity (increased incidences of fetal structural abnormalities and decreased fetal body weights) was noted at ≥100 mg/kg/day.
-The plasma exposures (AUC) at the no-effect dose for embryo-fetal developmental toxicity in rats (30 mg/kg/day) are approximately 6 and 3 times the plasma AUCs for doxepin and nordoxepin (the primary metabolite in humans), respectively, at the MRHD.
-When administered orally to pregnant rabbits (10, 30 and 60 mg/kg/day) during the period of organogenesis, fetal body weights were reduced at the highest dose in the absence of maternal toxicity.
-The plasma exposures (AUC) at the no-effect dose for developmental effects (30 mg/kg/day) are approximately 6 and 18 times the plasma AUCs for doxepin and nordoxepin, respectively, at the MRHD.
-Oral administration of doxepin (10, 30 and 100 mg/kg/day) to rats throughout the pregnancy and lactation periods resulted in decreased pup survival and transient growth delay at the highest dose.
-The plasma exposures (AUC) at the no-effect dose for adverse effects on pre- and postnatal development in rats (30 mg/kg/day) are approximately 3 and 2 times the plasma AUCs for doxepin and nordoxepin, respectively, at the MRHD.
+The estimated background risk of major birth defects and miscarriage for the indicated population is unknown.
+All pregnancies have a background risk of major birth defect, loss, or other adverse outcomes.
+In the U.S. general population, the estimated background risk of major birth defects and miscarriage in clinically recognized pregnancies is 2 to 4% and 15 to 20%, respectively.
 
-## 8.2. Labor and Delivery
+Clinical Considerations
 
-The effects of Doxepin HCl Tablets on labor and delivery in pregnant women are unknown.
+Fetal/Neonatal adverse reactions
 
-## 8.3. Nursing Mothers
+Neonates exposed to TCAs, including doxepin, late in the third trimester have developed complications requiring prolonged hospitalization, respiratory support, and tube feeding.
+Such complications can arise immediately upon delivery.
+Reported clinical findings have included respiratory distress, cyanosis, apnea, seizures, temperature instability, feeding difficulty, vomiting, hypoglycemia, hypotonia, hyperreflexia, tremor, jitteriness, irritability and constant crying.
+These findings are consistent with either direct toxic effects of TCAs or possibly a drug discontinuation syndrome.
+Monitor neonates who were exposed to Doxepin HCl Tablets in the third trimester of pregnancy for poor neonatal adaptation syndrome.
 
-Doxepin is excreted in human milk after oral administration.
-There has been a report of apnea and drowsiness occurring in a nursing infant whose mother was taking the higher dose of doxepin used to treat depression.
-Caution should be exercised when Doxepin HCl Tablets is administered to nursing women.
+Data
+
+Human Data
+
+Published epidemiologic studies of pregnant women exposed to TCAs, including doxepin, have not established an association with major birth defects, miscarriage or adverse maternal outcomes.
+Methodological limitations of these observational studies include small sample size and lack of adequate controls.
+
+Animal Data
+
+When doxepin (30, 100, and 150 mg/kg/day) was administered orally to pregnant rats during the period of organogenesis, developmental toxicity (increased incidences of fetal structural abnormalities consisting of non-ossified bones in the skull and sternum and decreased fetal body weights) and maternal toxicity were noted at ≥100 mg/kg/day, which produced plasma exposures (AUCs) of doxepin and nordoxepin (the primary metabolite in humans) approximately 65 and 53 times, respectively, the plasma AUCs at the MRHD.
+The plasma exposures at the no-effect dose for embryo-fetal developmental toxicity in rats (30 mg/kg/day) are approximately 6 and 5 times the plasma AUCs for doxepin and nordoxepin, respectively, at the MRHD.
+When doxepin (10, 30, and 60 mg/kg/day) was administered orally to pregnant rabbits during the period of organogenesis, fetal body weights were reduced at the highest dose in the absence of maternal toxicity, which produced plasma AUCs of doxepin and nordoxepin approximately 23 and 56 times, respectively, the plasma AUCs at the MRHD.
+The plasma exposures at the no-effect dose for developmental effects (30 mg/kg/day) are approximately 8 and 25 times the plasma AUCs for doxepin and nordoxepin, respectively, at the MRHD.
+Oral administration of doxepin (10, 30, and 100 mg/kg/day) to rats throughout pregnancy and lactation resulted in decreased pup survival and transient growth delay at the highest dose, which produced plasma AUCs of doxepin and nordoxepin approximately 60 and 39 times, respectively, the plasma AUCs at the MRHD.
+The plasma exposures at the no-effect dose for adverse effects on pre- and postnatal development in rats (30 mg/kg/day) are approximately 2 and 1 times the plasma AUCs for doxepin and nordoxepin, respectively, at the MRHD
+
+## 8.2. Lactation
+
+Risk Summary
+
+Data from the published literature report the presence of doxepin and nordoxepin in human milk.
+There are reports of excess sedation, respiratory depression, poor sucking and swallowing, and hypotonia in breastfed infants exposed to doxepin.
+There are no data on the effects of doxepin on milk production.
+Because of the potential for serious adverse reactions, including excess sedation and respiratory depression in a breastfed infant, clinicians should advise patients that breastfeeding is not recommended during treatment with Doxepin HCl Tablets.
+
+Clinical Considerations
+
+Infants exposed to Doxepin HCl Tablets through breast milk should be monitored for excess sedation, respiratory depression and hypotonia.
+
+## 8.3. Females and Males of Reproductive Potential
+
+Infertility
+
+Based on results from animal fertility studies conducted in rats, doxepin may reduce fertility in females and males of reproductive potential [see Nonclinical Toxicology (13.1)].
+It is unknown if the effects are reversible.
 
 ## 8.4. Pediatric Use
 
@@ -42,7 +76,7 @@ A starting dose of 3 mg is recommended in this population and evaluation prior t
 
 Patients with hepatic impairment may display higher doxepin concentrations than healthy individuals.
 Initiate Doxepin HCl Tablets treatment with 3 mg in patients with hepatic impairment and monitor closely for adverse daytime effects.
-[see Clinical Pharmacology (12.5)]
+[see Clinical Pharmacology (12.3)]
 
 ## 8.7. Use in Patients with Sleep Apnea
 

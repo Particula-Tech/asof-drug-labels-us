@@ -11,7 +11,7 @@ The following serious adverse reactions are discussed in greater detail in other
 The pre-marketing development program for Doxepin HCl Tablets included doxepin HCl exposures in 1017 subjects (580 insomnia patients and 437 healthy subjects) from 12 studies conducted in the United States.
 863 of these subjects (580 insomnia patients and 283 healthy subjects) participated in six randomized, placebo-controlled efficacy studies with Doxepin HCl Tablets doses of 1 mg, 3 mg, and 6 mg for up to 3-months in duration.
 
-Because clinical studies are conducted under widely varying conditions, adverse reaction rates observed in the clinical studies of a drug cannot be directly compared to rates in the clinical studies of another drug and may not reflect the rates observed in practice.
+Because clinical studies are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in practice.
 However, data from the Doxepin HCl Tablets studies provide the physician with a basis for estimating the relative contributions of drug and non-drug factors to adverse reaction incidence rates in the populations studied.
 
 Associated with Discontinuation of Treatment
@@ -33,8 +33,7 @@ Table 1 Incidence (%) of Treatment-Emergent Adverse Reactions in Long-term Place
 | Nervous System Disorders |  |  |  |
 | Somnolence/Sedation | 4 | 6 | 9 |
 | Infections and Infestations |  |  |  |
-| Upper Respiratory Tract | 2 | 4 | 2 |
-| Infection/Nasopharyngitis |  |  |  |
+| Upper Respiratory Tract Infection/Nasopharyngitis | 2 | 4 | 2 |
 | Gastroenteritis | 0 | 2 | 0 |
 | Gastrointestinal Disorders |  |  |  |
 | Nausea | 1 | 2 | 2 |
@@ -108,7 +107,6 @@ Skin and Subcutaneous Tissue Disorders: Infrequent: skin irritation; Rare: cold 
 Surgical and Medical Procedures: Rare: arthrodesis.
 
 Vascular Disorders: Infrequent: pallor; Rare: blood pressure inadequately controlled, hematoma, hot flush.
-
 In addition, the reactions below have been reported for other tricyclics and may be idiosyncratic (not related to dose).
 
 Allergic: photosensitization, skin rash.

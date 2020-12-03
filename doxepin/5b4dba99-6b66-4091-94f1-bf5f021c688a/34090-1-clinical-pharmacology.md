@@ -2,12 +2,13 @@
 
 ## 12.1. Mechanism of Action
 
-Doxepin binds with high affinity to the histamine H1 receptor (Ki < 1 nM) where it functions as an antagonist.
-The exact mechanism by which doxepin exerts its sleep maintenance effect is unknown but is believed due to its antagonism of the H1 receptor.
+The mechanism of action of doxepin in sleep maintenance is unclear; however, doxepin's effect could be mediated through antagonism of the H1 receptor.
 
 ## 12.2. Pharmacodynamics
 
-Cardiac Safety
+Doxepin has high binding affinity to the H1 receptor (Ki < 1 nM).
+
+Cardiac Electrophysiology
 
 In a thorough QTc prolongation clinical study in healthy subjects, doxepin had no effect on QT intervals or other electrocardiographic parameters after multiple daily doses up to 50 mg.
 
@@ -47,23 +48,23 @@ Doxepin is excreted in the urine mainly in the form of glucuronide conjugates.
 Less than 3% of a doxepin dose is excreted in the urine as parent compound or nordoxepin.
 The apparent terminal half-life (t ½) of doxepin was 15.3 hours and for nordoxepin was 31 hours.
 
-## 12.4. Drug Interactions
+Drug Interactions
 
 Since doxepin is metabolized by CYP2C19 and CYP2D6, inhibitors of these CYP isozymes may increase the exposure of doxepin.
 
-Cimetidine:
+Cimetidine
 
 The effect of cimetidine, a non-specific inhibitor of CYP1A2, 2C19, 2D6, and 3A4, on Doxepin HCl Tablets plasma concentrations was evaluated in healthy subjects.
 When cimetidine 300 mg BID was co-administered with a single dose of Doxepin HCl Tablets 6 mg, there was approximately a 2-fold increase in Doxepin HCl Tablets Cmax and AUC compared to Doxepin HCl Tablets given alone.
 A maximum dose of doxepin in adults and elderly should be 3 mg, when doxepin is co-administered with cimetidine.
 
-Sertraline:
+Sertraline
 
 The effect of sertraline HCl, a selective serotonin reuptake inhibitor, on doxepin plasma concentrations was evaluated in a daytime study conducted with 24 healthy subjects.
 Following co-administration of doxepin 6 mg with sertraline 50 mg (at steady-state), the doxepin mean AUC and Cmax estimates were approximately 21% and 32% higher, respectively, than those obtained following administration of doxepin alone.
 Psychomotor function as measured by the digit symbol substitution test and symbol copy test performance was decreased more at 2-4 hours post dosing for the combination of sertraline and doxepin as compared to doxepin alone, but subjective measures of alertness were comparable for the two treatments.
 
-## 12.5. Special Populations
+Special Populations
 
 Renal Impairment
 

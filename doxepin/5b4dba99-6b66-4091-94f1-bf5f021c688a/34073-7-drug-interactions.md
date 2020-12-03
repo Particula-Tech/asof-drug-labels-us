@@ -10,7 +10,7 @@ The ability of Doxepin HCl Tablets to induce CYP isozymes is not known.
 ## 7.2. Cimetidine
 
 Doxepin HCl Tablets exposure is doubled with concomitant administration of cimetidine, a nonspecific inhibitor of CYP isozymes.
-A maximum dose of 3 mg is recommended in adults and elderly when cimetidine is co-administered with Doxepin HCl Tablets [see Clinical Pharmacology (12.4)]
+A maximum dose of 3 mg is recommended in adults and elderly when cimetidine is co-administered with Doxepin HCl Tablets [see Clinical Pharmacology (12.3)]
 
 ## 7.3. Alcohol
 

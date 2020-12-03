@@ -1,8 +1,8 @@
 # 17. PATIENT COUNSELING INFORMATION
 
-Prescribers or other healthcare professionals should inform patients, their families, and their caregivers about the benefits and risks associated with treatment with hypnotics, should counsel them in appropriate use, and should instruct them to read the accompanying Medication Guide [see Medication Guide (17.4)].
+Advise the patient to read the FDA-approved patient labeling (Medication Guide).
 
-## 17.1. Sleep-driving and Other Complex Behaviors
+Sleep-driving and Other Complex Behaviors
 
 There have been reports of people getting out of bed after taking a hypnotic and driving their cars while not fully awake, often with no memory of the event.
 If a patient experiences such an episode, it should be reported to his or her doctor immediately, since "sleep-driving" can be dangerous.
@@ -13,15 +13,26 @@ As with "sleep-driving", patients usually do not remember these events.
 In addition, patients should be advised to report all concomitant medications to the prescriber.
 Patients should be instructed to report events such as "sleep-driving" and other complex behaviors immediately to the prescriber.
 
-## 17.2. Suicide risk and Worsening of Depression
+Suicide risk and Worsening of Depression:
 
 Patients, their families, and their caregivers should be encouraged to be alert to worsening of depression, including suicidal thoughts and actions.
 Such symptoms should be reported to the patient's prescriber or health professional.
 
-## 17.3. Administration Instructions
+Administration Instructions
 
 Patients should be counseled to take Doxepin HCl Tablets within 30 minutes of bedtime and should confine their activities to those necessary to prepare for bed.
 Doxepin HCl Tablets should not be taken with or immediately after a meal [see Dosage and Administration (2.3)].
 Advise patients NOT to take Doxepin HCl Tablets when drinking alcohol [see Warnings and Precautions (5.2, 5.4) and Drug Interactions (7.3)].
 
-## 17.4. Medication Guide
+Pregnancy
+
+Advise patients that Doxepin HCl Tablets use late in pregnancy may increase the risk for neonatal complications requiring prolonged hospitalization, respiratory support or tube feeding [see Use in Specific Populations (8.1)].
+
+Lactation
+
+Advise patients that breastfeeding is not recommended during treatment with Doxepin HCl Tablets [see Use in Specific Populations (8.2)].
+
+Infertility
+
+Inform patients that Doxepin HCl Tablets may cause reduced fertility.
+It is not known whether these effects on fertility are reversible [see Use in Specific Populations (8.3) and Nonclinical Toxicology (13.1)].

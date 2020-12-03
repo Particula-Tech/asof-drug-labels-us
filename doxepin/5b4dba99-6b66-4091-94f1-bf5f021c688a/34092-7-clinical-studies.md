@@ -14,6 +14,7 @@ Chronic Insomnia
 Adults
 
 A randomized, double-blind, parallel-group study was conducted in adults (N = 221) with chronic insomnia.
+
 Doxepin HCl Tablets 3 mg and 6 mg was compared to placebo out to 30 days.
 
 Doxepin HCl Tablets 3 mg and 6 mg were superior to placebo on objective WASO.
