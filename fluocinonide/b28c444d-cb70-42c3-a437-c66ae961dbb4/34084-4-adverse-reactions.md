@@ -10,4 +10,4 @@ These reactions are listed in an approximate decreasing order of occurrence:
 | Dryness | Perioral Dermatitis | Striae |
 | Folliculitis | Allergic Contact Dermatitis | Miliaria |
 
-To Report SUSPECTED ADVERSE REACTIONS, contact G&W Laboratories, Inc. at 1-800-922-1038 or FDA at 1-800-FDA-1088 or www.fda.gov/medwatch.
+To Report SUSPECTED ADVERSE REACTIONS, contact Cosette Pharmaceuticals Inc. at 1-800-922-1038 or FDA at 1-800-FDA-1088 or www.fda.gov/medwatch.

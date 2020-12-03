@@ -5,6 +5,11 @@ Fluocinonide Cream, USP 0.05% (Emulsified Base) is supplied in 15 g (NDC 0713-06
 Store at 20°-25°C (68°-77°F) [see USP Controlled Room Temperature].
 Do not refrigerate.
 
-Manufactured by: G&W Laboratories, Inc. South Plainfield, NJ 07080
+Manufactured for:
 
-GW 7268 Issued 07/2018 8-0664GWLNC1
+Cosette Pharmaceuticals,Inc.
+
+South Plainfield, NJ 07080
+
+GW 7306 Iss.
+08/2019 8-0664CPLNC1
