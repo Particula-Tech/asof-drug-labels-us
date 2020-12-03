@@ -1,0 +1,20 @@
+{
+  "application_numbers": [
+    "ANDA213815"
+  ],
+  "inn": "ramelteon",
+  "labeler": "Upsher-Smith Laboratories, LLC",
+  "package_ndcs": [
+    "0832-1250-11",
+    "0832-1250-30"
+  ],
+  "products": [
+    {
+      "form": "TABLET, FILM COATED",
+      "generic": "ramelteon",
+      "name": "Ramelteon"
+    }
+  ],
+  "setid": "2d22e6ae-2373-4a2f-8dda-d223230c6010",
+  "source": "dailymed"
+}
