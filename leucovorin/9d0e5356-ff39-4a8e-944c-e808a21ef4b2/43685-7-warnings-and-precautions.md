@@ -11,7 +11,7 @@ Delayed methotrexate excretion may be caused by a third space fluid accumulation
 Under such circumstances, higher doses of leucovorin or prolonged administration may be indicated.
 Doses higher than those recommended for oral use must be given intravenously.
 
-Because of the benzyl alcohol contained in certain diluents used for reconstituting Leucovorin Calcium for Injection, when doses greater than 10 mg/m2 are administered, Leucovorin Calcium for Injection should be reconstituted with Sterile Water for Injection, USP, and used immediately (see DOSAGE AND ADMINISTRATION).
+Because of the benzyl alcohol contained in certain diluents used for reconstituting leucovorin, when doses greater than 10 mg/m2 are administered, leucovorin should be reconstituted with Sterile Water for Injection, USP, and used immediately (see DOSAGE AND ADMINISTRATION).
 
 Because of the calcium content of the leucovorin solution, no more than 160 mg of leucovorin should be injected intravenously per minute (16 mL of a 10 mg/mL, or 8 mL of a 20 mg/mL solution per minute).
 
@@ -48,7 +48,7 @@ Dosage modifications of fluorouracil should be instituted as follows, based on t
 
 | Diarrhea and/or Stomatitis | WBC/mm3 Nadir | Platelets/mm3 Nadir | 5-FU Dose |
 | --- | --- | --- | --- |
-| Moderate | 1,000 - 1,900 | 25 - 75,000 | decrease 20% |
+| Moderate | 1,000 to 1,900 | 25 to 75,000 | decrease 20% |
 | Severe | < 1,000 | < 25,000 | decrease 30% |
 
 If no toxicity occurs, the 5-fluorouracil dose may increase 10%.

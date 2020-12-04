@@ -4,7 +4,7 @@ NDC 25021-813-10
 
 Rx only
 
-Leucovorin Calcium for Injection
+LEUCOVORIN Calcium for Injection, USP
 
 50 mg per vial
 
@@ -22,7 +22,7 @@ NDC 25021-814-30
 
 Rx only
 
-Leucovorin Calcium for Injection
+LEUCOVORIN Calcium for Injection, USP
 
 100 mg per vial
 
@@ -40,7 +40,7 @@ NDC 25021-815-30
 
 Rx only
 
-Leucovorin Calcium for Injection
+LEUCOVORIN Calcium for Injection, USP
 
 200 mg per vial
 
@@ -58,7 +58,7 @@ NDC 25021-816-30
 
 Rx only
 
-Leucovorin Calcium for Injection
+LEUCOVORIN Calcium for Injection, USP
 
 350 mg per vial
 

@@ -1,8 +1,8 @@
 # HOW SUPPLIED
 
-Leucovorin Calcium for Injection is supplied as follows:
+Leucovorin Calcium for Injection, USP is supplied as follows:
 
-| NDC | Leucovorin Calcium for Injection | Package Factor |
+| NDC | Leucovorin Calcium for Injection, USP | Package Factor |
 | --- | --- | --- |
 | 25021-813-10 | 50 mg Single-Dose Vial | 10 vials per carton |
 | 25021-814-30 | 100 mg Single-Dose Vial | 1 vial per carton |
@@ -23,6 +23,8 @@ Sterile, Nonpyrogenic, Preservative-free.
 
 The container closure is not made with natural rubber latex.
 
-SAGENT® Mfd. for SAGENT Pharmaceuticals Schaumburg, IL 60195 (USA) Made in India ©2016 Sagent Pharmaceuticals, Inc.
+SAGENT® Mfd. for SAGENT Pharmaceuticals Schaumburg, IL 60195 (USA) Made in Italy ©2019 Sagent Pharmaceuticals, Inc.
 
-Revised: April 2016
+September 2019
+
+SAGENT Pharmaceuticals®
