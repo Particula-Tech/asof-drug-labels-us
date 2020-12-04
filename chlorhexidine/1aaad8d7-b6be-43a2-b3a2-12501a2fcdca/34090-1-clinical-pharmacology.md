@@ -1,18 +1,19 @@
 # CLINICAL PHARMACOLOGY
 
-Chlorhexidine gluconate provides antimicrobial activity during oral rinsing.
-The clinical significance of 0.12% chlorhexidine gluconate's antimicrobial activities is not clear.
-Microbiological sampling of plaque has shown general reduction of counts of certain assayed bacteria, both aerobic and anaerobic, ranging from 54-97% through six-months' use.
+PerioGard® (Chlorhexidine Gluconate Oral Rinse USP, 0.12%) provides antimicrobial activity during oral rinsing.
+The clinical significance of chlorhexidine gluconate oral rinse's antimicrobial activities is not clear.
+Microbiological sampling of plaque has shown a general reduction of counts of certain assayed bacteria, both aerobic and anaerobic, ranging from 54-97% through six months' use.
 
-Use of chlorhexidine gluconate oral rinse in a six-month clinical study did not result in any significant changes in bacterial resistance, overgrowth of potentially opportunistic organisms or other adverse changes in the oral microbial ecosystem.
-Three months after chlorhexidine gluconate use was discontinued, the number of bacteria in plaque had returned to baseline levels and resistance of plaque bacteria to chlorhexidine gluconate was equal to that at baseline.
+Use of chlorhexidine gluconate oral rinse USP, 0.12% in a six-month clinical study did not result in any significant changes in bacterial resistance, overgrowth of potentially opportunistic organisms or other adverse changes in the oral microbial ecosystem.
+Three months after chlorhexidine gluconate oral rinse USP, 0.12% use was discontinued, the number of bacteria in plaque had returned to baseline levels and resistance of plaque bacteria to chlorhexidine gluconate was equal to that at baseline.
 
-## Pharmacokinetics
+## PHARMACOKINETICS
 
-Pharmacokinetic studies with chlorhexidine gluconate oral rinse USP, 0.12% indicate approximately 30% of the active ingredient is retained in the oral cavity following rinsing.
+Pharmacokinetic studies with a chlorhexidine gluconate oral rinse USP, 0.12% indicate approximately 30% of the active ingredient is retained in the oral cavity following rinsing.
 This retained drug is slowly released into the oral fluids.
+
 Studies conducted on human subjects and animals demonstrate chlorhexidine gluconate is poorly absorbed from the gastrointestinal tract.
-The mean plasma level of chlorhexidine gluconate reached a peak of 0.206 μg/g in humans 30 minutes after they ingested a 300 mg dose of the drug.
+The mean plasma level of chlorhexidine gluconate reached a peak of 0.206 µg/g in humans 30 minutes after they ingested a 300-mg dose of the drug.
 Detectable levels of chlorhexidine gluconate were not present in the plasma of these subjects 12 hours after the compound was administered.
 Excretion of chlorhexidine gluconate occurred primarily through the feces (~90%).
-Less than 1 % of the chlorhexidine gluconate ingested by these subjects was excreted in the urine.
+Less than 1% of the chlorhexidine gluconate ingested by these subjects was excreted in the urine.
