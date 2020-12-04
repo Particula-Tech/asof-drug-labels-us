@@ -6,8 +6,8 @@ Par Pharmaceutical
 
 Chestnut Ridge, NY 10977
 
-R09/18
+R11/2020
 
-OS116J-01-90-03
+OS116J-01-90-04
 
-3000791H
+3000791J
