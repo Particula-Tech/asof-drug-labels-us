@@ -11,7 +11,7 @@ The principal pharmacokinetic/pharmacodynamic parameter best associated with cli
 
 ## 12.3 Pharmacokinetics
 
-Daptomycin For Injection Administered over a 30-Minute Period in Adults
+Daptomycin for Injection Administered over a 30-Minute Period in Adults
 
 The mean and standard deviation (SD) pharmacokinetic parameters of daptomycin at steady- state following intravenous (IV) administration of daptomycin for injection over a 30-minute period at 4 to 12 mg/kg q24h to healthy young adults are summarized in Table 11.
 
@@ -21,11 +21,11 @@ Mean (SD) Daptomycin Pharmacokinetic Parameters in Healthy Adult Volunteers at S
 | Dose*† (mg/kg) |  |  |  | Pharmacokinetic Parameters‡ |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 |  |  | AUC0-24 (mcg•h/mL) | t1/2 (h) |  | Vss (L/kg) | CLT (mL/h/kg) |  | Cmax (mcg/mL) |
-| 4 (N=6) |  | 494 (75) | 8.1 (1) |  | 0.096 (0.009) | 8.3 (1.3) |  | 57.8 (3) |
-| 6 (N=6) |  | 632 (78) | 7.9 (1) |  | 0.101 (0.007) | 9.1 (1.5) |  | 93.9 (6) |
-| 8 (N=6) |  | 858 (213) | 8.3 (2.2) |  | 0.101 (0.013) | 9 (3) |  | 123.3 (16) |
-| 10 (N=9) |  | 1039 (178) | 7.9 (0.6) |  | 0.098 (0.017) | 8.8 (2.2) |  | 141.1 (24) |
-| 12 (N=9) |  | 1277 (253) | 7.7 (1.1) |  | 0.097 (0.018) | 9 (2.8) |  | 183.7 (25) |
+| 4 (N=6) |  | 494 (75) | 8.1 (1.0) |  | 0.096 (0.009) | 8.3 (1.3) |  | 57.8 (3.0) |
+| 6 (N=6) |  | 632 (78) | 7.9 (1.0) |  | 0.101 (0.007) | 9.1 (1.5) |  | 93.9 (6.0) |
+| 8 (N=6) |  | 858 (213) | 8.3 (2.2) |  | 0.101 (0.013) | 9 (3.0) |  | 123.3 (16.0) |
+| 10 (N=9) |  | 1039 (178) | 7.9 (0.6) |  | 0.098 (0.017) | 8.8 (2.2) |  | 141.1 (24.0) |
+| 12 (N=9) |  | 1277 (253) | 7.7 (1.1) |  | 0.097 (0.018) | 9 (2.8) |  | 183.7 (25.0) |
 
 * Daptomycin for injection was administered by IV infusion over a 30-minute period.
 
@@ -39,7 +39,7 @@ Daptomycin pharmacokinetics were generally linear and time-independent at daptom
 Steady-state trough concentrations were achieved by the third daily dose.
 The mean (SD) steady-state trough concentrations attained following the administration of 4, 6, 8, 10, and 12 mg/kg q24h were 5.9 (1.6), 6.7 (1.6), 10.3 (5.5), 12.9 (2.9), and 13.7 (5.2) mcg/mL, respectively.
 
-Daptomycin For Injection Administered over a 2-Minute Period in Adults
+Daptomycin for Injection Administered over a 2-Minute Period in Adults
 
 Following IV administration of daptomycin for injection over a 2-minute period to healthy adult volunteers at doses of 4 mg/kg (N=8) and 6 mg/kg (N=12), the mean (SD) steady-state systemic exposure (AUC) values were 475 (71) and 701 (82) mcg•h/mL, respectively.
 Values for maximum plasma concentration (Cmax) at the end of the 2-minute period could not be determined adequately in this study.
@@ -85,28 +85,19 @@ The mean Cmax ranged from 60 to 70 mcg/mL in patients with CLCR ≥30 mL/min, wh
 After administration of daptomycin for injection 6 mg/kg q24h by IV infusion over a 30-minute period, the mean Cmax ranged from 80 to 114 mcg/mL in patients with mild to moderate renal impairment and was similar to that of patients with normal renal function.
 
 Table 12.
-Mean (SD) Daptomycin Population Pharmacokinetic Parameters Following Infusion of Daptomycin For Injection 4 mg/kg or 6 mg/kg to Infected Adult Patients and Noninfected Adult Subjects with Various Degrees of Renal Function
+Mean (SD) Daptomycin Population Pharmacokinetic Parameters Following Infusion of Daptomycin for Injection 4 mg/kg or 6 mg/kg to Infected Adult Patients and Noninfected Adult Subjects with Various Degrees of Renal Function
 
 | Renal Function | Pharmacokinetic Parameters* |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- |
 | t1/2†(h)4 mg/kg | Vss†(L/kg)4 mg/kg | CLT†(mL/h/kg)4 mg/kg | AUC0-∞†(mcg•h/mL)4 mg/kg | AUCss‡ (mcg•h/mL)6 mg/kg | Cmin, ss‡ (mcg/mL)6 mg/kg |  |
-| Normal (CLCR >80 mL/min) | 9.39 (4.74) N=165 | 0.13 (0.05) N=165 | 10.9 (4) N=165 | 417 (155) N=165 | 545 (296) N=62 | 6.9 (3.5) N=61 |
-| Mild Renal Impairment (CLCR 50 to 80 mL/min) | 10.75 (8.36) N=64 | 0.12 (0.05) N=64 | 9.9 (4) N=64 | 466 (177) N=64 | 637 (215) N=29 | 12.4 (5.6) N=29 |
+| Normal (CLCR >80 mL/min) | 9.39 (4.74) N=165 | 0.13 (0.05) N=165 | 10.9 (4.0) N=165 | 417 (155) N=165 | 545 (296) N=62 | 6.9 (3.5) N=61 |
+| Mild Renal Impairment (CLCR 50 to 80 mL/min) | 10.75 (8.36) N=64 | 0.12 (0.05) N=64 | 9.9 (4.0) N=64 | 466 (177) N=64 | 637 (215) N=29 | 12.4 (5.6) N=29 |
 | Moderate Renal Impairment (CLCR 30 - <50 mL/min) | 14.70 (10.50) N=24 | 0.15 (0.06) N=24 | 8.5 (3.4) N=24 | 560 (258) N=24 | 868 (349) N=15 | 19 (9) N=14 |
 | Severe Renal Impairment (CLCR <30 mL/min) | 27.83 (14.85) N=8 | 0.20 (0.15) N=8 | 5.9 (3.9) N=8 | 925 (467) N=8 | 1050 (892) N=2 | 24.4 (21.4) N=2 |
 | Hemodialysis | 30.51 (6.51) N=16 | 0.16 (0.04) N=16 | 3.9 (2.1) N=16 | 1193 (399) N=16 | NA | NA |
 | CAPD | 27.56 (4.53) N=5 | 0.11 (0.02) N=5 | 2.9 (0.4) N=5 | 1409 (238) N=5 | NA | NA |
 
-|  | t1/2† (h) 4 mg/kg | Vss† (L/kg) 4 mg/kg |  | CLT† (mL/h/kg) 4 mg/kg |  | AUC0-∞† (mcg•h/mL) 4 mg/kg | AUCss‡ (mcg•h/mL) 6 mg/kg |  | Cmin, ss‡ (mcg/mL) 6 mg/kg |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Normal(CLCR >80 mL/min) | 9.39 (4.74) N=165 | 0.13 (0.05) N=165 |  | 10.9 (4) N=165 |  | 417 (155) N=165 | 545 (296) N=62 | 6.9 (3.5) N=61 |  |
-| Mild Renal Impairment (CLCR 50 to 80 mL/min) | 10.75 (8.36) N=64 | 0.12 (0.05) N=64 |  | 9.9 (4) N=64 |  | 466 (177) N=64 | 637 (215) N=29 | 12.4 (5.6) N=29 |  |
-| Moderate Renal Impairment(CLCR 30 - <50 mL/min) | 14.70 (10.50) N=24 | 0.15 (0.06) N=24 |  | 8.5 (3.4) N=24 |  | 560 (258) N=24 | 868 (349) N=15 | 19 (9) N=14 |  |
-| Severe Renal Impairment(CLCR <30 mL/min) | 27.83 (14.85) N=8 | 0.20 (0.15) N=8 |  | 5.9 (3.9) N=8 |  | 925 (467) N=8 | 1050, (892)N=2 | 24.4, (21.4)N=2 |  |
-| Hemodialysis | 30.51 (6.51) N=16 | 0.16 (0.04) N=16 |  | 3.9 (2.1) N=16 |  | 1193 (399) N=16 | NA | NA |  |
-| CAPD | 27.56 (4.53) N=5 | 0.11 (0.02) N=5 |  | 2.9 (0.4) N=5 |  | 1409 (238) N=5 | NA | NA |  |
-
-Note: daptomycin for injection was administered over a 30-minute period.
+Note: Daptomycin for injection was administered over a 30-minute period.
 
 * CLCR, creatinine clearance estimated using the Cockcroft-Gault equation with actual body weight; CAPD, continuous ambulatory peritoneal dialysis; AUC0-∞, area under the concentration-time curve extrapolated to infinity; AUCss, area under the concentration-time curve calculated over the 24-hour dosing interval at steady-state; Cmin,ss, trough concentration at steady-state; NA, not applicable.
 
@@ -164,7 +155,9 @@ Warfarin
 
 In 16 healthy adult subjects, administration of daptomycin for injection 6 mg/kg q24h by IV infusion over a 30 minute period for 5 days, with coadministration of a single oral dose of warfarin (25 mg) on the 5th day, had no significant effect on the pharmacokinetics of either drug and did not significantly alter the INR (International Normalized Ratio).
 
-SimvastatinIn 20 healthy adult subjects on a stable daily dose of simvastatin 40 mg, administration of daptomycin for injection 4 mg/kg q24h by IV infusion over a 30-minute period for 14 days (N=10) had no effect on plasma trough concentrations of simvastatin and was not associated with a higher incidence of adverse events, including skeletal myopathy, than in subjects receiving placebo once daily (N=10) [see Warnings and Precautions (5.2) and Drug Interactions (7.1)].
+Simvastatin
+
+In 20 healthy adult subjects on a stable daily dose of simvastatin 40 mg, administration of daptomycin for injection 4 mg/kg q24h by IV infusion over a 30-minute period for 14 days (N=10) had no effect on plasma trough concentrations of simvastatin and was not associated with a higher incidence of adverse events, including skeletal myopathy, than in subjects receiving placebo once daily (N=10) [see Warnings and Precautions (5.2) and Drug Interactions (7.1)].
 
 Probenecid
 
@@ -239,6 +232,6 @@ Staphylococcus epidermidis (including methicillin-resistant isolates)
 
 Staphylococcus haemolyticus
 
-Susceptibility Test Methods
+Susceptibility Testing
 
 For specific information regarding susceptibility test interpretive criteria and associated test methods and quality control standards recognized by FDA for daptomycin, please see:https://www.fda.gov/STIC.

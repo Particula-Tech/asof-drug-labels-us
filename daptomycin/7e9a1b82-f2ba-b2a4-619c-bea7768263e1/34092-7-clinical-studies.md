@@ -24,7 +24,7 @@ Investigator’s Primary Diagnosis in the cSSSI Trials in Adult Patients (Popula
 
 † The majority of cases were subsequently categorized as complicated cellulitis, major abscesses, or traumatic wound infections.
 
-One trial was conducted primarily in the United States and South Africa (study 9801), and the second was conducted at non-US sites only (study 9901).
+One trial was conducted primarily in the United States and South Africa (study 9,801), and the second was conducted at non-US sites only (study 9,901).
 The two trials were similar in design but differed in patient characteristics, including history of diabetes and peripheral vascular disease.
 There were a total of 534 adult patients treated with daptomycin for injection and 558 treated with comparator in the two trials.
 The majority (89.7%) of patients received IV medication exclusively.
@@ -101,12 +101,12 @@ Adjudication Committee success rates are shown in Table 17.
 Table 17.
 Adjudication Committee Success Rates at Test of Cure in the S. aureus Bacteremia/Endocarditis Trial in Adult Patients (Population: ITT)
 
-| Population | Success Rate n/N (%) |  | Difference: Daptomycin For Injection -Comparator (Confidence Interval) |
+| Population | Success Rate n/N (%) |  | Difference: Daptomycin for Injection -Comparator (Confidence Interval) |
 | --- | --- | --- | --- |
-| Daptomycin For Injection 6 mg/kg | Comparator* |  |  |
+| Daptomycin for Injection 6 mg/kg | Comparator* |  |  |
 | Overall | 53/120 (44%) | 48/115 (42%) | 2.4% (−10.2, 15.1)† |
 | Baseline Pathogen |  |  |  |
-| Methicillin-susceptible S. aureus | 33/74 (45%) | 34/70 (49%) | −4% (−22.6, 14.6)‡ |
+| Methicillin-susceptible S. aureus | 33/74 (45%) | 34/70 (49%) | −4.0% (−22.6, 14.6)‡ |
 | Methicillin-resistant S. aureus | 20/45 (44%) | 14/44 (32%) | 12.6% (−10.2, 35.5)‡ |
 | Entry Diagnosis§ |  |  |  |
 | Definite or Possible Infective Endocarditis | 41/90 (46%) | 37/91 (41%) | 4.9% (−11.6, 21.4)‡ |
@@ -115,7 +115,7 @@ Adjudication Committee Success Rates at Test of Cure in the S. aureus Bacteremia
 | Uncomplicated Bacteremia | 18/32 (56%) | 16/29 (55%) | 1.1% (−31.7, 33.9)¶ |
 | Complicated Bacteremia | 26/60 (43%) | 23/61 (38%) | 5.6% (−17.3, 28.6)¶ |
 | Right-Sided Infective Endocarditis | 8/19 (42%) | 7/16 (44%) | −1.6% (−44.9, 41.6)¶ |
-| Uncomplicated Right-Sided Infective Endocarditis | 3/6 (50%) | 1/4 (25%) | 25% (−51.6, 100)¶ |
+| Uncomplicated Right-Sided Infective Endocarditis | 3/6 (50%) | 1/4 (25%) | 25.0% (−51.6, 100.0)¶ |
 | Complicated Right-Sided Infective Endocarditis | 5/13 (39%) | 6/12 (50%) | −11.5% (−62.4, 39.4)¶ |
 | Left-Sided Infective Endocarditis | 1/9 (11%) | 2/9 (22%) | −11.1% (−55.9, 33.6)¶ |
 
@@ -138,7 +138,7 @@ The median time to clearance in patients with MSSA was 4 days and in patients wi
 
 Failure of treatment due to persisting or relapsing S. aureus infections was assessed by the Adjudication Committee in 19/120 (16%) daptomycin for injection-treated patients (12 with MRSA and 7 with MSSA) and 11/115 (10%) comparator-treated patients (9 with MRSA treated with vancomycin and 2 with MSSA treated with an anti-staphylococcal semi-synthetic penicillin).
 Among all failures, isolates from 6 daptomycin for injection-treated patients and 1 vancomycin-treated patient developed increasing MICs (reduced susceptibility) by central laboratory testing during or following therapy.
-Most patients who failed due to persisting or relapsing S. aureus infection had deep-seated infection and did not receive necessary surgical intervention [see Warnings and Precautions (5.7)].
+Most patients who failed due to persisting or relapsing S. aureus infection had deep-seated infection and did not receive necessary surgical intervention [see Warnings and Precautions (5.9)].
 
 Pediatric use information is approved for Merck & Co., Inc.’s Cubicin (daptomycin for injection).
 However, due to Merck & Co., Inc.’s marketing exclusivity rights, this drug product is not labeled with that pediatric information.

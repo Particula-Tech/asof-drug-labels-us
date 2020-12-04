@@ -35,7 +35,7 @@ The developmental and health benefits of breastfeeding should be considered alon
 ## 8.4 Pediatric Use
 
 Safety and effectiveness in pediatric patients below the age of one year have not been established.
-Avoid use of daptomycin for injection in pediatric patients younger than one year of age due to the risk of potential effects on muscular, neuromuscular, and/or nervous systems (either peripheral and/or central) observed in neonatal dogs [see Warnings and Precautions (5.5) and Nonclinical Toxicology (13.2)].
+Avoid use of daptomycin for injection in pediatric patients younger than one year of age due to the risk of potential effects on muscular, neuromuscular, and/or nervous systems (either peripheral and/or central) observed in neonatal dogs [see Warnings and Precautions (5.7) and Nonclinical Toxicology (13.2)].
 
 Daptomycin for injection is not indicated in pediatric patients with renal impairment because dosage has not been established in these patients.
 
@@ -52,11 +52,11 @@ In Phase 3 adult clinical trials of cSSSI and S. aureus bacteremia/endocarditis,
 In addition, treatment-emergent adverse events were more common in patients ≥65 years of age than in patients <65 years of age.
 
 The exposure of daptomycin was higher in healthy elderly subjects than in healthy young adult subjects.
-However, no adjustment of daptomycin for injection dosage is warranted for elderly patients with creatinine clearance (CLCR) ≥30 mL/min [see Dosage and Administration (2.4) and Clinical Pharmacology (12.3)].
+However, no adjustment of daptomycin for injection dosage is warranted for elderly patients with creatinine clearance (CLCR) ≥30 mL/min [see Dosage and Administration (2.6) and Clinical Pharmacology (12.3)].
 
 ## 8.6 Patients with Renal Impairment
 
 Daptomycin is eliminated primarily by the kidneys; therefore, a modification of daptomycin for injection dosage interval is recommended for adult patients with CLCR <30 mL/min, including patients receiving hemodialysis or continuous ambulatory peritoneal dialysis (CAPD).
-In adult patients with renal impairment, both renal function and creatine phosphokinase (CPK) should be monitored more frequently than once weekly [see Dosage and Administration (2.6), Warnings and Precautions (5.2, 5.8), and Clinical Pharmacology (12.3)].
+In adult patients with renal impairment, both renal function and creatine phosphokinase (CPK) should be monitored more frequently than once weekly [see Dosage and Administration (2.6), Warnings and Precautions (5.2, 5.10), and Clinical Pharmacology (12.3)].
 
 The dosage regimen for daptomycin in pediatric patients with renal impairment has not been established.

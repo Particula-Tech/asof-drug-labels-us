@@ -1,7 +1,5 @@
 # 1 INDICATIONS AND USAGE
 
-Daptomycin for injection is indicated for the treatment of the infections listed below.
-
 ## 1.1 Complicated Skin and Skin Structure Infections (cSSSI)
 
 Daptomycin for injection is indicated for the treatment of adult patients with complicated skin and skin structure infections (cSSSI) caused by susceptible isolates of the following Gram-positive bacteria: Staphylococcus aureus (including methicillin-resistant isolates),Streptococcus pyogenes, Streptococcus agalactiae, Streptococcus dysgalactiae subsp. equisimilis, and Enterococcus faecalis (vancomycin-susceptible isolates only).
@@ -9,9 +7,9 @@ Daptomycin for injection is indicated for the treatment of adult patients with c
 Pediatric use information is approved for Merck & Co., Inc.’s Cubicin (daptomycin for injection).
 However, due to Merck & Co., Inc.’s marketing exclusivity rights, this drug product is not labeled with that pediatric information.
 
-## 1.2 Staphylococcus aureus Bloodstream Infections (Bacteremia) in Adult Patients, Including those with Right-Sided Infective Endocarditis, Caused by Methicillin- Susceptible and Methicillin-Resistant Isolates
+## 1.2 Staphylococcus aureus Bloodstream Infections (Bacteremia) in Adult Patients, Including those with Right-Sided Infective Endocarditis, Caused by Methicillin-Susceptible and Methicillin-Resistant Isolates
 
-Daptomycin for injection is indicated for the treatment of adult patients with Staphylococcus aureus bloodstream infections (bacteremia), adult patients with right-sided infective endocarditis, caused by methicillin-susceptible and methicillin-resistant isolates.
+Daptomycin for injection is indicated for the treatment of adult patients with Staphylococcus aureus bloodstream infections (bacteremia), including adult patients with right-sided infective endocarditis, caused by methicillin-susceptible and methicillin-resistant isolates.
 
 Pediatric use information is approved for Merck & Co., Inc.’s Cubicin (daptomycin for injection).
 However, due to Merck & Co., Inc.’s marketing exclusivity rights, this drug product is not labeled with that pediatric information.
@@ -24,7 +22,7 @@ Daptomycin for injection is not indicated for the treatment of left-sided infect
 The clinical trial of daptomycin for injection in adult patients with S. aureus bloodstream infections included limited data from patients with left-sided infective endocarditis; outcomes in these patients were poor [see Clinical Trials (14.2)].
 Daptomycin for injection has not been studied in patients with prosthetic valve endocarditis.
 
-Daptomycin for injection is not recommended in pediatric patients younger than 1 year of age due to the risk of potential effects on muscular, neuromuscular, and/or nervous systems (either peripheral and/or central) observed in neonatal dogs [see Warnings and Precautions (5.5) and Nonclinical Toxicology (13.2)].
+Daptomycin for injection is not recommended in pediatric patients younger than 1 year of age due to the risk of potential effects on muscular, neuromuscular, and/or nervous systems (either peripheral and/or central) observed in neonatal dogs [see Warnings and Precautions (5.7) and Nonclinical Toxicology (13.2)].
 
 ## 1.5 Usage
 
@@ -32,6 +30,6 @@ Appropriate specimens for microbiological examination should be obtained in orde
 
 To reduce the development of drug-resistant bacteria and maintain the effectiveness of daptomycin for injection and other antibacterial drugs, daptomycin for injection should be used only to treat infections that are proven or strongly suspected to be caused by susceptible bacteria.
 
-When culture and susceptibility information is available, it should be considered in selecting ormodifying antibacterial therapy.
+When culture and susceptibility information is available, it should be considered in selecting or modifying antibacterial therapy.
 In the absence of such data, local epidemiology and susceptibility patterns may contribute to the empiric selection of therapy.
 Empiric therapy may be initiated while awaiting test results.
