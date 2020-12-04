@@ -1,6 +1,6 @@
 # HOW SUPPLIED
 
-Tiazac® (diltiazem hydrochloride) Extended-Release Capsules
+Tiazac® (diltiazem hydrochloride) Extended-Release Capsules, USP
 
 | Strength | Description | Quantity | NDC# |
 | --- | --- | --- | --- |
@@ -11,5 +11,5 @@ Tiazac® (diltiazem hydrochloride) Extended-Release Capsules
 | 360 mg | #0 blue-green/blue-green capsuleimprinted: Tiazac 360 | 3090 | 0187-2616-300187-2616-90 |
 | 420 mg | #00 white/white capsuleimprinted: Tiazac 420 | 3090 | 0187-2617-300187-2617-90 |
 
-Storage conditions: Store at 25°C (77°F); excursions permitted to 15° to 30°C (59° to 86°F) [see USP Controlled Room Temperature].
+Storage Conditions: Store at 25°C (77°F); excursions permitted to 15° to 30°C (59° to 86°F) [see USP Controlled Room Temperature].
 Avoid excessive humidity.

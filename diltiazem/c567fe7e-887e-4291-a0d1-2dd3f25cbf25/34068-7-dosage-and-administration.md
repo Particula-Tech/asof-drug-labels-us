@@ -30,8 +30,8 @@ Subsequent titration to higher or lower doses may, however, be necessary and sho
 
 ## Sprinkling the Capsule Contents on Food:
 
-Tiazac (diltiazem hydrochloride) Extended-release Capsules may also be administered by carefully opening the capsule and sprinkling the capsule contents on a spoonful of applesauce.
+Tiazac (diltiazem hydrochloride) Extended-Release Capsules may also be administered by carefully opening the capsule and sprinkling the capsule contents on a spoonful of applesauce.
 The applesauce should be swallowed immediately without chewing and followed with a glass of cool water to ensure complete swallowing of the capsule contents.
 The applesauce should not be hot, and it should be soft enough to be swallowed without chewing.
 Any capsule contents/applesauce mixture should be used immediately and not stored for future use.
-Subdividing the contents of a Tiazac (diltiazem hydrochloride) Extended-release Capsule is not recommended.
+Subdividing the contents of a Tiazac (diltiazem hydrochloride) Extended-Release Capsule is not recommended.

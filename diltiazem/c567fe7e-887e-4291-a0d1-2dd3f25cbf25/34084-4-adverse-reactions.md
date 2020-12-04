@@ -64,4 +64,4 @@ In addition, events such as myocardial infarction have been observed which are n
 A number of well-documented cases of generalized rash, characterized as leukocytoclastic vasculitis, have been reported.
 However, a definitive cause and effect relationship between these events and diltiazem hydrochloride therapy is yet to be established.
 
-To report SUSPECTED ADVERSE REACTIONS, contact Valeant Pharmaceuticals North America LLC at 1-800-321-4576 or FDA at 1-800-FDA-1088 or www.fda.gov/medwatch.
+To report SUSPECTED ADVERSE REACTIONS, contact Bausch Health US, LLC at 1-800-321-4576 or FDA at 1-800-FDA-1088 or www.fda.gov/medwatch.

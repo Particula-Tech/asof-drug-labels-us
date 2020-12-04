@@ -7,7 +7,7 @@ Mechanisms of Action
 Hypertension: Diltiazem produces its antihypertensive effect primarily by relaxation of vascular smooth muscle and the resultant decrease in peripheral vascular resistance.
 The magnitude of blood pressure reduction is related to the degree of hypertension: thus hypertensive individuals experience an antihypertensive effect, whereas there is only a modest fall in blood pressure in normotensives.
 
-Angina: Diltiazem HCl has been shown to produce increases in exercise tolerance, probably due to its ability to reduce myocardial oxygen demand.
+Angina: Diltiazem hydrochloride has been shown to produce increases in exercise tolerance, probably due to its ability to reduce myocardial oxygen demand.
 This is accomplished via reductions in heart rate and systemic blood pressure at submaximal and maximal workloads.
 
 Diltiazem has been shown to be a potent dilator of coronary arteries, both epicardial and subendocardial.
@@ -69,7 +69,8 @@ Pharmacokinetics and Metabolism
 Diltiazem is well absorbed from the gastrointestinal tract but undergoes substantial hepatic first-pass effect.
 The absolute bioavailability of an oral dose of an immediate-release formulation (compared to intravenous administration) is approximately 40%.
 Only 2% to 4% of unchanged diltiazem appears in the urine.
-The plasma elimination half-life of diltiazem is approximately 3.0 to 4.5 h. Drugs which induce or inhibit hepatic microsomal enzymes may alter diltiazem disposition.
+The plasma elimination half-life of diltiazem is approximately 3.0 to 4.5 hours.
+Drugs which induce or inhibit hepatic microsomal enzymes may alter diltiazem disposition.
 Therapeutic blood levels of diltiazem appear to be in the range of 40 to 200 ng/mL.
 There is a departure from linearity when dose strengths are increased; the half-life is slightly increased with dose.
 
@@ -80,8 +81,8 @@ As many as nine diltiazem metabolites have been identified in the urine of human
 Total radioactivity measurements following single intravenous dose administration in healthy volunteers suggest the presence of other unidentified metabolites.
 These metabolites are more slowly excreted (with a half-life of total radioactivity of approximately 20 hours) and attain concentrations in excess of diltiazem.
 
-In vitro binding studies show diltiazem HCl is 70% to 80% bound to plasma proteins.
-Competitive in vitro ligand binding studies have also shown diltiazem HCl binding is not altered by therapeutic concentrations of digoxin, hydrochlorothiazide, phenylbutazone, propranolol, salicylic acid, or warfarin.
+In vitro binding studies show diltiazem hydrochloride is 70% to 80% bound to plasma proteins.
+Competitive in vitro ligand binding studies have also shown diltiazem hydrochloride binding is not altered by therapeutic concentrations of digoxin, hydrochlorothiazide, phenylbutazone, propranolol, salicylic acid, or warfarin.
 A study that compared patients with normal hepatic function to patients with cirrhosis who received immediate-release diltiazem found an increase in diltiazem elimination half-life and a 69% increase in bioavailability in the hepatically impaired patients.
 Patients with severely impaired renal function (creatinine clearance <50 mL/min) who received immediate-release diltiazem had modestly increased diltiazem concentrations compared to patients with normal renal function.
 

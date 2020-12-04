@@ -1,12 +1,12 @@
-Manufactured for: Valeant Pharmaceuticals North America LLC Bridgewater, NJ 08807 USA
+Distributed by: Bausch Health US, LLC Bridgewater, NJ 08807 USA
 
-By: Valeant Pharmaceuticals International, Inc. Steinbach, Manitoba R5G 1Z7 Canada
+Manufactured by: Bausch Health Companies Inc. Steinbach, MB R5G 1Z7, Canada
 
-Tiazac is a trademark of Valeant Pharmaceuticals International, Inc. or its affiliates. ©Valeant Pharmaceuticals North America LLC
-
-9405002
-
-20001790
+Tiazac is a trademark of Bausch Health Companies Inc. or its affiliates. © 2020 Bausch Health Companies Inc. or its affiliates
 
 Rev.
-11/2016
+10/2020
+
+9405003
+
+20003025
