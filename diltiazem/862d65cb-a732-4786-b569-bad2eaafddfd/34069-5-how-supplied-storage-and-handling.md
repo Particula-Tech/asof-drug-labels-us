@@ -1,6 +1,6 @@
 # HOW SUPPLIED
 
-Diltiazem Hydrochloride Extended-Release Capsules
+Diltiazem Hydrochloride Extended-Release Capsules, USP
 
 | Strength | Description | Quantity | NDC# |
 | --- | --- | --- | --- |
@@ -11,5 +11,5 @@ Diltiazem Hydrochloride Extended-Release Capsules
 | 360 mg | #0 blue-green/blue-green capsule imprinted: 360 | 90 | 68682-371-90 |
 | 420 mg | #00 white/white capsule imprinted: 420 | 90 | 68682-372-90 |
 
-Storage conditions: Store at 25°C (77°F); excursions permitted to 15° to 30°C (59° to 86°F) [see USP Controlled Room Temperature].
+Storage Conditions: Store at 25°C (77°F); excursions permitted to 15° to 30°C (59° to 86°F) [see USP Controlled Room Temperature].
 Avoid excessive humidity.

@@ -1,12 +1,12 @@
-Manufactured for: Oceanside Pharmaceuticals, a division of Valeant Pharmaceuticals North America LLC Bridgewater, NJ 08807 USA
+Distributed by: Oceanside Pharmaceuticals, a division of Bausch Health US, LLC Bridgewater, NJ 08807 USA
 
-By: Valeant Pharmaceuticals International, Inc. Steinbach, Manitoba R5G 1Z7 Canada
+Manufactured by: Bausch Health Companies Inc. Steinbach, MB R5G 1Z7, Canada
 
-©Valeant Pharmaceuticals North America LLC
+© 2020 Bausch Health Companies Inc. or its affiliates
 
 Rev.
-02/2017
+10/2020
 
-9405702
+9405703
 
-20001873
+20003032

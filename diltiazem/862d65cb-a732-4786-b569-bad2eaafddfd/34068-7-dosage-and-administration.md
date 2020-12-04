@@ -1,12 +1,12 @@
 # DOSAGE AND ADMINISTRATION
 
-Hypertension Dosage needs to be adjusted by titration to individual patient needs.
+Hypertension: Dosage needs to be adjusted by titration to individual patient needs.
 When used as monotherapy, usual starting doses are 120 to 240 mg once daily.
 Maximum antihypertensive effect is usually observed by 14 days of chronic therapy; therefore, dosage adjustments should be scheduled accordingly.
 The usual dosage range studied in clinical trials was 120 to 540 mg once daily.
 Current clinical experience with 540 mg dose is limited; however, the dose may be increased to 540 mg once daily.
 
-Angina Dosages for the treatment of angina should be adjusted to each patient's needs, starting with a dose of 120 mg to 180 mg once daily.
+Angina: Dosages for the treatment of angina should be adjusted to each patient's needs, starting with a dose of 120 mg to 180 mg once daily.
 Individual patients may respond to higher doses of up to 540 mg once daily.
 When necessary, titration should be carried out over 7 to 14 days.
 

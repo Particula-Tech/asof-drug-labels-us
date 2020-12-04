@@ -8,7 +8,7 @@ The following table presents the most common adverse reactions, whether or not d
 
 MOST COMMON ADVERSE EVENTS IN DOUBLE-BLIND PLACEBO-CONTROLLED HYPERTENSION TRIALSAdverse events occurring in treated patients at 2% or more than placebo-treated patients.
 
-| Adverse Events (COSTART Term) | n=57 # pts (%) | Up to 360 mg n=149 # pts (%) | 480-540 mg n=48 # pts (%) |
+| Adverse Events (COSTART Term) | n=57 # pts (%) | Up to 360 mg n=149 # pts (%) | 480 - 540 mg n=48 # pts (%) |
 | --- | --- | --- | --- |
 |  | Placebo | Diltiazem Hydrochloride Extended-Release Capsules |  |
 | edema, peripheral | 1 (2) | 8 (5) | 7 (15) |
@@ -64,4 +64,4 @@ In addition, events such as myocardial infarction have been observed which are n
 A number of well-documented cases of generalized rash, characterized as leukocytoclastic vasculitis, have been reported.
 However, a definitive cause and effect relationship between these events and diltiazem hydrochloride therapy is yet to be established.
 
-To report SUSPECTED ADVERSE REACTIONS, contact Valeant Pharmaceuticals North America LLC at 1-800-321-4576 or FDA at 1-800-FDA-1088 or www.fda.gov/medwatch.
+To report SUSPECTED ADVERSE REACTIONS, contact Oceanside Pharmaceuticals at 1-800-321-4576 or FDA at 1-800-FDA-1088 or www.fda.gov/medwatch.
