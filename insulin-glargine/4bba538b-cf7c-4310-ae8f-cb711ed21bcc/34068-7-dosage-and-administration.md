@@ -103,6 +103,6 @@ Do not administer an extra dose or increase the dose to make up for the missed d
 - During changes to a patient's insulin regimen, increase the frequency of blood glucose monitoring [see Warnings and Precautions (5.4)].
 - Do not administer intravenously, intramuscularly, or via an insulin pump.
 - Use SOLIQUA 100/33 with caution in patients with visual impairment who may rely on audible clicks to dial their dose.
-- The SOLIQUA 100/33 pen dials in 1 unit increments.
+- The SOLIQUA 100/33 pen dials in 1-unit increments.
 - Do not dilute or mix SOLIQUA 100/33 with any other insulin or solution.
 - Do not split the dose of SOLIQUA 100/33.

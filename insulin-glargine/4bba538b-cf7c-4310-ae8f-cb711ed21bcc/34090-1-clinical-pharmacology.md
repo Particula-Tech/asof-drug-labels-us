@@ -10,7 +10,7 @@ Insulin glargine
 
 The primary activity of insulin, including insulin glargine, is regulation of glucose metabolism.
 Insulin and its analogs lower blood glucose by stimulating peripheral glucose uptake, especially by skeletal muscle and fat, and by inhibiting hepatic glucose production.
-Insulin inhibits lipolysis and proteolysis, and enhances protein synthesis.
+Insulin inhibits lipolysis and proteolysis and enhances protein synthesis.
 
 Lixisenatide
 
@@ -68,7 +68,7 @@ After multiple dose administration in patients with type 2 diabetes, mean termin
 
 Special populations
 
-Effects of age, body weight, gender and race
+Effects of age, body weight, gender, and race
 
 Insulin glargine: Effect of age, race, and gender on the pharmacokinetics of insulin glargine has not been evaluated.
 In controlled clinical trials in adults with insulin glargine (100 units/mL), subgroup analyses based on age, race, and gender did not show differences in safety and efficacy.

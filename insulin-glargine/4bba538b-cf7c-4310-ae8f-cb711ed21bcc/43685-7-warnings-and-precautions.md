@@ -40,7 +40,7 @@ When converting from basal insulin therapy or a GLP-1 receptor agonist to SOLIQU
 
 SOLIQUA 100/33 contains two drugs: insulin glargine and lixisenatide.
 Administration of more than 60 units of SOLIQUA 100/33 daily can result in overdose of the lixisenatide component.
-Do not exceed the 20 mcg maximum recommended dose of lixisenatide or use with other glucagon-like peptide-1 receptor agonists.
+Do not exceed the 20-mcg maximum recommended dose of lixisenatide or use with other glucagon-like peptide-1 receptor agonists.
 
 Accidental mix-ups between insulin products have been reported.
 To avoid medication errors between SOLIQUA 100/33 (an insulin-containing product) and other insulins, instruct patients to always check the insulin label before each injection.
@@ -52,7 +52,7 @@ Severe hypoglycemia can cause seizures, may be life-threatening or cause death.
 Hypoglycemia can impair concentration ability and reaction time; this may place an individual and others at risk in situations where these abilities are important (e.g., driving or operating other machinery).
 SOLIQUA 100/33 (an insulin-containing product), or any insulin, should not be used during episodes of hypoglycemia [see Contraindications (4)].
 
-Hypoglycemia can happen suddenly and symptoms may differ in each individual and change over time in the same individual.
+Hypoglycemia can happen suddenly, and symptoms may differ in each individual and change over time in the same individual.
 Symptomatic awareness of hypoglycemia may be less pronounced in patients with longstanding diabetes, in patients with diabetic nerve disease, in patients using medications that block the sympathetic nervous system (e.g., beta-blockers) [see Drug Interactions (7.1)], or in patients who experience recurrent hypoglycemia.
 
 Risk Factors for Hypoglycemia
