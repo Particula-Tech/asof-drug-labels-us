@@ -28,7 +28,7 @@ Valganciclovir tablets can cause serious side effects, including:
 - Cancer.
   Valganciclovir causes cancer in animals and may potentially cause cancer in people.
 
-Your healthcare provider will do regular blood test during treatment with valganciclovir tablets to check you for side effects.
+Your healthcare provider will do regular blood tests during treatment with valganciclovir tablets to check you for side effects.
 Your healthcare provider may change your dose or stop treatment with valganciclovir tablets if you have serious side effects.
 What is valganciclovir?
 
@@ -150,6 +150,6 @@ Bridgewater, NJ 08807.
 
 Made in India.
 
-Revised: 11/2020
+Revised: 12/2020
 
 For more information, call Ajanta Pharma USA Inc. at 855-664-7744.
