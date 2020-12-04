@@ -32,7 +32,7 @@ Neutropenia and Neutropenic Complications
 
 Diarrhea and Dehydration
 
-- Advise patients to notify the healthcare provider of severe diarrhea, vomiting, or severe abdominal pain [see Warnings and Precautions (5.9)].
+- Advise patients to notify their healthcare provider of severe diarrhea, vomiting, or severe abdominal pain [see Warnings and Precautions (5.9)].
 
 Posterior Reversible Leukoencephalopathy Syndrome
 

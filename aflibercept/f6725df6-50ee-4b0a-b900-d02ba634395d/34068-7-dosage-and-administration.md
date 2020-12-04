@@ -22,7 +22,7 @@ Discontinue ZALTRAP for:
 
 Temporarily suspend ZALTRAP:
 
-- At least 4 weeks prior to elective surgery [see Warnings and Precautions (5.3)]
+- At least 4 weeks prior to elective surgery [see Warnings and Precautions (5.3)].
 - For uncontrolled hypertension until controlled.
   Upon resumption, permanently reduce the ZALTRAP dose to 2 mg per kg [see Warnings and Precautions (5.5)].
 - For proteinuria of 2 grams per 24 hours or more.
@@ -49,7 +49,7 @@ Discard any unused portion left in the infusion bag.
 
 Administration
 
-Administer the diluted ZALTRAP solution as an intravenous infusion over 1 hour through a 0.2 micron polyethersulfone filter.
+Administer the diluted ZALTRAP solution as an intravenous infusion over 1 hour through a 0.2-micron polyethersulfone filter.
 Do not use filters made of polyvinylidene fluoride (PVDF) or nylon.
 
 Do not administer as an intravenous push or bolus.
