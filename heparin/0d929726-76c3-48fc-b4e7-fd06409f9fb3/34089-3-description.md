@@ -14,21 +14,20 @@ Composition, osmolarity, pH and ionic concentration are shown in Table 1.
 Table 1.
 Composition, Osmolarity, pH, and Ionic Concentration of Heparin in 0.9% Sodium Chloride Injection
 
-| Product Description and Size | 1,000 USP Heparin Units in 0.9% Sodium Chloride Injection, 500 mL | 1,000 USP Heparin Units in 0.9% Sodium Chloride Injection, 500 mL | 2,000 USP Heparin Units in 0.9% Sodium Chloride Injection, 1,000 mL | 2,000 USP Heparin Units in 0.9% Sodium Chloride Injection, 1,000 mL |
-| --- | --- | --- | --- | --- |
-| NDC# | 0338-0431-03 | 0338-0424-18 | 0338-0433-04 | 0338-0428-12 |
-| Manufacturing Location | Jayuya, PR | Toongabbie, AUS | Jayuya, PR | Toongabbie, AUS |
-| Heparin Sodium, USP (units/mL) | 2 | 2 | 2 | 2 |
-| Sodium Chloride, USP (NaCl) (g/L) | 9 | 9 | 9 | 9 |
-| Dibasic Sodium Phosphate Heptahydrate, USP (Na2HPO4*7H2O) (g/L) | 4.34 | ---- | 4.34 | ---- |
-| Dibasic Sodium Phosphate Dodecahydrate, USP (Na2HPO4*12H2O) (g/L) | ---- | 5.80 | ---- | 5.80 |
-| Citric Acid Hydrous, USP (C6H8O7*H2O) (g/L) | 0.4 | 0.4 | 0.4 | 0.4 |
-| OsmolarityNormal physiologic osmolarity range is approximately 280 to 310 mOsmol/L. Administration of substantially hypertonic solutions (≥ 600 mOsmol/L) may cause vein damage. (mOsmol/L) | 322 | 322 | 322 | 322 |
-| pH | 7.0 (6.0 to 8.0) | 7.0 (6.0 to 8.0) | 7.0 (6.0 to 8.0) | 7.0 (6.0 to 8.0) |
-| Sodium (mEq/L) | 186 | 186 | 186 | 186 |
-| Chloride (mEq/L) | 154 | 154 | 154 | 154 |
-| Phosphate (as HPO4-) (mEq/L) | 32 (16 mmol/L) | 32 (16 mmol/L) | 32 (16 mmol/L) | 32 (16 mmol/L) |
-| Citrate (mEq/L) | 6 | 6 | 6 | 6 |
+| Product Description and Size | 1,000 USP Heparin Units in 0.9% Sodium Chloride Injection, 500 mL | 2,000 USP Heparin Units in 0.9% Sodium Chloride Injection, 1,000 mL |
+| --- | --- | --- |
+| NDC# | 0338-0431-03 | 0338-0433-04 |
+| Manufacturing Location | Jayuya, PR | Jayuya, PR |
+| Heparin Sodium, USP (units/mL) | 2 | 2 |
+| Sodium Chloride, USP (NaCl) (g/L) | 9 | 9 |
+| Dibasic Sodium Phosphate Heptahydrate, USP (Na2HPO4*7H2O) (g/L) | 4.34 | 4.34 |
+| Citric Acid Hydrous, USP (C6H8O7*H2O) (g/L) | 0.4 | 0.4 |
+| OsmolarityNormal physiologic osmolarity range is approximately 280 to 310 mOsmol/L. Administration of substantially hypertonic solutions (≥ 600 mOsmol/L) may cause vein damage. (mOsmol/L) | 322 | 322 |
+| pH | 7.0 (6.0 to 8.0) | 7.0 (6.0 to 8.0) |
+| Sodium (mEq/L) | 186 | 186 |
+| Chloride (mEq/L) | 154 | 154 |
+| Phosphate (as HPO4=) (mEq/L) | 32 (16 mmol/L) | 32 (16 mmol/L) |
+| Citrate (mEq/L) | 6 | 6 |
 
 This VIAFLEX PLUS plastic container is fabricated from a specially formulated polyvinyl chloride (PL 146 Plastic).
 VIAFLEX PLUS on the container indicates the presence of a drug additive in a drug vehicle.
