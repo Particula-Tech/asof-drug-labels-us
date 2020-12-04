@@ -44,7 +44,7 @@ Please see recommended reservoir and infusion sets in the pump manual.
 Instruct patients to replace insulin in the reservoir at least every 7 days to avoid insulin degradation, infusion set occlusion, loss of preservative efficacy; infusion sets and infusion set insertion sites should be changed at least every 3 days.
 
 Instruct patients to discard insulin exposed to temperatures higher than 98.6°F (37°C).
-The temperature of the insulin may exceed ambient temperature when the pump housing, cover, tubing or sport case is exposed to sunlight or radiant heat.
+The temperature of the insulin may exceed ambient temperature when the pump housing, cover, tubing, or sport case is exposed to sunlight or radiant heat.
 
 Instruct patients to report infusion sites that are erythematous, pruritic, or thickened, and to select a new site because continued infusion may increase the skin reaction or alter the absorption of ADMELOG.
 

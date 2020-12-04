@@ -18,7 +18,7 @@ The mean (SD) area under the glucose infusion rate curves (measure of overall ph
 | --- |
 
 The time course of action of insulin and insulin analogs, including insulin lispro products, may vary considerably in different individuals or within the same individual.
-The rate of insulin absorption, and consequently the onset of activity are known to be affected by the site of injection, exercise, and other variables [see Warnings and Precautions (5.2)].
+The rate of insulin absorption and, consequently, the onset of activity are known to be affected by the site of injection, exercise, and other variables [see Warnings and Precautions (5.2)].
 
 Intravenous Administration
 

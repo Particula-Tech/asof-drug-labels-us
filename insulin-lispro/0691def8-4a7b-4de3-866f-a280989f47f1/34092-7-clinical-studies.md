@@ -81,7 +81,7 @@ One study involved 39 patients, ages 19 to 58 years, treated for 24 weeks with a
 After 12 weeks of treatment, the mean HbA1c values decreased from 7.8% to 7.2% in patients treated with another insulin lispro, and from 7.8% to 7.5% in the regular human insulin-treated patients.
 
 Another study involved 60 patients (mean age 39, range 15 to 58 years) treated for 24 weeks with either another insulin lispro product, 100 units/mL, or buffered regular human insulin, 100 units/mL.
-After 12 weeks of treatment, the mean HbA1c values decreased from 7.7% to 7.4% in patients treated with insulin lispro, and remained unchanged from 7.7% in the buffered regular human insulin-treated patients.
+After 12 weeks of treatment, the mean HbA1c values decreased from 7.7% to 7.4% in patients treated with insulin lispro and remained unchanged from 7.7% in the buffered regular human insulin-treated patients.
 
 Another Insulin Lispro Product, 100 units/mL: Study in Pediatric Patients 4 Years of Age and Older
 
