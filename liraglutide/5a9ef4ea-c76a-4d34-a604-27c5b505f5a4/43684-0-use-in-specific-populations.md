@@ -60,7 +60,7 @@ In lactating rats, liraglutide was present unchanged in milk at concentrations a
 
 The safety and effectiveness of VICTOZA as an adjunct to diet and exercise to improve glycemic control in type 2 diabetes mellitus have been established in pediatric patients 10 years of age and older.
 Use of VICTOZA for this indication is supported by a 26-week placebo-controlled clinical trial and a 26-week open-label extension in 134 pediatric patients 10 to 17 years of age with type 2 diabetes, a pediatric pharmacokinetic study, and studies in adults with type 2 diabetes mellitus [see Clinical Pharmacology (12.3) and Clinical Studies (14.1,14.2)].
-The risk of hypoglycemia was higher with VICTOZA in pediatric patients regardless of concomitant antidiabetic therapies.
+The risk of hypoglycemia was higher with VICTOZA in pediatric patients regardless of insulin and/or metformin use.
 
 The safety and effectiveness of VICTOZA have not been established in pediatric patients less than 10 years of age.
 

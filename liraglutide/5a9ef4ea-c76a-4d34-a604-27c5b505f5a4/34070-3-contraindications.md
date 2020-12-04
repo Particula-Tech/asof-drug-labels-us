@@ -6,5 +6,5 @@ VICTOZA is contraindicated in patients with a personal or family history of medu
 
 - •Hypersensitivity
 
-VICTOZA is contraindicated in patients with a prior serious hypersensitivity reaction to VICTOZA or to any of the product components.
+VICTOZA is contraindicated in patients with a prior serious hypersensitivity reaction to liraglutide or to any of the excipients in VICTOZA.
 Serious hypersensitivity reactions including anaphylactic reactions and angioedema have been reported with VICTOZA [see Warnings and Precautions (5.6)].

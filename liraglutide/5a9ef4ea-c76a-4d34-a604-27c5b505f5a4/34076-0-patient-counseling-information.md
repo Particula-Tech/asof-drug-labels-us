@@ -1,8 +1,6 @@
 # 17 PATIENT COUNSELING INFORMATION
 
-FDA-Approved Medication Guide
-
-See separate leaflet.
+Advise the patient to read the FDA-approved patient labeling (Medication Guide).
 
 Risk of Thyroid C-cell Tumors
 
@@ -28,6 +26,11 @@ Instruct patients to contact their physician if cholelithiasis or cholecystitis 
 Never Share a VICTOZA Pen Between Patients
 
 Advise patients that they must never share a VICTOZA pen with another person, even if the needle is changed, because doing so carries a risk for transmission of blood-borne pathogens.
+
+Hypoglycemia
+
+Inform patients that hypoglycemia has been reported when VICTOZA is used with insulin secretagogues or insulin and may occur in pediatric patients regardless of concomitant antidiabetic treatment.
+Educate patients or caregivers on the signs and symptoms of hypoglycemia.
 
 Hypersensitivity Reactions
 
@@ -55,9 +58,9 @@ Novo Nordisk A/S
 
 DK-2880 Bagsvaerd, Denmark
 
-Date of Issue: August 2020
+Date of Issue: November 2020
 
-Version: 12
+Version: 13
 
 VICTOZA® is a registered trademark of Novo Nordisk A/S.
 

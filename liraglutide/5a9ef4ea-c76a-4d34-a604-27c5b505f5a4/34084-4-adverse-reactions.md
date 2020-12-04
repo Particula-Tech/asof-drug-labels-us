@@ -4,7 +4,7 @@ The following serious adverse reactions are described below or elsewhere in the 
 
 - •Risk of Thyroid C-cell Tumors [see Warnings and Precautions (5.1)]
 - •Pancreatitis [see Warnings and Precautions (5.2)]
-- •Use with Medications Known to Cause Hypoglycemia [see Warnings and Precautions (5.4)]
+- •Hypoglycemia [see Warnings and Precautions (5.4)]
 - •Renal Impairment [see Warnings and Precautions (5.5)]
 - •Hypersensitivity Reactions [see Warnings and Precautions (5.6)]
 

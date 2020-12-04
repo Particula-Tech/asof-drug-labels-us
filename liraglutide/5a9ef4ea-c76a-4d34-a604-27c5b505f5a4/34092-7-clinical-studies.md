@@ -397,13 +397,13 @@ Table 12 Results at week 26 in a trial comparing VICTOZA in combination with met
 | Baseline | 7.9 | 7.7 |
 | End of 26 weeks | 7.1 | 8.2 |
 | Adjusted mean change from baseline after 26 weeksa | -0.64 | 0.42 |
-| Treatment difference [95%CI] VICTOZA vs Placebo | -1.06 [-1.65; -0.46]* |  |
+| Treatment difference [95% CI] VICTOZA vs Placebo | -1.06 [-1.65; -0.46]* |  |
 | Percentage of patients achieving HbA1c <7%b | 63.7 | 36.5 |
 | FPG (mg/dL) |  |  |
 | Baseline | 157 | 147 |
 | End of 26 weeks | 132 | 166 |
 | Adjusted mean change from baseline after 26 weeksa | -19.4 | 14.4 |
-| Treatment difference [95%CI] VICTOZA vs Placebo | -33.83 [-55.74; -11.92] |  |
+| Treatment difference [95% CI] VICTOZA vs Placebo | -33.83 [-55.74; -11.92] |  |
 
 a The change from baseline to end of treatment visit in HbA1c and FPG was analyzed usinga pattern mixture model with multiple imputation.
 Missing observations (10.6% in the VICTOZA, 14.5% in the placebo) were imputed from the placebo arm based on multiple (x10,000) imputations.

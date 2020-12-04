@@ -37,12 +37,14 @@ It is unknown if patients with a history of pancreatitis are at higher risk for 
 VICTOZA pens must never be shared between patients, even if the needle is changed.
 Pen-sharing poses a risk for transmission of blood-borne pathogens.
 
-## 5.4 Use with Medications Known to Cause Hypoglycemia
+## 5.4 Hypoglycemia
 
-Patients receiving VICTOZA in combination with an insulin secretagogue (e.g., sulfonylurea) or insulin may have an increased risk of hypoglycemia.
-The risk of hypoglycemia may be lowered by a reduction in the dose of sulfonylurea (or other concomitantly administered insulin secretagogues) or insulin [see Adverse Reactions (6.1), Drug Interactions (7.2)].
+Adult patients receiving VICTOZA in combination with an insulin secretagogue (e.g., sulfonylurea) or insulin may have an increased risk of hypoglycemia, including severe hypoglycemia.
+In pediatric patients 10 years of age and older, the risk of hypoglycemia was higher with VICTOZA regardless of insulin and/or metformin use.
+[see Adverse Reactions (6.1), Drug Interactions (7.2)].
 
-In pediatric patients 10 years of age and older, the risk of hypoglycemia was higher with VICTOZA regardless of concomitant antidiabetic therapies.
+The risk of hypoglycemia may be lowered by a reduction in the dose of sulfonylurea (or other concomitantly administered insulin secretagogues) or insulin.
+Inform patients using these concomitant medications and pediatric patients of the risk of hypoglycemia and educate them on the signs and symptoms of hypoglycemia.
 
 ## 5.5 Renal Impairment
 
