@@ -2,7 +2,7 @@ PRINCIPAL DISPLAY PANEL
 
 NDC 0173-0663-00
 
-Epivir-HBV®
+Epivir-HBV
 
 (lamivudine)
 
@@ -18,10 +18,10 @@ Rx only
 
 Made in Canada
 
-©2015, the GSK group of companies
+©2020 GSK group of companies or its licensor.
 
-1. 10000000136385 Rev.
-   8/15
+1. 62000000052473 Rev.
+   9/20
 
 PRINCIPAL DISPLAY PANEL
 
@@ -59,3 +59,4 @@ Trademarks are owned by or licensed to the GSK group of companies.
 
 1. 62000000052513 Rev.
    7/20
+2. 
