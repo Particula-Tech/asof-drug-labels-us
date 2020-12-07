@@ -1,0 +1,62 @@
+# 2 DOSAGE AND ADMINISTRATION
+
+## 2.1 General Dosing Information
+
+Acetaminophen Injection, for intravenous use, may be given as a single or repeated dose for the treatment of acute pain or fever.
+No dose adjustment is required when converting between oral acetaminophen and acetaminophen injection dosing in adults and adolescents who weigh 50 kg and above.
+Calculated maximum daily dose of acetaminophen is based on all routes of administration (i.e., intravenous, oral, and rectal) and all products containing acetaminophen.
+Exceeding the maximum mg/kg daily dose of acetaminophen as described in Tables 1 and 2 may result in hepatic injury, including the risk of liver failure and death.
+
+To avoid the risk of overdose, ensure that the total amount of acetaminophen from all routes and from all sources does not exceed the maximum recommended dose.
+
+## 2.2 Recommended Dosage: Adults and Adolescents
+
+Adults and adolescents weighing 50 kg and over: the recommended dosage of acetaminophen injection is 1,000 mg every 6 hours or 650 mg every 4 hours, with a maximum single dose of acetaminophen injection of 1,000 mg, a minimum dosing interval of 4 hours, and a maximum daily dose of acetaminophen of 4,000 mg per day (includes all routes of administration and all acetaminophen-containing products including combination products).
+
+Adults and adolescents weighing under 50 kg: the recommended dosage of acetaminophen injection is 15 mg/kg every 6 hours or 12.5 mg/kg every 4 hours, with a maximum single dose of acetaminophen injection of 15 mg/kg, a minimum dosing interval of 4 hours, and a maximum daily dose of acetaminophen of 75 mg/kg per day (includes all routes of administration and all acetaminophen-containing products including combination products).
+
+Table 1.
+Dosing for Adults and Adolescents
+
+| Age group | Dose given every 4 hours | Dose given every 6 hours | Maximum single dose | Maximum total daily dose of acetaminophen (by all routes) |
+| --- | --- | --- | --- | --- |
+| Adults and adolescents (13 years and older) weighing ≥ 50 kg | 650 mg | 1,000 mg | 1,000 mg | 4,000 mg in 24 hours |
+| Adults and adolescents (13 years and older) weighing < 50 kg | 12.5 mg/kg | 15 mg/kg | 15 mg/kg (up to 750 mg) | 75 mg/kg in 24 hours (up to 3,750 mg) |
+
+## 2.3 Recommended Dosage: Children
+
+Children 2 to 12 years of age: the recommended dosage of acetaminophen injection is 15 mg/kg every 6 hours or 12.5 mg/kg every 4 hours, with a maximum single dose of acetaminophen injection of 15 mg/kg, a minimum dosing interval of 4 hours, and a maximum daily dose of acetaminophen of 75 mg/kg per day.
+
+Table 2.
+Dosing for Children
+
+| Age group | Dose given every 4 hours | Dose given every 6 hours | Maximum single dose | Maximum total daily dose of acetaminophen (by all routes) |
+| --- | --- | --- | --- | --- |
+| Children 2 to 12 years of age | 12.5 mg/kg | 15 mg/kg | 15 mg/kg (up to 750 mg) | 75 mg/kg in 24 hours (up to 3,750 mg) |
+
+## 2.4 Instructions for Intravenous Administration
+
+For adult and adolescent patients weighing ≥ 50 kg requiring 1,000 mg doses of acetaminophen injection, administer the dose by inserting an intravenous set through the administration spike port of the 100 mL bag.
+Acetaminophen Injection may be administered without further dilution.
+Examine the flexible bag contents before dose preparation or administering.
+DO NOT USE if particulate matter or discoloration is observed.
+Administer the contents of the flexible bag intravenously over 15 minutes.
+Use aseptic technique when preparing acetaminophen injection for intravenous infusion.
+Do not add other medications to the acetaminophen injection flexible bag.
+
+For doses less than 1,000 mg, the appropriate dose must be withdrawn from the acetaminophen injection flexible bag and placed into a separate container prior to administration.
+Using aseptic technique, withdraw the appropriate dose (650 mg or weight-based) from an intact sealed acetaminophen injection flexible bag and place the measured dose in a separate empty, sterile container (e.g., glass bottle, plastic intravenous container, or syringe) for intravenous infusion to avoid the inadvertent delivery and administration of the total volume of the commercially available container.
+The entire 100 mL flexible bag of acetaminophen injection is not intended for use in patients weighing less than 50 kg.
+
+Acetaminophen Injection is supplied in a single-dose flexible bag and the unused portion must be discarded.
+
+Place small volume pediatric doses up to 60 mL in volume in a syringe and administer over 15 minutes using a syringe pump.
+
+Monitor the end of the infusion in order to prevent the possibility of an air embolism, especially in cases where the Acetaminophen Injection infusion is the primary infusion.
+
+Once the seal of the flexible bag has been penetrated, or the contents transferred to another container, administer the dose of acetaminophen injection within 6 hours.
+
+For bags, refrain from applying excessive pressure causing distortion to the bag, such as wringing or twisting, since such handling could result in breakage of the bag.
+
+Do not add other medications to the acetaminophen injection solution.
+Diazepam and chlorpromazine hydrochloride are physically incompatible with acetaminophen injection, therefore do not administer simultaneously.

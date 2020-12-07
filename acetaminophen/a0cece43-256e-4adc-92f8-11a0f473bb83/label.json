@@ -1,0 +1,20 @@
+{
+  "application_numbers": [
+    "NDA204767"
+  ],
+  "inn": "acetaminophen",
+  "labeler": "Fresenius Kabi USA, LLC",
+  "package_ndcs": [
+    "63323-434-00",
+    "63323-434-41"
+  ],
+  "products": [
+    {
+      "form": "INJECTION",
+      "generic": "acetaminophen",
+      "name": "Acetaminophen"
+    }
+  ],
+  "setid": "a0cece43-256e-4adc-92f8-11a0f473bb83",
+  "source": "dailymed"
+}
