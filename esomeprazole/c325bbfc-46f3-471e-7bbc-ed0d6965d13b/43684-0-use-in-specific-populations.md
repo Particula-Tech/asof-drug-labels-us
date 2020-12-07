@@ -22,7 +22,7 @@ Data
 Human Data
 
 Esomeprazole is the S-isomer of omeprazole.
-Four epidemiological studies compared the frequency of congenital abnormalities among infants born to women who used omeprazole during pregnancy with the frequency of abnormalities among infants of women exposed to H2 receptor antagonists or other controls.
+Four epidemiological studies compared the frequency of congenital abnormalities among infants born to women who used omeprazole during pregnancy with the frequency of abnormalities among infants of women exposed to H2-receptor antagonists or other controls.
 
 A population based retrospective cohort epidemiological study from the Swedish Medical Birth Registry, covering approximately 99% of pregnancies, from 1995 to 99, reported on 955 infants (824 exposed during the first trimester with 39 of these exposed beyond first trimester, and 131 exposed after the first trimester) whose mothers used omeprazole during pregnancy.
 The number of infants exposed in utero to omeprazole that had any malformation, low birth weight, low Apgar score, or hospitalization was similar to the number observed in this population.
