@@ -22,18 +22,18 @@ Limited published data on pravastatin have not shown an increased risk of major 
 
 Rare reports of congenital anomalies have been received following intrauterine exposure to other statins.
 In a review2 of approximately 100 prospectively followed pregnancies in women exposed to simvastatin or lovastatin, the incidences of congenital anomalies, spontaneous abortions, and fetal deaths/stillbirths did not exceed what would be expected in the general population.
-The number of cases is adequate to exclude a ≥ 3 to 4 fold increase in congenital anomalies over the background incidence.
+The number of cases is adequate to exclude a ≥3 to 4-fold increase in congenital anomalies over the background incidence.
 In 89% of the prospectively followed pregnancies, drug treatment was initiated prior to pregnancy and was discontinued at some point in the first trimester when pregnancy was identified.
 
 Animal Data
 
 Embryofetal and neonatal mortality was observed in rats given pravastatin during the period of organogenesis or during organogenesis continuing through weaning.
-In pregnant rats given oral gavage doses of 4, 20, 100, 500, and 1000 mg/kg/day from gestation days 7 through 17 (organogenesis) increased mortality of offspring and increased cervical rib skeletal anomalies were observed at ≥ 100 mg/kg/day systemic exposure, 10 times the human exposure at 80 mg/day MRHD based on body surface area (mg/m2).
+In pregnant rats given oral gavage doses of 4, 20, 100, 500, and 1000 mg/kg/day from gestation days 7 through 17 (organogenesis) increased mortality of offspring and increased cervical rib skeletal anomalies were observed at ≥100 mg/kg/day systemic exposure, 10 times the human exposure at 80 mg/day MRHD based on body surface area (mg/m2).
 
 In other studies, no teratogenic effects were observed when pravastatin was dosed orally during organogenesis in rabbits (gestation days 6 through 18) up to 50 mg/kg/day or in rats (gestation days 7 through 17) up to 1000 mg/kg/day.
 Exposures were 10 times (rabbit) or 120 times (rat) the human exposure at 80 mg/day MRHD based on body surface area (mg/m2).
 
-In pregnant rats given oral gavage doses of 10, 100, and 1000 mg/kg/day from gestation day 17 through lactation day 21 (weaning), increased mortality of offspring and developmental delays were observed at ≥ 100 mg/kg/day systemic exposure, corresponding to 12 times the human exposure at 80 mg/day MRHD, based on body surface area (mg/m2).
+In pregnant rats given oral gavage doses of 10, 100, and 1000 mg/kg/day from gestation day 17 through lactation day 21 (weaning), increased mortality of offspring and developmental delays were observed at ≥100 mg/kg/day systemic exposure, corresponding to 12 times the human exposure at 80 mg/day MRHD, based on body surface area (mg/m2).
 
 In pregnant rats, pravastatin crosses the placenta and is found in fetal tissue at 30% of the maternal plasma levels following administration of a single dose of 20 mg/day orally on gestation day 18, which corresponds to exposure 2 times the MRHD of 80 mg daily based on body surface area (mg/m2).
 In lactating rats, up to 7 times higher levels of pravastatin are present in the breast milk than in the maternal plasma, which corresponds to exposure 2 times the MRHD of 80 mg/day based on body surface area (mg/m2).
@@ -76,7 +76,7 @@ Other reported clinical experience has not identified differences in responses t
 
 Mean pravastatin AUCs are slightly (25% to 50%) higher in elderly subjects than in healthy young subjects, but mean maximum plasma concentration (Cmax), time to maximum plasma concentration (Tmax), and half-life (t½) values are similar in both age groups and substantial accumulation of pravastatin would not be expected in the elderly [see Clinical Pharmacology (12.3)].
 
-Since advanced age (≥ 65 years) is a predisposing factor for myopathy, pravastatin sodium should be prescribed with caution in the elderly [see Warnings and Precautions (5.1) and Clinical Pharmacology (12.3)].
+Since advanced age (≥65 years) is a predisposing factor for myopathy, pravastatin sodium should be prescribed with caution in the elderly [see Warnings and Precautions (5.1) and Clinical Pharmacology (12.3)].
 
 ## 8.6 Homozygous Familial Hypercholesterolemia
 

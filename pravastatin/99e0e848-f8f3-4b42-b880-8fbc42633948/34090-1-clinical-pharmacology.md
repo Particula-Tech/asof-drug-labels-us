@@ -40,14 +40,14 @@ Renal Impairment: A single 20 mg oral dose of pravastatin was administered to 24
 No effect was observed on the pharmacokinetics of pravastatin or its 3α-hydroxy isomeric metabolite (SQ 31,906).
 Compared to healthy subjects with normal renal function, patients with severe renal impairment had 69% and 37% higher mean AUC and Cmax values, respectively, and a 0.61 hour shorter t½ for the inactive enzymatic ring hydroxylation metabolite (SQ 31,945).
 
-Hepatic Impairment: In a study comparing the kinetics of pravastatin in patients with biopsy confirmed cirrhosis (N = 7) and normal subjects (N = 7), the mean AUC varied 18 fold in cirrhotic patients and 5 fold in healthy subjects.
-Similarly, the peak pravastatin values varied 47 fold for cirrhotic patients compared to 6 fold for healthy subjects [see Warnings and Precautions (5.2)].
+Hepatic Impairment: In a study comparing the kinetics of pravastatin in patients with biopsy confirmed cirrhosis (N=7) and normal subjects (N=7), the mean AUC varied 18 fold in cirrhotic patients and 5-fold in healthy subjects.
+Similarly, the peak pravastatin values varied 47-fold for cirrhotic patients compared to 6-fold for healthy subjects [see Warnings and Precautions (5.3)].
 
 Geriatric: In a single oral dose study using pravastatin 20 mg, the mean AUC for pravastatin was approximately 27% greater and the mean cumulative urinary excretion (CUE) approximately 19% lower in elderly men (65 to 75 years old) compared with younger men (19 to 31 years old).
 In a similar study conducted in women, the mean AUC for pravastatin was approximately 46% higher and the mean CUE approximately 18% lower in elderly women (65 to 78 years old) compared with younger women (18 to 38 years old).
 In both studies, Cmax, Tmax, and t½ values were similar in older and younger subjects [see Use in Specific Populations (8.5)].
 
-Pediatric: After 2 weeks of once-daily 20 mg oral pravastatin administration, the geometric means of AUC were 80.7 (CV 44%) and 44.8 (CV 89%) ng*hr/mL for children (8 to 11 years, N = 14) and adolescents (12 to 16 years, N = 10), respectively.
+Pediatric: After 2 weeks of once-daily 20 mg oral pravastatin administration, the geometric means of AUC were 80.7 (CV 44%) and 44.8 (CV 89%) ng*hr/mL for children (8 to 11 years, N=14) and adolescents (12 to 16 years, N=10), respectively.
 The corresponding values for Cmax were 42.4 (CV 54%) and 18.6 ng/mL (CV 100%) for children and adolescents, respectively.
 No conclusion can be made based on these findings due to the small number of samples and large variability [see Use in Specific Populations (8.4)].
 

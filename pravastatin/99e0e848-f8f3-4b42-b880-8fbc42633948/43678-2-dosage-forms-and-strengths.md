@@ -1,6 +1,6 @@
 # 3 DOSAGE FORMS AND STRENGTHS
 
-Pravastatin sodium tablets USP are supplied as:
+Pravastatin Sodium Tablets USP are supplied as:
 
 10 mg tablets: Pink, unscored, round tablet, debossed “TEVA” on one side and “771” on the other side.
 

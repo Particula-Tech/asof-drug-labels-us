@@ -2,7 +2,7 @@
 
 ## 16.1 How Supplied
 
-Pravastatin sodium tablets USP are supplied as:
+Pravastatin Sodium Tablets USP are supplied as:
 
 10 mg tablets: Pink, unscored, round tablet, debossed “TEVA” on one side and “771” on the other side in bottles of 90 (NDC 0093-0771-98) and 1000 (NDC 0093-0771-10).
 

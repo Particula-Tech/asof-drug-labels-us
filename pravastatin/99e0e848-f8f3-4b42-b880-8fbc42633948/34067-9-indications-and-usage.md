@@ -26,7 +26,7 @@ Pravastatin sodium tablets are indicated:
 - as an adjunct to diet to reduce elevated total cholesterol (Total-C), low-density lipoprotein cholesterol (LDL-C), apolipoprotein B (ApoB), and triglyceride (TG) levels and to increase high-density lipoprotein cholesterol (HDL-C) in patients with primary hypercholesterolemia and mixed dyslipidemia (Fredrickson Types IIa and IIb).1
 - as an adjunct to diet for the treatment of patients with elevated serum TG levels (Fredrickson Type IV).
 - for the treatment of patients with primary dysbetalipoproteinemia (Fredrickson Type III) who do not respond adequately to diet.
-- as an adjunct to diet and lifestyle modification for treatment of heterozygous familial hypercholesterolemia (HeFH) in children and adolescent patients ages 8 years and older if after an adequate trial of diet the following findings are present: a. LDL-C remains ≥ 190 mg/dL or b. LDL-C remains ≥ 160 mg/dL and:
+- as an adjunct to diet and lifestyle modification for treatment of heterozygous familial hypercholesterolemia (HeFH) in children and adolescent patients ages 8 years and older if after an adequate trial of diet the following findings are present: a. LDL-C remains ≥190 mg/dL or b. LDL-C remains ≥160 mg/dL and:
   - there is a positive family history of premature cardiovascular disease (CVD) or
   - two or more other CVD risk factors are present in the patient.
 

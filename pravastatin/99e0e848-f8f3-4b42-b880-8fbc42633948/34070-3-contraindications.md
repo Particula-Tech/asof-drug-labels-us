@@ -6,7 +6,7 @@ Hypersensitivity to any component of this medication.
 
 ## 4.2 Liver
 
-Active liver disease or unexplained, persistent elevations of serum transaminases [see Warnings and Precautions (5.2)].
+Active liver disease or unexplained, persistent elevations of serum transaminases [see Warnings and Precautions (5.3)].
 
 ## 4.3 Pregnancy
 
