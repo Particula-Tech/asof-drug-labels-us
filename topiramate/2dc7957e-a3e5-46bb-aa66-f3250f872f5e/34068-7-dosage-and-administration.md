@@ -52,10 +52,10 @@ Subsequently, increase the dosage at 1- or 2-week intervals by increments of 1 m
 Dose titration should be guided by clinical outcome.
 The total daily dose should not exceed 400 mg/day.
 
-## 2.3 Dosing in Migraine Prophylaxis
+## 2.3 Dosing for the Preventive Treatment of Migraine
 
-The recommended total daily dose of TROKENDI XR ® as treatment for prophylaxis of migraine headache in patients 12 years of age and older is 100 mg once daily.
-Titrate TROKENDI XR ® for migraine prophylaxis according to the following schedule:
+The recommended total daily dose of TROKENDI XR ® as treatment for the preventive treatment of migraine in patients 12 years of age and older is 100 mg once daily.
+Titrate TROKENDI XR ® for the preventive treatment of migraine according to the following schedule:
 
 | Week 1: | 25mg once daily |
 | --- | --- |

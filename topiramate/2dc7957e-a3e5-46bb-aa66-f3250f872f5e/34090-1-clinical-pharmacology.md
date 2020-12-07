@@ -2,7 +2,7 @@
 
 ## 12.1 Mechanism of Action
 
-The precise mechanisms by which topiramate exerts its anticonvulsant and migraine prophylaxis effects are unknown; however, preclinical studies have revealed four properties that may contribute to topiramate's efficacy for epilepsy and migraine prophylaxis.
+The precise mechanisms by which topiramate exerts its anticonvulsant and preventive migraine effects are unknown; however, preclinical studies have revealed four properties that may contribute to topiramate's efficacy for epilepsy and the preventive treatment of migraine.
 Electrophysiological and biochemical evidence suggests that topiramate, at pharmacologically relevant concentrations, blocks voltage-dependent sodium channels, augments the activity of the neurotransmitter gamma-aminobutyrate at some subtypes of the GABA-A receptor, antagonizes the AMPA/kainate subtype of the glutamate receptor, and inhibits the carbonic anhydrase enzyme, particularly isozymes II and IV.
 
 ## 12.2 Pharmacodynamics
@@ -11,7 +11,7 @@ Topiramate has anticonvulsant activity in rat and mouse maximal electroshock sei
 Topiramate is only weakly effective in blocking clonic seizures induced by the GABA-A receptor antagonist, pentylenetetrazole.
 Topiramate is also effective in rodent models of epilepsy, which include tonic and absence-like seizures in the spontaneous epileptic rat (SER) and tonic and clonic seizures induced in rats by kindling of the amygdala or by global ischemia.
 
-Changes (increases and decreases) from baseline in vital signs (systolic blood pressure-SBP, diastolic blood pressure-DBP, pulse) occurred more frequently in pediatric patients (6 to 17 years) treated with various daily doses of topiramate (50 mg, 100 mg, 200 mg, 2 to 3 mg/kg) than in patients treated with placebo in controlled trials for migraine prophylaxis.
+Changes (increases and decreases) from baseline in vital signs (systolic blood pressure-SBP, diastolic blood pressure-DBP, pulse) occurred more frequently in pediatric patients (6 to 17 years) treated with various daily doses of topiramate (50 mg, 100 mg, 200 mg, 2 to 3 mg/kg) than in patients treated with placebo in controlled trials for the preventive treatment of migraine.
 The most notable changes were SBP < 90 mm Hg, DBP < 50 mm Hg, SBP or DBP increases or decreases ≥ 20 mm Hg, and pulse increases or decreases ≥ 30 beats per minute.
 These changes were often dose-related, and were most frequently associated with the greatest treatment difference at the 200 mg dose level.
 Systematic collection of orthostatic vital signs has not been conducted.
@@ -28,7 +28,7 @@ The peak plasma concentrations (C max) of topiramate occurred at approximately 2
 At steady-state, the (AUC 0-24, C max, and C min) of topiramate from TROKENDI XR ® administered once-daily and the immediate-release tablet administered twice-daily were shown to be bioequivalent.
 Fluctuation of topiramate plasma concentrations at steady-state for TROKENDI XR ® administered once-daily was approximately 26% and 42% in healthy subjects and in epileptic patients, respectively, compared to approximately 40% and 51%, respectively, for immediate-release topiramate [see Clinical Pharmacology (12.6)].
 
-Compared to the fasted state, high-fat meal increased the C max of topiramate by 37% and shortened the T max to approximately 8 hour following a single dose of TROKENDI XR ®, while having no effect on the AUC.
+Compared to the fasted state, high-fat meal increased the C max of topiramate by 37% and shortened the T max to approximately 8 hours following a single dose of TROKENDI XR ®, while having no effect on the AUC.
 Modeling of the observed single dose fed data with simulation to steady state showed that the effect on C max is significantly reduced following repeat administrations.
 TROKENDI XR ® can be taken without regard to meals.
 
@@ -218,7 +218,7 @@ TROKENDI XR ® taken once a day provides steady state plasma levels comparable t
 In a crossover study, 33 healthy subjects were titrated to a 200-mg dose of either TROKENDI XR ® or immediate-release topiramate and were maintained at 200 mg per day for 10 days.
 
 The 90% CI for the ratios of AUC 0-24, C max and C min, as well as partial AUC (the area under the concentration-time curve from time 0 to time p (post dose) for multiple time points were within the 80 to 125% bioequivalence limits, indicating no clinically significant difference between the two formulations.
-In addition, the 90% CI for the ratios of topiramate plasma concentration at each of multiple time points over 24 hours for the two formulations were within the 80 to 125% bioequivalence limits, except for the initial time points before 1.5 hour post-dose.
+In addition, the 90% CI for the ratios of topiramate plasma concentration at each of multiple time points over 24 hours for the two formulations were within the 80 to 125% bioequivalence limits, except for the initial time points before 1.5 hours post-dose.
 
 Study in Patients with Epilepsy
 

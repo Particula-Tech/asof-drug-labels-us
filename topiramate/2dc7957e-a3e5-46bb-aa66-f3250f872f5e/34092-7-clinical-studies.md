@@ -156,11 +156,11 @@ Subset analyses of the antiepileptic efficacy of topiramate tablets in these stu
 
 In clinical trials for epilepsy, daily dosages were decreased in weekly intervals by 50 mg per day to 100 mg per day in adults and over a 2- to 8-week period in pediatric patients; transition was permitted to a new antiepileptic regimen when clinically indicated.
 
-## 14.4 Migraine Prophylaxis
+## 14.4 Preventive Treatment of Migraine
 
 Adult Patients
 
-The results of 2 multicenter, randomized, double-blind, placebo-controlled, parallel-group clinical trials conducted in US (Study 11) or the US and Canada (Study 12) established the effectiveness of immediate-release topiramate in the prophylactic treatment of migraine headache.
+The results of 2 multicenter, randomized, double-blind, placebo-controlled, parallel-group clinical trials conducted in US (Study 11) or the US and Canada (Study 12) established the effectiveness of immediate-release topiramate in the preventive treatment of migraine.
 The design of both trials was identical, enrolling patients with a history of migraine with or without aura, for at least 6 months, according to the International Headache Society (IHS) diagnostic criteria.
 Patients with a history of cluster headaches or basilar, opthalmoplegic, hemiplegic, or transformed migraine headaches were excluded from the trials.
 Patients were required to have completed up to a 2-week washout of any prior migraine preventative medications before starting the baseline phase.
@@ -174,9 +174,9 @@ In Study 11, a total of 469 patients (416 females, 53 males) ranging in age from
 Two hundred sixty-five patients completed the entire 26-week double-blind phase.
 The median average daily dosages were 48 mg/day, 88 mg/day, and 132 mg/day in the target dose groups of topiramate 50, 100 and 200 mg/day, respectively.
 
-The mean migraine headache frequency rate at baseline was approximately 5.5 migraine headaches per 28 days, and was similar across treatment groups.
+The mean migraine headache frequency rate at baseline was approximately 5.5 migraine headaches per 28 days and was similar across treatment groups.
 The change in the mean 4-week migraine headache frequency from baseline to the double-blind phase was -1.3, -2.1, and -2.2 in the immediate-release topiramate 50, 100, and 200 mg/day groups, respectively, versus -0.8 in the placebo group (see Figure 2).
-The treatment differences between the immediate release topiramate 100 and 200 mg/day groups versus placebo were similar and statistically significant (p less than 0.001 for both comparisons).
+The treatment differences between the immediate release topiramate 100 and 200 mg/day groups versus placebo were similar and statistically significant (p < 0.001 for both comparisons).
 
 In Study 12, a total of 468 patients (406 females, 62 males) ranging in age from 12 to 65 years, were randomized and provided efficacy data.
 Two hundred fifty-five patients completed the entire 26-week double-blind phase.
@@ -184,7 +184,7 @@ The median average daily dosages were 47 mg/day, 86 mg/day, and 150 mg/day in th
 
 The mean migraine headache frequency rate at baseline was approximately 5.5 migraine headaches per 28 days and was similar across treatment groups.
 The change in the mean 4-week migraine headache period frequency from baseline to the double-blind phase was -1.4, -2.1, and -2.4 in the immediate-release topiramate 50, 100, and 200 mg/day groups, respectively, versus -1.1 in the placebo group (see Figure 2).
-The differences between the immediate-release topiramate 100 and 200 mg per day groups versus placebo were similar and statistically significant (p equals 0.008 and p less than 0.001, respectively).
+The differences between the immediate-release topiramate 100 and 200 mg per day groups versus placebo were similar and statistically significant (p = 0.008 and p < 0.001, respectively).
 
 In both studies there were no apparent differences in treatment effect within age or gender subgroups.
 Because most patients were Caucasian, there were insufficient numbers of patients from different races to make a meaningful comparison of race.
@@ -196,7 +196,7 @@ For patients withdrawing from immediate-release topiramate, daily dosages were d
 
 Pediatric Patients 12 to 17 Years of Age
 
-The effectiveness of immediate-release topiramate as prophylaxis for migraine headache in pediatric patients 12 to 17 years of age was established in a multicenter, randomized, double-blind, parallel-group trial (Study 13).
+The effectiveness of immediate-release topiramate for the preventive treatment of migraine in pediatric patients 12 to 17 years of age was established in a multicenter, randomized, double-blind, parallel-group trial (Study 13).
 The study enrolled 103 patients (40 male, 63 female) 12 to 17 years of age with episodic migraine headaches with or without aura.
 Patient selection was based on IHS criteria for migraines (using proposed revisions to the 1988 IHS pediatric migraine criteria [IHS-R criteria]).
 

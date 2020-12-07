@@ -43,7 +43,7 @@ The incidence of decreased serum bicarbonate in pediatric trials for adjunctive 
 The incidence of a markedly abnormally low serum bicarbonate (i.e., absolute value <17 mEq/L and >5mEq/L decrease from pretreatment) in these trials was up to 11%, compared to ≤2% for placebo.
 
 Manifestations of acute or chronic metabolic acidosis may include hyperventilation, nonspecific symptoms such as fatigue and anorexia, or more severe sequelae including cardiac arrhythmias or stupor.
-Chronic, untreated metabolic acidosis may increase the risk for nephrolithiasis or nephrocalcinosis, and may also result in osteomalacia (referred to as rickets in pediatric patients) and/or osteoporosis with an increased risk for fractures.
+Chronic, untreated metabolic acidosis may increase the risk for nephrolithiasis or nephrocalcinosis, and may also result in osteomalacia (referred to as rickets in pediatric patients) and/or osteoporosis with an increased risk for fractures [see Warnings and Precautions (5.12)].
 Chronic metabolic acidosis in pediatric patients may also reduce growth rates, which may decrease the maximal height achieved.
 The effect of topiramate on growth and bone-related sequelae has not been systematically investigated in long-term, placebo-controlled trials.
 Long-term, open-label treatment of pediatric patients 1 to 24 months old with intractable partial epilepsy, for up to 1 year, showed reductions from baseline in length, weight, and head circumference compared to age and sex-matched normative data, although these patients with epilepsy are likely to have different growth rates than normal 1 to 24 month old pediatrics.
@@ -98,7 +98,7 @@ Should suicidal thoughts and behavior emerge during treatment, the prescriber ne
 ## 5.7 Cognitive/Neuropsychiatric Adverse Reactions
 
 Immediate-release topiramate can cause, and therefore expected to be caused by TROKENDI XR ®, cognitive/neuropsychiatric adverse reactions.
-The most frequent of these can be classified into three general categories: 1) Cognitive-related dysfunction (e.g., confusion, psychomotor slowing, difficulty with concentration/attention, difficulty with memory, speech or language problems, particularly word-finding difficulties); 2) Psychiatric/behavioral disturbances (e.g.,depression or mood problems); and 3) Somnolence or fatigue.
+The most frequent of these can be classified into three general categories: 1) Cognitive-related dysfunction (e.g., confusion, psychomotor slowing, difficulty with concentration/attention, difficulty with memory, speech or language problems, particularly word-finding difficulties); 2) Psychiatric/behavioral disturbances (e.g., depression or mood problems); and 3) Somnolence or fatigue.
 
 Adult Patients
 
@@ -111,7 +111,7 @@ In this rapid titration regimen, these dose-related adverse reactions began in t
 
 In the monotherapy epilepsy controlled trial conducted with immediate-release topiramate, the proportion of patients who experienced one or more cognitive-related adverse reactions was 19% for topiramate 50 mg per day and 26% for 400 mg per day.
 
-In the 6-month migraine prophylaxis controlled trials of immediate release topiramate using a slower titration regimen (25mg per day weekly increments), the proportion of patients who experienced one or more cognitive-related adverse reactions was 19% for topiramate 50 mg per day, 22% for 100 mg per day (the recommended dose), 28% for 200 mg per day and 10% for placebo.
+In the 6-month controlled trials for the preventive treatment of migraine with immediate release topiramate using a slower titration regimen (25mg per day weekly increments), the proportion of patients who experienced one or more cognitive-related adverse reactions was 19% for topiramate 50 mg per day, 22% for 100 mg per day (the recommended dose), 28% for 200 mg per day and 10% for placebo.
 Cognitive adverse reactions most commonly developed during titration and sometimes persisted after completion of titration.
 
 Psychiatric/Behavioral Disturbances
@@ -173,7 +173,7 @@ Postmarketing cases of hyperammonemia with or without encephalopathy have been r
 Clinical symptoms of hyperammonemic encephalopathy often include acute alterations in level of consciousness and/or cognitive function with lethargy and/or vomiting.
 In most cases, hyperammonemic encephalopathy abated with discontinuation of treatment.
 
-The incidence of hyperammonemia in pediatric patients 12 to 17 years of age in migraine prophylaxis trials was 26% in patients taking topiramate monotherapy at 100 mg/day, and 14% in patients taking topiramate at 50 mg/day, compared to 9% in patients taking placebo.
+The incidence of hyperammonemia in pediatric patients 12 to 17 years of age in the preventive treatment of migraine trials was 26% in patients taking topiramate monotherapy at 100 mg/day, and 14% in patients taking topiramate at 50 mg/day, compared to 9% in patients taking placebo.
 There was also an increased incidence of markedly increased hyperammonemia at the 100 mg dose.
 
 Dose-related hyperammonemia was also seen in pediatric patients 1 to 24 months of age treated with topiramate and concomitant valproic acid for partial onset epilepsy, and this was not due to a pharmacokinetic interaction.

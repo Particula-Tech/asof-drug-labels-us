@@ -10,4 +10,4 @@ TROKENDI XR ® is indicated as adjunctive therapy for the treatment of partial-o
 
 ## 1.3 Migraine
 
-TROKENDI XR ® is indicated for the prophylaxis of migraine headache in patients 12 years of age and older [see Clinical Studies (14.4)].
+TROKENDI XR ® is indicated for the preventive treatment of migraine in patients 12 years of age and older [see Clinical Studies (14.4)].
