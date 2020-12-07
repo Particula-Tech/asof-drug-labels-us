@@ -18,7 +18,7 @@ What is the most important information I should know about OZEMPIC?
 OZEMPIC may cause serious side effects, including:
 
 - •Possible thyroid tumors, including cancer.
-  Tell your healthcare provider if you get a lump or swelling in yourneck, hoarseness, trouble swallowing, or shortness of breath.
+  Tell your healthcare provider if you get a lump or swelling in your neck, hoarseness, trouble swallowing, or shortness of breath.
   These may be symptoms of thyroid cancer.
   In studies with rodents, OZEMPIC and medicines that work like OZEMPIC caused thyroid tumors, including thyroid cancer.
   It is not known if OZEMPIC will cause thyroid tumors or a type of thyroid cancer called medullary thyroid carcinoma (MTC) in people.
@@ -94,7 +94,7 @@ What are the possible side effects of OZEMPIC?
 OZEMPIC may cause serious side effects, including:
 
 - •See “What is the most important information I should know about OZEMPIC?”
-- •inflammation of your pancreas(pancreatitis).
+- •inflammation of your pancreas (pancreatitis).
   Stop using OZEMPIC and call your healthcare provider right away if you have severe pain in your stomach area (abdomen) that will not go away, with or without vomiting.
   You may feel the pain from your abdomen to your back.
 - •changes in vision.
@@ -117,7 +117,7 @@ OZEMPIC may cause serious side effects, including:
 - •kidney problems (kidney failure).
   In people who have kidney problems, diarrhea, nausea, and vomiting may cause a loss of fluids (dehydration) which may cause kidney problems to get worse.
   It is important for you to drink fluids to help reduce your chance of dehydration.
-- •seriousallergic reactions.
+- •serious allergic reactions.
   Stop using OZEMPIC and get medical help right away, if you have any symptoms of a serious allergic reaction including itching, rash, or difficulty breathing.
 
 The most common side effects of OZEMPIC may include nausea, vomiting, diarrhea, stomach (abdominal) pain and constipation.

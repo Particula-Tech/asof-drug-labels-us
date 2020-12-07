@@ -32,7 +32,7 @@ Inform patients to stop taking OZEMPIC and seek medical advice promptly if sympt
 Pregnancy
 
 Advise a pregnant woman of the potential risk to a fetus.
-Advise women to inform their healthcare provider if they are pregnant or intend to become pregnant [see Use in SpecificPopulations (8.1), (8.3)].
+Advise women to inform their healthcare provider if they are pregnant or intend to become pregnant [see Use in Specific Populations (8.1), (8.3)].
 
 Inform patients if a dose is missed, it should be administered as soon as possible within 5 days after the missed dose.
 If more than 5 days have passed, the missed dose should be skipped and the next dose should be administered on the regularly scheduled day.

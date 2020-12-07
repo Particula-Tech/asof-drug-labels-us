@@ -1,4 +1,4 @@
-# PRINCIPAL DISPLAY PANEL – 1 mg
+# PRINCIPAL DISPLAY PANEL – 1 mg dose, 1.5 mL Pen
 
 1 mg
 
@@ -52,7 +52,7 @@ Contains: 1 Ozempic® pen, 6 NovoFine® Plus 32G needles, Product Literature.
 
 Dispense the enclosed Medication Guide to each patient.
 
-# PRINCIPAL DISPLAY PANEL – 3 ML Pen
+# PRINCIPAL DISPLAY PANEL – 1 mg dose, 3 mL Pen
 
 1 mg
 

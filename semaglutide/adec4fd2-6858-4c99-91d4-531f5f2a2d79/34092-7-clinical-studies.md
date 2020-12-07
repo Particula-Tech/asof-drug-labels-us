@@ -51,12 +51,12 @@ The difference from placebo (95% CI) for OZEMPIC 0.5 mg was -2.6 kg (-3.8, -1.5)
 
 Combination with metformin and/or thiazolidinediones
 
-In a 56-week, double-blind trial (NCT01930188), 1231 patients with type 2 diabetes mellitus were randomized to OZEMPIC0.5 mg once weekly, OZEMPIC1 mg once weekly, or sitagliptin 100 mg once daily, all in combination with metformin (94%) and/or thiazolidinediones (6%).
+In a 56-week, double-blind trial (NCT01930188), 1231 patients with type 2 diabetes mellitus were randomized to OZEMPIC 0.5 mg once weekly, OZEMPIC 1 mg once weekly, or sitagliptin 100 mg once daily, all in combination with metformin (94%) and/or thiazolidinediones (6%).
 Patients had a mean age of 55 years and 51% were men.
 The mean duration of type 2 diabetes was 6.6 years, and the mean BMI was 32 kg/m2.
 Overall, 68% were White, 5% were Black or African American, and 25% were Asian; 17% identified as Hispanic or Latino ethnicity.
 
-Treatment with OZEMPIC0.5 mg and 1 mg once weekly for 56 weeks resulted in a statistically significant reduction in HbA1c compared to sitagliptin (see Table 4 and Figure 5).
+Treatment with OZEMPIC 0.5 mg and 1 mg once weekly for 56 weeks resulted in a statistically significant reduction in HbA1c compared to sitagliptin (see Table 4 and Figure 5).
 
 Table 4.
 Results at Week 56 in a Trial of OZEMPIC Compared to Sitagliptin in Adult Patients with Type 2 Diabetes Mellitus in Combination with Metformin and/or Thiazolidinediones
@@ -90,7 +90,7 @@ The difference from sitagliptin (95% CI) for OZEMPIC 0.5 mg was -2.5 kg (-3.2, -
 
 Combination with metformin or metformin with sulfonylurea
 
-In a 56-week, open-label trial (NCT01885208), 813 patients with type 2 diabetes mellitus on metformin alone (49%), metformin with sulfonylurea (45%), or other (6%) were randomized to OZEMPIC1 mg once weekly or exenatide 2 mg once weekly.
+In a 56-week, open-label trial (NCT01885208), 813 patients with type 2 diabetes mellitus on metformin alone (49%), metformin with sulfonylurea (45%), or other (6%) were randomized to OZEMPIC 1 mg once weekly or exenatide 2 mg once weekly.
 Patients had a mean age of 57 years and 55% were men.
 The mean duration of type 2 diabetes was 9 years, and the mean BMI was 34 kg/m2.
 Overall, 84% were White, 7% were Black or African American, and 2% were Asian; 24% identified as Hispanic or Latino ethnicity.
@@ -167,13 +167,13 @@ The difference from insulin glargine (95% CI) for OZEMPIC 0.5 mg was -4.1 kg (-4
 
 Combination with basal insulin
 
-In a 30-week, double-blind trial (NCT02305381), 397 patients with type 2 diabetes mellitus inadequately controlled with basal insulin, with or without metformin, were randomized to OZEMPIC0.5 mg once weekly, OZEMPIC1 mg once weekly, or placebo.
+In a 30-week, double-blind trial (NCT02305381), 397 patients with type 2 diabetes mellitus inadequately controlled with basal insulin, with or without metformin, were randomized to OZEMPIC 0.5 mg once weekly, OZEMPIC 1 mg once weekly, or placebo.
 Patients with HbA1c ≤ 8.0% at screening reduced their insulin dose by 20% at start of the trial to reduce the risk of hypoglycemia.
 Patients had a mean age of 59 years and 56% were men.
 The mean duration of type 2 diabetes was 13 years, and the mean BMI was 32 kg/m2.
 Overall, 78% were White, 5% were Black or African American, and 17% were Asian; 12% identified as Hispanic or Latino ethnicity.
 
-Treatment with OZEMPICresulted in a statistically significant reduction in HbA1c after 30 weeks of treatment compared to placebo (see Table 7).
+Treatment with OZEMPIC resulted in a statistically significant reduction in HbA1c after 30 weeks of treatment compared to placebo (see Table 7).
 
 Table 7.
 Results at Week 30 in a Trial of OZEMPIC in Adult Patients with Type 2 Diabetes Mellitus in Combination with Basal Insulin with or without Metformin
@@ -205,7 +205,7 @@ The difference from placebo (95% CI) for OZEMPIC 0.5 mg was -2.2 kg (-3.4, -1.1)
 ## 14.4 Cardiovascular Outcomes Trial of OZEMPIC in Patients with Type 2 Diabetes Mellitus and Cardiovascular Disease
 
 SUSTAIN 6 (NCT01720446) was a multi-center, multi-national, placebo-controlled, double-blind cardiovascular outcomes trial.
-In this trial, 3,297 patients with inadequately controlled type 2 diabetes and atherosclerotic cardiovascular disease were randomized to OZEMPIC(0.5 mg or 1 mg) once weekly or placebo for a minimum observation time of 2 years.
+In this trial, 3,297 patients with inadequately controlled type 2 diabetes and atherosclerotic cardiovascular disease were randomized to OZEMPIC (0.5 mg or 1 mg) once weekly or placebo for a minimum observation time of 2 years.
 The trial compared the risk of Major Adverse Cardiovascular Event (MACE) between semaglutide and placebo when these were added to and used concomitantly with standard of care treatments for diabetes and cardiovascular disease.
 The primary endpoint, MACE, was the time to first occurrence of a three-part composite outcome which included cardiovascular death, non-fatal myocardial infarction and non-fatal stroke.
 

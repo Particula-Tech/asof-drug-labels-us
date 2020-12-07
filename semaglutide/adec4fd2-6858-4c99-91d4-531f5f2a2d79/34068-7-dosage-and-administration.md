@@ -7,7 +7,7 @@
 - •After 4 weeks on the 0.25 mg dose, increase the dosage to 0.5 mg once weekly.
 - •If additional glycemic control is needed after at least 4 weeks on the 0.5 mg dose, the dosage may be increased to 1 mg once weekly.
   The maximum recommended dosage is 1 mg once weekly.
-- •Administer OZEMPIConce weekly, on the same day each week, at any time of the day, with or without meals.
+- •Administer OZEMPIC once weekly, on the same day each week, at any time of the day, with or without meals.
 - •The day of weekly administration can be changed if necessary as long as the time between two doses is at least 2 days (>48 hours).
 - •If a dose is missed, administer OZEMPIC as soon as possible within 5 days after the missed dose.
   If more than 5 days have passed, skip the missed dose and administer the next dose on the regularly scheduled day.
