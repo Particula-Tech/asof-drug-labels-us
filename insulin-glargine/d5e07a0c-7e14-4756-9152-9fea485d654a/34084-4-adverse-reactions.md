@@ -12,12 +12,12 @@ Because clinical trials are conducted under widely varying conditions, adverse r
 
 The data in Table 1 reflect the exposure of 2327 patients with type 1 diabetes to LANTUS or NPH.
 The type 1 diabetes population had the following characteristics: Mean age was 38.5 years.
-Fifty four percent were male, 96.9% were Caucasian, 1.8% were Black or African American and 2.7% were Hispanic.
+Fifty-four percent were male, 96.9% were Caucasian, 1.8% were Black or African American and 2.7% were Hispanic.
 The mean BMI was 25.1 kg/m2.
 
 The data in Table 2 reflect the exposure of 1563 patients with type 2 diabetes to LANTUS or NPH.
 The type 2 diabetes population had the following characteristics: Mean age was 59.3 years.
-Fifty eight percent were male, 86.7% were Caucasian, 7.8% were Black or African American and 9% were Hispanic.
+Fifty-eight percent were male, 86.7% were Caucasian, 7.8% were Black or African American and 9% were Hispanic.
 The mean BMI was 29.2 kg/m2.
 
 The frequencies of adverse events during LANTUS clinical trials in patients with type 1 diabetes mellitus and type 2 diabetes mellitus are listed in the tables below.
@@ -71,7 +71,7 @@ Table 4: Adverse Events in a 28-Week Clinical Trial of Children and Adolescents 
 Severe Hypoglycemia
 
 Hypoglycemia is the most commonly observed adverse reaction in patients using insulin, including LANTUS [see Warnings and Precautions (5.3)].
-Tables 5, and 6, and 7 summarize the incidence of severe hypoglycemia in the LANTUS individual clinical trials.
+Tables 5, 6, and 7 summarize the incidence of severe hypoglycemia in the LANTUS individual clinical trials.
 Severe symptomatic hypoglycemia was defined as an event with symptoms consistent with hypoglycemia requiring the assistance of another person and associated with either a blood glucose below 50 mg/dL (≤56 mg/dL in the 5-year trial and ≤36 mg/dL in the ORIGIN trial) or prompt recovery after oral carbohydrate, intravenous glucose or glucagon administration.
 
 Percentages of LANTUS-treated adult patients experiencing severe symptomatic hypoglycemia in the LANTUS clinical trials [see Clinical Studies (14)] were comparable to percentages of NPH-treated patients for all treatment regimens (see Tables 5 and 6).

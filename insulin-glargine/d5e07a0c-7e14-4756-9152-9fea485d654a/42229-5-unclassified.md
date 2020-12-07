@@ -1,6 +1,6 @@
 sanofi-aventis U.S. LLC Bridgewater, NJ 08807 A SANOFI COMPANY
 
-©2019 sanofi-aventis U.S. LLC
+©2020 sanofi-aventis U.S. LLC
 
 LANTUS, TOUJEO and SoloStar are registered trademarks of sanofi-aventis U.S. LLC.
 
@@ -126,11 +126,11 @@ How should I store LANTUS?
 
 This Instructions for Use has been approved by the U.S. Food and Drug Administration.
 
-Revised: November 2019
+Revised: December 2020
 
 sanofi-aventis U.S. LLC Bridgewater, NJ 08807 A SANOFI COMPANY
 
-©2019 sanofi-aventis U.S. LLC
+©2020 sanofi-aventis U.S. LLC
 
 | Patient Information LANTUS® (LAN-tus) (insulin glargine injection) for subcutaneous use, 100 Units/mL (U-100) |
 | --- |
@@ -143,9 +143,10 @@ sanofi-aventis U.S. LLC Bridgewater, NJ 08807 A SANOFI COMPANY
 | What are the possible side effects of LANTUS and other insulins?LANTUS may cause serious side effects that can lead to death, including: low blood sugar (hypoglycemia). Signs and symptoms that may indicate low blood sugar include: dizziness or light-headedness, sweating, confusion, headache, blurred vision, slurred speech, shakiness, fast heartbeat, anxiety, irritability or mood change, hunger. severe allergic reaction (whole body reaction). Get medical help right away if you have any of these signs or symptoms of a severe allergic reaction: a rash over your whole body, trouble breathing, a fast heartbeat, or sweating. low potassium in your blood (hypokalemia).Heart failure. Taking certain diabetes pills called TZDs (thiazolidinediones) with LANTUS may cause heart failure in some people. This can happen even if you have never had heart failure or heart problems before. If you already have heart failure it may get worse while you take TZDs with LANTUS. Your healthcare provider should monitor you closely while you are taking TZDs with LANTUS. Tell your healthcare provider if you have any new or worse symptoms of heart failure including: shortness of breath, swelling of your ankles or feet, sudden weight gain. Treatment with TZDs and LANTUS may need to be changed or stopped by your healthcare provider if you have new or worse heart failure. Get emergency medical help if you have: trouble breathing; shortness of breath; fast heartbeat; swelling of your face, tongue, or throat; sweating; extreme drowsiness; dizziness; confusion. The most common side effects of LANTUS include: low blood sugar (hypoglycemia); weight gain; allergic reactions, including reactions at your injection site; skin thickening or pits at the injection site (lipodystrophy). These are not all the possible side effects of LANTUS. Call your doctor for medical advice about side effects. You may report side effects to FDA at 1-800-FDA-1088. |
 | General information about the safe and effective use of LANTUS.Medicines are sometimes prescribed for purposes other than those listed in a Patient Information leaflet. Do not use LANTUS for a condition for which it was not prescribed. Do not give LANTUS to other people, even if they have the same symptoms that you have. It may harm them. This Patient Information leaflet summarizes the most important information about LANTUS. If you would like more information, talk with your healthcare provider. You can ask your healthcare provider or pharmacist for information about LANTUS that is written for healthcare professionals. For more information about LANTUS call 1-800-633-1610 or go to the website www.lantus.com. |
 | What are the ingredients in LANTUS? Active ingredient: insulin glargine3 mL SoloStar prefilled pen inactive ingredients: zinc, m-cresol, glycerol, and water for injection Hydrochloric acid and sodium hydroxide may be added to adjust the pH. |
-| Manufactured by: sanofi-aventis U.S. LLC Bridgewater, NJ 08807 |
+| Manufactured by: sanofi-aventis U.S. LLC, Bridgewater, NJ 08807 |
 
-This Patient Information has been approved by the U.S. Food and Drug Administration Revised: November 2019
+This Patient Information has been approved by the U.S. Food and Drug Administration.
+Revised: December 2020
 
 Instructions for Use LANTUS® SOLOSTAR® Single-Patient-Use Prefilled Pen (insulin glargine injection)
 
@@ -278,7 +279,7 @@ Remove and discard the needle
 Always remove the needle after each injection and store SoloStar without a needle attached.
 This helps prevent:
 
-- Contamination and/or infection
+- Contamination and/or infection.
 - Entry of air into the insulin reservoir and leakage of insulin, which can cause inaccurate dosing.
 
 - A.Put the outer needle cap back on the needle, and use it to unscrew the needle from the pen.
@@ -330,8 +331,8 @@ If you are concerned that your SoloStar may be damaged, use a new one.
 
 This Instructions for Use has been approved by the U.S. Food and Drug Administration.
 
-Revised: November 2019
+Revised: December 2020
 
 sanofi-aventis U.S. LLC Bridgewater, NJ 08807 A SANOFI COMPANY
 
-©2019 sanofi-aventis U.S. LLC
+©2020 sanofi-aventis U.S. LLC

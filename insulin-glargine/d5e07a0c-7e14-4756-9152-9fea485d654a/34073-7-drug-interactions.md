@@ -15,5 +15,5 @@ Table 8: Clinically Significant Drug Interactions with LANTUS
 | Drugs: | Alcohol, beta-blockers, clonidine, and lithium salts. Pentamidine may cause hypoglycemia, which may sometimes be followed by hyperglycemia. |
 | Intervention: | Dose adjustment and increased frequency of glucose monitoring may be required when LANTUS is coadministered with these drugs. |
 | Drugs that May Blunt Signs and Symptoms of Hypoglycemia |  |
-| Drugs: | beta-blockers, clonidine, guanethidine, and reserpine |
+| Drugs: | Beta-blockers, clonidine, guanethidine, and reserpine. |
 | Intervention: | Increased frequency of glucose monitoring may be required when LANTUS is coadministered with these drugs. |
