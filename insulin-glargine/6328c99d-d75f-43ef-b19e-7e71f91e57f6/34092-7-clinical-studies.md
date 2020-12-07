@@ -7,7 +7,7 @@ In general, the reduction in glycated hemoglobin (HbA1c) with LANTUS was similar
 
 ## 14.2 Clinical Studies in Adult and Pediatric Patients with Type 1 Diabetes
 
-In two clinical studies (Studies A and B), patients with type 1 diabetes (Study A; n=585, Study B n=534) were randomized to 28 weeks of basal-bolus treatment with LANTUS or NPH insulin.
+In two clinical studies (Studies A and B), patients with type 1 diabetes (Study A n=585, Study B n=534) were randomized to 28 weeks of basal-bolus treatment with LANTUS or NPH insulin.
 Regular human insulin was administered before each meal.
 LANTUS was administered at bedtime.
 NPH insulin was administered either as once daily at bedtime or in the morning and at bedtime when used twice daily.
@@ -154,7 +154,7 @@ Table 11: Type 2 Diabetes Mellitus – Adult
 
 LANTUS Timing of Daily Dosing (see Table 12)
 
-The safety and efficacy of LANTUS administered pre-breakfast, pre-dinner, or at bedtime were evaluated in a randomized, controlled clinical study in patients with type 1 diabetes (study H, n=378).
+The safety and efficacy of LANTUS administered pre-breakfast, pre-dinner, or at bedtime were evaluated in a randomized, controlled clinical study in patients with type 1 diabetes (Study H, n=378).
 Patients were also treated with insulin lispro at mealtime.
 The average age was 40.9 years.
 All patients were White (100%) and 53.7% were male.
@@ -189,8 +189,8 @@ Table 12: LANTUS Timing of Daily Dosing in Type 1 (Study H) and Type 2 (Study I)
 | Baseline mean | 22 | 23 | 21 | 19 | 20 | 19 |
 | Mean change from baseline | 5 | 2 | 2 | 11 | 18 | 18 |
 | Total insulin dose (U) |  |  |  | NANot applicable | NA | NA |
-| Baseline mean | 52 | 52 | 49 |  |  |  |
-| Mean change from baseline | 2 | 3 | 2 |  |  |  |
+| Baseline mean | 52 | 52 | 49 | – | – | – |
+| Mean change from baseline | 2 | 3 | 2 | – | – | – |
 | Body weight (kg) |  |  |  |  |  |  |
 | Baseline mean | 77.1 | 77.8 | 74.5 | 80.7 | 82 | 81 |
 | Mean change from baseline | 0.7 | 0.1 | 0.4 | 3.9 | 3.7 | 2.9 |
