@@ -1,53 +1,36 @@
-# WARNINGS
+# 5 WARNINGS AND PRECAUTIONS
 
-CAUTION!
-PRIMARY PROTECTION AGAINST EXPOSURE TO CHEMICAL NERVE AGENTS AND INSECTICIDE POISONING IS THE WEARING OF PROTECTIVE GARMENTS INCLUDING MASKS DESIGNED SPECIFICALLY FOR THIS USE.
+## 5.1 Cardiovascular Risks
 
-INDIVIDUALS SHOULD NOT RELY SOLELY UPON ANTIDOTES SUCH AS ATROPINE AND PRALIDOXIME TO PROVIDE COMPLETE PROTECTION FROM CHEMICAL NERVE AGENTS AND INSECTICIDE POISONING.
+Cardiovascular adverse reactions reported in the literature for atropine include, but are not limited to, sinus tachycardia, palpitations, premature ventricular contractions, atrial flutter, atrial fibrillation, ventricular flutter, ventricular fibrillation, cardiac syncope, asystole, and myocardial infarction [see Adverse Reactions (6)].
+In patients with a recent myocardial infarction and/or severe coronary artery disease, there is a possibility that atropine-induced tachycardia may cause ischemia, extend or initiate myocardial infarcts, and stimulate ventricular ectopy and fibrillation.
+ATROPEN should be used with caution in patients with known cardiovascular disease or cardiac conduction problems.
 
-Patients who have had previous anaphylactic reactions to atropine who have mild symptoms of organophosphorous or nerve agent poisoning should not be treated without adequate medical supervision.
+## 5.2 Heat Injury
 
-While ATROPEN® can be administered to all individuals with a life-threatening exposure to organophosphorous nerve agents and insecticides, it should be administered with extreme caution to individuals with the following disorders when the symptoms of nerve agent poisoning are less severe: individuals who are hypersensitive to any component of the product, disorders of heart rhythm such as atrial flutter, severe narrow angle glaucoma, pyloric stenosis, prostatic hypertrophy, significant renal insufficiency, or a recent myocardial infarction.
+ATROPEN may inhibit sweating which, in a warm environment or with excessive exercise, can lead to hyperthermia and heat injury.
+To the extent feasible, avoid excessive exercise and heat exposure [see Adverse Reactions (6), Overdosage (10)].
 
-More than one dose of atropine (ATROPEN® Auto-Injector) may be necessary initially, especially when exposure is massive or symptoms are severe.
-However, no more than three doses should be administered unless under the supervision of trained medical personnel.
-High doses of atropine may be required for many hours following high-dose exposure to maintain atropinization.
-(See DOSAGE AND ADMINISTRATION)
+## 5.3 Acute Glaucoma
 
-Children and the elderly may be more susceptible to the pharmacologic effects of atropine.
+ATROPEN may cause acute glaucoma and should be administered with caution in patients at risk for acute glaucoma or who have severe narrow angle glaucoma.
+Monitor for signs and symptoms of intraocular pressure, as appropriate.
 
-Severe difficulty in breathing requires artificial respiration in addition to the use of atropine since atropine is not dependable in reversing the weakness or paralysis of the respiratory muscles.
+## 5.4 Urinary Retention
 
-# PRECAUTIONS
+ATROPEN may cause urinary retention and should be administered with caution to patients with clinically significant bladder outflow obstruction.
 
-General: The desperate condition of the organophosphorous-poisoned individual will generally mask such minor signs and symptoms of atropine treatment as have been noted in normal subjects.
+## 5.5 Pyloric Stenosis
 
-Atropine should be used with caution in individuals with cardiac disease.
-Conventional systemic doses may precipitate acute glaucoma in susceptible individuals, convert partial pyloric stenosis into complete pyloric obstruction, precipitate urinary retention in individuals with prostatic hypertrophy, or cause inspissation of bronchial secretions and formation of dangerous viscid plugs in individuals with chronic lung disease.
+ATROPEN may cause complete pyloric obstruction in patients with partial pyloric stenosis.
+These patients should be monitored for gastrointestinal symptoms following administration of ATROPEN.
 
-Laboratory Tests: Treatment of organophosphorous nerve agent and insecticide poisoning should be instituted without waiting for the results of laboratory tests.
-Red blood cell and plasma cholinesterase, and urinary paranitrophenol measurements (in the case of parathion exposure) may be helpful in confirming the diagnosis and following the course of the illness.
-A reduction in red blood cell cholinesterase concentration to below 50% of normal has been seen only with organophosphorous ester poisoning.
+## 5.6 Exacerbation of Chronic Lung Disease
 
-Information for Patients: Appropriate steps must be taken to insure that users understand the indications for and use of the ATROPEN®, including review of symptoms of poisoning and operation of the ATROPEN® (see DOSAGE AND ADMINISTRATION).
+Atropine may cause thickening of bronchial secretions and formation of dangerous viscid plugs in individuals with chronic lung disease.
+Respiratory status should be monitored in individuals with chronic lung disease following administration of ATROPEN.
 
-Drug Interactions: When atropine and pralidoxime are used together, the signs of atropinization (flushing, mydriasis, tachycardia, dryness of the mouth and nose) may occur earlier than might be expected than when atropine is used alone because pralidoxime may potentiate the effect of atropine.
+## 5.7 Hypersensitivity
 
-The following precaution should be kept in mind in the treatment of anticholinesterase poisoning although it does not bear directly on the use of atropine and pralidoxime.
-Since barbiturates are potentiated by the anticholinesterases, they should be used cautiously in the treatment of convulsions.
-
-Carcinogenesis, Mutagenesis, Impairment of Fertility: No reports regarding the potential of atropine for carcinogenesis, mutagenesis, or impairment of fertility have been published in the literature.
-Since atropine is indicated for short-term emergency use only, no investigations of these aspects have been conducted.
-
-Pregnancy: Teratogenic Effects - Pregnancy Category C: Adequate animal reproduction studies have not been conducted with atropine.
-It is not known whether atropine can cause fetal harm when administered to a pregnant woman or if these agents can affect reproductive capacity.
-Atropine should be administered to a pregnant woman only if clearly needed.
-
-Nursing Mothers: Atropine is found in human milk in trace amounts.
-Caution should be exercised when atropine is administered to a nursing woman.
-
-Pediatric Use: A review of published literature supports the safety and effectiveness of atropine in the setting of organophosphate insecticide poisoning in all pediatric age groups.
-The starting dose is 0.05 mg/kg IM every 5 to 20 minutes as needed to provide complete atropinization.
-(See ADVERSE REACTIONS and DOSAGE AND ADMINISTRATION sections).
-
-Geriatric Use: In general, dose selection for an elderly individual should be cautious, usually starting at the low end of the dosing range, reflecting the greater frequency of decreased hepatic, renal, or cardiac function, and of concomitant disease or other drug therapy.
+Atropine can cause hypersensitivity reactions, including anaphylactic reactions [see Adverse Reactions (6)].
+Medical supervision is necessary in patients who have had previous anaphylactic reactions to atropine and require treatment for organophosphorus or nerve agent poisoning.

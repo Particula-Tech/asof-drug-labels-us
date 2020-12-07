@@ -1,46 +1,57 @@
-# CLINICAL PHARMACOLOGY
+# 12 CLINICAL PHARMACOLOGY
 
-## Mechanism of Action:
+## 12.1 Mechanism of Action
 
-Atropine is commonly classified as an anticholinergic or antiparasympathetic (parasympatholytic) drug.
-More precisely, however, it is termed an antimuscarinic agent since it antagonizes the muscarine-like actions of acetylcholine and other choline esters.
+Atropine competitively blocks the effects of acetylcholine, including excess acetylcholine due to organophosphorus poisoning, at muscarinic cholinergic receptors on smooth muscle, cardiac muscle, secretory gland cells, and in peripheral autonomic ganglia and the central nervous system.
 
-Atropine inhibits the muscarinic actions of acetylcholine on structures innervated by postganglionic cholinergic nerves, and on smooth muscles, which respond to endogenous acetylcholine but are not so innervated.
-As with other antimuscarinic agents, the major action of atropine is a competitive or surmountable antagonism, which can be overcome by increasing the concentration of acetylcholine at receptor sites of the effector organ (e.g., by using anticholinesterase agents, which inhibit the enzymatic destruction of acetylcholine).
-The receptors antagonized by atropine are the peripheral structures that are stimulated or inhibited by muscarine, (i.e., exocrine glands and smooth and cardiac muscle).
-Responses to postganglionic cholinergic nerve stimulation may also be inhibited by atropine, but this occurs less readily than with responses to injected (exogenous) choline esters.
+## 12.2 Pharmacodynamics
 
-## Pharmacodynamics:
+Atropine reduces secretions in the mouth and respiratory passages, relieves airway constriction, and may reduce centrally-mediated respiratory paralysis.
+In severe organophosphorus poisoning, a fully atropinized patient may develop or continue to have respiratory failure and may require artificial respiration and suctioning of airway secretions.
+Atropine may cause thickening of secretions.
 
-Atropine reduces secretions in the mouth and respiratory passages, relieves the constriction and spasm of the respiratory passages, and may reduce the paralysis of respiration, which results from actions of the toxic agent on the central nervous system.
 Atropine-induced parasympathetic inhibition may be preceded by a transient phase of stimulation, especially on the heart where small doses first slow the rate before characteristic tachycardia develops due to paralysis of vagal control.
-Although mild vagal excitation occurs, the increased respiratory rate and occasionally increased depth of respiration produced by atropine are more probably the result of bronchiolar dilatation.
-Accordingly, atropine is an unreliable respiratory stimulant and large or repeated doses may depress respiration.
+Atropine increases heart rate and reduces atrioventricular conduction time.
+Adequate atropine doses can prevent or abolish bradycardia or asystole produced by organophosphorus nerve agents.
 
-Adequate doses of atropine abolish various types of reflex vagal cardiac slowing or asystole.
-The drug also prevents or abolishes bradycardia or asystole produced by injection of choline esters, anticholinesterase agents or other parasympathomimetic drugs, and cardiac arrest produced by stimulation of the vagus.
-Atropine may also lessen the degree of partial heart block when vagal activity is an etiologic factor.
-In some individuals with complete heart block, the idioventricular rate may be accelerated by atropine; in others, the rate is stabilized.
-Occasionally, a large dose may cause atrioventricular (A-V) block and nodal rhythm.
+Atropine may decrease the degree of partial heart block, which can occur after organophosphorus poisoning.
+In some patients with complete heart block, atropine may accelerate the idioventricular rate; in others, the rate is stabilized.
+In some patients with conduction defects, atropine may cause paradoxical atrioventricular block and nodal rhythm.
 
-Atropine in clinical doses counteracts the peripheral dilatation and abrupt decrease in blood pressure produced by choline esters.
-However, when given by itself, atropine does not exert a striking or uniform effect on blood vessels or blood pressure.
-Systemic doses slightly raise systolic and lower diastolic pressures and can produce significant postural hypotension.
+Atropine will not act on the neuromuscular junction and has no effect on muscle paralysis or weakness, fasciculations or tremors.
+
+Atropine is not dependable in reversing the weakness or paralysis of the respiratory muscles.
+Severe difficulty in breathing requires artificial respiration in addition to the use of atropine.
+
+Systemic doses of atropine slightly raise systolic and lower diastolic pressures and can produce significant postural hypotension.
 Such doses also slightly increase cardiac output and decrease central venous pressure.
-Occasionally, therapeutic doses dilate cutaneous blood vessels, particularly in the “blush” area (atropine flush), and may cause atropine “fever” due to suppression of sweat gland activity especially in infants and small children.
+Atropine can dilate cutaneous blood vessels, particularly the “blush” area (atropine flush), may cause atropine “fever” due to suppression of sweat gland activity especially in infants and small children and may inhibit sweating, thereby causing hyperthermia, particularly in a warm environment or with exercise [see Warnings and Precautions (5.2)].
 
-## Pharmacokinetics:
+## 12.3 Pharmacokinetics
 
-Atropine is rapidly and well absorbed after intramuscular administration.
-Atropine disappears rapidly from the blood and is distributed throughout the various body tissues and fluids.
-Much of the drug is destroyed by enzymatic hydrolysis, particularly in the liver; from 13 to 50% is excreted unchanged in the urine.
-Traces are found in various secretions, including milk.
-Atropine readily crosses the placental barrier and enters the fetal circulation.
-
-The approximate Cmax of atropine following 1.67 mg atropine given intramuscularly to adults by the 2 mg ATROPEN® delivery system was 9.6 ± 1.5 (mean ± SEM) ng/mL.
-The mean Tmax was 3 minutes.
-The T1/2 of intravenous atropine in pediatric subjects under 2 years is 6.9 ± 3.3 (mean ± SD) hours; in children over 2 years, the T1/2 is 2.5 ± 1.2 (mean ± SD) hours; in adults 16-58 years the T1/2 is 3.0 ± 0.9 (mean ± SD) hours; in geriatric patients 65-75 years it is 10.0 ± 7.3 (mean ± SD) hours.
+Atropine is well absorbed after intramuscular administration.
+Following 1.67 mg atropine given intramuscularly to adults by the 2 mg ATROPEN delivery system, the peak concentration (Cmax) is 9.6 ± 1.5 (mean ± SEM) ng/mL reached between 3-60 minutes (Tmax).
 The protein binding of atropine is 14 to 22% in plasma.
-There are gender differences in the pharmacokinetics of atropine.
-The AUC(0-inf) and Cmax were 15% higher in females than males.
-The half-life of atropine is slightly shorter (approximately 20 minutes) in females than males.
+Atropine is distributed throughout the various body tissues and fluids.
+Much of the drug is metabolized by enzymatic hydrolysis, particularly in the liver.
+Atropine has been reported to be excreted in human milk [see Use in Specific Populations (8.2)].
+The unchanged drug excreted by urine is approximately 13 to 50%.
+
+Specific Populations
+
+Gender
+
+The AUC(0-inf) and Cmax values for atropine are 15% higher in females than males.
+The half-life of atropine is approximately 20 minutes shorter in females than males.
+
+Geriatric
+
+The half-life of intravenous atropine is 3.0 ± 0.9 (mean ± SD) hours in adults and 10.0 ± 7.3 (mean ± SD) hours in geriatric patients (65 to 75 years of age).
+
+Pediatric
+
+The half-life of intravenous atropine in pediatric subjects under 2 years is 6.9 ± 3.3 (mean ± SD) hours; in children over 2 years, the half-life is 2.5 ± 1.2 (mean ± SD) hours.
+
+Renal and Hepatic Impairment
+
+The pharmacokinetics of atropine has not been evaluated in subjects with renal or hepatic impairment.

@@ -1,0 +1,11 @@
+# 7 DRUG INTERACTIONS
+
+## 7.1 Pralidoxime
+
+When atropine and pralidoxime are used together, the signs of atropinization (flushing, mydriasis, tachycardia, dryness of the mouth and nose) may occur earlier than might be expected when atropine is used alone because pralidoxime may potentiate the effect of atropine.
+Excitement and manic behavior immediately following recovery of consciousness have been reported in several cases.
+However, similar behavior has occurred in cases of organophosphate poisoning that were not treated with pralidoxime.
+
+## 7.2 Barbiturates
+
+Barbiturates are potentiated by the anticholinesterases; therefore, barbiturates should be used cautiously in the treatment of convulsions resulting from exposure to atropine.
