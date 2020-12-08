@@ -1,4 +1,4 @@
-# 17PATIENT COUNSELING INFORMATION
+# 17 PATIENT COUNSELING INFORMATION
 
 Advise the patient to read the FDA-approved patient labeling (Patient Information).
 
@@ -9,11 +9,13 @@ Advise the patient to read the FDA-approved patient labeling (Patient Informatio
   Sunscreen may also be used.
 - •Clindamycin Phosphate and Benzoyl Peroxide Gel may bleach hair or colored fabric.
 
-Distributed by: Oceanside Pharmaceuticals, a division of Bausch Health US, LLC Bridgewater, NJ 08807 USA
+Distributed by:
 
-Manufactured by: Bausch Health Companies Inc. Laval, Quebec H7L 4A8, Canada
+Oceanside Pharmaceuticals, a division of Bausch Health US, LLC, Bridgewater, NJ 08807 USA Manufactured by:
 
-U.S. Patents: 8,288,434; 8,663,699; 8,895,070; 9,078,870 and 9,693,988
+Bausch Health Companies Inc., Laval, Quebec H7L 4A8, Canada
+
+U.S. Patent Numbers: 8,288,434; 8,663,699; 8,895,070; 9,078,870; 10,220,049 and 10,624,918
 
 © 2020 Bausch Health Companies Inc. or its affiliates
 

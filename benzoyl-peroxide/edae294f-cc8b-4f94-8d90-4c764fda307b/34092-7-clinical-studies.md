@@ -6,9 +6,9 @@ The two trials were identical in design and compared Clindamycin Phosphate and B
 The co-primary efficacy variables were:
 
 1. (1)Mean absolute change from baseline at Week 12 in:
-   1. •Inflammatory lesion counts
-   2. •Non-inflammatory lesion counts
-2. (2)Percent of subjects who had a 2-grade improvement from baseline on an Evaluator’s Global Severity (EGS) score.
+2. •Inflammatory lesion counts
+3. •Non-inflammatory lesion counts
+4. (2)Percent of subjects who had a 2-grade improvement from baseline on an Evaluator’s Global Severity (EGS) score.
 
 The EGS scoring scale used in all of the clinical trials for Clindamycin Phosphate and Benzoyl Peroxide Gel is as follows:
 
@@ -30,9 +30,11 @@ Table 2: Trial 1 Results
 |  | Clindamycin Phosphate and Benzoyl Peroxide Gel | Clindamycin Gel | Benzoyl Peroxide Gel | Vehicle Gel |
 | EGSS Clear or Almost Clear | 115 (29%) | 84 (21%) | 76 (19%) | 29 (14%) |
 | 2-grade reduction from baseline | 131 (33%) | 100 (25%) | 96 (24%) | 38 (19%) |
-| Inflammatory Lesions:Mean absolute change | 14.8 | 12.2 | 13.0 | 9.0 |
+| Inflammatory Lesions: |  |  |  |  |
+| Mean absolute change | 14.8 | 12.2 | 13.0 | 9.0 |
 | Mean percent (%) reduction | 55.0% | 47.1% | 49.3% | 34.5% |
-| Non-Inflammatory Lesions:Mean absolute change | 22.1 | 17.9 | 20.6 | 13.2 |
+| Non-Inflammatory Lesions: |  |  |  |  |
+| Mean absolute change | 22.1 | 17.9 | 20.6 | 13.2 |
 | Mean percent (%) reduction | 45.3% | 38.0% | 40.2% | 28.6% |
 
 The results of Trial 2 at Week 12 are presented in Table 3:

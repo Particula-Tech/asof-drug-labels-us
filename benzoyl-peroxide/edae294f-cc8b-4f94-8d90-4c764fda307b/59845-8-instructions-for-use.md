@@ -1,6 +1,6 @@
 # Instructions for Use
 
-## Clindamycin Phosphate and Benzoyl Peroxide Gel, 1.2%/2.5%
+INSTRUCTIONS FOR USE Clindamycin Phosphate and Benzoyl Peroxide gel, 1.2%/2.5%
 
 Important Information: Clindamycin Phosphate and Benzoyl Peroxide Gel is for use on skin only (topical use).
 
@@ -16,8 +16,9 @@ This information does not take the place of talking with your doctor about your 
   See Figure 1.
 - •One pea-sized amount of Clindamycin Phosphate and Benzoyl Peroxide Gel should be enough to cover your entire face.
 
-- •Dot the one pea-sized amount of Clindamycin Phosphate and Benzoyl Peroxide Gel onto six areas of your face (chin, left cheek, right cheek, nose, left forehead, right forehead).
-  See Figure 2.
+1. Figure 1
+2. •Dot the one pea-sized amount of Clindamycin Phosphate and Benzoyl Peroxide Gel onto six areas of your face (chin, left cheek, right cheek, nose, left forehead, right forehead).
+   See Figure 2.
 
 Figure 2
 
@@ -36,14 +37,16 @@ How should I store Clindamycin Phosphate and Benzoyl Peroxide Gel?
 
 Keep Clindamycin Phosphate and Benzoyl Peroxide Gel and all medicines out of the reach of children.
 
-The Patient Information and Instructions for Use have been approved by the U.S. Food and Drug Administration.
-
-1. Distributed by: Oceanside Pharmaceuticals, a division ofBausch Health US, LLC, Bridgewater, NJ 08807 USA
+Distributed by: Oceanside Pharmaceuticals, a division of Bausch Health US, LLC, Bridgewater, NJ 08807 USA
 
 Manufactured by: Bausch Health Companies Inc., Laval, Quebec H7L 4A8, Canada
 
-U.S. Patent Numbers: 8,288,434; 8,663,699; 8,895,070; 9,078,870 and 9,693,988
+U.S. Patent Numbers: 8,288,434; 8,663,699; 8,895,070; 9,078,870; 10,220,049 and 10,624,918
 
 © 2020 Bausch Health Companies Inc. or its affiliates
 
-Issued: 02/2020 9613801
+The Patient Information and Instructions for Use have been approved by the U.S. Food and Drug Administration.
+
+Issued: 09/2020
+
+9613801

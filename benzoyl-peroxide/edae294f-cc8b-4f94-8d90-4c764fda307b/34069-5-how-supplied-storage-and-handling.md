@@ -2,9 +2,9 @@
 
 ## 16.1 How Supplied
 
-Clindamycin Phosphate and Benzoyl Peroxide Gel, 1.2%/2.5% is a white to off-white smooth gel is supplied as:
+Clindamycin Phosphate and Benzoyl Peroxide Gel, 1.2%/2.5%, a white to off-white smooth gel is supplied as:
 
-1. NDC 68682-132-50 50 g pump
+NDC 68682-132-50 50 g pump
 
 ## 16.2 Dispensing Instructions for the Pharmacist
 

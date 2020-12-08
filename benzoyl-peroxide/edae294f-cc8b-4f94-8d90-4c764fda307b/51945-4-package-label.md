@@ -1,4 +1,4 @@
-# Package/Label Display Panel - 50 gram Pump Label
+# Package/Label Display Panel
 
 NDC 68682-132-50
 
