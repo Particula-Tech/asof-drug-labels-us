@@ -1,5 +1,21 @@
 # PACKAGE LABEL.PRINCIPAL DISPLAY PANEL
 
-VIAL LABEL 200 mcg/mL Rx ONLY OCTREOTIDE ACETATE INJECTION 1,000 mcg*/5 mL (200 mcg*/mL) For Subcutaneous Injection
+VIAL LABEL 200 mcg/mL
 
-VIAL LABEL 1000 mcg/mL Rx ONLY OCTREOTIDE ACETATE INJECTION 5,000 mcg*/5 mL (1,000 mcg*/mL) For Subcutaneous Injection
+Rx ONLY
+
+OCTREOTIDE ACETATE INJECTION
+
+1,000 mcg*/5 mL (200 mcg*/mL)
+
+For Subcutaneous Injection
+
+VIAL LABEL 1000 mcg/mL
+
+Rx ONLY
+
+OCTREOTIDE ACETATE INJECTION
+
+5,000 mcg*/5 mL (1,000 mcg*/mL)
+
+For Subcutaneous Injection

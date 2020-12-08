@@ -3,7 +3,7 @@
     "ANDA203765"
   ],
   "inn": "octreotide",
-  "labeler": "Heritage Pharmaceuticals Inc.",
+  "labeler": "Heritage Pharmaceuticals Inc. d/b/a Avet Pharmaceuticals Inc.",
   "package_ndcs": [
     "23155-685-31",
     "23155-686-31"
@@ -12,7 +12,7 @@
     {
       "form": "INJECTION",
       "generic": "octreotide acetate",
-      "name": "Octreotide Acetate"
+      "name": "OCTREOTIDE ACETATE"
     }
   ],
   "setid": "ffaf9462-cdd8-433b-8b03-464a35577fe9",
