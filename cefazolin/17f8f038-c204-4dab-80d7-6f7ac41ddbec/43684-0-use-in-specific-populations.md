@@ -2,26 +2,55 @@
 
 ## 8.1 Pregnancy
 
-Reproduction studies have been performed in rats, mice and rabbits at doses of 2000, 4000 and 240 mg/kg/day or 1-3 times the maximum recommended human dose on a body surface area basis.
-There was no evidence of impaired fertility or harm to the fetus due to cefazolin.
+### Risk Summary
 
-## 8.2 Labor and Delivery
+Available data from published prospective cohort studies, case series and case reports over several decades with cephalosporin use, including cefazolin, in pregnant women have not established a drug-associated risk of major birth defects, miscarriage, or adverse maternal or fetal outcomes.
+Cefazolin crosses the placenta.
 
-When cefazolin has been administered prior to caesarean section, drug concentrations in cord blood have been approximately one quarter to one third of maternal drug levels.
-The drug appears to have no adverse effect on the fetus.
+Animal reproduction studies with rats, mice and rabbits administered cefazolin during organogenesis at doses 1 to 3 times the maximum recommended human dose (MRHD) did not demonstrate adverse developmental outcomes.
+In rats subcutaneously administered cefazolin prior to delivery and throughout lactation, there were no adverse effects on offspring at a dose approximately 2 times the MRHD (see Data).
 
-## 8.3 Nursing Mothers
+The estimated background risk of major birth defects and miscarriage for the indicated population is unknown.
+All pregnancies have a background risk of birth defect, loss, or other adverse outcomes.
+In the U.S. general population, the estimated background risk of major birth defects and miscarriage in clinically recognized pregnancies is 2% to 4% and 15% to 20%, respectively.
 
-Cefazolin is present in very low concentrations in the milk of nursing mothers.
-Caution should be exercised when Cefazolin for Injection USP and Dextrose Injection USP is administered to a nursing woman.
+### Data
+
+Human Data
+
+While available studies cannot definitively establish the absence of risk, published data from case-control studies and case reports over several decades have not identified an association with cephalosporin use during pregnancy and major birth defects, miscarriage, or other adverse maternal or fetal outcomes.
+Available studies have methodologic limitations, including small sample size, retrospective data collection, and inconsistent comparator groups.
+
+Animal Data
+
+Reproduction studies have been performed in rats, mice and rabbits administered cefazolin during organogenesis at doses of 2000, 4000 and 240 mg/kg/day (approximately 1 to 3 times the maximum recommended human dose on a body surface area comparison).
+There was no evidence of any adverse effects on embryofetal development due to cefazolin.
+In a peri-postnatal study in rats, cefazolin administered subcutaneously up to 1200 mg/kg/day (approximately 2 times the MRHD based on body surface area comparison) to pregnant dams prior to delivery and through lactation caused no adverse effects on offspring.
+
+## 8.2 Lactation
+
+Data from published literature report that cefazolin is present in human milk, but is not expected to accumulate in a breastfed infant.
+There are no data on the effects of cefazolin on the breastfed child or on milk production.
+
+The developmental and health benefits of breastfeeding should be considered along with the mother’s clinical need for Cefazolin for Injection and Dextrose Injection and any potential adverse effects on the breastfed child from Cefazolin for Injection and Dextrose Injection or from the mother’s underlying condition.
 
 ## 8.4 Pediatric Use
 
-The 2 g Cefazolin for Injection USP and Dextrose Injection USP is not recommended for use in pediatric patients.
+Cefazolin for Injection and Dextrose Injection is indicated for the treatment of respiratory tract infections, urinary tract infections, skin and skin structure infections, biliary tract infections, bone and joint infections, genital infections, septicemia, and endocarditis in pediatric patients for whom appropriate dosing with this formulation can be achieved, and for perioperative prophylaxis in pediatric patients aged 10 to 17 years old [see Indications and Usage (1.1 to 1.9)].
 
-To avoid unintentional overdose, 1 gram Cefazolin for Injection USP and Dextrose Injection USP should only be used in pediatric patients who require the entire contents of the 1 gram dose and not any fraction of it [see Dosage and Administration (2.3)].
+Safety and effectiveness of Cefazolin for Injection and Dextrose Injection in premature infants and neonates have not been established and is not recommended for use in this age group of pediatric patients.
+Dosing for cefazolin in pediatric patients younger than one month old has not been established.
 
-There are no dosing recommendations for pediatric patients for perioperative prophylaxis or for pediatric patients with renal impairment.
+Because of the limitations of the available strengths and administration requirements (i.e., administration of fractional doses is not recommended) of Cefazolin for Injection and Dextrose Injection, and to avoid unintentional overdose, this product is not recommended for use if a dose of Cefazolin for Injection and Dextrose Injection that does not equal 1 gram or 2 grams is required and an alternative formulation of cefazolin should be considered [see Dosage and Administration (2.2, 2.3, 2.4 and 2.5)].
+
+The safety and effectiveness of Cefazolin for Injection and Dextrose Injection for perioperative prophylaxis have been established in pediatric patients aged 10 to 17 years old.
+Use of Cefazolin for Injection and Dextrose Injection in these age groups is supported by evidence from adults with additional safety and pharmacokinetic data in pediatric patients aged 10 to 17 years old.
+Safety and pharmacokinetics were evaluated in two multicenter, non-comparative studies (Study 1 and Study 2).
+These studies were conducted to assess the safety and pharmacokinetics of a single 30-minute infusion of either 1 gram or 2 grams (based on weight) of Cefazolin for Injection and Dextrose Injection for perioperative prophylaxis in pediatric patients.
+Study 1 evaluated the safety and pharmacokinetics of 1 g of Cefazolin for Injection and Dextrose Injection in pediatric patients aged 10 to 17 years old scheduled for surgery with a weight of at least 25 kg but less than 60 kg and, 2 g in pediatric patients with a weight of at least 60 kg.
+Study 2 evaluated 1 g of Cefazolin for Injection and Dextrose Injection in pediatric patients aged 10 to 12 years old scheduled for surgery with a weight of at least 25 kg but less than 50 kg and, 2 g in pediatric patients with a weight of at least 50 kg to less than 85 kg [see Dosage and Administration (2.3), Adverse Reactions (6.1) and Clinical Pharmacology (12.3)].
+
+The safety and effectiveness of Cefazolin for Injection and Dextrose Injection for perioperative prophylaxis have not been established in pediatric patients younger than 10 years old.
 
 ## 8.5 Geriatric Use
 
@@ -30,8 +59,8 @@ No overall differences in safety or effectiveness were observed between these su
 Other reported clinical experience has not identified differences in responses between the elderly and younger patients, but greater sensitivity of some older individuals cannot be ruled out.
 
 This drug is known to be substantially excreted by the kidney, and the risk of toxic reactions to this drug may be greater in patients with impaired renal function.
-Because elderly patients are more likely to have decreased renal function, care should be taken in dose selection, and it may be useful to monitor renal function [see Dosage and Administration (2.3) and Warnings and Precautions (5.2)].
+Because elderly patients are more likely to have decreased renal function, care should be taken in dose selection, and it may be useful to monitor renal function [see Dosage and Administration (2.4) and Warnings and Precautions (5.2)].
 
 ## 8.6 Patients with Renal Impairment
 
-When Cefazolin for Injection USP and Dextrose Injection USP is administered to patients with low urinary output because of impaired renal function (creatinine clearance less than 55 mL/min.), lower daily dosage is required [see Dosage and Administration (2.3) and Warnings and Precautions (5.2)].
+When Cefazolin for Injection and Dextrose Injection is administered to adult and pediatric patients with low urinary output because of impaired renal function (creatinine clearance less than 55 mL/min and 70 mL/min for adults and pediatric patients, respectively), lower daily dosage is required [see Dosage and Administration (2.4) and Warnings and Precautions (5.2)].

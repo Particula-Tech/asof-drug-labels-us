@@ -1,3 +1,4 @@
 # 7 DRUG INTERACTIONS
 
-Probenecid may decrease renal tubular secretion of cephalosporins when used concurrently, resulting in increased and more prolonged cephalosporin blood levels.
+The renal excretion of cefazolin is inhibited by probenecid.
+Co-administration of probenecid with Cefazolin for Injection and Dextrose Injection is not recommended.

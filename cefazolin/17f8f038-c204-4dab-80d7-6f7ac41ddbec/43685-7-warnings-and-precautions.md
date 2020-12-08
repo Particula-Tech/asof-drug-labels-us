@@ -3,20 +3,20 @@
 ## 5.1 Hypersensitivity Reactions to Cefazolin, Cephalosporins, Penicillins, or Other Beta-lactams
 
 Serious and occasionally fatal hypersensitivity (anaphylactic) reactions have been reported in patients receiving beta-lactam antibacterial drugs.
-Before therapy with Cefazolin for Injection USP and Dextrose Injection USP is instituted, careful inquiry should be made to determine whether the patient has had previous immediate hypersensitivity reactions to cefazolin, cephalosporins, penicillins, or carbapenems.
+Before therapy with Cefazolin for Injection and Dextrose Injection is instituted, careful inquiry should be made to determine whether the patient has had previous immediate hypersensitivity reactions to cefazolin, cephalosporins, penicillins, or carbapenems.
 Exercise caution if this product is to be given to penicillin-sensitive patients because cross-hypersensitivity among beta-lactam antibacterial drugs has been clearly documented and may occur in up to 10% of patients with a history of penicillin allergy.
-If an allergic reaction to Cefazolin for Injection USP and Dextrose Injection USP occurs, discontinue the drug.
+If an allergic reaction to Cefazolin for Injection and Dextrose Injection occurs, discontinue the drug.
 
-## 5.2 Use In Patients with Renal Impairment
+## 5.2 Seizures in Patients with Renal Impairment
 
-As with other beta-lactam antibacterial drugs, seizures may occur if inappropriately high doses are administered to patients with impaired renal function (creatinine clearance less than 55 mL/min.)
-[see Dosage and Administration (2.3)].
+Seizures may occur with the administration of Cefazolin for Injection and Dextrose Injection, particularly in patients with renal impairment when the dosage is not reduced appropriately.
+Discontinue Cefazolin for Injection and Dextrose Injection if seizures occur or make appropriate dosage adjustments in patients with renal impairment [see Dosage and Administration (2.4)].
+Anticonvulsant therapy should be continued in patients with known seizure disorders.
 
-## 5.3 Clostridium difficile-associated Diarrhea
+## 5.3 Clostridioides difficile-associated Diarrhea
 
-Clostridium difficile-associated diarrhea (CDAD) has been reported with use of nearly all antibacterial agents, including cefazolin, and may range in severity from mild diarrhea to fatal colitis.
+Clostridioides difficile-associated diarrhea (CDAD) has been reported with use of nearly all antibacterial agents, including cefazolin, and may range in severity from mild diarrhea to fatal colitis.
 Treatment with antibacterial agents alters the normal flora of the colon leading to overgrowth of C. difficile.
-
 C. difficile produces toxins A and B, which contribute to the development of CDAD.
 Hypertoxin-producing isolates of C. difficile cause increased morbidity and mortality, as these infections can be refractory to antimicrobial therapy and may require colectomy.
 CDAD must be considered in all patients who present with diarrhea following antibacterial drug use.
@@ -34,9 +34,9 @@ The reactions have also been reported when corn-derived dextrose solutions were 
 
 ## 5.5 Risk of Development of Drug-resistant Bacteria
 
-Prescribing Cefazolin for Injection USP and Dextrose Injection USP in the absence of proven or strongly suspected bacterial infection or a prophylactic indication is unlikely to provide benefit to the patient and increases the risk of the development of drug-resistant bacteria.
+Prescribing cefazolin for injection and dextrose injection in the absence of proven or strongly suspected bacterial infection or a prophylactic indication is unlikely to provide benefit to the patient and increases the risk of the development of drug-resistant bacteria.
 
-As with other antimicrobials, prolonged use of Cefazolin for Injection USP and Dextrose Injection USP may result in overgrowth of nonsusceptible microorganisms.
+As with other antimicrobials, prolonged use of Cefazolin for Injection and Dextrose Injection may result in overgrowth of nonsusceptible microorganisms.
 Repeated evaluation of the patient's condition is essential.
 Should superinfection occur during therapy, appropriate measures should be taken.
 
@@ -44,8 +44,8 @@ Should superinfection occur during therapy, appropriate measures should be taken
 
 ### Urinary Glucose
 
-The administration of cefazolin may result in a false-positive reaction with glucose in the urine when using CLINITEST® tablets.
-It is recommended that glucose tests based on enzymatic glucose oxidase reactions (e.g., CLINISTIX®) be used.
+The administration of cefazolin may result in a false-positive reaction with glucose in the urine when using glucose tests based on Benedict’s copper reduction reaction that determine the amount of reducing substances like glucose in the urine.
+It is recommended that glucose tests based on enzymatic glucose oxidase be used.
 
 ### Coombs’ Test
 
@@ -54,4 +54,4 @@ In hematologic studies or in transfusion cross-matching procedures when antiglob
 
 ## 5.7 Patients with Overt or Known Subclinical Diabetes Mellitus or Carbohydrate Intolerance
 
-As with other dextrose-containing solutions, Cefazolin for Injection USP and Dextrose Injection USP should be prescribed with caution in patients with overt or known subclinical diabetes mellitus or carbohydrate intolerance for any reason.
+As with other dextrose-containing solutions, Cefazolin for Injection and Dextrose Injection should be prescribed with caution in patients with overt or known subclinical diabetes mellitus or carbohydrate intolerance for any reason.
