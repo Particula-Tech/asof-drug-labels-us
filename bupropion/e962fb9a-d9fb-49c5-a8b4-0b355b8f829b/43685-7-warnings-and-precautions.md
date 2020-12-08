@@ -120,4 +120,4 @@ Reactions have been characterized by pruritus, urticaria, angioedema, and dyspne
 In addition, there have been rare, spontaneous postmarketing reports of erythema multiforme, Stevens-Johnson syndrome, and anaphylactic shock associated with bupropion.
 Instruct patients to discontinue bupropion hydrochloride extended-release tablets (SR) and consult a healthcare provider if they develop an allergic or anaphylactoid/anaphylactic reaction (e.g., skin rash, pruritus, hives, chest pain, edema, and shortness of breath) during treatment.
 
-There are reports of arthralgia, myalgia, fever with rash and other serum sickness-like symptoms suggestive of delayed hypersensitivity.
+There are reports of arthralgia, myalgia, fever with rash, and other serum sickness-like symptoms suggestive of delayed hypersensitivity.
