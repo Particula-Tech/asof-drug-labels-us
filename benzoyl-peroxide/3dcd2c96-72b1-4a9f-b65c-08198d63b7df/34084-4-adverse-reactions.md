@@ -13,7 +13,7 @@ The percentage of subjects that had symptoms present before treatment, the maxim
 Table 1: Percent of Subjects with Local Skin Reactions.
 Combined Results from the Two Phase 3 Trials (N = 773)
 
-|  | Mild | Mod.Mod. = Moderate | Severe | Mild | Mod. | Severe | Mild | Mod. | Severe |
+| Mild | Mod.* | Severe | Mild | Mod.* | Severe | Mild | Mod.* | Severe |  |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 |  | Before Treatment (Baseline) |  |  | Maximum During Treatment |  |  | End of Treatment (Week 12) |  |  |
 | Erythema | 22 | 4 | 0 | 25 | 5 | < 1 | 15 | 2 | 0 |

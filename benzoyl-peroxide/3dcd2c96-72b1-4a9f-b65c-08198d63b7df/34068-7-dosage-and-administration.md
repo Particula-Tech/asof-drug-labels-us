@@ -1,6 +1,7 @@
 # 2 DOSAGE AND ADMINISTRATION
 
 Before applying ACANYA Gel, wash your face gently with a mild soap, rinse with warm water, and pat your skin dry.
+
 Apply a pea-sized amount of ACANYA Gel to the face once daily.
 Avoid the eyes, mouth, mucous membranes, or areas of broken skin.
 

@@ -2,15 +2,15 @@
 
 ## 16.1 How Supplied
 
-ACANYA Gel, 1.2%/2.5% is a white to off-white smooth gel is supplied as:
+ACANYA Gel, 1.2%/2.5%, a white to off-white smooth gel is supplied as:
 
-1. NDC 13548-132-50 50 g pump
+NDC 13548-132-50 50 g pump
 
 ## 16.2 Dispensing Instructions for the Pharmacist
 
 - •Dispense ACANYA Gel with a 10-week expiration date.
-- •Specify "Store at room temperature up to 25°C (77°F).
-  Do not freeze."
+- •Specify “Store at room temperature up to 25°C (77°F).
+  Do not freeze.”
 
 ## 16.3 Storage and Handling
 

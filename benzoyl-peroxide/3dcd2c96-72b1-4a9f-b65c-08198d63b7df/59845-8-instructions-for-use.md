@@ -1,6 +1,8 @@
-# INSTRUCTIONS FOR USE
+# Instructions for Use
 
-ACANYA® (AH-CAN΄-YAH) (clindamycin phosphate and benzoyl peroxide) gel, 1.2%/2.5%
+INSTRUCTIONS FOR USE
+
+ACANYA®(AH-CAN΄-YAH) (clindamycin phosphate and benzoyl peroxide) gel, 1.2%/2.5%
 
 Important Information: ACANYA Gel is for use on skin only (topical use).
 ACANYA Gel is not for use in your mouth, eyes or vagina.
@@ -15,10 +17,9 @@ This information does not take the place of talking with your doctor about your 
   See Figure 1.
 - •One pea-sized amount of ACANYA Gel should be enough to cover your entire face.
 
-Figure 1
-
-- •Dot the one pea-sized amount of ACANYA Gel onto six areas of your face (chin, left cheek, right cheek, nose, left forehead, right forehead).
-  See Figure 2.
+1. Figure 1
+2. •Dot the one pea-sized amount of ACANYA Gel onto six areas of your face (chin, left cheek, right cheek, nose, left forehead, right forehead).
+   See Figure 2.
 
 Figure 2
 
@@ -37,6 +38,18 @@ How should I store ACANYA Gel?
 
 Keep ACANYA Gel and all medicines out of the reach of children.
 
+Distributed by: Bausch Health US, LLC, Bridgewater, NJ 08807 USA
+
+Manufactured by: Bausch Health Companies Inc., Laval, Quebec H7L 4A8, Canada
+
+U.S. Patent Numbers: 8,288,434; 8,663,699; 8,895,070; 9,078,870; 10,220,049 and 10,624,918
+
+ACANYA is a trademark of Bausch Health Companies Inc. or its affiliates.
+
+© 2020 Bausch Health Companies Inc. or its affiliates
+
 The Patient Information and Instructions for Use have been approved by the U.S. Food and Drug Administration.
 
-Issued: February 2020
+Issued: 09/2020
+
+9387203

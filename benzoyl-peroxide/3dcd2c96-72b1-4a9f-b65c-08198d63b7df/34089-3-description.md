@@ -8,14 +8,14 @@ The structural formula for clindamycin phosphate is represented below:
 
 Clindamycin phosphate:
 
-Molecular Formula: C18H34ClN2O8PS Molecular Weight: 504.97
+1. Molecular Formula: C18H34ClN2O8PS Molecular Weight: 504.97
 
 Benzoyl peroxide is an antibacterial and keratolytic agent.
 The structural formula for benzoyl peroxide is represented below:
 
 Benzoyl peroxide:
 
-Molecular Formula: C14H10O4 Molecular Weight: 242.23
+1. Molecular Formula: C14H10O4 Molecular Weight: 242.23
 
-ACANYA Gel contains the following inactive ingredients: purified water, carbomer 980, propylene glycol, and potassium hydroxide.
+ACANYA Gel contains the following inactive ingredients: carbomer 980, potassium hydroxide, propylene glycol, and purified water.
 Each gram of ACANYA Gel contains 1.2% of clindamycin phosphate which is equivalent to 1% clindamycin.

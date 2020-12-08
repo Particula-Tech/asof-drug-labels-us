@@ -5,10 +5,10 @@ The two trials were identical in design and compared ACANYA Gel to clindamycin i
 
 The co-primary efficacy variables were:
 
-1. 1.Mean absolute change from baseline at Week 12 in:
-   1. 1.Inflammatory lesion counts
-   2. 2.Non-inflammatory lesion counts
-2. 2.Percent of subjects who had a 2-grade improvement from baseline on an Evaluator's Global Severity (EGS) score.
+1. (1)Mean absolute change from baseline at Week 12 in:
+2. •Inflammatory lesion counts
+3. •Non-inflammatory lesion counts
+4. (2)Percent of subjects who had a 2-grade improvement from baseline on an Evaluator’s Global Severity (EGS) score.
 
 The EGS scoring scale used in all of the clinical trials for ACANYA Gel is as follows:
 
@@ -17,7 +17,7 @@ The EGS scoring scale used in all of the clinical trials for ACANYA Gel is as fo
 | Clear | Normal, clear skin with no evidence of acne vulgaris |
 | Almost Clear | Rare non-inflammatory lesions present, with rare non-inflamed papules (papules must be resolving and may be hyperpigmented, though not pink-red) |
 | Mild | Some non-inflammatory lesions are present, with few inflammatory lesions (papules/pustules only; no nodulocystic lesions) |
-| Moderate | Non-inflammatory lesions predominate, with multiple inflammatory lesions evident: several to many comedones and papules/pustules, and there may or may not be one small nodulo-cystic lesion |
+| Moderate | Non-inflammatory lesions predominate, with multiple inflammatory lesions evident: several to many comedones and papules/pustules, and there may or may not be one small nodulocystic lesion |
 | Severe | Inflammatory lesions are more apparent, many comedones and papules/pustules, there may or may not be a few nodulocystic lesions |
 | Very Severe | Highly inflammatory lesions predominate, variable number of comedones, many papules/pustules and many nodulocystic lesions |
 
@@ -25,8 +25,9 @@ The results of Trial 1 at Week 12 are presented in Table 2:
 
 Table 2: Trial 1 Results
 
-| Trial 1 | ACANYA Gel N = 399 | Clindamycin Gel N = 408 | Benzoyl Peroxide Gel N = 406 | Vehicle Gel N = 201 |
+| Trial 1 | N = 399 | N = 408 | N = 406 | N = 201 |
 | --- | --- | --- | --- | --- |
+|  | ACANYA Gel | Clindamycin Gel | Benzoyl Peroxide Gel | Vehicle Gel |
 | EGSS Clear or Almost Clear | 115 (29%) | 84 (21%) | 76 (19%) | 29 (14%) |
 | 2-grade reduction from baseline | 131 (33%) | 100 (25%) | 96 (24%) | 38 (19%) |
 | Inflammatory Lesions: |  |  |  |  |

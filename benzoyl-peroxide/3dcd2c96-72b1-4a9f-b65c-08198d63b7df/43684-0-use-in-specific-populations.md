@@ -5,14 +5,13 @@
 Risk Summary
 
 There are no available data on ACANYA Gel use in pregnant women to evaluate a drug-associated risk of major birth defects, miscarriage, or adverse maternal or fetal outcomes.
-The limited published data on use of clindamycin in pregnant women with exposure during the first trimester are insufficient to inform a drug-associated risk of pregnancy-related adverse outcomes (see Data).
-In limited published clinical trials with pregnant women, the systemic administration of clindamycin during the second and third trimesters has not been associated with an increased frequency of major birth defects.
+The limited published data on use of clindamycin in pregnant women with exposure during the first trimester are insufficient to inform a drug-associated risk of pregnancy-related adverse outcomes (see Data).In limited published clinical trials with pregnant women, the systemic administration of clindamycin during the second and third trimesters has not been associated with an increased frequency of major birth defects.
 
 In animal reproduction studies, clindamycin did not cause malformations or embryo-fetal development toxicity in pregnant rats and mice when administered during the period of organogenesis at systemic doses up to 240 times the maximum recommended human dose (MRHD) of 2.5 g ACANYA Gel, based on body surface area (BSA) comparisons (see Data).
 
 The estimated background risk of major birth defects and miscarriage for the indicated population is unknown.
 All pregnancies have a background risk of major birth defects, loss, and other adverse outcomes.
-In the U.S. general population, the estimated background risk of major birth defects and miscarriage in clinically recognized pregnancies is 2 -4% and 15-20%, respectively.
+In the U.S. general population, the estimated background risk of major birth defects and miscarriage in clinically recognized pregnancies is 2-4% and 15-20%, respectively.
 
 Data
 
