@@ -9,11 +9,11 @@ It is sparingly soluble in water and soluble in methanol.
 
 The structural formula is:
 
-Tiotropium bromide (monohydrate) has a molecular mass of 490.4 and a molecular formula of C19H22NO4S2Br • H2O.
+Tiotropium bromide (monohydrate) has a molecular mass of 490.4 and a molecular formula of C19H22NO4S2Br ∙ H2O.
 
 The drug substance olodaterol hydrochloride is chemically described as 2H-1,4-Benzoxazin-3H(4H)-one, 6-hydroxy-8-[(1R)-1-hydroxy-2-[[2-(4-methoxyphenyl)-1,1-dimethylethyl]-amino]ethyl]-, monohydrochloride.
 Olodaterol hydrochloride is a white to off-white powder that is sparingly-slightly soluble in water and slightly soluble in ethanol.
-The molecular weight is 422.9 g/mole (salt): 386.5 g/mole (base), and the molecular formula is C21H26N2O5 x HCl as a hydrochloride.
+The molecular weight is 422.9 g/mole (salt): 386.5 g/mole (base), and the molecular formula is C21H26N2O5 × HCl as a hydrochloride.
 The conversion factor from salt to free base is 1.094.
 
 The structural formula is:

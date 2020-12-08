@@ -34,9 +34,9 @@ Table 1 shows all adverse drug reactions that occurred with an incidence of >3% 
 
 Table 1 Number and frequency of adverse drug reactions greater than 3% (and higher than any of the comparators tiotropium and/or olodaterol) in COPD patients exposed to STIOLTO RESPIMAT: Pooled data from the two 52-week, double-blind, active-controlled clinical trials in COPD patients 40 years of age and older
 
-| Treatment | STIOLTO RESPIMAT (once daily) | Tiotropium (5 mcg once daily) | Olodaterol (5 mcg once daily) |
-| --- | --- | --- | --- |
 | Body system (adverse drug reaction) | n=1029 n (%) | n=1033 n (%) | n=1038 n (%) |
+| --- | --- | --- | --- |
+| Treatment | STIOLTO RESPIMAT (once daily) | Tiotropium (5 mcg once daily) | Olodaterol (5 mcg once daily) |
 | Infections and infestations |  |  |  |
 | Nasopharyngitis | 128 (12.4) | 121 (11.7) | 131 (12.6) |
 | Respiratory, thoracic, and mediastinal disorders |  |  |  |
@@ -48,5 +48,7 @@ Other adverse drug reactions in patients receiving STIOLTO RESPIMAT that occurre
 
 Metabolism and nutrition disorders: dehydration Nervous system disorders: dizziness, insomnia Eye disorders: glaucoma, intraocular pressure increased, vision blurred Cardiac/vascular disorders: atrial fibrillation, palpitations, supraventricular tachycardia, tachycardia, hypertension Respiratory, thoracic, and mediastinal disorders: epistaxis, pharyngitis, dysphonia, bronchospasm, laryngitis, sinusitis Gastrointestinal disorders: dry mouth, constipation, oropharyngeal candidiasis, dysphagia, gastroesophageal reflux disease, gingivitis, glossitis, stomatitis, intestinal obstruction including ileus paralytic Skin and subcutaneous disorders: rash, pruritus, angioneurotic edema, urticaria, skin infection, and skin ulcer, dry skin, hypersensitivity (including immediate reactions) Musculoskeletal and connective tissue disorders: arthralgia, joint swelling Renal and urinary disorders: urinary retention, dysuria, and urinary tract infection
 
-COPD Exacerbation Reduction Trial In a one year trial (Trial 5) of 7880 patients to compare rates of COPD exacerbations, 3939 patients were treated with STIOLTO RESPIMAT and 3941 patients were treated with tiotropium 5 mcg inhalation spray.
+COPD Exacerbation Reduction Trial
+
+In a one year trial (Trial 5) of 7880 patients to compare rates of COPD exacerbations, 3939 patients were treated with STIOLTO RESPIMAT and 3941 patients were treated with tiotropium 5 mcg inhalation spray.
 The safety profile of STIOLTO RESPIMAT was similar to that of tiotropium 5 mcg inhalation spray and consistent with that documented in the STIOLTO RESPIMAT primary safety database.

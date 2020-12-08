@@ -13,7 +13,6 @@ The light green-colored cap and the written information on the label of the gray
 STIOLTO RESPIMAT Inhalation Spray is available as:
 
 - STIOLTO RESPIMAT Inhalation Spray: 60 metered actuations (NDC 0597-0155-61)
-- STIOLTO RESPIMAT Inhalation Spray: 28 metered actuations (NDC 0597-0155-31) (institutional pack)
 - STIOLTO RESPIMAT Inhalation Spray: 10 metered actuations (NDC 0597-0155-70) (institutional pack)
 
 The STIOLTO RESPIMAT cartridge has a net fill weight of at least 4 grams and when used with the STIOLTO RESPIMAT inhaler, is designed to deliver the labeled number of metered actuations after preparation for use.
@@ -25,5 +24,7 @@ After assembly, the STIOLTO RESPIMAT inhaler should be discarded at the latest 3
 Keep out of reach of children.
 Do not spray into eyes.
 
-Storage Store at 25°C (77°F); excursions permitted to 15°C to 30°C (59°F to 86oF) [see USP Controlled Room Temperature].
+Storage
+
+Store at 20°C to 25°C (68°F to 77°F); excursions permitted to 15°C to 30°C (59°F to 86°F) [see USP Controlled Room Temperature].
 Avoid freezing.

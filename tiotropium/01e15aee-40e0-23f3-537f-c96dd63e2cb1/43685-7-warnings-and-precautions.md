@@ -7,7 +7,7 @@
 - Use of long-acting beta2-adrenergic agonists (LABA) as monotherapy [without inhaled corticosteroids (ICS)] for asthma is associated with an increased risk of asthma-related death.
   Available data from controlled clinical trials also suggest that use of LABA as monotherapy increases the risk of asthma-related hospitalization in pediatric and adolescent patients.
   These findings are considered a class effect of LABA monotherapy.
-  When LABA are used in fixed dose combination with ICS, data from large clinical trials do not show a significant increase in the risk of serious asthma-related events (hospitalizations, intubations, death) compared with ICS alone.
+  When LABA are used in fixed-dose combination with ICS, data from large clinical trials do not show a significant increase in the risk of serious asthma-related events (hospitalizations, intubations, death) compared with ICS alone.
 - A 28-week, placebo-controlled US study comparing the safety of another LABA (salmeterol) with placebo, each added to usual asthma therapy, showed an increase in asthma-related deaths in patients receiving salmeterol (13/13,176 in patients treated with salmeterol vs. 3/13,179 in patients treated with placebo; RR 4.37, 95% CI 1.25, 15.34).
   The increased risk of asthma-related death is considered a class effect of LABA, including olodaterol, one of the active ingredients in STIOLTO RESPIMAT.
 - No study adequate to determine whether the rate of asthma-related death is increased in patients treated with STIOLTO RESPIMAT has been conducted.
@@ -28,7 +28,7 @@ When prescribing STIOLTO RESPIMAT, the healthcare provider should also prescribe
 Increasing inhaled beta2-agonist use is a signal of deteriorating disease for which prompt medical attention is indicated.
 
 COPD may deteriorate acutely over a period of hours or chronically over several days or longer.
-If STIOLTO RESPIMAT no longer controls symptoms of bronchoconstriction, or the patient’s inhaled, short-acting beta2-agonist becomes less effective or the patient needs more inhalation of short-acting beta2-agonist than usual, these may be markers of deterioration of disease.
+If STIOLTO RESPIMAT no longer controls symptoms of bronchoconstriction, or the patient's inhaled, short-acting beta2-agonist becomes less effective or the patient needs more inhalation of short-acting beta2-agonist than usual, these may be markers of deterioration of disease.
 In this setting, a re-evaluation of the patient and the COPD treatment regimen should be undertaken at once.
 Increasing the daily dosage of STIOLTO RESPIMAT beyond the recommended dose is not appropriate in this situation.
 
