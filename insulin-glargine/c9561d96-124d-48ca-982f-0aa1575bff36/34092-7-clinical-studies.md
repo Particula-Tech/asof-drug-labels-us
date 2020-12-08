@@ -68,7 +68,7 @@ Table 5: Type 1 Diabetes Mellitus – Pediatric Patients at 26 weeks (TOUJEO plu
 
 ## 14.3 Clinical Studies in Adult Patients with Type 2 Diabetes
 
-In a 26-week open-label, controlled study (study C, n=804), adults with type 2 diabetes were randomized to once-daily treatment in the evening with either TOUJEO or LANTUS.
+In a 26-week open-label, controlled study (Study C, n=804), adults with type 2 diabetes were randomized to once-daily treatment in the evening with either TOUJEO or LANTUS.
 Short-acting mealtime insulin analogues with or without metformin were also administered.
 The average age was 60 years.
 The majority of patients were White (92.3%) and 52.9% were male; 20.3% of patients had GFR >90 mL/min/1.73 m2.
@@ -78,7 +78,7 @@ Patients treated with TOUJEO used 11% more basal insulin than patients treated w
 There were no clinically important differences in body weight between treatment groups.
 
 In two open-label, controlled studies (n=1670), adults with type 2 diabetes mellitus were randomized to either TOUJEO or LANTUS once daily for 26 weeks as part of a regimen of combination therapy with noninsulin antidiabetic drugs.
-At the time of randomization, 808 patients were treated with basal insulin for more than 6 months (study D) and 862 patients were insulin-naive (study E).
+At the time of randomization, 808 patients were treated with basal insulin for more than 6 months (Study D) and 862 patients were insulin-naive (Study E).
 
 In Study D, the average age was 58.2 years.
 The majority of patients were White (93.8%) and 45.9% were male; 32.8% of patients had GFR >90 mL/min/1.73 m2.

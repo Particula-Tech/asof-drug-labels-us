@@ -9,7 +9,7 @@ The following adverse reactions are discussed elsewhere:
 
 ## 6.1 Clinical Trials Experience
 
-Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug, and may not reflect the rates actually observed in clinical practice.
+Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates actually observed in clinical practice.
 
 The data in Table 1 reflect the exposure of 304 patients with type 1 diabetes to TOUJEO with mean exposure duration of 23 weeks.
 The type 1 diabetes population had the following characteristics: Mean age was 46 years and mean duration of diabetes was 21 years.
@@ -25,7 +25,7 @@ At baseline, mean eGFR was 79 mL/min/1.73 m2 and 27% of patients had an eGFR ≥
 The mean BMI was 35 kg/m2.
 HbA1c at baseline was greater or equal to 8% in 66% of patients.
 
-TOUJEO was studied in 233 pediatric patients (6–17 years of age) with type 1 diabetes for a mean duration of 26 weeks [See Clinical Studies (14.1)].
+TOUJEO was studied in 233 pediatric patients (6–17 years of age) with type 1 diabetes for a mean duration of 26 weeks [see Clinical Studies (14.1)].
 
 Common adverse reactions (occurring ≥5%) in TOUJEO-treated subjects during clinical trials in adult patients with type 1 diabetes mellitus and type 2 diabetes mellitus are listed in Table 1 and Table 2, respectively.
 Common adverse reactions for TOUJEO-treated pediatric subjects with type 1 diabetes mellitus were similar to the adverse reactions listed in Table 1.
@@ -93,7 +93,7 @@ A cardiovascular outcomes trial, ORIGIN, has been conducted with LANTUS.
 It is unknown whether the results of ORIGIN can be applied to TOUJEO.
 
 The Outcome Reduction with Initial Glargine Intervention trial (i.e., ORIGIN) was an open-label, randomized, 12,537 patient study that compared LANTUS to standard care on the time to first occurrence of a major adverse cardiovascular event (MACE).
-MACE was defined as the composite of CV death, nonfatal myocardial infarction and nonfatal stroke.
+MACE was defined as the composite of CV death, nonfatal myocardial infarction, and nonfatal stroke.
 The incidence of MACE was similar between LANTUS and standard care in ORIGIN (Hazard Ratio [95% CI] for MACE; 1.02 [0.94, 1.11]).
 
 In the ORIGIN trial, the overall incidence of cancer (all types combined) (Hazard Ratio [95% CI]; 0.99 [0.88, 1.11]) or death from cancer (Hazard Ratio [95% CI]; 0.94 [0.77, 1.15]) was also similar between treatment groups.

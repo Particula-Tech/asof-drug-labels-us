@@ -16,9 +16,9 @@
 
 - TOUJEO is available in 2 single-patient-use prefilled pens:
   - TOUJEO SoloStar contains 450 units of TOUJEO U-300.
-    It delivers doses in 1 unit increments and can deliver up to 80 units in a single injection.
+    It delivers doses in 1-unit increments and can deliver up to 80 units in a single injection.
   - TOUJEO Max SoloStar contains 900 units of TOUJEO U-300.
-    It delivers doses in 2 unit increments and can deliver up to 160 units in a single injection.
+    It delivers doses in 2-unit increments and can deliver up to 160 units in a single injection.
     It is recommended for patients requiring at least 20 units per day.
 - When changing between TOUJEO SoloStar and TOUJEO Max SoloStar, if the patient's previous dose was an odd number, the dose should be increased or decreased by 1 unit.
 - The dose counter of the TOUJEO SoloStar or TOUJEO Max SoloStar prefilled pen shows the number of units of TOUJEO to be injected and no conversion is required.

@@ -4,7 +4,7 @@
 
 The primary activity of insulin, including insulin glargine, is regulation of glucose metabolism.
 Insulin and its analogs lower blood glucose by stimulating peripheral glucose uptake, especially by skeletal muscle and fat, and by inhibiting hepatic glucose production.
-Insulin inhibits lipolysis and proteolysis, and enhances protein synthesis.
+Insulin inhibits lipolysis and proteolysis and enhances protein synthesis.
 
 ## 12.2 Pharmacodynamics
 
