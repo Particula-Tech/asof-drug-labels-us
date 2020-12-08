@@ -88,7 +88,7 @@ Effect of Hepatic Impairment
 
 Irinotecan clearance is diminished in patients with hepatic impairment while exposure to the active metabolite SN-38 is increased relative to that in patients with normal hepatic function.
 The magnitude of these effects is proportional to the degree of liver impairment as measured by elevations in total bilirubin and transaminase concentrations.
-However, the tolerability of irinotecan in patients with hepatic dysfunction (bilirubin greater than 2 mg/dl) has not been assessed sufficiently, and no recommendations for dosing can be made [see Dosage and Administration (2), Warnings and Precautions (5.10) and Use in Specific Populations (8.7)].
+However, the tolerability of irinotecan in patients with hepatic dysfunction (bilirubin greater than 2 mg/dl) has not been assessed sufficiently, and no recommendations for dosing can be made [see Dosage and Administration (2.1), Warnings and Precautions (5.10) and Use in Specific Populations (8.7)].
 
 Effect of Renal Impairment
 

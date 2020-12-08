@@ -4,7 +4,136 @@
 
 Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in clinical practice.
 
+Common adverse reactions (≥30%) observed in combination therapy clinical studies are: nausea, vomiting, abdominal pain, diarrhea, constipation, anorexia, mucositis, neutropenia, leukopenia (including lymphocytopenia), anemia, thrombocytopenia, asthenia, pain, fever, infection, abnormal bilirubin, and alopecia.
+
 Common adverse reactions (≥30%) observed in single agent therapy clinical studies are: nausea, vomiting, abdominal pain, diarrhea, constipation, anorexia, neutropenia, leukopenia (including lymphocytopenia), anemia, asthenia, fever, body weight decreasing, and alopecia.
+
+First-Line Combination Therapy
+
+A total of 955 patients with metastatic colorectal cancer received the recommended regimens of irinotecan in combination with 5-FU/LV, 5-FU/LV alone, or irinotecan alone.
+In the two phase 3 studies, 370 patients received irinotecan in combination with 5-FU/LV, 362 patients received 5-FU/LV alone, and 223 patients received irinotecan alone [see Dosage and Administration (2)].
+
+In Study 1, 49 (7.3%) patients died within 30 days of last study treatment: 21 (9.3%) received irinotecan in combination with 5-FU/LV, 15 (6.8%) received 5-FU/LV alone, and 13 (5.8%) received irinotecan alone.
+Deaths potentially related to treatment occurred in 2 (0.9%) patients who received irinotecan in combination with 5-FU/LV (2 neutropenic fever/sepsis), 3 (1.4%) patients who received 5-FU/LV alone (1 neutropenic fever/sepsis, 1 CNS bleeding during thrombocytopenia, 1 unknown) and 2 (0.9%) patients who received irinotecan alone (2 neutropenic fever).
+Deaths from any cause within 60 days of first study treatment were reported for 15 (6.7%) patients who received irinotecan in combination with 5-FU/LV, 16 (7.3%) patients who received 5-FU/LV alone, and 15 (6.7%) patients who received irinotecan alone.
+Discontinuations due to adverse events were reported for 17 (7.6%) patients who received irinotecan in combination with 5-FU/LV, 14 (6.4%) patients who received 5-FU/LV alone, and 26 (11.7%) patients who received irinotecan alone.
+
+In Study 2, 10 (3.5%) patients died within 30 days of last study treatment: 6 (4.1%) received irinotecan in combination with 5-FU/LV and 4 (2.8%) received 5-FU/LV alone.
+There was one potentially treatment-related death, which occurred in a patient who received irinotecan in combination with 5-FU/LV (0.7%, neutropenic sepsis).
+Deaths from any cause within 60 days of first study treatment were reported for 3 (2.1%) patients who received irinotecan in combination with 5-FU/LV and 2 (1.4%) patients who received 5-FU/LV alone.
+Discontinuations due to adverse events were reported for 9 (6.2%) patients who received irinotecan in combination with 5-FU/LV and 1 (0.7%) patient who received 5-FU/LV alone.
+
+The most clinically significant adverse events for patients receiving irinotecan-based therapy were diarrhea, nausea, vomiting, neutropenia, and alopecia.
+The most clinically significant adverse events for patients receiving 5-FU/LV therapy were diarrhea, neutropenia, neutropenic fever, and mucositis.
+In Study 1, grade 4 neutropenia, neutropenic fever (defined as grade 2 fever and grade 4 neutropenia), and mucositis were observed less often with weekly irinotecan/5-FU/LV than with monthly administration of 5-FU/LV.
+
+Tables 5 and 6 list the clinically relevant adverse events reported in Studies 1 and 2, respectively.
+
+Table 5.
+Study 1: Percent (%) of Patients Experiencing Clinically Relevant Adverse Events in Combination Therapiesa
+
+| Adverse Event | Study 1 |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- |
+| Irinotecan + Bolus 5-FU/LV weekly x 4 every 6 weeks N=225 |  | Bolus 5-FU/LV daily x 5 every 4 weeks N=219 |  | Irinotecan weekly x 4 every 6 weeks N=223 |  |  |
+| Grade 1-4 | Grade 3 & 4 | Grade 1-4 | Grade 3 & 4 | Grade 1-4 | Grade 3 & 4 |  |
+| TOTAL Adverse Events | 100 | 53.3 | 100 | 45.7 | 99.6 | 45.7 |
+| GASTROINTESTINAL |  |  |  |  |  |  |
+| Diarrhea |  |  |  |  |  |  |
+| Late | 84.9 | 22.7 | 69.4 | 13.2 | 83.0 | 31.0 |
+| grade 3 | -- | 15.1 | -- | 5.9 | -- | 18.4 |
+| grade 4 | -- | 7.6 | -- | 7.3 | -- | 12.6 |
+| Early | 45.8 | 4.9 | 31.5 | 1.4 | 43.0 | 6.7 |
+| Nausea | 79.1 | 15.6 | 67.6 | 8.2 | 81.6 | 16.1 |
+| Abdominal pain | 63.1 | 14.6 | 50.2 | 11.5 | 67.7 | 13.0 |
+| Vomiting | 60.4 | 9.7 | 46.1 | 4.1 | 62.8 | 12.1 |
+| Anorexia | 34.2 | 5.8 | 42.0 | 3.7 | 43.9 | 7.2 |
+| Constipation | 41.3 | 3.1 | 31.5 | 1.8 | 32.3 | 0.4 |
+| Mucositis | 32.4 | 2.2 | 76.3 | 16.9 | 29.6 | 2.2 |
+| HEMATOLOGIC |  |  |  |  |  |  |
+| Neutropenia | 96.9 | 53.8 | 98.6 | 66.7 | 96.4 | 31.4 |
+| grade 3 | -- | 29.8 | -- | 23.7 | -- | 19.3 |
+| grade 4 | -- | 24.0 | -- | 42.5 | -- | 12.1 |
+| Leukopenia | 96.9 | 37.8 | 98.6 | 23.3 | 96.4 | 21.5 |
+| Anemia | 96.9 | 8.4 | 98.6 | 5.5 | 96.9 | 4.5 |
+| Neutropenic fever | -- | 7.1 | -- | 14.6 | -- | 5.8 |
+| Thrombocytopenia | 96.0 | 2.6 | 98.6 | 2.7 | 96.0 | 1.7 |
+| Neutropenic infection | -- | 1.8 | -- | 0 | -- | 2.2 |
+| BODY AS A WHOLE |  |  |  |  |  |  |
+| Asthenia | 70.2 | 19.5 | 64.4 | 11.9 | 69.1 | 13.9 |
+| Pain | 30.7 | 3.1 | 26.9 | 3.6 | 22.9 | 2.2 |
+| Fever | 42.2 | 1.7 | 32.4 | 3.6 | 43.5 | 0.4 |
+| Infection | 22.2 | 0 | 16.0 | 1.4 | 13.9 | 0.4 |
+| METABOLIC & NUTRITIONAL |  |  |  |  |  |  |
+| Bilirubin | 87.6 | 7.1 | 92.2 | 8.2 | 83.9 | 7.2 |
+| DERMATOLOGIC |  |  |  |  |  |  |
+| Exfoliative dermatitis | 0.9 | 0 | 3.2 | 0.5 | 0 | 0 |
+| Rash | 19.1 | 0 | 26.5 | 0.9 | 14.3 | 0.4 |
+| Alopeciab | 43.1 | -- | 26.5 | -- | 46.1 | -- |
+| RESPIRATORY |  |  |  |  |  |  |
+| Dyspnea | 27.6 | 6.3 | 16.0 | 0.5 | 22.0 | 2.2 |
+| Cough | 26.7 | 1.3 | 18.3 | 0 | 20.2 | 0.4 |
+| Pneumonia | 6.2 | 2.7 | 1.4 | 1.0 | 3.6 | 1.3 |
+| NEUROLOGIC |  |  |  |  |  |  |
+| Dizziness | 23.1 | 1.3 | 16.4 | 0 | 21.1 | 1.8 |
+| Somnolence | 12.4 | 1.8 | 4.6 | 1.8 | 9.4 | 1.3 |
+| Confusion | 7.1 | 1.8 | 4.1 | 0 | 2.7 | 0 |
+| CARDIOVASCULAR |  |  |  |  |  |  |
+| Vasodilatation | 9.3 | 0.9 | 5.0 | 0 | 9.0 | 0 |
+| Hypotension | 5.8 | 1.3 | 2.3 | 0.5 | 5.8 | 1.7 |
+| Thromboembolic eventsc | 9.3 | -- | 11.4 | -- | 5.4 | -- |
+| a Severity of adverse events based on NCI CTC (version 1.0) |  |  |  |  |  |  |
+| b Complete hair loss = Grade 2 |  |  |  |  |  |  |
+| c Includes angina pectoris, arterial thrombosis, cerebral infarct, cerebrovascular accident, deep thrombophlebitis, embolus lower extremity, heart arrest, myocardial infarct, myocardial ischemia, peripheral vascular disorder, pulmonary embolus, sudden death, thrombophlebitis, thrombosis, vascular disorder. |  |  |  |  |  |  |
+
+Table 6.
+Study 2: Percent (%) of Patients Experiencing Clinically Relevant Adverse Events in Combination Therapiesa
+
+| Adverse Event | Study 2 |  |  |  |
+| --- | --- | --- | --- | --- |
+| Irinotecan + 5-FU/LV infusional days 1&2 every 2 weeks N=145 |  | 5-FU/LV infusional days 1&2 every 2 weeks N=143 |  |  |
+| Grades 1-4 | Grades 3 & 4 | Grades 1-4 | Grades 3 & 4 |  |
+| TOTAL Adverse Events | 100 | 72.4 | 100 | 39.2 |
+| GASTROINTESTINAL |  |  |  |  |
+| Diarrhea |  |  |  |  |
+| Late | 72.4 | 14.4 | 44.8 | 6.3 |
+| grade 3 | -- | 10.3 | -- | 4.2 |
+| grade 4 | -- | 4.1 | -- | 2.1 |
+| Cholinergic syndromeb | 28.3 | 1.4 | 0.7 | 0 |
+| Nausea | 66.9 | 2.1 | 55.2 | 3.5 |
+| Abdominal pain | 17.2 | 2.1 | 16.8 | 0.7 |
+| Vomiting | 44.8 | 3.5 | 32.2 | 2.8 |
+| Anorexia | 35.2 | 2.1 | 18.9 | 0.7 |
+| Constipation | 30.3 | 0.7 | 25.2 | 1.4 |
+| Mucositis | 40.0 | 4.1 | 28.7 | 2.8 |
+| HEMATOLOGIC |  |  |  |  |
+| Neutropenia | 82.5 | 46.2 | 47.9 | 13.4 |
+| grade 3 | -- | 36.4 | -- | 12.7 |
+| grade 4 | -- | 9.8 | -- | 0.7 |
+| Leukopenia | 81.3 | 17.4 | 42.0 | 3.5 |
+| Anemia | 97.2 | 2.1 | 90.9 | 2.1 |
+| Neutropenic fever | -- | 3.4 | -- | 0.7 |
+| Thrombocytopenia | 32.6 | 0 | 32.2 | 0 |
+| Neutropenic infection | -- | 2.1 | -- | 0 |
+| BODY AS A WHOLE |  |  |  |  |
+| Asthenia | 57.9 | 9.0 | 48.3 | 4.2 |
+| Pain | 64.1 | 9.7 | 61.5 | 8.4 |
+| Fever | 22.1 | 0.7 | 25.9 | 0.7 |
+| Infection | 35.9 | 7.6 | 33.6 | 3.5 |
+| METABOLIC AND NUTRITIONAL |  |  |  |  |
+| Bilirubin | 19.1 | 3.5 | 35.9 | 10.6 |
+| DERMATOLOGIC |  |  |  |  |
+| Hand and foot syndrome | 10.3 | 0.7 | 12.6 | 0.7 |
+| Cutaneous signs | 17.2 | 0.7 | 20.3 | 0 |
+| Alopeciac | 56.6 | -- | 16.8 | -- |
+| RESPIRATORY |  |  |  |  |
+| Dyspnea | 9.7 | 1.4 | 4.9 | 0 |
+| CARDIOVASCULAR |  |  |  |  |
+| Hypotension | 3.4 | 1.4 | 0.7 | 0 |
+| Thromboembolic eventsd | 11.7 | -- | 5.6 | -- |
+| a Severity of adverse events based on NCI CTC (version 1.0) |  |  |  |  |
+| b Includes rhinitis, increased salivation, miosis, lacrimation, diaphoresis, flushing, abdominal cramping or diarrhea (occurring during or shortly after infusion of irinotecan) |  |  |  |  |
+| c Complete hair loss = Grade 2 |  |  |  |  |
+| d Includes angina pectoris, arterial thrombosis, cerebral infarct, cerebrovascular accident, deep thrombophlebitis, embolus lower extremity, heart arrest, myocardial infarct, myocardial ischemia, peripheral vascular disorder, pulmonary embolus, sudden death, thrombophlebitis, thrombosis, vascular disorder. |  |  |  |  |
 
 Second-Line Single-Agent Therapy
 

@@ -52,6 +52,12 @@ Individuals who are homozygous for the UGT1A1*28 allele (UGT1A1 7/7 genotype) ar
 In a study of 66 patients who received single-agent irinotecan hydrochloride injection (350 mg/m2 once-every-3-weeks), the incidence of grade 4 neutropenia in patients homozygous for the UGT1A1*28 allele was 50%, and in patients heterozygous for this allele (UGT1A1 6/7 genotype) the incidence was 12.5%.
 No grade 4 neutropenia was observed in patients homozygous for the wild-type allele (UGT1A1 6/6 genotype).
 
+In a prospective study (n=250) to investigate the role of UGT1A1*28 polymorphism in the development of toxicity in patients treated with irinotecan hydrochloride injection (180 mg/m2) in combination with infusional 5-FU/LV, the incidence of grade 4 neutropenia in patients homozygous for the UGT1A1*28 allele was 4.5%, and in patients heterozygous for this allele the incidence was 5.3%.
+Grade 4 neutropenia was observed in 1.8% of patients homozygous for the wild-type allele.
+
+In another study in which 109 patients were treated with irinotecan hydrochloride injection (100 to 125 mg/m2) in combination with bolus 5-FU/LV, the incidence of grade 4 neutropenia in patients homozygous for the UGT1A1*28 allele was 18.2%, and in patients heterozygous for this allele the incidence was 11.1%.
+Grade 4 neutropenia was observed in 6.8% of patients homozygous for the wild-type allele.
+
 When administered in combination with other agents or as a single-agent, a reduction in the starting dose by at least one level of irinotecan hydrochloride injection should be considered for patients known to be homozygous for the UGT1A1*28 allele.
 However, the precise dose reduction in this patient population is not known and subsequent dose modifications should be considered based on individual patient tolerance to treatment [see Dosage and Administration (2)].
 
@@ -81,11 +87,11 @@ If IPD is diagnosed, irinotecan hydrochloride injection and other chemotherapy s
 ## 5.7 Toxicity of the 5 Day Regimen
 
 Outside of a well-designed clinical study, irinotecan hydrochloride injection should not be used in combination with a regimen of 5-FU/LV administered for 4 to 5 consecutive days every 4 weeks because of reports of increased toxicity, including toxic deaths.
-Irinotecan hydrochloride injection should be used as recommended [see Dosage and Administration (2)].
+Irinotecan hydrochloride injection should be used as recommended in Table 2 [see Dosage and Administration (2)].
 
 ## 5.8 Increased Toxicity in Patients with Performance Status 2
 
-In the clinical trials, higher rates of hospitalization, neutropenic fever, thromboembolism, first-cycle treatment discontinuation, and early deaths were observed in patients with a baseline performance status of 2 than in patients with a baseline performance status of 0 or 1.
+In patients receiving either irinotecan/5-FU/LV or 5-FU/LV in the clinical trials, higher rates of hospitalization, neutropenic fever, thromboembolism, first-cycle treatment discontinuation, and early deaths were observed in patients with a baseline performance status of 2 than in patients with a baseline performance status of 0 or 1.
 
 ## 5.9 Embryo-Fetal Toxicity
 
@@ -100,4 +106,4 @@ Advise male patients with female partners of reproductive potential to use condo
 
 The use of irinotecan hydrochloride injection in patients with significant hepatic impairment has not been established.
 In clinical trials of either dosing schedule, irinotecan was not administered to patients with serum bilirubin >2.0 mg/dL, or transaminase >3 times the upper limit of normal if no liver metastasis, or transaminase >5 times the upper limit of normal with liver metastasis.
-In clinical trials of the weekly dosage schedule, patients with modestly elevated baseline serum total bilirubin levels (1.0 to 2.0 mg/dL) had a significantly greater likelihood of experiencing first-cycle, grade 3 or 4 neutropenia than those with bilirubin levels that were less than 1.0 mg/dL (50% [19/38] versus 18% [47/226]; p<0.001) [see Dosage and Administration (2), Use in Specific Populations (8.7) and Clinical Pharmacology (12.3)].
+In clinical trials of the weekly dosage schedule, patients with modestly elevated baseline serum total bilirubin levels (1.0 to 2.0 mg/dL) had a significantly greater likelihood of experiencing first-cycle, grade 3 or 4 neutropenia than those with bilirubin levels that were less than 1.0 mg/dL (50% [19/38] versus 18% [47/226]; p<0.001) [see Dosage and Administration (2.1), Use in Specific Populations (8.7) and Clinical Pharmacology (12.3)].

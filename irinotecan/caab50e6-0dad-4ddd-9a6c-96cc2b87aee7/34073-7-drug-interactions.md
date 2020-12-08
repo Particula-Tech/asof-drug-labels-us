@@ -1,5 +1,11 @@
 # 7 DRUG INTERACTIONS
 
+## 7.1 5-Fluorouracil (5-FU) and Leucovorin (LV)
+
+In a phase 1 clinical study involving irinotecan, 5-fluorouracil (5-FU), and leucovorin (LV) in 26 patients with solid tumors, the disposition of irinotecan was not substantially altered when the drugs were co-administered.
+Although the Cmax and AUC0-24 of SN-38, the active metabolite, were reduced (by 14% and 8%, respectively) when irinotecan was followed by 5-FU and LV administration compared with when irinotecan was given alone, this sequence of administration was used in the combination trials and is recommended [see Dosage and Administration (2)].
+Formal in vivo or in vitro drug interaction studies to evaluate the influence of irinotecan on the disposition of 5-FU and LV have not been conducted.
+
 ## 7.2 Strong CYP3A4 Inducers
 
 Exposure to irinotecan or its active metabolite SN-38 is substantially reduced in adult and pediatric patients concomitantly receiving the CYP3A4 enzyme-inducing anticonvulsants phenytoin, phenobarbital, carbamazepine, or St. John's wort.
