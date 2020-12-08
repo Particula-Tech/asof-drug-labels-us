@@ -54,6 +54,6 @@ Marketed by:
 
 AbbVie Inc. North Chicago, IL 60064, USA
 
-© 2019 AbbVie Inc.
+© 2011-2020 AbbVie Inc.
 
-5044281 Revised May, 2019
+5005035 Revised November, 2020

@@ -55,10 +55,10 @@ None of these subjects were discontinued from the study due to application site 
 
 ## 6.2 Postmarketing Experience
 
-The following adverse reactions have been identified during post approval use of AndroGel 1%.
+The following adverse reactions have been identified during post approval use of AndroGel 1.62%.
 Because the reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure (Table 5).
 
-Table 5: Adverse Reactions from Post Approval Experience of AndroGel 1% by System Organ Class
+Table 5: Adverse Reactions from Post Approval Experience of AndroGel 1.62% by System Organ Class
 
 | System Organ Class | Adverse Reaction |
 | --- | --- |

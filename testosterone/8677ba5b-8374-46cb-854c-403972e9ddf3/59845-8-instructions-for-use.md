@@ -64,6 +64,6 @@ How should I store ANDROGEL 1.62%?
 Keep ANDROGEL 1.62% and all medicines out of the reach of children.
 
 This Instructions for Use has been approved by the U.S. Food and Drug Administration.
-Revised: 05/2019
+Revised: 11/2020
 
-5044281
+5005035
