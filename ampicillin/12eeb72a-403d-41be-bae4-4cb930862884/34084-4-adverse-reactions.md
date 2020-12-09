@@ -56,7 +56,7 @@ Gastrointestinal Disorders: Abdominal pain, cholestatic hepatitis, cholestasis, 
 
 General Disorders and Administration Site Conditions: Injection site reaction
 
-Immune System Disorders: Serious and fatal hypersensitivity (anaphylactic) reactions (see WARNINGS section), Kounis syndrome.
+Immune System Disorders: Serious and fatal hypersensitivity (anaphylactic) reactions (see WARNINGS section), Acute myocardial ischemia with or without myocardial infarction may occur as part of an allergic reaction.
 
 Nervous System Disorders: Convulsion and dizziness
 
