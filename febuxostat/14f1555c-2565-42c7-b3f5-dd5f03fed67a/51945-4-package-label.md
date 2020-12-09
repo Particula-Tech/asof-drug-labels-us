@@ -1,3 +1,7 @@
-# Package/Label Display Panel
+# PACKAGE/LABEL PRINCIPAL DISPLAY PANEL
 
-# Package/Label Display Panel
+40 mg NDC 0054-0413-13 Bottle of 30 tablets
+
+# PACKAGE/LABEL PRINCIPAL DISPLAY PANEL
+
+80mg NDC 0054-0414-13 Bottle of 30 tablets
