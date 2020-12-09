@@ -16,4 +16,4 @@ Store vials in carton until used.
 
 AMERICAN REGENT, INC. SHIRLEY, NY 11967
 
-RQ1087-A
+RQ1087-B
