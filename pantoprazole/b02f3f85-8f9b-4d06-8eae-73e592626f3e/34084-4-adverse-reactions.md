@@ -6,7 +6,7 @@ The following serious adverse reactions are described below and elsewhere in lab
 
 • Injection Site Reactions [see Warnings and Precautions (5.3)]
 
-• Tubulointerstitial Nephritis [see Warnings and Precautions (5.4)]
+• Acute Tubulointerstitial Nephritis [see Warnings and Precautions (5.4)]
 
 • Clostridium difficile-Associated Diarrhea [see Warnings and Precautions (5.5)]
 

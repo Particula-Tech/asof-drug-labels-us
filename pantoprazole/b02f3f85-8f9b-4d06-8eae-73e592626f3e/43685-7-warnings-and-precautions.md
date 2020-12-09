@@ -15,13 +15,12 @@ These may require emergency medical treatment [see Adverse Reactions (6.2)].
 
 Thrombophlebitis was associated with the administration of another intravenous pantoprazole sodium product.
 
-## 5.4 Tubulointerstitial Nephritis
+## 5.4 Acute Tubulointerstitial Nephritis
 
-Tubulointerstitial nephritis (TIN) has been observed in patients taking PPIs and may occur at any point during PPI therapy.
-Presentation ranges from symptomatic acute hypersensitivity reactions to an asymptomatic gradual decrease in glomerular filtration rate.
-In reported case series, TIN was diagnosed on biopsy and in the absence of extra-renal manifestations or systemic inflammatory symptoms up to two years after the start of PPI therapy.
-Discontinue Pantoprazole Sodium for Injection and evaluate patients with an unexplained decrease in glomerular filtration rate for TIN.
-Avoid PPIs in patients with a prior history of PPI-induced TIN.
+Acute tubulointerstitial nephritis (TIN) has been observed in patients taking PPIs and may occur at any point during PPI therapy.
+Patients may present with varying signs and symptoms from symptomatic hypersensitivity reactions to non-specific symptoms of decreased renal function (e.g., malaise, nausea, anorexia).
+In reported case series, some patients were diagnosed on biopsy and in the absence of extra-renal manifestations (e.g., fever, rash or arthralgia).
+Discontinue Pantoprazole Sodium for Injection and evaluate patients with suspected acute TIN [see Contraindications (4)].
 
 ## 5.5 Clostridium difficile-Associated Diarrhea
 

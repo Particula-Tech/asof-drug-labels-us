@@ -8,7 +8,7 @@ Advise patients to report to their healthcare provider if they experience any si
 
 • Injection Site Reactions [see Warnings and Precautions (5.3)]
 
-• Tubulointerstitial Nephritis [see Warnings and Precautions (5.4)]
+• Acute Tubulointerstitial Nephritis [see Warnings and Precautions (5.4)]
 
 • Clostridium difficile-Associated Diarrhea [see Warnings and Precautions (5.5)]
 
@@ -38,4 +38,4 @@ Estrada do Rio da Mό, 8, 8A e 8B – Fervença – 2705-906 Terrugem SNT, PORT
 
 Distributed by: Hikma Pharmaceuticals USA Inc. Berkeley Heights, NJ 07922
 
-PIN469-WES/5
+PIN469-WES/6
