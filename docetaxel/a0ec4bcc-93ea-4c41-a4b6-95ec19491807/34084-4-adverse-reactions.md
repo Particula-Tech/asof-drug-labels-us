@@ -190,8 +190,8 @@ Table 5: Non-Hematologic Adverse Reactions in Breast Cancer Patients Previously 
 |  | % | % | % |
 | --- | --- | --- | --- |
 |  | Docetaxel 100 mg/m2 |  | Docetaxel 60 mg/m2 |
-|  | Normal LFTsNormal Baseline LFTs: Transaminases ≤1.5 times ULN or alkaline phosphatase ≤2.5 times ULN or isolated elevations of transaminases or alkaline phosphatase up to 5 times ULN | Elevated LFTsElevated Baseline Liver Function: AST and/or ALT >1.5 times ULN concurrent with alkaline phosphatase >2.5 times ULN | Normal LFTs |
-| Adverse Reaction | n=730 | n=18 | n=174 |
+| Adverse Reaction | Normal LFTsNormal Baseline LFTs: Transaminases ≤1.5 times ULN or alkaline phosphatase ≤2.5 times ULN or isolated elevations of transaminases or alkaline phosphatase up to 5 times ULN | Elevated LFTsElevated Baseline Liver Function: AST and/or ALT >1.5 times ULN concurrent with alkaline phosphatase >2.5 times ULN | Normal LFTs |
+| n=730 | n=18 | n=174 |  |
 | Acute Hypersensitivity Reaction Regardless of Premedication |  |  |  |
 | Any | 13 | 6 | 1 |
 | Severe | 1 | 0 | 0 |
