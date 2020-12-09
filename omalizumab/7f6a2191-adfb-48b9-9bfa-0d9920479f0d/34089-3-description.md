@@ -7,7 +7,7 @@ Gentamicin is not detectable in the final product.
 
 XOLAIR (omalizumab) is administered as a subcutaneous (SC) injection and is available in prefilled syringes and in vials.
 
-Prefilled Syringe
+XOLAIR Injection (Prefilled Syringe)
 
 XOLAIR (omalizumab) injection is supplied as a sterile, preservative-free, clear to slightly opalescent and colorless to pale brownish-yellow solution for subcutaneous injection.
 XOLAIR (omalizumab) injection is available as a single-dose prefilled syringe.
@@ -18,7 +18,7 @@ Each 150 mg prefilled syringe delivers 150 mg omalizumab in 1 mL and contains L-
 
 The needle cap contains a derivative of natural rubber latex which may cause allergic reactions in latex sensitive individuals.
 
-Vial
+XOLAIR for Injection (Vial)
 
 XOLAIR (omalizumab) for injection is a sterile, white, preservative free, lyophilized powder in a single-dose vial.
 After reconstitution with 1.4 mL of Sterile Water for Injection, USP, the vial contains 150 mg of omalizumab per 1.2 mL of reconstituted solution for subcutaneous injection.

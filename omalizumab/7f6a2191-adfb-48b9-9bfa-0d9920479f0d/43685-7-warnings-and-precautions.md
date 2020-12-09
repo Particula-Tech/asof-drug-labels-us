@@ -39,7 +39,7 @@ Do not use XOLAIR to treat acute bronchospasm or status asthmaticus.
 
 ## 5.4 Corticosteroid Reduction
 
-Do not discontinue systemic or inhaled corticosteroids abruptly upon initiation of XOLAIR therapy for asthma.
+Do not discontinue systemic or inhaled corticosteroids abruptly upon initiation of XOLAIR therapy for asthma or nasal polyps.
 Decrease corticosteroids gradually under the direct supervision of a physician.
 In CIU patients, the use of XOLAIR in combination with corticosteroids has not been evaluated.
 
@@ -70,4 +70,4 @@ Response to appropriate anti-geohelminth treatment of infection as measured by s
 
 Serum total IgE levels increase following administration of XOLAIR due to formation of XOLAIR:IgE complexes [see Clinical Pharmacology (12.2)].
 Elevated serum total IgE levels may persist for up to 1 year following discontinuation of XOLAIR.
-Do not use serum total IgE levels obtained less than 1 year following discontinuation to reassess the dosing regimen for asthma patients, because these levels may not reflect steady state free IgE levels [see Dosage and Administration (2.1)].
+Do not use serum total IgE levels obtained less than 1 year following discontinuation to reassess the dosing regimen for asthma or nasal polyps patients, because these levels may not reflect steady state free IgE levels [see Dosage and Administration (2.2, 2.3)].

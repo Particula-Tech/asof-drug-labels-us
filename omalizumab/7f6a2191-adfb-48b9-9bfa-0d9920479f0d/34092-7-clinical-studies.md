@@ -31,14 +31,14 @@ Patients then entered an ICS reduction phase of 12 weeks during which ICS dose r
 
 The distribution of the number of asthma exacerbations per patient in each group during a study was analyzed separately for the stable steroid and steroid-reduction periods.
 
-In both Asthma Trials 1 and 2 the number of exacerbations per patient was reduced in patients treated with XOLAIR compared with placebo (Table 7).
+In both Asthma Trials 1 and 2 the number of exacerbations per patient was reduced in patients treated with XOLAIR compared with placebo (Table 9).
 
 Measures of airflow (FEV1) and asthma symptoms were also evaluated in these trials.
 The clinical relevance of the treatment-associated differences is unknown.
-Results from the stable steroid phase Asthma Trial 1 are shown in Table 8.
-Results from the stable steroid phase of Asthma Trial 2 and the steroid reduction phases of both Asthma Trials 1 and 2 were similar to those presented in Table 8.
+Results from the stable steroid phase Asthma Trial 1 are shown in Table 10.
+Results from the stable steroid phase of Asthma Trial 2 and the steroid reduction phases of both Asthma Trials 1 and 2 were similar to those presented in Table 10.
 
-Table 7.
+Table 9.
 Frequency of Asthma Exacerbations per Patient by Phase in Trials 1 and 2
 
 |  | Stable Steroid Phase (16 wks) |  |  |  |
@@ -58,7 +58,7 @@ Frequency of Asthma Exacerbations per Patient by Phase in Trials 1 and 2
 | p-Value | 0.004 |  | <0.001 |  |
 | Mean number exacerbations/patient | 0.2 | 0.4 | 0.2 | 0.3 |
 
-Table 8.
+Table 10.
 Asthma Symptoms and Pulmonary Function During Stable Steroid Phase of Trial 1
 
 | Endpoint | Mean Baseline | Median Change (Baseline to Wk 16) | Mean Baseline | Median Change (Baseline to Wk 16) |
@@ -82,10 +82,10 @@ Patients were stratified by use of ICS-only or ICS with concomitant use of oral 
 Patients received XOLAIR for 16 weeks with an unchanged corticosteroid dose unless an acute exacerbation necessitated an increase.
 Patients then entered an ICS reduction phase of 16 weeks during which ICS or oral steroid dose reduction was attempted in a step-wise manner.
 
-The number of exacerbations in patients treated with XOLAIR was similar to that in placebo-treated patients (Table 9).
+The number of exacerbations in patients treated with XOLAIR was similar to that in placebo-treated patients (Table 11).
 The absence of an observed treatment effect may be related to differences in the patient population compared with Asthma Trials 1 and 2, study sample size, or other factors.
 
-Table 9.
+Table 11.
 Percentage of Patients with Asthma Exacerbations by Subgroup and Phase in Trial 3
 
 |  | Stable Steroid Phase (16 wks) |  |  |  |
@@ -122,7 +122,86 @@ Trial 5 was a 28-week randomized, double blind, placebo-controlled study that pr
 A 16-week steroid treatment period was followed by a 12-week steroid dose reduction period.
 Patients treated with XOLAIR had fewer asthma exacerbations compared to placebo during both the 16-week fixed steroid treatment period (0.18 vs. 0.32; rate ratio: 0.58; 95% CI: 0.35, 0.96) and the 28-week treatment period (0.38 vs. 0.76; rate ratio: 0.50; 95% CI: 0.36, 0.71).
 
-## 14.2 Chronic Idiopathic Urticaria
+## 14.2 Nasal Polyps
+
+Adult Patients 18 Years of Age and Older
+
+The safety and efficacy of XOLAIR was evaluated in two, randomized, multicenter, double-blind, placebo-controlled clinical trials that enrolled patients with nasal polyps with inadequate response to nasal corticosteroids (Nasal Polyps Trial 1, n=138; Nasal Polyps Trial 2, n=127).
+Patients received XOLAIR or placebo SC every 2 or 4 weeks, with XOLAIR dosage and frequency according to Table 3, for 24 weeks followed by a 4-week follow-up period.
+All patients received background nasal mometasone therapy during both the treatment period and during a 5-week run-in period.
+Prior to randomization, patients were required to have evidence of bilateral polyps as determined by a nasal polyp score (NPS) ≥ 5 with NPS ≥ 2 in each nostril, despite use of nasal mometasone during the run-in period.
+NPS was measured via endoscopy and scored (range 0-4 per nostril: 0= no polyps; 1=small polyps in the middle meatus not reaching below the inferior border of the middle turbinate; 2=polyps reaching below the lower border of the middle turbinate; 3=large polyps reaching the lower border of the inferior turbinate or polyps medial to the middle turbinate; 4=large polyps causing complete obstruction of the inferior nasal cavity) for a total NPS (range 0-8).
+Patients were furthermore required to have a weekly average of nasal congestion score (NCS) > 1 prior to randomization, despite use of nasal mometasone.
+Nasal congestion was measured by a daily assessment on a 0 to 3 point severity scale (0=none, 1=mild, 2=moderate, 3=severe).
+Prior sino-nasal surgery or prior systemic corticosteroid usage were not required for inclusion in the trials and sinus CT scans were not performed to evaluate for sinus opacification.
+Demographics and baseline characteristics, including allergic comorbidities, are described in Table 12.
+
+Table 12.
+Demographics and Baseline Characteristics of Nasal Polyps Trials 1 and 2
+
+| Parameter | Nasal Polyps Trial 1 (n=138) | Nasal Polyps Trial 2 (n=127) |
+| --- | --- | --- |
+| Mean age (years) (SD) | 51 (13) | 50 (12) |
+| % Male | 64 | 65 |
+| Patients with systemic corticosteroid use in the previous year (%) | 19 | 26 |
+| Patients with prior surgery for nasal polyps (%) | 79 (57) | 79 (62) |
+| Mean bilateral endoscopic NPS (SD), range 0-8 | 6.2 (1.0) | 6.3 (0.9) |
+| Mean nasal congestion score (SD) range 0-3 | 2.4 (0.6) | 2.3 (0.7) |
+| Mean sense of smell score (SD) range 0-3 | 2.7 (0.7) | 2.7 (0.7) |
+| Mean post nasal drip score (SD) range 0-3 | 1.8 (0.9) | 1.7 (0.9) |
+| Mean runny nose score (SD) range 0-3 | 2.0 (0.8) | 1.9 (0.9) |
+| Mean blood eosinophils (cells/mcL) (SD) | 346 (284) | 335 (188) |
+| Mean total IgE IU/mL (SD) | 161 (140) | 190 (201) |
+| Asthma (%) | 54 | 61 |
+| Aspirin exacerbated respiratory disease (%) | 20 | 35 |
+| SD=standard deviation; NPS=nasal polyp score; IgE = Immunoglobulin E; IU=international units. For NPS, NCS, sense of smell, post nasal drip, and runny nose, higher scores indicate greater disease severity. |  |  |
+
+The co-primary endpoints in Trials 1 and 2 were NPS and average daily NCS at Week 24.
+In both trials, patients who received XOLAIR had a statistically significant greater improvement from baseline at Week 24 in NPS and weekly average NCS, than patients who received placebo.
+Results from Nasal Polyps Trials 1 and 2 are shown in Table 13.
+
+The greater improvements in NPS and NCS in the XOLAIR group compared to the placebo group were observed as early as the first assessment at Week 4 in both studies, as seen in Figure 1.
+
+Table 13.
+Change from Baseline at Week 24 in Nasal Polyp Score and 7-day Average of Daily Nasal Congestion Score in Nasal Polyps Trials 1 and 2
+
+|  | Placebo | XOLAIR | Placebo | XOLAIR |
+| --- | --- | --- | --- | --- |
+|  | Trial 1 |  | Trial 2 |  |
+| Number of patients | 65 | 72 | 65 | 62 |
+| Nasal Polyp Score |  |  |  |  |
+| Mean Baseline Score | 6.3 | 6.2 | 6.1 | 6.4 |
+| LS Mean Change From Baseline at Week 24 | 0.1 | -1.1 | -0.3 | -0.9 |
+| Difference in LS means vs. placebo | -1.1 |  | -0.6 |  |
+| 95% CI for difference | -1.6, -0.7 |  | -1.1, -0.1 |  |
+| p-value | <0.0001 |  | 0.0140 |  |
+| 7-day Average of Daily Nasal Congestion Score |  |  |  |  |
+| Mean Baseline Score | 2.5 | 2.4 | 2.3 | 2.3 |
+| LS Mean Change From Baseline at Week 24 | -0.4 | -0.9 | -0.2 | -0.7 |
+| Difference in LS means vs. placebo | -0.6 |  | -0.5 |  |
+| 95% CI for difference | -0.8, -0.3 |  | -0.8, -0.2 |  |
+| p-value | 0.0004 |  | 0.0017 |  |
+| LS=least-square. Change from baseline was analyzed using a mixed-effect model of repeated measures (MMRM) model with baseline score, baseline score/timepoint (week) interaction as covariates, and the following factors: geographic region, asthma/aspirin sensitivity comorbidity status, timepoint, treatment group, treatment/timepoint interaction. |  |  |  |  |
+
+The mean NPS and NCS at each study week by treatment group is shown in Figure 1.
+
+XOLAIR had statistically significant improvements on sense of smell score compared to placebo.
+Sense of smell was measured by a daily assessment on a 0 to 3 point severity scale (0=no symptoms, 1=mild symptoms, 2=moderate symptoms, 3=severe symptoms).
+The LS mean difference for change from baseline at Week 24 in sense of smell score in XOLAIR compared to placebo was -0.3 (95% CI: -0.6, -0.1) in Trial 1 and -0.5 (95% CI: -0.7, -0.2) in Trial 2.
+
+XOLAIR had statistically significant improvements on post-nasal drip compared to placebo.
+The LS mean difference for change from baseline at Week 24 in post-nasal drip score in XOLAIR compared to placebo was -0.6 (95% CI: -0.8, -0.3) in Trial 1 and -0.5 (95% CI: -0.8, -0.3) in Trial 2.
+
+XOLAIR had statistically significant improvements on runny nose compared to placebo.
+The LS mean difference for change from baseline at Week 24 in runny nose score in XOLAIR compared to placebo was -0.4 (95% CI: -0.7, -0.2) in Trial 1 and -0.6 (95% CI: -0.9, -0.4) in Trial 2.
+
+In a pre-specified pooled analysis of systemic corticosteroid use during the 24-week treatment period, there was no significant reduction in systemic corticosteroid use between the treatment arms.
+The proportion of patients taking systemic corticosteroid in XOLAIR was 2.3% compared to 6.2% in placebo.
+The odds-ratio of systemic corticosteroid use with XOLAIR compared to placebo was 0.4 (95% CI: 0.1, 1.5).
+
+There were no sino-nasal surgeries reported, in either placebo or XOLAIR arms, in either Trial.
+
+## 14.3 Chronic Idiopathic Urticaria
 
 Adult and Adolescent Patients 12 Years of Age and Older
 
@@ -138,10 +217,10 @@ The mean weekly itch severity scores at baseline were fairly balanced across tre
 The reported median durations of CIU at enrollment across treatment groups were between 2.5 and 3.9 years (with an overall subject-level range of 0.5 to 66.4 years).
 
 In both CIU Trials 1 and 2, patients who received XOLAIR 150 mg or 300 mg had greater decreases from baseline in weekly itch severity scores and weekly hive count scores than placebo at Week 12.
-Representative results from CIU Trial 1 are shown (Table 10); similar results were observed in CIU Trial 2.
+Representative results from CIU Trial 1 are shown (Table 14); similar results were observed in CIU Trial 2.
 The 75-mg dose did not demonstrate consistent evidence of efficacy and is not approved for use.
 
-Table 10.
+Table 14.
 Change from Baseline to Week 12 in Weekly Itch Severity Score and Weekly Hive Count Score in CIU Trial 1 Modified intent-to-treat (mITT) population: all patients who were randomized and received at least one dose of study medication.
 
 |  | XOLAIR 75mg | XOLAIR 150mg | XOLAIR 300mg | Placebo |
@@ -158,7 +237,7 @@ Change from Baseline to Week 12 in Weekly Itch Severity Score and Weekly Hive Co
 | Difference in LS means vs. placebo | −2.75 | −3.44 | −6.93 |  |
 | 95% CI for difference | −4.95, −0.54 | −5.57, −1.32 | −9.10, −4.76 | - |
 
-The mean weekly itch severity score at each study week by treatment groups is shown in Figure 1.
+The mean weekly itch severity score at each study week by treatment groups is shown in Figure 2.
 Representative results from CIU Trial 1 are shown; similar results were observed in CIU Trial 2.
 The appropriate duration of therapy for CIU with XOLAIR has not been determined.
 

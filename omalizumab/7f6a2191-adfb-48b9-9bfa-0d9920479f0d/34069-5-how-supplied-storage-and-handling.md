@@ -1,6 +1,6 @@
 # 16 HOW SUPPLIED/STORAGE AND HANDLING
 
-Prefilled Syringe
+Injection (Prefilled Syringe)
 
 XOLAIR (omalizumab) injection is a clear to slightly opalescent and colorless to pale brownish-yellow solution in a single-dose prefilled glass syringe with a 26 gauge staked needle, rigid needle cap, and needle shield.
 Each carton contains one prefilled syringe.
@@ -15,7 +15,7 @@ Protect from direct sunlight.
 Do not freeze.
 Do not use if the syringe has been frozen.
 
-Vial
+For Injection (Vial)
 
 XOLAIR is supplied as a lyophilized, white, sterile powder in a single-dose vial without preservatives.
 Each carton contains one 150 mg single-dose vial of XOLAIR® (omalizumab) for injection NDC 50242-040-62.

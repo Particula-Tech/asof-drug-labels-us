@@ -1,6 +1,6 @@
 # 6 ADVERSE REACTIONS
 
-Use of XOLAIR has been associated with:
+The following clinically significant adverse reactions are described elsewhere in the labeling:
 
 - Anaphylaxis [see Boxed Warning and Warnings and Precautions (5.1)]
 - Malignancies [see Warnings and Precautions (5.2)]
@@ -18,11 +18,11 @@ Patients received XOLAIR 150 mg to 375 mg every 2 or 4 weeks or, for patients as
 The adverse events most frequently resulting in clinical intervention (e.g., discontinuation of XOLAIR, or the need for concomitant medication to treat an adverse event) were injection site reaction (45%), viral infections (23%), upper respiratory tract infection (20%), sinusitis (16%), headache (15%), and pharyngitis (11%).
 These events were observed at similar rates in XOLAIR-treated patients and control patients.
 
-Table 5 shows adverse reactions from four placebo-controlled asthma trials that occurred ≥1% and more frequently in adult and adolescent patients 12 years of age and older receiving XOLAIR than in those receiving placebo.
+Table 6 shows adverse reactions from four placebo-controlled asthma trials that occurred ≥1% and more frequently in adult and adolescent patients 12 years of age and older receiving XOLAIR than in those receiving placebo.
 Adverse events were classified using preferred terms from the International Medical Nomenclature (IMN) dictionary.
 Injection site reactions were recorded separately from the reporting of other adverse events.
 
-Table 5.
+Table 6.
 Adverse Reactions ≥1% More Frequent in XOLAIR-Treated Adult or Adolescent Patients 12 years of Age and Older in Four Placebo-controlled Asthma Trials
 
 | Adverse reaction | XOLAIR n=738 | Placebo n=717 |
@@ -74,6 +74,29 @@ The most common adverse reactions occurring at ≥3% in the pediatric patients r
 The adverse events most frequently resulting in clinical intervention (e.g., discontinuation of XOLAIR, or the need for concomitant medication to treat an adverse event) were bronchitis (0.2%), headache (0.2%) and urticaria (0.2%).
 These events were observed at similar rates in XOLAIR-treated patients and control patients.
 
+Adverse Reactions from Clinical Studies in Adult Patients with Nasal Polyps
+
+The data described below reflect XOLAIR exposure for 135 patients ≥ 18 years of age, exposed for six months in two placebo-controlled studies.
+The mean age of patients receiving XOLAIR was 49.7 years; 64% were male, and 94% were Caucasian.
+Patients received XOLAIR or placebo SC every 2 or 4 weeks, with dosage and frequency according to Table 3.
+All patients received background nasal mometasone therapy throughout the study.
+Table 7 lists the adverse reactions occurring in ≥3% of XOLAIR-treated patients and more frequently than in patients treated with placebo in Nasal Polyps Trials 1 and 2; results were pooled.
+
+Table 7.
+Adverse Reactions Occurring in ≥3% of XOLAIR-Treated Patients and More Frequently than in Patients Treated with Placebo in Nasal Polyps Trials 1 and 2
+
+| Adverse reaction | XOLAIR n=135 | Placebo n=130 |
+| --- | --- | --- |
+| Gastrointestinal disorder |  |  |
+| Upper abdominal pain | 4 (3.0%) | 1 (0.8%) |
+| General disorders and administration site conditions |  |  |
+| Injection site reactionsInjection site reactions terms: 'injection site reaction', 'injection related reaction' and 'injection site pain'. All of the injection site reactions were mild to moderate severity and none resulted in study discontinuation | 7 (5.2%) | 2 (1.5%) |
+| Musculoskeletal system and connective tissue disorders |  |  |
+| Arthralgia | 4 (3.0%) | 2 (1.5%) |
+| Nervous system disorders |  |  |
+| Headache | 11 (8.1%) | 7 (5.4%) |
+| Dizziness | 4 (3.0%) | 1 (0.8%) |
+
 Adverse Reactions from Clinical Studies in Patients with Chronic Idiopathic Urticaria (CIU)
 
 The safety of XOLAIR for the treatment of CIU was assessed in three placebo-controlled, multiple-dose clinical trials of 12 weeks' (CIU Trial 2) and 24 weeks' duration (CIU Trials 1 and 3).
@@ -83,10 +106,10 @@ The data described below reflect XOLAIR exposure for 733 patients enrolled and r
 The mean age of patients receiving XOLAIR 300 mg was 43 years, 75% were women, and 89% were white.
 The demographic profiles for patients receiving XOLAIR 150 mg and 75 mg were similar.
 
-Table 6 shows adverse reactions that occurred in ≥2% of patients receiving XOLAIR (150 or 300 mg) and more frequently than those receiving placebo.
+Table 8 shows adverse reactions that occurred in ≥2% of patients receiving XOLAIR (150 or 300 mg) and more frequently than those receiving placebo.
 Adverse reactions are pooled from Trial 2 and the first 12 weeks of Trials 1 and 3.
 
-Table 6.
+Table 8.
 Adverse Reactions Occurring in ≥2% in XOLAIR-Treated Patients and More Frequently than in Patients Treated with Placebo (Day 1 to Week 12) in CIU Trials
 
 | 150mg (n=175) | 300mg (n=412) | Placebo (n=242) |  |
@@ -141,9 +164,9 @@ The detection of antibody formation is highly dependent on the sensitivity and s
 Additionally, the observed incidence of antibody (including neutralizing antibody) positivity in an assay may be influenced by several factors including assay methodology, sample handling, timing of sample collection, concomitant medications, and underlying disease.
 For these reasons, comparison of the incidence of antibodies to omalizumab in the studies described below with the incidence of antibodies in other studies or to other products may be misleading
 
-Antibodies to XOLAIR were detected in approximately 1/1723 (<0.1%) of patients treated with XOLAIR in the clinical studies evaluated for approval of asthma in patients 12 years of age and older.
+Antibodies to XOLAIR were detected in approximately 1/1723 (<0.1%) of patients treated with XOLAIR in the clinical studies evaluated for asthma in patients 12 years of age and older.
 In three pediatric studies, antibodies to XOLAIR were detected in one patient out of 581 patients 6 to <12 years of age treated with XOLAIR and evaluated for antibodies.
-There were no detectable antibodies in the patients treated in the phase 3 CIU clinical trials, but due to levels of XOLAIR at the time of anti-therapeutic antibody sampling and missing samples for some patients, antibodies to XOLAIR could only have been determined in 88% of the 733 patients treated in these clinical studies.
+There were no detectable antibodies in the patients treated in the CIU clinical trials, but due to levels of XOLAIR at the time of anti-therapeutic antibody sampling and missing samples for some patients, antibodies to XOLAIR could only have been determined in 88% of the 733 patients treated in these clinical studies.
 The data reflect the percentage of patients whose test results were considered positive for antibodies to XOLAIR in ELISA assays and are highly dependent on the sensitivity and specificity of the assays.
 
 ## 6.3 Postmarketing Experience

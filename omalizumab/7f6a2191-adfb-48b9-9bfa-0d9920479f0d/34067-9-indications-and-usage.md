@@ -11,10 +11,14 @@ Limitations of Use:
 - XOLAIR is not indicated for the relief of acute bronchospasm or status asthmaticus.
 - XOLAIR is not indicated for treatment of other allergic conditions.
 
-## 1.2 Chronic Idiopathic Urticaria (CIU)
+## 1.2 Nasal Polyps
+
+XOLAIR is indicated for add-on maintenance treatment of nasal polyps in adult patients 18 years of age and older with inadequate response to nasal corticosteroids.
+
+## 1.3 Chronic Idiopathic Urticaria (CIU)
 
 XOLAIR is indicated for the treatment of adults and adolescents 12 years of age and older with chronic idiopathic urticaria who remain symptomatic despite H1 antihistamine treatment.
 
-Limitation of Use:
+Limitations of Use:
 
 XOLAIR is not indicated for treatment of other forms of urticaria.
