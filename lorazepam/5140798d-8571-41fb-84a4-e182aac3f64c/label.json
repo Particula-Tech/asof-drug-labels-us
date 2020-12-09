@@ -1,0 +1,20 @@
+{
+  "application_numbers": [
+    "NDA018140"
+  ],
+  "inn": "lorazepam",
+  "labeler": "Civica, Inc.",
+  "package_ndcs": [
+    "72572-380-01",
+    "72572-380-25"
+  ],
+  "products": [
+    {
+      "form": "INJECTION",
+      "generic": "lorazepam",
+      "name": "Lorazepam"
+    }
+  ],
+  "setid": "5140798d-8571-41fb-84a4-e182aac3f64c",
+  "source": "dailymed"
+}
