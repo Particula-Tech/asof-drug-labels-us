@@ -80,8 +80,8 @@ Table 9: Arithmetic Mean (CV%) of the Systemic Exposures (Cmax, AUC) and Tmax of
 | Tmax (hr)[min – max] | 0.61 [0.25-1.5] | 0.82 [0.25-1.5] | n.a. | 0.56 [0.25-1.5] | 0.97 [0.25-3.5] | n.a. |
 | AUC0-inf* (ng•hr/mL) | 509.7 (60.5) | 1029 (67.9) | 102 | 1882 (120) | 3866 (83.3) | 105 |
 
-- n.a.: not applicable
-- * AUC0-24h was used on Day 7
+1. n.a.: not applicable
+2. * AUC0-24h was used on Day 7
 
 Table 10: Arithmetic Mean (CV%) of the Systemic Exposures (Cmax, AUC) and Tmax of Omeprazole after a Single Oral Dose and Multiple Once-Daily Doses of ZEGERID Oral Suspension
 
@@ -92,8 +92,8 @@ Table 10: Arithmetic Mean (CV%) of the Systemic Exposures (Cmax, AUC) and Tmax o
 | Tmax (hr)[min – max] | 0.50[0.17-1.5] | 0.47[0.17-1.0] | n.a. | 0.44[0.17-1.0] | 0.58[0.25-1.0] | n.a. |
 | AUC0-inf* (ng•hr/mL) | 825.4 (71.9) | 1449 (61.7) | 76 | 2228 (107) | 4692 (60.5) | 111 |
 
-- n.a.: not applicable
-- * AUC0-24h was used on Day 7
+1. n.a.: not applicable
+2. * AUC0-24h was used on Day 7
 
 Following single or repeated once-daily dosing, peak plasma concentrations (Cmax) of omeprazole from ZEGERID were approximately proportional from 20 to 40 mg doses.
 A greater than dose proportional increase in mean steady-state AUC (more than three-fold increase on Day 7) was observed when doubling the dose to 40 mg.

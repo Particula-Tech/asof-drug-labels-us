@@ -2,7 +2,7 @@
 
 The following serious adverse reactions are described below and elsewhere in labeling:
 
-- •Acute Interstitial Nephritis [see Warnings and Precautions (5.2)]
+- •Acute Tubulointerstitial Nephritis [see Warnings and Precautions (5.2)]
 - •Clostridium difficile-Associated Diarrhea [see Warnings and Precautions (5.4)]
 - •Bone Fracture [see Warnings and Precautions (5.5)]
 - •Cutaneous and Systemic Lupus Erythematosus [see Warnings and Precautions (5.6)]
@@ -113,7 +113,7 @@ Table 5: Common Adverse Reactions1 by Body System and Preferred Term in a Random
 
 NOS = not otherwise specified
 
-1 reported in at least 3% of patients in either treatment group.
+1reported in at least 3% of patients in either treatment group.
 
 2 In this trial, clinically significant upper gastrointestinal bleeding was considered a serious adverse reaction, but it is not included in this table.
 
@@ -124,7 +124,7 @@ Because these reactions are reported voluntarily from a population of uncertain 
 
 Omeprazole
 
-Body as a Whole: Hypersensitivity reactions, including anaphylaxis, anaphylactic shock, angioedema, bronchospasm, interstitial nephritis, urticaria (see also Skin below), fever, pain, fatigue, malaise, and systemic lupus erythematosus.
+Body as a Whole: Hypersensitivity reactions, including anaphylaxis, anaphylactic shock, angioedema, bronchospasm, urticaria (see also Skin below), fever, pain, fatigue, malaise, and systemic lupus erythematosus.
 
 Cardiovascular: Chest pain or angina, tachycardia, bradycardia, palpitation, elevated blood pressure, and peripheral edema.
 
@@ -151,10 +151,10 @@ Special Senses: Tinnitus, taste perversion.
 
 Ocular: Blurred vision, ocular irritation, dry eye syndrome, optic atrophy, anterior ischemic optic neuropathy, optic neuritis, and double vision.
 
-Urogenital: Interstitial nephritis (some with positive rechallenge), urinary tract infection, microscopic pyuria, urinary frequency, elevated serum creatinine, proteinuria, hematuria, glycosuria, testicular pain, and gynecomastia.
+Urogenital: Tubulointerstitial nephritis, urinary tract infection, microscopic pyuria, urinary frequency, elevated serum creatinine, proteinuria, hematuria, glycosuria, testicular pain, and gynecomastia.
 
 Hematologic: Rare instances of pancytopenia, agranulocytosis (some fatal), thrombocytopenia, neutropenia, leukopenia, anemia, leukocytosis, and hemolytic anemia have been reported.
 
 Sodium Bicarbonate
 
-metabolic alkalosis, seizures, and tetany.
+Metabolic alkalosis, seizures, and tetany.

@@ -1,4 +1,4 @@
-# PACKAGE/LABEL PRINCIPAL DISPLAY PANEL – 20mg sachet
+# PACKAGE/LABEL PRINCIPAL DISPLAY PANEL– 20mg sachet
 
 NDC 68012-052-30
 
@@ -24,7 +24,7 @@ For more information, call 1-800-321-4576.
 
 Salix PHARMACEUTICALS
 
-# Package/Label Display Panel- 40 mg sachet
+# PACKAGE/LABEL PRINCIPAL DISPLAY PANEL- 40 mg sachet
 
 NDC 68012-054-30
 
@@ -50,7 +50,7 @@ For more information, call 1-800-321-4576.
 
 Salix PHARMACEUTICALS
 
-# Package/Label Display Panel – 20 mg capsules
+# Package/Label Display Panel - 20 mg capsules
 
 Rx only
 

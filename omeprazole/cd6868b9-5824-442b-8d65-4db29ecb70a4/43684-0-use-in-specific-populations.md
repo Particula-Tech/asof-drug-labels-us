@@ -41,7 +41,7 @@ A population-based retrospective cohort study covering all live births in Denmar
 The overall rate of birth defects in infants born to mothers with first trimester exposure to omeprazole was 2.9% and 2.6% in infants born to mothers not exposed to any PPI during the first trimester.
 
 A retrospective cohort study reported on 689 pregnant women exposed to either H2-blockers or omeprazole in the first trimester (134 exposed to omeprazole) and 1,572 pregnant women unexposed to either during the first trimester.
-The overall malformation rate in offspring born to mothers with first trimester exposure to omeprazole, an H2-blocker, or were unexposed was 3.6%, 5.5%, and 4.1% respectively.
+The overall malformation rate in offspring born to mothers with first trimester exposure to omeprazole, an H2-blocker, or were unexposed was 3.6%, 5.5%, and 4.1%, respectively.
 
 A small prospective observational cohort study followed 113 women exposed to omeprazole during pregnancy (89% first trimester exposures).
 The reported rate of major congenital malformations was 4% in the omeprazole group, 2% in controls exposed to non-teratogens, and 2.8% in disease-paired controls.
@@ -75,7 +75,7 @@ When rats were dosed from gestational Day 7 through weaning on postnatal Day 21,
 
 A pre- and postnatal development study in rats with esomeprazole strontium (using equimolar doses compared to esomeprazole magnesium study) produced similar results in dams and pups as described above.
 
-A follow-up developmental toxicity study in rats with further time points to evaluate pup bone development from postnatal day 2 to adulthood was performed with esomeprazole magnesium at oral doses of 280 mg/kg/day (about 68 times an oral human dose of 40 mg on a body surface area basis) where esomeprazole administration was from either gestational day 7 or gestational day 16 until parturition.
+A follow-up developmental toxicity study in rats with further time points to evaluate pup bone development from postnatal day 2 to adulthood was performed with esomeprazole magnesium at oral doses of 280 mg/kg/day (about 68 times an oral human dose of 40 mg on a body surface area basis) where esomeprazole administration was from either gestational Day 7 or gestational Day 16 until parturition.
 When maternal administration was confined to gestation only, there were no effects on bone physeal morphology in the offspring at any age.
 
 ## 8.2 Lactation

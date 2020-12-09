@@ -2,9 +2,9 @@
 
 Advise the patient to read the FDA-approved patient labeling (Medication Guide).
 
-Acute Interstitial Nephritis
+Acute Tubulointerstitial Nephritis
 
-Advise the patient to call their healthcare provider immediately if they experience signs and/or symptoms associated with acute interstitial nephritis [see Warnings and Precautions (5.2)].
+Advise the patient to call their healthcare provider immediately if they experience signs and/or symptoms associated with acute tubulointerstitial nephritis [see Warnings and Precautions (5.2)].
 
 Sodium Bicarbonate Buffer Content
 
@@ -44,10 +44,9 @@ Advise patients to report to their healthcare provider if they start treatment w
 
 Administration
 
-- Instruct patients that:
-
-1. 1.Two packets of 20 mg ZEGERID for oral suspension are not interchangeable with one packet of 40 mg ZEGERID for oral suspension.
-2. 2.Two 20 mg ZEGERID capsules are not interchangeable with one 40 mg ZEGERID capsule.
+1. Instruct patients that:
+2. •Two packets of 20 mg ZEGERID for oral suspension are not interchangeable with one packet of 40 mg ZEGERID for oral suspension.
+3. •Two 20 mg ZEGERID capsules are not interchangeable with one 40 mg ZEGERID capsule.
 
 Administration of ZEGERID Capsules
 
@@ -60,18 +59,5 @@ Administration of ZEGERID for Oral Suspension
 - •Advise patients that ZEGERID for oral suspension is intended to be mixed with water and administered orally or via a nasogastric (NG)/orogastric (OG) tube, as described in the Medication Guide.
 - •Instruct patients to suspend enteral feeding approximately 3 hours before and 1 hour after administration of ZEGERID for oral suspension [see Dosage and Administration (2.3)].
 
-Distributed by:
-
-Salix Pharmaceuticals, a division of
-
-Bausch Health US, LLC
-
-Bridgewater, NJ 08807 USA
-
-ZEGERID is a trademark of Salix Pharmaceuticals, Inc. or its affiliates.
-
-Any other product/brand names are trademarks of the respective owners.
-
-© 2020 Salix Pharmaceuticals, Inc. or its affiliates
-
-9673201
+Distributed by: Salix Pharmaceuticals, a division of Bausch Health US, LLC Bridgewater, NJ 08807 USA ZEGERID is a trademark of Salix Pharmaceuticals, Inc. or its affiliates.
+Any other product/brand names are trademarks of the respective owners. © 2020 Salix Pharmaceuticals, Inc. or its affiliates 9658602

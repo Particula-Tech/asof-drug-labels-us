@@ -6,11 +6,13 @@ In adults, symptomatic response to therapy with ZEGERID does not preclude the pr
 Consider additional follow-up and diagnostic testing in adult patients who have a suboptimal response or an early symptomatic relapse after completing treatment with a proton pump inhibitor (PPI).
 In older patients, also consider an endoscopy.
 
-## 5.2 Acute Interstitial Nephritis
+## 5.2 Acute Tubulointerstitial Nephritis
 
-Acute interstitial nephritis has been observed in patients taking PPIs including ZEGERID.
-Acute interstitial nephritis may occur at any point during PPI therapy and is generally attributed to an idiopathic hypersensitivity reaction.
-Discontinue ZEGERID if acute interstitial nephritis develops [see Contraindications (4)].
+Acute tubulointerstitial nephritis (TIN) has been observed in patients taking PPIs and may occur at any point during PPI therapy.
+Patients may present with varying signs and symptoms from symptomatic hypersensitivity reactions to non-specific symptoms of decreased renal function (e.g., malaise, nausea and anorexia).
+In reported case series, some patients were diagnosed on biopsy and in the absence of extra-renal manifestations (e.g., fever, rash or arthralgia).
+
+Discontinue ZEGERID and evaluate patients with suspected acute TIN [see Contraindications (4)].
 
 ## 5.3 Sodium Bicarbonate Buffer Content
 
@@ -83,7 +85,7 @@ In most patients, treatment of hypomagnesemia required magnesium replacement and
 
 For patients expected to be on prolonged treatment or who take PPIs with medications such as digoxin or drugs that may cause hypomagnesemia (e.g., diuretics), healthcare professionals may consider monitoring magnesium levels prior to initiation of PPI treatment and periodically [see Adverse Reactions (6.2)].
 
-## 5.10 Interaction with St. John’s Wort or Rifampin
+## 5.10 Interaction with St. John’s wort or Rifampin
 
 Drugs which induce CYP2C19 or CYP3A4 (such as St. John’s wort or rifampin) can substantially decrease omeprazole concentrations [see Drug Interactions (7)].
 Avoid concomitant use of ZEGERID with St. John’s wort or rifampin.

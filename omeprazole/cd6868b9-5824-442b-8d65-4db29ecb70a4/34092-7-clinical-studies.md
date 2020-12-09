@@ -80,6 +80,8 @@ Table 16: % Successful Symptomatic OutcomeDefined as complete resolution of hear
 | All Patients | 46(p < 0.005) versus 10 mg(p < 0.005) versus placebo (n = 205) | 31 (n = 199) | 13 (n = 105) |
 | Patients with Confirmed GERD | 56 (n = 115) | 36 (n = 109) | 14 (n = 59) |
 
+14.4 EE Due to Acid-Mediated GERD
+
 In a U.S. multicenter, double-blind, placebo-controlled study of 40 mg or 20 mg of omeprazole delayed-release capsules in patients with symptoms of GERD and endoscopically diagnosed erosive esophagitis of grade 2 or above, the percentage healing rates (per protocol) were as shown in Table 17.
 
 Table 17: % Patients Healed

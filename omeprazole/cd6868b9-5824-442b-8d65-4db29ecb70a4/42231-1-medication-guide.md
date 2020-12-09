@@ -13,14 +13,13 @@ Talk with your doctor.
 
 ZEGERID can cause serious side effects, including:
 
-- •A type of kidney problem (acute interstitial nephritis).
-  Some people who take proton pump inhibitor (PPI) medicines, including ZEGERID, may develop a kidney problem called acute interstitial nephritis that can happen at any time during treatment with ZEGERID.
+- •A type of kidney problem (acute tubulointerstitial nephritis).
+  Some people who take proton pump inhibitor (PPI) medicines, including ZEGERID, may develop a kidney problem called acute tubulointerstitial nephritis that can happen at any time during treatment with ZEGERID.
   Call your doctor right away if you have a decrease in the amount that you urinate or if you have blood in your urine.
 - •ZEGERID contains sodium bicarbonate.
   Long-term use of bicarbonate with calcium or milk can cause a condition called “milk-alkali syndrome”.
   Long-term use of sodium bicarbonate can cause a condition called “systemic alkalosis”.
-  Talk to your doctor about any questions you may have.
-  Too much sodium can cause swelling and weight gain.
+  Talk to your doctor about any questions you may have.Too much sodium can cause swelling and weight gain.
   Tell your doctor if you are on a low-sodium diet or if you have Bartter’s Syndrome (a rare kidney disorder).
   Tell your doctor right away if you have confusion, shaking hands, dizziness, muscle twitching, nausea, vomiting, and numbness or tingling in the face, arms, or legs.
 - •Diarrhea caused by an infection (Clostridium difficile) in your intestines.
@@ -127,12 +126,12 @@ ZEGERID can cause serious side effects, including:
 - •Stomach growths (fundic gland polyps).
   People who take PPI medicines for a long time have an increased risk of developing a certain type of stomach growths called fundic gland polyps, especially after taking PPI medicines for more than 1 year.
   The most common side effects of ZEGERID include:
-- •headache
-- •abdominal pain
-- •nausea
-- •diarrhea
-- •vomiting
-- •gas
+- oheadache
+- oabdominal pain
+- onausea
+- odiarrhea
+- ovomiting
+- ogas
 
 These are not all the possible side effects of ZEGERID.
 
@@ -164,79 +163,7 @@ Inactive ingredients in ZEGERID for oral suspension: xylitol, sucrose, sucralose
 
 Inactive ingredients in ZEGERID capsules, for oral use: croscarmellose sodium and sodium stearyl fumarate.
 
-Distributed by:
-
-Salix Pharmaceuticals, a division of
-
-Bausch Health US, LLC
-
-Bridgewater, NJ 08807 USA
-
-ZEGERID is a trademark of Salix Pharmaceuticals, Inc. or its affiliates.
-
-Any other product/brand names are trademarks of the respective owners.
-
-© 2020 Salix Pharmaceuticals, Inc. or its affiliates
-
-For more information, go to www.Salix.com or 1-800-321-4576.
-
+Distributed by: Salix Pharmaceuticals, a division of Bausch Health US, LLC Bridgewater, NJ 08807 USA ZEGERID is a trademark of Salix Pharmaceuticals, Inc. or its affiliates.
+Any other product/brand names are trademarks of the respective owners. © 2020 Salix Pharmaceuticals, Inc. or its affiliates For more information, go to www.Salix.com or 1-800-321-4576.
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
-
-- 9673201
-- Revised: September 2019
-
-INSTRUCTIONS FOR USE
-
-ZEGERID® (ze-ger-id)
-
-(omeprazole and sodium bicarbonate)
-
-for oral suspension
-
-Taking ZEGERID for oral suspension:
-
-Important: ZEGERID should be taken on an empty stomach at least 1 hour before a meal.
-
-1. 1.ZEGERID comes in packets containing 20 mg or 40 mg of ZEGERID.
-2. 2.Use an oral syringe to draw up the amount of water needed to mix your dose.
-   Ask your pharmacist for an oral syringe.
-3. 3.Using the oral syringe, draw up 5 mL to 10 mL of water and add the water to a small cup.
-   Do not mix ZEGERID with foods or liquids other than water.
-4. 4.Empty the contents of the packet into the small cup.
-5. 5.Stir well to dissolve the powder and drink the mixture right away.
-6. 6.If any medicine remains after drinking, add more water, stir, and drink right away.
-
-Giving ZEGERID for oral suspension with water through a nasogastric (NG) tube or orogastric (OG) tube:
-
-Important: For patients receiving ZEGERID through a NG tube or OG tube, enteral feeding should be stopped approximately 3 hours before giving ZEGERID.
-You should wait at least 1 hour after giving ZEGERID before you start enteral feeding again.
-
-1. 1.ZEGERID comes in packets containing 20 mg or 40 mg of ZEGERID.
-2. 2.You will mix ZEGERID with 20 mL of water in a catheter tipped syringe.
-3. 3.Use only a catheter tipped syringe to give ZEGERID through the NG or OG tube.
-   Talk to your doctor about the size catheter tipped syringe you should use.
-4. 4.Add 20 mL of water to the catheter tipped syringe.
-   Do not use any food or liquids other than water to mix ZEGERID.
-5. 5.Add the contents of 1 packet of ZEGERID to the syringe.
-6. 6.Shake the syringe well to dissolve the powder.
-7. 7.Inject the medicine through the NG or OG tube into the stomach right away.
-8. 8.Refill the syringe with the same amount of water (20 mL) you used to prepare your dose of ZEGERID.
-9. 9.Shake the syringe and flush any remaining medicine from the NG tube or OG tube into the stomach.
-
-Distributed by:
-
-Salix Pharmaceuticals, a division of
-
-Bausch Health US, LLC
-
-Bridgewater, NJ 08807 USA
-
-ZEGERID is a trademark of Salix Pharmaceuticals, Inc. or its affiliates.
-
-Any other product/brand names are trademarks of the respective owners.
-
-© 2020 Salix Pharmaceuticals, Inc. or its affiliates
-
-9673201
-
-Revised: 09/2019
+9658602 Revised: 11/2020
