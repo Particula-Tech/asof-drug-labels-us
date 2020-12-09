@@ -16,8 +16,7 @@ The kit does not contain any bacteriostatic agent.
 
 ## 11.1Physical Characteristics
 
-Technetium Tc 99m decays by isomeric transition with a physical half-life of 6.02 hours.
-The principal photon that is useful for detection and imaging is listed in Table 5.
+Technetium Tc 99m decays by isomeric transition with a physical half-life of 6.02 hours.The principal photon that is useful for detection and imaging is listed in Table 5.
 
 Table 5 – Principal Radiation Emission Data
 

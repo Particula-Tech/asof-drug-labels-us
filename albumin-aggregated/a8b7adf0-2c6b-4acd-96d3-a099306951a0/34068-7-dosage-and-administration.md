@@ -69,7 +69,7 @@ Due to high kidney uptake, imaging later than one-half hour after administration
 
 Adult Patients
 
-The estimated absorbed radiation doses3 to an average adult patient (70 kg) from an intravenous administration of 148 MBq (4 mCi) of Technetium Tc 99m Albumin Aggregated Injection are shown in Table 2.
+The estimated absorbed radiation doses3to an average adult patient (70 kg) from an intravenous administration of 148 MBq (4 mCi) of Technetium Tc 99m Albumin Aggregated Injection are shown in Table 2.
 
 Table 2 – Adults: Radiation Absorbed Doses for Lung Scintigraphy
 
