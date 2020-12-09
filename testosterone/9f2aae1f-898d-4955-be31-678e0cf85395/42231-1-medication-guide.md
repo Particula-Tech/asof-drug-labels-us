@@ -1,4 +1,4 @@
-Medication Guide
+MEDICATION GUIDE
 
 Testim® (TĔS tim)
 
@@ -65,9 +65,9 @@ Do not use Testim if you:
 
 - have breast cancer.
 - have or might have prostate cancer.
-- are pregnant or may become pregnant or are breastfeeding.
-  Testim may harm your unborn or breastfeeding baby.
-- Women who are pregnant or who may become pregnant should avoid contact with the area of skin where Testim has been applied.
+- are pregnant.
+  Testim may harm your unborn baby.
+- Women who are pregnant should avoid contact with the area of skin where Testim has been applied.
 
 Before using Testim, tell your healthcare provider about all of your medical conditions including if you:
 
@@ -141,7 +141,7 @@ You may report side effects to FDA at 1-800-FDA-1088.
 
 How should I store Testim?
 
-- Store Testim between 59ºF to 86ºF (15ºC to 30ºC).
+- Store Testim at room temperature between 68ºF and 77ºF (20ºC to 25ºC).
 - Safely throw away used Testim in household trash.
   Be careful to prevent accidental exposure of children or pets.
 - Keep Testim away from fire.
@@ -167,8 +167,10 @@ Distributed by: Endo Pharmaceuticals Inc. Malvern, PA 19355
 
 Manufactured by: DPT Laboratories, Ltd. San Antonio, TX 78215 or Contract Pharmaceuticals Limited Mississauga, ON, Canada L5N 6R8
 
+© 2020 Endo Pharmaceuticals Inc. All rights reserved.
+
 For more information, go to www.TESTIM.com or call 1-800-462-3636.
 
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
 
-Revised: 05/2019
+Revised: 11/2020

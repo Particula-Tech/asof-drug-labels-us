@@ -2,7 +2,7 @@
 
 ## 13.1 Carcinogenesis, Mutagenesis, Impairment of Fertility
 
-Carcinogenicity
+Carcinogenesis
 
 Testosterone has been tested by subcutaneous injection and implantation in mice and rats.
 In mice, the implant induced cervical-uterine tumors, which metastasized in some cases.
@@ -15,4 +15,4 @@ Testosterone was negative in the in vitro Ames and in the in vivo mouse micronuc
 
 Impairment of Fertility
 
-The administration of exogenous testosterone has been reported to suppress spermatogenesis in the rat, dog and non-human primates, which was reversible on cessation of the treatment.
+The administration of exogenous testosterone has been reported to suppress spermatogenesis in the rat, dog, and non-human primates, which was reversible on cessation of the treatment.

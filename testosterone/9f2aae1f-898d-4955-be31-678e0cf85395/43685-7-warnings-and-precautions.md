@@ -14,7 +14,7 @@ Signs and symptoms have included enlargement of the penis or clitoris, developme
 In most cases, these signs and symptoms regressed with removal of the exposure to testosterone gel.
 In a few cases, however, enlarged genitalia did not fully return to age-appropriate normal size, and bone age remained modestly greater than chronological age.
 The risk of transfer was increased in some of these cases by not adhering to precautions for the appropriate use of the topical testosterone product.
-Children and women should avoid contact with unwashed or unclothed application sites in men using Testim [see Dosage and Administration (2.2), Use in Specific Populations (8.1) and Clinical Pharmacology (12.3)].
+Children and women should avoid contact with unwashed or unclothed application sites in men using TESTIM [see Dosage and Administration (2.2), Use in Specific Populations (8.1), and Clinical Pharmacology (12.3)].
 
 Inappropriate changes in genital size or development of pubic hair or libido in children, or changes in body hair distribution, significant increase in acne, or other signs of virilization in adult women should be brought to the attention of a physician and the possibility of secondary exposure to testosterone gel should also be brought to the attention of a physician.
 Testosterone gel should be promptly discontinued until the cause of virilization has been identified.
@@ -27,18 +27,18 @@ It would also be appropriate to re-evaluate the hematocrit 3 to 6 months after s
 If hematocrit becomes elevated, stop therapy until hematocrit decreases to an acceptable concentration.
 An increase in red blood cell mass may increase the risk of thromboembolic events.
 
-## 5.4 Venous Thromboembolism
+## 5.4 Venous Thromboembolism (VTE)
 
-There have been postmarketing reports of venous thromboembolic events, including deep vein thrombosis (DVT) and pulmonary embolism (PE), in patients using testosterone products, such as Testim.
+There have been postmarketing reports of venous thromboembolic events, including deep vein thrombosis (DVT) and pulmonary embolism (PE), in patients using testosterone products, such as TESTIM.
 Evaluate patients who report symptoms of pain, edema, warmth and erythema in the lower extremity for DVT and those who present with acute shortness of breath for PE.
-If a venous thromboembolic event is suspected, discontinue treatment with Testim and initiate appropriate workup and management [see Adverse Reactions (6.2)].
+If a venous thromboembolic event is suspected, discontinue treatment with TESTIM and initiate appropriate workup and management [see Adverse Reactions (6.2)].
 
 ## 5.5 Cardiovascular Risk
 
 Long term clinical safety trials have not been conducted to assess the cardiovascular outcomes of testosterone replacement therapy in men.
 To date, epidemiologic studies and randomized controlled trials have been inconclusive for determining the risk of major adverse cardiovascular events (MACE), such as non-fatal myocardial infarction, non-fatal stroke, and cardiovascular death, with the use of testosterone compared to non-use.
 Some studies, but not all, have reported an increased risk of MACE in association with use of testosterone replacement therapy in men.
-Patients should be informed of this possible risk when deciding whether to use or to continue to use Testim.
+Patients should be informed of this possible risk when deciding whether to use or to continue to use TESTIM.
 
 ## 5.6 Abuse of Testosterone and Monitoring of Serum Testosterone Concentrations
 
@@ -52,24 +52,24 @@ Conversely, consider the possibility of testosterone and anabolic androgenic ste
 
 ## 5.7 Use in Women
 
-Due to lack of controlled evaluations in women and potential virilizing effects, Testim is not indicated for use in women [see Contraindications (4) and Use in Specific Populations (8.1, 8.3)].
+Due to lack of controlled evaluations in women and potential virilizing effects, TESTIM is not indicated for use in women [see Contraindications (4) and Use in Specific Populations (8.1, 8.2)].
 
 ## 5.8 Potential for Adverse Effects on Spermatogenesis
 
-With large doses of exogenous androgens, including Testim, spermatogenesis may be suppressed through feedback inhibition of pituitary follicle-stimulating hormone (FSH) which could possibly lead to adverse effects on semen parameters including sperm count.
+With large doses of exogenous androgens, including TESTIM, spermatogenesis may be suppressed through feedback inhibition of pituitary follicle-stimulating hormone (FSH) which could possibly lead to adverse effects on semen parameters including sperm count.
 
 ## 5.9 Hepatic Adverse Effects
 
 Prolonged use of high doses of orally active 17-alpha-alkyl androgens (e.g., methyltestosterone) has been associated with serious hepatic adverse effects (peliosis hepatis, hepatic neoplasms, cholestatic hepatitis, and jaundice).
 Peliosis hepatis can be a life-threatening or fatal complication.
 Long-term therapy with intramuscular testosterone enanthate, which elevates blood levels for prolonged periods, has produced multiple hepatic adenomas.
-Testim is not known to cause these adverse effects.
+TESTIM is not known to cause these adverse effects.
 Nonetheless, patients should be instructed to report any signs or symptoms of hepatic dysfunction (e.g., jaundice).
-If these occur, promptly discontinue Testim while the cause is evaluated.
+If these occur, promptly discontinue TESTIM while the cause is evaluated.
 
 ## 5.10 Edema
 
-Androgens, including Testim, may promote retention of sodium and water.
+Androgens, including TESTIM, may promote retention of sodium and water.
 Edema, with or without congestive heart failure, may be a serious complication in patients with preexisting cardiac, renal, or hepatic disease.
 In addition to discontinuation of the drug, diuretic therapy may be required.
 
@@ -88,14 +88,14 @@ Monitor the lipid profile periodically, particularly after starting testosterone
 
 ## 5.14 Hypercalcemia
 
-Androgens, including Testim, should be used with caution in cancer patients at risk of hypercalcemia (and associated hypercalciuria).
+Androgens, including TESTIM, should be used with caution in cancer patients at risk of hypercalcemia (and associated hypercalciuria).
 Regular monitoring of serum calcium concentrations is recommended in these patients.
 
 ## 5.15 Decreased Thyroxine-binding Globulin
 
-Androgens, including Testim, may decrease concentrations of thyroxine-binding globulins, resulting in decreased total T4 serum concentrations and increased resin uptake of T3 and T4.
+Androgens, including TESTIM, may decrease concentrations of thyroxine-binding globulins, resulting in decreased total T4 serum concentrations and increased resin uptake of T3 and T4.
 Free thyroid hormone concentrations remain unchanged, however, and there is no clinical evidence of thyroid dysfunction.
 
 ## 5.16 Flammability
 
-Alcohol-based products, including Testim, are flammable; therefore, patients should be advised to avoid fire, flame or smoking until the Testim has dried.
+Alcohol-based products, including TESTIM, are flammable; therefore, patients should be advised to avoid fire, flame or smoking until the TESTIM has dried.
