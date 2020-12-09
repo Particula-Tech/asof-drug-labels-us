@@ -1,21 +1,13 @@
 # 16 HOW SUPPLIED/STORAGE AND HANDLING
 
-## 16.1 Safe Handling and Disposal
+TEMODAR is a cytotoxic drug.
+Follow applicable special handling and disposal procedures.1
 
-Care should be exercised in the handling and preparation of TEMODAR.
-Vials and capsules should not be opened.
-If vials or capsules are accidentally opened or damaged, rigorous precautions should be taken with the contents to avoid inhalation or contact with the skin or mucous membranes.
-The use of gloves and safety glasses is recommended to avoid exposure in case of breakage of the vial or capsules.
-Procedures for proper handling and disposal of anticancer drugs should be considered {1–4}.
-Several guidelines on this subject have been published.
+TEMODAR capsules
 
-## 16.2 How Supplied
+TEMODAR capsules are supplied in child-resistant sachets containing the following capsule strengths:
 
-TEMODAR Capsules:
-
-TEMODAR (temozolomide) Capsules are supplied in child-resistant sachets containing the following capsule strengths:
-
-TEMODAR Capsules 5 mg: have opaque white bodies with green caps.
+5 mg: opaque white bodies with green caps.
 The capsule body is imprinted with two stripes, the dosage strength, and the Schering-Plough logo.
 The cap is imprinted with "TEMODAR".
 They are supplied as follows:
@@ -23,7 +15,7 @@ They are supplied as follows:
 - 5-count – NDC 0085-3004-03
 - 14-count – NDC 0085-3004-04
 
-TEMODAR Capsules 20 mg: have opaque white bodies with yellow caps.
+20 mg: opaque white bodies with yellow caps.
 The capsule body is imprinted with two stripes, the dosage strength, and the Schering-Plough logo.
 The cap is imprinted with "TEMODAR".
 They are supplied as follows:
@@ -31,7 +23,7 @@ They are supplied as follows:
 - 5-count – NDC 0085-1519-03
 - 14-count – NDC 0085-1519-04
 
-TEMODAR Capsules 100 mg: have opaque white bodies with pink caps.
+100 mg: opaque white bodies with pink caps.
 The capsule body is imprinted with two stripes, the dosage strength, and the Schering-Plough logo.
 The cap is imprinted with "TEMODAR".
 They are supplied as follows:
@@ -39,7 +31,7 @@ They are supplied as follows:
 - 5-count – NDC 0085-1366-03
 - 14-count – NDC 0085-1366-04
 
-TEMODAR Capsules 140 mg: have opaque white bodies with blue caps.
+140 mg: opaque white bodies with blue caps.
 The capsule body is imprinted with two stripes, the dosage strength, and the Schering-Plough logo.
 The cap is imprinted with "TEMODAR".
 They are supplied as follows:
@@ -47,7 +39,7 @@ They are supplied as follows:
 - 5-count – NDC 0085-1425-03
 - 14-count – NDC 0085-1425-04
 
-TEMODAR Capsules 180 mg: have opaque white bodies with orange caps.
+180 mg: opaque white bodies with orange caps.
 The capsule body is imprinted with two stripes, the dosage strength, and the Schering-Plough logo.
 The cap is imprinted with "TEMODAR".
 They are supplied as follows:
@@ -55,24 +47,20 @@ They are supplied as follows:
 - 5-count – NDC 0085-1430-03
 - 14-count – NDC 0085-1430-04
 
-TEMODAR Capsules 250 mg: have opaque white bodies with white caps.
+250 mg: opaque white bodies with white caps.
 The capsule body is imprinted with two stripes, the dosage strength, and the Schering-Plough logo.
 The cap is imprinted with "TEMODAR".
 They are supplied as follows:
 
 - 5-count – NDC 0085-1417-02
 
-TEMODAR for Injection:
+Store TEMODAR Capsules at 25°C (77°F); excursions permitted to 15°C to 30°C (59°F to 86°F) [see USP Controlled Room Temperature].
 
-TEMODAR (temozolomide) for Injection is supplied in single-use glass vials containing 100 mg temozolomide.
+TEMODAR for injection
+
+TEMODAR for injection is supplied in single-dose glass vials containing 100 mg temozolomide.
 The lyophilized powder is white to light tan/light pink.
 
-TEMODAR for Injection 100 mg: NDC 0085-1381-01
+- NDC 0085-1381-01
 
-## 16.3 Storage
-
-Store TEMODAR Capsules at 25°C (77°F); excursions permitted to 15–30°C (59–86°F) [see USP Controlled Room Temperature].
-
-Store TEMODAR for Injection refrigerated at 2–8°C (36–46°F).
-After reconstitution, store reconstituted product at room temperature (25°C [77°F]).
-Reconstituted product must be used within 14 hours, including infusion time.
+Store TEMODAR for injection refrigerated at 2°C to 8°C (36°F to 46°F).
