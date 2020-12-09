@@ -20,7 +20,7 @@ NDC 50111-560-01
 
 New NDC
 
-TraZODONE HydrochlorideTablets, USP
+TraZODONE Hydrochloride Tablets, USP
 
 50 mg
 
@@ -36,7 +36,7 @@ TEVA
 
 NDC 50111-434-01
 
-TraZODONE HydrochlorideTablets USP
+TraZODONE Hydrochloride Tablets USP
 
 100 mg
 
@@ -54,7 +54,7 @@ NDC 50111-561-01
 
 New NDC
 
-TraZODONE HydrochlorideTablets, USP
+TraZODONE Hydrochloride Tablets, USP
 
 100 mg
 
