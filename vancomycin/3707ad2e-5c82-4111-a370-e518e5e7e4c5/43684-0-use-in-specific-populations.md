@@ -2,35 +2,54 @@
 
 ## 8.1 Pregnancy
 
-The highest doses of vancomycin tested were not teratogenic in rats given up to 200 mg/kg/day IV (1180 mg/m2 or 1 times the recommended maximum human dose based on body surface area) or in rabbits given up to 120 mg/kg/day IV (1320 mg/m2 or 1.1 times the recommended maximum human dose based on body surface area).
-No effects on fetal weight or development were seen in rats at the highest dose tested or in rabbits given 80 mg/kg/day (880 mg/m2 or 0.74 times the recommended maximum human dose based on body surface area).
+Risk Summary
 
-In a controlled clinical study, the potential ototoxic and nephrotoxic effects of vancomycin on infants were evaluated when the drug was administered intravenously to pregnant women for serious staphylococcal infections complicating intravenous drug abuse.
-Vancomycin was found in cord blood.
-No sensorineural hearing loss or nephrotoxicity attributable to vancomycin was noted.
-One infant whose mother received vancomycin in the third trimester experienced conductive hearing loss that was not attributed to the administration of vancomycin.
-Because the number of subjects treated in this study was limited and vancomycin was administered only in the second and third trimesters, it is not known whether vancomycin causes fetal harm.
-Because animal reproduction studies are not always predictive of human response, Vancomycin Hydrochloride Capsules should be given to a pregnant woman only if clearly needed.
+Systemic absorption of vancomycin is low following oral administration of Vancomycin Hydrochloride Capsules; however, absorption may vary depending on various factors [see Clinical Pharmacology (12.3)].
+There are no available data on vancomycin use in pregnant women to assess a risk of major birth defects or miscarriage.
+Available published data on intravenous vancomycin use in pregnancy during the second and third trimesters have not shown an association with adverse maternal or fetal outcomes (see Data).
 
-## 8.3 Nursing Mothers
+Vancomycin did not show adverse developmental effects when administered intravenously to pregnant rats and rabbits during organogenesis at doses less than or equal to the recommended maximum human dose (see Data).
 
-Vancomycin is excreted in human milk based on information obtained with the intravenous administration of vancomycin.
-However, systemic absorption of vancomycin is very low following oral administration of Vancomycin Hydrochloride Capsules (see CLINICAL PHARMACOLOGY, Pharmacokinetics [12.3]).
-It is not known whether vancomycin is excreted in human milk, as no studies of vancomycin concentration in human milk after oral administration have been done.
-Caution should be exercised when Vancomycin Hydrochloride Capsules are administered to a nursing woman.
-Because of the potential for adverse events, a decision should be made whether to discontinue nursing or discontinue the drug, taking into account the importance of the drug to the mother.
+Data
+
+Human Data
+
+There are no available data on first trimester use of vancomycin in pregnant women to assess a risk of major birth defects or miscarriage.
+
+A published study evaluated hearing loss and nephrotoxicity in infants of 10 pregnant intravenous drug users treated with intravenous vancomycin for suspected or documented methicillin-resistant Staphylococcal aureus in the second or third trimester.
+The comparison groups were 10 uninfected non-intravenous drug-dependent patients who received no treatment and 10 uninfected untreated intravenous drug-dependent patients.
+No infant in the vancomycin exposed group had abnormal sensorineural hearing at 3 months of age or nephrotoxicity.
+
+A published prospective study assessed outcomes in 55 pregnant women with a positive Group B streptococcus culture and a high-risk penicillin allergy with resistance to clindamycin or unknown sensitivity who were administered intravenous vancomycin at the time of delivery.
+Vancomycin dosing ranged from the standard dose of 1 g intravenously every 12 hours to a dose of 20 mg/kg intravenously every 8 hours (maximum individual dose 2 g). No major adverse reactions were recorded either in the mothers or their newborns.
+None of the newborns had sensorineural hearing loss.
+Neonatal renal function was not examined, but all of the newborns were discharged in good condition.
+
+Animal Data
+
+Vancomycin did not cause fetal malformation when administered intravenously during organogenesis to pregnant rats (gestation days 6 to 15) and rabbits (gestation days 6 to 18) at the equivalent recommended maximum human dose of 200 mg/kg/day to rats or 120 mg/kg/day to rabbits.
+No effects on fetal weight or development were seen in rats at the highest dose tested or in rabbits given 80 mg/kg/day (approximately 1 and 0.8 times the recommended maximum human dose based on body surface area).
+Maternal toxicity was observed in rats (at doses 120 mg/kg and above) and rabbits (at 80 mg/kg and above).
+
+## 8.2 Lactation
+
+Risk Summary
+
+There are no data on the presence of vancomycin in human milk, the effects on the breastfed infant, or the effect on milk production following oral administration.
+Systemic absorption of vancomycin is low following oral administration of Vancomycin Hydrochloride Capsules [see Clinical Pharmacology (12.3)]; therefore, it is unlikely to result in clinically relevant exposure in breastfeeding infants.
+The developmental and health benefits of breastfeeding should be considered along with the mother’s clinical need for Vancomycin Hydrochloride Capsules and any potential adverse effects on the breastfed infant from Vancomycin Hydrochloride Capsules or from the underlying maternal condition.
 
 ## 8.4 Pediatric Use
 
-Safety and effectiveness in pediatric patients have not been established.
+Vancomycin Hydrochloride Capsules are indicated in pediatric patients less than 18 years of age for the treatment of C. difficile-associated diarrhea and enterocolitis caused by S. aureus (including methicillin-resistant strains) [see Indications and Usage (1) and Dosage and Administration (2.2)].
 
 ## 8.5 Geriatric Use
 
-In clinical trials, 54% of Vancomycin Hydrochloride Capsule-treated subjects were >65 years of age.
+In clinical trials, 54% of vancomycin-treated subjects were >65 years of age.
 Of these, 40% were between the ages of >65 and 75, and 60% were >75 years of age.
 
-Clinical studies with Vancomycin Hydrochloride Capsules in diarrhea associated with Clostridium difficile have demonstrated that geriatric subjects are at increased risk of developing nephrotoxicity following treatment with oral Vancomycin Hydrochloride Capsules, which may occur during or after completion of therapy.
-In patients >65 years of age, including those with normal renal function prior to treatment, renal function should be monitored during and following treatment with Vancomycin Hydrochloride Capsules to detect potential vancomycin induced nephrotoxicity (see WARNINGS AND PRECAUTIONS, Nephrotoxicity [5.3]; ADVERSE REACTIONS, Clinical Trial Experience [6.1] and CLINICAL STUDIES, Diarrhea Associated with Clostridium difficile [14.1]).
+Clinical studies with vancomycin in diarrhea associated with Clostridioides difficile have demonstrated that geriatric subjects are at increased risk of developing nephrotoxicity following treatment with oral vancomycin, which may occur during or after completion of therapy.
+In patients >65 years of age, including those with normal renal function prior to treatment, renal function should be monitored during and following treatment with vancomycin to detect potential vancomycin induced nephrotoxicity [see Warnings and Precautions (5.3), Adverse Reactions (6.1), and Clinical Studies (14.1)].
 
-Patients >65 years of age may take longer to respond to therapy compared to patients ≤65 years of age (see CLINICAL STUDIES, Diarrhea Associated with Clostridium difficile [14.1]).
-Clinicians should be aware of the importance of appropriate duration of Vancomycin Hydrochloride Capsule treatment in patients >65 years of age and not discontinue or switch to alternative treatment prematurely.
+Patients >65 years of age may take longer to respond to therapy compared to patients ≤65 years of age [see Clinical Studies (14.1)].
+Clinicians should be aware of the importance of appropriate duration of vancomycin treatment in patients >65 years of age and not discontinue or switch to alternative treatment prematurely.

@@ -1,7 +1,7 @@
 # Package/Label Display Panel
 
-Vancomycin Hydrochloride Capsules USP, Equiv. to 125 mg vancomycin NDC 62559-390-20 Rx Only 20 Capsules
+NDC 62559-390-20 Vancomycin Hydrochloride Capsules USP 125 mg* Rx only Not a Child Resistant Container 20 Capsules
 
 # Package/Label Display Panel
 
-Vancomycin Hydrochloride Capsules USP, Equiv. to 250 mg vancomycin NDC 62559-391-20 Rx Only 20 Capsules
+NDC 62559-391-20 Vancomycin Hydrochloride Capsules USP 250 mg* Rx only Not a Child Resistant Container 20 Capsules
