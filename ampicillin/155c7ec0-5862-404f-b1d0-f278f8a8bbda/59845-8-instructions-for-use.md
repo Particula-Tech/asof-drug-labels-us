@@ -62,7 +62,7 @@ Mix container contents thoroughly and use within the specified time.
 
 To report SUSPECTED ADVERSE EVENTS, contact Pfizer Inc. at 1-800-438-1985 or FDA at 1-800-FDA-1088 or http://www.fda.gov/ for voluntary reporting of adverse reactions.
 
-This product's label may have been updated.
-For current full prescribing information, please visit www.pfizer.com.
+This product's labeling may have been updated.
+For the most recent prescribing information, please visit www.pfizer.com.
 
-LAB-0017-19.0 Revised October 2019
+LAB-0017-20.0 Revised October 2020
