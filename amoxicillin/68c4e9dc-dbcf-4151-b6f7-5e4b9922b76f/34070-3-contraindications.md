@@ -3,7 +3,7 @@
 ## 4.1 Hypersensitivity Reactions
 
 TALICIA is contraindicated in patients with known hypersensitivity to the components of TALICIA: amoxicillin [or other β-lactam antibacterial drugs (e.g., penicillins and cephalosporins)], omeprazole (or other benzimidazoles [e.g. proton pump inhibitors (PPIs) and anthelmintics]), rifabutin (or any other rifamycins), or to any other component of TALICIA.
-Hypersensitivity reactions may include anaphylaxis or Stevens Johnson Syndrome, anaphylactic shock, angioedema, bronchospasm, interstitial nephritis, rash and urticaria [see Warnings and Precautions (5.1), Adverse Reactions (6.1)].
+Hypersensitivity reactions may include anaphylaxis or Stevens Johnson Syndrome, anaphylactic shock, angioedema, bronchospasm, acute tubulointerstitial nephritis, rash and urticaria [see Warnings and Precautions (5.1, 5.4), Adverse Reactions (6.1)].
 
 ## 4.2 Rilpivirine-containing Products
 

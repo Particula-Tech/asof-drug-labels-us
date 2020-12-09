@@ -2,7 +2,7 @@
 
 ## 5.1 Hypersensitivity Reactions
 
-Serious and fatal hypersensitivity reactions, e.g. anaphylaxis, angioedema, erythema multiforme, Stevens-Johnson syndrome, exfoliative dermatitis, toxic epidermal necrolysis, acute generalized exanthematous pustulosis, hypersensitivity vasculitis, interstitial nephritis, and serum sickness have been reported with the components of TALICIA: omeprazole, amoxicillin and rifabutin.
+Serious and fatal hypersensitivity reactions, e.g. anaphylaxis, angioedema, erythema multiforme, Stevens-Johnson syndrome, exfoliative dermatitis, toxic epidermal necrolysis, acute generalized exanthematous pustulosis, hypersensitivity vasculitis, acute tubulointerstitial nephritis, and serum sickness have been reported with the components of TALICIA: omeprazole, amoxicillin and rifabutin.
 
 Signs and symptoms of these reactions may include hypotension, urticaria, angioedema, acute bronchospasm, conjunctivitis, thrombocytopenia, neutropenia or flu-like syndrome (weakness, fatigue, muscle pain, nausea, vomiting, headache, fever, chills, aches, rash, itching, sweats, dizziness, shortness of breath, chest pain, cough, syncope, palpitations).
 
@@ -27,11 +27,17 @@ Appropriate fluid and electrolyte management, protein supplementation, antibacte
 TALICIA may reduce the efficacy of hormonal contraceptives.
 Therefore, an additional non-hormonal highly effective method of contraception should be used while taking TALICIA [see Drug Interactions (7.1)].
 
-## 5.4 Acute Interstitial Nephritis
+## 5.4 Acute Tubulointerstitial Nephritis
 
-Acute interstitial nephritis (AIN) has been observed in patients taking PPIs including omeprazole as well as in patients taking penicillins such as amoxicillin, a component of TALICIA.
-Acute interstitial nephritis may occur at any point during PPI therapy and is generally attributed to an idiopathic hypersensitivity reaction.
-Discontinue TALICIA if AIN develops [see Contraindications (4.1)].
+Acute tubulointerstitial nephritis (TIN) has been observed in patients taking PPIs including omeprazole, a component of TALICIA.
+TIN may occur at any point during PPI therapy.
+
+Patients may present with varying signs and symptoms from symptomatic hypersensitivity reactions, to non-specific symptoms of decreased renal function (e.g., malaise, nausea, anorexia).
+In reported case series, some patients were diagnosed on biopsy and in the absence of extra-renal manifestations (e.g., fever, rash or arthralgia).
+
+TIN has also been observed in patients taking penicillins, such as amoxicillin, a component of TALICIA.
+
+Discontinue TALICIA and evaluate patients with suspected acute TIN [see Contraindications (4)].
 
 ## 5.5 Risk of Adverse Reactions or Loss of Efficacy Due to Drug Interactions
 

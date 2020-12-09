@@ -28,15 +28,15 @@ Counsel females of reproductive potential who are taking oral or other forms of 
 Embryo-Fetal Toxicity
 
 Advise pregnant women and females of reproductive potential that TALICIA is not recommended during pregnancy because of the potential risk to a fetus.
-Advise females to inform their healthcare provider of a known or suspected pregnancy
+Advise females to inform their healthcare provider of a known or suspected pregnancy.
 
 Cutaneous or Systemic Lupus
 
 Advise patients to report any symptoms associated with cutaneous or systemic lupus erythematosus.
 
-Acute Interstitial Nephritis
+Acute Tubulointerstitial Nephritis
 
-Advise the patient or caregiver to call the patient’s healthcare provider immediately if they experience signs and/or symptoms associated with acute interstitial nephritis
+Advise the patient or caregiver to call the patient’s healthcare provider immediately if they experience signs and/or symptoms associated with acute tubulointerstitial nephritis.
 
 Important Administration Instructions for TALICIA
 
@@ -66,4 +66,4 @@ TALICIA is manufactured in Sweden for RedHill Biopharma Ltd. Tel Aviv, Israel
 
 TALICIA is a trademark registered with the U.S. Patent and Trademark Office and used under license by RedHill Biopharma Inc.
 
-© 2019 RedHill Biopharma Ltd. All rights reserved.
+© 2020 RedHill Biopharma Ltd. All rights reserved.

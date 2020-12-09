@@ -4,7 +4,7 @@ The following serious adverse reactions are described below and elsewhere in lab
 
 - Hypersensitivity Reactions [see Warnings and Precautions (5.1)]
 - Clostridioides difficile-Associated Diarrhea [see Warnings and Precautions (5.2)]
-- Acute Interstitial Nephritis [see Warnings and Precautions (5.4)]
+- Acute Tubulointerstitial Nephritis [see Warnings and Precautions (5.4)]
 - Cutaneous and Systemic Lupus Erythematosus [see Warnings and Precautions (5.6)]
 - Rash in Patients with Mononucleosis [see Warnings and Precautions (5.7)]
 - Uveitis [see Warnings and Precautions (5.8)]
@@ -35,7 +35,7 @@ Table 1: Selected Adverse Reactions Occurring in 1% or Greater of Patients Recei
 | Diarrhea | 23 (10.1) | 18 (7.9) | 11 (14.3) | 4 (9.8) |
 | Headachea | 17 (7.5) | 16 (7.0) | 12 (15.6) | 4 (9.8) |
 | Nausea | 11 (4.8) | 12 (5.3) | 3 (3.9) | 1 (2.4) |
-| Abdominal Painb | 8 (3.5) | 11 (4.8) | 3 (3.9) | 2 (4.9) |
+| Abdominal painb | 8 (3.5) | 11 (4.8) | 3 (3.9) | 2 (4.9) |
 | Chromaturiac | 0 | 0 | 10 (13.0) | 1 (2.4) |
 | Rashd | 6 (2.6) | 2 (0.9) | 4 (5.2) | 0 |
 | Dyspepsiae | 5 (2.2) | 3 (1.3) | 1 (1.3) | 0 |
