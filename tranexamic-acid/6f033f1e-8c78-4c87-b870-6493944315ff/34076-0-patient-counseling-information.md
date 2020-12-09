@@ -16,7 +16,7 @@ Manufactured for:
 
 Mylan Institutional LLC
 
-Rockford, IL 61103 U.S.A.
+Morgantown, WV 26505 U.S.A.
 
 Manufactured by:
 
@@ -24,8 +24,8 @@ Mylan Institutional
 
 Galway, Ireland
 
-Revised: 7/2020
+Revised: 10/2020
 
-MI:TREXIJ:R9
+MI:TREXIJ:R10
 
-0998L104
+0998L105
