@@ -137,7 +137,7 @@ Ganciclovir is a synthetic analogue of 2'-deoxyguanosine, which inhibits replica
 In CMV-infected cells, ganciclovir is initially phosphorylated to ganciclovir monophosphate by the viral protein kinase, pUL97.
 Further phosphorylation occurs by cellular kinases to produce ganciclovir triphosphate, which is then slowly metabolized intracellularly (half-life 18 hours).
 As the phosphorylation is largely dependent on the viral kinase, phosphorylation of ganciclovir occurs preferentially in virus-infected cells.
-The virustatic activity of ganciclovir is due to inhibition of the viral DNA polymerase, pUL54, synthesis by ganciclovir triphosphate.
+The virustatic activity of ganciclovir is due to inhibition of the viral DNA polymerase, pUL54 by ganciclovir triphosphate.
 
 Antiviral Activity: The quantitative relationship between the cell culture susceptibility of human herpes viruses to antivirals and clinical response to antiviral therapy has not been established, and virus sensitivity testing has not been standardized.
 Sensitivity test results, expressed as the concentration of drug required to inhibit the growth of virus in cell culture by 50% (EC50), vary greatly depending upon a number of factors including the assay used.
@@ -158,9 +158,9 @@ These and other substitutions less frequently reported in the literature, or obs
 
 Table 17 Summary of Resistance-associated Amino Acid Substitutions Observed in the CMV of Patients Failing Ganciclovir Treatment or Prophylaxis
 
-| pUL97 | L405P, A440V, M460I/V/T/L, V466G/M, C518Y, H520Q, P521L, del 590-593, A591D/V, C592G, A594E/G/T/V/P, L595F/S/T/W, del 595, del 595-603, E596D/G/Y, K599E/M, del 600-601, del 597-600, del 601-603, C603W/R/S/Y, C607F/S/Y, I610T, A613V |
+| pUL97 | F342Y, K359E/Q, L405P, A440V, M460I/V/T/L, V466G/M, C518Y, H520Q, P521L, del 590-593, A591D/V, C592F/G, A594E/G/T/V/P, L595F/S/T/W, del 595, del 595-603, E596D/G/Y, K599E/M, del 600-601, del 597-600, del 601-603, C603W/R/S/Y, C607F/S/Y, I610T, A613V |
 | --- | --- |
-| pUL54 | E315D, N408D/K/S, F412C/L/S, D413A/E/N, L501F/I, T503I, K513E/N/R, D515E, L516W, I521T, P522A/L/S, V526L, C539G, L545S/W, Q578H/L, D588E/N, G629S, S695T, I726T/V, E756K, L773V, V781I, V787L, L802M, A809V, T813S, T821I, A834P, G841A/S, D879G, A972V, del 981-982, A987G |
+| pUL54 | E315D, N408D/K/S, F412C/L/S, D413A/E/N, L501F/I, T503I, K513E/N/R, D515E, L516W, I521T, P522A/L/S, V526L, C539G, L545S/W, Q578H/L, D588E/N, G629S, S695T, I726T/V, E756K, L773V, V781I, V787E/L, L802M, A809V, T813S, T821I, A834P, G841A/S, D879G, A972V, del 981-982, A987G |
 | Note: Many additional pathways to ganciclovir resistance likely exist |  |
 
 The presence of known ganciclovir resistance-associated amino acid substitutions was evaluated in a study that extended valganciclovir CMV prophylaxis from 100 days to 200 days post-transplant in adult kidney transplant patients at high risk for CMV disease (D+/R-) [see Clinical Studies (14.1)].
@@ -180,6 +180,6 @@ Resistance data based on assays that do not include this region should be interp
 
 Table 18 Summary of pUL54 Amino Acid Substitutions with Cross-Resistance between Ganciclovir, Cidofovir, and/or Foscarnet
 
-| Cross-resistant to cidofovir | D301N, N408D/K, N410K, F412C/L/S/V, D413E/N, P488R, L501I, T503I, K513E/N, L516R/W, I521T, P522S/A, V526L, C539G/R, L545S/W, Q578H, D588N, I726T/V, E756K, L733V, V812L, T813S, A834P, G841A, del 981-982, A987G |
+| Cross-resistant to cidofovir | D301N, N408D/K, N410K, F412C/L/S/V, D413E/N, P488R, L501I, T503I, K513E/N, L516R/W, I521T, P522S/A, V526L, C539G/R, L545S/W, Q578H, D588N, I726T/V, E756K, L733V, V787E, V812L, T813S, A834P, G841A, del 981-982, A987G |
 | --- | --- |
-| Cross-resistant to foscarnet | F412C, Q578H/L, D588N, V715A/M, E756K, L733V, V781I, V787L, L802M, A809V, V812L, T813S, T821I, A834P, G841A/S, del 981-982 |
+| Cross-resistant to foscarnet | F412C, Q578H/L, D588N, V715A/M, E756K, L733V, V776M, V781I, V787E/L, L802M, A809V, V812L, T813S, T821I, A834P, G841A/S, del 981-982 |
