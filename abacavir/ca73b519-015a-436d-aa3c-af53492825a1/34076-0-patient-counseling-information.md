@@ -47,8 +47,8 @@ Instruct patients to inform their physician or pharmacist if they develop any un
 
 COMBIVIR, EPIVIR, and ZIAGEN are trademarks owned by or licensed to the ViiV Healthcare group of companies.
 
-The other brand listed is owned by or licensed to its respective owner and is not owned by or licensed to the ViiV Healthcare group of companies.
-The maker of this brand is not affiliated with and does not endorse the ViiV Healthcare group of companies or its products.
+The other brands listed are owned by or licensed to their respective owner and are not owned by or licensed to the ViiV Healthcare group of companies.
+The makers of these brands are not affiliated with and do not endorse the ViiV Healthcare group of companies or its products.
 
 Manufactured for:
 
@@ -56,12 +56,6 @@ ViiV Healthcare
 
 Research Triangle Park, NC 27709
 
-by:
+©2020 ViiV Healthcare group of companies or its licensor.
 
-GlaxoSmithKline
-
-Research Triangle Park, NC 27709
-
-©2019 ViiV Healthcare group of companies or its licensor.
-
-ZGN:13PI
+ZGN:14PI

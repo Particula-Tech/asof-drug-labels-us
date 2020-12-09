@@ -24,7 +24,6 @@ Made in UK
 
 1. 62000000047760 Rev.
    5/20
-2. 
 
 PRINCIPAL DISPLAY PANEL
 
@@ -54,4 +53,3 @@ Made in Canada
 
 1. 62000000014384 Rev.
    4/17
-2. 

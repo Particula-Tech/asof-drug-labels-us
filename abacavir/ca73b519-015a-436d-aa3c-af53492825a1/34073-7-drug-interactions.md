@@ -4,3 +4,9 @@
 
 In a trial of 11 HIV‑1–infected subjects receiving methadone‑maintenance therapy with 600 mg of ZIAGEN twice daily (twice the currently recommended dose), oral methadone clearance increased [see Clinical Pharmacology (12.3)].
 This alteration will not result in a methadone dose modification in the majority of patients; however, an increased methadone dose may be required in a small number of patients.
+
+## 7.2 Riociguat
+
+Coadministration with fixed-dose abacavir/dolutegravir/lamivudine resulted in increased riociguat exposure, which may increase the risk of riociguat adverse reactions [see Clinical Pharmacology (12.3)].
+The riociguat dose may need to be reduced.
+See full prescribing information for ADEMPAS (riociguat).
