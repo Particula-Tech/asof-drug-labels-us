@@ -1,6 +1,6 @@
 MEDICATION GUIDE
 
-NOCDURNA™ (knock-DUHR-nah)
+NOCDURNA® (knock-DUHR-nah)
 
 (desmopressin acetate) sublingual tablets
 
@@ -26,11 +26,10 @@ Stop taking NOCDURNA and call your healthcare provider if you have any of the fo
 - Tell your healthcare provider if you have a fever, infection, or diarrhea while taking NOCDURNA as these can cause you to have fluid or body salt (electrolyte) imbalance.
   Your healthcare provider may tell you not to take NOCDURNA while you have these symptoms.
 - Your healthcare provider should check your blood salt levels:
-
-- before you start or restart taking NOCDURNA.
-- within the first week after you start NOCDURNA.
-- 1 month after you start NOCDURNA.
-- every so often as told to you by your healthcare provider, with testing more often if you are already at risk for low salt levels, for example if you are 65 years or older or take certain medicines that increase your risk of low salt levels.
+  - before you start or restart taking NOCDURNA.
+  - within the first week after you start NOCDURNA.
+  - 1 month after you start NOCDURNA.
+  - every so often as told to you by your healthcare provider, with testing more often if you are already at risk for low salt levels, for example if you are 65 years or older or take certain medicines that increase your risk of low salt levels.
 
 See "What are the possible side effects of NOCDURNA?" for more information about side effects.
 
@@ -57,8 +56,7 @@ Do not take NOCDURNA if you:
 - have an illness that can cause you to have low levels of fluid or electrolytes in your blood such as vomiting, diarrhea, an infection, or a kidney problem that causes you to have low levels of salt.
 - have a heart condition called heart failure.
 - have high blood pressure that is not controlled.
-
-are allergic to any ingredient in NOCDURNA tablets (see a complete list of ingredients at the end of this Medication Guide).
+- are allergic to any ingredient in NOCDURNA tablets (see a complete list of ingredients at the end of this Medication Guide).
 
 Talk to your healthcare provider before you take NOCDURNA if you have any of these conditions or take any of these medicines.
 
@@ -100,10 +98,9 @@ How should I take NOCDURNA?
 
 - You should take NOCDURNA 1 time each day, 1 hour before bedtime without water.
 - When you are ready to take your dose of NOCDURNA:
-
-- Place the tablet under your tongue 1 hour before bedtime.
-  Leave the tablet under your tongue until it dissolves.
-- Empty your bladder just before bedtime.
+  - Place the tablet under your tongue 1 hour before bedtime.
+    Leave the tablet under your tongue until it dissolves.
+  - Empty your bladder just before bedtime.
 
 - While taking NOCDURNA, you should limit the amount of water or liquids you drink from 1 hour before taking NOCDURNA and until 8 hours after.
   You may have serious side effects if you drink too much liquid.
@@ -130,7 +127,7 @@ You may report side effects to FDA at 1-800-FDA-1088.
 
 How should I store NOCDURNA?
 
-Store NOCDURNA at room temperature between 68° to 77oF (20° to 25oC).
+Store NOCDURNA at room temperature between 68° to 77°F (20° to 25°C).
 
 Keep NOCDURNA in its blister pack until it is time to take it, in order to protect it from moisture and light.
 
@@ -151,9 +148,9 @@ Active ingredient: desmopressin acetate
 
 Inactive ingredients: gelatin, NF (fish source), mannitol, anhydrous citric acid
 
-Manufactured by: Ferring Pharmaceuticals Inc. Parsippany, NJ 07054, USA
+Manufactured by: Ferring Pharmaceuticals Inc. Parsippany, NJ 07054, USA XXXXXXXXXX
 
-2009055115 06/2018
+06/2018
 
 For more information, go to www.NOCDURNA.com or call 1-888-FERRING (1-888-337-7464).
 

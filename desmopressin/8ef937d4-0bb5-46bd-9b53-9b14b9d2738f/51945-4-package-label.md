@@ -19,7 +19,7 @@ FERRING PHARMACEUTICALS
 
 NDC 55566-5070-1
 
-Nocdurna ® (desmopressin acetate) Sublingual Tablets
+Nocdurna® (desmopressin acetate) Sublingual Tablets
 
 55.3 mcg per tablet
 
