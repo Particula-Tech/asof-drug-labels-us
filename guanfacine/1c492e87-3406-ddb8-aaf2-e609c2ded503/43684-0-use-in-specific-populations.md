@@ -48,8 +48,8 @@ The concentration of drug in animal milk does not necessarily predict the concen
 
 ## 8.4 Pediatric Use
 
-Safety and efficacy of guanfacine in pediatric patients less than 6 years of age have not been established.
-The efficacy of guanfacine was studied for the treatment of ADHD in five controlled monotherapy clinical trials (up to 15 weeks in duration), one randomized withdrawal study and one controlled adjunctive trial with psychostimulants (8 weeks in duration) in children and adolescents ages 6 to 17 who met DSM-IV® criteria for ADHD [see Adverse Reactions (6) and Clinical Studies (14)].
+Safety and efficacy of guanfacine extended-release tablets in pediatric patients less than 6 years of age have not been established.
+The efficacy of guanfacine extended-release tablets was studied for the treatment of ADHD in five controlled monotherapy clinical trials (up to 15 weeks in duration), one randomized withdrawal study and one controlled adjunctive trial with psychostimulants (8 weeks in duration) in children and adolescents ages 6 to 17 who met DSM-IV® criteria for ADHD [see Adverse Reactions (6) and Clinical Studies (14)].
 
 Animal Data
 
@@ -66,7 +66,7 @@ These findings were not observed with guanfacine alone at 1 mg/kg/day or methylp
 
 ## 8.5 Geriatric Use
 
-The safety and efficacy of guanfacine in geriatric patients have not been established.
+The safety and efficacy of guanfacine extended-release tablets in geriatric patients have not been established.
 
 ## 8.6 Renal Impairment
 

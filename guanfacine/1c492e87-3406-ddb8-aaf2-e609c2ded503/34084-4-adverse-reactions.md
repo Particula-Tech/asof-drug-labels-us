@@ -11,7 +11,7 @@ The following serious adverse reactions are described elsewhere in the labeling:
 
 Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in practice.
 
-The data described below reflect clinical trial exposure to guanfacine in 2,825 patients.
+The data described below reflect clinical trial exposure to guanfacine extended-release tablets in 2,825 patients.
 This includes 2,330 patients from completed studies in children and adolescents, ages 6 to 17 years and 495 patients in completed studies in adult healthy volunteers.
 
 The mean duration of exposure of 446 patients that previously participated in two 2-year, open-label long-term studies was approximately 10 months.
@@ -166,10 +166,10 @@ For the respective fixed doses 1 mg/day, 2 mg/day, 3 mg/day or 4 mg/day the maxi
 For these respective fixed doses the maximum mean changes in seated diastolic blood pressure were -3.4 mmHg, -3.3 mmHg, -4.4 mmHg and -5.4 mmHg.
 For these respective fixed doses the maximum mean changes in seated pulse were -4.8 bpm, -3.1 bpm, -6.5 bpm and -8.6 bpm.
 Decreases in blood pressure and heart rate were usually modest and asymptomatic; however, hypotension and bradycardia can occur.
-Hypotension was reported as an adverse reaction for 7% of the guanfacine group and 3% of the placebo group.
-This includes orthostatic hypotension, which was reported for 1% of the guanfacine group and none in the placebo group.
+Hypotension was reported as an adverse reaction for 7% of the guanfacine extended-release tablets group and 3% of the placebo group.
+This includes orthostatic hypotension, which was reported for 1% of the guanfacine extended-release tablets group and none in the placebo group.
 These findings were generally similar in the monotherapy flexible dose trials (Studies 4 and 5).
-In the adjunctive trial, hypotension (3%) and bradycardia (2%) were observed in patients treated with guanfacine as compared to none in the placebo group.
+In the adjunctive trial, hypotension (3%) and bradycardia (2%) were observed in patients treated with guanfacine extended-release tablets as compared to none in the placebo group.
 In long-term, open-label studies, (mean exposure of approximately 10 months), maximum decreases in systolic and diastolic blood pressure occurred in the first month of therapy.
 Decreases were less pronounced over time.
 Syncope occurred in 1% of pediatric patients in the clinical program.
@@ -177,20 +177,20 @@ The majority of these cases occurred in the long-term, open-label studies.
 
 Discontinuation of Treatment
 
-Blood pressure and pulse may increase above baseline values following discontinuation of guanfacine.
-In five studies of children and adolescents [see Clinical Studies (14)], increases in mean systolic and diastolic blood pressure averaging approximately 3 mmHg and increases in heart rate averaging 5 beats per minute above original baseline were observed upon discontinuation with tapering of guanfacine.
+Blood pressure and pulse may increase above baseline values following discontinuation of guanfacine extended-release tablets.
+In five studies of children and adolescents [see Clinical Studies (14)], increases in mean systolic and diastolic blood pressure averaging approximately 3 mmHg and increases in heart rate averaging 5 beats per minute above original baseline were observed upon discontinuation with tapering of guanfacine extended-release tablets.
 In a maintenance of efficacy study, increases in blood pressure and heart rate above baseline slowly diminished over the follow up period, which ranged between 3 and 26 weeks post final dose; the estimated average time to return to baseline was between six and twelve months.
 In this study, the increases in blood pressure and pulse were not considered serious or associated with adverse events.
 However, individuals may have larger increases than reflected by the mean changes.
 
-In postmarketing experience, following abrupt discontinuation of guanfacine, rebound hypertension and hypertensive encephalopathy have been reported [see Warnings and Precautions (5.4) and Adverse Reactions (6.2)].
+In postmarketing experience, following abrupt discontinuation of guanfacine extended-release tablets, rebound hypertension and hypertensive encephalopathy have been reported [see Warnings and Precautions (5.4) and Adverse Reactions (6.2)].
 
 Effects on Height, Weight, and Body Mass Index (BMI)
 
-Patients taking guanfacine demonstrated similar growth compared to normative data.
-Patients taking guanfacine had a mean increase in weight of 0.5 kg compared to those receiving placebo over a comparable treatment period.
-Patients receiving guanfacine for at least 12 months in open-label studies gained an average of 8 kg in weight and 8 cm (3 in) in height.
-The height, weight, and BMI percentile remained stable in patients at 12 months in the long-term studies compared to when they began receiving guanfacine.
+Patients taking guanfacine extended-release tablets demonstrated similar growth compared to normative data.
+Patients taking guanfacine extended-release tablets had a mean increase in weight of 0.5 kg compared to those receiving placebo over a comparable treatment period.
+Patients receiving guanfacine extended-release tablets for at least 12 months in open-label studies gained an average of 8 kg in weight and 8 cm (3 in) in height.
+The height, weight, and BMI percentile remained stable in patients at 12 months in the long-term studies compared to when they began receiving guanfacine extended-release tablets.
 
 Other Adverse Reactions Observed in Clinical Studies
 

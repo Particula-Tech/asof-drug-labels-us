@@ -32,13 +32,13 @@ Before you take guanfacine extended-release tablets, tell your doctor if you:
 - have liver or kidney problems
 - have any other medical conditions
 - are pregnant or plan to become pregnant.
-  It is not known if guanfacine will harm your unborn baby.
+  It is not known if guanfacine extended-release tablets will harm your unborn baby.
   Talk to your doctor if you are pregnant or plan to become pregnant.
 - There is a pregnancy registry for females who are exposed to ADHD medications, including guanfacine extended-release tablets, during pregnancy.
   The purpose of the registry is to collect information about the health of females exposed to guanfacine extended-release tablets and their baby.
   If you or your child becomes pregnant during treatment with guanfacine extended-release tablets, talk to your healthcare provider about registering with the National Pregnancy Registry of ADHD medications at 1-866-961-2388.
 - are breastfeeding or plan to breastfeed.
-  It is not known if guanfacine passes into your breast milk.
+  It is not known if guanfacine extended-release tablets passes into your breast milk.
   Talk to your doctor about the best way to feed your baby while taking guanfacine extended-release tablets.
 
 Tell your doctor about all of the medicines you take, including prescription and over-the-counter medicines, vitamins, and herbal supplements.
@@ -169,7 +169,7 @@ Guanfacine Extended-Release Tablets
 | Toronto, Ontario | Weston, Florida |
 | Canada M9L 1T9 | USA 33326 |
 
-Revised: January 2020
+Revised: November 2020
 
 Rev.
-9
+10

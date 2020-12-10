@@ -14,7 +14,7 @@ Guanfacine is a known antihypertensive agent.
 By stimulating central alpha2A-adrenergic receptors, guanfacine reduces sympathetic nerve impulses from the vasomotor center to the heart and blood vessels.
 This results in a decrease in peripheral vascular resistance and a reduction in heart rate.
 
-In a thorough QT study, the administration of two dose levels of immediate-release guanfacine (4 mg and 8 mg) produced concentrations approximately 2 to 4 times the concentrations observed with the maximum recommended dose of guanfacine of 0.12 mg/kg.
+In a thorough QT study, the administration of two dose levels of immediate-release guanfacine (4 mg and 8 mg) produced concentrations approximately 2 to 4 times the concentrations observed with the maximum recommended dose of guanfacine extended-release tablets of 0.12 mg/kg.
 Guanfacine was not shown to prolong the QTc interval to any clinically relevant extent.
 
 ## 12.3 Pharmacokinetics
@@ -22,13 +22,13 @@ Guanfacine was not shown to prolong the QTc interval to any clinically relevant 
 Absorption and Distribution
 
 Guanfacine is readily absorbed and approximately 70% bound to plasma proteins independent of drug concentration.
-After oral administration of guanfacine the time to peak plasma concentration is approximately 5 hours in children and adolescents with ADHD.
+After oral administration of guanfacine extended-release tablets the time to peak plasma concentration is approximately 5 hours in children and adolescents with ADHD.
 
 Immediate-release and extended-release guanfacine have different pharmacokinetic characteristics; dose substitution on a milligram per milligram basis will result in differences in exposure.
 
 A comparison across studies suggests that the Cmax is 60% lower and AUC0-∞ 43% lower, respectively, for the extended-release compared to immediate-release guanfacine.
 Therefore, the relative bioavailability of the extended-release to immediate-release guanfacine is 58%.
-The mean pharmacokinetic parameters in adults following the administration of guanfacine extended-release tablet 1 mg once daily and immediate-release guanfacine 1mg once daily are summarized in Table 15.
+The mean pharmacokinetic parameters in adults following the administration of guanfacine extended-release tablets 1 mg once daily and immediate-release guanfacine 1mg once daily are summarized in Table 15.
 
 | Table 15: Comparison of Pharmacokinetics: Guanfacine Extended-Release vs. Immediate-Release Guanfacine in Adults |  |  |
 | --- | --- | --- |
@@ -43,10 +43,10 @@ Note: Values are mean +/- SD, except for tmax which is median (range)
 Figure 1: Comparison of Pharmacokinetics: Guanfacine Extended-Release vs. Immediate-Release Guanfacine in Adults
 
 Exposure to guanfacine was higher in children (ages 6 to 12) compared to adolescents (ages 13 to 17) and adults.
-After oral administration of multiple doses of guanfacine 4 mg, the Cmax was 10 ng/mL compared to 7 ng/mL and the AUC was 162 ng·h/mL compared to 116 ng·h/mL in children (ages 6 to 12) and adolescents (ages 13 to 17), respectively.
+After oral administration of multiple doses of guanfacine extended-release tablets 4 mg, the Cmax was 10 ng/mL compared to 7 ng/mL and the AUC was 162 ng·h/mL compared to 116 ng·h/mL in children (ages 6 to 12) and adolescents (ages 13 to 17), respectively.
 These differences are probably attributable to the lower body weight of children compared to adolescents and adults.
 
-The pharmacokinetics were affected by intake of food when a single dose of guanfacine extended-release tablet 4 mg was administered with a high-fat breakfast.
+The pharmacokinetics were affected by intake of food when a single dose of guanfacine extended-release tablets 4 mg was administered with a high-fat breakfast.
 The mean exposure increased (Cmax ~75% and AUC ~40%) compared to dosing in a fasted state.
 
 Dose Proportionality
@@ -81,8 +81,8 @@ Drug Interaction Studies
 
 Guanfacine is primarily metabolized by CYP3A4 and its plasma concentrations can be affected significantly by CYP3A4 inhibitors or inducers (Figure 2).
 
-Figure 2: Effect of Other Drugs on the Pharmacokinetics (PK) of Guanfacine
+Figure 2: Effect of Other Drugs on the Pharmacokinetics (PK) of Guanfacine Extended-Release Tablets
 
 Guanfacine does not significantly affect exposures of methylphenidate and lisdexamfetamine when coadministered (Figure 3).
 
-Figure 3: Effect of Guanfacine on the Pharmacokinetics (PK) of Other Drugs
+Figure 3: Effect of Guanfacine Extended-Release Tablets on the Pharmacokinetics (PK) of Other Drugs

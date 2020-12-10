@@ -2,4 +2,4 @@
 
 ## 9.1 Controlled Substance
 
-Guanfacine is not a controlled substance and has no known potential for abuse or dependence.
+Guanfacine extended-release tablets is not a controlled substance and has no known potential for abuse or dependence.

@@ -6,7 +6,7 @@ Dosing and Administration
 
 Instruct patients to swallow guanfacine extended-release tablets whole with water, milk or other liquid.
 Tablets should not be crushed, chewed or broken prior to administration because this may increase the rate of release of the active drug.
-Patients should not take guanfacine extended-release tablets together with a high-fat meal, since this can raise blood levels of guanfacine.
+Patients should not take guanfacine extended-release tablets together with a high-fat meal, since this can raise blood levels of guanfacine extended-release tablets.
 Instruct the parent or caregiver to supervise the child or adolescent taking guanfacine extended-release tablets and to keep the bottle of tablets out of reach of children.
 
 Advise patients not to abruptly discontinue guanfacine extended-release tablets as abrupt discontinuation can result in clinically significant rebound hypertension.
@@ -43,7 +43,7 @@ Guanfacine Extended-Release Tablets
 | --- | --- |
 | Apotex Inc. Toronto, Ontario Canada M9L 1T9 | Apotex Corp. Weston, Florida USA 33326 |
 
-Revised: January 2020
+Revised: November 2020
 
 Rev.
-9
+10
