@@ -5,10 +5,10 @@ The two trials were identical in design and compared ACANYA Gel to clindamycin i
 
 The co-primary efficacy variables were:
 
-1. (1)Mean absolute change from baseline at Week 12 in:
-2. •Inflammatory lesion counts
-3. •Non-inflammatory lesion counts
-4. (2)Percent of subjects who had a 2-grade improvement from baseline on an Evaluator’s Global Severity (EGS) score.
+1. 1.Mean absolute change from baseline at Week 12 in:
+2. 2.Inflammatory lesion counts
+3. 3.Non-inflammatory lesion counts
+4. 4.Percent of subjects who had a 2-grade improvement from baseline on an Evaluator’s Global Severity (EGS) score.
 
 The EGS scoring scale used in all of the clinical trials for ACANYA Gel is as follows:
 

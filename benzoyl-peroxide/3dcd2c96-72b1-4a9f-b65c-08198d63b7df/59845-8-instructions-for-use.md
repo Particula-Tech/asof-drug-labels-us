@@ -17,9 +17,10 @@ This information does not take the place of talking with your doctor about your 
   See Figure 1.
 - •One pea-sized amount of ACANYA Gel should be enough to cover your entire face.
 
-1. Figure 1
-2. •Dot the one pea-sized amount of ACANYA Gel onto six areas of your face (chin, left cheek, right cheek, nose, left forehead, right forehead).
-   See Figure 2.
+- Figure 1
+
+- •Dot the one pea-sized amount of ACANYA Gel onto six areas of your face (chin, left cheek, right cheek, nose, left forehead, right forehead).
+  See Figure 2.
 
 Figure 2
 
