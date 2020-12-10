@@ -20,13 +20,13 @@ Based on the Week 96 analysis, the most common adverse reaction (all Grades) rep
 The proportion of subjects who discontinued treatment with VEMLIDY or TDF due to adverse reactions of any severity was 1.5% and 0.9%, respectively.
 Table 1 displays the frequency of the adverse reactions (all Grades) greater than or equal to 5% in the VEMLIDY group.
 
-Table 1 Adverse ReactionsFrequencies of adverse reactions are based on all treatment-emergent adverse events, regardless of relationship to study drug.
-(All Grades) Reported in ≥5% of Subjects with Chronic HBV Infection and Compensated Liver Disease in Trials 108 and 110 (Week 96 analysisDouble-blind phase.)
+Table 1 Adverse Reactions Frequencies of adverse reactions are based on all treatment-emergent adverse events, regardless of relationship to study drug.
+(All Grades) Reported in ≥5% of Subjects with Chronic HBV Infection and Compensated Liver Disease in Trials 108 and 110 (Week 96 analysis Double-blind phase.)
 
 |  | VEMLIDY (N=866) | TDF (N=432) |
 | --- | --- | --- |
 | Headache | 12% | 10% |
-| Abdominal painGrouped term including abdominal pain upper, abdominal pain, abdominal pain lower, and abdominal tenderness. | 9% | 6% |
+| Abdominal pain Grouped term including abdominal pain upper, abdominal pain, abdominal pain lower, and abdominal tenderness. | 9% | 6% |
 | Cough | 8% | 8% |
 | Back pain | 6% | 6% |
 | Fatigue | 6% | 5% |
@@ -66,9 +66,9 @@ Laboratory Abnormalities
 
 The frequency of laboratory abnormalities (Grades 3–4) occurring in at least 2% of subjects receiving VEMLIDY in Trials 108 and 110 are presented in Table 2.
 
-Table 2 Laboratory Abnormalities (Grades 3–4) Reported in ≥2% of Subjects with Chronic HBV Infection and Compensated Liver Disease in Trials 108 and 110 (Week 96 analysisDouble-blind phase)
+Table 2 Laboratory Abnormalities (Grades 3–4) Reported in ≥2% of Subjects with Chronic HBV Infection and Compensated Liver Disease in Trials 108 and 110 (Week 96 analysis Double-blind phase)
 
-| Laboratory Parameter AbnormalityFrequencies are based on treatment-emergent laboratory abnormalities. | VEMLIDY (N=866) | TDF (N=432) |
+| Laboratory Parameter Abnormality Frequencies are based on treatment-emergent laboratory abnormalities. | VEMLIDY (N=866) | TDF (N=432) |
 | --- | --- | --- |
 | ALT (>5 × ULN) | 8% | 10% |
 | LDL-cholesterol (fasted) (>190 mg/dL) | 6% | 1% |
@@ -97,7 +97,7 @@ Changes from baseline in total cholesterol, HDL-cholesterol, LDL-cholesterol, tr
 
 Table 3 Lipid Abnormalities: Mean Change from Baseline in Lipid Parameters in Patients with Chronic HBV Infection and Compensated Liver Disease in Trials 108 and 110 (Week 96 analysis)
 
-|  | mg/dL | ChangeThe change from baseline is the mean of within-subject changes from baseline for subjects with both baseline and Week 96 values. | mg/dL | Change |
+|  | mg/dL | Change The change from baseline is the mean of within-subject changes from baseline for subjects with both baseline and Week 96 values. | mg/dL | Change |
 | --- | --- | --- | --- | --- |
 |  | VEMLIDY (N=866) |  | TDF (N=432) |  |
 |  | Baseline | Week 96 | Baseline | Week 96 |
