@@ -4,11 +4,11 @@ The following serious adverse reactions are discussed elsewhere in the labeling:
 
 • Hypotension [see Warnings and Precautions (5.1)]
 
-• Visual Loss [see Warnings and Precautions (5.5) and Patient Counseling Information (17)]
+• Visual Loss [see Warnings and Precautions (5.3) and Patient Counseling Information (17)]
 
-• Hearing loss [see Warnings and Precautions (5.6)]
+• Hearing loss [see Warnings and Precautions (5.4)]
 
-• Priapism [see Warnings and Precautions (5.8)]
+• Priapism [see Warnings and Precautions (5.6)]
 
 ## 6.1 Clinical Trials Experience
 
@@ -44,7 +44,7 @@ These events have been chosen for inclusion either because of their seriousness,
 Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to estimate reliably their frequency or establish a causal relationship to drug exposure.
 The list does not include adverse events that are reported from clinical trials and that are listed elsewhere in this section.
 
-Cardiovascular and cerebrovascular — Serious cardiovascular events, including myocardial infarction, sudden cardiac death, stroke, chest pain, palpitations, and tachycardia, have been reported postmarketing in temporal association with the use of tadalafil.
+Cardiovascular and cerebrovascular — Serious cardiovascular events, including myocardial infarction, sudden cardiac death, stroke, chest pain, palpitations, and tachycardia, have been reported postmarketing in temporal association with the use of tadalafil [see Contraindications (4.1)].
 Most, but not all, of these patients had preexisting cardiovascular risk factors.
 Many of these events were reported to occur during or shortly after sexual activity, and a few were reported to occur shortly after the use of tadalafil without sexual activity.
 Others were reported to have occurred hours to days after the use of tadalafil and sexual activity.
@@ -54,11 +54,11 @@ Body as a whole — Hypersensitivity reactions including urticaria, Stevens–Jo
 
 Nervous — Migraine, seizure and seizure recurrence, and transient global amnesia
 
-Ophthalmologic — Visual field defect, retinal vein occlusion, retinal artery occlusion, and NAION [see Warnings and Precautions (5.5) and Patient Counseling Information (17)].
+Ophthalmologic — Visual field defect, retinal vein occlusion, retinal artery occlusion, and NAION [see Warnings and Precautions (5.3) and Patient Counseling Information (17)].
 
 Otologic — Cases of sudden decrease or loss of hearing have been reported postmarketing in temporal association with the use of PDE5 inhibitors, including tadalafil.
 In some of the cases, medical conditions and other factors were reported that may have also played a role in the otologic adverse events.
 In many cases, medical follow-up information was limited.
-It is not possible to determine whether these reported events are related directly to the use of tadalafil, to the patient’s underlying risk factors for hearing loss, a combination of these factors, or to other factors [see Warnings and Precautions (5.6) and Patient Counseling Information (17)].
+It is not possible to determine whether these reported events are related directly to the use of tadalafil, to the patient’s underlying risk factors for hearing loss, a combination of these factors, or to other factors [see Warnings and Precautions (5.4) and Patient Counseling Information (17)].
 
-Urogenital — Priapism [see Warnings and Precautions (5.8)].
+Urogenital — Priapism [see Warnings and Precautions (5.6)].

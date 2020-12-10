@@ -1,8 +1,6 @@
 # PATIENT INFORMATION
 
-Tadalafil Tablets, USP
-
-(ta DAL a fil)
+Tadalafil (ta DAL a fil)Tablets, USP
 
 Read this patient information before you start taking tadalafil tablets and each time you get a refill.
 There may be new information.
@@ -56,7 +54,7 @@ What should I tell my healthcare provider before taking tadalafil tablets?
 
 Before taking tadalafil tablets, tell your healthcare provider about all of your medical conditions, including if you:
 
-• are allergic to tadalafil tablets or CIALIS or any of its ingredients.
+• are allergic to tadalafil tablets or Cialis or any of its ingredients.
 See the end of this leaflet for a complete list of ingredients in tadalafil tablets.
 
 • have pulmonary veno-occlusive disease (PVOD)
@@ -219,8 +217,6 @@ Inactive Ingredients: anhydrous lactose, croscarmellose sodium, hypromellose, ir
 *The brands listed are trademarks of their respective owners and are not trademarks of Dr. Reddys Laboratories Limited.
 The makers of these brands are not affiliated with and do not endorse Dr. Reddys Laboratories Limited or its products.
 
-To reorder additional Patient Information sheets, contact Dr. Reddy’s Customer Service at 1-866-733-3952.
-
 Rx Only
 
 Distributor:
@@ -230,3 +226,5 @@ Dr. Reddy’s Laboratories Inc.,
 Princeton, NJ 08540
 
 Made in India
+
+Revised:0920

@@ -1,133 +1,43 @@
 # 5 WARNINGS AND PRECAUTIONS
 
-## 5.1 Cardiovascular Effects
+## 5.1 Hypotension
 
-Discuss with patients the appropriate action to take in the event that they experience anginal chest pain requiring nitroglycerin following intake of tadalafil.
-At least 48 hours should elapse after the last dose of tadalafil before taking nitrates.
-If a patient has taken tadalafil within 48 hours, administer nitrates under close medical supervision with appropriate hemodynamic monitoring.
-Patients who experience anginal chest pain after taking tadalafil should seek immediate medical attention.
-
-PDE5 inhibitors, including tadalafil, have mild systemic vasodilatory properties that may result in transient decreases in blood pressure.
+Tadalafil has vasodilatory properties that may result in transient decreases in blood pressure.
 Prior to prescribing tadalafil, carefully consider whether patients with underlying cardiovascular disease could be affected adversely by such vasodilatory effects.
-Patients with severely impaired autonomic control of blood pressure or with left ventricular outflow obstruction, (e.g., aortic stenosis and idiopathic hypertrophic subaortic stenosis) may be particularly sensitive to the actions of vasodilators, including PDE5 inhibitors.
+Patients with preexisting hypotension, with autonomic dysfunction, with left ventricular outflow obstruction, may be particularly sensitive to the actions of vasodilators.
 
-Pulmonary vasodilators may significantly worsen the cardiovascular status of patients with pulmonary venoocclusive disease (PVOD).
+## 5.2 Worsening Pulmonary Vascular Occlusive Disease
+
+Pulmonary vasodilators may significantly worsen the cardiovascular status of patients with pulmonary veno-occlusive disease (PVOD).
 Since there are no clinical data on administration of tadalafil to patients with veno-occlusive disease, administration of tadalafil to such patients is not recommended.
 Should signs of pulmonary edema occur when tadalafil is administered, the possibility of associated PVOD should be considered.
 
-There is a lack of data on safety and efficacy in the following groups who were specifically excluded from the PAH clinical trials:
+## 5.3 Visual Loss
 
-• Patients with clinically significant aortic and mitral valve disease
-
-• Patients with pericardial constriction
-
-• Patients with restrictive or congestive cardiomyopathy
-
-• Patients with significant left ventricular dysfunction
-
-• Patients with life-threatening arrhythmias
-
-• Patients with symptomatic coronary artery disease
-
-• Patients with hypotension (<90/50 mm Hg) or uncontrolled hypertension
-
-Use with Alpha Blockers and Antihypertensives
-
-PDE5 inhibitors, including tadalafil, and alpha–adrenergic blocking agents are vasodilators with blood pressure– lowering effects.
-When vasodilators are used in combination, an additive effect on blood pressure may be anticipated.
-In some patients, concomitant use of these two drug classes can lower blood pressure significantly [see Drug Interactions (7.1) and Clinical Pharmacology (12.2)], which may lead to symptomatic hypotension (e.g., fainting).
-Safety of combined use of PDE5 inhibitors and alpha blockers may be affected by other variables, including intravascular volume depletion and use of other antihypertensive drugs [see Drug Interactions (7.1)].
-
-Use with Alcohol
-
-Both alcohol and tadalafil are mild vasodilators.
-When mild vasodilators are taken in combination, blood pressure-lowering effects are increased [see Drug Interactions (7.1) and Clinical Pharmacology (12.2)].
-
-## 5.2 Use with Potent CYP3A Inhibitors or Inducers
-
-Co-administration of Tadalafil in Patients on Ritonavir
-
-In patients receiving ritonavir for at least one week, start tadalafil at 20 mg once daily.
-Increase to 40 mg once daily based upon individual tolerability [see Dosage and Administration (2.3), Drug Interactions (7.2) and Clinical Pharmacology (12.3)].
-
-Co-administration of Ritonavir in Patients on Tadalafil
-
-Avoid use of tadalafil tablets during the initiation of ritonavir.
-Stop tadalafil tablets at least 24 hours prior to starting ritonavir.
-After at least one week following the initiation of ritonavir, resume tadalafil at 20 mg once daily.
-Increase to 40 mg once daily based upon individual tolerability [see Dosage and Administration (2.3), Drug Interactions (7.2) and Clinical Pharmacology (12.3)].
-
-Other Potent Inhibitors of CYP3A
-
-Tadalafil is metabolized predominantly by CYP3A in the liver.
-In patients taking potent inhibitors of CYP3A such as ketoconazole and itraconazole, avoid use of tadalafil [see Drug Interactions (7.2) and Clinical Pharmacology (12.3)].
-
-Potent Inducers of CYP3A
-
-For patients chronically taking potent inducers of CYP3A, such as rifampin, avoid use of tadalafil [see Drug Interactions (7.2) and Clinical Pharmacology (12.3)].
-
-## 5.3 Use in Renal Impairment
-
-In patients with mild or moderate renal impairment
-
-Start dosing at 20 mg once daily.
-Increase the dose to 40 mg once daily based upon individual tolerability [see Dosage and Administration (2.2) and Clinical Pharmacology (12.3)].
-
-In patients with severe renal impairment
-
-Avoid use of tadalafil because of increased tadalafil exposure (AUC), limited clinical experience, and the lack of ability to influence clearance by dialysis [see Dosage and Administration (2.2) and Clinical Pharmacology (12.3)].
-
-## 5.4 Use in Hepatic Impairment
-
-In patients with mild to moderate hepatic cirrhosis (Child-Pugh Class A and B)
-
-Because of limited clinical experience in patients with mild to moderate hepatic cirrhosis, consider a starting dose of 20 mg once daily tadalafil [see Dosage and Administration (2.2) and Clinical Pharmacology (12.3)].
-
-In patients with severe hepatic cirrhosis (Child-Pugh Class C)
-
-Patients with severe hepatic cirrhosis have not been studied.
-Avoid use of tadalafil [see Dosage and Administration (2.2) and Clinical Pharmacology (12.3)].
-
-## 5.5 Visual Loss
-
-Physicians should advise patients to seek immediate medical attention in the event of a sudden loss of vision in one or both eyes.
-Such an event may be a sign of non–arteritic anterior ischemic optic neuropathy (NAION), a cause of decreased vision, including permanent loss of vision, that has been reported postmarketing in temporal association with the use of all PDE5 inhibitors.
+When used to treat erectile dysfunction, non-arteritic anterior ischemic optic neuropathy (NAION), a cause of decreased vision including permanent loss of vision, has been reported postmarketing in temporal association with the use of phosphodiesterase type 5 (PDE-5) inhibitors, including tadalafil.
 Most, but not all, of these patients had underlying anatomic or vascular risk factors for development of NAION, including but not necessarily limited to: low cup to disc ratio (“crowded disc”), age over 50, diabetes, hypertension, coronary artery disease, hyperlipidemia, and smoking.
-Based on published literature, the annual incidence of NAION is 2.5 to 11.8 cases per 100,000 in males aged ≥50 in the general population.
+Based on published literature, the annual incidence of NAION is 2.5-11.8 cases per 100,000 in males aged ≥50 in the general population.
 An observational case-crossover study evaluated the risk of NAION when PDE5 inhibitor use, as a class, typical of erectile dysfunction treatment, occurred immediately before NAION onset (within 5 half-lives), compared to PDE5 inhibitor use in a prior time period.
 The results suggest an approximate 2-fold increase in the risk of NAION, with a risk estimate of 2.15 (95% CI 1.06, 4.34).
 A similar study reported a consistent result, with a risk estimate of 2.27 (95% CI 0.99, 5.20).
 Other risk factors for NAION, such as the presence of “crowded” optic disc, may have contributed to the occurrence of NAION in these studies.
 
-Neither the rare postmarketing reports, nor the association of PDE5 inhibitor use and NAION in the observational studies, substantiate a causal relationship between PDE5 inhibitor use and NAION [see Adverse Reactions (6.2)].
-
-Physicians should also discuss with patients the increased risk of NAION in individuals who have already experienced NAION in one eye, including whether such individuals could be adversely affected by use of vasodilators such as PDE5 inhibitors.
-
 Patients with known hereditary degenerative retinal disorders, including retinitis pigmentosa, were not included in the clinical trials, and use in these patients is not recommended.
 
-## 5.6 Hearing Impairment
+## 5.4 Hearing Impairment
 
-Physicians should advise patients to seek immediate medical attention in the event of sudden decrease or loss of hearing.
-These events, which may be accompanied by tinnitus and dizziness, have been reported in temporal association to the intake of PDE5 inhibitors, including tadalafil.
+Cases of sudden decrease or loss of hearing, which may be accompanied by tinnitus and dizziness, have been reported in patients taking tadalafil.
 It is not possible to determine whether these events are related directly to the use of PDE5 inhibitors or to other factors [see Adverse Reactions (6.2)].
 
-## 5.7 Combination with Other PDE5 Inhibitors
+## 5.5 Combination with Other PDE5 Inhibitors
 
-Tadalafil is also marketed as CIALIS.
-The safety and efficacy of taking tadalafil tablets together with CIALIS or other PDE5 inhibitors have not been studied.
-Inform patients taking tadalafil tablets not to take CIALIS or other PDE5 inhibitors.
+Tadalafil is also marketed for erectile dysfunction.
+The safety and efficacy of taking tadalafil together with another PDE5 inhibitor has not been studied.
+Inform patients taking tadalafil not to take other PDE5 inhibitors.
 
-## 5.8 Prolonged Erection
+## 5.6 Prolonged Erection
 
-There have been rare reports of prolonged erections greater than 4 hours and priapism (painful erections greater than 6 hours in duration) for this class of compounds.
+There have been reports of prolonged erections greater than 4 hours and priapism (painful erections greater than 6 hours in duration) for this class of compounds.
+Patients with conditions that might predispose them to priapism (such as sickle cell anemia, multiple myeloma, or leukemia), or in patients with anatomical deformation of the penis (such as angulation, cavernosal fibrosis, or Peyronie’s disease) are at an increased risk.
 Priapism, if not treated promptly, can result in irreversible damage to the erectile tissue.
 Patients who have an erection lasting greater than 4 hours, whether painful or not, should seek emergency medical attention.
-
-Tadalafil should be used with caution in patients who have conditions that might predispose them to priapism (such as sickle cell anemia, multiple myeloma, or leukemia), or in patients with anatomical deformation of the penis (such as angulation, cavernosal fibrosis, or Peyronie’s disease).
-
-## 5.9 Effects on Bleeding
-
-PDE5 is found in platelets.
-When administered in combination with aspirin, tadalafil 20 mg did not prolong bleeding time, relative to aspirin alone.
-Tadalafil has not been administered to patients with bleeding disorders or significant active peptic ulceration.
-Although tadalafil has not been shown to increase bleeding times in healthy subjects, use in patients with bleeding disorders or significant active peptic ulceration should be based upon a careful risk-benefit assessment.
