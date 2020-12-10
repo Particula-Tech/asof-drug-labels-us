@@ -1,6 +1,6 @@
 # 17 PATIENT COUNSELING INFORMATION
 
-Advise the patient to read the FDA-approved patient labeling (Patient Information)
+Advise the patient to read the FDA-approved patient labeling (Patient Information).
 
 Monotherapy
 
@@ -17,12 +17,12 @@ Lactation:
 
 - Advise women not to breastfeed during treatment with Fulvestrant Injection and for one year after the last dose [see Use in Specific Populations (8.2)].
 
-Combination Therapy with Palbociclib
+Combination Therapy
 
 When Fulvestrant Injection is used in combination with palbociclib, abemaciclib, or ribociclib, refer to the respective Full Prescribing Information for Patient Counseling Information.
 
 Manufactured for:
 
-Lake Zurich, IL 60047 www.fresenius-kabi.com/us Made in Austria 451542
+Lake Zurich, IL 60047 www.fresenius-kabi.com/us Made in Austria
 
-Issued: May 2019
+451542A

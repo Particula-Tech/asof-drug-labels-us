@@ -16,7 +16,7 @@ Monotherapy
 Comparison of Fulvestrant Injection 500 mg and Fulvestrant Injection 250 mg (CONFIRM)
 
 The following adverse reactions (ARs) were calculated based on the safety analysis of CONFIRM comparing the administration of fulvestrant 500 mg intramuscularly once a month with fulvestrant 250 mg intramuscularly once a month.
-The most frequently reported adverse reactions in the fulvestrant 500 mg group were injection site pain (11.6% of patients), nausea (9.7% of patients) and bone pain (9.4% of patients); the most frequently reported adverse reactions in the fulvestrant 250 mg group were nausea (13.6% of patients), back pain (10.7% of patients) and injection site pain (9.1% of patients).
+The most frequently reported adverse reactions in the fulvestrant 500 mg group were injection site pain (11.6% of patients), nausea (9.7% of patients), and bone pain (9.4% of patients); the most frequently reported adverse reactions in the fulvestrant 250 mg group were nausea (13.6% of patients), back pain (10.7% of patients), and injection site pain (9.1% of patients).
 
 Table 1 lists adverse reactions reported with an incidence of 5% or greater, regardless of assessed causality, from CONFIRM.
 
@@ -57,9 +57,9 @@ The safety of fulvestrant 500 mg versus anastrozole 1 mg was evaluated in FALCON
 The data described below reflect exposure to fulvestrant in 228 out of 460 patients with HR-positive advanced breast cancer in postmenopausal women not previously treated with endocrine therapy who received at least one (1) dose of treatment in FALCON.
 
 Permanent discontinuation associated with an adverse reaction occurred in 4 of 228 (1.8%) patients receiving fulvestrant, and in 3 of 232 (1.3%) patients receiving anastrozole.
-Adverse reactions leading to discontinuation for those patients receiving fulvestrant included drug hypersensitivity (0.9%), injection site hypersensitivity (0.4%) and elevated liver enzymes (0.4%).
+Adverse reactions leading to discontinuation for those patients receiving fulvestrant included drug hypersensitivity (0.9%), injection site hypersensitivity (0.4%), and elevated liver enzymes (0.4%).
 
-The most common adverse reactions (≥10%) of any grade reported in patients in the fulvestrant arm were arthralgia, hot flash, fatigue and nausea.
+The most common adverse reactions (≥10%) of any grade reported in patients in the fulvestrant arm were arthralgia, hot flash, fatigue, and nausea.
 
 Adverse reactions reported in patients who received fulvestrant in FALCON at an incidence of ≥5% in either treatment arm are listed in Table 2, and laboratory abnormalities are listed in Table 3.
 
@@ -92,13 +92,11 @@ Table 3: Laboratory Abnormalities in FALCON1
 
 Comparison of Fulvestrant Injection 250 mg and Anastrozole 1 mg in Combined Trials (Studies 0020 and 0021)
 
-The most commonly reported adverse reactions in the fulvestrant and anastrozole treatment groups were gastrointestinal symptoms (including nausea, vomiting, constipation, diarrhea and abdominal pain), headache, back pain, vasodilatation (hot flashes), and pharyngitis.
+The most commonly reported adverse reactions in the fulvestrant and anastrozole treatment groups were gastrointestinal symptoms (including nausea, vomiting, constipation, diarrhea, and abdominal pain), headache, back pain, vasodilatation (hot flashes), and pharyngitis.
 
 Injection site reactions with mild transient pain and inflammation were seen with fulvestrant and occurred in 7% of patients given the single 5 mL injection (Study 0020) and in 27% of patients given the 2 x 2.5 mL injections (Study 0021) in the two clinical trials that compared fulvestrant 250 mg and anastrozole 1 mg.
 
-Table 4 lists adverse reactions reported with an incidence of 5% or greater, regardless of assessed
-
-causality, from the two controlled clinical trials comparing the administration of fulvestrant 250 mg intramuscularly once a month with anastrozole 1 mg orally once a day.
+Table 4 lists adverse reactions reported with an incidence of 5% or greater, regardless of assessed causality, from the two controlled clinical trials comparing the administration of fulvestrant 250 mg intramuscularly once a month with anastrozole 1 mg orally once a day.
 
 Table 4: Adverse Reactions in Studies 0020 and 0021 (≥ 5% from Combined Data)
 
@@ -147,6 +145,8 @@ Table 4: Adverse Reactions in Studies 0020 and 0021 (≥ 5% from Combined Data)
 | Urogenital System | 18 | 15 |
 | Urinary Tract Infection | 6 | 4 |
 | 1. Including more severe injection site related sciatica, neuralgia, neuropathic pain, and peripheral neuropathy. All patients on fulvestrant received injections, but only those anastrozole patients who were in Study 0021 received placebo injections. |  |  |
+
+Combination Therapy
 
 Combination Therapy with Palbociclib (PALOMA-3)
 
