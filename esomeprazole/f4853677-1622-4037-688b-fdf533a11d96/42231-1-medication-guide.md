@@ -23,8 +23,8 @@ Talk with your doctor.
 
 NEXIUM can cause serious side effects, including:
 
-- •A type of kidney problem (acute interstitial nephritis).
-  Some people who take proton pump inhibitor (PPI) medicines, including NEXIUM, may develop a kidney problem called acute interstitial nephritis that can happen at any time during treatment with NEXIUM.
+- •A type of kidney problem (acute tubulointerstitial nephritis).
+  Some people who take proton pump inhibitor (PPI) medicines, including NEXIUM, may develop a kidney problem called acute tubulointerstitial nephritis that can happen at any time during treatment with NEXIUM.
   Call your doctor if you have a decrease in the amount that you urinate or if you have blood in your urine.
 - •Diarrhea.
   NEXIUM may increase your risk of getting severe diarrhea.
@@ -235,9 +235,9 @@ AstraZeneca Pharmaceuticals LP
 
 Wilmington, DE 19850
 
-Revised 06/2018
+Revised 11/2020
 
 NEXIUM is a registered trademark of the AstraZeneca group of companies.
 
-©2018 AstraZeneca Pharmaceuticals LP.
+©2020 AstraZeneca Pharmaceuticals LP.
 All rights reserved
