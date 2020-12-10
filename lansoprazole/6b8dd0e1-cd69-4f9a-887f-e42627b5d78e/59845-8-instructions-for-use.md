@@ -47,9 +47,9 @@ Keep lansoprazole delayed-release orally disintegrating tablets and all medicine
 This Instruction for Use has been approved by the U.S. Food and Drug Administration.
 
 Manufactured In Israel By: Teva Pharmaceutical Ind.
-Ltd. Jerusalem, 9777402, Israel
+Ltd. Kfar Saba, 4410202, Israel
 
-Manufactured For: Teva Pharmaceuticals USA, Inc. North Wales, PA 19454
+Manufactured For: Teva Pharmaceuticals USA, Inc. Parsippany, NJ 07054
 
 Rev.
-B 2/2020
+C 9/2020

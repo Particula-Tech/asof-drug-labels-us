@@ -141,7 +141,7 @@ NSAID-Associated Gastric Ulcer Healing Rates*
 | Week 4 | 60% (53/88)‡ | 28% (23/83) |
 | Week 8 | 79% (62/79)‡ | 55% (41/74) |
 | Study #2 |  |  |
-|  | Lansoprazole30 mg daily | Active Control† |
+|  | Lansoprazole 30 mg daily | Active Control† |
 | Week 4 | 53% (40/75) | 38% (31/82) |
 | Week 8 | 77% (47/61)‡ | 50% (33/66) |
 | * Actual observed ulcer(s) healed at time points ±2 days. |  |  |
@@ -159,7 +159,7 @@ The 30 mg dose of lansoprazole demonstrated no additional benefit in risk reduct
 Table 16.
 Proportion of Patients Remaining Free of Gastric Ulcers*
 
-| Week | Lansoprazole15 mg daily | Lansoprazole 30 mg daily | Misoprostol 200 mcg four times daily | Placebo |
+| Week | Lansoprazole 15 mg daily | Lansoprazole 30 mg daily | Misoprostol 200 mcg four times daily | Placebo |
 | --- | --- | --- | --- | --- |
 | (N=121) | (N=116) | (N=106) | (N=112) |  |
 | 4 | 90% | 92% | 96% | 66% |

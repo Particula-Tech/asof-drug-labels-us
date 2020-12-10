@@ -56,9 +56,9 @@ Lansoprazole delayed-release orally disintegrating tablets
 - Alternatively, for children or other patients who have difficulty swallowing tablets, lansoprazole delayed-release orally disintegrating tablets can be administered with water via oral syringe or NG tube, as described in the Instructions for Use.
 
 Manufactured In Israel By: Teva Pharmaceutical Ind.
-Ltd. Jerusalem, 9777402, Israel
+Ltd. Kfar Saba, 4410202, Israel
 
-Manufactured For: Teva Pharmaceuticals USA, Inc. North Wales, PA 19454
+Manufactured For: Teva Pharmaceuticals USA, Inc. Parsippany, NJ 07054
 
 Rev.
-D 9/2020
+E 9/2020
