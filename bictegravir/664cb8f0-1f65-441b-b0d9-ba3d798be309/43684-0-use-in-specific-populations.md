@@ -91,8 +91,8 @@ Clinical trials of BIKTARVY did not include sufficient numbers of subjects aged 
 
 ## 8.6 Renal Impairment
 
-BIKTARVY is not recommended in patients with severe renal impairment (estimated creatinine clearance (CLcr) below 30 mL per minute, estimated by Cockcroft-Gault (C-G).
-No dosage adjustment of BIKTARVY is recommended in patients with CLcr greater than or equal to 30 mL per minute [see Dosage and Administration (2.3)].
+BIKTARVY is not recommended in patients with severe renal impairment (estimated creatinine clearance (CL cr) below 30 mL per minute, estimated by Cockcroft-Gault (C-G).
+No dosage adjustment of BIKTARVY is recommended in patients with CL cr greater than or equal to 30 mL per minute [see Dosage and Administration (2.3)].
 
 ## 8.7 Hepatic Impairment
 
