@@ -162,6 +162,8 @@ Because these reactions are reported voluntarily from a population of uncertain 
   - -Nervous system malformations: such as spina bifida.
 - Cardiovascular: Venous thrombosis has been reported in patients treated with CELLCEPT administered intravenously.
 - Digestive: Colitis, pancreatitis
+- General Disorders and Administration Site Conditions: De novo purine synthesis inhibitors-associated acute inflammatory syndrome is a newly described paradoxical pro-inflammatory reaction associated with mycophenolate and other purine synthesis inhibitors, characterized by fever, arthralgias, arthritis, muscle pain and elevated inflammatory markers.
+  Anecdotal literature reports showed rapid improvements following discontinuation of the drug.
 - Hematologic and Lymphatic: Bone marrow failure, cases of pure red cell aplasia (PRCA) and hypogammaglobulinemia have been reported in patients treated with CELLCEPT in combination with other immunosuppressive agents [see Warnings and Precautions (5.4)].
 - Immune: Hypersensitivity, hypogammaglobinemia.
 - Infections: Meningitis, infectious endocarditis, tuberculosis, atypical mycobacterial infection, progressive multifocal leukoencephalopathy, BK virus infection, viral reactivation of hepatitis B and hepatitis C, protozoal infections [see Warnings and Precautions (5.3)].
