@@ -11,7 +11,7 @@ In animal reproduction and development studies in normotensive animals, evidence
 Decreased pup weights were noted in offspring of pregnant rats treated with 2.9 times the HDD [See Data].
 The estimated background risk of major birth defects and miscarriage for the indicated population are unknown.
 All pregnancies have a background risk of birth defect, loss, or other adverse outcomes.
-In the U.S. general population, the estimated background risk of major birth defects and miscarriage in clinically recognized pregnancies is 24% and 15-20%, respectively.
+In the U.S. general population, the estimated background risk of major birth defects and miscarriage in clinically recognized pregnancies is 2-4% and 15-20%, respectively.
 
 Clinical Considerations
 

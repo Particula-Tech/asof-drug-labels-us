@@ -6,6 +6,6 @@ meitheal®
 
 Mfd. for Meitheal Pharmaceuticals Chicago, IL 60631 (USA) ©2020 Meitheal Pharmaceuticals Inc.
 
-June 2020
+November 2020
 
 810044-01
