@@ -2,8 +2,7 @@
 
 Omalizumab is a recombinant DNA-derived humanized IgG1κ monoclonal antibody that selectively binds to human immunoglobulin E (IgE).
 The antibody has a molecular weight of approximately 149 kiloDaltons.
-XOLAIR is produced by a Chinese hamster ovary cell suspension culture in a nutrient medium that may contain the antibiotic gentamicin.
-Gentamicin is not detectable in the final product.
+XOLAIR is produced by a Chinese hamster ovary cell suspension culture.
 
 XOLAIR (omalizumab) is administered as a subcutaneous (SC) injection and is available in prefilled syringes and in vials.
 
