@@ -1,4 +1,4 @@
-# Instructions for Opening Ampule
+# INSTRUCTIONS FOR OPENING AMPULE
 
 |  | Step 1 |
 | --- | --- |
@@ -19,12 +19,10 @@ Or
 GlaxoSmithKline Manufacturing S.p.A.
 Parma, Italy
 
-Manufactured for: Patriot Pharmaceuticals, LLC
-
-Horsham, PA 19044
+Manufactured for: Patriot Pharmaceuticals, LLC Horsham, PA 19044
 
 For more information, call 1-800-667-8570
 
-Revised March 2019
+Revised December 2020
 
 © 2011 Patriot

@@ -1,6 +1,6 @@
 # CONTRAINDICATIONS
 
-Since the pharmacologic and clinical actions of Haloperidol Decanoate 50 and Haloperidol Decanoate 100 are attributed to haloperidol as the active medication, Contraindications, Warnings, and additional information are those of haloperidol, modified only to reflect the prolonged action.
+Since the pharmacologic and clinical actions of Haloperidol decanoate 50 and Haloperidol decanoate 100 are attributed to haloperidol as the active medication, Contraindications, Warnings, and additional information are those of haloperidol, modified only to reflect the prolonged action.
 
 Haloperidol is contraindicated in patients with:
 

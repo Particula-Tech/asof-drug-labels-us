@@ -33,7 +33,7 @@ The most common adverse reactions in haloperidol decanoate-treated patients in t
 Adverse reactions occurring in ≥1% of haloperidol decanoate-treated patients in a double-blind, clinical trial with the active comparator fluphenazine decanoate are shown in Table 1.
 
 Table 1.
-Adverse Reactions Reported by ≥1% of Haloperidol Decanoate-treated Patients in a Double-Blind Active Comparator-Controlled Clinical Trial with Fluphenazine Decanaote
+Adverse Reactions Reported by ≥1% of Haloperidol Decanoate-treated Patients in a Double-Blind Active Comparator-Controlled Clinical Trial with Fluphenazine Decanoate
 
 | System/Organ Class Adverse Reaction | Haloperidol decanoate (n=36) % | Fluphenazine decanoate (n=36) % |
 | --- | --- | --- |
