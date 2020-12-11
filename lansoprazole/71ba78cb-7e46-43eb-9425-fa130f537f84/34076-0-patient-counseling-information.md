@@ -4,9 +4,9 @@ Advise the patient to read the FDA-approved patient labeling (Medication Guide a
 
 Advise patients to:
 
-Acute Interstitial Nephritis
+Acute Tubulointerstitial Nephritis
 
-To call their healthcare provider if they experience signs and/or symptoms associated with acute interstitial nephritis [see Warnings and Precautions (5.2)].
+To call their healthcare provider if they experience signs and/or symptoms associated with acute tubulointerstitial nephritis [see Warnings and Precautions (5.2)].
 
 Clostridium difficile-Associated Diarrhea
 
