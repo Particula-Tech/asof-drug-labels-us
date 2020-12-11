@@ -40,15 +40,15 @@ Active ingredient: estradiol.
 
 Inactive ingredients: purified water, ethanol, propylene glycol, diethylene glycol monoethyl ether, carbomer homopolymer type C, triethanolamine, and edetate disodium.
 
-MEDA PHARMACEUTICALS and the MEDA PHARMACEUTICALS logo are trademarks and ELESTRIN is a registered trademark of Meda AB or a related entity.
+ELESTRIN is a registered trademark of Meda Pharma S.a.r.l., a Mylan company.
 
 Distributed by: MEDA Pharmaceuticals Inc. Somerset, New Jersey 08873-4120
 
-© 2020 Meda Pharmaceuticals Inc.
+©2020 Mylan N.V.
 
 U.S. Pat.
 No. 7,198,801 and U.S. Pat.
 No. 7,470,433
 
 Rev.
-10/2020 IN-0480-XX 140893
+10/2020 IN-0480-06 141182-1120
