@@ -35,7 +35,7 @@ The prevalence of major birth defects in live births was 2.4% (95% CI: 1.9% to 3
 Rilpivirine: RPV in combination with a background regimen was evaluated in a clinical trial of 19 HIV-1 infected pregnant subjects on an RPV-based regimen during the second and third trimesters and postpartum.
 Each of the subjects were on an RPV-based regimen at the time of enrollment.
 Twelve subjects completed the trial through the postpartum period (6–12 weeks after delivery) and pregnancy outcomes are missing for six subjects.
-The exposure (C0h and AUC) of total RPV was approximately 30 to 40% lower during pregnancy compared with postpartum (6 to 12 weeks).
+The exposure (C 0h and AUC) of total RPV was approximately 30 to 40% lower during pregnancy compared with postpartum (6 to 12 weeks).
 The protein binding of RPV was similar (>99%) during second trimester, third trimester, and postpartum period [see Clinical Pharmacology (12.3)].
 One subject discontinued the trial following fetal death at 25 weeks gestation due to suspected premature rupture of membranes.
 Among the 12 subjects who were virologically suppressed at baseline (less than 50 copies/mL), virologic response was preserved in 10 subjects (83.3%) through the third trimester visit and in 9 subjects (75%) through the 6–12 week postpartum visit.

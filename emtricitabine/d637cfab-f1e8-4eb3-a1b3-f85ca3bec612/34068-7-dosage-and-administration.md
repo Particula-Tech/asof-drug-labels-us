@@ -23,4 +23,4 @@ COMPLERA is not recommended in patients with moderate or severe renal impairment
 
 ## 2.5 Recommended Dosage with Rifabutin Coadministration
 
-If COMPLERA is coadministered with rifabutin, take an additional 25 mg tablet of rilpivirine (Edurant®) with COMPLERA once daily with a meal for the duration of the rifabutin coadministration [see Drug Interactions (7.6) and Clinical Pharmacology (12.3)].
+If COMPLERA is coadministered with rifabutin, take an additional 25 mg tablet of rilpivirine (Edurant ®) with COMPLERA once daily with a meal for the duration of the rifabutin coadministration [see Drug Interactions (7.6) and Clinical Pharmacology (12.3)].

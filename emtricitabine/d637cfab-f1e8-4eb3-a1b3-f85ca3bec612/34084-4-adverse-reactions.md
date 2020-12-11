@@ -2,7 +2,7 @@
 
 The following adverse reactions are discussed in other sections of the labeling:
 
-- Severe Acute Exacerbations of Hepatitis B in Patients Coinfected with HIV-1 and HBV[see Warnings and Precautions (5.1)].
+- Severe Acute Exacerbations of Hepatitis B in Patients Coinfected with HIV-1 and HBV [see Warnings and Precautions (5.1)].
 - Skin and Hypersensitivity Reactions [see Warnings and Precautions (5.2)].
 - Hepatotoxicity [see Warnings and Precautions (5.3)].
 - Depressive Disorders [see Warnings and Precautions (5.4)].
@@ -36,13 +36,13 @@ Rash led to discontinuation in 1 (0.2%) subject in the RPV + FTC/TDF arm and 10 
 
 Common Adverse Reactions: Clinical adverse reactions to RPV or EFV of at least moderate intensity (≥Grade 2) reported in at least 2% of adult subjects are shown in Table 1.
 
-Table 1 Selected Adverse ReactionsFrequencies of adverse reactions are based on all Grades 2–4 treatment-emergent adverse events assessed to be related to study drug.
+Table 1 Selected Adverse Reactions Frequencies of adverse reactions are based on all Grades 2–4 treatment-emergent adverse events assessed to be related to study drug.
 (Grades 2–4) Reported in ≥2% of Adult Subjects Receiving RPV or EFV in Combination with FTC/TDF in Studies C209 and C215 (Week 96 Analysis)
 
 | N=550 | N=546 |  |
 | --- | --- | --- |
 | Preferred Term | RPV + FTC/TDF | EFV + FTC/TDF |
-| Depressive disordersIncludes adverse reactions reported as depressed mood, depression, dysphoria, major depression, mood altered, negative thoughts, suicide attempt, suicide ideation. | 2% | 2% |
+| Depressive disorders Includes adverse reactions reported as depressed mood, depression, dysphoria, major depression, mood altered, negative thoughts, suicide attempt, suicide ideation. | 2% | 2% |
 | Headache | 2% | 2% |
 | Insomnia | 2% | 2% |
 | Abnormal dreams | 1% | 3% |
@@ -105,7 +105,7 @@ Table 2 Selected Laboratory Abnormalities (Grades 1–4) Reported in Adult Subje
 | Grade 4 | >1200 mg/dL | 0 | 1% |
 | N=number of subjects per treatment group ULN=Upper limit of normal value. Note: Percentages were calculated versus the number of subjects in ITT population with FTC + TDF as background regimen. |  |  |  |
 
-Emtricitabine or Tenofovir DF: The following Grade 3 or 4 laboratory abnormalities have been previously reported in subjects treated with FTC or TDF with other antiretroviral agents in other clinical trials: increased pancreatic amylase (>2.0 × ULN), increased serum amylase (>175 U/L), increased lipase (>3.0 × ULN), increased alkaline phosphatase (>550 U/L), increased or decreased serum glucose (<40 or >250 mg/dL), increased glycosuria (≥3+), increased creatine kinase (M: >990 U/L; F: >845 U/L), decreased neutrophils (<750/mm3), and increased hematuria (>75 RBC/HPF).
+Emtricitabine or Tenofovir DF: The following Grade 3 or 4 laboratory abnormalities have been previously reported in subjects treated with FTC or TDF with other antiretroviral agents in other clinical trials: increased pancreatic amylase (>2.0 × ULN), increased serum amylase (>175 U/L), increased lipase (>3.0 × ULN), increased alkaline phosphatase (>550 U/L), increased or decreased serum glucose (<40 or >250 mg/dL), increased glycosuria (≥3+), increased creatine kinase (M: >990 U/L; F: >845 U/L), decreased neutrophils (<750/mm 3), and increased hematuria (>75 RBC/HPF).
 
 Adrenal Function: In the pooled Phase 3 trials of C209 and C215, in subjects treated with RPV plus any of the allowed background regimens (N=686), at Week 96 there was an overall mean change from baseline in basal cortisol of –0.69 (−1.12, 0.27) micrograms/dL in the RPV group, and of −0.02 (−0.48, 0.44) micrograms/dL in the EFV group.
 
@@ -122,9 +122,9 @@ Creatinine increases were comparable by background N(t)RTIs.
 
 Serum Lipids: Changes from baseline in total cholesterol, LDL-cholesterol, and triglycerides are presented in Table 3.
 
-Table 3 Lipid Values Reported in Adult Subjects Receiving RPV or EFV in Combination with FTC/TDF in Studies C209 and C215Excludes subjects who received lipid lowering agents during the treatment period.
+Table 3 Lipid Values Reported in Adult Subjects Receiving RPV or EFV in Combination with FTC/TDF in Studies C209 and C215 Excludes subjects who received lipid lowering agents during the treatment period.
 
-| Mean |  | Mean (mg/dL) | Mean (mg/dL) | Mean ChangeThe change from baseline is the mean of within-patient changes from baseline for patients with both baseline and Week 96 values. (mg/dL) |  | Mean (mg/dL) | Mean (mg/dL) | Mean Change (mg/dL) |
+| Mean |  | Mean (mg/dL) | Mean (mg/dL) | Mean Change The change from baseline is the mean of within-patient changes from baseline for patients with both baseline and Week 96 values. (mg/dL) |  | Mean (mg/dL) | Mean (mg/dL) | Mean Change (mg/dL) |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 |  | Pooled Data from the Week 96 Analysis of C209 and C215 Trials |  |  |  |  |  |  |  |
 |  | RPV + FTC/TDF N=550 |  |  |  | EFV + FTC/TDF N=546 |  |  |  |
@@ -142,7 +142,7 @@ The pharmacokinetic exposure of RPV in coinfected subjects was comparable to tha
 Adverse Reactions from Clinical Trials Experience in Pediatric Subjects
 
 Emtricitabine: In addition to the adverse reactions reported in adults, anemia and hyperpigmentation were observed in 7% and 32%, respectively, of pediatric subjects (3 months to less than 18 years of age) who received treatment with FTC in the larger of two open-label, uncontrolled pediatric trials (N=116).
-For additional information, please consult the EMTRIVA® prescribing information.
+For additional information, please consult the EMTRIVA ® prescribing information.
 
 Rilpivirine: The safety assessment is based on the Week 48 analysis of the single-arm, open-label Phase 2 trial, TMC278-C213, in which 36 antiretroviral treatment-naïve HIV-1-infected subjects 12 to less than 18 years of age and weighing at least 32 kg received RPV (25 mg once daily) in combination with other antiretroviral agents.
 The median duration of exposure for subjects was 63.5 weeks.
@@ -166,7 +166,7 @@ Overall, there were no serious adverse events, deaths, or treatment discontinuat
 The clinical significance of the abnormal 250 micrograms ACTH stimulation tests is not known.
 
 Tenofovir DF: In a pediatric clinical trial conducted in subjects 12 to less than 18 years of age, the adverse reactions observed in pediatric subjects who received treatment with TDF were consistent with those observed in clinical trials of TDF in adults [see Warnings and Precautions (5.6)].
-For additional information, including information on bone mineral density changes, please consult the VIREAD® prescribing information.
+For additional information, including information on bone mineral density changes, please consult the VIREAD ® prescribing information.
 
 ## 6.2 Postmarketing Experience
 
