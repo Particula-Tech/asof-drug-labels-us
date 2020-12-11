@@ -43,10 +43,10 @@ The Refill Kit will include foil pouches containing 60 vials of LONHALA (2 vials
 
 Important: Instruct patients to throw away the old Handset parts after using 60 vials of LONHALA and use the replacement Handset parts with the next 60 vials of LONHALA.
 
-Manufactured for Sunovion Respiratory Development Inc., 84 Waterford Drive Marlborough, MA 01752 USA a direct wholly-owned subsidiary of Sunovion Pharmaceuticals Inc. Made in Germany.
+Manufactured for Sunovion Respiratory Development Inc., a direct wholly-owned subsidiary of Sunovion Pharmaceuticals Inc. 84 Waterford Drive Marlborough, MA 01752 USA
 
 For Sunovion customer service, call 1-888-394-7377.
 For medical information, call 1-800-739-0565.
 To report suspected adverse events, call 1-877-737-7226.
 
-©2019 Sunovion Pharmaceuticals Inc. All rights reserved.
+©2020 Sunovion Pharmaceuticals Inc. All rights reserved.
