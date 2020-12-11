@@ -2,8 +2,7 @@
 
 ## 2.1 Important Administration Information
 
-Withhold for at least 28 days prior to elective surgery.
-Do not administer Avastin until at least 28 days following surgery and until adequate wound healing.
+Do not administer Avastin until at least 28 days following surgery and the wound is fully healed.
 
 ## 2.2 Metastatic Colorectal Cancer
 
@@ -49,13 +48,7 @@ The recommended dosage is 15 mg/kg intravenously every 3 weeks, in combination w
 
 The recommended dosage is 15 mg/kg intravenously every 3 weeks, in combination with carboplatin and gemcitabine for 6 to 10 cycles, followed by Avastin 15 mg/kg every 3 weeks as a single agent until disease progression.
 
-## 2.8 Hepatocellular Carcinoma
-
-The recommended dosage is 15 mg/kg intravenously after administration of 1,200 mg of atezolizumab intravenously on the same day, every 3 weeks until disease progression or unacceptable toxicity.
-
-Refer to the Prescribing Information for atezolizumab prior to initiation for recommended dosage information.
-
-## 2.9 Dosage Modifications for Adverse Reactions
+## 2.8 Dosage Modifications for Adverse Reactions
 
 Table 1 describes dosage modifications for specific adverse reactions.
 No dose reductions for Avastin are recommended.
@@ -65,8 +58,7 @@ Table 1: Dosage Modifications for Adverse Reactions
 | Adverse Reaction | Severity | Dosage Modification |
 | --- | --- | --- |
 | Gastrointestinal Perforations and Fistulae [see Warnings and Precautions (5.1)]. | Gastrointestinal perforation, any gradeTracheoesophageal fistula, any gradeFistula, Grade 4Fistula formation involving any internal organ | Discontinue Avastin |
-| Wound Healing Complications [see Warnings and Precautions (5.2)]. | Any | Withhold AVASTIN until adequate wound healing.The safety of resumption of AVASTIN after resolution of wound healing complications has not been established. |
-| Necrotizing fasciitis | Discontinue Avastin |  |
+| Wound Healing Complications [see Warnings and Precautions (5.2)]. | Wound healing complications requiring medical interventionNecrotizing fasciitis | Discontinue Avastin |
 | Hemorrhage [see Warnings and Precautions (5.3)]. | Grade 3 or 4 | Discontinue Avastin |
 | Recent history of hemoptysis of 1/2 teaspoon (2.5 mL) or more | Withhold Avastin |  |
 | Thromboembolic Events [see Warnings and Precautions (5.4, 5.5)]. | Arterial thromboembolism, severe | Discontinue Avastin |
@@ -81,7 +73,7 @@ Table 1: Dosage Modifications for Adverse Reactions
 | Mild, clinically insignificant | Decrease infusion rate |  |
 | Congestive Heart Failure [see Warnings and Precautions (5.12)]. | Any | Discontinue Avastin |
 
-## 2.10 Preparation and Administration
+## 2.9 Preparation and Administration
 
 Preparation
 

@@ -13,9 +13,9 @@ The median age was 60 years; 60% were male, 79% were White, 57% had an ECOG perf
 The dominant site of disease was extra-abdominal in 56% of patients and was the liver in 38% of patients.
 
 The addition of Avastin improved survival across subgroups defined by age (< 65 years, ≥ 65 years) and sex.
-Results are presented in Table 11 and Figure 1.
+Results are presented in Table 9 and Figure 1.
 
-Table 11: Efficacy Results in Study AVF2107g
+Table 9: Efficacy Results in Study AVF2107g
 
 | Efficacy Parameter | Avastin with bolus-IFL (N=402) | Placebo with bolus-IFL (N=411) |
 | --- | --- | --- |
@@ -73,9 +73,9 @@ Second-line chemotherapy regimens were generally balanced between each arm.
 
 The addition of Avastin to fluoropyrimidine-based chemotherapy resulted in a statistically significant prolongation of OS and PFS.
 There was no significant difference in ORR.
-Results are presented in Table 12 and Figure 2.
+Results are presented in Table 10 and Figure 2.
 
-Table 12: Efficacy Results in Study ML18147
+Table 10: Efficacy Results in Study ML18147
 
 | Efficacy Parameter | Avastin with Chemotherapy (N=409) | Chemotherapy (N=411) |
 | --- | --- | --- |
@@ -220,12 +220,12 @@ Of the 452 patients randomized at baseline, 78% of patients were White, 80% had 
 Patients had a GOG performance status of 0 (58%) or 1 (42%).
 Demographic and disease characteristics were balanced across arms.
 
-Results are presented in Figure 5 and Table 13.
+Results are presented in Figure 5 and Table 11.
 
 | Figure 5: Kaplan-Meier Curves for Overall Survival in Persistent, Recurrent, or Metastatic Cervical Cancer in Study GOG-0240 |
 | --- |
 
-Table 13: Efficacy Results in Study GOG-0240
+Table 11: Efficacy Results in Study GOG-0240
 
 | Efficacy Parameter | Avastin with Chemotherapy (N=227) | Chemotherapy (N=225) |
 | --- | --- | --- |
@@ -236,7 +236,7 @@ Table 13: Efficacy Results in Study GOG-0240
 
 The ORR was higher in patients who received Avastin with chemotherapy [45% (95% CI: 39, 52)] compared to patients who received chemotherapy alone [34% (95% CI: 28,40)].
 
-Table 14: Efficacy Results in Study GOG-0240
+Table 12: Efficacy Results in Study GOG-0240
 
 | Efficacy Parameter | Topotecan and Paclitaxel with or without Avastin (N=223) | Cisplatin and Paclitaxel with or without Avastin (N=229) |
 | --- | --- | --- |
@@ -272,9 +272,9 @@ Overall, approximately 34% of patients had resected FIGO Stage III with residual
 The majority of patients in all three treatment arms received subsequent antineoplastic treatment, 78.1% in the CPP arm, 78.6% in the CPB15 arm, and 73.2% in the CPB15+ arm.
 A higher proportion of patients in the CPP arm (25.3%) and CPB15 arm (26.6%) received at least one anti-angiogenic (including bevacizumab) treatment after discontinuing from study compared with the CPB15+ arm (15.6%).
 
-Study results are presented in Table 15 and Figure 6.
+Study results are presented in Table 13 and Figure 6.
 
-Table 15: Efficacy Results in Study GOG-0218
+Table 13: Efficacy Results in Study GOG-0218
 
 | Efficacy Parameter | Avastin with carboplatin and paclitaxel followed by Avastin alone (N=623) | Avastin with carboplatin and paclitaxel (N=625) | Carboplatin and paclitaxel (N= 625) |
 | --- | --- | --- | --- |
@@ -308,10 +308,10 @@ Seventy-three percent had a platinum-free interval (PFI) of 3 months to 6 months
 ECOG performance status was 0 for 59%, 1 for 34% and 2 for 7% of the patients.
 
 The addition of Avastin to chemotherapy demonstrated a statistically significant improvement in investigator-assessed PFS, which was supported by a retrospective independent review analysis.
-Results for the ITT population are presented in Table 16 and Figure 7.
-Results for the separate chemotherapy cohorts are presented in Table 17.
+Results for the ITT population are presented in Table 14 and Figure 7.
+Results for the separate chemotherapy cohorts are presented in Table 15.
 
-Table 16: Efficacy Results in Study MO22224
+Table 14: Efficacy Results in Study MO22224
 
 | Efficacy Parameter | Avastin with Chemotherapy (N=179) | Chemotherapy (N=182) |
 | --- | --- | --- |
@@ -331,7 +331,7 @@ Table 16: Efficacy Results in Study MO22224
 | Figure 7: Kaplan-Meier Curves for Investigator-Assessed Progression-Free Survival in Platinum-Resistant Recurrent Epithelial Ovarian, Fallopian Tube, or Primary Peritoneal Cancer in Study MO22224 |
 | --- |
 
-Table 17: Efficacy Results in Study MO22224 by Chemotherapy
+Table 15: Efficacy Results in Study MO22224 by Chemotherapy
 
 | (N=60) | (N=55) | (N=57) | (N=63) | (N=62) | (N=64) |  |
 | --- | --- | --- | --- | --- | --- | --- |
@@ -364,11 +364,11 @@ All patients had measurable disease at baseline, 74% had baseline CA-125 levels 
 The platinum-free interval (PFI) was 6 months to 12 months in 42 % of patients and >12 months in 58% of patients.
 The ECOG performance status was 0 or 1 for 99.8% of patients.
 
-A statistically significant prolongation in PFS was demonstrated among patients receiving Avastin with chemotherapy compared to those receiving placebo with chemotherapy (Table 18 and Figure 8).
+A statistically significant prolongation in PFS was demonstrated among patients receiving Avastin with chemotherapy compared to those receiving placebo with chemotherapy (Table 16 and Figure 8).
 Independent radiology review of PFS was consistent with investigator assessment [HR 0.45 (95% CI: 0.35, 0.58)].
 OS was not significantly improved with the addition of Avastin to chemotherapy [HR 0.95 (95% CI: 0.77, 1.17)].
 
-Table 18: Efficacy Results in Study AVF4095g
+Table 16: Efficacy Results in Study AVF4095g
 
 | Efficacy Parameter | Avastin with Gemcitabine and Carboplatin (N=242) | Placebo with Gemcitabine and Carboplatin (N=242) |
 | --- | --- | --- |
@@ -396,9 +396,9 @@ Ten percent of patients had received prior bevacizumab.
 Twenty-six percent had a PFI of 6 months to 12 months and 74% had a PFI of >12 months.
 GOG performance status was 0 or 1 for 99% of patients.
 
-Results are presented in Table 19 and Figure 9.
+Results are presented in Table 17 and Figure 9.
 
-Table 19: Efficacy Results in Study GOG-0213
+Table 17: Efficacy Results in Study GOG-0213
 
 | Efficacy Parameter | Avastin with Carboplatin and Paclitaxel (N=337) | Carboplatin and Paclitaxel (N=336) |
 | --- | --- | --- |
@@ -415,67 +415,3 @@ Table 19: Efficacy Results in Study GOG-0213
 
 | Figure 9: Kaplan Meier Curves for Overall Survival in Platinum-Sensitive Recurrent Epithelial Ovarian, Fallopian Tube, or Primary Peritoneal Cancer in Study GOG-0213 |
 | --- |
-
-## 14.10 Hepatocellular Carcinoma
-
-The efficacy of Avastin in combination with atezolizumab was investigated in IMbrave150 (NCT03434379), a multicenter, international, open-label, randomized trial in patients with locally advanced unresectable and/or metastatic hepatocellular carcinoma who have not received prior systemic therapy.
-Randomization was stratified by geographic region (Asia excluding Japan vs. rest of world), macrovascular invasion and/or extrahepatic spread (presence vs. absence), baseline AFP (<400 vs. ≥400 ng/mL), and by ECOG performance status (0 vs. 1).
-
-A total of 501 patients were randomized (2:1) to receive either atezolizumab as an intravenous infusion of 1200 mg, followed by 15 mg/kg Avastin, on the same day every 3 weeks or sorafenib 400 mg given orally twice daily, until disease progression or unacceptable toxicity.
-Patients could discontinue either atezolizumab or Avastin (e.g., due to adverse events) and continue on single-agent therapy until disease progression or unacceptable toxicity associated with the single-agent.
-
-The study enrolled patients who were ECOG performance score 0 or 1 and who had not received prior systemic treatment.
-Patients were required to be evaluated for the presence of varices within 6 months prior to treatment, and were excluded if they had variceal bleeding within 6 months prior to treatment, untreated or incompletely treated varices with bleeding, or high risk of bleeding.
-Patients with Child-Pugh B or C cirrhosis, moderate or severe ascites; history of hepatic encephalopathy; a history of autoimmune disease; administration of a live, attenuated vaccine within 4 weeks prior to randomization; administration of systemic immunostimulatory agents within 4 weeks or systemic immunosuppressive medications within 2 weeks prior to randomization; or untreated or corticosteroid-dependent brain metastases were excluded.
-Tumor assessments were performed every 6 weeks for the first 54 weeks and every 9 weeks thereafter.
-
-The demographics and baseline disease characteristics of the study population were balanced between the treatment arms.
-The median age was 65 years (range: 26 to 88) and 83% of patients were male.
-The majority of patients were Asian (57%) or White (35%); 40% were from Asia (excluding Japan).
-Approximately 75% of patients presented with macrovascular invasion and/or extrahepatic spread and 37% had a baseline AFP ≥400 ng/mL.
-Baseline ECOG performance status was 0 (62%) or 1 (38%).
-HCC risk factors were Hepatitis B in 48% of patients, Hepatitis C in 22% and 31% of patients had non-viral liver disease.
-The majority of patients had BCLC stage C (82%) disease at baseline, while 16% had stage B and 3% had stage A.
-
-The major efficacy outcome measures were overall survival (OS) and independent review facility (IRF)-assessed progression free survival (PFS) per RECIST v1.1.
-Additional efficacy outcome measures were IRF-assessed overall response rate (ORR) per RECIST and mRECIST.
-
-Efficacy results are presented in Table 20 and Figure 10.
-
-Table 20: Efficacy Results from IMbrave150
-
-|  | Avastin in combination with Atezolizumab (N= 336) | Sorafenib (N=165) |
-| --- | --- | --- |
-| Overall Survival |  |  |
-| Number of deaths (%) | 96 (29) | 65 (39) |
-| Median OS in months (95% CI) | NE (NE, NE) | 13.2 (10.4, NE) |
-| Hazard ratioStratified by geographic region (Asia excluding Japan vs. rest of world), macrovascular invasion and/or extrahepatic spread (presence vs. absence), and baseline AFP (<400 vs. ≥400 ng/mL) (95% CI) | 0.58 (0.42, 0.79) |  |
-| p-valueBased on two-sided stratified log-rank test; as compared to significance level 0.004 (2-sided) based on 161/312=52% information using the OBF method | 0.0006 |  |
-| Progression-Free SurvivalPer independent radiology review |  |  |
-| Number of events(%) | 197 (59) | 109 (66) |
-| Median PFS in months (95% CI) | 6.8 (5.8, 8.3) | 4.3 (4.0, 5.6) |
-| Hazard ratio (95% CI) | 0.59 (0.47, 0.76) |  |
-| p-value | <0.0001 |  |
-| Overall Response Rate,Confirmed responses (ORR), RECIST 1.1 |  |  |
-| Number of responders (%) | 93 (28) | 19 (12) |
-| (95% CI) | (23, 33) | (7,17) |
-| p-valueBased on two-sided Cochran-Mantel-Haesnszel test | <0.0001 |  |
-| Complete responses, n (%) | 22 (7) | 0 |
-| Partial responses, n (%) | 71 (21) | 19 (12) |
-| Duration of Response, (DOR) RECIST 1.1 |  |  |
-|  | (n=93) | (n=19) |
-| Median DOR in months (95% CI) | NE (NE, NE) | 6.3 (4.7, NE) |
-| Range (months) | (1.3Denotes a censored value, 13.4) | (1.4, 9.1) |
-| Overall Response Rate, (ORR), HCC mRECIST |  |  |
-| Number of responders (%) | 112 (33) | 21 (13) |
-| (95% CI) | (28, 39) | (8, 19) |
-| p-value | <0.0001 |  |
-| Complete responses, n (%) | 37 (11) | 3 (1.8) |
-| Partial responses, n (%) | 75 (22) | 18 (11) |
-| Duration of Response, (DOR) HCC mRECIST |  |  |
-|  | (n=112) | (n=21) |
-| Median DOR in months (95% CI) | NE (NE, NE) | 6.3 (4.9, NE) |
-| Range (months) | (1.3, 13.4) | (1.4, 9.1) |
-| CI=confidence interval; HCC mRECIST= Modified RECIST Assessment for Hepatocellular Carcinoma; NE=not estimable; N/A=not applicable; RECIST 1.1= Response Evaluation Criteria in Solid Tumors v1.1 |  |  |
-
-Figure 10: Kaplan-Meier Plot of Overall Survival in IMbrave150

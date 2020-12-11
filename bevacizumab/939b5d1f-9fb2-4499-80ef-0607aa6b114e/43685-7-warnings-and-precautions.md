@@ -21,10 +21,9 @@ Discontinue in patients with fistula formation involving any internal organ.
 In a controlled clinical study in which Avastin was not administered within 28 days of major surgical procedures, the incidence of wound healing complications, including serious and fatal complications, was 15% in patients with mCRC who underwent surgery while receiving Avastin and 4% in patients who did not receive Avastin.
 In a controlled clinical study in patients with relapsed or recurrent GBM, the incidence of wound healing events was 5% in patients who received Avastin and 0.7% in patients who did not receive Avastin [see Adverse Reactions (6.1)].
 
-In patients who experience wound healing complications during Avastin treatment, withhold Avastin until adequate wound healing.
+Discontinue Avastin in patients with wound healing complications requiring medical intervention.
 Withhold for at least 28 days prior to elective surgery.
-Do not administer for at least 28 days following major surgery and until adequate wound healing.
-The safety of resumption of AVASTIN after resolution of wound healing complications has not been established [see Dosage and Administration (2.9)].
+Do not administer for at least 28 days following surgery and until the wound is fully healed.
 
 Necrotizing fasciitis including fatal cases, has been reported in patients receiving Avastin, usually secondary to wound healing complications, gastrointestinal perforation or fistula formation.
 Discontinue Avastin in patients who develop necrotizing fasciitis.
@@ -36,9 +35,6 @@ Severe or fatal hemorrhage, including hemoptysis, gastrointestinal bleeding, hem
 Across clinical studies, the incidence of Grades 3-5 hemorrhagic events ranged from 0.4% to 7% in patients receiving Avastin [see Adverse Reactions (6.1)].
 
 Serious or fatal pulmonary hemorrhage occurred in 31% of patients with squamous NSCLC and 4% of patients with non-squamous NSCLC receiving Avastin with chemotherapy compared to none of the patients receiving chemotherapy alone.
-
-An evaluation for the presence of varices is recommended within 6 months of initiation of Avastin in patients with HCC.
-There is lack of clinical data to support the safety of Avastin in patients with variceal bleeding within 6 months prior to treatment, untreated or incompletely treated varices with bleeding, or high risk of bleeding because these patients were excluded from clinical trials of Avastin in HCC [see Clinical Studies (14.10)].
 
 Do not administer Avastin to patients with recent history of hemoptysis of 1/2 teaspoon or more of red blood.
 Discontinue in patients who develop a Grades 3-4 hemorrhage.
@@ -112,7 +108,7 @@ Data from a postmarketing safety study showed poor correlation between UPCR (Uri
 ## 5.9 Infusion-Related Reactions
 
 Infusion-related reactions reported across clinical studies and postmarketing experience include hypertension, hypertensive crises associated with neurologic signs and symptoms, wheezing, oxygen desaturation, Grade 3 hypersensitivity, chest pain, headaches, rigors, and diaphoresis.
-In clinical studies, infusion-related reactions with the first dose occurred in < 3% of patients and severe reactions occurred in 0.4% of patients.
+In clinical studies, infusion-related reactions with the first dose occurred in < 3% of patients and severe reactions occurred in 0.2% of patients.
 
 Decrease the rate of infusion for mild, clinically insignificant infusion-related reactions.
 Interrupt the infusion in patients with clinically significant infusion-related reactions and consider resuming at a slower rate following resolution.
