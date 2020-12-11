@@ -74,12 +74,15 @@ Permanently discontinue Ogivri for a persistent (>8 weeks) LVEF decline or for s
 
 To prevent medication errors, it is important to check the vial labels to ensure that the drug being prepared and administered is Ogivri (trastuzumab-dkst) and not ado-trastuzumab emtansine.
 
-420 mg Multiple-dose vial
+420 mg Multiple-dose vial supplied with a separate vial containing 20 mL of Bacteriostatic Water for Injection, USP, to be used as diluent.
+
+420 mg Multiple-dose vial drug only carton.
+No diluent is provided.
 
 ### Reconstitution
 
-Reconstitute each 420 mg vial of Ogivri with 20 mL of Bacteriostatic Water for Injection (BWFI), USP, containing 1.1% benzyl alcohol as a preservative to yield a multiple-dose solution containing 21 mg/mL trastuzumab-dkst that delivers 20 mL (420 mg trastuzumab-dkst).
-In patients with known hypersensitivity to benzyl alcohol, reconstitute with 20 mL of Sterile Water for Injection (SWFI) without preservative to yield a single use solution.
+Reconstitute each 420 mg vial of Ogivri with 20 mL of Bacteriostatic Water for Injection, USP (BWFI), containing 0.9% to 1.1% benzyl alcohol (not supplied for the 420 mg multiple-dose vial drug only carton) as a preservative to yield a multiple-dose solution containing 21 mg/mL trastuzumab-dkst that delivers 20 mL (420 mg trastuzumab-dkst).
+In patients with known hypersensitivity to benzyl alcohol, reconstitute with 20 mL of Sterile Water for Injection, USP (SWFI) without preservative to yield a one time use solution.
 
 Use appropriate aseptic technique when performing the following reconstitution steps:
 

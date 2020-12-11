@@ -7,6 +7,12 @@ Each carton contains one multiple-dose vial of Ogivri and one vial (20 mL) of Ba
 
 NDC 67457-847-44
 
+Ogivri (trastuzumab-dkst) for injection 420 mg/vial is supplied in a multiple-dose vial as an off-white to pale yellow lyophilized sterile powder, under vacuum.
+Each carton contains one multiple-dose vial of Ogivri.
+No diluent is provided.
+
+NDC 67457-845-20
+
 Ogivri (trastuzumab-dkst) for injection 150 mg/vial is supplied in a single-dose vial as an off-white to pale yellow lyophilized sterile powder, under vacuum.
 Each carton contains one single-dose vial of Ogivri.
 
