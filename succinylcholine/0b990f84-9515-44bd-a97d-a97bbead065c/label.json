@@ -1,0 +1,20 @@
+{
+  "application_numbers": [
+    "NDA008453"
+  ],
+  "inn": "succinylcholine",
+  "labeler": "Civica, Inc.",
+  "package_ndcs": [
+    "72572-750-01",
+    "72572-750-10"
+  ],
+  "products": [
+    {
+      "form": "INJECTION, SOLUTION",
+      "generic": "succinylcholine chloride",
+      "name": "Anectine"
+    }
+  ],
+  "setid": "0b990f84-9515-44bd-a97d-a97bbead065c",
+  "source": "dailymed"
+}
