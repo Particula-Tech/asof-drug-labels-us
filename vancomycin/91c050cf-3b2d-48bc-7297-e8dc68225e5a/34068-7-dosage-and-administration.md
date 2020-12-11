@@ -75,7 +75,7 @@ Compatibility with Other Drugs and IV Fluids
 
 The following diluents are physically and chemically compatible (with 4 g/L vancomycin hydrochloride):
 
-5% Dextrose Injection, USP 5% Dextrose Injection and 0.9% Sodium Chloride Injection, USP Lactated Ringer's Injection, USP 5% Dextrose and Lactated Ringer's Injection Normosol®-M and 5% Dextrose 0.9% Sodium Chloride Injection, USP ISOLYTE® E
+5% Dextrose Injection, USP 5% Dextrose Injection and 0.9% Sodium Chloride Injection, USP Lactated Ringer's Injection, USP 5% Dextrose and Lactated Ringer's Injection 0.9% Sodium Chloride Injection, USP
 
 Good professional practice suggests that compounded admixtures should be administered as soon after preparation as is feasible.
 

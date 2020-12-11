@@ -43,7 +43,7 @@ Infrequently, patients have been reported to have had anaphylaxis, drug fever, n
 
 Chemical peritonitis has been reported following intraperitoneal administration (see PRECAUTIONS).
 
-Post Marketing Reports
+POST MARKETING REPORTS
 
 The following adverse reactions have been identified during post-approval use of vancomycin.
 Because these reactions are reported voluntarily from a population of uncertain size, it is not possible to reliably estimate their frequency or establish a causal relationship to drug exposure.

@@ -24,7 +24,7 @@ Vancomycin is approximately 55% serum protein bound as measured by ultrafiltrati
 After IV administration of vancomycin, inhibitory concentrations are present in pleural, pericardial, ascitic, and synovial fluids; in urine; in peritoneal dialysis fluid; and in atrial appendage tissue.
 Vancomycin does not readily diffuse across normal meninges into the spinal fluid; but, when the meninges are inflamed, penetration into the spinal fluid occurs.
 
-Microbiology
+MICROBIOLOGY
 
 The bactericidal action of vancomycin results primarily from inhibition of cell-wall biosynthesis.
 In addition, vancomycin alters bacterial-cell-membrane permeability and RNA synthesis.
@@ -43,7 +43,7 @@ Diphtheroids Enterococci (e.g., Enterococcus faecalis) Staphylococci, including 
 
 The following in vitro data are available, but their clinical significance is unknown.
 
-At least 90% of the following bacteria exhibit an in vitro minimum inhibitory concentration (MIC) less than or equal to the susceptible breakpoint for vancomycin against isolates of similar genus or organism group; however, the safety and effectiveness of vancomycin in treating clinical infections due to these microorganisms have not been established in adequate and well-controlled clinical trials.
+Vancomycin exhibits in vitro MIC's of 1 mcg/mL or less against most (≥ 90%) strains of streptococci listed below and MIC's of 4 mcg/mL or less against most (≥ 90%) strains of other listed microorganisms; however, the safety and effectiveness of vancomycin in treating clinical infections due to these microorganisms have not been established in adequate and well-controlled clinical trials.
 
 Aerobic gram-positive microorganisms
 
