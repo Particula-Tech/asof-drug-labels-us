@@ -6,9 +6,9 @@ Gastric Malignancy
 
 Advise patients to return to their healthcare provider if they have a suboptimal response or an early symptomatic relapse [see Warnings and Precautions (5.1)].
 
-Acute Interstitial Nephritis
+Acute Tubulointerstitial Nephritis
 
-Advise patients to call their healthcare provider immediately if they experience signs and/or symptoms associated with acute interstitial nephritis [see Warnings and Precautions (5.2)].
+Advise patients to call their healthcare provider immediately if they experience signs and/or symptoms associated with acute tubulointerstitial nephritis [see Contraindications (4), Warnings and Precautions (5.2)].
 
 Clostridium difficile-Associated Diarrhea
 
