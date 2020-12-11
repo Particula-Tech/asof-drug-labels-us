@@ -184,7 +184,7 @@ You may report side effects to FDA at 1-800-FDA-1088.
 
 How should I store sumatriptan tablets?
 
-Store at 20° to 25°C (68° – 77°F).
+Store at 20° to 25°C (68° to 77°F).
 
 Light-resistant container as defined in the USP, with a child-resistant closure (as required).
 
@@ -220,6 +220,6 @@ Dr. Reddy’s Laboratories Limited
 
 Bachupally – 500 090 INDIA
 
-Revised: 0118
+Revised: 0720
 
 Dispense with Patient Information Sheet available at: www.drreddys.com/pi/sumatriptantabs.pdf

@@ -17,6 +17,8 @@ Impairment of Fertility
 When sumatriptan (5, 50, 500 mg/kg/day) was administered orally to male and female rats prior to and throughout the mating period, there was a treatment- related decrease in fertility secondary to a decrease in mating in animals treated with doses greater than 5 mg/kg/day (less than the MRHD on a mg/m2 basis).
 It is not clear whether this finding was due to an effect on males or females or both.
 
+When sumatriptan was administered by subcutaneous injection to male and female rats prior to and throughout the mating period, there was no evidence of impaired fertility at doses up to 60 mg/kg/day.
+
 ## 13.2 Animal Toxicology and/or Pharmacology
 
 Corneal Opacitie:

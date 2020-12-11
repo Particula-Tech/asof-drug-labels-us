@@ -37,7 +37,7 @@ Sumatriptan tablets are contraindicated in patients with a history of stroke or 
 ## 5.5 Other Vasospasm Reactions
 
 Sumatriptan tablets may cause non-coronary vasospastic reactions, such as peripheral vascular ischemia, gastrointestinal vascular ischemia and infarction (presenting with abdominal pain and bloody diarrhea), splenic infarction, and Raynaud’s syndrome.
-In patients who experience symptoms or signs suggestive of non-coronary vasospasm reaction following the use of any 5-HT1 agonist, rule out a vasospastic reaction before using additional sumatriptan tablets.
+In patients who experience symptoms or signs suggestive of non-coronary vasospasm reaction following the use of any 5-HT1 agonist, rule out a vasospastic reaction before receiving additional sumatriptan tablets.
 
 Reports of transient and permanent blindness and significant partial vision loss have been reported with the use of 5-HT1 agonists.
 Since visual disorders may be part of a migraine attack, a causal relationship between these events and the use of 5-HT1 agonists have not been clearly established.
