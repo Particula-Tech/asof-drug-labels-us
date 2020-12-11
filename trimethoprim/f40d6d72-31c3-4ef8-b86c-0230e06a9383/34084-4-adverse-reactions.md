@@ -8,7 +8,7 @@ The following table lists those drug-related adverse events reported most freque
 Most of these events were determined to be mild.
 The incidence of drug related adverse events was significantly lower for PRIMSOL, which was most apparent for those events related to skin/appendages as a body system.
 
-| PRIMSOL (N=310) | SMX + TMPsulfamethoxazole + trimethoprim oral suspension (N=197) |  |
+| PRIMSOL (N=310) | SMX + TMP sulfamethoxazole + trimethoprim oral suspension (N=197) |  |
 | --- | --- | --- |
 | Drug-related Adverse Event | Percent of Pediatric Patients |  |
 | Body as a whole |  |  |
