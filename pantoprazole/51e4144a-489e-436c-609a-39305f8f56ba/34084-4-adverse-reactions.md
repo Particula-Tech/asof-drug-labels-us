@@ -5,7 +5,7 @@ The following serious adverse reactions are described below and elsewhere in lab
 - Hypersensitivity and Severe Skin Reactions [see Warnings and Precautions (5.2)]
 - Injection Site Reactions [see Warnings and Precautions (5.3)]
 - Potential for Exacerbation of Zinc Deficiency [see Warnings and Precautions (5.4)]
-- Acute Interstitial Nephritis [see Warnings and Precautions (5.5)]
+- Acute Tubulointerstitial Nephritis [see Warnings and Precautions (5.5)]
 - Clostridium difficile-Associated Diarrhea [see Warnings and Precautions (5.6)]
 - Bone Fracture [see Warnings and Precautions (5.7)]
 - Cutaneous and Systemic Lupus Erythematosus [see Warnings and Precautions (5.8)]
@@ -79,7 +79,7 @@ Skin and Subcutaneous Tissue Disorders: severe dermatologic reactions (some fata
 
 Musculoskeletal Disorders: rhabdomyolysis, bone fracture
 
-Renal and Urinary Disorders: interstitial nephritis
+Renal and Urinary Disorders: acute tubulointerstitial nephritis
 
 Hepatobiliary Disorders: hepatocellular damage leading to jaundice and hepatic failure
 
