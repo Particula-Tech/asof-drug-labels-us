@@ -1,7 +1,6 @@
 # Instructions for Use
 
-Read these instructions carefully before using your Saxenda® pen.
-
+- •Read these instructions carefully before using your Saxenda® pen.
 - •Do not use your pen without proper training from your healthcare provider.
   Make sure that you know how to give yourself an injection with the pen before you start your treatment.
 - If you are blind or have poor eyesight and cannot read the dose counter on the pen, do not use this pen
@@ -9,9 +8,10 @@ Read these instructions carefully before using your Saxenda® pen.
   Get help from a person with good eyesight who is trained to use the Saxenda pen.
 - •You can refresh your training at any time by watching the online training video at www.saxenda.com.
 - •Start by checking your pen to make sure that it contains Saxenda, then look at the pictures below to get to know the different parts of your pen and needle.
-- •Your pen is a prefilled dial-a-dose pen.
+- Your pen is a prefilled, dial-a-dose, single-patient-use pen.
   It contains 18 mg of liraglutide, and you can select doses of 0.6 mg, 1.2 mg, 1.8 mg, 2.4 mg and 3 mg.
   Your pen is made to be used with NovoFine® or NovoTwist® disposable needles up to a length of 8 mm.
+  Pen needles are not included with your Saxenda pen.
 
 | Step 1. Prepare your pen with a new needle •Wash your hands with soap and water.•Check the name and colored label of your pen, to make sure that it contains Saxenda. This is especially important if you take more than 1 type of medicine.•Pull off the pen cap. |  |
 | --- | --- |
@@ -38,4 +38,4 @@ Read these instructions carefully before using your Saxenda® pen.
 
 This Medication Guide and Instructions for Use have been approved by the U.S. Food and Drug Administration.
 
-October 2016
+December 2020

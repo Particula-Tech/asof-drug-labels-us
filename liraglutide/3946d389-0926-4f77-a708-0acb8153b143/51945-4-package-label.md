@@ -4,7 +4,7 @@ NDC 0169-2800-15
 
 List 280015
 
-Saxenda®
+Saxenda ®
 
 (liraglutide) injection
 
@@ -27,7 +27,3 @@ REFRIGERATE – DO NOT FREEZE
 Protect from light.
 
 Dispense the enclosed Medication Guide to each patient
-
-Get Support at
-
-TakingSaxenda.com

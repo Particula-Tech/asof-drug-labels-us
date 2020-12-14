@@ -24,12 +24,12 @@ Cardiac Electrophysiology (QTc) in healthy volunteers
 
 The effect of liraglutide on cardiac repolarization was tested in a QTc study.
 Liraglutide at steady-state concentrations after daily doses up to 1.8 mg did not produce QTc prolongation.
-The maximum liraglutide plasma concentration (Cmax) in subjects with overweight (excess weight) and obesity treated with liraglutide 3 mg is similar to the Cmax observed in the liraglutide QTc study in healthy volunteers.
+The maximum liraglutide plasma concentration (Cmax) in overweight and obese subjects treated with liraglutide 3 mg is similar to the Cmax observed in the liraglutide QTc study in healthy volunteers.
 
 ## 12.3 Pharmacokinetics
 
 Absorption - Following subcutaneous administration, maximum concentrations of liraglutide are achieved at 11 hours post dosing.
-The average liraglutide steady state concentration (AUCτ/24) reached approximately 116 ng/mL in subjects with obesity (BMI 30-40 kg/m2) following administration of Saxenda.
+The average liraglutide steady state concentration (AUCτ/24) reached approximately 116 ng/mL in obese (BMI 30-40 kg/m2) subjects following administration of SAXENDA.
 Liraglutide exposure increased proportionally in the dose range of 0.6 mg to 3 mg.
 The intra-subject coefficient of variation for liraglutide AUC was 11% following single dose administration.
 Liraglutide exposures were considered similar among three subcutaneous injection sites (upper arm, abdomen, and thigh).
@@ -49,25 +49,24 @@ The mean apparent clearance following subcutaneous administration of a single do
 
 Specific Populations
 
-Elderly - No dosage adjustment is required based on age.
-Age had no effect on the pharmacokinetics of liraglutide based on a pharmacokinetic study in healthy elderly subjects (65 to 83 years) and population pharmacokinetic analyses of data from patients with overweight (excess weight) and obesity 18 to 82 years of age [see Use in Specific Populations (8.5)].
+Elderly - Age had no effect on the pharmacokinetics of liraglutide based on a pharmacokinetic study in healthy elderly subjects (65 to 83 years) and population pharmacokinetic analyses of data from overweight and obese patients 18 to 82 years of age [see Use in Specific Populations (8.5)].
 
-Gender - Based on the results of population pharmacokinetic analyses, females have 24% lower weight adjusted clearance of Saxenda compared to males.
-Based on the exposure response data, no dose adjustment is necessary based on gender.
+Gender - Based on the results of population pharmacokinetic analyses, females have 24% lower weight adjusted clearance of SAXENDA compared to males.
 
-Race and Ethnicity - Race and ethnicity had no effect on the pharmacokinetics of liraglutide based on the results of population pharmacokinetic analyses that included patients with overweight (excess weight) and obesity of Caucasian, Black, Asian and Hispanic/Non-Hispanic groups.
+Race and Ethnicity - Race and ethnicity had no effect on the pharmacokinetics of liraglutide based on the results of population pharmacokinetic analyses that included overweight and obese patients of Caucasian, Black, Asian and Hispanic/Non-Hispanic groups.
 
 Body Weight - Body weight significantly affects the pharmacokinetics of liraglutide based on results of population pharmacokinetic analyses conducted in patients with body weight range of 60-234 kg.
 The exposure of liraglutide decreases as baseline body weight increases.
 
-Pediatric - Saxenda has not been studied in pediatric patients [see Use in Specific Populations (8.4)].
+Pediatric - A population pharmacokinetic analysis was conducted for SAXENDA using data from 134 pediatric patients (12 to 17 years of age) with obesity.
+The liraglutide exposure in the pediatric patients was similar to that in adults with obesity [see Use in Specific Populations (8.4)].
 
-Renal Impairment - The single-dose pharmacokinetics of liraglutide were evaluated in subjects with varying degrees of renal impairment.
-Subjects with mild (estimated creatinine clearance 50-80 mL/min) to severe (estimated creatinine clearance less than 30 mL/min) renal impairment and subjects with end-stage renal disease requiring dialysis were included in the trial.
+Renal Impairment - The single-dose pharmacokinetics of liraglutide were evaluated in patients with varying degrees of renal impairment.
+Patients with mild (estimated creatinine clearance 50-80 mL/min) to severe (estimated creatinine clearance less than 30 mL/min) renal impairment and patients with end-stage renal disease requiring dialysis were included in the trial.
 Compared to healthy subjects, liraglutide AUC in mild, moderate, and severe renal impairment and in end-stage renal disease was on average 35%, 19%, 29% and 30% lower, respectively [see Use in Specific Populations (8.6)].
 
-Hepatic Impairment - The single-dose pharmacokinetics of liraglutide were evaluated in subjects with varying degrees of hepatic impairment.
-Subjects with mild (Child Pugh score 5-6) to severe (Child Pugh score greater than 9) hepatic impairment were included in the trial.
+Hepatic Impairment - The single-dose pharmacokinetics of liraglutide were evaluated in patients with varying degrees of hepatic impairment.
+Patients with mild (Child Pugh score 5-6) to severe (Child Pugh score greater than 9) hepatic impairment were included in the trial.
 Compared to healthy subjects, liraglutide AUC in subjects with mild, moderate and severe hepatic impairment was on average 11%, 14% and 42% lower, respectively [see Use in Specific Populations (8.7)].
 
 Drug Interactions
