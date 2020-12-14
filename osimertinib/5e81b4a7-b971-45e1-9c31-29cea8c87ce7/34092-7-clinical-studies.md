@@ -18,8 +18,8 @@ The median age was 64 years (range 26-93 years); 54% were < 65 years of age; 63%
 Baseline WHO performance status was 0 (41%) or 1 (59%); 5% had Stage IIIb and 95% had Stage IV; and 7% received prior systemic cytotoxic chemotherapy as neoadjuvant or adjuvant therapy.
 With regard to EGFR tumor testing, 63% were exon 19 deletion and 37% were exon 21 L858R; 5 patients (<1%) also had a concomitant de novo T790M mutation.
 EGFR mutation status was confirmed centrally using the cobas EGFR Mutation Test in 90% of patients.
-At the time of the final data cut-off, of those randomized to TAGRISSO and to investigator’s choice erlotinib or gefitinib arm, 133 (47.7%) and 180 (65.0%) patients had received at least one subsequent treatment, respectively.
-Out of the 180 patients randomized to erlotinib or gefitinib who received subsequent treatment, 85 (47.2%) patients received TAGRISSO as first subsequent therapy.
+At the time of the final data cut-off, of those randomized to TAGRISSO and to investigator’s choice erlotinib or gefitinib arm, 133 (48%) and 180 (65%) patients had received at least one subsequent treatment, respectively.
+Out of the 180 patients randomized to erlotinib or gefitinib who received subsequent treatment, 85 (47%) patients received TAGRISSO as first subsequent therapy.
 
 FLAURA demonstrated a statistically significant improvement in PFS for patients randomized to TAGRISSO as compared to erlotinib or gefitinib (see Table 6 and Figure 1).
 The final analysis of overall survival demonstrated a statistically significant improvement in overall survival in patients randomized to TAGRISSO compared to erlotinib or gefitinib.
@@ -36,16 +36,16 @@ Efficacy Results in FLAURA according to Investigator Assessment
 | DeathWithout documented radiological disease progression (%) | 11 (4) | 14 (5) |
 | Median PFS in months (95% CI) | 18.9 (15.2, 21.4) | 10.2 (9.6, 11.1) |
 | Hazard Ratio (95% CI)Stratified by ethnicity (Asian vs. non-Asian) and mutation status (Ex19del vs. L858R)Pike estimator | 0.46 (0.37, 0.57) |  |
-| p-valueStratified log-rank test | P < 0.0001 |  |
+| p-valueStratified log-rank test | < 0.0001 |  |
 | Overall Survival (OS) |  |  |
-| Number of deaths (58% maturity) | 155 (56) | 166 (60) |
+| Number of deaths | 155 (56) | 166 (60) |
 | Median OS in months (95% CI) | 38.6 (34.5, 41.8) | 31.8 (26.6, 36.0) |
-| HR (95.05% CI) | 0.799 (0.641, 0.997) |  |
-| p-value | P=0.0462 |  |
+| Hazard Ratio (95% CI) | 0.80 (0.64, 1.00) |  |
+| p-value | 0.0462 |  |
 | Overall Response Rate (ORR)Confirmed responses |  |  |
 | ORR, % (95% CI) | 77 (71, 82) | 69 (63, 74) |
-| Complete response, % | 2% | 1% |
-| Partial response, % | 75% | 68% |
+| Complete response, % | 2 | 1 |
+| Partial response, % | 75 | 68 |
 | Duration of Response (DoR) |  |  |
 | Median in months (95% CI) | 17.6 (13.8, 22.0) | 9.6 (8.3, 11.1) |
 
@@ -67,12 +67,12 @@ CNS ORR and DOR by BICR in Patients with Measurable CNS Lesions at Baseline in F
 |  | TAGRISSON=22 | EGFR TKI(gefitinib or erlotinib)N=19 |
 | --- | --- | --- |
 | CNS Tumor Response AssessmentAccording to RECIST v1.1.Based on confirmed response. |  |  |
-| CNS ORR, % (95% CI) | 77% (55, 92) | 63% (38, 84) |
-| Complete response | 18% | 0% |
+| CNS ORR, % (95% CI) | 77 (55, 92) | 63 (38, 84) |
+| Complete response, % | 18 | 0 |
 | Duration of CNS ResponseBased on patients with response only; DoR defined as the time from the date of first documented response (complete response or partial response) until progression or death event. |  |  |
 | Number of responders | 17 | 12 |
-| Response Duration ≥6 months | 88% | 50% |
-| Response Duration ≥12 months | 47% | 33% |
+| Response Duration ≥6 months, % | 88 | 50 |
+| Response Duration ≥12 months, % | 47 | 33 |
 
 ## 14.2 Previously Treated EGFR T790M Mutation-Positive Metastatic Non-Small Cell Lung Cancer
 
@@ -94,7 +94,8 @@ Fifty-four percent (54%) of patients had extra-thoracic visceral metastases, inc
 Forty-two percent (42%) of patients had metastatic bone disease.
 
 In AURA3, there was a statistically significant improvement in PFS in the patients randomized to TAGRISSO compared to chemotherapy (See Table 8 and Figure 3).
-Overall survival data were not mature at the time of the PFS analysis.
+No statistically significant difference was observed between the treatment arms at the final OS analysis.
+At the time of the final OS analysis, 99 patients (71%) randomized to chemotherapy had crossed over to TAGRISSO treatment.
 
 Table 8.
 Efficacy Results According to Investigator Assessment in AURA3
@@ -106,16 +107,20 @@ Efficacy Results According to Investigator Assessment in AURA3
 | Progressive disease | 129 (46) | 104 (74) |
 | DeathWithout documented radiological disease progression | 11 (4) | 6 (4) |
 | Median PFS in months (95% CI) | 10.1 (8.3, 12.3) | 4.4 (4.2, 5.6) |
-| Hazard Ratio (95% CI)Stratified by ethnicity (Asian vs. non-Asian)Pike estimator | 0.30 (0.23,0.41) |  |
-| P-valueStratified log-rank test | <0.001 |  |
+| Hazard Ratio (95% CI)Stratified by ethnicity (Asian vs. non-Asian)Pike estimator | 0.30 (0.23, 0.41) |  |
+| p-valueStratified log-rank test | <0.001 |  |
+| Overall Survival |  |  |
+| Number of deaths (%) | 188 (67) | 93 (66) |
+| Median OS in months (95% CI) | 26.8 (23.5, 31.5) | 22.5 (20.2, 28.8) |
+| Hazard Ratio (95% CI) | 0.87 (0.67, 1.12) |  |
+| p-value | 0.277 |  |
 | Overall Response RateConfirmed |  |  |
-| Overall Response Rate | 65% | 29% |
-| (95% CI) | (59%, 70%) | (21%, 37%) |
-| Complete response | 1% | 1% |
-| Partial response | 63% | 27% |
-| P-valueLogistic regression analysis | <0.001 |  |
+| ORR, % (95% CI) | 65 (59, 70) | 29 (21, 37) |
+| Complete response, % | 1 | 1 |
+| Partial response, % | 63 | 27 |
+| p-value,Logistic regression analysis | <0.001 |  |
 | Duration of Response (DoR) |  |  |
-| Median Duration of Response in months (95% CI) | 11.0 (8.6, 12.6) | 4.2 (3.0, 5.9) |
+| Median in months (95% CI) | 11.0 (8.6, 12.6) | 4.2 (3.0, 5.9) |
 
 Figure 3.
 Kaplan-Meier Curves of PFS by Investigator Assessment in AURA3
@@ -132,9 +137,9 @@ CNS ORR and DoR by BICR in Patients with Measurable CNS Lesions at Baseline in A
 |  | TAGRISSON=30 | ChemotherapyN=16 |
 | --- | --- | --- |
 | CNS Tumor Response AssessmentAccording to RECIST v1.1.Based on confirmed response. |  |  |
-| CNS ORR, % (95% CI) | 57% (37, 75) | 25% (7, 52) |
-| Complete response | 7% | 0 |
+| CNS ORR, % (95% CI) | 57 (37, 75) | 25 (7, 52) |
+| Complete response, % | 7 | 0 |
 | Duration of CNS ResponseBased on patients with response only; DoR defined as the time from the date of first documented response (complete response or partial response) until progression or death event. |  |  |
 | Number of responders | 17 | 4 |
-| Response Duration ≥ 6 months | 47% | 0 |
-| Response Duration ≥ 9 months | 12% | 0 |
+| Response Duration ≥ 6 months, % | 47 | 0 |
+| Response Duration ≥ 9 months, % | 12 | 0 |

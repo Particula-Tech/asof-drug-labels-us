@@ -24,7 +24,8 @@ Keratitis
 Erythema multiforme and Stevens-Johnson syndrome
 
 - •Inform patients of signs and symptoms that may be indicative of EM or SJS.
-  Advise patients to contact their healthcare provider immediately if they develop target lesions or severe blistering or peeling of skin [see Warnings and Precautions (5.5)].
+  Advise patients to contact their healthcare provider immediately if they develop target lesions or severe blistering or peeling of skin.
+  [see Warnings and Precautions (5.5)].
 
 Embryo-Fetal Toxicity
 
