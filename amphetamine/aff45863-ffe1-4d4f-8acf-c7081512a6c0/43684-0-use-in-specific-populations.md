@@ -70,7 +70,7 @@ Long-term effects of amphetamines in children have not been well established.
 
 Long-Term Growth Suppression
 
-Growth should be monitored during treatment with stimulants, including ADDERALL XR, and pediatric patients aged 6 to 17 years who are not growing or gaining weight as expected may need to have their treatment interrupted [see Warnings and Precautions (5.3)].
+Growth should be monitored during treatment with stimulants, including ADDERALL XR, and pediatric patients aged 6 to 17 years who are not growing or gaining weight as expected may need to have their treatment interrupted [see Warnings and Precautions (5.4)].
 
 Juvenile Animal Toxicity Data
 
@@ -92,6 +92,6 @@ ADDERALL XR has not been studied in the geriatric population.
 ## 8.6 Renal Impairment
 
 Due to reduced clearance of amphetamines in patients with severe renal impairment (GFR 15 to <30 mL/min/1.73m2), the recommended dose should be reduced.
-ADDERALL XR is not recommended in patients with ESRD (GFR < 15 ml/min/1.73m2) [see Dosage and Administration (2.5), Clinical Pharmacology (12.3)].
+ADDERALL XR is not recommended in patients with ESRD (GFR < 15 ml/min/1.73m2) [see Dosage and Administration (2.6), Clinical Pharmacology (12.3)].
 
 d-Amphetamine is not dialyzable.

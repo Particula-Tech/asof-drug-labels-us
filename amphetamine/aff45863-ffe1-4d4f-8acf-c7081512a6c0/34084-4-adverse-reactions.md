@@ -64,7 +64,7 @@ Table 3 Adverse Reactions Reported by 5% or More of Adults Receiving ADDERALL XR
 | Urogenital System | Urinary Tract Infection | 5% | 0% |
 | Note: The following reactions did not meet the criterion for inclusion in Table 3 but were reported by 2% to 4% of adult patients receiving ADDERALL XR with a higher incidence than patients receiving placebo in this study: infection, photosensitivity reaction, constipation, tooth disorder (e.g., teeth clenching, tooth infection), emotional lability, libido decreased, somnolence, speech disorder (e.g., stuttering, excessive speech), palpitation, twitching, dyspnea, sweating, dysmenorrhea, and impotence. |  |  |  |
 
-Hypertension [see Warnings and Precautions (5.3)]
+Hypertension [see Warnings and Precautions (5.2)]
 
 In a controlled 4-week outpatient clinical study of adolescents with ADHD, isolated systolic blood pressure elevations ≥15 mmHg were observed in 7/64 (11%) placebo-treated patients and 7/100 (7%) patients receiving ADDERALL XR 10 or 20 mg.
 Isolated elevations in diastolic blood pressure ≥ 8 mmHg were observed in 16/64 (25%) placebo-treated patients and 22/100 (22%) ADDERALL XR-treated patients.

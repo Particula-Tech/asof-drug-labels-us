@@ -8,7 +8,7 @@ Extended-Release Capsules
 
 5 mg CII 100 Capsules Rx only
 
-Shire
+Takeda
 
 # PRINCIPAL DISPLAY PANEL - 10 mg Capsule Bottle Label
 
@@ -20,7 +20,7 @@ Extended-Release Capsules
 
 10 mg CII 100 Capsules Rx only
 
-Shire
+Takeda
 
 # PRINCIPAL DISPLAY PANEL - 15 mg Capsule Bottle Label
 
@@ -32,7 +32,7 @@ Extended-Release Capsules
 
 15 mg CII 100 Capsules Rx only
 
-Shire
+Takeda
 
 # PRINCIPAL DISPLAY PANEL - 20 mg Capsule Bottle Label
 
@@ -44,7 +44,7 @@ Extended-Release Capsules
 
 20 mg CII 100 Capsules Rx only
 
-Shire
+Takeda
 
 # PRINCIPAL DISPLAY PANEL - 25 mg Capsule Bottle Label
 
@@ -56,7 +56,7 @@ Extended-Release Capsules
 
 25 mg CII 100 Capsules Rx only
 
-Shire
+Takeda
 
 # PRINCIPAL DISPLAY PANEL - 30 mg Capsule Bottle Label
 
@@ -68,4 +68,4 @@ Extended-Release Capsules
 
 30 mg CII 100 Capsules Rx only
 
-Shire
+Takeda

@@ -185,7 +185,7 @@ It may harm them and it is against the law.
 This Medication Guide summarizes the most important information about ADDERALL XR.
 If you would like more information, talk with your doctor.
 You can ask your doctor or pharmacist for information about ADDERALL XR that was written for healthcare professionals.
-For more information, you may also contact Shire Pharmaceuticals (the maker of ADDERALL XR) at 1-800-828-2088 or visit the website at http://www.adderallxr.com.
+For more information, you may also contact Takeda Pharmaceuticals (the maker of ADDERALL XR) at 1-800-828-2088 or visit the website at http://www.adderallxr.com.
 
 What are the ingredients in ADDERALL XR?
 
@@ -196,11 +196,11 @@ Gelatin capsules contain edible inks, kosher gelatin, and titanium dioxide.
 The 5 mg, 10 mg, and 15 mg capsules also contain FD&C Blue #2.
 The 20 mg, 25 mg, and 30 mg capsules also contain red iron oxide and yellow iron oxide
 
-Manufactured for Shire US Inc., 300 Shire Way, Lexington, MA 02421.
-ADDERALL XR® is a registered trademark of Shire LLC, a Takeda company. © 2019 Takeda Pharmaceutical Company Limited.
-All Rights Reserved.
+Distributed by: Takeda Pharmaceuticals America, Inc. Lexington, MA 02421
+
+ADDERALL XR® is a registered trademark of Takeda Pharmaceuticals U.S.A., Inc. © 2020 Takeda Pharmaceuticals U.S.A., Inc. All rights reserved.
 
 Rev.
-7/2019
+8/2020
 
 This Medication Guide has been approved by the U.S. Food and Drug Administration.

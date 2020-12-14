@@ -11,24 +11,24 @@ Evaluate patient history (including family history) of abuse or dependence on al
 Serious Cardiovascular Risks
 
 Advise patients of serious cardiovascular risk (including sudden death, myocardial infarction, stroke, and hypertension) with ADDERALL XR.
-Patients who develop symptoms such as exertional chest pain, unexplained syncope, or other symptoms suggestive of cardiac disease during treatment should undergo a prompt cardiac evaluation [see Warnings and Precautions (5.1)].
+Patients who develop symptoms such as exertional chest pain, unexplained syncope, or other symptoms suggestive of cardiac disease during treatment should undergo a prompt cardiac evaluation [see Warnings and Precautions (5.2)].
 
 Psychiatric Risks
 
 Prior to initiating treatment with ADDERALL XR, adequately screen patients with comorbid depressive symptoms to determine if they are at risk for bipolar disorder.
 Such screening should include a detailed psychiatric history, including a family history of suicide, bipolar disorder, and/or depression.
-Additionally, ADDERALL XR therapy at usual doses may cause treatment-emergent psychotic or manic symptoms in patients without prior history of psychotic symptoms or mania [see Warnings and Precautions (5.2)].
+Additionally, ADDERALL XR therapy at usual doses may cause treatment-emergent psychotic or manic symptoms in patients without prior history of psychotic symptoms or mania [see Warnings and Precautions (5.3)].
 
 Circulation problems in fingers and toes [Peripheral vasculopathy, including Raynaud's phenomenon]
 
 Instruct patients beginning treatment with ADDERALL XR about the risk of peripheral vasculopathy, including Raynaud's Phenomenon, and in associated signs and symptoms: fingers or toes may feel numb, cool, painful, and/or may change color from pale, to blue, to red.
 Instruct patients to report to their physician any new numbness, pain, skin color change, or sensitivity to temperature in fingers or toes.
 Instruct patients to call their physician immediately with any signs of unexplained wounds appearing on fingers or toes while taking ADDERALL XR.
-Further clinical evaluation (e.g., rheumatology referral) may be appropriate for certain patients [see Warnings and Precautions (5.5)].
+Further clinical evaluation (e.g., rheumatology referral) may be appropriate for certain patients [see Warnings and Precautions (5.6)].
 
 Serotonin Syndrome
 
-Caution patients about the risk of serotonin syndrome with concomitant use of ADDERALL XR and other serotonergic drugs including SSRIs, SNRIs, triptans, tricyclic antidepressants, fentanyl, lithium, tramadol, tryptophan, buspirone, St. John's Wort, and with drugs that impair metabolism of serotonin (in particular MAOIs, both those intended to treat psychiatric disorders and also others such as linezolid [see Contraindications (4), Warnings and Precautions (5.6) and Drug Interactions (7.1)].
+Caution patients about the risk of serotonin syndrome with concomitant use of ADDERALL XR and other serotonergic drugs including SSRIs, SNRIs, triptans, tricyclic antidepressants, fentanyl, lithium, tramadol, tryptophan, buspirone, St. John's Wort, and with drugs that impair metabolism of serotonin (in particular MAOIs, both those intended to treat psychiatric disorders and also others such as linezolid [see Contraindications (4), Warnings and Precautions (5.7) and Drug Interactions (7.1)].
 Advise patients to contact their healthcare provider or report to the emergency room if they experience signs or symptoms of serotonin syndrome.
 
 Concomitant Medications
@@ -37,7 +37,7 @@ Advise patients to notify their physicians if they are taking, or plan to take, 
 
 Growth
 
-Monitor growth in children during treatment with ADDERALL XR, and patients who are not growing or gaining weight as expected may need to have their treatment interrupted [see Warnings and Precautions (5.3)].
+Monitor growth in children during treatment with ADDERALL XR, and patients who are not growing or gaining weight as expected may need to have their treatment interrupted [see Warnings and Precautions (5.4)].
 
 Pregnancy Registry
 
