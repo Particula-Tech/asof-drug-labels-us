@@ -1,5 +1,5 @@
 Manufactured for:
 
-Ipsen Biopharmaceuticals, Inc.Basking Ridge, NJ 07920
+Ipsen Biopharmaceuticals, Inc. Cambridge, MA 02142
 
 ONIVYDE is a registered trademark of Ipsen Biopharm Ltd.

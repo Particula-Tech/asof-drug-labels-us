@@ -2,9 +2,7 @@
 
 NDC 15054-0043-1 Rx only
 
-onivyde® (irinotecan liposome injection)
-
-43 mg/10 mL (4.3 mg/mL)
+onivyde® (irinotecan liposome injection) 43 mg/10 mL (4.3 mg/mL)
 
 For Intravenous Infusion After Dilution Single Dose Vial Discard Unused Portion
 
