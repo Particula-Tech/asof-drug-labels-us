@@ -41,9 +41,7 @@ Status Epilepticus and Severe Recurrent Convulsive Seizures: In the convulsing p
 However, if conditions preclude intravenous administration, the I.M. route may be used.
 
 Usual Adult Dosage: 10 mg, initially.
-This injection may be repeated if necessary at
-
-10 to 15 minute intervals up to a maximum dose of 30 mg.
+This injection may be repeated if necessary at 10 to 15 minute intervals up to a maximum dose of 30 mg.
 If necessary, therapy with diazepam may be repeated in 2 to 4 hours; however, residual active metabolites may persist, and re-administration should be made with this consideration.
 
 Extreme caution must be exercised with individuals with chronic lung disease or unstable cardiovascular status.

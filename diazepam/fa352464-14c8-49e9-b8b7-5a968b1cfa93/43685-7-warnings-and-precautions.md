@@ -60,9 +60,7 @@ Limit dosage and duration of concomitant use of benzodiazepines and opioids, and
 
 ### Concomitant Use with Other Psychotropic Agents or Anticonvulsant Drugs
 
-If diazepam is to be combined with other psychotropic agents or anticonvulsant drugs, careful consideration should be given to the pharmacology of the agents to be employed
-
-- particularly with known compounds which may potentiate the action of diazepam, such as phenothiazines, narcotics, barbiturates, MAO inhibitors and other antidepressants.
+If diazepam is to be combined with other psychotropic agents or anticonvulsant drugs, careful consideration should be given to the pharmacology of the agents to be employed - particularly with known compounds which may potentiate the action of diazepam, such as phenothiazines, narcotics, barbiturates, MAO inhibitors and other antidepressants.
 In highly anxious patients with evidence of accompanying depression, particularly those who may have suicidal tendencies, protective measures may be necessary.
 The usual precautions in treating patients with impaired hepatic function should be observed.
 Metabolites of diazepam are excreted by the kidney; to avoid their excess accumulation, caution should be exercised in the administration to patients with compromised kidney function.
