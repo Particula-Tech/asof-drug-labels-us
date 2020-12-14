@@ -12,7 +12,7 @@ If appropriate, initiation of anti-hepatitis B therapy may be warranted, especia
 
 Renal impairment, including cases of acute renal failure and Fanconi syndrome (renal tubular injury with severe hypophosphatemia), has been reported with the use of TDF, a component of STRIBILD, and with the use of STRIBILD [see Adverse Reactions (6.2)].
 
-In the clinical trials of STRIBILD over 144 weeks, 13 (1.9%) subjects in the STRIBILD group (N=701), 8 (2.3%) subjects in the atazanavir (ATV) + ritonavir (RTV) + TRUVADA® (emtricitabine 200 mg/TDF 300 mg) group (N=355), and no subjects in the ATRIPLA® (efavirenz 600 mg/emtricitabine 200 mg/TDF 300 mg) group (N=352) discontinued study drug due to a renal adverse reaction.
+In the clinical trials of STRIBILD over 144 weeks, 13 (1.9%) subjects in the STRIBILD group (N=701), 8 (2.3%) subjects in the atazanavir (ATV) + ritonavir (RTV) + TRUVADA ® (emtricitabine 200 mg/TDF 300 mg) group (N=355), and no subjects in the ATRIPLA ® (efavirenz 600 mg/emtricitabine 200 mg/TDF 300 mg) group (N=352) discontinued study drug due to a renal adverse reaction.
 Of these discontinuations, 8 in the STRIBILD group and 1 in the ATV+RTV+TRUVADA group occurred during the first 48 weeks.
 Four (0.6%) subjects who received STRIBILD developed laboratory findings consistent with proximal renal tubular dysfunction, leading to discontinuation of STRIBILD during the first 48 weeks of treatment.
 Two of the four subjects had renal impairment (i.e., estimated creatinine clearance less than 70 mL per minute) at baseline.
@@ -44,12 +44,14 @@ Treatment with STRIBILD should be suspended in any patient who develops clinical
 
 ## 5.4 Risk of Adverse Reactions or Loss of Virologic Response Due to Drug Interactions
 
-The concomitant use of STRIBILD and other drugs may result in known or potentially significant drug interactions, some of which may lead to [see Contraindications (4) and Drug Interactions (7)]:
+The concomitant use of STRIBILD and other drugs may result in known or potentially significant drug interactions, some of which may lead to The concomitant use of STRIBILD and other drugs may result in known or potentially significant drug interactions, some of which may lead to [see Contraindications (4) and Drug Interactions (7)]:
 
 - Loss of therapeutic effect of STRIBILD and possible development of resistance.
-- Clinically significant adverse reactions, potentially leading to severe, life-threatening, or fatal events, from greater exposures of concomitant drugs metabolized by CYP3A.
-- Loss of therapeutic effect of concomitant drugs that utilize CYP3A to form active metabolites.
+- Clinically significant adverse reactions, potentially leading to severe, life-threatening, or fatal events, from greater exposures of concomitant drugs metabolized by CYP3A.Clinically significant adverse reactions, potentially leading to severe, life-threatening, or fatal events, from greater exposures of concomitant drugs metabolized by CYP3A.
+- Loss of therapeutic effect of concomitant drugs that utilize CYP3A to form active metabolites.Loss of therapeutic effect of concomitant drugs that utilize CYP3A to form active metabolites.
 
+See for steps to prevent or manage these possible and known significant drug interactions, including dosing recommendations.
+Consider the potential for drug interactions prior to and during STRIBILD therapy; review concomitant medications during STRIBILD therapy; and monitor for the adverse reactions associated with the concomitant drugs.
 See Table 5 for steps to prevent or manage these possible and known significant drug interactions, including dosing recommendations [see Drug Interactions (7)].
 Consider the potential for drug interactions prior to and during STRIBILD therapy; review concomitant medications during STRIBILD therapy; and monitor for the adverse reactions associated with the concomitant drugs.
 
@@ -81,6 +83,8 @@ Hypophosphatemia and osteomalacia secondary to proximal renal tubulopathy should
 
 ## 5.6 Immune Reconstitution Syndrome
 
+Immune reconstitution syndrome has been reported in patients treated with combination antiretroviral therapy, including STRIBILD.
+During the initial phase of combination antiretroviral treatment, patients whose immune system responds may develop an inflammatory response to indolent or residual opportunistic infections (such as infection, cytomegalovirus, pneumonia (PCP), or tuberculosis), which may necessitate further evaluation and treatment.
 Immune reconstitution syndrome has been reported in patients treated with combination antiretroviral therapy, including STRIBILD.
 During the initial phase of combination antiretroviral treatment, patients whose immune system responds may develop an inflammatory response to indolent or residual opportunistic infections (such as Mycobacterium avium infection, cytomegalovirus, Pneumocystis jirovecii pneumonia (PCP), or tuberculosis), which may necessitate further evaluation and treatment.
 

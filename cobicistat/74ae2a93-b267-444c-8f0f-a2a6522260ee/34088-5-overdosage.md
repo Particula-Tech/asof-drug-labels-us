@@ -16,7 +16,7 @@ No severe adverse reactions were reported.
 The effects of higher doses are not known.
 As cobicistat is highly bound to plasma proteins, it is unlikely that it will be significantly removed by hemodialysis or peritoneal dialysis.
 
-Emtricitabine: Limited clinical experience is available at doses higher than the therapeutic dose of EMTRIVA®.
+Emtricitabine: Limited clinical experience is available at doses higher than the therapeutic dose of EMTRIVA ®.
 In one clinical pharmacology study, single doses of emtricitabine 1200 mg (6 times the dose in STRIBILD) were administered to 11 subjects.
 No severe adverse reactions were reported.
 The effects of higher doses are not known.
@@ -24,7 +24,7 @@ The effects of higher doses are not known.
 Hemodialysis treatment removes approximately 30% of the emtricitabine dose over a 3-hour dialysis period starting within 1.5 hours of emtricitabine dosing (blood flow rate of 400 mL per minute and a dialysate flow rate of 600 mL per minute).
 It is not known whether emtricitabine can be removed by peritoneal dialysis.
 
-Tenofovir DF: Limited clinical experience at doses higher than the therapeutic dose of VIREAD® 300 mg is available.
+Tenofovir DF: Limited clinical experience at doses higher than the therapeutic dose of VIREAD ® 300 mg is available.
 In one study, 600 mg TDF (2 times the dosage in STRIBILD) was administered to 8 subjects orally for 28 days and no severe adverse reactions were reported.
 The effects of higher doses are not known.
 Tenofovir is efficiently removed by hemodialysis with an extraction coefficient of approximately 54%.
