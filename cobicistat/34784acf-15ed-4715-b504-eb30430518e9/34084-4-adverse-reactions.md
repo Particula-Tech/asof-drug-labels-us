@@ -2,7 +2,7 @@
 
 The following adverse drug reactions are discussed in other sections of the labeling:
 
-- Severe Acute Exacerbations of Hepatitis B [see Boxed Warning and Warnings and Precautions (5.1)]
+- Severe Acute Exacerbations of Hepatitis B [see Warnings and Precautions (5.1)]
 - Immune Reconstitution Syndrome [see Warnings and Precautions (5.3)]
 - New Onset or Worsening Renal Impairment [see Warnings and Precautions (5.4)]
 - Lactic Acidosis/Severe Hepatomegaly with Steatosis [see Warnings and Precautions (5.5)]
@@ -108,7 +108,7 @@ Subjects receiving GENVOYA experienced greater increases in serum lipids compare
 
 Changes from baseline in total cholesterol, HDL-cholesterol, LDL-cholesterol, triglycerides and total cholesterol to HDL ratio are presented in Table 3.
 
-Table 3 Lipid Values, Mean Change from Baseline, Reported in Subjects Receiving GENVOYA or STRIBILD in Studies 104 and 111Excludes subjects who received lipid lowering agents during the treatment period.
+Table 3 Lipid Values, Mean Change from Baseline, Reported in Subjects Receiving GENVOYA or STRIBILD in Trials 104 and 111Excludes subjects who received lipid lowering agents during the treatment period.
 
 | mg/dL | ChangeThe change from baseline is the mean of within-subject changes from baseline for subjects with both baseline and Week 144 values. | mg/dL | Change |  |
 | --- | --- | --- | --- | --- |

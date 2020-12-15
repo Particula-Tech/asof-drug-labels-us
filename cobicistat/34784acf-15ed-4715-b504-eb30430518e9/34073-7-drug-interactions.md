@@ -8,7 +8,8 @@ Complete information regarding potential drug-drug interactions with other antir
 ## 7.2 Potential for GENVOYA to Affect Other Drugs
 
 Cobicistat, a component of GENVOYA, is an inhibitor of CYP3A and CYP2D6 and an inhibitor of the following transporters: P-glycoprotein (P-gp), BCRP, OATP1B1 and OATP1B3.
-Thus, coadministration of GENVOYA with drugs that are primarily metabolized by CYP3A or CYP2D6, or are substrates of P-gp, BCRP, OATP1B1 or OATP1B3 may result in increased plasma concentrations of such drugs (see Table 5).
+Thus, coadministration of GENVOYA with drugs that are primarily metabolized by CYP3A or CYP2D6, or are substrates of P-gp, BCRP, OATP1B1 or OATP1B3 may result in increased plasma concentrations of such drugs.
+Coadministration of GENVOYA with drugs that have active metabolite(s) formed by CYP3A may result in reduced plasma concentration of these active metabolite(s) (see Table 5).
 Elvitegravir is a modest inducer of CYP2C9 and may decrease the plasma concentrations of CYP2C9 substrates.
 TAF is not an inhibitor of CYP1A2, CYP2B6, CYP2C8, CYP2C9, CYP2C19, CYP2D6, or UGT1A1.
 TAF is a weak inhibitor of CYP3A in vitro.
@@ -21,8 +22,8 @@ Cobicistat is also metabolized, to a minor extent, by CYP2D6.
 
 Drugs that induce CYP3A activity are expected to increase the clearance of elvitegravir and cobicistat, resulting in decreased plasma concentration of cobicistat, elvitegravir, and TAF, which may lead to loss of therapeutic effect of GENVOYA and development of resistance (see Table 5).
 
-Coadministration of GENVOYA with other drugs that inhibit CYP3A may decrease the clearance and increase the plasma concentration of cobicistat (see Table 5).
-
+Coadministration of GENVOYA with other drugs that inhibit CYP3A may decrease the clearance and increase the plasma concentration of cobicistat.
+(see Table 5).
 TAF, a component of GENVOYA, is a substrate of P-gp, BCRP, OATP1B1 and OATP1B3.
 Drugs that inhibit P-gp and/or BCRP, such as cobicistat, may increase the absorption of TAF (see Table 13).
 However, when TAF is administered as a component of GENVOYA, its availability is increased by cobicistat and a further increase of TAF concentrations is not expected upon coadministration of an additional P-gp and/or BCRP inhibitor.
@@ -44,9 +45,8 @@ Drug Interactions: Alteration in Dose or Regimen May Be Recommended Based on Dru
 
 | Concomitant Drug Class: Drug Name | Effect on Concentration↑ = Increase, ↓ = Decrease | Clinical Comment |
 | --- | --- | --- |
-| Acid Reducing Agents: antacidsIndicates that a drug-drug interaction trial was conducted. e.g., aluminum and magnesium hydroxide | ↓ elvitegravir | Separate GENVOYA and antacid administration by at least 2 hours. |
 | Alpha 1-adrenoreceptor antagonist: alfuzosin | ↑ alfuzosin | Coadministration with alfuzosin is contraindicated due to potential for serious and/or life-threatening reactions such as hypotension. |
-| Antiarrhythmics: e.g., amiodarone bepridil digoxin disopyramide flecainide systemic lidocaine mexiletine propafenone quinidine | ↑ antiarrhythmics ↑ digoxin | Caution is warranted and therapeutic concentration monitoring, if available, is recommended for antiarrhythmics when coadministered with GENVOYA. |
+| Antiarrhythmics: e.g., amiodarone bepridil digoxinIndicates that a drug-drug interaction trial was conducted. disopyramide flecainide systemic lidocaine mexiletine propafenone quinidine | ↑ antiarrhythmics ↑ digoxin | Caution is warranted and therapeutic concentration monitoring, if available, is recommended for antiarrhythmics when coadministered with GENVOYA. |
 | Antibacterials: clarithromycin telithromycin | ↑ clarithromycin ↑ telithromycin ↑ cobicistat | Patients with CLcr greater than or equal to 60 mL/minute: No dosage adjustment of clarithromycin is required. Patients with CLcr between 50 mL/minute and 60 mL/minute: The dosage of clarithromycin should be reduced by 50%. |
 | Anticoagulants: Direct Oral Anticoagulants (DOACs) apixaban rivaroxaban betrixaban dabigatran edoxaban | ↑ apixaban | Due to potentially increased bleeding risk, dosing recommendations for coadministration with GENVOYA depends on the apixaban dose. Refer to apixaban dosing instructions for coadministration with strong CYP3A and P-gp inhibitors in apixaban prescribing information. |
 | ↑ rivaroxaban ↑ betrixaban ↑ dabigatran ↑ edoxaban | Coadministration of rivaroxaban with GENVOYA is not recommended because it may lead to an increased bleeding risk. Due to potentially increased bleeding risk, dosing recommendations for coadministration of betrixaban, dabigatran, or edoxaban with a P-gp inhibitor such as GENVOYA depends on DOAC indication and renal function. Refer to DOAC dosing instructions for coadministration with P-gp inhibitors in DOAC prescribing information. |  |
@@ -59,6 +59,9 @@ Drug Interactions: Alteration in Dose or Regimen May Be Recommended Based on Dru
 | Anti-gout: colchicine | ↑ colchicine | GENVOYA is not recommended to be coadministered with colchicine to patients with renal or hepatic impairment. Treatment of gout-flares – coadministration of colchicine in patients receiving GENVOYA: 0.6 mg (1 tablet) × 1 dose, followed by 0.3 mg (half tablet) 1 hour later. Treatment course to be repeated no earlier than 3 days. Prophylaxis of gout-flares – coadministration of colchicine in patients receiving GENVOYA: If the original regimen was 0.6 mg twice a day, the regimen should be adjusted to 0.3 mg once a day. If the original regimen was 0.6 mg once a day, the regimen should be adjusted to 0.3 mg once every other day. Treatment of familial Mediterranean fever – coadministration of colchicine in patients receiving GENVOYA: Maximum daily dosage of 0.6 mg (may be given as 0.3 mg twice a day). |
 | Antimycobacterial: rifampin | ↓ elvitegravir ↓ cobicistat ↓ TAF | Coadministration with rifampin is contraindicated due to potential for loss of therapeutic effect and development of resistance. |
 | rifabutin rifapentine |  | Coadministration of GENVOYA with rifabutin or rifapentine is not recommended. |
+| Antiplatelets: |  |  |
+| ticagrelor | ↑ ticagrelor | Coadminstration with ticagrelor is not recommended. |
+| clopidogrel | ↓ clopidogrel active metabolite | Coadministration with clopidogrel is not recommended due to protential reduction of the antiplatelet activity of clopidogrel. |
 | Antipsychotics: |  |  |
 | lurasidone | ↑ lurasidone | Coadministration with lurasidone is contraindicated due to potential for serious and/or life-threatening reactions. |
 | pimozide | ↑ pimozide | Coadministration with pimozide is contraindicated due to potential for serious and/or life-threatening reactions such as cardiac arrhythmias. |
@@ -81,11 +84,12 @@ Drug Interactions: Alteration in Dose or Regimen May Be Recommended Based on Dru
 | fentanyl | ↑ fentanyl | Careful monitoring of therapeutic and adverse effects of fentanyl (including potentially fatal respiratory depression) is recommended with coadministration. |
 | tramadol | ↑ tramadol | A dose decrease may be needed for tramadol with concomitant use. |
 | Inhaled Beta Agonist: salmeterol | ↑ salmeterol | Coadministration of salmeterol and GENVOYA is not recommended. Coadministration of salmeterol with GENVOYA may result in increased risk of cardiovascular adverse events associated with salmeterol, including QT prolongation, palpitations, and sinus tachycardia. |
+| Medications or Oral Supplements Containing Polyvalent Cations (e.g., Mg, Al, Ca, Fe, Zn): calcium or iron supplements, including multivitamins cation-containing antacids or laxatives sucralfate buffered medications | ↓ elvitegravir | Separate GENVOYA and administration of medications, antacids, or oral supplements containing polyvalent cations by at least 2 hours. |
 | Phosphodiesterase-5 (PDE5) Inhibitors: sildenafil tadalafil vardenafil | ↑ PDE5 inhibitors | Use of PDE-5 inhibitors for pulmonary arterial hypertension (PAH): Coadministration of sildenafil with GENVOYA is contraindicated when used for treatment of PAH, due to potential for PDE-5 inhibitor associated adverse reactions, including hypotension, syncope, visual disturbances, and priapism. The following dose adjustments are recommended for the use of tadalafil with GENVOYA: Coadministration of tadalafil in patients on GENVOYA: In patients receiving GENVOYA for at least 1 week, start tadalafil at 20 mg once daily. Increase tadalafil dose to 40 mg once daily based upon individual tolerability. Coadministration of GENVOYA in patients on tadalafil: Avoid use of tadalafil during the initiation of GENVOYA. Stop tadalafil at least 24 hours prior to starting GENVOYA. After at least one week following initiation of GENVOYA, resume tadalafil at 20 mg once daily. Increase tadalafil dose to 40 mg once daily based upon individual tolerability. Use of PDE-5 inhibitors for erectile dysfunction: Sildenafil at a single dose not exceeding 25 mg in 48 hours, vardenafil at a single dose not exceeding 2.5 mg in 72 hours, or tadalafil at a single dose not exceeding 10 mg in 72 hours can be used with increased monitoring for PDE-5 inhibitor associated with adverse events. |
-| Sedative/hypnotics: midazolam (oral) triazolam | ↑ midazolam ↑ triazolam | Coadministration with triazolam or orally administered midazolam is contraindicated due to potential for serious and/or life-threatening reactions such as prolonged or increased sedation or respiratory depression. |
+| Sedative/hypnotic: midazolam (oral) triazolam | ↑ midazolam ↑ triazolam | Coadministration with triazolam or orally administered midazolam is contraindicated due to potential for serious and/or life-threatening reactions such as prolonged or increased sedation or respiratory depression. |
 | Other benzodiazepines: e.g., parenterally administered midazolam clorazepate diazepam estazolam flurazepam | ↑ sedatives/hypnotics | Triazolam and orally administered midazolam are extensively metabolized by CYP3A. Coadministration of triazolam or orally administered midazolam with GENVOYA may cause large increases in the concentrations of these benzodiazepines. Coadministration of parenteral midazolam with GENVOYA should be done in a setting that ensures close clinical monitoring and appropriate medical management in case of respiratory depression and/or prolonged sedation. Dosage reduction for midazolam should be considered, especially if more than a single dose of midazolam is administered. |
 | buspirone zolpidem |  | With other sedative/hypnotics, dose reduction may be necessary and clinical monitoring is recommended. |
 
 ## 7.6 Drugs without Clinically Significant Interactions with GENVOYA
 
-Based on drug interaction studies conducted with the components of GENVOYA, no clinically significant drug interactions have been observed when GENVOYA is combined with the following drugs: famciclovir, famotidine, ledipasvir, methadone, omeprazole, sertraline, sofosbuvir, velpatasvir, and voxilaprevir.
+Based on drug interaction studies conducted with the components of GENVOYA, no clinically significant drug interactions have been observed or are expected when GENVOYA is combined with the following drugs: famciclovir, famotidine, ledipasvir, methadone, omeprazole, prasugrel (active metabolite), sertraline, sofosbuvir, velpatasvir, and voxilaprevir.
