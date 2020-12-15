@@ -2,7 +2,7 @@ PRINCIPAL DISPLAY PANEL - ARICEPT 5 MG TABLETS
 
 NDC 62856-245-30
 
-ARICEPT® 5 (donepezil HCl tablets)
+Aricept® 5 donepezil HCl tablet
 
 5 mg 30 Tablets
 
@@ -10,7 +10,7 @@ PRINCIPAL DISPLAY PANEL - ARICEPT 10 MG TABLETS
 
 NDC 62856-246-30
 
-ARICEPT® 10 (donepezil HCl tablets)
+Aricept® 10 donepezil HCl tablet
 
 10 mg 30 Tablets
 
@@ -18,7 +18,7 @@ PRINCIPAL DISPLAY PANEL - ARICEPT 23 MG TABLETS
 
 NDC 62856-247-30
 
-Aricept® donepezil HCl
+Aricept® donepezil HCl tablet
 
 23 mg 30 tablets
 
