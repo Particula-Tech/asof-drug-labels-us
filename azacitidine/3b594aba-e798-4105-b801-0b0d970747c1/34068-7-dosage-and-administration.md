@@ -2,7 +2,7 @@
 
 ## 2.1 First Treatment Cycle
 
-The recommended starting dose for the first treatment cycle, for all patients regardless of baseline hematology laboratory values, is 75 mg/m2 subcutaneously or intravenously, daily for 7 days.
+The recommended starting dose for the first treatment cycle, for all patients regardless of baseline hematology laboratory values, is 75 mg/m² subcutaneously or intravenously, daily for 7 days.
 Premedicate patients for nausea and vomiting.
 
 Obtain complete blood counts, liver chemistries and serum creatinine prior to the first dose.
@@ -10,7 +10,7 @@ Obtain complete blood counts, liver chemistries and serum creatinine prior to th
 ## 2.2 Subsequent Treatment Cycles
 
 Repeat cycles every 4 weeks.
-The dose may be increased to 100 mg/m2 if no beneficial effect is seen after 2 treatment cycles and if no toxicity other than nausea and vomiting has occurred.
+The dose may be increased to 100 mg/m² if no beneficial effect is seen after 2 treatment cycles and if no toxicity other than nausea and vomiting has occurred.
 It is recommended that patients be treated for a minimum of 4 to 6 cycles.
 However, complete or partial response may require additional treatment cycles.
 Treatment may be continued as long as the patient continues to benefit.
@@ -23,10 +23,10 @@ Monitor patients for hematologic response and renal toxicities [see Warnings and
 
 | Nadir Counts |  | % Dose in the Next Course |
 | --- | --- | --- |
-| ANC (x109/L) | Platelets(x109/L) |  |
-| Less than 0.5 | Less than 25.0 | 50% |
-| 0.5 –1.5 | 25.0-50.0 | 67% |
-| Greater than 1.5 | Greater than 50.0 | 100% |
+| ANC (x109/L) | Platelets (x109/L) |  |
+| Less than 0.5 | Less than 25 | 50% |
+| 0.5 –1.5 | 25-50 | 67% |
+| Greater than 1.5 | Greater than 50 | 100% |
 
 - For patients whose baseline counts are WBC less than 3.0 x109/L, ANC less than 1.5 x109/L, or platelets less than 75.0 x109/L, base dose adjustments on nadir counts and bone marrow biopsy cellularity at the time of the nadir as noted below, unless there is clear improvement in differentiation (percentage of mature granulocytes is higher and ANC is higher than at onset of that course) at the time of the next cycle, in which case continue the current dose.
 
@@ -75,7 +75,7 @@ Due to retention in the vial and needle, it may not be feasible to withdraw all 
 The product may be held at room temperature for up to 1 hour, but must be administered within 1 hour after reconstitution.
 
 Preparation for Delayed Subcutaneous Administration: The reconstituted product may be kept in the vial or drawn into a syringe.
-For doses requiring more than 1 vial divided equally between syringes (e.g., dose 150 mg = 6 mL, 2 syringes with 3 mL in each syringe) and inject into two separate sites.
+For doses requiring more than 1 vial, divide the dose equally between the syringes (e.g., dose 150 mg = 6 mL, 2 syringes with 3 mL in each syringe) and inject into two separate sites.
 Due to retention in the vial and needle, it may not be feasible to withdraw all of the suspension from the vial.
 The product must be refrigerated immediately.
 When Azacitidine for injection is reconstituted using water for injection that has not been refrigerated, the reconstituted product may be held under refrigerated conditions (2°C - 8°C, 36°F - 46°F) for up to 8 hours.
@@ -91,7 +91,7 @@ Azacitidine for injection suspension is administered subcutaneously.
 Rotate sites for each injection (thigh, abdomen, or upper arm).
 New injections should be given at least one inch from an old site and never into areas where the site is tender, bruised, red, or hard.
 
-Suspension Stability: Azacitidine for injection reconstituted with non- refrigerated water for injection for subcutaneous administration may be stored for up to 1 hour at 25°C (77°F) or for up to 8 hours between 2°C and 8°C (36°F and 46°F); when reconstituted with refrigerated (2ºC - 8ºC, 36ºF - 46ºF) water for injection, it may be stored for 22 hours between 2°C and 8°C (36°F and 46°F).
+Suspension Stability: Azacitidine for injection reconstituted with non-refrigerated water for injection for subcutaneous administration may be stored for up to 1 hour at 25°C (77°F) or for up to 8 hours between 2°C and 8°C (36°F and 46°F); when reconstituted with refrigerated (2ºC - 8ºC, 36ºF - 46ºF) water for injection, it may be stored for 22 hours between 2°C and 8°C (36°F and 46°F).
 
 ## 2.8 Instructions for Intravenous Administration
 

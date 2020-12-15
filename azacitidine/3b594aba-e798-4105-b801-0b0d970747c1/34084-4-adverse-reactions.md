@@ -9,7 +9,7 @@ The following adverse reactions are described in other labeling sections:
 - Embryo-Fetal Risk [see Warnings and Precautions (5.5)]
 
 Most Commonly Occurring Adverse Reactions (Subcutaneous or Intravenous Route): nausea, anemia, thrombocytopenia, vomiting, pyrexia, leukopenia, diarrhea, injection site erythema, constipation, neutropenia, ecchymosis.
-The most common adverse reactions by IV route also included petechiae, rigors, weakness and hypokalemia.
+The most common adverse reactions by intravenous route also included petechiae, rigors, weakness and hypokalemia.
 
 Adverse Reactions Most Frequently (>2%) Resulting in Clinical Intervention (Subcutaneous or Intravenous Route):
 
@@ -30,17 +30,17 @@ In Studies 1, 2 and 3, a total of 268 patients were exposed to Azacitidine, incl
 Azacitidine was studied primarily in supportive-care controlled and uncontrolled trials (n=150 and n=118, respectively).
 The population in the subcutaneous studies (n=220) was 23 to 92 years old (mean 66.4 years), 68% male, and 94% white, and had MDS or AML.
 The population in the intravenous study (n=48) was 35 to 81 years old (mean 63.1 years), 65% male, and 100% white.
-Most patients received average daily doses between 50 and 100 mg/m2.
+Most patients received average daily doses between 50 and 100 mg/m².
 
 In Study 4, a total of 175 patients with higher-risk MDS (primarily RAEB and RAEB-T subtypes) were exposed to Azacitidine.
 Of these patients, 119 were exposed for 6 or more cycles, and 63 for at least 12 cycles.
 The mean age of this population was 68.1 years (ranging from 42 to 83 years), 74% were male, and 99% were white.
-Most patients received daily Azacitidine doses of 75 mg/m2.
+Most patients received daily Azacitidine doses of 75 mg/m².
 
 Table 1 presents adverse reactions occurring in at least 5% of patients treated with Azacitidine (subcutaneous) in Studies 1 and 2.
 It is important to note that duration of exposure was longer for the Azacitidine-treated group than for the observation group: patients received Azacitidine for a mean of 11.4 months while mean time in the observation arm was 6.1 months.
 
-Table 1: Most Frequently Observed Adverse Reactions (≥ 5.0% in All Subcutaneous Azacitidine Treated Patients Studies 1 and 2)
+Table 1: Most Frequently Observed Adverse Reactions (≥ 5.0% in All Subcutaneous Azacitidine Treated Patients; Studies 1 and 2)
 
 |  | Number (%) of Patients |  |
 | --- | --- | --- |
@@ -167,7 +167,7 @@ Table 2: Most Frequently Observed Adverse Reactions (≥ 5.0% in the Azacitidine
 | Rash | 18 (10) | 1 (1) | 0 | 0 |
 | Vascular disorders |  |  |  |  |
 | Hypertension | 15 (9) | 4 (4) | 2 (1) | 2 (2) |
-| aMultiple reports of the same preferred term from a patient were only counted once within each treatment. |  |  |  |  |
+| a Multiple reports of the same preferred term from a patient were only counted once within each treatment. |  |  |  |  |
 
 In Studies 1, 2 and 4 with subcutaneous administration of Azacitidine, adverse reactions of neutropenia, thrombocytopenia, anemia, nausea, vomiting, diarrhea, constipation, and injection site erythema/reaction tended to increase in incidence with higher doses of Azacitidine.
 Adverse reactions that tended to be more pronounced during the first 1 to 2 cycles of subcutaneous treatment compared with later cycles included thrombocytopenia, neutropenia, anemia, nausea, vomiting, injection site erythema/pain/bruising/reaction, constipation, petechiae, dizziness, anxiety, hypokalemia, and insomnia.
@@ -211,3 +211,15 @@ Skin and subcutaneous tissue disorders: pyoderma gangrenosum, rash pruritic, ski
 Surgical and medical procedures: cholecystectomy.
 
 Vascular disorders: orthostatic hypotension.
+
+## 6.2 Postmarketing Experience
+
+The following adverse reactions have been identified during postmarketing use of Azacitidine.
+Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
+
+- Interstitial lung disease
+- Tumor lysis syndrome
+- Injection site necrosis
+- Sweet's syndrome (acute febrile neutrophilic dermatosis)
+- Necrotizing fasciitis (including fatal cases)
+- Differentiation syndrome

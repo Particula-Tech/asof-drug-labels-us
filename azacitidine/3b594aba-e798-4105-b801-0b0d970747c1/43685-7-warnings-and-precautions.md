@@ -10,7 +10,8 @@ After administration of the recommended dosage for the first cycle, adjust dosag
 
 Because azacitidine is potentially hepatotoxic in patients with severe pre-existing hepatic impairment, caution is needed in patients with liver disease.
 Patients with extensive tumor burden due to metastatic disease have been reported to experience progressive hepatic coma and death during azacitidine treatment, especially in such patients with baseline albumin <30 g/L.
-Azacitidine is contraindicated in patients with advanced malignant hepatic tumors [see Contraindications (4.1)].Monitor liver chemistries prior to initiation of therapy and with each cycle.
+Azacitidine is contraindicated in patients with advanced malignant hepatic tumors [see Contraindications (4.1)].
+Monitor liver chemistries prior to initiation of therapy and with each cycle.
 
 Safety and effectiveness of Azacitidine in patients with MDS and hepatic impairment have not been studied as these patients were excluded from the clinical trials.
 
