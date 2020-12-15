@@ -43,10 +43,10 @@ Table 3 and Table 4 show pooled selected adverse reactions and abnormal laborato
 | --- | --- |
 |  | Patients with CMV Retinitis |
 | Laboratory Abnormalities | Valganciclovir Tablets (N=370) % |
-| Neutropenia: ANC/µL < 500 500 – < 750 750 – < 1000 | 19 17 17 |
-| Anemia: Hemoglobin g/dL < 6.5 6.5 – < 8.0 8.0 - < 9.5 | 7 13 16 |
-| Thrombocytopenia: Platelets/µL < 25000 25000 – < 50000 50000 – < 100000 | 4 6 22 |
-| Serum Creatinine: mg/dL > 2.5 > 1.5 – 2.5 | 3 12 |
+| Neutropenia: ANC/µL < 500 500 to < 750 750 to < 1000 | 19 17 17 |
+| Anemia: Hemoglobin g/dL < 6.5 6.5 to < 8.0 8.0 to < 9.5 | 7 13 16 |
+| Thrombocytopenia: Platelets/µL < 25000 25000 to < 50000 50000 to < 100000 | 4 6 22 |
+| Serum Creatinine: mg/dL > 2.5 > 1.5 to 2.5 | 3 12 |
 
 Prevention of CMV Disease in Solid Organ Transplant Patients: Table 5 shows selected adverse reactions regardless of severity with an incidence of greater than or equal to 5% from a clinical trial (up to 28 days after study treatment) where heart, kidney, kidney-pancreas and liver transplant patients received valganciclovir tablets (N=244) or oral ganciclovir (N=126) until Day 100 post-transplant.
 The majority of the adverse reactions were of mild or moderate intensity.
@@ -87,10 +87,10 @@ Table 7 and Table 8 show selected laboratory abnormalities reported with valganc
 | Table 7 Selected Laboratory Abnormalities Reported in a Study of Adult Solid Organ Transplant Patients* |  |  |
 | --- | --- | --- |
 | Laboratory Abnormalities | Valganciclovir Tablets (N=244) % | Ganciclovir Capsules (N=126) % |
-| Neutropenia: ANC/µL < 500 500 – < 750 750 – < 1000 | 5 3 5 | 3 2 2 |
-| Anemia: Hemoglobin g/dL < 6.5 6.5 – < 8.0 8.0 – < 9.5 | 1 5 31 | 2 7 25 |
-| Thrombocytopenia: Platelets/µL < 25000 25000 – < 50000 50000 – < 100000 | 0 1 18 | 2 3 21 |
-| Serum Creatinine: mg/dL > 2.5 > 1.5 – 2.5 | 14 45 | 21 47 |
+| Neutropenia: ANC/µL < 500 500 to < 750 750 to < 1000 | 5 3 5 | 3 2 2 |
+| Anemia: Hemoglobin g/dL < 6.5 6.5 to < 8.0 8.0 to < 9.5 | 1 5 31 | 2 7 25 |
+| Thrombocytopenia: Platelets/µL < 25000 25000 to < 50000 50000 to < 100000 | 0 1 18 | 2 3 21 |
+| Serum Creatinine: mg/dL > 2.5 > 1.5 to 2.5 | 14 45 | 21 47 |
 | * Laboratory abnormalities are those reported by investigators. |  |  |
 
 | Table 8 Selected Laboratory Abnormalities Reported in a Study of Adult Kidney Transplant Patients* |  |  |
@@ -98,17 +98,17 @@ Table 7 and Table 8 show selected laboratory abnormalities reported with valganc
 | Laboratory Abnormalities | Valganciclovir Tablets Day 100 Post-transplant (N=164) % | Valganciclovir Tablets Day 200 Post-transplant (N=156) % |
 | Neutropenia: ANC/µL |  |  |
 | < 500 | 9 | 10 |
-| 500 – < 750 | 6 | 6 |
-| 750 – < 1000 | 7 | 5 |
+| 500 to < 750 | 6 | 6 |
+| 750 to < 1000 | 7 | 5 |
 | Anemia: Hemoglobin g/dL |  |  |
 | < 6.5 | 0 | 1 |
-| 6.5 – < 8.0 | 5 | 1 |
-| 8.0 - < 9.5 | 17 | 15 |
+| 6.5 to < 8.0 | 5 | 1 |
+| 8.0 to < 9.5 | 17 | 15 |
 | Thrombocytopenia: Platelets/µL |  |  |
 | < 25000 | 0 | 0 |
-| 25000 – < 50000 | 1 | 0 |
-| 50000 – < 100000 | 7 | 3 |
-| Serum Creatinine: mg/dL > 2.5 > 1.5 – 2.5 | 17 50 | 14 48 |
+| 25000 to < 50000 | 1 | 0 |
+| 50000 to < 100000 | 7 | 3 |
+| Serum Creatinine: mg/dL > 2.5 > 1.5 to 2.5 | 17 50 | 14 48 |
 | * Laboratory abnormalities are those reported by investigators. |  |  |
 
 Other adverse drug reactions from valganciclovir hydrochloride in clinical trials in CMV retinitis and solid organ transplant patients

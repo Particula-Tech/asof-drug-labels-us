@@ -69,7 +69,7 @@ Table 13 Pharmacokinetics of Ganciclovir from a Single Oral Dose of 900 mg Valga
 
 | Estimated Creatinine Clearance* (mL/min) | N | Apparent Clearance (mL/min) Mean ± SD | AUClast (mcg·h/mL) Mean ± SD | Half-life (hours) Mean ± SD |
 | --- | --- | --- | --- | --- |
-| 51 - 70 21 - 50 11 - 20 ≤10 | 6 6 6 6 | 249 ± 99 136 ± 64 45 ± 11 12.8 ± 8 | 49.5 ± 22.4 91.9 ± 43.9 223 ± 46 366 ± 66 | 4.85 ± 1.4 10.2 ± 4.4 21.8 ± 5.2 67.5 ± 34 |
+| 51 to 70 21 to 50 11 to 20 ≤10 | 6 6 6 6 | 249 ± 99 136 ± 64 45 ± 11 12.8 ± 8 | 49.5 ± 22.4 91.9 ± 43.9 223 ± 46 366 ± 66 | 4.85 ± 1.4 10.2 ± 4.4 21.8 ± 5.2 67.5 ± 34 |
 | *Creatinine clearance calculated from 24-hour urine collection. |  |  |  |  |
 
 Hemodialysis reduces plasma concentrations of ganciclovir by about 50% following valganciclovir hydrochloride administration.
@@ -131,7 +131,7 @@ Ganciclovir is a synthetic analogue of 2'-deoxyguanosine, which inhibits replica
 In CMV-infected cells, ganciclovir is initially phosphorylated to ganciclovir monophosphate by the viral protein kinase, pUL97.
 Further phosphorylation occurs by cellular kinases to produce ganciclovir triphosphate, which is then slowly metabolized intracellularly (half-life 18 hours).
 As the phosphorylation is largely dependent on the viral kinase, phosphorylation of ganciclovir occurs preferentially in virus-infected cells.
-The virustatic activity of ganciclovir is due to inhibition of the viral DNA polymerase, pUL54, synthesis by ganciclovir triphosphate.
+The virustatic activity of ganciclovir is due to inhibition of the viral DNA polymerase, pUL54 by ganciclovir triphosphate.
 
 Antiviral Activity: The quantitative relationship between the cell culture susceptibility of human herpes viruses to antivirals and clinical response to antiviral therapy has not been established, and virus sensitivity testing has not been standardized.
 Sensitivity test results, expressed as the concentration of drug required to inhibit the growth of virus in cell culture by 50% (EC50), vary greatly depending upon a number of factors including the assay used.
@@ -139,7 +139,6 @@ Thus, the reported EC50 values of ganciclovir that inhibit human CMV replication
 The distribution and range in susceptibility observed in one assay evaluating 130 clinical isolates was 0 to 1 μM (35%), 1.1 to 2 μM (20%), 2.1 to 3 μM (27%), 3.1 to 4 μM (13%), 4.1 to 5 μM (5%), less than 5 μM (less than 1%).
 Ganciclovir inhibits mammalian cell proliferation (CC50) in cell culture at higher concentrations ranging from 40 to greater than 1,000 μM (10.21 to greater than 250 mcg/mL).
 Bone marrow-derived colony-forming cells are more sensitive [CC50 value = 2.7 to 12 μM (0.69 to 3.06 mcg/mL)].
-
 Viral Resistance:
 
 Cell culture: CMV isolates with reduced susceptibility to ganciclovir have been selected in cell culture.
@@ -152,9 +151,9 @@ These and other substitutions less frequently reported in the literature, or obs
 
 Table 17 Summary of Resistance-associated Amino Acid Substitutions Observed in the CMV of Patients Failing Ganciclovir Treatment or Prophylaxis
 
-| pUL97 | L405P, A440V, M460I/V/T/L, V466G/M, C518Y, H520Q, P521L, del 590-593, A591D/V, C592G, A594E/G/T/V/P, L595F/S/T/W, del 595, del 595-603, E596D/G/Y, K599E/M, del 600-601, del 597-600, del 601-603, C603W/R/S/Y, C607F/S/Y, I610T, A613V |
+| pUL97 | F342Y, K359E/Q, L405P, A440V, M460I/V/T/L, V466G/M, C518Y, H520Q, P521L, del 590-593, A591D/V, C592F/G, A594E/G/T/V/P, L595F/S/T/W, del 595, del 595-603, E596D/G/Y, K599E/M, del 600-601, del 597-600, del 601-603, C603W/R/S/Y, C607F/S/Y, I610T, A613V |
 | --- | --- |
-| pUL54 | E315D, N408D/K/S, F412C/L/S, D413A/E/N, L501F/I, T503I, K513E/N/R, D515E, L516W, I521T, P522A/L/S, V526L, C539G, L545S/W, Q578H/L, D588E/N, G629S, S695T, I726T/V, E756K, L773V, V781I, V787L, L802M, A809V, T813S, T821I, A834P, G841A/S, D879G, A972V, del 981-982, A987G |
+| pUL54 | E315D, N408D/K/S, F412C/L/S, D413A/E/N, L501F/I, T503I, K513E/N/R, D515E, L516W, I521T, P522A/L/S, V526L, C539G, L545S/W, Q578H/L, D588E/N, G629S, S695T, I726T/V, E756K, L773V, V781I, V787E/L, L802M, A809V, T813S, T821I, A834P, G841A/S, D879G, A972V, del 981-982, A987G |
 
 Note: Many additional pathways to ganciclovir resistance likely exist
 
@@ -167,14 +166,14 @@ The possibility of viral resistance should be considered in patients who show po
 
 Cross-Resistance: Cross-resistance has been reported for amino acid substitutions selected in cell culture by ganciclovir, cidofovir or foscarnet.
 In general, amino acid substitutions in pUL54 conferring cross-resistance to ganciclovir and cidofovir are located within the exonuclease domains and region V of the viral DNA polymerase.
-Whereas, amino acid substitutions conferring cross-resistance to foscarnet are diverse, but concentrate at and between regions II (codon 696-742) and III (codon 805-845).
+Whereas, amino acid substitutions conferring cross-resistance to foscarnet are diverse, but concentrate at and between regions II (codon 696 to 742) and III (codon 805 to 845).
 The amino acid substitutions that resulted in reduced susceptibility to ganciclovir and either cidofovir and/or foscarnet are summarized in Table 18.
 
-Substitutions at amino acid positions pUL97 340-400 have been found to confer resistance to ganciclovir.
+Substitutions at amino acid positions pUL97 340 to 400 have been found to confer resistance to ganciclovir.
 Resistance data based on assays that do not include this region should be interpreted cautiously.
 
 Table 18 Summary of pUL54 Amino Acid Substitutions with Cross-Resistance between Ganciclovir, Cidofovir, and/or Foscarnet
 
-| Cross-resistant to cidofovir | D301N, N408D/K, N410K, F412C/L/S/V, D413E/N, P488R, L501I, T503I, K513E/N, L516R/W, I521T, P522S/A, V526L, C539G/R, L545S/W, Q578H, D588N, I726T/V, E756K, L733V, V812L, T813S, A834P, G841A, del 981-982, A987G |
+| Cross-resistant to cidofovir | D301N, N408D/K, N410K, F412C/L/S/V, D413E/N, P488R, L501I, T503I, K513E/N, L516R/W, I521T, P522S/A, V526L, C539G/R, L545S/W, Q578H, D588N, I726T/V, E756K, L733V, V787E, V812L, T813S, A834P, G841A, del 981-982, A987G |
 | --- | --- |
-| Cross-resistant to foscarnet | F412C, Q578H/L, D588N, V715A/M, E756K, L733V, V781I, V787L, L802M, A809V, V812L, T813S, T821I, A834P, G841A/S, del 981-982 |
+| Cross-resistant to foscarnet | F412C, Q578H/L, D588N, V715A/M, E756K, L733V, V776M, V781I, V787E/L, L802M, A809V, V812L, T813S, T821I, A834P, G841A/S, del 981-982 |

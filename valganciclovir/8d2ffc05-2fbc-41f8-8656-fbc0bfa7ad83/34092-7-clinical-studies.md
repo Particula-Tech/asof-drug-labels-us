@@ -6,9 +6,7 @@ Induction Therapy of CMV Retinitis: In one randomized open-label controlled stud
 Study participants were: male (91%), White (53%), Hispanic (31%), and Black (11%).
 The median age was 39 years, the median baseline HIV-1 RNA was 4.9 log10, and the median CD4 cell count was 23 cells/mm3.
 A determination of CMV retinitis progression by the masked review of retinal photographs taken at baseline and Week 4 was the primary outcome measurement of the 3-week induction therapy.
-Table 19
-
-provides the outcomes at 4 weeks.
+Table 19 provides the outcomes at 4 weeks.
 
 Table 19 Week 4 Masked Review of Retinal Photographs in CMV Retinitis Study
 
@@ -35,10 +33,10 @@ Table 20 Percentage of Patients with CMV Disease, Tissue-Invasive CMV Disease or
 |  | CMV Disease1 |  | Tissue-Invasive CMV Disease |  | CMV Syndrome2 |  |
 | --- | --- | --- | --- | --- | --- | --- |
 | Organ | VGCV (N=239) | GCV (N=125) | VGCV (N=239) | GCV (N=125) | VGCV (N=239) | GCV (N=125) |
-| Liver (n=177) | 19% (22 / 118) | 12% (7 / 59) | 14% (16 / 118) | 3% (2 / 59) | 5% (6 / 118) | 8% (5 / 59) |
-| Kidney (n=120) | 6% (5 / 81) | 23% (9 / 39) | 1% (1 / 81) | 5% (2 / 39) | 5% (4 / 81) | 18% (7 / 39) |
-| Heart (n=56) | 6% (2 / 35) | 10% (2 / 21) | 0% (0 / 35) | 5% (1 / 21) | 6% (2 / 35) | 5% (1 / 21) |
-| Kidney / Pancreas (n=11) | 0% (0 / 5) | 17% (1 / 6) | 0% (0 / 5) | 17% (1 / 6) | 0% (0 / 5) | 0% (0 / 6) |
+| Liver (n=177) | 19% (22/118) | 12% (7/59) | 14% (16/118) | 3% (2/59) | 5% (6/118) | 8% (5/59) |
+| Kidney (n=120) | 6% (5/81) | 23% (9/39) | 1% (1/81) | 5% (2/39) | 5% (4/81) | 18% (7/39) |
+| Heart (n=56) | 6% (2/35) | 10% (2/21) | 0% (0/35) | 5% (1/21) | 6% (2/35) | 5% (1/21) |
+| Kidney/Pancreas (n=11) | 0% (0/5) | 17% (1/6) | 0% (0/5) | 17% (1/6) | 0% (0/5) | 0% (0/6) |
 | GCV = oral ganciclovir; VGCV = valganciclovir 1 Number of patients with CMV disease = Number of patients with tissue-invasive CMV disease or CMV syndrome 2 CMV syndrome was defined as evidence of CMV viremia accompanied with fever greater than or equal to 38°C on two or more occasions separated by at least 24 hours within a 7-day period and one or more of the following: malaise, leukopenia, atypical lymphocytosis, thrombocytopenia, and elevation of hepatic transaminases |  |  |  |  |  |  |
 
 Prevention of CMV Disease in Kidney Transplantation: A double-blind, placebo-controlled study was conducted in 326 kidney transplant patients at high risk for CMV disease (D+/R-) to assess the efficacy and safety of extending valganciclovir hydrochloride CMV prophylaxis from 100 to 200 days post-transplant.
@@ -51,7 +49,7 @@ Table 21 Percentage of Kidney Transplant Patients with CMV Disease, Tissue-Invas
 |  | CMV Disease1 |  | Tissue-Invasive CMV Disease |  | CMV Syndrome2 |  |
 | --- | --- | --- | --- | --- | --- | --- |
 |  | 100 Days VGCV (N=163) | 200 Days VGCV (N=155) | 100 Days VGCV (N=163) | 200 Days VGCV (N=155) | 100 Days VGCV (N=163) | 200 Days VGCV (N=155) |
-| Cases | 36.8% (60/163) | 16.8% (26/155) | 1.8% (3/163)3 | 0.6% (1/155) | 35.0% (57/163) | 16.1% (25/155) |
+| Cases | 36.8% (60/163) | 16.8% (26/155) | 1.8% (3/163)3 | 0.6% (1/155) | 35% (57/163) | 16.1% (25/155) |
 | VGCV = valganciclovir. 1 Number of patients with CMV disease = Number of patients with tissue-invasive CMV disease or CMV syndrome 2 CMV syndrome was defined as evidence of CMV viremia accompanied with at least one of the following: fever (greater than or equal to 38°C), severe malaise, leukopenia, atypical lymphocytosis, thrombocytopenia, and elevation of hepatic transaminases 3 Two patients in the 100 day group had both tissue-invasive CMV disease and CMV syndrome; however, these patients are counted as having only tissue-invasive CMV disease. |  |  |  |  |  |  |
 
 The percentage of kidney transplant patients with CMV disease at 24 months post-transplant was 38.7% (63/163) for the 100 day dosing regimen and 21.3% (33/155) for the 200 day dosing regimen.

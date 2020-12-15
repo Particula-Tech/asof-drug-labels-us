@@ -41,7 +41,10 @@ Table 1 k Values According to Pediatric Patient Age*
 | *The k values provided are based on the Jaffe method of measuring serum creatinine, and may require correction when enzymatic methods are used1. |  |
 
 Monitor serum creatinine levels regularly and consider changes in height and body weight and adapt the dose as appropriate during prophylaxis period.
-All calculated doses should be rounded to the nearest 10 mg increment for the actual deliverable dose.
+
+All calculated doses should be rounded to the nearest 25 mg increment for the actual deliverable dose.
+The oral dispenser is graduated in 0.5 mL increments.
+A 50 mg dose is equivalent to 1 mL.
 If the calculated dose exceeds 900 mg, a maximum dose of 900 mg should be administered.
 Valganciclovir for oral solution is the preferred formulation since it provides the ability to administer a dose calculated according to the formula above; however, valganciclovir tablets may be used if the calculated doses are within 10% of available tablet strength (450 mg).
 For example, if the calculated dose is between 405 mg and 495 mg, one 450 mg tablet may be taken.
@@ -59,9 +62,9 @@ Table 2 Dosage Recommendations for Adult Patients with Impaired Renal Function
 | --- | --- | --- |
 | Valganciclovir Tablets 450 mg |  |  |
 | ≥ 60 | 900 mg twice daily | 900 mg once daily |
-| 40 – 59 | 450 mg twice daily | 450 mg once daily |
-| 25 – 39 | 450 mg once daily | 450 mg every 2 days |
-| 10 – 24 | 450 mg every 2 days | 450 mg twice weekly |
+| 40 to 59 | 450 mg twice daily | 450 mg once daily |
+| 25 to 39 | 450 mg once daily | 450 mg every 2 days |
+| 10 to 24 | 450 mg every 2 days | 450 mg twice weekly |
 | < 10 (on hemodialysis) | not recommended | not recommended |
 | *An estimated creatinine clearance in adults is calculated from serum creatinine by the following formulas: |  |  |
 

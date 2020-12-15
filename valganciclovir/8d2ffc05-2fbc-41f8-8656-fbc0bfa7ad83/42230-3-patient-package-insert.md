@@ -22,15 +22,13 @@ Valganciclovir tablets can cause serious side effects, including:
   If you are a female who can become pregnant, you should use effective birth control during treatment with valganciclovir tablets and for at least 30 days after treatment.
   If you are pregnant, talk to your healthcare provider before starting treatment with valganciclovir tablets.
   If you are a female who can become pregnant, you should have a pregnancy test done before starting valganciclovir tablets.
-
-- Tell your healthcare provider right away if you become pregnant during treatment with valganciclovir tablets.
-- Males should use condoms during treatment with valganciclovir tablets, and for at least 90 days after treatment, if their female sexual partner can become pregnant.
-  Talk to your healthcare provider if you have questions about birth control.
-
+  - Tell your healthcare provider right away if you become pregnant during treatment with valganciclovir tablets.
+  - Males should use condoms during treatment with valganciclovir tablets, and for at least 90 days after treatment, if their female sexual partner can become pregnant.
+    Talk to your healthcare provider if you have questions about birth control.
 - Cancer.
   Valganciclovir tablets cause cancer in animals and may potentially cause cancer in people.
 
-Your healthcare provider will do regular blood test during treatment with valganciclovir tablets to check you for side effects.
+Your healthcare provider will do regular blood tests during treatment with valganciclovir tablets to check you for side effects.
 Your healthcare provider may change your dose or stop treatment with valganciclovir tablets if you have serious side effects.
 
 What are valganciclovir tablets?
@@ -152,10 +150,10 @@ Active ingredient: valganciclovir hydrochloride
 
 Inactive ingredients: crospovidone, hypromellose, iron oxide red, magnesium stearate, microcrystalline cellulose, polyethylene glycol, polysorbate, povidone, and titanium dioxide.
 
-This Patient Information has been approved by the U.S. Food and Drug Administration
+This Patient Information has been approved by the U.S. Food and Drug Administration.
 
 All brands listed are the trademarks of their respective owners and are not trademarks of Aurobindo Pharma Limited.
 
 For more information, call Aurobindo Pharma USA, Inc. at 1-866-850-2876.
 
-Distributed by: Aurobindo Pharma USA, Inc. 279 Princeton-Hightstown Road East Windsor, NJ 08520 Manufactured by: Aurobindo Pharma Limited Hyderabad-500 038, India Revised: 09/2018
+Distributed by: Aurobindo Pharma USA, Inc. 279 Princeton-Hightstown Road East Windsor, NJ 08520 Manufactured by: Aurobindo Pharma Limited Hyderabad-500 038, India Revised: 12/2020
