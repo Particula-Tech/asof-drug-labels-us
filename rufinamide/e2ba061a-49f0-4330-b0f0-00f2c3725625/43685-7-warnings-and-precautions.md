@@ -32,9 +32,6 @@ Anyone considering prescribing rufinamide or any other AED must balance the risk
 Epilepsy and many other illnesses for which AEDs are prescribed are themselves associated with morbidity and mortality and an increased risk of suicidal thoughts and behavior.
 Should suicidal thoughts and behavior emerge during treatment, consider whether the emergence of these symptoms in any given patient may be related to the illness being treated.
 
-Patients, their caregivers, and families should be informed that AEDs increase the risk of suicidal thoughts and behavior and should be advised of the need to be alert for the emergence or worsening of the signs and symptoms of depression, any unusual changes in mood or behavior, or the emergence of suicidal thoughts, behavior, or thoughts about self-harm.
-Behaviors of concern should be reported immediately to healthcare providers.
-
 ## 5.2 Central Nervous System Reactions
 
 Use of rufinamide has been associated with central nervous system-related adverse reactions in the controlled clinical trial of patients 4 years or older with Lennox-Gastaut Syndrome.
@@ -71,7 +68,7 @@ Caution should be used when administering rufinamide with other drugs that short
 
 Drug Reaction with Eosinophilia and Systemic Symptoms (DRESS), also known as multi-organ hypersensitivity, has been reported in patients taking antiepileptic drugs, including rufinamide.
 DRESS may be fatal or life-threatening.
-DRESS typically, although not exclusively, presents with fever, rash, and/or lymphadenopathy, in association with other organ system involvement, such as hepatitis, nephritis, hematological abnormalities, myocarditis, or myositis, sometimes resembling an acute viral infection.
+DRESS typically, although not exclusively, presents with fever, rash, and/or lymphadenopathy, and/or facial swelling, in association with other organ system involvement, such as hepatitis, nephritis, hematological abnormalities, myocarditis, or myositis, sometimes resembling an acute viral infection.
 Eosinophilia is often present.
 It is important to note that early manifestations of hypersensitivity, such as fever or lymphadenopathy, may be present even though rash is not evident.
 Because this disorder is variable in its expression, other organ systems not noted here may be involved.

@@ -23,7 +23,7 @@ Advise patients to notify their physician if they experience a rash associated w
 Drug Interactions
 
 - Inform female patients of childbearing age that the concurrent use of rufinamide oral suspension with hormonal contraceptives may render this method of contraception less effective.
-  Recommend patients use additional non-hormonal forms of contraception when using rufinamide oral suspension [see Drug Interactions (7.3)].
+  Recommend patients use additional non-hormonal forms of contraception when using rufinamide oral suspension [see Drug Interactions (7.3) and Use in Specific Populations (8.3)].
 - Inform patients that alcohol in combination with rufinamide oral suspension may cause additive central nervous system effects.
 
 Pregnancy
@@ -34,4 +34,6 @@ To enroll, patients can call the toll-free number 1-888-233-2334 [see Use in Spe
 
 Breast-feeding
 
-Advise patients to notify their physician if they are breast-feeding or intend to breast-feed [see Use in Specific Populations (8.3)].
+Advise patients to notify their physician if they are breast-feeding or intend to breast-feed [see Use in Specific Populations (8.2)].
+
+Distributed by: Bionpharma Inc. 600 Alexander Road, Princeton, NJ 08540 Revised September 2020 FDA-05

@@ -91,7 +91,7 @@ Based on in vivo drug interaction studies with triazolam and oral contraceptives
 
 - Co-administration and pre-treatment of rufinamide (400 mg twice daily) and triazolam resulted in a 37% decrease in AUC and a 23% decrease in C max of triazolam, a CYP 3A4 substrate.
 - Co-administration of rufinamide (800 mg twice daily for 14 days) and Ortho-Novum 1/35 ® resulted in a mean decrease in the ethinyl estradiol AUC 0-24 of 22% and C max by 31% and norethindrone AUC 0-24 by 14% and C max by 18%, respectively.
-  The clinical significance of this decrease is unknown [see Drug Interactions (7.3)].
+  The clinical significance of this decrease is unknown [see Drug Interactions (7.3) and Use in Specific Populations (8.3)].
 
 Rufinamide is metabolized by carboxylesterases.
 Drugs that may induce the activity of carboxylesterases may increase the clearance of rufinamide.

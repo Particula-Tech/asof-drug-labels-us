@@ -9,7 +9,7 @@ Table 6 summarizes the drug-drug interactions of rufinamide with other AEDs.
 
 Table 6: Summary of drug-drug interactions of rufinamide with other antiepileptic drugs
 
-| AED Co-administered | Influence of Rufinamide on AED concentrationa) | Influence of AED on Rufinamide concentration |
+| AED Co-administered | Influence of Rufinamide on AED concentration a) | Influence of AED on Rufinamide concentration |
 | --- | --- | --- |
 | Carbamazepine | Decrease by 7 to 13% b) | Decrease by 19 to 26% Dependent on dose of carbamazepine |
 | Lamotrigine | Decrease by 7 to 13% b) | No Effect |
@@ -39,4 +39,4 @@ Similarly, patients on valproate should begin at a rufinamide dose lower than 10
 ## 7.3 Effects of Rufinamide on Hormonal Contraceptives
 
 Female patients of childbearing age should be warned that the concurrent use of rufinamide with hormonal contraceptives may render this method of contraception less effective.
-Additional non-hormonal forms of contraception are recommended when using rufinamide [see Clinical Pharmacology (12.3) and Patient Counseling Information (17)].
+Additional non-hormonal forms of contraception are recommended when using rufinamide [see Use in Specific Populations (8.3), Clinical Pharmacology (12.3) and Patient Counseling Information (17)].

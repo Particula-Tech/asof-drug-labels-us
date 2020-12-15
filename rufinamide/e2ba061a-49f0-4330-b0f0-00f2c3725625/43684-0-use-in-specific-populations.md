@@ -2,32 +2,55 @@
 
 ## 8.1 Pregnancy
 
-Pregnancy Category C
+Pregnancy Exposure Registry
 
-There are no adequate and well-controlled studies in pregnant women.
-Rufinamide should be used during pregnancy only if the potential benefit justifies the potential risk to the fetus.
-Rufinamide produced developmental toxicity when administered orally to pregnant animals at clinically relevant doses.
+There is a pregnancy exposure registry that monitors pregnancy outcomes in women exposed to AEDs, such as rufinamide, during pregnancy.
+Encourage women who are taking rufinamide during pregnancy to enroll in the North American Antiepileptic Drug (NAAED) Pregnancy Registry by calling 1-888-233-2334 or visiting http://www.aedpregnancyregistry.org.
 
-Rufinamide was administered orally to rats at doses of 20, 100, and 300 mg/kg per day and to rabbits at doses of 30, 200, and 1,000 mg/kg/day during the period of organogenesis (implantation to closure of the hard palate); the high doses are associated with plasma AUCs ≈2 times the human plasma AUC at the maximum recommended human dose (MRHD, 3,200 mg per day).
-Decreased fetal weights and increased incidences of fetal skeletal abnormalities were observed in rats at doses associated with maternal toxicity.
-In rabbits, embryo-fetal death, decreased fetal body weights, and increased incidences of fetal visceral and skeletal abnormalities occurred at all but the low dose.
-The highest dose tested in rabbits was associated with abortion.
-The no-effect doses for adverse effects on rat and rabbit embryo-fetal development (20 and 30 mg/kg per day, respectively) were associated with plasma AUCs ≈ 0.2 times that in humans at the MRHD.
+Risk Summary
 
-In a rat pre- and post-natal development study (dosing from implantation through weaning) conducted at oral doses of 5, 30, and 150 mg/kg per day (associated with plasma AUCs up to ≈1.5 times that in humans at the MRHD), decreased offspring growth and survival were observed at all doses tested.
-A no-effect dose for adverse effects on pre- and post-natal development was not established.
-The lowest dose tested was associated with plasma AUC < 0.1 times that in humans at the MRHD.
+There are no adequate data on the developmental risks associated with use of rufinamide in pregnant women.
+In animal reproduction studies, oral administration of rufinamide resulted in developmental toxicity in pregnant rats and rabbits at clinically relevant doses [see Data].
 
-Pregnancy Registry
+In the U.S. general population, the estimated background risk of major birth defects and miscarriage in clinically recognized pregnancies is 2 to 4% and 15 to 20%, respectively.
+The background risk of major birth defects and miscarriage for the indicated population is unknown.
 
-To provide information regarding the effects of in utero exposure to rufinamide, physicians are advised to recommend that pregnant patients taking rufinamide enroll in the North American Antiepileptic Drug Pregnancy Registry.
-This can be done by calling the toll-free number 1-888-233-2334, and must be done by patients themselves.
-Information on the registry can also be found at the website http://www.aedpregnancyregistry.org/.
+Data
 
-## 8.3 Nursing Mothers
+Animal data
 
-Rufinamide is likely to be excreted in human milk.
-Because of the potential for serious adverse reactions in nursing infants from rufinamide, a decision should be made whether to discontinue nursing or discontinue the drug taking into account the importance of the drug to the mother.
+Oral administration of rufinamide (0, 20, 100, or 300 mg/kg/day) to pregnant rats throughout organogenesis resulted in decreased fetal weight and increased incidence of fetal skeletal abnormalities at 100 and 300 mg/kg/day, which were associated with maternal toxicity.
+The maternal plasma exposure (AUC) at the no-adverse effect dose (20 mg/kg/day) for developmental toxicity was less than that in humans at the maximum recommended human dose (MRHD) of 3,200 mg/day.
+
+Oral administration of rufinamide (0, 30, 200, or 1,000 mg/kg/day) to pregnant rabbits throughout organogenesis resulted in embryofetal death, decreased fetal body weight, and increased incidence of fetal visceral and skeletal abnormalities at doses of 200 and 1,000 mg/kg/day.
+The high dose (1,000 mg/kg/day) was associated with abortion.
+Plasma exposure (AUC) at the no-adverse effect dose (30 mg/kg/day) was less than that in humans at the MRHD.
+
+When rufinamide was orally administered (0, 5, 30, or 150 mg/kg/day) to pregnant rats throughout pregnancy and lactation, decreased offspring growth and survival were observed at all doses tested.
+A no-effect dose for adverse effects on pre- and postnatal development was not established.
+At the lowest dose tested (5 mg/kg/day), plasma exposure (AUC) was less than that in humans at the MRHD.
+
+## 8.2 Lactation
+
+Risk Summary
+
+There are no data on the presence of rufinamide in human milk, the effects on the breastfed infant, or the effects of the drug on milk production.
+
+The developmental and health benefits of breastfeeding should be considered along with the mother’s clinical need for rufinamide and any potential adverse effects on the breastfed infant from rufinamide or from the underlying maternal condition.
+
+## 8.3 Females and Males of Reproductive Potential
+
+Contraception
+
+Use of rufinamide may reduce the effectiveness of hormonal contraceptives containing ethinyl estradiol or norethindrone.
+Advise women of reproductive potential taking rufinamide who are using a contraceptive containing ethinyl estradiol and norethindrone to use an additional non-hormonal form of contraception [see Drug Interactions (7.3) and Clinical Pharmacology (12.3)].
+
+Infertility
+
+The effect of rufinamide on fertility in humans has not been established.
+Oral administration of rufinamide (20, 60, 200, and 600 mg/kg/day) to male and female rats prior to mating, during mating, and during early gestation (females only) resulted in the impairment of fertility at all dose levels tested.
+The no-effect dose was not established.
+The plasma exposure level at 20 mg/kg was approximately 0.2 times the human plasma AUC at the MRHD [see Nonclinical Toxicology (13.1)].
 
 ## 8.4 Pediatric Use
 
@@ -37,6 +60,9 @@ The effectiveness in patients 1 to less than 4 years was based upon a bridging p
 The pharmacokinetics of rufinamide in the pediatric patients, ages 1 to less than 4 years of age is similar to children older than 4 years of age and adults [see Clinical Pharmacology (12.3)].
 
 Safety and effectiveness in pediatric patients below the age of 1 year has not been established.
+
+Oral administration of rufinamide (0, 15, 50, or 150 mg/kg) to young rats for 10 weeks starting on postnatal day 7 resulted in decreased brain weights at the mid and high doses and neurobehavioral impairment (learning and memory deficit, altered startle response, decreased locomotor activity) and decreased growth (decreased body weight) at the highest dose tested.
+The no-effect dose for adverse effects on postnatal development in rats (15 mg/kg) was associated with a plasma exposure (AUC) lower than that in humans at the maximum recommended human dose (MRHD) of 3,200 mg/day.
 
 ## 8.5 Geriatric Use
 
