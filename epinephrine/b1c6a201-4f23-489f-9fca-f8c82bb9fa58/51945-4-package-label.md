@@ -37,9 +37,9 @@ If solution is discolored, replace your SYMJEPI.
 
 RX only
 
-# 2-Pack Inner Carton
+# 2-Pack Inner Carton 0.3 mg
 
-NDC 0781-3442-20
+NDC 0781- 3442-20
 
 Rx Only
 
@@ -92,7 +92,7 @@ If solution is discolored, replace your SYMJEPI.
 
 RX only
 
-# 2-Pack Inner Carton
+# 2-Pack Inner Carton 0.15 mg
 
 NDC 0781-3448-20
 
