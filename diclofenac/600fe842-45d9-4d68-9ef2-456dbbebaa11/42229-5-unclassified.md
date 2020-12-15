@@ -1,1 +1,4 @@
-LAB-0061-26.0
+This product's labeling may have been updated.
+For the most recent prescribing information, please visit www.pfizer.com.
+
+LAB-0061-27.0
