@@ -11,8 +11,8 @@ Talk with your doctor.
 
 Pantoprazole sodium delayed-release tablets can cause serious side effects, including:
 
-- A type of kidney problem (acute interstitial nephritis).
-  Some people who take proton pump inhibitor (PPI) medicines, including pantoprazole sodium delayed-release tablets, may develop a kidney problem called acute interstitial nephritis that can happen at any time during treatment with pantoprazole sodium delayed-release tablets.
+- A type of kidney problem (acute tubulointerstitial nephritis).
+  Some people who take proton pump inhibitor (PPI) medicines, including pantoprazole sodium delayed-release tablets, may develop a kidney problem called acute tubulointerstitial nephritis that can happen at any time during treatment with pantoprazole sodium delayed-release tablets.
   Call your doctor right away if you have a decrease in the amount that you urinate or if you have blood in your urine.
 - Diarrhea caused by an infection (Clostridium difficile) in your intestines.
   Call your doctor right away if you have watery stools or stomach pain that does not go away.
@@ -134,4 +134,4 @@ Dispense with Medication Guide available at: www.aurobindousa.com/medication-gui
 
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
 
-Distributed by: Aurobindo Pharma USA, Inc. 279 Princeton-Hightstown Road East Windsor, NJ 08520 Manufactured by: Aurobindo Pharma Limited Hyderabad-500 038, India Revised: 07/2020
+Distributed by: Aurobindo Pharma USA, Inc. 279 Princeton-Hightstown Road East Windsor, NJ 08520 Manufactured by: Aurobindo Pharma Limited Hyderabad-500 038, India Revised: 12/2020

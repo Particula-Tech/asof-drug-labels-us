@@ -130,11 +130,7 @@ Table 7: PK Parameters in Children and Adolescents 6 through 16 years with GERD 
 | AUC (mcg•h/mL)a | 6.9 | 5.5 |
 | CL/F (L/h)b | 6.6 | 6.8 |
 
-a Geometric mean values b Median values
-
-Male and Female Patients
-
-There is a modest increase in pantoprazole AUC and Cmax in women compared to men.
+a Geometric mean values b Median values Male and Female Patients There is a modest increase in pantoprazole AUC and Cmax in women compared to men.
 However, weight-normalized clearance values are similar in women and men.
 In pediatric patients ages 1 through 16 years there were no clinically relevant effects of gender on clearance of pantoprazole, as shown by population pharmacokinetic analysis.
 
@@ -142,9 +138,7 @@ Patients with Renal Impairment
 
 In patients with severe renal impairment, pharmacokinetic parameters for pantoprazole were similar to those of healthy subjects.
 
-Patients with Hepatic Impairment
-
-In patients with mild to severe hepatic impairment (Child-Pugh A to C cirrhosis), maximum pantoprazole concentrations increased only slightly (1.5-fold) relative to healthy subjects.
+Patients with Hepatic Impairment In patients with mild to severe hepatic impairment (Child-Pugh A to C cirrhosis), maximum pantoprazole concentrations increased only slightly (1.5-fold) relative to healthy subjects.
 Although serum half-life values increased to 7 to 9 hours and AUC values increased by 5- to 7-fold in hepatic-impaired patients, these increases were no greater than those observed in CYP2C19 poor metabolizers, where no dosage adjustment is warranted.
 These pharmacokinetic changes in hepatic-impaired patients result in minimal drug accumulation following once-daily, multiple-dose administration.
 Doses higher than 40 mg/day have not been studied in hepatically impaired patients.
@@ -171,7 +165,6 @@ Mycophenolate Mofetil (MMF)
 Administration of pantoprazole 40 mg twice daily for 4 days and a single 1000 mg dose of MMF approximately one hour after the last dose of pantoprazole to 12 healthy subjects in a cross-over study resulted in a 57% reduction in the Cmax and 27% reduction in the AUC of MPA.
 Transplant patients receiving approximately 2000 mg per day of MMF (n=12) were compared to transplant patients receiving approximately the same dose of MMF and pantoprazole 40 mg per day (n=21).
 There was a 78% reduction in the Cmax and a 45% reduction in the AUC of MPA in patients receiving both pantoprazole and MMF [see Drug Interactions (7)].
-
 Other Drugs
 
 In vivo studies also suggest that pantoprazole does not significantly affect the kinetics of the following drugs (cisapride, theophylline, diazepam [and its active metabolite, desmethyldiazepam], phenytoin, metoprolol, nifedipine, carbamazepine, midazolam, clarithromycin, diclofenac, naproxen, piroxicam, and oral contraceptives [levonorgestrel/ethinyl estradiol]).

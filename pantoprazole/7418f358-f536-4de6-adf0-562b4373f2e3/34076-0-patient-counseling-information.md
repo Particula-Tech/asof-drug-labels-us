@@ -5,11 +5,12 @@ Advise the patient to read the FDA-approved patient labeling Medication Guide.
 Gastric Malignancy
 
 Advise patients to return to their healthcare provider if they have a suboptimal response or an early symptomatic relapse [see Warnings and Precautions (5.1)].
+Acute Tubulointerstitial Nephritis
 
-Acute Interstitial Nephritis
+Advise patients to call their healthcare provider immediately if they experience signs and/or symptoms associated with acute tubulointerstitial nephritis [see Contraindications (4), Warnings and Precautions (5.2)].
+Clostridium difficile-Associated Diarrhea
 
-Advise patients to call their healthcare provider immediately if they experience signs and/or symptoms associated with acute interstitial nephritis [see Warnings and Precautions (5.2)].
-Clostridium difficile-Associated Diarrhea Advise patients to immediately call their healthcare provider if they experience diarrhea that does not improve [see Warnings and Precautions (5.3)].
+Advise patients to immediately call their healthcare provider if they experience diarrhea that does not improve [see Warnings and Precautions (5.3)].
 
 Bone Fracture
 
@@ -47,4 +48,4 @@ Administration
 
 Dispense with Medication Guide available at: www.aurobindousa.com/medication-guides
 
-Distributed by: Aurobindo Pharma USA, Inc. 279 Princeton-Hightstown Road East Windsor, NJ 08520 Manufactured by: Aurobindo Pharma Limited Hyderabad-500 038, India Revised: 07/2020
+Distributed by: Aurobindo Pharma USA, Inc. 279 Princeton-Hightstown Road East Windsor, NJ 08520 Manufactured by: Aurobindo Pharma Limited Hyderabad-500 038, India Revised: 12/2020
