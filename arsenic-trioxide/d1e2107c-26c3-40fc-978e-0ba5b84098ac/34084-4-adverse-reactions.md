@@ -1,13 +1,12 @@
 # 6 ADVERSE REACTIONS
 
-The following clinically significant adverse reactions are described elsewhere in the labeling.
+The following clinically significant adverse reactions are described elsewhere in the labeling:
 
 - •Differentiation Syndrome [see Warnings and Precautions (5.1)]
 - •Cardiac Conduction Abnormalities [see Warnings and Precautions (5.2)]
 - •Encephalopathy [see Warnings and Precautions (5.3)]
 - •Hepatotoxicity [see Warnings and Precautions (5.4)]
 - •Carcinogenesis [see Warnings and Precautions (5.5)]
-- •Embryo-Fetal Toxicity [see Warnings and Precautions (5.6)]
 
 ## 6.1 Clinical Trials Experience
 
@@ -16,18 +15,17 @@ Because clinical trials are conducted under widely varying conditions, adverse r
 Relapsed or Refractory APL
 
 Safety information was available for 52 patients with relapsed or refractory APL who participated in clinical trials of arsenic trioxide.
-Forty patients in the Phase 2 study received the recommended dose of 0.15 mg/kg, of whom 28 completed both induction and consolidation treatment cycles.
+Forty patients in the Study PLRXAS01 received the recommended dose of 0.15 mg/kg, of whom 28 completed both induction and consolidation cycles.
 An additional 12 patients with relapsed or refractory APL received doses generally similar to the recommended dose.
-Most patients experienced some drug-related toxicity, most commonly leukocytosis, gastrointestinal (nausea, vomiting, diarrhea, and abdominal pain), fatigue, edema, hyperglycemia, dyspnea, cough, rash or itching, headaches, and dizziness.
-These adverse effects have not been observed to be permanent or irreversible nor do they usually require interruption of therapy.
 
-SAEs, Grade ≥ 3 according to version 2 of the NCI Common Toxicity Criteria, were common.
-Those SAEs attributed to arsenic trioxide in the Phase 2 study of 40 patients with refractory or relapsed APL included APL differentiation syndrome (n = 3), hyperleukocytosis (n = 3), QTc interval ≥ 500 msec (n = 16, 1 with torsade de pointes), atrial dysrhythmias (n = 2), and hyperglycemia (n = 2).
+Serious adverse reactions observed in the 40 patients with refractory or relapsed APL enrolled in Study PLRXAS01 included differentiation syndrome (n = 3), hyperleukocytosis (n = 3), QTc interval ≥ 500 msec (n = 16, 1 with torsade de pointes), atrial dysrhythmias (n = 2), and hyperglycemia (n = 2).
 
-Table 5 describes the adverse reactions that were observed in ≥ 5% patients, between the ages of 5 to 73 years, treated for APL with arsenic trioxide at the recommended dose.
+The most common adverse reactions (> 30%) were nausea, cough, fatigue, pyrexia, headache, abdominal pain, vomiting, tachycardia, diarrhea, dyspnea, hypokalemia, leukocytosis, hyperglycemia, hypomagnesemia, insomnia, dermatitis, edema, QTc prolongation, rigors, sore throat, arthralgia, paresthesia, and pruritus.
+
+Table 5 describes the adverse reactions in patients aged 5 to 73 years with APL who received arsenic trioxide at the recommended dose.
 Similar adverse reactions profiles were seen in the other patient populations who received arsenic trioxide.
 
-Table 5: Adverse Reactions (Any Grade) Occurring in ≥ 5% of Patients Treated with Arsenic Trioxide Injection Monotherapy for Relapsed or Refractory APL
+Table 5: Adverse Reactions (≥ 5%) in Patients with Relapsed or Refractory APL Who Received Arsenic Trioxide Injection in Study PLRXAS01
 
 | Body System Adverse reaction | Any GradeAdverse Reactions |  | Grade ≥ 3 Adverse Reactions |  |
 | --- | --- | --- | --- | --- |
@@ -111,7 +109,7 @@ Table 5: Adverse Reactions (Any Grade) Occurring in ≥ 5% of Patients Treated w
 | Neutropenia | 4 | 10 | 4 | 10 |
 | Disseminated intravascular coagulation | 3 | 8 | 3 | 8 |
 | Lymphadenopathy | 3 | 8 |  |  |
-| Skin & subcutaneous tissue disorders |  |  |  |  |
+| Skin and subcutaneous tissue disorders |  |  |  |  |
 | Dermatitis | 17 | 43 |  |  |
 | Pruritus | 13 | 33 | 1 | 3 |
 | Ecchymosis | 8 | 20 |  |  |
@@ -169,31 +167,31 @@ Table 5: Adverse Reactions (Any Grade) Occurring in ≥ 5% of Patients Treated w
 | Earache | 3 | 8 |  |  |
 | Tinnitus | 2 | 5 |  |  |
 
-Leukocytosis: Leukocytosis greater than 10 Gi/L developed in 50% of patients receiving arsenic trioxide monotherapy for relapsed/refractory APL.
+Other Clinically Relevant Adverse Reactions
+
+Leukocytosis Arsenic trioxide can induce proliferation of leukemic promyelocytes resulting in a rapid increase in white blood cell count.
+Leukocytosis greater than 10 Gi/L developed in 50% of patients receiving arsenic trioxide monotherapy for relapsed/refractory APL.
 In the relapsed/refractory setting, a relationship did not exist between baseline WBC counts and development of hyperleukocytosis nor baseline WBC counts and peak WBC counts.
-Hyperleukocytosis due to arsenic trioxide may warrant treatment with hydroxyurea [see Dosage and Administration (2.2)].
 
 ## 6.2 Postmarketing Experience
 
-The following reactions have been reported from clinical trials and/or worldwide postmarketing surveillance.
-Because they are voluntarily reported from a population of unknown size, precise estimates of frequency or causal relationship to drug exposure cannot always be made.
+The following adverse reactions have been identified during postapproval use of arsenic trioxide.
+Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate the frequency or establish a causal relationship to drug exposure.
 
 Cardiac disorders: Ventricular extrasystoles in association with QT prolongation, ventricular tachycardia in association with QT prolongation, including torsade de pointes, atrioventricular block, and congestive heart failure
 
-Nervous system disorders: Peripheral neuropathy, paresis, seizures, confusion, encephalopathy, Wernicke’s encephalopathy, posterior reversible encephalopathy syndrome
+Ear and labyrinth disorders: Deafness
 
 Hematologic disorders: Pancytopenia, bone marrow necrosis
 
-Infections and infestations: Herpes zoster
+Infections: Herpes zoster
 
-Investigations: Gamma-glutamyltransferase increased
+Investigations: Gamma-glutamyl-transferase increased
 
 Musculoskeletal and connective tissue disorders: Bone pain, myalgia, rhabdomyolysis
 
-Respiratory, thoracic, and mediastinal disorders: Differentiation syndrome, like retinoic acid syndrome, has been reported with the use of arsenic trioxide for the treatment of malignancies other than APL.
-
-Ear and labyrinth disorders: Deafness
-
 Neoplasms benign, malignant and unspecified: Melanoma, pancreatic cancer, squamous cell carcinoma
+
+Nervous system disorders: Peripheral neuropathy, paresis, seizures, confusion, encephalopathy, Wernicke’s encephalopathy, posterior reversible encephalopathy syndrome
 
 Skin and subcutaneous tissue disorders: Toxic epidermal necrolysis

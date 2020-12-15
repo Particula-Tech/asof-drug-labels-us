@@ -1,3 +1,3 @@
 # 4 CONTRAINDICATIONS
 
-Arsenic trioxide is contraindicated in patients who are hypersensitive to arsenic.
+Arsenic trioxide is contraindicated in patients with hypersensitivity to arsenic.
