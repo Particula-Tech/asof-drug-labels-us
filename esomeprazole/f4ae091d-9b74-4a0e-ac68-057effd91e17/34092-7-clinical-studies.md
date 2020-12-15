@@ -21,7 +21,7 @@ Table 9: Erosive Esophagitis Healing Rate (Life-Table Analysis)
 
 1. log-rank test vs. omeprazole 20 mg
 
-N.S. = not significant (p > 0.05).
+N.S. = not significant (p > 0.05)
 
 In these same studies of patients with erosive esophagitis, sustained heartburn resolution and time to sustained heartburn resolution were evaluated and are shown in the Table 10:
 
@@ -99,7 +99,7 @@ See Table 11.
 No additional benefit was seen with esomeprazole magnesium delayed-release capsules 40 mg over esomeprazole magnesium delayed-release capsules 20 mg.
 These studies did not demonstrate significant reduction in the development of NSAID-associated duodenal ulcer due to the low incidence.
 
-Table 11: Cumulative Percentage of Patients without Gastric Ulcers at 26 Weeks:
+Table 11: Cumulative Percentage of Patients without Gastric Ulcers at 26 Weeks
 
 | Study | No. of Patients | Treatment Group | % of Patients Remaining Gastric Ulcer Free1 |
 | --- | --- | --- | --- |

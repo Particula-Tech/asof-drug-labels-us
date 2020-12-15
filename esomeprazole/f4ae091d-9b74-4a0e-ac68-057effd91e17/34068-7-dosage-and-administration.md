@@ -31,8 +31,7 @@ Table 1: Recommended Dosage Schedule for Esomeprazole Magnesium Delayed-Release 
 | Clarithromycin | 500 mg | Twice Daily for 10 Days |
 | Pathological Hypersecretory Conditions Including Zollinger-Ellison Syndrome | 40 mg6 | Twice Daily7 |
 
-1.[See Clinical Studies (14.1).]
-The majority of patients are healed within 4 to 8 weeks.
+1.[See Clinical Studies (14.1)] The majority of patients are healed within 4 to 8 weeks.
 For patients who do not heal after 4 to 8 weeks, an additional 4 to 8 weeks of treatment may be considered.
 
 2.
