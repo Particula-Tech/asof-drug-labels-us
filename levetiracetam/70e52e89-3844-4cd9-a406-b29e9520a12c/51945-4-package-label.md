@@ -16,7 +16,7 @@ Each 100 mL contains: 500 mg levetiracetam (5 mg/mL), water for injection, 820 m
 
 Usual Dosage: See package insert.
 
-EC52USLEVET505
+EC52USLEVET506
 
 CAUTION: After removing the overwrap, check for minute leaks by squeezing the inner bag firmly.
 If leaks are found, discard container as sterility may be impaired.
@@ -28,17 +28,19 @@ TO OPEN: TEAR AT NOTCH.
 Do not use if overwrap has been previously opened or damaged.
 Use unit promptly once overwrap is removed.
 
+Discard unused portion.
+
 Recommended storage: Store at 20° to 25°C (68° to 77°F) [see USP Controlled Room Temperature].
 
 Single-dose dual port bag with an aluminum overwrap.
 
 The container closure is not made with natural rubber latex.
 
-Manufactured for: Mylan Institutional LLC Rockford, IL 61103 U.S.A.
+Manufactured for: Mylan Institutional LLC Morgantown, WV 26505 U.S.A.
 
 Made in Switzerland
 
-HQ:255:10C:R3
+HQ:255:10C:R4
 
 Mylan.com
 
@@ -60,7 +62,7 @@ Each 100 mL contains: 1000 mg levetiracetam (10 mg/mL), water for injection, 750
 
 Usual Dosage: See package insert.
 
-EC52USLEVET105
+EC52USLEVET106
 
 CAUTION: After removing the overwrap, check for minute leaks by squeezing the inner bag firmly.
 If leaks are found, discard container as sterility may be impaired.
@@ -72,17 +74,19 @@ TO OPEN: TEAR AT NOTCH.
 Do not use if overwrap has been previously opened or damaged.
 Use unit promptly once overwrap is removed.
 
+Discard unused portion.
+
 Recommended storage: Store at 20° to 25°C (68° to 77°F) [see USP Controlled Room Temperature].
 
 Single-dose dual port bag with an aluminum overwrap.
 
 The container closure is not made with natural rubber latex.
 
-Manufactured for: Mylan Institutional LLC Rockford, IL 61103 U.S.A.
+Manufactured for: Mylan Institutional LLC Morgantown, WV 26505 U.S.A.
 
 Made in Switzerland
 
-HQ:265:10C:R3
+HQ:265:10C:R4
 
 Mylan.com
 
@@ -104,7 +108,7 @@ Each 100 mL contains: 1500 mg levetiracetam (15 mg/mL), water for injection, 540
 
 Usual Dosage: See package insert.
 
-EC52USLEVET1505
+EC52USLEVET1506
 
 CAUTION: After removing the overwrap, check for minute leaks by squeezing the inner bag firmly.
 If leaks are found, discard container as sterility may be impaired.
@@ -116,16 +120,18 @@ TO OPEN: TEAR AT NOTCH.
 Do not use if overwrap has been previously opened or damaged.
 Use unit promptly once overwrap is removed.
 
+Discard unused portion.
+
 Recommended storage: Store at 20° to 25°C (68° to 77°F) [see USP Controlled Room Temperature].
 
 Single-dose dual port bag with an aluminum overwrap.
 
 The container closure is not made with natural rubber latex.
 
-Manufactured for: Mylan Institutional LLC Rockford, IL 61103 U.S.A.
+Manufactured for: Mylan Institutional LLC Morgantown, WV 26505 U.S.A.
 
 Made in Switzerland
 
-HQ:266:10C:R3
+HQ:266:10C:R4
 
 Mylan.com
