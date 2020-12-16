@@ -10,20 +10,28 @@ If appropriate, resumption of anti-hepatitis B therapy may be warranted, especia
 ## 5.2 New Onset or Worsening Renal Impairment
 
 Tenofovir is principally eliminated by the kidney.
+Renal impairment, including cases of acute renal failure and Fanconi syndrome (renal tubular injury with severe hypophosphatemia), has been reported with the use of VIREAD.
+Tenofovir is principally eliminated by the kidney.
 Renal impairment, including cases of acute renal failure and Fanconi syndrome (renal tubular injury with severe hypophosphatemia), has been reported with the use of VIREAD [see Adverse Reactions (6.2)].
 
 Prior to initiation and during use of VIREAD, on a clinically appropriate schedule, assess serum creatinine, estimated creatinine clearance, urine glucose, and urine protein in all patients.
 In patients with chronic kidney disease, also assess serum phosphorus.
 
+Dosing interval adjustment of VIREAD and close monitoring of renal function are recommended in all patients with creatinine clearance below 50 mL/min.
+No safety or efficacy data are available in patients with renal impairment who received VIREAD using these dosing guidelines, so the potential benefit of VIREAD therapy should be assessed against the potential risk of renal toxicity.
 Dosing interval adjustment of VIREAD and close monitoring of renal function are recommended in all patients with creatinine clearance below 50 mL/min [see Dosage and Administration (2.4)].
 No safety or efficacy data are available in patients with renal impairment who received VIREAD using these dosing guidelines, so the potential benefit of VIREAD therapy should be assessed against the potential risk of renal toxicity.
 
+VIREAD should be avoided with concurrent or recent use of a nephrotoxic agent (e.g., high-dose or multiple non-steroidal anti-inflammatory drugs [NSAIDs]).
+Cases of acute renal failure after initiation of high-dose or multiple NSAIDs have been reported in HIV-infected patients with risk factors for renal dysfunction who appeared stable on TDF.
+Some patients required hospitalization and renal replacement therapy.
+Alternatives to NSAIDs should be considered, if needed, in patients at risk for renal dysfunction.
 VIREAD should be avoided with concurrent or recent use of a nephrotoxic agent (e.g., high-dose or multiple non-steroidal anti-inflammatory drugs [NSAIDs]) [see Drug Interactions (7.1)].
 Cases of acute renal failure after initiation of high-dose or multiple NSAIDs have been reported in HIV-infected patients with risk factors for renal dysfunction who appeared stable on TDF.
 Some patients required hospitalization and renal replacement therapy.
 Alternatives to NSAIDs should be considered, if needed, in patients at risk for renal dysfunction.
 
-Persistent or worsening bone pain, pain in extremities, fractures and/or muscular pain or weakness may be manifestations of proximal renal tubulopathy and should prompt an evaluation of renal function in patients at risk of renal dysfunction.
+Persistent or worsening bone pain, pain in extremities, fractures and/or muscular pain or weakness may be manifestations of proximal renal tubulopathy and should prompt an evaluation of renal function in patients at risk of renal dysfunction.Persistent or worsening bone pain, pain in extremities, fractures and/or muscular pain or weakness may be manifestations of proximal renal tubulopathy and should prompt an evaluation of renal function in patients at risk of renal dysfunction.
 
 ## 5.3 Patients Coinfected with HIV-1 and HBV
 
@@ -43,6 +51,8 @@ Autoimmune disorders (such as Graves' disease, polymyositis, and Guillain-Barré
 
 Bone Mineral Density
 
+In clinical trials in HIV-1 infected adults, VIREAD was associated with slightly greater decreases in bone mineral density (BMD) and increases in biochemical markers of bone metabolism, suggesting increased bone turnover relative to comparators.
+Serum parathyroid hormone levels and 1,25 Vitamin D levels were also higher in subjects receiving VIREAD.
 In clinical trials in HIV-1 infected adults, VIREAD was associated with slightly greater decreases in bone mineral density (BMD) and increases in biochemical markers of bone metabolism, suggesting increased bone turnover relative to comparators [see Adverse Reactions (6.1)].
 Serum parathyroid hormone levels and 1,25 Vitamin D levels were also higher in subjects receiving VIREAD.
 
@@ -54,9 +64,12 @@ Similar trends were observed in chronic HBV-infected pediatric subjects 2 years 
 In all pediatric trials, normal skeletal growth (height) was not affected for the duration of the clinical trials [see Adverse Reactions (6.1)].
 
 The effects of VIREAD-associated changes in BMD and biochemical markers on long-term bone health and future fracture risk in adults and pediatric subjects 2 years and older are unknown.
+The long-term effect of lower spine and total body BMD on skeletal growth in pediatric patients, and in particular, the effects of long-duration exposure in younger children is unknown.The effects of VIREAD-associated changes in BMD and biochemical markers on long-term bone health and future fracture risk in adults and pediatric subjects 2 years and older are unknown.
 The long-term effect of lower spine and total body BMD on skeletal growth in pediatric patients, and in particular, the effects of long-duration exposure in younger children is unknown.
 
 Although the effect of supplementation with calcium and vitamin D was not studied, such supplementation may be beneficial.
+Assessment of BMD should be considered for adult and pediatric patients who have a history of pathologic bone fracture or other risk factors for osteoporosis or bone loss.
+If bone abnormalities are suspected, appropriate consultation should be obtained.Although the effect of supplementation with calcium and vitamin D was not studied, such supplementation may be beneficial.
 Assessment of BMD should be considered for adult and pediatric patients who have a history of pathologic bone fracture or other risk factors for osteoporosis or bone loss.
 If bone abnormalities are suspected, appropriate consultation should be obtained.
 

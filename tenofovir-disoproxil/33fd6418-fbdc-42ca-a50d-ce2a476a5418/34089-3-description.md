@@ -5,7 +5,7 @@ TDF is converted in vivo to tenofovir, an acyclic nucleoside phosphonate (nucleo
 Tenofovir exhibits activity against HIV-1 reverse transcriptase.
 
 The chemical name of TDF is 9-[(R)-2-[[bis[[(isopropoxycarbonyl)oxy]methoxy]phosphinyl]methoxy]propyl]adenine fumarate (1:1).
-It has a molecular formula of C19H30N5O10P ∙ C4H4O4 and a molecular weight of 635.52.
+It has a molecular formula of C 19H 30N 5O 10P ∙ C 4H 4O 4 and a molecular weight of 635.52.
 It has the following structural formula:
 
 Tenofovir disoproxil fumarate is a white to off-white crystalline powder with a solubility of 13.4 mg/mL in distilled water at 25 °C.

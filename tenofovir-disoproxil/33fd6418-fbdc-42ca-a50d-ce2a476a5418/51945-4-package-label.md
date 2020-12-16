@@ -6,11 +6,11 @@ Viread® (tenofovir disoproxil fumarate) Tablets, 300 mg
 
 30 tablets
 
-Rx only
+R x only
 
 PRINICPAL DISPLAY PANEL - 150 mg Bottle Label
 
-NDC 61958-0404-1
+NDC 61958- 0404-1
 
 Viread® (tenofovir disoproxil fumarate) Tablets
 
@@ -18,11 +18,11 @@ Viread® (tenofovir disoproxil fumarate) Tablets
 
 30 tablets
 
-Rx only
+R x only
 
 PRINICPAL DISPLAY PANEL - 200 mg Bottle Label
 
-NDC 61958-0405-1
+NDC 61958- 0405-1
 
 Viread® (tenofovir disoproxil fumarate) Tablets
 
@@ -30,11 +30,11 @@ Viread® (tenofovir disoproxil fumarate) Tablets
 
 30 tablets
 
-Rx only
+R x only
 
 PRINICPAL DISPLAY PANEL - 250 mg Bottle Label
 
-NDC 61958-0406-1
+NDC 61958- 0406-1
 
 Viread® (tenofovir disoproxil fumarate) Tablets
 
@@ -42,11 +42,11 @@ Viread® (tenofovir disoproxil fumarate) Tablets
 
 30 tablets
 
-Rx only
+R x only
 
 PRINICPAL DISPLAY PANEL - 60 g Bottle Carton
 
-NDC 61958-0403-1
+NDC 61958- 0403-1
 
 Viread® (tenofovir disoproxil fumarate) Oral Powder, 40 mg/scoop
 
@@ -54,6 +54,6 @@ Each level dosing scoop provides approximately 1g of the oral powder which conta
 
 60 g per bottle
 
-Rx only
+R x only
 
 GILEAD

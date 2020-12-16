@@ -6,11 +6,11 @@ The efficacy and safety of VIREAD in adults and pediatric subjects were evaluate
 
 Table 19 Trials Conducted with VIREAD in Adults and Pediatric Subjects for HIV-1 Treatment and Chronic HBV Treatment
 
-| Trial | Population | Study Arms (N)Randomized and dosed. | Timepoint (Week) |
+| Trial | Population | Study Arms (N) Randomized and dosed. | Timepoint (Week) |
 | --- | --- | --- | --- |
-| Trial 903Randomized, double-blind, active-controlled trial. (NCT00158821) | HIV-1 treatment-naïve adults | VIREAD+lamivudine+efavirenz (299) stavudine+lamivudine+efavirenz (301) | 144 |
-| Trial 934Randomized, open-label active-controlled trial. (NCT00112047) | emtricitabine+VIREAD+efavirenz (257) zidovudine/lamivudine+efavirenz (254) | 144 |  |
-| Trial 907Randomized, double-blind, placebo-controlled trial. (NCT00002450) | HIV-1 treatment-experienced adults | VIREAD (368) Placebo (182) | 24 |
+| Trial 903 Randomized, double-blind, active-controlled trial. (NCT00158821) | HIV-1 treatment-naïve adults | VIREAD+lamivudine+efavirenz (299) stavudine+lamivudine+efavirenz (301) | 144 |
+| Trial 934 Randomized, open-label active-controlled trial. (NCT00112047) | emtricitabine+VIREAD+efavirenz (257) zidovudine/lamivudine+efavirenz (254) | 144 |  |
+| Trial 907 Randomized, double-blind, placebo-controlled trial. (NCT00002450) | HIV-1 treatment-experienced adults | VIREAD (368) Placebo (182) | 24 |
 | Trial 0102 (NCT00117676) | HBeAg-negative adults with chronic HBV | VIREAD (250) HEPSERA (125) | 48 |
 | Trial 0103 (NCT00116805) | HBeAg-positive adults with chronic HBV | VIREAD (176) HEPSERA (90) | 48 |
 | Trial 121 (NCT00737568) | Adults with lamivudine-resistant chronic HBV | VIREAD (141) | 96 |
@@ -26,9 +26,9 @@ Treatment-Naïve Subjects: Trial 903
 
 Data through 144 weeks are reported for Trial 903, a double-blind, active-controlled multicenter trial comparing VIREAD (300 mg once daily) administered in combination with lamivudine (3TC) and efavirenz (EFV) versus stavudine (d4T), 3TC, and EFV in 600 antiretroviral-naïve subjects.
 Subjects had a mean age of 36 years (range 18–64); 74% were male, 64% were Caucasian, and 20% were Black.
-The mean baseline CD4+ cell count was 279 cells/mm3 (range 3–956) and median baseline plasma HIV-1 RNA was 77,600 copies/mL (range 417–5,130,000).
+The mean baseline CD4+ cell count was 279 cells/mm 3 (range 3–956) and median baseline plasma HIV-1 RNA was 77,600 copies/mL (range 417–5,130,000).
 Subjects were stratified by baseline HIV-1 RNA and CD4+ cell count.
-Forty-three percent of subjects had baseline viral loads >100,000 copies/mL and 39% had CD4+ cell counts <200 cells/mm3.
+Forty-three percent of subjects had baseline viral loads >100,000 copies/mL and 39% had CD4+ cell counts <200 cells/mm 3.
 Table 20 provides treatment outcomes through 48 and 144 weeks.
 
 Table 20 Outcomes of Randomized Treatment at Week 48 and 144 (Trial 903)
@@ -36,18 +36,18 @@ Table 20 Outcomes of Randomized Treatment at Week 48 and 144 (Trial 903)
 | Outcomes | VIREAD+3TC+EFV (N=299) | d4T+3TC+EFV (N=301) | VIREAD+3TC+EFV (N=299) | d4T+3TC+EFV (N=301) |
 | --- | --- | --- | --- | --- |
 |  | At Week 48 |  | At Week 144 |  |
-| ResponderSubjects achieved and maintained confirmed HIV-1 RNA <400 copies/mL through Week 48 and 144. | 79% | 82% | 68% | 62% |
-| Virologic failureIncludes confirmed viral rebound and failure to achieve confirmed <400 copies/mL through Week 48 and 144. | 6% | 4% | 10% | 8% |
+| Responder Subjects achieved and maintained confirmed HIV-1 RNA <400 copies/mL through Week 48 and 144. | 79% | 82% | 68% | 62% |
+| Virologic failure Includes confirmed viral rebound and failure to achieve confirmed <400 copies/mL through Week 48 and 144. | 6% | 4% | 10% | 8% |
 | Rebound | 5% | 3% | 8% | 7% |
 | Never suppressed | 0% | 1% | 0% | 0% |
 | Added an antiretroviral agent | 1% | 1% | 2% | 1% |
 | Death | <1% | 1% | <1% | 2% |
 | Discontinued due to adverse event | 6% | 6% | 8% | 13% |
-| Discontinued for other reasonsIncludes lost to follow-up, subject's withdrawal, noncompliance, protocol violation and other reasons. | 8% | 7% | 14% | 15% |
+| Discontinued for other reasons Includes lost to follow-up, subject's withdrawal, noncompliance, protocol violation and other reasons. | 8% | 7% | 14% | 15% |
 
-Achievement of plasma HIV-1 RNA concentrations of <400 copies/mL at Week 144 was similar between the two treatment groups for the population stratified at baseline on the basis of HIV-1 RNA concentration (> or ≤100,000 copies/mL) and CD4+ cell count (< or ≥200 cells/mm3).
+Achievement of plasma HIV-1 RNA concentrations of <400 copies/mL at Week 144 was similar between the two treatment groups for the population stratified at baseline on the basis of HIV-1 RNA concentration (> or ≤100,000 copies/mL) and CD4+ cell count (< or ≥200 cells/mm 3).
 Through 144 weeks of therapy, 62% and 58% of subjects in the VIREAD and d4T arms, respectively, achieved and maintained confirmed HIV-1 RNA <50 copies/mL.
-The mean increase from baseline in CD4+ cell count was 263 cells/mm3 for the VIREAD arm and 283 cells/mm3 for the d4T arm.
+The mean increase from baseline in CD4+ cell count was 263 cells/mm 3 for the VIREAD arm and 283 cells/mm 3 for the d4T arm.
 
 Through 144 weeks, 11 subjects in the VIREAD group and 9 subjects in the d4T group experienced a new CDC Class C event.
 
@@ -56,28 +56,28 @@ Treatment-Naïve Subjects: Trial 934
 Data through 144 weeks are reported for Trial 934, a randomized, open-label, active-controlled multicenter trial comparing emtricitabine (FTC) + VIREAD administered in combination with efavirenz (EFV) versus zidovudine (AZT)/lamivudine (3TC) fixed-dose combination administered in combination with EFV in 511 antiretroviral-naïve subjects.
 From Weeks 96 to 144 of the trial, subjects received a fixed-dose combination of FTC and TDF with EFV in place of FTC + VIREAD with EFV.
 Subjects had a mean age of 38 years (range 18–80); 86% were male, 59% were Caucasian, and 23% were Black.
-The mean baseline CD4+ cell count was 245 cells/mm3 (range 2–1191) and median baseline plasma HIV-1 RNA was 5.01 log10 copies/mL (range 3.56–6.54).
-Subjects were stratified by baseline CD4+ cell count (< or ≥200 cells/mm3); 41% had CD4+ cell counts <200 cells/mm3 and 51% of subjects had baseline viral loads >100,000 copies/mL.
+The mean baseline CD4+ cell count was 245 cells/mm 3 (range 2–1191) and median baseline plasma HIV-1 RNA was 5.01 log 10 copies/mL (range 3.56–6.54).
+Subjects were stratified by baseline CD4+ cell count (< or ≥200 cells/mm 3); 41% had CD4+ cell counts <200 cells/mm 3 and 51% of subjects had baseline viral loads >100,000 copies/mL.
 Table 21 provides treatment outcomes through 48 and 144 weeks for those subjects who did not have EFV resistance at baseline.
 
 Table 21 Outcomes of Randomized Treatment at Week 48 and 144 (Trial 934)
 
-| FTC+VIREAD+EFV (N=244) | AZT/3TC+EFV (N=243) | FTC+VIREAD+EFV (N=227)Subjects who were responders at Week 48 or Week 96 (HIV-1 RNA <400 copies/mL) but did not consent to continue the trial after Week 48 or Week 96 were excluded from analysis. | AZT/3TC+EFV (N=229) |  |
+| FTC+VIREAD+EFV (N=244) | AZT/3TC+EFV (N=243) | FTC+VIREAD+EFV (N=227) Subjects who were responders at Week 48 or Week 96 (HIV-1 RNA <400 copies/mL) but did not consent to continue the trial after Week 48 or Week 96 were excluded from analysis. | AZT/3TC+EFV (N=229) |  |
 | --- | --- | --- | --- | --- |
 | Outcomes | At Week 48 |  | At Week 144 |  |
-| ResponderSubjects achieved and maintained confirmed HIV-1 RNA <400 copies/mL through Weeks 48 and 144. | 84% | 73% | 71% | 58% |
-| Virologic failureIncludes confirmed viral rebound and failure to achieve confirmed <400 copies/mL through Weeks 48 and 144. | 2% | 4% | 3% | 6% |
+| Responder Subjects achieved and maintained confirmed HIV-1 RNA <400 copies/mL through Weeks 48 and 144. | 84% | 73% | 71% | 58% |
+| Virologic failure Includes confirmed viral rebound and failure to achieve confirmed <400 copies/mL through Weeks 48 and 144. | 2% | 4% | 3% | 6% |
 | Rebound | 1% | 3% | 2% | 5% |
 | Never suppressed | 0% | 0% | 0% | 0% |
 | Change in antiretroviral regimen | 1% | 1% | 1% | 1% |
 | Death | <1% | 1% | 1% | 1% |
 | Discontinued due to adverse event | 4% | 9% | 5% | 12% |
-| Discontinued for other reasonsIncludes lost to follow-up, subject withdrawal, noncompliance, protocol violation and other reasons. | 10% | 14% | 20% | 22% |
+| Discontinued for other reasons Includes lost to follow-up, subject withdrawal, noncompliance, protocol violation and other reasons. | 10% | 14% | 20% | 22% |
 
 Through Week 48, 84% and 73% of subjects in the FTC + VIREAD group and the AZT/3TC group, respectively, achieved and maintained HIV-1 RNA <400 copies/mL (71% and 58% through Week 144).
 The difference in the proportion of subjects who achieved and maintained HIV-1 RNA <400 copies/mL through 48 weeks largely results from the higher number of discontinuations due to adverse events and other reasons in the AZT/3TC group in this open-label trial.
 In addition, 80% and 70% of subjects in the FTC + VIREAD group and the AZT/3TC group, respectively, achieved and maintained HIV-1 RNA <50 copies/mL through Week 48 (64% and 56% through Week 144).
-The mean increase from baseline in CD4+ cell count was 190 cells/mm3 in the FTC + VIREAD group and 158 cells/mm3 in the AZT/3TC group at Week 48 (312 and 271 cells/mm3 at Week 144).
+The mean increase from baseline in CD4+ cell count was 190 cells/mm 3 in the FTC + VIREAD group and 158 cells/mm 3 in the AZT/3TC group at Week 48 (312 and 271 cells/mm 3 at Week 144).
 
 Through 48 weeks, 7 subjects in the FTC + VIREAD group and 5 subjects in the AZT/3TC group experienced a new CDC Class C event (10 and 6 subjects through 144 weeks).
 
@@ -85,7 +85,7 @@ Treatment-Experienced Subjects: Trial 907
 
 Trial 907 was a 24-week, double-blind, placebo-controlled multicenter trial of VIREAD added to a stable background regimen of antiretroviral agents in 550 treatment-experienced subjects.
 After 24 weeks of blinded trial treatment, all subjects continuing on trial were offered open-label VIREAD for an additional 24 weeks.
-Subjects had a mean baseline CD4+ cell count of 427 cells/mm3 (range 23–1,385), median baseline plasma HIV-1 RNA of 2,340 (range 50–75,000) copies/mL, and mean duration of prior HIV-1 treatment was 5.4 years.
+Subjects had a mean baseline CD4+ cell count of 427 cells/mm 3 (range 23–1,385), median baseline plasma HIV-1 RNA of 2,340 (range 50–75,000) copies/mL, and mean duration of prior HIV-1 treatment was 5.4 years.
 Mean age of the subjects was 42 years; 85% were male, 69% Caucasian, 17% Black, and 12% Hispanic.
 
 Table 22 provides the percent of subjects with HIV-1 RNA <400 copies/mL and outcomes of subjects through 48 weeks.
@@ -96,13 +96,13 @@ Table 22 Outcomes of Randomized Treatment (Trial 907)
 | --- | --- | --- | --- | --- |
 | Outcomes | 0–24 weeks |  | 0–48 weeks | 24–48 weeks |
 | HIV-1 RNA <400 copies/mL Subjects with HIV-1 RNA <400 copies/mL and no prior study drug discontinuation at Week 24 and 48, respectively. | 40% | 11% | 28% | 30% |
-| Virologic failureSubjects with HIV-1 RNA ≥400 copies/mL efficacy failure or missing HIV-1 RNA at Week 24 and 48, respectively. | 53% | 84% | 61% | 64% |
+| Virologic failure Subjects with HIV-1 RNA ≥400 copies/mL efficacy failure or missing HIV-1 RNA at Week 24 and 48, respectively. | 53% | 84% | 61% | 64% |
 | Discontinued due to adverse event | 3% | 3% | 5% | 5% |
-| Discontinued for other reasonsIncludes lost to follow-up, subject withdrawal, noncompliance, protocol violation, and other reasons. | 3% | 3% | 5% | 1% |
+| Discontinued for other reasons Includes lost to follow-up, subject withdrawal, noncompliance, protocol violation, and other reasons. | 3% | 3% | 5% | 1% |
 
 At 24 weeks of therapy, there was a higher proportion of subjects in the VIREAD arm compared to the placebo arm with HIV-1 RNA <50 copies/mL (19% and 1%, respectively).
-Mean change in absolute CD4+ cell counts by Week 24 was +11 cells/mm3 for the VIREAD group and −5 cells/mm3 for the placebo group.
-Mean change in absolute CD4+ cell counts by Week 48 was +4 cells/mm3 for the VIREAD group.
+Mean change in absolute CD4+ cell counts by Week 24 was +11 cells/mm 3 for the VIREAD group and −5 cells/mm 3 for the placebo group.
+Mean change in absolute CD4+ cell counts by Week 48 was +4 cells/mm 3 for the VIREAD group.
 
 Through Week 24, one subject in the VIREAD group and no subjects in the placebo group experienced a new CDC Class C event.
 
@@ -115,7 +115,7 @@ At Week 48, 89% of subjects in the VIREAD treatment group and 90% of subjects in
 During the 48-week randomized phase of the trial, 1 subject in the VIREAD group discontinued the trial prematurely because of virologic failure/lack of efficacy and 3 subjects (2 subjects in the VIREAD group and 1 subject in the d4T or AZT group) discontinued for other reasons.
 
 In Trial 321, 87 treatment-experienced subjects 12 years to less than 18 years of age were treated with VIREAD (N=45) or placebo (N=42) in combination with an optimized background regimen (OBR) for 48 weeks.
-The mean baseline CD4 cell count was 374 cells/mm3 and the mean baseline plasma HIV-1 RNA was 4.6 log10 copies/mL.
+The mean baseline CD4 cell count was 374 cells/mm 3 and the mean baseline plasma HIV-1 RNA was 4.6 log 10 copies/mL.
 At baseline, 90% of subjects harbored NRTI resistance-associated substitutions in their HIV-1 isolates.
 Overall, the trial failed to show a difference in virologic response between the VIREAD and placebo groups.
 Subgroup analyses suggest the lack of difference in virologic response may be attributable to imbalances between treatment arms in baseline viral susceptibility to VIREAD and OBR.
@@ -128,13 +128,13 @@ HBeAg-Negative Chronic HBV Subjects: Trial 0102
 
 Trial 0102 was a Phase 3, randomized, double-blind, active-controlled trial of VIREAD 300 mg compared to HEPSERA 10 mg in 375 HBeAg- (anti-HBe+) subjects with compensated liver function, the majority of whom were nucleoside-naïve.
 The mean age of subjects was 44 years; 77% were male, 25% were Asian, 65% were Caucasian, 17% had previously received alpha-interferon therapy, and 18% were nucleoside-experienced (16% had prior lamivudine experience).
-At baseline, subjects had a mean Knodell necroinflammatory score of 7.8; mean plasma HBV DNA was 6.9 log10 copies/mL; and mean serum ALT was 140 U/L.
+At baseline, subjects had a mean Knodell necroinflammatory score of 7.8; mean plasma HBV DNA was 6.9 log 10 copies/mL; and mean serum ALT was 140 U/L.
 
 HBeAg-Positive Chronic HBV Subjects: Trial 0103
 
 Trial 0103 was a Phase 3, randomized, double-blind, active-controlled trial of VIREAD 300 mg compared to HEPSERA 10 mg in 266 HBeAg+ nucleoside-naïve subjects with compensated liver function.
 The mean age of subjects was 34 years; 69% were male, 36% were Asian, 52% were Caucasian, 16% had previously received alpha-interferon therapy, and <5% were nucleoside experienced.
-At baseline, subjects had a mean Knodell necroinflammatory score of 8.4; mean plasma HBV DNA was 8.7 log10 copies /mL; and mean serum ALT was 147 U/L.
+At baseline, subjects had a mean Knodell necroinflammatory score of 8.4; mean plasma HBV DNA was 8.7 log 10 copies /mL; and mean serum ALT was 147 U/L.
 
 The primary data analysis was conducted after all subjects reached 48 weeks of treatment and results are summarized below.
 
@@ -146,10 +146,10 @@ Table 23 Histological, Virological, Biochemical, and Serological Response at Wee
 | --- | --- | --- | --- | --- |
 |  | 0102 (HBeAg-) |  | 0103 (HBeAg+) |  |
 | Complete Response | 71% | 49% | 67% | 12% |
-| Histology Histological ResponseKnodell necroinflammatory score improvement of at least 2 points without worsening in Knodell fibrosis. | 72% | 69% | 74% | 68% |
+| Histology Histological Response Knodell necroinflammatory score improvement of at least 2 points without worsening in Knodell fibrosis. | 72% | 69% | 74% | 68% |
 | HBV DNA <400 copies/mL (<69 IU/mL) | 93% | 63% | 76% | 13% |
-| ALT Normalized ALTThe population used for analysis of ALT normalization included only subjects with ALT above ULN at baseline. | 76% | 77% | 68% | 54% |
-| Serology HBeAg Loss/ Seroconversion | NANA = Not Applicable | NA | 20%/19% | 16%/16% |
+| ALT Normalized ALT The population used for analysis of ALT normalization included only subjects with ALT above ULN at baseline. | 76% | 77% | 68% | 54% |
+| Serology HBeAg Loss/ Seroconversion | NA NA = Not Applicable | NA | 20%/19% | 16%/16% |
 | HBsAg Loss/ Seroconversion | 0/0 | 0/0 | 3%/1% | 0/0 |
 
 Treatment Beyond 48 Weeks: Trials 0102 and 0103
@@ -180,7 +180,7 @@ Trial 121 was a randomized, double-blind, active-controlled trial evaluating the
 One hundred forty-one adult subjects were randomized to the VIREAD treatment arm.
 The mean age of subjects randomized to VIREAD was 47 years (range 18–73); 74% were male, 59% were Caucasian, and 37% were Asian.
 At baseline, 54% of subjects were HBeAg-negative, 46% were HBeAg-positive, and 56% had abnormal ALT.
-Subjects had a mean HBV DNA of 6.4 log10 copies/mL and mean serum ALT of 71 U/L at baseline.
+Subjects had a mean HBV DNA of 6.4 log 10 copies/mL and mean serum ALT of 71 U/L at baseline.
 
 After 96 weeks of treatment, 126 of 141 subjects (89%) randomized to VIREAD had HBV DNA <400 copies/mL (69 IU/mL), and 49 of 79 subjects (62%) with abnormal ALT at baseline had ALT normalization.
 Among the HBeAg-positive subjects randomized to VIREAD, 10 of 65 subjects (15%) experienced HBeAg loss and 7 of 65 subjects (11%) experienced anti-HBe seroconversion through Week 96.
@@ -194,7 +194,7 @@ Trial 0108 was a small randomized, double-blind, active-controlled trial evaluat
 
 Forty-five adult subjects (37 males and 8 females) were randomized to the VIREAD treatment arm.
 At baseline, 69% of subjects were HBeAg-negative and 31% were HBeAg-positive.
-Subjects had a mean Child-Pugh score of 7, a mean MELD score of 12, mean HBV DNA of 5.8 log10 copies/mL, and mean serum ALT of 61 U/L at baseline.
+Subjects had a mean Child-Pugh score of 7, a mean MELD score of 12, mean HBV DNA of 5.8 log 10 copies/mL, and mean serum ALT of 61 U/L at baseline.
 Trial endpoints were discontinuation due to an adverse event and confirmed increase in serum creatinine ≥0.5 mg/dL or confirmed serum phosphorus of <2 mg/dL [see Adverse Reactions (6.1)].
 
 At 48 weeks, 31/44 (70%) and 12/26 (46%) VIREAD-treated subjects achieved an HBV DNA <400 copies/mL (69 IU/mL), and normalized ALT, respectively.
@@ -205,7 +205,7 @@ The trial was not designed to evaluate treatment impact on clinical endpoints su
 Pediatric Subjects 12 Years to less than 18 Years of Age with Chronic HBV
 
 In Trial 115, 106 HBeAg negative (9%) and positive (91%) subjects aged 12 to less than 18 years with chronic HBV infection were randomized to receive blinded treatment with VIREAD 300 mg (N=52) or placebo (N=54) for 72 weeks.
-At trial entry, the mean HBV DNA was 8.1 log10 copies/mL and mean ALT was 101 U/L.
+At trial entry, the mean HBV DNA was 8.1 log 10 copies/mL and mean ALT was 101 U/L.
 Of 52 subjects treated with VIREAD, 20 subjects were nucleos(t)ide-naïve and 32 subjects were nucleos(t)ide-experienced.
 Thirty-one of the 32 nucleos(t)ide-experienced subjects had prior lamivudine experience.
 At Week 72, 88% (46/52) of subjects in the VIREAD group and 0% (0/54) of subjects in the placebo group had HBV DNA <400 copies/mL (69 IU/mL).
@@ -215,7 +215,7 @@ One VIREAD-treated subject experienced sustained HBsAg-loss and seroconversion t
 Pediatric Subjects 2 Years to less than 12 Years of Age with Chronic HBV
 
 In Trial 144, 89 HBeAg positive (96%) and negative (4%) subjects 2 years to less than 12 years of age with chronic HBV infection were treated with VIREAD 8 mg/kg up to a maximum dose of 300 mg (N=60) or placebo (N=29) once daily for 48 weeks.
-At trial entry, the mean HBV DNA was 8.1 log10 IU/mL and mean ALT was 123 U/L.
+At trial entry, the mean HBV DNA was 8.1 log 10 IU/mL and mean ALT was 123 U/L.
 There was an overall higher proportion in the VIREAD group with HBV DNA <400 copies/mL (69 IU/mL) and ALT normalization rate at Week 48 compared to the placebo group (Table 24).
 There was no difference between treatment groups in those who achieved HBeAg loss or HBeAg seroconversion.
 
@@ -224,8 +224,8 @@ Table 24 Outcomes of Randomized Treatment (Trial 144) in Children 2 Years to <12
 | Endpoint at Week 48 | VIREAD N=60 | Placebo N=29 |
 | --- | --- | --- |
 | HBV DNA <400 copies/mL (69 IU/ml) | 46/60 (77%) | 2/29 (7%) |
-| ALT NormalizationNormal ALT was defined as ≤ 34 U/L for females 2–15 years or males 1–9 years old, and ≤ 43 U/L for males 10–15 years. The ALT Normalization analysis excluded 4 treated subjects who had normal ALT at baseline. | 38/58 (66%) | 4/27 (15%) |
-| HBeAg lossThe analysis excluded 4 subjects who were HBeAg negative and HBeAb positive at baseline. | 17/56 (30%) | 8/29 (28%) |
+| ALT Normalization Normal ALT was defined as ≤ 34 U/L for females 2–15 years or males 1–9 years old, and ≤ 43 U/L for males 10–15 years. The ALT Normalization analysis excluded 4 treated subjects who had normal ALT at baseline. | 38/58 (66%) | 4/27 (15%) |
+| HBeAg loss The analysis excluded 4 subjects who were HBeAg negative and HBeAb positive at baseline. | 17/56 (30%) | 8/29 (28%) |
 | HBeAg seroconversion | 14/56 (25%) | 7/29 (24%) |
 
 In Trials 115 and 144, sequencing data from paired baseline and on treatment HBV isolates from subjects who received VIREAD were available for 14 of 15 subjects who had plasma HBV DNA ≥400 copies/mL.
