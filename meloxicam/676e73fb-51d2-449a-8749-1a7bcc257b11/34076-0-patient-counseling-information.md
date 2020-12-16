@@ -15,7 +15,7 @@ In the setting of concomitant use of low-dose aspirin for cardiac prophylaxis, i
 
 Hepatotoxicity
 
-Inform patients of the warning signs and symptoms of hepatotoxicity (e.g., nausea, fatigue, lethargy, diarrhea, pruritus, jaundice, right upper quadrant tenderness, and "flu‑like" symptoms).
+Inform patients of the warning signs and symptoms of hepatotoxicity (e.g., nausea, fatigue, lethargy, diarrhea, pruritus, jaundice, right upper quadrant tenderness, and "flu-like" symptoms).
 If these occur, instruct patients to stop MOBIC and seek immediate medical therapy [see Warnings and Precautions (5.3)].
 
 Heart Failure and Edema
@@ -52,8 +52,8 @@ For current prescribing information, scan the code below or call Boehringer Inge
 
 Distributed by: Boehringer Ingelheim Pharmaceuticals, Inc. Ridgefield, CT 06877 USA
 
-Licensed from: Boehringer Ingelheim International GmbH
+Product and trademark licensed from: Boehringer Ingelheim International GmbH
 
-Copyright 2016 Boehringer Ingelheim International GmbH ALL RIGHTS RESERVED
+Copyright 2020 Boehringer Ingelheim International GmbH ALL RIGHTS RESERVED
 
-090340141/11 OT1407KF302016
+OT1407NB262020

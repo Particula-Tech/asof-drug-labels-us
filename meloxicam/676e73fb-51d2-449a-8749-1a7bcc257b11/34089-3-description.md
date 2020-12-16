@@ -2,7 +2,7 @@
 
 MOBIC (meloxicam) is a nonsteroidal anti-inflammatory drug (NSAID).
 Each pastel yellow MOBIC tablet contains 7.5 mg or 15 mg meloxicam for oral administration.
-Meloxicam is chemically designated as 4-hydroxy-2-methyl-N-(5‑methyl‑2‑thiazolyl)-2H-1,2-benzothiazine-3-carboxamide-1,1-dioxide.
+Meloxicam is chemically designated as 4-hydroxy-2-methyl-N-(5-methyl-2-thiazolyl)-2H-1,2-benzothiazine-3-carboxamide-1,1-dioxide.
 The molecular weight is 351.4.
 Its empirical formula is C14H13N3O4S2 and it has the following structural formula:
 

@@ -34,7 +34,7 @@ Only one in five patients who develop a serious upper GI adverse event on NSAID 
 Upper GI ulcers, gross bleeding, or perforation caused by NSAIDs occurred in approximately 1% of patients treated for 3-6 months, and in about 2-4% of patients treated for one year.
 However, even short-term NSAID therapy is not without risk.
 
-Risk Factors for GI Bleeding, Ulceration, and Perforation Patients with a prior history of peptic ulcer disease and/or GI bleeding who used NSAIDs had a greater than 10‑fold increased risk for developing a GI bleed compared to patients without these risk factors.
+Risk Factors for GI Bleeding, Ulceration, and Perforation Patients with a prior history of peptic ulcer disease and/or GI bleeding who used NSAIDs had a greater than 10-fold increased risk for developing a GI bleed compared to patients without these risk factors.
 Other factors that increase the risk of GI bleeding in patients treated with NSAIDs include longer duration of NSAID therapy; concomitant use of oral corticosteroids, aspirin, anticoagulants, or selective serotonin reuptake inhibitors (SSRIs); smoking; use of alcohol; older age; and poor general health status.
 Most postmarketing reports of fatal GI events occurred in elderly or debilitated patients.
 Additionally, patients with advanced liver disease and/or coagulopathy are at increased risk for GI bleeding.

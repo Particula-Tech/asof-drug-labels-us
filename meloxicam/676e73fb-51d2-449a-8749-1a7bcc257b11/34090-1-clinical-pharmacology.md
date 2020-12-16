@@ -64,7 +64,7 @@ Elimination
 Metabolism
 
 Meloxicam is extensively metabolized in the liver.
-Meloxicam metabolites include 5'-carboxy meloxicam (60% of dose), from P-450 mediated metabolism formed by oxidation of an intermediate metabolite 5'‑hydroxymethyl meloxicam which is also excreted to a lesser extent (9% of dose).
+Meloxicam metabolites include 5'-carboxy meloxicam (60% of dose), from P-450 mediated metabolism formed by oxidation of an intermediate metabolite 5'-hydroxymethyl meloxicam which is also excreted to a lesser extent (9% of dose).
 In vitro studies indicate that CYP2C9 (cytochrome P450 metabolizing enzyme) plays an important role in this metabolic pathway with a minor contribution of the CYP3A4 isozyme.
 Patients’ peroxidase activity is probably responsible for the other two metabolites which account for 16% and 4% of the administered dose, respectively.
 All the four metabolites are not known to have any in vivo pharmacological activity.
@@ -73,7 +73,7 @@ Excretion
 
 Meloxicam excretion is predominantly in the form of metabolites, and occurs to equal extents in the urine and feces.
 Only traces of the unchanged parent compound are excreted in the urine (0.2%) and feces (1.6%).
-The extent of the urinary excretion was confirmed for unlabeled multiple 7.5 mg doses: 0.5%, 6%, and 13% of the dose were found in urine in the form of meloxicam, and the 5'‑hydroxymethyl and 5'‑carboxy metabolites, respectively.
+The extent of the urinary excretion was confirmed for unlabeled multiple 7.5 mg doses: 0.5%, 6%, and 13% of the dose were found in urine in the form of meloxicam, and the 5'-hydroxymethyl and 5'-carboxy metabolites, respectively.
 There is significant biliary and/or enteral secretion of the drug.
 This was demonstrated when oral administration of cholestyramine following a single IV dose of meloxicam decreased the AUC of meloxicam by 50%.
 
