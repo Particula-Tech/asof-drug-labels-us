@@ -26,7 +26,7 @@ Food intake, however, reduces the peak concentration reached by approximately on
 Table 1.
 Mean (CV%)% Coefficient of variation Pharmacokinetic Parameters of etodolac in Normal Healthy Adults and Various Special Populations
 
-| (n=179) | (n=176) | (n=3) |  | Dialysis On | Dialysis Off | (n=10) | (n=9) |  |
+|  | (n=179) | (n=176) | (n=3) |  | Dialysis On | Dialysis Off | (n=10) | (n=9) |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | PK Parameters | Normal Healthy Adults (18-65)Age Range (years) | Healthy Males (18-65) | Healthy Females (27-65) | Elderly (>65) (70-84) | Hemodialysis (24-65) (n=9) |  | Renal Impairment (46-73) | Hepatic Impairment (34-60) |
 | Tmax, h | 1.4 (61%) | 1.4 (60%) | 1.7 (60%) | 1.2 (43%) | 1.7 (88%) | 0.9 (67%) | 2.1 (46%) | 1.1 (15%) |
@@ -60,12 +60,12 @@ The hydroxylated-etodolac metabolites undergo further glucuronidation followed b
 The mean oral clearance of etodolac following oral dosing is 49 (± 16) mL/h/kg.
 Approximately 1% of an etodolac dose is excreted unchanged in the urine with 72% of the dose excreted into urine as parent drug plus metabolite:
 
-| -etodolac, unchanged | 1% |
-| --- | --- |
-| -etodolac glucuronide | 13% |
-| -hydroxylated metabolites (6-, 7-, and 8-OH) | 5% |
-| -hydroxylated metabolite glucuronides | 20% |
-| -unidentified metabolites | 33% |
+|  | -etodolac, unchanged | 1% |
+| --- | --- | --- |
+|  | -etodolac glucuronide | 13% |
+|  | -hydroxylated metabolites (6-, 7-, and 8-OH) | 5% |
+|  | -hydroxylated metabolite glucuronides | 20% |
+|  | -unidentified metabolites | 33% |
 
 Although renal elimination is a significant pathway of excretion for etodolac metabolites, no dosing adjustment in patients with mild to moderate renal dysfunction is generally necessary.
 The terminal half-life (t½) of etodolac is 6.4 hours (22% CV).
@@ -73,9 +73,9 @@ In patients with severe renal dysfunction or undergoing hemodialysis, dosing adj
 
 Fecal excretion accounted for 16% of the dose.
 
-### Special Populations
+## Special Populations
 
-#### Geriatric
+### Geriatric
 
 In etodolac clinical studies, no overall differences in safety or effectiveness were observed between these patients and younger patients.
 In pharmacokinetic studies, age was shown not to have any effect on etodolac half-life or protein binding, and there was no change in expected drug accumulation.
@@ -84,16 +84,16 @@ Therefore no dosage adjustment is generally necessary in the elderly on the basi
 Etodolac is eliminated primarily by the kidney.
 Because elderly patients are more likely to have decreased renal function, care should be taken in dose selection, and it may be useful to monitor renal function (see WARNINGS, Renal Effects).
 
-#### Pediatric
+### Pediatric
 
 Safety and effectiveness in pediatric patients below the age of 18 years have not been established.
 
-#### Race
+### Race
 
 Pharmacokinetic differences due to race have not been identified.
 Clinical studies included patients of many races, all of whom responded in a similar fashion.
 
-#### Hepatic Insufficiency
+### Hepatic Insufficiency
 
 Etodolac is predominantly metabolized by the liver.
 In patients with compensated hepatic cirrhosis, the disposition of total and free etodolac is not altered.
@@ -101,7 +101,7 @@ Patients with acute and chronic hepatic diseases do not generally require reduce
 However, etodolac clearance is dependent on liver function and could be reduced in patients with severe hepatic failure.
 Etodolac plasma protein binding did not change in patients with compensated hepatic cirrhosis given etodolac.
 
-#### Renal Insufficiency
+### Renal Insufficiency
 
 Etodolac pharmacokinetics have been investigated in subjects with renal insufficiency.
 Etodolac renal clearance was unchanged in the presence of mild-to-moderate renal failure (creatinine clearance 37 to 88 mL/min).

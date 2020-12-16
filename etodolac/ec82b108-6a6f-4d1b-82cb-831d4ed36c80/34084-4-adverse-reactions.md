@@ -18,8 +18,7 @@ The incidences were determined from clinical trials involving 465 patients with 
 
 Body as a whole - Chills and fever.
 
-Digestive system - Dyspepsia (10%), abdominal painDrug-related patient complaints occurring in 3 to 9% of patients treated with etodolac.
-Drug-related patient complaints occurring in fewer than 3%, but more than 1%, are unmarked., diarrhea, flatulence, nausea, abdominal distension, epigastric pain, abnormal stools, constipation, gastritis, melena, vomiting.
+Digestive system - Dyspepsia (10%), abdominal painDrug-related patient complaints occurring in 3 to 9% of patients treated with etodolac., diarrhea, flatulence, nausea, abdominal distension, epigastric pain, abnormal stools, constipation, gastritis, melena, vomiting.
 
 Nervous system - Asthenia/malaise, dizziness, depression, nervousness, fatigue.
 
@@ -29,7 +28,9 @@ Special senses - Blurred vision, tinnitus.
 
 Urogenital system - Dysuria, urinary frequency.
 
-Musculoskeletal—Arthralgia.
+Musculoskeletal - Arthralgia.
+
+Drug-related patient complaints occurring in fewer than 3%, but more than 1%, are unmarked.
 
 ## Incidence Less Than 1% - Probably Causally Related
 
@@ -78,7 +79,7 @@ Special senses - Conjunctivitis, deafness, taste perversion, loss of taste.
 
 Urogenital system - Cystitis, hematuria, leukorrhea, renal calculus, interstitial nephritis, uterine bleeding irregularities, renal impairment.
 
-Musculoskeletal—Muscle pain.
+Musculoskeletal - Muscle pain.
 
 ## Additional Adverse Reactions Reported with NSAIDs
 
