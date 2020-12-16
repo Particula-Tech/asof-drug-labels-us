@@ -1,12 +1,24 @@
 # 16 HOW SUPPLIED/STORAGE AND HANDLING
 
-Abiraterone Acetate Tablets, USP are available containing 250 mg of abiraterone acetate, USP.
+Abiraterone Acetate Tablets, USP are available containing 250 mg or 500 mg of abiraterone acetate, USP.
+
+500 mg film-coated tablets: The 500 mg tablets are white, film-coated, oval, unscored tablets debossed with M on one side of the tablet and AB500 on the other side.
+They are available as follows:
+
+NDC 0378-6921-91
+
+bottles of 60 tablets
 
 250 mg film-coated tablets: The 250 mg tablets are white, film-coated, oval, unscored tablets debossed with M on one side of the tablet and AB250 on the other side.
+They are available as follows:
 
-NDC 0378-6924-78 bottles of 120 tablets
+NDC 0378-6924-78
 
-NDC 0378-6924-37 bottles of 360 tablets
+bottles of 120 tablets
+
+NDC 0378-6924-37
+
+bottles of 360 tablets
 
 250 mg uncoated tablets: The 250 mg tablets are white to off-white, oval, unscored tablets debossed with M on one side of the tablet and AB250 on the other side.
 They are available as follows:

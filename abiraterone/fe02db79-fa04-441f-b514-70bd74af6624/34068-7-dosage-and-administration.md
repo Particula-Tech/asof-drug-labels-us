@@ -23,7 +23,8 @@ Do not use abiraterone acetate tablets in patients with baseline severe hepatic 
 
 ### Hepatotoxicity
 
-For patients who develop hepatotoxicity during treatment with abiraterone acetate tablets (ALT and/or AST greater than 5X ULN or total bilirubin greater than 3X ULN), interrupt treatment with abiraterone acetate tablets [see Warnings and Precautions (5.3)].Treatment may be restarted at a reduced dose of 750 mg once daily following return of liver function tests to the patient’s baseline or to AST and ALT less than or equal to 2.5X ULN and total bilirubin less than or equal to 1.5X ULN.
+For patients who develop hepatotoxicity during treatment with abiraterone acetate tablets (ALT and/or AST greater than 5X ULN or total bilirubin greater than 3X ULN), interrupt treatment with abiraterone acetate tablets [see Warnings and Precautions (5.3)].
+Treatment may be restarted at a reduced dose of 750 mg once daily following return of liver function tests to the patient’s baseline or to AST and ALT less than or equal to 2.5X ULN and total bilirubin less than or equal to 1.5X ULN.
 For patients who resume treatment, monitor serum transaminases and bilirubin at a minimum of every two weeks for three months and monthly thereafter.
 
 If hepatotoxicity recurs at the dose of 750 mg once daily, re-treatment may be restarted at a reduced dose of 500 mg once daily following return of liver function tests to the patient’s baseline or to AST and ALT less than or equal to 2.5X ULN and total bilirubin less than or equal to 1.5X ULN.
