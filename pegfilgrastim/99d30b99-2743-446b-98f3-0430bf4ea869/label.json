@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "BLA761111"
+  ],
+  "inn": "pegfilgrastim",
+  "labeler": "Pfizer Laboratories Div Pfizer Inc",
+  "package_ndcs": [
+    "0069-0324-01"
+  ],
+  "products": [
+    {
+      "form": "INJECTION, SOLUTION",
+      "generic": "pegfilgrastim-apgf",
+      "name": "NYVEPRIA"
+    }
+  ],
+  "setid": "99d30b99-2743-446b-98f3-0430bf4ea869",
+  "source": "dailymed"
+}
