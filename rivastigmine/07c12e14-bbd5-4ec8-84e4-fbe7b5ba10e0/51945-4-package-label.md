@@ -1,10 +1,10 @@
-PRINCIPAL DISPLAY PANEL
+# PRINCIPAL DISPLAY PANEL
 
-Package Label – 4.6 mg / 24 hours
+NDC 0078-0501-15
 
-Rx Only NDC 0078-0501-15
+Rx only
 
-EXELON® Patch
+EXELON® PATCH
 
 (rivastigmine transdermal system)
 
@@ -14,13 +14,15 @@ For Transdermal Use Only
 
 Contains 30 Systems
 
-PRINCIPAL DISPLAY PANEL
+NOVARTIS
 
-Package Label – 9.5 mg / 24 hours
+# PRINCIPAL DISPLAY PANEL
 
-Rx Only NDC 0078-0502-15
+NDC 0078-0502-15
 
-EXELON® Patch
+Rx only
+
+EXELON® PATCH
 
 (rivastigmine transdermal system)
 
@@ -30,13 +32,15 @@ For Transdermal Use Only
 
 Contains 30 Systems
 
-PRINCIPAL DISPLAY PANEL
+NOVARTIS
 
-Package Label – 13.3 mg / 24 hours
+# PRINCIPAL DISPLAY PANEL
 
-Rx Only NDC 0078-0503-15
+NDC 0078-0503-15
 
-EXELON® Patch
+Rx only
+
+EXELON® PATCH
 
 (rivastigmine transdermal system)
 
@@ -45,3 +49,5 @@ Each System Delivers 13.3 mg/24 hours
 For Transdermal Use Only
 
 Contains 30 Systems
+
+NOVARTIS
