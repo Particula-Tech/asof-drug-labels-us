@@ -92,6 +92,8 @@ These are not all of the possible side effects of oseltamivir phosphate capsules
 Call your doctor for medical advice about side effects.
 You may report side effects to FDA at 1-800-FDA-1088.
 
+How should I store Oseltamivir Phosphate Capsules?
+
 - Store oseltamivir phosphate capsules at room temperature between 68°F to 77°F (20°C to 25°C).
 - Safely throw away any unused oseltamivir phosphate capsules that are out of date or no longer needed.
 
@@ -136,7 +138,7 @@ Pennington, NJ 08534
 
 This Patient Information has been approved by the U.S. Food and Drug Administration.
 
-Revised 01/2019
+Revised 08/2019
 
 INSTRUCTIONS FOR USE
 
@@ -162,4 +164,4 @@ Stir the mixture and give the entire dose of oseltamivir phosphate.
 This Instructions for Use has been approved by the U.S. Food and Drug Administration.
 
 Rev.
-01/2019
+08/2019
