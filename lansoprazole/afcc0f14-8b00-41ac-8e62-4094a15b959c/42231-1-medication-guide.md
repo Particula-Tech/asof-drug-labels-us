@@ -15,8 +15,8 @@ Talk with your doctor.
 
 Lansoprazole delayed-release capsules can cause serious side effects, including:
 
-- A type of kidney problem (acute interstitial nephritis).
-  Some people who take proton pump inhibitor (PPI) medicines, including lansoprazole delayed-release capsules, may develop a kidney problem called acute interstitial nephritis, that can happen at any time during treatment with PPI medicines including lansoprazole delayed-release capsules.
+- A type of kidney problem (acute tubulointerstitial nephritis).
+  Some people who take proton pump inhibitor (PPI) medicines, including lansoprazole delayed-release capsules, may develop a kidney problem called acute tubulointerstitial nephritis, that can happen at any time during treatment with PPI medicines including lansoprazole delayed-release capsules.
   Call your doctor right away if you have a decrease in the amount that you urinate or if you have blood in your urine.
 - Diarrhea caused by an infection (Clostridium difficile) in your intestines.
   Call your doctor right away if you have watery stools or stomach pain that does not go away.
@@ -57,9 +57,7 @@ In adults Lansoprazole delayed-release capsules used for:
 - the long-term treatment of conditions where your stomach makes too much acid.
   This includes a rare condition called Zollinger-Ellison syndrome.
 
-Pediatrics:
-
-Give lansoprazole delayed-release capsules exactly as prescribed by your child’s doctor.
+Children: Give lansoprazole delayed-release capsules exactly as prescribed by your child’s doctor.
 Do not increase the dose of lansoprazole delayed-release capsules or give your child lansoprazole delayed-release capsules longer than the amount of time your doctor tells you to.
 
 In children 1 to 11 years of age, lansoprazole are used for:
@@ -72,19 +70,19 @@ In children 12 to 17 years of age, lansoprazole are used for:
 - up to eight weeks to treat heartburn and other symptoms that can happen with GERD.
 - up to eight weeks for the healing and symptom relief of EE.
 
-Lansoprazole delayed-release capsules are not effective for treating the symptoms of GERD in children of less than of 1 year of age.
+Lansoprazole delayed-release capsules are not effective for treating the symptoms of GERD in children of less than of 1 year of age and may harm them.
 
 Do not take lansoprazole if you are:
 
 - allergic to lansoprazole, any other PPI medicine, or any of the ingredients in lansoprazole.
-  See the end of this Medication Guide for a complete list of ingredients.
-- taking a medicine that contains rilpivirine (EDURANT, COMPLERA, ODEFSEY) used to treat HIV-1 (Human Immunodeficiency Virus)
+  See the end of this Medication Guide for a complete list of ingredients in lansoprazole delayed-release capsules.
+- taking a medicine that contains rilpivirine (EDURANT, COMPLERA, ODEFSEY, JULUCA) used to treat HIV-1 (Human Immunodeficiency Virus)
 
 Before you take lansoprazole, tell your doctor about all of your medical conditions, including if you:
 
 - have low magnesium levels in your blood.
 - have liver problems
-- are pregnant or plan to become pregnant.
+- are pregnant, think you may be pregnant or plan to become pregnant.
   Lansoprazole delayed-release capsules may harm your unborn baby.
   Talk to your doctor about the possible risks to an unborn baby if lansoprazole delayed-release capsules are taken during pregnancy.
 - are breastfeeding or plan to breast feed.
@@ -92,7 +90,7 @@ Before you take lansoprazole, tell your doctor about all of your medical conditi
   Talk to your doctor about the best way to feed your baby if you take lansoprazole delayed-release capsules.
 
 Tell your doctor about all the medicines you take, including prescription andover-the-counter medicines, vitamins, and herbal supplements.
-Especially tell your doctor if you take methotrexate (OTREXUP, RASUVO, TREXALL).
+Especially tell your doctor if you take methotrexate (OTREXUP, RASUVO, TREXALL, TREXALL, REDITREX, XATMEP).
 
 How should I take lansoprazole delayed-release capsules?
 
@@ -232,7 +230,7 @@ Manufactured By:
 
 Inventia Healthcare Limited
 
-Plot No.F1-F-1/1-F75/1.
+F1-F-1/1-F75/1,
 
 Additional Ambernath M.I.D.C.,
 
@@ -241,18 +239,16 @@ Ambernath (East)-421506,
 Dist.
 Thane, Maharashtra, India
 
-Marketed by:
+Manufactured for:
 
 Lifestar Pharma LLC.
-
-(a Mankind Group Company)
 
 1200 MacArthur Blvd.
 
 Mahwah, NJ 07430 USA
 
-Revised: December 2019
+Revised: December 2020
 
 All other trademarks names are the property of their respective owners.
 
-ECA3TGIOIOUS74204
+ECA3TGIOIOUS74206

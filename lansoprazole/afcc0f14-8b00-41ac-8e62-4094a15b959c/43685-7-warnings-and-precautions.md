@@ -6,11 +6,12 @@ In adults, symptomatic response to therapy with lansoprazole does not preclude t
 Consider additional follow-up and diagnostic testing in adult patients who have a suboptimal response or an early symptomatic relapse after completing treatment with a PPI.
 In older patients, also consider an endoscopy.
 
-## 5.2 Acute Interstitial Nephritis
+## 5.2 Acute Tubulointerstitial Nephritis
 
-Acute interstitial nephritis has been observed in patients taking PPIs including lansoprazole.
-Acute interstitial nephritis may occur at any point during PPI therapy and is generally attributed to an idiopathic hypersensitivity reaction.
-Discontinue lansoprazole if acute interstitial nephritis develops [see Contraindications (4)].
+Acute tubulointerstitial nephritis (TIN) has been observed in patients taking PPIs and may occur at any point during PPI therapy.
+Patients may present with varying signs and symptoms from symptomatic hypersensitivity reactions to non-specific symptoms of decreased renal function (e.g., malaise, nausea, anorexia).
+In reported case series, some patients were diagnosed on biopsy and in the absence of extra-renal manifestations (e.g., fever, rash or arthralgia).
+Discontinue lansoprazole and evaluate patients with suspected acute TIN [see Contraindications (4)].
 
 ## 5.3 Clostridium difficile-Associated Diarrhea
 
@@ -79,3 +80,9 @@ In high-dose methotrexate administration, a temporary withdrawal of the PPI may 
 PPI use is associated with an increased risk of fundic gland polyps that increases with long-term use, especially beyond one year.
 Most PPI users who developed fundic gland polyps were asymptomatic and fundic gland polyps were identified incidentally on endoscopy.
 Use the shortest duration of PPI therapy appropriate to the condition being treated.
+
+## 5.12 Risk of Heart Valve Thickening in Pediatric Patients Less Than One Year of Age
+
+Lansoprazole is not approved in pediatric patients less than one year of age.
+Nonclinical studies in juvenile rats with lansoprazole have demonstrated an adverse effect of heart valve thickening.
+The risk of heart valve injury does not appear to be relevant to patients one year of age and older [see Use in Specific Populations (8.4)].

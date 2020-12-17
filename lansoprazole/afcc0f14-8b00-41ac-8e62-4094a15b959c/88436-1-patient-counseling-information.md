@@ -4,11 +4,9 @@ Advise the patient to read the FDA-approved patient labeling (Medication Guide a
 
 Advise patients to:
 
-f
+Acute Tubulointerstitial Nephritis
 
-Acute Interstitial Nephritis
-
-To call their healthcare provider if they experience signs and/or symptoms associated with acute interstitial nephritis [see Warnings and Precautions (5.2)].
+To call their healthcare provider if they experience signs and/or symptoms associated with acute tubulointerstitial nephritis [see Warnings and Precautions (5.2)].
 
 Clostridium difficile-Associated Diarrhea
 
@@ -60,7 +58,7 @@ Manufactured By:
 
 Inventia Healthcare Limited
 
-Plot No.F1-F-1/1-F75/1
+F1-F-1/1-F75/1,
 
 Additional Ambernath M.I.D.C.
 
@@ -69,16 +67,14 @@ Ambernath (East)-421506,
 Dist.
 Thane, Maharashtra, India
 
-Marketed by:
+Manufactured for:
 
 Lifestar Pharma LLC.
-
-(a Mankind Group Company)
 
 1200 MacArthur Blvd.
 
 Mahwah, NJ 07430 USA
 
-Revision Date: Dercember 2019
+Revision Date: December 2020
 
-ECA3TPIOIOUS72504
+ECA3TPIOIOUS72506
