@@ -18,8 +18,8 @@ The following clinically significant adverse reactions are described elsewhere i
 
 Because clinical studies are conducted under widely varying conditions, adverse reaction rates observed in the clinical studies of a drug cannot be directly compared to rates in the clinical studies of another drug and may not reflect the rates observed in practice.
 
-The safety data in Warnings and Precautions and described below reflect exposure to Avastin in 4134 patients including those with mCRC (AVF2107g, E3200), non-squamous NSCLC (E4599), GBM (EORTC 26101), mRCC (BO17705), cervical cancer (GOG-0240), and epithelial ovarian, fallopian tube, or primary peritoneal cancer (MO22224, AVF4095, GOG-0213, and GOG-0218) at the recommended dose and schedule for a median of 6 to 23 doses.
-The most common adverse reactions observed in patients receiving Avastin as a single agent or in combination with chemotherapy at a rate > 10% were epistaxis, headache, hypertension, rhinitis, proteinuria, taste alteration, dry skin, rectal hemorrhage, lacrimation disorder, back pain and exfoliative dermatitis.
+The safety data in Warnings and Precautions and described below reflect exposure to Avastin in 4463 patients including those with mCRC (AVF2107g, E3200), non-squamous NSCLC (E4599), GBM (EORTC 26101), mRCC (BO17705), cervical cancer (GOG-0240), epithelial ovarian, fallopian tube, or primary peritoneal cancer (MO22224, AVF4095, GOG-0213, and GOG-0218), or HCC (IMbrave150) at the recommended dose and schedule for a median of 6 to 23 doses.
+The most common adverse reactions observed in patients receiving Avastin as a single agent or in combination with other anti-cancer therapies at a rate > 10% were epistaxis, headache, hypertension, rhinitis, proteinuria, taste alteration, dry skin, hemorrhage, lacrimation disorder, back pain, and exfoliative dermatitis.
 
 Across clinical studies, Avastin was discontinued in 8% to 22% of patients because of adverse reactions [see Clinical Studies (14)].
 
@@ -352,6 +352,82 @@ Table 8: Grades 1–5 Adverse Reactions Occurring at Higher Incidence (≥ 5%) i
 | Infections |  |  |
 | Sinusitis | 7% | 2% |
 
+Hepatocellular Carcinoma (HCC)
+
+The safety of Avastin in combination with atezolizumab was evaluated in IMbrave150, a multicenter, international, randomized, open-label trial in patients with locally advanced or metastatic or unresectable hepatocellular carcinoma who have not received prior systemic treatment [see Clinical Studies (14.10)].
+Patients received 1,200 mg of atezolizumab intravenously followed by 15 mg/kg Avastin (n=329) every 3 weeks, or 400 mg of sorafenib (n=156) given orally twice daily, until disease progression or unacceptable toxicity.
+The median duration of exposure to Avastin was 6.9 months (range: 0-16 months) and to atezolizumab was 7.4 months (range: 0-16 months).
+
+Fatal adverse reactions occurred in 4.6% of patients in the Avastin and atezolizumab arm.
+The most common adverse reactions leading to death were gastrointestinal and esophageal varices hemorrhage (1.2%) and infections (1.2%).
+
+Serious adverse reactions occurred in 38% of patients in the Avastin and atezolizumab arm.
+The most frequent serious adverse reactions (≥ 2%) were gastrointestinal hemorrhage (7%), infections (6%), and pyrexia (2.1%).
+
+Adverse reactions leading to discontinuation of Avastin occurred in 15% of patients in the Avastin and atezolizumab arm.
+The most common adverse reactions leading to Avastin discontinuation were hemorrhages (4.9%), including bleeding varicose vein, hemorrhage and gastrointestinal, subarachnoid, and pulmonary hemorrhages; and increased transaminases or bilirubin (0.9%).
+
+Adverse reactions leading to interruption of Avastin occurred in 46% of patients in the Avastin and atezolizumab arm; the most common (≥ 2%) were proteinuria (6%); infections (6%); hypertension (6%); liver function laboratory abnormalities including increased transaminases, bilirubin, or alkaline phosphatase (4.6%); gastrointestinal hemorrhages (3%); thrombocytopenia/decreased platelet count (4.3%); and pyrexia (2.4%).
+
+Tables 9 and 10 summarize adverse reactions and laboratory abnormalities, respectively, in patients who received Avastin and atezolizumab in IMbrave150.
+
+Table 9: Adverse Reactions Occurring in ≥10% of Patients with HCC Receiving Avastin in IMbrave150
+
+| All GradesIncludes fatigue and asthenia (%) | Grades 3–4 (%) | All Grades (%) | Grades 3–4 (%) |  |
+| --- | --- | --- | --- | --- |
+| Adverse Reaction | Avastin in combination with atezolizumab (n = 329) |  | Sorafenib (n=156) |  |
+| Vascular Disorders |  |  |  |  |
+| Hypertension | 30 | 15 | 24 | 12 |
+| General Disorders and Administration Site Conditions |  |  |  |  |
+| Fatigue/asthenia | 26 | 2 | 32 | 6 |
+| Pyrexia | 18 | 0 | 10 | 0 |
+| Renal and Urinary Disorders |  |  |  |  |
+| Proteinuria | 20 | 3 | 7 | 0.6 |
+| Investigations |  |  |  |  |
+| Weight Decreased | 11 | 0 | 10 | 0 |
+| Skin and Subcutaneous Tissue Disorders |  |  |  |  |
+| Pruritus | 19 | 0 | 10 | 0 |
+| Rash | 12 | 0 | 17 | 2.6 |
+| Gastrointestinal Disorders |  |  |  |  |
+| Diarrhea | 19 | 1.8 | 49 | 5 |
+| Constipation | 13 | 0 | 14 | 0 |
+| Abdominal Pain | 12 | 0 | 17 | 0 |
+| Nausea | 12 | 0 | 16 | 0 |
+| Vomiting | 10 | 0 | 8 | 0 |
+| Metabolism and Nutrition Disorders |  |  |  |  |
+| Decreased Appetite | 18 | 1.2 | 24 | 3.8 |
+| Respiratory, Thoracic and Mediastinal Disorders |  |  |  |  |
+| Cough | 12 | 0 | 10 | 0 |
+| Epistaxis | 10 | 0 | 4.5 | 0 |
+| Injury, Poisoning and Procedural Complications |  |  |  |  |
+| Infusion Related Reaction | 11 | 2.4 | 0 | 0 |
+| 2 Graded per NCI CTCAE v4.0 |  |  |  |  |
+
+Table 10: Laboratory Abnormalities Worsening from Baseline Occurring in ≥20% of Patients with HCC Receiving Avastin in IMbrave150
+
+| All GradesGraded per NCI CTCAE v4.0 (%) | Grades 3–4 (%) | All Grades (%) | Grades 3–4 (%) |  |
+| --- | --- | --- | --- | --- |
+| Laboratory Abnormality | Avastin in combination with atezolizumab (n=329) |  | Sorafenib (n=156) |  |
+| Chemistry |  |  |  |  |
+| Increased AST | 86 | 16 | 90 | 16 |
+| Increased Alkaline Phosphatase | 70 | 4 | 76 | 4.6 |
+| Increased ALT | 62 | 8 | 70 | 4.6 |
+| Decreased Albumin | 60 | 1.5 | 54 | 0.7 |
+| Decreased Sodium | 54 | 13 | 49 | 9 |
+| Increased Glucose | 48 | 9 | 43 | 4.6 |
+| Decreased Calcium | 30 | 0.3 | 35 | 1.3 |
+| Decreased Phosphorus | 26 | 4.7 | 58 | 16 |
+| Increased Potassium | 23 | 1.9 | 16 | 2 |
+| Hypomagnesemia | 22 | 0 | 22 | 0 |
+| Hematology |  |  |  |  |
+| Decreased Platelet | 68 | 7 | 63 | 4.6 |
+| Decreased Lymphocytes | 62 | 13 | 58 | 11 |
+| Decreased Hemoglobin | 58 | 3.1 | 62 | 3.9 |
+| Increased Bilirubin | 57 | 8 | 59 | 14 |
+| Decreased Leukocyte | 32 | 3.4 | 29 | 1.3 |
+| Decreased Neutrophil | 23 | 2.3 | 16 | 1.1 |
+| Each test incidence is based on the number of patients who had both baseline and at least one on-study laboratory measurement available: Avastin plus atezolizumab (222-323) and sorafenib (90-153) NA = Not applicable. |  |  |  |  |
+
 ## 6.2 Immunogenicity
 
 As with all therapeutic proteins, there is a potential for immunogenicity.
@@ -383,3 +459,5 @@ Musculoskeletal and Connective Tissue Disorders: Osteonecrosis of the jaw
 Renal: Renal thrombotic microangiopathy (manifested as severe proteinuria)
 
 Respiratory: Nasal septum perforation
+
+Vascular: Arterial (including aortic) aneurysms, dissections, and rupture
