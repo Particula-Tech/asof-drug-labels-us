@@ -11,9 +11,9 @@ Patients with creatinine clearance (CLCR) between 30 and 70 mL/min were to recei
 
 Table 15: Investigator's Primary Diagnosis in the cSSSI Trials in Adult Patients (Population: ITT)
 
-| Study 9801 N=264 / N=266 | Study 9901 N=270 / N=292 | Pooled N=534 / N=558 |  |
-| --- | --- | --- | --- |
 | Primary Diagnosis | Adult Patients (Daptomycin for Injection / ComparatorComparator: vancomycin (1 g IV q12h) or an anti-staphylococcal semi-synthetic penicillin (i.e., nafcillin, oxacillin, cloxacillin, or flucloxacillin; 4 to 12 g/day IV in divided doses).) |  |  |
+| --- | --- | --- | --- |
+| Study 9801N=264 / N=266 | Study 9901N=270 / N=292 | PooledN=534 / N=558 |  |
 | Wound Infection | 99 (38%) / 116 (44%) | 102 (38%) / 108 (37%) | 201 (38%) / 224 (40%) |
 | Major Abscess | 55 (21%) / 43 (16%) | 59 (22%) / 65 (22%) | 114 (21%) / 108 (19%) |
 | Ulcer Infection | 71 (27%) / 75 (28%) | 53 (20%) / 68 (23%) | 124 (23%) / 143 (26%) |
@@ -32,11 +32,11 @@ Clinical success rates in the CE population were 89.9% (214/238) in patients tre
 
 The success rates by pathogen for microbiologically evaluable patients are presented in Table 16.
 
-Table 16: Clinical Success Rates by Infecting Pathogen in the cSSSI Trials in Adult Patients (Population: Microbiologically Evaluable)
+Table 16: Clinical Success Rates by Infecting Pathogen in the cSSSI Trials in Adult Patients(Population: Microbiologically Evaluable)
 
-| Daptomycin for Injection | ComparatorComparator: vancomycin (1 g IV q12h) or an anti-staphylococcal semi-synthetic penicillin (i.e., nafcillin, oxacillin, cloxacillin, or flucloxacillin; 4 to 12 g/day IV in divided doses). |  |
-| --- | --- | --- |
 | Pathogen | Success Rate n/N (%) |  |
+| --- | --- | --- |
+| Daptomycin for Injection | ComparatorComparator: vancomycin (1 g IV q12h) or an anti-staphylococcal semi-synthetic penicillin (i.e., nafcillin, oxacillin, cloxacillin, or flucloxacillin; 4 to 12 g/day IV in divided doses). |  |
 | Methicillin-susceptible Staphylococcus aureus (MSSA)As determined by the central laboratory. | 170/198 (86%) | 180/207 (87%) |
 | Methicillin-resistant Staphylococcus aureus (MRSA) | 21/28 (75%) | 25/36 (69%) |
 | Streptococcus pyogenes | 79/84 (94%) | 80/88 (91%) |
@@ -44,25 +44,8 @@ Table 16: Clinical Success Rates by Infecting Pathogen in the cSSSI Trials in Ad
 | Streptococcus dysgalactiae subsp. equisimilis | 8/8 (100%) | 9/11 (82%) |
 | Enterococcus faecalis (vancomycin-susceptible only) | 27/37 (73%) | 40/53 (76%) |
 
-Pediatric Patients (1 to 17 Years of Age) with cSSSI
-
-The cSSSI pediatric trial was a single prospective multi-center, randomized, comparative trial.
-A total of 396 pediatric patients aged 1 to 17 years with cSSSI caused by Gram positive pathogens were enrolled into the study.
-Patients known to have bacteremia, osteomyelitis, endocarditis, and pneumonia at baseline were excluded.
-Patients were enrolled in a stepwise approach into four age groups and given age-dependent doses of Daptomycin for injection once daily for up to 14 days.
-The different age groups and doses evaluated were as follows: Adolescents (12 to 17 years) treated with 5 mg/kg of Daptomycin for injection (n=113), Children (7 to 11 years) treated with 7 mg/kg of Daptomycin for injection (n=113), Children (2 to 6 years) treated with 9 mg/kg of Daptomycin for injection (n=125) and Infants (1 to < 2 years) treated with 10 mg/kg (n= 45).
-
-Patients were randomized 2:1 to receive Daptomycin for injection or a standard of care (SOC) comparator, which included intravenous therapy with either vancomycin, clindamycin, or an anti-staphylococcal semi-synthetic penicillin (nafcillin, oxacillin, or cloxacillin).
-Patients could switch to oral therapy after clinical improvement was demonstrated (no minimum IV dosing was required).
-
-The primary objective of this study was to evaluate the safety of Daptomycin for injection.
-The clinical outcome was determined by resolution or improvement of symptoms at the End-of-Treatment (EOT), 3 days after the last dose, and Test-of-Cure (TOC), 7-14 days after the last dose.
-Investigator observed outcomes were verified in a blinded fashion.
-Of the 396 subjects randomized in the study, 389 subjects were treated with Daptomycin for injection or comparator and included in the ITT population.
-Of these, 257 subjects were randomized to the Daptomycin for injection group and 132 subjects were randomized to the comparator group.
-Approximately 95% of subjects switched to oral therapy.
-The mean day of switch was day 4, and ranged from day 1 to day 14.
-The clinical success rates determined at 7-14 days after last dose of therapy (IV and oral) (TOC visit) were 88% (227/257) for Daptomycin for injection and 86% (114/132) for comparator.
+Pediatric use information is approved for Merck & Co., Inc.'s Cubicin (daptomycin for injection).
+However, due to Merck & Co., Inc.'s marketing exclusivity rights, this drug product is not labeled with that pediatric information.
 
 ## 14.2 S. aureus Bacteremia/Endocarditis
 
@@ -107,23 +90,13 @@ Adjudication Committee success rates are shown in Table 17.
 
 Table 17: Adjudication Committee Success Rates at Test of Cure in the S. aureus Bacteremia/Endocarditis Trial in Adult Patients (Population: ITT)
 
-| Daptomycin for Injection 6 mg/kg | ComparatorComparator: vancomycin (1 g IV q12h) or an anti-staphylococcal semi-synthetic penicillin (i.e., nafcillin, oxacillin, cloxacillin, or flucloxacillin; 2 g IV q4h), each with initial low-dose gentamicin. |  |  |
+| Population | Success Rate n/N (%) |  | Difference:Daptomycin for Injection − Comparator (Confidence Interval) |
 | --- | --- | --- | --- |
-| Population | Success Rate n/N (%) |  | Difference: Daptomycin for Injection − Comparator (Confidence Interval) |
+| Daptomycin for Injection 6 mg/kg | ComparatorComparator: vancomycin (1 g IV q12h) or an anti-staphylococcal semi-synthetic penicillin (i.e., nafcillin, oxacillin, cloxacillin, or flucloxacillin; 2 g IV q4h), each with initial low-dose gentamicin. |  |  |
 | Overall | 53/120 (44%) | 48/115 (42%) | 2.4% (−10.2, 15.1)95% Confidence Interval |
-| Baseline Pathogen |  |  |  |
-| Methicillin-susceptible S. aureus | 33/74 (45%) | 34/70 (49%) | −4.0% (−22.6, 14.6)97.5% Confidence Interval (adjusted for multiplicity) |
-| Methicillin-resistant S. aureus | 20/45 (44%) | 14/44 (32%) | 12.6% (−10.2, 35.5) |
-| Entry DiagnosisAccording to the modified Duke criteria5 |  |  |  |
-| Definite or Possible Infective Endocarditis | 41/90 (46%) | 37/91 (41%) | 4.9% (−11.6, 21.4) |
-| Not Infective Endocarditis | 12/30 (40%) | 11/24 (46%) | −5.8% (−36.2, 24.5) |
-| Final Diagnosis |  |  |  |
-| Uncomplicated Bacteremia | 18/32 (56%) | 16/29 (55%) | 1.1% (−31.7, 33.9)99% Confidence Interval (adjusted for multiplicity) |
-| Complicated Bacteremia | 26/60 (43%) | 23/61 (38%) | 5.6% (−17.3, 28.6) |
-| Right-Sided Infective Endocarditis | 8/19 (42%) | 7/16 (44%) | −1.6% (−44.9, 41.6) |
-| Uncomplicated Right-Sided Infective Endocarditis | 3/6 (50%) | 1/4 (25%) | 25.0% (−51.6, 100.0) |
-| Complicated Right-Sided Infective Endocarditis | 5/13 (39%) | 6/12 (50%) | −11.5% (−62.4, 39.4) |
-| Left-Sided Infective Endocarditis | 1/9 (11%) | 2/9 (22%) | −11.1% (−55.9, 33.6) |
+| Baseline Pathogen Methicillin-susceptible S. aureus Methicillin-resistant S. aureus | 33/74 (45%)20/45 (44%) | 34/70 (49%)14/44 (32%) | −4.0% (−22.6, 14.6)97.5% Confidence Interval (adjusted for multiplicity)12.6% (−10.2, 35.5) |
+| Entry Diagnosis According to the modified Duke criteria8 Definite or Possible Infective Endocarditis Not Infective Endocarditis | 41/90 (46%)12/30 (40%) | 37/91 (41%)11/24 (46%) | 4.9% (−11.6, 21.4)−5.8% (−36.2, 24.5) |
+| Final Diagnosis Uncomplicated Bacteremia Complicated Bacteremia Right-Sided Infective Endocarditis Uncomplicated Right-Sided Infective Endocarditis Complicated Right-Sided Infective Endocarditis Left-Sided Infective Endocarditis | 18/32 (56%)26/60 (43%)8/19 (42%)3/6 (50%)5/13 (39%)1/9 (11%) | 16/29 (55%)23/61 (38%)7/16 (44%)1/4 (25%)6/12 (50%)2/9 (22%) | 1.1% (−31.7, 33.9)99% Confidence Interval (adjusted for multiplicity)5.6% (−17.3, 28.6)−1.6% (−44.9, 41.6)25.0% (-51.6, 100.0)-11.5% (-62.4, 39.4)-11.1% (-55.9, 33.6) |
 
 Eighteen (18/120) patients in the Daptomycin for injection arm and 19/116 patients in the comparator arm died during the trial.
 These comprise 3/28 Daptomycin for injection-treated patients and 8/26 comparator-treated patients with endocarditis, as well as 15/92 Daptomycin for injection-treated patients and 11/90 comparator-treated patients with bacteremia.
@@ -136,22 +109,5 @@ Failure of treatment due to persisting or relapsing S. aureus infections was ass
 Among all failures, isolates from 6 Daptomycin for injection-treated patients and 1 vancomycin-treated patient developed increasing MICs (reduced susceptibility) by central laboratory testing during or following therapy.
 Most patients who failed due to persisting or relapsing S. aureus infection had deep-seated infection and did not receive necessary surgical intervention [see Warnings and Precautions (5.7)].
 
-Pediatric Patients (1 to 17 Years of Age) with S. aureus Bacteremia
-
-The pediatric S. aureus bacteremia study was designed as a prospective multi-center, randomized, comparative trial to treat pediatric patients aged 1 to 17 years with bacteremia.
-Patients known to have endocarditis or pneumonia at baseline were excluded.
-Patients were enrolled in a stepwise approach into three age groups and given age-dependent doses of Daptomycin for injection once daily for up to 42 days.
-The different age groups and doses evaluated were as follows: Adolescents (12 to 17 years, n=14 patients) treated with Daptomycin for injection dosed at 7 mg/kg once daily, Children (7 to 11 years, n=19 patients) treated with Daptomycin for injection dosed at 9 mg/kg once daily and Children (2 to 6 years, n=22 patients) treated with Daptomycin for injection dosed at 12 mg/kg once daily.
-No patients 1 to <2 years of age were enrolled.
-
-Patients were randomized 2:1 to receive Daptomycin for injection or a standard of care comparator, which included intravenous therapy with vancomycin, semi-synthetic penicillin, first generation cephalosporin or clindamycin.
-Patients could switch to oral therapy after clinical improvement was demonstrated (no minimum IV dosing was required).
-
-The primary objective of this study was to assess the safety of Daptomycin for injection.
-The clinical outcome was determined by resolution or improvement of symptoms at test-of-cure (TOC) visit, 7 to 14 days after the last dose, which was assessed by the site level Blinded Evaluator.
-
-Of the 82 subjects randomized in the study, 81 subjects were treated with Daptomycin for injection or comparator and included in the safety population, and 73 had a proven S. aureus bacteremia at Baseline.
-Of these, 51 subjects were randomized to the Daptomycin for injection group and 22 subjects were randomized to the comparator group.
-The mean duration of IV therapy was 12 days, with a range of 1 to 44 days.
-Forty-eight subjects switched to oral therapy, and the mean duration of oral therapy was 21 days.
-The clinical success rates determined at 7 to 14 days after last dose of therapy (IV and oral) (TOC visit) were 88% (45/51) for Daptomycin for injection and 77% (17/22) for comparator.
+Pediatric use information is approved for Merck & Co., Inc.'s Cubicin (daptomycin for injection).
+However, due to Merck & Co., Inc.'s marketing exclusivity rights, this drug product is not labeled with that pediatric information.

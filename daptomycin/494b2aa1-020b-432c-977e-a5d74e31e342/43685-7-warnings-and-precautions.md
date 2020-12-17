@@ -34,6 +34,7 @@ Treatment with systemic steroids is recommended.
 
 Cases of peripheral neuropathy have been reported during the Daptomycin for injection postmarketing experience [see Adverse Reactions (6.2)].
 Therefore, physicians should be alert to signs and symptoms of peripheral neuropathy in patients receiving Daptomycin for injection.
+
 Monitor for neuropathy and consider discontinuation.
 
 ## 5.5 Potential Nervous System and/or Muscular System Effects in Pediatric Patients Younger than 12 Months
@@ -46,7 +47,6 @@ Clostridium difficile–associated diarrhea (CDAD) has been reported with the us
 Treatment with antibacterial agents alters the normal flora of the colon, leading to overgrowth of C. difficile.
 
 C. difficile produces toxins A and B, which contribute to the development of CDAD.
-
 Hypertoxin-producing strains of C. difficile cause increased morbidity and mortality, since these infections can be refractory to antimicrobial therapy and may require colectomy.
 CDAD must be considered in all patients who present with diarrhea following antibacterial use.
 Careful medical history is necessary because CDAD has been reported to occur more than 2 months after the administration of antibacterial agents.
@@ -64,29 +64,29 @@ Failure of treatment due to persisting or relapsing S. aureus bacteremia/endocar
 
 ## 5.8 Decreased Efficacy in Patients with Moderate Baseline Renal Impairment
 
-Limited data are available from the two Phase 3 complicated skin and skin structure infection (cSSSI) trials regarding clinical efficacy of Daptomycin for injection treatment in adult patients with creatinine clearance (CLCR) <50 mL/min; only 31/534 (6%) patients treated with Daptomycin for injection in the intent-to-treat (ITT) population had a baseline CLCR <50 mL/min.
+Limited data are available from the two Phase 3 complicated skin and skin structure infection (cSSSI) trials regarding clinical efficacy of Daptomycin for injection treatment in adult patients with creatinine clearance (CLCR) <50 mL/min; only 31/534 (6%) patients treated with Daptomycin for injection in the intent-to-treat (ITT) population had a baseline CLCR<50 mL/min.
 Table 4 shows the number of adult patients by renal function and treatment group who were clinical successes in the Phase 3 cSSSI trials.
 
 Table 4: Clinical Success Rates by Renal Function and Treatment Group in Phase 3 cSSSI Trials in Adult Patients (Population: ITT)
 
-| Daptomycin for Injection 4 mg/kg q24h | Comparator |  |
-| --- | --- | --- |
 | CLCR | Success Rate n/N (%) |  |
-| 50–70 mL/min | 25/38 (66%) | 30/48 (63%) |
-| 30–<50 mL/min | 7/15 (47%) | 20/35 (57%) |
+| --- | --- | --- |
+| Daptomycin for Injection 4 mg/kg q24h | Comparator |  |
+| 50-70 mL/min | 25/38 (66%) | 30/48 (63%) |
+| 30-<50 mL/min | 7/15 (47%) | 20/35 (57%) |
 
 In a subgroup analysis of the ITT population in the Phase 3 S. aureus bacteremia/endocarditis trial, clinical success rates, as determined by a treatment-blinded Adjudication Committee [see Clinical Studies (14.2)], in the Daptomycin for injection-treated adult patients were lower in patients with baseline CLCR <50 mL/min (see Table 5).
 A decrease of the magnitude shown in Table 5 was not observed in comparator-treated patients.
 
 Table 5: Adjudication Committee Clinical Success Rates at Test of Cure by Baseline Creatinine Clearance and Treatment Subgroup in the S. aureus Bacteremia/Endocarditis Trial in Adult Patients (Population: ITT)
 
-| Bacteremia | Right-Sided Infective Endocarditis | Bacteremia | Right-Sided Infective Endocarditis |  |
-| --- | --- | --- | --- | --- |
 | Baseline CLCR | Success Rate n/N (%) |  |  |  |
+| --- | --- | --- | --- | --- |
 | Daptomycin for injection 6 mg/kg q24h |  | Comparator |  |  |
+| Bacteremia | Right-Sided Infective Endocarditis | Bacteremia | Right-Sided Infective Endocarditis |  |
 | >80 mL/min | 30/50 (60%) | 7/14 (50%) | 19/42 (45%) | 5/11 (46%) |
-| 50–80 mL/min | 12/26 (46%) | 1/4 (25%) | 13/31 (42%) | 1/2 (50%) |
-| 30–<50 mL/min | 2/14 (14%) | 0/1 (0%) | 7/17 (41%) | 1/1 (100%) |
+| 50-80 mL/min | 12/26 (46%) | 1/4 (25%) | 13/31 (42%) | 1/2 (50%) |
+| 30-<50 mL/min | 2/14 (14%) | 0/1 (0%) | 7/17 (41%) | 1/1 (100%) |
 
 Consider these data when selecting antibacterial therapy for use in adult patients with baseline moderate to severe renal impairment.
 

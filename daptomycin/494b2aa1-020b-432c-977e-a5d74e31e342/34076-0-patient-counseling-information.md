@@ -19,3 +19,17 @@ Counsel patients that antibacterial drugs, including Daptomycin for injection, s
 They do not treat viral infections (e.g., the common cold).
 When Daptomycin for injection is prescribed to treat a bacterial infection, patients should be told that although it is common to feel better early in the course of therapy, the medication should be administered exactly as directed.
 Skipping doses or not completing the full course of therapy may (1) decrease the effectiveness of the immediate treatment and (2) increase the likelihood that bacteria will develop resistance and will not be treatable by Daptomycin for injection or other antibacterial drugs in the future.
+
+The brand names mentioned in this document are the trademarks of their respective owners.
+
+Manufactured for:
+
+Xellia Pharmaceuticals USA, LLC
+
+Buffalo Grove, IL 60089
+
+Made in India
+
+LEA-019756-01
+
+Code No: AP/DRUGS/103/97
