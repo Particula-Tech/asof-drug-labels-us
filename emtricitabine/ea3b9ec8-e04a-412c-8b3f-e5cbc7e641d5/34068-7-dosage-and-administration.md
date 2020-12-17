@@ -9,7 +9,7 @@ In patients with chronic kidney disease, also assess serum phosphorus [see Warni
 
 ## 2.2 Recommended Dosage
 
-ODEFSEY is a three-drug fixed dose combination product containing 200 mg of emtricitabine (FTC), 25 mg of rilpivirine (RPV), and 25 mg of tenofovir alafenamide (TAF).
+ODEFSEY is a three-drug fixed dose combination product containing 200 mg of emtricitabine (FTC), 25 mg of rilpivirine (RPV), and 25 mg of tenofovir alafenamide (TAF).ODEFSEY is a three-drug fixed dose combination product containing 200 mg of emtricitabine (FTC), 25 mg of rilpivirine (RPV), and 25 mg of tenofovir alafenamide (TAF).
 
 The recommended dosage of ODEFSEY is one tablet taken orally once daily with a meal in adults and pediatric patients with body weight at least 35 kg and creatinine clearance greater than or equal to 30 mL per minute [see Use in Specific Populations (8.6) and Clinical Pharmacology (12.3)].
 
@@ -20,7 +20,7 @@ Lower exposures of rilpivirine, a component of ODEFSEY, were observed during pre
 
 ## 2.4 Not Recommended in Patients with Severe Renal Impairment
 
-ODEFSEY is not recommended in patients with:
+ODEFSEY is not recommended in patients with:ODEFSEY is not recommended in patients with:
 
-- severe renal impairment (estimated creatinine clearance of 15 to below 30 mL per minute); or
-- end stage renal disease (ESRD; estimated creatinine clearance below 15 mL per minute) who are not receiving chronic hemodialysis [see Dosage and Administration (2.2), Warnings and Precautions (5.5), and Use in Specific Populations (8.6)].
+- severe renal impairment (estimated creatinine clearance of 15 to below 30 mL per minute); orsevere renal impairment (estimated creatinine clearance of 15 to below 30 mL per minute); or
+- end stage renal disease (ESRD; estimated creatinine clearance below 15 mL per minute) who are not receiving chronic hemodialysis [see Dosage and Administration (2.2), Warnings and Precautions (5.5), and Use in Specific Populations (8.6)]. end stage renal disease (ESRD; estimated creatinine clearance below 15 mL per minute) who are not receiving chronic hemodialysis [see Dosage and Administration (2.2), Warnings and Precautions (5.5), and Use in Specific Populations (8.6)].
