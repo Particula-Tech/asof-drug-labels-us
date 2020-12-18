@@ -19,7 +19,7 @@ Case reports describe a pattern of distinct congenital anomalies in infants expo
 These reported anomalies are similar to those seen in animal studies.
 If fluconazole is used during pregnancy or if the patient becomes pregnant while taking the drug, the patient should be informed of the potential hazard to the fetus.
 Effective contraceptive measures should be considered in women of child-bearing potential who are being treated with fluconazole 400 to 800 mg/day and should continue throughout the treatment period and for approximately 1 week (5 to 6 half-lives) after the final dose.
-Epidemiological studies suggest a potential risk of spontaneous abortion and congenital abnormalities in infants whose mothers were treated with 150 mg of fluconazole as a single or repeated dose in the first trimester, but these epidemiological studies have limitations and these findings have not been confirmed in controlled clinical trials (See PRECAUTIONS: Pregnancy.)
+Epidemiological studies suggest a potential risk of spontaneous abortion and congenital abnormalities in infants whose mothers were treated with 150 mg of fluconazole as a single or repeated dose in the first trimester, but these epidemiological studies have limitations and these findings have not been confirmed in controlled clinical trials (see PRECAUTIONS: Pregnancy).
 
 # PRECAUTIONS
 
@@ -27,8 +27,7 @@ Epidemiological studies suggest a potential risk of spontaneous abortion and con
 
 Some azoles, including fluconazole, have been associated with prolongation of the QT interval on the electrocardiogram.
 Fluconazole causes QT prolongation via the inhibition of Rectifier Potassium Channel current (Ikr).
-The QT prolongation caused by other medicinal products (such as amiodarone) may be amplified via the inhibition of cytochrome P450 (CYP) 3A4.
-(See PRECAUTIONS: Drug Interactions.)
+The QT prolongation caused by other medicinal products (such as amiodarone) may be amplified via the inhibition of cytochrome P450 (CYP) 3A4 (see PRECAUTIONS: Drug Interactions).
 During post-marketing surveillance, there have been rare cases of QT prolongation and torsade de pointes in patients taking fluconazole.
 Most of these reports involved seriously ill patients with multiple confounding risk factors, such as structural heart disease, electrolyte abnormalities, and concomitant medications that may have been contributory.
 Patients with hypokalemia and advanced cardiac failure are at an increased risk for the occurrence of life-threatening ventricular arrhythmias and torsade de pointes.
@@ -47,10 +46,9 @@ When driving vehicles or operating machines, it should be taken into account tha
 
 ## Single Dose
 
-The convenience and efficacy of the single dose oral tablet of fluconazole regimen for the treatment of vaginal yeast infections should be weighed against the acceptability of a higher incidence of drug related adverse events with fluconazole (26%) versus intravaginal agents (16%) in U.S. comparative clinical studies.
-(See ADVERSE REACTIONS and CLINICAL STUDIES.)
+The convenience and efficacy of the single dose oral tablet of fluconazole regimen for the treatment of vaginal yeast infections should be weighed against the acceptability of a higher incidence of drug related adverse events with fluconazole (26%) versus intravaginal agents (16%) in U.S. comparative clinical studies (see ADVERSE REACTIONS and CLINICAL STUDIES).
 
-Drug Interactions: (See CONTRAINDICATIONS.)
+Drug Interactions: (See CONTRAINDICATIONS)
 
 - Fluconazole is a moderate CYP2C9 and CYP3A4 inhibitor.
   Fluconazole is also a strong inhibitor of CYP2C19.
@@ -94,22 +92,19 @@ Celecoxib: During concomitant treatment with fluconazole (200 mg daily) and cele
 Half of the celecoxib dose may be necessary when combined with fluconazole.
 
 Cisapride: There have been reports of cardiac events, including torsade de pointes, in patients to whom fluconazole and cisapride were coadministered.
-A controlled study found that concomitant fluconazole 200 mg once daily and cisapride 20 mg four times a day yielded a significant increase in cisapride plasma levels and prolongation of QTc interval.
-The combined use of fluconazole with cisapride is contraindicated.
-(See CONTRAINDICATIONSand CLINICAL PHARMACOLOGY: Drug Interaction Studies.)
+A controlled study found that concomitant treatment with fluconazole 200 mg once daily and cisapride 20 mg four times a day yielded a significant increase in cisapride plasma levels and prolongation of QTc interval.
+The combined use of fluconazole with cisapride is contraindicated (see CONTRAINDICATIONSand CLINICAL PHARMACOLOGY: Drug Interaction Studies).
 
 Coumarin-type anticoagulants: Prothrombin time may be increased in patients receiving concomitant fluconazole and coumarin-type anticoagulants.
 In post-marketing experience, as with other azole antifungals, bleeding events (bruising, epistaxis, gastrointestinal bleeding, hematuria, and melena) have been reported in association with increases in prothrombin time in patients receiving fluconazole concurrently with warfarin.
 Careful monitoring of prothrombin time in patients receiving fluconazole and coumarin-type anticoagulants is recommended.
-Dose adjustment of warfarin may be necessary.
-(See CLINICAL PHARMACOLOGY: Drug Interaction Studies.)
+Dose adjustment of warfarin may be necessary (see CLINICAL PHARMACOLOGY: Drug Interaction Studies).
 
 Cyclophosphamide: Combination therapy with cyclophosphamide and fluconazole results in an increase in serum bilirubin and serum creatinine.
 The combination may be used while taking increased consideration to the risk of increased serum bilirubin and serum creatinine.
 
 Cyclosporine: Fluconazole significantly increases cyclosporine levels in renal transplant patients with or without renal impairment.
-Careful monitoring of cyclosporine concentrations and serum creatinine is recommended in patients receiving fluconazole and cyclosporine.
-(See CLINICAL PHARMACOLOGY: Drug Interaction Studies.)
+Careful monitoring of cyclosporine concentrations and serum creatinine is recommended in patients receiving fluconazole and cyclosporine (see CLINICAL PHARMACOLOGY: Drug Interaction Studies).
 This combination may be used by reducing the dosage of cyclosporine depending on cyclosporine concentration.
 
 Fentanyl: One fatal case of possible fentanyl-fluconazole interaction was reported.
@@ -125,6 +120,9 @@ HMG-CoA reductase inhibitors should be discontinued if a marked increase in crea
 
 Hydrochlorothiazide: In a pharmacokinetic interaction study, coadministration of multiple-dose hydrochlorothiazide to healthy volunteers receiving fluconazole increased plasma concentrations of fluconazole by 40%.
 An effect of this magnitude should not necessitate a change in the fluconazole dose regimen in subjects receiving concomitant diuretics.
+
+Ibrutinib: Moderate inhibitors of CYP3A4 such as fluconazole may increase plasma ibrutinib concentrations and increase risk of adverse reactions associated with ibrutinib.
+If ibrutinib and fluconazole are concomitantly administered, reduce the dose of ibrutinib as instructed in ibrutinib prescribing information and the patient should be frequently monitored for any adverse reactions associated with ibrutinib.
 
 Losartan: Fluconazole inhibits the metabolism of losartan to its active metabolite (E-31 74) which is responsible for most of the angiotensin Il-receptor antagonism which occurs during treatment with losartan.
 Patients should have their blood pressure monitored continuously.
@@ -148,12 +146,10 @@ Thus, multiple-dose use of fluconazole at these doses is unlikely to have an eff
 
 Oral hypoglycemics: Clinically significant hypoglycemia may be precipitated by the use of fluconazole with oral hypoglycemic agents; one fatality has been reported from hypoglycemia in association with combined fluconazole and glyburide use.
 Fluconazole reduces the metabolism of tolbutamide, glyburide, and glipizide and increases the plasma concentration of these agents.
-When fluconazole is used concomitantly with these or other sulfonylurea oral hypoglycemic agents, blood glucose concentrations should be carefully monitored and the dose of the sulfonylurea should be adjusted as necessary.
-(See CLINICAL PHARMACOLOGY: Drug Interaction Studies.)
+When fluconazole is used concomitantly with these or other sulfonylurea oral hypoglycemic agents, blood glucose concentrations should be carefully monitored and the dose of the sulfonylurea should be adjusted as necessary (see CLINICAL PHARMACOLOGY: Drug Interaction Studies).
 
 Phenytoin: Fluconazole increases the plasma concentrations of phenytoin.
-Careful monitoring of phenytoin concentrations in patients receiving fluconazole and phenytoin is recommended.
-(See CLINICAL PHARMACOLOGY: Drug Interaction Studies.)
+Careful monitoring of phenytoin concentrations in patients receiving fluconazole and phenytoin is recommended (see CLINICAL PHARMACOLOGY: Drug Interaction Studies).
 
 Pimozide: Although not studied in vitro or in vivo, concomitant administration of fluconazole with pimozide may result in inhibition of pimozide metabolism.
 Increased pimozide plasma concentrations can lead to QT prolongation and rare occurrences of torsade de pointes.
@@ -165,25 +161,21 @@ Patients on long-term treatment with fluconazole and prednisone should be carefu
 
 Quinidine: Although not studied in vitro or in vivo, concomitant administration of fluconazole with quinidine may result in inhibition of quinidine metabolism.
 Use of quinidine has been associated with QT prolongation and rare occurrences of torsade de pointes.
-Coadministration of fluconazole and quinidine is contraindicated.
-(See CONTRAINDICATIONS.)
+Coadministration of fluconazole and quinidine is contraindicated (see CONTRAINDICATIONS).
 
 Rifabutin: There have been reports that an interaction exists when fluconazole is administered concomitantly with rifabutin, leading to increased serum levels of rifabutin up to 80%.
 There have been reports of uveitis in patients to whom fluconazole and rifabutin were coadministered.
-Patients receiving rifabutin and fluconazole concomitantly should be carefully monitored.
-(See CLINICAL PHARMACOLOGY: Drug Interaction Studies.)
+Patients receiving rifabutin and fluconazole concomitantly should be carefully monitored (see CLINICAL PHARMACOLOGY: Drug Interaction Studies).
 
 Rifampin: Rifampin enhances the metabolism of concurrently administered fluconazole.
-Depending on clinical circumstances, consideration should be given to increasing the dose of fluconazole when it is administered with rifampin.
-(See CLINICAL PHARMACOLOGY: Drug Interaction Studies.)
+Depending on clinical circumstances, consideration should be given to increasing the dose of fluconazole when it is administered with rifampin (see CLINICAL PHARMACOLOGY: Drug Interaction Studies).
 
 Saquinavir: Fluconazole increases the AUC of saquinavir by approximately 50%, Cmax by approximately 55%, and decreases the clearance of saquinavir by approximately 50% due to inhibition of saquinavir’s hepatic metabolism by CYP3A4 and inhibition of P-glycoprotein.
 Dosage adjustment of saquinavir may be necessary.
 
 Short-acting benzodiazepines: Following oral administration of midazolam, fluconazole resulted in substantial increases in midazolam concentrations and psychomotor effects.
 This effect on midazolam appears to be more pronounced following oral administration of fluconazole than with fluconazole administered intravenously.
-If short-acting benzodiazepines, which are metabolized by the cytochrome P450 system, are concomitantly administered with fluconazole, consideration should be given to decreasing the benzodiazepine dosage, and the patients should be appropriately monitored.
-(See CLINICAL PHARMACOLOGY: Drug Interaction Studies.)
+If short-acting benzodiazepines, which are metabolized by the cytochrome P450 system, are concomitantly administered with fluconazole, consideration should be given to decreasing the benzodiazepine dosage, and the patients should be appropriately monitored (see CLINICAL PHARMACOLOGY: Drug Interaction Studies).
 
 Sirolimus: Fluconazole increases plasma concentrations of sirolimus presumably by inhibiting the metabolism of sirolimus via CYP3A4 and P-glycoprotein.
 This combination may be used with a dosage adjustment of sirolimus depending on the effect/concentration measurements.
@@ -191,35 +183,34 @@ This combination may be used with a dosage adjustment of sirolimus depending on 
 Tacrolimus: Fluconazole may increase the serum concentrations of orally administered tacrolimus up to 5 times due to inhibition of tacrolimus metabolism through CYP3A4 in the intestines.
 No significant pharmacokinetic changes have been observed when tacrolimus is given intravenously.
 Increased tacrolimus levels have been associated with nephrotoxicity.
-Dosage of orally administered tacrolimus should be decreased depending on tacrolimus concentration.
-(See CLINICAL PHARMACOLOGY: Drug Interaction Studies.)
+Dosage of orally administered tacrolimus should be decreased depending on tacrolimus concentration (see CLINICAL PHARMACOLOGY: Drug Interaction Studies).
 
 Terfenadine: Because of the occurrence of serious cardiac dysrhythmias secondary to prolongation of the QTc interval in patients receiving azole antifungals in conjunction with terfenadine, interaction studies have been performed.
 One study at a 200 mg daily dose of fluconazole failed to demonstrate a prolongation in QTc interval.
 Another study at a 400 mg and 800 mg daily dose of fluconazole demonstrated that fluconazole taken in doses of 400 mg/day or greater significantly increases plasma levels of terfenadine when taken concomitantly.
-The combined use of fluconazole at doses of 400 mg or greater with terfenadine is contraindicated.
-(See CONTRAINDICATIONSand CLINICAL PHARMACOLOGY: Drug Interaction Studies.)
+The combined use of fluconazole at doses of 400 mg or greater with terfenadine is contraindicated (see CONTRAINDICATIONSand CLINICAL PHARMACOLOGY: Drug Interaction Studies).
 The coadministration of fluconazole at doses lower than 400 mg/day with terfenadine should be carefully monitored.
 
 Theophylline: Fluconazole increases the serum concentrations of theophylline.
-Careful monitoring of serum theophylline concentrations in patients receiving fluconazole and theophylline is recommended.
-(See CLINICAL PHARMACOLOGY: Drug Interaction Studies.)
+Careful monitoring of serum theophylline concentrations in patients receiving fluconazole and theophylline is recommended (see CLINICAL PHARMACOLOGY: Drug Interaction Studies).
 
 Tofacitinib: Systemic exposure to tofacitinib is increased when tofacitinib is coadministered with fluconazole.
-Reduce the dose of tofacitinib when given concomitantly with fluconazole (i.e., from 5 mg twice daily to 5 mg once daily as instructed in the XELJANZ® [tofacitinib] label).
-(See CLINICAL PHARMACOLOGY: Drug Interaction Studies.)
+Reduce the dose of tofacitinib when given concomitantly with fluconazole (i.e., from 5 mg twice daily to 5 mg once daily as instructed in the XELJANZ® [tofacitinib] label) (see CLINICAL PHARMACOLOGY: Drug Interaction Studies).
+
+Tolvaptan: Plasma exposure to tolvaptan is significantly increased (200% in AUC; 80% in Cmax) when tolvaptan, a CYP3A4 substrate, is co-administered with fluconazole, a moderate CYP3A4 inhibitor.
+This interaction may result in the risk of a significant increase in adverse reactions associated with tolvaptan, particularly significant diuresis, dehydration and acute renal failure.
+If tolvaptan and fluconazole are concomitantly administered, the tolvaptan dose should be reduced as instructed in the tolvaptan prescribing information and the patient should be frequently monitored for any adverse reactions associated with tolvaptan.
 
 Triazolam: Fluconazole increases the AUC of triazolam (single dose) by approximately 50%, Cmax by 20% to 32%, and increases t½ by 25% to 50 % due to the inhibition of metabolism of triazolam.
 Dosage adjustments of triazolam may be necessary.
 
 Vinca alkaloids: Although not studied, fluconazole may increase the plasma levels of the vinca alkaloids (e.g., vincristine and vinblastine) and lead to neurotoxicity, which is possibly due to an inhibitory effect on CYP3A4.
 
-Vitamin A: Based on a case report in one patient receiving combination therapy with all-transretinoid acid (an acid form of vitamin A) and fluconazole, central nervous system (CNS) related undesirable effects have developed in the form of pseudotumor cerebri, which disappeared after discontinuation of fluconazole treatment.
+Vitamin A: Based on a case report in one patient receiving combination therapy with all-trans-retinoid acid (an acid form of vitamin A) and fluconazole, central nervous system (CNS) related undesirable effects have developed in the form of pseudotumor cerebri, which disappeared after discontinuation of fluconazole treatment.
 This combination may be used but the incidence of CNS related undesirable effects should be borne in mind.
 
 Voriconazole: Avoid concomitant administration of voriconazole and fluconazole.
-Monitoring for adverse events and toxicity related to voriconazole is recommended; especially, if voriconazole is started within 24 h after the last dose of fluconazole.
-(See CLINICAL PHARMACOLOGY: Drug Interaction Studies.)
+Monitoring for adverse events and toxicity related to voriconazole is recommended; especially, if voriconazole is started within 24 h after the last dose of fluconazole (see CLINICAL PHARMACOLOGY: Drug Interaction Studies).
 
 Zidovudine: Fluconazole increases the Cmax and AUC of zidovudine by 84% and 74%, respectively, due to an approximately 45% decrease in oral zidovudine clearance.
 The half-life of zidovudine was likewise prolonged by approximately 128% following combination therapy with fluconazole.
@@ -240,8 +231,7 @@ Fluconazole did not affect the fertility of male or female rats treated orally w
 In an intravenous perinatal study in rats at 5 mg/kg, 20 mg/kg, and 40 mg/kg, dystocia and prolongation of parturition were observed in a few dams at 20 mg/kg (approximately 5 to 15 times the recommended human dose) and 40 mg/kg, but not at 5 mg/kg.
 The disturbances in parturition were reflected by a slight increase in the number of still born pups and decrease of neonatal survival at these dose levels.
 The effects on parturition in rats are consistent with the species specific estrogen-lowering property produced by high doses of fluconazole.
-Such a hormone change has not been observed in women treated with fluconazole.
-(See CLINICAL PHARMACOLOGY.)
+Such a hormone change has not been observed in women treated with fluconazole (see CLINICAL PHARMACOLOGY).
 
 ## Pregnancy
 
@@ -253,8 +243,7 @@ These reported anomalies are similar to those seen in animal studies.
 Effective contraceptive measures should be considered in women of child-bearing potential who are being treated with fluconazole 400 to 800 mg/day and should continue throughout the treatment period and for approximately 1 week (5 to 6 half-lives) after the final dose.
 If fluconazole is used during pregnancy, or if the patient becomes pregnant while taking the drug, the patient should be informed of the potential hazard to the fetus.
 Spontaneous abortions and congenital abnormalities have been suggested as potential risks associated with 150 mg of fluconazole as a single or repeated dose in the first trimester of pregnancy based on retrospective epidemiological studies.
-There are no adequate and well-controlled studies of fluconazole in pregnant women.
-(See WARNINGS: Potential for Fetal Harm)
+There are no adequate and well-controlled studies of fluconazole in pregnant women (see WARNINGS: Potential for Fetal Harm).
 
 Human Data
 
@@ -285,12 +274,10 @@ Caution should be exercised when fluconazole is administered to a nursing woman.
 
 ## Pediatric Use
 
-An open-label, randomized, controlled trial has shown fluconazole to be effective in the treatment of oropharyngeal candidiasis in children 6 months to 13 years of age.
-(See CLINICAL STUDIES.)
+An open-label, randomized, controlled trial has shown fluconazole to be effective in the treatment of oropharyngeal candidiasis in children 6 months to 13 years of age (see CLINICAL STUDIES).
 
 The use of fluconazole in children with cryptococcal meningitis, Candida esophagitis, or systemic Candida infections is supported by the efficacy shown for these indications in adults and by the results from several small noncomparative pediatric clinical studies.
-In addition, pharmacokinetic studies in children (see CLINICAL PHARMACOLOGY) have established a dose proportionality between children and adults.
-(See DOSAGE AND ADMINISTRATION.)
+In addition, pharmacokinetic studies in children (see CLINICAL PHARMACOLOGY) have established a dose proportionality between children and adults (see DOSAGE AND ADMINISTRATION).
 
 In a noncomparative study of children with serious systemic fungal infections, most of which were candidemia, the effectiveness of fluconazole was similar to that reported for the treatment of candidemia in adults.
 Of 17 subjects with culture-confirmed candidemia, 11 of 14 (79%) with baseline symptoms (3 were asymptomatic) had a clinical cure; 13/15 (87%) of evaluable patients had a mycologic cure at the end of treatment but two of these patients relapsed at 10 and 18 days, respectively, following cessation of therapy.
@@ -298,11 +285,9 @@ Of 17 subjects with culture-confirmed candidemia, 11 of 14 (79%) with baseline s
 The efficacy of fluconazole for the suppression of cryptococcal meningitis was successful in 4 of 5 children treated in a compassionate-use study of fluconazole for the treatment of life-threatening or serious mycosis.
 There is no information regarding the efficacy of fluconazole for primary treatment of cryptococcal meningitis in children.
 
-The safety profile of fluconazole in children has been studied in 577 children ages 1 day to 17 years who received doses ranging from 1 to 15 mg/kg/day for 1 to 1,616 days.
-(See ADVERSE REACTIONS.)
+The safety profile of fluconazole in children has been studied in 577 children ages 1 day to 17 years who received doses ranging from 1 to 15 mg/kg/day for 1 to 1,616 days (see ADVERSE REACTIONS).
 
-Efficacy of fluconazole has not been established in infants less than 6 months of age.
-(See CLINICAL PHARMACOLOGY.)
+Efficacy of fluconazole has not been established in infants less than 6 months of age (see CLINICAL PHARMACOLOGY).
 A small number of patients (29) ranging in age from 1 day to 6 months have been treated safely with fluconazole.
 
 ## Geriatric Use
@@ -319,5 +304,4 @@ Other reported clinical experience has not identified differences in responses b
 
 Fluconazole is primarily cleared by renal excretion as unchanged drug.
 Because elderly patients are more likely to have decreased renal function, care should be taken to adjust dose based on creatinine clearance.
-It may be useful to monitor renal function.
-(See CLINICAL PHARMACOLOGY and DOSAGE AND ADMINISTRATION.)
+It may be useful to monitor renal function (see CLINICAL PHARMACOLOGY and DOSAGE AND ADMINISTRATION).

@@ -7,18 +7,18 @@ It is not meant to take the place of your doctor’s instructions.
 Read this information carefully before you take fluconazole tablets.
 Ask your doctor or pharmacist if you do not understand any of this information or if you want to know more about fluconazole tablets.
 
-What are Fluconazole tablets?
+What are Fluconazole Tablets?
 
 Fluconazole tablets are tablets you swallow to treat vaginal yeast infections caused by a yeast called Candida.
-Fluconazole helps stop too much yeast from growing in the vagina so the yeast infection goes away.
+Fluconazole tablets helps stop too much yeast from growing in the vagina so the yeast infection goes away.
 
 Fluconazole tablets are different from other treatments for vaginal yeast infections because it is a tablet taken by mouth.
 Fluconazole tablets are also used for other conditions.
 However, this leaflet is only about using fluconazole tablets for vaginal yeast infections.
-For information about using fluconazole for other reasons, ask your doctor or pharmacist.
+For information about using fluconazole tablets for other reasons, ask your doctor or pharmacist.
 See the section of this leaflet for information about vaginal yeast infections.
 
-What Is a Vaginal Yeast Infection?
+What is a Vaginal Yeast Infection?
 
 It is normal for a certain amount of yeast to be found in the vagina.
 Sometimes too much yeast starts to grow in the vagina and this can cause a yeast infection.
@@ -39,7 +39,7 @@ If you get a vaginal yeast infection, you may have any of the following symptoms
   - •soreness
   - •a thick white vaginal discharge that looks like cottage cheese
 
-What To Tell Your Doctor Before You Start Fluconazole tablets?
+What to Tell your Doctor before you Start Fluconazole Tablets?
 
 Do not take fluconazole tablets if you take certain medicines.
 They can cause serious problems.
@@ -63,11 +63,13 @@ Therefore, tell your doctor about all the medicines you take including:
 - •olaparib, cyclophosphamide or vinca alkaloids such as vincristine or vinblastine for treatment of cancer
 - •fentanyl, afentanil or methadone for chronic pain
 - •halofantrine for malaria
+- •ibrutinib used for treating blood cancer
 - •lipid lowering drugs such as atorvastatin, simvastatin, and fluvastatin
 - •non-steroidal anti-inflammatory drugs including celecoxib, ibuprofen, and naproxen
 - •prednisone, a steroid used to treat skin, gastrointestinal, hematological or respiratory disorders
 - •antiviral medications used to treat HIV like saquinavir or zidovudine
 - •tofacitinib for rheumatoid arthritis
+- •tolvaptan used to treat hyponatremia (low levels of sodium in your blood) or to slow kidney function decline
 - •vitamin A nutritional supplement
 
 Since there are many brand names for these medicines, check with your doctor or pharmacist if you have any questions.
@@ -78,39 +80,39 @@ Since there are many brand names for these medicines, check with your doctor or 
 - •are pregnant, plan to become pregnant, or think you might be pregnant.
   Your doctor will discuss whether fluconazole tablets are right for you.
   Women who can become pregnant should think about using effective birth control while taking fluconazole tablets.
-- •are breast-feeding.
+- •are breastfeeding.
   Fluconazole can pass through breast milk to the baby.
 - •are allergic to any other medicines including those used to treat yeast and other fungal infections.
 - •are allergic to any of the ingredients in fluconazole tablets.
-  The main ingredient of fluconazole tablet is fluconazole.
+  The main ingredient of fluconazole tablets is fluconazole.
   If you need to know the inactive ingredients, ask your doctor or pharmacist.
 
-Who Should Not Take Fluconazole tablets?
+Who Should Not Take Fluconazole Tablets?
 
-To avoid a possible serious reaction, do NOT take fluconazole if you are taking erythromycin, astemizole, pimozide, quinidine, and cisapride (Propulsid®) since it can cause changes in heartbeat in some people if taken with fluconazole.
+To avoid a possible serious reaction, do NOT take fluconazole tablets if you are taking erythromycin, astemizole, pimozide, quinidine, and cisapride (Propulsid®) since it can cause changes in heartbeat in some people if taken with fluconazole tablets.
 
-How Should I Take Fluconazole tablets
+How Should I Take Fluconazole Tablets
 
 Take fluconazole tablets by mouth with or without food.
 You can take fluconazole tablets at any time of the day.
 
-Fluconazole keeps working for several days to treat the infection.
+Fluconazole tablets keeps working for several days to treat the infection.
 Generally the symptoms start to go away after 24 hours.
 However, it may take several days for your symptoms to go away completely.
 If there is no change in your symptoms after a few days, call your doctor.
 
 Just swallow 1 fluconazole tablet to treat your vaginal yeast infection.
 
-What Should I Avoid while Taking Fluconazole tablets?
+What Should I Avoid while Taking Fluconazole Tablets?
 
-Some medicines can affect how well fluconazole works.
+Some medicines can affect how well fluconazole tablets works.
 Check with your doctor before starting any new medicines within seven days of taking fluconazole tablets.
 
-What Are the Possible Side Effects of Fluconazole tablets?
+What are the Possible Side Effects of Fluconazole tablets?
 
-Like all medicines, fluconazole may cause some side effects that are usually mild to moderate.
+Like all medicines, fluconazole tablets may cause some side effects that are usually mild to moderate.
 
-The most common side effects of fluconazole are:
+The most common side effects of fluconazole tablets are:
 
 - •headache
 - •diarrhea
@@ -119,30 +121,30 @@ The most common side effects of fluconazole are:
 - •stomach pain
 - •changes in the way food tastes
 
-Allergic reactions to fluconazole are rare, but they can be very serious if not treated right away by a doctor.
+Allergic reactions to fluconazole tablets are rare, but they can be very serious if not treated right away by a doctor.
 If you cannot reach your doctor, go to the nearest hospital emergency room.
 Signs of an allergic reaction can include shortness of breath; coughing; wheezing; fever; chills; throbbing of the heart or ears; swelling of the eyelids, face, mouth, neck, or any other part of the body; or skin rash, hives, blisters or skin peeling.
 
 Tell your doctor or pharmacist if you experience skin rash, fever, swollen glands, increase in a type of white blood cell (eosinophilia), and inflammation of internal organs (liver, lungs, heart, kidneys, and large intestine) as they may be signs of a hypersensitivity reaction (Drug Reaction or rash with Eosinophilia and Systemic Symptoms (DRESS)).
 
-Fluconazole has been linked to rare cases of serious liver damage, including deaths, mostly in patients with serious medical problems.
+Fluconazole tablets have been linked to rare cases of serious liver damage, including deaths, mostly in patients with serious medical problems.
 Call your doctor if your skin or eyes become yellow, your urine turns a darker color, your stools (bowel movements) are light-colored, or if you vomit or feel like vomiting or if you have severe skin itching.
 
 In patients with serious conditions such as AIDS or cancer, rare cases of severe rashes with skin peeling have been reported.
-Tell your doctor right away if you get a rash while taking fluconazole.
+Tell your doctor right away if you get a rash while taking fluconazole tablets.
 
-Fluconazole may cause other less common side effects besides those listed here.
+Fluconazole tablets may cause other less common side effects besides those listed here.
 If you develop any side effects that concern you, call your doctor.
 For a list of all side effects, ask your doctor or pharmacist.
 
-Cases of reversible adrenal insufficiency have been reported with fluconazole.
+Cases of reversible adrenal insufficiency have been reported with fluconazole tablets.
 Tell your doctor is you experience chronic, or long lasting fatigue, muscle weakness, loss of appetite, weight loss or abdominal pain.
 
 What to Do For an Overdose
 
 In case of an accidental overdose, call your doctor right away or go to the nearest emergency room.
 
-How to Store Fluconazole tablets
+How to Store Fluconazole Tablets
 
 Keep fluconazole tablets and all medicines out of the reach of children.
 
@@ -161,9 +163,9 @@ You can ask your pharmacist or doctor for information about fluconazole tablets 
 
 Manufactured by:
 
-Glenmark Pharmaceuticals Limited.
+Glenmark Pharmaceuticals Limited
 
-Colvale-Bardez, Goa 403513, India.
+Colvale-Bardez, Goa 403513, India
 
 Manufactured for:
 
@@ -174,6 +176,6 @@ Mahwah, NJ 07430
 Questions?
 1 (888) 721-7115
 
-www.glenmarkpharma.com/usa
+www.glenmarkpharma-us.com
 
-April 2019
+November 2020

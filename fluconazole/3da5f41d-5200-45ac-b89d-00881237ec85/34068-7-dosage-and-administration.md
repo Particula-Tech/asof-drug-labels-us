@@ -49,8 +49,7 @@ The following dose equivalency scheme should generally provide equivalent exposu
 - * Some older children may have clearances similar to that of adults.
   Absolute doses exceeding 600 mg/day are not recommended.
 
-Experience with fluconazole in neonates is limited to pharmacokinetic studies in premature newborns.
-(See CLINICAL PHARMACOLOGY.)
+Experience with fluconazole in neonates is limited to pharmacokinetic studies in premature newborns (see CLINICAL PHARMACOLOGY).
 Based on the prolonged half-life seen in premature newborns (gestational age 26 to 29 weeks), these children, in the first two weeks of life, should receive the same dosage (mg/kg) as in older children, but administered every 72 hours.
 After the first two weeks, these children should be dosed once daily.
 No information regarding fluconazole pharmacokinetics in full-term newborns is available.
@@ -69,7 +68,7 @@ A dosage of 12 mg/kg once daily may be used, based on medical judgment of the pa
 The recommended duration of treatment for initial therapy of cryptococcal meningitis is 10 to 12 weeks after the cerebrospinal fluid becomes culture negative.
 For suppression of relapse of cryptococcal meningitis in children with AIDS, the recommended dose of fluconazole is 6 mg/kg once daily.
 
-Dosage In Patients With Impaired Renal Function:
+Dosage in Patients with Impaired Renal Function:
 
 Fluconazole is cleared primarily by renal excretion as unchanged drug.
 There is no need to adjust single dose therapy for vaginal candidiasis because of impaired renal function.
@@ -89,17 +88,18 @@ Further adjustment may be needed depending upon clinical condition.
 
 When serum creatinine is the only measure of renal function available, the following formula (based on sex, weight, and age of the patient) should be used to estimate the creatinine clearance in adults:
 
-Males: Weight (kg) × (140 – age)______
-
-- 72 × serum creatinine (mg/100 mL)
+| Males: | Weight (kg) × (140 – age) |
+| --- | --- |
+| 72 × serum creatinine (mg/100 mL) |  |
 
 1. Females: 0.85 × above value
 
 Although the pharmacokinetics of fluconazole has not been studied in children with renal insufficiency, dosage reduction in children with renal insufficiency should parallel that recommended for adults.
 The following formula may be used to estimate creatinine clearance in children:
 
-1. K × linear len g th or hei g ht (cm)
-2. serum creatinine (mg/100 mL)
+| K × | linear length or height (cm) |
+| --- | --- |
+| serum creatinine (mg/100 mL) |  |
 
 (Where K=0.55 for children older than 1 year and 0.45 for infants.)
 
