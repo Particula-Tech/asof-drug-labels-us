@@ -1,0 +1,20 @@
+{
+  "application_numbers": [
+    "ANDA214334"
+  ],
+  "inn": "ephedrine",
+  "labeler": "Hikma Pharmaceuticals USA Inc.",
+  "package_ndcs": [
+    "0641-6238-01",
+    "0641-6238-25"
+  ],
+  "products": [
+    {
+      "form": "INJECTION",
+      "generic": "ephedrine sulfate",
+      "name": "Ephedrine Sulfate"
+    }
+  ],
+  "setid": "794cb942-04e3-4472-8eb8-92613329e4d5",
+  "source": "dailymed"
+}

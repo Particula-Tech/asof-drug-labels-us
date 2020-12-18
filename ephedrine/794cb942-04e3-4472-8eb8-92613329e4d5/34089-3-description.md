@@ -1,0 +1,12 @@
+# 11 DESCRIPTION
+
+Ephedrine is an alpha- and beta-adrenergic agonist and a norepinephrine-releasing agent.
+Ephedrine Sulfate Injection, USP is a clear, colorless, sterile solution for intravenous injection.
+It must be diluted before intravenous administration.
+The chemical name of ephedrine sulfate is (1 R, 2 S)-(-)-2-Methylamino-1-phenyl-1-propanol sulfate, and the molecular weight is 428.5 g/mol.
+Its structural formula is depicted below:
+
+Ephedrine sulfate is freely soluble in water and ethanol, very slightly soluble in chloroform, and practically insoluble in ether.
+Each mL contains ephedrine sulfate 50 mg (equivalent to 38 mg ephedrine base) in water for injection.
+The pH is adjusted with sodium hydroxide and/or glacial acetic acid if necessary.
+The pH range is 4.5 to 7.0.
