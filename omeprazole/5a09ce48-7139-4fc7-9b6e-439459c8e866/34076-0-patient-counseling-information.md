@@ -7,7 +7,7 @@ Adverse Reactions
 Advise patients to report to their healthcare provider if they experience any signs or symptoms consistent with:
 
 - •Hypersensitivity reactions [see Contraindications (4)].
-- •Tubulointerstitial Nephritis [see Warnings and Precautions (5.2)].
+- •Acute Tubulointerstitial Nephritis [see Warnings and Precautions (5.2)].
 - •Clostridium difficile-Associated Diarrhea [see Warnings and Precautions (5.3)].
 - •Bone Fracture [see Warnings and Precautions (5.4)].
 - •Cutaneous and Systemic Lupus Erythematosus [see Warnings and Precautions (5.5)].
@@ -39,4 +39,4 @@ Lek Pharmaceuticals d.d., SI-1526 Ljubljana, Slovenia for
 Sandoz Inc., Princeton, NJ 08540
 
 Rev.
-June 2020
+November 2020-A

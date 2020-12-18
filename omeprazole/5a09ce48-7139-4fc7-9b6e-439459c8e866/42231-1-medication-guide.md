@@ -17,8 +17,8 @@ Talk with your doctor.
 
 Omeprazole delayed-release capsules can cause serious side effects, including:
 
-- •A type of kidney problem (tubulointerstitial nephritis).
-  Some people who take proton pump inhibitor (PPI) medicines, including omeprazole delayed-release capsules, may develop a kidney problem called tubulointerstitial nephritis that can happen at any time during treatment with omeprazole delayed-release capsules.
+- •A type of kidney problem (acute tubulointerstitial nephritis).
+  Some people who take proton pump inhibitor (PPI) medicines, including omeprazole delayed-release capsules, may develop a kidney problem called acute tubulointerstitial nephritis that can happen at any time during treatment with omeprazole delayed-release capsules.
   Call your doctor right away if you have a decrease in the amount that you urinate or if you have blood in your urine.
 - •Diarrhea.
   Omeprazole delayed-release capsules may increase your risk of getting severe diarrhea.
@@ -242,4 +242,4 @@ Lek Pharmaceuticals d.d., SI-1526 Ljubljana, Slovenia for
 Sandoz Inc., Princeton, NJ 08540
 
 Rev.
-June 2020
+November 2020
