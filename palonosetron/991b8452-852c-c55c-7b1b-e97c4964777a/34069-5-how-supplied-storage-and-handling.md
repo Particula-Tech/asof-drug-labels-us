@@ -7,6 +7,6 @@ Palonosetron hydrochloride injection is supplied as a sterile, clear and colorle
 
 Storage
 
-- Store at 20 to 25°C (68°F to 77°F) [see USP Controlled Room Temperature].
+- Store at 20°C to 25°C (68°F to 77°F) [see USP Controlled Room Temperature].
 - Protect from freezing.
 - Protect from light.

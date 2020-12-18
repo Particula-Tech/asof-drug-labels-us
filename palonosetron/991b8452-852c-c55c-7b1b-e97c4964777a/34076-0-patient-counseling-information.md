@@ -12,15 +12,6 @@ Serotonin Syndrome
 Advise patients of the possibility of serotonin syndrome, especially with concomitant use of palonosetron hydrochloride injection and another serotonergic agent such as medications to treat depression and migraines.
 Advise patients to seek immediate medical attention if the following symptoms occur: changes in mental status, autonomic instability, neuromuscular symptoms with or without gastrointestinal symptoms [see Warnings and Precautions (5.2)].
 
-Manufactured by:
-
-Gland Pharma Limited
-
-D.P.
-Pally – 500 043 INDIA
-
-Manufactured for:
-
-Dr. Reddy’s Laboratories Limited
-
-Bachupally – 500 090 INDIA
+Mfd.
+By: Dr. Reddy's Laboratories Ltd. At D.P.
+Pally - 500 043 INDIA
