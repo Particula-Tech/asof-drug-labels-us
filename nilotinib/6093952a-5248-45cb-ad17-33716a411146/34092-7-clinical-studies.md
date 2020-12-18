@@ -16,11 +16,11 @@ The median time on treatment was approximately 61 months in all three treatment 
 
 The primary efficacy endpoint was major molecular response (MMR) at 12 months after the start of study medication.
 MMR was defined as less than or equal to 0.1% BCR-ABL/ABL % by international scale measured by RQ-PCR, which corresponds to a greater than or equal to 3 log reduction of BCR-ABL transcript from standardized baseline.
-Efficacy endpoints are summarized in Table 12.
+Efficacy endpoints are summarized in Table 11.
 
 Two patients in the Tasigna arm progressed to either accelerated phase or blast crisis (both within the first 6 months of treatment) while 12 patients on the imatinib arm progressed to either accelerated phase or blast crisis (7 patients within first 6 months, 2 patients within 6 to 12 months, 2 patients within 12 to 18 months and 1 patient within 18 to 24 months).
 
-Table 12: Efficacy (MMR and CCyR) of Tasigna Compared to imatinib in Adult Newly Diagnosed Ph+ CML-CP (ENESTnd)
+Table 11: Efficacy (MMR and CCyR) of Tasigna Compared to imatinib in Adult Newly Diagnosed Ph+ CML-CP (ENESTnd)
 
 |  | Tasigna 300 mg Twice Daily | imatinib 400 mg Once Daily |
 | --- | --- | --- |
@@ -54,11 +54,11 @@ Median duration of Tasigna treatment was 18.4 months in patients with CML-CP and
 The efficacy endpoint in CML-CP was unconfirmed major cytogenetic response (MCyR) which included complete and partial cytogenetic responses.
 
 The efficacy endpoint in CML-AP was confirmed hematologic response (HR), defined as either a complete hematologic response (CHR) or no evidence of leukemia (NEL).
-The rates of response for CML-CP and CML-AP patients are reported in Table 13.
+The rates of response for CML-CP and CML-AP patients are reported in Table 12.
 
 Median durations of response had not been reached at the time of data analysis.
 
-Table 13: Efficacy of Tasigna in Adult Resistant or Intolerant Ph+ CML-CP and CML-AP (Study A2101)
+Table 12: Efficacy of Tasigna in Adult Resistant or Intolerant Ph+ CML-CP and CML-AP (Study A2101)
 
 | Cytogenetic Response Rate (Unconfirmed) (%)a |  |
 | --- | --- |
@@ -95,7 +95,7 @@ Among the CML-AP patients who achieved HR, 44% of them had a response lasting fo
 
 After imatinib failure, 24 different BCR-ABL mutations were noted in 42% of chronic phase and 54% of accelerated phase CML patients who were evaluated for mutations.
 
-## 14.3 Treatment Discontinuation in Newly Diagnosed Ph+ CML-CP Patients Who have Achieved a Sustained Molecular Response (MR4.5)
+## 14.3 Treatment Discontinuation in Newly Diagnosed Ph+ CML-CP Patients Who Have Achieved a Sustained Molecular Response (MR4.5)
 
 The ENESTfreedom (Evaluating Nilotinib Efficacy and Safety in clinical Trials-freedom) study (NCT01784068) is an open-label, multicenter, single-arm study, where 215 adult patients with Ph+ CML-CP treated with Tasigna in first-line for ≥ 2 years who achieved MR4.5 as measured with the MolecularMD MRDx® BCR-ABL Test were enrolled to continue Tasigna treatment for an additional 52 weeks (Tasigna consolidation phase).
 
@@ -123,7 +123,7 @@ Among the 91 patients who discontinued the TFR phase due to loss of MMR, 88 pati
 By the 96-week data cut-off, of the 88 patients who restarted treatment due to loss of MMR in the TFR phase, 87 patients (98.9%) patients regained MMR (one patient discontinued study permanently due to subject decision after 7.1 weeks of retreatment without regaining MMR) and 81 patients (92.0%) regained MR4.5 by the time of the cut-off date.
 The cumulative rate of MMR and MR4.5 regained at 24 weeks since treatment reinitiation was 97.7% (86/88 patients) and 86.4% (76/88 patients), respectively.
 
-Table 14: Efficacy Results for ENESTfreedom
+Table 13: Efficacy Results for ENESTfreedom
 
 | Patients Who Entered the Treatment Free Remission (TFR) Phase (Full Analysis Set, N = 190) |  |  |  |
 | --- | --- | --- | --- |
@@ -136,7 +136,7 @@ Table 14: Efficacy Results for ENESTfreedom
 
 Among the 190 patients in the TFR phase, 98 patients had a treatment-free survival (TFS) event (defined as discontinuation from TFR phase due to any reason, loss of MMR, death due to any cause, progression to AP/BC up to the end of TFR phase, or reinitiation of treatment due to any cause in the study) by the 96-week cut-off date.
 
-Figure 14-1 Kaplan-Meier estimate of Treatment-Free Survival After Start of TFR (Full Analysis Set ENESTfreedom)
+Figure 1 Kaplan-Meier Estimate of Treatment-Free Survival After Start of TFR (Full Analysis Set ENESTfreedom)
 
 1. For a given time point, the points on the dashed curves represent the 95% confidence limits for the associated KM estimate on the solid curve.
 2. By the time of the 96-week data cut-off date, one single patient lost MMR at Week 120, at the time when only 8 patients were considered at risk.
@@ -162,7 +162,7 @@ Among the 58 patients who discontinued from the TFR phase due to confirmed loss 
 By the 96-week data cut-off, of the 56 patients who restarted Tasigna treatment due to confirmed loss of MR4.0 or loss of MMR in the TFR phase, 52 patients (92.9%) regained MR4.0 and MR4.5; 4 patients (7.1%) did not regain MR4.0 by the time of the cut-off date.
 The cumulative rate of MR4 and MR4.5 regained by 48-weeks since treatment reinitiation, was 92.9% (52/56 patients) and 91.1% (51/56 patients), respectively.
 
-Table 15: Efficacy Results for ENESTop
+Table 14: Efficacy Results for ENESTop
 
 | Patients Who Entered the Treatment Free Remission (TFR) Phase (Full Analysis Set, N = 126) |  |  |  |
 | --- | --- | --- | --- |
@@ -175,7 +175,7 @@ Table 15: Efficacy Results for ENESTop
 
 Among the 126 patients in the TFR phase, 61 patients (48.4%) had a treatment-free survival (TFS) event (defined as discontinuation from TFR phase due to any reason, loss of MMR, confirmed loss of MR4, death due to any cause, progression to AP/BC up to the end of TFR phase, or reinitiation of treatment due to any cause in the study) on or before the 96-month cut-off date.
 
-Figure 14-2 Kaplan-Meier Estimate of Treatment-Free Survival after Start of TFR (Full Analysis Set ENESTop)
+Figure 2 Kaplan-Meier Estimate of Treatment-Free Survival after Start of TFR (Full Analysis Set ENESTop)
 
 1. For a given time point, the points on the dashed curves represent the 95% confidence limits for the associated KM estimate on the solid curve.
 

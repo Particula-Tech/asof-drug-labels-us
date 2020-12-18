@@ -1,36 +1,38 @@
-PRINCIPAL DISPLAY PANEL
-
-Package Label – 50 mg
+# PRINCIPAL DISPLAY PANEL
 
 NDC 0078-0951-66
 
-120 Capsules
+120 capsules
 
 Rx Only
 
-TASIGNA® (nilotinib) capsules
+Tasigna® (nilotinib) capsules
 
 50 mg
 
 Dispense with Medication Guide
 
-Novartis
+NOVARTIS
 
-PRINCIPAL DISPLAY PANEL
+# PRINCIPAL DISPLAY PANEL
 
-Package Label – 150 mg
+NDC 0078-0592-87
 
-Rx Only NDC 0078-0592-87
+Tasigna® (nilotinib) capsules
 
-TASIGNA® (nilotinib) capsules
+150 mg
+
+PHARMACIST: DISPENSE WITH MEDICATION GUIDE ATTACHED OR PROVIDED SEPARATELY.
 
 Contents: 4 individual blister packs containing 28 capsules each.
+
+Rx Only
 
 For oral use.
 
 Dosage: See package insert
 
-Store at 25°C (77°F); excursions permitted to 15-30°C (59-86°F).
+Store at 20°C to 25°C (68°F to 77°F); excursions permitted between 15°C and 30°C (59°F and 86°F) [see USP Controlled Room Temperature].
 
 1 capsule contains 150 mg nilotinib
 
@@ -38,26 +40,28 @@ Keep this and all drugs out of the reach of children.
 
 For more information, visit www.US.TASIGNA.com or call 1-866-411-Tasigna
 
+TAKE TASIGNA ON EMPTY STOMACH.
+AVOID FOOD FOR AT LEAST 2 HOURS BEFORE TAKING A DOSE OF TASIGNA AND AT LEAST 1 HOUR AFTER THE DOSE IS TAKEN.
+
+# PRINCIPAL DISPLAY PANEL
+
+NDC 0078-0526-87
+
+Tasigna® (nilotinib) capsules
+
+200 mg
+
 PHARMACIST: DISPENSE WITH MEDICATION GUIDE ATTACHED OR PROVIDED SEPARATELY.
 
-Take Tasigna on empty stomach.
-Avoid food for at least 2 hours before taking a dose of Tasigna and at least 1 hour after the dose is taken.
-
-PRINCIPAL DISPLAY PANEL
-
-Package Label – 200 mg
-
-Rx Only NDC 0078-0526-87
-
-TASIGNA® (nilotinib) capsules
-
 Contents: 4 individual blister packs containing 28 capsules each.
+
+Rx Only
 
 For oral use.
 
 Dosage: See package insert
 
-Store at 25°C (77°F); excursions permitted to 15-30°C (59-86°F).
+Store at 20°C to 25°C (68°F to 77°F); excursions permitted between 15°C and 30°C (59°F and 86°F) [see USP Controlled Room Temperature].
 
 1 capsule contains 200 mg nilotinib
 
@@ -65,7 +69,5 @@ Keep this and all drugs out of the reach of children.
 
 For more information, visit www.US.TASIGNA.com or call 1-866-411-Tasigna
 
-PHARMACIST: DISPENSE WITH MEDICATION GUIDE ATTACHED OR PROVIDED SEPARATELY.
-
-Take Tasigna on empty stomach.
-Avoid food for at least 2 hours before taking a dose of Tasigna and at least 1 hour after the dose is taken.
+TAKE TASIGNA ON EMPTY STOMACH.
+AVOID FOOD FOR AT LEAST 2 HOURS BEFORE TAKING A DOSE OF TASIGNA AND AT LEAST 1 HOUR AFTER THE DOSE IS TAKEN.

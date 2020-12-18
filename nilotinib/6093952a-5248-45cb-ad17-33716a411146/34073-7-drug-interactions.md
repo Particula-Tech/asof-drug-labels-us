@@ -13,9 +13,9 @@ Strong CYP3A Inducers
 Concomitant use with a strong CYP3A inducer decreased nilotinib concentrations compared to Tasigna alone [see Clinical Pharmacology (12.3)], which may reduce Tasigna efficacy.
 Avoid concomitant use of strong CYP3A inducers with Tasigna.
 
-Proton Pump Inhibitors (PPIs)
+Proton Pump Inhibitors
 
-Concomitant use with a PPI decreased nilotinib concentrations compared to Tasigna alone [see Clinical Pharmacology (12.3)], which may reduce Tasigna efficacy.
+Concomitant use with a proton pump inhibitor (PPI) decreased nilotinib concentrations compared to Tasigna alone [see Clinical Pharmacology (12.3)], which may reduce Tasigna efficacy.
 Avoid concomitant use of PPI with Tasigna.
 As an alternative to PPIs, use H2 blockers approximately 10 hours before or approximately 2 hours after the dose of Tasigna, or use antacids approximately 2 hours before or approximately 2 hours after the dose of Tasigna.
 

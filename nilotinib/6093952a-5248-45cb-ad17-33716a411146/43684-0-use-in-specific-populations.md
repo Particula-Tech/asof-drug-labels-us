@@ -5,7 +5,6 @@
 Risk Summary
 
 Based on findings from animal studies and the mechanism of action, Tasigna can cause fetal harm when administered to a pregnant woman [see Clinical Pharmacology (12.1)].
-
 There are no available data in pregnant women to inform the drug-associated risk.
 In animal reproduction studies, administration of nilotinib to pregnant rats and rabbits during organogenesis caused adverse developmental outcomes, including embryo-fetal lethality, fetal effects, and fetal variations in rats and rabbits at maternal exposures (AUC) approximately 2 and 0.5 times, respectively, the exposures in patients at the recommended dose (see Data).
 Advise pregnant women of the potential risk to a fetus.
@@ -39,28 +38,28 @@ At doses up to 20 mg/kg (i.e., 120 mg/m2, approximately 0.25 times the clinical 
 
 Risk Summary
 
-No data are available regarding the presence of nilotinib or its metabolites in human milk or its effects on a breastfed child or on milk production.
+There are no data on the presence of nilotinib or its metabolites in human milk or its effects on a breastfed child or on milk production.
 However, nilotinib is present in the milk of lactating rats.
-Because of the potential for serious adverse reactions in a breastfed child, advise lactating women not to breastfeed during treatment with Tasigna and for at least 14 days after the last dose.
+Because of the potential for serious adverse reactions in a breastfed child, advise women not to breastfeed during treatment with Tasigna and for at least 14 days after the last dose.
 
 Animal Data
 
 After a single 20 mg/kg of [14C] nilotinib dose to lactating rats, the transfer of parent drug and its metabolites into milk was observed.
-The overall milk-to-plasma exposure ratio of total radioactivity was approximately 2, based on the AUC0-24h or AUC0-∞ values.
+The overall milk-to-plasma exposure ratio of total radioactivity was approximately 2, based on the AUC0-24h or AUC0-INF values.
 No rat metabolites of nilotinib were detected that were unique to milk.
 
 ## 8.3 Females and Males of Reproductive Potential
 
+Based on animal studies, Tasigna can cause fetal harm when administered to a pregnant woman [see Use in Specific Populations (8.1)].
+
 Pregnancy Testing
 
-Based on animal studies, Tasigna can cause fetal harm when administered to a pregnant woman [see Use in Specific Populations (8.1)].
 Females of reproductive potential should have a pregnancy test prior to starting treatment with Tasigna.
 
 Contraception
 
 Females
 
-Based on animal studies, Tasigna can cause fetal harm when administered to a pregnant woman [see Use in Specific Populations (8.1)].
 Advise females of reproductive potential to use effective contraception during treatment with Tasigna and for at least 14 days after the last dose.
 
 Infertility
@@ -84,6 +83,8 @@ The frequency, type, and severity of adverse reactions observed were generally c
 For pediatric growth and development, growth retardation has been reported in pediatric patients with Ph+ CML-CP treated with Tasigna [see Warnings and Precautions (5.14), Adverse Reactions (6.1)].
 
 The long-term effects of prolonged treatment with Tasigna in pediatric patients are unknown.
+
+The safety and effectiveness of Tasigna in pediatric patients below the age of 1 year with newly diagnosed, or resistant or intolerant Ph+ CML in chronic phase, have not been established.
 
 ## 8.5 Geriatric Use
 

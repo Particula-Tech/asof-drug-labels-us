@@ -37,7 +37,7 @@ In Adult Patients with Resistant or Intolerant Ph+ CML-CP and CML-AP
 
 In the single-arm, open-label multicenter clinical trial, a total of 458 patients with Ph+ CML-CP and CML-AP resistant to or intolerant to at least one prior therapy, including imatinib were treated (CML-CP = 321; CML-AP = 137) at the recommended dose of 400 mg twice daily.
 
-The median duration of exposure in days for CML-CP and CML-AP patients is 561 (range, 1 to 1096) and 264 (range 2 to 1160), respectively.
+The median duration of exposure in days for CML-CP and CML-AP patients is 561 (range, 1 to 1096) and 264 (range, 2 to 1160), respectively.
 The median dose intensity for patients with CML-CP and CML-AP is 789 mg/day (range, 151 to 1110) and 780 mg/day (range, 150 to 1149), respectively and corresponded to the planned 400 mg twice daily dosing.
 
 The median cumulative duration in days of dose interruptions for the CML-CP patients was 20 (range, 1 to 345), and the median duration in days of dose interruptions for the CML-AP patients was 23 (range, 1 to 234).
@@ -100,7 +100,7 @@ Table 7: Most Frequently Reported Non-Hematologic Adverse Reactions (Regardless 
 |  | Periorbital edema | < 1 | 15 | 0 | 0 |
 | Psychiatric disorders | Insomnia | 11 | 9 | 0 | 0 |
 | Vascular disorder | Hypertension | 10 | 4 | 1 | < 1 |
-| aExcluding laboratory abnormalities. bNCI Common Terminology Criteria for Adverse Events, version 3.0. |  |  |  |  |  |
+| Abbreviations: CML-CP, chronic myeloid leukemia-chronic phase; Ph+, Philadelphia chromosome positive. aExcluding laboratory abnormalities. bNCI Common Terminology Criteria (CTC) for Adverse Events, version 3.0. |  |  |  |  |  |
 
 Table 8: Most Frequently Reported Non-Hematologic Adverse Reactions in Adult Patients With Resistant or Intolerant Ph+ CML Receiving Tasigna 400 mg Twice Daily (regardless of relationship to study drug) (greater than or equal to 10% in any group) 24-Month Analysisa
 
@@ -139,7 +139,7 @@ Table 8: Most Frequently Reported Non-Hematologic Adverse Reactions in Adult Pat
 | Metabolism and nutrition disorders | Decreased appetitec | 15 | < 1 | 17 | < 1 |
 | Psychiatric disorders | Insomnia | 12 | 1 | 7 | 0 |
 | Vascular disorders | Hypertension | 10 | 2 | 11 | < 1 |
-| aExcluding laboratory abnormalities. bNCI Common Terminology Criteria for Adverse Events, version 3.0. cAlso includes preferred term anorexia. |  |  |  |  |  |
+| Abbreviations: CML-AP, chronic myeloid leukemia-accelerated phase; CML-CP, chronic myeloid leukemia-chronic phase; Ph+, Philadelphia chromosome positive. aExcluding laboratory abnormalities. bNCI Common Terminology Criteria for Adverse Events, version 3.0. cAlso includes preferred term anorexia. |  |  |  |  |  |
 
 Laboratory Abnormalities
 
@@ -170,7 +170,7 @@ Table 9: Percent Incidence of Clinically Relevant Grade 3/4* Laboratory Abnormal
 | Hypocalcemia | < 1 | < 1 | 2 | 5 |
 | Elevated alkaline phosphatase | 0 | < 1 | < 1 | 1 |
 | Elevated creatinine | 0 | < 1 | < 1 | < 1 |
-| Abbreviations: ALT alanine aminotransferase; AST, aspartate aminotransferase. *NCI Common Terminology Criteria for Adverse Events, version 3.0. 1CML-CP: Thrombocytopenia: 12% were Grade 3, 18% were Grade 4. 2CML-CP: Neutropenia: 16% were Grade 3, 15% were Grade 4. 3CML-AP: Thrombocytopenia: 11% were Grade 3, 32% were Grade 4. 4CML-AP: Neutropenia: 16% were Grade 3, 26% were Grade 4. |  |  |  |  |
+| Abbreviations: ALT alanine aminotransferase; AST, aspartate aminotransferase; CML-AP, chronic myeloid leukemia-accelerated phase; CML-CP, chronic myeloid leukemia-chronic phase; Ph+, Philadelphia chromosome positive. *NCI Common Terminology Criteria for Adverse Events, version 3.0. 1CML-CP: Thrombocytopenia: 12% were Grade 3, 18% were Grade 4. 2CML-CP: Neutropenia: 16% were Grade 3, 15% were Grade 4. 3CML-AP: Thrombocytopenia: 11% were Grade 3, 32% were Grade 4. 4CML-AP: Neutropenia: 16% were Grade 3, 26% were Grade 4. |  |  |  |  |
 
 Elevated total cholesterol (all Grades) occurred in 28% (Tasigna 300 mg twice daily) and 4% (imatinib).
 Elevated triglycerides (all Grades) occurred in 12% and 8% of patients in the Tasigna and imatinib arms, respectively.
@@ -178,7 +178,7 @@ Hyperglycemia (all Grades) occurred in 50% and 31% of patients in the Tasigna an
 
 Most common biochemistry laboratory abnormalities (all Grades) were alanine aminotransferase increased (72%), blood bilirubin increased (59%), aspartate aminotransferase increased (47%), lipase increased (28%), blood glucose increased (50%), blood cholesterol increased (28%), and blood triglyceride increased (12%).
 
-Treatment discontinuation in Ph+ CML-CP patients who have achieved a sustained molecular response (MR4.5)
+Treatment Discontinuation in Ph+ CML-CP patients Who Have Achieved a Sustained Molecular Response (MR4.5)
 
 In eligible patients who discontinued Tasigna therapy after attaining a sustained molecular response (MR4.5), musculoskeletal symptoms (e.g., myalgia, pain in extremity, arthralgia, bone pain, spinal pain, or musculoskeletal pain), were reported more frequently than before treatment discontinuation in the first year, as noted in Table 10.
 The rate of new musculoskeletal symptoms generally decreased in the second year after treatment discontinuation.
@@ -197,7 +197,7 @@ Table 10: Musculoskeletal Symptoms Occurring Upon Treatment Discontinuation in t
 |  |  |  | All Grades | Grade 3/4 |  | All Grades | Grade 3/4 | All Grades | Grade 3/4 | All Grades | Grade 3/4 |
 | Newly Diagnosed | 190 | 76 weeks | 28% | 1% | 100 | 17% | 0% | 34% | 2% | 9% | 0% |
 | Previously treated with imatinib | 126 | 99 weeks | 45% | 2% | 73 | 14% | 0% | 48% | 3% | 15% | 1% |
-| Abbreviation: TFR, treatment-free remission. |  |  |  |  |  |  |  |  |  |  |  |
+| Abbreviations: CML-CP, chronic myeloid leukemia-chronic phase; Ph+, Philadelphia chromosome positive;TFR, treatment-free remission. |  |  |  |  |  |  |  |  |  |  |  |
 
 Additional Data from Clinical Trials
 
@@ -236,7 +236,7 @@ Psychiatric Disorders: Common: depression, anxiety.
 Unknown frequency: disorientation, confusional state, amnesia, dysphoria.
 
 Nervous System Disorders: Common: peripheral neuropathy, hypoesthesia, paresthesia.
-Uncommon: intracranial hemorrhage, ischemic stroke, transient ischemic attack, cerebral infarction, migraine, loss of consciousness (including syncope), tremor, disturbance in attention, hyperesthesia.
+Uncommon: intracranial hemorrhage, ischemic stroke, transient ischemic attack, cerebral infarction, migraine, loss of consciousness (including syncope), tremor, disturbance in attention, hyperesthesia, facial paralysis.
 Unknown frequency: basilar artery stenosis, brain edema, optic neuritis, lethargy, dysesthesia, restless legs syndrome.
 
 Eye Disorders: Common: eye hemorrhage, eye pruritus, conjunctivitis, dry eye (including xerophthalmia).
@@ -320,7 +320,9 @@ Close monitoring of growth in pediatric patients under Tasigna treatment is reco
 
 ## 6.2 Postmarketing Experience
 
-The following adverse reactions have been identified during post approval use of Tasigna.
+The following adverse reactions have been identified during postapproval use of Tasigna.
 Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
 
 Blood and Lymphatic System Disorders: thrombotic microangiopathy
+
+Nervous System Disorders: facial paralysis

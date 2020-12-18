@@ -3,14 +3,14 @@
 ## 5.1 Myelosuppression
 
 Treatment with Tasigna can cause Grade 3/4 thrombocytopenia, neutropenia, and anemia.
-Perform complete blood counts (CBCs) every 2 weeks for the first 2 months and then monthly thereafter, or as clinically indicated.
+Perform CBCs every 2 weeks for the first 2 months and then monthly thereafter, or as clinically indicated.
 Myelosuppression was generally reversible and usually managed by withholding Tasigna temporarily or dose reduction [see Dosage and Administration (2.5)].
 
 ## 5.2 QT Prolongation
 
-Tasigna has been shown to prolong cardiac ventricular repolarization as measured by the QT interval on the surface ECG in a concentration-dependent manner [see Adverse Reactions (6.1), Clinical Pharmacology (12.2)].
+Tasigna has been shown to prolong cardiac ventricular repolarization as measured by the QT interval on the surface electrocardiogram (ECG) in a concentration-dependent manner [see Adverse Reactions (6.1), Clinical Pharmacology (12.2)].
 Prolongation of the QT interval can result in a type of ventricular tachycardia called torsade de pointes, which may result in syncope, seizure, and/or death.
-ECGs should be performed at baseline, 7 days after initiation of Tasigna, and periodically as clinically indicated and following dose adjustments [see Warnings and Precautions (5.12)].
+Electrocardiograms should be performed at baseline, 7 days after initiation of Tasigna, and periodically as clinically indicated and following dose adjustments [see Warnings and Precautions (5.12)].
 
 Tasigna should not be used in patients who have hypokalemia, hypomagnesemia, or long QT syndrome.
 Before initiating Tasigna and periodically, test electrolyte, calcium, and magnesium blood levels.
@@ -54,9 +54,9 @@ Monitor these electrolytes periodically during therapy [see Warnings and Precaut
 
 ## 5.8 Tumor Lysis Syndrome
 
-Tumor lysis syndrome cases have been reported in Tasigna treated patients with resistant or intolerant CML.
-Malignant disease progression, high WBC counts and/or dehydration were present in the majority of these cases.
-Due to potential for tumor lysis syndrome, maintain adequate hydration and correct uric acid levels prior to initiating therapy with Tasigna.
+Tumor lysis syndrome (TLS) cases have been reported in Tasigna treated patients with resistant or intolerant CML.
+Malignant disease progression, high white blood cell (WBC) counts and/or dehydration were present in the majority of these cases.
+Due to potential for TLS, maintain adequate hydration and correct uric acid levels prior to initiating therapy with Tasigna.
 
 ## 5.9 Hemorrhage
 
@@ -79,7 +79,7 @@ Since the capsules contain lactose, Tasigna is not recommended for patients with
 
 Complete blood counts should be performed every 2 weeks for the first 2 months and then monthly thereafter.
 Perform chemistry panels, including electrolytes, calcium, magnesium, liver enzymes, lipid profile, and glucose prior to therapy and periodically.
-ECGs should be obtained at baseline, 7 days after initiation and periodically thereafter, as well as following dose adjustments [see Warnings and Precautions (5.2)].
+Electrocardiograms should be obtained at baseline, 7 days after initiation and periodically thereafter, as well as following dose adjustments [see Warnings and Precautions (5.2)].
 Monitor lipid profiles and glucose periodically during the first year of Tasigna therapy and at least yearly during chronic therapy.
 Should treatment with any HMG-CoA reductase inhibitor (a lipid lowering agent) be needed to treat lipid elevations, evaluate the potential for a drug-drug interaction before initiating therapy as certain HMG-CoA reductase inhibitors are metabolized by the CYP3A4 pathway [see Drug Interactions (7.1)].
 Assess glucose levels before initiating treatment with Tasigna and monitor during treatment as clinically indicated.
@@ -105,11 +105,12 @@ Monitor growth and development in pediatric patients receiving Tasigna treatment
 Based on findings from animal studies and its mechanism of action, Tasigna can cause fetal harm when administered to a pregnant woman.
 In animal reproduction studies, administration of nilotinib to pregnant rats and rabbits during organogenesis caused adverse developmental outcomes, including embryo-fetal lethality/fetal effects (small renal papilla, fetal edema, and skeletal variations) in rats and increased resorptions of fetuses and fetal skeletal variations in rabbits at maternal area under the curve (AUCs) approximately 2 and 0.5 times, respectively, the AUC in patients receiving the recommended dose.
 Advise pregnant women of the potential risk to a fetus.
+
 Advise females of reproductive potential to use effective contraception during treatment and for at least 14 days after the last dose [see Use in Specific Populations (8.1, 8.3), Clinical Pharmacology (12.1)].
 
 ## 5.16 Monitoring of BCR-ABL Transcript Levels
 
-Monitoring of BCR-ABL Transcript Levels in Patients who Discontinued Tasigna
+Monitoring of BCR-ABL Transcript Levels in Patients Who Discontinued Tasigna
 
 Monitor BCR-ABL transcript levels in patients eligible for treatment discontinuation using an FDA authorized test validated to measure molecular response levels with a sensitivity of at least MR4.5 (BCR-ABL/ABL ≤ 0.0032% IS).
 In patients who discontinue Tasigna therapy, assess BCR-ABL transcript levels monthly for one year, then every 6 weeks for the second year, and every 12 weeks thereafter during treatment discontinuation [see Clinical Studies (14.3,14.4), Dosage and Administration (2.2)].
@@ -120,6 +121,6 @@ Patients resistant or intolerant to prior treatment which included imatinib must
 
 For patients who fail to achieve MMR after three months of treatment reinitiation, BCR-ABL kinase domain mutation testing should be performed.
 
-Monitoring of BCR-ABL Transcript Levels in Patients who have Reinitiated Therapy after Loss of Molecular Response
+Monitoring of BCR-ABL Transcript Levels in Patients Who Have Reinitiated Therapy After Loss of Molecular Response
 
 Monitor CBC and BCR-ABL transcripts in patients who reinitiate treatment with Tasigna due to loss of molecular response quantitation every 4 weeks until a major molecular response is re-established, then every 12 weeks.
