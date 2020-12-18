@@ -1,4 +1,4 @@
-# MEDICATION GUIDE
+# Medication Guide
 
 Dispense with Medication Guide available at: www.lannett.com/med-guide/esomeprazole
 
@@ -17,8 +17,8 @@ Talk with your doctor.
 
 Esomeprazole Magnesium Delayed-release Capsules can cause serious side effects, including:
 
-- A type of kidney problem (acute interstitial nephritis).
-  Some people who take proton pump inhibitor (PPI) medicines, including Esomeprazole Magnesium Delayed-release Capsules, may develop a kidney problem called acute interstitial nephritis that can happen at any time during treatment with Esomeprazole Magnesium Delayed-release Capsules.
+- A type of kidney problem (acute tubulointerstitial nephritis).
+  Some people who take proton pump inhibitor (PPI) medicines, including Esomeprazole Magnesium Delayed-release Capsules, may develop a kidney problem called acute tubulointerstitial nephritis that can happen at any time during treatment with Esomeprazole Magnesium Delayed-release Capsules.
   Call your doctor if you have a decrease in the amount that you urinate or if you have blood in your urine.
 - Diarrhea.
   Esomeprazole Magnesium Delayed-release Capsules may increase your risk of getting severe diarrhea.
@@ -237,9 +237,9 @@ This Medication Guide has been approved by the U.S. Food and Drug Administration
 
 Distributed by: Lannett Company, Inc. Philadelphia, PA 19136
 
-CIA77978D
+CIA77978E
 
 Rev.
-10/2020
+12/2020
 
 All brand names are the trademarks of their respective owners.

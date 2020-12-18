@@ -150,12 +150,12 @@ Table 6: Summary of PK Parameters in 1 to 11 Year Olds with GERD following 5 Day
 |  | 1 to 5 Year Olds | 6 to 11 Year Olds |  |  |
 | --- | --- | --- | --- | --- |
 | Parameter | 10 mg (N=8) | 10 mg (N=7) | 20 mg (N=6) |  |
-| AUC (μmol*h/L)1 | 4.83 | 3.70 | 6.28 |  |
+| AUC (μmol∙h/L)1 | 4.83 | 3.70 | 6.28 |  |
 | Cmax (μmol/L)1 | 2.98 | 1.77 | 3.73 |  |
 | tmax (h)2 | 1.44 | 1.79 | 1.75 |  |
 | t1/2λz (h)1 | 0.74 | 0.88 | 0.73 |  |
 | Cl/F (L/h)1 | 5.99 | 7.84 | 9.22 |  |
-| 1. Geometric mean 2. Arithmetic mean |  |  |  |  |
+| 1. Geometric mean2. Arithmetic mean |  |  |  |  |
 
 12 to 17 Years of Age
 
@@ -170,7 +170,7 @@ Table 7: Comparison of PK Parameters in 12 to 17 Year Olds with GERD and Adults 
 |  | 12 to 17 Year Olds (N=28) |  | Adults (N=36) |  |
 | --- | --- | --- | --- | --- |
 |  | 20 mg | 40 mg | 20 mg | 40 mg |
-| AUC (μmol*h/L) | 3.65 | 13.86 | 4.2 | 12.6 |
+| AUC (μmol∙h/L) | 3.65 | 13.86 | 4.2 | 12.6 |
 | Cmax (μmol/L) | 1.45 | 5.13 | 2.1 | 4.7 |
 | tmax (h) | 2.00 | 1.75 | 1.6 | 1.6 |
 | t1/2λz (h) | 0.82 | 1.22 | 1.2 | 1.5 |

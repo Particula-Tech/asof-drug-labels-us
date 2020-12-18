@@ -7,7 +7,7 @@ Adverse Reactions
 Advise patients to report to their healthcare provider if they experience any signs or symptoms consistent with:
 
 - Hypersensitivity Reactions [see Contraindications (4)]
-- Acute Interstitial Nephritis [see Warnings and Precautions (5.2)]
+- Acute Tubulointerstitial Nephritis [see Warnings and Precautions (5.2)]
 - Clostridium difficile-Associated Diarrhea [see Warnings and Precautions (5.3)]
 - Bone Fracture [see Warnings and Precautions (5.4)]
 - Cutaneous and Systemic Lupus Erythematosus [see Warnings and Precautions (5.5)]
@@ -32,9 +32,9 @@ Distributed by: Lannett Company, Inc. Philadelphia, PA 19136
 
 Dispense with Medication Guide available at: www.lannett.com/med-guide/esomeprazole
 
-CIA77977D
+CIA77977E
 
 Rev.
-10/2020
+12/2020
 
 All brand names are the trademarks of their respective owners.
