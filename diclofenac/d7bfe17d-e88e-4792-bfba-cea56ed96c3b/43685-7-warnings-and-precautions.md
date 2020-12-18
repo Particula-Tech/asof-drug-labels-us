@@ -148,10 +148,25 @@ These serious events may occur without warning.
 Inform patients about the signs and symptoms of serious skin reactions, and to discontinue the use of DICLOFENAC EPOLAMINE TOPICAL SYSTEM 1.3% at the first appearance of skin rash or any other sign of hypersensitivity.
 DICLOFENAC EPOLAMINE TOPICAL SYSTEM 1.3% is contraindicated in patients with previous serious skin reactions to NSAIDs [see Contraindications (4)].
 
-## 5.10 Premature Closure of Fetal Ductus Arteriosus
+## 5.10 Fetal Toxicity
 
-Diclofenac may cause premature closure of the fetal ductus arteriosus.
-Avoid use of NSAIDs, including DICLOFENAC EPOLAMINE TOPICAL SYSTEM 1.3%, in pregnant women starting at 30 weeks of gestation (third trimester) [see Use in Specific Populations (8.1)].
+Premature Closure of Fetal Ductus Arteriosus:
+
+Avoid use of NSAIDs, including DICLOFENAC EPOLAMINE TOPICAL SYSTEM 1.3%, in pregnant women at about 30 weeks gestation and later.
+NSAIDs, including FLECTOR, increase the risk of premature closure of the fetal ductus arteriosus at approximately this gestational age.
+
+Oligohydramnios/Neonatal Renal Impairment:
+
+Use of NSAIDs, including DICLOFENAC EPOLAMINE TOPICAL SYSTEM 1.3%, at about 20 weeks gestation or later in pregnancy may cause fetal renal dysfunction leading to oligohydramnios and, in some cases, neonatal renal impairment.
+These adverse outcomes are seen, on average, after days to weeks of treatment, although oligohydramnios has been infrequently reported as soon as 48 hours after NSAID initiation.
+
+Oligohydramnios is often, but not always, reversible with treatment discontinuation.
+Complications of prolonged oligohydramnios may, for example, include limb contractures and delayed lung maturation.
+In some postmarketing cases of impaired neonatal renal function, invasive procedures such as exchange transfusion or dialysis were required.
+
+If NSAID treatment is necessary between about 20 weeks and 30 weeks gestation, limit DICLOFENAC EPOLAMINE TOPICAL SYSTEM 1.3% use to the lowest effective dose and shortest duration possible.
+Consider ultrasound monitoring of amniotic fluid if FLECTOR treatment extends beyond 48 hours.
+Discontinue DICLOFENAC EPOLAMINE TOPICAL SYSTEM 1.3% if oligohydramnios occurs and follow up according to clinical practice [see Use in Specific Populations (8.1)].
 
 ## 5.11 Hematologic Toxicity
 
