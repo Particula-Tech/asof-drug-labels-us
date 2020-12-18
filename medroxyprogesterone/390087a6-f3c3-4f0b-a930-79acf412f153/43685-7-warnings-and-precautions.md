@@ -7,8 +7,8 @@ This loss of BMD is of particular concern during adolescence and early adulthood
 It is unknown if use of depo-subQ provera 104 by younger women will reduce peak bone mass and increase the risk for osteoporotic fracture in later life.
 
 A study to assess the reversibility of loss of BMD in adolescents was conducted with DMPA-IM.
-After discontinuing DMPA-IM in these adolescents, mean BMD loss at total hip and femoral neck did not fully recover by 60 months (240 weeks) post-treatment.
-Similarly, in adults, there was only partial recovery of mean BMD at total hip, femoral neck, and lumbar spine towards baseline by 24 months post-treatment.
+After discontinuing DMPA-IM in these adolescents, mean BMD loss at the total hip and femoral neck did not fully recover by 5 years (60 months) post-treatment in the sub-group of adolescents who were treated for more than 2 years [see Clinical Studies (14.4)].
+Similarly, in adults, there was only partial recovery of mean BMD at the total hip, femoral neck, and lumbar spine towards baseline by 2 years post-treatment [see Clinical Studies (14.3)].
 
 The use of depo-subQ provera 104 is not recommended as a long-term (i.e., longer than 2 years) birth control method or medical therapy for endometriosis-associated pain unless other options are considered inadequate.
 BMD should be evaluated when a woman needs to continue to use depo-subQ provera 104 long-term.

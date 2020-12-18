@@ -272,6 +272,6 @@ Inactive ingredients: methylparaben, propylparaben, sodium chloride, polyethylen
 When necessary, the pH is adjusted with sodium hydroxide or hydrochloric acid, or both.
 
 This product's labeling may have been updated.
-For current full prescribing information, please visit www.pfizer.com.
+For the most recent prescribing information, please visit www.pfizer.com.
 
-LAB-0298-8.0 Revised December 2019
+LAB-0298-9.0 Revised December 2020

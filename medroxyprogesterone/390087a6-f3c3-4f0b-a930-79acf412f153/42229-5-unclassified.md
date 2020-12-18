@@ -1,4 +1,4 @@
 This product's labeling may have been updated.
-To see the current prescribing information, please visit www.pfizer.com.
+For the most recent prescribing information, please visit www.pfizer.com.
 
-LAB-0295-15.0
+LAB-0295-16.0

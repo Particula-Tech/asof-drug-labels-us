@@ -2,7 +2,7 @@
 
 ## 14.1 Contraception Studies
 
-In three open label clinical studies, depo-SubQ provera 104 (104 mg given every three months subcutaneously), was administered to healthy sexually-active, nonpregnant women 18 to 49 years of age who desired long-term contraception.
+In three open label clinical studies, depo-SubQ provera 104 (104 mg given every three months subcutaneously), was administered to healthy, sexually-active, nonpregnant women 18 to 49 years of age who desired long-term contraception.
 In these three studies, no pregnancies were detected among 2042 women treated with depo-subQ provera 104 for up to 1 year.
 In women less than 36 years of age (at baseline), the Pearl Index pregnancy rate in cycles in which no other contraceptive methods were used, was 0 pregnancies per 100 women-years of use (upper 95% CI = 0.25).
 
@@ -97,10 +97,9 @@ BMD Recovery Post-Treatment in Adolescents
 
 Longer duration of treatment and smoking were associated with less recovery of BMD following the last injection of DMPA-IM.
 Table 6 shows the extent of recovery of BMD up to 60 months post-treatment for adolescents who received DMPA-IM for two years or less compared to more than two years.
-The use of depo-subQ provera 104 as a long-term birth control method (i.e., longer than 2 years) is not recommended unless other birth control methods are considered inadequate.
 Post-treatment follow-up showed that, in adolescents treated for more than two years, only lumbar spine BMD recovered to baseline levels after treatment was discontinued.
 Adolescents treated with DMPA-IM for more than two years did not recover to their baseline BMD level at the femoral neck and total hip even up to 60 months post-treatment.
-Adolescents in the untreated cohort gained BMD throughout the trial period.
+Adolescents in the untreated cohort gained BMD throughout the trial period [see Warnings and Precautions (5.1)].
 
 Table 6.
 BMD Recovery (Months Post-Treatment) in Adolescents by Years of DMPA-IM Use (2 Years or Less vs. More than 2 Years)
@@ -130,7 +129,22 @@ BMD Recovery (Months Post-Treatment) in Adolescents by Years of DMPA-IM Use (2 Y
 | 48 M post-treatment | 10 | 6.5% | 9 | 3.5% |
 | 60 M post-treatment | 3 | 6.2% | 2 | 5.7% |
 
-## 14.5 Bone Mineral Density in Women Treated with Depo-subQ provera 104 for Endometriosis
+## 14.5 Bone Fracture Incidence in Women Treated with Depo-medroxyprogesterone acetate for Contraception
+
+A retrospective cohort study to assess the association between DMPA-IM injection and the incidence of bone fractures was conducted in 312,395 female contraceptive users in the UK.
+The incidence rates of fracture were compared between DMPA-IM users and contraceptive users who had no recorded use of DMPA-IM.
+The Incident Rate Ratio (IRR) for any fracture during the follow-up period (mean=5.5 years) was 1.41 (95% CI 1.35, 1.47).
+It is not known if this is due to DMPA-IM use or to other related lifestyle factors that have a bearing on fracture rate.
+
+In the study, when cumulative exposure to DMPA-IM was calculated, the fracture rate in users who received fewer than 8 injections was higher than that in women who received 8 or more injections.
+However, it is not clear that cumulative exposure, which may include periods of intermittent use separated by periods of non-use, is a useful measure of risk, as compared to exposure measures based on continuous use.
+
+There were very few osteoporotic fractures (fracture sites known to be related to low BMD) in the study overall, and the incidence of osteoporotic fractures was not found to be higher in DMPA-IM users compared to non-users.
+
+Importantly, this study could not determine whether use of DMPA-IM has an effect on fracture rate later in life.
+Given the similar effects on BMD from depo-subQ provera 104 and DMPA-IM described above, bone fracture incidence may also be expected to be similar.
+
+## 14.6 Bone Mineral Density in Women Treated with Depo-subQ provera 104 for Endometriosis
 
 In two clinical studies of 573 adult women with endometriosis, the BMD effects of 6 months of depo-subQ provera 104 treatment (104 mg subcutaneously every 3 months) were compared to 6 months of leuprolide treatment (either 11.25 mg given subcutaneously every 3 months or 3.75 mg given subcutaneously every month).
 Subjects were then observed after treatment completion, for an additional 12 months.
