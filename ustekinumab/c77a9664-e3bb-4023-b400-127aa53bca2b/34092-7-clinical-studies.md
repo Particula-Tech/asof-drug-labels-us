@@ -261,7 +261,7 @@ Table 14: Proportion of Patients Meeting Efficacy Endpoints at Week 8 in UC-1
 
 | N | % | N | % |  |  |
 | --- | --- | --- | --- | --- | --- |
-| Endpoint | Placebo N = 319 |  | STELARA®Infusion dose of STELARA® using the weight-based dosage regimen specified in Table 3. N = 322 |  | Treatment difference and 97.5% CIAdjusted treatment difference (97.5% CI) |
+| Endpoint | Placebo N = 319 |  | STELARA®Infusion dose of STELARA® using the weight-based dosage regimen specified in Table 3. N = 322 |  | Treatment difference and 97.5% CI Adjusted treatment difference (97.5% CI) |
 | Clinical RemissionClinical remission was defined as Mayo stool frequency subscore of 0 or 1, Mayo rectal bleeding subscore of 0, and Mayo endoscopy subscore of 0 or 1 (modified so that 1 does not include friability). | 22 | 7% | 62 | 19% | 12% (7%, 18%) p < 0.001 |
 | Bio-naïveAn additional 7 patients on placebo and 9 patients on STELARA® (6 mg/kg) had been exposed to, but had not failed, biologics. | 14/151 | 9% | 36/147 | 24% |  |
 | Prior biologic failure | 7/161 | 4% | 24/166 | 14% |  |
@@ -280,7 +280,7 @@ The relationship of histologic-endoscopic mucosal improvement, as defined in UC-
 
 Rectal Bleeding and Stool Frequency Subscores
 
-Decreases in rectal bleeding and stool frequency subscores were observed as early as Week 2 in STELARA® -treated patients.
+Decreases in rectal bleeding and stool frequency subscores were observed as early as Week 2 in STELARA®-treated patients.
 
 Study UC-2
 

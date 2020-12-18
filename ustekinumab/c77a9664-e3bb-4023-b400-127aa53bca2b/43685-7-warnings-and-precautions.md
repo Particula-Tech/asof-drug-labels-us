@@ -51,19 +51,16 @@ Patients greater than 60 years of age, those with a medical history of prolonged
 Hypersensitivity reactions, including anaphylaxis and angioedema, have been reported with STELARA® [see Adverse Reactions (6.1, 6.3)].
 If an anaphylactic or other clinically significant hypersensitivity reaction occurs, institute appropriate therapy and discontinue STELARA®.
 
-## 5.6 Reversible Posterior Leukoencephalopathy Syndrome
+## 5.6 Posterior Reversible Encephalopathy Syndrome (PRES)
 
-One case of reversible posterior leukoencephalopathy syndrome (RPLS) was observed in clinical studies of psoriasis and psoriatic arthritis.
-The subject, who had received 12 doses of STELARA® over approximately two years, presented with headache, seizures and confusion.
-No additional STELARA® injections were administered and the subject fully recovered with appropriate treatment.
-No cases of RPLS were observed in clinical studies of Crohn's disease or ulcerative colitis.
+Two cases of posterior reversible encephalopathy syndrome (PRES), also known as Reversible Posterior Leukoencephalopathy Syndrome (RPLS), were reported in clinical trials.
+Cases have also been reported in postmarketing experience in patients with psoriasis, psoriatic arthritis and Crohn's disease.
+Clinical presentation included headaches, seizures, confusion, visual disturbances, and imaging changes consistent with PRES a few days to several months after ustekinumab initiation.
+A few cases reported latency of a year or longer.
+Patients recovered with supportive care following withdrawal of ustekinumab.
 
-RPLS is a neurological disorder, which is not caused by demyelination or a known infectious agent.
-RPLS can present with headache, seizures, confusion and visual disturbances.
-Conditions with which it has been associated include preeclampsia, eclampsia, acute hypertension, cytotoxic agents and immunosuppressive therapy.
-Fatal outcomes have been reported.
-
-If RPLS is suspected, administer appropriate treatment and discontinue STELARA®.
+Monitor all patients treated with STELARA® for signs and symptoms of PRES.
+If PRES is suspected, promptly administer appropriate treatment and discontinue STELARA®.
 
 ## 5.7 Immunizations
 

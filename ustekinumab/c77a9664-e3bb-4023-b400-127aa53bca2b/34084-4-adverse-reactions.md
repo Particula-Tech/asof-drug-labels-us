@@ -5,7 +5,7 @@ The following serious adverse reactions are discussed elsewhere in the label:
 - Infections [see Warnings and Precautions (5.1)]
 - Malignancies [see Warnings and Precautions (5.4)]
 - Hypersensitivity Reactions [see Warnings and Precautions (5.5)]
-- Reversible Posterior Leukoencephalopathy Syndrome [see Warnings and Precautions (5.6)]
+- Posterior Reversible Encephalopathy Syndrome (PRES) [see Warnings and Precautions (5.6)]
 
 ## 6.1 Clinical Trials Experience
 
@@ -38,7 +38,7 @@ Table 4: Adverse Reactions Reported by ≥1% of Subjects through Week 12 in Ps S
 
 Adverse reactions that occurred at rates less than 1% in the controlled period of Ps STUDIES 1 and 2 through week 12 included: cellulitis, herpes zoster, diverticulitis and certain injection site reactions (pain, swelling, pruritus, induration, hemorrhage, bruising, and irritation).
 
-One case of RPLS occurred during clinical studies [see Warnings and Precautions (5.6)].
+One case of PRES occurred during adult plaque psoriasis clinical studies [see Warnings and Precautions (5.6)].
 
 Infections
 
@@ -159,6 +159,8 @@ Because these reactions are reported voluntarily from a population of uncertain 
 Immune system disorders: Serious hypersensitivity reactions (including anaphylaxis and angioedema), other hypersensitivity reactions (including rash and urticaria) [see Warnings and Precautions (5.5)].
 
 Infections and infestations: Lower respiratory tract infection (including opportunistic fungal infections and tuberculosis) [see Warnings and Precautions (5.1)].
+
+Neurological disorders: Posterior Reversible Encephalopathy Syndrome (PRES) [see Warnings and Precautions (5.6)].
 
 Respiratory, thoracic and mediastinal disorders: Interstitial pneumonia, eosinophilic pneumonia and cryptogenic organizing pneumonia [see Warnings and Precautions (5.9)].
 
