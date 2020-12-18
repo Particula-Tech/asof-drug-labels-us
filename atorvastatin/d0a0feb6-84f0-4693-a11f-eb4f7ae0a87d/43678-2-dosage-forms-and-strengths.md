@@ -7,8 +7,7 @@ Atorvastatin Calcium Tablets, USP are available containing atorvastatin calcium,
 - •The 40 mg tablets are white to off-white, film-coated, oval, unscored tablets debossed with 40 on one side of the tablet and blank on the other side.
 - •The 80 mg tablets are white to off-white, film-coated, oval, unscored tablets debossed with 80 on one side of the tablet and blank on the other side.
 
-Table 1.
-Atorvastatin Calcium Tablet Strengths and Identifying Features
+Table 1: Atorvastatin Calcium Tablet Strengths and Identifying Features
 
 | Tablet Strength | Identifying Features |
 | --- | --- |
