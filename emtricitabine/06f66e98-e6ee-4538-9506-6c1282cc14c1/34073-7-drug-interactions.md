@@ -21,10 +21,10 @@ Table 5 provides a listing of established or potentially clinically significant 
 The drug interactions described are based on studies conducted with either DESCOVY, the components of DESCOVY (emtricitabine and tenofovir alafenamide) as individual agents, or are predicted drug interactions that may occur with DESCOVY.
 For magnitude of interaction, see Clinical Pharmacology (12.3).
 
-Table 5 Established and Other Potentially SignificantThis table is not all inclusive.
+Table 5 Established and Other Potentially Significant This table is not all inclusive.
 Drug Interactions
 
-| Concomitant Drug Class: Drug Name | Effect on Concentration↓=Decrease | Clinical Comment |
+| Concomitant Drug Class: Drug Name | Effect on Concentration ↓=Decrease | Clinical Comment |
 | --- | --- | --- |
 | Antiretroviral Agents: Protease Inhibitors (PI) |  |  |
 | tipranavir/ritonavir | ↓ TAF | Coadministration with DESCOVY is not recommended. |

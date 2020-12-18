@@ -69,14 +69,14 @@ Cohort 2: Virologically-suppressed children (6 to less than 12 years; at least 2
 Cohort 2 evaluated pediatric subjects (N=23) who were virologically-suppressed and who switched from their antiretroviral regimen to FTC+TAF with EVG+COBI.
 Although all subjects had HIV-1 RNA < 50 copies/mL, there was a decrease from baseline in CD4+ cell count at Week 24.
 The mean baseline and mean change from baseline in CD4+ cell count and in CD4% from Week 2 to Week 24 are presented in Table 1.
-All subjects maintained their CD4+ cell counts above 400 cells/mm3 [see Use in Specific Populations (8.4)].
+All subjects maintained their CD4+ cell counts above 400 cells/mm 3[see Use in Specific Populations (8.4)].
 
 Table 1 Mean Change in CD4+ Count and Percentage from Baseline to Week 24 in Virologically-Suppressed Pediatric Patients from 6 to <12 Years Who Switched to FTC+TAF with EVG+COBI
 
 | Week 2 | Week 4 | Week 12 | Week 24 |  |  |
 | --- | --- | --- | --- | --- | --- |
 |  | Baseline | Mean Change from Baseline |  |  |  |
-| CD4+ Cell Count (cells/mm3) | 966 (201.7)Mean (SD) | -162 | -125 | -162 | -150 |
+| CD4+ Cell Count (cells/mm 3) | 966 (201.7) Mean (SD) | -162 | -125 | -162 | -150 |
 | CD4% | 40 (5.3) | +0.5% | -0.1% | -0.8% | -1.5% |
 
 Adverse Reactions from Clinical Trial Experience in HIV-1 Uninfected Individuals Taking DESCOVY for HIV-1 PrEP
@@ -95,7 +95,7 @@ Table 2 Adverse Reactions (All Grades) Reported in ≥2% in Either Arm in the DI
 | Nausea | 4% | 5% |
 | Headache | 2% | 2% |
 | Fatigue | 2% | 3% |
-| Abdominal painIncludes the following terms: abdominal pain, abdominal pain upper, abdominal pain lower, gastrointestinal pain, and abdominal discomfort | 2% | 3% |
+| Abdominal pain Includes the following terms: abdominal pain, abdominal pain upper, abdominal pain lower, gastrointestinal pain, and abdominal discomfort | 2% | 3% |
 
 Renal Laboratory Tests
 
@@ -106,10 +106,10 @@ Table 3 Laboratory Assessments of Renal Function Reported in HIV-1 Uninfected Pa
 
 |  | DESCOVY (N=2,694) | TRUVADA (N=2,693) |
 | --- | --- | --- |
-| Serum Creatinine (mg/dL)Mean (SD). Change at Week 48 | –0.01 (0.107) | 0.01 (0.111) |
-| eGFRCG (mL/min)Median (Q1, Q3). Change at Week 48 | 1.8 (–7.2, 11.1) | –2.3 (–10.8, 7.2) |
-| Percentage of Participants who Developed UPCR >200 mg/gBased on N who had normal UPCR (≤ 200 mg/g) at baseline. At Week 48 | 0.7% | 1.5% |
-| eGFRCG=estimated Glomerular Filtration Rate by Cockcroft-Gault; UPCR=urine protein/creatinine ratio |  |  |
+| Serum Creatinine (mg/dL) Mean (SD). Change at Week 48 | –0.01 (0.107) | 0.01 (0.111) |
+| eGFR CG (mL/min) Median (Q1, Q3). Change at Week 48 | 1.8 (–7.2, 11.1) | –2.3 (–10.8, 7.2) |
+| Percentage of Participants who Developed UPCR >200 mg/g Based on N who had normal UPCR (≤ 200 mg/g) at baseline. At Week 48 | 0.7% | 1.5% |
+| eGFR CG=estimated Glomerular Filtration Rate by Cockcroft-Gault; UPCR=urine protein/creatinine ratio |  |  |
 
 Bone Mineral Density Effects
 
@@ -121,9 +121,9 @@ Serum Lipids
 
 Changes from baseline to Week 48 in total cholesterol, HDL-cholesterol, LDL-cholesterol, triglycerides, and total cholesterol to HDL ratio are presented in Table 4.
 
-Table 4 Fasting Lipid Values, Mean Change from Baseline, Reported in HIV-1 Uninfected Participants Receiving DESCOVY or TRUVADA in the DISCOVER TrialExcludes subjects who received lipid lowering agents during the treatment period.
+Table 4 Fasting Lipid Values, Mean Change from Baseline, Reported in HIV-1 Uninfected Participants Receiving DESCOVY or TRUVADA in the DISCOVER Trial Excludes subjects who received lipid lowering agents during the treatment period.
 
-| mg/dL | ChangeThe baseline and change from baseline are for subjects with both baseline and Week 48 values. | mg/dL | Change |  |
+| mg/dL | Change The baseline and change from baseline are for subjects with both baseline and Week 48 values. | mg/dL | Change |  |
 | --- | --- | --- | --- | --- |
 |  | DESCOVY (N=2,694) |  | TRUVADA (N=2,693) |  |
 | Baseline | Week 48 | Baseline | Week 48 |  |

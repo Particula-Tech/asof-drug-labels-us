@@ -8,23 +8,23 @@ Table 13 Trials Conducted with FTC+TAF-Containing Products for HIV-1 Treatment a
 
 | Trial | Population | Study Arms (N) | Timepoint |
 | --- | --- | --- | --- |
-| Study 104 Randomized, double-blind, active-controlled study. (NCT01780506) Study 111 (NCT01797445) | HIV-1 infected treatment-naïve adults | FTC+TAF with EVG+COBI Administered as GENVOYA®. (866) FTC+TDF with EVG+COBI Administered as STRIBILD®. (867) | 48 Weeks |
-| Study 109 Randomized, open-label, active controlled trial. (NCT01815736) | HIV-1 infected virologically-suppressed HIV-1 RNA less than 50 copies per mL. adults | FTC+TAF with EVG+COBI (799) ATRIPLA® or TRUVADA®+atazanavir+cobicistat or ritonavir or FTC+TDF with EVG+COBI (397) | 48 Weeks |
+| Study 104 Randomized, double-blind, active-controlled study. (NCT01780506) Study 111 (NCT01797445) | HIV-1 infected treatment-naïve adults | FTC+TAF with EVG+COBI Administered as GENVOYA ®. (866) FTC+TDF with EVG+COBI Administered as STRIBILD ®. (867) | 48 Weeks |
+| Study 109 Randomized, open-label, active controlled trial. (NCT01815736) | HIV-1 infected virologically -suppressed HIV-1 RNA less than 50 copies per mL. adults | FTC+TAF with EVG+COBI (799) ATRIPLA ® or TRUVADA ®+atazanavir+cobicistat or ritonavir or FTC+TDF with EVG+COBI (397) | 48 Weeks |
 | Study 112 Open label trial (NCT01818596) | HIV-1 infected virologically-suppressed adults with renal impairment Estimated creatinine clearance between 30 and 69 mL per minute by Cockcroft-Gault method. | FTC+TAF with EVG+COBI (242) | 24 Weeks |
 | Study 1825 (NCT02600819) | HIV-1 infected virologically-suppressed adults with ESRD End stage renal disease (estimated creatinine clearance of less than 15 mL per minute by Cockcroft-Gault method). receiving chronic hemodialysis | FTC+TAF with EVG+COBI (55) | 48 Weeks |
 | Study 106 (Cohort 1) (NCT01854775) | HIV-1 infected treatment-naïve adolescents between the ages of 12 to less than 18 years (at least 35 kg) | FTC+TAF with EVG+COBI (50) | 48 Weeks |
 | Study 106 (Cohort 2) (NCT01854775) | HIV-1 infected, virologically suppressed children between the ages of 6 to less than 12 years (at least 25 kg) | FTC+TAF with EVG+COBI (23) | 24 Weeks |
-| DISCOVER (NCT02842086) | HIV-1 uninfected men or transgender women who have sex with men | DESCOVY (2,670) TRUVADA® (2,665) | 4,370 person-yearsExposure in the DESCOVY group. |
+| DISCOVER (NCT02842086) | HIV-1 uninfected men or transgender women who have sex with men | DESCOVY (2,670) TRUVADA ® (2,665) | 4,370 person-years Exposure in the DESCOVY group. |
 
 ## 14.2 Clinical Trial Results for Treatment of HIV-1
 
 In trials of FTC+TAF with EVG+COBI in HIV-1 infected adults as initial therapy in those with no antiretroviral treatment history (N=866) and to replace a stable antiretroviral regimen in those who were virologically-suppressed for at least 6 months with no known resistance substitutions (N=799), 92% and 96% of patients in the two populations, respectively, had HIV-1 RNA less than 50 copies per mL at Week 48.
 
 An open-label, single arm trial of FTC+TAF with EVG+COBI enrolled 50 treatment-naïve HIV-1 infected adolescents aged 12 to less than 18 years weighing at least 35 kg (cohort 1) and 23 virologically suppressed children aged 6 to less than 12 years weighing at least 25 kg (cohort 2).
-In cohort 1, the virologic response rate (i.e., HIV-1 RNA less than 50 copies per mL) was 92% (46/50) and the mean increase from baseline in CD4+ cell count was 224 cells per mm3 at Week 48.
+In cohort 1, the virologic response rate (i.e., HIV-1 RNA less than 50 copies per mL) was 92% (46/50) and the mean increase from baseline in CD4+ cell count was 224 cells per mm 3 at Week 48.
 In cohort 2, 100% of subjects remained virologically suppressed at Week 24.
-From a mean (SD) baseline CD4+ cell count of 966 (201.7), the mean change from baseline in CD4+ cell count was -150 cells/mm3 and the mean (SD) change in CD4% was -1.5% (3.7%) at Week 24.
-All subjects maintained CD4+ cell counts above 400 cells/mm3 [see Adverse Reactions (6.1) and Use in Specific Populations (8.4)].
+From a mean (SD) baseline CD4+ cell count of 966 (201.7), the mean change from baseline in CD4+ cell count was -150 cells/mm 3 and the mean (SD) change in CD4% was -1.5% (3.7%) at Week 24.
+All subjects maintained CD4+ cell counts above 400 cells/mm 3 [see Adverse Reactions (6.1) and Use in Specific Populations (8.4)].
 
 In a trial in 248 HIV-1 infected adults with estimated creatinine clearance greater than 30 mL per minute but less than 70 mL per minute, 95% (235/248) of the combined population of treatment-naïve subjects began on FTC+TAF with EVG+COBI (N=6) and those previously virologically-suppressed on other regimens and switched to FTC+TAF with EVG+COBI (N=242) had HIV-1 RNA less than 50 copies per mL at Week 24.
 
