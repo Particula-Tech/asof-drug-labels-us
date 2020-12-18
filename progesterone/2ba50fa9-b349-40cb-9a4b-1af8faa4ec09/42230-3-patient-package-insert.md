@@ -41,13 +41,14 @@ How should I use ENDOMETRIN?
 
 Follow the steps below:
 
-- Unwrap the applicator.
-- Put one insert in the space provided at the end of the applicator.
-  The insert should fit snugly and not fall out.
-- Place applicator with the insert into the vagina while you are standing, sitting, or when lying on your back with your knees bent.
-  Gently place the thin end of the applicator well into the vagina.
-- Push the plunger to release the insert.
-- Remove the applicator and throw it away in the trash.
+1. Unwrap the applicator.
+   Do not use if the contents or packaging are visibly damaged.
+2. Put one insert in the space provided at the end of the applicator.
+   The insert should fit snugly and not fall out.
+3. Place applicator with the insert into the vagina while you are standing, sitting, or when lying on your back with your knees bent.
+   Gently place the thin end of the applicator well into the vagina.
+4. Push the plunger to release the insert.
+5. Remove the applicator and throw it away in the trash.
 
 Other information for using ENDOMETRIN
 
