@@ -1,4 +1,4 @@
-# Package/Label Display Panel
+# PACKAGE/LABEL PRINCIPAL DISPLAY PANEL
 
 NDC 24208-443-35
 

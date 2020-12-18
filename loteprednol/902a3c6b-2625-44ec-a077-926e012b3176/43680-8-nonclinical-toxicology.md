@@ -4,4 +4,6 @@
 
 Long-term animal studies have not been conducted to evaluate the carcinogenic potential of loteprednol etabonate.
 Loteprednol etabonate was not genotoxic in vitroin the Ames test, the mouse lymphoma tk assay, or in a chromosome aberration test in human lymphocytes, or in vivoin the single dose mouse micronucleus assay.
-Treatment of male and female rats with up to 50 mg/kg/day and 25 mg/kg/day of loteprednol etabonate, respectively (2,500 and 1,250 times the maximum daily clinical dose, respectively) prior to and during mating did not impair fertility in either gender.
+
+Treatment of female and male rats with doses ≥ 25 mg/kg/day of loteprednol etabonate (203 times the RHOD based on body surface area, assuming 100% absorption) prior to and during mating caused preimplantation loss and decreased the number of live fetuses/live births.
+The NOAEL for fertility in rats was 5 mg/kg/day (41 times the RHOD).

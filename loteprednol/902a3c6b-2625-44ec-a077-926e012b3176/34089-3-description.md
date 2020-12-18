@@ -9,8 +9,4 @@ Chemical name:
 
 chloromethyl 17α-[(ethoxycarbonyl)oxy]-11β-hydroxy-3-oxoandrosta-1,4-diene-17β-carboxylate
 
-Each gram contains:
-
-Active: Loteprednol etabonate 5 mg (0.5%);
-
-Inactives: Mineral Oil and White Petrolatum.
+Each gram contains: Active: Loteprednol etabonate 5 mg (0.5%); Inactives: Mineral Oil and White Petrolatum.

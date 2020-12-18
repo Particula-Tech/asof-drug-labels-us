@@ -1,3 +1,3 @@
 # 3 DOSAGE FORMS AND STRENGTHS
 
-LOTEMAX is supplied sterile in a 3.5 g tube filled with loteprednol etabonate ophthalmic ointment, 0.5%.
+Ophthalmic ointment containing loteprednol etabonate 0.5%.

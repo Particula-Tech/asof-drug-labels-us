@@ -2,37 +2,19 @@
 
 Risk of Contamination
 
-Patients should be advised not to touch the eyelid or surrounding areas with the tip of the tube.
+Advise patients to wash hands prior to using LOTEMAX ointment.
+
+Advise patients not to touch the eyelid or surrounding areas with the tip of the tube.
 The cap should remain on the tube when not in use.
 
-Patients should be advised to wash hands prior to using LOTEMAX ointment.
+Contact Lens Wear
 
-## Contact Lens Wear
+Advise patients not to wear contact lenses during their course of therapy.
 
-Patients should also be advised not to wear contact lenses during their course of therapy.
+Risk of Secondary Infection
 
-### Risk of Secondary Infection
+Advise patients to consult a physician if pain, redness, itching or inflammation becomes aggravated [see Warnings and Precautions (5.4)].
 
-If pain, redness, itching or inflammation becomes aggravated, the patient should be advised to consult a physician.
+Distributed by: Bausch + Lomb, a division of Bausch Health US, LLC Bridgewater, NJ 08807 USA Manufactured by: Bausch & Lomb Incorporated Tampa, FL 33637 USA LOTEMAX is a trademark of Bausch & Lomb Incorporated or its affiliates. © 2020 Bausch & Lomb Incorporated or its affiliates
 
-Distributed by:
-
-Bausch + Lomb, a division of
-
-Bausch Health US, LLC
-
-Bridgewater, NJ 08807 USA
-
-Manufactured by:
-
-Bausch & Lomb Incorporated
-
-Tampa, FL 33637 USA
-
-LOTEMAX is a trademark of Bausch & Lomb Incorporated or its affiliates.
-
-© 2020 Bausch & Lomb Incorporated or its affiliates
-
-9234903 (Folded)
-
-9234803 (Flat)
+9234804 (Flat) 9234904 (Folded)

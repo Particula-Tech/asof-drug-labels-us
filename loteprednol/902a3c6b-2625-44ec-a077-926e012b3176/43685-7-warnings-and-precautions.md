@@ -3,7 +3,7 @@
 ## 5.1 Intraocular Pressure (IOP) Increase
 
 Prolonged use of corticosteroids may result in glaucoma with damage to the optic nerve, defects in visual acuity and fields of vision.
-If this product is used for 10 days or longer, IOP should be monitored even though it may be difficult in children and uncooperative patients.
+Steroids should be used with caution in the presence of glaucoma.If this product is used for 10 days or longer, IOP should be monitoredeven though it may be difficult in children and uncooperative patients.
 
 ## 5.2 Cataracts
 
@@ -33,15 +33,15 @@ Fungal infections of the cornea are particularly prone to develop coincidentally
 Fungus invasion must be considered in any persistent corneal ulceration where a steroid has been used or is in use.
 Fungal culture should be taken when appropriate.
 
-## 5.7 Contact Lens Wear
+## 5.7 Risk of Contamination
+
+Do not to touch the eyelid or surrounding areas with the tip of the tube.
+The cap should remain on the tube when not in use.
+
+## 5.8 Contact Lens Wear
 
 Patients should not wear contact lenses during their course of therapy with LOTEMAX ointment.
 
-## 5.8 Amblyopia
+## 5.9 Topical Ophthalmic Use
 
-LOTEMAX (loteprednol etabonate ophthalmic ointment), 0.5% should not be used in children following ocular surgery.
-Its use may interfere with amblyopia treatment by hindering the child’s ability to see out of the operated eye [see Use in Specific Populations, Pediatric Use (8.4)].
-
-## 5.9 Topical Ophthalmic Use Only
-
-Lotemax is not indicated for intraocular administration.
+LOTEMAX is not indicated for intraocular administration.
