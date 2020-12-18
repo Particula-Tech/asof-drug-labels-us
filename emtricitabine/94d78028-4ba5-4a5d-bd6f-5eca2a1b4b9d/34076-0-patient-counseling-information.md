@@ -69,15 +69,6 @@ In HIV-uninfected women, the benefits and risks of emtricitabine and tenofovir d
 ATRIPLA, COMPLERA, EMTRIVA, EPCLUSA, HARVONI, SOVALDI, STRIBILD, and VIREAD are trademarks of Gilead Sciences, Inc., or its related companies.
 All other trademarks referenced herein are the property of their respective owners.
 
-Manufactured by:
-
-Amneal Pharmaceuticals Pvt.
-Ltd.
-
-Oral Solid Dosage Unit
-
-Ahmedabad 382213, INDIA
-
 Distributed by:
 
 Amneal Pharmaceuticals LLC
@@ -85,4 +76,4 @@ Amneal Pharmaceuticals LLC
 Bridgewater, NJ 08807
 
 Rev.
-09-2020-02
+11-2020-00

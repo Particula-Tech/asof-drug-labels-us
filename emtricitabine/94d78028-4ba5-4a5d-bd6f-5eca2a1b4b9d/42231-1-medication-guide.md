@@ -215,10 +215,7 @@ For more information, call toll-free 1-877-835-5472 or go to www.amneal.com.
 
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
 
-Manufactured by: Amneal Pharmaceuticals Pvt.
-Ltd. Oral Solid Dosage Unit Ahmedabad 382213, INDIA
-
 Distributed by: Amneal Pharmaceuticals LLC Bridgewater, NJ 08807
 
 Rev.
-09-2020-02
+11-2020-00

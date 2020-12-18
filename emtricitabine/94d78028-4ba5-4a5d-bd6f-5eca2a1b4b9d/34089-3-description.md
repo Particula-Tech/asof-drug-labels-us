@@ -27,8 +27,5 @@ All dosages are expressed in terms of TDF except where otherwise noted.
 Emtricitabine and tenofovir disoproxil fumarate tablets are for oral administration, and are available in the following strengths:
 
 - Film-coated tablet containing 200 mg of emtricitabine (FTC) and 300 mg of tenofovir disoproxil fumarate (TDF) (which is equivalent to 245 mg of tenofovir disoproxil) as active ingredients.
-- Film-coated tablet containing 167 mg of emtricitabine (FTC) and 250 mg of tenofovir disoproxil fumarate (TDF) (which is equivalent to 204 mg of tenofovir disoproxil) as active ingredients.
-- Film-coated tablet containing 133 mg of emtricitabine (FTC) and 200 mg of tenofovir disoproxil fumarate (TDF) (which is equivalent to 163 mg of tenofovir disoproxil) as active ingredients.
-- Film-coated tablet containing 100 mg of emtricitabine (FTC) and 150 mg of tenofovir disoproxil fumarate (TDF) (which is equivalent to 123 mg of tenofovir disoproxil) as active ingredients.
 
 Emtricitabine and tenofovir disoproxil fumarate tablets also include the following inactive ingredients: calcium stearate, croscarmellose sodium, hypromellose, microcrystalline cellulose, pregelatinized starch, titanium dioxide and triacetin.
