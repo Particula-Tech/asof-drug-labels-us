@@ -7,7 +7,7 @@ The following table shows tablet strength and body weight to achieve approximate
 
 Table 1: Dosing Table for Minocycline Hydrochloride Extended-release Tablets USP
 
-| Patient's Weight (lbs.) | Patient's Weight (kg) | Tablet Strength (mg) | Actual mg/kg Dose |
+| Header$Patient's Weight (lbs.) | Patient's Weight (kg) | Tablet Strength (mg) | Actual mg/kg Dose |
 | --- | --- | --- | --- |
 | 99 - 109 | 45 - 49 | 45 | 1 - 0.92 |
 | 110 - 131 | 50 - 59 | 55 | 1.10 - 0.93 |
