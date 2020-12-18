@@ -5,8 +5,9 @@ Subjects were randomized in a 1:1 ratio to receive either Calcitriol Ointment or
 The mean age of subjects was 48 years and 66% were male; most subjects were rated “moderate” at baseline.
 
 Success was defined as "Clear or Minimal" (up to light red or pink coloration, surface dryness with some white coloration, and slight elevation above normal skin) with at least 2-grade change from baseline.
-The success rates are displayed in the table.
+The success rates are displayed in the Table 2.
 
+Table 2.
 Percentage of Subjects with Clear or Minimal Disease AND Two Grade Improvement at End of Treatment (8 weeks)
 
 | Study 1 |  | Study 2 |  |
