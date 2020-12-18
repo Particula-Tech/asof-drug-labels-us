@@ -2,7 +2,7 @@
 
 The following serious adverse reactions are described below and elsewhere in labeling:
 
-- Acute Interstitial Nephritis [see Warnings and Precautions (5.2)]
+- Acute Tubulointerstitial Nephritis [see Warnings and Precautions (5.2)]
 - Clostridium difficile-Associated Diarrhea [see Warnings and Precautions (5.3)]
 - Bone Fracture [see Warnings and Precautions (5.4)]
 - Cutaneous and Systemic Lupus Erythematosus [see Warnings and Precautions (5.5)]
@@ -60,6 +60,6 @@ With the exception of injection site reactions described above, intravenous trea
 
 The following adverse reactions have been identified during post-approval use of esomeprazole.
 Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
-Blood and Lymphatic System Disorders: agranulocytosis, pancytopenia; Eye Disorders: blurred vision; Gastrointestinal Disorders: pancreatitis; stomatitis; microscopic colitis; fundic gland polyps; Hepatobiliary Disorders: hepatic failure, hepatitis with or without jaundice; Immune System Disorders: anaphylactic reaction/shock; systemic lupus erythematosus; Infections and Infestations: GI candidiasis; Metabolism and nutritional disorders: hypomagnesemia with or without hypocalcemia and/or hypokalemia; Musculoskeletal and Connective Tissue Disorders: muscular weakness, myalgia, bone fracture; Nervous System Disorders: hepatic encephalopathy, taste disturbance; Psychiatric Disorders: aggression, agitation, depression, hallucination; Renal and Urinary Disorders: interstitial nephritis; Reproductive System and Breast Disorders: gynecomastia; Respiratory,Thoracic and Mediastinal Disorders: bronchospasm; Skin and Subcutaneous Tissue Disorders: alopecia, erythema multiforme, hyperhidrosis, photosensitivity, Stevens-Johnson syndrome, toxic epidermal necrolysis (TEN, some fatal), cutaneous lupus erythematosus.
+Blood and Lymphatic System Disorders: agranulocytosis, pancytopenia; Eye Disorders: blurred vision; Gastrointestinal Disorders: pancreatitis; stomatitis; microscopic colitis; fundic gland polyps; Hepatobiliary Disorders: hepatic failure, hepatitis with or without jaundice; Immune System Disorders: anaphylactic reaction/shock; systemic lupus erythematosus; Infections and Infestations: GI candidiasis; Metabolism and nutritional disorders: hypomagnesemia with or without hypocalcemia and/or hypokalemia; Musculoskeletal and Connective Tissue Disorders: muscular weakness, myalgia, bone fracture; Nervous System Disorders: hepatic encephalopathy, taste disturbance; Psychiatric Disorders: aggression, agitation, depression, hallucination; Renal and Urinary Disorders: interstitial nephritis; Reproductive System and Breast Disorders: gynecomastia; Respiratory, Thoracic and Mediastinal Disorders: bronchospasm; Skin and Subcutaneous Tissue Disorders: alopecia, erythema multiforme, hyperhidrosis, photosensitivity, Stevens-Johnson syndrome, toxic epidermal necrolysis (TEN, some fatal), cutaneous lupus erythematosus.
 Adverse reactions associated with omeprazole may also be expected to occur with esomeprazole.
 See the full prescribing information for oral omeprazole for complete safety information.

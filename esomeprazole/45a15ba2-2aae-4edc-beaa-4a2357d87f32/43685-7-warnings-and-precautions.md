@@ -6,11 +6,12 @@ In adults, symptomatic response to therapy with esomeprazole does not preclude t
 Consider additional follow-up and diagnostic testing in adult patients who have suboptimal response or an early symptomatic relapse after completing treatment with a PPI.
 In older patients also consider an endoscopy.
 
-## 5.2 Acute Interstitial Nephritis
+## 5.2 Acute Tubulointerstitial Nephritis
 
-Acute interstitial nephritis has been observed in patients taking PPIs including esomeprazole.
-Acute interstitial nephritis may occur at any point during PPI therapy and is generally attributed to an idiopathic hypersensitivity reaction.
-Discontinue esomeprazole if acute interstitial nephritis develops [see Contraindications (4)].
+Acute tubulointerstitial nephritis (TIN) has been observed in patients taking PPIs and may occur at any point during PPI therapy.
+Patients may present with varying signs and symptoms from symptomatic hypersensitivity reactions to non-specific symptoms of decreased renal function (e.g., malaise, nausea, anorexia).
+In reported case series, some patients were diagnosed on biopsy and in the absence of extra-renal manifestations (e.g., fever, rash or arthralgia).
+Discontinue esomeprazole and evaluate patients with suspected acute TIN [see Contraindications (4)].
 
 ## 5.3 Clostridium difficile-Associated Diarrhea
 
