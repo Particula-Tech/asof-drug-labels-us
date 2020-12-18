@@ -80,4 +80,4 @@ Distributed by: Amneal Pharmaceuticals LLC Bridgewater, NJ 08807
 U.S. Patent No. 10,034,865
 
 Rev.
-01-2020-04
+11-2020-05
