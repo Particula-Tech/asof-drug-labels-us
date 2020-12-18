@@ -21,7 +21,7 @@ Permanently discontinue TAGRISSO in patients who develop QTc interval prolongati
 
 Across clinical trials, cardiomyopathy (defined as cardiac failure, chronic cardiac failure, congestive heart failure, pulmonary edema or decreased ejection fraction) occurred in 2.6% of the 1142 TAGRISSO-treated patients; 0.1% of cardiomyopathy cases were fatal.
 
-A decline in left ventricular ejection fraction (LVEF) ≥ 10% from baseline and to less than 50% LVEF occurred in 3.9% of 908 patients who had baseline and at least one follow-up LVEF assessment.
+A decline in left ventricular ejection fraction (LVEF) ≥ 10 percentage points from baseline and to less than 50% LVEF occurred in 3.9% of 908 patients who had baseline and at least one follow-up LVEF assessment.
 
 Conduct cardiac monitoring, including assessment of LVEF at baseline and during treatment, in patients with cardiac risk factors.
 Assess LVEF in patients who develop relevant cardiac signs or symptoms during treatment.
@@ -37,7 +37,13 @@ Promptly refer patients with signs and symptoms suggestive of keratitis (such as
 Postmarketing cases consistent with Stevens-Johnson syndrome (SJS) and erythema multiforme major (EMM) have been reported in patients receiving TAGRISSO.
 Withhold TAGRISSO if SJS or EMM is suspected and permanently discontinue if confirmed.
 
-## 5.6 Embryo-Fetal Toxicity
+## 5.6 Cutaneous Vasculitis
+
+Postmarketing cases of cutaneous vasculitis including leukocytoclastic vasculitis, urticarial vasculitis, and IgA vasculitis have been reported in patients receiving TAGRISSO.
+Withhold TAGRISSO if cutaneous vasculitis is suspected, evaluate for systemic involvement, and consider dermatology consultation.
+If no other etiology can be identified, consider permanent discontinuation of TAGRISSO based on severity.
+
+## 5.7 Embryo-Fetal Toxicity
 
 Based on data from animal studies and its mechanism of action, TAGRISSO can cause fetal harm when administered to a pregnant woman.
 In animal reproduction studies, osimertinib caused post-implantation fetal loss when administered during early development at a dose exposure 1.5 times the exposure at the recommended clinical dose.

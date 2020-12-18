@@ -60,9 +60,7 @@ The pharmacokinetics of osimertinib in patients with end-stage renal disease (CL
 
 Drug Interaction Studies
 
-Effect of Other Drugs on TAGRISSO in Clinical Pharmacokinetic Studies
-
-Strong CYP3A Inducers: The steady-state AUC of osimertinib was reduced by 78% in patients when co-administered with rifampin (600 mg daily for 21 days) [see Drug Interactions (7.1)].
+Effect of Other Drugs on TAGRISSO in Clinical Pharmacokinetic Studies Strong CYP3A Inducers: The steady-state AUC of osimertinib was reduced by 78% in patients when co-administered with rifampin (600 mg daily for 21 days) [see Drug Interactions (7.1)].
 
 Strong CYP3A Inhibitors: Co-administering TAGRISSO with 200 mg itraconazole twice daily (a strong CYP3A4 inhibitor) had no clinically significant effect on the exposure of osimertinib (AUC increased by 24% and Cmax decreased by 20%).
 

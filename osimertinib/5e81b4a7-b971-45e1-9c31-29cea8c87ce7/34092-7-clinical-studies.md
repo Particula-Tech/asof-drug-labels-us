@@ -93,34 +93,34 @@ The baseline demographic and disease characteristics of the overall trial popula
 Fifty-four percent (54%) of patients had extra-thoracic visceral metastases, including 34% with central nervous system (CNS) metastases (including 11% with measurable CNS metastases) and 23% with liver metastases.
 Forty-two percent (42%) of patients had metastatic bone disease.
 
-In AURA3, there was a statistically significant improvement in PFS in the patients randomized to TAGRISSO compared to chemotherapy (See Table 8 and Figure 3).
+In AURA3, there was a statistically significant improvement in PFS in the patients randomized to TAGRISSO compared to chemotherapy (see Table 8 and Figure 3).
 No statistically significant difference was observed between the treatment arms at the final OS analysis.
 At the time of the final OS analysis, 99 patients (71%) randomized to chemotherapy had crossed over to TAGRISSO treatment.
 
 Table 8.
 Efficacy Results According to Investigator Assessment in AURA3
 
-| Efficacy Parameter | TAGRISSO (N=279) | Chemotherapy (N=140) |
-| --- | --- | --- |
-| Progression-Free Survival |  |  |
-| Number of events (%) | 140 (50) | 110 (79) |
-| Progressive disease | 129 (46) | 104 (74) |
-| DeathWithout documented radiological disease progression | 11 (4) | 6 (4) |
-| Median PFS in months (95% CI) | 10.1 (8.3, 12.3) | 4.4 (4.2, 5.6) |
-| Hazard Ratio (95% CI)Stratified by ethnicity (Asian vs. non-Asian)Pike estimator | 0.30 (0.23, 0.41) |  |
-| p-valueStratified log-rank test | <0.001 |  |
-| Overall Survival |  |  |
-| Number of deaths (%) | 188 (67) | 93 (66) |
-| Median OS in months (95% CI) | 26.8 (23.5, 31.5) | 22.5 (20.2, 28.8) |
-| Hazard Ratio (95% CI) | 0.87 (0.67, 1.12) |  |
-| p-value | 0.277 |  |
-| Overall Response RateConfirmed |  |  |
-| ORR, % (95% CI) | 65 (59, 70) | 29 (21, 37) |
-| Complete response, % | 1 | 1 |
-| Partial response, % | 63 | 27 |
-| p-value,Logistic regression analysis | <0.001 |  |
-| Duration of Response (DoR) |  |  |
-| Median in months (95% CI) | 11.0 (8.6, 12.6) | 4.2 (3.0, 5.9) |
+| Efficacy Parameter | TAGRISSO (N=279) |  | Chemotherapy (N=140) |
+| --- | --- | --- | --- |
+| Progression-Free Survival |  |  |  |
+| Number of events (%) | 140 (50) |  | 110 (79) |
+| Progressive disease | 129 (46) |  | 104 (74) |
+| DeathWithout documented radiological disease progression | 11 (4) |  | 6 (4) |
+| Median PFS in months (95% CI) | 10.1 (8.3, 12.3) |  | 4.4 (4.2, 5.6) |
+| Hazard Ratio (95% CI)Stratified by ethnicity (Asian vs. non-Asian)Pike estimator | 0.30 (0.23,0.41) |  |  |
+| p-valueStratified log-rank test | <0.001 |  |  |
+| Overall Survival |  |  |  |
+| Number of deaths (%) | 188 (67) | 93 (66) |  |
+| Median OS in months (95% CI) | 26.8 (23.5, 31.5) | 22.5 (20.2, 28.8) |  |
+| Hazard Ratio (95% CI) | 0.87 (0.67, 1.12) |  |  |
+| p-value | 0.277 |  |  |
+| Overall Response RateConfirmed |  |  |  |
+| ORR, % (95% CI) | 65 (59, 70) |  | 29 (21, 37) |
+| Complete response, % | 1 |  | 1 |
+| Partial response, % | 63 |  | 27 |
+| p-valueLogistic regression analysis | <0.001 |  |  |
+| Duration of Response (DoR) |  |  |  |
+| Median in months (95% CI) | 11.0 (8.6, 12.6) |  | 4.2 (3.0, 5.9) |
 
 Figure 3.
 Kaplan-Meier Curves of PFS by Investigator Assessment in AURA3

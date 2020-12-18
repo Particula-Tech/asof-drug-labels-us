@@ -12,6 +12,8 @@ Keratitis [see Warnings and Precautions (5.4)]
 
 Erythema multiforme and Stevens-Johnson syndrome [see Warnings and Precautions (5.5)]
 
+Cutaneous vasculitis [see Warnings and Precautions (5.6)]
+
 ## 6.1 Clinical Trials Experience
 
 Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in practice.
@@ -39,34 +41,34 @@ FLAURA was not designed to demonstrate a statistically significant reduction in 
 Table 2.
 Adverse Reactions Occurring in ≥10% of Patients Receiving TAGRISSO in FLAURANCI CTCAE v4.0
 
-| Adverse Reaction | TAGRISSO(N=279) |  | EGFR TKI comparator(gefitinib or erlotinib)(N=277) |  |  |
-| --- | --- | --- | --- | --- | --- |
-|  | Any Grade (%) | Grade 3 or higher (%) | Any Grade (%) |  | Grade 3 or higher (%) |
-| Gastrointestinal Disorders |  |  |  |  |  |
-| DiarrheaOne grade 5 (fatal) event was reported (diarrhea) for EGFR TKI comparator | 58 | 2.2 | 57 | 2.5 |  |
-| Stomatitis | 29 | 0.7 | 20 | 0.4 |  |
-| Nausea | 14 | 0 | 19 | 0 |  |
-| Constipation | 15 | 0 | 13 | 0 |  |
-| Vomiting | 11 | 0 | 11 | 1.4 |  |
-| Skin Disorders |  |  |  |  |  |
-| RashIncludes rash, rash generalized, rash erythematous, rash macular, rash maculo-papular, rash papular, rash pustular, rash pruritic, rash vesicular, rash follicular, erythema, folliculitis, acne, dermatitis, dermatitis acneiform, drug eruption, skin erosion. | 58 | 1.1 | 78 | 6.9 |  |
-| Dry skinIncludes dry skin, skin fissures, xerosis, eczema, xeroderma. | 36 | 0.4 | 36 | 1.1 |  |
-| Nail toxicityIncludes nail bed disorder, nail bed inflammation, nail bed infection, nail discoloration, nail pigmentation, nail disorder, nail toxicity, nail dystrophy, nail infection, nail ridging, onychalgia, onychoclasis, onycholysis, onychomadesis, onychomalacia, paronychia. | 35 | 0.4 | 33 | 0.7 |  |
-| PruritusIncludes pruritus, pruritus generalized, eyelid pruritus. | 17 | 0.4 | 17 | 0 |  |
-| Metabolism and Nutrition Disorders |  |  |  |  |  |
-| Decreased appetite | 20 | 2.5 | 19 | 1.8 |  |
-| Respiratory, Thoracic and Mediastinal Disorders |  |  |  |  |  |
-| Cough | 17 | 0 | 15 | 0.4 |  |
-| Dyspnea | 13 | 0.4 | 7 | 1.4 |  |
-| Neurologic Disorders |  |  |  |  |  |
-| Headache | 12 | 0.4 | 7 | 0 |  |
-| Cardiac Disorders |  |  |  |  |  |
-| Prolonged QT IntervalThe frequency of "Prolonged QT Interval" represents reported adverse events in the FLAURA study. Frequencies of QTc intervals of >500 ms or >60 ms are presented in Section 5.2. | 10 | 2.2 | 4 | 0.7 |  |
-| General Disorders and Administration Site Conditions |  |  |  |  |  |
-| FatigueIncludes fatigue, asthenia. | 21 | 1.4 | 15 | 1.4 |  |
-| Pyrexia | 10 | 0 | 4 | 0.4 |  |
-| Infection and Infestation Disorders |  |  |  |  |  |
-| Upper Respiratory Tract Infection | 10 | 0 | 7 | 0 |  |
+| Adverse Reaction | TAGRISSO(N=279) |  | EGFR TKI comparator(gefitinib or erlotinib)(N=277) |  |
+| --- | --- | --- | --- | --- |
+|  | Any Grade (%) | Grade 3 or higher (%) | Any Grade (%) | Grade 3 or higher (%) |
+| Gastrointestinal Disorders |  |  |  |  |
+| DiarrheaOne grade 5 (fatal) event was reported (diarrhea) for EGFR TKI comparator | 58 | 2.2 | 57 | 2.5 |
+| Stomatitis | 29 | 0.7 | 20 | 0.4 |
+| Nausea | 14 | 0 | 19 | 0 |
+| Constipation | 15 | 0 | 13 | 0 |
+| Vomiting | 11 | 0 | 11 | 1.4 |
+| Skin Disorders |  |  |  |  |
+| RashIncludes rash, rash generalized, rash erythematous, rash macular, rash maculo-papular, rash papular, rash pustular, rash pruritic, rash vesicular, rash follicular, erythema, folliculitis, acne, dermatitis, dermatitis acneiform, drug eruption, skin erosion. | 58 | 1.1 | 78 | 6.9 |
+| Dry skinIncludes dry skin, skin fissures, xerosis, eczema, xeroderma. | 36 | 0.4 | 36 | 1.1 |
+| Nail toxicityIncludes nail bed disorder, nail bed inflammation, nail bed infection, nail discoloration, nail pigmentation, nail disorder, nail toxicity, nail dystrophy, nail infection, nail ridging, onychalgia, onychoclasis, onycholysis, onychomadesis, onychomalacia, paronychia. | 35 | 0.4 | 33 | 0.7 |
+| PruritusIncludes pruritus, pruritus generalized, eyelid pruritus. | 17 | 0.4 | 17 | 0 |
+| Metabolism and Nutrition Disorders |  |  |  |  |
+| Decreased appetite | 20 | 2.5 | 19 | 1.8 |
+| Respiratory, Thoracic and Mediastinal Disorders |  |  |  |  |
+| Cough | 17 | 0 | 15 | 0.4 |
+| Dyspnea | 13 | 0.4 | 7 | 1.4 |
+| Neurologic Disorders |  |  |  |  |
+| Headache | 12 | 0.4 | 7 | 0 |
+| Cardiac Disorders |  |  |  |  |
+| Prolonged QT IntervalThe frequency of "Prolonged QT Interval" represents reported adverse events in the FLAURA study. Frequencies of QTc intervals of >500 ms or >60 ms are presented in Section 5.2. | 10 | 2.2 | 4 | 0.7 |
+| General Disorders and Administration Site Conditions |  |  |  |  |
+| FatigueIncludes fatigue, asthenia. | 21 | 1.4 | 15 | 1.4 |
+| Pyrexia | 10 | 0 | 4 | 0.4 |
+| Infection and Infestation Disorders |  |  |  |  |
+| Upper Respiratory Tract Infection | 10 | 0 | 7 | 0 |
 
 Table 3.
 Laboratory Abnormalities Worsening from Baseline in ≥ 20% of Patients in FLAURA
@@ -113,50 +115,50 @@ AURA3 was not designed to demonstrate a statistically significant reduction in a
 Table 4.
 Adverse Reactions Occurring in ≥10% of Patients Receiving TAGRISSO in AURA3NCI CTCAE v4.0.
 
-| Adverse Reaction | TAGRISSO(N=279) |  |  | Chemotherapy(Pemetrexed/Cisplatin orPemetrexed/Carboplatin)(N=136) |  |  |
-| --- | --- | --- | --- | --- | --- | --- |
-| All GradesNo grade 4 events were reported.(%) |  | Grade 3/4(%) | All Grades(%) |  | Grade 3/4(%) |  |
-| Gastrointestinal Disorders |  |  |  |  |  |  |
-| Diarrhea | 41 | 1.1 |  | 11 | 1.5 |  |
-| Nausea | 16 | 0.7 |  | 49 | 3.7 |  |
-| Stomatitis | 15 | 0 |  | 15 | 1.5 |  |
-| Constipation | 14 | 0 |  | 35 | 0 |  |
-| Vomiting | 11 | 0.4 |  | 20 | 2.2 |  |
-| Skin Disorders |  |  |  |  |  |  |
-| RashIncludes rash, rash generalized, rash erythematous, rash macular, rash maculo-papular, rash papular, rash pustular, erythema, folliculitis, acne, dermatitis and acneiform dermatitis. | 34 | 0.7 |  | 5.9 | 0 |  |
-| Dry skinIncludes dry skin, eczema, skin fissures, xerosis. | 23 | 0 |  | 4.4 | 0 |  |
-| Nail toxicityIncludes nail disorders, nail bed disorders, nail bed inflammation, nail bed tenderness, nail discoloration, nail disorder, nail dystrophy, nail infection, nail ridging, nail toxicity, onychoclasis, onycholysis, onychomadesis, paronychia. | 22 | 0 |  | 1.5 | 0 |  |
-| PruritusIncludes pruritus, pruritus generalized, eyelid pruritus. | 13 | 0 |  | 5.1 | 0 |  |
-| Metabolism and Nutrition Disorders |  |  |  |  |  |  |
-| Decreased appetite | 18 |  | 1.1 | 36 |  | 2.9 |
-| Respiratory, Thoracic and Mediastinal Disorders |  |  |  |  |  |  |
-| Cough | 17 |  | 0 | 14 |  | 0 |
-| Musculoskeletal and Connective Tissue Disorders |  |  |  |  |  |  |
-| Back pain | 10 |  | 0.4 | 9 |  | 0.7 |
-| General Disorders and Administration Site Conditions |  |  |  |  |  |  |
-| FatigueIncludes fatigue, asthenia. | 22 | 1.8 |  | 40 | 5.1 |  |
+| Adverse Reaction | TAGRISSO(N=279) |  |  | Chemotherapy(Pemetrexed/Cisplatin orPemetrexed/Carboplatin)(N=136) |  |
+| --- | --- | --- | --- | --- | --- |
+| All GradesNo grade 4 events were reported.(%) |  | Grade 3/4(%) | All Grades(%) | Grade 3/4(%) |  |
+| Gastrointestinal Disorders |  |  |  |  |  |
+| Diarrhea | 41 | 1.1 |  | 11 | 1.5 |
+| Nausea | 16 | 0.7 |  | 49 | 3.7 |
+| Stomatitis | 15 | 0 |  | 15 | 1.5 |
+| Constipation | 14 | 0 |  | 35 | 0 |
+| Vomiting | 11 | 0.4 |  | 20 | 2.2 |
+| Skin Disorders |  |  |  |  |  |
+| RashIncludes rash, rash generalized, rash erythematous, rash macular, rash maculo-papular, rash papular, rash pustular, erythema, folliculitis, acne, dermatitis and acneiform dermatitis. | 34 | 0.7 |  | 5.9 | 0 |
+| Dry skinIncludes dry skin, eczema, skin fissures, xerosis. | 23 | 0 |  | 4.4 | 0 |
+| Nail toxicityIncludes nail disorders, nail bed disorders, nail bed inflammation, nail bed tenderness, nail discoloration, nail disorder, nail dystrophy, nail infection, nail ridging, nail toxicity, onychalgia, onychoclasis, onycholysis, onychomadesis, paronychia. | 22 | 0 |  | 1.5 | 0 |
+| PruritusIncludes pruritus, pruritus generalized, eyelid pruritus. | 13 | 0 |  | 5.1 | 0 |
+| Metabolism and Nutrition Disorders |  |  |  |  |  |
+| Decreased appetite | 18 |  | 1.1 | 36 | 2.9 |
+| Respiratory, Thoracic and Mediastinal Disorders |  |  |  |  |  |
+| Cough | 17 |  | 0 | 14 | 0 |
+| Musculoskeletal and Connective Tissue Disorders |  |  |  |  |  |
+| Back pain | 10 |  | 0.4 | 9 | 0.7 |
+| General Disorders and Administration Site Conditions |  |  |  |  |  |
+| FatigueIncludes fatigue, asthenia. | 22 | 1.8 |  | 40 | 5.1 |
 
 Table 5.
 Laboratory Abnormalities Worsening from Baseline in ≥20% of Patients in AURA3
 
-| Laboratory AbnormalityNCI CTCAE v4.0Each test incidence, except for hyperglycemia, is based on the number of patients who had both baseline and at least one on-study laboratory measurement available (TAGRISSO 279, Chemotherapy comparator 131) | TAGRISSO(N=279) |  | Chemotherapy (Pemetrexed/Cisplatin or Pemetrexed/Carboplatin)(N=131) |  |
-| --- | --- | --- | --- | --- |
-| Change from Baseline All Grades(%) | Change from Baseline to Grade 3 or Grade 4(%) | Change from BaselineAll Grades(%) | Change from Baseline to Grade 3 or Grade 4(%) |  |
-| Hematology |  |  |  |  |
-| Anemia | 43 | 0 | 79 | 3.1 |
-| Lymphopenia | 63 | 8.2 | 61 | 9.9 |
-| Thrombocytopenia | 46 | 0.7 | 48 | 7.4 |
-| Neutropenia | 27 | 2.2 | 49 | 12 |
-| Chemistry |  |  |  |  |
-| Hypermagnesemia | 27 | 1.8 | 9.2 | 1.5 |
-| Hyponatremia | 26 | 2.2 | 36 | 1.5 |
-| HyperglycemiaHyperglycemia is based on the number of patients who had both baseline and at least one on-study laboratory measurement available (TAGRISSO 270, Chemotherapy 5; fasting glucose was not a protocol requirement for patients in the chemotherapy arm) | 20 | 0 | NA | NA |
-| Hypokalemia | 9.0 | 1.4 | 18 | 1.5 |
-| NA=not applicable |  |  |  |  |
+| Laboratory AbnormalityNCI CTCAE v4.0Each test incidence, except for hyperglycemia, is based on the number of patients who had both baseline and at least one on-study laboratory measurement available (TAGRISSO 279, Chemotherapy comparator 131) | TAGRISSO(N=279) |  | Chemotherapy (Pemetrexed/Cisplatin or Pemetrexed/Carboplatin)(N=131) |  |  |
+| --- | --- | --- | --- | --- | --- |
+| Change from Baseline All Grades(%) | Change from Baseline to Grade 3 or Grade 4(%) | Change from BaselineAll Grades(%) |  | Change from Baseline to Grade 3 or Grade 4(%) |  |
+| Hematology |  |  |  |  |  |
+| Anemia | 43 | 0 |  | 79 | 3.1 |
+| Lymphopenia | 63 | 8.2 |  | 61 | 9.9 |
+| Thrombocytopenia | 46 | 0.7 |  | 48 | 7.4 |
+| Neutropenia | 27 | 2.2 |  | 49 | 12 |
+| Chemistry |  |  |  |  |  |
+| Hypermagnesemia | 27 | 1.8 |  | 9.2 | 1.5 |
+| Hyponatremia | 26 | 2.2 |  | 36 | 1.5 |
+| HyperglycemiaHyperglycemia is based on the number of patients who had both baseline and at least one on-study laboratory measurement available (TAGRISSO 270, Chemotherapy 5; fasting glucose was not a protocol requirement for patients in the chemotherapy arm) | 20 | 0 |  | NA | NA |
+| Hypokalemia | 9.0 | 1.4 |  | 18 | 1.5 |
+| NA=not applicable |  |  |  |  |  |
 
 ## 6.2 Postmarketing Experience
 
 The following adverse reactions have been identified during post-approval use of TAGRISSO.
 Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
 
-Cutaneous: Stevens-Johnson syndrome, erythema multiforme
+Skin and subcutaneous tissue: Stevens-Johnson syndrome, erythema multiforme, cutaneous vasculitis

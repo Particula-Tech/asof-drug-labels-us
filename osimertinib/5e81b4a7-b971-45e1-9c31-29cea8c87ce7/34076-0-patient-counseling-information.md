@@ -24,13 +24,17 @@ Keratitis
 Erythema multiforme and Stevens-Johnson syndrome
 
 - •Inform patients of signs and symptoms that may be indicative of EM or SJS.
-  Advise patients to contact their healthcare provider immediately if they develop target lesions or severe blistering or peeling of skin.
-  [see Warnings and Precautions (5.5)].
+  Advise patients to contact their healthcare provider immediately if they develop target lesions or severe blistering or peeling of skin [see Warnings and Precautions (5.5)].
+
+Cutaneous Vasculitis
+
+- •Inform patients of signs and symptoms that may be indicative of cutaneous vasculitis.
+  Advise patients to contact their healthcare provider immediately if they develop multiple, non-blanching red papules on their forearms, lower legs, or buttocks or large hives on their trunk that do not go away within 24 hours and develop a bruised appearance [see Warnings and Precautions (5.6)].
 
 Embryo-Fetal Toxicity
 
 - •Advise pregnant women and females of reproductive potential of the potential risk to a fetus.
-  Advise females to inform their healthcare provider if they become pregnant or if pregnancy is suspected, while taking TAGRISSO [see Warnings and Precautions (5.6) and Use in Specific Populations (8.1)].
+  Advise females to inform their healthcare provider if they become pregnant or if pregnancy is suspected, while taking TAGRISSO [see Warnings and Precautions (5.7) and Use in Specific Populations (8.3)].
 
 Females and Males of Reproductive Potential
 
