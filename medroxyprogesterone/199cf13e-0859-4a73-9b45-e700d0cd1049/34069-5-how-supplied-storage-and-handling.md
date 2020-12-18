@@ -9,7 +9,5 @@ Depo-Provera CI is supplied in the following strengths and package configuration
 | 25 × 1 mL vials | 150 mg/mL | NDC 0009-0746-35 |
 | Depo-Provera CI prefilled syringes packaged with 22 gauge × 1 1/2 inch Terumo® SurGuard™ Needles |  |  |
 | 1 mL prefilled syringe | 150 mg/mL | NDC 0009-7376-11 |
-| Depo-Provera CI prefilled syringes packaged with 22 gauge × 1 1/2 inch BD SafetyGlide™ Needles |  |  |
-| 1 mL prefilled syringe | 150 mg/mL | NDC 0009-7376-07 |
 
 Vials MUST be stored upright at controlled room temperature 20° to 25°C (68° to 77°F) [see USP].

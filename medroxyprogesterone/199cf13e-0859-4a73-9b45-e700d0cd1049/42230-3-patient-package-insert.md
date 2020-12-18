@@ -229,9 +229,9 @@ When necessary, pH is adjusted with sodium hydroxide or hydrochloric acid, or bo
 
 This Patient Information has been approved by the U.S. Food and Drug Administration.
 
-This product's label may have been updated.
-For current full prescribing information, please visit www.pfizer.com.
+This product's labeling may have been updated.
+For the most recent prescribing information, please visit www.pfizer.com.
 
-LAB-0148-12.0
+LAB-0148-13.0
 
-Revised December 2016
+Revised December 2020

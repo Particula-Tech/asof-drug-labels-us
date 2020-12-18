@@ -6,17 +6,16 @@ Use of Depo-Provera CI reduces serum estrogen levels and is associated with sign
 This loss of BMD is of particular concern during adolescence and early adulthood, a critical period of bone accretion.
 It is unknown if use of Depo-Provera CI by younger women will reduce peak bone mass and increase the risk for osteoporotic fracture in later life.
 
-After discontinuing Depo-Provera CI in adolescents, mean BMD loss at total hip and femoral neck did not fully recover by 60 months (240 weeks) post-treatment [see Clinical Studies (14.3)].
-Similarly, in adults, there was only partial recovery of mean BMD at total hip, femoral neck and lumbar spine towards baseline by 24 months post-treatment.
-[see Clinical Studies (14.2).]
+A study to assess the reversibility of loss of BMD in adolescents was conducted with Depo-Provera CI.
+After discontinuing Depo-Provera CI in these adolescents, mean BMD loss at the total hip and femoral neck did not fully recover by 5 years (60 months) post-treatment in the sub-group of adolescents who were treated for more than 2 years [see Clinical Studies (14.3)].
+Similarly, in adults, there was only partial recovery of mean BMD at the total hip, femoral neck, and lumbar spine towards baseline by 2 years post-treatment [see Clinical Studies (14.2)].
 
-Depo-Provera CI should not be used as a long-term birth control method (i.e., longer than 2 years) unless other birth control methods are considered inadequate.
+The use of Depo-Provera CI is not recommended as a long-term (i.e., longer than 2 years) birth control method unless other options are considered inadequate.
 BMD should be evaluated when a woman needs to continue to use Depo-Provera CI long-term.
 In adolescents, interpretation of BMD results should take into account patient age and skeletal maturity.
 
 Other birth control methods should be considered in the risk/benefit analysis for the use of Depo-Provera CI in women with osteoporosis risk factors.
 Depo-Provera CI can pose an additional risk in patients with risk factors for osteoporosis (e.g., metabolic bone disease, chronic alcohol and/or tobacco use, anorexia nervosa, strong family history of osteoporosis or chronic use of drugs that can reduce bone mass such as anticonvulsants or corticosteroids).
-Although there are no studies addressing whether calcium and Vitamin-D may lessen BMD loss in women using Depo-Provera CI, all patients should have adequate calcium and Vitamin D intake.
 
 ## 5.2 Thromboembolic Disorders
 
@@ -34,9 +33,9 @@ Breast Cancer
 Women who have or have had a history of breast cancer should not use hormonal contraceptives, including Depo-Provera CI, because breast cancer may be hormonally sensitive [see Contraindications (4)].
 Women with a strong family history of breast cancer should be monitored with particular care.
 
-The results of five large case-control studies1, 2, 3, 4, 5 assessing the association between depo-medroxyprogesterone acetate (DMPA) use and the risk of breast cancer are summarized in Figure 1.
+The results of five large case-control studies1, 2 assessing the association between depo-medroxyprogesterone acetate (DMPA) use and the risk of breast cancer are summarized in Figure 1.
 Three of the studies suggest a slightly increased risk of breast cancer in the overall population of users; these increased risks were statistically significant in one study.
-One recent US study1 evaluated the recency and duration of use and found a statistically significantly increased risk of breast cancer in recent users (defined as last use within the past five years) who used DMPA for 12 months or longer; this is consistent with results of a previous study4.
+One recent US study1 evaluated the recency and duration of use and found a statistically significantly increased risk of breast cancer in recent users (defined as last use within the past five years) who used DMPA for 12 months or longer; this is consistent with results of a previous study.
 
 Figure 1 Risk estimates for breast cancer in DMPA users
 
@@ -48,7 +47,7 @@ Figure 1 Risk estimates for breast cancer in DMPA users
 | Shapiro et al. (2000): age, ethnic group, socioeconomic status, and any combined estrogen/progestogen oral contraceptive use. |
 | Li et al. (2012): age, year, BMI, duration of OC use, number of full-term pregnancies, family history of breast cancer, and history of screening mammography. |
 
-Based on the published SEER-18 2011 incidence rate (age-adjusted to the 2000 US Standard Population) of breast cancer for US women, all races, age 20 to 49 years6, a doubling of risk would increase the incidence of breast cancer in women who use Depo-Provera CI from about 72 to about 144 cases per 100,000 women.
+Based on the published SEER-18 2011 incidence rate (age-adjusted to the 2000 US Standard Population) of breast cancer for US women, all races, age 20 to 49 years, a doubling of risk would increase the incidence of breast cancer in women who use Depo-Provera CI from about 72 to about 144 cases per 100,000 women.
 
 Cervical Cancer
 
@@ -86,7 +85,7 @@ Association with drug use or pre-existing conditions is not clear.
 
 ## 5.9 Depression
 
-Monitor patients who have a history of depression and do not readminister Depo-Provera CI if depression recurs.
+Monitor patients who have a history of depression and do not re-administer Depo-Provera CI if depression recurs.
 
 ## 5.10 Bleeding Irregularities
 

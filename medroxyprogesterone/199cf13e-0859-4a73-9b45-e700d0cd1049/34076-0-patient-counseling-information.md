@@ -8,5 +8,5 @@
 - Counsel patients on Warnings and Precautions associated with use of Depo-Provera CI.
 - Counsel patients to use a back-up method or alternative method of contraception when enzyme inducers are used with Depo-Provera CI.
 
-This product's label may have been updated.
-For current full prescribing information, please visit www.pfizer.com.
+This product's labeling may have been updated.
+For the most recent prescribing information, please visit www.pfizer.com.
