@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "ANDA210068"
+  ],
+  "inn": "methenamine",
+  "labeler": "Ingenus Pharmaceuticals, LLC",
+  "package_ndcs": [
+    "50742-142-01"
+  ],
+  "products": [
+    {
+      "form": "TABLET",
+      "generic": "methenamine hippurate",
+      "name": "METHENAMINE HIPPURATE"
+    }
+  ],
+  "setid": "4412d667-63f6-427e-a5c6-376a0e1e172d",
+  "source": "dailymed"
+}
