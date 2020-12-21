@@ -19,7 +19,7 @@ Rx only
 
 Genentech
 
-10175058
+10225154
 
 # PRINCIPAL DISPLAY PANEL - 10 mL Vial Box
 
@@ -42,7 +42,7 @@ Rx only
 
 Genentech
 
-10175059
+10225155
 
 # PRINCIPAL DISPLAY PANEL - 20 mL Vial Box
 
@@ -65,7 +65,7 @@ Rx only
 
 Genentech
 
-10175060
+10225156
 
 # PRINCIPAL DISPLAY PANEL - 0.9 mL Syringe Box
 
