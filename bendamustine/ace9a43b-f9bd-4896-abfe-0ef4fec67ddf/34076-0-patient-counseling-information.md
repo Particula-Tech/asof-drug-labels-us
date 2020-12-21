@@ -29,8 +29,8 @@ Lactation Advise females not to breastfeed during treatment with BENDEKA and for
 
 Infertility Advise males of reproductive potential that BENDEKA may impair fertility [see Use in Specific Populations (8.3)].
 
-BEN-009
+BEN-010
 
-Distributed By: Teva Pharmaceuticals USA, Inc. North Wales, PA 19454
+Distributed By: Teva Pharmaceuticals USA, Inc. Parsippany, NJ 07054
 
 All rights reserved.
