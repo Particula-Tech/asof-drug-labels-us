@@ -1,49 +1,21 @@
 # PACKAGE LABEL. PRINCIPAL DISPLAY PANEL
 
-RANBAXY
-
 NDC 63304-904-30
 
-VALACYCLOVIR TABLETS, USP
+Valacyclovir Tablets, USP
 
-500 mg*
+500 mg
 
 Rx only
 
-30 Tablets
-
-RANBAXY
+1. 30 Tablets ohm®
 
 NDC 63304-905-30
 
-VALACYCLOVIR TABLETS, USP
+Valacyclovir Tablets, USP
 
-1 gram*
-
-Rx only
-
-30 Tablets
-
-RANBAXY
-
-NDC 63304-904-30
-
-VALACYCLOVIR TABLETS, USP
-
-500 mg*
+1 gram
 
 Rx only
 
-30 Tablets
-
-RANBAXY
-
-NDC 63304-905-30
-
-VALACYCLOVIR TABLETS, USP
-
-1 gram*
-
-Rx only
-
-30 Tablets
+1. 30 Tablets ohm®
