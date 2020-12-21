@@ -79,7 +79,7 @@ Table 2: Incidence of Hematology Laboratory Abnormalities in Patients Who Receiv
 | Platelets Decreased | 116 (77) | 16 (11) | 110 (78) | 14 (10) |
 | Leukocytes Decreased | 92 (61) | 42 (28) | 26 (18) | 4 (3) |
 | Lymphocytes Decreased | 102 (68) | 70 (47) | 27 (19) | 6 (4) |
-| Neutrophil Decreased | 113 (75) | 65 (43) | 86 (61) | 30 (21) |
+| Neutrophils Decreased | 113 (75) | 65 (43) | 86 (61) | 30 (21) |
 
 In the randomized CLL trial, 34% of patients had bilirubin elevations, some without associated significant elevations in AST and ALT.
 Grade 3 or 4 increased bilirubin occurred in 3% of patients.

@@ -32,13 +32,13 @@ The mean steady-state volume of distribution (Vss) of bendamustine was approxima
 Elimination
 
 After a single intravenous dose of 120 mg/m2 of bendamustine over 1 hour, the intermediate half-life (t½) of the parent compound is approximately 40 minutes.
-The mean terminal elimination t½ of two active metabolites, γ-hydroxybendamustine (M3) and N desmethylbendamustine (M4) are approximately 3 hours and 30 minutes, respectively.
+The mean terminal elimination t½ of two active metabolites, γ-hydroxybendamustine (M3) and N-desmethylbendamustine (M4) are approximately 3 hours and 30 minutes, respectively.
 Bendamustine clearance in humans is approximately 700 mL/min.
 
 Metabolism
 
 Bendamustine is extensively metabolized via hydrolytic, oxidative, and conjugative pathways.
-Bendamustine is primarily metabolized via hydrolysis to monohydroxy (HP1) and dihydroxy-bendamustine (HP2) metabolites with low cytotoxic activityin vitro.
+Bendamustine is primarily metabolized via hydrolysis to monohydroxy (HP1) and dihydroxy-bendamustine (HP2) metabolites with low cytotoxic activity in vitro.
 Two active minor metabolites, M3 and M4, are primarily formed via CYP1A2 in vitro.
 M3 and M4 concentrations of these metabolites in plasma are 1/10th and 1/100th that of the parent compound, respectively.
 
@@ -56,7 +56,7 @@ The effects of severe renal impairment (CLcr < 30 mL/min), or hepatic impairment
 Race/Ethnicity
 
 Exposures in Japanese subjects (n=6) were 40% higher than that in non-Japanese subjects receiving the same dose.
-The clinical importance of this difference on the safety and efficacy of bendamustine hydrochloride in Japanese subjects has not been established..
+The clinical importance of this difference on the safety and efficacy of bendamustine hydrochloride in Japanese subjects has not been established.
 
 Drug Interaction Studies
 

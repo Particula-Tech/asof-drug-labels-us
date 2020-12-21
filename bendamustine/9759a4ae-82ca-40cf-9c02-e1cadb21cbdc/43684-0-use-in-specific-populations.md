@@ -57,7 +57,7 @@ In some instances spermatogenesis may return in patients in remission, but this 
 Advise patients of the potential risk to their reproductive capacities.
 
 Based on findings from animal studies, BELRAPZO may impair male fertility due to an increase in morphologically abnormal spermatozoa.
-The long-term effects of BELRAPZO on male fertility, including the reversibility of adverse effects, have not been studied (see Nonclinical Toxicology (13.1)].
+The long-term effects of BELRAPZO on male fertility, including the reversibility of adverse effects, have not been studied [see Nonclinical Toxicology (13.1)].
 
 ## 8.4 Pediatric Use
 
@@ -75,7 +75,7 @@ The pharmacokinetics of bendamustine in 43 patients, aged 1 to 19 years (median 
 No overall differences in safety were observed between patients ≥65 years of age and younger patients.
 Efficacy was lower in patients 65 and over with CLL receiving bendamustine hydrochloride based upon an overall response rate of 47% for patients 65 and over and 70% for younger patients.
 Progression free survival was also longer in younger patients with CLL receiving bendamustine (19 months vs. 12 months).
-No overall differences in efficacy in patients non-Hodgkin Lymphoma were observed between geriatric patients and younger patients.
+No overall differences in efficacy in patients with non-Hodgkin Lymphoma were observed between geriatric patients and younger patients.
 
 ## 8.6 Renal Impairment
 

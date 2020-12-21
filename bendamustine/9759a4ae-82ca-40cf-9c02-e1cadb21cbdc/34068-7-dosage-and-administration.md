@@ -40,7 +40,7 @@ Follow applicable special handling and disposal procedures.1
 BELRAPZO is in a multiple-dose vial.
 BELRAPZO is a clear and colorless to yellow solution.
 Store BELRAPZO at recommended refrigerated storage conditions (2° to 8°C or 36° to 46°F).
-When refrigerated the contents may partially freeze.
+When refrigerated the contents may freeze.
 Allow the vial to reach room temperature (15° to 30°C or 59° to 86°F) prior to use.
 Observe the contents of the vial for any visible solid or particulate matter.
 Do not use the product if solid or particulate matter is observed after reaching room temperature.
