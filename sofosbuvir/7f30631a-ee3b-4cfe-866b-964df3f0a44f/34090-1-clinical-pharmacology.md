@@ -24,8 +24,8 @@ Table 5 Pharmacokinetic Properties of the Components of EPCLUSA
 |  | Sofosbuvir | Velpatasvir |
 | --- | --- | --- |
 | Absorption |  |  |
-| Tmax (h) | 0.5–1 | 3 |
-| Effect of moderate meal (relative to fasting)Values refer to mean systemic exposure. Moderate meal = ~600 kcal, 30% fat; high fat meal = ~800 kcal, 50% fat. EPCLUSA can be taken with or without food. | ↑ 60% | ↑ 34% |
+| T max (h) | 0.5–1 | 3 |
+| Effect of moderate meal (relative to fasting) Values refer to mean systemic exposure. Moderate meal = ~600 kcal, 30% fat; high fat meal = ~800 kcal, 50% fat. EPCLUSA can be taken with or without food. | ↑ 60% | ↑ 34% |
 | Effect of high fat meal (relative to fasting) | ↑ 78% | ↑ 21% |
 | Distribution |  |  |
 | % Bound to human plasma proteins | 61–65 | >99.5 |
@@ -33,23 +33,23 @@ Table 5 Pharmacokinetic Properties of the Components of EPCLUSA
 | Metabolism |  |  |
 | Metabolism | Cathepsin A CES1 HINT1 | CYP2B6 CYP2C8 CYP3A4 |
 | Elimination |  |  |
-| Major route of elimination | SOF: metabolism GS-331007GS-331007 is the primary circulating nucleoside metabolite of SOF.: glomerular filtration and active tubular secretion | Biliary excretion as parent (77%) |
-| t1/2 (h)t1/2 values refer to median terminal plasma half-life. | SOF: 0.5 GS-331007: 25 | 15 |
-| % Of dose excreted in urineSingle dose administration of [14C] SOF or [14C] VEL in mass balance studies. | 80Predominantly as GS-331007. | 0.4 |
+| Major route of elimination | SOF: metabolism GS-331007 GS-331007 is the primary circulating nucleoside metabolite of SOF.: glomerular filtration and active tubular secretion | Biliary excretion as parent (77%) |
+| t 1/2 (h) t 1/2 values refer to median terminal plasma half-life. | SOF: 0.5 GS-331007: 25 | 15 |
+| % Of dose excreted in urine Single dose administration of [14C] SOF or [14C] VEL in mass balance studies. | 80 Predominantly as GS-331007. | 0.4 |
 | % Of dose excreted in feces | 14 | 94 |
 | CES1 = carboxylesterase 1; HINT1 = histidine triad nucleotide-binding protein 1. |  |  |
 
 Table 6 Multiple Dose Pharmacokinetic Parameters of Sofosbuvir and its Metabolite, GS-331007, and Velpatasvir Following Oral Administration of EPCLUSA in HCV-Infected Adults
 
-| Parameter Mean (%CV) | SofosbuvirFrom Population PK analysis, N = 666 | GS-331007From Population PK analysis, N = 1029 | VelpatasvirFrom Population PK analysis, N = 1025 |
+| Parameter Mean (%CV) | Sofosbuvir From Population PK analysis, N = 666 | GS-331007 From Population PK analysis, N = 1029 | Velpatasvir From Population PK analysis, N = 1025 |
 | --- | --- | --- | --- |
-| Cmax (nanogram per mL) | 567 (30.7) | 898 (26.7) | 259 (54.3) |
-| AUCtau (nanogram∙ hr per mL) | 1268 (38.5) | 14372 (28.0) | 2980 (51.3) |
-| Ctrough (nanogram per mL) | NA | NA | 42 (67.3) |
+| C max (nanogram per mL) | 567 (30.7) | 898 (26.7) | 259 (54.3) |
+| AUC tau (nanogram∙ hr per mL) | 1268 (38.5) | 14372 (28.0) | 2980 (51.3) |
+| C trough (nanogram per mL) | NA | NA | 42 (67.3) |
 | CV = coefficient of variation; NA = not applicable. |  |  |  |
 
-Sofosbuvir and GS-331007 AUC0–24 and Cmax were similar in healthy adult subjects and subjects with HCV infection.
-Relative to healthy subjects (N=331), velpatasvir AUC0–24 and Cmax were 37% lower and 42% lower, respectively, in HCV-infected subjects.
+Sofosbuvir and GS-331007 AUC 0–24 and C max were similar in healthy adult subjects and subjects with HCV infection.
+Relative to healthy subjects (N=331), velpatasvir AUC 0–24 and C max were 37% lower and 42% lower, respectively, in HCV-infected subjects.
 
 Velpatasvir AUC increases in a greater than proportional manner from 5 to 50 mg and in a less than proportional manner from 50 to 450 mg in healthy volunteers.
 However, velpatasvir exhibited more than or near dose-proportional increase in exposures 25 mg to 150 mg in HCV-infected patients when coadministered with sofosbuvir.
@@ -58,21 +58,21 @@ Sofosbuvir and GS-331007 AUCs are near dose-proportional over the dose range of 
 Specific Populations
 
 Pediatric Patients: The pharmacokinetics of sofosbuvir, GS-331007, and velpatasvir were determined in HCV genotype 1, 2, 3, 4, or 6 infected pediatric subjects 6 years of age and older receiving a daily dose of EPCLUSA as described below in Table 7.
-Geometric mean SOF AUCtau and Cmax and VEL Cmax values were 72%, 75%, and 85% higher in pediatric subjects ≥30 kg, and 73%, 81%, and 109% higher in pediatric subjects 17 to <30 kg compared to those observed in adults.
+Geometric mean SOF AUC tau and C max and VEL C max values were 72%, 75%, and 85% higher in pediatric subjects ≥30 kg, and 73%, 81%, and 109% higher in pediatric subjects 17 to <30 kg compared to those observed in adults.
 This difference was not considered clinically significant.
-GS-331007 exposures and velpatasvir AUCtau and Ctau values in pediatric subjects were similar to those observed in adults.
+GS-331007 exposures and velpatasvir AUC tau and C tau values in pediatric subjects were similar to those observed in adults.
 
-Table 7 Pharmacokinetic Properties of the Components of EPCLUSA in HCV-Infected Pediatric Subjects 6 Years of Age and OlderPopulation PK derived parameters
+Table 7 Pharmacokinetic Properties of the Components of EPCLUSA in HCV-Infected Pediatric Subjects 6 Years of Age and Older Population PK derived parameters
 
 | Sofosbuvir | GS-331007 | Velpatasvir |  |  |  |
 | --- | --- | --- | --- | --- | --- |
 | Weight Group | Dose | PK Parameter | Geometric Mean (%CV) |  |  |
-| ≥30 kgSofosbuvir N=89; GS-331007 N=100; Velpatasvir N=100 | 400/100 mg | Cmax (ng/mL) | 946 (93.2) | 1140 (24.5) | 416 (34.8) |
-| AUCtau (ng∙hr/mL) | 2040 (83.3) | 13100 (27.4) | 3810 (40.3) |  |  |
-| Ctrough (ng/mL) | NA | NA | 35 (87.2) |  |  |
-| 17 to <30 kgSofosbuvir N=43; GS-331007 N=43; Velpatasvir N=43 | 200/50 mg | Cmax (ng/mL) | 974 (70.8) | 1040 (29.8) | 470 (33.6) |
-| AUCtau (ng∙hr/mL) | 2050 (59.0) | 10800 (27.9) | 3460 (27.5) |  |  |
-| Ctrough (ng/mL) | NA | NA | 33 (51.2) |  |  |
+| ≥30 kg Sofosbuvir N=89; GS-331007 N=100; Velpatasvir N=100 | 400/100 mg | C max (ng/mL) | 946 (93.2) | 1140 (24.5) | 416 (34.8) |
+| AUC tau (ng∙hr/mL) | 2040 (83.3) | 13100 (27.4) | 3810 (40.3) |  |  |
+| C trough (ng/mL) | NA | NA | 35 (87.2) |  |  |
+| 17 to <30 kg Sofosbuvir N=43; GS-331007 N=43; Velpatasvir N=43 | 200/50 mg | C max (ng/mL) | 974 (70.8) | 1040 (29.8) | 470 (33.6) |
+| AUC tau (ng∙hr/mL) | 2050 (59.0) | 10800 (27.9) | 3460 (27.5) |  |  |
+| C trough (ng/mL) | NA | NA | 33 (51.2) |  |  |
 
 The pharmacokinetics of sofosbuvir, GS-331007 and velpatasvir have not been established in pediatric subjects less than 6 years of age or weighing less than 17 kg [see Use in Specific Populations (8.4) and Clinical Studies (14.7)].
 
@@ -80,10 +80,10 @@ Geriatric Patients: Population pharmacokinetic analysis in HCV-infected subjects
 
 Patients with Renal Impairment:
 
-The pharmacokinetics of sofosbuvir were studied in HCV negative subjects with mild (eGFR between 50 to less than 80 mL/min/1.73 m2), moderate (eGFR between 30 to less than 50 mL/min/1.73 m2), severe renal impairment (eGFR less than 30 mL/min/1.73 m2), and subjects with ESRD requiring hemodialysis following a single 400 mg dose of sofosbuvir.
-Relative to subjects with normal renal function (eGFR greater than 80 mL/min/1.73 m2), the sofosbuvir AUC0–inf was 61%, 107%, and 171% higher in subjects with mild, moderate, and severe renal impairment, while the GS-331007 AUC0–inf was 55%, 88%, and 451% higher, respectively.
+The pharmacokinetics of sofosbuvir were studied in HCV negative subjects with mild (eGFR between 50 to less than 80 mL/min/1.73 m 2), moderate (eGFR between 30 to less than 50 mL/min/1.73 m 2), severe renal impairment (eGFR less than 30 mL/min/1.73 m 2), and subjects with ESRD requiring hemodialysis following a single 400 mg dose of sofosbuvir.
+Relative to subjects with normal renal function (eGFR greater than 80 mL/min/1.73 m 2), the sofosbuvir AUC 0–inf was 61%, 107%, and 171% higher in subjects with mild, moderate, and severe renal impairment, while the GS-331007 AUC 0–inf was 55%, 88%, and 451% higher, respectively.
 
-In subjects with ESRD, relative to subjects with normal renal function, sofosbuvir and GS-331007 AUC0–inf was 28% and 1280% higher when sofosbuvir was dosed 1 hour before hemodialysis compared with 60% and 2070% higher when sofosbuvir was dosed 1 hour after hemodialysis, respectively.
+In subjects with ESRD, relative to subjects with normal renal function, sofosbuvir and GS-331007 AUC 0–inf was 28% and 1280% higher when sofosbuvir was dosed 1 hour before hemodialysis compared with 60% and 2070% higher when sofosbuvir was dosed 1 hour after hemodialysis, respectively.
 A 4-hour hemodialysis session removed approximately 18% of administered dose [see Dosage and Administration (2.5) and Use in Specific Populations (8.6)].
 
 The pharmacokinetics of velpatasvir were studied with a single dose of 100 mg velpatasvir in HCV negative subjects with severe renal impairment (eGFR less than 30 mL/min by Cockcroft-Gault).
@@ -95,10 +95,10 @@ The results were generally consistent with those in HCV negative subjects with E
 Patients with Hepatic Impairment:
 
 The pharmacokinetics of sofosbuvir were studied following 7-day dosing of 400 mg sofosbuvir in HCV-infected subjects with moderate and severe hepatic impairment (Child-Pugh Class B and C, respectively).
-Relative to subjects with normal hepatic function, the sofosbuvir AUC0–24 were 126% and 143% higher in moderate and severe hepatic impairment, while the GS-331007 AUC0–24 were 18% and 9% higher, respectively.
+Relative to subjects with normal hepatic function, the sofosbuvir AUC 0–24 were 126% and 143% higher in moderate and severe hepatic impairment, while the GS-331007 AUC 0–24 were 18% and 9% higher, respectively.
 Population pharmacokinetics analysis in HCV-infected subjects indicated that cirrhosis (including decompensated cirrhosis) had no clinically relevant effect on the exposure of sofosbuvir and GS-331007 [see Use in Specific Populations (8.7)].
 
-The pharmacokinetics of velpatasvir were studied with a single dose of 100 mg velpatasvir in HCV negative subjects with moderate and severe hepatic impairment (Child-Pugh Class B and C). Velpatasvir plasma exposure (AUCinf) was similar in subjects with moderate hepatic impairment, severe hepatic impairment, and control subjects with normal hepatic function.
+The pharmacokinetics of velpatasvir were studied with a single dose of 100 mg velpatasvir in HCV negative subjects with moderate and severe hepatic impairment (Child-Pugh Class B and C). Velpatasvir plasma exposure (AUC inf) was similar in subjects with moderate hepatic impairment, severe hepatic impairment, and control subjects with normal hepatic function.
 Population pharmacokinetics analysis in HCV-infected subjects indicated that cirrhosis (including decompensated cirrhosis) had no clinically relevant effect on the exposure of velpatasvir [see Use in Specific Populations (8.7)].
 
 Race: Population pharmacokinetics analysis in HCV-infected subjects indicated that race had no clinically relevant effect on the exposure of sofosbuvir, GS-331007, or velpatasvir.
@@ -126,9 +126,9 @@ Sofosbuvir and GS-331007 are not inhibitors or inducers of CYP or UGT1A1 enzymes
 The effects of coadministered drugs on the exposure of sofosbuvir, GS-331007, and velpatasvir are shown in Table 8.
 The effects of sofosbuvir, velpatasvir, or EPCLUSA on the exposure of coadministered drugs are shown in Table 9 [see Drug Interactions (7)].
 
-Table 8 Drug Interactions: Changes in Pharmacokinetic Parameters for Sofosbuvir, GS-331007, and Velpatasvir in the Presence of the Coadministered DrugAll interaction studies conducted in healthy volunteers.
+Table 8 Drug Interactions: Changes in Pharmacokinetic Parameters for Sofosbuvir, GS-331007, and Velpatasvir in the Presence of the Coadministered Drug All interaction studies conducted in healthy volunteers.
 
-|  | Cmax | AUC | Cmin |  |  |  |  |  |
+|  | C max | AUC | C min |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | Coadministered Drug | Dose of Coadministered Drug (mg) | SOF Dose (mg) | VEL Dose (mg) | N | Mean Ratio (90% CI) of Sofosbuvir, GS-331007, and Velpatasvir PK With/Without Coadministered Drug No Effect=1.00 |  |  |  |
 | Atazanavir/ ritonavir + emtricitabine/ tenofovir DF | 300/100 + 200/300 once daily | 400 once daily | 100 once daily | 24 | sofosbuvir | 1.12 (0.97, 1.29) | 1.22 (1.12, 1.33) | NA |
@@ -142,13 +142,13 @@ Table 8 Drug Interactions: Changes in Pharmacokinetic Parameters for Sofosbuvir,
 | Darunavir/ ritonavir + emtricitabine/ tenofovir DF | 800/100 + 200/300 once daily | 400 once daily | 100 once daily | 29 | sofosbuvir | 0.62 (0.54, 0.71) | 0.72 (0.66, 0.80) | NA |
 | GS-331007 | 1.04 (0.99, 1.08) | 1.13 (1.08, 1.18) | 1.13 (1.06, 1.19) |  |  |  |  |  |
 | velpatasvir | 0.76 (0.65, 0.89) | 0.84 (0.72, 0.98) | 1.01 (0.87, 1.18) |  |  |  |  |  |
-| Efavirenz/ emtricitabine/ tenofovir DFAdministered as ATRIPLA® (efavirenz, emtricitabine, and tenofovir DF fixed-dose combination). | 600/200/300 once daily | 400 once daily | 100 once daily | 14 | sofosbuvir | 1.38 (1.14, 1.67) | 0.97 (0.83, 1.14) | NA |
+| Efavirenz/ emtricitabine/ tenofovir DF Administered as ATRIPLA ® (efavirenz, emtricitabine, and tenofovir DF fixed-dose combination). | 600/200/300 once daily | 400 once daily | 100 once daily | 14 | sofosbuvir | 1.38 (1.14, 1.67) | 0.97 (0.83, 1.14) | NA |
 | GS-331007 | 0.86 (0.80, 0.93) | 0.90 (0.85, 0.96) | 1.01 (0.95, 1.07) |  |  |  |  |  |
 | velpatasvir | 0.53 (0.43, 0.64) | 0.47 (0.39, 0.57) | 0.43 (0.36, 0.52) |  |  |  |  |  |
-| Elvitegravir/ cobicistat/ emtricitabine/ tenofovir alafenamideAdministered as GENVOYA® (elvitegravir, cobicistat, emtricitabine, and tenofovir alafenamide fixed-dose combination). | 150/150/200/10 once daily | 400 once daily | 100 once daily | 24 | sofosbuvir | 1.23 (1.07, 1.42) | 1.37 (1.24, 1.52) | NA |
+| Elvitegravir/ cobicistat/ emtricitabine/ tenofovir alafenamide Administered as GENVOYA ® (elvitegravir, cobicistat, emtricitabine, and tenofovir alafenamide fixed-dose combination). | 150/150/200/10 once daily | 400 once daily | 100 once daily | 24 | sofosbuvir | 1.23 (1.07, 1.42) | 1.37 (1.24, 1.52) | NA |
 | GS-331007 | 1.29 (1.25, 1.33) | 1.48 (1.43, 1.53) | 1.58 (1.52, 1.65) |  |  |  |  |  |
 | velpatasvir | 1.30 (1.17, 1.45) | 1.50 (1.35, 1.66) | 1.60 (1.44, 1.78) |  |  |  |  |  |
-| Elvitegravir/ cobicistat/ emtricitabine/ tenofovir DFAdministered as STRIBILD® (elvitegravir, cobicistat, emtricitabine, and tenofovir DF fixed-dose combination). | 150/150/200/300 once daily | 400 once daily | 100 once daily | 24 | sofosbuvir | 1.01 (0.85, 1.19) | 1.24 (1.13, 1.37) | NA |
+| Elvitegravir/ cobicistat/ emtricitabine/ tenofovir DF Administered as STRIBILD ® (elvitegravir, cobicistat, emtricitabine, and tenofovir DF fixed-dose combination). | 150/150/200/300 once daily | 400 once daily | 100 once daily | 24 | sofosbuvir | 1.01 (0.85, 1.19) | 1.24 (1.13, 1.37) | NA |
 | GS-331007 | 1.13 (1.07, 1.18) | 1.35 (1.30, 1.40) | 1.45 (1.38, 1.52) |  |  |  |  |  |
 | velpatasvir | 1.05 (0.93, 1.19) | 1.19 (1.07, 1.34) | 1.37 (1.22, 1.54) |  |  |  |  |  |
 | Famotidine | 40 single dose simultaneously with EPCLUSA | 400 single dose | 100 single dose | 60 | sofosbuvir | 0.92 (0.82, 1.05) | 0.82 (0.74, 0.91) | NA |
@@ -169,7 +169,7 @@ Table 8 Drug Interactions: Changes in Pharmacokinetic Parameters for Sofosbuvir,
 | 20 once daily 12 hours prior to EPCLUSA | 400 single dose fasted | 100 single dose fasted | 60 | sofosbuvir | 0.55 (0.47, 0.64) | 0.56 (0.49, 0.65) | NA |  |
 | GS-331007 | 1.26 (1.18, 1.34) | 0.97 (0.94, 1.01) | NA |  |  |  |  |  |
 | velpatasvir | 0.43 (0.35, 0.54) | 0.45 (0.37, 0.55) | NA |  |  |  |  |  |
-| 20 once daily 2 hours prior to EPCLUSA | 400 single dose fedEPCLUSA was administered under fasted conditions in the reference arms. | 100 single dose fed | 40 | sofosbuvir | 0.84 (0.68, 1.03) | 1.08 (0.94, 1.25) | NA |  |
+| 20 once daily 2 hours prior to EPCLUSA | 400 single dose fed EPCLUSA was administered under fasted conditions in the reference arms. | 100 single dose fed | 40 | sofosbuvir | 0.84 (0.68, 1.03) | 1.08 (0.94, 1.25) | NA |  |
 | GS-331007 | 0.94 (0.88, 1.02) | 0.99 (0.96, 1.03) | NA |  |  |  |  |  |
 | velpatasvir | 0.52 (0.43, 0.64) | 0.62 (0.51, 0.75) | NA |  |  |  |  |  |
 | 20 once daily 4 hours after EPCLUSA | 400 single dose fed | 100 single dose fed | 38 | sofosbuvir | 0.79 (0.68, 0.92) | 1.05 (0.94, 1.16) | NA |  |
@@ -190,33 +190,33 @@ Table 8 Drug Interactions: Changes in Pharmacokinetic Parameters for Sofosbuvir,
 
 No effect on the pharmacokinetic parameters of sofosbuvir, GS-331007, or velpatasvir was observed with dolutegravir; the combination of emtricitabine, rilpivirine, and tenofovir DF; emtricitabine; raltegravir; or tenofovir DF.
 
-Table 9 Changes in Pharmacokinetic Parameters for Coadministered Drug in the Presence of Sofosbuvir, Velpatasvir, or EPCLUSAAll interaction studies conducted in healthy volunteers.
+Table 9 Changes in Pharmacokinetic Parameters for Coadministered Drug in the Presence of Sofosbuvir, Velpatasvir, or EPCLUSA All interaction studies conducted in healthy volunteers.
 
-| Cmax | AUC | Cmin |  |  |  |  |  |  |
+| C max | AUC | C min |  |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | Coadministered Drug | Dose of Coadministered Drug (mg) | SOF Dose (mg) | VEL Dose (mg) | N | Mean Ratio (90% CI) of Coadministered Drug PK With/Without Sofosbuvir, Velpatasvir, or EPCLUSA No Effect=1.00 |  |  |  |
-| Atazanavir/ ritonavir + emtricitabine/ tenofovir DFComparison based on exposures when administered as atazanavir/ritonavir + emtricitabine/tenofovir DF. | atazanavir 300 once daily | 400 once daily | 100 once daily | 24 | 1.09 (1.00, 1.19) | 1.20 (1.10, 1.31) | 1.39 (1.20, 1.61) |  |
+| Atazanavir/ ritonavir + emtricitabine/ tenofovir DF Comparison based on exposures when administered as atazanavir/ritonavir + emtricitabine/tenofovir DF. | atazanavir 300 once daily | 400 once daily | 100 once daily | 24 | 1.09 (1.00, 1.19) | 1.20 (1.10, 1.31) | 1.39 (1.20, 1.61) |  |
 | ritonavir 100 once daily | 0.89 (0.82, 0.97) | 0.97 (0.89, 1.05) | 1.29 (1.15, 1.44) |  |  |  |  |  |
 | emtricitabine 200 once daily | 1.01 (0.96, 1.06) | 1.02 (0.99, 1.04) | 1.06 (1.02, 1.11) |  |  |  |  |  |
 | tenofovir DF 300 once daily | 1.55 (1.43, 1.68) | 1.30 (1.24, 1.36) | 1.39 (1.31, 1.48) |  |  |  |  |  |
 | Atorvastatin | 40 single dose | 400 once daily | 100 once daily | 26 | 1.68 (1.49, 1.89) | 1.54 (1.45, 1.64) | NA |  |
-| Darunavir/ ritonavir + emtricitabine/ tenofovir DFComparison based on exposures when administered as darunavir/ritonavir + emtricitabine/tenofovir DF. | darunavir 800 once daily | 400 once daily | 100 once daily | 29 | 0.90 (0.86, 0.95) | 0.92 (0.87, 0.98) | 0.87 (0.79, 0.95) |  |
+| Darunavir/ ritonavir + emtricitabine/ tenofovir DF Comparison based on exposures when administered as darunavir/ritonavir + emtricitabine/tenofovir DF. | darunavir 800 once daily | 400 once daily | 100 once daily | 29 | 0.90 (0.86, 0.95) | 0.92 (0.87, 0.98) | 0.87 (0.79, 0.95) |  |
 | ritonavir 100 once daily | 1.07 (0.97, 1.17) | 1.12 (1.05, 1.19) | 1.09 (1.02, 1.15) |  |  |  |  |  |
 | emtricitabine 200 once daily | 1.05 (1.01, 1.08) | 1.05 (1.02, 1.08) | 1.04 (0.98, 1.09) |  |  |  |  |  |
 | tenofovir DF 300 once daily | 1.55 (1.45, 1.66) | 1.39 (1.33, 1.44) | 1.52 (1.45, 1.59) |  |  |  |  |  |
 | Digoxin | 0.25 single dose | ND | 100 | 21 | 1.88 (1.71, 2.08) | 1.34 (1.13, 1.60) | NA |  |
-| Efavirenz/ emtricitabine/ tenofovir DFAdministered as ATRIPLA (efavirenz, emtricitabine, and tenofovir DF fixed-dose combination). | efavirenz 600 once daily | 400 once daily | 100 once daily | 15 | 0.81 (0.74, 0.89) | 0.85 (0.80, 0.91) | 0.90 (0.85, 0.95) |  |
+| Efavirenz/ emtricitabine/ tenofovir DF Administered as ATRIPLA (efavirenz, emtricitabine, and tenofovir DF fixed-dose combination). | efavirenz 600 once daily | 400 once daily | 100 once daily | 15 | 0.81 (0.74, 0.89) | 0.85 (0.80, 0.91) | 0.90 (0.85, 0.95) |  |
 | emtricitabine 200 once daily | 1.07 (0.98, 1.18) | 1.07 (1.00, 1.14) | 1.10 (0.97, 1.25) |  |  |  |  |  |
 | tenofovir DF 300 once daily | 1.77 (1.53, 2.04) | 1.81 (1.68, 1.94) | 2.21 (2.00, 2.43) |  |  |  |  |  |
-| Elvitegravir/ cobicistat/emtricitabine/tenofovir alafenamideAdministered as GENVOYA (elvitegravir, cobicistat, emtricitabine, and tenofovir alafenamide fixed-dose combination). | elvitegravir 150 once daily | 400 once daily | 100 once daily | 24 | 0.87 (0.80, 0.94) | 0.94 (0.88, 1.00) | 1.08 (0.97, 1.20) |  |
+| Elvitegravir/ cobicistat/emtricitabine/tenofovir alafenamide Administered as GENVOYA (elvitegravir, cobicistat, emtricitabine, and tenofovir alafenamide fixed-dose combination). | elvitegravir 150 once daily | 400 once daily | 100 once daily | 24 | 0.87 (0.80, 0.94) | 0.94 (0.88, 1.00) | 1.08 (0.97, 1.20) |  |
 | cobicistat 150 once daily | 1.16 (1.09, 1.23) | 1.30 (1.23, 1.38) | 2.03 (1.67, 2.48) |  |  |  |  |  |
 | emtricitabine 200 once daily | 1.02 (0.97, 1.06) | 1.01 (0.98, 1.04) | 1.02 (0.97, 1.07) |  |  |  |  |  |
 | tenofovir alafenamide 10 once daily | 0.80 (0.68, 0.94) | 0.87 (0.81, 0.94) | NA |  |  |  |  |  |
-| Elvitegravir/ cobicistat/emtricitabine/tenofovir DFAdministered as STRIBILD (elvitegravir, cobicistat, emtricitabine, and tenofovir DF fixed-dose combination). | elvitegravir 150 once daily | 400 once daily | 100 once daily | 24 | 0.93 (0.86, 1.00) | 0.93 (0.87, 0.99) | 0.97 (0.91, 1.04) |  |
+| Elvitegravir/ cobicistat/emtricitabine/tenofovir DF Administered as STRIBILD (elvitegravir, cobicistat, emtricitabine, and tenofovir DF fixed-dose combination). | elvitegravir 150 once daily | 400 once daily | 100 once daily | 24 | 0.93 (0.86, 1.00) | 0.93 (0.87, 0.99) | 0.97 (0.91, 1.04) |  |
 | cobicistat 150 once daily | 1.11 (1.06, 1.17) | 1.23 (1.17, 1.29) | 1.71 (1.54, 1.90) |  |  |  |  |  |
 | emtricitabine 200 once daily | 1.02 (0.97, 1.08) | 1.01 (0.98, 1.04) | 1.06 (1.01, 1.11) |  |  |  |  |  |
 | tenofovir DF 300 once daily | 1.36 (1.25, 1.47) | 1.35 (1.29, 1.42) | 1.45 (1.39, 1.51) |  |  |  |  |  |
-| Emtricitabine/ rilpivirine/ tenofovir DFAdministered as COMPLERA® (emtricitabine, rilpivirine, and tenofovir DF fixed-dose combination). | emtricitabine 200 once daily | 400 once daily | 100 once daily | 24 | 0.95 (0.90, 1.00) | 0.99 (0.97, 1.02) | 1.05 (0.99, 1.11) |  |
+| Emtricitabine/ rilpivirine/ tenofovir DF Administered as COMPLERA ® (emtricitabine, rilpivirine, and tenofovir DF fixed-dose combination). | emtricitabine 200 once daily | 400 once daily | 100 once daily | 24 | 0.95 (0.90, 1.00) | 0.99 (0.97, 1.02) | 1.05 (0.99, 1.11) |  |
 | rilpivirine 25 once daily | 0.93 (0.88, 0.98) | 0.95 (0.90, 1.00) | 0.96 (0.90, 1.03) |  |  |  |  |  |
 | tenofovir DF 300 once daily | 1.44 (1.33, 1.55) | 1.40 (1.34, 1.46) | 1.84 (1.76, 1.92) |  |  |  |  |  |
 | Norelgestromin | norgestimate 0.180/0.215/0.25/ethinyl estradiol 0.025 once daily | ND | 100 once daily | 13 | 0.97 (0.88, 1.07) | 0.90 (0.82, 0.98) | 0.92 (0.83, 1.03) |  |
@@ -241,7 +241,7 @@ Mechanism of Action
 
 Sofosbuvir is an inhibitor of the HCV NS5B RNA-dependent RNA polymerase, which is required for viral replication.
 Sofosbuvir is a nucleotide prodrug that undergoes intracellular metabolism to form the pharmacologically active uridine analog triphosphate (GS-461203), which can be incorporated into HCV RNA by the NS5B polymerase and acts as a chain terminator.
-In a biochemical assay, GS-461203 inhibited the polymerase activity of the recombinant NS5B from HCV genotype 1b, 2a, 3a, and 4a with an IC50 value ranging from 0.36 to 3.3 micromolar.
+In a biochemical assay, GS-461203 inhibited the polymerase activity of the recombinant NS5B from HCV genotype 1b, 2a, 3a, and 4a with an IC 50 value ranging from 0.36 to 3.3 micromolar.
 GS-461203 is neither an inhibitor of human DNA and RNA polymerases nor an inhibitor of mitochondrial RNA polymerase.
 
 Velpatasvir is an inhibitor of the HCV NS5A protein, which is required for viral replication.
@@ -249,28 +249,28 @@ Resistance selection in cell culture and cross-resistance studies indicate velpa
 
 Antiviral Activity
 
-The EC50 values of sofosbuvir and velpatasvir against full-length or chimeric replicons encoding NS5B and NS5A sequences from the laboratory strains are presented in Table 10.
-The EC50 values of sofosbuvir and velpatasvir against clinical isolates are presented in Table 11.
+The EC 50 values of sofosbuvir and velpatasvir against full-length or chimeric replicons encoding NS5B and NS5A sequences from the laboratory strains are presented in Table 10.
+The EC 50 values of sofosbuvir and velpatasvir against clinical isolates are presented in Table 11.
 
 Table 10 Activity of Sofosbuvir and Velpatasvir Against Full Length or Chimeric Laboratory Replicons
 
-| Replicon Genotype | Sofosbuvir EC50, nMMean value from multiple experiments of same laboratory replicon. | Velpatasvir EC50, nM |
+| Replicon Genotype | Sofosbuvir EC 50, nM Mean value from multiple experiments of same laboratory replicon. | Velpatasvir EC 50, nM |
 | --- | --- | --- |
 | 1a | 40 | 0.014 |
 | 1b | 110 | 0.016 |
-| 2a | 50 | 0.005–0.016Data from various strains of full-length NS5A replicons or chimeric NS5A replicons carrying full-length NS5A genes that contain L31 or M31 polymorphisms. |
-| 2b | 15Stable chimeric 1b replicons carrying NS5B genes from genotype 2b, 5a, or 6a were used for testing. | 0.002–0.006 |
+| 2a | 50 | 0.005–0.016 Data from various strains of full-length NS5A replicons or chimeric NS5A replicons carrying full-length NS5A genes that contain L31 or M31 polymorphisms. |
+| 2b | 15 Stable chimeric 1b replicons carrying NS5B genes from genotype 2b, 5a, or 6a were used for testing. | 0.002–0.006 |
 | 3a | 50 | 0.004 |
 | 4a | 40 | 0.009 |
 | 4d | 33.4 | 0.004 |
-| 5a | 15 | 0.021–0.054Data from a chimeric NS5A replicon carrying NS5A amino acids 9–184. |
+| 5a | 15 | 0.021–0.054 Data from a chimeric NS5A replicon carrying NS5A amino acids 9–184. |
 | 6a | 14–25 | 0.006–0.009 |
 | 6e | NA | 0.130 |
 | NA = not available. |  |  |
 
 Table 11 Activity of Sofosbuvir and Velpatasvir Against Transient Replicons Containing NS5A or NS5B from Clinical Isolates
 
-| Number of clinical isolates | Median sofosbuvir EC50, nM (range) | Number of clinical isolates | Median velpatasvir EC50, nM (range) |  |
+| Number of clinical isolates | Median sofosbuvir EC 50, nM (range) | Number of clinical isolates | Median velpatasvir EC 50, nM (range) |  |
 | --- | --- | --- | --- | --- |
 | Replicon Genotype | Replicons Containing NS5B from Clinical Isolates |  | Replicons Containing NS5A from Clinical Isolates |  |
 | 1a | 67 | 62 (29–128) | 23 | 0.019 (0.011–0.078) |
