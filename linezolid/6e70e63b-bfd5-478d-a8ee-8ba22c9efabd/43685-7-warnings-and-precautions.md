@@ -80,9 +80,9 @@ If hypoglycemia occurs, a decrease in the dose of insulin or oral hypoglycemic a
 ## 5.10 Risks in Patients with Phenylketonuria
 
 Phenylalanine can be harmful to patients with phenylketonuria (PKU).
-ZYVOX for oral suspension contains phenylalanine, a component of aspartame.
+ZYVOX for Oral Suspension contains phenylalanine, a component of aspartame.
 Each 5 mL of the 100 mg/5 mL oral suspension contains 20 mg of phenylalanine.
-Before prescribing ZYVOX for oral suspension to a patient with PKU, consider the combined daily amount of phenylalanine from all sources, including ZYVOX for oral suspension.
+Before prescribing ZYVOX for Oral Suspension to a patient with PKU, consider the combined daily amount of phenylalanine from all sources, including ZYVOX for Oral Suspension.
 
 The other ZYVOX formulations do not contain phenylalanine.
 

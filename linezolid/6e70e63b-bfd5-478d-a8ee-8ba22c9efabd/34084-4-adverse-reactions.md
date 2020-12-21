@@ -82,7 +82,7 @@ In an outpatient study of pediatric patients aged from 5 through 17 years, the p
 Thrombocytopenia associated with the use of ZYVOX appears to be dependent on duration of therapy (generally greater than 2 weeks of treatment).
 The platelet counts for most patients returned to the normal range/baseline during the follow-up period.
 No related clinical adverse events were identified in Phase 3 clinical trials in patients developing thrombocytopenia.
-Bleeding events were identified in thrombocytopenic patients in a compassionate use program for ZYVOX; the role of linezolid in these events cannot be determined [see Warning and Precautions (5.1)].
+Bleeding events were identified in thrombocytopenic patients in a compassionate use program for ZYVOX; the role of linezolid in these events cannot be determined [see Warnings and Precautions (5.1)].
 
 Changes seen in other laboratory parameters, without regard to drug relationship, revealed no substantial differences between ZYVOX and the comparators.
 These changes were generally not clinically significant, did not lead to discontinuation of therapy, and were reversible.

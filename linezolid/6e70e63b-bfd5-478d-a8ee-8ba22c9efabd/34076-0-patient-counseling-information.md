@@ -39,7 +39,7 @@ Phenylketonuria
 Advise patients with phenylketonuria (PKU) that each 5 mL of the 100 mg/5 mL ZYVOX for Oral Suspension contains 20 mg phenylalanine.
 The other ZYVOX formulations do not contain phenylalanine.
 Phenylalanine can be harmful to patients with phenylketonuria.
-Contact your physician or pharmacist when prescribed with ZYVOX oral suspension [see Warnings and Precautions (5.10)].
+Contact your physician or pharmacist when prescribed with ZYVOX for Oral Suspension [see Warnings and Precautions (5.10)].
 
 Antibacterial Resistance
 
