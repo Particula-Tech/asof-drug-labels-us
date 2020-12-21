@@ -64,7 +64,7 @@ After a median follow-up of 34 months, there was a 23% reduction in the risk of 
 Table 1.
 CHARM—Alternative: Primary Endpoint and its Components
 
-| Endpoint (time to first event) | CandesartanCilexetil Tablets(n = 1013) | Placebo(n = 1015) | Hazard Ratio(95% CI) | p-value(logrank) |
+| Endpoint (time to first event) | Candesartan Cilexetil Tablets(n = 1013) | Placebo(n = 1015) | Hazard Ratio(95% CI) | p-value(logrank) |
 | --- | --- | --- | --- | --- |
 | CV death or heart failure hospitalization | 334 | 406 | 0.77(0.67–0.89) | < 0.001 |
 | CV death | 219 | 252 | 0.85(0.71–1.02) | 0.072 |

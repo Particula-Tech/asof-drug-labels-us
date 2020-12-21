@@ -4,7 +4,7 @@
 
 Dosage must be individualized.
 Blood pressure response is dose related over the range of 2 to 32 mg.
-The usual recommended starting dose of candesartan cilexetil tablets is 16 mg once daily when it is used as monotherapy in patients who are not volume depleted.
+The usual recommended starting dose of candesartan cilexetil tablets is 16 mg once daily when they are used as monotherapy in patients who are not volume depleted.
 Candesartan cilexetil tablets can be administered once or twice daily with total daily doses ranging from 8 mg to 32 mg.
 Larger doses do not appear to have a greater effect, and there is relatively little experience with such doses.
 Most of the antihypertensive effect is present within 2 weeks, and maximal blood pressure reduction is generally obtained within 4 to 6 weeks of treatment with candesartan cilexetil tablets.
@@ -56,7 +56,7 @@ Any strength of candesartan cilexetil tablets can be used in the preparation of 
 Follow the steps below for preparation of the suspension.
 The number of tablets and volume of vehicle specified below will yield 160 mL of a 1 mg/mL suspension.
 
-- •Prepare the vehicle by adding equal volumes of Ora-Plus® (80 mL) and Ora-Sweet SF® (80 mL) or, alternatively, use, Ora-Blend SF® (160 mL).
+- •Prepare the vehicle by adding equal volumes of Ora-Plus® (80 mL) and Ora-Sweet SF® (80 mL) or, alternatively, use Ora-Blend SF® (160 mL).
 - •Add a small amount of vehicle to the required number of candesartan cilexetil tablets (five 32 mg tablets) and grind into a smooth paste using a mortar and pestle.
 - •Add the paste to a preparation vessel of suitable size.
 - •Rinse the mortar and pestle clean using the vehicle and add this to the vessel.

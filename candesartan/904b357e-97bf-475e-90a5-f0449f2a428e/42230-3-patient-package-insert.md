@@ -1,10 +1,8 @@
 # Patient Information
 
-Candesartan Cilexetil Tablets, USP
+Candesartan Cilexetil Tablets, USP (kan″ de sarʹ tan sye lexʹ e til)
 
-(kan″ de sarʹ tan sye lexʹ e til)
-
-Read the Patient Information that comes with candesartan cilexetil tablets before you start taking it and each time you get a refill.
+Read the Patient Information that comes with candesartan cilexetil tablets before you start taking them and each time you get a refill.
 There may be new information.
 This leaflet does not take the place of talking with your doctor about your medical condition or your treatment.
 If you have any questions about candesartan cilexetil tablets, ask your doctor or pharmacist.
@@ -75,7 +73,7 @@ How should I take candesartan cilexetil tablets?
 
 - •Take candesartan cilexetil tablets exactly as prescribed by your doctor.
 - •Do not change your dose or stop candesartan cilexetil tablets without talking to your doctor, even if you are feeling well.
-- •If your child cannot swallow tablets, or if tablets are not available in the prescribed strength, your pharmacist will prepare candesartan cilexetil tablets as a liquid suspension for your child.
+- •If your child cannot swallow tablets, or if tablets are not available in the prescribed strength, your pharmacist will prepare candesartan cilexetil as a liquid suspension for your child.
   If your child switches between taking the tablet and the suspension, your doctor will change the dose as needed.
   Shake the bottle of suspension well before each dose.
 - •Candesartan cilexetil tablets are taken by mouth with or without food.
@@ -96,7 +94,7 @@ What are the possible side effects of candesartan cilexetil tablets?
 Candesartan cilexetil tablets may cause serious side effects, including:
 
 - •Injury or death to your unborn baby.
-  See “What is the most important information I should know about candesartan cilexetil tablets?
+  See “What is the most important information I should know about candesartan cilexetil tablets?”
 - •Low blood pressure (hypotension).
   Low blood pressure is most likely to happen if you:
   - otake water pills (diuretics)
@@ -104,13 +102,10 @@ Candesartan cilexetil tablets may cause serious side effects, including:
   - oget dialysis treatments
   - oare dehydrated (decreased body fluids) due to vomiting and diarrhea
   - ohave heart problems
-
-If you feel dizzy or faint lie down and call your doctor right away.
-
-Low blood pressure can also happen if you have major surgery or anesthesia.
-You will be monitored for this and treated if needed.
-See “What should I tell my doctor before taking candesartan cilexetil tablets?”
-
+- If you feel dizzy or faint lie down and call your doctor right away.
+- Low blood pressure can also happen if you have major surgery or anesthesia.
+  You will be monitored for this and treated if needed.
+  See “What should I tell my doctor before taking candesartan cilexetil tablets?”
 - •Worsening kidney problems.
   Kidney problems may get worse in people that already have kidney disease or heart problems.
   Your doctor may do blood tests to check for this.
@@ -186,6 +181,6 @@ Manufactured for: Mylan Pharmaceuticals Inc. Morgantown, WV 26505 U.S.A.
 
 Manufactured by: Mylan Laboratories Limited Hyderabad — 500 096, India
 
-75001657
+75077901
 
-Revised: 1/2019 MX:CANDT:R1ppt/MX:PL:CANDT:R1p/MX:PL:CANDT:R1pt
+Revised: 11/2020 MX:CANDT:R2p/MX:PL:CANDT:R2p

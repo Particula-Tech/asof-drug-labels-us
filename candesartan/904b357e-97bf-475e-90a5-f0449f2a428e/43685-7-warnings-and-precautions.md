@@ -2,18 +2,11 @@
 
 ## 5.1 Fetal Toxicity
 
-### Pregnancy Category D
-
+Candesartan cilexetil tablets can cause fetal harm when administered to a pregnant woman.
 Use of drugs that act on the renin-angiotensin system during the second and third trimesters of pregnancy reduces fetal renal function and increases fetal and neonatal morbidity and death.
 Resulting oligohydramnios can be associated with fetal lung hypoplasia and skeletal deformations.
 Potential neonatal adverse effects include skull hypoplasia, anuria, hypotension, renal failure and death.
 When pregnancy is detected, discontinue candesartan cilexetil tablets as soon as possible [see Use in Specific Populations (8.1)].
-
-Oral doses ≥ 10 mg of candesartan cilexetil/kg/day administered to pregnant rats during late gestation and continued through lactation were associated with reduced survival and an increased incidence of hydronephrosis in the offspring.
-
-The 10-mg/kg/day dose in rats is approximately 2.8 times the maximum recommended daily human dose (MRHD) of 32 mg on a mg/m2 basis (comparison assumes human body weight of 50 kg).
-Candesartan cilexetil given to pregnant rabbits at an oral dose of 3 mg/kg/day (approximately 1.7 times the MRHD on a mg/m2 basis) caused maternal toxicity (decreased body weight and death) but, in surviving dams, had no adverse effects on fetal survival, fetal weight, or external, visceral, or skeletal development.
-No maternal toxicity or adverse effects on fetal development were observed when oral doses up to 1000 mg of candesartan cilexetil/kg/day (approximately 138 times the MRHD on a mg/m2 basis) were administered to pregnant mice.
 
 ## 5.2 Morbidity in Infants
 
@@ -24,6 +17,8 @@ Drugs that act directly on the renin-angiotensin system (RAS) can have effects o
 
 Candesartan cilexetil tablets can cause symptomatic hypotension.
 Symptomatic hypotension is most likely to occur in patients who have been volume and/or salt depleted as a result of prolonged diuretic therapy, dietary salt restriction, dialysis, diarrhea, or vomiting.
+Patients with symptomatic hypotension may require temporarily reducing the dose of candesartan cilexetil tablets, diuretic or both, and volume repletion.
+Volume and/or salt depletion should be corrected before initiating therapy with candesartan cilexetil tablets.
 
 In the CHARM program (heart failure patients), hypotension was reported in 18.8% of patients on candesartan cilexetil tablets versus 9.8% of patients on placebo.
 The incidence of hypotension leading to drug discontinuation in candesartan cilexetil tablet-treated patients was 4.1% compared with 2.0% in placebo-treated patients.

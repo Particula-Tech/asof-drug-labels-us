@@ -3,7 +3,7 @@
 Candesartan cilexetil tablets USP, a prodrug, are hydrolyzed to candesartan during absorption from the gastrointestinal tract.
 Candesartan is a selective AT1 subtype angiotensin II receptor antagonist.
 
-Candesartan cilexetil, a nonpeptide, is chemically described as (±)2-Ethoxy-1-[[2’-(1H-tetrazol-5-yl)[1, 1’- biphenyl]-4-yl]methyl]-1H-benzimidazole-7-carboxylic acid-1-[[(cyclohexyloxy)carbonyl]oxy]ethyl ester.
+Candesartan cilexetil, a nonpeptide, is chemically described as (±)2-Ethoxy-1-[[2’-(1H-tetrazol-5-yl)[1,1’-biphenyl]-4-yl]methyl]-1H-benzimidazole-7-carboxylic acid-1-[[(cyclohexyloxy)carbonyl]oxy]ethyl ester.
 
 Its molecular formula is C33H34N6O6, and its structural formula is:
 

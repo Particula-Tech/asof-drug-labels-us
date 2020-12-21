@@ -35,9 +35,9 @@ Because these reactions are reported voluntarily from a population of uncertain 
 
 The following have been very rarely reported in post-marketing experience:
 
-Digestive:Abnormal hepatic function and hepatitis.
+Digestive: Abnormal hepatic function and hepatitis.
 
-Hematologic:Neutropenia, leukopenia, and agranulocytosis.
+Hematologic: Neutropenia, leukopenia, and agranulocytosis.
 
 Immunologic: Angioedema.
 
