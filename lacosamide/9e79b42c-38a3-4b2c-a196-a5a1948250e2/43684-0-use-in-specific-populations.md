@@ -49,10 +49,16 @@ The developmental and health benefits of breastfeeding should be considered alon
 
 ## 8.4 Pediatric Use
 
-Safety and effectiveness of VIMPAT tablets and oral solution have been established in pediatric patients 4 to less than 17 years of age.
+Partial-Onset Seizures
+
+Safety and effectiveness of VIMPAT for the treatment of partial-onset seizures have been established in pediatric patients 4 to less than 17 years of age.
 Use of VIMPAT in this age group is supported by evidence from adequate and well-controlled studies of VIMPAT in adults with partial-onset seizures, pharmacokinetic data from adult and pediatric patients, and safety data in 328 pediatric patients 4 to less than 17 years of age [see Adverse Reactions (6.1) and Clinical Pharmacology (12.3)].
 
-Safety of VIMPAT injection in pediatric patients has not been established.
+Safety and effectiveness in pediatric patients below the age of 4 years have not been established.
+
+Primary Generalized Tonic-Clonic Seizures
+
+Safety and effectiveness of VIMPAT as adjunctive therapy in the treatment of primary generalized tonic-clonic seizures in pediatric patients with idiopathic generalized epilepsy 4 years of age and older was established in a 24-week double-blind, randomized, placebo-controlled, parallel-group, multi-center study (Study 5), which included 37 pediatric patients 4 years to < 17 years of age [see Adverse Reactions (6.1) and Clinical Studies (14.3)].
 
 Safety and effectiveness in pediatric patients below the age of 4 years have not been established.
 
@@ -68,12 +74,12 @@ The no-effect dose for developmental neurotoxicity in rats was associated with a
 There were insufficient numbers of elderly patients enrolled in partial-onset seizure trials (n=18) to adequately determine whether they respond differently from younger patients.
 
 No VIMPAT dose adjustment based on age is necessary.
-In elderly patients, dose titration should be performed with caution, usually starting at the lower end of the dosing range, reflecting the greater frequency of decreased hepatic function, decreased renal function, increased cardiac conduction abnormalities, and polypharmacy [see Dosage and Administration (2.1, 2.3, 2.4), Clinical Pharmacology (12.3)].
+In elderly patients, dose titration should be performed with caution, usually starting at the lower end of the dosing range, reflecting the greater frequency of decreased hepatic function, decreased renal function, increased cardiac conduction abnormalities, and polypharmacy [see Dosage and Administration (2.1, 2.3, 2.4) and Clinical Pharmacology (12.3)].
 
 ## 8.6 Renal Impairment
 
 Based on data in adults, no dose adjustment is necessary in adult and pediatric patients with mild to moderate renal impairment (CLCR ≥30 mL/min).
-In adult and pediatric patients with severe renal impairment (CLCR <30 mL/min) and in those with end-stage renal disease, a reduction of 25% of the maximum dosage is recommended [see Dosage and Administration (2.3), Clinical Pharmacology (12.3)].
+In adult and pediatric patients with severe renal impairment (CLCR <30 mL/min) and in those with end-stage renal disease, a reduction of 25% of the maximum dosage is recommended [see Dosage and Administration (2.3) and Clinical Pharmacology (12.3)].
 
 In all patients with renal impairment, dose titration should be performed with caution.
 

@@ -35,12 +35,11 @@ Should suicidal thoughts and behavior emerge during treatment, the prescriber ne
 
 ## 5.2 Dizziness and Ataxia
 
-VIMPAT may cause dizziness and ataxia.
+VIMPAT may cause dizziness and ataxia in adult and pediatric patients.
 In adult patients with partial-onset seizures taking 1 to 3 concomitant AEDs, dizziness was experienced by 25% of patients randomized to the recommended doses (200 to 400 mg/day) of VIMPAT (compared with 8% of placebo patients) and was the adverse event most frequently leading to discontinuation (3%).
 Ataxia was experienced by 6% of patients randomized to the recommended doses (200 to 400 mg/day) of VIMPAT (compared to 2% of placebo patients).
 The onset of dizziness and ataxia was most commonly observed during titration.
 There was a substantial increase in these adverse events at doses higher than 400 mg/day [see Adverse Reactions (6.1)].
-Dizziness and ataxia were also observed in pediatric clinical trials.
 
 ## 5.3 Cardiac Rhythm and Conduction Abnormalities
 
@@ -58,7 +57,7 @@ These events have occurred with both oral and intravenous routes of administrati
 VIMPAT should be used with caution in patients with underlying proarrhythmic conditions such as known cardiac conduction problems (e.g., marked first-degree AV block, second-degree or higher AV block and sick sinus syndrome without pacemaker), severe cardiac disease (such as myocardial ischemia or heart failure, or structural heart disease), and cardiac sodium channelopathies (e.g., Brugada Syndrome).
 VIMPAT should also be used with caution in patients on concomitant medications that affect cardiac conduction, including sodium channel blockers, beta-blockers, calcium channel blockers, potassium channel blockers, and medications that prolong the PR interval [see Drug Interactions (7.2)].
 In such patients, obtaining an ECG before beginning VIMPAT, and after VIMPAT is titrated to steady-state maintenance dose, is recommended.
-In addition, these patients should be closely monitored if they are administered VIMPAT through the intravenous route [see Adverse Reactions (6.1), Drug Interactions (7.2)].
+In addition, these patients should be closely monitored if they are administered VIMPAT through the intravenous route [see Adverse Reactions (6.1) and Drug Interactions (7.2)].
 
 Atrial Fibrillation and Atrial Flutter
 

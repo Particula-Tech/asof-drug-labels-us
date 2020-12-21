@@ -15,11 +15,13 @@ Because clinical trials are conducted under widely varying conditions, adverse r
 VIMPAT Tablet and Oral Solution
 
 In the premarketing development of adjunctive therapy for partial-onset seizures, 1327 adult patients received VIMPAT tablets in controlled and uncontrolled trials, of whom 1000 were treated for longer than 6 months, and 852 for longer than 12 months.
-The monotherapy development program included 425 adult patients, 310 of whom were treated for longer than 6 months, and 254 for longer than 12 months.
+The monotherapy development program for partial-onset seizures included 425 adult patients, 310 of whom were treated for longer than 6 months, and 254 for longer than 12 months.
+
+Partial-Onset Seizures
 
 Monotherapy Historical-Control Trial (Study 1)
 
-In the monotherapy trial, 16% of patients randomized to receive VIMPAT at the recommended doses of 300 and 400 mg/day discontinued from the trial as a result of an adverse reaction.
+In the monotherapy trial for partial-onset seizures, 16% of patients randomized to receive VIMPAT at the recommended doses of 300 and 400 mg/day discontinued from the trial as a result of an adverse reaction.
 The adverse reaction most commonly (≥1% on VIMPAT) leading to discontinuation was dizziness.
 
 Adverse reactions that occurred in this study were generally similar to those that occurred in adjunctive placebo-controlled studies.
@@ -31,7 +33,7 @@ Dizziness, headache, nausea, somnolence, and fatigue all occurred at lower incid
 
 Adjunctive Therapy Controlled Trials (Studies 2, 3, and 4)
 
-In adjunctive therapy controlled clinical trials, the rate of discontinuation as a result of an adverse reaction was 8% and 17% in patients randomized to receive VIMPAT at the recommended doses of 200 and 400 mg/day, respectively, 29% at 600 mg/day (1.5 times greater than the maximum recommended dose), and 5% in patients randomized to receive placebo.
+In adjunctive therapy controlled clinical trials for partial-onset seizures, the rate of discontinuation as a result of an adverse reaction was 8% and 17% in patients randomized to receive VIMPAT at the recommended doses of 200 and 400 mg/day, respectively, 29% at 600 mg/day (1.5 times greater than the maximum recommended dose), and 5% in patients randomized to receive placebo.
 The adverse reactions most commonly (>1% on VIMPAT and greater than placebo) leading to discontinuation were dizziness, ataxia, vomiting, diplopia, nausea, vertigo, and blurred vision.
 
 Table 3 gives the incidence of adverse reactions that occurred in ≥2% of adult patients with partial-onset seizures in the VIMPAT total group and for which the incidence was greater than placebo.
@@ -79,6 +81,13 @@ Safety of VIMPAT was evaluated in clinical studies of pediatric patients 4 to le
 Across studies in pediatric patients with partial-onset seizures, 328 patients 4 to less than 17 years of age received VIMPAT oral solution or tablet, of whom 148 received VIMPAT for at least 1 year.
 Adverse reactions reported in clinical studies of pediatric patients 4 to less than 17 years of age were similar to those seen in adult patients.
 
+Primary Generalized Tonic-Clonic Seizures in Patients (4 Years of Age and Older) Adjunctive Therapy Trial (Study 5)
+
+In the adjunctive therapy placebo-controlled trial for primary generalized tonic-clonic seizures, adverse reactions that occurred in the study were generally similar to those that occurred in partial-onset seizure placebo-controlled studies.
+The most common adverse reactions (≥ 10% on VIMPAT) reported in patients treated with VIMPAT were dizziness (23%), somnolence (17%), headache (14%), and nausea (10%), compared to 7%, 14%, 10%, and 6%, respectively, of patients who received placebo.
+Additionally, an adverse reaction not previously reported of myoclonic epilepsy was reported in 3% of patients treated with VIMPAT compared to 1% of patients who received placebo.
+It is also noted that 2 patients receiving VIMPAT had acute worsening of seizures shortly after drug initiation, including one episode of status epilepticus, compared to no patients receiving placebo.
+
 Laboratory Abnormalities
 
 Abnormalities in liver function tests have occurred in controlled trials with VIMPAT in adult patients with partial-onset seizures who were taking 1 to 3 concomitant anti-epileptic drugs.
@@ -91,7 +100,7 @@ The hepatitis/nephritis was interpreted as a delayed hypersensitivity reaction t
 
 Other Adverse Reactions
 
-The following is a list of adverse reactions reported by patients treated with VIMPAT in all clinical trials in adult patients with partial-onset seizures, including controlled trials and long-term open-label extension trials.
+The following is a list of adverse reactions reported by patients treated with VIMPAT in all clinical trials in adult patients, including controlled trials and long-term open-label extension trials.
 Adverse reactions addressed in other tables or sections are not listed here.
 
 Blood and lymphatic system disorders: neutropenia, anemia
@@ -114,7 +123,9 @@ Psychiatric disorders: confusional state, mood altered, depressed mood
 
 VIMPAT Injection
 
-Adverse reactions with intravenous administration to adult patients generally were similar to those that occurred with the oral formulation, although intravenous administration was associated with local adverse reactions such as injection site pain or discomfort (2.5%), irritation (1%), and erythema (0.5%).
+Adult Patients (17 Years and Older)
+
+Adverse reactions with intravenous administration to adult patients with partial-onset seizures generally were similar to those that occurred with the oral formulation, although intravenous administration was associated with local adverse reactions such as injection site pain or discomfort (2.5%), irritation (1%), and erythema (0.5%).
 One case of profound bradycardia (26 bpm: BP 100/60 mmHg) occurred in a patient during a 15-minute infusion of 150 mg VIMPAT.
 This patient was on a beta-blocker.
 Infusion was discontinued and the patient experienced a rapid recovery.
@@ -160,6 +171,14 @@ Table 4: Adverse Reactions in a 15-minute Infusion Study in Adult Patients with 
 
 Adverse reactions that occurred with infusion of VIMPAT 200 mg over 15-minutes followed by VIMPAT 100 mg administered orally twice per day were similar in frequency to those that occurred in 3-month adjunctive therapy controlled trials.
 Considering the difference in period of observations (1 week vs. 3 months), the incidence of CNS adverse reactions, such as dizziness, somnolence, and paresthesia may be higher with 15-minute administration of VIMPAT Injection than with administration over a 30-to 60-minute period.
+
+The adverse reactions associated with VIMPAT injection in adult patients with primary generalized tonic-clonic seizures are expected to be similar to those seen in adults with partial-onset seizures.
+
+Pediatric Patients (4 Years to less than 17 Years of Age)
+
+The safety of VIMPAT injection was evaluated in a multicenter, open-label study of 77 pediatric patients 4 to less than 17 years of age with epilepsy.
+Infusions were primarily administered over a 30 to 60 minute time period; infusion times less than 30 minutes were not adequately studied in pediatric patients [see Dosage and Administration (2.6)].
+Although no serious or severe adverse reactions were noted at the time of infusion in this small study, the adverse reactions associated with VIMPAT injection in pediatric patients are expected to be similar to those noted in adults.
 
 ## 6.2 Postmarketing Experience
 

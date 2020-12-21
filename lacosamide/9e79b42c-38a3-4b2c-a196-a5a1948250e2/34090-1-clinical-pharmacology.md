@@ -25,6 +25,8 @@ For patients who participated in the controlled trials, the placebo-subtracted m
 
 The pharmacokinetics of VIMPAT have been studied in healthy adult subjects (age range 18 to 87), adults with partial-onset seizures, adults with diabetic neuropathy, and subjects with renal and hepatic impairment.
 
+The pharmacokinetics of VIMPAT are similar in healthy subjects, patients with partial-onset seizures, and patients with primary generalized tonic-clonic seizures.
+
 VIMPAT is completely absorbed after oral administration with negligible first-pass effect with a high absolute bioavailability of approximately 100%.
 The maximum lacosamide plasma concentrations occur approximately 1 to 4 hour post-dose after oral dosing, and elimination half-life is approximately 13 hours.
 Steady state plasma concentrations are achieved after 3 days of twice daily repeated administration.
@@ -87,9 +89,9 @@ The pediatric pharmacokinetic profile of VIMPAT was determined in a population p
 Both apparent clearance and apparent volume of distribution increase as body weight increases.
 For patients weighing 11 kg, 28.9 kg (the mean population body weight), and 70 kg, the typical plasma half-life (t1/2) is 7.4 hours, 10.6 hours, and 14.8 hours, respectively.
 Steady state plasma concentrations are achieved after 3 days of twice daily repeated administration.
-A weightbased dosing regimen is necessary to achieve lacosamide exposures in pediatric patients 4 to less than 17 years of age similar to those observed in adults treated at effective doses of VIMPAT [see Dosage and Administration (2.1)].
+A weight based dosing regimen is necessary to achieve lacosamide exposures in pediatric patients 4 to less than 17 years of age similar to those observed in adults treated at effective doses of VIMPAT [see Dosage and Administration (2.1)].
 
-The pharmacokinetics of VIMPAT in pediatric patients are similar when used as monotherapy or as adjunctive therapy for the treatment of partial-onset seizures.
+The pharmacokinetics of VIMPAT in pediatric patients are similar when used as monotherapy or as adjunctive therapy for the treatment of partial-onset seizures and as adjunctive therapy for the treatment of primary generalized tonic-clonic seizures.
 
 Geriatric Patients
 
