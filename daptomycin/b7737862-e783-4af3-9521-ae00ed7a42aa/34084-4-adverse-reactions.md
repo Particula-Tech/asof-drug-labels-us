@@ -5,8 +5,10 @@ The following adverse reactions are described, or described in greater detail, i
 - •Anaphylaxis/hypersensitivity reactions [see Warnings and Precautions (5.1)]
 - •Myopathy and rhabdomyolysis [see Warnings and Precautions (5.2)]
 - •Eosinophilic pneumonia [see Warnings and Precautions (5.3)]
-- •Peripheral neuropathy [see Warnings and Precautions (5.4)]
-- •Increased International Normalized Ratio (INR)/prolonged prothrombin time [see Warnings and Precautions (5.9) and Drug Interactions (7.2)]
+- •Drug reaction with eosinophilia and systemic symptoms [see Warnings and Precautions (5.4)]
+- •Tubulointerstitial nephritis [see Warnings and Precautions (5.5)]
+- •Peripheral neuropathy [see Warnings and Precautions (5.6)]
+- •Increased International Normalized Ratio (INR)/prolonged prothrombin time [see Warnings and Precautions (5.11) and Drug Interactions (7.2)]
 
 ## 6.1 Clinical Trials Experience
 
@@ -212,8 +214,33 @@ Table 9: Adverse Reactions that Occurred in ≥2% of Pediatric Patients in the D
 
 The safety profile in the clinical trial of cSSSI pediatric patients was similar to that observed in the cSSSI adult patients.
 
-Pediatric use information of staphylococcus aureus bloodstream infections (bacteremia) is approved for Merck & Co., Inc.’s Cubicin (daptomycin for injection).
-However, due to Merck & Co., Inc.’s marketing exclusivity rights, this drug product is not labeled with that pediatric information.
+S. aureus Bacteremia Trial in Pediatric Patients
+
+The safety of daptomycin was evaluated in one clinical trial (in S. aureus bacteremia), which treated 55 pediatric patients with intravenous daptomycin and 26 patients with comparator agents.
+Patients were given age-dependent doses once daily for a treatment period of up to 42 days (mean duration of IV treatment was 12 days).
+The doses by age group were as follows: 12 mg/kg for 1 to <6 years, 9 mg/kg for 7 to 11 years and 7 mg/kg for 12 to 17 years of age [see Clinical Studies (14)].
+Patients treated with daptomycin were (69%) male and (31%) female.
+No patients 1 to <2 years of age were enrolled.
+
+Adverse Reactions Leading to Discontinuation
+
+In the bacteremia study, daptomycin was discontinued in 3/55 (5.5%) patients due to an adverse reaction, while comparator was discontinued in 2/26 (7.7%) patients.
+
+Most Common Adverse Reactions
+
+The rates of the most common adverse reactions, organized by body system, observed in these pediatric patients with bacteremia are displayed in Table 10.
+
+Table 10: Incidence of Adverse Reactions that Occurred in ≥5% of Pediatric Patients in the Daptomycin Treatment-Arm and Greater Than or Equal to the Comparator Treatment-Arm in the Pediatric Bacteremia Trial
+
+| Adverse Reaction | Daptomycin(N = 55) | Comparator(N = 26) |
+| --- | --- | --- |
+| n (%) | n (%) |  |
+| Gastrointestinal disorders |  |  |
+| Vomiting | 6 (10.9) | 2 (7.7) |
+| Investigations |  |  |
+| Blood CPK increased | 4 (7.3) | 0 |
+
+1. *Comparators included intravenous therapy with either vancomycin, cefazolin, or an anti-staphylococcal semi-synthetic penicillin (nafcillin, oxacillin or cloxacillin)
 
 ## 6.2 Post-Marketing Experience
 
@@ -224,9 +251,9 @@ Blood and lymphatic system disorders: anemia, thrombocytopenia
 
 General and administration site conditions: pyrexia
 
-Immune System Disorders: anaphylaxis; hypersensitivity reactions, including angioedema, drug rash with eosinophilia and systemic symptoms (DRESS), pruritus, hives, shortness of breath, difficulty swallowing, truncal erythema, and pulmonary eosinophilia [see Contraindications (4), Warnings and Precautions (5.1)]
+Immune System Disorders: anaphylaxis; hypersensitivity reactions, including angioedema, pruritus, hives, shortness of breath, difficulty swallowing, truncal erythema, and pulmonary eosinophilia [see Contraindications (4), Warnings and Precautions (5.1)]
 
-Infections and Infestations: Clostridium difficile–associated diarrhea [see Warnings and Precautions (5.6)]
+Infections and Infestations: Clostridioides difficile–associated diarrhea [see Warnings and Precautions (5.8)]
 
 Laboratory Investigations: platelet count decreased
 
@@ -234,12 +261,12 @@ Musculoskeletal Disorders: myoglobin increased; rhabdomyolysis (some reports inv
 
 Respiratory, Thoracic, and Mediastinal Disorders: cough, eosinophilic pneumonia, organizing pneumonia [see Warnings and Precautions (5.3)]
 
-Nervous System Disorders: peripheral neuropathy [see Warnings and Precautions (5.4)]
+Nervous System Disorders: peripheral neuropathy [see Warnings and Precautions (5.6)]
 
-Skin and Subcutaneous Tissue Disorders: serious skin reactions, including Stevens-Johnson syndrome and vesiculobullous rash (with or without mucous membrane involvement), acute generalized exanthematous pustulosis
+Skin and Subcutaneous Tissue Disorders: serious skin reactions, including drug reaction with eosinophilia and systemic symptoms (DRESS), Stevens-Johnson syndrome and vesiculobullous rash (with or without mucous membrane involvement), acute generalized exanthematous pustulosis [see Warnings and Precautions (5.4)]
 
 Gastrointestinal Disorders: nausea, vomiting
 
-Renal and urinary disorders: acute kidney injury, renal insufficiency, and renal failure
+Renal and urinary disorders: acute kidney injury, renal insufficiency, renal failure, and tubulointerstitial nephritis (TIN) [see Warnings and Precautions (5.5)]
 
 Special Senses: visual disturbances

@@ -6,7 +6,8 @@ Daptomycin for Injection
 
 500 mg/vial
 
-Must be refrigerated
+| MUST BE REFRIGERATED |
+| --- |
 
 For Intravenous Infusion
 

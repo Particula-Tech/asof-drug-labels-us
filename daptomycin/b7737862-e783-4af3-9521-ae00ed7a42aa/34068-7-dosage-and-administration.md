@@ -10,11 +10,8 @@ Pediatric Patients (1 to 17 Years of Age)
 
 Unlike in adults, do NOT administer daptomycin by injection over a two (2) minute period to pediatric patients.
 
-- •Pediatric Patients 7 to 17 years of Age: Administer daptomycin intravenously by infusion over a 30-minute period [see Dosage and Administration (2.3, 2.7)].
-- •Pediatric Patients 1 to 6 years of Age: Administer daptomycin intravenously by infusion over a 60-minute period [see Dosage and Administration (2.3, 2.7)].
-
-Pediatric use information of staphylococcus aureus bloodstream infections (bacteremia) is approved for Merck & Co., Inc.’s Cubicin (daptomycin for injection).
-However, due to Merck & Co., Inc.’s marketing exclusivity rights, this drug product is not labeled with that pediatric information.
+- •Pediatric Patients 7 to 17 years of Age: Administer daptomycin for injection intravenously by infusion over a 30-minute period [see Dosage and Administration (2.3,2.5, 2.7)].
+- •Pediatric Patients 1 to 6 years of Age: Administer daptomycin for injection intravenously by infusion over a 60-minute period [see Dosage and Administration (2.3,2.5, 2.7)].
 
 ## 2.2 Dosage in Adults for cSSSI
 
@@ -43,8 +40,21 @@ Administer daptomycin for injection 6 mg/kg to adult patients intravenously in 0
 There are limited safety data for the use of daptomycin for injection for more than 28 days of therapy.
 In the Phase 3 trial, there were a total of 14 adult patients who were treated with daptomycin for injection for more than 28 days.
 
-Pediatric use information of staphylococcus aureus bloodstream infections (bacteremia) is approved for Merck & Co., Inc.’s Cubicin (daptomycin for injection).
-However, due to Merck & Co., Inc.’s marketing exclusivity rights, this drug product is not labeled with that pediatric information.
+## 2.5 Dosage in Pediatric Patients (1 to 17 Years of Age) with Staphylococcus aureus Bloodstream Infections (Bacteremia)
+
+The recommended dosage regimens based on age for pediatric patients with S. aureus bloodstream infections (bacteremia) are shown in Table 2.
+Administer daptomycin for injection intravenously in 0.9% sodium chloride injection once every 24 hours for up to 42 days.
+
+Table 2: Recommended Dosage of Daptomycin for Injection in Pediatric Patients (1 to 17 Years of Age) with S. aureus Bacteremia, Based on Age
+
+| Age group | Dosage* | Duration of Therapy |
+| --- | --- | --- |
+| 12 to 17 years | 7 mg/kg once every 24 hours infused over 30 minutes | Up to 42 days |
+| 7 to 11 years | 9 mg/kg once every 24 hours infused over 30 minutes |  |
+| 1 to 6 years | 12 mg/kg once every 24 hours infused over 60 minutes |  |
+
+*Recommended dosage is for pediatric patients (1 to 17 years of age) with normal renal function.
+Dosage adjustment for pediatric patients with renal impairment has not been established.
 
 ## 2.6 Dosage in Patients with Renal Impairment
 
@@ -52,7 +62,7 @@ Adult Patients:
 
 No dosage adjustment is required in adult patients with creatinine clearance (CLCR) greater than or equal to 30 mL/min.
 The recommended dosage regimen for daptomycin for injection in adult patients with CLCR less than 30 mL/min, including adult patients on hemodialysis or continuous ambulatory peritoneal dialysis (CAPD), is 4 mg/kg (cSSSI) or 6 mg/kg (S. aureus bloodstream infections) once every 48 hours (Table 3).
-When possible, daptomycin for injection should be administered following the completion of hemodialysis on hemodialysis days [see Warnings and Precautions (5.2, 5.8), Use in Specific Populations (8.6), and Clinical Pharmacology (12.3)].
+When possible, daptomycin for injection should be administered following the completion of hemodialysis on hemodialysis days [see Warnings and Precautions (5.2, 5.10), Use in Specific Populations (8.6), and Clinical Pharmacology (12.3)].
 
 Table 3: Recommended Dosage of Daptomycin for Injection in Adult Patients
 
@@ -125,13 +135,10 @@ Discard unused portions of daptomycin for injection.
 
 In-Use Storage Conditions for Daptomycin for Injection Once Reconstituted in Acceptable Intravenous Diluents
 
-Stability studies have shown that the reconstituted solution is stable in the vial for 12 hours at room temperature and up to 48 hours if stored under refrigeration at 2° to 8°C (36° to 46°F).
+Stability studies have shown that the reconstituted solution is stable in the vial for 12 hours at room temperature and up to 48 hours if stored under refrigeration at 2 to 8°C (36 to 46°F).
 
 The diluted solution is stable in the infusion bag for 12 hours at room temperature and 48 hours if stored under refrigeration.
 The combined storage time (reconstituted solution in vial and diluted solution in infusion bag) should not exceed 12 hours at room temperature or 48 hours under refrigeration.
-
-Pediatric use information of staphylococcus aureus bloodstream infections (bacteremia) is approved for Merck & Co., Inc.’s Cubicin (daptomycin for injection).
-However, due to Merck & Co., Inc.’s marketing exclusivity rights, this drug product is not labeled with that pediatric information.
 
 ## 2.8 Compatible Intravenous Solutions
 

@@ -151,7 +151,24 @@ The median time to clearance in patients with MSSA was 4 days and in patients wi
 
 Failure of treatment due to persisting or relapsing S. aureus infections was assessed by the Adjudication Committee in 19/120 (16%) daptomycin-treated patients (12 with MRSA and 7 with MSSA) and 11/115 (10%) comparator-treated patients (9 with MRSA treated with vancomycin and 2 with MSSA treated with an anti-staphylococcal semi-synthetic penicillin).
 Among all failures, isolates from 6 daptomycin-treated patients and 1 vancomycin-treated patient developed increasing MICs (reduced susceptibility) by central laboratory testing during or following therapy.
-Most patients who failed due to persisting or relapsing S. aureus infection had deep-seated infection and did not receive necessary surgical intervention [see Warnings and Precautions (5.7)].
+Most patients who failed due to persisting or relapsing S. aureus infection had deep-seated infection and did not receive necessary surgical intervention [see Warnings and Precautions (5.9)].
 
-Pediatric use information of staphylococcus aureus bloodstream infections (bacteremia) is approved for Merck & Co., Inc.’s Cubicin (daptomycin for injection).
-However, due to Merck & Co., Inc.’s marketing exclusivity rights, this drug product is not labeled with that pediatric information.
+Pediatric Patients (1 to 17 Years of Age) with S. aureus Bacteremia
+
+The pediatric S. aureus bacteremia study was designed as a prospective multi-center, randomized, comparative trial to treat pediatric patients aged 1 to 17 years with bacteremia.
+Patients known to have endocarditis or pneumonia at baseline were excluded.
+Patients were enrolled in a stepwise approach into three age groups and given age-dependent doses of daptomycin once daily for up to 42 days.
+The different age groups and doses evaluated were as follows: Adolescents (12 to 17 years, n=14 patients) treated with daptomycin dosed at 7 mg/kg once daily, Children (7 to 11 years, n=19 patients) treated with daptomycin dosed at 9 mg/kg once daily and Children (2 to 6 years, n=22 patients) treated with daptomycin dosed at 12 mg/kg once daily.
+No patients 1 to <2 years of age were enrolled.
+
+Patients were randomized 2:1 to receive daptomycin or a standard of care comparator, which included intravenous therapy with vancomycin, semi-synthetic penicillin, first generation cephalosporin or clindamycin.
+Patients could switch to oral therapy after clinical improvement was demonstrated (no minimum IV dosing was required).
+
+The primary objective of this study was to assess the safety of daptomycin.
+The clinical outcome was determined by resolution or improvement of symptoms at test-of-cure (TOC) visit, 7 to 14 days after the last dose, which was assessed by the site level Blinded Evaluator.
+
+Of the 82 subjects randomized in the study, 81 subjects were treated with daptomycin or comparator and included in the safety population, and 73 had a proven S. aureus bacteremia at Baseline.
+Of these, 51 subjects were randomized to the daptomycin group and 22 subjects were randomized to the comparator group.
+The mean duration of IV therapy was 12 days, with a range of 1 to 44 days.
+Forty-eight subjects switched to oral therapy, and the mean duration of oral therapy was 21 days.
+The clinical success rates determined at 7 to 14 days after last dose of therapy (IV and oral) (TOC visit) were 88% (45/51) for daptomycin and 77% (17/22) for comparator.
