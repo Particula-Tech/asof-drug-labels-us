@@ -1,5 +1,17 @@
 # 6 ADVERSE REACTIONS
 
+The following adverse reactions are also discussed elsewhere in the labeling:
+
+- Lactic Acidosis [see Warnings and Precautions (5.1)]
+- Pancreatitis [see Warnings and Precautions (5.2)]
+- Heart Failure [see Warnings and Precautions (5.3)]
+- Acute Renal Failure [see Warnings and Precautions (5.4)]
+- Vitamin B12 Deficiency [see Warnings and Precautions (5.5)]
+- Hypoglycemia with Concomitant Use with Insulin or Insulin Secretagogues [see Warnings and Precautions (5.6)]
+- Hypersensitivity Reactions [see Warnings and Precautions (5.7)]
+- Severe and Disabling Arthralgia [see Warnings and Precautions (5.8)]
+- Bullous Pemphigoid [see Warnings and Precautions (5.9)]
+
 ## 6.1 Clinical Trials Experience
 
 Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in practice.
@@ -13,7 +25,7 @@ Table 1: Sitagliptin and Metformin Immediate-Release Coadministered to Patients 
 |  | N = 176 | N = 179 | N = 364 | N = 372 |
 | --- | --- | --- | --- | --- |
 |  | Number of Patients (%) |  |  |  |
-|  | Placebo | Sitagliptin 100 mg once daily | Metformin Immediate- Release 500 mg or 1000 mg twice daily Data pooled for the patients given the lower and higher doses of metformin. | Sitagliptin 50 mg twice daily + Metformin Immediate- Release 500 mg or 1000 mg twice daily |
+|  | Placebo | Sitagliptin 100 mg once daily | Metformin HCl Immediate-Release 500 mg or 1000 mg twice daily Data pooled for the patients given the lower and higher doses of metformin. | Sitagliptin 50 mg twice daily + Metformin HCl Immediate- Release 500 mg or 1000 mg twice daily |
 | Diarrhea | 7 (4.0) | 5 (2.8) | 28 (7.7) | 28 (7.5) |
 | Upper Respiratory Tract Infection | 9 (5.1) | 8 (4.5) | 19 (5.2) | 23 (6.2) |
 | Headache | 5 (2.8) | 2 (1.1) | 14 (3.8) | 22 (5.9) |
@@ -34,7 +46,7 @@ Table 2: Pre-selected Gastrointestinal Adverse Reactions (Regardless of Investig
 | --- | --- | --- | --- | --- | --- | --- |
 |  | Number of Patients (%) |  |  |  |  |  |
 |  | Study of Sitagliptin and Metformin Immediate-Release in Patients Inadequately Controlled on Diet and Exercise |  |  |  | Study of Sitagliptin Add-on in Patients Inadequately Controlled on Metformin Immediate-Release Alone |  |
-|  | Placebo | Sitagliptin 100 mg once daily | Metformin Immediate-Release 500 mg or 1000 mg twice daily Data pooled for the patients given the lower and higher doses of metformin. | Sitagliptin 50 mg bid + Metformin Immediate- Release 500 mg or 1000 mg twice daily | Placebo and Metformin Immediate- Release ≥1500 mg daily | Sitagliptin 100 mg once daily and Metformin Immediate- Release ≥1500 mg daily |
+|  | Placebo | Sitagliptin 100 mg once daily | Metformin HCl Immediate-Release 500 mg or 1000 mg twice daily Data pooled for the patients given the lower and higher doses of metformin. | Sitagliptin 50 mg bid + Metformin HCl Immediate- Release 500 mg or 1000 mg twice daily | Placebo and Metformin HCL Immediate- Release ≥1500 mg daily | Sitagliptin 100 mg once daily and Metformin HCl Immediate- Release ≥1500 mg daily |
 | Diarrhea | 7 (4.0) | 5 (2.8) | 28 (7.7) | 28 (7.5) | 6 (2.5) | 11 (2.4) |
 | Nausea | 2 (1.1) | 2 (1.1) | 20 (5.5) | 18 (4.8) | 2 (0.8) | 6 (1.3) |
 | Vomiting | 1 (0.6) | 0 (0.0) | 2 (0.5) | 8 (2.2) | 2 (0.8) | 5 (1.1) |
@@ -88,7 +100,6 @@ With the combination of sitagliptin and metformin immediate-release, no clinical
 Pancreatitis
 
 In a pooled analysis of 19 double-blind clinical trials that included data from 10,246 patients randomized to receive sitagliptin 100 mg/day (N=5429) or corresponding (active or placebo) control (N=4817), the incidence of acute pancreatitis was 0.1 per 100 patient-years in each group (4 patients with an event in 4708 patient-years for sitagliptin and 4 patients with an event in 3942 patient-years for control).
-[See Warnings and Precautions (5.2).]
 
 Sitagliptin
 
@@ -106,15 +117,14 @@ The incidence of laboratory adverse reactions was similar in patients treated wi
 In most but not all studies, a small increase in white blood cell count (approximately 200 cells/microL difference in WBC vs. placebo; mean baseline WBC approximately 6600 cells/microL) was observed due to a small increase in neutrophils.
 This change in laboratory parameters is not considered to be clinically relevant.
 
-Metformin HCl
+Metformin
 
 In controlled clinical trials of metformin of 29 weeks duration, a decrease to subnormal levels of previously normal serum vitamin B12 levels, without clinical manifestations, was observed in approximately 7% of patients.
 Such decrease, possibly due to interference with B12 absorption from the B12-intrinsic factor complex, is, however, very rarely associated with anemia and appears to be rapidly reversible with discontinuation of metformin or vitamin B12 supplementation.
-[See Warnings and Precautions (5.5).]
 
 ## 6.2 Postmarketing Experience
 
 Additional adverse reactions have been identified during postapproval use of sitagliptin with metformin, sitagliptin, or metformin.
 Because these reactions are reported voluntarily from a population of uncertain size, it is generally not possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
 
-Hypersensitivity reactions including anaphylaxis, angioedema, rash, urticaria, cutaneous vasculitis, and exfoliative skin conditions including Stevens-Johnson syndrome [see Warnings and Precautions (5.9)]; upper respiratory tract infection; hepatic enzyme elevations; acute pancreatitis, including fatal and non-fatal hemorrhagic and necrotizing pancreatitis [see Indications and Usage (1); Warnings and Precautions (5.2)]; worsening renal function, including acute renal failure (sometimes requiring dialysis) [see Warnings and Precautions (5.4)]; severe and disabling arthralgia [see Warnings and Precautions (5.10)]; bullous pemphigoid [see Warnings and Precautions (5.11)]; constipation; vomiting; headache; myalgia; pain in extremity; back pain; pruritus; mouth ulceration; stomatitis; cholestatic, hepatocellular, and mixed hepatocellular liver injury; rhabdomyolysis.
+Hypersensitivity reactions including anaphylaxis, angioedema, rash, urticaria, cutaneous vasculitis, and exfoliative skin conditions including Stevens-Johnson syndrome; upper respiratory tract infection; hepatic enzyme elevations; acute pancreatitis, including fatal and non-fatal hemorrhagic and necrotizing pancreatitis [see Indications and Usage (1)]; worsening renal function, including acute renal failure (sometimes requiring dialysis); severe and disabling arthralgia; bullous pemphigoid; constipation; vomiting; headache; myalgia; pain in extremity; back pain; pruritus; mouth ulceration; stomatitis; cholestatic, hepatocellular, and mixed hepatocellular liver injury; rhabdomyolysis.

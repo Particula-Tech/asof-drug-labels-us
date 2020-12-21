@@ -1,19 +1,18 @@
 # 16 HOW SUPPLIED/STORAGE AND HANDLING
 
-Tablets: JANUMET XR, 50 mg/500 mg, are light blue, bi-convex oval, film-coated tablets with "78" debossed on one side.
-They are supplied as follows:
+Tablets supplied as follows:
 
-NDC 0006-0078-61 unit-of-use bottles of 60 NDC 0006-0078-62 unit-of-use bottles of 180 NDC 0006-0078-82 bulk bottles of 1000.
-
-Tablets: JANUMET XR, 50 mg/1000 mg, are light green, bi-convex oval, film-coated tablets with "80" debossed on one side.
-They are supplied as follows:
-
-NDC 0006-0080-61 unit-of-use bottles of 60 NDC 0006-0080-62 unit-of-use bottles of 180 NDC 0006-0080-82 bulk bottles of 1000.
-
-Tablets: JANUMET XR, 100 mg/1000 mg, are blue, bi-convex oval, film-coated tablets with "81" debossed on one side.
-They are supplied as follows:
-
-NDC 0006-0081-31 unit-of-use bottles of 30 NDC 0006-0081-54 unit-of-use bottles of 90 NDC 0006-0081-82 bulk bottles of 1000.
+| Contents | Description | How Supplied | NDC |
+| --- | --- | --- | --- |
+| 50 mg sitagliptin and 500 mg metformin HCl extended-release | light blue, bi-convex oval, film-coated tablets with “78” debossed on one side | unit-of-use bottles of 60 | NDC 0006-0078-61 |
+| unit-of-use bottles of 180 | NDC 0006-0078-62 |  |  |
+| bulk bottles of 1000 | NDC 0006-0078-82 |  |  |
+| 50 mg sitagliptin and 1000 mg metformin HCl extended-release | light green, bi-convex oval, film-coated tablets with “80” debossed on one side | unit-of-use bottles of 60 | NDC 0006-0080-61 |
+| unit-of-use bottles of 180 | NDC 0006-0080-62 |  |  |
+| bulk bottles of 1000 | NDC 0006-0080-82 |  |  |
+| 100 mg sitagliptin and 1000 mg metformin HCl extended-release | blue, bi-convex oval, film-coated tablets with “81” debossed on one side | unit-of-use bottles of 30 | NDC 0006-0081-31 |
+| unit-of-use bottles of 90 | NDC 0006-0081-54 |  |  |
+| bulk bottles of 1000 | NDC 0006-0081-82 |  |  |
 
 Store at 20-25°C (68-77°F), excursions permitted to 15-30°C (59-86°F).
 [See USP Controlled Room Temperature.]

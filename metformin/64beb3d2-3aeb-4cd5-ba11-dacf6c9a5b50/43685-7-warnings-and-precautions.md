@@ -8,7 +8,7 @@ Metformin-associated lactic acidosis was characterized by elevated blood lactate
 Metformin decreases liver uptake of lactate increasing lactate blood levels which may increase the risk of lactic acidosis, especially in patients at risk.
 
 If metformin-associated lactic acidosis is suspected, general supportive measures should be instituted promptly in a hospital setting, along with immediate discontinuation of JANUMET XR.
-In JANUMET XR-treated patients with a diagnosis or strong suspicion of lactic acidosis, prompt hemodialysis is recommended to correct the acidosis and remove accumulated metformin (metformin HCl is dialyzable, with a clearance of up to 170 mL/min under good hemodynamic conditions).
+In JANUMET XR-treated patients with a diagnosis or strong suspicion of lactic acidosis, prompt hemodialysis is recommended to correct the acidosis and remove accumulated metformin (metformin is dialyzable, with a clearance of up to 170 mL/min under good hemodynamic conditions).
 Hemodialysis has often resulted in reversal of symptoms and recovery.
 
 Educate patients and their families about the symptoms of lactic acidosis, and if these symptoms occur instruct them to discontinue JANUMET XR and report these symptoms to their health care provider.
@@ -81,19 +81,12 @@ Consider the risks and benefits of JANUMET XR prior to initiating treatment in p
 Advise patients of the characteristic symptoms of heart failure and to immediately report such symptoms.
 If heart failure develops, evaluate and manage according to current standards of care and consider discontinuation of JANUMET XR.
 
-## 5.4 Assessment of Renal Function
-
-Metformin and sitagliptin are substantially excreted by the kidney.
-
-Metformin HCl
-
-JANUMET XR is contraindicated in patients with severe renal impairment [see Contraindications (4) and Warnings and Precautions (5.1)].
-
-Sitagliptin
+## 5.4 Acute Renal Failure
 
 There have been postmarketing reports of worsening renal function in patients taking sitagliptin with or without metformin, including acute renal failure, sometimes requiring dialysis.
 Before initiation of therapy with JANUMET XR and at least annually thereafter, renal function should be assessed.
 In patients in whom development of renal dysfunction is anticipated, particularly in elderly patients, renal function should be assessed more frequently and JANUMET XR discontinued if evidence of renal impairment is present.
+JANUMET XR is contraindicated in patients with severe renal impairment [see Contraindications (4) and Warnings and Precautions (5.1)].
 
 ## 5.5 Vitamin B12 Deficiency
 
@@ -102,32 +95,12 @@ Such decrease, possibly due to interference with B12 absorption from the B12-int
 Certain individuals (those with inadequate vitamin B12 or calcium intake or absorption) appear to be predisposed to developing subnormal vitamin B12 levels.
 Measure hematologic parameters on an annual basis and vitamin B12 measurements at 2- to 3-year intervals in patients on JANUMET XR and manage any abnormalities [see Adverse Reactions (6.1)].
 
-## 5.6 Change in Clinical Status of Patients with Previously Controlled Type 2 Diabetes
+## 5.6 Hypoglycemia with Concomitant Use with Insulin or Insulin Secretagogues
 
-A patient with type 2 diabetes previously well controlled on JANUMET XR who develops laboratory abnormalities or clinical illness (especially vague and poorly defined illness) should be evaluated promptly for evidence of ketoacidosis or lactic acidosis.
-Evaluation should include serum electrolytes and ketones, blood glucose and, if indicated, blood pH, lactate, pyruvate, and metformin levels.
-If acidosis of either form occurs, JANUMET XR must be stopped immediately and other appropriate corrective measures initiated.
+JANUMET XR may increase the risk of hypoglycemia when combined with insulin and/or an insulin secretagogue (e.g., sulfonylurea) [see Adverse Reactions (6)].
+A lower dose of insulin or insulin secretagogue may be required to minimize the risk of hypoglycemia when used in combination with JANUMET XR [see Drug Interactions (7)].
 
-## 5.7 Use with Medications Known to Cause Hypoglycemia
-
-Sitagliptin
-
-When sitagliptin was used in combination with a sulfonylurea or with insulin, medications known to cause hypoglycemia, the incidence of hypoglycemia was increased over that of placebo used in combination with a sulfonylurea or with insulin [see Adverse Reactions (6)].
-Therefore, patients also receiving an insulin secretagogue (e.g., sulfonylurea) or insulin may require a lower dose of the insulin secretagogue or insulin to reduce the risk of hypoglycemia [see Drug Interactions (7.4)].
-
-Metformin HCl
-
-Hypoglycemia does not occur in patients receiving metformin alone under usual circumstances of use, but could occur when caloric intake is deficient, when strenuous exercise is not compensated by caloric supplementation, or during concomitant use with other glucose-lowering agents (such as sulfonylureas and insulin) or ethanol.
-Elderly, debilitated, or malnourished patients, and those with adrenal or pituitary insufficiency or alcohol intoxication are particularly susceptible to hypoglycemic effects.
-Hypoglycemia may be difficult to recognize in the elderly, and in people who are taking β-adrenergic blocking drugs.
-
-## 5.8 Loss of Control of Blood Glucose
-
-When a patient stabilized on any diabetic regimen is exposed to stress such as fever, trauma, infection, or surgery, a temporary loss of glycemic control may occur.
-At such times, it may be necessary to withhold JANUMET XR and temporarily administer insulin.
-JANUMET XR may be reinstituted after the acute episode is resolved.
-
-## 5.9 Hypersensitivity Reactions
+## 5.7 Hypersensitivity Reactions
 
 There have been postmarketing reports of serious hypersensitivity reactions in patients treated with sitagliptin, one of the components of JANUMET XR.
 These reactions include anaphylaxis, angioedema, and exfoliative skin conditions including Stevens-Johnson syndrome.
@@ -137,7 +110,7 @@ If a hypersensitivity reaction is suspected, discontinue JANUMET XR, assess for 
 
 Use caution in a patient with a history of angioedema to another DPP-4 inhibitor because it is unknown whether such patients will be predisposed to angioedema with JANUMET XR.
 
-## 5.10 Severe and Disabling Arthralgia
+## 5.8 Severe and Disabling Arthralgia
 
 There have been postmarketing reports of severe and disabling arthralgia in patients taking DPP-4 inhibitors.
 The time to onset of symptoms following initiation of drug therapy varied from one day to years.
@@ -145,13 +118,9 @@ Patients experienced relief of symptoms upon discontinuation of the medication.
 A subset of patients experienced a recurrence of symptoms when restarting the same drug or a different DPP-4 inhibitor.
 Consider DPP-4 inhibitors as a possible cause for severe joint pain and discontinue drug if appropriate.
 
-## 5.11 Bullous Pemphigoid
+## 5.9 Bullous Pemphigoid
 
 Postmarketing cases of bullous pemphigoid requiring hospitalization have been reported with DPP-4 inhibitor use.
 In reported cases, patients typically recovered with topical or systemic immunosuppressive treatment and discontinuation of the DPP-4 inhibitor.
 Tell patients to report development of blisters or erosions while receiving JANUMET XR.
 If bullous pemphigoid is suspected, JANUMET XR should be discontinued and referral to a dermatologist should be considered for diagnosis and appropriate treatment.
-
-## 5.12 Macrovascular Outcomes
-
-There have been no clinical studies establishing conclusive evidence of macrovascular risk reduction with JANUMET XR.
