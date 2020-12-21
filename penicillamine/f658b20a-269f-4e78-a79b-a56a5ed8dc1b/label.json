@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "ANDA211735"
+  ],
+  "inn": "penicillamine",
+  "labeler": "Granules Pharmaceuticals Inc.",
+  "package_ndcs": [
+    "70010-907-01"
+  ],
+  "products": [
+    {
+      "form": "CAPSULE",
+      "generic": "penicillamine",
+      "name": "Penicillamine"
+    }
+  ],
+  "setid": "f658b20a-269f-4e78-a79b-a56a5ed8dc1b",
+  "source": "dailymed"
+}
