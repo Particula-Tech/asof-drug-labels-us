@@ -8,12 +8,6 @@ Amlodipine Besylate – 2.5 mg Tablets (amlodipine besylate equivalent to 2.5 mg
 | --- | --- |
 | NDC 59762-2242-3 | Bottle of 300 |
 
-Amlodipine Besylate – 2.5 mg Tablets (amlodipine besylate equivalent to 2.5 mg of amlodipine per tablet) are supplied as white, diamond, flat-faced, beveled edged engraved with "G1520" on one side and "2.5" on the other side and supplied as follows:
-
-| NDC 59762-1520-1 | Bottle of 90 |
-| --- | --- |
-| NDC 59762-1520-2 | Bottle of 300 |
-
 5 mg Tablets
 
 Amlodipine Besylate – 5 mg Tablets (amlodipine besylate equivalent to 5 mg of amlodipine per tablet) are white, elongated octagon, flat-faced, beveled edged engraved with both "NORVASC" and "5" on one side and plain on the other side and supplied as follows:
@@ -23,12 +17,6 @@ Amlodipine Besylate – 5 mg Tablets (amlodipine besylate equivalent to 5 mg of 
 | NDC 59762-2010-3 | Bottle of 300 |
 | NDC 59762-2010-1 | Bottle of 1000 |
 
-Amlodipine Besylate – 5 mg Tablets (amlodipine besylate equivalent to 5 mg of amlodipine per tablet) are white, elongated octagon, flat-faced, beveled edged engraved with "G1530" on one side and "5" on the other side and supplied as follows:
-
-| NDC 59762-1530-1 | Bottle of 90 |
-| --- | --- |
-| NDC 59762-1530-3 | Bottle of 1000 |
-
 10 mg Tablets
 
 Amlodipine Besylate – 10 mg Tablets (amlodipine besylate equivalent to 10 mg of amlodipine per tablet) are white, round, flat-faced, beveled edged engraved with both "NORVASC" and "10" on one side and plain on the other side and supplied as follows:
@@ -36,13 +24,6 @@ Amlodipine Besylate – 10 mg Tablets (amlodipine besylate equivalent to 10 mg o
 | NDC 59762-2135-9 | bottle of 90 |
 | --- | --- |
 | NDC 59762-2135-1 | bottle of 1000 |
-
-Amlodipine Besylate – 10 mg Tablets (amlodipine besylate equivalent to 10 mg of amlodipine per tablet) are white, round, flat-faced, beveled edged engraved with "G1540" on one side and "10" on the other side and supplied as follows:
-
-| NDC 59762-1540-1 | Bottle of 90 |
-| --- | --- |
-| NDC 59762-1540-2 | Bottle of 300 |
-| NDC 59762-1540-3 | Bottle of 1000 |
 
 Storage
 
