@@ -77,6 +77,9 @@ Periodic determination of serum lipids should be obtained, and the drug withdraw
 ### (A) HMG-CoA Reductase Inhibitors
 
 The concomitant administration of LOPID with simvastatin is contraindicated (see CONTRAINDICATIONS and WARNINGS).
+Avoid concomitant use of LOPID with rosuvastatin.
+If concomitant use cannot be avoided, initiate rosuvastatin at 5 mg once daily.
+The dose of rosuvastatin should not exceed 10 mg once daily.
 The risk of myopathy and rhabdomyolysis is increased with combined gemfibrozil and HMG-CoA reductase inhibitor therapy.
 Myopathy or rhabdomyolysis with or without acute renal failure have been reported as early as three weeks after initiation of combined therapy or after several months (see WARNINGS).
 There is no assurance that periodic monitoring of creatine kinase will prevent the occurrence of severe myopathy and kidney damage.
