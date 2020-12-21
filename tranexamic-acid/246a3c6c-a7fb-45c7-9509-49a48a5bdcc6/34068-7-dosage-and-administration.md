@@ -3,7 +3,7 @@
 ## 2.1 Recommended Dosage
 
 The recommended dose of tranexamic acid injection is 10 mg/kg actual body weight intravenously administered as a single dose, immediately before tooth extractions.
-Infuse no more than 10 mL/minute to avoid hypotension [see Warnings and Precautions (5.1)].
+Infuse no more than 1 mL/minute to avoid hypotension [see Warnings and Precautions (5.1)].
 Following tooth extraction, tranexamic acid injection may be administered for 2 to 8 days at a dose of 10 mg/kg actual body weight 3 to 4 times daily, intravenously.
 Parenteral drug products should be inspected visually for particulate matter and discoloration prior to administration, whenever solution and container permit.
 For intravenous infusion, tranexamic acid injection may be mixed with most solutions for infusion such as electrolyte solutions, carbohydrate solutions, amino acid solutions, and Dextran solutions.
