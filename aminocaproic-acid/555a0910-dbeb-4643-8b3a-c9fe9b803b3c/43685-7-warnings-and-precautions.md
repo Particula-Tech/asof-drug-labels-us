@@ -13,7 +13,7 @@ Clinical presentation may range from mild myalgias with weakness and fatigue to 
 Muscle enzymes, especially creatine phosphokinase (CPK) are elevated.
 CPK levels should be monitored in patients on long-term therapy.
 Aminocaproic Acid Tablets administration should be stopped if a rise in CPK is noted.
-Resolution follows discontinuation of Aminocaproic Acid Tablets; however, the syndrome may recur if Aminocaproic Acid Tablets is restarted.
+Resolution follows discontinuation of AMICAR; however, the syndrome may recur if Aminocaproic Acid Tablets is restarted.
 
 The possibility of cardiac muscle damage should also be considered when skeletal myopathy occurs.
 One case of cardiac and hepatic lesions observed in man has been reported.

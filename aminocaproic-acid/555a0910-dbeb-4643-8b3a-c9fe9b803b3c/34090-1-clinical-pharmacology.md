@@ -12,6 +12,6 @@ Correspondingly, the volume of distribution after intravenous administration has
 
 Renal excretion is the primary route of elimination.
 Sixty-five percent of the dose is recovered in the urine as unchanged drug and 11 % of the dose appears as the metabolite adipic acid.
-Renal clearance (116 mL/min) approximates endogenous creatinine clearance.
+Renal clearance (116 mUmin) approximates endogenous creatinine clearance.
 The total body clearance is 169 ml/min.
 The terminal elimination half-life for Aminocaproic Acid Tablets is approximately 2 hours.
