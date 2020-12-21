@@ -1,13 +1,15 @@
 # 14 CLINICAL STUDIES
 
-## 14.1 Clinical Trials with Intravenous Administration
-
-The safety and effectiveness of BENLYSTA administered intravenously plus standard therapy were evaluated in 4 randomized, double‑blind, placebo‑controlled trials involving 2,581 adult patients (Trial 1, NCT #00071487, Trial 2, NCT #00410384, Trial 3, NCT #00424476, and Trial 4 NCT #01632241), and one trial involving 93 pediatric patients (Trial 5, NCT #01649765) with SLE according to the American College of Rheumatology criteria.
-Patients with severe active lupus nephritis and severe active CNS lupus were excluded.
+The safety and effectiveness of BENLYSTA administered intravenously plus standard therapy were evaluated in 4 randomized, double‑blind, placebo‑controlled trials involving 2,581 adult patients with SLE (Trial 1, NCT #00071487, Trial 2, NCT #00410384, Trial 3, NCT #00424476, and Trial 4 NCT #01632241), and one trial involving 93 pediatric patients (Trial 6, NCT #01649765) with SLE according to the American College of Rheumatology criteria.
+In these trials, patients with severe active lupus nephritis and severe active CNS lupus were excluded.
 Patients were on a stable standard therapy SLE treatment regimen comprising any of the following (alone or in combination): corticosteroids, antimalarials, NSAIDs, and immunosuppressives.
 Use of other biologics and intravenous cyclophosphamide was not permitted.
 
-Trial 1: BENLYSTA 1 mg/kg, 4 mg/kg, 10 mg/kg - Intravenous
+In addition, the safety and effectiveness of BENLYSTA administered intravenously plus standard therapy was evaluated in a randomized, double‑blind, placebo‑controlled trial in 448 adult patients with active lupus nephritis (Trial 5; NCT #01639339).
+
+## 14.1 Clinical Trials with Intravenous Administration in Adults with SLE
+
+Trial 1: SLE – BENLYSTA 1 mg/kg, 4 mg/kg, 10 mg/kg - Intravenous
 
 Trial 1 enrolled 449 patients and evaluated doses of 1, 4, and 10 mg/kg BENLYSTA plus standard therapy compared with placebo plus standard therapy over 52 weeks in patients with SLE.
 Patients had to have a Safety of Estrogens in Lupus Erythematosus National Assessment-Systemic Lupus Erythematosus Disease Activity Index (SELENA-SLEDAI) score of >4 at baseline and a history of autoantibodies (anti-nuclear antibody [ANA] and/or anti-double-stranded DNA [anti-dsDNA]), but 28% of the population was autoantibody negative at baseline.
@@ -16,7 +18,7 @@ No significant differences between any of the groups receiving BENLYSTA and the 
 Exploratory analysis of this trial identified a subgroup of patients (72%) who were autoantibody positive in whom BENLYSTA appeared to offer benefit.
 The results of this trial informed the design of Trials 2 and 3 and led to the selection of a target population and indication that is limited to autoantibody-positive SLE patients.
 
-Trials 2, 3 and 4: BENLYSTA 1 mg/kg and 10 mg/kg - Intravenous
+Trials 2, 3 and 4: SLE – BENLYSTA 1 mg/kg and 10 mg/kg - Intravenous
 
 Trials 2 and 3 were randomized, double‑blind, placebo‑controlled trials in patients with SLE that were similar in design except duration - Trial 2 (N = 819) was 76 weeks’ duration and Trial 3 (N = 865) was 52 weeks’ duration.
 Patients had active SLE disease with a SELENA‑SLEDAI score ≥6 and positive autoantibody test results at screening.
@@ -68,7 +70,7 @@ The reduction in disease activity seen in the SRI-4 was related primarily to imp
 Effect in Black/African-American Patients: In Trials 2 and 3, exploratory sub-group analyses of SRI-4 response rate in Black patients (n = 148) were performed.
 The SRI-4 response rate in Black patients in groups receiving BENLYSTA plus standard therapy was less than that in the group receiving placebo plus standard therapy (22/50 or 44% for placebo, 15/48 or 31% for BENLYSTA 1 mg/kg, and 18/50 or 36% for BENLYSTA 10 mg/kg).
 
-Trial 4 was a 2:1 randomized, placebo-controlled trial in Black patients (N = 448) conducted in North America, South America, Europe, and Africa (same study design as Trials 2 and 3 with exceptions of patients having a baseline SELENA-SLEDAI score of >8 and using the modified SLEDAI-2K scoring for proteinuria).
+Trial 4 was a 2:1 randomized, placebo-controlled trial in Black patients with SLE (N = 448) conducted in North America, South America, Europe, and Africa (same study design as Trials 2 and 3 with exceptions of patients having a baseline SELENA-SLEDAI score of >8 and using the modified SLEDAI-2K scoring for proteinuria).
 The population had a mean age of 39 years (range: 18 to 71) and 97% were female.
 The proportion of Black patients achieving an SRI-S2K response at Week 52 (primary endpoint), and the individual components of the endpoint, were higher in the group receiving BENLYSTA 10 mg/kg plus standard therapy relative to the group receiving placebo plus standard therapy.
 However, the treatment difference was not statistically significant (Table 5).
@@ -99,7 +101,86 @@ The proportion of patients having at least 1 severe flare over 52 weeks was not 
 In Trial 2, 18% of patients receiving BENLYSTA 10 mg/kg plus standard therapy and 16% of patients receiving BENLYSTA 1 mg/kg plus standard therapy had a severe flare compared with 24% of patients receiving placebo plus standard therapy.
 In Trial 3, 14%, 18%, and 23% of patients receiving BENLYSTA 10 mg/kg, BENLYSTA 1 mg/kg and placebo, respectively, plus standard therapy had a severe flare.
 
-Trial 5: BENLYSTA 10 mg/kg in Pediatric Patients - Intravenous
+## 14.2 Clinical Trials with Intravenous Administration in Adults with Lupus Nephritis
+
+Trial 5: Lupus Nephritis – BENLYSTA 10 mg/kg - Intravenous
+
+The safety and effectiveness of BENLYSTA 10 mg/kg administered intravenously over 1 hour on Days 0, 14, 28, and then every 28 days plus standard therapy were evaluated in a 104-week, randomized, double‑blind, placebo‑controlled trial in 448 patients with active proliferative and/or membranous lupus nephritis (Trial 5).
+The patients had a clinical diagnosis of SLE according to American College of Rheumatology classification criteria; biopsy-proven lupus nephritis Class III, IV, and/or V; and had active renal disease at screening requiring standard therapy: corticosteroids with 1) mycophenolate for induction followed by mycophenolate for maintenance, or 2) cyclophosphamide for induction followed by azathioprine for maintenance.
+This trial was conducted in Asia, North America, South America, and Europe.
+The mean age of patients was 33 years (range: 18 to 77); the majority (88%) were female.
+
+The primary efficacy endpoint was Primary Efficacy Renal Response (PERR) at Week 104, defined as a response at Week 100 confirmed by a repeat measurement at Week 104 of the following parameters: urine protein:creatinine ratio (uPCR) ≤0.7 g/g and estimated glomerular filtration rate (eGFR) ≥60 mL/min/1.73 m2 or no decrease in eGFR of >20% from pre-flare value.
+
+The major secondary endpoints included:
+
+- •Complete Renal Response (CRR) defined as a response at Week 100 confirmed by a repeat measurement at Week 104 of the following parameters: uPCR <0.5 g/g and eGFR ≥90 mL/min/1.73 m2 or no decrease in eGFR of >10% from pre-flare value.
+- •PERR at Week 52.
+- •Time to renal-related event or death (renal-related event defined as first event of end-stage renal disease, doubling of serum creatinine, renal worsening [defined by quantified increase in proteinuria and/or impaired renal function], or receipt of renal disease-related prohibited therapy due to inadequate lupus nephritis control or renal flare management).
+
+The proportion of patients achieving PERR at Week 104 was significantly higher in patients receiving BENLYSTA plus standard therapy compared with placebo plus standard therapy (Table 6).
+The major secondary endpoints also showed significant improvement with BENLYSTA plus standard therapy compared with placebo plus standard therapy (Table 6 and Table 7).
+
+Table 6.
+Efficacy Results in Adults with Lupus Nephritis (Trial 5)
+
+| Efficacy Endpointa | Placebo + Standard Therapy n = 223 | BENLYSTA + Standard Therapy n = 223 | Odds Ratio (OR) vs. Placebo (95% CI) |
+| --- | --- | --- | --- |
+| Primary Efficacy Renal Response (PERR) at Week 104b,c |  |  |  |
+| Responders | 32% | 43% | 1.6(1.0, 2.3)P = 0.031 |
+| Components of PERR |  |  |  |
+| Urine protein:creatinine ratio ≤0.7 g/g | 34% | 44% | 1.5(1.0, 2.3) |
+| eGFR ≥60 mL/min/1.73 m2 or no decrease in eGFR from pre-flare value of >20% | 50% | 57% | 1.3(0.9, 1.9) |
+| Complete Renal Response (CRR) at Week 104b,c |  |  |  |
+| Responders | 20% | 30% | 1.7(1.1, 2.7)P = 0.017 |
+| Components of CRR |  |  |  |
+| Urine protein:creatinine ratio <0.5 g/g | 29% | 39% | 1.6(1.1, 2.4) |
+| eGFR ≥90 mL/min/1.73 m2 or no decrease in eGFR from pre-flare value of >10% | 40% | 47% | 1.3(0.9, 2.0) |
+| PERR at Week 52b |  |  |  |
+| Responders | 35% | 47% | 1.6(1.1, 2.4)P = 0.025 |
+| eGFR = Estimated glomerular filtration rate. a PERR at Week 104 was the primary efficacy analysis; CRR at Week 104 and PERR at Week 52 were included in pre-specified testing hierarchy. b In order to be considered a responder, steroid treatment had to be reduced to ≤10 mg/day from Week 24. Patients who discontinued treatment early, received prohibited medication or increases in background standard therapy, or withdrew from the study were considered non-responders. Prohibited medications and increases in background standard therapy were defined as: 1) use of corticosteroids above that allowed by protocol; 2) additional immunosuppressive agents (except topicals) beyond their induction/maintenance regimens; 3) angiotensin converting enzyme inhibitors (ACE) inhibitors, angiotensin II receptor blockers (ARBs), or antimalarials initiated after Week 24; 4) exceeding protocol-permitted doses for standard therapy (cyclophosphamide, azathioprine, mycophenolate); or 5) other biologics, IV immunoglobulin, or plasmapheresis. c The percentage of patients who did not take prohibited medications or have an increase in background standard therapy at Week 104 was 83% for BENLYSTA and 74% for placebo. |  |  |  |
+
+In descriptive subgroup analyses, the PERR and CRR rates were examined by induction therapy (mycophenolate or cyclophosphamide), biopsy class (Class III or IV, Class III + V or Class IV + V, or Class V), and uPCR levels at baseline (<3 g/g or ≥3 g/g; post-hoc analysis) (Figure 1).
+
+Figure 1.
+Odds Ratio of PERR and CRR at Week 104 across Subgroupsa, b (Trial 5)
+
+a Class III = Focal proliferative lupus nephritis; Class IV = Diffuse proliferative lupus nephritis; Class V = Membranous lupus nephritis; Class III + V = Mixed membranous-focal proliferative lupus nephritis; Class IV + V = Mixed membranous-diffuse proliferative lupus nephritis.
+
+b Baseline urine protein:creatinine ratio (uPCR) was a post-hoc analysis.
+
+The proportion of responders for PERR by visit through Week 104 is shown in Figure 2.
+
+Figure 2.
+Primary Efficacy Renal Response (PERR) in Adults with Lupus Nephritis (+/- Standard Error) by Visita (Trial 5)
+
+a Analysis is descriptive; bars represent standard error.
+The same patients may not have responded at each timepoint.
+
+In Trial 5, subjects who received BENLYSTA were significantly less likely to experience a renal-related event or death compared with placebo (Table 7).
+
+Table 7.
+Time to Renal-Related Event or Death in Adults with Lupus Nephritis (Trial 5)
+
+| Efficacy Endpoint | Placebo + Standard Therapy n = 223 | BENLYSTA + Standard Therapy n = 223 | Hazard Ratio (HR) vs. Placebo (95% CI) |  |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| Time to Renal-Related Event or Deatha |  |  |  |  |  |  |  |
+| Percentage of patients with eventbNumber (n) of patients with event | 28%63 | 16%35 |  |  |  |  |  |
+| Time to eventc |  |  | 0.5(0.3, 0.8)P = 0.001 |  |  |  |  |
+| Components of endpointdPercentage of patients with event |  |  |  |  |  |  |  |
+| End-stage renal disease (ESRD) | 0.4% | 1% |  |  |  |  |  |
+| Doubling of serum creatinine from baseline | 4% | 1% |  |  |  |  |  |
+| Renal worseninge | 18% | 8% |  |  |  |  |  |
+| Renal-related treatment failuref | 16% | 9% |  |  |  |  |  |
+| Death | 1% | 0.4% |  |  |  |  |  |
+| a Time to renal-related event or death included in pre-specified testing hierarchy. b When excluding deaths from analysis (1 for BENLYSTA; 2 for placebo), the percentage of patients with a renal-related event was 15% for BENLYSTA compared with 27% for placebo (HR = 0.5; 95% CI: 0.3, 0.8). c Subjects who discontinued treatment, were withdrawn from the study, lost to follow-up, or had a treatment failure not related to renal disease were censored on the date of the event. Subjects who completed the 104-week treatment period were censored at the Week 104 visit. Time to event was defined as (event date minus treatment start date plus 1 day). d Patients could have had more than one event; the first event contributed to the overall endpoint. e Renal worsening was prospectively defined as the development of increased proteinuria and/or impaired renal function defined as: 1) Increased proteinuria (using spot urine): a reproducible increase in 24-hour urine protein levels to >1 g/g if the baseline value was <0.2 g/g or >2 g/g if the baseline value was between 0.2 g/g and 1 g/g or more than twice the value at baseline if the baseline value was >1 g/g; and 2) Impaired renal function: a reproducible decrease in eGFR of >20% accompanied by at least 1 of the following: proteinuria (>1 g/g), red blood cell casts, or white blood cell casts. f Renal-related treatment failure was prospectively defined as intake of prohibited medications for adjudicated inadequate lupus nephritis control or renal flare management. |  |  |  |  |  |  |  |
+
+In descriptive subgroup analyses of time to renal-related event or death, results were consistent with the overall endpoint regardless of induction therapy (mycophenolate or cyclophosphamide), biopsy class (Class III or IV, Class III + V or Class IV + V, or Class V; post-hoc analysis), and baseline proteinuria (<3 g/g or ≥3 g/g; post-hoc analysis).
+The treatment difference was primarily driven by the renal worsening and renal-related treatment failure components of the endpoint.
+
+## 14.3 Clinical Trials with Intravenous Administration in Pediatric Patients with SLE
+
+Trial 6: SLE – BENLYSTA 10 mg/kg in Pediatric Patients - Intravenous
 
 The safety and efficacy of BENLYSTA was evaluated in an international, randomized, double-blind, placebo‑controlled, 52-week, pharmacokinetics (PK), efficacy and safety study conducted in 93 pediatric patients with a clinical diagnosis of SLE according to the American College of Rheumatology classification criteria.
 Patients had active SLE disease, defined as a SELENA-SLEDAI score ≥6 and positive autoantibodies at screening as defined in the adult trials.
@@ -112,35 +193,37 @@ Overall, 19% of pediatric patients had some degree of renal activity and less th
 Randomization into age-related treatment cohorts was stratified by screening SELENA-SLEDAI scores (6 to 12 vs >13) and age (5 to 11 years vs 12 to 17 years).
 
 The primary efficacy endpoint was the SLE Responder Index (SRI-4) at Week 52, as described in the adult intravenous trials.
-There was a numerically higher proportion of pediatric patients achieving a response in SRI‑4 and its components in pediatric patients receiving BENLYSTA plus standard therapy compared with placebo plus standard therapy (Table 6).
+There was a numerically higher proportion of pediatric patients achieving a response in SRI‑4 and its components in pediatric patients receiving BENLYSTA plus standard therapy compared with placebo plus standard therapy (Table 8).
 
-Table 6.
-Pediatric Response Rate at Week 52a
+Table 8.
+Pediatric Response Rate at Week 52a (Trial 6)
 
-| Response | Placebo(n = 40) | BENLYSTA10 mg/kg(n = 53) |  |  |  |  |  |  |  |  |  |  |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| SLE Responder Index | 44% | 53% |  |  |  |  |  |  |  |  |  |  |
-| Odds Ratio(95% CI) vs. Placebo |  | 1.49(0.64, 3.46) |  |  |  |  |  |  |  |  |  |  |
-| Components of SLE Responder Index |  |  |  |  |  |  |  |  |  |  |  |  |
-| Percent of patients with reduction in SELENA‑SLEDAI ≥4 | 44% | 55% |  |  |  |  |  |  |  |  |  |  |
-| Percent of patients with no worsening by BILAG index | 62% | 74% |  |  |  |  |  |  |  |  |  |  |
-| Percent of patients with no worsening by PGA | 67% | 76% |  |  |  |  |  |  |  |  |  |  |
-| Other endpoints |  |  |  |  |  |  |  |  |  |  |  |  |
-| SRI-6 using SELENA SLEDAI ≥6-point reduction | 34% | 41% |  |  |  |  |  |  |  |  |  |  |
-| Proportion of subjects with a sustained SRI response | 41% | 43% |  |  |  |  |  |  |  |  |  |  |
-| a Based on a non-powered trial. |  |  |  |  |  |  |  |  |  |  |  |  |
+| Response | Placebo +Standard Therapy(n = 40) | BENLYSTA10 mg/kg +Standard Therapy(n = 53) |
+| --- | --- | --- |
+| SLE Responder Index | 44% | 53% |
+| Odds Ratio(95% CI) vs. Placebo |  | 1.49(0.64, 3.46) |
+| Components of SLE Responder Index |  |  |
+| Percent of patients with reduction in SELENA‑SLEDAI ≥4 | 44% | 55% |
+| Percent of patients with no worsening by BILAG index | 62% | 74% |
+| Percent of patients with no worsening by PGA | 67% | 76% |
+| Other endpoints |  |  |
+| SRI-6 using SELENA SLEDAI ≥6-point reduction | 34% | 41% |
+| Proportion of patients with a sustained SRI response | 41% | 43% |
+| a Based on a non-powered trial. |  |  |
 
 Effect on Concomitant Steroid Treatment: At baseline, 95% of pediatric patients were receiving prednisone.
 Among those pediatric patients, 20% of pediatric patients receiving BENLYSTA plus standard therapy reduced their average prednisone dose by at least 25% per day during Weeks 44 through 52 compared with 21% of pediatric patients on placebo plus standard therapy.
 
-Effect on Severe SLE Flares: In Trial 5, the probability of experiencing a severe SLE flare, as measured by the modified SELENA-SLEDAI Flare Index, excluding severe flares triggered only by an increase of the SELENA-SLEDAI score to >12, was calculated.
-The proportion of pediatric patients reporting at least one severe flare during the study was numerically lower in pediatric patients receiving BENLYSTA plus standard therapy (23%) compared with those receiving placebo plus standard therapy (43%).
-Pediatric patients receiving BENLYSTA 10 mg/kg plus standard therapy had a 62% lower risk of experiencing a severe flare during the 52 weeks of observation, relative to the placebo plus standard therapy group.
-Of the pediatric patients experiencing a severe flare, the median time to the first severe flare was 160 days in pediatric patients receiving BENLYSTA plus standard therapy compared with 82 days in pediatric patients receiving placebo plus standard therapy.
+Effect on Severe SLE Flares: In Trial 6, the probability of experiencing a severe SLE flare, as measured by the modified SELENA-SLEDAI Flare Index, excluding severe flares triggered only by an increase of the SELENA-SLEDAI score to >12, was calculated.
+The proportion of pediatric patients reporting at least one severe flare during the study was numerically lower in pediatric patients receiving BENLYSTA plus standard therapy (17%) compared with those receiving placebo plus standard therapy (35%).
+Pediatric patients receiving BENLYSTA 10 mg/kg plus standard therapy had a 64% lower risk of experiencing a severe flare during the 52 weeks of observation, relative to the placebo plus standard therapy group.
+Of the pediatric patients experiencing a severe flare, the median time to the first severe flare was 150 days in pediatric patients receiving BENLYSTA plus standard therapy compared with 113 days in pediatric patients receiving placebo plus standard therapy.
 
-## 14.2 Clinical Trials with Subcutaneous Administration in Adults
+## 14.4 Clinical Trials with Subcutaneous Administration in Adults with SLE
 
-The safety and effectiveness of BENLYSTA administered subcutaneously were evaluated in a randomized, double‑blind, placebo‑controlled trial involving 836 adult patients with SLE according to the American College of Rheumatology criteria (Trial 6, NCT #01484496).
+Trial 7: SLE – BENLYSTA 200 mg – Subcutaneous
+
+The safety and effectiveness of BENLYSTA administered subcutaneously were evaluated in a randomized, double‑blind, placebo‑controlled trial involving 836 adult patients with SLE according to the American College of Rheumatology criteria (Trial 7, NCT #01484496).
 Patients with severe active lupus nephritis and severe active CNS lupus were excluded.
 The trial (2:1 randomization) evaluated BENLYSTA 200 mg once weekly plus standard therapy (n = 556) compared with placebo once weekly plus standard therapy (n = 280) over 52 weeks in patients with active SLE disease.
 Patients had to have a SELENA-SLEDAI score of ≥8 and positive autoantibody test (anti-nuclear antibody [ANA] and/or anti-double-stranded DNA [anti-dsDNA]) results at screening.
@@ -162,10 +245,10 @@ The primary efficacy endpoint was the SLE Responder Index-4 (SRI-4) at Week 52 a
 Secondary efficacy endpoints included time to first severe flare (as measured by the modified SELENA-SLEDAI SLE Flare Index) and the proportion of patients receiving prednisone >7.5 mg/day at baseline whose average prednisone dose had been reduced by ≥25% to ≤7.5 mg/day during Weeks 40 through 52.
 
 The proportion of patients achieving an SRI-4 response was significantly higher in patients receiving BENLYSTA plus standard therapy compared with placebo plus standard therapy.
-The trends comparing the treatment groups with respect to the probability of response for the individual components of the endpoint were consistent with that of the SRI-4 (Table 7).
+The trends comparing the treatment groups with respect to the probability of response for the individual components of the endpoint were consistent with that of the SRI-4 (Table 9).
 
-Table 7.
-Clinical Response Rate in Patients with SLE after 52 Weeks of Treatment
+Table 9.
+Clinical Response Rate in Patients with SLE after 52 Weeks of Treatment (Trial 7)
 
 | Response | Placebo +Standard Therapy(n = 279) | BENLYSTA +Standard Therapy(n = 554) |
 | --- | --- | --- |
@@ -179,9 +262,9 @@ Clinical Response Rate in Patients with SLE after 52 Weeks of Treatment
 
 The reduction in disease activity seen in the SRI-4 was related primarily to improvement in the most commonly involved organ systems, namely, mucocutaneous, musculoskeletal, immunologic, and vascular.
 
-The proportion of SRI-4 responders by visit through Week 52 is shown in Figure 1.
+The proportion of SRI-4 responders by visit through Week 52 is shown in Figure 3.
 
-Figure 1.
+Figure 3.
 Proportion (%) of SRI-4 Responders (+/- Standard Error) by Visita
 
 a The same patients may not have responded at each timepoint.

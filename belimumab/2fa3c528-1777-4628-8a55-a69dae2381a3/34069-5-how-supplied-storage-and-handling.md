@@ -2,9 +2,9 @@
 
 ## 16.1 Intravenous Infusion
 
-BENLYSTA (belimumab) for injection is a sterile, preservative-free, lyophilized powder for reconstitution and dilution prior to intravenous infusion provided in single-dose glass vials with a rubber stopper (not made with natural rubber latex) and a flip-off seal.
-Each 5-mL vial contains 120 mg of belimumab.
-Each 20-mL vial contains 400 mg of belimumab.
+BENLYSTA (belimumab) for injection is a sterile, preservative-free, lyophilized powder for reconstitution and dilution prior to intravenous infusion provided in single‑dose glass vials with a rubber stopper (not made with natural rubber latex) and a flip‑off seal.
+Each 5‑mL vial contains 120 mg of belimumab.
+Each 20‑mL vial contains 400 mg of belimumab.
 
 BENLYSTA vials are supplied as follows:
 

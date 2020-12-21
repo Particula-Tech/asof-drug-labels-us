@@ -99,9 +99,9 @@ Contents:
 
 Federal Law requires dispensing of BENLYSTA with the Medication Guide provided with this package.
 
-©2019 GSK group of companies or is licensor.
+©2020 GSK group of companies or is licensor.
 
 Rev.
-5/20
+12/20
 
-62000000050117
+DFT-02865-5760659

@@ -59,16 +59,18 @@ Following an assessment of benefit versus risk, if prevention of pregnancy is wa
 
 ## 8.4 Pediatric Use
 
-Intravenous administration of BENLYSTA is indicated in children aged 5 years and older.
-Determination of efficacy in pediatric patients was based on pharmacokinetic (PK) and efficacy results from a pediatric SLE study (Trial 5), as well as PK exposure and extrapolation of the established efficacy of BENYLSTA plus standard therapy from the Phase 3 intravenous studies in adults.
-A randomized, double‑blind, placebo‑controlled, PK, efficacy, and safety study (Trial 5) to evaluate intravenously administered BENLYSTA 10 mg/kg plus standard therapy compared with placebo plus standard therapy over 52 weeks was conducted in 93 pediatric patients with SLE.
+Intravenous administration of BENLYSTA in patients with SLE is indicated in children aged 5 years and older.
+Determination of efficacy in pediatric patients was based on pharmacokinetic (PK) and efficacy results from a pediatric SLE study (Trial 6), as well as PK exposure and extrapolation of the established efficacy of BENYLSTA plus standard therapy from the Phase 3 intravenous studies in adults with SLE.
+A randomized, double‑blind, placebo‑controlled, PK, efficacy, and safety study (Trial 6) to evaluate intravenously administered BENLYSTA 10 mg/kg plus standard therapy compared with placebo plus standard therapy over 52 weeks was conducted in 93 pediatric patients with SLE.
 The proportion of pediatric patients achieving an SRI-4 response was higher in patients receiving BENLYSTA plus standard therapy compared with placebo plus standard therapy.
-Pediatric patients receiving BENLYSTA plus standard therapy also had a lower risk of experiencing a severe flare compared with the placebo group [see Clinical Studies (14.1)].
+Pediatric patients receiving BENLYSTA plus standard therapy also had a lower risk of experiencing a severe flare compared with placebo plus standard therapy [see Clinical Studies (14.3)].
 
 The adverse event profile in pediatric patients was consistent with the overall population in the Phase 3 studies in adults [see Adverse Reactions (6.1)].
 
 Pharmacokinetics were evaluated in a total of 53 pediatric patients and were consistent with the adult population [see Clinical Pharmacology (12.3)].
 The safety and effectiveness of BENLYSTA have not been established in pediatric patients younger than 5 years of age.
+
+The safety and effectiveness of intravenous administration of BENLYSTA have not been established in pediatric patients with active lupus nephritis younger than 18 years of age.
 
 The safety and effectiveness of subcutaneous administration of BENLYSTA have not been established in pediatric patients younger than 18 years of age.
 
@@ -94,6 +96,6 @@ In Trial 2 and Trial 3 (intravenous dosing), SLE Responder Index-4 (SRI-4) respo
 In Trial 4 (intravenous dosing), a 2:1 randomized, placebo-controlled trial in Black patients, SLE Responder Index (SRI-S2K) response rates were higher for Black patients receiving BENLYSTA plus standard therapy (49%) relative to Black patients receiving placebo plus standard therapy (42%).
 However, the treatment difference was not statistically significant [see Clinical Studies (14.1)].
 
-In Trial 6 (subcutaneous dosing), SRI-4 response was 45% (26/58) in Black patients receiving BENLYSTA plus standard therapy compared with 39% (13/33) in Black patients receiving placebo plus standard therapy [see Clinical Studies (14.2)].
+In Trial 7 (subcutaneous dosing), SRI-4 response was 45% (26/58) in Black patients receiving BENLYSTA plus standard therapy compared with 39% (13/33) in Black patients receiving placebo plus standard therapy [see Clinical Studies (14.4)].
 
 The safety profile of BENLYSTA in Black patients was consistent with the known safety profile of BENLYSTA administered in the overall population [see Adverse Reactions (6.1)].

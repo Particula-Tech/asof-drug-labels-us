@@ -28,7 +28,7 @@ Important Warnings
 - •The prefilled syringe should be used only 1 time and then thrown away.
   See below, “Dispose of used prefilled syringe and inspect.”
   - oDo not share your BENLYSTA prefilled syringe with other people.
-    You may give other people a serious infection, or get a serious infection from them.
+    You may give other people a serious infection or get a serious infection from them.
   - oDo not shake the prefilled syringe.
   - oDo not use if dropped onto a hard surface.
   - oDo not remove the Needle Cap until right before the injection.
@@ -95,6 +95,7 @@ Choose the injection site
 
 - •Choose where to inject (abdomen or thigh).
   See Figure D.
+- •If you need 2 injections to complete your dose, leave at least 2 inches between each injection if using the same site.
 - •Avoid injecting into the same site each time or in areas where the skin is tender, bruised, red, or hard.
 
 - 
@@ -183,11 +184,11 @@ Manufactured by Human Genome Sciences, Inc., (a subsidiary of GlaxoSmithKline), 
 
 U.S. License No. 1820
 
-©2018 GSK group of companies or its licensor.
+©2020 GSK group of companies or its licensor.
 
-BNL:2IFU-S
+BNL:3IFU-S
 
-Revised June 2018
+Revised December 2020
 
 Instructions for Use
 
@@ -219,7 +220,7 @@ Important Warnings
 - •The autoinjector should be used only 1 time and then thrown away.
   See below, “Dispose of used autoinjector and inspect.”
   - oDo not share your BENLYSTA Autoinjector with other people.
-    You may give other people a serious infection, or get a serious infection from them.
+    You may give other people a serious infection or get a serious infection from them.
   - oDo not shake the autoinjector.
   - oDo not use if dropped onto a hard surface.
   - oDo not remove the Ring Cap until right before the injection.
@@ -281,6 +282,7 @@ Choose the injection site
 
 - •Choose where to inject (abdomen or thigh).
   See Figure D.
+- •If you need 2 injections to complete your dose, leave at least 2 inches between each injection if using the same site.
 - •Avoid injecting into the same site each time or in areas where the skin is tender, bruised, red, or hard.
 
 - •Do not inject within 2 inches of the belly button.
@@ -377,8 +379,10 @@ Manufactured by Human Genome Sciences, Inc., (a subsidiary of GlaxoSmithKline), 
 
 U.S. License No. 1820
 
-©2018 GSK group of companies or its licensor.
+©2020 GSK group of companies or its licensor.
 
-BNL:2IFU-A
+BNL:3IFU-A
 
-Revised June 2018
+Revised
+
+December 2020
