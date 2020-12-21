@@ -38,7 +38,7 @@ Table 6: Glycemic Parameters in 18- and 24-Week Placebo-Controlled Studies of JA
 | FPG (mg/dL) | N = 201 | N = 107 | N = 234 | N = 247 |
 | Baseline (mean) | 180 | 184 | 170 | 176 |
 | Change from baseline (adjusted mean) | -13 | 7 | -12 | 5 |
-| Difference from placebo (adjusted mean) (95% CI) | -20 (‑31, -9) |  | -17 (‑24, -10) |  |
+| Difference from placebo (adjusted mean) (95% CI) | -20 (-31, -9) |  | -17 (-24, -10) |  |
 | 2-hour PPG (mg/dL) | Data not available. |  | N = 201 | N = 204 |
 | Baseline (mean) |  |  | 257 | 271 |
 | Change from baseline (adjusted mean) |  |  | -49 | -2 |
@@ -58,8 +58,8 @@ In addition, the reductions in A1C and FPG with JANUVIA compared to placebo were
 Add-on Combination Therapy with Metformin
 
 A total of 701 patients with type 2 diabetes participated in a 24-week, randomized, double-blind, placebo-controlled study designed to assess the efficacy of JANUVIA in combination with metformin.
-Patients already on metformin (N=431) at a dose of at least 1500 mg per day were randomized after completing a 2-week single-blind placebo run-in period.
-Patients on metformin and another antihyperglycemic agent (N=229) and patients not on any antihyperglycemic agents (off therapy for at least 8 weeks, N=41) were randomized after a run-in period of approximately 10 weeks on metformin (at a dose of at least 1500 mg per day) in monotherapy.
+Patients already on metformin HCl (N=431) at a dose of at least 1500 mg per day were randomized after completing a 2-week single-blind placebo run-in period.
+Patients on metformin and another antihyperglycemic agent (N=229) and patients not on any antihyperglycemic agents (off therapy for at least 8 weeks, N=41) were randomized after a run-in period of approximately 10 weeks on metformin HCl (at a dose of at least 1500 mg per day) in monotherapy.
 Patients with inadequate glycemic control (A1C 7% to 10%) were randomized to the addition of either 100 mg of JANUVIA or placebo, administered once daily.
 Patients who failed to meet specific glycemic goals during the studies were treated with pioglitazone rescue.
 
@@ -91,18 +91,18 @@ A total of 1091 patients with type 2 diabetes and inadequate glycemic control on
 Patients on an antihyperglycemic agent (N=541) discontinued the agent, and underwent a diet, exercise, and drug washout period of up to 12 weeks duration.
 After the washout period, patients with inadequate glycemic control (A1C 7.5% to 11%) were randomized after completing a 2-week single-blind placebo run-in period.
 Patients not on antihyperglycemic agents at study entry (N=550) with inadequate glycemic control (A1C 7.5% to 11%) immediately entered the 2-week single-blind placebo run-in period and then were randomized.
-Approximately equal numbers of patients were randomized to receive initial therapy with placebo, 100 mg of JANUVIA once daily, 500 mg or 1000 mg of metformin twice daily, or 50 mg of sitagliptin twice daily in combination with 500 mg or 1000 mg of metformin twice daily.
+Approximately equal numbers of patients were randomized to receive initial therapy with placebo, 100 mg of JANUVIA once daily, 500 mg or 1000 mg of metformin HCl twice daily, or 50 mg of sitagliptin twice daily in combination with 500 mg or 1000 mg of metformin HCl twice daily.
 Patients who failed to meet specific glycemic goals during the study were treated with glyburide (glibenclamide) rescue.
 
 Initial therapy with the combination of JANUVIA and metformin provided significant improvements in A1C, FPG, and 2-hour PPG compared to placebo, to metformin alone, and to JANUVIA alone (Table 8, Figure 1).
 Mean reductions from baseline in A1C were generally greater for patients with higher baseline A1C values.
-For patients not on an antihyperglycemic agent at study entry, mean reductions from baseline in A1C were: JANUVIA 100 mg once daily, -1.1%; metformin 500 mg bid, -1.1%; metformin 1000 mg bid, -1.2%; sitagliptin 50 mg bid with metformin 500 mg bid, -1.6%; sitagliptin 50 mg bid with metformin 1000 mg bid, -1.9%; and for patients receiving placebo, -0.2%.
+For patients not on an antihyperglycemic agent at study entry, mean reductions from baseline in A1C were: JANUVIA 100 mg once daily, -1.1%; metformin HCl 500 mg bid, -1.1%; metformin HCl 1000 mg bid, -1.2%; sitagliptin 50 mg bid with metformin HCl 500 mg bid, -1.6%; sitagliptin 50 mg bid with metformin HCl 1000 mg bid, -1.9%; and for patients receiving placebo, -0.2%.
 Lipid effects were generally neutral.
 The decrease in body weight in the groups given sitagliptin in combination with metformin was similar to that in the groups given metformin alone or placebo.
 
 Table 8: Glycemic Parameters at Final Visit (24-Week Study) for Sitagliptin and Metformin, Alone and in Combination as Initial TherapyIntent-to-treat population using last observation on study prior to glyburide (glibenclamide) rescue therapy.
 
-|  | Placebo | Sitagliptin(JANUVIA)100 mg QD | Metformin 500 mg bid | Metformin 1000 mg bid | Sitagliptin 50 mg bid + Metformin 500 mg bid | Sitagliptin 50 mg bid + Metformin 1000 mg bid |
+|  | Placebo | Sitagliptin(JANUVIA)100 mg QD | Metformin HCl 500 mg bid | Metformin HCl 1000 mg bid | Sitagliptin 50 mg bid + Metformin HCl 500 mg bid | Sitagliptin 50 mg bid + Metformin HCl 1000 mg bid |
 | --- | --- | --- | --- | --- | --- | --- |
 | A1C (%) | N = 165 | N = 175 | N = 178 | N = 177 | N = 183 | N = 178 |
 | Baseline (mean) | 8.7 | 8.9 | 8.9 | 8.7 | 8.8 | 8.8 |
@@ -125,7 +125,7 @@ These management options are left to the discretion of the health care provider.
 Active-Controlled Study vs Glipizide in Combination with Metformin
 
 The efficacy of JANUVIA was evaluated in a 52-week, double-blind, glipizide-controlled noninferiority trial in patients with type 2 diabetes.
-Patients not on treatment or on other antihyperglycemic agents entered a run-in treatment period of up to 12 weeks duration with metformin monotherapy (dose of ≥1500 mg per day) which included washout of medications other than metformin, if applicable.
+Patients not on treatment or on other antihyperglycemic agents entered a run-in treatment period of up to 12 weeks duration with metformin HCl monotherapy (dose of ≥1500 mg per day) which included washout of medications other than metformin, if applicable.
 After the run-in period, those with inadequate glycemic control (A1C 6.5% to 10%) were randomized 1:1 to the addition of JANUVIA 100 mg once daily or glipizide for 52 weeks.
 Patients receiving glipizide were given an initial dosage of 5 mg/day and then electively titrated over the next 18 weeks to a maximum dosage of 20 mg/day as needed to optimize glycemic control.
 Thereafter, the glipizide dose was to be kept constant, except for down-titration to prevent hypoglycemia.
@@ -208,8 +208,8 @@ Table 11: Glycemic Parameters at Final Visit (24-Week Study) for JANUVIA in Comb
 Add-on Combination Therapy with Metformin and Rosiglitazone
 
 A total of 278 patients with type 2 diabetes participated in a 54-week, randomized, double-blind, placebo-controlled study designed to assess the efficacy of JANUVIA in combination with metformin and rosiglitazone.
-Patients on dual therapy with metformin ≥1500 mg/day and rosiglitazone ≥4 mg/day or with metformin ≥1500 mg/day and pioglitazone ≥30 mg/day (switched to rosiglitazone ≥4 mg/day) entered a dose-stable run-in period of 6 weeks.
-Patients on other dual therapy were switched to metformin ≥1500 mg/day and rosiglitazone ≥4 mg/day in a dose titration/stabilization run-in period of up to 20 weeks in duration.
+Patients on dual therapy with metformin HCl ≥1500 mg/day and rosiglitazone ≥4 mg/day or with metformin HCl ≥1500 mg/day and pioglitazone ≥30 mg/day (switched to rosiglitazone ≥4 mg/day) entered a dose-stable run-in period of 6 weeks.
+Patients on other dual therapy were switched to metformin HCl ≥1500 mg/day and rosiglitazone ≥4 mg/day in a dose titration/stabilization run-in period of up to 20 weeks in duration.
 After the run-in period, patients with inadequate glycemic control (A1C 7.5% to 11%) were randomized 2:1 to the addition of either 100 mg of JANUVIA or placebo, administered once daily.
 Patients who failed to meet specific glycemic goals during the study were treated with glipizide (or other sulfonylurea) rescue.
 The primary time point for evaluation of glycemic parameters was Week 18.
@@ -240,7 +240,7 @@ Table 12: Glycemic Parameters at Week 18 for JANUVIA in Add-on Combination Thera
 Add-on Combination Therapy with Glimepiride, with or without Metformin
 
 A total of 441 patients with type 2 diabetes participated in a 24-week, randomized, double-blind, placebo-controlled study designed to assess the efficacy of JANUVIA in combination with glimepiride, with or without metformin.
-Patients entered a run-in treatment period on glimepiride (≥4 mg per day) alone or glimepiride in combination with metformin (≥1500 mg per day).
+Patients entered a run-in treatment period on glimepiride (≥4 mg per day) alone or glimepiride in combination with metformin HCl (≥1500 mg per day).
 After a dose-titration and dose-stable run-in period of up to 16 weeks and a 2-week placebo run-in period, patients with inadequate glycemic control (A1C 7.5% to 10.5%) were randomized to the addition of either 100 mg of JANUVIA or placebo, administered once daily.
 Patients who failed to meet specific glycemic goals during the studies were treated with pioglitazone rescue.
 
@@ -270,7 +270,7 @@ Add-on Combination Therapy with Insulin (with or without Metformin)
 A total of 641 patients with type 2 diabetes participated in a 24-week, randomized, double-blind, placebo-controlled study designed to assess the efficacy of JANUVIA as add-on to insulin therapy (with or without metformin).
 The racial distribution in this study was approximately 70% white, 18% Asian, 7% black, and 5% other groups.
 Approximately 14% of the patients in this study were Hispanic.
-Patients entered a 2-week, single-blind run-in treatment period on pre-mixed, long-acting, or intermediate-acting insulin, with or without metformin (≥1500 mg per day).
+Patients entered a 2-week, single-blind run-in treatment period on pre-mixed, long-acting, or intermediate-acting insulin, with or without metformin HCl (≥1500 mg per day).
 Patients using short-acting insulins were excluded unless the short-acting insulin was administered as part of a pre-mixed insulin.
 After the run-in period, patients with inadequate glycemic control (A1C 7.5% to 11%) were randomized to the addition of either 100 mg of JANUVIA or placebo, administered once daily.
 Patients were on a stable dose of insulin prior to enrollment with no changes in insulin dose permitted during the run-in period.
@@ -304,7 +304,7 @@ Table 14: Glycemic Parameters at Final Visit (24-Week Study) for JANUVIA as Add-
 Maintenance of JANUVIA During Initiation and Titration of Insulin Glargine
 
 A total of 746 patients with type 2 diabetes (mean baseline HbA1C 8.8%, disease duration 10.8 years) participated in a 30-week, randomized, double-blind, placebo-controlled study to assess the efficacy and safety of continuing JANUVIA during the initiation and uptitration of insulin glargine.
-Patients who were on a stable dose of metformin (≥1500 mg/day) in combination with a DPP-4 inhibitor and/or sulfonylurea but with inadequate glycemic control (A1C 7.5% to 11%) were enrolled in the study.
+Patients who were on a stable dose of metformin HCl (≥1500 mg/day) in combination with a DPP-4 inhibitor and/or sulfonylurea but with inadequate glycemic control (A1C 7.5% to 11%) were enrolled in the study.
 Those on metformin and JANUVIA (100 mg/day) directly entered the double-blind treatment period; those on another DPP-4 inhibitor and/or on a sulfonylurea entered a 4-8 week run-in period in which they were maintained on metformin and switched to JANUVIA (100 mg); other DPP-4 inhibitors and sulfonylureas were discontinued.
 At randomization patients were randomized either to continue JANUVIA or to discontinue JANUVIA and switch to a matching placebo.
 On the day of randomization, insulin glargine was initiated at a dose of 10 units subcutaneously in the evening.

@@ -16,26 +16,23 @@ Consider the risks and benefits of JANUVIA prior to initiating treatment in pati
 Advise patients of the characteristic symptoms of heart failure and to immediately report such symptoms.
 If heart failure develops, evaluate and manage according to current standards of care and consider discontinuation of JANUVIA.
 
-## 5.3 Assessment of Renal Function
-
-Assessment of renal function is recommended prior to initiating JANUVIA and periodically thereafter.
-A dosage adjustment is recommended in patients with moderate or severe renal impairment and in patients with ESRD requiring hemodialysis or peritoneal dialysis.
-[See Dosage and Administration (2.2); Clinical Pharmacology (12.3).]
-Caution should be used to ensure that the correct dose of JANUVIA is prescribed for patients with moderate (eGFR ≥30 mL/min/1.73 m2 to <45 mL/min/1.73 m2) or severe (eGFR <30 mL/min/1.73 m2) renal impairment.
+## 5.3 Acute Renal Failure
 
 There have been postmarketing reports of worsening renal function, including acute renal failure, sometimes requiring dialysis.
 A subset of these reports involved patients with renal impairment, some of whom were prescribed inappropriate doses of sitagliptin.
 A return to baseline levels of renal impairment has been observed with supportive treatment and discontinuation of potentially causative agents.
 Consideration can be given to cautiously reinitiating JANUVIA if another etiology is deemed likely to have precipitated the acute worsening of renal function.
 
-JANUVIA has not been found to be nephrotoxic in preclinical studies at clinically relevant doses, or in clinical trials.
+Assessment of renal function is recommended prior to initiating JANUVIA and periodically thereafter.
+A dosage adjustment is recommended in patients with moderate or severe renal impairment and in patients with ESRD requiring hemodialysis or peritoneal dialysis.
+[See Dosage and Administration (2.2); Use in Specific Populations (8.6).]
 
-## 5.4 Use with Medications Known to Cause Hypoglycemia
+## 5.4 Hypoglycemia with Concomitant Use with Insulin or Insulin Secretagogues
 
-When JANUVIA was used in combination with a sulfonylurea or with insulin, medications known to cause hypoglycemia, the incidence of hypoglycemia was increased over that of placebo used in combination with a sulfonylurea or with insulin.
+When JANUVIA was used in combination with insulin or insulin secretagogues (e.g., sulfonylurea), medications known to cause hypoglycemia, the incidence of hypoglycemia was increased over that of placebo used in combination with a sulfonylurea or with insulin.
 [See Adverse Reactions (6.1).]
 Therefore, a lower dose of sulfonylurea or insulin may be required to reduce the risk of hypoglycemia.
-[See Drug Interactions (7.2).]
+[See Drug Interactions (7.1).]
 
 ## 5.5 Hypersensitivity Reactions
 
@@ -62,7 +59,3 @@ Postmarketing cases of bullous pemphigoid requiring hospitalization have been re
 In reported cases, patients typically recovered with topical or systemic immunosuppressive treatment and discontinuation of the DPP-4 inhibitor.
 Tell patients to report development of blisters or erosions while receiving JANUVIA.
 If bullous pemphigoid is suspected, JANUVIA should be discontinued and referral to a dermatologist should be considered for diagnosis and appropriate treatment.
-
-## 5.8 Macrovascular Outcomes
-
-There have been no clinical studies establishing conclusive evidence of macrovascular risk reduction with JANUVIA.

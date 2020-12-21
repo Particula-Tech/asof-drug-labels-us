@@ -1,5 +1,15 @@
 # 6 ADVERSE REACTIONS
 
+The following adverse reactions are also discussed elsewhere in the labeling:
+
+- Pancreatitis [see Warnings and Precautions (5.1)]
+- Heart Failure [see Warnings and Precautions (5.2)]
+- Acute Renal Failure [see Warnings and Precautions (5.3)]
+- Hypoglycemia with Concomitant Use with Insulin or Insulin Secretagogues [see Warnings and Precautions (5.4)]
+- Hypersensitivity Reactions [see Warnings and Precautions (5.5)]
+- Severe and Disabling Arthralgia [see Warnings and Precautions (5.6)]
+- Bullous Pemphigoid [see Warnings and Precautions (5.7)]
+
 ## 6.1 Clinical Trials Experience
 
 Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in practice.
@@ -24,7 +34,7 @@ Table 1: Placebo-Controlled Clinical Studies of JANUVIA Monotherapy or Add-on Co
 |  | N = 175 | N = 178 |
 | Upper Respiratory Tract Infection | 11 (6.3) | 6 (3.4) |
 | Headache | 9 (5.1) | 7 (3.9) |
-| Combination with Metformin + Rosiglitazone (18 weeks) | JANUVIA 100 mg +Metformin + Rosiglitazone | Placebo +Metformin + Rosiglitazone |
+| Combination with Metformin + Rosiglitazone (18 weeks) | JANUVIA 100 mg + Metformin + Rosiglitazone | Placebo + Metformin + Rosiglitazone |
 |  | N = 181 | N = 97 |
 | Upper Respiratory Tract Infection | 10 (5.5) | 5 (5.2) |
 | Nasopharyngitis | 11 (6.1) | 4 (4.1) |
@@ -47,7 +57,7 @@ Table 2: Initial Therapy with Combination of Sitagliptin and Metformin: Adverse 
 
 |  | Number of Patients (%) |  |  |  |
 | --- | --- | --- | --- | --- |
-|  | Placebo | Sitagliptin (JANUVIA) 100 mg QD | Metformin500 or 1000 mg bidData pooled for the patients given the lower and higher doses of metformin. | Sitagliptin50 mg bid +Metformin500 or 1000 mg bid |
+|  | Placebo | Sitagliptin (JANUVIA) 100 mg QD | Metformin HCl500 or 1000 mg bidData pooled for the patients given the lower and higher doses of metformin. | Sitagliptin50 mg bid +Metformin HCl500 or 1000 mg bid |
 |  | N = 176 | N = 179 | N = 364 | N = 372 |
 | Upper Respiratory Infection | 9 (5.1) | 8 (4.5) | 19 (5.2) | 23 (6.2) |
 | Headache | 5 (2.8) | 2 (1.1) | 14 (3.8) | 22 (5.9) |
@@ -57,7 +67,6 @@ In a 24-week study of initial therapy with JANUVIA in combination with pioglitaz
 No clinically meaningful changes in vital signs or in ECG (including in QTc interval) were observed in patients treated with JANUVIA.
 
 In a pooled analysis of 19 double-blind clinical trials that included data from 10,246 patients randomized to receive sitagliptin 100 mg/day (N=5429) or corresponding (active or placebo) control (N=4817), the incidence of acute pancreatitis was 0.1 per 100 patient-years in each group (4 patients with an event in 4708 patient-years for sitagliptin and 4 patients with an event in 3942 patient-years for control).
-[See Warnings and Precautions (5.1).]
 
 Hypoglycemia
 
@@ -105,4 +114,4 @@ The clinical significance of this added increase in serum creatinine relative to
 Additional adverse reactions have been identified during postapproval use of JANUVIA as monotherapy and/or in combination with other antihyperglycemic agents.
 Because these reactions are reported voluntarily from a population of uncertain size, it is generally not possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
 
-Hypersensitivity reactions including anaphylaxis, angioedema, rash, urticaria, cutaneous vasculitis, and exfoliative skin conditions including Stevens-Johnson syndrome [see Warnings and Precautions (5.5)]; hepatic enzyme elevations; acute pancreatitis, including fatal and non-fatal hemorrhagic and necrotizing pancreatitis [see Indications and Usage (1.2); Warnings and Precautions (5.1)]; worsening renal function, including acute renal failure (sometimes requiring dialysis) [see Warnings and Precautions (5.3)]; severe and disabling arthralgia [see Warnings and Precautions (5.6)]; bullous pemphigoid [see Warnings and Precautions (5.7)]; constipation; vomiting; headache; myalgia; pain in extremity; back pain; pruritus; mouth ulceration; stomatitis; rhabdomyolysis.
+Hypersensitivity reactions including anaphylaxis, angioedema, rash, urticaria, cutaneous vasculitis, and exfoliative skin conditions including Stevens-Johnson syndrome; hepatic enzyme elevations; acute pancreatitis, including fatal and non-fatal hemorrhagic and necrotizing pancreatitis [see Indications and Usage (1)]; worsening renal function, including acute renal failure (sometimes requiring dialysis); severe and disabling arthralgia; bullous pemphigoid; constipation; vomiting; headache; myalgia; pain in extremity; back pain; pruritus; mouth ulceration; stomatitis; rhabdomyolysis.

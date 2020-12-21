@@ -101,10 +101,6 @@ Based on a population pharmacokinetic analysis or a composite analysis of availa
 When the effects of age on renal function are taken into account, age alone did not have a clinically meaningful impact on the pharmacokinetics of sitagliptin based on a population pharmacokinetic analysis.
 Elderly subjects (65 to 80 years) had approximately 19% higher plasma concentrations of sitagliptin compared to younger subjects.
 
-Pediatric Patients
-
-Studies characterizing the pharmacokinetics of sitagliptin in pediatric patients have not been performed.
-
 Drug Interaction Studies
 
 In Vitro Assessment of Drug Interactions
@@ -136,7 +132,7 @@ Table 4: Effect of Sitagliptin on Systemic Exposure of Coadministered Drugs
 | R(+) Warfarin | 0.99 | 0.89 |  |  |  |
 | Ethinyl estradiol and norethindrone | 21 days once daily of 35 µg ethinyl estradiol with norethindrone 0.5 mg × 7 days, 0.75 mg × 7 days, 1.0 mg × 7 days | 200 mg once daily for 21 days | Ethinyl estradiol | 0.99 | 0.97 |
 | Norethindrone | 1.03 | 0.98 |  |  |  |
-| Metformin | 1000 mg twice daily for 14 days | 50 mg twice daily for 7 days | Metformin | 1.02AUC0-12hr. | 0.97 |
+| Metformin HCl | 1000 mg twice daily for 14 days | 50 mg twice daily for 7 days | Metformin | 1.02AUC0-12hr. | 0.97 |
 
 Effects of Other Drugs on Sitagliptin
 
@@ -148,4 +144,4 @@ Table 5: Effect of Coadministered Drugs on Systemic Exposure of Sitagliptin
 | --- | --- | --- | --- | --- | --- |
 | Coadministered Drug | Dose of Coadministered DrugAll doses administered as single dose unless otherwise specified. | Dose of Sitagliptin | Geometric Mean Ratio (ratio with/without coadministered drug) No Effect = 1.00 |  |  |
 | Cyclosporine | 600 mg once daily | 100 mg once daily | Sitagliptin | 1.29 | 1.68 |
-| Metformin | 1000 mgMultiple dose. twice daily for 14 days | 50 mg twice daily for 7 days | Sitagliptin | 1.02AUC0-12hr. | 1.05 |
+| Metformin HCl | 1000 mgMultiple dose. twice daily for 14 days | 50 mg twice daily for 7 days | Sitagliptin | 1.02AUC0-12hr. | 1.05 |

@@ -16,12 +16,13 @@ Instruct patients to contact their health care provider as soon as possible if t
 
 Hypoglycemia
 
-Inform patients that the incidence of hypoglycemia is increased when JANUVIA is added to a sulfonylurea or insulin and that a lower dose of the sulfonylurea or insulin may be required to reduce the risk of hypoglycemia.
+Inform patients that the incidence of hypoglycemia is increased when JANUVIA is added to a sulfonylurea or insulin.
+Explain to patients receiving JANUVIA in combination with these medications the risks of hypoglycemia, its symptoms and treatment, and conditions that predispose to its development [see Warnings and Precautions (5.4)].
 
 Hypersensitivity Reactions
 
 Inform patients that allergic reactions have been reported during postmarketing use of JANUVIA.
-If symptoms of allergic reactions (including rash, hives, and swelling of the face, lips, tongue, and throat that may cause difficulty in breathing or swallowing) occur, patients must stop taking JANUVIA and seek medical advice promptly.
+If symptoms of allergic reactions (including rash, hives, and swelling of the face, lips, tongue, and throat that may cause difficulty in breathing or swallowing) occur, patients must stop taking JANUVIA and seek medical advice promptly [see Warnings and Precautions (5.5)].
 
 Severe and Disabling Arthralgia
 
