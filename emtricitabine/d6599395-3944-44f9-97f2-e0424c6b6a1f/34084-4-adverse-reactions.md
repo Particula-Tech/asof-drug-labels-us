@@ -53,7 +53,7 @@ Table 2 Selected Treatment-Emergent Adverse Reactions (All Grades, Regardless of
 | Rhinitis | 18% | 12% | 12% | 10% |
 | Increased cough | 14% | 11% | 14% | 8% |
 | Skin |  |  |  |  |
-| Rash eventRash event includes rash, pruritus, maculopapular rash, urticaria, vesiculobullous rash, pustular rash, and allergic reaction. | 17% | 14% | 30% | 33% |
+| Rash event Rash event includes rash, pruritus, maculopapular rash, urticaria, vesiculobullous rash, pustular rash, and allergic reaction. | 17% | 14% | 30% | 33% |
 | AZT=zidovudine; d4T=stavudine; NNRTI/PI=non-nucleoside reverse transcriptase inhibitor/protease inhibitor; 3TC=lamivudine; EFV=efavirenz. |  |  |  |  |
 
 Laboratory Abnormalities: Laboratory abnormalities in these trials occurred with similar frequency in the EMTRIVA and comparator groups.
@@ -65,11 +65,11 @@ Table 3 Treatment-Emergent Grades 3–4 Laboratory Abnormalities Reported in ≥
 | --- | --- | --- | --- | --- |
 |  | 303 |  | 301A |  |
 | Any ≥ Grade 3 Laboratory Abnormality | 31% | 28% | 34% | 38% |
-| ALT (>5.0 × ULNULN = Upper limit of normal) | 2% | 1% | 5% | 6% |
+| ALT (>5.0 × ULN ULN = Upper limit of normal) | 2% | 1% | 5% | 6% |
 | AST (>5.0 × ULN) | 3% | <1% | 6% | 9% |
 | Bilirubin (>2.5 × ULN) | 1% | 2% | <1% | <1% |
 | Creatine kinase (>4.0 × ULN) | 11% | 14% | 12% | 11% |
-| Neutrophils (<750 mm3) | 5% | 3% | 5% | 7% |
+| Neutrophils (<750 mm 3) | 5% | 3% | 5% | 7% |
 | Pancreatic amylase (>2.0 × ULN) | 2% | 2% | <1% | 1% |
 | Serum amylase (>2.0 × ULN) | 2% | 2% | 5% | 10% |
 | Serum glucose <40 or >250 mg/dL) | 3% | 3% | 2% | 3% |
@@ -80,12 +80,12 @@ In Trial 934, 511 antiretroviral-naïve subjects received efavirenz (EFV) admini
 The most common adverse reactions (incidence greater than or equal to 10%, all grades) included diarrhea, nausea, fatigue, headache, dizziness, depression, insomnia, abnormal dreams, and rash.
 Table 4 provides the treatment-emergent adverse reactions (Grades 2−4) occurring in greater than or equal to 5% of subjects treated in any treatment group.
 
-Table 4 Selected Adverse ReactionsFrequencies of adverse reactions are based on all treatment-emergent adverse events, regardless of relationship to study drug.
+Table 4 Selected Adverse Reactions Frequencies of adverse reactions are based on all treatment-emergent adverse events, regardless of relationship to study drug.
 (Grades 2–4) Reported in ≥5% in Any Treatment Group in Trial 934 (0–144 Weeks)
 
 |  | N=257 | N=254 |
 | --- | --- | --- |
-|  | EMTRIVA + TDF + EFVFrom Weeks 96 to 144 of the trial, subjects received TRUVADA® with EFV in place of EMTRIVA + TDF with EFV. | AZT/3TC + EFV |
+|  | EMTRIVA + TDF + EFV From Weeks 96 to 144 of the trial, subjects received TRUVADA ® with EFV in place of EMTRIVA + TDF with EFV. | AZT/3TC + EFV |
 | Fatigue | 9% | 8% |
 | Depression | 9% | 7% |
 | Nausea | 9% | 7% |
@@ -93,7 +93,7 @@ Table 4 Selected Adverse ReactionsFrequencies of adverse reactions are based on 
 | Dizziness | 8% | 7% |
 | Upper respiratory tract infections | 8% | 5% |
 | Sinusitis | 8% | 4% |
-| Rash eventRash event includes rash, exfoliative rash, rash generalized, rash macular, rash maculo-papular, rash pruritic, and rash vesicular. | 7% | 9% |
+| Rash event Rash event includes rash, exfoliative rash, rash generalized, rash macular, rash maculo-papular, rash pruritic, and rash vesicular. | 7% | 9% |
 | Headache | 6% | 5% |
 | Insomnia | 5% | 7% |
 | Nasopharyngitis | 5% | 3% |
@@ -105,7 +105,7 @@ Table 5 Significant Laboratory Abnormalities Reported in ≥1% of Subjects in An
 
 |  | N=257 | N=254 |
 | --- | --- | --- |
-|  | EMTRIVA + TDF + EFVFrom Weeks 96 to 144 of the trial, subjects received TRUVADA with EFV in place of EMTRIVA + TDF with EFV. | AZT/3TC + EFV |
+|  | EMTRIVA + TDF + EFV From Weeks 96 to 144 of the trial, subjects received TRUVADA with EFV in place of EMTRIVA + TDF with EFV. | AZT/3TC + EFV |
 | Any ≥ Grade 3 Laboratory Abnormality | 30% | 26% |
 | Fasting Cholesterol (>240 mg/dL) | 22% | 24% |
 | Creatine Kinase (M: >990 U/L) (F: >845 U/L) | 9% | 7% |
@@ -117,7 +117,7 @@ Table 5 Significant Laboratory Abnormalities Reported in ≥1% of Subjects in An
 | Hyperglycemia (>250 mg/dL) | 2% | 1% |
 | Hematuria (>75 RBC/HPF) | 3% | 2% |
 | Glycosuria (3+) | <1% | 1% |
-| Neutrophils (<750/mm3) | 3% | 5% |
+| Neutrophils (<750/mm 3) | 3% | 5% |
 | Fasting Triglycerides (>750 mg/dL) | 4% | 2% |
 
 Adverse Reactions from Clinical Trials Experience in Pediatric Subjects
@@ -128,4 +128,4 @@ Hyperpigmentation was more frequent in children.
 Additional adverse reactions identified from this trial include anemia.
 
 Selected treatment-emergent adverse events, regardless of causality, reported in subjects during 48 weeks of treatment were the following: infection (44%), hyperpigmentation (32%), increased cough (28%), vomiting (23%), otitis media (23%), rash (21%), rhinitis (20%), diarrhea (20%), fever (18%), pneumonia (15%), gastroenteritis (11%), abdominal pain (10%), and anemia (7%).
-Treatment-emergent Grades 3−4 laboratory abnormalities were experienced by 9% of pediatric subjects, including elevated amylase (>2.0 × ULN) (n=4), decreased neutrophils (<750/mm3) (n=3), elevated ALT (>5 × ULN) (n=2), elevated CPK (>4 × ULN) (n=2) and one subject each with elevated bilirubin (>3.0 × ULN), elevated GGT (>10 × ULN), elevated lipase (>2.5 × ULN), decreased hemoglobin (<7 g/dL), and decreased glucose (<40 mg/dL).
+Treatment-emergent Grades 3−4 laboratory abnormalities were experienced by 9% of pediatric subjects, including elevated amylase (>2.0 × ULN) (n=4), decreased neutrophils (<750/mm 3) (n=3), elevated ALT (>5 × ULN) (n=2), elevated CPK (>4 × ULN) (n=2) and one subject each with elevated bilirubin (>3.0 × ULN), elevated GGT (>10 × ULN), elevated lipase (>2.5 × ULN), decreased hemoglobin (<7 g/dL), and decreased glucose (<40 mg/dL).

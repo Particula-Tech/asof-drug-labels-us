@@ -2,7 +2,7 @@ PRINCIPAL DISPLAY PANEL - Representative Bottle Label
 
 NDC 61958-0601-1
 
-Emtriva® (emtricitabine) Capsules, 200 mg
+Emtriva ® (emtricitabine) Capsules, 200 mg
 
 30 capsules
 
@@ -12,7 +12,7 @@ PRINCIPAL DISPLAY PANEL - 170 mL Bottle Carton
 
 NDC-61958-0602-1
 
-Emtriva® (emtricitabine) Oral Solution 10 mg/mL
+Emtriva ® (emtricitabine) Oral Solution 10 mg/mL
 
 170 mL
 
