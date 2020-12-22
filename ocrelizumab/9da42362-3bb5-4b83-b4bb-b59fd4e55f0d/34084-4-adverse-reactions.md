@@ -57,6 +57,11 @@ Table 3 Adverse Reactions in Adult Patients with PPMS with an Incidence of at le
 | Edema peripheral | 6 | 5 |
 | Herpes virus associated infections | 5 | 4 |
 
+Adverse Reactions in Patients who Received 2-hour Infusions
+
+Study 4 was designed to characterize the safety profile of OCREVUS infusions administered over 2 hours in patients with Relapsing-Remitting Multiple Sclerosis who did not experience a serious infusion reaction with any previous OCREVUS infusion.
+In this study, the incidence, intensity, and types of symptoms of infusion reactions were consistent with those of infusions administered over 3.5 hours [see Clinical Studies (14.3)].
+
 Laboratory Abnormalities
 
 Decreased Immunoglobulins
@@ -70,7 +75,7 @@ In the placebo-controlled (PPMS) trial (Study 3), the proportion of patients at 
 Following treatment, the proportion of OCREVUS-treated patients reporting IgG, IgA, and IgM below the LLN at 120 weeks was 1.1%, 0.5%, and 15.5%, respectively.
 
 The pooled data of OCREVUS clinical studies (RMS and PPMS) and their open-label extensions (up to approximately 7 years of exposure) have shown an association between decreased levels of IgG and increased rates of serious infections.
-The type, severity, latency, duration, and outcome of SIs observed during episodes of immunoglobulins below LLN were consistent with the overall SIs observed in patients treated with OCREVUS.
+The type, severity, latency, duration, and outcome of serious infections observed during episodes of immunoglobulins below LLN were consistent with the overall serious infections observed in patients treated with OCREVUS.
 
 Decreased Neutrophil Levels
 

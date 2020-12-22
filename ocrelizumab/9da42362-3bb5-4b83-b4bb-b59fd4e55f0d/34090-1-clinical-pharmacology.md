@@ -18,7 +18,8 @@ Within 2.5 years after the last infusion, B-cell counts rose to either baseline 
 Pharmacokinetics (PK) of OCREVUS in MS clinical studies fit a two compartment model with time-dependent clearance.
 The overall exposure at the steady-state (AUC over the 24 week dosing intervals) of OCREVUS was 3,510 mcg/mL per day.
 In clinical studies in MS patients, maintenance doses of ocrelizumab were either 600 mg every 6 months (RMS patients) or two 300 mg infusions separated by 14 days every 6 months (PPMS patients).
-The mean maximum concentration was 212 mcg/mL in patients with RMS (600 mg infusion) and 141 mcg/mL in patients with PPMS (two 300 mg infusions administered within two weeks).
+The mean maximum concentration was 212 mcg/mL in patients with RMS (600 mg infusion over 3.5 hours) and 141 mcg/mL in patients with PPMS (two 300 mg infusions over 2.5 hours administered within two weeks).
+The mean maximum peak concentrations (Cmax) of ocrelizumab in patients with relapsing-remitting multiple sclerosis (RRMS) observed after the 3.5-hour infusion and 2-hour infusion were 202 ± 42 (mean ± SD) and 200 ± 46 mcg/mL, respectively, compared to the previously reported Cmax of 212 mcg/mL.
 The pharmacokinetics of ocrelizumab was essentially linear and dose proportional between 400 mg and 2000 mg.
 
 Distribution

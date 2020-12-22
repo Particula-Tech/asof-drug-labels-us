@@ -2,7 +2,7 @@
 
 ## 14.1 Relapsing Forms of Multiple Sclerosis (RMS)
 
-The efficacy of OCREVUS was demonstrated in two randomized, double-blind, double-dummy, active comparator-controlled clinical trials of identical design, in patients with RMS treated for 96 weeks (Study1 and Study 2).
+The efficacy of OCREVUS was demonstrated in two randomized, double-blind, double-dummy, active comparator-controlled clinical trials of identical design, in patients with RMS treated for 96 weeks (Study 1 and Study 2).
 The dose of OCREVUS was 600 mg every 24 weeks (initial treatment was given as two 300 mg IV infusions administered 2 weeks apart, and subsequent doses were administered as a single 600 mg IV infusion) and placebo subcutaneous injections were given 3 times per week.
 The dose of REBIF, the active comparator, was 44 mcg given as subcutaneous injections 3 times per week and placebo IV infusions were given every 24 weeks.
 Both studies included patients who had experienced at least one relapse within the prior year, or two relapses within the prior two years, and had an Expanded Disability Status Scale (EDSS) score from 0 to 5.5.
@@ -94,3 +94,16 @@ In the overall population in Study 3, the proportion of patients with 20 percent
 In exploratory subgroup analyses of Study 3, the proportion of female patients with disability progression confirmed at 12 weeks after onset was similar in OCREVUS-treated patients and placebo-treated patients (approximately 36% in each group).
 In male patients, the proportion of patients with disability progression confirmed at 12 weeks after onset was approximately 30% in OCREVUS-treated patients and 43% in placebo-treated patients.
 Clinical and MRI endpoints that generally favored OCREVUS numerically in the overall population, and that showed similar trends in both male and female patients, included annualized relapse rate, change in T2 lesion volume, and number of new or enlarging T2 lesions.
+
+## 14.3 Safety Study of 2-Hour Infusions
+
+The safety of the 2-hour OCREVUS infusion was evaluated in Study 4 (NCT03085810), a prospective, multicenter, randomized, double-blind, controlled, parallel arm substudy in patients with Relapsing-Remitting Multiple Sclerosis who were naïve to other non-steroid therapies for MS and did not experience a serious infusion reaction with any previous OCREVUS infusion.
+The first dose of OCREVUS was administered as two 300 mg infusions (600 mg total) separated by 14 days.
+After enrollment in the substudy, patients were randomized in a 1:1 ratio to receive infusions over approximately 3.5-hours or 2-hours, after appropriate premedication [see Dosage and Administration (2.2)], every 24 weeks.
+The randomization was stratified by region and the dose at which patients were first randomized.
+
+The primary endpoint of the substudy was the proportion of patients with infusion reactions occurring during or within 24 hours following the first randomized infusion of OCREVUS.
+The primary analysis was performed when 580 patients were randomized, at which time 469/579 (81%) of the treated patients had received only a single randomized infusion of OCREVUS.
+The proportions of patients with infusion reactions occurring during or within 24 hours following the first randomized infusion in this substudy were similar between the 2-hour and 3.5-hour infusion groups (24.4% versus 23.3%, respectively).
+Overall, in all randomized doses, 27.1% of the patients in the 2-hour infusion group and 25.0% of the patients in the 3.5-hour infusion group reported mild or moderate infusion reactions; two infusion reactions were severe in intensity, with one severe infusion reaction (0.3%) reported in one patient in each group in this substudy [see Warnings and Precautions (5.1)].
+There were no life-threatening, fatal, or serious infusion reactions in this substudy.

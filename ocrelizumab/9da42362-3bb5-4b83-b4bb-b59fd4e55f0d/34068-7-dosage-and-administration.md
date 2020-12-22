@@ -43,7 +43,9 @@ Table 1 Recommended Dose, Infusion Rate, and Infusion Duration for RMS and PPMS
 | --- | --- | --- | --- |
 | Initial Dose (two infusions) | Infusion 1 | 300 mg in 250 mL | Start at 30 mL per hourIncrease by 30 mL per hour every 30 minutesMaximum: 180 mL per hourDuration: 2.5 hours or longer |
 | Infusion 2 (2 weeks later) | 300 mg in 250 mL |  |  |
-| Subsequent Doses (one infusion) | One infusion every 6 monthsAdminister the first Subsequent Dose 6 months after Infusion 1 of the Initial Dose. | 600 mg in 500 mL | Start at 40 mL per hourIncrease by 40 mL per hour every 30 minutesMaximum: 200 mL per hourDuration: 3.5 hours or longer |
+| Subsequent Doses (one infusion) every 6 months)Administer the first Subsequent Dose 6 months after Infusion 1 of the Initial Dose. | Option 1 Infusion of approximately 3.5 hours duration | 600 mg in 500 mL | Start at 40 mL per hourIncrease by 40 mL per hour every 30 minutesMaximum: 200 mL per hourDuration: 3.5 hours or longer |
+| OR |  |  |  |
+| Option 2 (If no prior serious infusion reaction with any previous OCREVUS infusion)[see Adverse Reactions (6.1) and Clinical Studies (14.3)]. Infusion of approximately 2 hours duration | 600 mg in 500 mL | Start at 100 mL per hour for the first 15 minutesIncrease to 200 mL per hour for the next 15 minutesIncrease to 250 mL per hour for the next 30 minutesIncrease to 300 mL per hour for the remaining 60 minutes Duration: 2 hours or longer |  |
 
 ## 2.4 Delayed or Missed Doses
 
@@ -97,7 +99,7 @@ Storage of Infusion Solution
 Prior to the start of the intravenous infusion, the content of the infusion bag should be at room temperature.
 
 Use the prepared infusion solution immediately.
-If not used immediately, store up to 24 hours in the refrigerator at 2°C–8°C (36°F–46°F) and 8 hours at room temperature up to 25°C (77°F), which includes infusion time.
+If not used immediately, store up to 24 hours in the refrigerator at 2°C to 8°C (36°F to 46°F) and 8 hours at room temperature up to 25°C (77°F), which includes infusion time.
 In the event an intravenous infusion cannot be completed the same day, discard the remaining solution.
 
 No incompatibilities between OCREVUS and polyvinyl chloride (PVC) or polyolefin (PO) bags and intravenous (IV) administration sets have been observed.
