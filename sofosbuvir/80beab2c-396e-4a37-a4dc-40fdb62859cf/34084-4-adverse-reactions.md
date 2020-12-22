@@ -34,7 +34,7 @@ Table 5 Adverse Events (All Grades and without Regard to Causality) Reported in 
 | N=71 | N=650 | N=250 | N=243 | N=327 |  |
 | --- | --- | --- | --- | --- | --- |
 |  | Interferon-free Regimens |  |  | Interferon-containing Regimens |  |
-|  | PBO 12 weeks | SOVALDI + RBVSubjects received weight-based ribavirin (1000 mg per day if weighing <75 kg or 1200 mg per day if weighing ≥75 kg). 12 weeks | SOVALDI + RBV 24 weeks | Peg-IFN alfa + RBVSubjects received 800 mg ribavirin per day regardless of weight. 24 weeks | SOVALDI + Peg-IFN alfa + RBV 12 weeks |
+|  | PBO 12 weeks | SOVALDI + RBV Subjects received weight-based ribavirin (1000 mg per day if weighing <75 kg or 1200 mg per day if weighing ≥75 kg). 12 weeks | SOVALDI + RBV 24 weeks | Peg-IFN alfa + RBV Subjects received 800 mg ribavirin per day regardless of weight. 24 weeks | SOVALDI + Peg-IFN alfa + RBV 12 weeks |
 | Fatigue | 24% | 38% | 30% | 55% | 59% |
 | Headache | 20% | 24% | 30% | 44% | 36% |
 | Nausea | 18% | 22% | 13% | 29% | 34% |
@@ -71,14 +71,14 @@ Table 6 Percentage of Subjects Reporting Selected Hematological Parameters
 |  | N=71 | N=647 | N=250 | N=242 | N=327 |
 | --- | --- | --- | --- | --- | --- |
 | Hematological Parameters | Interferon-free Regimens |  |  | Interferon-containing Regimens |  |
-| PBO 12 weeks | SOVALDI + RBVSubjects received weight-based ribavirin (1000 mg per day if weighing <75 kg or 1200 mg per day if weighing ≥75 kg). 12 weeks | SOVALDI + RBV 24 weeks | Peg-IFN + RBVSubjects received 800 mg ribavirin per day regardless of weight. 24 weeks | SOVALDI + Peg-IFN + RBV 12 weeks |  |
+| PBO 12 weeks | SOVALDI + RBV Subjects received weight-based ribavirin (1000 mg per day if weighing <75 kg or 1200 mg per day if weighing ≥75 kg). 12 weeks | SOVALDI + RBV 24 weeks | Peg-IFN + RBV Subjects received 800 mg ribavirin per day regardless of weight. 24 weeks | SOVALDI + Peg-IFN + RBV 12 weeks |  |
 | Hemoglobin (g/dL) |  |  |  |  |  |
 | <10 | 0 | 8% | 6% | 14% | 23% |
 | <8.5 | 0 | 1% | <1% | 2% | 2% |
-| Neutrophils (×109/L) |  |  |  |  |  |
+| Neutrophils (×10 9/L) |  |  |  |  |  |
 | ≥0.5 – <0.75 | 1% | <1% | 0 | 12% | 15% |
 | <0.5 | 0 | <1% | 0 | 2% | 5% |
-| Platelets (×109/L) |  |  |  |  |  |
+| Platelets (×10 9/L) |  |  |  |  |  |
 | ≥25 – <50 | 3% | <1% | 1% | 7% | <1% |
 | <25 | 0 | 0 | 0 | 0 | 0 |
 
