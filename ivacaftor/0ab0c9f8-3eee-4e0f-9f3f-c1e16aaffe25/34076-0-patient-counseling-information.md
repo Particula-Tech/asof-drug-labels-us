@@ -22,7 +22,7 @@ Inquire and/or assess whether patients have liver impairment.
 Reduce the dose of KALYDECO in patients aged 6 months and older with moderately impaired hepatic function (Child-Pugh Class B, score 7-9) to one tablet or one packet of granules once daily.
 KALYDECO has not been studied in patients with severe hepatic impairment (Child-Pugh Class C, score 10-15); however, exposure is expected to be substantially higher than that observed in patients with moderate hepatic impairment.
 When benefits are expected to outweigh the risks, KALYDECO should be used with caution in patients aged 6 months and older with severe hepatic impairment at a reduced dose [see Dosage and Administration (2.4)].
-Treatment with KALYDECO is not recommended in patients aged 4 months to less than 6 months with any signs of hepatic impairment..
+Treatment with KALYDECO is not recommended in patients aged 4 months to less than 6 months with any signs of hepatic impairment.
 No dose adjustment is recommended for patients with mild hepatic impairment (Child-Pugh Class A, score 5-6) [see Use in Specific Populations (8.6)].
 
 Administration

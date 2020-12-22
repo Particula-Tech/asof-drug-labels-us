@@ -9,21 +9,14 @@ The overall level of ivacaftor-mediated CFTR chloride transport is dependent on 
 
 CFTR Chloride Transport Assay in Fisher Rat Thyroid (FRT) cells expressing mutant CFTR
 
-In order to evaluate the response of mutant CFTR protein to ivacaftor, total chloride transport was determined in Ussing chamber electrophysiology studies using a panel of FRT cell lines transfected with individual CFTR mutations.
+The chloride transport response of mutant CFTR protein to ivacaftor was determined in Ussing chamber electrophysiology studies using a panel of FRT cell lines transfected with individual CFTR mutations.
 Ivacaftor increased chloride transport in FRT cells expressing CFTR mutations that result in CFTR protein being delivered to the cell surface.
 
-Data shown in Figure 1 are the mean (n=3-7) net change over baseline in CFTR-mediated chloride transport following the addition of ivacaftor in FRT cells expressing mutant CFTR proteins.
-The in vitro CFTR chloride response threshold was designated as a net increase of at least 10% of normal over baseline (dotted line) because it is predictive or reasonably expected to predict clinical benefit.
-Mutations with an increase in chloride transport of 10% or greater are considered responsive.
+The in vitro CFTR chloride transport response threshold was designated as a net increase of at least 10% of normal over baseline because it is predictive or reasonably expected to predict clinical benefit.
+For individual mutations, the magnitude of the net change over baseline in CFTR-mediated chloride transport in vitro is not correlated with the magnitude of clinical response.
 A patient must have at least one CFTR mutation responsive to ivacaftor to be indicated.
 
-Mutations including F508del that are not responsive to ivacaftor potentiation, based on the in vitro CFTR chloride response threshold, are listed in Figure 1 below the dotted line.
-
-Figure 1: Net Change Over Baseline (% of Normal) in CFTR-Mediated Chloride Transport Following Addition of Ivacaftor in FRT Cells Expressing Mutant CFTR (Ussing Chamber Electrophysiology Data)
-
-* Clinical data exist for these mutations [see Clinical Studies (14)]. # A46D, G85E, E92K, P205S, R334W, R347P, T338I, S492F, I507del, V520F, A559T, R560S, R560T, A561E, L927P, H1054D, G1061R, L1065P, R1066C, R1066H, R1066M, L1077P, H1085R, M1101K, W1282X, N1303K mutations in the CFTR gene do not meet the threshold of change in CFTR-mediated chloride transport of at least 10% of normal over baseline.
-
-Note that splice mutations cannot be studied in this FRT assay and are not included in Figure 1.
+Note that splice site mutations cannot be studied in the FRT assay.
 Evidence of clinical efficacy exists for non-canonical splice mutations 2789+5G→A, 3272-26A→G, 3849+10kbC→T, 711+3A→G and E831X and these are listed in Table 3 below [see also Clinical Studies (14.4)].
 The G970R mutation causes a splicing defect resulting in little-to-no CFTR protein at the cell surface that can be potentiated by ivacaftor [see Clinical Studies (14.2)].
 
@@ -33,14 +26,27 @@ Table 3 lists mutations that are responsive to ivacaftor based on 1) a positive 
 
 Table 3: List of CFTR Gene Mutations that Produce CFTR Protein and are Responsive to KALYDECO
 
-| E56K | G178R | S549R | S977F | F1074L | 2789+5G→A |
-| --- | --- | --- | --- | --- | --- |
-| P67L | E193K | G551D | F1052V | D1152H | 3272-26A→G |
-| R74W | L206W | G551S | K1060T | G1244E | 3849+10kbC→T |
-| D110E | R347H | D579G | A1067T | S1251N |  |
-| D110H | R352Q | 711+3A→G | G1069R | S1255P |  |
-| R117C | A455E | E831X | R1070Q | D1270N |  |
-| R117H | S549N | S945L | R1070W | G1349D |  |
+| 711+3A→G Clinical data exist for these mutations [see Clinical Studies (14)]. | F311del | I148T | R75Q | S589N |
+| --- | --- | --- | --- | --- |
+| 2789+5G→A | F311L | I175V | R117C | S737F |
+| 3272-26A→G | F508C | I807M | R117G | S945L |
+| 3849+10kbC→T | F508C;S1251N Complex/compound mutations where a single allele of the CFTR gene has multiple mutations; these exist independent of the presence of mutations on the other allele. | I1027T | R117H | S977F |
+| A120T | F1052V | I1139V | R117L | S1159F |
+| A234D | F1074L | K1060T | R117P | S1159P |
+| A349V | G178E | L206W | R170H | S1251N |
+| A455E | G178R | L320V | R347H | S1255P |
+| A1067T | G194R | L967S | R347L | T338I |
+| D110E | G314E | L997F | R352Q | T1053I |
+| D110H | G551D | L1480P | R553Q | V232D |
+| D192G | G551S | M152V | R668C | V562I |
+| D579G | G576A | M952I | R792G | V754M |
+| D924N | G970D | M952T | R933G | V1293G |
+| D1152H | G1069R | P67L | R1070Q | W1282R |
+| D1270N | G1244E | Q237E | R1070W | Y1014C |
+| E56K | G1249R | Q237H | R1162L | Y1032C |
+| E193K | G1349D | Q359R | R1283M |  |
+| E822K | H939R | Q1291R | S549N |  |
+| E831X | H1375P | R74W | S549R |  |
 
 ## 12.2 Pharmacodynamics
 
@@ -106,9 +112,9 @@ Following oral administration, the majority of ivacaftor (87.8%) is eliminated i
 The major metabolites M1 and M6 accounted for approximately 65% of the total dose eliminated with 22% as M1 and 43% as M6.
 There was negligible urinary excretion of ivacaftor as unchanged parent.
 
-Specific populations
+Specific Populations
 
-Pediatric patients
+Pediatric Patients
 
 The following conclusions about exposures between adults and the pediatric population are based on population PK analyses:
 
