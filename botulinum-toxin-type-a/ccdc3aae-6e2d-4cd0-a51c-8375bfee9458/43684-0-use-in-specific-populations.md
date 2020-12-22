@@ -29,7 +29,13 @@ The developmental and health benefits of breastfeeding should be considered alon
 
 ## 8.4 Pediatric Use
 
-Safety and effectiveness of XEOMIN in patients less than 18 years of age have not been established for lower limb spasticity, sialorrhea, cervical dystonia, blepharospasm, or glabellar frown lines [see Warnings and Precautions (5.1)].
+Safety and effectiveness of XEOMIN in patients less than 18 years of age have not been established for lower limb spasticity, cervical dystonia, blepharospasm, or glabellar frown lines [see Warnings and Precautions (5.1)].
+
+Chronic Sialorrhea in Pediatric Patients
+
+The safety and effectiveness of XEOMIN have been established by evidence from an adequate and well-controlled study of XEOMIN in patients 6 to 17 years of age with chronic sialorrhea [See Clinical Studies (14.1)].
+Use of XEOMIN in patients 2 to 5 years of age is supported by the findings of efficacy and safety in patients 6 years and older with chronic sialorrhea, and by safety data in patients 2 to 5 years of age.
+Safety and effectiveness in pediatric patients below the age of 2 years have not been established [see Warnings and Precautions (5.1)].
 
 Upper Limb Spasticity in Pediatric Patients, Excluding Spasticity Caused by Cerebral Palsy
 
@@ -50,7 +56,7 @@ The lowest dose tested (5 Units/kg) is less than the human dose of 400 Units on 
 
 Chronic Sialorrhea
 
-Of the total number of 184 patients in the placebo-controlled study in chronic sialorrhea [see Clinical Studies (14.1)], 107 were 65 years of age and over (46 treated with XEOMIN 100 Units, 44 treated with XEOMIN 75 Units, and 17 received placebo).
+Of the total number of 184 patients in the placebo-controlled study in chronic sialorrhea in adult patients [see Clinical Studies (14.1)], 107 were 65 years of age and over (46 treated with XEOMIN 100 Units, 44 treated with XEOMIN 75 Units, and 17 received placebo).
 No differences in safety or effectiveness were observed between older and younger patients.
 Other clinical studies have not identified differences in responses between older and younger patients, but increased sensitivity in older patients cannot be ruled out.
 
