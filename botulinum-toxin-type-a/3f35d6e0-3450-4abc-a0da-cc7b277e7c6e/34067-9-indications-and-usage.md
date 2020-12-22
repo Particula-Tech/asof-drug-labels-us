@@ -2,7 +2,7 @@
 
 ## 1.1 Chronic Sialorrhea
 
-XEOMIN is indicated for the treatment of chronic sialorrhea in adult patients.
+XEOMIN is indicated for the treatment of chronic sialorrhea in patients 2 years of age and older.
 
 ## 1.2 Upper Limb Spasticity
 

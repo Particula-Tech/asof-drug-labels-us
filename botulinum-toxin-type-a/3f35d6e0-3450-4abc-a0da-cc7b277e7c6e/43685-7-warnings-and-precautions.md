@@ -32,7 +32,7 @@ When distant effects occur, additional respiratory muscles may be involved [see 
 
 Deaths as a complication of severe dysphagia have been reported after treatment with botulinum toxin.
 Dysphagia may persist for several months, and require use of a feeding tube to maintain adequate nutrition and hydration.
-Aspiration may result from severe dysphagia and is a particular risk when treating patients in whom swallowing or respiratory function is already compromised.
+Aspiration may result from severe dysphagia, and is a particular risk when treating patients in whom swallowing or respiratory function is already compromised.
 
 Treatment of cervical dystonia with botulinum toxins may weaken neck muscles that serve as accessory muscles of ventilation.
 This may result in critical loss of breathing capacity in patients with respiratory disorders who may have become dependent upon these accessory muscles.

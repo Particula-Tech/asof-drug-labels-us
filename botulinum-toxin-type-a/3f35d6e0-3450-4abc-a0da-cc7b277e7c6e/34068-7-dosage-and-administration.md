@@ -10,13 +10,13 @@ The recommended maximum cumulative dose for any indication should not exceed 400
 
 ## 2.2 Chronic Sialorrhea
 
+Chronic Sialorrhea in Adult Patients
+
 XEOMIN is injected into the parotid and submandibular glands on both sides (i.e., 4 injection sites per treatment session).
 The recommended total dose per treatment session is 100 Units.
 The dose is divided with a ratio of 3:2 between the parotid and submandibular glands (Table 1).
 
-Figure 1: Glands for Injection in Chronic Sialorrhea
-
-M = Masseter
+Figure 1: Glands for Injection in Chronic Sialorrhea in Adult Patients
 
 Use the following guidelines if locating salivary glands using anatomic landmarks:
 
@@ -25,7 +25,7 @@ Use the following guidelines if locating salivary glands using anatomic landmark
 2. 2)To inject the submandibular gland, find the midpoint between the angle of the mandible and the tip of the chin (Site B and C, respectively, Figure 1).
    Deliver the injection one finger breadth medial to the inferior surface of the mandible at this site (Star 2, Figure 1).
 
-Table 1: Dosing by Gland for Treatment of Chronic Sialorrhea
+Table 1: Dosing by Gland for Treatment of Chronic Sialorrhea in Adult Patients
 
 | Gland(s) | Units Per Side | Total |
 | --- | --- | --- |
@@ -33,7 +33,31 @@ Table 1: Dosing by Gland for Treatment of Chronic Sialorrhea
 | Submandibular gland(s) | 20 Units | 40 Units |
 | Both Glands | 50 Units | 100 Units |
 
-The concentration used in the clinical study after reconstitution is 5 Units/0.1mL.
+The concentration used in the clinical study after reconstitution was 5 Units/0.1mL.
+The timing for repeat treatment should be determined based on the actual clinical need of the individual patient, and no sooner than every 16 weeks.
+
+Chronic Sialorrhea in Pediatric Patients
+
+XEOMIN is injected into the parotid and submandibular glands on both sides (i.e., 4 injection sites per treatment session).
+Ultrasound imaging is recommended to guide needle placement into the salivary glands.
+The body-weight adjusted dose is divided with a ratio of 3:2 between the parotid and submandibular glands (Table 2).
+XEOMIN has not been studied in children weighing less than 12 kg [see Clinical Studies (14.1)].
+
+Figure 2: Glands for Injection in Chronic Sialorrhea in Pediatric Patients
+
+Table 2: Dosing by Body Weight Class for Treatment of Chronic Sialorrhea in Pediatric Patients
+
+| Dose per gland | Volume per injection | Dose per gland | Volume per injection |  |  |
+| --- | --- | --- | --- | --- | --- |
+| Body weight | Parotid gland, each side |  | Submandibular gland, each side |  | Total dose, both glands, both sides |
+| 12 kg or more to less than 15 kg | 6 Units | 0.24 mL | 4 Units | 0.16 mL | 20 Units |
+| 15 kg or more to less than 19 kg | 9 Units | 0.36 mL | 6 Units | 0.24 mL | 30 Units |
+| 19 kg or more to less than 23 kg | 12 Units | 0.48 mL | 8 Units | 0.32 mL | 40 Units |
+| 23 kg or more to less than 27 kg | 15 Units | 0.6 mL | 10 Unts | 0.4 mL | 50 Units |
+| 27 kg or more to less than 30 kg | 18 Units | 0.72 mL | 12 Units | 0.48 mL | 60 Units |
+| 30 kg or more | 22.5 Units | 0.9 mL | 15 Units | 0.6 mL | 75 Units |
+
+The concentration used in the clinical study after reconstitution was 2.5 Units/0.1 mL.
 The timing for repeat treatment should be determined based on the actual clinical need of the individual patient, and no sooner than every 16 weeks.
 
 ## 2.3 Upper Limb Spasticity
@@ -45,7 +69,7 @@ The frequency of XEOMIN treatments should be no sooner than every 12 weeks.
 In patients not previously treated with a botulinum toxin, initial dosing should begin at the low end of the recommended dosing range and titrated as clinically necessary.
 Most patients in clinical studies were retreated between 12 and 14 weeks.
 
-Table 2: XEOMIN Dosing by Muscle for Treatment of Adult Upper Limb Spasticity
+Table 3: XEOMIN Dosing by Muscle for Treatment of Adult Upper Limb Spasticity
 
 | Clinical Pattern Muscle | Units (Range) | Number of injection sites per muscle |
 | --- | --- | --- |
@@ -67,7 +91,7 @@ Table 2: XEOMIN Dosing by Muscle for Treatment of Adult Upper Limb Spasticity
 | Adductor pollicis | 5 Units-30 Units | 1 |
 | Flexor pollicis brevis/Opponens pollicis | 5 Units-30 Units | 1 |
 
-Figure 2: Muscles Involved In Adult Upper Limb Spasticity
+Figure 3: Muscles Involved In Adult Upper Limb Spasticity
 
 Upper Limb Spasticity in Pediatric Patients, Excluding Spasticity Caused by Cerebral Palsy
 
@@ -80,9 +104,9 @@ Based on the selected dose, a reconstituted solution at a concentration between 
 The timing for repeat treatment should be determined based on the clinical need of the patient; the frequency of repeat treatments should be no sooner than every 12 weeks.
 Most patients in clinical studies were retreated between 12 and 16 weeks.
 
-Table 3 includes the recommended dose ranges for the treatment of the clinical patterns of flexed elbow, flexed wrist, pronated forearm, clenched fist, and thumb-in-palm.
+Table 4 includes the recommended dose ranges for the treatment of the clinical patterns of flexed elbow, flexed wrist, pronated forearm, clenched fist, and thumb-in-palm.
 
-Table 3: XEOMIN Dosing by Muscle for Treatment of Pediatric Upper Limb Spasticity, Excluding Spasticity Caused by Cerebral Palsy
+Table 4: XEOMIN Dosing by Muscle for Treatment of Pediatric Upper Limb Spasticity, Excluding Spasticity Caused by Cerebral Palsy
 
 | Range (Units/kg) | Maximum (Units) |  |  |
 | --- | --- | --- | --- |
@@ -105,7 +129,7 @@ Table 3: XEOMIN Dosing by Muscle for Treatment of Pediatric Upper Limb Spasticit
 | Adductor pollicis | 0.5 | 12.5 | 1 |
 | Flexor pollicis brevis/ opponens pollicis | 0.5 | 12.5 | 1 |
 
-Figure 3: Muscles Injected for Pediatric Upper Limb Spasticity
+Figure 4: Muscles Injected for Pediatric Upper Limb Spasticity
 
 ## 2.4 Cervical Dystonia
 
@@ -126,10 +150,10 @@ In patients previously treated with a botulinum toxin A, their past dose, respon
 
 The total dose of XEOMIN should not exceed 100 Units per treatment session (50 Units per eye).
 
-XEOMIN is injected into the lateral and medial orbicularis oculi muscle of the upper lid; lateral canthus and the lateral orbicularis oculi muscle of the lower lid; and the corrugator muscle, if necessary (see Figure 4).
+XEOMIN is injected into the lateral and medial orbicularis oculi muscle of the upper lid; lateral canthus and the lateral orbicularis oculi muscle of the lower lid; and the corrugator muscle, if necessary (see Figure 5).
 The number and location of injections may be changed in response to adverse reactions or based on the patient's response to treatment, but the total dose should not exceed 50 Units per eye.
 
-Figure 4: Injection Sites for Blepharospasm
+Figure 5: Injection Sites for Blepharospasm
 
 The frequency of XEOMIN repeat treatments should be determined by clinical response but should generally be no more frequent than every 12 weeks [see Clinical Studies (14.4)].
 
@@ -140,13 +164,13 @@ The five injection sites are: two injections in each corrugator muscle and one i
 
 Retreatment with XEOMIN should be administered no more frequently than every three months.
 
-Figure 5: Injection Sites for Glabellar Lines
+Figure 6: Injection Sites for Glabellar Lines
 
 ## 2.7 Preparation and Reconstitution Technique
 
 Prior to injection, reconstitute each vial of XEOMIN with sterile, preservative-free 0.9% Sodium Chloride Injection, USP [see Dosage Form and Strengths (3)].
 A 20-27 gauge short bevel needle is recommended for reconstitution.
-Draw up an appropriate amount of preservative-free 0.9% Sodium Chloride Injection, USP into a syringe (see Table 4).
+Draw up an appropriate amount of preservative-free 0.9% Sodium Chloride Injection, USP into a syringe (see Table 5).
 Clean the exposed portion of the rubber stopper of the vial with alcohol (70%) prior to insertion of the needle.
 After vertical insertion of the needle through the rubber stopper, the vacuum will draw the saline into the vial.
 Gently inject any remaining saline into the vial to avoid foam formation.
@@ -161,9 +185,9 @@ During this time period, unused reconstituted XEOMIN may be stored in the origin
 XEOMIN vials are for single-dose only.
 Discard any unused portion.
 
-Diluent volumes for reconstitution of XEOMIN are indicated in Table 4.
+Diluent volumes for reconstitution of XEOMIN are indicated in Table 5.
 
-Table 4: Diluent Volumes for Reconstitution of XEOMIN
+Table 5: Diluent Volumes for Reconstitution of XEOMIN
 
 | Volume of preservative-free 0.9% Sodium Chloride Injection, USP | 50 Unit Vial: Resulting dose in Units per 0.1 mL | 100 Unit Vial: Resulting dose in Units per 0.1 mL | 200 Unit Vial: Resulting dose in Units per 0.1 mL |
 | --- | --- | --- | --- |
@@ -191,9 +215,19 @@ Before administering XEOMIN, the physician should be familiar with the patient's
 
 Chronic Sialorrhea
 
+Chronic Sialorrhea in Adult Patients
+
 A sterile needle (e.g., 27-30 gauge (0.30-0.40 mm diameter), 12.5 mm length) should be used for intra-salivary gland administration for the treatment of chronic sialorrhea.
+The injection site should be close to the center of the gland.
 
 The salivary glands can be located using ultrasound imaging or surface anatomical landmarks [see Dosage and Administration (2.2)].
+
+Chronic Sialorrhea in Pediatric Patients
+
+A sterile needle (e.g., 27-30 gauge (0.30-0.40 mm diameter), 12.5 mm length) should be used for intra-salivary gland administration for the treatment of chronic sialorrhea.
+The injection site should be close to the center of the gland.
+
+Ultrasound guidance is recommended for the localization of the involved salivary glands [see Clinical Studies (14.1)].
 
 Upper Limb Spasticity
 
@@ -225,5 +259,5 @@ A sterile needle (e.g., 30-33 gauge (0.3-0.2 mm diameter), 13 mm length) should 
 
 ## 2.9 Monitoring to Assess Effectiveness
 
-The median first onset of XEOMIN effect occurs within seven days after injection.
-The typical duration of effect of each treatment is up to 12-16 weeks however, the effect may last longer, or shorter, in individual patients.
+The median onset of XEOMIN treatment effect occurs within seven days after injection.
+The typical duration of effect of each treatment is up to 12-16 weeks; however, the duration of effect may vary in individual patients.

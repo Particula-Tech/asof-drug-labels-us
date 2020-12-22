@@ -8,9 +8,9 @@
 | These problems could make it unsafe for you to drive a car or do other dangerous activities. See "What should I avoid while receiving XEOMIN?" |  |  |  |
 | What is XEOMIN? |  |  |  |
 | XEOMIN is a prescription medicine: |  |  |  |
-| that is injected into glands that make saliva and is used to treat long-lasting (chronic) drooling (sialorrhea) in adults.that is injected into muscles and used to: treat increased muscle stiffness in the arm because of upper limb spasticity in adults.treat increased muscle stiffness in the arm in children 2 to 17 years of age with upper limb spasticity, excluding spasticity caused by cerebral palsy.treat the abnormal head position and neck pain with cervical dystonia (CD) in adults.treat abnormal spasm of the eyelids (blepharospasm) in adults.improve the look of moderate to severe frown lines between the eyebrows (glabellar lines) for a short period of time (temporary) in adults. |  |  |  |
+| that is injected into glands that make saliva and is used to treat long-lasting (chronic) drooling (sialorrhea) in adults and in children 2 to 17 years of age.that is injected into muscles and used to: treat increased muscle stiffness in the arm because of upper limb spasticity in adults.treat increased muscle stiffness in the arm in children 2 to 17 years of age with upper limb spasticity, excluding spasticity caused by cerebral palsy.treat the abnormal head position and neck pain with cervical dystonia (CD) in adults.treat abnormal spasm of the eyelids (blepharospasm) in adults.improve the look of moderate to severe frown lines between the eyebrows (glabellar lines) for a short period of time (temporary) in adults. |  |  |  |
 | It is not known if XEOMIN is safe and effective in children younger than: |  |  |  |
-| 2 years of age for the treatment of upper limb spasticity18 years of age for the treatment of sialorrhea, cervical dystonia, blepharospasm, or glabellar lines |  |  |  |
+| 2 years of age for the treatment of chronic sialorrhea2 years of age for the treatment of upper limb spasticity18 years of age for the treatment of cervical dystonia, blepharospasm, or glabellar lines |  |  |  |
 | Do not take XEOMIN if you: |  |  |  |
 | are allergic to XEOMIN or any of the ingredients in XEOMIN. See the end of this Medication Guide for a list of ingredients in XEOMIN.had an allergic reaction to any other botulinum toxin products such as rimabotulinumtoxinB (MYOBLOC), onabotulinumtoxinA (BOTOX, BOTOX COSMETIC), or abobotulinumtoxinA (DYSPORT).have a skin infection at the planned injection site. |  |  |  |
 | Before receiving XEOMIN, tell your doctor about all of your medical conditions, including if you: |  |  |  |
@@ -30,6 +30,8 @@
 | Injury to the cornea (the clear front surface of the eye) in people treated for blepharospasm. People who receive XEOMIN to treat spasm of the eyelid may have reduced blinking that can cause a sore on their cornea or other problems of the cornea. Call your healthcare provider or get medical care right away if you have eye pain or irritation after treatment with XEOMIN.XEOMIN may cause other serious side effects including allergic reactions. Symptoms of an allergic reaction to XEOMIN may include: itching, rash, redness, swelling, wheezing, trouble breathing, or dizziness or feeling faint. Tell your doctor or get medical help right away if you get wheezing or trouble breathing, or if you get dizzy or faint. |  |  |  |
 | The most common side effects of XEOMIN in adults with chronic sialorrhea include: |  |  |  |
 |  | needing to have a tooth pulled (extracted)dry mouth | diarrheahigh blood pressure |  |
+| The most common side effects of XEOMIN in children 2 to 17 years of age with chronic sialorrhea include: |  |  |  |
+|  | bronchitisnausea | headachevomiting |  |
 | The most common side effects of XEOMIN in adults with upper limb spasticity include: |  |  |  |
 |  | seizurenasal congestion, sore throat and runny nose | dry mouthupper respiratory infection |  |
 | The most common side effects of XEOMIN in children 2 to 17 years of age with upper limb spasticity include: |  |  |  |
@@ -48,5 +50,5 @@
 | Active ingredient: botulinum toxin type A |  |  |  |
 | Inactive ingredients: human albumin and sucrose |  |  |  |
 | Manufactured by: Merz Pharmaceuticals GmbH, Eckenheimer Landstrasse 100, Frankfurt Germany U.S. License Number 1830 Distributed by: Merz Pharmaceuticals, LLC, 6501 Six Forks Road, Raleigh, NC 27615 and Merz North America, Inc. 4133 Courtney Street, Suite 10, Franksville, WI 53126 © 2020 Merz Pharmaceuticals, LLC, XEOMIN® is a registered trademark of Merz Pharma GmbH & Co KGaA. All trademarks are the property of their respective owners. Patent www.merzusa.com/patents/ |  |  |  |
-| EM00674-05 |  |  |  |
-| This Medication Guide has been approved by the U. S. Food and Drug Administration. |  |  | Revised: 8/2020 |
+| EM00674-06 |  |  |  |
+| This Medication Guide has been approved by the U. S. Food and Drug Administration. |  |  | Revised: 12/2020 |
