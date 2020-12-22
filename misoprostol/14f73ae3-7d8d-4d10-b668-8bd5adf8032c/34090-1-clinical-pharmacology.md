@@ -13,15 +13,14 @@ No accumulation of misoprostol acid was noted in multiple dose studies; plasma s
 Maximum plasma concentrations of misoprostol acid are diminished when the dose is taken with food and total availability of misoprostol acid is reduced by use of concomitant antacid.
 Clinical trials were conducted with concomitant antacid, however, so this effect does not appear to be clinically important.
 
-| Mean ± SD | Cmax (pg/ml) | AUC(0–4) (pg·hr/ml) | Tmax (min) |
+| Mean ± SD | Cmax(pg/ml) | AUC(0–4) (pg∙hr/ml) | Tmax(min) |
 | --- | --- | --- | --- |
 | Fasting | 811 ± 317 | 417 ± 135 | 14 ± 8 |
 | With Antacid | 689 ± 315 | 349 ± 108* | 20 ± 14 |
 | With High Fat Breakfast | 303 ± 176* | 373 ± 111 | 64 ± 79* |
-| *Comparisons with fasting results statistically significant, p<0.05. |  |  |  |
 
 After oral administration of radiolabeled misoprostol, about 80% of detected radioactivity appears in urine.
-Pharmacokinetic studies in patients with varying degrees of renal impairment showed an approximate doubling of T1/2, Cmax, and AUC compared to normals, but no clear correlation between the degree of impairment and AUC.
+Pharmacokinetic studies in patients with varying degrees of renal impairment showed an approximate doubling of T 1/2, C max, and AUC compared to normals, but no clear correlation between the degree of impairment and AUC.
 In subjects over 64 years of age, the AUC for misoprostol acid is increased.
 No routine dosage adjustment is recommended in older patients or patients with renal impairment, but dosage may need to be reduced if the usual dose is not tolerated.
 

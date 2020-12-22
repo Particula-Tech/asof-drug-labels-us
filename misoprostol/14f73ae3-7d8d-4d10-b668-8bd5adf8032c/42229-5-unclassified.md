@@ -14,7 +14,7 @@ Misoprostol Tablets has been shown to produce uterine contractions that may enda
 Misoprostol Tablets does not produce clinically significant effects on serum levels of prolactin, gonadotropins, thyroid-stimulating hormone, growth hormone, thyroxine, cortisol, gastrointestinal hormones (somatostatin, gastrin, vasoactive intestinal polypeptide, and motilin), creatinine, or uric acid.
 Gastric emptying, immunologic competence, platelet aggregation, pulmonary function, or the cardiovascular system are not modified by recommended doses of Misoprostol Tablets.
 
-# clinical studies
+# Clinical Studies
 
 In a series of small short-term (about 1 week) placebo-controlled studies in healthy human volunteers, doses of misoprostol were evaluated for their ability to reduce the risk of NSAID-induced mucosal injury.
 Studies of 200 mcg q.i.d. of misoprostol with tolmetin and naproxen, and of 100 and 200 mcg q.i.d. with ibuprofen, all showed reduction of the rate of significant endoscopic injury from about 70 to 75% on placebo to 10 to 30% on misoprostol.
@@ -27,24 +27,25 @@ Patients were approximately equally divided between ibuprofen, piroxicam, and na
 The 200-mcg dose caused a marked, statistically significant reduction in gastric ulcers in both studies.
 The lower dose was somewhat less effective, with a significant result in only one of the studies.
 
-Reduction of Risk of Gastric Ulcers Induced by Ibuprofen, Piroxicam, or Naproxen [No. of patients with ulcer(s) (%)]
+Reduction of Risk of Gastric Ulcers Induced by Ibuprofen, Piroxicam, or Naproxen
 
-|  | Therapy | Duration |  |  |
+[No. of patients with ulcer(s) (%)]
+
+|  | Therapy Duration |  |  |  |
 | --- | --- | --- | --- | --- |
 | Therapy | 4 weeks | 8 weeks | 12 weeks |  |
 | Study No. 1 |  |  |  |  |
-| Misoprostol Tablets 200 mcg q.i.d. (n=74) | 1 (1.4) | 0 | 0 | 1 (1.4)* |
-| Misoprostol Tablets 100 mcg q.i.d. (n=77) | 3 (3.9) | 1 (1.3) | 1 (1.3) | 5 (6.5)* |
-| Placebo (n=76) | 11 (14.5) | 4 (5.3) | 4 (5.3) | 19 (25.0) |
+| Misoprostol Tablets 200 mcg q.i.d. (n=74) | 1 (1.4) | 1 (1.4) | 1 (1.4) | 1 (1.4) |
+| Misoprostol Tablets 100 mcg q.i.d. (n=77) | 3 (3.9) | 3 (3.9) | 3 (3.9) | 3 (3.9) |
+| Placebo (n=76) | 11 (14.5) | 11 (14.5) | 11 (14.5) | 11 (14.5) |
 | Study No. 2 |  |  |  |  |
-| Misoprostol Tablets 200 mcg q.i.d. (n=65) | 1 (1.5) | 1 (1.5) | 0 | 2 (3.1)* |
-| Misoprostol Tablets 100 mcg q.i.d. (n=66) | 2 (3.0) | 2 (3.0) | 1 (1.5) | 5 (7.6) |
-| Placebo (n=62) | 6 (9.7) | 2 (3.2) | 3 (4.8) | 11 (17.7) |
+| Misoprostol Tablets 200 mcg q.i.d. (n=65) | 1 (1.5) | 1 (1.5) | 1 (1.5) | 1 (1.5) |
+| Misoprostol Tablets 100 mcg q.i.d. (n=66) | 2 (3.0) | 2 (3.0) | 2 (3.0) | 2 (3.0) |
+| Placebo (n=62) | 6 (9.7) | 6 (9.7) | 6 (9.7) | 6 (9.7) |
 | Studies No. 1 & No. 2** |  |  |  |  |
-| Misoprostol Tablets 200 mcg q.i.d. (n=139) | 2 (1.4) | 1 (0.7) | 0 | 3 (2.2)* |
-| Misoprostol Tablets 100 mcg q.i.d. (n=143) | 5 (3.5) | 3 (2.1) | 2 (1.4) | 10 (7.0)* |
-| Placebo (n=138) | 17 (12.3) | 6 (4.3) | 7 (5.1) | 30 (21.7) |
-| * Statistically significantly different from placebo at the 5% level. ** Combined data from Study No. 1 and Study No. 2. |  |  |  |  |
+| Misoprostol Tablets 200 mcg q.i.d. (n=139) | 2 (1.4) | 2 (1.4) | 2 (1.4) | 2 (1.4) |
+| Misoprostol Tablets 100 mcg q.i.d. (n=143) | 5 (3.5) | 5 (3.5) | 5 (3.5) | 5 (3.5) |
+| Placebo (n=138) | 17 (12.3) | 17 (12.3) | 17 (12.3) | 17 (12.3) |
 
 In these trials there were no significant differences between Misoprostol Tablets and placebo in relief of day or night abdominal pain.
 No effect of Misoprostol Tablets in reducing the risk of duodenal ulcers was demonstrated, but relatively few duodenal lesions were seen.
@@ -70,11 +71,9 @@ The mutagenic potential of Misoprostol Tablets was tested in several in vitro as
 Misoprostol, when administered to breeding male and female rats at doses 6.25 times to 625 times the maximum recommended human therapeutic dose, produced dose-related pre- and post-implantation losses and a significant decrease in the number of live pups born at the highest dose.
 These findings suggest the possibility of a general adverse effect on fertility in males and females.
 
-## PregnancyPregnancy Category X
+## Pregnancy
 
 ### Teratogenic Effects
-
-See boxed WARNINGS.
 
 Congenital anomalies sometimes associated with fetal death have been reported subsequent to the unsuccessful use of misoprostol as an abortifacient, but the drug's teratogenic mechanism has not been demonstrated.
 Several reports in the literature associate the use of misoprostol during the first trimester of pregnancy with skull defects, cranial nerve palsies, facial malformations, and limb defects.
@@ -83,10 +82,9 @@ Misoprostol Tablets is not fetotoxic or teratogenic in rats and rabbits at doses
 
 ### Nonteratogenic Effects
 
-See boxed WARNINGS.
-
 Misoprostol Tablets may endanger pregnancy (may cause abortion) and thereby cause harm to the fetus when administered to a pregnant woman.
 Misoprostol Tablets may produce uterine contractions, uterine bleeding, and expulsion of the products of conception.
+
 Abortions caused by Misoprostol Tablets may be incomplete.
 If a woman is or becomes pregnant while taking this drug to reduce the risk of NSAID-induced ulcers, the drug should be discontinued and the patient apprised of the potential hazard to the fetus.
 
@@ -97,11 +95,13 @@ Vaginal administration of Misoprostol Tablets, outside of its approved indicatio
 A major adverse effect of the obstetrical use of Misoprostol Tablets is uterine tachysystole which may progress to uterine tetany with marked impairment of uteroplacental blood flow, uterine rupture (requiring surgical repair, hysterectomy, and/or salpingo-oophorectomy), or amniotic fluid embolism and lead to adverse fetal heart changes.
 Uterine activity and fetal status should be monitored by trained obstetrical personnel in a hospital setting.
 
-The risk of uterine rupture increases with advancing gestational ages and prior uterine surgery, including Cesarean delivery.
+The risk of uterine rupture associated with misoprostol use in pregnancy increases with advancing gestational ages and prior uterine surgery, including Cesarean delivery.
 Grand multiparity also appears to be a risk factor for uterine rupture.
 
 The use of Misoprostol Tablets outside of its approved indication may also be associated with meconium passage, meconium staining of amniotic fluid, and Cesarean delivery.
-Maternal shock, maternal death, fetal bradycardia, and fetal death have also been reported with the use of misoprostol.
+Maternal shock, maternal death, fetal bradycardia, and fetal death have also been reported
+
+with the use of misoprostol.
 
 Misoprostol Tablets should not be used in the third trimester in women with a history of Cesarean section or major uterine surgery because of an increased risk of uterine rupture.
 Misoprostol Tablets should not be used in cases where uterotonic drugs are generally contraindicated or where hyperstimulation of the uterus is considered inappropriate, such as cephalopelvic disproportion, grand multiparity, hypertonic or hyperactive uterine patterns, or fetal distress where delivery is not imminent, or when surgical intervention is more appropriate.
@@ -109,11 +109,15 @@ Misoprostol Tablets should not be used in cases where uterotonic drugs are gener
 The effect of Misoprostol Tablets on later growth, development, and functional maturation of the child when Misoprostol Tablets is used for cervical ripening or induction of labor has not been established.
 Information on Misoprostol Tablet's effect on the need for forceps delivery or other intervention is unknown.
 
+The use of Misoprostol Tablets for the management of postpartum hemorrhage has been associated with reports of high fevers (greater than 40 degrees Celsius or 104 degrees Fahrenheit), accompanied by autonomic and central nervous system effects, such as tachycardia, disorientation, agitation, and convulsions.
+These fevers were transient in nature.
+Supportive therapy should be dictated by the patient's clinical presentation.
+
 ## Nursing Mothers
 
 Misoprostol is rapidly metabolized in the mother to misoprostol acid, which is biologically active and is excreted in breast milk.
 There are no published reports of adverse effects of misoprostol in breast-feeding infants of mothers taking misoprostol.
-Caution should be exercised when misoprostol is administered to a nursing woman.
+Caution should be exercised when misoprostol is administered to a nursing woman..
 
 ## Pediatric Use
 
@@ -161,7 +165,13 @@ Keep out of reach of children.
 
 Rx only
 
-January 2016
+Manufactured for:
+
+Lupin Pharmaceuticals, Inc.
+
+Baltimore, MD 21202
+
+United States
 
 Manufactured by:
 
@@ -169,4 +179,6 @@ Novel Laboratories, Inc.
 
 Somerset, NJ 08873
 
-PI1600003502
+Rev: July 2020
+
+SAP code: 265656

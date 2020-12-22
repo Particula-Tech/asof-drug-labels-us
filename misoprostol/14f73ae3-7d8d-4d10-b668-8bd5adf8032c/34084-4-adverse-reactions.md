@@ -49,3 +49,5 @@ Nervous system/Psychiatric: anxiety, change in appetite, depression, drowsiness,
 Musculoskeletal: arthralgia, myalgia, muscle cramps, stiffness, back pain.
 
 Blood/Coagulation: anemia, abnormal differential, thrombocytopenia, purpura, ESR increased.
+
+To report SUSPECTED ADVERSE REACTIONS, contact Lupin Pharmaceuticlas, Inc. at 1-866-403-7592 or FDA at 1-800-FDA-1088 or www.fda.gov/medwatch

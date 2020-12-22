@@ -28,7 +28,7 @@ The patient should read the leaflet before taking Misoprostol Tablets and each t
 
 Keep Misoprostol Tablets out of the reach of children.
 
-SPECIAL NOTE FOR WOMEN: Misoprostol Tablets may cause birth defects, abortion (sometimes incomplete), or premature labor if given to pregnant women.
+SPECIAL NOTE FOR WOMEN: Misoprostol Tablets may cause birth defects, abortion (sometimes incomplete), premature labor or rupture of the uterus if given to pregnant women.
 
 Misoprostol Tablets is available only as a unit-of-use package that includes a leaflet containing patient information.
 See Patient Information at the end of this labeling.
@@ -41,4 +41,4 @@ Misoprostol Tablets does not exert clinically significant effects on the absorpt
 Misoprostol Tablets has no clinically significant effect on the kinetics of diclofenac or ibuprofen.
 
 Prostaglandins such as Misoprostol Tablets may augment the activity of oxytocic agents, especially when given less than 4 hours prior to initiating oxytocin treatment.
-Concomitant use is not recommended.
+Concomitantuse is not recommended.
