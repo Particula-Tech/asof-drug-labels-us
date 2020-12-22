@@ -2,7 +2,7 @@
 
 ## 13.1 Carcinogenesis, Mutagenesis, Impairment of Fertility
 
-Carcinogenicity studies have not been performed with osimertinib.
+Osimertinib showed no carcinogenic potential when administered orally to rasH2 transgenic mice for 26 weeks.
 Osimertinib did not cause genetic damage in in vitro and in vivo assays.
 
 Based on studies in animals, male fertility may be impaired by treatment with TAGRISSO.
@@ -12,5 +12,5 @@ Following administration of osimertinib to rats for approximately 10 weeks at a 
 Based on studies in animals, female fertility may be impaired by treatment with TAGRISSO.
 In repeat dose toxicity studies, histological evidence of anestrus, corpora lutea degeneration in the ovaries and epithelial thinning in the uterus and vagina were seen in rats exposed to osimertinib for 1 month or more at exposures 0.3 times the AUC observed at the recommended clinical dose of 80 mg once daily.
 Findings in the ovaries seen following 1 month of dosing exhibited evidence of reversibility.
-In a female fertility study in rats, administration of osimertinib from 2 weeks prior to mating through Day 8 of gestation at a dose of 20 mg/kg/day (approximately 1.5 times the Cmax at the recommended dose of 80 mg once daily) had no effects on oestrus cycling or the number of females becoming pregnant, but caused early embryonic deaths.
+In a female fertility study in rats, administration of osimertinib from 2 weeks prior to mating through Day 8 of gestation at a dose of 20 mg/kg/day (approximately 1.5 times the Cmax at the recommended dose of 80 mg once daily) had no effects on estrus cycling or the number of females becoming pregnant, but caused early embryonic deaths.
 These findings showed evidence of reversibility when females were mated 1 month after treatment discontinuation.

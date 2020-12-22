@@ -34,7 +34,7 @@ Cutaneous Vasculitis
 Embryo-Fetal Toxicity
 
 - •Advise pregnant women and females of reproductive potential of the potential risk to a fetus.
-  Advise females to inform their healthcare provider if they become pregnant or if pregnancy is suspected, while taking TAGRISSO [see Warnings and Precautions (5.7) and Use in Specific Populations (8.3)].
+  Advise females to inform their healthcare provider if they become pregnant or if pregnancy is suspected, while taking TAGRISSO [see Warnings and Precautions (5.7) and Use in Specific Populations (8.1)].
 
 Females and Males of Reproductive Potential
 
@@ -43,7 +43,7 @@ Females and Males of Reproductive Potential
 
 Lactation
 
-Advise women not to breastfeed during treatment with TAGRISSO and for 2 weeks after the final dose [see Use in Specific Populations (8.2)].
+- •Advise women not to breastfeed during treatment with TAGRISSO and for 2 weeks after the final dose [see Use in Specific Populations (8.2)].
 
 Distributed by: AstraZeneca Pharmaceuticals LP Wilmington, DE 19850
 

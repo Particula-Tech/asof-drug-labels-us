@@ -2,6 +2,8 @@
 
 ## 2.1 Patient Selection
 
+Select patients with resectable tumors for the adjuvant treatment of NSCLC with TAGRISSO based on the presence of EGFR exon 19 deletions or exon 21 L858R mutations in tumor specimens [see Clinical Studies (14)].
+
 Select patients for the first-line treatment of metastatic EGFR-positive NSCLC with TAGRISSO based on the presence of EGFR exon 19 deletions or exon 21 L858R mutations in tumor or plasma specimens [see Clinical Studies (14)].
 If these mutations are not detected in a plasma specimen, test tumor tissue if feasible.
 
@@ -13,10 +15,14 @@ Information on FDA-approved tests for the detection of EGFR mutations is availab
 
 ## 2.2 Recommended Dosage Regimen
 
-The recommended dosage of TAGRISSO is 80 mg tablet once a day until disease progression or unacceptable toxicity.
+The recommended dosage of TAGRISSO is 80 mg tablet once a day.
 TAGRISSO can be taken with or without food.
 
 If a dose of TAGRISSO is missed, do not make up the missed dose and take the next dose as scheduled.
+
+Treat patients in the adjuvant setting until disease recurrence, or unacceptable toxicity, or for up to 3 years.
+
+Treat patients with metastatic lung cancer until disease progression or unacceptable toxicity.
 
 ## 2.3 Administration to Patients Who Have Difficulty Swallowing Solids
 

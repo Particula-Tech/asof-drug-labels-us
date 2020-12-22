@@ -2,7 +2,7 @@
 
 ## 12.1 Mechanism of Action
 
-Osimertinib is a kinase inhibitor of the epidermal growth factor receptor (EGFR), which binds irreversibly to certain mutant forms of EGFR (T790M, L858R, and exon 19 deletion) at approximately 9-fold lower concentrations than wild-type.
+Osimertinib is a kinase inhibitor of the epidermal growth factor receptor (EGFR), which binds irreversibly to certain mutant forms of EGFR (T790M, L858R, and exon 19 deletions) at approximately 9-fold lower concentrations than wild-type.
 Two pharmacologically-active metabolites (AZ7550 and AZ5104 circulating at approximately 10% of the parent) with similar inhibitory profiles to osimertinib have been identified in the plasma after oral administration of osimertinib.
 AZ7550 showed a similar potency to osimertinib, while AZ5104 showed greater potency against exon 19 deletion and T790M mutants (approximately 8-fold) and wild-type (approximately 15-fold) EGFR.
 In vitro, osimertinib also inhibited the activity of HER2, HER3, HER4, ACK1, and BLK at clinically relevant concentrations.
@@ -56,7 +56,7 @@ Unchanged osimertinib accounted for approximately 2% of the elimination.
 Specific Populations
 
 No clinically significant differences in the pharmacokinetics of osimertinib were observed based on age, sex, ethnicity, body weight, baseline albumin, line of therapy, smoking status, renal function (creatinine clearance (CLcr) ≥15 mL/min by Cockcroft-Gault), or hepatic impairment (Child-Pugh A and B, or total bilirubin ≤ ULN and AST > ULN or total bilirubin between 1 to 3 times ULN and any AST).
-The pharmacokinetics of osimertinib in patients with end-stage renal disease (CLcr < 15 mL/min) or severe hepatic impairment (total bilirubin 3 to 10 times ULN and any AST) are unknown [see Use in Specific Populations (8.6) and (8.7)].
+The pharmacokinetics of osimertinib in patients with end-stage renal disease (CLcr<15 mL/min) or severe hepatic impairment (total bilirubin 3 to 10 times ULN and any AST) are unknown [see Use in Specific Populations (8.6) and (8.7)].
 
 Drug Interaction Studies
 

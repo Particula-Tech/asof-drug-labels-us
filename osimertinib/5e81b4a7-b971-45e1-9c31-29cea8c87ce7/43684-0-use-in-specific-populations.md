@@ -9,7 +9,7 @@ There are no available data on TAGRISSO use in pregnant women.
 Administration of osimertinib to pregnant rats was associated with embryolethality and reduced fetal growth at plasma exposures 1.5 times the exposure at the recommended clinical dose (see Data).
 Advise pregnant women of the potential risk to a fetus.
 
-In the U.S. general population, the estimated background risk of major birth defects and miscarriage in clinically-recognized pregnancies is 2% to 4% and 15% to 20%, respectively.
+In the U.S. general population, the estimated background risk of major birth defects and miscarriage in clinically recognized pregnancies is 2% to 4% and 15% to 20%, respectively.
 
 Data
 
@@ -30,13 +30,13 @@ Because of the potential for serious adverse reactions in breastfed infants from
 
 ## 8.3 Females and Males of Reproductive Potential
 
+Based on animal data, TAGRISSO can cause malformations, embryo lethality, and postnatal death at doses resulting in exposures 1.5 times or less the human exposure at the clinical dose of 80 mg daily[see Use in Specific Populations (8.1)].
+
 Pregnancy Testing
 
 Verify the pregnancy status of females of reproductive potential prior to initiating TAGRISSO.
 
 Contraception
-
-TAGRISSO can cause fetal harm when administered to pregnant women [see Use in Specific Populations (8.1)].
 
 Females
 
@@ -58,14 +58,14 @@ The safety and effectiveness of TAGRISSO in pediatric patients have not been est
 
 ## 8.5 Geriatric Use
 
-Forty-three percent (43%) of the 1142 patients in FLAURA (n=279), AURA3 (n=279), AURA Extension (n=201), AURA2 (n=210), and AURA1, (n=173) were 65 years of age and older.
+Forty-three percent (43%) of the 1479 patients in ADAURA (n=337), FLAURA (n=279), AURA3 (n=279), AURA Extension (n=201), AURA2 (n=210), and AURA1, (n=173) were 65 years of age and older.
 No overall differences in effectiveness were observed based on age.
-Exploratory analysis suggests a higher incidence of Grade 3 and 4 adverse reactions (13.4% versus 9.3%) and more frequent dose modifications for adverse reactions (13.4% versus 7.6%) in patients 65 years or older as compared to those younger than 65 years.
+Exploratory analysis suggests a higher incidence of Grade 3 and 4 adverse reactions (35% vs 27%) and more frequent dose modifications for adverse reactions (32% vs 21%) in patients 65 years or older as compared to those younger than 65 years.
 
 ## 8.6 Renal Impairment
 
 No dose adjustment is recommended in patients with creatinine clearance (CLcr) 15 - 89 mL/min, as estimated by Cockcroft-Gault.
-There is no recommended dose of TAGRISSO for patients with end-stage renal disease (CLcr < 15 mL/min) [see Clinical Pharmacology (12.3)].
+There is no recommended dose of TAGRISSO for patients with end-stage renal disease (CLcr<15 mL/min) [see Clinical Pharmacology (12.3)].
 
 ## 8.7 Hepatic Impairment
 
