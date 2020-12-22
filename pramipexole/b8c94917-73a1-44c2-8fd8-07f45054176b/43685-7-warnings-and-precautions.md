@@ -37,9 +37,13 @@ Physicians should consider dose reduction or stopping the medication if a patien
 
 In the three double-blind, placebo-controlled trials in early Parkinson's disease, hallucinations were observed in 9% (35 of 388) of patients receiving pramipexole dihydrochloride tablets, compared with 2.6% (6 of 235) of patients receiving placebo.
 In the four double-blind, placebo-controlled trials in advanced Parkinson's disease, where patients received pramipexole dihydrochloride tablets and concomitant levodopa, hallucinations were observed in 16.5% (43 of 260) of patients receiving pramipexole dihydrochloride tablets compared with 3.8% (10 of 264) of patients receiving placebo.
+Hallucinations were of sufficient severity to cause discontinuation of treatment in 3.1% of the early Parkinson's disease patients and 2.7% of the advanced Parkinson's disease patients compared with about 0.4% of placebo patients in both populations.In the three double-blind, placebo-controlled trials in early Parkinson's disease, hallucinations were observed in 9% (35 of 388) of patients receiving pramipexole dihydrochloride tablets, compared with 2.6% (6 of 235) of patients receiving placebo.
+In the four double-blind, placebo-controlled trials in advanced Parkinson's disease, where patients received pramipexole dihydrochloride tablets and concomitant levodopa, hallucinations were observed in 16.5% (43 of 260) of patients receiving pramipexole dihydrochloride tablets compared with 3.8% (10 of 264) of patients receiving placebo.
 Hallucinations were of sufficient severity to cause discontinuation of treatment in 3.1% of the early Parkinson's disease patients and 2.7% of the advanced Parkinson's disease patients compared with about 0.4% of placebo patients in both populations.
 
 Age appears to increase the risk of hallucinations attributable to pramipexole.
+In the early Parkinson's disease patients, the risk of hallucinations was 1.9 times greater than placebo in patients younger than 65 years and 6.8 times greater than placebo in patients older than 65 years.
+In the advanced Parkinson's disease patients, the risk of hallucinations was 3.5 times greater than placebo in patients younger than 65 years and 5.2 times greater than placebo in patients older than 65 years.Age appears to increase the risk of hallucinations attributable to pramipexole.
 In the early Parkinson's disease patients, the risk of hallucinations was 1.9 times greater than placebo in patients younger than 65 years and 6.8 times greater than placebo in patients older than 65 years.
 In the advanced Parkinson's disease patients, the risk of hallucinations was 3.5 times greater than placebo in patients younger than 65 years and 5.2 times greater than placebo in patients older than 65 years.
 
@@ -47,9 +51,10 @@ Postmarketing reports with medications used to treat Parkinson’s disease or RL
 Other drugs prescribed to improve the symptoms of Parkinson’s disease or RLS can have similar effects on thinking and behavior.This abnormal thinking and behavior can consist of one or more of a variety of manifestations including paranoid ideation, delusions, hallucinations, confusion, psychotic-like behavior, symptoms of mania (e.g., insomnia, psychomotor agitation), disorientation, aggressive behavior, agitation, and delirium.
 
 Patients with a major psychotic disorder should ordinarily not be treated with dopamine agonists, including pramipexole dihydrochloride, because of the risk of exacerbating the psychosis.
+In addition, certain medications used to treat psychosis may exacerbate the symptoms of Parkinson's disease and may decrease the effectiveness of pramipexole dihydrochloride Patients with a major psychotic disorder should ordinarily not be treated with dopamine agonists, including pramipexole dihydrochloride, because of the risk of exacerbating the psychosis.
 In addition, certain medications used to treat psychosis may exacerbate the symptoms of Parkinson's disease and may decrease the effectiveness of pramipexole dihydrochloride [see Drug Interactions (7.1)].
 
-In the RLS clinical trials, one pramipexole-treated patient (of 889) reported hallucinations; this patient discontinued treatment and the symptoms resolved.
+In the RLS clinical trials, one pramipexole-treated patient (of 889) reported hallucinations; this patient discontinued treatment and the symptoms resolved.In the RLS clinical trials, one pramipexole-treated patient (of 889) reported hallucinations; this patient discontinued treatment and the symptoms resolved.
 
 ## 5.5 Dyskinesia
 

@@ -72,7 +72,7 @@ Table 5 lists adverse reactions that occurred in the double-blind, placebo-contr
 In these studies, pramipexole dihydrochloride tablets or placebo was administered to patients who were also receiving concomitant levodopa.
 Table 5 Adverse-Reactions in Pooled Double-Blind, Placebo-Controlled Trials with Pramipexole Dihydrochloride tablets in Advanced Parkinson's Disease
 
-| Body System/ Adverse Event | Pramipexole Dihydrochloride † (N=260) % | Placebo† (N=264) % |
+| Body System/ Adverse Event | Pramipexole Dihydrochloride † (N=260) % | Placebo † (N=264) % |
 | --- | --- | --- |
 | Nervous System |  |  |
 | Dyskinesia | 47 | 31 |
