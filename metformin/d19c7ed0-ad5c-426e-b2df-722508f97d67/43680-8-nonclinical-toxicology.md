@@ -21,7 +21,7 @@ In rat fertility studies with oral gavage doses of 125, 250, and 1000 mg/kg, mal
 No adverse effect on fertility was observed at 125 mg/kg (approximately 12 times human exposure at the MRHD of 100 mg/day based on AUC comparisons).
 At higher doses, nondose-related increased resorptions in females were observed (approximately 25 and 100 times human exposure at the MRHD based on AUC comparison).
 
-Metformin HCl
+Metformin
 
 Long-term carcinogenicity studies have been performed in rats (dosing duration of 104 weeks) and mice (dosing duration of 91 weeks) at doses up to and including 900 mg/kg/day and 1500 mg/kg/day, respectively.
 These doses are both approximately four times the maximum recommended human daily dose of 2000 mg based on body surface area comparisons.

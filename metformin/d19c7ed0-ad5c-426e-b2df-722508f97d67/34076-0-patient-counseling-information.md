@@ -4,15 +4,10 @@ Advise the patient to read the FDA-approved patient labeling (Medication Guide).
 
 Lactic Acidosis
 
-Inform patients of the risks of lactic acidosis due to the metformin component, its symptoms, and conditions that predispose to its development, as noted in Warnings and Precautions (5.1).
-Advise patients to discontinue JANUMET immediately and to promptly notify their health practitioner if unexplained hyperventilation, myalgia, malaise, unusual somnolence, dizziness, slow or irregular heart beat, sensation of feeling cold (especially in the extremities) or other nonspecific symptoms occur.
-Gastrointestinal symptoms are common during initiation of metformin treatment and may occur during initiation of JANUMET therapy; however, inform patients to consult their physician if they develop unexplained symptoms.
-Although gastrointestinal symptoms that occur after stabilization are unlikely to be drug related, such an occurrence of symptoms should be evaluated to determine if it may be due to lactic acidosis or other serious disease.
-Instruct patients to inform their doctor that they are taking JANUMET prior to any surgical or radiological procedure, as temporary discontinuation of JANUMET may be required until renal function has been confirmed to have returned to its prior level [see Warnings and Precautions (5.1)].
-
-Counsel patients against excessive alcohol intake, either acute or chronic, while receiving JANUMET.
-
-Inform patients about the importance of regular testing of renal function and hematological parameters when receiving treatment with JANUMET.
+Explain the risks of lactic acidosis, its symptoms, and conditions that predispose to its development.
+Advise patients to discontinue JANUMET immediately and to promptly notify their healthcare provider if unexplained hyperventilation, myalgias, malaise, unusual somnolence or other nonspecific symptoms occur.
+Counsel patients against excessive alcohol intake and inform patients about the importance of regular testing of renal function while receiving JANUMET.
+Instruct patients to inform their doctor that they are taking JANUMET prior to any surgical or radiological procedure, as temporary discontinuation may be required [see Warnings and Precautions (5.1)].
 
 Pancreatitis
 
@@ -26,9 +21,14 @@ Inform patients of the signs and symptoms of heart failure.
 Before initiating JANUMET, ask patients about a history of heart failure or other risk factors for heart failure including moderate to severe renal impairment.
 Instruct patients to contact their health care provider as soon as possible if they experience symptoms of heart failure, including increasing shortness of breath, rapid increase in weight or swelling of the feet [see Warnings and Precautions (5.3)].
 
+Vitamin B12 Deficiency
+
+Inform patients about the importance of regular monitoring of hematological parameters while receiving JANUMET [see Warnings and Precautions (5.5)].
+
 Hypoglycemia
 
-Inform patients that the incidence of hypoglycemia is increased when JANUMET is added to an insulin secretagogue (e.g., sulfonylurea) or insulin therapy and that a lower dose of the insulin secretagogue or insulin may be required to reduce the risk of hypoglycemia.
+Inform patients that the incidence of hypoglycemia is increased when JANUMET is added to an insulin secretagogue (e.g., sulfonylurea) or insulin therapy.
+Explain to patients receiving JANUMET in combination with these medications the risks of hypoglycemia, its symptoms and treatment, and conditions that predispose to its development [see Warnings and Precautions (5.6)].
 
 Hypersensitivity Reactions
 
@@ -39,12 +39,16 @@ Severe and Disabling Arthralgia
 
 Inform patients that severe and disabling joint pain may occur with this class of drugs.
 The time to onset of symptoms can range from one day to years.
-Instruct patients to seek medical advice if severe joint pain occurs [see Warnings and Precautions (5.10)].
+Instruct patients to seek medical advice if severe joint pain occurs [see Warnings and Precautions (5.8)].
 
 Bullous Pemphigoid
 
 Inform patients that bullous pemphigoid may occur with this class of drugs.
-Instruct patients to seek medical advice if blisters or erosions occur [see Warnings and Precautions (5.11)].
+Instruct patients to seek medical advice if blisters or erosions occur [see Warnings and Precautions (5.9)].
+
+Females of Reproductive Age:
+
+Inform females that treatment with JANUMET may result in ovulation in some premenopausal anovulatory women which may lead to unintended pregnancy [see Use in Specific Populations (8.3)].
 
 Administration Instructions
 

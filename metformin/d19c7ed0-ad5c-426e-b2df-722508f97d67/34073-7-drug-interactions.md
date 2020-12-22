@@ -1,34 +1,25 @@
 # 7 DRUG INTERACTIONS
 
-## 7.1 Carbonic Anhydrase Inhibitors
+Table 4 presents clinically significant drug interactions with JANUMET:
 
-Topiramate or other carbonic anhydrase inhibitors (e.g., zonisamide, acetazolamide or dichlorphenamide) frequently cause a decrease in serum bicarbonate and induce non-anion gap, hyperchloremic metabolic acidosis.
-Concomitant use of these drugs with JANUMET may increase the risk of lactic acidosis.
-Consider more frequent monitoring of these patients.
+Table 4: Clinically Significant Drug Interactions with JANUMET
 
-## 7.2 Drugs that Reduce Metformin Clearance
-
-Concomitant use of drugs that interfere with common renal tubular transport systems involved in the renal elimination of metformin (e.g., organic cationic transporter-2 [OCT2] / multidrug and toxin extrusion [MATE] inhibitors such as ranolazine, vandetanib, dolutegravir, and cimetidine) could increase systemic exposure to metformin and may increase the risk for lactic acidosis [see Clinical Pharmacology (12.3)].
-Consider the benefits and risks of concomitant use.
-
-## 7.3 Alcohol
-
-Alcohol is known to potentiate the effect of metformin on lactate metabolism.
-Warn patients against excessive alcohol intake while receiving JANUMET.
-
-## 7.4 Insulin Secretagogues or Insulin
-
-Coadministration of JANUMET with an insulin secretagogue (e.g., sulfonylurea) or insulin may require lower doses of the insulin secretagogue or insulin to reduce the risk of hypoglycemia.
-[See Warnings and Precautions (5.7).]
-
-## 7.5 Use of Metformin with Other Drugs
-
-Certain drugs tend to produce hyperglycemia and may lead to loss of glycemic control.
-These drugs include the thiazides and other diuretics, corticosteroids, phenothiazines, thyroid products, estrogens, oral contraceptives, phenytoin, nicotinic acid, sympathomimetics, calcium channel blocking drugs, and isoniazid.
-When such drugs are administered to a patient receiving JANUMET the patient should be closely observed to maintain adequate glycemic control.
-
-## 7.6 Digoxin
-
-There was a slight increase in the area under the curve (AUC, 11%) and mean peak drug concentration (Cmax, 18%) of digoxin with the coadministration of 100 mg sitagliptin for 10 days.
-Patients receiving digoxin should be monitored appropriately.
-No dosage adjustment of digoxin or JANUMET is recommended.
+| Carbonic Anhydrase Inhibitors |  |
+| --- | --- |
+| Clinical Impact: | Carbonic anhydrase inhibitors frequently cause a decrease in serum bicarbonate and induce non-anion gap, hyperchloremic metabolic acidosis. Concomitant use of these drugs with JANUMET may increase the risk for lactic acidosis. |
+| Intervention: | Consider more frequent monitoring of these patients. |
+| Examples: | Topiramate, zonisamide, acetazolamide or dichlorphenamide. |
+| Drugs that Reduce Metformin Clearance |  |
+| Clinical Impact: | Concomitant use of drugs that interfere with common renal tubular transport systems involved in the renal elimination of metformin (e.g., organic cationic transporter-2 [OCT2] / multidrug and toxin extrusion [MATE] inhibitors) could increase systemic exposure to metformin and may increase the risk for lactic acidosis [see Clinical Pharmacology (12.3)]. |
+| Intervention: | Consider the benefits and risks of concomitant use with JANUMET. |
+| Examples: | Ranolazine, vandetanib, dolutegravir, and cimetidine. |
+| Alcohol |  |
+| Clinical Impact: | Alcohol is known to potentiate the effect of metformin on lactate metabolism. |
+| Intervention: | Warn patients against alcohol intake while receiving JANUMET. |
+| Insulin Secretagogues or Insulin |  |
+| Clinical Impact: | Coadministration of JANUMET with an insulin secretagogue (e.g., sulfonylurea) or insulin may increase the risk of hypoglycemia. |
+| Intervention: | Patients receiving an insulin secretagogue or insulin may require lower doses of the insulin secretagogue or insulin. |
+| Drugs Affecting Glycemic Control |  |
+| Clinical Impact: | Certain drugs tend to produce hyperglycemia and may lead to loss of glycemic control. |
+| Intervention: | When such drugs are administered to a patient receiving JANUMET, observe the patient closely for loss of blood glucose control. When such drugs are withdrawn from a patient receiving JANUMET, observe the patient closely for hypoglycemia. |
+| Examples: | Thiazides and other diuretics, corticosteroids, phenothiazines, thyroid products, estrogens, oral contraceptives, phenytoin, nicotinic acid, sympathomimetics, calcium channel blockers, and isoniazid. |

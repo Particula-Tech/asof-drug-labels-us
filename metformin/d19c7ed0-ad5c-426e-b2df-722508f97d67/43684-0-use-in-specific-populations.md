@@ -46,16 +46,14 @@ Placental transfer of sitagliptin was observed in pregnant rats and rabbits.
 
 Sitagliptin administered to female rats from gestation day 6 to lactation day 21 caused no functional or behavioral toxicity in offspring of rats at doses up to 1000 mg/kg.
 
-Metformin HCl
+Metformin
 
-Metformin HCl did not cause adverse developmental effects when administered to pregnant Sprague Dawley rats and rabbits up to 600 mg/kg/day during the period of organogenesis.
+Metformin did not cause adverse developmental effects when administered to pregnant Sprague Dawley rats and rabbits up to 600 mg/kg/day during the period of organogenesis.
 This represents an exposure of about 2- and 6-times a 2000 mg clinical dose based on body surface area (mg/m2) for rats and rabbits, respectively.
 
 ## 8.2 Lactation
 
 Risk Summary
-
-JANUMET
 
 There is no information regarding the presence of JANUMET in human milk, the effects on the breastfed infant, or the effects on milk production.
 Limited published studies report that metformin is present in human milk [see Data].
@@ -70,7 +68,7 @@ Sitagliptin
 
 Sitagliptin is secreted in the milk of lactating rats at a milk to plasma ratio of 4:1.
 
-Metformin HCl
+Metformin
 
 Published clinical lactation studies report that metformin is present in human milk, which resulted in infant doses approximately 0.11% to 1% of the maternal weight-adjusted dosage and a milk/plasma ratio ranging between 0.13 and 1.
 However, the studies were not designed to definitely establish the risk of use of metformin during lactation because of small sample size and limited adverse event data collected in infants.
@@ -81,27 +79,36 @@ Discuss the potential for unintended pregnancy with premenopausal women as thera
 
 ## 8.4 Pediatric Use
 
-Safety and effectiveness of JANUMET in pediatric patients under 18 years have not been established.
+The safety and effectiveness of JANUMET have not been established in pediatric patients.
+
+Three 20-week double-blind, placebo-controlled studies each with 34-week extensions were conducted to evaluate the efficacy and safety of sitagliptin in 410 pediatric patients aged 10 to 17 years with inadequately controlled type 2 diabetes, with or without insulin therapy (HbA1c 6.5-10% for patients not on insulin, HbA1c 7-10% for patients on insulin).
+At study entry, patients in study 1 were not treated with oral antihyperglycemic agents; patients in studies 2 and 3 were on maximally tolerated metformin therapy.
+The primary efficacy endpoint was the change from baseline in HbA1c after 20 weeks of therapy.
+The pre-specified primary efficacy analyses included data from study 1 and pooled data from studies 2 and 3, regardless of glycemic rescue or treatment discontinuation.
+
+In both efficacy analyses, the effect of treatment with sitagliptin was not significantly different from placebo.
+In study 1, the mean baseline HbA1c was 7.5%, and 12% of patients were on insulin therapy.
+At week 20, the change from baseline in HbA1c in patients treated with sitagliptin (N=95) was 0.06% compared to 0.23% in patients treated with placebo (N=95), a difference of -0.17% (95% CI: -0.62, 0.28).
+In studies 2 and 3, the mean baseline HbA1c was 8.0%, 15% of patients were on insulin and 72% were on metformin HCl doses of greater than 1,500 mg daily.
+At week 20, the change from baseline in HbA1c in patients treated with sitagliptin (N=107) was -0.23% compared to 0.09% in patients treated with placebo (N=113), a difference of -0.33% (95% CI: -0.70, 0.05).
 
 ## 8.5 Geriatric Use
 
 JANUMET
 
-Because sitagliptin and metformin are substantially excreted by the kidney, and because aging can be associated with reduced renal function, renal function should be assessed more frequently in elderly patients.
-[See Warnings and Precautions (5.1, 5.4); Clinical Pharmacology (12.3).]
+In general, dose selection for an elderly patient should be cautious, usually starting at the low end of the dosing range, reflecting the greater frequency of decreased hepatic, renal, or cardiac function, and of concomitant disease or other drug therapy and the higher risk of lactic acidosis.
+Renal function should be assessed more frequently in elderly patients.
+[See Contraindications (4); Warnings and Precautions (5.1, 5.4); Clinical Pharmacology (12.3).]
 
 Sitagliptin
 
-Of the total number of subjects (N=3884) in Phase II and III clinical studies of sitagliptin, 725 patients were 65 years and over, while 61 patients were 75 years and over.
+Of the total number of subjects (N=3884) in clinical studies of sitagliptin, 725 patients were 65 years and over, while 61 patients were 75 years and over.
 No overall differences in safety or effectiveness were observed between subjects 65 years and over and younger subjects.
 While this and other reported clinical experience have not identified differences in responses between the elderly and younger patients, greater sensitivity of some older individuals cannot be ruled out.
 
-Metformin HCl
+Metformin
 
 Controlled clinical studies of metformin did not include sufficient numbers of elderly patients to determine whether they respond differently from younger patients, although other reported clinical experience has not identified differences in responses between the elderly and young patients.
-In general, dose selection for an elderly patient should be cautious, usually starting at the low end of the dosing range, reflecting the greater frequency of decreased hepatic, renal, or cardiac function, and of concomitant disease or other drug therapy and the higher risk of lactic acidosis.
-Assess renal function more frequently in elderly patients.
-[See Contraindications (4); Warnings and Precautions (5.1); Clinical Pharmacology (12.3).]
 
 ## 8.6 Renal Impairment
 
@@ -114,9 +121,9 @@ JANUMET is contraindicated in severe renal impairment, patients with an eGFR bel
 Sitagliptin
 
 Sitagliptin is excreted by the kidney, and sitagliptin exposure is increased in patients with renal impairment.
-Lower dosages are recommended in patients with eGFR less than 45 mL/min/1.73 m2 (moderate and severe renal impairment, as well as in ESRD patients requiring dialysis).
+[See Clinical Pharmacology (12.3).]
 
-Metformin HCl
+Metformin
 
 Metformin is substantially excreted by the kidney, and the risk of metformin accumulation and lactic acidosis increases with the degree of renal impairment.
 

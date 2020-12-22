@@ -18,7 +18,7 @@ GLP-1 also lowers glucagon secretion from pancreatic alpha cells, leading to red
 By increasing and prolonging active incretin levels, sitagliptin increases insulin release and decreases glucagon levels in the circulation in a glucose-dependent manner.
 Sitagliptin demonstrates selectivity for DPP-4 and does not inhibit DPP-8 or DPP-9 activity in vitro at concentrations approximating those from therapeutic doses.
 
-Metformin HCl
+Metformin
 
 Metformin is an antihyperglycemic agent which improves glucose tolerance in patients with type 2 diabetes mellitus, lowering both basal and postprandial plasma glucose.
 Metformin decreases hepatic glucose production, decreases intestinal absorption of glucose, and improves insulin sensitivity by increasing peripheral glucose uptake and utilization.
@@ -34,7 +34,7 @@ The rise in insulin with the decrease in glucagon was associated with lower fast
 
 In studies with healthy subjects, sitagliptin did not lower blood glucose or cause hypoglycemia.
 
-Sitagliptin and Metformin HCl Coadministration
+Sitagliptin and Metformin Coadministration
 
 In a two-day study in healthy subjects, sitagliptin alone increased active GLP-1 concentrations, whereas metformin alone increased active and total GLP-1 concentrations to similar extents.
 Coadministration of sitagliptin and metformin had an additive effect on active GLP-1 concentrations.
@@ -72,14 +72,14 @@ Effect of Food
 
 Coadministration of a high-fat meal with sitagliptin had no effect on the pharmacokinetics of sitagliptin.
 
-Metformin HCl
+Metformin
 
 The absolute bioavailability of a metformin HCl 500-mg tablet given under fasting conditions is approximately 50-60%.
 Studies using single oral doses of metformin HCl tablets 500 mg to 1,500 mg, and 850 mg to 2,550 mg (approximately 1.3 times the maximum recommended daily dosage), indicate that there is a lack of dose proportionality with increasing doses, which is due to decreased absorption rather than an alteration in elimination.
 
 Effect of Food
 
-Food decreases the extent of and slightly delays the absorption of metformin, as shown by approximately a 40% lower mean peak plasma concentration (Cmax), a 25% lower area under the plasma concentration versus time curve (AUC), and a 35-minute prolongation of time to peak plasma concentration (Tmax) following administration of a single 850-mg tablet of metformin with food, compared to the same tablet strength administered fasting.
+Food decreases the extent of and slightly delays the absorption of metformin, as shown by approximately a 40% lower mean peak plasma concentration (Cmax), a 25% lower area under the plasma concentration versus time curve (AUC), and a 35-minute prolongation of time to peak plasma concentration (Tmax) following administration of a single 850-mg tablet of metformin HCl with food, compared to the same tablet strength administered fasting.
 The clinical relevance of these decreases is unknown.
 
 Distribution
@@ -89,7 +89,7 @@ Sitagliptin
 The mean volume of distribution at steady state following a single 100-mg intravenous dose of sitagliptin to healthy subjects is approximately 198 liters.
 The fraction of sitagliptin reversibly bound to plasma proteins is low (38%).
 
-Metformin HCl
+Metformin
 
 The apparent volume of distribution (V/F) of metformin following single oral doses of metformin HCl tablets 850 mg averaged 654 ± 358 L. Metformin is negligibly bound to plasma proteins, in contrast to sulfonylureas, which are more than 90% protein bound.
 Metformin partitions into erythrocytes, most likely as a function of time.
@@ -102,7 +102,7 @@ Sitagliptin
 Approximately 79% of sitagliptin is excreted unchanged in the urine with metabolism being a minor pathway of elimination.
 The apparent terminal t1/2 following a 100 mg oral dose of sitagliptin was approximately 12.4 hours and renal clearance was approximately 350 mL/min.
 
-Metformin HCl
+Metformin
 
 Following oral administration, approximately 90% of the absorbed drug is eliminated via the renal route within the first 24 hours, with a plasma elimination half-life of approximately 6.2 hours.
 In blood, the elimination half-life is approximately 17.6 hours, suggesting that the erythrocyte mass may be a compartment of distribution.
@@ -115,7 +115,7 @@ Following a [14C]sitagliptin oral dose, approximately 16% of the radioactivity w
 Six metabolites were detected at trace levels and are not expected to contribute to the plasma DPP-4 inhibitory activity of sitagliptin.
 In vitro studies indicated that the primary enzyme responsible for the limited metabolism of sitagliptin was CYP3A4, with contribution from CYP2C8.
 
-Metformin HCl
+Metformin
 
 Intravenous single-dose studies in normal subjects demonstrate that metformin is excreted unchanged in the urine and does not undergo hepatic metabolism (no metabolites have been identified in humans) nor biliary excretion.
 
@@ -131,7 +131,7 @@ The clinical relevance of hOAT-3 in sitagliptin transport has not been establish
 Sitagliptin is also a substrate of p-glycoprotein (P-gp), which may also be involved in mediating the renal elimination of sitagliptin.
 However, cyclosporine, a P-gp inhibitor, did not reduce the renal clearance of sitagliptin.
 
-Metformin HCl
+Metformin
 
 Elimination of metformin occurs primarily via renal excretion.
 Renal clearance is approximately 3.5 times greater than creatinine clearance, which indicates that tubular secretion is the major route of metformin elimination.
@@ -149,7 +149,7 @@ Sitagliptin
 An approximately 2-fold increase in the plasma AUC of sitagliptin was observed in patients with moderate renal impairment with eGFR of 30 to less than 45 mL/min/1.73 m2, and an approximately 4-fold increase was observed in patients with severe renal impairment including patients with end-stage renal disease (ESRD) on hemodialysis, as compared to normal healthy control subjects.
 [See Dosage and Administration (2.2).]
 
-Metformin HCl
+Metformin
 
 In patients with decreased renal function, the plasma and blood half-life of metformin is prolonged and the renal clearance is decreased [see Contraindications (4); Warnings and Precautions (5.1)].
 
@@ -165,7 +165,7 @@ In patients with moderate hepatic impairment (Child-Pugh score 7 to 9), mean AUC
 These differences are not considered to be clinically meaningful.
 There is no clinical experience in patients with severe hepatic impairment (Child-Pugh score >9) [see Use in Specific Populations (8.7)].
 
-Metformin HCl
+Metformin
 
 No pharmacokinetic studies of metformin have been conducted in patients with hepatic impairment.
 
@@ -177,7 +177,7 @@ Based on a population pharmacokinetic analysis or a composite analysis of availa
 When the effects of age on renal function are taken into account, age alone did not have a clinically meaningful impact on the pharmacokinetics of sitagliptin based on a population pharmacokinetic analysis.
 Elderly subjects (65 to 80 years) had approximately 19% higher plasma concentrations of sitagliptin compared to younger subjects.
 
-Metformin HCl
+Metformin
 
 Limited data from controlled pharmacokinetic studies of metformin in healthy elderly subjects suggest that total plasma clearance of metformin is decreased, the half-life is prolonged, and Cmax is increased, compared to healthy young subjects.
 From these data, it appears that the change in metformin pharmacokinetics with aging is primarily accounted for by a change in renal function.
@@ -188,17 +188,11 @@ Similarly, in controlled clinical studies in patients with type 2 diabetes melli
 No studies of metformin pharmacokinetic parameters according to race have been performed.
 In controlled clinical studies of metformin in patients with type 2 diabetes mellitus, the antihyperglycemic effect was comparable in Whites (n=249), Blacks (n=51), and Hispanics (n=24).
 
-Pediatric Patients
-
-Sitagliptin
-
-Studies characterizing the pharmacokinetics of sitagliptin in pediatric patients have not been performed.
-
 Drug Interaction Studies
 
 JANUMET
 
-Coadministration of multiple doses of sitagliptin (50 mg) and metformin (1000 mg) given twice daily did not meaningfully alter the pharmacokinetics of either sitagliptin or metformin in patients with type 2 diabetes.
+Coadministration of multiple doses of sitagliptin (50 mg) and metformin HCl (1000 mg) given twice daily did not meaningfully alter the pharmacokinetics of either sitagliptin or metformin in patients with type 2 diabetes.
 
 Pharmacokinetic drug interaction studies with JANUMET have not been performed; however, such studies have been conducted with the individual components of JANUMET (sitagliptin and metformin HCl).
 
@@ -217,9 +211,9 @@ In Vivo Assessment of Drug Interactions
 
 Effects of Sitagliptin on Other Drugs
 
-In clinical studies, sitagliptin did not meaningfully alter the pharmacokinetics of metformin, glyburide, simvastatin, rosiglitazone, digoxin, warfarin, or an oral contraception (ethinyl estradiol and norethindrone) (Table 4), providing in vivo evidence of a low propensity for causing drug interactions with substrates of CYP3A4, CYP2C8, CYP2C9, P-gp, and organic cationic transporter (OCT).
+In clinical studies, sitagliptin did not meaningfully alter the pharmacokinetics of metformin, glyburide, simvastatin, rosiglitazone, digoxin, warfarin, or an oral contraception (ethinyl estradiol and norethindrone) (Table 5), providing in vivo evidence of a low propensity for causing drug interactions with substrates of CYP3A4, CYP2C8, CYP2C9, P-gp, and organic cationic transporter (OCT).
 
-Table 4: Effect of Sitagliptin on Systemic Exposure of Coadministered Drugs
+Table 5: Effect of Sitagliptin on Systemic Exposure of Coadministered Drugs
 
 |  |  |  |  | AUCAUC is reported as AUC0-∞ unless otherwise specified. | Cmax |
 | --- | --- | --- | --- | --- | --- |
@@ -233,27 +227,27 @@ Table 4: Effect of Sitagliptin on Systemic Exposure of Coadministered Drugs
 |  | R(+) Warfarin | 0.99 | 0.89 |  |  |
 | Ethinyl estradiol and norethindrone | 21 days once daily of 35 µg ethinyl estradiol with norethindrone 0.5 mg × 7 days, 0.75 mg × 7 days, 1.0 mg × 7 days | 200 mg once daily for 21 days | Ethinyl estradiol | 0.99 | 0.97 |
 | Norethindrone | 1.03 | 0.98 |  |  |  |
-| Metformin | 1000 mg twice daily for 14 days | 50 mg twice daily for 7 days | Metformin | 1.02AUC0-12hr. | 0.97 |
+| Metformin HCl | 1000 mg twice daily for 14 days | 50 mg twice daily for 7 days | Metformin | 1.02AUC0-12hr. | 0.97 |
 
 Effects of Other Drugs on Sitagliptin
 
-Clinical data described below suggest that sitagliptin is not susceptible to clinically meaningful interactions by coadministered medications (Table 5).
+Clinical data described below suggest that sitagliptin is not susceptible to clinically meaningful interactions by coadministered medications (Table 6).
 
-Table 5: Effect of Coadministered Drugs on Systemic Exposure of Sitagliptin
+Table 6: Effect of Coadministered Drugs on Systemic Exposure of Sitagliptin
 
 |  |  |  |  | AUCAUC is reported as AUC0-∞ unless otherwise specified. | Cmax |
 | --- | --- | --- | --- | --- | --- |
 | Coadministered Drug | Dose of Coadministered DrugAll doses administered as single dose unless otherwise specified. | Dose of Sitagliptin | Geometric Mean Ratio (ratio with/without coadministered drug) No Effect = 1.00 |  |  |
 | Cyclosporine | 600 mg once daily | 100 mg once daily | Sitagliptin | 1.29 | 1.68 |
-| Metformin | 1000 mgMultiple dose. twice daily for 14 days | 50 mg twice daily for 7 days | Sitagliptin | 1.02AUC0-12hr. | 1.05 |
+| Metformin HCl | 1000 mgMultiple dose. twice daily for 14 days | 50 mg twice daily for 7 days | Sitagliptin | 1.02AUC0-12hr. | 1.05 |
 
 Metformin HCl
 
-Table 6: Effect of Metformin on Systemic Exposure of Coadministered Drugs
+Table 7: Effect of Metformin HCl on Systemic Exposure of Coadministered Drugs
 
 |  |  |  |  | AUCAUC is reported as AUC0-∞ unless otherwise specified. | Cmax |
 | --- | --- | --- | --- | --- | --- |
-| Coadministered Drug | Dose of Coadministered DrugAll doses administered as single dose unless otherwise specified. | Dose of Metformin | Geometric Mean Ratio (ratio with/without metformin) No Effect = 1.00 |  |  |
+| Coadministered Drug | Dose of Coadministered DrugAll doses administered as single dose unless otherwise specified. | Dose of Metformin HCl | Geometric Mean Ratio (ratio with/without metformin) No Effect = 1.00 |  |  |
 | Cimetidine | 400 mg | 850 mg | Cimetidine | 0.95AUC0-24hr. | 1.01 |
 | Glyburide | 5 mg | 500 mgGLUMETZA (metformin HCl extended-release tablets) 500 mg. | Glyburide | 0.78Ratio of arithmetic means, p value of difference <0.05. | 0.63 |
 | Furosemide | 40 mg | 850 mg | Furosemide | 0.87 | 0.69 |
@@ -261,17 +255,17 @@ Table 6: Effect of Metformin on Systemic Exposure of Coadministered Drugs
 | Propranolol | 40 mg | 850 mg | Propranolol | 1.01 | 0.94 |
 | Ibuprofen | 400 mg | 850 mg | Ibuprofen | 0.97Ratio of arithmetic means. | 1.01 |
 
-Table 7: Effect of Coadministered Drugs on Systemic Exposure of Metformin
+Table 8: Effect of Coadministered Drugs on Systemic Exposure of Metformin HCl
 
 |  |  |  |  | AUCAUC is reported as AUC0-∞ unless otherwise specified. | Cmax |
 | --- | --- | --- | --- | --- | --- |
-| Coadministered Drug | Dose of Coadministered DrugAll doses administered as single dose unless otherwise specified. | Dose of Metformin | Geometric Mean Ratio (ratio with/without coadministered drug) No Effect = 1.00 |  |  |
+| Coadministered Drug | Dose of Coadministered DrugAll doses administered as single dose unless otherwise specified. | Dose of Metformin HCl | Geometric Mean Ratio (ratio with/without coadministered drug) No Effect = 1.00 |  |  |
 | Glyburide | 5 mg | 500 mgGLUMETZA (metformin HCl extended-release tablets) 500 mg. | Metformin | 0.98Ratio of arithmetic means. | 0.99 |
 | Furosemide | 40 mg | 850 mg | Metformin | 1.09 | 1.22 |
 | Nifedipine | 10 mg | 850 mg | Metformin | 1.16 | 1.21 |
 | Propranolol | 40 mg | 850 mg | Metformin | 0.90 | 0.94 |
 | Ibuprofen | 400 mg | 850 mg | Metformin | 1.05 | 1.07 |
-| Drugs that are eliminated by renal tubular secretion may increase the accumulation of metformin. [See Warnings and Precautions (5.1) and Drug Interactions (7.2).] |  |  |  |  |  |
+| Drugs that are eliminated by renal tubular secretion may increase the accumulation of metformin. [See Warnings and Precautions (5.1) and Drug Interactions (7).] |  |  |  |  |  |
 | Cimetidine | 400 mg | 850 mg | Metformin | 1.40 | 1.61 |
-| Carbonic anhydrase inhibitors may cause metabolic acidosis. [See Warnings and Precautions (5.1) and Drug Interactions (7.1).] |  |  |  |  |  |
-| Topiramate | 100 mgSteady state 100 mg Topiramate every 12 hr + metformin 500 mg every 12 hr AUC = AUC0-12hr. | 500 mg | Metformin | 1.25 | 1.17 |
+| Carbonic anhydrase inhibitors may cause metabolic acidosis. [See Warnings and Precautions (5.1) and Drug Interactions (7).] |  |  |  |  |  |
+| Topiramate | 100 mgSteady state 100 mg Topiramate every 12 hr + metformin HCl 500 mg every 12 hr AUC = AUC0-12hr. | 500 mg | Metformin | 1.25 | 1.17 |

@@ -9,8 +9,8 @@ In clinical studies, approximately 13.5% of the dose was removed over a 3- to 4-
 Prolonged hemodialysis may be considered if clinically appropriate.
 It is not known if sitagliptin is dialyzable by peritoneal dialysis.
 
-Overdose of metformin HCl has occurred, including ingestion of amounts greater than 50 grams.
-Hypoglycemia was reported in approximately 10% of cases, but no causal association with metformin HCl has been established.
+Overdose of metformin has occurred, including ingestion of amounts greater than 50 grams.
+Hypoglycemia was reported in approximately 10% of cases, but no causal association with metformin has been established.
 Lactic acidosis has been reported in approximately 32% of metformin overdose cases [see Warnings and Precautions (5.1)].
 Metformin is dialyzable with a clearance of up to 170 mL/min under good hemodynamic conditions.
 Therefore, hemodialysis may be useful for removal of accumulated drug from patients in whom metformin overdosage is suspected.
