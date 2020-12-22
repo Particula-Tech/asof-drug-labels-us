@@ -23,12 +23,13 @@ Use TRUVADA to reduce the risk of acquiring HIV-1 only in individuals confirmed 
 HIV-1 resistance substitutions may emerge in individuals with undetected HIV-1 infection who are taking only TRUVADA, because TRUVADA alone does not constitute a complete regimen for HIV-1 treatment [see Microbiology (12.4)]; therefore, care should be taken to minimize the risk of initiating or continuing TRUVADA before confirming the individual is HIV-1 negative.
 
 - Some HIV-1 tests only detect anti-HIV antibodies and may not identify HIV-1 during the acute stage of infection.
+  Prior to initiating TRUVADA for HIV-1 PrEP, ask seronegative individuals about recent (in past month) potential exposure events (e.g., condomless sex or condom breaking during sex with a partner of unknown HIV-1 status or unknown viremic status, or a recent STI), and evaluate for current or recent signs or symptoms consistent with acute HIV-1 infection (e.g., fever, fatigue, myalgia, skin rash).Some HIV-1 tests only detect anti-HIV antibodies and may not identify HIV-1 during the acute stage of infection.
   Prior to initiating TRUVADA for HIV-1 PrEP, ask seronegative individuals about recent (in past month) potential exposure events (e.g., condomless sex or condom breaking during sex with a partner of unknown HIV-1 status or unknown viremic status, or a recent STI), and evaluate for current or recent signs or symptoms consistent with acute HIV-1 infection (e.g., fever, fatigue, myalgia, skin rash).
-- If recent (<1 month) exposures to HIV-1 are suspected or clinical symptoms consistent with acute HIV-1 infection are present, use a test approved or cleared by the FDA as an aid in the diagnosis of acute or primary HIV-1 infection.
+- If recent (<1 month) exposures to HIV-1 are suspected or clinical symptoms consistent with acute HIV-1 infection are present, use a test approved or cleared by the FDA as an aid in the diagnosis of acute or primary HIV-1 infection.If recent (<1 month) exposures to HIV-1 are suspected or clinical symptoms consistent with acute HIV-1 infection are present, use a test approved or cleared by the FDA as an aid in the diagnosis of acute or primary HIV-1 infection.
 
 While using TRUVADA for HIV-1 PrEP, HIV-1 testing should be repeated at least every 3 months, and upon diagnosis of any other STIs.
 
-- If an HIV-1 test indicates possible HIV-1 infection, or if symptoms consistent with acute HIV-1 infection develop following a potential exposure event, convert the HIV-1 PrEP regimen to an HIV treatment regimen until negative infection status is confirmed using a test approved or cleared by the FDA as an aid in the diagnosis of acute or primary HIV-1 infection.
+- If an HIV-1 test indicates possible HIV-1 infection, or if symptoms consistent with acute HIV-1 infection develop following a potential exposure event, convert the HIV-1 PrEP regimen to an HIV treatment regimen until negative infection status is confirmed using a test approved or cleared by the FDA as an aid in the diagnosis of acute or primary HIV-1 infection.If an HIV-1 test indicates possible HIV-1 infection, or if symptoms consistent with acute HIV-1 infection develop following a potential exposure event, convert the HIV-1 PrEP regimen to an HIV treatment regimen until negative infection status is confirmed using a test approved or cleared by the FDA as an aid in the diagnosis of acute or primary HIV-1 infection.
 
 Counsel HIV-1 uninfected individuals to strictly adhere to the once daily TRUVADA dosing schedule.
 The effectiveness of TRUVADA in reducing the risk of acquiring HIV-1 is strongly correlated with adherence, as demonstrated by measurable drug levels in clinical trials of TRUVADA for HIV-1 PrEP.
@@ -62,6 +63,8 @@ If a decrease in estimated creatinine clearance is observed while using TRUVADA 
 
 ## 5.4 Immune Reconstitution Syndrome
 
+Immune reconstitution syndrome has been reported in HIV-1 infected patients treated with combination antiretroviral therapy, including TRUVADA.
+During the initial phase of combination antiretroviral treatment, HIV-1 infected patients whose immune system responds may develop an inflammatory response to indolent or residual opportunistic infections (such as infection, cytomegalovirus, pneumonia [PCP], or tuberculosis), which may necessitate further evaluation and treatment.
 Immune reconstitution syndrome has been reported in HIV-1 infected patients treated with combination antiretroviral therapy, including TRUVADA.
 During the initial phase of combination antiretroviral treatment, HIV-1 infected patients whose immune system responds may develop an inflammatory response to indolent or residual opportunistic infections (such as Mycobacterium avium infection, cytomegalovirus, Pneumocystis jirovecii pneumonia [PCP], or tuberculosis), which may necessitate further evaluation and treatment.
 

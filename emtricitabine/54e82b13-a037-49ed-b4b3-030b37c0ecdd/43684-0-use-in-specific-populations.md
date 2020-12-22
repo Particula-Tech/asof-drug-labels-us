@@ -72,7 +72,7 @@ Women should not breastfeed if acute HIV-1 infection is suspected because of the
 Data
 
 HIV-1 PrEP: In a study of 50 breastfeeding women who received TRUVADA for HIV-1 PrEP between 1 and 24 weeks postpartum (median 13 weeks), after 7 days of treatment, tenofovir was undetectable but FTC was detectable in the plasma of most infants.
-In these infants, the average FTC plasma concentration was less than 1% of the FTC Cmax observed in HIV-infected infants (up to 3 months of age) receiving the therapeutic dose of FTC (3 mg/kg/day).
+In these infants, the average FTC plasma concentration was less than 1% of the FTC C max observed in HIV-infected infants (up to 3 months of age) receiving the therapeutic dose of FTC (3 mg/kg/day).
 There were no serious adverse events.
 Two infants (4%) had an adverse event of mild diarrhea which resolved.
 

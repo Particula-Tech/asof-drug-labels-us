@@ -23,24 +23,24 @@ Approximately 70–80% of the intravenous dose of tenofovir is recovered as unch
 Tenofovir is eliminated by a combination of glomerular filtration and active tubular secretion.
 Following a single oral dose of TDF, the terminal elimination half-life of tenofovir is approximately 17 hours.
 
-Table 8 Single Dose Pharmacokinetic Parameters for FTC and Tenofovir in AdultsNC=Not calculated
+Table 8 Single Dose Pharmacokinetic Parameters for FTC and Tenofovir in Adults NC=Not calculated
 
 |  | FTC | Tenofovir |
 | --- | --- | --- |
-| Fasted Oral BioavailabilityMedian (range) (%) | 92 (83.1–106.4) | 25 (NC–45.0) |
+| Fasted Oral Bioavailability Median (range) (%) | 92 (83.1–106.4) | 25 (NC–45.0) |
 | Plasma Terminal Elimination Half-Life (hr) | 10 (7.4–18.0) | 17 (12.0–25.7) |
-| CmaxMean (± SD) (μg/mL) | 1.8±0.72Data presented as steady state values | 0.30±0.09 |
-| AUC (μg∙hr/mL) | 10.0±3.12 | 2.29±0.69 |
+| C maxMean (± SD) (μg/mL) | 1.8±0.72 Data presented as steady state values | 0.30±0.09 |
+| AUC (μg ∙hr/mL) | 10.0±3.12 | 2.29±0.69 |
 | CL/F (mL/min) | 302±94 | 1043±115 |
-| CLrenal (mL/min) | 213±89 | 243±33 |
+| CL renal (mL/min) | 213±89 | 243±33 |
 
 Effects of Food on Oral Absorption
 
 TRUVADA may be administered with or without food.
-Administration of TRUVADA following a high fat meal (784 kcal; 49 grams of fat) or a light meal (373 kcal; 8 grams of fat) delayed the time of tenofovir Cmax by approximately 0.75 hour.
-The mean increases in tenofovir AUC and Cmax were approximately 35% and 15%, respectively, when administered with a high fat or light meal, compared to administration in the fasted state.
+Administration of TRUVADA following a high fat meal (784 kcal; 49 grams of fat) or a light meal (373 kcal; 8 grams of fat) delayed the time of tenofovir C max by approximately 0.75 hour.
+The mean increases in tenofovir AUC and C max were approximately 35% and 15%, respectively, when administered with a high fat or light meal, compared to administration in the fasted state.
 In previous safety and efficacy trials, TDF (tenofovir) was taken under fed conditions.
-FTC systemic exposures (AUC and Cmax) were unaffected when TRUVADA was administered with either a high fat or a light meal.
+FTC systemic exposures (AUC and C max) were unaffected when TRUVADA was administered with either a high fat or a light meal.
 
 Specific Populations
 
@@ -70,7 +70,7 @@ Pharmacokinetics of FTC and tenofovir have not been fully evaluated in the elder
 Patients with Renal Impairment
 
 The pharmacokinetics of FTC and tenofovir are altered in subjects with renal impairment [see Warnings and Precautions (5.3)].
-In adult subjects with creatinine clearance below 50 mL/min, Cmax and AUC0–∞ of FTC and tenofovir were increased.
+In adult subjects with creatinine clearance below 50 mL/min, C max and AUC 0–∞ of FTC and tenofovir were increased.
 No data are available to make dosage recommendations in pediatric patients with renal impairment.
 
 Patients with Hepatic Impairment
@@ -91,74 +91,74 @@ When TDF is coadministered with an inhibitor of these transporters, an increase 
 No clinically significant drug interactions have been observed between FTC and famciclovir, indinavir, stavudine, TDF, and zidovudine (Tables 9 and 10).
 Similarly, no clinically significant drug interactions have been observed between TDF and efavirenz, methadone, nelfinavir, oral contraceptives, ribavirin, or sofosbuvir in trials conducted in healthy volunteers (Tables 11 and 12).
 
-Table 9 Drug Interactions: Changes in Pharmacokinetic Parameters for FTC in the Presence of the Coadministered DrugAll interaction trials conducted in healthy volunteers
+Table 9 Drug Interactions: Changes in Pharmacokinetic Parameters for FTC in the Presence of the Coadministered Drug All interaction trials conducted in healthy volunteers
 
-| Cmax | AUC | Cmin |  |  |  |  |
+| C max | AUC | C min |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- |
-| Coadministered Drug | Dose of Coadministered Drug (mg) | FTC Dose (mg) | N | % Change of FTC Pharmacokinetic Parameters↑ = Increase; ⇔ = No Effect; NA = Not Applicable (90% CI) |  |  |
+| Coadministered Drug | Dose of Coadministered Drug (mg) | FTC Dose (mg) | N | % Change of FTC Pharmacokinetic Parameters ↑ = Increase; ⇔ = No Effect; NA = Not Applicable (90% CI) |  |  |
 | TDF | 300 once daily × 7 days | 200 once daily × 7 days | 17 | ⇔ | ⇔ | ↑ 20 (↑ 12 to ↑ 29) |
 | Zidovudine | 300 twice daily × 7 days | 200 once daily × 7 days | 27 | ⇔ | ⇔ | ⇔ |
 | Indinavir | 800 × 1 | 200 × 1 | 12 | ⇔ | ⇔ | NA |
 | Famciclovir | 500 × 1 | 200 × 1 | 12 | ⇔ | ⇔ | NA |
 | Stavudine | 40 × 1 | 200 × 1 | 6 | ⇔ | ⇔ | NA |
 
-Table 10 Drug Interactions: Changes in Pharmacokinetic Parameters for Coadministered Drug in the Presence of FTCAll interaction trials conducted in healthy volunteers
+Table 10 Drug Interactions: Changes in Pharmacokinetic Parameters for Coadministered Drug in the Presence of FTC All interaction trials conducted in healthy volunteers
 
-| Cmax | AUC | Cmin |  |  |  |  |
+| C max | AUC | C min |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- |
-| Coadministered Drug | Dose of Coadministered Drug (mg) | FTC Dose (mg) | N | % Change of Coadministered Drug Pharmacokinetic Parameters↑ = Increase; ⇔ = No Effect; NA = Not Applicable (90% CI) |  |  |
+| Coadministered Drug | Dose of Coadministered Drug (mg) | FTC Dose (mg) | N | % Change of Coadministered Drug Pharmacokinetic Parameters ↑ = Increase; ⇔ = No Effect; NA = Not Applicable (90% CI) |  |  |
 | TDF | 300 once daily × 7 days | 200 once daily × 7 days | 17 | ⇔ | ⇔ | ⇔ |
 | Zidovudine | 300 twice daily × 7 days | 200 once daily × 7 days | 27 | ↑ 17 (↑ 0 to ↑ 38) | ↑ 13 (↑ 5 to ↑ 20) | ⇔ |
 | Indinavir | 800 × 1 | 200 × 1 | 12 | ⇔ | ⇔ | NA |
 | Famciclovir | 500 × 1 | 200 × 1 | 12 | ⇔ | ⇔ | NA |
 | Stavudine | 40 × 1 | 200 × 1 | 6 | ⇔ | ⇔ | NA |
 
-Table 11 Drug Interactions: Changes in Pharmacokinetic Parameters for TenofovirSubjects received VIREAD 300 mg once daily. in the Presence of the Coadministered Drug
+Table 11 Drug Interactions: Changes in Pharmacokinetic Parameters for Tenofovir Subjects received VIREAD 300 mg once daily. in the Presence of the Coadministered Drug
 
-| Cmax | AUC | Cmin |  |  |  |
+| C max | AUC | C min |  |  |  |
 | --- | --- | --- | --- | --- | --- |
-| Coadministered Drug | Dose of Coadministered Drug (mg) | N | % Change of Tenofovir Pharmacokinetic ParametersIncrease = ↑; Decrease = ↓; No Effect = ⇔ (90% CI) |  |  |
-| AtazanavirReyataz Prescribing Information. | 400 once daily × 14 days | 33 | ↑ 14 (↑ 8 to ↑ 20) | ↑ 24 (↑ 21 to ↑ 28) | ↑ 22 (↑ 15 to ↑ 30) |
+| Coadministered Drug | Dose of Coadministered Drug (mg) | N | % Change of Tenofovir Pharmacokinetic Parameters Increase = ↑; Decrease = ↓; No Effect = ⇔ (90% CI) |  |  |
+| Atazanavir Reyataz Prescribing Information. | 400 once daily × 14 days | 33 | ↑ 14 (↑ 8 to ↑ 20) | ↑ 24 (↑ 21 to ↑ 28) | ↑ 22 (↑ 15 to ↑ 30) |
 | Atazanavir/ Ritonavir | 300/100 once daily | 12 | ↑ 34 (↑ 20 to ↑ 51) | ↑ 37 (↑ 30 to ↑ 45) | ↑ 29 (↑ 21 to ↑ 36) |
-| Darunavir/ RitonavirPrezista Prescribing Information. | 300/100 twice daily | 12 | ↑ 24 (↑ 8 to ↑ 42) | ↑ 22 (↑ 10 to ↑ 35) | ↑ 37 (↑ 19 to ↑ 57) |
+| Darunavir/ Ritonavir Prezista Prescribing Information. | 300/100 twice daily | 12 | ↑ 24 (↑ 8 to ↑ 42) | ↑ 22 (↑ 10 to ↑ 35) | ↑ 37 (↑ 19 to ↑ 57) |
 | Indinavir | 800 three times daily × 7 days | 13 | ↑ 14 (↓ 3 to ↑ 33) | ⇔ | ⇔ |
-| Ledipasvir/ SofosbuvirData generated from simultaneous dosing with HARVONI (ledipasvir/sofosbuvir). Staggered administration (12 hours apart) provided similar results.,Comparison based on exposures when administered as atazanavir/ritonavir + FTC/TDF. | 90/400 once daily × 10 days | 24 | ↑ 47 (↑ 37 to ↑ 58) | ↑ 35 (↑ 29 to ↑42) | ↑ 47 (↑ 38 to ↑ 57) |
+| Ledipasvir/ Sofosbuvir Data generated from simultaneous dosing with HARVONI (ledipasvir/sofosbuvir). Staggered administration (12 hours apart) provided similar results.,Comparison based on exposures when administered as atazanavir/ritonavir + FTC/TDF. | 90/400 once daily × 10 days | 24 | ↑ 47 (↑ 37 to ↑ 58) | ↑ 35 (↑ 29 to ↑42) | ↑ 47 (↑ 38 to ↑ 57) |
 | Ledipasvir/ Sofosbuvir,Comparison based on exposures when administered as darunavir/ritonavir + FTC/TDF. | 23 | ↑ 64 (↑ 54 to ↑ 74) | ↑ 50 (↑ 42 to ↑ 59) | ↑ 59 (↑ 49 to ↑ 70) |  |
-| Ledipasvir/ SofosbuvirStudy conducted with ATRIPLA (efavirenz/FTC/TDF) coadministered with HARVONI. | 90/400 once daily × 14 days | 15 | ↑ 79 (↑ 56 to ↑ 104) | ↑ 98 (↑ 77 to ↑ 123) | ↑ 163 (↑ 132 to ↑ 197) |
-| Ledipasvir/ SofosbuvirStudy conducted with COMPLERA (FTC/rilpivirine/TDF) coadministered with HARVONI. | 90/400 once daily × 10 days | 14 | ↑ 32 (↑ 25 to ↑ 39) | ↑ 40 (↑ 31 to ↑ 50) | ↑ 91 (↑ 74 to ↑ 110) |
-| Ledipasvir/ SofosbuvirStudy conducted with TRUVADA (FTC/TDF) + dolutegravir coadministered with HARVONI. | 90/400 once daily × 10 days | 29 | ↑ 61 (↑ 51 to ↑ 72) | ↑ 65 (↑ 59 to ↑ 71) | ↑ 115 (↑ 105 to ↑ 126) |
+| Ledipasvir/ Sofosbuvir Study conducted with ATRIPLA (efavirenz/FTC/TDF) coadministered with HARVONI. | 90/400 once daily × 14 days | 15 | ↑ 79 (↑ 56 to ↑ 104) | ↑ 98 (↑ 77 to ↑ 123) | ↑ 163 (↑ 132 to ↑ 197) |
+| Ledipasvir/ Sofosbuvir Study conducted with COMPLERA (FTC/rilpivirine/TDF) coadministered with HARVONI. | 90/400 once daily × 10 days | 14 | ↑ 32 (↑ 25 to ↑ 39) | ↑ 40 (↑ 31 to ↑ 50) | ↑ 91 (↑ 74 to ↑ 110) |
+| Ledipasvir/ Sofosbuvir Study conducted with TRUVADA (FTC/TDF) + dolutegravir coadministered with HARVONI. | 90/400 once daily × 10 days | 29 | ↑ 61 (↑ 51 to ↑ 72) | ↑ 65 (↑ 59 to ↑ 71) | ↑ 115 (↑ 105 to ↑ 126) |
 | Lopinavir/ Ritonavir | 400/100 twice daily × 14 days | 24 | ⇔ | ↑ 32 (↑ 25 to ↑ 38) | ↑ 51 (↑ 37 to ↑ 66) |
 | Saquinavir/ Ritonavir | 1000/100 twice daily × 14 days | 35 | ⇔ | ⇔ | ↑ 23 (↑ 16 to ↑ 30) |
-| SofosbuvirStudy conducted with ATRIPLA coadministered with SOVALDI® (sofosbuvir). | 400 single dose | 16 | ↑ 25 (↑ 8 to ↑ 45) | ⇔ | ⇔ |
-| Sofosbuvir/ VelpatasvirStudy conducted with COMPLERA coadministered with EPCLUSA; coadministration with EPCLUSA also results in comparable increases in tenofovir exposures when TDF is administered as ATRIPLA, STRIBILD, TRUVADA + atazanavir/ritonavir, or TRUVADA + darunavir/ritonavir. | 400/100 once daily | 24 | ↑ 44 (↑ 33 to ↑ 55) | ↑ 40 (↑ 34 to ↑ 46) | ↑ 84 (↑ 76 to ↑ 92) |
-| Sofosbuvir/ VelpatasvirAdministered as raltegravir + FTC/TDF. | 400/100 once daily | 30 | ↑ 46 (↑ 39 to ↑ 54) | ↑ 40 (↑ 34 to ↑ 45) | ↑ 70 (↑ 61 to ↑ 79) |
-| Sofosbuvir/ Velpatasvir/VoxilaprevirComparison based on exposures when administered as darunavir + ritonavir + FTC/TDF. | 400/100/100 + VoxilaprevirStudy conducted with additional voxilaprevir 100 mg to achieve voxilaprevir exposures expected in HCV-infected patients 100 once daily | 29 | ↑ 48 (↑ 36 to ↑ 61) | ↑ 39 (↑ 32 to ↑ 46) | ↑ 47 (↑ 38 to ↑ 56) |
+| Sofosbuvir Study conducted with ATRIPLA coadministered with SOVALDI ® (sofosbuvir). | 400 single dose | 16 | ↑ 25 (↑ 8 to ↑ 45) | ⇔ | ⇔ |
+| Sofosbuvir/ Velpatasvir Study conducted with COMPLERA coadministered with EPCLUSA; coadministration with EPCLUSA also results in comparable increases in tenofovir exposures when TDF is administered as ATRIPLA, STRIBILD, TRUVADA + atazanavir/ritonavir, or TRUVADA + darunavir/ritonavir. | 400/100 once daily | 24 | ↑ 44 (↑ 33 to ↑ 55) | ↑ 40 (↑ 34 to ↑ 46) | ↑ 84 (↑ 76 to ↑ 92) |
+| Sofosbuvir/ Velpatasvir Administered as raltegravir + FTC/TDF. | 400/100 once daily | 30 | ↑ 46 (↑ 39 to ↑ 54) | ↑ 40 (↑ 34 to ↑ 45) | ↑ 70 (↑ 61 to ↑ 79) |
+| Sofosbuvir/ Velpatasvir/Voxilaprevir Comparison based on exposures when administered as darunavir + ritonavir + FTC/TDF. | 400/100/100 + Voxilaprevir Study conducted with additional voxilaprevir 100 mg to achieve voxilaprevir exposures expected in HCV-infected patients 100 once daily | 29 | ↑ 48 (↑ 36 to ↑ 61) | ↑ 39 (↑ 32 to ↑ 46) | ↑ 47 (↑ 38 to ↑ 56) |
 | Tacrolimus | 0.05 mg/kg twice daily × 7 days | 21 | ↑ 13 (↑ 1 to ↑ 27) | ⇔ | ⇔ |
-| Tipranavir/ RitonavirAptivus Prescribing Information. | 500/100 twice daily | 22 | ↓ 23 (↓ 32 to ↓ 13) | ↓ 2 (↓ 9 to ↑ 5) | ↑ 7 (↓ 2 to ↑ 17) |
+| Tipranavir/ Ritonavir Aptivus Prescribing Information. | 500/100 twice daily | 22 | ↓ 23 (↓ 32 to ↓ 13) | ↓ 2 (↓ 9 to ↑ 5) | ↑ 7 (↓ 2 to ↑ 17) |
 | 750/200 twice daily (23 doses) | 20 | ↓ 38 (↓ 46 to ↓ 29) | ↑ 2 (↓ 6 to ↑ 10) | ↑ 14 (↑ 1 to ↑ 27) |  |
 
 No effect on the pharmacokinetic parameters of the following coadministered drugs was observed with TRUVADA: abacavir, didanosine (buffered tablets), FTC, entecavir, and lamivudine.
 
 Table 12 Drug Interactions: Changes in Pharmacokinetic Parameters for Coadministered Drug in the Presence of Tenofovir
 
-| Cmax | AUC | Cmin |  |  |  |
+| C max | AUC | C min |  |  |  |
 | --- | --- | --- | --- | --- | --- |
-| Coadministered Drug | Dose of Coadministered Drug (mg) | N | % Change of Coadministered Drug Pharmacokinetic ParametersIncrease = ↑; Decrease = ↓; No Effect = ⇔; NA = Not Applicable (90% CI) |  |  |
+| Coadministered Drug | Dose of Coadministered Drug (mg) | N | % Change of Coadministered Drug Pharmacokinetic Parameters Increase = ↑; Decrease = ↓; No Effect = ⇔; NA = Not Applicable (90% CI) |  |  |
 | Abacavir | 300 once | 8 | ↑ 12 (↓ 1 to ↑ 26) | ⇔ | NA |
-| AtazanavirReyataz Prescribing Information. | 400 once daily × 14 days | 34 | ↓ 21 (↓ 27 to ↓ 14) | ↓ 25 (↓ 30 to ↓ 19) | ↓ 40 (↓ 48 to ↓ 32) |
-| Atazanavir | Atazanavir/Ritonavir 300/100 once daily × 42 days | 10 | ↓ 28 (↓ 50 to ↑ 5) | ↓ 25In HIV-infected subjects, addition of TDF to atazanavir 300 mg plus ritonavir 100 mg resulted in AUC and Cmin values of atazanavir that were 2.3- and 4-fold higher than the respective values observed for atazanavir 400 mg when given alone. (↓ 42 to ↓ 3) | ↓ 23 (↓ 46 to ↑ 10) |
-| DarunavirPrezista Prescribing Information. | Darunavir/Ritonavir 300/100 once daily | 12 | ↑ 16 (↓ 6 to ↑ 42) | ↑ 21 (↓ 5 to ↑ 54) | ↑ 24 (↓ 10 to ↑ 69) |
-| DidanosineVidex EC Prescribing Information. Subjects received didanosine enteric-coated capsules. When didanosine 250 mg enteric-coated capsules were administered with TDF, systemic exposures of didanosine were similar to those seen with the 400 mg enteric-coated capsules alone under fasted conditions. | 250 once, simultaneously with TDF and a light meal373 kcal, 8.2 g fat | 33 | ↓ 20Compared with didanosine (enteric-coated) 400 mg administered alone under fasting conditions. (↓ 32 to ↓ 7) | ⇔ | NA |
+| Atazanavir Reyataz Prescribing Information. | 400 once daily × 14 days | 34 | ↓ 21 (↓ 27 to ↓ 14) | ↓ 25 (↓ 30 to ↓ 19) | ↓ 40 (↓ 48 to ↓ 32) |
+| Atazanavir | Atazanavir/Ritonavir 300/100 once daily × 42 days | 10 | ↓ 28 (↓ 50 to ↑ 5) | ↓ 25 In HIV-infected subjects, addition of TDF to atazanavir 300 mg plus ritonavir 100 mg resulted in AUC and C min values of atazanavir that were 2.3- and 4-fold higher than the respective values observed for atazanavir 400 mg when given alone. (↓ 42 to ↓ 3) | ↓ 23 (↓ 46 to ↑ 10) |
+| Darunavir Prezista Prescribing Information. | Darunavir/Ritonavir 300/100 once daily | 12 | ↑ 16 (↓ 6 to ↑ 42) | ↑ 21 (↓ 5 to ↑ 54) | ↑ 24 (↓ 10 to ↑ 69) |
+| Didanosine Videx EC Prescribing Information. Subjects received didanosine enteric-coated capsules. When didanosine 250 mg enteric-coated capsules were administered with TDF, systemic exposures of didanosine were similar to those seen with the 400 mg enteric-coated capsules alone under fasted conditions. | 250 once, simultaneously with TDF and a light meal 373 kcal, 8.2 g fat | 33 | ↓ 20 Compared with didanosine (enteric-coated) 400 mg administered alone under fasting conditions. (↓ 32 to ↓ 7) | ⇔ | NA |
 | Emtricitabine | 200 once daily × 7 days | 17 | ⇔ | ⇔ | ↑ 20 (↑ 12 to ↑ 29) |
 | Indinavir | 800 three times daily × 7 days | 12 | ↓ 11 (↓ 30 to ↑ 12) | ⇔ | ⇔ |
 | Entecavir | 1 once daily × 10 days | 28 | ⇔ | ↑ 13 (↑ 11 to ↑ 15) | ⇔ |
 | Lamivudine | 150 twice daily × 7 days | 15 | ↓ 24 (↓ 34 to ↓ 12) | ⇔ | ⇔ |
 | Lopinavir | Lopinavir/Ritonavir 400/100 twice daily × 14 days | 24 | ⇔ | ⇔ | ⇔ |
 | Ritonavir | ⇔ | ⇔ | ⇔ |  |  |
-| Saquinavir | Saquinavir/Ritonavir 1000/100 twice daily × 14 days | 32 | ↑ 22 (↑ 6 to ↑41) | ↑ 29Increases in AUC and Cmin are not expected to be clinically relevant; hence, no dose adjustments are required when TDF and ritonavir-boosted saquinavir are coadministered. (↑ 12 to ↑ 48) | ↑ 47 (↑ 23 to ↑ 76) |
+| Saquinavir | Saquinavir/Ritonavir 1000/100 twice daily × 14 days | 32 | ↑ 22 (↑ 6 to ↑41) | ↑ 29 Increases in AUC and C min are not expected to be clinically relevant; hence, no dose adjustments are required when TDF and ritonavir-boosted saquinavir are coadministered. (↑ 12 to ↑ 48) | ↑ 47 (↑ 23 to ↑ 76) |
 | Ritonavir | ⇔ | ⇔ | ↑ 23 (↑ 3 to ↑ 46) |  |  |
 | Tacrolimus | 0.05 mg/kg twice daily × 7 days | 21 | ⇔ | ⇔ | ⇔ |
-| TipranavirAptivus Prescribing Information. | Tipranavir/Ritonavir 500/100 twice daily | 22 | ↓ 17 (↓ 26 to ↓ 6) | ↓ 18 (↓ 25 to ↓ 9) | ↓ 21 (↓ 30 to ↓ 10) |
+| Tipranavir Aptivus Prescribing Information. | Tipranavir/Ritonavir 500/100 twice daily | 22 | ↓ 17 (↓ 26 to ↓ 6) | ↓ 18 (↓ 25 to ↓ 9) | ↓ 21 (↓ 30 to ↓ 10) |
 | Tipranavir/Ritonavir 750/200 twice daily (23 doses) | 20 | ↓ 11 (↓ 16 to ↓ 4) | ↓ 9 (↓ 15 to ↓ 3) | ↓ 12 (↓ 22 to 0) |  |
 
 ## 12.4 Microbiology
@@ -177,14 +177,14 @@ Antiviral Activity
 Emtricitabine and Tenofovir Disoproxil Fumarate: No antagonism was observed in combination studies evaluating the cell culture antiviral activity of FTC and tenofovir together.
 
 Emtricitabine: The antiviral activity of FTC against laboratory and clinical isolates of HIV-1 was assessed in lymphoblastoid cell lines, the MAGI-CCR5 cell line, and peripheral blood mononuclear cells.
-The 50% effective concentration (EC50) values for FTC were in the range of 0.0013–0.64 µM (0.0003–0.158 µg/mL).
+The 50% effective concentration (EC 50) values for FTC were in the range of 0.0013–0.64 µM (0.0003–0.158 µg/mL).
 In drug combination studies of FTC with nucleoside RT inhibitors (abacavir, lamivudine, stavudine, zidovudine), non-nucleoside RT inhibitors (delavirdine, efavirenz, nevirapine), and protease inhibitors (amprenavir, nelfinavir, ritonavir, saquinavir), no antagonism was observed.
-Emtricitabine displayed antiviral activity in cell culture against HIV-1 clades A, B, C, D, E, F, and G (EC50 values ranged from 0.007–0.075 µM) and showed strain-specific activity against HIV-2 (EC50 values ranged from 0.007–1.5 µM).
+Emtricitabine displayed antiviral activity in cell culture against HIV-1 clades A, B, C, D, E, F, and G (EC 50 values ranged from 0.007–0.075 µM) and showed strain-specific activity against HIV-2 (EC 50 values ranged from 0.007–1.5 µM).
 
 Tenofovir Disoproxil Fumarate: The antiviral activity of tenofovir against laboratory and clinical isolates of HIV-1 was assessed in lymphoblastoid cell lines, primary monocyte/macrophage cells, and peripheral blood lymphocytes.
-The EC50 values for tenofovir were in the range of 0.04–8.5 µM.
+The EC 50 values for tenofovir were in the range of 0.04–8.5 µM.
 In drug combination studies of tenofovir with nucleoside RT inhibitors (abacavir, didanosine, lamivudine, stavudine, zidovudine), non-nucleoside RT inhibitors (delavirdine, efavirenz, nevirapine), and protease inhibitors (amprenavir, indinavir, nelfinavir, ritonavir, saquinavir), no antagonism was observed.
-Tenofovir displayed antiviral activity in cell culture against HIV-1 clades A, B, C, D, E, F, G, and O (EC50 values ranged from 0.5–2.2 µM) and showed strain-specific activity against HIV-2 (EC50 values ranged from 1.6 µM to 5.5 µM).
+Tenofovir displayed antiviral activity in cell culture against HIV-1 clades A, B, C, D, E, F, G, and O (EC 50 values ranged from 0.5–2.2 µM) and showed strain-specific activity against HIV-2 (EC 50 values ranged from 1.6 µM to 5.5 µM).
 
 Prophylactic Activity in a Nonhuman Primate Model of HIV-1 Transmission
 
