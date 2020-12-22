@@ -2,11 +2,11 @@
 
 ## 7.1 Monoamine Oxidase Inhibitors (MAOIs)
 
-[See Dosage and Administration (2.5 and 2.6),Contraindications (4.1) and Warnings and Precautions (5.2)].
+[See Dosage and Administration (2.5 and 2.6), Contraindications (4.1) and Warnings and Precautions (5.2)].
 
 ## 7.2 Serotonergic Drugs
 
-[See Dosage and Administration (2.5and 2.6),Contraindications (4.1) and Warnings and Precautions (5.2)].
+[See Dosage and Administration (2.5 and 2.6), Contraindications (4.1) and Warnings and Precautions (5.2)].
 
 ## 7.3 Triptans
 
@@ -19,9 +19,9 @@ Given the primary CNS effects of escitalopram, caution should be used when it is
 
 ## 7.5 Alcohol
 
-Although escitaloprram did not potentiate the cognitive and motor effects of alcohol in a clinical trial, as with other psychotropic medications, the use of alcohol by patients taking escitalopram oxalate is not recommended.
+Although escitalopram did not potentiate the cognitive and motor effects of alcohol in a clinical trial, as with other psychotropic medications, the use of alcohol by patients taking escitalopram is not recommended.
 
-## 7.6 Drugs That Interfere With Hemostasis (NSAIDs, Aspirin, Warfarin, etc.)
+## 7.6 Drugs That Interfere with Hemostasis (NSAIDs, Aspirin, Warfarin, etc.)
 
 Serotonin release by platelets plays an important role in hemostasis.
 Epidemiological studies of the case-control and cohort design that have demonstrated an association between use of psychotropic drugs that interfere with serotonin reuptake and the occurrence of upper gastrointestinal bleeding have also shown that concurrent use of an NSAID or aspirin may potentiate the risk of bleeding.
@@ -57,7 +57,7 @@ If concomitant treatment with sumatriptan and an SSRI (e.g., fluoxetine, fluvoxa
 ## 7.12 Theophylline
 
 Combined administration of racemic citalopram (40 mg/day for 21 days) and the CYP1A2 substrate theophylline (single dose of 300 mg) did not affect the pharmacokinetics of theophylline.
-The effect of theophylline on the pharmacokinetics of citalopram was not evaluated.
+The effect of theophylline on the pharmacokinetics of citalopram was not evaluated
 
 ## 7.13 Warfarin
 

@@ -1,64 +1,45 @@
 # 5 WARNINGS AND PRECAUTIONS
 
-## 5.1 Clinical Worsening and Suicide Risk
+## 5.1 Suicidal Thoughts and Behaviors in Adolescents and Young Adults
 
-Patients with major depressive disorder (MDD), both adult and pediatric, may experience worsening of their depression and/or the emergence of suicidal ideation and behavior (suicidality) or unusual changes in behavior, whether or not they are taking antidepressant medications, and this risk may persist until significant remission occurs.
-Suicide is a known risk of depression and certain other psychiatric disorders, and these disorders themselves are the strongest predictors of suicide.
-There has been a long-standing concern, however, that antidepressants may have a role in inducing worsening of depression and the emergence of suicidality in certain patients during the early phases of treatment.
-Pooled analyses of short-term placebo-controlled trials of antidepressant drugs (SSRIs and others) showed that these drugs increase the risk of suicidal thinking and behavior (suicidality) in children, adolescents, and young adults (ages 18-24) with major depressive disorder (MDD) and other psychiatric disorders.
-Short-term studies did not show an increase in the risk of suicidality with antidepressants compared to placebo in adults beyond age 24; there was a reduction with antidepressants compared to placebo in adults aged 65 and older.
-The pooled analyses of placebo-controlled trials in children and adolescents with MDD, obsessive compulsive disorder (OCD), or other psychiatric disorders included a total of 24 short-term trials of 9 antidepressant drugs in over 4400 patients.
-The pooled analyses of placebo-controlled trials in adults with MDD or other psychiatric disorders included a total of 295 short-term trials (median duration of 2 months) of 11 antidepressant drugs in over 77,000 patients.
-There was considerable variation in risk of suicidality among drugs, but a tendency toward an increase in the younger patients for almost all drugs studied.
-There were differences in absolute risk of suicidality across the different indications, with the highest incidence in MDD.
-The risk differences (drug vs. placebo), however, were relatively stable within age strata and across indications.
-These risk differences (drug-placebo difference in the number of cases of suicidality per 1000 patients treated) are provided in Table 1.
+In pooled analyses of placebo-controlled trials of antidepressant drugs (SSRIs and other antidepressant classes) that included approximately 77,000 adult patients and 4,500 pediatric patients, the incidence of suicidal thoughts and behaviors in the antidepressant-treated patients age 24 years and younger was greater than in placebo-treated patients.
+There was considerable variation in risk of suicidal thoughts and behaviors among drugs, but there was an increased risk identified in young patients for most drugs studied.
+There were differences in absolute risk of suicidal thoughts and behaviors across the different indications, with the highest incidence in patients with MDD.
+The drug-placebo differences in the number of cases of suicidal thoughts and behaviors per 1000 patients treated are provided in Table 1 Table 1.
+Risk Differences of the Number of Patients of Suicidal Thoughts and Behaviors in the Pooled Placebo-Controlled Trials of Antidepressants in Pediatric and Adult Patients
 
-| Table 1 |  |
+| Age Range | Drug-Placebo Difference in Number of patients of Suicidal Thoughts and Behaviors per 1000 Patients Treated |
 | --- | --- |
-| AgeRange | Drug-Placebo Difference in Number of Cases of Suicidality per 1000 Patients Treated |
 |  | Increases Compared to Placebo |
-| <18 | 14 additional cases |
-| 18-24 | 5 additional cases |
+| <18 years old | 14 additional patients |
+| 18-24 years old | 5 additional patients |
 |  | Decreases Compared to Placebo |
-| 25-64 | 1 fewer case |
-| ≥ 65 | 6 fewer cases |
+| 25-64 years old | 1 fewer patients |
+| ≥65 years old | 6 fewer patients |
 
-No suicides occurred in any of the pediatric trials.
-There were suicides in the adult trials, but the number was not sufficient to reach any conclusion about drug effect on suicide.
-It is unknown whether the suicidality risk extends to longer-term use, i.e., beyond several months.
-However, there is substantial evidence from placebo-controlled maintenance trials in adults with depression that the use of antidepressants can delay the recurrence of depression.
-All patients being treated with antidepressants for any indication should be monitored appropriately and observed closely for clinical worsening, suicidality, and unusual changes in behavior, especially during the initial few months of a course of drug therapy, or at times of dose changes, either increases or decreases.
-The following symptoms, anxiety, agitation, panic attacks, insomnia, irritability, hostility, aggressiveness, impulsivity, akathisia (psychomotor restlessness), hypomania, and mania, have been reported in adult and pediatric patients being treated with antidepressants for major depressive disorder as well as for other indications, both psychiatric and nonpsychiatric.
-Although a causal link between the emergence of such symptoms and either the worsening of depression and/or the emergence of suicidal impulses has not been established, there is concern that such symptoms may represent precursors to emerging suicidality.
-Consideration should be given to changing the therapeutic regimen, including possibly discontinuing the medication, in patients whose depression is persistently worse, or who are experiencing emergent suicidality or symptoms that might be precursors to worsening depression or suicidality, especially if these symptoms are severe, abrupt in onset, or were not part of the patient's presenting symptoms.
-If the decision has been made to discontinue treatment, medication should be tapered, as rapidly as is feasible, but with recognition that abrupt discontinuation can be associated with certain symptoms [see Dosage and Administration (2.4)].
-Families and caregivers of patients being treated with antidepressants for major depressive disorder or other indications, both psychiatric and nonpsychiatric, should be alerted about the need to monitor patients for the emergence of agitation, irritability, unusual changes in behavior, and the other symptoms described above, as well as the emergence of suicidality, and to report such symptoms immediately to health care providers.
-Such monitoring should include daily observation by families and caregivers [see also Patient Counseling Information (17.1)].
-Prescriptions for escitalopram tablets should be written for the smallest quantity of tablets consistent with good patient management, in order to reduce the risk of overdose.
-Screening Patients for Bipolar Disorder A major depressive episode may be the initial presentation of bipolar disorder.
-It is generally believed (though not established in controlled trials) that treating such an episode with an antidepressant alone may increase the likelihood of precipitation of a mixed/manic episode in patients at risk for bipolar disorder.
-Whether any of the symptoms described above represent such a conversion is unknown.
-However, prior to initiating treatment with an antidepressant, patients with depressive symptoms should be adequately screened to determine if they are at risk for bipolar disorder; such screening should include a detailed psychiatric history, including a family history of suicide, bipolar disorder, and depression.
-It should be noted that escitalopram is not approved for use in treating bipolar depression.
+It is unknown whether the risk of suicidal thoughts and behaviors in children, adolescents, and young adults extends to longer-term use, i.e., beyond four months.
+However, there is substantial evidence from placebo-controlled maintenance trials in adults with MDD that antidepressants delay the recurrence of depression and that depression itself is a risk factor for suicidal thoughts and behaviors.
+
+Monitor all antidepressant-treated patients for any indication for clinical worsening and emergence of suicidal thoughts and behaviors, especially during the initial few months of drug therapy, and at times of dosage changes.
+Counsel family members or caregivers of patients to monitor for changes in behavior and to alert the healthcare provider.
+Consider changing the therapeutic regimen, including possibly discontinuing escitalopram, in patients whose depression is persistently worse, or who are experiencing emergent suicidal thoughts or behaviors.
 
 ## 5.2 Serotonin Syndrome
 
-The development of a potentially life-threatening serotonin syndrome has been reported with SNRIs and SSRIs, including escitalopram tablets, alone but particularly with concomitant use of other serotonergic drugs (including triptans, tricyclic antidepressants, fentanyl, lithium, tramadol, tryptophan, buspirone, amphetamines and St. John’s Wort) and with drugs that impair metabolism of serotonin (in particular, MAOIs, both those intended to treat psychiatric disorders and also others, such as linezolid and intravenous methylene blue).
+The development of a potentially life-threatening serotonin syndrome has been reported with SNRIs and SSRIs, including escitalopram, alone but particularly with concomitant use of other serotonergic drugs (including triptans, tricyclic antidepressants, fentanyl, lithium, tramadol, tryptophan, buspirone, amphetamines, and St. John’s Wort) and with drugs that impair metabolism of serotonin (in particular, MAOIs, both those intended to treat psychiatric disorders and also others, such as linezolid and intravenous methylene blue).
 Serotonin syndrome symptoms may include mental status changes (e.g., agitation, hallucinations, delirium, and coma), autonomic instability (e.g., tachycardia, labile blood pressure, dizziness, diaphoresis, flushing, hyperthermia), neuromuscular symptoms (e.g., tremor, rigidity, myoclonus, hyperreflexia, incoordination) seizures, and/or gastrointestinal symptoms (e.g., nausea, vomiting, diarrhea).
 Patients should be monitored for the emergence of serotonin syndrome.
-The concomitant use of escitalopram tablets with MAOIs intended to treat psychiatric disorders is contraindicated.
-Escitalopram tablets should also not be started in a patient who is being treated with MAOIs such as linezolid or intravenous methylene blue.
+The concomitant use of escitalopram with MAOIs intended to treat psychiatric disorders is contraindicated.
+Escitalopram should also not be started in a patient who is being treated with MAOIs such as linezolid or intravenous methylene blue.
 All reports with methylene blue that provided information on the route of administration involved intravenous administration in the dose range of 1 mg/kg to 8 mg/kg.
 No reports involved the administration of methylene blue by other routes (such as oral tablets or local tissue injection) or at lower doses.
-There may be circumstances when it is necessary to initiate treatment with an MAOI such as linezolid or intravenous methylene blue in a patient taking escitalopram tablets.
-Escitalopram tablets should be discontinued before initiating treatment with the MAOI [see Contraindications (4.1) and Dosage and Administration (2.5 and 2.6)].
-If concomitant use of escitalopram tablets with other serotonergic drugs including, triptans, tricyclic antidepressants, fentanyl, lithium, tramadol, buspirone, tryptophan, amphetamine and St. John’s Wort is clinically warranted, patients should be made aware of a potential increased risk for serotonin syndrome, particularly during treatment initiation and dose increases.
-Treatment with escitalopram tablets and any concomitant serotonergic agents, should be discontinued immediately if the above events occur and supportive symptomatic treatment should be initiated.
+There may be circumstances when it is necessary to initiate treatment with an MAOI such as linezolid or intravenous methylene blue in a patient taking escitalopram. escitalopram should be discontinued before initiating treatment with the MAOI [see Contraindications (4.1) and Dosage and Administration (2.5 and 2.6)].
+If concomitant use of escitalopram with other serotonergic drugs including, triptans, tricyclic antidepressants, fentanyl, lithium, tramadol, buspirone, tryptophan, amphetamine and St. John’s Wort is clinically warranted, patients should be made aware of a potential increased risk for serotonin syndrome, particularly during treatment initiation and dose increases.
+Treatment with escitalopram and any concomitant serotonergic agents, should be discontinued immediately if the above events occur and supportive symptomatic treatment should be initiated.
 
 ## 5.3 Discontinuation of Treatment with Escitalopram
 
-During marketing of escitalopram and other SSRIs and SNRIs (serotonin and norepinephrine reuptake inhibitors), there have been spontaneous reports of adverse events occurring upon discontinuation of these drugs, particularly when abrupt, including the following: dysphoric mood, irritability, agitation, dizziness, sensory disturbances (e.g., paresthesias such as electric shock sensations), anxiety, confusion, headache, lethargy, emotional lability, insomnia, and hypomania.
+During marketing of escitalopram tablets and other SSRIs and SNRIs (serotonin and norepinephrine reuptake inhibitors), there have been spontaneous reports of adverse events occurring upon discontinuation of these drugs, particularly when abrupt, including the following: dysphoric mood, irritability, agitation, dizziness, sensory disturbances (e.g., paresthesias such as electric shock sensations), anxiety, confusion, headache, lethargy, emotional lability, insomnia, and hypomania.
 While these events are generally self-limiting, there have been reports of serious discontinuation symptoms.
 Patients should be monitored for these symptoms when discontinuing treatment with escitalopram.
 A gradual reduction in the dose rather than abrupt cessation is recommended whenever possible.
@@ -74,10 +55,11 @@ Like other drugs effective in the treatment of major depressive disorder, escita
 
 ## 5.5 Activation of Mania/Hypomania
 
+In patients with bipolar disorder, treating a depressive episode with escitalopram or another antidepressant may precipitate a mixed/manic episode.
 In placebo-controlled trials of escitalopram in major depressive disorder, activation of mania/hypomania was reported in one (0.1%) of 715 patients treated with escitalopram and in none of the 592 patients treated with placebo.
 One additional case of hypomania has been reported in association with escitalopram treatment.
-Activation of mania/ hypomania has also been reported in a small proportion of patients with major affective disorders treated with racemic citalopram and other marketed drugs effective in the treatment of major depressive disorder.
-As with all drugs effective in the treatment of major depressive disorder, escitalopram should be used cautiously in patients with a history of mania.
+Activation of mania/hypomania has also been reported in a small proportion of patients with major affective disorders treated with racemic citalopram and other marketed drugs effective in the treatment of major depressive disorder.
+Prior to initiating treatment with escitalopram, screen patients for any personal or family history of bipolar disorder, mania, or hypomania [see Dosage and Administration (2.3)].
 
 ## 5.6 Hyponatremia
 
@@ -87,16 +69,16 @@ Cases with serum sodium lower than 110 mmol/L have been reported.
 Elderly patients may be at greater risk of developing hyponatremia with SSRIs and SNRIs.
 Also, patients taking diuretics or who are otherwise volume depleted may be at greater risk [see Geriatric Use (8.5)].
 Discontinuation of escitalopram should be considered in patients with symptomatic hyponatremia and appropriate medical intervention should be instituted.
+
 Signs and symptoms of hyponatremia include headache, difficulty concentrating, memory impairment, confusion, weakness, and unsteadiness, which may lead to falls.
 Signs and symptoms associated with more severe and/or acute cases have included hallucination, syncope, seizure, coma, respiratory arrest, and death.
 
 ## 5.7 Abnormal Bleeding
 
 SSRIs and SNRIs, including escitalopram, may increase the risk of bleeding events.
-Concomitant use of aspirin, nonsteroidal anti-inflammatory drugs, warfarin, and other anticoagulants may add to the risk.
+Concomitant use of aspirin, nonsteroidal antiinflammatory drugs, warfarin, and other anticoagulants may add to the risk.
 Case reports and epidemiological studies (case-control and cohort design) have demonstrated an association between use of drugs that interfere with serotonin reuptake and the occurrence of gastrointestinal bleeding.
 Bleeding events related to SSRIs and SNRIs use have ranged from ecchymoses, hematomas, epistaxis, and petechiae to life-threatening hemorrhages.
-
 Patients should be cautioned about the risk of bleeding associated with the concomitant use of escitalopram and NSAIDs, aspirin, or other drugs that affect coagulation.
 
 ## 5.8 Interference with Cognitive and Motor Performance
