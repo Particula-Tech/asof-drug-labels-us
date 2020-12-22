@@ -9,49 +9,47 @@ Mammalian cells cannot efficiently repair these double-strand breaks.
 
 ## 12.3 Pharmacokinetics
 
-Following administration of topotecan hydrochloride for injection at doses of 0.5 to 1.5 mg/m 2 administered as a 30-minute infusion to cancer patients, topotecan exhibited multiexponential pharmacokinetics with a terminal half-life of 2 to 3 hours.
-Total exposure (AUC) is approximately dose-proportional.
+Following administration of topotecan hydrochloride for injection at doses of 0.5 to 1.5 mg/m2 (0.1 to 0.3 times the recommended single agent dose) administered as a 30-minute infusion, area under the curve (AUC) increases proportionally with dose.
 
 Distribution
 
-Binding of topotecan to plasma proteins is approximately 35%.
+Protein binding of topotecan is approximately 35%.
+
+Elimination
+
+The terminal half-life of topotecan is 2 to 3 hours following intravenous administration.
+
 Metabolism
 
-Topotecan undergoes a reversible pH-dependent hydrolysis of its lactone moiety; it is the lactone form that is pharmacologically active.
-At pH ≤ 4, the lactone is exclusively present, whereas the ring-opened hydroxy-acid form predominates at physiologic pH.
-In vitro studies in human liver microsomes indicate topotecan is metabolized to an N-demethylated metabolite.
-The mean metabolite:parent AUC ratio was about 3% for total topotecan and topotecan lactone following IV administration.
+Topotecan undergoes a reversible pH-dependent hydrolysis of its pharmacologically active lactone moiety.
+At pH less than or equal to 4, the lactone is exclusively present, whereas the ring-opened hydroxy-acid form predominates at physiologic pH.
+Topotecan is metabolized to an N-demethylated metabolite in vitro.
+The mean metabolite: parent AUC ratio was about 3% for total topotecan and topotecan lactone following intravenous administration.
 
 Excretion
 
-Renal clearance is the primary route of topotecan elimination.
-
-In a mass balance/excretion trial in 4 patients with solid tumors, the overall recovery of total topotecan and its N-desmethyl metabolite in urine and feces over 9 days averaged 73.4% ± 2.3% of the administered IV dose.
-Mean values of 50.8% ± 2.9% as total topotecan and 3.1% ± 1.0% as N-desmethyl topotecan were excreted in the urine following IV administration.
-Fecal elimination of total topotecan accounted for 17.9% ± 3.6% while fecal elimination of N-desmethyl topotecan was 1.7% ± 0.6%.
+The overall recovery of total topotecan and its N-desmethyl metabolite in urine and feces over 9 days averaged 73.0% ± 2.0% following an intravenous dose.
+Mean values of 51.0% ± 3.0% as total topotecan and 3.0% ± 1.0% as N-desmethyl topotecan were excreted in the urine.
+Fecal elimination of total topotecan accounted for 18.0% ± 4.0% while fecal elimination of N-desmethyl topotecan was 1.7% ± 0.6%.
 An O-glucuronidation metabolite of topotecan and N-desmethyl topotecan has been identified in the urine.
 
 Specific Populations
 
-Gender: Plasma clearance of topotecan lactone in male patients was approximately 24% higher than that in female patients, largely reflecting difference in body size.
+No clinically significant differences in the pharmacokinetics of topotecan were observed based on age, sex, or hepatic impairment following intravenous administration.
 
-Age: Population pharmacokinetic analysis in female patients did not identify age as a significant factor.
-Decreased renal clearance, which is common in the elderly, is a more important determinant of topotecan clearance [see Dosage and Administration (2.4), Use in Specific Populations (8.5)].
+Patients with Renal Impairment:
 
-Renal Impairment:
+Compared to patients with CLcr (calculated by the Cockcroft-Gault method using ideal body weight) greater than 60 mL/min, plasma clearance of topotecan lactone decreased by 33% in patients with CLcr 40-60 mL/min and decreased 65% in patients with CLcr 20-39 mL/min.
+The effect on topotecan pharmacokinetics in patients with CLcr less than 20 mL/min is unknown [see Dosage and Administration (2.6)].
 
-In patients with mild renal impairment (Clcr = 40 to 60 mL/min), plasma clearance of topotecan lactone was decreased by 33% compared with patients with normal renal function (Clcr greater than 60 mL/min).
-In patients with moderate renal impairment (Clcr = 20 to 39 mL/min), plasma clearance of topotecan lactone was reduced by 65% compared with patients with normal renal function.
-Dosage adjustment is recommended for patients with moderate renal impairment.
-No dosage adjustment is required in patients with mild renal impairment [see Dosage and Administration (2.4), Use in Specific Populations (8.6)].
+Drug Interaction Studies
 
-Hepatic Impairment: Plasma clearance of topotecan lactone in patients with hepatic impairment serum bilirubin levels between 1.7 and 15.0 mg/dL) was decreased by 33% compared with patients with normal hepatic function (serum bilirubin levels less than 1.7 mg/dL).
+Clinical Studies
 
-Drug Interactions
+No clinically significant changes in topotecan pharmacokinetics were observed when coadministered cisplatin.
 
-Effects of Topotecan on Drug-Metabolizing Enzymes: In vitro inhibition studies using marker substrates for human P450 CYP1A2, CYP2A6, CYP2C8/9, CYP2C19, CYP2D6, CYP2E, CYP3A, or CYP4A or dihydropyrimidine dehydrogenase indicate that the activities of these enzymes were not altered by topotecan.
+No clinically significant changes in the pharmacokinetics of free platinum were observed in patients coadministered cisplatin with topotecan.
 
-Cisplatin: Administration of cisplatin (60 or 75 mg/m 2 on Day 1) before topotecan (0.75 mg/m 2/day on Days 1 to 5) in 9 patients with ovarian cancer had no significant effect on the C max and AUC of total topotecan.
+In Vitro Studies
 
-Topotecan (0.3 mg/m 2 IV daily on Days 2 to 6) had no effect on the pharmacokinetics of free platinum in 15 patients with ovarian cancer who were administered cisplatin 50 mg/m 2 (n = 9) or 75 mg/m 2 (n = 6) on Day 2 after paclitaxel 110 mg/m 2 on Day 1.
-Topotecan (0.75 mg/m 2 IV daily on Days 1 to 5) had no effect on dose-normalized (60 mg/m 2) C max values of free platinum in 13 patients with ovarian cancer who were administered 60 mg/m 2 (n = 10) or 75 mg/m 2 (n = 3) cisplatin on Day 1.
+Topotecan does not inhibit CYP1A2, CYP2A6, CYP2C8/9, CYP2C19, CYP2D6, CYP2E, CYP3A, or CYP4A or dihydropyrimidine dehydrogenase.

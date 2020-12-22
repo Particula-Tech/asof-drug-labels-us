@@ -1,11 +1,3 @@
-Lake Zurich, IL 60047
-
-www.fresenius-kabi.us
-
-451171E
-
-Revised: August 2016
-
 PACKAGE LABEL - PRINCIPAL DISPLAY - Topotecan 4 mg Single Dose Vial Label
 
 Topotecan Hydrochloride for Injection 4 mg (base) per vial For intravenous use.
