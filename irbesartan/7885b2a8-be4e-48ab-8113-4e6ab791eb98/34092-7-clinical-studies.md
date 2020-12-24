@@ -55,7 +55,7 @@ Table 1: IDNT: Components of Primary Composite Endpoint
 
 |  | AVAPRO N=579 (%) | Placebo N=569 (%) | Hazard Ratio | 95% CI | Amlodipine N=567 (%) | Hazard Ratio | 95% CI |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-|  |  | Comparison With Placebo |  |  | Comparison With Amlodipine |  |  |
+|  |  | Comparison with Placebo |  |  | Comparison with Amlodipine |  |  |
 | Primary Composite Endpoint | 32.6 | 39.0 | 0.80 | 0.66–0.97 (p=0.0234) | 41.1 | 0.77 | 0.63–0.93 |
 | Breakdown of first occurring event contributing to primary endpoint |  |  |  |  |  |  |  |
 | 2× creatinine | 14.2 | 19.5 | --- | --- | 22.8 | --- | --- |
@@ -75,7 +75,7 @@ Table 2 presents results for demographic subgroups.
 Subgroup analyses are difficult to interpret, and it is not known whether these observations represent true differences or chance effects.
 For the primary endpoint, AVAPRO's favorable effects were seen in patients also taking other antihypertensive medications (angiotensin II receptor antagonists, angiotensin-converting-enzyme inhibitors, and calcium channel blockers were not allowed), oral hypoglycemic agents, and lipid-lowering agents.
 
-Table 2: IDNT: Primary Efficacy Outcome Within Subgroups
+Table 2: IDNT: Primary Efficacy Outcome within Subgroups
 
 | Placebo N=569 (%) | Hazard Ratio | 95% Cl |  |  |
 | --- | --- | --- | --- | --- |
