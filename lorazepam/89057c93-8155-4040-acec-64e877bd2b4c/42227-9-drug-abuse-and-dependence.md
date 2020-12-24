@@ -1,0 +1,45 @@
+# DRUG ABUSE AND DEPENDENCE
+
+Controlled Substance
+
+Ativan contains lorazepam, a Schedule IV controlled substance.
+
+Abuse
+
+Ativan is a CNS depressant with a potential for abuse and addiction.
+Abuse is the intentional, non-therapeutic use of a drug, even once, for its desirable psychological or physiological effects.
+Misuse is the intentional use, for therapeutic purposes, of a drug by an individual in a way other than prescribed by a healthcare provider or for whom it was not prescribed.
+Drug addiction is a cluster of behavioral, cognitive, and physiological phenomena that may include a strong desire to take the drug, difficulties in controlling drug use (e.g., continuing drug use despite harmful consequences, giving a higher priority to drug use than other activities and obligations), and possible tolerance or physical dependence.
+Both abuse and misuse may lead to addiction, and some individuals may develop addiction even when taking Ativan as prescribed.
+
+Abuse and misuse of benzodiazepines often (but not always) involve the use of doses greater than the maximum recommended dosage and commonly involve concomitant use of other medications, alcohol, and/or illicit substances, which is associated with an increased frequency of serious adverse outcomes, including respiratory depression, overdose, or death.
+Benzodiazepines are often sought by individuals who abuse drugs and other substances, and by individuals with addictive disorders (see WARNINGS, Abuse, Misuse, and Addiction).
+
+The following adverse reactions have occurred with benzodiazepine abuse and/or misuse: abdominal pain, amnesia, anorexia, anxiety, aggression, ataxia, blurred vision, confusion, depression, disinhibition, disorientation, dizziness, euphoria, impaired concentration and memory, indigestion, irritability, muscle pain, slurred speech, tremors, and vertigo.
+
+The following severe adverse reactions have occurred with benzodiazepine abuse and/or misuse: delirium, paranoia, suicidal ideation and behavior, seizures, coma, breathing difficulty, and death.
+Death is more often associated with polysubstance use (especially benzodiazepines with other CNS depressants such as opioids and alcohol).
+
+Dependence
+
+Physical Dependence
+
+Ativan may produce physical dependence after inappropriate long-term use.
+Physical dependence is a state that develops as a result of physiological adaptation in response to repeated drug use, manifested by withdrawal signs and symptoms after abrupt discontinuation or a significant dose reduction of a drug.
+Abrupt discontinuation or rapid dosage reduction or administration of flumazenil, a benzodiazepine antagonist, may precipitate acute withdrawal reactions, including seizures, which can be life-threatening.
+Patients at an increased risk of withdrawal adverse reactions after benzodiazepine discontinuation or rapid dosage reduction include those who take higher dosages (i.e., higher and/or more frequent doses) and those who have had longer durations of use (see WARNINGS, Dependence and Withdrawal Reactions).
+
+To reduce the risk of withdrawal reactions, use a gradual taper to discontinue Ativan or reduce the dosage (see DOSAGE and ADMINISTRATION, Discontinuation or Dosage Reduction of Ativan and WARNINGS).
+
+1. Acute Withdrawal Signs and Symptoms
+2. Acute withdrawal signs and symptoms have included abnormal involuntary movements, anxiety, blurred vision, cognitive disorder, depersonalization, depression, derealization, dizziness, fatigue, gastrointestinal adverse reactions (e.g., nausea, vomiting, diarrhea, weight loss, decreased appetite), headache, hyperacusis, hypertension, irritability, insomnia, memory impairment, muscle pain and stiffness, panic attacks, photophobia, restlessness, tachycardia, and tremor.
+   More severe acute withdrawal signs and symptoms, including life-threatening reactions, have included catatonia, convulsions, delirium tremens, depression, hallucinations, homicidal thoughts, mania, psychosis, and suicidality.
+3. Protracted Withdrawal Syndrome
+4. Protracted withdrawal syndrome is characterized by anxiety, cognitive impairment, depression, insomnia, formication, motor symptoms (e.g., weakness, tremor, muscle twitches), paresthesia, and tinnitus that persists beyond 4 to 6 weeks after initial benzodiazepine withdrawal.
+   Protracted withdrawal symptoms may last weeks to more than 12 months.
+
+Tolerance
+
+Ativan may produce tolerance from continued therapy.
+Tolerance is a physiological state characterized by a reduced response to a drug after repeated administration (i.e., a higher dose of a drug is required to produce the same effect that was once obtained at a lower dose).
+Tolerance may develop within days or weeks of the therapeutic effects of Ativan; however, little tolerance develops to the amnestic reactions and other cognitive impairments caused by benzodiazepines.

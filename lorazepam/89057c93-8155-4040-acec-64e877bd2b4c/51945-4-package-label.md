@@ -16,7 +16,7 @@ PHARMACIST: Dispense the accompanying Medication Guide to each patient.
 
 BAUSCH Health
 
-# PRINCIPAL DISPLAY PANEL - 1.0 mg Bottle Label
+# Package/Label Display Panel - 1.0 mg Bottle Label
 
 NDC 0187-0064-01
 
@@ -34,7 +34,7 @@ PHARMACIST: Dispense the accompanying Medication Guide to each patient.
 
 BAUSCH Health
 
-# PRINCIPAL DISPLAY PANEL - 0.5 mg Bottle Label
+# Package/Label Display Panel -.5 mg Bottle Label
 
 NDC 0187-0063-01
 
