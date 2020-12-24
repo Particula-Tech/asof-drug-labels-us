@@ -25,7 +25,7 @@ Escitalopram tablets may be associated with these serious side effects:
 Serotonin Syndrome.
 This condition can be life-threatening and may include: • agitation, hallucinations, coma or other changes in mental status • coordination problems or muscle twitching (overactive reflexes) • racing heartbeat, high or low blood pressure • sweating or fever • nausea, vomiting, or diarrhea muscle rigidity 3.
 Severe allergic reactions: • trouble breathing • swelling of the face, tongue, eyes or mouth • rash, itchy welts (hives) or blisters, alone or with fever or joint pain 4.
-Abnormal bleeding: Escitalopram tablets and other antidepressant medicines may increase your risk of bleeding or bruising, especially if you take the blood thinner warfarin (Coumadin®, Jantoven®), a non-steroidal anti-inflammatory drug (NSAIDs, like ibuprofen or naproxen), or aspirin.
+Abnormal bleeding: Escitalopram tablets and other antidepressant medicines may increase your risk of bleeding or bruising, especially if you take the blood thinner warfarin (Coumadin ®, Jantoven ®), a non-steroidal anti-inflammatory drug (NSAIDs, like ibuprofen or naproxen), or aspirin.
 5.
 Seizures or convulsions 6.
 Manic episodes: • greatly increased energy • severe trouble sleeping • racing thoughts • reckless behavior • unusually grand ideas • excessive happiness or irritability talking more or faster than usual 7.
