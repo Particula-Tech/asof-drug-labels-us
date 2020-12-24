@@ -131,7 +131,6 @@ Mild elevations of blood glucose were more frequent in pediatric subjects receiv
 Other Adverse Events
 
 In addition to adverse reactions and laboratory abnormalities reported in Tables 2, 3, 4, 5, and 6, other adverse reactions observed in the expanded access program were pancreatitis and increased GGT.
-
 Pediatric Subjects Once-Daily versus Twice-Daily Dosing (COL105677): The safety of once-daily compared with twice-daily dosing of abacavir was assessed in the ARROW trial.
 Primary safety assessment in the ARROW trial was based on Grade 3 and Grade 4 adverse events.
 The frequency of Grade 3 and 4 adverse events was similar among subjects randomized to once-daily dosing compared with subjects randomized to twice-daily dosing.

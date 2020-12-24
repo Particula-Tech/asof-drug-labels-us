@@ -6,7 +6,7 @@ Hypersensitivity Reactions
 
 Inform patients:
 
-- that a Medication Guide and Warning Card summarizing the symptoms of the abacavir hypersensitivity reaction and other product information will be dispensed by the pharmacist with each new prescription and refill of abacavir, and instruct the patient to read the Medication Guide and Warning Card every time to obtain any new information that may be present about abacavir.
+- that a Medication Guide and Warning Card summarizing the symptoms of the abacavir hypersensitivity reaction and other product information will be dispensed by the pharmacist with each new prescription and refill of abacavir and instruct the patient to read the Medication Guide and Warning Card every time to obtain any new information that may be present about abacavir.
   The complete text of the Medication Guide is reprinted at the end of this document.
 - to carry the Warning Card with them.
 - how to identify a hypersensitivity reaction [see Warnings and Precautions (5.1), Medication Guide].
@@ -22,10 +22,7 @@ Lactic Acidosis/Hepatomegaly with Steatosis
 
 Advise patients that lactic acidosis and severe hepatomegaly with steatosis have been reported with use of nucleoside analogues and other antiretrovirals.
 Advise patients to stop taking abacavir if they develop clinical symptoms suggestive of lactic acidosis or pronounced hepatotoxicity [see Warnings and Precautions (5.2)].
-Immune Reconstitution Syndrome
-
-Advise patients to inform their healthcare provider immediately of any signs and symptoms of infection as inflammation from previous infection may occur soon after combination antiretroviral therapy, including when abacavir is started [see Warnings and Precautions (5.3)].
-
+Immune Reconstitution Syndrome Advise patients to inform their healthcare provider immediately of any signs and symptoms of infection as inflammation from previous infection may occur soon after combination antiretroviral therapy, including when abacavir is started [see Warnings and Precautions (5.3)].
 Pregnancy Registry
 
 Advise patients that there is a pregnancy exposure registry that monitors pregnancy outcomes in women exposed to abacavir during pregnancy [see Use in Specific Populations (8.1)].
@@ -44,4 +41,4 @@ Availability of Medication Guide
 Instruct patients to read the Medication Guide before starting abacavir and to re-read it each time the prescription is renewed.
 Instruct patients to inform their physician or pharmacist if they develop any unusual symptom, or if any known symptom persists or worsens.
 
-Distributed by: Aurobindo Pharma USA, Inc. 279 Princeton-Hightstown Road East Windsor, NJ 08520 Manufactured by: Aurobindo Pharma Limited Hyderabad-500 038, India Revised: 06/2018
+Distributed by: Aurobindo Pharma USA, Inc. 279 Princeton-Hightstown Road East Windsor, NJ 08520 Manufactured by: Aurobindo Pharma Limited Hyderabad-500 038, India Revised: 12/2020

@@ -81,6 +81,7 @@ Tell your healthcare provider if you take:
 
 - any other medicine to treat HIV-1
 - methadone
+- riociguat
 
 How should I take abacavir tablets?
 
@@ -106,7 +107,7 @@ What are the possible side effects of abacavir tablets?
 - Build-up of acid in your blood (lactic acidosis).
   Lactic acidosis can happen in some people who take abacavir tablets.
   Lactic acidosis is a serious medical emergency that can cause death.
-  Call your healthcare provider right away if you get any of the following symptoms that could be signs of lactic acidosis: You may be more likely to get lactic acidosis or serious liver problems if you are female or very overweight (obese).
+  Call your healthcare provider right away if you get any of the following symptoms that could be signs of lactic acidosis:
   - feel very weak or tired
   - unusual (not normal) muscle pain
   - trouble breathing
@@ -114,10 +115,10 @@ What are the possible side effects of abacavir tablets?
   - feel cold, especially in your arms and legs
   - feel dizzy or light-headed
   - have a fast or irregular heartbeat
-  - Serious liver problems can happen in people who take abacavir tablets.
-    In some cases, these serious liver problems can lead to death.
-    Your liver may become large (hepatomegaly) and you may develop fat in your liver (steatosis) when you take abacavir tablets.
-    Call your healthcare provider right away if you have any of the following signs of liver problems:
+- Serious liver problems can happen in people who take abacavir tablets.
+  In some cases, these serious liver problems can lead to death.
+  Your liver may become large (hepatomegaly) and you may develop fat in your liver (steatosis) when you take abacavir tablets.
+  Call your healthcare provider right away if you have any of the following signs of liver problems: You may be more likely to get lactic acidosis or serious liver problems if you are female or very overweight (obese).
   - your skin or the white part of your eyes turns yellow (jaundice)
   - dark or “tea-colored” urine
   - light-colored stools (bowel movements)
@@ -170,4 +171,4 @@ The tablets are coated with a film that is made of hypromellose, iron oxide yell
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
 The brands listed are trademarks of their respective owners and are not trademarks of the Aurobindo Pharma Limited.
 The markers of these brands are not affiliated with and do not endorse the Aurobindo Pharma Limited or its products.
-Distributed by: Aurobindo Pharma USA, Inc. 279 Princeton-Hightstown Road East Windsor, NJ 08520 Manufactured by: Aurobindo Pharma Limited Hyderabad-500 038, India Revised: 06/2018
+Distributed by: Aurobindo Pharma USA, Inc. 279 Princeton-Hightstown Road East Windsor, NJ 08520 Manufactured by: Aurobindo Pharma Limited Hyderabad-500 038, India Revised: 12/2020

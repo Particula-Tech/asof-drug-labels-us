@@ -21,12 +21,11 @@ However, no adverse developmental effects were observed following oral administr
 
 Data
 
-Human Data: Based on prospective reports to the APR of over 2,000 exposures to abacavir during pregnancy resulting in live births (including over 1,000 exposed in the first trimester), there was no difference between the overall risk of birth defects for abacavir compared with the background birth defect rate of 2.7% in the U.S. reference population of the MACDP.
-The prevalence of defects in live births was 2.9% (95% CI: 2.0% to 4.1%) following first trimester exposure to abacavir-containing regimens and 2.7% (95% CI: 1.9% to 3.7%) following second/third trimester exposure to abacavir-containing regimens.
-
+Human Data: Based on prospective reports to the APR of exposures to abacavir during pregnancy resulting in live births (including over 1,300 exposed in the first trimester and over 1,300 exposed in second/third trimester), there was no difference between the overall risk of birth defects for abacavir compared with the background birth defect rate of 2.7% in the U.S. reference population of the MACDP.
+The prevalence of defects in live births was 3.2% (95% CI: 2.3% to 4.3%) following first trimester exposure to abacavir-containing regimens and 2.9% (95% CI: 2.1% to 4%) following second/third trimester exposure to abacavir-containing regimens.
 Abacavir has been shown to cross the placenta and concentrations in neonatal plasma at birth were essentially equal to those in maternal plasma at delivery [see Clinical Pharmacology (12.3)].
 
-Animal Data: Abacavir was administered orally to pregnant rats (at 100, 300, and 1,000 mg per kg per day) and rabbits (at 125, 350, or 700 mg per kg per day) during organogenesis (on gestation Days 6 through 17 and 6 through 20, respectively).
+Animal Data: Abacavir was administered orally to pregnant rats (at 100, 300, and 1,000 mg per kg per day) and rabbits (at 125, 350, or 700 mg per kg per day) during organogenesis (on Gestation Days 6 through 17 and 6 through 20, respectively).
 Fetal malformations (increased incidences of fetal anasarca and skeletal malformations) or developmental toxicity (decreased fetal body weight and crown-rump length) were observed in rats at doses up to 1,000 mg per kg per day, resulting in exposures approximately 35 times the human exposure (AUC) at the recommended daily dose.
 No developmental effects were observed in rats at 100 mg per kg per day, resulting in exposures (AUC) 3.5 times the human exposure at the recommended daily dose.
 In a fertility and early embryo-fetal development study conducted in rats (at 60, 160, or 500 mg per kg per day), embryonic and fetal toxicities (increased resorptions, decreased fetal body weights) or toxicities to the offspring (increased incidence of stillbirth and lower body weights) occurred at doses up to 500 mg per kg per day.

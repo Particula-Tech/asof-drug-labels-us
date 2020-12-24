@@ -28,27 +28,19 @@ Total blood and plasma drug-related radioactivity concentrations are identical, 
 
 Elimination: In single-dose trials, the observed elimination half-life (t1/2) was 1.54 ± 0.63 hours.
 After intravenous administration, total clearance was 0.8 ± 0.24 L per hour per kg (mean ± SD).
-
 Metabolism: In humans, abacavir is not significantly metabolized by cytochrome P450 enzymes.
 The primary routes of elimination of abacavir are metabolism by alcohol dehydrogenase to form the 5′-carboxylic acid and glucuronyl transferase to form the 5′-glucuronide.
 The metabolites do not have antiviral activity.
 In vitro experiments reveal that abacavir does not inhibit human CYP3A4, CYP2D6, or CYP2C9 activity at clinically relevant concentrations.
-
 Excretion: Elimination of abacavir was quantified in a mass balance trial following administration of a 600 mg dose of 14C-abacavir: 99% of the radioactivity was recovered, 1.2% was excreted in the urine as abacavir, 30% as the 5′-carboxylic acid metabolite, 36% as the 5′-glucuronide metabolite, and 15% as unidentified minor metabolites in the urine.
 Fecal elimination accounted for 16% of the dose.
-
-Specific Populations
-
-Patients with Renal Impairment: The pharmacokinetic properties of abacavir have not been determined in patients with impaired renal function.
+Specific Populations Patients with Renal Impairment: The pharmacokinetic properties of abacavir have not been determined in patients with impaired renal function.
 Renal excretion of unchanged abacavir is a minor route of elimination in humans.
-
 Patients with Hepatic Impairment: The pharmacokinetics of abacavir have been studied in subjects with mild hepatic impairment (Child-Pugh Class A). Results showed that there was a mean increase of 89% in the abacavir AUC and an increase of 58% in the half-life of abacavir after a single dose of 600 mg of abacavir.
 The AUCs of the metabolites were not modified by mild liver disease; however, the rates of formation and elimination of the metabolites were decreased [see Contraindications (4), Use in Specific Populations (8.6)].
-
-Pregnant Women: Abacavir: Abacavir pharmacokinetics were studied in 25 pregnant women during the last trimester of pregnancy receiving abacavir 300 mg twice daily.
+Pregnant Women: Abacavir pharmacokinetics were studied in 25 pregnant women during the last trimester of pregnancy receiving abacavir 300 mg twice daily.
 Abacavir exposure (AUC) during pregnancy was similar to those in postpartum and in HIV-infected non-pregnant historical controls.
 Consistent with passive diffusion of abacavir across the placenta, abacavir concentrations in neonatal plasma cord samples at birth were essentially equal to those in maternal plasma at delivery.
-
 Pediatric Patients: The pharmacokinetics of abacavir have been studied after either single or repeat doses of abacavir in 169 pediatric subjects.
 Subjects receiving abacavir oral solution according to the recommended dosage regimen achieved plasma concentrations of abacavir similar to adults.
 Subjects receiving abacavir oral tablets achieved higher plasma concentrations of abacavir than subjects receiving oral solution.
@@ -56,18 +48,14 @@ The pharmacokinetics of abacavir dosed once daily in HIV-1-infected pediatric su
 All 3 trials were 2-period, crossover, open-label pharmacokinetic trials of twice-versus once-daily dosing of abacavir and lamivudine.
 For the oral solution as well as the tablet formulation, these 3 trials demonstrated that once-daily dosing provides comparable AUC0-24 to twice-daily dosing of abacavir at the same total daily dose.
 The mean Cmax was approximately 1.6- to 2.3-fold higher with abacavir once-daily dosing compared with twice-daily dosing.
-
 Geriatric Patients: The pharmacokinetics of abacavir have not been studied in subjects older than 65 years.
-
 Male and Female Patients: A population pharmacokinetic analysis in HIV-1-infected male (n = 304) and female (n = 67) subjects showed no gender differences in abacavir AUC normalized for lean body weight.
 Racial Groups: There are no significant or clinically relevant racial differences between blacks and whites in abacavir pharmacokinetics.
-
-Drug Interaction Studies
-
-Effect of Abacavir on the Pharmacokinetics of Other Agents: In human liver microsomes, abacavir did not inhibit cytochrome P450 isoforms (2C9, 2D6, 3A4).
-Based on these data, it is unlikely that clinically significant drug interactions will occur between abacavir and drugs metabolized through these pathways.
+Drug Interaction Studies Effect of Abacavir on the Pharmacokinetics of Other Agents: In vitro studies have shown that abacavir has potential to inhibit CYP1A1 and limited potential to inhibit metabolism mediated by CYP3A4.
+Abacavir did not inhibit or induce other CYP enzymes (such as CYP2C9, or CYP2D6).
 Based on in vitro study results, abacavir at therapeutic drug exposures is not expected to affect the pharmacokinetics of drugs that are substrates of the following transporters: organic anion transporter polypeptide (OATP)1B1/3, breast cancer resistance protein (BCRP) or P-glycoprotein (P-gp), organic cation transporter (OCT)1, OCT2, or multidrug and toxic extrusion protein (MATE)1 and MATE2-K.
-
+Riociguat: Coadministration of a single dose of riociguat (0.5 mg) to HIV-1–infected subjects receiving fixed-dose abacavir/dolutegravir/lamivudine is reported to increase riociguat AUC(∞) compared with riociguat AUC(∞) reported in healthy subjects due to CYP1A1 inhibition by abacavir.
+The exact magnitude of increase in riociguat exposure has not been fully characterized based on findings from two studies [see Drug Interactions (7.2)].
 Effect of Other Agents on the Pharmacokinetics of Abacavir: In vitro, abacavir is not a substrate of OATP1B1, OAP1B3, OCT1, OCT2, OAT1, MATE1, MATE2-K, multidrug resistance-associated protein (MRP)2 or MRP4; therefore, drugs that modulate these transporters are not expected to affect abacavir plasma concentrations.
 Abacavir is a substrate of BCRP and P-gp in vitro; however, considering its absolute bioavailability (83%), modulators of these transporters are unlikely to result in a clinically relevant impact on abacavir concentrations.
 Lamivudine and/or Zidovudine: Fifteen HIV-1-infected subjects were enrolled in a crossover-designed drug interaction trial evaluating single doses of abacavir (600 mg), lamivudine (150 mg), and zidovudine (300 mg) alone or in combination.
