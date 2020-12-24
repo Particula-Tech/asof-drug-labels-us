@@ -1,0 +1,20 @@
+{
+  "application_numbers": [
+    "ANDA203433"
+  ],
+  "inn": "salmeterol",
+  "labeler": "Hikma Pharmaceuticals USA Inc.",
+  "package_ndcs": [
+    "0054-0326-56",
+    "0054-0327-56"
+  ],
+  "products": [
+    {
+      "form": "POWDER",
+      "generic": "fluticasone propionate and salmeterol",
+      "name": "fluticasone propionate and salmeterol"
+    }
+  ],
+  "setid": "f9fcfc90-3677-4a9b-900e-44417d50d507",
+  "source": "dailymed"
+}
