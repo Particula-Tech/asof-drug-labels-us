@@ -138,7 +138,7 @@ Symptomatic GERD: In a US multicenter, double-blind, placebo-controlled study of
 No significant additional benefit from lansoprazole 30 mg once daily was observed.
 
 The intent-to-treat analyses demonstrated significant reduction in frequency and severity of day and night heartburn.
-Data for frequency and severity for the eight week treatment period are presented in Table 17 and in Figures 1 and 2:
+Data for frequency and severity for the eight week treatment period are presented in Table 17 and in Figures 1 and2:
 
 | Table 17: Frequency of Heartburn |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -154,9 +154,9 @@ Data for frequency and severity for the eight week treatment period are presente
 | Week 8 | 36% | 92%* | 80%* |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 | *(p<0.01) vs placebo. |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
-Figure 1
+Figure 1:
 
-Figure 2
+Figure 2:
 
 In two US, multicenter double-blind, ranitidine-controlled studies of 925 total patients with frequent GERD symptoms, but no esophageal erosions by endoscopy, lansoprazole 15 mg was superior to ranitidine 150 mg (twice daily) in decreasing the frequency and severity of day and night heartburn associated with GERD for the eight week treatment period.
 No significant additional benefit from lansoprazole 30 mg once daily was observed [see Indications and Usage (1.7)].

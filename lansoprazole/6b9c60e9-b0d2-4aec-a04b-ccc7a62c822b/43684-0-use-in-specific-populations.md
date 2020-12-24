@@ -44,11 +44,12 @@ The developmental and health benefits of breastfeeding should be considered alon
 ## 8.4 Pediatric Use
 
 The safety and effectiveness of lansoprazole has been established in pediatric patients one year to 17 years of age for short-term treatment of symptomatic GERD and erosive esophagitis.
+
 In clinical studies of symptomatic GERD and erosive esophagitis, lansoprazole was not administered beyond 12 weeks in patients one year to 11 years of age.
 It is not known if lansoprazole is safe and effective if used longer than the recommended duration.
 Do not exceed the recommended dose and duration of use in pediatric patients (see Juvenile Animal Toxicity Data).
 
-Lansoprazole was not effective in pediatric patients with symptomatic GERD one month to less than one year of age in a multicenter, double-blind, placebo controlled study.
+Lansoprazole was not effective in pediatric patients with symptomatic GERD one month to less than one year of age in a multicenter, double-blind, placebo-controlled study.
 Therefore, safety and effectiveness have not been established in patients less than one year.
 Nonclinical studies in juvenile rats have demonstrated an adverse effect of heart valve thickening and bone changes at lansoprazole doses higher than the maximum recommended equivalent human dose.
 
@@ -57,7 +58,7 @@ Compared to healthy adults receiving 30 mg, neonates had higher exposure (mean w
 Infants aged ≤10 weeks had clearance and exposure values that were similar to neonates.
 Infants aged greater than 10 weeks who received 1 mg/kg/day had mean AUC values that were similar to adults who received a 30 mg dose.
 
-Lansoprazole was not found to be effective in a US and Polish four week, multicenter, double-blind, placebo-controlled, parallel-group study of 162 patients between one month and less than 12 months of age with symptomatic GERD based on a medical history of crying/fussing/ irritability associated with feedings who had not responded to conservative GERD management (i.e., nonpharmacologic intervention) for seven to 14 days.
+Lansoprazole was not found to be effective in a US and Polish four week, multicenter, double-blind, placebo - controlled, parallel-group study of 162 patients between one month and less than 12 months of age with symptomatic GERD based on a medical history of crying/fussing/ irritability associated with feedings who had not responded to conservative GERD management (i.e., nonpharmacologic intervention) for seven to 14 days.
 Patients received lansoprazole as a suspension daily (0.2 to 0.3 mg/kg/day in infants ≤10 weeks of age or 1.0 to 1.5 mg/kg/day in infants greater than 10 weeks or placebo) for up to four weeks of double-blind treatment.
 
 The primary efficacy endpoint was assessed by greater than 50% reduction from baseline in either the percent of feedings with a crying/fussing/irritability episode or the duration (minutes) of a crying/fussing/irritability episode within one hour after feeding.
@@ -77,7 +78,7 @@ After eight to 12 weeks of lansoprazole treatment, the intent-to-treat analysis 
 
 Twenty-one of 27 erosive esophagitis patients were healed at eight weeks and 100% of patients were healed at 12 weeks by endoscopy (Table 4).
 
-| Table 4. GERD Symptom Improvement and Erosive Esophagitis Healing Rates in Pediatric Patients Age 1 Year to 11 Years of Age |  |  |  |  |  |  |  |
+| Table 4: GERD Symptom Improvement and Erosive Esophagitis Healing Rates in Pediatric Patients Age 1 Year to 11 Years of Age |  |  |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | GERD | Final Visit* % (n/N) |  |  |  |  |  |  |
 | Symptomatic GERD Improvement in Overall GERD Symptoms† | 76% (47/62‡) |  |  |  |  |  |  |

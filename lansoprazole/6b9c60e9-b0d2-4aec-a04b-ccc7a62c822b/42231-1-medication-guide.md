@@ -13,8 +13,8 @@ Talk with your doctor.
 
 Lansoprazole delayed-release capsules can cause serious side effects, including:
 
-- A type of kidney problem (acute interstitial nephritis).
-  Some people who take proton pump inhibitor (PPI) medicines, including lansoprazole delayed-release capsules, may develop a kidney problem called acute interstitial nephritis that can happen at any time during treatment with PPI medicines including lansoprazole delayed-release capsules.
+- A type of kidney problem (acute tubulointerstitial nephritis).
+  Some people who take proton pump inhibitor (PPI) medicines, including lansoprazole delayed-release capsules, may develop a kidney problem called acute tubulointerstitial nephritis that can happen at any time during treatment with PPI medicines including lansoprazole delayed-release capsules.
   Call your doctor right away if you have a decrease in the amount that you urinate or if you have blood in your urine.
 - Diarrhea caused by an infection(Clostridium difficile) in your intestines.
   Call your doctor right away if you have watery stools or stomach pain that does not go away.You may or may not have a fever.
@@ -157,7 +157,7 @@ Made in India All other trademark names are the property of their respective own
 
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
 
-Revised: November 2020
+Revised: December 2020
 
 INSTRUCTIONS FOR USE
 
@@ -222,6 +222,6 @@ Bridgewater, NJ 08807.
 
 Made in India
 
-Revised: November 2020
+Revised: 12/2020
 
 All other trademark names are the property of their respective owners.

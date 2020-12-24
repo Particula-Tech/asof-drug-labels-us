@@ -4,8 +4,7 @@ Tables 2 and 3 include drugs with clinically important drug interactions and int
 
 Consult the labeling of concomitantly used drugs to obtain further information about interactions with PPIs.
 
-Table 2.
-Clinically Relevant Interactions Affecting Drugs Coadministered with Lansoprazole and Interactions with Diagnostics
+Table 2: Clinically Relevant Interactions Affecting Drugs Coadministered with Lansoprazole and Interactions with Diagnostics
 
 | Antiretrovirals |  |
 | --- | --- |
@@ -42,8 +41,7 @@ Clinically Relevant Interactions Affecting Drugs Coadministered with Lansoprazol
 | Clinical Impact: | There have been reports of false positive urine screening tests for tetrahydrocannabinol (THC) in patients receiving PPIs. |
 | Intervention: | An alternative confirmatory method should be considered to verify positive results. |
 
-Table 3.
-Clinically Relevant Interactions Affecting Lansoprazole When Coadministered with Other Drugs
+Table 3: Clinically Relevant Interactions Affecting Lansoprazole When Coadministered with Other Drugs
 
 | CYP2C19 OR CYP3A4 Inducers |  |
 | --- | --- |
