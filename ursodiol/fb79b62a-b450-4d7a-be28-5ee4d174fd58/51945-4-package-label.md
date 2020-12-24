@@ -1,6 +1,6 @@
 # PACKAGE/LABEL PRINCIPAL DISPLAY PANEL
 
-UrsodiolTablets, USP
+Ursodiol Tablets, USP
 
 NDC 68462-4723-01
 
