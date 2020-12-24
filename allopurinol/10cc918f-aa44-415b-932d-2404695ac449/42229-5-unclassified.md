@@ -1,4 +1,4 @@
-500 mg
+500 mg/vial
 
 [al'-ō-prĭm]
 

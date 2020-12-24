@@ -30,11 +30,11 @@ The rapid conversion of allopurinol to oxypurinol was not significantly differen
 Oxypurinol was present in systemic circulation in much higher concentrations and for a much longer period than allopurinol; thus, it is generally believed that the pharmacological action of allopurinol is mediated via oxypurinol.
 Oxypurinol was primarily eliminated unchanged in urine by glomerular filtration and tubular reabsorption, with a net renal clearance of about 30 mL/min.
 
-To compare the pharmacokinetics of allopurinol and oxypurinol between intravenous (i.v.) and oral (p.o.) administration of ALOPRIM (allopurinol sodium) for Injection, a well-controlled, four-way crossover study was conducted in 16 male healthy volunteers.
-ALOPRIM (allopurinol sodium) for Injection was administered via an intravenous infusion over 30 minutes.
-Pharmacokinetic parameter estimates of allopurinol (mean ± S.D.) following single i.v. and p.o. administration of ALOPRIM (allopurinol sodium) for Injection are summarized as follows:
+To compare the pharmacokinetics of allopurinol and oxypurinol between intravenous (i.v.) and oral (p.o.) administration of ALOPRIM (allopurinol) for Injection, a well-controlled, four-way crossover study was conducted in 16 male healthy volunteers.
+ALOPRIM (allopurinol) for Injection was administered via an intravenous infusion over 30 minutes.
+Pharmacokinetic parameter estimates of allopurinol (mean ± S.D.) following single i.v. and p.o. administration of ALOPRIM (allopurinol) for Injection are summarized as follows:
 
-Administration of ALOPRIM® (allopurinol sodium) for Injection
+Administration of ALOPRIM® (allopurinol) for Injection
 
 | Allopurinol Parameters | 100 mg i.v. | 300 mg i.v. | 100 mg p.o.n = 7 | 300 mg p.o. |
 | --- | --- | --- | --- | --- |
@@ -46,10 +46,10 @@ Administration of ALOPRIM® (allopurinol sodium) for Injection
 | Vss (L/kg)Volume of Distribution (Steady-State) | 0.84 ± 0.13 | 0.87 ± 0.13 |  |  |
 | Fabsolute (%)Absolute Bioavailability |  |  | 48.8 ± 19.7 | 52.7 ± 13.1 |
 
-Oxypurinol was measurable in the plasma within 10 to 15 minutes following the administration of ALOPRIM (allopurinol sodium) for Injection.
-Pharmacokinetic parameter estimates of oxypurinol following i.v. and p.o. administration of ALOPRIM (allopurinol sodium) for Injection are shown below:
+Oxypurinol was measurable in the plasma within 10 to 15 minutes following the administration of ALOPRIM (allopurinol) for Injection.
+Pharmacokinetic parameter estimates of oxypurinol following i.v. and p.o. administration of ALOPRIM (allopurinol) for Injection are shown below:
 
-Administration of ALOPRIM® (allopurinol sodium) for Injection
+Administration of ALOPRIM® (allopurinol) for Injection
 
 | Oxypurinol Parameters | 100 mg i.v. | 300 mg i.v. | 100 mg p.o. | 300 mg p.o. |
 | --- | --- | --- | --- | --- |
@@ -60,14 +60,14 @@ Administration of ALOPRIM® (allopurinol sodium) for Injection
 | Frelative (%)Relative Bioavailability |  |  | 107 ± 25 | 108 ± 9 |
 
 In general, the ratio of the area under the plasma concentration vs time curve (AUC0->∞) between oxypurinol and allopurinol was in the magnitude of 30 to 40.
-The Cmax and AUC0->∞ for both allopurinol and oxypurinol following i.v. administration of ALOPRIM (allopurinol sodium) for Injection were dose proportional in the dose range of 100 to 300 mg.
-The half-life of allopurinol and oxypurinol was not influenced by the route of ALOPRIM (allopurinol sodium) for Injection administration.
-Oral and intravenous administration of ALOPRIM (allopurinol sodium) for Injection at equal doses produced nearly superimposable oxypurinol plasma concentration vs time profiles, and the relative bioavailability of oxypurinol (Frelative) was approximately 100%.
-Thus, the pharmacokinetics and plasma profiles of oxypurinol, the major pharmacological component derived from allopurinol, are similar after intravenous and oral administration of ALOPRIM (allopurinol sodium) for Injection.
+The Cmax and AUC0->∞ for both allopurinol and oxypurinol following i.v. administration of ALOPRIM (allopurinol) for Injection were dose proportional in the dose range of 100 to 300 mg.
+The half-life of allopurinol and oxypurinol was not influenced by the route of ALOPRIM (allopurinol) for Injection administration.
+Oral and intravenous administration of ALOPRIM (allopurinol) for Injection at equal doses produced nearly superimposable oxypurinol plasma concentration vs time profiles, and the relative bioavailability of oxypurinol (Frelative) was approximately 100%.
+Thus, the pharmacokinetics and plasma profiles of oxypurinol, the major pharmacological component derived from allopurinol, are similar after intravenous and oral administration of ALOPRIM (allopurinol) for Injection.
 
 ### Clinical Trials
 
 A compassionate plea trial was conducted from 1977 through 1989 in which 718 evaluable patients with malignancies requiring treatment with cytotoxic chemotherapy, but who were unable to ingest or retain oral medication, received i.v.
-ALOPRIM (allopurinol sodium) for Injection in the U.S. Of these patients, 411 had established hyperuricemia and 307 had normal serum urate levels at the time that treatment was initiated.
+ALOPRIM (allopurinol) for Injection in the U.S. Of these patients, 411 had established hyperuricemia and 307 had normal serum urate levels at the time that treatment was initiated.
 Normal serum uric acid levels were achieved in 68% (reduction of serum uric acid was documented in 93%) of the former, and were maintained throughout chemotherapy in 97% of the latter.
 Because of the study design, it was not possible to assess the impact of the treatment upon the clinical outcome of the patient groups.
