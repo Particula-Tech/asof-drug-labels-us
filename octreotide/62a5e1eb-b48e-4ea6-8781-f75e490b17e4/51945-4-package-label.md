@@ -39,10 +39,10 @@ PULL OUT HERE
 
 OPENING AND CLOSING INSTRUCTIONS
 
-1. ❶Use left thumb to push the button gently
-2. ❷While holding the button down, pull out the medication card
-3. ❸Press out to take capsule(s)
-4. ❹Slide medication card back to lock
+- Use left thumb to push the button gently
+- While holding the button down, pull out the medication card
+- Press out to take capsule(s)
+- Slide medication card back to lock
 
 28 capsules
 
