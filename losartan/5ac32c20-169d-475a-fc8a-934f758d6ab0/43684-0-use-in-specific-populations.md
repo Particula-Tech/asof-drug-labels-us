@@ -2,31 +2,39 @@
 
 ## 8.1 Pregnancy
 
-Pregnancy Category D
-
+Risk Summary COZAAR can cause fetal harm when administered to a pregnant woman.
 Use of drugs that act on the renin-angiotensin system during the second and third trimesters of pregnancy reduces fetal renal function and increases fetal and neonatal morbidity and death.
-Resulting oligohydramnios can be associated with fetal lung hypoplasia and skeletal deformations.
-Potential neonatal adverse effects include skull hypoplasia, anuria, hypotension, renal failure, and death.
-When pregnancy is detected, discontinue losartan as soon as possible.
-These adverse outcomes are usually associated with use of these drugs in the second and third trimester of pregnancy.
 Most epidemiologic studies examining fetal abnormalities after exposure to antihypertensive use in the first trimester have not distinguished drugs affecting the renin-angiotensin system from other antihypertensive agents.
-Appropriate management of maternal hypertension during pregnancy is important to optimize outcomes for both mother and fetus.
+When pregnancy is detected, discontinue COZAAR as soon as possible (see Clinical Considerations).
+
+The estimated background risk of major birth defects and miscarriage for the indicated population is unknown.
+All pregnancies have a background risk of birth defect, loss, or other adverse outcomes.
+In the U.S. general population, the estimated background risk of major birth defects and miscarriage in clinically recognized pregnancies is 2% to 4% and 15% to 20%, respectively.
+
+Clinical Considerations Disease-associated Maternal and/or Embryo/Fetal Risk Hypertension in pregnancy increases the maternal risk for pre-eclampsia, gestational diabetes, premature delivery, and delivery complications (e.g., need for cesarean section, post-partum hemorrhage).
+Hypertension increases the fetal risk for intrauterine growth restriction and intrauterine death.
+Pregnant women with hypertension should be carefully monitored and managed accordingly.
+
+Fetal/Neonatal Adverse Reactions Use of drugs that act on the renin-angiotensin system in the second and third trimesters of pregnancy can result in the following: oligohydramnios, reduced fetal renal function leading to anuria and renal failure, fetal lung hypoplasia, skeletal deformations, including skull hypoplasia, hypotension, and death.
 
 In the unusual case that there is no appropriate alternative to therapy with drugs affecting the renin-angiotensin system for a particular patient, apprise the mother of the potential risk to the fetus.
 Perform serial ultrasound examinations to assess the intra-amniotic environment.
 If oligohydramnios is observed, discontinue COZAAR, unless it is considered lifesaving for the mother.
-Fetal testing may be appropriate, based on the week of pregnancy.
+Fetal testing may be appropriate, based on the week of gestation.
 Patients and physicians should be aware, however, that oligohydramnios may not appear until after the fetus has sustained irreversible injury.
-Closely observe infants with histories of in utero exposure to COZAAR for hypotension, oliguria, and hyperkalemia [see Use in Specific Populations (8.4)].
+Closely observe neonates with histories of in utero exposure to COZAAR for hypotension, oliguria, and hyperkalemia.
+In neonates with a history of in utero exposure to COZAAR, if oliguria or hypotension occurs, support blood pressure and renal perfusion.
+Exchange transfusions or dialysis may be required as a means of reversing hypotension and replacing renal function.
 
+Data Animal Data Losartan potassium was administered orally to rats during the period of late gestation through lactation (Gestation Day 15 through Lactation Day 20) at doses of 10, 25, and 100 mg/kg/day.
 Losartan potassium has been shown to produce adverse effects in rat fetuses and neonates, including decreased body weight, delayed physical and behavioral development, mortality and renal toxicity.
 With the exception of neonatal weight gain (which was affected at doses as low as 10 mg/kg/day), doses associated with these effects exceeded 25 mg/kg/day (approximately three times the maximum recommended human dose of 100 mg on a mg/m2 basis).
 These findings are attributed to drug exposure in late gestation and during lactation.
 Significant levels of losartan and its active metabolite were shown to be present in rat fetal plasma during late gestation and in rat milk.
 
-## 8.3 Nursing Mothers
+## 8.2 Lactation
 
-It is not known whether losartan is excreted in human milk, but significant levels of losartan and its active metabolite were shown to be present in rat milk.
+Risk Summary It is not known whether losartan is excreted in human milk, but significant levels of losartan and its active metabolite were shown to be present in rat milk.
 Because of the potential for adverse effects on the nursing infant, a decision should be made whether to discontinue nursing or discontinue the drug, taking into account the importance of the drug to the mother.
 
 ## 8.4 Pediatric Use
