@@ -1,6 +1,6 @@
 # 17 PATIENT COUNSELING INFORMATION
 
-Advise the patient to read the FDA-approved patient labeling (Patient Information and Instructions for Use)
+Advise the patient to read the FDA-approved patient labeling (Patient Information and Instructions for Use).
 
 Administration
 
@@ -21,7 +21,7 @@ Advise patients:
 
 Hypercorticism and Adrenal Suppression
 
-Advise patients that UCERIS rectal foam may cause hypercorticism and adrenal suppression and that they should taper slowly from systemic corticosteroids if transferring to UCERIS rectal foam [see Warnings and Precautions (5.1),(5.2)].
+Advise patients that UCERIS rectal foam may cause hypercorticism and adrenal suppression and that they should taper slowly from systemic corticosteroids if transferring to UCERIS rectal foam [see Warnings and Precautions (5.1), (5.2)].
 Advise patients that replacement of systemic glucocorticosteroids with UCERIS rectal foam may unmask allergies (e.g., rhinitis and eczema), which were previously controlled by the systemic drug.
 
 Increased Risk of Infection
@@ -31,16 +31,28 @@ Also, inform patients that they are at increased risk of developing a variety of
 
 Pregnancy
 
-Advise female patients that UCERIS rectal foam may cause fetal harm and to inform their healthcare provider with a
+Advise female patients that UCERIS rectal foam may cause fetal harm and to inform their healthcare provider with a known or suspected pregnancy [see Use in Specific Populations (8.1)].
 
-known or suspected pregnancy [see Use in Specific Populations (8.1)].
+Distributed by:
 
-Distributed by: Salix Pharmaceuticals, a division of
+Salix Pharmaceuticals, a division of
 
-Bausch Health US, LLC, Bridgewater, NJ 08807 USA
+Bausch Health US, LLC
+
+Bridgewater, NJ 08807 USA
+
+Manufactured by:
+
+ASM Aerosol-Service AG
+
+Industriestrasse 11
+
+CH-4313 Möhlin Switzerland
 
 Product marketed and distributed under license from Dr. Falk Pharma.
 
 UCERIS is a trademark of Salix Pharmaceuticals, Inc. or its affiliates.
 
-© 2020 Salix Pharmaceuticals, Inc. or its affiliates
+© 2020 Salix Pharmaceuticals, Inc. or its affiliates 9614101
+
+EX00152

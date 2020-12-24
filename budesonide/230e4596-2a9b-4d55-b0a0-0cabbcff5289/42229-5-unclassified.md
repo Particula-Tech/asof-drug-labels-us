@@ -31,7 +31,7 @@ Before you use UCERIS rectal foam, tell your healthcare provider about all of yo
 - •have decreased bone mineral density (osteoporosis).
 - •have stomach ulcers.
 - •are pregnant or plan to become pregnant.
-  UCERIS rectal foam may harm your unborn baby.
+  It is not known if UCERIS rectal foam may harm your unborn baby.
   Tell your healthcare provider if you are pregnant or think you are pregnant.
 - •are breastfeeding or plan to breastfeed.
   UCERIS rectal foam can pass into your breast milk and may harm your baby.
@@ -51,7 +51,7 @@ See the “Instructions for Use” at the end of this Patient Information for de
 
 - •Use UCERIS rectal foam exactly as your healthcare provider tells you to use it.
 - •UCERIS rectal foam should only be used rectally (through the anus).Do not take UCERIS rectal foam by mouth.
-- •Warm the UCERIS rectal foam canister by holding it in your hands while shaking it vigorously for 10 to 15 seconds.
+- •Warm the UCERIS rectal foam canister by holding it in your hands while shaking it (vigorously) for 10 to 15 seconds.
 - •UCERIS rectal foam is used twice a day for the first 2 weeks of treatment (in the morning and in the evening).
   After 2 weeks, use UCERIS rectal foam 1 time a day in the evening, before bedtime for 4 weeks.
 - •If you use too much UCERIS rectal foam, call your healthcare provider right away.
@@ -72,36 +72,36 @@ UCERIS rectal foam may cause serious side effects, including:
 - •Effects of having too much corticosteroid medicine in your blood (hypercorticism).
   Long-time use of UCERIS rectal foam can cause you to have too much glucocorticosteroid medicine in your blood.
   Tell your healthcare provider if you have any of the following signs and symptoms of hypercorticism:
-  - •acne
-  - •bruise easily
-  - •rounding of your face (moon face)
-  - •ankle swelling
-  - •thicker or more hair on your body and face
-  - •a fatty pad or hump between your shoulders (buffalo hump)
-  - •pink or purple stretch marks on the skin of your abdomen, thighs, breasts and arms
-- Adrenal suppression.
+- •acne
+- •bruise easily
+- •rounding of your face (moon face)
+- •ankle swelling
+- •thicker or more hair on your body and face
+- •a fatty pad or hump between your shoulders (buffalo hump)
+- •pink or purple stretch marks on the skin of your abdomen, thighs, breasts and arms
+- •Adrenal suppression.
   When UCERIS rectal foam is used for a long period of time (chronic use), the adrenal glands may not make enough steroid hormones (adrenal suppression).
   Tell your healthcare provider if you are under stress or have any symptoms of adrenal suppression during treatment with UCERIS rectal foam including:
-  1. •tiredness
-  2. •weakness
-  3. •nausea
-  4. •vomiting
-  5. •low blood pressure
-- Immune system effects and a higher chance of infections.
+  - •tiredness
+  - •weakness
+  - •nausea
+  - •vomiting
+  - •low blood pressure
+- •Immune system effects and a higher chance of infections.
   UCERIS rectal foam may weaken your immune system.
   Taking medicines that weaken your immune system makes you more likely to get infections.
   Avoid contact with people who have contagious diseases such as chicken pox or measles while using UCERIS rectal foam.
 - Tell your healthcare provider about any signs or symptoms of infection during treatment with UCERIS rectal foam, including:
-  1. •fever
-  2. •aches
-  3. •pain
-  4. •chills
-  5. •feeling tired
-  6. •nausea or vomiting
-  7. •Worsening of allergies.
-     If you take certain other corticosteroid medicines to treat allergies, switching to UCERIS rectal foam may cause your allergies to come back.
-     These allergies may include eczema (a skin disease) or inflammation inside your nose (rhinitis).
-     Tell your healthcare provider if any of your allergies become worse while using UCERIS rectal foam.
+
+| •fever | •chills |
+| --- | --- |
+| •aches | •feeling tired |
+| •pain | •nausea or vomiting |
+
+- •Worsening of allergies.
+  If you take certain other corticosteroid medicines to treat allergies, switching to UCERIS rectal foam may cause your allergies to come back.
+  These allergies may include eczema (a skin disease) or inflammation inside your nose (rhinitis).
+  Tell your healthcare provider if any of your allergies become worse while using UCERIS rectal foam.
 
 The most common side effects of UCERIS rectal foam include:
 
@@ -119,12 +119,12 @@ You may report side effects to FDA at 1-800-FDA-1088.
 
 How should I store UCERIS rectal foam?
 
-- •Store UCERIS rectal foam at room temperature, between 68°F to 77°F (20°C to 25°C).
+- •Store UCERIS rectal foam at room temperature, between 68° to 77°F (20° to 25°C).
 - •Do not store the UCERIS rectal foam container near heat or store at temperatures above 120°F (49°C).
 - •Do not puncture or burn the UCERIS rectal foam canister.
 - •Do not refrigerate.
 
-Keep UCERIS rectal foam and all medicines out of the reach of children.
+Keep UCERIS rectal foam and all medicines out of reach of children.
 
 General information about the safe and effective use of UCERIS rectal foam.
 
@@ -137,7 +137,7 @@ This Patient Information leaflet summarizes the most important information about
 If you would like more information, talk with your healthcare provider.
 You may ask your healthcare provider or pharmacist for information about UCERIS rectal foam that is written for health professionals.
 
-For more information, go to www.UCERIS.com
+For more information, go to www.ucerisfoam.com
 
 What are the ingredients in UCERIS rectal foam?
 
@@ -147,11 +147,21 @@ Inactive ingredients: cetyl alcohol, citric acid monohydrate, edetate disodium, 
 
 Propellant: n-butane, isobutane, and propane
 
-This Patient Information has been approved by the U.S. Food and Drug Administration.
+Distributed by:
 
-Distributed by: Salix Pharmaceuticals, a division of
+Salix Pharmaceuticals, a division of
 
-Bausch Health US, LLC, Bridgewater, NJ 08807 USA
+Bausch Health US, LLC
+
+Bridgewater, NJ 08807 USA
+
+Manufactured by:
+
+ASM Aerosol-Service AG
+
+Industriestrasse 11
+
+CH-4313 Möhlin Switzerland
 
 Product marketed and distributed under license from Dr. Falk Pharma.
 
@@ -160,5 +170,6 @@ UCERIS is a trademark of Salix Pharmaceuticals, Inc. or its affiliates.
 © 2020 Salix Pharmaceuticals, Inc. or its affiliates
 
 This Patient Information has been approved by the U.S. Food and Drug Administration.
-
 Revised: 04/2020
+
+9614101 EX00152

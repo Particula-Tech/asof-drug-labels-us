@@ -24,25 +24,28 @@ Adrenal insufficiency was defined as a cortisol level of <18 mcg/dL at 30 minute
 
 A total of 10% of UCERIS rectal foam-treated patients discontinued treatment due to an adverse reaction compared with 4% of placebo-treated patients.
 
-Table 1: Summary of Adverse Reactions in 2 Placebo-Controlled TrialsExperienced by ≥2% of the UCERIS rectal foam or Placebo group and at higher frequency in the UCERIS rectal foam group (Studies 1 and 2)
+Table 1: Summary of Adverse Reactions in 2 Placebo-Controlled Trials* (Studies 1 and 2)
 
-| Adverse Reaction | UCERIS Rectal Foam 2 mg/25 mL N =268 n (%) | Placebo N = 278 n (%) |
+| Adverse Reaction | UCERIS Rectal Foam 2 mg/25 mL N=268 n (%) | Placebo N=278 n (%) |
 | --- | --- | --- |
-| Decreased blood cortisolDecreased blood cortisol was defined as a morning cortisol level of < 5 mcg/dL | 46 (17) | 6 (2) |
-| Adrenal insufficiencyAdrenal insufficiency was defined as a cortisol level of < 18 mcg/dL at 30 minutes post challenge with ACTH. | 10 (4) | 2 (1) |
+| Decreased blood cortisol | 46 (17) | 6 (2) |
+| Adrenal insufficiency† | 10 (4) | 2 (1) |
 | Nausea | 6 (2) | 2 (1) |
 
-Of the 46 UCERIS rectal foam treated patients with decreased blood cortisol (defined as a morning cortisol level of <5 mcg/dL) reported as an adverse event, none had adrenal insufficiency (defined as a cortisol level of < 18 mcg/dL at 30 minutes post-challenge with ACTH) (see Table 2).
+Of the 46 UCERIS rectal foam treated patients with decreased blood cortisol (defined as a morning cortisol level of <5 mcg/dL) reported as an adverse event, none had adrenal insufficiency (defined as a cortisol level of <18 mcg/dL at 30 minutes post-challenge with ACTH) (see Table 2).
 All cases of adrenal insufficiency resolved.
 
 Table 2 summarizes the percentages of patients reporting glucocorticoid related effects in the 2 placebo-controlled trials (Studies 1 and 2).
 
-Table 2: Summary of Glucocorticoid Related Effects in Two Placebo-Controlled Trials (Studies 1 and 2)
+- Table 2: Summary of Glucocorticoid Related Effects in Two Placebo-Controlled Trials
+- (Studies 1 and 2)
+
+(Studies 1 and 2)
 
 | Adverse Reaction | UCERIS Rectal Foam 2 mg/25 mL N=268 n (%) | Placebo N=278 n (%) |
 | --- | --- | --- |
 | Overall | 60 (22) | 10 (4) |
-| Blood cortisol decreased | 46 (17)Decreases in serum cortisol levels associated with budesonide treatment were seen at Weeks 1 and 2 (twice daily treatment) in the UCERIS rectal foam group, but gradually returned to baseline levels during the 4 weeks of once daily treatment. | 6 (2) |
+| Blood cortisol decreased | 46 (17)* | 6 (2) |
 | Adrenal insufficiency | 10 (4) | 2 (1) |
 | Insomnia | 1 (0.4) | 1 (0.4) |
 | Sleep disorder | 1 (0.4) | 0 |
