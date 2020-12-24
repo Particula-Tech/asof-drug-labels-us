@@ -43,7 +43,7 @@ In adults, lansoprazole delayed-release capsules are used for:
 - maintaining healing of duodenal ulcers.
   Lansoprazole delayed-release capsules have not been studied beyond 12 months for this purpose.
 - up to 8 weeks for the healing and symptom relief of stomach ulcers.
-- up to 8 weeks for the healing of stomach ulcers in people taking pain medicines called non-steroidal anti-inflammatory drugs (NSAIDs).
+- up to 8 weeks for the healing of stomach ulcers in people taking pain medicines called nonsteroidal anti-inflammatory drugs (NSAIDs).
   Lansoprazole delayed-release capsules have not been studied beyond 8 weeks for this purpose. · reducing the risk of stomach ulcers in people who are at risk of developing stomach ulcers with NSAIDs.
   Lansoprazole delayed-release capsules have not been studied beyond 12 weeks for this purpose.
 - up to 8 weeks to treat heartburn and other symptoms that happen with gastroesophageal reflux disease (GERD).
@@ -56,7 +56,9 @@ In adults, lansoprazole delayed-release capsules are used for:
 - the long-term treatment of conditions where your stomach makes too much acid.
   This includes a rare condition called Zollinger-Ellison syndrome.
 
-Pediatrics: Give lansoprazole delayed-release capsules exactly as prescribed by your child’s doctor.
+Children:
+
+Give lansoprazole delayed-release capsules exactly as prescribed by your child’s doctor.
 Do not increase the dose of lansoprazole delayed-release capsules or give your child lansoprazole delayed-release capsules longer than the amount of time your doctor tells you to.
 
 In children 1 to 11 years of age, lansoprazole delayed-release capsules are used for:
@@ -69,19 +71,19 @@ In children 12 to 17 years of age, lansoprazole delayed-release capsules are use
 - up to 8 weeks to treat heartburn and other symptoms that can happen with GERD.
 - up to 8 weeks for the healing and symptom relief of EE.
 
-Do not take lansoprazole delayed-release capsules Lansoprazole delayed-release capsules are not effective for treating the symptoms of GERD in children less than 1 year of age.
+Lansoprazole delayed-release capsules are not recommended for treating the symptoms of GERD in children less than 1 year of age and may harm them.
 
 Do not take lansoprazole delayed-release capsules if you are: if you are:
 
 - allergic to lansoprazole, any other PPI medicine, or any of the ingredients in lansoprazole delayed-release capsules.
   See the end of this Medication Guide for a complete list of ingredients.
-- taking a medicine that contains rilpivirine (EDURANT, COMPLERA, ODEFSEY) used to treat HIV-1 (Human Immunodeficiency Virus)
+- taking a medicine that contains rilpivirine (EDURANT, COMPLERA, ODEFSEY, JULUCA) used to treat HIV-1 (Human Immunodeficiency Virus)
 
 Before you take lansoprazole delayed-release capsules, tell your doctor about all of your medical conditions, including if you:
 
 - have low magnesium levels in your blood.
 - have liver problems.
-- are pregnant or plan to become pregnant.
+- are pregnant, think you may be pregnant.
   Lansoprazole delayed-release capsules may harm your unborn baby.
   Talk to your doctor about the possible risks to an unborn baby if lansoprazole delayed-release capsules are taken during pregnancy.
 - are breastfeeding or plan to breastfeed.
@@ -89,7 +91,7 @@ Before you take lansoprazole delayed-release capsules, tell your doctor about al
   Talk to your doctor about the best way to feed your baby if you take lansoprazole delayed-release capsules.
 
 Tell your doctor about all the medicines you take, including prescription and over-the-counter medicines, vitamins, and herbal supplements.
-Especially tell your doctor if you take methotrexate (OTREXUP, RASUVO, TREXALL).
+Especially tell your doctor if you take methotrexate (OTREXUP, RASUVO, TREXALL, REDITREX, XATMEP).
 
 How should I take lansoprazole delayed-release capsules?
 
@@ -144,7 +146,7 @@ Keep lansoprazole delayed-release capsules and all medicines out of the reach of
 
 General information about lansoprazole delayed-release capsules
 
-Medicines are sometimes prescribed for conditions other than those listed in a Medication Guide.
+Medicines are sometimes prescribed for purposes other than those listed in a Medication Guide.
 Do not use lansoprazole delayed-release capsules for conditions for which it was not prescribed.
 Do not give lansoprazole delayed-release capsules to other people, even if they have the same symptoms you have.
 It may harm them.
@@ -159,6 +161,8 @@ Inactive ingredients in lansoprazole delayed-release capsules
 Ammonium hydroxide, hydroxypropyl cellulose, low substituted hydroxypropyl cellulose, magnesium carbonate, methacrylic acid copolymer, polyethylene glycol, polysorbate 80, propylene glycol, shellac, simethicone, starch, sucrose, sugar spheres, talc, and titanium dioxide.
 
 Components of the gelatin capsule include gelatin, iron oxide red, iron oxide yellow, FD&C Blue 2, sodium lauryl sulphate and titanium dioxide for 15 mg capsules and gelatin, iron oxide black, iron oxide red, iron oxide yellow, sodium lauryl sulphate and titanium dioxide for 30 mg capsules.
+
+All other trademark names are the property of their respective owners.
 
 For more information, call 1-888-375-3784.
 
@@ -245,7 +249,7 @@ Dr. Reddy’s Laboratories Limited
 
 Bachupally – 500 090 INDIA
 
-Revised: 0718
+Revised: 1020
 
 Dispense with Medication Guide available at:
 

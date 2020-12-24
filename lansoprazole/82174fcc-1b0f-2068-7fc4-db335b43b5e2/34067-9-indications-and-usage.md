@@ -26,7 +26,7 @@ Lansoprazole delayed-release capsules are indicated in adults to maintain healin
 Controlled studies do not extend beyond 12 months.
 [see Clinical Studies (14.3)].
 
-## 1.4 Short-Term Treatment of Active Benign Gastric Ulcer
+## 1.4 Treatment of Active Benign Gastric Ulcer
 
 Lansoprazole delayed-release capsules are indicated in adults for short-term treatment (up to eight weeks) for healing and symptom relief of active benign gastric ulcer [see Clinical Studies (14.4)].
 

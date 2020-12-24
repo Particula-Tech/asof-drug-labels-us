@@ -39,7 +39,7 @@ The most common form of CLE reported in patients treated with PPIs was subacute 
 Generally, histological findings were observed without organ involvement.
 
 Systemic lupus erythematosus (SLE) is less commonly reported than CLE in patients receiving PPIs.
-PPI associated SLE is usually milder than non-drug induced SLE.
+PPI associated SLE is usually milder than nondrug induced SLE.
 Onset of SLE typically occurred within days to years after initiating treatment primarily in patients ranging from young adults to the elderly.
 The majority of patients presented with rash; however, arthralgia and cytopenia were also reported.
 
@@ -79,3 +79,9 @@ In high-dose methotrexate administration, a temporary withdrawal of the PPI may 
 PPI use is associated with an increased risk of fundic gland polyps that increases with long-term use, especially beyond one year.
 Most PPI users who developed fundic gland polyps were asymptomatic and fundic gland polyps were identified incidentally on endoscopy.
 Use the shortest duration of PPI therapy appropriate to the condition being treated.
+
+## 5.12 Risk of Heart Valve Thickening in Pediatric Patients Less Than One Year of Age
+
+Lansoprazole delayed-release capsules are not approved in pediatric patients less than one year of age.
+Nonclinical studies in juvenile rats with lansoprazole have demonstrated an adverse effect of heart valve thickening.
+The risk of heart valve injury does not appear to be relevant to patients one year of age and older [see Use in Specific Populations (8.4)].

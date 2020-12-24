@@ -1,21 +1,21 @@
 # 2 DOSAGE AND ADMINISTRATION
 
-Lansoprazole is available as a capsule, and is available in 15 mg and 30 mg strengths.
-Directions for use specific to the route and available methods of administration is presented below.
-Lansoprazole delayed-release capsules should be taken before eating.
-Lansoprazole delayed-release capsule products SHOULD NOT BE CRUSHED OR CHEWED.
-In the clinical trials, antacids were used concomitantly with lansoprazole delayed-release capsules.
-
 ## 2.1 Recommended Adult Dosage by Indication
 
 | Indication | Recommended Dose | Frequency |
 | --- | --- | --- |
-| Duodenal Ulcers Short-Term Treatment Maintenance of Healed | 15 mg 15 mg | Once daily for 4 weeks Once daily |
-| Eradication of H. pylori to Reduce the Risk of Duodenal Ulcer Recurrence * Triple Therapy: Lansoprazole delayed-release capsules Amoxicillin Clarithromycin Dual Therapy: Lansoprazole delayed-release capsules Amoxicillin | 30 mg 1 gram 500 mg 30 mg 1 gram | Twice daily for 10 or 14 days Twice daily for 10 or 14 days Twice daily for 10 or 14 days Three times daily for 14 days Three times daily for 14 days |
-| Benign Gastric Ulcer Short-Term Treatment | 30 mg | Once daily for up to 8 weeks |
-| NSAID-Associated Gastric Ulcer Healing Risk Reduction | 30 mg 15 mg | Once daily for 8 weeks† Once daily for up to 12 weeks† |
-| Gastroesophageal Reflux Disease (GERD) Short-Term Treatment of Symptomatic GERD Short -Term Treatment of Erosive Esophagitis | 15 mg 30 mg | Once daily for up to 8 weeks Once daily for up to 8 weeks‡ |
-| Maintenance of Healing of Erosive Esophagitis Pathological Hypersecretory Conditions Including Zollinger-Ellison Syndrome | 15 mg 60 mg | Once daily¶ Once daily§ |
+| Duodenal Ulcers |  |  |
+| Short-Term Treatment Maintenance of Healed | 15 mg 15 mg | Once daily for 4 weeks Once daily |
+| Eradicationof H. pylori to Reduce the Risk of Duodenal Ulcer Recurrence* |  |  |
+| Triple Therapy: Lansoprazole delayed-release orally disintegrating tablets Amoxicillin Clarithromycin Dual Therapy: Lansoprazole delayed-release capsules Amoxicillin | 30 mg 1gram 500 mg 30 mg 1 gram | Twice daily for 10 or 14 days Twice daily for 10 or 14 days Twice daily for 10 or 14 days Three times daily for 14 days Three times daily for 14 days |
+| Benign Gastric Ulcer |  |  |
+| Short-Term Treatment | 30 mg | Once daily for up to 8 weeks |
+| NSAID-Associated Gastric Ulcer |  |  |
+| Healing Risk Reduction | 30 mg 15 mg | Once daily for 8 weeks† Once daily for up to 12 weeks† |
+| Gastroesophageal Reflux Disease (GERD) |  |  |
+| Short-Term Treatment of Symptomatic GERD Short -Term Treatment of Erosive Esophagitis | 15 mg 30 mg | Once daily for up to 8 weeks Once daily for up to 8 weeks‡ |
+| Maintenance of Healing of Erosive Esophagitis | 15 mg | Once daily¶ |
+| Pathological Hypersecretory Conditions Including Zollinger-Ellison Syndrome | 60 mg | Once daily§ |
 
 * Please refer to amoxicillin and clarithromycin full prescribing information for Contraindications and Warnings and Precautions sections, and for information regarding dosing in elderly and renally-impaired patients.
 
@@ -35,7 +35,9 @@ Some patients with Zollinger-Ellison syndrome have been treated continuously wit
 
 ## 2.2 Recommended Pediatric Dosage by Indication
 
-Pediatric Patients 1 to 11 Years of Age In clinical studies, lansoprazole was not administered beyond 12 weeks in 1 to 11 year olds.
+Pediatric Patients 1 to 11 Years of Age
+
+In clinical studies, lansoprazole was not administered beyond 12 weeks in 1 to 11 year olds.
 It is not known if lansoprazole is safe and effective if used longer than the recommended duration.
 Do not exceed the recommended dose and duration of use in pediatric patients as outlined below [see Use in Specific Populations (8.4)].
 

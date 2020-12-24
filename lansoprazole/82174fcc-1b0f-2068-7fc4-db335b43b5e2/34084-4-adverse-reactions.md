@@ -29,7 +29,7 @@ The following adverse reactions were reported by the treating physician to have 
 | --- | --- | --- |
 | Body System/Adverse Reaction | Lansoprazole Delayed-Release Capsules (N= 2768) % | Placebo (N= 1023) % |
 | Body as a Whole Abdominal Pain | 2.1 | 1.2 |
-| Digestive System Constipation Diarrhea Nausea | 1 3.8 1.3 | 0.4 2.3 1.2 |
+| Digestive System Constipation Diarrhea Nausea | 1.0 3.8 1.3 | 0.4 2.3 1.2 |
 
 Headache was also seen at greater than 1% incidence but was more common on placebo.
 The incidence of diarrhea was similar between patients who received placebo and patients who received 15 and 30 mg of lansoprazole delayed-release capsules, but higher in the patients who received 60 mg of lansoprazole delayed-release capsules (2.9,1.4,4.2, and 7.4%, respectively).
@@ -55,7 +55,9 @@ Hemic and Lymphatic System -anemia, hemolysis, lymphadenopathy Metabolism and
 
 Nutritional Disorders –avitaminosis, gout, dehydration, hyperglycemia/hypoglycemia, peripheral edema, weight gain/loss
 
-Musculoskeletal System -arthralgia, arthritis, bone disorder, joint disorder, leg cramps, musculoskeletal pain, myalgia, myasthenia, ptosis, synovitis Nervous System – abnormal dreams, agitation, amnesia, anxiety, apathy, confusion, convulsion, dementia, depersonalization, depression, diplopia, dizziness, emotional lability, hallucinations, hemiplegia, hostility aggravated, hyperkinesia, hypertonia, hypesthesia, insomnia, libido decreased/increased, nervousness, neurosis, paresthesia, sleep disorder, somnolence, thinking abnormality, tremor, vertigo
+Musculoskeletal System -arthralgia, arthritis, bone disorder, joint disorder, leg cramps, musculoskeletal pain, myalgia, myasthenia, ptosis, synovitis
+
+Nervous System – abnormal dreams, agitation, amnesia, anxiety, apathy, confusion, convulsion, dementia, depersonalization, depression, diplopia, dizziness, emotional lability, hallucinations, hemiplegia, hostility aggravated, hyperkinesia, hypertonia, hypesthesia, insomnia, libido decreased/increased, nervousness, neurosis, paresthesia, sleep disorder, somnolence, thinking abnormality, tremor, vertigo
 
 Respiratory System -asthma, bronchitis, cough increased, dyspnea, epistaxis, hemoptysis, hiccup, laryngeal neoplasia, lung fibrosis, pharyngitis, pleural disorder, pneumonia, respiratory disorder, upper respiratory inflammation/infection, rhinitis, sinusitis, stridor
 
