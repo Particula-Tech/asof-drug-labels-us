@@ -4,7 +4,7 @@ Mometasone Furoate Nasal Spray, 50 mcg
 
 (moe met' a sone fure' oh ate)
 
-For Intranasal Use Only
+For Nasal Use Only
 
 Read the Patient Information that comes with Mometasone Furoate Nasal Spray before you start using it and each time you get a refill.
 There may be new information.
@@ -19,7 +19,9 @@ Mometasone Furoate Nasal Spray is a man-made (synthetic) corticosteroid medicine
 - treat nasal congestion that happens with seasonal allergic rhinitis in adults and children 2 years of age and older.
 - prevent nasal symptoms of seasonal allergic rhinitis in people 12 years of age and older.
 - treat nasal polyps in people 18 years and older.
-- It is not known if Mometasone Furoate Nasal Spray is safe and effective in children under:
+
+It is not known if Mometasone Furoate Nasal Spray is safe and effective in children under:
+
 - 2 years of age to treat allergic rhinitis.
 - 18 years of age to treat nasal polyps.
 
@@ -41,7 +43,7 @@ Before you take Mometasone Furoate Nasal Spray, tell your healthcare provider ab
   It is not known if Mometasone Furoate Nasal Spray will harm your unborn baby.
   Talk to your healthcare provider if you are pregnant or plan to become pregnant.
 - are breastfeeding or planning to breastfeed.
-  It is not known whether Mometasone Furoate Nasal Spray passes into your breast milk.
+  It is not known whether mometasone furoate passes into your breast milk.
 
 Tell your healthcare provider about all the medicines you take including prescription and over-the-counter medicines, vitamins, and herbal supplements.
 
@@ -116,11 +118,10 @@ You may report side effects to FDA at 1-800-FDA-1088.
 How should I store Mometasone Furoate Nasal Spray?
 
 - Store Mometasone Furoate Nasal Spray at 20°C to 25°C (68°F to 77°F) [See USP Controlled Room Temperature].
-  Protect from light.
+- Protect from light.
 - Avoid prolonged exposure of Mometasone Furoate Nasal Spray container to direct light.
 - Shake well before each use.
-
-Keep Mometasone Furoate Nasal Spray and all medicines out of the reach of children.
+- Keep Mometasone Furoate Nasal Spray and all medicines out of the reach of children.
 
 General information about the safe and effective use of Mometasone Furoate Nasal Spray
 
@@ -131,13 +132,13 @@ It may harm them.
 
 You can ask your healthcare provider or pharmacist for information about Mometasone Furoate Nasal Spray that is written for health professionals.
 
-For more information, go to www.apotexcorp.com/products or call 1-800-706-5575.
-
 What are the ingredients in Mometasone Furoate Nasal Spray?
 
 Active ingredients: mometasone furoate
 
 Inactive ingredients: benzalkonium chloride, citric acid, glycerin, microcrystalline cellulose and carboxymethylcellulose sodium, polysorbate 80 and sodium citrate.
+
+For more information, go to www.apotexcorp.com/products or call 1-800-706-5575.
 
 This Patient Information has been approved by the U.S. Food and Drug Administration
 
@@ -151,7 +152,7 @@ MOMETASONE FUROATE NASAL SPRAY
 | --- | --- |
 | Apotex Inc. Toronto, Ontario M9L 1T9 | Apotex Corp. Weston, FL 33326 |
 
-Revised: July 2018
+Revised: November 2020
 
 Patient Instructions for Use
 
@@ -249,4 +250,4 @@ MOMETASONE FUROATE NASAL SPRAY
 | Toronto, Ontario |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | Weston, FL |
 | M9L 1T9 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 33326 |
 
-Revised: July 2018
+Revised: November 2020

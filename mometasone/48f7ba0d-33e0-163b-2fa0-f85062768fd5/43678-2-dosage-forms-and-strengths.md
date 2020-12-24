@@ -1,6 +1,5 @@
-# 3. DOSAGE FORMS AND STRENGTHS
+# 3 DOSAGE FORMS AND STRENGTHS
 
-Mometasone furoate nasal spray 50 mcg is a metered-dose, manual pump spray unit containing an aqueous suspension of 0.05% w/w mometasone furoate.
+Nasal spray: 50 mcg, metered-dose, manual pump spray.
 
-After initial priming (10 actuations), each actuation of the pump delivers a metered spray containing 100 mg or 100 microliter of suspension containing 50 mcg of mometasone furoate.
-Each bottle of mometasone furoate nasal spray 50 mcg provides 120 sprays.
+After initial priming (10 actuations), each actuation of the pump delivers a metered spray containing 50 mcg of mometasone furoate.

@@ -1,4 +1,4 @@
-# 11. DESCRIPTION
+# 11 DESCRIPTION
 
 Mometasone furoate, the active component of mometasone furoate nasal spray, 50 mcg, is an anti-inflammatory corticosteroid having the chemical name, 9,21-Dichloro-11ß,17-dihydroxy-16α-methylpregna-1,4-diene-3,20-dione17-(2 furoate), and the following chemical structure:
 

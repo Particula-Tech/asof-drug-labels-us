@@ -1,39 +1,39 @@
-# 12. CLINICAL PHARMACOLOGY
+# 12 CLINICAL PHARMACOLOGY
 
 ## 12.1 Mechanism of Action
 
-Mometasone furoate nasal spray 50 mcg is a corticosteroid demonstrating potent anti-inflammatory properties.
+Mometasone furoate nasal spray is a corticosteroid demonstrating potent anti-inflammatory properties.
 The precise mechanism of corticosteroid action on allergic rhinitis is not known.
 Corticosteroids have been shown to have a wide range of effects on multiple cell types (e.g., mast cells, eosinophils, neutrophils, macrophages, and lymphocytes) and mediators (e.g., histamine, eicosanoids, leukotrienes, and cytokines) involved in inflammation.
 
-In two clinical studies utilizing nasal antigen challenge, mometasone furoate nasal spray, 50 mcg decreased some markers of the early- and late-phase allergic response.
+In two clinical studies utilizing nasal antigen challenge, mometasone furoate nasal spray, decreased some markers of the early- and late-phase allergic response.
 These observations included decreases (vs. placebo) in histamine and eosinophil cationic protein levels, and reductions (vs. baseline) in eosinophils, neutrophils, and epithelial cell adhesion proteins.
 The clinical significance of these findings is not known.
 
-The effect of mometasone furoate nasal spray, 50 mcg on nasal mucosa following 12 months of treatment was examined in 46 patients with allergic rhinitis.
+The effect of mometasone furoate nasal spray, on nasal mucosa following 12 months of treatment was examined in 46 patients with allergic rhinitis.
 There was no evidence of atrophy and there was a marked reduction in intraepithelial eosinophilia and inflammatory cell infiltration (e.g., eosinophils, lymphocytes, monocytes, neutrophils, and plasma cells).
 
 ## 12.2 Pharmacodynamics
 
-Adrenal Function in Adults: Four clinical pharmacology studies have been conducted in humans to assess the effect of mometasone furoate nasal spray, 50 mcg at various doses on adrenal function.
-In one study, daily doses of 200 and 400 mcg of mometasone furoate nasal spray, 50 mcg and 10 mg of prednisone were compared to placebo in 64 patients (22 to 44 years of age) with allergic rhinitis.
+Adrenal Function in Adults: Four clinical pharmacology studies have been conducted in humans to assess the effect of mometasone furoate nasal spray, at various doses on adrenal function.
+In one study, daily doses of 200 and 400 mcg of mometasone furoate nasal spray, and 10 mg of prednisone were compared to placebo in 64 patients (22 to 44 years of age) with allergic rhinitis.
 Adrenal function before and after 36 consecutive days of treatment was assessed by measuring plasma cortisol levels following a 6-hour Cortrosyn (ACTH) infusion and by measuring 24-hour urinary free cortisol levels.
-Mometasone furoate nasal spray, 50 mcg, at both the 200- and 400-mcg dose, was not associated with a statistically significant decrease in mean plasma cortisol levels post-Cortrosyn infusion or a statistically significant decrease in the 24-hour urinary free cortisol levels compared to placebo.
+Mometasone furoate nasal spray, at both the 200- and 400-mcg dose, was not associated with a statistically significant decrease in mean plasma cortisol levels post-Cortrosyn infusion or a statistically significant decrease in the 24-hour urinary free cortisol levels compared to placebo.
 A statistically significant decrease in the mean plasma cortisol levels post-Cortrosyn infusion and 24-hour urinary free cortisol levels was detected in the prednisone treatment group compared to placebo.
 
-A second study assessed adrenal response to mometasone furoate nasal spray, 50 mcg (400 and 1600 mcg/day), prednisone (10 mg/day), and placebo, administered for 29 days in 48 male volunteers (21 to 40 years of age).
+A second study assessed adrenal response to mometasone furoate nasal spray, (400 and 1600 mcg/day), prednisone (10 mg/day), and placebo, administered for 29 days in 48 male volunteers (21 to 40 years of age).
 The 24-hour plasma cortisol area under the curve (AUC0–24), during and after an 8-hour Cortrosyn infusion and 24-hour urinary free cortisol levels were determined at baseline and after 29 days of treatment.
-No statistically significant differences in adrenal function were observed with mometasone furoate nasal spray, 50 mcg compared to placebo.
+No statistically significant differences in adrenal function were observed with mometasone furoate nasal spray, compared to placebo.
 
-A third study evaluated single, rising doses of mometasone furoate nasal spray, 50 mcg (1000, 2000, and 4000 mcg/day), orally administered mometasone furoate (2000, 4000, and 8000 mcg/day), orally administered dexamethasone (200, 400, and 800 mcg/day), and placebo (administered at the end of each series of doses) in 24 male volunteers (22 to 39 years of age).
+A third study evaluated single, rising doses of mometasone furoate nasal spray, (1000, 2000, and 4000 mcg/day), orally administered mometasone furoate (2000, 4000, and 8000 mcg/day), orally administered dexamethasone (200, 400, and 800 mcg/day), and placebo (administered at the end of each series of doses) in 24 male volunteers (22 to 39 years of age).
 Dose administrations were separated by at least 72 hours.
 Determination of serial plasma cortisol levels at 8 AM and for the 24-hour period following each treatment were used to calculate the plasma cortisol area under the curve (AUC0–24).
 In addition, 24-hour urinary free cortisol levels were collected prior to initial treatment administration and during the period immediately following each dose.
-No statistically significant decreases in the plasma cortisol AUC, 8 AM cortisol levels, or 24-hour urinary free cortisol levels were observed in volunteers treated with either mometasone furoate nasal spray, 50 mcg or oral mometasone, as compared with placebo treatment.
+No statistically significant decreases in the plasma cortisol AUC, 8 AM cortisol levels, or 24-hour urinary free cortisol levels were observed in volunteers treated with either mometasone furoate nasal spray, or oral mometasone, as compared with placebo treatment.
 Conversely, nearly all volunteers treated with the three doses of dexamethasone demonstrated abnormal 8 AM cortisol levels (defined as a cortisol level <10 mcg/dL), reduced 24-hour plasma AUC values, and decreased 24-hour urinary free cortisol levels, as compared to placebo treatment.
 
-In a fourth study, adrenal function was assessed in 213 patients (18 to 81 years of age) with nasal polyps before and after 4 months of treatment with either mometasone furoate nasal spray, 50 mcg, (200 mcg once or twice daily) or placebo by measuring 24-hour urinary free cortisol levels.
-Mometasone furoate nasal spray, 50 mcg, at both doses (200 and 400 mcg/day), was not associated with statistically significant decreases in the 24-hour urinary free cortisol levels compared to placebo.
+In a fourth study, adrenal function was assessed in 213 patients (18 to 81 years of age) with nasal polyps before and after 4 months of treatment with either mometasone furoate nasal spray, (200 mcg once or twice daily) or placebo by measuring 24-hour urinary free cortisol levels.
+Mometasone furoate nasal spray, at both doses (200 and 400 mcg/day), was not associated with statistically significant decreases in the 24-hour urinary free cortisol levels compared to placebo.
 
 Three clinical pharmacology studies have been conducted in pediatric patients to assess the effect of mometasone furoate nasal spray on the adrenal function at daily doses of 50, 100, and 200 mcg vs. placebo.
 In one study, adrenal function before and after 7 consecutive days of treatment was assessed in 48 pediatric patients with allergic rhinitis (ages 6 to 11 years) by measuring morning plasma cortisol and 24-hour urinary free cortisol levels.
@@ -46,41 +46,51 @@ Mometasone furoate nasal spray was not associated with a statistically significa
 
 ## 12.3 Pharmacokinetics
 
-Absorption
+Absorption:
 
 Mometasone furoate monohydrate administered as a nasal spray suspension has very low bioavailability (<1%) in plasma using a sensitive assay with a lower quantitation limit (LOQ) of 0.25 pcg/mL.
 
-Distribution
+Distribution:
 
 The in vitro protein binding for mometasone furoate was reported to be 98% to 99% in concentration range of 5 to 500 ng/mL.
 
-Metabolism
-
-Studies have shown that any portion of a mometasone furoate dose which is swallowed and absorbed undergoes extensive metabolism to multiple metabolites.
-There are no major metabolites detectable in plasma.
-Upon in vitro incubation, one of the minor metabolites formed is 6ß-hydroxy-mometasone furoate.
-In human liver microsomes, the formation of the metabolite is regulated by cytochrome P-450 3A4 (CYP3A4).
-
-Elimination
+Elimination:
 
 Following intravenous administration, the effective plasma elimination half-life of mometasone furoate is 5.8 hours.
 Any absorbed drug is excreted as metabolites mostly via the bile, and to a limited extent, into the urine.
 
-Specific Populations
+Metabolism:
 
-Hepatic Impairment: Administration of a single inhaled dose of 400 mcg mometasone furoate to subjects with mild (n=4), moderate (n=4), and severe (n=4) hepatic impairment resulted in only 1 or 2 subjects in each group having detectable peak plasma concentrations of mometasone furoate (ranging from 50 to 105 pcg/mL).
+Studies have shown that any portion of a mometasone furoate dose which is swallowed and absorbed undergoes extensive metabolism to multiple metabolites.
+There are no major metabolites detectable in plasma.
+Upon in vitro incubation, one of the minor metabolites formed is 6ß-hydroxymometasone furoate.
+In human liver microsomes, the formation of the metabolite is regulated by cytochrome P-450 3A4 (CYP3A4).
+
+Specific Populations:
+
+Patients with Hepatic Impairment:
+
+Administration of a single inhaled dose of 400 mcg mometasone furoate to subjects with mild (n=4), moderate (n=4), and severe (n=4) hepatic impairment resulted in only 1 or 2 subjects in each group having detectable peak plasma concentrations of mometasone furoate (ranging from 50 to 105 pcg/mL).
 The observed peak plasma concentrations appear to increase with severity of hepatic impairment, however, the numbers of detectable levels were few.
 
-Renal Impairment: The effects of renal impairment on mometasone furoate pharmacokinetics have not been adequately investigated.
+Patients with Renal Impairment:
 
-Pediatric: Mometasone furoate pharmacokinetics have not been investigated in the pediatric population [see Use in Specific Populations (8.4)].
+The effects of renal impairment on mometasone furoate pharmacokinetics have not been adequately investigated.
 
-Gender: The effects of gender on mometasone furoate pharmacokinetics have not been adequately investigated.
+Pediatric Patients:
 
-Race: The effects of race on mometasone furoate pharmacokinetics have not been adequately investigated.
+Mometasone furoate pharmacokinetics have not been investigated in the pediatric population [see Use in Specific Populations (8.4)].
 
-Drug-Drug Interactions
+Male and Female Patients:
+
+The effects of gender on mometasone furoate pharmacokinetics have not been adequately investigated.
+
+Racial or Ethnic Groups:
+
+The effects of race on mometasone furoate pharmacokinetics have not been adequately investigated.
+
+Drug Interactions:
 
 Inhibitors of Cytochrome P450 3A4: In a drug interaction study, an inhaled dose of mometasone furoate 400 mcg was given to 24 healthy subjects twice daily for 9 days and ketoconazole 200 mg (as well as placebo) were given twice daily concomitantly on Days 4 to 9.
 Mometasone furoate plasma concentrations were <150 pcg/mL on Day 3 prior to coadministration of ketoconazole or placebo.
-Following concomitant administration of ketoconazole, 4 out of 12 subjects in the ketoconazole treatment group (n=12) had peak plasma concentrations of mometasone furoate >200 pcg/mL on Day 9 (211–324 pcg/mL).
+Following concomitant administration of ketoconazole, 4 out of 12 subjects in the ketoconazole treatment group (n=12) had peak plasma concentrations of mometasone furoate >200 pcg/mL on Day 9 (211 to 324 pcg/mL).
