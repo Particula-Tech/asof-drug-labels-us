@@ -18,9 +18,9 @@ Tell patients that Zanaflex may cause them to become sedated or somnolent and th
 Tell patients that the sedation may be additive when Zanaflex is taken in conjunction with drugs (baclofen, benzodiazepines) or substances (e.g., alcohol) that act as CNS depressants.
 Remind patients that if they depend on their spasticity to sustain posture and balance in locomotion, or whenever spasticity is utilized to obtain increased function, that Zanaflex decreases spasticity and caution should be used.
 
-Zanaflex® is a registered trademark of Covis Pharma.
-Zanaflex Capsules® is a registered trademark of Covis Pharma.
+Zanaflex® capsules is a registered trademark of Covis Pharma.
+Zanaflex® tablets is a registered trademark of Covis Pharma.
 
 Manufactured for: Covis Pharma Zug, 6300 Switzerland
 
-©2018 Covis Pharma, All rights reserved.
+©2020 Covis Pharma, All rights reserved.

@@ -29,8 +29,7 @@ If higher doses are required, individual doses rather than dosing frequency shou
 Zanaflex should be used with caution in patients with any hepatic impairment.
 In these patients, during titration, the individual doses should be reduced.
 If higher doses are required, individual doses rather than dosing frequency should be increased.
-Monitoring of aminotransferase levels is recommended for baseline and 1 month after maximum dose is achieved, or if hepatic injury is suspected.
-[see Use in Specific Populations (8.7)]
+Monitoring of aminotransferase levels is recommended for baseline and 1 month after maximum dose is achieved, or if hepatic injury is suspected [see Use in Specific Populations (8.7)].
 
 ## 2.4 Drug Discontinuation
 

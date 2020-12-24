@@ -64,7 +64,7 @@ Table 2: Single Dose, Placebo-Controlled Study - Common Adverse Reactions Report
 | Hypotension | 0 | 16 | 33 |
 | Bradycardia | 0 | 2 | 10 |
 
-## 6.2 Post-Marketing Experience
+## 6.2 Postmarketing Experience
 
 The following adverse reactions have been identified during post approval use of Zanaflex.
 Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.

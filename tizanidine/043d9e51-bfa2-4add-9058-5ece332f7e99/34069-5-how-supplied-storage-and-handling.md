@@ -8,7 +8,7 @@ Zanaflex Capsules® (tizanidine hydrochloride) capsules are available in three s
 - •The 4 mg capsules have a white opaque body with a blue opaque cap with “4 MG” printed on the cap: bottles of 150 capsules (NDC 70515-604-15)
 - •The 6 mg capsules have a blue opaque body with a white stripe and blue opaque cap with “6 MG” printed on the capsules: bottles of 150 capsules (NDC 70515-606-15)
 
-Store at 25°C (77°F); excursions permitted to 15-30°C (59-86°F) [see USP Controlled Room Temperature].
+Store at 25°C (77°F); excursions permitted to 15°C to 30°C (59°F to 86°F) [see USP Controlled Room Temperature].
 Dispense in containers with child resistant closure.
 
 ## 16.2 Zanaflex® Tablets
@@ -17,6 +17,6 @@ Zanaflex® (tizanidine hydrochloride) tablets are available as 4 mg white, uncoa
 The tablets have a quadrisecting score on one side and are debossed with “A594” on the other side.
 Tablets are provided as follows: bottles of 150 tablets (NDC 70515-594-15).
 
-Store at 25°C (77°F); excursions permitted to 15-30°C (59-86°F) [see USP Controlled Room Temperature].
+Store at 25°C (77°F); excursions permitted to 15°C to 30°C (59°F to 86°F) [see USP Controlled Room Temperature].
 
 Dispense in containers with child resistant closure.
