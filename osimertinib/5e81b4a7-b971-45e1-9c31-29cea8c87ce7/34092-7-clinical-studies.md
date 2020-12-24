@@ -34,7 +34,7 @@ Efficacy Results in ADAURA according to Investigator Assessment
 | Recurrent disease (%) | 26 (11) | 129 (54) | 37 (11) | 157 (46) |
 | Deaths (%) | 0 | 1 (0.4) | 0 | 2 (0.6) |
 | Median DFS, months (95% CI) | NR (38.8, NE) | 19.6 (16.6, 24.5) | NR (NE, NE) | 27.5 (22.0, 35.0) |
-| Hazard ratio (95% CI)†,Stratified by race (Asian vs non-Asian), mutation status (Ex19del vs L858R), and pTNM staging Pike estimator | 0.17 (0.12, 0.23) |  | 0.20 (0.15, 0.27) |  |
+| Hazard ratio (95% CI)Stratified by race (Asian vs non-Asian), mutation status (Ex19del vs L858R), and pTNM staging Pike estimator | 0.17 (0.12, 0.23) |  | 0.20 (0.15, 0.27) |  |
 | p-valueStratified log-rank test | <0.0001 |  | <0.0001 |  |
 | DFS results based on investigator assessmentCI=Confidence Interval; NE=Not Estimable; NR=Not Reached |  |  |  |  |
 
@@ -45,7 +45,7 @@ In an exploratory analysis of site(s) of relapse, the proportion of patients wit
 
 ## 14.2 Previously Untreated EGFR Mutation-Positive Metastatic NSCLC
 
-The efficacy of TAGRISSO was demonstrated in a randomized, multicenter, double-blind, active-controlled trial (FLAURA [NCT02296125]) in patients with EGFR exon 19 deletion or exon 21 L858R mutation-positive, metastatic NSCLC, who had not received previous systemic treatment for metastatic disease.
+The efficacy of TAGRISSO was demonstrated in a randomized, multicenter, double-blind, active-controlled trial (FLAURA [NCT02296125]) in patients with EGFR exon 19 deletions or exon 21 L858R mutation-positive, metastatic NSCLC, who had not received previous systemic treatment for metastatic disease.
 Patients were required to have measurable disease per RECIST v1.1, a WHO performance status of 0-1, and EGFR exon 19 deletions or exon 21 L858R mutation in tumor prospectively identified by the cobas® EGFR Mutation Test in a central laboratory or by an investigational assay at a CLIA-certified or accredited laboratory.
 Patients with CNS metastases not requiring steroids and with stable neurologic status for at least two weeks after completion of definitive surgery or radiotherapy were eligible.
 Patients were assessed at the investigator’s discretion for CNS metastases if they had a history of, or suspected, CNS metastases at study entry.
@@ -81,7 +81,7 @@ Efficacy Results in FLAURA according to Investigator Assessment
 | Hazard Ratio (95% CI)Stratified by ethnicity (Asian vs. non-Asian) and mutation status (Ex19del vs. L858R)Pike estimator | 0.46 (0.37, 0.57) |  |
 | p-valueStratified log-rank test | <0.0001 |  |
 | Overall Survival (OS) |  |  |
-| Number of deaths | 155 (56) | 166 (60) |
+| Number of deaths (%) | 155 (56) | 166 (60) |
 | Median OS in months (95% CI) | 38.6 (34.5, 41.8) | 31.8 (26.6, 36.0) |
 | Hazard Ratio (95% CI) | 0.80 (0.64, 1.00) |  |
 | p-value | 0.0462 |  |

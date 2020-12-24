@@ -132,7 +132,7 @@ Adverse Reactions Occurring in ≥10% of Patients Receiving TAGRISSO in FLAURANC
 | Infection and Infestation Disorders |  |  |  |  |
 | Upper Respiratory Tract Infection | 10 | 0 | 7 | 0 |
 
-Clinically relevant adverse reactions in FLAURA in <10% of patients receiving TAGRISSO were alopecia (7%), epistaxis (6%), interstitial lung disease (3.9%), palmar-plantar erythrodysaesthesia syndrome (1.4%), QTc interval prolongation (1.1%), and keratitis (0.4%).
+Clinically relevant adverse reactions in FLAURA in <10% of patients receiving TAGRISSO were alopecia (7%), epistaxis (6%), interstitial lung disease (3.9%), palmar-plantar erythrodysesthesia syndrome (1.4%), QTc interval prolongation (1.1%), and keratitis (0.4%).
 QTc interval prolongation represents the incidence of patients who had a QTcF prolongation >500msec.
 
 Table 5.
@@ -203,7 +203,7 @@ Adverse Reactions Occurring in ≥10% of Patients Receiving TAGRISSO in AURA3NCI
 | Musculoskeletal and Connective Tissue Disorders |  |  |  |  |  |
 | Back pain | 10 |  | 0.4 | 9 | 0.7 |
 
-Clinically relevant adverse reactions in AURA3 in <10% of patients receiving TAGRISSO were epistaxis (5%), interstitial lung disease (3.9%), alopecia (3.6%), palmar-plantar erythrodysaesthesia syndrome (1.8%), QTc interval prolongation (1.4%), keratitis (1.1%), and erythema multiform (0.7%).
+Clinically relevant adverse reactions in AURA3 in <10% of patients receiving TAGRISSO were epistaxis (5%), interstitial lung disease (3.9%), alopecia (3.6%), palmar-plantar erythrodysesthesia syndrome (1.8%), QTc interval prolongation (1.4%), keratitis (1.1%), and erythema multiform (0.7%).
 QTc interval prolongation represents the incidence of patients who had a QTcF prolongation >500msec.
 
 Table 7.
