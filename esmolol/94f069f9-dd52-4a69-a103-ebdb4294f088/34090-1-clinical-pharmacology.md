@@ -44,7 +44,7 @@ Consistent with the high rate of blood-based metabolism of esmolol, less than 2%
 Within 24 hours of the end of infusion, the acid metabolite of esmolol in urine accounts for approximately 73% to 88% of the dosage.
 
 Metabolism of esmolol results in the formation of the corresponding free acid and methanol.
-The acid metabolite has been shown in animals to have negligible activity, and in normal volunteers its blood levels do not correspond to the level of beta blockade.
+The acid metabolite has been shown in animals to have negligible activity and in normal volunteers its blood levels do not correspond to the level of beta blockade.
 The acid metabolite has an elimination half-life of about 3.7 hours and is excreted in the urine with a clearance approximately equivalent to the glomerular filtration rate.
 
 After a 4 hour maintenance infusion of 150 mcg/kg, the plasma concentrations of esmolol are similar in subjects with normal renal function and in patients with ESRD on dialysis.

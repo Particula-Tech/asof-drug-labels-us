@@ -6,7 +6,7 @@ Because clinical trials are conducted under widely varying conditions, adverse r
 
 The following adverse reaction rates are based on use of esmolol hydrochloride injection in clinical trials involving 369 patients with supraventricular tachycardia and over 600 intraoperative and postoperative patients enrolled in clinical trials.
 Most adverse effects observed in controlled clinical trial settings have been mild and transient.
-The most important and common adverse effect has been hypotension [see Warnings and Precautions (5.3)].
+The most important and common adverse effect has been hypotension [see Warnings and Precautions (5.1)].
 Deaths have been reported in post-marketing experience occurring during complex clinical states where esmolol hydrochloride injection was presumably being used simply to control ventricular rate [see Warnings and Precautions (5.5)].
 
 Table 3: Clinical Trial Adverse Reactions (Frequency ≥ 3%)
@@ -35,7 +35,7 @@ Peripheral ischemia (~1%) Pallor and flushing (< 1%)
 
 Gastrointestinal Disorders:
 
-Vomiting (~1%) Dyspepsia, constipation, dry mouth, and abdominal discomfort have (< 1%)
+Vomiting (~1%) Dyspepsia, constipation, dry mouth, and abdominal discomfort (< 1%)
 
 Renal and Urinary Disorders:
 

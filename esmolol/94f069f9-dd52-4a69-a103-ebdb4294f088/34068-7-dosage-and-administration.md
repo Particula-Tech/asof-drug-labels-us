@@ -12,7 +12,7 @@ Table 1: Step-Wise Dosing
 | 1 | Optional loading dose (500 mcg per kg over 1 minute), then 50 mcg per kg per min for 4 min |
 | 2 | Optional loading dose if necessary, then 100 mcg per kg per min for 4 min |
 | 3 | Optional loading dose if necessary, then 150 mcg per kg per min for 4 min |
-| 4 | If necessary increase dose to 200 mcg per kg per min |
+| 4 | If necessary, increase dose to 200 mcg per kg per min |
 
 In the absence of loading doses, continuous infusion of a single concentration of esmolol reaches pharmacokinetic and pharmacodynamic steady-state in about 30 minutes.
 
@@ -51,7 +51,7 @@ After patients achieve adequate control of the heart rate and a stable clinical 
 When transitioning from esmolol hydrochloride injection to alternative drugs, the physician should carefully consider the labeling instructions of the alternative drug selected and reduce the dosage of esmolol hydrochloride injection as follows:
 
 1. 1.Thirty minutes following the first dose of the alternative drug, reduce the esmolol hydrochloride injection infusion rate by one-half (50%).
-2. 2.After administration of the second dose of the alternative drug, monitor the patient's response, and, if satisfactory control is maintained for the first hour, discontinue the esmolol hydrochloride injection infusion.
+2. 2.After administration of the second dose of the alternative drug, monitor the patient's response and if satisfactory control is maintained for the first hour, discontinue the esmolol hydrochloride injection infusion.
 
 ## 2.4 Directions for Use
 
@@ -59,6 +59,8 @@ Esmolol hydrochloride injection is available in a single-dose vial.
 Esmolol hydrochloride injection is not compatible with Sodium Bicarbonate (5%) solution (limited stability) or furosemide (precipitation).
 
 Parenteral drug products should be inspected visually for particulate matter and discoloration prior to administration, whenever solution and container permit.
+
+Discard unused portion.
 
 ### Single-Dose Vial
 
