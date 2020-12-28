@@ -9,9 +9,9 @@ Capecitabine tablets can cause serious side effects, including:
   Taking Capecitabine tablets with these medicines can cause changes in how fast your blood clots, and can cause bleeding that can lead to death.
   This can happen as soon as a few days after you start taking Capecitabine tablets, or later during treatment, and possibly even within 1 month after you stop taking Capecitabine tablets.
   Your risk may be higher because you have cancer, and if you are over 60 years of age.
-  - Before taking Capecitabine tablets, tell your doctor if you are taking warfarin (COUMADIN) or another blood thinner medicine.
-  - If you take warfarin (COUMADIN) or another blood thinner that is like warfarin (COUMADIN) during treatment with Capecitabine tablets, your doctor should do blood tests often, to check how fast your blood clots during and after you stop treatment with Capecitabine tablets.
-    Your doctor may change your dose of the blood thinner medicine if needed.
+  - Before taking Capecitabine tablets, tell your healthcare provider if you are taking warfarin (COUMADIN) or another blood thinner medicine.
+  - If you take warfarin (COUMADIN) or another blood thinner that is like warfarin (COUMADIN) during treatment with Capecitabine tablets, your healthcare provider should do blood tests often, to check how fast your blood clots during and after you stop treatment with Capecitabine tablets.
+    Your healthcare provider may change your dose of the blood thinner medicine if needed.
 
 See "What are the possible side effects of Capecitabine tablets?" for more information about side effects.
 
@@ -32,9 +32,9 @@ Do not take Capecitabine tablets if you:
 - are allergic to capecitabine, 5-fluorouracil, or any of the ingredients in Capecitabine tablets.
   See the end of this leaflet for a complete list of ingredients in Capecitabine tablets.
 
-Talk to your doctor before taking Capecitabine tablets if you are not sure if you have any of the conditions listed above.
+Talk to your healthcare provider before taking Capecitabine tablets if you are not sure if you have any of the conditions listed above.
 
-What should I tell my doctor before taking Capecitabine tablets?
+Before taking Capecitabine tablets, tell your healthcare provider about all your medical conditions, including if you:
 
 See "What is the most important information I should know about Capecitabine tablets?".
 Before you take Capecitabine tablets, tell your doctor if you:
@@ -45,34 +45,36 @@ Before you take Capecitabine tablets, tell your doctor if you:
 - have any other medical conditions.
 - are pregnant or plan to become pregnant.
   Capecitabine tablets can harm your unborn baby.
-  You should not become pregnant during treatment with Capecitabine tablets.
-  Talk to your doctor about birth control choices that may be right for you during treatment with Capecitabine tablets.
+  Your healthcare provider should do a pregnancy test before you start treatment with capecitabine tablets.
+  Tell your healthcare provider right away if you become pregnant or think you might be pregnant during treatment with capecitabine tablets.
+
+Ø Females who are able to become pregnant should use effective birth control during treatment and for 6 months after the final dose.
+Talk to your healthcare provider about birth control choices that may be right for you during treatment with capecitabine tablets.
+
+Ø Males who have female partners who are able to become pregnant should use effective birth control during treatment and for 3 months after the final dose.
+
 - are breastfeeding or plan to breastfeed.
   It is not known if Capecitabine tablets passes into your breast milk.
   You and your doctor should decide if you will take Capecitabine tablets or breastfeed.
   You should not do both.
 
-Tell your doctor about all the medicines you take, including prescription and over the-counter medicines, vitamins, and herbal supplements.
+Tell your healthcare provider about all the medicines you take, including prescription and over the-counter medicines, vitamins, and herbal supplements.
 Capecitabine tablets may affect the way other medicines work, and other medicines may affect the way Capecitabine tablets works.
 
 Know the medicines you take.
-Keep a list of them to show your doctor and pharmacist when you get a new medicine.
+Keep a list of them to show your healthcare provider and pharmacist when you get a new medicine.
 
 How should I take Capecitabine tablets?
 
-- Take Capecitabine tablets exactly as your doctor tells you to take it.
-- Your doctor will tell you how much Capecitabine tablets to take and when to take it.
+- Take Capecitabine tablets exactly as your healthcare provider tells you to take it.
+- Your healthcare provider will tell you how much Capecitabine tablets to take and when to take it.
 - Take Capecitabine tablets 2 times a day, 1 time in the morning and 1 time in the evening.
 - Take Capecitabine tablets within 30 minutes after finishing a meal.
-  Swallow Capecitabine tablets whole with water.
-  Do not crush or cut Capecitabine tablets.
-- Ask your healthcare provider or pharmacist how to safely throw away any unused Capecitabine tablets.
-  - If you have side effects with Capecitabine tablets, if needed your doctor may decide to:
-  - change your dose of Capecitabine tablets
-  - treat you with Capecitabine tablets less often
-  - tell you to stop taking Capecitabine tablets until certain side effects get better or go away
-  - stop your treatment with Capecitabine tablets if you have certain side effects and they are severe
-- If you take too much Capecitabine tablets, call your doctor or go to the nearest emergency room right away.
+- Swallow Capecitabine tablets whole with water.
+  Do not crush or cut capecitabine tablets.
+  If you cannot swallow capecitabine tablets tablet whole, tell your healthcare provider.
+- Your healthcare provider may change your dose, temporarily stop, or permanently stop treatment with capecitabine tablets if you develop side effects.
+- If you take too much capecitabine tablets, call your healthcare provider or go to the nearest emergency room right away.
 
 What are the possible side effects of Capecitabine tablets?
 Capecitabine tablets may cause serious side effects including:
@@ -119,14 +121,13 @@ Stop taking Capecitabine tablets and call your doctor right away if you:
   Stop taking Capecitabine tablets and call your doctor right away if you have any of these symptoms and you are not able to do your usual activities.
 - you may get sores in your mouth or on your tongue when taking Capecitabine tablets.
   Stop taking Capecitabine tablets and call your doctor if you get painful redness, swelling, or ulcers in your mouth and tongue, or if you are having problems eating.
-  Tell your doctor if you have any side effect that bothers you or that does not go away.
 
 - increased level of bilirubin in your blood and liver problems.
   Increased bilirubin in your blood is common with Capecitabine tablets.
-  Your doctor will check you for these problems during treatment with Capecitabine tablets.
+  Your healthcare provider will check you for these problems during treatment with Capecitabine tablets.
 
 - decreased white blood cells, platelets, and red blood cell counts.
-  Your doctor will do blood tests during treatment with Capecitabine tablets to check your blood cell counts.
+  Your healthcare provider will do blood tests during treatment with Capecitabine tablets to check your blood cell counts.
 
 If your white blood cell count is very low, you are at increased risk for infection.
 Call your doctor right away if you develop a fever of 100.5°F or greater or have other signs and symptoms of infection.
@@ -141,11 +142,14 @@ The most common side effects of Capecitabine tablets include:
 - vomiting
 - stomach-area (abdominal) pain
 - tiredness
-- weakness
+- weakness and tiredness
 - increased amounts of red blood cell breakdown products (bilirubin) in your blood
 
+Capecitabine tablets may cause fertility problems in females and males.
+This may affect the ability to have a child.
+Talk to your healthcare provider if you have concerns about fertility.
+
 These are not all the possible side effects of Capecitabine tablets.
-For more information, ask your doctor or pharmacist.
 
 Call your doctor for medical advice about side effects.
 You may report side effects to FDA at 1-800-FDA-1088.
@@ -154,15 +158,14 @@ How should I store Capecitabine tablets?
 
 - Store Capecitabine tablets at room temperature between 68°F to 77°F (20°C to 25°C).
 - Keep Capecitabine tablets in a tightly closed container.
-- Keep Capecitabine tablets and all medicines out of the reach of children.
+- Ask your healthcare provider or pharmacist how to safely throw away any unused capecitabine tablets.
 
 General information about the safe and effective use of Capecitabine tablets.
-Medicines are sometimes prescribed for conditions that are not mentioned in patient information leaflets.
-Do not use Capecitabine tablets for a condition for which it was not prescribed.
-Do not give Capecitabine tablets to other people, even if they have the same symptoms you have.
+Medicines are sometimes prescribed for purposes other than those listed in a Patient Information leaflet.
+Do not use capecitabine tablets for a condition for which it was not prescribed.
+Do not give capecitabine tablets to other people, even if they have the same symptoms you have.
 It may harm them.
-
-You can ask your pharmacist or doctor for information about Capecitabine tablets that is written for health professionals.
+You can ask your pharmacist or healthcare provider for information about capecitabine tablets that is written for health professionals.
 
 What are the ingredients in Capecitabine tablets?
 Active ingredient: capecitabine
@@ -176,4 +179,4 @@ Manufactured by: Shilpa Medicare Limited Jadcherla - 509301, INDIA
 
 Distributed by: Armas Pharmaceuticals, Inc. Manalapan,NJ07726 (USA)
 
-Revised: 09/2018
+Revised- 05/2019

@@ -2,30 +2,25 @@
 
 ## 7.1 Drug-Drug Interactions
 
-Anticoagulants
-
-Altered coagulation parameters and/or bleeding have been reported in patients taking capecitabine concomitantly with coumarin-derivative anticoagulants such as warfarin and phenprocoumon [see Boxed Warning].
+Anticoagulants Altered coagulation parameters and/or bleeding have been reported in patients taking capecitabine concomitantly with coumarin-derivative anticoagulants such as warfarin and phenprocoumon [see Boxed Warning].
 These events occurred within several days and up to several months after initiating capecitabine therapy and, in a few cases, within 1 month after stopping capecitabine.
 These events occurred in patients with and without liver metastases.
 In a drug interaction study with single dose warfarin administration, there was a significant increase in the mean AUC of S-warfarin [see Clinical Pharmacology (12.3)].
 The maximum observed INR value increased by 91%.
 This interaction is probably due to an inhibition of cytochrome P450 2C9 by capecitabine and/or its metabolites.
 
-Phenytoin
-
-The level of phenytoin should be carefully monitored in patients taking capecitabine and phenytoin dose may need to be reduced [see Dosage and Administration (2.3)].
+Phenytoin The level of phenytoin should be carefully monitored in patients taking capecitabine and phenytoin dose may need to be reduced [see Dosage and Administration (2.3)].
 Postmarketing reports indicate that some patients receiving capecitabine and phenytoin had toxicity associated with elevated phenytoin levels.
 Formal drug-drug interaction studies with phenytoin have not been conducted, but the mechanism of interaction is presumed to be inhibition of the CYP2C9 isoenzyme by capecitabine and/or its metabolites.
 
-Leucovorin
-
-The concentration of 5-fluorouracil is increased and its toxicity may be enhanced by leucovorin.
+Leucovorin The concentration of 5-fluorouracil is increased and its toxicity may be enhanced by leucovorin.
 Deaths from severe enterocolitis, diarrhea, and dehydration have been reported in elderly patients receiving weekly leucovorin and fluorouracil.
 
-CYP2C9 substrates
-
-Other than warfarin, no formal drug-drug interaction studies between capecitabine and other CYP2C9 substrates have been conducted.
+CYP2C9 substrates Other than warfarin, no formal drug-drug interaction studies between capecitabine and other CYP2C9 substrates have been conducted.
 Care should be exercised when capecitabine is coadministered with CYP2C9 substrates.
+
+Allopurinol Concomitant use with allopurinol may decrease concentration of capecitabine’s active metabolites [see Clinical Pharmacology (12.3)], which may decrease capecitabine tablets efficacy.
+Avoid the use of allopurinol during treatment with capecitabine tablets.
 
 ## 7.2 Drug-Food Interaction
 

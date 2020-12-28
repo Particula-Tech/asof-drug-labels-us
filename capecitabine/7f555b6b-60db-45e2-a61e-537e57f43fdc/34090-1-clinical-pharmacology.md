@@ -93,6 +93,10 @@ Effect of Antacids on the Pharmacokinetics of Capecitabine
 When Maalox® (20 mL), an aluminum hydroxide- and magnesium hydroxide-containing antacid, was administered immediately after capecitabine (1250 mg/m2, n=12 cancer patients), AUC and Cmax increased by 16% and 35%, respectively, for capecitabine and by 18% and 22%, respectively, for 5'-DFCR.
 No effect was observed on the other three major metabolites (5'-DFUR, 5-FU, FBAL) of capecitabine.
 
+Effect of Allopurinol on Capecitabine
+
+Published literature reported that concomitant use with allopurinol may decrease conversion of capecitabine to the active metabolites, FdUMP and FUTP; however, the clinical significance was not fully characterized.
+
 Effect of Capecitabine on the Pharmacokinetics of Docetaxel and Vice Versa
 
 A Phase 1 study evaluated the effect of capecitabine on the pharmacokinetics of docetaxel (Taxotere®) and the effect of docetaxel on the pharmacokinetics of capecitabine was conducted in 26 patients with solid tumors.

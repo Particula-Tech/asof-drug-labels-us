@@ -79,12 +79,12 @@ The most frequently reported laboratory abnormalities (per-patient incidence ≥
 
 ## 8.5 Geriatric Use
 
-Physicians should pay particular attention to monitoring the adverse effects of capecitabine in the elderly [see Warnings and Precautions (5.11)].
+Physicians should pay particular attention to monitoring the adverse effects of capecitabine in the elderly [see Warnings and Precautions (5.10)].
 
 ## 8.6 Hepatic Insufficiency
 
 Exercise caution when patients with mild to moderate hepatic dysfunction due to liver metastases are treated with capecitabine.
-The effect of severe hepatic dysfunction on capecitabine is not known [see Warnings and Precautions (5.12) and Clinical Pharmacology (12.3)].
+The effect of severe hepatic dysfunction on capecitabine is not known [see Warnings and Precautions (5.11) and Clinical Pharmacology (12.3)].
 
 ## 8.7 Renal Insufficiency
 

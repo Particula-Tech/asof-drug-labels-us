@@ -311,7 +311,6 @@ Clinically relevant adverse events reported in <5% of patients treated with cape
 | Ear: | vertigo |
 | Hepatobiliary: | hepatic fibrosis (0.1%), hepatitis (0.1%), cholestatic hepatitis (0.1%), abnormal liver function tests |
 | Immune System: | drug hypersensitivity (0.1%) |
-| Postmarketing: | hepatic failure, lacrimal duct stenosis, acute renal failure secondary to dehydration including fatal outcome [see]Warnings and Precautions (5.5)], cutaneous lupus erythematosus, corneal disorders including keratitis, severe skin reactions such as Stevens-Johnson Syndrome and Toxic Epidermal Necrolysis (TEN) [see Warnings and Precautions (5.7)]. persistent or severe hand-and-foot syndrome can eventually lead to loss of fingerprints [see Warnings and Precautions (5.7)]. |
 | Capecitabine tablet In Combination With Docetaxel (Metastatic Breast Cancer) |  |
 | Gastrointestinal: | ileus (0.4%), necrotizing enterocolitis (0.4%), esophageal ulcer (0.4%), hemorrhagic diarrhea (0.8%) |
 | Neurological: | ataxia (0.4%), syncope (1.2%), taste loss (0.8%), polyneuropathy (0.4%), migraine (0.4%) |
@@ -322,3 +321,9 @@ Clinically relevant adverse events reported in <5% of patients treated with cape
 | Renal: | renal failure (0.4%) |
 | Hepatobiliary: | jaundice (0.4%), abnormal liver function tests (0.4%), hepatic failure (0.4%), hepatic coma (0.4%), hepatotoxicity (0.4%) |
 | Immune System: | hypersensitivity (1.2%) |
+
+## 6.5 Postmarketing Experience
+
+The following adverse reactions have been observed in the postmarketing setting: hepatic failure, lacrimal duct stenosis, acute renal failure secondary to dehydration including fatal outcome [see Warnings and Precautions (5.5)], cutaneous lupus erythematosus, corneal disorders including keratitis, toxic leukoencephalopathy, severe skin reactions such as Stevens-Johnson Syndrome and Toxic Epidermal Necrolysis (TEN) [see Warnings and Precautions (5.7)], persistent or severe handand-foot syndrome can eventually lead to loss of fingerprints [see Warnings and Precautions (5.7)]
+
+In instances of exposure to crushed capecitabine tablets, the following adverse reactions have been reported: eye irritation and swelling, skin rash, diarrhea, paresthesia, headache, gastric irritation, vomiting, and nausea.
