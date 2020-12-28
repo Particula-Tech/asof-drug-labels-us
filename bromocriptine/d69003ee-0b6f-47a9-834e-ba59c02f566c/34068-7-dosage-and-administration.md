@@ -13,7 +13,7 @@ The therapeutic dosage ranged from 2.5 to 15 mg daily in adults studied clinical
 
 Based on limited data in children of age 11 to 15, (see Pediatric Use) the initial dose is one ½ to one 2½ mg scored tablet daily.
 Dosing may need to be increased as tolerated until a therapeutic response is achieved.
-The therapeutic dosage ranged from 2.5 to 15 mg daily in children with prolactin-secreting pituitary adenomas.
+The therapeutic dosage ranged from 2.5 to 10 mg daily in children with prolactin-secreting pituitary adenomas.
 
 In order to reduce the likelihood of prolonged exposure to bromocriptine mesylate capsules should an unsuspected pregnancy occur, a mechanical contraceptive should be used in conjunction with bromocriptine mesylate capsule therapy until normal ovulatory menstrual cycles have been restored.
 Contraception may then be discontinued in patients desiring pregnancy.

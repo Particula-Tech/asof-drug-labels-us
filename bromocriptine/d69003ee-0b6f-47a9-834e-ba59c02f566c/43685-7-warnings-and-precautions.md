@@ -166,8 +166,6 @@ Increased perinatal loss was produced in the subgroups of dams, sacrificed on da
 
 Pregnancy
 
-Category B
-
 Administration of 10 mg/kg to 30 mg/kg of bromocriptine to 2 strains of rats on days 6 to 15 postcoitum (p.c.) as well as a single dose of 10 mg/kg on day 5 p.c. interfered with nidation.
 Three mg/kg given on days 6 to 15 were without effect on nidation, and did not produce any anomalies.
 In animals treated from day 8 to 15 p.c., i.e., after implantation, 30 mg/kg produced increased prenatal mortality in the form of increased incidence of embryonic resorption.
