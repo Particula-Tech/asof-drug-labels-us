@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "ANDA203442"
+  ],
+  "inn": "emtricitabine",
+  "labeler": "Macleods Pharmaceuticals Limited",
+  "package_ndcs": [
+    "33342-106-07"
+  ],
+  "products": [
+    {
+      "form": "TABLET, FILM COATED",
+      "generic": "emtricitabine and tenofovir disoproxil fumarate",
+      "name": "Emtricitabine and tenofovir disoproxil fumarate"
+    }
+  ],
+  "setid": "bc858a35-e0e1-450b-95c3-db3a4fe51a4c",
+  "source": "dailymed"
+}
