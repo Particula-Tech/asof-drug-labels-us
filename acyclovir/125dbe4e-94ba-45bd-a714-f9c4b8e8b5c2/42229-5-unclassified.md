@@ -1,13 +1,9 @@
-Manufactured for: Valeant Pharmaceuticals North America LLC
+Distributed by: Bausch Health US, LLC Bridgewater, NJ 08807 USA
 
-Bridgewater, NJ 08807 USA
+Manufactured by: Bausch Health Companies Inc. Laval, Quebec H7L 4A8, Canada
 
-By: Valeant Pharmaceuticals International, Inc.
+Zovirax is a registered trademark of the GlaxoSmithKline group of companies and used under license by Bausch Health.
 
-Laval, Quebec H7L 4A8, Canada
+© 2020 Bausch Health Companies Inc. or its affiliates
 
-Zovirax is a trademark of GlaxoSmithKline LLC used under license.
-
-© Valeant Pharmaceuticals North America LLC
-
-9462202
+9462203

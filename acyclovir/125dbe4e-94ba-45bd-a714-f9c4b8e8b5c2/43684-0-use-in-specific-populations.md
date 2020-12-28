@@ -1,24 +1,36 @@
 # 8 USE IN SPECIFIC POPULATIONS
 
+## Risk Summary
+
+Acyclovir is minimally absorbed systemically following topical route of administration, and maternal use is not expected to result in fetal exposure to the ZOVIRAX Cream [see Clinical Pharmacology (12.3)].
+Experience with topical acyclovir use in pregnant women over several decades, based on published literature including observational studies, has not identified a drug-associated risk of major birth defects, miscarriage or adverse maternal or fetal outcomes.
+Animal reproduction studies with systemic exposure of acyclovir have been conducted.
+Refer to acyclovir prescribing information for additional details.
+
+The estimated background risk of major birth defects and miscarriage for the indicated population is unknown.
+All pregnancies have a background risk of birth defect, loss, or other adverse outcomes.
+In the U.S. general population, the estimated background risk of major birth defects and miscarriage in clinically recognized pregnancies is 2% to 4% and 15% to 20%, respectively.
+
 ## 8.1 Pregnancy
 
-### Pregnancy Category B.
+### Risk Summary
 
-There are no adequate and well-controlled studies of acyclovir cream in pregnant women.
-Acyclovir cream should be used during pregnancy only if the potential benefit justifies the potential risk to the fetus.
+Acyclovir is minimally absorbed systemically following topical route of administration, and maternal use is not expected to result in fetal exposure to the ZOVIRAX Cream [see Clinical Pharmacology (12.3)].
+Experience with topical acyclovir use in pregnant women over several decades, based on published literature including observational studies, has not identified a drug-associated risk of major birth defects, miscarriage or adverse maternal or fetal outcomes.
+Animal reproduction studies with systemic exposure of acyclovir have been conducted.
+Refer to acyclovir prescribing information for additional details.
 
-### Animal Data
+The estimated background risk of major birth defects and miscarriage for the indicated population is unknown.
+All pregnancies have a background risk of birth defect, loss, or other adverse outcomes.
+In the U.S. general population, the estimated background risk of major birth defects and miscarriage in clinically recognized pregnancies is 2% to 4% and 15% to 20%, respectively.
 
-Acyclovir was not teratogenic in the mouse, rabbit, or rat at exposures greatly in excess of human exposure.
+## 8.2 Lactation
 
-## 8.3 Nursing Mothers
+Risk Summary
 
-It is not known whether topically applied acyclovir is excreted in breast milk.
-Systemic exposure following topical administration is minimal.
-
-However, after oral administration of ZOVIRAX, acyclovir concentrations have been documented in breast milk in two women and ranged from 0.6 to 4.1 times the corresponding plasma levels.
-These concentrations would potentially expose the nursing infant to a dose of acyclovir up to 0.3 mg/kg/day.
-Nursing mothers who have active herpetic lesions near or on the breast should avoid nursing.
+Acyclovir is minimally absorbed systemically following topical route of administration, and breastfeeding is not expected to result in exposure of the child to ZOVIRAX Cream [see Clinical Pharmacology (12.3)].
+There are no data on the effects of ZOVIRAX on the breastfed infant or on milk production.
+The developmental and health benefits of breastfeeding should be considered along with the mother’s clinical need for ZOVIRAX Cream and any potential adverse effects on the breastfed child from ZOVIRAX Cream or from the underlying maternal condition.
 
 ## 8.4 Pediatric Use
 
@@ -31,4 +43,4 @@ Safety and effectiveness in pediatric patients less than 12 years of age have no
 
 Clinical studies of acyclovir cream did not include sufficient numbers of subjects aged 65 and over to determine whether they respond differently from younger subjects.
 Other reported clinical experience has not identified differences in responses between the elderly and younger patients.
-Systemic absorption of acyclovir after topical administration is minimal [see Clinical Pharmacology (12.3)].
+Systemic absorption of acyclovir after topical administration is minimal [seeClinical Pharmacology (12.3)].
