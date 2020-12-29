@@ -1,0 +1,30 @@
+{
+  "application_numbers": [
+    "NDA021951"
+  ],
+  "inn": "isotretinoin",
+  "labeler": "Sun Pharmaceutical Industries, Inc.",
+  "package_ndcs": [
+    "57664-020-97",
+    "57664-020-98",
+    "57664-021-97",
+    "57664-021-98",
+    "57664-022-97",
+    "57664-022-98",
+    "57664-023-97",
+    "57664-023-98",
+    "57664-024-97",
+    "57664-024-98",
+    "57664-025-97",
+    "57664-025-98"
+  ],
+  "products": [
+    {
+      "form": "CAPSULE",
+      "generic": "isotretinoin",
+      "name": "Isotretinoin"
+    }
+  ],
+  "setid": "b44200ba-6672-4ea7-b151-7caec3f53c9c",
+  "source": "dailymed"
+}
