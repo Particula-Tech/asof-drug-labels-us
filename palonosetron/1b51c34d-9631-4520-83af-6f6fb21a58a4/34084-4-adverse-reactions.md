@@ -76,14 +76,14 @@ Rates of events between palonosetron and placebo groups were similar.
 Some events are known to be associated with, or may be exacerbated by concomitant perioperative and intraoperative medications administered in this surgical population.
 Please refer to Section 12.2, thorough QT/QTc study results, for data demonstrating the lack of palonosetron effect on QT/QTc.
 
-Table 2: Adverse Reactions from Postoperative Nausea and Vomiting Studies ≥2% in any Treatment Group
+Table 2: Adverse Reactions from Postoperative Nausea and Vomiting Studies ≥ 2% in any Treatment Group
 
 | Event | ALOXI 0.075 mg (N=336) | Placebo (N=369) |
 | --- | --- | --- |
 | Electrocardiogram QT prolongation | 16 (5%) | 11 (3%) |
 | Bradycardia | 13 (4%) | 16 (4%) |
 | Headache | 11 (3%) | 14 (4%) |
-| Constipation | 8 (2%) | 11 (3%) |
+| Constipation | 8 (2%) | 11(3%) |
 
 In these clinical trials, the following infrequently reported adverse reactions, assessed by investigators as treatment-related or causality unknown, occurred following administration of ALOXI to adult patients receiving concomitant perioperative and intraoperative medications including those associated with anesthesia:
 

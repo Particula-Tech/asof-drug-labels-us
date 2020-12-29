@@ -1,4 +1,4 @@
-# 3 DOSAGE FORM AND STRENGTHS
+# 3 DOSAGE FORMS AND STRENGTHS
 
 ALOXI is supplied as a single-use sterile, clear, colorless solution in glass vials that provide:
 

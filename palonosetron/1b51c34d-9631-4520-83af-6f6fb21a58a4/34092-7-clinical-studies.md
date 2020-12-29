@@ -6,13 +6,17 @@ Efficacy of single-dose palonosetron injection in preventing acute and delayed n
 In these double-blind studies, complete response rates (no emetic episodes and no rescue medication) and other efficacy parameters were assessed through at least 120 hours after administration of chemotherapy.
 The safety and efficacy of palonosetron in repeated courses of chemotherapy was also assessed.
 
-Moderately Emetogenic Chemotherapy Two Phase 3, double-blind trials involving 1132 patients compared single-dose I.V.
+Moderately Emetogenic Chemotherapy
+
+Two Phase 3, double-blind trials involving 1132 patients compared single-dose I.V.
 ALOXI with either single-dose I.V. ondansetron (study 1) or dolasetron (study 2) given 30 minutes prior to moderately emetogenic chemotherapy including carboplatin, cisplatin ≤ 50 mg/m², cyclophosphamide < 1500 mg/m², doxorubicin > 25 mg/m², epirubicin, irinotecan, and methotrexate > 250 mg/m².
 Concomitant corticosteroids were not administered prophylactically in study 1 and were only used by 4-6% of patients in study 2.
 The majority of patients in these studies were women (77%), White (65%) and naïve to previous chemotherapy (54%).
 The mean age was 55 years.
 
-Highly Emetogenic Chemotherapy A Phase 2, double-blind, dose-ranging study evaluated the efficacy of single-dose I.V. palonosetron from 0.3 to 90 mcg/kg (equivalent to < 0.1 mg to 6 mg fixed dose) in 161 chemotherapy-naïve adult cancer patients receiving highly-emetogenic chemotherapy (either cisplatin ≥ 70 mg/m² or cyclophosphamide > 1100 mg/m²).
+Highly Emetogenic Chemotherapy
+
+A Phase 2, double-blind, dose-ranging study evaluated the efficacy of single-dose I.V. palonosetron from 0.3 to 90 mcg/kg (equivalent to < 0.1 mg to 6 mg fixed dose) in 161 chemotherapy-naïve adult cancer patients receiving highly-emetogenic chemotherapy (either cisplatin ≥ 70 mg/m² or cyclophosphamide > 1100 mg/m²).
 Concomitant corticosteroids were not administered prophylactically.
 Analysis of data from this trial indicates that 0.25 mg is the lowest effective dose in preventing acute nausea and vomiting induced by highly emetogenic chemotherapy.
 
@@ -22,19 +26,24 @@ Corticosteroids were co-administered prophylactically before chemotherapy in 67%
 Of the 667 patients, 51% were women, 60% White, and 59% naïve to previous chemotherapy.
 The mean age was 52 years.
 
-Efficacy Results The antiemetic activity of ALOXI was evaluated during the acute phase (0-24 hours) [Table 4], delayed phase (24-120 hours) [Table 5], and overall phase (0-120 hours) [Table 6] post-chemotherapy in Phase 3 trials.
+Efficacy Results
+
+The antiemetic activity of ALOXI was evaluated during the acute phase (0-24 hours) [Table 4], delayed phase (24-120 hours) [Table 5], and overall phase (0-120 hours) [Table 6] post-chemotherapy in Phase 3 trials.
 
 Table 4: Prevention of Acute Nausea and Vomiting (0-24 hours): Complete Response Rates
 
-| Chemotherapy | Study | Treatment Group | Na | % with Complete Response | p-valueb | 97.5% Confidence Interval ALOXI minus Comparatorc |
+| Chemotherapy | Study | Treatment Group | N a | % with Complete Response | p-value b | 97.5% Confidence Interval ALOXI minus Comparator c |
 | --- | --- | --- | --- | --- | --- | --- |
 | Moderately Emetogenic | 1 | ALOXI 0.25 mg | 189 | 81 | 0.009 |  |
-| Ondansetron 32 mg I.V. | 185 | 69 |  |  |  |  |
-| 2 | ALOXI 0.25 mg | 189 | 63 | NS |  |  |
-| Dolasetron 100 mg I.V. | 191 | 53 |  |  |  |  |
-| Highly Emetogenic | 3 | ALOXI 0.25 mg | 223 | 59 | NS |  |
-| Ondasetron 32 mg I.V. | 221 | 57 |  |  |  |  |
-| a Intent-to-treat cohort b 2-sided Fisher's exact test. Significance level at α=0.025. c These studies were designed to show non-inferiority. A lower bound greater than -15% demonstrates non-inferiority between ALOXI and comparator. |  |  |  |  |  |  |
+|  |  | Ondansetron 32 mg I.V. | 185 | 69 |  |  |
+|  | 2 | ALOXI 0.25 mg | 189 | 63 | NS |  |
+|  |  | Dolasetron 100 mg I.V. | 191 | 53 |  |  |
+| Highly Emetogenic | 3 | ALOXI 0.25 mg | 223 | 59 | NS | Difference in Complete Response Rates |
+|  |  | Ondansetron 32 mg I.V. | 221 | 57 |  |  |
+
+a Intent-to-treat cohort b 2-sided Fisher’s exact test.
+Significance level at α=0.025. c These studies were designed to show non-inferiority.
+A lower bound greater than –15% demonstrates non-inferiority between ALOXI and comparator.
 
 These studies show that ALOXI was effective in the prevention of acute nausea and vomiting associated with initial and repeat courses of moderately and highly emetogenic cancer chemotherapy.
 In study 3, efficacy was greater when prophylactic corticosteroids were administered concomitantly.
@@ -42,25 +51,31 @@ Clinical superiority over other 5-HT3 receptor antagonists has not been adequate
 
 Table 5: Prevention of Delayed Nausea and Vomiting (24-120 hours): Complete Response Rates
 
-| Chemotherapy | Study | Treatment Group | Na | % with Complete Response | p-valueb | 97.5% Confidence Interval ALOXI minus Comparatorc |
+| Chemotherapy | Study | Treatment Group | N a | % with Complete Response | p-value b | 97.5% Confidence Interval ALOXI minus Comparator c |
 | --- | --- | --- | --- | --- | --- | --- |
 | Moderately Emetogenic | 1 | ALOXI 0.25 mg | 189 | 74 | <0.001 |  |
-| Ondansetron 32 mg I.V. | 185 | 55 |  |  |  |  |
-| 2 | ALOXI 0.25 mg | 189 | 54 | 0.004 |  |  |
-| Dolasetron 100 mg I.V. | 191 | 39 |  |  |  |  |
-| a Intent-to-treat cohort b 2-sided Fisher's exact test. Significance level at α=0.025. c These studies were designed to show non-inferiority. A lower bound greater than -15% demonstrates non-inferiority between ALOXI and comparator. |  |  |  |  |  |  |
+|  |  | Ondansetron 32 mg I.V. | 185 | 55 |  |  |
+|  | 2 | ALOXI 0.25 mg | 189 | 54 | 0.004 |  |
+|  |  | Dolasetron 100 mg I.V. | 191 | 39 |  | Difference in Complete Response Rates |
+
+a Intent-to-treat cohort b 2-sided Fisher’s exact test.
+Significance level at α=0.025. c These studies were designed to show non-inferiority.
+A lower bound greater than –15% demonstrates non-inferiority between ALOXI and comparator.
 
 These studies show that ALOXI was effective in the prevention of delayed nausea and vomiting associated with initial and repeat courses of moderately emetogenic chemotherapy.
 
 Table 6: Prevention of Overall Nausea and Vomiting (0-120 hours): Complete Response Rates
 
-| Chemotherapy | Study | Treatment Group | Na | % with Complete Response | p-valueb | 97.5% Confidence Interval ALOXI minus Comparatorc |
+| Chemotherapy | Study | Treatment Group | N a | % with Complete Response | p-value b | 97.5% Confidence Interval ALOXI minus Comparator c |
 | --- | --- | --- | --- | --- | --- | --- |
 | Moderately Emetogenic | 1 | ALOXI 0.25 mg | 189 | 69 | <0.001 |  |
-| Ondansetron 32 mg I.V. | 185 | 50 |  |  |  |  |
-| 2 | ALOXI 0.25 mg | 189 | 46 | 0.021 |  |  |
-| Dolasetron 100 mg I.V. | 191 | 34 |  |  |  |  |
-| a Intent-to-treat cohort b 2-sided Fisher's exact test. Significance level at α=0.025. c These studies were designed to show non-inferiority. A lower bound greater than -15% demonstrates non-inferiority between ALOXI and comparator. |  |  |  |  |  |  |
+|  |  | Ondansetron 32 mg I.V. | 185 | 50 |  |  |
+|  | 2 | ALOXI 0.25 mg | 189 | 46 | 0.021 |  |
+|  |  | Dolasetron 100 mg I.V. | 191 | 34 |  | Difference in Complete Response Rates |
+
+a Intent-to-treat cohort b 2-sided Fisher’s exact test.
+Significance level at α=0.025. c These studies were designed to show non-inferiority.
+A lower bound greater than –15% demonstrates non inferiority between ALOXI and comparator.
 
 These studies show that ALOXI was effective in the prevention of nausea and vomiting throughout the 120 hours (5 days) following initial and repeat courses of moderately emetogenic cancer chemotherapy.
 
@@ -77,14 +92,17 @@ Efficacy was based on demonstrating non-inferiority of intravenous palonosetron 
 Non-inferiority criteria were met if the lower bound of the 97.5% confidence interval for the difference in Complete Response rates of intravenous palonosetron minus intravenous ondansetron was larger than -15%.
 The non-inferiority margin was 15%.
 
-Efficacy Results As shown in Table 7, intravenous ALOXI 20 mcg/kg (maximum 1.5 mg) demonstrated non-inferiority to the active comparator during the 0 to 24 hour time interval.
+Efficacy Results
+
+As shown in Table 7, intravenous ALOXI 20 mcg/kg (maximum 1.5 mg) demonstrated non-inferiority to the active comparator during the 0 to 24 hour time interval.
 
 Table 7: Prevention of Acute Nausea and Vomiting (0-24 hours): Complete Response Rates
 
 | I.V. ALOXI 20 mcg/kg (N=165) | I.V. Ondansetron 0.15 mg/kg x 3 (N=162) | Difference [97.5% Confidence Interval]*: I.V. ALOXI minus I.V. Ondansetron Comparator |
 | --- | --- | --- |
 | 59.4% | 58.6% | 0.36% [-11.7%, 12.4%] |
-| * To adjust for multiplicity of treatment groups, a lower-bound of a 97.5% confidence interval was used to compare to -15%, the negative value of the non-inferiority margin. |  |  |
+
+* To adjust for multiplicity of treatment groups, a lower-bound of a 97.5% confidence interval was used to compare to -15%, the negative value of the non-inferiority margin.
 
 In patients that received ALOXI at a lower dose than the recommended dose of 20 mcg/kg, non-inferiority criteria were not met.
 
@@ -116,17 +134,18 @@ Results for Complete Response in Study 1 for 0.075 mg palonosetron versus placeb
 
 Table 8: Prevention of Postoperative Nausea and Vomiting: Complete Response (CR), Study 1, Palonosetron 0.075 mg Vs Placebo
 
-| Treatment | n/N (%) | Palonosetron Vs Placebo |  |
-| --- | --- | --- | --- |
-| Δ | p-value* |  |  |
-| Co-primary Endpoints |  |  |  |
-| CR 0-24hours |  |  |  |
-| Palonosetron | 59/138 (42.8%) | 16.8% | 0.004 |
-| Placebo | 35/135 (25.9%) |  |  |
-| CR 24-72hours |  |  |  |
-| Palonosetron | 67/138 (48.6%) | 7.8% | 0.188 |
-| Placebo | 55/135 (40.7%) |  |  |
-| * To reach statistical significance for each co-primary endpoint, the required significance limit for the lowest p-value was p<0.017. Δ Difference (%): palonosetron 0.075mg minus placebo |  |  |  |
+| Treatment |  | n/N (%) | Palonosetron Vs Placebo |  |
+| --- | --- | --- | --- | --- |
+|  |  |  | Δ | p-value* |
+| Co-primary Endpoints |  |  |  |  |
+| CR 0-24 hours |  |  |  |  |
+| Palonosetron |  | 59/138 (42.8%) | 16.8% | 0.004 |
+| Placebo |  | 35/135 (25.9%) |  |  |
+| CR 24-72 hours |  |  |  |  |
+| Palonosetron |  | 67/138 (48.6%) | 7.8% | 0.188 |
+| Placebo | 55/135 (40.7%) |  |  |  |
+
+* To reach statistical significance for each co-primary endpoint, the required significance limit for the lowest p-value was p<0.017. Δ Difference (%): palonosetron 0.075 mg minus placebo
 
 Palonosetron 0.075 mg reduced the severity of nausea compared to placebo.
 Analyses of other secondary endpoints indicate that palonosetron 0.075 mg was numerically better than placebo, however, statistical significance was not formally demonstrated.
