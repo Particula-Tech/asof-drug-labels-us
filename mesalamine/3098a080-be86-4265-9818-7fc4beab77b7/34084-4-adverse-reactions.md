@@ -96,7 +96,7 @@ Cardiac Disorders: pericarditis, pericardial effusion, myocarditis [see Warnings
 
 Gastrointestinal: cholecystitis, gastritis, gastroenteritis, gastrointestinal bleeding, perforated peptic ulcer
 
-Hepatic: jaundice, cholestatic jaundice, hepatitis, liver necrosis, liver failure, Kawasaki-like syndrome including changes in liver enzymes
+Hepatic: jaundice, cholestatic jaundice, hepatitis, liver necrosis, liver failure, hepatotoxicity, Kawasaki-like syndrome including changes in liver enzymes
 
 Hematologic: agranulocytosis, aplastic anemia
 
