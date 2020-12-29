@@ -57,6 +57,11 @@ The major causes for treatment discontinuation were withdrawal of consent, adver
 Over 1 year of follow-up across these pooled studies, mean change in serum ferritin was -332.8 (±2,615.59) mcg/L (n=593) and mean change in LIC was -5.9 (±8.32) mg Fe/g dw (n=68).
 Results of these pooled studies in 627 patients with MDS suggest a progressive decrease in serum ferritin and LIC beyond 1 year in those patients who are able to continue deferasirox tablets for oral suspension.
 
+Study 4 (TELESTO; NCT 00940602) was a randomized, double-blind, placebo-controlled trial performed in 225 patients with MDS (Low/Int-1 risk) and transfusional iron overload of which 149 were treated with deferasirox and 76 received placebo.
+The observed hazard ratio of 0.64 (95% CI: 0.42, 0.96) suggests a positive impact of deferasirox on event-free survival (EFS, a composite endpoint defined as death, worsening cardiac function, hospitalization for congestive heart failure, liver function impairment, liver cirrhosis, or progression to acute myeloid leukemia; whichever
+
+occurred first).
+
 Non-Transfusion-Dependent Thalassemia
 
 Study 5 (NCT00873041) was a randomized, double-blind, placebo-controlled trial of treatment with deferasirox tablets for oral suspension for patients 10 years of age or older with NTDT syndromes and iron overload.
@@ -100,3 +105,6 @@ Table 5 Absolute Change in LIC at Week 52 in NTDT Patients
 | Mean Change (mg Fe/g dw) | - | -1.5 | -2.8 |  | -9.1 |
 | (95% Confidence Interval) | - | (-3.7, +0.7) | (-3.4, -2.2) |  | (-11.0, -7.3) |
 | Abbreviation: LIC, liver iron concentration; NTDT, non-transfusion-dependent thalassemia. aRandomized dose in Study 5 or assigned starting dose in Study 6. bLeast square mean change for Study 5. |  |  |  |  |  |
+
+Additional pediatric use information is approved for Novartis Pharmaceuticals Corporation's JADENU (desferasirox) tablets and granules.
+However, due to Novartis Pharmaceuticals Corporation's marketing exclusivity rights, this drug product is not labeled with that information.

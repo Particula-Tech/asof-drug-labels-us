@@ -150,6 +150,9 @@ In addition, a cohort-based analysis of ARs was conducted in the deferasirox tab
 Pediatric patients who received Exjade dose > 25 mg/kg/day equivalent to 17.5 mg/kg/day deferasirox when their serum ferritin was < 1,000 mcg/L (n=158), had a 6-fold greater rate of renal adverse reactions (Incidence Rate Ratio (IRR) = 6.00, 95% CI: 1.75 to 21.36) and a 2-fold greater rate of dose interruptions (IRR= 2.06, 95% CI: 1.33 to 3.17) compared to the time-period prior to meeting these simultaneous criteria.
 Adverse reactions of special interest (cytopenia, renal, hearing, and GI disorders) occurred 1.9-fold more frequently when these simultaneous criteria were met, compared to preceding time-periods (IRR=1.91, 95% CI: 1.05 to 3.48) [see Warnings and Precautions (5.6)].
 
+Additional pediatric use information is approved for Novartis Pharmaceuticals Corporation's JADENU (desferasirox) tablets and granules.
+However, due to Novartis Pharmaceuticals Corporation's marketing exclusivity rights, this drug product is not labeled with that information.
+
 ## 6.2 Postmarketing Experience
 
 The following adverse reactions have been spontaneously reported during post-approval use of deferasirox in the transfusional iron overload setting.

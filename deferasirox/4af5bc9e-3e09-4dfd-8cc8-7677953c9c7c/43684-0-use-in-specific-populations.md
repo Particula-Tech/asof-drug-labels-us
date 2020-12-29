@@ -84,9 +84,6 @@ In a neonatal and juvenile toxicity study in rats, deferasirox was administered 
 Increased renal toxicity was identified in juvenile rats compared to adult rats at a dose based on mg/m2 approximately 0.4 times the recommended dose of 20 mg/kg/day.
 A higher frequency of renal abnormalities was noted when deferasirox was administered to non-iron overloaded animals compared to iron overloaded animals.
 
-Additional pediatric use information is approved for Novartis Pharmaceuticals Corporation's JADENU®(deferasirox) tablets.
-However, due to Novartis Pharmaceuticals Corporation's marketing exclusivity rights, this drug product is not labeled with that pediatric information.
-
 ## 8.5 Geriatric Use
 
 Four hundred thirty-one (431) patients greater than or equal to 65 years of age were studied in clinical trials of deferasirox in the transfusional iron overload setting.
