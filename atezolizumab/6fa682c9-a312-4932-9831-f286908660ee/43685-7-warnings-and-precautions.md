@@ -265,7 +265,14 @@ These complications may occur despite intervening therapy between PD-1/PD-L1 blo
 Follow patients closely for evidence of transplant-related complications and intervene promptly.
 Consider the benefits versus risks of treatment with a PD-1/PD-L1 blocking antibody prior to or after an allogeneic HSCT.
 
-## 5.4 Embryo-Fetal Toxicity
+## 5.4 Increased Mortality in Patients with Metastatic TNBC when TECENTRIQ is Used with Paclitaxel
+
+In a randomized trial in patients with metastatic TNBC, an increase in the risk of death was observed in patients treated with TECENTRIQ plus paclitaxel compared with placebo and paclitaxel in the PD-L1-positive population.
+The efficacy of TECENTRIQ in combination with paclitaxel in patients with unresectable locally advanced or metastatic TNBC has not been demonstrated [see Indications and Usage (1.3) and Clinical Studies (14.4)].
+
+Do not substitute paclitaxel protein-bound with paclitaxel in combination with TECENTRIQ in clinical practice for metastatic TNBC outside of controlled trials.
+
+## 5.5 Embryo-Fetal Toxicity
 
 Based on its mechanism of action, TECENTRIQ can cause fetal harm when administered to a pregnant woman.
 There are no available data on the use of TECENTRIQ in pregnant women.

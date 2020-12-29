@@ -65,6 +65,8 @@ TECENTRIQ and paclitaxel protein-bound may be discontinued for toxicity independ
 If the first infusion is tolerated, all subsequent infusions may be delivered over 30 minutes.
 Refer to the Prescribing Information for paclitaxel protein-bound for recommended dosing information.
 
+Do not substitute paclitaxel protein-bound with paclitaxel in combination with TECENTRIQ in clinical practice for metastatic TNBC outside of controlled trials [see Warnings and Precautions (5.4)].
+
 ## 2.5 Recommended Dosage for SCLC
 
 The recommended dosage of TECENTRIQ is 1200 mg intravenously every 3 weeks, when administered in combination with carboplatin and etoposide, until disease progression or unacceptable toxicity.
@@ -154,7 +156,7 @@ Do not shake the vial.
 Prepare the solution for infusion as follows:
 
 - Select the appropriate vial(s) based on the prescribed dose.
-- Withdraw the required volume of TECENTRIQ from the vial(s).
+- Withdraw the required volume of TECENTRIQ from the vial(s) using sterile needle and syringe.
 - Dilute to a final concentration between 3.2 mg/mL and 16.8 mg/mL in a polyvinyl chloride (PVC), polyethylene (PE), or polyolefin (PO) infusion bag containing 0.9% Sodium Chloride Injection, USP.
 - Dilute with only 0.9% Sodium Chloride Injection, USP.
 - Mix diluted solution by gentle inversion.
