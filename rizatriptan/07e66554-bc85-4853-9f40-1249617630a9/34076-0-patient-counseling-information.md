@@ -1,26 +1,27 @@
 # 17 PATIENT COUNSELING INFORMATION
 
-See FDA-Approved Patient Labeling (Patient Information).
-Risk of Myocardial Ischemia and/or Infarction, Prinzmetal's Angina, Other Vasospasm-related Events, and Cerebrovascular Events Inform patients that rizatriptan benzoate tablets, USP may cause serious cardiovascular side effects such as myocardial infarction or stroke.
+Advise the patient to read the FDA-approved patient labeling (Patient Information).
+Risk of Myocardial Ischemia and/or Infarction, Prinzmetal's Angina, Other Vasospasm-Related Events, and Cerebrovascular Events Inform patients that rizatriptan benzoate tablets, USP may cause serious cardiovascular side effects such as myocardial infarction or stroke.
 Although serious cardiovascular events can occur without warning symptoms, patients should be alert for the signs and symptoms of chest pain, shortness of breath, weakness, slurring of speech, and should ask for medical advice when observing any indicative sign or symptoms.
 Patients should be apprised of the importance of this follow-up [see Warnings and Precautions (5.1, 5.2, 5.4, 5.5)].
 Serotonin Syndrome Patients should be cautioned about the risk of serotonin syndrome with the use of rizatriptan benzoate tablets, USP or other triptans, particularly during combined use with selective serotonin reuptake inhibitors (SSRIs) or serotonin norepinephrine reuptake inhibitors (SNRIs) [see Warnings and Precautions (5.7), Drug Interactions (7.4), and Clinical Pharmacology (12.3)].
 Pregnancy Inform patients that rizatriptan benzoate tablets, USP should not be used during pregnancy unless the potential benefit justifies the potential risk to the fetus [see Use in Specific Populations (8.1)].
-Nursing Mothers Advise patients to notify their healthcare provider if they are breastfeeding or plan to breastfeed [see Use in Specific Populations (8.3)].
-Ability To Perform Complex Tasks Since migraines or treatment with rizatriptan benzoate tablets, USP may cause somnolence and dizziness, instruct patients to evaluate their ability to perform complex tasks during migraine attacks and after administration of rizatriptan benzoate tablets, USP.
+Lactation Advise patients to notify their healthcare provider if they are breastfeeding or plan to breastfeed [see Use in Specific Populations (8.2)].
+Ability to Perform Complex Tasks Since migraines or treatment with rizatriptan benzoate tablets, USP may cause somnolence and dizziness, instruct patients to evaluate their ability to perform complex tasks during migraine attacks and after administration of rizatriptan benzoate tablets, USP.
 Medication Overuse Headache Inform patients that use of acute migraine drugs for 10 or more days per month may lead to an exacerbation of headache, and encourage patients to record headache frequency and drug use (e.g., by keeping a headache diary) [see Warnings and Precautions (5.6)].
 Manufactured in India by: Alkem Laboratories Limited H.O.: ALKEM HOUSE, Senapati Bapat Marg, Lower Parel, Mumbai – 400 013, INDIA Distributed by: Ascend Laboratories, LLC
 
 Parsippany, NJ 07054
 
-Revised: 07/2016
+Revised: November, 2019
 
 Patient Information
 
 RIZATRIPTAN BENZOATE TABLETS, USP 5 mg and 10 mg Read this Patient Information before you start taking rizatriptan benzoate tablets, USP and each time you get a refill.
 There may be new information.
 This information does not take the place of talking to your doctor about your medical condition or your treatment.
-Unless otherwise stated, the information in this Patient Information leaflet applies to both rizatriptan benzoate tablets, USP and to rizatriptan benzoate orally disintegrating tablets What is rizatriptan benzoate, USP ?
+Unless otherwise stated, the information in this Patient Information leaflet applies to both rizatriptan benzoate tablets, USP and to rizatriptan benzoate orally disintegrating tablets.
+What is rizatriptan benzoate, USP ?
 Rizatriptan benzoate tablets, USP is a prescription medicine that belongs to a class of medicines called Triptans.
 Rizatriptan benzoate tablets, USP is available as a traditional tablet and as an orally disintegrating tablet.
 Rizatriptan benzoate tablet, USP are used to treat migraine attacks with or without aura in adults and in children 6 to 17 years of age.
@@ -40,12 +41,12 @@ Do not take rizatriptan benzoate tablets, USP if you:
 - have taken ergot-containing medicines in the last 24 hours
 - have hemiplegic or basilar migraines
 - take monoamine oxidase (MAO) inhibitor or have taken a MAO inhibitor within the last 2 weeks
-- are allergic to rizatriptan benzoate, USP or any of the ingredients in Rizatriptan Benzoate Tablets, USP.
-  See the end of this leaflet for a complete list of ingredients in Rizatriptan Benzoate Tablets, USP.
+- are allergic to rizatriptan benzoate or any of the ingredients in rizatriptan benzoate tablets, USP.
+  See the end of this leaflet for a complete list of ingredients in rizatriptan benzoate tablets, USP.
 
 Talk to your doctor before taking this medicine if you have any of the conditions listed above or if you are not sure if you take any of these medicines.
 What should I tell my doctor before taking rizatriptan benzoate tablets, USP?
-Before you take rizatriptan benzoate tablets,, USP tell your doctor if you:
+Before you take rizatriptan benzoate tablets, USP, tell your doctor if you:
 
 - have or have had heart problems, high blood pressure, chest pain, or shortness of breath
 - have any risk factors for heart problems or blood vessel problems such as:
@@ -61,9 +62,9 @@ Before you take rizatriptan benzoate tablets,, USP tell your doctor if you:
 - have any other medical condition
 - are pregnant or plan to become pregnant.
   It is not known if rizatriptan benzoate tablets, USP will harm your unborn baby.
-  If you become pregnant while taking rizatriptan benzoate tablets, USP talk to your healthcare provider
+  If you become pregnant while taking rizatriptan benzoate tablets, USP, talk to your healthcare provider.
 - are breastfeeding or plan to breastfeed.
-  It is not known if rizatriptan benzoate tablets, USP passes into your breast milk.
+  It is not known if rizatriptan benzoate passes into your breast milk.
   Talk to your doctor about the best way to feed your baby if you take rizatriptan benzoate tablets, USP.
 
 Tell your doctor about all the medicines you take, including prescription and nonprescription medicines, vitamins, and herbal supplements.
@@ -83,10 +84,10 @@ How should I take rizatriptan benzoate tablets, USP?
 - Your doctor will tell you how much rizatriptan benzoate tablets, USP to take and when to take it.
 - If your headache comes back after your first rizatriptan benzoate tablets, USP dose:
   - For adults: a second dose may be taken 2 hours after the first dose.
-    Do not take more than 30 mg of rizatriptan benzoate tablets, USP in a 24-hour period (for example, do not take more than 3 10 mg tablets in a 24-hour period).
+    Do not take more than 30 mg of rizatriptan benzoate tablets, USP in a 24-hour period (for example, do not take more than 3 10-mg tablets in a 24-hour period).
   - For children 6 to 17 years of age: It is not known if taking more than 1 dose of rizatriptan benzoate tablets, USP in 24 hours is safe and effective.
     Talk to your doctor about what to do if your headache does not go away or comes back.
-- If you take too much rizatriptan benzoate tablets, USP call your doctor or go to the nearest hospital emergency room right away.
+- If you take too much rizatriptan benzoate tablets, USP, call your doctor or go to the nearest hospital emergency room right away.
 
 What should I avoid while taking rizatriptan benzoate tablets, USP?
 Rizatriptan benzoate tablets, USP may cause dizziness, weakness, or fainting.
@@ -129,12 +130,12 @@ Call your doctor or go to the nearest hospital emergency room right away if you 
   - muscle spasm
   - loss of coordination
   - nausea, vomiting or diarrhea
-- increased blood pressure
+- increased blood pressure.
 
 The most common side effects of rizatriptan benzoate tablets, USP in adults include:
 
 - feeling sleepy or tired
-- pain or pressure in your chest ot throat
+- pain or pressure in your chest or throat
 - dizziness
 
 Tell your doctor if you have any side effect that bothers you or that does not go away.
@@ -146,7 +147,7 @@ Call your doctor for medical advice about side effects.
 You may report side effects to FDA at 1-800-FDA-1088.
 How should I store rizatriptan benzoate tablets, USP?
 
-- Store rizatriptan benzoate tablets, USP at 20° to 25°C (68° to 77°F) [see USP Controlled Room Temperature].
+- Store rizatriptan benzoate tablets, USP at room temperature between 59°F to 86°F (15°C to 30°C).
 - Safely throw away medicine that is out of date or no longer needed.
 
 Keep rizatriptan benzoate tablets, USP and all medicines out of the reach of children.
@@ -155,19 +156,19 @@ Medicines are sometimes prescribed for purposes other than those listed in a Pat
 Do not use rizatriptan benzoate tablets, USP for a condition for which it was not prescribed.
 Do not give rizatriptan benzoate tablets, USP to other people, even if they have the same symptoms that you have.
 It may harm them.
-T|his Patient Information leaflet summarizes the most important information about rizatriptan benzoate tablets, USP.
+This Patient Information leaflet summarizes the most important information about rizatriptan benzoate tablets, USP.
 If you would like more information, talk to your doctor.
 You can ask your pharmacist or doctor for information about rizatriptan benzoate tablets, USP that is written for health professionals.
 
-For more information contact Ascend Laboratories, LLC at 1-877-ASC-RX01 (877-272-7901
+For more information contact Ascend Laboratories, LLC at 1-877-ASC-RX01 (877-272-7901)
 
 What are the ingredients in rizatriptan benzoate tablets, USP?
 Active ingredient in rizatriptan benzoate tablets, USP: rizatriptan benzoate.
 Inactive ingredients in rizatriptan benzoate tablets, USP: lactose monohydrate, microcrystalline cellulose, pregelatinized starch (maize), and magnesium stearate.
-Proprietary names mentioned in this leaflet are trademarks of their owners.
+The brands listed are the trademarks of their respective owners.
 This Patient Information has been approved by the U.S. Food and Drug Administration.
 Manufactured in India by: Alkem Laboratories Limited H.O.: ALKEM HOUSE, Senapati Bapat Marg, Lower Parel, Mumbai – 400 013, INDIA Distributed by: Ascend Laboratories, LLC
 
 Parsippany, NJ 07054
 
-Revised: 07/2016
+Revised: November, 2019 PT 2719-03

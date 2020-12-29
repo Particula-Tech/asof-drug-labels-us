@@ -8,12 +8,12 @@ Rizatriptan benzoate tablets, USP presumably exerts its therapeutic effects in t
 ## 12.3 Pharmacokinetics
 
 Absorption Rizatriptan is completely absorbed following oral administration.
-The mean oral absolute bioavailability of the Rizatriptan benzoate tablet, USP is about 45%, and mean peak plasma concentrations (Cmax) are reached in approximately 1-1.5 hours (Tmax).
+The mean oral absolute bioavailability of the rizatriptan benzoate tablet is about 45%, and mean peak plasma concentrations (Cmax) are reached in approximately 1-1.5 hours (Tmax).
 The presence of a migraine headache did not appear to affect the absorption or pharmacokinetics of rizatriptan.
 Food has no significant effect on the bioavailability of rizatriptan but delays the time to reach peak concentration by an hour.
 In clinical trials, rizatriptan benzoate tablets, USP was administered without regard to food.
 
-The bioavailability and Cmax of rizatriptan were similar following administration of rizatriptan benzoate tablets, USP and rizatriptan benzoate tablets,, USP orally disintegrating, but the rate of absorption is somewhat slower with rizatriptan benzoate orally disintegrating tablets, with Tmax delayed by up to 0.7 hour.
+The bioavailability and Cmax of rizatriptan were similar following administration of rizatriptan benzoate tablets, USP and rizatriptan benzoate orally disintegrating tablets, but the rate of absorption is somewhat slower with rizatriptan benzoate orally disintegrating tablets, with Tmax delayed by up to 0.7 hour.
 AUC of rizatriptan is approximately 30% higher in females than in males.
 No accumulation occurred on multiple dosing.
 
@@ -23,7 +23,7 @@ Metabolism The primary route of rizatriptan metabolism is via oxidative deaminat
 N-monodesmethyl-rizatriptan, a metabolite with activity similar to that of parent compound at the 5-HT1B/1D receptor, is formed to a minor degree.
 Plasma concentrations of N-monodesmethyl-rizatriptan are approximately 14% of those of parent compound, and it is eliminated at a similar rate.
 Other minor metabolites, the N-oxide, the 6-hydroxy compound, and the sulfate conjugate of the 6-hydroxy metabolite are not active at the 5-HT1B/1D receptor.
-Elimination The total radioactivity of the administered dose recovered over 120 hours in urine and feces was 82% and 12%, respectively, following a single 10 mg oral administration of 14C-rizatriptan.
+Elimination The total radioactivity of the administered dose recovered over 120 hours in urine and feces was 82% and 12%, respectively, following a single 10-mg oral administration of 14C-rizatriptan.
 Following oral administration of 14C-rizatriptan, rizatriptan accounted for about 17% of circulating plasma radioactivity.
 Approximately 14% of an oral dose is excreted in urine as unchanged rizatriptan while 51% is excreted as indole acetic acid metabolite, indicating substantial first pass metabolism.
 The plasma half-life of rizatriptan in males and females averages 2-3 hours.

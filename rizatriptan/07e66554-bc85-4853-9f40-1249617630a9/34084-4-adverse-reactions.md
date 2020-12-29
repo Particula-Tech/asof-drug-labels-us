@@ -4,7 +4,7 @@ The following adverse reactions are discussed in more detail in other sections o
 
 - Myocardial Ischemia, Myocardial Infarction, and Prinzmetal's Angina [see Warnings and Precautions (5.1)].
 - Arrhythmias [see Warnings and Precautions (5.2)].
-- Chest and or Throat, Neck and/or Jaw Pain/Tightness/Pressure [see Warnings and Precautions (5.3)].
+- Chest, Throat, Neck and/or Jaw Pain/Tightness/Pressure [see Warnings and Precautions (5.3)].
 - Cerebrovascular Events [see Warnings and Precautions (5.4)].
 - Other Vasospasm Reactions [see Warnings and Precautions (5.5)].
 - Medication Overuse Headache [see Warnings and Precautions (5.6)].
@@ -17,7 +17,7 @@ Because clinical studies are conducted under widely varying conditions, adverse 
 Adults Incidence in Controlled Clinical Trials Adverse reactions to rizatriptan benzoate tablets, USP were assessed in controlled clinical trials that included over 3700 adult patients who received single or multiple doses of rizatriptan benzoate tablets, USP.
 The most common adverse reactions during treatment with rizatriptan benzoate tablets, USP (≥5% in either treatment group and greater than placebo) were asthenia/fatigue, somnolence, pain/pressure sensation and dizziness.
 These adverse reactions appeared to be dose related.
-Table 1 lists the adverse reactions (incidence ≥2% and greater than placebo) after a single dose of rizatriptan benzoate tablets, USP in adults
+Table 1 lists the adverse reactions (incidence ≥2% and greater than placebo) after a single dose of rizatriptan benzoate tablets, USP in adults.
 
 Table 1: Incidence (≥2% and Greater than Placebo) of Adverse Reactions After a Single Dose of Rizatriptan Benzoate Tablets, USP or Placebo in Adults
 
@@ -49,14 +49,14 @@ Adverse reaction frequencies were also unchanged by concomitant use of drugs com
 The incidences of adverse reactions were not affected by age or gender.
 There were insufficient data to assess the impact of race on the incidence of adverse reactions.
 
-Other E vents Ob ser ved in A sso ciation with the Admini s tration of Rizatriptan benzoate tablets, USP in Adults
+Other Events Observed in Association with the Administration of Rizatriptan benzoate tablets, USP in Adults
 
-In the following section, the frequencies of less commonly reported adverse events are presented that were not reported in other s ections of the labeling.
-Because the reports include events observed in open studies, the role of rizatriptan benzoate tablets, USP in their cau sation cannot be reliably determined.
-Furthermore, variability associated with adverse event reporting, the terminology used to describe adverse events, limit the value of the quantitative frequency estimates p rovided.
+In the following section, the frequencies of less commonly reported adverse events are presented that were not reported in other sections of the labeling.
+Because the reports include events observed in open studies, the role of rizatriptan benzoate tablets, USP in their causation cannot be reliably determined.
+Furthermore, variability associated with adverse event reporting, the terminology used to describe adverse events, limit the value of the quantitative frequency estimates provided.
 Event frequencies are calculated as the number of patients who used rizatriptan benzoate tablets, USP and reported an event divided by the total number of patients exposed to rizatriptan benzoate tablets, USP (N=3716).
 All reported events occurred at an incidence ≥1%, or are believed to be reasonably associated with the use of the drug.
-E vents are further classified within body system categories and enumerated in order of decreasing frequency using the following definitions: frequent adverse events are those defined as those occurring in at least (>)1/100 patients; infrequent adverse experiences are those occurring in 1/100 to 1/1000 patients; and rare adverse experiences are those occurring in fewer than 1/1000 patients.
+Events are further classified within body system categories and enumerated in order of decreasing frequency using the following definitions: frequent adverse events are those defined as those occurring in at least (>)1/100 patients; infrequent adverse experiences are those occurring in 1/100 to 1/1000 patients; and rare adverse experiences are those occurring in fewer than 1/1000 patients.
 
 General: Infrequent was facial edema.
 Rare were syncope and edema/swelling.
@@ -69,7 +69,7 @@ Infrequent were tachycardia, cold extremities, and bradycardia.
 Digestive: Frequent were diarrhea and vomiting.
 Infrequent were dyspepsia, tongue edema and abdominal distention.
 
-Musculoskeletal: Infrequent were muscle weakness, stif fness, myalgia and muscle cramp/spasm.
+Musculoskeletal: Infrequent were muscle weakness, stiffness, myalgia and muscle cramp/spasm.
 
 Neurological/Psychiatric: Frequent were hypoesthesia, euphoria and tremor.
 Infrequent were vertigo, insomnia, confusion/disorientation, gait abnormality, memory impairment, and agitation.
@@ -121,4 +121,4 @@ The events enumerated include all except those already listed in other sections 
 Because the reports cite events reported spontaneously from worldwide postmarketing experience, frequency of events and the role of rizatriptan benzoate tablets, USP in their causation cannot be reliably determined.
 Neurological/Psychiatric: Seizure.
 General: Allergic conditions including anaphylaxis/anaphylactoid reaction, angioedema, wheezing, and toxic epidermal necrolysis [see Contraindications (4)].
-Special Senses: Dysgeusia
+Special Senses: Dysgeusia.
