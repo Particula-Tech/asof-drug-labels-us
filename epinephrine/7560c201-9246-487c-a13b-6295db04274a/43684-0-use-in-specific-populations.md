@@ -42,7 +42,7 @@ Epinephrine is the first line-medication of choice for treatment of anaphylaxis;
 
 ## 8.4 Pediatric Use
 
-EpiPen or EpiPen Jr may be administered to pediatric patients at a dosage appropriate to body weight [see Dosage and Administration (2)].
+EpiPen or EpiPen Jr may be administered to pediatric patients at a dosage appropriate to body weight [see Dosage and Administration (2.1)].
 Clinical experience with the use of epinephrine suggests that the adverse reactions seen in children are similar in nature and extent to those both expected and reported in adults.
 Since the doses of epinephrine delivered from EpiPen and EpiPen Jr are fixed, consider using other forms of injectable epinephrine if doses lower than 0.15 mg are deemed necessary.
 

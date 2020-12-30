@@ -6,20 +6,20 @@ Adverse reactions reported in observational trials, case reports, and studies ar
 Common adverse reactions to systemically administered epinephrine include anxiety; apprehensiveness; restlessness; tremor; weakness; dizziness; sweating; palpitations; pallor; nausea and vomiting; headache; and/or respiratory difficulties.
 These symptoms occur in some persons receiving therapeutic doses of epinephrine, but are more likely to occur in patients with hypertension or hyperthyroidism [see Warnings and Precautions (5.5)].
 
-Arrhythmias, including fatal ventricular fibrillation, have been reported, particularly in patients with underlying cardiac disease or those receiving certain drugs [see Warnings and Precautions (5.5) and Drug Interactions (7)].
+Cardiovascular Reactions
 
-Rapid rises in blood pressure have produced cerebral hemorrhage, particularly in elderly patients with cardiovascular disease [see Warnings and Precautions (5.5)].
+- •Arrhythmias, including fatal ventricular fibrillation, have been reported, particularly in patients with underlying cardiac disease or those receiving certain drugs [see Warnings and Precautions (5.5) and Drug Interactions (7)].
+- •Rapid rises in blood pressure have produced cerebral hemorrhage, particularly in elderly patients with cardiovascular disease [see Warnings and Precautions (5.5)].
+- •Angina may occur in patients with coronary artery disease [see Warnings and Precautions (5.5)].
+- •Rare cases of stress cardiomyopathy have been reported in patients treated with epinephrine.
 
-Angina may occur in patients with coronary artery disease [see Warnings and Precautions (5.5)].
+Reactions from Accidental Injection and/or Improper Technique
 
-Rare cases of stress cardiomyopathy have been reported in patients treated with epinephrine.
+- •Accidental injection into the digits, hands or feet may result in loss of blood flow to the affected area [see Warnings and Precautions (5.2)].
+- •Adverse reactions experienced as a result of accidental injections may include increased heart rate, local reactions including injection site pallor, coldness and hypoesthesia or injury at the injection site resulting in bruising, bleeding, discoloration, erythema or skeletal injury.
+- •Lacerations, bent needles, and embedded needles have been reported when EpiPen has been injected into the thigh of young children who are uncooperative and kick or move during the injection [see Warning and Precautions (5.2)].
+- •Injection into the buttock has resulted in cases of gas gangrene [see Warnings and Precautions (5.2)].
 
-Accidental injection into the digits, hands or feet may result in loss of blood flow to the affected area [see Warnings and Precautions (5.2)].
+Skin and Soft Tissue Infections
 
-Adverse events experienced as a result of accidental injections may include increased heart rate, local reactions including injection site pallor, coldness and hypoesthesia or injury at the injection site resulting in bruising, bleeding, discoloration, erythema or skeletal injury.
-
-Lacerations, bent needles, and embedded needles have been reported when EpiPen has been injected into the thigh of young children who are uncooperative and kick or move during the injection [see Warning and Precautions (5.2)].
-
-Injection into the buttock has resulted in cases of gas gangrene [see Warnings and Precautions (5.2)].
-
-Rare cases of serious skin and soft tissue infections, including necrotizing fasciitis and myonecrosis caused by Clostridia (gas gangrene), have been reported following epinephrine injection, including EpiPen, in the thigh [see Warnings and Precautions (5.3)].
+- •Rare cases of serious skin and soft tissue infections, including necrotizing fasciitis and myonecrosis caused by Clostridia (gas gangrene), have been reported following epinephrine injection, including EpiPen, in the thigh [see Warnings and Precautions (5.3)].

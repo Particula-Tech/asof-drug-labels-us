@@ -1,13 +1,13 @@
 # 17 PATIENT COUNSELING INFORMATION
 
-[See FDA-Approved Patient Labeling (Patient Information and Instructions for Use).]
+See FDA-Approved Patient Labeling (Patient Information and Instructions for Use)
 
 A healthcare provider should review the patient instructions and operation of EpiPen and EpiPen Jr in detail, with the patient or caregiver.
 
 Epinephrine is essential for the treatment of anaphylaxis.
 Patients who are at risk of or with a history of severe allergic reactions (anaphylaxis) to insect stings or bites, foods, drugs, and other allergens, as well as idiopathic and exercise-induced anaphylaxis, should be carefully instructed about the circumstances under which epinephrine should be used.
 
-Administration and Training
+Administration
 
 Instruct patients and/or caregivers in the appropriate use of EpiPen and EpiPen Jr.
 EpiPen should be injected into the middle of the outer thigh (through clothing, if necessary).
@@ -22,6 +22,8 @@ This small part may pose a choking hazard for children.
 
 Complete patient information, including dosage, directions for proper administration and precautions can be found inside each EpiPen or EpiPen Jr carton.
 A printed label on the surface of EpiPen shows instructions for use and a diagram depicting the injection process.
+
+Training
 
 Instruct patients and/or caregivers to use and practice with the Trainer to familiarize themselves with the use of EpiPen in an allergic emergency.
 The Trainer may be used multiple times.
@@ -56,6 +58,8 @@ Epinephrine is light sensitive and should be stored in the carrier tube provided
 The carrier tube is not waterproof.
 Instruct patients that EpiPen and EpiPen Jr must be used or properly disposed once the blue safety release is removed or after use [see Storage and Handling (16.2)].
 
+Advise patients and caregivers to give used EpiPen and EpiPen Jr auto-injectors to their healthcare provider for inspection and proper disposal.
+
 Advise patients and caregivers to promptly dispose of medicines that are no longer needed.
 Dispose of expired, unwanted, or unused EpiPen and EpiPen Jr auto-injectors in an FDA-cleared sharps container.
 Instruct patients not to dispose EpiPen or EpiPen Jr in their household trash.
@@ -71,4 +75,4 @@ EpiPen® and EpiPen Jr® are registered trademarks of Mylan Inc. licensed exclus
 Copyright © 2020 Meridian Medical Technologies.
 All rights reserved.
 
-Revised: 6/2020 MS:EPI:R6 002095
+Revised: 12/2020 MS:EPI:R7 0002138
