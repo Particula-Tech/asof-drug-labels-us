@@ -11,7 +11,7 @@ Risk Summary
 
 Neonates exposed to antipsychotic drugs during the third trimester of pregnancy are at risk for extrapyramidal and/or withdrawal symptoms following delivery (see CLINICAL CONSIDERATIONS).
 Overall, available data from published epidemiologic studies of pregnant women exposed to paliperidone have not established a drug-associated risk of major birth defects, miscarriage, or adverse maternal or fetal outcomes (see DATA).
-There are risks to the mother associated with untreated schizophrenia and with exposure to antipsychotics, including INVEGA®, during pregnancy (see CLINICAL CONSIDERATIONS).The estimated background risk of major birth defects and miscarriage for the indicated population is unknown.
+There are risks to the mother associated with untreated schizophrenia and with exposure to antipsychotics, including paliperidone, during pregnancy (see CLINICAL CONSIDERATIONS).The estimated background risk of major birth defects and miscarriage for the indicated population is unknown.
 All pregnancies have a background risk of birth defects, loss, or other adverse outcomes.
 In the U.S. general population, the estimated background risk of major birth defects and miscarriage in clinically recognized pregnancies is 2–4% and 15–20%, respectively.
 
@@ -28,7 +28,7 @@ It is not known if this is a direct result of the illness or other comorbid fact
 
 Fetal/Neonatal Adverse Reactions
 
-Extrapyramidal and/or withdrawal symptoms, including agitation, hypertonia, hypotonia, tremor, somnolence, respiratory distress, and feeding disorder have been reported in neonates who were exposed to antipsychotic drugs, including INVEGA®, during the third trimester of pregnancy.
+Extrapyramidal and/or withdrawal symptoms, including agitation, hypertonia, hypotonia, tremor, somnolence, respiratory distress, and feeding disorder have been reported in neonates who were exposed to antipsychotic drugs, including paliperidone, during the third trimester of pregnancy.
 These symptoms have varied in severity.
 Monitor neonates for extrapyramidal and/or withdrawal symptoms and manage symptoms appropriately.
 Some neonates recovered within hours or days without specific treatment; others required prolonged hospitalization.
@@ -59,8 +59,10 @@ In rat reproduction studies with risperidone, pup deaths occurred at oral doses 
 Risk Summary
 
 Limited data from published literature report the presence of paliperidone in human breast milk.
-There is no information on the effects on the breastfed infant, or the effects on milk production; however, there are reports of sedation, failure to thrive, jitteriness, and extrapyramidal symptoms (tremors and abnormal muscle movements) in breastfed infants exposed to paliperidone's parentcompound,risperidone (see CLINICAL CONSIDERATIONS).
-The developmental and health benefits of breastfeeding should be considered along with the mother's clinical need for paliperidone and any potential adverse effects on the breastfed child from paliperidone or from the mother's underlying condition.Clinical Considerations
+There is no information on the effects on the breastfed infant, or the effects on milk production; however, there are reports of sedation, failure to thrive, jitteriness, and extrapyramidal symptoms (tremors and abnormal muscle movements) in breastfed infants exposed to paliperidone's parent compound, risperidone (see CLINICAL CONSIDERATIONS).
+The developmental and health benefits of breastfeeding should be considered along with the mother's clinical need for paliperidone and any potential adverse effects on the breastfed child from paliperidone or from the mother's underlying condition.
+
+Clinical Considerations
 
 Infants exposed to paliperidone through breastmilk should be monitored for excess sedation, failure to thrive, jitteriness, and extrapyramidal symptoms (tremors and abnormal muscle movements).
 
@@ -76,7 +78,8 @@ Based on the pharmacologic action of paliperidone (D2 receptor antagonism), trea
 
 Safety and effectiveness of paliperidone in the treatment of schizophrenia were evaluated in 150 adolescent subjects 12-17 years of age with schizophrenia who received paliperidone in the dose range of 1.5 mg to 12 mg/day in a 6-week, double-blind, placebo-controlled trial.
 
-Safety and effectiveness of paliperidone for the treatment of schizophrenia in patients < 12 years of age have not been established Safety and effectiveness of paliperidone for the treatment of schizoaffective disorder in patients< 18 years of age have not studied.
+Safety and effectiveness of paliperidone for the treatment of schizophrenia in patients < 12 years of age have not been established.
+Safety and effectiveness of paliperidone for the treatment of schizoaffective disorder in patients< 18 years of age have not been studied.
 
 In a study in which juvenile rats were treated with oral paliperidone from days 24 to 73 of age, a reversible impairment of performance in a test of learning and memory was seen, in females only, with a no-effect dose of 0.63 mg/kg/day, which produced plasma levels (AUC) of paliperidone similar to those in adolescents.
 No other consistent effects on neurobehavioral or reproductive development were seen up to the highest dose tested (2.5 mg/kg/day), which produced plasma levels of paliperidone 2-3 times those in adolescents.

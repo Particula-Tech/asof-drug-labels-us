@@ -4,27 +4,28 @@
 
 The following adverse reactions are discussed in more detail in other sections of the labeling:
 
-- Increased mortality in elderly patients with dementia-related psychosis [see Boxed Warning and Warnings and Precautions (5.1)]
-- Cerebrovascular adverse events, including stroke, in elderly patients with dementia-related psychosis [see Warnings and Precautions (5.2)]
-- Neuroleptic malignant syndrome [see Warnings and Precautions (5.3)]
-- QT prolongation [see Warnings and Precautions (5.4)]
-- Tardive dyskinesia [see Warnings and Precautions (5.5)]
-- Metabolic changes [see Warnings and Precautions (5.6)]
-- Hyperprolactinemia [see Warnings and Precautions (5.7)]
-- Potential for gastrointestinal obstruction [see Warnings and Precautions (5.8)]
-- Orthostatic hypotension and syncope [see Warnings and Precautions (5.9)]
-- Falls [see Warnings and Precautions (5.10)]
-- Leukopenia, neutropenia, and agranulocytosis [see Warnings and Precautions (5.11)]
-- Potential for cognitive and motor impairment [see Warnings and Precautions (5.12)]
-- Seizures [see Warnings and Precautions (5.13)]
-- Dysphagia [see Warnings and Precautions (5.14)]
-- Priapism [see Warnings and Precautions (5.15)]
-- Thrombotic thrombocytopenic purpura (TTP) [see Warnings and Precautions (5.16)]
-- Disruption of body temperature regulation [see Warnings and Precautions (5.17)]
-- Antiemetic effect [see Warnings and Precautions (5.18)]
-- Patients with Concomitant illness [see Warnings and Precautions(5.19)]
+- •Increased mortality in elderly patients with dementia-related psychosis [see Boxed Warning and Warnings and Precautions (5.1)]
+- •Cerebrovascular adverse reactions, including stroke, in elderly patients with dementia-related psychosis [see Warnings and Precautions (5.2)]
+- •Neuroleptic malignant syndrome [see Warnings and Precautions (5.3)]
+- •QT prolongation [see Warnings and Precautions (5.4)]
+- •Tardive dyskinesia [see Warnings and Precautions (5.5)]
+- •Metabolic changes [see Warnings and Precautions (5.6)]
+- •Hyperprolactinemia [see Warnings and Precautions (5.7)]
+- •Potential for gastrointestinal obstruction [see Warnings and Precautions (5.8)]
+- •Orthostatic hypotension and syncope [see Warnings and Precautions (5.9)]
+- •Falls [see Warnings and Precautions (5.10)]
+- •Leukopenia, neutropenia, and agranulocytosis [see Warnings and Precautions (5.11)]
+- •Potential for cognitive and motor impairment [see Warnings and Precautions (5.12)]
+- •Seizures [see Warnings and Precautions (5.13)]
+- •Dysphagia [see Warnings and Precautions (5.14)]
+- •Priapism [see Warnings and Precautions (5.15)]
+- •Thrombotic thrombocytopenic purpura (TTP) [see Warnings and Precautions (5.16)]
+- •Disruption of body temperature regulation [see Warnings and Precautions (5.17)]
+- •Antiemetic effect [see Warnings and Precautions (5.18)]
+- •Patients with Concomitant illness [see Warnings and Precautions (5.19)]
 
-The most common adverse reactions in clinical trials in adult in subjects with schizophrenia (reported in 5% or more of subjects treated with paliperidone and at least twice the placebo rate in any of the dose groups) were extrapyramidal symptoms, tachycardia, and akathisia.The most common adverse reactions in clinical trials in adult patients with schizoaffective disorder (reported in 5% or more of subjects treated with paliperidone and at least twice the placebo rate) were extrapyramidal symptoms, somnolence, dyspepsia, constipation, weight increased, and nasopharyngitis.
+The most common adverse reactions in clinical trials in adult subjects with schizophrenia (reported in 5% or more of subjects treated with paliperidone and at least twice the placebo rate in any of the dose groups) were extrapyramidal symptoms, tachycardia, and akathisia.
+The most common adverse reactions in clinical trials in adult patients with schizoaffective disorder (reported in 5% or more of subjects treated with paliperidone and at least twice the placebo rate) were extrapyramidal symptoms, somnolence, dyspepsia, constipation, weight increased, and nasopharyngitis.
 
 The most common adverse reactions that were associated with discontinuation from clinical trials in adult subjects with schizophrenia (causing discontinuation in 2% of paliperidone-treated subjects) were nervous system disorders.
 The most common adverse reactions that were associated with discontinuation from clinical trials in adult subjects with schizoaffective disorder were gastrointestinal disorders, which resulted in discontinuation in 1% of paliperidone -treated subjects.
@@ -33,6 +34,7 @@ The most common adverse reactions that were associated with discontinuation from
 The safety of paliperidone was evaluated in 1205 adult subjects with schizophrenia who participated in three placebo-controlled, 6-week, double-blind trials, of whom 850 subjects received paliperidone at fixed doses ranging from 3 mg to 12 mg once daily.
 The information presented in this section was derived from pooled data from these three trials.
 Additional safety information from the placebo-controlled phase of the long-term maintenance study, in which subjects received paliperidone at daily doses within the range of 3 mg to 15 mg (n=104), is also included.
+
 The safety of paliperidone was evaluated in 150 adolescent subjects 12-17 years of age with schizophrenia who received paliperidone in the dose range of 1.5 mg to 12 mg/day in a 6-week, double-blind, placebo-controlled trial.
 
 The safety of paliperidone was also evaluated in 622 adult subjects with schizoaffective disorder who participated in two placebo-controlled, 6-week, double-blind trials.
@@ -54,7 +56,7 @@ Adult Patients with Schizophrenia
 Table 4 enumerates the pooled incidences of adverse reactions reported in the three placebo-controlled, 6-week, fixed-dose studies in adults, listing those that occurred in 2% or more of subjects treated with paliperidone in any of the dose groups, and for which the incidence in paliperidone-treated subjects in any of the dose groups was greater than the incidence in subjects treated with placebo.
 
 Table 4.
-Adverse Reactions Reported by ≥ 2% of Paliperidone –Treated Adult Subjects with Schizophrenia in Three Short-Term, Fixed-Dose,Placebo-Controlled Clinical Trials *
+Adverse Reactions Reported by ≥ 2% of Paliperidone –Treated Adult Subjects with Schizophrenia in Three Short-Term, Fixed-Dose, Placebo-Controlled Clinical Trials *
 
 |  | Percentage of Patients Paliperidone extended-release Tablets |  |  |  |  |
 | --- | --- | --- | --- | --- | --- |
@@ -73,17 +75,11 @@ Adolescent Patients with Schizophrenia
 Table 5 lists the adverse reactions reported in a fixed-dose, placebo-controlled study in adolescent subjects 12-17 years of age with schizophrenia, listing those that occurred in 2% or more of subjects treated with paliperidone in any of the dose groups, and for which the incidence in paliperidone-treated subjects in any of the dose groups was greater than the incidence in subjects treated with placebo.
 
 Table 5.
-Adverse Reactions Reported by ≥ 2% of Paliperidone-Treated Adolescent Subjects with Schizophrenia in a Fixed-Dose, Placebo-Controlled Clinical Trial Table includes adverse reactions that were reported in 2% or more of subjects in any of the paliperidone dose groups and which occurred at greater incidence than in the placebo group.
-Extrapyramidal symptoms includes the terms oculogyric crisis, muscle rigidity, musculoskeletal stiffness, nuchal rigidity, torticollis, trismus, bradykinesia, cogwheel rigidity, dyskinesia, dystonia, extrapyramidal disorder, hypertonia, hypokinesia, muscle contractions involuntary, parkinsonian gait, parkinsonism, tremor, and restlessness.
-Somnolence includes the terms somnolence, sedation, and hypersomnia.
-Insomnia includes the terms insomnia and initial insomnia.
-Tachycardia includes the terms tachycardia, sinus tachycardia, and heart rate increased.
-Hypertension includes the terms hypertension and blood pressure increased.
-Gynecomastia includes the terms gynecomastia and breast swelling.
+Adverse Reactions Reported by ≥ 2% of Paliperidone-Treated Adolescent Subjects with Schizophrenia in a Fixed-Dose, Placebo-Controlled Clinical Trial *
 
-|  |  | Percentage of Patients |  |  |  |
+|  | Percentage of Patients |  |  |  |  |
 | --- | --- | --- | --- | --- | --- |
-|  |  | Paliperidone extended-release tablets |  |  |  |
+|  | Paliperidone extended-release tablets |  |  |  |  |
 | Body System or Organ Class Dictionary-Derived Term | Placebo (N=51) | 1.5 mg once daily (N=54) | 3 mg once daily (N=16) | 6 mg once daily (N=45) | 12 mg once daily (N=35) |
 | Total percentage of subjects with adverse reactions | 43 | 37 | 50 | 58 | 74 |
 | Cardiac disorders Tachycardia | 0 | 0 | 6 | 9 | 6 |
@@ -97,12 +93,38 @@ Gynecomastia includes the terms gynecomastia and breast swelling.
 | Reproductive system and breast disorders Amenorrhea Galactorrhea Gynecomastia | 0 0 0 | 0 0 0 | 6 0 0 | 0 4 0 | 0 0 3 |
 | Respiratory, thoracic and mediastinal disorders Epistaxis | 0 | 0 | 0 | 2 | 0 |
 
+* Table includes adverse reactions that were reported in 2% or more of subjects in any of the paliperidone dose groups and which occurred at greater incidence than in the placebo group.
+Extrapyramidal symptoms includes the terms oculogyric crisis, muscle rigidity, musculoskeletal stiffness, nuchal rigidity, torticollis, trismus, bradykinesia, cogwheel rigidity, dyskinesia, dystonia, extrapyramidal disorder, hypertonia, hypokinesia, muscle contractions involuntary, parkinsonian gait, parkinsonism, tremor, and restlessness.
+Somnolence includes the terms somnolence, sedation, and hypersomnia.
+Insomnia includes the terms insomnia and initial insomnia.
+Tachycardia includes the terms tachycardia, sinus tachycardia, and heart rate increased.
+Hypertension includes the terms hypertension and blood pressure increased.
+Gynecomastia includes the terms gynecomastia and breast swelling.
+
 ## 6.3 Commonly-Observed Adverse Reactions in Double-Blind, Placebo-Controlled Clinical Trials – Schizoaffective Disorder in Adults.
 
 Table 6 enumerates the pooled incidences of adverse reactions reported in the two placebo-controlled 6-week studies in adult subjects, listing those that occurred in 2% or more of subjects treated with paliperidone and for which the incidence in paliperidone-treated subjects was greater than the incidence in subjects treated with placebo.
 
 Table 6.
-Adverse Drug Reactions Reported by ≥ 2% of Paliperidone-Treated Adult Subjects with Schizoaffective Disorder in Two Double-Blind, Placebo-Controlled Clinical Trials Table includes adverse reactions that were reported in 2% or more of subjects in any of the paliperidone dose groups and which occurred at greater incidence than in the placebo group.
+Adverse Drug Reactions Reported by ≥ 2% of Paliperidone-Treated Adult Subjects with Schizoaffective Disorder in Two Double-Blind, Placebo-Controlled Clinical Trials *
+
+| Body System or Organ Class Dictionary-Derived Term | Percentage of Patients |  |  |  |
+| --- | --- | --- | --- | --- |
+| Placebo | Paliperidone 3-6 mg once-daily fixed-dose range | Paliperidone 9-12 mg once-daily fixed-dose range | Paliperidone 3-12 mg once-daily flexible dose range |  |
+| (N=202) | (N=108) | (N=98) | (N=214) |  |
+| Total percentage of subjects with adverse reactions | 32 | 48 | 50 | 43 |
+| Cardiac disorders Tachycardia | 2 | 3 | 1 | 2 |
+| Gastrointestinal disorders Abdominal Discomfort/Abdominal pain upper Constipation Dyspepsia Nausea Stomach discomfort | 1 2 2 6 1 | 1 4 5 8 0 | 0 5 6 8 1 | 3 4 6 5 2 |
+| General disorders Asthenia | 1 | 3 | 4 | <1 |
+| Infections and Infestations Nasopharyngitis Rhinitis Upper respiratory tract infection | 1 0 1 | 2 1 2 | 5 3 2 | 3 1 2 |
+| Investigations Weight increased | 1 | 5 | 4 | 4 |
+| Metabolism and nutrition disorders Decreased appetite Increased appetite | <1 <1 | 1 3 | 0 2 | 2 2 |
+| Musculoskeletal and connective tissue disorders Back pain Myalgia | 1 <1 | 1 2 | 1 4 | 3 1 |
+| Nervous system disorders Akathisia Dysarthria Extrapyramidal symptoms Somnolence | 4 0 8 5 | 4 1 20 12 | 6 4 17 12 | 6 2 12 8 |
+| Psychiatric disorders Sleep disorder | <1 | 2 | 3 | 0 |
+| Respiratory, thoracic and mediastinal disorders Cough Pharyngolargeal pain | 1 <1 | 1 0 | 3 2 | 1 1 |
+
+* Table includes adverse reactions that were reported in 2% or more of subjects in any of the paliperidone dose groups and which occurred at greater incidence than in the placebo group.
 Data are pooled from two studies.
 One study included once-daily paliperidone doses of 6 mg (with the option to reduce to 3 mg) and 12 mg (with the option to reduce to 9 mg).
 The second study included flexible once-daily doses of 3 to 12 mg.
@@ -110,44 +132,6 @@ Among the 420 subjects treated with paliperidone, 230 (55%) received paliperidon
 Extrapyramidal symptoms includes the terms bradykinesia, drooling, dyskinesia, dystonia, hypertonia, muscle rigidity, muscle twitching, oculogyration, parkinsonian gait, parkinsonism, restlessness, and tremor.
 Somnolence includes the terms sedation and somnolence.
 Tachycardia includes the terms tachycardia, sinus tachycardia, and heart rate increased.
-
-|  | Percentage of Patients |  |  |  |
-| --- | --- | --- | --- | --- |
-|  | Placebo | Paliperidone 3-6 mg once-daily fixed-dose range | Paliperidone 9-12 mg once-daily fixed-dose range | Paliperidone 3-12 mg once-daily flexible dose range |
-| Body System or Organ Class Dictionary-Derived Term | (N=202) | (N=108) | (N=98) | (N=214) |
-| Total percentage of subjects with adverse reactions | 32 | 48 | 50 | 43 |
-| Cardiac disorders |  |  |  |  |
-| Tachycardia | 2 | 3 | 1 | 2 |
-| Gastrointestinal disorders |  |  |  |  |
-| Abdominal Discomfort/Abdominal pain upper | 1 | 1 | 0 | 3 |
-| Constipation | 2 | 4 | 5 | 4 |
-| Dyspepsia | 2 | 5 | 6 | 6 |
-| Nausea | 6 | 8 | 8 | 5 |
-| Stomach discomfort | 1 | 0 | 1 | 2 |
-| General disorders |  |  |  |  |
-| Asthenia | 1 | 3 | 4 | <1 |
-| Infections and Infestations |  |  |  |  |
-| Nasopharyngitis | 1 | 2 | 5 | 3 |
-| Rhinitis | 0 | 1 | 3 | 1 |
-| Upper respiratory tract infection | 1 | 2 | 2 | 2 |
-| Investigations |  |  |  |  |
-| Weight increased | 1 | 5 | 4 | 4 |
-| Metabolism and nutrition disorders |  |  |  |  |
-| Decreased appetite | <1 | 1 | 0 | 2 |
-| Increased appetite | <1 | 3 | 2 | 2 |
-| Musculoskeletal and connective tissue disorders |  |  |  |  |
-| Back pain | 1 | 1 | 1 | 3 |
-| Myalgia | <1 | 2 | 4 | 1 |
-| Nervous system disorders |  |  |  |  |
-| Akathisia | 4 | 4 | 6 | 6 |
-| Dysarthria | 0 | 1 | 4 | 2 |
-| Extrapyramidal symptoms | 8 | 20 | 17 | 12 |
-| Somnolence | 5 | 12 | 12 | 8 |
-| Psychiatric disorders |  |  |  |  |
-| Sleep disorder | <1 | 2 | 3 | 0 |
-| Respiratory, thoracic and mediastinal disorders |  |  |  |  |
-| Cough | 1 | 1 | 3 | 1 |
-| Pharyngolargeal pain | <1 | 0 | 2 | 1 |
 
 Monotherapy versus Adjunctive Therapy
 
@@ -159,8 +143,9 @@ When comparing these 2 subpopulations, only nausea occurred at a greater frequen
 
 Schizophrenia Trials
 
-The percentages of subjects who discontinued due to adverse reactions in the three schizophrenia placebo-controlled, 6-week, fixed-dose studies were 3% and 1% in paliperidone-and placebo-treated subjects, respectively.
+The percentages of subjects who discontinued due to adverse reactions in the three schizophrenia placebo-controlled, 6-week, fixed-dose studies in adults were 3% and 1% in paliperidone-and placebo-treated subjects, respectively.
 The most common reasons for discontinuation were nervous system disorders (2% and 0% in paliperidone-and placebo-treated subjects, respectively).
+
 Among the adverse reactions in the 6-week, fixed-dose, placebo-controlled study in adolescents with schizophrenia, only dystonia led to discontinuation (<1% of paliperidone-treated subjects).
 
 Schizoaffective Disorder Trials
@@ -174,6 +159,7 @@ Schizophrenia Trials
 
 Based on the pooled data from the three placebo-controlled, 6-week, fixed-dose studies in adult subjects with schizophrenia, among the adverse reactions that occurred with a greater than 2% incidence in the subjects treated with paliperidone, the incidences of the following adverse reactions increased with dose: somnolence, orthostatic hypotension, akathisia, dystonia, extrapyramidal disorder, hypertonia, parkinsonism, and salivary hypersecretion.
 For most of these, the increased incidence was seen primarily at the 12 mg dose, and, in some cases, the 9 mg dose.
+
 In the 6-week, fixed-dose, placebo-controlled study in adolescents with schizophrenia, among the adverse reactions that occurred with >2% incidence in the subjects treated with paliperidone, the incidences of the following adverse reactions increased with dose: tachycardia, akathisia, extrapyramidal symptoms, somnolence, and headache.
 
 Schizoaffective Disorder Trials
@@ -182,11 +168,11 @@ In a placebo-controlled, 6-week, high- and low-dose study in adult subjects with
 
 ## 6.6 Demographic Differences
 
-An examination of population subgroups in the three placebo-controlled, 6-week, fixed-dose studies in adult in subjects with schizophrenia and in the two placebo-controlled, 6-week studies in subjects with schizoaffective disorder did not reveal any evidence of clinically relevant differences in safety on the basis of gender or race alone; there was also no difference on the basis of age [see Use in Specific Populations (8.5)].
+An examination of population subgroups in the three placebo-controlled, 6-week, fixed-dose studies in adult subjects with schizophrenia and in the two placebo-controlled, 6-week studies in adult subjects with schizoaffective disorder did not reveal any evidence of clinically relevant differences in safety on the basis of gender or race alone; there was also no difference on the basis of age [see Use in Specific Populations (8.5)].
 
 ## 6.7 Extrapyramidal Symptoms (EPS)
 
-Pooled data from the three placebo-controlled, 6-week, fixed-dose studies in subjects with schizophrenia provided information regarding treatment-emergent EPS.
+Pooled data from the three placebo-controlled, 6-week, fixed-dose studies in adult subjects with schizophrenia provided information regarding treatment-emergent EPS.
 Several methods were used to measure EPS: (1) the Simpson-Angus global score (mean change from baseline) which broadly evaluates Parkinsonism, (2) the Barnes Akathisia Rating Scale global clinical rating score (mean change from baseline) which evaluates akathisia, (3) use of anticholinergic medications to treat emergent EPS (Table 7), and (4) incidence of spontaneous reports of EPS (Table 8).
 For the Simpson-Angus Scale, spontaneous EPS reports and use of anticholinergic medications, there was a dose-related increase observed for the 9 mg and 12 mg doses.
 There was no difference observed between placebo and paliperidone 3 mg and 6 mg doses for any of these EPS measures.
@@ -194,11 +180,11 @@ There was no difference observed between placebo and paliperidone 3 mg and 6 mg 
 Table 7.
 Treatment-Emergent Extrapyramidal Symptoms (EPS) Assessed by Incidence of Ratings Scales and Use of Anticholinergic Medication – Schizophrenia Studies in Adults
 
-|  | Percentage of Patients |  |  |  |  |
+| EPS Group | Percentage of Patients |  |  |  |  |
 | --- | --- | --- | --- | --- | --- |
 | Paliperidone extended-release tablets |  |  |  |  |  |
-|  | Placebo | 3 mg once daily | 6 mg once daily | 9 mg once daily | 12 mg once daily |
-| EPS Group | (N=355) | (N=127) | (N=235) | (N=246) | (N=242) |
+| Placebo | 3 mg once daily | 6 mg once daily | 9 mg once daily | 12 mg once daily |  |
+| (N=355) | (N=127) | (N=235) | (N=246) | (N=242) |  |
 | Parkinsonism For Parkinsonism, percent of patients with Simpson-Angus global score > 0.3 | 9 | 11 | 3 | 15 | 14 |
 | AkathisiaFor Akathisia, percent of patients with Barnes Akathisia Rating Scale global score ≥ 2 | 6 | 6 | 4 | 7 | 9 |
 | Use of Anticholinergic medicationsPercent of patients who received anticholinergic medications to treat emergent EPS | 10 | 10 | 9 | 22 | 22 |
@@ -206,22 +192,18 @@ Treatment-Emergent Extrapyramidal Symptoms (EPS) Assessed by Incidence of Rating
 Table 8.
 Treatment-Emergent Extrapyramidal Symptoms (EPS)-Related Adverse Events by MedDRA Preferred Term – Schizophrenia Studies in Adults
 
-|  |  | Percentage of Patients Paliperidone extended-release Tablets |  |  |  |
-| --- | --- | --- | --- | --- | --- |
-|  | Placebo | 3 mg once daily | 6 mg once daily | 9 mg once daily | 12 mg once daily |
-| EPS Group | (N=355) | (N=127) | (N=235) | (N=246) | (N=242) |
-| Overall percentage of patients with EPS- related AE | 11 | 13 | 10 | 25 | 26 |
-| Dyskinesia | 3 | 5 | 3 | 8 | 9 |
-| Dystonia | 1 | 1 | 1 | 5 | 5 |
-| Hyperkinesia | 4 | 4 | 3 | 8 | 10 |
-| Parkinsonism | 2 | 3 | 3 | 7 | 6 |
-| Tremor | 3 | 3 | 3 | 4 | 3 |
-| Dyskinesia group includes: Dyskinesia, extrapyramidal disorder, muscle twitching, tardive dyskinesia |  |  |  |  |  |
-| Dystonia group includes: Dystonia, muscle spasms, oculogyration, trismus |  |  |  |  |  |
-| Hyperkinesia group includes: Akathisia, hyperkinesia |  |  |  |  |  |
-| Parkinsonism group includes: Bradykinesia, cogwheel rigidity, drooling, hypertonia, hypokinesia, |  |  |  |  |  |
-| muscle rigidity, musculoskeletal stiffness, parkinsonism |  |  |  |  |  |
-| Tremor group includes: Tremor |  |  |  |  |  |
+| EPS Group | Percentage of Patients |  |  |  |  |  |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Paliperidone extended-release Tablets |  |  |  |  |  |  |  |  |  |  |  |
+| Placebo | 3 mg once daily | 6 mg once daily | 9 mg once daily | 12 mg once daily |  |  |  |  |  |  |  |
+| (N=355) | (N=127) | (N=235) | (N=246) | (N=242) |  |  |  |  |  |  |  |
+| Overall percentage of patients with EPS- related AE | 11 | 13 | 10 | 25 | 26 |  |  |  |  |  |  |
+| Dyskinesia | 3 | 5 | 3 | 8 | 9 |  |  |  |  |  |  |
+| Dystonia | 1 | 1 | 1 | 5 | 5 |  |  |  |  |  |  |
+| Hyperkinesia | 4 | 4 | 3 | 8 | 10 |  |  |  |  |  |  |
+| Parkinsonism | 2 | 3 | 3 | 7 | 6 |  |  |  |  |  |  |
+| Tremor | 3 | 3 | 3 | 4 | 3 |  |  |  |  |  |  |
+| Dyskinesia group includes: Dyskinesia, extrapyramidal disorder, muscle twitching, tardive dyskinesia Dystonia group includes: Dystonia, muscle spasms, oculogyration, trismus Hyperkinesia group includes: Akathisia, hyperkinesia Parkinsonism group includes: Bradykinesia, cogwheel rigidity, drooling, hypertonia, hypokinesia, muscle rigidity, musculoskeletal stiffness, parkinsonism Tremor group includes: Tremor |  |  |  |  |  |  |  |  |  |  |  |
 
 Compared to data from the studies in adults subjects with schizophrenia, pooled data from the two placebo-controlled 6-week studies in adult subjects with schizoaffective disorder showed similar types and frequencies of EPS as measured by rating scales, anticholinergic medication use, and spontaneous reports of EPS-related adverse events.
 For subjects with schizoaffective disorder, there was no dose-related increase in EPS observed for parkinsonism with the Simpson-Angus scale or akathisia with the Barnes Akathisia Rating Scale.
@@ -231,22 +213,18 @@ Table 9 shows the EPS data from the pooled schizoaffective disorder trials.
 
 Table 9.Treatment-Emergent Extrapyramidal Symptoms (EPS)-Related Adverse Events by MedDRA Preferred Term – Schizoaffective Disorder Studies in Adults
 
-|  | Percentage of Patients Paliperidone |  |  |  |
-| --- | --- | --- | --- | --- |
-|  | Placebo | 3-6 mg once-daily fixed-dose range | 9-12 mg once-daily fixed-dose range | 3-12 mg once-daily flexible dose |
-| EPS Group | (N=202) | (N=108) | (N=98) | (N=214) |
-| Overall percentage of patients with EPS-related AE | 11 | 23 | 22 | 17 |
-| Dyskinesia | 1 | 3 | 1 | 1 |
-| Dystonia | 1 | 2 | 3 | 2 |
-| Hyperkinesia | 5 | 5 | 8 | 7 |
-| Parkinsonism | 3 | 14 | 7 | 7 |
-| Tremor | 3 | 12 | 11 | 5 |
-| Dyskinesia group includes: Dyskinesia, muscle twitching |  |  |  |  |
-| Dystonia group includes: Dystonia, muscle spasms, oculogyration |  |  |  |  |
-| Hyperkinesia group includes: Akathisia, hyperkinesia, restlessness |  |  |  |  |
-| Parkinsonism group includes: Bradykinesia, drooling, hypertonia, muscle rigidity, muscle |  |  |  |  |
-| tightness, musculoskeletal stiffness, parkinsonian gait, parkinsonism |  |  |  |  |
-| Tremor group includes: Tremor |  |  |  |  |
+| EPS Group | Percentage of Patients |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Paliperidone |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| Placebo | 3-6 mg once-daily fixed-dose range | 9-12 mg once-daily fixed-dose range | 3-12 mg once-daily flexible dose |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| (N=202) | (N=108) | (N=98) | (N=214) |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| Overall percentage of patients with EPS-related AE | 11 | 23 | 22 | 17 |  |  |  |  |  |  |  |  |  |  |  |  |
+| Dyskinesia | 1 | 3 | 1 | 1 |  |  |  |  |  |  |  |  |  |  |  |  |
+| Dystonia | 1 | 2 | 3 | 2 |  |  |  |  |  |  |  |  |  |  |  |  |
+| Hyperkinesia | 5 | 5 | 8 | 7 |  |  |  |  |  |  |  |  |  |  |  |  |
+| Parkinsonism | 3 | 14 | 7 | 7 |  |  |  |  |  |  |  |  |  |  |  |  |
+| Tremor | 3 | 12 | 11 | 5 |  |  |  |  |  |  |  |  |  |  |  |  |
+| Dyskinesia group includes: Dyskinesia, muscle twitching Dystonia group includes: Dystonia, muscle spasms, oculogyration Hyperkinesia group includes: Akathisia, hyperkinesia, restlessness Parkinsonism group includes: Bradykinesia, drooling, hypertonia, muscle rigidity, muscle tightness, musculoskeletal stiffness, parkinsonian gait, parkinsonism Tremor group includes: Tremor |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
 The incidences of EPS-related adverse events in the adolescent schizophrenia studies showed a similar dose-related pattern to those in the adult studies.
 There were notably higher incidences of dystonia, hyperkinesia, tremor, and parkinsonism in the adolescent population as compared to the adult studies (Table 10).
@@ -254,20 +232,16 @@ There were notably higher incidences of dystonia, hyperkinesia, tremor, and park
 Table 10.
 Treatment-Emergent Extrapyramidal Symptoms (EPS)-Related Adverse Events by MedDRA Preferred Term – Schizophrenia Studies in Adolescent Subjects
 
-|  | Percentage of Patients Paliperidone extended-release tablets |  |  |  |  |
-| --- | --- | --- | --- | --- | --- |
-| EPS Group | Placebo (N=51) | 1.5 mg once daily (N=54) | 3 mg once daily (N=16) | 6 mg once daily (N=45) | 12 mg once daily (N=35) |
-| Overall percentage of patients with EPS - related AE | 0 | 6 | 25 | 22 | 40 |
-| Hyperkinesia | 0 | 4 | 6 | 11 | 17 |
-| Dystonia | 0 | 2 | 0 | 11 | 14 |
-| Tremor | 0 | 2 | 6 | 7 | 11 |
-| Parkinsonism | 0 | 0 | 6 | 2 | 14 |
-| Dyskinesia | 0 | 2 | 6 | 2 | 6 |
-| Hyperkinesia group includes: Akathisia |  |  |  |  |  |
-| Dystonia group includes: Dystonia, muscle contracture, oculogyric crisis, tongue paralysis, torticollis |  |  |  |  |  |
-| Tremor group includes: Tremor |  |  |  |  |  |
-| Parkinsonism group includes: Cogwheel rigidity, extrapyramidal disorder, muscle rigidity |  |  |  |  |  |
-| Dyskinesia group includes: Dyskinesia, muscle contractions involuntary |  |  |  |  |  |
+|  | Percentage of Patients Paliperidone extended-release tablets |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| EPS Group | Placebo (N=51) | 1.5 mg once daily (N=54) | 3 mg once daily (N=16) | 6 mg once daily (N=45) | 12 mg once daily (N=35) |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| Overall percentage of patients with EPS-related AE | 0 | 6 | 25 | 22 | 40 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| Hyperkinesia | 0 | 4 | 6 | 11 | 17 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| Dystonia | 0 | 2 | 0 | 11 | 14 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| Tremor | 0 | 2 | 6 | 7 | 11 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| Parkinsonism | 0 | 0 | 6 | 2 | 14 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| Dyskinesia | 0 | 2 | 6 | 2 | 6 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| Hyperkinesia group includes: Akathisia Dystonia group includes: Dystonia, muscle contracture, oculogyric crisis, tongue paralysis, torticollis Tremor group includes: Tremor Parkinsonism group includes: Cogwheel rigidity, extrapyramidal disorder, muscle rigidity Dyskinesia group includes: Dyskinesia, muscle contractions involuntary |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
 Dystonia
 
@@ -278,13 +252,13 @@ An elevated risk of acute dystonia is observed in males and younger age groups.
 
 ## 6.8 Laboratory Test Abnormalities
 
-In the pooled data from the three placebo-controlled, 6-week, fixed-dose studies in subjects with schizophrenia and from the two placebo-controlled, 6-week studies in subjects with schizoaffective disorder, between-group comparisons revealed no medically important differences between paliperidone and placebo in the proportions of subjects experiencing potentially clinically significant changes in routine serum chemistry, hematology, or urinalysis parameters.
+In the pooled data from the three placebo-controlled, 6-week, fixed-dose studies in adult subjects with schizophrenia and from the two placebo-controlled, 6-week studies in adult subjects with schizoaffective disorder, between-group comparisons revealed no medically important differences between paliperidone and placebo in the proportions of subjects experiencing potentially clinically significant changes in routine serum chemistry, hematology, or urinalysis parameters.
 Similarly, there were no differences between paliperidone and placebo in the incidence of discontinuations due to changes in hematology, urinalysis, or serum chemistry, including mean changes from baseline in fasting glucose, insulin, c-peptide, triglyceride, HDL, LDL, and total cholesterol measurements.
 However, paliperidone was associated with increases in serum prolactin [see Warnings and Precautions (5.7)].
 
 ## 6.9 Other Adverse Reactions Observed During Premarketing Evaluation of Paliperidone
 
-The following additional adverse reactions occurred in < 2% of Paliperidone-treated subjects in the above schizophrenia clinical trial datasets.
+The following additional adverse reactions occurred in < 2% of Paliperidone-treated subjects in the above schizophrenia and schizoaffective disorder clinical trial datasets.
 The following also includes additional adverse reactions reported at any frequency by paliperidone-treated subjects who participated in other clinical studies.
 
 Cardiac disorders: bradycardia, palpitations
@@ -321,7 +295,7 @@ Adverse reactions reported during the long-term double-blind phase of this study
 
 ## 6.10 Postmarketing Experience
 
-The following adverse reactions have been identified during postapproval use of paliperidone; because these reactions were reported voluntarily from a population of uncertain size, it is not possible to reliably estimate their frequency: angioedema, priapism, somnambulism, swollen tongue, tardive dyskinesia, urinary incontinence, urinary retention.
+The following adverse reactions have been identified during post-approval use of paliperidone; because these reactions were reported voluntarily from a population of uncertain size, it is not possible to reliably estimate their frequency: angioedema, ileus, priapism, somnambulism, swollen tongue, tardive dyskinesia, urinary incontinence, urinary retention.
 
 ## 6.11 Adverse Reactions Reported With Risperidone
 

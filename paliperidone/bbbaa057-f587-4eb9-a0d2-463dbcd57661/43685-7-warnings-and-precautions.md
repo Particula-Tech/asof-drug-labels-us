@@ -105,6 +105,7 @@ Change in Fasting Glucose from Three Placebo-Controlled, 6-Week, Fixed-Dose Stud
 | Serum Glucose Normal to High (<100 mg/dL to ≥ 126 mg/dL) | 5.1 % (12/236) | 3.2 % (3/93) | 4.5 % (7/156) | 4.8 % (9/187) | 3.8 % (6/157) |
 
 In the uncontrolled, longer-term open-label extension studies, paliperidone was associated with a mean change in glucose of +3.3 mg/dL at Week 24 (n=570) and +4.6 mg/dL at Week 52 (n=314).
+
 Data from the placebo-controlled 6-week study in adolescent subjects (12-17 years of age) with schizophrenia are presented in Table 1b.
 
 Table 1b.
@@ -115,12 +116,9 @@ Change in Fasting Glucose from a Placebo-Controlled 6-Week Study in Adolescent S
 |  | Placebo | 1.5 mg/day | 3 mg/day | 6 mg/day | 12 mg/day |
 |  | Mean change from baseline (mg/dL) |  |  |  |  |
 |  | n=41 | n=44 | n=11 | n=28 | n=32 |
-| Serum Glucose |  |  |  |  |  |
-| Change from baseline | 0.8 | -1.4 | -1.8 | -0.1 | 5.2 |
+| Serum Glucose Change from baseline | 0.8 | -1.4 | -1.8 | -0.1 | 5.2 |
 |  | Proportion of Patients with Shifts |  |  |  |  |
-| Serum Glucose |  |  |  |  |  |
-| Normal to High | 3% | 0% | 0% | 0% | 11% |
-| (<100 mg/dL to ≥126 mg/dL) | (1/32) | (0/34) | (0/9) | (0/20) | (3/27) |
+| Serum Glucose Normal to High (<100 mg/dL to ≥126 mg/dL) | 3% (1/32) | 0% (0/34) | 0% (0/9) | 0% (0/20) | 11% (3/27) |
 
 Dyslipidemia
 
@@ -145,17 +143,12 @@ Change in Fasting Lipids from Three Placebo-Controlled, 6-Week, Fixed-Dose Studi
 | Change from baseline | -22.3 | -18.3 | -12.6 | -10.6 | -15.4 |
 |  | Proportion of Patients with Shifts |  |  |  |  |
 | Cholesterol Normal to High (<200 mg/dL to ≥ 240 mg/dL) | 2.6% (5/194) | 2.8% (2/71) | 5.6% (7/125) | 4.1% (6/147) | 3.1% (4/130) |
-| LDL |  |  |  |  |  |
-| Normal to High | 1.9% | 0.0% | 5.0% | 3.7% | 0.0% |
-| (<100 mg/dL to ≥ 160 mg/dL) | (2/105) | (0/44) | (3/60) | (3/81) | (0/69) |
-| HDL |  |  |  |  |  |
-| Normal to Low | 22.0% | 16.3% | 29.1% | 23.4% | 20.0% |
-| (≥ 40 mg/dL to <40 mg/dL) | (44/200) | (13/80) | (39/134) | (32/137) | (27/135) |
-| Triglycerides |  |  |  |  |  |
-| Normal to High | 5.3% | 11.0% | 8.8% | 8.7% | 4.3% |
-| (<150 mg/dL to ≥ 200 mg/dL) | (11/208) | (9/82) | (12/136) | (13/150) | (6/139) |
+| LDL Normal to High (<100 mg/dL to ≥ 160 mg/dL) | 1.9% (2/105) | 0.0% (0/44) | 5.0% (3/60) | 3.7% (3/81) | 0.0% (0/69) |
+| HDL Normal to Low (≥ 40 mg/dL to <40 mg/dL) | 22.0% (44/200) | 16.3% (13/80) | 29.1% (39/134) | 23.4% (32/137) | 20.0% (27/135) |
+| Triglycerides Normal to High (<150 mg/dL to ≥ 200 mg/dL) | 5.3% (11/208) | 11.0% (9/82) | 8.8% (12/136) | 8.7% (13/150) | 4.3% (6/139) |
 
 In the uncontrolled, longer-term open-label extension studies, paliperidone was associated with a mean change in (a) total cholesterol of -1.5 mg/dL at Week 24 (n=573) and -1.5 mg/dL at Week 52 (n=317), (b) triglycerides of -6.4 mg/dL at Week 24 (n=573) and -10.5 mg/dL at Week 52 (n=317); (c) LDL of -1.9 mg/dL at Week 24 (n=557) and -2.7 mg/dL at Week 52 (n=297); and (d) HDL of +2.2 mg/dL at Week 24 (n=568) and +3.6 mg/dL at Week 52 (n=302).
+
 Data from the placebo-controlled 6-week study in adolescent subjects (12-17 years of age) with schizophrenia are presented in Table 2b.
 
 Table 2b.
@@ -174,22 +167,12 @@ Change in Fasting Lipids from a Placebo-Controlled 6-Week Study in Adolescent Su
 | Triglycerides | n=39 | n=44 | n=11 | n=28 | n=32 |
 | Change from baseline | -8.9 | 3.2 | 17.6 | -5.4 | 3.9 |
 |  | Proportion of Patients with Shifts |  |  |  |  |
-| Cholesterol |  |  |  |  |  |
-| Normal to High | 7% | 4% | 0% | 6% | 11% |
-| (<170 mg/dL to ≥200 mg/dL) | (2/27) | (1/26) | (0/6) | (1/18) | (2/19) |
-| LDL |  |  |  |  |  |
-| Normal to High | 3% | 4% | 14% | 0% | 9% |
-| (<110 mg/dL to ≥130 mg/dL) | (1/32) | (1/25) | (1/7) | (0/22) | (2/22) |
-| HDL |  |  |  |  |  |
-| Normal to Low | 14% | 7% | 29% | 13% | 23% |
-| (≥40 mg/dL to <40 mg/dL) | (4/28) | (2/30) | (2/7) | (3/23) | (5/22) |
-| Triglycerides |  |  |  |  |  |
-| Normal to High | 3% | 5% | 13% | 8% | 7% |
-| (<150 mg/dL to ≥200 mg/dL) | (1/34) | (2/38) | (1/8) | (2/26) | (2/28) |
+| Cholesterol Normal to High (<170 mg/dL to ≥200 mg/dL) | 7% (2/27) | 4% (1/26) | 0% (0/6) | 6% (1/18) | 11% (2/19) |
+| LDL Normal to High (<110 mg/dL to ≥130 mg/dL) | 3% (1/32) | 4% (1/25) | 14% (1/7) | 0% (0/22) | 9% (2/22) |
+| HDL Normal to Low (≥40 mg/dL to <40 mg/dL) | 14% (4/28) | 7% (2/30) | 29% (2/7) | 13% (3/23) | 23% (5/22) |
+| Triglycerides Normal to High (<150 mg/dL to ≥200 mg/dL) | 3% (1/34) | 5% (2/38) | 13% (1/8) | 8% (2/26) | 7% (2/28) |
 
-Weight Gain
-
-Weight gain has been observed with atypical antipsychotic use.
+Weight Gain Weight gain has been observed with atypical antipsychotic use.
 Clinical monitoring of weight is recommended.
 
 Schizophrenia Trials
@@ -199,36 +182,34 @@ Data on mean changes in body weight and the proportion of subjects meeting a wei
 Table 3a.
 Mean Change in Body Weight (kg) and the Proportion of Subjects with ≥ 7% Gain in Body Weight from Three Placebo-Controlled, 6-Week, Fixed-Dose Studies in Adult Subjects with Schizophrenia
 
-|  |  |  | Paliperidone extended-release Tablets |  |  |  |
-| --- | --- | --- | --- | --- | --- | --- |
-|  | Placebo |  | 3 mg/day | 6 mg/day | 9 mg/day | 12 mg/day |
-|  | n=323 |  | n=112 | n=215 | n=235 | n=218 |
-| Weight(kg) |  |  |  |  |  |  |
-| Change from baseline | -0.4 | 0.6 |  | 0.6 | 1.0 | 1.1 |
-| Weight Gain |  |  |  |  |  |  |
-| ≥7% increase from baseline | 5% | 7% |  | 6% | 9% | 9% |
+|  | Paliperidone extended-release Tablets |  |  |  |  |
+| --- | --- | --- | --- | --- | --- |
+|  | Placebo | 3 mg/day | 6 mg/day | 9 mg/day | 12 mg/day |
+|  | n=323 | n=112 | n=215 | n=235 | n=218 |
+| Weight(kg) Change from baseline | -0.4 | 0.6 | 0.6 | 1.0 | 1.1 |
+| Weight Gain ≥7% increase from baseline | 5% | 7% | 6% | 9% | 9% |
 
 In the uncontrolled, longer-term open-label extension studies, paliperidone was associated with a mean change in weight of +1.4 kg at Week 24 (n=63) and +2.6 kg at Week 52 (n=302).
+
 Weight gain in adolescent subjects with schizophrenia was assessed in a 6-week, double-blind, placebo-controlled study and an open-label extension with a median duration of exposure to paliperidone of 182 days.
 Data on mean changes in body weight and the proportion of subjects meeting a weight gain criterion of ≥ 7% of body weight [see Clinical Studies (14.1)] from the placebo-controlled 6-week study in adolescent subjects (12-17 years of age) are presented in Table 3b.
 
 Table 3b.
 Mean Change in Body Weight (kg) and the Proportion of Subjects with ≥ 7% Gain in Body Weight from a Placebo-Controlled 6-Week Study in Adolescent Subjects (12-17 years of age) with Schizophrenia
 
-|  |  | Paliperidone extended-release tablets |  |  |  |
+|  | Paliperidone extended-release tablets |  |  |  |  |
 | --- | --- | --- | --- | --- | --- |
 |  | Placebo | 1.5 mg/day | 3 mg/day | 6 mg/day | 12 mg/day |
 |  | n=51 | n=54 | n=16 | n=45 | n=34 |
-| Weight (kg) |  |  |  |  |  |
-| Change from baseline | 0.0 | 0.3 | 0.8 | 1.2 | 1.5 |
-| Weight Gain |  |  |  |  |  |
-| ≥ 7% increase from baseline | 2% | 6% | 19% | 7% | 18% |
+| Weight (kg) Change from baseline | 0.0 | 0.3 | 0.8 | 1.2 | 1.5 |
+| Weight Gain ≥ 7% increase from baseline | 2% | 6% | 19% | 7% | 18% |
 
 In the open-label long-term study the proportion of total subjects treated with paliperidone with an increase in body weight of ≥ 7% from baseline was 33%.
 When treating adolescent patients with paliperidone, weight gain should be assessed against that expected with normal growth.
 When taking into consideration the median duration of exposure to paliperidone in the open-label study (182 days) along with expected normal growth in this population based on age and gender, an assessment of standardized scores relative to normative data provides a more clinically relevant measure of changes in weight.
 The mean change from open-label baseline to endpoint in standardized score for weight was 0.1 (4% above the median for normative data).
 Based on comparison to the normative data, these changes are not considered to be clinically significant.
+
 Schizoaffective Disorder Trials
 
 In the pooled data from the two placebo-controlled, 6-week studies in adult subjects with schizoaffective disorder, a higher percentage of paliperidone-treated subjects (5%) had an increase in body weight of ≥ 7% compared with placebo-treated subjects (1%).

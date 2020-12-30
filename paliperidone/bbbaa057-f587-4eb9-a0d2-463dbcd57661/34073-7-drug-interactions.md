@@ -18,15 +18,15 @@ No in vivo data are available and the clinical relevance is unknown.
 Pharmacokinetic interaction between lithium and paliperidone is unlikely.
 
 In a drug interaction study, co-administration of paliperidone (12 mg once daily for 5 days) with divalproex sodium extended-release tablets (500 mg to 2000 mg once daily) did not affect the steady-state pharmacokinetics (AUC24h and Cmax,ss) of valproate in 13 patients stabilized on valproate.
-In a clinical study, subjects on a stable dose of valproate showed comparable valproate average plasma concentrations when paliperidone 3-15 mg of paliperidone was added to their existing valproate treatment.
+In a clinical study, subjects on stable doses of valproate had comparable valproate average plasma concentrations when paliperidone 3-15 mg/day was added to their existing valproate treatment.
 
-## 7.2 Potential for Other Drugs to Affect Paliperidopne
+## 7.2 Potential for Other Drugs to Affect Paliperidone
 
 Paliperidone is not a substrate of CYP1A2, CYP2A6, CYP2C9, and CYP2C19, so that an interaction with inhibitors or inducers of these isozymes is unlikely.
 While in vitro studies indicate that CYP2D6 and CYP3A4 may be minimally involved in paliperidone metabolism, in vivo studies do not show decreased elimination by these isozymes and they contribute to only a small fraction of total body clearance.
 In vitro studies have shown that paliperidone is a P-gp substrate.
 
-Co-administration of paliperidone 6 mg once daily with carbamazepine 200 mg twice daily caused a decrease of approximately 37% in the mean steady-state Cmax and AUC of paliperidone.
+Co-administration of paliperidone 6 mg once daily with carbamazepine, a strong inducer of both CYP3A4 and P-glycoprotein (P-gp), at 200 mg twice daily caused a decrease of approximately 37% in the mean steady-state Cmax and AUC of paliperidone.
 This decrease is caused, to a substantial degree, by a 35% increase in renal clearance of paliperidone.
 A minor decrease in the amount of drug excreted unchanged in the urine suggests that there was little effect on the CYP metabolism or bioavailability of paliperidone during carbamazepine co-administration.
 On initiation of carbamazepine, the dose of paliperidone should be re-evaluated and increased if necessary.

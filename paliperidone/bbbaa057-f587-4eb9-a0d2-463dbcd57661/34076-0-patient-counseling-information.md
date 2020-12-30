@@ -8,7 +8,7 @@ Patients should be advised that there is risk of orthostatic hypotension, partic
 
 Interference with Cognitive and Motor Performance
 
-As paliperidone has the potential to impair judgment, thinking, or motor skills, patients should be cautioned about operating hazardous machinery, including automobiles, until they are reasonably certain that paliperidone therapy does not affect them adversely [see Warnings and Precautions (5.11)].
+As paliperidone has the potential to impair judgment, thinking, or motor skills, patients should be cautioned about operating hazardous machinery, including automobiles, until they are reasonably certain that paliperidone therapy does not affect them adversely [see Warnings and Precautions (5.12)].
 
 Concomitant Medication
 
@@ -28,8 +28,6 @@ Patients should be informed that paliperidone extended-release tablets should be
 Tablets should not be chewed, divided, or crushed.
 [see Dosage and Administration (2.3)].
 
-Paliperidone extended-release tablets
-
 Pregnancy
 
 Advise patients to notify their healthcare provider if they become pregnant or intend to become pregnant during treatment with paliperidone.
@@ -38,34 +36,19 @@ Advise patients that there is a pregnancy registry that monitors pregnancy outco
 
 Lactation
 
-Advise breastfeeding women using palipeirdone to monitor infants for somnolence, failure to thrive, jitteriness, and extrapyramidal symptoms (tremors and abnormal muscle movements) and to seek medical care if they notice these signs [see USE IN SPECIFIC POPULATIONS (8.2)].
+Advise breastfeeding women using paliperidone to monitor infants for somnolence, failure to thrive, jitteriness, and extrapyramidal symptoms (tremors and abnormal muscle movements) and to seek medical care if they notice these signs [see USE IN SPECIFIC POPULATIONS (8.2)].
 
 Infertility
 
-Advise females of reproductive potential that INVEGA® may impair fertility due to an increase in serum prolactin levels.
+Advise females of reproductive potential that paliperidone may impair fertility due to an increase in serum prolactin levels.
 The effects on fertility are reversible [see USE IN SPECIFIC POPULATIONS (8.3)].
 
 Paliperidone extended-release tablets
 
 Product of India
 
-Manufactured By:
+Manufactured by: Inventia Healthcare Limited, F1-F1/1-F75/1, Additional Ambernath MIDC, Ambernath (East) - 421506 Dist.-Thane, Maharashtra, INDIA.
 
-Inventia Healthcare Limited
+Distributed by: ANI Pharmaceuticals, Inc. Baudette, MN 56623
 
-Plot No.F1 & F-1/1, Additional Ambernath M.I.D.C.,
-
-Ambernath (East)-421506,
-
-Dist.
-Thane, Maharashtra, India
-
-Distributed By:
-
-Amerigen Pharmaceuticals, Inc.
-
-Lyndhurst, NJ 07071 USA
-
-OS1041/00
-
-Revised: November 2019
+Revised: February 2020 10307 Rev 02/20

@@ -16,7 +16,9 @@ The maximum recommended dose is 12 mg/day.
 In a longer-term study, paliperidone has been shown to be effective in delaying time to relapse in patients with schizophrenia who were stabilized on paliperidone for 6 weeks [see Clinical Studies (14)].
 Paliperidone should be prescribed at the lowest effective dose for maintaining clinical stability and the physician should periodically reevaluate the long-term usefulness of the drug in individual patients.
 
-Adolescents (12-17 years of age) The recommended starting dose of paliperidone extended-release tablets for the treatment of schizophrenia in adolescents 12-17 years of age is 3 mg administered once daily.
+Adolescents (12-17 years of age)
+
+The recommended starting dose of paliperidone extended-release tablets for the treatment of schizophrenia in adolescents 12-17 years of age is 3 mg administered once daily.
 Initial dose titration is not required.
 Dose increases, if considered necessary, should be made only after clinical reassessment and should occur at increments of 3 mg/day at intervals of more than 5 days.
 Prescribers should be mindful that, in the adolescent schizophrenia study, there was no clear enhancement to efficacy at the higher doses, i.e., 6 mg for subjects weighing less than 51 kg and 12 mg for subjects weighing 51 kg or greater, while adverse events were dose-related.

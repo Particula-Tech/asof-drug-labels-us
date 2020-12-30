@@ -33,7 +33,9 @@ The study was carried out in the US, India, Romania, Russia, and Ukraine, and in
 Eligible subjects were randomly assigned to 1 of 4 treatment groups: a placebo group or paliperidone Low, Medium, or High dose groups.
 Doses were administered based on body weight to minimize the risk of exposing lower-weight adolescents to high doses of paliperidone.
 Subjects weighing between 29 kg and less than 51 kg at the baseline visit were randomly assigned to receive placebo or 1.5 mg (Low dose), 3 mg (Medium dose), or 6 mg (High dose) of paliperidone daily, and subjects weighing at least 51 kg at the baseline visit were randomly assigned to receive placebo or 1.5 mg (Low dose), 6 mg (Medium dose), or 12 mg (High dose) of paliperidone daily.
-Dosing was in the morning without regard to meals.Efficacy was evaluated using PANSS.
+Dosing was in the morning without regard to meals.
+
+Efficacy was evaluated using PANSS.
 Overall, this study demonstrated the efficacy of paliperidone in adolescents with schizophrenia in the dose range of 3 to 12 mg/day.
 Doses within this broad range were shown to be effective, however, there was no clear enhancement to efficacy at the higher doses, i.e., 6 mg for subjects weighing less than 51 kg and 12 mg for subjects weighing 51 kg or greater.
 Although paliperidone was adequately tolerated within the dose range of 3 to 12 mg/day, adverse events were dose related.
