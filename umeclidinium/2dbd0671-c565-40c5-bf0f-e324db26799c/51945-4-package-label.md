@@ -17,7 +17,7 @@ Each blister on the other strip contains 25 mcg of vilanterol, magnesium stearat
 
 1 ELLIPTA Inhaler containing 30 doses (60 blisters total)
 
-©2019 GSK group of companies or its licensor.
+©2020 GSK group of companies or its licensor.
 
-1. 62000000041323 Rev.
-   7/19
+1. 62000000056992 Rev.11/20
+2. 
