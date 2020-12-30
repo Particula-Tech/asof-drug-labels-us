@@ -8,6 +8,3 @@ Leucovorin is a water soluble form of reduced folate in the folate group; it is 
 These tablets are intended for oral administration only.
 
 The structural formula of leucovorin calcium is:
-
-C20H21CaN7O7 M.W.
-511.51

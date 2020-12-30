@@ -39,6 +39,6 @@ References
 
 Distr. by: West-Ward Pharmaceuticals Corp. Eatontown, NJ 07724
 
-1. 4055309//06
+1. 4055309//07
 
-Revised March 2016
+Revised October 2020
