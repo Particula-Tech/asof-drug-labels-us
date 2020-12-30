@@ -47,4 +47,4 @@ Amneal Pharmaceuticals LLC
 Bridgewater, NJ 08807
 
 Rev.
-06-2017-00
+08-2018-02

@@ -13,8 +13,8 @@ What is the most important information I should know about isotretinoin capsules
 - Isotretinoin capsules may cause serious mental health problems.
 
 1. Birth defects (deformed babies), loss of a baby before birth (miscarriage), death of the baby and early (premature) births.
-   Female patients who are pregnant or who plan to become pregnant must not take isotretinoin capsules.
-   Female patients must not get pregnant: If you get pregnant while taking isotretinoin capsules, stop taking it right away and call your doctor.
+   Patients who are pregnant or who plan to become pregnant must not take isotretinoin capsules.
+   Patients must not become pregnant: If you become pregnant while taking isotretinoin capsules, stop taking it right away and call your doctor.
    Doctors and patients should report all cases of pregnancy to:
    - for one month before starting isotretinoin capsules
    - while taking isotretinoin capsules
@@ -120,7 +120,7 @@ How should I take isotretinoin capsules?
   Before prescribing isotretinoin capsules, your doctor will:
 - explain the iPLEDGE Program to you
 - have you sign the Patient Information/Informed Consent form (for all patients).
-  Female patients who can get pregnant must also sign another consent form.
+  Patients who can become pregnant must also sign another consent form.
 
 You will not be prescribed isotretinoin capsules if you cannot agree to or follow all the instructions of the iPLEDGE Program.
 
@@ -134,31 +134,31 @@ You will not be prescribed isotretinoin capsules if you cannot agree to or follo
   Do not chew or suck on the capsule.
   Isotretinoin capsules can hurt the tube that connects your mouth to your stomach (esophagus) if it is not swallowed whole.
 - If you miss a dose, just skip that dose.
-  Do not take two doses at the same time.
+  Do not take 2 doses at the same time.
 - If you take too much isotretinoin capsules or overdose, call your doctor or poison control center right away.
 - Your acne may get worse when you first start taking isotretinoin capsules.
   This should last only a short while.
   Talk with your doctor if this is a problem for you.
 - You must return to your doctor as directed to make sure you don’t have signs of serious side effects.
   Your doctor may do blood tests to check for serious side effects from isotretinoin capsules.
-  Female patients who can get pregnant will get a pregnancy test each month.
-- Female patients who can get pregnant must agree to use two separate forms of effective birth control at the same time one month before, while taking, and for one month after taking isotretinoin capsules.
-  You must access the iPLEDGE system to answer questions about the program requirements and to enter your two chosen forms of birth control.
+  Patients who can become pregnant will get a pregnancy test each month.
+- Patients who can become pregnant must agree to use two separate forms of effective birth control at the same time one month before, while taking, and for one month after taking isotretinoin capsules.
+  You must access the iPLEDGE program system to answer questions about the program requirements and to enter your two chosen methods of birth control.
   To access the iPLEDGE system, go to www.ipledgeprogram.com or call 1-866-495-0654.
 
 You must talk about effective birth control methods with your doctor or go for a free visit to talk about birth control with another doctor or family planning expert.
 Your doctor can arrange this free visit, which will be paid for by the company that makes isotretinoin capsules.
 
-If you have sex at any time without using two forms of effective birth control, get pregnant, or miss your expected period, stop using isotretinoin capsules and call your doctor right away.
+If you have sex at any time without using two forms of effective birth control, become pregnant, or miss your expected period, stop using isotretinoin capsules and call your doctor right away.
 
 What should I avoid while taking isotretinoin capsules?
 
-- Do not get pregnant while taking isotretinoin capsules and for one month after stopping isotretinoin capsules.
+- Do not become pregnant while taking isotretinoin capsules and for one month after stopping isotretinoin capsules.
   See "What is the most important information I should know about isotretinoin capsules?”
-- Do not breast-feed while taking isotretinoin capsules and for one month after stopping isotretinoin capsules.
+- Do not breast feed while taking isotretinoin capsules and for one month after stopping isotretinoin capsules.
   We do not know if isotretinoin can pass through your milk and harm the baby.
 - Do not give blood while you take isotretinoin capsules and for one month after stopping isotretinoin capsules.
-  If someone who is pregnant gets your donated blood, her baby may be exposed to isotretinoin capsules and may be born with birth defects.
+  If someone who is pregnant gets your donated blood, their baby may be exposed to isotretinoin capsules and may be born with birth defects.
 - Do not take other medicines or herbal products with isotretinoin capsules unless you talk to your doctor.
   See “What should I tell my doctor before taking isotretinoin capsules?”
 - Do not drive at night until you know if isotretinoin capsules have affected your vision.
@@ -205,7 +205,7 @@ What are the possible side effects of isotretinoin capsules?
 - yellowing of your skin or eyes
 - dark urine
 - bone and muscle problems.
-  Isotretinoin capsules may affect bones, muscles, and ligaments and cause pain in your joints or muscles.
+  Isotretinoin capsules may affect bones, muscles and ligaments and cause pain in your joints or muscles.
   Tell your doctor if you plan hard physical activity during treatment with isotretinoin capsules.
   Tell your doctor if you get:
 - back pain
@@ -251,7 +251,7 @@ You may report side effects to FDA at 1-800-FDA-1088 or Amneal Pharmaceuticals a
 
 How should I store isotretinoin capsules?
 
-- Store isotretinoin capsules at 20° to 25°C (68° to 77°F) [see USP Controlled Room Temperature].
+- Store isotretinoin capsules at 20° to 25°C (68° to 77°F).
   Protect from light.
 - Keep isotretinoin capsules and all medicines out of the reach of children.
 
@@ -286,4 +286,4 @@ Dilantin is a registered trademark of Warner-Lambert Company LLC.
 Distributed by: Amneal Pharmaceuticals LLC Bridgewater, NJ 08807
 
 Rev.
-04-2018-01
+08-2018-02

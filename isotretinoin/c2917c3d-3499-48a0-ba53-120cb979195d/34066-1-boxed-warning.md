@@ -1,6 +1,6 @@
 # CONTRAINDICATIONS AND WARNINGS
 
-Isotretinoin must not be used by female patients who are or may become pregnant.
+Isotretinoin must not be used by patients who are or may become pregnant.
 There is an extremely high risk that severe birth defects will result if pregnancy occurs while taking isotretinoin in any amount, even for short periods of time.
 Potentially any fetus exposed during pregnancy can be affected.
 There are no accurate means of determining whether an exposed fetus has been affected.
@@ -13,7 +13,7 @@ Documented external abnormalities include: skull abnormality; ear abnormalities 
 Documented internal abnormalities include: CNS abnormalities (including cerebral abnormalities, cerebellar malformation, hydrocephalus, microcephaly, cranial nerve deficit); cardiovascular abnormalities; thymus gland abnormality; parathyroid hormone deficiency.
 In some cases death has occurred with certain of the abnormalities previously noted.
 
-If pregnancy does occur during treatment of a female patient who is taking isotretinoin, isotretinoin must be discontinued immediately and she should be referred to an Obstetrician-Gynecologist experienced in reproductive toxicity for further evaluation and counseling.
+If pregnancy does occur during treatment of a patient who is taking isotretinoin, isotretinoin must be discontinued immediately and the patient should be referred to an Obstetrician-Gynecologist experienced in reproductive toxicity for further evaluation and counseling.
 
 Special Prescribing Requirements
 
