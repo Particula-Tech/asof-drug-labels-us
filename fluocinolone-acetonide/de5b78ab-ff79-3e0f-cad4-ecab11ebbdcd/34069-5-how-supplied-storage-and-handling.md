@@ -10,7 +10,7 @@ Rx Only
 
 Store at controlled room temperature 15°-30° C (59°-86° F).
 
-Manufactured by: G & W Laboratories, Inc. 111 Coolidge Street South Plainfield, NJ 07080
+Manufactured for: Cosette Pharmaceuticals, Inc. 111 Coolidge Street South Plainfield, NJ 07080
 
-Rev.
-08/12 8-FLUOGW4
+GW7317 Iss.
+08/2019 8-FLUOCPLNC1
