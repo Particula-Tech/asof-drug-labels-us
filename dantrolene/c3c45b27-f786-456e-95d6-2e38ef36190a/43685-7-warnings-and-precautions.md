@@ -34,13 +34,11 @@ Female rats at the highest dose level showed an increased incidence of hepatic l
 
 The only drug-related effect seen in a 30-month study in Fischer-344 rats was a dose-related reduction in the time of onset of mammary and testicular tumors.
 A 24-month study in HaM/ICR mice revealed no evidence of carcinogenic activity.
-Carcinogenicity in humans cannot be fully excluded, so that this possible risk of chronic administration must be weighed against the benefits of the drug (i.e. after a brief trial) for the individual patient.
+Carcinogenicity in humans cannot be fully excluded, so that this possible risk of chronic administration must be weighed against the benefits of the drug (i.e., after a brief trial) for the individual patient.
 
 Dantrolene sodium has produced positive results in the Ames S. Typhimurium bacterial mutagenesis assay in the presence and absence of a liver activating system.
 
 ## Pregnancy
-
-### Pregnancy Category C
 
 Adequate animal reproduction studies have not been conducted with dantrolene sodium.
 It is also not known whether dantrolene sodium can cause fetal harm when administered to a pregnant woman or can affect reproduction capacity.

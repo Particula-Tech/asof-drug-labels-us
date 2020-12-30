@@ -1,7 +1,7 @@
 # CLINICAL PHARMACOLOGY
 
 In isolated nerve-muscle preparation, dantrolene sodium has been shown to produce relaxation by affecting the contractile response of the skeletal muscle at a site beyond the myoneural junction, directly on the muscle itself.
-In skeletal muscle, dantrolene sodium dissociates the excitation-contraction coupling, probably by interfering with the release of Ca++ from the sarcoplasmic reticulum.
+In skeletal muscle, dantrolene sodium dissociates the excitation contraction coupling, probably by interfering with the release of Ca++ from the sarcoplasmic reticulum.
 This effect appears to be more pronounced in fast muscle fibers as compared to slow ones, but generally affects both.
 A central nervous system effect occurs, with drowsiness, dizziness, and generalized weakness occasionally present.
 Although dantrolene sodium does not appear to directly affect the CNS, the extent of its indirect effect is unknown.

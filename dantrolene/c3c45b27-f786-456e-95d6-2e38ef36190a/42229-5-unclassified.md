@@ -2,11 +2,10 @@
 
 Rx only
 
-Manufactured by: Bora Pharmaceutical Laboratories Inc. Jhunan, Taiwan
+Manufactured by: Amneal Pharmaceuticals Pvt.
+Ltd. Oral Solid Dosage Unit Ahmedabad 382213, INDIA
 
 Distributed by: Amneal Pharmaceuticals LLC Bridgewater, NJ 08807
 
-373-06
-
 Rev.
-11-2018-00
+10-2020-00
