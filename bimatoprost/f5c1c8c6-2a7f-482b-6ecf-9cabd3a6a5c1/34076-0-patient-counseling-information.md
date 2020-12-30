@@ -20,7 +20,7 @@ When to Seek Physician Advice
 
 Advise patients that if they develop an intercurrent ocular condition (e.g., trauma or infection), have ocular surgery, or develop any ocular reactions, particularly conjunctivitis and eyelid reactions, they should immediately seek their physician’s advice concerning the continued use of bimatoprost ophthalmic solution, 0.03%.
 
-Use with Contact Lenses
+Contact Lens Use
 
 Advise patients that bimatoprost ophthalmic solution, 0.03% contains benzalkonium chloride, which may be absorbed by soft contact lenses.
 Contact lenses should be removed prior to instillation of bimatoprost ophthalmic solution, 0.03% and may be reinserted 15 minutes following its administration.

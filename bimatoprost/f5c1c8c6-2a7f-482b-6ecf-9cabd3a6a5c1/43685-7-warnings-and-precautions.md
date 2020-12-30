@@ -13,7 +13,7 @@ The long term effects of increased pigmentation are not known.
 Iris color change may not be noticeable for several months to years.
 Typically, the brown pigmentation around the pupil spreads concentrically towards the periphery of the iris and the entire iris or parts of the iris become more brownish.
 Neither nevi nor freckles of the iris appear to be affected by treatment.
-While treatment with bimatoprost ophthalmic solution, 0.03% can be continued in patients who develop noticeably increased iris pigmentation, these patients should be examined regularly [see PATIENT COUNSELING INFORMATION (17.1)].
+While treatment with bimatoprost ophthalmic solution, 0.03% can be continued in patients who develop noticeably increased iris pigmentation, these patients should be examined regularly.
 
 ## 5.2 Eyelash Changes
 
@@ -34,9 +34,9 @@ Bimatoprost ophthalmic solution, 0.03% should be used with caution in aphakic pa
 ## 5.5 Bacterial Keratitis
 
 There have been reports of bacterial keratitis associated with the use of multiple-dose containers of topical ophthalmic products.
-These containers had been inadvertently contaminated by patients who, in most cases, had a concurrent corneal disease or a disruption of the ocular epithelial surface [see PATIENT COUNSELING INFORMATION (17.3)].
+These containers had been inadvertently contaminated by patients who, in most cases, had a concurrent corneal disease or a disruption of the ocular epithelial surface.
 
-## 5.6 Use with Contact Lenses
+## 5.6 Contact Lens Use
 
 Bimatoprost ophthalmic solution, 0.03% contains benzalkonium chloride, which may be absorbed by and cause discoloration of soft contact lenses.
 Contact lenses should be removed prior to instillation of bimatoprost ophthalmic solution, 0.03% and may be reinserted 15 minutes following its administration.
