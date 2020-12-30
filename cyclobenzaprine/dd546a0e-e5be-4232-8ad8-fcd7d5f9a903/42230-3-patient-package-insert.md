@@ -39,7 +39,7 @@ Before taking cyclobenzaprine hydrochloride extended-release capsules, tell your
   It is not known if cyclobenzaprine hydrochloride extended-release capsules will harm your unborn baby.
 - are breastfeeding or plan to breastfeed.
   It is not known if cyclobenzaprine passes into your breast milk.
-  Talk to your healthcare provider about the best way to best way to feed your baby if you take cyclobenzaprine hydrochloride extended-release capsules.
+  Talk to your healthcare provider about the best way to feed your baby if you take cyclobenzaprine hydrochloride extended-release capsules.
 
 Tell your healthcare provider about all the medicines you take including prescription and over-the-counter medicines, vitamins, and herbal supplements.
 
@@ -134,8 +134,8 @@ Cyclobenzaprine hydrochloride 30 mg extended-release capsules also contain: FD&C
 
 Distributed by: Manufactured By: Amneal Pharmaceuticals LLC Adare Pharmaceuticals, Inc. Bridgewater, NJ 08807 Vandalia, OH 45377
 
-Revised: 05-2019
+Revised: 09-2020
 
 For more information, go to www.amneal.com or call toll-free 1-877-835-5472.
 
-This Patient Information has been approved by the U.S. Food and Drug Administration Revised: May 2019
+This Patient Information has been approved by the U.S. Food and Drug Administration Revised: September 2020
