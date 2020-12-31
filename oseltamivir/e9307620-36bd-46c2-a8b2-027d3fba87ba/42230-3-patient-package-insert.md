@@ -53,7 +53,7 @@ Do not give oseltamivir phosphate capsules to other people, even if they have th
 It may harm them.
 If you would like more information, talk with your healthcare provider.
 You can ask your healthcare provider or pharmacist for information about oseltamivir phosphate capsules that is written for health professionals.
-For more information, call Macleods Pharma USA, Inc. at 1-888-943-3210.
+For more information, call Macleods Pharma USA, Inc. at 1-888-943-3210 or 1-855-926-3384.
 What are the ingredients in oseltamivir phosphate capsules?
 Active ingredient: oseltamivir phosphate Inactive ingredients: Oseltamivir phosphate capsules: croscarmellose sodium, isopropyl alcohol, povidone, pregelatinised starch, sodium stearyl fumarate and talc.
 30mg capsule shell: gelatin, iron oxide red, iron oxide yellow, titanium dioxide.
@@ -64,7 +64,7 @@ Manufactured for: Macleods Pharma USA, Inc. Plainsboro, NJ 08536
 
 Manufactured by: Macleods Pharmaceuticals Ltd. Baddi, Himachal Pradesh, INDIA
 
-Revised March 2019 This Patient Information has been approved by the U.S. Food and Drug Administration.
+Revised December 2020 This Patient Information has been approved by the U.S. Food and Drug Administration.
 INSTRUCTIONS FOR USE Oseltamivir Phosphate (OH-sel-TAM-i-vir FOS-fate) Capsules, for Oral Use How do I mix the contents of oseltamivir phosphate capsules with sweetened liquids, if directed by my healthcare provider or pharmacist?
 You will need: • the prescribed dose of oseltamivir phosphate capsules • a small bowl • sweetened liquid, such as chocolate syrup (regular or sugar-free), corn syrup, caramel topping, or light brown sugar (dissolved in water) Step 1.
 Open the contents of the prescribed dose of oseltamivir phosphate capsules into a small bowl.
@@ -73,4 +73,4 @@ Add a small amount of the sweetened liquid to the capsule contents.
 Step 3.
 Stir the mixture and give the entire dose of oseltamivir phosphate capsules.
 This Instructions for Use has been approved by the U.S. Food and Drug Administration.
-Revised 03/2019 PM02470904
+Revised 12/2020 PM02470905

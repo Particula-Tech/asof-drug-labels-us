@@ -26,7 +26,7 @@ Manufactured for: Macleods Pharma USA, Inc. Plainsboro, NJ 08536
 
 Manufactured by: Macleods Pharmaceuticals Ltd. Baddi, Himachal Pradesh, INDIA
 
-Revised October 2017
+Revised December 2020
 
 ## .
 

@@ -14,3 +14,6 @@ Available in blister packages of 10 (NDC 33342-258-66).
 Storage
 
 Store capsules at 20° to 25°C (68° to 77°F); excursions permitted within 15° to 30°C (59° to 86°F) [see USP Controlled Room Temperature].
+
+Preserve in well-closed containers.
+Store at controlled room temperature.

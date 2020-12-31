@@ -100,4 +100,4 @@ No clinical trial data are available regarding treatment of influenza in patient
 ## 8.9 Immunocompromised Patients
 
 Efficacy of oseltamivir phosphate for the treatment or prophylaxis of influenza has not been established in immunocompromised patients [see Clinical Studies (14.2)].
-Safety of oseltamivir phosphate for prophylaxis of influenza has been demonstrated for up to 12 weeks for prophylaxis of influenza in immunocompromised patients [see Adverse Reactions (6.1)].
+Safety of oseltamivir phosphate for prophylaxis of influenza has been demonstrated for up to 12 weeks in immunocompromised patients [see Adverse Reactions (6.1)].
