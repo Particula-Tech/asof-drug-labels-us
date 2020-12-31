@@ -4,8 +4,8 @@
 
 IMBRUVICA is indicated for the treatment of adult patients with mantle cell lymphoma (MCL) who have received at least one prior therapy.
 
-Accelerated approval was granted for this indication based on overall response rate.
-Continued approval for this indication may be contingent upon verification and description of clinical benefit in a confirmatory trial [see Clinical Studies (14.1)].
+This indication is approved under accelerated approval based on overall response rate.
+Continued approval for this indication may be contingent upon verification and description of clinical benefit in a confirmatory trial(s) [see Clinical Studies (14.1)].
 
 ## 1.2 Chronic Lymphocytic Leukemia/Small Lymphocytic Lymphoma
 
@@ -23,8 +23,8 @@ IMBRUVICA is indicated for the treatment of adult patients with Waldenström's m
 
 IMBRUVICA is indicated for the treatment of adult patients with marginal zone lymphoma (MZL) who require systemic therapy and have received at least one prior anti-CD20-based therapy.
 
-Accelerated approval was granted for this indication based on overall response rate [see Clinical Studies (14.4)].
-Continued approval for this indication may be contingent upon verification and description of clinical benefit in a confirmatory trial.
+This indication is approved under accelerated approval based on overall response rate [see Clinical Studies (14.4)].
+Continued approval for this indication may be contingent upon verification and description of clinical benefit in a confirmatory trial(s).
 
 ## 1.6 Chronic Graft versus Host Disease
 

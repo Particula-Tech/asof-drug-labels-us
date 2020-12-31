@@ -1,11 +1,11 @@
 # 6 ADVERSE REACTIONS
 
-The following clinically significant adverse reactions are discussed in more detail in other sections of the labeling:
+The following clinically significant adverse reactions are described elsewhere in the labeling:
 
 - Hemorrhage [see Warnings and Precautions (5.1)]
 - Infections [see Warnings and Precautions (5.2)]
 - Cytopenias [see Warnings and Precautions (5.3)]
-- Cardiac Arrhythmias [see Warnings and Precautions (5.4)]
+- Cardiac Arrhythmias and Cardiac Failure [see Warnings and Precautions (5.4)]
 - Hypertension [see Warnings and Precautions (5.5)]
 - Second Primary Malignancies [see Warnings and Precautions (5.6)]
 - Tumor Lysis Syndrome [see Warnings and Precautions (5.7)]
@@ -624,7 +624,8 @@ Cardiovascular Events
 
 Data on cardiovascular events are based on randomized controlled trials with IMBRUVICA (n=2,115; median treatment duration of 19.1 months for 1,157 patients treated with IMBRUVICA and 5.3 months for 958 patients in the control arm).
 The incidence of ventricular tachyarrhythmias (ventricular extrasystoles, ventricular arrhythmias, ventricular fibrillation, ventricular flutter, and ventricular tachycardia) of any grade was 1.0% versus 0.4% and of Grade 3 or greater was 0.3% versus 0% in patients treated with IMBRUVICA compared to patients in the control arm.
-In addition, the incidence of atrial fibrillation and atrial flutter of any grade was 8.4% versus 1.6% and for Grade 3 or greater was 4.0% versus 0.5% in patients treated with IMBRUVICA compared to patients in the control arm.
+The incidence of atrial fibrillation and atrial flutter of any grade was 8.4% versus 1.6% and for Grade 3 or greater was 4.0% versus 0.5% in patients treated with IMBRUVICA compared to patients in the control arm.
+In addition, the incidence of cardiac failure of any grade was 1.7% versus 0.5% and for Grade 3 or greater was 1.2% versus 0.3% in patients treated with IMBRUVICA compared to patients in the control arm.
 
 The incidence of ischemic cerebrovascular events (cerebrovascular accidents, ischemic stroke, cerebral ischemia, and transient ischemic attack) of any grade was 1% versus 0.4% and Grade 3 or greater was 0.5% versus 0.2% in patients treated with IMBRUVICA compared to patients in the control arm, respectively.
 
@@ -648,12 +649,10 @@ The median time from onset to resolution was 37 days (range, 1 to 457) versus 26
 
 Long-Term Safety
 
-The safety data from long-term follow-up over 5 years of 1,178 patients (treatment-naïve CLL/SLL n=162, relapsed/refractory CLL/SLL n=646, and relapsed/refractory MCL n=370) treated with IMBRUVICA were analyzed.
-The median treatment duration for CLL/SLL was 51 months (range, 0.2 to 98 months).
-The median treatment duration for MCL was 11 months (range, 0 to 87 months).
-The cumulative rate of hypertension increased over time with prolonged IMBRUVICA treatment.
-The prevalence for Grade 3 or greater hypertension was 4% (year 0-1), 6% (year 1-2), 8% (year 2-3), 9% (year 3-4), and 9% (year 4-5).
-The incidence for the 5-year period was 11%.
+The safety data from long-term treatment with IMBRUVICA over 5 years of 1,284 patients (treatment-naïve CLL/SLL n=162, relapsed/refractory CLL/SLL n=646, relapsed/refractory MCL n=370, and WM n=106) were analyzed.
+The median treatment duration was 51 months (range, 0.2 to 98 months) for CLL/SLL, 11 months (range, 0 to 87 months) for MCL, and 47 months (range, 0.3 to 61 months) for WM.
+The cumulative rate of hypertension increased over time.
+The prevalence for Grade 3 or greater hypertension was 4% (year 0-1), 7% (year 1-2), 9% (year 2-3), 9% (year 3-4), and 9% (year 4-5); the overall incidence for the 5-year period was 11%.
 
 ## 6.2 Postmarketing Experience
 

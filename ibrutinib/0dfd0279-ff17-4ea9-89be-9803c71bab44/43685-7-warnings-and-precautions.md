@@ -4,7 +4,7 @@
 
 Fatal bleeding events have occurred in patients who received IMBRUVICA.
 Major hemorrhage (≥ Grade 3, serious, or any central nervous system events; e.g., intracranial hemorrhage [including subdural hematoma], gastrointestinal bleeding, hematuria, and post procedural hemorrhage) occurred in 4% of patients, with fatalities occurring in 0.4% of 2,838 patients who received IMBRUVICA in 27 clinical trials.
-Bleeding events, including bruising and petechiae, occurred in 39% of patients who received IMBRUVICA.
+Bleeding events of any grade including bruising and petechiae occurred in 39%, and excluding bruising and petechiae occurred in 23% of patients who received IMBRUVICA, respectively.
 
 The mechanism for the bleeding events is not well understood.
 
@@ -30,15 +30,15 @@ In 645 patients with B-cell malignancies who received IMBRUVICA as a single agen
 
 Monitor complete blood counts monthly.
 
-## 5.4 Cardiac Arrhythmias
+## 5.4 Cardiac Arrhythmias and Cardiac Failure
 
-Fatal and serious cardiac arrhythmias have occurred with IMBRUVICA.
-Grade 3 or greater ventricular tachyarrhythmias occurred in 0.2% of patients and Grade 3 or greater atrial fibrillation and atrial flutter occurred in 4% of 1,476 patients who received IMBRUVICA in clinical trials.
+Fatal and serious cardiac arrhythmias and cardiac failure have occurred with IMBRUVICA.
+Grade 3 or greater ventricular tachyarrhythmias occurred in 0.2% of patients, Grade 3 or greater atrial fibrillation and atrial flutter occurred in 4%, and Grade 3 or greater cardiac failure occurred in 1% of 1,476 patients who received IMBRUVICA in clinical trials.
 These events have occurred particularly in patients with cardiac risk factors, hypertension, acute infections, and a previous history of cardiac arrhythmias [see Adverse Reactions (6.1)].
 
-Periodically monitor patients clinically for cardiac arrhythmias.
+At baseline and then periodically, monitor patients clinically for cardiac arrhythmias and cardiac failure.
 Obtain an ECG for patients who develop arrhythmic symptoms (e.g., palpitations, lightheadedness, syncope, chest pain) or new onset dyspnea.
-Manage cardiac arrhythmias appropriately, and if it persists, consider the risks and benefits of IMBRUVICA treatment and follow dose modification guidelines [see Dosage and Administration (2.2)].
+Manage cardiac arrhythmias and cardiac failure appropriately, and if it persists, consider the risks and benefits of IMBRUVICA treatment and follow dose modification guidelines [see Dosage and Administration (2.2)].
 
 ## 5.5 Hypertension
 

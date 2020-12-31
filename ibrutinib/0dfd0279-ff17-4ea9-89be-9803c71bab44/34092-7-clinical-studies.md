@@ -2,15 +2,16 @@
 
 ## 14.1 Mantle Cell Lymphoma
 
-The safety and efficacy of IMBRUVICA in patients with MCL who have received at least one prior therapy were evaluated in Study PCYC-1104-CA (referred to as Study 1104) (NCT01236391), an open-label, multi-center, single-arm trial of 111 previously treated patients.
+The safety and efficacy of IMBRUVICA in patients with MCL who have received at least one prior therapy were evaluated in Study 1104 (NCT01236391), an open-label, multi-center, single-arm trial of 111 previously treated patients.
+IMBRUVICA was administered orally at 560 mg once daily until disease progression or unacceptable toxicity.
+Tumor response was assessed according to the revised International Working Group (IWG) for non-Hodgkin's lymphoma (NHL) criteria.
+The primary endpoint in this study was investigator-assessed overall response rate (ORR).
+
 The median age was 68 years (range, 40 to 84 years), 77% were male, and 92% were White.
 At baseline, 89% of patients had a baseline ECOG performance status of 0 or 1.
 The median time since diagnosis was 42 months, and median number of prior treatments was 3 (range, 1 to 5 treatments), including 11% with prior stem cell transplantation.
 At baseline, 39% of subjects had at least one tumor ≥ 5 cm, 49% had bone marrow involvement, and 54% had extranodal involvement at screening.
 
-IMBRUVICA was administered orally at 560 mg once daily until disease progression or unacceptable toxicity.
-Tumor response was assessed according to the revised International Working Group (IWG) for non-Hodgkin's lymphoma (NHL) criteria.
-The primary endpoint in this study was investigator-assessed overall response rate (ORR).
 Responses to IMBRUVICA are shown in Table 20.
 
 Table 20: Overall Response Rate (ORR) and Duration of Response (DOR) Based on Investigator Assessment in Patients with MCL in Study 1104
@@ -40,14 +41,15 @@ The safety and efficacy of IMBRUVICA in patients with CLL/SLL were demonstrated 
 
 Study 1102
 
-Study PCYC-1102-CA (referred to as Study 1102) (NCT01105247), an open-label, multi-center trial, was conducted in 48 previously treated CLL patients.
+Study 1102 (NCT01105247), an open-label, multi-center trial, was conducted in 48 previously treated CLL patients.
+IMBRUVICA was administered orally at 420 mg once daily until disease progression or unacceptable toxicity.
+The ORR and DOR were assessed using a modified version of the International Workshop on CLL Criteria by an Independent Review Committee.
+
 The median age was 67 years (range, 37 to 82 years), 71% were male, and 94% were White.
 All patients had a baseline ECOG performance status of 0 or 1.
 The median time since diagnosis was 80 months and the median number of prior treatments was 4 (range, 1 to 12 treatments).
 At baseline, 46% of subjects had at least one tumor ≥ 5 cm.
 
-IMBRUVICA was administered orally at 420 mg once daily until disease progression or unacceptable toxicity.
-The ORR and DOR were assessed using a modified version of the International Workshop on CLL Criteria by an Independent Review Committee.
 The ORR was 58.3% (95% CI: 43.2%, 72.4%), all partial responses.
 None of the patients achieved a complete response.
 The DOR ranged from 5.6 to 24.2+ months.
@@ -55,7 +57,7 @@ The median DOR was not reached.
 
 RESONATE
 
-The RESONATE study (A Randomized, Multicenter, Open-label, Phase 3 Study of the Bruton's Tyrosine Kinase (BTK) Inhibitor Ibrutinib versus Ofatumumab in Patients with Relapsed or Refractory Chronic Lymphocytic Leukemia/Small Lymphocytic Lymphoma) (NCT01578707) was conducted in patients with previously treated CLL or SLL.
+The RESONATE study, a randomized, multicenter, open-label, phase 3 study of IMBRUVICA versus ofatumumab (NCT01578707), was conducted in patients with previously treated CLL or SLL.
 Patients (n=391) were randomized 1:1 to receive either IMBRUVICA 420 mg daily until disease progression, or unacceptable toxicity or ofatumumab at an initial dose of 300 mg, followed one week later by a dose of 2000 mg weekly for 7 doses and then every 4 weeks for 4 additional doses.
 Fifty-seven patients randomized to ofatumumab crossed over following progression to receive IMBRUVICA.
 
@@ -123,7 +125,7 @@ Overall response rate as assessed by investigators in patients with del 17p was 
 
 RESONATE-2
 
-The RESONATE-2 study (A Randomized, Multicenter, Open-label, Phase 3 Study of the Bruton's Tyrosine Kinase Inhibitor PCI-32765 versus Chlorambucil in Patients 65 Years or Older with Treatment-naïve Chronic Lymphocytic Leukemia or Small Lymphocytic Lymphoma) (NCT01722487) was conducted in patients with treatment naïve CLL or SLL who were 65 years of age or older.
+The RESONATE-2 study, a randomized, multicenter, open-label, phase 3 study of IMBRUVICA versus chlorambucil (NCT01722487), was conducted in patients with treatment naïve CLL or SLL who were 65 years of age or older.
 Patients (n = 269) were randomized 1:1 to receive either IMBRUVICA 420 mg daily until disease progression or unacceptable toxicity, or chlorambucil at a starting dose of 0.5 mg/kg on Days 1 and 15 of each 28-day cycle for a maximum of 12 cycles, with an allowance for intrapatient dose increases up to 0.8 mg/kg based on tolerability.
 
 The median age was 73 years (range, 65 to 90 years), 63% were male, and 91% were White.
@@ -159,7 +161,7 @@ With an overall follow-up of 55 months, the median PFS was not reached in the IM
 
 HELIOS
 
-The HELIOS study (Randomized, Double-blind, Placebo-controlled Phase 3 Study of Ibrutinib, a Bruton's Tyrosine Kinase (BTK) Inhibitor, in Combination with Bendamustine and Rituximab (BR) in Subjects with Relapsed or Refractory Chronic Lymphocytic Leukemia/Small Lymphocytic Lymphoma) (NCT01611090) was conducted in patients with previously treated CLL or SLL.
+The HELIOS study, a randomized, double-blind, placebo-controlled phase 3 study of IMBRUVICA in combination with bendamustine and rituximab (BR) (NCT01611090), was conducted in patients with previously treated CLL or SLL.
 Patients (n = 578) were randomized 1:1 to receive either IMBRUVICA 420 mg daily or placebo in combination with BR until disease progression, or unacceptable toxicity.
 All patients received BR for a maximum of six 28-day cycles.
 Bendamustine was dosed at 70 mg/m2 infused IV over 30 minutes on Cycle 1, Days 2 and 3, and on Cycles 2-6, Days 1 and 2 for up to 6 cycles, and all patients had a CLCr ≥ 40 mL/min at baseline.
@@ -188,7 +190,7 @@ Table 24: Efficacy Results in Patients with CLL/SLL in HELIOS
 
 iLLUMINATE
 
-The iLLUMINATE study (a multi-center study of ibrutinib in combination with obinutuzumab versus chlorambucil in combination with obinutuzumab) (NCT02264574) was conducted in patients with treatment naïve CLL or SLL.
+The iLLUMINATE study, a randomized, multi-center, phase 3 study of IMBRUVICA in combination with obinutuzumab versus chlorambucil in combination with obinutuzumab (NCT02264574), was conducted in patients with treatment naïve CLL or SLL.
 Patients were 65 years of age or older or < 65 years of age with coexisting medical conditions, reduced renal function as measured by creatinine clearance < 70 mL/min, or presence of del 17p/TP53 mutation.
 Patients (n = 229) were randomized 1:1 to receive either IMBRUVICA 420 mg daily until disease progression or unacceptable toxicity or chlorambucil at a dose of 0.5 mg/kg on Days 1 and 15 of each 28-day cycle for 6 cycles.
 In both arms, patients received 1,000 mg of obinutuzumab on Days 1, 8, and 15 of the first cycle, followed by treatment on the first day of 5 subsequent cycles (total of 6 cycles, 28 days each).
@@ -225,13 +227,13 @@ In the high risk CLL/SLL population (del 17p/TP53 mutation, del 11q, or unmutate
 
 E1912
 
-The E1912 study (A Randomized Phase III Study of Ibrutinib based Therapy vs Standard Fludarabine, Cyclophosphamide, and Rituximab [FCR] Chemoimmunotherapy in Untreated Younger Patients with Chronic Lymphocytic Leukemia [CLL]) (NCT02048813) was conducted in adult patients who were 70 years or younger with previously untreated CLL or SLL requiring systemic therapy.
+The E1912 study, a randomized, multi-center, phase 3 study of IMBRUVICA in combination with rituximab versus standard fludarabine, cyclophosphamide, and rituximab (FCR) chemoimmunotherapy (NCT02048813), was conducted in adult patients who were 70 years or younger with previously untreated CLL or SLL requiring systemic therapy.
 All patients had a CLcr > 40 mL/min at baseline.
 Patients with 17p deletion were excluded.
-Patients (n =529) were randomized 2:1 to receive either IMBRUVICA plus rituximab (R) or FCR.
+Patients (n =529) were randomized 2:1 to receive either IMBRUVICA plus rituximab or FCR.
 IMBRUVICA was administered at 420 mg daily until disease progression or unacceptable toxicity.
 Fludarabine was administered at a dose of 25 mg/m2, and cyclophosphamide was administered at a dose of 250 mg/m2, both on Days 1, 2, and 3 of Cycles 1-6.
-Rituximab was initiated in Cycle 2 for the IMBRUVICA + R arm and in Cycle 1 for the FCR arm and was administered at 50 mg/m2 on Day 1 of the first cycle, 325 mg/m2 on Day 2 of the first cycle, and 500 mg/m2 on Day 1 of 5 subsequent cycles, for a total of 6 cycles.
+Rituximab was initiated in Cycle 2 for the IMBRUVICA plus rituximab arm and in Cycle 1 for the FCR arm and was administered at 50 mg/m2 on Day 1 of the first cycle, 325 mg/m2 on Day 2 of the first cycle, and 500 mg/m2 on Day 1 of 5 subsequent cycles, for a total of 6 cycles.
 Each cycle was 28 days.
 
 The median age was 58 years (range, 28 to 70 years), 67% were male, 90% were White and 98% had a ECOG performance status of 0-1.
@@ -270,14 +272,15 @@ The safety and efficacy of IMBRUVICA in patients with WM were demonstrated in tw
 
 Study 1118 and INNOVATE Monotherapy Arm
 
-The safety and efficacy of IMBRUVICA in WM were evaluated in Study PCYC-1118E (referred to as Study 1118) (NCT01614821), an open-label, multi-center, single-arm trial of 63 previously treated patients.
+Study 1118 (NCT01614821), an open-label, multi-center, single-arm trial was conducted in 63 previously treated patients with WM.
+IMBRUVICA was administered orally at 420 mg once daily until disease progression or unacceptable toxicity.
+The responses were assessed by investigators and an IRC using criteria adopted from the International Workshop of Waldenström's Macroglobulinemia.
+
 The median age was 63 years (range, 44 to 86 years), 76% were male, and 95% were White.
 All patients had a baseline ECOG performance status of 0 or 1.
 The median time since diagnosis was 74 months, and the median number of prior treatments was 2 (range, 1 to 11 treatments).
 At baseline, the median serum IgM value was 3.5 g/dL (range, 0.7 to 8.4 g/dL).
 
-IMBRUVICA was administered orally at 420 mg once daily until disease progression or unacceptable toxicity.
-The responses were assessed by investigators and an IRC using criteria adopted from the International Workshop of Waldenström's Macroglobulinemia.
 Responses, defined as partial response or better, per IRC are shown in Table 27.
 
 Table 27: Response Rate and Duration of Response (DOR) Based on IRC Assessment in Patients with WM in Study 1118
@@ -298,12 +301,12 @@ The INNOVATE monotherapy arm included 31 patients with previously treated WM who
 The median age was 67 years (range, 47 to 90 years).
 Eighty-one percent of patients had a baseline ECOG performance status of 0 or 1, and 19% had a baseline ECOG performance status of 2.
 The median number of prior treatments was 4 (range, 1 to 7 treatments).
-The response rate observed in the INNOVATE monotherapy arm was 71% (0% CR, 29% VGPR, 42% PR).
-With a median follow-up time on study of 34 months (range, 8.6+ to 37.7 months), the median duration of response has not been reached.
+With an overall follow-up of 61 months, the response rate observed in the INNOVATE monotherapy arm per IRC assessment was 77% (0% CR, 29% VGPR, 48% PR).
+The median duration of response was 33 months (range, 2.4 to 60.2+ months).
 
 INNOVATE
 
-The INNOVATE study (A Randomized, Double-Blind, Placebo-Controlled, Phase 3 Study of Ibrutinib or Placebo in Combination with Rituximab in Subjects with Waldenström's Macroglobulinemia) (NCT02165397) was conducted in treatment naïve or previously treated patients with WM.
+The INNOVATE study, a randomized, double-blind, placebo-controlled, phase 3 study of IMBRUVICA or placebo in combination with rituximab (NCT02165397), was conducted in treatment naïve or previously treated patients with WM.
 Patients (n = 150) were randomized 1:1 to receive either IMBRUVICA 420 mg daily or placebo in combination with rituximab until disease progression or unacceptable toxicity.
 Rituximab was administered weekly at a dose of 375 mg/m2 for 4 consecutive weeks (weeks 1-4) followed by a second course of weekly rituximab for 4 consecutive weeks (weeks 17-20).
 The major efficacy outcome measure is progression-free survival (PFS) assessed by an IRC with additional efficacy measure of response rate.
@@ -314,39 +317,45 @@ Forty-five percent of patients were treatment naïve, and 55% of patients were p
 Among previously treated patients, the median number of prior treatments was 2 (range, 1 to 6 treatments).
 At baseline, the median serum IgM value was 3.2 g/dL (range, 0.6 to 8.3 g/dL), and MYD88 L265P mutations were present in 77% of patients, absent in 13% of patients, and 9% of patients were not evaluable for mutation status.
 
-Efficacy results for INNOVATE as assessed by an IRC are shown in Table 28, and the Kaplan-Meier curves for PFS are shown in Figure 7.
+An exploratory analysis demonstrated a sustained hemoglobin improvement (defined as increase of ≥ 2 g/dL over baseline for at least 8 weeks without blood transfusions or growth factor support) in 65% of patients in the IMBRUVICA + R group and 39% of patients in the placebo + R group.
 
-Table 28: Efficacy Results in Patients with WM in INNOVATE
+With an overall follow-up of 63 months, efficacy results as assessed by an IRC at the time of the final analysis for INNOVATE are shown in Table 28, and the Kaplan-Meier curves for PFS are shown in Figure 7.
+
+Table 28 Efficacy Results in Patients with WM by IRC in INNOVATE (Final Analysis)
 
 | Endpoint | IMBRUVICA + R N=75 | Placebo + R N=75 |
 | --- | --- | --- |
 | Progression Free Survival |  |  |
-| Number of events (%) | 14 (19) | 42 (56) |
-| Median (95% CI), months | NE | 20.3 (13.7, 27.6) |
-| HR (95% CI) | 0.20 (0.11, 0.38) |  |
-| P-valueP-value is from log-rank test stratified by WM IPSS (low, med, high) and number of prior systemic treatment regimens (0, ≥1) | <0.0001 |  |
-| Response Rate (CR+VGPR+PR)P-value associated with response rate was <0.0001. Median follow-up time on study = 26.5 months | 72% | 32% |
-| 95% CI | (0.62, 0.82) | (0.21, 0.43) |
-| Complete Response (CR) | 3% | 1% |
-| Very Good Partial Response (VGPR) | 23% | 4% |
-| Partial Response (PR) | 47% | 27% |
-| Median duration of response, months (range) | NE (1.9+, 36.4+) | 21.2 (4.6, 25.8) |
+| Number of events (%) | 22 (29) | 50 (67) |
+| Median (95% CI), months | NE (57.7, NE) | 20.3 (13.0, 27.6) |
+| HR (95% CI) | 0.25 (0.15, 0.42) |  |
+| P-valueP-value is from the stratified log-rank test | <0.0001 |  |
+| Response Rate (CR+VGPR+PR)P-value associated with response rate was <0.0001 | 76% | 31% |
+| 95% CI (%) | (65, 85) | (21, 42) |
+| Complete Response (CR) | 1% | 1% |
+| Very Good Partial Response (VGPR) | 29% | 4% |
+| Partial Response (PR) | 45% | 25% |
+| Median duration of response, months (range) | NE (1.9+, 58.9+) | NE (4.6+, 49.7+) |
 | CI = confidence interval; HR = hazard ratio; NE = not evaluable; R = rituximab |  |  |
 
-Figure 7: Kaplan-Meier Curve of Progression-Free Survival (ITT Population) in Patients with WM in INNOVATE
+| Figure 7: Kaplan-Meier Curve of Progression-Free Survival (ITT Population) in Patients with WM in INNOVATE |
+| --- |
 
-An exploratory analysis demonstrated a sustained hemoglobin improvement (defined as increase of ≥ 2 g/dL over baseline for at least 8 weeks without blood transfusions or growth factor support) in 65% of patients in the IMBRUVICA + R group and 39% of patients in the placebo + R group.
+Median overall survival was not reached for either treatment arm.
+With an overall follow-up of 63 months, 9 (12%) patients on IMBRUVICA + R and 10 (13.3%) patients on placebo + R had died.
+Forty-seven percent of patients randomized to the placebo + R arm crossed over to receive IMBRUVICA.
 
 ## 14.4 Marginal Zone Lymphoma
 
-The safety and efficacy of IMBRUVICA in MZL were evaluated in Study PCYC-1121-CA (referred to as Study 1121) (NCT01980628), an open-label, multi-center, single-arm trial of patients who received at least one prior therapy.
+The safety and efficacy of IMBRUVICA in MZL were evaluated in Study 1121 (NCT01980628), an open-label, multi-center, single-arm trial of patients who received at least one prior therapy.
+IMBRUVICA was administered orally at 560 mg once daily until disease progression or unacceptable toxicity.
+The responses were assessed by investigators and an IRC using criteria adopted from the International Working Group criteria for malignant lymphoma.
+
 The efficacy analysis included 63 patients with 3 sub-types of MZL: mucosa-associated lymphoid tissue (MALT; N=32), nodal (N=17), and splenic (N=14).
 The median age was 66 years (range, 30 to 92 years), 59% were female, and 84% were White.
 Ninety two percent of patients had a baseline ECOG performance status of 0 or 1 and 8% had ECOG performance status 2.
 The median time since diagnosis was 3.8 years, and the median number of prior treatments was 2 (range, 1 to 9 treatments).
 
-IMBRUVICA was administered orally at 560 mg once daily until disease progression or unacceptable toxicity.
-The responses were assessed by investigators and an IRC using criteria adopted from the International Working Group criteria for malignant lymphoma.
 Responses per IRC are shown in Table 29.
 
 Table 29: Overall Response Rate (ORR) and Duration of Response (DOR) Based on IRC Assessment in Patients with MZL in Study 1121
@@ -365,7 +374,9 @@ Overall response rates were 46.9%, 41.2%, and 50.0% for the 3 MZL sub-types (MAL
 
 ## 14.5 Chronic Graft versus Host Disease
 
-The safety and efficacy of IMBRUVICA in cGVHD were evaluated in Study PCYC-1129-CA (referred to as Study 1129) (NCT02195869), an open-label, multi-center, single-arm trial of 42 patients with cGVHD after failure of first line corticosteroid therapy and requiring additional therapy.
+The safety and efficacy of IMBRUVICA in cGVHD were evaluated in Study 1129 (NCT02195869), an open-label, multi-center, single-arm trial of 42 patients with cGVHD after failure of first line corticosteroid therapy and requiring additional therapy.
+IMBRUVICA was administered orally at 420 mg once daily.
+The responses were assessed by investigators using the 2005 National Institute of Health (NIH) Consensus Panel Response Criteria with two modifications to align with the updated 2014 NIH Consensus Panel Response Criteria.
 
 The median age was 56 years (range, 19 to 74 years), 52% were male, and 93% were White.
 The most common underlying malignancies leading to transplantation were acute lymphocytic leukemia, acute myeloid leukemia, and CLL.
@@ -374,8 +385,6 @@ The majority of patients (88 %) had at least 2 organs involved at baseline, with
 The median daily corticosteroid dose (prednisone or prednisone equivalent) at baseline was 0.3 mg/kg/day, and 52% of patients were receiving ongoing immunosuppressants in addition to systemic corticosteroids at baseline.
 Prophylaxis for infections were managed per institutional guidelines with 79% of patients receiving combinations of sulfonamides and trimethoprim and 64% receiving triazole derivatives.
 
-IMBRUVICA was administered orally at 420 mg once daily.
-The responses were assessed by investigators using the 2005 National Institute of Health (NIH) Consensus Panel Response Criteria with two modifications to align with the updated 2014 NIH Consensus Panel Response Criteria.
 Efficacy results are shown in Table 30.
 
 Table 30: Best Overall Response Rate (ORR) and Sustained Response Rate Based on Investigator AssessmentInvestigator assessment based on the 2005 NIH Response Criteria with two modifications (added "not evaluable" for organs with non-cGVHD abnormalities, and organ score change from 0 to 1 was not considered disease progression) in Patients with cGVHD in Study 1129

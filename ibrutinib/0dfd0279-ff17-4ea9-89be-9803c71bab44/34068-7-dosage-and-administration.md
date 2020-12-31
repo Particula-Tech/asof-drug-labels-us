@@ -34,7 +34,7 @@ Do not take extra doses of IMBRUVICA to make up for the missed dose.
 
 ## 2.2 Dosage Modifications for Adverse Reactions
 
-Interrupt IMBRUVICA therapy for any Grade 3 or greater non-hematological toxicities, Grade 3 or greater neutropenia with infection or fever, or Grade 4 hematological toxicities.
+Interrupt IMBRUVICA therapy for any Grade 3 or 4 non-hematological toxicities, Grade 3 or 4 neutropenia with infection or fever, or Grade 4 hematological toxicities.
 Once the adverse reaction has improved to Grade 1 or baseline (recovery), IMBRUVICA may be reinitiated at the starting dose.
 If the adverse reaction reoccurs, reduce dose by 140 mg per day.
 Consider a second reduction of dose by 140 mg as needed.
