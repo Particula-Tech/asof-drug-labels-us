@@ -180,7 +180,7 @@ Week 96 outcomes for subjects on PREZISTA/ritonavir 600/100 mg twice daily from 
 
 Table 24: Virologic Outcome of Randomized Treatment of Trial TMC114-C214 at 96 Weeks
 
-|  | PREZISTA /ritonavir 600/100 mg twice daily + OBR N=298 | lopinavir/ritonavir 400/100 mg twice daily + OBR N=297 |
+|  | PREZISTA/ritonavir 600/100 mg twice daily + OBR N=298 | lopinavir/ritonavir 400/100 mg twice daily + OBR N=297 |
 | --- | --- | --- |
 | Virologic success HIV-1 RNA <50 copies/mL | 58% | 52% |
 | Virologic failureIncludes patients who discontinued prior to Week 96 for lack or loss of efficacy and patients who are ≥50 copies in the 96-week window and patients who had a change in their OBR that was not permitted by the protocol. | 26% | 33% |

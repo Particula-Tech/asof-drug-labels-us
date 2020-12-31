@@ -1,17 +1,17 @@
 # 16 HOW SUPPLIED/STORAGE AND HANDLING
 
-PREZISTA (darunavir) 100 mg per mL oral suspension is a white to off-white opaque liquid supplied in amber-colored multiple-dose bottles containing darunavir ethanolate equivalent to 100 mg of darunavir per mL packaged with a 6 mL oral dosing syringe with 0.2 mL gradations.
+PREZISTA® (darunavir) 100 mg per mL oral suspension is a white to off-white opaque liquid supplied in amber-colored multiple-dose bottles containing darunavir ethanolate equivalent to 100 mg of darunavir per mL packaged with a 6 mL oral dosing syringe with 0.2 mL gradations.
 
-PREZISTA (darunavir) 75 mg tablets are supplied as white, caplet-shaped, film-coated tablets containing darunavir ethanolate equivalent to 75 mg of darunavir per tablet.
+PREZISTA® (darunavir) 75 mg tablets are supplied as white, caplet-shaped, film-coated tablets containing darunavir ethanolate equivalent to 75 mg of darunavir per tablet.
 Each tablet is debossed with "75" on one side and "TMC" on the other side.
 
-PREZISTA (darunavir) 150 mg tablets are supplied as white, oval-shaped, film-coated tablets containing darunavir ethanolate equivalent to 150 mg of darunavir per tablet.
+PREZISTA® (darunavir) 150 mg tablets are supplied as white, oval-shaped, film-coated tablets containing darunavir ethanolate equivalent to 150 mg of darunavir per tablet.
 Each tablet is debossed with "150" on one side and "TMC" on the other side.
 
-PREZISTA (darunavir) 600 mg tablets are supplied as orange, oval-shaped, film-coated tablets containing darunavir ethanolate equivalent to 600 mg of darunavir per tablet.
+PREZISTA® (darunavir) 600 mg tablets are supplied as orange, oval-shaped, film-coated tablets containing darunavir ethanolate equivalent to 600 mg of darunavir per tablet.
 Each tablet is debossed with "600MG" on one side and "TMC" on the other side.
 
-PREZISTA (darunavir) 800 mg tablets are supplied as dark red, oval-shaped, film-coated tablets containing darunavir ethanolate equivalent to 800 mg of darunavir per tablet.
+PREZISTA® (darunavir) 800 mg tablets are supplied as dark red, oval-shaped, film-coated tablets containing darunavir ethanolate equivalent to 800 mg of darunavir per tablet.
 Each tablet is debossed with "800" on one side and "T" on the other side.
 
 PREZISTA is packaged in bottles in the following configuration:
@@ -35,3 +35,5 @@ PREZISTA Oral Suspension
 PREZISTA Tablets
 
 - Store at 25°C (77°F); with excursions permitted to 15°–30°C (59°–86°F).
+
+Keep PREZISTA out of reach of children.

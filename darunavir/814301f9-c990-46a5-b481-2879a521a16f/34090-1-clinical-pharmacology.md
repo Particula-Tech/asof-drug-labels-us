@@ -28,7 +28,7 @@ Table 11: Population Pharmacokinetic Estimates of Darunavir at PREZISTA/ritonavi
 
 | Parameter | TMC114-C211 N=335 | TMC114-C229 N=280 | TMC114-C214 N=285 | TMC114-C229 N=278 | TMC114-C213 + TMC114-C202 (integrated data) N=119 |
 | --- | --- | --- | --- | --- | --- |
-|  | PREZISTA / ritonavir 800/100 mg once daily |  | PREZISTA / ritonavir 600/100 mg twice daily |  |  |
+|  | PREZISTA/ritonavir 800/100 mg once daily |  | PREZISTA/ritonavir 600/100 mg twice daily |  |  |
 | AUC24h (ng.h/mL)AUC24h is calculated as AUC12h*2. |  |  |  |  |  |
 | Mean ± Standard Deviation | 93026 ± 27050 | 93334 ± 28626 | 116796 ± 33594 | 114302 ± 32681 | 124698 ± 32286 |
 | Median (Range) | 87854 (45000–219240) | 87788 (45456–236920) | 111632 (64874–355360) | 109401 (48934–323820) | 123336 (67714–212980) |
@@ -121,7 +121,7 @@ Table 12: Population Pharmacokinetic Estimates of Darunavir Exposure (Trials TMC
 |  | PREZISTA/ritonavir once daily | PREZISTA/ritonavir twice daily |  |  |
 |  |  |  | TMC114-C228Subjects may have contributed pharmacokinetic data to both the 10 kg to less than 15 kg weight group and the 15 kg to less than 20 kg weight group. |  |
 | Parameter | TMC114-C230Summary statistics for population pharmacokinetic parameter estimates for DRV after administration of DRV/rtv at 800/100 mg once daily in treatment-naïve HIV-1 infected subjects from 12 to <18 years of age – Week-48 Analyses. N=12 | TMC114-C212 N=74 |  |  |
-| AUC24h (ng∙h/mL) AUC24h is calculated as AUC12h*2. |  |  |  |  |
+| AUC24h (ng∙h/mL)AUC24h is calculated as AUC12h*2. |  |  |  |  |
 | Mean ± Standard Deviation | 84390 ± 23587 | 126377 ± 34356 | 137896 ± 51420 | 157760 ± 54080 |
 | Median (Range) | 86741 (35527–123325) | 127340 (67054–230720) | 124044 (89688–261090) | 132698 (112310–294840) |
 | C0h (ng/mL) |  |  |  |  |

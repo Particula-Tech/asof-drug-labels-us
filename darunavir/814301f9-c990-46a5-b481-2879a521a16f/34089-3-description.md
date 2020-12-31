@@ -8,21 +8,21 @@ Darunavir ethanolate has the following structural formula:
 
 Darunavir ethanolate is a white to off-white powder with a solubility of approximately 0.15 mg per mL in water at 20°C.
 
-PREZISTA 100 mg per mL oral suspension is available as a white to off-white opaque suspension for oral administration.
+PREZISTA® 100 mg per mL oral suspension is available as a white to off-white opaque suspension for oral administration.
 
 Each mL of the oral suspension contains darunavir ethanolate equivalent to 100 mg darunavir.
 In addition, each mL contains the inactive ingredients citric acid monohydrate, hydrochloric acid (for pH adjustment), hydroxypropyl cellulose, masking flavor, methylparaben sodium, microcrystalline cellulose, purified water, sodium carboxymethylcellulose, strawberry cream flavor and sucralose.
 
-PREZISTA 75 mg tablets are available as white, caplet-shaped, film-coated tablets for oral administration.
+PREZISTA® 75 mg tablets are available as white, caplet-shaped, film-coated tablets for oral administration.
 Each 75 mg tablet contains darunavir ethanolate equivalent to 75 mg of darunavir.
 
-PREZISTA 150 mg tablets are available as white, oval-shaped, film-coated tablets for oral administration.
+PREZISTA® 150 mg tablets are available as white, oval-shaped, film-coated tablets for oral administration.
 Each 150 mg tablet contains darunavir ethanolate equivalent to 150 mg of darunavir.
 
-PREZISTA 600 mg tablets are available as orange, oval-shaped, film-coated tablets for oral administration.
+PREZISTA® 600 mg tablets are available as orange, oval-shaped, film-coated tablets for oral administration.
 Each 600 mg tablet contains darunavir ethanolate equivalent to 600 mg of darunavir.
 
-PREZISTA 800 mg tablets are available as dark red, oval-shaped, film-coated tablets for oral administration.
+PREZISTA® 800 mg tablets are available as dark red, oval-shaped, film-coated tablets for oral administration.
 Each 800 mg tablet contains darunavir ethanolate equivalent to 800 mg of darunavir.
 
 During storage, partial conversion from ethanolate to hydrate may occur; however, this does not affect product quality or performance.

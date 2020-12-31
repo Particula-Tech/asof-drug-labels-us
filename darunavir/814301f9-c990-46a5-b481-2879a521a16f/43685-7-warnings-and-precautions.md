@@ -46,13 +46,16 @@ In clinical studies with PREZISTA/ritonavir, the incidence and severity of rash 
 
 ## 5.5 Risk of Serious Adverse Reactions due to Drug Interactions
 
-Initiation of PREZISTA/ritonavir, a CYP3A inhibitor, in patients receiving medications metabolized by CYP3A or initiation of medications metabolized by CYP3A in patients already receiving PREZISTA/ritonavir, may increase plasma concentrations of medications metabolized by CYP3A.
+Initiation of PREZISTA/ritonavir, a CYP3A inhibitor, in patients receiving medications metabolized by CYP3A or initiation of medications metabolized by CYP3A in patients already receiving PREZISTA/ritonavir, may increase plasma concentrations of medications metabolized by CYP3A and reduce plasma concentrations of active metabolite(s) formed by CYP3A.
+
 Initiation of medications that inhibit or induce CYP3A may increase or decrease concentrations of PREZISTA/ritonavir, respectively.
+
 These interactions may lead to:
 
 - Clinically significant adverse reactions, potentially leading to severe, life threatening, or fatal events from greater exposures of concomitant medications.
 - Clinically significant adverse reactions from greater exposures of PREZISTA/ritonavir.
-- Loss of therapeutic effect of PREZISTA/ritonavir and possible development of resistance.
+- Loss of therapeutic effect of the concomitant medications from lower exposures of active metabolite(s).
+- Loss of therapeutic effect of PREZISTA/ritonavir and possible development of resistance from lower exposures of PREZISTA/ritonavir.
 
 See Table 10 for steps to prevent or manage these possible and known significant drug interactions, including dosing recommendations [see Drug Interactions (7)].
 Consider the potential for drug interactions prior to and during PREZISTA/ritonavir therapy; review concomitant medications during PREZISTA/ritonavir therapy; and monitor for the adverse reactions associated with the concomitant drugs [see Contraindications (4) and Drug Interactions (7)].
