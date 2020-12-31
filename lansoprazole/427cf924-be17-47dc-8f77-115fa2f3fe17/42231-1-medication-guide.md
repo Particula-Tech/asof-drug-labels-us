@@ -1,6 +1,6 @@
 # MEDICATION GUIDE
 
-Lansoprazole (lan-SOH-prə-zohl) Delayed-Release Capsules, for oral use
+Lansoprazole (lan soe’ pra zole) Delayed-Release Capsules, for oral use
 
 What is the most important information that I should know about lansoprazole delayed-release capsules?
 
@@ -11,8 +11,8 @@ Talk with your doctor.
 
 Lansoprazole delayed-release capsules can cause serious side effects, including:
 
-- A type of kidney problem (acute interstitial nephritis).
-  Some people who take proton pump inhibitor (PPI) medicines, including lansoprazole delayed-release capsules, may develop a kidney problem called acute interstitial nephritis that can happen at any time during treatment with PPI medicines including lansoprazole delayed-release capsules.
+- A type of kidney problem (acute tubulointerstitial nephritis).
+  Some people who take proton pump inhibitor (PPI) medicines, including lansoprazole delayed-release capsules, may develop a kidney problem called acute tubulointerstitial nephritis that can happen at any time during treatment with PPI medicines including lansoprazole delayed-release capsules.
   Call your doctor right away if you have a decrease in the amount that you urinate or if you have blood in your urine.
 - Diarrhea caused by an infection (Clostridium difficile) in your intestines.
   Call your doctor right away if you have watery stools or stomach pain that does not go away.
@@ -55,7 +55,7 @@ In adults, lansoprazole delayed-release capsules are used for:
 - the long-term treatment of conditions where your stomach makes too much acid.
   This includes a rare condition called Zollinger-Ellison syndrome.
 
-Pediatrics:
+Children:
 
 Give lansoprazole delayed-release capsules exactly as prescribed by your child’s doctor.
 Do not increase the dose of lansoprazole delayed-release capsules or give your child lansoprazole delayed-release capsules longer than the amount of time your doctor tells you to.
@@ -70,19 +70,19 @@ In children 12 to 17 years of age, lansoprazole delayed-release capsules are use
 - up to 8 weeks to treat heartburn and other symptoms that can happen with GERD.
 - up to 8 weeks for the healing and symptom relief of EE.
 
-Lansoprazole delayed-release capsules are not effective for treating the symptoms of GERD in children less than 1 year of age.
+Lansoprazole delayed-release capsules are not recommended for treating the symptoms of GERD in children less than 1 year of age and may harm them.
 
 Do not take lansoprazole delayed-release capsules if you are:
 
 - allergic to lansoprazole, any other PPI medicine, or any of the ingredients in lansoprazole delayed-release capsules.
-  See the end of this Medication Guide for a complete list of ingredients.
-- taking a medicine that contains rilpivirine (EDURANT, COMPLERA, ODEFSEY) used to treat HIV-1 (Human Immunodeficiency Virus).
+  See the end of this Medication Guide for a complete list of ingredients in lansoprazole delayed-release capsules.
+- taking a medicine that contains rilpivirine (EDURANT, COMPLERA, ODEFSEY, JULUCA) used to treat HIV-1 (Human Immunodeficiency Virus).
 
 Before you take lansoprazole delayed-release capsules, tell your doctor about all of your medical conditions, including if you:
 
 - have low magnesium levels in your blood.
 - have liver problems.
-- are pregnant or plan to become pregnant.
+- are pregnant, think you may be pregnant or plan to become pregnant.
   Lansoprazole delayed-release capsules may harm your unborn baby.
   Talk to your doctor about the possible risks to an unborn baby if lansoprazole delayed-release capsules is taken during pregnancy.
 - are breastfeeding or plan to breastfeed.
@@ -90,7 +90,7 @@ Before you take lansoprazole delayed-release capsules, tell your doctor about al
   Talk to your doctor about the best way to feed your baby if you take lansoprazole delayed-release capsules.
 
 Tell your doctor about all the medicines you take, including prescription and over-the-counter medicines, vitamins, and herbal supplements.
-Especially tell your doctor if you take methotrexate (OTREXUP, RASUVO, TREXALL).
+Especially tell your doctor if you take methotrexate (OTREXUP, RASUVO, TREXALL, REDITREX, XATMEP).
 
 How should I take lansoprazole delayed-release capsules?
 
@@ -103,8 +103,8 @@ Lansoprazole delayed-release capsules:
 - Swallow lansoprazole delayed-release capsules whole.
 - Do not crush or chew lansoprazole delayed-release capsules.
 - If you have trouble swallowing a whole capsule, you can open the capsule and take the contents with certain foods or juices.
-  See the “Instructions for Use” at the end of this Medication Guide for instructions on how to take lansoprazole delayed-release capsules with certain foods and juices.
-- See the “Instructions for Use” at the end of this Medication Guide for instructions on how to take lansoprazole delayed-release capsules through a nasogastric tube (NG tube).
+  See the “Instructions for Use” at the end of this Medication Guide for instructions on how to take lansoprazole delayed-release capsules with certain foods or juices.
+- See the “Instructions for Use” at the end of this Medication Guide for instructions on how to mix and give lansoprazole delayed-release capsules through a nasogastric tube (NG tube).
   - If you miss a dose of lansoprazole delayed-release capsules, take it as soon as you remember.
     If it is almost time for your next dose, do not take the missed dose.
     Take your next dose at your regular time.
@@ -140,7 +140,7 @@ Keep lansoprazole delayed-release capsules and all medicines out of the reach of
 
 General information about the safe and effective use of lansoprazole delayed-release capsules
 
-Medicines are sometimes prescribed for conditions other than those listed in a Medication Guide.
+Medicines are sometimes prescribed for purposes other than those listed in a Medication Guide.
 Do not use lansoprazole delayed-release capsules for conditions for which they were not prescribed.
 Do not give lansoprazole delayed-release capsules to other people, even if they have the same symptoms that you have.
 They may harm them.
@@ -158,18 +158,18 @@ For more information, call 1-888-838-2872.
 All brand names listed are the registered trademarks of their respective owners and are not trademarks of Teva Pharmaceuticals USA, Inc.
 
 Manufactured In Israel By: Teva Pharmaceutical Ind.
-Ltd. Jerusalem, 9777402, Israel
+Ltd. Kfar Saba, 4410202, Israel
 
-Manufactured For: Teva Pharmaceuticals USA, Inc. North Wales, PA 19454
+Manufactured For: Teva Pharmaceuticals USA, Inc. Parsippany, NJ 07054
 
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
 
 Rev.
-E 6/2018
+F 12/2020
 
 ## INSTRUCTIONS FOR USE
 
-Lansoprazole (lan-SOH-prə-zohl) Delayed-Release Capsules, for oral use
+Lansoprazole (lan soe’ pra zole) Delayed-Release Capsules, for oral use
 
 Important:
 
@@ -220,9 +220,9 @@ Keep lansoprazole delayed-release capsules and all medicines out of the reach of
 This Instruction for Use has been approved by the U.S. Food and Drug Administration.
 
 Manufactured In Israel By: Teva Pharmaceutical Ind.
-Ltd. Jerusalem, 9777402, Israel
+Ltd. Kfar Saba, 4410202, Israel
 
-Manufactured For: Teva Pharmaceuticals USA, Inc. North Wales, PA 19454
+Manufactured For: Teva Pharmaceuticals USA, Inc. Parsippany, NJ 07054
 
 Rev.
-D 6/2018
+E 12/2020

@@ -4,9 +4,9 @@ Advise the patient to read the FDA-approved patient labeling (Medication Guide a
 
 Advise patients to:
 
-Acute Interstitial Nephritis
+Acute Tubulointerstitial Nephritis
 
-To call their healthcare provider if they experience signs and/or symptoms associated with acute interstitial nephritis [see Warnings and Precautions (5.2)].
+To call their healthcare provider if they experience signs and/or symptoms associated with acute tubulointerstitial nephritis [see Warnings and Precautions (5.2)].
 
 Clostridium difficile-Associated Diarrhea
 
@@ -56,9 +56,9 @@ Lansoprazole Delayed-Release Capsules
   - See the Instructions for Use for a description of all preparation and administration instructions
 
 Manufactured In Israel By: Teva Pharmaceutical Ind.
-Ltd. Jerusalem, 9777402, Israel
+Ltd. Kfar Saba, 4410202, Israel
 
-Manufactured For: Teva Pharmaceuticals USA, Inc. North Wales, PA 19454
+Manufactured For: Teva Pharmaceuticals USA, Inc. Parsippany, NJ 07054
 
 Rev.
-O 6/2018
+P 12/2020

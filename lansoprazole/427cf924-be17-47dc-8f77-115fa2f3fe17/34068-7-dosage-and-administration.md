@@ -17,7 +17,7 @@
 | Amoxicillin | 1 gram | Three times daily for 14 days |
 | Benign Gastric Ulcer |  |  |
 | Short-Term Treatment | 30 mg | Once daily for up to 8 weeks |
-| NSAID-associated Gastric Ulcer |  |  |
+| NSAID-Associated Gastric Ulcer |  |  |
 | Healing | 30 mg | Once daily for 8 weeksControlled studies did not extend beyond indicated duration. |
 | Risk Reduction | 15 mg | Once daily for up to 12 weeks |
 | Gastroesophageal Reflux Disease (GERD) |  |  |
