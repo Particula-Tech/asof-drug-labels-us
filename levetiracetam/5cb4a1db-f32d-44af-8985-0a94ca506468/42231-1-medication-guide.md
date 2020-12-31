@@ -96,10 +96,6 @@ How should I take levetiracetam oral solution?
 - If your healthcare provider has prescribed levetiracetam oral solution, be sure to ask your pharmacist for a medicine dropper or medicine cup to help you measure the correct amount of levetiracetam oral solution.
   Do not use a household teaspoon.
   Ask your pharmacist for instructions on how to use the measuring device the right way.
-- If you miss a dose of levetiracetam oral solution, take it as soon as you remember.
-  If it is almost time for your next dose, just skip the missed dose.
-  Take the next dose at your regular time.
-  Do not take two doses at the same time.
 - If you take too much levetiracetam oral solution, call your local Poison Control Center or go to the nearest emergency room right away.
 
 What should I avoid while taking levetiracetam oral solution?
@@ -111,14 +107,13 @@ What are the possible side effects of levetiracetam oral solution?
 
 Levetiracetam oral solution can cause serious side effects including:
 
-See “What is the most important information I should know about levetiracetam oral solution?”
+- See “What is the most important information I should know about levetiracetam oral solution?”
 
 Call your healthcare provider right away if you have any of these symptoms:
 
 - mood and behavior changes such as aggression, agitation, anger, anxiety, apathy, mood swings, depression, hostility, and irritability.
   A few people may get psychotic symptoms such as hallucinations (seeing or hearing things that are really not there), delusions (false or strange thoughts or beliefs) and unusual behavior.
 - extreme sleepiness, tiredness, and weakness
-- problems with muscle coordination (problems walking and moving)
 - allergic reactions such as swelling of the face, lips, eyes, tongue, and throat, trouble swallowing or breathing, and hives.
 - a skin rash.
   Serious skin rashes can happen after you start taking levetiracetam oral solution.
@@ -136,8 +131,8 @@ The most common side effects seen in children who take levetiracetam oral soluti
 
 - tiredness
 - acting aggressive
-- nasal congestion
 - decreased appetite
+- nasal congestion
 - irritability
 
 Tell your healthcare provider if you have any side effect that bothers you or that does not go away.
@@ -159,8 +154,9 @@ Medicines are sometimes prescribed for purposes other than those listed in a Med
 Do not use levetiracetam oral solution for a condition for which it was not prescribed.
 Do not give levetiracetam oral solution to other people, even if they have the same symptoms that you have.
 It may harm them.
+You can ask your pharmacist or healthcare provider information about levetiracetam oral solution that is written for health professionals.
 
-What are the ingredients of levetiracetam oral solution?
+What are the ingredients in levetiracetam oral solution?
 
 Active ingredient: Levetiracetam
 
@@ -177,4 +173,4 @@ For more information, call 1-888-838-2872.
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
 
 Rev.
-A 11/2019
+B 10/2020

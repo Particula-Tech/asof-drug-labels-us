@@ -12,7 +12,7 @@ Risk Summary
 Prolonged experience with levetiracetam in pregnant women has not identified a drug-associated risk of major birth defects or miscarriage, based on published literature, which includes data from pregnancy registries and reflects experience over two decades [see Human Data].
 In animal studies, levetiracetam produced developmental toxicity (increased embryofetal and offspring mortality, increased incidences of fetal structural abnormalities, decreased embryofetal and offspring growth, neurobehavioral alterations in offspring) at doses similar to human therapeutic doses [see Animal Data].
 
-In the U.S. general population, the estimated background risk of major birth defects and miscarriage in clinically recognized pregnancies is 2 to 4% and 15 to 20%, respectively.
+In the U.S. general population, the estimated background risk of major birth defects and miscarriage in clinically recognized pregnancies is 2% to 4% and 15% to 20%, respectively.
 The background risk of major birth defects and miscarriage for the indicated population is unknown.
 
 Clinical Considerations
@@ -41,7 +41,7 @@ The no-effect dose for adverse effects on embryofetal development in rabbits (20
 
 Oral administration of levetiracetam (0, 70, 350, or 1,800 mg/kg/day) to female rats throughout pregnancy and lactation led to an increased incidence of fetal skeletal variations, reduced fetal body weight, and decreased growth in offspring at the mid and high doses and increased pup mortality and neurobehavioral alterations in offspring at the highest dose tested.
 There was no evidence of maternal toxicity.
-The no-effect dose for adverse effects on pre-and postnatal development in rats (70 mg/kg/day) is less than the MRHD on a mg/m2 basis.
+The no-effect dose for adverse effects on pre- and post-natal development in rats (70 mg/kg/day) is less than the MRHD on a mg/m2 basis.
 
 Oral administration of levetiracetam to rats during the latter part of gestation and throughout lactation produced no adverse developmental or maternal effects at doses of up to 1,800 mg/kg/day (6 times the MRHD on a mg/m2 basis).
 
