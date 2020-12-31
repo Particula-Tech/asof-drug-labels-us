@@ -21,11 +21,12 @@ PROTONIX I.V. contains edetate disodium (the salt form of EDTA), a chelator of m
 Therefore, zinc supplementation should be considered in patients treated with PROTONIX I.V. who are prone to zinc deficiency.
 Caution should be used when other EDTA containing products are also co-administered intravenously [see Dosage and Administration (2.5)].
 
-## 5.5 Acute Interstitial Nephritis
+## 5.5 Acute Tubulointerstitial Nephritis
 
-Acute interstitial nephritis has been observed in patients taking PPIs including PROTONIX I.V.
-Acute interstitial nephritis may occur at any point during PPI therapy and is generally attributed to an idiopathic hypersensitivity reaction.
-Discontinue PROTONIX I.V. if acute interstitial nephritis develops [see Contraindications (4)].
+Acute tubulointerstitial nephritis (TIN) has been observed in patients taking PPIs and may occur at any point during PPI therapy.
+Patients may present with varying signs and symptoms from symptomatic hypersensitivity reactions to non-specific symptoms of decreased renal function (e.g., malaise, nausea, anorexia).
+In reported case series, some patients were diagnosed on biopsy and in the absence of extra-renal manifestations (e.g., fever, rash or arthralgia).
+Discontinue PROTONIX I.V. and evaluate patients with suspected acute TIN [see Contraindications (4)].
 
 ## 5.6 Clostridium difficile-Associated Diarrhea
 
