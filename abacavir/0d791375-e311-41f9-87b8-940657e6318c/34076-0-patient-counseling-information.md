@@ -47,7 +47,7 @@ Instruct patients to inform their physician or pharmacist if they develop any un
 
 Disclaimer: Other brands listed are the registered trademarks of their respective owners and are not trademarks of Cipla Limited.
 
-Revised: May 2018
+Revised: 12/2020
 
 Manufactured by
 
@@ -60,6 +60,6 @@ M.S.
 
 Manufactured for: Cipla USA, Inc.
 
-1560 Sawgrass Corporate Parkway,
+10 Independence Boulevard, Suite 300, Warren
 
-Suite 130, Sunrise, FL 33323
+New Jersey - 07059

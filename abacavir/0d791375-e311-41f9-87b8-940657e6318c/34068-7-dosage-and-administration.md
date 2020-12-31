@@ -20,7 +20,7 @@ The recommended oral dosage of abacavir tablets for HIV-1-infected pediatric pat
 Table 1.
 Dosing Recommendations for Abacavir Scored Tablets in Pediatric Patients
 
-| Weight (kg) | Once-Daily Dosing Regimen Data regarding the efficacy of once-daily dosing is limited to subjects who transitioned from twice-daily dosing to once-daily dosing after 36 weeks of treatment [see Clinical Studies (14.2)]. | Twice-Daily Dosage Regimen |  |  |
+| Weight (kg) | Once-Daily Dosing Regimen Data regarding the efficacy of once-daily dosing is limited to subjects who transitioned from twice-daily dosing to once-daily dosing after 36 weeks of treatment [see Clinical Studies (14.2)]. | Twice-Daily Dosing Regimen |  |  |
 | --- | --- | --- | --- | --- |
 | AM Dose | PM Dose | Total Daily Dose |  |  |
 | 14 to <20 | 1 tablet (300 mg) | ½ tablet (150 mg) | ½ tablet (150 mg) | 300 mg |

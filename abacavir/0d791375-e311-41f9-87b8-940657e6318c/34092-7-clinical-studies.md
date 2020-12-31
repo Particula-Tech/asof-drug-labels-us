@@ -27,7 +27,7 @@ CNA3005 was a multicenter, double-blind, controlled trial in which 562 HIV-1-inf
 The trial was stratified at randomization by pre-entry plasma HIV-1 RNA 10,000 to 100,000 copies per mL and plasma HIV-1 RNA greater than 100,000 copies per mL.
 Trial participants were male (87%), white (73%), black (15%), and Hispanic (9%).
 At baseline the median age was 36 years; the median baseline CD4+ cell count was 360 cells per mm3, and median baseline plasma HIV-1 RNA was 4.8 log10 copies per mL.
-Proportions of subjects with plasma HIV-1 RNA less than 400 copies per mL (using Roche AMPLICOR HIV-1 MONITOR test) through 48 weeks of treatment are summarized in Table 8.
+Proportions of subjects with plasma HIV-1 RNA less than 400 copies per mL (using Roche AMPLICOR HIV-1 MONITOR Test) through 48 weeks of treatment are summarized in Table 8.
 
 Table 8.
 Outcomes of Randomized Treatment through Week 48 (CNA3005)
@@ -104,9 +104,9 @@ Virologic Outcome of Randomized Treatment at Week 96a (ARROW Randomization 3)
 
 | Outcome | Abacavir plus Lamivudine Twice-Daily Dosing (n = 333) | Abacavir plus Lamivudine Once-Daily Dosing (n = 336) |
 | --- | --- | --- |
-| HIV-1 RNA <80 copies/mLAnalyses were based on the last observed viral load data within the Week 96 window. | 70% | 67% |
-| HIV-1 RNA ≥80 copies/mL Predicted difference (95% CI) of response rate is -4.5% (-11% to 2%) at Week 96. | 28% | 31% |
+| HIV-1 RNA <80 copies/mL Predicted difference (95% CI) of response rate is -4.5% (-11% to 2%) at Week 96. | 70% | 67% |
+| HIV-1 RNA ≥80 copies/mL Includes subjects who discontinued due to lack or loss of efficacy or for reasons other than an adverse event or death, and who had a viral load value of greater than or equal to 80 copies per mL, or subjects who had a switch in background regimen that was not permitted by the protocol. | 28% | 31% |
 | No virologic data |  |  |
 | Discontinued due to adverse event or death | 1% | <1% |
-| Discontinued study for other reasons Includes subjects who discontinued due to lack or loss of efficacy or for reasons other than an adverse event or death, and had a viral load value of greater than or equal to 80 copies per mL, or subjects who had a switch in background regimen that was not permitted by the protocol. | 0% | <1% |
+| Discontinued study for other reasonsOther includes reasons such as withdrew consent, loss to follow-up, etc. and the last available HIV-1 RNA less than 80 copies per mL (or missing). | 0% | <1% |
 | Missing data during window but on study | 1% | 1% |

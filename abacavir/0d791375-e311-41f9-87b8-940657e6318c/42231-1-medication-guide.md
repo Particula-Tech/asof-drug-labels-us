@@ -1,6 +1,6 @@
 MEDICATION GUIDE
 
-Abacavir (a-BAK-a-vir) Tablets USP 300 mg
+Abacavir (a-BAK-a-vir) Tablets
 
 What is the most important information I should know about abacavir tablets?
 
@@ -91,6 +91,7 @@ Tell your healthcare provider if you take:
 
 - any other medicine to treat HIV-1
 - methadone
+- riociguat
 
 How should I take abacavir tablets?
 
@@ -198,7 +199,7 @@ Disclaimer: Other brands listed are the registered trademarks of their respectiv
 
 This Medication Guide has been approved by the US Food and Drug Administration.
 
-Revised: May 2018
+Revised: 12/2020
 
 Manufactured by
 
@@ -211,6 +212,6 @@ M.S.
 
 Manufactured for: Cipla USA, Inc.
 
-1560 Sawgrass Corporate Parkway,
+10 Independence Boulevard, Suite 300, Warren
 
-Suite 130 Sunrise, FL 33323
+New Jersey - 07059

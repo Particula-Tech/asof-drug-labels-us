@@ -45,7 +45,7 @@ Renal excretion of unchanged abacavir is a minor route of elimination in humans.
 Patients with Hepatic Impairment: The pharmacokinetics of abacavir have been studied in subjects with mild hepatic impairment (Child-Pugh Class A). Results showed that there was a mean increase of 89% in the abacavir AUC and an increase of 58% in the half-life of abacavir after a single dose of 600 mg of abacavir.
 The AUCs of the metabolites were not modified by mild liver disease; however, the rates of formation and elimination of the metabolites were decreased [see Contraindications (4), Use in Specific Populations (8.6)].
 
-Pregnant Women: Abacavir: Abacavir pharmacokinetics were studied in 25 pregnant women during the last trimester of pregnancy receiving abacavir 300 mg twice daily.
+Pregnant Women: Abacavir pharmacokinetics were studied in 25 pregnant women during the last trimester of pregnancy receiving abacavir 300 mg twice daily.
 Abacavir exposure (AUC) during pregnancy was similar to those in postpartum and in HIV-infected non-pregnant historical controls.
 Consistent with passive diffusion of abacavir across the placenta, abacavir concentrations in neonatal plasma cord samples at birth were essentially equal to those in maternal plasma at delivery.
 
@@ -66,10 +66,13 @@ Racial Groups: There are no significant or clinically relevant racial difference
 
 Drug Interaction Studies
 
-Effect of Abacavir on the Pharmacokinetics of Other Agents: In human liver microsomes, abacavir did not inhibit cytochrome P450 isoforms (2C9, 2D6, 3A4).
-Based on these data, it is unlikely that clinically significant drug interactions will occur between abacavir and drugs metabolized through these pathways.
+Effect of Abacavir on the Pharmacokinetics of Other Agents: In vitro studies have shown that abacavir has potential to inhibit CYP1A1 and limited potential to inhibit metabolism mediated by CYP3A4.
+Abacavir did not inhibit or induce other CYP enzymes (such as CYP2C9, or CYP2D6).
 
 Based on in vitro study results, abacavir at therapeutic drug exposures is not expected to affect the pharmacokinetics of drugs that are substrates of the following transporters: organic anion transporter polypeptide (OATP)1B1/3, breast cancer resistance protein (BCRP) or Pglycoprotein (P-gp), organic cation transporter (OCT)1, OCT2, or multidrug and toxic extrusion protein (MATE)1 and MATE2-K.
+
+Riociguat: Coadministration of a single dose of riociguat (0.5 mg) to HIV-1–infected subjects receiving fixed-dose abacavir/dolutegravir/lamivudine is reported to increase riociguat AUC(∞) compared with riociguat AUC(∞) reported in healthy subjects due to CYP1A1 inhibition by abacavir.
+The exact magnitude of increase in riociguat exposure has not been fully characterized based on findings from two studies [see Drug Interactions (7.2)].
 
 Effect of Other Agents on the Pharmacokinetics of Abacavir: In vitro, abacavir is not a substrate of OATP1B1, OAP1B3, OCT1, OCT2, OAT1, MATE1, MATE2-K, multidrug resistance-associated protein (MRP)2 or MRP4; therefore, drugs that modulate these transporters are not expected to affect abacavir plasma concentrations.
 Abacavir is a substrate of BCRP and P-gp in vitro; however, considering its absolute bioavailability (83%), modulators of these transporters are unlikely to result in a clinically relevant impact on abacavir concentrations.
