@@ -7,4 +7,4 @@ fingolimod is contraindicated in patients who have:fingolimod is contraindicated
 - a baseline QTc interval ≥ 500 msec
 - cardiac arrhythmias requiring anti-arrhythmic treatment with Class Ia or Class III anti-arrhythmic drugscardiac arrhythmias requiring anti-arrhythmic treatment with Class Ia or Class III anti-arrhythmic drugs
 - had a hypersensitivity reaction to fingolimod or any of the excipients in fingolimod capsules.
-  Observed reactions include rash, urticaria and angioedema upon treatment initiation [see Warnings and Precautions (5.13)].
+  Observed reactions include rash, urticaria and angioedema upon treatment initiation [see Warnings and Precautions (5.14)].

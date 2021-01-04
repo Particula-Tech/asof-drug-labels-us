@@ -87,4 +87,4 @@ However, due to Novartis Pharmaceuticals Corporation's marketing exclusivity rig
 
 When restarting fingolimod after discontinuation for more than 14 days after the first month of treatment, perform first-dose monitoring, because effects on heart rate and AV conduction may recur on reintroduction of fingolimod treatment [see Dosage and Administration (2.4)].
 The same precautions (first-dose monitoring) as for initial dosing are applicable.
-Within the first 2 weeks of treatment, first-dose procedures are recommended after interruption of 1 day or more; during weeks 3 and 4 of treatment, first-dose procedures are recommended after treatment interruption of more than 7 days.
+Within the first 2 weeks of treatment, first-dose procedures are recommended after interruption of 1 day or more; during Weeks 3 and 4 of treatment, first-dose procedures are recommended after treatment interruption of more than 7 days.
