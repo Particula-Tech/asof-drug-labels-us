@@ -5,7 +5,7 @@ Chlordiazepoxide hydrochloride revealed a taming-action with the elimination of 
 The taming effect of chlordiazepoxide hydrochloride was further demonstrated in rats made vicious by lesions in the septal area of the brain.
 The drug dosage which effectively blocked the vicious reaction was well below the dose which caused sedation in these animals.
 
-The oral LD50 of single doses of chlordiazepoxide hydrochloride, calculated according to the method of Miller and Tainter, is 720 ± 51 mg/kg as determined in mice observed over a period of 5 days following dosage.
+The oral LD 50 of single doses of chlordiazepoxide hydrochloride, calculated according to the method of Miller and Tainter, is 720 ± 51 mg/kg as determined in mice observed over a period of 5 days following dosage.
 
 Clidinium bromide is an effective anticholinergic agent with activity approximating that of atropine sulfate against acetylcholine-induced spasms in isolated intestinal strips.
 On oral administration in mice, it proved an effective antisialagogue in preventing pilocarpine-induced salivation.
@@ -15,7 +15,7 @@ Potent cholinergic ganglionic blocking effects (vagal) were produced with intrav
 Oral doses of 2.5 mg/kg to dogs produced signs of nasal dryness and slight pupillary dilation.
 In two other species, monkeys and rabbits, doses of 5 mg/kg, po, given three times daily for 5 days did not produce apparent secretory or visual changes.
 
-The oral LD50 of single doses of clidinium bromide is 860 ± 57 mg/kg as determined in mice observed over a period of 5 days following dosage; the calculations were made according to the method of Miller and Tainter.
+The oral LD 50 of single doses of clidinium bromide is 860 ± 57 mg/kg as determined in mice observed over a period of 5 days following dosage; the calculations were made according to the method of Miller and Tainter.
 
 Effects on Reproduction:
 
