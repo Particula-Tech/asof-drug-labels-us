@@ -1,0 +1,30 @@
+{
+  "application_numbers": [
+    "BLA022210"
+  ],
+  "inn": "pancrelipase",
+  "labeler": "Nestle Healthcare Nutrition, Inc.",
+  "package_ndcs": [
+    "73562-110-01",
+    "73562-110-10",
+    "73562-111-01",
+    "73562-112-01",
+    "73562-113-01",
+    "73562-113-10",
+    "73562-114-01",
+    "73562-114-12",
+    "73562-115-01",
+    "73562-115-10",
+    "73562-116-01",
+    "73562-116-12"
+  ],
+  "products": [
+    {
+      "form": "CAPSULE, DELAYED RELEASE",
+      "generic": "pancrelipase lipase, pancrelipase protease, pancrelipase amylase",
+      "name": "Zenpep"
+    }
+  ],
+  "setid": "7f16f2d4-8df6-4bd7-ac10-56994fa257b0",
+  "source": "dailymed"
+}
