@@ -1,7 +1,7 @@
 # 11 DESCRIPTION
 
-The active ingredient in pantoprazole sodium delayed-release tablets USP a PPI, is a substituted benzimidazole, sodium 5-(difluoromethoxy)-2-[[(3,4-dimethoxy-2-pyridinyl)methyl]sulfinyl] -1H-benzimidazole sesquihydrate, a compound that inhibits gastric acid secretion.
-Its empirical formula is C16H14F2N3NaO4S x 1.5 H2O, with a molecular weight of 432.4.
+The active ingredient in pantoprazole sodium delayed-release tablets USP a PPI, is a substituted benzimidazole, sodium 5-(difluoromethoxy)-2-[[(3,4-dimethoxy-2-pyridinyl)methyl]sulfinyl] -1 H-benzimidazole sesquihydrate, a compound that inhibits gastric acid secretion.
+Its empirical formula is C 16H 14F 2N 3NaO 4S x 1.5 H 2O, with a molecular weight of 432.4.
 The structural formula is:
 
 Pantoprazole sodium sesquihydrate, USP is a white to off-white crystalline powder and is racemic.

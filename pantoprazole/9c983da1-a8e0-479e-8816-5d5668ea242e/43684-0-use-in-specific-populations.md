@@ -11,7 +11,7 @@ Reproduction studies have been performed in rats at oral doses up to 450 mg/kg/d
 
 A pre-and postnatal development toxicity study in rats with additional endpoints to evaluate the effect on bone development was performed with pantoprazole sodium.
 Oral pantoprazole doses of 5, 15, and 30 mg/kg/day (approximately 1, 3, and 6 times the human dose of 40 mg/day) were administered to pregnant females from gestation day (GD) 6 through lactation day (LD) 21.
-Changes in bone morphology were observed in pups exposed to pantoprazole in utero and through milk during the period of lactation as well as by oral dosing from postnatal day (PND) 4 through PND 21 [see Use in Specific Populations (8.4)].
+Changes in bone morphology were observed in pups exposed to pantoprazole in utero and through milk during the period of lactation as well as by oral dosing from postnatal day (PND) 4 through PND 21 [see Use in Specific Populations(8.4)].
 There were no drug-related findings in maternal animals.
 Advise pregnant women of the potential risk of fetal harm.
 

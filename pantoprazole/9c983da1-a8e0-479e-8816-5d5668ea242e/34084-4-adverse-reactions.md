@@ -2,7 +2,7 @@
 
 The following serious adverse reactions are described below and elsewhere in labeling:
 
-- Acute Interstitial Nephritis [see Warnings and Precautions (5.2)]
+- Acute Tubulointerstitial Nephritis [see Warnings and Precautions (5.2)]
 - Clostridium difficile- Associated Diarrhea [see Warnings and Precautions (5.3)]
 - Bone Fracture [see Warnings and Precautions (5.4)]
 - Cutaneous and Systemic Lupus Erythematosus [see Warnings and Precautions (5.5)]
@@ -16,14 +16,14 @@ Because clinical trials are conducted under widely varying conditions, adverse r
 
 Adults
 
-Safety in nine randomized comparative US clinical trials in patients with GERD included 1,473 patients on oral pantoprazole (20 mg or 40 mg), 299 patients on an H2-receptor antagonist, 46 patients on another PPI, and 82 patients on placebo.
+Safety in nine randomized comparative US clinical trials in patients with GERD included 1,473 patients on oral pantoprazole (20 mg or 40 mg), 299 patients on an H 2-receptor antagonist, 46 patients on another PPI, and 82 patients on placebo.
 The most frequently occurring adverse reactions are listed in Table 3.
 
 Table 3 Adverse Reactions Reported in Clinical Trials of Adult Patients with GERD at a Frequency of >2%
 
 |  | Pantoprazole | Comparators | Placebo |
 | --- | --- | --- | --- |
-|  | (n=1473) | (n=345) | (n=82) |
+|  | (n=1,473) | (n=345) | (n=82) |
 |  | % | % | % |
 | Headache | 12.2 | 12.8 | 8.5 |
 | Diarrhea | 8.8 | 9.6 | 4.9 |
@@ -98,7 +98,7 @@ Hepatobiliary Disorders: hepatocellular damage leading to jaundice and hepatic f
 
 Immune System Disorders: anaphylaxis (including anaphylactic shock), systemic lupus erythematosus
 
-Infections and Infestations: Clostridium difficile associated diarrhea
+Infections and Infestations:Clostridium difficile associated diarrhea
 
 Investigations: weight changes
 
@@ -110,6 +110,6 @@ Nervous: ageusia, dysgeusia
 
 Psychiatric Disorders: hallucination, confusion, insomnia, somnolence
 
-Renal and Urinary Disorders: interstitial nephritis
+Renal and Urinary Disorders: acute tubulointerstitial nephritis
 
 Skin and Subcutaneous Tissue Disorders: severe dermatologic reactions (some fatal), including erythema multiforme, Stevens-Johnson syndrome, toxic epidermal necrolysis (TEN, some fatal), and angioedema (Quincke's edema) and cutaneous lupus erythematosus
