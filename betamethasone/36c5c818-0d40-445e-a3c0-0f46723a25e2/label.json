@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "NDA213422"
+  ],
+  "inn": "betamethasone",
+  "labeler": "MC2 Therapeutics Inc",
+  "package_ndcs": [
+    "73499-001-01"
+  ],
+  "products": [
+    {
+      "form": "CREAM",
+      "generic": "calcipotriene and betamethasone dipropionate",
+      "name": "Wynzora"
+    }
+  ],
+  "setid": "36c5c818-0d40-445e-a3c0-0f46723a25e2",
+  "source": "dailymed"
+}
