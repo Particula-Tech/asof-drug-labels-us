@@ -28,4 +28,4 @@ Emtricitabine and Tenofovir Disoproxil Fumarate Tablets are for oral administrat
 - Film-coated tablet containing emtricitabine 200 mg and tenofovir disoproxil fumarate 300 mg equivalent to tenofovir disoproxil 245 mg as active ingredients
 
 Emtricitabine and Tenofovir Disoproxil Fumarate Tablets also include the following inactive ingredients: croscarmellose sodium, lactose anhydrous, magnesium stearate, and microcrystalline cellulose.
-The tablets are coated with Opadry II Blue 32K505040, which contains FD&C Blue #2, hypromellose 2910, lactose monohydrate, titanium dioxide, and triacetin.
+The tablets are coated with Opadry II White 32K580000, which contains hypromellose 2910, lactose monohydrate, titanium dioxide, and triacetin.
