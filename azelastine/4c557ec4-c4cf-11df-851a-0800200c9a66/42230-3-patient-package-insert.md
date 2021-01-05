@@ -69,10 +69,10 @@ DYMISTA may cause serious side effects including:
 - •Sleepiness or drowsiness.
 - •Nasal Problems.
   Symptoms of nasal problems may include:
-  - ocrusting in the nose
-  - onosebleeds
-  - orunny nose
-  - ohole in the cartilage between your nose (nasal septal perforation).
+  - •crusting in the nose
+  - •nosebleeds
+  - •runny nose
+  - •hole in the cartilage between your nose (nasal septal perforation).
     A whistling sound when you breathe may be a symptom of nasal septal perforation.
 - •Slow wound healing.
   You should not use DYMISTA until your nose has healed if you have a sore in your nose, if you have had surgery on your nose, or if your nose has been injured.
@@ -85,18 +85,18 @@ DYMISTA may cause serious side effects including:
   DYMISTA may cause problems with the way your immune system protects your body against infection and increase your risk of infection.
   Avoid contact with people who have contagious diseases such as chickenpox or measles while you use DYMISTA.
   Symptoms of infection may include:
-  - ofever
-  - oaches or pains
-  - ochills
-  - ofeeling tired
+  - •fever
+  - •aches or pains
+  - •chills
+  - •feeling tired
 - •Adrenal Insufficiency.
   Adrenal insufficiency is a condition in which the adrenal glands do not make enough steroid hormones.
   Symptoms of adrenal insufficiency may include:
-  - otiredness
-  - oweakness
-  - onausea
-  - ovomiting
-  - olow blood pressure
+  - •tiredness
+  - •weakness
+  - •nausea
+  - •vomiting
+  - •low blood pressure
 - •Slowed or delayed growth in children.
   A child's growth should be checked regularly while using DYMISTA.
 
