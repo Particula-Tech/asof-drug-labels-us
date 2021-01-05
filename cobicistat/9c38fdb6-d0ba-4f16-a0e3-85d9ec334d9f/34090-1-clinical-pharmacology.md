@@ -175,7 +175,7 @@ Solid vertical line: ratio of 1.0; dotted vertical lines: reference lines of 0.8
 
 Drug Interactions
 
-Based on in vitro data, cobicistat is not expected to induce CYP1A2 or CYP2B6 and based on in vivo data, cobicistat is not expected to induce MDR1 or, in general, CYP3A to a clinically significant extent.
+Based on in vitro data, cobicistat is not expected to induce CYP1A2 or CYP2B6 and based on in-vivo data, cobicistat is not expected to induce MDR1 or, in general, CYP3A to a clinically significant extent.
 The induction effect of cobicistat on CYP2C9, CYP2C19, or UGT1A1 is unknown, but is expected to be low based on CYP3A in vitro induction data [see Drug Interactions (7)].
 
 ## 12.4 Microbiology

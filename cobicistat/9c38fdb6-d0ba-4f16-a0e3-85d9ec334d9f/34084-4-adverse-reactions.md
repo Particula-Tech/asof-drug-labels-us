@@ -24,7 +24,7 @@ Adverse reactions evaluated through Week 24 did not differ substantially from th
 Clinical Trials in Pediatric Patients
 
 No clinical trials with PREZCOBIX were performed in pediatric patients.
-However, the safety of the components of PREZCOBIX, darunavir and cobicistat, co-administered with two nucleoside reverse transcriptase inhibitors was evaluated in pediatric subjects of 12 to less than 18 years of age with HIV-1 infection through clinical trial GS-US-216-0128 (virologically-suppressed, N=7 with weight ≥40 kg) through Week 48.
+However, the safety of the components of PREZCOBIX, darunavir and cobicistat, co-administered with two nucleoside reverse transcriptase inhibitors, was evaluated in pediatric subjects of 12 to less than 18 years of age with HIV-1 infection through clinical trial GS-US-216-0128 (virologically-suppressed, N=7 with weight ≥40 kg) through Week 48.
 Safety analyses of this trial in these pediatric subjects did not identify new safety concerns compared to the known safety profile of PREZCOBIX in adult subjects [see Clinical Studies (14.2)].
 
 ## 6.2 Postmarketing Experience

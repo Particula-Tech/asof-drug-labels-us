@@ -48,17 +48,15 @@ See cobicistat full prescribing information for additional information regarding
 
 ## 5.5 Risk of Serious Adverse Reactions or Loss of Virologic Response Due to Drug Interactions
 
-Initiation of PREZCOBIX, which inhibits CYP3A, in patients receiving medications metabolized by CYP3A, or initiation of medications metabolized by CYP3A in patients already receiving PREZCOBIX may increase plasma concentrations of medications metabolized by CYP3A.
+Initiation of PREZCOBIX, which inhibits CYP3A, in patients receiving medications metabolized by CYP3A, or initiation of medications metabolized by CYP3A in patients already receiving PREZCOBIX may increase plasma concentrations of medications metabolized by CYP3A and reduce plasma concentrations of active metabolite(s) formed by CYP3A.
 Initiation of medications that inhibit or induce CYP3A may respectively increase or decrease concentrations of PREZCOBIX.
 
-Increased concentrations may lead to:
+These interactions may lead to:
 
 - clinically significant adverse reactions, potentially leading to severe, life threatening, or fatal events from higher exposures of concomitant medications.
 - clinically significant adverse reactions from higher exposures of PREZCOBIX.
-
-Decreased antiretroviral concentrations may lead to:
-
-- loss of therapeutic effect of PREZCOBIX and possible development of resistance.
+- loss of therapeutic effect of the concomitant medications from lower exposures of active metabolite(s).
+- loss of therapeutic effect of PREZCOBIX and possible development of resistance from lower exposures of PREZCOBIX.
 
 See Table 1 for steps to prevent or manage these possible and known significant drug interactions, including dosing recommendations.
 Consider the potential for drug interactions prior to and during PREZCOBIX therapy; review concomitant medications during PREZCOBIX therapy; and monitor for the adverse reactions associated with concomitant medications [see Contraindications (4) and Drug Interactions (7)].

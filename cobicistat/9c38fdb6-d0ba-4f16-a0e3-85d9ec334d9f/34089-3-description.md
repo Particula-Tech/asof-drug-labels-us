@@ -1,6 +1,6 @@
 # 11 DESCRIPTION
 
-PREZCOBIX is a fixed-dose combination tablet containing darunavir and cobicistat.
+PREZCOBIX® is a fixed-dose combination tablet containing darunavir and cobicistat.
 Darunavir is an inhibitor of the human immunodeficiency virus (HIV-1) protease.
 Cobicistat is a mechanism-based inhibitor of cytochrome P450 (CYP) enzymes of the CYP3A family.
 
