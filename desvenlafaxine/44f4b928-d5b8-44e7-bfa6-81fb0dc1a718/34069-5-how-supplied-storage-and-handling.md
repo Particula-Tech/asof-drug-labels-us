@@ -2,6 +2,10 @@
 
 Desvenlafaxine Extended-Release Tablets are available as follows:
 
+25 mg, light tan, square pyramid film coated tablet, debossed with “YH” and “137” on the flat side
+
+NDC 70436-036-04, bottle of 30 tablets in unit-of-use package with child-resistant closure
+
 50 mg, light pink, square pyramid film coated tablet, debossed with “YH” and “50” on the flat side
 
 NDC 70436-012-04, bottle of 30 tablets in unit-of-use package with child-resistant closure NDC 70436-012-06, bottle of 90 tablets in unit-of-use package with child-resistant closure
@@ -12,4 +16,4 @@ NDC 70436-013-04, bottle of 30 tablets in unit-of-use package with child-resista
 
 Store at 20° to 25°C (68° to 77°F); excursions permitted to 15° to 30°C (59° to 86°F) [see USP Controlled Room Temperature].
 
-Each tablet contains 76 mg or 152 mg of desvenlafaxine succinate equivalent to 50 mg or 100 mg of desvenlafaxine, respectively.
+Each tablet contains 38 mg, 76 mg or 152 mg of desvenlafaxine succinate equivalent to 25 mg, 50 mg or 100 mg of desvenlafaxine, respectively.

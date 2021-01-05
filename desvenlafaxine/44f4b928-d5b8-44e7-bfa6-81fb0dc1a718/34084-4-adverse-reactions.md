@@ -154,7 +154,7 @@ This proteinuria was not associated with increases in BUN or creatinine and was 
 
 Table 5: Incidence (%) of Patients with Proteinuria in the Fixed-dose Clinical Studies
 
-|  |  |  | Desvenlafaxine Extended-Release Tablets |  |  |
+|  |  | Desvenlafaxine Extended-Release Tablets |  |  |  |
 | --- | --- | --- | --- | --- | --- |
 |  | Placebo | 50 mg | 100 mg | 200 mg | 400 mg |
 | Proteinuria | 4 | 6 | 8 | 5 | 7 |
@@ -165,7 +165,7 @@ Table 6 summarizes the changes that were observed in placebo-controlled, short-t
 
 Table 6: Mean Changes in Vital Signs at Final on Therapy for All Short-term, Fixed-dose Controlled Studies
 
-|  | Desvenlafaxine Extended-Release Tablets |  |  |  |  |
+|  |  | Desvenlafaxine Extended-Release Tablets |  |  |  |
 | --- | --- | --- | --- | --- | --- |
 |  | Placebo | 50 mg | 100 mg | 200 mg | 400 mg |
 | Blood pressure |  |  |  |  |  |
