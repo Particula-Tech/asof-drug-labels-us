@@ -27,7 +27,7 @@ NEURONTIN can cause serious side effects including:
   - an extreme increase in activity and talking (mania)
   - other unusual changes in behavior or mood
   - Pay attention to any changes, especially sudden changes, in mood, behaviors, thoughts, or feelings.
-  - Keep all follow-up visits with your healthcare provider as scheduled.
+    - Keep all follow-up visits with your healthcare provider as scheduled.
   - Stopping NEURONTIN suddenly can cause serious problems.
     Stopping a seizure medicine suddenly in a patient who has epilepsy can cause seizures that will not stop (status epilepticus).
   - Suicidal thoughts or actions can be caused by things other than medicines.
@@ -170,7 +170,9 @@ Inactive ingredients in the oral solution: glycerin, xylitol, purified water, an
 
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
 
-This product's label may have been updated.
-For current full prescribing information, please visit www.pfizer.com.
+This product's labeling may have been updated.
+For the most recent prescribing information, please visit www.pfizer.com.
 
-LAB-0397-10.0 Revised 04/2020
+LAB-0397-11.0
+
+Revised 12/2020
