@@ -82,7 +82,7 @@ Patients developing peripheral edema may be treated with standard measures, e.g.
 
 ## 5.7 Second Primary Malignancies
 
-Second primary malignancies, notably acute myeloid leukemia (AML), myelodysplastic syndrome (MDS), non-Hodgkin's Lymphoma (NHL), and renal cancer, have been reported in patients treated with docetaxel-containing regimens.
+Second primary malignancies, notably acute myeloid leukemia (AML), myelodysplastic syndrome (MDS), non-Hodgkin's lymphoma (NHL), and renal cancer, have been reported in patients treated with docetaxel-containing regimens.
 These adverse reactions may occur several months or years after docetaxel-containing therapy.
 
 Treatment-related AML or MDS has occurred in patients given anthracyclines and/or cyclophosphamide, including use in adjuvant therapy for breast cancer.
@@ -103,7 +103,7 @@ Permanent treatment discontinuation should be considered in patients who experie
 
 ## 5.9 Neurologic Reactions
 
-Severe neurosensory symptoms (e.g. paresthesia, dysesthesia, pain) were observed in 5.5% (53/965) of metastatic breast cancer patients, and resulted in treatment discontinuation in 6.1%.
+Severe neurosensory symptoms (e.g., paresthesia, dysesthesia, pain) were observed in 5.5% (53/965) of metastatic breast cancer patients, and resulted in treatment discontinuation in 6.1%.
 When these symptoms occur, dosage must be adjusted.
 If symptoms persist, treatment should be discontinued [see Dosage and Administration (2.7)].
 Patients who experienced neurotoxicity in clinical trials and for whom follow-up information on the complete resolution of the event was available had spontaneous reversal of symptoms with a median of 9 weeks from onset (range: 0 to 106 weeks).

@@ -15,7 +15,7 @@ Hypersensitivity Reactions
 
 Ask patients whether they have previously received paclitaxel therapy, and if they have experienced a hypersensitivity reaction to paclitaxel.
 Instruct patients to immediately report to their healthcare provider signs of a hypersensitivity reaction.
-[see Contraindications (4),Warnings and Precautions (5.5)].
+[see Contraindications (4), Warnings and Precautions (5.5)].
 
 Fluid Retention
 
@@ -57,7 +57,7 @@ Instruct patients to report these reactions to their healthcare provider if seri
 Importance of Corticosteroids
 
 Explain the significance of oral corticosteroids such as dexamethasone administration to the patient to help facilitate compliance.
-Instruct patients to report to their healthcare provider if they were not compliant with oral corticosteroid regimen [see Dosage and Administration (2.6)].
+Instruct patients to report to their healthcare provider if they were not compliant with the oral corticosteroid regimen [see Dosage and Administration (2.6)].
 
 Embryo-Fetal Toxicity
 
