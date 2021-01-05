@@ -36,10 +36,12 @@ The discontinuation rate due to rash in subjects using SYMTUZA was 2%.
 
 ## 5.4 Risk of Serious Adverse Reactions or Loss of Virologic Response Due to Drug Interactions
 
-The concomitant use of SYMTUZA and other drugs may result in known or potentially significant drug interactions, some of which may lead to [see Contraindications (4) and Drug Interactions (7.5)]:
+The concomitant use of SYMTUZA and other drugs may result in known or potentially significant drug interactions which may lead to [see Contraindications (4) and Drug Interactions (7.5)]:
 
-- Loss of therapeutic effect of SYMTUZA and possible development of resistance.
-- Possible clinically significant adverse reactions from greater exposures of concomitant drugs.
+- Clinically significant adverse reactions from greater exposures of concomitant drugs.
+- Clinically significant adverse reactions from greater exposures of SYMTUZA.
+- Loss of therapeutic effect of the concomitant drugs from lower exposures of active metabolite(s).
+- Loss of therapeutic effect of SYMTUZA and possible development of resistance from lower exposures of SYMTUZA.
 
 See Table 4 for steps to prevent or manage these possible and known significant drug interactions, including dosing recommendations.
 Consider the potential for drug interactions prior to and during SYMTUZA therapy; review concomitant medications during SYMTUZA therapy; and monitor for the adverse reactions associated with concomitant medications [see Contraindications (4) and Drug Interactions (7)].

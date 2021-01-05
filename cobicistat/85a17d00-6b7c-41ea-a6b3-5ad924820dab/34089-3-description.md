@@ -1,6 +1,6 @@
 # 11. DESCRIPTION
 
-SYMTUZA (darunavir, cobicistat, emtricitabine, and tenofovir alafenamide) is a fixed-dose combination tablet.
+SYMTUZA® (darunavir, cobicistat, emtricitabine, and tenofovir alafenamide) is a fixed-dose combination tablet.
 
 - Darunavir is an inhibitor of the HIV-1 protease.
 - Cobicistat is a mechanism-based inhibitor of cytochrome P450 (CYP) enzymes of the CYP3A family.
