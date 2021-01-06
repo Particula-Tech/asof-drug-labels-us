@@ -8,7 +8,7 @@ Ophthalmic
 
 Solution 0.005%
 
-125 mcg//2.5 mL
+125 mcg/2.5 mL
 
 (Sterile)
 
