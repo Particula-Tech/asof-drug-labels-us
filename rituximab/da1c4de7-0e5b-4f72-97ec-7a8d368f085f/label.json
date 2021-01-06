@@ -1,0 +1,20 @@
+{
+  "application_numbers": [
+    "BLA761140"
+  ],
+  "inn": "rituximab",
+  "labeler": "Amgen Inc",
+  "package_ndcs": [
+    "55513-224-01",
+    "55513-326-01"
+  ],
+  "products": [
+    {
+      "form": "INJECTION, SOLUTION",
+      "generic": "rituximab-arrx",
+      "name": "Riabni"
+    }
+  ],
+  "setid": "da1c4de7-0e5b-4f72-97ec-7a8d368f085f",
+  "source": "dailymed"
+}
