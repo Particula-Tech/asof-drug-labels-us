@@ -30,7 +30,7 @@ The recommended once daily dosage of valganciclovir tablets is based on body sur
 Pediatric Dose (mg) = 7 x BSA x CrCl (calculated using a modified Schwartz formula).
 If the calculated Schwartz creatinine clearance exceeds 150 mL/min/1.73m2, then a maximum value of 150 mL/min/1.73m2 should be used in the equation.The k values used in the modified Schwartz formula are based on pediatric patient age, as shown in Table 1.
 
-Table 1. k Values According to Pediatric Patient Age*
+Table 1 k Values According to Pediatric Patient Age*
 
 | k value | Pediatric Patient Age |
 | --- | --- |
@@ -44,7 +44,7 @@ Table 1. k Values According to Pediatric Patient Age*
 
 Monitor serum creatinine levels regularly and consider changes in height and body weight and adapt the dose as appropriate during prophylaxis period.
 
-All calculated doses should be rounded to the nearest 10 mg increment for the actual deliverable dose.
+All calculated doses should be rounded to the nearest 25 mg increment for the actual deliverable dose.
 If the calculated dose exceeds 900 mg, a maximum dose of 900 mg should be administered.
 Valganciclovir for oral solution is the preferred formulation since it provides the ability to administer a dose calculated according to the formula above; however, valganciclovir tablets may be used if the calculated doses are within 10% of available tablet strength (450 mg).
 For example, if the calculated dose is between 405 mg and 495 mg, one 450 mg tablet may be taken.

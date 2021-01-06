@@ -33,7 +33,7 @@ If you are a female who can become pregnant, you should have a pregnancy test do
 • Cancer.
 Valganciclovir causes cancer in animals and may potentially cause cancer in people.
 
-Your healthcare provider will do regular blood test during treatment with valganciclovir to check you for side effects.
+Your healthcare provider will do regular blood tests during treatment with valganciclovir to check you for side effects.
 Your healthcare provider may change your dose or stop treatment with valganciclovir if you have serious side effects.
 
 What is valganciclovir?
@@ -199,4 +199,4 @@ Dr. Reddy’s Laboratories Inc.,
 
 Princeton, NJ 08540 USA
 
-Revised: 0719
+Revised: 1220
