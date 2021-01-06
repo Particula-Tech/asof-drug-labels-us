@@ -19,7 +19,8 @@ ZEGERID can cause serious side effects, including:
 - •ZEGERID contains sodium bicarbonate.
   Long-term use of bicarbonate with calcium or milk can cause a condition called “milk-alkali syndrome”.
   Long-term use of sodium bicarbonate can cause a condition called “systemic alkalosis”.
-  Talk to your doctor about any questions you may have.Too much sodium can cause swelling and weight gain.
+  Talk to your doctor about any questions you may have.
+  Too much sodium can cause swelling and weight gain.
   Tell your doctor if you are on a low-sodium diet or if you have Bartter’s Syndrome (a rare kidney disorder).
   Tell your doctor right away if you have confusion, shaking hands, dizziness, muscle twitching, nausea, vomiting, and numbness or tingling in the face, arms, or legs.
 - •Diarrhea caused by an infection (Clostridium difficile) in your intestines.
@@ -64,7 +65,7 @@ Do not take ZEGERID if you are:
   See the end of this Medication Guide for a complete list of ingredients in ZEGERID.
 - •taking a medicine that contains rilpivirine, used to treat HIV-1 (Human Immunodeficiency Virus).
 
-Before taking ZEGERID, tell your doctor about all of your medical conditions, including if you:
+Before taking ZEGERID, tell your doctor about all your medical conditions, including if you:
 
 - •have low magnesium, calcium, or potassium levels in your blood.
 - •have problems with the acid-base (pH) balance in your body.
@@ -126,12 +127,12 @@ ZEGERID can cause serious side effects, including:
 - •Stomach growths (fundic gland polyps).
   People who take PPI medicines for a long time have an increased risk of developing a certain type of stomach growths called fundic gland polyps, especially after taking PPI medicines for more than 1 year.
   The most common side effects of ZEGERID include:
-- oheadache
-- oabdominal pain
-- onausea
-- odiarrhea
-- ovomiting
-- ogas
+- •headache
+- •abdominal pain
+- •nausea
+- •diarrhea
+- •vomiting
+- •gas
 
 These are not all the possible side effects of ZEGERID.
 

@@ -44,9 +44,10 @@ Advise patients to report to their healthcare provider if they start treatment w
 
 Administration
 
-1. Instruct patients that:
-2. •Two packets of 20 mg ZEGERID for oral suspension are not interchangeable with one packet of 40 mg ZEGERID for oral suspension.
-3. •Two 20 mg ZEGERID capsules are not interchangeable with one 40 mg ZEGERID capsule.
+- Instruct patients that:
+
+1. 1.Two packets of 20 mg ZEGERID for oral suspension are not interchangeable with one packet of 40 mg ZEGERID for oral suspension.
+2. 2.Two 20 mg ZEGERID capsules are not interchangeable with one 40 mg ZEGERID capsule.
 
 Administration of ZEGERID Capsules
 
