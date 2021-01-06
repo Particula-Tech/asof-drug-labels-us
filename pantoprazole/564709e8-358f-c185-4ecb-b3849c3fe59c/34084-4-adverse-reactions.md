@@ -2,7 +2,7 @@
 
 The following serious adverse reactions are described below and elsewhere in labeling:
 
-• Acute Interstitial Nephritis [see Warnings and Precautions(5.2)]
+• Acute Tubulointerstitial Nephritis [see Warnings and Precautions(5.2)]
 
 • Clostridium difficile-Associated Diarrhea [see Warnings and Precautions(5.3)]
 
@@ -114,6 +114,6 @@ Nervous: ageusia, dysgeusia
 
 Psychiatric Disorders: hallucination, confusion, insomnia, somnolence
 
-Renal and Urinary Disorders: interstitial nephritis
+Renal and Urinary Disorders: acute tubulointerstitial nephritis
 
 Skin and Subcutaneous Tissue Disorders: severe dermatologic reactions (some fatal), including erythema multiforme, Stevens-Johnson syndrome, toxic epidermal necrolysis (TEN, some fatal), angioedema (Quincke's edema) and cutaneous lupus erythematosus

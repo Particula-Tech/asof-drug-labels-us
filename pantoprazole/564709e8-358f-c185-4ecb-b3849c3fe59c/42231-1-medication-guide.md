@@ -13,8 +13,8 @@ Talk with your doctor.
 
 Pantoprazole sodium delayed-release tablets can cause serious side effects, including:
 
-• A type of kidney problem (acute interstitial nephritis).
-Some people who take proton pump inhibitor (PPI) medicines, including pantoprazole sodium delayed-release tablets, may develop a kidney problem called acute interstitial nephritis that can happen at any time during treatment with pantoprazole sodium delayed-release tablets.
+• A type of kidney problem (acute tubulointerstitial nephritis).
+Some people who take proton pump inhibitor (PPI) medicines, including pantoprazole sodium delayed-release tablets, may develop a kidney problem called acute tubulointerstitial nephritis that can happen at any time during treatment with pantoprazole sodium delayed-release tablets.
 Call your doctor right away if you have a decrease in the amount that you urinate or if you have blood in your urine.
 
 • Diarrhea caused by an infection (Clostridium difficile) in your intestines.
@@ -128,7 +128,7 @@ You may report side effects to FDA at 1-800-FDA-1088.
 
 How should I store pantoprazole sodium delayed-release tablets?
 
-Store pantoprazole sodium delayed-release tablets at 20° to 25°C (68° to 77°F); excursions permitted to 15° to 30°C (59° to 86°F).
+Store pantoprazole sodium delayed-release tablets at 20°C to 25°C (68°F to 77°F); excursions permitted to 15°C to 30°C (59°F to 86°F).
 
 Keep pantoprazole sodium delayed-release tablets and all medicines out of the reach of children.
 
@@ -160,6 +160,6 @@ Dr. Reddy’s Laboratories Limited
 
 Bachupally –500 090 INDIA
 
-Revised: 0519
+Revised: 1220
 
 Dispense with Medication Guide available at: www.drreddys.com/medguide/pantoprazoledrtabs.pdf
