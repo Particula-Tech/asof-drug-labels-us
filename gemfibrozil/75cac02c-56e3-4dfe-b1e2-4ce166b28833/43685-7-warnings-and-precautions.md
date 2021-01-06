@@ -19,8 +19,7 @@ Noncoronary heart disease related mortality showed an excess in the group origin
 The incidence of cancer (excluding basal cell carcinoma) discovered during the trial and in the 3.5 years after the trial was completed was 51 (2.5%) in both originally randomized groups.
 In addition, there were 16 basal cell carcinomas in the group originally randomized to gemfibrozil and 9 in the group originally randomized to placebo (p=0.22).
 There were 30 (1.5%) deaths attributed to cancer in the group originally randomized to gemfibrozil and 18 (0.9%) in the group originally randomized to placebo (p=0.11).
-Adverse outcomes, including coronary events, were higher in gemfibrozil patients in a corresponding study in men with a history of known or suspected coronary heart disease in the secondary prevention component of the Helsinki Heart Study.
-(See CLINICAL PHARMACOLOGY.)
+Adverse outcomes, including coronary events, were higher in gemfibrozil patients in a corresponding study in men with a history of known or suspected coronary heart disease in the secondary prevention component of the Helsinki Heart Study (see CLINICAL PHARMACOLOGY).
 
 A comparative carcinogenicity study was also done in rats comparing three drugs in this class: fenofibrate (10 and 60 mg/kg; 0.3 and 1.6 times the human dose, respectively), clofibrate (400 mg/kg; 1.6 times the human dose, respectively), and gemfibrozil (250 mg/kg; 1.7 times the human dose, respectively).
 Pancreatic acinar adenomas were increased in males and females on fenofibrate; hepatocellular carcinoma and pancreatic acinar adenomas were increased in males and hepatic neoplastic nodules in females treated with clofibrate; hepatic neoplastic nodules were increased in males and females treated with clofibrate; hepatic neoplastic nodules were increased in males and females treated with gemfibrozil while testicular interstitial cell (Leydig cell) tumors were increased in males on all three drugs.
@@ -56,7 +55,7 @@ Cataracts - Subcapsular bilateral cataracts occurred in 10%, and unilateral in 6
 7.
 CYP2C8 substrates - Gemfibrozil, a strong inhibitor of CYP2C8, may increase exposure of CYP2C8 substrates when administered concomitantly (see PRECAUTIONS, Drug Interactions).
 8.
-OATP1B1 substrates – Gemfibrozil is an inhibitor of organic anion-transporter polyprotein (OATP) 1B1 and may increase exposure of drugs that are substrates of OATP1B1 (e.g., atrasentan, atorvastatin, bosentan, ezetimibe, fluvastatin, glyburide, SN38 [active metabolite of irinotecan], rosuvastatin, pitavastatin, pravastatin, rifampin, valsartan, olmesartan).
+OATP1B1 substrates – Gemfibrozil is an inhibitor of organic anion-transporter polyprotein (OATP) 1B1 and may increase exposure of drugs that are substrates of OATP1B1 (e.g., atrasentan, atorvastatin, bosentan, ezetimibe, fluvastatin, glyburide, SN-38 [active metabolite of irinotecan], rosuvastatin, pitavastatin, pravastatin, rifampin, valsartan, olmesartan).
 Therefore, dosing reductions of drugs that are substrates of OATP1B1 may be required when gemfibrozil is used concomitantly (see PRECAUTIONS, Drug Interactions).
 Combination therapy of gemfibrozil with simvastatin or with repaglinide, which are OATP1B1 substrates, is contraindicated (see CONTRAINDICATIONS).
 
@@ -76,8 +75,11 @@ Periodic determination of serum lipids should be obtained, and the drug withdraw
 ### (A) HMG-CoA Reductase Inhibitors:
 
 The concomitant administration of gemfibrozil with simvastatin is contraindicated (see CONTRAINDICATIONS and WARNINGS).
+Avoid concomitant use of gemfibrozil with rosuvastatin.
+If concomitant use cannot be avoided, initiate rosuvastatin at 5 mg once daily.
+The dose of rosuvastatin should not exceed 10 mg once daily.
 The risk of myopathy and rhabdomyolysis is increased with combined gemfibrozil and HMG-CoA reductase inhibitor therapy.
-Myopathy or rhabdomyolysis with or without acute renal failure have been reported as early as three weeks after initiation of combined therapy or after several months (See WARNINGS).
+Myopathy or rhabdomyolysis with or without acute renal failure have been reported as early as three weeks after initiation of combined therapy or after several months (see WARNINGS).
 There is no assurance that periodic monitoring of creatine kinase will prevent the occurrence of severe myopathy and kidney damage.
 
 ### (B) Anti-coagulants:
