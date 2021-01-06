@@ -1,0 +1,21 @@
+{
+  "application_numbers": [
+    "ANDA091692"
+  ],
+  "inn": "levonorgestrel",
+  "labeler": "Ingenus Pharmaceuticals, LLC",
+  "package_ndcs": [
+    "50742-659-28",
+    "50742-659-68",
+    "50742-659-84"
+  ],
+  "products": [
+    {
+      "form": "TABLET",
+      "generic": "levonorgestrel and ethinyl estradiol",
+      "name": "Dolishale"
+    }
+  ],
+  "setid": "036a15be-8c2e-4f65-b5dc-f333e2994d4a",
+  "source": "dailymed"
+}
