@@ -1,6 +1,6 @@
 # 17 PATIENT COUNSELING INFORMATION
 
-Advise the patient to read the FDA-approved patient labeling (Patient Information and Instructions for Use).
+Advise the patient to read the FDA-approved patient labeling (Patient Information).
 
 Serious Adverse Reactions
 
@@ -39,6 +39,6 @@ Administration
 
 Inform adult patients that they should use valganciclovir tablets, not valganciclovir for oral solution [see Dosage and Administration (2.1)].
 
-Inform patients to take valganciclovir with food to maximize bioavailability.
+Inform patients to take valganciclovir tablets with food to maximize bioavailability.
 
 For more information, call 1-888-375-3784.

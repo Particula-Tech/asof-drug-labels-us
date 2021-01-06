@@ -62,7 +62,7 @@ Table 12 Pharmacokinetic Properties of Ganciclovir and Valganciclovir Associated
 | % Of dose excreted in urine | Unknown |  |
 | % Of dose excreted in feces | Unknown |  |
 
-aSteady state ganciclovir PK was assessed after administration of valganciclovir tablets (875 mg once daily) were administered with a high fat meal containing approximately 600 total calories (31.1 g fat, 51.6 g carbohydrates and 22.2 g protein) to 16 HIV-positive subjects.
+aSteady state ganciclovir PK was assessed after administration of valganciclovir tablets (875 mg once daily) with a high fat meal containing approximately 600 total calories (31.1 g fat, 51.6 g carbohydrates and 22.2 g protein) to 16 HIV-positive subjects.
 
 Specific Populations:
 
@@ -78,9 +78,9 @@ Table 13 Pharmacokinetics of Ganciclovir from a Single Oral Dose of 900 mg Valga
 *Creatinine clearance calculated from 24-hour urine collection.
 
 Hemodialysis reduces plasma concentrations of ganciclovir by about 50% following valganciclovir administration.
-Adult patients receiving hemodialysis (CrCl less than 10 mL/min) cannot use valganciclovir tablets because the daily dose of valganciclovir tablets required for these patients is less than 450 mg [see Dosage and Administration (2.5) and Use in Specific Populations (8.6)].
+Adult patients receiving hemodialysis (CrCl less than 10 mL/min) cannot use valganciclovir tablets because the daily dose of valganciclovir tablets required for these patients is less than 450 mg [see Dosage and Administration (2.5)andUse in Specific Populations (8.6)].
 
-Pharmacokinetics in Pediatric Patients: The pharmacokinetics of ganciclovir were evaluated following the administration of valganciclovir in 63 pediatric solid organ transplant patients aged 4 months to 16 years and in 16 pediatric heart transplant patients less than 4 months of age.
+Pharmacokinetics in Pediatric Patients: The pharmacokinetics of ganciclovir were evaluated following the administration of valganciclovir in 63 pediatric solid organ transplant patients aged 4 months to 16 years, and in 16 pediatric heart transplant patients less than 4 months of age.
 In these studies, patients received oral doses of valganciclovir (either valganciclovir for oral solution or tablets) to produce exposure equivalent to an adult 900 mg dose [see Dosage and Administration (2.3), Adverse Reactions (6.1), Use in Specific Populations (8.4), Clinical Studies (14.2)].
 
 In studies using the pediatric valganciclovir dosing algorithm, the pharmacokinetics of ganciclovir were similar across organ types and age ranges (Table 14).
@@ -98,13 +98,15 @@ Table 14 Ganciclovir Pharmacokinetics by Age in Pediatric Solid Organ Transplant
 |  | N |  | 9 | 6 | 2 |
 | Liver (N =17) | A U C0-24h (mcg∙ h / mL) Cmax(mcg / mL) t1/2(h) | NA | 69.9 (37.0) 11.9 (3.7) 2.8 (1.5) | 59.4 (8.1) 9.5 (2.3) 3.8 (0.7) | 35.4 (2.8) 5.5 (1.1) 4.4 (0.2) |
 
-N= number of patients, patients, NA=not applicable
+N= number of patients, NA=not applicable
 
 a Ages ranged from 26 to 124 days
 
 Pharmacokinetics in Geriatric Patients: The pharmacokinetic characteristics of valganciclovir in elderly patients have not been established.
 
-Drug Interactions: In vivo drug-drug interaction studies were not conducted with valganciclovir.
+Drug Interactions:
+
+In vivo drug-drug interaction studies were not conducted with valganciclovir.
 However, because valganciclovir is rapidly and extensively converted to ganciclovir, interactions associated with ganciclovir will be expected for valganciclovir [see Drug Interactions (7)].
 
 Table 15 and Table 16 provide a listing of established drug interaction studies with ganciclovir.
@@ -120,7 +122,7 @@ Table 15 Results of Drug Interaction Studies with Ganciclovir: Effects of Coadmi
 | 5 mg/kg IV once daily | 11 | No effect on ganciclovir PK parameters observed |  |
 | Probenecid 500 mg every 6 hours | 1000 mg every 8 hours | 10 | AUC ↑ 53 ± 91% (range: -14% to 299%) Ganciclovir renal clearance ↓ 22 ± 20% (range: -54% to -4%) |
 
-Table 16 Results of Drug Interaction Studies with Ganciclovir: Effects of Ganciclovir on Pharmacokinetic Parameters of Co administered Drug
+Table 16 Results of Drug Interaction Studies with Ganciclovir: Effects of Ganciclovir on Pharmacokinetic Parameters of Coadministered Drug
 
 | Coadministered Drug | Ganciclovir Dosage | N | Coadministered Drug Pharmacokinetic (PK) Parameter |
 | --- | --- | --- | --- |
@@ -139,7 +141,7 @@ Ganciclovir is a synthetic analogue of 2'-deoxyguanosine, which inhibits replica
 In CMV-infected cells, ganciclovir is initially phosphorylated to ganciclovir monophosphate by the viral protein kinase, pUL97.
 Further phosphorylation occurs by cellular kinases to produce ganciclovir triphosphate, which is then slowly metabolized intracellularly (half-life 18 hours).
 As the phosphorylation is largely dependent on the viral kinase, phosphorylation of ganciclovir occurs preferentially in virus-infected cells.
-The virustatic activity of ganciclovir is due to inhibition of the viral DNA polymerase, pUL54, synthesis by ganciclovir triphosphate.
+The virustatic activity of ganciclovir is due to inhibition of the viral DNA polymerase, pUL54 ganciclovir triphosphate.
 
 Antiviral Activity: The quantitative relationship between the cell culture susceptibility of human herpes viruses to antivirals and clinical response to antiviral therapy has not been established, and virus sensitivity testing has not been standardized.
 Sensitivity test results, expressed as the concentration of drug required to inhibit the growth of virus in cell culture by 50% (EC50), vary greatly depending upon a number of factors including the assay used.
@@ -160,9 +162,9 @@ These and other substitutions less frequently reported in the literature, or obs
 
 Table 17: Summary of Resistance-associated Amino Acid Substitutions Observed in the CMV of Patients Failing Ganciclovir Treatment or Prophylaxis
 
-| pUL97 | L405P, A440V, M460I/V/T/L, V466G/M, C518Y, H520Q, P521L,del 590-593, A591D/V, C592G, A594E/G/T/V/P, L595F/S/T/W, del 595, del 595-603, E596D/G/Y, K599E/M, del 600- 601, del 597-600, del 601-603, C603W/R/S/Y, C607F/S/Y, I610T, A613V |
+| pUL97 | F342Y, K359E/Q, L405P, A440V, M460I/V/T/L, V466G/M, C518Y, H520Q, P521L,del 590-593, A591D/V, C592F/G, A594E/G/T/V/P, L595F/S/T/W, del 595, del 595-603, E596D/G/Y, K599E/M, del 600- 601, del 597-600, del 601-603, C603W/R/S/Y, C607F/S/Y, I610T, A613V |
 | --- | --- |
-| pUL54 | E315D, N408D/K/S, F412C/L/S, D413A/E/N, L501F/I, T503I, K513E/N/R, D515E, L516W, I521T, P522A/L/S, V526L, C539G, L545S/W, Q578H/L, D588E/N, G629S, S695T, I726T/V, E756K, L773V, V781I, V787L, L802M, A809V, T813S, T821I, A834P, G841A/S, D879G, A972V, del 981-982, A987G |
+| pUL54 | E315D, N408D/K/S, F412C/L/S, D413A/E/N, L501F/I, T503I, K513E/N/R, D515E, L516W, I521T, P522A/L/S, V526L, C539G, L545S/W, Q578H/L, D588E/N, G629S, S695T, I726T/V, E756K, L773V, V781I, V787E/L, L802M, A809V, T813S, T821I, A834P, G841A/S, D879G, A972V, del 981-982, A987G |
 
 Note: Many additional pathways to ganciclovir resistance likely exist
 
@@ -183,6 +185,6 @@ Resistance data based on assays that do not include this region should be interp
 
 Table 18 Summary of pUL54 Amino Acid Substitutions with Cross-Resistance between Ganciclovir, Cidofovir, and/or Foscarnet
 
-| Cross-resistant to cidofovir | D301N, N408D/K, N410K, F412C/L/S/V, D413E/N, P488R, L501I, T503I, K513E/N, L516R/W, I521T, P522S/A, V526L, C539G/R, L545S/W, Q578H, D588N, I726T/V, E756K, L733V, V812L, T813S, A834P, G841A, del 981-982, A987G |
+| Cross-resistant to cidofovir | D301N, N408D/K, N410K, F412C/L/S/V, D413E/N, P488R, L501I, T503I, K513E/N, L516R/W, I521T, P522S/A, V526L, C539G/R, L545S/W, Q578H, D588N, I726T/V, E756K, L733V, V787E, V812L, T813S, A834P, G841A, del 981-982, A987G |
 | --- | --- |
-| Cross-resistant to foscarnet | F412C, Q578H/L, D588N, V715A/M, E756K, L733V, V781I, V787L, L802M, A809V, V812L, T813S, T821I, A834P, G841A/S, del 981-982 |
+| Cross-resistant to foscarnet | F412C, Q578H/L, D588N, V715A/M, E756K, L733V, V776M, V781I, V787E/L, L802M, A809V, V812L, T813S, T821I, A834P, G841A/S, del 981-982 |

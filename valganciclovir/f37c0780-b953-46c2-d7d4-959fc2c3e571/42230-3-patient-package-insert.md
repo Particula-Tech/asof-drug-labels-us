@@ -33,7 +33,7 @@ Talk to your healthcare provider if you have questions about birth control.
 • Cancer.
 Valganciclovir causes cancer in animals and may potentially cause cancer in people.
 
-Your healthcare provider will do regular blood test during treatment with valganciclovir to check you for side effects.
+Your healthcare provider will do regular blood tests during treatment with valganciclovir to check you for side effects.
 Your healthcare provider may change your dose or stop treatment with valganciclovir if you have serious side effects.
 
 What is valganciclovir?
@@ -74,7 +74,7 @@ Before you take valganciclovir, tell your healthcare provider about all of your 
 See “What is the most important information I should know about valganciclovir?”
 
 • are breastfeeding or plan to breastfeed.
-It is not known if valganciclovir passes into your milk.
+It is not known if valganciclovir passes into your breast milk.
 You should not breastfeed if you take valganciclovir.
 
 • You should not breastfeed if you have Human Immunodeficiency Virus (HIV-1) because of the risk of passing HIV-1 to your baby.
@@ -124,7 +124,7 @@ The most common side effects of in children include:
 
 | • diarrhea | • vomiting |
 | --- | --- |
-| • fever | • low white blood cell counts in blood test |
+| • fever | • low white blood cell counts in blood tests |
 | • upper respiratory tract infection | • headache |
 | • urinary tract infection |  |
 
@@ -167,7 +167,7 @@ Dr. Reddy’s Laboratories Limited
 
 Bachupally – 500 090 INDIA
 
-Revised: 0918
+Revised: 1220
 
 Dispense with Patient Information Sheet available at:
 

@@ -21,7 +21,7 @@ Prevention of CMV Disease:
 
 ## 2.3 Recommended Dosage in Pediatric Patients
 
-Prevention of CMV Disease in Pediatric Kidney Transplant Patients: For pediatric kidney transplant patients 4 months to 16 years of age, the recommended once daily mg dose (7 x BSA x CrCL) should start within 10 days of post-transplantation until 200 days post-transplantation.
+Prevention of CMV Disease in Pediatric Kidney Transplant Patients: For pediatric kidney transplant patients 4 months to 16 years of age, the recommended once daily mg dose (7 x BSA x CrCl) should start within 10 days of post-transplantation until 200 days post-transplantation.
 
 Prevention of CMV Disease in Pediatric Heart Transplant Patients: For pediatric heart transplant patients 1 month to 16 years of age, the recommended once daily mg dose (7x BSA x CrCl) should start within 10 days of transplantation until 100 days post-transplantation.
 
@@ -31,21 +31,21 @@ Pediatric Dose (mg) = 7 x BSA x CrCl (calculated using a modified Schwartz formu
 If the calculated Schwartz creatinine clearance exceeds 150 mL/min/1.73m2, then a maximum value of 150 mL/min/1.73m2 should be used in the equation.
 The k values used in the modified Schwartz formula are based on pediatric patient age, as shown in Table 1.
 
-Table 1. k Values According to Pediatric Patient Age*
+Table 1 k Values According to Pediatric Patient Age*
 
 | k value | Pediatric Patient Age |
 | --- | --- |
 | 0.33 | Infants less than 1 year of age with low birth weight for gestational age |
 | 0.45 | Infants less than 1 year of age with birth weight appropriate for gestational age |
 | 0.45 | Children aged 1 to less than 2 years |
-| 0.55 | Boys aged 2 to less than 13 yearsGirls aged 2 to less than 16 years |
+| 0.55 | Boys aged 2 to less than 13 years Girls aged 2 to less than 16 years |
 | 0.7 | Boys aged 13 to 16 years |
 
 *The k values provided are based on the Jaffe method of measuring serum creatinine, and may require correction when enzymatic methods are used1.
 
 Monitor serum creatinine levels regularly and consider changes in height and body weight and adapt the dose as appropriate during prophylaxis period.
 
-All calculated doses should be rounded to the nearest 10 mg increment for the actual deliverable dose.
+All calculated doses should be rounded to the nearest 25 mg increment for the actual deliverable dose.
 If the calculated dose exceeds 900 mg, a maximum dose of 900 mg should be administered.
 Valganciclovir for oral solution is the preferred formulation since it provides the ability to administer a dose calculated according to the formula above; however, valganciclovir tablets may be used if the calculated doses are within 10% of available tablet strength (450 mg).
 For example, if the calculated dose is between 405 mg and 495 mg, one 450 mg tablet may be taken.
@@ -82,7 +82,7 @@ Dosing in pediatric patients with renal impairment can be done using the recomme
 
 ## 2.6 Handling and Disposal
 
-Caution should be exercised in the handling of valganciclovir tablets USP.
+Caution should be exercised in the handling of valganciclovir tablets.
 Tablets should not be broken or crushed.
 Because valganciclovir is considered a potential teratogen and carcinogen in humans, caution should be observed in handling broken tablets, [see Warnings and Precautions (5.4, 5.5)].
 Avoid direct contact with broken or crushed tablets with skin or mucous membranes.

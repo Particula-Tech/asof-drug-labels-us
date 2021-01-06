@@ -1,10 +1,9 @@
 # 10 OVERDOSAGE
 
-Experience with Valganciclovir Tablets: An overdose of valganciclovir could also possibly result in increased renal toxicity [see Dosage and Administration (2.5), Use in Specific Populations (8.6)].
+Experience with Valganciclovir Tablets: An overdose of valganciclovir could possibly result in increased renal toxicity [see Dosage and Administration (2.5), Use in Specific Populations (8.6)].
 Because ganciclovir is dialyzable, dialysis may be useful in reducing serum concentrations in patients who have received an overdose of valganciclovir [see Clinical Pharmacology (12.3)].
-
 Adequate hydration should be maintained.
-The use of hematopoietic growth factors should be considered [see Warnings and Precautions (5.1) and see Clinical Pharmacology (12.3)].
+The use of hematopoietic growth factors should be considered [see Warnings and Precautions (5.1) and Clinical Pharmacology (12.3)].
 
 Reports of adverse reactions after overdoses with valganciclovir, some with fatal outcomes, have been received from clinical trials and during postmarketing experience.
 The majority of patients experienced one or more of the following adverse events:

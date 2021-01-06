@@ -111,7 +111,7 @@ Renal function should be monitored and dosage adjustments should be made accordi
 Dose reduction is recommended when administering valganciclovir to patients with renal impairment [see Dosageand Administration (2.5), Warnings and Precautions (5.5), Clinical Pharmacology (12.3)].
 
 For adult patients on hemodialysis (CrCl less than10 mL/min) valganciclovir tablets should not be used.
-Adult hemodialysis patients should use ganciclovir in accordance with the dose-reduction algorithm cited in the CYTOVENE® -IV and ganciclovir capsules complete product information section on DOSAGE AND ADMINISTRATION: Renal Impairment [see Dosage and Administration (2.5) and Clinical Pharmacology (12.3)].
+Adult hemodialysis patients should use ganciclovir in accordance with the dose-reduction algorithm cited in the CYTOVENE® -IV complete product information section on DOSAGE AND ADMINISTRATION: Renal Impairment [see Dosage and Administration (2.5) and Clinical Pharmacology (12.3)].
 
 ## 8.7 Hepatic Impairment
 
