@@ -1,23 +1,17 @@
-# HOW SUPPLIED
+# 16 HOW SUPPLIED/STORAGE AND HANDLING
 
-Metoprolol Tartrate Injection, USP is available as:
+Metoprolol tartrate Injection, USP is available as:
 
-| Unit of Sale | Concentration | Each |
-| --- | --- | --- |
-| NDC 0409-1778-05 | 5 mg/5 mL | NDC 0409-1778-15 |
-| Carton of 10 | (1 mg/mL) | Single Dose Glass Fliptop Vial |
+| Unit of Sale | Concentration |
+| --- | --- |
+| NDC 0409-1778-05 | 5 mg/5 mL |
+| Carton of 10 Single-dose glass Fliptop Vials | (1 mg/mL) |
 
 Store at 20 to 25°C (68 to 77°F).
-[See USP Controlled Room Temperature.]
+[See USP Controlled Room Temperature.].
 Do not freeze.
 
 PROTECT FROM LIGHT.
 Retain in carton until time of use.
 
 Discard unused portion.
-
-Distributed by Hospira, Inc., Lake Forest, IL 60045 USA
-
-LAB-1113-2.0
-
-Revised: 2/2020

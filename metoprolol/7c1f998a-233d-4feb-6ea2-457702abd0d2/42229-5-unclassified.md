@@ -1,5 +1,3 @@
-Metoprolol Tartrate Injection, USP
+Distributed by Hospira, Inc., Lake Forest, IL 60045 USA
 
-Rx only
-
-Prescribing Information
+LAB-1113-3.0
