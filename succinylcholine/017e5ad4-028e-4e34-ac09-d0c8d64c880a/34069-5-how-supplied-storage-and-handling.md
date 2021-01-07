@@ -17,7 +17,7 @@ The multi-dose vials are stable for up to 14 days at room temperature without si
 
 Manufactured by:
 
-Cadila Healthcare Ltd. Ahmedabad, India / Liva Pharmaceuticals Ltd. Vadodara, India
+Cadila Healthcare Ltd. Ahmedabad, India / Cadila Healthcare Ltd. Vadodara, India
 
 Distributed by:
 
@@ -25,4 +25,4 @@ Zydus Pharmaceuticals (USA) Inc.
 
 Pennington, NJ 08534
 
-Revised: 11/19
+Revised: 01/21
