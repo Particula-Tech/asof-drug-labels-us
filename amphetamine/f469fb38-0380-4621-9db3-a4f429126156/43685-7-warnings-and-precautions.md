@@ -125,7 +125,7 @@ Both groups of agents increase blood levels and therefore potentiate the action 
 
 ### Antidepressants tricyclic
 
-Amphetamines may enhance the activity of tricyclic or sympathomimetic agents; d-amphetamine with desipramine or protriptyline and possibly other tricyclics cause striking and sustained increases in the concentration of d- amphetamine in the brain; cardiovascular effects can be potentiated.
+Amphetamines may enhance the activity of tricyclic or sympathomimetic agents; d-amphetamine with desipramine or protriptyline and possibly other tricyclics cause striking and sustained increases in the concentration of d-amphetamine in the brain; cardiovascular effects can be potentiated.
 
 ### CYP2D6 Inhibitors
 
@@ -186,11 +186,11 @@ Amphetamines enhance the adrenergic effect of norepinephrine.
 ### Phenobarbital
 
 Amphetamines may delay intestinal absorption of Phenobarbital.
-Co- administration of phenobarbital may produce a synergistic anticonvulsant action.
+Co-administration of phenobarbital may produce a synergistic anticonvulsant action.
 
 ### Phenytoin
 
-Amphetamines may delay intestinal absorption of phenytoin; co- administration of phenytoin may produce a synergistic anticonvulsant action.
+Amphetamines may delay intestinal absorption of phenytoin; co-administration of phenytoin may produce a synergistic anticonvulsant action.
 
 ### Propoxyphene
 

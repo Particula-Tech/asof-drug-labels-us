@@ -4,20 +4,24 @@ Read this Medication Guide before you or your child starts taking Evekeo and eac
 There may be new information.
 This information does not take the place of talking to your doctor about you or your child's treatment.
 
-| What is the most important information I should know about Evekeo tablets?Evekeo is a stimulant medicine. Some people have had the following problems when taking stimulant medicines such as Evekeo: 1. Heart-related problems: sudden death in people who have heart problems or heart defectsstroke and heart attack in adultsincreased blood pressure and heart rate Tell your doctor if you or your child has any heart problems, heart defects, high blood pressure, or a family history of these problems.Your doctor should check you or your child carefully for heart problems before starting Evekeo.Your doctor should check you or your child's blood pressure and heart rate regularly during treatment with Evekeo.Call your doctor right away if you or your child have any signs of heart problems such as chest pain, shortness of breath, or fainting while taking Evekeo. 2. Mental (Psychiatric) problems including:In children, teenagers, and adults: new or worse behavior and thought problemsnew or worse bipolar illnessnew or worse aggressive behavior or hostility In Children and Teenagers who have psychiatric problems, new psychotic symptoms such as: hearing voicesseeing things that are not realbelieving things that are not truebeing suspiciousnew manic symptoms Tell your doctor about any mental problems you or your child have, or about a family history of suicide, bipolar illness, or depression.Call your doctor right away if you or your child have any new or worsening mental symptoms or problems while taking Evekeo, especially: seeing or hearing things that are not realbelieving things that are not realbeing suspicious 3. Circulation problems in fingers and toes [Peripheral vasculopathy, including Raynaud's phenomenon]. Fingers or toes may feel numb, cool, painfulFingers or toes may change color from pale, to blue, to red Tell your doctor if you have or your child has numbness, pain, skin color change, or sensitivity to temperature in your fingers or toes.Call your doctor right away if you have or your child has any signs of unexplained wounds appearing on fingers or toes while taking Evekeo. |
+| What is the most important information I should know about Evekeo tablets?Evekeo is a stimulant medicine. Some people have had the following problems when taking stimulant medicines such as Evekeo: 1. Heart-related problems: sudden death in people who have heart problems or heart defectsstroke and heart attack in adultsincreased blood pressure and heart rate Tell your doctor if you or your child has any heart problems, heart defects, high blood pressure, or a family history of these problems.Your doctor should check you or your child carefully for heart problems before starting Evekeo.Your doctor should check you or your child's blood pressure and heart rate regularly during treatment with Evekeo.Call your doctor right away if you or your child have any signs of heart problems such as chest pain, shortness of breath, or fainting while taking Evekeo. 2.Mental (Psychiatric) problems including: In children, teenagers, and adults: new or worse behavior and thought problemsnew or worse bipolar illnessnew or worse aggressive behavior or hostility In Children and Teenagers who have psychiatric problems, new psychotic symptoms such as: hearing voicesseeing things that are not realbelieving things that are not truebeing suspiciousnew manic symptoms Tell your doctor about any mental problems you or your child have, or about a family history of suicide, bipolar illness, or depression.Call your doctor right away if you or your child have any new or worsening mental symptoms or problems while taking Evekeo, especially: seeing or hearing things that are not realbelieving things that are not realbeing suspicious 3. Circulation problems in fingers and toes [Peripheral vasculopathy, including Raynaud's phenomenon]. Fingers or toes may feel numb, cool, painfulFingers or toes may change color from pale, to blue, to red Tell your doctor if you have or your child has numbness, pain, skin color change, or sensitivity to temperature in your fingers or toes.Call your doctor right away if you have or your child has any signs of unexplained wounds appearing on fingers or toes while taking Evekeo. |
 | --- |
 
 What is Evekeo?
 
 - Evekeo is a central nervous system stimulant prescription medicine used for the treatment of:
   - a sleep disorder called narcolepsy.
-  - Attention-Deficit Hyperactivity Disorder (ADHD).Evekeo may help increase attention and decrease impulsiveness and hyperactivity in patients with ADHD.
+  - Attention-Deficit Hyperactivity Disorder (ADHD).
+    Evekeo may help increase attention and decrease impulsiveness and hyperactivity in patients with ADHD.
     Evekeo should be used as part of a total treatment program for ADHD that may include counseling or other therapies.
   - exogenous obesity.
     Evekeo may be used as part of a short-term, weight reduction program for obesity.
 - Evekeo is not for use as an anorectic agent for exogenous obesity in children less than 12 years of age.
 - Evekeo is not for use for ADHD in children less than 3 years old.
 - The effects of long term use of Evekeo in children are not known.
+
+| Evekeo is a federally controlled substance (CII) because it contains amphetamine that can be a target for people who abuse prescription medicines or street drugs. Keep Evekeo in a safe place to protect it from theft. Never give your Evekeo to anyone else, because it may cause death or harm them. Selling or giving away Evekeo is against the law.Tell your doctor if you or your child has (or has a family history of) ever abused or been dependent on alcohol, prescription medicines or street drugs. |
+| --- |
 
 Who should not take Evekeo?
 
@@ -143,7 +147,7 @@ You may report side effects to Arbor Pharmaceuticals, LLC, Medical Information a
 
 How should I store Evekeo?
 
-- Store Evekeo at room temperature between 68°F to 77°F (20°C to 25°C).
+- Store Evekeo at room temperature between 68˚F to 77˚F (20˚C to 25˚C).
 - Keep Evekeo and all medicines out of the reach of children.
 
 General information about the safe and effective use of Evekeo.
@@ -163,7 +167,7 @@ What are the ingredients in Evekeo?
 
 Active Ingredient: amphetamine sulfate
 
-Inactive Ingredients: crospovidone, silicifed microcrystalline cellulose, and stearic acid.
+Inactive Ingredients: crospovidone, silicified microcrystalline cellulose, and stearic acid.
 The 10 mg tablets also contain FD&C Blue #1.
 
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
