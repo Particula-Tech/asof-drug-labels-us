@@ -29,6 +29,13 @@ It may be transient or permanent.
 It has been reported mostly in patients who have been given excessive intravenous doses, who have an underlying hearing loss, or who are receiving concomitant therapy with another ototoxic agent, such as an aminoglycoside.
 Serial tests of auditory function may be helpful in order to minimize the risk of ototoxicity [see Adverse Reactions (6.2)].
 
-## 5.5 Development of Drug-Resistant Bacteria
+## 5.5 Severe Dermatologic Reactions
+
+Severe dermatologic reactions such as toxic epidermal necrolysis (TEN), Stevens-Johnson syndrome (SJS), drug reaction with eosinophilia and systemic symptoms (DRESS), acute generalized exanthematous pustulosis (AGEP), and linear IgA bullous dermatosis (LABD) have been reported in association with the use of vancomycin.
+Cutaneous signs or symptoms reported include skin rashes, mucosal lesions, and blisters.
+
+Discontinue VANCOCIN at the first appearance of signs and symptoms of TEN, SJS, DRESS, AGEP, or LABD.
+
+## 5.6 Development of Drug-Resistant Bacteria
 
 Prescribing VANCOCIN in the absence of a proven or strongly suspected bacterial infection or a prophylactic indication is unlikely to provide benefit to the patient and increases the risk of the development of drug resistant bacteria.
