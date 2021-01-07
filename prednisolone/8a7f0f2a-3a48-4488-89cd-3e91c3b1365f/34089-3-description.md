@@ -10,6 +10,6 @@ PRESERVATIVE ADDED: Benzalkonium Chloride 0.01%.
 
 The chemical name for prednisolone sodium phosphate is Pregna-1, 4-diene - 3, 20-dione, 11, 17-dihydroxy-21-(phosphonooxy)-, disodium salt, (11 β) -, which has the following structural formula:
 
-Molecular formula: C21H27Na2O8P
+Molecular Formula: C21H27Na2O8P
 
 Molecular Weight: 484.39

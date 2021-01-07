@@ -6,17 +6,21 @@ Prednisolone Sodium Phosphate Ophthalmic Solution, USP 1% is supplied in a plast
 
 ## Storage:
 
-Store between 15°-25°C (59°-77°F).
-
+Store between 15° to 25°C (59° to 77°F).
 Protect from light.
 Keep tightly closed.
 
-DO NOT USE IF IMPRINTED NECKBAND IS NOT INTACT.
+| DO NOT USE IF IMPRINTED NECKBAND IS NOT INTACT. |
+| --- |
 
 Keep out of reach of children.
 
-Revised: June 2016
+Distributed by: Bausch + Lomb, a division of Bausch Health US, LLC Bridgewater, NJ 08807 USA
 
-Bausch + Lomb, a division of Valeant Pharmaceuticals North America LLC Bridgewater, NJ 08807 USA ©Bausch & Lomb Incorporated
+Manufactured by: Bausch & Lomb Incorporated Tampa, FL 33637 USA
 
-9101404 (Folded) 9101504 (Flat)
+© 2020 Bausch & Lomb Incorporated or its affiliates
+
+Revised: March 2020
+
+9101405 (Folded) 9101505 (Flat)
