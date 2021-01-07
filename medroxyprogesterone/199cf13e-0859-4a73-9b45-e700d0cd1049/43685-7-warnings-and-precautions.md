@@ -33,9 +33,9 @@ Breast Cancer
 Women who have or have had a history of breast cancer should not use hormonal contraceptives, including Depo-Provera CI, because breast cancer may be hormonally sensitive [see Contraindications (4)].
 Women with a strong family history of breast cancer should be monitored with particular care.
 
-The results of five large case-control studies1, 2 assessing the association between depo-medroxyprogesterone acetate (DMPA) use and the risk of breast cancer are summarized in Figure 1.
+The results of five large case-control studies assessing the association between depo-medroxyprogesterone acetate (DMPA) use and the risk of breast cancer are summarized in Figure 1.
 Three of the studies suggest a slightly increased risk of breast cancer in the overall population of users; these increased risks were statistically significant in one study.
-One recent US study1 evaluated the recency and duration of use and found a statistically significantly increased risk of breast cancer in recent users (defined as last use within the past five years) who used DMPA for 12 months or longer; this is consistent with results of a previous study.
+One recent US study1 evaluated the recency and duration of use and found a statistically significantly increased risk of breast cancer in recent users (defined as last use within the past five years) who used DMPA for 12 months or longer; this is consistent with results of a previous study2.
 
 Figure 1 Risk estimates for breast cancer in DMPA users
 

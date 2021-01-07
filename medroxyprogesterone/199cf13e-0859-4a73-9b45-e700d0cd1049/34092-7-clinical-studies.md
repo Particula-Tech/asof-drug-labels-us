@@ -5,7 +5,7 @@
 In five clinical studies using Depo-Provera CI, the 12-month failure rate for the group of women treated with Depo-Provera CI was zero (no pregnancies reported) to 0.7 by Life-Table method.
 The effectiveness of Depo-Provera CI is dependent on the patient returning every 3 months (13 weeks) for reinjection.
 
-## 14.2 Bone Mineral Density Changes in Adult Women Treated with Depo-Provera CI
+## 14.2 Bone Mineral Density Changes in Women Treated with Depo-Provera CI
 
 In a controlled, clinical study, adult women using Depo-Provera CI (150mg) for up to 5 years showed spine and hip bone mineral density (BMD) mean decreases of 5–6%, compared to no significant change in BMD in the control group.
 The decline in BMD was more pronounced during the first two years of use, with smaller declines in subsequent years.
