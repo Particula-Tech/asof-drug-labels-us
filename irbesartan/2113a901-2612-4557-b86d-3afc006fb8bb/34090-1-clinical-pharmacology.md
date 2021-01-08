@@ -49,11 +49,11 @@ In studies of hypertensive patients, there is no sex difference in half-life or 
 No sex-related dosage adjustment is necessary.
 Geriatrics In elderly subjects (age 65 to 80 years), irbesartan elimination half-life is not significantly altered, but AUC and Cmax values are about 20% to 50% greater than those of young subjects (age 18 to 40 years).
 No dosage adjustment is necessary in the elderly.
-Race/Ethnicity In healthy black subjects, irbesartan AUC values are approximately 25% greater than whites; there is no difference in Cmax values.
-Renal Impairment The pharmacokinetics of irbesartan is not altered in patients with renal impairment or in patients on hemodialysis.
+Race/ethnicity In healthy black subjects, irbesartan AUC values are approximately 25% greater than whites; there is no difference in Cmax values.
+Renal impairment The pharmacokinetics of irbesartan is not altered in patients with renal impairment or in patients on hemodialysis.
 Irbesartan is not removed by hemodialysis.
 No dosage adjustment is necessary in patients with mild to severe renal impairment unless a patient with renal impairment is also volume depleted [see Warnings and Precautions (5.2) and Dosage and Administration (2.4)].
-Hepatic Insufficiency The pharmacokinetics of irbesartan following repeated oral administration are not significantly affected in patients with mild to moderate cirrhosis of the liver.
+Hepatic insufficiency The pharmacokinetics of irbesartan following repeated oral administration are not significantly affected in patients with mild to moderate cirrhosis of the liver.
 No dosage adjustment is necessary in patients with hepatic insufficiency.
 Drug-Drug Interactions In vitro studies show significant inhibition of the formation of oxidized irbesartan metabolites with the known cytochrome CYP2C9 substrates/inhibitors sulphenazole, tolbutamide and nifedipine.
 However, in clinical studies the consequences of concomitant irbesartan on the pharmacodynamics of warfarin were negligible.

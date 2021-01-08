@@ -2,12 +2,12 @@
 
 ## 14.1 Hypertension
 
-The antihypertensive effects of irbesartan were examined in 7 placebo-controlled 8-to 12-week trials in patients with baseline diastolic blood pressures of 95 to 110 mmHg.
+The antihypertensive effects of irbesartan were examined in 7 placebo-controlled 8- to 12-week trials in patients with baseline diastolic blood pressures of 95 to 110 mmHg.
 Doses of 1 to 900 mg were included in these trials in order to fully explore the dose-range of irbesartan.
-These studies allowed comparison of once-or twice-daily regimens at 150 mg/day, comparisons of peak and trough effects, and comparisons of response by sex, age, and race.
+These studies allowed comparison of once or twice-daily regimens at 150 mg/day, comparisons of peak and trough effects, and comparisons of response by sex, age, and race.
 Two of the seven placebo-controlled trials identified above examined the antihypertensive effects of irbesartan and hydrochlorothiazide in combination.
 The 7 studies of irbesartan monotherapy included a total of 1915 patients randomized to irbesartan (1 to 900 mg) and 611 patients randomized to placebo.
-Once-daily doses of 150 mg and 300 mg provided statistically and clinically significant decreases in systolic and diastolic blood pressure with trough (24 hours post dose) effects after 6 to 12 weeks of treatment compared to placebo, of about 8 to 10/5 to 6 mmHg and 8 to 12/5 to 8 mmHg, respectively.
+Once-daily doses of 150 mg and 300 mg provided statistically and clinically significant decreases in systolic and diastolic blood pressure with trough (24 hours post-dose) effects after 6 to 12 weeks of treatment compared to placebo, of about 8 to 10/5 to 6 mmHg and 8 to 12/5 to 8 mmHg, respectively.
 No further increase in effect was seen at dosages greater than 300 mg.
 The dose-response relationships for effects on systolic and diastolic pressure are shown in Figures 1 and 2.
 Once-daily administration of therapeutic doses of irbesartan gave peak effects at around 3 to 6 hours and, in one ambulatory blood pressure monitoring study, again around 14 hours.
@@ -25,7 +25,7 @@ There was essentially no change in average heart rate in irbesartan-treated pati
 
 ## 14.2 Nephropathy in Type 2 Diabetic Patients
 
-The Irbesartan Diabetic Nephropathy Trial (IDNT) was a randomized, placebo-and active-controlled, double-blind, multicenter study conducted worldwide in 1715 patients with type 2 diabetes, hypertension (SeSBP >135 mmHg or SeDBP >85 mmHg), and nephropathy (serum creatinine 1.0 to 3.0 mg/dL in females or 1.2 to 3.0 mg/dL in males and proteinuria ≥900 mg/day).
+The Irbesartan Diabetic Nephropathy Trial (IDNT) was a randomized, placebo- and active-controlled, double-blind, multicenter study conducted worldwide in 1715 patients with type 2 diabetes, hypertension (SeSBP >135 mmHg or SeDBP >85 mmHg), and nephropathy (serum creatinine 1.0 to 3.0 mg/dL in females or 1.2 to 3.0 mg/dL in males and proteinuria ≥900 mg/day).
 Patients were randomized to receive irbesartan 75 mg, amlodipine 2.5 mg, or matching placebo once-daily.
 Patients were titrated to a maintenance dose of irbesartan 300 mg, or amlodipine 10 mg, as tolerated.
 Additional antihypertensive agents (excluding ACE inhibitors, angiotensin II receptor antagonists and calcium channel blockers) were added as needed to achieve blood pressure goal (≤135/85 or 10 mmHg reduction in systolic blood pressure if higher than 160 mmHg) for patients in all groups.
@@ -42,7 +42,7 @@ The percentages of patients experiencing an event during the course of the study
 
 Table 1: IDNT: Components of Primary Composite Endpoint
 
-|  | Irbesartan N=579 (%) | Comparison With Placebo |  |  |  |  | Comparison With Amlodipine |  |  |
+|  | Irbesartan N=579 (%) | Comparison with Placebo |  |  |  |  | Comparison with Amlodipine |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | Placebo N=569 (%) |  | Hazard Ratio |  | 95% CI | Amlodipine N=567 (%) | Hazard Ratio | 95% CI |  |  |
 | Primary Composite Endpoint | 32.6 | 39.0 |  | 0.80 |  | 0.66 to 0.97 (p=0.0234) | 41.1 | 0.77 | 0.63 to 0.93 |
@@ -57,12 +57,13 @@ Table 1: IDNT: Components of Primary Composite Endpoint
 
 The secondary endpoint of the study was a composite of cardiovascular mortality and morbidity (myocardial infarction, hospitalization for heart failure, stroke with permanent neurological deficit, amputation).
 There were no statistically significant differences among treatment groups in these endpoints.
-Compared with placebo, irbesartan significantly reduced proteinuria by about 27%, an effect that was evident within 3 months of starting therapy. irbesartan significantly reduced the rate of loss of renal function (glomerular filtration rate), as measured by the reciprocal of the serum creatinine concentration, by 18.2%.
+Compared with placebo, Irbesartan significantly reduced proteinuria by about 27%, an effect that was evident within 3 months of starting therapy.
+Irbesartan significantly reduced the rate of loss of renal function (glomerular filtration rate), as measured by the reciprocal of the serum creatinine concentration, by 18.2%.
 Table 2 presents results for demographic subgroups.
 Subgroup analyses are difficult to interpret, and it is not known whether these observations represent true differences or chance effects.
 For the primary endpoint, irbesartan’s favorable effects were seen in patients also taking other antihypertensive medications (angiotensin II receptor antagonists, angiotensin-converting-enzyme inhibitors, and calcium channel blockers were not allowed), oral hypoglycemic agents, and lipid-lowering agents.
 
-Table 2: IDNT: Primary Efficacy Outcome Within Subgroups
+Table 2: IDNT: Primary Efficacy Outcome within Subgroups
 
 | Baseline Factors | Irbesartan N=579 (%) | Comparison With Placebo |  |  |
 | --- | --- | --- | --- | --- |
