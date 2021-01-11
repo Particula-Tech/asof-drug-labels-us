@@ -5,6 +5,7 @@
   "inn": "nicardipine",
   "labeler": "Baxter Healthcare Corporation",
   "package_ndcs": [
+    "43066-009-10",
     "43066-016-10"
   ],
   "products": [
