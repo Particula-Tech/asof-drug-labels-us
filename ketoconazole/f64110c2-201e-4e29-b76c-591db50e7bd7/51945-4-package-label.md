@@ -1,19 +1,27 @@
 # PRINCIPAL DISPLAY PANEL
 
-NON-PRESCRIPTION STRENGTH NDC 55505-191-40 Nizoral® A-D KETOCONAZOLE SHAMPOO 1% Anti-Dandruff Shampoo CONTROLS FLAKING, SCALING AND ITCHING The Freedom Will Go To Your Head 7 FL OZ (200 mL) Before use read all label information.
-If you have a drug reaction, contact a doctor and report it by calling or writing: Kramer Laboratories, Inc. 233 Mt.
-Airy Road, Suite 100, Basking Ridge NJ 07920 1-800-824-4894 © 2019 Kramer Laboratories, Inc. KRAMER LABORATORIES Kramer Laboratories, Inc. 233 Mt.
-Airy Road, Suite 100, Basking Ridge NJ 07920 Made in Belgium US Patent No. 5,456,851 USA 692133 875
+Nizoral® Anti-Dandruff KETOCONAZOLE 1% ANTI-DANDRUFF SHAMPOO Anti-Dandruff Shampoo CLINICALLY PROVEN to control flaking, scaling and itching from dandruff CONTROLS fungus that can cause dandruff CLEAN fresh scent 7 fl oz (200mL) What Causes Dandruff?
+Dandruff can have many causes.
+A fungus found on every human head is often associated with dandruff.
+How Does Nizoral® Anti-Dandruff Work?
+NIZORAL® Anti-Dandruff is the only over-the-counter anti-dandruff shampoo that has Ketoconazole, an effective antifungal.
+Ketoconazole works by controlling fungus often associated with dandruff, and once the fungus is controlled, so are your dandruff symptoms.
+Before use, read all label information.
+If you have a drug reaction, contact a doctor and report it by calling: 1.800.824.4894 KRAMER LABORATORIES Made in Belgium Distributed by: Kramer Laboratories, Inc. Bridgewater, NJ 08807 USA © 2020 KRAMER LABORATORIES, INC. USA XXXXXX 875
 
-NON-PRESCRIPTION STRENGTH NDC 55505-191-40 Nizoral® A-D KETOCONAZOLE SHAMPOO 1% Anti-Dandruff Shampoo CONTROLS FLAKING, SCALING AND ITCHING 7 FL OZ (200 mL) USA - 688136
+Nizoral® Anti-Dandruff KETOCONAZOLE 1% ANTI-DANDRUFF SHAMPOO Anti-Dandruff Shampoo CLINICALLY PROVEN to control flaking, scaling and itching from dandruff CONTROLS fungus that can cause dandruff CLEAN fresh scent 7 fl oz (200mL)
 
-Dist. by: Kramer Laboratories, Inc. Basking Ridge, NJ 07920 USA © 2019 Kramer Laboratories, Inc. Made in Belgium US Patent No. 5,456,851 USA - 688036 LOT EXP
+Dist. by: Kramer Laboratories, Inc., Bridgewater, NJ 08807 USA © 2020 Kramer Laboratories, Inc. Made in Belgium USA - XXXXXX LOT EXP
 
-NON-PRESCRIPTION STRENGTH NDC 55505-191-33 Nizoral® A-D KETOCONAZOLE SHAMPOO 1% Anti-Dandruff Shampoo CONTROLS FLAKING, SCALING AND ITCHING The Freedom Will Go To Your Head 4 FL OZ (125 mL) Before use read all label information.
-If you have a drug reaction, contact a doctor and report it by calling or writing: Kramer Laboratories, Inc. 233 Mt.
-Airy Road, Suite 100, Basking Ridge NJ 07920 1-800-824-4894 © 2019 Kramer Laboratories, Inc. KRAMER LABORATORIES Kramer Laboratories, Inc. 233 Mt.
-Airy Road, Suite 100, Basking Ridge NJ 07920 Made in Belgium US Patent No. 5,456,851 USA 688039 876
+Nizoral® Anti-Dandruff KETOCONAZOLE 1% ANTI-DANDRUFF SHAMPOO Anti-Dandruff Shampoo CLINICALLY PROVEN to control flaking, scaling and itching from dandruff CONTROLS fungus that can cause dandruff CLEAN fresh scent 4 fl oz (125mL) What Causes Dandruff?
+Dandruff can have many causes.
+A fungus found on every human head is often associated with dandruff.
+How Does Nizoral® Anti-Dandruff Work?
+NIZORAL® Anti-Dandruff is the only over-the-counter anti-dandruff shampoo that has Ketoconazole, an effective antifungal.
+Ketoconazole works by controlling fungus often associated with dandruff, and once the fungus is controlled, so are your dandruff symptoms.
+Before use, read all label information.
+If you have a drug reaction, contact a doctor and report it by calling: 1.800.824.4894 KRAMER LABORATORIES Made in Belgium Distributed by: Kramer Laboratories, Inc. Bridgewater, NJ 08807 USA © 2020 KRAMER LABORATORIES, INC. USA XXXXXX 876
 
-NON-PRESCRIPTION STRENGTH NDC 55505-191-33 Nizoral® A-D KETOCONAZOLE SHAMPOO 1% Anti-Dandruff Shampoo CONTROLS FLAKING, SCALING AND ITCHING 4 FL OZ (125 mL) USA - 688137
+Nizoral® Anti-Dandruff KETOCONAZOLE 1% ANTI-DANDRUFF SHAMPOO Anti-Dandruff Shampoo CLINICALLY PROVEN to control flaking, scaling and itching from dandruff CONTROLS fungus that can cause dandruff CLEAN fresh scent 4 fl oz (125mL)
 
-Dist. by: Kramer Laboratories, Inc. Basking Ridge, NJ 07920 USA © 2019 Kramer Laboratories, Inc. Questions or comments? call 1-800-824-4894 Made in Belgium US Patent No. 5,456,851 USA - 688131 LOT EXP
+Dist. by: Kramer Laboratories, Inc., Bridgewater, NJ 08807 USA © 2020 Kramer Laboratories, Inc. Made in Belgium USA - XXXXXX LOT EXP

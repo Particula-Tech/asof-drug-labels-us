@@ -1,6 +1,4 @@
 # Other information
 
-- store between 35° and 86°F (2° and 30°C)
-- protect from light
-- protect from freezing
+- store at 20°C to 25°C (68°F-77°F)
 - see top panel for lot number and expiration date
