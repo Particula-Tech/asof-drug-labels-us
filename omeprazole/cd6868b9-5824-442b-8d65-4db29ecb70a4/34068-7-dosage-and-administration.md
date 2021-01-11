@@ -23,7 +23,7 @@ Table 1: Recommended Dosage Regimen of ZEGERID for Oral Suspension and ZEGERID C
 
 | Indication | Dosage of ZEGERID for oral suspension or ZEGERID capsules | Treatment Duration |
 | --- | --- | --- |
-| Treatment of Active Duodenal Ulcer | 20 mg once daily | 4 weeks |
+| Treatment of Active Duodenal Ulcer | 20 mg once daily | 4 weeks1,2 |
 | Treatment of Active Benign Gastric Ulcer | 40 mg once daily | 4 to 8 weeks |
 | Treatment of Symptomatic GERD | 20 mg once daily | Up to 4 weeks |
 | Treatment of EE due to Acid-Mediated GERD | 20 mg once daily | 4 to 8 weeks |

@@ -39,4 +39,4 @@ Giving ZEGERID for oral suspension with water through a nasogastric (NG) tube or
 9. 9.Shake the syringe and flush any remaining medicine from the NG tube or OG tube into the stomach.
 
 Distributed by: Salix Pharmaceuticals, a division of Bausch Health US, LLC Bridgewater, NJ 08807 USA Zegerid is a trademark of Salix Pharmaceuticals, Inc. or its affiliates.
-Any other product/brand names are trademarks of the respective owners. © 2019 Salix Pharmaceuticals, Inc. or its affiliates Revised 09/2019
+Any other product/brand names are trademarks of the respective owners. © 2020 Salix Pharmaceuticals, Inc. or its affiliates 9658602 Revised 11/2020
