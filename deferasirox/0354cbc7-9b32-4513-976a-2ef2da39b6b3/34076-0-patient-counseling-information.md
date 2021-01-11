@@ -37,4 +37,4 @@ Based on serum ferritin levels and clinical response, consider increases in the 
 Caution patients with diabetes to monitor their glucose levels more frequently when repaglinide is used concomitantly with deferasirox [see Drug Interactions (7.3)].
 Handling Instructions Advise patients to store deferasirox in a dry, room-temperature environment [see How Supplied/Storage and Handling (16)].
 Driving and Using Machines Caution patients experiencing dizziness to avoid driving or operating machinery [see Adverse Reactions (6.1)].
-Manufactured by: MSN Laboratories Private Limited Telangana – 509 216, INDIA Distributed by: MSN Pharmaceuticals Inc. Piscataway, NJ 08854-3714 Issued on: August 2020
+Manufactured by: MSN Laboratories Private Limited Telangana – 509 216, INDIA Distributed by: MSN Pharmaceuticals Inc. Piscataway, NJ 08854-3714 Issued on: January 2021
