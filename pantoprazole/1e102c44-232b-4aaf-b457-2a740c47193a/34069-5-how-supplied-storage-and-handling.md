@@ -10,7 +10,7 @@ Pantoprazole Sodium for Injection is available as follows:
 | --- | --- | --- |
 | 0143-9300-10 | 40 mg pantoprazole | 10 vials |
 
-Storage and Handling
+S torage and Handling
 
 Store at 20° to 25°C (68° to 77°F); excursions permitted to 15° to 30°C (59° to 86°F) [see USP Controlled Room Temperature].
 

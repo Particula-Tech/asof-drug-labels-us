@@ -1,6 +1,6 @@
 # 14 CLINICAL STUDIES
 
-The safety and efficacy of Pantoprazole Sodium for Injection have been established based on adequate and well-controlled adult studies of another intravenous formulation of pantoprazole sodium in GERD associated with a history of EE and pathological hypersecretory conditions, including Zollinger-Ellison syndrome.
+The safety and efficacy of Pantoprazole Sodium for Injection have been established based on adequate and well-controlled adult studies of another intravenous pantoprazole sodium product in GERD associated with a history of EE and pathological hypersecretory conditions, including Zollinger-Ellison syndrome.
 Below is a display of the results of these adequate and well-controlled studies of pantoprazole sodium in these conditions.
 
 ## 14.1 Gastroesophageal Reflux Disease (GERD) Associated with a History of Erosive Esophagitis
@@ -22,7 +22,7 @@ Table 4: Antisecretory Effects (mEq/h) of 40 mg Intravenous Pantoprazole Sodium 
 | Mean maximum acid output | 6.49 n=30 | 6.62 n=23 | 29.19** n=7 |
 | Mean basal acid output | 0.80 n=30 | 0.53 n=23 | 4.14** n=7 |
 
-* another intravenous formulation of pantoprazole sodium **p<0.0001 Significantly different from intravenous pantoprazole sodium.
+* another intravenous pantoprazole sodium product **p<0.0001 Significantly different from intravenous pantoprazole sodium.
 
 To evaluate the effectiveness of intravenous pantoprazole sodium as an initial treatment to suppress gastric acid secretion, two studies were conducted.
 
@@ -40,7 +40,7 @@ Table 5: Antisecretory Effects (mEq/h) of Initial Treatment with 40 mg Intraveno
 | Maximum acid output (mean ±SD) | 8.4 ± 5.9n=25 | 6.3 ± 6.6n=22 | 20.9 ± 14.5**n=24 |
 | Basal acid output (mean±SD) | 0.4 ± 0.5n=25 | 0.6 ± 0.8n=22 | 2.8 ± 3**n=23 |
 
-* another intravenous formulation of pantoprazole sodium ** p<0.0001 Significantly different from intravenous pantoprazole sodium
+* another intravenous pantoprazole sodium product ** p<0.0001 Significantly different from intravenous pantoprazole sodium
 
 Study 2 was a single-center, double-blind, parallel-group study to compare the clinical effects of intravenous and oral pantoprazole sodium.
 Patients (n=45, median age 56 years, 21 males and 24 females) with acute endoscopically proven reflux esophagitis (Savary/Miller Stage II or III) with at least 1 of 3 symptoms typical for reflux esophagitis (acid eructation, heartburn, or pain on swallowing) were randomized to receive either 40 mg intravenous pantoprazole or 40 mg oral pantoprazole once daily for 5 days.

@@ -20,7 +20,7 @@ Intravenous doses of 20 to 80 mg of pantoprazole substantially reduced the 24-ho
 Complete suppression of PSAO was achieved with 80 mg within approximately 2 hours and no further significant suppression was seen with 120 mg.
 The duration of action of intravenous pantoprazole sodium was 24 hours.
 
-Table 3: Gastric Acid Output (mEq/hr, Mean ± SD) and Percent Inhibition*(Mean ± SD) of Pentagastrin-Stimulated Acid Output Over 24 Hours Following a Single Dose of Another Intravenous Formulation of Pantoprazole Sodium† in Healthy Subjects
+Table 3: Gastric Acid Output (mEq/hr, Mean ± SD) and Percent Inhibition* (Mean ± SD) of Pentagastrin-Stimulated Acid Output Over 24 Hours Following a Single Dose of Another Intravenous Pantoprazole Sodium† Product in Healthy Subjects
 
 |  | 2 hours |  | 4 hours |  | 12 hours |  | 24 hours |  |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |

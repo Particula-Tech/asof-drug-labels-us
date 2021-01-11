@@ -4,10 +4,10 @@
 
 Risk Summary
 
-Available data from published observational studies did not demonstrate an association of major malformations or other adverse pregnancy outcomes with pantoprazole [see Data].
+Available data from published observational studies did not demonstrate an association of major malformations or other adverse pregnancy outcomes with pantoprazole (see Data).
 
 In animal reproduction studies, no evidence of adverse development outcomes was observed with pantoprazole.
-Reproduction studies have been performed in rats at intravenous doses up to 20 mg/kg/day (4 times the recommended human dose) and rabbits at intravenous doses up to 15 mg/kg/day (6 times the recommended human dose) with administration of pantoprazole during organogenesis in pregnant animals and have revealed no evidence of harm to the fetus due to pantoprazole in this study [see Data].
+Reproduction studies have been performed in rats at intravenous doses up to 20 mg/kg/day (4 times the recommended human dose) and rabbits at intravenous doses up to 15 mg/kg/day (6 times the recommended human dose) with administration of pantoprazole during organogenesis in pregnant animals and have revealed no evidence of harm to the fetus due to pantoprazole in this study (see Data).
 
 A pre- and postnatal development toxicity study in rats with additional endpoints to evaluate the effect on bone development was performed with pantoprazole sodium.
 Oral pantoprazole doses of 5, 15, and 30 mg/kg/day (approximately 1, 3, and 6 times the human dose of 40 mg/day) were administered to pregnant females from gestation day (GD) 6 through lactation day (LD) 21.
@@ -50,7 +50,7 @@ Changes in bone parameters were partially reversible following a recovery period
 Risk Summary
 
 The limited data from a single case reports the presence of pantoprazole in human breast milk.
-There were no effects on the breastfed infant [see Data].
+There were no effects on the breastfed infant (see Data).
 There are no data on pantoprazole effects on milk production.
 
 The developmental and health benefits of breastfeeding should be considered along with the mother’s clinical need for pantoprazole and any potential adverse effects on the breastfed child from pantoprazole or from the underlying maternal condition.
@@ -60,7 +60,7 @@ Data
 The breast milk of a 42-year-old woman receiving 40 mg of oral pantoprazole, at 10 months postpartum, was studied for 24 hours, to demonstrate low levels of pantoprazole present in the breast milk.
 Pantoprazole was detectable in milk only 2 and 4 hours after the dose with milk levels of approximately 36 mcg/L and 24 mcg/L, respectively.
 A milk-to-plasma ratio of 0.022 was observed at 2 hours after drug administration.
-Pantoprazole was not detectable (<10 mcg/L) in milk at 6, 8 and 24 hours after the dose.
+Pantoprazole was not detectable (less than 10 mcg/L) in milk at 6, 8 and 24 hours after the dose.
 The relative dose to the infant was estimated to be 7.3 mcg of pantoprazole, which is equivalent to 0.14% of the weight-adjusted maternal dose.
 No adverse events in the infant were reported by the mother.
 
@@ -72,7 +72,7 @@ Animal Toxicity Data
 
 In a pre- and post-natal development study in rats, the pups were administered oral doses of pantoprazole at 5, 15, and 30 mg/kg/day on postnatal day (PND 4) through PND 21, in addition to lactational exposure through milk.
 On PND 21, decreased mean femur length and weight and changes in femur bone mass and geometry were observed in the offspring at 5 mg/kg/day and higher doses.
-Changes in bone parameters were partially reversible following a recovery period [see Use in Specific Populations (8.1)].
+Changes in bone parameters were partially reversible following a recovery period [seeUse in Specific Populations (8.1)].
 
 In neonatal/juvenile animals (rats and dogs) toxicities were similar to those observed in adult animals including gastric alterations, decreases in red cell mass, increases in lipids, enzyme induction and hepatocellular hypertrophy.
 An increased incidence of eosinophilic chief cells in adult and neonatal/juvenile rats, and atrophy of chief cells in adult rats and in neonatal/juvenile dogs, was observed in the fundic mucosa of stomachs in repeated-dose studies.
