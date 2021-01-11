@@ -23,8 +23,8 @@ Effects of Other Drugs on Metoclopramide
 | Intervention | Avoid GIMOTI or the interacting drug, depending on the importance of the drug to the patient. |
 | Examples | alcohol, sedatives, hypnotics, opiates, and anxiolytics |
 | Drugs that Impair Gastrointestinal Motility |  |
-| Clinical Impact | Decreased systemic absorption of metoclopramide. |
-| Intervention | Monitor for reduced therapeutic effect. |
+| Clinical Impact | Potential for decreased effect of metoclopramide due to opposing effects on gastrointestinal motility. |
+| Intervention | Monitor for reduced effect on gastrointestinal motility. |
 | Examples | antiperistaltic antidiarrheal drugs, anticholinergic drugs, and opiates |
 | Dopaminergic Agonists and Other Drugs that Increase Dopamine Concentrations |  |
 | Clinical Impact | Decreased therapeutic effect of metoclopramide due to opposing effects on dopamine. |
