@@ -63,3 +63,44 @@ Multiple-dose vial
 Rx only
 
 Pfizer Oncology
+
+# PRINCIPAL DISPLAY PANEL - 150 mg Vial Label
+
+NDC 0069-0308-01 Rx only
+
+Trazimera™ (trastuzumab-qyyp) For Injection
+
+Mfg. by Pfizer Ireland Pharmaceuticals Cork, Ireland
+
+US License No. 2060
+
+150 mg/vial
+
+For intravenous infusion after reconstitution Single-dose vial
+
+For Reconstitution, Dilution and Dosage: See Prescribing Information.
+
+Storage: Refrigerate at 2°C to 8°C (36°F to 46°F) in the original carton to protect from light.
+Unopened vial can be stored up to 30°C (86°F) for a single period of up to 3 months but not exceeding the expiry date.
+Discard after ____/____/____.
+Do Not Freeze.
+Do Not Shake After Reconstitution.
+Discard unused reconstituted solution after 24 hours.
+
+# PRINCIPAL DISPLAY PANEL - 150 mg Vial Carton
+
+NDC 0069-0308-01
+
+Trazimera™ (trastuzumab-qyyp)
+
+For Injection
+
+150 mg/vial
+
+For intravenous infusion after reconstitution
+
+Single-dose vial
+
+Rx only
+
+Pfizer Oncology

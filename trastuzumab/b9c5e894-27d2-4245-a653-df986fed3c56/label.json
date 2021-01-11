@@ -7,9 +7,15 @@
   "package_ndcs": [
     "0069-0305-01",
     "0069-0306-01",
-    "0069-0307-01"
+    "0069-0307-01",
+    "0069-0308-01"
   ],
   "products": [
+    {
+      "form": "INJECTION, POWDER, LYOPHILIZED, FOR SOLUTION",
+      "generic": "trastuzumab-qyyp",
+      "name": "Trazimera"
+    },
     {
       "form": "KIT",
       "generic": "trastuzumab-qyyp",

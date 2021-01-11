@@ -99,8 +99,42 @@ Use appropriate aseptic technique when performing the following reconstitution s
 Dilution
 
 - Determine the dose (mg) of TRAZIMERA [see Dosage and Administration (2.2)].
-  Calculate the volume of the 21 mg/mL reconstituted TRAZIMERA solution needed, withdraw this amount from the vial and add it to an infusion bag containing 250 mL of 0.9% Sodium Chloride Injection, USP.
+- Calculate the volume of the 21 mg/mL reconstituted TRAZIMERA solution needed.
+- Withdraw this amount from the vial and add it to an infusion bag containing 250 mL of 0.9% Sodium Chloride Injection, USP.
   DO NOT USE DEXTROSE (5%) SOLUTION.
 - Gently invert the bag to mix the solution.
-- The solution of TRAZIMERA for infusion diluted in polyvinylchloride, polyethylene, polypropylene, or ethylene vinyl acetate bags or glass IV bottles containing 0.9% Sodium Chloride Injection, USP, should be stored at 2°C to 8°C (36°F to 46°F) for no more than 24 hours prior to use.
+- The solution of TRAZIMERA for infusion diluted in polyvinylchloride, polyethylene, polypropylene, or ethylene vinyl acetate bags or glass intravenous bottles containing 0.9% Sodium Chloride Injection, USP, should be stored at 2°C to 8°C (36°F to 46°F) for no more than 24 hours prior to use.
+  Do not freeze.
+
+150 mg Single-Dose Vial
+
+Reconstitution
+
+Reconstitute each 150 mg vial of TRAZIMERA with 7.4 mL of Sterile Water for Injection (SWFI) (not supplied) to yield a single-dose solution containing 21 mg/mL trastuzumab-qyyp that delivers 7.15 mL (150 mg trastuzumab-qyyp).
+
+Use appropriate aseptic technique when performing the following reconstitution steps:
+
+- Using a sterile syringe, slowly inject 7.4 mL of SWFI (not supplied) into the vial containing the lyophilized powder of TRAZIMERA, which has a cake-like appearance.
+  The reconstituted vial yields a solution for single-dose use, containing 21 mg/mL trastuzumab-qyyp.
+- Swirl the vial gently to aid reconstitution.
+  DO NOT SHAKE.
+- Slight foaming of the product may be present upon reconstitution.
+  Allow the vial to stand undisturbed for approximately 5 minutes.
+- Parenteral drug products should be inspected visually for particulate matter and discoloration prior to administration, whenever solution and container permit.
+  Inspect visually for particulates and discoloration.
+  The solution should be free of visible particulates, clear to slightly opalescent and colorless to pale yellow-brown.
+- Use the TRAZIMERA solution immediately following reconstitution with SWFI, as it contains no preservative and is intended for single-dose only.
+  If not used immediately, store the reconstituted TRAZIMERA solution for up to 24 hours at 2°C to 8°C (36°F to 46°F); discard unused TRAZIMERA after 24 hours.
+  Do not freeze.
+
+Dilution
+
+- Determine the dose (mg) of TRAZIMERA [see Dosage and Administration (2.2)].
+- Calculate the volume of the 21 mg/mL reconstituted TRAZIMERA solution needed.
+- Withdraw this amount from the vial and add it to an infusion bag containing 250 mL of 0.9% Sodium Chloride Injection, USP.
+  DO NOT USE DEXTROSE (5%) SOLUTION.
+- Gently invert the bag to mix the solution.
+- The solution of TRAZIMERA for infusion diluted in polyvinylchloride, polyethylene, polypropylene, or ethylene vinyl acetate bags or glass intravenous bottles containing 0.9% Sodium Chloride Injection, USP, should be stored at 2°C to 8°C (36°F to 46°F) for no more than 24 hours prior to use.
+  Discard after 24 hours.
+  This storage time is additional to the time allowed for the reconstituted vials.
   Do not freeze.

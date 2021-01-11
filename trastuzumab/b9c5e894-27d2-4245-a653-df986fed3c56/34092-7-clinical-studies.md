@@ -190,7 +190,7 @@ The overall response rate in patients whose tumors tested as CTA 3+ was 18% whil
 ## 14.3 Metastatic Gastric Cancer
 
 The safety and efficacy of trastuzumab in combination with cisplatin and a fluoropyrimidine (capecitabine or 5-fluorouracil) were studied in patients previously untreated for metastatic gastric or gastroesophageal junction adenocarcinoma (Study 7).
-In this open-label, multi-center trial, 594 patients were randomized 1:1 to trastuzumab in combination with cisplatin and a fluoropyrimidine (FC+T) or chemotherapy alone (FC).
+In this open-label, multi-center trial, 594 patients were randomized 1:1 to trastuzumab in combination with cisplatin and a fluoropyrimidine (FC+H) or chemotherapy alone (FC).
 Randomization was stratified by extent of disease (metastatic vs. locally advanced), primary site (gastric vs. gastroesophageal junction), tumor measurability (yes vs. no), ECOG performance status (0,1 vs. 2), and fluoropyrimidine (capecitabine vs. 5-fluorouracil).
 All patients were either HER2 gene amplified (FISH+) or HER2 overexpressing (IHC 3+).
 Patients were also required to have adequate cardiac function (e.g., LVEF > 50%).
@@ -210,7 +210,7 @@ The efficacy results of both the final and the updated analyses are summarized i
 
 Table 13 Study 7: Overall Survival in ITT Population
 
-|  | FC Arm N = 296 | FC + T Arm N = 298 |
+|  | FC Arm N = 296 | FC + H Arm N = 298 |
 | --- | --- | --- |
 | Definitive (Second Interim) Overall Survival |  |  |
 | No. Deaths (%) | 184 (62.2%) | 167 (56.0%) |
@@ -233,7 +233,7 @@ An exploratory analysis of OS in patients based on HER2 gene amplification (FISH
 
 Table 14 Exploratory Analyses by HER2 Status Using Updated Overall Survival Results
 
-|  | FC (N = 296)Two patients on the FC arm who were FISH+ but IHC status unknown were excluded from the exploratory subgroup analyses. | FC + T (N = 298)Five patients on the trastuzumab-containing arm who were FISH+, but IHC status unknown were excluded from the exploratory subgroup analyses. |
+|  | FC (N = 296)Two patients on the FC arm who were FISH+ but IHC status unknown were excluded from the exploratory subgroup analyses. | FC + H (N = 298)Five patients on the trastuzumab-containing arm who were FISH+, but IHC status unknown were excluded from the exploratory subgroup analyses. |
 | --- | --- | --- |
 | FISH+ / IHC 0, 1+ subgroup (N=133) |  |  |
 | No. Deaths / n (%) | 57/71 (80%) | 56/62 (90%) |
