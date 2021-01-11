@@ -2,38 +2,56 @@
 
 ## 8.1 Pregnancy
 
-ELEPSIA XR levels may decrease during pregnancy [see Warnings and Precautions (5.9)].
+Pregnancy Exposure Registry
 
-Pregnancy Category C There are no adequate and well-controlled studies in pregnant women.
-In animal studies, levetiracetam produced evidence of developmental toxicity, including teratogenic effects, at doses similar to or greater than human therapeutic doses.
-ELEPSIA XR should be used during pregnancy only if the potential benefit justifies the potential risk to the fetus.
+There is a pregnancy exposure registry that monitors pregnancy outcomes in women exposed to antiepileptic drugs (AEDs), including ELEPSIA XR, during pregnancy.
+Encourage women who are taking ELEPSIA XR during pregnancy to enroll in the North American Antiepileptic Drug (NAAED) pregnancy registry by calling 1-888-233-2334 or visiting http://www.aedpregnancyregistry.org/.
 
-Oral administration of levetiracetam to female rats throughout pregnancy and lactation led to increased incidences of minor fetal skeletal abnormalities and retarded offspring growth pre- and/or postnatally at doses ≥350 mg/kg/day (equivalent to the maximum recommended human dose of 3000 mg [MRHD] on a mg/m2 basis) and with increased pup mortality and offspring behavioral alterations at a dose of 1800 mg/kg/day (6 times the MRHD on a mg/m2 basis).
-The developmental no effect dose was 70 mg/kg/day (0.2 times the MRHD on a mg/m2 basis).
-There was no overt maternal toxicity at the doses used in this study.
+Risk Summary
 
-Oral administration of levetiracetam to pregnant rabbits during the period of organogenesis resulted in increased embryofetal mortality and increased incidences of minor fetal skeletal abnormalities at doses ≥600 mg/kg/day (4 times MRHD on a mg/m2 basis) and in decreased fetal weights and increased incidences of fetal malformations at a dose of 1800 mg/kg/day (12 times the MRHD on a mg/m2 basis).
-The developmental no effect dose was 200 mg/kg/day (equivalent to the MRHD on a mg/m2 basis).
-Maternal toxicity was also observed at 1800 mg/kg/day.
+Prolonged experience with levetiracetam in pregnant women has not identified a drug-associated risk of major birth defects or miscarriage, based on published literature, which includes data from pregnancy registries and reflects experience over two decades [see Human Data].
+In animal studies, levetiracetam produced developmental toxicity (increased embryofetal and offspring mortality, increased incidences of fetal structural abnormalities, decreased embryofetal and offspring growth, neurobehavioral alterations in offspring) at doses similar to human therapeutic doses [see Animal Data].
 
-When levetiracetam was administered orally to pregnant rats during the period of organogenesis, fetal weights were decreased and the incidence of fetal skeletal variations was increased at a dose of 3600 mg/kg/day (12 times the MRHD).
-1200 mg/kg/day (4 times the MRHD) was a developmental no effect dose.
-There was no evidence of maternal toxicity in this study.
+In the U.S. general population, the estimated background risk of major birth defects and miscarriage in clinically recognized pregnancies is 2-4% and 15-20%, respectively.
+The background risk of major birth defects and miscarriage for the indicated population is unknown.
 
-Treatment of rats with levetiracetam during the last third of gestation and throughout lactation produced no adverse developmental or maternal effects at oral doses of up to 1800 mg/kg/day (6 times the MRHD on a mg/m2 basis).
+Clinical Considerations
 
-Pregnancy Registry To provide information regarding the effects of in utero exposure to ELEPSIA XR, physicians are advised to recommend that pregnant patients taking ELEPSIA XR enroll in the North American Antiepileptic Drug (NAAED) pregnancy registry.
-This can be done by calling the toll free number 1-888-233-2334, and must be done by the patients themselves.
-Information on the registry can also be found at the website http://www.aedpregnancyregistry.org/.
+Levetiracetam levels may decrease during pregnancy [see Warnings and Precautions (5.9)].
 
-## 8.2 Labor and Delivery
+Physiological changes during pregnancy may affect levetiracetam concentration.
+Decrease in levetiracetam plasma concentrations has been observed during pregnancy.
+This decrease is more pronounced during the third trimester.
+Dose adjustments may be necessary to maintain clinical response.
 
-The effect of ELEPSIA XR on labor and delivery in humans is unknown.
+Data
 
-## 8.3 Nursing Mothers
+Human Data
+
+While available studies cannot definitively establish the absence of risk, data from the published literature and pregnancy registries have not established an association with levetiracetam use during pregnancy and major birth defects or miscarriage.
+
+Animal Data
+
+When levetiracetam (0, 400, 1200, or 3600 mg/kg/day) was administered orally to pregnant rats during the period of organogenesis, reduced fetal weights and increased incidence of fetal skeletal variations were observed at the highest dose tested.
+There was no evidence of maternal toxicity.
+The no-effect dose for adverse effects on embryofetal development in rats (1200 mg/kg/day) is approximately 4 times the maximum recommended human dose (MRHD) of 3000 mg on a body surface area (mg/m2) basis.
+
+Oral administration of levetiracetam (0, 200, 600, or 1800 mg/kg/day) to pregnant rabbits during the period of organogenesis resulted in increased embryofetal mortality and incidence of fetal skeletal variations at the mid and high dose and decreased fetal weights and increased incidence of fetal malformations at the high dose, which was associated with maternal toxicity.
+The no-effect dose for adverse effects on embryofetal development in rabbits (200 mg/kg/day) is approximately equivalent to the MRHD on a mg/m2 basis.
+
+Oral administration of levetiracetam (0, 70, 350, or 1800 mg/kg/day) to female rats throughout pregnancy and lactation led to an increased incidence of fetal skeletal variations, reduced fetal body weight, and decreased growth in offspring at the mid and high doses and increased pup mortality and neurobehavioral alterations in offspring at the highest dose tested.
+There was no evidence of maternal toxicity.
+The no-effect dose for adverse effects on pre- and postnatal development in rats (70 mg/kg/day) is less than the MRHD on a mg/m2 basis.
+
+Oral administration of levetiracetam to rats during the latter part of gestation and throughout lactation produced no adverse developmental or maternal effects at doses of up to 1800 mg/kg/day (6 times the MRHD on a mg/m2 basis).
+
+## 8.2 Lactation
+
+Risk Summary
 
 Levetiracetam is excreted in human milk.
-Because of the potential for serious adverse reactions in nursing infants from ELEPSIA XR, a decision should be made whether to discontinue nursing or discontinue the drug, taking into account the importance of the drug to the mother.
+There are no data on the effects of ELEPSIA XR on the breastfed infant, or the effects on milk production.
+The developmental and health benefits of breastfeeding should be considered along with the mother's clinical need for ELEPSIA XR and any potential adverse effects on the breastfed infant from ELEPSIA XR or from the underlying maternal condition.
 
 ## 8.4 Pediatric Use
 

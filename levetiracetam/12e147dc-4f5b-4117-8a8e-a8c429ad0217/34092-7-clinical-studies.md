@@ -42,7 +42,8 @@ Table 6: Reduction in Mean Over Placebo in Weekly Frequency of Partial-Onset Sei
 
 |  | Placebo (N=95) | Immediate-release Levetiracetam 1,000 mg/day (N=97) | Immediate-release Levetiracetam 3,000 mg/day (N=101) |
 | --- | --- | --- | --- |
-| Percent reduction in partial seizure frequency over placebo | – | 26.1%statistically significant versus placebo | 30.1% |
+| Percent reduction in partial seizure frequency over placebo | – | 26.1%1 | 30.1%1 |
+| statistically significant versus placebo |  |  |  |
 
 The percentage of patients (y-axis) who achieved ≥50% reduction from baseline in weekly partial-onset seizure frequency over the entire randomized treatment period (titration + evaluation period) within the three treatment groups (x-axis) in Study 2 is presented in Figure 1.
 
@@ -55,11 +56,12 @@ The primary measure of effectiveness in Study 3 was a between group comparison o
 Secondary outcome variables included the responder rate (incidence of patients with ≥50% reduction from baseline in partial-onset seizure frequency).
 The results of the analysis of Period A are displayed in Table 7.
 
-Table 7: Reduction In Mean Over Placebo In Weekly Frequency Of Partial-Onset Seizures In Study 3: Period A
+Table 7: Reduction in Mean Over Placebo in Weekly Frequency of Partial-Onset Seizures In Study 3: Period A
 
 |  | Placebo (N=111) | Immediate-release Levetiracetam 1000 mg/day (N=106) | Immediate-release Levetiracetam 2000 mg/day (N=105) |
 | --- | --- | --- | --- |
-| Percent reduction in partial seizure frequency over placebo | – | 17.1%statistically significant versus placebo | 21.4% |
+| Percent reduction in partial seizure frequency over placebo | – | 17.1%1 | 21.4%1 |
+| statistically significant versus placebo |  |  |  |
 
 The percentage of patients (y-axis) who achieved ≥50% reduction from baseline in weekly partial-onset seizure frequency over the entire randomized treatment period (titration + evaluation period) within the three treatment groups (x-axis) in Study 3 is presented in Figure 2.
 
@@ -74,15 +76,16 @@ The primary measure of effectiveness in Study 4 was a between group comparison o
 Secondary outcome variables included the responder rate (incidence of patients with ≥50% reduction from baseline in partial-onset seizure frequency).
 Table 8 displays the results of Study 4.
 
-Table 8: Reduction In Mean Over Placebo In Weekly Frequency Of Partial-Onset Seizures In Study 4
+Table 8: Reduction in Mean Over Placebo in Weekly Frequency of Partial-Onset Seizures In Study 4
 
 |  | Placebo (N=104) | Immediate-release Levetiracetam 3000 mg/day (N=180) |
 | --- | --- | --- |
-| Percent reduction in partial seizure frequency over placebo | – | 23%statistically significant versus placebo |
+| Percent reduction in partial seizure frequency over placebo | – | 23%1 |
+| statistically significant versus placebo |  |  |
 
 The percentage of patients (y-axis) who achieved ≥50% reduction from baseline in weekly partial-onset seizure frequency over the entire randomized treatment period (titration + evaluation period) within the two treatment groups (x-axis) in Study 4 is presented in Figure 3.
 
-## 14.3 Immediate-release Levetiracetam in Pediatric Patients 4 Years to 16 Years
+## 14.3 Immediate-Release Levetiracetam in Pediatric Patients 4 Years to 16 Years
 
 The use of levetiracetam extended-release tablets in pediatric patients 12 years of age and older is supported by Study 5, which was conducted using immediate-release levetiracetam.
 ELEPSIA XR is not indicated in pediatric patients below 12 years of age.
@@ -97,10 +100,11 @@ The primary measure of effectiveness in Study 5 was a between group comparison o
 Secondary outcome variables included the responder rate (incidence of patients with ≥ 50% reduction from baseline in partial-onset seizure frequency per week).
 Table 9 displays the results of this study.
 
-Table 9: Reduction In Mean Over Placebo In Weekly Frequency Of Partial-Onset Seizures in Study 5
+Table 9: Reduction in Mean Over Placebo in Weekly Frequency of Partial-Onset Seizures in Study 5
 
 |  | Placebo (N=97) | Immediate-release Levetiracetam (N=101) |
 | --- | --- | --- |
-| Percent reduction in partial seizure frequency over placebo | - | 26.8%statistically significant versus placebo |
+| Percent reduction in partial seizure frequency over placebo | - | 26.8%1 |
+| statistically significant versus placebo |  |  |
 
 The percentage of patients (y-axis) who achieved ≥ 50% reduction in weekly partial-onset seizure frequency over the entire randomized treatment period (titration + evaluation period) within the two treatment groups (x-axis) in Study 5 is presented in Figure 4.

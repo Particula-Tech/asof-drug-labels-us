@@ -11,7 +11,9 @@ Advise patients, their caregivers, and/or families to immediately report behavio
 Effects on Driving or Operating Machinery Inform patients that ELEPSIA XR may cause dizziness and somnolence.
 Inform patients not to drive or operate machinery until they have gained sufficient experience on ELEPSIA XR to gauge whether it adversely affects their ability to drive or operate machinery [see Warnings and Precautions (5.3)].
 
-Anaphylaxis and Angioedema Advise patients to discontinue ELEPSIA XR and seek medical care if they develop signs and symptoms of anaphylaxis or angioedema [see Warnings and Precautions (5.4)].
+Anaphylaxis and Angioedema
+
+Advise patients to discontinue ELEPSIA XR and seek medical care if they develop signs and symptoms of anaphylaxis or angioedema [see Warnings and Precautions (5.4)].
 
 Dermatological Adverse Reactions Advise patients that serious dermatological adverse reactions have occurred in patients treated with levetiracetam and instruct them to call their physician immediately if a rash develops [see Warnings and Precautions (5.5)].
 
@@ -32,6 +34,6 @@ Manufactured for Sun Pharma Global FZE by Sun Pharmaceutical Industries, Ltd. Ha
 
 Distributed by: Sun Pharmaceutical Industries, Inc. Cranbury, NJ 08512
 
-Copyright 2018, Sun Pharma Global FZE All rights reserved mm yyyy
+Copyright 2020, Sun Pharma Global FZE All rights reserved 12 2020
 
-uspi-ELEPSIA-XR-tab-00001
+uspi-ELEPSIA-XR-tab-00002

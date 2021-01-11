@@ -59,12 +59,12 @@ Before taking ELEPSIA XR, tell your healthcare provider about all of your medica
   It is not known if ELEPSIA XR will harm your unborn baby.
   You and your healthcare provider will have to decide if you should take ELEPSIA XR while you are pregnant.
   If you become pregnant while taking ELEPSIA XR, talk to your healthcare provider about registering with the North American Antiepileptic Drug Pregnancy Registry.
-  You can enroll in this registry by calling 1-888-233-2334.
+  You can enroll in this registry by calling 1-888-233-2334 or go to http://www.aedpregnancyregistry.org.
   The purpose of this registry is to collect information about the safety of ELEPSIA XR and other antiepileptic medicine during pregnancy.
-- are breast feeding.
-  ELEPSIA XR can pass into your milk and may harm your baby.
-  You and your healthcare provider should decide if you will take ELEPSIA XR or breast-feed.
-  You should not do both.
+- are breastfeeding or plan to breastfeed.
+  ELEPSIA XR can pass into your milk.
+  It is not known if the ELEPSIA XR that passes into your breast milk can harm your baby.
+  Talk to your healthcare provider about the best way to feed your baby while you receive ELEPSIA XR.
 
 Tell your healthcare provider about all the medicines you take, including prescription and over -the-counter medicines, vitamins, and herbal supplements.
 Do not start a new medicine without first talking with your healthcare provider.
@@ -152,10 +152,10 @@ Rx Only
 
 Manufactured for Sun Pharma Global FZE by Sun Pharmaceutical Industries, Ltd. Halol-Baroda Highway Halol 389350, Gujarat, India
 
-Distributed by: Sun Pharmaceutical Industries, Inc. Cranbury, NJ 08512 Copyright 2018, Sun Pharma Global FZE All rights reserved
+Distributed by: Sun Pharmaceutical Industries, Inc. Cranbury, NJ 08512 Copyright 2020, Sun Pharma Global FZE All rights reserved
 
 For more information, call Sun Pharmaceutical Industries, Inc. at 833-SUN-INFO (833-786-4636).
 
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
 
-Revised: 12/2018
+Revised: 12/2020

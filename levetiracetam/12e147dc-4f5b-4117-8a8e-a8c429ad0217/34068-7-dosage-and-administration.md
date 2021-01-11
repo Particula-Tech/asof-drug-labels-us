@@ -14,11 +14,9 @@ ELEPSIA XR should be taken whole; do not split or cut tablets.
 ELEPSIA XR is not recommended for use in patients with moderate or severe renal impairment.
 Recommended doses and adjustment for patients with mild renal impairment are shown in Table 1.
 In order to calculate the dose recommended for patients with renal impairment, creatinine clearance adjusted for body surface area must be calculated.
-To do this, an estimate of the patient’s creatinine clearance (CLcr) in mL/min must first be calculated using the following formula:
+To do this, an estimate of the patient’s creatinine clearance (CLcr) in mL/min must first be calculated using the following formula: Then CLcr is adjusted for body surface area (BSA) as follows:
 
-Then CLcr is adjusted for body surface area (BSA) as follows:
-
-Table 1: Dosing Adjustment Regimen for Adult Patients With Impaired Renal Function
+Table 1: Dosing Adjustment Regimen for Adult Patients with Impaired Renal Function
 
 | Group | Creatinine Clearance (mL/min/1.73m2) | Dosage (mg) | Frequency |
 | --- | --- | --- | --- |
