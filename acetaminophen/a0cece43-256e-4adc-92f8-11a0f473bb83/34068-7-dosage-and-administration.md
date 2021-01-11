@@ -45,7 +45,8 @@ Use aseptic technique when preparing acetaminophen injection for intravenous inf
 Do not add other medications to the acetaminophen injection flexible bag.
 
 For doses less than 1,000 mg, the appropriate dose must be withdrawn from the acetaminophen injection flexible bag and placed into a separate container prior to administration.
-Using aseptic technique, withdraw the appropriate dose (650 mg or weight-based) from an intact sealed acetaminophen injection flexible bag and place the measured dose in a separate empty, sterile container (e.g., glass bottle, plastic intravenous container, or syringe) for intravenous infusion to avoid the inadvertent delivery and administration of the total volume of the commercially available container.
+Using aseptic technique, withdraw the appropriate dose (650 mg or weight-based) from an intact sealed acetaminophen injection flexible bag using a spike adaptor with an external spike diameter between 5.5 and 5.7 mm and 27 to 29 mm in length in accordance with ISO 8536-4.
+Place the measured dose in a separate empty, sterile container (e.g., glass bottle, plastic intravenous container, or syringe) for intravenous infusion to avoid the inadvertent delivery and administration of the total volume of the commercially available container.
 The entire 100 mL flexible bag of acetaminophen injection is not intended for use in patients weighing less than 50 kg.
 
 Acetaminophen Injection is supplied in a single-dose flexible bag and the unused portion must be discarded.
