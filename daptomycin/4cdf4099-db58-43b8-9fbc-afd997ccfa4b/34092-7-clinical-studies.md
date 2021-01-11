@@ -8,9 +8,9 @@ Patients known to have bacteremia at baseline were excluded.
 Patients with creatinine clearance (CLCR) between 30 and 70 mL/min were to receive a lower dose of daptomycin for injection as specified in the protocol; however, the majority of patients in this subpopulation did not have the dose of daptomycin for injection adjusted.
 Table 15: Investigator’s Primary Diagnosis in the cSSSI Trials in Adult Patients (Population: ITT)
 
-| Primary Diagnosis | Adult Patients (Daptomycin for injection/ Comparator*) |  |  |
+| Primary Diagnosis | Adult Patients (Daptomycin for Injection/ Comparator*) |  |  |
 | --- | --- | --- | --- |
-|  | Study 9801 N=264 / N=266 | Study 9901 N=270 / N=292 | Pooled N=534 / N=558 |
+| Study 9801 N=264 / N=266 | Study 9901 N=270 / N=292 | Pooled N=534 / N=558 |  |
 | Wound Infection | 99 (38%) / 116 (44%) | 102 (38%) / 108 (37%) | 201 (38%) / 224 (40%) |
 | Major Abscess | 55 (21%) / 43 (16%) | 59 (22%) / 65 (22%) | 114 (21%) / 108 (19%) |
 | Ulcer Infection | 71 (27%) / 75 (28%) | 53 (20%) / 68 (23%) | 124 (23%) / 143 (26%) |
@@ -40,8 +40,24 @@ Table 16: Clinical Success Rates by Infecting Pathogen in the cSSSI Trials in Ad
 | Enterococcus faecalis (vancomycin-susceptible only) | 27/37 (73%) | 40/53 (76%) |
 
 *Comparator: vancomycin (1 g IV q12h) or an anti-staphylococcal semi-synthetic penicillin (i.e., nafcillin, oxacillin, cloxacillin, or flucloxacillin; 4 to 12 g/day IV in divided doses). †As determined by the central laboratory.
-Pediatric use information is approved for Merck & Co., Inc.'s Cubicin (daptomycin for injection).
-However, due to Merck & Co., Inc.'s marketing exclusivity rights, this drug product is not labeled with that pediatric information.
+
+Pediatric Patients (1 to 17 Years of Age) with cSSSI The cSSSI pediatric trial was a single prospective multi-center, randomized, comparative trial.
+A total of 396 pediatric patients aged 1 to 17 years with cSSSI caused by Gram positive pathogens were enrolled into the study.
+Patients known to have bacteremia, osteomyelitis, endocarditis, and pneumonia at baseline were excluded.
+Patients were enrolled in a stepwise approach into four age groups and given age-dependent doses of daptomycin for injection once daily for up to 14 days.
+The different age groups and doses evaluated were as follows: Adolescents (12 to 17 years) treated with 5 mg/kg of daptomycin for injection (n=113), Children (7 to 11 years) treated with 7 mg/kg of daptomycin for injection (n=113), Children (2 to 6 years) treated with 9 mg/kg of daptomycin for injection (n=125) and Infants (1 to <2 years) treated with 10mg/kg (n = 45).
+
+Patients were randomized 2:1 to receive daptomycin for injection or a standard of care (SOC) comparator, which included intravenous therapy with either vancomycin, clindamycin, or an anti-staphylococcal semi-synthetic penicillin (nafcillin, oxacillin, or cloxacillin).
+Patients could switch to oral therapy after clinical improvement was demonstrated (no minimum IV dosing was required)
+
+The primary objective of this study was to evaluate the safety of daptomycin for injection.
+The clinical outcome was determined by resolution or improvement of symptoms at the End-of-Treatment (EOT), 3 days after the last dose, and Test-of-Cure (TOC), 7-14 days after the last dose.
+Investigator observed outcomes were verified in a blinded fashion.
+Of the 396 subjects randomized in the study, 389 subjects were treated with daptomycin for injection or comparator and included in the ITT population.
+Of these, 257 subjects were randomized to the daptomycin for injection group and 132 subjects were randomized to the comparator group.
+Approximately 95% of subjects switched to oral therapy.
+The mean day of switch was day 4, and ranged from day 1 to day 14.
+The clinical success rates determined at 7–14 days after last dose of therapy (IV and oral) (TOC visit) were 88% (227/257) for daptomycin for injection and 86% (114/132) for comparator.
 
 ## 14.2 S. aureus Bacteremia/Endocarditis
 
@@ -102,6 +118,18 @@ Overall, there was no difference in time to clearance of S. aureus bacteremia be
 The median time to clearance in patients with MSSA was 4 days and in patients with MRSA was 8 days.
 Failure of treatment due to persisting or relapsing S. aureus infections was assessed by the Adjudication Committee in 19/120 (16%) daptomycin for injection-treated patients (12 with MRSA and 7 with MSSA) and 11/115 (10%) comparator-treated patients (9 with MRSA treated with vancomycin and 2 with MSSA treated with an anti-staphylococcal semi-synthetic penicillin).
 Among all failures, isolates from 6 daptomycin for injection-treated patients and 1 vancomycin-treated patient developed increasing MICs (reduced susceptibility) by central laboratory testing during or following therapy.
-Most patients who failed due to persisting or relapsing S. aureus infection had deep-seated infection and did not receive necessary surgical intervention [see Warnings and Precautions (5.7)].
-Pediatric use information is approved for Merck & Co., Inc.’s Cubicin (daptomycin for injection).
-However, due to Merck & Co., Inc.’s marketing exclusivity rights, this drug product is not labeled with that pediatric information.
+Most patients who failed due to persisting or relapsing S. aureus infection had deep-seated infection and did not receive necessary surgical intervention [see Warnings and Precautions (5.9)].
+Pediatric Patients (1 to 17 Years of Age) with S.aureus Bacteremia The pediatric S. aureus bacteremia study was designed as a prospective multi-center, randomized, comparative trial to treat pediatric patients aged 1 to 17 years with bacteremia.
+Patients known to have endocarditis or pneumonia at baseline were excluded.
+Patients were enrolled in a stepwise approach into three age groups and given age-dependent doses of daptomycin for injection once daily for up to 42 days.
+The different age groups and doses evaluated were as follows: Adolescents (12 to 17 years, n=14 patients) treated with daptomycin for injection dosed at 7 mg/kg once daily, Children (7 to 11 years, n=19 patients) treated with daptomycin for injection dosed at 9 mg/kg once daily and Children (2 to 6 years, n=22 patients) treated with daptomycin for injection dosed at 12 mg/kg once daily.
+No patients 1 to <2 years of age were enrolled.
+Patients were randomized 2:1 to receive daptomycin for injection or a standard of care comparator, which included intravenous therapy with vancomycin, semi-synthetic penicillin, first generation cephalosporin or clindamycin.
+Patients could switch to oral therapy after clinical improvement was demonstrated (no minimum IV dosing was required).
+The primary objective of this study was to assess the safety of daptomycin for injection.
+The clinical outcome was determined by resolution or improvement of symptoms at test-of-cure (TOC) visit, 7 to 14 days after the last dose, which was assessed by the site level Blinded Evaluator.
+Of the 82 subjects randomized in the study, 81 subjects were treated with daptomycin for injection or comparator and included in the safety population, and 73 had a proven S. aureus bacteremia at Baseline.
+Of these, 51 subjects were randomized to the daptomycin for injection group and 22 subjects were randomized to the comparator group.
+The mean duration of IV therapy was 12 days, with a range of 1 to 44 days.
+Forty-eight subjects switched to oral therapy, and the mean duration of oral therapy was 21 days.
+The clinical success rates determined at 7 to 14 days after last dose of therapy (IV and oral) (TOC visit) were 88% (45/51) for daptomycin for injection and 77% (17/22) for comparator.

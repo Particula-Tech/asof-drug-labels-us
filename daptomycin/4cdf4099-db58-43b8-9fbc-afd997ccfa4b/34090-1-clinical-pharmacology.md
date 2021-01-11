@@ -64,7 +64,7 @@ Table 12: Mean (SD) Daptomycin Population Pharmacokinetic Parameters Following I
 | Hemodialysis | 30.51 (6.51) N=16 | 0.16 (0.04) N=16 | 3.9 (2.1) N=16 | 1193 (399) N=16 | NA | NA |
 | CAPD | 27.56 (4.53) N=5 | 0.11 (0.02) N=5 | 2.9 (0.4) N=5 | 1409 (238) N=5 | NA | NA |
 
-Note: Daptomycin for Injection was administered over a 30-minute period. *CLCR, creatinine clearance estimated using the Cockcroft-Gault equation with actual body weight; CAPD, continuous ambulatory peritoneal dialysis; AUC0-∞, area under the concentration-time curve extrapolated to infinity; AUCss, area under the concentration-time curve calculated over the 24-hour dosing interval at steady-state; Cmin,ss, trough concentration at steady-state; NA, not applicable. †Parameters obtained following a single dose from patients with complicated skin and skin structure infections and healthy subjects. ‡Parameters obtained at steady-state from patients with S. aureus bacteremia.
+Note: Daptomycin for injection was administered over a 30-minute period. *CLCR, creatinine clearance estimated using the Cockcroft-Gault equation with actual body weight; CAPD, continuous ambulatory peritoneal dialysis; AUC0-∞, area under the concentration-time curve extrapolated to infinity; AUCss, area under the concentration-time curve calculated over the 24-hour dosing interval at steady-state; Cmin,ss, trough concentration at steady-state; NA, not applicable. †Parameters obtained following a single dose from patients with complicated skin and skin structure infections and healthy subjects. ‡Parameters obtained at steady-state from patients with S. aureus bacteremia.
 Because renal excretion is the primary route of elimination, adjustment of daptomycin for injection dosage interval is necessary in adult patients with severe renal impairment (CLCR <30 mL/min) [see Dosage and Administration (2.4)].
 Hepatic Impairment The pharmacokinetics of daptomycin were evaluated in 10 adult subjects with moderate hepatic impairment (Child-Pugh Class B) and compared with those in healthy adult volunteers (N=9) matched for gender, age, and weight.
 The pharmacokinetics of daptomycin were not altered in subjects with moderate hepatic impairment.
@@ -80,8 +80,37 @@ Following administration of daptomycin for injection by IV infusion over a 30-mi
 The AUC0-∞ of daptomycin was approximately 30% higher in moderately obese subjects and 31% higher in extremely obese subjects than in nonobese controls.
 The differences were most likely due to differences in the renal clearance of daptomycin.
 No adjustment of daptomycin for injection dosage is warranted in obese patients.
-Pediatric use information is approved for Merck & Co., Inc.'s Cubicin (daptomycin for injection).
-However, due to Merck & Co., Inc.'s marketing exclusivity rights, this drug product is not labeled with that pediatric information.
+Pediatric The pharmacokinetics of daptomycin in pediatric subjects was evaluated in 3 single-dose pharmacokinetic studies.
+In general, body weight-normalized total body clearance in pediatric patients was higher than in adults and increased with a decrease of age, whereas elimination half-life tends to decrease with a decrease of age.
+Body weight-normalized total body clearance and elimination half-life of daptomycin in children 2 to 6 years of age were similar at different doses.
+A study was conducted to assess safety, efficacy, and pharmacokinetics of daptomycin in pediatric patients (1 to 17 years old, inclusive) with cSSSI caused by Gram-positive pathogens.
+Patients were enrolled into 4 age groups [see Clinical Studies (14.1)], and intravenous daptomycin for injection doses of 5 to 10 mg/kg once daily were administered.
+Following administration of multiple doses, daptomycin exposure (AUCss and Cmax,ss) was similar across different age groups after dose adjustment based on body weight and age (Table 13).
+Table 13: Mean (SD) Daptomycin Population Pharmacokinetic Parameters in cSSSI Pediatric Patients
+
+| Age | Pharmacokinetic Parameters |  |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| Dose (mg/kg) | Infusion Duration (min) | AUCss (mcg•h/mL) | t1/2 (h) | Vss (mL) | CLT (mL/h/kg) | Cmax,ss (mcg/mL) |  |
+| 12 to 17 years (N=6) | 5 | 30 | 434 (67.9) | 7.1 (0.9) | 8200 (3250) | 11.8 (2.15) | 76.4 (6.75) |
+| 7 to 11 years (N=2) | 7 | 30 | 543* | 6.8* | 4470* | 13.2* | 92.4* |
+| 2 to 6 years (N=7) | 9 | 60 | 452 (93.1) | 4.6 (0.8) | 2750 (832) | 20.8 (4.29) | 90.3 (14.0) |
+| 1 to less than 2 years (N=27) | 10 | 60 | 462 (138) | 4.8 (0.6) | 1670 (446) | 23.1 (5.43) | 81.6 (20.7) |
+
+AUCss, area under the concentration-time curve at steady state; CLT, clearance normalized to body weight; Vss, volume of distribution at steady state; t½, terminal half-life *Mean is calculated from N=2 A study was conducted to assess safety, efficacy, and pharmacokinetics of daptomycin in pediatric patients with S. aureus bacteremia.
+Patients were enrolled into 3 age groups [see Clinical Studies (14.2)], and intravenous doses of 7 to 12 mg/kg once daily were administered.
+Following administration of multiple doses, daptomycin exposure (AUCss and Cmax,ss) was similar across different age groups after dose adjustment based on body weight and age (Table 14).
+
+Table 14: Mean (SD) of Daptomycin Pharmacokinetics in Bacteremia Pediatric Patients
+
+| Age | Pharmacokinetic Parameters |  |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| Dose (mg/kg) | Infusion Duration (min) | AUCss (mcg•h/mL) | t1/2 (h) | Vss (mL) | CLT (mL/h/kg) | Cmax,ss (mcg/mL) |  |
+| 12 to 17 years (N=13) | 7 | 30 | 656 (334) | 7.5 (2.3) | 6420 (1980) | 12.4 (3.9) | 104 (35.5) |
+| 7 to 11 years (N=19) | 9 | 30 | 579 (116) | 6.0 (0.8) | 4510 (1470) | 15.9 (2.8) | 104 (14.5) |
+| 2 to 6 years (N=19) | 12 | 60 | 620 (109) | 5.1 (0.6) | 2200 (570) | 19.9 (3.4) | 106 (12.8) |
+
+AUCss, area under the concentration-time curve at steady state; CLT, clearance normalized to body weight; Vss, volume of distribution at steady state; t½, terminal half-life No patients 1 to <2 years of age were enrolled in the study.
+Simulation using a population pharmacokinetic model demonstrated that the AUCss of daptomycin in pediatric patients 1 to <2 years of age receiving 12 mg/kg once daily would be comparable to that in adult patients receiving 6 mg/kg once daily.
 Drug-Drug Interactions In Vitro Studies In vitro studies with human hepatocytes indicate that daptomycin does not inhibit or induce the activities of the following human cytochrome P450 isoforms: 1A2, 2A6, 2C9, 2C19, 2D6, 2E1, and 3A4.
 It is unlikely that daptomycin will inhibit or induce the metabolism of drugs metabolized by the P450 system.
 Aztreonam In a study in which 15 healthy adult subjects received a single dose of daptomycin for injection 6 mg/kg IV and a combination dose of daptomycin for injection 6 mg/kg IV and aztreonam 1 g IV, administered over a 30-minute period, the Cmax and AUC0-∞ of daptomycin were not significantly altered by aztreonam.
