@@ -141,18 +141,18 @@ See “What is the most important information I should know about gabapentin cap
 - sleepiness and dizziness, which could increase the occurrence of accidental injury, including falls
 - The most common side effects of gabapentin capsules include:
   - lack of coordination
-  - feeling tired
-  - viral infection
-  - fever
   - feeling drowsy
-  - jerky movements
+  - viral infection
   - nausea and vomiting
-  - difficulty with coordination
   - difficulty with speaking
-  - double vision
+  - jerky movements
   - tremor
-  - unusual eye movement
+  - difficulty with coordination
   - swelling, usually of legs and feet
+  - double vision
+  - feeling tired
+  - unusual eye movement
+  - fever
 
 Tell your healthcare provider if you have any side effect that bothers you or that does not go away.
 
@@ -193,4 +193,4 @@ The capsules are printed with edible ink containing black iron oxide and shellac
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
 
 * All brands listed are the trademarks of their respective owners and are not trademarks of Aurobindo Pharma Limited.
-Dispense with Medication Guide available at: www.aurobindousa.com/medication-guides Distributed by: Aurobindo Pharma USA, Inc. 279 Princeton-Hightstown Road East Windsor, NJ 08520 Manufactured by: Aurobindo Pharma Limited Hyderabad-500 038, India Revised: 04/2020
+Dispense with Medication Guide available at: www.aurobindousa.com/medication-guides Distributed by: Aurobindo Pharma USA, Inc. 279 Princeton-Hightstown Road East Windsor, NJ 08520 Manufactured by: Aurobindo Pharma Limited Hyderabad-500 038, India Revised: 01/2021
