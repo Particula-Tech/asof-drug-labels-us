@@ -1,0 +1,21 @@
+{
+  "application_numbers": [
+    "ANDA209634"
+  ],
+  "inn": "docetaxel",
+  "labeler": "Meitheal Pharmaceuticals Inc",
+  "package_ndcs": [
+    "71288-143-02",
+    "71288-144-08",
+    "71288-144-16"
+  ],
+  "products": [
+    {
+      "form": "INJECTION, SOLUTION",
+      "generic": "docetaxel anhydrous",
+      "name": "Docetaxel anhydrous"
+    }
+  ],
+  "setid": "9fb533da-a7ba-4c2b-8e4f-8e336ba55d12",
+  "source": "dailymed"
+}
