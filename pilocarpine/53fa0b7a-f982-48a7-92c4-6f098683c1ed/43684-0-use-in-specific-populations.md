@@ -5,12 +5,12 @@
 Pregnancy.
 Category C. Animal reproduction studies have not been conducted with pilocarpine hydrochloride.
 It is also not known whether pilocarpine hydrochloride can cause fetal harm when administered to a pregnant woman or can affect reproduction capacity.
-Pilocarpine Hydrochloride Ophthalmic Solution should be given to a pregnant woman only if clearly needed.
+Pilocarpine hydrochloride ophthalmic solution should be given to a pregnant woman only if clearly needed.
 
 ## 8.3 Nursing Mothers
 
 It is not known whether this drug is excreted in human milk.
-Because many drugs are excreted in human milk, caution should be exercised when Pilocarpine Hydrochloride Ophthalmic Solution is administered to a nursing woman.
+Because many drugs are excreted in human milk, caution should be exercised when pilocarpine hydrochloride ophthalmic solution is administered to a nursing woman.
 
 ## 8.4 Pediatric Use
 
