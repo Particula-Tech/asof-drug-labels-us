@@ -36,10 +36,10 @@ Because they are reported voluntarily from a population of unknown size, it is n
 
 The reactions, which have been chosen for inclusion due to either their seriousness, frequency of reporting, possible causal connection to latanoprost ophthalmic emulsion or a combination of these factors, include:
 
-- •Nervous System Disorders: Dizziness, headache, toxic epidermal necrolysis
-- •Eye Disorders: Corneal edema and erosions; intraocular inflammation (iritis/uveitis); macular edema, including cystoid macular edema; trichiasis; periorbital and lid changes resulting in deepening of the eyelid sulcus; iris cyst; eyelid skin darkening; localized skin reaction on the eyelids; conjunctivitis; pseudopemphigoid of the ocular conjunctiva
-- •Respiratory, Thoracic and Mediastinal Disorders: Asthma and exacerbation of asthma; dyspnea
-- •Skin and Subcutaneous Tissue Disorders: Pruritus
-- •Infections and Infestations: Herpes keratitis
-- •Cardiac Disorders: Angina; palpitations; angina unstable
-- •General Disorders and Administration Site Conditions: Chest pain
+- Nervous System Disorders: Dizziness, headache, toxic epidermal necrolysis
+- Eye Disorders: Corneal edema and erosions; intraocular inflammation (iritis/uveitis); macular edema, including cystoid macular edema; trichiasis; periorbital and lid changes resulting in deepening of the eyelid sulcus; iris cyst; eyelid skin darkening; localized skin reaction on the eyelids; conjunctivitis; pseudopemphigoid of the ocular conjunctiva
+- Respiratory, Thoracic and Mediastinal Disorders: Asthma and exacerbation of asthma; dyspnea
+- Skin and Subcutaneous Tissue Disorders: Pruritus
+- Infections and Infestations: Herpes keratitis
+- Cardiac Disorders: Angina; palpitations; angina unstable
+- General Disorders and Administration Site Conditions: Chest pain

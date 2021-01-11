@@ -9,7 +9,7 @@ Potential for Eyelash Changes
 
 Inform patients of the possibility of eyelash and vellus hair changes in the treated eye during treatment with latanoprost ophthalmic emulsion.
 These changes may result in a disparity between eyes in length, thickness, pigmentation, number of eyelashes or vellus hairs, and/or direction of eyelash growth.
-Eyelash changes are usually reversible upon discontinuation of treatment [see Warnings and Precautions (5.2)].
+Eyelash changes are usually reversible upon discontinuation of treatment.
 
 Handling the Container
 
@@ -20,14 +20,18 @@ When to Seek Physician Advice
 
 Advise patients that if they develop an intercurrent ocular condition (e.g., trauma or infection) or have ocular surgery, or develop any ocular reactions, particularly conjunctivitis and eyelid reactions, they should immediately seek their physician’s advice concerning the continued use of the multiple-dose container.
 
-Use with Contact Lenses
+Contact Lens Use
 
 Advise patients that contact lenses should be removed prior to administration of the emulsion.
-Lenses may be reinserted 15 minutes following administration of XELPROS [see Warnings and Precautions (5.7)].
+Lenses may be reinserted 15 minutes following administration of XELPROS.
 
 Use with Other Ophthalmic Drugs
 
-Advise patients that if more than one topical ophthalmic drug is being used, the drugs should be administered at least five (5) minutes apart [see Dosage and Administration (2)].
+Advise patients that if more than one topical ophthalmic drug is being used, the drugs should be administered at least five (5) minutes apart.
+
+If a Dose is Missed
+
+Advise patients that if one dose is missed, treatment should continue with the next dose as normal.
 
 Manufactured for: Sun Pharma Global FZE
 
@@ -41,10 +45,10 @@ Distributed by:
 
 Sun Pharmaceutical Industries, Inc., Cranbury, NJ 08512
 
-Copyright 2018, Sun Pharma Global FZE
+© 2020, Sun Pharma Global FZE
 
 All rights reserved
 
-09 2018
+12/2020
 
-lant-uspi-2018-Mmm-0001
+lant-uspi-2020-Dec-0002
