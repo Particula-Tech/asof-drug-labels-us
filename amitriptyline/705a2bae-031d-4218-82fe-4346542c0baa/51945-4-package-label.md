@@ -107,3 +107,15 @@ PHARMACIST: Please dispense with Medication Guide provided separately.
 100 Tablets
 
 SANDOZ
+
+# 10 mg Label_India
+
+# 25 mg Label_India
+
+# 50mg Label_India
+
+# 75mg Label_India
+
+# 100mg Label_India
+
+# 150mg Label_India
