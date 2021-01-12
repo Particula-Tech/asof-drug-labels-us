@@ -1,45 +1,57 @@
-# 6 ADVERSE REACTIONS
+# ADVERSE REACTIONS
 
-## 6.1 Clinical Trial Experience
+Amoxicillin and clavulanate potassium for oral suspension, 600 mg/42.9 mg per 5 mL is generally well tolerated.
+The majority of side effects observed in pediatric clinical trials of acute otitis media were either mild or moderate, and transient in nature; 4.4% of patients discontinued therapy because of drug-related side effects.
+The most commonly reported side effects with probable or suspected relationship to amoxicillin and clavulanate potassium for oral suspension, 600 mg/42.9 mg per 5 mL were contact dermatitis, i.e., diaper rash (3.5%), diarrhea (2.9%), vomiting (2.2%), moniliasis (1.4%), and rash (1.1%).
+The most common adverse experiences leading to withdrawal that were of probable or suspected relationship to amoxicillin and clavulanate potassium for oral suspension, 600 mg/42.9 mg per 5 mL were diarrhea (2.5%) and vomiting (1.4%).
 
-Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in practice.
+The following adverse reactions have been reported for ampicillin-class antibiotics:
 
-Two clinical trials evaluated the safety of a 10 day treatment course of amoxicillin and clavulanate potassium for oral suspension 600 mg/42.9 mg per 5 mL 90/6.4 mg/kg/day, divided every 12 hours, in pediatric patients with acute otitis media [see Clinical Studies (14)].
-The first trial involved 521 pediatric patients (3 months to 50 months) and the second trial involved 450 pediatric patients (3 months to 12 years).
-In the intent-to-treat population of the first trial of 521 patients, the most frequently reported adverse events were vomiting (7%), fever (6%), contact dermatitis (i.e., diaper rash) (6%), upper respiratory tract infection (4%), and diarrhea (4%).
-Protocol-defined diarrhea (i.e., 3 or more watery stools in one day or 2 watery stools per day for 2 consecutive days as recorded on diary cards) occurred in 13% of patients.
-The primary objective of the second study was to compare the safety of amoxicillin and clavulanate potassium for oral suspension 600 mg/42.9 mg per 5 mL (90/6.4 mg/kg/day, divided every 12 hours) to amoxicillin and clavulanate potassium (45/6.4 mg/kg/day, divided every 12 hours) for ten days.
-There was no statistically significant difference between treatments in the proportion of patients with 1 or more adverse events.
-The most frequently reported adverse reactions for amoxicillin and clavulanate potassium for oral suspension 600 mg/42.9 mg per 5 mL and the comparator of amoxicillin and clavulanate potassium were coughing (12% versus 7%), vomiting (7% versus 8%), contact dermatitis (i.e., diaper rash, 6% versus 5%), fever (6% versus 4%), and upper respiratory infection (3% versus 9%), respectively.
-The frequencies of protocol-defined diarrhea with amoxicillin and clavulanate potassium for oral suspension 600 mg/42.9 mg per 5 mL (11%) and amoxicillin and clavulanate potassium (9%) were not statistically different.
-Two patients in the group treated with amoxicillin and clavulanate potassium for oral suspension 600 mg/42.9 mg per 5 mL and one patient in the group treated with amoxicillin and clavulanate potassium were withdrawn due to diarrhea.
+## Gastrointestinal
 
-## 6.2 Postmarketing Experience
+Diarrhea, nausea, vomiting, indigestion, gastritis, stomatitis, glossitis, black “hairy” tongue, mucocutaneous candidiasis, enterocolitis, and hemorrhagic/pseudomembranous colitis.
+Onset of pseudomembranous colitis symptoms may occur during or after antibiotic treatment.
+(See WARNINGS.)
 
-In addition to adverse reactions reported from clinical trials, the following have been identified during postmarketing use of amoxicillin and clavulanate potassium products, including amoxicillin and clavulanate potassium for oral suspension 600 mg/42.9 mg per 5 mL.
-Because they are reported voluntarily from a population of unknown size, estimates of frequency cannot be made.
-These events have been chosen for inclusion due to a combination of their seriousness, frequency of reporting, or potential causal connection to amoxicillin and clavulanate potassium.
+## Hypersensitivity Reactions
 
-Gastrointestinal: Nausea, indigestion, gastritis, stomatitis, glossitis, black “hairy” tongue, mucocutaneous candidiasis, enterocolitis, and hemorrhagic/pseudo membranous colitis.
-Onset of pseudomembranous colitis symptoms may occur during or after antibacterial drug treatment.
+Skin rashes, pruritus, urticaria, angioedema, serum sickness–like reactions (urticaria or skin rash accompanied by arthritis, arthralgia, myalgia, and frequently fever), erythema multiforme (rarely Stevens-Johnson syndrome), acute generalized exanthematous pustulosis, hypersensitivity vasculitis, and an occasional case of exfoliative dermatitis (including toxic epidermal necrolysis) have been reported.
+These reactions may be controlled with antihistamines and, if necessary, systemic corticosteroids.
+Whenever such reactions occur, the drug should be discontinued, unless the opinion of the physician dictates otherwise.
+Serious and occasional fatal hypersensitivity (anaphylactic) reactions can occur with oral penicillin.
+(See WARNINGS)
 
-Hypersensitivity Reactions: Skin rashes, pruritus, urticaria, angioedema, serum sickness-like reactions (urticaria or skin rash accompanied by arthritis, arthralgia, myalgia, and frequently fever), erythema multiforme, Stevens-Johnson syndrome, acute generalized exanthematous pustulosis, hypersensitivity vasculitis, and an occasional case of exfoliative dermatitis (including toxic epidermal necrolysis) have been reported [see Warnings and Precautions (5.1)].
+## Liver
 
-Liver: A moderate rise in AST (SGOT) and/or ALT (SGPT) has been noted in patients treated with ampicillinclass antibacterial drugs.
-Hepatic dysfunction, including hepatitis and cholestatic jaundice, increases in serum transaminases (AST and/or ALT), serum bilirubin, and/or alkaline phosphatase, has been reported with amoxicillin and clavulanate potassium or amoxicillin and clavulanate potassium for oral suspension 600 mg/42.9 mg per 5 mL.
+A moderate rise in AST (SGOT) and/or ALT (SGPT) has been noted in patients treated with ampicillin-class antibiotics, but the significance of these findings is unknown.
+Hepatic dysfunction, including hepatitis and cholestatic jaundice, (See CONTRAINDICATIONS.), increases in serum transaminases (AST and/or ALT), serum bilirubin, and/or alkaline phosphatase, has been infrequently reported with AUGMENTIN.
 It has been reported more commonly in the elderly, in males, or in patients on prolonged treatment.
-The histologic findings on liver biopsy have consisted of cholestatic, hepatocellular, or mixed cholestatic-hepatocellular changes.
+The histologic findings on liver biopsy have consisted of predominantly cholestatic, hepatocellular, or mixed cholestatic-hepatocellular changes.
 The onset of signs/symptoms of hepatic dysfunction may occur during or several weeks after therapy has been discontinued.
 The hepatic dysfunction, which may be severe, is usually reversible.
-Deaths have been reported [see Contraindications (4.2), Warnings and Precautions (5.2)].
+On rare occasions, deaths have been reported (less than 1 death reported per estimated 4 million prescriptions worldwide).
+These have generally been cases associated with serious underlying diseases or concomitant medications.
 
-Renal: Interstitial nephritis, hematuria, and crystalluria have been reported [see Overdosage (10)].
+## Renal
 
-Hemic and Lymphatic Systems: Anemia, including hemolytic anemia, thrombocytopenia, thrombocytopenicpurpura, eosinophilia, leukopenia, and agranulocytosis have been reported during therapy with penicillins.
-These reactions are usually reversible on discontinuation of therapy and are believed to be hypersensitivity phenomena.There have been reports of increased prothrombin time in patients receiving amoxicillin and clavulanate potassium and anticoagulant therapy concomitantly.
+Interstitial nephritis and hematuria have been reported rarely.
+Crystalluria has also been reported (see OVERDOSAGE).
 
-Central Nervous System: Agitation, anxiety, behavioral changes, confusion, convulsions, dizziness, headache,insomnia, and reversible hyperactivity have been reported.
+## Hemic and Lymphatic Systems
 
-Miscellaneous: Tooth discoloration (brown, yellow, or gray staining) has been reported.
+Anemia, including hemolytic anemia, thrombocytopenia, thrombocytopenic purpura, eosinophilia, leukopenia, and agranulocytosis have been reported during therapy with penicillins.
+These reactions are usually reversible on discontinuation of therapy and are believed to be hypersensitivity phenomena.
+A slight thrombocytosis was noted in less than 1% of the patients treated with amoxicillin and clavulanate potassium.
+There have been reports of increased prothrombin time in patients receiving amoxicillin and clavulanate potassium and anticoagulant therapy concomitantly.
+
+## Central Nervous System
+
+Agitation, anxiety, behavioral changes, confusion, convulsions, dizziness, insomnia, and reversible hyperactivity have been reported rarely.
+
+## Miscellaneous
+
+Tooth discoloration (brown, yellow, or gray staining) has been rarely reported.
 Most reports occurred in pediatric patients.
 Discoloration was reduced or eliminated with brushing or dental cleaning in most cases.
+
+To report SUSPECTED ADVERSE REACTIONS, contact West-ward Pharmaceutical Corp. at 1-877-233-2001, or the FDA at 1-800-FDA-1088 or www.fda.gov/medwatch.
