@@ -1,0 +1,24 @@
+{
+  "application_numbers": [
+    "NDA200403"
+  ],
+  "inn": "hydromorphone",
+  "labeler": "Hospira, Inc.",
+  "package_ndcs": [
+    "0409-1283-17",
+    "0409-1283-37",
+    "0409-1312-16",
+    "0409-1312-36",
+    "0409-1380-01",
+    "0409-1380-11"
+  ],
+  "products": [
+    {
+      "form": "INJECTION, SOLUTION",
+      "generic": "hydromorphone hydrochloride",
+      "name": "Hydromorphone Hydrochloride"
+    }
+  ],
+  "setid": "f9ca2ef5-46d8-475a-a26e-f7c8becd6db7",
+  "source": "dailymed"
+}
