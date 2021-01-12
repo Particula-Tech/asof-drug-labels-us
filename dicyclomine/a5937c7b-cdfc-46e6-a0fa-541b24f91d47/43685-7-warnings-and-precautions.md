@@ -36,7 +36,7 @@ In this instance, treatment with this drug would be inappropriate and possibly h
 Rarely development of Ogilvie’s syndrome (colonic pseudo-obstruction) has been reported.
 Ogilvie’s syndrome is a clinical disorder with signs, symptoms, and radiographic appearance of an acute large bowel obstruction but with no evidence of distal colonic obstruction
 
-## 5.6 Toxic Dilatation of Intestinemegacolon
+## 5.6 Toxic Dilatation of Intestine megacolon
 
 Toxic dilatation of intestine and intestinal perforation is possible when anticholinergic agents are administered in patients with Salmonella dysentery.
 

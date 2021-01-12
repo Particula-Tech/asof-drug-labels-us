@@ -21,7 +21,8 @@ Dicyclomine hydrochloride can inhibit the secretion of saliva and sweat, decreas
 Absorption and Distribution In man, dicyclomine is rapidly absorbed after oral administration, reaching peak values within 60-90 minutes.
 Mean volume of distribution for a 20 mg oral dose is approximately 3.65 L/kg suggesting extensive distribution in tissues.
 
-Elimination The metabolism of dicyclomine was not studied The principal route of excretion is via the urine (79.5% of the dose).
+Elimination The metabolism of dicyclomine was not studied.
+The principal route of excretion is via the urine (79.5% of the dose).
 Excretion also occurs in the feces, but to a lesser extent (8.4%).
 Mean half-life of plasma elimination in one study was determined to be approximately 1.8 hours when plasma concentrations were measured for 9 hours after a single dose.
 In subsequent studies, plasma concentrations were followed for up to 24 hours after a single dose, showing a secondary phase of elimination with a somewhat longer half-life.

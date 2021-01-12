@@ -1,15 +1,27 @@
+# PACKAGE LABEL PRINCIPAL DISPLAY PANEL
+
 NDC 0591-0794-01
 
-Dicyclomine HCl Capsules USP
+Dicyclomine Hydrochloride Capsules, USP
 
 10 mg
 
-Actavis 100 Capsules Rx only
+Rx only
+
+100 Capsules
+
+teva
+
+# PACKAGE LABEL PRINCIPAL DISPLAY PANEL
 
 NDC 0591-0795-01
 
-Dicyclomine HCl Tablets USP
+Dicyclomine Hydrochloride Tablets, USP
 
 20 mg
 
-Actavis 100 Tablets Rx only
+Rx only
+
+100 Tablets
+
+teva
