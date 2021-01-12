@@ -1,20 +1,20 @@
 # WARNINGS
 
-Acyclovir ointment 5% is intended for cutaneous use only and should not be used in the eye.
+Acyclovir Ointment 5% is intended for cutaneous use only and should not be used in the eye.
 
 # PRECAUTIONS
 
 General: The recommended dosage, frequency of applications, and length of treatment should not be exceeded (see DOSAGE AND ADMINISTRATION).
-There are no data to support the use of acyclovir ointment 5% to prevent transmission of infection to other persons or prevent recurrent infections when applied in the absence of signs and symptoms.
-Acyclovir ointment 5% should not be used for the prevention of recurrent HSV infections.
-Although clinically significant viral resistance associated with the use of acyclovir ointment 5% has not been observed, this possibility exists.
+There are no data to support the use of Acyclovir Ointment 5% to prevent transmission of infection to other persons or prevent recurrent infections when applied in the absence of signs and symptoms.
+Acyclovir Ointment 5% should not be used for the prevention of recurrent HSV infections.
+Although clinically significant viral resistance associated with the use of Acyclovir Ointment 5% has not been observed, this possibility exists.
 
-Drug Interactions: Clinical experience has identified no interactions resulting from topical or systemic administration of other drugs concomitantly with acyclovir ointment 5%.
+Drug Interactions: Clinical experience has identified no interactions resulting from topical or systemic administration of other drugs concomitantly with Acyclovir Ointment 5%.
 
 Carcinogenesis, Mutagenesis, Impairment of Fertility: Systemic exposure following topical administration of acyclovir is minimal.
 Dermal carcinogenicity studies were not conducted.
-Results from the studies of carcinogenesis, mutagenesis, and fertility are not included in the full prescribing information for acyclovir ointment 5% due to the minimal exposures of acyclovir that result from dermal application.
-Information on these studies is available in the full prescribing information for ZOVIRAX Capsules, Tablets, and Suspension and ZOVIRAX for Injection.
+Results from the studies of carcinogenesis, mutagenesis, and fertility are not included in the full prescribing information for Acyclovir Ointment 5% due to the minimal exposures of acyclovir that result from dermal application.
+Information on these studies is available in the full prescribing information for ZOVIRAX® Capsules, Tablets, and Suspension and ZOVIRAX® for Injection.
 
 Pregnancy: Teratogenic Effects: Acyclovir was not teratogenic in the mouse, rabbit, or rat at exposures greatly in excess of human exposure.
 There are no adequate and well-controlled studies of systemic acyclovir in pregnant women.
@@ -26,11 +26,11 @@ Systemic acyclovir should be used during pregnancy only if the potential benefit
 
 Nursing Mothers: It is not known whether topically applied acyclovir is excreted in breast milk.
 Systemic exposure following topical administration is minimal.
-After oral administration of acyclovir, acyclovir concentrations have been documented in breast milk in 2 women and ranged from 0.6 to 4.1 times the corresponding plasma levels.
+After oral administration of Acyclovir, acyclovir concentrations have been documented in breast milk in two women and ranged from 0.6 to 4.1 times the corresponding plasma levels.
 These concentrations would potentially expose the nursing infant to a dose of acyclovir up to 0.3 mg/kg/day.
 Nursing mothers who have active herpetic lesions near or on the breast should avoid nursing.
 
-Geriatric Use: Clinical studies of acyclovir ointment did not include sufficient numbers of subjects aged 65 and over to determine whether they respond differently from younger subjects.
+Geriatric Use: Clinical studies of Acyclovir Ointment did not include sufficient numbers of subjects aged 65 and over to determine whether they respond differently from younger subjects.
 Other reported clinical experience has not identified differences in responses between the elderly and younger patients.
 Systemic absorption of acyclovir after topical administration is minimal (see CLINICAL PHARMACOLOGY).
 

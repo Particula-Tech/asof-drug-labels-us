@@ -1,4 +1,4 @@
-PRESCRIBING INFORMATION
+Acyclovir Ointment 5%
 
 # VIROLOGY
 
@@ -8,7 +8,7 @@ The inhibitory activity of acyclovir is highly selective due to its affinity for
 This viral enzyme converts acyclovir into acyclovir monophosphate, a nucleotide analogue.
 The monophosphate is further converted into diphosphate by cellular guanylate kinase and into triphosphate by a number of cellular enzymes.
 In vitro, acyclovir triphosphate stops replication of herpes viral DNA.
-This is accomplished in 3 ways: 1) competitive inhibition of viral DNA polymerase, 2) incorporation into and termination of the growing viral DNA chain, and 3) inactivation of the viral DNA polymerase.
+This is accomplished in three ways: 1) competitive inhibition of viral DNA polymerase, 2) incorporation into and termination of the growing viral DNA chain, and 3) inactivation of the viral DNA polymerase.
 The greater antiviral activity of acyclovir against HSV compared to VZV is due to its more efficient phosphorylation by the viral TK.
 
 Antiviral Activities: The quantitative relationship between the in vitro susceptibility of herpes viruses to antivirals and the clinical response to therapy has not been established in humans, and virus sensitivity testing has not been standardized.
@@ -25,11 +25,11 @@ The possibility of viral resistance to acyclovir should be considered in patient
 
 Distributed by: Actavis Pharma, Inc. Parsippany, NJ 07054 USA
 
-Manufactured by: Valeant Pharmaceuticals International, Inc. Laval, QC H7L 4A8, Canada
+Manufactured by: Bausch Health Companies Inc. Laval, Quebec H7L 4A8, Canada
 
-ZOVIRAX is a registered trademark of the GlaxoSmithKline group of companies and used under license by Valeant.
+ZOVIRAX is a trademark of GlaxoSmithKline LLC used under license.
 
 Rev.
-March 2017
+10/2020
 
-9510401 2000919B
+9510402

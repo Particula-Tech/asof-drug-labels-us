@@ -9,6 +9,6 @@ In addition, no drug was detected in blood and urine by radioimmunoassay (sensit
 
 The other study included 11 patients with localized varicella zoster infections.
 In this uncontrolled study, acyclovir was detected in the blood of 9 patients and in the urine of all patients tested.
-Acyclovir levels in plasma ranged from <0.01 to 0.28 mcg/mL in 8 patients with normal renal function, and from <0.01 to 0.78 mcg/mL in 1 patient with impaired renal function.
+Acyclovir levels in plasma ranged from <0.01 to 0.28 mcg/mL in 8 patients with normal renal function, and from <0.01 to 0.78 mcg/mL in one patient with impaired renal function.
 Acyclovir excreted in the urine ranged from <0.02% to 9.4% of the daily dose.
 Therefore, systemic absorption of acyclovir after topical application is minimal.
