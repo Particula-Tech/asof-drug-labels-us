@@ -11,4 +11,6 @@ Net Wt.
 
 Each gram contains: 50 mg acyclovir in a polyethylene glycol base.
 
+Ortho Dermatologics
+
 Rx only

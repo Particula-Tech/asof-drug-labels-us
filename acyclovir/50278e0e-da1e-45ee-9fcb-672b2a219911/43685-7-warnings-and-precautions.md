@@ -26,7 +26,7 @@ Systemic acyclovir should be used during pregnancy only if the potential benefit
 
 Nursing Mothers: It is not known whether topically applied acyclovir is excreted in breast milk.
 Systemic exposure following topical administration is minimal.
-After oral administration of ZOVIRAX, acyclovir concentrations have been documented in breast milk in 2 women and ranged from 0.6 to 4.1 times the corresponding plasma levels.
+After oral administration of ZOVIRAX, acyclovir concentrations have been documented in breast milk in two women and ranged from 0.6 to 4.1 times the corresponding plasma levels.
 These concentrations would potentially expose the nursing infant to a dose of acyclovir up to 0.3 mg/kg/day.
 Nursing mothers who have active herpetic lesions near or on the breast should avoid nursing.
 

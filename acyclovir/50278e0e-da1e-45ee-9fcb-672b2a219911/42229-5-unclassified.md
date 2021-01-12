@@ -1,5 +1,3 @@
-Rx only
-
 # VIROLOGY
 
 Mechanism of Antiviral Action: Acyclovir is a synthetic purine nucleoside analogue with in vitro and in vivo inhibitory activity against herpes simplex virus types 1 (HSV-1), 2 (HSV-2), and varicella zoster virus (VZV).
@@ -8,7 +6,7 @@ The inhibitory activity of acyclovir is highly selective due to its affinity for
 This viral enzyme converts acyclovir into acyclovir monophosphate, a nucleotide analogue.
 The monophosphate is further converted into diphosphate by cellular guanylate kinase and into triphosphate by a number of cellular enzymes.
 In vitro, acyclovir triphosphate stops replication of herpes viral DNA.
-This is accomplished in 3 ways: 1) competitive inhibition of viral DNA polymerase, 2) incorporation into and termination of the growing viral DNA chain, and 3) inactivation of the viral DNA polymerase.
+This is accomplished in three ways: 1) competitive inhibition of viral DNA polymerase, 2) incorporation into and termination of the growing viral DNA chain, and 3) inactivation of the viral DNA polymerase.
 The greater antiviral activity of acyclovir against HSV compared to VZV is due to its more efficient phosphorylation by the viral TK.
 
 Antiviral Activities: The quantitative relationship between the in vitro susceptibility of herpes viruses to antivirals and the clinical response to therapy has not been established in humans, and virus sensitivity testing has not been standardized.
@@ -23,15 +21,15 @@ While most of the acyclovir-resistant mutants isolated thus far from immunocompr
 TK-negative mutants may cause severe disease in infants and immunocompromised adults.
 The possibility of viral resistance to acyclovir should be considered in patients who show poor clinical response during therapy.
 
-Manufactured for: Valeant Pharmaceuticals North America LLC Bridgewater, NJ 08807 USA
+Distributed by: Bausch Health US, LLC Bridgewater, NJ 08807 USA
 
-By: Valeant Pharmaceuticals International, Inc. Laval, Quebec H7L 4A8, Canada
+Manufactured by: Bausch Health Companies Inc. Laval, Quebec H7L 4A8, Canada
 
-ZOVIRAX is a registered trademark of the GlaxoSmithKline group of companies and used under license by Valeant.
+ZOVIRAX is a trademark of GlaxoSmithKline LLC used under license.
 
-©Valeant Pharmaceuticals North America LLC
+© 2020 Bausch Health Companies Inc. or its affiliates
 
 Rev.
-01/17 9462301
+10/2020
 
-20000876B
+9462302
