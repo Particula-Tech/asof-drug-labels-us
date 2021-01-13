@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "NDA022430"
+  ],
+  "inn": "tranexamic-acid",
+  "labeler": "Amring Pharmaceuticals Inc.",
+  "package_ndcs": [
+    "69918-300-30"
+  ],
+  "products": [
+    {
+      "form": "TABLET",
+      "generic": "tranexamic acid",
+      "name": "Lysteda"
+    }
+  ],
+  "setid": "a7e3180d-cf5b-4c2c-a31f-68bf6181f19a",
+  "source": "dailymed"
+}
