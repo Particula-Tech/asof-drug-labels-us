@@ -7,7 +7,7 @@ The exact mechanism by which teriflunomide exerts its therapeutic effect in mult
 
 ## 12.2 Pharmacodynamics
 
-Potential to prolong the QT interval
+Potential to Prolong the QT Interval
 
 In a placebo controlled thorough QT study performed in healthy subjects, there was no evidence that teriflunomide caused QT interval prolongation of clinical significance (i.e., the upper bound of the 90% confidence interval for the largest placebo-adjusted, baseline-corrected QTc was below 10 ms).
 
@@ -42,50 +42,32 @@ Drug Interaction Studies
 
 Teriflunomide is not metabolized by Cytochrome P450 or flavin monoamine oxidase enzymes.
 
-The Potential Effect of teriflunomide on Other Drugs
+The potential effect of teriflunomide on other drugs
 
-- CYP2C8 Substrates
-
-There was an increase in mean repaglinide Cmax and AUC (1.7- and 2.4-fold, respectively), following repeated doses of teriflunomide and a single dose of 0.25 mg repaglinide, suggesting that teriflunomide is an inhibitor of CYP2C8 in vivo.
+CYP2C8 substrates There was an increase in mean repaglinide Cmax and AUC (1.7- and 2.4-fold, respectively) following repeated doses of teriflunomide and a single dose of 0.25 mg repaglinide, suggesting that teriflunomide is an inhibitor of CYP2C8 in vivo.
 The magnitude of interaction could be higher at the recommended repaglinide dose [see Drug Interactions (7)].
 
-- CYP1A2 Substrates
+CYP1A2 substrates Repeated doses of teriflunomide decreased mean Cmax and AUC of caffeine by 18% and 55%, respectively, suggesting that teriflunomide may be a weak inducer of CYP1A2 in vivo [see Drug Interactions (7)].
 
-Repeated doses of teriflunomide decreased mean Cmax and AUC of caffeine by 18% and 55%, respectively, suggesting that teriflunomide may be a weak inducer of CYP1A2 in vivo [see Drug Interactions (7)].
+OAT3 substrates There was an increase in mean cefaclor Cmax and AUC (1.43- and 1.54-fold, respectively), following repeated doses of teriflunomide, suggesting that teriflunomide is an inhibitor of organic anion transporter 3 (OAT3) in vivo[see Drug Interactions (7)].
 
-- OAT3 Substrates
+BCRP and OATP1B1/1B3 substrates There was an increase in mean rosuvastatin Cmax and AUC (2.65- and 2.51-fold, respectively) following repeated doses of teriflunomide, suggesting that teriflunomide is an inhibitor of BCRP transporter and organic anion transporting polypeptide 1B1 and 1B3 (OATP1B1/1B3) [see Drug Interactions (7)].
 
-There was an increase in mean cefaclor Cmaxand AUC (1.43- and 1.54-fold, respectively), following repeated doses of teriflunomide, suggesting that teriflunomide is an inhibitor of organic anion transporter 3 (OAT3) in vivo [see Drug Interactions (7)].
+Oral contraceptives There was an increase in mean ethinylestradiol Cmax and AUC0-24 (1.58- and 1.54-fold, respectively) and levonorgestrel Cmax and AUC0-24 (1.33- and 1.41-fold, respectively) following repeated doses of teriflunomide [see Drug Interactions (7)].
 
-- BCRP and OATP1B1/1B3 Substrates
+Teriflunomide did not affect the pharmacokinetics of bupropion (a CYP2B6 substrate), midazolam (a CYP3A4 substrate), S-warfarin (a CYP2C9 substrate), omeprazole (a CYP2C19 substrate), and metoprolol (a CYP2D6 substrate).
 
-There was an increase in mean rosuvastatin Cmax and AUC (2.65- and 2.51-fold, respectively), following repeated doses of teriflunomide, suggesting that teriflunomide is an inhibitor of BCRP transporter and organic anion transporting polypeptide 1B1 and 1B3 (OATP1B1/1B3) [see Drug Interactions (7)].
+The potential effect of other drugs on teriflunomide
 
-- Oral Contraceptives
+Potent CYP and transporter inducers: Rifampin did not affect the pharmacokinetics of teriflunomide.
 
-There was an increase in mean ethinylestradiol Cmaxand AUC0-24(1.58- and 1.54-fold, respectively) and levonorgestrel Cmaxand AUC0-24(1.33- and 1.41-fold, respectively) following repeated doses of teriflunomide [see Drug Interactions (7)].
+Specific Populations
 
-- Teriflunomide did not affect the pharmacokinetics of bupropion (a CYP2B6 substrate), midazolam (a CYP3A4 substrate), S-warfarin (a CYP2C9 substrate), omeprazole (a CYP2C19 substrate), and metoprolol (a CYP2D6 substrate).
+Hepatic impairment Mild and moderate hepatic impairment had no impact on the pharmacokinetics of teriflunomide.
+The pharmacokinetics of teriflunomide in severe hepatic impairment has not been evaluated [see Contraindications (4), Warnings and Precautions (5.1), and Use in Specific Populations (8.6)].
 
-The Potential Effect of Other Drugs on teriflunomide
+Renal impairment Severe renal impairment had no impact on the pharmacokinetics of teriflunomide [see Use in Specific Populations (8.7)].
 
-- Potent CYP and transporter inducers: Rifampin did not affect the pharmacokinetics of teriflunomide.
+Gender In a population analysis, the clearance rate for teriflunomide is 23% less in females than in males.
 
-Specific populations
-
-- Hepatic Impairment
-
-Mild and moderate hepatic impairment had no impact on the pharmacokinetics of teriflunomide.
-The pharmacokinetics of teriflunomide in severe hepatic impairment have not been evaluated [see Contraindications (4), Warnings and Precautions (5.1), and Use in Specific Populations (8.6)].
-
-- Renal Impairment
-
-Severe renal impairment had no impact on the pharmacokinetics of teriflunomide [see Use in Specific Populations (8.7)].
-
-- Gender
-
-In a population analysis, the clearance rate for teriflunomide is 23% less in females than in males.
-
-- Race
-
-Effect of race on the pharmacokinetics of teriflunomide cannot be adequately assessed due to a low number of non-white patients in the clinical trials.
+Race Effect of race on the pharmacokinetics of teriflunomide cannot be adequately assessed due to a low number of non-white patients in the clinical trials.

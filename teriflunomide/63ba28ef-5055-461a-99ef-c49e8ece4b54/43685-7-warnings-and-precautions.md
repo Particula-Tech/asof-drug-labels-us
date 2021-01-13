@@ -2,9 +2,10 @@
 
 ## 5.1 Hepatotoxicity
 
-Severe liver injury including fatal liver failure and dysfunction has been reported in some patients treated with leflunomide, which is indicated for rheumatoid arthritis.
-A similar risk would be expected for teriflunomide because recommended doses of teriflunomide and leflunomide result in a similar range of plasma concentrations of teriflunomide.
-Patients with pre-existing liver disease may be at increased risk of developing elevated serum transaminases when taking teriflunomide.
+Clinically significant and potentially life-threatening liver injury, including acute liver failure requiring transplant, has been reported in patients treated with teriflunomide in the postmarketing setting.
+Patients with pre-existing liver disease and patients taking other hepatotoxic drugs may be at increased risk for developing liver injury when taking teriflunomide.
+Clinically significant liver injury can occur at any time during treatment with teriflunomide.
+
 Patients with pre-existing acute or chronic liver disease, or those with serum alanine aminotransferase (ALT) greater than two times the upper limit of normal (ULN) before initiating treatment, should not normally be treated with teriflunomide.
 Teriflunomide is contraindicated in patients with severe hepatic impairment [see Contraindications (4)].
 
@@ -25,14 +26,22 @@ Consider additional monitoring when teriflunomide is given with other potentiall
 
 Consider discontinuing teriflunomide if serum transaminase increase (greater than three times the ULN) is confirmed.
 Monitor serum transaminase and bilirubin on teriflunomide therapy, particularly in patients who develop symptoms suggestive of hepatic dysfunction, such as unexplained nausea, vomiting, abdominal pain, fatigue, anorexia, or jaundice and/or dark urine.
-If liver injury is suspected to be teriflunomide -induced, discontinue teriflunomide and start an accelerated elimination procedure [see Warnings and Precautions (5.3)] and monitor liver tests weekly until normalized.
+If liver injury is suspected to be teriflunomide-induced, discontinue teriflunomide and start an accelerated elimination procedure [see Warnings and Precautions (5.3)] and monitor liver tests weekly until normalized.
 If teriflunomide-induced liver injury is unlikely because some other probable cause has been found, resumption of teriflunomide therapy may be considered.
 
-## 5.2 Teratogenicity
+## 5.2 Embryofetal Toxicity
 
 Teriflunomide may cause fetal harm when administered to a pregnant woman.
-Teratogenicity and embryo-fetal lethality occurred in animal reproduction studies in multiple animal species at plasma teriflunomide exposures similar to or lower than that in humans at the maximum human recommended dose (MHRD) of 14 mg/day [see Use in Specific Populations (8.1)].
-Teriflunomide is contraindicated for use in pregnant women and females of reproductive potential not using effective contraception [see Contraindications (4)and Warnings and Precautions (5.3)].
+Teratogenicity and embryofetal lethality occurred in animal reproduction studies in multiple animal species at plasma teriflunomide exposures similar to or lower than that in humans at the maximum recommended human dose (MRHD) of 14 mg/day [see Use in Specific Populations (8.1)].
+
+Teriflunomide is contraindicated for use in pregnant women and in females of reproductive potential not using effective contraception [see Contraindications (4)].
+Exclude pregnancy before starting treatment with teriflunomide in females of reproductive potential [see Dosage and Administration (2)].
+Advise females of reproductive potential to use effective contraception during teriflunomide treatment and during an accelerated drug elimination procedure after teriflunomide treatment [see Use in Specific Populations (8.3)].
+If a woman becomes pregnant while taking teriflunomide, stop treatment with teriflunomide, apprise the patient of the potential risk to a fetus, and perform an accelerated drug elimination procedure to achieve a plasma teriflunomide concentration of less than 0.02 mg/L [see Warnings and Precautions (5.3)].
+Upon discontinuing teriflunomide, it is recommended that all females of reproductive potential undergo an accelerated drug elimination procedure.
+Women receiving teriflunomide treatment who wish to become pregnant must discontinue teriflunomide and undergo an accelerated drug elimination procedure, which includes verification that plasma concentrations of teriflunomide are less than 0.02 mg/L (0.02 mcg/mL).
+Men wishing to father a child should also discontinue use of teriflunomide and either undergo an accelerated elimination procedure or wait until verification that the plasma teriflunomide concentration is less than 0.02 mg/L (0.02 mcg/mL) [see Use in Specific Population (8.3)].
+Based on animal data, human plasma concentrations of teriflunomide of less than 0.02 mg/L (0.02 mcg/mL) are expected to have minimal embryofetal risk [see Contraindications (4), Warnings and Precautions (5.3), and Use in Specific Populations (8.1)].
 
 ## 5.3 Procedure for Accelerated Elimination of Teriflunomide
 
@@ -55,9 +64,9 @@ Use of the accelerated elimination procedure may potentially result in return of
 
 Bone Marrow Effects
 
-A mean decrease compared to baseline in white blood cell (WBC) count of approximately 15% (mainly neutrophils and lymphocytes) and in platelet count of approximately 10% was observed in placebo- controlled trials with 7 mg and 14 mg of teriflunomide.
+A mean decrease compared to baseline in white blood cell (WBC) count of approximately 15% (mainly neutrophils and lymphocytes) and in platelet count of approximately 10% was observed in placebo-controlled trials with 7 mg and 14 mg of teriflunomide.
 The decrease in mean WBC count occurred during the first 6 weeks and WBC count remained low during treatment.
-In placebo-controlled studies, neutrophil count < 1.5x109/L was observed in 12% and 16% of patients receiving teriflunomide 7 mg and 14 mg, respectively, compared with 7% of patients receiving placebo; lymphocyte count <0.8x109/L was observed in 10% and 12% of patients receiving teriflunomide 7 mg and 14 mg, respectively, compared with 6% of patients receiving placebo.
+In placebo-controlled studies, neutrophil count <1.5x109/L was observed in 12% and 16% of patients receiving teriflunomide 7 mg and 14 mg, respectively, compared with 7% of patients receiving placebo; lymphocyte count <0.8x109/L was observed in 10% and 12% of patients receiving teriflunomide 7 mg and 14 mg, respectively, compared with 6% of patients receiving placebo.
 No cases of serious pancytopenia were reported in premarketing clinical trials of teriflunomide but rare cases of pancytopenia and agranulocytosis have been reported in the postmarketing setting with leflunomide.
 A similar risk would be expected for teriflunomide [see Clinical Pharmacology (12.3)].
 Cases of thrombocytopenia with teriflunomide, including rare cases with platelet counts less than 50,000/mm3, have been reported in the postmarketing setting.
@@ -77,7 +86,7 @@ Medications like teriflunomide that have immunosuppression potential may cause p
 In placebo-controlled studies of teriflunomide, no overall increase in the risk of serious infections was observed with teriflunomide 7 mg (2.2%) or 14 mg (2.7%) compared to placebo (2.2%).
 
 However, one fatal case of klebsiella pneumonia sepsis occurred in a patient taking teriflunomide 14 mg for 1.7 years.
-Fatal infections have been reported in the post-marketing setting in patients receiving leflunomide, especially Pneumocystis jiroveci pneumonia and aspergillosis.
+Fatal infections have been reported in the post-marketing setting in patients receiving leflunomide, especially Pneumocystis jirovecii pneumonia and aspergillosis.
 Most of the reports were confounded by concomitant immunosuppressant therapy and/or comorbid illness which, in addition to rheumatoid disease, may predispose patients to infection.
 In clinical studies with teriflunomide, cytomegalovirus hepatitis reactivation has been observed.
 
@@ -98,22 +107,35 @@ The risk of malignancy, particularly lymphoproliferative disorders, is increased
 There is a potential for immunosuppression with teriflunomide.
 No apparent increase in the incidence of malignancies and lymphoproliferative disorders was reported in the teriflunomide clinical trials, but larger and longer-term studies would be needed to determine whether there is an increased risk of malignancy or lymphoproliferative disorders with teriflunomide.
 
-## 5.5 Hypersensitivity and Serious Skin Reactions
+## 5.5 Hypersensitivity Reactions
 
 Teriflunomide can cause anaphylaxis and severe allergic reactions [see Contraindications (4)].
 Signs and symptoms have included dyspnea, urticaria, and angioedema including lips, eyes, throat, and tongue.
 
-Cases of serious skin reactions, including cases of Stevens-Johnson syndrome (SJS) and a fatal case of toxic epidermal necrolysis (TEN), have been reported with teriflunomide.
+Inform patients of the signs and symptoms of anaphylaxis and angioedema.
 
-In patients treated with leflunomide, the parent compound, very rare cases of Drug Reaction with Eosinophilia and Systemic Symptoms (DRESS) have also been reported.
+## 5.6 Serious Skin Reactions
 
-Inform patients of the signs and symptoms of anaphylaxis and angioedema and signs and symptoms that may signal a serious skin reaction.
-Inform patients that a fever associated with signs of other organ system involvement (e.g., rash, lymphadenopathy, or hepatic dysfunction) may be drug-related.
+Cases of serious skin reactions, sometimes fatal, including Stevens-Johnson syndrome (SJS), toxic epidermal necrolysis (TEN), and drug reaction with eosinophilia and systemic symptoms (DRESS) [see Warnings and Precautions (5.7)], have been reported with teriflunomide.
+Fatal outcomes were reported in one case of TEN and one case of DRESS.
+Inform patients of the signs and symptoms that may signal a serious skin reaction.
 Instruct patients to discontinue teriflunomide and seek immediate medical care should these signs and symptoms occur.
-Discontinue teriflunomide, unless the reactions are clearly not drug-related, and begin an accelerated elimination procedure immediately [see Warnings and Precautions (5.3)].
+Unless the reaction is clearly not drug related, discontinue teriflunomide and begin an accelerated elimination procedure immediately [see Warnings and Precautions (5.3)].
 In such cases, patients should not be re-exposed to teriflunomide [see Contraindications (4)].
 
-## 5.6 Peripheral Neuropathy
+## 5.7 Drug Reaction with Eosinophilia and Systemic Symptoms
+
+Drug reaction with eosinophilia and systemic symptoms (DRESS), also known as multiorgan hypersensitivity, has occurred with teriflunomide.
+One fatal case of DRESS that occurred in close temporal association (34 days) with the initiation of teriflunomide treatment has been reported in the postmarketing setting.
+DRESS typically, although not exclusively, presents with fever, rash, lymphadenopathy and/or facial swelling, in association with other organ system involvement, such as hepatitis, nephritis, hematologic abnormalities, myocarditis, or myositis, sometimes resembling an acute viral infection.
+Eosinophilia is often present.
+This disorder is variable in its expression, and other organ systems not noted here may be involved.
+It is important to note that early manifestations of hypersensitivity (e.g., fever, lymphadenopathy) may be present even though rash is not evident.
+If such signs or symptoms are present, the patient should be evaluated immediately.
+Discontinue teriflunomide, unless an alternative etiology for the signs or symptoms is established, and begin an accelerated elimination procedure immediately [see Warnings and Precautions (5.3)].
+In such cases, patients should not be re-exposed to teriflunomide [see Contraindications (4)].
+
+## 5.8 Peripheral Neuropathy
 
 In placebo-controlled studies, peripheral neuropathy, including both polyneuropathy and mononeuropathy (e.g., carpal tunnel syndrome), occurred more frequently in patients taking teriflunomide than in patients taking placebo.
 The incidence of peripheral neuropathy confirmed by nerve conduction studies was 1.4% (13 patients) and 1.9% (17 patients) of patients receiving 7 mg and 14 mg of teriflunomide, respectively, compared with 0.4% receiving placebo (4 patients).
@@ -125,7 +147,7 @@ Peripheral neuropathy also occurred in patients receiving leflunomide
 Age older than 60 years, concomitant neurotoxic medications, and diabetes may increase the risk for peripheral neuropathy.
 If a patient taking teriflunomide develops symptoms consistent with peripheral neuropathy, such as bilateral numbness or tingling of hands or feet, consider discontinuing teriflunomide therapy and performing an accelerated elimination procedure [see Warnings and Precautions (5.3)].
 
-## 5.7 Increased Blood Pressure
+## 5.9 Increased Blood Pressure
 
 In placebo-controlled studies, the mean change from baseline to the end of study in systolic blood pressure was +2.3 mmHg and +2.7 mmHg for teriflunomide 7 mg and 14 mg, respectively, and -0.6 mmHg for placebo.
 The change from baseline in diastolic blood pressure was +1.4 mmHg and +1.9 mmHg for teriflunomide 7 mg and 14 mg, respectively, and -0.3 mmHg for placebo.
@@ -133,7 +155,7 @@ Hypertension was an adverse reaction in 3.1% and 4.3% of patients treated with 7
 Check blood pressure before start of teriflunomide treatment and periodically thereafter.
 Elevated blood pressure should be appropriately managed during treatment with teriflunomide.
 
-## 5.8 Respiratory Effects
+## 5.10 Respiratory Effects
 
 Interstitial lung disease, including acute interstitial pneumonitis, has been reported with teriflunomide in the postmarketing setting.
 
@@ -142,9 +164,9 @@ Interstitial lung disease may be fatal and may occur acutely at any time during 
 New onset or worsening pulmonary symptoms, such as cough and dyspnea, with or without associated fever, may be a reason for discontinuation of therapy and for further investigation as appropriate.
 If discontinuation of the drug is necessary, consider initiation of an accelerated elimination procedure [see Warnings and Precautions (5.3)].
 
-## 5.9 Concomitant Use with Immunosuppressive or Immunomodulating Therapies
+## 5.11 Concomitant Use with Immunosuppressive or Immunomodulating Therapies
 
-Co-administration with antineoplastic, or immunosuppressive therapies used for treatment of multiple sclerosis has not been evaluated.
+Coadministration with antineoplastic or immunosuppressive therapies used for treatment of multiple sclerosis has not been evaluated.
 Safety studies in which teriflunomide was concomitantly administered with other immune modulating therapies for up to one year (interferon beta, glatiramer acetate) did not reveal any specific safety concerns.
 The long term safety of these combinations in the treatment of multiple sclerosis has not been established.
 

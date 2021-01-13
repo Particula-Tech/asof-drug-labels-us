@@ -6,50 +6,52 @@ A Medication Guide is required for distribution with teriflunomide tablets.
 
 Hepatotoxicity
 
-Inform patients that teriflunomide may increase liver enzymes and that their liver enzymes will be checked before starting teriflunomide and for at least 6 months while they are taking teriflunomide.
+Inform patients that teriflunomide may cause liver injury, which can be life-threatening, and that their liver enzymes will be checked before starting teriflunomide and at least monthly for 6 months after starting teriflunomide [see Dosage and Administration (2) and Warnings and Precautions (5.1)].
 Advise patients that they should contact their physician if they have any unexplained nausea, vomiting, abdominal pain, fatigue, anorexia, or jaundice and/or dark urine.
 
-Importance of Preventing Pregnancy
+Embryofetal Toxicity Advise females of reproductive potential
 
-- Inform patients that based on animal studies, teriflunomide may cause fetal harm.
-- Advise females of reproductive potential of the need for effective contraception during teriflunomide treatment and until completion of an accelerated elimination procedure.
-  Advise them that an accelerated elimination procedure can be used at any time after the discontinuation of teriflunomide.
-- Instruct the patient that if she suspects or confirms pregnancy, she should immediately inform her physician.
+- of the potential for fetal harm if teriflunomide is taken during pregnancy
+- to notify their healthcare provider immediately if a pregnancy occurs or is suspected
+- to use effective contraception during treatment with teriflunomide and until the teriflunomide plasma concentration is verified to be less than 0.02 mg/L [see Warnings and Precautions (5.2, 5.3), Use in Specific Populations (8.1, 8.3),Clinical Pharmacology (12.3)].
 - Instruct men taking teriflunomide and not wishing to father a child to use effective contraception to minimize any possible risk to the fetus; their female partners should also use effective contraception.
 - Advise men wishing to father a child to discontinue use of teriflunomide and undergo an accelerated elimination procedure.
 
 Availability of an Accelerated Elimination Procedure
 
-Advise patients that teriflunomide may stay in the blood for up to 2 years after the last dose and that an accelerated elimination procedure may be used if needed.
+Advise patients that teriflunomide may stay in the blood for up to 2 years after the last dose and that an accelerated elimination procedure may be used if needed [see Warnings and Precautions (5.3)].
 
 Risk of Infections
 
 Inform patients that they may develop a lowering of their white blood cell counts and that their blood counts will be checked before starting teriflunomide.
 
-Inform patients that they may be more likely to get infections when taking teriflunomide and that they should contact their physician if they develop symptoms of infection, particularly in case of fever.
+Inform patients that they may be more likely to get infections when taking teriflunomide and that they should contact their physician if they develop symptoms of infection, particularly in case of fever [see Warnings and Precautions (5.4)].
 
 Advise patients that the use of some vaccines should be avoided during treatment with teriflunomide and for at least 6 months after discontinuation.
 
-Serious Allergic Reactions
+Hypersensitivity Reactions Advise patients to discontinue teriflunomide and seek immediate medical attention if any signs or symptoms of a hypersensitivity reaction occur [see Contraindications (4) and Warnings and Precautions (5.5)].
+Signs and symptoms can include dyspnea, urticaria, angioedema involving the lips, eyes, throat, or tongue, or skin rash.
 
-Advise patients to discontinue teriflunomide and seek immediate medical attention if any signs or symptoms of a hypersensitivity reaction occur [SeeContraindications (4) and Warnings and Precautions (5.5)].
-Signs and symptoms include dyspnea, urticaria, and angioedema including lips, eyes, throat, and tongue or skin rash.
+Serious Skin Reactions
+
+Advise patients to discontinue teriflunomide and seek immediate medical attention if any signs of a serious skin reaction, such as SJS or TEN, occur [see Warnings and Precautions (5.6)].
+Signs and symptoms can include rash, mouth sores, blisters, or peeling skin.
+
+DRESS/Multi-organ Hypersensitivity Instruct patients and caregivers that a fever or rash associated with signs of other organ system involvement (e.g., lymphadenopathy, hepatic dysfunction) may be drug-related and should be reported to their healthcare provider immediately.
+Teriflunomide should be discontinued immediately if a serious hypersensitivity reaction is suspected [see Warnings and Precautions (5.7)].
 
 Peripheral Neuropathy
 
 Inform patients that they may develop peripheral neuropathy.
-Advise patients that they should contact their physician if they develop symptoms of peripheral neuropathy, such as numbness or tingling of hands or feet.
+Advise patients that they should contact their physician if they develop symptoms of peripheral neuropathy, such as numbness or tingling of hands or feet [see Warnings and Precautions (5.8)].
 
 Increased Blood Pressure
 
-Inform patients that teriflunomide may increase blood pressure.
+Inform patients that teriflunomide may increase blood pressure [see Warnings and Precautions (5.9)].
 
-Lactation Inform patients that it is not known whether this drug is present in human milk.
-Advise patients, if they are considering breastfeeding, to discuss this with their healthcare provider to decide if they will take teriflunomide or breastfeed.
-Advise patients that they should not do both.
-Manufactured by: MSN Laboratories Private Limited Mahabubnagar (Dt.)
-Telangana – 509 216, INDIA
+Lactation Advise females not to breastfeed during treatment with teriflunomide [see Use in Specific Populations (8.2)].
+Manufactured by: MSN Laboratories Private Limited Telangana – 509 228, INDIA
 
-Distributed by: MSN Pharmaceuticals Inc. Edison, NJ 08837
+Distributed by: MSN Pharmaceuticals Inc. Piscataway, NJ 08854 -3714
 
-Issued on: May 2019
+Issued on: December 2020
