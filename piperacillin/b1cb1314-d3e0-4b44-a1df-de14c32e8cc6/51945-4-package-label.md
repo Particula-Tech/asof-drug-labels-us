@@ -8,11 +8,11 @@ Tazobactam for
 
 Injection, USP
 
-13.5 grams per Pharmacy Bulk Package
+13.5 grams – per Pharmacy Bulk Package
 
-PHARMACY BULK PACKAGE -
+PHARMACY BULK PACKAGE – NOT FOR DIRECT INFUSION
 
-NOT FOR DIRECT INFUSION
+Rx Only
 
 RECONSTITUTED STOCK
 
@@ -23,10 +23,6 @@ TRANSFERRED AND FURTHER
 DILUTED FOR I.V.
 INFUSION
 
-Rx only
-
 1 Bottle
 
-SANDOZ
-
-a Novartis company
+Sandoz – A Novartis Division

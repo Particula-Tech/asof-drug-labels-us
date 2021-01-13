@@ -7,4 +7,4 @@ The sodium content is 2.35 mEq (54 mg) of sodium per gram of piperacillin in the
 
 Supplied as 1 pharmacy bulk package bottle per box – NDC 0781-3117-46
 
-Piperacillin and tazobactam for injection, USP pharmacy bulk bottles should be stored at 20° to 25°C (68° to 77°F) [See USP Controlled Room Temperature] prior to reconstitution.
+Piperacillin and tazobactam for injection, USP pharmacy bulk bottles should be stored at 20° to 25°C (68° to 77°F) [see USP Controlled Room Temperature] prior to reconstitution.

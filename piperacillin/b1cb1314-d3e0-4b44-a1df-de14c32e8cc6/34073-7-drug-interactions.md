@@ -24,7 +24,7 @@ Probenecid should not be co-administered with piperacillin and tazobactam for in
 
 ## 7.3 Vancomycin
 
-A limited number of retrospective studies have detected an increased incidence of acute kidney injury in patients concomitantly administered piperacillin/tazobactam and vancomycin as compared to vancomycin alone.
+Studies have detected an increased incidence of acute kidney injury in patients concomitantly administered piperacillin/tazobactam and vancomycin as compared to vancomycin alone [see Warnings and Precautions (5.5)].
 Monitor kidney function in patients concomitantly administered with piperacillin/tazobactam and vancomycin.
 
 No pharmacokinetic interactions have been noted between piperacillin/tazobactam and vancomycin.
@@ -38,7 +38,7 @@ Coagulation parameters should be tested more frequently and monitored regularly 
 Piperacillin when used concomitantly with vecuronium has been implicated in the prolongation of the neuromuscular blockade of vecuronium.
 Piperacillin and tazobactam for injection could produce the same phenomenon if given along with vecuronium.
 Due to their similar mechanism of action, it is expected that the neuromuscular blockade produced by any of the non-depolarizing muscle relaxants could be prolonged in the presence of piperacillin.
-Monitor for adverse reactions related to neuromuscular blockade (See package insert for vecuronium bromide).
+Monitor for adverse reactions related to neuromuscular blockade (see package insert for vecuronium bromide).
 
 ## 7.6 Methotrexate
 
