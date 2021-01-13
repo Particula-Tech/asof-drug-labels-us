@@ -23,7 +23,6 @@ Table 1: Recommended Dosages for OPDIVO as a Single Agent
 | Hepatocellular carcinoma |  |  |
 | Esophageal squamous cell carcinoma |  |  |
 | Adjuvant treatment of melanoma | 240 mg every 2 weeks(30-minute intravenous infusion)or480 mg every 4 weeks(30-minute intravenous infusion) | Until disease recurrence or unacceptable toxicity for up to 1 year |
-| Small cell lung cancer | 240 mg every 2 weeks(30-minute intravenous infusion) | Until disease progression or unacceptable toxicity |
 | Microsatellite instability-high (MSI-H) or mismatch repair deficient (dMMR) metastatic colorectal cancer | Adult patients and pediatric patients age 12 years and older and weighing 40 kg or more:240 mg every 2 weeks(30-minute intravenous infusion)or480 mg every 4 weeks(30-minute intravenous infusion) | Until disease progression or unacceptable toxicity |
 | Pediatric patients age 12 years and older and weighing less than 40 kg:3 mg/kg every 2 weeks(30-minute intravenous infusion) |  |  |
 
@@ -65,11 +64,11 @@ Table 3: Recommended Dosage Modifications for Adverse Reactions
 | Immune-Mediated Adverse Reactions [see Warnings and Precautions (5.1)] |  |  |  |
 | Pneumonitis | Grade 2 | Withholdb |  |
 | Grades 3 or 4 | Permanently discontinue |  |  |
-| ColitisFor colitis in patients treated with combination therapy with ipilimumab, see Table 4. | Grade 2 or 3 | Withholdb |  |
+| Colitis For colitis in patients treated with combination therapy with ipilimumab, see Table 4. | Grade 2 or 3 | Withholdb |  |
 | Grade 4 | Permanently discontinue |  |  |
-| Hepatitis with no tumor involvement of the liverFor liver enzyme elevations in patients treated with combination therapy with ipilimumab, see Table 4. | AST/ALT increases to more than 3 and up to 8 times ULN or Total bilirubin increases to more than 1.5 and up to 3 times ULN. | Withholdb |  |
+| Hepatitis with no tumor involvement of the liver For liver enzyme elevations in patients treated with combination therapy with ipilimumab, see Table 4. | AST/ALT increases to more than 3 and up to 8 times ULN or Total bilirubin increases to more than 1.5 and up to 3 times ULN. | Withholdb |  |
 | AST or ALT increases to more than 8 times ULN or Total bilirubin increases to more than 3 times ULN. | Permanently discontinue |  |  |
-| Hepatitis with tumor involvement of the livercFor liver enzyme elevations in patients treated with combination therapy with ipilimumab, see Table 4. | Baseline AST/ALT is more than 1 and up to 3 times ULN and increases to more than 5 and up to 10 times ULNorBaseline AST/ALT is more than 3 and up to 5 times ULN and increases to more than 8 and up to 10 times ULN. | Withholdb |  |
+| Hepatitis with tumor involvement of the liverc For liver enzyme elevations in patients treated with combination therapy with ipilimumab, see Table 4. | Baseline AST/ALT is more than 1 and up to 3 times ULN and increases to more than 5 and up to 10 times ULNorBaseline AST/ALT is more than 3 and up to 5 times ULN and increases to more than 8 and up to 10 times ULN. | Withholdb |  |
 | AST/ALT increases to more than 10 times ULN or Total bilirubin increases to more than 3 times ULN. | Permanently discontinue |  |  |
 | Endocrinopathiesd | Grade 3 or 4 | Withhold until clinically stable or permanently discontinue depending on severity |  |
 | Nephritis with Renal Dysfunction | Grade 2 or 3 increased blood creatinine | Withholdb |  |

@@ -506,27 +506,9 @@ Table 18: Laboratory Abnormalities Worsening from Baselinea Occurring in ≥10% 
 | Increased TSHb | 14 | N/A | 6 | N/A |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 | a Each test incidence is based on the number of patients who had both baseline and at least one on-study laboratory measurement available: OPDIVO group (range: 405 to 417 patients) and docetaxel group (range: 372 to 390 patients), except for TSH: OPDIVO group n=314 and docetaxel group n=297. b Not graded per NCI CTCAE v4. |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
-### Small Cell Lung Cancer
-
-The safety of OPDIVO was evaluated in CHECKMATE-032, a multicenter, multi-cohort, open-label, ongoing trial that enrolled 245 patients with SCLC with disease progression after platinum-based chemotherapy [see Clinical Studies (14.4)].
-The trial excluded patients with active autoimmune disease, medical conditions requiring systemic immunosuppression, or with symptomatic interstitial lung disease.
-Patients received OPDIVO 3 mg/kg by intravenous infusion over 60 minutes every 2 weeks.
-The median duration of therapy in OPDIVO-treated patients was 1 month (range: 0 to 44.2+ months): 17% of patients received OPDIVO for >6 months and 9% of patients received OPDIVO for >1 year.
-
-The population characteristics were: median age 63 years (range: 29 to 83), 92% White, and 60% male.
-Baseline ECOG performance status was 0 (30%) or 1 (70%), 94% were former/current smokers, 56% received one prior line of therapy, and 44% received two or more prior lines of therapy.
-
-Serious adverse reactions occurred in 45% of patients.
-OPDIVO was discontinued for adverse reactions in 10% of patients and 25% of patients had at least one dose withheld for an adverse reaction.
-
-The most frequent (≥2%) serious adverse reactions were pneumonia, dyspnea, pneumonitis, pleural effusion, and dehydration.
-The most common (≥20%) adverse reactions were fatigue, decreased appetite, musculoskeletal pain, dyspnea, nausea, diarrhea, constipation, and cough.
-
-The toxicity profile observed in patients with metastatic SCLC was generally similar to that observed in patients with other solid tumors who received OPDIVO as a single agent.
-
 ### Malignant Pleural Mesothelioma
 
-The safety of OPDIVO in combination with ipilimumab was evaluated in CHECKMATE-743, a randomized, open-label trial in patients with previously untreated unresectable malignant pleural mesothelioma [see Clinical Studies (14.5)].
+The safety of OPDIVO in combination with ipilimumab was evaluated in CHECKMATE-743, a randomized, open-label trial in patients with previously untreated unresectable malignant pleural mesothelioma [see Clinical Studies (14.4)].
 Patients received either OPDIVO 3 mg/kg over 30 minutes by intravenous infusion every 2 weeks and ipilimumab 1 mg/kg over 30 minutes by intravenous infusion every 6 weeks for up to 2 years; or platinum-doublet chemotherapy for up to 6 cycles.
 The median duration of therapy in OPDIVO and ipilimumab-treated patients was 5.6 months (range: 0 to 26.2 months); 48% of patients received OPDIVO and ipilimumab for >6 months and 24% of patients received OPDIVO and ipilimumab for >1 year.
 
@@ -598,7 +580,7 @@ Table 20: Laboratory Values Worsening from Baselinea Occurring in ≥20% of Pati
 
 Previously Treated Renal Cell Carcinoma
 
-The safety of OPDIVO was evaluated in CHECKMATE-025, a randomized open-label trial in 803 patients with advanced RCC who had experienced disease progression during or after at least one anti-angiogenic treatment regimen received OPDIVO 3 mg/kg over 60 minutes by intravenous infusion every 2 weeks (n=406) or everolimus 10 mg daily (n=397) [see Clinical Studies (14.6)].
+The safety of OPDIVO was evaluated in CHECKMATE-025, a randomized open-label trial in 803 patients with advanced RCC who had experienced disease progression during or after at least one anti-angiogenic treatment regimen received OPDIVO 3 mg/kg over 60 minutes by intravenous infusion every 2 weeks (n=406) or everolimus 10 mg daily (n=397) [see Clinical Studies (14.5)].
 The median duration of treatment was 5.5 months (range: 1 day to 29.6+ months) in OPDIVO-treated patients and 3.7 months (range: 6 days to 25.7+ months) in everolimus-treated patients.
 
 Rate of death on treatment or within 30 days of the last dose was 4.7% on the OPDIVO arm.
@@ -679,7 +661,7 @@ Table 22: Laboratory Values Worsening from Baselinea Occurring in >15% of Patien
 
 Previously Untreated Renal Cell Carcinoma
 
-The safety of OPDIVO with ipilimumab was evaluated in CHECKMATE-214, a randomized open-label trial in 1082 patients with previously untreated advanced RCC received OPDIVO 3 mg/kg over 60 minutes with ipilimumab 1 mg/kg intravenously every 3 weeks for 4 doses followed by OPDIVO as a single agent at a dose of 3 mg/kg by intravenous infusion every 2 weeks (n=547) or sunitinib 50 mg orally daily for the first 4 weeks of a 6-week cycle (n=535) [see Clinical Studies (14.6)].
+The safety of OPDIVO with ipilimumab was evaluated in CHECKMATE-214, a randomized open-label trial in 1082 patients with previously untreated advanced RCC received OPDIVO 3 mg/kg over 60 minutes with ipilimumab 1 mg/kg intravenously every 3 weeks for 4 doses followed by OPDIVO as a single agent at a dose of 3 mg/kg by intravenous infusion every 2 weeks (n=547) or sunitinib 50 mg orally daily for the first 4 weeks of a 6-week cycle (n=535) [see Clinical Studies (14.5)].
 The median duration of treatment was 7.9 months (range: 1 day to 21.4+ months) in OPDIVO and ipilimumab-treated patients and 7.8 months (range: 1 day to 20.2+ months) in sunitinib-treated patients.
 In this trial, 57% of patients in the OPDIVO and ipilimumab arm were exposed to treatment for >6 months and 38% of patients were exposed to treatment for >1 year.
 
@@ -751,7 +733,7 @@ In addition, among patients with TSH ≤ULN at baseline, a lower proportion of p
 
 ### Classical Hodgkin Lymphoma
 
-The safety of OPDIVO was evaluated in 266 adult patients with cHL (243 patients in the CHECKMATE-205 and 23 patients in the CHECKMATE-039 trials) [see Clinical Studies (14.7)].
+The safety of OPDIVO was evaluated in 266 adult patients with cHL (243 patients in the CHECKMATE-205 and 23 patients in the CHECKMATE-039 trials) [see Clinical Studies (14.6)].
 Patients received OPDIVO 3 mg/kg as an intravenous infusion over 60 minutes every 2 weeks until disease progression, maximal clinical benefit, or unacceptable toxicity.
 
 The median age was 34 years (range: 18 to 72), 98% of patients had received autologous HSCT, none had received allogeneic HSCT, and 74% had received brentuximab vedotin.
@@ -854,7 +836,7 @@ Table 26: Laboratory Abnormalities Worsening from Baselinea Occurring in ≥10% 
 
 ### Squamous Cell Carcinoma of the Head and Neck
 
-The safety of OPDIVO was evaluated in CHECKMATE-141, a randomized, active-controlled, open-label, multicenter trial in patients with recurrent or metastatic SCCHN with progression during or within 6 months of receiving prior platinum-based therapy [see Clinical Studies (14.8)].
+The safety of OPDIVO was evaluated in CHECKMATE-141, a randomized, active-controlled, open-label, multicenter trial in patients with recurrent or metastatic SCCHN with progression during or within 6 months of receiving prior platinum-based therapy [see Clinical Studies (14.7)].
 The trial excluded patients with active autoimmune disease, medical conditions requiring systemic immunosuppression, or recurrent or metastatic carcinoma of the nasopharynx, squamous cell carcinoma of unknown primary histology, salivary gland or non-squamous histologies (e.g., mucosal melanoma).
 Patients received OPDIVO 3 mg/kg by intravenous infusion over 60 minutes every 2 weeks (n=236) or investigator’s choice of either cetuximab (400 mg/m2 initial dose intravenously followed by 250 mg/m2 weekly), or methotrexate (40 to 60 mg/m2 intravenously weekly), or docetaxel (30 to 40 mg/m2 intravenously weekly).
 The median duration of exposure to nivolumab was 1.9 months (range: 1 day to 16.1+ months) in OPDIVO-treated patients.
@@ -873,7 +855,7 @@ The most common laboratory abnormalities occurring in ≥10% of OPDIVO-treated p
 
 ### Urothelial Carcinoma
 
-The safety of OPDIVO was evaluated in CHECKMATE-275, a single arm trial in which 270 patients with locally advanced or metastatic urothelial carcinoma had disease progression during or following platinum-containing chemotherapy or had disease progression within 12 months of neoadjuvant or adjuvant treatment with platinum-containing chemotherapy [see Clinical Studies (14.9)].
+The safety of OPDIVO was evaluated in CHECKMATE-275, a single arm trial in which 270 patients with locally advanced or metastatic urothelial carcinoma had disease progression during or following platinum-containing chemotherapy or had disease progression within 12 months of neoadjuvant or adjuvant treatment with platinum-containing chemotherapy [see Clinical Studies (14.8)].
 Patients received OPDIVO 3 mg/kg by intravenous infusion over 60 minutes every 2 weeks until disease progression or unacceptable toxicity.
 The median duration of treatment was 3.3 months (range: 0 to 13.4+).
 Forty-six percent (46%) of patients had a dose interruption for an adverse reaction.
@@ -947,7 +929,7 @@ Table 28: Laboratory Abnormalities Worsening from Baseline Occurring in ≥10% o
 
 ### MSI-H or dMMR Metastatic Colorectal Cancer
 
-The safety of OPDIVO administered as a single agent or in combination with ipilimumab was evaluated in CHECKMATE-142, a multicenter, non-randomized, multiple parallel-cohort, open-label trial [see Clinical Studies (14.10)].
+The safety of OPDIVO administered as a single agent or in combination with ipilimumab was evaluated in CHECKMATE-142, a multicenter, non-randomized, multiple parallel-cohort, open-label trial [see Clinical Studies (14.9)].
 In CHECKMATE-142, 74 patients with mCRC received OPDIVO 3 mg/kg by intravenous infusion over 60 minutes every 2 weeks until disease progression or until intolerable toxicity and 119 patients with mCRC received OPDIVO 3 mg/kg and ipilimumab 1 mg/kg every 3 weeks for 4 doses, then OPDIVO 3 mg/kg every 2 weeks until disease progression or until unacceptable toxicity.
 
 In the OPDIVO with ipilimumab cohort, serious adverse reactions occurred in 47% of patients.
@@ -1030,7 +1012,7 @@ Table 30: Laboratory Abnormalities Worsening from Baselinea Occurring in ≥10% 
 ### Hepatocellular Carcinoma
 
 The safety of OPDIVO 3 mg/kg every 2 weeks as a single agent was evaluated in a 154-patient subgroup of patients with HCC and Child-Pugh Class A cirrhosis who progressed on or were intolerant to sorafenib.
-These patients enrolled in Cohorts 1 and 2 of CHECKMATE-040, a multicenter, multiple cohort, open-label trial [see Clinical Studies (14.11)].
+These patients enrolled in Cohorts 1 and 2 of CHECKMATE-040, a multicenter, multiple cohort, open-label trial [see Clinical Studies (14.10)].
 Patients were required to have an AST and ALT ≤5 x ULN and total bilirubin <3 mg/dL.
 The median duration of exposure to OPDIVO was 5 months (range: 0 to 22+ months).
 Serious adverse reactions occurred in 49% of patients.
@@ -1141,7 +1123,7 @@ HCV virologic breakthrough was defined as a 1 log increase in HCV RNA from basel
 
 ### Esophageal Squamous Cell Carcinoma
 
-The safety of OPDIVO was evaluated in ATTRACTION-3, a randomized, active-controlled, open-label, multicenter trial in 209 patients with unresectable advanced, recurrent or metastatic ESCC refractory or intolerant to at least one fluoropyrimidine- and platinum-based chemotherapy [see Clinical Studies (14.12)].
+The safety of OPDIVO was evaluated in ATTRACTION-3, a randomized, active-controlled, open-label, multicenter trial in 209 patients with unresectable advanced, recurrent or metastatic ESCC refractory or intolerant to at least one fluoropyrimidine- and platinum-based chemotherapy [see Clinical Studies (14.11)].
 The trial excluded patients who were refractory or intolerant to taxane therapy, had brain metastases that were symptomatic or required treatment, had autoimmune disease, used systemic corticosteroids or immunosuppressants, had apparent tumor invasion of organs adjacent to the esophageal tumor or had stents in the esophagus or respiratory tract.
 Patients received OPDIVO 240 mg by intravenous infusion over 30 minutes every 2 weeks (n=209) or investigator’s choice: docetaxel 75 mg/m2 intravenously every 3 weeks (n=65) or paclitaxel 100 mg/m2 intravenously once a week for 6 weeks followed by 1 week off (n=143).
 Patients were treated until disease progression or unacceptable toxicity.
