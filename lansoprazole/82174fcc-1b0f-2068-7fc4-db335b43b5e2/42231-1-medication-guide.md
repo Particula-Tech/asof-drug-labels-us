@@ -13,8 +13,8 @@ Talk with your doctor.
 
 Lansoprazole delayed-release capsules can cause serious side effects, including:
 
-- A type of kidney problem (acute interstitial nephritis).
-  Some people who take proton pump inhibitor (PPI) medicines, including lansoprazole delayed-release capsules, may develop a kidney problem called acute interstitial nephritis that can happen at any time during treatment with PPI medicines including lansoprazole delayed-release capsules.
+- A type of kidney problem (acute tubulointerstitial nephritis).
+  Some people who take proton pump inhibitor (PPI) medicines, including lansoprazole delayed-release capsules, may develop a kidney problem called acute tubulointerstitial nephritis that can happen at any time during treatment with PPI medicines including lansoprazole delayed-release capsules.
   Call your doctor right away if you have a decrease in the amount that you urinate or if you have blood in your urine.
 - Diarrhea caused by an infection (Clostridium difficile) in your intestines.
   Call your doctor right away if you have watery stools or stomach pain that does not go away.
@@ -83,7 +83,7 @@ Before you take lansoprazole delayed-release capsules, tell your doctor about al
 
 - have low magnesium levels in your blood.
 - have liver problems.
-- are pregnant, think you may be pregnant.
+- are pregnant, think you may be pregnant or plan to become pregnant.
   Lansoprazole delayed-release capsules may harm your unborn baby.
   Talk to your doctor about the possible risks to an unborn baby if lansoprazole delayed-release capsules are taken during pregnancy.
 - are breastfeeding or plan to breastfeed.
@@ -95,7 +95,9 @@ Especially tell your doctor if you take methotrexate (OTREXUP, RASUVO, TREXALL, 
 
 How should I take lansoprazole delayed-release capsules?
 
-• Take lansoprazole delayed-release capsules exactly as prescribed by your doctor. • Do not change your dose or stop taking lansoprazole delayed-release capsules without talking to your doctor.
+• Take lansoprazole delayed-release capsules exactly as prescribed by your doctor.
+
+• Do not change your dose or stop taking lansoprazole delayed-release capsules without talking to your doctor.
 
 • Take lansoprazole delayed-release capsules before meals.
 
@@ -249,7 +251,7 @@ Dr. Reddy’s Laboratories Limited
 
 Bachupally – 500 090 INDIA
 
-Revised: 1020
+Revised: 1220
 
 Dispense with Medication Guide available at:
 

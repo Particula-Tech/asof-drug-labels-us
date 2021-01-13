@@ -6,11 +6,12 @@ In adults, symptomatic response to therapy with lansoprazole delayed-release cap
 Consider additional follow-up and diagnostic testing in adult patients who have a suboptimal response or an early symptomatic relapse after completing treatment with a PPI.
 In older patients, also consider an endoscopy.
 
-## 5.2 Acute Interstitial Nephritis
+## 5.2 Acute Tubulointerstitial Nephritis
 
-Acute interstitial nephritis has been observed in patients taking PPIs including lansoprazole delayed-release capsules.
-Acute interstitial nephritis may occur at any point during PPI therapy and is generally attributed to an idiopathic hypersensitivity reaction.
-Discontinue lansoprazole delayed-release capsules if acute interstitial nephritis develops [see Contraindications (4)].
+Acute tubulointerstial nephritis (TIN) has been observed in patients taking PPIs and may occur at any point during PPI therapy.
+Patients may present with varying signs and symptoms from symptomatic hypersensitivity reactions to nonspecific symptoms of decreased renal function (e.g., malaise, nausea, anorexia).
+In reported case series, some patients were diagnosed on biopsy and in the absence of extra-renal manifestations (e.g., fever, rash or arthralgia).
+Discontinue lansoprazole delayed-release capsules and evaluate patients with suspected acute TIN [see Contraindications (4)].
 
 ## 5.3 Clostridium difficile Associated Diarrhea
 
@@ -27,7 +28,7 @@ For more information specific to antibacterial agents (clarithromycin and amoxic
 Several published observational studies suggest that PPI therapy may be associated with an increased risk for osteoporosis-related fractures of the hip, wrist or spine.
 The risk of fracture was increased in patients who received high-dose, defined as multiple daily doses, and long-term PPI therapy (a year or longer).
 Patients should use the lowest dose and shortest duration of PPI therapy appropriate to the condition being treated.
-Patients at risk for osteoporosis-related fractures should be managed according to established treatment guidelines [see Dosage and Administration (2), and Adverse Reactions (6.2)]..
+Patients at risk for osteoporosis-related fractures should be managed according to established treatment guidelines [see Dosage and Administration (2), Adverse Reactions (6.2)].
 
 ## 5.5 Cutaneous and Systemic Lupus Erythematosus
 

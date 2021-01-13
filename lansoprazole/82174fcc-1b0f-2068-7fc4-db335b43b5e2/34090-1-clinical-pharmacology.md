@@ -49,7 +49,7 @@ The percentage of time gastric pH was elevated above five and six was evaluated 
 
 * (p<0.05) vs lansoprazole 30 mg daily
 
-+ (p<0.05) vs lansoprazole 30 mg daily, 15 twice daily and 30 mg twice daily.
++ (p<0.05) vs lansoprazole 30 mg daily, 15 and 30 mg twice daily.
 
 The inhibition of gastric acid secretion as measured by intragastric pH gradually returned to normal over two to four days after multiple doses.
 There was no indication of rebound gastric acidity.
@@ -97,7 +97,7 @@ Absorption:
 
 Lansoprazole delayed-release capsules contain an enteric-coated granule formulation of lansoprazole (because lansoprazole is acid-labile), so that absorption of lansoprazole begins only after the granules leave the stomach.
 The mean peak plasma levels of lansoprazole occur at approximately 1.7 hours.
-After a single-dose administration of 15 mg to 60 mg of oral lansoprazole, the peak plasma concentrations (Cmax) of lansoprazole and the area under the plasma concentration curves (AUCs) of lansoprazole were approximately proportional to the administered dose.
+After a single-dose administration of 15 to 60 mg of oral lansoprazole, the peak plasma concentrations (Cmax) of lansoprazole and the area under the plasma concentration curves (AUCs) of lansoprazole were approximately proportional to the administered dose.
 Lansoprazole does not accumulate and its pharmacokinetics are unaltered by multiple dosing.
 The absolute bioavailability is over 80%.
 In healthy subjects, the mean (±SD) plasma half-life was 1.5 (±1) hours.
@@ -225,7 +225,7 @@ Helicobacter pylori Pretreatment Resistance
 Clarithromycin pretreatment resistance (≥2 mcg/mL) was 9.5% (91/960) by E-test and 11.3% (12/106) by agar dilution in the dual and triple therapy clinical trials (M93-125, M93-130, M93-131, M95-392, and M95-399).
 
 Amoxicillin pretreatment susceptible isolates (≤0.25 mcg/mL) occurred in 97.8% (936/957) and 98% (98/100) of the patients in the dual and triple therapy clinical trials by E-test and agar dilution, respectively.
-Twenty-one of 957 patients (2.2%) by E-test and two of 100 patients (2%) by agar dilution had amoxicillin pretreatment MICs of greater than 0.25 mcg/mL.
+Twenty-one of 957 patients (2.2%) by E-test and two of 100 patients (2%) by agar dilution, had amoxicillin pretreatment MICs of greater than 0.25 mcg/mL.
 One patient on the 14 day triple therapy regimen had an unconfirmed pretreatment amoxicillin minimum inhibitory concentration (MIC) of greater than 256 mcg/mL by E-test and the patient was eradicated of H. pylori (Table 8).
 
 | Table 8: Clarithromycin Susceptibility Test Results andClinical/Bacteriological Outcomes* |  |  |  |  |  |  |
@@ -233,7 +233,7 @@ One patient on the 14 day triple therapy regimen had an unconfirmed pretreatment
 | Clarithromycin Pretreatment Results |  | Clarithtromycin Posttreatment Results |  |  |  |  |
 |  |  | H. pylori negative- eradicated | H. pylori positive – not eradicated Post-treatment susceptibility results |  |  |  |
 |  |  |  | S† | I† | R† | No MIC |
-| Triple Therapy 14 day (lansoprazole 30 mg twice daily/amoxicillin 1 g twice daily/clarithromycin 500 mg twice daily) (M95-399, M93-131, M95-392) |  |  |  |  |  |  |
+| Triple Therapy 14 Day (lansoprazole 30 mg twice daily/amoxicillin 1 g twice daily/clarithromycin 500 mg twice daily) (M95-399, M93-131, M95-392) |  |  |  |  |  |  |
 | Susceptible† | 112 | 105 |  |  |  | 7 |
 | Intermediate† | 3 | 3 |  |  |  |  |
 | Resistant† | 17 | 6 |  | 7 |  | 4 |

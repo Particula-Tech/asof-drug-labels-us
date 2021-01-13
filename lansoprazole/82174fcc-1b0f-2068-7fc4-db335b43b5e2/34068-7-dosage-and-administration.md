@@ -17,7 +17,7 @@
 | Maintenance of Healing of Erosive Esophagitis | 15 mg | Once daily¶ |
 | Pathological Hypersecretory Conditions Including Zollinger-Ellison Syndrome | 60 mg | Once daily§ |
 
-* Please refer to amoxicillin and clarithromycin full prescribing information for Contraindications and Warnings and Precautions sections, and for information regarding dosing in elderly and renally-impaired patients.
+* Please refer to the amoxicillin and clarithromycin full prescribing information for Contraindications and Warnings and Precautions sections, and for information regarding dosing in elderly and renally-impaired patients.
 
 † Controlled studies did not extend beyond indicated duration.
 
@@ -64,13 +64,15 @@ The recommended dosage is 15 mg orally daily in patients with severe liver impai
 - Take lansoprazole delayed-release capsules before meals.
 - Do not crush or chew lansoprazole delayed-release capsules.
 - Take lansoprazole delayed-release capsules at least 30 minutes prior to sucralfate [see Drug Interactions (7)].
-- Antacids may be used concomitantly with lansoprazole delayed-release capsules.· Missed doses: If a dose is missed, administer as soon as possible.
+- Antacids may be used concomitantly with lansoprazole delayed-release capsules.·
+- Missed doses: If a dose is missed, administer as soon as possible.
   However, if the next scheduled dose is due, do not take the missed dose, and take the next dose on time.
   Do not take two doses at one time to make up for a missed dose.
 
 Lansoprazole Delayed-Release Capsules
 
-- Swallow whole; do not chew.· For patients who have difficulty swallowing capsules, lansoprazole delayed-release capsules can be opened and administered orally or via a nasogastric tube in the soft foods or liquids specified below.
+- Swallow whole; do not chew.·
+- For patients who have difficulty swallowing capsules, lansoprazole delayed-release capsules can be opened and administered orally or via a nasogastric tube in the soft foods or liquids specified below.
 - Administration of lansoprazole delayed-release capsules in foods or liquids other than those discussed below have not been studied clinically and therefore are not recommended.
 
 Administration in Soft Foods (applesauce, ENSURE pudding, cottage cheese, yogurt or strained pears):
@@ -113,7 +115,7 @@ Sprinkle intact granules into 40 mL of apple juice.
 Mix briefly.
 
 4.
-Using a catheter tipped syringe, draw up the mixture.
+Using a catheter-tipped syringe, draw up the mixture.
 
 5.
 Inject through the nasogastric tube into the stomach.

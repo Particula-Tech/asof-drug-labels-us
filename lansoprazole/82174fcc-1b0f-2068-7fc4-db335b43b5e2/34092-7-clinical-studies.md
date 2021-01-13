@@ -34,7 +34,7 @@ Although the 15 mg dose of lansoprazole delayed-release capsules was superior to
 
 ## 14.2 Eradication of H. pylori to Reduce the Risk of Duodenal Ulcer Recurrence
 
-Randomized, double-blind clinical studies performed in the U.S. in patients with H. pylori and duodenal ulcer disease (defined as an active ulcer or history of an ulcer within one year) evaluated the efficacy of lansoprazole delayed-release capsules in combination with amoxicillin and clarithromycin as triple 14 day therapy or in combination with amoxicillin capsules as dual 14 day therapy for the eradication of H. pylori.
+Randomized, double-blind clinical studies performed in the U.S. in patients with H. pylori and duodenal ulcer disease (defined as an active ulcer or history of an ulcer within one year) evaluated the efficacy of lansoprazole delayed-release capsules in combination with amoxicillin and clarithromycin as triple 14 day therapy or in combination with amoxicillin as dual 14 day therapy for the eradication of H. pylori.
 Based on the results of these studies, the safety and efficacy of two different eradication regimens were established:
 
 Triple therapy: Lansoprazole delayed-release capsules 30 mg twice daily / amoxicillin 1 g twice daily / clarithromycin 500 mg twice daily
@@ -230,7 +230,7 @@ Table 18: Erosive Esophagitis Healing Rates
 In this study, all lansoprazole groups reported significantly greater relief of heartburn and less day and night abdominal pain along with fewer days of antacid use and fewer antacid tablets taken per day than the placebo group.
 Although all doses were effective, the earlier healing in the higher two doses suggests 30 mg daily as the recommended dose.
 
-Lansoprazole was also compared in a U.S. multi-center, double-blind study to a low dose of ranitidine in 242 patients with erosive reflux esophagitis.
+Lansoprazole was also compared in a U.S. multicenter, double-blind study to a low dose of ranitidine in 242 patients with erosive reflux esophagitis.
 Lansoprazole at a dose of 30 mg was significantly more effective than ranitidine 150 mg twice daily as shown below (Table 19).
 
 Table 19: Erosive Esophagitis Healing Rates

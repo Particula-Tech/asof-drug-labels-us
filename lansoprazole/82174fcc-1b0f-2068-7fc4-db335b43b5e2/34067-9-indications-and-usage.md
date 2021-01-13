@@ -15,7 +15,7 @@ Please refer to the full prescribing information for amoxicillin and clarithromy
 
 Dual Therapy: Lansoprazole delayed-release capsules /amoxicillin
 
-Lansoprazole delayed-release capsules in combination with amoxicillin as dual therapy is indicated in adults for the treatment of patients with H. pylori infection and duodenal ulcer disease (active or one year history of a duodenal ulcer) who are either allergic or intolerant to clarithromycin or in whom resistance to clarithromycin is known or suspected (see the clarithromycin prescribing information, MICROBIOLOGY section).
+Lansoprazole delayed-release capsules in combination with amoxicillin as dual therapy is indicated in adults for the treatment of patients with H. pylori infection and duodenal ulcer disease (active or one year history of a duodenal ulcer) who are either allergic or intolerant to clarithromycin or in whom resistance to clarithromycin is known or suspected (see the clarithromycin prescribing information, Microbiology section).
 Eradication of H. pylori has been shown to reduce the risk of duodenal ulcer recurrence [see Clinical Studies (14.2)].
 
 Please refer to the full prescribing information for amoxicillin.

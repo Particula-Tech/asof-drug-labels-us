@@ -63,7 +63,7 @@ Nonclinical studies in juvenile rats have demonstrated an adverse effect of hear
 Neonate to less than one year of age
 
 The pharmacokinetics of lansoprazole were studied in pediatric patients with GERD aged less than 28 days and one to 11 months.
-Compared to healthy adults receiving 30 mg, neonates had higher exposure (mean weight-based normalized AUC values 2.04 and 1.88 fold higher at doses of 0.5 mg/kg/day and 1 mg/kg/day, respectively).
+Compared to healthy adults receiving 30 mg, neonates had higher exposure (mean weight-based normalized AUC values 2.04 and 1.88 fold higher at doses of 0.5 and 1 mg/kg/day, respectively).
 Infants aged ≤10 weeks had clearance and exposure values that were similar to neonates.
 Infants aged greater than 10 weeks who received 1 mg/kg/day had mean AUC values that were similar to adults who received a 30 mg dose.
 
