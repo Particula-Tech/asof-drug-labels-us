@@ -56,9 +56,12 @@ Two or three months may be required before the first evidence of a clinical resp
 
 When treatment with CUPRIMINE has been interrupted because of adverse reactions or other reasons, the drug should be reintroduced cautiously by starting with a lower dosage and increasing slowly.
 
-### Initial Therapy — The currently recommended dosage regimen in rheumatoid arthritis begins with a single daily dose of 125 mg or 250 mg, which is thereafter increased at 1- to 3-month intervals, by 125 or 250 mg/day, as patient response and tolerance indicate. If a satisfactory remission of symptoms is achieved, the dose associated with the remission should be continued (see,,). If there is no improvement and there are no signs of potentially serious toxicity after 2 to 3 months of treatment with doses of 500 to 750 mg/day, increases of 250 mg/day at 2- to 3-month intervals may be continued until a satisfactory remission occurs (see,,) or signs of toxicity develop (see and PRECAUTIONS). If there is no discernible improvement after three to four months of treatment with 1000 to 1500 mg of penicillamine/day, it may be assumed the patient will not re INE should be discontinued.
+Initial Therapy — The currently recommended dosage regimen in rheumatoid arthritis begins with a single daily dose of 125 mg or 250 mg, which is thereafter increased at 1- to 3-month intervals, by 125 or 250 mg/day, as patient response and tolerance indicate.
+If a satisfactoryremission of symptoms is achieved, the dose associated with the remission should be continued (see DOSAGE AND ADMINISTRATION, Rheumatoid Arthritis, Maintenance Therapy).
+If there is no improvement and there are no signs of potentially serious toxicity after 2 to 3 months of treatment with doses of 500 to 750 mg/day, increases of 250 mg/day at 2- to 3-month intervals may be continued until a satisfactory remission occurs (see DOSAGE AND ADMINISTRATION, Rheumatoid Arthritis, Maintenance Therapy) or signs of toxicity develop (see WARNINGS and PRECAUTIONS).
+If there is no discernible improvement after three to four months of treatment with 1000 to 1500 mg of penicillamine/day, it may be assumed the patient will not respond and CUPRIMINE should be discontinued.
 
-### Maintenance Therapy —The maintenance dosage of CUPRIMINE must be individualized, and may require adjustment during the course of treatment. Many patients respond satisfactorily to a dosage within the 500 to 750 mg/day range. Some need less.
+### Maintenance Therapy — The maintenance dosage of CUPRIMINE must be individualized, and may require adjustment during the course of treatment. Many patients respond satisfactorily to a dosage within the 500 to 750 mg/day range. Some need less.
 
 Changes in maintenance dosage levels may not be reflected clinically or in the erythrocyte sedimentation rate for 2 to 3 months after each dosage adjustment.
 
@@ -71,7 +74,7 @@ It is unusual in current practice to employ a dosage in excess of 1 g/day, but u
 In the rheumatoid patient, migratory polyarthralgia due to penicillamine is extremely difficult to differentiate from an exacerbation of rheumatoid arthritis.
 Discontinuance or a substantial reduction in dosage of CUPRIMINE for up to several weeks will usually determine which of these processes is responsible for the arthralgia.
 
-### Duration of Therapy —The optimum duration of therapy with CUPRIMINE in rheumatoid arthritis has not been determined. If the patient has been in remission for 6 months or more, a gradual, stepwise dosage reduction in decrements of 125 mg or 250 mg/day at approximately 3-month intervals may be attempted.
+### Duration of Therapy — The optimum duration of therapy with CUPRIMINE in rheumatoid arthritis has not been determined. If the patient has been in remission for 6 months or more, a gradual, stepwise dosage reduction in decrements of 125 mg or 250 mg/day at approximately 3-month intervals may be attempted.
 
 ### Concomitant Drug Therapy — CUPRIMINE should not be used in patients who are receiving gold therapy, antimalarial or cytotoxic drugs, oxyphenbutazone, or phenylbutazone (see PRECAUTIONS). Other measures, such as salicylates, other nonsteroidal anti-inflammatory drugs, or systemic corticosteroids, may be continued when penicillamine is initiated. After improvement commences, analgesic and anti-inflammatory drugs may be slowly discontinued as symptoms permit. Steroid withdrawal must be done gradually, and many months of treatment with CUPRIMINE may be required before steroids can be completely eliminated.
 

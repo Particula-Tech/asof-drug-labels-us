@@ -1,13 +1,13 @@
-# PRINCIPAL DISPLAY PANEL - 100 mg Tablet Label
+# PRINCIPAL DISPLAY PANEL - 100 mg Capsules Label
 
 NDC 25010-705-15
 
 Rx only
 
-Cuprimine® (penicillamine) Capsules
+Cuprimine® (penicillamine) Capsules, USP
 
-250 mg 100 Capsules
+250 mg 100Capsules
 
-Each capsule contains 250 mg of penicillamine.
+Each capsule contains 250 mg of penicillamine, USP
 
-BAUSCH HEALTH
+BAUSCH Health

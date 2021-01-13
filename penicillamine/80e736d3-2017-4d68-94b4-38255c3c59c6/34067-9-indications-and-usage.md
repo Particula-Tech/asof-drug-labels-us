@@ -15,8 +15,8 @@ The diagnosis, if suspected on the basis of family or individual history or phys
 
 Treatment has two objectives:
 
-1. (1)to minimize dietary intake of copper;
-2. (2)to promote excretion and complex formation (i.e., detoxification) of excess tissue copper.
+1. 1)to minimize dietary intake of copper;
+2. 2)to promote excretion and complex formation (i.e., detoxification) of excess tissue copper.
 
 The first objective is attained by a daily diet that contains no more than 1 or 2 mg of copper.
 Such a diet should exclude, most importantly, chocolate, nuts, shellfish, mushrooms, liver, molasses, broccoli, and cereals and dietary supplements enriched with copper, and be composed to as great an extent as possible of foods with a low copper content.
