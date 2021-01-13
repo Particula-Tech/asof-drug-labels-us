@@ -47,10 +47,6 @@ Concomitant Medications
 
 Advise patients to notify their physicians if they are taking, or plan to take, any prescription or over-the-counter drugs because there is a potential for interactions [see Drug Interactions (7.1)].
 
-Pregnancy Registry
-
-Advise patients that there is a pregnancy exposure registry that monitors pregnancy outcomes in women exposed to MYDAYIS during pregnancy [see Use in Specific Populations (8.1)].
-
 Pregnancy
 
 Advise patients of the potential fetal effects from the use of MYDAYIS during pregnancy.
