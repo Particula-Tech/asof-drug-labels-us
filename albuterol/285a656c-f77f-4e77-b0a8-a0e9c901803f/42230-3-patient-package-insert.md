@@ -149,8 +149,6 @@ Active Ingredient: albuterol sulfate Inactive Ingredients: sodium chloride and s
 
 Rx Only
 
-Manufactured By: Nephron Pharmaceuticals Corporation West Columbia, SC 29172
+Manufactured By: Nephron Pharmaceuticals Corporation Orlando, FL 32811
 
-For Customer Service,
-
-Call 1-800-443-4313
+For Customer Service, call 1-800-443-4313.

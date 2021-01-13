@@ -1,37 +1,11 @@
 # PACKAGE LABEL.PRINCIPAL DISPLAY PANEL
 
-Principal Display – Pouch Label (Individually Wrapped Vials)
+Principal Display – Carton (1.25* mg)
 
-NDC 0487-0301-01
+Principal Display – Carton (0.63 mg*)
 
-Albuterol Sulfate Inhalation Solution, 0.021%
+Principal Display – Carton Back Panel (1.25* mg and 0.63* mg)
 
-Principal Display – Carton (30 Individually Wrapped Vials)
+Principal Display - Pouch Label (1.25 mg / 3 mL)
 
-NDC 0487-0301-01
-
-Albuterol Sulfate Inhalation Solution, 0.021%
-
-Principal Display – Pouch Label (Individually Wrapped Vials)
-
-NDC 0487-9904-25
-
-Albuterol Sulfate Inhalation Solution, 0.042%
-
-Principal Display – Carton (25 Individually Wrapped Vials)
-
-NDC 0487-9904-25
-
-Albuterol Sulfate Inhalation Solution, 0.042%
-
-Principal Display – Pouch Label (Individually Wrapped Vials)
-
-NDC 0487-9904-01
-
-Albuterol Sulfate Inhalation Solution, 0.042%
-
-Principal Display – Carton (30 Individually Wrapped Vials)
-
-NDC 0487-9904-01
-
-Albuterol Sulfate Inhalation Solution, 0.042%
+Principal Display - Pouch Label (0.63 mg / 3 mL)
