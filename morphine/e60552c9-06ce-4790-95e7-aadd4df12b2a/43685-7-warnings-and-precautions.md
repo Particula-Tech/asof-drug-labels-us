@@ -25,14 +25,21 @@ Contact the local state professional licensing board or state controlled substan
 
 To ensure that the benefits of opioid analgesics outweigh the risks of addiction, abuse, and misuse, the Food and Drug Administration (FDA) has required a Risk Evaluation and Mitigation Strategy (REMS) for these products.
 Under the requirements of the REMS, drug companies with approved opioid analgesic products must make REMS-compliant education programs available to healthcare providers.
+Healthcare providers are strongly encouraged to do all of the following: To ensure that the benefits of opioid analgesics outweigh the risks of addiction, abuse, and misuse, the Food and Drug Administration (FDA) has required a Risk Evaluation and Mitigation Strategy (REMS) for these products.
+Under the requirements of the REMS, drug companies with approved opioid analgesic products must make REMS-compliant education programs available to healthcare providers.
 Healthcare providers are strongly encouraged to do all of the following:
 
 - Complete a REMS-compliant education program offered by an accredited provider of continuing education (CE) or another education program that includes all the elements of the FDA Education Blueprint for Health Care Providers Involved in the Management or Support of Patients with Pain.
+  Complete a REMS-compliant education program offered by an accredited provider of continuing education (CE) or another education program that includes all the elements of the FDA Education Blueprint for Health Care Providers Involved in the Management or Support of Patients with Pain.
 - Discuss the safe use, serious risks, and proper storage and disposal of opioid analgesics with patients and/or their caregivers every time these medicines are prescribed.
   The Patient Counseling Guide (PCG) can be obtained at this link: www.fda.gov/OpioidAnalgesicREMSPCG.
-- Emphasize to patients and their caregivers the importance of reading the Medication Guide that they will receive from their pharmacist every time an opioid analgesic is dispensed to them.
-- Consider using other tools to improve patient, household, and community safety, such as patient-prescriber agreements that reinforce patient-prescriber responsibilities.
+  Discuss the safe use, serious risks, and proper storage and disposal of opioid analgesics with patients and/or their caregivers every time these medicines are prescribed.
+  The Patient Counseling Guide (PCG) can be obtained at this link: www.fda.gov/OpioidAnalgesicREMSPCG.
+- Emphasize to patients and their caregivers the importance of reading the Medication Guide that they will receive from their pharmacist every time an opioid analgesic is dispensed to them.Emphasize to patients and their caregivers the importance of reading the Medication Guide that they will receive from their pharmacist every time an opioid analgesic is dispensed to them.
+- Consider using other tools to improve patient, household, and community safety, such as patient-prescriber agreements that reinforce patient-prescriber responsibilities.Consider using other tools to improve patient, household, and community safety, such as patient-prescriber agreements that reinforce patient-prescriber responsibilities.
 
+To obtain further information on the opioid analgesic REMS and for a list of accredited REMS CME/CE, call 1-800-503-0784, or log on to.
+The FDA Blueprint can be found at.
 To obtain further information on the opioid analgesic REMS and for a list of accredited REMS CME/CE, call 1-800-503-0784, or log on to www.opioidanalgesicrems.com.
 The FDA Blueprint can be found at www.fda.gov/OpioidAnalgesicREMSBlueprint.
 
@@ -41,7 +48,7 @@ The FDA Blueprint can be found at www.fda.gov/OpioidAnalgesicREMSBlueprint.
 Serious, life-threatening, or fatal respiratory depression has been reported with the use of opioids, even when used as recommended.
 Respiratory depression, if not immediately recognized and treated, may lead to respiratory arrest and death.
 Management of respiratory depression may include close observation, supportive measures, and use of opioid antagonists, depending on the patient’s clinical status [see Overdosage (10)].
-Carbon dioxide (CO2) retention from opioid-induced respiratory depression can exacerbate the sedating effects of opioids.
+Carbon dioxide (CO 2) retention from opioid-induced respiratory depression can exacerbate the sedating effects of opioids.
 
 While serious, life-threatening, or fatal respiratory depression can occur at any time during the use of ARYMO ER, the risk is greatest during the initiation of therapy or following a dosage increase.
 Monitor patients closely for respiratory depression, especially within the first 24-72 hours of initiating therapy with and following dosage increases with ARYMO ER.
@@ -111,7 +118,7 @@ Avoid the use ARYMO ER in patients with circulatory shock.
 
 ## 5.10 Risks of Use in Patients with Increased Intracranial Pressure, Brain Tumors, Head Injury, or Impaired Consciousness
 
-In patients who may be susceptible to the intracranial effects of CO2 retention (e.g., those with evidence of increased intracranial pressure or brain tumors), ARYMO ER may reduce respiratory drive, and the resultant CO2 retention can further increase intracranial pressure.
+In patients who may be susceptible to the intracranial effects of CO 2 retention (e.g., those with evidence of increased intracranial pressure or brain tumors), ARYMO ER may reduce respiratory drive, and the resultant CO 2 retention can further increase intracranial pressure.
 Monitor such patients for signs of sedation and respiratory depression, particularly when initiating therapy with ARYMO ER.
 
 Opioids may also obscure the clinical course in a patient with a head injury.

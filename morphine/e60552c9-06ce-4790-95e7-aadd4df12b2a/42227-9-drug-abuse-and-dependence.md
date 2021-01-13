@@ -63,23 +63,23 @@ Pharmacokinetic Results:
 The pharmacokinetic profile of manipulated ARYMO ER was characterized following oral administration.
 The study was conducted in a randomized cross-over design.
 The pharmacokinetic profile of manipulated and intact ARYMO ER compared to crushed morphine sulfate extended-release was evaluated in 38 subjects after oral administration.
-The results are summarized in Table 2 and demonstrate that oral ingestion of manipulated ARYMO ER resulted in a higher Cmax, but similar AUC, when compared to intact ARYMO ER.
-In addition, manipulated ARYMO ER had a lower Cmax and longer Tmax than crushed morphine sulfate extended-release tablets.
+The results are summarized in Table 2 and demonstrate that oral ingestion of manipulated ARYMO ER resulted in a higher C max, but similar AUC, when compared to intact ARYMO ER.
+In addition, manipulated ARYMO ER had a lower C max and longer T max than crushed morphine sulfate extended-release tablets.
 
 Table 2: Results from Oral Pharmacokinetic Study
 
 | PK Parameter | ARYMO ER |  | Crushed Morphine Sulfate Extended-Release (n = 39) |
 | --- | --- | --- | --- |
 | Manipulated (n = 38) | Intact (n = 38) |  |  |
-| Cmax (ng/mL) |  |  |  |
+| C max (ng/mL) |  |  |  |
 | Mean (SD) | 28.7 (9.1) | 17.8 (6.6) | 42.3 (14.3) |
 | Median (Range) | 29.2 (12.5, 47.8) | 16.7 (8.5, 32.3) | 42.2 (14.2, 79.0) |
-| Tmax (h) |  |  |  |
+| T max (h) |  |  |  |
 | Median (Range) | 2.1 (0.9, 4.2) | 4.1 (1.6, 6.1) | 0.9 (0.6, 4.1) |
-| AUC0–∞ (h*ng/mL) |  |  |  |
+| AUC 0–∞ (h*ng/mL) |  |  |  |
 | Mean (SD) | 159.3 (36.8) | 168.0 (53.6) | 182.1 (49.9) |
 | Median (Range) | 157.1 (94.5, 215.3) | 159.4 (80.9, 274.8) | 185.5 (61.8, 284.1) |
-| Cmax = maximum observed plasma concentration; Tmax = time to achieve the maximum observed plasma concentration; AUC0–∞ = area under the curve, zero to infinity |  |  |  |
+| C max = maximum observed plasma concentration; T max = time to achieve the maximum observed plasma concentration; AUC 0–∞ = area under the curve, zero to infinity |  |  |  |
 
 Pharmacodynamic Results:
 
@@ -94,18 +94,18 @@ However, the difference between manipulated ARYMO ER and crushed morphine sulfat
 
 These results are summarized in Table 3.
 
-Table 3: Summary of Maximum Scores (Emax) for Drug Liking and Take Drug Again VAS1 Following Oral Administration of Manipulated and Intact ARYMO ER and Crushed Morphine Sulfate Extended-Release in Non-Dependent Recreational Opioid Users
+Table 3: Summary of Maximum Scores (E max) for Drug Liking and Take Drug Again VAS 1 Following Oral Administration of Manipulated and Intact ARYMO ER and Crushed Morphine Sulfate Extended-Release in Non-Dependent Recreational Opioid Users
 
 | Parameter | ARYMO ER |  | Crushed Morphine Sulfate Extended-Release (n = 38) | Placebo (n = 38) |
 | --- | --- | --- | --- | --- |
 | Manipulated (n = 38) | Intact (n = 38) |  |  |  |
-| Maximum Drug Liking (Emax) |  |  |  |  |
+| Maximum Drug Liking (E max) |  |  |  |  |
 | Mean (SD) | 68.3 (12.3) | 63.2 (10.1) | 73.3 (9.8) | 53.3 (7.8) |
 | Median (Q1, Q3) | 67.0 (61.0, 75.0) | 62.0 (56.0, 68.0) | 74.0 (68.0, 79.0) | 50.0 (50.0, 52.0) |
-| Take Drug Again (Emax) |  |  |  |  |
+| Take Drug Again (E max) |  |  |  |  |
 | Mean (SD) | 62.9 (19.6) | 54.8 (20.8) | 70.1 (17.5) | 51.0 (10.2) |
 | Median (Q1, Q3) | 61.5 (51.0, 71.0) | 56.0 (50.0, 65.0) | 68.0 (56.0, 80.0) | 50.0 (50.0, 50.0) |
-| 1 100 point bipolar VAS (0=maximum negative response, 50=neutral response, 100=maximum positive response)Q1=1st Quartile; Q3=3rd Quartile |  |  |  |  |
+| 1 100 point bipolar VAS (0=maximum negative response, 50=neutral response, 100=maximum positive response) Q1=1 st Quartile; Q3=3 rd Quartile |  |  |  |  |
 
 Intranasal Human Abuse Potential Study
 
@@ -117,42 +117,42 @@ Subjects were non-dependent recreational opioid users with insufflation experien
 The preparation of ARYMO ER in this study required a multi-step procedure (mechanical and electrical manipulations) compared to morphine sulfate extended-release tablets, which were crushed in a single-step (mechanical) procedure.
 Treatment arms included ARYMO ER 60 mg tablet manipulated, morphine sulfate extended-release 60 mg tablet crushed, oral intact ARYMO ER 60 mg tablet, and placebo.
 
-The pharmacokinetic parameters that were measured include Cmax, Tmax and overall exposure (AUC0–∞).
-The results are summarized in Table 4 and demonstrate that snorting manipulated ARYMO ER had a lower Cmax, longer Tmax and lower overall exposure compared to snorting crushed morphine sulfate extended-release tablets.
+The pharmacokinetic parameters that were measured include C max, T max and overall exposure (AUC 0–∞).
+The results are summarized in Table 4 and demonstrate that snorting manipulated ARYMO ER had a lower C max, longer T max and lower overall exposure compared to snorting crushed morphine sulfate extended-release tablets.
 The pharmacokinetic profile of manipulated Arymo ER is consistent with an oral intact extended-release profile
 
 Table 4: Pharmacokinetic Results from Intranasal Study
 
 | PK Parameter | Manipulated ARYMO ER (n = 45) | Intact ARYMO ER (Oral) (n = 46) | Crushed Morphine Sulfate Extended- Release (n = 46) |
 | --- | --- | --- | --- |
-| Cmax (ng/mL) |  |  |  |
+| C max (ng/mL) |  |  |  |
 | Mean (SD) | 19.0 (9.6) | 17.2 (4.3) | 36.3 (12.9) |
 | Median (Range) | 19.8 (4.2-40.1) | 18.1 (9.3-24.8) | 34.6 (6.5-62.3) |
-| Tmax (h) |  |  |  |
+| T max (h) |  |  |  |
 | Median (Range) | 2.2 (1.1-6.1) | 3.7 (1.1-6.2) | 1.1 (0.4-2.7) |
-| AUC0–∞ (h*ng/mL) |  |  |  |
+| AUC 0–∞ (h*ng/mL) |  |  |  |
 | Mean (SD) | 125.2 (63.6) | 149.0 (25.5) | 181.6 (49.7) |
 | Median (Range) | 137.7 (20.8-244.2) | 153.4 (85.6-188.6) | 177.6 (29.8-286.0) |
-| Cmax = maximum observed plasma concentration; Tmax = time to achieve the maximum observed plasma concentration; AUC0–∞ = area under the curve, zero to infinity; SD=standard deviation |  |  |  |
+| C max = maximum observed plasma concentration; T max = time to achieve the maximum observed plasma concentration; AUC 0–∞ = area under the curve, zero to infinity; SD=standard deviation |  |  |  |
 
 Pharmacodynamic Results:
 
 In the intranasal abuse potential study, drug liking was measured on a 100 mm bipolar visual analog scale (VAS) where 50 represents a neutral response of “neither like nor dislike”, 0 represents “strong disliking”, and 100 represents “strong liking.”
 Response to whether the subject would take the study drug again was also measured on a bipolar scale of 0 to 100 where 50 represents a neutral response (‘do not care’), 0 represents the strongest negative response (‘definitely would not’) and 100 represents the strongest positive response (‘definitely would’).
-The study results demonstrated that subjects who snorted manipulated ARYMO ER reported statistically significantly lower maximum scores (Emax) for drug liking and take drug again compared to snorting crushed morphine sulfate extended-release tablets.
+The study results demonstrated that subjects who snorted manipulated ARYMO ER reported statistically significantly lower maximum scores (E max) for drug liking and take drug again compared to snorting crushed morphine sulfate extended-release tablets.
 These results are summarized in Table 5.
 
-Table 5: Summary of Maximum Scores (Emax) for Drug Liking and Take Drug Again1 following Intranasal Administration of Manipulated ARYMO ER and Crushed Morphine Sulfate Extended-Release Tablets in Non-Dependent Recreational Opioid Users
+Table 5: Summary of Maximum Scores (E max) for Drug Liking and Take Drug Again 1 following Intranasal Administration of Manipulated ARYMO ER and Crushed Morphine Sulfate Extended-Release Tablets in Non-Dependent Recreational Opioid Users
 
 | Parameter | Manipulated ARYMO ER (n = 46) | Crushed Morphine Sulfate Extended-Release (n = 46) | Placebo (n = 46) |
 | --- | --- | --- | --- |
-| Maximum Drug Liking (Emax) |  |  |  |
+| Maximum Drug Liking (E max) |  |  |  |
 | Mean (SD) | 65.5 (14.3) | 77.7 (11.7) | 54.7 (10.6) |
 | Median (Q1, Q3) | 62.0 (52.0, 76.0) | 77.5 (70.0, 85.0) | 51.0 (50.0, 58.0) |
-| Take Drug Again (Emax) |  |  |  |
+| Take Drug Again (E max) |  |  |  |
 | Mean (SD) | 43.1 (29.6) | 69.9 (27.4) | 52.5 (12.7) |
 | Median (Q1, Q3) | 50.0 (19.0, 66.0) | 73.0 (57.0, 90.0) | 50.0 (50.0, 51.0) |
-| 1100 point bipolar VAS (0=maximum negative response, 50=neutral response, 100=maximum positive response)Q1=1st Quartile; Q3=3rd Quartile |  |  |  |
+| 1100 point bipolar VAS (0=maximum negative response, 50=neutral response, 100=maximum positive response) Q1=1 st Quartile; Q3=3 rd Quartile |  |  |  |
 
 Summary
 

@@ -79,8 +79,8 @@ When ARYMO ER is given on a fixed dosing regimen, steady-state is achieved in ab
 - Food Effect
 
 - The effect of food upon the systemic bioavailability of ARYMO ER has been evaluated.
-  In a food effect study with ARYMO ER 60 mg, there was no significant difference in peak plasma concentration (Cmax) or overall exposure (AUC0-24h).
-  There was a 2-hour delay in median Tmax value (6.5 hour with food compared to 4.5 hour without food) when ARYMO ER was administered with a high fat meal compared to the fasted state.
+  In a food effect study with ARYMO ER 60 mg, there was no significant difference in peak plasma concentration (C max) or overall exposure (AUC 0-24h).
+  There was a 2-hour delay in median T max value (6.5 hour with food compared to 4.5 hour without food) when ARYMO ER was administered with a high fat meal compared to the fasted state.
   The extent of food effect is not considered clinically significant so ARYMO ER can be taken without regard to food.
 
 Distribution
