@@ -16,16 +16,14 @@ Therefore, concomitant use of tizanidine with fluvoxamine or with ciprofloxacin,
 
 Tizanidine may cause hepatocellular liver injury.
 Tizanidine should be used with caution in patients with any hepatic impairment.
-Monitoring of aminotransferase levels is recommended for baseline and 1 month after maximum dose is achieved, or if hepatic injury is suspected.
-[see Dosage and Administration (2.3) and Use in Specific Populations (8.7)]
+Monitoring of aminotransferase levels is recommended for baseline and 1 month after maximum dose is achieved, or if hepatic injury is suspected [see Dosage and Administration (2.3) and Use in Specific Populations (8.7)].
 
 ## 5.3 Sedation
 
 Tizanidine can cause sedation, which may interfere with everyday activity.
 In the multiple dose studies, the prevalence of patients with sedation peaked following the first week of titration and then remained stable for the duration of the maintenance phase of the study.
 The CNS depressant effects of tizanidine with alcohol and other CNS depressants (e.g., benzodiazepines, opioids, tricyclic antidepressants) may be additive.
-Monitor patients who take tizanidine with another CNS depressant for symptoms of excess sedation.
-[see Drug Interactions (7.5, 7.6)]
+Monitor patients who take tizanidine with another CNS depressant for symptoms of excess sedation [see Drug Interactions (7.5, 7.6)].
 
 ## 5.4 Hallucinosis/Psychotic-Like Symptoms
 
@@ -39,10 +37,9 @@ Consider discontinuing tizanidine in patients who develop hallucinations.
 ## 5.5 Interaction with CYP1A2 Inhibitors
 
 Because of potential drug interactions, tizanidine is contraindicated in patients taking potent CYP1A2 inhibitors, such as fluvoxamine or ciprofloxacin.
-Adverse reactions such as hypotension, bradycardia, or excessive drowsiness can occur when tizanidine is taken with other CYP1A2 inhibitors, such as zileuton, fluoroquinolones other than ciprofloxacin (which is contraindicated), antiarrythmics (amiodarone, mexiletine, propafenone), cimetidine, famotidine, oral contraceptives, acyclovir, and ticlopidine).
+Adverse reactions such as hypotension, bradycardia, or excessive drowsiness can occur when tizanidine is taken with other CYP1A2 inhibitors, such as zileuton, fluoroquinolones other than ciprofloxacin (which is contraindicated), antiarrhythmics (amiodarone, mexiletine, propafenone), cimetidine, famotidine, oral contraceptives, acyclovir, and ticlopidine).
 Concomitant use should be avoided unless the necessity for tizanidine therapy is clinically evident.
-In such a case, use with caution.
-[see Drug Interactions (7.3) and Clinical Pharmacology (12.3)]
+In such a case, use with caution [see Drug Interactions (7.3) and Clinical Pharmacology (12.3)].
 
 ## 5.6 Hypersensitivity Reactions
 
@@ -56,11 +53,9 @@ Patients should be informed of the signs and symptoms of severe allergic reactio
 Tizanidine should be used with caution in patients with renal insufficiency (creatinine clearance < 25 mL/min), as clearance is reduced by more than 50%.
 In these patients, during titration, the individual doses should be reduced.
 If higher doses are required, individual doses rather than dosing frequency should be increased.
-These patients should be monitored closely for the onset or increase in severity of the common adverse events (dry mouth, somnolence, asthenia and dizziness) as indicators of potential overdose.
-[see Dosage and Administration (2.2) and Use in Specific Populations (8.6)]
+These patients should be monitored closely for the onset or increase in severity of the common adverse events (dry mouth, somnolence, asthenia and dizziness) as indicators of potential overdose [see Dosage and Administration (2.2) and Use in Specific Populations (8.6)].
 
 ## 5.8 Withdrawal Adverse Reactions
 
 Withdrawal adverse reactions include rebound hypertension, tachycardia, and hypertonia.
-To minimize the risk of these reactions, particularly in patients who have been receiving high doses (20 to 28 mg daily) for long periods of time (9 weeks or more) or who may be on concomitant treatment with narcotics, the dose should be decreased slowly (2 to 4 mg per day).
-[see Dosage and Administration (2.2)]
+To minimize the risk of these reactions, particularly in patients who have been receiving high doses (20 to 28 mg daily) for long periods of time (9 weeks or more) or who may be on concomitant treatment with narcotics, the dose should be decreased slowly (2 to 4 mg per day) [see Dosage and Administration (2.2)].

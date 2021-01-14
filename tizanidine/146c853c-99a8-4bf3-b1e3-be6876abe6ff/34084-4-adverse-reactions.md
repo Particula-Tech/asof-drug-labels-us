@@ -12,7 +12,7 @@ The following adverse reactions are described elsewhere in other sections of the
 
 Because clinical studies are conducted under widely varying conditions, adverse reaction rates observed in the clinical studies of a drug cannot be directly compared to rates in the clinical studies of another drug and may not reflect the rates observed in clinical practice.
 
-Three double-blind, randomized, placebo controlled -clinical studies were conducted to evaluate the effect of tizanidine on spasticity control.
+Three double-blind, randomized, placebo-controlled clinical studies were conducted to evaluate the effect of tizanidine on spasticity control.
 Two studies were conducted in patients with multiple sclerosis and one in patients with spinal cord injury.
 Each study had a 13-week active treatment period which included a 3-week titration phase to the maximum tolerated dose up to 36 mg/day in three divided doses, a 9-week plateau phase where the dose of tizanidine was held constant and a 1-week dose tapering.
 In all, 264 patients received tizanidine and 261 patients received placebo.
@@ -64,7 +64,7 @@ Table 2: Single Dose, Placebo-Controlled Study—Common Adverse Reactions Report
 | Hypotension | 0 | 16 | 33 |
 | Bradycardia | 0 | 2 | 10 |
 
-## 6.2 Post-Marketing Experience
+## 6.2 Postmarketing Experience
 
 The following adverse reactions have been identified during post approval use of tizanidine.
 Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
