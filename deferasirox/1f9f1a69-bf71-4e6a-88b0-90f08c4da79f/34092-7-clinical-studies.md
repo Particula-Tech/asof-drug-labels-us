@@ -14,7 +14,6 @@ The percentage of patients achieving the primary endpoint was 52.9% for deferasi
 The relative efficacy of deferasirox to deferoxamine cannot be determined from this study.
 
 In patients who had an LIC at baseline and at end of study, the mean change in LIC was -2.4 mg Fe/g dry weight in patients treated with deferasirox and -2.9 mg Fe/g dry weight in patients treated with deferoxamine.
-
 Reduction of LIC and serum ferritin was observed with deferasirox doses of 20 to 30 mg per kg per day.
 Deferasirox doses below 20 mg per kg per day failed to provide consistent lowering of LIC and serum ferritin levels (Figure 1).
 Therefore, a starting dose of 20 mg per kg per day is recommended [see Dosage and Administration (2.1)].
@@ -45,6 +44,7 @@ These trials evaluated the effects of deferasirox therapy on parameters of iron 
 The percent of patients completing planned duration of treatment was 51% in the largest 1-year study, 52% in the 3-year study and 22% in the 5-year study.
 The major causes for treatment discontinuation were withdrawal of consent, adverse reaction, and death.
 Over 1 year of follow-up across these pooled studies, mean change in serum ferritin was -332.8 (±2615.59) mcg/L (n=593) and mean change in LIC was -5.9 (±8.32) mg Fe/g dw (n=68).
+
 Results of these pooled studies in 627 patients with MDS suggest a progressive decrease in serum ferritin and LIC beyond 1 year in those patients who are able to continue deferasirox.
 
 Non-Transfusion Dependent Thalassemia
@@ -74,26 +74,12 @@ Of the 113 patients with a baseline LIC of at least 5 mg Fe/g dw in Study 6, the
 The responders included 4 (10%) of 39 patients treated at 20 mg/kg/day for a baseline LIC exceeding 15 mg Fe/g dw, and 31 (51%) of 61 patients treated at 10 mg/kg/day for a baseline LIC between 5 and 15 mg Fe/g dw.
 The absolute change in LIC at Week 52 by starting dose is shown in Table 5 below.
 
-Study 7 (NCT01709838) was an open-label, single-arm, multicenter, 5-year study to evaluate the efficacy and safety of deferasirox tablets for oral suspension in iron overloaded patients with NTDT of 10 years of age or older.
-All patients started treatment on 10 mg/kg/day deferasirox tablets for oral suspension for four weeks.
-At Week 4, dose escalation was based on baseline LIC.
-At Week 24 and every 6 months thereafter, further dose adjustments were made according to the LIC at that visit.
-Treatment was interrupted when LIC < 3 mg Fe/g dw or serum ferritin < 300 ng/mL and was restarted at 10 mg/kg/day when LIC ≥ 5 mg Fe/g dw and serum ferritin ≥ 300 ng/mL.
-Throughout the study, the maximum dose of deferasirox tablets for oral suspension given was 30 mg/kg/day.
-
-A total of 134 patients were enrolled in the study.
-Eligible patients were required to have an LIC of at least 5 mg Fe/g dw measured by R2 MRI and a serum ferritin at least of 300 ng/mL at screening.
-The mean absolute change of LIC from Baseline to Week 52 was -6.7 mg Fe/g dw.
-The reduction in LIC was sustained until Week 260 (5 years) with the mean absolute change in LIC from Baseline to Week 260 of -10.6 mg Fe/g dw.
-In the subset of patients with Baseline LIC > 15 mg Fe/g dw (49 patients), 51.0% achieved a first LIC < 5 mg Fe/g dw (95% CI: 37.5, 64.4) with a median time of 28.6 months.
-In the subset of patients with target LIC of < 3 mg Fe/g dw (61 patients), 39.3% developed first LIC ≥ 5 mg Fe/g dw in the follow-up period, with a median time of 13.9 months.
-
 Table 5.
 Absolute Change in LIC at Week 52 in Patients with NTDT
 
 | Deferasirox Tablets for Oral Suspension Starting Dosea |  |  |  |  |
 | --- | --- | --- | --- | --- |
-| Laboratory Parameters | Placebo | 5 mg/kg/day | 10 mg/kg/day | 20 mg/kg/day |
+|  | Placebo | 5 mg/kg/day | 10 mg/kg/day | 20 mg/kg/day |
 | Study 5b |  |  |  |  |
 | Number of Patients | n = 54 | n = 51 | n = 54 | - |
 | Mean LIC at Baseline (mg Fe/g dw) | 16.1 | 13.4 | 14.4 | - |
@@ -104,9 +90,7 @@ Absolute Change in LIC at Week 52 in Patients with NTDT
 | Mean LIC at Baseline (mg Fe/g dw) | - | 5.6 | 8.8 | 23.5 |
 | Mean Change (mg Fe/g dw) | - | -1.5 | -2.8 | -9.1 |
 | (95% Confidence Interval) | - | (-3.7, +0.7) | (-3.4, -2.2) | (-11, -7.3) |
-| Study 7 |  |  |  |  |
-| Number of Patients | - | - | n = 127 | - |
-| Mean LIC at Baseline (mg Fe/g dw) | - | - | 15.1 | - |
-| Mean Change (mg Fe/g dw) | - | - | -6.7 | - |
-| (95% Confidence Interval) | - | - | (-7.9, -5.5) | - |
-| Abbreviation: LIC, liver iron concentration; NTDT, non-transfusion-dependent thalassemia. a Randomized dose in Study 5 or assigned starting dose in Study 6 and Study 7. b Least square mean change for Study 5. |  |  |  |  |
+| Abbreviation: LIC, liver iron concentration; NTDT, non-transfusion-dependent thalassemia. aRandomized dose in Study 5 or assigned starting dose in Study 6. bLeast square mean change for Study 5. |  |  |  |  |
+
+Additional pediatric use information is approved for Novartis Pharmaceuticals Corporation’s EXJADE (deferasirox) tablets for oral suspension.
+However, due to Novartis Pharmaceuticals Corporation’s marketing exclusivity rights, this drug product is not labeled with that information.

@@ -95,6 +95,7 @@ The majority of these patients had myelodysplastic syndrome (MDS) (n=393).
 In these trials, elderly patients experienced a higher frequency of adverse reactions than younger patients.
 Monitor elderly patients for early signs or symptoms of adverse reactions that may require a dose adjustment.
 Elderly patients are at increased risk for toxicity due to the greater frequency of decreased hepatic, renal, or cardiac function, and of concomitant disease or other drug therapy.
+
 Dose selection for an elderly patient should be cautious, usually starting at the low end of the dosing range.
 In elderly patients, including those with MDS, individualize the decision to remove accumulated iron based on clinical circumstances and the anticipated clinical benefit and risks of deferasirox tablets for oral suspension therapy.
 
