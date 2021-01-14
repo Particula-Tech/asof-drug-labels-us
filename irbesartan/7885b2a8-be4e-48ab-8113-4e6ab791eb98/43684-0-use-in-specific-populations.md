@@ -39,10 +39,10 @@ Data
 Animal data
 
 Irbesartan crosses the placenta in rats and rabbits.
-In female rats given irbesartan prior to mating though gestation and lactation at oral doses of 50, 180, or 650 mg/kg/day (1.6 to 21.1 times the maximum recommended human dose (MRHD) based on body surface area), fetuses examined on Gestation Day 20 showed increased incidences of hydroureter and renal pelvic cavitation and/or absence of renal papilla in all irbesartan-treated groups.
+In female rats given irbesartan prior to mating through gestation and lactation at oral doses of 50, 180, or 650 mg/kg/day (1.6 to 21.1 times the maximum recommended human dose (MRHD) based on body surface area), fetuses examined on Gestation Day 20 showed increased incidences of hydroureter and renal pelvic cavitation and/or absence of renal papilla in all irbesartan-treated groups.
 Subcutaneous edema also occurred in fetuses at maternal doses ≥180 mg/kg/day (5.8 times the MRHD).
-These anomalies occurred when female rats received irbesartan from prior to mating through Day 20 of gestation but were not observed in pups postnatally in the same study, or when irbesartan was given to pregnant rats only during organogenesis (Gestation Day 6 through Gestation Day 15) at oral doses from 50 to 450 mg/kg/day (up to 14.6 times the MHRD).
-In addition, no adverse effects on kidney development were observed in pups from dams given irbesartan from Gestation Day 15 through Lactation Day 24 at doses of 50, 180, or 650 mg/kg/day (up to 21.1 times the MHRD).
+These anomalies occurred when female rats received irbesartan from prior to mating through Day 20 of gestation but were not observed in pups postnatally in the same study, or when irbesartan was given to pregnant rats only during organogenesis (Gestation Day 6 through Gestation Day 15) at oral doses from 50 to 450 mg/kg/day (up to 14.6 times the MRHD).
+In addition, no adverse effects on kidney development were observed in pups from dams given irbesartan from Gestation Day 15 through Lactation Day 24 at doses of 50, 180, or 650 mg/kg/day (up to 21.1 times the MRHD).
 The observed effects are believed to be late gestational effects of the drug.
 Pregnant rabbits given oral doses of irbesartan of 30 mg/kg/day (1.9 times the MRHD based on body surface area) experienced a high rate of maternal mortality and abortion.
 Surviving females had a slight increase in early resorptions and a corresponding decrease in live fetuses.
