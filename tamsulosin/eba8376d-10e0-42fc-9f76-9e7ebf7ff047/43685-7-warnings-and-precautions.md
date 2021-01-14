@@ -5,9 +5,9 @@
 As with other alpha-adrenergic antagonists, orthostatic hypotension (postural hypotension, dizziness, and vertigo) may occur in patients treated with tamsulosin-containing products, including JALYN, and can result in syncope.
 Patients starting treatment with JALYN should be cautioned to avoid situations where syncope could result in an injury [see Adverse Reactions (6.1)].
 
-## 5.2 Drug-drug Interactions
+## 5.2 Drug-Drug Interactions
 
-Strong Inhibitors of CYP3A4
+Strong Inhibitors of Cytochrome P450 (CYP) 3A4
 
 Tamsulosin-containing products, including JALYN, should not be coadministered with strong CYP3A4 inhibitors (e.g., ketoconazole) as this can significantly increase tamsulosin exposure [see Drug Interactions (7.1), Clinical Pharmacology (12.3)].
 
@@ -25,7 +25,7 @@ Tamsulosin-containing products, including JALYN, should not be coadministered wi
 
 Phosphodiesterase-5 (PDE-5) Inhibitors
 
-Caution is advised when alpha-adrenergic-antagonist-containing products, including JALYN, are coadministered with PDE-5 inhibitors.
+Caution is advised when alpha-adrenergic–antagonist-containing products, including JALYN, are coadministered with PDE-5 inhibitors.
 Alpha-adrenergic antagonists and PDE-5 inhibitors are both vasodilators that can lower blood pressure.
 Concomitant use of these 2 drug classes can potentially cause symptomatic hypotension.
 
@@ -33,7 +33,7 @@ Warfarin
 
 Caution should be exercised with concomitant administration of warfarin and tamsulosin-containing products, including JALYN [see Drug Interactions (7.2), Clinical Pharmacology (12.3)].
 
-## 5.3 Effects on Prostate-specific Antigen (PSA) and the Use of PSA in Prostate Cancer Detection
+## 5.3 Effects on Prostate-Specific Antigen (PSA) and the Use of PSA in Prostate Cancer Detection
 
 Coadministration of dutasteride with tamsulosin resulted in similar changes to serum PSA as with dutasteride monotherapy.
 
@@ -49,7 +49,7 @@ To interpret an isolated PSA value in a man treated with JALYN, for 3 months or 
 The free-to-total PSA ratio (percent free PSA) remains constant, even under the influence of dutasteride.
 If clinicians elect to use percent free PSA as an aid in the detection of prostate cancer in men receiving JALYN, no adjustment to its value appears necessary.
 
-## 5.4 Increased Risk of High-grade Prostate Cancer
+## 5.4 Increased Risk of High-Grade Prostate Cancer
 
 In men aged 50 to 75 years with a prior negative biopsy for prostate cancer and a baseline PSA between 2.5 ng/mL and 10.0 ng/mL taking dutasteride in the 4-year Reduction by Dutasteride of Prostate Cancer Events (REDUCE) trial, there was an increased incidence of Gleason score 8 to 10 prostate cancer compared with men taking placebo (dutasteride 1.0% versus placebo 0.5%) [see Indications and Usage (1.2), Adverse Reactions (6.1)].
 In a 7-year placebo-controlled clinical trial with another 5-alpha-reductase inhibitor (finasteride 5 mg, PROSCAR), similar results for Gleason score 8 to 10 prostate cancer were observed (finasteride 1.8% versus placebo 1.1%).
@@ -62,11 +62,12 @@ Whether the effect of 5-alpha-reductase inhibitors to reduce prostate volume or 
 Prior to initiating treatment with JALYN, consideration should be given to other urological conditions that may cause similar symptoms.
 In addition, BPH and prostate cancer may coexist.
 
-## 5.6 Exposure of Women—Risk to Male Fetus
+## 5.6 Transdermal Exposure of JALYN in Pregnant Females—Risk to Male Fetus
 
-JALYN capsules should not be handled by a woman who is pregnant or who could become pregnant.
-Dutasteride is absorbed through the skin and could result in unintended fetal exposure.
-If a woman who is pregnant or could become pregnant comes in contact with a leaking capsule, the contact area should be washed immediately with soap and water [see Use in Specific Populations (8.1)].
+JALYN capsules should not be handled by females who are pregnant or may be pregnant.
+Dutasteride can be absorbed through the skin and could result in unintended fetal exposure and potential risk to a male fetus.
+If a female who is or may be pregnant comes in contact with a leaking capsule, the contact area should be washed immediately with soap and water [see Use in Specific Populations (8.1)].
+Dutasteride can be absorbed through the skin based on animal studies [see Nonclinical Toxicology (13.2)].
 
 ## 5.7 Priapism
 
@@ -100,12 +101,10 @@ If a patient reports a serious or life-threatening sulfa allergy, caution is war
 
 Dutasteride
 
-The effects of dutasteride 0.5 mg/day on semen characteristics were evaluated in normal volunteers aged 18 to 52 (n = 27 dutasteride, n = 23 placebo) throughout 52 weeks of treatment and 24 weeks of post-treatment follow-up.
-At 52 weeks, the mean percent reductions from baseline in total sperm count, semen volume, and sperm motility were 23%, 26%, and 18%, respectively, in the dutasteride group when adjusted for changes from baseline in the placebo group.
-Sperm concentration and sperm morphology were unaffected.
-After 24 weeks of follow-up, the mean percent change in total sperm count in the dutasteride group remained 23% lower than baseline.
-While mean values for all semen parameters at all time-points remained within the normal ranges and did not meet predefined criteria for a clinically significant change (30%), 2 subjects in the dutasteride group had decreases in sperm count of greater than 90% from baseline at 52 weeks, with partial recovery at the 24-week follow-up.
-The clinical significance of dutasteride’s effect on semen characteristics for an individual patient’s fertility is not known.
+The effects of dutasteride 0.5 mg/day on semen characteristics were evaluated in healthy men throughout 52 weeks of treatment and 24 weeks of post‑treatment follow‑up.
+At 52 weeks, compared with placebo, dutasteride treatment resulted in mean reduction in total sperm count, semen volume, and sperm motility; the effects on total sperm count were not reversible after 24 weeks of follow-up.
+Sperm concentration and sperm morphology were unaffected and mean values for all semen parameters remained within the normal range at all timepoints.
+The clinical significance of the effect of dutasteride on semen characteristics for an individual patient’s fertility is not known [see Use in Specific Populations (8.3)].
 
 Tamsulosin
 

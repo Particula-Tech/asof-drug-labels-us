@@ -11,4 +11,4 @@ Store at 25°C (77°F); excursions permitted 15° to 30°C (59° to 86°F) [see 
 Capsules may become deformed and/or discolored if kept at high temperatures.
 
 Dutasteride is absorbed through the skin.
-JALYN capsules should not be handled by women who are pregnant or who could become pregnant because of the potential for absorption of dutasteride and the subsequent potential risk to a developing male fetus [see Warnings and Precautions (5.6)].
+JALYN capsules should not be handled by females who are pregnant or who could become pregnant because of the potential for absorption of dutasteride and the subsequent potential risk to a developing male fetus [see Warnings and Precautions (5.6)].

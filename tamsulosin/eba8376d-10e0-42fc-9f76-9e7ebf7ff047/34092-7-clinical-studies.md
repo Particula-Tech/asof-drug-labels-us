@@ -1,10 +1,10 @@
 # 14 CLINICAL STUDIES
 
-The trial supporting the efficacy of JALYN was a 4-year multicenter, randomized, double-blind, parallel-group trial (CombAT trial) investigating the efficacy of the coadministration of dutasteride 0.5 mg/day and tamsulosin hydrochloride 0.4 mg/day (n = 1,610) compared with dutasteride alone (n = 1,623) or tamsulosin alone (n = 1,611).
-Subjects were at least 50 years of age with a serum PSA ≥1.5 ng/mL and <10 ng/mL and BPH diagnosed by medical history and physical examination, including enlarged prostate (≥30 cc) and BPH symptoms that were moderate to severe according to the International Prostate Symptom Score (IPSS).
-Eighty-eight percent (88%) of the enrolled trial population was white.
-Approximately 52% of subjects had previous exposure to 5-alpha-reductase inhibitor or alpha-adrenergic antagonist treatment.
-Of the 4,844 subjects randomly assigned to receive treatment, 69% of subjects in the coadministration group, 67% in the dutasteride group, and 61% in the tamsulosin group completed 4 years of double-blind treatment.
+The trial supporting the efficacy of JALYN was a 4‑year multicenter, randomized, double‑blind, parallel‑group trial (CombAT trial) investigating the efficacy of the coadministration of dutasteride 0.5 mg/day and tamsulosin hydrochloride 0.4 mg/day (n = 1,610) compared with dutasteride alone (n = 1,623) or tamsulosin alone (n = 1,611).
+Subjects were aged at least 50 years with a serum PSA ≥1.5 ng/mL and <10 ng/mL and BPH diagnosed by medical history and physical examination, including enlarged prostate (≥30 cc) and BPH symptoms that were moderate to severe according to the International Prostate Symptom Score (IPSS).
+Eighty‑eight percent (88%) of the enrolled trial population was white.
+Approximately 52% of subjects had previous exposure to 5-alpha‑reductase inhibitor or alpha-adrenergic antagonist treatment.
+Of the 4,844 subjects randomly assigned to receive treatment, 69% of subjects in the coadministration group, 67% in the dutasteride group, and 61% in the tamsulosin group completed 4 years of double‑blind treatment.
 
 Effect on Symptom Score
 

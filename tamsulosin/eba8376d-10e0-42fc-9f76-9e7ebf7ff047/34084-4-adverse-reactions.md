@@ -45,20 +45,7 @@ Adverse Reactions Reported over a 48-Month Period in ≥1% of Subjects and More 
 | Coadministration | 1.1% | 0.4% | 0.1% | <0.1% | 0.2% |
 | Dutasteride | 0.5% | 0.3% | 0.1% | <0.1% | <0.1% |
 | Tamsulosin | 0.9% | 0.5% | 0.4% | <0.1% | 0.0% |
-
-aCoadministration = AVODART 0.5 mg once daily plus tamsulosin 0.4 mg once daily.
-
-bIncludes anorgasmia, retrograde ejaculation, semen volume decreased, orgasmic sensation decreased, orgasm abnormal, ejaculation delayed, ejaculation disorder, ejaculation failure, and premature ejaculation.
-
-cThese sexual adverse reactions are associated with dutasteride treatment (including monotherapy and combination with tamsulosin).
-These adverse reactions may persist after treatment discontinuation.
-The role of dutasteride in this persistence is unknown.
-
-dIncludes erectile dysfunction and disturbance in sexual arousal.
-
-eIncludes libido decreased, libido disorder, loss of libido, sexual dysfunction, and male sexual dysfunction.
-
-fIncludes breast enlargement, gynecomastia, breast swelling, breast pain, breast tenderness, nipple pain, and nipple swelling.
+| a Coadministration = AVODART 0.5 mg once daily plus tamsulosin 0.4 mg once daily. b Includes anorgasmia, retrograde ejaculation, semen volume decreased, orgasmic sensation decreased, orgasm abnormal, ejaculation delayed, ejaculation disorder, ejaculation failure, and premature ejaculation. c These sexual adverse reactions are associated with dutasteride treatment (including monotherapy and combination with tamsulosin). These adverse reactions may persist after treatment discontinuation. The role of dutasteride in this persistence is unknown. d Includes erectile dysfunction and disturbance in sexual arousal. e Includes libido decreased, libido disorder, loss of libido, sexual dysfunction, and male sexual dysfunction. f Includes breast enlargement, gynecomastia, breast swelling, breast pain, breast tenderness, nipple pain, and nipple swelling. |  |  |  |  |  |
 
 Cardiac Failure
 
@@ -72,9 +59,9 @@ No imbalance was observed in the incidence of overall cardiovascular adverse eve
 
 Additional information regarding adverse reactions in placebo-controlled trials with dutasteride or tamsulosin monotherapy follows.
 
-Dutasteride:
+Dutasteride
 
-Long-term Treatment (Up to 4 Years): High-grade Prostate Cancer: The REDUCE trial was a randomized, double-blind, placebo-controlled trial that enrolled 8,231 men aged 50 to 75 years with a serum PSA of 2.5 ng/mL to 10 ng/mL and a negative prostate biopsy within the previous 6 months.
+Long-term Treatment (Up to 4 Years): High-Grade Prostate Cancer: The REDUCE trial was a randomized, double-blind, placebo-controlled trial that enrolled 8,231 men aged 50 to 75 years with a serum PSA of 2.5 ng/mL to 10 ng/mL and a negative prostate biopsy within the previous 6 months.
 Subjects were randomized to receive placebo (n = 4,126) or 0.5-mg daily doses of dutasteride (n = 4,105) for up to 4 years.
 The mean age was 63 years and 91% were white.
 Subjects underwent protocol-mandated scheduled prostate biopsies at 2 and 4 years of treatment or had “for-cause biopsies” at non-scheduled times if clinically indicated.
@@ -100,7 +87,7 @@ Because orthostasis was detected more frequently in the tamsulosin-treated subje
 
 ## 6.2 Postmarketing Experience
 
-The following adverse reactions have been identified during post-approval use of the individual components of JALYN.
+The following adverse reactions have been identified during postapproval use of the individual components of JALYN.
 Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
 These reactions have been chosen for inclusion due to a combination of their seriousness, frequency of reporting, or potential causal connection to drug exposure.
 

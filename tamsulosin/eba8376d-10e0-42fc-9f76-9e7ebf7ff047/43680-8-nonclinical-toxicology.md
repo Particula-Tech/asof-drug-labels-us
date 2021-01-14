@@ -38,32 +38,34 @@ There were no mutagenic effects in the in vivo sister chromatid exchange and mou
 
 Impairment of Fertility
 
-Dutasteride: Treatment of sexually mature male rats with dutasteride at 0.1- to 110-fold the MRHD (animal doses of 0.05, 10, 50, and 500 mg/kg/day for up to 31 weeks) resulted in dose- and time-dependent decreases in fertility; reduced cauda epididymal (absolute) sperm counts but not sperm concentration (at 50 and 500 mg/kg/day); reduced weights of the epididymis, prostate, and seminal vesicles; and microscopic changes in the male reproductive organs.
-The fertility effects were reversed by recovery week 6 at all doses, and sperm counts were normal at the end of a 14-week recovery period.
-The 5-alpha-reductase–related changes consisted of cytoplasmic vacuolation of tubular epithelium in the epididymides and decreased cytoplasmic content of epithelium, consistent with decreased secretory activity in the prostate and seminal vesicles.
-The microscopic changes were no longer present at recovery week 14 in the low-dose group and were partly recovered in the remaining treatment groups.
-Low levels of dutasteride (0.6 to 17 ng/mL) were detected in the serum of untreated female rats mated to males dosed at 10, 50, or 500 mg/kg/day for 29 to 30 weeks.
+Dutasteride: Treatment of sexually mature male rats with dutasteride at 0.1 times the MRHD (animal doses of 0.05 mg/kg/day or greater for up to 31 weeks) based on mean serum concentration resulted in dose‑ and time‑dependent decreases in fertility at all doses; reduced cauda epididymal (absolute) sperm counts but not sperm concentration (at 50 and 500 mg/kg/day); reduced weights of the epididymis, prostate, and seminal vesicles; and microscopic changes (cytoplasmic vacuolation of tubular epithelium in the epididymides and/or decreased cytoplasmic content of epithelium, consistent with decreased secretory activity in the prostate and seminal vesicles) in the reproductive organs at all doses in the absence of paternal toxicity.
+The fertility effects were reversed by Recovery Week 6 at all doses, and sperm counts were normal at the end of a 14‑week recovery period.
+The microscopic changes were no longer present at Recovery Week 14 at 0.1 times the MRHD and were partly recovered in the remaining treatment groups.
+Low levels of dutasteride (0.6 to 17 ng/mL) were detected in the serum of untreated female rats mated to treated males (10 to 500 mg/kg/day for 29 to 30 weeks) which are 16 to 110 times the MRHD based on mean serum concentration.
+No feminization occurred in male offspring of untreated female rats mated to treated male rats even though detectable blood levels of dutasteride were observed in the female rats.
 
-In a fertility study in female rats, oral administration of dutasteride at doses of 0.05, 2.5, 12.5, and 30 mg/kg/day resulted in reduced litter size, increased embryo resorption and feminization of male fetuses (decreased anogenital distance) at 2- to 10-fold the MRHD (animal doses of 2.5 mg/kg/day or greater).
-Fetal body weights were also reduced at less than 0.02-fold the MRHD in rats (0.5 mg/kg/day).
+In a fertility study in female rats with dosing 4 weeks prior to mating through early gestation, oral administration of dutasteride at doses of 0.05, 2.5, 12.5, and 30 mg/kg/day resulted in reduced litter size due to increased resorptions and in feminization of male fetuses (decreased anogenital distance) at 2 to 10 times the MRHD (animal doses of 2.5 mg/kg/day or greater) based on mean serum concentration, in the presence of maternal toxicity (decreased body weight gain).
+Fetal body weights were also reduced at approximately 0.02 times the MRHD (rat dose of 0.05 mg/kg/day or greater) based on mean serum concentration, with no no-effect level, in the absence of maternal toxicity.
 
-Tamsulosin: Studies in rats revealed significantly reduced fertility in males at approximately 50 times the MRHD based on AUC (single or multiple daily doses of 300 mg/kg/day of tamsulosin hydrochloride).
+Tamsulosin: Studies in rats revealed significantly reduced fertility in males dosed with single or multiple daily doses of 300 mg/kg/day of tamsulosin hydrochloride (AUC exposure in rats about 50 times the human exposure with the maximum therapeutic dose).
 The mechanism of decreased fertility in male rats is considered to be an effect of the compound on the vaginal plug formation possibly due to changes of semen content or impairment of ejaculation.
-The effects on fertility were reversible showing improvement by 3 days after a single dose and 4 weeks after multiple dosing.
-Effects on fertility in males were completely reversed within nine weeks of discontinuation of multiple dosing.
-Multiple doses of 0.2 and 16 times the MRHD (animal doses of 10 and 100 mg/kg/day tamsulosin hydrochloride) did not significantly alter fertility in male rats.
+The effects on fertility were reversible, showing improvement by 3 days after a single dose and 4 weeks after multiple daily dosing.
+Effects on fertility in males were completely reversed within 9 weeks after discontinuation of multiple daily dosing.
+Multiple doses of 10 and 100 mg/kg/day tamsulosin hydrochloride (1/5 and 16 times the anticipated human AUC exposure) did not significantly alter fertility in male rats.
 Effects of tamsulosin on sperm counts or sperm function have not been evaluated.
 
-Studies in female rats revealed significant reductions in fertility after single or multiple dosing with 300 mg/kg/day of the R-isomer or racemic mixture of tamsulosin hydrochloride, respectively.
+Studies in female rats revealed significant reductions in fertility after single or multiple daily doses of 300 mg/kg/day of the R-isomer or racemic mixture of tamsulosin hydrochloride, respectively.
 In female rats, the reductions in fertility after single doses were considered to be associated with impairments in fertilization.
-Multiple dosing with 10 or 100 mg/kg/day of the racemic mixture did not significantly alter fertility in female rats.
-
-Estimates of exposure multiples comparing animal studies with the MRHD for dutasteride are based on clinical serum concentration at steady state.
-
-Estimates of exposure multiples comparing animal studies with the MRHD for tamsulosin are based on AUC.
+Multiple daily doses of 10 or 100 mg/kg/day of the racemic mixture did not significantly alter fertility in female rats.
 
 ## 13.2 Animal Toxicology and/or Pharmacology
 
 Central Nervous System Toxicology Studies
 
 Dutasteride: In rats and dogs, repeated oral administration of dutasteride resulted in some animals showing signs of non-specific, reversible, centrally-mediated toxicity without associated histopathological changes at exposures 425- and 315-fold the expected clinical exposure (of parent drug), respectively.
+
+Rabbit Dermal Absorption
+
+In a rabbit dermal pharmacokinetics study, dermal absorption of dutasteride in CAPMUL (glyceryl oleate) in rabbits resulted in serum concentrations of 2.7 to 40.5 mcg/h/mL for doses of 1 to 20 mg/mL, respectively, or 56% to 100% of applied dutasteride to be absorbed under occluded and prolonged conditions.
+JALYN soft gelatin capsules administered orally contain 0.5 mg dutasteride dissolved in a mixture of mono‑di‑glycerides of caprylic/capric acid and butylated hydroxytoluene.
+Dutasteride in water was minimally absorbed in rabbits (2,000 mg/kg).
