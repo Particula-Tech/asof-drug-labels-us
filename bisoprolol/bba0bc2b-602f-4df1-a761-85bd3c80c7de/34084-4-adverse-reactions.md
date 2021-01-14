@@ -3,20 +3,20 @@
 Safety data are available in more than 30,000 patients or volunteers.
 Frequency estimates and rates of withdrawal of therapy for adverse events were derived from two U.S. placebo-controlled studies.
 
-In Study A, doses of 5, 10 and 20 mg bisoprolol fumarate were administered for 4 weeks.
-In Study B, doses of 2.5, 10 and 40 mg of bisoprolol fumarate were administered for 12 weeks.
-A total of 273 patients were treated with 5 to 20 mg of bisoprolol fumarate; 132 received placebo.
+In Study A, doses of 5 mg, 10 mg and 20 mg bisoprolol fumarate were administered for 4 weeks.
+In Study B, doses of 2.5 mg, 10 mg and 40 mg of bisoprolol fumarate were administered for 12 weeks.
+A total of 273 patients were treated with 5 mg to 20 mg of bisoprolol fumarate; 132 received placebo.
 
 Withdrawal of therapy for adverse events was 3.3% for patients receiving bisoprolol fumarate and 6.8% for patients on placebo.
 Withdrawals were less than 1% for either bradycardia or fatigue/lack of energy.
 
-The following table presents adverse experiences, whether or not considered drug related, reported in at least 1% of patients in these studies, for all patients studied in placebo-controlled clinical trials (2.5 to 40 mg), as well as for a subgroup that was treated with doses within the recommended dosage range (5 to 20 mg).
+The following table presents adverse experiences, whether or not considered drug related, reported in at least 1% of patients in these studies, for all patients studied in placebo-controlled clinical trials (2.5 mg to 40 mg), as well as for a subgroup that was treated with doses within the recommended dosage range (5 mg to 20 mg).
 Of the adverse events listed in the table, bradycardia, diarrhea, asthenia, fatigue and sinusitis appear to be dose related.
 
 | Body System/Adverse Experience | All Adverse Experiences (%a) |  |  |
 | --- | --- | --- | --- |
 |  | Bisoprolol Fumarate |  |  |
-|  | Placebo (n = 132) % | 5 to 20 mg (n = 273) % | 2.5 to 40 mg (n = 404) % |
+|  | Placebo (n = 132) % | 5 mg to 20 mg (n = 273) % | 2.5 mg to 40 mg (n = 404) % |
 | Skin |  |  |  |
 | increased sweating | 1.5 | 0.7 | 1.0 |
 | Musculoskeletal |  |  |  |

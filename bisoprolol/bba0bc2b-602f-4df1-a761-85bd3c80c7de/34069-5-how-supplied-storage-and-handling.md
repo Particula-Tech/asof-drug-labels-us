@@ -32,4 +32,4 @@ Distributed by
 
 TruPharma LLC, Tampa Florida 33609
 
-Rev 00, February 2019
+Rev 01, December 2019

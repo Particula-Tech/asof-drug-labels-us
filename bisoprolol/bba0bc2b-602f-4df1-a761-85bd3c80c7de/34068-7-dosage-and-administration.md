@@ -2,7 +2,7 @@
 
 The dose of bisoprolol fumarate must be individualized to the needs of the patient.
 The usual starting dose is 5 mg once daily.
-In some patients, 2.5 mg may be an appropriate starting dose (see Bronchospastic Disease in WARNINGS).
+In some patients, 2.5 mg may be an appropriate starting dose (see WARNINGS: Bronchospastic Disease).
 If the antihypertensive effect of 5 mg is inadequate, the dose may be increased to 10 mg and then, if necessary, to 20 mg once daily.
 
 Patients with Renal or Hepatic Impairment
