@@ -16,6 +16,6 @@ Manufactured for: Northstar Rx LLC Memphis, TN 38141
 
 Manufactured by: Nanjing King-Friend Biochemical Pharmaceutical Co., Ltd. Nanjing, China 210061
 
-Issued: October 2019
+Revised: December 2020
 
-810047-00
+810047-01

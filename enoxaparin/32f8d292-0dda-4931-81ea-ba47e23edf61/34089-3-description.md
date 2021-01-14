@@ -1,6 +1,6 @@
 # 11 DESCRIPTION
 
-Enoxaparin Sodium Injection, USP is a sterile aqueous solution containing enoxaparin sodium, a low molecular weight heparin.
+Enoxaparin Sodium Injection, USP is an aqueous solution containing enoxaparin sodium, a low molecular weight heparin.
 The pH of the injection is 5.5 to 7.5.
 
 Enoxaparin sodium is obtained by alkaline depolymerization of heparin benzyl ester derived from porcine intestinal mucosa.

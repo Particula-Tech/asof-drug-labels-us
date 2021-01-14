@@ -85,7 +85,7 @@ Do not administer enoxaparin sodium injection by intramuscular injection.
 
 Administer enoxaparin sodium injection by intravenous or subcutaneous injection only.
 
-Enoxaparin sodium injection is a clear, colorless to pale yellow sterile solution, and as with other parenteral drug products, should be inspected visually for particulate matter and discoloration prior to administration.
+Enoxaparin sodium injection is a clear, colorless to pale yellow solution, and as with other parenteral drug products, should be inspected visually for particulate matter and discoloration prior to administration.
 
 Patients may self-inject by the subcutaneous route of administration only after their physicians determine that it is appropriate and with medical follow-up, as necessary.
 Provide proper training in subcutaneous injection technique before allowing self-injection (with or without the assistance of an injection device).
