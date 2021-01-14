@@ -1,6 +1,6 @@
 # 5 WARNINGS AND PRECAUTIONS
 
-## 5.1 Local Effects
+## 5.1 Oropharyngeal Candidiasis
 
 Localized infections with Candida albicans have occurred in the mouth and pharynx in some patients receiving QVAR REDIHALER.
 If oropharyngeal candidiasis develops, it should be treated with appropriate local or systemic (i.e., oral) antifungal therapy while still continuing with QVAR REDIHALER therapy, but at times therapy with QVAR REDIHALER may need to be temporarily interrupted under close medical supervision.
@@ -14,6 +14,8 @@ Instruct patients to contact their physician immediately if episodes of asthma t
 During such episodes, patients may require therapy with oral corticosteroids.
 
 ## 5.3 Transferring Patients from Systemic Corticosteroid Therapy
+
+HPA Suppression/Adrenal Insufficiency
 
 Particular care is needed in patients who are transferred from systemically active corticosteroids to QVAR REDIHALER because deaths due to adrenal insufficiency have occurred in asthmatic patients during and after transfer from systemic corticosteroids to less systemically available inhaled corticosteroids.
 After withdrawal from systemic corticosteroids, a number of months are required for recovery of hypothalamic‑pituitary‑adrenal (HPA) function.
@@ -29,11 +31,15 @@ Patients requiring oral or other systemic corticosteroids should be weaned slowl
 Lung function (FEV1 or PEF), beta‑agonist use, and asthma symptoms should be carefully monitored during withdrawal of oral or other systemic corticosteroids.
 In addition to monitoring asthma signs and symptoms, patients should be observed for signs and symptoms of adrenal insufficiency such as fatigue, lassitude, weakness, nausea and vomiting, and hypotension.
 
+Unmasking of Allergic Conditions Previously Suppressed by Systemic Corticosteroids
+
 Transfer of patients from systemic corticosteroid therapy to QVAR REDIHALER may unmask allergic conditions previously suppressed by the systemic corticosteroid therapy, e.g., rhinitis, conjunctivitis, eczema, arthritis, and eosinophilic conditions.
+
+Corticosteroid Withdrawal Symptoms
 
 During withdrawal from oral corticosteroids, some patients may experience symptoms of systemically active corticosteroid withdrawal, e.g., joint and/or muscular pain, lassitude, and depression, despite maintenance or even improvement of respiratory function.
 
-## 5.4 Immunosuppression
+## 5.4 Immunosuppression and Risk of Infections
 
 Persons who are on drugs which suppress the immune system are more susceptible to infections than healthy individuals.
 Chickenpox and measles, for example, can have a more serious or even fatal course in non-immune patients on corticosteroids.
@@ -54,7 +60,7 @@ Treatment with QVAR REDIHALER should be discontinued and alternate therapy insti
 ## 5.6 Immediate Hypersensitivity Reactions
 
 Hypersensitivity reactions, such as urticaria, angioedema, rash, and bronchospasm, may occur after administration of QVAR REDIHALER.
-Discontinue QVAR REDIHALER if such reactions occur [see Contraindications (4.2)].
+Discontinue QVAR REDIHALER if such reactions occur [see Contraindications (4)].
 
 ## 5.7 Hypercorticism and Adrenal Suppression
 
@@ -71,7 +77,7 @@ If such effects occur, the dosage of QVAR REDIHALER should be reduced slowly, co
 
 Orally inhaled corticosteroids, including QVAR REDIHALER, may cause a reduction in growth velocity when administered to pediatric patients.
 Monitor the growth of pediatric patients receiving QVAR REDIHALER routinely (e.g., via stadiometry).
-To minimize the systemic effects of orally inhaled corticosteroids, including QVAR REDIHALER, titrate each patient’s dose to the lowest dosage that effectively controls his/her symptoms [see Use in Specific Populations(8.4)].
+To minimize the systemic effects of orally inhaled corticosteroids, including QVAR REDIHALER, titrate each patient’s dose to the lowest dosage that effectively controls his/her symptoms [see Use in Specific Populations (8.4)].
 
 ## 5.9 Reduction in Bone Mineral Density
 
@@ -79,7 +85,7 @@ Decreases in bone mineral density (BMD) have been observed with long‑term admi
 The clinical significance of small changes in BMD with regard to long‑term outcomes, such as fracture, is unknown.
 Patients with major risk factors for decreased bone mineral content, such as prolonged immobilization, family history of osteoporosis, or chronic use of drugs that can reduce bone mass (e.g., anticonvulsants and corticosteroids) should be monitored and treated with established standards of care.
 
-## 5.10 Eye Disorders
+## 5.10 Glaucoma and Cataracts
 
-Glaucoma, increased intraocular pressure, blurred vision and cataracts have been reported following the use of long term administration of inhaled corticosteroids.
+Glaucoma, increased intraocular pressure, blurred vision and cataracts have been reported following the use of long-term administration of inhaled corticosteroids.
 Therefore, close monitoring is warranted in patients with a change in vision or with a history of increased intraocular pressure, blurred vision, glaucoma, and/or cataracts while using QVAR REDIHALER.

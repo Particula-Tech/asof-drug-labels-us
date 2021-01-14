@@ -4,7 +4,7 @@ Advise the patient to read the FDA‑Approved Patient Labeling (Patient Informat
 
 Patients should be given the following information:
 
-Local Effects
+Oropharyngeal Candidiasis
 
 Inform patients that localized infections with Candida albicans occurred in the mouth and pharynx in some patients.
 If oropharyngeal candidiasis develops, treat it with appropriate local or systemic (i.e., oral) antifungal therapy while still continuing therapy with QVAR REDIHALER, but at times therapy with QVAR REDIHALER may need to be temporarily interrupted under close medical supervision.
@@ -16,7 +16,7 @@ Inform patients that QVAR REDIHALER is not a bronchodilator and is not intended 
 Advise patients to treat acute asthma symptoms with an inhaled, short‑acting beta2‑agonist such as albuterol.
 Instruct the patient to contact their physicians immediately if there is deterioration of their asthma.
 
-Immunosuppression
+Immunosuppression and Risk of Infections
 
 Warn patients who are on immunosuppressant doses of corticosteroids to avoid exposure to chickenpox or measles and, if exposed, to consult their physicians without delay.
 Inform patients of potential worsening of existing tuberculosis; fungal, bacterial, viral, or parasitic infections; or ocular herpes simplex.
@@ -79,20 +79,14 @@ The dose-counter window displays the number of sprays left in the inhaler in uni
 When the dose counter reaches 0, the background will change to solid red.
 Inform patients to discard QVAR REDIHALER when the dose counter displays 0 or after the expiration date on the product, whichever comes first.
 
-Rx only
+Distributed by:
 
-Marketed by: Teva Respiratory, LLC
+Teva Pharmaceuticals USA
 
-Frazer, PA 19355
+Parsippany, NJ 07054
 
-Developed and Manufactured by:
-
-Norton (Waterford) Limited
-
-Unit 301, IDA Industrial Park, Cork Road, Waterford, Ireland
-
-© 2018 Teva Respiratory, LLC
+© 2021 Teva Respiratory, LLC
 
 U.S. Patent 7,637,260; 8,132,712; 8,931,476
 
-QVARH-002
+QVARH-003

@@ -1,29 +1,34 @@
 # 2 DOSAGE AND ADMINISTRATION
 
-## 2.1 Administration Information
+## 2.1 General Overview
 
-Administer QVAR REDIHALER by the orally inhaled route in patients 4 years of age and older.
-After inhalation, the patient should rinse his/her mouth with water without swallowing to help reduce the risk of oropharyngeal candidiasis.
+Administration
 
-Patients should be instructed on the proper use of their inhaler.
+- Administer QVAR REDIHALER by oral inhalation.
 
-Consistent dose delivery is achieved, whether using the 40‑ or 80‑mcg strengths, due to proportionality of the 2 products (i.e., 2 actuations of 40‑mcg strength should provide a dose comparable to 1 actuation of the 80‑mcg strength).
+- After inhalation, rinse mouth with water without swallowing to help reduce the risk of oropharyngeal candidiasis.
 
-Priming: QVAR REDIHALER does not require priming.
+- Consistent dose delivery is achieved, whether using the 40‑ or 80‑mcg strengths, due to proportionality of the 2 products (i.e., 2 actuations of 40‑mcg strength should provide a dose comparable to 1 actuation of the 80‑mcg strength).Inhaler Instructions
+- Patients should be instructed on the proper use of their inhaler.
+- Do not use QVAR REDIHALER with a spacer or volume holding chamber.
+- Shaking the inhaler prior to use is not necessary.
+  Do not shake the inhaler with the cap open to avoid possible actuation of the device.
 
-Shaking the inhaler prior to use is not necessary.
-Do not shake the inhaler with the cap open to avoid possible actuation of the device.
+Priming
 
-Do not use QVAR REDIHALER with a spacer or volume holding chamber.
+- QVAR REDIHALER does not require priming.
 
-Cleaning:
+Cleaning
 
 - Keep the inhaler clean and dry at all times.
   Never wash or put any part of the inhaler in water.
+
 - Routine maintenance is not required.
   If the mouthpiece needs cleaning, gently wipe the mouthpiece with a dry cloth or tissue as needed.
 
-Dose Counter: QVAR REDIHALER has a dose counter attached to the actuator.
+Dose Counter
+
+QVAR REDIHALER has a dose counter attached to the actuator.
 When the patient receives the inhaler, the number 120 will be displayed.
 The dose counter will count down each time a spray is released.
 When the dose counter reaches 20, the color of the numbers will change to red to remind the patient to contact their pharmacist for a refill of medication or consult their physician for a prescription refill.
@@ -34,18 +39,24 @@ Discard QVAR REDIHALER inhaler when the dose counter displays 0 or after the exp
 
 Adults and Adolescents 12 years of age and older
 
-The starting dosage is based on previous asthma therapy and disease severity, including consideration of the patients’ current control of asthma symptoms and risk of future exacerbation.
-The recommended starting dosage for patients 12 years of age and older who are not on an inhaled corticosteroid is 40 to 80 mcg twice daily, approximately 12 hours apart.
-For patients switching to QVAR REDIHALER from another inhaled corticosteroid product, select the appropriate starting dosage strength of QVAR REDIHALER based on the strength of the previous inhaled corticosteroid product and disease severity: 40, 80, 160 or 320 mcg twice daily.
-For patients who do not respond adequately to the initial dosage after 2 weeks of therapy, increasing the dosage may provide additional asthma control.
-The maximum recommended dosage for patients 12 years of age and older is 320 mcg twice daily.
+The recommended starting dosage for patients 12 years of age and older who are not on an inhaled corticosteroid is 40 to 80 mcg twice daily by oral inhalation, approximately 12 hours apart.
+
+- The starting dosage is based on previous asthma therapy and disease severity, including consideration of the patients’ current control of asthma symptoms and risk of future exacerbation.
+
+- For patients switching to QVAR REDIHALER from another inhaled corticosteroid product, select the appropriate starting dosage strength of QVAR REDIHALER based on the strength of the previous inhaled corticosteroid product and disease severity: 40, 80, 160 or 320 mcg twice daily.
+
+- For patients who do not respond adequately to the initial dosage after 2 weeks of therapy, increasing the dosage may provide additional asthma control.
+  The maximum recommended dosage for patients 12 years of age and older is 320 mcg twice daily.
 
 Pediatric Patients 4 to 11 years
 
-The starting dosage is based on previous asthma therapy and disease severity, including consideration of the patients’ current control of asthma symptoms and risk of future exacerbation.
-The recommended starting dosage for patients aged 4 to 11 years of age is 40 mcg twice daily, approximately 12 hours apart.
-For patients who do not respond adequately to QVAR REDIHALER 40 mcg after 2 weeks of therapy, increasing the dosage to QVAR REDIHALER 80 mcg twice daily may provide additional asthma control.
-The maximum recommended dosage for patients 4 to 11 years of age is 80 mcg twice daily.
+The recommended starting dosage for patients aged 4 to 11 years of age is 40 mcg twice daily by oral inhalation, approximately 12 hours apart.
+
+- The starting dosage is based on previous asthma therapy and disease severity, including consideration of the patients’ current control of asthma symptoms and risk of future exacerbation.
+
+- For patients who do not respond adequately to QVAR REDIHALER 40 mcg after 2 weeks of therapy, increasing the dosage to QVAR REDIHALER 80 mcg twice daily may provide additional asthma control.
+
+- The maximum recommended dosage for patients 4 to 11 years of age is 80 mcg twice daily.
 
 General Dosing Recommendations
 

@@ -52,14 +52,14 @@ The developmental and health benefits of breastfeeding should be considered alon
 ## 8.3 Females and Males of Reproductive Potential
 
 Impairment of fertility was observed in rats and dogs at oral doses of beclomethasone dipropionate corresponding to 250 and 25 times the MRHDID for adults on a mg/m2 basis, respectively.
-[see Nonclinical Toxicology(13.1)].
+[see Nonclinical Toxicology (13.1)].
 
 ## 8.4 Pediatric Use
 
+The safety and effectiveness of QVAR REDIHALER for the maintenance treatment of asthma as prophylactic therapy have been established in pediatric patients aged 4 years and older.
+Use of QVAR REDIHALER for this indication is supported by evidence from adequate and well-controlled studies.
 Five-hundred and one children between the ages of 4 and 11 were treated with at least one dose of QVAR REDIHALER or QVAR MDI in one 12‑week clinical trial.
 The safety and effectiveness of QVAR REDIHALER in children below 4 years of age have not been established.
-
-Do not use QVAR REDIHALER with a spacer or volume holding chamber.
 
 Controlled clinical studies have shown that inhaled corticosteroids may cause a reduction in growth velocity in pediatric patients.
 A 12‑month, randomized, controlled clinical trial evaluated the effects of QVAR MDI versus beclomethasone dipropionate in a CFC propellant‑based formulation (CFC‑BDP) on growth in children age 5 to 11.

@@ -1,12 +1,18 @@
 # 6 ADVERSE REACTIONS
 
-Systemic and local corticosteroid use may result in the following:
+The following clinically significant adverse reactions are described elsewhere in the labeling:
 
-- Candida albicans infection [see Warnings and Precautions (5.1)]
-- Immunosuppression [see Warnings and Precautions (5.4)]
+- Oropharyngeal candidiasis [see Warnings and Precautions (5.1)]
+
+- Immunosuppression and risk of infections [see Warnings and Precautions (5.4)]
+
 - Hypercorticism and adrenal suppression [see Warnings and Precautions (5.7)]
+
+- Reduction in bone mineral density [see Warnings and Precautions (5.9)]
+
 - Growth effects [see Warnings and Precautions (5.8) and Use in Specific Populations (8.4)]
-- Eye Disorders [see Warnings and Precautions (5.10)]
+
+- Glaucoma and cataracts [see Warnings and Precautions (5.10)]
 
 ## 6.1 Clinical Trials Experience
 
@@ -16,7 +22,7 @@ Because clinical trials are conducted under widely varying conditions, adverse r
 Adults and Adolescent Patients 12 years of Age and Older: The adverse reaction information presented in Table 1 is derived from 3 double-blind, placebo-controlled clinical trials in which 1230 patients (751 female and 479 male adults previously treated with as‑needed bronchodilators and/or inhaled corticosteroids) were treated with QVAR REDIHALER (doses of 40, 80, 160, or 320 mcg twice daily) or QVAR (beclomethasone dipropionate HFA) Inhalation Aerosol (QVAR MDI; doses of 160 or 320 mcg twice daily) or placebo.
 In considering these data, difference in average duration of exposure and clinical trial design should be taken into account.
 
-Table 1 Adverse Reactions Experienced by at Least 3% of Adult and Adolescent Patients in the QVAR REDIHALER or QVAR MDI Groups and Greater Than Placebo by Treatment and Daily Dose
+Table 1: Adverse Reactions Experienced by at Least 3% of Adult and Adolescent Patients in the QVAR REDIHALER or QVAR MDI Groups and Greater Than Placebo by Treatment and Daily Dose
 
 | Preferred Term | Number (%) of patients |  |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -36,7 +42,7 @@ Other adverse reactions that occurred in clinical trials using QVAR REDIHALER wi
 
 Pediatric Patients 4 to 11 Years of Age: The adverse reaction information presented in Table 2 concerning QVAR REDIHALER and QVAR MDI is derived from one 12‑week placebo-controlled study in pediatric patients 4 to 11 years of age with persistent asthma.
 
-Table 2 Adverse Reactions Experienced by at Least 3% of Patients 4 to 11 Years of Age in the QVAR REDIHALER or QVAR MDI Groups and Greater Than Placebo by Treatment and Daily Dose
+Table 2: Adverse Reactions Experienced by at Least 3% of Patients 4 to 11 Years of Age in the QVAR REDIHALER or QVAR MDI Groups and Greater Than Placebo by Treatment and Daily Dose
 
 | Preferred Term | Number (%) of patients |  |  |  |  |
 | --- | --- | --- | --- | --- | --- |

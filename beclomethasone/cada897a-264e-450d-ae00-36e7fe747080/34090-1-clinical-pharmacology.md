@@ -65,20 +65,20 @@ Less than 10% of the drug and its metabolites are excreted in the urine.
 
 Specific Populations
 
-Age: No pharmacokinetic studies for QVAR REDIHALER have been conducted in neonates or elderly subjects.
+No pharmacokinetic studies for QVAR REDIHALER have been conducted in neonates or elderly subjects.
 
-Pediatrics: No pharmacokinetic studies for QVAR REDIHALER have been conducted in pediatric subjects aged of 4 to 17 years.
+Pediatric Patients: No pharmacokinetic studies for QVAR REDIHALER have been conducted in pediatric subjects aged of 4 to 17 years.
 However, the pharmacokinetics of 17‑BMP, including dose and strength proportionalities, is similar in children and adults using QVAR MDI, although the exposure is highly variable.
 In 17 children (mean age 10 years), the Cmax of 17‑BMP was 787 pg/mL at 0.6 hour after inhalation of 160 mcg (4 actuations of the 40 mcg/actuation strength of QVAR MDI).
 The systemic exposure to 17‑BMP from 160 mcg of QVAR MDI administered without a spacer was comparable to the systemic exposure to 17‑BMP from 336 mcg CFC‑BDP administered with a large volume spacer in 14 children (mean age 12 years).
 This implies that approximately twice the systemic exposure to 17‑BMP would be expected for comparable mg doses of QVAR MDI without a spacer and CFC‑BDP with a large volume spacer.
 
-Sex: The influence of sex on the pharmacokinetics of QVAR REDIHALER has not been studied.
+Male and Female Patients: The influence of sex on the pharmacokinetics of QVAR REDIHALER has not been studied.
 
-Race: The influence of race on the pharmacokinetics of QVAR REDIHALER has not been studied.
+Racial or Ethnic Groups: The influence of race on the pharmacokinetics of QVAR REDIHALER has not been studied.
 
-Renal Impairment: The effect of renal impairment on the pharmacokinetics of QVAR REDIHALER has not been evaluated.
+Patients with Renal Impairment: The effect of renal impairment on the pharmacokinetics of QVAR REDIHALER has not been evaluated.
 
-Hepatic Impairment: The effect of hepatic impairment on the pharmacokinetics of QVAR REDIHALER has not been evaluated.
+Patients with Hepatic Impairment: The effect of hepatic impairment on the pharmacokinetics of QVAR REDIHALER has not been evaluated.
 
 Drug Interaction Studies: In vitro and in vivo drug interaction studies have not been conducted with QVAR REDIHALER.

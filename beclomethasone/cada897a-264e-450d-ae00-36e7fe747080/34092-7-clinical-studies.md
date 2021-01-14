@@ -8,9 +8,9 @@ The efficacy of QVAR REDIHALER is based primarily on the confirmatory trials des
 
 Adult and Adolescent Patients 12 Years of Age and Older
 
-Two confirmatory Phase 3 clinical trials were conducted comparing QVAR REDIHALER with placebo in adult and adolescent patients with persistent asthma (Trial 1 and Trial 2).
+Two confirmatory clinical trials were conducted comparing QVAR REDIHALER with placebo in adult and adolescent patients with persistent asthma (Trial 1 and Trial 2).
 
-Trial 1(NCT02040779): This randomized, double-blind, parallel-group, placebo-controlled, 12-week, efficacy and safety trial compared QVAR REDIHALER 40 and 80 mcg given as 1 inhalation twice daily with placebo in adult and adolescent patients with persistent symptomatic asthma despite low-dose inhaled corticosteroid or non-corticosteroid asthma therapy.
+Trial 1 (NCT02040779): This randomized, double-blind, parallel-group, placebo-controlled, 12-week, efficacy and safety trial compared QVAR REDIHALER 40 and 80 mcg given as 1 inhalation twice daily with placebo in adult and adolescent patients with persistent symptomatic asthma despite low-dose inhaled corticosteroid or non-corticosteroid asthma therapy.
 Patients aged 12 years and older who met the entry criteria including FEV1 40-85 percent of predicted normal, reversible bronchoconstriction of 15% with short-acting inhaled beta-agonist entered a 14-21 day run-in period.
 270 patients (104 previously treated with inhaled corticosteroids) who met all the randomization criteria including asthma symptoms and rescue medication use were discontinued from asthma maintenance medication and randomized equally to treatment with QVAR REDIHALER 80 mcg/day, QVAR REDIHALER 160 mcg/day or placebo.
 Baseline FEV1 values were similar across treatments.
@@ -21,7 +21,7 @@ In addition, the mean change from baseline is displayed in Figure 1.
 Both doses of QVAR REDIHALER were effective in improving asthma control with significantly greater improvements in FEV1 and morning PEF when compared to placebo.
 Reduction in asthma symptoms was also supportive of the efficacy of QVAR REDIHALER.
 
-Figure 1: A 12‑ Week Clinical Trial in Patients with Asthma: Mean Change in FEV1
+Figure 1: A 12‑Week Clinical Trial in Patients with Asthma: Mean Change in FEV1
 
 Trial 2 (NCT02513160): This randomized, double-blind, parallel-group, placebo-controlled, 6-week, efficacy and safety trial compared QVAR REDIHALER 40 and 80 mcg given as 4 inhalations twice daily and placebo in adult and adolescent patients with persistent symptomatic asthma despite treatment with non-corticosteroid, inhaled corticosteroids (with or without a long acting beta agonist [LABA]), or combination asthma therapy.
 The study also included a reference treatment group, QVAR® Inhalation Aerosol (QVAR MDI) 40 mcg, 4 inhalations twice daily.
@@ -35,7 +35,7 @@ The change from baseline in morning FEV1 during the trial is displayed in Figure
 Both doses of QVAR REDIHALER were effective in improving asthma control with significantly greater improvements in FEV1, morning PEF, weekly average of daily trough morning FEV1, reduced rescue medication use and improved asthma symptom scores than with placebo.
 Similar results were demonstrated with QVAR MDI.
 
-Figure 2: A 6‑ Week Dose Response Clinical Trial in Patients with Inhaled Corticosteroid-Dependent Asthma: Mean Change in FEV1 as Percent of Predicted
+Figure 2: A 6‑Week Dose Response Clinical Trial in Patients with Inhaled Corticosteroid-Dependent Asthma: Mean Change in FEV1 as Percent of Predicted
 
 Side-by-side comparison of the primary analysis of standardized baseline-adjusted trough morning FEV1 from time zero to the end of the treatment period for both studies is shown below in Table 3.
 
