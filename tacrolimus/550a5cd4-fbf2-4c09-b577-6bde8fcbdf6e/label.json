@@ -5,8 +5,11 @@
   "inn": "tacrolimus",
   "labeler": "Astellas Pharma US, Inc.",
   "package_ndcs": [
+    "0469-0647-11",
     "0469-0647-73",
+    "0469-0677-11",
     "0469-0677-73",
+    "0469-0687-11",
     "0469-0687-73"
   ],
   "products": [

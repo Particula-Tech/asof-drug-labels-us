@@ -17,12 +17,13 @@ Whole blood tacrolimus concentrations in these PK studies were measured using va
 
 Table 7: Pharmacokinetic Parameters of ASTAGRAF XL (Given Once Daily) in Healthy Subjects and in Kidney Transplant Patients (Under Fasted Conditions)
 
-| Population | ASTAGRAF XL DoseHealthy adult subjects (actual administered dose of ASTAGRAF XL); adult de novo kidney transplant patients (actual group mean dose of ASTAGRAF XL). | DayDay of ASTAGRAF XL treatment and PK profiling. | PK Parameters of ASTAGRAF XL |  |  |  |
+| Population | ASTAGRAF XL Dosea | Dayb | PK Parameters of ASTAGRAF XL |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- |
-| CmaxArithmetic means ± S.D.(ng/mL) | TmaxMedian [range].(hr) | AUC24(ng•hr/mL) | C24Tacrolimus trough concentration before the next dose.(ng/mL) |  |  |  |
+| Cmaxc(ng/mL) | Tmaxd(hr) | AUC24c(ng•hr/mL) | C24f(ng/mL) |  |  |  |
 | Healthy Subjects(N=24) | 4 mg4 mg | Day 1Day 10 | 6.2 ± 2.111.6 ± 3.4 | 2.0 [1.0-5.0]2.0 [1.0-3.0] | 74 ± 22155 ± 46 | 2.3 ± 0.84.7 ± 1.5 |
-| Adult KidneyDe novo“De novo” refers to immunosuppression starting at the time of transplantation; data from PK substudy of Study 2. (N=17) | 0.20 mg/kg0.19 mg/kg0.18 mg/kg0.18 mg/kg | Day 1Day 3Day 7Day 14 | 26.0 ± 13.731.0 ± 13.932.2 ± 10.232.7 ± 9.0 | 3.0 [2-24]2.0 [0.5-2.0]2.0 [1-6]2.0 [1-4] | 372 ± 202437 ± 175405 ± 117412 ± 109 | 12.1 ± 7.213.5 ± 5.611.4 ± 4.011.2 ± 3.9 |
-| Adult Kidney (6 months or greater post-transplant) (N=60) | 5.2 mg/daySame daily dose of ASTAGRAF XL for 14-day period. | Day 14 | 16.1 ± 5.3 | 2.0 [1.0 - 6.0] | 222 ± 64 | 6.7 ± 1.9Correlation coefficient of AUC24 to Cmin r = 0.88. |
+| Adult KidneyDe novoe (N=17) | 0.20 mg/kg0.19 mg/kg0.18 mg/kg0.18 mg/kg | Day 1Day 3Day 7Day 14 | 26.0 ± 13.731.0 ± 13.932.2 ± 10.232.7 ± 9.0 | 3.0 [2-24]2.0 [0.5-2.0]2.0 [1-6]2.0 [1-4] | 372 ± 202437 ± 175405 ± 117412 ± 109 | 12.1 ± 7.213.5 ± 5.611.4 ± 4.011.2 ± 3.9 |
+| Adult Kidney (6 months or greater post-transplant) (N=60) | 5.2 mg/dayg | Day 14g | 16.1 ± 5.3 | 2.0 [1.0 - 6.0] | 222 ± 64 | 6.7 ± 1.9h |
+| a Healthy adult subjects (actual administered dose of ASTAGRAF XL); adult de novo kidney transplant patients (actual group mean dose of ASTAGRAF XL). b Day of ASTAGRAF XL treatment and PK profiling. c Arithmetic means ± S.D. d Median [range]. e “De novo” refers to immunosuppression starting at the time of transplantation; data from PK substudy of Study 2. f Tacrolimus trough concentration before the next dose. g Same daily dose of ASTAGRAF XL for 14-day period. h Correlation coefficient of AUC24 to Cmin r = 0.88. |  |  |  |  |  |  |
 
 In de novo adult kidney transplant patients, the tacrolimus systemic exposure, as assessed by AUC24, for ASTAGRAF XL 0.2 mg/kg once daily on Day 1 post-transplant was 18% (Ratio [SD]: 0.822 [1.647]) lower when compared with Prograf (tacrolimus immediate-release) 0.2 mg/kg/day given twice daily.
 By Day 3 post-transplant, the AUC24 was similar between the two formulations.
@@ -31,6 +32,7 @@ On Day 14 (steady state), the AUC24 for ASTAGRAF XL was 21% (Ratio [SD]: 1.207 [
 Due to intersubject variability in tacrolimus PK, individualization of dosing regimen is necessary for optimal therapy [see Dosage and Administration (2.3, 2.4)].
 
 Pharmacokinetic data indicate that whole blood concentrations rather than plasma concentrations serve as the more appropriate sampling compartment to describe tacrolimus PK.
+
 Absorption In healthy subjects, the administration of escalating ASTAGRAF XL doses ranging from 1.5 mg to 10 mg resulted in dose-proportional increases in tacrolimus AUC and C24h, and no change in elimination half-life.
 
 Food Effects The presence of a meal affects the absorption of tacrolimus; the rate and extent of absorption is greatest under fasted conditions.
@@ -44,6 +46,7 @@ ASTAGRAF XL capsules should be taken, preferably on an empty stomach, at least 1
 Chronopharmacokinetic Effect In 23 healthy subjects, a diurnal effect on the absorption of tacrolimus was observed.
 Evening dosing of ASTAGRAF XL reduced AUCinf by 35% relative to morning dosing.
 ASTAGRAF XL capsules should be taken consistently at the same time every morning.
+
 Distribution The plasma protein binding of tacrolimus is approximately 99% and is independent of concentration over a range of 5-50 ng/mL.
 Tacrolimus is bound mainly to albumin and alpha-1-acid glycoprotein, and has a high level of association with erythrocytes.
 The distribution of tacrolimus between whole blood and plasma depends on several factors, such as hematocrit, temperature at the time of plasma separation, drug concentration, and plasma protein concentration.
@@ -75,21 +78,22 @@ Overall, the tacrolimus PK parameters AUC24 and C24 are comparable among Prograf
 
 Table 8: Tacrolimus Pharmacokinetic Parameters Following Daily Doses of Prograf Capsules or ASTAGRAF XL in Pediatric De Novo Kidney Transplant Patients 4 to 15 Years of Age
 
-| Study VisitStudy Visit Day on which PK profiles were collected following administration of Prograf capsules or ASTAGRAF XL. | Mean ± SD (Range) PK Parameters for Prograf Capsules and ASTAGRAF XL |  |  |
+| Study Visita | Mean ± SD (Range) PK Parameters for Prograf Capsules and ASTAGRAF XL |  |  |
 | --- | --- | --- | --- |
-| PK Parameters | Prograf CapsulesPK estimates following the morning Prograf capsules dose are reported for Tmax and Cmax. (N=10) | ASTAGRAF XL (N=10) |  |
+| PK Parameters | Prograf Capsulesb (N=10) | ASTAGRAF XL (N=10) |  |
 | Day 1 | AUC24 (ng∙hr/mL) | 280.4 ± 164.4(145.0 – 688.4) | 211.4 ± 128.2(76.9 – 459.8) |
 | Cmax (ng/mL) | 23.1 ± 14.4(8.2 – 55.7) | 17.7 ± 11.1(5.0 – 44.9) |  |
-| C24 (ng/mL)Observed whole blood tacrolimus trough levels at 12 hours following the evening dose of Prograf capsules or 24 hours after the morning dose of ASTAGRAF XL. | 8.5 ± 5.4(3.2 – 16.7) | 6.7 ± 4.3(2.0 – 16.5) |  |
-| Tmax (hr)Tmax - Reported as median (range). | 2.0(0.9 – 4.0) | 2.0(1.0 – 12.0) |  |
+| C24 (ng/mL)c | 8.5 ± 5.4(3.2 – 16.7) | 6.7 ± 4.3(2.0 – 16.5) |  |
+| Tmax (hr)d | 2.0(0.9 – 4.0) | 2.0(1.0 – 12.0) |  |
 | Day 7 | AUC24 (ng∙hr/mL) | 347.2 ± 124.2(153.7 – 561.8) | 350.6 ± 92.7(149.0 – 493.0) |
 | Cmax (ng/mL) | 28.7 ± 14.6(10.5 – 49.0) | 37.7 ± 13.9(15.1 – 62.6) |  |
-| C24 (ng/mL) | 9.6 ±2.8(5.9 – 16.0) | 8.4 ± 2.7(4.3 – 14.4) |  |
-| Tmax (hr) | 1.0(1.0 – 2.3) | 1.0(1.0 – 2.0) |  |
+| C24 (ng/mL)c | 9.6 ± 2.8(5.9 – 16.0) | 8.4 ± 2.7(4.3 – 14.4) |  |
+| Tmax (hr)d | 1.0(1.0 – 2.3) | 1.0(1.0 – 2.0) |  |
 | Day 28 | AUC24 (ng∙hr/mL) | 323.6 ± 114.5(234.5 – 614.0) | 322.4 ± 78.1(240.3 – 516.4) |
 | Cmax (ng/mL) | 28.5 ± 17.1(17.5 – 70.1) | 24.7 ± 4.8(14.2 – 32.5) |  |
-| C24 (ng/mL) | 9.8 ± 3.1(5.4 – 16.0) | 9.2 ± 3.0(5.1 – 15.9) |  |
-| Tmax (hr) | 1.0(1.0 – 4.0) | 1.5(1.0 – 4.0) |  |
+| C24 (ng/mL)c | 9.8 ± 3.1(5.4 – 16.0) | 9.2 ± 3.0(5.1 – 15.9) |  |
+| Tmax (hr)d | 1.0(1.0 – 4.0) | 1.5(1.0 – 4.0) |  |
+| a Study Visit Day on which PK profiles were collected following administration of Prograf capsules or ASTAGRAF XL. b PK estimates following the morning Prograf capsules dose are reported for Tmax and Cmax. c Observed whole blood tacrolimus trough levels at 12 hours following the evening dose of Prograf capsules or 24 hours after the morning dose of ASTAGRAF XL. d Tmax - Reported as median (range). |  |  |  |
 
 Stable Pediatric Transplant Patients Another PK study to compare ASTAGRAF XL to Prograf capsules was conducted in 81 stable pediatric transplant patients, including 48 pediatric kidney transplant patients, 5 to 16 years of age (mean age of 11.0 years).
 Pediatric kidney transplant patients who had been administered Prograf for at least 3 months prior to treatment were converted on a 1:1 (mg:mg) basis from Prograf, given in two divided doses, to ASTAGRAF XL once-daily.
@@ -102,7 +106,9 @@ Table 9: Tacrolimus Pharmacokinetic Parameters at Steady State Following 1:1 (mg
 | Pediatric Kidney (N=45) | PK Parameters | Prograf Capsules | ASTAGRAF XL |
 | AUC24 (ng∙hr/mL) | 188.8 ± 53.5(102.3 – 406.8) | 173.2 ± 44.6(80.9 – 262.5) |  |
 | Cmax (ng/mL) | 14.9 ± 5.8(4.9 – 34.4) | 12.5 ± 4.5(5.4 – 24.4) |  |
-| C24Observed whole blood tacrolimus trough levels at 12 hours following the evening dose of Prograf capsules and at 24 hours after the morning dose of ASTAGRAF XL once daily under steady-state conditions.(ng/mL) | 5.6 ± 1.9(2.9 – 13.8) | 5.1 ± 1.4(2.0 – 8.4) |  |
+| C24a (ng/mL) | 5.6 ± 1.9(2.9 – 13.8) | 5.1 ± 1.4(2.0 – 8.4) |  |
+
+1. a Observed whole blood tacrolimus trough levels at 12 hours following the evening dose of Prograf capsules and at 24 hours after the morning dose of ASTAGRAF XL once daily under steady-state conditions.
 
 Patients with Renal Impairment Tacrolimus pharmacokinetics following a single administration of tacrolimus immediate-release injection (administered as a continuous IV infusion) were determined in 12 patients (7 not on dialysis and 5 on dialysis, serum creatinine of 3.9 ± 1.6 and 12.0 ± 2.4 mg/dL, respectively) prior to their kidney transplant.
 The mean clearance of tacrolimus in patients with renal dysfunction given tacrolimus IV was similar to that in healthy subjects given tacrolimus IV and in healthy subjects given oral tacrolimus immediate-release [see Use in Specific Populations (8.6)].
@@ -115,7 +121,7 @@ The mean clearance was substantially lower in patients with severe hepatic impai
 Racial or Ethnic Groups The pharmacokinetics of tacrolimus was studied following single oral administration of tacrolimus immediate-release (5 mg) in 10 African-American, 12 Latino-American, and 12 Caucasian healthy subjects [see Dosage and Administration (2.2), Use in Specific Populations (8.8) and Clinical Studies (14)]:
 
 - •The mean (± SD) tacrolimus Cmax in African-Americans (23.6 ± 12.1 ng/mL) was lower than in Caucasians (40.2 ± 12.6 ng/mL) and Latino-Americans (36.2 ± 15.8 ng/mL).
-- •Mean AUC0-inf tended to be lower in African-Americans (203 ± 115 ng∙hr/mL) than Caucasians (344 ± 186 ng∙hr/mL) and Latino-Americans (274 ± 150 ng∙hr/mL).
+- •Mean AUC0-inf tended to be lower in African-Americans (203 ± 115 ng·hr/mL) than Caucasians (344 ± 186 ng·hr/mL) and Latino-Americans (274 ± 150 ng·hr/mL).
 - •The mean (± SD) absolute oral bioavailability (F) in African-Americans (12 ± 4.5%) and Latino-Americans (14 ± 7.4%) was lower than in Caucasians (19 ± 5.8%).
 - •There was no significant difference in mean terminal half-life among the three ethnic groups (range from approximately 25 to 30 hours).
 
@@ -125,7 +131,7 @@ A retrospective comparison of pharmacokinetics in healthy subjects, and in kidne
 Drug Interaction Studies Because tacrolimus is metabolized mainly by CYP3A enzymes, drugs or substances known to inhibit these enzymes and/or are known CYP3A substrates may increase tacrolimus whole blood concentrations.
 Drugs known to induce CYP3A enzymes may decrease tacrolimus whole blood concentrations [see Warnings and Precautions (5.10) and Drug Interactions (7.2)].
 
-Figures 1 and 2 summarize the PK data from drug interaction studies of ASTAGRAF XL or tacrolimus immediate-release capsules.
+Figures 1 and 2 summarize the PK data from drug interaction studies of ASTAGRAF XL or tacrolimus immediate‑release capsules.
 These studies assessed the effect of co-administered drugs on tacrolimus PK in healthy subjects.
 Dosing adjustments, when using drugs that inhibit or increase CYP3A enzymes, may be necessary [see Drug Interactions (7.2)].
 

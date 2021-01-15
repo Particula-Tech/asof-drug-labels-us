@@ -27,7 +27,7 @@ Advise patients to limit exposure to sunlight and ultraviolet (UV) light by wear
 
 Inform patients that they are at an increased risk of developing a variety of infections, including opportunistic infections, due to immunosuppression and to contact their physician if they develop any symptoms of infection such as fever, sweats or chills, cough or flu-like symptoms, muscle aches, or warm, red, painful areas of the skin [see Boxed Warning and Warnings and Precautions (5.2)].
 
-## 17.4 New Onset Diabetes After Transplant
+## 17.4 New Onset Diabetes after Transplant
 
 Inform patients that ASTAGRAF XL can cause diabetes mellitus and should be advised to contact their physician if they develop frequent urination, increased thirst or hunger [see Warnings and Precautions (5.5)].
 
@@ -78,6 +78,6 @@ Manufactured by: Astellas Ireland Co., Limited Killorglin, County Kerry, Ireland
 
 Marketed by: Astellas Pharma US, Inc. Northbrook, IL 60062
 
-ASTAGRAF XL® is a registered trademark of Astellas Pharma Inc. Prograf® is a registered trademark of Astellas Pharma Inc.
+ASTAGRAF XL® is a registered trademark of Astellas Pharma Inc. Prograf ® is a registered trademark of Astellas Pharma Inc.
 
-222293-AST
+283237-AST

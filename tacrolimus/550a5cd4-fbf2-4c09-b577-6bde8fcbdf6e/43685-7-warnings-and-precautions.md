@@ -71,6 +71,8 @@ Calcium-channel blocking agents may increase tacrolimus blood concentrations and
 The concomitant use of strong CYP3A inducers may increase the metabolism of tacrolimus, leading to lower whole blood trough concentrations and greater risk of rejection.
 In contrast, the concomitant use of strong CYP3A inhibitors may decrease the metabolism of tacrolimus, leading to higher whole blood trough concentrations and greater risk of serious adverse reactions (e.g., neurotoxicity, QT prolongation) [see Warnings and Precautions (5.7, 5.11)].
 Therefore, adjust ASTAGRAF XL dose and monitor tacrolimus whole blood trough concentrations when coadministering ASTAGRAF XL with strong CYP3A inhibitors (e.g., including, but not limited to, telaprevir, boceprevir, ritonavir, ketoconazole, itraconazole, voriconazole, clarithromycin) or strong CYP3A inducers (e.g., including, but not limited to, rifampin, rifabutin) [see Dosage and Administration (2.4) and Drug Interactions (7.2)].
+A rapid, sharp rise in tacrolimus levels has been reported after co-administration with a strong CYP3A4 inhibitor, clarithromycin, despite an initial reduction of tacrolimus dose.
+Early and frequent monitoring of tacrolimus whole blood trough levels is recommended [see Drug Interactions (7.2)].
 
 ## 5.11 QT Prolongation
 

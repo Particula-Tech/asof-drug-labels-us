@@ -26,8 +26,7 @@ The most common adverse reactions leading to discontinuation in ASTAGRAF XL-trea
 
 Infections The overall incidence of infections, serious infections, and infections with identified etiology reported in patients treated with the ASTAGRAF XL or tacrolimus immediate-release product in Study 1 are shown in Table 2.
 
-Table 2: Percentage of Patients with Infections in Study 1Study 1 was not designed to support comparative claims of ASTAGRAF XL compared to tacrolimus immediate-release product for the adverse reactions reported in this table.
-Through One Year Post-Kidney Transplant
+Table 2: Percentage of Patients with Infections in Study 1a Through One Year Post-Kidney Transplant
 
 |  | ASTAGRAF XL, MMF, steroids, basiliximab induction N=214 | Tacrolimus immediate-release product, MMF, steroids, basiliximab inductionN=212 |
 | --- | --- | --- |
@@ -39,46 +38,49 @@ Through One Year Post-Kidney Transplant
 | Gastroenteritis | 7% | 3% |
 | Polyomavirus Infections | 3% | 5% |
 | Serious Infections | 22% | 23% |
+| a Study 1 was not designed to support comparative claims of ASTAGRAF XL compared to tacrolimus immediate-release product for the adverse reactions reported in this table. |  |  |
 
 New Onset Diabetes After Transplant (NODAT) The incidence of new onset diabetes after transplantation (defined by the composite occurrence of ≥ 2 fasting plasma glucose values that were > 126 mg/dL at ≥ 30 days apart, insulin use for ≥ 30 consecutive days, oral hypoglycemic use for ≥ 30 consecutive days, and/or HbA1C ≥ 6.5%) is summarized in Table 3 below for Study 1 through one year post-transplant [see Warnings and Precautions (5.5)].
 
-Table 3: Percentage of Patients with NODAT Through One Year Post-Kidney Transplant in Study 1Study 1 was not designed to support comparative claims of ASTAGRAF XL compared to tacrolimus immediate-release product for the adverse reactions reported in this table.
+Table 3: Percentage of Patients with NODAT Through One Year Post-Kidney Transplant in Study 1a
 
-|  | ASTAGRAF XL, MMF, steroids, basiliximab induction N=162 | Tacrolimus immediate-release product, MMF, steroids, basiliximab induction N=151 |
-| --- | --- | --- |
-| Composite NODAT | 36% | 35% |
-| ≥ 2 Fasting Plasma Glucose Values ≥ 126 mg/dL ≥ 30 days apart | 26% | 23% |
-| HbA1C ≥ 6.5% | 19% | 22% |
-| Oral hypoglycemic use ≥ 30 consecutive days | 14% | 9% |
-| Insulin use ≥ 30 consecutive days | 6% | 8% |
+|  | ASTAGRAF XL, MMF, steroids, basiliximab induction N=162 | Tacrolimus immediate-release product, MMF, steroids, basiliximab induction N=151 |  |  |  |
+| --- | --- | --- | --- | --- | --- |
+| Composite NODAT | 36% | 35% |  |  |  |
+| ≥ 2 Fasting Plasma Glucose Values ≥ 126 mg/dL ≥ 30 days apart | 26% | 23% |  |  |  |
+| HbA1C ≥ 6.5% | 19% | 22% |  |  |  |
+| Oral hypoglycemic use ≥ 30 consecutive days | 14% | 9% |  |  |  |
+| Insulin use ≥ 30 consecutive days | 6% | 8% |  |  |  |
+| a Study 1 was not designed to support comparative claims of ASTAGRAF XL compared to tacrolimus immediate-release product for the adverse reactions reported in this table. |  |  |  |  |  |
 
 Hyperkalemia In Study 1 [see Clinical Studies (14.1)], 73 of 214 (34.1%) patients on ASTAGRAF XL had a serum potassium level greater than 5.4 up to 6.4 mEq/L, and 8 out of 214 (3.7%) patients had a serum potassium level greater than 6.4 mEq/L [see Warnings and Precautions (5.8)].
 
 Common Adverse Reactions The most common (≥ 30%) adverse reactions observed with ASTAGRAF XL in Study 1 were: diarrhea, constipation, nausea, peripheral edema, tremor, and anemia.
 The incidence of adverse reactions that occurred in ≥ 15% of ASTAGRAF XL-treated patients compared to tacrolimus immediate-release product through one year of treatment in Study 1 is shown by treatment groups in Table 4.
 
-Table 4: Adverse Reactions (≥ 15%) in Kidney Transplant Patients Through One Year Post-Transplant in Study 1Study 1 was not designed to support comparative claims of ASTAGRAF XL compared to tacrolimus immediate-release for the adverse reactions reported in this table.
+Table 4: Adverse Reactions (≥ 15%) in Kidney Transplant Patients Through One Year Post-Transplant in Study 1a
 
-|  | ASTAGRAF XL, MMF, steroids, basiliximab inductionN=214 | Tacrolimus immediate-release product, MMF, steroids, basiliximab inductionN=212 |
-| --- | --- | --- |
-| Diarrhea | 45% | 44% |
-| Constipation | 40% | 32% |
-| Nausea | 36% | 35% |
-| Peripheral Edema | 36% | 34% |
-| Tremor | 35% | 34% |
-| Anemia | 33% | 29% |
-| Hypertension | 28% | 30% |
-| Vomiting | 25% | 25% |
-| Hypomagnesemia | 24% | 27% |
-| Insomnia | 24% | 28% |
-| Hypophosphatemia | 23% | 28% |
-| Headache | 22% | 24% |
-| Hyperkalemia | 20% | 23% |
-| Increased Blood Creatinine | 19% | 23% |
-| Fatigue | 16% | 10% |
-| Leukopenia | 16% | 16% |
-| Hyperlipidemia | 16% | 17% |
-| Hyperglycemia | 16% | 18% |
+|  | ASTAGRAF XL, MMF, steroids, basiliximab inductionN=214 | Tacrolimus immediate-release product, MMF, steroids, basiliximab inductionN=212 |  |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Diarrhea | 45% | 44% |  |  |  |  |  |  |
+| Constipation | 40% | 32% |  |  |  |  |  |  |
+| Nausea | 36% | 35% |  |  |  |  |  |  |
+| Peripheral Edema | 36% | 34% |  |  |  |  |  |  |
+| Tremor | 35% | 34% |  |  |  |  |  |  |
+| Anemia | 33% | 29% |  |  |  |  |  |  |
+| Hypertension | 28% | 30% |  |  |  |  |  |  |
+| Vomiting | 25% | 25% |  |  |  |  |  |  |
+| Hypomagnesemia | 24% | 27% |  |  |  |  |  |  |
+| Insomnia | 24% | 28% |  |  |  |  |  |  |
+| Hypophosphatemia | 23% | 28% |  |  |  |  |  |  |
+| Headache | 22% | 24% |  |  |  |  |  |  |
+| Hyperkalemia | 20% | 23% |  |  |  |  |  |  |
+| Increased Blood Creatinine | 19% | 23% |  |  |  |  |  |  |
+| Fatigue | 16% | 10% |  |  |  |  |  |  |
+| Leukopenia | 16% | 16% |  |  |  |  |  |  |
+| Hyperlipidemia | 16% | 17% |  |  |  |  |  |  |
+| Hyperglycemia | 16% | 18% |  |  |  |  |  |  |
+| a Study 1 was not designed to support comparative claims of ASTAGRAF XL compared to tacrolimus immediate-release for the adverse reactions reported in this table. |  |  |  |  |  |  |  |  |
 
 Less Frequently Reported Adverse Reactions (< 15% in ASTAGRAF XL-treated patients) by System Organ Class
 

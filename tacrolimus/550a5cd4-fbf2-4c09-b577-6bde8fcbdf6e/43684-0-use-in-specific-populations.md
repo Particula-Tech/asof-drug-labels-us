@@ -20,6 +20,7 @@ Administration of oral tacrolimus to rats prior to mating, and throughout gestat
 Interventricular septal defects, hydronephrosis, craniofacial malformations and skeletal effects were observed in offspring that died [see Animal Data].
 
 The background risk of major birth defects and miscarriage in the indicated population is unknown.
+
 In the U.S. general population, the estimated background risk of major birth defects and miscarriage in clinically recognized pregnancies is 2 to 4% and 15 to 20%, respectively.
 
 Clinical Considerations
@@ -53,7 +54,10 @@ There is an increased risk for premature delivery (< 37 weeks) following transpl
 Data
 
 Human Data There are no adequate and well-controlled studies on the effects of tacrolimus in human pregnancy.
-Safety data from the TPRI and postmarketing surveillance suggest infants exposed to tacrolimus in utero have an increased risk for miscarriage, pre-term delivery (< 37 weeks), low birth weight (< 2500 g), birth defects/congenital anomalies and fetal distress.
+
+Safety data from the TPRI and postmarketing surveillance suggest infants exposed to tacrolimus in utero have an increased risk for miscarriage, pre-term delivery (< 37 weeks), low birth weight
+
+(< 2500 g), birth defects/congenital anomalies and fetal distress.
 
 TPRI reported 450 and 241 total pregnancies in kidney and liver transplant recipients exposed to tacrolimus, respectively.
 The TPRI pregnancy outcomes are summarized in Table 6.
