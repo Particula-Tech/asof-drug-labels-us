@@ -141,7 +141,7 @@ Pharmacokinetic Parameters for MPA [mean (±SD)] Following Single Doses of MMF C
 | Healthy Volunteers GFR greater than 80 mL/min/1.73 m2 (n=6) | 1 g | 0.75 (±0.27) | 25.3 (±7.99) | 45.0 (±22.6) |
 | Mild Renal Impairment GFR 50 to 80 mL/min/1.73 m2 (n=6) | 1 g | 0.75 (±0.27) | 26.0 (±3.82) | 59.9 (±12.9) |
 | Moderate Renal Impairment GFR 25 to 49 mL/min/1.73 m2 (n=6) | 1 g | 0.75 (0.27) | 19.0 (±13.2) | 52.9 (±25.5) |
-| Several Renal Impairment GFR less than 25mL/min/1.73m2 (n=7) | 1 g | 1.00(±0.41) | 16.3(±10.8) | 78.6(±46.4) |
+| Severe Renal Impairment GFR less than 25mL/min/1.73m2 (n=7) | 1 g | 1.00(±0.41) | 16.3(±10.8) | 78.6(±46.4) |
 | Pharmacokinetic Parameters for Hepatic Impairment |  |  |  |  |
 |  | Dose | Tmax (h) | Cmax (mcg/mL) | AUC(0-48h) (mcg•h/mL) |
 | Healthy Volunteers (n=6) | 1 g | 0.63 (±0.14) | 24.3 (±5.73) | 29.0 (±5.78) |
@@ -156,7 +156,7 @@ Table 10.Mean (±SD) Computed Pharmacokinetic Parameters for MPA by Age and Time
 
 | Age Group (n) | Time | Tmax (h) | Dose Adjusteda Cmax (mcg/mL) | Dose Adjusteda AUC 0-12 (mcg•h/mL) |
 | --- | --- | --- | --- | --- |
-| 1 to less than 2 yr (6)4 1 to less than 6 yr (17) 6 to less than 12 yr (16) 12 to 18 yr (21) | Early (Day 7) | 3.03 (4.70) 1.63 (2.85) 0.940 (0.546) 1.16 (0.830) | 10.3 (5.80) 13.2 (7.16) 13.1 (6.30) 11.7 (10.7) | 22.5 (6.66) 27.4 (9.54) 33.2 (12.1) 26.3 (9.14)b |
+| 1 to less than 2 yr (6)d 1 to less than 6 yr (17) 6 to less than 12 yr (16) 12 to 18 yr (21) | Early (Day 7) | 3.03 (4.70) 1.63 (2.85) 0.940 (0.546) 1.16 (0.830) | 10.3 (5.80) 13.2 (7.16) 13.1 (6.30) 11.7 (10.7) | 22.5 (6.66) 27.4 (9.54) 33.2 (12.1) 26.3 (9.14)b |
 | 1 to less than 2 yr (4)d 1 to less than 6 yr (15) 6 to less than 12 yr (14) 12 to 18 yr (17) | Late (Month 3) | 0.725 (0.276) 0.989 (0.511) 1.21 (0.532) 0.978 (0.484) | 23.8 (13.4) 22.7 (10.1) 27.8 (14.3) 17.9 (9.57) | 47.4 (14.7) 49.7 (18.2) 61.9 (19.6) 53.6 (20.3)c |
 | 1 to less than 2 yr (4)d 1 to less than 6 yr (12) 6 to less than 12 yr (11) 12 to 18 yr (14) | Late (Month 9) | 0.604 (0.208) 0.869 (0.479) 1.12 (0.462) 1.12 (0.462) | 25.6 (4.25) 30.4 (9.16) 29.2 (12.6) 18.1 (7.29) | 55.8 (11.6) 61.0 (10.7) 66.8 (21.2) 56.7 (14.0) |
 

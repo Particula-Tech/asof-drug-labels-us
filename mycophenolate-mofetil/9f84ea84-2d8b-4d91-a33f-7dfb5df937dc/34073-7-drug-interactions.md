@@ -18,7 +18,7 @@ Table 5.Drug Interactions with Mycophenolate Mofetil that Affect Mycophenolic Ac
 | Examples | Trimethoprim/sulfamethoxazole, bile acid sequestrants (cholestyramine), rifampin as well as aminoglycoside, cephalosporin, fluoroquinolone and penicillin classes of antimicrobials |
 | Drugs Modulating Glucuronidation |  |
 | Clinical Impact | Concomitant use with drugs inducing glucuronidation decreases MPA systemic exposure, potentially reducing mycophenolate mofetil efficacy, while use with drugs inhibiting glucuronidation increases MPA systemic exposure [see Clinical Pharmacology (12.3)], which may increase the risk of mycophenolate mofetil related adverse reactions. |
-| Prevention or Management Examples | Monitor patients for alterations in efficacy or mycophenolate mofetil related adverse reactions when these drugs are co-administered with mycophenolate mofetil |
+| Prevention or Management | Monitor patients for alterations in efficacy or mycophenolate mofetil related adverse reactions when these drugs are co-administered with mycophenolate mofetil |
 | Examples | Telmisartan (induces glucuronidation); isavuconazole (inhibits glucuronidation). |
 | Calcium Free Phosphate Binders |  |
 | Clinical Impact | Concomitant use with calcium free phosphate binders decrease MPA systemic exposure [see Clinical Pharmacology (12.3)], which may reduce mycophenolate mofetil efficacy. |

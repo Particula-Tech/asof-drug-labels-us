@@ -17,7 +17,7 @@ Patients who prematurely discontinued treatment were followed for the occurrence
 Table 11.
 Treatment Failure in De Novo Kidney Transplantation Studies
 
-| USA Studya (N=499 patients) | Mycophenolate Mofetil g/day (n=167 patients) | Mycophenolate Mofetil g/day (n=166 patients) | AZA 1 to 2 mg/kg/day (n=166 patients) |
+| USA Studya (N=499 patients) | Mycophenolate Mofetil 2 g/day (n=167 patients) | Mycophenolate Mofetil 3 g/day (n=166 patients) | AZA 1 to 2 mg/kg/day (n=166 patients) |
 | --- | --- | --- | --- |
 | All 3 groups received anti-thymocyte globulin induction, cyclosporine and corticosteroids |  |  |  |
 | All treatment failures | 31.1% | 31.3% | 47.6% |
@@ -28,7 +28,7 @@ Treatment Failure in De Novo Kidney Transplantation Studies
 | All treatment failures | 38.2% | 34.8% | 50.0% |
 | Early termination without prior acute rejectionb | 13.9% | 15.2% | 10.2% |
 | Biopsy-proven rejection episode on treatment | 19.7% | 15.9% | 35.5% |
-| Europe Studyd (N=491 patients) | Mycophenolate Mofetil g/day (n=165 patients) | Mycophenolate Mofetil g/day (n=160 patients) | Placebo (n=166 patients) |
+| Europe Studyd (N=491 patients) | Mycophenolate Mofetil 2 g/day (n=165 patients) | Mycophenolate Mofetil 3 g/day (n=160 patients) | Placebo (n=166 patients) |
 | No induction treatment administered; all 3 groups received cyclosporine and corticosteroids. |  |  |  |
 | All treatment failures | 30.3% | 38.8% | 56.0% |
 | Early termination without prior acute rejectionb | 11.5% | 22.5% | 7.2% |
@@ -91,7 +91,7 @@ Patients who prematurely discontinued treatment were followed for the occurrence
 
 In combination with corticosteroids and cyclosporine, mycophenolate mofetil demonstrated a lower rate of acute rejection at 6 months and a similar rate of death or re-transplantation at 1 year compared to AZA (Table 14)
 
-Table 15.
+Table 14.
 De Novo Liver Transplantation Study Rejection at 6 Months/Death or Retransplantation at 1 Year
 
 |  | AZA N = 287 | Mycophenolate Mofetil N = 278 |

@@ -75,6 +75,6 @@ Manufactured in India by: Alkem Laboratories Limited H.O.: ALKEM HOUSE, Senapati
 
 Distributed by: Ascend Laboratories, LLC Parsippany, NJ 07054
 
-PT 2075-07
+PT 2075-08
 
-Revised: February,2020
+Revised: October, 2020
