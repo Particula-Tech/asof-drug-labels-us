@@ -16,6 +16,7 @@ Data from postmarketing surveillance and TPRI suggest that infants exposed to ta
 Advise pregnant women of the potential risk to the fetus.
 
 Administration of oral tacrolimus to pregnant rabbits and rats throughout the period of organogenesis was associated with maternal toxicity/lethality, and an increased incidence of abortion, malformation and embryofetal death at clinically relevant doses (0.5 to 6.9 times the recommended clinical dose range [0.2 to 0.075 mg/kg/day], on a mg/m2 basis).
+
 Administration of oral tacrolimus to pregnant rats after organogenesis and throughout lactation produced maternal toxicity, effects on parturition, reduced pup viability and reduced pup weight at clinically relevant doses (0.8 to 6.9 times the recommended clinical dose range, on a mg/m2 basis).
 Administration of oral tacrolimus to rats prior to mating, and throughout gestation and lactation produced maternal toxicity/lethality, marked effects on parturition, embryofetal loss, malformations, and reduced pup viability at clinically relevant doses (0.8 to 6.9 times the recommended clinical dose range, on a mg/m2 basis).
 Interventricular septal defects, hydronephrosis, craniofacial malformations and skeletal effects were observed in offspring that died [see Animal Data].
@@ -117,12 +118,16 @@ Based on findings in animals, male and female fertility may be compromised by tr
 
 Safety and effectiveness have been established in pediatric liver, kidney, and heart transplant patients.
 
-Liver transplant Safety and efficacy using PROGRAF Granules in pediatric de novo liver transplant patients less than 16 years of age are based on evidence from active controlled studies that included 56 pediatric patients, 31 of which received PROGRAF, and supported by two pharmacokinetic and safety studies in 151 children who received PROGRAF.
+Liver transplant
+
+Safety and efficacy using PROGRAF Granules in pediatric de novo liver transplant patients less than 16 years of age are based on evidence from active controlled studies that included 56 pediatric patients, 31 of which received PROGRAF, and supported by two pharmacokinetic and safety studies in 151 children who received PROGRAF.
 Additionally, 122 pediatric patients were studied in an uncontrolled trial of tacrolimus in living related donor liver transplantation.
 Dose adjustments were made in the PK studies based on clinical status and whole blood concentrations.
 Pediatric patients generally required higher doses of PROGRAF to maintain blood trough concentrations of tacrolimus similar to adult patients [see Dosage and Administration (2.3), Adverse Reactions (6.1), Clinical Pharmacology (12.3) and Clinical Studies (14.2)].
 
-Kidney and heart transplant Use of PROGRAF capsules and PROGRAF Granules in pediatric kidney and heart transplant patients is supported by adequate and well-controlled studies and pharmacokinetic data in adult kidney and heart transplant patients with additional pharmacokinetic data in pediatric kidney and heart transplant patients and safety data in pediatric liver transplant patients [see Dosage and Administration (2.3) and Clinical Pharmacology (12.3)].
+Kidney and heart transplant
+
+Use of PROGRAF capsules and PROGRAF Granules in pediatric kidney and heart transplant patients is supported by adequate and well-controlled studies and pharmacokinetic data in adult kidney and heart transplant patients with additional pharmacokinetic data in pediatric kidney and heart transplant patients and safety data in pediatric liver transplant patients [see Dosage and Administration (2.3) and Clinical Pharmacology (12.3)].
 
 ## 8.5 Geriatric Use
 

@@ -20,7 +20,9 @@ Store at 20°C to 25°C (68°F to 77°F); excursions permitted to 15°C to 30°C
 
 (for Intravenous infusion only)
 
-NDC 0469-3016-01 Product Code 301601 5 mg/mL (equivalent of 5 mg of anhydrous tacrolimus USP per mL) supplied as a sterile solution in a 1 mL ampule, in boxes of 10 ampules
+NDC 0469-3016-01 Product Code 301601
+
+5 mg/mL (equivalent of 5 mg of anhydrous tacrolimus USP per mL) supplied as a sterile solution in a 1 mL ampule, in boxes of 10 ampules
 
 Store and Dispense
 

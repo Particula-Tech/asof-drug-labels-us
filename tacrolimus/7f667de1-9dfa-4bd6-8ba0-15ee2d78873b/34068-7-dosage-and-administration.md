@@ -7,7 +7,7 @@ PROGRAF should not be used without supervision by a physician with experience in
 PROGRAF capsules and PROGRAF Granules are not interchangeable or substitutable for other tacrolimus extended-release products.
 This is because rate of absorption following the administration of an extended-release tacrolimus product is not equivalent to that of an immediate-release tacrolimus drug product.
 Under- or overexposure to tacrolimus may result in graft rejection or other serious adverse reactions.
-Changes between tacrolimus immediate-release and extended-release dosage forms must occur under physician supervision [see Warnings and Precautions (5.3)].
+Changes between tacrolimus immediate-release and extended- release dosage forms must occur under physician supervision [see Warnings and Precautions (5.3)].
 
 Intravenous Formulation - Administration Precautions due to Risk of Anaphylaxis
 
@@ -47,7 +47,7 @@ Perform therapeutic drug monitoring (TDM) to ensure that patients are within the
 Table 1.
 Summary of Initial Oral PROGRAF Capsules Dosing Recommendations and Whole Blood Trough Concentration Range in Adults
 
-| Patient Population | PROGRAF CapsulesAfrican-American patients may require higher doses compared to Caucasians (see Table 2). Initial Oral Dosing | Whole Blood Trough Concentration Range |
+| Patient Population | PROGRAF CapsulesAfrican-American patients may require higher doses compared to Caucasians (see Table 2) Initial Oral Dosing | Whole Blood Trough Concentration Range |
 | --- | --- | --- |
 | Kidney Transplant |  |  |
 | With Azathioprine | 0.2 mg/kg/day, divided in two doses, administered every 12 hours | Month 1-3: 7-20 ng/mLMonth 4-12: 5-15 ng/mL |
@@ -134,12 +134,11 @@ Whole blood trough concentration range can be found in Table 1.
 Factors influencing frequency of monitoring include but are not limited to hepatic or renal dysfunction, the addition or discontinuation of potentially interacting drugs and the post-transplant time.
 Blood concentration monitoring is not a replacement for renal and liver function monitoring and tissue biopsies.
 Data from clinical trials show that tacrolimus whole blood concentrations were most variable during the first week post-transplantation.
-
 The relative risks of toxicity and efficacy failure are related to tacrolimus whole blood trough concentrations.
 Therefore, monitoring of whole blood trough concentrations is recommended to assist in the clinical evaluation of toxicity and efficacy failure.
 
 Methods commonly used for the assay of tacrolimus include high-performance liquid chromatography with tandem mass spectrometric detection (HPLC/MS/MS) and immunoassays.
-Immunoassays may react with metabolites as well as the parent compound.
+Immunoassays may react with metabolites as well as parent compound.
 Therefore, assay results obtained with immunoassays may have a positive bias relative to results of HPLC/MS.
 The bias may depend upon the specific assay and laboratory.
 Comparison of the concentrations in published literature to patient concentrations using the current assays must be made with detailed knowledge of the assay methods and biological matrices employed.
@@ -174,13 +173,8 @@ If the morning or evening dose is not covered by the whole number of packets, us
 Do not use tubing, syringes and other equipment (cups) containing PVC to prepare or administer tacrolimus products.
 Do not sprinkle PROGRAF Granules on food.
 
-- •To prepare the dose, empty the entire contents of each PROGRAF Granules packet into a glass cup.
-  Check for any remaining granules in the packet(s) and empty these into the cup.
-- •Add 1 to 2 tablespoons (15 to 30 milliliters) of room temperature drinking water to the cup containing the PROGRAF Granules.
-- •Mix and administer the entire contents of the cup.
-  The granules will not completely dissolve.
-  The suspension should be given immediately after preparation.
-- •For younger patients, the suspension can be drawn up via a non-PVC oral syringe that will be dispensed with the prescription.
-- •The cup or syringe should be rinsed with the same quantity of water (15 to 30 milliliters) and given to the patient to ensure all of the medication is taken.
-- •The pharmacy must dispense with the Instructions for Use.
-  Alert the patient to read the Instructions for Use.
+• To prepare the dose, empty the entire contents of each PROGRAF Granules packet into a glass cup.
+Check for any remaining granules in the packet(s) and empty these into the cup. • Add 1 to 2 tablespoons (15 to 30 milliliters) of room temperature drinking water to the cup containing the PROGRAF Granules. • Mix and administer the entire contents of the cup.
+The granules will not completely dissolve.
+The suspension should be given immediately after preparation. • For younger patients, the suspension can be drawn up via a non-PVC oral syringe that will be dispensed with the prescription. • The cup or syringe should be rinsed with the same quantity of water (15 to 30 milliliters) and given to the patient to ensure all of the medication is taken. • The pharmacy must dispense with the Instructions for Use.
+Alert the patient to read the Instructions for Use.

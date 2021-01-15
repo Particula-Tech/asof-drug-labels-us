@@ -59,10 +59,10 @@ Tacrolimus Whole Blood Trough Concentration Range (Study 1)
 
 | Time | Median (P10-P9010 to 90th Percentile: range of Ctrough,Tac that excludes lowest 10% and highest 10% of Ctrough,Tac) tacrolimus whole blood trough concentration range(ng/mL) |
 | --- | --- |
-| Day 30 (N=366) | 6.9 (4.4 – 11.3) |
-| Day 90 (N=351) | 6.8 (4.1 – 10.7) |
-| Day 180 (N=355) | 6.5 (4.0 – 9.6) |
-| Day 365 (N=346) | 6.5 (3.8 – 10.0) |
+| Day 30 (N = 366) | 6.9 (4.4 – 11.3) |
+| Day 90 (N = 351) | 6.8 (4.1 – 10.7) |
+| Day 180 (N = 355) | 6.5 (4.0 – 9.6) |
+| Day 365 (N = 346) | 6.5 (3.8 – 10.0) |
 
 The protocol-specified target cyclosporine trough concentrations (Ctrough,CsA) for Group B were 50-100 ng/mL; however, the observed median Ctroughs,CsA approximated 100 ng/mL throughout the 12-month trial.
 The protocol-specified target Ctroughs,CsA for Group A were 150-300 ng/mL for the first 3 months and 100-200 ng/mL from month 4 to month 12; the observed median Ctroughs,CsA approximated 225 ng/mL for the first 3 months and 140 ng/mL from month 4 to month 12.
@@ -157,6 +157,7 @@ In both trials, the median time to convert from IV to oral PROGRAF dosing was 2 
 Although there is a lack of direct correlation between tacrolimus concentrations and drug efficacy, data from clinical trials of liver transplant patients have shown an increasing incidence of adverse reactions with increasing trough blood concentrations.
 Most patients are stable when trough whole blood concentrations are maintained between 5 to 20 ng/mL.
 Long-term post-transplant patients are often maintained at the low end of this target range.
+
 Data from the U.S. clinical trial show that the median trough blood concentrations, measured at intervals from the second week to one year post-transplantation, ranged from 9.8 ng/mL to 19.4 ng/mL.
 
 Pediatric Liver Transplantation Using PROGRAF Granules

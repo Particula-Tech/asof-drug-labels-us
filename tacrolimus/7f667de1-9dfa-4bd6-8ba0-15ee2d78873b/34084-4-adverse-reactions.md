@@ -93,9 +93,8 @@ Such trials often report a lower incidence of adverse reactions in comparison to
 Table 5.
 Kidney Transplantation: Adverse Reactions Occurring in ≥ 10% of Patients Treated with PROGRAF in Conjunction with MMF (Study 1)
 
-|  | PROGRAF (Group C) | Cyclosporine (Group A) | Cyclosporine (Group B) |
+|  | PROGRAF (Group C)(N = 403) | Cyclosporine (Group A)(N = 384) | Cyclosporine (Group B)(N = 408) |
 | --- | --- | --- | --- |
-| (N = 403) | (N = 384) | (N = 408) |  |
 | Diarrhea | 25% | 16% | 13% |
 | Urinary Tract Infection | 24% | 28% | 24% |
 | Anemia | 17% | 19% | 17% |
@@ -295,7 +294,6 @@ In the European trial, the cyclosporine trough concentrations were above the pre
 
 In a U.S. trial, the incidence of adverse reactions was based on 331 heart transplant patients that received corticosteroids and PROGRAF in combination with sirolimus (n=109), PROGRAF in combination with MMF (n=107) or cyclosporine modified in combination with MMF (n=115) for 1 year.
 The trial population had a mean age of 53 years (range 18 to 75); the distribution was 78% male, and the composition was White (83%), African-American (13%) and Other (4%).
-
 Only selected targeted treatment-emergent adverse reactions were collected in the U.S. heart transplantation trial.
 Those reactions that were reported at a rate of 15% or greater in patients treated with PROGRAF and MMF include the following: any target adverse reactions (99%), hypertension (89%), hyperglycemia requiring antihyperglycemic therapy (70%), hypertriglyceridemia (65%), anemia (hemoglobin < 10.0 g/dL) (65%), fasting blood glucose > 140 mg/dL (on two separate occasions) (61%), hypercholesterolemia (57%), hyperlipidemia (34%), WBCs < 3000 cells/mcL (34%), serious bacterial infections (30%), magnesium < 1.2 mEq/L (24%), platelet count < 75,000 cells/mcL (19%), and other opportunistic infections (15%).
 
@@ -351,7 +349,9 @@ Development of Post-Transplant Diabetes Mellitus by Race or Ethnicity and by Tre
 | Other | 0/11 (0%) | 1 (10%) |
 | Total | 30/151 (20%) | 6 (4%) |
 
-Liver Transplantation Insulin-dependent PTDM was reported in 18% and 11% of PROGRAF-treated liver transplant patients and was reversible in 45% and 31% of these patients at 1 year post-transplant, in the U.S. and European randomized trials, respectively (Table 13).
+Liver Transplantation
+
+Insulin-dependent PTDM was reported in 18% and 11% of PROGRAF-treated liver transplant patients and was reversible in 45% and 31% of these patients at 1 year post-transplant, in the U.S. and European randomized trials, respectively (Table 13).
 Hyperglycemia was associated with the use of PROGRAF in 47% and 33% of liver transplant recipients in the U.S. and European randomized trials, respectively, and may require treatment [see Adverse Reactions (6.1)].
 
 Table 13.
@@ -367,7 +367,7 @@ Incidence of Post-Transplant Diabetes Mellitus and Insulin Use at 1 Year in Live
 Heart Transplantation
 
 Insulin-dependent PTDM was reported in 13% and 22% of PROGRAF-treated heart transplant patients receiving mycophenolate mofetil (MMF) or azathioprine (AZA) and was reversible in 30% and 17% of these patients at one year post-transplant, in the U.S. and European randomized trials, respectively (Table 14).
-Hyperglycemia, defined as two fasting plasma glucose levels ≥ 126 mg/dL was reported with the use of PROGRAF plus MMF or AZA in 32% and 35% of heart transplant recipients in the U.S. and European randomized trials, respectively, and may require treatment [see Adverse Reactions (6.1)].
+Hyperglycemia, defined as two fasting plasma glucose levels ≥ 126 mg/dL, was reported with the use of PROGRAF plus MMF or AZA in 32% and 35% of heart transplant recipients in the U.S. and European randomized trials, respectively, and may require treatment [see Adverse Reactions (6.1)].
 
 Table 14.
 Incidence of Post-Transplant Diabetes Mellitus and Insulin Use at 1 Year in Heart Transplant Recipients

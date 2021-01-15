@@ -11,10 +11,7 @@ Read the Patient Information that provides information on “how should I take P
 These Instructions for Use do not take the place of talking to your child’s healthcare provider about their medical condition or treatment.
 Ask the healthcare provider if you have any questions about how to mix or give a dose of PROGRAF Granules the right way.
 
-Important information:
-
-These instructions are for preparing PROGRAF Granules only.
-
+Important information: These instructions are for preparing PROGRAF Granules only.
 These instructions must not be used for PROGRAF capsules.
 
 - •Mix PROGRAF Granules in water.
@@ -104,6 +101,6 @@ Marketed by: Astellas Pharma US, Inc. Northbrook, IL 60062
 
 PROGRAF® is a registered trademark of Astellas Pharma Inc.
 
-222293-PRG
+283237-PRG
 
 Issued: December 2018

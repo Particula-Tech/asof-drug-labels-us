@@ -24,12 +24,12 @@ Serious viral infections reported include:
 
 Monitor for the development of infection and adjust the immunosuppressive regimen to balance the risk of rejection with the risk of infection [see Adverse Reactions (6.1, 6.2)].
 
-## 5.3 Not Interchangeable With Extended-Release Tacrolimus Products - Medication Errors
+## 5.3 Not Interchangeable with Extended-Release Tacrolimus Products - Medication Errors
 
 Medication errors, including substitution and dispensing errors, between tacrolimus immediate-release products and tacrolimus extended-release products were reported outside the U.S. This led to serious adverse reactions, including graft rejection, or other adverse reactions due to under- or overexposure to tacrolimus.
 PROGRAF is not interchangeable or substitutable for tacrolimus extended-release products.
 Changes between tacrolimus immediate-release and extended-release dosage forms must occur under physician supervision.
-Instruct patients and caregivers to recognize the appearance of PROGRAF dosage forms [see Dosage Forms and Strengths (3)] and to confirm with the healthcare provider if a different product is dispensed.
+Instruct patients and caregivers to recognize the appearance of PROGRAF dosage forms [seeDosage Forms and Strengths (3)] and to confirm with the healthcare provider if a different product is dispensed.
 
 ## 5.4 New Onset Diabetes After Transplant
 
@@ -81,7 +81,9 @@ PROGRAF is not recommended for use with sirolimus:
 
 ## 5.11 Interactions with CYP3A4 Inhibitors and Inducers
 
-When co-administering PROGRAF with strong CYP3A4 inhibitors (e.g., telaprevir, boceprevir, ritonavir, ketoconazole, itraconazole, voriconazole, clarithromycin) and strong inducers (e.g., rifampin, rifabutin), adjustments in the dosing regimen of PROGRAF and subsequent frequent monitoring of tacrolimus whole blood trough concentrations and tacrolimus-associated adverse reactions are recommended [see Drug Interactions (7)].
+When co-administering PROGRAF with strong CYP3A4 inhibitors (e.g., telaprevir, boceprevir, ritonavir, ketoconazole, itraconazole, voriconazole, clarithromycin) and strong inducers (e.g., rifampin, rifabutin), adjustments in the dosing regimen of PROGRAF and subsequent frequent monitoring of tacrolimus whole blood trough concentrations and tacrolimus-associated adverse reactions are recommended.
+A rapid, sharp rise in tacrolimus levels has been reported after co-administration with a strong CYP3A4 inhibitor, clarithromycin, despite an initial reduction of tacrolimus dose.
+Early and frequent monitoring of tacrolimus whole blood trough levels is recommended [see Drug Interactions (7.2)].
 
 ## 5.12 QT Prolongation
 
@@ -90,7 +92,7 @@ Avoid PROGRAF in patients with congenital long QT syndrome.
 In patients with congestive heart failure, bradyarrhythmias, those taking certain antiarrhythmic medications or other medicinal products that lead to QT prolongation, and those with electrolyte disturbances such as hypokalemia, hypocalcemia, or hypomagnesemia, consider obtaining electrocardiograms and monitoring electrolytes (magnesium, potassium, calcium) periodically during treatment.
 
 When co-administering PROGRAF with other substrates and/or inhibitors of CYP3A4 that also have the potential to prolong the QT interval, a reduction in PROGRAF dose, frequent monitoring of tacrolimus whole blood concentrations, and monitoring for QT prolongation is recommended.
-Use of PROGRAF with amiodarone has been reported to result in increased tacrolimus whole blood concentrations with or without concurrent QT prolongation [see Drug Interactions (7)].
+Use of PROGRAF with amiodarone has been reported to result in increased tacrolimus whole blood concentrations with or without concurrent QT prolongation [see Drug Interactions (7.2)].
 
 ## 5.13 Myocardial Hypertrophy
 
