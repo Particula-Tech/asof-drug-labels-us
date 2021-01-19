@@ -185,12 +185,12 @@ Distributed by:
 
 Takeda Pharmaceuticals America, Inc.
 
-Deerfield, IL 60015
+Lexington, MA 02421
 
 Revised: December 2016
 
 DUETACT and ACTOS are registered trademarks of Takeda Pharmaceutical Company Limited and used under license by Takeda Pharmaceuticals America, Inc.
 
-© 2009 - 2017 Takeda Pharmaceuticals America, Inc.
+© 2009 - 2020 Takeda Pharmaceuticals America, Inc.
 
-DTA007 R15
+DTA007 R16

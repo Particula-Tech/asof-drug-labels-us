@@ -15,10 +15,10 @@ See FDA-approved patient labeling (Medication Guide).
 - •Inform female patients that treatment with pioglitazone, like other thiazolidinediones may result in an unintended pregnancy in some premenopausal anovulatory females due to its effect on ovulation [see Use in Specific Populations (8.3)].
 - •Patients should be told to take a single dose of DUETACT once daily with the first main meal and instructed that any change in dosing should be made only if directed by their physician [see Dosage and Administration (2)].
 
-Distributed by: Takeda Pharmaceuticals America, Inc. Deerfield, IL 60015
+Distributed by: Takeda Pharmaceuticals America, Inc. Lexington, MA 02421
 
 DUETACT is a trademark of Takeda Pharmaceutical Company Limited registered with the U.S. Patent and Trademark Office and used under license by Takeda Pharmaceuticals America, Inc.
 
-© 2009 - 2017 Takeda Pharmaceuticals America, Inc.
+© 2009 - 2020 Takeda Pharmaceuticals America, Inc.
 
-DTA007 R15
+DTA007 R16
