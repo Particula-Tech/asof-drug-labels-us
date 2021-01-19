@@ -172,7 +172,9 @@ Inactive ingredients in the oral solution: glycerin, xylitol, purified water, an
 
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
 
-This product's label may have been updated.
-For current full prescribing information, please visit www.greenstonellc.com.
+This product's labeling may have been updated.
+For the most recent prescribing information, please visit www.greenstonellc.com.
 
-LAB-0437-12.0 Revised 04/2020
+LAB-0437-13.0
+
+Revised: 12/2020
