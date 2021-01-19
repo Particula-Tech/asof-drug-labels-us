@@ -2,7 +2,7 @@
 
 The following serious adverse reactions are described below and elsewhere in labeling:
 
-• Acute Interstitial Nephritis [see Warnings and Precautions (5.2)]
+• Acute Tubulointerstitial Nephritis [see Warnings and Precautions (5.2)]
 
 • Clostridium difficile-Associated Diarrhea [see Warnings and Precautions (5.3)]
 

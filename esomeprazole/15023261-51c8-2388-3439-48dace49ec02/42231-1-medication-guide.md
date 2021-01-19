@@ -13,8 +13,8 @@ Talk with your doctor.
 
 Esomeprazole magnesium delayed-release capsules can cause serious side effects, including:
 
-- A type of kidney problem (acute interstitial nephritis).
-  Some people who take proton pump inhibitor (PPI) medicines, including esomeprazole magnesium delayed-release capsules, may develop a kidney problem called acute interstitial nephritis that can happen at any time during treatment with esomeprazole magnesium delayed-release capsules.
+- A type of kidney problem (acute Tubulointerstitial nephritis).
+  Some people who take proton pump inhibitor (PPI) medicines, including esomeprazole magnesium delayed-release capsules, may develop a kidney problem called acute tubulointerstitial nephritis that can happen at any time during treatment with esomeprazole magnesium delayed-release capsules.
   Call your doctor if you have a decrease in the amount that you urinate or if you have blood in your urine.
 - Diarrhea.
   Esomeprazole magnesium delayed-release capsules may increase your risk of getting severe diarrhea.
@@ -148,6 +148,9 @@ Tell your doctor right away if you have any of these symptoms:
 
 Your doctor may check the level of magnesium in your body before you start taking esomeprazole magnesium delayed-release capsules or during treatment if you will be taking esomeprazole magnesium delayed-release capsules for a long period of time.
 
+- Stomach growths (fundic gland polyps).
+  People who take PPI medicines for a long time have an increased risk of developing a certain type of stomach growths called fundic gland polyps, especially after taking PPI medicines for more than 1 year.
+
 The most common side effects with esomeprazole magnesium delayed-release capsules may include:
 
 - headache
@@ -234,7 +237,7 @@ Dr. Reddy’s Laboratories Limited
 
 Bachupally – 500 090 INDIA
 
-Revised: 1218
+Revised: 1220
 
 Dispense with Medication Guide available at:
 
