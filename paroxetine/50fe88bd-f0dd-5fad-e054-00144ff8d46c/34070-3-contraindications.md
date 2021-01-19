@@ -1,12 +1,8 @@
-# CONTRAINDICATIONS
+# 4 CONTRAINDICATIONS
 
-The use of MAOIs intended to treat psychiatric disorders with PEXEVA® or within 14 days of stopping treatment with PEXEVA® is contraindicated because of an increased risk of serotonin syndrome.
-The use of PEXEVA® within 14 days of stopping an MAOI intended to treat psychiatric disorders is also contraindicated (see WARNINGS and DOSAGE AND ADMINISTRATION).
+PEXEVA is contraindicated in patients:
 
-Starting PEXEVA® in a patient who is being treated with MAOIs such as linezolid or intravenous methylene blue is also contraindicated because of an increased risk of serotonin syndrome (see WARNINGS and DOSAGE AND ADMINISTRATION).
-
-Concomitant use in patients taking thioridazine is contraindicated (see WARNINGS and PRECAUTIONS).
-
-Concomitant use in patients taking pimozide is contraindicated (see PRECAUTIONS).
-
-PEXEVA® (paroxetine mesylate) tablets are contraindicated in patients with a hypersensitivity to paroxetine or any of the inactive ingredients in PEXEVA® (paroxetine mesylate) tablets.
+- Taking, or within 14 days of stopping, MAOIs (including the MAOIs linezolid and intravenous methylene blue) because of an increased risk of serotonin syndrome [see Warnings and Precautions (5.2), Drug Interaction (7)].
+- Taking thioridazine because of risk of QT prolongation [see Warnings and Precautions (5.3), Drug Interaction (7)].
+- Taking pimozide because of risk of QT prolongation [see Warnings and Precautions (5.3), Drug Interaction (7)].
+- With known hypersensitivity (e.g., anaphylaxis, angioedema, Stevens-Johnson syndrome) to paroxetine or to any of the inactive ingredients in PEXEVA [see Adverse Reactions (6.2, 6.3)]

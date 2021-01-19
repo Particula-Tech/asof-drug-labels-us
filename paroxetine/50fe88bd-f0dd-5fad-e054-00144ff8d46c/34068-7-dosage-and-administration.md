@@ -1,88 +1,39 @@
-# DOSAGE AND ADMINISTRATION
+# 2 DOSAGE AND ADMINISTRATION
 
-## Major Depressive Disorder
+## 2.1 Administration Information
 
-Usual Initial Dosage: PEXEVA® (paroxetine mesylate) should be administered as a single daily dose with or without food, usually in the morning.
-The recommended initial dose is 20 mg/day.
-Patients were dosed in a range of 20 to 50 mg/day in the clinical trials demonstrating the effectiveness of paroxetine in the treatment of MDD.
-As with all drugs effective in the treatment of MDD, the full effect may be delayed.
-Some patients not responding to a 20 mg dose may benefit from dose increases, in 10 mg/day increments, up to a maximum of 50 mg/day.
-Dose changes should occur at intervals of at least 1 week.
+Administer PEXEVA as a single daily dose in the morning, with or without food.
 
-Maintenance Therapy: There is no body of evidence available to answer the question of how long the patient treated with paroxetine should remain on it.
-It is generally agreed that acute episodes of MDD require several months or longer of sustained pharmacologic therapy.
-Whether the dose needed to induce remission is identical to the dose needed to maintain and/or sustain euthymia is unknown.
+## 2.2 Recommended Dosage
 
-Systematic evaluation of the efficacy of paroxetine has shown that efficacy is maintained for periods of up to 1 year with doses that averaged about 30 mg.
+The recommended initial dosage and maximum dosage of PEXEVA in patients with MDD, OCD, PD, and GAD are presented in Table 1.
 
-## Obsessive Compulsive Disorder
+In patients with an inadequate response, increase dosage in increments of 10 mg per day at intervals of at least 1 week, depending on tolerability.
 
-Usual Initial Dosage: PEXEVA® (paroxetine mesylate) should be administered as a single daily dose with or without food, usually in the morning.
-The recommended dose of paroxetine in the treatment of OCD is 40 mg daily.
-Patients should be started on 20 mg/day and the dose can be increased in 10 mg/day increments.
-Dose changes should occur at intervals of at least 1 week.
-Patients were dosed in a range of 20 to 60 mg/day in the clinical trials demonstrating the effectiveness of paroxetine in the treatment of OCD.
-The maximum dosage should not exceed 60 mg/day.
+TABLE 1: Recommended Daily Dosage of PEXEVA in Patients with MDD, OCD, PD, and GAD
 
-Maintenance Therapy: Long-term maintenance of efficacy was demonstrated in a 6-month relapse prevention trial.
-In this trial, patients with OCD assigned to paroxetine demonstrated a lower relapse rate compared to patients on placebo (see CLINICAL PHARMACOLOGY).
-OCD is a chronic condition, and it is reasonable to consider continuation for a responding patient.
-Dosage adjustments should be made to maintain the patient on the lowest effective dosage, and patients should be periodically reassessed to determine the need for continued treatment.
+| Indication | Starting Dose | Maximum Dose |
+| --- | --- | --- |
+| MDD | 20 mg | 50 mg |
+| OCD | 20 mg | 60 mg |
+| PD | 10 mg | 60 mg |
+| GAD | 20 mg | 50 mg |
 
-## Panic Disorder
+## 2.3 Screen for Bipolar Disorder Prior to Starting PEXEVA
 
-Usual Initial Dosage: PEXEVA® (paroxetine mesylate) should be administered as a single daily dose with or without food, usually in the morning.
-The target dose of paroxetine in the treatment of PD is 40 mg/day.
-Patients should be started on 10 mg/day.
-Dose changes should occur in 10 mg/day increments and at intervals of at least 1 week.
-Patients were dosed in a range of 10 to 60 mg/day in the clinical trials demonstrating the effectiveness of paroxetine.
-The maximum dosage should not exceed 60 mg/day.
+Prior to initiating treatment with PEXEVA or other antidepressant, screen patients for a personal or family history of bipolar disorder, mania, or hypomania [see Warnings and Precautions (5.6)].
 
-Maintenance Therapy: Long-term maintenance of efficacy was demonstrated in a 3-month relapse prevention trial.
-In this trial, patients with PD assigned to paroxetine demonstrated a lower relapse rate compared to patients on placebo (see CLINICAL PHARMACOLOGY).
-PD is a chronic condition, and it is reasonable to consider continuation for a responding patient.
-Dosage adjustments should be made to maintain the patient on the lowest effective dosage, and patients should be periodically reassessed to determine the need for continued treatment.
+## 2.4 Recommended Dosage Modifications for Elderly Patients, Patients with Severe Renal Impairment and Patients with Severe Hepatic Impairment
 
-## Generalized Anxiety Disorder
+The recommended initial dose is 10 mg/day for elderly patients, patients with severe renal impairment and patients with severe hepatic impairment.
+Dosage should not exceed 40 mg/day [see Use in Specific Populations (8.5, 8.6)]
 
-Usual Initial Dosage: PEXEVA® (paroxetine mesylate) should be administered as a single daily dose with or without food, usually in the morning.
-In clinical trials the effectiveness of paroxetine was demonstrated in patients dosed in a range of 20 to 50 mg/day.
-The recommended starting dosage and the established effective dosage is 20 mg/day.
-There is not sufficient evidence to suggest a greater benefit to doses higher than 20 mg/day.
-Dose changes should occur in 10 mg/day increments and at intervals of at least 1 week.
+## 2.5 Switching Patients to or from a Monoamine Oxidase Inhibitor Antidepressant
 
-Maintenance Therapy: Systematic evaluation of continuing paroxetine for periods of up to 24 weeks in patients with GAD who had responded while taking paroxetine during an 8-week acute treatment phase has demonstrated a benefit of such maintenance (see CLINICAL PHARMACOLOGY—Clinical Trials).
-Nevertheless, patients should be periodically reassessed to determine the need for maintenance treatment.
+At least 14 days must elapse between discontinuation of a monoamine oxidase inhibitor (MAOI) antidepressant and initiation of PEXEVA.
+In addition, at least 14 days must elapse after stopping PEXEVA before starting an MAOI antidepressant [see Contraindications (4), Warnings and Precautions (5.2)].
 
-## Special Populations
+## 2.6 Discontinuation of Treatment with PEXEVA
 
-Treatment of Pregnant Women During the Third Trimester: Neonates exposed to paroxetine and other SSRIs or SNRIs late in the third trimester have developed complications requiring prolonged hospitalization, respiratory support, and tube feeding (see PRECAUTIONS).
-When treating pregnant women with paroxetine during the third trimester, the physician should carefully consider the potential risks and benefits of treatment.
-
-Dosage for Elderly or Debilitated, and Patients with Severe Renal or Hepatic Impairment: The recommended initial dose is 10 mg/day for elderly patients, debilitated patients, and/or patients with severe renal or hepatic impairment.
-Increases may be made if indicated.
-Dosage should not exceed 40 mg/day.
-
-Switching a Patient To or From a Monoamine Oxidase Inhibitor (MAOI) Intended to Treat Psychiatric Disorders:
-
-At least 14 days should elapse between discontinuation of an MAOI intended to treat psychiatric disorders and initiation of therapy with PEXEVA®.
-Conversely, at least 14 days should be allowed after stopping PEXEVA® before starting an MAOI intended to treat psychiatric disorders (see CONTRAINDICATIONS).
-
-Use of PEXEVA® With Other MAOIs, Such as Linezolid or Methylene Blue:
-
-Do not start PEXEVA® in a patient who is being treated with linezolid or intravenous methylene blue because there is increased risk of serotonin syndrome.
-In a patient who requires more urgent treatment of a psychiatric condition, other interventions, including hospitalization, should be considered (see CONTRAINDICATIONS).
-
-In some cases, a patient already receiving PEXEVA® therapy may require urgent treatment with linezolid or intravenous methylene blue.
-If acceptable alternatives to linezolid or intravenous methylene blue treatment are not available and the potential benefits of linezolid or intravenous methylene blue treatment are judged to outweigh the risks of serotonin syndrome in a particular patient, PEXEVA® should be stopped promptly, and linezolid or intravenous methylene blue can be administered.
-The patient should be monitored for symptoms of serotonin syndrome for 2 weeks or until 24 hours after the last dose of linezolid or intravenous methylene blue, whichever comes first.
-Therapy with PEXEVA® may be resumed 24 hours after the last dose of linezolid or intravenous methylene blue (see WARNINGS).
-
-The risk of administering methylene blue by non-intravenous routes (such as oral tablets or by local injection) or in intravenous doses much lower than 1 mg/kg with PEXEVA® is unclear.
-The clinician should, nevertheless, be aware of the possibility of emergent symptoms of serotonin syndrome with such use (see WARNINGS).
-
-Discontinuation of Treatment with PEXEVA® (paroxetine mesylate): Symptoms associated with discontinuation of paroxetine have been reported (see PRECAUTIONS).
-Patients should be monitored for these symptoms when discontinuing treatment, regardless of the indication for which paroxetine is being prescribed.
-A gradual reduction in the dose rather than abrupt cessation is recommended whenever possible.
-If intolerable symptoms occur following a decrease in the dose or upon discontinuation of treatment, then resuming the previously prescribed dose may be considered.
-Subsequently, the physician may continue decreasing the dose but at a more gradual rate.
+Adverse reactions may occur upon discontinuation of PEXEVA [see Warnings and Precaution (5.7)].
+Gradually reduce the dosage rather than stopping PEXEVA abruptly whenever possible.

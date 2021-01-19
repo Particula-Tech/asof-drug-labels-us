@@ -1,28 +1,47 @@
-# CLINICAL PHARMACOLOGY
+# 12 CLINICAL PHARMACOLOGY
 
-## Pharmacodynamics
+## 12.1 Mechanism of Action
 
-The efficacy of paroxetine in the treatment of MDD, OCD, panic disorder (PD), and generalized anxiety disorder (GAD) is presumed to be linked to potentiation of serotonergic activity in the central nervous system resulting from inhibition of neuronal reuptake of serotonin (5-hydroxy-tryptamine, 5-HT).
+The mechanism of action of paroxetine in the treatment of major depressive disorder (MDD), obsessive compulsive disorder (OCD), panic disorder (PD), and general anxiety disorder (GAD) is unknown, but is presumed to be linked to potentiation of serotonergic activity in the central nervous system resulting from inhibition of neuronal reuptake of serotonin (5-HT).
+
+## 12.2 Pharmacodynamics
+
 Studies at clinically relevant doses in humans have demonstrated that paroxetine blocks the uptake of serotonin into human platelets.
 In vitro studies in animals also suggest that paroxetine is a potent and highly selective inhibitor of neuronal serotonin reuptake and has only very weak effects on norepinephrine and dopamine neuronal reuptake.
-In vitro radioligand binding studies indicate that paroxetine has little affinity for muscarinic alpha1-, alpha2-, beta-adrenergic-, dopamine (D2)-, 5-HT1-, 5-HT2-, and histamine (H1)-receptors; antagonism of muscarinic, histaminergic, and alpha1-adrenergic receptors has been associated with various anticholinergic, sedative, and cardiovascular effects for other psychotropic drugs.
 
-Because the relative potencies of paroxetine's major metabolites are at most 1/50 of the parent compound, they are essentially inactive.
+## 12.3 Pharmacodynamics
 
-## Pharmacokinetics
+Absorption
 
 Paroxetine mesylate is completely absorbed after oral dosing of the mesylate salt.
 In a study in which normal male subjects (n=25) received paroxetine 30 mg tablets daily for 24 days, steady-state paroxetine concentrations were achieved by approximately 13 days for most subjects, although it may take substantially longer in an occasional patient.
-At steady state, mean values of C max, T max, C min, and T 1/2 were 81.3 ng/ml (CV 41%), 8.1 hr. (CV 56%), 43.2 ng/ml (CV 52%), and 33.2 hr. (CV 52%), respectively.
-The steady-state C max and C min values were about 7 and 10 times what would be predicted from single dose studies.
-Steady-state drug exposure based on AUC 0-24 was about 10 times greater than would have been predicted from single-dose data in these subjects.
+At steady state, mean values of Cmax, Tmax, Cmin, and T1/2 were 81.3 ng/ml (CV 41%), 8.1 hr. (CV 56%), 43.2 ng/ml (CV 52%), and 33.2 hr. (CV 52%), respectively.
+The steady-state Cmax and Cmin values were about 7 and 10 times what would be predicted from single dose studies.
+Steady-state drug exposure based on AUC0-24 was about 10 times greater than would have been predicted from single-dose data in these subjects.
 The excess accumulation is a consequence of the fact that one of the enzymes that metabolizes paroxetine is readily saturable.
 
 In steady-state dose proportionality studies involving elderly and nonelderly patients, at doses of 20 to 40 mg daily for the elderly and 20 to 50 mg daily for the nonelderly, some nonlinearity was observed in both populations, again reflecting a saturable metabolic pathway.
-In comparison to C min values after 20 mg daily, values after 40 mg were only about 2 to 3 times greater than doubled.
+In comparison to Cmin values after 20 mg daily, values after 40 mg were only about 2 to 3 times greater than doubled.
+
+In a meta-analysis of paroxetine from 4 studies done in healthy volunteers following multiple dosing of 20 mg/day to 40 mg/day, males did not exhibit a significantly lower Cmax or AUC than females.
+
+Effect of Food
 
 The effects of food on the bioavailability of paroxetine were studied in subjects administered a single dose with and without food.
-AUC was only slightly increased (6%) when drug was administered with food but the C max was 29% greater, while the time to reach peak plasma concentration decreased from 6.4 hours post-dosing to 4.9 hours.
+AUC was only slightly increased (6%) when drug was administered with food but the Cmax was 29% greater, while the time to reach peak plasma concentration decreased from 6.4 hours post-dosing to 4.9 hours.
+
+Distribution
+
+Paroxetine distributes throughout the body, including the CNS, with only 1% remaining in the plasma.
+Approximately 95% and 93% of paroxetine is bound to plasma protein at 100 ng/ml and 400 ng/ml, respectively.
+Under clinical conditions, paroxetine concentrations would normally be less than 400 ng/ml.
+Paroxetine does not alter the in vitro protein binding of phenytoin or warfarin.
+
+Elimination
+
+Metabolism
+
+The elimination half-life is approximately 15 to 20 hours after a single dose of PEXEVA.
 
 Paroxetine is extensively metabolized after oral administration.
 The principal metabolites are polar and conjugated products of oxidation and methylation, which are readily cleared.
@@ -30,109 +49,67 @@ Conjugates with glucuronic acid and sulfate predominate, and major metabolites h
 Data indicate that the metabolites have no more than 1/50 the potency of the parent compound at inhibiting serotonin uptake.
 The metabolism of paroxetine is accomplished in part by cytochrome CYP2D6.
 Saturation of this enzyme at clinical doses appears to account for the nonlinearity of paroxetine kinetics with increasing dose and increasing duration of treatment.
-The role of this enzyme in paroxetine metabolism also suggests potential drug-drug interactions (see PRECAUTIONS).
+The role of this enzyme in paroxetine metabolism also suggests potential drug-drug interactions [see Drug interactions (7)].
+Pharmacokinetic behavior of paroxetine has not been evaluated in subjects who are deficient in CYP2D6 (poor metabolizers).
+
+Excretion
 
 Approximately 64% of a 30 mg oral solution dose of paroxetine was excreted in the urine with 2% as the parent compound and 62% as metabolites over a 10-day post-dosing period.
 About 36% was excreted in the feces (probably via the bile), mostly as metabolites and less than 1% as the parent compound over the 10-day post-dosing period.
 
-In a meta analysis of paroxetine from 4 studies done in healthy volunteers following multiple dosing of 20 mg/day to 40 mg/day, males did not exhibit a significantly lower C max or AUC than females.
+Paroxetine metabolism is mediated in part by CYP2D6, and the metabolites are primarily excreted in the urine and to some extent in the feces.
 
-Distribution: Paroxetine distributes throughout the body, including the CNS, with only 1% remaining in the plasma.
+Drug Interaction Studies:
 
-Protein Binding: Approximately 95% and 93% of paroxetine is bound to plasma protein at 100 ng/ml and 400 ng/ml, respectively.
-Under clinical conditions, paroxetine concentrations would normally be less than 400 ng/ml.
-Paroxetine does not alter the in vitro protein binding of phenytoin or warfarin.
+There are clinically significant drug interactions between paroxetine and other drugs [see Drug Interactions (7)].
 
-Renal and Liver Disease: Increased plasma concentrations of paroxetine occur in subjects with renal and hepatic impairment.
-The mean plasma concentrations in patients with creatinine clearance below 30 ml/min was approximately 4 times greater than seen in normal volunteers.
-Patients with creatinine clearance of 30 to 60 ml/min and patients with hepatic functional impairment had about a 2-fold increase in plasma concentrations (AUC, C max).
+Potential Effect of PEXEVA on Other Drugs
 
-The initial dosage should therefore be reduced in patients with severe renal or hepatic impairment, and upward titration, if necessary, should be at increased intervals (see DOSAGE AND ADMINISTRATION).
+Drugs Metabolized by CYP3A4
 
-Elderly Patients: In a multiple-dose study in the elderly at daily paroxetine doses of 20, 30, and 40 mg, C min concentrations were about 70% to 80% greater than the respective C min concentrations in nonelderly subjects.
-Therefore the initial dosage in the elderly should be reduced (see DOSAGE AND ADMINISTRATION).
+An in vivo drug interaction study involving the co-administration under steady-state conditions of paroxetine and terfenadine, a substrate for cytochrome CYP3A4, revealed no effect of paroxetine on terfenadine pharmacokinetics.
+In vitro studies have shown ketoconazole, a potent inhibitor of CYP3A4 activity, to be at least 100 times more potent than paroxetine as an inhibitor of the metabolism of several substrates for CYP3A4, including astemizole, triazolam, and cyclosporine.
+Based on the assumption that the relationship between paroxetine’s in vitro Ki and its lack of effect on terfenadine’s in vivo clearance predicts its effect on other CYP3A4 substrates, paroxetine’s extent of inhibition of CYP3A4 activity is not likely to be of clinical significance.
 
-Drug-Drug Interactions:In vitro drug interaction studies reveal that paroxetine inhibits CYP2D6.
-Clinical drug interaction studies have been performed with substrates of CYP2D6 and show that paroxetine can inhibit the metabolism of drugs metabolized by CYP2D6 including desipramine, risperidone, and atomoxetine (see PRECAUTIONS—Drug Interactions).
+Drugs Metabolized by CYP2D6
 
-## Clinical Trials
+Pimozide: Higher doses of paroxetine have been shown to elevate plasma levels of pimozide.
+In a controlled study of healthy volunteers, after paroxetine was titrated to 60 mg daily, co-administration of a single dose of 2 mg pimozide was associated with mean increases in pimozide AUC of 151% and Cmax of 62%, compared to pimozide administered alone [see Drug Interactions (7.1)].
 
-### Major Depressive Disorder
+Tamoxifen: It is uncertain whether the co-administration of paroxetine and tamoxifen has a significant adverse effect on the efficacy of tamoxifen.
+Some studies have shown that the efficacy of tamoxifen, as measured by the risk of breast cancer relapse/mortality, may be reduced when co-prescribed with paroxetine as a result of paroxetine’s irreversible inhibition of CYP2D6.
+However, other studies have failed to demonstrate such a risk [see Warnings and Precautions (5.11) and Drug Interactions (7.1)].
 
-The efficacy of paroxetine as a treatment for MDD has been established in 6 placebo-controlled studies of patients with MDD (ages 18 to 73).
-In these studies paroxetine was shown to be significantly more effective than placebo in treating MDD by at least 2 of the following measures: Hamilton Depression Rating Scale (HDRS), the Hamilton depressed mood item, and the Clinical Global Impression (CGI)-Severity of Illness.
-Paroxetine was significantly better than placebo in improvement of the HDRS sub-factor scores, including the depressed mood item, sleep disturbance factor, and anxiety factor.
+Desipramine: In one study, daily dosing of paroxetine (20 mg once daily) under steady-state conditions increased single dose desipramine (100 mg) Cmax, AUC, and T1/2 by an average of approximately 2-, 5-, and 3-fold, respectively [see Drug Interactions (7.1)].
 
-A study of outpatients with MDD who had responded to paroxetine (HDRS total score <8) during an initial 8-week open treatment phase and were then randomized to continuation on paroxetine or placebo for 1 year demonstrated a significantly lower relapse rate for patients taking paroxetine (15%) compared to those on placebo (39%).
-Effectiveness was similar for male and female patients.
+Risperidone: Daily dosing of paroxetine 20 mg in patients stabilized on risperidone (4 to 8 mg/day), a CYP2D6 substrate, increased mean plasma concentrations of risperidone approximately 4-fold, decreased 9-hydroxyrisperidone concentrations approximately 10%, and increased concentrations of the active moiety (the sum of risperidone plus 9-hydroxyrisperidone) approximately 1.4-fold [see Drug Interactions (7.1)].
 
-### Obsessive Compulsive Disorder
+Atomoxetine: The effect of paroxetine on the pharmacokinetics of atomoxetine has been evaluated when both drugs were at steady state.
+In healthy volunteers who were extensive metabolizers of CYP2D6, paroxetine 20 mg daily was given in combination with 20 mg atomoxetine every 12 hours.
+This resulted in increases in steady-state atomoxetine AUC values that were 6- to 8-fold greater and in atomoxetine Cmax values that were 3- to 4-fold greater than when atomoxetine was given alone [see Drug Interactions (7.1)].
 
-The effectiveness of paroxetine in the treatment OCD was demonstrated in two 12-week multicenter placebo-controlled studies of adult outpatients (Studies 1 and 2).
-Patients in all studies had moderate to severe OCD (DSM-IIIR) with mean baseline ratings on the Yale Brown Obsessive Compulsive Scale (YBOCS) total score ranging from 23 to 26.
-Study 1, a dose-range finding study where patients were treated with fixed doses of 20, 40, or 60 mg of paroxetine/day demonstrated that daily doses of paroxetine 40 and 60 mg are effective in the treatment of OCD.
-Patients receiving doses of 40 and 60 mg paroxetine experienced a mean reduction of approximately 6 and 7 points, respectively, on the YBOCS total score which was significantly greater than the approximate 4-point reduction at 20 mg and a 3-point reduction in the placebo-treated patients.
-Study 2 was a flexible dose study comparing paroxetine (20 to 60 mg daily) with clomipramine (25 to 250 mg daily).
-In this study, patients receiving paroxetine experienced a mean reduction of approximately 7 points on the YBOCS total score, which was significantly greater than the mean reduction of approximately 4 points in the placebo-treated patients.
+Digoxin: Mean digoxin AUC at steady state decreased by 15% in the presence of paroxetine [see Drug Interactions (7.1)].
 
-The following table provides the outcome classification by treatment group on Global Improvement items of the Clinical Global Impressions (CGI) scale for Study 1.
+Beta Blockers: In a study in which propranolol (80 mg twice daily) was dosed orally for 18 days, the steady-state plasma concentrations of propranolol were unaltered during co-administration with paroxetine (30 mg once daily) for the final 10 days.
+The effects of propranolol on paroxetine have not been evaluated.
 
-Outcome Classification (%) on CGI-Global Improvement Item for Completers in Study 1
+Potential Effect of Other Drugs on PEXEVA
 
-| Outcome Classification | Placebo (N=74) | Paroxetine 20 mg (N=75) | Paroxetine 40 mg (N=66) | Paroxetine 60 mg (N=66) |
-| --- | --- | --- | --- | --- |
-| Worse | 14% | 7% | 7% | 3% |
-| No Change | 44% | 35% | 22% | 19% |
-| Minimally Improved | 24% | 33% | 29% | 34% |
-| Much Improved | 11% | 18% | 22% | 24% |
-| Very Much Improved | 7% | 7% | 20% | 20% |
+Concomitant use of paroxetine with other drugs that alter CYP enzymes activities including CYP2D6 may affect the plasma concentrations of paroxetine.
+Specific studies investigating the effect of other drugs on paroxetine are listed below:
 
-Subgroup analyses did not indicate that there were any differences in treatment outcomes as a function of age or gender.
+Cimetidine: Cimetidine inhibits many cytochrome P450 enzymes.
+In a study in which paroxetine (30 mg once daily) was dosed orally for 4 weeks, steady-state plasma concentrations of paroxetine were increased by approximately 50% during co-administration with oral cimetidine (300 mg three times daily) for the final week [see Drug Interactions (7.2)].
 
-The long-term maintenance effects of paroxetine in OCD were demonstrated in a long-term extension to Study 1.
-Patients who were responders on paroxetine during the 3-month double-blind phase and a 6-month extension on open-label paroxetine (20 to 60 mg/day) were randomized to either paroxetine or placebo in a 6-month double-blind relapse prevention phase.
-Patients randomized to paroxetine were significantly less likely to relapse than comparably treated patients who were randomized to placebo.
+Phenobarbital: Phenobarbital induces many cytochrome P450 enzymes.
+When a single oral 30 mg dose of paroxetine was administered at phenobarbital steady state (100 mg once daily for 14 days), paroxetine AUC and T1/2 were reduced (by an average of 25% and 38%, respectively) compared to paroxetine administered alone.
+The effect of paroxetine on phenobarbital pharmacokinetics was not studied.
+Because paroxetine exhibits nonlinear pharmacokinetics, the results of this study may not address the case where the 2 drugs are both being chronically dosed [see Drug Interactions (7.2)].
 
-### Panic Disorder
+Phenytoin: When a single oral 30 mg dose of paroxetine was administered at phenytoin steady state (300 mg once daily for 14 days), paroxetine AUC and T1/2 were reduced (by an average of 50% and 35%, respectively) compared to paroxetine administered alone.
+In a separate study, when a single oral 300 mg dose of phenytoin was administered at paroxetine steady state (30 mg once daily for 14 days), phenytoin AUC was slightly reduced (12% on average) compared to phenytoin administered alone.
+Because both drugs exhibit nonlinear pharmacokinetics, the above studies may not address the case where the 2 drugs are both being chronically dosed [see Drug Interactions (7.2)].
 
-The effectiveness of paroxetine in the treatment of PD was demonstrated in three 10- to 12-week multicenter, placebo-controlled studies of adult outpatients (Studies 1-3).
-Patients in all studies had PD (DSM-IIIR), with or without agoraphobia.
-In these studies, paroxetine was shown to be significantly more effective than placebo in treating PD by at least 2 out of 3 measures of panic attack frequency and on the Clinical Global Impression Severity of Illness score.
+Digoxin: A clinical drug interaction study showed that concurrent use of digoxin did not affect paroxetine exposure.
 
-Study 1 was a 10-week dose-range finding study: patients were treated with fixed paroxetine doses of 10, 20, or 40 mg/day or placebo.
-A significant difference from placebo was observed only for the 40 mg/day group.
-At endpoint, 76% of patients receiving paroxetine 40 mg/day were free of panic attacks, compared to 44% of placebo-treated patients.
-
-Study 2 was a 12-week flexible-dose study comparing paroxetine (10 to 60 mg daily) and placebo.
-At endpoint, 51% of paroxetine patients were free of panic attacks compared to 32% of placebo-treated patients.
-
-Study 3 was a 12-week flexible-dose study comparing paroxetine (10 to 60 mg daily) to placebo in patients concurrently receiving standardized cognitive behavioral therapy.
-At endpoint, 33% of the paroxetine-treated patients showed a reduction to 0 or 1 panic attacks compared to 14% of placebo patients.
-
-In both Studies 2 and 3, the mean paroxetine dose for completers at endpoint was approximately 40 mg/day of paroxetine.
-
-Long-term maintenance effects of paroxetine in PD were demonstrated in an extension to Study 1.
-Patients who were responders during the 10-week double-blind phase and during a 3-month double-blind extension phase were randomized to either paroxetine (10, 20, or 40 mg/day) or placebo in a 3-month double-blind relapse prevention phase.
-Patients randomized to paroxetine were significantly less likely to relapse than comparably treated patients who were randomized to placebo.
-
-Subgroup analyses did not indicate that there were any differences in treatment outcomes as a function of age or gender.
-
-### Generalized Anxiety Disorder
-
-The effectiveness of paroxetine in the treatment of Generalized Anxiety Disorder (GAD) was demonstrated in two 8-week, multicenter, placebo-controlled studies (Studies 1 and 2) of adult outpatients with GAD (DSM-IV).
-
-Study 1 was an 8-week study comparing fixed paroxetine doses of 20 mg or 40 mg/day with placebo.
-Doses of 20 mg or 40 mg of paroxetine were both demonstrated to be significantly superior to placebo on the Hamilton Rating Scale for Anxiety (HAM-A) total score.
-There was not sufficient evidence in this study to suggest a greater benefit for the 40 mg/day dose compared to the 20 mg/day dose.
-
-Study 2 was a flexible-dose study comparing paroxetine (20 mg to 50 mg daily) and placebo.
-Paroxetine demonstrated statistically significant superiority over placebo on the Hamilton Rating Scale for Anxiety (HAM-A) total score.
-A third study, also flexible-dose comparing paroxetine (20 mg to 50 mg daily), did not demonstrate statistically significant superiority of paroxetine over placebo on the Hamilton Rating Scale for Anxiety (HAM-A) total score, the primary outcome.
-
-Subgroup analyses did not indicate differences in treatment outcomes as a function of race or gender.
-There were insufficient elderly patients to conduct subgroup analyses on the basis of age.
-
-In a longer-term trial, 566 patients meeting DSM-IV criteria for GAD, who had responded during a single-blind, 8-week acute treatment phase with 20 to 50 mg/day of paroxetine, were randomized to continuation of paroxetine at their same dose, or to placebo, for up to 24 weeks of observation for relapse.
-Response during the single-blind phase was defined by having a decrease of ≥2 points compared to baseline on the CGI-Severity of Illness scale, to a score of ≤3.
-Relapse during the double-blind phase was defined as an increase of ≥2 points compared to baseline on the CGI-Severity of Illness scale to a score of ≥4, or withdrawal due to lack of efficacy.
-Patients receiving continued paroxetine experienced a significantly lower relapse rate over the subsequent 24 weeks compared to those receiving placebo.
+Diazepam: A clinical drug interaction study showed that concurrent use of diazepam did not affect paroxetine exposure.
