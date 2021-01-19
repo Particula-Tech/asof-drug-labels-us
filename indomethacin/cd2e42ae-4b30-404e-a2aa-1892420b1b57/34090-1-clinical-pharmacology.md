@@ -18,8 +18,8 @@ The relative bioavailability of TIVORBEX 40 mg capsules was compared to indometh
 
 TIVORBEX (indomethacin) 40 mg capsules do not result in an equivalent systemic exposure to 50 mg indomethacin IR capsules.
 
-When taken under fasted conditions, a 20% lower dose of indomethacin in TIVORBEX 40 mg capsules resulted in a 21% lower mean systemic exposure (AUCinf) and an equivalent mean peak concentration (Cmax) compared to 50 mg indomethacin IR capsules.
-The median time to reach peak concentrations (Tmax) was 1.67 hours and 2.02 hours for TIVORBEX capsules and Indomethacin IR capsules, respectively.
+When taken under fasted conditions, a 20% lower dose of indomethacin in TIVORBEX 40 mg capsules resulted in a 21% lower mean systemic exposure (AUC inf) and an equivalent mean peak concentration (C max) compared to 50 mg indomethacin IR capsules.
+The median time to reach peak concentrations (T max) was 1.67 hours and 2.02 hours for TIVORBEX capsules and Indomethacin IR capsules, respectively.
 
 Absorption
 
@@ -30,7 +30,7 @@ Indomethacin is virtually 100% bioavailable, with 90% of the dose absorbed withi
 Administration of TIVORBEX Capsules 20 mg and 40 mg was associated with dose proportional pharmacokinetics.
 
 Taking TIVORBEX with food causes a significant decrease in the rate but not the overall extent of systemic absorption of indomethacin compared to taking TIVORBEX on an empty stomach.
-TIVORBEX capsules results in 46% lower Cmax, 9% lower AUCinf, and 1.33 hours delayed Tmax (1.67 hours during fasted versus 3.00 hours during fed) under the fed condition compared to the fasted condition.
+TIVORBEX capsules results in 46% lower C max, 9% lower AUC inf, and 1.33 hours delayed T max (1.67 hours during fasted versus 3.00 hours during fed) under the fed condition compared to the fasted condition.
 Based on the food effect evaluation on the indomethacin IR capsules, the effect of food on indomethacin pharmacokinetics is comparable between TIVORBEX capsules and indomethacin IR capsules.
 
 Distribution

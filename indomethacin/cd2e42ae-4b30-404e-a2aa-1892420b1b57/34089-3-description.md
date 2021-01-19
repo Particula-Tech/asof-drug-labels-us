@@ -3,7 +3,7 @@
 TIVORBEX (indomethacin) capsule is a nonsteroidal anti-inflammatory drug, available as hard gelatin capsules of 20 mg and 40 mg for oral administration.
 The chemical name is 1-(4-chlorobenzoyl)-5-methoxy-2-methyl-1H-indole-3-acetic acid.
 The molecular weight is 357.8.
-Its molecular formula is C19H16ClNO4, and it has the following chemical structure.
+Its molecular formula is C 19H 16ClNO 4, and it has the following chemical structure.
 
 Indomethacin is a white to yellow crystalline powder.
 It is practically insoluble in water and sparingly soluble in alcohol.
