@@ -7,7 +7,7 @@ Gabapentin prevents pain-related responses in several models of neuropathic pain
 Gabapentin also decreases pain-related responses after peripheral inflammation (carrageenan footpad test, late phase of formulin test), but does not alter immediate pain-related behaviors (rat tail flick test, formalin footpad acute phase).
 The relevance of these models to human pain is not known.
 
-Gabapentin is structurally related to the neurotransmitter GABA (gamma-aminobutyric acid), but it does not modify GABAA or GABAB radioligand binding, it is not converted metabolically into GABA or a GABA agonist, and it is not an inhibitor of GABA uptake or degradation.
+Gabapentin is structurally related to the neurotransmitter GABA (gamma-aminobutyric acid), but it does not modify GABA A or GABA B radioligand binding, it is not converted metabolically into GABA or a GABA agonist, and it is not an inhibitor of GABA uptake or degradation.
 In radioligand binding assays at concentrations up to 100 μM, gabapentin did not exhibit affinity for a number of other receptor sites, including benzodiazepine, glutamate, N-methyl-D-aspartate (NMDA), quisqualate, kainate, strychnine-insensitive or strychnine-sensitive glycine; alpha 1, alpha 2, or beta adrenergic; adenosine A1 or A2; cholinergic, muscarinic, or nicotinic; dopamine D1 or D2; histamine H1; serotonin S1 or S2; opiate mu, delta, or kappa; cannabinoid 1; voltage-sensitive calcium channel sites labeled with nitrendipine or diltiazem; or at voltage-sensitive sodium channel sites labeled with batrachotoxinin A20-alpha-benzoate.
 Gabapentin did not alter the cellular uptake of dopamine, noradrenaline, or serotonin.
 
@@ -27,17 +27,17 @@ Absorption and Bioavailability
 Gabapentin is absorbed from the proximal small bowel by a saturable L-amino transport system.
 Gabapentin bioavailability is not dose proportional; as the dose is increased, bioavailability decreases.
 
-When GRALISE (1800 mg once daily) and gabapentin immediate release (600 mg three times a day) were administered with high fat meals (50% of calories from fat), GRALISE has a higher Cmax and lower AUC at steady state compared to gabapentin immediate release (Table 5).
-Time to reach maximum plasma concentration (Tmax) for GRALISE is 8 hours, which is about 4-6 hours longer compared to gabapentin immediate release.
+When GRALISE (1800 mg once daily) and gabapentin immediate release (600 mg three times a day) were administered with high fat meals (50% of calories from fat), GRALISE has a higher C max and lower AUC at steady state compared to gabapentin immediate release (Table 5).
+Time to reach maximum plasma concentration (T max) for GRALISE is 8 hours, which is about 4-6 hours longer compared to gabapentin immediate release.
 
 Table 5: Mean (SD) Steady-State Pharmacokinetics for GRALISE and Gabapentin Immediate Release in Plasma of Healthy Subjects (Day 5, n = 21)
 
 | Pharmacokinetic Parameters (Mean ± SD) | GRALISE 1800 mg QD | Gabapentin Immediate Release 600 mg TID |
 | --- | --- | --- |
-| AUC0-24 (ng•hr/mL) | 132,808 ± 34,701 | 141,301 ± 29,759 |
-| Cmax (ng/mL) | 9,585 ± 2,326 | 8,536 ± 1,715 |
-| Cmin (ng/mL) | 1,842 ± 654 | 2,588 ± 783 |
-| Tmax (hr) median (range) | 8 (3-12) | 2 (1-5)* |
+| AUC 0-24 (ng•hr/mL) | 132,808 ± 34,701 | 141,301 ± 29,759 |
+| C max (ng/mL) | 9,585 ± 2,326 | 8,536 ± 1,715 |
+| C min (ng/mL) | 1,842 ± 654 | 2,588 ± 783 |
+| T max (hr) median (range) | 8 (3-12) | 2 (1-5)* |
 | * = relative to most recent dose |  |  |
 
 Do not use GRALISE interchangeably with other gabapentin products because of differing pharmacokinetic profiles that affect frequency of administration.
@@ -46,7 +46,7 @@ GRALISE should be taken with evening meals.
 If it is taken on an empty stomach, the bioavailability will be substantially lower.
 
 Administration of GRALISE with food increases the rate and extent of absorption of gabapentin compared to the fasted state.
-Cmax of gabapentin increases 33-84% and AUC of gabapentin increases 33-118% with food depending on the fat content of the meal.
+C max of gabapentin increases 33-84% and AUC of gabapentin increases 33-118% with food depending on the fat content of the meal.
 GRALISE should be taken with food.
 
 Distribution
@@ -58,7 +58,7 @@ Metabolism and Excretion
 
 Gabapentin is eliminated by renal excretion as unchanged drug.
 Gabapentin is not appreciably metabolized in humans.
-In patients with normal renal function given gabapentin immediate release 1200 to 3000 mg/day, the drug elimination half-life (t1/2) was 5 to 7 hours.
+In patients with normal renal function given gabapentin immediate release 1200 to 3000 mg/day, the drug elimination half-life (t 1/2) was 5 to 7 hours.
 Elimination kinetics do not change with dose level or multiple doses.
 
 Gabapentin elimination rate constant, plasma clearance, and renal clearance are directly proportional to creatinine clearance.
@@ -70,9 +70,9 @@ In patients undergoing hemodialysis, GRALISE should not be administered [see Dos
 
 ## 12.4 Special Populations
 
-Renal Insufficiency: As renal function decreases, renal and plasma clearances and the apparent elimination rate constant decrease, while Cmax and t1/2 increase.
+Renal Insufficiency: As renal function decreases, renal and plasma clearances and the apparent elimination rate constant decrease, while C max and t 1/2 increase.
 
-In patients (N=60) with creatinine clearance of at least 60, 30 to 59, or less than 30 mL/min, the median renal clearance rates for a 400 mg single dose of gabapentin immediate release were 79, 36, and 11 mL/min, respectively, and the median t1/2 values were 9.2, 14, and 40 hours, respectively.
+In patients (N=60) with creatinine clearance of at least 60, 30 to 59, or less than 30 mL/min, the median renal clearance rates for a 400 mg single dose of gabapentin immediate release were 79, 36, and 11 mL/min, respectively, and the median t 1/2 values were 9.2, 14, and 40 hours, respectively.
 
 Dosage adjustment is necessary in patients with impaired renal function [see Dosage and Administration (2.2)].
 

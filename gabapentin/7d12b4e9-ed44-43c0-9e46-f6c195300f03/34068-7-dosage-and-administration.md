@@ -20,7 +20,7 @@ Table 1: GRALISE Recommended Titration Schedule
 
 ## 2.2 Patients with Renal Impairment
 
-In patients with stable renal function, creatinine clearance (CCr) can be reasonably well estimated using the equation of Cockcroft and Gault: For females CCr=(0.85)(140-age)(weight)/[(72)(SCr)] For males CCr=(140-age)(weight)/[(72)(SCr)] where age is in years, weight is in kilograms and SCr is serum creatinine in mg/dL.
+In patients with stable renal function, creatinine clearance (C Cr) can be reasonably well estimated using the equation of Cockcroft and Gault: For females C Cr=(0.85)(140-age)(weight)/[(72)(S Cr)] For males C Cr=(140-age)(weight)/[(72)(S Cr)] where age is in years, weight is in kilograms and S Cr is serum creatinine in mg/dL.
 
 The dose of GRALISE should be adjusted in patients with reduced renal function, according to Table 2.
 Patients with reduced renal function must initiate GRALISE at a daily dose of 300 mg.

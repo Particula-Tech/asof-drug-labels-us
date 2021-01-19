@@ -14,4 +14,4 @@ It is not known whether gabapentin has the ability to increase cell proliferatio
 Gabapentin did not demonstrate mutagenic or genotoxic potential in 3 in vitro and 4 in vivo assays.
 It was negative in the Ames test and the in vitro HGPRT forward mutation assay in Chinese hamster lung cells; it did not produce significant increases in chromosomal aberrations in the in vitro Chinese hamster lung cell assay; it was negative in the in vivo chromosomal aberration assay and in the in vivo micronucleus test in Chinese hamster bone marrow; it was negative in the in vivo mouse micronucleus assay; and it did not induce unscheduled DNA synthesis in hepatocytes from rats given gabapentin.
 
-No adverse effects on fertility or reproduction were observed in rats at doses up to 2000 mg/kg (approximately 11 times the maximum recommended human dose on an mg/m2 basis).
+No adverse effects on fertility or reproduction were observed in rats at doses up to 2000 mg/kg (approximately 11 times the maximum recommended human dose on an mg/m 2 basis).

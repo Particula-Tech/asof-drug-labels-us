@@ -2,7 +2,7 @@
 
 In vitro studies were conducted to investigate the potential of gabapentin to inhibit the major cytochrome P450 enzymes (CYP1A2, CYP2A6, CYP2C9, CYP2C19, CYP2D6, CYP2E1, and CYP3A4) that mediate drug and xenobiotic metabolism using isoform selective marker substrates and human liver microsomal preparations.
 Only at the highest concentration tested (171 mcg/mL; 1mM) was a slight degree of inhibition (14% to 30%) of isoform CYP2A6 observed.
-No inhibition of any of the other isoforms tested was observed at gabapentin concentrations up to 171 mcg/mL (approximately 15 times the Cmax at 3600 mg/day).
+No inhibition of any of the other isoforms tested was observed at gabapentin concentrations up to 171 mcg/mL (approximately 15 times the C max at 3600 mg/day).
 
 Gabapentin is not appreciably metabolized nor does it interfere with the metabolism of commonly coadministered antiepileptic drugs.
 
@@ -34,7 +34,7 @@ The effect of coadministration of these drugs at therapeutic doses is not known.
 
 ## 7.6 Hydrocodone
 
-Coadministration of gabapentin immediate release (125 mg and 500 mg) and hydrocodone (10 mg) reduced hydrocodone Cmax by 3% and 21%, respectively, and AUC by 4% and 22%, respectively.
+Coadministration of gabapentin immediate release (125 mg and 500 mg) and hydrocodone (10 mg) reduced hydrocodone C max by 3% and 21%, respectively, and AUC by 4% and 22%, respectively.
 The mechanism of this interaction is unknown.
 Gabapentin AUC values were increased by 14%; the magnitude of the interaction at other doses is not known.
 
@@ -52,7 +52,7 @@ This decrease is not expected to be clinically significant.
 
 ## 7.9 Oral Contraceptives
 
-Gabapentin immediate release (400 mg three times daily) had no effect on the pharmacokinetics of norethindrone (2.5 mg) or ethinyl estradiol (50 mcg) administered as a single tablet, except that the Cmax of norethindrone was increased by 13%.
+Gabapentin immediate release (400 mg three times daily) had no effect on the pharmacokinetics of norethindrone (2.5 mg) or ethinyl estradiol (50 mcg) administered as a single tablet, except that the C max of norethindrone was increased by 13%.
 This interaction is not considered to be clinically significant.
 
 ## 7.10 Antacid (containing aluminum hydroxide and magnesium hydroxide)

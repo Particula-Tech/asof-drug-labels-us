@@ -3,14 +3,14 @@
 ## 8.1 Pregnancy
 
 Pregnancy Category C: Gabapentin has been shown to be fetotoxic in rodents, causing delayed ossification of several bones in the skull, vertebrae, forelimbs, and hindlimbs.
-These effects occurred when pregnant mice received oral doses of 1000 or 3000 mg/kg/day during the period of organogenesis, or approximately 3 to 8 times the maximum dose of 1800 mg/day given to PHN patients on a mg/m2 basis.
-The no effect level was 500 mg/kg/day representing approximately the maximum recommended human dose [MRHD] on a mg/m2 body surface area (BSA) basis.
+These effects occurred when pregnant mice received oral doses of 1000 or 3000 mg/kg/day during the period of organogenesis, or approximately 3 to 8 times the maximum dose of 1800 mg/day given to PHN patients on a mg/m 2 basis.
+The no effect level was 500 mg/kg/day representing approximately the maximum recommended human dose [MRHD] on a mg/m 2 body surface area (BSA) basis.
 When rats were dosed prior to and during mating, and throughout gestation, pups from all dose groups (500, 1000 and 2000 mg/kg/day) were affected.
-These doses are equivalent to approximately 3 to 11 times the MRHD on a mg/m2 BSA basis.
+These doses are equivalent to approximately 3 to 11 times the MRHD on a mg/m 2 BSA basis.
 There was an increased incidence of hydroureter and/or hydronephrosis in rats in a study of fertility and general reproductive performance at 2000 mg/kg/day with no effect at 1000 mg/kg/day, in a teratology study at 1500 mg/kg/day with no effect at 300 mg/kg/day, and in a perinatal and postnatal study at all doses studied (500, 1000 and 2000 mg/kg/day).
-The doses at which the effects occurred are approximately 3 to 11 times the maximum human dose of 1800 mg/day on a mg/m2 basis; the no-effect doses were approximately 5 times (Fertility and General Reproductive Performance study) and approximately equal to (Teratogenicity study) the maximum human dose on a mg/m2 BSA basis.
-Other than hydroureter and hydronephrosis, the etiologies of which are unclear, the incidence of malformations was not increased compared to controls in offspring of mice, rats, or rabbits given doses up to 100 times (mice), 60 times (rats), and 50 times (rabbits) the human daily dose on a mg/kg basis, or 8 times (mice), 10 times (rats), or 16 times (rabbits) the human daily dose on a mg/m2 BSA basis.
-In a teratology study in rabbits, an increased incidence of postimplantation fetal loss occurred in dams exposed to 60, 300, and 1500 mg/kg/day, or 0.6 to 16 times the maximum human dose on a mg/m2 BSA basis.
+The doses at which the effects occurred are approximately 3 to 11 times the maximum human dose of 1800 mg/day on a mg/m 2 basis; the no-effect doses were approximately 5 times (Fertility and General Reproductive Performance study) and approximately equal to (Teratogenicity study) the maximum human dose on a mg/m 2 BSA basis.
+Other than hydroureter and hydronephrosis, the etiologies of which are unclear, the incidence of malformations was not increased compared to controls in offspring of mice, rats, or rabbits given doses up to 100 times (mice), 60 times (rats), and 50 times (rabbits) the human daily dose on a mg/kg basis, or 8 times (mice), 10 times (rats), or 16 times (rabbits) the human daily dose on a mg/m 2 BSA basis.
+In a teratology study in rabbits, an increased incidence of postimplantation fetal loss occurred in dams exposed to 60, 300, and 1500 mg/kg/day, or 0.6 to 16 times the maximum human dose on a mg/m 2 BSA basis.
 There are no adequate and well-controlled studies in pregnant women.
 This drug should be used during pregnancy only if the potential benefit justifies the potential risk to the fetus.
 

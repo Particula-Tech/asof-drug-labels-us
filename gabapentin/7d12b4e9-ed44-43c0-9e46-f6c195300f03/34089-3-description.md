@@ -1,6 +1,6 @@
 # 11 DESCRIPTION
 
-Gabapentin is 1-(aminomethyl)cyclohexaneacetic acid; γ-amino-2-cyclohexyl-butyric acid with a molecular formula of C9H17NO2 and a molecular weight of 171.24.
+Gabapentin is 1-(aminomethyl)cyclohexaneacetic acid; γ-amino-2-cyclohexyl-butyric acid with a molecular formula of C 9H 17NO 2 and a molecular weight of 171.24.
 
 The structural formula is:
 
