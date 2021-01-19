@@ -12,9 +12,9 @@ The major efficacy outcome measure was overall response rate (ORR).
 A total of 67 patients received DARZALEX FASPRO with VMP.
 The median age was 75 years (range: 66 to 86); 46% were male; 69% were White, 8% Asian, and 2% Black or African American; and 33% had ISS Stage I, 45% had ISS Stage II, and 22% had ISS Stage III disease.
 
-Efficacy results are summarized in Table 10
+Efficacy results are summarized in Table 11.
 
-Table 10: Efficacy Results from PLEIADES in Patients Who Received D-VMP
+Table 11: Efficacy Results from PLEIADES in Patients Who Received D-VMP
 
 |  | D-VMP (N=67) |
 | --- | --- |
@@ -39,9 +39,9 @@ The median age was 69 years (range: 33 to 82); 69% were male; 69% were White, an
 Patients had received a median of 1 prior line of therapy.
 A total of 52% of patients had a prior ASCT; 95% of patients received a prior PI; 59% received a prior immunomodulatory agent, including 22% who received prior lenalidomide; and 54% of patients received both a prior PI and immunomodulatory agent.
 
-Efficacy results are summarized in Table 11.
+Efficacy results are summarized in Table 12.
 
-Table 11: Efficacy Results from PLEIADES in Patients Who Received D-Rd
+Table 12: Efficacy Results from PLEIADES in Patients Who Received D-Rd
 
 |  | D-Rd (N=65) |
 | --- | --- |
@@ -71,9 +71,9 @@ Eighty-two percent of patients were refractory to their last line of prior syste
 
 The results show that DARZALEX FASPRO 1,800 mg/30,000 units administered subcutaneously is non-inferior to daratumumab 16 mg/kg administered intravenously in terms of ORR and maximum trough concentration [see Clinical Pharmacology (12.3)].
 Median progression-free survival was 5.6 months in the DARZALEX FASPRO arm and 6.1 months in the intravenous daratumumab arm.
-ORR results are provided in Table 12.
+ORR results are provided in Table 13.
 
-Table 12: Efficacy Results from COLUMBA
+Table 13: Efficacy Results from COLUMBA
 
 |  | DARZALEX FASPRO (N=263) | Intravenous Daratumumab (N=259) |
 | --- | --- | --- |
