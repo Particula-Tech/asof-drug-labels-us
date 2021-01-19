@@ -2,11 +2,17 @@
 
 ## 13.1 Carcinogenesis, Mutagenesis, Impairment of Fertility
 
-Carcinogenesis: Carcinogenicity studies of 2 years' duration did not reveal any carcinogenic potential at exposures 75-fold and 140-fold the human exposure (based on AUC) in male and female mice, respectively, and 8.3- and 42-fold in male and female rats, respectively.
+Carcinogenesis
 
-Mutagenesis: Macitentan was not genotoxic in a standard battery of in vitro and in vivo assays that included a bacterial reverse mutation assay, an assay for gene mutations in mouse lymphoma cells, a chromosome aberration test in human lymphocytes, and an in vivo micronucleus test in rats.
+Carcinogenicity studies of 2 years' duration did not reveal any carcinogenic potential at exposures 75-fold and 140-fold the human exposure (based on AUC) in male and female mice, respectively, and 8.3- and 42-fold in male and female rats, respectively.
 
-Impairment of Fertility: Treatment of juvenile rats from postnatal Day 4 to Day 114 led to reduced body weight gain and testicular tubular atrophy at exposures 7-fold the human exposure.
+Mutagenesis
+
+Macitentan was not genotoxic in a standard battery of in vitro and in vivo assays that included a bacterial reverse mutation assay, an assay for gene mutations in mouse lymphoma cells, a chromosome aberration test in human lymphocytes, and an in vivo micronucleus test in rats.
+
+Impairment of Fertility
+
+Treatment of juvenile rats from postnatal Day 4 to Day 114 led to reduced body weight gain and testicular tubular atrophy at exposures 7-fold the human exposure.
 Fertility was not affected.
 
 Reversible testicular tubular dilatation was observed in chronic toxicity studies at exposures greater than 7-fold and 23-fold the human exposure in rats and dogs, respectively.

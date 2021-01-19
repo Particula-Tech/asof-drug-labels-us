@@ -20,14 +20,14 @@ Notable requirements of the OPSUMIT REMS Program include the following:
 - Pharmacies must be certified with the program and must only dispense to patients who are authorized to receive OPSUMIT.
 
 Further information is available at www.OPSUMITREMS.com or 1-866-228-3546.
-Information on OPSUMIT certified pharmacies or wholesale distributors is available through Actelion Pathways at 1-866-228-3546.
+Information on OPSUMIT certified pharmacies or wholesale distributors is available at 1-866-228-3546.
 
 ## 5.3 Hepatotoxicity
 
 ERAs have caused elevations of aminotransferases, hepatotoxicity, and liver failure.
 The incidence of elevated aminotransferases in the study of OPSUMIT in PAH is shown in Table 1.
 
-Table 1 Incidence of Elevated Aminotransferases in the SERAPHIN Study
+Table 1: Incidence of Elevated Aminotransferases in the SERAPHIN Study
 
 |  | OPSUMIT 10 mg (N=242) | Placebo (N=249) |
 | --- | --- | --- |

@@ -1,5 +1,7 @@
-Manufactured for: Actelion Pharmaceuticals US, Inc. 5000 Shoreline Court, Ste.
-200 South San Francisco, CA 94080, USA
+Made in Switzerland.
 
-© 2019 Actelion Pharmaceuticals US, Inc. All rights reserved.
-ACT20190423
+Manufactured for: Actelion Pharmaceuticals US, Inc., a Janssen Pharmaceutical Company South San Francisco, CA 94080, USA
+
+©2013 - 2019 Actelion Pharmaceuticals US, Inc. All rights reserved.
+
+JN20210112

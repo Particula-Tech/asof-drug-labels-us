@@ -26,7 +26,7 @@ The beneficial effect of OPSUMIT 10 mg was primarily attributable to a reduction
 
 Figure 2 Kaplan-Meier Estimates of the Occurrence of the Primary Endpoint Event in the SERAPHIN Study
 
-Table 3 Summary of Primary Endpoint Events
+Table 3: Summary of Primary Endpoint Events
 
 |  | Placebo N=250 n (%) | OPSUMIT 10 mg N=242 n (%) |
 | --- | --- | --- |
@@ -50,7 +50,7 @@ The risk of PAH related death or hospitalization for PAH was reduced by 50% in p
 
 Figure 4 Kaplan-Meier Estimates of the Occurrence of Death due to PAH or Hospitalization for PAH in SERAPHIN
 
-Table 4 Summary of Death due to PAH and Hospitalization due to PAH
+Table 4: Summary of Death due to PAH and Hospitalization due to PAH
 
 |  | Placebo (N=250) n (%) | OPSUMIT 10 mg (N=242) n (%) |
 | --- | --- | --- |
@@ -69,4 +69,4 @@ Long-Term Treatment of PAH
 
 In long-term follow-up of patients who were treated with OPSUMIT 10 mg in the placebo-controlled study (N=242) and the open-label extension study, Kaplan-Meier estimates of survival at 1, 2, 5, and 7 years were 95%, 89%, 73%, and 63% respectively.
 The median exposure to OPSUMIT was 4.6 years.
-These uncontrolled observations do not allow comparison with a group not given Opsumit and cannot be used to determine the long term-effect of Opsumit on mortality.
+These uncontrolled observations do not allow comparison with a group not given OPSUMIT and cannot be used to determine the long term-effect of OPSUMIT on mortality.

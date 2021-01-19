@@ -12,10 +12,14 @@ The clinical impact of dual endothelin blockage is unknown.
 
 ## 12.2 Pharmacodynamics
 
-Pulmonary Hemodynamics: The clinical efficacy study in patients with pulmonary arterial hypertension assessed hemodynamic parameters in a subset of patients after 6 months of treatment.
+Pulmonary Hemodynamics
+
+The clinical efficacy study in patients with pulmonary arterial hypertension assessed hemodynamic parameters in a subset of patients after 6 months of treatment.
 Patients treated with OPSUMIT 10 mg (N=57) achieved a median reduction of 37% (95% CI 22-49) in pulmonary vascular resistance and an increase of 0.6 L/min/m2 (95% CI 0.3-0.9) in cardiac index compared to placebo (N=67).
 
-Cardiac Electrophysiology: In a randomized, placebo-controlled four-way crossover study with a positive control in healthy subjects, repeated doses of macitentan 10 and 30 mg (3 times the recommended dosage) had no significant effect on the QTc interval.
+Cardiac Electrophysiology
+
+In a randomized, placebo-controlled four-way crossover study with a positive control in healthy subjects, repeated doses of macitentan 10 and 30 mg (3 times the recommended dosage) had no significant effect on the QTc interval.
 
 ## 12.3 Pharmacokinetics
 
@@ -47,15 +51,15 @@ Special Populations
 
 There are no clinically relevant effects of age, sex, or race on the pharmacokinetics of macitentan and its active metabolite.
 
-Renal impairment: Exposure to macitentan and its active metabolite in patients with severe renal impairment (CrCl 15-29 mL/min) compared to healthy subjects was increased by 30% and 60%, respectively.
+Renal Impairment Exposure to macitentan and its active metabolite in patients with severe renal impairment (CrCl 15-29 mL/min) compared to healthy subjects was increased by 30% and 60%, respectively.
 This increase is not considered clinically relevant.
 
-Hepatic impairment: Exposure to macitentan was decreased by 21%, 34%, and 6% and exposure to the active metabolite was decreased by 20%, 25%, and 25% in subjects with mild, moderate, or severe hepatic impairment (Child-Pugh Class A, B, and C), respectively.
+Hepatic Impairment Exposure to macitentan was decreased by 21%, 34%, and 6% and exposure to the active metabolite was decreased by 20%, 25%, and 25% in subjects with mild, moderate, or severe hepatic impairment (Child-Pugh Class A, B, and C), respectively.
 This decrease is not considered clinically relevant.
 
 Drug Interactions
 
-In vitro studies
+In Vitro Studies
 
 At plasma levels obtained with dosing at 10 mg once daily, macitentan has no relevant inhibitory or inducing effects on CYP enzymes.
 Macitentan is not a substrate or inhibitor of multi-drug resistance protein (P-gp, MDR-1).
@@ -63,9 +67,9 @@ The active metabolite of macitentan also is not an inhibitor of P-gp/MDR-1 at cl
 
 Macitentan and its active metabolite are not expected to have significant interaction with drug transporters such as organic anion transporting polypeptide (OATP1B1, OATP1B3), multidrug and toxin extrusion protein (MATE-1, MATE-2K), bile salt export pump (BSEP), sodium-taurocholate co-transporting polypeptide (NTCP), organic cation transporter (OCT-1, OCT-3), organic anion transporter (OAT-1, OAT-3) or BCRP transporter at clinically relevant plasma concentrations.
 
-In vivo studies
+In Vivo Studies
 
-Effect of other drugs on macitentan: The effect of other drugs on macitentan and its active metabolite are studied in healthy subjects and are shown in Figure 1 below.
+Effect of other drugs on macitentan The effect of other drugs on macitentan and its active metabolite are studied in healthy subjects and are shown in Figure 1 below.
 
 Figure 1
 

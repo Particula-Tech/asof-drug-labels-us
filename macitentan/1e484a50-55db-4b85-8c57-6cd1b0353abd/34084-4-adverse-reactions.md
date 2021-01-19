@@ -18,7 +18,7 @@ The overall incidence of treatment discontinuations because of adverse events wa
 
 Table 2 presents adverse reactions more frequent on OPSUMIT than on placebo by ≥3%.
 
-Table 2 Adverse Reactions
+Table 2: Adverse Reactions
 
 | Adverse Reaction | OPSUMIT 10 mg (N=242) (%) | Placebo (N=249) (%) |
 | --- | --- | --- |
@@ -29,9 +29,9 @@ Table 2 Adverse Reactions
 | Influenza | 6 | 2 |
 | Urinary tract infection | 9 | 6 |
 
-## 6.2 Post-marketing Experience
+## 6.2 Postmarketing Experience
 
-The following adverse reactions have been identified during postapproval use of OPSUMIT.
+The following adverse reactions have been identified during post-approval use of OPSUMIT.
 Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
 
 Immune system disorders: hypersensitivity reactions (angioedema, pruritus and rash)

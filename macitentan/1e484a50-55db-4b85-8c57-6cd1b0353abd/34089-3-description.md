@@ -1,6 +1,6 @@
 # 11 DESCRIPTION
 
-OPSUMIT (macitentan) is an endothelin receptor antagonist.
+OPSUMIT® (macitentan) is an endothelin receptor antagonist.
 The chemical name of macitentan is N-[5-(4-Bromophenyl)-6-[2-[(5-bromo-2-pyrimidinyl)oxy]ethoxy]-4-pyrimidinyl]-N'-propylsulfamide.
 It has a molecular formula of C19H20Br2N6O4S and a molecular weight of 588.27.
 Macitentan is achiral and has the following structural formula:

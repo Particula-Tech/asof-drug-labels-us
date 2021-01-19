@@ -16,7 +16,7 @@ In the U.S. general population, the estimated background risk of major birth def
 
 Clinical Considerations
 
-Disease-associated maternal or embryo/fetal risk
+Disease-associated Maternal and/or Embryo/Fetal Risk
 
 In patients with pulmonary arterial hypertension, pregnancy is associated with an increased rate of maternal and fetal morbidity and mortality, including spontaneous abortion, intrauterine growth restriction and premature labor.
 
