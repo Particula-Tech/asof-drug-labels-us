@@ -1,0 +1,20 @@
+{
+  "application_numbers": [
+    "ANDA211689"
+  ],
+  "inn": "fulvestrant",
+  "labeler": "Accord Healthcare Inc.",
+  "package_ndcs": [
+    "16729-436-30",
+    "16729-436-31"
+  ],
+  "products": [
+    {
+      "form": "INJECTION",
+      "generic": "fulvestrant",
+      "name": "FULVESTRANT"
+    }
+  ],
+  "setid": "b471eb51-488e-5312-e053-2a95a90a8116",
+  "source": "dailymed"
+}
