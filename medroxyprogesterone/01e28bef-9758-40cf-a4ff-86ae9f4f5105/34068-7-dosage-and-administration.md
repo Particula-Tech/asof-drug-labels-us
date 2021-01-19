@@ -7,13 +7,13 @@ The 1 mL prefilled syringe of medroxyprogesterone acetate injectable suspension 
 The recommended dose is 150 mg of medroxyprogesterone acetate injectable suspension every 3 months (13 weeks) administered by deep intramuscular (IM) injection using strict aseptic technique in the gluteal or deltoid muscle, rotating the sites with every injection.
 As with any IM injection, to avoid an inadvertent subcutaneous injection, body habitus should be assessed prior to each injection to determine if a longer needle is necessary particularly for gluteal IM injection.
 
-Medroxyprogesterone acetate injectable suspension should not be used as a long-term birth control method (i.e. longer than 2 years) unless other birth control methods are considered inadequate.
+Use for longer than 2 years is not recommended (unless other birth control methods are considered inadequate) due to the impact of long-term medroxyprogesterone acetate injectable suspension treatment on bone mineral density (BMD) [see Warnings and Precautions (5.1)].
 Dosage does not need to be adjusted for body weight [see Clinical Studies (14.1)].
 
 To ensure the patient is not pregnant at the time of the first injection, the first injection should be given ONLY during the first 5 days of a normal menstrual period; ONLY within the first 5-days postpartum if not breast-feeding; and if exclusively breast-feeding, ONLY at the sixth postpartum week.
 If the time interval between injections is greater than 13 weeks, the physician should determine that the patient is not pregnant before administering the drug.
 The efficacy of medroxyprogesterone acetate injectable suspension depends on adherence to the dosage schedule of administration.
 
-## 2.2 Switching from other Methods of Contraception
+## 2.2 Switching From Other Methods of Contraception
 
 When switching from other contraceptive methods, medroxyprogesterone acetate injectable suspension should be given in a manner that ensures continuous contraceptive coverage based upon the mechanism of action of both methods, (e.g., patients switching from oral contraceptives should have their first injection of medroxyprogesterone acetate injectable suspension on the day after the last active tablet or at the latest, on the day following the final inactive tablet).

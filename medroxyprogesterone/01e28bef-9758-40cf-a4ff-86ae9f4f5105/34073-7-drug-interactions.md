@@ -1,6 +1,6 @@
 # 7 DRUG INTERACTIONS
 
-## 7.1 Changes in Contraceptive Effectiveness Associated with Co-Administration of Other Products
+## 7.1 Changes in Contraceptive Effectiveness Associated With Co-Administration of Other Products
 
 If a woman on hormonal contraceptives takes a drug or herbal product that induces enzymes, including CYP3A4, that metabolize contraceptive hormones, counsel her to use additional contraception or a different method of contraception.
 Drugs or herbal products that induce such enzymes may decrease the plasma concentrations of contraceptive hormones, and may decrease the effectiveness of hormonal contraceptives.

@@ -6,17 +6,16 @@ Use of medroxyprogesterone acetate injectable suspension reduces serum estrogen 
 This loss of BMD is of particular concern during adolescence and early adulthood, a critical period of bone accretion.
 It is unknown if use of medroxyprogesterone acetate injectable suspension by younger women will reduce peak bone mass and increase the risk for osteoporotic fracture in later life.
 
-After discontinuing medroxyprogesterone acetate injectable suspension in adolescents, mean BMD loss at total hip and femoral neck did not fully recover by 60 months (240 weeks) post-treatment [see Clinical Studies (14.3)].
-Similarly, in adults, there was only partial recovery of mean BMD at total hip, femoral neck and lumbar spine towards baseline by 24 months post-treatment.
-[See Clinical Studies (14.2).]
+A study to assess the reversibility of loss of BMD in adolescents was conducted with medroxyprogesterone acetate injectable suspension.
+After discontinuing medroxyprogesterone acetate injectable suspension in these adolescents, mean BMD loss at the total hip and femoral neck did not fully recover by 5 years (60 months) post-treatment in the sub-group of adolescents who were treated for more than 2 years [see Clinical Studies (14.3)].
+Similarly, in adults, there was only partial recovery of mean BMD at the total hip, femoral neck, and lumbar spine towards baseline by 2 years post-treatment [See Clinical Studies (14.2)].
 
-Medroxyprogesterone acetate injectable suspension should not be used as a long-term birth control method (i.e., longer than 2 years) unless other birth control methods are considered inadequate.
+The use of medroxyprogesterone acetate injectable suspension is not recommended as a long-term (i.e., longer than 2 years) birth control method unless other options are considered inadequate.
 BMD should be evaluated when a woman needs to continue to use medroxyprogesterone acetate injectable suspension long-term.
 In adolescents, interpretation of BMD results should take into account patient age and skeletal maturity.
 
 Other birth control methods should be considered in the risk/benefit analysis for the use of medroxyprogesterone acetate injectable suspension in women with osteoporosis risk factors.
 Medroxyprogesterone acetate injectable suspension can pose an additional risk in patients with risk factors for osteoporosis (e.g., metabolic bone disease, chronic alcohol and/or tobacco use, anorexia nervosa, strong family history of osteoporosis or chronic use of drugs that can reduce bone mass such as anticonvulsants or corticosteroids).
-Although there are no studies addressing whether calcium and Vitamin D may lessen BMD loss in women using medroxyprogesterone acetate injectable suspension, all patients should have adequate calcium and Vitamin D intake.
 
 ## 5.2 Thromboembolic Disorders
 
@@ -34,9 +33,9 @@ Breast Cancer
 Women who have or have had a history of breast cancer should not use hormonal contraceptives, including medroxyprogesterone acetate injectable suspension, because breast cancer may be hormonally sensitive [see Contraindications (4)].
 Women with a strong family history of breast cancer should be monitored with particular care.
 
-The results of five large case-control studies1, 2, 3, 4, 5 assessing the association between depo-­medroxyprogesterone acetate (DMPA) use and the risk of breast cancer are summarized in Figure 1.
+The results of five large case-control studies1, 2 assessing the association between depo-­medroxyprogesterone acetate (DMPA) use and the risk of breast cancer are summarized in Figure 1.
 Three of the studies suggest a slightly increased risk of breast cancer in the overall population of users; these increased risks were statistically significant in one study.
-One recent US study1 evaluated the recency and duration of use and found a statistically significantly increased risk of breast cancer in recent users (defined as last use within the past five years) who used DMPA for 12 months or longer; this is consistent with results of a previous study4.
+One recent US study1 evaluated the recency and duration of use and found a statistically significantly increased risk of breast cancer in recent users (defined as last use within the past five years) who used DMPA for 12 months or longer; this is consistent with results of a previous study.
 Odds ratio estimates were adjusted for the following covariates:
 
 Lee et al. (1987): age, parity, and socioeconomic status.
@@ -48,7 +47,7 @@ WHO (1991): age, center, and age at first live birth.
 Shapiro et al. (2000): age, ethnic group, socioeconomic status, and any combined estrogen/progestogen oral contraceptive use.
 Li et al. (2012): age, year, BMI, duration of OC use, number of full-term pregnancies, family history of breast cancer, and history of screening mammography.
 
-Based on the published SEER-18 2011 incidence rate (age-adjusted to the 2000 U.S. Standard Population) of breast cancer for U.S. women, all races, age 20 to 49 years6, a doubling of risk would increase the incidence of breast cancer in women who use medroxyprogesterone acetate injectable suspension from about 72 to about 144 cases per 100,000 women.
+Based on the published SEER-18 2011 incidence rate (age-adjusted to the 2000 U.S. Standard Population) of breast cancer for U.S. women, all races, age 20 to 49 years, a doubling of risk would increase the incidence of breast cancer in women who use medroxyprogesterone acetate injectable suspension from about 72 to about 144 cases per 100,000 women.
 
 Cervical Cancer
 
@@ -144,7 +143,7 @@ Neonates exposed to medroxyprogesterone acetate in-utero and followed to adolesc
 
 A woman who is taking hormonal contraceptive should have a yearly visit with her healthcare provider for a blood pressure check and for other indicated healthcare.
 
-## 5.19 Interference with Laboratory Tests
+## 5.19 Interference With Laboratory Tests
 
 The use of medroxyprogesterone acetate injectable suspension may change the results of some laboratory tests, such as coagulation factors, lipids, glucose tolerance, and binding proteins.
 [See Drug Interactions (7.2).]
