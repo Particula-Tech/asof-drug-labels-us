@@ -1,6 +1,6 @@
 Instructions for Use
 
-SYMPAZAN (SIM-pa-zan)
+SYMPAZAN® (SIM-pa-zan)
 
 (clobazam)
 

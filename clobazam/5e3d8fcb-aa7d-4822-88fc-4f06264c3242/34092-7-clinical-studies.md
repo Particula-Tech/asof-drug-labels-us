@@ -1,10 +1,10 @@
 # 14CLINICAL STUDIES
 
-## 14.1Demonstration of Pharmacokinetic Equivalence between SYMPAZANTM and clobazam tablets
+## 14.1Demonstration of Pharmacokinetic Equivalence Between SYMPAZAN® and Clobazam Tablets
 
-The efficacy of SYMPAZANTM is based upon bioavailability studies comparing clobazam tablets to SYMPAZANTM [see Clinical Pharmacology (12.3)].
+The efficacy of SYMPAZAN® is based upon bioavailability studies comparing clobazam tablets to SYMPAZAN® [see Clinical Pharmacology (12.3)].
 
-## 14.2Adjunctive treatment of seizures associated with Lennox-Gastaut Syndrome (LGS)
+## 14.2Adjunctive Treatment of Seizures Associated with Lennox-Gastaut Syndrome (LGS)
 
 The effectiveness of clobazam for the adjunctive treatment of seizures associated with Lennox-Gastaut Syndrome was established in two multicenter controlled studies (Study 1 and Study 2).
 Both studies were similar in terms of disease characteristics and concomitant AED treatments.
@@ -13,10 +13,9 @@ The most common concomitant AED treatments at baseline included: valproate, lamo
 Study 1 Study 1 (N=238) was a randomized, double-blind, placebo-controlled study consisting of a 4-week baseline period followed by a 3-week titration period and 12-week maintenance period.
 Patients age 2-54 years with a current or prior diagnosis of LGS were stratified into 2 weight groups (12.5 kg to ≤30 kg or >30 kg) and then randomized to placebo or one of three target maintenance doses of clobazam according to Table 5.
 
-Table 5: Study 1 Total Daily Dose
-
-|  | ≤30 kg Body Weight | >30 kg Body Weight |
+| Table 4: Study 1 Total Daily Dose |  |  |
 | --- | --- | --- |
+|  | ≤30 kg Body Weight | >30 kg Body Weight |
 | Low Dose | 5 mg daily | 10 mg daily |
 | Medium Dose | 10 mg daily | 20 mg daily |
 | High Dose | 20 mg daily | 40 mg daily |
@@ -37,7 +36,7 @@ Patients in whom the seizure frequency decreased are shown in five categories.
 There was no evidence that tolerance to the therapeutic effect of clobazam developed during the 3-month maintenance period.
 
 Study 2 Study 2 (N=68) was a randomized, double-blind comparison study of high- and low-dose clobazam, consisting of a 4-week baseline period followed by a 3-week titration period and 4-week maintenance period.
-Patients age 2-25 years with a current or prior diagnosis of LGS were stratified by weight, then randomized to either a low or high dose of clobazam, and then entered a 3-week titration period.
+Patients age 2 25 years with a current or prior diagnosis of LGS were stratified by weight, then randomized to either a low or high dose of clobazam, and then entered a 3-week titration period.
 
 The primary efficacy measure was the percent reduction in the weekly frequency of drop seizures (atonic, tonic, or myoclonic), also known as drop attacks, from the 4-week baseline period to the 4-week maintenance period.
 

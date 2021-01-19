@@ -4,14 +4,14 @@
 
 Pregnancy Exposure Registry
 
-There is a pregnancy exposure registry that monitors pregnancy outcomes in women exposed to AEDs, such as SYMPAZANTM, during pregnancy.
-Physicians are advised to recommend that pregnant patients taking SYMPAZANTM enroll in the North American Antiepileptic Drug (NAAED) Pregnancy Registry.
+There is a pregnancy exposure registry that monitors pregnancy outcomes in women exposed to AEDs, such as SYMPAZAN®, during pregnancy.
+Physicians are advised to recommend that pregnant patients taking SYMPAZAN® enroll in the North American Antiepileptic Drug (NAAED) Pregnancy Registry.
 This can be done by calling the toll-free number 1-888-233-2334 and must be done by patients themselves.
 Information on the registry can also be found at the website http://www.aedpregnancyregistry.org/.
 
 Risk Summary
 
-There are no adequate and well-controlled studies of SYMPAZANTM in pregnant women.
+There are no adequate and well-controlled studies of SYMPAZAN® in pregnant women.
 Available data suggest that the class of benzodiazepines is not associated with marked increases in risk for congenital anomalies.
 Although some early epidemiological studies suggested a relationship between benzodiazepine drug use in pregnancy and congenital anomalies such as cleft lip and or palate, these studies had considerable limitations.
 More recently completed studies of benzodiazepine use in pregnancy have not consistently documented elevated risks for specific congenital anomalies.
@@ -22,11 +22,11 @@ Administration of clobazam to pregnant rats and rabbits during the period of org
 
 Data for other benzodiazepines suggest the possibility of long-term effects on neurobehavioral and immunological function in animals following prenatal exposure to benzodiazepines at clinically relevant doses.
 
-SYMPAZANTM should be used during pregnancy only if the potential benefit to the mother justifies the potential risk to the fetus.
+SYMPAZAN® should be used during pregnancy only if the potential benefit to the mother justifies the potential risk to the fetus.
 
 Advise pregnant women and women of childbearing age of the potential risk to a fetus.
 
-In the U.S. general population, the estimated background risk of major birth defects and miscarriage in clinically recognized pregnancies is 2%-4% and to 15% to 20%, respectively.
+In the U.S. general population, the estimated background risk of major birth defects and miscarriage in clinically recognized pregnancies is 2%-4% and 15% -20%, respectively.
 The background risk of major birth defects and miscarriage for the indicated population is unknown.
 
 Clinical Considerations
@@ -38,7 +38,7 @@ Clinical manifestations of withdrawal or neonatal abstinence syndrome may includ
 These complications can appear shortly after delivery to 3 weeks after birth and persist from hours to several months depending on the degree of dependence and the pharmacokinetic profile of the benzodiazepine.
 Symptoms may be mild and transient or severe.
 Standard management for neonatal withdrawal syndrome has not yet been defined.
-Observe newborns who are exposed to SYMPAZAN™ in utero during the later stages of pregnancy for symptoms of withdrawal and manage accordingly.
+Observe newborns who are exposed to SYMPAZAN® in utero during the later stages of pregnancy for symptoms of withdrawal and manage accordingly.
 
 Labor and Delivery
 
@@ -52,8 +52,8 @@ Human Data
 
 Congenital Anomalies
 
-Although there are no adequate and well controlled studies of SYMPAZANTM in pregnant women, there is information about benzodiazepines as a class.
-Dolovich et al. published a metaanalysis of 23 studies that examined the effects of benzodiazepine exposure during the first trimester of pregnancy.
+Although there are no adequate and well controlled studies of SYMPAZAN® in pregnant women, there is information about benzodiazepines as a class.
+Dolovich et al. published a meta-analysis of 23 studies that examined the effects of benzodiazepine exposure during the first trimester of pregnancy.
 Eleven of the 23 studies included in the meta-analysis considered the use of chlordiazepoxide and diazepam and not other benzodiazepines.
 The authors considered case-control and cohort studies separately.
 The data from the cohort studies did not suggest an increased risk for major malformations (OR 0.90; 95% CI 0.61—1.35) or for oral cleft (OR 1.19; 95% CI 0.34—4.15).
@@ -61,7 +61,7 @@ The data from the case control studies suggested an association between benzodia
 The limitations of this meta-analysis included the small number of reports included in the analysis, and that most cases for analyses of both oral cleft and major malformations came from only three studies.
 A follow up to that meta-analysis included 3 new cohort studies that examined risk for major malformations and one study that considered cardiac malformations.
 The authors found no new studies with an outcome of oral clefts.
-After the addition of the new studies, the odds ratio for major malformations with first trimester exposure to benzodiazepines was 1.07 (95% CI 0.91—1.25).
+After the addition of the new studies, the odds ratio for major malformations with first trimester exposure to benzodiazepines was 1.07 (95% CI 0.91-1.25).
 
 Neonatal Withdrawal and Floppy Infant Syndrome
 
@@ -86,11 +86,11 @@ The low-effect dose for adverse effects on pre- and postnatal development in rat
 
 Risk Summary
 
-SYMPAZANTM is excreted in human milk.
-Postmarketing experience suggests that breastfed infants of mothers taking benzodiazepines, such as SYMPAZAN™, may have effects of lethargy, somnolence and poor sucking.
-The effect of SYMPAZANTM on milk production is unknown.
-The developmental and health benefits of breastfeeding should be considered along with the mother’s clinical need for SYMPAZANTM and any potential adverse effects on the breastfed infant from SYMPAZANTM or from the underlying maternal condition.
-If exposing a breastfed infant to SYMPAZANTM, observe for any potential adverse effects.
+SYMPAZAN® is excreted in human milk.
+Postmarketing experience suggests that breastfed infants of mothers taking benzodiazepines, such as SYMPAZAN®, may have effects of lethargy, somnolence and poor sucking.
+The effect of SYMPAZAN® on milk production is unknown.
+The developmental and health benefits of breastfeeding should be considered along with the mother’s clinical need for SYMPAZAN® and any potential adverse effects on the breastfed infant from SYMPAZAN® or from the underlying maternal condition.
+If exposing a breastfed infant to SYMPAZAN®, observe for any potential adverse effects.
 
 Clinical Considerations
 
@@ -98,7 +98,7 @@ Monitoring for Adverse Reactions
 
 Adverse reactions such as somnolence and difficulty feeding have been reported in infants during breastfeeding in postmarketing experience with clobazam.
 Monitor breastfed infants for possible sedation and poor sucking.
-Data Scientific literature on clobazam use during lactation is limited.
+Data in scientific literature on clobazam use during lactation is limited.
 After short-term administration, clobazam and N-desmethylclobazam are transferred into breast milk.
 
 ## 8.3Females and Males of Reproductive Potential
@@ -133,11 +133,11 @@ For this reason, dosage modification is recommended [see Dosage and Administrati
 The pharmacokinetics of clobazam were evaluated in patients with mild and moderate renal impairment.
 There were no significant differences in systemic exposure (AUC and Cmax) between patients with mild or moderate renal impairment and healthy subjects.
 No dose adjustment is required for patients with mild and moderate renal impairment.
-There is essentially no experience with SYMPAZANTM in patients with severe renal impairment or ESRD.
+There is essentially no experience with SYMPAZAN® in patients with severe renal impairment or ESRD.
 It is not known if clobazam or its active metabolite, N-desmethylclobazam, is dialyzable [see Clinical Pharmacology (12.3)].
 
 ## 8.8Hepatic Impairment
 
-SYMPAZANTM is hepatically metabolized; however, there are limited data to characterize the effect of hepatic impairment on the pharmacokinetics of clobazam.
+SYMPAZAN® is hepatically metabolized; however, there are limited data to characterize the effect of hepatic impairment on the pharmacokinetics of clobazam.
 For this reason, dosage adjustment is recommended in patients with mild to moderate hepatic impairment (Child-Pugh score 5-9) [see Dosage and Administration (2.6)].
-There is inadequate information about metabolism of SYMPAZANTM in patients with severe hepatic impairment [see Clinical Pharmacology (12.3)].
+There is inadequate information about metabolism of SYMPAZAN® in patients with severe hepatic impairment [see Clinical Pharmacology (12.3)].

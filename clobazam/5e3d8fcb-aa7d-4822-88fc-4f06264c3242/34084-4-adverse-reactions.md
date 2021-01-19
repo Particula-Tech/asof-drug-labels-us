@@ -13,7 +13,7 @@ Clinically significant adverse reactions that appear in other sections of the la
 ## 6.1Clinical Trials Experience
 
 Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in practice.
-The following adverse events have been reported in clinical trials of patients treated with clobazam, the active ingredient of SYMPAZANTM.
+The following adverse events have been reported in clinical trials of patients treated with clobazam, the active ingredient of SYMPAZAN®.
 
 During its development for the adjunctive treatment of seizures associated with LGS, clobazam was administered to 333 healthy volunteers and 300 patients with a current or prior diagnosis of LGS, including 197 patients treated for 12 months or more.
 The conditions and duration of exposure varied greatly and included single- and multiple-dose clinical pharmacology studies in healthy volunteers and two double-blind studies in patients with LGS (Study 1 and 2) [see Clinical Studies (14)].
@@ -23,10 +23,9 @@ Adverse Reactions Leading to Discontinuation in an LGS Placebo Controlled Clinic
 
 Most Common Adverse Reactions in an LGS Placebo Controlled Clinical Trial (Study 1) Table 3 lists the adverse reactions that occurred in ≥5% of clobazam-treated patients (at any dose), and at a rate greater than placebo-treated patients, in the randomized, double-blind, placebo-controlled, parallel group clinical study of adjunctive AED therapy for 15 weeks (Study 1).
 
-Table 3: Adverse Reactions Reported for ≥5% of Patients and More Frequently than Placebo in Any Treatment Group
-
-|  |  | Placebo N=59 % | Clobazam Dose Level |  |  |  | All Clobazam N=179 % |
+| Table 3: Adverse Reactions Reported for ≥5% of Patients and More Frequently than Placebo in Any Treatment Group |  |  |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- |
+|  |  | Placebo N=59 % | Clobazam Dose Level |  |  |  | All Clobazam N=179 % |
 |  |  |  | Lowa N=58 % | Mediumb N=62 % |  | Highc N=59 % |  |
 | Gastrointestinal Disorders |  |  |  |  |  |  |  |
 | Vomiting |  | 5 | 9 | 5 |  | 7 | 7 |
