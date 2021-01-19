@@ -17,7 +17,7 @@ Clinical Considerations
 
 Disease-Associated Maternal and/or Embryo/Fetal Risk
 
-Maternal hypothyroidism during pregnancy is associated with a higher rate of complications, including spontaneous abortion, gestational hypertension, preeclampsia, stillbirth, and premature delivery.
+Maternal hypothyroidism during pregnancy is associated with a higher rate of complications, including spontaneous abortion, gestational hypertension, pre-eclampsia, stillbirth, and premature delivery.
 Untreated maternal hypothyroidism may have an adverse effect on fetal neurocognitive development.
 
 Dose Adjustments During Pregnancy and the Postpartum Period
@@ -68,8 +68,8 @@ Closely monitor patients to avoid undertreatment and overtreatment.
 Undertreatment may result in poor school performance due to impaired concentration and slowed mentation and in reduced adult height.
 Overtreatment may accelerate the bone age and result in premature epiphyseal closure and compromised adult stature.
 
-Treated children may manifest a period of catchup growth, which may be adequate in some cases to normalize adult height.
-In children with severe or prolonged hypothyroidism, catchup growth may not be adequate to normalize adult height.
+Treated children may manifest a period of catch-up growth, which may be adequate in some cases to normalize adult height.
+In children with severe or prolonged hypothyroidism, catch-up growth may not be adequate to normalize adult height.
 
 ## 8.5 Geriatric Use
 

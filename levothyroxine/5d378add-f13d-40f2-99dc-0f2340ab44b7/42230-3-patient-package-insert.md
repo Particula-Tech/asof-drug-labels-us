@@ -60,7 +60,7 @@ Ask your doctor or pharmacist for a list of these medicines, if you are not sure
 - Certain foods including soybean flour, cotton seed meal, walnuts, and dietary fiber can affect your treatment and dose of TIROSINT-SOL.
   Talk to your doctor if you eat or drink these foods.
 - Do not remove TIROSINT–SOL ampules from the sealed aluminum foil pouch until you are ready to use them.
-- Use all 5 TIROSINT-SOL ampules within 15 days after opening the aluminum foil pouch.
+- Use all 5 TIROSINT-SOL ampules within three (3) months after opening the aluminum foil pouch.
 - Your doctor should do certain blood tests while you are taking TIROSINT-SOL and may change your daily dose of TIROSINT-SOL as needed.
   Keep taking TIROSINT-SOL unless your doctor tells you to stop or to change your dose.
 
@@ -98,7 +98,8 @@ You may report side effects to IBSA Pharma Inc. at 1-800-587-3513 or FDA at 1-80
 How should I store TIROSINT-SOL?
 
 - Store TIROSINT-SOL at room temperature between 68°F to 77°F (20°C to 25°C).
-- Keep TIROSINT-SOL in the original closed pouch until you are ready to use it.
+- Use TIROSINT-SOL within three (3) months after opening the pouch.
+  Keep TIROSINT-SOL in the original closed pouch until you are ready to use it as important information may be lost (i.e., manufacturer/distributor names and distributor contact phone number.
 - Do not store the diluted or mixed TIROSINT-SOL solution.
 
 Keep TIROSINT-SOL and all medicines out of the reach of children.
@@ -119,4 +120,4 @@ Inactive ingredients: glycerol, and water
 
 Manufactured by: IBSA Institut Biochimique SA, 6915 Pambio-Noranco, Switzerland Marketed and distributed by: IBSA Pharma Inc, Parsippany, NJ 07054 USA For more information, go to www.tirosint-sol.com or call 1-800-587-3513.
 
-This Patient Information has been approved by the U.S. Food and Drug Administration Issued: June 2018
+This Patient Information has been approved by the U.S. Food and Drug Administration Issued: 05/2020

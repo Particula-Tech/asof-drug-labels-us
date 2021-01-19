@@ -4,9 +4,9 @@ Hypothyroidism
 
 TIROSINT-SOL is indicated as a replacement therapy in primary (thyroidal), secondary (pituitary), and tertiary (hypothalamic) congenital or acquired hypothyroidism.
 
-Pituitary Thyrotropin (ThyroidStimulating Hormone, TSH) Suppression
+Pituitary Thyrotropin (Thyroid-Stimulating Hormone, TSH) Suppression
 
-TIROSINT-SOL is indicated as an adjunct to surgery and radioiodine therapy in the management of thyrotropin-dependent-well-differentiated thyroid cancer.
+TIROSINT-SOL is indicated as an adjunct to surgery and radioiodine therapy in the management of thyrotropin-dependent well-differentiated thyroid cancer.
 
 Limitations of Use:
 

@@ -58,13 +58,13 @@ Throw away (discard) the empty ampule.
 How should I store TIROSINT-SOL?
 
 - Store TIROSINT-SOL at room temperature between 68°F to 77°F (20°C to 25°C).
-- Keep TIROSINT-SOL in the original closed pouch until you are ready to use it.
+- Use TIROSINT-SOL within three (3) months after opening the pouch.
+  Keep TIROSINT-SOL in the original closed pouch until you are ready to use it as important information may be lost (i.e., manufacturer/distributor names and distributor contact phone number.
 - Do not store the diluted or mixed TIROSINT-SOL solution.
-
-Keep TIROSINT-SOL and all medicines out of the reach of children.
+- Keep TIROSINT-SOL and all medicines out of the reach of children.
 
 This Instructions for Use has been approved by the U.S. Food and Drug Administration.
 
 Manufacturer: IBSA Institut Biochimique SA, 6915 Pambio-Noranco, Switzerland Marketed and distributed by: IBSA Pharma Inc., Parsippany, NJ 07054 USA
 
-Issued: June 2018
+Issued: May 2020

@@ -25,7 +25,7 @@ Table 7: TIROSINT-SOL Packaging Description
 
 ## 16.2 Storage and Handling
 
-Store TIROSINT-SOL in the original container (closed pouch) at 25°C (77°F); excursions permitted to 15°-30°C (59-86°F) [See USP Controlled Room Temperature].
+Store TIROSINT-SOL in the original container (closed pouch) at 20°C to 25°C (68°F to 77°F); excursions permitted to 15°-30°C (59-86°F) [See USP Controlled Room Temperature].
 
-Use TIROSINT-SOL oral solution within 15 days after opening the pouch.
-Keep the ampules in the pouch until ready to use.
+Use TIROSINT-SOL oral solution within three (3) months after opening the pouch.
+Keep the ampules in the pouch until ready to use as important information may be lost (i.e., manufacturer/distributor names and distributor contact phone number).

@@ -88,6 +88,6 @@ Grapefruit juice may delay the absorption of levothyroxine and reduce its bioava
 
 Consider changes in TBG concentration when interpreting T4 and T3 values.
 Measure and evaluate unbound (free) hormone and/or determine the free-T4 index (FT4I) in this circumstance.
-Pregnancy, infectious hepatitis, estrogens, estrogencontaining oral contraceptives, and acute intermittent porphyria increase TBG concentrations.
+Pregnancy, infectious hepatitis, estrogens, estrogen-containing oral contraceptives, and acute intermittent porphyria increase TBG concentrations.
 Nephrosis, severe hypoproteinemia, severe liver disease, acromegaly, androgens and corticosteroids decrease TBG concentration.
-Familial hyper or hypothyroxine binding globulinemias have been described, with the incidence of TBG deficiency approximating 1 in 9000.
+Familial hyper- or hypo-thyroxine binding globulinemias have been described, with the incidence of TBG deficiency approximating 1 in 9000.
