@@ -177,12 +177,12 @@ Inactive Ingredients: lactose monohydrate, hydroxypropylcellulose, carboxymethyl
 
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
 
-Distributed by: Takeda Pharmaceuticals America, Inc. Deerfield, IL 60015
+Distributed by: Takeda Pharmaceuticals America, Inc. Lexington, MA 02421
 
 Revised: December 2016
 
 ACTOS is a trademark of Takeda Pharmaceutical Company Limited registered with the U.S. Patent and Trademark Office and used under license by Takeda Pharmaceuticals America, Inc.
 
-© 2009 - 2017 Takeda Pharmaceuticals America, Inc.
+© 2009 - 2020 Takeda Pharmaceuticals America, Inc.
 
-ACT003 R22
+ACT003 R23
