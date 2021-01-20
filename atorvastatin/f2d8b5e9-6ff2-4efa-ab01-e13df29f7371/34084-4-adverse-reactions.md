@@ -2,25 +2,24 @@
 
 The following serious adverse reactions are discussed in greater detail in other sections of the label:
 
-Rhabdomyolysis and myopathy [see Warnings and Precautions (5.1)]
+Myopathy and Rhabdomyolysis [see Warnings and Precautions (5.1)]
 
 Liver enzyme abnormalities [see Warnings and Precautions (5.3)]
 
 ## 6.1 Clinical Trials Experience
 
-Because clinical trials are conducted under widely varying conditions, the adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in clinical practice.
+Because clinical trials are conducted under widely varying conditions, the adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in practice.
 
 In the atorvastatin calcium placebo-controlled clinical trial database of 16,066 patients (8,755 atorvastatin calcium vs. 7,311 placebo; age range 10 to 93 years, 39% women, 91% Caucasians, 3% Blacks, 2% Asians, 4% other) with a median treatment duration of 53 weeks, 9.7% of patients on atorvastatin calcium and 9.5% of the patients on placebo discontinued due to adverse reactions regardless of causality.
 The five most common adverse reactions in patients treated with atorvastatin calcium that led to treatment discontinuation and occurred at a rate greater than placebo were: myalgia (0.7%), diarrhea (0.5%), nausea (0.4%), alanine aminotransferase increase (0.4%), and hepatic enzyme increase (0.4%).
 
 The most commonly reported adverse reactions (incidence ≥ 2% and greater than placebo) regardless of causality, in patients treated with atorvastatin calcium in placebo controlled trials (n=8,755) were: nasopharyngitis (8.3%), arthralgia (6.9%), diarrhea (6.8%), pain in extremity (6.0%), and urinary tract infection (5.7%).
 
-Table 3 summarizes the frequency of clinical adverse reactions, regardless of causality, reported in ≥ 2% and at a rate greater than placebo in patients treated with atorvastatin calcium (n=8,755), from seventeen placebo-controlled trials.
+Table 2 summarizes the frequency of clinical adverse reactions, regardless of causality, reported in ≥ 2% and at a rate greater than placebo in patients treated with atorvastatin calcium (n=8,755), from seventeen placebo-controlled trials.
 
-Table 3.
-Clinical adverse reactions occurring in > 2% in patients treated with any dose of atorvastatin calcium and at an incidence greater than placebo regardless of causality (% of patients).
+Table 2: Clinical Adverse Reactions Occurring in ≥ 2% in Patients Treated with any Dose of atorvastatin calcium and at an Incidence Greater than Placebo Regardless of Causality (% of Patients).
 
-| Adverse Reaction* | Any dose N=8755 | 10 mg N=3908 | 20 mg N=188 | 40 mg N=604 | 80 mg N=4055 | Placebo N=7311 |
+| Adverse Reaction Adverse Reaction ≥ 2% in any dose greater than placebo | Any dose N=8755 | 10 mg N=3908 | 20 mg N=188 | 40 mg N=604 | 80 mg N=4055 | Placebo N=7311 |
 | --- | --- | --- | --- | --- | --- | --- |
 | Nasopharyngitis | 8.3 | 12.9 | 5.3 | 7.0 | 4.2 | 8.2 |
 | Arthralgia | 6.9 | 8.9 | 11.7 | 10.6 | 4.3 | 6.5 |
@@ -34,7 +33,6 @@ Clinical adverse reactions occurring in > 2% in patients treated with any dose o
 | Myalgia | 3.5 | 3.6 | 5.9 | 8.4 | 2.7 | 3.1 |
 | Insomnia | 3.0 | 2.8 | 1.1 | 5.3 | 2.8 | 2.9 |
 | Pharyngolaryngeal pain | 2.3 | 3.9 | 1.6 | 2.8 | 0.7 | 2.1 |
-| *Adverse Reaction > 2% in any dose greater than placebo |  |  |  |  |  |  |
 
 Other adverse reactions reported in placebo-controlled studies include: Body as a whole: malaise, pyrexia; Digestive system: abdominal discomfort, eructation, flatulence, hepatitis, cholestasis; Musculoskeletal system: musculoskeletal pain, muscle fatigue, neck pain, joint swelling; Metabolic and nutritional system: transaminases increase, liver function test abnormal, blood alkaline phosphatase increase, creatine phosphokinase increase, hyperglycemia; Nervous system: nightmare; Respiratory system: epistaxis; Skin and appendages: urticaria; Special senses: vision blurred, tinnitus; Urogenital system: white blood cells urine positive.
 
@@ -56,7 +54,7 @@ Diabetes was reported as an adverse reaction in 144 subjects (6.1%) in the atorv
 In a post-hoc analysis, atorvastatin calcium 80 mg reduced the incidence of ischemic stroke (218/2,365, 9.2% vs. 274/2,366, 11.6%) and increased the incidence of hemorrhagic stroke (55/2,365, 2.3% vs. 33/2,366, 1.4%) compared to placebo.
 The incidence of fatal hemorrhagic stroke was similar between groups (17 atorvastatin calcium vs. 18 placebo).
 The incidence of non-fatal hemorrhagic strokes was significantly greater in the atorvastatin group (38 non-fatal hemorrhagic strokes) as compared to the placebo group (16 non-fatal hemorrhagic strokes).
-Subjects who entered the study with a hemorrhagic stroke appeared to beat increased risk for hemorrhagic stroke [7 (16%) atorvastatin calcium vs. 2 (4%) placebo].
+Subjects who entered the study with a hemorrhagic stroke appeared to be at increased risk for hemorrhagic stroke [7 (16%) atorvastatin calcium vs. 2 (4%) placebo].
 
 There were no significant differences between the treatment groups for all-cause mortality: 216 (9.1%) in the atorvastatin calcium 80 mg/day group vs. 211 (8.9%) in the placebo group.
 The proportions of subjects who experienced cardiovascular death were numerically smaller in the atorvastatin calcium 80 mg group (3.3%) than in the placebo group (4.1%).

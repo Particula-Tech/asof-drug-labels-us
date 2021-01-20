@@ -70,7 +70,7 @@ Especially tell your doctor if you take medicines for:
 - birth control
 - heart failure
 - HIV or AIDS
-- Hepatitis C virus
+- hepatitis C virus
 - anti-virals
 
 Know all the medicines you take.
@@ -171,4 +171,4 @@ Inactive Ingredients: anhydrous lactose, NF; colloidal silicon dioxide, NF; copo
 
 Manufactured by: ScieGen Pharmaceuticals, Inc. Hauppauge, NY 11788 USA
 
-Rev: 10/2020
+Rev: 12/2020

@@ -10,7 +10,7 @@ In animal reproduction studies in rats and rabbits there was no evidence of embr
 In rats administered atorvastatin during gestation and lactation, decreased postnatal growth and development was observed at doses ≥ 6 times the MRHD (see Data).
 
 The estimated background risk of major birth defects and miscarriage for the indicated population is unknown.
-In the U.S. general population, the estimated background risk of major birth defects and miscarriage in clinically recognized pregnancies is 2% to 4% and 15 to 20%, respectively.
+In the U.S. general population, the estimated background risk of major birth defects and miscarriage in clinically recognized pregnancies is 2% to 4% and 15% to 20%, respectively.
 
 Data Human Data Limited published data on atorvastatin calcium from observational studies, meta-analyses and case reports have not shown an increased risk of major congenital malformations or miscarriage.
 Rare reports of congenital anomalies have been received following intrauterine exposure to other HMG-CoA reductase inhibitors.
@@ -27,7 +27,7 @@ At the maternally toxic doses of 50 mg/kg/day and 100 mg/kg/day in rabbits, ther
 
 In a study in pregnant rats administered 20 mg/kg/day, 100 mg/kg/day, or 225 mg/kg/day from gestation day 7 through to lactation day 20 (weaning), there was decreased survival at birth, postnatal day 4, weaning, and post-weaning in pups of mothers dosed with 225 mg/kg/day, a dose at which maternal toxicity was observed.
 Pup body weight was decreased through postnatal day 21 mg/kg/day at 100 mg/kg/day, and through postnatal day 91 mg/kg/day at 225 mg/kg/day.
-Pup development was delayed (rotorod performance at 100 mg/kg/day and acoustic startle at 225 mg/kg/day; pinnae detachment and eye-opening at 225 mg/kg/day).
+Pup development was delayed (rotarod performance at 100 mg/kg/day and acoustic startle at 225 mg/kg/day; pinnae detachment and eye-opening at 225 mg/kg/day).
 These doses correspond to 6 times (100 mg/kg) and 22 times (225 mg/kg) the human exposure at the MRHD, based on AUC.
 
 ## 8.2 Lactation

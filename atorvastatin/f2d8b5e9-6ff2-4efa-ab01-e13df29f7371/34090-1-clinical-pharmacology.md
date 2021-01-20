@@ -42,7 +42,7 @@ Specific Populations
 Geriatric: Plasma concentrations of atorvastatin calcium are higher (approximately 40% for C max and 30% for AUC) in healthy elderly subjects (age ≥ 65 years) than in young adults.
 Clinical data suggest a greater degree of LDL-lowering at any dose of drug in the elderly patient population compared to younger adults [see Use in Specific Populations (8.5)].
 
-Pediatric: Apparent oral clearance of atorvastatin in pediatric subjects appeared similar to that of adults when scaled allometrically by body weight as the bodyweight was the only significant covariate in atorvastatin population PK model with data including pediatric HeFH patients (ages 10 years to 17 years of age, n=29) in an open-label, 8-week study.
+Pediatric: Apparent oral clearance of atorvastatin in pediatric subjects appeared similar to that of adults when scaled allometrically by body weight as the body weight was the only significant covariate in atorvastatin population PK model with data including pediatric HeFH patients (ages 10 years to 17 years of age, n=29) in an open-label, 8-week study.
 
 Gender: Plasma concentrations of atorvastatin calcium in women differ from those in men (approximately 20% higher for C max and 10% lower for AUC); however, there is no clinically significant difference in LDL-C reduction with atorvastatin calcium between men and women.
 
@@ -60,7 +60,7 @@ Atorvastatin is a substrate of the hepatic transporters, OATP1B1 and OATP1B3 tra
 Metabolites of atorvastatin are substrates of OATP1B1.
 Atorvastatin is also identified as a substrate of the efflux transporter BCRP, which may limit the intestinal absorption and biliary clearance of atorvastatin.
 
-TABLE 4.
+Table 6.
 Effect of Co-administered Drugs on the Pharmacokinetics of Atorvastatin
 
 |  | Dose (mg) | Ratio of AUC & | Ratio of C max& |
@@ -98,43 +98,47 @@ Effect of Co-administered Drugs on the Pharmacokinetics of Atorvastatin
 
 # See Sections 5.1 and 7 for clinical significance.
 
-* Greater increases in AUC (ratio of AUC up to 2.5) and/or C max (ratio of C max up to 1.71) have been reported with excessive grapefruit consumption (≥ 750 mL - 1.2 liters per day).
+* Greater increases in AUC (ratio of AUC up to 2.5) and/or C max (ratio of C max up to 1.71) have been reported with excessive grapefruit consumption (≥ 750 mL to 1.2 liters per day).
 
-** Ratio based on a single sample taken 8-16 h post dose.
+** Ratio based on a single sample taken 8 - 16 h post dose.
 
 † Due to the dual interaction mechanism of rifampin, simultaneous co-administration of atorvastatin with rifampin is recommended, as delayed administration of atorvastatin after administration of rifampin has been associated with a significant reduction in atorvastatin plasma concentrations.
 
-‡ The dose of saquinavir plus ritonavir in this study is not the clinically used dose.
+‡The dose of saquinavir plus ritonavir in this study is not the clinically used dose.
 The increase in atorvastatin exposure when used clinically is likely to be higher than what was observed in this study.
 Therefore, caution should be applied and the lowest dose necessary should be used.
 
-a Once daily b Twice daily
+aOnce daily
 
-c Single dose
+bTwice daily
 
-d Three times daily
+cSingle dose
 
-e Four times daily
+dThree times daily
 
-f Every 8 hours
+eFour times daily
 
-TABLE 5.
+fEvery 8 hours
+
+TABLE 7.
 Effect of Atorvastatin on the Pharmacokinetics of Co-administered Drugs
 
-|  | Dose (mg) | Ratio of AUC | Ratio of C max |
+|  | Drug/Dose (mg) | Ratio of AUC | Ratio of C max |
 | --- | --- | --- | --- |
 | Atorvastatin | Co-administered drug and dosing regimen |  |  |
 | 80 mg QD a for 15 days | Antipyrine, 600 mg SD c | 1.03 | 0.89 |
 | 80 mg QD a for 10 days | # Digoxin 0.25 mg QD a, 20 days | 1.15 | 1.20 |
-| 40 mg QD a for 22 days | Oral contraceptive QD a, 2 months - norethindrone 1 mg - ethinyl estradiol 35μg | 1.28 1.19 | 1.23 1.30 |
-| 10 mg, SD c | Tipranavir 500mg BID b/ritonavir 200 mg BID b, 7 days | 1.08 | 0.96 |
+| 40 mg QD a for 22 days | Oral contraceptive QD a, 2 months - norethindrone 1 mg - ethinyl estradiol 35 μg | 1.28 1.19 | 1.23 1.30 |
+| 10 mg, SD c | Tipranavir 500 mg BID b/ritonavir 200 mg BID b, 7 days | 1.08 | 0.96 |
 | 10 mg QD a for 4 days | Fosamprenavir 1400 mg BID b, 14 days | 0.73 | 0.82 |
 | 10 mg QD a for 4 days | Fosamprenavir 700 mg BID b/ritonavir 100 mg BID b, 14 days | 0.99 | 0.94 |
 
 # See Section 7 for clinical significance.
 
-a Once daily
+aOnce daily
 
-b Twice daily
+bTwice daily
 
-c Single Dose
+cSingle Dose
+
+Atorvastatin Calcium had no clinically significant effect on prothrombin time when administered to patients receiving chronic warfarin treatment.
