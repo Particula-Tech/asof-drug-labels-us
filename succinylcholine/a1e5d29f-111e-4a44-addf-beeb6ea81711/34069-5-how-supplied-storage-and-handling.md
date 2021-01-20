@@ -5,12 +5,11 @@ ANECTINE (Succinylcholine Chloride Injection, USP) is supplied as a clear, color
 Store in refrigerator at 2° to 8°C (36° to 46°F).
 The multi-dose vials are stable for up to 14 days at room temperature without significant loss of potency.
 
-Manufactured in Canada by
-
-Avara Boucherville Pharmaceutical Services, Inc. for
+Distributed by
 
 Sandoz Inc., Princeton, NJ 08540
 
-Revised September 2018
+Rev.
+June 2020
 
-46227453
+46271016
