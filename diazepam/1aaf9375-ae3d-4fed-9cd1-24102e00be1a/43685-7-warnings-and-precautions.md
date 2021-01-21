@@ -20,7 +20,7 @@ Abuse and misuse of benzodiazepines often (but not always) involve the use of do
 
 Before prescribing diazepam and throughout treatment, assess each patient’s risk for abuse, misuse, and addiction (e.g., using a standardized screening tool).
 Use of diazepam, particularly in patients at elevated risk, necessitates counseling about the risks and proper use of diazepam along with monitoring for signs and symptoms of abuse, misuse, and addiction.
-Prescribe the lowest possible dosage for the shortest duration; avoid or minimize concomitant use of CNS depressants and other substances associated with abuse, misuse, and addiction (e.g., opioid analgesics, stimulants); and advise patients on the proper disposal of unused drug.
+Prescribe the lowest effective dosage; avoid or minimize concomitant use of CNS depressants and other substances associated with abuse, misuse, and addiction (e.g., opioid analgesics, stimulants); and advise patients on the proper disposal of unused drug.
 If a substance use disorder is suspected, evaluate the patient and institute (or refer them for) early treatment, as appropriate.
 
 Dependence and Withdrawal Reactions
@@ -31,8 +31,8 @@ Patients at an increased risk of withdrawal adverse reactions after benzodiazepi
 
 Acute Withdrawal Reactions
 
-The continued use of benzodiazepines, including diazepam, for several days to weeks may lead to clinically significant physical dependence.
-Abrupt discontinuation or rapid dosage reduction of diazepam after continued use (for several days to weeks), or administration of flumazenil (a benzodiazepine antagonist) may precipitate acute withdrawal reactions, which can be life-threatening (e.g., seizures) (see DRUG ABUSE AND DEPENDENCE: Dependence).
+The continued use of benzodiazepines, including diazepam, may lead to clinically significant physical dependence.
+Abrupt discontinuation or rapid dosage reduction of diazepam after continued use, or administration of flumazenil (a benzodiazepine antagonist) may precipitate acute withdrawal reactions, which can be life-threatening (e.g., seizures) (see DRUG ABUSE AND DEPENDENCE: Dependence).
 
 Protracted Withdrawal Syndrome
 
@@ -107,8 +107,8 @@ Inform patients about the signs and symptoms of benzodiazepine abuse, misuse, an
 
 Withdrawal Reactions
 
-Inform patients that the continued use of diazepam for several days to weeks may lead to clinically significant physical dependence and that abrupt discontinuation or rapid dosage reduction of diazepam may precipitate acute withdrawal reactions, which can be life-threatening.
-Inform patients that in some cases, patients have developed a protracted withdrawal syndrome with withdrawal symptoms lasting weeks to more than 12 months.
+Inform patients that the continued use of diazepam may lead to clinically significant physical dependence and that abrupt discontinuation or rapid dosage reduction of diazepam may precipitate acute withdrawal reactions, which can be life-threatening.
+Inform patients that in some cases, patients taking benzodiazepines have developed a protracted withdrawal syndrome with withdrawal symptoms lasting weeks to more than 12 months.
 Instruct patients that discontinuation or dosage reduction of diazepam may require a slow taper (see WARNINGS: Dependence and Withdrawal Reactions and DRUG ABUSE AND DEPENDENCE).
 
 Patients should be advised against the simultaneous ingestion of alcohol and other CNS-depressant drugs during diazepam therapy.

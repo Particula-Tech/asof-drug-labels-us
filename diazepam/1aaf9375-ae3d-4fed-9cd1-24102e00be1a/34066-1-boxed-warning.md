@@ -7,6 +7,7 @@
 5. •The use of benzodiazepines, including diazepam, exposes users to risks of abuse, misuse, and addiction, which can lead to overdose or death.
    Abuse and misuse of benzodiazepines commonly involve concomitant use of other medications, alcohol, and/or illicit substances, which is associated with an increased frequency of serious adverse outcomes.
    Before prescribing diazepam and throughout treatment, assess each patient’s risk for abuse, misuse, and addiction (see WARNINGS).
-6. •The continued use of benzodiazepines, including diazepam, for several days to weeks may lead to clinically significant physical dependence.
+6. •The continued use of benzodiazepines, including diazepam, may lead to clinically significant physical dependence.
+   The risks of dependence and withdrawal increase with longer treatment duration and higher daily dose.
    Abrupt discontinuation or rapid dosage reduction of diazepam after continued use may precipitate acute withdrawal reactions, which can be life-threatening.
    To reduce the risk of withdrawal reactions, use a gradual taper to discontinue diazepam or reduce the dosage (see DOSAGE AND ADMINISTRATION and WARNINGS).
