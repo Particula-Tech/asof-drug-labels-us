@@ -58,14 +58,7 @@ Any patient with a history of bisphosphonate exposure who presents with thigh or
 Patients presenting with an atypical femur fracture should also be assessed for symptoms and signs of fracture in the contralateral limb.
 Interruption of bisphosphonate therapy should be considered, pending a risk/benefit assessment, on an individual basis.
 
-## 5.6 Pregnancy
-
-ZOLEDRONIC ACID INJECTION SHOULD NOT BE USED DURING PREGNANCY.
-Zoledronic Acid Injection may cause fetal harm when administered to a pregnant woman.
-If the patient becomes pregnant while taking this drug, the patient should be apprised of the potential harm to the fetus.
-Women of childbearing potential should be advised to avoid becoming pregnant while on Zoledronic Acid Injection therapy [see Use in Specific Populations (8.1)].
-
-## 5.7 Musculoskeletal Pain
+## 5.6 Musculoskeletal Pain
 
 In post-marketing experience, severe and occasionally incapacitating bone, joint, and/or muscle pain have been infrequently reported in patients taking bisphosphonates, including Zoledronic Acid Injection.
 The time to onset of symptoms varied from one day to several months after starting the drug.
@@ -73,7 +66,7 @@ Consider withholding future Zoledronic Acid Injection treatment if severe sympto
 Most patients had relief of symptoms after stopping.
 A subset had recurrence of symptoms when rechallenged with the same drug or another bisphosphonate [see Adverse Reactions (6.2)].
 
-## 5.8 Patients with Asthma
+## 5.7 Patients with Asthma
 
 While not observed in clinical trials with Zoledronic Acid Injection, there have been reports of bronchoconstriction in aspirin-sensitive patients receiving bisphosphonates.
 Use Zoledronic Acid Injection with caution in aspirin-sensitive patients.

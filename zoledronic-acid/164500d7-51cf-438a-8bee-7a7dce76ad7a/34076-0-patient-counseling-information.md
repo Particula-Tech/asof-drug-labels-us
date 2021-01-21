@@ -1,6 +1,6 @@
 # 17 PATIENT COUNSELING INFORMATION
 
-See FDA-Approved Medication Guide
+Advise the patient to read the FDA-approved patient labeling (Medication Guide).
 
 Information for Patients
 
@@ -46,6 +46,6 @@ Brands listed are the trademarks of their respective owners.
 
 SAGENT®
 
-Mfd. for SAGENT Pharmaceuticals Schaumburg, IL 60195 (USA) Made in Switzerland ©2018 Sagent Pharmaceuticals, Inc.
+Mfd. for SAGENT Pharmaceuticals Schaumburg, IL 60195 (USA) Made in Switzerland ©2020 Sagent Pharmaceuticals, Inc.
 
-Revised: May 2018
+Revised: August 2020

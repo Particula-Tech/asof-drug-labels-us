@@ -16,10 +16,11 @@ The percentage of patients who withdrew from the study due to adverse events was
 Adverse reactions occurring in at least 2% of the Paget's patients receiving Zoledronic Acid Injection (single 5 mg intravenous infusion) or risedronate (30 mg oral daily dose for 2 months) over a 6-month study period are listed by system organ class in Table 1.
 
 Table 1.
-Adverse Reactions Reported in at Least 2% of Paget's Patients Receiving Zoledronic Acid Injection (Single 5 mg intravenous Infusion) or Risedronate (Oral 30 mg Daily for 2 Months) Over a 6-Month Follow-Up Period
+Adverse Reactions Reported in at Least 2% of Paget's Patients Receiving Zoledronic Acid Injection (Single 5 mg intravenous Infusion) or Risedronate (Oral 30 mg Daily for 2 Months) Over a 6-Month Follow-up Period
 
-|  | 5 mg IV Zoledronic Acid Injection % | 30 mg/day x 2 Months risedronate % |
+|  | 5 mg IV Zoledronic Acid Injection | 30 mg/day x 2 Months risedronate |
 | --- | --- | --- |
+|  | % | % |
 | System Organ Class | (N = 177) | (N = 172) |
 | Infections and Infestations |  |  |
 | Influenza | 7 | 5 |

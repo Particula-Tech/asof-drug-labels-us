@@ -4,7 +4,8 @@ Zoledronic Acid Injection is supplied as follows:
 
 | NDC | Zoledronic Acid Injection (0.05 mg per mL) | Package Factor |
 | --- | --- | --- |
-| 25021-830-82 | 5 mg per 100 mL ready-to-infuse solution in a flexible plastic container (bag) | 1 bag per carton |
+| 25021-830-82 | 5 mg per 100 mL ready-to-infuse solution | 1 bag per carton |
+|  | in a flexible plastic container (bag) |  |
 
 Handling
 
@@ -20,4 +21,5 @@ Single-use only.
 Discard unused portion.
 
 Sterile, Nonpyrogenic, Preservative-free, DEHP-free, PVC-free.
+
 The container closure is not made with natural rubber latex.
