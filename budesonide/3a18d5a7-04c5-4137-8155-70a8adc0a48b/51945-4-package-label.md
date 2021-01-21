@@ -4,7 +4,7 @@ Rx Only
 
 NDC 0574-9855-10
 
-Budesonide Extended-Release Capsules 3mg
+Budesonide Delayed-release Capsules 3mg
 
 100 Capsules
 

@@ -6,7 +6,7 @@ When corticosteroids are used chronically, systemic effects such as hypercortici
 Corticosteroids can reduce the response of the hypothalamus-pituitary-adrenal (HPA) axis to stress.
 In situations where patients are subject to surgery or other stress situations, supplementation with a systemic corticosteroid is recommended.
 
-Since budesonide extended-release capsules contain a corticosteroid, general warnings concerning corticosteroids should be followed [see Warnings and Precautions (5.2), (5.3), (5.4)].
+Since budesonide delayed-release capsules contain a corticosteroid, general warnings concerning corticosteroids should be followed [see Warnings and Precautions (5.2), (5.3), (5.4)].
 
 Pediatric patients with Crohn’s disease have a slightly higher systemic exposure of budesonide and increased cortisol suppression than adults with Crohn’s disease [see Use in Specific Populations (8.4), Clinical Pharmacology (12.2)].
 Patients with moderate to severe hepatic impairment (Child-Pugh Class B and C respectively) could be at an increased risk of hypercorticism and adrenal axis suppression due to an increased systemic exposure of oral budesonide.
@@ -14,10 +14,10 @@ Avoid use in patients with severe hepatic impairment (Child-Pugh Class C). Monit
 
 ## 5.2 Symptoms of Steroid Withdrawal in Patients Transferred from Other Systemic Corticosteroids
 
-Monitor patients who are transferred from corticosteroid treatment with high systemic effects to corticosteroids with lower systemic availability, such as budesonide extended-release capsules, since symptoms attributed to withdrawal of steroid therapy, including those of acute adrenal axis suppression or benign intracranial hypertension, may develop.
+Monitor patients who are transferred from corticosteroid treatment with high systemic effects to corticosteroids with lower systemic availability, such as budesonide delayed-release capsules, since symptoms attributed to withdrawal of steroid therapy, including those of acute adrenal axis suppression or benign intracranial hypertension, may develop.
 Adrenocortical function monitoring may be required in these patients and the dose of corticosteroid treatment with high systemic effects should be reduced cautiously.
 
-Replacement of systemic corticosteroids with budesonide extended-release capsules may unmask allergies (e.g., rhinitis and eczema), which were previously controlled by the systemic drug.
+Replacement of systemic corticosteroids with budesonide delayed-release capsules may unmask allergies (e.g., rhinitis and eczema), which were previously controlled by the systemic drug.
 
 ## 5.3 Increased Risk of Infection
 

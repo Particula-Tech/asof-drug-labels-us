@@ -13,17 +13,17 @@ Because clinical trials are conducted under widely varying conditions, adverse r
 
 Adults
 
-The data described below reflect exposure to budesonide extended-release capsules in 520 patients with Crohn’s disease, including 520 exposed to 9 mg per day (total daily dose) for 8 weeks and 145 exposed to 6 mg per day for one year in placebo controlled clinical trials.
+The data described below reflect exposure to budesonide delayed-release capsules in 520 patients with Crohn’s disease, including 520 exposed to 9 mg per day (total daily dose) for 8 weeks and 145 exposed to 6 mg per day for one year in placebo controlled clinical trials.
 Of the 520 patients, 38% were males and the age range was 17 to 74 years.
 
 Treatment of Mild to Moderate Active Crohn’s Disease
 
-The safety of budesonide extended-release capsules was evaluated in 651 adult patients in five clinical trials of 8 weeks duration in patients with active mild to moderate Crohn’s disease.
+The safety of budesonide delayed-release capsules was evaluated in 651 adult patients in five clinical trials of 8 weeks duration in patients with active mild to moderate Crohn’s disease.
 The most common adverse reactions, occurring in greater than or equal to 5% of the patients, are listed in Table 1.
 
 Table 1: Common Adverse Reactions1 in 8-Week Treatment Clinical Trials
 
-| Adverse Reaction | Budesonide Extended-Release Capsules 9 mgn=520Number (%) | Placebon=107Number (%) | Prednisolone240 mgn=145Number (%) | Comparator3n=88Number (%) |
+| Adverse Reaction | Budesonide Delayed-release Capsules 9 mgn=520Number (%) | Placebon=107Number (%) | Prednisolone240 mgn=145Number (%) | Comparator3n=88Number (%) |
 | --- | --- | --- | --- | --- |
 | Headache | 107 (21) | 19 (18) | 31 (21) | 11 (13) |
 | Respiratory Infection | 55 (11) | 7 (7) | 20 (14) | 5 (6) |
@@ -50,7 +50,7 @@ The incidence of signs and symptoms of hypercorticism reported by active questio
 
 Table 2: Summary and Incidence of Signs/Symptoms of Hypercorticism in 8-Week Treatment Clinical Trials
 
-| Signs/Symptom | Budesonide Extended-Release Capsules9 mgn=427Number (%) | Placebon=107Number (%) | Prednisolone140 mgn=145Number (%) |
+| Signs/Symptom | Budesonide Delayed-release Capsules9 mgn=427Number (%) | Placebon=107Number (%) | Prednisolone140 mgn=145Number (%) |
 | --- | --- | --- | --- |
 | Total | 145 (34%) | 29 (27%) | 69 (48%) |
 | Acne | 63 (15) | 14 (13) | 33 (23)2 |
@@ -65,24 +65,24 @@ Table 2: Summary and Incidence of Signs/Symptoms of Hypercorticism in 8-Week Tre
 Prednisolone tapering scheme: either 40 mg in week 1-2, there after tapering with 5 mg/week; or 40 mg in week 1 to 2, 30 mg in week 3 to 4, thereafter tapering with 5 mg/week.
 
 2.
-Statistically significantly different from budesonide extended-release capsules 9 mg.
+Statistically significantly different from budesonide delayed-release capsules 9 mg.
 
 3.
 Including hair growth increased, local and hair growth increased, general.
 
 Maintenance of Clinical Remission of Mild to Moderate Crohn’s Disease
 
-The safety of budesonide extended-release capsules was evaluated in 233 adult patients in four long-term clinical trials (52 weeks) of maintenance of clinical remission in patients with mild to moderate Crohn’s disease.
-A total of 145 patients were treated with budesonide extended-release capsules 6 mg once daily.
+The safety of budesonide delayed-release capsules was evaluated in 233 adult patients in four long-term clinical trials (52 weeks) of maintenance of clinical remission in patients with mild to moderate Crohn’s disease.
+A total of 145 patients were treated with budesonide delayed-release capsules 6 mg once daily.
 
-The adverse reaction profile of budesonide extended-release capsules 6 mg once daily in maintenance of Crohn’s disease was similar to that of short-term treatment with budesonide extended-release capsules 9 mg once daily in active Crohn’s disease.
+The adverse reaction profile of budesonide delayed-release capsules 6 mg once daily in maintenance of Crohn’s disease was similar to that of short-term treatment with budesonide delayed-release capsules 9 mg once daily in active Crohn’s disease.
 In the long-term clinical trials, the following adverse reactions occurred in greater than or equal to 5% and are not listed in Table 1: diarrhea (10%); sinusitis (8%); infection viral (6%); and arthralgia (5%).
 
 Signs/symptoms of hypercorticism reported by active questioning of patients in the long-term maintenance clinical trials are displayed in Table 3.
 
 Table 3: Summary and Incidence of Signs/Symptoms of Hypercorticism in Long-Term Clinical Trials
 
-| Signs/Symptom | Budesonide Extended-Release Capsules3 mgn=88Number (%) | Budesonide Extended-Release Capsules6 mgn=145Number (%) | Placebon=143Number (%) |
+| Signs/Symptom | Budesonide Delayed-release Capsules3 mgn=88Number (%) | Budesonide Delayed-release Capsules6 mgn=145Number (%) | Placebon=143Number (%) |
 | --- | --- | --- | --- |
 | Bruising Easily | 4 (5) | 15 (10) | 5 (4) |
 | Acne | 4 (5) | 14 (10) | 3 (2) |
@@ -96,7 +96,7 @@ The incidence of signs/symptoms of hypercorticism as described above in long-ter
 
 Less Common Adverse Reactions in Treatment and Maintenance Clinical Trials
 
-Less common adverse reactions (less than 5%), occurring in adult patients treated with budesonide extended-release capsules 9 mg (total daily dose) in short-term treatment clinical studies and/or budesonide extended-release capsules 6 mg (total daily dose) in long-term maintenance clinical trials, with an incidence are listed below by system organ class:
+Less common adverse reactions (less than 5%), occurring in adult patients treated with budesonide delayed-release capsules 9 mg (total daily dose) in short-term treatment clinical studies and/or budesonide delayed-release capsules 6 mg (total daily dose) in long-term maintenance clinical trials, with an incidence are listed below by system organ class:
 
 Cardiac disorders: palpitation, tachycardia
 
@@ -130,13 +130,13 @@ Vascular disorders: flushing, hypertension
 
 Bone Mineral Density
 
-A randomized, open, parallel-group multicenter safety clinical trial specifically compared the effect of budesonide extended-release capsules (less than 9 mg per day) and prednisolone (less than 40 mg per day) on bone mineral density over 2 years when used at doses adjusted to disease severity.
-Bone mineral density decreased significantly less with budesonide extended-release capsules than with prednisolone in steroid-naïve patients, whereas no difference could be detected between treatment groups for steroid-dependent patients and previous steroid users.
+A randomized, open, parallel-group multicenter safety clinical trial specifically compared the effect of budesonide delayed-release capsules (less than 9 mg per day) and prednisolone (less than 40 mg per day) on bone mineral density over 2 years when used at doses adjusted to disease severity.
+Bone mineral density decreased significantly less with budesonide delayed-release capsules than with prednisolone in steroid-naïve patients, whereas no difference could be detected between treatment groups for steroid-dependent patients and previous steroid users.
 The incidence of symptoms associated with hypercorticism was significantly higher with prednisolone treatment.
 
 Clinical Laboratory Test Findings
 
-The following potentially clinically significant laboratory changes in clinical trials, irrespective of relationship to budesonide extended-release capsules, were reported in greater than or equal to 1% of patients: hypokalemia, leukocytosis, anemia, hematuria, pyuria, erythrocyte sedimentation rate increased, alkaline phosphatase increased, atypical neutrophils, c-reactive protein increased and adrenal insufficiency.
+The following potentially clinically significant laboratory changes in clinical trials, irrespective of relationship to budesonide delayed-release capsules, were reported in greater than or equal to 1% of patients: hypokalemia, leukocytosis, anemia, hematuria, pyuria, erythrocyte sedimentation rate increased, alkaline phosphatase increased, atypical neutrophils, c-reactive protein increased and adrenal insufficiency.
 
 Pediatrics -- Treatment of Mild to Moderate Active Crohn’s Disease
 
@@ -144,7 +144,7 @@ Adverse reactions reported in pediatric patients 8 to 17 years of age, who weigh
 
 ## 6.2 Postmarketing Experience
 
-The following adverse reactions have been reported during post-approval use of budesonide extended-release capsules.
+The following adverse reactions have been reported during post-approval use of budesonide delayed-release capsules.
 Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
 
 Immune System Disorders: Anaphylactic reactions

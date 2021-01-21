@@ -4,8 +4,8 @@ Advise Patients to read the FDA-Approved patient labeling (Patient Information).
 
 Hypercorticism and Adrenal Axis Suppression
 
-Advise patients that budesonide extended-release capsules may cause hypercorticism and adrenal axis suppression and to follow a taper schedule, as instructed by their healthcare provider if transferring to budesonide extended-release capsules from systemic corticosteroids [see Warnings and Precautions (5.1), (5.2)].
-Advise patients that replacement of systemic corticosteroids with budesonide extended-release capsules may unmask allergies (e.g., rhinitis and eczema), which were previously controlled by the systemic drug.
+Advise patients that budesonide delayed-release capsules may cause hypercorticism and adrenal axis suppression and to follow a taper schedule, as instructed by their healthcare provider if transferring to budesonide delayed-release capsules from systemic corticosteroids [see Warnings and Precautions (5.1), (5.2)].
+Advise patients that replacement of systemic corticosteroids with budesonide delayed-release capsules may unmask allergies (e.g., rhinitis and eczema), which were previously controlled by the systemic drug.
 
 Increased Risk of Infection
 
@@ -14,14 +14,14 @@ Inform patients that they are at increased risk of developing a variety of infec
 
 Pregnancy
 
-Advise female patients that budesonide extended-release capsules may cause fetal harm and to inform their healthcare provider with a known or suspected pregnancy [see Use in Specific Populations (8.1)].
+Advise female patients that budesonide delayed-release capsules may cause fetal harm and to inform their healthcare provider with a known or suspected pregnancy [see Use in Specific Populations (8.1)].
 
 Administration
 
-1. • Take budesonide extended-release capsules once daily in the morning.
-2. • Swallow budesonide extended-release capsules whole.
-   Do not chew or crush
-3. • For patients unable to swallow an intact capsule, budesonide extended-release capsules can be opened and administered as follows:
+1. • Take budesonide delayed-release capsules once daily in the morning.
+2. • Swallow budesonide delayed-release capsules whole.
+   Do not chew or crush.
+3. • For patients unable to swallow an intact capsule, budesonide delayed-release capsules can be opened and administered as follows:
 4. 1.Place one tablespoonful of applesauce into a clean container (e.g., empty bowl).
    The applesauce used should not be hot and should be soft enough to be swallowed without chewing.
 5. 2.Open the capsule(s).
@@ -31,8 +31,8 @@ Administration
    Do not chew or crush the granules.
    Do not save the applesauce and granules for future use.
 9. 6.Follow the applesauce and granules immediately with a glass (8 ounces) of cool water to ensure complete swallowing of the granules.
-10. • Avoid consumption of grapefruit juice for the duration of their budesonide extended-release capsules therapy [see Drug Interactions (7.1)].
+10. • Avoid consumption of grapefruit juice for the duration of their budesonide delayed-release capsules therapy [see Drug Interactions (7.1)].
 
-ENTOCORT is a registered trademark of Perrigo Pharma International DAC © Perrigo Pharma International DAC 2016
+ENTOCORT is a registered trademark of Perrigo Pharma International DAC. © Perrigo Pharma International DAC 2016
 
-Revised: 03/2019
+Revised: 10/2020

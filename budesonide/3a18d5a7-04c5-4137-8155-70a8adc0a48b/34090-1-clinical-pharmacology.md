@@ -6,25 +6,25 @@ Budesonide is an anti-inflammatory corticosteroid and has a high glucocorticoid 
 
 ## 12.2 Pharmacodynamics
 
-Treatment with glucocorticoids, including budesonide extended-release capsules is associated with a suppression of endogenous cortisol concentrations and an impairment of the hypothalamus-pituitary-adrenal (HPA) axis function.
+Treatment with glucocorticoids, including budesonide delayed-release capsules is associated with a suppression of endogenous cortisol concentrations and an impairment of the hypothalamus-pituitary-adrenal (HPA) axis function.
 There was a positive correlation between the percent (%) reduction of AUC0-24 of plasma cortisol and systemic exposure to budesonide both in pediatric and adult patients.
 
 Adults
 
-Plasma cortisol suppression was compared following five days’ administration of budesonide extended-release capsules and prednisolone in a crossover study in healthy volunteers.
-The mean decrease in the area under the plasma cortisol concentration-time curve over 24 hour (AUC0-24) was greater (78%) with prednisolone 20 mg per day compared to 45% with budesonide extended-release capsules 9 mg per day.
+Plasma cortisol suppression was compared following five days’ administration of budesonide delayed-release capsules and prednisolone in a crossover study in healthy volunteers.
+The mean decrease in the area under the plasma cortisol concentration-time curve over 24 hour (AUC0-24) was greater (78%) with prednisolone 20 mg per day compared to 45% with budesonide delayed-release capsules 9 mg per day.
 
 Pediatrics
 
-The effect of budesonide on endogenous cortisol concentrations was compared between pediatrics (n=8, aged 9 to 14 years) and adults (n=6) with active Crohn’s disease following administration of budesonide extended-release capsules 9 mg once daily for 7 days.
-Compared to baseline values before treatment, the mean decrease in the AUC0-24 of cortisol was 64% (±18%) in pediatrics and 50% (±27%) in adults after budesonide extended-release capsules treatment [see Warnings and Precautions (5.1), Adverse Reactions (6.1) and Use in Specific Populations (8.4)].
+The effect of budesonide on endogenous cortisol concentrations was compared between pediatrics (n=8, aged 9 to 14 years) and adults (n=6) with active Crohn’s disease following administration of budesonide delayed-release capsules 9 mg once daily for 7 days.
+Compared to baseline values before treatment, the mean decrease in the AUC0-24 of cortisol was 64% (±18%) in pediatrics and 50% (±27%) in adults after budesonide delayed-release capsules treatment [see Warnings and Precautions (5.1), Adverse Reactions (6.1) and Use in Specific Populations (8.4)].
 
 The responses to adrenocorticotropin challenge (i.e., ACTH stimulation test) was studied in pediatric patients aged 8 to 17 years, with mild to moderate active Crohn’s disease in randomized, double-blind, active control study [see Clinical Studies (14.1)].
-After 8 weeks of treatment with 9 mg once daily budesonide extended-release capsules or with prednisolone, administered at tapering doses starting from 1 mg/kg, the proportion of patients with normal response to the ACTH challenge was 6% in the budesonide group compared to none in the prednisolone group; the proportion of patients with morning p-cortisol of greater than 5 mcg/dL was 50% in the budesonide group compared to 22% in the prednisolone group.
+After 8 weeks of treatment with 9 mg once daily budesonide delayed-release capsules or with prednisolone, administered at tapering doses starting from 1 mg/kg, the proportion of patients with normal response to the ACTH challenge was 6% in the budesonide group compared to none in the prednisolone group; the proportion of patients with morning p-cortisol of greater than 5 mcg/dL was 50% in the budesonide group compared to 22% in the prednisolone group.
 The mean morning p-cortisol was 6.3 mcg/dL in the budesonide group and 2.6 mcg/dL in the prednisolone group (Table 4).
 
 Table 4.
-Proportion of Pediatric Patients 8 to 17 years old with Peak Endogenous Cortisol Levels (above 18 mcg/dL) after ACTH Stimulation and Normal Response* to ACTH Challenge Following Administration of Budesonide Extended-Release Capsules or Prednisolone for 8 weeks
+Proportion of Pediatric Patients 8 to 17 years old with Peak Endogenous Cortisol Levels (above 18 mcg/dL) after ACTH Stimulation and Normal Response* to ACTH Challenge Following Administration of Budesonide Delayed-release Capsules or Prednisolone for 8 weeks
 
 |  | Budesonide | Prednisolone |
 | --- | --- | --- |
@@ -44,20 +44,21 @@ Cortisol concentration was measured at 30 min after intravenous or intramuscular
 
 Absorption
 
-Following administration of budesonide extended-release capsules, the time to peak concentration varied in individual patients between 30 and 600 minutes.
 Mean oral bioavailability of budesonide ranged from 9% to 21% both in patients and in healthy subjects, demonstrating a high first-pass elimination of the drug.
 
 Budesonide pharmacokinetics were dose-proportional following repeated administration in the dose range of 3 to 15 mg.
 No accumulation of budesonide was observed following repeated dosing.
 
-Following oral administration of a single dose of 9 mg budesonide extended-release capsules in healthy subjects under fasting condition, the mean peak plasma concentration (Cmax) and the area under the plasma concentration time curve (AUC) for budesonide were 1.50 ± 0.79 ng/mL and 14.13 ± 7.33 ng•hr/mL, respectively.
+Following oral administration of a single dose of 9 mg budesonide delayed-release capsules in healthy subjects under fasting condition, the mean peak plasma concentration (Cmax) and the area under the plasma concentration time curve (AUC) for budesonide were 1.50 ± 0.79 ng/mL and 14.13 ± 7.33 ng•hr/mL, respectively.
 The time to peak concentration (Tmax) varied between 2 and 8 hours with a median value of 3.5 hours.
-In a different study, following oral administration of 9 mg budesonide extended-release capsules for five days in healthy subjects, the mean Cmax and the steady state AUC for budesonide were 2.28 ± 0.77 ng/mL and 15.93 ± 6.29 ng•hr/mL, respectively.
+In a different study, following oral administration of 9 mg budesonide delayed-release capsules for five days in healthy subjects, the mean Cmax and the steady state AUC for budesonide were 2.28 ± 0.77 ng/mL and 15.93 ± 6.29 ng•hr/mL, respectively.
 
-Following administration of 9 mg budesonide extended-release capsules once daily in patients with active Crohn’s disease, the mean Cmax and AUC were 1.72 ± 0.90 ng/mL and 15.07 ± 8.52 ng•hr/mL, respectively.
+Following administration of 9 mg budesonide delayed-release capsules once daily in patients with active Crohn’s disease, the mean Cmax and AUC were 1.7 ± 0.9 ng/mL and 15.1 ± 8.5 ng•hr/mL, respectively.
+Following administration of budesonide delayed-release capsules, the Tmax ranged in individual patients from 0.5 to 10 hours.
 
-Concomitant administration of a high-fat meal delayed the Tmax of budesonide from budesonide extended-release capsules by 2.3 hours but did not significantly affect the AUC in healthy subjects.
-The Cmax and AUC to budesonide was similar when single dose of budesonide extended-release capsules (9 mg) were administered after opening capsule and sprinkling granules on applesauce versus as intact capsules in the fasted state (N=24) in healthy subjects.
+Concomitant administration of a high-fat meal delayed the Tmax of budesonide by 2.3 hours compared to that under fasted conditions but did not significantly affect the AUC in healthy subjects.
+The mean Cmax and AUC of budesonide were similar when single dose of budesonide delayed-release capsules (9 mg) was administered after opening the capsules and sprinkling the granules on applesauce versus as intact capsules in the fasted state (N=24) in healthy subjects.
+The Tmax ranged from 3 to 10 hours with a median of 4 hours after administration of sprinkled granules on applesauce.
 
 Distribution
 
@@ -71,6 +72,7 @@ Budesonide had a plasma clearance, 0.9 to 1.8 L/min in healthy adults.
 Mean plasma clearance after intravenous administration of budesonide in patients with Crohn’s disease was 1.0 L/min.
 These plasma clearance values approached the estimated liver blood flow, and, accordingly, suggest that budesonide is a high hepatic clearance drug.
 The plasma elimination half-life, after administration of intravenous doses ranged between 2 and 3.6 hours, and did not differ between healthy adults and patients with Crohn’s disease.
+The mean ± SD plasma elimination half-life after a single dose of budesonide delayed-release capsules (9 mg) in the fasted state (N=24) in healthy subjects was 6.3 ± 1.6 hours and ranged between 2 and 8 hours.
 
 Metabolism
 
@@ -90,8 +92,8 @@ Specific Populations
 
 Age: Pediatric Population (8 years and older)
 
-The pharmacokinetics of budesonide were investigated in pediatric patients aged 9 to 14 years (n=8) after oral administration of budesonide extended-release capsules and intravenous administration of budesonide.
-Following administration of 9 mg budesonide extended-release capsules once daily for 7 days, the median time to peak plasma concentration of budesonide was 5 hours and the mean peak plasma concentration was 2.58 ± 1.51 ng/mL.
+The pharmacokinetics of budesonide were investigated in pediatric patients aged 9 to 14 years (n=8) after oral administration of budesonide delayed-release capsules and intravenous administration of budesonide.
+Following administration of 9 mg budesonide delayed-release capsules once daily for 7 days, the median time to peak plasma concentration of budesonide was 5 hours and the mean peak plasma concentration was 2.58 ± 1.51 ng/mL.
 The mean AUC was 17.78 ± 5.25 ng•hr/mL and 17% higher than that in adult patients with Crohn’s disease in the same study.
 The mean absolute oral availability was 9.2% (3 to 17%; n=4) in pediatric patients.
 
@@ -122,7 +124,7 @@ Co-administration of ketoconazole resulted in an eight-fold increase in AUC of b
 
 Grapefruit Juice
 
-In an open, randomized, cross-over study, 8 healthy subjects were given budesonide capsules 3 mg, either alone, or concomitantly with 600 mL concentrated grapefruit juice (which inhibits CYP3A4 activity predominantly in the intestinal mucosa), on the last of 4 daily administrations.
+In an open, randomized, cross-over study, 8 healthy subjects were given budesonide delayed-release capsules 3 mg, either alone, or concomitantly with 600 mL concentrated grapefruit juice (which inhibits CYP3A4 activity predominantly in the intestinal mucosa), on the last of 4 daily administrations.
 Concomitant administration of grapefruit juice resulted in a 2-fold increase of the bioavailability of budesonide compared to budesonide alone [see Drug Interactions (7.1)].
 
 Oral Contraceptives (CYP3A4 Substrates)
@@ -133,7 +135,7 @@ The effect of budesonide 9 mg once daily on the plasma concentrations of ethinyl
 
 Omeprazole
 
-In a study in 11 healthy subjects, performed in a double-blind, randomized, placebo controlled manner, the effect of 5 to 6 days treatment with omeprazole 20 mg once daily on the pharmacokinetics of budesonide administered as budesonide capsules 9 mg as a single dose was investigated.
+In a study in 11 healthy subjects, performed in a double-blind, randomized, placebo controlled manner, the effect of 5 to 6 days treatment with omeprazole 20 mg once daily on the pharmacokinetics of budesonide administered as budesonide delayed-release capsules 9 mg as a single dose was investigated.
 Omeprazole 20 mg once daily did not affect the absorption or pharmacokinetics of budesonide.
 
 Cimetidine

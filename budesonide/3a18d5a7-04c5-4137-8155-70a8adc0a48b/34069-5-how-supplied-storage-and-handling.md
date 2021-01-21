@@ -1,6 +1,6 @@
 # 16 HOW SUPPLIED/STORAGE AND HANDLING
 
-Budesonide 3 mg extended-release capsules are hard gelatin capsules with an opaque light grey body and an opaque pink cap, coded with ENTOCORT EC 3 mg on the capsule and are supplied as follows:
+Budesonide 3 mg delayed-release capsules are hard gelatin capsules with an opaque light grey body and an opaque pink cap, coded with ENTOCORT EC 3 mg on the capsule and are supplied as follows:
 
 1. NDC 0574–9855–10 Bottles of 100
 
