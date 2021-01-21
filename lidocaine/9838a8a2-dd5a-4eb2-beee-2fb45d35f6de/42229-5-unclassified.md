@@ -1,2 +1,2 @@
-Distributed by: TaroPharma® a division of Taro Pharmaceuticals U.S.A., Inc., Hawthorne, NY 10532 TaroPharma® and Pliaglis® are registered trademarks of Taro Pharmaceuticals U.S.A., Inc. and/or its affiliates.
-Made in Canada Revised: April 2019 LPK-8760-4 33
+Distributed by: TaroPharma® a division of Taro Pharmaceuticals U.S.A., Inc., Hawthorne, NY 10532 All trademarks are the property of their respective owners.
+Made in Canada Revised: August 2020 5211515 121

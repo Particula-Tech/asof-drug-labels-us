@@ -61,4 +61,4 @@ Step 6: Clean and Store Applicator
 
 | Wash the applicator with soap and water to remove any PLIAGLIS Cream remaining on the applicator.Dry the applicator.Store the applicator in the carton with the tube of PLIAGLIS Cream for future use. |  |
 | --- | --- |
-| This Instructions for Use has been approved by the U.S. Food and Drug Administration | Issued: 04/2019 |
+| This Instructions for Use has been approved by the U.S. Food and Drug Administration | Revised: August 2020 |
