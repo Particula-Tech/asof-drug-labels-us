@@ -1,4 +1,4 @@
-# 3DOSAGE FORMS AND STRENGTHS
+# 3 DOSAGE FORMS AND STRENGTHS
 
 NEUPOGEN is a clear, colorless, preservative-free solution available as:
 

@@ -29,7 +29,7 @@ Discontinue NEUPOGEN if sickle cell crisis occurs.
 
 Glomerulonephritis has occurred in patients receiving NEUPOGEN.
 The diagnoses were based upon azotemia, hematuria (microscopic and macroscopic), proteinuria, and renal biopsy.
-Generally, events of glomerulonephritis resolved after dose reduction or discontinuation of NEUPOGEN.
+Generally, events of glomerulonephritis resolved after dose-reduction or discontinuation of NEUPOGEN.
 If glomerulonephritis is suspected, evaluate for cause.
 If causality is likely, consider dose-reduction or interruption of NEUPOGEN.
 
@@ -45,16 +45,24 @@ Capillary leak syndrome (CLS) has been reported after G-CSF administration, incl
 Episodes vary in frequency, severity and may be life-threatening if treatment is delayed.
 Patients who develop symptoms of capillary leak syndrome should be closely monitored and receive standard symptomatic treatment, which may include a need for intensive care.
 
-## 5.8 Patients with Severe Chronic Neutropenia
+## 5.8 Myelodysplastic Syndrome (MDS) and Acute Myeloid Leukemia (AML)
+
+Patients with Severe Chronic Neutropenia
 
 Confirm the diagnosis of SCN before initiating NEUPOGEN therapy.
 
-Myelodysplastic syndrome (MDS) and acute myelogenous leukemia (AML) have been reported to occur in the natural history of congenital neutropenia without cytokine therapy.
+MDS and AML have been reported to occur in the natural history of congenital neutropenia without cytokine therapy.
 Cytogenetic abnormalities, transformation to MDS, and AML have also been observed in patients treated with NEUPOGEN for SCN.
 Based on available data including a postmarketing surveillance study, the risk of developing MDS and AML appears to be confined to the subset of patients with congenital neutropenia.
 Abnormal cytogenetics and MDS have been associated with the eventual development of myeloid leukemia.
 The effect of NEUPOGEN on the development of abnormal cytogenetics and the effect of continued NEUPOGEN administration in patients with abnormal cytogenetics or MDS are unknown.
+Monitor patients for signs and symptoms of MDS/AML in these settings.
 If a patient with SCN develops abnormal cytogenetics or myelodysplasia‚ the risks and benefits of continuing NEUPOGEN should be carefully considered.
+
+Patients with Breast and Lung Cancer
+
+MDS and AML have been associated with the use of NEUPOGEN in conjunction with chemotherapy and/or radiotherapy in patients with breast and lung cancer.
+Monitor patients for signs and symptoms of MDS/AML in these settings.
 
 ## 5.9 Thrombocytopenia
 

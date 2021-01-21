@@ -19,6 +19,9 @@ Advise patients of the following risks and potential risks with NEUPOGEN:
 - Glomerulonephritis may occur.
   Symptoms include swelling of the face or ankles, dark colored urine or blood in the urine, or a decrease in urine production.
   Advise patients to report signs or symptoms of glomerulonephritis to their physician immediately [see Warnings and Precautions (5.5)].
+- There may be an increased risk of Myelodysplastic Syndrome and/or Acute Myeloid Leukemia in patients with congenital neutropenia who receive Neupogen and in patients with breast and lung cancer who receive Neupogen in conjunction with chemotherapy and/or radiation therapy.
+  Symptoms of MDS and AML may include tiredness, fever, and easy bruising or bleeding.
+  Advise patients to report to their physician signs and symptoms of MDS/AML [see Warnings and Precautions (5.8)].
 - Cutaneous vasculitis may occur, which may be signaled by purpura or erythema.
   Advise patients to report signs or symptoms of vasculitis to their physician immediately [see Warnings and Precautions (5.11)].
 - Aortitis may occur.
@@ -43,10 +46,10 @@ Manufactured by: Amgen Inc. One Amgen Center Drive Thousand Oaks, California 913
 
 Patent: http://pat.amgen.com/neupogen/
 
-© 1991-2018 Amgen Inc. All rights reserved.
+© 1991-2021 Amgen Inc. All rights reserved.
 
 www.NEUPOGEN.com 1-800-77-AMGEN (1-800-772-6436)
 
 1xxxxxx
 
-v31
+v32

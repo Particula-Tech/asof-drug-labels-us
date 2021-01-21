@@ -13,7 +13,7 @@ Filgrastim has been shown to have adverse effects in pregnant rabbits at doses 2
 
 The estimated background risk of major birth defects and miscarriage for the indicated population is unknown.
 All pregnancies have a background risk of birth defect, loss, or other adverse outcomes.
-In the U.S. general population, the estimated background risks of major birth defects and miscarriage in clinically recognized pregnancies is 2-4% and 15- 20%, respectively.
+In the U.S. general population, the estimated background risks of major birth defects and miscarriage in clinically recognized pregnancies is 2-4% and 15-20%, respectively.
 
 Data
 

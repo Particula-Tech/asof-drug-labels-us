@@ -56,11 +56,11 @@ A statistically significant reduction in the median number of days of severe neu
 
 ## 14.4 Patients Undergoing Autologous Peripheral Blood Progenitor Cell Collection and Therapy
 
-The safety and efficacy of NEUPOGEN to mobilize autologous peripheral blood progenitor cells for collection by leukapheresis was supported by the experience in uncontrolled trials, and a randomized trial comparing hematopoietic stem cell rescue using NEUPOGEN mobilized autologous peripheral blood progenitor cells to autologous bone marrow (Study 11).
+The safety and efficacy of NEUPOGEN to mobilize autologous peripheral blood progenitor cells for collection by leukapheresis was supported by the experience in uncontrolled trials, and a randomized trial comparing hematopoietic stem cell rescue using NEUPOGEN-mobilized autologous peripheral blood progenitor cells to autologous bone marrow (Study 11).
 Patients in all these trials underwent a similar mobilization/collection regimen: NEUPOGEN was administered for 6 to 7 days‚ in most cases the apheresis procedure occurred on days 5‚ 6, and 7.
 The dose of NEUPOGEN ranged between 10 to 24 mcg/kg/day and was administered subcutaneously by injection or continuous intravenous infusion.
 
-Engraftment was evaluated in 64 patients who underwent transplantation using NEUPOGEN mobilized autologous hematopoietic progenitor cells in uncontrolled trials.
+Engraftment was evaluated in 64 patients who underwent transplantation using NEUPOGEN-mobilized autologous hematopoietic progenitor cells in uncontrolled trials.
 Two of the 64 patients (3%) did not achieve the criteria for engraftment as defined by a platelet count ≥ 20‚000/mm3 by day 28.
 In clinical trials of NEUPOGEN for the mobilization of hematopoietic progenitor cells‚ NEUPOGEN was administered to patients at doses between 5 to 24 mcg/kg/day after reinfusion of the collected cells until a sustainable ANC (≥ 500/mm3) was reached.
 The rate of engraftment of these cells in the absence of NEUPOGEN post transplantation has not been studied.
@@ -118,7 +118,7 @@ Efficacy studies of NEUPOGEN could not be conducted in humans with acute radiati
 Approval of this indication was based on efficacy studies conducted in animals and data supporting the use of NEUPOGEN for other approved indications [see Dosage and Administration (2.1 to 2.4)].
 
 Because of the uncertainty associated with extrapolating animal efficacy data to humans, the selection of human dose for NEUPOGEN is aimed at providing exposures to filgrastim that exceed those observed in animal efficacy studies.
-The 10 mcg/kg daily dose is selected for humans exposed to myelosuppressive doses of radiation because the exposure associated with such a dose is expected to exceed the exposure associated with a 10 mcg/kg dose in non-human primates [see Pharmacokinetics (12.3)].
+The 10 mcg/kg daily dose is selected for humans exposed to myelosuppressive doses of radiation because the exposure associated with such a dose is expected to exceed the exposure associated with a 10 mcg/kg dose in non-human primates [see Clinical Pharmacology (12.3)].
 The safety of NEUPOGEN at a daily dose of 10 mcg/kg has been assessed on the basis of clinical experience in approved indications.
 
 The efficacy of NEUPOGEN was studied in a randomized, blinded, placebo-controlled study in a non-human primate model of radiation injury.

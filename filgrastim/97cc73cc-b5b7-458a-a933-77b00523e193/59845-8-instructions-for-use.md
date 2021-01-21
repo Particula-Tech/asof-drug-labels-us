@@ -215,7 +215,7 @@ Before you use a NEUPOGEN vial, read this important information:
 
 Storing your NEUPOGEN vial
 
-- Store the vial in the refrigerator between 36˚F to 46˚F (2˚C to 8˚C).
+- Store the vial in the refrigerator between 36°F to 46°F (2°C to 8°C).
 - Do not freeze.
 - Keep the vial in the original carton to protect from light or physical damage.
 - Take the vial out of the refrigerator 30 minutes before use and allow it to reach room temperature before preparing an injection.
