@@ -6,7 +6,7 @@ TRUSOPT contains dorzolamide, a sulfonamide; and although administered topically
 Therefore, the same types of adverse reactions that are attributable to sulfonamides may occur with topical administration of TRUSOPT.
 Fatalities have occurred, although rarely, due to severe reactions to sulfonamides including Stevens-Johnson syndrome, toxic epidermal necrolysis, fulminant hepatic necrosis, agranulocytosis, aplastic anemia, and other blood dyscrasias.
 Sensitization may recur when a sulfonamide is readministered irrespective of the route of administration.
-If signs of serious reactions or hypersensitivity occur, discontinue the use of this preparation [see Contraindications (4) and Patient Counseling Information (17.3)].
+If signs of serious reactions or hypersensitivity occur, discontinue the use of this preparation [see Contraindications (4)].
 
 ## 5.2 Bacterial Keratitis
 

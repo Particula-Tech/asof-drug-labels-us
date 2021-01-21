@@ -15,8 +15,8 @@ Its empirical formula is C10H16N2O4S3∙HCl and its structural formula is:
 Dorzolamide hydrochloride has a molecular weight of 360.9 and a melting point of about 264°C.
 It is a white to off-white, crystalline powder, which is soluble in water and slightly soluble in methanol and ethanol.
 
-TRUSOPT Sterile Ophthalmic Solution is supplied as a sterile, isotonic, buffered, slightly viscous, aqueous solution of dorzolamide hydrochloride.
+TRUSOPT is supplied as a sterile, isotonic, buffered, slightly viscous, aqueous solution of dorzolamide hydrochloride.
 The pH of the solution is approximately 5.6, and the osmolarity is 260-330 mOsM.
-Each mL of TRUSOPT 2% contains 20 mg dorzolamide (22.3 mg of dorzolamide hydrochloride).
+Each mL of TRUSOPT 2% contains 20 mg dorzolamide (equivalent to 22.3 mg of dorzolamide hydrochloride).
 Inactive ingredients are hydroxyethyl cellulose, mannitol, sodium citrate dihydrate, sodium hydroxide (to adjust pH) and water for injection.
 Benzalkonium chloride 0.0075% is added as a preservative.

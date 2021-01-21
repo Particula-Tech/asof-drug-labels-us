@@ -58,6 +58,7 @@ How should I store TRUSOPT?
 
 - Store TRUSOPT between 59°F to 86°F (15°C to 30°C)
 - Protect from light
+- After opening, TRUSOPT can be used until the expiration date on the bottle
 - Safely throw away medicine that is out of date or no longer needed.
 
 Keep TRUSOPT and all medicines out of the reach of children.
