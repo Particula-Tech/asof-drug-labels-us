@@ -1,0 +1,24 @@
+{
+  "application_numbers": [
+    "NDA201922"
+  ],
+  "inn": "minocycline",
+  "labeler": "Journey Medical Corporation",
+  "package_ndcs": [
+    "69489-121-03",
+    "69489-121-30",
+    "69489-122-03",
+    "69489-122-30",
+    "69489-123-03",
+    "69489-123-30"
+  ],
+  "products": [
+    {
+      "form": "CAPSULE, EXTENDED RELEASE",
+      "generic": "minocycline hydrochloride",
+      "name": "Ximino"
+    }
+  ],
+  "setid": "8244053f-e89b-430b-97a7-021a0ed0151a",
+  "source": "dailymed"
+}
