@@ -1,53 +1,63 @@
-PRINCIPAL DISPLAY PANEL
+# PRINCIPAL DISPLAY PANEL
 
-Package Label – 150 mg
+NDC 0078-0456-05
 
-Rx Only NDC 0078-0456-05
-
-Trileptal® (oxcarbazepine)
+Trileptal® 150 mg (oxcarbazepine)
 
 100 tablets
 
+Rx only
+
 PHARMACIST: DISPENSE WITH MEDICATION GUIDE ATTACHED OR PROVIDED SEPARATELY.
 
-PRINCIPAL DISPLAY PANEL
+NOVARTIS
 
-Package Label – 300 mg
+# PRINCIPAL DISPLAY PANEL
 
-Rx Only NDC 0078-0337-05
+NDC 0078-0337-05
 
-Trileptal® (oxcarbazepine)
+Trileptal® 300 mg (oxcarbazepine)
 
 100 tablets
 
+Rx only
+
 PHARMACIST: DISPENSE WITH MEDICATION GUIDE ATTACHED OR PROVIDED SEPARATELY.
 
-PRINCIPAL DISPLAY PANEL
+NOVARTIS
 
-Package Label – 600 mg
+# PRINCIPAL DISPLAY PANEL
 
-Rx Only NDC 0078-0457-05
+NDC 0078-0457-05
 
-Trileptal® (oxcarbazepine)
+Trileptal® 600 mg (oxcarbazepine)
 
 100 tablets
 
+Rx only
+
 PHARMACIST: DISPENSE WITH MEDICATION GUIDE ATTACHED OR PROVIDED SEPARATELY.
 
-PRINCIPAL DISPLAY PANEL
+NOVARTIS
 
-Package Label – 300 mg / 5 mL
+# PRINCIPAL DISPLAY PANEL
 
-Rx Only NDC 0078-0357-52
+NDC 0078-0357-52
 
-Trileptal® Oral Suspension
+Rx only
 
-(oxcarbazepine)
+Trileptal® (oxcarbazepine)
 
-250 mL
+Oral Suspension
 
-IMPORTANT: Shake well before using.
+300 mg/5 mL
+
+PHARMACIST: DISPENSE WITH MEDICATION GUIDE ENCLOSED OR PROVIDED SEPARATELY
+
+Shake well before using.
 
 Each 5 mL contains 300 mg oxcarbazepine.
 
-PHARMACIST: DISPENSE WITH MEDICATION GUIDE ENCLOSED OR PROVIDED SEPARATELY.
+250 mL
+
+NOVARTIS
