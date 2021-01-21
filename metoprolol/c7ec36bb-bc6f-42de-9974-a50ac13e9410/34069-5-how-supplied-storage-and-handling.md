@@ -1,21 +1,15 @@
-# HOW SUPPLIED
+# 16 HOW SUPPLIED/STORAGE AND HANDLING
 
-Metoprolol Tartrate Injection, USP is a clear and colorless solution available as:
+5 mL Single Dose Vials – each containing 5 mg of Metoprolol Tartrate, USP
 
-5 mL Single Dose Vials - each containing 5 mg Metoprolol Tartrate, USP.
-Cartons of 10 vials NDC 0143-9873-10 Cartons of 25 vials NDC 0143-9873-25
+Carton of 10 vials.......................................................................................................................NDC 0143-9873-10 Carton of 25 vials.......................................................................................................................NDC 0143-9873-25
 
-Also available in Oversized vials (10 mL) with large mouth (20 mm).
-Carton of 10 vials NDC 0143-9660-10 Carton of 25 vials NDC 0143-9660-25
+Also available in oversized vials (10 mL) with large mouth (20 mm)
 
-Store at 20º to 25ºC (68º to 77ºF) [See USP Controlled Room Temperature].
+Carton of 10 vials.......................................................................................................................NDC 0143-9660-10
+
+Store at 20° to 25°C (68° to 77°F) [see USP Controlled Room Temperature].
 Protect from light and heat.
 Do not freeze.
+
 Retain in carton until time of use.
-
-Manufactured by: HIKMA FARMACÊUTICA (PORTUGAL), S.A.
-Estrada do Rio da Mó, 8, 8A e 8B – Fervença – 2705-906 Terrugem SNT, PORTUGAL
-
-Distributed by: WEST-WARD PHARMACEUTICAL CORP. Eatontown, NJ 07724 USA
-
-Revised: 10/2015 PIN155-WES/11
