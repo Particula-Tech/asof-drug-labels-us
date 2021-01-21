@@ -4,11 +4,11 @@
 
 The antihypertensive effects of irbesartan tablets were examined in 7 placebo-controlled 8-to 12-week trials in patients with baseline diastolic blood pressures of 95 to 110 mmHg.
 Doses of 1 mg to 900 mg were included in these trials in order to fully explore the dose-range of irbesartan.
-These studies allowed comparison of once-or twice-daily regimens at 150 mg/day, comparisons of peak and trough effects, and comparisons of response by sex, age, and race.
+These studies allowed comparison of once or twice-daily regimens at 150 mg/day, comparisons of peak and trough effects, and comparisons of response by sex, age, and race.
 Two of the seven placebo-controlled trials identified above examined the antihypertensive effects of irbesartan and hydrochlorothiazide in combination.
 
 The 7 studies of irbesartan monotherapy included a total of 1915 patients randomized to irbesartan (1mg to 900 mg) and 611 patients randomized to placebo.
-Once-daily doses of 150 mg and 300 mg provided statistically and clinically significant decreases in systolic and diastolic blood pressure with trough (24 hours post dose) effects after 6 to 12 weeks of treatment compared to placebo, of about 8-10/5-6 mmHg and 8-12/5-8 mmHg, respectively.
+Once-daily doses of 150 mg and 300 mg provided statistically and clinically significant decreases in systolic and diastolic blood pressure with trough (24 hours post-dose) effects after 6 to 12 weeks of treatment compared to placebo, of about 8-10/5-6 mmHg and 8-12/5-8 mmHg, respectively.
 No further increase in effect was seen at dosages greater than 300 mg.
 The dose-response relationships for effects on systolic and diastolic pressure are shown in Figures 1 and 2.
 
@@ -34,9 +34,11 @@ The Irbesartan Diabetic Nephropathy Trial (IDNT) was a randomized, placebo-and a
 Patients were randomized to receive irbesartan 75 mg, amlodipine 2.5 mg, or matching placebo once-daily.
 Patients were titrated to a maintenance dose of irbesartan 300 mg, or amlodipine 10 mg, as tolerated.
 Additional antihypertensive agents (excluding ACE inhibitors, angiotensin II receptor antagonists and calcium channel blockers) were added as needed to achieve blood pressure goal (≤135/85 or 10 mmHg reduction in systolic blood pressure if higher than 160 mmHg) for patients in all groups.
+
 The study population was 66.5% male, 72.9% below 65 years of age, and 72% White (Asian/Pacific Islander 5.0%, Black 13.3%, Hispanic 4.8%).
 The mean baseline seated systolic and diastolic blood pressures were 159 mmHg and 87 mmHg, respectively.
 The patients entered the trial with a mean serum creatinine of 1.7 mg/dL and mean proteinuria of 4144 mg/day.
+
 The mean blood pressure achieved was 142/77 mmHg for irbesartan, 142/76 mmHg for amlodipine, and 145/79 mmHg for placebo.
 Overall, 83.0% of patients received the target dose of irbesartan more than 50% of the time.
 Patients were followed for a mean duration of 2.6 years.
@@ -46,7 +48,7 @@ Treatment with irbesartan tablets also reduced the occurrence of sustained doubl
 
 The percentages of patients experiencing an event during the course of the study can be seen in Table 1 below: Table 1: IDNT: Components of Primary Composite Endpoint
 
-|  | IRBESARTAN TABLETS N=579 (%) | Comparison With Placebo |  |  | Comparison With Amlodipine |  |  |
+|  | Irbesartan Tablets N=579 (%) | Comparison with Placebo |  |  | Comparison with Amlodipine |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | Placebo N=569 (%) | Hazard Ratio | 95% CI | Amlodipine N=567 (%) | Hazard Ratio | 95% CI |  |  |
 | Primary Composite Endpoint | 32.6 | 39.0 | 0.80 | 0.66-0.97 (p=0.0234) | 41.1 | 0.77 | 0.63-0.93 |
@@ -68,9 +70,9 @@ Table 2 presents results for demographic subgroups.
 Subgroup analyses are difficult to interpret, and it is not known whether these observations represent true differences or chance effects.
 For the primary endpoint, irbesartan tablets favorable effects were seen in patients also taking other antihypertensive medications (angiotensin II receptor antagonists, angiotensin-converting-enzyme inhibitors, and calcium channel blockers were not allowed), oral hypoglycemic agents, and lipid-lowering agents.
 
-Table 2: IDNT: Primary Efficacy Outcome Within Subgroups
+Table 2: IDNT: Primary Efficacy Outcome within Subgroups
 
-| Baseline Factors | Irbesartan tablets N=579 (%) | Comparison With Placebo |  |  |
+| Baseline Factors | Irbesartan Tablets N=579 (%) | Comparison with Placebo |  |  |
 | --- | --- | --- | --- | --- |
 | Placebo N=569 (%) | Hazard Ratio | 95% Cl |  |  |
 | Sex |  |  |  |  |

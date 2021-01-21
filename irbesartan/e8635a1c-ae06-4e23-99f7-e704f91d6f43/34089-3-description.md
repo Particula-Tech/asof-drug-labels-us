@@ -8,6 +8,6 @@ Irbesartan USP is a white to off-white crystalline powder with a molecular weigh
 It is a nonpolar compound with a partition coefficient (octanol/water) of 10.1 at pH of 7.4.
 Irbesartan USP is slightly soluble in alcohol and methylene chloride and practically insoluble in water.
 
-Irbesartan is available for oral administration in unscored tablets containing 75 mg, 150 mg, or 300 mg of irbesartan USP.
+Irbesartan is available for oral administration in unscored film-coated tablets containing 75 mg, 150 mg, or 300 mg of irbesartan USP.
 Inactive ingredients include: carboxymethylcellulose calcium, povidone, colloidal silicon dioxide, sodium starch glycolate, talc and magnesium stearate.
 The film coating comprises of hypromellose, lactose monohydrate, titanium dioxide and polyethylene glycol.
