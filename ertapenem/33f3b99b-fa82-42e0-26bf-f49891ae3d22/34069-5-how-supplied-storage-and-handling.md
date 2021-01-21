@@ -2,7 +2,7 @@
 
 ## 16.1 How Supplied
 
-INVANZ is supplied as a sterile lyophilized powder in single dose vials containing ertapenem for intravenous infusion or for intramuscular injection as follows:
+INVANZ is supplied as a sterile lyophilized powder in single-dose vials containing ertapenem for intravenous infusion or for intramuscular injection as follows:
 
 No. 3843—1 g ertapenem equivalent
 
