@@ -42,24 +42,34 @@ If causality is likely, consider dose-reduction or interruption of Neulasta.
 White blood cell (WBC) counts of 100 x 109/L or greater have been observed in patients receiving pegfilgrastim.
 Monitoring of complete blood count (CBC) during pegfilgrastim therapy is recommended.
 
-## 5.8 Capillary Leak Syndrome
+## 5.8 Thrombocytopenia
+
+Thrombocytopenia has been reported in patients receiving pegfilgrastim.
+Monitor platelet counts.
+
+## 5.9 Capillary Leak Syndrome
 
 Capillary leak syndrome has been reported after G-CSF administration, including Neulasta, and is characterized by hypotension, hypoalbuminemia, edema and hemoconcentration.
 Episodes vary in frequency, severity and may be life-threatening if treatment is delayed.
 Patients who develop symptoms of capillary leak syndrome should be closely monitored and receive standard symptomatic treatment, which may include a need for intensive care.
 
-## 5.9 Potential for Tumor Growth Stimulatory Effects on Malignant Cells
+## 5.10 Potential for Tumor Growth Stimulatory Effects on Malignant Cells
 
 The granulocyte colony-stimulating factor (G-CSF) receptor through which pegfilgrastim and filgrastim act has been found on tumor cell lines.
 The possibility that pegfilgrastim acts as a growth factor for any tumor type, including myeloid malignancies and myelodysplasia, diseases for which pegfilgrastim is not approved, cannot be excluded.
 
-## 5.10 Potential Device Failures
+## 5.11 Myelodysplastic Syndrome (MDS) and Acute Myeloid Leukemia (AML) in Patients with Breast and Lung Cancer
+
+MDS and AML have been associated with the use of Neulasta in conjunction with chemotherapy and/or radiotherapy in patients with breast and lung cancer.
+Monitor patients for signs and symptoms of MDS/AML in these settings.
+
+## 5.12 Potential Device Failures
 
 Missed or partial doses have been reported in patients receiving Neulasta via the on-body injector (OBI) due to the device not performing as intended.
 In the event of a missed or partial dose, patients may be at increased risk of events such as neutropenia, febrile neutropenia and/or infection than if the dose had been correctly delivered.
 Instruct patients using the OBI to notify their healthcare professional immediately in order to determine the need for a replacement dose of Neulasta if they suspect that the device may not have performed as intended.
 
-## 5.11 Aortitis
+## 5.13 Aortitis
 
 Aortitis has been reported in patients receiving Neulasta.
 It may occur as early as the first week after start of therapy.
@@ -67,7 +77,7 @@ Manifestations may include generalized signs and symptoms such as fever, abdomin
 Consider aortitis in patients who develop these signs and symptoms without known etiology.
 Discontinue Neulasta if aortitis is suspected.
 
-## 5.12 Nuclear Imaging
+## 5.14 Nuclear Imaging
 
 Increased hematopoietic activity of the bone marrow in response to growth factor therapy has been associated with transient positive bone imaging changes.
 This should be considered when interpreting bone imaging results.

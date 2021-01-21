@@ -76,5 +76,5 @@ Patients should have a caregiver nearby for the first use.
 
 Refer the patient to the dose delivery information written on the Patient Instructions for Use.
 Provide training to patients to ensure they understand when the dose delivery of Neulasta will begin and how to monitor the OBI for Neulasta for completed delivery.
-Ensure patients understand how to identify signs of malfunction of OBI for Neulasta [see Warnings and Precautions (5.10) and Patient Counseling Information (17)].
-Instruct patients using the OBI to notify their healthcare professional immediately in order to determine the need for a replacement dose of Neulasta if they suspect that the device may not have performed as intended [see Warnings and Precautions (5.10)].
+Ensure patients understand how to identify signs of malfunction of OBI for Neulasta [see Warnings and Precautions (5.12) and Patient Counseling Information (17)].
+Instruct patients using the OBI to notify their healthcare professional immediately in order to determine the need for a replacement dose of Neulasta if they suspect that the device may not have performed as intended [see Warnings and Precautions (5.12)].

@@ -9,6 +9,7 @@ Advise patients of the following risks and potential risks with Neulasta:
 - Serious allergic reactions
 - Sickle cell crisis
 - Glomerulonephritis
+- Increased risk of Myelodysplastic Syndrome and/or Acute Myeloid Leukemia in patients with congenital neutropenia who receive Neulasta and in patients with breast and lung cancer who receive Neulasta in conjunction with chemotherapy and/or radiation therapy
 - Capillary Leak Syndrome
 - Aortitis
 
@@ -59,4 +60,4 @@ Neulasta® (pegfilgrastim) Manufactured by: Amgen Inc. One Amgen Center Drive Th
 
 Patent: http://pat.amgen.com/onpro/
 
-© 2002-2020 Amgen Inc. All rights reserved. www.neulasta.com 1-800-77-AMGEN (1-800-772-6436) v25
+© 2002-2021 Amgen Inc. All rights reserved. www.neulasta.com 1-800-77-AMGEN (1-800-772-6436) v26

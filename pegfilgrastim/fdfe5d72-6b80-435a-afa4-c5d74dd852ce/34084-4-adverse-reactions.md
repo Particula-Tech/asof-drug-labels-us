@@ -9,9 +9,12 @@ The following clinically significant adverse reactions are discussed in greater 
 - Use in Patients with Sickle Cell Disorders [see Warnings and Precautions (5.5)]
 - Glomerulonephritis [see Warnings and Precautions (5.6)]
 - Leukocytosis [see Warnings and Precautions (5.7)]
-- Capillary Leak Syndrome [see Warnings and Precautions (5.8)]
-- Potential for Tumor Growth Stimulatory Effects on Malignant Cells [see Warnings and Precautions (5.9)]
-- Aortitis [see Warnings and Precautions (5.11)]
+- Thrombocytopenia [see Warnings and Precautions (5.8)]
+- Capillary Leak Syndrome [see Warnings and Precautions (5.9)]
+- Potential for Tumor Growth Stimulatory Effects on Malignant Cells [see Warnings and Precautions (5.10)]
+- Myelodysplastic syndrome [see Warnings and Precautions (5.11)]
+- Acute myeloid leukemia [see Warnings and Precautions (5.11)]
+- Aortitis [see Warnings and Precautions (5.13)]
 
 ## 6.1 Clinical Trials Experience
 
@@ -66,10 +69,12 @@ Because these reactions are reported voluntarily from a population of uncertain 
 - Sickle cell crisis [see Warnings and Precautions (5.5)]
 - Glomerulonephritis [see Warnings and Precautions (5.6)]
 - Leukocytosis [see Warnings and Precautions (5.7)]
-- Capillary Leak Syndrome [see Warnings and Precautions (5.8)]
+- Thrombocytopenia [see Warnings and Precautions (5.8)]
+- Capillary Leak Syndrome [see Warnings and Precautions (5.9)]
 - Injection site reactions
 - Sweet's syndrome (acute febrile neutrophilic dermatosis), cutaneous vasculitis
 - Application site reactions (including events such as application site hemorrhage, application site pain, application site discomfort, application site bruise, and application site erythema) have been reported with the use of the on-body injector for Neulasta.
 - Contact dermatitis and local skin reactions such as rash, pruritus, and urticaria have been reported with the use of the on-body injector for Neulasta, possibly indicating a hypersensitivity reaction to the adhesive.
-- Aortitis [see Warnings and Precautions (5.11)]
+- Myelodysplastic syndrome (MDS) and acute myeloid leukemia (AML) in patients with breast and lung cancer receiving chemotherapy and/or radiotherapy [see Warnings and Precautions (5.11)]
+- Aortitis [see Warnings and Precautions (5.13)]
 - Alveolar hemorrhage
