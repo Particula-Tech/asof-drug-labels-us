@@ -20,3 +20,5 @@ See WARNINGS for the possibility of water intoxication and hyponatremia.
 ## Postmarketing
 
 There have been rare reports of hyponatremic convulsions associated with concomitant use with the following medications: oxybutinin and imipramine.
+
+To report SUSPECTED ADVERSE REACTIONS, contact Avet Pharmaceuticals Inc. at 1-866-901-DRUG (3784) or FDA at 1-800-FDA-1088 or www.fda.gov/medwatch.

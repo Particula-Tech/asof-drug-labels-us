@@ -21,14 +21,14 @@ Dispense in a tight, light-resistant container as defined in the USP, with a chi
 
 KEEP THIS AND ALL MEDICATIONS OUT OF THE REACH OF CHILDREN.
 
-Manufactured for:
+Distributed by:
 
-Heritage Pharmaceuticals Inc.
+Avet Pharmaceuticals Inc.
 
 East Brunswick, NJ 08816
 
 1.866.901.DRUG (3784)
 
-51U000000268US02
+51U000000268US03
 
-Revised: 06/2018
+Revised: 02/2020
