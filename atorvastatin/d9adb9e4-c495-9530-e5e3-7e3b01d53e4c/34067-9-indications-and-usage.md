@@ -27,7 +27,7 @@ In adult patients with clinically evident coronary heart disease, atorvastatin c
 
 ## 1.2 Hyperlipidemia
 
-Atorvastatin calcium tablets are indicated
+Atorvastatin calcium tablets are indicated:
 
 - As an adjunct to diet to reduce elevated total-C, LDL-C, apo B, and TG levels and to increase HDL-C in adult patients with primary hypercholesterolemia (heterozygous familial and nonfamilial) and mixed dyslipidemia (Fredrickson Types IIa and IIb);
 - As an adjunct to diet for the treatment of adult patients with elevated serum TG levels (Fredrickson Type IV);

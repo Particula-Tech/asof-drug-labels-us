@@ -2,13 +2,13 @@
 
 The following serious adverse reactions are discussed in greater detail in other sections of the label:
 
-Rhabdomyolysis and myopathy [see Warnings and Precautions (5.1)]
+Myopathy and Rhabdomyolysis [see Warnings and Precautions (5.1)]
 
-Liver enzyme abnormalities [see Warnings and Precautions (5.2)]
+Liver enzyme abnormalities [see Warnings and Precautions (5.3)]
 
 ## 6.1 Clinical Trials Experience
 
-Because clinical trials are conducted under widely varying conditions, the adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in clinical practice.
+Because clinical trials are conducted under widely varying conditions, the adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in practice.
 
 In the atorvastatin calcium placebo-controlled clinical trial database of 16,066 patients (8755 atorvastatin calcium vs. 7311 placebo; age range 10 to 93 years, 39% women, 91% Caucasians, 3% Blacks, 2% Asians, 4% other) with a median treatment duration of 53 weeks, 9.7% of patients on atorvastatin calcium and 9.5% of the patients on placebo discontinued due to adverse reactions regardless of causality.
 The five most common adverse reactions in patients treated with atorvastatin calcium that led to treatment discontinuation and occurred at a rate greater than placebo were: myalgia (0.7%), diarrhea (0.5%), nausea (0.4%), alanine aminotransferase increase (0.4%), and hepatic enzyme increase (0.4%).
@@ -17,10 +17,10 @@ The most commonly reported adverse reactions (incidence ≥ 2% and greater than 
 
 Table 3 summarizes the frequency of clinical adverse reactions, regardless of causality, reported in ≥ 2% and at a rate greater than placebo in patients treated with atorvastatin calcium (n=8755), from seventeen placebo-controlled trials.
 
-Table 3.
-Clinical adverse reactions occurring in ≥ 2% in patients treated with any dose of atorvastatin calcium and at an incidence greater than placebo regardless of causality (% of patients).
+Table 2.
+Clinical Adverse Reactions Occurring in ≥ 2% in Patients Treated with any Dose of atorvastatin calcium and at an Incidence Greater than Placebo Regardless of Causality (% of Patients).
 
-| ReactionAdverse Reaction ≥ 2% in any dose greater than placebo | N=8755 | N=3908 | N=188 | N=604 | N=4055 | N=7311 |
+| Reaction* | N=8755 | N=3908 | N=188 | N=604 | N=4055 | N=7311 |
 | --- | --- | --- | --- | --- | --- | --- |
 | Adverse | Any dose | 10 mg | 20 mg | 40 mg | 80 mg | Placebo |
 | Nasopharyngitis | 8.3 | 12.9 | 5.3 | 7.0 | 4.2 | 8.2 |
@@ -36,7 +36,9 @@ Clinical adverse reactions occurring in ≥ 2% in patients treated with any dose
 | Insomnia | 3.0 | 2.8 | 1.1 | 5.3 | 2.8 | 2.9 |
 | Pharyngolaryngeal pain | 2.3 | 3.9 | 1.6 | 2.8 | 0.7 | 2.1 |
 
-Other adverse reactions reported in placebo-controlled studies include
+* Adverse Reaction ≥ 2% in any dose greater than placebo
+
+Other adverse reactions reported in placebo-controlled studies include:
 
 Body as a whole: malaise, pyrexia; Digestive system: abdominal discomfort, eructation, flatulence, hepatitis, cholestasis; Musculoskeletal system: musculoskeletal pain, muscle fatigue, neck pain, joint swelling; Metabolic and nutritional system: transaminases increase, liver function test abnormal, blood alkaline phosphatase increase, creatine phosphokinase increase, hyperglycemia; Nervous system: nightmare; Respiratory system: epistaxis; Skin and appendages: urticaria; Special senses: vision blurred, tinnitus; Urogenital system: white blood cells urine positive.
 
@@ -63,7 +65,7 @@ Stroke Prevention by Aggressive Reduction in Cholesterol Levels (SPARCL)
 
 In SPARCL involving 4731 subjects (age range 21 to 92 years, 40% women; 93.3% Caucasians, 3.0% Blacks, 0.6% Asians, 3.1% other) without clinically evident CHD but with a stroke or transient ischemic attack (TIA) within the previous 6 months treated with atorvastatin calcium 80 mg (n=2365) or placebo (n=2366) for a median follow-up of 4.9 years, there was a higher incidence of persistent hepatic transaminase elevations (≥ 3 x ULN twice within 4 to 10 days) in the atorvastatin group (0.9%) compared to placebo (0.1%).
 Elevations of CK (>10 x ULN) were rare, but were higher in the atorvastatin group (0.1%) compared to placebo (0.0%).
-Diabetes was reported as an adverse reaction in 144 subjects (6.1%) in the atorvastatin group and 89 subjects (3.8%) in the placebo group [see Warnings and Precautions (5.5)].
+Diabetes was reported as an adverse reaction in 144 subjects (6.1%) in the atorvastatin group and 89 subjects (3.8%) in the placebo group [see Warnings and Precautions (5.6)].
 
 In a post-hoc analysis, atorvastatin calcium 80 mg reduced the incidence of ischemic stroke (218/2365, 9.2% vs. 274/2366, 11.6%) and increased the incidence of hemorrhagic stroke (55/2365, 2.3% vs. 33/2366, 1.4%) compared to placebo.
 The incidence of fatal hemorrhagic stroke was similar between groups (17 atorvastatin calcium vs. 18 placebo).
@@ -80,12 +82,12 @@ In a 26-week controlled study in boys and postmenarchal girls with HeFH (ages 10
 
 ## 6.2 Postmarketing Experience
 
-The following adverse reactions have been identified during postapproval use of atorvastatin calcium.
+The following adverse reactions have been identified during post-approval use of atorvastatin calcium.
 Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
 
 Adverse reactions associated with atorvastatin calcium therapy reported since market introduction, that are not listed above, regardless of causality assessment, include the following: anaphylaxis, angioneurotic edema, bullous rashes (including erythema multiforme, Stevens-Johnson syndrome, and toxic epidermal necrolysis), rhabdomyolysis, myositis, fatigue, tendon rupture, fatal and non-fatal hepatic failure, dizziness, depression, peripheral neuropathy, pancreatitis and interstitial lung disease.
 
-There have been rare reports of immune-mediated necrotizing myopathy associated with statin use [see Warnings and Precautions (5.1)].
+There have been rare reports of immune-mediated necrotizing myopathy associated with statin use [see Warnings and Precautions (5.2)].
 
 There have been rare postmarketing reports of cognitive impairment (e.g., memory loss, forgetfulness, amnesia, memory impairment, confusion) associated with statin use.
 These cognitive issues have been reported for all statins.

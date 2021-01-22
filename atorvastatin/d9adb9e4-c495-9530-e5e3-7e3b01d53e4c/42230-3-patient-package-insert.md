@@ -51,7 +51,7 @@ Do not take atorvastatin calcium tablets if you:
 
 Atorvastatin calcium tablets dosing have not been established in children under 10 years of age.
 
-1Before You Start Atorvastatin Calcium Tablets
+Before You Start Atorvastatin Calcium Tablets
 
 Tell your doctor if you:
 
@@ -147,7 +147,7 @@ Talk to your doctor or pharmacist if you have side effects that bother you or th
 These are not all the side effects of atorvastatin calcium tablets.
 Ask your doctor or pharmacist for a complete list.
 
-How do I store Atorvastatin Calcium Tablets
+How do I store Atorvastatin Calcium Tablets?
 
 - Store atorvastatin calcium tablets at room temperature, 68°F to 77°F (20°C to 25°C).
 - Do not keep medicine that is out of date or that you no longer need.
@@ -180,7 +180,7 @@ APOTEX INC. ATORVASTATIN CALCIUM TABLETS, USP 10 mg, 20 mg, 40 mg, and 80 mg
 | Toronto, Ontario | Weston, Florida |
 | Canada, M9L 1T9 | 33326 |
 
-Revised: December 2019
+Revised: December 2020
 
 Rev.
-17
+18

@@ -35,7 +35,7 @@ At the maternally toxic doses of 50 and 100 mg/kg/day in rabbits, there was incr
 
 In a study in pregnant rats administered 20, 100, or 225 mg/kg/day from gestation day 7 through to lactation day 20 (weaning), there was decreased survival at birth, postnatal day 4, weaning, and post-weaning in pups of mothers dosed with 225 mg/kg/day, a dose at which maternal toxicity was observed.
 Pup body weight was decreased through postnatal day 21 at 100 mg/kg/day, and through postnatal day 91 at 225 mg/kg/day.
-Pup development was delayed (rotorod performance at 100 mg/kg/day and acoustic startle at 225 mg/kg/day; pinnae detachment and eye-opening at 225 mg/kg/day).
+Pup development was delayed (rotarod performance at 100 mg/kg/day and acoustic startle at 225 mg/kg/day; pinnae detachment and eye-opening at 225 mg/kg/day).
 These doses correspond to 6 times (100 mg/kg) and 22 times (225 mg/kg) the human exposure at the MRHD, based on AUC.
 
 ## 8.2 Lactation
@@ -56,7 +56,9 @@ Advise females of reproductive potential to use effective contraception during t
 
 ## 8.4 Pediatric Use
 
-Heterozygous Familial Hypercholesterolemia (HeFH) The safety and effectiveness of atorvastatin calcium have been established in pediatric patients, 10 years to 17 years of age, with HeFH as an adjunct to diet to reduce total cholesterol, LDL-C, and apo B levels when, after an adequate trial of diet therapy, the following are present:
+Heterozygous Familial Hypercholesterolemia (HeFH)
+
+The safety and effectiveness of atorvastatin calcium have been established in pediatric patients, 10 years to 17 years of age, with HeFH as an adjunct to diet to reduce total cholesterol, LDL-C, and apo B levels when, after an adequate trial of diet therapy, the following are present:
 
 - LDL-C ≥ 190 mg/dL, or
 - LDL-C ≥ 160 mg/dL and
@@ -68,6 +70,8 @@ Use of atorvastatin calcium for this indication is supported by evidence from [s
 - A placebo-controlled clinical trial of 6 months duration in 187 boys and postmenarchal girls, 10 years to 17 years of age.
   Patients treated with 10 mg or 20 mg daily atorvastatin calcium had an adverse reaction profile generally similar to that of patients treated with placebo.
   In this limited controlled study, there was no significant effect on growth or sexual maturation in boys or on menstrual cycle length in girls.
+- A three year open-label uncontrolled trial that included 163 pediatric patients 10 to 15 years of age with HeFH who were titrated to achieve a target LDL-C < 130 mg/dL.
+  The safety and efficacy of atorvastatin calcium in lowering LDL-C appeared generally consistent with that observed for adult patients, despite limitations of the uncontrolled study design
 
 Advise postmenarchal girls of contraception recommendations, if appropriate for the patient [see Use in Specific Populations (8.1), (8.3)].
 
@@ -75,10 +79,9 @@ The long-term efficacy of atorvastatin calcium therapy initiated in childhood to
 
 The safety and efficacy of atorvastatin calcium have not been established in pediatric patients younger than 10 years of age with HeFH.
 
-Additional pediatric use information is approved for Pfizer’s LIPITOR (atorvastatin calcium) tablets.
-However, due to Pfizer’s marketing exclusivity rights, this drug product is not labeled with that pediatric information.
+Homozygous Familial Hypercholesterolemia (HoFH)
 
-Homozygous Familial Hypercholesterolemia (HoFH) Clinical efficacy of atorvastatin calcium with dosages up to 80 mg/day for 1 year was evaluated in an uncontrolled study of patients with HoFH including 8 pediatric patients [see Clinical Studies (14.5)].
+Clinical efficacy of atorvastatin calcium with dosages up to 80 mg/day for 1 year was evaluated in an uncontrolled study of patients with HoFH including 8 pediatric patients [see Clinical Studies (14.5)].
 
 ## 8.5 Geriatric Use
 
