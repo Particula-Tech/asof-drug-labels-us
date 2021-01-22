@@ -1,12 +1,6 @@
 # HOW SUPPLIED
 
-Sucralfate Oral Suspension 1 g/10 mL is supplied as a pink colored, cherry flavored suspension available as follows:
-
-Bottle of 420 mL NDC 65162-062-05
-
-10 mL unit dose cup NDC 65162-062-47
-
-10 unit dose cups in a tray NDC 65162-062-48
+Sucralfate Oral Suspension 1 g/10 mL is supplied as a pink colored, cherry flavored suspension available in bottles of 420 mL (NDC 65162-062-05).
 
 SHAKE WELL BEFORE USING.
 AVOID FREEZING.
@@ -22,4 +16,4 @@ Amneal Pharmaceuticals LLC
 Bridgewater, NJ 08807
 
 Rev.
-04-2020-01
+08-2020-01
