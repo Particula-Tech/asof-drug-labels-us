@@ -1,0 +1,20 @@
+{
+  "application_numbers": [
+    "ANDA204305"
+  ],
+  "inn": "etonogestrel",
+  "labeler": "Teva Pharmaceuticals USA, Inc.",
+  "package_ndcs": [
+    "0093-7679-01",
+    "0093-7679-02"
+  ],
+  "products": [
+    {
+      "form": "INSERT, EXTENDED RELEASE",
+      "generic": "etonogestrel and ethinyl estradiol",
+      "name": "Etonogestrel and Ethinyl Estradiol"
+    }
+  ],
+  "setid": "a8cc104a-d522-49ad-af54-2f312b829b61",
+  "source": "dailymed"
+}
