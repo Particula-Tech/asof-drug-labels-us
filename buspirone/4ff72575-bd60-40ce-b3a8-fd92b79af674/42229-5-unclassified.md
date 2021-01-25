@@ -128,3 +128,5 @@ Postmarketing Experience
 Postmarketing experience has shown an adverse experience profile similar to that given above.
 Voluntary reports since introduction have included rare occurrences of allergic reactions (including urticaria), angioedema, cogwheel rigidity, dizziness (rarely reported as vertigo), dystonic reactions (including dystonia), ataxias, extrapyramidal symptoms, dyskinesias (acute and tardive), ecchymosis, emotional lability, serotonin syndrome, transient difficulty with recall, urinary retention, visual changes (including tunnel vision), parkinsonism, akathisia, restless leg syndrome, and restlessness.
 Because of the uncontrolled nature of these spontaneous reports, a causal relationship to buspirone hydrochloride tablets treatment has not been determined.
+
+To report SUSPECTED ADVERSE REACTIONS, contact Avet Pharmaceuticals Inc. at 1-866-901-DRUG (3784) or FDA at 1-800-FDA-1088 or www.fda.gov/medwatch.

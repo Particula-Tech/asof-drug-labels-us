@@ -54,12 +54,26 @@ Then, with the tablet score facing you, apply pressure and snap the tablet segme
 
 Distributed by:
 
+Avet Pharmaceuticals Inc.
+
+East Brunswick, NJ 08816
+
+1.866.901.DRUG (3784)
+
+51U000000211US04
+
+Revised: 08/2020
+
+OR
+
+Distributed by:
+
 Heritage Pharmaceuticals Inc.
 
 East Brunswick, NJ 08816
 
 1.866.901.DRUG (3784)
 
-51U000000211US03
+Revised: 01/2019
 
-Revised: 06/2019
+M.L.No.: 37/RR/AP/2003/F/R
