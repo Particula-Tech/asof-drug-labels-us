@@ -1,6 +1,6 @@
 # 13 NONCLINICAL TOXICOLOGY
 
-## 13.1 Carcinogenesis & Mutagenesis & Impairment Of Fertility
+## 13.1 Carcinogenesis, Mutagenesis, Impairment of Fertility
 
 In a tw o - y ear study of dorzolamide hydrochloride administered orally to male and female Spragu e- Dawley rats, urinary bladder papillomas were seen in male rats in the highest dosage group of 20 m g / kg/day.
 Papillomas were not seen in rats g iven oral doses of 1 m g / k g/da y. These doses represent estimated plasma C max levels in rats, 138 and 7 times higher than the lower limit of detection in human plasma following ocular administration, respectively.
@@ -17,5 +17,5 @@ The topical ophthalmic dose in monkeys was approximately equivalent to the human
 
 The following tests for mutagenic potential were negative: (1) in vivo (mouse) cytogenetic assay; (2) in vitro chromosomal aberration assay; (3) alkaline elution assay; (4) V-79 assay; and (5) Ames test.
 
-In reproduction studies of dorzolamide hydrochloride in rats, there were no adverse effects on the reproductive capacity of males or females at doses of 15 and 7.5 mg/kg/day, respectively.
-These doses represent estimated plasma Cmax levels in rats, 104 and 52 times higher than the lower limit of detection in human plasma following ocular administration, respectively.
+In fertility studies of dorzolamide hydrochloride in rats, there were no adverse effects on the reproductive capacity of males or females at doses of 15 and 7.5 mg/kg/day, respectively.
+These doses represent estimated plasma Cmax levels in rats, 103 and 52 times higher than the lower limit of detection in human plasma following ocular administration, respectively.
