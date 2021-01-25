@@ -10,9 +10,7 @@ Each film-coated tablet contains pioglitazone hydrochloride equivalent to 15 mg 
 
 Dispense with Medication Guide available in package insert or at www.actoplusmet.com
 
-Takeda
-
-Rx Only
+Takeda Rx Only
 
 # PRINCIPAL DISPLAY PANEL - 15 mg/850 mg Tablet Bottle Label
 
@@ -26,6 +24,4 @@ Each film-coated tablet contains pioglitazone hydrochloride equivalent to 15 mg 
 
 Dispense with Medication Guide available in package insert or at www.actoplusmet.com
 
-Takeda
-
-Rx Only
+Takeda Rx Only

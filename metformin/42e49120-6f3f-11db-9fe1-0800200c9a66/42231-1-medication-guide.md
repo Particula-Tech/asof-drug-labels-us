@@ -212,10 +212,10 @@ ACTOS and ACTOPLUS MET are trademarks of Takeda Pharmaceutical Company Limited r
 
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
 
-Distributed by: Takeda Pharmaceuticals America, Inc. Deerfield, IL 60015
+Distributed by: Takeda Pharmaceuticals America, Inc. Lexington, MA 02421
 
 Revised: December 2016
 
-©2009 - 2017 Takeda Pharmaceuticals America, Inc.
+©2009 - 2020 Takeda Pharmaceuticals America, Inc.
 
-APM001 R15
+APM001 R16
