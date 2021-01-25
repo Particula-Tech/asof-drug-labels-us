@@ -19,6 +19,11 @@ Hepatotoxicity
   Inform patients that their liver function will be monitored using blood tests.
   Advise patients to immediately report symptoms of hepatotoxicity to their healthcare provider [see Warnings and Precautions (5.3)].
 
+Hypoglycemia
+
+- Inform patients that severe hypoglycemia has been reported when abiraterone acetate was administered to patients with pre-existing diabetes who were receiving medications containing thiazolidinediones (including pioglitazone) or repaglinide – antidiabetic drugs.
+  Advise patients with diabetes to monitor glucose levels during and after treatment with abiraterone acetate [see Warnings and Precautions (5.6) and Drug Interactions (7.2)].
+
 Use in Combination with Radium Ra 223 Dichloride
 
 Advise patients that radium Ra 223 dichloride showed an increase in mortality and an increased rate of fracture when used in combination with abiraterone acetate plus prednisone/prednisolone.
@@ -56,6 +61,6 @@ Abiraterone Acetate Tablets, USP
 | Toronto, Ontario | Weston, Florida |
 | Canada M9L 1T9 | USA 33326 |
 
-Revised: July 2019
+Revised: December 2020
 
-Rev: 9
+Rev: 10

@@ -17,7 +17,7 @@ Ninety percent of patients had metastases in bone and 30% had visceral involveme
 Seventy percent of patients had radiographic evidence of disease progression and 30% had PSA-only progression.
 Seventy percent of patients had previously received one cytotoxic chemotherapy regimen and 30% received two regimens.
 
-The protocol pre-specified interim analysis was conducted after 552 deaths and showed a statistically significant improvement in overall survival (OS) in patients treated with abiraterone acetate with prednisone compared to patients in the placebo with prednisone arm (Table 7 and Figure 1).
+The protocol pre-specified interim analysis was conducted after 552 deaths and showed a statistically significant improvement in overall survival (OS) in patients treated with abiraterone acetate with prednisone compared to patients in the placebo with prednisone arm (Table 9 and Figure 1).
 An updated survival analysis was conducted when 775 deaths (97% of the planned number of deaths for final analysis) were observed.
 Results from this analysis were consistent with those from the interim analysis (Table 7).
 

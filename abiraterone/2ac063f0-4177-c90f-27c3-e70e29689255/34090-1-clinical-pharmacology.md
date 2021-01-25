@@ -5,7 +5,7 @@
 Abiraterone acetate is converted in vivo to abiraterone, an androgen biosynthesis inhibitor, that inhibits 17 α-hydroxylase/C17,20-lyase (CYP17).
 This enzyme is expressed in testicular, adrenal, and prostatic tumor tissues and is required for androgen biosynthesis.
 
-CYP17 catalyzes two sequential reactions: 1) the conversion of pregnenolone and progesterone to their 17α-hydroxy derivatives by 17α-hydroxylase activity and 2) the subsequent formation of dehydroepiandrosterone (DHEA) and androstenedione, respectively, by C17, 20 lyase activity.
+CYP17 catalyzes two sequential reactions: 1) the conversion of pregnenolone and progesterone to their 17α-hydroxy derivatives by 17α-hydroxylase activity and 2) the subsequent formation of dehydroepiandrosterone (DHEA) and androstenedione, respectively, by C17, 20- lyase activity.
 DHEA and androstenedione are androgens and are precursors of testosterone.
 Inhibition of CYP17 by abiraterone can also result in increased mineralocorticoid production by the adrenals [see Warnings and Precautions (5.1)].
 

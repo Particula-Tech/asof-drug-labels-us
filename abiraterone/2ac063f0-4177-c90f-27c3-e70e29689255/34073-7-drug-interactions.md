@@ -18,4 +18,4 @@ Avoid co­-administration of abiraterone acetate with substrates of CYP2D6 with 
 If alternative treatments cannot be used, consider a dose reduction of the concomitant CYP2D6 substrate drug [see Clinical Pharmacology (12.3)].
 
 In a CYP2C8 drug-drug interaction trial in healthy subjects, the AUC of pioglitazone (CYP2C8 substrate) was increased by 46% when pioglitazone was given together with a single dose of 1,000 mg abiraterone acetate.
-Therefore, patients should be monitored closely for signs of toxicity related to a CYP2C8 substrate with a narrow therapeutic index if used concomitantly with abiraterone acetate [see Clinical Pharmacology (12.3)].
+Therefore, patients should be monitored closely for signs of toxicityrelated to a CYP2C8 substrate with a narrow therapeutic index if used concomitantly with abiraterone acetate [see Clinical Pharmacology (12.3)]and Warnings and Precautions (5.6)].

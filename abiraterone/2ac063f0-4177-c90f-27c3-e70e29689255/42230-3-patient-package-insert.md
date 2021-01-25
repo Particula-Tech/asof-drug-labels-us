@@ -15,6 +15,7 @@ Before you take Abiraterone Acetate Tablets, tell your healthcare provider about
 
 - have heart problems
 - have liver problems
+- have diabetes
 - have a history of adrenal problems
 - have a history of pituitary problems
 - are receiving any other treatment for prostate cancer
@@ -61,7 +62,7 @@ Abiraterone Acetate Tablets may cause serious side effects including:
   Tell your healthcare provider if you get any of the following symptoms: •• dizziness • confusion•• fast or irregular heartbeats • muscle weakness•• feel faint or lightheaded • pain in your legs• headache• swelling in your legs or feet
 
 - Adrenal problems may happen if you stop taking prednisone, get an infection, or are under stress.
-- Liver problems.
+- Severe liver problems.
   You may develop changes in liver function blood test.
   Your healthcare provider will do blood tests to check your liver before treatment with abiraterone acetate tablets and during treatment with abiraterone acetate tablets.
   Liver failure may occur, which can lead to death.
@@ -72,6 +73,12 @@ Abiraterone Acetate Tablets may cause serious side effects including:
 
 Increased risk of bone fracture and death when abiraterone acetate tablets and prednisone or prednisolone, is used in combination with a type of radiation called radium Ra 223 dichloride.
 Tell your healthcare provider about any other treatments you are taking for prostate cancer.
+
+- Severe low blood sugar (hypoglycemia).
+  Severe low blood sugar with abiraterone acetate can happen in people who have diabetes and take certain antidiabetic medicines.
+  You and/or your healthcare provider should check your blood sugar levels regularly during treatment with abiraterone acetate and after you stop treatment.
+  Your healthcare provider may also need to change the dose of your antidiabetic medicines.
+  Signs and symptoms of low blood sugar may include:
 
 The most common side effects of abiraterone acetate include:
 
@@ -130,6 +137,6 @@ Abiraterone Acetate Tablets, USP
 | Toronto, Ontario | Weston, Florida |
 | Canada M9L 1T9 | USA 33326 |
 
-RevisJuly 2019
+Revised: December 2020
 
-Rev: 9
+Rev: 10
