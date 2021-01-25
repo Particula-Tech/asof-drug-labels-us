@@ -159,10 +159,6 @@ Table 8 Neuraminidase Amino Acid Substitutions Associated with Reduced Susceptib
 Selection of influenza A viruses resistant to oseltamivir can occur at higher frequencies in children.
 Oseltamivir treatment-associated resistance in pediatric treatment studies has been detected at frequencies of 27% to 37% and 3% to 18% (3/11 to 7/19 and 1/34 to 9/50 post-treatment isolates, respectively) for influenza A/H1N1 virus and influenza A/H3N2 virus, respectively.
 
-In immunocompromised adults and pediatrics (1 year of age and older), selection of influenza viruses resistant to oseltamivir can occur at higher frequencies than in the otherwise healthy population.
-In a treatment study of immunocompromised subjects, treatment‐associated genotypic resistance was detected in 27% (8/30), 12% (6/52), and 0% (0/42) of influenza A/H1N1, A/H3N2, and B virus infections, respectively.
-Treatment‐emergent resistance was observed at a higher frequency in hematopoietic stem cell transplant recipients (32%; 6/19).
-
 The frequency of resistance selection to oseltamivir and the prevalence of such resistant virus vary seasonally and geographically.
 
 Circulating seasonal influenza strains expressing neuraminidase resistance-associated substitutions have been observed in individuals who have not received oseltamivir treatment.
