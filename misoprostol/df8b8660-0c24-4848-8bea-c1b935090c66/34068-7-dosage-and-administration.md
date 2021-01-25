@@ -34,7 +34,7 @@ For patients who experience intolerance, diclofenac sodium and misoprostol delay
 This fixed combination product, diclofenac sodium and misoprostol delayed-release tablets, is not recommended for patients who would not receive the appropriate dose of both ingredients.
 Doses of the components delivered with these regimens are as follows:
 
-|  | Rheumatoid Arthritis | Diclofenac sodium | Misoprostol |
+|  | Rheumatoid Arthritis | Diclofenac Sodium | Misoprostol |
 | --- | --- | --- | --- |
 |  | regimen | (mg/day) | (mcg/day) |
 | Diclofenac Sodium | four times a day | 200 | 800 |

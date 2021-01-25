@@ -30,8 +30,8 @@
 | Some NSAIDs are sold in lower doses without a prescription (over-the-counter). Talk to your healthcare provider before using over-the-counter NSAIDs for more than 10 days. |  |
 | General information about the safe and effective use of NSAIDsMedicines are sometimes prescribed for purposes other than those listed in a Medication Guide. Do not use NSAIDs for a condition for which it was not prescribed. Do not give NSAIDs to other people, even if they have the same symptoms that you have. It may harm them.If you would like more information about NSAIDs, talk with your healthcare provider. You can ask your pharmacist or healthcare provider for information about NSAIDs that is written for health professionals. |  |
 | Active ingredients: diclofenac sodium, misoprostol.Inactive ingredients: colloidal silicon dioxide, crospovidone, hydrogenated castor oil, hypromellose, lactose monohydrate, magnesium stearate, methacrylic acid copolymer dispersion, microcrystalline cellulose, povidone K-30, sodium hydroxide, corn starch, talc, and triethyl citrate. |  |
-| Manufactured by: Actavis Laboratories FL, Inc., Fort Lauderdale, FL 33314 USADistributed by: Actavis Pharma, Inc., Parsippany, NJ 07054 USAFor more information, go to www.actavis.com or call 1-888-838-2872. |  |
+| Manufactured by: Actavis Laboratories FL, Inc., Fort Lauderdale, FL 33314 USADistributed by: Actavis Pharma, Inc., Parsippany, NJ 07054 USAFor more information, call Actavis at 1-888-838-2872. |  |
 
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
 Rev.
-A 9/2020
+B 11/2020
