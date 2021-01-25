@@ -8,4 +8,4 @@ Solifenacin succinate is a white to light yellow powder.
 It is freely soluble at room temperature in water, and ethanol.
 
 Each solifenacin succinate tablet contains 5 mg or 10 mg of solifenacin succinate and is for oral administration.
-In addition to the active ingredient solifenacin succinate, each solifenacin succinate tablet also contains the following inactive ingredients: corn starch, hypromellose, lactose monohydrate, magnesium stearate, polyethylene glycol 8000, talc, and titanium dioxide with yellow ferric oxide (5 mg solifenacin succinate tablet) or red ferric oxide (10 mg solifenacin succinate tablet).
+In addition to the active ingredient solifenacin succinate, each solifenacin succinate tablet also contains the following inactive ingredients: corn starch, hypromellose, lactose monohydrate, magnesium stearate, polyethylene glycol, and titanium dioxide with yellow ferric oxide (5 mg solifenacin succinate tablet) or red ferric oxide (10 mg solifenacin succinate tablet).

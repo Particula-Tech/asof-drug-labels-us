@@ -34,4 +34,4 @@ Heat prostration due to decreased sweating can occur when solifenacin succinate 
 Manufactured by: ScieGen Pharmaceuticals, Inc. Hauppauge, NY 11788
 
 Rev.
-06/20
+1/2021
