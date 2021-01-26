@@ -31,8 +31,10 @@ Somerset Therapeutics, LLC
 
 Hollywood, FL 33024
 
+Customer Care # 1-800-417-9175
+
 Made in India
 
 Code No.:KR/DRUGS/KTK/28/289/97
 
-ST-BRM/P/01
+ST-BRM/P/02
