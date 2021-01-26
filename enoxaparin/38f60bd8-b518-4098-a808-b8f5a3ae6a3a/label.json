@@ -1,0 +1,32 @@
+{
+  "application_numbers": [
+    "ANDA077857"
+  ],
+  "inn": "enoxaparin",
+  "labeler": "Sandoz Inc",
+  "package_ndcs": [
+    "0781-3238-01",
+    "0781-3238-63",
+    "0781-3246-02",
+    "0781-3246-64",
+    "0781-3256-03",
+    "0781-3256-66",
+    "0781-3262-04",
+    "0781-3262-68",
+    "0781-3268-05",
+    "0781-3268-69",
+    "0781-3298-04",
+    "0781-3298-68",
+    "0781-3299-05",
+    "0781-3299-69"
+  ],
+  "products": [
+    {
+      "form": "INJECTION",
+      "generic": "enoxaparin sodium",
+      "name": "Enoxaparin Sodium"
+    }
+  ],
+  "setid": "38f60bd8-b518-4098-a808-b8f5a3ae6a3a",
+  "source": "dailymed"
+}
