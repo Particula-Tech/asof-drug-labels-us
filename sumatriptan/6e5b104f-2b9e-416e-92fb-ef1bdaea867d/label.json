@@ -1,0 +1,20 @@
+{
+  "application_numbers": [
+    "NDA208223"
+  ],
+  "inn": "sumatriptan",
+  "labeler": "Upsher-Smith laboratories, LLC",
+  "package_ndcs": [
+    "0245-0809-38",
+    "0245-0809-89"
+  ],
+  "products": [
+    {
+      "form": "INJECTION, SOLUTION",
+      "generic": "sumatriptan succinate",
+      "name": "ZEMBRACE SYMTOUCH"
+    }
+  ],
+  "setid": "6e5b104f-2b9e-416e-92fb-ef1bdaea867d",
+  "source": "dailymed"
+}
