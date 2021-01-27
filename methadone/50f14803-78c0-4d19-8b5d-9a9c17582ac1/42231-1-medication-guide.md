@@ -14,6 +14,6 @@
 | Distr. by: Hikma Pharmaceuticals USA Inc.Eatontown, NJ 07724For more information, please call 1-800-962-8364. |  |
 | This Medication Guide has been approved by the U.S. Food and Drug Administration. |  |
 
-C50000962/01
+C50000962/02
 
-Revised August 2020
+Revised September 2020
