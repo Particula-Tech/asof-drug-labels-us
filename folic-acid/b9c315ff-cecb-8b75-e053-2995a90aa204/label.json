@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "ANDA091145"
+  ],
+  "inn": "folic-acid",
+  "labeler": "Method Pharmaceuticals, LLC",
+  "package_ndcs": [
+    "58657-151-10"
+  ],
+  "products": [
+    {
+      "form": "TABLET",
+      "generic": "folic acid",
+      "name": "Folic Acid"
+    }
+  ],
+  "setid": "b9c315ff-cecb-8b75-e053-2995a90aa204",
+  "source": "dailymed"
+}

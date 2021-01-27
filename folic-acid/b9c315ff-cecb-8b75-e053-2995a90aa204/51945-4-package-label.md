@@ -1,0 +1,3 @@
+# PRINCIPAL DISPLAY PANEL
+
+NDC 58657-151-10 Folic Acid Tablets, USP 1 mg Rx only
