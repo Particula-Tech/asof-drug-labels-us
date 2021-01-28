@@ -1,0 +1,20 @@
+{
+  "application_numbers": [
+    "NDA214313"
+  ],
+  "inn": "norepinephrine",
+  "labeler": "Baxter Healthcare Corporation",
+  "package_ndcs": [
+    "0338-0108-20",
+    "0338-0112-20"
+  ],
+  "products": [
+    {
+      "form": "INJECTION, SOLUTION",
+      "generic": "norepinephrine bitartrate",
+      "name": "NOREPINEPHRINE BITARTRATE"
+    }
+  ],
+  "setid": "6363e9b4-29df-4553-904d-a563e5adda6e",
+  "source": "dailymed"
+}
