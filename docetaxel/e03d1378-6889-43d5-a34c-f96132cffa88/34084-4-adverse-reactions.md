@@ -133,7 +133,7 @@ Severe stomatitis occurred in 5.5% of patients with solid tumors, in 7.4% of pat
 Cardiovascular Reactions
 
 Hypotension occurred in 2.8% of patients with solid tumors; 1.2% required treatment.
-Clinically meaningful events such as heart failure, sinus tachycardia, atrial flutter, dysrhythmia, unstable angina, pulmonary edema, and hypertension occurred rarely.
+Clinically meaningful events such as heart failure, sinus tachycardia, atrial flutter, dysrhythmia, unstable angina, pulmonary edema, and hypertension have occurred.
 Seven of 86 (8.1%) of metastatic breast cancer patients receiving docetaxel 100 mg/m2 in a randomized trial and who had serial left ventricular ejection fractions assessed developed deterioration of LVEF by ≥10% associated with a drop below the institutional lower limit of normal.
 
 Infusion Site Reactions
@@ -275,9 +275,9 @@ Five of the 7 TAC-treated patients required treatment discontinuation; no deaths
 
 Cardiovascular Reactions
 
-More cardiovascular reactions were reported in the TAC arm versus the FAC arm during the treatment period: arrhythmias, all grades (6.2% vs. 4.9%), and hypotension, all grades (1.9% vs. 1.8%).
+More cardiovascular reactions were reported in the TAC arm versus the FAC arm during the treatment period: arrhythmias, all grades (6.2% vs. 4.9%), and hypotension, all grades (1.9% vs. 0.8%).
 Twenty-six (26) patients (3.5%) in the TAC arm and 17 patients (2.3%) in the FAC arm developed CHF during the study period.
-All except one patient in each arm were diagnos4ed with CHF during the follow-up period.
+All except one patient in each arm were diagnosed with CHF during the follow-up period.
 Two (2) patients in TAC arm and 4 patients in FAC arm died due to CHF.
 The risk of CHF was higher in the TAC arm in the first year, and then was similar in both treatment arms.
 
@@ -375,7 +375,7 @@ Table 7 - Treatment Emergent Adverse Reactions Regardless of Relationship to Tre
 | Taste Perversion |  |  |  |
 | Any | 6 | 0 | 0 |
 | Severe‡ | 1 | 0 | 0 |
-| * Normal Baseline LFTs: Transaminases ≤1.5 times ULN or alkaline phosphatase ≤2.5 times ULN or isolated elevations of transaminases or alkaline phosphatase up to 5 times ULN.† Febrile Neutropenia: ANC grade 4 with fever >38°C with intravenous antibiotics and/or hospitalization.‡ COSTART term and grading system.§ Not Applicable.¶ Not Done |  |  |  |
+| * Normal Baseline LFTs: Transaminases ≤1.5 times ULN or alkaline phosphatase ≤2.5 times ULN or isolated elevations of transaminases or alkaline phosphatase up to 5 times ULN.† Febrile Neutropenia: ANC grade 4 with fever >38°C with intravenous antibiotics and/or hospitalization.‡ COSTART term and grading system.§ Not Applicable¶ Not Done |  |  |  |
 
 Combination therapy with docetaxel in chemotherapy-naive advanced unresectable or metastatic NSCLC
 
@@ -465,7 +465,7 @@ Combination therapy with docetaxel in patients with prostate cancer
 
 The following data are based on the experience of 332 patients, who were treated with docetaxel 75 mg/m2 every 3 weeks in combination with prednisone 5 mg orally twice daily (see Table 9).
 
-Table 9 - Clinically Important Treatment-Emergent Adverse Reactions (Regardless of Relationship) in Patients with Prostate Cancer Who Received Docetaxel in Combination with Prednisone (TAX327)
+Table 9- Clinically Important Treatment-Emergent Adverse Reactions (Regardless of Relationship) in Patients with Prostate Cancer Who Received Docetaxel in Combination with Prednisone (TAX327)
 
 |  | Docetaxel 75 mg/m2 every 3 weeks + prednisone 5 mg twice daily n=332 % |  | Mitoxantrone 12 mg/m2 every 3 weeks + prednisone 5 mg twice daily n=335 % |  |
 | --- | --- | --- | --- | --- |
@@ -595,45 +595,41 @@ Table 11 - Clinically Important Treatment-Emergent Adverse Reactions (Regardless
 ## 6.2 Postmarketing Experience
 
 The following adverse reactions have been identified from clinical trials and/or postmarketing surveillance.
-Because they are reported from a population of unknown size, precise estimates of frequency cannot be made.
+Because these reactions are reported from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
 
 Body as a whole: diffuse pain, chest pain, radiation recall phenomenon, injection site recall reaction (recurrence of skin reaction at a site of previous extravasation following administration of docetaxel at a different site) at the site of previous extravasation.
 
 Cardiovascular: atrial fibrillation, deep vein thrombosis, ECG abnormalities, thrombophlebitis, pulmonary embolism, syncope, tachycardia, myocardial infarction.
-Ventricular arrhythmia including ventricular tachycardia has been reported in patients treated with docetaxel in combination regimens including doxorubicin, 5-fluorouracil and/or cyclophosphamide, and may be associated with fatal outcome.
+Ventricular arrhythmia including ventricular tachycardia, in patients treated with docetaxel in combination regimens including doxorubicin, 5-fluorouracil and/or cyclophosphamide, may be associated with fatal outcome.
 
-Cutaneous: very rare cases of cutaneous lupus erythematosus and rare cases of bullous eruptions such as erythema multiforme and severe cutaneous adverse reactions (SCARs) such as Stevens-Johnson syndrome, toxic epidermal necrolysis, and acute generalized exanthematous pustulosis, Scleroderma-like changes (usually preceded by peripheral lymphedema), and severe palmar-plantar erythrodysesthesia.
-In some cases multiple factors may have contributed to the development of these effects.
-Severe hand and foot syndrome has been reported.
-Cases of permanent alopecia have been reported.
+Cutaneous: cutaneous lupus erythematosus, bullous eruptions such as erythema multiforme and severe cutaneous adverse reactions (SCARs) such as Stevens-Johnson syndrome, toxic epidermal necrolysis, and acute generalized exanthematous pustulosis, scleroderma-like changes (usually preceded by peripheral lymphedema), severe palmar-plantar erythrodysesthesia and permanent alopecia.
 
-Gastrointestinal: enterocolitis, including colitis, ischemic colitis, and neutropenic enterocolitis, has been reported with a potential fatal outcome.
-Abdominal pain, anorexia, constipation, duodenal ulcer, esophagitis, gastrointestinal hemorrhage, gastrointestinal perforation, intestinal obstruction, ileus, and dehydration as a consequence to gastrointestinal events have been reported.
+Gastrointestinal: enterocolitis, including colitis, ischemic colitis, and neutropenic enterocolitis, which may be fatal.
+Abdominal pain, anorexia, constipation, duodenal ulcer, esophagitis, gastrointestinal hemorrhage, gastrointestinal perforation, intestinal obstruction, ileus, and dehydration as a consequence of gastrointestinal events.
 
-Hearing: rare cases of ototoxicity, hearing disorders and/or hearing loss have been reported, including cases associated with other ototoxic drugs.
+Hearing: ototoxicity, hearing disorders and/or hearing loss, including during use with other ototoxic drugs.
 
-Hematologic: bleeding episodes.
-Disseminated intravascular coagulation (DIC), often in association with sepsis or multiorgan failure, has been reported.
+Hematologic: bleeding episodes, disseminated intravascular coagulation (DIC), often in association with sepsis or multiorgan failure.
 
-Hepatic: rare cases of hepatitis, sometimes fatal, primarily in patients with pre-existing liver disorders, have been reported.
+Hepatic: hepatitis, sometimes fatal, primarily in patients with pre-existing liver disorders.
 
-Hypersensitivity: rare cases of anaphylactic shock have been reported.
-Very rarely these cases resulted in a fatal outcome in patients who received premedication.
-Hypersensitivity reactions with potential fatal outcome have been reported with docetaxel in patients who previously experienced hypersensitivity reactions to paclitaxel.
+Hypersensitivity: anaphylactic shock with fatal outcome in patients who received premedication.
+Severe hypersensitivity reactions with fatal outcome with docetaxel in patients who previously experienced hypersensitivity reactions to paclitaxel.
 
-Metabolism and Nutrition Disorders: electrolyte imbalance, including cases of hyponatremia, hypokalemia, hypomagnesemia, and hypocalcemia have been reported.
+Metabolism and Nutrition Disorders: electrolyte imbalance, including hyponatremia, hypokalemia, hypomagnesemia, and hypocalcemia.
+Tumor lysis syndrome, sometimes fatal.
 
-Neurologic: confusion, rare cases of seizures or transient loss of consciousness have been observed, sometimes appearing during the infusion of the drug.
+Neurologic: confusion, seizures or transient loss of consciousness, sometimes appearing during the infusion of the drug.
 
-Ophthalmologic: conjunctivitis, lacrimation or lacrimation with or without conjunctivitis.
-Excessive tearing which may be attributable to lacrimal duct obstruction has been reported.
-Rare cases of transient visual disturbances (flashes, flashing lights, scotomata) typically occurring during drug infusion and in association with hypersensitivity reactions have been reported.
-These were reversible upon discontinuation of the infusion.
-Cases of cystoid macular edema (CME) have been reported in patients treated with docetaxel.
+Ophthalmologic: conjunctivitis, lacrimation or lacrimation with or without conjunctivitis, cystoid macular edema (CME).
+Excessive tearing which may be attributable to lacrimal duct obstruction.
+Transient visual disturbances (flashes, flashing lights, scotomata) typically occurring during drug infusion and reversible upon discontinuation of the infusion, in association with hypersensitivity reactions.
 
-Respiratory: dyspnea, acute pulmonary edema, acute respiratory distress syndrome/pneumonitis, interstitial lung disease, interstitial pneumonia, respiratory failure, and pulmonary fibrosis have rarely been reported and may be associated with fatal outcome.
-Rare cases of radiation pneumonitis have been reported in patients receiving concomitant radiotherapy.
+Respiratory: dyspnea, acute pulmonary edema, acute respiratory distress syndrome/pneumonitis, interstitial lung disease, interstitial pneumonia, respiratory failure, and pulmonary fibrosis, which may be fatal.
+Radiation pneumonitis in patients receiving concomitant radiotherapy.
 
-Renal: renal insufficiency and renal failure have been reported, the majority of these cases were associated with concomitant nephrotoxic drugs.
+Renal: renal insufficiency and renal failure, the majority of cases were associated with concomitant nephrotoxic drugs.
 
-Second primary malignancies: second primary malignancies, including AML, MDS, NHL, and renal cancer, have been reported in patients treated with docetaxel-containing regimens [see Warnings and Precautions (5.7)].
+Second primary malignancies: second primary malignancies, including AML, MDS, NHL, and renal cancer [see Warnings and Precautions (5.7)].
+
+Musculoskeletal disorder: myositis.

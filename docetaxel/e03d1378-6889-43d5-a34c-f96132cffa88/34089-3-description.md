@@ -1,7 +1,7 @@
 # 11. DESCRIPTION
 
 Docetaxel is an antineoplastic agent belonging to the taxoid family.
-It is prepared by semi-synthesis beginning with a precursor extracted from the renewable needle biomass of yew plants.
+It is prepared by semisynthesis beginning with a precursor extracted from the renewable needle biomass of yew plants.
 The chemical name for docetaxel is (2R,3S)-N-carboxy-3-phenylisoserine, N-tert-butyl ester, 13-ester with 5β-20-epoxy-1,2α,4,7β,10β,13α-hexahydroxytax-11-en-9-one 4-acetate 2-benzoate.
 Docetaxel has the following structural formula:
 

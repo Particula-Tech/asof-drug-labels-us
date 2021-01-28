@@ -63,7 +63,7 @@ Embryo-Fetal Toxicity
 Docetaxel Injection can cause fetal harm.
 Advise patients to inform their healthcare provider of a known or suspected pregnancy.
 Advise patients to avoid becoming pregnant while receiving this drug.
-Advise female patients of reproductive potential to use effective contraceptiions during treatment and for 6 months after the last dose of Docetaxel Injection.
+Advise female patients of reproductive potential to use effective contraceptives during treatment and for 6 months after the last dose of Docetaxel Injection.
 Advise male patients with female partners of reproductive potential to use effective contraception during treatment and for 3 months after the last dose of Docetaxel Injection [see Warnings and Precautions (5.12), and Use in Specific Populations (8.1, 8.3)].
 
 Lactation
@@ -77,6 +77,11 @@ Advise males of reproductive potential that Docetaxel Injection may impair ferti
 Alcohol Content in Docetaxel Injection
 
 Explain to patients the possible effects of the alcohol content in Docetaxel Injection, including possible effects on the central nervous system [see Warnings and Precautions (5.13)].
+
+Tumor Lysis Syndrome
+
+Advise patients of the potential risk of tumor lysis syndrome and to immediately report any signs or symptoms associated with this event (nausea, vomiting, confusion, shortness of breath, seizure, irregular heartbeat, dark or cloudy urine, reduced amount of urine, unusual tiredness, muscle cramps) to their healthcare provider.
+Advise patients of the importance of keeping scheduled appointment for blood work or other laboratory tests and of drinking adequate fluids to avoid dehydration [see Warnings and Precautions (5.14)].
 
 Ability to Drive or Operate Machines
 

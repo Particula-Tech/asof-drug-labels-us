@@ -19,7 +19,7 @@ Administer in a facility equipped to manage possible complications (e.g., anaphy
 
 ## 2.3 Prostate Cancer
 
-For metastatic castration-resistant prostate cancer, the recommended dose of Docetaxel Injection is 75 mg/m2 every 3 weeks as a 1-hour intravenous infusion.
+For metastatic castration-resistant prostate cancer, the recommended dose of Docetaxel Injection is 75 mg/m2 every 3 weeks as a 1 hour intravenous infusion.
 Prednisone 5 mg orally twice daily is administered continuously [see Dosage and Administration (2.7)].
 
 ## 2.4 Gastric Adenocarcinoma
@@ -100,7 +100,8 @@ In both studies, G-CSF was recommended during the second and/or subsequent cycle
 If an episode of febrile neutropenia, prolonged neutropenia or neutropenic infection occurs despite G-CSF use, the Docetaxel Injection dose should be reduced from 75 mg/m2 to 60 mg/m2.
 If subsequent episodes of complicated neutropenia occur the Docetaxel Injection dose should be reduced from 60 mg/m2 to 45 mg/m2.
 In case of grade 4 thrombocytopenia the Docetaxel Injection dose should be reduced from 75 mg/m2 to 60 mg/m2.
-Patients should not be retreated with subsequent cycles of Docetaxel Injection until neutrophils recover to a level >1,500 cells/mm3[see Contraindications (4)] and platelets recover to a level >100,000 cells/mm3.
+Do not retreat patients with subsequent cycles of Docetaxel Injection until neutrophils recover to a level >1,500 cells/mm3[see Contraindications (4)].
+Avoid retreating patients until platelets recover to a level >100,000 cells/mm3.
 Discontinue treatment if these toxicities persist [see Warnings and Precautions (5.3)].
 
 Recommended dose modifications for toxicities in patients treated with Docetaxel Injection in combination with cisplatin and fluorouracil are shown in Table 1.
@@ -125,11 +126,12 @@ The dose modifications for cisplatin and fluorouracil in the gastric cancer stud
 Cisplatin dose modifications and delays
 
 Peripheral neuropathy: A neurological examination should be performed before entry into the study, and then at least every 2 cycles and at the end of treatment.
-In the case of neurological signs or symptoms, more frequent examinations should be performed and the following dose modifications can be made according to NCIC-CTC grade:
+In the case of neurological signs or symptoms, more frequent examinations should be performed and the following dose modifications can be made according to NCI-CTCAE grade:
 
 - •Grade 2: Reduce cisplatin dose by 20%.
 - •Grade 3: Discontinue treatment.
-- •Ototoxicity: In the case of grade 3 toxicity, discontinue treatment.
+
+Ototoxicity: In the case of grade 3 toxicity, discontinue treatment.
 
 Nephrotoxicity: In the event of a rise in serum creatinine ≥grade 2 (>1.5 × normal value) despite adequate rehydration, CrCl should be determined before each subsequent cycle and the following dose reductions should be considered (see Table 2).
 
@@ -179,7 +181,7 @@ Please follow the preparation instructions provided below.
 
 Dilution for Infusion
 
-1. Aseptically withdraw the required amount of Docetaxel Injection solution (10 mg docetaxel/mL) with a calibrated syringe and inject (as a single injection) into a 250 mL infusion bag or bottle of either 0.9% Sodium Chloride solution or 5% Dextrose solution to produce a final concentration of 0.3 mg/mL to 0.74 mg/mL.
+1. Using only a 21 gauge needle, aseptically withdraw the required amount of Docetaxel Injection solution (10 mg docetaxel/mL) with a calibrated syringe and inject (as a single injection) into a 250 mL infusion bag or bottle of either 0.9% Sodium Chloride solution or 5% Dextrose solution to produce a final concentration of 0.3 mg/mL to 0.74 mg/mL.
 2. If a dose greater than 200 mg of Docetaxel Injection is required, use a larger volume of the infusion vehicle so that a concentration of 0.74 mg/mL Docetaxel Injection is not exceeded.
 3. Thoroughly mix the infusion bag or bottle manually by gentle inversion and rotation in a controlled manner and avoid foaming.
    Shaking or vigorous agitation should be avoided during preparation and transportation to the patient for administration.
