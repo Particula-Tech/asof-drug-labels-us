@@ -9,4 +9,5 @@ The structural formula is as follows:
 Amiodarone hydrochloride is a white to cream-colored crystalline powder.
 It is slightly soluble in water, soluble in alcohol, and freely soluble in chloroform.
 It contains 37.3% iodine by weight.
-USP dissolution test pending.
+Amiodarone Hydrochloride Tablets USP, 100 mg and 200 mg meet USP Dissolution Test 3.
+Amiodarone Hydrochloride Tablets USP, 300 mg and 400 mg meet USP Dissolution Test 4.
