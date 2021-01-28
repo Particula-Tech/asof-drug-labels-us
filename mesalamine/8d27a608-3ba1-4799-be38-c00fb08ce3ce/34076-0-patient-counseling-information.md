@@ -9,17 +9,5 @@ General Counseling Information
 - •Instruct patients not to take mesalamine extended-release capsules with antacids, because it could affect the way mesalamine extended-release capsules dissolve.
 - •Instruct patients to contact a health care provider if they experience a worsening of ulcerative colitis symptoms, because it could be due to a reaction to mesalamine extended-release capsules.
 
-Distributed by:
-
-Teva Pharmaceuticals USA, Inc.
-
-Parsippany, NJ 07054
-
-U.S. Patent Number: 8,865,688
-
-© 2020 Bausch Health Companies Inc. or its affiliates
-
-Rev.
-02/2020
-
-9731400 20002878
+Distributed by: Teva Pharmaceuticals USA, Inc. Parsippany, NJ 07054 U.S. Patent Number: 8,865,688 © 2020 Bausch Health Companies Inc. or its affiliates Rev.
+02/2020 9731400 20002878
