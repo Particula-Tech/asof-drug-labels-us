@@ -1,0 +1,20 @@
+{
+  "application_numbers": [
+    "ANDA210739"
+  ],
+  "inn": "arsenic-trioxide",
+  "labeler": "Amneal Pharmaceuticals LLC",
+  "package_ndcs": [
+    "70121-1483-1",
+    "70121-1483-7"
+  ],
+  "products": [
+    {
+      "form": "INJECTION, SOLUTION",
+      "generic": "arsenic trioxide",
+      "name": "Arsenic Trioxide"
+    }
+  ],
+  "setid": "5845022e-8c01-451b-ae49-a28e58c5f845",
+  "source": "dailymed"
+}
