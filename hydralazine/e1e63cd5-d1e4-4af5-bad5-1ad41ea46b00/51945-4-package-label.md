@@ -1,12 +1,14 @@
 # PRINCIPAL DISPLAY PANEL - 90 Tablet Bottle Label
 
-NDC 24338-010-09 Rx only
+NDC 24338-010-09 90 tablets
 
-BiDil® isosorbide dinitrate 20mg/hydralazine HCl 37.5mg
+BiDil® isosorbide dinitrate and hydralazine HCl tablets
 
-90 Tablets
+20 mg/37.5 mg
 
 Store at room temperature 15°C - 30°C (59°F - 86°F)
 
-BDTL1.05 Rev.
-11/19 CIB71996A
+BDL-TL-09-00 Rev.
+09/20 CIB71996B
+
+Rx only
