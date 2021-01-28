@@ -6,10 +6,10 @@ Risk Summary
 
 Based on animal studies and the mechanism of action [see Clinical Pharmacology (12.1)], Zortress can cause fetal harm when administered to a pregnant woman.
 There are limited case reports of Zortress use in pregnant women; however, these reports are insufficient to inform a drug associated risk of adverse developmental outcomes.
-Reproductive studies in animals have demonstrated that everolimus was maternally toxic in rabbits, and caused embryo-fetal toxicities in rats and rabbits, at exposures near or below those achieved in human transplant patients.
+Reproductive studies in animals have demonstrated that everolimus was maternally toxic in rabbits and caused embryo-fetal toxicities in rats and rabbits, at exposures near or below those achieved in human transplant patients.
 Advise pregnant women of the potential risk to a fetus.
 
-The background risk of major birth defects and miscarriage for the indicated population is unknown; however, in the U.S. general population, the estimated background risk of major birth defects is 2%-4% and of miscarriage is 15%-20% of clinically recognized pregnancies.
+The background risk of major birth defects and miscarriage for the indicated population is unknown; however, in the U.S. general population, the estimated background risk of major birth defects is 2% to 4% and of miscarriage is 15% to 20% of clinically recognized pregnancies.
 
 Data
 

@@ -1,6 +1,6 @@
 # 3DOSAGE FORMS AND STRENGTHS
 
-Zortress is available as 0.25 mg, 0.5 mg, 0.75 mg and 1 mg tablets.
+Zortress is available as 0.25 mg, 0.5 mg, 0.75 mg, and 1 mg tablets.
 
 Table 1.
 Description of Zortress (everolimus) Tablets

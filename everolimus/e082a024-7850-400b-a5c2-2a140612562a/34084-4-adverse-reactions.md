@@ -47,7 +47,7 @@ Injury, poisoning and procedural complications reported as serious adverse react
 A total of 13 patients died during the first 12 months of study; 7 (3%) in the Zortress group and 6 (2%) in the control group.
 The most common causes of death across the study groups were related to cardiac conditions and infections.
 
-There were 12 (4%) graft losses in the Zortress group and 8 (3%) in the control group over the 12 month study period.
+There were 12 (4%) graft losses in the Zortress group and 8 (3%) in the control group over the 12-month study period.
 Of the graft losses, 4 were due to renal artery and two due to renal vein thrombosis in the Zortress group (2%) compared to two renal artery thromboses in the control group (1%) [see Boxed Warning, Warnings and Precautions (5.4)].
 
 The most common (greater than or equal to 20%) adverse reactions observed in the Zortress group were: peripheral edema, constipation, hypertension, nausea, anemia, urinary tract infection, and hyperlipidemia.
@@ -107,7 +107,7 @@ Incidence Rates of Frequent (Greater than or Equal to 10% in any Treatment Group
 | Abdominal pain | 36 (13) | 42 (15) |
 | Dyspepsia | 12 (4) | 31 (11) |
 | Abdominal pain upper | 9 (3) | 30 (11) |
-| General Disorders and Administrative site Conditions | 181 (66) | 160 (59) |
+| General Disorders and Administrative-Site Conditions | 181 (66) | 160 (59) |
 | Edema Peripheral | 123 (45) | 108 (40) |
 | Pyrexia | 51 (19) | 40 (15) |
 | Fatigue | 25 (9) | 28 (10) |
@@ -115,7 +115,7 @@ Incidence Rates of Frequent (Greater than or Equal to 10% in any Treatment Group
 | Urinary Tract Infection | 60 (22) | 63 (23) |
 | Upper Respiratory Tract Infection | 44 (16) | 49 (18) |
 | Injury, Poisoning and Procedural Complications | 163 (60) | 163 (60) |
-| Incision site pain | 45 (16) | 47 (17) |
+| Incision-site pain | 45 (16) | 47 (17) |
 | Procedural pain | 40 (15) | 37 (14) |
 | Investigations | 137 (50) | 133 (49) |
 | Blood creatinine Increased | 48 (18) | 59 (22) |
@@ -143,18 +143,17 @@ Incidence Rates of Frequent (Greater than or Equal to 10% in any Treatment Group
 | Cough | 20 (7) | 30 (11) |
 | Vascular Disorders | 122 (45) | 124 (45) |
 | Hypertension | 81 (30) | 82 (30) |
-
-*The safety analysis population defined as all randomized kidney transplant patients who received at least one dose of treatment and had at least one post-baseline safety assessment.
+| *The safety analysis population defined as all randomized kidney transplant patients who received at least one dose of treatment and had at least one post-baseline safety assessment. |  |  |
 
 Adverse reaction that occurred with at least a 5% higher frequency in the Zortress 1.5 mg group compared to the control group were: peripheral edema (45% compared to 40%), hyperlipidemia (21% compared to 16%), dyslipidemia (15% compared to 9%), and stomatitis/mouth ulceration (8% compared to 3%).
 
 A third treatment group of Zortress 3 mg per day (1.5 mg twice daily; target trough concentrations 6 to 12 ng/mL) with reduced exposure cyclosporine was included in the study described above.
 Although as effective as the lower dose Zortress group, the overall safety was worse and consequently higher doses of Zortress cannot be recommended.
 Out of 279 patients, 95 (34%) discontinued the study medication with 57 (20%) doing so because of adverse reactions.
-The most frequent adverse reactions leading to discontinuation of Zortress when used at this higher dose were injury, poisoning and procedural complications (Zortress 1.5 mg: 5%, Zortress 3 mg: 7%, and control: 2%), infections (2%, 6%, and 3%, respectively), renal and urinary disorders (4%, 7%, and 4%, respectively) and gastrointestinal disorders (1%, 3%, and 2%).
+The most frequent adverse reactions leading to discontinuation of Zortress when used at this higher dose were injury, poisoning and procedural complications (Zortress 1.5 mg: 5%, Zortress 3 mg: 7%, and control: 2%), infections (2%, 6%, and 3%, respectively), renal and urinary disorders (4%, 7%, and 4%, respectively), and gastrointestinal disorders (1%, 3%, and 2%).
 
 The combination of fixed dose Zortress and standard doses of cyclosporine in previous kidney clinical trials resulted in frequent elevations of serum creatinine with higher mean and median serum creatinine values observed than in the current study with reduced exposure cyclosporine.
-These results indicate that Zortress increases the cyclosporine-induced nephrotoxicity; and therefore should only be used in a concentration-controlled regimen with reduced exposure cyclosporine [see Boxed Warnings, Indications and Usage (1.1), Warnings and Precautions (5.6)].
+These results indicate that Zortress increases the cyclosporine-induced nephrotoxicity; and therefore, should only be used in a concentration-controlled regimen with reduced exposure cyclosporine [see Boxed Warnings, Indications and Usage (1.1), Warnings and Precautions (5.6)].
 
 Liver Transplantation
 
@@ -178,7 +177,7 @@ The overall incidences of serious adverse reactions were 50% (122/245) in the Zo
 Infections and infestations were reported as serious adverse reactions with the highest incidence followed by gastrointestinal disorders and hepatobiliary disorders.
 
 During the first 12 months of study, 13 deaths were reported in the Zortress group (one patient never took Zortress).
-In the same 12 month period, 7 deaths were reported in the tacrolimus control group.
+In the same 12-month period, 7 deaths were reported in the tacrolimus control group.
 Deaths occurred in both groups for a variety of reasons and were mostly associated with liver-related issues, infections and sepsis.
 In the following 12 months of study, four additional deaths were reported in each treatment group.
 
@@ -254,7 +253,7 @@ Less common adverse reactions, occurring overall in greater than or equal to 1% 
 
 Blood and Lymphatic System Disorders: anemia, leukocytosis, lymphadenopathy, neutropenia, pancytopenia, thrombocythemia, thrombocytopenia
 
-Cardiac and Vascular Disorders: angina pectoris, atrial fibrillation, cardiac failure congestive, palpitations, tachycardia, hypertension including hypertensive crisis, hypotension, deep-vein thrombosis
+Cardiac and Vascular Disorders: angina pectoris, atrial fibrillation, cardiac failure congestive, palpitations, tachycardia, hypertension, including hypertensive crisis, hypotension, deep-vein thrombosis
 
 Endocrine Disorders: Cushingoid, hyperparathyroidism, hypothyroidism
 
@@ -262,13 +261,13 @@ Eye Disorders: cataract, conjunctivitis, vision blurred
 
 Gastrointestinal Disorders: abdominal distention, abdominal hernia, ascites, constipation, dyspepsia, dysphagia, epigastric discomfort, flatulence, gastritis, gastroesophageal reflux disease, gingival hypertrophy, hematemesis, hemorrhoids, ileus, mouth ulceration, peritonitis, stomatitis
 
-General Disorders and Administrative Site Conditions: chest discomfort, chest pain, chills, fatigue, incisional hernia, inguinal hernia, malaise, edema including generalized edema, pain
+General Disorders and Administrative Site Conditions: chest discomfort, chest pain, chills, fatigue, incisional hernia, inguinal hernia, malaise, edema, including generalized edema, pain
 
 Hepatobiliary Disorders: hepatic enzyme increased, bile duct stenosis, bilirubin increased, cholangitis, cholestasis, hepatitis (non-infectious)
 
 Infections and Infestations: BK virus infection [see Warnings and Precautions (5.13)], bacteremia, bronchitis, candidiasis, cellulitis, CMV, folliculitis, gastroenteritis, herpes infections, influenza, lower respiratory tract, nasopharyngitis, onychomycosis, oral candidiasis, oral herpes, osteomyelitis, pneumonia, pyelonephritis, sepsis, sinusitis, tinea pedis, upper respiratory tract infection, urethritis, urinary tract infection, wound infection [see Boxed Warning, Warnings and Precautions (5.3)]
 
-Injury Poisoning and Procedural Complications: incision site complications including infections, perinephric collection, seroma, wound dehiscence, incisional hernia, perinephric hematoma, localized intra-abdominal fluid collection, impaired healing, lymophocele, lymphorrhea
+Injury Poisoning and Procedural Complications: incision site complications, including infections, perinephric collection, seroma, wound dehiscence, incisional hernia, perinephric hematoma, localized intra-abdominal fluid collection, impaired healing, lymophocele, lymphorrhea
 
 Investigations: blood alkaline phosphatase increased, blood creatinine increased, blood glucose increased, hemoglobin decreased, white blood cell count decreased, transaminases increased
 
@@ -301,4 +300,4 @@ Less common, serious adverse reactions occurring overall in less than1% of eithe
 ## 6.3 Postmarketing Experience
 
 Adverse reactions identified from the postmarketing use of the combination regimen of Zortress and cyclosporine that are not specific to any one transplant indication include angioedema [see Warnings and Precautions (5.8)], erythroderma, leukocytoclastic vasculitis, pancreatitis, pulmonary alveolar proteinosis, and pulmonary embolism.
-There have also been reports of male infertility with mTOR inhibitors including Zortress [see Warnings and Precautions (5.18)].
+There have also been reports of male infertility with mTOR inhibitors, including Zortress [see Warnings and Precautions (5.18)].

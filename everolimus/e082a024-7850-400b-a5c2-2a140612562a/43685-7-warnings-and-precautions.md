@@ -102,9 +102,9 @@ Physicians should also consider the risk that reduced immunosuppression represen
 
 Coadministration of Zortress with strong CYP3A4-inhibitors (e.g., ketoconazole, itraconazole, voriconazole, clarithromycin, telithromycin, ritonavir, boceprevir, telaprevir) and strong CYP3A4 inducers (e.g., rifampin, rifabutin) is not recommended without close monitoring of everolimus whole blood trough concentrations [see Drug Interactions (7)].
 
-## 5.15 Thrombotic Microangiopathy/Thrombotic Thrombocytopenic Purpura/Hemolytic Uremic Syndrome (TMA/TTP/HUS)
+## 5.15 Thrombotic Microangiopathy/Thrombotic Thrombocytopenic Purpura/Hemolytic Uremic Syndrome
 
-The concomitant use of Zortress with cyclosporine may increase the risk of thrombotic microangiopathy/thrombotic thrombocytopenic purpura/hemolytic uremic syndrome.
+The concomitant use of Zortress with cyclosporine may increase the risk of thrombotic microangiopathy (TMA)/thrombotic thrombocytopenic purpura (TTP)/hemolytic uremic syndrome (HUS).
 Monitor hematologic parameters [see Adverse Reactions (6.2)].
 
 ## 5.16 New Onset Diabetes after Transplant

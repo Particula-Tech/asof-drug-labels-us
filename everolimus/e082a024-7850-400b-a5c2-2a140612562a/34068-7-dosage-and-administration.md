@@ -3,7 +3,7 @@
 Patients receiving Zortress may require dose adjustments based on everolimus blood concentrations achieved, tolerability, individual response, change in concomitant medications and the clinical situation.
 Optimally, dose adjustments of Zortress should be based on trough concentrations obtained 4 or 5 days after a previous dosing change.
 Dose adjustment is required if the trough concentration is below 3 ng/mL.
-The total daily dose of Zortress should be doubled using the available tablet strengths (0.25 mg, 0.5 mg, 0.75 mg or 1 mg).
+The total daily dose of Zortress should be doubled using the available tablet strengths (0.25 mg, 0.5 mg, 0.75 mg, or 1 mg).
 Dose adjustment is also required if the trough concentration is greater than 8 ng/mL on 2 consecutive measures; the dose of Zortress should be decreased by 0.25 mg twice daily [see Dosage and Administration (2.3), Clinical Pharmacology (12.3)].
 
 ## 2.1 Dosage in Adult Kidney Transplant Patients
@@ -52,7 +52,7 @@ In renal transplant patients, the cyclosporine dose should be based on cyclospor
 
 In renal transplantation, there are limited data regarding dosing Zortress with reduced cyclosporine trough concentrations of 25 to 50 ng/mL after 12 months.
 Zortress has not been evaluated in clinical trials with other formulations of cyclosporine.
-Prior to dose reduction of cyclosporine it should be ascertained that steady-state everolimus whole blood trough concentration is at least 3 ng/mL.
+Prior to dose reduction of cyclosporine, it should be ascertained that steady state everolimus whole blood trough concentration is at least 3 ng/mL.
 There is an interaction of cyclosporine on everolimus, and consequently, everolimus concentrations may decrease if cyclosporine exposure is reduced [see Drug Interactions (7.2)].
 
 ## 2.5 Therapeutic Drug Monitoring (TDM) - Tacrolimus in Liver Transplant Patients

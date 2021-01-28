@@ -14,7 +14,7 @@ The study was conducted at 79 renal transplant centers across Europe, South Afri
 There were no major baseline differences between treatment groups with regard to recipient or donor disease characteristics.
 The majority of transplant recipients in all groups (70% to 76%) had three or more HLA mismatches; mean percentage of panel reactive antibodies ranged from 1% to 2%.
 The rate of premature treatment discontinuation at 12 months was 30% and 22% in the Zortress 1.5 mg and control groups, respectively, (p = 0.03, Fisher’s exact test) and was more prominent between groups among female patients.
-Results at 12 months indicated that Zortress 1.5 mg per day is comparable to control with respect to efficacy failure, defined as treated biopsy-proven acute rejection*, graft loss, death or loss to follow-up.
+Results at 12 months indicated that Zortress 1.5 mg per day is comparable to control with respect to efficacy failure, defined as treated biopsy-proven acute rejection*, graft loss, death, or loss to follow-up.
 The percentage of patients experiencing this endpoint and each individual variable in the Zortress and control groups is shown in Table 7.
 
 Table 7.
@@ -24,35 +24,25 @@ Efficacy Failure by Treatment Group (ITT Population) at 12 Months After Kidney T
 | --- | --- | --- | --- |
 | Efficacy Endpoints1 |  |  |  |
 | Efficacy Failure Endpoint2 |  | 70 (25.3) | 67 (24.2) |
-|  | Treated Biopsy Proven Acute Rejection | 45 (16.2) | 47 (17.0) |
-|  | Death | 7 (2.5) | 6 (2.2) |
-|  | Graft Loss | 12 (4.3) | 9 (3.2) |
-|  | Loss to Follow-up | 12 (4.3) | 9 (3.2) |
+| Treated Biopsy Proven Acute Rejection |  | 45 (16.2) | 47 (17.0) |
+| Death |  | 7 (2.5) | 6 (2.2) |
+| Graft Loss |  | 12 (4.3) | 9 (3.2) |
+| Loss to Follow-up |  | 12 (4.3) | 9 (3.2) |
 | Graft Loss or Death or Loss to Follow-up3 |  | 32 (11.6) | 26 (9.4) |
-|  | Graft Loss or Death | 18 (6.5) | 15 (5.4) |
-|  | Loss to Follow-up3 | 14 (5.1) | 11 (4.0) |
-
-*Treated biopsy-proven acute rejection (tBPAR) was defined as a histologically confirmed acute rejection with a biopsy graded as IA, IB, IIA, IIB, or III according to 1997 Banff criteria that were treated with anti-rejection medication.
-
-1The difference in rates (Zortress–mycophenolic acid) with 95% CI for primary efficacy failure endpoint is 1.1% (-6.1%, 8.3%); and for the graft loss, death or loss to follow-up endpoint is 2.2% (-2.9%, 7.3%).
-
-2Includes treated BPAR, graft loss, death or loss to follow-up by Month 12 where loss to follow-up represents patient who did not experience treated BPAR, graft loss or death and whose last contact date is prior to 12-month visit.
-
-3Loss to follow-up (for Graft Loss, Death, or Loss to Follow-up) represents patient who did not experience death or graft loss and whose last contact date is prior to 12-month visit.
+| Graft Loss or Death |  | 18 (6.5) | 15 (5.4) |
+| Loss to Follow-up3 |  | 14 (5.1) | 11 (4.0) |
+| *Treated biopsy-proven acute rejection (tBPAR) was defined as a histologically confirmed acute rejection with a biopsy graded as IA, IB, IIA, IIB, or III according to 1997 Banff criteria that were treated with anti-rejection medication. 1The difference in rates (Zortress–mycophenolic acid) with 95% CI for primary efficacy failure endpoint is 1.1% (-6.1%, 8.3%); and for the graft loss, death or loss to follow-up endpoint is 2.2% (-2.9%, 7.3%). 2Includes treated BPAR, graft loss, death or loss to follow-up by Month 12 where loss to follow-up represents patient who did not experience treated BPAR, graft loss or death and whose last contact date is prior to 12-month visit. 3Loss to follow-up (for Graft Loss, Death, or Loss to Follow-up) represents patient who did not experience death or graft loss and whose last contact date is prior to 12-month visit. |  |  |  |
 
 The estimated mean glomerular filtration rate (using the MDRD equation) for Zortress 1.5 mg (target trough concentrations 3 to 8 ng/mL) and mycophenolic acid groups were comparable at Month 12 in the ITT population (Table 8).
 
 Table 8.
-Estimated Glomerular Filtration Rates (mL/min/1.73m2) by MDRD at 12 Months After Kidney Transplantation*
+Estimated Glomerular Filtration Rates (mL/min/1.73 m2) by MDRD at 12 Months After Kidney Transplantation*
 
 | Month 12 GFR (MDRD) | Zortress (everolimus) 1.5 mg per day with reduced exposure CsA N = 276 | Mycophenolic Acid 1.44 g per day with standard exposure CsA N = 277 |
 | --- | --- | --- |
 | Mean (SD)** | 54.6 (21.7) | 52.3 (26.5) |
 | Median (Range) | 55.0 (0-140.9) | 50.1 (0.0-366.4) |
-
-*Analysis based on using a subject’s last observation carried forward for missing data at 12 months due to death or lost to follow-up data, a value of zero is used for subjects who experienced a graft loss.
-
-**SD = standard deviation
+| *Analysis based on using a subject’s last observation carried forward for missing data at 12 months due to death or lost to follow-up data, a value of zero is used for subjects who experienced a graft loss. **SD = standard deviation |  |  |
 
 Two earlier studies compared fixed doses of Zortress 1.5 mg per day and 3 mg per day, without TDM, combined with standard exposure cyclosporine and corticosteroids to mycophenolate mofetil 2 g per day and corticosteroids.
 Antilymphocyte antibody induction was prohibited in both studies.
@@ -92,7 +82,7 @@ Overall the treatment groups were comparable with respect to the key determinant
 The tacrolimus elimination group was stopped prematurely due to a higher incidence of acute rejection and adverse reactions leading to treatment discontinuation reported during the elimination phase of tacrolimus.
 Therefore, a treatment regimen of Zortress with tacrolimus elimination is not recommended.
 
-Results up to 24 months are presented indicating that Zortress with reduced exposure tacrolimus is comparable to standard exposure tacrolimus with respect to efficacy failure, defined as treated biopsy-proven acute rejection, graft loss, death or loss to follow-up throughout 12-24 months of treatment.
+Results up to 24 months are presented indicating that Zortress with reduced exposure tacrolimus is comparable to standard exposure tacrolimus with respect to efficacy failure, defined as treated biopsy-proven acute rejection, graft loss, death, or loss to follow-up throughout 12 to 24 months of treatment.
 The percentage of patients experiencing this endpoint and each individual variable in the Zortress and control group for each time interval is shown in Table 9.
 
 Table 9.
@@ -118,20 +108,13 @@ Efficacy Failure by Treatment Group (ITT Population) at 12 and 24 Months After L
 | Graft Loss or Death or Loss to Follow-up3 | 38 (15.5) | 39 (16.0) |
 | Graft Loss or Death | 20 (8.2) | 15 (6.2) |
 | Loss to Follow-up3 | 18 (7.3) | 24 (9.9) |
+| *Treated biopsy-proven acute rejection (tBPAR) was defined as histologically confirmed acute rejection with a rejection activity index (RAI) greater than or equal to RAI score 3 that received anti-rejection treatment. 1The difference in rates (Zortress – control) at 12 months with 97.5% CI for efficacy failure endpoint based on normal approximation with Yates continuity correction is -4.6% (-11.4%, 2.2%); and for the graft loss, death or loss to follow-up endpoint is -0.1% (-5.4%, 5.3%). 2Loss to follow-up (for treated BPAR, graft loss, death or loss to follow-up) represents patients who did not experience treated BPAR, graft loss or death and whose last contact date is prior to 12- or 24-month visit. 3Loss to follow-up (for Graft Loss, Death, or Loss to Follow-up) represents patients who did not experience death or graft loss and whose last contact date is prior to 12- or 24-month visit. |  |  |
 
-*Treated biopsy-proven acute rejection (tBPAR) was defined as histologically confirmed acute rejection with a rejection activity index (RAI) greater than or equal to RAI score 3 that received anti-rejection treatment.
-
-1The difference in rates (Zortress – control) at 12 months with 97.5% CI for efficacy failure endpoint based on normal approximation with Yates continuity correction is -4.6% (-11.4%, 2.2%); and for the graft loss, death or loss to follow-up endpoint is -0.1% (-5.4%, 5.3%).
-
-2Loss to follow-up (for treated BPAR, graft loss, death or loss to follow-up) represents patients who did not experience treated BPAR, graft loss or death and whose last contact date is prior to 12- or 24-month visit
-
-3Loss to follow-up (for Graft Loss, Death, or Loss to Follow-up) represents patients who did not experience death or graft loss and whose last contact date is prior to 12- or 24-month visit
-
-At Month 12, the estimated mean glomerular filtration rate (eGFR) using the MDRD equation for the Zortress group was 80.9 mL/min/1.73m2 and the tacrolimus control was 70.3 mL/min/1.73 m2 in the ITT population.
-At Month 24, the eGFR using the MDRD equation for the Zortress group was 74.7 mL/min/1.73m2 and for the tacrolimus control the eGFR was 67.8 mL/min/1.73m2 (Table 10).
+At Month 12, the estimated mean glomerular filtration rate (eGFR) using the MDRD equation for the Zortress group was 80.9 mL/min/1.73 m2 and the tacrolimus control was 70.3 mL/min/1.73 m2 in the ITT population.
+At Month 24, the eGFR using the MDRD equation for the Zortress group was 74.7 mL/min/1.73 m2 and for the tacrolimus control the eGFR was 67.8 mL/min/1.73 m2 (Table 10).
 
 Table 10.
-Estimated Glomerular Filtration Rates (mL/min/1.73m2) by MDRD at 12 and 24 Months After Liver Transplantation
+Estimated Glomerular Filtration Rates (mL/min/1.73 m2) by MDRD at 12 and 24 Months After Liver Transplantation
 
 | eGFR (MDRD) | Zortress (everolimus) With Reduced Exposure Tacrolimus | Tacrolimus (Standard Exposure) |
 | --- | --- | --- |
@@ -142,8 +125,8 @@ Estimated Glomerular Filtration Rates (mL/min/1.73m2) by MDRD at 12 and 24 Month
 | Mean (SD) | 74.7 (26.1) | 67.8 (21.0) |
 | Median (Range) | 72.9 (20.3-151.6) | 65.2 (27.0-148.9) |
 
-*Zortress dosing was initiated 30 days after transplantation
+*Zortress dosing was initiated 30 days after transplantation.
 
 Although the initial protocol was designed for 24 months, the study was subsequently extended to 36 months.
 One hundred six (106) patients (43%) in the Zortress group and 125 patients (51%) in the control group participated in the extension study from Month 24 to Month 36 after transplantation.
-The results for the Zortress group at 36 months were consistent with the results at 24 months in terms of tBPAR, graft loss, death and eGFR.
+The results for the Zortress group at 36 months were consistent with the results at 24 months in terms of tBPAR, graft loss, death, and eGFR.

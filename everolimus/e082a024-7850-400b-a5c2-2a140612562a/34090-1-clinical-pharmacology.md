@@ -38,7 +38,7 @@ Metabolism
 Everolimus is a substrate of CYP3A4 and P-gp.
 Following oral administration, everolimus is the main circulating component in human blood.
 Six main metabolites of everolimus have been detected in human blood, including 3 monohydroxylated metabolites, 2 hydrolytic ring-opened products, and a phosphatidylcholine conjugate of everolimus.
-These metabolites were also identified in animal species used in toxicity studies, and showed approximately 100 times less activity than everolimus itself.
+These metabolites were also identified in animal species used in toxicity studies and showed approximately 100 times less activity than everolimus itself.
 
 Excretion
 
@@ -56,8 +56,7 @@ Steady-State Pharmacokinetic Parameters (mean +/- SD) Following the Administrati
 | Cmax | Tmax | AUC | CL/F1 | Vc/F1 | Half-life (T1/2) |
 | --- | --- | --- | --- | --- | --- |
 | 11.1 + 4.6 ng/mL | 1-2 h | 75 + 31 ng•h/mL | 8.8 L/h | 110 L | 30 ± 11h |
-
-1population pharmacokinetic analysis
+| 1Population pharmacokinetic analysis. |  |  |  |  |  |
 
 The half-life estimates from 12 maintenance renal transplant patients who received single doses of everolimus capsules at 0.75 mg or 2.5 mg with their maintenance cyclosporine regimen indicate that the pharmacokinetics of everolimus are linear over the clinically-relevant dose range.
 Results indicate the half-life of everolimus in maintenance renal transplant patients receiving single doses of 0.75 mg or 2.5 mg Zortress during steady-state cyclosporine treatment was 30 ± 11 hours (range 19 to 53 hours).

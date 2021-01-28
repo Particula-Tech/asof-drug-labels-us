@@ -7,4 +7,4 @@ The chemical name of everolimus is (1R, 9S, 12S, 15R, 16E, 18R, 19R, 21R, 23S, 2
 The molecular formula is C53H83NO14 and the molecular weight is 958.25 g/mol.
 The structural formula is:
 
-Zortress is supplied as tablets for oral administration containing 0.25 mg, 0.5 mg, 0.75 mg and 1 mg of everolimus together with butylated hydroxytoluene, magnesium stearate, lactose monohydrate, hypromellose, crospovidone and lactose anhydrous as inactive ingredients.
+Zortress is supplied as tablets for oral administration containing 0.25 mg, 0.5 mg, 0.75 mg, and 1 mg of everolimus together with butylated hydroxytoluene, magnesium stearate, lactose monohydrate, hypromellose, crospovidone and lactose anhydrous as inactive ingredients.
