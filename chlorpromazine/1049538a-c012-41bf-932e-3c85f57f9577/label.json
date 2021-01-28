@@ -1,0 +1,27 @@
+{
+  "application_numbers": [
+    "ANDA212996"
+  ],
+  "inn": "chlorpromazine",
+  "labeler": "Lannett Company, Inc.",
+  "package_ndcs": [
+    "0527-2961-37",
+    "0527-2962-37",
+    "0527-2962-43",
+    "0527-2963-37",
+    "0527-2963-43",
+    "0527-2964-37",
+    "0527-2964-43",
+    "0527-2965-37",
+    "0527-2965-43"
+  ],
+  "products": [
+    {
+      "form": "TABLET, COATED",
+      "generic": "chlorpromazine hydrochloride",
+      "name": "Chlorpromazine Hydrochloride"
+    }
+  ],
+  "setid": "1049538a-c012-41bf-932e-3c85f57f9577",
+  "source": "dailymed"
+}
