@@ -10,9 +10,9 @@ Tablets
 
 Rx only
 
-30 TABLETS
+30 Tablets
 
-TEVA
+teva
 
 # Package/Label Display Panel
 
@@ -26,6 +26,6 @@ Tablets
 
 Rx only
 
-30 TABLETS
+30 Tablets
 
-TEVA
+teva
