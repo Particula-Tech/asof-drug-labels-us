@@ -10,6 +10,6 @@ Distributed by
 Sandoz Inc., Princeton, NJ 08540
 
 Rev.
-June 2020
+January 2021
 
-46271016
+46283810
