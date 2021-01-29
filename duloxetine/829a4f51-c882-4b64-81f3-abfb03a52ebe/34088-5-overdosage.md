@@ -2,24 +2,23 @@
 
 ## 10.1 Signs and Symptoms
 
-In postmarketing experience, fatal outcomes have been reported for acute overdoses, primarily with mixed overdoses, but also with duloxetine only, at doses as low as 1000 mg.
+In postmarketing experience, fatal outcomes have been reported for acute duloxetine overdoses, primarily with mixed overdoses, but also with duloxetine only, including 1000 mg of duloxetine (approximately 8.3 times the maximum recommended dosage).
 Signs and symptoms of overdose (duloxetine alone or with mixed drugs) included somnolence, coma, serotonin syndrome, seizures, syncope, tachycardia, hypotension, hypertension, and vomiting.
 
 ## 10.2 Management of Overdose
 
-There is no specific antidote to duloxetine, but if serotonin syndrome ensues, specific treatment (such as with cyproheptadine and/or temperature control) may be considered.
-In case of acute overdose, treatment should consist of those general measures employed in the management of overdose with any drug.
+There is no specific antidote to a duloxetine overdosage, but if serotonin syndrome ensues, specific treatment (such as with cyproheptadine and/or temperature control) may be considered.
 
-An adequate airway, oxygenation, and ventilation should be assured, and cardiac rhythm and vital signs should be monitored.
-Induction of emesis is not recommended.
+In case of acute overdose with duloxetine, treatment should consist of those general measures employed in the management of overdose with any drug, such as assuring an adequate airway, oxygenation, and ventilation and monitoring cardiac rhythm and vital signs.
 Gastric lavage with a large-bore orogastric tube with appropriate airway protection, if needed, may be indicated if performed soon after ingestion or in symptomatic patients.
+Induction of emesis is not recommended.
 
 Activated charcoal may be useful in limiting absorption of duloxetine from the gastrointestinal tract.
-Administration of activated charcoal has been shown to decrease AUC and Cmax by an average of one-third, although some subjects had a limited effect of activated charcoal.
-Due to the large volume of distribution of this drug, forced diuresis, dialysis, hemoperfusion, and exchange transfusion are unlikely to be beneficial.
+Administration of activated charcoal has been shown to decrease duloxetine AUC and Cmax by an average of one-third, although some patients had a limited effect of activated charcoal.
+Due to the large volume of distribution of duloxetine, forced diuresis, dialysis, hemoperfusion, and exchange transfusion are unlikely to be beneficial.
 
 In managing overdose, the possibility of multiple drug involvement should be considered.
-A specific caution involves patients who are taking or have recently taken duloxetine and might ingest excessive quantities of a TCA.
-In such a case, decreased clearance of the parent tricyclic and/or its active metabolite may increase the possibility of clinically significant sequelae and extend the time needed for close medical observation [see WARNINGS AND PRECAUTIONS (5.4) and DRUG INTERACTIONS (7)].
-The physician should consider contacting a poison control center (1-800-222-1222 or www.poison.org) for additional information on the treatment of any overdose.
-Telephone numbers for certified poison control centers are listed in the Physicians' Desk Reference (PDR).
+A specific caution involves patients who overdose with duloxetine and tricyclic antidepressants.
+In such a case, decreased clearance of the parent tricyclic and/or its active metabolite may increase the possibility of clinically significant sequelae and extend the time needed for close medical observation [see Warnings and Precautions (5.4) and Drug Interactions (7)].
+
+Consider contacting a poison control center (1-800-222-1222 or www.poison.org) for additional information on the treatment of overdosage.

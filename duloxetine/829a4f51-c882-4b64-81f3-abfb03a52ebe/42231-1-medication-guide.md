@@ -64,6 +64,7 @@ Duloxetine delayed-release capsules are also used to treat or manage:
 
 - Generalized Anxiety Disorder (GAD)
 - Diabetic Peripheral Neuropathic Pain (DPNP)
+- Fibromyalgia (FM)
 - Chronic Musculoskeletal Pain
 
 Who should not take duloxetine delayed-release capsules?
@@ -312,4 +313,4 @@ Goa 403722
 
 INDIA
 
-Revised: January 2020 ID#: 262907
+Revised: February 2021 ID#: 266797
