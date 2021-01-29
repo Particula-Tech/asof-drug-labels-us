@@ -1,7 +1,7 @@
 # 16 HOW SUPPLIED/STORAGE AND HANDLING
 
 Aprepitant capsules, USP 40 mg, are hard gelatin capsules with opaque white cap and opaque white body containing white to off white colored pellets.
-The cap is imprinted with ‘SZ’ and the body is imprinted with ‘525’ in black ink
+The cap is imprinted with ‘SZ’ and the body is imprinted with ‘525’ in black ink.
 
 - NDC 0781-2321-06, unit-dose package of 1
 - NDC 0781-2321-51, unit-dose package of 5
