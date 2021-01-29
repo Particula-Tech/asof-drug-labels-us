@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "NDA205525"
+  ],
+  "inn": "dronabinol",
+  "labeler": "Benuvia Therapeutics Inc.",
+  "package_ndcs": [
+    "78613-201-30"
+  ],
+  "products": [
+    {
+      "form": "SOLUTION",
+      "generic": "dronabinol",
+      "name": "SYNDROS"
+    }
+  ],
+  "setid": "a7801c70-995d-46a2-91ee-141ef427c6b5",
+  "source": "dailymed"
+}
