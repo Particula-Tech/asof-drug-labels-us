@@ -1,22 +1,24 @@
 # 2 DOSAGE AND ADMINISTRATION
 
-## 2.1 Recommended Dosage
+## 2.1 Recommended Testing Prior to Tranexamic Acid Tablets Administration
 
-The recommended dose of tranexamic acid tablets for women with normal renal function is two 650 mg tablets taken three times daily (3900 mg/day) for a maximum of 5 days during monthly menstruation.
-Tranexamic acid tablets may be administered without regard to meals.
-Tablets should be swallowed whole and not chewed or broken apart.
+Prior to prescribing tranexamic acid tablets, exclude endometrial pathology that can be associated with heavy menstrual bleeding.
 
-## 2.2 Renal Impairment
+## 2.2 Recommended Dosage
 
-In patients with renal impairment, the plasma concentration of tranexamic acid increased as serum creatinine concentration increased [see Clinical Pharmacology (12.3)].
-Dosage adjustment is needed in patients with serum creatinine concentration higher than 1.4 mg/dL (Table 1).
+The recommended dosage of tranexamic acid tablets for patients with normal renal function is 1300 mg orally three times daily (3900 mg/day) for a maximum of 5 days during monthly menstruation.
+Tranexamic acid tablets may be administered with or without food.
+Swallow tablets whole; do not chew or break apart.
+
+## 2.3 Dosage Recommendations in Patients with Renal Impairment
+
+The recommended dosage (for a maximum of 5 days during monthly menstruation) in patients with renal impairment with serum creatinine concentration higher than 1.4 mg/dL is described in Table 1.
 
 Table 1.
-Dosage of Tranexamic Acid Tablets in Patients with Renal Impairment
+Recommended Dosage of Tranexamic Acid Tablets in Patients with Renal Impairment
 
-|  | Tranexamic Acid Tablets |  |
+| Serum Creatinine (mg/dL) | Recommended Dosage (maximum of 5 days during menstruation) | Total Daily Dose |
 | --- | --- | --- |
-| Serum Creatinine (mg/dL) | Adjusted Dose | Total Daily Dose |
-| Cr above 1.4 and ≤ 2.8 | 1300 mg (two 650 mg tablets) two times a day for a maximum of 5 days during menstruation | 2600 mg |
-| Cr above 2.8 and ≤ 5.7 | 1300 mg (two 650 mg tablets) once a day for a maximum of 5 days during menstruation | 1300 mg |
-| Cr above 5.7 | 650 mg (one 650 mg tablet) once a day for a maximum of 5 days during menstruation | 650 mg |
+| Above 1.4 and ≤ 2.8 | 1300 mg two times a day | 2600 mg |
+| Above 2.8 and ≤ 5.7 | 1300 mg once a day | 1300 mg |
+| Above 5.7 | 650 mg once a day | 650 mg |

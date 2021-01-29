@@ -1,4 +1,4 @@
-PATIENT INFORMATION Tranexamic (tran-eks-am-ik) acid tablets
+PATIENT INFORMATION Tranexamic Acid (tran” ex am’ ik as’ id) Tablets for oral use
 
 Read the Patient Information that comes with tranexamic acid tablets before you start using the drug and each time you get a refill.
 There may be new information.
@@ -106,7 +106,7 @@ This may be a sign of a more serious condition.
 
 Call your healthcare provider for medical advice about side effects.
 You may report side effects to the FDA at 1-800-FDA-1088.
-You may also report side effects to Actavis at 1-800-272-5525.
+You may also report side effects to Actavis at 1-888-838-2872.
 
 How should I store tranexamic acid tablets?
 
@@ -124,18 +124,17 @@ It may harm them.
 This patient information leaflet summarizes the most important information about tranexamic acid tablets.
 If you would like more information about tranexamic acid tablets, talk with your healthcare provider.
 You can ask your healthcare provider or pharmacist for information about tranexamic acid tablets that is written for healthcare professionals.
-For more information, go to www.actavis.com or call 1-800-272-5525.
+For more information, call 1-888-838-2872.
 
 What are the ingredients of tranexamic acid tablets?
 
 Active ingredient: tranexamic acid
 
-Inactive ingredients: colloidal silicon dioxide, copovidone, crospovidone, eudragit, glyceryl behenate, lactose monohydrate, hypromellose, magnesium stearate, microcrystalline cellulose, polyethylene glycol, talc, and triethyl citrate.
+Inactive ingredients: colloidal silicon dioxide, copovidone, crospovidone, dimethylaminoethyl methacrylate - butyl methacrylate - methyl methacrylate copolymer, glyceryl behenate, lactose monohydrate, hypromellose, magnesium stearate, microcrystalline cellulose, polyethylene glycol, talc, and triethyl citrate.
 
 This Patient Information has been approved by the U.S. Food and Drug Administration.
 
-Manufactured by: Actavis Laboratories FL, Inc. Fort Lauderdale, FL 33314 USA
+Manufactured By: Teva Pharmaceuticals USA, Inc. Parsippany, NJ 07054
 
-Distributed by: Actavis Pharma, Inc. Parsippany, NJ 07054 USA
-
-Revised: November 2014 197511-2
+Rev.
+A 12/2020
