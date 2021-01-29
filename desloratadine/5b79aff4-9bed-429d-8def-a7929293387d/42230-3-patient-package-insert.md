@@ -25,7 +25,7 @@ Who should not take CLARINEX?
 Do not take CLARINEX if you:
 
 - are allergic to desloratadine or any of the ingredients in CLARINEX Tablets, CLARINEX RediTabs® or CLARINEX Oral Solution.
-  See the end of this leaflet for a complete list of ingredients.
+  See the end of this leaflet for a complete list of ingredients for the CLARINEX Tablets.
 - are allergic to loratadine (Alavert, Claritin).
 
 Talk to your doctor before taking this medicine if you have any questions about whether or not to take this medicine.
@@ -106,8 +106,6 @@ How should I store CLARINEX?
 - CLARINEX Tablets are sensitive to heat.
   Do not store above 86°F (30°C).
 - Protect CLARINEX Tablets from moisture.
-- Store CLARINEX Oral Solution between 59°F to 86°F (15°C to 30°C).
-  Protect CLARINEX Oral Solution from light.
 
 Keep CLARINEX Tablets, RediTabs Tablets, and Oral Solution and all medicines out of the reach of children.
 
@@ -131,6 +129,3 @@ Active ingredient: desloratadine
 Patients with Phenylketonuria: CLARINEX RediTabs Tablets contain phenylalanine.
 
 Inactive ingredients in CLARINEX Tablets: dibasic calcium phosphate dihydrate USP, microcrystalline cellulose NF, corn starch NF, talc USP, carnauba wax NF, white wax NF, coating material consisting of lactose monohydrate, hypromellose, titanium dioxide, polyethylene glycol, and FD&C Blue #2 Aluminum Lake.
-
-Inactive ingredients in CLARINEX Oral Solution: propylene glycol USP, sorbitol solution USP, citric acid (anhydrous) USP, sodium citrate dihydrate USP, sodium benzoate NF, disodium edetate USP, purified water USP.
-It also contains granulated sugar, natural and artificial flavor for bubble gum and FDC Yellow #6 dye.

@@ -1,6 +1,6 @@
 # 2 DOSAGE AND ADMINISTRATION
 
-Although an orally disintegrating tablet formulation of desloratadine may be available in the marketplace, CLARINEX® RediTabs® Tablets are no longer marketed.
+Although the oral solution and the orally disintegrating tablet formulation of desloratadine may be available in the marketplace, CLARINEX® Oral Solution and CLARINEX® RediTabs® Tablets are no longer marketed.
 
 CLARINEX Tablets, Oral Solution, or RediTabs Tablets may be taken without regard to meals.
 Place CLARINEX (desloratadine) RediTabs Tablets on the tongue and allow to disintegrate before swallowing.
