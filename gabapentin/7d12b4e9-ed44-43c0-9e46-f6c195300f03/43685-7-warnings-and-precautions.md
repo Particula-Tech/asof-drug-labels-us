@@ -44,9 +44,6 @@ Behaviors of concern should be reported immediately to healthcare providers.
 There is evidence from case reports, human studies, and animal studies associating gabapentin with serious, life-threatening, or fatal respiratory depression when co-administrated with central nervous system (CNS) depressants, including opioids, or in the setting of underlying respiratory impairment.
 When the decision is made to co-prescribe GRALISE with another CNS depressant, particularly an opioid, or to prescribe GRALISE to patients with underlying respiratory impairment, monitor patients for symptoms of respiratory depression and sedation, and consider initiating GRALISE at a low dose.
 The management of respiratory depression may include close observation, supportive measures, and reduction or withdrawal of CNS depressants (including GRALISE).
-There is evidence from case reports, human studies, and animal studies associating gabapentin with serious, life-threatening, or fatal respiratory depression when co-administrated with central nervous system (CNS) depressants, including opioids, or in the setting of underlying respiratory impairment.
-When the decision is made to co-prescribe GRALISE with another CNS depressant, particularly an opioid, or to prescribe GRALISE to patients with underlying respiratory impairment, monitor patients for symptoms of respiratory depression and sedation, and consider initiating GRALISE at a low dose.
-The management of respiratory depression may include close observation, supportive measures, and reduction or withdrawal of CNS depressants (including GRALISE).
 
 ## 5.3 Withdrawal of Gabapentin
 

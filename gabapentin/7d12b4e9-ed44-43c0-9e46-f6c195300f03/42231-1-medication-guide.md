@@ -1,6 +1,6 @@
 MEDICATION GUIDE
 
-GRALISE ® (gra leez') (gabapentin) Tablets
+GRALISE® (gra leez') (gabapentin) Tablets
 
 Read this Medication Guide before you start taking GRALISE and each time you get a refill.
 There may be new information.
@@ -160,10 +160,10 @@ What are the ingredients in GRALISE?
 
 Active ingredient: gabapentin
 
-Inactive ingredients: 300 mg tablet: copovidone, hypromellose, magnesium stearate, microcrystalline cellulose, polyethylene oxide, and Opadry ® II white.
-Opadry ® II white contains polyvinyl alcohol, titanium dioxide, talc, polyethylene glycol 3350, and lecithin (soya).
-600 mg tablet: copovidone, hypromellose, magnesium stearate, polyethylene oxide, and Opadry ® II beige.
-Opadry ® II beige contains polyvinyl alcohol, titanium dioxide, talc, polyethylene glycol 3350, iron oxide yellow, and iron oxide red.
+Inactive ingredients: 300 mg tablet: copovidone, hypromellose, magnesium stearate, microcrystalline cellulose, polyethylene oxide, and Opadry® II white.
+Opadry® II white contains polyvinyl alcohol, titanium dioxide, talc, polyethylene glycol 3350, and lecithin (soya).
+600 mg tablet: copovidone, hypromellose, magnesium stearate, polyethylene oxide, and Opadry® II beige.
+Opadry® II beige contains polyvinyl alcohol, titanium dioxide, talc, polyethylene glycol 3350, iron oxide yellow, and iron oxide red.
 
 Brands listed are trademarks of their respective owners.
 
