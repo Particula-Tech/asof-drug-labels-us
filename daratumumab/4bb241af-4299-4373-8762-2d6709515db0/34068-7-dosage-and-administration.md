@@ -3,10 +3,10 @@
 ## 2.1 Important Dosing Information
 
 - DARZALEX FASPRO is for subcutaneous use only.
-- Administer medications before and after administration of DARZALEX FASPRO to minimize administration-related reactions [see Dosage and Administration (2.3)].
+- Administer medications before and after administration of DARZALEX FASPRO to minimize administration-related reactions [see Dosage and Administration (2.5)].
 - Type and screen patients prior to starting DARZALEX FASPRO.
 
-## 2.2 Recommended Dosage
+## 2.2 Recommended Dosage for Multiple Myeloma
 
 The recommended dose of DARZALEX FASPRO is 1,800 mg/30,000 units (1,800 mg daratumumab and 30,000 units hyaluronidase) administered subcutaneously over approximately 3–5 minutes.
 Tables 1, 2, 3, and 4 provide the recommended dosing schedule when DARZALEX FASPRO is administered as monotherapy or as part of a combination therapy.
@@ -71,11 +71,27 @@ Table 4: DARZALEX FASPRO dosing schedule in combination with bortezomib and dexa
 
 When DARZALEX FASPRO is administered as part of a combination therapy, see the prescribing information for dosage recommendations for the other drugs.
 
-Missed DARZALEX FASPRO Doses
+## 2.3 Recommended Dosage for Light Chain Amyloidosis
+
+In Combination with Bortezomib, Cyclophosphamide and Dexamethasone (D-VCd)
+
+Use the dosing schedule provided in Table 5 when DARZALEX FASPRO is administered in combination with bortezomib, cyclophosphamide and dexamethasone (4-week cycle).
+
+Table 5: DARZALEX FASPRO dosing schedule in combination with bortezomib, cyclophosphamide and dexamethasone (4-week cycle)
+
+| Weeks | Schedule |
+| --- | --- |
+| Weeks 1 to 8 | weekly (total of 8 doses) |
+| Weeks 9 to 24First dose of the every-2-week dosing schedule is given at Week 9 | every two weeks (total of 8 doses) |
+| Week 25 onwards until disease progression or a maximum of 2 yearsFirst dose of the every-4-week dosing schedule is given at Week 25 | every four weeks |
+
+When DARZALEX FASPRO is administered as part of a combination therapy, see Clinical Studies (14.2) and the prescribing information for dosage recommendations for the other drugs.
+
+## 2.4 Administration
 
 If a dose of DARZALEX FASPRO is missed, administer the dose as soon as possible and adjust the dosing schedule to maintain the dosing interval.
 
-## 2.3 Recommended Concomitant Medications
+## 2.5 Recommended Concomitant Medications
 
 Pre-medication
 
@@ -106,12 +122,12 @@ Prophylaxis for Herpes Zoster Reactivation
 
 Initiate antiviral prophylaxis to prevent herpes zoster reactivation within 1 week after starting DARZALEX FASPRO and continue for 3 months following the end of treatment [see Adverse Reactions (6.1)].
 
-## 2.4 Dosage Modifications for Adverse Reactions
+## 2.6 Dosage Modifications for Adverse Reactions
 
 No dose reductions of DARZALEX FASPRO are recommended.
-Consider withholding DARZALEX FASPRO to allow recovery of blood cell counts in the event of myelosuppression [see Warnings and Precautions (5.2, 5.3)].
+Consider withholding DARZALEX FASPRO to allow recovery of blood cell counts in the event of myelosuppression [see Warnings and Precautions (5.3, 5.4)].
 
-## 2.5 Preparation and Administration
+## 2.7 Preparation and Administration
 
 DARZALEX FASPRO should be administered by a healthcare provider.
 
