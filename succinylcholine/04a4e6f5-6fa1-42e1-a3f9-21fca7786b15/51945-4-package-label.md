@@ -14,7 +14,7 @@ WARNING: Paralyzing Agent
 
 For Intravenous Use
 
-Rx only
+Rx ONLY
 
 10 x 10 mL Multiple-Dose Vials
 
