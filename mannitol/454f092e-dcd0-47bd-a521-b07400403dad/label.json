@@ -1,0 +1,23 @@
+{
+  "application_numbers": [
+    "NDA202049"
+  ],
+  "inn": "mannitol",
+  "labeler": "Chiesi USA, Inc.",
+  "package_ndcs": [
+    "10122-212-01",
+    "10122-212-02",
+    "10122-212-04",
+    "10122-212-14",
+    "10122-212-56"
+  ],
+  "products": [
+    {
+      "form": "CAPSULE",
+      "generic": "mannitol",
+      "name": "Bronchitol"
+    }
+  ],
+  "setid": "454f092e-dcd0-47bd-a521-b07400403dad",
+  "source": "dailymed"
+}
