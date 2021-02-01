@@ -183,3 +183,10 @@ The antibody titers detected in both DUPIXENT and placebo subjects were mostly l
 In subjects who received DUPIXENT, development of high titer antibodies to dupilumab was associated with lower serum dupilumab concentrations [see Clinical Pharmacology (12.3)].
 
 Two adult subjects who experienced high titer antibody responses developed serum sickness or serum sickness-like reactions during DUPIXENT therapy [see Warnings and Precautions (5.1)].
+
+## 6.3 Postmarketing Experience
+
+The following adverse reactions have been identified during postapproval use of DUPIXENT.
+Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
+
+Skin and subcutaneous tissue disorders: Facial Rash

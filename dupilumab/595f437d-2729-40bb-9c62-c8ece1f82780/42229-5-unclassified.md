@@ -1,5 +1,3 @@
-REGENERON SANOFI GENZYME
-
 Manufactured by:
 
 Regeneron Pharmaceuticals, Inc.
@@ -16,5 +14,7 @@ Regeneron Pharmaceuticals, Inc. (Tarrytown, NY 10591)
 
 DUPIXENT® is a registered trademark of Sanofi Biotechnology
 
-© 2020 Regeneron Pharmaceuticals, Inc. / sanofi-aventis U.S. LLC.
+© 2021 Regeneron Pharmaceuticals, Inc. / sanofi-aventis U.S. LLC.
 All rights reserved.
+
+REGENERON SANOFI GENZYME
