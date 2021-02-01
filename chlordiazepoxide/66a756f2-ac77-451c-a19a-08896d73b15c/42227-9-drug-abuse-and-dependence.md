@@ -6,11 +6,12 @@ Chlordiazepoxide and amitriptyline hydrochloride tablets contain chlordiazepoxid
 
 ## Abuse
 
-Chlordiazepoxide and amitriptyline hydrochloride tablets are a CNS depressant with a potential for abuse and addiction.
+Chlordiazepoxide and amitriptyline hydrochloride tablets are a benzodiazepine and a CNS depressant with a potential for abuse and addiction.
 Abuse is the intentional, non-therapeutic use of a drug, even once, for its desirable psychological or physiological effects.
 Misuse is the intentional use, for therapeutic purposes, of a drug by an individual in a way other than prescribed by a health care provider or for whom it was not prescribed.
 Drug addiction is a cluster of behavioral, cognitive, and physiological phenomena that may include a strong desire to take the drug, difficulties in controlling drug use (e.g., continuing drug use despite harmful consequences, giving a higher priority to drug use than other activities and obligations), and possible tolerance or physical dependence.
-Both abuse and misuse may lead to addiction, and some individuals may develop addiction even when taking chlordiazepoxide and amitriptyline hydrochloride tablets as prescribed.
+Even taking benzodiazepines as prescribed may put patients at risk for abuse and misuse of their medication.
+Abuse and misuse may lead to addiction.
 
 Abuse and misuse of benzodiazepines often (but not always) involve the use of doses greater than the maximum recommended dosage and commonly involve concomitant use of other medications, alcohol, and/or illicit substances, which is associated with an increased frequency of serious adverse outcomes, including respiratory depression, overdose, or death.
 Benzodiazepines are often sought by individuals who abuse drugs and other substances, and by individuals with addictive disorders (see WARNINGS: Abuse, Misuse, and Addiction).
@@ -33,16 +34,17 @@ To reduce the risk of withdrawal reactions, use a gradual taper to discontinue c
 
 #### Acute Withdrawal Signs and Symptoms
 
-Acute withdrawal signs and symptoms have included abnormal involuntary movements, anxiety, blurred vision, cognitive disorder, depersonalization, depression, derealization, dizziness, fatigue, gastrointestinal adverse reactions (e.g., nausea, vomiting, diarrhea, weight loss, decreased appetite), headache, hyperacusis, hypertension, irritability, insomnia, memory impairment, muscle pain and stiffness, panic attacks, photophobia, restlessness, tachycardia, and tremor.
-More severe acute withdrawal signs and symptoms, including life-threatening reactions, have included catatonia, convulsions, delirium tremens, depression, hallucinations, homicidal thoughts, mania, psychosis, and suicidality.
+Acute withdrawal signs and symptoms associated with benzodiazepines have included abnormal involuntary movements, anxiety, blurred vision, depersonalization, depression, derealization, dizziness, fatigue, gastrointestinal adverse reactions (e.g., nausea, vomiting, diarrhea, weight loss, decreased appetite), headache, hyperacusis, hypertension, irritability, insomnia, memory impairment, muscle pain and stiffness, panic attacks, photophobia, restlessness, tachycardia, and tremor.
+More severe acute withdrawal signs and symptoms, including life-threatening reactions, have included catatonia, convulsions, delirium tremens, depression, hallucinations, mania, psychosis, seizures, and suicidality.
 
 #### Protracted Withdrawal Syndrome
 
-Protracted withdrawal syndrome is characterized by anxiety, cognitive impairment, depression, insomnia, formication, motor symptoms (e.g., weakness, tremor, muscle twitches), paresthesia, and tinnitus that persists beyond 4 to 6 weeks after initial benzodiazepine withdrawal.
+Protracted withdrawal syndrome associated with benzodiazepines is characterized by anxiety, cognitive impairment, depression, insomnia, formication, motor symptoms (e.g., weakness, tremor, muscle twitches), paresthesia, and tinnitus that persists beyond 4 to 6 weeks after initial benzodiazepine withdrawal.
 Protracted withdrawal symptoms may last weeks to more than 12 months.
+As a result, there may be difficulty in differentiating withdrawal symptoms from potential re-emergence or continuation of symptoms for which the benzodiazepine was being used.
 
 ## Tolerance
 
-Chlordiazepoxide and amitriptyline hydrochloride tablets may produce tolerance from continued therapy.
+Tolerance to chlordiazepoxide and amitriptyline hydrochloride tablets may develop from continued therapy.
 Tolerance is a physiological state characterized by a reduced response to a drug after repeated administration (i.e., a higher dose of a drug is required to produce the same effect that was once obtained at a lower dose).
-Tolerance may develop within days or weeks of the therapeutic effects of chlordiazepoxide and amitriptyline hydrochloride tablets; however, little tolerance develops to the amnestic reactions and other cognitive impairments caused by benzodiazepines.
+Tolerance to the therapeutic effect of chlordiazepoxide and amitriptyline hydrochloride tablets may develop; however, little tolerance develops to the amnestic reactions and other cognitive impairments caused by benzodiazepines.
