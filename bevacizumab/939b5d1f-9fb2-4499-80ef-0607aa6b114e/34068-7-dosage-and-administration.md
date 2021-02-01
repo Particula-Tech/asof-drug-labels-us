@@ -86,6 +86,7 @@ Table 1: Dosage Modifications for Adverse Reactions
 Preparation
 
 - Use appropriate aseptic technique.
+- Use sterile needle and syringe to prepare Avastin.
 - Visually inspect vial for particulate matter and discoloration prior to preparation for administration.
   Discard vial if solution is cloudy, discolored or contains particulate matter.
 - Withdraw necessary amount of Avastin and dilute in a total volume of 100 mL of 0.9% Sodium Chloride Injection, USP.
