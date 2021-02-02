@@ -220,7 +220,7 @@ One intervention in ORIGIN compared the effect of LANTUS to standard care on maj
 
 The objective of the trial was to demonstrate that LANTUS use could significantly lower the risk of major cardiovascular outcomes compared to standard care.
 Two coprimary composite cardiovascular endpoints were used in ORIGIN.
-The first coprimary endpoint was the time to first occurrence of a major adverse cardiovascular event defined as the composite of CV death, nonfatal myocardial infarction and nonfatal stroke.
+The first coprimary endpoint was the time to first occurrence of a major adverse cardiovascular event defined as the composite of CV death, nonfatal myocardial infarction, and nonfatal stroke.
 The second coprimary endpoint was the time to the first occurrence of CV death or nonfatal myocardial infarction or nonfatal stroke or revascularization procedure or hospitalization for heart failure.
 
 Participants were randomized to either LANTUS (N=6264) titrated to a goal fasting plasma glucose of ≤95 mg/dL or to standard care (N=6273).

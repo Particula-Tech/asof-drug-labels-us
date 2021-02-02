@@ -72,7 +72,7 @@ Severe Hypoglycemia
 
 Hypoglycemia is the most commonly observed adverse reaction in patients using insulin, including LANTUS [see Warnings and Precautions (5.3)].
 Tables 5, 6, and 7 summarize the incidence of severe hypoglycemia in the LANTUS individual clinical trials.
-Severe symptomatic hypoglycemia was defined as an event with symptoms consistent with hypoglycemia requiring the assistance of another person and associated with either a blood glucose below 50 mg/dL (≤56 mg/dL in the 5-year trial and ≤36 mg/dL in the ORIGIN trial) or prompt recovery after oral carbohydrate, intravenous glucose or glucagon administration.
+Severe symptomatic hypoglycemia was defined as an event with symptoms consistent with hypoglycemia requiring the assistance of another person and associated with either a blood glucose below 50 mg/dL (≤56 mg/dL in the 5-year trial and ≤36 mg/dL in the ORIGIN trial) or prompt recovery after oral carbohydrate, intravenous glucose, or glucagon administration.
 
 Percentages of LANTUS-treated adult patients experiencing severe symptomatic hypoglycemia in the LANTUS clinical trials [see Clinical Studies (14)] were comparable to percentages of NPH-treated patients for all treatment regimens (see Tables 5 and 6).
 In the pediatric phase 3 clinical trial, children and adolescents with type 1 diabetes had a higher incidence of severe symptomatic hypoglycemia in the two treatment groups compared to the adult trials with type 1 diabetes.
