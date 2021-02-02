@@ -20,6 +20,13 @@ It may be transient or permanent.
 It has been reported mostly in patients who have been given excessive doses, who have an underlying hearing loss, or who are receiving concomitant therapy with another ototoxic agent, such as an aminoglycoside.
 Vancomycin should be used with caution in patients with renal insufficiency because the risk of toxicity is appreciably increased by high, prolonged blood concentrations.
 
+## Severe Dermatologic Reactions
+
+Severe dermatologic reactions such as toxic epidermal necrolysis (TEN), Stevens-Johnson syndrome (SJS), drug reaction with eosinophilia and systemic symptoms (DRESS), acute generalized exanthematous pustulosis (AGEP), and linear IgA bullous dermatosis (LABD) have been reported in association with the use of vancomycin.
+Cutaneous signs or symptoms reported include skin rashes, mucosal lesions, and blisters.
+
+Discontinue Vancomycin Injection at the first appearance of signs and symptoms of TEN, SJS, DRESS, AGEP, or LABD.
+
 Dosage of vancomycin must be adjusted for patients with renal dysfunction (see PRECAUTIONS and DOSAGE AND ADMINISTRATION).
 
 ## Clostridium Difficile Associated Diarrhea (CDAD)
@@ -109,6 +116,11 @@ The natural decrement of glomerular filtration with increasing age may lead to e
 Vancomycin dosage schedules should be adjusted in elderly patients (see DOSAGE AND ADMINISTRATION).
 
 ## Information for Patients
+
+Severe Dermatologic Reactions
+
+Advise patients about the signs and symptoms of serious skin manifestations.
+Instruct patients to stop Vancomycin Injection immediately and promptly seek medical attention at the first signs or symptoms of skin rash, mucosal lesions and blisters, (see WARNINGS).
 
 Patients should be counseled that antibacterial drugs including vancomycin, should only be used to treat bacterial infections.
 They do not treat viral infections (e.g., the common cold).
