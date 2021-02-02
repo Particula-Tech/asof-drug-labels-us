@@ -139,7 +139,7 @@ Table 11: Type 2 Diabetes Mellitus – Adult
 | Adjusted mean change from baseline | -0.5 | -0.4 | -0.4 | -0.6 | -0.6 | -0.8 |
 | LANTUS – NPH | -0.1 |  | +0.2 |  | +0.2 |  |
 | 95% CI for Treatment difference | (-0.3; +0.1) |  | (0.0; +0.4) |  | (+0.1; +0.4) |  |
-| Basal insulin doseIn Study G, the baseline dose of basal or total insulin was the first available on-treatment dose prescribed during the study (on visit month 1.5) |  |  |  |  |  |  |
+| Basal insulin doseIn Study G, the baseline dose of basal or total insulin was the first available on-treatment dose prescribed during the study (on visit month 1.5). |  |  |  |  |  |  |
 | Baseline mean | 14 | 15 | 44.1 | 45.5 | 39 | 44 |
 | Mean change from baseline | +12 | +9 | -1 | +7 | +23 | +30 |
 | Total insulin dose |  |  |  |  |  |  |
@@ -222,7 +222,7 @@ One intervention in ORIGIN compared the effect of LANTUS to standard care on maj
 
 The objective of the trial was to demonstrate that LANTUS use could significantly lower the risk of major cardiovascular outcomes compared to standard care.
 Two coprimary composite cardiovascular endpoints were used in ORIGIN.
-The first coprimary endpoint was the time to first occurrence of a major adverse cardiovascular event defined as the composite of CV death, nonfatal myocardial infarction and nonfatal stroke.
+The first coprimary endpoint was the time to first occurrence of a major adverse cardiovascular event defined as the composite of CV death, nonfatal myocardial infarction, and nonfatal stroke.
 The second coprimary endpoint was the time to the first occurrence of CV death or nonfatal myocardial infarction or nonfatal stroke or revascularization procedure or hospitalization for heart failure.
 
 Participants were randomized to either LANTUS (N=6264) titrated to a goal fasting plasma glucose of ≤95 mg/dL or to standard care (N=6273).

@@ -347,3 +347,5 @@ sanofi-aventis U.S. LLC Bridgewater, NJ 08807 A SANOFI COMPANY
 ©2020 sanofi-aventis U.S. LLC
 
 Novaplus is a registered trademark of Vizient, Inc.
+
+* The brands listed are the registered trademarks of their respective owners and are not trademarks of sanofi-aventis U.S. LLC

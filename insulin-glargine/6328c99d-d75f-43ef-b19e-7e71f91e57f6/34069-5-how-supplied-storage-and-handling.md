@@ -4,8 +4,10 @@
 
 LANTUS (insulin glargine injection) is supplied as a clear solution containing 100 units per mL (U-100) available in:
 
-- Carton of one 10 mL multiple-dose vial (Novaplus) NDC 0088-5021-01
-- Carton of five 3 mL single-patient-use SoloStar prefilled pens (Novaplus) NDC 0088-5020-05
+| Lantus | Total volume | Concentration | Total units available in presentation | NDC number | Package size |
+| --- | --- | --- | --- | --- | --- |
+| Multiple-dose vial (Novaplus) | 10 mL | 100 units/mL | 1,000 units | 0088-5021-01 | 1 vial per carton |
+| SoloStar single-patient-use prefilled pen (Novaplus) | 3 mL | 100 units/mL | 300 units | 0088-5020-05 | 5 pens per carton |
 
 The LANTUS SoloStar prefilled pen dials in 1-unit increments.
 
