@@ -35,7 +35,7 @@ At the maternally toxic doses of 50 and 100 mg/kg/day in rabbits, there was incr
 
 In a study in pregnant rats administered 20, 100, or 225 mg/kg/day from gestation day 7 through to lactation day 20 (weaning), there was decreased survival at birth, postnatal day 4, weaning, and post-weaning in pups of mothers dosed with 225 mg/kg/day, a dose at which maternal toxicity was observed.
 Pup body weight was decreased through postnatal day 21 at 100 mg/kg/day, and through postnatal day 91 at 225 mg/kg/day.
-Pup development was delayed (rotorod performance at 100 mg/kg/day and acoustic startle at 225 mg/kg/day; pinnae detachment and eye-opening at 225 mg/kg/day).
+Pup development was delayed (rotarod performance at 100 mg/kg/day and acoustic startle at 225 mg/kg/day; pinnae detachment and eye-opening at 225 mg/kg/day).
 These doses correspond to 6 times (100 mg/kg) and 22 times (225 mg/kg) the human exposure at the MRHD, based on AUC.
 
 ## 8.2 Lactation

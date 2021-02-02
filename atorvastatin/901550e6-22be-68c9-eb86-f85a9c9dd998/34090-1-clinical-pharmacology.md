@@ -60,7 +60,7 @@ Atorvastatin is a substrate of the hepatic transporters, OATP1B1 and OATP1B3 tra
 Metabolites of atorvastatin are substrates of OATP1B1.
 Atorvastatin is also identified as a substrate of the efflux transporter BCRP, which may limit the intestinal absorption and biliary clearance of atorvastatin.
 
-TABLE 4.
+TABLE 6.
 Effect of Co-administered Drugs on the Pharmacokinetics of Atorvastatin
 
 | Co-administered drug and dosing regimen | Atorvastatin |  |  |
@@ -120,7 +120,7 @@ e Four times daily
 
 f Every 8 hours
 
-TABLE 5.
+TABLE 7.
 Effect of Atorvastatin on the Pharmacokinetics of Co-administered Drugs
 
 | Atorvastatin | Co-administered drug and dosing regimen |  |  |
@@ -140,3 +140,5 @@ a Once daily
 b Twice daily
 
 c Single dose
+
+Atorvastatin calcium had no clinically significant effect on prothrombin time when administered to patients receiving chronic warfarin treatment.

@@ -35,4 +35,4 @@ In patients taking cyclosporine or the HIV protease inhibitor tipranavir plus ri
 In patients with HIV taking lopinavir plus ritonavir, use the lowest dose necessary of atorvastatin calcium tablets.
 In patients taking clarithromycin, itraconazole, elbasvir plus grazoprevir, or in patients with HIV taking a combination of saquinavir plus ritonavir, darunavir plus ritonavir, fosamprenavir, fosamprenavir plus ritonavir or letermovir therapy with atorvastatin calcium tablets should be limited to 20 mg, and appropriate clinical assessment is recommended to ensure that the lowest dose necessary of atorvastatin calcium is used.
 In patients taking the HIV protease inhibitor nelfinavir therapy with atorvastatin calcium tablets should be limited to 40 mg.
-When co-prescribing atorvastatin with other protease inhibitors, appropriate clinical assessment is recommended to ensure that the lowest dose necessary of atorvastatin calcium tablets is used [see Warnings and Precautions, (5.1) and Drug Interactions (7)].
+[see Warnings and Precautions, (5.1) and Drug Interactions (7.1)].
