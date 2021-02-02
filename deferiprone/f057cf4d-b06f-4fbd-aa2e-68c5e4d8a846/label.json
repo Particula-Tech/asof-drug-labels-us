@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "NDA208030"
+  ],
+  "inn": "deferiprone",
+  "labeler": "Chiesi USA, Inc.",
+  "package_ndcs": [
+    "10122-101-50"
+  ],
+  "products": [
+    {
+      "form": "SOLUTION",
+      "generic": "deferiprone",
+      "name": "FERRIPROX"
+    }
+  ],
+  "setid": "f057cf4d-b06f-4fbd-aa2e-68c5e4d8a846",
+  "source": "dailymed"
+}

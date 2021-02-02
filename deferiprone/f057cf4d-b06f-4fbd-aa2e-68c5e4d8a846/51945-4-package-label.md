@@ -1,0 +1,11 @@
+# PACKAGE LABEL.PRINCIPAL DISPLAY PANEL SECTION
+
+Chiesi USA, Inc., NDC 10122-101-50
+
+FERRIPROX oral solution
+
+100 mg/mL (50 g/500 mL)
+
+Rx only
+
+500 mL
