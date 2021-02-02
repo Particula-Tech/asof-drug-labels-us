@@ -51,7 +51,7 @@ The overall risk reduction was consistent regardless of age (<65, ≥65) or gend
 
 Figure 3: Effect of Atorvastatin Calcium 80 mg/day vs. 10 mg/day on Time to Occurrence of Major Cardiovascular Events (TNT)
 
-TABLE 6.
+TABLE 8.
 Overview of Efficacy Results in TNT
 
 | Endpoint | Atorvastatin |  | Atorvastatin |  | HRa (95%CI) |
@@ -86,11 +86,11 @@ b Component of other secondary endpoints
 
 Confidence intervals for the Secondary Endpoints were not adjusted for multiple comparisons
 
-Of the events that comprised the primary efficacy endpoint, treatment with atorvastatin calcium 80 mg/day significantly reduced the rate of non-fatal, non-procedure related MI and fatal and non-fatal stroke, but not CHD death or resuscitated cardiac arrest (Table 5).
+Of the events that comprised the primary efficacy endpoint, treatment with atorvastatin calcium 80 mg/day significantly reduced the rate of non-fatal, non-procedure related MI and fatal and non-fatal stroke, but not CHD death or resuscitated cardiac arrest (Table 8).
 Of the predefined secondary endpoints, treatment with atorvastatin calcium 80 mg/day significantly reduced the rate of coronary revascularization, angina, and hospitalization for heart failure, but not peripheral vascular disease.
 The reduction in the rate of CHF with hospitalization was only observed in the 8% of patients with a prior history of CHF.
 
-There was no significant difference between the treatment groups for all-cause mortality (Table 5).
+There was no significant difference between the treatment groups for all-cause mortality (Table 8).
 The proportions of subjects who experienced cardiovascular death, including the components of CHD death and fatal stroke, were numerically smaller in the atorvastatin calcium 80 mg group than in the atorvastatin calcium 10 mg treatment group.
 The proportions of subjects who experienced noncardiovascular death were numerically larger in the atorvastatin calcium 80 mg group than in the atorvastatin calcium 10 mg treatment group.
 
@@ -112,9 +112,9 @@ Therapeutic response is seen within 2 weeks, and maximum response is usually ach
 Atorvastatin calcium is effective in a wide variety of patient populations with hyperlipidemia, with and without hypertriglyceridemia, in men and women, and in the elderly.
 
 In two multicenter, placebo-controlled, dose-response studies in patients with hyperlipidemia, atorvastatin calcium given as a single dose over 6 weeks, significantly reduced total-C, LDL-C, apo B, and TG.
-(Pooled results are provided in Table 7.)
+(Pooled results are provided in Table 9.)
 
-TABLE 7.
+TABLE 9.
 Dose Response in Patients With Primary Hyperlipidemia (Adjusted Mean % Change From Baseline)a
 
 | Dose | N | TC | LDL-C | Apo B | TG | HDL-C | Non-HDL-C/ HDL-C |
@@ -131,9 +131,9 @@ In patients with Fredrickson Types IIa and IIb hyperlipoproteinemia pooled from 
 Additionally, analysis of the pooled data demonstrated consistent and significant decreases in total-C, LDL-C, TG, total-C/HDL-C, and LDL-C/HDL-C.
 
 In three multicenter, double-blind studies in patients with hyperlipidemia, atorvastatin calcium was compared to other statins.
-After randomization, patients were treated for 16 weeks with either atorvastatin calcium 10 mg per day or a fixed dose of the comparative agent (Table 8).
+After randomization, patients were treated for 16 weeks with either atorvastatin calcium 10 mg per day or a fixed dose of the comparative agent (Table 10).
 
-TABLE 8.
+TABLE 10.
 Mean Percentage Change From Baseline at Endpoint (Double-Blind, Randomized, Active-Controlled Trials)
 
 | Treatment (Daily Dose) | N | Total-C | LDL-C | Apo B | TG | HDL-C | Non-HDL-C/ HDL-C |
@@ -156,16 +156,16 @@ b Significantly different from pravastatin, ANCOVA, p ≤0.05
 
 c Significantly different from simvastatin, ANCOVA, p ≤0.05
 
-The impact on clinical outcomes of the differences in lipid-altering effects between treatments shown in Table 8 is not known.
-Table 8 does not contain data comparing the effects of atorvastatin calcium 10 mg and higher doses of lovastatin, pravastatin, and simvastatin.
+The impact on clinical outcomes of the differences in lipid-altering effects between treatments shown in Table 10 is not known.
+Table 10 does not contain data comparing the effects of atorvastatin calcium 10 mg and higher doses of lovastatin, pravastatin, and simvastatin.
 The drugs compared in the studies summarized in the table are not necessarily interchangeable.
 
 ## 14.3 Hypertriglyceridemia
 
-The response to atorvastatin calcium in 64 patients with isolated hypertriglyceridemia (Fredrickson Type IV) treated across several clinical trials is shown in the table below (Table 9).
+The response to atorvastatin calcium in 64 patients with isolated hypertriglyceridemia (Fredrickson Type IV) treated across several clinical trials is shown in the table below (Table 11).
 For the atorvastatin calcium-treated patients, median (min, max) baseline TG level was 565 (267 to 1502).
 
-TABLE 9.
+TABLE 11.
 Combined Patients With Isolated Elevated TG: Median (min, max) Percentage Change From Baseline
 
 |  | Placebo | Atorvastatin Calcium | Atorvastatin Calcium | Atorvastatin Calcium |
@@ -181,9 +181,9 @@ Combined Patients With Isolated Elevated TG: Median (min, max) Percentage Change
 
 ## 14.4 Dysbetalipoproteinemia
 
-The results of an open-label crossover study of 16 patients (genotypes: 14 apo E2/E2 and 2 apo E3/E2) with dysbetalipoproteinemia (Fredrickson Type III) are shown in the table below (Table 10).
+The results of an open-label crossover study of 16 patients (genotypes: 14 apo E2/E2 and 2 apo E3/E2) with dysbetalipoproteinemia (Fredrickson Type III) are shown in the table below (Table 12).
 
-TABLE 10.
+TABLE 12.
 Open-Label Crossover Study of 16 Patients With Dysbetalipoproteinemia (Fredrickson Type III)
 
 |  |  | Median % Change (min, max) |  |
@@ -212,9 +212,9 @@ The mean baseline LDL-C value was 218.6 mg/dL (range: 138.5 to 385 mg/dL) in the
 The dosage of atorvastatin calcium (once daily) was 10 mg for the first 4 weeks and uptitrated to 20 mg if the LDL-C level was > 130 mg/dL.
 The number of atorvastatin calcium-treated patients who required uptitration to 20 mg after Week 4 during the double-blind phase was 78 (55.7%).
 
-Atorvastatin calcium significantly decreased plasma levels of total-C, LDL-C, triglycerides, and apolipoprotein B during the 26-week double-blind phase (see Table 11).
+Atorvastatin calcium significantly decreased plasma levels of total-C, LDL-C, triglycerides, and apolipoprotein B during the 26-week double-blind phase (see Table 13).
 
-TABLE 11.
+TABLE 13.
 Lipid-altering Effects of Atorvastatin Calcium in Adolescent Boys and Girls with Heterozygous Familial Hypercholesterolemia or Severe Hypercholesterolemia (Mean Percentage Change From Baseline at Endpoint in Intention-to-Treat Population)
 
 | DOSAGE | N | Total-C | LDL-C | HDL-C | TG | Apolipoprotein B |

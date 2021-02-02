@@ -2,7 +2,7 @@
 
 The following serious adverse reactions are discussed in greater detail in other sections of the label:
 
-Rhabdomyolysis and myopathy [see Warnings and Precautions (5.1)]
+Myopathy and Rhabdomyolysis [see Warnings and Precautions (5.1)]
 
 Liver enzyme abnormalities [see Warnings and Precautions (5.3)]
 
@@ -15,9 +15,9 @@ The five most common adverse reactions in patients treated with atorvastatin cal
 
 The most commonly reported adverse reactions (incidence ≥ 2% and greater than placebo) regardless of causality, in patients treated with atorvastatin calcium in placebo controlled trials (n=8755) were: nasopharyngitis (8.3%), arthralgia (6.9%), diarrhea (6.8%), pain in extremity (6%), and urinary tract infection (5.7%).
 
-Table 3 summarizes the frequency of clinical adverse reactions, regardless of causality, reported in ≥ 2% and at a rate greater than placebo in patients treated with atorvastatin calcium (n=8755), from seventeen placebo-controlled trials.
+Table 2 summarizes the frequency of clinical adverse reactions, regardless of causality, reported in ≥ 2% and at a rate greater than placebo in patients treated with atorvastatin calcium (n=8755), from seventeen placebo-controlled trials.
 
-| Table 3. Clinical adverse reactions occurring in ≥ 2% in patients treated with any dose of atorvastatin calcium and at an incidence greater than placebo regardless of causality (% of patients). |  |  |  |  |  |  |
+| Table 2. Clinical Adverse Reactions Occurring in ≥ 2% in Patients Treated with any Dose of Atorvastatin Calcium and at an Incidence Greater than Placebo Regardless of Causality (% of Patients). |  |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- |
 | Adverse Reaction* | Any dose N=8755 | 10 mg N=3908 | 20 mg N=188 | 40 mg N=604 | 80 mg N=4055 | Placebo N=7311 |
 | Nasopharyngitis | 8.3 | 12.9 | 5.3 | 7 | 4.2 | 8.2 |
@@ -81,7 +81,7 @@ Because these reactions are reported voluntarily from a population of uncertain 
 
 Adverse reactions associated with atorvastatin calcium therapy reported since market introduction, that are not listed above, regardless of causality assessment, include the following: anaphylaxis, angioneurotic edema, bullous rashes (including erythema multiforme, Stevens-Johnson syndrome, and toxic epidermal necrolysis), rhabdomyolysis, myositis, fatigue, tendon rupture, fatal and non-fatal hepatic failure, dizziness, depression, peripheral neuropathy, pancreatitis and interstitial lung disease.
 
-There have been rare reports of immune-mediated necrotizing myopathy associated with statin use [see Warnings and Precautions (5.2]
+There have been rare reports of immune-mediated necrotizing myopathy associated with statin use [see Warnings and Precautions (5.2)]
 
 There have been rare postmarketing reports of cognitive impairment (e.g., memory loss, forgetfulness, amnesia, memory impairment, confusion) associated with statin use.
 These cognitive issues have been reported for all statins.
