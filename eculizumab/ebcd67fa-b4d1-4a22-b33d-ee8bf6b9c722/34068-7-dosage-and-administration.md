@@ -28,7 +28,7 @@ For patients 18 years of age and older, Soliris therapy consists of:
 
 For patients less than 18 years of age, administer Soliris based upon body weight, according to the following schedule (Table 1):
 
-Table 1: Dosing Recommendations in Patients Less Than 18 Years of Age
+Table 1: Dosing Recommendations in aHUS Patients Less Than 18 Years of Age
 
 | Patient Body Weight | Induction | Maintenance |
 | --- | --- | --- |
@@ -42,7 +42,7 @@ Administer Soliris at the recommended dosage regimen time points, or within two 
 
 ## 2.4 Recommended Dosage Regimen – gMG and NMOSD
 
-For patients with generalized myasthenia gravis or neuromyelitis optica spectrum disorder, Soliris therapy consists of:
+For adult patients with generalized myasthenia gravis or neuromyelitis optica spectrum disorder, Soliris therapy consists of:
 
 - 900 mg weekly for the first 4 weeks, followed by
 - 1200 mg for the fifth dose 1 week later, then
@@ -52,11 +52,11 @@ Administer Soliris at the recommended dosage regimen time points, or within two 
 
 ## 2.5 Dose Adjustment in Case of Plasmapheresis, Plasma Exchange, or Fresh Frozen Plasma Infusion
 
-For adult and pediatric patients with aHUS and adult patients with gMG, supplemental dosing of Soliris is required in the setting of concomitant plasmapheresis or plasma exchange, or fresh frozen plasma infusion (PE/PI) (Table 2).
+For adult and pediatric patients with aHUS, and adult patients with gMG or NMOSD, supplemental dosing of Soliris is required in the setting of concomitant plasmapheresis or plasma exchange, or fresh frozen plasma infusion (PE/PI) (Table 2).
 
 Table 2: Supplemental Dose of Soliris after PE/PI
 
-| Type of Plasma Intervention | Most Recent Soliris Dose | Supplemental Soliris Dose With Each Plasma Intervention | Timing of Supplemental Soliris Dose |
+| Type of Plasma Intervention | Most Recent Soliris Dose | Supplemental Soliris Dose with Each Plasma Intervention | Timing of Supplemental Soliris Dose |
 | --- | --- | --- | --- |
 | Plasmapheresis or plasma exchange | 300 mg | 300 mg per each plasmapheresis or plasma exchange session | Within 60 minutes after each plasmapheresis or plasma exchange |
 | ≥600 mg | 600 mg per each plasmapheresis or plasma exchange session |  |  |
@@ -92,11 +92,11 @@ Parenteral drug products should be inspected visually for particulate matter and
 
 Only administer as an intravenous infusion.
 
-Do not administer as an intravenous push or bolus injection
+Do not administer as an intravenous push or bolus injection.
 
 Administer the Soliris admixture by intravenous infusion over 35 minutes in adults and 1 to 4 hours in pediatric patients via gravity feed, a syringe-type pump, or an infusion pump.
 Admixed solutions of Soliris are stable for 24 h at 2°-8° C (36°-46° F) and at room temperature.
 
 If an adverse reaction occurs during the administration of Soliris, the infusion may be slowed or stopped at the discretion of the physician.
 If the infusion is slowed, the total infusion time should not exceed two hours in adults.
-Monitor the patient for at least one hour following completion of the infusion for signs or symptoms of an infusion reaction.
+Monitor the patient for at least one hour following completion of the infusion for signs or symptoms of an infusion-related reaction.

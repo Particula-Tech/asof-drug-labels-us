@@ -22,7 +22,7 @@ In patients with PNH, aHUS, gMG, and NMOSD, free C5 concentrations of < 0.5 mcg/
 Following intravenous maintenance doses of 900 mg once every 2 weeks in patients with PNH, the week 26 observed mean ± SD serum eculizumab maximum concentration (Cmax) was 194 ± 76 mcg/mL and the trough concentration (Ctrough) was 97 ± 60 mcg/mL.
 Following intravenous maintenance doses of 1200 mg once every 2 weeks in patients with aHUS, the week 26 observed mean ± SD Ctrough was 242 ± 101 mcg/mL.
 Following intravenous maintenance doses of 1200 mg once every 2 weeks in patients with gMG, the week 26 observed mean ± SD Cmax was 783 ± 288 mcg/mL and the Ctrough was 341 ± 172 mcg/mL.
-Following intravenous maintenance doses of 1200 mg once every 2 weeks in patients with NMOSD, at week 24, the observed mean ±SD Cmax was 877±331 and the Ctrough was 429±188 mcg/mL.
+Following intravenous maintenance doses of 1200 mg once every 2 weeks in patients with NMOSD, at week 24, the observed mean±SD Cmax was 877±331 and the Ctrough was 429±188 mcg/mL.
 
 Steady state was achieved 4 weeks after starting eculizumab treatment, with accumulation ratio of approximately 2-fold in all studied indications.
 Population pharmacokinetic analyses showed that eculizumab pharmacokinetics were dose-linear and time-independent over the 600 mg to 1200 mg dose range, with inter-individual variability of 21% to 38%.

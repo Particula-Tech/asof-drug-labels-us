@@ -4,9 +4,9 @@ The following serious adverse reactions are discussed in greater detail in other
 
 - Serious Meningococcal Infections [see Warnings and Precautions (5.1)]
 - Other Infections [see Warnings and Precautions (5.2)]
-- Monitoring Disease Manifestations After Soliris Discontinuation [see Warnings and Precautions (5.3)]
+- Monitoring Disease Manifestations after Soliris Discontinuation [see Warnings and Precautions (5.3)]
 - Thrombosis Prevention and Management [see Warnings and Precautions (5.4)]
-- Infusion Reactions [see Warnings and Precautions (5.5)]
+- Infusion-Related Reactions [see Warnings and Precautions (5.5)]
 
 ## 6.1 Clinical Trial Experience
 
@@ -58,7 +58,7 @@ aHUS
 
 The safety of Soliris therapy in patients with aHUS was evaluated in four prospective, single-arm studies, three in adult and adolescent patients (Studies C08-002A/B, C08-003A/B, and C10-004), one in pediatric and adolescent patients (Study C10-003), and one retrospective study (Study C09-001r).
 
-The data described below were derived from 78 adult and adolescent patients with Studies C08-002A/B, C08-003A/B and C10-004.
+The data described below were derived from 78 adult and adolescent patients with aHUS in Studies C08-002A/B, C08-003A/B and C10-004.
 All patients received the recommended dosage of Soliris.
 Median exposure was 67 weeks (range: 2-145 weeks).
 Table 5 summarizes all adverse events reported in at least 10% of patients in Studies C08-002A/B, C08-003A/B and C10-004 combined.
@@ -120,7 +120,7 @@ Median exposure was 44 weeks (range: 1 dose-87 weeks).
 
 Table 6 summarizes all adverse events reported in at least 10% of patients enrolled in Study C10-003.
 
-Table 6: Per Patient Incidence of Adverse Reactions in 10% or More Patients Enrolled in StudyC10-003
+Table 6: Per Patient Incidence of Adverse Reactions in 10% or More Patients Enrolled in Study C10-003
 
 |  | 1 month to <12 yrs (N=18) | Total (N=22) |
 | --- | --- | --- |
@@ -182,11 +182,11 @@ Generalized Myasthenia Gravis (gMG)
 
 In a 26-week placebo-controlled trial evaluating the effect of Soliris for the treatment of gMG (gMG Study 1), 62 patients received Soliris at the recommended dosage regimen and 63 patients received placebo [see Clinical Studies (14.3)].
 Patients were 19 to 79 years of age, and 66% were female.
-Table 8 displays the most common adverse reactions from gMG Study 1 that occurred in ≥5% of Soliris-treated patients and at a greater frequency than placebo.
+Table 8 displays the most common adverse reactions from gMG Study 1 that occurred in ≥5% of Soliris-treated patients and at a greater frequency than on placebo.
 
 Table 8: Adverse Reactions Reported in 5% or More of Soliris-Treated Patients in gMG Study 1 and at a Greater Frequency than in Placebo-Treated Patients
 
-|  | Soliris (N=62) n (%) | Placebo (N=63) n (%) |
+|  | Soliris (N=62) N (%) | Placebo (N=63) N (%) |
 | --- | --- | --- |
 | Gastrointestinal Disorders |  |  |
 | Abdominal pain | 5 (8) | 3 (5) |
@@ -196,11 +196,11 @@ Table 8: Adverse Reactions Reported in 5% or More of Soliris-Treated Patients in
 | Infections and Infestations |  |  |
 | Herpes simplex virus infections | 5 (8) | 1 (2) |
 | Injury, Poisoning, and Procedural Complications |  |  |
-| Contusion | 5(8) | 2(3) |
+| Contusion | 5 (8) | 2 (3) |
 | Musculoskeletal and Connective Tissue Disorders |  |  |
 | Musculoskeletal pain | 9 (15) | 5 (8) |
 
-The most common adverse reactions (≥10%) that occurred in Soliris-treated patients in the long-term extension to gMG Study 1, Study ECU-MG-302, that are not included in Table 8 were headache (26%), nasopharyngitis (24%), diarrhea (15%), arthralgia (12%), upper respiratory tract infection (11%), and nausea (10%).
+The most common adverse reactions (≥10%) that occurred in Soliris-treated patients in the long-term extension to gMG Study 1, Study ECU-MG-302, and that are not included in Table 8 were headache (26%), nasopharyngitis (24%), diarrhea (15%), arthralgia (12%), upper respiratory tract infection (11%), and nausea (10%).
 
 Neuromyelitis Optica Spectrum Disorder (NMOSD)
 
@@ -258,13 +258,13 @@ The detection of antibody formation is highly dependent on the sensitivity and s
 Additionally, the observed incidence of antibody (including neutralizing antibody) positivity in an assay may be influenced by several factors including assay methodology, sample handling, timing of sample collection, concomitant medications, and underlying disease.
 For these reasons, comparison of the incidence of antibodies to eculizumab in the studies described below with the incidence of antibodies in other studies or to other products may be misleading.
 
-The immunogenicity of Soliris has been evaluated using two different immunoassays for the detection of anti-eculizumab antibodies: a direct enzyme-linked immunosorbent assay (ELISA) using the Fab fragment of eculizumab as target was used for the PNH indication; and an electro-chemiluminescence (ECL) bridging assay using the eculizumab whole molecule as target was used for the aHUS, gMG and NMOSD indications, as well as for additional patients with PNH.
+The immunogenicity of Soliris has been evaluated using two different immunoassays for the detection of anti-eculizumab antibodies: a direct enzyme-linked immunosorbent assay (ELISA) using the Fab fragment of eculizumab as target was used for the PNH indication; and an electro-chemiluminescence (ECL) bridging assay using the eculizumab whole molecule as target was used for the aHUS, gMG, and NMOSD indications, as well as for additional patients with PNH.
 In the PNH population, antibodies to Soliris were detected in 3/196 (2%) patients using the ELISA assay and in 5/161 (3%) patients using the ECL assay.
 In the aHUS population, antibodies to Soliris were detected in 3/100 (3%) patients using the ECL assay.
 None of the 62 patients with gMG had antibodies to Soliris detected following the 26-week active treatment.
 Two of the 96 (2%) Soliris-treated patients with NMOSD had antibodies to Soliris detected during the entire treatment period.
 
-An ECL based neutralizing assay with a low sensitivity of 2 mcg/mL was performed to detect neutralizing antibodies for the 5 patients with PNH, the 3 patients with aHUS and the 2 patients with NMOSD with anti-eculizumab antibody positive samples using the ECL assay.
+An ECL based neutralizing assay with a low sensitivity of 2 mcg/mL was performed to detect neutralizing antibodies for the 5 patients with PNH, the 3 patients with aHUS, and the 2 patients with NMOSD with anti-eculizumab antibody positive samples using the ECL assay.
 Two of 161 patients with PNH (1.2%) and 1 of 100 patients with aHUS (1%), and none of the 96 patients with NMOSD had low positive values for neutralizing antibodies.
 
 No apparent correlation of antibody development to clinical response was observed.

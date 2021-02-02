@@ -37,7 +37,7 @@ Enrollment in the Soliris REMS program and additional information are available 
 
 ## 5.2 Other Infections
 
-Serious infections with Neisseria species (other than N. meningitides), including disseminated gonococcal infections, have been reported.
+Serious infections with Neisseria species (other than N. meningitidis), including disseminated gonococcal infections, have been reported.
 
 Soliris blocks terminal complement activation; therefore patients may have increased susceptibility to infections, especially with encapsulated bacteria.
 Additionally, Aspergillus infections have occurred in immunocompromised and neutropenic patients.
@@ -67,8 +67,8 @@ If TMA complications occur after Soliris discontinuation, consider reinstitution
 The effect of withdrawal of anticoagulant therapy during Soliris treatment has not been established.
 Therefore, treatment with Soliris should not alter anticoagulant management.
 
-## 5.5 Infusion Reactions
+## 5.5 Infusion-Related Reactions
 
-Administration of Soliris may result in infusion reactions, including anaphylaxis or other hypersensitivity reactions.
-In clinical trials, no patients experienced an infusion reaction which required discontinuation of Soliris.
+Administration of Soliris may result in infusion-related reactions, including anaphylaxis or other hypersensitivity reactions.
+In clinical trials, no patients experienced an infusion-related reaction which required discontinuation of Soliris.
 Interrupt Soliris infusion and institute appropriate supportive measures if signs of cardiovascular instability or respiratory compromise occur.

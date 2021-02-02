@@ -115,7 +115,7 @@ Table 13 summarizes the efficacy results for Study C08-002A/B.
 
 Table 13: Efficacy Results for Study C08-002A/B
 
-| Efficacy Parameter | aHUS Study 1 at 26 wksAt data cut-off (September 8, 2010). (N=17) | aHUS Study 1 at 2 yrsAt data cut-off (April 20, 2012). (N=17) |
+| Efficacy Parameter | Study C08-002A/B at 26 wksAt data cut-off (September 8, 2010). (N=17) | Study C08-002A/B at 2 yrsAt data cut-off (April 20, 2012). (N=17) |
 | --- | --- | --- |
 | Complete TMA response, n (%) | 11 (65) | 13 (77) |
 | Median Duration of complete TMA response, weeks (range) | 38 (25, 56) | 99 (25, 139) |
@@ -184,12 +184,12 @@ Mean platelet count (± SD) increased from 171 ± 83 ×109/L at baseline to 233 
 
 A total of 19 pediatric patients (ages 2 months to 17 years) received Soliris in Study C09-001r.
 The median duration of Soliris therapy was 16 weeks (range 4 to 70 weeks) for children <2 years of age (n=5), 31 weeks (range 19 to 63 weeks) for children 2 to <12 years of age (n=10), and 38 weeks (range 1 to 69 weeks) for patients 12 to <18 years of age (n=4).
-Fifty three percent of pediatric patients had an identified complement regulatory factor mutation or auto-antibody.
+Fifty-three percent of pediatric patients had an identified complement regulatory factor mutation or auto-antibody.
 
 Overall, the efficacy results for these pediatric patients appeared consistent with what was observed in patients enrolled in Studies C08-002A/B and C08-003A/B (Table 16).
 No pediatric patient required new dialysis during treatment with Soliris.
 
-Table 16: Efficacy Results in Pediatric Patients Enrolled in aHUS Study 3
+Table 16: Efficacy Results in Pediatric Patients Enrolled in Study C09-001r
 
 | Efficacy Parameter | <2 yrs (N=5) | 2 to <12 yrs (N=10) | 12 to <18 yrs (N=4) | Total (N=19) |
 | --- | --- | --- | --- | --- |
@@ -229,19 +229,19 @@ Twenty of the 24 patients who required dialysis at study baseline were able to d
 
 Reduction in terminal complement activity and an increase in platelet count relative to baseline were observed after commencement of Soliris.
 Soliris reduced signs of complement-mediated TMA activity, as shown by an increase in mean platelet counts from baseline to 26 weeks.
-Study C10-004, mean platelet count (± SD) increased from 119 ± 66 ×109/L at baseline to 200 ± 84 ×109/L by one week; this effect was maintained through 26 weeks (mean platelet count (± SD) at week 26: 252 ± 70 ×109/L).
+In Study C10-004, mean platelet count (± SD) increased from 119 ± 66 ×109/L at baseline to 200 ± 84 ×109/L by one week; this effect was maintained through 26 weeks (mean platelet count (± SD) at week 26: 252 ± 70 ×109/L).
 In Study C10-004, responses to Soliris were similar in patients with and without identified mutations in genes encoding complement regulatory factor proteins or auto-antibodies to factor H.
 
 Table 18 summarizes the efficacy results for Study C10-004.
 
 Table 18: Efficacy Results for Study C10-004
 
-| Efficacy Parameter | Study C10-004aHUS (N=41) |
+| Efficacy Parameter | Study C10-004 (N=41) |
 | --- | --- |
 | Complete TMA response, n (%), | 23 (56) |
 | 95% CI | 40,72 |
 | Median duration of complete TMA response, weeks (range) | 42 (6, 75) |
-| Patients with eGFR improvement ≥ 15 mL/min/1.73 m2, n (%) | 22 (54) |
+| Patients with eGFR improvement ≥ 15 mL/min/1.73m2, n (%) | 22 (54) |
 | Hematologic Normalization, n (%) | 36 (88) |
 | Median duration of hematologic normalization, weeks (range) | 46 (10, 75) |
 | TMA Event-free Status, n (%) | 37 (90) |
@@ -253,12 +253,12 @@ Pediatric and Adolescent Patients with aHUS (Study C10-003)
 
 Study C10-003 enrolled patients who were required to have a platelet count < lower limit of normal range (LLN), evidence of hemolysis such as an elevation in serum LDH above the upper limits of normal, serum creatinine level ≥97 percentile for age without the need for chronic dialysis.
 The median patient age was 6.5 (range: 5 months to 17 years).
-Patients enrolled in Study C10-003were required to have ADAMTS13 activity level above 5%;observed range of values in the trial were 38%-121%.
+Patients enrolled in Study C10-003 were required to have ADAMTS13 activity level above 5%; observed range of values in the trial were 38%-121%.
 Fifty percent of patients had an identified complement regulatory factor mutation or auto-antibody.
 A total of 10 patients received PE/PI prior to eculizumab.
 Table 19 summarizes the key baseline clinical and disease-related characteristics of patients enrolled in Study C10-003.
 
-Table 19: Baseline Characteristics of Patients Enrolled in aHUS Study 5
+Table 19: Baseline Characteristics of Patients Enrolled in Study C10-003
 
 | Parameter | Patients 1 month to <12 years (N=18) | All Patients (N=22) |
 | --- | --- | --- |
@@ -288,7 +288,7 @@ Table 20: Efficacy Results for Study C10-003
 
 | Efficacy Parameter | Patients 1 month to <12 years (N=18) | All Patients (N=22) |
 | --- | --- | --- |
-| Complete TMA response, n (%) 95% CI Median Duration of complete TMA response, weeks (range)through data cutoff (October 12, 2012). | 11 (61) 36, 83 40 (14, 77) | 14 (64) 41, 83 37 (14, 77) |
+| Complete TMA response, n (%) 95% CI Median Duration of complete TMA response, weeks (range)Through data cutoff (October 12, 2012). | 11 (61) 36, 83 40 (14, 77) | 14 (64) 41, 83 37 (14, 77) |
 | eGFR improvement ≥15 mL/min/ 1.73∙m2∙n (%) | 16 (89) | 19 (86) |
 | Complete Hematologic Normalization, n (%) Median Duration of complete hematologic normalization, weeks (range) | 14 (78) 38 (14, 77) | 18 (82) 38 (14, 77) |
 | TMA Event-Free Status, n (%) | 17 (94) | 21 (95) |
@@ -296,7 +296,7 @@ Table 20: Efficacy Results for Study C10-003
 
 ## 14.3 Generalized Myasthenia Gravis (gMG)
 
-The efficacy of Soliris for the treatment of gMG was established in gMG Study 1 (NCT01997229), a 26-week randomized, double-blind, parallel-group, placebo-controlled, multicenter trial that enrolled patients who met the following criteria at screening:
+The efficacy of Soliris for the treatment of gMG was established in gMG Study 1 (NCT01997229), a 26-week randomized, double-blind, parallel-group, placebo-controlled, multi-center trial that enrolled patients who met the following criteria at screening:
 
 1. Positive serologic test for anti-AChR antibodies,
 2. Myasthenia Gravis Foundation of America (MGFA) Clinical Classification Class II to IV,
@@ -320,7 +320,7 @@ The QMG is a 13-item categorical scale assessing muscle weakness.
 Each item is assessed on a 4-point scale where a score of 0 represents no weakness and a score of 3 represents severe weakness (total score 0-39).
 A statistically significant difference favoring Soliris was observed in the mean change from baseline to Week 26 in QMG total scores [-4.6 points in the Soliris-treated group compared with -1.6 points in the placebo-treated group (p=0.001)].
 
-The results of the analysis of the MG-ADL and QMG from gMG Study 1are shown in Table 21.
+The results of the analysis of the MG-ADL and QMG from gMG Study 1 are shown in Table 21.
 
 Table 21: Analysis of Change from Baseline to Week 26 in MG-ADL and QMG Total Scores in gMG Study 1
 

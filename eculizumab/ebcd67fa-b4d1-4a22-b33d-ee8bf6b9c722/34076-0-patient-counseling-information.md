@@ -35,7 +35,12 @@ Counsel patients about gonorrhea prevention and advise regular testing for patie
 Inform patients that there may be an increased risk of other types of infections, particularly those due to encapsulated bacteria.
 
 Aspergillus infections have occurred in immunocompromised and neutropenic patients.
+
 Inform parents or caregivers of children receiving Soliris for the treatment of aHUS that their child should be vaccinated against Streptococcus pneumoniae and Haemophilus influenzae type b (Hib) according to current medical guidelines.
+
+Infusion-Related Reactions
+
+Advise patients that administration of SOLIRIS may result in infusion-related reactions.
 
 Discontinuation
 
