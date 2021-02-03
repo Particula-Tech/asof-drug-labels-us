@@ -106,7 +106,8 @@ The following adverse reactions have been identified during post-approval use of
 Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
 
 Cardiac Disorders: Cases of marked bradycardia and bradycardia with cardiac arrest have been observed within minutes after administration of sugammadex [see Warnings and Precautions (5.2)].
-Other cardiac rhythm abnormalities have included atrial fibrillation, atrioventricular block, cardiac/cardiorespiratory arrest, ST segment changes, supraventricular tachycardia/extrasystoles, tachycardia, ventricular fibrillation, and ventricular tachycardia.
+Other cardiac rhythm abnormalities have included atrial fibrillation, atrioventricular block, cardiac/cardiorespiratory arrest, electrocardiographic (ECG) ST segment changes, supraventricular tachycardia/extrasystoles, tachycardia, ventricular fibrillation, and ventricular tachycardia.
+Anaphylaxis associated with ECG ST segment changes (elevation or depression) consistent with myocardial ischemia or coronary spasm has also been reported.
 
 General Disorders and Administration Site Conditions: Cases of BRIDION not having the intended effect.
 
