@@ -231,6 +231,8 @@ Active ingredient: carbamazepine, USP
 Inactive ingredients: Cellulose acetate, dextrates, hydroxyethyl cellulose, hypromellose, magnesium stearate, mannitol, polyethylene glycol and sodium lauryl sulfate.
 Each tablet is printed with opacode black S-1-17823 ink which contains ammonium hydroxide, iron oxide black, isopropyl alcohol, n-butyl alcohol, propylene glycol and shellac.
 
+Medication Guide available at www.zydususa.com/medguides or call 1-877-993-8779.
+
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
 
 Manufactured by:
@@ -245,4 +247,4 @@ Zydus Pharmaceuticals (USA) Inc.
 
 Pennington, NJ 08534
 
-Rev.: 05/18
+Rev.: 11/20
