@@ -1,4 +1,4 @@
-# 17 PATIENT COUNSELING INFORMATION
+# 17PATIENT COUNSELING INFORMATION
 
 Advise the patient to read the FDA-approved patient labeling (Patient Information).
 
@@ -14,7 +14,7 @@ Advise the patient to read the FDA-approved patient labeling (Patient Informatio
   Advise females of reproductive potential to use effective contraception during treatment with IMBRUVICA and for 1 month after the last dose [see Use in Specific Populations (8.3)].
   Advise males with female partners of reproductive potential to use effective contraception during treatment with IMBRUVICA and for 1 month after the last dose [see Use in Specific Populations (8.3), Nonclinical Toxicology (13.1)].
 - Lactation: Advise women not to breastfeed during treatment with IMBRUVICA and for 1 week after the last dose [see Use in Specific Populations (8.2)].
-- Inform patients to take IMBRUVICA orally once daily according to their physician's instructions and that the oral dosage (capsules or tablets) should be swallowed whole with a glass of water without opening, breaking or chewing the capsules or cutting, crushing or chewing the tablets approximately the same time each day [see Dosage and Administration (2.1)].
+- Inform patients to take IMBRUVICA orally once daily according to their physician’s instructions and that the oral dosage (capsules or tablets) should be swallowed whole with a glass of water without opening, breaking or chewing the capsules or cutting, crushing or chewing the tablets approximately the same time each day [see Dosage and Administration (2.1)].
 - Advise patients that in the event of a missed daily dose of IMBRUVICA, it should be taken as soon as possible on the same day with a return to the normal schedule the following day.
   Patients should not take extra doses to make up the missed dose [see Dosage and Administration (2.1)].
 - Advise patients of the common side effects associated with IMBRUVICA [see Adverse Reactions (6)].
@@ -24,3 +24,25 @@ Advise the patient to read the FDA-approved patient labeling (Patient Informatio
   Advise patients to maintain adequate hydration [see Adverse Reactions (6.1)].
 
 Active ingredient made in China.
+
+Distributed and Marketed by:
+
+Pharmacyclics LLC
+
+Sunnyvale, CA USA 94085
+
+and
+
+Marketed by:
+
+Janssen Biotech, Inc.
+
+Horsham, PA USA 19044
+
+Patent http://www.imbruvica.com
+
+IMBRUVICA® is a registered trademark owned by Pharmacyclics LLC
+
+© Pharmacyclics LLC 2020
+
+© Janssen Biotech, Inc. 2020

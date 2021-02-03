@@ -1,10 +1,10 @@
-# 14 CLINICAL STUDIES
+# 14CLINICAL STUDIES
 
 ## 14.1 Mantle Cell Lymphoma
 
 The safety and efficacy of IMBRUVICA in patients with MCL who have received at least one prior therapy were evaluated in Study 1104 (NCT01236391), an open-label, multi-center, single-arm trial of 111 previously treated patients.
 IMBRUVICA was administered orally at 560 mg once daily until disease progression or unacceptable toxicity.
-Tumor response was assessed according to the revised International Working Group (IWG) for non-Hodgkin's lymphoma (NHL) criteria.
+Tumor response was assessed according to the revised International Working Group (IWG) for non-Hodgkin’s lymphoma (NHL) criteria.
 The primary endpoint in this study was investigator-assessed overall response rate (ORR).
 
 The median age was 68 years (range, 40 to 84 years), 77% were male, and 92% were White.
@@ -74,23 +74,27 @@ Table 21: Efficacy Results in Patients with CLL/SLL in RESONATE
 
 | Endpoint | IMBRUVICA N=195 | Ofatumumab N=196 |
 | --- | --- | --- |
-| Progression Free SurvivalIRC evaluated. All partial responses achieved; none of the patients achieved a complete response. |  |  |
+| Progression Free Survivalb |  |  |
 | Number of events (%) | 35 (17.9) | 111 (56.6) |
 | Disease progression | 26 | 93 |
 | Death events | 9 | 18 |
 | Median (95% CI), months | NE | 8.1 (7.2, 8.3) |
 | HR (95% CI) | 0.22 (0.15, 0.32) |  |
-| Overall SurvivalMedian OS not evaluable for either arm |  |  |
+| Overall Survivala |  |  |
 | Number of deaths (%) | 16 (8.2) | 33 (16.8) |
 | HR (95% CI) | 0.43 (0.24, 0.79) |  |
-| Overall Response Rate | 42.6% | 4.1% |
-| CI = confidence interval; HR = hazard ratio; NE = not evaluable |  |  |
+| Overall Response Rateb | 42.6% | 4.1% |
 
-| Figure 1: Kaplan-Meier Curve of Progression Free Survival (ITT Population) in Patients with CLL/SLL in RESONATE |
-| --- |
+a Median OS not evaluable for either arm
 
-| Figure 2: Kaplan-Meier Curve of Overall Survival (ITT Population) in Patients with CLL/SLL in RESONATE |
-| --- |
+b IRC evaluated.
+All partial responses achieved; none of the patients achieved a complete response.
+
+CI = confidence interval; HR = hazard ratio; NE = not evaluable
+
+Figure 1: Kaplan-Meier Curve of Progression Free Survival (ITT Population) in Patients with CLL/SLL in RESONATE
+
+Figure 2: Kaplan-Meier Curve of Overall Survival (ITT Population) in Patients with CLL/SLL in RESONATE
 
 63-Month Follow-Up
 
@@ -109,14 +113,18 @@ Table 22: Efficacy Results in Patients with del 17p CLL/SLL in RESONATE
 
 | Endpoint | IMBRUVICA N=63 | Ofatumumab N=64 |
 | --- | --- | --- |
-| Progression Free SurvivalIRC evaluated. All partial responses achieved; none of the patients achieved a complete response. |  |  |
+| Progression Free Survivala |  |  |
 | Number of events (%) | 16 (25.4) | 38 (59.4) |
 | Disease progression | 12 | 31 |
 | Death events | 4 | 7 |
 | Median (95% CI), months | NE | 5.8 (5.3, 7.9) |
 | HR (95% CI) | 0.25 (0.14, 0.45) |  |
-| Overall Response Rate | 47.6% | 4.7% |
-| CI = confidence interval; HR = hazard ratio; NE = not evaluable |  |  |
+| Overall Response Ratea | 47.6% | 4.7% |
+
+a IRC evaluated.
+All partial responses achieved; none of the patients achieved a complete response.
+
+CI = confidence interval; HR = hazard ratio; NE = not evaluable
 
 63-Month Follow-Up
 
@@ -143,17 +151,20 @@ Table 23: Efficacy Results in Patients with CLL/SLL in RESONATE-2
 
 | Endpoint | IMBRUVICA N=136 | Chlorambucil N=133 |
 | --- | --- | --- |
-| Progression Free SurvivalIRC evaluated; Five subjects (3.7%) in the IMBRUVICA arm and two subjects (1.5%) in the Chlorambucil arm achieved complete response |  |  |
+| Progression Free Survivala |  |  |
 | Number of events (%) | 15 (11.0) | 64 (48.1) |
 | Disease progression | 12 | 57 |
 | Death events | 3 | 7 |
 | Median (95% CI), months | NE | 18.9 (14.1, 22.0) |
-| HRHR = hazard ratio; NE = not evaluable (95% CI) | 0.16 (0.09, 0.28) |  |
-| Overall Response Rate (CR + PR) | 82.4% | 35.3% |
+| HRb (95% CI) | 0.16 (0.09, 0.28) |  |
+| Overall Response Ratea (CR + PR) | 82.4% | 35.3% |
 | P-value | <0.0001 |  |
 
-| Figure 3: Kaplan-Meier Curve of Progression-Free Survival (ITT Population) in Patients with CLL/SLL in RESONATE-2 |
-| --- |
+a IRC evaluated; Five subjects (3.7%) in the IMBRUVICA arm and two subjects (1.5%) in the Chlorambucil arm achieved complete response
+
+b HR = hazard ratio; NE = not evaluable
+
+Figure 3: Kaplan-Meier Curve of Progression-Free Survival (ITT Population) in Patients with CLL/SLL in RESONATE-2
 
 55-Month Follow-Up
 
@@ -170,7 +181,7 @@ Rituximab was administered at a dose of 375 mg/m2 in the first cycle, Day 1, and
 The median age was 64 years (range, 31 to 86 years), 66% were male, and 91% were White.
 All patients had a baseline ECOG performance status of 0 or 1.
 The median time since diagnosis was 5.9 years and the median number of prior treatments was 2 (range, 1 to 11 treatments).
-At baseline, 56% of patients had at least one tumor ≥ 5 cm and 26% presented with del11q.
+At baseline, 56% of patients had at least one tumor > 5 cm and 26% presented with del11q.
 
 Efficacy results for HELIOS are shown in Table 24 and the Kaplan-Meier curves for PFS are shown in Figure 4.
 
@@ -178,15 +189,17 @@ Table 24: Efficacy Results in Patients with CLL/SLL in HELIOS
 
 | Endpoint | IMBRUVICA + BR N=289 | Placebo + BR N=289 |
 | --- | --- | --- |
-| Progression Free SurvivalIRC evaluated, twenty-four subjects (8.3%) in the IMBRUVICA + BR arm and six subjects (2.1%) in the placebo + BR arm achieved complete response |  |  |
+| Progression Free Survivala |  |  |
 | Number of events (%) | 56 (19.4) | 183 (63.3) |
 | Median (95% CI), months | NE | 13.3 (11.3, 13.9) |
 | HR (95% CI) | 0.20 (0.15, 0.28) |  |
-| Overall Response Rate | 82.7% | 67.8% |
-| BR = bendamustine and rituximab; CI = confidence interval; HR = hazard ratio; NE = not evaluable |  |  |
+| Overall Response Ratea | 82.7% | 67.8% |
 
-| Figure 4: Kaplan-Meier Curve of Progression-Free Survival (ITT Population) in Patients with CLL/SLL in HELIOS |
-| --- |
+a IRC evaluated, twenty-four subjects (8.3%) in the IMBRUVICA + BR arm and six subjects (2.1%) in the placebo + BR arm achieved complete response
+
+BR = bendamustine and rituximab; CI = confidence interval; HR = hazard ratio; NE = not evaluable
+
+Figure 4: Kaplan-Meier Curve of Progression-Free Survival (ITT Population) in Patients with CLL/SLL in HELIOS
 
 iLLUMINATE
 
@@ -208,20 +221,28 @@ Table 25: Efficacy Results in Patients with CLL/SLL in iLLUMINATE
 
 | Endpoint | IMBRUVICA + Obinutuzumab N=113 | Chlorambucil + Obinutuzumab N=116 |
 | --- | --- | --- |
-| Progression Free SurvivalIRC-evaluated |  |  |
+| Progression Free Survivala |  |  |
 | Number of events (%) | 24 (21) | 74 (64) |
 | Disease progression | 11 | 64 |
 | Death events | 13 | 10 |
 | Median (95% CI), months | NE | 19.0 (15.1, 22.1) |
 | HR (95% CI) | 0.23 (0.15, 0.37) |  |
-| P-valueP-value is from unstratified log-rank test | <0.0001 |  |
-| Overall Response Rate (%) | 88.5 | 73.3 |
-| CRIncludes 1 patient in the IMBRUVICA + obinutuzumab arm with a complete response with incomplete marrow recovery (CRi) (%) | 19.5 | 7.8 |
-| PRPR = nPR +PR (%) | 69.0 | 65.5 |
-| HR = hazard ratio; NE = not evaluable |  |  |
+| P-valueb | <0.0001 |  |
+| Overall Response Rate (%)a | 88.5 | 73.3 |
+| CRc (%) | 19.5 | 7.8 |
+| PRd (%) | 69.0 | 65.5 |
 
-| Figure 5: Kaplan-Meier Curve of Progression-Free Survival (ITT Population) in Patients with CLL/SLL in iLLUMINATE |
-| --- |
+a IRC-evaluated
+
+b P-value is from unstratified log-rank test
+
+c Includes 1 patient in the IMBRUVICA + obinutuzumab arm with a complete response with incomplete marrow recovery (CRi)
+
+d PR = nPR +PR
+
+HR = hazard ratio; NE = not evaluable
+
+Figure 5: Kaplan-Meier Curve of Progression-Free Survival (ITT Population) in Patients with CLL/SLL in iLLUMINATE
 
 In the high risk CLL/SLL population (del 17p/TP53 mutation, del 11q, or unmutated IGHV), the PFS HR was 0.15 [95% CI (0.09, 0.27)].
 
@@ -252,11 +273,13 @@ Table 26: Efficacy Results in Patients with CLL/SLL in E1912
 | Death events | 2 | 6 |
 | Median (95% CI), months | NE (49.4, NE) | NE (47.1, NE) |
 | HR (95% CI) | 0.34 (0.22, 0.52) |  |
-| P-valueP-value is from unstratified log-rank test. | <0.0001 |  |
-| FCR = fludarabine, cyclophosphamide, and rituximab; HR = hazard ratio; R = rituximab; NE = not evaluable |  |  |
+| P-valuea | <0.0001 |  |
 
-| Figure 6: Kaplan-Meier Curve of Progression-Free Survival (ITT Population) in Patients with CLL/SLL in E1912 |
-| --- |
+a P-value is from unstratified log-rank test.
+
+FCR = fludarabine, cyclophosphamide, and rituximab; HR = hazard ratio; R = rituximab; NE = not evaluable
+
+Figure 6: Kaplan-Meier Curve of Progression-Free Survival (ITT Population) in Patients with CLL/SLL in E1912
 
 With a median follow-up time on study of 49 months, median overall survival was not reached with a total of 23 deaths: 11 (3%) in the IMBRUVICA plus rituximab and 12 (7%) in the FCR treatment arms.
 
@@ -266,7 +289,7 @@ Upon initiation of single-agent IMBRUVICA, an increase in lymphocyte counts (i.e
 The onset of isolated lymphocytosis occurs during the first month of IMBRUVICA therapy and resolves by a median of 14 weeks (range, 0.1 to 104 weeks).
 When IMBRUVICA was administered in combination, lymphocytosis was 7% with IMBRUVICA + BR versus 6% with placebo + BR and 7% with IMBRUVICA + obinutuzumab versus 1% with chlorambucil + obinutuzumab.
 
-## 14.3 Waldenström's Macroglobulinemia
+## 14.3 Waldenström’s Macroglobulinemia
 
 The safety and efficacy of IMBRUVICA in patients with WM were demonstrated in two single-arm trials and one randomized, controlled trial.
 
@@ -274,7 +297,7 @@ Study 1118 and INNOVATE Monotherapy Arm
 
 Study 1118 (NCT01614821), an open-label, multi-center, single-arm trial was conducted in 63 previously treated patients with WM.
 IMBRUVICA was administered orally at 420 mg once daily until disease progression or unacceptable toxicity.
-The responses were assessed by investigators and an IRC using criteria adopted from the International Workshop of Waldenström's Macroglobulinemia.
+The responses were assessed by investigators and an IRC using criteria adopted from the International Workshop of Waldenström’s Macroglobulinemia.
 
 The median age was 63 years (range, 44 to 86 years), 76% were male, and 95% were White.
 All patients had a baseline ECOG performance status of 0 or 1.
@@ -321,7 +344,7 @@ An exploratory analysis demonstrated a sustained hemoglobin improvement (defined
 
 With an overall follow-up of 63 months, efficacy results as assessed by an IRC at the time of the final analysis for INNOVATE are shown in Table 28, and the Kaplan-Meier curves for PFS are shown in Figure 7.
 
-Table 28 Efficacy Results in Patients with WM by IRC in INNOVATE (Final Analysis)
+Table 28: Efficacy Results in Patients with WM by IRC in INNOVATE (Final Analysis)
 
 | Endpoint | IMBRUVICA + R N=75 | Placebo + R N=75 |
 | --- | --- | --- |
@@ -329,17 +352,21 @@ Table 28 Efficacy Results in Patients with WM by IRC in INNOVATE (Final Analysis
 | Number of events (%) | 22 (29) | 50 (67) |
 | Median (95% CI), months | NE (57.7, NE) | 20.3 (13.0, 27.6) |
 | HR (95% CI) | 0.25 (0.15, 0.42) |  |
-| P-valueP-value is from the stratified log-rank test | <0.0001 |  |
-| Response Rate (CR+VGPR+PR)P-value associated with response rate was <0.0001 | 76% | 31% |
+| P-valuea | <0.0001 |  |
+| Response Rate (CR+VGPR+PR)b | 76% | 31% |
 | 95% CI (%) | (65, 85) | (21, 42) |
 | Complete Response (CR) | 1% | 1% |
 | Very Good Partial Response (VGPR) | 29% | 4% |
 | Partial Response (PR) | 45% | 25% |
 | Median duration of response, months (range) | NE (1.9+, 58.9+) | NE (4.6+, 49.7+) |
-| CI = confidence interval; HR = hazard ratio; NE = not evaluable; R = rituximab |  |  |
 
-| Figure 7: Kaplan-Meier Curve of Progression-Free Survival (ITT Population) in Patients with WM in INNOVATE |
-| --- |
+CI = confidence interval; HR = hazard ratio; NE = not evaluable; R = rituximab
+
+a P-value is from the stratified log-rank test
+
+b P-value associated with response rate was <0.0001
+
+Figure 7: Kaplan-Meier Curve of Progression-Free Survival (ITT Population) in Patients with WM in INNOVATE
 
 Median overall survival was not reached for either treatment arm.
 With an overall follow-up of 63 months, 9 (12%) patients on IMBRUVICA + R and 10 (13.3%) patients on placebo + R had died.
@@ -387,7 +414,7 @@ Prophylaxis for infections were managed per institutional guidelines with 79% of
 
 Efficacy results are shown in Table 30.
 
-Table 30: Best Overall Response Rate (ORR) and Sustained Response Rate Based on Investigator AssessmentInvestigator assessment based on the 2005 NIH Response Criteria with two modifications (added "not evaluable" for organs with non-cGVHD abnormalities, and organ score change from 0 to 1 was not considered disease progression) in Patients with cGVHD in Study 1129
+Table 30: Best Overall Response Rate (ORR) and Sustained Response Rate Based on Investigator Assessmenta in Patients with cGVHD in Study 1129
 
 |  | Total (N=42) |
 | --- | --- |
@@ -395,8 +422,8 @@ Table 30: Best Overall Response Rate (ORR) and Sustained Response Rate Based on 
 | 95% CI | (51%, 80%) |
 | Complete Response (CR) | 9 (21%) |
 | Partial Response (PR) | 19 (45%) |
-| Sustained response rateSustained response rate is defined as the proportion of patients who achieved a CR or PR that was sustained for at least 20 weeks. | 20 (48%) |
-| CI = confidence interval |  |
+| Sustained response rateb | 20 (48%) |
+| CI = confidence interval a Investigator assessment based on the 2005 NIH Response Criteria with two modifications (added “not evaluable” for organs with non-cGVHD abnormalities, and organ score change from 0 to 1 was not considered disease progression) b Sustained response rate is defined as the proportion of patients who achieved a CR or PR that was sustained for at least 20 weeks. |  |
 
 The median time to response coinciding with the first scheduled response assessment was 12.3 weeks (range, 4.1 to 42.1 weeks).
 Responses were seen across all organs involved for cGVHD (skin, mouth, gastrointestinal tract, and liver).

@@ -1,4 +1,4 @@
-# 6 ADVERSE REACTIONS
+# 6ADVERSE REACTIONS
 
 The following clinically significant adverse reactions are described elsewhere in the labeling:
 
@@ -35,45 +35,34 @@ Table 1: Non-Hematologic Adverse Reactions in ≥ 10% of Patients with MCL (N=11
 
 | Body System | Adverse Reaction | All Grades (%) | Grade 3 or Higher (%) |
 | --- | --- | --- | --- |
-| Gastrointestinal disorders | Diarrhea | 51 | 5 |
-| Nausea | 31 | 0 |  |
-| Constipation | 25 | 0 |  |
-| Abdominal pain | 24 | 5 |  |
-| Vomiting | 23 | 0 |  |
-| Stomatitis | 17 | 1 |  |
-| Dyspepsia | 11 | 0 |  |
+| Gastrointestinal disorders | Diarrhea Nausea Constipation Abdominal pain Vomiting Stomatitis Dyspepsia | 51 31 25 24 23 17 11 | 5 0 0 5 0 1 0 |
 | General disorders and administration site conditions | Fatigue | 41 | 5 |
-| Peripheral edema | 35 | 3 |  |
-| Pyrexia | 18 | 1 |  |
-| Asthenia | 14 | 3 |  |
-| Musculoskeletal and connective tissue disorders | Musculoskeletal pain | 37 | 1 |
-| Muscle spasms | 14 | 0 |  |
-| Arthralgia | 11 | 0 |  |
-| Infections and infestations | Upper respiratory tract infection | 34 | 0 |
-| Urinary tract infection | 14 | 3 |  |
-| Pneumonia | 14 | 8Includes one event with a fatal outcome. |  |
-| Skin infections | 14 | 5 |  |
-| Sinusitis | 13 | 1 |  |
-| Skin and subcutaneous tissue disorders | Bruising | 30 | 0 |
-| Rash | 25 | 3 |  |
-| Petechiae | 11 | 0 |  |
-| Respiratory, thoracic and mediastinal disorders | Dyspnea | 27 | 5 |
-| Cough | 19 | 0 |  |
-| Epistaxis | 11 | 0 |  |
-| Metabolism and nutrition disorders | Decreased appetite | 21 | 2 |
-| Dehydration | 12 | 4 |  |
-| Nervous system disorders | Dizziness | 14 | 0 |
-| Headache | 13 | 0 |  |
+|  | Peripheral edema | 35 | 3 |
+|  | Pyrexia | 18 | 1 |
+|  | Asthenia | 14 | 3 |
+| Musculoskeletal and connective tissue disorders | Musculoskeletal pain Muscle spasms Arthralgia | 37 14 11 | 1 0 0 |
+| Infections and infestations | Upper respiratory tract infection Urinary tract infection Pneumonia Skin infections Sinusitis | 34 14 14 14 13 | 0 3 8† 5 1 |
+| Skin and subcutaneous tissue disorders | Bruising Rash Petechiae | 30 25 11 | 0 3 0 |
+| Respiratory, thoracic and mediastinal disorders | Dyspnea | 27 | 5† |
+|  | Cough | 19 | 0 |
+|  | Epistaxis | 11 | 0 |
+| Metabolism and nutrition disorders | Decreased appetite Dehydration | 21 12 | 2 4 |
+| Nervous system disorders | Dizziness Headache | 14 13 | 0 0 |
 
-Table 2: Treatment-EmergentBased on laboratory measurements and adverse reactions Hematologic Laboratory Abnormalities in Patients with MCL (N=111)
+† Includes one event with a fatal outcome.
 
-| All Grades (%) | Grade 3 or 4 (%) |  |
-| --- | --- | --- |
+Table 2: Treatment-Emergent* Hematologic Laboratory Abnormalities in Patients with MCL (N=111)
+
 |  | Percent of Patients (N=111) |  |
+| --- | --- | --- |
+|  | All Grades (%) | Grade 3 or 4 (%) |
 | Platelets decreased | 57 | 17 |
 | Neutrophils decreased | 47 | 29 |
 | Hemoglobin decreased | 41 | 9 |
-| Treatment-emergent Grade 4 thrombocytopenia (6%) and neutropenia (13%) occurred in patients. |  |  |
+
+* Based on laboratory measurements and adverse reactions
+
+Treatment-emergent Grade 4 thrombocytopenia (6%) and neutropenia (13%) occurred in patients.
 
 Ten patients (9%) discontinued treatment due to adverse reactions in the trial (N=111).
 The most frequent adverse reaction leading to treatment discontinuation was subdural hematoma (1.8%).
@@ -88,8 +77,8 @@ Adverse reaction of hyperuricemia was reported for 15% of patients.
 Chronic Lymphocytic Leukemia/Small Lymphocytic Lymphoma
 
 The data described below reflect exposure to IMBRUVICA in one single-arm, open-label clinical trial (Study 1102) and five randomized controlled clinical trials (RESONATE, RESONATE-2, HELIOS, iLLUMINATE, and E1912) in patients with CLL/SLL (n=2,016 total, including n=1,133 patients exposed to IMBRUVICA).
-In general, patients with creatinine clearance (CLcr) ≤ 30 mL/min, AST or ALT ≥ 2.5 × ULN, or total bilirubin ≥ 1.5× ULN (unless of non-hepatic origin) were excluded from these trials.
-In Study E1912, patients with AST or ALT > 3 × ULN or total bilirubin > 2.5 × ULN were excluded.
+In general, patients with creatinine clearance (CLcr) ≤ 30 mL/min, AST or ALT ≥ 2.5 x ULN, or total bilirubin ≥ 1.5x ULN (unless of non-hepatic origin) were excluded from these trials.
+In Study E1912, patients with AST or ALT > 3 x ULN or total bilirubin > 2.5 x ULN were excluded.
 Study 1102 included 51 patients with previously treated CLL/SLL.
 RESONATE included 386 randomized patients with previously treated CLL or SLL who received single agent IMBRUVICA or ofatumumab.
 RESONATE-2 included 267 randomized patients with treatment naïve CLL or SLL who were 65 years or older and received single agent IMBRUVICA or chlorambucil.
@@ -110,48 +99,31 @@ Table 3: Non-Hematologic Adverse Reactions in ≥ 10% of Patients with CLL/SLL (
 
 | Body System | Adverse Reaction | All Grades (%) | Grade 3 or Higher (%) |
 | --- | --- | --- | --- |
-| Gastrointestinal disorders | Diarrhea | 59 | 4 |
-| Constipation | 22 | 2 |  |
-| Nausea | 20 | 2 |  |
-| Stomatitis | 20 | 0 |  |
-| Vomiting | 18 | 2 |  |
-| Abdominal pain | 14 | 0 |  |
-| Dyspepsia | 12 | 0 |  |
-| Skin and subcutaneous tissue disorders | Bruising | 51 | 2 |
-| Rash | 25 | 0 |  |
-| Petechiae | 16 | 0 |  |
-| Infections and infestations | Upper respiratory tract infection | 47 | 2 |
-| Sinusitis | 22 | 6 |  |
-| Skin infection | 16 | 6 |  |
-| Pneumonia | 12 | 10 |  |
-| Urinary tract infection | 12 | 2 |  |
-| General disorders and administration site conditions | Fatigue | 33 | 6 |
-| Pyrexia | 24 | 2 |  |
-| Peripheral edema | 22 | 0 |  |
-| Asthenia | 14 | 6 |  |
-| Chills | 12 | 0 |  |
-| Musculoskeletal and connective tissue disorders | Musculoskeletal pain | 25 | 6 |
-| Arthralgia | 24 | 0 |  |
-| Muscle spasms | 18 | 2 |  |
-| Respiratory, thoracic and mediastinal disorders | Cough | 22 | 0 |
-| Oropharyngeal pain | 14 | 0 |  |
-| Dyspnea | 12 | 0 |  |
-| Nervous system disorders | Dizziness | 20 | 0 |
-| Headache | 18 | 2 |  |
+| Gastrointestinal disorders | Diarrhea Constipation Nausea Stomatitis Vomiting Abdominal pain Dyspepsia | 59 22 20 20 18 14 12 | 4 2 2 0 2 0 0 |
+| Skin and subcutaneous tissue disorders | Bruising Rash Petechiae | 51 25 16 | 2 0 0 |
+| Infections and infestations | Upper respiratory tract infection Sinusitis Skin infection Pneumonia Urinary tract infection | 47 22 16 12 12 | 2 6 6 10 2 |
+| General disorders and administration site conditions | Fatigue Pyrexia Peripheral edema Asthenia Chills | 33 24 22 14 12 | 6 2 0 6 0 |
+| Musculoskeletal and connective tissue disorders | Musculoskeletal pain Arthralgia Muscle spasms | 25 24 18 | 6 0 2 |
+| Respiratory, thoracic and mediastinal disorders | Cough Oropharyngeal pain Dyspnea | 22 14 12 | 0 0 0 |
+| Nervous system disorders | Dizziness Headache | 20 18 | 0 2 |
 | Vascular disorders | Hypertension | 16 | 8 |
 | Metabolism and nutrition disorders | Decreased appetite | 16 | 2 |
-| Neoplasms benign, malignant, unspecified | Second malignancies | 10 | 2One patient death due to histiocytic sarcoma. |
+| Neoplasms benign, malignant, unspecified | Second malignancies | 10 | 2† |
 
-Table 4: Treatment-EmergentBased on laboratory measurements per IWCLL criteria and adverse reactions.
-Hematologic Laboratory Abnormalities in Patients with CLL/SLL (N=51) in Study 1102
+†One patient death due to histiocytic sarcoma.
 
-| All Grades (%) | Grade 3 or 4 (%) |  |
-| --- | --- | --- |
+Table 4: Treatment-Emergent* Hematologic Laboratory Abnormalities in Patients with CLL/SLL (N=51) in Study 1102
+
 |  | Percent of Patients (N=51) |  |
+| --- | --- | --- |
+|  | All Grades (%) | Grade 3 or 4 (%) |
 | Platelets decreased | 69 | 12 |
 | Neutrophils decreased | 53 | 26 |
 | Hemoglobin decreased | 43 | 0 |
-| Treatment-emergent Grade 4 thrombocytopenia (8%) and neutropenia (12%) occurred in patients. |  |  |
+
+* Based on laboratory measurements per IWCLL criteria and adverse reactions.
+
+Treatment-emergent Grade 4 thrombocytopenia (8%) and neutropenia (12%) occurred in patients.
 
 RESONATE
 
@@ -159,32 +131,32 @@ Adverse reactions and laboratory abnormalities described below in Tables 5 and 6
 
 Table 5: Adverse Reactions Reported in ≥ 10% of Patients in the IMBRUVICA Treated Arm in Patients with CLL/SLL in RESONATE
 
-| All Grades (%) | Grade 3 or Higher (%) | All Grades (%) | Grade 3 or Higher (%) |  |
-| --- | --- | --- | --- | --- |
 | Body System Adverse Reaction | IMBRUVICA (N=195) |  | Ofatumumab (N=191) |  |
+| --- | --- | --- | --- | --- |
+|  | All Grades (%) | Grade 3 or Higher (%) | All Grades (%) | Grade 3 or Higher (%) |
 | Gastrointestinal disorders |  |  |  |  |
 | Diarrhea | 48 | 4 | 18 | 2 |
 | Nausea | 26 | 2 | 18 | 0 |
-| StomatitisIncludes multiple ADR terms | 17 | 1 | 6 | 1 |
+| Stomatitis* | 17 | 1 | 6 | 1 |
 | Constipation | 15 | 0 | 9 | 0 |
 | Vomiting | 14 | 0 | 6 | 1 |
 | Musculoskeletal and connective tissue disorders |  |  |  |  |
-| Musculoskeletal pain | 28 | 2 | 18 | 1 |
+| Musculoskeletal pain* | 28 | 2 | 18 | 1 |
 | Arthralgia | 17 | 1 | 7 | 0 |
 | Muscle spasms | 13 | 0 | 8 | 0 |
 | Skin and subcutaneous tissue disorders |  |  |  |  |
-| Rash | 24 | 3 | 13 | 0 |
+| Rash* | 24 | 3 | 13 | 0 |
 | Petechiae | 14 | 0 | 1 | 0 |
-| Bruising | 12 | 0 | 1 | 0 |
+| Bruising* | 12 | 0 | 1 | 0 |
 | General disorders and administration site conditions |  |  |  |  |
-| Pyrexia | 24 | 2 | 15 | 2Includes 3 events of pneumonia with fatal outcome in each arm, and 1 event of pyrexia and upper respiratory tract infection with a fatal outcome in the ofatumumab arm. |
+| Pyrexia | 24 | 2 | 15 | 2† |
 | Respiratory, thoracic and mediastinal disorders |  |  |  |  |
 | Cough | 19 | 0 | 23 | 1 |
 | Dyspnea | 12 | 2 | 10 | 1 |
 | Infections and infestations |  |  |  |  |
-| Upper respiratory tract infection | 16 | 1 | 11 | 2 |
-| Pneumonia | 15 | 12 | 13 | 10 |
-| Sinusitis | 11 | 1 | 6 | 0 |
+| Upper respiratory tract infection | 16 | 1 | 11 | 2† |
+| Pneumonia* | 15 | 12† | 13 | 10† |
+| Sinusitis* | 11 | 1 | 6 | 0 |
 | Urinary tract infection | 10 | 4 | 5 | 1 |
 | Nervous system disorders |  |  |  |  |
 | Headache | 14 | 1 | 6 | 0 |
@@ -193,17 +165,18 @@ Table 5: Adverse Reactions Reported in ≥ 10% of Patients in the IMBRUVICA Trea
 | Contusion | 11 | 0 | 3 | 0 |
 | Eye disorders |  |  |  |  |
 | Vision blurred | 10 | 0 | 3 | 0 |
-| The body system and individual ADR terms are sorted in descending frequency order in the IMBRUVICA arm. |  |  |  |  |
+| The body system and individual ADR terms are sorted in descending frequency order in the IMBRUVICA arm. * Includes multiple ADR terms † Includes 3 events of pneumonia with fatal outcome in each arm, and 1 event of pyrexia and upper respiratory tract infection with a fatal outcome in the ofatumumab arm. |  |  |  |  |
 
 Table 6: Treatment-Emergent Hematologic Laboratory Abnormalities in Patients with CLL/SLL in RESONATE
 
-| All Grades (%) | Grade 3 or 4 (%) | All Grades (%) | Grade 3 or 4 (%) |  |
-| --- | --- | --- | --- | --- |
 |  | IMBRUVICA (N=195) |  | Ofatumumab (N=191) |  |
+| --- | --- | --- | --- | --- |
+|  | All Grades (%) | Grade 3 or 4 (%) | All Grades (%) | Grade 3 or 4 (%) |
 | Neutrophils decreased | 51 | 23 | 57 | 26 |
 | Platelets decreased | 52 | 5 | 45 | 10 |
 | Hemoglobin decreased | 36 | 0 | 21 | 0 |
-| Treatment-emergent Grade 4 thrombocytopenia (2% in the IMBRUVICA arm vs 3% in the ofatumumab arm) and neutropenia (8% in the IMBRUVICA arm vs 8% in the ofatumumab arm) occurred in patients. |  |  |  |  |
+
+Treatment-emergent Grade 4 thrombocytopenia (2% in the IMBRUVICA arm vs 3% in the ofatumumab arm) and neutropenia (8% in the IMBRUVICA arm vs 8% in the ofatumumab arm) occurred in patients.
 
 RESONATE-2
 
@@ -212,19 +185,19 @@ The median exposure to chlorambucil was 7.1 months in RESONATE-2.
 
 Table 7: Adverse Reactions Reported in ≥ 10% of Patients in the IMBRUVICA Treated Arm in Patients with CLL/SLL in RESONATE-2
 
-| All Grades (%) | Grade 3 or Higher (%) | All Grades (%) | Grade 3 or Higher (%) |  |
-| --- | --- | --- | --- | --- |
 | Body System Adverse Reaction | IMBRUVICA (N=135) |  | Chlorambucil (N=132) |  |
+| --- | --- | --- | --- | --- |
+|  | All Grades (%) | Grade 3 or Higher (%) | All Grades (%) | Grade 3 or Higher (%) |
 | Gastrointestinal disorders |  |  |  |  |
 | Diarrhea | 42 | 4 | 17 | 0 |
 | Nausea | 22 | 1 | 39 | 1 |
 | Constipation | 16 | 1 | 16 | 0 |
-| StomatitisIncludes multiple ADR terms | 14 | 1 | 4 | 1 |
+| Stomatitis* | 14 | 1 | 4 | 1 |
 | Vomiting | 13 | 0 | 20 | 1 |
 | Abdominal pain | 13 | 3 | 11 | 1 |
 | Dyspepsia | 11 | 0 | 2 | 0 |
 | Musculoskeletal and connective tissue disorders |  |  |  |  |
-| Musculoskeletal pain | 36 | 4 | 20 | 0 |
+| Musculoskeletal pain* | 36 | 4 | 20 | 0 |
 | Arthralgia | 16 | 1 | 7 | 1 |
 | Muscle spasms | 11 | 0 | 5 | 0 |
 | General disorders and administration site conditions |  |  |  |  |
@@ -235,8 +208,8 @@ Table 7: Adverse Reactions Reported in ≥ 10% of Patients in the IMBRUVICA Trea
 | Cough | 22 | 0 | 15 | 0 |
 | Dyspnea | 10 | 1 | 10 | 0 |
 | Skin and subcutaneous tissue disorders |  |  |  |  |
-| Rash | 21 | 4 | 12 | 2 |
-| Bruising | 19 | 0 | 7 | 0 |
+| Rash* | 21 | 4 | 12 | 2 |
+| Bruising* | 19 | 0 | 7 | 0 |
 | Eye disorders |  |  |  |  |
 | Dry eye | 17 | 0 | 5 | 0 |
 | Lacrimation increased | 13 | 0 | 6 | 0 |
@@ -244,27 +217,33 @@ Table 7: Adverse Reactions Reported in ≥ 10% of Patients in the IMBRUVICA Trea
 | Visual acuity reduced | 11 | 0 | 2 | 0 |
 | Infections and infestations |  |  |  |  |
 | Upper respiratory tract infection | 17 | 2 | 17 | 2 |
-| Skin infection | 15 | 2 | 3 | 1 |
-| Pneumonia | 14 | 8 | 7 | 4 |
+| Skin infection* | 15 | 2 | 3 | 1 |
+| Pneumonia* | 14 | 8 | 7 | 4 |
 | Urinary tract infections | 10 | 1 | 8 | 1 |
 | Vascular disorders |  |  |  |  |
-| Hypertension | 14 | 4 | 1 | 0 |
+| Hypertension* | 14 | 4 | 1 | 0 |
 | Nervous system disorders |  |  |  |  |
 | Headache | 12 | 1 | 10 | 2 |
 | Dizziness | 11 | 0 | 12 | 1 |
 | Investigations |  |  |  |  |
 | Weight decreased | 10 | 0 | 12 | 0 |
-| Subjects with multiple events for a given ADR term are counted once only for each ADR term. The body system and individual ADR terms are sorted in descending frequency order in the IMBRUVICA arm. |  |  |  |  |
+
+Subjects with multiple events for a given ADR term are counted once only for each ADR term.
+
+The body system and individual ADR terms are sorted in descending frequency order in the IMBRUVICA arm.
+
+* Includes multiple ADR terms
 
 Table 8: Treatment-Emergent Hematologic Laboratory Abnormalities in Patients with CLL/SLL in RESONATE-2
 
-| All Grades (%) | Grade 3 or 4 (%) | All Grades (%) | Grade 3 or 4 (%) |  |
-| --- | --- | --- | --- | --- |
 |  | IMBRUVICA (N=135) |  | Chlorambucil (N=132) |  |
+| --- | --- | --- | --- | --- |
+|  | All Grades (%) | Grade 3 or 4 (%) | All Grades (%) | Grade 3 or 4 (%) |
 | Neutrophils Decreased | 55 | 28 | 67 | 31 |
 | Platelets Decreased | 47 | 7 | 58 | 14 |
 | Hemoglobin Decreased | 36 | 0 | 39 | 2 |
-| Treatment-emergent Grade 4 thrombocytopenia (1% in the IMBRUVICA arm vs 3% in the chlorambucil arm) and neutropenia (11% in the IMBRUVICA arm vs 12% in the chlorambucil arm) occurred in patients. |  |  |  |  |
+
+Treatment-emergent Grade 4 thrombocytopenia (1% in the IMBRUVICA arm vs 3% in the chlorambucil arm) and neutropenia (11% in the IMBRUVICA arm vs 12% in the chlorambucil arm) occurred in patients.
 
 HELIOS
 
@@ -272,32 +251,39 @@ Adverse reactions described below in Table 9 reflect exposure to IMBRUVICA + BR 
 
 Table 9: Adverse Reactions Reported in at Least 10% of Patients and at Least 2% Greater in the IMBRUVICA Arm in Patients with CLL/SLL in HELIOS
 
-| All Grades (%) | Grade 3 or Higher (%) | All Grades (%) | Grade 3 or Higher (%) |  |
-| --- | --- | --- | --- | --- |
 | Body System Adverse Reaction | IMBRUVICA + BR (N=287) |  | Placebo + BR (N=287) |  |
+| --- | --- | --- | --- | --- |
+|  | All Grades (%) | Grade 3 or Higher (%) | All Grades (%) | Grade 3 or Higher (%) |
 | Blood and lymphatic system disorders |  |  |  |  |
-| NeutropeniaIncludes multiple ADR terms | 66 | 61 | 60 | 56Includes 2 events of hemorrhage with fatal outcome in the IMBRUVICA arm and 1 event of neutropenia with a fatal outcome in the placebo + BR arm. |
-| Thrombocytopenia | 34 | 16 | 26 | 16 |
+| Neutropenia* | 66 | 61 | 60 | 56† |
+| Thrombocytopenia* | 34 | 16 | 26 | 16 |
 | Gastrointestinal disorders |  |  |  |  |
 | Diarrhea | 36 | 2 | 23 | 1 |
 | Abdominal pain | 12 | 1 | 8 | <1 |
 | Skin and subcutaneous tissue disorders |  |  |  |  |
-| Rash | 32 | 4 | 25 | 1 |
-| Bruising | 20 | <1 | 8 | <1 |
+| Rash * | 32 | 4 | 25 | 1 |
+| Bruising * | 20 | <1 | 8 | <1 |
 | Musculoskeletal and connective tissue disorders |  |  |  |  |
-| Musculoskeletal pain | 29 | 2 | 20 | 0 |
+| Musculoskeletal pain* | 29 | 2 | 20 | 0 |
 | Muscle spasms | 12 | <1 | 5 | 0 |
 | General disorders and administration site conditions |  |  |  |  |
 | Pyrexia | 25 | 4 | 22 | 2 |
 | Vascular disorders |  |  |  |  |
-| Hemorrhage | 19 | 2 | 9 | 1 |
-| Hypertension | 11 | 5 | 5 | 2 |
+| Hemorrhage* | 19 | 2† | 9 | 1 |
+| Hypertension * | 11 | 5 | 5 | 2 |
 | Infections and infestations |  |  |  |  |
 | Bronchitis | 13 | 2 | 10 | 3 |
-| Skin infection | 10 | 3 | 6 | 2 |
+| Skin infection* | 10 | 3 | 6 | 2 |
 | Metabolism and nutrition disorders |  |  |  |  |
 | Hyperuricemia | 10 | 2 | 6 | 0 |
-| The body system and individual ADR terms are sorted in descending frequency order in the IMBRUVICA arm. <1 used for frequency above 0 and below 0.5% |  |  |  |  |
+
+The body system and individual ADR terms are sorted in descending frequency order in the IMBRUVICA arm.
+
+* Includes multiple ADR terms
+
+<1 used for frequency above 0 and below 0.5%
+
+† Includes 2 events of hemorrhage with fatal outcome in the IMBRUVICA arm and 1 event of neutropenia with a fatal outcome in the placebo + BR arm.
 
 Atrial fibrillation of any grade occurred in 7% of patients treated with IMBRUVICA + BR and 2% of patients treated with placebo + BR.
 The frequency of Grade 3 and 4 atrial fibrillation was 3% in patients treated with IMBRUVICA + BR and 1% in patients treated with placebo + BR.
@@ -308,22 +294,22 @@ Adverse reactions described below in Table 10 reflect exposure to IMBRUVICA + ob
 
 Table 10: Adverse Reactions Reported in at Least 10% of Patients in the IMBRUVICA Arm in Patients with CLL/SLL in iLLUMINATE
 
-| All Grades (%) | Grade 3 or Higher (%) | All Grades (%) | Grade 3 or Higher (%) |  |
-| --- | --- | --- | --- | --- |
 | Body System Adverse Reaction | IMBRUVICA + Obinutuzumab (N=113) |  | Chlorambucil + Obinutuzumab (N=115) |  |
+| --- | --- | --- | --- | --- |
+|  | All Grades (%) | Grade 3 or Higher (%) | All Grades (%) | Grade 3 or Higher (%) |
 | Blood and lymphatic system disorders |  |  |  |  |
-| NeutropeniaIncludes multiple ADR terms | 48 | 39 | 64 | 48 |
-| Thrombocytopenia | 36 | 19 | 28 | 11 |
+| Neutropenia* | 48 | 39 | 64 | 48 |
+| Thrombocytopenia* | 36 | 19 | 28 | 11 |
 | Anemia | 17 | 4 | 25 | 8 |
 | Skin and subcutaneous tissue disorders |  |  |  |  |
-| Rash | 36 | 3 | 11 | 0 |
-| Bruising | 32 | 3 | 3 | 0 |
+| Rash* | 36 | 3 | 11 | 0 |
+| Bruising* | 32 | 3 | 3 | 0 |
 | Gastrointestinal disorders |  |  |  |  |
 | Diarrhea | 34 | 3 | 10 | 0 |
 | Constipation | 16 | 0 | 12 | 1 |
 | Nausea | 12 | 0 | 30 | 0 |
 | Musculoskeletal and connective tissue disorders |  |  |  |  |
-| Musculoskeletal pain | 33 | 1 | 23 | 3 |
+| Musculoskeletal pain* | 33 | 1 | 23 | 3 |
 | Arthralgia | 22 | 1 | 10 | 0 |
 | Muscle spasms | 13 | 0 | 6 | 0 |
 | Respiratory, thoracic and mediastinal disorders |  |  |  |  |
@@ -331,16 +317,16 @@ Table 10: Adverse Reactions Reported in at Least 10% of Patients in the IMBRUVIC
 | Injury, poisoning and procedural complications |  |  |  |  |
 | Infusion related reaction | 25 | 2 | 58 | 8 |
 | Vascular disorders |  |  |  |  |
-| Hemorrhage | 25 | 1 | 9 | 0 |
-| Hypertension | 17 | 4 | 4 | 3 |
+| Hemorrhage* | 25 | 1 | 9 | 0 |
+| Hypertension* | 17 | 4 | 4 | 3 |
 | General disorders and administration site conditions |  |  |  |  |
 | Pyrexia | 19 | 2 | 26 | 1 |
 | Fatigue | 18 | 0 | 17 | 2 |
 | Peripheral edema | 12 | 0 | 7 | 0 |
 | Infections and infestations |  |  |  |  |
-| Pneumonia | 16 | 9 | 9 | 4Includes one event with a fatal outcome. |
+| Pneumonia* | 16 | 9 | 9 | 4† |
 | Upper respiratory tract infection | 14 | 1 | 6 | 0 |
-| Skin infection | 13 | 1 | 3 | 0 |
+| Skin infection* | 13 | 1 | 3 | 0 |
 | Urinary tract infection | 12 | 3 | 7 | 1 |
 | Nasopharyngitis | 12 | 0 | 3 | 0 |
 | Conjunctivitis | 11 | 0 | 2 | 0 |
@@ -350,7 +336,12 @@ Table 10: Adverse Reactions Reported in at Least 10% of Patients in the IMBRUVIC
 | Atrial fibrillation | 12 | 5 | 0 | 0 |
 | Psychiatric disorders |  |  |  |  |
 | Insomnia | 12 | 0 | 4 | 0 |
-| The body system and individual ADR terms are sorted in descending frequency order in the IMBRUVICA arm. |  |  |  |  |
+
+The body system and individual ADR terms are sorted in descending frequency order in the IMBRUVICA arm.
+
+* Includes multiple ADR terms
+
+† Includes one event with a fatal outcome.
 
 E1912
 
@@ -358,63 +349,61 @@ Adverse reactions described below in Table 11 reflect exposure to IMBRUVICA + ri
 
 Table 11: Adverse Reactions Reported in at Least 15% of Patients in the IMBRUVICA Arm in Patients with CLL/SLL in E1912
 
-| All Grades (%) | Grade 3 or Higher (%) | All Grades (%) | Grade 3 or Higher (%) |  |
-| --- | --- | --- | --- | --- |
 | Body System Adverse Reaction | IMBRUVICA + Rituximab (N=352) |  | Fludarabine + Cyclophosphamide + Rituximab (N=158) |  |
+| --- | --- | --- | --- | --- |
+|  | All Grades (%) | Grade 3 or Higher (%) | All Grades (%) | Grade 3 or Higher (%) |
 | General disorders and administration site conditions |  |  |  |  |
 | Fatigue | 80 | 2 | 78 | 3 |
 | Peripheral edema | 28 | 1 | 17 | 0 |
 | Pyrexia | 27 | 1 | 27 | 1 |
 | Pain | 23 | 2 | 8 | 0 |
 | Musculoskeletal and connective tissue disorders |  |  |  |  |
-| Musculoskeletal painIncludes multiple ADR terms | 61 | 5 | 35 | 2 |
+| Musculoskeletal pain* | 61 | 5 | 35 | 2 |
 | Arthralgia | 41 | 5 | 10 | 1 |
 | Gastrointestinal disorders |  |  |  |  |
 | Diarrhea | 53 | 4 | 27 | 1 |
 | Nausea | 40 | 1 | 64 | 1 |
-| Stomatitis | 22 | 1 | 8 | 1 |
-| Abdominal pain | 19 | 2 | 10 | 1 |
+| Stomatitis* | 22 | 1 | 8 | 1 |
+| Abdominal pain* | 19 | 2 | 10 | 1 |
 | Vomiting | 18 | 2 | 28 | 0 |
 | Constipation | 17 | 0 | 32 | 0 |
 | Skin and subcutaneous tissue disorders |  |  |  |  |
-| Rash | 49 | 4 | 29 | 5 |
-| Bruising | 36 | 1 | 4 | 1 |
+| Rash* | 49 | 4 | 29 | 5 |
+| Bruising* | 36 | 1 | 4 | 1 |
 | Vascular disorders |  |  |  |  |
-| Hypertension | 42 | 19 | 22 | 6 |
-| Hemorrhage | 31 | 2 | 8 | 1 |
+| Hypertension* | 42 | 19 | 22 | 6 |
+| Hemorrhage* | 31 | 2 | 8 | 1 |
 | Nervous system disorders |  |  |  |  |
 | Headache | 40 | 1 | 27 | 1 |
 | Dizziness | 21 | 1 | 13 | 1 |
-| Peripheral neuropathy | 19 | 1 | 13 | 1 |
+| Peripheral neuropathy* | 19 | 1 | 13 | 1 |
 | Respiratory, thoracic and mediastinal disorders |  |  |  |  |
 | Cough | 32 | 0 | 25 | 0 |
 | Dyspnea | 22 | 2 | 21 | 1 |
 | Infections and infestations |  |  |  |  |
 | Upper respiratory tract infection | 29 | 1 | 19 | 2 |
-| Skin infection | 16 | 1 | 3 | 1 |
+| Skin infection* | 16 | 1 | 3 | 1 |
 | Metabolism and nutrition disorders |  |  |  |  |
 | Hyperuricemia | 19 | 1 | 4 | 0 |
 | Decreased appetite | 15 | 0 | 20 | 1 |
 | Psychiatric disorders |  |  |  |  |
 | Insomnia | 16 | 1 | 19 | 1 |
-| The body system and individual ADR terms are sorted in descending frequency order in the IMBRUVICA arm. |  |  |  |  |
+
+The body system and individual ADR terms are sorted in descending frequency order in the IMBRUVICA arm.
+
+* Includes multiple ADR terms
 
 Table 12: Select Laboratory Abnormalities (≥ 15% Any Grade), New or Worsening from Baseline in Patients Receiving IMBRUVICA (E1912)
 
-| All Grades (%) | Grade 3 or 4 (%) | All Grades (%) | Grade 3 or 4 (%) |  |
-| --- | --- | --- | --- | --- |
 |  | IMBRUVICA + Rituximab (N=352) |  | Fludarabine + Cyclophosphamide + Rituximab (N=158) |  |
-| Hematology abnormalities |  |  |  |  |
-| Neutrophils decreased | 53 | 30 | 70 | 44 |
-| Platelets decreased | 43 | 7 | 69 | 25 |
-| Hemoglobin decreased | 26 | 0 | 51 | 2 |
-| Chemistry abnormalities |  |  |  |  |
-| Creatinine increased | 38 | 1 | 17 | 1 |
-| Bilirubin increased | 30 | 2 | 15 | 0 |
-| AST increased | 25 | 3 | 23 | <1 |
-| Based on laboratory measurements per IWCLL criteria |  |  |  |  |
+| --- | --- | --- | --- | --- |
+|  | All Grades (%) | Grade 3 or 4 (%) | All Grades (%) | Grade 3 or 4 (%) |
+| Hematology abnormalities Neutrophils decreased Platelets decreased Hemoglobin decreased | 53 43 26 | 30 7 0 | 70 69 51 | 44 25 2 |
+| Chemistry abnormalities Creatinine increased Bilirubin increased AST increased | 38 30 25 | 1 2 3 | 17 15 23 | 1 0 <1 |
 
-Waldenström's Macroglobulinemia and Marginal Zone Lymphoma
+Based on laboratory measurements per IWCLL criteria
+
+Waldenström’s Macroglobulinemia and Marginal Zone Lymphoma
 
 The data described below reflect exposure to IMBRUVICA in three single-arm open-label clinical trials (Study 1118, Study 1121, and INNOVATE monotherapy arm) and one randomized controlled trial (INNOVATE) in patients with WM or MZL, including a total n=307 patients overall and n=232 patients exposed to IMBRUVICA.
 Study 1118 included 63 patients with previously treated WM who received single agent IMBRUVICA.
@@ -436,37 +425,29 @@ Table 13: Non-Hematologic Adverse Reactions in ≥ 10% in Patients with WM in St
 
 | Body System | Adverse Reaction | All Grades (%) | Grade 3 or Higher (%) |
 | --- | --- | --- | --- |
-| Gastrointestinal disorders | Diarrhea | 38 | 2 |
-| Nausea | 21 | 0 |  |
-| StomatitisIncludes multiple ADR terms. | 15 | 0 |  |
-| Constipation | 12 | 1 |  |
-| Gastroesophageal reflux disease | 12 | 0 |  |
-| Skin and subcutaneous tissue disorders | Bruising | 28 | 1 |
-| Rash | 21 | 1 |  |
-| Vascular disorders | Hemorrhage | 28 | 0 |
-| Hypertension | 14 | 4 |  |
-| General disorders and administrative site conditions | Fatigue | 18 | 2 |
-| Pyrexia | 12 | 2 |  |
-| Musculoskeletal and connective tissue disorders | Musculoskeletal pain | 21 | 0 |
-| Muscle spasms | 19 | 0 |  |
-| Infections and infestations | Upper respiratory tract infection | 19 | 0 |
-| Skin infection | 18 | 3 |  |
-| Sinusitis | 16 | 0 |  |
-| Pneumonia | 13 | 5 |  |
-| Nervous system disorders | Headache | 14 | 0 |
-| Dizziness | 13 | 0 |  |
+| Gastrointestinal disorders | Diarrhea Nausea Stomatitis* Constipation Gastroesophageal reflux disease | 38 21 15 12 12 | 2 0 0 1 0 |
+| Skin and subcutaneous tissue disorders | Bruising* Rash* | 28 21 | 1 1 |
+| Vascular disorders | Hemorrhage* Hypertension* | 28 14 | 0 4 |
+| General disorders and administrative site conditions | Fatigue Pyrexia | 18 12 | 2 2 |
+| Musculoskeletal and connective tissue disorders | Musculoskeletal pain* Muscle spasms | 21 19 | 0 0 |
+| Infections and infestations | Upper respiratory tract infection Skin infection* Sinusitis* Pneumonia* | 19 18 16 13 | 0 3 0 5 |
+| Nervous system disorders | Headache Dizziness | 14 13 | 0 0 |
 | Respiratory, thoracic and mediastinal disorders | Cough | 13 | 0 |
-| The body system and individual ADR preferred terms are sorted in descending frequency order. |  |  |  |
+
+The body system and individual ADR preferred terms are sorted in descending frequency order.
+
+* Includes multiple ADR terms.
 
 Table 14: Treatment-Emergent Hematologic Laboratory Abnormalities in Patients with WM in Study 1118 and the INNOVATE Monotherapy Arm (N=94)
 
-| All Grades (%) | Grade 3 or 4 (%) |  |
-| --- | --- | --- |
 |  | Percent of Patients (N=94) |  |
+| --- | --- | --- |
+|  | All Grades (%) | Grade 3 or 4 (%) |
 | Platelets Decreased | 38 | 11 |
 | Neutrophils Decreased | 43 | 16 |
 | Hemoglobin Decreased | 21 | 6 |
-| Treatment-emergent Grade 4 thrombocytopenia (4%) and neutropenia (7%) occurred in patients. |  |  |
+
+Treatment-emergent Grade 4 thrombocytopenia (4%) and neutropenia (7%) occurred in patients.
 
 INNOVATE
 
@@ -474,27 +455,27 @@ Adverse reactions described below in Table 15 reflect exposure to IMBRUVICA + R 
 
 Table 15: Adverse Reactions Reported in at Least 10% of Patients and at Least 2% Greater in the IMBRUVICA Arm in Patients with WM in INNOVATE
 
-| All Grades (%) | Grade 3 or Higher (%) | All Grades (%) | Grade 3 or Higher (%) |  |
-| --- | --- | --- | --- | --- |
 | Body System Adverse Reaction | IMBRUVICA + R (N=75) |  | Placebo + R (N=75) |  |
+| --- | --- | --- | --- | --- |
+|  | All Grades (%) | Grade 3 or Higher (%) | All Grades (%) | Grade 3 or Higher (%) |
 | Skin and subcutaneous tissue disorders |  |  |  |  |
-| BruisingIncludes multiple ADR terms. | 37 | 1 | 5 | 0 |
-| Rash | 24 | 1 | 11 | 0 |
+| Bruising* | 37 | 1 | 5 | 0 |
+| Rash* | 24 | 1 | 11 | 0 |
 | Musculoskeletal and connective tissue disorders |  |  |  |  |
-| Musculoskeletal pain | 35 | 4 | 21 | 3 |
+| Musculoskeletal pain* | 35 | 4 | 21 | 3 |
 | Arthralgia | 24 | 3 | 11 | 1 |
 | Muscle spasms | 17 | 0 | 12 | 1 |
 | Vascular disorders |  |  |  |  |
-| Hemorrhage | 32 | 3 | 17 | 4Includes one event with a fatal outcome. |
-| Hypertension | 20 | 13 | 5 | 4 |
+| Hemorrhage* | 32 | 3 | 17 | 4† |
+| Hypertension* | 20 | 13 | 5 | 4 |
 | Gastrointestinal disorders |  |  |  |  |
 | Diarrhea | 28 | 0 | 15 | 1 |
 | Nausea | 21 | 0 | 12 | 0 |
 | Dyspepsia | 16 | 0 | 1 | 0 |
 | Constipation | 13 | 1 | 11 | 1 |
 | Infections and infestations |  |  |  |  |
-| Pneumonia | 19 | 13 | 5 | 3 |
-| Skin infection | 17 | 3 | 3 | 0 |
+| Pneumonia* | 19 | 13 | 5 | 3 |
+| Skin infection* | 17 | 3 | 3 | 0 |
 | Urinary tract infection | 13 | 0 | 0 | 0 |
 | Bronchitis | 12 | 3 | 7 | 0 |
 | Influenza | 12 | 0 | 7 | 1 |
@@ -504,7 +485,7 @@ Table 15: Adverse Reactions Reported in at Least 10% of Patients and at Least 2%
 | Respiratory, thoracic, and mediastinal disorders |  |  |  |  |
 | Cough | 17 | 0 | 11 | 0 |
 | Blood and lymphatic system disorders |  |  |  |  |
-| Neutropenia | 16 | 12 | 11 | 4 |
+| Neutropenia* | 16 | 12 | 11 | 4 |
 | Cardiac disorders |  |  |  |  |
 | Atrial fibrillation | 15 | 12 | 3 | 1 |
 | Nervous system disorders |  |  |  |  |
@@ -513,7 +494,12 @@ Table 15: Adverse Reactions Reported in at Least 10% of Patients and at Least 2%
 | Insomnia | 11 | 0 | 4 | 0 |
 | Metabolism and nutrition disorders |  |  |  |  |
 | Hypokalemia | 11 | 0 | 1 | 1 |
-| The body system and individual ADR preferred terms are sorted in descending frequency order. |  |  |  |  |
+
+The body system and individual ADR preferred terms are sorted in descending frequency order.
+
+* Includes multiple ADR terms.
+
+† Includes one event with a fatal outcome.
 
 Grade 3 or 4 infusion related reactions were observed in 1% of patients treated with IR.
 
@@ -525,49 +511,33 @@ Table 16: Non-Hematologic Adverse Reactions in ≥ 10% in Patients with MZL in S
 
 | Body System | Adverse Reaction | All Grades (%) | Grade 3 or Higher (%) |
 | --- | --- | --- | --- |
-| General disorders and administrative site conditions | Fatigue | 44 | 6 |
-| Peripheral edema | 24 | 2 |  |
-| Pyrexia | 17 | 2 |  |
-| Gastrointestinal disorders | Diarrhea | 43 | 5 |
-| Nausea | 25 | 0 |  |
-| Dyspepsia | 19 | 0 |  |
-| StomatitisIncludes multiple ADR terms. | 17 | 2 |  |
-| Abdominal pain | 16 | 2 |  |
-| Constipation | 14 | 0 |  |
-| Abdominal pain upper | 13 | 0 |  |
-| Vomiting | 11 | 2 |  |
-| Skin and subcutaneous tissue disorders | Bruising | 41 | 0 |
-| Rash | 29 | 5 |  |
-| Pruritus | 14 | 0 |  |
-| Musculoskeletal and connective tissue disorders | Musculoskeletal pain | 40 | 3 |
-| Arthralgia | 24 | 2 |  |
-| Muscle spasms | 19 | 3 |  |
-| Infections and infestations | Upper respiratory tract infection | 21 | 0 |
-| Sinusitis | 19 | 0 |  |
-| Bronchitis | 11 | 0 |  |
-| Pneumonia | 11 | 10 |  |
-| Metabolism and nutrition disorders | Decreased appetite | 16 | 2 |
-| Hyperuricemia | 16 | 0 |  |
-| Hypoalbuminemia | 14 | 0 |  |
-| Hypokalemia | 13 | 0 |  |
-| Vascular disorders | Hemorrhage | 30 | 2Includes one event with a fatal outcome. |
-| Hypertension | 14 | 5 |  |
-| Respiratory, thoracic and mediastinal disorders | Cough | 22 | 2 |
-| Dyspnea | 21 | 2 |  |
-| Nervous system disorders | Dizziness | 19 | 0 |
-| Headache | 13 | 0 |  |
+| General disorders and administrative site conditions | Fatigue Peripheral edema Pyrexia | 44 24 17 | 6 2 2 |
+| Gastrointestinal disorders | Diarrhea Nausea Dyspepsia Stomatitis* Abdominal pain Constipation Abdominal pain upper Vomiting | 43 25 19 17 16 14 13 11 | 5 0 0 2 2 0 0 2 |
+| Skin and subcutaneous tissue disorders | Bruising * Rash* Pruritus | 41 29 14 | 0 5 0 |
+| Musculoskeletal and connective tissue disorders | Musculoskeletal pain* Arthralgia Muscle spasms | 40 24 19 | 3 2 3 |
+| Infections and infestations | Upper respiratory tract infection Sinusitis* Bronchitis Pneumonia* | 21 19 11 11 | 0 0 0 10 |
+| Metabolism and nutrition disorders | Decreased appetite Hyperuricemia Hypoalbuminemia Hypokalemia | 16 16 14 13 | 2 0 0 0 |
+| Vascular disorders | Hemorrhage* Hypertension* | 30 14 | 2† 5 |
+| Respiratory, thoracic and mediastinal disorders | Cough Dyspnea | 22 21 | 2 2 |
+| Nervous system disorders | Dizziness Headache | 19 13 | 0 0 |
 | Psychiatric disorders | Anxiety | 16 | 2 |
-| The body system and individual ADR preferred terms are sorted in descending frequency order. |  |  |  |
+
+The body system and individual ADR preferred terms are sorted in descending frequency order.
+
+* Includes multiple ADR terms.
+
+† Includes one event with a fatal outcome.
 
 Table 17: Treatment-Emergent Hematologic Laboratory Abnormalities in Patients with MZL in Study 1121 (N=63)
 
-| All Grades (%) | Grade 3 or 4 (%) |  |
-| --- | --- | --- |
 |  | Percent of Patients (N=63) |  |
+| --- | --- | --- |
+|  | All Grades (%) | Grade 3 or 4 (%) |
 | Platelets decreased | 49 | 6 |
 | Hemoglobin decreased | 43 | 13 |
 | Neutrophils decreased | 22 | 13 |
-| Treatment-emergent Grade 4 thrombocytopenia (3%) and neutropenia (6%) occurred in patients. |  |  |
+
+Treatment-emergent Grade 4 thrombocytopenia (3%) and neutropenia (6%) occurred in patients.
 
 Chronic Graft versus Host Disease
 
@@ -586,37 +556,33 @@ Table 18: Non-Hematologic Adverse Reactions in ≥ 10% of Patients with cGVHD (N
 
 | Body System | Adverse Reaction | All Grades (%) | Grade 3 or Higher (%) |
 | --- | --- | --- | --- |
-| General disorders and administration site conditions | Fatigue | 57 | 12 |
-| Pyrexia | 17 | 5 |  |
-| Edema peripheral | 12 | 0 |  |
-| Skin and subcutaneous tissue disorders | BruisingIncludes multiple ADR terms. | 40 | 0 |
-| Rash | 12 | 0 |  |
-| Gastrointestinal disorders | Diarrhea | 36 | 10 |
-| Stomatitis | 29 | 2 |  |
-| Nausea | 26 | 0 |  |
-| Constipation | 12 | 0 |  |
-| Musculoskeletal and connective tissue disorders | Muscle spasms | 29 | 2 |
-| Musculoskeletal pain | 14 | 5 |  |
-| Vascular disorders | Hemorrhage | 26 | 0 |
-| Infections and infestations | Pneumonia | 21 | 14Includes 2 events with a fatal outcome. |
-| Upper respiratory tract infection | 19 | 0 |  |
-| Sepsis | 10 | 10 |  |
+| General disorders and administration site conditions | Fatigue Pyrexia Edema peripheral | 57 17 12 | 12 5 0 |
+| Skin and subcutaneous tissue disorders | Bruising* Rash* | 40 12 | 0 0 |
+| Gastrointestinal disorders | Diarrhea Stomatitis* Nausea Constipation | 36 29 26 12 | 10 2 0 0 |
+| Musculoskeletal and connective tissue disorders | Muscle spasms Musculoskeletal pain* | 29 14 | 2 5 |
+| Vascular disorders | Hemorrhage* | 26 | 0 |
+| Infections and infestations | Pneumonia* Upper respiratory tract infection Sepsis* | 21 19 10 | 14† 0 10 |
 | Nervous system disorders | Headache | 17 | 5 |
 | Injury, poisoning and procedural complications | Fall | 17 | 0 |
-| Respiratory, thoracic and mediastinal disorders | Cough | 14 | 0 |
-| Dyspnea | 12 | 2 |  |
+| Respiratory, thoracic and mediastinal disorders | Cough Dyspnea | 14 12 | 0 2 |
 | Metabolism and nutrition disorders | Hypokalemia | 12 | 7 |
-| The system organ class and individual ADR preferred terms are sorted in descending frequency order. |  |  |  |
+
+The system organ class and individual ADR preferred terms are sorted in descending frequency order.
+
+* Includes multiple ADR terms.
+
+† Includes 2 events with a fatal outcome.
 
 Table 19: Treatment-Emergent Hematologic Laboratory Abnormalities in Patients with cGVHD (N=42)
 
-| All Grades (%) | Grade 3 or 4 (%) |  |
-| --- | --- | --- |
 |  | Percent of Patients (N=42) |  |
+| --- | --- | --- |
+|  | All Grades (%) | Grade 3 or 4 (%) |
 | Platelets decreased | 33 | 0 |
 | Neutrophils decreased | 10 | 10 |
 | Hemoglobin decreased | 24 | 2 |
-| Treatment-emergent Grade 4 neutropenia occurred in 2% of patients. |  |  |
+
+Treatment-emergent Grade 4 neutropenia occurred in 2% of patients.
 
 Additional Important Adverse Reactions
 

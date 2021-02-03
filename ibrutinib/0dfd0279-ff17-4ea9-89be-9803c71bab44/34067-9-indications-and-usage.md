@@ -1,4 +1,4 @@
-# 1 INDICATIONS AND USAGE
+# 1INDICATIONS AND USAGE
 
 ## 1.1 Mantle Cell Lymphoma
 
@@ -15,9 +15,9 @@ IMBRUVICA is indicated for the treatment of adult patients with chronic lymphocy
 
 IMBRUVICA is indicated for the treatment of adult patients with chronic lymphocytic leukemia (CLL)/small lymphocytic lymphoma (SLL) with 17p deletion.
 
-## 1.4 Waldenström's Macroglobulinemia
+## 1.4 Waldenström’s Macroglobulinemia
 
-IMBRUVICA is indicated for the treatment of adult patients with Waldenström's macroglobulinemia (WM).
+IMBRUVICA is indicated for the treatment of adult patients with Waldenström’s macroglobulinemia (WM).
 
 ## 1.5 Marginal Zone Lymphoma
 

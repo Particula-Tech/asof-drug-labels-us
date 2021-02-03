@@ -1,6 +1,6 @@
-# 11 DESCRIPTION
+# 11DESCRIPTION
 
-Ibrutinib is an inhibitor of Bruton's tyrosine kinase (BTK).
+Ibrutinib is an inhibitor of Bruton’s tyrosine kinase (BTK).
 It is a white to off-white solid with the empirical formula C25H24N6O2 and a molecular weight 440.50.
 Ibrutinib is freely soluble in dimethyl sulfoxide, soluble in methanol and practically insoluble in water.
 The chemical name for ibrutinib is 1-[(3R)-3-[4-amino-3-(4-phenoxyphenyl)-1H-pyrazolo[3,4-d]pyrimidin-1-yl]-1-piperidinyl]-2-propen-1-one and has the following structure:

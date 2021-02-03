@@ -1,11 +1,11 @@
-# 12 CLINICAL PHARMACOLOGY
+# 12CLINICAL PHARMACOLOGY
 
 ## 12.1 Mechanism of Action
 
 Ibrutinib is a small-molecule inhibitor of BTK.
 Ibrutinib forms a covalent bond with a cysteine residue in the BTK active site, leading to inhibition of BTK enzymatic activity.
 BTK is a signaling molecule of the B-cell antigen receptor (BCR) and cytokine receptor pathways.
-BTK's role in signaling through the B-cell surface receptors results in activation of pathways necessary for B-cell trafficking, chemotaxis, and adhesion.
+BTK’s role in signaling through the B-cell surface receptors results in activation of pathways necessary for B-cell trafficking, chemotaxis, and adhesion.
 Nonclinical studies show that ibrutinib inhibits malignant B-cell proliferation and survival in vivo as well as cell migration and substrate adhesion in vitro.
 
 ## 12.2 Pharmacodynamics
@@ -24,7 +24,7 @@ At a single dose 3 times the maximum recommended dose (1680 mg), IMBRUVICA did n
 ## 12.3 Pharmacokinetics
 
 Ibrutinib exposure increases with doses up to 840 mg (1.5 times the maximum approved recommended dosage) in patients with B-cell malignancies.
-The mean steady-state AUC (% coefficient of variation) observed in patients at 560 mg with MCL is 865 (69%) ng∙h/mL and with MZL is 978 (82%) ng∙h/mL, and in patients at 420 mg with CLL/SLL is 708 (71%) ng∙h/mL, with WM is 707 (72%) ng∙h/mL, and with cGVHD is 1159 (50%) ng∙h/mL.
+The mean steady-state AUC (% coefficient of variation) observed in patients at 560 mg with MCL is 865 (69%) ng•h/mL and with MZL is 978 (82%) ng•h/mL, and in patients at 420 mg with CLL/SLL is 708 (71%) ng•h/mL, with WM is 707 (72%) ng•h/mL, and with cGVHD is 1159 (50%) ng•h/mL.
 Steady-state concentrations of ibrutinib without CYP3A inhibitors were achieved with an accumulation ratio of 1 to 1.6 after 1 week of multiple daily doses of 420 mg or 560 mg.
 
 Absorption
