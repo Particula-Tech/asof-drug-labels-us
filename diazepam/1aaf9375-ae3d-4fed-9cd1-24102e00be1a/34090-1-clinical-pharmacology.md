@@ -7,7 +7,7 @@ Most of these effects are thought to result from a facilitation of the action of
 
 Absorption
 
-After oral administration > 90% of diazepam is absorbed and the average time to achieve peak plasma concentrations is 1 to 1.5 hours with a range of 0.25 to 2.5 hours.
+After oral administration of diazepam, > 90% of diazepam is absorbed and the average time to achieve peak plasma concentrations is 1 to 1.5 hours with a range of 0.25 to 2.5 hours.
 Absorption is delayed and decreased when administered with a moderate fat meal.
 In the presence of food, mean lag times are approximately 45 minutes as compared with 15 minutes when fasting.
 There is also an increase in the average time to achieve peak concentrations to about 2.5 hours in the presence of food as compared with 1.25 hours when fasting.
