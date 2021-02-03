@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "NDA009175"
+  ],
+  "inn": "nitrofurantoin",
+  "labeler": "Rising Pharma Holdings, Inc.",
+  "package_ndcs": [
+    "16571-740-24"
+  ],
+  "products": [
+    {
+      "form": "SUSPENSION",
+      "generic": "nitrofurantoin",
+      "name": "Nitrofurantoin"
+    }
+  ],
+  "setid": "89095f4d-e142-465e-b378-da24f6eeaf2b",
+  "source": "dailymed"
+}
