@@ -3,7 +3,7 @@
 Individual patient response to amphetamines varies widely.
 While toxic symptoms occasionally occur as an idiosyncrasy at doses as low as 2 mg, they are rare with doses of less than 15 mg; 30 mg can produce severe reactions, yet doses of 400 to 500 mg are not necessarily fatal.
 
-In rats, the oral LD50 of dextroamphetamine sulfate is 96.8 mg/Kg.
+In rats, the oral LD 50 of dextroamphetamine sulfate is 96.8 mg/Kg.
 
 Symptoms
 

@@ -138,7 +138,7 @@ Serotonergic Drugs
 
 The concomitant use of amphetamine sulfate and serotonergic drugs increases the risk of serotonin syndrome.
 Initiate with lower doses and monitor patients for signs and symptoms of serotonin syndrome, particularly during amphetamine sulfate initiation or dosage increase.
-If serotonin syndrome occurs, discontinue amphetamine sulfate and the concomitant serotonergic drug(s) (seeWARNINGandPRECAUTIONS).
+If serotonin syndrome occurs, discontinue amphetamine sulfate and the concomitant serotonergic drug(s) (see WARNINGand PRECAUTIONS).
 Examples of serotonergic drugs include selective serotonin reuptake inhibitors (SSRI), serotonin norepinephrine reuptake inhibitors (SNRI), triptans, tricyclic antidepressants, fentanyl, lithium, tramadol, tryptophan, buspirone, St. John's Wort.
 
 MAO inhibitors
