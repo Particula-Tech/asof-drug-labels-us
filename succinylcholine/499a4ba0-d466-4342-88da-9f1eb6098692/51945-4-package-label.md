@@ -2,4 +2,6 @@
 
 Container Label
 
-Carton Label
+Carton Label – 25's Pack
+
+Carton Label – 10's Pack

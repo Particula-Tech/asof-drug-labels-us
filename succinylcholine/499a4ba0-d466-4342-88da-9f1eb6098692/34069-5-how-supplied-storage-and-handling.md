@@ -5,6 +5,7 @@ Succinylcholine Chloride Injection, USP is supplied as a clear, colorless soluti
 | NDC No. | Container | Size (mL) | mg/mL | Mg (total) | mOsmol/mL (calc.) |
 | --- | --- | --- | --- | --- | --- |
 | Multiple-dose 70069- 301 -25 | Fliptop vial | 10 | 20 | 200 | 0.338 |
+| Multiple-dose 70069- 301 -10 | Fliptop vial | 10 | 20 | 200 | 0.338 |
 
 Refrigeration of the undiluted agent will assure full potency until expiration date.
 All units carry a date of expiration.
@@ -24,6 +25,6 @@ Made in India
 
 Code No.:KR/DRUGS/KTK/28/289/97
 
-Issued: September, 2019
+Issued: March, 2020
 
-ST-SUC11/P/00
+ST-SUC11/P/01
