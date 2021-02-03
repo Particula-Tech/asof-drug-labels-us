@@ -65,7 +65,7 @@ Care should be taken to avoid intravenous or intra-arterial administration, or i
 Prolonged use of antibiotics may promote the overgrowth of nonsusceptible organisms, including fungi.
 Should superinfection occur, appropriate measures should be taken.
 
-Bicillin L-A contains approximately 0.05 mEq of sodium per 600,000 units of penicillin G (approximately 1.23 mg of sodium per 600,000 units of penicillin G).
+Bicillin L-A contains approximately 0.11 mEq of sodium per 600,000 units of penicillin G (approximately 2.59 mg of sodium per 600,000 units of penicillin G).
 
 ## Information for Patients
 
