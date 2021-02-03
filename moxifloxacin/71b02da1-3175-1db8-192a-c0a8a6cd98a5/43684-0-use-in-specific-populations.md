@@ -70,7 +70,7 @@ The adverse reaction profile of moxifloxacin or comparator was similar across al
 
 Musculoskeletal adverse reactions were monitored and followed up to 5 years after the end of study treatment.
 The rates of musculoskeletal adverse reactions were 4.3% (13/301) in the moxifloxacin-treated group versus 3.3% (5/150) in the comparator-treated group.
-The majority of musculoskeletal adverse reactions were reported between 12 and 53 weeks after start of study treatment with complete resolution at the end of the study [see Warnings and Precautions (5.9) and Nonclinical Toxicology (13.2)].
+The majority of musculoskeletal adverse reactions were reported between 12 and 53 weeks after start of study treatment with complete resolution at the end of the study [see Warnings and Precautions (5.11) and Nonclinical Toxicology (13.2)].
 
 Table 5 Incidence (%) of Selected Adverse Reactions in ≥2% of Pediatric Patients Treated with Moxifloxacin in cIAI Clinical Trial
 
@@ -94,7 +94,7 @@ Table 6: Clinical Response Rates at 28 to 42 Days After End of Treatment in Pedi
 |  | Moxifloxacin n (%) | Comparator n (%) | Difference2 (95% CI) |
 | --- | --- | --- | --- |
 | mITT Population1 | N=248 | N=133 |  |
-| Cure | 208 (83.9) | 127 (95.5) | 12.2 (-17.9, -6.4) |
+| Cure | 208 (83.9) | 127 (95.5) | -12.2 (-17.9, -6.4) |
 | Failure | 17 (6.9) | 3 (2.3) |  |
 | Indeterminate | 21 (8.5) | 3 (2.3) |  |
 | Missing | 2 (0.8) | 0 |  |

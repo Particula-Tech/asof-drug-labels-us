@@ -2,7 +2,7 @@
 
 ## 14.1 Acute Bacterial Sinusitis
 
-In a controlled double-blind study conducted in the US, moxifloxacin hydrochloride tablets (400 mg once daily for ten days) were compared with cefuroxime axetil (250 mg twice daily for ten days) for the treatment of acute bacterial sinusitis.
+In a controlled double-blind study conducted in the US, moxifloxacin tablets (400 mg once daily for ten days) were compared with cefuroxime axetil (250 mg twice daily for ten days) for the treatment of acute bacterial sinusitis.
 The trial included 457 patients valid for the efficacy analysis.
 Clinical success (cure plus improvement) at the 7 to 21 day post therapy test of cure visit was 90% for moxifloxacin and 89% for cefuroxime.
 
@@ -12,7 +12,7 @@ Clinical success rates and eradication/presumed eradication rates at the 21 to 3
 
 ## 14.2 Acute Bacterial Exacerbation of Chronic Bronchitis
 
-Moxifloxacin hydrochloride tablets (400 mg once daily for five days) were evaluated for the treatment of acute bacterial exacerbation of chronic bronchitis in a randomized, double-blind, controlled clinical trial conducted in the US.
+Moxifloxacin tablets (400 mg once daily for five days) were evaluated for the treatment of acute bacterial exacerbation of chronic bronchitis in a randomized, double-blind, controlled clinical trial conducted in the US.
 This study compared moxifloxacin with clarithromycin (500 mg twice daily for 10 days) and enrolled 629 patients.
 Clinical success was assessed at 7 to 17 days post-therapy.
 The clinical success for moxifloxacin was 89% (222/250) compared to 89% (224/251) for clarithromycin.
@@ -32,7 +32,7 @@ The microbiological eradication rates (eradication plus presumed eradication) in
 
 ## 14.3 Community Acquired Pneumonia
 
-A randomized, double-blind, controlled clinical trial was conducted in the US to compare the efficacy of moxifloxacin hydrochloride tablets (400 mg once daily) to that of high-dose clarithromycin (500 mg twice daily) in the treatment of patients with clinically and radiologically documented community acquired pneumonia.
+A randomized, double-blind, controlled clinical trial was conducted in the US to compare the efficacy of moxifloxacin tablets (400 mg once daily) to that of high-dose clarithromycin (500 mg twice daily) in the treatment of patients with clinically and radiologically documented community acquired pneumonia.
 This study enrolled 474 patients (382 of whom were valid for the efficacy analysis conducted at the 14 to 35 day follow-up visit).
 Clinical success for clinically evaluable patients was 95% (184/194) for moxifloxacin and 95% (178/188) for high dose clarithromycin.
 
