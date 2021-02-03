@@ -12,7 +12,7 @@ Caution: Cytotoxic agent
 
 # PRINCIPAL DISPLAY PANEL - 4 mg/4 mL Vial Carton
 
-Single Use Vial: Discard Unused Portion
+Single-dose Vial Discard Unused Portion
 
 Hospira
 
