@@ -145,7 +145,7 @@ Figure 9: Time to First Occurrence of the Composite of Recurrent DVT or Non-fata
 
 ## 14.4 Prophylaxis of Deep Vein Thrombosis Following Hip or Knee Replacement Surgery
 
-XARELTO was studied in 9011 patients (4487 XARELTO-treated, 4524 enoxaparin-treated patients) in the REgulation of Coagulation in ORthopedic Surgery to Prevent DVT and PE, Controlled, Double-blind, Randomized Study of BAY 59-7939 in the Extended Prevention of VTE in Patients Undergoing Elective Total Hip or Knee Replacement (RECORD 1, 2, and 3) [NCT00329628, NCT0033, NCT00361894] studies.
+XARELTO was studied in 9011 patients (4487 XARELTO-treated, 4524 enoxaparin-treated patients) in the REgulation of Coagulation in ORthopedic Surgery to Prevent DVT and PE, Controlled, Double-blind, Randomized Study of BAY 59-7939 in the Extended Prevention of VTE in Patients Undergoing Elective Total Hip or Knee Replacement (RECORD 1, 2, and 3) [NCT00329628, NCT00332020, NCT00361894] studies.
 
 The two randomized, double-blind, clinical studies (RECORD 1 and 2) in patients undergoing elective total hip replacement surgery compared XARELTO 10 mg once daily starting at least 6 to 8 hours (about 90% of patients dosed 6 to 10 hours) after wound closure versus enoxaparin 40 mg once daily started 12 hours preoperatively.
 In RECORD 1 and 2, a total of 6727 patients were randomized and 6579 received study drug.

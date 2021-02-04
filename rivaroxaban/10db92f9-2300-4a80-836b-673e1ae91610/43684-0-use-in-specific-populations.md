@@ -67,6 +67,8 @@ The estimated amount of radioactivity excreted with milk within 32 hours after a
 
 Females of reproductive potential requiring anticoagulation should discuss pregnancy planning with their physician.
 
+The risk of clinically significant uterine bleeding, potentially requiring gynecological surgical interventions, identified with oral anticoagulants including XARELTO should be assessed in females of reproductive potential and those with abnormal uterine bleeding.
+
 ## 8.4 Pediatric Use
 
 Safety and effectiveness in pediatric patients have not been established.

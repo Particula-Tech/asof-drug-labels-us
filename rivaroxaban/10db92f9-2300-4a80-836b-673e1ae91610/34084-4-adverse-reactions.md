@@ -231,12 +231,10 @@ Because these reactions are reported voluntarily from a population of uncertain 
 
 Blood and lymphatic system disorders: agranulocytosis, thrombocytopenia
 
-Gastrointestinal disorders: retroperitoneal hemorrhage
-
 Hepatobiliary disorders: jaundice, cholestasis, hepatitis (including hepatocellular injury)
 
 Immune system disorders: hypersensitivity, anaphylactic reaction, anaphylactic shock, angioedema
 
-Nervous system disorders: cerebral hemorrhage, subdural hematoma, epidural hematoma, hemiparesis
+Nervous system disorders: hemiparesis
 
 Skin and subcutaneous tissue disorders: Stevens-Johnson syndrome, drug reaction with eosinophilia and systemic symptoms (DRESS)
