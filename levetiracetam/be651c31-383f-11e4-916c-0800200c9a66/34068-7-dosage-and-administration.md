@@ -19,7 +19,9 @@ The SPRITAM dosing regimen depends on the indication, age group, and renal funct
 Patients should be instructed not to push the tablet through the foil.
 The foil should be peeled from the blister by bending up and lifting the peel tab around the blister seal.
 
-## 2.2 Partial Onset Seizures
+## 2.2 Partial-Onset Seizures
+
+The recommended dosing for monotherapy and adjunctive therapy is the same; as outlined below.
 
 Adults and Pediatric Patients 4 Years and Older Weighing Over 40 kg:
 
@@ -70,3 +72,7 @@ Table 1: Dosing Regimen For Adult Patients With Renal Impairment
 | Severe | <30 | 250 to 500 | Every 12 hours |
 | ESRD patients using dialysis | — | 500 to 1,0001 | Every 24 hours1 |
 | 1 Following dialysis, a 250 to 500 mg supplemental dose is recommended. |  |  |  |
+
+## 2.6 Discontinuation of SPRITAM
+
+Avoid abrupt withdrawal of SPRITAM in order to reduce the risk of increased seizure frequency and status epilepticus ([see Warnings and Precautions (5.7)].)

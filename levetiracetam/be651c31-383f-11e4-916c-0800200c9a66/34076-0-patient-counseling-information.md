@@ -24,12 +24,16 @@ Dermatological Adverse Reactions
 
 Advise patients that serious dermatological adverse reactions have occurred in patients treated with SPRITAM and instruct them to call their physician immediately if a rash develops [see Warnings and Precautions (5.5)]
 
+Withdrawal of SPRITAM
+
+Advise patients and caregivers not to discontinue use of SPRITAM without consulting with their healthcare provider.
+SPRITAM should normally be gradually withdrawn to reduce the potential of increased seizure frequency and status epilepticus [see Warnings and Precautions (5.7)].
+
 Pregnancy
 
 Advise patients to notify their healthcare provider if they become pregnant or intend to become pregnant during SPRITAM therapy.
 Encourage patients to enroll in the North American Antiepileptic Drug (NAAED) pregnancy registry if they become pregnant.
-This registry is collecting information about the safety of antiepileptic drugs during pregnancy.
-To enroll, patients can call the toll free number 1-888-233-2334 [see Use in Specific Populations (8.1)].
+[see Use in Specific Populations (8.1)].
 
 Administration Information
 
@@ -52,10 +56,10 @@ Distributed by Prasco, LLC, Mason, OH 45040 USA
 
 SPRITAM® is a registered trademark of Aprecia Pharmaceuticals, LLC.
 
-© 2018 Aprecia Pharmaceuticals, LLC all rights reserved.
+© 2020 Aprecia Pharmaceuticals, LLC all rights reserved.
 
 Printed in the USA
 
 Patent(s): www.aprecia.com/patents
 
-LB-PI-0001.O
+LB-PI-0001.P
