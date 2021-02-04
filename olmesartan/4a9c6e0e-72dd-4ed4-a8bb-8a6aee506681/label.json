@@ -1,7 +1,9 @@
 {
-  "application_numbers": [],
+  "application_numbers": [
+    "NDA021286"
+  ],
   "inn": "olmesartan",
-  "labeler": "Daiichi Sankyo",
+  "labeler": "DAIICHI SANKYO",
   "package_ndcs": [
     "69957-101-30",
     "69957-103-10",
@@ -11,7 +13,13 @@
     "69957-104-30",
     "69957-104-90"
   ],
-  "products": [],
+  "products": [
+    {
+      "form": "TABLET, FILM COATED",
+      "generic": "olmesartan medoxomil",
+      "name": "BENICAR"
+    }
+  ],
   "setid": "4a9c6e0e-72dd-4ed4-a8bb-8a6aee506681",
   "source": "dailymed"
 }
