@@ -134,18 +134,19 @@ Table 9: Drug Interactions: Pharmacokinetic Parameters for Rilpivirine in the Pr
 
 | Coadministered Drug | Rilpivirine | Cmax | AUC | Cmin |  |  |
 | --- | --- | --- | --- | --- | --- | --- |
-| Coadministered Drug | Dose/Schedule |  | N | Mean Ratio of Rilpivirine Pharmacokinetic Parameters With/Without Coadministered Drug (90% CI); No Effect = 1.00 |  |  |
-| CoAdministration With HIV Protease Inhibitors (PIs) |  |  |  |  |  |  |
+| Coadministered Drug | Dose/Schedule |  | N | Mean Ratio of Rilpivirine Pharmacokinetic Parameters With/Without Coadministered Drug (90% CI); No Effect=1.00 |  |  |
+| Coadministration With HIV Protease Inhibitors (PIs) |  |  |  |  |  |  |
 | Darunavir/ritonavir | 800/100 mg q.d. | 150 mg q.d.This interaction study has been performed with a dose higher than the recommended dose for EDURANT (25 mg once daily) assessing the maximal effect on the coadministered drug. | 14 | 1.79 (1.56–2.06) | 2.30 (1.98–2.67) | 2.78 (2.39–3.24) |
 | Lopinavir/ritonavir (soft gel capsule) | 400/100 mg b.i.d. | 150 mg q.d. | 15 | 1.29 (1.18–1.40) | 1.52 (1.36–1.70) | 1.74 (1.46–2.08) |
-| CoAdministration With HIV Nucleoside or Nucleotide Reverse Transcriptase Inhibitors (NRTIs/N[t]RTIs) |  |  |  |  |  |  |
+| Coadministration With HIV Nucleoside or Nucleotide Reverse Transcriptase Inhibitors (NRTIs/N[t]RTIs) |  |  |  |  |  |  |
 | Didanosine | 400 mg q.d. delayed release capsules taken 2 hours before rilpivirine | 150 mg q.d. | 21 | 1.00 (0.90–1.10) | 1.00 (0.95–1.06) | 1.00 (0.92–1.09) |
 | Tenofovir disoproxil fumarate | 300 mg q.d. | 150 mg q.d. | 16 | 0.96 (0.81–1.13) | 1.01 (0.87–1.18) | 0.99 (0.83–1.16) |
-| CoAdministration With HIV Integrase Strand Transfer Inhibitors |  |  |  |  |  |  |
+| Coadministration With HIV Integrase Strand Transfer Inhibitors |  |  |  |  |  |  |
+| Cabotegravir | 30 mg q.d. | 25 mg q.d. | 11 | 0.96 (0.85-1.09) | 0.99 (0.89-1.09) | 0.92 (0.79-1.07) |
 | Raltegravir | 400 mg b.i.d. | 25 mg q.d. | 23 | 1.12 (1.04–1.20) | 1.12 (1.05–1.19) | 1.03 (0.96–1.12) |
-| CoAdministration With other Antivirals |  |  |  |  |  |  |
+| Coadministration With other Antivirals |  |  |  |  |  |  |
 | Simeprevir | 150 mg q.d. | 25 mg q.d. | 23 | 1.04 (0.95–1.13) | 1.12 (1.05–1.19) | 1.25 (1.16–1.35) |
-| CoAdministration With Drugs other than Antiretrovirals |  |  |  |  |  |  |
+| Coadministration With Drugs other than Antiretrovirals |  |  |  |  |  |  |
 | Acetaminophen | 500 mg single dose | 150 mg q.d. | 16 | 1.09 (1.01–1.18) | 1.16 (1.10–1.22) | 1.26 (1.16–1.38) |
 | Atorvastatin | 40 mg q.d. | 150 mg q.d. | 16 | 0.91 (0.79–1.06) | 0.90 (0.81–0.99) | 0.90 (0.84–0.96) |
 | Chlorzoxazone | 500 mg single dose taken 2 hours after rilpivirine | 150 mg q.d. | 16 | 1.17 (1.08–1.27) | 1.25 (1.16–1.35) | 1.18 (1.09–1.28) |
@@ -154,7 +155,7 @@ Table 9: Drug Interactions: Pharmacokinetic Parameters for Rilpivirine in the Pr
 | Famotidine | 40 mg single dose taken 2 hours before rilpivirine | 150 mg single dose | 23 | 0.15 (0.12–0.19) | 0.24 (0.20–0.28) | N.A. |
 | Famotidine | 40 mg single dose taken 4 hours after rilpivirine | 150 mg single dose | 24 | 1.21 (1.06–1.39) | 1.13 (1.01–1.27) | N.A. |
 | Ketoconazole | 400 mg q.d. | 150 mg q.d. | 15 | 1.30 (1.13–1.48) | 1.49 (1.31–1.70) | 1.76 (1.57–1.97) |
-| Methadone | 60–100 mg q.d., individualised dose | 25 mg q.d. | 12 | ↔ | ↔ | ↔ |
+| Methadone | 60-100 mg q.d., individualized dose | 25 mg q.d. | 12 | ↔ | ↔ | ↔ |
 | Omeprazole | 20 mg q.d. | 150 mg q.d. | 16 | 0.60 (0.48–0.73) | 0.60 (0.51–0.71) | 0.67 (0.58–0.78) |
 | Rifabutin | 300 mg q.d. | 25 mg q.d. | 18 | 0.69 (0.62–0.76) | 0.58 (0.52–0.65) | 0.52 (0.46–0.59) |
 | Rifabutin | 300 mg q.d. | 50 mg q.d. | 18 | 1.43 (1.30–1.56) | 1.16 (1.06–1.26) | 0.93 (0.85–1.01) |
@@ -168,17 +169,18 @@ Table 10: Drug Interactions: Pharmacokinetic Parameters for Coadministered Drugs
 | Coadministered Drug | Rilpivirine | Cmax | AUC | Cmin |  |  |
 | --- | --- | --- | --- | --- | --- | --- |
 | Coadministered Drug | Dose/Schedule |  | N | Mean Ratio of Coadministered Drug Pharmacokinetic Parameters With/Without EDURANT (90% CI); No Effect = 1.00 |  |  |
-| CoAdministration With HIV Protease Inhibitors (PIs) |  |  |  |  |  |  |
+| Coadministration With HIV Protease Inhibitors (PIs) |  |  |  |  |  |  |
 | Darunavir/ritonavir | 800/100 mg q.d. | 150 mg q.d.This interaction study has been performed with a dose higher than the recommended dose for EDURANT (25 mg once daily) assessing the maximal effect on the coadministered drug. | 15 | 0.90 (0.81–1.00) | 0.89 (0.81–0.99) | 0.89 (0.68–1.16) |
 | Lopinavir/ritonavir (soft gel capsule) | 400/100 mg b.i.d. | 150 mg q.d. | 15 | 0.96 (0.88–1.05) | 0.99 (0.89–1.10) | 0.89 (0.73–1.08) |
-| CoAdministration With HIV Nucleoside or Nucleotide Reverse Transcriptase Inhibitors (NRTIs/N[t]RTIs) |  |  |  |  |  |  |
+| Coadministration With HIV Nucleoside or Nucleotide Reverse Transcriptase Inhibitors (NRTIs/N[t]RTIs) |  |  |  |  |  |  |
 | Didanosine | 400 mg q.d. delayed release capsules taken 2 hours before rilpivirine | 150 mg q.d. | 13 | 0.96 (0.80–1.14) | 1.12 (0.99–1.27) | N.A. |
 | Tenofovir disoproxil fumarate | 300 mg q.d. | 150 mg q.d. | 16 | 1.19 (1.06–1.34) | 1.23 (1.16–1.31) | 1.24 (1.10–1.38) |
-| CoAdministration With HIV Integrase Strand Transfer Inhibitors |  |  |  |  |  |  |
+| Coadministration With HIV Integrase Strand Transfer Inhibitors |  |  |  |  |  |  |
+| Cabotegravir | 30 mg q.d. | 25 mg q.d. | 11 | 1.05 (0.96-1.15) | 1.12 (1.05-1.19) | 1.14 (1.04-1.24) |
 | Raltegravir | 400 mg b.i.d. | 25 mg q.d. | 23 | 1.10 (0.77–1.58) | 1.09 (0.81–1.47) | 1.27 (1.01–1.60) |
-| CoAdministration With other Antivirals |  |  |  |  |  |  |
+| Coadministration With other Antivirals |  |  |  |  |  |  |
 | Simeprevir | 150 mg q.d. | 25 mg q.d. | 21 | 1.10 (0.97–1.26) | 1.06 (0.94–1.19) | 0.96 (0.83–1.11) |
-| CoAdministration With Drugs other than Antiretrovirals |  |  |  |  |  |  |
+| Coadministration With Drugs other than Antiretrovirals |  |  |  |  |  |  |
 | Acetaminophen | 500 mg single dose | 150 mg q.d. | 16 | 0.97 (0.86–1.10) | 0.91 (0.86–0.97) | N.A. |
 | Atorvastatin | 40 mg q.d. | 150 mg q.d. | 16 | 1.35 (1.08–1.68) | 1.04 (0.97–1.12) | 0.85 (0.69–1.03) |
 | 2-hydroxy-atorvastatin |  |  | 16 | 1.58 (1.33–1.87) | 1.39 (1.29–1.50) | 1.32 (1.10–1.58) |
@@ -188,7 +190,7 @@ Table 10: Drug Interactions: Pharmacokinetic Parameters for Coadministered Drugs
 | Ethinylestradiol | 0.035 mg q.d. | 25 mg q.d. | 17 | 1.17 (1.06–1.30) | 1.14 (1.10–1.19) | 1.09 (1.03–1.16) |
 | Norethindrone | 1 mg q.d. |  | 17 | 0.94 (0.83–1.06) | 0.89 (0.84–0.94) | 0.99 (0.90–1.08) |
 | Ketoconazole | 400 mg q.d. | 150 mg q.d. | 14 | 0.85 (0.80–0.90) | 0.76 (0.70–0.82) | 0.34 (0.25–0.46) |
-| R(-) methadone | 60–100 mg q.d., individualised dose | 25 mg q.d. | 13 | 0.86 (0.78–0.95) | 0.84 (0.74–0.95) | 0.78 (0.67–0.91) |
+| R(-) methadone | 60–100 mg q.d., individualized dose | 25 mg q.d. | 13 | 0.86 (0.78–0.95) | 0.84 (0.74–0.95) | 0.78 (0.67–0.91) |
 | S(+) methadone |  |  | 13 | 0.87 (0.78–0.97) | 0.84 (0.74–0.96) | 0.79 (0.67–0.92) |
 | Metformin | 850 mg single dose | 25 mg q.d. | 20 | 1.02 (0.95–1.10) | 0.97 (0.90–1.06)N (maximum number of subjects with data) for AUC(0–∞) = 15 | N.A. |
 | Omeprazole | 20 mg q.d. | 150 mg q.d. | 15 | 0.86 (0.68–1.09) | 0.86 (0.76–0.97) | N.A. |
@@ -271,7 +273,7 @@ The K103N substitution did not result in reduced susceptibility to rilpivirine b
 However, the combination of K103N and L100I resulted in a 7-fold reduced susceptibility to rilpivirine.
 Combinations of 2 or 3 NNRTI resistance-associated substitutions had decreased susceptibility to rilpivirine (fold change range of 3.7 – 554) in 38% and 66% of mutants analyzed, respectively.
 
-Treatment-naïve HIV-1-infected adult subjects
+Treatment-Naïve HIV-1-Infected Adult Subjects
 
 Considering all available cell culture and clinical data, any of the following amino acid substitutions, when present at baseline, are likely to decrease the antiviral activity of rilpivirine: K101E, K101P, E138A, E138G, E138K, E138R, E138Q, V179L, Y181C, Y181I, Y181V, Y188L, H221Y, F227C, M230I or M230L.
 

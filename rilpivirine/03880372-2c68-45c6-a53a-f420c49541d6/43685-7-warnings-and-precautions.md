@@ -37,7 +37,7 @@ Suicidal ideation and suicide attempt were reported in 1 subject.
 
 ## 5.4 Risk of Adverse Reactions or Loss of Virologic Response Due to Drug Interactions
 
-The concomitant use of EDURANT and other drugs may result in potentially significant drug interactions, some of which may lead to [see Dosage and Administration (2.2), Contraindications (4), and Drug Interactions (7)]:
+The concomitant use of EDURANT and other drugs may result in potentially significant drug interactions, some of which may lead to [see Dosage and Administration (2.3), Contraindications (4), and Drug Interactions (7)]:
 
 - Loss of therapeutic effect of EDURANT and possible development of resistance.
 
@@ -58,4 +58,4 @@ A causal relationship has not been established.
 Immune reconstitution syndrome has been reported in patients treated with combination antiretroviral therapy, including EDURANT.
 During the initial phase of combination antiretroviral treatment, patients whose immune system responds may develop an inflammatory response to indolent or residual opportunistic infections (such as Mycobacterium avium infection, cytomegalovirus, Pneumocystis jirovecii pneumonia or tuberculosis), which may necessitate further evaluation and treatment.
 
-Autoimmune disorders (such as Graves' disease, polymyositis, and Guillain-Barré syndrome, and autoimmune hepatitis) have also been reported to occur in the setting of immune reconstitution; however, the time to onset is more variable, and can occur many months after initiation of treatment.
+Autoimmune disorders (such as Graves' disease, polymyositis, Guillain-Barré syndrome, and autoimmune hepatitis) have also been reported to occur in the setting of immune reconstitution; however, the time to onset is more variable, and can occur many months after initiation of treatment.

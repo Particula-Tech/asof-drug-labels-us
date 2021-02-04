@@ -21,7 +21,7 @@ Rash led to discontinuation in 1 (0.1%) subject in the EDURANT arm and 10 (1.5%)
 
 Common Adverse Drug Reactions
 
-ADRs of at least moderate intensity (≥ Grade 2) reported in at least 2% of adult subjects are presented in Table 2.
+ADRs of at least moderate intensity (≥Grade 2) reported in at least 2% of adult subjects are presented in Table 2.
 Selected laboratory abnormalities are included in Table 3.
 
 Table 2: Selected Adverse Drug Reactions of at least Moderate IntensityIntensities are defined as follows: Moderate (discomfort enough to cause interference with usual activity); Severe (incapacitating with inability to work or do usual activity).
@@ -45,14 +45,14 @@ Table 2: Selected Adverse Drug Reactions of at least Moderate IntensityIntensiti
 | Abnormal dreams | 2% | 4% |
 | Skin and Subcutaneous Tissue Disorders |  |  |
 | Rash | 3% | 11% |
-| N = total number of subjects per treatment group; BR = background regimen |  |  |
+| N=total number of subjects per treatment group; BR=background regimen |  |  |
 
 No new ADR terms were identified in adult subjects in the Phase 3 TMC278-C209 and TMC278-C215 trials between 48 weeks and 96 weeks nor in the Phase 2b TMC278-C204 trial through 240 weeks.
 The incidence of adverse events in the Phase 2b TMC278-C204 trial was similar to the Phase 3 trials through 96 weeks.
 
 Less Common Adverse Drug Reactions
 
-ADRs of at least moderate intensity (≥ Grade 2) occurring in less than 2% of antiretroviral treatment-naïve subjects receiving EDURANT are listed below by System Organ Class.
+ADRs of at least moderate intensity (≥Grade 2) occurring in less than 2% of antiretroviral treatment-naïve subjects receiving EDURANT are listed below by System Organ Class.
 Some adverse events have been included because of investigator's assessment of potential causal relationship and were considered serious or have been reported in more than 1 subject treated with EDURANT.
 
 Gastrointestinal Disorders: diarrhea, abdominal discomfort
@@ -148,15 +148,20 @@ Table 4: Lipid Values, Mean Change from BaselineExcludes subjects who received l
 | Triglycerides (fasted) | 546 | 122 | 116 | -6 | 507 | 130 | 141 | 11 |
 | N = number of subjects per treatment group; BR = background regimen |  |  |  |  |  |  |  |  |
 
-Subjects co-infected with hepatitis B and/or hepatitis C virus
+Subjects Co-infected with Hepatitis B and/or Hepatitis C Virus
 
 In subjects co-infected with hepatitis B or C virus receiving EDURANT, the incidence of hepatic enzyme elevation was higher than in subjects receiving EDURANT who were not co-infected.
 This observation was the same in the efavirenz arm.
 The pharmacokinetic exposure of rilpivirine in co-infected subjects was comparable to that in subjects without co-infection.
 
+Use in Combination with Cabotegravir
+
+Safety findings from Phase 3 trials in adults were similar when EDURANT was administered in combination with VOCABRIA (cabotegravir) or other antiretrovirals.
+See full prescribing information for VOCABRIA and CABENUVA (cabotegravir; rilpivirine) extended-release injectable suspensions for additional information.
+
 Clinical Trials Experience in Pediatric Patients
 
-The safety assessment is based on the Week 48 analysis of the single-arm, open-label, Phase 2 trial, TMC278-C213, in which 36 antiretroviral treatment-naïve HIV-1 infected patients 12 to less than 18 years of age and weighing at least 32 kg received EDURANT (25 mg once daily) in combination with other antiretroviral agents [see Clinical Studies (14.2)].
+The safety assessment is based on the Week 48 analysis of the single-arm, open-label, Phase 2 trial, TMC278-C213, in which 36 antiretroviral treatment-naïve HIV-1 infected patients 12 to less than 18 years of age and weighing at least 32 kg received EDURANT (25 mg once daily) in combination with other antiretroviral agents [see Clinical Studies (14.3)].
 The median duration of exposure was 63.5 weeks.
 There were no patients who discontinued treatment due to ADRs.
 No new ADRs were identified compared to those seen in adults.

@@ -23,7 +23,7 @@ Drug Interactions
 EDURANT may interact with many drugs; therefore, advise patients to report to their healthcare provider the use of any other prescription or nonprescription medication or herbal products, including St. John's wort [see Contraindications (4), Warnings and Precautions (5.4), and Drug Interactions (7)].
 
 For patients concomitantly receiving rifabutin, the EDURANT dose should be increased to 50 mg once daily, taken with a meal.
-When rifabutin coadministration is stopped, the EDURANT dose should be decreased to 25 mg once daily, taken with a meal [see Dosage and Administration (2.2)].
+When rifabutin coadministration is stopped, the EDURANT dose should be decreased to 25 mg once daily, taken with a meal [see Dosage and Administration (2.3)].
 
 Fat Redistribution
 

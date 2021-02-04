@@ -83,12 +83,17 @@ The BR consisted of 2 investigator-selected N(t)RTIs: zidovudine plus lamivudine
 
 Study TMC278-C204 enrolled 368 HIV-1-infected treatment-naïve adult subjects who had a plasma HIV-1 RNA ≥ 5000 copies/ml, previously received ≤ 2 weeks of treatment with an N(t)RTI or protease inhibitor, had no prior use of NNRTIs, and were screened for susceptibility to N(t)RTI and for absence of specific NNRTI RASs.
 
-At 96 weeks, the proportion of subjects with <50 HIV-1 RNA copies/ml receiving EDURANT 25 mg (N = 93) compared to subjects receiving efavirenz (N = 89) was 76% and 71%, respectively.
+At 96 weeks, the proportion of subjects with <50 HIV-1 RNA copies/mL receiving EDURANT 25 mg (N = 93) compared to subjects receiving efavirenz (N = 89) was 76% and 71%, respectively.
 The mean increase from baseline in CD4+ counts was 146 cells/mm3 in subjects receiving EDURANT 25 mg and 160 cells/mm3 in subjects receiving efavirenz.
 
 At 240 weeks, 60% (56/93) of subjects who originally received 25 mg once daily achieved HIV RNA < 50 copies/mL compared to 57% (51/89) of subjects in the control group.
 
-## 14.2 Treatment-Naïve Pediatric Subjects (12 to less than 18 years of age)
+## 14.2 Virologically-Suppressed Adults Treated in Combination with Cabotegravir
+
+The use of EDURANT in combination with VOCABRIA (cabotegravir) as an oral lead-in and in patients who miss planned injections with CABENUVA (cabotegravir; rilpivirine) extended-release injectable suspensions was evaluated in two Phase 3 randomized, multicenter, active-controlled, parallel-arm, open-label, non-inferiority trials (Trial 201584: FLAIR [NCT02938520] and Trial 201585: ATLAS [NCT2951052]) in subjects who were virologically suppressed (HIV-1 RNA < 50 copies/mL).
+See full prescribing information for VOCABRIA and CABENUVA for additional information.
+
+## 14.3 Treatment-Naïve Pediatric Subjects (12 to less than 18 years of age)
 
 The pharmacokinetics, safety, tolerability and efficacy of EDURANT 25 mg once daily, in combination with an investigator-selected background regimen (BR) containing two NRTIs, was evaluated in trial TMC278-C213, a single-arm, open-label Phase 2 trial in antiretroviral treatment-naïve HIV-1 infected pediatric subjects 12 to less than 18 years of age and weighing at least 32 kg.
 Thirty six (36) subjects were enrolled in the trial to complete at least 48 weeks of treatment.

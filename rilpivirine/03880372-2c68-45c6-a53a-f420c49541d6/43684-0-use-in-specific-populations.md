@@ -17,13 +17,11 @@ Methodologic limitations of the APR include the use of MACDP as the external com
 The MACDP population is not disease-specific, evaluates women and infants from a limited geographic area, and does not include outcomes for births that occurred at <20 weeks gestation.
 In a clinical trial, total rilpivirine exposures were generally lower during pregnancy compared to the postpartum period (see Data).
 
-In animal reproduction studies, no evidence of adverse developmental outcomes was observed following oral administration of rilpivirine (see Data).
-During organogenesis, systemic exposures (AUC) to rilpivirine were up to 15 (rats) and 70 (rabbits) times the exposure in humans at the recommended daily dose of rilpivirine.
-In the rat pre- and post-natal developmental study, maternal systemic exposure (AUC) was approximately 63 times the exposure at the recommended daily dose of rilpivirine.
+In animal reproduction studies, no adverse developmental outcomes were observed when rilpivirine was administered orally at exposures up to 15 (rats) and 70 (rabbits) times the exposure in humans at the recommended dose of 25 mg once daily (see Data).
 
 Clinical Considerations
 
-Dose adjustments during pregnancy and the postpartum period
+Dose Adjustments During Pregnancy and the Postpartum Period
 
 Based on the experience of HIV-1-infected pregnant women who completed a clinical trial through the postpartum period with a rilpivirine-based regimen, no dose adjustments are required for pregnant patients who are already on a stable EDURANT regimen prior to pregnancy and who are virologically suppressed (HIV-1 RNA less than 50 copies per mL).
 The recommended dosage is one 25 mg tablet once daily taken orally with a meal.
@@ -33,8 +31,8 @@ Data
 
 Human Data
 
-Based on prospective reports to the APR of over 390 exposures to rilpivirine during pregnancy resulting in live births, (including over 247 exposed during first trimester), there was no significant difference between the overall risk of birth defects with rilpivirine compared to the background birth defect rate of 2.7% in the U.S. reference population of the MACDP.
-The prevalence of birth defects in live births was 1.2% (95% CI: 0.3% to 3.5%) and 1.4% (95% CI: 0.2% to 5.0%) following first and second/third trimester exposure, respectively, to rilpivirine-containing regimens.
+Based on prospective reports to the APR of over 390 exposures to rilpivirine during the first trimester of pregnancy resulting in live births, there was no significant difference between the overall risk of birth defects with rilpivirine compared to the background birth defect rate of 2.7% in the U.S. reference population of the MACDP.
+The prevalence of birth defects in live births was 1.3% (95% CI: 0.4% to 3.0%) and 1.1% (95% CI: 0.1% to 4.0%) following first and second/third trimester exposure, respectively, to rilpivirine-containing regimens.
 
 Rilpivirine in combination with a background regimen was evaluated in a clinical trial of 19 HIV-1 infected pregnant women during the second and third trimesters and postpartum.
 Each of the women were on a rilpivirine-based regimen at the time of enrollment.
@@ -52,8 +50,9 @@ There were no new safety findings compared with the known safety profile of rilp
 Animal Data
 
 Rilpivirine was administered orally to pregnant rats (40, 120, or 400 mg per kg per day) and rabbits (5, 10, or 20 mg per kg per day) through organogenesis (on gestation Days 6 through 17, and 6 through 19, respectively).
-No significant toxicological effects were observed in embryo fetal toxicity studies performed with rilpivirine in rats and rabbits at exposures 15 (rats) and 70 (rabbits) times higher than the exposure in humans at the recommended dose of 25 mg once daily.
-In a pre/postnatal development study with rilpivirine, where rats were administered up to 400 mg per kg per day through lactation, no significant adverse effects directly related to drug were noted in the offspring.
+No significant toxicological effects were observed in embryo-fetal toxicity studies performed with rilpivirine in rats and rabbits at exposures 15 (rats) and 70 (rabbits) times higher than the exposure in humans at the recommended dose of 25 mg once daily.
+In a pre- and postnatal development study, rilpivirine was administered orally up to 400 mg/kg/day through lactation.
+No adverse effects were noted in the offspring at maternal exposures up to 63 times the exposure in humans at the recommended dose of 25 mg daily.
 
 ## 8.2 Lactation
 
@@ -68,11 +67,12 @@ Data
 
 Animal Data
 
-In animals, no studies have been conducted to assess the excretion of rilpivirine into milk directly; however, rilpivirine was present in plasma of rat pups exposed through the milk of lactating rats (dosed up to 400 mg per kg per day).
+Animal lactation studies with rilpivirine have not been conducted.
+However, rilpivirine was detected in the plasma of nursing pups on lactation day 7 in the rat pre- and postnatal development study.
 
 ## 8.4 Pediatric Use
 
-The safety, efficacy and pharmacokinetics of EDURANT were evaluated in a single arm, open label, Phase 2 trial that enrolled 36 antiretroviral treatment-naïve, HIV-1 infected pediatric subjects 12 to less than 18 years of age and weighing at least 32 kg [see Dosage and Administration (2.1), Adverse Reactions (6.2), Clinical Pharmacology (12.3) and Clinical Studies (14.2)].
+The safety, efficacy and pharmacokinetics of EDURANT were evaluated in a single arm, open-label, Phase 2 trial that enrolled 36 antiretroviral treatment-naïve, HIV-1 infected pediatric subjects 12 to less than 18 years of age and weighing at least 32 kg [see Dosage and Administration (2.1), Adverse Reactions (6.2), Clinical Pharmacology (12.3) and Clinical Studies (14.3)].
 
 Safety and effectiveness in pediatric patients less than 12 years of age or weighing less than 35 kg have not been established.
 
