@@ -1,11 +1,11 @@
 # ADVERSE REACTIONS
 
-In an uncontrolled, compassionate plea protocol, 125 of 1,378 patients reported a total of 301 adverse reactions while receiving ALOPRIM (allopurinol sodium) for Injection.
+In an uncontrolled, compassionate plea protocol, 125 of 1,378 patients reported a total of 301 adverse reactions while receiving ALOPRIM (allopurinol) for Injection.
 Most of the patients had advanced malignancies or serious underlying diseases and were taking multiple concomitant medications.
-Side effects directly attributable to ALOPRIM (allopurinol sodium) for Injection were reported in 19 patients.
+Side effects directly attributable to ALOPRIM (allopurinol) for Injection were reported in 19 patients.
 Fifteen of these adverse experiences were allergic in nature (rash, eosinophilia, local injection site reaction).
-One adverse experience of severe diarrhea and one incidence of nausea were also reported as being possibly attributable to ALOPRIM (allopurinol sodium) for Injection.
-Two patients had serious adverse experiences (decreased renal function and generalized seizure) reported as being possibly attributable to ALOPRIM (allopurinol sodium) for Injection.
+One adverse experience of severe diarrhea and one incidence of nausea were also reported as being possibly attributable to ALOPRIM (allopurinol) for Injection.
+Two patients had serious adverse experiences (decreased renal function and generalized seizure) reported as being possibly attributable to ALOPRIM (allopurinol) for Injection.
 
 A listing of the adverse reactions regardless of causality reported from clinical trials follows:
 
@@ -14,9 +14,7 @@ A listing of the adverse reactions regardless of causality reported from clinica
 | Cutaneous/Dermatologic: | rash (1.5%) |
 | Genitourinary: | renal failure/insufficiency (1.2%) |
 | Gastrointestinal: | nausea (1.3%), vomiting (1.2%) |
-
 | Incidence Less Than 1%: |  |
-| --- | --- |
 | Body as Whole: | fever, pain, chills, alopecia, infection, sepsis, enlarged abdomen, mucositis/pharyngitis, blast crisis, cellulitis, hypervolemia |
 | Cardiovascular: | heart failure, cardiorespiratory arrest, hypertension, pulmonary embolus, hypotension, decreased venous pressure, flushing, headache, stroke, septic shock, cardiovascular disorder, ECG abnormality, hemorrhage, bradycardia, thrombophlebitis, ventricular fibrillation |
 | Cutaneous/Dermatologic: | urticaria, pruritus, local injection site reaction |
@@ -31,5 +29,5 @@ A listing of the adverse reactions regardless of causality reported from clinica
 
 The most frequent adverse reaction to oral allopurinol is skin rash.
 Skin reactions can be severe and sometimes fatal.
-Therefore, treatment with ALOPRIM (allopurinol sodium) for Injection should be discontinued immediately if a rash develops (see WARNINGS).
+Therefore, treatment with ALOPRIM (allopurinol) for Injection should be discontinued immediately if a rash develops (see WARNINGS).
 For further details on hypersensitivity reactions to treatment with oral allopurinol, refer to the package insert for allopurinol tablets.

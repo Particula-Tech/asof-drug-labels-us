@@ -14,7 +14,7 @@ The use of ALOPRIM is not recommended in HLA-B*58:01 positive patients unless th
 The occurrence of hypersensitivity reactions may be increased in patients with renal impairment, especially in patients who are receiving thiazide diuretics.
 Reduce the dose of ALOPRIM in patients with impaired renal function (see DOSAGE AND ADMINISTRATION: Impaired Renal Function).
 
-In patients receiving mercaptopurine or azathioprine, the concomitant administration of 300 to 600 mg of ALOPRIM (allopurinol sodium) for Injection per day will require a reduction in dose to approximately one-third to one-fourth of the usual dose of mercaptopurine or azathioprine.
+In patients receiving mercaptopurine or azathioprine, the concomitant administration of 300 to 600 mg of ALOPRIM (allopurinol) for Injection per day will require a reduction in dose to approximately one-third to one-fourth of the usual dose of mercaptopurine or azathioprine.
 Subsequent adjustment of doses of mercaptopurine or azathioprine should be made on the basis of therapeutic response and the appearance of toxic effects (see PRECAUTIONS: Drug Interactions).
 
 A few cases of reversible clinical hepatotoxicity have been noted in patients taking oral allopurinol, and in some patients asymptomatic rises in serum alkaline phosphatase or serum transaminase have been observed.
@@ -39,7 +39,7 @@ Patients should be carefully observed during the early stages of allopurinol adm
 
 In patients with severely impaired renal function or decreased urate clearance, the half-life of oxypurinol in the plasma is greatly prolonged.
 Patients should be treated with the lowest effective dose, in order to minimize possible side effects.
-The appropriate dose of ALOPRIM (allopurinol sodium) for Injection for patients with a creatinine clearance ≤ 10 mL/min is 100 mg per day.
+The appropriate dose of ALOPRIM (allopurinol) for Injection for patients with a creatinine clearance ≤ 10 mL/min is 100 mg per day.
 For patients with a creatinine clearance between 10 and 20 mL/min, a dose of 200 mg per day is recommended.
 With extreme renal impairment (creatinine clearance less than 3 mL/min), the interval between doses may also need to be extended.
 
@@ -53,7 +53,7 @@ The correct dosage and schedule for maintaining the serum uric acid within the n
 In patients with pre-existing liver disease, periodic liver function tests are recommended during the early stages of therapy (see WARNINGS).
 
 Allopurinol and its primary active metabolite, oxypurinol, are eliminated by the kidneys; therefore, changes in renal function have a profound effect on dosage.
-In patients with decreased renal function, or who have concurrent illnesses which can affect renal function such as hypertension and diabetes mellitus, periodic laboratory parameters of renal function, particularly BUN and serum creatinine or creatinine clearance, should be performed and the patient's allopurinol dosage reassessed.
+In patients with decreased renal function, or who have concurrent illnesses which can affect renal function such as hypertension and diabetes mellitus, periodic laboratory parameters of renal function, particularly BUN and serum creatinine or creatinine clearance, should be performed and the patient’s allopurinol dosage reassessed.
 
 The prothrombin time should be reassessed periodically in the patients receiving dicumarol who are given allopurinol.
 
@@ -102,10 +102,10 @@ The risk of hypoglycemia secondary to this mechanism may be increased if allopur
 
 ### Cyclosporine
 
-Reports indicate that cyclosporine levels may be increased during concomitant treatment with ALOPRIM (allopurinol sodium) for Injection.
+Reports indicate that cyclosporine levels may be increased during concomitant treatment with ALOPRIM (allopurinol) for Injection.
 Monitoring of cyclosporine levels and possible adjustment of cyclosporine dosage should be considered when these drugs are co-administered.
 
-### Drug/Laboratory Test Interactions
+## Drug/Laboratory Test Interactions
 
 Allopurinol is not known to alter the accuracy of laboratory tests.
 
@@ -135,7 +135,7 @@ Because animal reproduction studies are not always predictive of human response,
 
 Experience with allopurinol during human pregnancy has been limited partly because women of reproductive age rarely require treatment with allopurinol.
 Two unpublished reports and one published paper describe women giving birth to normal offspring after receiving oral allopurinol during pregnancy.
-There have been no pregnancies reported in patients receiving ALOPRIM (allopurinol sodium) for Injection, but it is assumed that the same risks would apply.
+There have been no pregnancies reported in patients receiving ALOPRIM (allopurinol) for Injection, but it is assumed that the same risks would apply.
 
 ## Nursing Mothers
 
@@ -144,11 +144,11 @@ Since the effect of allopurinol on the nursing infant is unknown, caution should
 
 ## Pediatric Use
 
-Clinical data are available on approximately 200 pediatric patients treated with ALOPRIM (allopurinol sodium) for Injection.
+Clinical data are available on approximately 200 pediatric patients treated with ALOPRIM (allopurinol) for Injection.
 The efficacy and safety profile observed in this patient population were similar to that observed in adults (see INDICATIONS and DOSAGE AND ADMINISTRATION).
 
 ## Geriatric Use
 
-Clinical studies of ALOPRIM (allopurinol sodium) for Injection did not include sufficient numbers of patients aged 65 and over to determine whether they respond differently than younger patients.
+Clinical studies of ALOPRIM (allopurinol) for Injection did not include sufficient numbers of patients aged 65 and over to determine whether they respond differently than younger patients.
 Other reported clinical experience has not identified differences in responses between the elderly and younger patients.
 In general, dose selection for an elderly patient should be cautious, usually starting at the low end of the dosing range, reflecting the greater frequency of decreased hepatic, renal, or cardiac function, and of concomitant disease or other drug therapy.
