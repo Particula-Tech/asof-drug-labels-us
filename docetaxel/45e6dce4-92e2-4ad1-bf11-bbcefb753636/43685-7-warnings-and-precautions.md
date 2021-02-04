@@ -82,7 +82,7 @@ Patients developing peripheral edema may be treated with standard measures, e.g.
 
 ## 5.7 Second Primary Malignancies
 
-Second primary malignancies, notably acute myeloid leukemia (AML), myelodysplastic syndrome (MDS), non-Hodgkin's Lymphoma (NHL), and renal cancer, have been reported in patients treated with docetaxel-containing regimens.
+Second primary malignancies, notably acute myeloid leukemia (AML), myelodysplastic syndrome (MDS), non-Hodgkin's lymphoma (NHL), and renal cancer, have been reported in patients treated with docetaxel-containing regimens.
 These adverse reactions may occur several months or years after docetaxel-containing therapy.
 
 Treatment-related AML or MDS has occurred in patients given anthracyclines and/or cyclophosphamide, including use in adjuvant therapy for breast cancer.
@@ -140,3 +140,9 @@ Consideration should be given to the alcohol content in TAXOTERE Injection on th
 Each administration of TAXOTERE Injection at 100 mg/m2 delivers 2.0 g/m2 of ethanol.
 For a patient with a BSA of 2.0 m2, this would deliver 4.0 grams of ethanol [see Description (11)].
 Other docetaxel products may have a different amount of alcohol.
+
+## 5.14 Tumor Lysis Syndrome
+
+Tumor lysis syndrome has been reported with docetaxel [see Adverse Reactions (6.2)].
+Patients at risk of tumor lysis syndrome (e.g., with renal impairment, hyperuricemia, bulky tumor) should be closely monitored prior to initiating TAXOTERE and periodically during treatment.
+Correction of dehydration and treatment of high uric acid levels are recommended prior to initiation of treatment.

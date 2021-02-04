@@ -10,7 +10,7 @@ Discard unused portion.
 | TAXOTERE 20 mg/mL | (NDC 0075-8003-01) |
 | --- | --- |
 
-TAXOTERE (docetaxel) Injection 20 mg/1 mL: 20 mg docetaxel in 1 mL in 50/50 (v/v) ratio polysorbate 80/dehydrated alcohol.
+TAXOTERE (docetaxel) Injection 20 mg/1 mL: 20 mg docetaxel in 1 mL 50/50 (v/v) ratio polysorbate 80/dehydrated alcohol.
 
 The vial is in a blister pack in one carton.
 
