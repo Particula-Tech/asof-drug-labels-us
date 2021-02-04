@@ -74,38 +74,6 @@ Permanently discontinue Herceptin for a persistent (> 8 weeks) LVEF decline or f
 
 To prevent medication errors, it is important to check the vial labels to ensure that the drug being prepared and administered is Herceptin (trastuzumab) and not ado-trastuzumab emtansine.
 
-420 mg Multiple-dose vial
-
-Reconstitution
-
-Reconstitute each 420 mg vial of Herceptin with 20 mL of Bacteriostatic Water for Injection (BWFI), USP, containing 1.1% benzyl alcohol as a preservative to yield a multiple-dose solution containing 21 mg/mL trastuzumab that delivers 20 mL (420 mg trastuzumab).
-In patients with known hypersensitivity to benzyl alcohol, reconstitute with 20 mL of Sterile Water for Injection (SWFI) without preservative to yield a single use solution.
-
-Use appropriate aseptic technique when performing the following reconstitution steps:
-
-- Using a sterile syringe, slowly inject the 20 mL of diluent into the vial containing the lyophilized powder of Herceptin, which has a cake-like appearance.
-  The stream of diluent should be directed into the cake.
-  The reconstituted vial yields a solution for multiple-dose use, containing 21 mg/mL trastuzumab.
-- Swirl the vial gently to aid reconstitution.
-  DO NOT SHAKE.
-- Slight foaming of the product may be present upon reconstitution.
-  Allow the vial to stand undisturbed for approximately 5 minutes.
-- Parenteral drug products should be inspected visually for particulate matter and discoloration prior to administration, whenever solution and container permit.
-  Inspect visually for particulates and discoloration.
-  The solution should be free of visible particulates, clear to slightly opalescent and colorless to pale yellow.
-- Store reconstituted Herceptin in the refrigerator at 2°C to 8° C (36°F to 46°F); discard unused Herceptin after 28 days.
-  If Herceptin is reconstituted with SWFI without preservative, use immediately and discard any unused portion.
-  Do not freeze.
-
-Dilution
-
-- Determine the dose (mg) of Herceptin [see Dosage and Administration (2.2)].
-  Calculate the volume of the 21 mg/mL reconstituted Herceptin solution needed, withdraw this amount from the vial and add it to an infusion bag containing 250 mL of 0.9% Sodium Chloride Injection, USP.
-  DO NOT USE DEXTROSE (5%) SOLUTION.
-- Gently invert the bag to mix the solution.
-- The solution of Herceptin for infusion diluted in polyvinylchloride or polyethylene bags containing 0.9% Sodium Chloride Injection, USP, should be stored at 2°C to 8°C (36°F to 46°F) for no more than 24 hours prior to use.
-  Do not freeze.
-
 150 mg Single-dose vial
 
 Reconstitution
@@ -132,7 +100,7 @@ Dilution
 
 - Determine the dose (mg) of Herceptin [see Dosage and Administration (2.1)].
 - Calculate the volume of the 21 mg/mL reconstituted Herceptin solution needed.
-- Withdraw this amount from the vial and add it to an infusion bag containing 250 mL of 0.9% Sodium Chloride Injection, USP.
+- Withdraw this amount from the vial using a sterile needle and syringe and add it to an infusion bag containing 250 mL of 0.9% Sodium Chloride Injection, USP.
   DO NOT USE DEXTROSE (5%) SOLUTION.
 - Gently invert the bag to mix the solution.
 - The solution of Herceptin for infusion diluted in polyvinylchloride or polyethylene bags containing 0.9% Sodium Chloride Injection, USP, should be stored at 2°C to 8°C (36°F to 46°F) for no more than 24 hours prior to use.

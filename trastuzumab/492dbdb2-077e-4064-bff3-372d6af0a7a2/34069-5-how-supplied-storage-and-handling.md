@@ -2,13 +2,6 @@
 
 ## 16.1 How Supplied
 
-420 mg Multiple-dose vial
-
-Herceptin (trastuzumab) for injection 420 mg/vial is supplied in a multiple-dose vial as a lyophilized sterile powder, under vacuum.
-Each carton contains one multiple-dose vial of Herceptin and one vial (20 mL) of Bacteriostatic Water for Injection (BWFI), USP, containing 1.1% benzyl alcohol as a preservative.
-
-NDC 50242-333-01.
-
 150 mg Single-dose vial
 
 Herceptin (trastuzumab) for injection 150 mg/vial is supplied in a single-dose vial as a lyophilized sterile powder, under vacuum.
