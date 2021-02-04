@@ -15,6 +15,6 @@ Manufactured for: Mylan Institutional LLC Morgantown, WV 26505 U.S.A.
 
 Manufactured by: NerPharMa Srl V.le Pasteur 10 20014 Nerviano (MI), Italy
 
-MI:ALOPIJ:R8 Revised: 11/2020
+MI:ALOPIJ:R8 Revised: 12/2020
 
 ALOPRIM® is a registered trademark of Mylan Teoranta.
