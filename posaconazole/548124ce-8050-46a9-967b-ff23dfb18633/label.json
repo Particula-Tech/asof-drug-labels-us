@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "ANDA213454"
+  ],
+  "inn": "posaconazole",
+  "labeler": "Lupin Pharmaceuticals, Inc.",
+  "package_ndcs": [
+    "70748-258-07"
+  ],
+  "products": [
+    {
+      "form": "TABLET, DELAYED RELEASE",
+      "generic": "posaconazole",
+      "name": "POSACONAZOLE"
+    }
+  ],
+  "setid": "548124ce-8050-46a9-967b-ff23dfb18633",
+  "source": "dailymed"
+}
