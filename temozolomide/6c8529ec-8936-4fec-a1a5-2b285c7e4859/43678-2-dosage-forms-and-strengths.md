@@ -1,6 +1,6 @@
 # 3 DOSAGE FORMS AND STRENGTHS
 
-- Temozolomide capsules for oral administration
+- Capsules:
 
 - 5 mg capsules have green opaque color caps imprinted “AMNEAL” and white opaque color bodies imprinted “801” with black ink.
 - 20 mg capsules have yellow opaque color caps imprinted “AMNEAL” and white opaque color bodies imprinted “802” with black ink.

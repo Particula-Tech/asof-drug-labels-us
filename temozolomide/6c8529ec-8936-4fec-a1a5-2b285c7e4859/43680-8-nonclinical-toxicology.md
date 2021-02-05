@@ -3,7 +3,7 @@
 ## 13.1 Carcinogenesis, Mutagenesis, Impairment of Fertility
 
 Temozolomide is carcinogenic in rats at doses less than the maximum recommended human dose.
-Temozolomide induced mammary carcinomas in both males and females at doses 0.13 to 0.63 times the maximum human dose (25 to 125 mg/m2) when administered orally on 5 consecutive days every 28 days for 6 cycles.
+Temozolomide induced mammary carcinomas in both males and females at doses 0.13 to 0.63 times the maximum human dose (25-125 mg/m2) when administered orally on 5 consecutive days every 28 days for 6 cycles.
 Temozolomide also induced fibrosarcomas of the heart, eye, seminal vesicles, salivary glands, abdominal cavity, uterus, and prostate, carcinomas of the seminal vesicles, schwannomas of the heart, optic nerve, and harderian gland, and adenomas of the skin, lung, pituitary, and thyroid at doses 0.5 times the maximum daily dose.
 Mammary tumors were also induced following 3 cycles of temozolomide at the maximum recommended daily dose.
 
@@ -12,9 +12,9 @@ In a reverse bacterial mutagenesis assay (Ames assay), temozolomide increased re
 Temozolomide was clastogenic in human lymphocytes in the presence and absence of metabolic activation.
 
 Temozolomide impairs male fertility.
-Temozolomide caused syncytial cells/immature sperm formation at 0.25 and 0.63 times the maximum recommended human dose (50 and 125 mg/m2) in rats and dogs, respectively, and testicular atrophy in dogs at 0.63 times the maximum recommended human dose (125 mg/m2).
+Temozolomide caused syncytial cells/immature sperm formation at doses of 50 and 125 mg/m2 (0.25 and 0.63 times the human dose of 200 mg/m2) in rats and dogs, respectively, and testicular atrophy in dogs at 125 mg/m2.
 
 ## 13.2 Animal Toxicology and/or Pharmacology
 
-Toxicology studies in rats and dogs identified a low incidence of hemorrhage, degeneration, and necrosis of the retina at temozolomide doses equal to or greater than 0.63 times the maximum recommended human dose (125 mg/m2).
+Toxicology studies in rats and dogs identified a low incidence of hemorrhage, degeneration, and necrosis of the retina at temozolomide doses equal to or greater than 125 mg/m2 (0.63 times the human dose of 200 mg/m2).
 These changes were most commonly seen at doses where mortality was observed.
