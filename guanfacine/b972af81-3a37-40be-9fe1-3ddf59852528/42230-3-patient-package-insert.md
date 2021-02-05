@@ -152,13 +152,12 @@ In addition, the 3 mg and 4 mg tablets also contain green pigment blend PB-1763.
 
 This Patient Information has been approved by the U.S. Food and Drug Administration.
 
-Manufactured for: Shire US Inc., 300 Shire Way, Lexington, MA 02421
+Distributed by: Takeda Pharmaceuticals America, Inc. Lexington, MA 02421
 
-INTUNIV is a registered trademark of Shire LLC, a Takeda company.
+INTUNIV® is a registered trademark of Takeda Pharmaceuticals U.S.A., Inc.
 
-© 2019 Takeda Pharmaceutical Company Limited.
-All rights reserved.
+© 2020 Takeda Pharmaceuticals U.S.A., Inc. All rights reserved.
 
-This product is covered by US patents including 6,287,599; 6,811,794.
+Patented: see www.takeda.com/en-us/patents.
 
-Revised: 12/2019
+Revised: 08/2020
