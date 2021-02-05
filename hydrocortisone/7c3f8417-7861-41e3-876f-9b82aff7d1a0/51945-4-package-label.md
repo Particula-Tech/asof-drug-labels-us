@@ -1,15 +1,15 @@
-PRINCIPAL DISPLAY PANEL
+PRINCIPAL DISPLAY PANEL – 45 g Carton
 
 NDC 68682-271-45
 
 Rx only
 
-Hydrocortisone Butyrate Ointment, 0.1%
+HYDROCORTISONE BUTYRATE OINTMENT 0.1%
 
 For topical use only.
 Not for ophthalmic use.
 
 Net Wt.
-45 grams
+45 g
 
-OCEANSIDE® PHARMACEUTICALS
+OCEANSIDE PHARMACEUTICALS

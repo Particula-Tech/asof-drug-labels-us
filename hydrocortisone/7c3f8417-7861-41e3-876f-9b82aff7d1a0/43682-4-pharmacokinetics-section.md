@@ -1,4 +1,4 @@
-# Pharmaconkinetics
+# Pharmacokinetics
 
 The extent of percutaneous absorption of topical corticosteroids is determined by many factors including the vehicle, the integrity of the epidermal barrier, and the use of occlusive dressings.
 
