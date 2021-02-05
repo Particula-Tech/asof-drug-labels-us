@@ -1,3 +1,3 @@
-# 7DRUG INTERACTIONS
+# 7 DRUG INTERACTIONS
 
 No drug interaction studies have been conducted using orally administered vancomycin hydrochloride products.
