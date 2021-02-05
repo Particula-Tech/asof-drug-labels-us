@@ -30,7 +30,6 @@ The adverse reaction most commonly causing discontinuation of treatment with pra
 
 Table 1 lists adverse reactions that occurred with a frequency of at least 2% with pramipexole dihydrochloride extended-release and were more frequent than with placebo during 33 weeks of treatment in a double-blind, placebo-controlled study in early Parkinson's disease.
 In this study, patients did not receive concomitant levodopa; however, levodopa was permitted as rescue medication.
-Adverse events were usually mild (38%) or moderate (41%) in intensity.
 
 Table 1 Adverse-Reactions in a 33-Week Double-Blind, Placebo-Controlled Trial with Pramipexole Dihydrochloride Extended-Release in Early Parkinson’s Disease
 

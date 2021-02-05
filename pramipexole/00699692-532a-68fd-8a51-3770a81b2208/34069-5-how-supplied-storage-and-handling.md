@@ -5,23 +5,23 @@
 Pramipexole dihydrochloride extended-release tablets are available as follows:
 
 0.
-375 mg: Off white, round shaped, biconvex, uncoated tablet, debossed with 'RDY' on one one side and '611' on other side and are supplied in bottle of 30’s count.
+375 mg: Off white, round shaped, biconvex, uncoated tablet, debossed with 'RDY' on one side and '611' on other side and are supplied in bottle of 30’s count.
 
 Bottles of 30 NDC 55111-611-30
 
-0.75 mg: Off white, round shaped, biconvex, uncoated tablet, debossed with 'RDY' on one one side and '612' on other side and are supplied in bottle of 30’s count.
+0.75 mg: Off white, round shaped, biconvex, uncoated tablet, debossed with 'RDY' on one side and '612' on other side and are supplied in bottle of 30’s count.
 
 Bottles of 30 NDC 55111-612-30
 
-1.5 mg: Off white, oval shaped, biconvex, uncoated tablet, debossed with 'RDY' on one one side and '613' on other side and are supplied in bottle of 30’s count.
+1.5 mg: Off white, oval shaped, biconvex, uncoated tablet, debossed with 'RDY' on one side and '613' on other side and are supplied in bottle of 30’s count.
 
 Bottles of 30 NDC 55111-613-30
 
-3 mg: Off white, oval shaped, biconvex, uncoated tablet, debossed with 'RDY' on one one side and '614' on other side and are supplied in bottle of 30’s count.
+3 mg: Off white, oval shaped, biconvex, uncoated tablet, debossed with 'RDY' on one side and '614' on other side and are supplied in bottle of 30’s count.
 
 Bottles of 30 NDC 55111-614-30
 
-4.5 mg: Off white, oval shaped, biconvex, uncoated tablet, debossed with 'RDY' on one one side and '615' on other side and are supplied in bottle of 30’s count.
+4.5 mg: Off white, oval shaped, biconvex, uncoated tablet, debossed with 'RDY' on one side and '615' on other side and are supplied in bottle of 30’s count.
 
 Bottles of 30 NDC 55111-615-30
 
