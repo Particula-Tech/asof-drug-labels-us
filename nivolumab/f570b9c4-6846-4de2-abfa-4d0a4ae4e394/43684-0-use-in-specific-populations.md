@@ -88,3 +88,6 @@ Of the 303 patients randomized to OPDIVO 3 mg/kg every 2 weeks in combination wi
 No overall difference in safety was reported between older patients and younger patients; however, there were higher rates of serious adverse reactions and discontinuation due to adverse reactions in patients aged 75 years or older (68% and 35%, respectively) relative to all patients who received OPDIVO with ipilimumab (54% and 28%, respectively).
 For patients aged 75 years or older who received chemotherapy, the rate of serious adverse reactions was 34% and the discontinuation rate due to adverse reactions was 26% relative to 28% and 19% respectively for all patients.
 The hazard ratio for overall survival was 0.76 (95% CI: 0.52, 1.11) in the 71 patients younger than 65 years compared to 0.74 (95% CI: 0.59, 0.93) in the 232 patients 65 years or older randomized to OPDIVO in combination with ipilimumab.
+
+Of the 320 patients who received OPDIVO in combination with cabozantinib in CHECKMATE-9ER (renal cell carcinoma), 41% were 65 years or older and 9% were 75 years or older.
+No overall difference in safety was reported between elderly patients and younger patients.

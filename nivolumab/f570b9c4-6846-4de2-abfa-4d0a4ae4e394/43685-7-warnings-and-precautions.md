@@ -25,7 +25,7 @@ Toxicity management guidelines for adverse reactions that do not necessarily req
 ### Immune-Mediated Pneumonitis
 
 OPDIVO can cause immune-mediated pneumonitis, which is defined as requiring use of steroids and no clear alternate etiology.
-The incidence of pneumonitis is higher in patients who have received prior thoracic radiation.
+In patients treated with other PD-1/PD-L1 blocking antibodies, the incidence of pneumonitis is higher in patients who have received prior thoracic radiation.
 
 OPDIVO as a Single Agent
 
@@ -81,7 +81,7 @@ Approximately 23% of patients with immune-mediated colitis required addition of 
 Colitis resolved in 95% of the 60 patients.
 Of the 18 patients in whom OPDIVO with ipilimumab was withheld for colitis, 16 reinitiated treatment after symptom improvement; of these, 10 (63%) had recurrence of colitis.
 
-### Immune-Mediated Hepatitis
+### Immune-Mediated Hepatitis and Hepatotoxicity
 
 OPDIVO can cause immune-mediated hepatitis, defined as requiring the use of corticosteroids and no clear alternate etiology.
 
@@ -112,6 +112,17 @@ Systemic corticosteroids were required in 100% (48/48) of patients with hepatiti
 Approximately 19% of patients with immune-mediated hepatitis required addition of mycophenolic acid to high-dose corticosteroids.
 Hepatitis resolved in 88% of the 48 patients.
 Of the 17 patients in whom OPDIVO with ipilimumab was withheld for hepatitis, 14 reinitiated treatment after symptom improvement; of these, 10 (71%) had recurrence of hepatitis.
+
+OPDIVO with Cabozantinib
+
+OPDIVO in combination with cabozantinib can cause hepatic toxicity with higher frequencies of Grade 3 and 4 ALT and AST elevations compared to OPDIVO alone.
+Monitor liver enzymes before initiation of and periodically throughout treatment.
+Consider more frequent monitoring of liver enzymes as compared to when the drugs are administered as single agents.
+For elevated liver enzymes, interrupt OPDIVO and cabozantinib and consider administering corticosteroids [see Dosage and Administration (2.3)].
+
+With the combination of OPDIVO and cabozantinib, Grades 3 and 4 increased ALT or AST were seen in 11% of patients [see Adverse Reactions (6.1)].
+ALT or AST >3 times ULN (Grade ≥2) was reported in 83 patients, of whom 23 (28%) received systemic corticosteroids; ALT or AST resolved to Grades 0-1 in 74 (89%).
+Among the 44 patients with Grade ≥2 increased ALT or AST who were rechallenged with either OPDIVO (n=11) or cabozantinib (n=9) administered as a single agent or with both (n=24), recurrence of Grade ≥2 increased ALT or AST was observed in 2 patients receiving OPDIVO, 2 patients receiving cabozantinib, and 7 patients receiving both OPDIVO and cabozantinib.
 
 ### Immune-Mediated Endocrinopathies
 
@@ -146,6 +157,15 @@ Adrenal insufficiency led to permanent discontinuation of OPDIVO with ipilimumab
 Approximately 94% (45/48) of patients with adrenal insufficiency received hormone replacement therapy, including systemic corticosteroids.
 Adrenal insufficiency resolved in 29% of the 48 patients.
 Of the 14 patients in whom OPDIVO with ipilimumab was withheld for adrenal insufficiency, 11 reinitiated treatment after symptom improvement; of these, all received hormone replacement therapy and 2 (18%) had recurrence of adrenal insufficiency.
+
+OPDIVO with Cabozantinib
+
+Adrenal insufficiency occurred in 4.7% (15/320) of patients with RCC who received OPDIVO with cabozantinib, including Grade 3 (2.2%), and Grade 2 (1.9%) adverse reactions.
+Adrenal insufficiency led to permanent discontinuation of OPDIVO and cabozantinib in 0.9% and withholding of OPDIVO and cabozantinib in 2.8% of patients with RCC.
+
+Approximately 80% (12/15) of patients with adrenal insufficiency received hormone replacement therapy, including systemic corticosteroids.
+Adrenal insufficiency resolved in 27% (n=4) of the 15 patients.
+Of the 9 patients in whom OPDIVO with cabozantinib was withheld for adrenal insufficiency, 6 reinstated treatment after symptom improvement; of these, all (n=6) received hormone replacement therapy and 2 had recurrence of adrenal insufficiency.
 
 Hypophysitis
 

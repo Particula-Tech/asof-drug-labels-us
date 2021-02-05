@@ -21,8 +21,9 @@ OPDIVO, in combination with ipilimumab, is indicated for the first-line treatmen
 
 ## 1.5 Advanced Renal Cell Carcinoma
 
+- •OPDIVO, in combination with ipilimumab, is indicated for the first-line treatment of patients with intermediate or poor risk advanced RCC.
+- •OPDIVO, in combination with cabozantinib, is indicated for the first-line treatment of patients with advanced RCC.
 - •OPDIVO as a single agent is indicated for the treatment of patients with advanced renal cell carcinoma (RCC) who have received prior anti-angiogenic therapy.
-- •OPDIVO, in combination with ipilimumab, is indicated for the treatment of patients with intermediate or poor risk, previously untreated advanced RCC.
 
 ## 1.6 Classical Hodgkin Lymphoma
 
