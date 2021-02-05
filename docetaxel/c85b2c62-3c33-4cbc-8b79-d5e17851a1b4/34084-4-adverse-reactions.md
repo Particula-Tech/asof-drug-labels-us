@@ -1,6 +1,6 @@
 # 6 ADVERSE REACTIONS
 
-The most serious adverse reactions from DOCETAXEL INJECTION are:
+The most serious adverse reactions from docetaxel are:
 
 - Toxic Deaths [see Boxed Warning, Warnings and Precautions (5.1)]
 - Hepatic Impairment [see Boxed Warning, Warnings and Precautions (5.2)]
@@ -374,7 +374,7 @@ Table 9 - Clinically Important Treatment-Emergent Adverse Reactions (Regardless 
 
 Gastric Cancer
 
-Combination therapy with docetaxel in gastric adenocarcinoma
+Combination therapy with DOCETAXEL INJECTION in gastric adenocarcinoma
 
 Data in the following table are based on the experience of 221 patients with advanced gastric adenocarcinoma and no history of prior chemotherapy for advanced disease who were treated with docetaxel 75 mg/m2 in combination with cisplatin and fluorouracil (see Table 10).
 Table 10 - Clinically Important Treatment-Emergent Adverse Reactions Regardless of Relationship to Treatment in the Gastric Cancer Study
@@ -417,7 +417,7 @@ Clinically important treatment-emergent adverse reactions were determined based 
 
 Head and Neck Cancer
 
-Combination therapy with docetaxel in head and neck cancer
+Combination therapy with DOCETAXEL INJECTION in head and neck cancer
 
 Table 11 summarizes the safety data obtained from patients that received induction chemotherapy with docetaxel 75 mg/m2 in combination with cisplatin and fluorouracil followed by radiotherapy (TAX323; 174 patients) or chemoradiotherapy (TAX324; 251 patients).
 The treatment regimens are described in Section 14.6.

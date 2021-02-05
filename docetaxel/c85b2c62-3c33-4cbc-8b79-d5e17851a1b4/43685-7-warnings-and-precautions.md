@@ -4,14 +4,14 @@
 
 Breast Cancer
 
-DOCETAXEL INJECTION administered at 100 mg/m2 was associated with deaths considered possibly or probably related to treatment in 2% (19/965) of metastatic breast cancer patients, both previously treated and untreated, with normal baseline liver function and in 11.5% (7/61) of patients with various tumor types who had abnormal baseline liver function (AST and/or ALT >1.5 times ULN together with AP >2.5 times ULN).
+Docetaxel administered at 100 mg/m2 was associated with deaths considered possibly or probably related to treatment in 2% (19/965) of metastatic breast cancer patients, both previously treated and untreated, with normal baseline liver function and in 11.5% (7/61) of patients with various tumor types who had abnormal baseline liver function (AST and/or ALT >1.5 times ULN together with AP >2.5 times ULN).
 Among patients dosed at 60 mg/m2, mortality related to treatment occurred in 0.6% (3/481) of patients with normal liver function, and in 3 of 7 patients with abnormal liver function.
 Approximately half of these deaths occurred during the first cycle.
 Sepsis accounted for the majority of the deaths.
 
 Non-small Cell Lung Cancer
 
-DOCETAXEL INJECTION administered at a dose of 100 mg/m2 in patients with locally advanced or metastatic non-small cell lung cancer who had a history of prior platinum-based chemotherapy was associated with increased treatment-related mortality (14% and 5% in two randomized, controlled studies).
+Docetaxel administered at a dose of 100 mg/m2 in patients with locally advanced or metastatic non-small cell lung cancer who had a history of prior platinum-based chemotherapy was associated with increased treatment-related mortality (14% and 5% in two randomized, controlled studies).
 There were 2.8% treatment-related deaths among the 176 patients treated at the 75 mg/m2 dose in the randomized trials.
 Among patients who experienced treatment-related mortality at the 75 mg/m2 dose level, 3 of 5 patients had an ECOG PS of 2 at study entry [see Dosage and Administration (2.2), Clinical Studies (14)].
 
@@ -33,7 +33,7 @@ Avoid retreating patients until platelets recover to a level > 100,000 cells/mm3
 
 A 25% reduction in the dose of DOCETAXEL INJECTION is recommended during subsequent cycles following severe neutropenia (<500 cells/mm3) lasting 7 days or more, febrile neutropenia, or a grade 4 infection in a DOCETAXEL INJECTION cycle [see Dosage and Administration (2.7)].
 
-Neutropenia (<2000 neutrophils/mm3) occurs in virtually all patients given 60 mg/m2 to 100 mg/m2 of DOCETAXEL INJECTION and grade 4 neutropenia (<500 cells/mm3) occurs in 85% of patients given 100 mg/m2 and 75% of patients given 60 mg/m2.
+Neutropenia (<2000 neutrophils/mm3) occurs in virtually all patients given 60 mg/m2 to 100 mg/m2 of docetaxel and grade 4 neutropenia (<500 cells/mm3) occurs in 85% of patients given 100 mg/m2 and 75% of patients given 60 mg/m2.
 Frequent monitoring of blood counts is, therefore, essential so that dose can be adjusted.
 DOCETAXEL INJECTION should not be administered to patients with neutrophils <1,500 cells/mm3.
 

@@ -75,8 +75,11 @@ The overall reduction in risk of relapse was 25.7% for TAC-treated patients.
 At the time of this interim analysis, based on 219 deaths, overall survival was longer for TAC than FAC (hazard ratio=0.69, 2-sided 95% CI=0.53, 0.9).
 (See Figure 2).
 There will be further analysis at the time survival data mature.
-The following table describes the results of subgroup analyses for DFS and OS (See Table 14).
+Figure 1: TAX316 Disease Free Survival K-M curve
 
+Figure 2: TAX316 Overall Survival K-M Curve
+
+The following table describes the results of subgroup analyses for DFS and OS (See Table 14).
 Table 14 - Subset Analyses-Adjuvant Breast Cancer Study
 
 |  |  | Disease Free Survival |  | Overall Survival |  |
