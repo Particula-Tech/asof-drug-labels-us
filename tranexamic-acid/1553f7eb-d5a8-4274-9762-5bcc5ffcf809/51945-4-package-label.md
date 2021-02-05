@@ -4,11 +4,15 @@ Tranexamic 10 mL Vial Label
 
 NDC 39822-1000-1
 
+10 mL Single-Dose Vial
+
 Tranexamic Acid Injection
 
-1000 mg/10 mL (100 mg/mL)
+1,000 mg/10 mL (100 mg/mL)
 
 Solution for intravenous injection
+
+Discard any remaining portion after single use
 
 Rx only
 
@@ -18,12 +22,14 @@ Tranexamic 10 mL Vial Carton
 
 NDC 39822-1000-1
 
+Contains 10 x 10 mL Single-Dose Vials
+
 Tranexamic Acid Injection
 
-1000 mg/10 mL (100 mg/mL)
+1,000 mg/10 mL (100 mg/mL)
 
 Solution for Intravenous Injection
 
-Rx only
+Discard any remaining portion after single use
 
-10 x 10 mL single dose vials
+Rx only

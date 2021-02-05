@@ -3,7 +3,7 @@
 ## 2.1 Recommended Dosage
 
 The recommended dose of Tranexamic Acid Injection is 10 mg/kg actual body weight intravenously administered as a single dose, immediately before tooth extractions.
-Infuse no more than 10 mL/minute to avoid hypotension [see Warnings and Precautions (5.1)].
+Infuse no more than 1 mL/minute to avoid hypotension [see Warnings and Precautions (5.1)].
 Following tooth extraction, Tranexamic Acid Injection may be administered for 2 to 8 days at a dose of 10 mg/kg actual body weight 3 to 4 times daily, intravenously.
 
 Parenteral drug products should be inspected visually for particulate matter and discoloration prior to administration, whenever solution and container permit.
@@ -24,7 +24,7 @@ For patients with moderate to severe impaired renal function, the following dosa
 Table 1.
 Recommended Dosage in Patients with Varying Degrees of Renal Impairment
 
-| Serum Creatinine (mg/dl) | Tranexamic Acid Intravenous Dosage |
+| Serum Creatinine (mg/dL) | Tranexamic Acid Intravenous Dosage |
 | --- | --- |
 | 1.36 to 2.83 (120 to 250 micromol/L) | 10 mg/kg twice daily |
 | 2.83 to 5.66 (250 to 500 micromol/L) | 10 mg/kg daily |
