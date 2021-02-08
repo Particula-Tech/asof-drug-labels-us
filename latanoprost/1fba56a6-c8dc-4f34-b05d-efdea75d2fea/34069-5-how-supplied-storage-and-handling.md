@@ -1,9 +1,9 @@
 # 16 HOW SUPPLIED/STORAGE AND HANDLING
 
-Latanoprost Ophthalmic Solution is a clear, isotonic, buffered, preserved colorless solution of latanoprost 0.005% (50 mcg/mL).
-It is supplied as a 2.5 mL solution in a 4 mL clear LDPE DROP-TAINER* bottle with a clear LDPE dropper tip and a turquoise polypropylene cap.
+Latanoprost ophthalmic solution is a clear, isotonic, buffered, preserved colorless solution of latanoprost 50 mcg/mL (0.005%).
+It is supplied as a 2.5 mL solution in a 4 mL clear LDPE bottle with a clear LDPE dropper tip and a turquoise polypropylene cap.
 
-2.5 mL fill, 0.005% (50 mcg/mL)
+2.5 mL fill, 50 mcg/mL (0.005%)
 
 1. Package of 1 bottle NDC 61314-547-01
 2. Multi-pack of 3 bottles NDC 61314-547-03

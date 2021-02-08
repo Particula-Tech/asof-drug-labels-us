@@ -3,11 +3,11 @@
 Potential for Pigmentation
 
 Advise patients about the potential for increased brown pigmentation of the iris, which may be permanent.
-Inform patients about the possibility of eyelid skin darkening, which may be reversible after discontinuation of Latanoprost ophthalmic solution [see Warnings and Precautions (5.1)].
+Inform patients about the possibility of eyelid skin darkening, which may be reversible after discontinuation of latanoprost ophthalmic solution [see Warnings and Precautions (5.1)].
 
 Potential for Eyelash Changes
 
-Inform patients of the possibility of eyelash and vellus hair changes in the treated eye during treatment with Latanoprost ophthalmic solution.
+Inform patients of the possibility of eyelash and vellus hair changes in the treated eye during treatment with latanoprost ophthalmic solution.
 These changes may result in a disparity between eyes in length, thickness, pigmentation, number of eyelashes or vellus hairs, and/or direction of eyelash growth.
 Eyelash changes are usually reversible upon discontinuation of treatment.
 
@@ -20,20 +20,22 @@ When to Seek Physician Advice
 
 Advise patients that if they develop an intercurrent ocular condition (e.g., trauma or infection) or have ocular surgery, or develop any ocular reactions, particularly conjunctivitis and eyelid reactions, they should immediately seek their physician's advice concerning the continued use of the multiple-dose container.
 
-Use with Contact Lenses
+Contact Lens Use
 
-Advise patients that Latanoprost ophthalmic solution contains benzalkonium chloride, which may be absorbed by contact lenses.
+Advise patients that latanoprost ophthalmic solution contains benzalkonium chloride, which may be absorbed by contact lenses.
 Contact lenses should be removed prior to administration of the solution.
-Lenses may be reinserted 15 minutes following administration of Latanoprost ophthalmic solution.
+Lenses may be reinserted 15 minutes following administration of latanoprost ophthalmic solution.
 
 Use with Other Ophthalmic Drugs
 
-If more than one topical ophthalmic drug is being used, the drugs should be administered at least five (5) minutes apart.
+Advise patients that if more than one topical ophthalmic drug is being used, the drugs should be administered at least five (5) minutes apart.
+
+If a Dose is Missed
+
+Advise patients that if one dose is missed, treatment should continue with the next dose as normal.
 
 Manufactured by Alcon Laboratories, Inc.
 
 Fort Worth, Texas 76134 for
 
 Sandoz Inc., Princeton, NJ 08540
-
-Revised: November 2017
