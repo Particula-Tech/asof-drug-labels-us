@@ -14,6 +14,6 @@ Mfd by: Sandoz Manufacturing Inc.
 Boucherville, Québec, J4B 7K8
 
 Rev.
-July 2020
+January 2021
 
-46270829
+46283215
