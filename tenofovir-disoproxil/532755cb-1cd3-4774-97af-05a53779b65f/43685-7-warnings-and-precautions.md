@@ -9,6 +9,14 @@ If appropriate, resumption of anti-hepatitis B therapy may be warranted, especia
 ## 5.2 New Onset or Worsening Renal Impairment
 
 Tenofovir is principally eliminated by the kidney.
+Renal impairment, including cases of acute renal failure and Fanconi syndrome (renal tubular injury with severe hypophosphatemia), has been reported with the use of tenofovir disoproxil fumarate.
+Dosing interval adjustment of tenofovir disoproxil fumarate and close monitoring of renal function are recommended in all patients with creatinine clearance below 50 mL/min.
+No safety or efficacy data are available in patients with renal impairment who received tenofovir disoproxil fumarate using these dosing guidelines, so the potential benefit of tenofovir disoproxil fumarate therapy should be assessed against the potential risk of renal toxicity.
+Tenofovir disoproxil fumarate should be avoided with concurrent or recent use of a nephrotoxic agent (e.g., high-dose or multiple non-steroidal anti-inflammatory drugs [NSAIDs]) Cases of acute renal failure after initiation of high-dose or multiple NSAIDs have been reported in HIV-infected patients with risk factors for renal dysfunction who appeared stable on TDF.
+Some patients required hospitalization and renal replacement therapy.
+Alternatives to NSAIDs should be considered, if needed, in patients at risk for renal dysfunction.
+Persistent or worsening bone pain, pain in extremities, fractures and/or muscular pain or weakness may be manifestations of proximal renal tubulopathy and should prompt an evaluation of renal function in patients at risk of renal dysfunction.
+Tenofovir is principally eliminated by the kidney.
 Renal impairment, including cases of acute renal failure and Fanconi syndrome (renal tubular injury with severe hypophosphatemia), has been reported with the use of tenofovir disoproxil fumarate [see Adverse Reactions (6.2)].
 Prior to initiation and during use of tenofovir disoproxil fumarate, on a clinically appropriate schedule, assess serum creatinine, estimated creatinine clearance, urine glucose, and urine protein in all patients.
 In patients with chronic kidney disease, also assess serum phosphorus.
@@ -38,6 +46,13 @@ Autoimmune disorders (such as Graves’ disease, polymyositis, and Guillain-Barr
 
 Bone Mineral Density
 
+In clinical trials in HIV-1 infected adults, tenofovir disoproxil fumarate was associated with slightly greater decreases in bone mineral density (BMD) and increases in biochemical markers of bone metabolism, suggesting increased bone turnover relative to comparators.
+Serum parathyroid hormone levels and 1,25 Vitamin D levels were also higher in subjects receiving tenofovir disoproxil fumarate.
+The effects of tenofovir disoproxil fumarate -associated changes in BMD and biochemical markers on long-term bone health and future fracture risk in adults and pediatric subjects 2 years and older are unknown.
+The long-term effect of lower spine and total body BMD on skeletal growth in pediatric patients, and in particular, the effects of long-duration exposure in younger children is unknown.
+Although the effect of supplementation with calcium and vitamin D was not studied, such supplementation may be beneficial.
+Assessment of BMD should be considered for adult and pediatric patients who have a history of pathologic bone fracture or other risk factors for osteoporosis or bone loss.
+If bone abnormalities are suspected, appropriate consultation should be obtained.
 In clinical trials in HIV-1 infected adults, tenofovir disoproxil fumarate was associated with slightly greater decreases in bone mineral density (BMD) and increases in biochemical markers of bone metabolism, suggesting increased bone turnover relative to comparators [see Adverse Reactions (6.1)].
 Serum parathyroid hormone levels and 1,25 Vitamin D levels were also higher in subjects receiving tenofovir disoproxil fumarate.
 Clinical trials evaluating tenofovir disoproxil fumarate in pediatric subjects were conducted.
@@ -54,7 +69,9 @@ If bone abnormalities are suspected, appropriate consultation should be obtained
 
 Mineralization Defects
 
-Cases of osteomalacia associated with proximal renal tubulopathy, manifested as bone pain or pain in extremities and which may contribute to fractures, have been reported in association with tenofovir disoproxil fumarate use [see Adverse Reactions (6.2)].
+Cases of osteomalacia associated with proximal renal tubulopathy, manifested as bone pain or pain in extremities and which may contribute to fractures, have been reported in association with tenofovir disoproxil fumarate use.
+Arthralgia and muscle pain or weakness have also been reported in cases of proximal renal tubulopathy.
+Hypophosphatemia and osteomalacia secondary to proximal renal tubulopathy should be considered in patients at risk of renal dysfunction who present with persistent or worsening bone or muscle symptoms while receiving TDF-containing products Cases of osteomalacia associated with proximal renal tubulopathy, manifested as bone pain or pain in extremities and which may contribute to fractures, have been reported in association with tenofovir disoproxil fumarate use [see Adverse Reactions (6.2)].
 Arthralgia and muscle pain or weakness have also been reported in cases of proximal renal tubulopathy.
 Hypophosphatemia and osteomalacia secondary to proximal renal tubulopathy should be considered in patients at risk of renal dysfunction who present with persistent or worsening bone or muscle symptoms while receiving TDF-containing products [see Warnings and Precautions (5.2)].
 Pediatric use information is approved for Gilead Sciences, Inc.’s VIREAD® (tenofovir disoproxil fumarate) tablets.

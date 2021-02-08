@@ -6,6 +6,7 @@ Tenofovir disoproxil fumarate tablets are indicated in combination with other an
 
 ## 1.2 Chronic Hepatitis B
 
+disoproxil fumarate tablets are indicated for the treatment of chronic hepatitis B virus (HBV) in adults and pediatric patients 12 years of age and older.
 Tenofovir disoproxil fumarate tablets are indicated for the treatment of chronic hepatitis B virus (HBV) in adults and pediatric patients 12 years of age and older.
 
 Pediatric use information is approved for Gilead Sciences, Inc.’s VIREAD® (tenofovir disoproxil fumarate) tablets.

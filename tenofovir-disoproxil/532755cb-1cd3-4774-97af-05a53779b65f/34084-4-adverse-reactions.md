@@ -17,7 +17,7 @@ Table 4 Selected Adverse Reactionsa (Grades 2–4) Reported in ≥5% in Any Trea
 |  | tenofovir disoproxil fumarate + 3TC + EFV | d4T + 3TC + EFV |
 | --- | --- | --- |
 | N=299 | N=301 |  |
-| Rash eventb | 18% | 12% |
+| Rash event b | 18% | 12% |
 | Headache | 14% | 17% |
 | Pain | 13% | 12% |
 | Diarrhea | 11% | 13% |
@@ -35,8 +35,8 @@ Table 4 Selected Adverse Reactionsa (Grades 2–4) Reported in ≥5% in Any Trea
 | Dyspepsia | 4% | 5% |
 | Dizziness | 3% | 6% |
 | Myalgia | 3% | 5% |
-| Lipodystrophyc | 1% | 8% |
-| Peripheral neuropathyd | 1% | 5% |
+| Lipodystrophy c | 1% | 8% |
+| Peripheral neuropathy d | 1% | 5% |
 
 a. Frequencies of adverse reactions are based on all treatment-emergent adverse events, regardless of relationship to study drug. b. Rash event includes rash, pruritus, maculopapular rash, urticaria, vesiculobullous rash, and pustular rash. c. Lipodystrophy represents a variety of investigator-described adverse events not a protocol-defined syndrome. d. Peripheral neuropathy includes peripheral neuritis and neuropathy.
 Laboratory Abnormalities: Table 5 provides a list of laboratory abnormalities (Grades 3−4) observed in Trial 903.
@@ -53,7 +53,7 @@ Table 5 Grades 3–4 Laboratory Abnormalities Reported in ≥1% of tenofovir dis
 | AST (M: >180 U/L; F: >170 U/L) | 5% | 7% |
 | ALT (M: >215 U/L; F: >170 U/L) | 4% | 5% |
 | Hematuria (>100 RBC/HPF) | 7% | 7% |
-| Neutrophils (<750/mm3) | 3% | 1% |
+| Neutrophils (<750/mm 3) | 3% | 1% |
 | Fasting Triglycerides (>750 mg/dL) | 1% | 9% |
 
 Changes in Bone Mineral Density: In HIV-1 infected adult subjects in Trial 903, there was a significantly greater mean percentage decrease from baseline in BMD at the lumbar spine in subjects receiving tenofovir disoproxil fumarate + 3TC + EFV (−2.2% ± 3.9) compared with subjects receiving d4T + 3TC + EFV (−1.0% ± 4.6) through 144 weeks.
@@ -65,7 +65,7 @@ In addition, there were significant increases in biochemical markers of bone met
 In Trial 934, 511 antiretroviral-naïve subjects received efavirenz (EFV) administered in combination with either emtricitabine (FTC) + tenofovir disoproxil fumarate (N=257) or zidovudine (AZT)/lamivudine (3TC) (N=254) for 144 weeks.
 The most common adverse reactions (incidence greater than or equal to 10%, all grades) included diarrhea, nausea, fatigue, headache, dizziness, depression, insomnia, abnormal dreams, and rash.
 Table 6 provides the treatment-emergent adverse reactions (Grades 2−4) occurring in greater than or equal to 5% of subjects treated in any treatment group.
-Table 6 Selected Adverse Reactionsa (Grades 2−4) Reported in ≥5% in Any Treatment Group in Trial 934 (0−144 Weeks)
+Table 6 Selected Adverse Reactions a (Grades 2−4) Reported in ≥5% in Any Treatment Group in Trial 934 (0−144 Weeks)
 
 |  | tenofovir disoproxil fumarate b + FTC + EFV | AZT/3TC + EFV |
 | --- | --- | --- |
@@ -77,7 +77,7 @@ Table 6 Selected Adverse Reactionsa (Grades 2−4) Reported in ≥5% in Any Trea
 | Dizziness | 8% | 7% |
 | Upper respiratory tract infections | 8% | 5% |
 | Sinusitis | 8% | 4% |
-| Rash eventc | 7% | 9% |
+| Rash event c | 7% | 9% |
 | Headache | 6% | 5% |
 | Insomnia | 5% | 7% |
 | Nasopharyngitis | 5% | 3% |
@@ -87,7 +87,7 @@ a. Frequencies of adverse reactions are based on all treatment-emergent adverse 
 Laboratory Abnormalities: Laboratory abnormalities observed in this trial were generally consistent with those seen in previous trials (Table 7).
 Table 7 Significant Laboratory Abnormalities Reported in ≥1% of Subjects in Any Treatment Group in Trial 934 (0-144 Weeks)
 
-|  | Tenofovir disoproxil fumarate + FTC + EFVa | AZT/3TC + EFV |
+|  | Tenofovir disoproxil fumarate + FTC + EFV a | AZT/3TC + EFV |
 | --- | --- | --- |
 | N=257 | N=254 |  |
 | Any ≥ Grade 3 Laboratory Abnormality | 30% | 26% |
@@ -131,10 +131,10 @@ Table 8 Selected Adverse Reactions a (Grades 2-4) Reported in ≥3% in Any Treat
 | Nervous System |  |  |  |  |
 | Depression | 4% | 3% | 8% | 4% |
 | Insomnia | 3% | 2% | 4% | 4% |
-| Peripheral neuropathyb | 3% | 3% | 5% | 2% |
+| Peripheral neuropathy b | 3% | 3% | 5% | 2% |
 | Dizziness | 1% | 3% | 3% | 1% |
 | Skin and Appendage |  |  |  |  |
-| Rash eventc | 5% | 4% | 7% | 1% |
+| Rash event c | 5% | 4% | 7% | 1% |
 | Sweating | 3% | 2% | 3% | 1% |
 | Musculoskeletal Myalgia | 3% | 3% | 4% | 1% |
 | Metabolic Weight loss | 2% | 1% | 4% | 2% |
@@ -154,7 +154,7 @@ Table 9 Grades 3–4 Laboratory Abnormalities Reported in ≥1% of tenofovir dis
 | AST (M: >180 U/L; F: >170 U/L) | 3% | 3% | 4% | 5% |
 | ALT (M: >215 U/L; F: >170 U/L) | 2% | 2% | 4% | 5% |
 | Serum Glucose (>250 U/L) | 2% | 4% | 3% | 3% |
-| Neutrophils (<750/mm3) | 1% | 1% | 2% | 1% |
+| Neutrophils (<750/mm 3) | 1% | 1% | 2% | 1% |
 
 Adverse Reactions from Clinical Trials Experience in HIV-1 Infected Pediatric Subjects 2 Years and Older Assessment of adverse reactions is based on two randomized trials (Trials 352 and 321) in 184 HIV-1 infected pediatric subjects (2 years to less than 18 years of age) who received treatment with tenofovir disoproxil fumarate (N=93) or placebo/active comparator (N=91) in combination with other antiretroviral agents for 48 weeks [see Clinical Studies (14.3)].
 The adverse reactions observed in subjects who received treatment with tenofovir disoproxil fumarate were consistent with those observed in clinical trials in adults.

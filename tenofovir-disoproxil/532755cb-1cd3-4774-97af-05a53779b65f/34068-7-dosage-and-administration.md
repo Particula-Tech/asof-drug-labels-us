@@ -32,12 +32,15 @@ Table 3 provides dosage interval adjustment for patients with renal impairment.
 No dosage adjustment of tenofovir disoproxil fumarate tablets 300 mg is necessary for patients with mild renal impairment (creatinine clearance 50–80 mL/min) [see Warnings and Precautions (5.3), Use in Specific Populations (8.6), and Clinical Pharmacology (12.3)].
 Table 3 Dosage Interval Adjustment for Adult Patients with Altered Creatinine Clearance
 
-|  | Creatinine Clearance (mL/min)a |  |  | Hemodialysis Patients |
+|  | Creatinine Clearance (mL/min) a |  |  | Hemodialysis Patients |
 | --- | --- | --- | --- | --- |
-|  | 50 or greater | 30–49 | 10–29 | Every 7 days or after a total of approximately 12 hours of dialysisb |
+|  | 50 or greater | 30–49 | 10–29 | Every 7 days or after a total of approximately 12 hours of dialysis b |
 | Recommended 300 mg Dosing Interval | Every 24 hours | Every 48 hours | Every 72 to 96 hours |  |
 
 a. Calculated using ideal (lean) body weight. b. Generally once weekly assuming 3 hemodialysis sessions a week of approximately 4 hours’ duration.
+Tenofovir disoproxil fumarate should be administered following completion of dialysis.
+No data are available to make dosage recommendations in patients with creatinine clearance below 10 mL/min who are not on hemodialysis.
+No data are available to make dosage recommendations in pediatric patients with renal impairment. a. Calculated using ideal (lean) body weight. b. Generally once weekly assuming 3 hemodialysis sessions a week of approximately 4 hours’ duration.
 Tenofovir disoproxil fumarate should be administered following completion of dialysis.
 No data are available to make dosage recommendations in patients with creatinine clearance below 10 mL/min who are not on hemodialysis.
 No data are available to make dosage recommendations in pediatric patients with renal impairment.
