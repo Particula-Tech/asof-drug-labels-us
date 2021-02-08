@@ -54,8 +54,25 @@ Clinical Success Rates by Infecting Pathogen in the cSSSI Trials in Adult Patien
 
 †As determined by the central laboratory.
 
-Pediatric use information is approved for Merck & Co., Inc.’s Cubicin (daptomycin for injection).
-However, due to Merck & Co., Inc.’s marketing exclusivity rights, this drug product is not labeled with that pediatric information.
+Pediatric Patients (1 to 17 Years of Age) with cSSSI
+
+The cSSSI pediatric trial was a single prospective multi-center, randomized, comparative trial.
+A total of 396 pediatric patients aged 1 to 17 years with cSSSI caused by Gram positive pathogens were enrolled into the study.
+Patients known to have bacteremia, osteomyelitis, endocarditis, and pneumonia at baseline were excluded.
+Patients were enrolled in a stepwise approach into four age groups and given age-dependent doses of daptomycin once daily for up to 14 days.
+The different age groups and doses evaluated were as follows: Adolescents (12 to 17 years) treated with 5 mg/kg of daptomycin (n=113), Children (7 to 11 years) treated with 7 mg/kg of daptomycin (n=113), Children (2 to 6 years) treated with 9 mg/kg of daptomycin (n=125) and Infants (1 to <2 years) treated with 10 mg/kg (n= 45).
+
+Patients were randomized 2:1 to receive daptomycin or a standard of care (SOC) comparator, which included intravenous therapy with either vancomycin, clindamycin, or an anti-staphylococcal semi-synthetic penicillin (nafcillin, oxacillin, or cloxacillin).
+Patients could switch to oral therapy after clinical improvement was demonstrated (no minimum IV dosing was required).
+
+The primary objective of this study was to evaluate the safety of daptomycin.
+The clinical outcome was determined by resolution or improvement of symptoms at the End-of-Treatment (EOT), 3 days after the last dose, and Test-of-Cure (TOC), 7 to 14 days after the last dose.
+Investigator observed outcomes were verified in a blinded fashion.
+Of the 396 subjects randomized in the study, 389 subjects were treated with daptomycin or comparator and included in the ITT population.
+Of these, 257 subjects were randomized to the daptomycin group and 132 subjects were randomized to the comparator group.
+Approximately 95% of subjects switched to oral therapy.
+The mean day of switch was day 4, and ranged from day 1 to day 14.
+The clinical success rates determined at 7 to 14 days after last dose of therapy (IV and oral) (TOC visit) were 88% (227/257) for daptomycin and 86% (114/132) for comparator.
 
 ## 14.2 S. aureus Bacteremia/Endocarditis
 
@@ -74,7 +91,7 @@ Final diagnoses and outcome assessments at Test of Cure (6 weeks after the last 
 
 A total of 246 patients ≥18 years of age (124 daptomycin for injection, 122 comparator) with S. aureus bacteremia were randomized from 48 centers in the US and Europe.
 In the ITT population, 120 patients received daptomycin for injection and 115 received comparator (62 received an anti-staphylococcal semi-synthetic penicillin and 53 received vancomycin).
-Thirty-five patients treated with an anti­staphylococcal semi-synthetic penicillin received vancomycin initially for 1 to 3 days, pending final susceptibility results for the S. aureus isolates.
+Thirty-five patients treated with an anti-­staphylococcal semi-synthetic penicillin received vancomycin initially for 1 to 3 days, pending final susceptibility results for the S. aureus isolates.
 The median age among the 235 patients in the ITT population was 53 years (range: 21 to 91 years); 30/120 (25%) in the daptomycin for injection group and 37/115 (32%) in the comparator group were ≥65 years of age.
 Of the 235 ITT patients, there were 141 (60%) males and 156 (66%) Caucasians across the two treatment groups.
 In addition, 176 (75%) of the ITT population had systemic inflammatory response syndrome (SIRS) at baseline and 85 (36%) had surgical procedures within 30 days prior to onset of the S. aureus bacteremia.
@@ -90,7 +107,7 @@ Complicated bacteremia was defined as S. aureus isolated from blood cultures obt
 Uncomplicated bacteremia was defined as S. aureus isolated from blood culture(s) obtained on a single calendar day, no metastatic foci of infection, no infection of prosthetic material, and classification of the patient as not having endocarditis according to the modified Duke criteria.
 The definition of right-sided infective endocarditis (RIE) used in the clinical trial was Definite or Possible Endocarditis according to the modified Duke criteria and no echocardiographic evidence of predisposing pathology or active involvement of either the mitral or aortic valve.
 Complicated RIE comprised patients who were not intravenous drug users, had a positive blood culture for MRSA, serum creatinine ≥2.5 mg/dL, or evidence of extrapulmonary sites of infection.
-Patients who were intravenous drug users, had a positive blood culture for methicillin­ susceptible S. aureus (MSSA), had serum creatinine <2.5 mg/dL, and were without evidence of extrapulmonary sites of infection were considered to have uncomplicated RIE.
+Patients who were intravenous drug users, had a positive blood culture for methicillin­-susceptible S. aureus (MSSA), had serum creatinine <2.5 mg/dL, and were without evidence of extrapulmonary sites of infection were considered to have uncomplicated RIE.
 
 The coprimary efficacy endpoints in the trial were the Adjudication Committee success rates at the Test of Cure visit (6 weeks after the last treatment dose) in the ITT and Per Protocol (PP) populations.
 The overall Adjudication Committee success rates in the ITT population were 44.2% (53/120) in patients treated with daptomycin for injection and 41.7% (48/115) in patients treated with comparator (difference = 2.4% [95% CI −10.2, 15.1]).
@@ -140,5 +157,22 @@ Failure of treatment due to persisting or relapsing S. aureus infections was ass
 Among all failures, isolates from 6 daptomycin for injection-treated patients and 1 vancomycin-treated patient developed increasing MICs (reduced susceptibility) by central laboratory testing during or following therapy.
 Most patients who failed due to persisting or relapsing S. aureus infection had deep-seated infection and did not receive necessary surgical intervention [see Warnings and Precautions (5.9)].
 
-Pediatric use information is approved for Merck & Co., Inc.’s Cubicin (daptomycin for injection).
-However, due to Merck & Co., Inc.’s marketing exclusivity rights, this drug product is not labeled with that pediatric information.
+Pediatric Patients (1 to 17 Years of Age) with S. aureus Bacteremia
+
+The pediatric S. aureus bacteremia study was designed as a prospective multi-center, randomized, comparative trial to treat pediatric patients aged 1 to 17 years with bacteremia.
+Patients known to have endocarditis or pneumonia at baseline were excluded.
+Patients were enrolled in a stepwise approach into three age groups and given age-dependent doses of daptomycin once daily for up to 42 days.
+The different age groups and doses evaluated were as follows: Adolescents (12 to 17 years, n=14 patients) treated with daptomycin dosed at 7 mg/kg once daily, Children (7 to 11 years, n=19 patients) treated with daptomycin dosed at 9 mg/kg once daily and Children (2 to 6 years, n=22 patients) treated with daptomycin dosed at 12 mg/kg once daily.
+No patients 1 to <2 years of age were enrolled.
+
+Patients were randomized 2:1 to receive daptomycin or a standard of care comparator, which included intravenous therapy with vancomycin, semi-synthetic penicillin, first generation cephalosporin or clindamycin.
+Patients could switch to oral therapy after clinical improvement was demonstrated (no minimum IV dosing was required).
+
+The primary objective of this study was to assess the safety of daptomycin.
+The clinical outcome was determined by resolution or improvement of symptoms at test-of-cure (TOC) visit, 7 to 14 days after the last dose, which was assessed by the site level Blinded Evaluator.
+
+Of the 82 subjects randomized in the study, 81 subjects were treated with daptomycin or comparator and included in the safety population, and 73 had a proven S. aureus bacteremia at Baseline.
+Of these, 51 subjects were randomized to the daptomycin group and 22 subjects were randomized to the comparator group.
+The mean duration of IV therapy was 12 days, with a range of 1 to 44 days.
+Forty-eight subjects switched to oral therapy, and the mean duration of oral therapy was 21 days.
+The clinical success rates determined at 7 to 14 days after last dose of therapy (IV and oral) (TOC visit) were 88% (45/51) for daptomycin and 77% (17/22) for comparator.

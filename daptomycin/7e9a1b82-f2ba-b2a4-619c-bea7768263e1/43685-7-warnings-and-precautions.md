@@ -72,7 +72,7 @@ Failure of treatment due to persisting or relapsing S. aureus bacteremia/endocar
 
 ## 5.10 Decreased Efficacy in Patients with Moderate Baseline Renal Impairment
 
-Limited data are available from the two Phase 3 complicated skin and skin structure infection (cSSSI) trials regarding clinical efficacy of daptomycin for injection treatment in adult patients with creatinine clearance (CLCR) <50 mL/min; only 31/534 (6%) patients treated with daptomycin for injection in the intent-to­ treat (ITT) population had a baseline CLCR <50 mL/min.
+Limited data are available from the two Phase 3 complicated skin and skin structure infection (cSSSI) trials regarding clinical efficacy of daptomycin for injection treatment in adult patients with creatinine clearance (CLCR) <50 mL/min; only 31/534 (6%) patients treated with daptomycin for injection in the intent-to-treat (ITT) population had a baseline CLCR <50 mL/min.
 Table 4 shows the number of adult patients by renal function and treatment group who were clinical successes in the Phase 3 cSSSI trials.
 
 Table 4.
