@@ -5,6 +5,6 @@ Rasagiline mesylate is designated chemically as: 1H-Inden-1-amine, 2, 3­dihydro
 The empirical formula of rasagiline mesylate is (C12H13NCH4SO3 and its molecular weight is 267.34.
 Its structural formula is:
 
-Rasagiline is a white to off-white powder, freely soluble in water or ethanol and sparingly soluble in isopropanol.
+Rasagiline mesylate is a white to off-white powder, freely soluble in water or ethanol and sparingly soluble in isopropanol.
 Each rasagiline tablets for oral administration contains 0.5mg or 1mg of rasagiline (equivalent to 0.78 mg or 1.56 mg of rasagiline mesylate).
 Each rasagiline tablet also contains the following inactive ingredients: microcrystalline cellulose, corn starch, colloidal silicon dioxide, citric acid monohydrate, pregelatinized starch, stearic acid and talc.

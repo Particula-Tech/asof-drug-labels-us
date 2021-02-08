@@ -46,7 +46,7 @@ In subjects with moderate hepatic impairment (Child to Pugh score 7 to 9), AUC a
 Renal Impairment Following repeat dose administration (8 days) of rasagiline (1 mg/day) in subjects with moderate renal impairment, rasagiline exposure (AUC) was similar to rasagiline exposure in healthy subjects, while the major metabolite 1-AI exposure (AUC) was increased 1.5-fold in subjects with moderate renal impairment, compared to healthy subjects.
 Because 1-AI is not an MAO inhibitor, no dose adjustment is needed for patients with mild and moderate renal impairment.
 Data are not available for patients with severe renal impairment.
-Elderly Since age has little influence on rasagiline pharmacokinetics, it can be administered at the recommended dose in the elderly (> 65 years).
+Elderly Since age has little influence on rasagiline pharmacokinetics, it can be administered at the recommended dose in the elderly (≥65 years).
 Pediatric Rasagiline has not been investigated in patients below 18 years of age.
 Gender The pharmacokinetic profile of rasagiline is similar in men and women.
 

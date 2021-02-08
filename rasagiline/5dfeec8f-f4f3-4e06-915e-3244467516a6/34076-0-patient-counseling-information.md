@@ -25,10 +25,10 @@ Impulse Control/Compulsive Behaviors Advise patients that they may experience in
 Although it is not proven that the medications caused these events, these urges were reported to have stopped in some cases when the dose was reduced or the medication was stopped.
 Prescribers should ask patients about the development of new or increased gambling urges, sexual urges, or other urges while being treated with rasagiline tablets.
 Patients should inform their physician if they experience new or increased gambling urges, increased sexual urges, or other intense urges while taking rasagiline tablets.
-Physicians should consider dose reduction or stopping the medication if a patient develops such urges while taking rasagiline tablets [see Warnings and Precautions 5.9].
+Physicians should consider dose reduction or stopping the medication if a patient develops such urges while taking rasagiline tablets [see Warnings and Precautions (5.9].
 Withdrawal-Emergent Hyperpyrexia and Confusion Tell patients to contact their healthcare provider if they wish to discontinue rasagiline tablets [see Warnings and Precautions (5.10)].
 Missing Dose Instruct patients to take rasagiline tablets as prescribed.
 If a dose is missed, the patient should not double-up the dose of rasagiline tablets.
 The next dose should be taken at the usual time on the following day.
 Pregnancy Advise patients to notify their healthcare provider if they are pregnant or plan to become pregnant [see Use in Specific Populations (8.1)].
-Manufactured by: Alkem Laboratories Limited Mumbai 400 013, INDIA Distributed by: Ascend Laboratories, LLC Parsippany, NJ 07054 Revised Date: January,2019 PT 1464-02
+Manufactured by: Alkem Laboratories Limited Mumbai 400 013, INDIA Distributed by: Ascend Laboratories, LLC Parsippany, NJ 07054 Revised Date: September, 2020 PT 1464-03

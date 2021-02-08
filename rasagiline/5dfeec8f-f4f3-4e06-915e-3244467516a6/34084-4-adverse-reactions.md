@@ -128,3 +128,9 @@ Several of the more common adverse reactions seemed dose-related, including weig
 There were no significant differences in the safety profile based on age or gender.
 
 During all Parkinson’s disease phase 2/3 clinical trials, the long-term safety profile was similar to that observed with shorter duration exposure.
+
+## 6.2 Postmarketing Experience
+
+The following adverse reactions have been identified during postapproval use of rasagiline.
+Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
+Skin and Subcutaneous Tissue Disorders: Melanoma

@@ -2,7 +2,7 @@
 
 ## 7.1 Meperidine
 
-Serious, sometimes fatal reactions have been precipitated with concomitant use of meperidine (e.g., Demerol and other trade names) and MAO inhibitors including selective MAO-B inhibitors [see Contraindications (4)].
+Serious, sometimes fatal reactions have been precipitated with concomitant use of meperidine (e.g., Demerol and other tradenames) and MAO inhibitors including selective MAO-B inhibitors [see Contraindications (4)].
 
 ## 7.2 Dextromethorphan
 
