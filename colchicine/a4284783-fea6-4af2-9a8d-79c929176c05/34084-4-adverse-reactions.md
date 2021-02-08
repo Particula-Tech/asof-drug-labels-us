@@ -12,8 +12,10 @@ Serious toxic manifestations associated with colchicine include myelosuppression
 
 These most often occur with excessive accumulation or overdosage [see Overdosage (10)].
 
-The following adverse reactions have been reported with colchicine.
+The following adverse reactions have been identified with colchicine.
 These have been generally reversible upon temporarily interrupting treatment or lowering the dose of colchicine.
+
+Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
 
 Neurological: sensory motor neuropathy
 

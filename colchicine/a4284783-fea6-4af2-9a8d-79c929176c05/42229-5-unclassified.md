@@ -45,9 +45,12 @@ Before you take colchicine tablets, USP, tell your healthcare provider about all
 - are pregnant or plan to become pregnant.
   It is not known if colchicine tablets, USP will harm your unborn baby.
   Talk to your healthcare provider if you are pregnant or plan to become pregnant.
-- are breastfeeding or plan to breastfeed. colchicine tablets, USP passes into your breast milk.
-  You and your healthcare provider should decide if you will take colchicine tablets, USP or breastfeed.
-  If you take colchicine tablets, USP and breastfeed, you should talk to your child’s healthcare provider about how to watch for side effects in your child.
+- are a male with a female partner who can become pregnant.
+  Receiving treatment with colchicine may be related to infertility in some men that is reversible when treatment is stopped.
+- are breastfeeding or plan to breastfeed.
+  Colchicine passes into your breast milk.
+  You and your healthcare provider should decide if you will take colchicine tablets, USP while breastfeeding.
+  If you take colchicine tablets, USP and breastfeed you should talk to your child’s healthcare provider about how to watch for side effects in your child.
 
 Tell your healthcare provider about all the medicines you take, including ones that you may only be taking for a short time, such as antibiotics.
 See “What is the most important information that I should know about colchicine tablets, USP?”
@@ -69,7 +72,7 @@ How should I take colchicine tablets, USP?
 If you take colchicine tablets, USP daily and you miss a dose, then take it as soon as you remember.
 If it is almost time for your next dose, just skip the missed dose.
 Take the next dose at your regular time.
-Do not take two doses at the same time.
+Do not take 2 doses at the same time.
 
 What should I avoid while taking colchicine tablets, USP? • Avoid eating grapefruit or drinking grapefruit juice while taking colchicine tablets, USP.
 It can increase your chances of getting serious side effects.
@@ -94,7 +97,7 @@ These are not all of the possible side effects of colchicine tablets, USP.
 For more information, ask your healthcare provider or pharmacist.
 
 Call your doctor for medical advice about side effects.
-You may report side effects to FDA at 1800-FDA-1088.
+You may report side effects to FDA at 1-800-FDA-1088.
 
 How should I store colchicine tablets, USP?
 
@@ -120,6 +123,6 @@ Manufactured in India by: Alkem Laboratories Limited H.O.: ALKEM HOUSE, Senapati
 
 Distributed by: Ascend Laboratories, LLC Parsippany, NJ 07054.
 
-Revised: March, 2018
+Revised: September, 2020
 
-PT 2920
+PT 2920-01

@@ -1,6 +1,6 @@
 # 17 PATIENT COUNSELING INFORMATION
 
-Advise the patient to read the FDA-approved (Medication Guide).
+Advise the patient to read the FDA-approved patient labeling (Medication Guide).
 
 Dosing Instructions
 
@@ -8,8 +8,8 @@ Patients should be advised to take colchicine tablets as prescribed, even if the
 Patients should not alter the dose or discontinue treatment without consulting with their doctor.
 If a dose of colchicine tablets is missed:
 
-· For FMF, take the dose as soon as possible and then return to the normal dosing schedule.
-However, if a dose is skipped the patient should not double the next dose.
+- For FMF, take the dose as soon as possible and then return to the normal dosing schedule.
+  However, if a dose is skipped the patient should not double the next dose.
 
 Fatal Overdose
 
@@ -31,4 +31,11 @@ Neuromuscular Toxicity
 
 Patients should be informed that muscle pain or weakness, tingling or numbness in fingers or toes may occur with colchicine tablets alone or when it is used with certain other drugs.
 Patients developing any of these signs or symptoms must discontinue colchicine tablets and seek medical evaluation immediately.
-Revised date: December,2019 PT 2919-01/ PT 9063
+
+Infertility
+
+Advise males of reproductive potential that colchicine tablets may rarely and transiently impair fertility [see Use in Specific Populations (8.3)].
+
+Revised: September, 2020
+
+PT 2919-02/ PT 9063-01

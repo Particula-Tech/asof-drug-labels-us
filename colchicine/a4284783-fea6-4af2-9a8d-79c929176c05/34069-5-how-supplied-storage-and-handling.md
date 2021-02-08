@@ -16,10 +16,10 @@ Bottles of 500 NDC 67877-589-05
 
 Bottles of 1000 NDC 67877-589-10
 
-Carton of 10 [10 (1 x 10 Unit-dose) Tablets] NDC 67877-589-33 Carton of 30 [30 (1 x 10 Unit-dose) Tablets] NDC 67877-589-84
+Carton of 10 (1 x 10 Unit-dose) Tablets NDC 67877-589-33 Carton of 30 (3 x 10 Unit-dose) Tablets NDC 67877-589-84
 
 ## 16.2 Storage
 
-Store at 20° to 25°C (68° to 77°F) [See USP Controlled Room Temperature].
+Store at 20° C to 25°C (68° F to 77°F) [See USP Controlled Room Temperature].
 Protect from light.
 DISPENSE IN TIGHT, LIGHT-RESISTANT CONTAINER.

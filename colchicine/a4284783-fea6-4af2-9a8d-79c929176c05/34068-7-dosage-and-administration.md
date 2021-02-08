@@ -2,7 +2,8 @@
 
 The long-term use of colchicine is established for FMF.
 
-The recommended dosage of colchicine tablets depends on the patient’s age, renal function, hepatic function and use of coadministered drugs [see Dose Modification for Coadministration of Interacting Drugs (2.4)].
+The recommended dosage of colchicine tablets depends on the patient’s age, renal function, hepatic function and use of coadministered drugs.
+[see Dosage and Administration (2.4, 2.5, 2.6)].
 
 Colchicine tablets are administered orally without regard to meals.
 
@@ -33,7 +34,7 @@ The following daily doses may be given as a single or divided dose twice daily:
 
 Concomitant Therapy Coadministration of colchicine tablets with drugs known to inhibit CYP3A4 and/or P-glycoprotein (P-gp) increases the risk of colchicine-induced toxic effects (Table 1).
 If patients are taking or have recently completed treatment with drugs listed in Table 1 within the prior 14 days, the dose adjustments are as shown in the table below [see Drug Interactions (7)] Table 1.
-Colchicine tablets Dose Adjustment for Coadministration with Interacting Drugs if no Alternative Available*
+Colchicine tablets Dose Adjustment for Coadministration with Interacting Drugs if No Alternative Available*
 
 | Strong CYP3A4 Inhibitors† |  |  |  |
 | --- | --- | --- | --- |
@@ -43,13 +44,13 @@ Colchicine tablets Dose Adjustment for Coadministration with Interacting Drugs i
 | Moderate CYP3A4 Inhibitors |  |  |  |
 |  |  | FMF |  |
 | Drug | Noted or Anticipated Outcome | Original Intended Dosage | Adjusted Dose |
-| Amprenavir‡ Aprepitant Diltiazem Erythromycin Fluconazole Fosamprenavir‡ (pro-drug of Amprenavir) Grapefruit juice Verapamil | Significant increase in colchicine plasma concentration is anticipated. Neuromuscular toxicity has been reported with diltiazem and verapamil interactions. | Maximum daily dose of 1.2 – 2.4 mg | Maximum daily dose of 1.2 mg (may be given as 0.6 mg twice a day) |
+| Amprenavir‡ Aprepitant Diltiazem Erythromycin Fluconazole Fosamprenavir‡ (prodrug of Amprenavir) Grapefruit juice Verapamil | Significant increase in colchicine plasma concentration is anticipated. Neuromuscular toxicity has been reported with diltiazem and verapamil interactions. | Maximum daily dose of 1.2 – 2.4 mg | Maximum daily dose of 1.2 mg (may be given as 0.6 mg twice a day) |
 | P-gp Inhibitors† |  |  |  |
 |  |  | FMF |  |
 | Drug | Noted or Anticipated Outcome | Original Intended Dosage | Adjusted Dose |
-| Cyclosporine Ranolazine | Significant increase in colchicine plasma levels*; fatal colchicine toxicity has been reported with cyclosporine, a P-gp inhibitor. Similarly, significant increase in colchicine plasma levels is anticipated with other P-gp inhibitors. | Maximum daily dose of 1.2 –2.4 mg | Maximum daily dose of 0.6 mg (may be given as 0.3 mg twice a day. |
+| Cyclosporine Ranolazine | Significant increase in colchicine plasma levels*; fatal colchicine toxicity has been reported with cyclosporine, a P-gp inhibitor. Similarly, significant increase in colchicine plasma levels is anticipated with other P-gp inhibitors. | Maximum daily dose of 1.2 –2.4 mg | Maximum daily dose of 0.6 mg (may be given as 0.3 mg twice a day). |
 
-*for magnitude of effect on colchicine plasma concentrations [see Pharmacokinetics (12.3)]
+*For magnitude of effect on colchicine plasma concentrations [see Clinical Pharmacology (12.3)]
 
 †Patients with renal or hepatic impairment should not be given colchicine tablets in conjunction with strong CYP3A4 or P-gp inhibitors [see Contraindications (4)]
 
@@ -73,21 +74,22 @@ Colchicine tablets Dose Adjustment for Coadministration with Protease Inhibitors
 
 ## 2.5 Dose Modification in Renal Impairment
 
-Colchicine dosing must be individualized according to the patient's renal function [see Renal Impairment (8.6)].
+Colchicine dosing must be individualized according to the patient's renal function.
+[see Use in Specific Populations (8.6)].
 Clcr in mL/minute may be estimated from serum creatinine (mg/dL) determination using the following formula:
 
 FMF Caution should be taken in dosing patients with moderate and severe renal impairment and in patients undergoing dialysis.
 For these patients, the dosage should be reduced [see Clinical Pharmacology (12.3)].
 Patients with mild (Clcr 50 to 80 mL/min) and moderate (Clcr 30 to 50 mL/min) renal impairment should be monitored closely for adverse effects of colchicine tablets.
 Dose reduction may be necessary.
-For patients with severe renal failure (Clcr less than 30 mL/min), start with 0.3 mg/day; any increase in dose should be done with adequate monitoring of the patient for adverse effects of colchicine [see Renal Impairment (8.6)].
+For patients with severe renal failure (Clcr less than 30 mL/min), start with 0.3 mg/day; any increase in dose should be done with adequate monitoring of the patient for adverse effects of colchicine [see Use in Specific Populations (8.6)].
 For patients undergoing dialysis, the total recommended starting dose should be 0.3 mg (half tablet) per day.
 Dosing can be increased with close monitoring.
-Any increase in dose should be done with adequate monitoring of the patient for adverse effects of colchicine [see Clinical Pharmacology (12.3) and Renal Impairment (8.6)].
+Any increase in dose should be done with adequate monitoring of the patient for adverse effects of colchicine [see Clinical Pharmacology (12.3), Use in Specific Populations (8.6)].
 
 ## 2.6 Dose Modification in Hepatic Impairment
 
 FMF
 
 Patients with mild to moderate hepatic impairment should be monitored closely for adverse effects of colchicine.
-Dose reduction should be considered in patients with severe hepatic impairment [see Hepatic Impairment (8.7)].
+Dose reduction should be considered in patients with severe hepatic impairment [see Use in Specific Populations (8.7)].
