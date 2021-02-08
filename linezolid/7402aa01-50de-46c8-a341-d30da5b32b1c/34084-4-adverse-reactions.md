@@ -4,9 +4,9 @@
 
 Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in practice.
 
-Adults:
+Adults
 
-The safety of Linezolid formulations was evaluated in 2046 adult patients enrolled in seven Phase 3 comparator-controlled clinical trials, who were treated for up to 28 days.
+The safety of Linezolid formulations was evaluated in 2,046 adult patients enrolled in seven Phase 3 comparator-controlled clinical trials, who were treated for up to 28 days.
 Of the patients treated for uncomplicated skin and skin structure infections (uSSSIs), 25.4% of Linezolid-treated and 19.6% of comparator-treated patients experienced at least one drug-related adverse event.
 For all other indications, 20.4% of Linezolid-treated and 14.3% of comparator-treated patients experienced at least one drug-related adverse event.
 Table 2 shows the incidence of all-causality, treatment-emergent adverse reactions reported in at least 1% of adult patients in these trials by dose of Linezolid.
@@ -112,7 +112,7 @@ Percent of Adult Patients who Experienced at Least One Substantially Abnormal* S
 | Amylase (U/L) | 0.2 | 0.2 | 2.4 | 2.0 |
 | Total bilirubin (mg/dL) | 0.2 | 0.0 | 0.9 | 1.1 |
 | BUN (mg/dL) | 0.2 | 0.0 | 2.1 | 1.5 |
-| Creatinine (mg/dL | 0.2 | 0.0 | 0.2 | 0.6 |
+| Creatinine (mg/dL) | 0.2 | 0.0 | 0.2 | 0.6 |
 
 * >2 x Upper Limit of Normal (ULN) for values normal at baseline;
 

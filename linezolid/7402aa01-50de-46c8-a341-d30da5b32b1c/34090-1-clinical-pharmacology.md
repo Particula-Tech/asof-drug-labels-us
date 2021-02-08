@@ -8,8 +8,8 @@ Microbiology (12.4)].
 
 ## 12.2 Pharmacodynamics
 
-In a randomized, positive-and placebo-controlled crossover thorough QT study, 40 healthy subjects were administered a single Linezolid 600 mg dose via a 1 hour Intravenous infusion, a single Linezolid 1200 mg dose via a 1 hour Intravenous infusion, placebo, and a single oral dose of positive control.
-At both the 600 mg and 1200 mg Linezolid doses, no significant effect on QTc interval was detected at peak plasma concentration or at any other time.
+In a randomized, positive-and placebo-controlled crossover thorough QT study, 40 healthy subjects were administered a single Linezolid 600 mg dose via a 1 hour IV infusion, a single Linezolid 1,200 mg dose via a 1 hour Intravenous infusion, placebo, and a single oral dose of positive control.
+At both the 600 mg and 1,200 mg Linezolid doses, no significant effect on QTc interval was detected at peak plasma concentration or at any other time.
 
 ## 12.3 Pharmacokinetics
 
@@ -26,7 +26,7 @@ Mean (Standard Deviation) Pharmacokinetic Parameters of Linezolid in Adults
 | 600 mg tablet |  |  |  |  |  |  |
 | single dose | 12.70 (3.96) | --- | 1.28 (0.66) | 91.40 (39.30) | 4.26 (1.65) | 127 (48) |
 | every 12 hours | 21.20 (5.78) | 6.15 (2.94) | 1.03 (0.62) | 138.00 (42.10) | 5.40 (2.06) | 80 (29) |
-| 600 mg Intravenous injection‡ |  |  |  |  |  |  |
+| 600 mg IV injection‡ |  |  |  |  |  |  |
 | single dose | 12.90 (1.60) | --- | 0.50 (0.10) | 80.20 (33.30) | 4.40 (2.40) | 138 (39) |
 | every 12 hours | 15.10 (2.52) | 3.68 (2.36) | 0.51 (0.03) | 89.70 (31.00) | 4.80 (1.70) | 123 (40) |
 | 600 mg oral suspension |  |  |  |  |  |  |
@@ -200,7 +200,7 @@ Therefore, linezolid is not expected to affect the pharmacokinetics of other dru
 Concurrent administration of linezolid does not substantially alter the pharmacokinetic characteristics of (S)-warfarin, which is extensively metabolized by CYP2C9.
 Drugs such as warfarin and phenytoin, which are CYP2C9 substrates, may be given with linezolid without changes in dosage regimen.
 
-Antibiotics
+Antibacterial Drugs
 
 Aztreonam: The pharmacokinetics of linezolid or aztreonam are not altered when administered together.
 
@@ -210,7 +210,7 @@ Antioxidants
 
 The potential for drug-drug interactions with linezolid and the antioxidants Vitamin C and Vitamin E was studied in healthy volunteers.
 Subjects were administered a 600 mg oral dose of linezolid on Day 1, and another 600 mg dose of linezolid on Day 8.
-On Days 2-9, subjects were given either Vitamin C (1000 mg/day) or Vitamin E (800 IU/ day).
+On Days 2-9, subjects were given either Vitamin C (1,000 mg/day) or Vitamin E (800 IU/ day).
 The AUC0-∞ of linezolid increased 2.3% when co-administered with Vitamin C and 10.9% when co-administered with Vitamin E. No linezolid dose adjustment is recommended during co-administration with Vitamin C or Vitamin E.
 
 Strong CYP 3A4 Inducers
@@ -262,7 +262,7 @@ Linezolid binds to a site on the bacterial 23S ribosomal RNA of the 50S subunit 
 The results of time-kill studies have shown linezolid to be bacteriostatic against enterococci and staphylococci.
 For streptococci, linezolid was found to be bactericidal for the majority of isolates.
 
-Mechanisms of Resistance
+Resistance
 
 In vitro studies have shown that point mutations in the 23S rRNA are associated with linezolid resistance.
 Reports of vancomycin-resistant Enterococcus faecium becoming resistant to linezolid during its clinical use have been published.
@@ -272,7 +272,7 @@ Organisms resistant to oxazolidinones via mutations in chromosomal genes encodin
 Also linezolid resistance in staphylococci mediated by the enzyme methyltransferase has been reported.
 This resistance is mediated by the cfr (chloramphenicol-florfenicol) gene located on a plasmid which is transferable between staphylococci.
 
-Interaction with Other Antimicrobials Drugs
+Interaction with Other Antimicrobial Drugs
 
 In vitro studies have demonstrated additivity or indifference between linezolid and vancomycin, gentamicin, rifampin, imipenem-cilastatin, aztreonam, ampicillin, or streptomycin.
 
@@ -291,7 +291,7 @@ Streptococcus pneumoniae
 Streptococcus pyogenes
 
 The following in vitro data are available, but their clinical significance is unknown.
-Greater than 90% of the following bacteria exhibit an in vitro MIC less than or equal to the linezolid-susceptible breakpoint for organisms of similar genus shown in Table 12.
+Greater than 90% of the following bacteria exhibit an in vitro MIC less than or equal to the linezolid-susceptible breakpoint for organisms of similar genus.
 The safety and effectiveness of linezolid in treating clinical infections due to these bacteria have not been established in adequate and well-controlled clinical trials.
 
 Gram-positive bacteria
