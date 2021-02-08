@@ -1,27 +1,28 @@
 # 17 PATIENT COUNSELING INFORMATION
 
-[see FDA-Approved Patient Labeling (Patient Information and Instructions for Use)]
+See FDA-Approved Patient Labeling (Patient Information and Instructions for Use)
 
-A healthcare provider should review the patient instructions and operation of epinephrine injection, USP auto-injector, in detail, with the patient or caregiver.
+A healthcare provider should review the patient instructions and operation of epinephrine injection, in detail, with the patient or caregiver.
 
 Epinephrine is essential for the treatment of anaphylaxis.
 Carefully instruct patients who are at risk of or with a history of severe allergic reactions (anaphylaxis) to insect stings or bites, foods, drugs, and other allergens, as well as idiopathic and exercise-induced anaphylaxis, about the circumstances under which epinephrine should be used.
 
-Administration and Training
+Administration
 
-Instruct patients and/or caregivers in the appropriate use of epinephrine injection, USP auto-injector.
-Epinephrine injection, USP auto-injector should be injected into the middle of the outer thigh (through clothing if necessary).
+Instruct patients and/or caregivers in the appropriate use of epinephrine injection.
+Epinephrine injection should be injected into the middle of the outer thigh (through clothing if necessary).
 
 Instruct caregivers to hold the leg of young children firmly in place and limit movement prior to and during injection.
-Lacerations, bent needles, and embedded needles have been reported when epinephrine injection, USP auto-injector has been injected into the thigh of young children who are uncooperative and kick during an injection [see Warnings and Precautions (5.2)].
+Lacerations, bent needles, and embedded needles have been reported when epinephrine injection has been injected into the thigh of young children who are uncooperative and kick during an injection [see Warnings and Precautions (5.2)].
 
-Each epinephrine injection, USP auto-injector is a single-use injection.
-Advise patients to seek immediate medical care in conjunction with administration of epinephrine injection, USP auto-injector.
+Advise patients to seek immediate medical care in conjunction with administration of epinephrine injection.
 
-Complete patient information, including dosage, directions for proper administration and precautions can be found inside each epinephrine injection, USP auto-injector carton.
-A printed label on the surface of epinephrine injection, USP auto-injector shows instructions for use and a diagram depicting the injection process.
+Complete patient information, including dosage, directions for proper administration and precautions can be found inside each epinephrine injection carton.
+A printed label on the surface of epinephrine injection shows instructions for use and a diagram depicting the injection process.
 
-Instruct patients and/or caregivers to use the Trainer to familiarize themselves with the use of epinephrine injection, USP auto-injector in an allergic emergency.
+Training
+
+Instruct patients and/or caregivers to use the Trainer to familiarize themselves with the use of epinephrine injection in an allergic emergency.
 The Trainer may be used multiple times.
 
 Adverse Reactions
@@ -30,7 +31,7 @@ Epinephrine may produce symptoms and signs that include an increase in heart rat
 These signs and symptoms usually subside rapidly, especially with rest, quiet, and recumbency.
 Patients with hypertension or hyperthyroidism may develop more severe or persistent effects, and patients with coronary artery disease could experience angina.
 Patients with diabetes may develop increased blood glucose levels following epinephrine administration.
-Patients with Parkinson's disease may notice a temporary worsening of symptoms [see Warnings and Precautions (5.5)].
+Patients with Parkinson’s disease may notice a temporary worsening of symptoms [see Warnings and Precautions (5.5)].
 
 Accidental Injection
 
@@ -42,25 +43,36 @@ Serious Infections at the Injection Site
 Rare cases of skin and soft tissue infections, including necrotizing fasciitis and myonecrosis caused by Clostridia (gas gangrene), have been reported at the injection site following epinephrine injection for anaphylaxis.
 Advise patients to seek medical care if they develop signs or symptoms of infection, such as persistent redness, warmth, swelling, or tenderness, at the epinephrine injection site [see Warnings and Precautions (5.3)].
 
+Pregnancy and Breastfeeding
+
+Inform patients that epinephrine injection has not been studied in pregnant women or breastfeeding mothers so the effects of epinephrine injection on pregnant women or breastfed infants are not known.
+Instruct patients to tell their healthcare provider if they are pregnant, become pregnant, or are thinking about becoming pregnant.
+Instruct patients to tell their healthcare provider if they plan to breastfeed their infant [see Use in Specific Populations (8.1, 8.2)].
+
 Storage and Handling
 
 Instruct patients to inspect the epinephrine solution visually through the viewing window periodically.
 Replace epinephrine injection, USP auto-injector if the epinephrine solution appears discolored (pinkish or brown), cloudy, or contains particles.
 Epinephrine is light sensitive, store in the outer case provided to protect it from light.
-Instruct patients that epinephrine injection, USP auto-injector must be properly disposed of once the blue caps have been removed or after use [see How Supplied/Storage and Handling (16.2)].
+Instruct patients that epinephrine injection, USP auto-injector must be properly disposed of once the blue caps have been removed or after use [see How Supplied/Storage and Handling (16)].
 
-Complete patient information, including dosage, directions for proper administration and precautions are provided inside each epinephrine injection, USP auto-injector carton.
+Complete patient information, including dosage, directions for proper administration and precautions are provided inside each epinephrine injection carton.
 
-Manufactured by: Hospira, Inc. McPherson, KS 67460
+Manufactured by:
 
-Distributed by: Amneal Pharmaceuticals LLC Bridgewater, NJ 08807
+Hospira, Inc.
 
-© 2019 Amneal Pharmaceuticals LLC.
+McPherson, KS 67460
+
+Distributed by:
+
+Amneal Pharmaceuticals LLC
+
+Bridgewater, NJ 08807
+
+© 2021 Amneal Pharmaceuticals LLC.
 All rights reserved.
 
 For inquiries call 1-877-835-5472
 
 1871-03
-
-Rev.
-02-2019-00
