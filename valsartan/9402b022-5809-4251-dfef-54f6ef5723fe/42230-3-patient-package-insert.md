@@ -139,4 +139,4 @@ For more information about valsartan tablets, ask your pharmacist or doctor, or 
 What are the ingredients in valsartan tablets?
 Active ingredient: valsartan USP Inactive ingredients: anhydrous lactose, crospovidone, dental-type silica, ferric oxide red (80 mg only), ferric oxide yellow, hypromellose, magnesium stearate, microcrystalline cellulose, polyethylene glycol, and titanium dioxide.
 All brands mentioned are trademarks of their respective owners and are not trademarks of Jubilant Generics Limited.
-Rx Only Manufactured by: Jubilant Generics Limited Roorkee-247661, India Marketed by: Jubilant Cadista Pharmaceuticals Inc. Salisbury, MD-21801, USA Revised: 07/2019
+Rx Only Manufactured by: Jubilant Generics Limited Roorkee-247661, India Marketed by: Jubilant Cadista Pharmaceuticals Inc. Salisbury, MD-21801, USA Revised: 01/2021

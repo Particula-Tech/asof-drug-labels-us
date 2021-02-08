@@ -1,6 +1,6 @@
 # 2 DOSAGE AND ADMINISTRATION
 
-## 2.1 Adult Hypertension
+## 2.1﻿ Adult Hypertension
 
 The recommended starting dose of valsartan tablets is 80 mg or 160 mg once daily when used as monotherapy in patients who are not volume-depleted.
 Patients requiring greater reductions may be started at the higher dose.
