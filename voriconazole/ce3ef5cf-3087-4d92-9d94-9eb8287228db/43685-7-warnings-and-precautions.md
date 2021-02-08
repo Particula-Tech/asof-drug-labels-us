@@ -70,7 +70,18 @@ Patients being treated with voriconazole are likely to be treated concomitantly 
 Patients should be monitored for the development of abnormal renal function.
 This should include laboratory evaluation of serum creatinine [see Clinical Pharmacology (12.3) and Dosage and Administration (2.6)].
 
-## 5.8 Embryo-Fetal Toxicity
+## 5.8 Adrenal Dysfunction
+
+Reversible cases of azole-induced adrenal insufficiency have been reported in patients receiving azoles, including VFEND.
+Adrenal insufficiency has been reported in patients receiving azoles with or without concomitant corticosteroids.
+In patients receiving azoles without corticosteroids adrenal insufficiency is related to direct inhibition of steroidogenesis by azoles.
+In patients taking corticosteroids, voriconazole associated CYP3A4 inhibition of their metabolism may lead to corticosteroid excess and adrenal suppression [see Drug Interactions (7) and Clinical Pharmacology (12.3)].
+Cushing's syndrome with and without subsequent adrenal insufficiency has also been reported in patients receiving VFEND concomitantly with corticosteroids.
+
+Patients receiving VFEND and corticosteroids (via all routes of administration) should be carefully monitored for adrenal dysfunction both during and after VFEND treatment.
+Patients should be instructed to seek immediate medical care if they develop signs and symptoms of Cushing's syndrome or adrenal insufficiency.
+
+## 5.9 Embryo-Fetal Toxicity
 
 Voriconazole can cause fetal harm when administered to a pregnant woman.
 
@@ -79,26 +90,26 @@ In animals, voriconazole administration was associated with fetal malformations,
 If VFEND is used during pregnancy, or if the patient becomes pregnant while taking VFEND, inform the patient of the potential hazard to the fetus.
 Advise females of reproductive potential to use effective contraception during treatment with VFEND [see Use in Specific Populations (8.3)].
 
-## 5.9 Laboratory Tests
+## 5.10 Laboratory Tests
 
 Electrolyte disturbances such as hypokalemia, hypomagnesemia and hypocalcemia should be corrected prior to initiation of and during VFEND therapy.
 
 Patient management should include laboratory evaluation of renal (particularly serum creatinine) and hepatic function (particularly liver function tests and bilirubin).
 
-## 5.10 Pancreatitis
+## 5.11 Pancreatitis
 
 Pancreatitis has been observed in patients undergoing treatment with VFEND [see Adverse Reactions (6.1, 6.2)] Patients with risk factors for acute pancreatitis (e.g., recent chemotherapy, hematopoietic stem cell transplantation [HSCT]) should be monitored for the development of pancreatitis during VFEND treatment.
 
-## 5.11 Skeletal Adverse Reactions
+## 5.12 Skeletal Adverse Reactions
 
 Fluorosis and periostitis have been reported during long-term VFEND therapy.
 If a patient develops skeletal pain and radiologic findings compatible with fluorosis or periostitis, VFEND should be discontinued [see Adverse Reactions (6.2)].
 
-## 5.12 Clinically Significant Drug Interactions
+## 5.13 Clinically Significant Drug Interactions
 
 See Table 10 for a listing of drugs that may significantly alter voriconazole concentrations.
 Also, see Table 11 for a listing of drugs that may interact with voriconazole resulting in altered pharmacokinetics or pharmacodynamics of the other drug [see Contraindications (4) and Drug Interactions (7)].
 
-## 5.13 Galactose Intolerance
+## 5.14 Galactose Intolerance
 
 VFEND tablets contain lactose and should not be given to patients with rare hereditary problems of galactose intolerance, Lapp lactase deficiency or glucose-galactose malabsorption.

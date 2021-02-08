@@ -18,5 +18,5 @@ VFEND Tablets contain 50 mg or 200 mg of voriconazole.
 The inactive ingredients include croscarmellose sodium, lactose monohydrate, magnesium stearate, povidone, pregelatinized starch, and a coating containing hypromellose, lactose monohydrate, titanium dioxide, and triacetin.
 
 VFEND for Oral Suspension is a white to off-white powder providing a white to off-white orange-flavored suspension when reconstituted.
-Bottles containing 45 grams powder for oral suspension are intended for reconstitution with water to produce a suspension containing 40 mg/mL voriconazole.
+Bottles containing 45 grams powder for oral suspension, which contain 3 g of voriconazole, are intended for reconstitution with water to produce a suspension containing 40 mg/mL voriconazole.
 The inactive ingredients include anhydrous citric acid, colloidal silicon dioxide, natural orange flavor, sodium benzoate, sodium citrate dihydrate, sucrose, titanium dioxide, and xanthan gum.

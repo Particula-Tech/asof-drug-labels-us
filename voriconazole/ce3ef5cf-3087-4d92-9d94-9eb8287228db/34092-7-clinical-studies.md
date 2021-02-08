@@ -33,7 +33,7 @@ Table 13 also summarizes the response (success) based on mycological confirmatio
 
 Table 13: Overall Efficacy and Success by Species in the Primary Treatment of Acute Invasive Aspergillosis Study 307/602
 
-|  | Voriconazole | Ampho BAmphotericin B followed by other licensed antifungal therapy | Stratified Difference (95% CI) Difference and corresponding 95% confidence interval are stratified by protocol |
+|  | Voriconazole | Ampho B Amphotericin B followed by other licensed antifungal therapy | Stratified Difference (95% CI) Difference and corresponding 95% confidence interval are stratified by protocol |
 | --- | --- | --- | --- |
 |  | n/N (%) | n/N (%) |  |
 | Efficacy as Primary Therapy |  |  |  |
@@ -90,7 +90,7 @@ A successful response required all of the following: resolution or improvement i
 The primary analysis, which counted DRC-assessed successes at the fixed time point (12 weeks after End of Therapy [EOT]), demonstrated that voriconazole was comparable to the regimen of amphotericin B followed by fluconazole (response rates of 41% and 41%, respectively) in the treatment of candidemia.
 Patients who did not have a 12-week assessment for any reason were considered a treatment failure.
 
-The overall clinical and mycological success rates by Candida species in Study 150-608 are presented in Table 15.
+The overall clinical and mycological success rates by Candida species in Study 150–608 are presented in Table 15.
 
 Table 15: Overall Success Rates Sustained From EOT To The Fixed 12-Week Follow-Up Time Point By Baseline PathogenA few patients had more than one pathogen at baseline.,Patients who did not have a 12-week assessment for any reason were considered a treatment failure.
 
@@ -110,7 +110,7 @@ A favorable response was seen in 4 of 7 patients with intra-abdominal infections
 
 ## 14.3 Esophageal Candidiasis (EC)
 
-The efficacy of oral voriconazole 200 mg twice daily compared to oral fluconazole 200 mg once daily in the primary treatment of EC was demonstrated in Study 150-305, a double-blind, double-dummy study in immunocompromised patients with endoscopically-proven EC.
+The efficacy of oral voriconazole 200 mg twice daily compared to oral fluconazole 200 mg once daily in the primary treatment of EC was demonstrated in Study 150–305, a double-blind, double-dummy study in immunocompromised patients with endoscopically-proven EC.
 Patients were treated for a median of 15 days (range 1 to 49 days).
 Outcome was assessed by repeat endoscopy at end of treatment (EOT).
 A successful response was defined as a normal endoscopy at EOT or at least a 1 grade improvement over baseline endoscopic score.
@@ -126,7 +126,7 @@ Table 16: Success Rates in Patients Treated for Esophageal Candidiasis
 
 Microbiologic success rates by Candida species are presented in Table 17.
 
-Table 17: Clinical and Mycological Outcome by Baseline Pathogen in Patients with Esophageal Candidiasis (Study-150-305)
+Table 17: Clinical and Mycological Outcome by Baseline Pathogen in Patients with Esophageal Candidiasis (Study-150–305)
 
 | Success/Total (%) | Eradication/Total (%) | Success/Total (%) | Eradication/Total (%) |  |
 | --- | --- | --- | --- | --- |

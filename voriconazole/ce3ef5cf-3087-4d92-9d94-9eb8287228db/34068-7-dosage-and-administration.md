@@ -14,7 +14,7 @@ Do not administer as an IV bolus injection.
 Blood products and concentrated electrolytes
 
 VFEND I.V. must not be infused concomitantly with any blood product or short-term infusion of concentrated electrolytes, even if the two infusions are running in separate intravenous lines (or cannulas).
-Electrolyte disturbances such as hypokalemia, hypomagnesemia and hypocalcemia should be corrected prior to initiation of and during VFEND therapy [see Warnings and Precautions (5.9)].
+Electrolyte disturbances such as hypokalemia, hypomagnesemia and hypocalcemia should be corrected prior to initiation of and during VFEND therapy [see Warnings and Precautions (5.10)].
 
 Intravenous solutions containing (non-concentrated) electrolytes
 

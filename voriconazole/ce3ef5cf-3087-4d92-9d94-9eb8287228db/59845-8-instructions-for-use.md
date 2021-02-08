@@ -43,7 +43,7 @@ How should I store VFEND oral suspension?
 
 This Instructions for Use has been approved by the U.S. Food and Drug Administration.
 
-This product's label may have been updated.
-For current full prescribing information, please visit www.pfizer.com.
+This product's labeling may have been updated.
+For the most recent prescribing information, please visit www.pfizer.com.
 
-LAB-1348-1.0 Revised: 04/2019
+LAB-1348-2.0 Revised: 01/2021

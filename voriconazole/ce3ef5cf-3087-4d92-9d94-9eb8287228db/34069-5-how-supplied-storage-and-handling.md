@@ -24,8 +24,9 @@ Bottles of 30 (NDC 0049-3180-30)
 Powder for Oral Suspension
 
 VFEND for Oral Suspension is supplied in 100 mL high density polyethylene (HDPE) bottles.
-Each bottle contains 45 grams of powder for oral suspension.
-Following reconstitution, the volume of the suspension is 75 mL, providing a usable volume of 70 mL (40 mg voriconazole/mL).
+Each bottle contains 45 grams of powder for oral suspension, which contain 3 g of voriconazole.
+Following reconstitution, the volume of the suspension is 75 mL, providing a usable volume of 70 mL.
+Each mL of the oral suspension contains 40 mg of voriconazole (200 mg of voriconazole per 5 mL).
 A 5 mL oral dispenser and a press-in bottle adaptor are also provided.
 
 (NDC 0049-3160-44)
