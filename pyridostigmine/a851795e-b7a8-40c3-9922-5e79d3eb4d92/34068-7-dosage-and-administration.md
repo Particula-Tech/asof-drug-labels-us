@@ -16,7 +16,7 @@ each containing 60 mg pyridostigmine bromide.
 
 each containing 180 mg pyridostigmine bromide.
 This form provides uniformly slow release, hence prolonged duration of drug action; it facilitates control of myasthenic symptoms with fewer individual doses daily.
-The immediate effect of a 180 mg TIMESPAN tablet is about equal to that of a 60 mg Conventional Tablet; however, its duration of effectiveness, although varying in individual patients, averages 2½ times that of a 60 mg dose.
+The immediate effect of a 180 mg TIMESPAN tablet is about equal to that of a 60 mg Conventional tablet; however, its duration of effectiveness, although varying in individual patients, averages 2½ times that of a 60 mg dose.
 
 ## Dosage:
 

@@ -2,7 +2,7 @@
 
 NDC 0187-3012-20 Rx Only
 
-Mestinon® (pyridostigmine bromide).
+MESTINON® (pyridostigmine bromide).
 Oral Solution, USP
 
 1 Pint (473 mL) 5 mL = 60 mg

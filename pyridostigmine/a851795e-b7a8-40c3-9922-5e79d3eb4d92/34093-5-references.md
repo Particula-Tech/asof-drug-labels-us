@@ -25,7 +25,7 @@
 7. 7.Miller RD.
    Pharmacodynamics and pharmacokinetics of anticholinesterase.
    In: Ruegheimer E, Zindler M, ed.
-   Anaesthesiology.
+   Anesthesiology.
    (Hamburg, Germany: Congress; Sep 14-21, 1980; 222-223.)
    (Int Congr.
    No. 538), Amsterdam, Netherlands: Excerpta Medica; 1981.
