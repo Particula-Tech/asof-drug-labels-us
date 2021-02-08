@@ -5,9 +5,9 @@ The following clinically significant adverse reactions are described elsewhere i
 - •Infusion Reactions [see Warnings and Precautions (5.1)]
 - •Nephrotoxicity [see Warnings and Precautions (5.2)]
 - •Ototoxicity [see Warnings and Precautions (5.3)]
-- •Clostridium Difficile-Associated Diarrhea [see Warnings and Precautions (5.4)]
-- •Hemorrhagic Occlusive Retinal Vasculitis [see Warnings and Precautions (5.5)]
-- •Neutropenia [see Warnings and Precautions (5.6)]
+- •Clostridium Difficile-Associated Diarrhea [see Warnings and Precautions (5.5)]
+- •Hemorrhagic Occlusive Retinal Vasculitis [see Warnings and Precautions (5.6)]
+- •Neutropenia [see Warnings and Precautions (5.7)]
 
 ## 6.1 Clinical Trials Experience
 
@@ -17,7 +17,7 @@ The following adverse reactions associated with the use of Vancomycin Hydrochlor
 
 Immune system disorders: Hypersensitivity reactions including anaphylaxis and “red man syndrome” [see Warnings and Precautions (5.1)]
 
-Skin and subcutaneous tissue disorders: Erythema (especially of the face, neck and upper torso) and pruritus which are manifestations of rashes including exfoliative dermatitis, linear IgA bullous dermatosis, Stevens-Johnson syndrome, toxic epidermal necrolysis.
+Skin and subcutaneous tissue disorders: Erythema (especially of the face, neck and upper torso) and pruritus which are manifestations of rashes including exfoliative dermatitis, toxic epidermal necrolysis (TEN), Stevens-Johnson syndrome (SJS), Linear IgA bullous dermatosis (LABD) [see Warnings and Precautions (5.4)].
 
 Renal and urinary disorders: Acute kidney injury and interstitial nephritis
 
@@ -25,13 +25,13 @@ Ear and Labyrinth Disorders: Tinnitus, hearing loss, vertigo
 
 Blood and Lymphatic System Disorders: Agranulocytosis, neutropenia, pancytopenia, leukopenia, thrombocytopenia, eosinophilia
 
-Gastrointestinal Disorders: Pseudomembranous colitis [see Warnings and Precautions (5.4)]
+Gastrointestinal Disorders: Pseudomembranous colitis [see Warnings and Precautions (5.5)]
 
 Cardiac Disorders: Cardiac arrest, chest pain
 
 General Disorders and Administration Site Conditions: General discomfort, fever, chills, phlebitis, injection site irritation, injection site pain and necrosis following intramuscular injection, chemical peritonitis following intraperitoneal administration
 
-(Vancomycin Hydrochloride for Injection is not approved for intramuscular and intraperitoneal administration) [see Warnings and Precautions (5.6)]
+(Vancomycin Hydrochloride for Injection is not approved for intramuscular and intraperitoneal administration) [see Warnings and Precautions (5.7)]
 
 Laboratory Abnormalities: Elevated blood urea nitrogen, elevated serum creatinine
 
@@ -48,4 +48,4 @@ Vascular disorders: Hypotension, shock, vasculitis
 The following adverse reactions have been identified during post approval use of vancomycin.
 Because these reactions are reported voluntarily from a population of uncertain size, it is not possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
 
-Skin and Subcutaneous Tissue Disorders: Drug Rash with Eosinophilia and Systemic Symptoms (DRESS)
+Skin and Subcutaneous Tissue Disorders: Drug reaction with eosinophilia and systemic symptoms (DRESS), acute generalized exanthematous pustulosis (AGEP) [see Warnings and Precautions (5.4)].

@@ -2,7 +2,7 @@
 
 ## 7.1 Anesthetic Agents
 
-Concomitant administration of vancomycin and anesthetic agents has been associated with erythema and histamine-like flushing [see Warnings and Precautions (5.1) and Use in Specific Populations (8.4)].
+Concomitant administration of vancomycin and anesthetic agents has been associated with erythema and histamine-like flushing [see Warnings and Precautions (5.1)and Use in Specific Populations (8.4)].
 
 ## 7.2 Piperacillin-Tazobactam
 

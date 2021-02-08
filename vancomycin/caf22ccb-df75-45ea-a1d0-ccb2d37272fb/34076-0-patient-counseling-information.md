@@ -2,7 +2,7 @@
 
 Infusion Reactions During or After Intravenous Use
 
-Advise patients that generalized skin redness, skin rash, itching, flushing, muscle pain, chest pain, shortness of breath, wheezing, or dizziness may occur during Vancomycin Hydrochloride for Injection infusion.
+Advise patients that generalized skin redness, skin rash, itching, flushing, muscle pain, chest pain, shortness of breath, wheezing, or dizziness may occur during intravenous infusion of Vancomycin Hydrochloride for Injection.
 These reactions can be lessened or prevented by infusing the drug over at least 60 minutes.
 
 Acute Kidney Injury
@@ -12,6 +12,11 @@ Advise patients that Vancomycin Hydrochloride for Injection can result in kidney
 Hearing Loss or Balance Problems
 
 Advise patients that Vancomycin Hydrochloride for Injection may result in decreased hearing and to report hearing loss or balance problems to their health care provider.
+
+Severe Dermatologic Reactions
+
+Advise patients about the signs and symptoms of serious skin manifestations.
+Instruct patients to stop Vancomycin Hydrochloride for Injection immediately and promptly seek medical attention at the first signs or symptoms of skin rash, mucosal lesions or blisters [see Warnings and Precautions (5.4)].
 
 Antibacterial Resistance
 
@@ -32,7 +37,7 @@ Manufactured for:
 
 Mylan Institutional LLC
 
-Rockford, IL 61103 U.S.A.
+Morgantown, WV 26505 U.S.A.
 
 Manufactured by:
 

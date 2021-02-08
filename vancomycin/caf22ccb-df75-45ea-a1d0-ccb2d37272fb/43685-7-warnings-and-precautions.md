@@ -37,7 +37,14 @@ Discontinue Vancomycin Hydrochloride for Injection if ototoxicity occurs.
 Dosage of Vancomycin Hydrochloride for Injection must be adjusted for patients with renal impairment [see Dosage and Administration (2.3)].
 Serial tests of auditory function may be helpful in order to minimize the risk of ototoxicity.
 
-## 5.4 Clostridium Difficile-Associated Diarrhea
+## 5.4 Severe Dermatologic Reactions
+
+Severe dermatologic reactions such as toxic epidermal necrolysis (TEN), Stevens-Johnson syndrome (SJS), drug reaction with eosinophilia and systemic symptoms (DRESS), acute generalized exanthematous pustulosis (AGEP), and linear IgA bullous dermatosis (LABD) have been reported in association with the use of vancomycin.
+Cutaneous signs or symptoms reported include skin rashes, mucosal lesions, and blisters.
+
+Discontinue Vancomycin Hydrochloride for Injection at the first appearance of signs and symptoms of TEN, SJS, DRESS, AGEP, or LABD.
+
+## 5.5 Clostridium Difficile-Associated Diarrhea
 
 Clostridium difficile-associated diarrhea (CDAD) has been reported with use of nearly all antibacterial agents, including Vancomycin Hydrochloride for Injection, and may range in severity from mild diarrhea to fatal colitis.
 Treatment with antibacterial agents alters the normal flora of the colon leading to overgrowth of C. difficile.
@@ -57,18 +64,18 @@ Careful observation of the patient is essential.
 If superinfection occurs during therapy, appropriate measures should be taken.
 In rare instances, there have been reports of pseudomembranous colitis due to C. difficile developing in patients who received intravenous Vancomycin Hydrochloride for Injection.
 
-## 5.5 Hemorrhagic Occlusive Retinal Vasculitis (HORV)
+## 5.6 Hemorrhagic Occlusive Retinal Vasculitis (HORV)
 
 Hemorrhagic occlusive retinal vasculitis, including permanent loss of vision, occurred in patients receiving intracameral or intravitreal administration of vancomycin during or after cataract surgery.
 The safety and efficacy of vancomycin administered by the intracameral or the intravitreal route have not been established by adequate and well-controlled trials.
 Vancomycin is not indicated for the prophylaxis of endophthalmitis.
 
-## 5.6 Neutropenia
+## 5.7 Neutropenia
 
 Reversible neutropenia has been reported in patients receiving Vancomycin Hydrochloride for Injection [see Adverse Reactions (6.1)].
 Patients who will undergo prolonged therapy with Vancomycin Hydrochloride for Injection or those who are receiving concomitant drugs which may cause neutropenia should have periodic monitoring of the leukocyte count.
 
-## 5.7 Phlebitis and Other Administration Site Reactions
+## 5.8 Phlebitis and Other Administration Site Reactions
 
 Inflammation at the site of injection of Vancomycin Hydrochloride for Injection has been reported.
 Vancomycin Hydrochloride for Injection is irritating to tissue and must be given by a secure intravenous route of administration to reduce the risk of local irritation and phlebitis.
@@ -83,6 +90,6 @@ Intraperitoneal administration during continuous ambulatory peritoneal dialysis 
 Manifestations range from cloudy dialysate alone to a cloudy dialysate accompanied by variable degrees of abdominal pain and fever.
 This syndrome appears to be resolve after discontinuation of intraperitoneal vancomycin.
 
-## 5.8 Development of Drug-Resistant Bacteria
+## 5.9 Development of Drug-Resistant Bacteria
 
 Prescribing Vancomycin Hydrochloride for Injection in the absence of a proven or strongly suspected bacterial infection or a prophylactic indication is unlikely to provide benefit to the patient and increases the risk of the development of drug-resistant bacteria.

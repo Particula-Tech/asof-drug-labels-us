@@ -2,14 +2,14 @@
 
 ## 2.1 Important Administration Instructions
 
-To reduce the risk of infusion related adverse reactions, administer Vancomycin Hydrochloride for Injection in a diluted solution over 60 minutes or greater [see Warnings and Precautions (5.1) and Adverse Reactions (6.1)].
+To reduce the risk of infusion related adverse reactions, administer Vancomycin Hydrochloride for Injection in a diluted solution over 60 minutes or greater [see Warnings and Precautions (5.1)andAdverse Reactions (6.1)].
 Vancomycin Hydrochloride for Injection concentrations of no more than 5 mg/mL are recommended in adults [see Dosage and Administration (2.2)].
 See also age-specific recommendations [see Dosage and Administration (2.3)].
 In selected patients in need of fluid restriction, a concentration up to 10 mg/mL may be used [see Warnings and Precautions (5.1)].
 
 Administer Vancomycin Hydrochloride for Injection prior to intravenous anesthetic agents to reduce the risk of infusion related adverse reactions [see Warnings and Precautions (5.1)].
 
-Administer Vancomycin Hydrochloride by a secure intravenous route of administration to avoid local irritation and phlebitis reactions [see Warnings and Precautions (5.7)].
+Administer Vancomycin Hydrochloride by a secure intravenous route of administration to avoid local irritation and phlebitis reactions [see Warnings and Precautions (5.8)].
 
 The supplied lyophilized powder must be reconstituted and subsequently diluted prior to intravenous use [see Dosage and Administration (2.5)].
 
@@ -101,7 +101,7 @@ Lactated Ringer’s Injection, USP
 
 Lactated Ringer’s and 5% Dextrose Injection, USP
 
-## 2.7 Incompatibilies for Intravenous Use
+## 2.7 Incompatibilities for Intravenous Use
 
 Vancomycin solution has a low pH and may cause chemical or physical instability when it is mixed with other compounds.
 

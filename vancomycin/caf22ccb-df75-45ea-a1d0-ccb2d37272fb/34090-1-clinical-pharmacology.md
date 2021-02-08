@@ -40,7 +40,7 @@ Renal impairment slows excretion of vancomycin.
 
 About 60% of an intraperitoneal dose of vancomycin administered during peritoneal dialysis is absorbed systemically in 6 hours.
 Serum concentrations of about 10 mcg/mL are achieved by intraperitoneal injection of 30 mg/kg of vancomycin.
-However, the safety and efficacy of the intraperitoneal use of vancomycin has not been established in adequate and well-controlled trials [see Warnings and Precautions (5.6)].
+However, the safety and efficacy of the intraperitoneal use of vancomycin has not been established in adequate and well-controlled trials [see Warnings and Precautions (5.7)].
 
 ## 12.4 Microbiology
 
@@ -71,7 +71,7 @@ Enterococcus spp.
 
 Staphylococcus aureus (including methicillin-resistant and methicillin-susceptible isolates)
 
-Coagulase negative staphylococci (including S.epidermidis and methicillin-resistant isolates)
+Coagulase negative staphylococci (including S. epidermidis and methicillin-resistant isolates)
 
 Streptococcus gallolyticus (previously known as Streptococcus bovis)
 
