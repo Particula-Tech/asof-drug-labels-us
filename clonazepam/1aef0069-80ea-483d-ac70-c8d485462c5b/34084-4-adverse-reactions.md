@@ -1,13 +1,13 @@
 # ADVERSE REACTIONS
 
-The adverse experiences for clonazepam are provided separately for patients with seizure disorders and with panic disorder.
+The adverse experiences for clonazepam orally disintegrating tablets are provided separately for patients with seizure disorders and with panic disorder.
 
 ## Seizure Disorders:
 
-The most frequently occurring side effects of clonazepam are referable to CNS depression.
+The most frequently occurring side effects of clonazepam orally disintegrating tablets are referable to CNS depression.
 Experience in treatment of seizures has shown that drowsiness has occurred in approximately 50% of patients and ataxia in approximately 30%.
 In some cases, these may diminish with time; behavior problems have been noted in approximately 25% of patients.
-Others, listed by system, including those identified during postapproval use of Clonazepam are:
+Others, listed by system, including those identified during postapproval use of clonazepam orally disintegrating tablets are:
 
 Cardiovascular: Palpitations
 
@@ -34,7 +34,7 @@ Respiratory: Chest congestion, rhinorrhea, shortness of breath, hypersecretion i
 
 ## Panic Disorder:
 
-Adverse events during exposure to clonazepam were obtained by spontaneous report and recorded by clinical investigators using terminology of their own choosing.
+Adverse events during exposure to clonazepam orally disintegrating tablets were obtained by spontaneous report and recorded by clinical investigators using terminology of their own choosing.
 Consequently, it is not possible to provide a meaningful estimate of the proportion of individuals experiencing adverse events without first grouping similar types of events into a smaller number of standardized event categories.
 In the tables and tabulations that follow, CIGY dictionary terminology has been used to classify reported adverse events, except in certain cases in which redundant terms were collapsed into more meaningful terms, as noted below.
 
@@ -45,12 +45,12 @@ An event was considered treatment-emergent if it occurred for the first time or 
 
 ### Adverse Events Associated With Discontinuation of Treatment:
 
-Overall, the incidence of discontinuation due to adverse events was 17% in clonazepam compared to 9% for placebo in the combined data of two 6- to 9-week trials.
-The most common events (≥1%) associated with discontinuation and a dropout rate twice or greater for clonazepam than that of placebo included the following:
+Overall, the incidence of discontinuation due to adverse events was 17% in clonazepam orally disintegrating tablets compared to 9% for placebo in the combined data of two 6- to 9-week trials.
+The most common events (≥1%) associated with discontinuation and a dropout rate twice or greater for clonazepam orally disintegrating tablets orally disintegrating tablets than that of placebo included the following:
 
 Table 2 Most Common Adverse Events (≥1%) Associated with Discontinuation of Treatment
 
-| Adverse Event | clonazepam (N=574) | Placebo (N=294) |
+| Adverse Event | Clonazepam Orally Disintegrating Tablets (N=574) | Placebo (N=294) |
 | --- | --- | --- |
 | Somnolence | 7% | 1% |
 | Depression | 4% | 1% |
@@ -59,10 +59,10 @@ Table 2 Most Common Adverse Events (≥1%) Associated with Discontinuation of Tr
 | Ataxia | 1% | 0% |
 | Intellectual Ability Reduced | 1% | 0% |
 
-### Adverse Events Occurring at an Incidence of 1% or More Among Clonazepam-Treated Patients:
+### Adverse Events Occurring at an Incidence of 1% or More Among Clonazepam Orally Disintegrating Tablets-Treated Patients:
 
 Table 3 enumerates the incidence, rounded to the nearest percent, of treatment-emergent adverse events that occurred during acute therapy of panic disorder from a pool of two 6- to 9-week trials.
-Events reported in 1% or more of patients treated with clonazepam (doses ranging from 0.5 to 4 mg/day) and for which the incidence was greater than that in placebo-treated patients are included.
+Events reported in 1% or more of patients treated with clonazepam orally disintegrating tablets (doses ranging from 0.5 to 4 mg/day) and for which the incidence was greater than that in placebo-treated patients are included.
 
 The prescriber should be aware that the figures in Table 3 cannot be used to predict the incidence of side effects in the course of usual medical practice where patient characteristics and other factors differ from those that prevailed in the clinical trials.
 Similarly, the cited frequencies cannot be compared with figures obtained from other clinical investigations involving different treatments, uses and investigators.
@@ -72,7 +72,7 @@ Table 3 Treatment-Emergent Adverse Event Incidence in 6- to 9- Week Placebo-Cont
 
 | Clonazepam Maximum Daily Dose |  |  |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| Adverse Event by Body System | <1mg | 1-<2mg | 2-<3mg |  | ≥3mg | All Clonazepam Groups | Placebo |
+| Adverse Event by Body System | <1mg | 1-<2mg | 2-<3mg |  | ≥3mg | All Clonazepam Orally Disintegrating Tablets Groups | Placebo |
 | n=96 | n=129 | n=113 |  | n=235 | N=574 | N=294 |  |
 | % | % | % |  | % | % | % |  |
 | Central & Peripheral Nervous System |  |  |  |  |  |  |  |
@@ -119,7 +119,7 @@ Table 3 Treatment-Emergent Adverse Event Incidence in 6- to 9- Week Placebo-Cont
 | Male |  |  |  |  |  |  |  |
 | Ejaculation Delayed | 0 | 0 | 2 |  | 2 | 1 | 0 |
 | Impotence | 3 | 0 | 2 |  | 1 | 1 | 0 |
-| * Events reported by at least 1% of patients treated with clonazepam and for which the incidence was greater than that for placebo.† Indicates that the p-value for the dose-trend test (Cochran-Mantel-Haenszel) for adverse event incidence was ≤0.10.‡ Denominators for events in gender-specific systems are: n=240 (clonazepam), 102 (placebo) for male, and 334 (clonazepam), 192 (placebo) for female. |  |  |  |  |  |  |  |
+| * Events reported by at least 1% of patients treated with clonazepam orally disintegrating tablets and for which the incidence was greater than that for placebo.† Indicates that the p-value for the dose-trend test (Cochran-Mantel-Haenszel) for adverse event incidence was ≤0.10.‡ Denominators for events in gender-specific systems are: n=240 (clonazepam), 102 (placebo) for male, and 334 (clonazepam), 192 (placebo) for female. |  |  |  |  |  |  |  |
 
 ### Commonly Observed Adverse Events:
 
@@ -136,15 +136,15 @@ Incidence of Most Commonly Observed Adverse Events* in Acute Therapy in Pool of 
 
 ### Treatment-Emergent Depressive Symptoms:
 
-In the pool of two short-term placebo-controlled trials, adverse events classified under the preferred term “depression” were reported in 7% of clonazepam-treated patients compared to 1% of placebo-treated patients, without any clear pattern of dose relatedness.
-In these same trials, adverse events classified under the preferred term “depression” were reported as leading to discontinuation in 4% of clonazepam-treated patients compared to 1% of placebo-treated patients.
+In the pool of two short-term placebo-controlled trials, adverse events classified under the preferred term “depression” were reported in 7% of clonazepam orally disintegrating tablets-treated patients compared to 1% of placebo-treated patients, without any clear pattern of dose relatedness.
+In these same trials, adverse events classified under the preferred term “depression” were reported as leading to discontinuation in 4% of clonazepam orally disintegrating tablets -treated patients compared to 1% of placebo-treated patients.
 While these findings are noteworthy, Hamilton Depression Rating Scale (HAM-D) data collected in these trials revealed a larger decline in HAM-D scores in the clonazepam group than the placebo group suggesting that clonazepam-treated patients were not experiencing a worsening or emergence of clinical depression.
 
-### Other Adverse Events Observed During the Premarketing Evaluation of Clonazepam in Panic Disorder:
+### Other Adverse Events Observed During the Premarketing Evaluation of Clonazepam Orally Disintegrating Tablets in Panic Disorder:
 
-Following is a list of modified CIGY terms that reflect treatment-emergent adverse events reported by patients treated with clonazepam at multiple doses during clinical trials.
+Following is a list of modified CIGY terms that reflect treatment-emergent adverse events reported by patients treated with clonazepam orally disintegrating tablets at multiple doses during clinical trials.
 All reported events are included except those already listed in Table 3 or elsewhere in labeling, those events for which a drug cause was remote, those event terms which were so general as to be uninformative, and events reported only once and which did not have a substantial probability of being acutely life-threatening.
-It is important to emphasize that, although the events occurred during treatment with clonazepam, they were not necessarily caused by it.
+It is important to emphasize that, although the events occurred during treatment with clonazepam orally disintegrating tablets, they were not necessarily caused by it.
 
 Events are further categorized by body system and listed in order of decreasing frequency.
 These adverse events were reported infrequently, which is defined as occurring in 1/100 to 1/1000 patients.

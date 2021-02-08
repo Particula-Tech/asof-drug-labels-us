@@ -2,20 +2,44 @@
 
 ## Risks from Concomitant Use With Opioids:
 
-Concomitant use of benzodiazepines, including clonazepam, and opioids may result in profound sedation, respiratory depression, coma, and death.
-Because of these risks, reserve concomitant prescribing of benzodiazepines and opioids for use in patients for whom alternative treatment options are inadequate.
+Concomitant use of benzodiazepines, including clonazepam orally disintegrating tablets, and opioids may result in profound sedation, respiratory depression, coma, and death.
+Because of these risks, reserve concomitant prescribing of benzodiazepines and opioids in patients for whom alternative treatment options are inadequate.
 
 Observational studies have demonstrated that concomitant use of opioid analgesics and benzodiazepines increases the risk of drug-related mortality compared to use of opioids alone.
-If a decision is made to prescribe clonazepam concomitantly with opioids, prescribe the lowest effective dosages and minimum durations of concomitant use, and follow patients closely for signs and symptoms of respiratory depression and sedation.
-Advise both patients and caregivers about the risks of respiratory depression and sedation when clonazepam is used with opioids.
-(see PRECAUTIONS: Information for Patients and PRECAUTIONS: Drug Interactions).
+If a decision is made to prescribe clonazepam orally disintegrating tablets concomitantly with opioids, prescribe the lowest effective dosages and minimum durations of concomitant use, and follow patients closely for signs and symptoms of respiratory depression and sedation.
+Advise both patients and caregivers about the risks of respiratory depression and sedation when clonazepam orally disintegrating tablet is used with opioids (see PRECAUTIONS; Information for Patients and PRECAUTIONS: Drug Interactions).
+
+## Abuse, Misuse, and Addiction:
+
+The use of benzodiazepines, including clonazepam orally disintegrating tablets, exposes users to the risks of abuse, misuse, and addiction, which can lead to overdose or death.
+Abuse and misuse of benzodiazepines often (but not always) involve the use of doses greater than the maximum recommended dosage and commonly involve concomitant use of other medications, alcohol, and/or illicit substances, which is associated with an increased frequency of serious adverse outcomes, including respiratory depression, overdose, or death (see DRUG ABUSE AND DEPENDENCE: Abuse).
+
+Before prescribing clonazepam orally disintegrating tablets and throughout treatment, assess each patient’s risk for abuse, misuse, and addiction (e.g., using a standardized screening tool).
+Use of clonazepam orally disintegrating tablets, particularly in patients at elevated risk, necessitates counseling about the risks and proper use of clonazepam orally disintegrating tablets along with monitoring for signs and symptoms of abuse, misuse, and addiction.
+Prescribe the lowest effective dosage; avoid or minimize concomitant use of CNS depressants and other substances associated with abuse, misuse, and addiction (e.g., opioid analgesics, stimulants); and advise patients on the proper disposal of unused drug.
+If a substance use disorder is suspected, evaluate the patient and institute (or refer them for) early treatment, as appropriate.
+
+## Dependence and Withdrawal Reactions:
+
+To reduce the risk of withdrawal reactions, use a gradual taper to discontinue clonazepam orally disintegrating tablets or reduce the dosage (a patient-specific plan should be used to taper the dose) (see DOSAGE AND ADMINISTRATION: Discontinuation or Dosage Reduction of CLONAZEPAM ORALLY DISINTEGRATING TABLETS).
+
+Patients at an increased risk of withdrawal adverse reactions after benzodiazepine discontinuation or rapid dosage reduction include those who take higher dosages, and those who have had longer durations of use.
+
+Acute Withdrawal Reactions
+
+The continued use of benzodiazepines, including clonazepam orally disintegrating tablets, may lead to clinically significant physical dependence.
+Abrupt discontinuation or rapid dosage reduction of clonazepam orally disintegrating tablets after continued use, or administration of flumazenil (a benzodiazepine antagonist) may precipitate acute withdrawal reactions, which can be life-threatening (e.g., seizures) (see DRUG ABUSE AND DEPENDENCE: Dependence).
+
+Protracted Withdrawal Syndrome
+
+In some cases, benzodiazepine users have developed a protracted withdrawal syndrome with withdrawal symptoms lasting weeks to more than 12 months (see DRUG ABUSE AND DEPENDENCE: Dependence).
 
 ## Interference With Cognitive and Motor Performance:
 
-Since clonazepam produces CNS depression, patients receiving this drug should be cautioned against engaging in hazardous occupations requiring mental alertness, such as operating machinery or driving a motor vehicle.
-They should also be warned about the concomitant use of alcohol or other CNS-depressant drugs during clonazepam therapy [see PRECAUTIONS, Drug Interactions and Information for Patients].
+Since clonazepam orally disintegrating tablets produces CNS depression, patients receiving this drug should be cautioned against engaging in hazardous occupations requiring mental alertness, such as operating machinery or driving a motor vehicle.
+They should also be warned about the concomitant use of alcohol or other CNS-depressant drugs during clonazepam orally disintegrating tablets therapy [see PRECAUTIONS, Drug Interactions and Information for Patients].
 
-Suicidal Behavior and Ideation:Antiepileptic drugs (AEDs),including Clonazepam, increase the risk of suicidal thoughts or behavior in patients taking these drugs for any indication.
+Suicidal Behavior and Ideation: Antiepileptic drugs (AEDs),including clonazepam orally disintegrating tablets, increase the risk of suicidal thoughts or behavior in patients taking these drugs for any indication.
 Patients treated with any AED for any indication should be monitored for the emergence or worsening of depression, suicidal thoughts or behavior, and/or any unusual changes in mood or behavior.
 
 Pooled analyses of 199 placebo-controlled clinical trials (mono- and adjunctive therapy) of 11 different AEDs showed that patients randomized to one of the AEDs had approximately twice the risk (adjusted Relative Risk 1.8, 95% CI: 1.2, 2.7) of suicidal thinking or behavior compared to patients randomized to placebo.
@@ -43,7 +67,7 @@ Risk by Indication for Antiepileptic Drugs in the Pooled Analysis
 
 The relative risk for suicidal thoughts or behavior was higher in clinical trials for epilepsy than in clinical trials for psychiatric or other conditions, but the absolute risk differences were similar for the epilepsy and psychiatric indications.
 
-Anyone considering prescribing clonazepam or any other AED must balance the risk of suicidal thoughts or behavior with the risk of untreated illness.
+Anyone considering prescribing clonazepam orally disintegrating tablets or any other AED must balance the risk of suicidal thoughts or behavior with the risk of untreated illness.
 Epilepsy and many other illnesses for which AEDs are prescribed are themselves associated with morbidity and mortality and an increased risk of suicidal thoughts and behavior.
 Should suicidal thoughts and behavior emerge during treatment, the prescriber needs to consider whether the emergence of these symptoms in any given patient may be related to the illness being treated.
 
@@ -52,11 +76,11 @@ Behaviors of concern should be reported immediately to healthcare providers.
 
 ## Pregnancy Risks:
 
-Data from several sources raise concerns about the use of clonazepam during pregnancy.
+Data from several sources raise concerns about the use of clonazepam orally disintegrating tablets during pregnancy.
 
 ## Animal Findings:
 
-In three studies in which clonazepam was administered orally to pregnant rabbits at doses of 0.2, 1, 5 or 10 mg/kg/day (low dose approximately 0.2 times the maximum recommended human dose of 20 mg/day, for seizure disorders and equivalent to the maximum dose of 4 mg/day for panic disorder, on a mg/m2 basis) during the period of organogenesis, a similar pattern of malformations (cleft palate, open eyelid, fused sternebrae and limb defects) was observed in a low, non-dose-related incidence in exposed litters from all dosage groups.
+In three studies in which clonazepam orally disintegrating tablets was administered orally to pregnant rabbits at doses of 0.2, 1, 5 or 10 mg/kg/day (low dose approximately 0.2 times the maximum recommended human dose of 20 mg/day, for seizure disorders and equivalent to the maximum dose of 4 mg/day for panic disorder, on a mg/m2 basis) during the period of organogenesis, a similar pattern of malformations (cleft palate, open eyelid, fused sternebrae and limb defects) was observed in a low, non-dose-related incidence in exposed litters from all dosage groups.
 Reductions in maternal weight gain occurred at dosages of 5 mg/kg/day or greater and reduction in embryo-fetal growth occurred in one study at a dosage of 10 mg/kg/day.
 No adverse maternal or embryo-fetal effects were observed in mice and rats following administration during organogenesis of oral doses up to 15 mg/kg/day or 40 mg/kg/day, respectively (4 and 20 times the maximum recommended human dose of 20 mg/day for seizure disorders and 20 and 100 times the maximum dose of 4 mg/day for panic disorder, respectively, on a mg/m2 basis).
 
@@ -79,21 +103,17 @@ There may also be non-teratogenic risks associated with the use of benzodiazepin
 There have been reports of neonatal flaccidity, respiratory and feeding difficulties, and hypothermia in children born to mothers who have been receiving benzodiazepines late in pregnancy.
 In addition, children born to mothers receiving benzodiazepines late in pregnancy may be at some risk of experiencing withdrawal symptoms during the postnatal period.
 
-## Advice Regarding the Use of Clonazepam in Women of Childbearing Potential:
+## Advice Regarding the Use of Clonazepam Orally Disintegrating Tablets in Women of Childbearing Potential:
 
 In general, the use of clonazepam in women of childbearing potential, and more specifically during known pregnancy, should be considered only when the clinical situation warrants the risk to the fetus.
 
 The specific considerations addressed above regarding the use of anticonvulsants for epilepsy in women of childbearing potential should be weighed in treating or counseling these women.
 
-Because of experience with other members of the benzodiazepine class, clonazepam is assumed to be capable of causing an increased risk of congenital abnormalities when administered to a pregnant woman during the first trimester.
+Because of experience with other members of the benzodiazepine class, clonazepam orally disintegrating tablets is assumed to be capable of causing an increased risk of congenital abnormalities when administered to a pregnant woman during the first trimester.
 Because use of these drugs is rarely a matter of urgency in the treatment of panic disorder, their use during the first trimester should almost always be avoided.
 The possibility that a woman of childbearing potential may be pregnant at the time of institution of therapy should be considered.
 If this drug is used during pregnancy, or if the patient becomes pregnant while taking this drug, the patient should be apprised of the potential hazard to the fetus.
 Patients should also be advised that if they become pregnant during therapy or intend to become pregnant, they should communicate with their physician about the desirability of discontinuing the drug.
-
-## Withdrawal Symptoms:
-
-Withdrawal symptoms of the barbiturate type have occurred after the discontinuation of benzodiazepines [see DRUG ABUSE AND DEPENDENCE].
 
 # PRECAUTIONS
 
@@ -101,70 +121,71 @@ Withdrawal symptoms of the barbiturate type have occurred after the discontinuat
 
 ### Worsening of Seizures:
 
-When used in patients in whom several different types of seizure disorders coexist, clonazepam may increase the incidence or precipitate the onset of generalized tonic-clonic seizures (grand mal).
+When used in patients in whom several different types of seizure disorders coexist, clonazepam orally disintegrating tablets may increase the incidence or precipitate the onset of generalized tonic-clonic seizures (grand mal).
 This may require the addition of appropriate anticonvulsants or an increase in their dosages.
-The concomitant use of valproic acid and clonazepam may produce absence status.
+The concomitant use of valproic acid and clonazepam orally disintegrating tablets may produce absence status.
 
 ### Laboratory Testing During Long-Term Therapy:
 
-Periodic blood counts and liver function tests are advisable during long-term therapy with clonazepam.
-
-### Risks of Abrupt Withdrawal:
-
-The abrupt withdrawal of clonazepam, particularly in those patients on long-term, high-dose therapy, may precipitate status epilepticus.
-Therefore, when discontinuing clonazepam, gradual withdrawal is essential.
-While clonazepam is being gradually withdrawn, the simultaneous substitution of another anticonvulsant may be indicated.
+Periodic blood counts and liver function tests are advisable during long-term therapy with clonazepam orally disintegrating tablets.
 
 ### Caution in Renally Impaired Patients:
 
-Metabolites of clonazepam are excreted by the kidneys; to avoid their excess accumulation, caution should be exercised in the administration of the drug to patients with impaired renal function.
+Metabolites of clonazepam orally disintegrating tablets are excreted by the kidneys; to avoid their excess accumulation, caution should be exercised in the administration of the drug to patients with impaired renal function.
 
 ### Hypersalivation:
 
-Clonazepam may produce an increase in salivation.
+Clonazepam orally disintegrating tablets may produce an increase in salivation.
 This should be considered before giving the drug to patients who have difficulty handling secretions.
 
-Respiratory Compromise:
+### Respiratory Compromise:
 
-Clonazepam should be used with caution in patients with compromised respiratory function.
+Clonazepam orally disintegrating tablets should be used with caution in patients with compromised respiratory function.
 
-Porphyria:
+### Porphyria:
 
-Clonazepam may have a porphyrogenic effect and should be used with care in patients with porphyria.
+Clonazepam orally disintegrating tablets may have a porphyrogenic effect and should be used with care in patients with porphyria.
 
 ## Information for Patients:
 
-A clonazepam Medication Guide must be given to the patient each time clonazepam is dispensed, as required by law.
-Patients should be instructed to take clonazepam only as prescribed.
-Physicians are advised to discuss the following issues with patients for whom they prescribe clonazepam:
+A clonazepam orally disintegrating tablets Medication Guide must be given to the patient each time clonazepam orally disintegrating tablets is dispensed, as required by law.
+Patients should be instructed to take clonazepam orally disintegrating tablets only as prescribed.
+Physicians are advised to discuss the following issues with patients for whom they prescribe clonazepam orally disintegrating tablets:
 
 ### Risks from Concomitant Use With Opioids
 
 Inform patients and caregivers that potentially fatal additive effects may occur if clonazepam is used with opioids and not to use such drugs concomitantly unless supervised by a health care provider (see WARNINGS: Risks from Concomitant Use With Opioids and PRECAUTIONS: Drug Interactions).
 
-### Dose Changes:
+### Abuse, Misuse, and Addiction:
 
-To assure the safe and effective use of benzodiazepines, patients should be informed that, since benzodiazepines may produce psychological and physical dependence, it is advisable that they consult with their physician before either increasing the dose or abruptly discontinuing this drug.
+Inform patients that the use of clonazepam orally disintegrating tablets, even at recommended dosages, exposes users to risks of abuse, misuse, and addiction, which can lead to overdose and death, especially when used in combination with other medications (e.g., opioid analgesics), alcohol, and/or illicit substances.
+Inform patients about the signs and symptoms of benzodiazepine abuse, misuse, and addiction; to seek medical help if they develop these signs and/or symptoms; and on the proper disposal of unused drug (see WARNINGS: Abuse, Misuse, and AddictionandDRUG ABUSE AND DEPENDENCE).
+
+### Withdrawal Reactions:
+
+Inform patients that the continued use of clonazepam orally disintegrating tablets may lead to clinically significant physical dependence and that abrupt discontinuation or rapid dosage reduction of clonazepam orally disintegrating tablets may precipitate acute withdrawal reactions, which can be life-threatening.
+Inform patients that in some cases, patients taking benzodiazepines have developed a protracted withdrawal syndrome with withdrawal symptoms lasting weeks to more than 12 months.
+Instruct patients that discontinuation or dosage reduction of clonazepam orally disintegrating tablets may require a slow taper (see WARNINGS: Dependence and Withdrawal Reactions and DRUG ABUSE AND DEPENDENCE).
 
 ### Interference With Cognitive and Motor Performance:
 
-Because benzodiazepines have the potential to impair judgment, thinking or motor skills, patients should be cautioned about operating hazardous machinery, including automobiles, until they are reasonably certain that clonazepam therapy does not affect them adversely.
+Because benzodiazepines have the potential to impair judgment, thinking or motor skills, patients should be cautioned about operating hazardous machinery, including automobiles, until they are reasonably certain that clonazepam orally disintegrating tablets therapy does not affect them adversely.
 
 ### Suicidal Thinking and Behavior:
 
-Patients, their caregivers, and families should be counseled that AEDs, including clonazepam, may increase the risk of suicidal thoughts and behavior and should be advised of the need to be alert for the emergence or worsening of symptoms of depression, any unusual changes in mood or behavior, or the emergence of suicidal thoughts, behavior, or thoughts about self-harm.
+Patients, their caregivers, and families should be counseled that AEDs, including clonazepam orally disintegrating tablet, may increase the risk of suicidal thoughts and behavior and should be advised of the need to be alert for the emergence or worsening of symptoms of depression, any unusual changes in mood or behavior, or the emergence of suicidal thoughts, behavior, or thoughts about self-harm.
 Behaviors of concern should be reported immediately to healthcare providers.
 
 ### Pregnancy:
 
-Patients should be advised to notify their physician if they become pregnant or intend to become pregnant during therapy with clonazepam (see WARNINGS:Pregnancy Risks).
+Patients should be advised to notify their physician if they become pregnant or intend to become pregnant during therapy with clonazepam orally disintegrating tablets (see WARNINGS:Pregnancy Risks).
 Patients should be encouraged to enroll in the North American Antiepileptic Drug (NAAED) Pregnancy Registry if they become pregnant.
 This registry is collecting information about the safety of antiepileptic drugs during pregnancy.
 To enroll, patients can call the toll free number 1-888-233-2334 (see PRECAUTIONS: Pregnancy).
 
 ### Nursing:
 
-Patients should be advised not to breastfeed an infant if they are taking clonazepam.
+Patients should be advised not to breastfeed an infant if they are taking clonazepam orally disintegrating tablets.
 
 ### Concomitant Medication:
 
@@ -172,7 +193,7 @@ Patients should be advised to inform their physicians if they are taking, or pla
 
 ### Alcohol:
 
-Patients should be advised to avoid alcohol while taking clonazepam.
+Patients should be advised to avoid alcohol while taking clonazepam orally disintegrating tablets.
 
 ### Phenylketonurics:
 
@@ -221,32 +242,32 @@ In a two-generation fertility study in which clonazepam was given orally to rats
 
 Pregnancy Category D [see WARNINGS: Pregnancy Risks].
 
-To provide information regarding the effects of in utero exposure to clonazepam, physicians are advised to recommend that pregnant patients taking clonazepam enroll in the NAAED Pregnancy Registry.
+To provide information regarding the effects of in utero exposure to clonazepam orally disintegrating tablets, physicians are advised to recommend that pregnant patients taking clonazepam enroll in the NAAED Pregnancy Registry.
 This can be done by calling the toll free number 1-888-233-2334, and must be done by patients themselves.
 Information on this registry can also be found at the website http://www.aedpregnancyregistry.org/.
 
 ## Labor and Delivery:
 
-The effect of clonazepam on labor and delivery in humans has not been specifically studied; however, perinatal complications have been reported in children born to mothers who have been receiving benzodiazepines late in pregnancy, including findings suggestive of either excess benzodiazepine exposure or of withdrawal phenomena (see WARNINGS, Pregnancy Risks).
+The effect of clonazepam orally disintegrating tablets on labor and delivery in humans has not been specifically studied; however, perinatal complications have been reported in children born to mothers who have been receiving benzodiazepines late in pregnancy, including findings suggestive of either excess benzodiazepine exposure or of withdrawal phenomena (see WARNINGS, Pregnancy Risks).
 
 ## Nursing Mothers:
 
-Mothers receiving clonazepam should not breastfeed their infants.
+Mothers receiving clonazepam orally disintegrating tablets should not breastfeed their infants.
 
 ## Pediatric Use:
 
-Because of the possibility that adverse effects on physical or mental development could become apparent only after many years, a benefit-risk consideration of the long-term use of clonazepam is important in pediatric patients being treated for seizure disorder [see INDICATIONS AND USAGE and DOSAGE AND ADMINISTRATION].
+Because of the possibility that adverse effects on physical or mental development could become apparent only after many years, a benefit-risk consideration of the long-term use of clonazepam orally disintegrating tablet is important in pediatric patients being treated for seizure disorder [see INDICATIONS AND USAGE and DOSAGE AND ADMINISTRATION].
 
 Safety and effectiveness in pediatric patients with panic disorder below the age of 18 have not been established.
 
 ## Geriatric Use:
 
-Clinical studies of clonazepam did not include sufficient numbers of subjects aged 65 and over to determine whether they respond differently from younger subjects.
+Clinical studies of clonazepam orally disintegrating tablets did not include sufficient numbers of subjects aged 65 and over to determine whether they respond differently from younger subjects.
 Other reported clinical experience has not identified differences in responses between the elderly and younger patients.
 In general, dose selection for an elderly patient should be cautious, usually starting at the low end of the dosing range, reflecting the greater frequency of decreased hepatic, renal, or cardiac function, and of concomitant disease or other drug therapy.
 
-Because clonazepam undergoes hepatic metabolism, it is possible that liver disease will impair clonazepam elimination.
-Metabolites of clonazepam are excreted by the kidneys; to avoid their excess accumulation, caution should be exercised in the administration of the drug to patients with impaired renal function.
+Because clonazepam undergoes hepatic metabolism, it is possible that liver disease will impair clonazepam orally disintegrating tablets elimination.
+Metabolites of clonazepam orally disintegrating tablets are excreted by the kidneys; to avoid their excess accumulation, caution should be exercised in the administration of the drug to patients with impaired renal function.
 Because elderly patients are more likely to have decreased hepatic and/or renal function, care should be taken in dose selection, and it may be useful to assess hepatic and/or renal function at the time of dose selection.
 
-Sedating drugs may cause confusion and over-sedation in the elderly; elderly patients generally should be started on low doses of clonazepam and observed closely.
+Sedating drugs may cause confusion and over-sedation in the elderly; elderly patients generally should be started on low doses of clonazepam orally disintegrating tablets and observed closely.

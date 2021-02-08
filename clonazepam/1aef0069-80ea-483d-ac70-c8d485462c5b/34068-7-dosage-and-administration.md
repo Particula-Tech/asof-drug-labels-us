@@ -16,11 +16,11 @@ Maintenance dosage must be individualized for each patient depending upon respon
 Maximum recommended daily dose is 20 mg.
 
 The use of multiple anticonvulsants may result in an increase of depressant adverse effects.
-This should be considered before adding clonazepam to an existing anticonvulsant regimen.
+This should be considered before adding clonazepam orally disintegrating tablets to an existing anticonvulsant regimen.
 
 ### Pediatric Patients:
 
-Clonazepam is administered orally.
+Clonazepam orally disintegrating tablets are administered orally.
 In order to minimize drowsiness, the initial dose for infants and children (up to 10 years of age or 30 kg of body weight) should be between 0.01 and 0.03 mg/kg/day but not to exceed 0.05 mg/kg/day given in two or three divided doses.
 Dosage should be increased by no more than 0.25 to 0.5 mg every third day until a daily maintenance dose of 0.1 to 0.2 mg/kg of body weight has been reached, unless seizures are controlled or side effects preclude further increase.
 Whenever possible, the daily dose should be divided into three equal doses.
@@ -28,14 +28,14 @@ If doses are not equally divided, the largest dose should be given before retiri
 
 ### Geriatric Patients:
 
-There is no clinical trial experience with clonazepam in seizure disorder patients 65 years of age and older.
-In general, elderly patients should be started on low doses of clonazepam and observed closely [see PRECAUTIONS, Geriatric Use].
+There is no clinical trial experience with clonazepam orally disintegrating tablets in seizure disorder patients 65 years of age and older.
+In general, elderly patients should be started on low doses of clonazepam orally disintegrating tablets and observed closely [see PRECAUTIONS, Geriatric Use].
 
 ## Panic Disorder:
 
 ### Adults:
 
-The initial dose for adults with panic disorder is 0.25 mg bid.
+The initial dose for adults with panic disorder is 0.25 mg twice daily.
 An increase to the target dose for most patients of 1 mg/day may be made after 3 days.
 The recommended dose of 1 mg/day is based on the results from a fixed dose study in which the optimal effect was seen at 1 mg/day.
 Higher doses of 2, 3 and 4 mg/day in that study were less effective than the 1 mg/day dose and were associated with more adverse effects.
@@ -45,13 +45,19 @@ To reduce the inconvenience of somnolence, administration of one dose at bedtime
 Treatment should be discontinued gradually, with a decrease of 0.125 mg bid every 3 days, until the drug is completely withdrawn.
 
 There is no body of evidence available to answer the question of how long the patient treated with clonazepam should remain on it.
-Therefore, the physician who elects to use clonazepam for extended periods should periodically reevaluate the long-term usefulness of the drug for the individual patient.
+Therefore, the physician who elects to use clonazepam orally disintegrating tablets for extended periods should periodically reevaluate the long-term usefulness of the drug for the individual patient.
 
 ### Pediatric Patients:
 
-There is no clinical trial experience with clonazepam in panic disorder patients under 18 years of age.
+There is no clinical trial experience with clonazepam orally disintegrating tablets in panic disorder patients under 18 years of age.
 
 ### Geriatric Patients:
 
-There is no clinical trial experience with clonazepam in panic disorder patients 65 years of age and older.
+There is no clinical trial experience with clonazepam orally disintegrating tablets in panic disorder patients 65 years of age and older.
 In general, elderly patients should be started on low doses of clonazepam and observed closely [see PRECAUTIONS, Geriatric Use].
+
+## Discontinuation or Dosage Reduction of clonazepam orally disintegrating tablets
+
+To reduce the risk of withdrawal reactions, increased seizure frequency, and status epilepticus, use a gradual taper to discontinue clonazepam orally disintegrating tablets or reduce the dosage.
+If a patient develops withdrawal reactions, consider pausing the taper or increasing the dosage to the previous tapered dosage level.
+Subsequently decrease the dosage more slowly (see WARNINGS: Dependence and Withdrawal Reactions and DRUG ABUSE AND DEPENDENCE: Dependence).
