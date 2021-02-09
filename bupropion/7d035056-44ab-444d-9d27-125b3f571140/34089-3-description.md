@@ -1,6 +1,6 @@
 # 11 DESCRIPTION
 
-Bupropion hydrochloride tablets, USP an antidepressant of the aminoketone class, is chemically unrelated to tricyclic, tetracyclic, selective serotonin re-uptake inhibitor, or other known antidepressant agents.
+Bupropion hydrochloride, an antidepressant of the aminoketone class, is chemically unrelated to tricyclic, tetracyclic, selective serotonin re-uptake inhibitor, or other known antidepressant agents.
 Its structure closely resembles that of diethylpropion; it is related to phenylethylamines.
 It is designated as (±)-1-(3-chlorophenyl)-2-[(1,1-dimethylethyl)amino]-1-propanone hydrochloride.
 The molecular weight is 276.21g/mol.
@@ -9,7 +9,7 @@ Bupropion hydrochloride powder is white to off-white crystalline, and highly sol
 It has a bitter taste and produces the sensation of local anesthesia on the oral mucosa.
 The structural formula is:
 
-Bupropion hydrochloride tablets, USP is supplied for oral administration as 75-mg (orange) and 100-mg (purple) film-coated tablets.
+Bupropion hydrochloride is supplied for oral administration as 75-mg (orange) and 100-mg (purple) film-coated tablets.
 Each tablet contains the labeled amount of bupropion hydrochloride and the following inactive ingredients:
 
 75-mg tablet –colloidal silicon dioxide, crospovidone, FD&C Yellow #6 Aluminum Lake, fumaric acid granular, hydroxypropyl cellulose, hypromellose, magnesium stearate, methylcellulose, polyethylene glycol and titanium dioxide.

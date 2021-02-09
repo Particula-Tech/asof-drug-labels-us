@@ -25,7 +25,7 @@ Consider the risks to the mother of untreated depression and potential effects o
 
 Data
 
-Human Data Data from the international bupropion Pregnancy Registry (675 first-trimester exposures) and a retrospective cohort study using the United Healthcare database (1,213 first trimester exposures) did not show an increased risk for malformations overall.
+Human Data: Data from the international bupropion Pregnancy Registry (675 first-trimester exposures) and a retrospective cohort study using the United Healthcare database (1,213 first trimester exposures) did not show an increased risk for malformations overall.
 The Registry was not designed or powered to evaluate specific defects but suggested a possible increase in cardiac malformations.
 
 No increased risk for cardiovascular malformations overall has been observed after bupropion exposure during the first trimester.
@@ -41,12 +41,12 @@ The NBDPS and United Healthcare database study did not find an association betwe
 
 For the findings of LVOTO and VSD, the studies were limited by the small number of exposed cases, inconsistent findings among studies, and the potential for chance findings from multiple comparisons in case control studies.
 
-Animal Data In studies conducted in pregnant rats and rabbits, bupropion was administered orally during the period of organogenesis at doses of up to 450 and 150 mg per kg per day, respectively (approximately 10 and 6 times the MRHD, respectively, on a mg per m2 basis).
+Animal Data In studies conducted in pregnant rats and rabbits, bupropion was administered orally during the period of organogenesis at doses of up to 450 and 150 mg per kg per day, respectively (approximately 10 and 6 times the MRHD, respectively, on a mg per m 2 basis).
 There was no evidence of fetal malformations in rats.
-When given to pregnant rabbits during organogenesis, non-dose-related increases in incidence of fetal malformations and skeletal variations were observed at the lowest dose tested (25 mg per kg per day, approximately equal to the MRHD on a mg per m2 basis) and greater.
-Decreased fetal weights were observed at doses of 50 mg/kg/day (Approximately 2 times the MRHD on a mg/m2 basis) and greater.
+When given to pregnant rabbits during organogenesis, non-dose-related increases in incidence of fetal malformations and skeletal variations were observed at the lowest dose tested (25 mg per kg per day, approximately equal to the MRHD on a mg per m 2 basis) and greater.
+Decreased fetal weights were observed at doses of 50 mg/kg/day (Approximately 2 times the MRHD on a mg/m 2 basis) and greater.
 No maternal toxicity was evident at doses of 50 mg/kg/day or less.
-In a pre- and postnatal development study, bupropion administered orally to pregnant rats at does of up to 150 mg/kg/day (approximately 3 times the MRHD on a mg/m2 basis) from embryonic implantation through lactation had no effect on pup growth or development.
+In a pre- and postnatal development study, bupropion administered orally to pregnant rats at does of up to 150 mg/kg/day (approximately 3 times the MRHD on a mg/m 2 basis) from embryonic implantation through lactation had no effect on pup growth or development.
 
 ## 8.2 Lactation
 
@@ -66,7 +66,7 @@ The relationship of bupropion exposure and these seizures is unclear.
 
 ## 8.4 Pediatric Use
 
-Safety and effectiveness in the pediatric population have not been established [see Boxed Warning and Warnings and Precautions(5.1)].
+Safety and effectiveness in the pediatric population have not been established [see Boxed Warning and Warnings and Precautions (5.1)].
 
 ## 8.5 Geriatric Use
 

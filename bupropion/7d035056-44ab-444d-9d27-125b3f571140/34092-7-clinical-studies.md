@@ -15,7 +15,7 @@ Efficacy of Bupropion Hydrochloride Tablets for the Treatment of Major Depressiv
 
 | Trial Number | Treatment Group | Primary Efficacy Measure: HDRS |  |  |
 | --- | --- | --- | --- | --- |
-| Mean Baseline Score (SD) | LS Mean Change from Baseline (SE) | Placebo‑-subtracted Difference a (95%CI) |  |  |
+| Mean Baseline Score (SD) | LS Mean Change from Baseline (SE) | Placebo‑ -subtracted Difference a (95%CI) |  |  |
 | Trial 1 | Bupropion Hydrochloride Tablets 300-600 mg/day b (n = 48) | 28.5 (5.1) | 14.9 (1.3) | -4.7 (-8.8, -0.6) |
 | Placebo (n = 27) | 29.3(7.0) | 19.6(1.6) | -- |  |
 | Trial 2 | Bupropion Hydrochloride Tablets 300 mg/day (n = 36) | 32.4 (5.9) | -15.5 (1.7) | -4.1 |

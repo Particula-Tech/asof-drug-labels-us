@@ -2,7 +2,7 @@
 
 ## 12.1 Mechanism of Action
 
-The exact mechanism of the antidepressant action of bupropion is not known, but is presumed to be related to noradrenergic and/or dopaminergic mechanisms.
+The exact mechanism of the antidepressant action of bupropion is not known but is presumed to be related to noradrenergic and/or dopaminergic mechanisms.
 Bupropion is a relatively weak inhibitor of the neuronal reuptake of norepinephrine and dopamine, and does not inhibit the reuptake of serotonin.
 Bupropion does not inhibit monoamine oxidase.
 
@@ -42,14 +42,14 @@ Only 0.5% of the oral dose was excreted as unchanged bupropion.
 Specific Populations Factors or conditions altering metabolic capacity (e.g., liver disease, congestive heart failure [CHF], age, concomitant medications, etc.) or elimination may be expected to influence the degree and extent of accumulation of the active metabolites of bupropion.
 The elimination of the major metabolites of bupropion may be affected by reduced renal or hepatic function because they are moderately polar compounds and are likely to undergo further metabolism or conjugation in the liver prior to urinary excretion.
 
-Patients with Renal Impairment There is limited information on the pharmacokinetics of bupropion in patients with renal impairment.
+Patients with Renal Impairment: There is limited information on the pharmacokinetics of bupropion in patients with renal impairment.
 An inter-trial comparison between normal subjects and subjects with end-stage renal failure demonstrated that the parent drug C max and AUC values were comparable in the 2 groups, whereas the hydroxybupropion and threohydrobupropion metabolites had a 2.3- and 2.8-fold increase, respectively, in AUC for subjects with end-stage renal failure.
 A second trial, comparing normal subjects and subjects with moderate-to-severe renal impairment (GFR 30.9 ± 10.8 mL per min) showed that after a single 150-mg dose of sustained-release bupropion, exposure to bupropion was approximately 2-fold higher in subjects with impaired renal function, while levels of the hydroxybupropion and threo/erythrohydrobupropion (combined) metabolites were similar in the 2 groups.
 Bupropion is extensively metabolized in the liver to active metabolites, which are further metabolized and subsequently excreted by the kidneys.
 The elimination of the major metabolites of bupropion may be reduced by impaired renal function.
 Bupropion hydrochloride tablets should be used with caution in patients with renal impairment and a reduced frequency and/or dose should be considered [see Use in Specific Populations (8.6)].
 
-Patients with Hepatic Impairment The effect of hepatic impairment on the pharmacokinetics of bupropion was characterized in 2 single-dose trials, one in subjects with alcoholic liver disease and one in subjects with mild-to-severe cirrhosis.
+Patients with Hepatic Impairment: The effect of hepatic impairment on the pharmacokinetics of bupropion was characterized in 2 single-dose trials, one in subjects with alcoholic liver disease and one in subjects with mild-to-severe cirrhosis.
 The first trial demonstrated that the half-life of hydroxybupropion was significantly longer in 8 subjects with alcoholic liver disease than in 8 healthy volunteers (32 ± 14 hours versus 21 ± 5 hours, respectively).
 Although not statistically significant, the AUCs for bupropion and hydroxybupropion were more variable and tended to be greater (by 53% to 57%) in volunteers with alcoholic liver disease.
 The differences in half-life for bupropion and the other metabolites in the 2 groups were minimal.
@@ -69,9 +69,9 @@ Pharmacokinetics of Bupropion and Metabolites in Patients with Severe Hepatic Ci
 
 a = Difference.
 
-Patients with Left Ventricular Dysfunction During a chronic dosing trial with bupropion in 14 depressed subjects with left ventricular dysfunction (history of CHF or an enlarged heart on x-ray), there was no apparent effect on the pharmacokinetics of bupropion or its metabolites, compared with healthy volunteers.
+Patients with Left Ventricular Dysfunction: During a chronic dosing trial with bupropion in 14 depressed subjects with left ventricular dysfunction (history of CHF or an enlarged heart on x-ray), there was no apparent effect on the pharmacokinetics of bupropion or its metabolites, compared with healthy volunteers.
 
-Age The effects of age on the pharmacokinetics of bupropion and its metabolites have not been fully characterized, but an exploration of steady-state bupropion concentrations from several depression efficacy trials involving subjects dosed in a range of 300 to 750 mg per day, on a 3-times-daily schedule, revealed no relationship between age (18 to 83 years) and plasma concentration of bupropion.
+Age: The effects of age on the pharmacokinetics of bupropion and its metabolites have not been fully characterized, but an exploration of steady-state bupropion concentrations from several depression efficacy trials involving subjects dosed in a range of 300 to 750 mg per day, on a 3-times-daily schedule, revealed no relationship between age (18 to 83 years) and plasma concentration of bupropion.
 A single-dose pharmacokinetic trial demonstrated that the disposition of bupropion and its metabolites in elderly subjects was similar to that of younger subjects.
 These data suggest there is no prominent effect of age on bupropion concentration; however, another single- and multiple-dose pharmacokinetics trial suggested that the elderly are at increased risk for accumulation of bupropion and its metabolites [see Use in Specific Populations (8.5)].
 
@@ -79,28 +79,28 @@ Male and Female Patients: Pooled analysis of bupropion pharmacokinetic data from
 The mean systemic exposure (AUC) was approximately 13% higher in male volunteers compared with female volunteers.
 The clinical significance of this finding is unknown.
 
-Smokers The effects of cigarette smoking on the pharmacokinetics of bupropion were studied in 34 healthy male and female volunteers; 17 were chronic cigarette smokers and 17 were nonsmokers.
+Smokers: The effects of cigarette smoking on the pharmacokinetics of bupropion were studied in 34 healthy male and female volunteers; 17 were chronic cigarette smokers and 17 were nonsmokers.
 Following oral administration of a single 150-mg dose of bupropion, there were no statistically significant differences in C max, half-life, T max, AUC, or clearance of bupropion or its active metabolites between smokers and nonsmokers.
 
-Drug Interactions Studies Potential for Other Drugs to Affect Bupropion Hydrochloride Tablets In vitro studies indicate that bupropion is primarily metabolized to hydroxybupropion by CYP2B6.
+Drug Interaction Studies Potential for Other Drugs to Affect Bupropion Hydrochloride Tablets: In vitro studies indicate that bupropion is primarily metabolized to hydroxybupropion by CYP2B6.
 Therefore, the potential exists for drug interactions between bupropion hydrochloride tablets and drugs that are inhibitors or inducers of CYP2B6.
 In addition, in vitro studies suggest that paroxetine, sertraline, norfluoxetine, fluvoxamine, and nelfinavir inhibit the hydroxylation of bupropion.
 
-Inhibitors of CYP2B6 Ticlopidine, Clopidogrel In a trial in healthy male volunteers, clopidogrel 75 mg once daily or ticlopidine 250 mg twice daily increased exposures (C max and AUC) of bupropion by 40% and 60% for clopidogrel, and by 38% and 85% for ticlopidine, respectively.
+Inhibitors of CYP2B6: Ticlopidine, Clopidogrel: In a trial in healthy male volunteers, clopidogrel 75 mg once daily or ticlopidine 250 mg twice daily increased exposures (C max and AUC) of bupropion by 40% and 60% for clopidogrel, and by 38% and 85% for ticlopidine, respectively.
 The exposures (C max and AUC) of hydroxybupropion were decreased 50% and 52%, respectively, by clopidogrel, and 78% and 84%, respectively, by ticlopidine.
 This effect is thought to be due to the inhibition of the CYP2B6-catalyzed bupropion hydroxylation.
 
-Prasugrel Prasugrel is a weak inhibitor of CYP2B6.
+Prasugrel: Prasugrel is a weak inhibitor of CYP2B6.
 In healthy subjects, prasugrel increased bupropion C max and AUC values by 14% and 18%, respectively, and decreased C max and AUC values of hydroxybupropion, an active metabolite of bupropion, by 32% and 24%, respectively.
 
-Cimetidine The threohydrobupropion metabolite of bupropion does not appear to be produced by cytochrome P450 enzymes.
+Cimetidine: The threohydrobupropion metabolite of bupropion does not appear to be produced by cytochrome P450 enzymes.
 The effects of concomitant administration of cimetidine on the pharmacokinetics of bupropion and its active metabolites were studied in 24 healthy young male volunteers.
 Following oral administration of bupropion 300 mg with and without cimetidine 800 mg, the pharmacokinetics of bupropion and hydroxybupropion were unaffected.
 However, there were 16% and 32% increases in the AUC and C max, respectively of the combined moieties of threohydrobupropion and erythrohydrobupropion.
 
-Citalopram Citalopram did not affect the pharmacokinetics of bupropion and its three metabolites.
+Citalopram: Citalopram did not affect the pharmacokinetics of bupropion and its three metabolites.
 
-Inducers of CYP2B6 Ritonavir and Lopinavir: In a healthy volunteer trial, ritonavir 100 mg twice daily reduced the AUC and C max of bupropion by 22% and 21%, respectively.
+Inducers of CYP2B6: Ritonavir and Lopinavir: In a healthy volunteer trial, ritonavir 100 mg twice daily reduced the AUC and C max of bupropion by 22% and 21%, respectively.
 The exposure of the hydroxybupropion metabolite was decreased by 23%, the threohydrobupropion decreased by 38%, and the erythrohydrobupropion decreased by 48%.
 
 In a second healthy volunteer trial, ritonavir at a dose of 600 mg twice daily decreased the AUC and the C max of bupropion by 66% and 62%, respectively.
@@ -109,24 +109,24 @@ The exposure of the hydroxybupropion metabolite was decreased by 78%, the threoh
 In another healthy volunteer trial, lopinavir 400 mg/ritonavir 100 mg twice daily decreased bupropion AUC and C max by 57%.
 The AUC and C max of hydroxybupropion were decreased by 50% and 31%, respectively.
 
-Efavirenz In a trial in healthy volunteers, efavirenz 600 mg once daily for 2 weeks reduced the AUC and C max of bupropion by approximately 55% and 34%, respectively.
+Efavirenz: In a trial in healthy volunteers, efavirenz 600 mg once daily for 2 weeks reduced the AUC and C max of bupropion by approximately 55% and 34%, respectively.
 The AUC of hydroxybupropion was unchanged, whereas C max of hydroxybupropion was increased by 50%.
 
-Carbamazepine, Phenobarbital, Phenytoin While not systematically studied, these drugs may induce the metabolism of bupropion.
+Carbamazepine, Phenobarbital, Phenytoin: While not systematically studied, these drugs may induce the metabolism of bupropion.
 
 Potential for Bupropion Hydrochloride Tablets to Affect Other Drugs Animal data indicated that bupropion may be an inducer of drug-metabolizing enzymes in humans.
 In one trial, following chronic administration of bupropion 100 mg three times daily to 8 healthy male volunteers for 14 days, there was no evidence of induction of its own metabolism.
 Nevertheless, there may be potential for clinically important alterations of blood levels of co-administered drugs.
 
-Drugs Metabolized by CYP2D6 In vitro, bupropion and its metabolites (erythrohydrobupropion, threohydrobupropion, hydroxybupropion) are CYP2D6 inhibitors.
+Drugs Metabolized by CYP2D6: In vitro, bupropion and its metabolites (erythrohydrobupropion, threohydrobupropion, hydroxybupropion) are CYP2D6 inhibitors.
 In a clinical trial of 15 male subjects (ages 19 to 35 years) who were extensive metabolizers of CYP2D6, bupropion 300 mg per day followed by a single dose of 50 mg desipramine increased the C max, AUC, and t1/2 of desipramine by an average of approximately 2-, 5-, and 2-fold, respectively.
 The effect was present for at least 7 days after the last dose of bupropion.
 Concomitant use of bupropion with other drugs metabolized by CYP2D6 has not been formally studied.
 
-Citalopram Although citalopram is not primarily metabolized by CYP2D6, in one trial bupropion increased the C max and AUC of citalopram by 30% and 40%, respectively.
+Citalopram: Although citalopram is not primarily metabolized by CYP2D6, in one trial bupropion increased the C max and AUC of citalopram by 30% and 40%, respectively.
 
-Lamotrigine Multiple oral doses of bupropion had no statistically significant effects on the single-dose pharmacokinetics of lamotrigine in 12 healthy volunteers.
+Lamotrigine: Multiple oral doses of bupropion had no statistically significant effects on the single-dose pharmacokinetics of lamotrigine in 12 healthy volunteers.
 
-Digoxin
+Digoxin:
 
 Literature data showed that digoxin exposure was decreased when a single oral dose of 0.5-mg digoxin was administered 24 hours after a single oral dose of extended-release 150-mg bupropion in healthy volunteers.

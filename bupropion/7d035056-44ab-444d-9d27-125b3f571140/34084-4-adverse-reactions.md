@@ -2,14 +2,14 @@
 
 The following adverse reactions are discussed in greater detail in other sections of the labeling:
 
-- •Suicidal thoughts and behaviors in adolescents and young adults [see Boxed Warning and Warnings and Precautions (5.1)]
-- •Neuropsychiatric symptoms and suicide risk in smoking cessation treatment [see Warnings and Precautions (5.2)]
-- •Seizure [see Warnings and Precautions (5.3)]
-- •Hypertension [see Warnings and Precautions (5.4)]
-- •Activation of mania or hypomania [see Warnings and Precautions (5.5)]
-- •Psychosis and other neuropsychiatric reactions [see Warnings and Precautions (5.6)]
-- •Angle-closure glaucoma [see Warnings and Precautions (5.7)]
-- •Hypersensitivity reactions [see Warnings and Precautions (5.8)]
+- Suicidal thoughts and behaviors in adolescents and young adults [see Boxed Warning and Warnings and Precautions (5.1)]
+- Neuropsychiatric symptoms and suicide risk in smoking cessation treatment [see Warnings and Precautions (5.2)]
+- Seizure [see Warnings and Precautions (5.3)]
+- Hypertension [see Warnings and Precautions (5.4)]
+- Activation of mania or hypomania [see Warnings and Precautions (5.5)]
+- Psychosis and other neuropsychiatric reactions [see Warnings and Precautions (5.6)]
+- Angle-closure glaucoma [see Warnings and Precautions (5.7)]
+- Hypersensitivity reactions [see Warnings and Precautions (5.8)]
 
 ## 6.1 Clinical Trials Experience
 
@@ -83,27 +83,27 @@ The following enumeration is organized by organ system and describes events in t
 The following definitions of frequency are used: Frequent adverse reactions are defined as those occurring in at least 1/100 subjects.
 Infrequent adverse reactions are those occurring in 1/100 to 1/1,000 subjects, while rare events are those occurring in less than 1/1,000 subjects.
 
-Cardiovascular Frequent was edema; infrequent were chest pain, electrocardiogram (ECG) abnormalities (premature beats and nonspecific ST-T changes), and shortness of breath/dyspnea; rare were flushing, and myocardial infarction.
+Cardiovascular: Frequent was edema; infrequent were chest pain, electrocardiogram (ECG) abnormalities (premature beats and nonspecific ST-T changes), and shortness of breath/dyspnea; rare were flushing, and myocardial infarction.
 
-Dermatologic Infrequent was alopecia.
+Dermatologic: Infrequent was alopecia.
 
-Endocrine Infrequent was gynecomastia; rare was glycosuria.
+Endocrine: Infrequent was gynecomastia; rare was glycosuria.
 
-Gastrointestinal Infrequent were dysphagia, thirst disturbance, and liver damage/jaundice; rare was intestinal perforation.
+Gastrointestinal: Infrequent were dysphagia, thirst disturbance, and liver damage/jaundice; rare was intestinal perforation.
 
-Genitourinary Frequent was nocturia; infrequent were vaginal irritation, testicular swelling, urinary tract infection, painful erection, and retarded ejaculation; rare were enuresis, and urinary incontinence.
+Genitourinary: Frequent was nocturia; infrequent were vaginal irritation, testicular swelling, urinary tract infection, painful erection, and retarded ejaculation; rare were enuresis, and urinary incontinence.
 
-Neurological Frequent were ataxia/incoordination, seizure, myoclonus, dyskinesia, and dystonia; infrequent were mydriasis, vertigo, and dysarthria; rare were electroencephalogram (EEG) abnormality, and impaired attention.
+Neurological: Frequent were ataxia/incoordination, seizure, myoclonus, dyskinesia, and dystonia; infrequent were mydriasis, vertigo, and dysarthria; rare were electroencephalogram (EEG) abnormality, and impaired attention.
 
-Neuropsychiatric Frequent were mania/hypomania, increased libido, hallucinations, decrease in sexual function, and depression; infrequent were memory impairment, depersonalization, psychosis, dysphoria, mood instability, paranoia, and formal thought disorder; rare was suicidal ideation.
+Neuropsychiatric: Frequent were mania/hypomania, increased libido, hallucinations, decrease in sexual function, and depression; infrequent were memory impairment, depersonalization, psychosis, dysphoria, mood instability, paranoia, and formal thought disorder; rare was suicidal ideation.
 
-Oral Complaints Frequent was stomatitis; infrequent were toothache, bruxism, gum irritation, and oral edema.
+Oral Complaints: Frequent was stomatitis; infrequent were toothache, bruxism, gum irritation, and oral edema.
 
-Respiratory Infrequent were bronchitis and shortness of breath/dyspnea; rare was pulmonary embolism.
+Respiratory: Infrequent were bronchitis and shortness of breath/dyspnea; rare was pulmonary embolism.
 
-Special Senses Infrequent was visual disturbance; rare was diplopia.
+Special Senses: Infrequent was visual disturbance; rare was diplopia.
 
-Nonspecific Frequent were flu-like symptoms; infrequent was nonspecific pain; rare was overdose.
+Nonspecific: Frequent were flu-like symptoms; infrequent was nonspecific pain; rare was overdose.
 
 Altered Appetite and Weight A weight loss of greater than 5 lbs occurred in 28% of subjects receiving bupropion hydrochloride tablets.
 This incidence is approximately double that seen in comparable subjects treated with tricyclics or placebo.
