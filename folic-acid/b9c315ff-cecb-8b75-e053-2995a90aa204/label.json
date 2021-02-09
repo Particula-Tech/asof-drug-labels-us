@@ -1,10 +1,11 @@
 {
   "application_numbers": [
-    "ANDA091145"
+    "ANDA211064"
   ],
   "inn": "folic-acid",
   "labeler": "Method Pharmaceuticals, LLC",
   "package_ndcs": [
+    "58657-151-01",
     "58657-151-10"
   ],
   "products": [
