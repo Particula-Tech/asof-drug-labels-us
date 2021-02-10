@@ -1,6 +1,6 @@
 # 14 CLINICAL STUDIES
 
-The safety and efficacy of dexmedetomidine has been evaluated in four randomized, double-blind, placebo-controlled multicenter clinical trials in 1,185 adult patients.
+The safety and efficacy of dexmedetomidine hydrochloride has been evaluated in four randomized, double-blind, placebo-controlled multicenter clinical trials in 1,185 adult patients.
 
 ## 14.1 Intensive Care Unit Sedation
 

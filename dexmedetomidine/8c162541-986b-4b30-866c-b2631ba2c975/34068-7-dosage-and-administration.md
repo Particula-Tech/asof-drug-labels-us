@@ -30,6 +30,36 @@ Dexmedetomidine injection, 200 mcg/2 mL (100 mcg/mL) Dexmedetomidine injection m
 Preparation of solutions is the same, whether for the loading dose or maintenance infusion.
 To prepare the infusion, withdraw 2 mL of dexmedetomidine injection, and add to 48 mL of 0.9% sodium chloride injection to a total of 50 mL.
 Shake gently to mix well.
+Dexmedetomidine Hydrochloride in 0.9% Sodium Chloride Injection, 200 mcg/50 mL (4 mcg/mL) and 400 mcg/100 mL (4 mcg/mL) Dexmedetomidine Hydrochloride in 0.9% Sodium Chloride Injection is supplied in flexible containers containing a premixed, ready to use dexmedetomidine hydrochloride solution in 0.9% sodium chloride in water.
+No further dilution of these preparations are necessary.
+Instructions for Use for Flexible Containers: 1.
+Tear outer wrap at the notch and remove solution container.
+2.
+Check the container for minute leaks by squeezing it firmly.
+If leaks are found, or if the seal is not intact, discard the solution, as the sterility may be compromised.
+3.
+Do not use if the solution is cloudy or a precipitate is present.
+4.
+Use aseptic technique.
+5.
+WARNING: Do not use flexible containers in series connections.
+Such use could result in air embolism due to residual air being drawn from the primary container before administration of the fluid from the secondary container is complete.
+Preparation for Administration: 1.
+Close flow control clamp of administration set.
+2.
+Remove cover from tube at bottom of container.
+3.
+Insert piercing pin of administration set into port with a twisting motion until the pin is firmly seated.
+NOTE: See full directions on administration set carton.
+4.
+Suspend container from hanger.
+5.
+Squeeze and release drip chamber to establish proper fluid level in chamber during infusion.
+6.
+Open flow control clamp to expel air from set.
+Close clamp.
+7.
+Regulate rate of administration with flow control clamp.
 
 ## 2.5 Administration with Other Fluids
 

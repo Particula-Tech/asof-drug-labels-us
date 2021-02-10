@@ -34,7 +34,7 @@ The use of dexmedetomidine for procedural sedation in pediatric patients has not
 Intensive Care Unit Sedation A total of 729 patients in the clinical studies were 65 years of age and over.
 A total of 200 patients were 75 years of age and over.
 In patients greater than 65 years of age, a higher incidence of bradycardia and hypotension was observed following administration of dexmedetomidine [see Warnings and Precautions (5.2)].
-Therefore, a dose reduction may be considered in patients over 65 years of age [see Dosage and Administration (2.2, 2.3), Clinical Pharmacology (12.3)].
+Therefore, a dose reduction may be considered in patients over 65 years of age [see Dosage and Administration (2.2, 2.3) and Clinical Pharmacology (12.3)].
 Procedural Sedation A total of 131 patients in the clinical studies were 65 years of age and over.
 A total of 47 patients were 75 years of age and over.
 Hypotension occurred in a higher incidence in dexmedetomidine-treated patients 65 years or older (72%) and 75 years or older (74%) as compared to patients <65 years (47%).

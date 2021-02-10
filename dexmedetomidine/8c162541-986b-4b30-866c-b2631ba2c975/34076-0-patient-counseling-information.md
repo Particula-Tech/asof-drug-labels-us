@@ -9,3 +9,5 @@ Blood pressure, heart rate and oxygen levels will be monitored both continuously
 
 Distributed by: AuroMedics Pharma LLC 279 Princeton-Hightstown Rd.
 E. Windsor, NJ 08520 Manufactured by: Aurobindo Pharma Limited Hyderabad - 500038 India
+
+Revised: September 2020
