@@ -11,7 +11,7 @@ Efficacy was established in 4 short-term trials in adults, 2 short-term trials i
 Monotherapy
 
 Risperidone is indicated for the treatment of acute manic or mixed episodes associated with Bipolar I Disorder.
-Efficacy was established in 2 short-term trials in adults and one short-term trial in in children and adolescents (ages 10 to 17 years) [see Clinical Studies (14.2)].
+Efficacy was established in 2 short-term trials in adults and one short-term trial in children and adolescents (ages 10 to 17 years) [see Clinical Studies (14.2)].
 
 Adjunctive Therapy
 

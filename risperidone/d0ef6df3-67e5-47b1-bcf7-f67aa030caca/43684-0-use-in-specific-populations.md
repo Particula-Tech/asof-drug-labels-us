@@ -44,7 +44,7 @@ Human Data
 Published data from observational studies, birth registries, and case reports on the use of atypical antipsychotics during pregnancy do not report a clear association with antipsychotics and major birth defects.
 A prospective observational study including 6 women treated with risperidone demonstrated placental passage of risperidone.
 A retrospective cohort study from a Medicaid database of 9258 women exposed to antipsychotics during pregnancy did not indicate an overall increased risk for major birth defects.
-There was a small increase in the risk of major birth defects (RR=1.26, 95% CI 1.02 to1.56) and of cardiac malformations (RR=1.26, 95% CI 0.88-1.81) in a subgroup of 1566 women exposed to risperidone during the first trimester of pregnancy; however, there is no mechanism of action to explain the difference in malformation rates.
+There was a small increase in the risk of major birth defects (RR=1.26, 95% CI 1.02 to1.56) and of cardiac malformations (RR=1.26, 95% CI 0.88 to1.81) in a subgroup of 1566 women exposed to risperidone during the first trimester of pregnancy; however, there is no mechanism of action to explain the difference in malformation rates.
 
 Animal Data
 
