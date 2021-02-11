@@ -3,8 +3,8 @@
 Acyclovir Sodium Injection is intended for intravenous infusion only, and should not be administered topically, intramuscularly, orally, subcutaneously, or in the eye.
 Intravenous infusions must be given over a period of at least 1 hour to reduce the risk of renal tubular damage (see PRECAUTIONS and DOSAGE AND ADMINISTRATION).
 
-Renal failure, in some cases resulting in death, has been observed with acyclovir therapy (see ADVERSE REACTIONS,Observed During Clinical Practice and OVERDOSAGE).
-Thrombotic thrombocytopenic purpura/ hemolytic uremic syndrome (TTP/HUS), which has resulted in death, has occurred in immunocompromised patients receiving acyclovir therapy.
+Renal failure, in some cases resulting in death, has been observed with acyclovir therapy (see ADVERSE REACTIONS, Observed During Clinical Practice and OVERDOSAGE).
+Thrombotic thrombocytopenic purpura/hemolytic uremic syndrome (TTP/HUS), which has resulted in death, has occurred in immunocompromised patients receiving acyclovir therapy.
 
 # PRECAUTIONS
 
@@ -13,7 +13,7 @@ Thrombotic thrombocytopenic purpura/ hemolytic uremic syndrome (TTP/HUS), which 
 Precipitation of acyclovir crystals in renal tubules can occur if the maximum solubility of free acyclovir (2.5 mg/mL at 37°C in water) is exceeded or if the drug is administered by bolus injection.
 Ensuing renal tubular damage can produce acute renal failure.
 
-Abnormal renal function (decreased creatinine clearance) can occur as a result of acyclovir administration and depends on the state of the patient’s hydration, other treatments, and the rate of drug administration.
+Abnormal renal function (decreased creatinine clearance) can occur as a result of acyclovir administration and depends on the state of the patient's hydration, other treatments, and the rate of drug administration.
 Concomitant use of other nephrotoxic drugs, pre-existing renal disease, and dehydration make further renal impairment with acyclovir more likely.
 
 Administration of acyclovir by intravenous infusion must be accompanied by adequate hydration.
@@ -25,7 +25,7 @@ Acyclovir should be used with caution in those patients who have underlying neur
 
 ## Drug Interactions
 
-See CLINICAL PHARMACOLOGY,Pharmacokinetics.
+See CLINICAL PHARMACOLOGY, Pharmacokinetics.
 
 ## Carcinogenesis, Mutagenesis, Impairment of Fertility
 
@@ -47,9 +47,9 @@ In a rat peri- and post-natal study at 50 mg/kg/day, SC, there was a statistical
 No testicular abnormalities were seen in dogs given 50 mg/kg/day, IV for 1 month (1 to 3 times human levels) or in dogs given 60 mg/kg/day orally for 1 year (the same as human levels).
 Testicular atrophy and aspermatogenesis were observed in rats and dogs at higher dose levels.
 
-## Pregnancy: Teratogenic Effects
+## Pregnancy
 
-Pregnancy Category B.
+### Teratogenic Effects
 
 Acyclovir administered during organogenesis was not teratogenic in the mouse (450 mg/kg/day, PO), rabbit (50 mg/kg/day, SC and IV) or rat (50 mg/kg/day, SC).
 These exposures resulted in plasma levels the same as, 4 and 9, and 1 and 2 times, respectively, human levels.
@@ -57,8 +57,8 @@ These exposures resulted in plasma levels the same as, 4 and 9, and 1 and 2 time
 There are no adequate and well-controlled studies in pregnant women.
 A prospective epidemiologic registry of acyclovir use during pregnancy was established in 1984 and completed in April 1999.
 There were 749 pregnancies followed in women exposed to systemic acyclovir during the first trimester of pregnancy resulting in 756 outcomes.
-The occurrence rate of birth defects approximates that found in the general population.
-However, the small size of the registry is insufficient to evaluate the risk for less common defects or to permit reliable or definitive conclusions regarding the safety of acyclovir in pregnant women and their developing fetuses.
+The occurrence rate of birth defects approximated that found in the general population.
+However, the small size of the registry was insufficient to evaluate the risk for less common defects or to permit reliable or definitive conclusions regarding the safety of acyclovir in pregnant women and their developing fetuses.
 Acyclovir should be used during pregnancy only if the potential benefit justifies the potential risk to the fetus.
 
 ## Nursing Mothers
@@ -69,12 +69,12 @@ Acyclovir should be administered to a nursing mother with caution and only when 
 
 ## Pediatric Use
 
-See DOSAGE AND ADMINISTRATION.
+The safety and efficacy of Acyclovir Sodium Injection has been evaluated in pediatric patients, including neonates (see CLINICAL PHARMACOLOGY, CLINICAL TRIALS, INDICATIONS AND USAGE, ADVERSE REACTIONS and DOSAGE AND ADMINISTRATION).
 
 ## Geriatric Use
 
-Clinical studies of acyclovir did not include sufficient numbers of patients aged 65 and over to determine whether they respond differently than younger patients.
-Other reported clinical experience has identified differences in the severity of CNS adverse events between elderly and younger patients (see ADVERSE REACTIONS,Observed During Clinical Practice).
+Clinical studies of Acyclovir Sodium Injection did not include sufficient numbers of patients aged 65 and older to determine whether they respond differently from younger patients.
+Other reported clinical experience has identified differences in the severity of CNS adverse events between elderly and younger patients (see ADVERSE REACTIONS, Observed During Clinical Practice).
 In general, dose selection for an elderly patient should be cautious, reflecting the greater frequency of decreased renal function, and of concomitant disease or other drug therapy.
 This drug is known to be substantially excreted by the kidney, and the risk of toxic reactions to this drug may be greater in patients with impaired renal function.
 Because elderly patients are more likely to have decreased renal function, care should be taken in dose selection, and it may be useful to monitor renal function.

@@ -11,4 +11,4 @@ The chemical name of acyclovir sodium is 9-[(2-Hydroxyethoxy)methyl] guanine, an
 Acyclovir sodium is a white, crystalline powder with the molecular formula C8H10N5NaO3 and a molecular weight of 247.19.
 The maximum solubility in water at 25°C exceeds 100 mg/mL.
 At physiologic pH, acyclovir sodium exists as the unionized form with a molecular weight of 225 and a maximum solubility in water at 37°C of 2.5 mg/mL.
-The pka’s of acyclovir are 2.27 and 9.25.
+The pka's of acyclovir are 2.27 and 9.25.

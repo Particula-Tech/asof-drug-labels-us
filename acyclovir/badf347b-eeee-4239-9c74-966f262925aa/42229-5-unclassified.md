@@ -1,4 +1,4 @@
-FOR INTRAVENOUS INFUSION ONLY
+Rx only
 
 # VIROLOGY
 
@@ -11,7 +11,7 @@ This viral enzyme converts acyclovir into acyclovir monophosphate, a nucleotide 
 The monophosphate is further converted into diphosphate by cellular guanylate kinase and into triphosphate by a number of cellular enzymes.
 In vitro, acyclovir triphosphate stops replication of herpes viral DNA.
 This is accomplished in three ways: 1) competitive inhibition of viral DNA polymerase, 2) incorporation into and termination of the growing viral DNA chain, and 3) inactivation of the viral DNA polymerase.
-The greater antiviral activity of acyclovir against HSV compared to VZV is due to its more efficient phosphorylation by the viral TK.
+The greater antiviral activity of acyclovir against HSV compared with VZV is due to its more efficient phosphorylation by the viral TK.
 
 ## Antiviral Activities
 
@@ -23,67 +23,55 @@ Acyclovir also demonstrates activity against the Oka vaccine strain of VZV with 
 
 ## Drug Resistance
 
-Resistance of HSV and VZV to acyclovir can result from qualitative or quantitative changes in the viral TK and/or DNA polymerase.
+Resistance of HSV and VZV to acyclovir can result from qualitative and quantitative changes in the viral TK and/or DNA polymerase.
 Clinical isolates of HSV and VZV with reduced susceptibility to acyclovir have been recovered from immunocompromised patients, especially with advanced HIV infection.
 While most of the acyclovir-resistant mutants isolated thus far from such patients have been found to be TK-deficient mutants, other mutants involving the viral TK gene (TK partial and TK altered) and DNA polymerase have been isolated.
 TK-negative mutants may cause severe disease in infants and immunocompromised adults.
 The possibility of viral resistance to acyclovir should be considered in patients who show poor clinical response during therapy.
 
-# CLINICAL TRIALS
+# Special Populations
 
-## Herpes Simplex Infections in Immuocompromised Patients
+## Adults with Impaired Renal Function
 
-A multicenter trial of acyclovir at a dose of 250 mg/m2 every 8 hours (750 mg/m2/day) for 7 days was conducted in 98 immunocompromised patients (73 adults and 25 children) with orofacial, esophageal, genital and other localized infections (52 treated with acyclovir and 46 with placebo).
-Acyclovir decreased virus excretion, reduced pain, and promoted healing of lesions.
+Acyclovir was administered at a dose of 2.5 mg/kg to 6 adult patients with severe renal failure.
+The peak and trough plasma levels during the 47 hours preceding hemodialysis were 8.5 mcg/mL and 0.7 mcg/mL, respectively.
 
-## Initial Episodes of Herpes Genitalis
+Consult DOSAGE AND ADMINISTRATION section for recommended adjustments in dosing based upon creatinine clearance.
 
-In placebo-controlled trials, 58 patients with initial genital herpes were treated with intravenous acyclovir 5 mg/kg or placebo (27 patients treated with acyclovir and 31 treated with placebo) every 8 hours for 5 days.
-Acyclovir decreased the duration of viral excretion, new lesion formation, and duration of vesicles, and promoted healing of lesions.
+## Pediatrics
 
-## Herpes Simplex Encephalitis
+Acyclovir pharmacokinetics were determined in 16 pediatric patients with normal renal function ranging in age from 3 months to 16 years at doses of approximately 10 mg/kg and 20 mg/kg every 8 hours (Table 3).
+Concentrations achieved at these regimens are similar to those in adults receiving 5 mg/kg and 10 mg/kg every 8 hours, respectively (Table 1).
+Acyclovir pharmacokinetics were determined in 12 patients ranging in age from birth to 3 months at doses of 5 mg/kg, 10 mg/kg, and 15 mg/kg every 8 hours (Table 3).
 
-Sixty-two patients ages 6 months to 79 years with brain biopsy-proven herpes simplex encephalitis were randomized to receive either acyclovir (10 mg/kg every 8 hours) or vidarabine (15 mg/kg/day) for 10 days (28 were treated with acyclovir and 34 with vidarabine).
-Overall mortality at 12 months for patients treated with acyclovir was 25% compared to 59% for patients treated with vidarabine.
-The proportion of patients treated with acyclovir functioning normally or with only mild sequelae (e.g., decreased attention span) was 32% compared to 12% of patients treated with vidarabine.
+Table 3: Acyclovir Pharmacokinetics in Pediatric Patients (Mean ± SD)
 
-Patients less than 30 years of age and those who had the least severe neurologic involvement at time of entry into study had the best outcome with treatment with acyclovir.
-An additional controlled study performed in Europe demonstrated similar findings.
-
-## Neonatal Herpes Simplex Virus Infection
-
-Two hundred and two infants with neonatal herpes simplex infections were randomized to receive either acyclovir 10 mg/kg every 8 hours (n=107) or vidarabine 30 mg/kg/day (n=95) for 10 days.
-Outcomes are presented in Table 4.
-
-Table 4: Mortality at 1 Year
-
-| HSV Disease Classification | Treatment Group |  |
+| Parameter | Aged from Birth to 3 Months (n=12) | Aged 3 Months to 12 Years (n=16) |
 | --- | --- | --- |
-| Acyclovir (n=107) | Vidarabine (n=95) |  |
-| SEM* (n=85) | 0/54 | 0/31 |
-| CNS† (n=71) | 5/35 | 5/36 |
-| DISS‡ (n=46) | 11/18 | 14/28 |
+| CL (mL/min/kg) | 4.46 ± 1.61 | 8.44 ± 2.92 |
+| VDSS (L/kg) | 1.08 ± 0.35 | 1.01 ± 0.28 |
+| Elimination half-life (hours) | 3.8 ± 1.19 | 2.36 ± 0.97 |
 
-* SEM refers to localized infection with disease limited to skin, eye, and/or mouth.
+Acyclovir pharmacokinetic samples were collected in full-term and pre-term neonates with normal renal function who received varying dosing regimens of acyclovir for the treatment of suspected neonatal HSV infection.
+Model-predicted pharmacokinetic parameters stratified by post-menstrual age (PMA) are summarized in Table 4.
 
-† CNS refers to infection of the central nervous system with compatible neurologic and CSF findings.
+Table 4: Acyclovir Pharmacokinetics in Neonates Aged from Birth to 3 Months
 
-‡ DISS refers to visceral organ involvement such as hepatitis or pneumonitis with or without CNS involvement.
+| Post-Menstrual Age (PMA) | n | IV Dosea | Parameter (Median [Range]) |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- |
+| Cminss (mg/L) | Cmaxss (mg/L) | CL (L/h/kg) | V (L/kg) |  |  |  |
+| <30 Weeks | 13 | 500 mg/m2 every 8 h or 10 or 20 mg/kg every 12 h | 3.92 (2.38 - 39.3) | 10.3 (4.59 - 110) | 0.21 (0.10 - 0.31) | 2.88 (0.65 - 5.30) |
+| 30 to <36 Weeks | 9 | 500 mg/m2 every 8 h or 10 or 20 mg/kg every 12 h or 20 mg/kg every 8 h | 5.10 (2.54 - 9.62) | 8.83 (5.44 - 29.8) | 0.45 (0.30 - 0.81) | 4.49 (1.87 - 10.85) |
+| 36 to 41 Weeks | 6 | 500 mg/m2 every 8 h | 2.90 (2.19 - 7.46) | 12.4 (10.8 - 86.1) | 0.59 (0.13 - 0.77) | 2.55 (0.29 - 4.09) |
+| Overall | 28 | – | 4.15 (2.19 - 39.3) | 11.1 (4.59 - 110) | 0.28 (0.10 - 0.81) | 3.34 (0.29 - 10.9) |
+| a Administered over 1 hour. |  |  |  |  |  |  |
 
-Rates of neurologic sequelae at 1 year were comparable between the treatment groups.
+## Geriatrics
 
-## Varicella-Zoster Infections in Immunocompromised Patients
+Acyclovir plasma concentrations are higher in geriatric patients compared with younger adults, in part due to age-related changes in renal function.
+Dosage reduction may be required in geriatric patients with underlying renal impairment (see PRECAUTIONS, Geriatric Use).
 
-A multicenter trial of acyclovir at a dose of 500 mg/m2 every 8 hours for 7 days was conducted in immunocompromised patients with zoster infections (shingles).
-Ninety-four (94) patients were evaluated (52 patients were treated with acyclovir and 42 with placebo).
-Acyclovir was superior to placebo as measured by reductions in cutaneous dissemination and visceral dissemination.
+## Drug Interactions
 
-Manufactured by:
-
-Fresenius Kabi USA, LLC
-
-Lake Zurich, IL 60047
-
-451376
-
-Issued: February 2014
+Coadministration of probenecid with acyclovir has been shown to increase the mean acyclovir half-life and the area under the concentration-time curve.
+Urinary excretion and renal clearance were correspondingly reduced.

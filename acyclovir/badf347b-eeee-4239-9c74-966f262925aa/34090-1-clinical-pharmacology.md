@@ -26,37 +26,7 @@ Table 2: Acyclovir Half-life and Total Body Clearance
 | Creatinine Clearance (mL/min/1.73 m2) |  | Total Body Clearance |  |
 | --- | --- | --- | --- |
 | Half-Life (hr) | (mL/min/1.73 m2) | (mL/min/kg) |  |
-| >80 50-80 15-50 0 (Anuric) | 2.5 3 3.5 19.5 | 327 248 190 29 | 5.1 3.9 3.4 0.5 |
-
-## Special Populations
-
-Adults with Impaired Renal Function
-
-Acyclovir was administered at a dose of 2.5 mg/kg to 6 adult patients with severe renal failure.
-The peak and trough plasma levels during the 47 hours preceding hemodialysis were 8.5 mcg/mL and 0.7 mcg/mL, respectively.
-
-Consult DOSAGE AND ADMINISTRATION section for recommended adjustments in dosing based upon creatinine clearance.
-
-Pediatrics
-
-Acyclovir pharmacokinetics were determined in 16 pediatric patients with normal renal function ranging in age from 3 months to 16 years at doses of approximately 10 mg/kg and 20 mg/kg every 8 hours (Table 3).
-Concentrations achieved at these regimens are similar to those in adults receiving 5 mg/kg and 10 mg/kg every 8 hours, respectively (Table 1).
-Acyclovir pharmacokinetics were determined in 12 patients ranging in age from birth to 3 months at doses of 5 mg/kg, 10 mg/kg, and 15 mg/kg every 8 hours (Table 3).
-
-Table 3: Acyclovir Pharmacokinetics in Pediatric Patients (Mean ± SD)
-
-| Parameter | Birth to 3 Months of Age (n=12) | 3 Months to 12 Years of Age (n=16) |
-| --- | --- | --- |
-| CL (mL/min/kg) | 4.46 ± 1.61 | 8.44 ± 2.92 |
-| VDSS (L/kg) | 1.08 ± 0.35 | 1.01 ± 0.28 |
-| Elimination half-life (hours) | 3.80 ± 1.19 | 2.36 ± 0.97 |
-
-Geriatrics
-
-Acyclovir plasma concentrations are higher in geriatric patients compared to younger adults, in part due to age-related changes in renal function.
-Dosage reduction may be required in geriatric patients with underlying renal impairment (see PRECAUTIONS,Geriatric Use).
-
-## Drug Interactions
-
-Coadministration of probenecid with acyclovir has been shown to increase the mean acyclovir half-life and the area under the concentration-time curve.
-Urinary excretion and renal clearance were correspondingly reduced.
+| >80 | 2.5 | 327 | 5.1 |
+| 50 to 80 | 3 | 248 | 3.9 |
+| 15 to 50 | 3.5 | 190 | 3.4 |
+| 0 (Anuric) | 19.5 | 29 | 0.5 |

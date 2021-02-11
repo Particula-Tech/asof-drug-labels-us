@@ -14,7 +14,7 @@ Acyclovir Sodium Injection is indicated for the treatment of herpes simplex ence
 
 ## Neonatal Herpes Simplex Virus Infection
 
-Acyclovir Sodium Injection is indicated for the treatment of neonatal herpes infections.
+Acyclovir Sodium Injection is indicated for the treatment of neonates and infants with herpes simplex infections.
 
 ## Varicella-Zoster Infections in Immunocompromised Patients
 
