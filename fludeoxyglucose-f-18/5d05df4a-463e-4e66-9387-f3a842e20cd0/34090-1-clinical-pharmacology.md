@@ -3,7 +3,7 @@
 ## 12.1 Mechanism of Action
 
 Fludeoxyglucose F 18 is a glucose analog that concentrates in cells that rely upon glucose as an energy source, or in cells whose dependence on glucose increases under pathophysiological conditions.
-Fludeoxyglucose F 18 is transported through the cell membrane by facilitative glucose transporter proteins and is phosphorylated within the cell to [18F] FDG-6-phosphate by the enzyme hexokinase.
+Fludeoxyglucose F 18 is transported through the cell membrane by facilitative glucose transporter proteins and is phosphorylated within the cell to [F 18] FDG-6-phosphate by the enzyme hexokinase.
 Once phosphorylated it cannot exit until it is dephosphorylated by glucose-6-phosphatase.
 Therefore, within a given tissue or pathophysiological process, the retention and clearance of Fludeoxyglucose F 18 reflect a balance involving glucose transporter, hexokinase and glucose-6-phosphatase activities.
 Fludeoxyglucose F 18 is used to assess glucose metabolism.
@@ -33,8 +33,8 @@ Interictally, the seizure focus tends to be hypometabolic.
 
 ## 12.3 Pharmacokinetics
 
-Distribution: In four healthy male volunteers, receiving an intravenous administration of 30 seconds in duration, the arterial blood level profile for Fludeoxyglucose F 18 decayed triexponentially.
-The effective half-life ranges of the three phases were 0.2-0.3 minutes, 10-13 minutes with a mean and standard deviation (STD) of 11.6 (±) 1.1 min, and 80-95 minutes with a mean and STD of 88 (±) 4 min.
+- Distribution: In four healthy male volunteers, receiving an intravenous administration of 30 seconds in duration, the arterial blood level profile for Fludeoxyglucose F 18 decayed triexponentially.
+  The effective half-life ranges of the three phases were 0.2 to 0.3 minutes, 10 to 13 minutes with a mean and standard deviation (STD) of 11.6 (±) 1.1 min, and 80 to 95 minutes with a mean and STD of 88 (±) 4 min.
 
 Plasma protein binding of Fludeoxyglucose F 18 has not been studied.
 

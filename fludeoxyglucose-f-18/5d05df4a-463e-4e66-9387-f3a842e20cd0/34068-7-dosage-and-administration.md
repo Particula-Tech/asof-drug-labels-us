@@ -26,7 +26,7 @@ The optimal dose adjustment on the basis of body size or weight has not been det
 ## 2.4 Radiation Dosimetry
 
 The estimated human absorbed radiation doses (rem/mCi) to a newborn (3.4 kg), 1-year old (9.8 kg), 5-year old (19 kg), 10-year old (32 kg), 15-year old (57 kg), and adult (70 kg) from intravenous administration of Fludeoxyglucose F 18 Injection are shown in Table 1.
-These estimates were calculated based on human1 data and using the data published by the International Commission on Radiological Protection2 for Fludeoxyglucose 18F.
+These estimates were calculated based on human1 data and using the data published by the International Commission on Radiological Protection2 for Fludeoxyglucose F 18.
 The dosimetry data show that there are slight variations in absorbed radiation dose for various organs in each of the age groups.
 These dissimilarities in absorbed radiation dose are due to developmental age variations (e.g., organ size, location, and overall metabolic rate for each age group).
 The identified critical organs (in descending order) across all age groups evaluated are the urinary bladder, heart, pancreas, spleen, and lungs.
