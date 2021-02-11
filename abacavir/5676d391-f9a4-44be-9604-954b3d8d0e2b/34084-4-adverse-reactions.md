@@ -117,7 +117,8 @@ Treatment-Emergent Laboratory Abnormalities (Grades 3-4) in CNA3005
 | Hyperamylasemia (> 2.0 x ULN) | 5 (2%) | 1 (< 1%) |  |  |  |
 | Hyperglycemia (> 13.9 mmol/L) | 2 (< 1%) | 2 (< 1%) |  |  |  |
 | Anemia (Hgb ≤ 6.9 g/dL) | 0 (0%) | 3 (1%) |  |  |  |
-| ULN = Upper limit of normal. n = Number of subjects assessed. |  |  |  |  |  |
+| ULN = Upper limit of normal. |  |  |  |  |  |
+| n = Number of subjects assessed. |  |  |  |  |  |
 
 The frequencies of treatment-emergent laboratory abnormalities were comparable between treatment groups in CNA30021.
 
@@ -160,13 +161,13 @@ One event of Grade 4 hepatitis in the once-daily cohort was considered as uncert
 The following adverse reactions have been identified during postmarketing use of abacavir.
 Because these reactions are reported voluntarily from a population of unknown size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposures.
 
-Body as a Whole:Redistribution/accumulation of body fat.
+Body as a Whole: Redistribution/accumulation of body fat.
 
-Cardiovascular:Myocardial infarction.
+Cardiovascular: Myocardial infarction.
 
-Hepatic:Lactic acidosis and hepatic steatosis [see Warnings and Precautions (5.2)].
+Hepatic: Lactic acidosis and hepatic steatosis [see Warnings and Precautions (5.2)].
 
-Skin:Suspected Stevens-Johnson syndrome (SJS) and toxic epidermal necrolysis (TEN) have been reported in patients receiving abacavir primarily in combination with medications known to be associated with SJS and TEN, respectively.
+Skin: Suspected Stevens-Johnson syndrome (SJS) and toxic epidermal necrolysis (TEN) have been reported in patients receiving abacavir primarily in combination with medications known to be associated with SJS and TEN, respectively.
 Because of the overlap of clinical signs and symptoms between hypersensitivity to abacavir and SJS and TEN, and the possibility of multiple drug sensitivities in some patients, abacavir should be discontinued and not restarted in such cases.
 
 There have also been reports of erythema multiforme with abacavir use [see Adverse Reactions (6.1)].

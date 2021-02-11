@@ -4,7 +4,7 @@ Advise the patient to read the FDA-approved patient labeling (Medication Guide).
 
 Hypersensitivity Reactions: Inform patients:
 
-- •that a Medication Guide and Warning Card summarizing the symptoms of the abacavir hypersensitivity reaction and other product information will be dispensed by the pharmacist with each new prescription and refill of abacavir tablets, and instruct the patient to read the Medication Guide and Warning Card every time to obtain any new information that may be present about abacavir tablets.
+- •that a Medication Guide and Warning Card summarizing the symptoms of the abacavir hypersensitivity reaction and other product information will be dispensed by the pharmacist with each new prescription and refill of abacavir tablets and instruct the patient to read the Medication Guide and Warning Card every time to obtain any new information that may be present about abacavir tablets.
   The complete text of the Medication Guide is reprinted at the end of this document.
 - •to carry the Warning Card with them.
 - •how to identify a hypersensitivity reaction [see Warnings and Precautions (5.1), Medication Guide].
@@ -12,6 +12,7 @@ Hypersensitivity Reactions: Inform patients:
 - •that a hypersensitivity reaction can worsen and lead to hospitalization or death if abacavir tablets are not immediately discontinued.
 - •to not restart abacavir tablets or any other abacavir-containing product following a hypersensitivity reaction because more severe symptoms can occur within hours and may include life-threatening hypotension and death.
 - •that if they have a hypersensitivity reaction, they should dispose of any unused abacavir tablets to avoid restarting abacavir.
+
 - •that a hypersensitivity reaction is usually reversible if it is detected promptly and abacavir tablets are stopped right away.
 - •that if they have interrupted abacavir tablets for reasons other than symptoms of hypersensitivity (for example, those who have an interruption in drug supply), a serious or fatal hypersensitivity reaction may occur with reintroduction of abacavir.
 - •to not restart abacavir tablets or any other abacavir-containing product without medical consultation and only if medical care can be readily accessed by the patient or others.
