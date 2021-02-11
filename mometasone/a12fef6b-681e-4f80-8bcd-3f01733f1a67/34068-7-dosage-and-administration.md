@@ -7,8 +7,8 @@ Since safety and efficacy of mometasone furoate cream have not been established 
 Therapy should be discontinued when control is achieved.
 If no improvement is seen within 2 weeks, reassessment of diagnosis may be necessary [see Warnings and Precautions (5.1)].
 
-Do not use momentasone furoate cream with occlusive dressings unless directed by a physician.
-Do not apply momentasone furoate cream in the diaper area if the patient still requires diapers or plastic pants, as these garments may constitute occlusive dressing.
+Do not use mometasone furoate cream with occlusive dressings unless directed by a physician.
+Do not apply mometasone furoate cream in the diaper area if the patient still requires diapers or plastic pants, as these garments may constitute occlusive dressing.
 
 Avoid contact with eyes.
 Wash hands after each application.

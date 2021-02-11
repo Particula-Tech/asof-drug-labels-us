@@ -2,7 +2,7 @@
 
 ## 8.1 Pregnancy
 
-Teratogenic Effects Pregnancy Category C:
+Teratogenic Effects:
 
 There are no adequate and well-controlled studies in pregnant women.
 Therefore, mometasone furoate cream should be used during pregnancy only if the potential benefit justifies the potential risk to the fetus.

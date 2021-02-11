@@ -11,5 +11,5 @@
 | What are the ingredients in mometasone furoate cream? Active ingredient: mometasone furoate Inactive ingredients: aluminum starch octenylsuccinate, ceteareth-20, phosphoric acid, propylene glycol, propylene glycol stearate, purified water, stearyl alcohol, titanium dioxide, white petrolatum and white wax |  |
 | MADE IN CANADA MANUFACTURED BY TARO PHARMACEUTICALS INC. BRAMPTON, ONTARIO, CANADA L6T 1C1 |  |
 | Distributed By |  |
-| Perrigo® | Allegan, MI 49010 • www.perrigo.com Rev 09-18B 0F400 RC J4 PK-5108-5 0918-5 12 |
+| Perrigo® | Allegan, MI 49010 • www.perrigorx.com Rev 10-20B 5212896 24 |
 | This Patient Information has been approved by the U.S. Food and Drug Administration |  |
