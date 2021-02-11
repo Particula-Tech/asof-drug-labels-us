@@ -2,7 +2,7 @@
 
 ## 9.1 Controlled Substance
 
-Quetiapine fumarate is not a controlled substance.
+Quetiapine is not a controlled substance.
 
 ## 9.2 Abuse
 

@@ -22,7 +22,7 @@ In post marketing experience there were cases reported of QT prolongation in pat
 
 Adults
 
-Quetiapine fumarate activity is primarily due to the parent drug.
+Quetiapine activity is primarily due to the parent drug.
 The multiple-dose pharmacokinetics of quetiapine are dose-proportional within the proposed clinical dose range, and quetiapine accumulation is predictable upon multiple dosing.
 Elimination of quetiapine is mainly via hepatic metabolism with a mean terminal half-life of about 6 hours within the proposed clinical dose range.
 Steady-state concentrations are expected to be achieved within two days of dosing.
@@ -37,7 +37,7 @@ When adjusted for dose and weight, the pharmacokinetics of the metabolite, norqu
 
 Absorption
 
-Quetiapine fumarate is rapidly absorbed after oral administration, reaching peak plasma concentrations in 1.5 hours.
+Quetiapine is rapidly absorbed after oral administration, reaching peak plasma concentrations in 1.5 hours.
 The tablet formulation is 100% bioavailable relative to solution.
 The bioavailability of quetiapine is marginally affected by administration with food, with Cmax and AUC values increased by 25% and 15%, respectively.
 

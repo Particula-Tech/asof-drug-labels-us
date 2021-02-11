@@ -368,7 +368,7 @@ Neutrophil Counts
 
 Adults:
 
-In placebo-controlled monotherapy clinical trials involving 3368 patients on quetiapine fumarate and 1515 on placebo, the incidence of at least one occurrence of neutrophil count <1.0 x 109/L among patients with a normal baseline neutrophil count and at least one available follow up laboratory measurement was 0.3% (10/2967) in patients treated with quetiapine fumarate, compared to 0.1% (2/1349) in patients treated with placebo [see WARNINGS AND PRECAUTIONS (5.10)].
+In placebo-controlled monotherapy clinical trials involving 3368 patients on quetiapine and 1515 on placebo, the incidence of at least one occurrence of neutrophil count <1.0 x 109/L among patients with a normal baseline neutrophil count and at least one available follow up laboratory measurement was 0.3% (10/2967) in patients treated with quetiapine, compared to 0.1% (2/1349) in patients treated with placebo [see WARNINGS AND PRECAUTIONS (5.10)].
 
 Transaminase Elevations
 

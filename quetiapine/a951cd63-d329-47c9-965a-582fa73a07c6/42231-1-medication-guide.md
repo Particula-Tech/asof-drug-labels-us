@@ -253,7 +253,7 @@ For more information, go to www.lupinpharmaceuticals.com, or call 1-800-399-2561
 
 What are the ingredients in quetiapine tablets?
 
-Active ingredient: quetiapine fumarate
+Active ingredient: quetiapine
 
 Inactive ingredients: dibasic calcium phosphate dihydrate, hypromellose, lactose monohydrate, magnesium stearate, microcrystalline cellulose, polyethylene glycol, povidone, sodium starch glycolate and titanium dioxide.
 The 25 mg tablets contain iron oxide red and iron oxide black; and the 100 mg and 400 mg tablets contain only iron oxide yellow.
@@ -270,4 +270,4 @@ United States.
 
 MADE IN INDIA.
 
-Rev: December 2019 ID#: 263030
+Rev: November 2020 ID#: 265489
