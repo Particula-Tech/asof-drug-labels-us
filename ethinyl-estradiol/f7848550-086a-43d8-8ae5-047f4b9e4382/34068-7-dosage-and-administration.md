@@ -24,15 +24,21 @@ Under no circumstances should there be more than a 7-day patch-free interval bet
 
 ## 2.2 How to Start Using Xulane
 
-The woman has two options for starting the patch and she should choose the option that is right for her:
+There are multiple options for starting the Xulane patch, and the woman should choose the option that is most appropriate (see Table 1):
 
-- •First Day Start—The woman should apply her first patch during the first 24 hours of her menstrual period.
-- •Sunday Start—The woman should apply her first patch on the first Sunday after her menstrual period begins.
-  With this option, a non-hormonal backup method of birth control, such as a condom and spermicide or diaphragm and spermicide, is needed for the first 7 days of the first cycle only.
-  If her period starts on a Sunday, the first patch should be applied that day, and no backup contraception is needed.
-- •When Switching From the Pill or Vaginal Contraceptive Ring to the Patch—If the woman is switching from the pill or vaginal contraceptive ring to Xulane, she should complete her current pill cycle or vaginal ring cycle and apply the first Xulane patch on the day she would normally start her next pill or insert her next vaginal ring.
-  If she does not get her period within a week after taking the last active pill or removing the last vaginal ring, she should check with her healthcare professional to be sure that she is not pregnant, but she may go ahead and start Xulane for contraception.
-  If the patch is applied more than a week after taking the last active pill or removal of the last vaginal ring, she should use a non-hormonal contraceptive concurrently for the first 7 days of patch use.
+Table 1: Instructions for Administration
+
+| Starting Xulane in women with no current use of hormonal contraception |  |
+| --- | --- |
+| The woman has two options for starting the patch and she should choose the option that is right for her: First Day Start •The woman should apply her first patch during the first 24 hours of her menstrual period. If a patch is applied after the first 24 hours of menstruation, non-hormonal back-up contraception (such as condoms and spermicide, or diaphragm and spermicide) is needed for the first 7 days of the first cycle only.•The woman should apply a new patch each week for three weeks (21 total days). Every new patch should be applied on the same day of the week. This day is known as the “Patch Change Day.” For example, if the first patch is applied on a Monday, all subsequent patches should be applied on a Monday. Only one patch should be worn at a time.•No patch is worn during Week Four (the “Patch-Free Week”). Withdrawal bleeding is expected during this time. •On the day after Week 4 ends, a new 4-week cycle is started by applying a new patch. Under no circumstances should there be more than a 7-day patch-free interval between dosing cycles. Sunday Start •The woman should apply her first patch on the first Sunday after her menstrual period begins.•With this option, a non-hormonal backup method of birth control, such as a condom and spermicide or diaphragm and spermicide, is needed for the first 7 days of the first cycle only.•If her period starts on a Sunday, the first patch should be applied that day, and no backup contraception is needed. |  |
+| Switching from another contraceptive method |  |
+| Oral combination hormonal contraception (oral CHC) | •If the woman is switching from the pill to Xulane, she should complete her current pill cycle and apply the first Xulane patch on the day she would normally start her next pill•If she does not get her period within a week after taking the last active pill, she should check with her healthcare professional to be sure that she is not pregnant, but she may go ahead and start Xulane for contraception. •If the patch is applied more than a week after taking the last active pill, she should use a non-hormonal back-up contraception (such as condoms and spermicide, or diaphragm and spermicide) concurrently for the first 7 days of patch use. |
+| Transdermal system | •If the woman is switching from another contraceptive transdermal system to Xulane, she should complete the current transdermal system cycle and apply the first Xulane patch on the day the next transdermal system cycle would normally start.•If she does not get her period within a week after removing the last transderamal system, she should check with her healthcare professional to be sure that she is not pregnant, but she may go ahead and start Xulane for contraception. If Xulane is applied more than a week after removal of the last patch, nonhormonal back-up contraception (such as condoms and spermicide, or diaphragm and spermicide) should be used concurrently for the first 7 days of patch use. |
+| Vaginal ring | •If the woman is switching from the vaginal ring to Xulane, she should complete her current vaginal ring cycle and apply the first Xulane patch on the day she would normally insert her next vaginal ring. •If she does not get her period within a week after removing the last vaginal ring, she should check with her healthcare professional to be sure that she is not pregnant, but she may go ahead and start Xulane for contraception.•If the patch is applied more than a week after removal of the last vaginal ring, she should use a non-hormonal back-up contraception (such as condoms and spermicide, or diaphragm and spermicide) concurrently for the first 7 days of patch use. |
+| Injection | •If the woman is switching from an injection contraceptive to Xulane, she should apply the first Xulane patch on the day the next injection would normally occur. |
+| Intrauterine system (IUS) | •If the woman is switching from an intrauterine system to Xulane, she should apply the first Xulane patch on the day of IUS removal. If the IUS is not removed on the first day of the menstrual cycle, nonhormonal backup contraception (such as condoms and spermicide, or diaphragm and spermicide) should be used concurrently for the first 7 days of patch use. |
+| Implant | •If the woman is switching from an implant to Xulane, she should apply the first Xulane patch on the day of implant removal. |
+| Progestin-only pill | •If the woman is switching from a progestin-only pill to Xulane, she should apply the first Xulane patch on the day the next progestin-only pill cycle would normally start. |
 
 ### Use after Childbirth
 
@@ -114,15 +120,15 @@ IF THE WOMAN FORGETS TO CHANGE HER PATCH
   There is now a new “Patch Change Day” and a new “Day 1.”
   The woman must use back-up contraception, such as a condom and spermicide or diaphragm and spermicide, for the first week of the new cycle.
 - •in the middle of the patch cycle (Week 2/Day 8 or Week 3/Day 15),
-  - •for 1 or 2 days (up to 48 hours), she should apply a new patch immediately.
+  - -for 1 or 2 days (up to 48 hours), she should apply a new patch immediately.
     The next patch should be applied on the usual “Patch Change Day.”
     No back-up contraception is needed.
-  - •for more than 2 days (48 hours or more), SHE MAY NOT BE PROTECTED FROM PREGNANCY.
+  - -for more than 2 days (48 hours or more), SHE MAY NOT BE PROTECTED FROM PREGNANCY.
     She should stop the current contraceptive cycle and start a new 4-week cycle immediately by putting on a new patch.
     There is now a new “Patch Change Day” and a new “Day 1.”
     The woman must use back-up contraception for 1 week.
 - •at the end of the patch cycle (Week 4/Day 22),
-  - •If the woman forgets to remove her patch, she should take it off as soon as she remembers.
+  - -If the woman forgets to remove her patch, she should take it off as soon as she remembers.
     The next cycle should be started on the usual “Patch Change Day,” which is the day after Day 28.
     No back-up contraception is needed.
 

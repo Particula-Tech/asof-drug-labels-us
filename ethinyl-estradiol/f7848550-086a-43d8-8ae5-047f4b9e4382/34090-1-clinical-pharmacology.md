@@ -24,13 +24,13 @@ In one of the clinical studies, Css concentrations across all subjects ranged fr
 Absorption of NGMN and EE following application of norelgestromin and ethinyl estradiol transdermal system to the buttock, upper outer arm, abdomen and upper torso (excluding breast) was examined.
 While absorption from the abdomen was slightly lower than from other sites, absorption from these anatomic sites was considered to be therapeutically equivalent.
 
-The mean (%CV) PK parameters Css and AUC0-168 for NGMN and EE following a single buttock application of norelgestromin and ethinyl estradiol transdermal system are summarized in Table 4.
+The mean (%CV) PK parameters Css and AUC0-168 for NGMN and EE following a single buttock application of norelgestromin and ethinyl estradiol transdermal system are summarized in Table 5.
 
-In multiple dose studies, AUC0-168 for NGMN and EE was found to increase over time (Table 4).
+In multiple dose studies, AUC0-168 for NGMN and EE was found to increase over time (Table 5).
 In a three-cycle study, these PK parameters reached steady state conditions during Cycle 3 (Figures 2 and 3).
 Upon removal of the patch, serum levels of EE and NGMN reach very low or non-measurable levels within 3 days.
 
-Table 4: Mean (%CV*) PK Parameters of NGMN and EE Following Three Consecutive Cycles of Norelgestromin and Ethinyl Estradiol Transdermal System Wear on the Buttock
+Table 5: Mean (%CV*) PK Parameters of NGMN and EE Following Three Consecutive Cycles of Norelgestromin and Ethinyl Estradiol Transdermal System Wear on the Buttock
 
 | Analyte | Parameter | Cycle 1 | Cycle 3 | Cycle 3 | Cycle 3 |
 | --- | --- | --- | --- | --- | --- |
@@ -61,7 +61,7 @@ EE is also metabolized to various hydroxylated products and their glucuronide an
 
 NGMN and norgestrel (a serum metabolite of NGMN) are highly bound (> 97%) to serum proteins.
 NGMN is bound to albumin and not to SHBG, while norgestrel is bound primarily to SHBG, which limits its biological activity.
-EE is extensively bound to serum albumin and induces an increase in the serum concentrations of SHBG (see Table 4).
+EE is extensively bound to serum albumin and induces an increase in the serum concentrations of SHBG (see Table 5).
 
 ### Elimination
 
@@ -73,9 +73,9 @@ The metabolites of NGMN and EE are eliminated by renal and fecal pathways.
 The norelgestromin and ethinyl estradiol transdermal system delivers EE and NGMN over a 7-day period while oral contraceptives (containing NGM 250 mcg / EE 35 mcg) are administered on a daily basis.
 Figures 4 and 5 present mean PK profiles for EE and NGMN following administration of an oral contraceptive (containing NGM 250 mcg / EE 35 mcg) compared to the 7-day norelgestromin and ethinyl estradiol transdermal system (containing NGMN 4.86 mg / EE 0.53 mg) during Cycle 2 in 32 healthy female volunteers.
 
-Table 5 provides the mean (%CV) for NGMN and EE pharmacokinetic (PK) parameters.
+Table 6 provides the mean (%CV) for NGMN and EE pharmacokinetic (PK) parameters.
 
-Table 5: Mean (%CV) NGMN and EE Steady State Pharmacokinetic Parameters Following Application of Norelgestromin and Ethinyl Estradiol Transdermal System and Once-Daily Administration of an Oral Contraceptive (containing NGM 250 mcg / EE 35 mcg) in Healthy Female Volunteers
+Table 6: Mean (%CV) NGMN and EE Steady State Pharmacokinetic Parameters Following Application of Norelgestromin and Ethinyl Estradiol Transdermal System and Once-Daily Administration of an Oral Contraceptive (containing NGM 250 mcg / EE 35 mcg) in Healthy Female Volunteers
 
 | Parameter | Norelgestromin and Ethinyl Estradiol Transdermal SystemCycle 2, Week 3 | ORAL CONTRACEPTIVECycle 2, Day 21 |
 | --- | --- | --- |
@@ -93,11 +93,11 @@ Under steady state conditions, AUC0-168 and Css for EE were approximately 55% an
 Inter-subject variability (%CV) for the PK parameters following delivery from norelgestromin and ethinyl estradiol transdermal system was higher relative to the variability determined from the oral contraceptive.
 The mean PK profiles are different between the two products and caution should be exercised when making a direct comparison of these PK parameters.
 
-In Table 6, percent change in concentrations (%CV) of markers of systemic estrogenic activity (Sex Hormone Binding Globulin [SHBG] and Corticosteroid Binding Globulin [CBG]) from Cycle 1 Day 1 to Cycle 1 Day 22 is presented.
+In Table 7, percent change in concentrations (%CV) of markers of systemic estrogenic activity (Sex Hormone Binding Globulin [SHBG] and Corticosteroid Binding Globulin [CBG]) from Cycle 1 Day 1 to Cycle 1 Day 22 is presented.
 Percent change in SHBG concentrations was higher for norelgestromin and ethinyl estradiol transdermal system users compared to women taking the oral contraceptive; percent change in CBG concentrations was similar for norelgestromin and ethinyl estradiol transdermal system and oral contraceptive users.
 Within each group, the absolute values for SHBG were similar for Cycle 1, Day 22 and Cycle 2, Day 22.
 
-Table 6: Mean Percent Change (%CV) in SHBG and CBG Concentrations Following Once-Daily Administration of an Oral Contraceptive (containing NGM 250 mcg / EE 35 mcg) for One Cycle and Application of Norelgestromin and Ethinyl Estradiol Transdermal System for One Cycle in Healthy Female Volunteers
+Table 7: Mean Percent Change (%CV) in SHBG and CBG Concentrations Following Once-Daily Administration of an Oral Contraceptive (containing NGM 250 mcg / EE 35 mcg) for One Cycle and Application of Norelgestromin and Ethinyl Estradiol Transdermal System for One Cycle in Healthy Female Volunteers
 
 | Parameter | Norelgestromin and Ethinyl Estradiol Transdermal System | ORAL CONTRACEPTIVE |
 | --- | --- | --- |

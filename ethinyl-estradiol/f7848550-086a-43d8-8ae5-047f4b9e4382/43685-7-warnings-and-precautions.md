@@ -112,9 +112,9 @@ On average, 26% of women per cycle had 7 or more total days of bleeding and/or s
 Three clinical studies of the efficacy of norelgestromin and ethinyl estradiol transdermal system in preventing pregnancy assessed scheduled and unscheduled bleeding [see Clinical Studies (14)] in 3,330 women who completed 22,155 cycles of exposure.
 A total of 36 (1.1%) of the women discontinued norelgestromin and ethinyl estradiol transdermal system at least in part, due to bleeding or spotting.
 
-Table 1 summarizes the proportion of subjects who experienced unscheduled (breakthrough) bleeding/spotting by treatment cycle.
+Table 2 summarizes the proportion of subjects who experienced unscheduled (breakthrough) bleeding/spotting by treatment cycle.
 
-Table 1: Unscheduled (Breakthrough) Bleeding/Spotting (Subjects Evaluable for Efficacy)
+Table 2: Unscheduled (Breakthrough) Bleeding/Spotting (Subjects Evaluable for Efficacy)
 
 | Treatment Cycle | Pooled data from 3 studies |  |
 | --- | --- | --- |
@@ -171,7 +171,7 @@ The dose of replacement thyroid hormone or cortisol therapy may need to be incre
 
 ## 5.14 Monitoring
 
-A woman who is taking hormonal contraceptive should have a yearly visit with her healthcare provider for a blood pressure check and for other indicated healthcare.
+A woman who is taking hormonal contraceptive should have routine visits with her healthcare provider for a blood pressure check and for other indicated healthcare.
 
 ## 5.15 Hereditary Angioedema
 
