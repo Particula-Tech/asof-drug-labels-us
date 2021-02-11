@@ -102,6 +102,9 @@ Other Health-Related Outcomes
 General health status was assessed by the 36-item Short Form Health Survey (SF-36).
 In Trial RA, patients receiving SIMPONI ARIA + MTX demonstrated greater improvement from baseline compared with placebo + MTX in physical component summary (PCS), mental component summary (MCS) scores and in all 8 domains of the SF-36.
 
+Fatigue was assessed by the Functional Assessment of Chronic Illness Therapy-Fatigue score (FACIT-F) in Trial RA.
+Treatment with SIMPONI ARIA resulted in improvement in fatigue as measured by FACIT-F.
+
 ## 14.2 Psoriatic Arthritis
 
 The efficacy and safety of SIMPONI ARIA were evaluated in a multicenter, randomized, double-blind, placebo-controlled trial in 480 patients ≥ 18 years of age with active psoriatic arthritis despite NSAID or DMARD therapy (Trial PsA, NCT02181673).
@@ -195,6 +198,9 @@ Other Health Related Outcomes
 
 General health status was assessed by the 36-item Short Form Health Survey (SF-36).
 In Trial PsA, patients receiving SIMPONI ARIA demonstrated greater improvement from baseline compared with placebo in physical component summary, mental component summary scores and in all 8 domains of the SF-36.
+
+Fatigue was assessed by the Functional Assessment of Chronic Illness Therapy-Fatigue score (FACIT-F) in Trial PsA.
+Treatment with SIMPONI ARIA resulted in improvement in fatigue as measured by FACIT-F.
 
 Treatment of Pediatric Patients
 
