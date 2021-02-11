@@ -4,6 +4,10 @@
 
 The recommended dose of abiraterone acetate tablets is 1,000 mg (two 500 mg tablets or four 250 mg tablets) orally once daily with prednisone 5 mg orally twice daily.
 
+## 2.2 Recommended Dose for Metastatic High-Risk CSPC
+
+The recommended dose of abiraterone acetate tablets is 1,000 mg (two 500 mg tablets or four 250 mg tablets) orally once daily with prednisone 5 mg administered orally once daily.
+
 ## 2.3 Important Administration Instructions
 
 Patients receiving abiraterone acetate tablets should also receive a gonadotropin-releasing hormone (GnRH) analog concurrently or should have had bilateral orchiectomy.

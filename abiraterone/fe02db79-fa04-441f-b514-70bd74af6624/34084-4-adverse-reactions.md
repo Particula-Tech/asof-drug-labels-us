@@ -149,6 +149,52 @@ Table 4: Laboratory Abnormalities in > 15% of Patients in the Abiraterone Acetat
 | Hypernatremia | 33 | 0.4 | 25 | 0.2 |
 | Hypokalemia | 17 | 2.8 | 10 | 1.7 |
 
+### LATITUDE
+
+#### Patients with Metastatic High-Risk CSPC
+
+LATITUDE enrolled 1199 patients with newly-diagnosed metastatic, high-risk CSPC who had not received prior cytotoxic chemotherapy.
+Patients were ineligible if AST and/or ALT ≥ 2.5 X ULN or if they had liver metastases.
+All the patients received GnRH analogs or had prior bilateral orchiectomy during the trial.
+The median duration of treatment with abiraterone acetate tablets and prednisone was 24 months.
+
+Table 5 shows adverse reactions on the abiraterone acetate tablets arm that occurred in ≥ 5% of patients with a ≥ 2% absolute increase in frequency compared to those on the placebos arm.
+
+Table 5: Adverse Reactions in ≥ 5% of Patients on the Abiraterone Acetate Tablets Arm in LATITUDEAll patients were receiving an GnRH agonist or had undergone orchiectomy.
+
+| System/Organ Class Adverse reaction | Abiraterone Acetate Tablets with Prednisone(N = 597) |  | Placebos(N = 602) |  |
+| --- | --- | --- | --- | --- |
+| All GradesAdverse events graded according to CTCAE version 4.0% | Grade 3-4% | All Grades% | Grade 3-4% |  |
+| Vascular disorders |  |  |  |  |
+| Hypertension | 37 | 20 | 13 | 10 |
+| Hot flush | 15 | 0.0 | 13 | 0.2 |
+| Metabolism and nutrition disorders |  |  |  |  |
+| Hypokalemia | 20 | 10 | 3.7 | 1.3 |
+| Investigations |  |  |  |  |
+| Alanine aminotransferase increasedReported as an adverse event or reaction | 16 | 5.5 | 13 | 1.3 |
+| Aspartate aminotransferase increased | 15 | 4.4 | 11 | 1.5 |
+| Infections and infestations |  |  |  |  |
+| Urinary tract infection | 7.0 | 1.0 | 3.7 | 0.8 |
+| Upper respiratory tract infection | 6.7 | 0.2 | 4.7 | 0.2 |
+| Nervous system disorders |  |  |  |  |
+| Headache | 7.5 | 0.3 | 5.0 | 0.2 |
+| Respiratory, Thoracic and Mediastinal Disorders |  |  |  |  |
+| CoughIncluding cough, productive cough, upper airway cough syndrome | 6.5 | 0.0 | 3.2 | 0 |
+
+Table 6 shows laboratory abnormalities that occurred in ≥ 15% of patients, and more frequently (> 5%) in the abiraterone acetate tablets arm compared to placebos.
+
+Table 6: Laboratory Abnormalities in > 15% of Patients in the Abiraterone Acetate Tablets Arm of LATITUDE
+
+| Laboratory Abnormality | Abiraterone Acetate Tablets with Prednisone(N = 597) |  | Placebos(N= 602) |  |
+| --- | --- | --- | --- | --- |
+| Grade 1-4% | Grade 3-4% | Grade 1-4% | Grade 3-4% |  |
+| Hematology |  |  |  |  |
+| Lymphopenia | 20 | 4.1 | 14 | 1.8 |
+| Chemistry |  |  |  |  |
+| Hypokalemia | 30 | 9.6 | 6.7 | 1.3 |
+| Elevated ALT | 46 | 6.4 | 45 | 1.3 |
+| Elevated total bilirubin | 16 | 0.2 | 6.2 | 0.2 |
+
 ### Cardiovascular Adverse Reactions
 
 In the combined data of randomized, placebo-controlled clinical studies, cardiac failure occurred more commonly in patients on the abiraterone acetate tablets arm compared to patients on the placebo arm (2.6% versus 0.9%).

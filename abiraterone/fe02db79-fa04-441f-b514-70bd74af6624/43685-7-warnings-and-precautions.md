@@ -9,10 +9,13 @@ Control hypertension and correct hypokalemia before and during treatment with ab
 In the combined data from 4 placebo-controlled trials using prednisone 5 mg twice daily in combination with 1000 mg abiraterone acetate daily, grades 3-4 hypokalemia were detected in 4% of patients on the abiraterone acetate tablets arm and 2% of patients on the placebo arm.
 Grades 3-4 hypertension were observed in 2% of patients each arm and grades 3-4 fluid retention in 1% of patients each arm.
 
+In LATITUDE (a randomized placebo-controlled, multicenter clinical trial), which used prednisone 5 mg daily in combination with 1000 mg abiraterone acetate daily, grades 3-4 hypokalemia were detected in 10% of patients on the abiraterone acetate tablets arm and 1% of patients on the placebo arm, grades 3-4 hypertension were observed in 20% of patients on the abiraterone acetate tablets arm and 10% of patients on the placebo arm.
+Grades 3-4 fluid retention occurred in 1% of patients each arm [see Adverse Reactions (6)].
+
 Closely monitor patients whose underlying medical conditions might be compromised by increases in blood pressure, hypokalemia or fluid retention, such as those with heart failure, recent myocardial infarction, cardiovascular disease, or ventricular arrhythmia.
 In postmarketing experience, QT prolongation and Torsades de Pointes have been observed in patients who develop hypokalemia while taking abiraterone acetate tablets.
 
-The safety of abiraterone acetate tablets in patients with left ventricular ejection fraction < 50% or New York Heart Association (NYHA) Class III or IV heart failure (in COU-AA-301) or NYHA Class II to IV heart failure (in COU-AA-302) has not been established because these patients were excluded from these randomized clinical trials [see Clinical Studies (14)].
+The safety of abiraterone acetate tablets in patients with left ventricular ejection fraction < 50% or New York Heart Association (NYHA) Class III or IV heart failure (in COU-AA-301) or NYHA Class II to IV heart failure (in COU-AA-302 and LATITUDE) has not been established because these patients were excluded from these randomized clinical trials [see Clinical Studies (14)].
 
 ## 5.2 Adrenocortical Insufficiency
 

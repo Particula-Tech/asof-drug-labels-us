@@ -1,6 +1,6 @@
 # 14 CLINICAL STUDIES
 
-The efficacy and safety of abiraterone acetate tablets with prednisone was established in two randomized placebo-controlled international clinical studies.
+The efficacy and safety of abiraterone acetate tablets with prednisone was established in three randomized placebo-controlled international clinical studies.
 All patients in these studies received a GnRH analog or had prior bilateral orchiectomy.
 Patients with prior ketoconazole treatment for prostate cancer and a history of adrenal gland or pituitary disorders were excluded from these trials.
 Concurrent use of spironolactone was not allowed during the study period.
@@ -77,7 +77,47 @@ Table 9: Radiographic Progression-free Survival of Patients Treated with Either 
 | NR = Not reached. |  |  |  |  |  |  |  |  |
 
 The primary efficacy analyses are supported by the following prospectively defined endpoints.
-The median time to initiation of cytotoxic chemotherapy was 25.2 months for patients in the abiraterone acetate tablets arm and 16.8 months of patients in the placebo arm (HR = 0.580; 95% CI: [0.487, 0.691], p < 0.0001).
+The median time to initiation of cytotoxic chemotherapy was 25.2 months for patients in the abiraterone acetate tablets arm and 16.8 months for patients in the placebo arm (HR = 0.580; 95% CI: [0.487, 0.691], p < 0.0001).
 
 The median time to opiate use for prostate cancer pain was not reached for patients receiving abiraterone acetate tablets and was 23.7 months for patients receiving placebo (HR = 0.686; 95% CI: [0.566, 0.833], p = 0.0001).
 The time to opiate use result was supported by a delay in patient reported pain progression favoring the abiraterone acetate tablets arm.
+
+LATITUDE: Patients with Metastatic High-Risk CSPC: In LATITUDE (NCT01715285), 1199 patients with metastatic high-risk CSPC were randomized 1:1 to receive either abiraterone acetate tablets orally at a dose of 1,000 mg once daily with prednisone 5 mg once daily (N = 597) or placebos orally once daily (N = 602).
+High-risk disease was defined as having at least two of three risk factors at baseline: a total Gleason score of ≥ 8, presence of ≥ 3 lesions on bone scan, and evidence of measurable visceral metastases.
+Patients with significant cardiac, adrenal, or hepatic dysfunction were excluded.
+Patients continued treatment until radiographic or clinical disease progression, unacceptable toxicity, withdrawal or death.
+Clinical progression was defined as the need for cytotoxic chemotherapy, radiation or surgical treatment for cancer, pain requiring chronic opioids, or ECOG performance status decline to ≥ 3.
+
+Patient demographics were balanced between the treatment arms.
+The median age was 67 years among all randomized subjects.
+The racial distribution of patients treated with abiraterone acetate tablets was 69% Caucasian, 2.5% Black, 21% Asian, and 8.1% Other.
+The ECOG performance status was 0 for 55%, 1 for 42%, and 2 for 3.5% of patients.
+Baseline pain assessment was 0-1 (asymptomatic) in 50% of patients, 2-3 (mildly symptomatic) in 23% of patients, and ≥ 4 in 28% of patients as defined by the Brief Pain Inventory-Short Form (worst pain over the last 24 hours).
+
+A major efficacy outcome was overall survival.
+The pre-specified interim analysis after 406 deaths showed a statistically significant improvement in OS in patients on abiraterone acetate tablets with prednisone compared to those on placebos.
+Twenty-one percent of patients on the abiraterone acetate tablets arm and 41% of patients on the placebos arm received subsequent therapies that may prolong OS in metastatic CRPC.
+An updated survival analysis was conducted when 618 deaths were observed.
+The median follow-up time was 52 months.
+Results from this analysis were consistent with those from the pre-specified interim analysis (Table 10 and Figure 4).
+At the updated analysis, 29% of patients on the abiraterone acetate tablets arm and 45% of patients on the placebos arm received subsequent therapies that may prolong OS in metastatic CRPC.
+
+Table 10: Overall Survival of Patients Treated with Either Abiraterone Acetate Tablets or Placebos in LATITUDE (Intent-to-Treat Analysis)
+
+|  | Abiraterone Acetate Tablets with Prednisone(N = 597) |  | Placebos (N = 602) |  |  |  |  |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Overall SurvivalThis is based on the pre-specified interim analysis |  |  |  |  |  |  |  |  |  |  |  |  |
+| Deaths (%) | 169 (28%) |  | 237 (39%) |  |  |  |  |  |  |  |  |  |
+| Median survival (months) | NE (NE, NE) |  | 34.7 (33.1, NE) |  |  |  |  |  |  |  |  |  |
+| (95% CI) |  |  |  |  |  |  |  |  |  |  |  |  |
+| p-valuep value is from log-rank test stratified by ECOG PS score (0/1 or 2) and visceral (absent or present). |  | < 0.0001 |  |  |  |  |  |  |  |  |  |  |
+| Hazard ratio (95% CI)Hazard Ratio is derived from a stratified proportional hazards model. Hazard ratio < 1 favors abiraterone acetate tablets with prednisone. |  | 0.62 (0.51, 0.76) |  |  |  |  |  |  |  |  |  |  |
+| Updated Overall Survival |  |  |  |  |  |  |  |  |  |  |  |  |
+| Deaths (%) | 275 (46%) |  | 343 (57%) |  |  |  |  |  |  |  |  |  |
+| Median survival (months) | 53.3 |  | 36.5 |  |  |  |  |  |  |  |  |  |
+| (95% CI) | (48.2, NE) |  | (33.5, 40.0) |  |  |  |  |  |  |  |  |  |
+| Hazard ratio (95% CI) |  | 0.66 (0.56, 0.78) |  |  |  |  |  |  |  |  |  |  |
+| NE = Not estimable |  |  |  |  |  |  |  |  |  |  |  |  |
+
+The major efficacy outcome was supported by a statistically significant delay in time to initiation of chemotherapy for patients in the abiraterone acetate tablets arm compared to those in the placebos arm.
+The median time to initiation of chemotherapy was not reached for patients on abiraterone acetate tablets with prednisone and was 38.9 months for patients on placebos (HR = 0.44; 95% CI: [0.35, 0.56], p < 0.0001).
