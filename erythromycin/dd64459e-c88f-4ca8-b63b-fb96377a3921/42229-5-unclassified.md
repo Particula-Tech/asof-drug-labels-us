@@ -4,18 +4,10 @@ Rx Only
 
 Made in Israel
 
-Manufactured by Perrigo
+Manufactured by Perrigo Yeruham, Israel
 
-Yeruham, Israel
+Distributed By Perrigo® Allegan, MI 49010 www.perrigo.com
 
-Distributed By
+Rev 01-19
 
-Perrigo®
-
-Allegan, MI 49010
-
-www.perrigo.com
-
-Rev 11-15
-
-: 6J400 RC J5
+6J400 RC J6

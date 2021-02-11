@@ -40,11 +40,7 @@ There was no apparent effect on male or female fertility in rats fed erythromyci
 
 ## Pregnancy:
 
-### Teratogenic Effects:
-
-#### Pregnancy Category B -
-
-There was no evidence of teratogenicity or any other adverse effect on reproduction in female rats fed erythromycin base (up to 0.25% of diet) prior to and during mating, during gestation and through weaning of two successive litters.
+Teratogenic Effects: Pregnancy Category B - There was no evidence of teratogenicity or any other adverse effect on reproduction in female rats fed erythromycin base (up to 0.25% of diet) prior to and during mating, during gestation and through weaning of two successive litters.
 There are, however, no adequate and well-controlled studies in pregnant women.
 Because animal reproduction studies are not always predictive of human response, this drug should be used in pregnancy only if clearly needed.
 Erythromycin has been reported to cross the placental barrier in humans, but fetal plasma levels are generally low.
