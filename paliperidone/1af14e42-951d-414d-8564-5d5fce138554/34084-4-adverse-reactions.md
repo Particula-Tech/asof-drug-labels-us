@@ -94,7 +94,11 @@ Table 10: Incidences of Adverse Reactions 2% or More of INVEGA SUSTENNA®-Treate
 | Cough | 1 | 2 | 3 | 1 | 0 | 1 | 1 |
 | Vascular disorders |  |  |  |  |  |  |  |
 | Hypertension | 1 | 2 | 1 | 1 | 1 | 1 | 0 |
-| Percentages are rounded to whole numbers. Table includes adverse reactions that were reported in 2% or more of subjects in any of the INVEGA SUSTENNA® dose groups and which occurred at greater incidence than in the placebo group. Adverse reactions for which the INVEGA SUSTENNA® incidence was equal to or less than placebo are not listed in the table, but included the following: dyspepsia, psychotic disorder, schizophrenia, and tremor. The following terms were combined: somnolence/sedation, breast tenderness/breast pain, abdominal discomfort/abdominal pain upper/stomach discomfort, and tachycardia/sinus tachycardia/heart rate increased. All injection site reaction-related adverse reactions were collapsed and are grouped under "Injection site reactions". |  |  |  |  |  |  |  |
+| Percentages are rounded to whole numbers. Table includes adverse reactions that were reported in 2% or more of subjects in any of the INVEGA SUSTENNA® dose groups and which occurred at greater incidence than in the placebo group. |  |  |  |  |  |  |  |
+
+Adverse reactions for which the INVEGA SUSTENNA® incidence was equal to or less than placebo are not listed in the table, but included the following: dyspepsia, psychotic disorder, schizophrenia, and tremor.
+The following terms were combined: somnolence/sedation, breast tenderness/breast pain, abdominal discomfort/abdominal pain upper/stomach discomfort, and tachycardia/sinus tachycardia/heart rate increased.
+All injection site reaction-related adverse reactions were collapsed and are grouped under "Injection site reactions".
 
 Other Adverse Reactions Observed During the Clinical Trial Evaluation of INVEGA SUSTENNA®
 
