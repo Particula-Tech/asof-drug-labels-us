@@ -12,10 +12,4 @@ From large, well-controlled studies of other nitrates, it is reasonable to belie
 No dosing regimen for isosorbide dinitrate, however, has ever actually been shown to achieve this duration of effect.
 One study of 8 patients, who were administered a pretitrated dose (average 27.5 mg) of immediate-release isosorbide dinitrate at 0800, 1300, and 1800 hours for 2 weeks, revealed that significant anti-anginal effectiveness was discontinuous and totaled about 6 hours in a 24 hour period.
 
-Manufactured by:
-
-PAR PHARMACEUTICAL
-
-Chestnut Ridge, NY 10977
-
-Revised 02/2016
+Dist. by: Par Pharmaceutical Chestnut Ridge, NY 10977 U.S.A.
