@@ -4,7 +4,7 @@
 
 Pentasa® (mesalamine)
 
-Controlled-Release Capsules
+Extended-Release Capsules
 
 240 CAPSULES
 
@@ -12,7 +12,7 @@ Rx only
 
 250 mg
 
-Shire
+Takeda
 
 # PRINCIPAL DISPLAY PANEL - 500 mg Capsule Bottle Label
 
@@ -20,11 +20,15 @@ Shire
 
 Pentasa® (mesalamine)
 
-Controlled-Release Capsules
+Extended-Release Capsules
 
-120 CAPSULES Rx only
+120 CAPSULES
 
-500 mg Shire
+Rx only
+
+500 mg
+
+Takeda
 
 # PRINCIPAL DISPLAY PANEL - 500 mg Capsule Sample Carton
 
