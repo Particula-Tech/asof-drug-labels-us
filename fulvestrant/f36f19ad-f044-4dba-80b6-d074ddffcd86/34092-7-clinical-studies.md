@@ -29,7 +29,7 @@ In the initial Overall Survival (OS) analysis after a minimum follow-up duration
 After a minimum follow-up duration of 50 months, an updated OS analysis was performed.
 Figure 7 shows a Kaplan-Meier plot of the updated OS data.
 
-Table 12: Efficacy Results in CONFIRM (Intent-To-Treat (ITT) Population)
+Table 12: Efficacy Resultsin CONFIRM (Intent-To-Treat (ITT) Population)
 
 | Endpoint | Fulvestrant 500 mg (N=362) | Fulvestrant 250 mg (N=374) |
 | --- | --- | --- |
@@ -252,6 +252,6 @@ Table 17: Efficacy Results – MONALEESA-3 (Investigator Assessment, Intent-to-T
 | Patients with measurable disease (95% CI) | 40.9 (35.9, 45.8) | 28.7 (22.1, 35.3) |
 | Abbreviation: NR, not reached1. p-value is obtained from the one-sided log-rank2. Based on confirmed responses*Investigator Assessment |  |  |
 
-Figure 13: Kaplan-Meier Progression Free Survival Curves – MONALEESA-3 (Intent-to-Treat Population, Investigator assessment)
+Figure 13: Kaplan-Meier Progression Free Survival Curves – MONALEESA-3 (Intent-To-Treat Population, Investigator assessment)
 
 Figure 14: Kaplan-Meier plot of Overall Survival – MONALEESA-3 (Intent-to-Treat Population)

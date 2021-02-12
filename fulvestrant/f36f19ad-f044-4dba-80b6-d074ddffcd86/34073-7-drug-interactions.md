@@ -2,4 +2,4 @@
 
 There are no known drug-drug interactions.
 Although, fulvestrant is metabolized by CYP3A4 in vitro, drug interactions studies with ketoconazole or rifampin did not alter fulvestrant pharmacokinetics.
-Dose adjustment is not needed in patients co-prescribed CYP3A4 inhibitors or inducers [see Clinical Pharmacology (12.3)].
+Dose adjustment is not needed in patients co-prescribed CYP 3A4 inhibitors or inducers [see Clinical Pharmacology (12.3)].

@@ -27,4 +27,4 @@ Ltd. Parenteral Unit Ahmedabad 382213, INDIA
 Distributed by: Amneal Pharmaceuticals LLC Bridgewater, NJ 08807
 
 Rev.
-08-2020-06
+01-2021-07
