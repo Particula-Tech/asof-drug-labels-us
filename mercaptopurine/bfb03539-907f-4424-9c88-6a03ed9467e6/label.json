@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "NDA009053"
+  ],
+  "inn": "mercaptopurine",
+  "labeler": "Stason Pharmaceuticals, Inc.",
+  "package_ndcs": [
+    "60763-601-13"
+  ],
+  "products": [
+    {
+      "form": "TABLET",
+      "generic": "mercaptopurine",
+      "name": "PURINETHOL"
+    }
+  ],
+  "setid": "bfb03539-907f-4424-9c88-6a03ed9467e6",
+  "source": "dailymed"
+}
