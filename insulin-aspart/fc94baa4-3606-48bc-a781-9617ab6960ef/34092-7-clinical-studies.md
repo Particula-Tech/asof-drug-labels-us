@@ -2,7 +2,7 @@
 
 ## 14.1 Clinical Studies in Adult Patients with Type 1 and Type 2 Diabetes
 
-In a three-month, open-label trial, patients with type 1 (n=104) or type 2 (n=187) diabetes were treated twice daily (before breakfast and before supper) with insulin aspart protamine and insulin aspart or Novolin 70/30.
+In a three-month, open-label trial, patients with type 1 (n=104) or type 2 (n=187) diabetes were treated twice daily (before breakfast and before supper) with Insulin Aspart Protamine and Insulin Aspart Injectable Suspension Mix 70/30 or Novolin 70/30.
 Patients had received insulin for at least 24 months before the study.
 Oral hypoglycemic agents were not allowed within 1 month prior to the study or during the study.
 The small changes in HbA1c were comparable across the treatment groups (see Table 4).
@@ -14,7 +14,7 @@ The mean duration of diabetes was 14.9 years for type 1 and 15.0 years for type 
 
 Table 4: Glycemic Parameters at the End of Treatment [Mean ± SD (N subjects)]
 
-|  | insulin aspart protamine and insulin aspart | Novolin 70/30 |
+|  | Insulin Aspart Protamine and Insulin Aspart Injectable Suspension Mix 70/30 | Novolin 70/30 |
 | --- | --- | --- |
 | Type 1, N=104 |  |  |
 | Fasting Blood Glucose (mg/dL) | 174 ± 64 (48) | 142 ± 59 (44) |
@@ -43,14 +43,14 @@ Forty-six percent were male.
 Eighty-five percent were White, 12% were Black and 3% were Asian.
 The mean BMI was approximately 32.4 kg/m2.
 During an 8-week optimization period metformin and pioglitazone were increased to 2500 mg per day and 30 or 45 mg per day, respectively.
-After the optimization period, subjects were randomized to receive either insulin aspart protamine and insulin aspart twice daily added on to the metformin and pioglitazone regimen or continue the current optimized metformin and pioglitazone therapy.
-Insulin aspart protamine and insulin aspart was started at a dose of 6 IU twice daily (before breakfast and before supper).
+After the optimization period, subjects were randomized to receive either Insulin Aspart Protamine and Insulin Aspart Injectable Suspension Mix 70/30 twice daily added on to the metformin and pioglitazone regimen or continue the current optimized metformin and pioglitazone therapy.
+Insulin Aspart Protamine and Insulin Aspart Injectable Suspension Mix 70/30 was started at a dose of 6 IU twice daily (before breakfast and before supper).
 Insulin doses were titrated to a pre-meal glucose goal of 80-110 mg/dL.
 The total daily insulin dose at the end of the study was 56.9 ± 30.5 IU.
 
 Table 5: Combination Therapy with Oral Agents and Insulin in Patients with Type 2 Diabetes Mellitus [Mean (SD)]
 
-| Treatment duration 24-weeks | insulin aspart protamine and insulin aspart + Metformin + Pioglitazone | Metformin + Pioglitazone |
+| Treatment duration 24-weeks | Insulin Aspart Protamine and Insulin Aspart Injectable Suspension Mix 70/30 + Metformin + Pioglitazone | Metformin + Pioglitazone |
 | --- | --- | --- |
 | HbA1c |  |  |
 | Baseline mean ± SD (n) | 8.1 ± 1.0 (102) | 8.1 ± 1.0 (98) |
@@ -71,8 +71,8 @@ Table 5: Combination Therapy with Oral Agents and Insulin in Patients with Type 
 - *Adjusted mean per group, treatment difference, and 95% CI were obtained based on an ANCOVA model with treatment, FPG stratum, and secretagogue stratum as fixed factors and baseline HbA1c as the covariate.
 - 
 - Trial 2:
-- In a 28-week, open-label trial, insulin-naïve patients with type 2 diabetes with fasting plasma glucose above 140 mg/dL currently treated with metformin ± thiazolidinedione therapy were randomized to receive either insulin aspart protamine and insulin aspart twice daily [before breakfast and before supper] or insulin glargine once daily (see Table 6).
-  Insulin aspart protamine and insulin aspart was started at an average dose of 5-6 IU (0.07 ± 0.03 IU/kg) twice daily (before breakfast and before supper), and bedtime insulin glargine was started at 10-12 IU (0.13 ± 0.03 IU/kg).
+- In a 28-week, open-label trial, insulin-naïve patients with type 2 diabetes with fasting plasma glucose above 140 mg/dL currently treated with metformin ± thiazolidinedione therapy were randomized to receive either Insulin Aspart Protamine and Insulin Aspart Injectable Suspension Mix 70/30 twice daily [before breakfast and before supper] or insulin glargine once daily (see Table 6).
+  Insulin Aspart Protamine and Insulin Aspart Injectable Suspension Mix 70/30 was started at an average dose of 5-6 IU (0.07 ± 0.03 IU/kg) twice daily (before breakfast and before supper), and bedtime insulin glargine was started at 10-12 IU (0.13 ± 0.03 IU/kg).
   Insulin doses were titrated weekly by decrements or increments of -2 to +6 units per injection to a pre-meal glucose goal of 80-110 mg/dL.
   The metformin dose was adjusted to 2550 mg/day.
   Approximately one-third of the patients in each group were also treated with pioglitazone (30 mg/day).
@@ -85,7 +85,7 @@ Table 5: Combination Therapy with Oral Agents and Insulin in Patients with Type 
 
 Table 6: Combination Therapy with Oral Agents and Two Types of Insulin in Patients with Type 2 Diabetes Mellitus [Mean (SD)]
 
-| Treatment duration 28-weeks | insulin aspart protamine and insulin aspart+ Metformin ± Pioglitazone | Insulin Glargine + Metformin ± Pioglitazone |
+| Treatment duration 28-weeks | Insulin Aspart Protamine and Insulin Aspart Injectable SuspensionMix 70/30+ Metformin ± Pioglitazone | Insulin Glargine + Metformin ± Pioglitazone |
 | --- | --- | --- |
 | Number of patients | 117 | 116 |
 | HbA1c |  |  |

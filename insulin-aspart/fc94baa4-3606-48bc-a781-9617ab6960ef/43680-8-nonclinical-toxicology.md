@@ -2,8 +2,8 @@
 
 ## 13.1 Carcinogenesis, Mutagenesis, Impairment of Fertility
 
-Standard 2-year carcinogenicity studies in animals have not been performed to evaluate the carcinogenic potential of insulin aspart protamine and insulin aspart.
-In 52-week studies, Sprague-Dawley rats were dosed subcutaneously with NOVOLOG, the rapid-acting component of insulin aspart protamine and insulin aspart, at 10, 50, and 200 units/kg/day (approximately 2, 8, and 32 times the human subcutaneous dose of 1.0 unit/kg/day, based on units/body surface area, respectively).
+Standard 2-year carcinogenicity studies in animals have not been performed to evaluate the carcinogenic potential of Insulin Aspart Protamine and Insulin Aspart Injectable Suspension Mix 70/30.
+In 52-week studies, Sprague-Dawley rats were dosed subcutaneously with insulin aspart, the rapid-acting component of Insulin Aspart Protamine and Insulin Aspart Injectable Suspension Mix 70/30, at 10, 50, and 200 units/kg/day (approximately 2, 8, and 32 times the human subcutaneous dose of 1.0 unit/kg/day, based on units/body surface area, respectively).
 At a dose of 200 units/kg/day, insulin aspart increased the incidence of mammary gland tumors in females when compared to untreated controls.
 The relevance of these findings to humans is not known.
 

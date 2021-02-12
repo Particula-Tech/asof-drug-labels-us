@@ -1,6 +1,6 @@
 # 4 CONTRAINDICATIONS
 
-Insulin aspart protamine and insulin aspart is contraindicated
+Insulin Aspart Protamine and Insulin Aspart Injectable Suspension Mix 70/30 is contraindicated
 
 - •During episodes of hypoglycemia [see Warnings and Precautions (5.3)]
-- •In patients with hypersensitivity to insulin aspart protamine and insulin aspart or one of its excipients [see Warnings and Precautions (5.5)]
+- •In patients with hypersensitivity to Insulin Aspart Protamine and Insulin Aspart Injectable Suspension Mix 70/30 or one of its excipients [see Warnings and Precautions (5.5)]
