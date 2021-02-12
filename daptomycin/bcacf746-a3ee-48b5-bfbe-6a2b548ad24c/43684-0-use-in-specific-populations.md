@@ -56,11 +56,11 @@ In Phase 3 adult clinical trials of cSSSI and S. aureus bacteremia/endocarditis,
 In addition, treatment-emergent adverse events were more common in patients ≥65 years of age than in patients <65 years of age.
 
 The exposure of daptomycin was higher in healthy elderly subjects than in healthy young adult subjects.
-However, no adjustment of Daptomycin for Injection dosage is warranted for elderly patients with creatinine clearance (CLCR) ≥30 mL/min [see Dosage and Administration (2.4) and Clinical Pharmacology (12.3)].
+However, no adjustment of Daptomycin for Injection dosage is warranted for elderly patients with creatinine clearance (CLCR) ≥30 mL/min [see Dosage and Administration (2.3) and Clinical Pharmacology (12.3)].
 
 ## 8.6 Patients with Renal Impairment
 
 Daptomycin is eliminated primarily by the kidneys; therefore, a modification of Daptomycin for Injection dosage interval is recommended for adult patients with CLCR <30 mL/min, including patients receiving hemodialysis or continuous ambulatory peritoneal dialysis (CAPD).
-In adult patients with renal impairment, both renal function and creatine phosphokinase (CPK) should be monitored more frequently than once weekly [see Dosage and Administration (2.6), Warnings and Precautions (5.2, 5.8), and Clinical Pharmacology (12.3)].
+In adult patients with renal impairment, both renal function and creatine phosphokinase (CPK) should be monitored more frequently than once weekly [see Dosage and Administration (2.4), Warnings and Precautions (5.2, 5.8), and Clinical Pharmacology (12.3)].
 
 The dosage regimen for Daptomycin for Injection in pediatric patients with renal impairment has not been established.

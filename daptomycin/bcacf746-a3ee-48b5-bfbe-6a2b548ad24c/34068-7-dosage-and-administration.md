@@ -4,7 +4,7 @@
 
 Adults
 
-Administer the appropriate volume of the reconstituted Daptomycin for Injection (concentration of 50 mg/mL) to adult patients intravenously either by injection over a two (2) minute period or by intravenous infusion over a thirty (30) minute period [see Dosage and Administration (2.2, 2.4, 2.7)].
+Administer the appropriate volume of the reconstituted Daptomycin for Injection (concentration of 50 mg/mL) to adult patients intravenously either by injection over a two (2) minute period or by intravenous infusion over a thirty (30) minute period [see Dosage and Administration (2.2, 2.4, 2.5)].
 
 Pediatric use information is approved for Merck & Co., Inc.'s Cubicin (daptomycin for injection).
 However, due to Merck & Co., Inc.'s marketing exclusivity rights, this drug product is not labeled with that pediatric information.
@@ -16,7 +16,7 @@ Administer Daptomycin for Injection 4 mg/kg to adult patients intravenously in 0
 Pediatric use information is approved for Merck & Co., Inc.'s Cubicin (daptomycin for injection).
 However, due to Merck & Co., Inc.'s marketing exclusivity rights, this drug product is not labeled with that pediatric information.
 
-## 2.4 Dosage in Adult Patients with Staphylococcus aureus Bloodstream Infections (Bacteremia), Including Those with Right-Sided Infective Endocarditis, Caused by Methicillin-Susceptible and Methicillin-Resistant Isolates
+## 2.3 Dosage in Adult Patients with Staphylococcus aureus Bloodstream Infections (Bacteremia), Including Those with Right-Sided Infective Endocarditis, Caused by Methicillin-Susceptible and Methicillin-Resistant Isolates
 
 Administer Daptomycin for Injection 6 mg/kg to adult patients intravenously in 0.9% sodium chloride injection once every 24 hours for 2 to 6 weeks.
 There are limited safety data for the use of daptomycin for injection for more than 28 days of therapy.
@@ -25,15 +25,15 @@ In the Phase 3 trial, there were a total of 14 adult patients who were treated w
 Pediatric use information is approved for Merck & Co., Inc.'s Cubicin (daptomycin for injection).
 However, due to Merck & Co., Inc.'s marketing exclusivity rights, this drug product is not labeled with that pediatric information.
 
-## 2.6 Dosage in Patients with Renal Impairment
+## 2.4 Dosage in Patients with Renal Impairment
 
 Adult Patients:
 
 No dosage adjustment is required in adult patients with creatinine clearance (CLCR) greater than or equal to 30 mL/min.
-The recommended dosage regimen for Daptomycin for Injection in adult patients with CLCR less than 30 mL/min, including adult patients on hemodialysis or continuous ambulatory peritoneal dialysis (CAPD), is 4 mg/kg (cSSSI) or 6 mg/kg (S. aureus bloodstream infections) once every 48 hours (Table 3).
+The recommended dosage regimen for Daptomycin for Injection in adult patients with CLCR less than 30 mL/min, including adult patients on hemodialysis or continuous ambulatory peritoneal dialysis (CAPD), is 4 mg/kg (cSSSI) or 6 mg/kg (S. aureus bloodstream infections) once every 48 hours (Table 1).
 When possible, Daptomycin for Injection should be administered following the completion of hemodialysis on hemodialysis days [see Warnings and Precautions (5.2, 5.8), Use in Specific Populations (8.6), and Clinical Pharmacology (12.3)].
 
-Table 3: Recommended Dosage of Daptomycin for Injection in Adult Patients
+Table 1: Recommended Dosage of Daptomycin for Injection in Adult Patients
 
 | cSSSI | S. aureus Bloodstream Infections |  |
 | --- | --- | --- |
@@ -45,7 +45,7 @@ Pediatric Patients:
 
 The dosage regimen for Daptomycin for Injection in pediatric patients with renal impairment has not been established.
 
-## 2.7 Preparation and Administration of Daptomycin for Injection
+## 2.5 Preparation and Administration of Daptomycin for Injection
 
 There are two formulations of daptomycin that have differences concerning storage and reconstitution.
 Carefully follow the reconstitution and storage procedures in labeling.
@@ -96,11 +96,11 @@ The combined storage time (reconstituted solution in vial and diluted solution i
 Pediatric use information is approved for Merck & Co., Inc.'s Cubicin (daptomycin for injection).
 However, due to Merck & Co., Inc.'s marketing exclusivity rights, this drug product is not labeled with that pediatric information.
 
-## 2.8 Compatible Intravenous Solutions
+## 2.6 Compatible Intravenous Solutions
 
 Daptomycin for Injection is compatible with 0.9% sodium chloride injection and lactated Ringer's injection.
 
-## 2.9 Incompatibilities
+## 2.7 Incompatibilities
 
 Daptomycin for Injection is not compatible with dextrose-containing diluents.
 

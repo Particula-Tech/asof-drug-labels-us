@@ -4,12 +4,12 @@
 
 Adults with cSSSI
 
-Adult patients with clinically documented complicated skin and skin structure infections (cSSSI) (Table 17) were enrolled in two randomized, multinational, multicenter, investigator-blinded trials comparing daptomycin for injection (4 mg/kg IV q24h) with either vancomycin (1 g IV q12h) or an anti-staphylococcal semi-synthetic penicillin (i.e., nafcillin, oxacillin, cloxacillin, or flucloxacillin; 4 to 12 g IV per day).
+Adult patients with clinically documented complicated skin and skin structure infections (cSSSI) (Table 9) were enrolled in two randomized, multinational, multicenter, investigator-blinded trials comparing daptomycin for injection (4 mg/kg IV q24h) with either vancomycin (1 g IV q12h) or an anti-staphylococcal semi-synthetic penicillin (i.e., nafcillin, oxacillin, cloxacillin, or flucloxacillin; 4 to 12 g IV per day).
 Patients could switch to oral therapy after a minimum of 4 days of IV treatment if clinical improvement was demonstrated.
 Patients known to have bacteremia at baseline were excluded.
 Patients with creatinine clearance (CLCR) between 30 and 70 mL/min were to receive a lower dose of daptomycin for injection as specified in the protocol; however, the majority of patients in this subpopulation did not have the dose of daptomycin for injection adjusted.
 
-Table 17: Investigator's Primary Diagnosis in the cSSSI Trials in Adult Patients (Population: ITT)
+Table 9: Investigator's Primary Diagnosis in the cSSSI Trials in Adult Patients (Population: ITT)
 
 |  | Study 9801 N=264 / N=266 | Study 9901 N=270 / N=292 | Pooled N=534 / N=558 |
 | --- | --- | --- | --- |
@@ -30,9 +30,9 @@ Clinical success rates in the CE population were 76.0% (158/208) in patients tre
 In study 9901, clinical success rates in the ITT population were 80.4% (217/270) in patients treated with daptomycin for injection and 80.5% (235/292) in patients treated with comparator drugs.
 Clinical success rates in the CE population were 89.9% (214/238) in patients treated with daptomycin for injection and 90.4% (226/250) in patients treated with comparator drugs.
 
-The success rates by pathogen for microbiologically evaluable patients are presented in Table 18.
+The success rates by pathogen for microbiologically evaluable patients are presented in Table 10.
 
-Table 18: Clinical Success Rates by Infecting Pathogen in the cSSSI Trials in Adult Patients (Population: Microbiologically Evaluable)
+Table 10: Clinical Success Rates by Infecting Pathogen in the cSSSI Trials in Adult Patients (Population: Microbiologically Evaluable)
 
 | Daptomycin for injection | ComparatorComparator: vancomycin (1 g IV q12h) or an anti-staphylococcal semi-synthetic penicillin (i.e., nafcillin, oxacillin, cloxacillin, or flucloxacillin; 4 to 12 g/day IV in divided doses). |  |
 | --- | --- | --- |
@@ -86,9 +86,9 @@ The coprimary efficacy endpoints in the trial were the Adjudication Committee su
 The overall Adjudication Committee success rates in the ITT population were 44.2% (53/120) in patients treated with daptomycin for injection and 41.7% (48/115) in patients treated with comparator (difference = 2.4% [95% CI −10.2, 15.1]).
 The success rates in the PP population were 54.4% (43/79) in patients treated with daptomycin for injection and 53.3% (32/60) in patients treated with comparator (difference = 1.1% [95% CI −15.6, 17.8]).
 
-Adjudication Committee success rates are shown in Table 19.
+Adjudication Committee success rates are shown in Table 11.
 
-Table 19: Adjudication Committee Success Rates at Test of Cure in the S. aureus Bacteremia/Endocarditis Trial in Adult Patients (Population: ITT)
+Table 11: Adjudication Committee Success Rates at Test of Cure in the S. aureus Bacteremia/Endocarditis Trial in Adult Patients (Population: ITT)
 
 | Population | Daptomycin for injection 6 mg/kg | ComparatorComparator: vancomycin (1 g IV q12h) or an anti-staphylococcal semi-synthetic penicillin (i.e., nafcillin, oxacillin, cloxacillin, or flucloxacillin; 2 g IV q4h), each with initial low-dose gentamicin. |  |
 | --- | --- | --- | --- |

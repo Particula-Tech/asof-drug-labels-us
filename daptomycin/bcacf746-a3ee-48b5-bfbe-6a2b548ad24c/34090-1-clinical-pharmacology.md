@@ -13,9 +13,9 @@ The principal pharmacokinetic/pharmacodynamic parameter best associated with cli
 
 Daptomycin for injection Administered over a 30-Minute Period in Adults
 
-The mean and standard deviation (SD) pharmacokinetic parameters of daptomycin at steady-state following intravenous (IV) administration of daptomycin for injection over a 30-minute period at 4 to 12 mg/kg q24h to healthy young adults are summarized in Table 11.
+The mean and standard deviation (SD) pharmacokinetic parameters of daptomycin at steady-state following intravenous (IV) administration of daptomycin for injection over a 30-minute period at 4 to 12 mg/kg q24h to healthy young adults are summarized in Table 7.
 
-Table 11: Mean (SD) Daptomycin Pharmacokinetic Parameters in Healthy Adult Volunteers at Steady-State
+Table 7: Mean (SD) Daptomycin Pharmacokinetic Parameters in Healthy Adult Volunteers at Steady-State
 
 | AUC0-24 (mcg∙h/mL) | t1/2 (h) | Vss (L/kg) | CLT (mL/h/kg) | Cmax (mcg/mL) |  |  |
 | --- | --- | --- | --- | --- | --- | --- |
@@ -67,7 +67,7 @@ Specific Populations
 
 Renal Impairment
 
-Population-derived pharmacokinetic parameters were determined for infected adult patients (complicated skin and skin structure infections [cSSSI] and S. aureus bacteremia) and noninfected adult subjects with various degrees of renal function (Table 12).
+Population-derived pharmacokinetic parameters were determined for infected adult patients (complicated skin and skin structure infections [cSSSI] and S. aureus bacteremia) and noninfected adult subjects with various degrees of renal function (Table 8).
 Total plasma clearance (CLT), elimination half-life (t1/2), and volume of distribution at steady-state (Vss) in patients with cSSSI were similar to those in patients with S. aureus bacteremia.
 Following administration of daptomycin for injection 4 mg/kg q24h by IV infusion over a 30-minute period, the mean CLT was 9%, 22%, and 46% lower among subjects and patients with mild (CLCR 50–80 mL/min), moderate (CLCR 30–<50 mL/min), and severe (CLCR <30 mL/min) renal impairment, respectively, than in those with normal renal function (CLCR >80 mL/min).
 The mean steady-state systemic exposure (AUC), t1/2, and Vss increased with decreasing renal function, although the mean AUC for patients with CLCR 30–80 mL/min was not markedly different from the mean AUC for patients with normal renal function.
@@ -75,7 +75,7 @@ The mean AUC for patients with CLCR <30 mL/min and for patients on dialysis (CAP
 The mean Cmax ranged from 60 to 70 mcg/mL in patients with CLCR ≥30 mL/min, while the mean Cmax for patients with CLCR <30 mL/min ranged from 41 to 58 mcg/mL.
 After administration of daptomycin for injection 6 mg/kg q24h by IV infusion over a 30-minute period, the mean Cmax ranged from 80 to 114 mcg/mL in patients with mild to moderate renal impairment and was similar to that of patients with normal renal function.
 
-Table 12: Mean (SD) Daptomycin Population Pharmacokinetic Parameters Following Infusion of daptomycin for injection 4 mg/kg or 6 mg/kg to Infected Adult Patients and Noninfected Adult Subjects with Various Degrees of Renal Function
+Table 8: Mean (SD) Daptomycin Population Pharmacokinetic Parameters Following Infusion of daptomycin for injection 4 mg/kg or 6 mg/kg to Infected Adult Patients and Noninfected Adult Subjects with Various Degrees of Renal Function
 
 | t1/2Parameters obtained following a single dose from patients with complicated skin and skin structure infections and healthy subjects. (h) 4 mg/kg | Vss (L/kg) 4 mg/kg | CLT (mL/h/kg) 4 mg/kg | AUC0-∞ (mcg∙h/mL) 4 mg/kg | AUCssParameters obtained at steady-state from patients with S. aureus bacteremia. (mcg∙h/mL) 6 mg/kg | Cmin,ss (mcg/mL) 6 mg/kg |  |
 | --- | --- | --- | --- | --- | --- | --- |

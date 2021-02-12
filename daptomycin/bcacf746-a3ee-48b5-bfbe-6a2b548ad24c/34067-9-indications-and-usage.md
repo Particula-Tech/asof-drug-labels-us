@@ -14,7 +14,7 @@ Daptomycin for Injection is indicated for the treatment of adult patients with S
 Pediatric use information is approved for Merck & Co., Inc.'s Cubicin (daptomycin for injection).
 However, due to Merck & Co., Inc.'s marketing exclusivity rights, this drug product is not labeled with that pediatric information.
 
-## 1.4 Limitations of Use
+## 1.3 Limitations of Use
 
 Daptomycin for Injection is not indicated for the treatment of pneumonia.
 
@@ -24,7 +24,7 @@ Daptomycin for injection has not been studied in patients with prosthetic valve 
 
 Daptomycin for Injection is not recommended in pediatric patients younger than 1 year of age due to the risk of potential effects on muscular, neuromuscular, and/or nervous systems (either peripheral and/or central) observed in neonatal dogs [see Warnings and Precautions (5.5) and Nonclinical Toxicology (13.2)].
 
-## 1.5 Usage
+## 1.4 Usage
 
 Appropriate specimens for microbiological examination should be obtained in order to isolate and identify the causative pathogens and to determine their susceptibility to daptomycin.
 
