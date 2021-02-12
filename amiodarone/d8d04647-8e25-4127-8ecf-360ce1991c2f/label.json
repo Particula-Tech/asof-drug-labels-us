@@ -5,6 +5,8 @@
   "inn": "amiodarone",
   "labeler": "Fresenius Kabi USA, LLC",
   "package_ndcs": [
+    "63323-616-01",
+    "63323-616-02",
     "63323-616-03",
     "63323-616-09"
   ],

@@ -1,15 +1,13 @@
-# DESCRIPTION
+# 11 DESCRIPTION
 
-Amiodarone Hydrochloride Injection, for intravenous use, contains amiodarone HCl, a class III antiarrhythmic drug.
-Amiodarone HCl is (2-butyl-3-benzofuranyl)[4-[2-(diethylamino)ethoxy]-3,5-diiodophenyl] methanone hydrochloride.
+Amiodarone Hydrochloride Injection, USP contains amiodarone HCl (C25H29I2NO3•HCl), a class III antiarrhythmic drug.
+Amiodarone HCl is (2-butyl-3-benzo-furanyl)[4-[2- (diethylamino)ethoxy]-3,5-diiodophenyl]methanone hydrochloride.
+
 Amiodarone HCl has the following structural formula:
 
-C 25H 29I 2NO 3•HCl M.W.
-681.78
+Amiodarone Hydrochloride Injection, USP is a white to slightly yellow crystalline powder, and is very slightly soluble in water.
+It has a molecular weight of 681.78 and contains 37.3% iodine by weight.
+Amiodarone Hydrochloride Injection, USP is a sterile clear, pale-yellow micellar solution visually free from particulates.
+Each milliliter of the amiodarone formulation contains 50 mg of amiodarone HCl, 20.2 mg of benzyl alcohol, 100 mg of polysorbate 80, and water for injection.
 
-Amiodarone HCl is a white to slightly yellow crystalline powder, and is very slightly soluble in water.
-It contains 37.3% iodine by weight.
-Amiodarone HCl Injection is a sterile clear, pale-yellow micellular solution visually free from particulates.
-Each mL of the Amiodarone HCl Injection formulation contains 50 mg of amiodarone HCl, 20.2 mg of benzyl alcohol, 100 mg of polysorbate 80, and water for injection.
-
-Amiodarone HCl injection contains polysorbate 80, which is known to leach di-(2-ethylhexyl)phthalate (DEHP) from polyvinylchloride (PVC) (see DOSAGE AND ADMINISTRATION).
+Amiodarone Hydrochloride Injection, USP contains polysorbate 80, which is known to leach di-(2- ethylhexyl)phthalate (DEHP) from polyvinylchloride (PVC) [(see Dosage and Administration (2)].

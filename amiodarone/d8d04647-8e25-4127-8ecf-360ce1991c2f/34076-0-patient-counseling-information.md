@@ -1,0 +1,9 @@
+# 17 PATIENT COUNSELING INFORMATION
+
+Amiodarone has the potential to cause serious side effects that limit its use to life-threatening and hemodynamically unstable cardiac arrhythmias.
+Advise female patients to discontinue nursing while being treated with amiodarone, as breast-feeding could expose the nursing infant to a significant dose of the drug.
+Recommend that patients avoid grapefruit juice, over-the-counter cough medicines (which commonly contain dextromethorphan), and St. John's Wort.
+Inform patients that most manufacturers of corneal refractive laser surgery devices contraindicate corneal refractive laser surgery in patients taking amiodarone.
+Discuss the symptoms of hypo- and hyper-thyroidism, particularly if patients will be transitioned to oral amiodarone.
+
+Lake Zurich, IL 60047 www.fresenius-kabi.com/us 45887J Revised: May 2020
