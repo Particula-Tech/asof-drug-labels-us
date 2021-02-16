@@ -18,7 +18,7 @@ See also age-specific recommendations [see Dosage and Administration (2.3)].
 
 Administer Vancomycin Injection prior to intravenous anesthetic agents to reduce the risk of infusion related adverse reactions [see Warnings and Precautions (5.2)].
 
-Administer Vancomycin Injection by a secure intravenous route of administration to avoid local irritation and phlebitis reactions [see Warnings and Precautions (5.8)].
+Administer Vancomycin Injection by a secure intravenous route of administration to avoid local irritation and phlebitis reactions [see Warnings and Precautions (5.9)].
 
 ## 2.2 Dosage in Adult Patients with Normal Renal Function
 

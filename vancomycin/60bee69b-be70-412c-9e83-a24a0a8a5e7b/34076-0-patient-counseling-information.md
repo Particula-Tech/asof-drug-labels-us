@@ -17,6 +17,11 @@ Hearing Loss or Balance Problems
 
 Advise patients that Vancomycin Injection may result in decreased hearing and to report hearing loss or balance problems to their health care provider.
 
+Severe Dermatologic Reactions
+
+Advise patients about the signs and symptoms of serious skin manifestations.
+Instruct patients to stop Vancomycin Injection immediately and promptly report the first signs or symptoms of skin rash, mucosal lesions or blisters, [see Warnings and Precautions (5.5)].
+
 Antibacterial Resistance
 
 Patients should be counseled that antibacterial drugs including vancomycin, should only be used to treat bacterial infections.
