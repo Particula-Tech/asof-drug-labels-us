@@ -1,0 +1,22 @@
+{
+  "application_numbers": [
+    "ANDA211574"
+  ],
+  "inn": "treprostinil",
+  "labeler": "Alembic Pharmaceuticals Inc.",
+  "package_ndcs": [
+    "62332-514-20",
+    "62332-515-20",
+    "62332-516-20",
+    "62332-517-20"
+  ],
+  "products": [
+    {
+      "form": "INJECTION, SOLUTION",
+      "generic": "treprostinil",
+      "name": "Treprostinil"
+    }
+  ],
+  "setid": "4a684b13-669d-4721-8ed4-30cc7762b0b8",
+  "source": "dailymed"
+}
