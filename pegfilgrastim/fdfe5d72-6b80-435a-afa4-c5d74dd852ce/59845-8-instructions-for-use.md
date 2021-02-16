@@ -115,9 +115,9 @@ Neulasta® (pegfilgrastim)
 
 Manufactured by: Amgen Inc. One Amgen Center Drive Thousand Oaks, California 91320-1799 US License No. 1080
 
-Patent: http://pat.amgen.com/onpro/ © 2002 to 2020 Amgen Inc. All rights reserved.
+Patent: http://pat.amgen.com/onpro/ © 2002 to 2021 Amgen Inc. All rights reserved.
 
-http://www.neulasta.com/ 1-844-MYNEULASTA (1-844-696-3852) Issued: 11/2020 V10
+http://www.neulasta.com/ 1-844-MYNEULASTA (1-844-696-3852) Issued: 02/2021 V11
 
 Before You Begin
 
@@ -141,7 +141,7 @@ Before You Begin
 |  | Sterilized by ethylene oxide |
 |  | Waterproof up to 8 feet for 1 hour |
 |  | Prescription use only |
-|  | Not MRI-safe |
+|  | MR Unsafe |
 |  | On-body injector for Neulasta® (pegfilgrastim) |
 |  | Neulasta® (pegfilgrastim) prefilled syringe |
 |  | Pressure Limitation |
