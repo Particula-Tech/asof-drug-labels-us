@@ -94,4 +94,4 @@ Pediatric Use of fluoxetine and olanzapine in combination – Safety and efficac
 
 Symbyax® and Sarafem® are registered trademarks of Eli Lilly.
 
-Distributed by: Aurobindo Pharma USA, Inc. 279 Princeton-Hightstown Road East Windsor, NJ 08520 Manufactured by: Aurobindo Pharma Limited Hyderabad–500 038, India Revised: 10/2020 Dispense with Medication Guide available at: www.aurobindousa.com/medication-guides
+Distributed by: Aurobindo Pharma USA, Inc. 279 Princeton-Hightstown Road East Windsor, NJ 08520 Manufactured by: Aurobindo Pharma Limited Hyderabad–500 038, India Revised: 12/2020 Dispense with Medication Guide available at: www.aurobindousa.com/medication-guides

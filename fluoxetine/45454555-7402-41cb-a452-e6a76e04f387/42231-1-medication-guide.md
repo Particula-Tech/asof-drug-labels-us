@@ -284,4 +284,4 @@ Dispense with Medication Guide available at: www.aurobindousa.com/medication-gui
 
 Manufactured by: Aurobindo Pharma Limited Hyderabad-500 038, India
 
-Revised: 10/2020
+Revised: 12/2020
