@@ -20,6 +20,6 @@ Drug interactions with other HIV protease inhibitors have not been evaluated.
 Hepatitis C Virus Protease Inhibitors: No dose adjustments are recommended when PROMACTA is coadministered with boceprevir or telaprevir.
 Drug interactions with other hepatitis C virus (HCV) protease inhibitors have not been evaluated.
 
-## 7.4 Peginterferon alfa-2a/b Therapy
+## 7.4 Peginterferon Alfa-2a/b Therapy
 
 No dose adjustments are recommended when PROMACTA is coadministered with peginterferon alfa-2a (PEGASYS®) or -2b (PEGINTRON®).

@@ -10,7 +10,7 @@ Discontinue PROMACTA if antiviral therapy is discontinued.
 ## 5.2 Hepatotoxicity
 
 PROMACTA may increase the risk of severe and potentially life-threatening hepatotoxicity [see Adverse Reactions (6.1)].
-One patient (< 1%) with chronic ITP treated with PROMACTA in clinical trials experienced drug-induced liver injury.
+One patient (< 1%) with ITP treated with PROMACTA in clinical trials experienced drug-induced liver injury.
 Eleven patients (1%) with chronic hepatitis C treated with PROMACTA in clinical trials experienced drug-induced liver injury.
 
 Treatment of ITP, Chronic Hepatitis C-associated Thrombocytopenia, and Refractory Severe Aplastic Anemia
@@ -64,7 +64,7 @@ The risk of portal venous thrombosis was increased in thrombocytopenic patients 
 
 ## 5.5 Cataracts
 
-In the three controlled clinical trials in adults with chronic ITP, cataracts developed or worsened in 15 (7%) patients who received 50 mg of PROMACTA daily and 8 (7%) placebo-group patients.
+In the three controlled clinical trials in adults with persistent or chronic ITP, cataracts developed or worsened in 15 (7%) patients who received 50 mg of PROMACTA daily and 8 (7%) placebo-group patients.
 In the extension trial, cataracts developed or worsened in 11% of patients who underwent ocular examination prior to therapy with PROMACTA.
 In the two controlled clinical trials in patients with chronic hepatitis C and thrombocytopenia, cataracts developed or worsened in 8% of patients treated with PROMACTA and 5% of patients treated with placebo.
 

@@ -1,8 +1,8 @@
 # 1 INDICATIONS AND USAGE
 
-## 1.1 Treatment of Thrombocytopenia in Patients With Chronic Immune Thrombocytopenia
+## 1.1 Treatment of Thrombocytopenia in Patients With Persistent or Chronic Immune Thrombocytopenia
 
-PROMACTA is indicated for the treatment of thrombocytopenia in adult and pediatric patients 1 year and older with chronic immune thrombocytopenia (ITP) who have had an insufficient response to corticosteroids, immunoglobulins, or splenectomy.
+PROMACTA is indicated for the treatment of thrombocytopenia in adult and pediatric patients 1 year and older with persistent or chronic immune thrombocytopenia (ITP) who have had an insufficient response to corticosteroids, immunoglobulins, or splenectomy.
 PROMACTA should be used only in patients with ITP whose degree of thrombocytopenia and clinical condition increase the risk for bleeding.
 
 ## 1.2 Treatment of Thrombocytopenia in Patients With Hepatitis C Infection

@@ -1,6 +1,6 @@
 # 2 DOSAGE AND ADMINISTRATION
 
-## 2.1 Chronic Immune Thrombocytopenia
+## 2.1 Persistent or Chronic Immune Thrombocytopenia
 
 Use the lowest dose of PROMACTA to achieve and maintain a platelet count greater than or equal to 50 x 109/L as necessary to reduce the risk for bleeding.
 Dose adjustments are based upon the platelet count response.
@@ -26,7 +26,7 @@ Obtain CBCs with differentials, including platelet counts, monthly thereafter.
 When switching between the oral suspension and tablet, assess platelet counts weekly for 2 weeks, and then follow standard monthly monitoring.
 
 Table 1.
-Dose Adjustments of PROMACTA in Patients With Chronic Immune Thrombocytopenia
+Dose Adjustments of PROMACTA in Patients With Persistent or Chronic Immune Thrombocytopenia
 
 | Platelet Count Result | Dose Adjustment or Response |
 | --- | --- |
@@ -96,13 +96,13 @@ Recommended Initial PROMACTA Dose Regimen in the First-Line Treatment of Severe 
 
 | Age | Dose Regimen |
 | --- | --- |
-| Patients 12 Years and Older | 150 mg once daily for 6 months |
-| Pediatric Patients 6 to 11 Years | 75 mg once daily for 6 months |
-| Pediatric Patients 2 to 5 Years | 2.5 mg/kg once daily for 6 months |
+| Patients 12 years and older | 150 mg once daily for 6 months |
+| Pediatric patients 6 to 11 years | 75 mg once daily for 6 months |
+| Pediatric patients 2 to 5 years | 2.5 mg/kg once daily for 6 months |
 
 For patients with severe aplastic anemia of Asian ancestry (such as Chinese, Japanese, Taiwanese, Korean, or Thai) or those with mild, moderate, or severe hepatic impairment (Child-Pugh Class A, B, C), decrease the initial PROMACTA dose by 50% as listed in Table 4 [see Use in Specific Populations (8.6, 8.7), Clinical Pharmacology (12.3)].
 
-If baseline alanine aminotranferase (ALT) or aspartate aminotransferase (AST) levels are > 6 x upper limit of normal (ULN), do not initiate PROMACTA until transaminase levels are < 5 x ULN.
+If baseline alanine aminotransferase (ALT) or aspartate aminotransferase (AST) levels are > 6 x upper limit of normal (ULN), do not initiate PROMACTA until transaminase levels are < 5 x ULN.
 Determine the initial dose for these patients based on Table 3 or Table 4.
 
 Table 4.
@@ -110,9 +110,9 @@ Recommended Initial PROMACTA Dose Regimen for Patients of Asian Ancestry or Thos
 
 | Age | Dose Regimen |
 | --- | --- |
-| Patients 12 Years and Older | 75 mg once daily for 6 months |
-| Pediatric Patients 6 to 11 Years | 37.5 mg once daily for 6 months |
-| Pediatric Patients 2 to 5 Years | 1.25 mg/kg once daily for 6 months |
+| Patients 12 years and older | 75 mg once daily for 6 months |
+| Pediatric patients 6 to 11 years | 37.5 mg once daily for 6 months |
+| Pediatric patients 2 to 5 years | 1.25 mg/kg once daily for 6 months |
 
 Monitoring and Dose Adjustment for PROMACTA: Perform clinical hematology and liver tests regularly throughout therapy with PROMACTA [see Warnings and Precautions (5.2)].
 
@@ -135,6 +135,7 @@ Recommended Dose Modifications for PROMACTA for ALT or AST Elevations and Thromb
 | --- | --- |
 | ALT or AST Elevations | Increase in ALT or AST > 6 x ULN Discontinue PROMACTA. Once ALT or AST is < 5 x ULN, reinitiate PROMACTA at the same dose. Increase in ALT or AST > 6 x ULN after reinitiating PROMACTA Discontinue PROMACTA and monitor ALT or AST at least every 3 to 4 days. Once ALT or AST is < 5 x ULN, reinitiate PROMACTA at a daily dose reduced by 25 mg compared to the previous dose. If ALT or AST returns to > 6 x ULN on the reduced dose Reduce the daily dose of PROMACTA by 25 mg until ALT or AST is < 5 x ULN. In pediatric patients under 12 years of age, reduce the daily dose by at least 15% to the nearest dose that can be administered. |
 | Thromboembolic events (e.g., deep vein thrombosis, pulmonary embolus, stroke, myocardial infarction) | Discontinue PROMACTA but remain on horse antithymocyte globulin (h-ATG) and cyclosporine. |
+| Abbreviations: ALT, alanine aminotransferase; AST, aspartate aminotransferase; ULN, upper limit of normal. |  |
 
 The total duration of PROMACTA treatment is 6 months.
 

@@ -41,7 +41,7 @@ Lactation
 
 Administration of PROMACTA
 
-- For patients with chronic ITP, therapy with PROMACTA is administered to achieve and maintain a platelet count greater than or equal to 50 x 109/L as necessary to reduce the risk for bleeding [see Indications and Usage (1.1)].
+- For patients with persistent or chronic ITP, therapy with PROMACTA is administered to achieve and maintain a platelet count greater than or equal to 50 x 109/L as necessary to reduce the risk for bleeding [see Indications and Usage (1.1)].
 - For patients with chronic hepatitis C, therapy with PROMACTA is administered to achieve and maintain a platelet count necessary to initiate and maintain antiviral therapy with pegylated interferon and ribavirin [see Indications and Usage (1.2)].
   - Advise patients to take PROMACTA without a meal or with a meal low in calcium (≤ 50 mg) and at least 2 hours before or 4 hours after other medications (e.g., antacids) and calcium-rich foods [see Dosage and Administration (2.4)].
 - Prior to use of the oral suspension, ensure patients or caregivers receive training on proper dosing, preparation, and administration [see Dosage and Administration (2.4)].
@@ -54,4 +54,4 @@ Distributed by: Novartis Pharmaceuticals Corporation East Hanover, New Jersey 07
 
 © Novartis
 
-T2020-59
+T2021-06

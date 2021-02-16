@@ -6,7 +6,7 @@ Risk Summary
 
 Available data from a small number of published case reports and postmarketing experience with PROMACTA use in pregnant women are insufficient to assess any drug-associated risks for major birth defects, miscarriage, or adverse maternal or fetal outcomes.
 In animal reproduction and developmental toxicity studies, oral administration of eltrombopag to pregnant rats during organogenesis resulted in embryolethality and reduced fetal weights at maternally toxic doses.
-These effects were observed at doses resulting in exposures that were six times the human clinical exposure based on area under the curve (AUC) in patients with chronic ITP at 75 mg/day, and three times the AUC in patients with chronic hepatitis C at 100 mg/day (see Data).
+These effects were observed at doses resulting in exposures that were six times the human clinical exposure based on area under the curve (AUC) in patients with persistent or chronic ITP at 75 mg/day, and three times the AUC in patients with chronic hepatitis C at 100 mg/day (see Data).
 
 The estimated background risk of major birth defects and miscarriage for the indicated population is unknown.
 All pregnancies have a background risk of birth defect, loss, or other adverse outcomes.
@@ -48,11 +48,11 @@ Sexually-active females of reproductive potential should use effective contracep
 
 ## 8.4 Pediatric Use
 
-The safety and efficacy of PROMACTA have been established in pediatric patients 1 year and older with chronic ITP and in pediatric patients 2 years and older with IST-naïve severe aplastic anemia (in combination with h-ATG and cyclosporine).
+The safety and efficacy of PROMACTA have been established in pediatric patients 1 year and older with persistent or chronic ITP and in pediatric patients 2 years and older with IST-naïve severe aplastic anemia (in combination with h-ATG and cyclosporine).
 Safety and efficacy in pediatric patients below the age of 1 year with ITP have not been established.
 Safety and efficacy in pediatric patients with thrombocytopenia associated with chronic hepatitis C and refractory severe aplastic anemia have not been established.
 
-The safety and efficacy of PROMACTA in pediatric patients 1 year and older with chronic ITP were evaluated in two double-blind, placebo-controlled trials [see Adverse Reactions (6.1), Clinical Studies (14.1)].
+The safety and efficacy of PROMACTA in pediatric patients 1 year and older with persistent or chronic ITP were evaluated in two double-blind, placebo-controlled trials [see Adverse Reactions (6.1), Clinical Studies (14.1)].
 The pharmacokinetics of eltrombopag have been evaluated in 168 pediatric patients 1 year and older with ITP dosed once daily [see Clinical Pharmacology (12.3)].
 See Dosage and Administration (2.1) for dosing recommendations for pediatric patients 1 year and older.
 
@@ -65,16 +65,16 @@ Among the 12 patients who were 2 to 11 years of age in the PROMACTA D1-M6 cohort
 
 ## 8.5 Geriatric Use
 
-Of the 106 patients in two randomized clinical trials of PROMACTA 50 mg in chronic ITP, 22% were 65 years of age and over, while 9% were 75 years of age and over.
+Of the 106 patients in two randomized clinical trials of PROMACTA 50 mg in persistent or chronic ITP, 22% were 65 years of age and over, while 9% were 75 years of age and over.
 Of the 1439 patients in two randomized clinical trials of PROMACTA in patients with chronic hepatitis C and thrombocytopenia, 7% were 65 years of age and over, while < 1% were 75 years of age and over.
 Of the 196 patients who received PROMACTA for the treatment of severe aplastic anemia, 18% were 65 years of age and over, while 3% were 75 years of age and over.
 No overall differences in safety or effectiveness were observed between these patients and younger patients.
 
 ## 8.6 Hepatic Impairment
 
-Patients With Chronic ITP and Severe Aplastic Anemia
+Patients With Persistent or Chronic ITP and Severe Aplastic Anemia
 
-Reduce the initial dose of PROMACTA in patients with chronic ITP (adult and pediatric patients 6 years and older only) or refractory severe aplastic anemia who also have hepatic impairment (Child-Pugh Class A, B, C) [see Dosage and Administration (2.1, 2.3), Warnings and Precautions (5.2), Clinical Pharmacology (12.3)].
+Reduce the initial dose of PROMACTA in patients with persistent or chronic ITP (adult and pediatric patients 6 years and older only) or refractory severe aplastic anemia who also have hepatic impairment (Child-Pugh Class A, B, C) [see Dosage and Administration (2.1, 2.3), Warnings and Precautions (5.2), Clinical Pharmacology (12.3)].
 
 In a clinical trial in patients with severe aplastic anemia who had not received prior definitive immunosuppressive therapy, patients with baseline ALT or AST > 5 x ULN were ineligible to participate.
 If a patient with hepatic impairment (Child-Pugh Class A, B, C) initiates therapy with PROMACTA for the first-line treatment of severe aplastic anemia, reduce the initial dose [see Dosage and Administration (2.3), Warnings and Precautions (5.2), Clinical Pharmacology (12.3)].

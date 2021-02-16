@@ -16,7 +16,7 @@ At doses up to 150 mg (the maximum recommended dose) daily for 5 days, PROMACTA 
 ## 12.3 Pharmacokinetics
 
 Eltrombopag demonstrated a dose-proportional increase in exposure between doses of 50 to 150 mg/day in healthy adult subjects.
-Eltrombopag AUC was approximately 1.7-fold higher in patients with chronic ITP and approximately 2.8-fold higher in patients with HCV compared to healthy subjects.
+Eltrombopag AUC was approximately 1.7-fold higher in patients with persistent or chronic ITP and approximately 2.8-fold higher in patients with HCV compared to healthy subjects.
 Steady-state was achieved after approximately 1 week of once daily treatment, with geometric mean accumulation ratio of 1.56 (90% confidence interval 1.20, 1.63) at 75 mg/day.
 Eltrombopag AUC was approximately 3.2 fold higher in patients with definitive immunosuppressive therapy-naïve severe aplastic anemia compared to healthy subjects suggesting higher relative exposure compared to healthy subjects or patients with ITP and similar exposure compared to patients with chronic hepatitis C. Eltrombopag for oral suspension delivered 22% higher plasma AUC0-INF than the tablet formulation.
 

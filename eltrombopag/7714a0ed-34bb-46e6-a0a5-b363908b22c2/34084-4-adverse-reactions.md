@@ -12,15 +12,15 @@ The following clinically significant adverse reactions associated with PROMACTA 
 
 Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared with rates in the clinical trials of another drug and may not reflect the rates observed in practice.
 
-Chronic Immune Thrombocytopenia: Adults: In clinical trials, hemorrhage was the most common serious adverse reaction and most hemorrhagic reactions followed discontinuation of PROMACTA.
+Persistent or Chronic Immune Thrombocytopenia: Adults: In clinical trials, hemorrhage was the most common serious adverse reaction and most hemorrhagic reactions followed discontinuation of PROMACTA.
 Other serious adverse reactions included thrombotic/thromboembolic complications [see Warnings and Precautions (5.4)].
-The data described below reflect exposure of PROMACTA to patients with chronic ITP aged 18 to 85 years, of whom 66% were female, in three placebo-controlled trials and one open-label extension trial [see Clinical Studies (14.1)].
+The data described below reflect exposure of PROMACTA to patients with persistent or chronic ITP aged 18 to 85 years, of whom 66% were female, in three placebo-controlled trials and one open-label extension trial [see Clinical Studies (14.1)].
 PROMACTA was administered to 330 patients for at least 6 months and 218 patients for at least 1 year.
 
 Table 8 presents the most common adverse drug reactions (experienced by greater than or equal to 3% of patients receiving PROMACTA) from the three placebo-controlled trials, with a higher incidence in PROMACTA versus placebo.
 
 Table 8.
-Adverse Reactions (≥ 3%) From Three Placebo-controlled Trials in Adults With Chronic Immune Thrombocytopenia
+Adverse Reactions (≥ 3%) From Three Placebo-controlled Trials in Adults With Persistent or Chronic Immune Thrombocytopenia
 
 | Adverse Reaction | PROMACTA 50 mg n = 241(%) | Placebon = 128(%) |
 | --- | --- | --- |
@@ -38,15 +38,15 @@ Adverse Reactions (≥ 3%) From Three Placebo-controlled Trials in Adults With C
 | Influenza | 3 | 2 |
 | Paresthesia | 3 | 2 |
 | Rash | 3 | 2 |
-| a Includes PTs of Urinary tract infection, Cystitis, Urinary tract infection bacterial, and Bacteriuria. |  |  |
+| Abbreviations: ALT, alanine aminotransferase; AST, aspartate aminotransferase. a Includes PTs of Urinary tract infection, Cystitis, Urinary tract infection bacterial, and Bacteriuria. |  |  |
 
-In the three controlled clinical chronic ITP trials, alopecia, musculoskeletal pain, blood alkaline phosphatase increased, and dry mouth were the adverse reactions reported in 2% of patients treated with PROMACTA and in no patients who received placebo.
+In the three controlled clinical persistent or chronic ITP trials, alopecia, musculoskeletal pain, blood alkaline phosphatase increased, and dry mouth were the adverse reactions reported in 2% of patients treated with PROMACTA and in no patients who received placebo.
 
-Among 302 patients with chronic ITP who received PROMACTA in the single-arm extension trial, the adverse reactions occurred in a pattern similar to that seen in the placebo-controlled trials.
+Among 302 patients with persistent or chronic ITP who received PROMACTA in the single-arm extension trial, the adverse reactions occurred in a pattern similar to that seen in the placebo-controlled trials.
 Table 9 presents the most common treatment-related adverse reactions (experienced by greater than or equal to 3% of patients receiving PROMACTA) from the extension trial.
 
 Table 9.
-Treatment-related Adverse Reactions (≥ 3%) From Extension Trial in Adults With Chronic Immune Thrombocytopenia
+Treatment-related Adverse Reactions (≥ 3%) From Extension Trial in Adults With Persistent or Chronic Immune Thrombocytopenia
 
 | Adverse Reaction | PROMACTA 50 mg n = 302(%) |
 | --- | --- |
@@ -59,29 +59,30 @@ Treatment-related Adverse Reactions (≥ 3%) From Extension Trial in Adults With
 | Nausea | 4 |
 | Hyperbilirubinemia | 3 |
 | Diarrhea | 3 |
+| Abbreviations: ALT, alanine aminotransferase; AST, aspartate aminotransferase. |  |
 
-In the three controlled chronic ITP trials, serum liver test abnormalities (predominantly Grade 2 or less in severity) were reported in 11% and 7% of patients for PROMACTA and placebo, respectively.
+In the three controlled persistent or chronic ITP trials, serum liver test abnormalities (predominantly Grade 2 or less in severity) were reported in 11% and 7% of patients for PROMACTA and placebo, respectively.
 Four patients (1%) treated with PROMACTA and three patients in the placebo group (2%) discontinued treatment due to hepatobiliary laboratory abnormalities.
 Seventeen of the patients treated with PROMACTA in the controlled trials with hepatobiliary laboratory abnormalities were re-exposed to PROMACTA in the extension trial.
 Eight of these patients again experienced liver test abnormalities (less than or equal to Grade 3) resulting in discontinuation of PROMACTA in one patient.
-In the extension chronic ITP trial, six additional patients had PROMACTA discontinued due to liver test abnormalities (less than or equal to Grade 3).
+In the extension persistent or chronic ITP trial, six additional patients had PROMACTA discontinued due to liver test abnormalities (less than or equal to Grade 3).
 
-In the three controlled chronic ITP trials, cataracts developed or worsened in 7% of patients treated with PROMACTA and 7% of patients in the placebo group.
+In the three controlled persistent or chronic ITP trials, cataracts developed or worsened in 7% of patients treated with PROMACTA and 7% of patients in the placebo group.
 All patients had documented, preexisting risk factors for cataractogenesis, including corticosteroid use.
 In the extension trial, cataracts developed or worsened in 11% of patients who underwent ocular examination prior to therapy with PROMACTA.
 Seventy-two percent of patients had preexisting risk factors, including corticosteroid use.
 
-The safety of PROMACTA was also assessed in all patients treated in 7 adult chronic ITP clinical trials (N = 763 PROMACTA-treated patients and 179 placebo-treated patients).
+The safety of PROMACTA was also assessed in all patients treated in 7 adult persistent or chronic ITP clinical trials (N = 763 PROMACTA-treated patients and 179 placebo-treated patients).
 Thromboembolic events were reported in 6% of PROMACTA-treated patients versus 0% of placebo-treated patients and thrombotic microangiopathy with acute renal failure was reported in < 1% of PROMACTA-treated patients versus 0% of placebo-treated patients.
 
 In a placebo-controlled trial of PROMACTA in patients with chronic liver disease and thrombocytopenia not related to ITP, six patients treated with PROMACTA and one patient in the placebo group developed portal vein thromboses [see Warnings and Precautions (5.4)].
 
-Pediatric Patients: The data described below reflect median exposure to PROMACTA of 91 days for 107 pediatric patients (aged 1 to 17 years) with chronic ITP, of whom 53% were female, across the randomized phase of two placebo-controlled trials.
+Pediatric Patients: The data described below reflect median exposure to PROMACTA of 91 days for 107 pediatric patients (aged 1 to 17 years) with persistent or chronic ITP, of whom 53% were female, across the randomized phase of two placebo-controlled trials.
 
 Table 10 presents the most common adverse drug reactions (experienced by greater than or equal to 3% of pediatric patients 1 year and older receiving PROMACTA) across the two placebo-controlled trials, with a higher incidence for PROMACTA versus placebo.
 
 Table 10.
-Adverse Reactions (≥ 3%) With a Higher Incidence for PROMACTA Versus Placebo From Two Placebo-controlled Trials in Pediatric Patients 1 Year and Older With Chronic Immune Thrombocytopenia
+Adverse Reactions (≥ 3%) With a Higher Incidence for PROMACTA Versus Placebo From Two Placebo-controlled Trials in Pediatric Patients 1 Year and Older With Persistent or Chronic Immune Thrombocytopenia
 
 |  | PROMACTA | Placebo |
 | --- | --- | --- |
@@ -99,9 +100,9 @@ Adverse Reactions (≥ 3%) With a Higher Incidence for PROMACTA Versus Placebo F
 | Rash | 5 | 2 |
 | AST increased | 4 | 0 |
 | Rhinorrhea | 4 | 0 |
-| a Includes adverse reactions or laboratory abnormalities > 3 x ULN. |  |  |
+| Abbreviations: ALT, alanine aminotransferase; AST, aspartate aminotransferase. a Includes adverse reactions or laboratory abnormalities > 3 x ULN. |  |  |
 
-In the two controlled clinical chronic ITP trials, cataracts developed or worsened in 2 (1%) patients treated with PROMACTA.
+In the two controlled clinical persistent or chronic ITP trials, cataracts developed or worsened in 2 (1%) patients treated with PROMACTA.
 Both patients had received chronic oral corticosteroids, a risk factor for cataractogenesis.
 
 Chronic Hepatitis C-associated Thrombocytopenia: In the two placebo-controlled trials, 955 patients with chronic hepatitis C-associated thrombocytopenia received PROMACTA.
@@ -164,6 +165,7 @@ Adverse Reactions (≥ 5%) From One Open-label Trial in First-Line Treatment of 
 | Blood bilirubin increased | 17 |
 | Rash | 8 |
 | Skin discoloration, including hyperpigmentation | 5 |
+| Abbreviations: ALT, alanine aminotransferase; AST, aspartate aminotransferase. |  |
 
 In the PROMACTA D1-M6 cohort, ALT increased (29%), AST increased (17%), and blood bilirubin increased (17%) were reported more frequently than in patients with refractory severe aplastic anemia (see Table 13).
 
