@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "ANDA212461"
+  ],
+  "inn": "atropine",
+  "labeler": "International Medication Systems, Limited",
+  "package_ndcs": [
+    "76329-3340-1"
+  ],
+  "products": [
+    {
+      "form": "INJECTION",
+      "generic": "atropine sulfate",
+      "name": "Atropine Sulfate"
+    }
+  ],
+  "setid": "b72d0a82-6163-460f-965a-12f6da47370a",
+  "source": "dailymed"
+}
