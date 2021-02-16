@@ -1,0 +1,20 @@
+{
+  "application_numbers": [
+    "NDA214047"
+  ],
+  "inn": "levothyroxine",
+  "labeler": "VistaPharm, Inc.",
+  "package_ndcs": [
+    "66689-105-02",
+    "66689-105-04"
+  ],
+  "products": [
+    {
+      "form": "SOLUTION",
+      "generic": "levothyroxine sodium",
+      "name": "THYQUIDITY"
+    }
+  ],
+  "setid": "67dbca4d-1aea-48f8-a013-c14d5dc75f50",
+  "source": "dailymed"
+}
