@@ -1,0 +1,22 @@
+{
+  "application_numbers": [
+    "ANDA211864"
+  ],
+  "inn": "isoproterenol",
+  "labeler": "AuroMedics Pharma LLC",
+  "package_ndcs": [
+    "55150-316-01",
+    "55150-316-25",
+    "55150-317-01",
+    "55150-317-10"
+  ],
+  "products": [
+    {
+      "form": "INJECTION, SOLUTION",
+      "generic": "isoproterenol hydrochloride",
+      "name": "Isoproterenol Hydrochloride"
+    }
+  ],
+  "setid": "3e4050e8-7d94-4ed7-951d-1ff818ddadf1",
+  "source": "dailymed"
+}
