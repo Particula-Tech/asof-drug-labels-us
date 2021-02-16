@@ -38,12 +38,12 @@ Table 1: Reduced Doses for Patients with Baseline CrCl Less than or Equal to 60 
 | 40 to 49 | 3.3 |
 | 30 to 39 | 3 |
 
-*Doses calculated assuming target AUC of 0.66(mg•hr/L) (CrCl = 75 mL/min)
+*Doses calculated assuming target AUC of 0.66 (mg•hr/L) (CrCl=75 mL/min)
 
 During treatment, serum creatinine should be measured before each Zoledronic Acid Injection dose and treatment should be withheld for renal deterioration.
 In the clinical studies, renal deterioration was defined as follows: For patients with normal baseline creatinine, increase of 0.5 mg/dL For patients with abnormal baseline creatinine, increase of 1.0 mg/dL In the clinical studies, Zoledronic Acid Injection treatment was resumed only when the creatinine returned to within 10% of the baseline value.
 Zoledronic Acid Injection should be reinitiated at the same dose as that prior to treatment interruption.
-Patients should also be administered an oral calcium supplement of 500 mg and a multiple vitamin containing 400 international units of Vitamin D daily.
+Patients should also be administered an oral calcium supplement of 500 mg and a multiple vitamin containing 400 international units of vitamin D daily.
 
 ## 2.3 Preparation of Solution
 

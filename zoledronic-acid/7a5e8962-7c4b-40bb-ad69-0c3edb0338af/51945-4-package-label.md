@@ -1,8 +1,52 @@
-# PACKAGE LABEL.PRINCIPAL DISPLAY PANEL
+# PACKAGE LABEL.PRINCIPAL DISPLAY PANEL -4 mg/5 mL Vial Label
 
-Zoledronic Acid Injection 4 mg/5 mL single-dose vial label Vial NDC: 68083-116-01 Store at 25ºC (77ºF); excursions permitted to 15ºC to 30ºC (59ºF to 86ºF) [see USP Controlled Room Temperature].
-See package insert for Dosage and Administration and preparation of solution.
-Do not mix with calcium-containing infusion solution.
+NDC 68083-116-01
+
+Zoledronic Acid Injection
+
+4 mg/5 mL
+
+(0.8 mg/mL)
+
+For Intravenous Infusion
+
+after Dilution
+
+5 mL Single Dose Vial Rx Only
+
+Not for direct injection.
+
+Dose must be diluted.
+
+PACKAGE LABEL.PRINCIPAL DISPLAY PANEL - 4 mg/5 mL Carton Label
+
+NDC 68083-116-01
+
+Zoledronic Acid
+
+Injection
+
+4 mg/5 mL
+
+(0.8 mg/mL)
+
+For Intravenous Infusion
+
+after Dilution
+
+One 5 mL Single Dose Vial Sterile
+
+Not for direct injection.
+
+Dose must be diluted.
+
+See package Insert for Preparation
+
+of Solution.
+
+Do not mix with calcium-containing
+
+infusion solutions.
+
 Discard unused portion.
-
-Zoledronic Acid Injection 4 mg/5 mL Carton Label
+Rx Only

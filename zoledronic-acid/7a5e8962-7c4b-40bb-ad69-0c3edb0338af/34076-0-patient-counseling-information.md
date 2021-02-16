@@ -22,11 +22,9 @@ Musculoskeletal Pain
 
 Advise patients to immediately tell their doctor about any severe bone, joint, and/or muscle pain [see Warnings and Precautions (5.5)].
 
-Atypical Subtrochanteric and Diaphyseal Femoral Fracture Advise patients to report any thigh, hip, or groin pain.
-It is unknown whether the risk of atypical femur fracture continues after stopping therapy [see Warnings and Precautions (5.6)].
+Atypical Subtrochanteric and Diaphyseal Femoral Fracture
 
-Patients with Asthma There have been reports of bronchoconstriction in aspirin-sensitive patients receiving bisphosphonates, including zoledronic acid.
-Before being given zoledronic acid, instruct patients to tell their doctor if they are aspirin-sensitive [see Warnings and Precautions (5.7)].
+Patients with Asthma
 
 Hypocalcemia Advise patients with multiple myeloma and bone metastasis of solid tumors to take an oral calcium supplement of 500 mg and a multiple vitamin containing 400 international units of vitamin D daily [see Warnings and Precautions (5.9)].
 
@@ -42,7 +40,7 @@ Brands listed are the trademarks of their respective owners.
 
 Manufactured by:
 
-Gland Pharma Limited D.P.Pally, Dundigal Post
+Gland Pharma Limited
 
 Hyderabad-500043, India
 

@@ -14,7 +14,7 @@ The most frequently observed adverse events were fever, nausea, constipation, an
 Table 4 provides adverse events that were reported by 10% or more of the 189 patients treated with Zoledronic Acid Injection 4 mg or pamidronate 90 mg from the two HCM trials.
 Adverse events are listed regardless of presumed causality to study drug.
 
-Table 4: Percentage of Patients with Adverse Events greater than or equal to 10% Reported in Hypercalcemia of Malignancy Clinical Trials by Body System
+Table 4: Percentage of Patients with Adverse Events Greater than or Equal to 10% Reported in Hypercalcemia of Malignancy Clinical Trials by Body System
 
 | n (%) |  | n (%) |  |  |
 | --- | --- | --- | --- | --- |
@@ -64,7 +64,7 @@ These symptoms usually resolve within a few days.
 Pyrexia has been the most commonly associated symptom, occurring in 44% of patients.
 Mineral and Electrolyte Abnormalities Electrolyte abnormalities, most commonly hypocalcemia, hypophosphatemia, and hypomagnesemia, can occur with bisphosphonate use.
 
-Grade 3 and Grade 4 laboratory abnormalities for serum creatinine, serum calcium, serum phosphorus, and serum magnesium observed in two clinical trials of Zoledronic acid Injection in patients with HCM are shown in Table 5 and 6.
+Grade 3 and Grade 4 laboratory abnormalities for serum creatinine, serum calcium, serum phosphorus, and serum magnesium observed in two clinical trials of Zoledronic Acid Injection in patients with HCM are shown in Table 5 and 6.
 
 Table 5: Grade 3 Laboratory Abnormalities for Serum Creatinine, Serum Calcium, Serum Phosphorus, and Serum Magnesium in Two Clinical Trials in Patients with HCM
 
@@ -92,25 +92,28 @@ Table 6: Grade 4 Laboratory Abnormalities for Serum Creatinine, Serum Calcium, S
 | Hypophosphatemia3 | 1/70 | (1%) | 4/81 | (5%) |
 | Hypomagnesemia4 | 0/71 | 0 | 1/84 | (1%) |
 
-1 Grade 3 (greater than 3x Upper Limit of Normal); Grade 4 (greater than 6x Upper Limit of Normal) 2 Grade 3 (less than 7 mg/dL); Grade 4 (less than 6 mg/dL) 3 Grade 3 (less than 2 mg/dL); Grade 4 (less than 1 mg/dL) 4 Grade 3 (less than 0.8 mEq/L); Grade 4 (less than 0.5 mEq/L)
+1 Grade 3 (greater than 3x Upper Limit of Normal); Grade 4 (greater than 6x Upper Limit of Normal).
+2 Grade 3 (less than 7 mg/dL); Grade 4 (less than 6 mg/dL).
+3 Grade 3 (less than 2 mg/dL); Grade 4 (less than 1 mg/dL).
+4 Grade 3 (less than 0.8 mEq/L); Grade 4 (less than 0.5 mEq/L).
 
 Injection-Site Reactions Local reactions at the infusion-site, such as redness or swelling, were observed infrequently.
 In most cases, no specific treatment is required and the symptoms subside after 24 to 48 hours.
 Ocular Adverse Events Ocular inflammation such as uveitis and scleritis can occur with bisphosphonate use, including Zoledronic Acid Injection.
-No cases of iritis, scleritis or uveitis were reported during these clinical trials.
+No cases of iritis, scleritis, or uveitis were reported during these clinical trials.
 However, cases have been seen in postmarketing use [see Adverse Reactions (6.2)].
 Multiple Myeloma and Bone Metastases of Solid Tumors The safety analysis includes patients treated in the core and extension phases of the trials.
-The analysis includes the 2042 patients treated with Zoledronic acid Injection 4 mg, pamidronate 90 mg, or placebo in the three controlled multicenter bone metastases trials, including 969 patients completing the efficacy phase of the trial, and 619 patients that continued in the safety extension phase.
+The analysis includes the 2042 patients treated with Zoledronic Acid Injection 4 mg, pamidronate 90 mg, or placebo in the three controlled multi-center bone metastases trials, including 969 patients completing the efficacy phase of the trial, and 619 patients that continued in the safety extension phase.
 Only 347 patients completed the extension phases and were followed for 2 years (or 21 months for the other solid tumor patients).
 The median duration of exposure for safety analysis for Zoledronic Acid Injection 4 mg (core plus extension phases) was 12.8 months for breast cancer and multiple myeloma, 10.8 months for prostate cancer, and 4.0 months for other solid tumors.
 Table 7 describes adverse events that were reported by 10% or more of patients.
 Adverse events are listed regardless of presumed causality to study drug.
 
-Table 7: Percentage of Patients with Adverse Events greater than or equal to 10% Reported in Three Bone Metastases Clinical Trials by Body System
+Table 7: Percentage of Patients with Adverse Events Greater than or Equal to 10% Reported in Three Bone Metastases Clinical Trials by Body System
 
 | n (%) |  | n (%) |  | n (%) |  |  |
 | --- | --- | --- | --- | --- | --- | --- |
-|  | Zoledronic Acid Injection 4mg |  | Pamidronate 90 mg |  | Placebo |  |
+|  | Zoledronic Acid Injection 4 mg |  | Pamidronate 90 mg |  | Placebo |  |
 | Patients Studied |  |  |  |  |  |  |
 | Total No. of Patients | 1031 | (100) | 556 | (100) | 455 | (100) |
 | Total No. of Patients with any AE | 1015 | (98) | 548 | (99) | 445 | (98) |

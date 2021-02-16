@@ -30,7 +30,7 @@ Risk Summary After administration of Zoledronic Acid Injection, it is not known 
 Zoledronic acid binds to bone long term and may be released over periods of weeks to years.
 Because of the potential for serious adverse reactions in a breastfed child, advise a lactating woman not to breastfeed during and after Zoledronic Acid Injection treatment.
 
-## 8.3 Females & Males of Reproductive Potential
+## 8.3 Females and Males of Reproductive Potential
 
 Pregnancy Testing Verify pregnancy status of females of reproductive potential prior to initiation of Zoledronic Acid Injection.
 
