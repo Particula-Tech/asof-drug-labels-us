@@ -1,6 +1,6 @@
 # MEDICATION GUIDE
 
-Lamotrigine tablets, USP (la-MOE-tri-jeen) Rx Only
+Lamotrigine tablets, USP (la-MOE-tri-jeen)
 
 What is the most important information I should know about Lamotrigine tablets?
 
@@ -38,11 +38,24 @@ Call your healthcare provider right away if you have any of these symptoms:
 - severe muscle pain
 - swelling of your face, eyes, lips, or tongue
 - swollen lymph glands
-- unusual bruising or bleeding
+- unusual bruising or bleeding, looking pale
 - weakness, fatigue
 - yellowing of your skin or the white part of your eyes
+- trouble walking or seeing
+- seizures for the first time or happening more often
+- pain and/or tenderness in the area towards the top of your stomach (enlarged liver and/or spleen)
 
 3.
+In patients with known heart problems, the use of Lamotrigine tablets may lead to a fast heart beat.
+Call your healthcare provider right away if you:
+
+- have a fast, slow, or pounding heart beat.
+- feel your heart skip a beat.
+- have shortness of breath.
+- have chest pain.
+- feel lightheaded.
+
+4.
 Like other antiepileptic drugs, Lamotrigine tablets may cause suicidal thoughts or actions in a very small number of people, about 1 in 500.
 
 Call a healthcare provider right away if you have any of these symptoms, especially if they are new, worse, or worry you:
@@ -72,7 +85,7 @@ How can I watch for early symptoms of suicidal thoughts and actions in myself or
 - Keep all follow-up visits with your healthcare provider as scheduled.
 - Call your healthcare provider between visits as needed, especially if you are worried about symptoms.
 
-4.
+5.
 Lamotrigine tablets may cause aseptic meningitis, a serious inflammation of the protective membrane that covers the brain and spinal cord.
 
 Call your healthcare provider right away if you have any of the following symptoms:
@@ -96,7 +109,7 @@ For more information ask your healthcare provider or pharmacist.
 Tell your healthcare provider if you have any side effect that bothers you.
 Be sure to read the section below entitled “What are the possible side effects of Lamotrigine tablets?”
 
-5.
+6.
 People prescribed Lamotrigine tablets have sometimes been given the wrong medicine because many medicines have names similar to Lamotrigine tablets, so always check that you receive Lamotrigine tablets.
 
 Taking the wrong medication can cause serious health problems.
@@ -137,7 +150,8 @@ Before taking Lamotrigine tablets, tell your healthcare provider about all of yo
 
 - have had a rash or allergic reaction to another antiseizure medicine.
 - have or have had depression, mood problems, or suicidal thoughts or behavior.
-- have had aseptic meningitis after taking Lamotrigine tablets.
+- have a history of heart problems or irregular heart beats or any of your family members have any heart problem, including genetic abnormalities.
+- have had aseptic meningitis after taking lamotrigine tablets or lamotrigine extended-release tablets.
 - are taking oral contraceptives (birth control pills) or other female hormonal medicines.
   Do not start or stop taking birth control pills or other female hormonal medicine until you have talked with your healthcare provider.
   Tell your healthcare provider if you have any changes in your menstrual pattern such as breakthrough bleeding.
@@ -233,10 +247,13 @@ For more information, call 1-800-313-4623
 
 What are the ingredients in Lamotrigine tablets?
 
-Active ingredient: Lamotrigine, USP Inactive ingredients: lactose monohydrate; magnesium stearate, microcrystalline cellulose, sodium starch glycolate.
+Active ingredient: Lamotrigine, USP.
+Inactive ingredients: lactose monohydrate; magnesium stearate, microcrystalline cellulose, sodium starch glycolate.
 
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
 
 *DEPAKENE and *DEPAKOTE are registered trademarks of Abbott Laboratories.
 
-Manufactured by: Jubilant Cadista Pharmaceuticals Inc. Salisbury, MD 21801, USA 0245/MG Rev. # 09/2018.
+Rx Only
+
+Manufactured by: Jubilant Cadista Pharmaceuticals Inc. Salisbury, MD 21801, USA 0245/MG Rev. # 10/2020

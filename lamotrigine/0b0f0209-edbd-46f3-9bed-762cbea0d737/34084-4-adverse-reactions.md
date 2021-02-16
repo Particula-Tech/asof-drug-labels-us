@@ -5,12 +5,13 @@ The following serious adverse reactions are described in more detail in the Warn
 - Serious Skin Rashes [see Warnings and Precautions (5.1)]
 - Hemophagocytic Lymphohistiocytosis [see Warnings and Precautions (5.2)]
 - Multiorgan Hypersensitivity Reactions and Organ Failure [see Warnings and Precautions (5.3)]
-- Blood Dyscrasias [see Warnings and Precautions (5.4)]
-- Suicidal Behavior and Ideation [see Warnings and Precautions (5.5)]
-- Aseptic Meningitis [see Warnings and Precautions (5.6)]
-- Withdrawal Seizures [see Warnings and Precautions (5.9)]
-- Status Epilepticus [see Warnings and Precautions (5.10)]
-- Sudden Unexplained Death in Epilepsy [see Warnings and Precautions (5.11)]
+- Cardiac Rhythm and Conduction Abnormalities [see Warnings and Precautions (5.4)]
+- Blood Dyscrasias [see Warnings and Precautions (5.5)]
+- Suicidal Behavior and Ideation [see Warnings and Precautions (5.6)]
+- Aseptic Meningitis [see Warnings and Precautions (5.7)]
+- Withdrawal Seizures [see Warnings and Precautions (5.10)]
+- Status Epilepticus [see Warnings and Precautions (5.11)]
+- Sudden Unexplained Death in Epilepsy [see Warnings and Precautions (5.12)]
 
 ## 6.1 Clinical Trial Experience
 
@@ -93,7 +94,7 @@ Adverse Reactions in Pooled, Placebo-Controlled Adjunctive Trials in Adult Patie
 | Vaginitis | 4 | 1 |
 | Amenorrhea | 2 | 1 |
 | a Adverse reactions that occurred in at least 2% of patients treated with lamotrigine and at a greater incidence than placebo. |  |  |
-| b Patients in these adjunctive trials were receiving 1 to 3 of the concomitant antiepileptic drugs carbamazepine, phenytoin, phenobarbital, or primidone in addition to lamotrigine or placebo. Patients may have reported multiple adverse reactions during the trial or at discontinuation; thus, patients may be included in more than 1 category |  |  |
+| b Patients in these adjunctive trials were receiving 1 to 3 of the concomitant antiepileptic drugs carbamazepine, phenytoin, phenobarbital, or primidone in addition to lamotrigine or placebo. Patients may have reported multiple adverse reactions during the trial or at discontinuation; thus, patients may be included in more than 1 category. |  |  |
 
 In a randomized, parallel trial comparing placebo with 300 and 500 mg/day of lamotrigine, some of the more common drug-related adverse reactions were dose related (see Table 9).
 
@@ -281,7 +282,7 @@ Respiratory: Sinusitis.
 Urogenital: Urinary frequency.
 
 Adverse Reactions following Abrupt Discontinuation: In the 2 controlled clinical trials, there was no increase in the incidence, severity, or type of adverse reactions in patients with bipolar disorder after abruptly terminating therapy with lamotrigine.
-In the clinical development program in adults with bipolar disorder, 2 patients experienced seizures shortly after abrupt withdrawal of lamotrigine [see Warnings and Precautions (5.9)].
+In the clinical development program in adults with bipolar disorder, 2 patients experienced seizures shortly after abrupt withdrawal of lamotrigine [see Warnings and Precautions (5.10)].
 
 Mania/Hypomania/Mixed Episodes: During the double-blind, placebo-controlled clinical trials in bipolar I disorder in which adults were converted to monotherapy with lamotrigine (100 to 400 mg/day) from other psychotropic medications and followed for up to 18 months, the rates of manic or hypomanic or mixed mood episodes reported as adverse reactions were 5% for patients treated with lamotrigine (n = 227), 4% for patients treated with lithium (n = 166), and 7% for patients treated with placebo (n = 190).
 In all bipolar controlled trials combined, adverse reactions of mania (including hypomania and mixed mood episodes) were reported in 5% of patients treated with lamotrigine (n = 956), 3% of patients treated with lithium (n = 280), and 4% of patients treated with placebo (n = 803).
@@ -351,3 +352,5 @@ Musculoskeletal Rhabdomyolysis has been observed in patients experiencing hypers
 Nervous System Aggression, exacerbation of Parkinsonian symptoms in patients with pre-existing Parkinson’s disease, tics.
 
 Non-site Specific Progressive immunosuppression.
+
+Renal and Urinary Disorders Tubulointerstitial nephritis (has been reported alone and in association with uveitis).

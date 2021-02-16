@@ -26,7 +26,7 @@ Established and Other Potentially Significant Drug Interactions
 | Phenytoin | ↓ lamotrigine | Decreased lamotrigine concentration approximately 40%. |
 | Rifampin | ↓ lamotrigine | Decreased lamotrigine AUC approximately 40%. |
 | Valproate | ↑ lamotrigine | Increased lamotrigine concentrations slightly more than 2-fold. |
-| ? valproate | There are conflicting study results regarding effect of lamotrigine on valproate concentrations: 1) a mean 25% decrease in valproate concentrations in healthy volunteers, 2) no change in valproate concentrations in controlled clinical trials in patients with epilepsy. |  |
+|  | ? valproate | There are conflicting study results regarding effect of lamotrigine on valproate concentrations: 1) a mean 25% decrease in valproate concentrations in healthy volunteers, 2) no change in valproate concentrations in controlled clinical trials in patients with epilepsy. |
 | ↓ = Decreased (induces lamotrigine glucuronidation). ↑ = Increased (inhibits lamotrigine glucuronidation). ? = Conflicting data. |  |  |
 
 Effect of Lamotrigine tablets on Organic Cationic Transporter 2 Substrates Lamotrigine is an inhibitor of renal tubular secretion via organic cationic transporter 2 (OCT2) proteins [see Clinical Pharmacology (12.3)].

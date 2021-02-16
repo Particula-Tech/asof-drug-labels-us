@@ -8,7 +8,12 @@ Hemophagocytic Lymphohistiocytosis Prior to initiation of treatment with lamotri
 
 Multiorgan Hypersensitivity Reactions, Blood Dyscrasias, and Organ Failure Inform patients that multiorgan hypersensitivity reactions and acute multiorgan failure may occur with lamotrigine.
 Isolated organ failure or isolated blood dyscrasias without evidence of multiorgan hypersensitivity may also occur.
-Instruct patients to contact their healthcare providers immediately if they experience any signs or symptoms of these conditions [see Warnings and Precautions (5.3, 5.4)].
+Instruct patients to contact their healthcare providers immediately if they experience any signs or symptoms of these conditions [see Warnings and Precautions (5.3, 5.5)].
+
+Cardiac Rhythm and Conduction Abnormalities Inform patients that, due to its mechanism of action, lamotrigine could lead to irregular heart rhythm.
+This risk is increased in patients with underlying cardiac disease or heart conduction problems or who are taking other medications that affect heart conduction.
+Patients should be made aware of and report cardiac signs or symptoms to their healthcare provider right away.
+Patients who develop syncope should lie down with raised legs and contact their healthcare provider [see Warnings and Precautions (5.4)].
 
 Suicidal Thinking and Behavior Inform patients, their caregivers, and families that AEDs, including lamotrigine, may increase the risk of suicidal thoughts and behavior.
 Instruct them to be alert for the emergence or worsening of symptoms of depression, any unusual changes in mood or behavior, or the emergence of suicidal thoughts or behavior or thoughts about self-harm.
@@ -29,7 +34,7 @@ Inform patients who intend to breastfeed that lamotrigine is present in breast m
 Discuss the benefits and risks of continuing breastfeeding.
 
 Oral Contraceptive Use Instruct women to notify their healthcare providers if they plan to start or stop use of oral contraceptives or other female hormonal preparations.
-Starting estrogen-containing oral contraceptives may significantly decrease lamotrigine plasma levels and stopping estrogen-containing oral contraceptives (including the pill-free week) may significantly increase lamotrigine plasma levels [see Warnings and Precautions (5.8), Clinical Pharmacology (12.3)].
+Starting estrogen-containing oral contraceptives may significantly decrease lamotrigine plasma levels and stopping estrogen-containing oral contraceptives (including the pill-free week) may significantly increase lamotrigine plasma levels [see Warnings and Precautions (5.9), Clinical Pharmacology (12.3)].
 Also instruct women to promptly notify their healthcare providers if they experience adverse reactions or changes in menstrual pattern (e.g., break-through bleeding) while receiving lamotrigine in combination with these medications.
 
 Discontinuing Lamotrigine Instruct patients to notify their healthcare providers if they stop taking lamotrigine for any reason and not to resume lamotrigine without consulting their healthcare providers.
@@ -40,6 +45,8 @@ Instruct them to notify their healthcare providers immediately if they develop s
 Potential Medication Errors To avoid a medication error of using the wrong drug or formulation, strongly advise patients to visually inspect their tablets to verify that they are lamotrigine, as well as the correct formulation of lamotrigine, each time they fill their prescription [see Dosage Forms and Strengths (3.1), How Supplied/Storage and Handling (16)].
 Refer the patient to the Medication Guide that provides description of the lamotrigine tablets.
 
-Manufactured By:
+Rx Only
 
-Jubilant Cadista Pharmaceuticals Inc. Salisbury, MD 21801, USA Rev. # 09/2019
+Manufactured by:
+
+Jubilant Cadista Pharmaceuticals Inc. Salisbury, MD 21801, USA Rev. # 10/2020
