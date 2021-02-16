@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "NDA022563"
+  ],
+  "inn": "calcipotriene",
+  "labeler": "Mayne Pharma",
+  "package_ndcs": [
+    "51862-512-60"
+  ],
+  "products": [
+    {
+      "form": "AEROSOL, FOAM",
+      "generic": "calcipotriene",
+      "name": "calcipotriene"
+    }
+  ],
+  "setid": "26756ac7-a80c-49db-97bb-351f76ad8a71",
+  "source": "dailymed"
+}
