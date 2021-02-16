@@ -24,7 +24,7 @@ Local Reactions
 
 In this pooled safety population, injection-site reactions occurred in 9% of patients, including Grade 2 reactions in 0.7%.
 The most frequent (>1%) injection-site reaction was injection site erythema.
-These local reactions occurred a median of 5 minutes (range: 0 minutes to 6.5 days) after starting administration of DARZALEX FASPRO.
+These local reactions occurred a median of 5 minutes (range: 0 minutes to 4.7 days) after starting administration of DARZALEX FASPRO.
 Monitor for local reactions and consider symptomatic management.
 
 ## 5.2 Cardiac Toxicity in Patients with Light Chain (AL) Amyloidosis

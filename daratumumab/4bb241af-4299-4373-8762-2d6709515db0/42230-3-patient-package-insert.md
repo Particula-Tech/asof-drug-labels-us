@@ -12,4 +12,4 @@
 | These are not all the possible side effects of DARZALEX FASPRO. Call your doctor for medical advice about side effects. You may report side effects to FDA at 1-800-FDA-1088. |  |  |  |  |
 | General information about the safe and effective use of DARZALEX FASPRO. Medicines are sometimes prescribed for purposes other than those listed in a Patient Information leaflet. You can ask your pharmacist or healthcare provider for information about DARZALEX FASPRO that is written for health professionals. |  |  |  |  |
 | What are the ingredients in DARZALEX FASPRO? Active ingredient: daratumumab and hyaluronidase-fihj Inactive ingredients: L-histidine, L-histidine hydrochloride monohydrate, L-methionine, polysorbate 20, sorbitol, water for injection. Manufactured by: Janssen Biotech, Inc., Horsham, PA 19044 U.S. License Number 1864 For more information, call 1-800-526-7736 or go to www.DARZALEXFASPRO.com. |  |  |  |  |
-| This Patient Information has been approved by the U.S. Food and Drug Administration. |  |  |  | Revised: 01/2021 |
+| This Patient Information has been approved by the U.S. Food and Drug Administration. |  |  |  | Revised: 02/2021 |
