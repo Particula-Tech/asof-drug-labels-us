@@ -62,11 +62,13 @@ In placebo-controlled and uncontrolled clinical studies, a total of 2513 patient
 Approximately 1162 patients have received more than 2 years of treatment with TECFIDERA.
 The adverse reaction profile of TECFIDERA in the uncontrolled clinical studies was consistent with the experience in the placebo-controlled clinical trials.
 
-## 6.2 Post Marketing Experience
+## 6.2 Postmarketing Experience
 
 The following adverse reaction has been identified during post approval use of TECFIDERA.
 Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
 
-Liver function abnormalities (elevations in transaminases ≥ 3 times ULN with concomitant elevations in total bilirubin > 2 times ULN) have been reported following TECFIDERA administration in post marketing experience [See Warnings and Precautions (5.5)].
+Liver function abnormalities (elevations in transaminases ≥ 3 times ULN with concomitant elevations in total bilirubin > 2 times ULN) have been reported following TECFIDERA administration in postmarketing experience [See Warnings and Precautions (5.5)].
 
 Herpes zoster infection and other serious opportunistic infections have has been reported with TECFIDERA administration in postmarketing experience [See Warnings and Precautions (5.3)].
+
+Rhinorrhea has been reported with TECFIDERA administration in post marketing experience.
