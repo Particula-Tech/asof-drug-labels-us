@@ -33,7 +33,7 @@ Respiratory Depression
 
 Inform patients about the risk of respiratory depression.
 Include information that the risk is greatest for those using concomitant CNS depressants (such as opioid analgesics) or those with underlying respiratory impairment.
-Teach patients how to recognize respiratory depression and advise them to seek medical attention immediately if it occurs.
+Teach patients how to recognize respiratory depression and advise them to seek medical attention immediately if it occurs [see Warnings and Precautions (5.7)].
 
 Use in Pregnancy
 
@@ -49,7 +49,7 @@ www.glenmarkpharma-us.com/medguides
 
 Manufactured by:
 
-Glenmark Pharmaceuticals Ltd. India
+Glenmark Pharmaceuticals Limited India
 
 Manufactured for:
 
@@ -58,4 +58,4 @@ Glenmark Pharmaceuticals Inc., USA Mahwah, NJ 07430
 Questions?
 1 (888) 721-7115 www.glenmarkpharma-us.com
 
-May 2020
+February 2021

@@ -89,7 +89,7 @@ Although no formal analysis by gender has been performed, estimates of response 
 There was no consistent pattern indicating that age had any effect on the response to gabapentin.
 There were insufficient numbers of patients of races other than Caucasian to permit a comparison of efficacy among racial groups.
 
-A fourth study in pediatric patients age 3 to 12 years compared 25 to 35 mg/kg/day gabapentin (N=118) with placebo (N=127).
+A fourth study in pediatric patients age 3 to 12 years compared 25 - 35 mg/kg/day gabapentin (N=118) with placebo (N=127).
 For all partial seizures in the intent-to-treat population, the response ratio was statistically significantly better for the gabapentin group (-0.146) than for the placebo group (-0.079).
 For the same population, the responder rate for gabapentin (21%) was not significantly different from placebo (18%).
 

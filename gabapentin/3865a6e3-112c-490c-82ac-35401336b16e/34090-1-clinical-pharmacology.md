@@ -71,7 +71,7 @@ These pharmacokinetic data indicate that the effective daily dose in pediatric p
 
 Adult Patients with Renal Impairment
 
-Subjects (N=60) with renal impairment (mean creatinine clearance ranging from 13 to 114 mL/min) were administered single 400 mg oral doses of gabapentin.
+Subjects (N=60) with renal impairment (mean creatinine clearance ranging from 13 - 114 mL/min) were administered single 400 mg oral doses of gabapentin.
 The mean gabapentin half-life ranged from about 6.5 hours (patients with creatinine clearance >60 mL/min) to 52 hours (creatinine clearance <30 mL/ min) and gabapentin renal clearance from about 90 mL/min (>60 mL/min group) to about 10 mL/min (<30 mL/min).
 Mean plasma clearance (CL/F) decreased from approximately 190 mL/min to 20 mL/min [see Dosage and Administration (2.3) and Use in Specific Populations (8.6)].
 Pediatric patients with renal insufficiency have not been studied.

@@ -1,15 +1,15 @@
 # 16 HOW SUPPLIED/STORAGE AND HANDLING
 
-Gabapentin Tablets USP are supplied as follows:
+Gabapentin Tablets, USP are supplied as follows:
 
-Gabapentin Tablets USP, 600 mg are white to off-white film-coated, oval shaped, biconvex scored tablets debossed with “G” and “31” on one side.
+Gabapentin Tablets USP, 600 mg are white to off-white, film-coated, oval shaped, biconvex scored tablets debossed with “G” and “31” on one side.
 They are available as:
 
 Bottles of 100 with child-resistant closure, NDC 68462-126-01
 
 Bottles of 500, NDC 68462-126-05
 
-Gabapentin Tablets USP, 800 mg are white to off-white film-coated, oval shaped, biconvex scored tablets debossed with “G” and “13” on one side.
+Gabapentin Tablets USP, 800 mg are white to off-white, film-coated, oval shaped, biconvex scored tablets debossed with “G” and “13” on one side.
 They are available as:
 
 Bottles of 100 with child-resistant closure, NDC 68462-127-01

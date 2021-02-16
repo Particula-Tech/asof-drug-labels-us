@@ -37,7 +37,7 @@ During the controlled trials in patients with post-herpetic neuralgia, somnolenc
 Dizziness and somnolence were among the most common adverse reactions leading to discontinuation of gabapentin.
 
 Patients should be carefully observed for signs of central nervous system (CNS) depression, such as somnolence and sedation, when gabapentin is used with other drugs with sedative properties because of potential synergy.
-In addition, patients who require concomitant treatment with morphine may experience increases in gabapentin concentrations and may require dose adjustment [see Drug Interactions (7.2)].
+In addition, patients who require concomitant treatment with morphine may experience increases in gabapentin concentrations and may require dose adjustment [see Drug Interactions (7.1)].
 
 ## 5.5 Withdrawal Precipitated Seizure, Status Epilepticus
 
@@ -62,7 +62,7 @@ Because most trials included in the analysis did not extend beyond 24 weeks, the
 
 The risk of suicidal thoughts or behavior was generally consistent among drugs in the data analyzed.
 The finding of increased risk with AEDs of varying mechanisms of action and across a range of indications suggests that the risk applies to all AEDs used for any indication.
-The risk did not vary substantially by age (5 to 100 years) in the clinical trials analyzed.
+The risk did not vary substantially by age (5 - 100 years) in the clinical trials analyzed.
 Table 2 shows absolute and relative risk by indication for all evaluated AEDs.
 
 TABLE 2 Risk by Indication for Antiepileptic Drugs in the Pooled Analysis
@@ -85,7 +85,7 @@ Behaviors of concern should be reported immediately to healthcare providers.
 
 ## 5.7 Respiratory Depression
 
-There is evidence from case reports, human studies, and animal studies associating gabapentin with serious, life-threatening, or fatal respiratory depression when co-administered with CNS depressants, including opioids, or in the setting of underlying respiratory impairment.
+There is evidence from case reports, human studies, and animal studies associating gabapentin with serious, life-threatening, or fatal respiratory depression when coadministered with CNS depressants, including opioids, or in the setting of underlying respiratory impairment.
 When the decision is made to co-prescribe gabapentin with another CNS depressant, particularly an opioid, or to prescribe gabapentin to patients with underlying respiratory impairment, monitor patients for symptoms of respiratory depression and sedation, and consider initiating gabapentin at a low dose.
 The management of respiratory depression may include close observation, supportive measures, and reduction or withdrawal of CNS depressants (including gabapentin).
 
