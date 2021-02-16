@@ -9,7 +9,7 @@ The exact mechanism of action for midazolam is not fully understood, but it is t
 The pharmacodynamic properties of midazolam and its metabolites, are similar to those of other benzodiazepines, including sedative, anxiolytic, amnestic, and hypnotic activities.
 The effects of midazolam on the CNS are dependent on the dose administered, the route of administration, and the presence or absence of other medications.
 
-Treatment with NAYZILAM was associated with effects on measures of sedation and measures of psychomotor performance [see Warnings and Precautions (5.3)].
+Treatment with NAYZILAM was associated with effects on measures of sedation and measures of psychomotor performance [see Warnings and Precautions (5.5)].
 Sedation and psychomotor impairment effects generally began to occur within 10 minutes post dose with peak effects observed within 30 minutes to 2 hours post dose.
 The pharmacodynamic effects generally returned to near baseline levels by 4 hours post-dose.
 
@@ -96,7 +96,7 @@ Inhibitors of CYP3A4 Isozymes
 
 Coadministration of CYP3A4 inhibitors with NAYZILAM has not been studied.
 However, the effects of inhibitors on midazolam exposure following NAYZILAM administration are expected to be similar to those following IV midazolam administration.
-Concomitant use of CYP3A4 inhibitors may result in prolonged sedation because of a decrease in plasma clearance of midazolam [Warnings and Precautions (5.3) and Drug Interactions (7.1)].
+Concomitant use of CYP3A4 inhibitors may result in prolonged sedation because of a decrease in plasma clearance of midazolam [Warnings and Precautions (5.5) and Drug Interactions (7.1)].
 
 - The effect of single oral doses of 800 mg cimetidine and 300 mg ranitidine on steady-state concentrations of oral midazolam was examined in a randomized crossover study (n=8).
   Cimetidine increased the mean midazolam steady-state concentration from 57 to 71 ng/mL.

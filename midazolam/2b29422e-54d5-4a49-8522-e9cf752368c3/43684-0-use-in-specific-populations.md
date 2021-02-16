@@ -103,8 +103,8 @@ Safety and effectiveness in pediatric patients below the age of 12 years have no
 Safety and efficacy studies of NAYZILAM did not include sufficient numbers of subjects aged 65 and over to determine whether they respond differently from younger subjects.
 Geriatric patients have longer elimination half-lives for midazolam and its metabolites, which may result in prolonged drug exposure.
 Geriatric patients may have altered drug distribution; diminished hepatic and/or renal function; and subjects over 70 years of age may be particularly sensitive [see Clinical Pharmacology (12.3)].
-Administration of intramuscular (IM) midazolam to elderly patients has been associated with rare reports of death under circumstances compatible with cardiorespiratory depression [see Warnings and Precautions (5.2)].
-In most of these cases, the patients also received other CNS depressants capable of depressing respiration, especially narcotics [see Warnings and Precautions (5.1, 5.3)].
+Administration of intramuscular (IM) midazolam to elderly patients has been associated with rare reports of death under circumstances compatible with cardiorespiratory depression [see Warnings and Precautions (5.4)].
+In most of these cases, the patients also received other CNS depressants capable of depressing respiration, especially narcotics [see Warnings and Precautions (5.1, 5.5)].
 Close monitoring of geriatric patients is recommended.
 
 ## 8.6 Renal Impairment

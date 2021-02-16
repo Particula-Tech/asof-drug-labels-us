@@ -13,5 +13,5 @@ Table 3: Clinically Significant Drug Interactions With NAYZILAM
 | Examples: | Morphine, hydrocodone, oxymorphone, codeine, fentanyl |
 | 7.3 Other Central Nervous System (CNS) Depressants |  |
 | Clinical Impact: | Concomitant use of barbiturates, alcohol, or other CNS depressants may increase the risk of hypoventilation, airway obstruction, desaturation, or apnea and may contribute to profound and/or prolonged drug effect. |
-| Intervention: | Reserve concomitant prescribing of these drugs for use in patients for whom alternative treatment options are inadequate. Limit dosages and durations to the minimum required [see Warnings and Precautions (5.3)]. |
+| Intervention: | Reserve concomitant prescribing of these drugs for use in patients for whom alternative treatment options are inadequate. Limit dosages and durations to the minimum required [see Warnings and Precautions (5.5)]. |
 | Examples: | Other benzodiazepines and sedatives/hypnotics, anxiolytics, tranquilizers, muscle relaxants, general anesthetics, antipsychotics, opioids, alcohol. |

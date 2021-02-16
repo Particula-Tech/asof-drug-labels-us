@@ -2,15 +2,24 @@
 
 ## 9.1 Controlled Substance
 
-NAYZILAM contains the benzodiazepine midazolam, a Schedule IV controlled substance under the Controlled Substances Act.
+NAYZILAM contains midazolam, a Schedule IV controlled substance.
 
 ## 9.2 Abuse
 
-Benzodiazepines, such as midazolam, may be subject to abuse.
-Abuse is the intentional non-therapeutic use of a drug, even once, to achieve a desired psychological or physiological effect.
-Available data concerning the drug abuse and dependence potential of midazolam suggest that its abuse potential is at least equivalent to that of diazepam.
+NAYZILAM is a benzodiazepine and a CNS depressant with a potential for abuse and addiction.
+Abuse is the intentional, non-therapeutic use of a drug, even once, for its desirable psychological or physiological effects.
+Misuse is the intentional use, for therapeutic purposes, of a drug by an individual in a way other than prescribed by a health care provider or for whom it was not prescribed.
+Drug addiction is a cluster of behavioral, cognitive, and physiological phenomena that may include a strong desire to take the drug, difficulties in controlling drug use (e.g., continuing drug use despite harmful consequences, giving a higher priority to drug use than other activities and obligations), and possible tolerance or physical dependence.
+Even taking benzodiazepines as prescribed may put patients at risk for abuse and misuse of their medication.
+Abuse and misuse of benzodiazepines may lead to addiction.
 
-The pharmacological profile of NAYZILAM is similar to that of other benzodiazepines listed in Schedule IV of the Controlled Substance Act, particularly in its potentiation of GABAergic transmission through its action on GABAA receptors, which leads to sedation and somnolence.
+Abuse and misuse of benzodiazepines often (but not always) involve the use of doses greater than the maximum recommended dosage and commonly involve concomitant use of other medications, alcohol, and/or illicit substances, which is associated with an increased frequency of serious adverse outcomes, including respiratory depression, overdose, or death.
+Benzodiazepines are often sought by individuals who abuse drugs and other substances, and by individuals with addictive disorders [see Warnings and Precautions (5.2)].
+
+The following adverse reactions have occurred with benzodiazepine abuse and/or misuse: abdominal pain, amnesia, anorexia, anxiety, aggression, ataxia, blurred vision, confusion, depression, disinhibition, disorientation, dizziness, euphoria, impaired concentration and memory, indigestion, irritability, muscle pain, slurred speech, tremors, and vertigo.
+
+The following severe adverse reactions have occurred with benzodiazepine abuse and/or misuse: delirium, paranoia, suicidal ideation and behavior, seizures, coma, breathing difficulty, and death.
+Death is more often associated with polysubstance use (especially benzodiazepines with other CNS depressants such as opioids and alcohol).
 
 Midazolam was actively self-administered in primate models used to assess the positive reinforcing effects of psychoactive drugs.
 Midazolam produced physical dependence of a mild to moderate intensity in cynomolgus monkeys after 5 to 10 weeks of administration.
@@ -22,11 +31,31 @@ Somnolence occurred at a similar rate in both midazolam groups, but euphoric moo
 
 ## 9.3 Dependence
 
-Physical dependence is a state of adaptation that is manifested by a specific withdrawal syndrome that can be produced by abrupt cessation, rapid dose reduction, decreasing blood levels of the drug, and/or administration of an antagonist.
+Physical Dependence After Use of NAYZILAM More Frequently Than Recommended
 
-Benzodiazepines can cause physical dependence.
-Physical dependence results in withdrawal symptoms in patients who abruptly discontinue the drug.
-Withdrawal symptoms (i.e., convulsions, hallucinations, tremors, abdominal and muscle cramps, vomiting, and sweating), similar in characteristics to those noted with barbiturates and alcohol, have occurred following abrupt discontinuation of midazolam following chronic administration.
+NAYZILAM may produce physical dependence if used more frequently than recommended.
+Physical dependence is a state that develops as a result of physiological adaptation in response to repeated drug use, manifested by withdrawal signs and symptoms after abrupt discontinuation or a significant dose reduction of a drug.
+Although NAYZILAM is indicated only for intermittent use [see Indications and Usage (1) and Dosage and Administration (2)], if used more frequently than recommended, abrupt discontinuation or rapid dosage reduction or administration of flumazenil, a benzodiazepine antagonist, may precipitate acute withdrawal reactions, including seizures, which can be life-threatening.
+Patients at an increased risk of withdrawal adverse reactions after benzodiazepine discontinuation or rapid dosage reduction include those who take higher dosages (i.e., higher and/or more frequent doses) and those who have had longer durations of use [see Warnings and Precautions (5.3)].
+For patients using NAYZILAM more frequently than recommended, to reduce the risk of withdrawal reactions, use a gradual taper to discontinue NAYZILAM [see Warnings and Precautions (5.3)].
+
+Acute Withdrawal Signs and Symptoms
+
+Acute withdrawal signs and symptoms associated with benzodiazepines have included abnormal involuntary movements, anxiety, blurred vision, depersonalization, depression, derealization, dizziness, fatigue, gastrointestinal adverse reactions (e.g., nausea, vomiting, diarrhea, weight loss, decreased appetite), headache, hyperacusis, hypertension, irritability, insomnia, memory impairment, muscle pain and stiffness, panic attacks, photophobia, restlessness, tachycardia, and tremor.
+More severe acute withdrawal signs and symptoms, including life-threatening reactions, have included catatonia, convulsions, delirium tremens, depression, hallucinations, mania, psychosis, seizures, and suicidality.
+
+Protracted Withdrawal Syndrome
+
+Protracted withdrawal syndrome associated with benzodiazepines is characterized by anxiety, cognitive impairment, depression, insomnia, formication, motor symptoms (e.g., weakness, tremor, muscle twitches), paresthesia, and tinnitus that persists beyond 4 to 6 weeks after initial benzodiazepine withdrawal.
+Protracted withdrawal symptoms may last weeks to more than 12 months.
+As a result there may be difficulty in differentiating withdrawal symptoms from potential re-emergence or continuation of symptoms for which the benzodiazepine was being used.
+
+Tolerance
+
+Tolerance to NAYZILAM may develop after use more frequently than recommended.
+Tolerance is a physiological state characterized by a reduced response to a drug after repeated administration (i.e., a higher dose of a drug is required to produce the same effect that was once obtained at a lower dose).
+
+Tolerance to the therapeutic effect of benzodiazepines may develop; however, little tolerance develops to the amnestic reactions and other cognitive impairments caused by benzodiazepines.
 
 ## 9.4 Chronic Use
 

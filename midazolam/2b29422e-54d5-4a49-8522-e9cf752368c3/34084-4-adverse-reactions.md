@@ -3,12 +3,14 @@
 The following serious adverse reactions are discussed in more detail in other sections of the labeling:
 
 - Risks from Concomitant Use with Opioids [see Warnings and Precautions (5.1)]
-- Risks of Cardiorespiratory Adverse Reactions [see Warnings and Precautions (5.2)]
-- CNS Depression from Concomitant Use with Other CNS Depressants or Moderate or Strong CYP3A4 Inhibitors [see Warnings and Precautions (5.3)]
-- Suicidal Behavior and Ideation [see Warnings and Precautions (5.4)]
-- Impaired Cognitive Function [see Warnings and Precautions (5.5)]
-- Glaucoma [see Warnings and Precautions (5.6)]
-- Other Adverse Reactions [see Warnings and Precautions (5.7)]
+- Abuse, Misuse, and Addiction [see Warnings and Precautions (5.2)]
+- Dependence and Withdrawal Reactions After Use of NAYZILAM More Frequently Than Recommended [see Warnings and Precautions (5.3)
+- Risks of Cardiorespiratory Adverse Reactions [see Warnings and Precautions (5.4)]
+- CNS Depression from Concomitant Use with Other CNS Depressants or Moderate or Strong CYP3A4 Inhibitors [see Warnings and Precautions (5.5)]
+- Suicidal Behavior and Ideation [see Warnings and Precautions (5.6)]
+- Impaired Cognitive Function [see Warnings and Precautions (5.7)]
+- Glaucoma [see Warnings and Precautions (5.8)]
+- Other Adverse Reactions [see Warnings and Precautions (5.9)]
 
 ## 6.1 Clinical Trials Experience
 
