@@ -7,7 +7,7 @@ The healing rates at Weeks 4 and 8 were evaluated and are shown in the Table 9:
 
 Table 9: Erosive Esophagitis Healing Rate (Life-Table Analysis)
 
-| Study | No. of Patients | Treatment Groups | Week 4 | Week 8 | Significance Levellog-rank test vs. omeprazole 20 mg. |
+| Study | No. of Patients | Treatment Groups | Week 4 | Week 8 | Significance Levellog-rank test vs. omeprazole 20 mg |
 | --- | --- | --- | --- | --- | --- |
 | 1 | 588 | Esomeprazole Magnesium Delayed-Release Capsules 20 mg | 68.7% | 90.6% | N.S. |
 |  | 588 | Omeprazole 20 mg | 69.5% | 88.3% |  |
@@ -18,7 +18,7 @@ Table 9: Erosive Esophagitis Healing Rate (Life-Table Analysis)
 |  | 572 | Omeprazole 20 mg | 68.6% | 89.8% |  |
 | 4 | 1,216 | Esomeprazole Magnesium Delayed-Release Capsules 40 mg | 81.7% | 93.7% | p < 0.001 |
 |  | 1,209 | Omeprazole 20 mg | 68.7% | 84.2% |  |
-| N.S. = not significant (p > 0.05). |  |  |  |  |  |
+| N.S. = not significant (p > 0.05) |  |  |  |  |  |
 
 In these same studies of patients with erosive esophagitis, sustained heartburn resolution and time to sustained heartburn resolution were evaluated and are shown in the Table 10:
 
@@ -36,7 +36,7 @@ Table 10: Sustained ResolutionDefined as 7 consecutive days with no heartburn re
 |  | 551 | Omeprazole 20 mg | 65.5% | 73.1% |  |  |  |  |  |  |  |
 | 4 | 1,187 | Esomeprazole Magnesium Delayed-Release Capsules 40 mg | 67.6% | 75.1% | p < 0.001 |  |  |  |  |  |  |
 |  | 1,188 | Omeprazole 20 mg | 62.5% | 70.8% |  |  |  |  |  |  |  |
-| N.S. = not significant (p > 0.05). |  |  |  |  |  |  |  |  |  |  |  |
+| N.S. = not significant (p > 0.05) |  |  |  |  |  |  |  |  |  |  |  |
 
 In these four studies, the range of median days to the start of sustained resolution (defined as 7 consecutive days with no heartburn) was 5 days for esomeprazole magnesium delayed-release capsules 40 mg, 7 to 8 days for esomeprazole magnesium delayed-release capsules 20 mg and 7 to 9 days for omeprazole 20 mg.
 
@@ -44,7 +44,7 @@ There are no comparisons of 40 mg of esomeprazole magnesium delayed-release caps
 
 ### Long-Term Maintenance of Healing of Erosive Esophagitis
 
-Two multicenter, randomized, double-blind placebo-controlled 4-arm trials were conducted in patients with endoscopically confirmed, healed erosive esophagitis to evaluate esomeprazole magnesium delayed-release capsules 40 mg (n = 174), 20 mg (n = 180), 10 mg (n = 168) or placebo (n = 171) once daily over 6 months of treatment.
+Two multicenter, randomized, double-blind, placebo-controlled 4-arm trials were conducted in patients with endoscopically confirmed, healed erosive esophagitis to evaluate esomeprazole magnesium delayed-release capsules 40 mg (n = 174), 20 mg (n = 180), 10 mg (n = 168) or placebo (n = 171) once daily over 6 months of treatment.
 
 No additional clinical benefit was seen with esomeprazole magnesium delayed-release capsules 40 mg over esomeprazole magnesium delayed-release capsules 20 mg.
 

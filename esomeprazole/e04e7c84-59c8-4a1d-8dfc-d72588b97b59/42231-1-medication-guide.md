@@ -13,8 +13,8 @@ Talk with your doctor.
 
 Esomeprazole magnesium delayed-release capsules can cause serious side effects, including:
 
-- •A type of kidney problem (acute interstitial nephritis).
-  Some people who take proton pump inhibitor (PPI) medicines, including esomeprazole magnesium delayed-release capsules, may develop a kidney problem called acute interstitial nephritis that can happen at any time during treatment with esomeprazole magnesium delayed-release capsules.
+- •A type of kidney problem (acute tubulointerstitial nephritis).
+  Some people who take proton pump inhibitor (PPI) medicines, including esomeprazole magnesium delayed-release capsules, may develop a kidney problem called acute tubulointerstitial nephritis that can happen at any time during treatment with esomeprazole magnesium delayed-release capsules.
   Call your doctor if you have a decrease in the amount that you urinate or if you have blood in your urine.
 - •Diarrhea.
   Esomeprazole magnesium delayed-release capsules may increase your risk of getting severe diarrhea.
@@ -102,8 +102,8 @@ Esomeprazole magnesium delayed-release capsules can cause serious side effects, 
 - •See “What is the most important information I should know about esomeprazole magnesium delayed-release capsules?”
 - •Vitamin B-12 deficiency.
   Esomeprazole magnesium delayed-release capsules reduce the amount of acid in your stomach.
-  Stomach acid is needed to absorb Vitamin B-12 properly.
-  Talk with your doctor about the possibility of Vitamin B-12 deficiency if you have been on esomeprazole magnesium delayed-release capsules for a long time (more than 3 years).
+  Stomach acid is needed to absorb vitamin B-12 properly.
+  Talk with your doctor about the possibility of vitamin B-12 deficiency if you have been on esomeprazole magnesium delayed-release capsules for a long time (more than 3 years).
 - •Low magnesium levels in your body.
   Low magnesium can happen in some people who take a PPI medicine for at least 3 months.
   If low magnesium levels happen, it is usually after a year of treatment.
@@ -161,39 +161,7 @@ For more information, call Mylan at 1-877-446-3679 (1-877-4-INFO-RX).
 
 What are the ingredients in esomeprazole magnesium delayed-release capsules?
 
-Active Ingredient: esomeprazole magnesium
+Active ingredient: esomeprazole magnesium
 
-Inactive Ingredients in Esomeprazole Magnesium Delayed-Release Capsules (including the capsule shells): crospovidone, gelatin, hydroxypropyl cellulose, mannitol, methacrylic acid - ethyl acrylate copolymer dispersion, sucrose, sugar spheres (corn starch and sucrose), talc, titanium dioxide and triethyl citrate.
+Inactive ingredients in esomeprazole magnesium delayed-release capsules (including the capsule shells): crospovidone, gelatin, hydroxypropyl cellulose, mannitol, methacrylic acid - ethyl acrylate copolymer dispersion, sucrose, sugar spheres (corn starch and sucrose), talc, titanium dioxide and triethyl citrate.
 The imprinting ink contains black iron oxide, potassium hydroxide, propylene glycol, shellac and strong ammonia solution.
-
-Instructions for Use
-
-For instructions on taking delayed-release capsules, see the section of this leaflet called “How should I take esomeprazole magnesium delayed-release capsules?”
-
-Esomeprazole magnesium delayed-release capsules may be given through a nasogastric tube (NG tube) or gastric tube, as prescribed by your doctor.
-Follow the instructions below:
-
-Esomeprazole Magnesium Delayed-Release Capsules:
-
-- •Open the capsule and empty the pellets into a 60 mL catheter tipped syringe.
-  Mix with 50 mL of water.
-  Use only a catheter tipped syringe to give esomeprazole magnesium delayed-release capsules through a NG tube.
-- •Replace the plunger and shake the syringe well for 15 seconds.
-  Hold the syringe with the tip up and check for pellets in the tip.
-- •Give the medicine right away.
-- •Do not give the pellets if they have dissolved or have broken into pieces.
-- •Attach the syringe to the NG tube.
-  Give the medicine in the syringe through the NG tube into the stomach.
-- •After giving the pellets, flush the NG tube with more water.
-
-This Medication Guide has been approved by the U.S. Food and Drug Administration.
-
-The brands listed are trademarks of their respective owners.
-
-Manufactured for: Mylan Pharmaceuticals Inc. Morgantown, WV 26505 U.S.A.
-
-Manufactured by: Mylan Laboratories Limited Hyderabad — 500 096, India
-
-75066598
-
-Revised: 11/2018 MX:ESOME:R6m/MX:MG:ESOME:R3m

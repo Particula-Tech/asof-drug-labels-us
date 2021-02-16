@@ -19,7 +19,7 @@ Table 3: Effect on Intragastric pH on Day 5 (N = 36)
 
 | Parameter | Esomeprazole Magnesium Delayed-Release Capsules 40 mg | Esomeprazole Magnesium Delayed-Release Capsules 20 mg |
 | --- | --- | --- |
-| % Time Gastric pH > 4Gastric pH was measured over a 24-hour period. (Hours) | 70%p < 0.01 esomeprazole magnesium delayed-release capsules 40 mg vs. esomeprazole magnesium delayed-release capsules 20 mg.(16.8 h) | 53%(12.7 h) |
+| % Time Gastric pH > 4Gastric pH was measured over a 24-hour period (Hours) | 70%p < 0.01 esomeprazole magnesium delayed-release capsules 40 mg vs. esomeprazole magnesium delayed-release capsules 20 mg(16.8 h) | 53%(12.7 h) |
 | Coefficient of variation | 26% | 37% |
 | Median 24 Hour pH | 4.9 | 4.1 |
 | Coefficient of variation | 16% | 27% |
@@ -59,21 +59,21 @@ Omeprazole given in oral doses of 30 or 40 mg for 2 to 4 weeks had no effect on 
 
 Esomeprazole magnesium delayed-release capsules contain an enteric-coated pellet formulation of esomeprazole magnesium.
 After oral administration, peak plasma levels (Cmax) occur at approximately 1.5 hours (Tmax).
-The Cmax increases proportionally when the dose is increased, and there is a 3-fold increase in the area under the plasma concentration-time curve (AUC) from 20 to 40 mg.
+The Cmax increases proportionally when the dose is increased, and there is a three-fold increase in the area under the plasma concentration-time curve (AUC) from 20 to 40 mg.
 At repeated once daily dosing with 40 mg, the systemic bioavailability is approximately 90% compared to 64% after a single dose of 40 mg.
 The mean exposure (AUC) to esomeprazole increases from 4.32 μmol*hr/L on Day 1 to 11.2 μmol*hr/L on Day 5 after 40 mg once daily dosing.
 
 The AUC after administration of a single 40 mg dose of esomeprazole magnesium delayed-release capsules is decreased by 43% to 53% after food intake compared to fasting conditions.
 Esomeprazole magnesium delayed-release capsules should be taken at least one hour before meals.
 
-The pharmacokinetic profile of esomeprazole magnesium delayed-release capsules was determined in 36 patients with symptomatic gastroesophageal reflux disease following repeated once daily administration of 20 mg and 40 mg capsules of esomeprazole over a period of 5 days.
+The pharmacokinetic profile of esomeprazole magnesium delayed-release capsules was determined in 36 patients with symptomatic gastroesophageal reflux disease following repeated once daily administration of 20 mg and 40 mg delayed-release capsules of esomeprazole magnesium over a period of 5 days.
 The results are shown in the Table 4:
 
 Table 4: Pharmacokinetic Parameters of Esomeprazole Magnesium Delayed-Release Capsules on Day 5 Following Oral Dosing for 5 Days
 
-| ParameterValues represent the geometric mean, except the Tmax, which is the arithmetic mean; CV = Coefficient of variation. (CV) | Esomeprazole Magnesium Delayed-Release Capsules 40 mg | Esomeprazole Magnesium Delayed-Release Capsules 20 mg |
+| ParameterValues represent the geometric mean, except the Tmax, which is the arithmetic mean; CV = Coefficient of variation (CV) | Esomeprazole Magnesium Delayed-Release Capsules 40 mg | Esomeprazole Magnesium Delayed-Release Capsules 20 mg |
 | --- | --- | --- |
-| AUC (μmol.h/L) | 12.6 (42%) | 4.2 (59%) |
+| AUC (μmol*h/L) | 12.6 (42%) | 4.2 (59%) |
 | Cmax (μmol/L) | 4.7 (37%) | 2.1 (45%) |
 | Tmax (h) | 1.6 | 1.6 |
 | t1/2 (h) | 1.5 | 1.2 |
@@ -145,9 +145,9 @@ Table 6: Summary of PK Parameters in 1 to 11 Year Olds with GERD Following 5 Day
 |  | 1 to 5 Year Olds | 6 to 11 Year Olds |  |
 | --- | --- | --- | --- |
 | Parameter | 10 mg (N = 8) | 10 mg (N = 7) | 20 mg (N = 6) |
-| AUC (μmolGeometric mean. h/L) | 4.83 | 3.70 | 6.28 |
+| AUC (μmol*h/L)Geometric mean | 4.83 | 3.70 | 6.28 |
 | Cmax (μmol/L) | 2.98 | 1.77 | 3.73 |
-| tmax (h)Arithmetic mean. | 1.44 | 1.79 | 1.75 |
+| tmax (h)Arithmetic mean | 1.44 | 1.79 | 1.75 |
 | t½λz (h) | 0.74 | 0.88 | 0.73 |
 | Cl/F (L/h) | 5.99 | 7.84 | 9.22 |
 
@@ -165,7 +165,7 @@ Data were obtained from two independent studies.
 |  | 12 to 17 Year Olds (N = 28) |  | Adults (N = 36) |  |
 | --- | --- | --- | --- | --- |
 | 20 mg | 40 mg | 20 mg | 40 mg |  |
-| AUC (μmolh/L) | 3.65 | 13.86 | 4.2 | 12.6 |
+| AUC (μmol*h/L) | 3.65 | 13.86 | 4.2 | 12.6 |
 | Cmax (μmol/L) | 1.45 | 5.13 | 2.1 | 4.7 |
 | tmax (h) | 2.00 | 1.75 | 1.6 | 1.6 |
 | t½λz (h) | 0.82 | 1.22 | 1.2 | 1.5 |
@@ -211,11 +211,11 @@ One patient had a baseline H. pylori isolate with an amoxicillin MIC = 0.5 mcg/m
 
 The baseline H. pylori clarithromycin susceptibility results and the H. pylori eradication results at the Day 38 visit are shown in the Table 8:
 
-Table 8: Clarithromycin Susceptibility Test Results and Clinical/Bacteriological OutcomesIncludes only patients with pretreatment and post-treatment clarithromycin susceptibility test results. for Triple Therapy - (Esomeprazole Magnesium 40 mg Once Daily/Amoxicillin 1000 mg Twice Daily/Clarithromycin 500 mg Twice Daily for 10 Days)
+Table 8: Clarithromycin Susceptibility Test Results and Clinical/Bacteriological OutcomesIncludes only patients with pretreatment and post-treatment clarithromycin susceptibility test results for Triple Therapy - (Esomeprazole Magnesium 40 mg Once Daily/Amoxicillin 1000 mg Twice Daily/Clarithromycin 500 mg Twice Daily for 10 Days)
 
 | ClarithromycinPretreatment Results |  | H. pylori negative(Eradicated) | H. pylori positive(Not Eradicated)Post-treatment susceptibility results |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- |
-|  |  |  | SSusceptible (S) MIC ≤ 0.25 mcg/mL, Intermediate (I) MIC = 0.5 mcg/mL, Resistant (R) MIC ≥ 1.0 mcg/mL. | I | R | No MIC |
+|  |  |  | SSusceptible (S) MIC ≤ 0.25 mcg/mL, Intermediate (I) MIC = 0.5 mcg/mL, Resistant (R) MIC ≥ 1.0 mcg/mL | I | R | No MIC |
 | Susceptible | 182 | 162 | 4 | 0 | 2 | 14 |
 | Intermediate | 1 | 1 | 0 | 0 | 0 | 0 |
 | Resistant | 29 | 13 | 1 | 0 | 13 | 2 |

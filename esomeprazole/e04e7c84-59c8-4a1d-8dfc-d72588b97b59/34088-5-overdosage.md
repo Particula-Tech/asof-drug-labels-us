@@ -7,7 +7,7 @@ The symptoms described in connection with deliberate esomeprazole overdose (limi
 Single doses of 80 mg of esomeprazole were uneventful.
 Reports of overdosage with omeprazole in humans may also be relevant.
 Doses ranged up to 2,400 mg (120 times the usual recommended clinical dose).
-Manifestations were variable, but included confusion, drowsiness, blurred vision, tachycardia, nausea, diaphoresis, flushing, headache, dry mouth, and other adverse reactions similar to those seen in normal clinical experience (see omeprazole package insert – Adverse Reactions).
+Manifestations were variable, but included confusion, drowsiness, blurred vision, tachycardia, nausea, diaphoresis, flushing, headache, dry mouth, and other adverse reactions similar to those seen in normal clinical experience (see omeprazole package insert - Adverse Reactions).
 No specific antidote for esomeprazole is known.
 Since esomeprazole is extensively protein bound, it is not expected to be removed by dialysis.
 In the event of overdosage, treatment should be symptomatic and supportive.
