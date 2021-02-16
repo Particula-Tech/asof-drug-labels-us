@@ -1,0 +1,20 @@
+{
+  "application_numbers": [
+    "NDA214047"
+  ],
+  "inn": "levothyroxine",
+  "labeler": "GALENICA S.A.",
+  "package_ndcs": [
+    "81116-100-01",
+    "81116-100-02"
+  ],
+  "products": [
+    {
+      "form": "SOLUTION",
+      "generic": "levothyroxine sodium",
+      "name": "THYQUIDITY"
+    }
+  ],
+  "setid": "b5821ff7-e2b1-1ada-e053-2995a90aa520",
+  "source": "dailymed"
+}
