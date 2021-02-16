@@ -66,7 +66,7 @@ No adverse events in the infant were reported by the mother.
 
 ## 8.4 Pediatric Use
 
-The safety and effectiveness of pantoprazole for short-term treatment (up to 8 weeks) of EE associated with GERD have been established in pediatric patients 1 year through 16 years of age.
+The safety and effectiveness of pantoprazole for short-term treatment (up to eight weeks) of EE associated with GERD have been established in pediatric patients 1 year through 16 years of age.
 Effectiveness for EE has not been demonstrated in patients less than 1 year of age.
 In addition, for patients less than 5 years of age, there is no appropriate dosage strength in an age-appropriate formulation available.
 Therefore, pantoprazole sodium delayed-release tablets are indicated for the short-term treatment of EE associated with GERD for patients 5 years and older.
@@ -74,7 +74,7 @@ The safety and effectiveness of pantoprazole sodium delayed-release tablets for 
 
 ### 1 Year Through 16 Years of Age
 
-Use of pantoprazole in pediatric patients 1 year through 16 years of age for short-term treatment (up to 8 weeks) of EE associated with GERD is supported by: a) extrapolation of results from adequate and well-controlled studies that supported the approval of pantoprazole sodium delayed-release tablets for treatment of EE associated with GERD in adults, and b) safety, effectiveness, and pharmacokinetic studies performed in pediatric patients [see Clinical Studies (14.1), Clinical Pharmacology (12.3)].
+Use of pantoprazole in pediatric patients 1 year through 16 years of age for short-term treatment (up to eight weeks) of EE associated with GERD is supported by: a) extrapolation of results from adequate and well-controlled studies that supported the approval of pantoprazole sodium delayed-release tablets for treatment of EE associated with GERD in adults, and b) safety, effectiveness, and pharmacokinetic studies performed in pediatric patients [see Clinical Studies (14.1), Clinical Pharmacology (12.3)].
 
 Safety of pantoprazole in the treatment of EE associated with GERD in pediatric patients 1 through 16 years of age was evaluated in three multicenter, randomized, double-blind, parallel-treatment studies, involving 249 pediatric patients, including 8 with EE (4 patients ages 1 year to 5 years and 4 patients 5 years to 11 years).
 The children ages 1 year to 5 years with endoscopically diagnosed EE (defined as an endoscopic Hetzel-Dent score ≥ 2) were treated once daily for 8 weeks with one of two dose levels of pantoprazole (approximating 0.6 mg/kg or 1.2 mg/kg).
@@ -91,12 +91,12 @@ In a population pharmacokinetic analysis, clearance values in the children 1 to 
 Following a 1.2 mg/kg equivalent dose (15 mg for ≤ 12.5 kg and 20 mg for > 12.5 to < 25 kg), the plasma concentrations of pantoprazole were highly variable and the median time to peak plasma concentration was 3 to 6 hours.
 The estimated AUC for patients 1 to 5 years old was 37% higher than for adults receiving a single 40 mg tablet, with a geometric mean AUC value of 6.8 μg•hr/mL.
 
-### Neonates to Less Than 1 Year of Age
+### Neonates to Less Than One Year of Age
 
 Pantoprazole was not found to be effective in a multicenter, randomized, double-blind, placebo-controlled, treatment-withdrawal study of 129 pediatric patients 1 through 11 months of age.
-Patients were enrolled if they had symptomatic GERD based on medical history and had not responded to non-pharmacologic interventions for GERD for 2 weeks.
-Patients received pantoprazole daily for 4 weeks in an open-label phase, then patients were randomized in equal proportion to receive pantoprazole treatment or placebo for the subsequent 4 weeks in a double-blind manner.
-Efficacy was assessed by observing the time from randomization to study discontinuation due to symptom worsening during the 4-week treatment-withdrawal phase.
+Patients were enrolled if they had symptomatic GERD based on medical history and had not responded to non-pharmacologic interventions for GERD for two weeks.
+Patients received pantoprazole daily for four weeks in an open-label phase, then patients were randomized in equal proportion to receive pantoprazole treatment or placebo for the subsequent four weeks in a double-blind manner.
+Efficacy was assessed by observing the time from randomization to study discontinuation due to symptom worsening during the four-week treatment-withdrawal phase.
 There was no statistically significant difference between pantoprazole and placebo in the rate of discontinuation.
 
 In this trial, the adverse reactions that were reported more commonly (difference of ≥ 4%) in the treated population compared to the placebo population were elevated CK, otitis media, rhinitis, and laryngitis.

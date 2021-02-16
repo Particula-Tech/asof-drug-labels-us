@@ -15,7 +15,7 @@ Table 8: Erosive Esophagitis Healing Rates (Per Protocol)
 |  | Pantoprazole Sodium Delayed-Release Tablets |  |  | Placebo |
 | --- | --- | --- | --- | --- |
 | Week | 10 mg daily (n = 153) | 20 mg daily (n = 158) | 40 mg daily (n = 162) | (n = 68) |
-| 4 | 45.6%(p < 0.001) pantoprazole sodium delayed-release tablets vs. placebo | 58.4%(p < 0.05) vs. 10 mg or 20 mg pantoprazole sodium delayed-release tablets | 75.0%(p < 0.05) vs. 10 mg pantoprazole sodium delayed-release tablets | 14.3% |
+| 4 | 45.6%(p < 0.001) pantoprazole sodium delayed-release tablets versus placebo | 58.4%(p < 0.05) versus 10 mg or 20 mg pantoprazole sodium delayed-release tablets | 75.0%(p < 0.05) versus 10 mg pantoprazole sodium delayed-release tablets | 14.3% |
 | 8 | 66.0% | 83.5% | 92.6% | 39.7% |
 
 In this study, all pantoprazole sodium delayed-release tablet treatment groups had significantly greater healing rates than the placebo group.
@@ -33,7 +33,7 @@ Table 9: Erosive Esophagitis Healing Rates (Per Protocol)
 |  | Pantoprazole Sodium Delayed-Release Tablets |  | Nizatidine |
 | --- | --- | --- | --- |
 | Week | 20 mg daily (n = 72) | 40 mg daily (n = 70) | 150 mg twice daily (n = 70) |
-| 4 | 61.4% (p < 0.001) pantoprazole sodium delayed-release tablets vs. nizatidine | 64.0% | 22.2% |
+| 4 | 61.4% (p < 0.001) pantoprazole sodium delayed-release tablets versus nizatidine | 64.0% | 22.2% |
 | 8 | 79.2% | 82.9% | 41.4% |
 
 Once-daily treatment with pantoprazole sodium delayed-release tablets 40 mg or 20 mg resulted in significantly superior rates of healing at both 4 and 8 weeks compared with twice-daily treatment with 150 mg of nizatidine.

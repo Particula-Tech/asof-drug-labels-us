@@ -10,7 +10,7 @@ The binding to the (H+, K+)-ATPase results in a duration of antisecretory effect
 
 Pantoprazole sodium for delayed-release oral suspension, 40 mg has been shown to be comparable to pantoprazole sodium delayed-release tablets in suppressing pentagastrin-stimulated MAO in patients (n = 49) with GERD and a history of EE.
 In this multicenter, pharmacodynamic crossover study, a 40 mg oral dose of pantoprazole sodium for delayed-release oral suspension administered in a teaspoonful of applesauce was compared with a 40 mg oral dose of pantoprazole sodium delayed-release tablets after administration of each formulation once daily for 7 days.
-Both medications were administered 30 minutes before breakfast.
+Both medications were administered thirty minutes before breakfast.
 Pentagastrin-stimulated (MAO) was assessed from hour 23 to 24 at steady-state.
 
 ### Antisecretory Activity
@@ -69,9 +69,9 @@ In a 1-year study of GERD patients treated with pantoprazole sodium delayed-rele
 Pantoprazole sodium delayed-release tablets are prepared as enteric-coated tablets so that absorption of pantoprazole begins only after the tablet leaves the stomach.
 Peak serum concentration (Cmax) and area under the serum concentration time curve (AUC) increase in a manner proportional to oral and intravenous doses from 10 mg to 80 mg.
 Pantoprazole does not accumulate, and its pharmacokinetics are unaltered with multiple daily dosing.
-Following oral or intravenous administration, the serum concentration of pantoprazole declines biexponentially, with a terminal elimination half-life of approximately 1 hour.
+Following oral or intravenous administration, the serum concentration of pantoprazole declines biexponentially, with a terminal elimination half-life of approximately one hour.
 
-In extensive metabolizers with normal liver function receiving an oral dose of the enteric-coated 40 mg pantoprazole tablet, the peak concentration (Cmax) is 2.5 µg/mL; the time to reach the peak concentration (tmax) is 2.5 h, and the mean total area under the plasma concentration vs. time curve (AUC) is 4.8 µg•h/mL (range 1.4 to 13.3 µg•h/mL).
+In extensive metabolizers with normal liver function receiving an oral dose of the enteric-coated 40 mg pantoprazole tablet, the peak concentration (Cmax) is 2.5 µg/mL; the time to reach the peak concentration (tmax) is 2.5 h, and the mean total area under the plasma concentration versus time curve (AUC) is 4.8 µg•h/mL (range 1.4 to 13.3 µg•h/mL).
 Following intravenous administration of pantoprazole to extensive metabolizers, its total clearance is 7.6-14.0 L/h, and its apparent volume of distribution is 11.0-23.6 L.
 
 ### Absorption
@@ -171,7 +171,7 @@ The clinical significance of this finding is not clear.
 
 ##### Mycophenolate Mofetil (MMF)
 
-Administration of pantoprazole 40 mg twice daily for 4 days and a single 1000 mg dose of MMF approximately 1 hour after the last dose of pantoprazole to 12 healthy subjects in a cross-over study resulted in a 57% reduction in the Cmax and 27% reduction in the AUC of MPA.
+Administration of pantoprazole 40 mg twice daily for 4 days and a single 1000 mg dose of MMF approximately one hour after the last dose of pantoprazole to 12 healthy subjects in a cross-over study resulted in a 57% reduction in the Cmax and 27% reduction in the AUC of MPA.
 Transplant patients receiving approximately 2000 mg per day of MMF (n = 12) were compared to transplant patients receiving approximately the same dose of MMF and pantoprazole 40 mg per day (n = 21).
 There was a 78% reduction in the Cmax and a 45% reduction in the AUC of MPA in patients receiving both pantoprazole and MMF [see Drug Interactions (7)].
 

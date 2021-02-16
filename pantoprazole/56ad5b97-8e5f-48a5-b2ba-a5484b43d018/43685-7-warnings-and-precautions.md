@@ -6,11 +6,12 @@ In adults, symptomatic response to therapy with pantoprazole sodium delayed-rele
 Consider additional follow-up and diagnostic testing in adult patients who have a suboptimal response or an early symptomatic relapse after completing treatment with a PPI.
 In older patients, also consider an endoscopy.
 
-## 5.2 Acute Interstitial Nephritis
+## 5.2 Acute Tubulointerstitial Nephritis
 
-Acute interstitial nephritis has been observed in patients taking PPIs including pantoprazole sodium delayed-release tablets.
-Acute interstitial nephritis may occur at any point during PPI therapy and is generally attributed to an idiopathic hypersensitivity reaction.
-Discontinue pantoprazole sodium delayed-release tablets if acute interstitial nephritis develops [see Contraindications (4)].
+Acute tubulointerstitial nephritis (TIN) has been observed in patients taking PPIs and may occur at any point during PPI therapy.
+Patients may present with varying signs and symptoms from symptomatic hypersensitivity reactions to non-specific symptoms of decreased renal function (e.g., malaise, nausea, anorexia).
+In reported case series, some patients were diagnosed on biopsy and in the absence of extra-renal manifestations (e.g., fever, rash or arthralgia).
+Discontinue pantoprazole sodium delayed-release tablets and evaluate patients with suspected acute TIN [see Contraindications (4)].
 
 ## 5.3 Clostridium difficile-Associated Diarrhea
 
@@ -53,7 +54,7 @@ This diagnosis should be considered if clinical symptoms consistent with cyanoco
 
 ## 5.7 Hypomagnesemia
 
-Hypomagnesemia, symptomatic and asymptomatic, has been reported rarely in patients treated with PPIs for at least 3 months, and in most cases after a year of therapy.
+Hypomagnesemia, symptomatic and asymptomatic, has been reported rarely in patients treated with PPIs for at least three months, and in most cases after a year of therapy.
 Serious adverse events include tetany, arrhythmias, and seizures.
 In most patients, treatment of hypomagnesemia required magnesium replacement and discontinuation of the PPI.
 
@@ -67,7 +68,7 @@ The relevance of these findings to tumor development in humans is unknown [see N
 
 ## 5.9 Fundic Gland Polyps
 
-PPI use is associated with an increased risk of fundic gland polyps that increases with long-term use, especially beyond 1 year.
+PPI use is associated with an increased risk of fundic gland polyps that increases with long-term use, especially beyond one year.
 Most PPI users who developed fundic gland polyps were asymptomatic and fundic gland polyps were identified incidentally on endoscopy.
 Use the shortest duration of PPI therapy appropriate to the condition being treated.
 
