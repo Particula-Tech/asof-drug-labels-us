@@ -124,9 +124,10 @@ Active ingredient: human insulin
 
 Inactive ingredients: fumaryl diketopiperazine, polysorbate 80
 
-AFREZZA® is a registered trademark owned by MannKind Corporation
+AFREZZA® is a registered trademark of MannKind Corporation
 
-Patented: http://www.mannkindcorp.com/research-development/patent-notices
+Patented.
+See http://mannkindcorp.com/patent-notices
 
 MannKind Corporation, Danbury, CT 06810
 
@@ -134,4 +135,4 @@ For more information, go to www.AFREZZA.com or call MannKind Corp. 1-877-323-850
 
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
 
-Revised 10/2018
+Revised 02/2020

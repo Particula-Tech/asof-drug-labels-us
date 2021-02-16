@@ -71,8 +71,6 @@ Know your AFREZZA® cartridges:
 
 | How should I store AFREZZA? |
 | --- |
-| *If a foil package, blister card or strip is not refrigerated, the contents must be used within 10 days |
-| Do not put a blister card or strip back into the refrigerator after being stored at room temperature |
 
 | Caring for your AFREZZA inhaler: |  |  |
 | --- | --- | --- |
@@ -85,10 +83,11 @@ Know your AFREZZA® cartridges:
 
 This Instructions for Use has been approved by the U.S. Food and Drug Administration.
 
-AFREZZA® is a registered trademark owned by MannKind Corporation
+AFREZZA® is a registered trademark of MannKind Corporation
 
-Patented: See http://www.mannkindcorp.com/research-development/patent-notices
+Patented.
+See http://www.mannkindcorp.com/patent-notices
 
 MannKind Corporation Danbury, CT 06810
 
-Revised: 03/2017
+Revised: 02/2020
