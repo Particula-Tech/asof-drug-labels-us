@@ -5,19 +5,13 @@ Valium is available as follows: 2 mg, white - bottles of 100 (NDC 0140-0004-01);
 
 Engraved on tablets:
 
-2 mg—2 VALIUM® (front)
+2 mg—2 VALIUM® (front) ROCHE (twice on scored side)
 
-ROCHE (twice on scored side)
+5 mg—5 VALIUM® (front) ROCHE (twice on scored side)
 
-5 mg—5 VALIUM® (front)
+10 mg—10 VALIUM® (front) ROCHE (twice on scored side)
 
-ROCHE (twice on scored side)
+## Storage
 
-10 mg—10 VALIUM® (front)
-
-ROCHE (twice on scored side)
-
-## STORAGE
-
-Store at room temperature 59° to 86°F (15° to 30°C).
+Store at room temperature 59º to 86ºF (15º to 30ºC).
 Dispense in tight, light-resistant containers as defined in USP/NF.

@@ -3,44 +3,26 @@
 Side effects most commonly reported were drowsiness, fatigue, muscle weakness, and ataxia.
 The following have also been reported:
 
-## Central Nervous System:
+Central Nervous System: confusion, depression, dysarthria, headache, slurred speech, tremor, vertigo
 
-confusion, depression, dysarthria, headache, slurred speech, tremor, vertigo
+Gastrointestinal System: constipation, nausea, gastrointestinal disturbances
 
-## Gastrointestinal System:
+Special Senses: blurred vision, diplopia, dizziness
 
-constipation, nausea, gastrointestinal disturbances
+Cardiovascular System: hypotension
 
-## Special Senses:
-
-blurred vision, diplopia, dizziness
-
-## Cardiovascular System:
-
-hypotension
-
-## Psychiatric and Paradoxical Reactions:
-
-stimulation, restlessness, acute hyperexcited states, anxiety, agitation, aggressiveness, irritability, rage, hallucinations, psychoses, delusions, increased muscle spasticity, insomnia, sleep disturbances, and nightmares.
+Psychiatric and Paradoxical Reactions: stimulation, restlessness, acute hyperexcited states, anxiety, agitation, aggressiveness, irritability, rage, hallucinations, psychoses, delusions, increased muscle spasticity, insomnia, sleep disturbances, and nightmares.
 Inappropriate behavior and other adverse behavioral effects have been reported when using benzodiazepines.
 Should these occur, use of the drug should be discontinued.
 They are more likely to occur in children and in the elderly.
 
-## Urogenital System:
+Urogenital System: incontinence, changes in libido, urinary retention
 
-incontinence, changes in libido, urinary retention
+Skin and Appendages: skin reactions
 
-## Skin and Appendages:
+Laboratories: elevated transaminases and alkaline phosphatase
 
-skin reactions
-
-## Laboratories:
-
-elevated transaminases and alkaline phosphatase
-
-## Other:
-
-changes in salivation, including dry mouth, hypersalivation
+Other: changes in salivation, including dry mouth, hypersalivation
 
 Antegrade amnesia may occur using therapeutic dosages, the risk increasing at higher dosages.
 Amnestic effects may be associated with inappropriate behavior.
