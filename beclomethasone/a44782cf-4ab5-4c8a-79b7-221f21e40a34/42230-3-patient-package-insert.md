@@ -71,14 +71,16 @@ The full benefit of BECONASE AQ Nasal Spray may take a few days to develop.
 
 Storage: Store between 15° and 30°C (59° and 86°F).
 
+Distributed by:
+
 GlaxoSmithKline
 
 Research Triangle Park, NC 27709
 
 Trademarks are owned by or licensed to the GSK group of companies.
 
-©2019 GSK group of companies or its licensor.
+©2021 GSK group of companies or its licensor.
 
-April 2019
+February 2021
 
-BCN:2PIL
+BCN:3PIL
