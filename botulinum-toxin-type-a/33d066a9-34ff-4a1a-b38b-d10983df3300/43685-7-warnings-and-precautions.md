@@ -61,9 +61,9 @@ These reactions can occur within hours to weeks after injection with botulinum t
 ## 5.7Pulmonary Effects of BOTOX in Patients with Compromised Respiratory Status Treated for Spasticity or for Detrusor Overactivity Associated with a Neurologic Condition
 
 Patients with compromised respiratory status treated with BOTOX for spasticity should be monitored closely.
-In a double-blind, placebo-controlled, parallel group study in adult patients treated for upper limb spasticity with stable reduced pulmonary function (defined as FEV1 40-80% of predicted value and FEV1/FVC ≤ 0.75), the event rate in change of Forced Vital Capacity (FVC) ≥15% or ≥20% was generally greater in patients treated with BOTOX than in patients treated with placebo (see Table 7).
+In a double-blind, placebo-controlled, parallel group study in adult patients treated for upper limb spasticity with stable reduced pulmonary function (defined as FEV1 40-80% of predicted value and FEV1/FVC ≤ 0.75), the event rate in change of Forced Vital Capacity (FVC) ≥15% or ≥20% was generally greater in patients treated with BOTOX than in patients treated with placebo (see Table 8).
 
-Table 7: Event Rate Per Patient Treatment Cycle Among Adult Upper Limb Spasticity Patients with Reduced Lung Function Who Experienced at Least a 15% or 20% Decrease in FVC From Baseline at Week 1, 6, 12 Post-injection with Up to Two Treatment Cycles with BOTOX or Placebo
+Table 8: Event Rate Per Patient Treatment Cycle Among Adult Upper Limb Spasticity Patients with Reduced Lung Function Who Experienced at Least a 15% or 20% Decrease in FVC From Baseline at Week 1, 6, 12 Post-injection with Up to Two Treatment Cycles with BOTOX or Placebo
 
 |  | BOTOX 360 Units |  | BOTOX 240 Units |  | Placebo |  |
 | --- | --- | --- | --- | --- | --- | --- |
@@ -76,9 +76,9 @@ Differences from placebo were not statistically significant
 
 In adult spasticity patients with reduced lung function, upper respiratory tract infections were also reported more frequently as adverse reactions in patients treated with BOTOX than in patients treated with placebo [see Warnings and Precautions (5.10)].
 
-In a double-blind, placebo-controlled, parallel group study in adult patients with detrusor overactivity associated with a neurologic condition and restrictive lung disease of neuromuscular etiology [defined as FVC 50-80% of predicted value in patients with spinal cord injury between C5 and C8, or MS] the event rate in change of Forced Vital Capacity ≥15% or ≥20% was generally greater in patients treated with BOTOX than in patients treated with placebo (see Table 8).
+In a double-blind, placebo-controlled, parallel group study in adult patients with detrusor overactivity associated with a neurologic condition and restrictive lung disease of neuromuscular etiology [defined as FVC 50-80% of predicted value in patients with spinal cord injury between C5 and C8, or MS] the event rate in change of Forced Vital Capacity ≥15% or ≥20% was generally greater in patients treated with BOTOX than in patients treated with placebo (see Table 9).
 
-Table 8: Number and Percent of Patients Experiencing at Least a 15% or 20% Decrease in FVC From Baseline at Week 2, 6, 12 Post-Injection with BOTOX or Placebo
+Table 9: Number and Percent of Patients Experiencing at Least a 15% or 20% Decrease in FVC From Baseline at Week 2, 6, 12 Post-Injection with BOTOX or Placebo
 
 |  | BOTOX 200 Units |  | Placebo |  |
 | --- | --- | --- | --- | --- |
@@ -109,7 +109,7 @@ In pediatric patients treated for lower limb spasticity, upper respiratory tract
 ## 5.11Autonomic Dysreflexia in Patients Treated for Detrusor Overactivity Associated with a Neurologic Condition
 
 Autonomic dysreflexia associated with intradetrusor injections of BOTOX could occur in patients treated for detrusor overactivity associated with a neurologic condition and may require prompt medical therapy.
-In clinical trials, the incidence of autonomic dysreflexia was greater in patients treated with BOTOX 200 Units compared with placebo (1.5% versus 0.4%, respectively).
+In clinical trials, the incidence of autonomic dysreflexia was greater in adult patients treated with BOTOX 200 Units compared with placebo (1.5% versus 0.4%, respectively).
 
 ## 5.12Urinary Tract Infections in Patients with Overactive Bladder
 
@@ -117,7 +117,7 @@ BOTOX increases the incidence of urinary tract infection [see Adverse Reactions 
 Clinical trials for overactive bladder excluded patients with more than 2 UTIs in the past 6 months and those taking antibiotics chronically due to recurrent UTIs.
 Use of BOTOX for the treatment of overactive bladder in such patients and in patients with multiple recurrent UTIs during treatment should only be considered when the benefit is likely to outweigh the potential risk.
 
-## 5.13Urinary Retention in Patients Treated for Bladder Dysfunction
+## 5.13Urinary Retention in Adults Treated for Bladder Dysfunction
 
 Due to the risk of urinary retention, treat only patients who are willing and able to initiate catheterization post-treatment, if required, for urinary retention.
 
@@ -125,14 +125,14 @@ In patients who are not catheterizing, post-void residual (PVR) urine volume sho
 Depending on patient symptoms, institute catheterization if PVR urine volume exceeds 200 mL and continue until PVR falls below 200 mL.
 Instruct patients to contact their physician if they experience difficulty in voiding as catheterization may be required.
 
-The incidence and duration of urinary retention is described below for patients with overactive bladder and detrusor overactivity associated with a neurologic condition who received BOTOX or placebo injections.
+The incidence and duration of urinary retention is described below for adult patients with overactive bladder and detrusor overactivity associated with a neurologic condition who received BOTOX or placebo injections.
 
 Overactive Bladder
 
-In double-blind, placebo-controlled trials in patients with OAB, the proportion of subjects who initiated clean intermittent catheterization (CIC) for urinary retention following treatment with BOTOX or placebo is shown in Table 9.
+In double-blind, placebo-controlled trials in patients with OAB, the proportion of subjects who initiated clean intermittent catheterization (CIC) for urinary retention following treatment with BOTOX or placebo is shown in Table 10.
 The duration of post-injection catheterization for those who developed urinary retention is also shown.
 
-Table 9: Proportion of Patients Catheterizing for Urinary Retention and Duration of Catheterization Following an Injection in Double-Blind, Placebo-Controlled Clinical Trials in OAB
+Table 10: Proportion of Patients Catheterizing for Urinary Retention and Duration of Catheterization Following an Injection in Double-Blind, Placebo-Controlled Clinical Trials in OAB
 
 | Timepoint | BOTOX 100 Units (N=552) | Placebo (N=542) |
 | --- | --- | --- |
@@ -142,21 +142,21 @@ Table 9: Proportion of Patients Catheterizing for Urinary Retention and Duration
 | Median | 63 | 11 |
 | Min, Max | 1, 214 | 3, 18 |
 
-Patients with diabetes mellitus treated with BOTOX were more likely to develop urinary retention than those without diabetes, as shown in Table 10.
+Patients with diabetes mellitus treated with BOTOX were more likely to develop urinary retention than those without diabetes, as shown in Table 11.
 
-Table 10: Proportion of Patients Experiencing Urinary Retention Following an Injection in Double-Blind, Placebo-Controlled Clinical Trials in OAB According to History of Diabetes Mellitus
+Table 11: Proportion of Patients Experiencing Urinary Retention Following an Injection in Double-Blind, Placebo-Controlled Clinical Trials in OAB According to History of Diabetes Mellitus
 
 |  | Patients with Diabetes |  | Patients without Diabetes |  |
 | --- | --- | --- | --- | --- |
 |  | BOTOX 100 Units (N=81) | Placebo (N=69) | BOTOX 100 Units (N=526) | Placebo (N=516) |
 | Urinary retention | 12.3% (n=10) | 0 | 6.3% (n=33) | 0.6% (n=3) |
 
-Detrusor Overactivity associated with a Neurologic Condition
+Adult Detrusor Overactivity associated with a Neurologic Condition
 
-In two double-blind, placebo-controlled trials in patients with detrusor overactivity associated with a neurologic condition (NDO-1 and NDO-2), the proportion of subjects who were not using clean intermittent catheterization (CIC) prior to injection and who subsequently required catheterization for urinary retention following treatment with BOTOX 200 Units or placebo is shown in Table 11.
+In two double-blind, placebo-controlled trials in adult patients with detrusor overactivity associated with a neurologic condition (NDO-1 and NDO-2), the proportion of subjects who were not using clean intermittent catheterization (CIC) prior to injection and who subsequently required catheterization for urinary retention following treatment with BOTOX 200 Units or placebo is shown in Table 12.
 The duration of post-injection catheterization for those who developed urinary retention is also shown.
 
-Table 11: Proportion of Patients Not Using CIC at Baseline and then Catheterizing for Urinary Retention and Duration of Catheterization Following an Injection in Double-Blind, Placebo-Controlled Clinical Trials
+Table 12: Proportion of Adult Patients Not Using CIC at Baseline and then Catheterizing for Urinary Retention and Duration of Catheterization Following an Injection in Double-Blind, Placebo-Controlled Clinical Trials
 
 | Timepoint | BOTOX 200 Units (N=108) | Placebo (N=104) |
 | --- | --- | --- |
@@ -166,16 +166,16 @@ Table 11: Proportion of Patients Not Using CIC at Baseline and then Catheterizin
 | Median | 289 | 358 |
 | Min, Max | 1, 530 | 2, 379 |
 
-Among patients not using CIC at baseline, those with Multiple Sclerosis (MS) were more likely to require CIC post-injection than those with Spinal Cord Injury (SCI) (see Table 12).
+Among adult patients not using CIC at baseline, those with Multiple Sclerosis (MS) were more likely to require CIC post-injection than those with Spinal Cord Injury (SCI) (see Table 13).
 
-Table 12: Proportion of Patients by Etiology (MS and SCI) Not Using CIC at Baseline and then Catheterizing for Urinary Retention Following an Injection in Double-Blind, Placebo-Controlled Clinical Trials
+Table 13: Proportion of Adult Patients by Etiology (MS and SCI) Not Using CIC at Baseline and then Catheterizing for Urinary Retention Following an Injection in Double-Blind, Placebo-Controlled Clinical Trials
 
 | Timepoint | MS |  | SCI |  |
 | --- | --- | --- | --- | --- |
 |  | BOTOX 200 Units (N=86) | Placebo (N=88) | BOTOX 200 Units (N=22) | Placebo (N=16) |
 | At any time during complete treatment cycle | 31% (n=27) | 5% (n=4) | 27% (n=6) | 19% (n=3) |
 
-A placebo-controlled, double-blind post-approval 52 week study with BOTOX 100 Units (Study NDO-3) was conducted in non-catheterizing MS patients with urinary incontinence due to detrusor overactivity associated with a neurologic condition.
+A placebo-controlled, double-blind post-approval 52 week study with BOTOX 100 Units (Study NDO-3) was conducted in non-catheterizing adult MS patients with urinary incontinence due to detrusor overactivity associated with a neurologic condition.
 Catheterization for urinary retention was initiated in 15.2% (10/66) of patients following treatment with BOTOX 100 Units versus 2.6% (2/78) on placebo at any time during the complete treatment cycle.
 The median duration of post-injection catheterization for those who developed urinary retention was 64 days for BOTOX 100 Units and 2 days for placebo.
 

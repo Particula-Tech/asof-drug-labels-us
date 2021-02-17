@@ -24,7 +24,7 @@ Distributed by: Allergan USA, Inc.
 
 Madison, NJ 07940
 
-© 2020 Allergan.
+© 2021 Allergan.
 All rights reserved.
 
 All trademarks are the property of their respective owners.
@@ -32,4 +32,4 @@ All trademarks are the property of their respective owners.
 Patented.
 See: www.allergan.com/patents
 
-v6.0USPI1145
+v7.0USPI1145

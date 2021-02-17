@@ -32,9 +32,9 @@ However, weakness of nearby muscles may also occur due to spread of toxin [see W
 
 Overactive Bladder
 
-Table 13 presents the most frequently reported adverse reactions in double-blind, placebo-controlled clinical trials for overactive bladder occurring within 12 weeks of the first BOTOX treatment.
+Table 14 presents the most frequently reported adverse reactions in double-blind, placebo-controlled clinical trials for overactive bladder occurring within 12 weeks of the first BOTOX treatment.
 
-Table 13: Adverse Reactions Reported by ≥2% of BOTOX Treated Patients and More Often than in Placebo-Treated Patients Within the First 12 Weeks after Intradetrusor Injection, in Double-Blind, Placebo-Controlled Clinical Trials in Patients with OAB
+Table 14: Adverse Reactions Reported by ≥2% of BOTOX Treated Patients and More Often than in Placebo-Treated Patients Within the First 12 Weeks after Intradetrusor Injection, in Double-Blind, Placebo-Controlled Clinical Trials in Patients with OAB
 
 | Adverse Reactions | BOTOX 100 Units (N=552) % | Placebo (N=542) % |
 | --- | --- | --- |
@@ -43,9 +43,9 @@ Table 13: Adverse Reactions Reported by ≥2% of BOTOX Treated Patients and More
 *Elevated PVR not requiring catheterization.
 Catheterization was required for PVR >350 mL regardless of symptoms, and for PVR >200 mL to <350 mL with symptoms (e.g., voiding difficulty).
 
-A higher incidence of urinary tract infection was observed in patients with diabetes mellitus treated with BOTOX 100 Units and placebo than in patients without diabetes, as shown in Table 14.
+A higher incidence of urinary tract infection was observed in patients with diabetes mellitus treated with BOTOX 100 Units and placebo than in patients without diabetes, as shown in Table 15.
 
-Table 14: Proportion of Patients Experiencing Urinary Tract Infection following an Injection in Double-Blind, Placebo-Controlled Clinical Trials in OAB According to History of Diabetes Mellitus
+Table 15: Proportion of Patients Experiencing Urinary Tract Infection Following an Injection in Double-Blind, Placebo-Controlled Clinical Trials in OAB According to History of Diabetes Mellitus
 
 |  | Patients with Diabetes |  | Patients without Diabetes |  |
 | --- | --- | --- | --- | --- |
@@ -56,11 +56,11 @@ The incidence of UTI increased in patients who experienced a maximum post-void r
 
 No change was observed in the overall safety profile with repeat dosing during an open-label, uncontrolled extension trial.
 
-Detrusor Overactivity associated with a Neurologic Condition
+Adult Detrusor Overactivity associated with a Neurologic Condition
 
-Table 15 presents the most frequently reported adverse reactions in the double-blind, placebo-controlled studies within 12 weeks of injection for patients with detrusor overactivity associated with a neurologic condition treated with BOTOX 200 Units.
+Table 16 presents the most frequently reported adverse reactions in the double-blind, placebo-controlled studies within 12 weeks of injection for patients with detrusor overactivity associated with a neurologic condition treated with BOTOX 200 Units.
 
-Table 15: Adverse Reactions Reported by >2% of BOTOX-Treated Patients and More Frequent than in Placebo-Treated Patients Within the First 12 Weeks after Intradetrusor Injection in Double-Blind, Placebo-Controlled Clinical Trials
+Table 16: Adverse Reactions Reported by >2% of BOTOX-Treated Patients and More Frequent than in Placebo-Treated Patients Within the First 12 Weeks after Intradetrusor Injection in Double-Blind, Placebo-Controlled Clinical Trials
 
 | Adverse Reactions | BOTOX 200 Units (N=262) % | Placebo (N=272) % |
 | --- | --- | --- |
@@ -72,11 +72,11 @@ In the Multiple Sclerosis (MS) patients enrolled in the double-blind, placebo-co
 
 No change was observed in the overall safety profile with repeat dosing.
 
-Table 16 presents the most frequently reported adverse reactions in a placebo-controlled, double-blind post-approval 52 week study with BOTOX 100 Units (Study NDO-3) conducted in MS patients with urinary incontinence due to detrusor overactivity associated with a neurologic condition.
+Table 17 presents the most frequently reported adverse reactions in a placebo-controlled, double-blind post-approval 52 week study with BOTOX 100 Units (Study NDO-3) conducted in MS patients with urinary incontinence due to detrusor overactivity associated with a neurologic condition.
 These patients were not adequately managed with at least one anticholinergic agent and not catheterized at baseline.
 The table below presents the most frequently reported adverse reactions within 12 weeks of injection.
 
-Table 16: Adverse Reactions Reported in a Post Approval Study (NDO-3) by >2% of BOTOX Treated Patients and More Frequent than in Placebo-Treated Patients Within the First 12 Weeks after Intradetrusor Injection
+Table 17: Adverse Reactions Reported in a Post Approval Study (NDO-3) by >2% of BOTOX Treated Patients and More Frequent than in Placebo-Treated Patients Within the First 12 Weeks after Intradetrusor Injection
 
 | Adverse Reactions | BOTOX 100 Units (N=66) % | Placebo (N=78) % |
 | --- | --- | --- |
@@ -89,15 +89,34 @@ The following adverse events with BOTOX 100 Units were reported at any time foll
 
 No difference in the MS exacerbation annualized rate (i.e., number of MS exacerbating events per patient-year) was observed (BOTOX =0, placebo =0.07).
 
+Pediatric Detrusor Overactivity associated with a Neurologic Condition
+
+Table 18 presents the most frequently reported adverse reactions in Study 191622-120, a double-blind, parallel-group study conducted in pediatric patients with detrusor overactivity associated with a neurologic condition.
+These patients were not adequately managed with at least one anticholinergic agent and were using clean intermittent catheterization at baseline [see Clinical Studies (14.3)].
+The table below presents the most frequently reported adverse reactions during the 12 weeks following intradetrusor administration of BOTOX 200 Units.
+
+Table 18: Adverse Reactions Reported by ≥ 3% of BOTOX Treated Pediatric Patients within the First 12 Weeks after Intradetrusor Injection, Study 191622-120
+
+| Adverse Reactions | BOTOX 200 Unit (N=30) |
+| --- | --- |
+| Urinary tract infection | 2 (7%) |
+| Bacteriuria | 6 (20%) |
+| Leukocyturia | 2 (7%) |
+| Hematuria | 1 (3%) |
+
+No change was observed in the overall safety profile with repeat dosing.
+
+The most common adverse reactions in patients who received BOTOX 6 U/kg and less than a total dose of 200 U in Study 191622-120 were urinary tract infection (UTI), bacteriuria and hematuria.
+
 Chronic Migraine
 
 In double-blind, placebo-controlled chronic migraine efficacy trials (Study 1 and Study 2), the discontinuation rate was 12% in the BOTOX treated group and 10% in the placebo-treated group.
 Discontinuations due to an adverse event were 4% in the BOTOX group and 1% in the placebo group.
 The most frequent adverse events leading to discontinuation in the BOTOX group were neck pain, headache, worsening migraine, muscular weakness and eyelid ptosis.
 
-The most frequently reported adverse reactions following injection of BOTOX for chronic migraine appear in Table 17.
+The most frequently reported adverse reactions following injection of BOTOX for chronic migraine appear in Table 19.
 
-Table 17: Adverse Reactions Reported by >2% of BOTOX Treated Patients and More Frequent than in Placebo-Treated Patients in Two Chronic Migraine Double-Blind, Placebo-Controlled Clinical Trials
+Table 19: Adverse Reactions Reported by >2% of BOTOX Treated Patients and More Frequent than in Placebo-Treated Patients in Two Chronic Migraine Double-Blind, Placebo-Controlled Clinical Trials
 
 | Adverse Reactions | BOTOX 155 Units-195 Units (N=687) % |  | Placebo (N=692) % |
 | --- | --- | --- | --- |
@@ -113,9 +132,9 @@ Severe worsening of migraine requiring hospitalization occurred in approximately
 
 Adult Upper Limb Spasticity
 
-The most frequently reported adverse reactions following injection of BOTOX for adult upper limb spasticity appear in Table 18.
+The most frequently reported adverse reactions following injection of BOTOX for adult upper limb spasticity appear in Table 20.
 
-Table 18: Adverse Reactions Reported by ≥2% of BOTOX Treated Patients and More Frequent than in Placebo-Treated Patients in Adult Upper Limb Spasticity Double-Blind, Placebo-Controlled Clinical Trials
+Table 20: Adverse Reactions Reported by ≥2% of BOTOX Treated Patients and More Frequent than in Placebo-Treated Patients in Adult Upper Limb Spasticity Double-Blind, Placebo-Controlled Clinical Trials
 
 | Adverse Reactions | BOTOX 251 Units - 360 Units (N=115) % | BOTOX 150 Units - 250 Units (N=188) % | BOTOX <150 Units (N=54) % | Placebo (N=182) % |
 | --- | --- | --- | --- | --- |
@@ -130,11 +149,11 @@ The type and frequency of adverse reactions observed in patients treated with 40
 
 Adult Lower Limb Spasticity
 
-The most frequently reported adverse reactions following injection of BOTOX for adult lower limb spasticity appear in Table 19.
+The most frequently reported adverse reactions following injection of BOTOX for adult lower limb spasticity appear in Table 21.
 Two hundred thirty-one patients enrolled in a double-blind placebo controlled study (Study 6) received 300 Units to 400 Units of BOTOX, and were compared with 233 patients who received placebo.
 Patients were followed for an average of 91 days after injection.
 
-Table 19: Adverse Reactions Reported by >2% of BOTOX Treated Patients and More Frequent than in Placebo-Treated Patients in Adult Lower Limb Spasticity Double-Blind, Placebo-Controlled Clinical Trial (Study 6)
+Table 21:Adverse Reactions Reported by >2% of BOTOX Treated Patients and More Frequent than in Placebo-Treated Patients in Adult Lower Limb Spasticity Double-Blind, Placebo-Controlled Clinical Trial (Study 6)
 
 | Adverse Reactions | BOTOX (N=231) % | Placebo (N=233) % |
 | --- | --- | --- |
@@ -144,11 +163,11 @@ Table 19: Adverse Reactions Reported by >2% of BOTOX Treated Patients and More F
 
 Pediatric Upper Limb Spasticity
 
-The most frequently reported adverse reactions following injection of BOTOX in pediatric patients 2 to 17 years of age with upper limb spasticity appear in Table 20.
+The most frequently reported adverse reactions following injection of BOTOX in pediatric patients 2 to 17 years of age with upper limb spasticity appear in Table 22.
 In a double-blind, placebo-controlled trial (Study 1), 78 patients were treated with 3 Units/kg of BOTOX, and 77 patients received 6 Units/kg to a maximum dose of 200 Units of BOTOX, and were compared to 79 patients who received placebo [see Clinical Studies (14.5)].
 Patients were followed for an average of 91 days after injection.
 
-Table 20: Adverse Reactions Reported by >2% of BOTOX 6 Units/kg Treated Patients and More Frequent than in Placebo-Treated Patients in Pediatric Upper Limb Spasticity Double-Blind, Placebo-Controlled Clinical Trial (Study 1)
+Table 22: Adverse Reactions Reported by >2% of BOTOX 6 Units/kg Treated Patients and More Frequent than in Placebo-Treated Patients in Pediatric Upper Limb Spasticity Double-Blind, Placebo-Controlled Clinical Trial (Study 1)
 
 | Adverse Reactions | BOTOX 6 Units/kg (N=77) % | BOTOX 3 Units/kg (N=78) % | Placebo (N=79) % |
 | --- | --- | --- | --- |
@@ -164,11 +183,11 @@ Table 20: Adverse Reactions Reported by >2% of BOTOX 6 Units/kg Treated Patients
 
 Pediatric Lower Limb Spasticity
 
-The most frequently reported adverse reactions following injection of BOTOX in pediatric patients 2 to 17 years of age with lower limb spasticity appear in Table 21.
-In a double-blind, placebo-controlled trial (Study 2), 126 patients were treated with 4 Units/kg of BOTOX, and 128 patients received 8 Units/kg to a maximum dose of 300 Units of BOTOX, and were compared to 128 patients who received placebo [see Clinical Studies (14.5)].
+The most frequently reported adverse reactions following injection of BOTOX in pediatric patients 2 to 17 years of age with lower limb spasticity appear in Table 23.
+In a double-blind, placebo-controlled trial (Study 2), 126 patients were treated with 4 Units/kg of BOTOX, and 128 patients received 8 Units/kg to a maximum dose of 300 Units of BOTOX, and were compared to 128 patients who received placebo [see Clinical Studies (14.6)].
 Patients were followed for an average of 89 days after injection.
 
-Table 21:Adverse Reactions Reported by >2% of BOTOX 8 Units/kg Treated Patients and More Frequent than in Placebo-Treated Patients in Pediatric Lower Limb Spasticity Double-Blind, Placebo-Controlled Clinical Trial (Study 2)
+Table 23:Adverse Reactions Reported by >2% of BOTOX 8 Units/kg Treated Patients and More Frequent than in Placebo-Treated Patients in Pediatric Lower Limb Spasticity Double-Blind, Placebo-Controlled Clinical Trial (Study 2)
 
 | Adverse Reactions | BOTOX 8 Units/kg (N=128) % | BOTOX 4 Units/kg (N=126) % | Placebo (N=128) % |
 | --- | --- | --- | --- |
@@ -235,8 +254,9 @@ Both patients continued to experience clinical benefit following subsequent BOTO
 In overactive bladder patients with analyzed specimens from the two phase 3 studies and the open-label extension study, neutralizing antibodies developed in 0 of 954 patients (0.0%) while receiving BOTOX 100 Unit doses and 3 of 260 patients (1.2%) after subsequently receiving at least one 150 Unit dose.
 Response to subsequent BOTOX treatment was not different following seroconversion in these three patients.
 
-In detrusor overactivity associated with neurologic condition patients with analyzed specimens in the drug development program (including the open-label extension study), neutralizing antibodies developed in 3 of 300 patients (1.0%) after receiving only BOTOX 200 Unit doses and 5 of 258 patients (1.9%) after receiving at least one 300 Unit dose.
+In detrusor overactivity associated with neurologic condition patients with analyzable specimens in the adult drug development program (including the open-label extension study), neutralizing antibodies developed in 3 of 300 patients (1.0%) after receiving only BOTOX 200 Unit doses and 5 of 258 patients (1.9%) after receiving at least one 300 Unit dose.
 Following development of neutralizing antibodies in these 8 patients, 4 continued to experience clinical benefit, 2 did not experience clinical benefit, and the effect on the response to BOTOX in the remaining 2 patients is not known.
+In 99 pediatric patients who had a negative baseline result for binding antibodies or neutralizing antibodies and had at least one evaluable post-baseline value from one randomized double-blind study and one double-blind extension study, no patients developed neutralizing antibodies after receiving 50 Units to 200 Units of BOTOX.
 
 The data reflect the patients whose test results were considered positive for neutralizing activity to BOTOX in a mouse protection assay or negative based on a screening ELISA assay or mouse protection assay.
 

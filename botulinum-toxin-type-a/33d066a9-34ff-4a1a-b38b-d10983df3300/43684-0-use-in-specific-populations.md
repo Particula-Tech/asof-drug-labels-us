@@ -33,9 +33,17 @@ The developmental and health benefits of breastfeeding should be considered alon
 
 ## 8.4Pediatric Use
 
-Bladder Dysfunction
+Overactive Bladder
 
 Safety and effectiveness in patients below the age of 18 years have not been established.
+
+Detrusor Overactivity associated with a Neurologic Condition
+
+The safety and effectiveness of BOTOX for detrusor overactivity associated with a neurologic condition have been established in pediatric patients 5 years of age and older who have an inadequate response to or are intolerant of anticholinergic medication.
+Use of BOTOX in this patient population is based on the results of a randomized, double-blind, parallel group trial in 113 pediatric patients 5 to 17 years of age (inclusive) with detrusor overactivity associated with a neurologic condition (Study 191622-120) and a long-term, multicenter, double-blind, long-term extension trial (Study 191622-121) [see Clinical Studies (14.3)].
+The most common adverse reactions in this population were urinary tract infection, bacteriuria, hematuria, and leukocyturia [see Adverse Reactions (6.1)].
+
+The safety and effectiveness of BOTOX have not been established in patients with NDO younger than 5 years of age.
 
 Prophylaxis of Headaches in Chronic Migraine
 
@@ -46,7 +54,7 @@ This trial did not establish the efficacy of BOTOX, compared with placebo, for t
 
 Spasticity
 
-Safety and effectiveness have been established in pediatric patients 2 to 17 years of age [see Warnings and Precautions (5.1), Adverse Reactions (6.1), and Clinical Studies (14.5)].
+Safety and effectiveness have been established in pediatric patients 2 to 17 years of age [see Warnings and Precautions (5.1), Adverse Reactions (6.1), and Clinical Studies (14.6)].
 The safety and effectiveness of BOTOX have been established by evidence from adequate and well-controlled studies of BOTOX in patients 2 to 17 years of age with upper and lower limb spasticity.
 
 Safety and effectiveness in pediatric patients below the age of 2 years have not been established [see Boxed Warning and Warnings and Precautions (5.1)].
@@ -81,10 +89,10 @@ Other reported clinical experience has not identified differences in responses b
 Overactive Bladder
 
 Of 1242 overactive bladder patients in placebo-controlled clinical studies of BOTOX, 41.4% were 65 years of age or older, and 14.7% were 75 years of age or older.
-Adverse reactions of UTI and urinary retention were more common in patients 65 years of age or older in both placebo and BOTOX groups compared to younger patients (see Table 22).
+Adverse reactions of UTI and urinary retention were more common in patients 65 years of age or older in both placebo and BOTOX groups compared to younger patients (see Table 24).
 Otherwise, there were no overall differences in the safety profile following BOTOX treatment between patients aged 65 years and older compared to adult patients younger than 65 years of age in these studies.
 
-Table 22: Incidence of Urinary Tract Infection and Urinary Retention according to Age Group during First Placebo-Controlled Treatment, Placebo-Controlled Clinical Trials in Patients with OAB
+Table 24: Incidence of Urinary Tract Infection and Urinary Retention according to Age Group during First Placebo-Controlled Treatment, Placebo-Controlled Clinical Trials in Patients with OAB
 
 |  | <65 Years |  | 65 to 74 Years |  | ≥75 Years |  |
 | --- | --- | --- | --- | --- | --- | --- |
