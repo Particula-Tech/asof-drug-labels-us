@@ -1,6 +1,6 @@
 # 11 DESCRIPTION
 
-GOCOVRI contains amantadine in an extended release formulation.
+GOCOVRI contains amantadine in an extended-release formulation.
 The active ingredient in GOCOVRI is amantadine hydrochloride.
 
 The chemical name for amantadine hydrochloride is tricyclo [3.3.1.1 3,7] decan-1-amine, hydrochloride or 1-adamantanamine hydrochloride with the following structural formula:

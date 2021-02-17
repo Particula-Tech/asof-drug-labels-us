@@ -25,10 +25,10 @@ Prescribers should consider whether the benefits outweigh the risks of treatment
 ## 5.3 Hallucinations/Psychotic Behavior
 
 Patients with a major psychotic disorder should ordinarily not be treated with GOCOVRI because of the risk of exacerbating psychosis.
-In controlled trials, the incidence of patients who experienced visual hallucination, auditory hallucination, delusions, illusions, or paranoia was 25% in patients treated with GOCOVRI 274 mg and 3% in placebo-treated patients.
-Hallucinations caused discontinuation of treatment in 8% of GOCOVRI-treated patients and 0% of placebo-treated patients.
+In controlled trials, the incidence of patients who experienced visual hallucinations, auditory hallucinations, delusions, illusions, or paranoia was 25% in patients treated with GOCOVRI 274 mg, and 3% in placebo-treated patients.
+Hallucinations caused discontinuation of treatment in 8% of GOCOVRI-treated patients, and in 0% of placebo-treated patients.
 
-Observe patients for the occurrence of hallucinations throughout treatment, especially at initiation and after dose increases.
+Observe patients for the occurrence of hallucinations throughout treatment, especially at initiation, and after dose increases.
 
 ## 5.4 Dizziness and Orthostatic Hypotension
 

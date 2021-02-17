@@ -2,7 +2,7 @@
 
 Overview of Studies
 
-GOCOVRI for the treatment of dyskinesia in patients with Parkinson’s disease was assessed in two randomized, double-blind, placebo-controlled efficacy trials: Study 1 and Study 2.
+The efficacy of GOCOVRI for the treatment of dyskinesia in patients with Parkinson’s disease and for the adjunctive treatment to levodopa/carbidopa in patients with Parkinsons’s disease experiencing “off” episodes was assessed in two randomized, double-blind, placebo-controlled efficacy trials: Study 1 and Study 2.
 Key inclusion criteria in both studies included at least 1 hour of troublesome dyskinesia time during the day and at least mild functional impact because of dyskinesia.
 
 Study 1 was conducted in 121 (modified Intention to Treat (mITT) population) Parkinson’s disease patients with dyskinesia in the United States (US) and Canada.

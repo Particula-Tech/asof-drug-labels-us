@@ -62,7 +62,7 @@ Because elderly patients are more likely to have decreased renal function, care 
 
 ## 8.6. Renal Impairment
 
-GOCOVRI is contraindicated for use in patients with end-stage renal disease (creatinine clearance lower than 15 mL/min/1.73 m2).
+GOCOVRI is contraindicated for use in patients with end-stage renal disease (creatinine clearance values lower than 15 mL/min/1.73 m2).
 
 For patients with moderate renal impairment (creatinine clearance between 30 and 59 mL/min/1.73 m2), a 50% dose reduction of GOCOVRI dosage to a starting daily dose of 68.5 mg daily at bedtime for a week, to a maximum dosage of 137 mg daily at bedtime is recommended.
 

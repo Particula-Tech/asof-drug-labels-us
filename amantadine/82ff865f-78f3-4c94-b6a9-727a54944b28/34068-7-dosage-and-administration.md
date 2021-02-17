@@ -4,7 +4,6 @@
 
 The initial daily dosage of GOCOVRI is 137 mg, administered orally once daily at bedtime.
 After one week, increase to the recommended dosage of 274 mg (two 137 mg capsules) once daily at bedtime.
-
 GOCOVRI is not interchangeable with other amantadine immediate- or extended-release products.
 
 ## 2.2 Administration Information
@@ -36,6 +35,6 @@ The initial and maximum recommended daily dosage of GOCOVRI for patients with re
 ## 2.4 Discontinuation and Missed Dose
 
 Rapid dose reduction or withdrawal of GOCOVRI may cause adverse reactions [see Warnings and Precautions (5.5)].
-Therefore, to stop GOCOVRI in patients who have been on the drug for more than 4 weeks, their dose should typically, if possible, be reduced by half for their final week of dosing.
+Therefore, to discontinue GOCOVRI in patients who have been on the drug for more than 4 weeks, GOCOVRI dosage should, if possible, be reduced by half for the final week of dosing.
 
 If a dose of GOCOVRI is missed, the next dose should be taken as scheduled.

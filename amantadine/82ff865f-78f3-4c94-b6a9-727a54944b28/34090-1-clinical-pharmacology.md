@@ -2,7 +2,7 @@
 
 ## 12.1 Mechanism of Action
 
-The mechanism by which amantadine exerts efficacy in the treatment of dyskinesia in patients with Parkinson’s disease is unknown.
+The mechanism by which amantadine exerts efficacy in the treatment of dyskinesia in patients with Parkinson’s disease or as adjunctive treatment to levodopa/carbidopa in patients with Parkinson’s disease experiencing “off” episodes is unknown.
 Amantadine is a weak uncompetitive antagonist of the NMDA receptor.
 Amantadine has not been shown to possess direct anticholinergic activity in animal studies; however, it exhibits anticholinergic-like side effects such as dry mouth, urinary retention, and constipation in humans.
 Amantadine may have direct and indirect effects on dopamine neurons; it exerts dopaminergic-like side effects such as hallucinations and dizziness in humans.
@@ -15,7 +15,7 @@ Alcohol consumption may increase the potential for CNS effects such as dizziness
 
 ## 12.3 Pharmacokinetics
 
-GOCOVRI is an extended release formulation.
+GOCOVRI is an extended-release formulation.
 The pharmacokinetics of amantadine from 68.5 mg, 137 mg, and 274 mg of GOCOVRI are dose proportional in healthy subjects.
 
 Absorption

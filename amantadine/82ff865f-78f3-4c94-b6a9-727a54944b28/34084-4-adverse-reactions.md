@@ -15,7 +15,7 @@ Because clinical trials are conducted under widely varying conditions, adverse r
 
 Placebo-Controlled Trials
 
-GOCOVRI was evaluated in two double-blind, placebo-controlled efficacy trials of similar design and population: Study 1 (123 patients) and Study 2 (75 patients).
+GOCOVRI was evaluated in two double-blind, placebo-controlled efficacy trials of similar design and population: Study 1 (123 patients) and Study 2 (75 patients) [see Clinical Studies (14)].
 The study population was approximately 56% male and 94% white, with a mean age of 65 years (age range from 34 years to 82 years).
 The mean duration of levodopa-induced dyskinesia was 4 years (range 0.1 to 14 years).
 Active treatment started at 137 mg once daily for one week, followed by a dose increase to 274 mg once daily.
@@ -23,17 +23,17 @@ The treatment duration was 25 weeks for Study 1 and 13 weeks for Study 2.
 Of the 100 patients in the safety population described below, 39 patients were treated with GOCOVRI for 24 weeks.
 The safety data for these trials were pooled.
 
-The most common adverse reactions reported in >10% of GOCOVRI-treated patients and more frequently than on placebo were: hallucination, dizziness, dry mouth, peripheral edema, constipation, falls, and orthostatic hypotension.
+The most common adverse reactions reported in >10% of GOCOVRI-treated patients and more frequently than on placebo were: hallucinations, dizziness, dry mouth, peripheral edema, constipation, falls, and orthostatic hypotension.
 
 The overall rate of discontinuation because of adverse reactions for GOCOVRI-treated patients was 20%, compared to 8% for placebo-treated patients.
-Adverse reactions that led to treatment discontinuation in at least 2% of patients were hallucination (8% GOCOVRI vs. 0% placebo), dry mouth (3% GOCOVRI vs. 0% placebo), peripheral edema (3% GOCOVRI vs. 0% placebo), blurred vision (GOCOVRI 3% vs. 0% placebo), postural dizziness and syncope (GOCOVRI 2% vs. 0% placebo), abnormal dreams (GOCOVRI 2% vs. 1% placebo), dysphagia (GOCOVRI 2% vs. 0% placebo), and gait disturbance (GOCOVRI 2% vs. 0% placebo).
+Adverse reactions that led to treatment discontinuation in at least 2% of patients were hallucinations (8% GOCOVRI vs. 0% placebo), dry mouth (3% GOCOVRI vs. 0% placebo), peripheral edema (3% GOCOVRI vs. 0% placebo), blurred vision (GOCOVRI 3% vs. 0% placebo), postural dizziness and syncope (GOCOVRI 2% vs. 0% placebo), abnormal dreams (GOCOVRI 2% vs. 1% placebo), dysphagia (GOCOVRI 2% vs. 0% placebo), and gait disturbance (GOCOVRI 2% vs. 0% placebo).
 
 Table 1: Adverse Reactions Reported for ≥ 3% of Patients Treated with 274 mg GOCOVRI in Study 1 and Study 2 (Pooled Analysis)
 
 | Adverse Reactions | GOCOVRI 274 mg N=100 % | Placebo N=98 % |
 | --- | --- | --- |
 | Psychiatric disorders |  |  |
-| Hallucinationa | 21 | 3 |
+| Hallucinationsa | 21 | 3 |
 | Anxietyb | 7 | 3 |
 | Insomnia | 7 | 2 |
 | Depression/Depressed mood | 6 | 1 |
