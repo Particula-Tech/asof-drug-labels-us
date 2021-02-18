@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "NDA202872"
+  ],
+  "inn": "loteprednol",
+  "labeler": "Bausch & Lomb Incorporated",
+  "package_ndcs": [
+    "24208-508-01"
+  ],
+  "products": [
+    {
+      "form": "GEL",
+      "generic": "loteprednol etabonate",
+      "name": "Loteprednol Etabonate"
+    }
+  ],
+  "setid": "7bbdbd31-5a8f-4d69-aa8e-5b700895e804",
+  "source": "dailymed"
+}
