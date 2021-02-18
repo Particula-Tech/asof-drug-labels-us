@@ -1,4 +1,4 @@
-# PATIENT INFORMATION
+PATIENT INFORMATION
 
 SYMJEPI™ (sim-JEP-ee) (epinephrine) injection for intramuscular or subcutaneous use For Allergic Emergencies (anaphylaxis)
 

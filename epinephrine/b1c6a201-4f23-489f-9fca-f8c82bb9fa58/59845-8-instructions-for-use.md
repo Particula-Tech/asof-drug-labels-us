@@ -1,4 +1,4 @@
-# Instructions for Use
+Instructions for Use
 
 SYMJEPI (sim-JEP-ee) (epinephrine injection, USP) prefilled syringe
 
@@ -56,7 +56,7 @@ Put the used syringe into the grey case and close the case.
   Show the healthcare provider where you received the injection.
 - Give your used SYMJEPI syringe to your healthcare provider for inspection and proper disposal.
 
-​After Use
+After Use
 
 Safety Guard
 

@@ -1,4 +1,4 @@
-# PRINCIPAL DISPLAY PANEL
+PRINCIPAL DISPLAY PANEL
 
 Syringe Label
 
@@ -14,7 +14,7 @@ Replace when expired or discolored
 
 After use Call 911
 
-# Syringe Case Label
+Syringe Case Label
 
 SYMJEPI (epinephrine ​injection, USP) 0.3 mg
 
@@ -37,7 +37,7 @@ If solution is discolored, replace your SYMJEPI.
 
 RX only
 
-# 2-Pack Inner Carton 0.3 mg
+2-Pack Inner Carton 0.3 mg
 
 NDC 0781- 3442-20
 
@@ -55,7 +55,7 @@ Contains Two Syringes- (0.3 mg Pre-Filled Single-Dose Syringes)
 
 SANDOZ A Novartis Division
 
-# PRINCIPAL DISPLAY PANEL
+PRINCIPAL DISPLAY PANEL
 
 SYMJEPI
 
@@ -69,7 +69,7 @@ Replace when expired or discolored
 
 After use Call 911
 
-# Syringe Case Label
+Syringe Case Label
 
 SYMJEPI (epinephrine injection, USP) 0.15 mg
 
@@ -92,7 +92,7 @@ If solution is discolored, replace your SYMJEPI.
 
 RX only
 
-# 2-Pack Inner Carton 0.15 mg
+2-Pack Inner Carton 0.15 mg
 
 NDC 0781-3448-20
 

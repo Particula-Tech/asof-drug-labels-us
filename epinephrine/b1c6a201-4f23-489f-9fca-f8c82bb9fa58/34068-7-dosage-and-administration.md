@@ -8,7 +8,7 @@ Patients 15 to 30 kg (33 pounds to 66 pounds): SYMJEPI 0.15 mg
 
 Inject SYMJEPI intramuscularly or subcutaneously into the anterolateral aspect of the thigh with the needle facing downwards.
 It can be injected through clothing if necessary.
-Instruct caregivers of young children who are prescribed SYMJEPI and who may be uncooperative and kick or move during an injection to hold the leg firmly in place and limit movement prior to and during an injection [see Warnings and Precautions (5.2)].
+Instruct caregivers of young children who are prescribed SYMJEPI and who may be uncooperative and kick or move during an injection to hold the leg firmly in place and limit movement prior to and during an injection [see Warnings and Precautions (5.2].
 
 Each SYMJEPI contains a single dose of epinephrine for single-use injection.
 Since the doses of Epinephrine delivered from SYMJEPI are fixed, consider using other forms of injectable epinephrine if doses lower than 0.15 mg are deemed necessary.
