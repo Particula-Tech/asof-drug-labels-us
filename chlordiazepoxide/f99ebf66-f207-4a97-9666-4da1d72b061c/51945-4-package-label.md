@@ -1,13 +1,19 @@
-# PRINCIPAL DISPLAY PANEL - 100 Capsule Bottle Label
+# PACKAGE/LABEL PRINCIPAL DISPLAY PANEL - Label
 
-NDC 0187-4100-10 Rx Only
+NDC 0187-4100-10
 
-Librax® (chlordiazepoxide HCl) (clidinium bromide) Capsules
+Rx only
 
-Each capsule contains 5 mg chlordiazepoxide HCl and 2.5 mg clidinium bromide.
+Librax®
 
-Bausch Health
+(chlordiazepoxide HCl and clindinium bromide) Capsules
+
+5 mg and 2.5 mg
 
 100 Capsules
 
+Each capsule contains 5 mg chlordiazepoxide HCl and 2.5 mg clindinium bromide.
+
 MEDICATION GUIDE TO BE DISPENSED WITH EACH PRESCRIPTION
+
+BAUSCH Health

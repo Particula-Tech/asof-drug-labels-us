@@ -1,4 +1,4 @@
-# ADVERSE REACTIONS
+# ADVERSE REACTIONS:
 
 No side effects or manifestations not seen with either compound alone have been reported with the administration of Librax.
 However, since Librax contains chlordiazepoxide hydrochloride and clidinium bromide, the possibility of untoward effects which may be seen with either of these two compounds cannot be excluded.

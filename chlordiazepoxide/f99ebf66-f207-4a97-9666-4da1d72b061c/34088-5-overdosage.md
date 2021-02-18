@@ -1,4 +1,4 @@
-# OVERDOSAGE
+# OVERDOSAGE:
 
 Manifestations of chlordiazepoxide hydrochloride overdosage include somnolence, confusion, coma and diminished reflexes.
 Respiration, pulse and blood pressure should be monitored, as in all cases of drug overdosage, although, in general, these effects have been minimal following chlordiazepoxide hydrochloride overdosage.
@@ -12,6 +12,7 @@ This may be repeated in 1 to 4 mg doses if arrhythmias, convulsions or deep coma
 Intravenous fluids should be administered and an adequate airway maintained.
 Hypotension may be combated by the use of levarterenol or metaraminol.
 Methylphenidate or caffeine and sodium benzoate may be given to combat CNS-depressive effects.
+
 Dialysis is of limited value.
 Should excitation occur, barbiturates should not be used.
 As with the management of intentional overdosage with any drug, it should be borne in mind that multiple agents may have been ingested.
