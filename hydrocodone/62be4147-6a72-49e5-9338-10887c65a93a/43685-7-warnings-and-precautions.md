@@ -315,7 +315,11 @@ Follow patients closely for signs of respiratory depression and sedation [see WA
 
 Serotonergic Drugs
 
-The concomitant use of opioids with other drugs that affect the serotonergic neurotransmitter system, such as selective serotonin reuptake inhibitors (SSRIs), serotonin and norepinephrine reuptake inhibitors (SNRIs), tricyclic antidepressants (TCAs), triptans, 5-HT3 receptor antagonists, drugs that affect the serotonin neurotransmitter system (e.g., mirtazapine, trazodone, tramadol), certain muscle relaxants (i.e., cyclobenzaprine, metaxalone), and monoamine oxidase (MAO) inhibitors (those intended to treat psychiatric disorders and also others, such as linezolid and intravenous methylene blue), has resulted in serotonin syndrome (see PRECAUTIONS; Information for Patients).
+| Serotonergic Drugs |  |
+| --- | --- |
+| Clinical Impact: | The concomitant use of opioids with other drugs that affect the serotonergic neurotransmitter system has resulted in serotonin syndrome. |
+| Intervention: | If concomitant use is warranted, carefully observe the patient, particularly during treatment initiation and dose adjustment. Discontinue Hydrocodone Bitartrate and Acetaminophen Tablets if serotonin syndrome is suspected. |
+| Examples: | Selective serotonin reuptake inhibitors (SSRIs), serotonin and norepinephrine reuptake inhibitors (SNRIs), tricyclic antidepressants (TCAs), triptans, 5-HT3 receptor antagonists, drugs that affect the serotonin neurotransmitter system (e.g., mirtazapine, trazodone, tramadol), certain muscle relaxants (i.e. cyclobenzaprine, metaxalone), monoamine oxidase (MAO) inhibitors (those intended to treat psychiatric disorders and also others, such as linezolid and intravenous methylene blue). |
 
 If concomitant use is warranted, carefully follow the patient, particularly during treatment initiation and dose adjustment.
 Discontinue Hydrocodone Bitartrate and Acetaminophen Tablets if serotonin syndrome is suspected.
@@ -390,6 +394,8 @@ It is not known whether these effects on fertility are reversible [see ADVERSE R
 ## Pregnancy
 
 ### Teratogenic Effects
+
+Pregnancy Category C
 
 There are no adequate and well-controlled studies in pregnant women.
 Hydrocodone Bitartrate and Acetaminophen Tablets should be used during pregnancy only if the potential benefit justifies the potential risk to the fetus.
