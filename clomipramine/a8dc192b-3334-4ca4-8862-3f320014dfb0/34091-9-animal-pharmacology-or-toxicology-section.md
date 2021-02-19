@@ -19,3 +19,17 @@ Mankind Pharma Ltd.
 New Delhi, INDIA
 
 Revised: May 2019, V-04
+
+Or
+
+Manufactured in India for:
+
+Lifestar Pharma LLC
+
+1200 MacArthur Blvd.
+
+Mahwah, NJ 07430 USA
+
+Product of Ireland
+
+Revised: August 2020, I-02
