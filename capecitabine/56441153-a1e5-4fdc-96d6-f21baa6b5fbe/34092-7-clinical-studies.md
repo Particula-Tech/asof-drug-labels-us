@@ -54,7 +54,8 @@ The hazard ratio for DFS for capecitabine compared to 5-FU/LV was 0.88 (95% C.I.
 0.77 to 1.01) (see Table 12 and Figure 1).
 Because the upper 2-sided 95% confidence limit of hazard ratio was less than 1.20, capecitabine was non-inferior to 5-FU/LV.
 The choice of the non-inferiority margin of 1.20 corresponds to the retention of approximately 75% of the 5-FU/LV effect on DFS.
-The hazard ratio for capecitabine compared to 5-FU/LV with respect to overall survival was 0.86 (95% C.I.0.74 to 1.01).
+The hazard ratio for capecitabine compared to 5-FU/LV with respect to overall survival was 0.86 (95% C.I.
+0.74 to 1.01).
 The 5-year overall survival rates were 71.4% for capecitabine and 68.4% for 5­- FU/LV (see Figure 2).
 
 Table 12 Efficacy of Capecitabine vs 5-FU/LV in Adjuvant Treatment of Colon Cancera
