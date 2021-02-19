@@ -27,19 +27,19 @@ Table 4 Pharmacokinetic Properties of the Components of BIKTARVY
 |  |  | Bictegravir (BIC) | Emtricitabine (FTC) | Tenofovir Alafenamide (TAF) |
 | --- | --- | --- | --- | --- |
 | Absorption |  |  |  |  |
-| T max (h) Values reflect administration of BIKTARVY with or without food. |  | 2.0–4.0 | 1.5–2.0 | 0.5–2.0 |
-| Effect of high-fat meal (relative to fasting) Values refer to geometric mean ratio [high-fat meal/fasting] in PK parameters and (90% confidence interval). High fat meal is approximately 800 kcal, 50% fat. | AUC ratio | 1.24 (1.16, 1.33) | 0.96 (0.93, 0.99) | 1.63 (1.43, 1.85) |
-|  | C max ratio | 1.13 (1.06, 1.20) | 0.86 (0.78, 0.93) | 0.92 (0.73, 1.14) |
+| Tmax (h)Values reflect administration of BIKTARVY with or without food. |  | 2.0–4.0 | 1.5–2.0 | 0.5–2.0 |
+| Effect of high-fat meal (relative to fasting)Values refer to geometric mean ratio [high-fat meal/fasting] in PK parameters and (90% confidence interval). High fat meal is approximately 800 kcal, 50% fat. | AUC ratio | 1.24 (1.16, 1.33) | 0.96 (0.93, 0.99) | 1.63 (1.43, 1.85) |
+|  | Cmax ratio | 1.13 (1.06, 1.20) | 0.86 (0.78, 0.93) | 0.92 (0.73, 1.14) |
 | Distribution |  |  |  |  |
 | % bound to human plasma proteins |  | >99 | <4 | ~80 |
 | Blood-to-plasma ratio |  | 0.64 | 0.6 | 1.0 |
 | Elimination |  |  |  |  |
-| t 1/2 (h) t 1/2 values refer to median (Q1, Q3) terminal plasma half-life. Note that the active metabolite of TAF, tenofovir diphosphate, has a half-life of 150–180 hours within PBMCs. |  | 17.3 (14.8, 20.7) | 10.4 (9.0, 12.0) | 0.51 (0.45, 0.62) |
+| t1/2 (h)t 1/2 values refer to median (Q1, Q3) terminal plasma half-life. Note that the active metabolite of TAF, tenofovir diphosphate, has a half-life of 150–180 hours within PBMCs. |  | 17.3 (14.8, 20.7) | 10.4 (9.0, 12.0) | 0.51 (0.45, 0.62) |
 | Metabolism |  |  |  |  |
-| Metabolic pathway(s) |  | CYP3A UGT1A1 | Not significantly metabolized | Cathepsin A In vivo, TAF is hydrolyzed within cells to form tenofovir (major metabolite), which is phosphorylated to the active metabolite, tenofovir diphosphate. In vitro studies have shown that TAF is metabolized to tenofovir by cathepsin A in PBMCs and macrophages; and by CES1 in hepatocytes. (PBMCs) CES1 (hepatocytes) |
+| Metabolic pathway(s) |  | CYP3A UGT1A1 | Not significantly metabolized | Cathepsin AIn vivo, TAF is hydrolyzed within cells to form tenofovir (major metabolite), which is phosphorylated to the active metabolite, tenofovir diphosphate. In vitro studies have shown that TAF is metabolized to tenofovir by cathepsin A in PBMCs and macrophages; and by CES1 in hepatocytes. (PBMCs) CES1 (hepatocytes) |
 | Excretion |  |  |  |  |
 | Major route of elimination |  | Metabolism | Glomerular filtration and active tubular secretion | Metabolism |
-| % of dose excreted in urine Dosing in mass balance studies: single dose administration of [14C] BIC; single dose administration of [14C] FTC after multiple dosing of FTC for ten days; single dose administration of [14C] TAF. |  | 35 | 70 | <1 |
+| % of dose excreted in urineDosing in mass balance studies: single dose administration of [14C] BIC; single dose administration of [14C] FTC after multiple dosing of FTC for ten days; single dose administration of [14C] TAF. |  | 35 | 70 | <1 |
 | % of dose excreted in feces |  | 60.3 | 13.7 | 31.7 |
 | PBMCs=peripheral blood mononuclear cells; CES1=carboxylesterase 1 |  |  |  |  |
 
@@ -47,16 +47,22 @@ Table 5 Multiple Dose PK Parameters of BIC, FTC, and TAF Following Oral Administ
 
 | Parameter Mean (CV%) | Bictegravir | Emtricitabine | Tenofovir Alafenamide |
 | --- | --- | --- | --- |
-| C max (microgram per mL) | 6.15 (22.9) | 2.13 (34.7) | 0.121 (15.4) |
-| AUC tau (microgram∙h per mL) | 102 (26.9) | 12.3 (29.2) | 0.142 (17.3) |
-| C trough (microgram per mL) | 2.61 (35.2) | 0.096 (37.4) | NA |
+| Cmax (microgram per mL) | 6.15 (22.9) | 2.13 (34.7) | 0.121 (15.4) |
+| AUCtau (microgram∙h per mL) | 102 (26.9) | 12.3 (29.2) | 0.142 (17.3) |
+| Ctrough (microgram per mL) | 2.61 (35.2) | 0.096 (37.4) | NA |
 | CV=Coefficient of Variation; NA=Not Applicable |  |  |  |
 
 Specific Populations
 
 Patients with Renal Impairment
 
-No clinically relevant differences in the pharmacokinetics of BIC, TAF, or its metabolite tenofovir were observed between subjects with severe renal impairment (CLcr 15 to 29 mL per minute estimated by Cockcroft-Gault method) and healthy subjects.
+No clinically relevant differences in the pharmacokinetics of BIC, TAF, or its metabolite tenofovir were observed between subjects with severe renal impairment (estimated creatinine clearance of 15 to less than 30 mL per minute, by Cockcroft-Gault method) and healthy subjects in Phase 1 studies.
+In a separate Phase 1 study of FTC alone, FTC exposures were increased in subjects with severe renal impairment.
+
+The pharmacokinetics of BIC, FTC and TAF were evaluated in a subset of HIV-1 infected virologically-suppressed subjects with ESRD (estimated creatinine clearance less than 15 mL per minute, by Cockcroft-Gault method) receiving chronic hemodialysis in Trial 1825.
+The pharmacokinetics of TAF were similar between healthy subjects and subjects with ESRD receiving chronic hemodialysis; increases in FTC and tenofovir exposures in subjects with ESRD were not considered clinically relevant.
+Median (minimum, maximum) BIC Ctrough values in subjects (n=7) with ESRD who received BIKTARVY were 846 ng/mL (288, 1810) compared to 2540 ng/mL (757, 6499) in subjects (N=584) with normal renal function.
+Despite significantly lower BIC Ctrough values in the virologically-suppressed ESRD population, virologic suppression was maintained [see Use in Specific Populations (8.6), Clinical Studies (14.3)].
 
 Patients with Hepatic Impairment
 
@@ -77,26 +83,26 @@ Population pharmacokinetics analysis of HIV-infected subjects in Phase 3 trials 
 
 Pediatric Patients
 
-Mean BIC C trough was lower in 50 pediatric patients aged 12 to less than 18 years and weighing at least 35 kg who received BIKTARVY in Trial 1474 relative to adults following administration of BIKTARVY, but was not considered clinically significant based on exposure-response relationships; exposures of FTC and TAF in these pediatric patients were similar to those in adults (Table 6).
+Mean BIC Ctrough was lower in 50 pediatric patients aged 12 to less than 18 years and weighing at least 35 kg who received BIKTARVY in Trial 1474 relative to adults following administration of BIKTARVY, but was not considered clinically significant based on exposure-response relationships; exposures of FTC and TAF in these pediatric patients were similar to those in adults (Table 6).
 
 Table 6 Multiple Dose PK Parameters of BIC, FTC, and TAF Following Oral Administration of BIKTARVY in HIV-Infected Pediatric Subjects Aged 12 to less than 18 years
 
-| Parameter Mean (CV%) | Bictegravir From Population PK analysis of cohort 1 of Trial 1474 (n=50 for BIC; n=49 for TAF). | Emtricitabine From Intensive PK analysis of cohort 1 of Trial 1474 (n=24). | Tenofovir Alafenamide |
+| Parameter Mean (CV%) | BictegravirFrom Population PK analysis of cohort 1 of Trial 1474 (n=50 for BIC; n=49 for TAF). | EmtricitabineFrom Intensive PK analysis of cohort 1 of Trial 1474 (n=24). | Tenofovir Alafenamide |
 | --- | --- | --- | --- |
-| C max (microgram per mL) | 6.24 (27.1) | 2.69 (34.0) | 0.133 (70.2) |
-| AUC tau (microgram∙h per mL) | 89.1 (31.0) | 13.6 (21.7) | 0.196 (50.3) |
-| C trough (microgram per mL) | 1.78 (44.4) | 0.064 (25.0) | NA |
+| Cmax (microgram per mL) | 6.24 (27.1) | 2.69 (34.0) | 0.133 (70.2) |
+| AUCtau (microgram∙h per mL) | 89.1 (31.0) | 13.6 (21.7) | 0.196 (50.3) |
+| Ctrough (microgram per mL) | 1.78 (44.4) | 0.064 (25.0) | NA |
 | CV=Coefficient of Variation; NA=Not Applicable |  |  |  |
 
-Mean BIC C max, and exposures of FTC and TAF (AUC tau and C max) achieved in 50 pediatric patients between the ages of 6 to less than 12 years and weighing at least 25 kg who received BIKTARVY in Trial 1474 were higher than exposures in adults; however, the increase was not considered clinically significant as the safety profiles were similar in adult and pediatric patients (Table 7) [see Use in Specific Populations (8.4)].
+Mean BIC Cmax, and exposures of FTC and TAF (AUCtau and Cmax) achieved in 50 pediatric patients between the ages of 6 to less than 12 years and weighing at least 25 kg who received BIKTARVY in Trial 1474 were higher than exposures in adults; however, the increase was not considered clinically significant as the safety profiles were similar in adult and pediatric patients (Table 7) [see Use in Specific Populations (8.4)].
 
 Table 7 Multiple Dose PK Parameters of BIC, FTC, and TAF Following Oral Administration of BIKTARVY in HIV-Infected Pediatric Subjects Aged 6 to less than 12 years
 
-| Parameter Mean (CV%) | Bictegravir From Population PK analysis of cohort 2 of Trial 1474 (n=50 for BIC; n=47 for TAF). | Emtricitabine From Intensive PK analysis of cohort 2 of Trial 1474 (n=25 except n=24 for C trough). | Tenofovir Alafenamide |
+| Parameter Mean (CV%) | BictegravirFrom Population PK analysis of cohort 2 of Trial 1474 (n=50 for BIC; n=47 for TAF). | EmtricitabineFrom Intensive PK analysis of cohort 2 of Trial 1474 (n=25 except n=24 for C trough). | Tenofovir Alafenamide |
 | --- | --- | --- | --- |
-| C max (microgram per mL) | 9.46 (24.3) | 3.89 (31.0) | 0.205 (44.6) |
-| AUC tau (microgram∙h per mL) | 128 (27.8) | 17.6 (36.9) | 0.278 (40.3) |
-| C trough (microgram per mL) | 2.36 (39.0) | 0.227 (323) | NA |
+| Cmax (microgram per mL) | 9.46 (24.3) | 3.89 (31.0) | 0.205 (44.6) |
+| AUCtau (microgram∙h per mL) | 128 (27.8) | 17.6 (36.9) | 0.278 (40.3) |
+| Ctrough (microgram per mL) | 2.36 (39.0) | 0.227 (323) | NA |
 | CV=Coefficient of Variation; NA=Not Applicable |  |  |  |
 
 Race and Gender
@@ -122,56 +128,56 @@ Table 10 summarizes the pharmacokinetic effects of BIKTARVY or its components on
 
 Effect of Other Drugs on BIKTARVY Components
 
-Table 8 Effect of Other Drugs on BIC All interaction studies conducted in healthy volunteers.
+Table 8 Effect of Other Drugs on BICAll interaction studies conducted in healthy volunteers.
 
-| C max | AUC | C min |  |  |  |
+| Cmax | AUC | Cmin |  |  |  |
 | --- | --- | --- | --- | --- | --- |
 | Coadministered Drug | Dose of Coadministered Drug (mg) | BIC (mg) | Mean Ratio of BIC Pharmacokinetic Parameters (90% CI); No effect = 1.00 |  |  |
 | Ledipasvir/ Sofosbuvir (fed) | 90/400 once daily | 75 once daily | 0.98 (0.94, 1.03) | 1.00 (0.97, 1.03) | 1.04 (0.99, 1.09) |
 | Rifabutin (fasted) | 300 once daily | 75 once daily | 0.80 (0.67, 0.97) | 0.62 (0.53, 0.72) | 0.44 (0.37, 0.52) |
 | Rifampin (fed) | 600 once daily | 75 single dose | 0.72 (0.67, 0.78) | 0.25 (0.22, 0.27) | NA |
-| Sofosbuvir/ velpatasvir/ voxilaprevir (fed) | 400/100/100+100 voxilaprevir Study conducted with additional voxilaprevir 100 mg to achieve voxilaprevir exposures expected in HCV-infected patients. once daily | 50 once daily | 0.98 (0.94, 1.01) | 1.07 (1.03, 1.10) | 1.10 (1.05, 1.17) |
+| Sofosbuvir/ velpatasvir/ voxilaprevir (fed) | 400/100/100+100 voxilaprevirStudy conducted with additional voxilaprevir 100 mg to achieve voxilaprevir exposures expected in HCV-infected patients. once daily | 50 once daily | 0.98 (0.94, 1.01) | 1.07 (1.03, 1.10) | 1.10 (1.05, 1.17) |
 | Voriconazole (fasted) | 300 twice daily | 75 single dose | 1.09 (0.96, 1.23) | 1.61 (1.41, 1.84) | NA |
-| Maximum strength antacid (simultaneous administration, fasted) | 20 mL Maximum strength antacid contained 80 mg aluminum hydroxide, 80 mg magnesium hydroxide, and 8 mg simethicone, per mL. single dose (oral) | 50 single dose | 0.20 (0.16, 0.24) | 0.21 (0.18, 0.26) | NA |
+| Maximum strength antacid (simultaneous administration, fasted) | 20 mLMaximum strength antacid contained 80 mg aluminum hydroxide, 80 mg magnesium hydroxide, and 8 mg simethicone, per mL. single dose (oral) | 50 single dose | 0.20 (0.16, 0.24) | 0.21 (0.18, 0.26) | NA |
 | Maximum strength antacid (2 h after BIKTARVY fasted) | 20 mL single dose (oral) | 50 single dose | 0.93 (0.88, 1.00) | 0.87 (0.81, 0.93) | NA |
 | Maximum strength antacid (2 h before BIKTARVY fasted) | 20 mL single dose (oral) | 50 single dose | 0.42 (0.33, 0.52) | 0.48 (0.38, 0.59) | NA |
-| Maximum strength antacid (simultaneous administration, fed Reference treatment administered under fasted conditions.) | 20 mL single dose (oral) | 50 single dose | 0.51 (0.43, 0.62) | 0.53 (0.44, 0.64) | NA |
+| Maximum strength antacid (simultaneous administration, fedReference treatment administered under fasted conditions.) | 20 mL single dose (oral) | 50 single dose | 0.51 (0.43, 0.62) | 0.53 (0.44, 0.64) | NA |
 | Calcium carbonate (simultaneous administration, fasted) | 1200 single dose | 50 single dose | 0.58 (0.51, 0.67) | 0.67 (0.57, 0.78) | NA |
 | Calcium carbonate (simultaneous administration, fed) | 1200 single dose | 50 single dose | 0.90 (0.78, 1.03) | 1.03 (0.89, 1.20) | NA |
 | Ferrous fumarate (simultaneous administration, fasted) | 324 single dose | 50 single dose | 0.29 (0.26, 0.33) | 0.37 (0.33, 0.42) | NA |
 | Ferrous fumarate (simultaneous administration, fed) | 324 single dose | 50 single dose | 0.75 (0.65, 0.87) | 0.84 (0.74, 0.95) | NA |
 | NA= Not Applicable |  |  |  |  |  |
 
-Table 9 Effect of Other Drugs on TAF All interaction studies conducted in healthy volunteers.
+Table 9 Effect of Other Drugs on TAFAll interaction studies conducted in healthy volunteers.
 
-| C max | AUC | C min |  |  |  |
+| Cmax | AUC | Cmin |  |  |  |
 | --- | --- | --- | --- | --- | --- |
 | Coadministered Drug | Dose of Coadministered Drug (mg) | Tenofovir Alafenamide (mg) | Mean Ratio of Tenofovir Alafenamide Pharmacokinetic Parameters (90% CI); No effect = 1.00 |  |  |
-| Carbamazepine | 300 twice daily | 25 single dose Study conducted with emtricitabine/tenofovir alafenamide. | 0.43 (0.36, 0.51) | 0.46 (0.40, 0.54) | NA |
+| Carbamazepine | 300 twice daily | 25 single doseStudy conducted with emtricitabine/tenofovir alafenamide. | 0.43 (0.36, 0.51) | 0.46 (0.40, 0.54) | NA |
 | Ledipasvir/sofosbuvir | 90/400 once daily | 25 once daily | 1.17 (1.00, 1.38) | 1.27 (1.19, 1.34) | NA |
-| Sofosbuvir/ velpatasvir/ voxilaprevir | 400/100/100 +100 voxilaprevir Study conducted with additional voxilaprevir 100 mg to achieve voxilaprevir exposures expected in HCV-infected patients. once daily | 25 once daily | 1.28 (1.09, 1.51) | 1.57 (1.44, 1.71) | NA |
+| Sofosbuvir/ velpatasvir/ voxilaprevir | 400/100/100 +100 voxilaprevirStudy conducted with additional voxilaprevir 100 mg to achieve voxilaprevir exposures expected in HCV-infected patients. once daily | 25 once daily | 1.28 (1.09, 1.51) | 1.57 (1.44, 1.71) | NA |
 | NA= Not Applicable |  |  |  |  |  |
 
 Effect of BIKTARVY Components on Other Drugs
 
-Table 10 Effect of Components of BIKTARVY on Other Drugs All interaction studies conducted in healthy volunteers.
+Table 10 Effect of Components of BIKTARVY on Other DrugsAll interaction studies conducted in healthy volunteers.
 
-| C max | AUC | C min |  |  |  |  |
+| Cmax | AUC | Cmin |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- |
 | Coadministered Drug | Dose of Coadministered Drug (mg) | BIC (mg) | TAF (mg) | Mean Ratio of Coadministered Drug Pharmacokinetic Parameters (90% CI); No effect = 1.00 |  |  |
 | Ledipasvir | 90/400 once daily | 75 once daily | 25 once daily | 0.85 (0.81, 0.90) | 0.87 (0.83, 0.92) | 0.90 (0.84, 0.96) |
 | Sofosbuvir | 1.11 (1.00, 1.24) | 1.07 (1.01, 1.13) | NA |  |  |  |
-| GS-331007 The predominant circulating nucleoside metabolite of sofosbuvir. | 1.10 (1.07, 1.13) | 1.11 (1.08, 1.14) | 1.02 (0.99, 1.06) |  |  |  |
+| GS-331007The predominant circulating nucleoside metabolite of sofosbuvir. | 1.10 (1.07, 1.13) | 1.11 (1.08, 1.14) | 1.02 (0.99, 1.06) |  |  |  |
 | Metformin | 500 twice daily | 50 once daily | 25 once daily | 1.28 (1.21, 1.36) | 1.39 (1.31, 1.48) | 1.36 (1.21, 1.53) |
 | Midazolam | 2 single dose | 50 once daily | 25 once daily | 1.03 (0.87, 1.23) | 1.15 (1.00, 1.31) | NA |
 | Norelgestromin | norgestimate 0.180/0.215/0.250 once daily / ethinyl estradiol 0.025 once daily | 75 once daily | - | 1.23 (1.14, 1.32) | 1.08 (1.05, 1.10) | 1.10 (1.05, 1.15) |
 | Norgestrel | 1.15 (1.10, 1.21) | 1.13 (1.07, 1.19) | 1.14 (1.06, 1.22) |  |  |  |
 | Ethinyl estradiol | 1.15 (1.03, 1.27) | 1.04 (0.99, 1.10) | 1.05 (0.95, 1.14) |  |  |  |
-| Norelgestromin | norgestimate 0.180/0.215/0.250 once daily / ethinyl estradiol 0.025 once daily | - | 25 once daily Study conducted with emtricitabine/tenofovir alafenamide. | 1.17 (1.07,1.26) | 1.12 (1.07,1.17) | 1.16 (1.08, 1.24) |
+| Norelgestromin | norgestimate 0.180/0.215/0.250 once daily / ethinyl estradiol 0.025 once daily | - | 25 once dailyStudy conducted with emtricitabine/tenofovir alafenamide. | 1.17 (1.07,1.26) | 1.12 (1.07,1.17) | 1.16 (1.08, 1.24) |
 | Norgestrel | 1.10 (1.02, 1.18) | 1.09 (1.01, 1.18) | 1.11 (1.03, 1.20) |  |  |  |
 | Ethinyl estradiol | 1.22 (1.15, 1.29) | 1.11 (1.07, 1.16) | 1.02 (0.92, 1.12) |  |  |  |
-| Sertraline | 50 single dose | - | 10 once daily Study conducted with elvitegravir/cobicistat/emtricitabine/tenofovir alafenamide. | 1.14 (0.94, 1.38) | 0.93 (0.77, 1.13) | NA |
-| Sofosbuvir | 400/100/100+ 100 Study conducted with additional voxilaprevir 100 mg to achieve voxilaprevir exposures expected in HCV-infected patients. once daily | 50 once daily | 25 once daily | 1.14 (1.04,1.25) | 1.09 (1.02, 1.15) | NA |
+| Sertraline | 50 single dose | - | 10 once dailyStudy conducted with elvitegravir/cobicistat/emtricitabine/tenofovir alafenamide. | 1.14 (0.94, 1.38) | 0.93 (0.77, 1.13) | NA |
+| Sofosbuvir | 400/100/100+ 100Study conducted with additional voxilaprevir 100 mg to achieve voxilaprevir exposures expected in HCV-infected patients. once daily | 50 once daily | 25 once daily | 1.14 (1.04,1.25) | 1.09 (1.02, 1.15) | NA |
 | GS-331007 | 1.03 (0.99,1.06) | 1.03 (1.00,1.06) | 1.01 (0.98, 1.05) |  |  |  |
 | Velpatasvir | 0.96 (0.91,1.01) | 0.96 (0.90, 1.02) | 0.94 (0.88, 1.01) |  |  |  |
 | Voxilaprevir | 0.90 (0.76, 1.06) | 0.91 (0.80, 1.03) | 0.97 (0.88, 1.06) |  |  |  |
@@ -198,16 +204,16 @@ Antiviral Activity in Cell Culture
 The triple combination of BIC, FTC, and TAF was not antagonistic with respect to antiviral activity in cell culture.
 
 Bictegravir: The antiviral activity of BIC against laboratory and clinical isolates of HIV-1 was assessed in lymphoblastoid cell lines, PBMCs, primary monocyte/macrophage cells, and CD4+ T-lymphocytes.
-In MT-4 cells (human lymphoblastoid T-cell line) acutely infected with HIV-1 IIIB, the mean 50% effective concentration (EC 50) was 2.4±0.4 nM, and the protein-adjusted EC 95 value was 361 nM (0.162 micrograms per mL).
-BIC displayed antiviral activity in activated PBMCs against clinical isolates of HIV-1 representing groups M, N, and O, including subtypes A, B, C, D, E, F, and G, with a median EC 50 value of 0.55 nM (range <0.05 to 1.71 nM).
-The EC 50 value against a single HIV-2 isolate was 1.1 nM.
+In MT-4 cells (human lymphoblastoid T-cell line) acutely infected with HIV-1 IIIB, the mean 50% effective concentration (EC50) was 2.4±0.4 nM, and the protein-adjusted EC95 value was 361 nM (0.162 micrograms per mL).
+BIC displayed antiviral activity in activated PBMCs against clinical isolates of HIV-1 representing groups M, N, and O, including subtypes A, B, C, D, E, F, and G, with a median EC50 value of 0.55 nM (range <0.05 to 1.71 nM).
+The EC50 value against a single HIV-2 isolate was 1.1 nM.
 
 Emtricitabine: The antiviral activity of FTC against laboratory and clinical isolates of HIV-1 was assessed in T lymphoblastoid cell lines, the MAGI-CCR5 cell line, and PBMCs.
-In PBMCs acutely infected with HIV-1 subtypes A, B, C, D, E, F, and G, the median EC 50 value for FTC was 9.5 nM (range 1 to 30 nM) and against HIV-2 was 7 nM.
+In PBMCs acutely infected with HIV-1 subtypes A, B, C, D, E, F, and G, the median EC50 value for FTC was 9.5 nM (range 1 to 30 nM) and against HIV-2 was 7 nM.
 
 Tenofovir Alafenamide: The antiviral activity of TAF against laboratory and clinical isolates of HIV-1 subtype B was assessed in lymphoblastoid cell lines, PBMCs, primary monocyte/macrophage cells and CD4-T lymphocytes.
-The EC 50 values for TAF ranged from 2.0 to 14.7 nM.
-TAF displayed antiviral activity in cell culture against all HIV-1 groups (M, N, O), including subtypes A, B, C, D, E, F, and G (EC 50 values ranged from 0.1 to 12 nM) and strain specific activity against HIV-2 (EC 50 values ranged from 0.9 to 2.6 nM).
+The EC50 values for TAF ranged from 2.0 to 14.7 nM.
+TAF displayed antiviral activity in cell culture against all HIV-1 groups (M, N, O), including subtypes A, B, C, D, E, F, and G (EC50 values ranged from 0.1 to 12 nM) and strain specific activity against HIV-2 (EC50 values ranged from 0.9 to 2.6 nM).
 
 Resistance
 

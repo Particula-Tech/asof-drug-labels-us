@@ -31,8 +31,8 @@ Autoimmune disorders (such as Graves' disease, polymyositis, Guillain-Barré syn
 
 Renal impairment, including cases of acute renal failure and Fanconi syndrome (renal tubular injury with severe hypophosphatemia), has been reported with the use of tenofovir prodrugs in both animal toxicology studies and human trials.
 In clinical trials of BIKTARVY, there have been no cases of Fanconi syndrome or Proximal Renal Tubulopathy (PRT).
-In clinical trials of BIKTARVY in subjects with no antiretroviral treatment history with eGFRs greater than 30 mL per minute, and in virologically suppressed subjects switched to BIKTARVY with eGFRs greater than 50 mL per minute, renal serious adverse events were encountered in less than 1% of subjects treated with BIKTARVY through Week 48 [see Adverse Reactions (6.1)].
-BIKTARVY is not recommended in patients with estimated creatinine clearance below 30 mL per minute.
+In clinical trials of BIKTARVY in subjects with no antiretroviral treatment history with eGFRs greater than 30 mL per minute, and in virologically-suppressed subjects switched to BIKTARVY with eGFRs greater than 50 mL per minute, renal serious adverse events were encountered in less than 1% of subjects treated with BIKTARVY through Week 48 [see Adverse Reactions (6.1)].
+BIKTARVY is not recommended in patients with severe renal impairment (estimated creatinine clearance of 15 to below 30 mL per minute), or patients with ESRD (estimated creatinine clearance below 15 mL per minute) who are not receiving chronic hemodialysis, or patients with no antiretroviral treatment history and ESRD who are receiving chronic hemodialysis [see Dosage and Administration (2.3), Use in Specific Populations (8.6)].
 
 Patients taking tenofovir prodrugs who have impaired renal function and those taking nephrotoxic agents including non-steroidal anti-inflammatory drugs are at increased risk of developing renal-related adverse reactions.
 

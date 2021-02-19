@@ -31,15 +31,15 @@ Some examples of drugs that are eliminated by active tubular secretion include, 
 Table 3 provides a listing of established or potentially clinically significant drug interactions with recommended prevention or management strategies.
 The drug interactions described are based on studies conducted with either BIKTARVY, the components of BIKTARVY (BIC, FTC, and TAF) as individual agents, or are drug interactions that may occur with BIKTARVY [see Contraindications (4), Warnings and Precautions (5.2), and Clinical Pharmacology (12.3)].
 
-Table 3 Established and Potentially Significant Table is not all inclusive.
+Table 3 Established and Potentially SignificantTable is not all inclusive.
 Drug Interactions: Alteration in Regimen May be Recommended
 
-| Concomitant Drug Class: Drug Name | Effect on Concentration ↑ = Increase, ↓ = Decrease. | Clinical Comment |
+| Concomitant Drug Class: Drug Name | Effect on Concentration↑ = Increase, ↓ = Decrease. | Clinical Comment |
 | --- | --- | --- |
 | Antiarrhythmics: dofetilide | ↑ Dofetilide | Coadministration is contraindicated due to the potential for serious and/or life-threatening events associated with dofetilide therapy [see Contraindications (4)]. |
-| Anticonvulsants: carbamazepine Drug-drug interaction study was conducted with either BIKTARVY or its components as individual agents. oxcarbazepine phenobarbital phenytoin | ↓ BIC ↓ TAF | Coadministration with alternative anticonvulsants should be considered. |
+| Anticonvulsants: carbamazepineDrug-drug interaction study was conducted with either BIKTARVY or its components as individual agents. oxcarbazepine phenobarbital phenytoin | ↓ BIC ↓ TAF | Coadministration with alternative anticonvulsants should be considered. |
 | Antimycobacterials: rifabutin rifampin,Strong inducer of CYP3Aand P-gp, and inducer of UGT1A1. rifapentine | ↓ BIC ↓ TAF | Coadministration with rifampin is contraindicated due to the effect of rifampin on the BIC component of BIKTARVY [see Contraindications (4)]. Coadministration with rifabutin or rifapentine is not recommended. |
-| Herbal Products: St. John's wort The induction potency of St. John's wort may vary widely based on preparation. | ↓ BIC ↓ TAF | Coadministration with St. John's wort is not recommended. |
+| Herbal Products: St. John's wortThe induction potency of St. John's wort may vary widely based on preparation. | ↓ BIC ↓ TAF | Coadministration with St. John's wort is not recommended. |
 | Medications or oral supplements containing polyvalent cations (e.g., Mg, Al, Ca, Fe): Calcium or iron supplements Cation-containing antacids or laxatives Sucralfate Buffered medications | ↓ BIC | Antacids containing Al/Mg: BIKTARVY can be taken at least 2 hours before or 6 hours after taking antacids containing Al/Mg. Routine administration of BIKTARVY together with, or 2 hours after, antacids containing Al/Mg is not recommended. Supplements or antacids containing Calcium or Iron: BIKTARVY and supplements or antacids containing calcium or iron can be taken together with food. Routine administration of BIKTARVY under fasting conditions together with, or 2 hours after, supplements or antacids containing calcium or iron is not recommended. |
 | Metformin | ↑ Metformin | Refer to the prescribing information of metformin for assessing the benefit and risk of concomitant use of BIKTARVY and metformin. |
 

@@ -20,7 +20,7 @@ The most common adverse reactions (all Grades) reported in at least 5% of subjec
 The proportion of subjects who discontinued treatment with BIKTARVY, abacavir [ABC]/dolutegravir [DTG]/ lamivudine [3TC]), or DTG + FTC/TAF, due to adverse events, regardless of severity, was 1%, 1%, and <1%, respectively.
 Table 1 displays the frequency of adverse reactions (all Grades) greater than or equal to 2% in the BIKTARVY group.
 
-Table 1 Adverse Reactions Frequencies of adverse reactions are based on all adverse events attributed to trial drugs by the investigator.
+Table 1 Adverse ReactionsFrequencies of adverse reactions are based on all adverse events attributed to trial drugs by the investigator.
 No adverse reactions of Grade 2 or higher occurred in ≥ 1% of subjects treated with BIKTARVY.
 (All Grades) Reported in ≥ 2% of HIV-1 Infected Adults with No Antiretroviral Treatment History Receiving BIKTARVY in Trials 1489 or 1490 (Week 48 analysis)
 
@@ -44,7 +44,15 @@ The majority (87%) of adverse events associated with BIKTARVY were Grade 1.
 Clinical Trials in Virologically Suppressed Adults
 
 The safety of BIKTARVY in virologically-suppressed adults was based on Week 48 data from 282 subjects in a randomized, double-blind, active-controlled trial (Trial 1844) in which virologically-suppressed subjects were switched from either DTG + ABC/3TC or ABC/DTG/3TC to BIKTARVY; and Week 48 data from 290 subjects in an open-label, active-controlled trial in which virologically-suppressed subjects were switched from a regimen containing atazanavir (ATV) (given with cobicistat or ritonavir) or darunavir (DRV) (given with cobicistat or ritonavir) plus either FTC/TDF or ABC/3TC, to BIKTARVY (Trial 1878).
-Overall, the safety profile in virologically suppressed adult subjects in Trials 1844 and 1878 was similar to that in subjects with no antiretroviral treatment history [see Clinical Studies (14.3)].
+Overall, the safety profile in virologically-suppressed adult subjects in Trials 1844 and 1878 was similar to that in subjects with no antiretroviral treatment history [see Clinical Studies (14.3)].
+
+Clinical Trial in Adults with End Stage Renal Disease (ESRD) Receiving Chronic Hemodialysis
+
+The safety of FTC and TAF (components of BIKTARVY) was evaluated in a single arm, open-label trial (Trial 1825) in virologically-suppressed adults with ESRD (estimated creatinine clearance of less than 15 mL/min) on chronic hemodialysis treated with FTC+TAF in combination with elvitegravir and cobicistat as a fixed-dose combination tablet for 96 weeks (N=55).
+The most commonly reported adverse reaction (adverse event assessed as causally related by investigator and all grades) was nausea (7%).
+Serious adverse events were reported in 65% of subjects and the most common serious adverse events were pneumonia (15%), fluid overload (7%), hyperkalemia (11%) and osteomyelitis (7%).
+Overall 7% of subjects permanently discontinued treatment due to an adverse event.
+In an extension phase of Trial 1825 in which 10 subjects switched to BIKTARVY for 48 weeks, the safety findings were similar to those in the initial phase of the open-label trial [see Use in Specific Populations (8.6), Clinical Studies (14.3)].
 
 Laboratory Abnormalities
 
@@ -52,14 +60,14 @@ The frequency of laboratory abnormalities (Grades 3–4) occurring in at least 2
 
 Table 2 Laboratory Abnormalities (Grades 3–4) Reported in ≥ 2% of Subjects Receiving BIKTARVY in Trials 1489 or 1490 (Week 48 analysis)
 
-| Laboratory Parameter Abnormality Frequencies are based on treatment-emergent laboratory abnormalities. | BIKTARVY N=314 | ABC/DTG/3TC N=315 | BIKTARVY N=320 | DTG + FTC/TAF N=325 |
+| Laboratory Parameter AbnormalityFrequencies are based on treatment-emergent laboratory abnormalities. | BIKTARVY N=314 | ABC/DTG/3TC N=315 | BIKTARVY N=320 | DTG + FTC/TAF N=325 |
 | --- | --- | --- | --- | --- |
 |  | Trial 1489 |  | Trial 1490 |  |
 | Amylase (>2.0 × ULN) | 2% | 2% | 2% | 2% |
 | ALT (>5.0 × ULN) | 1% | 1% | 2% | 1% |
 | AST (>5.0 × ULN) | 2% | 1% | 1% | 3% |
 | Creatine Kinase (≥10.0 × ULN) | 4% | 3% | 4% | 2% |
-| Neutrophils (<750 mm 3) | 2% | 3% | 2% | 1% |
+| Neutrophils (<750 mm3) | 2% | 3% | 2% | 1% |
 | LDL-cholesterol (fasted) (>190 mg/dL) | 2% | 3% | 3% | 3% |
 | ULN = Upper limit of normal |  |  |  |  |
 

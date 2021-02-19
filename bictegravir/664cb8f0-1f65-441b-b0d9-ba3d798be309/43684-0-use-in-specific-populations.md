@@ -91,8 +91,13 @@ Clinical trials of BIKTARVY did not include sufficient numbers of subjects aged 
 
 ## 8.6 Renal Impairment
 
-BIKTARVY is not recommended in patients with severe renal impairment (estimated creatinine clearance (CL cr) below 30 mL per minute, estimated by Cockcroft-Gault (C-G).
-No dosage adjustment of BIKTARVY is recommended in patients with CL cr greater than or equal to 30 mL per minute [see Dosage and Administration (2.3)].
+The pharmacokinetics, safety, virologic and immunologic responses of FTC and TAF (components of BIKTARVY) were evaluated in a single arm, open-label trial (Trial 1825) in virologically-suppressed adults with ESRD (estimated creatinine clearance of less than 15 mL/min) on chronic hemodialysis treated with FTC+TAF in combination with elvitegravir and cobicistat as a fixed-dose combination tablet for 96 weeks (N=55).
+In an extension phase of Trial 1825, 10 virologically-suppressed subjects switched to BIKTARVY and all remained virologically suppressed for 48 weeks [see Adverse Reactions (6.1), Clinical Pharmacology (12.3), Clinical Studies (14.3)].
+
+No dosage adjustment of BIKTARVY is recommended in patients with estimated creatinine clearance greater than or equal to 30 mL per minute, or in virologically-suppressed adults with ESRD (estimated creatinine clearance below 15 mL per minute) who are receiving chronic hemodialysis.
+On days of hemodialysis, administer the daily dose of BIKTARVY after completion of hemodialysis treatment [see Dosage and Administration (2.3)]
+
+BIKTARVY is not recommended in patients with severe renal impairment (estimated creatinine clearance of 15 to below 30 mL per minute, by Cockcroft-Gault), or patients with ESRD (estimated creatinine clearance below 15 mL per minute) who are not receiving chronic hemodialysis, or patients with no antiretroviral treatment history and ESRD who are receiving chronic hemodialysis, as the safety and/or efficacy of BIKTARVY has not been established in these populations [see Dosage and Administration (2.3), Warnings and Precautions (5.4) and Clinical Pharmacology (12.3)].
 
 ## 8.7 Hepatic Impairment
 
