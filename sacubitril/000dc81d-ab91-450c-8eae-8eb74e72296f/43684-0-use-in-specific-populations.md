@@ -32,11 +32,11 @@ Data
 
 Animal Data
 
-ENTRESTO treatment during organogenesis resulted in increased embryo-fetal lethality in rats at doses ≥ 49 mg sacubitril/51 mg valsartan/kg/day (≤ 0.14 [LBQ657, the active metabolite] and 1.5 [valsartan]-fold the maximum recommended human dose [MRHD] of 97/103 mg twice-daily on the basis of the area under the plasma drug concentration-time curve [AUC]) and rabbits at doses ≥ 5 mg sacubitril/5 mg valsartan/kg/day (4-fold and 0.06-fold the MRHD on the basis of valsartan and LBQ657 AUC, respectively).
+ENTRESTO treatment during organogenesis resulted in increased embryo-fetal lethality in rats at doses ≥ 49 mg sacubitril/51 mg valsartan/kg/day (≤ 0.06 [LBQ657, the active metabolite] and 0.72 [valsartan]-fold the maximum recommended human dose [MRHD] of 97/103 mg twice-daily on the basis of the area under the plasma drug concentration-time curve [AUC]) and rabbits at doses ≥ 5 mg sacubitril/5 mg valsartan/kg/day (2-fold and 0.03-fold the MRHD on the basis of valsartan and LBQ657 AUC, respectively).
 ENTRESTO is teratogenic based on a low incidence of fetal hydrocephaly, associated with maternally toxic doses, which was observed in rabbits at an ENTRESTO dose of ≥ 5 mg sacubitril/5 mg valsartan/kg/day.
 The adverse embryo-fetal effects of ENTRESTO are attributed to the angiotensin receptor antagonist activity.
 
-Pre- and postnatal development studies in rats at sacubitril doses up to 750 mg/kg/day (4.5-fold the MRHD on the basis of LBQ657 AUC) and valsartan at doses up to 600 mg/kg/day (0.86-fold the MRHD on the basis of AUC) indicate that treatment with ENTRESTO during organogenesis, gestation and lactation may affect pup development and survival.
+Pre- and postnatal development studies in rats at sacubitril doses up to 750 mg/kg/day (2.2-fold the MRHD on the basis of LBQ657 AUC) and valsartan at doses up to 600 mg/kg/day (0.86-fold the MRHD on the basis of AUC) indicate that treatment with ENTRESTO during organogenesis, gestation and lactation may affect pup development and survival.
 
 ## 8.2 Lactation
 

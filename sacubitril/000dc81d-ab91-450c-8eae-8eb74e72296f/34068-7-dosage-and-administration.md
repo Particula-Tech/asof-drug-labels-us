@@ -50,7 +50,7 @@ Shake before each use.
 ## 2.5 Dose Adjustment for Patients Not Taking an ACE inhibitor or ARB or Previously Taking Low Doses of These Agents
 
 In patients not currently taking an ACE inhibitor or an angiotensin II receptor blocker (ARB) and for patients previously taking low doses of these agents, start ENTRESTO at half the usually recommended starting dose.
-After initiation, increase the dose to follow the recommended dose escalation thereafter [see Dosage and Administration (2.2, 2.3)].
+After initiation, increase the dose every 2 to 4 weeks in adults and every 2 weeks in pediatric patients to follow the recommended dose escalation thereafter [see Dosage and Administration (2.2, 2.3)].
 
 Note: Initiate pediatric patients weighing 40 to 50 kg who meet this criterion at 0.8 mg/kg twice daily using the oral suspension [see Dosage and Administration (2.3, 2.4)].
 
@@ -61,9 +61,7 @@ After initiation, increase the dose to follow the recommended dose escalation th
 
 Note: Initiate pediatric patients weighing 40 to 50 kg who meet this criterion at 0.8 mg/kg twice daily using the oral suspension [see Dosage and Administration (2.3, 2.4)].
 
-No starting dose adjustment is needed for mild hepatic impairment.
-
-Use in patients with severe hepatic impairment is not recommended.
+No starting dose adjustment is needed for mild or moderate renal impairment.
 
 ## 2.7 Dose Adjustment for Hepatic Impairment
 
@@ -72,4 +70,6 @@ After initiation, increase the dose to follow the recommended dose escalation th
 
 Note: Initiate pediatric patients weighing 40 to 50 kg who meet this criterion at 0.8 mg/kg twice daily using the oral suspension [see Dosage and Administration (2.3, 2.4)].
 
-No starting dose adjustment is needed for mild or moderate renal impairment.
+No starting dose adjustment is needed for mild hepatic impairment.
+
+Use in patients with severe hepatic impairment is not recommended.

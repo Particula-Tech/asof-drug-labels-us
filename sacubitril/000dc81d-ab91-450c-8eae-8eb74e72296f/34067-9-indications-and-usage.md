@@ -2,9 +2,10 @@
 
 ## 1.1 Adult Heart Failure
 
-ENTRESTO is indicated to reduce the risk of cardiovascular death and hospitalization for heart failure in patients with chronic heart failure (NYHA Class II-IV) and reduced ejection fraction.
+ENTRESTO is indicated to reduce the risk of cardiovascular death and hospitalization for heart failure in adult patients with chronic heart failure.
+Benefits are most clearly evident in patients with left ventricular ejection fraction (LVEF) below normal.
 
-ENTRESTO is usually administered in conjunction with other heart failure therapies, in place of an ACE inhibitor or other ARB.
+LVEF is a variable measure, so use clinical judgment in deciding whom to treat [see Clinical Studies (14.1)].
 
 ## 1.2 Pediatric Heart Failure
 

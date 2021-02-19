@@ -9,8 +9,7 @@ However, if there is no appropriate alternative to therapy with drugs affecting 
 
 ## 5.2 Angioedema
 
-ENTRESTO may cause angioedema.
-In the double-blind period of PARADIGM-HF, 0.5% of patients treated with ENTRESTO and 0.2% of patients treated with enalapril had angioedema [see Adverse Reactions (6.1)].
+ENTRESTO may cause angioedema [see Adverse Reactions (6.1)].
 If angioedema occurs, discontinue ENTRESTO immediately, provide appropriate therapy, and monitor for airway compromise.
 ENTRESTO must not be re-administered.
 In cases of confirmed angioedema where swelling has been confined to the face and lips, the condition has generally resolved without treatment, although antihistamines have been useful in relieving symptoms.
@@ -26,9 +25,8 @@ ENTRESTO should not be used in patients with hereditary angioedema.
 
 ## 5.3 Hypotension
 
-ENTRESTO lowers blood pressure and may cause symptomatic hypotension.
+ENTRESTO lowers blood pressure and may cause symptomatic hypotension [see Adverse Reactions (6.1)].
 Patients with an activated renin-angiotensin system, such as volume- and/or salt-depleted patients (e.g., those being treated with high doses of diuretics), are at greater risk.
-In the double-blind period of PARADIGM-HF, 18% of patients treated with ENTRESTO and 12% of patients treated with enalapril reported hypotension as an adverse event [see Adverse Reactions (6.1)], with hypotension reported as a serious adverse event in approximately 1.5% of patients in both treatment arms.
 Correct volume or salt depletion prior to administration of ENTRESTO or start at a lower dose.
 If hypotension occurs, consider dose adjustment of diuretics, concomitant antihypertensive drugs, and treatment of other causes of hypotension (e.g., hypovolemia).
 If hypotension persists despite such measures, reduce the dosage or temporarily discontinue ENTRESTO.
@@ -36,8 +34,7 @@ Permanent discontinuation of therapy is usually not required.
 
 ## 5.4 Impaired Renal Function
 
-As a consequence of inhibiting the renin-angiotensin-aldosterone system (RAAS), decreases in renal function may be anticipated in susceptible individuals treated with ENTRESTO.
-In the double-blind period of PARADIGM-HF, 5% of patients in both the ENTRESTO and enalapril groups reported renal failure as an adverse event [see Adverse Reactions (6.1)].
+As a consequence of inhibiting the renin-angiotensin-aldosterone system (RAAS), decreases in renal function may be anticipated in susceptible individuals treated with ENTRESTO [see Adverse Reactions (6.1)].
 In patients whose renal function depends upon the activity of the renin-angiotensin-aldosterone system (e.g., patients with severe congestive heart failure), treatment with ACE inhibitors and angiotensin receptor antagonists has been associated with oliguria, progressive azotemia and, rarely, acute renal failure and death.
 Closely monitor serum creatinine, and down-titrate or interrupt ENTRESTO in patients who develop a clinically significant decrease in renal function [see Use in Specific Populations (8.7) and Clinical Pharmacology (12.3)].
 
@@ -46,7 +43,6 @@ In patients with renal artery stenosis, monitor renal function.
 
 ## 5.5 Hyperkalemia
 
-Through its actions on the RAAS, hyperkalemia may occur with ENTRESTO.
-In the double-blind period of PARADIGM-HF, 12% of patients treated with ENTRESTO and 14% of patients treated with enalapril reported hyperkalemia as an adverse event [see Adverse Reactions (6.1)].
+Through its actions on the RAAS, hyperkalemia may occur with ENTRESTO [see Adverse Reactions (6.1)].
 Monitor serum potassium periodically and treat appropriately, especially in patients with risk factors for hyperkalemia such as severe renal impairment, diabetes, hypoaldosteronism, or a high potassium diet.
 Dosage reduction or interruption of ENTRESTO may be required [see Dosage and Administration (2.6)].

@@ -10,11 +10,16 @@ Valsartan inhibits the effects of angiotensin II by selectively blocking the AT1
 ## 12.2 Pharmacodynamics
 
 The pharmacodynamic effects of ENTRESTO were evaluated after single and multiple dose administrations in healthy subjects and in patients with heart failure, and are consistent with simultaneous neprilysin inhibition and renin-angiotensin system blockade.
+
 In a 7-day valsartan-controlled study in patients with reduced ejection fraction (HFrEF), administration of ENTRESTO resulted in a significant non-sustained increase in natriuresis, increased urine cGMP, and decreased plasma MR-proANP and NT-proBNP compared to valsartan.
 
 In a 21-day study in HFrEF patients, ENTRESTO significantly increased urine ANP and cGMP and plasma cGMP, and decreased plasma NT-proBNP, aldosterone and endothelin-1.
 ENTRESTO also blocked the AT1-receptor as evidenced by increased plasma renin activity and plasma renin concentrations.
 In PARADIGM-HF, ENTRESTO decreased plasma NT-proBNP (not a neprilysin substrate) and increased plasma BNP (a neprilysin substrate) and urine cGMP compared with enalapril.
+
+In PARAMOUNT, a randomized, double-blind, 36-week study in patients with heart failure with LVEF ≥ 45% comparing 97/103 mg of ENTRESTO (n=149) to 160 mg of valsartan (n =152) twice-daily, ENTRESTO decreased NT-proBNP by 17% while valsartan increased NT-proBNP by 8% at Week 12 (p = 0.005).
+
+In PARAGON-HF, ENTRESTO decreased NT-proBNP by 24% (Week 16) and 19% (Week 48) compared to 6% and 3% reductions on valsartan, respectively.
 
 QT Prolongation: In a thorough QTc clinical study in healthy male subjects, single doses of ENTRESTO 194 mg sacubitril/206 mg valsartan and 583 mg sacubitril/617 mg valsartan had no effect on cardiac repolarization.
 

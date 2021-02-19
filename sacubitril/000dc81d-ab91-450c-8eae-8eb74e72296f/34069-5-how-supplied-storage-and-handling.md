@@ -10,5 +10,5 @@ All strengths are packaged in bottles as described below.
 | 49 mg/51 mg | Pale yellow | L1 | 0777-20 | 0777-67 |  |
 | 97 mg/103 mg | Light pink | L11 | 0696-20 | 0696-67 |  |
 
-Store at 20°C to 25°C (77°F), excursions permitted 15°C to 30°C (59°F to 86°F) [see USP Controlled Room Temperature].
+Store at 20°C to 25°C (68°F to 77°F), excursions permitted between 15°C and 30°C (59°F and 86°F) [see USP Controlled Room Temperature].
 Protect from moisture.
