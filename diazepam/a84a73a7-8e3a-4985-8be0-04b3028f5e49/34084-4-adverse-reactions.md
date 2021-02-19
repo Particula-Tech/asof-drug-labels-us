@@ -27,7 +27,7 @@ The prescriber should be aware that these figures, obtained when diazepam rectal
 Similarly, the cited frequencies cannot be directly compared with figures obtained from other clinical investigations involving different treatments, uses, or investigators.
 An inspection of these frequencies, however, does provide the prescribing physician with one basis to estimate the relative contribution of drug and non-drug factors to the adverse event incidences in the population studied.
 
-TABLE 1: Treatment-Emergent Signs and Symptoms That Occurred in > 1% of Patients Enrolled in Parallel-Group, Placebo-Controlled Trials and Were Numerically More Common in the Diazepam Rectal Gel Group
+TABLE 1: Treatment-Emergent Signs and Symptoms That Occurred in > 1% Of Patients Enrolled in Parallel-Group, Placebo-Controlled Trials and Were Numerically More Common in the Diazepam Rectal Gel Group
 
 |  | Term | % | % |
 | --- | --- | --- | --- |

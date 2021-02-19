@@ -20,7 +20,7 @@ DIASTAT ACUDIAL is also packed with Instructions for Caregivers upon receipt fro
 
 Store at 25°C (77°F); excursions permitted to 15° to 30°C (59° to 86°F) [see USP Controlled Room Temperature].
 
-DIASTAT®ACUDIAL™
+DIASTAT® ACUDIAL™
 
 INSTRUCTIONS FOR CAREGIVERS UPON RECEIPT FROM PHARMACY
 
@@ -35,7 +35,7 @@ FOR EACH SYRINGE:
 
 SEE PHARMACIST IF YOU HAVE ANY QUESTIONS ABOUT THESE INSTRUCTIONS.
 
-The instructions are also available on the bottom of each drug product package.
+The Instructions are also available on the bottom of each drug product package.
 
 CAUTION: Federal law prohibits the transfer of this drug to any person other than the patient for whom it was prescribed.
 
@@ -45,9 +45,9 @@ Manufactured by: DPT Laboratories, Ltd. San Antonio, TX 78215 USA
 
 ®/™ are trademarks of Bausch Health Companies Inc. or its affiliates.
 
-© 2019 Bausch Health Companies Inc. or its affiliates
+© 2021 Bausch Health Companies Inc. or its affiliates
 
-9435003
+9435004
 
 Rev.
-10/19
+02/2021
