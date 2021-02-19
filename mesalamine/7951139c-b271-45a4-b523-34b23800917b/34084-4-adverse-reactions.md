@@ -21,8 +21,6 @@ Patients received doses of APRISO 1.5 g administered orally once per day for six
 
 In the two placebo-controlled trials, the most common reactions reported in at least 3% of APRISO-treated patients and at a greater rate than placebo are shown in Table 1 below.
 
-- Table 1: Common Adverse Reactions* in Clinical Trials of Adults with Ulcerative Colitis
-
 Table 1: Common Adverse Reactions* in Clinical Trials of Adults with Ulcerative Colitis
 
 |  | APRISO 1.5 g once daily N=367 | Placebo N=185 |

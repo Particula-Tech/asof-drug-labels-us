@@ -72,4 +72,4 @@ In general, consider the greater frequency of decreased hepatic, renal, or cardi
 
 Mesalamine is known to be substantially excreted by the kidney, and the risk of adverse reactions to this drug may be greater in patients with impaired renal function.
 Evaluate renal function in all patients prior to initiation and periodically while on APRISO therapy.
-Monitor patients with known renal impairment or history of renal disease or taking nephrotoxic drugs for decreased renal function and mesalamine-related adverse reactions [see Warnings and Precautions (5.1), Adverse Reactions (6.2), Drug Interactions (7.2)].
+Monitor patients with known renal impairment or history of renal disease or taking nephrotoxic drugs for decreased renal function and mesalamine-related adverse reactions [see Warnings and Precautions(5.1), Adverse Reactions (6.2), Drug Interactions (7.2)].

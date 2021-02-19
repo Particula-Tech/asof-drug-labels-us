@@ -2,7 +2,7 @@
 
 ## 7.1 Antacids
 
-Because the dissolution of the coating of the granules in APRISO capsules depends on pH, avoid co-administration of APRISO capsules with antacids [see Dosage and Administration (2)].
+Because the dissolution of the coating of the granules in APRISO capsules depends on pH, avoid co-administration of APRISO capsules with antacids [see Dosage and Administration(2)].
 
 ## 7.2 Nephrotoxic Agents, Including Non-Steroidal Anti-Inflammatory Drugs
 

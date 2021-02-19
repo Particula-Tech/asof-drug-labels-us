@@ -1,8 +1,6 @@
 # 2 DOSAGE AND ADMINISTRATION
 
-Dosage
-
-The recommended dosage in adults is 1.5 g (four 0.375 g capsules) orally once daily in the morning.
+Dosage The recommended dosage in adults is 1.5 g (four 0.375 g capsules) orally once daily in the morning.
 
 Administration Instructions
 

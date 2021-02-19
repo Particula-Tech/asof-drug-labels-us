@@ -15,11 +15,7 @@ For the table below (Table 3) all patients who prematurely withdrew from the stu
 
 In both studies, the proportion of patients who remained relapse-free at six months was greater for APRISO than for placebo.
 
-Table 3: Percentage of Ulcerative Colitis Patients Relapse-Free* Through 6 Months in APRISO
-
-- Maintenance Studies
-
-Maintenance Studies
+1. Table 3: Percentage of Ulcerative Colitis Patients Relapse-Free* Through 6 Months in APRISO Maintenance Studies
 
 |  | APRISO 1.5 g once daily % (# no relapse/N) | Placebo % (# no relapse/N) | Difference (95% C.I.) | P-value |
 | --- | --- | --- | --- | --- |
