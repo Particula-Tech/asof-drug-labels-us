@@ -61,7 +61,7 @@ The combined incidence of graft loss (5%) and patient death (2%) at 12 months po
 A double-blind, randomized, comparative, parallel-group, multicenter study in primary de novo heart transplant recipients was performed at centers in the United States (20), in Canada (1), in Europe (5) and in Australia (2).
 The total number of patients enrolled (ITT population) was 650; 72 never received study drug and 578 received study drug (Safety Population).
 Patients received mycophenolate mofetil 1.5 g twice daily (n=289) or AZA 1.5 to 3 mg/kg/day (n=289), in combination with cyclosporine (Sandimmune® or Neoral®) and corticosteroids as maintenance immunosuppressive therapy.
-The two primary efficacy endpoints were: (1) the proportion of patients who, after transplantation, had at least one endomyocardial biopsy- proven rejection with hemodynamic compromise, or were re-transplanted or died, within the first 6 months, and (2) the proportion of patients who died or were re-transplanted during the first 12 months following transplantation.
+The two primary efficacy endpoints were: (1) the proportion of patients who, after transplantation, had at least one endomyocardial biopsy-proven rejection with hemodynamic compromise, or were re-transplanted or died, within the first 6 months, and (2) the proportion of patients who died or were re-transplanted during the first 12 months following transplantation.
 Patients who prematurely discontinued treatment were followed for the occurrence of allograft rejection for up to 6 months and for the occurrence of death for 1 year.
 
 The analyses of the endpoints showed:
@@ -80,8 +80,8 @@ The analyses of the endpoints showed:
 
 A double-blind, randomized, comparative, parallel-group, multicenter study in primary hepatic transplant recipients was performed at centers in the United States (16), in Canada (2), in Europe (4) and in Australia (1).
 The total number of patients enrolled was 565.
-Per protocol, patients received mycophenolate mofetil 1 g twice daily intravenously for up to 14 days followed by mycophenolate mofetil 1.5 g twice daily orally or AZA 1 mg/kg/day to 2 mg/kg/day intravenously followed by AZA 1 to 2 mg/kg/day orally, in combination with cyclosporine (Neoral®) and corticosteroids as maintenance immunosuppressive therapy.
-The actual median oral dose of AZA on study was 1.5 mg/kg/day (range of 0.3mg/kg/day to 3.8 mg/kg/day) initially and 1.26 mg/kg/day (range of 0.3 mg/kg/day to 3.8 mg/kg/day) at 12 months.
+Per protocol, patients received mycophenolate mofetil 1 g twice daily intravenously for up to 14 days followed by mycophenolate mofetil 1.5 g twice daily orally or AZA 1 to 2 mg/kg/day intravenously followed by AZA 1 to 2 mg/kg/day orally, in combination with cyclosporine (Neoral®) and corticosteroids as maintenance immunosuppressive therapy.
+The actual median oral dose of AZA on study was 1.5 mg/kg/day (range of 0.3 to 3.8 mg/kg/day) initially and 1.26 mg/kg/day (range of 0.3 to 3.8 mg/kg/day) at 12 months.
 The two primary endpoints were: (1) the proportion of patients who experienced, in the first 6 months post-transplantation, one or more episodes of biopsy-proven and treated rejection or death or re-transplantation, and (2) the proportion of patients who experienced graft loss (death or re-transplantation) during the first 12 months post-transplantation.
 Patients who prematurely discontinued treatment were followed for the occurrence of allograft rejection and for the occurrence of graft loss (death or re-transplantation) for 1 year.
 

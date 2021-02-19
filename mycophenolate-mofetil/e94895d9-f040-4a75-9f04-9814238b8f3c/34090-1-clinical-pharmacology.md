@@ -96,7 +96,7 @@ Plasma MPA AUC observed after oral dosing to volunteers with severe chronic rena
 In addition, the single-dose plasma MPAG AUC was 3-fold to 6-fold higher in volunteers with severe renal impairment than in volunteers with mild renal impairment or healthy volunteers, consistent with the known renal elimination of MPAG.
 No data are available on the safety of long-term exposure to this level of MPAG.
 
-Plasma MPA AUC observed after single-dose (1 g) intravenous dosing to volunteers (n=4) with severe chronic renal impairment (GFR< 25 mL/min/1.73 m2) was 62.4 mcg∙h/mL (±19.3).
+Plasma MPA AUC observed after single-dose (1 g) intravenous dosing to volunteers (n=4) with severe chronic renal impairment (GFR< 25 mL/min/1.73 m2) was 62.4 mcg•h/mL (±19.3).
 Multiple dosing of MMF in patients with severe chronic renal impairment has not been studied.
 
 Patients with Delayed Graft Function or Nonfunction: In patients with delayed renal graft function post-transplant, mean MPA AUC (0-12h) was comparable to that seen in post-transplant patients without delayed renal graft function.
@@ -176,7 +176,7 @@ The mean (±SD) AUC(0-12h) and Cmax of cyclosporine after 14 days of multiple do
 
 Cyclosporine A interferes with MPA enterohepatic recirculation.
 In kidney transplant patients, mean MPA exposure (AUC(0-12h)) was approximately 30-50% greater when MMF was administered without cyclosporine compared with when MMF was coadministered with cyclosporine.
-This interaction is due to cyclosporine inhibition of multidrug-resistance‑ associated protein 2 (MRP-2) transporter in the biliary tract, thereby preventing the excretion of MPAG into the bile that would lead to enterohepatic recirculation of MPA.
+This interaction is due to cyclosporine inhibition of multidrug-resistance‑associated protein 2 (MRP-2) transporter in the biliary tract, thereby preventing the excretion of MPAG into the bile that would lead to enterohepatic recirculation of MPA.
 This information should be taken into consideration when MMF is used without cyclosporine.
 
 Drugs Affecting Glucuronidation: Concomitant administration of drugs inhibiting glucuronidation of MPA may increase MPA exposure (e.g., increase of MPA AUC(0-∞) by 35% was observed with concomitant administration of isavuconazole).
@@ -186,7 +186,7 @@ Telmisartan changes MPA’s elimination by enhancing PPAR gamma (peroxisome prol
 
 Ganciclovir: Following single-dose administration to 12 stable kidney transplant patients, no pharmacokinetic interaction was observed between MMF (1.5 g) and intravenous ganciclovir (5 mg/kg).
 Mean (±SD) ganciclovir AUC and Cmax (n=10) were 54.3 (±19.0) mcg•h/mL and 11.5 (±1.8) mcg/mL, respectively, after coadministration of the two drugs, compared to 51.0 (±17.0) mcg•h/mL and 10.6 (±2.0) mcg/mL, respectively, after administration of intravenous ganciclovir alone.
-The mean (±SD) AUC and Cmax of MPA (n=12) after coadministration were 80.9 (±21.6) mcg•h/mL and 27.8 (±13.9) mcg/mL, respectively, compared to values of 80.3 (±16.4) mcg•h/mL and 30.9 (±11.2) mcg/mL, respectively, after administration of MMF alone.
+The mean (±SD) AUC and Cmax of MPA (n=12) after coadministration were 80.9 (±21.6) mcg•h/mL and 27.8 (±13.9) mcg/mL, respectively, compared to values of 80.3 (±16.4) µg•h/mL and 30.9 (±11.2) mcg/mL, respectively, after administration of MMF alone.
 
 Oral Contraceptives: A study of coadministration of mycophenolate mofetil (1 g twice daily) and combined oral contraceptives containing ethinylestradiol (0.02 mg to 0.04 mg) and levonorgestrel (0.05 mg to 0.20 mg), desogestrel (0.15 mg) or gestodene (0.05 mg to 0.10 mg) was conducted in 18 women with psoriasis over 3 consecutive menstrual cycles.
 Mean serum levels of LH, FSH and progesterone were not significantly affected.
@@ -199,10 +199,10 @@ Antimicrobials: Antimicrobials eliminating beta-glucuronidase-producing bacteria
 Information concerning antibiotics is as follows:
 
 - •Trimethoprim/Sulfamethoxazole: Following single-dose administration of MMF (1.5 g) to 12 healthy male volunteers on day 8 of a 10-day course of trimethoprim 160 mg/sulfamethoxazole 800 mg administered twice daily, no effect on the bioavailability of MPA was observed.
-  The mean (±SD) AUC and Cmax of MPA after concomitant administration were 75.2 (±19.8) mcg•h/mL and 34.0 (±6.6) mcg/mL, respectively, compared to 79.2 (±27.9) mcg•h/mL and 34.2 (±10.7) mcg/mL, respectively, after administration of MMF alone.
+  The mean (±SD) AUC and Cmax of MPA after concomitant administration were 75.2 (±19.8) mcg•h/mL and 34.0 (±6.6) µg/mL, respectively, compared to 79.2 (±27.9) mcg•h/mL and 34.2 (±10.7) mcg/mL, respectively, after administration of MMF alone.
 - •Norfloxacin and Metronidazole: Following single-dose administration of MMF (1 g) to 11 healthy volunteers on day 4 of a 5-day course of a combination of norfloxacin and metronidazole, the mean MPA AUC(0-48h) was significantly reduced by 33% compared to the administration of MMF alone (p<0.05).
   The mean (±SD) MPA AUC(0-48h) after coadministration of MMF with norfloxacin or metronidazole separately was 48.3 (±24) mcg·h/mL and 42.7 (±23) mcg·h/mL, respectively, compared with 56.2 (±24) mcg·h/mL after administration of MMF alone.
-- •Ciprofloxacin and Amoxicillin Plus Clavulanic Acid: A total of 64 mycophenolate mofetil -treated kidney transplant recipients received either oral ciprofloxacin 500 mg twice daily or amoxicillin plus clavulanic acid 375 mg three times daily for 7 or at least 14 days, respectively.
-  Approximately 50% reductions in median trough MPA concentrations (pre‑ dose) from baseline (mycophenolate mofetil alone) were observed in 3 days following commencement of oral ciprofloxacin or amoxicillin plus clavulanic acid.
+- •Ciprofloxacin and Amoxicillin Plus Clavulanic Acid: A total of 64 mycophenolate mofetil-treated kidney transplant recipients received either oral ciprofloxacin 500 mg twice daily or amoxicillin plus clavulanic acid 375 mg three times daily for 7 or at least 14 days, respectively.
+  Approximately 50% reductions in median trough MPA concentrations (pre‑dose) from baseline (mycophenolate mofetil alone) were observed in 3 days following commencement of oral ciprofloxacin or amoxicillin plus clavulanic acid.
   These reductions in trough MPA concentrations tended to diminish within 14 days of antimicrobial therapy and ceased within 3 days of discontinuation of antibiotics.
 - •Rifampin: In a single heart-lung transplant patient, after correction for dose, a 67% decrease in MPA exposure (AUC(0-12h)) has been observed with concomitant administration of MMF and rifampin.

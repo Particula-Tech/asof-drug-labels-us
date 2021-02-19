@@ -31,10 +31,10 @@ In the de novo liver transplantation study with 12-month duration, patients rece
 The total number of patients enrolled was 565.
 
 Approximately 53% of the kidney transplant patients, 65% of the heart transplant patients, and 48% of the liver transplant patients were treated for more than 1 year.
-Adverse reactions reported in ≥20% of patients in the mycophenolate mofetil treatment groups are presented below.
+Adverse reactions reported in ≥ 20% of patients in the mycophenolate mofetil treatment groups are presented below.
 The safety data of three kidney transplantation studies are pooled together.
 
-1. Table 3 Adverse Reactions in Controlled Studies of De Novo Kidney, Heart or Liver Transplantation Reported in ≥20% of Patients in the Mycophenolate Mofetil Group
+1. Table 3 Adverse Reactions in Controlled Studies of De Novo Kidney, Heart or Liver Transplantation Reported in ≥ 20% of Patients in the Mycophenolate Mofetil Group
 
 | Adverse drug reaction (MedDRA)System Organ Class | Kidney Studies |  |  | Heart Study |  | Liver Study |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -103,7 +103,7 @@ Three-year safety data in kidney and heart transplant patients did not reveal an
 In pediatric patients, PTLD was observed in 1.35% (2/148) by 12 months post-transplant.
 
 Cytopenias, including leukopenia, anemia, thrombocytopenia and pancytopenia are a known risk associated with mycophenolate and may lead or contribute to the occurrence of infections and hemorrhages [see Warnings and Precautions (5.3)].
-Severe neutropenia (ANC <0.5 x 103/mcL) developed in up to 2% of kidney transplant patients, up to 2.8% of heart transplant patients and up to 3.6% of liver transplant patients receiving mycophenolate mofetil 3 g daily [see Warnings and Precautions (5.4) and Dosage and Administration (2.5)].
+Severe neutropenia (ANC <0.5 x 103/µL) developed in up to 2% of kidney transplant patients, up to 2.8% of heart transplant patients and up to 3.6% of liver transplant patients receiving mycophenolate mofetil 3 g daily [see Warnings and Precautions (5.4) and Dosage and Administration (2.5)].
 
 The most common opportunistic infections in patients receiving mycophenolate mofetil with other immunosuppressants were mucocutaneous candida, CMV viremia/syndrome, and herpes simplex.
 The proportion of patients with CMV viremia/syndrome was 13.5%.
@@ -156,7 +156,7 @@ Because these reactions are reported voluntarily from a population of uncertain 
 - -Cardiac abnormalities: atrial and ventricular septal defects
 - -Esophageal malformations: esophageal atresia
 - -Nervous system malformations: such as spina bifida.
-- •Cardiovascular: Venous, thrombosis has been reported in patients treated with mycophenolate mofetil administered intravenously.
+- •Cardiovascular: Venous thrombosis has been reported in patients treated with mycophenolate mofetil administered intravenously.
 - •Digestive: Colitis, pancreatitis
 - •Hematologic and Lymphatic: Bone marrow failure, cases of pure red cell aplasia (PRCA) and hypogammaglobulinemia have been reported in patients treated with mycophenolate mofetil in combination with other immunosuppressive agents [see Warnings and Precautions (5.4)].
 - •Immune: Hypersensitivity, hypogammaglobinemia.

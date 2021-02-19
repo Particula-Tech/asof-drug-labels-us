@@ -25,7 +25,7 @@ Mycophenolate mofetil intravenous is recommended for patients unable to take ora
 Mycophenolate mofetil intravenous should be administered within 24 hours following transplant.
 Mycophenolate mofetil intravenous can be administered for up to 14 days; however, patients should be switched to oral mycophenolate mofetil as soon as they can tolerate oral medication.
 
-Mycophenolate mofetil intravenous must be reconstituted before use [see Dosage and Administration (2.6)].
+Mycophenolate mofetil intravenous must be reconstituted before use.
 Mycophenolate mofetil intravenous is incompatible with other intravenous infusion solutions and should not be mixed or administered concurrently via the same infusion catheter with other intravenous drugs or infusion admixtures.
 
 Mycophenolate mofetil intravenous must not be administered as a bolus.
