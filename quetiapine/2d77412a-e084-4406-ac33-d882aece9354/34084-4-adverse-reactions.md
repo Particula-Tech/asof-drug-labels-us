@@ -347,7 +347,7 @@ Table 16 presents a listing of patients with adverse reactions associated with e
 
 Table 16: Adverse Reactions Associated with Extrapyramidal Symptoms in a Placebo-Controlled Trial in Children and Adolescent Patients with Bipolar I Mania (3-week duration)
 
-| Preferred Term There were no adverse reactions experiences with the preferred term of dystonic or dyskinetic events. | Quetiapine 400 mg/day (N=95) |  | Quetiapine 600 mg/day (N=98) |  | All Quetiapine (N=193) |  | Placebo (N=90) |  |
+| Preferred Term There were no adverse reactions with the preferred term of dystonic or dyskinetic events. | Quetiapine 400 mg/day (N=95) |  | Quetiapine 600 mg/day (N=98) |  | All Quetiapine (N=193) |  | Placebo (N=90) |  |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 |  | n | % | n | % | n | % | n | % |
 | Parkinsonism | 2 | 2.1 | 1 | 1.0 | 3 | 1.6 | 1 | 1.1 |
@@ -358,7 +358,7 @@ Laboratory, ECG, and vital sign changes observed in clinical studies Laboratory 
 
 Neutrophil Counts
 
-Adults: In placebo-controlled monotherapy clinical trials involving 3368 patients on quetiapine fumarate and 1515 on placebo, the incidence of at least one occurrence of neutrophil count <1.0 x 10 9/L among patients with a normal baseline neutrophil count and at least one available follow up laboratory measurement was 0.3% (10/2967) in patients treated with quetiapine fumarate, compared to 0.1% (2/1349) in patients treated with placebo.
+Adults: In placebo-controlled monotherapy clinical trials involving 3368 patients on quetiapine and 1515 on placebo, the incidence of at least one occurrence of neutrophil count <1.0 x 10 9/L among patients with a normal baseline neutrophil count and at least one available follow up laboratory measurement was 0.3% (10/2967) in patients treated with quetiapine, compared to 0.1% (2/1349) in patients treated with placebo.
 [see Warnings and Precautions (5.10)].
 
 Transaminase Elevations

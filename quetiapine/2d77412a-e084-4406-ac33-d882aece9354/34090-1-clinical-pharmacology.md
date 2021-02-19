@@ -22,7 +22,7 @@ In post marketing experience, there were cases reported of QT prolongation in pa
 
 Adults
 
-Quetiapine fumarate activity is primarily due to the parent drug.
+Quetiapine activity is primarily due to the parent drug.
 The multiple-dose pharmacokinetics of quetiapine are dose-proportional within the proposed clinical dose range, and quetiapine accumulation is predictable upon multiple dosing.
 Elimination of quetiapine is mainly via hepatic metabolism with a mean terminal half-life of about 6 hours within the proposed clinical dose range.
 Steady-state concentrations are expected to be achieved within two days of dosing.

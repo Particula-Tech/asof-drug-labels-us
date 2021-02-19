@@ -96,7 +96,8 @@ Before you take quetiapine tablets, tell your healthcare provider if you have or
   It is not known if quetiapine will harm your unborn baby.
 - If you become pregnant while receiving quetiapine, talk to your healthcare provider about registering with the National Pregnancy Registry for Atypical Antipsychotics.
   You can register by calling 1-866-961-2388 or go to http://womensmentalhealth.org/clinical-and-research-programs/pregnancyregistry/
-- breast-feeding or plans to breast-feed. quetiapine can pass into your breast milk.
+- breast-feeding or plans to breast-feed.
+  Quetiapine can pass into your breast milk.
   Talk to your healthcare provider about the best way to feed your baby if you receive quetiapine.
 - if you have or have had a condition where you cannot completely empty your bladder (urinary retention), have an enlarged prostate, or constipation, or increased pressure inside your eyes.
 
@@ -219,7 +220,7 @@ Your healthcare provider may check your white blood cell level to determine if f
 
 • abnormal thyroid tests: Your healthcare provider may do blood tests to check your thyroid hormone level.
 
-• increases in prolactin levels.
+• increases in prolactin levels
 
 • sleepiness, drowsiness, feeling tired, difficulty thinking and doing normal activities
 
@@ -288,7 +289,7 @@ For more information, go to www.accordhealthcare.us or call Accord Healthcare In
 
 What are the ingredients in quetiapine tablets?
 
-Active ingredient: quetiapine fumarate
+Active ingredient: quetiapine
 
 Inactive ingredients: povidone, dibasic calcium phosphate dihydrate, microcrystalline cellulose, sodium starch glycolate, lactose monohydrate, magnesium stearate, hypromellose, polyethylene glycol, and titanium dioxide.
 The 25 mg tablets contain iron oxide red and yellow.
@@ -306,6 +307,6 @@ Manufactured By:
 
 Intas Pharmaceuticals Limited, Ahmedabad -380 054, India.
 
-10 0210 6 6000849
+10 0210 7 6002793
 
-Issued March 2020
+Issued June 2020
