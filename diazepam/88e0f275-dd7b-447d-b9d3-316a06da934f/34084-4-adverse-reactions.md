@@ -27,11 +27,11 @@ The prescriber should be aware that these figures, obtained when diazepam rectal
 Similarly, the cited frequencies cannot be directly compared with figures obtained from other clinical investigations involving different treatments, uses, or investigators.
 An inspection of these frequencies, however, does provide the prescribing physician with one basis to estimate the relative contribution of drug and non-drug factors to the adverse event incidences in the population studied.
 
-TABLE 1: Treatment-Emergent Signs and Symptoms That Occurred in > 1% Of Patients Enrolled in Parallel-Group, Placebo-Controlled Trials and Were Numerically More Common in The Diazepam Rectal Gel Group
+TABLE 1: Treatment-Emergent Signs and Symptoms That Occurred in > 1% Of Patients Enrolled in Parallel-Group, Placebo-Controlled Trials and Were Numerically More Common in the Diazepam Rectal Gel Group
 
 | Body System | COSTART Term | DIASTAT N = 101 % | Placebo N = 104 % |
 | --- | --- | --- | --- |
-| Body as a Whole | Headache | 5% | 4% |
+| Body As A Whole | Headache | 5% | 4% |
 | Cardiovascular | Vasodilatation | 2% | 0% |
 | Digestive | Diarrhea | 4% | <1% |
 | Nervous | Ataxia Dizziness Euphoria Incoordination Somnolence | 3% 3% 3% 3% 23% | <1% 2% 0% 0% 8% |

@@ -1,6 +1,6 @@
 ADMINISTRATION AND DISPOSAL INSTRUCTIONS
 
-I M P O R T A N T
+IMPORTANT
 
 Read first before using
 
@@ -12,17 +12,15 @@ Please do not give DIASTAT® until:
 2. 2.Reviewed administration steps with the doctor
 3. 3.Understand the directions
 
-To the caregiver using DIASTAT® ACUDIAL™:
-
-Please do not give DIASTAT® ACUDIAL™ until:
+To the caregiver using DIASTAT® ACUDIAL™: Please do not give DIASTAT® ACUDIAL™ until:
 
 1. 1.You have confirmed:
-   1. •Prescribed dose is visible and if known, is correct
-   2. •green “READY” band is visible
-2. 
-3. 2.You have thoroughly read these instructions
-4. 3.Reviewed administration steps with the doctor
-5. 4.Understand the directions
+2. •Prescribed dose is visible and if known, is correct
+3. •green “READY” band is visible
+
+1. 2.You have thoroughly read these instructions
+2. 3.Reviewed administration steps with the doctor
+3. 4.Understand the directions
 
 Please do not administer DIASTAT until you feel comfortable with how to use DIASTAT.
 The doctor will tell you exactly when to use DIASTAT.
@@ -32,15 +30,15 @@ If you are not comfortable, then discuss your role with the doctor again.
 
 To help the person with seizures:
 
-- •You must be able to tell the difference between cluster and ordinary seizures.
-- •You must be comfortable and satisfied that you are able to give DIASTAT.
-- •You need to agree with the doctor on the exact conditions when to treat with DIASTAT.
-- •You must know how and for how long you should check the person after giving DIASTAT.
+- ✓You must be able to tell the difference between cluster and ordinary seizures.
+- ✓You must be comfortable and satisfied that you are able to give DIASTAT.
+- ✓You need to agree with the doctor on the exact conditions when to treat with DIASTAT.
+- ✓You must know how and for how long you should check the person after giving DIASTAT.
 
 To know what responses to expect:
 
-- •You need to know how soon seizures should stop or decrease in frequency after giving DIASTAT.
-- •You need to know what you should do if the seizures do not stop or there is a change in the person’s breathing, behavior or condition that alarms you.
+- ✓You need to know how soon seizures should stop or decrease in frequency after giving DIASTAT.
+- ✓You need to know what you should do if the seizures do not stop or there is a change in the person’s breathing, behavior or condition that alarms you.
 
 If you have any questions or feel unsure about using the treatment, CALL THE DOCTOR before using DIASTAT.
 
@@ -49,9 +47,9 @@ Based on the doctor’s directions or prescription.
 Your doctor may prescribe a second dose of diazepam rectal gel.
 If a second dose is needed, give it 4 hours to 12 hours after the first dose.
 
-________________________________________________________
+____________________________________________________________________________________
 
-________________________________________________________
+____________________________________________________________________________________
 
 Special considerations.
 
@@ -72,9 +70,9 @@ Confirm current weight is still the same as when DIASTAT was prescribed ________
 Check expiration date and always remove cap before using.
 Be sure seal pin is removed with the cap.
 
-T R E A T M E N T 1 ------------------------------------------------------------------------------------------------------------
+TREATMENT 1 ------------------------------------------------------------------------------------------------------------
 
-Important things to tell the doctor:
+Important things to tell the doctor.
 
 Things to do after treatment with DIASTAT:
 
@@ -86,7 +84,7 @@ Stay with the person for 4 hours and make notes on the following:
 - •Your doctor may prescribe a second dose of diazepam rectal gel.
   If a second dose is needed, give it 4 hours to 12 hours after the first dose.
 
-T R E A T M E N T 2
+TREATMENT 2
 
 ------------------------------------------------------------------------------------------------------------
 
@@ -96,9 +94,9 @@ Things to do after treatment with DIASTAT:
 
 Stay with the person for 4 hours and make notes on the following:
 
-- •Changes in resting breathing rate_____________________________________________
-- •Changes in color __________________________________________________________
-- •Possible side effects from treatment________________________
+- •Changes in resting breathing rate_________________________________________________
+- •Changes in color _____________________________________________________________
+- •Possible side effects from treatment_______________________________________________
 
 ADMINISTRATION AND DISPOSAL INSTRUCTIONS
 
@@ -108,7 +106,9 @@ Manufactured by: DPT Laboratories, Ltd. San Antonio, TX 78215 USA
 
 ®/™ are trademarks of Bausch Health Companies Inc. or its affiliates.
 
-©2019 Bausch Health Companies Inc. or its affiliates
+© 2021 Bausch Health Companies Inc. or its affiliates
 
-9435003 Rev.
-10/19
+9435004
+
+Rev.
+02/2021

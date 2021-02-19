@@ -2,7 +2,7 @@
 
 NDC 66490-650-20
 
-Rx Only
+Rx only
 
 2.5 mg
 
