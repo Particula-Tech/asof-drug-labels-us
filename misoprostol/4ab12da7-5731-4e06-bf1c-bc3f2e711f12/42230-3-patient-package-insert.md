@@ -34,7 +34,7 @@ See your doctor if you have questions.
 
 Keep out of reach of children.
 
-This product's label may have been updated.
-For current full prescribing information, please visit www.pfizer.com.
+This product's labeling may have been updated.
+For the most recent prescribing information, please visit www.pfizer.com.
 
-LAB-0172–3.0 Revised January 2017
+LAB-0172–4.0 Revised February 2021
