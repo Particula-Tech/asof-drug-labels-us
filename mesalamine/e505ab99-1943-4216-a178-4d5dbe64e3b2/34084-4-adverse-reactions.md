@@ -42,6 +42,6 @@ Anemia, leukocytosis, and thrombocytosis can be part of the clinical presentatio
 
 ## Hair Loss
 
-Mild hair loss characterized by "more hair in the comb" but no withdrawal from clinical trials has been observed in 7 of 815 mesalamine patients but none of the placebo-treated patients.
+Mild hair loss characterized by “more hair in the comb” but no withdrawal from clinical trials has been observed in 7 of 815 mesalamine patients but none of the placebo-treated patients.
 In the literature there are at least six additional patients with mild hair loss who received either mesalamine or sulfasalazine.
 Retreatment is not always associated with repeated hair loss.

@@ -22,7 +22,7 @@ Take care in choosing a suitable location for administration of this product.
 1. 3.Assume the Correct Body Position
 2. a.Best results are obtained by lying on the left side with the left leg extended and the right leg flexed forward for balance.
 
-1. b.An alternative to lying on the left side is the "knee-chest" position as shown here.
+1. b.An alternative to lying on the left side is the “knee-chest” position as shown here.
 
 1. 4.Administer the Medication
 2. a.Gently insert the lubricated applicator tip into the rectum to prevent damage to the rectal wall, pointed slightly toward the navel.
@@ -35,8 +35,8 @@ Take care in choosing a suitable location for administration of this product.
 
 Rx only
 
-IN-003606-X1 Rev.
-9/2020
+IN-003606-03 Rev.
+10/2020
 
 Distributed by:
 

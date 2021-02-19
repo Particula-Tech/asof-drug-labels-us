@@ -99,8 +99,10 @@ Safety and effectiveness in pediatric patients have not been established.
 
 ## Geriatric Use
 
-Clinical studies of ROWASA did not include sufficient numbers of subjects aged 65 and over to determine whether they respond differently from younger subjects.
+Clinical trials of ROWASA did not include sufficient numbers of patients aged 65 years and over to determine whether they respond differently from younger patients.
 Reports from uncontrolled clinical studies and postmarketing reporting systems suggested a higher incidence of blood dyscrasias (i.e., agranulocytosis, neutropenia and pancytopenia) in patients receiving mesalamine-containing products such as ROWASA who were 65 years or older compared to younger patients.
 
-Consider Monitoring of complete blood cell counts and platelet counts in elderly patients during treatment with ROWASA.
+Consider monitor complete blood cell counts and platelet counts in elderly patients during treatment with ROWASA.
 In general, consider the greater frequency of decreased hepatic, renal, or cardiac function, and of concurrent disease or other drug therapy in elderly patients when prescribing ROWASA.
+
+To report SUSPECTED ADVERSE REACTIONS, contact Meda Pharmaceuticals Inc. at 1-866-210-5949 or FDA at 1-800-FDA-1088 or www.fda.gov/medwatch.
