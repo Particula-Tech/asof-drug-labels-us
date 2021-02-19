@@ -16,7 +16,7 @@ PHARMACIST: Dispense the accompanying Medication Guide to each patient.
 
 BAUSCH Health
 
-# Package/Label Display Panel - 1.0 mg Bottle Label
+# Package/Label Display Panel
 
 NDC 0187-0064-01
 

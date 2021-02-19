@@ -4,44 +4,43 @@ Risks from Concomitant Use with Opioids
 
 Concomitant use of benzodiazepines, including Ativan, and opioids may result in profound sedation, respiratory depression, coma, and death.
 Because of these risks, reserve concomitant prescribing of these drugs in patients for whom alternative treatment options are inadequate.
-
 Observational studies have demonstrated that concomitant use of opioid analgesics and benzodiazepines increases the risk of drug-related mortality compared to use of opioids alone.
 If a decision is made to prescribe Ativan concomitantly with opioids, prescribe the lowest effective dosages and minimum durations of concomitant use, and follow patients closely for signs and symptoms of respiratory depression and sedation.
 In patients already receiving an opioid analgesic, prescribe a lower initial dose of Ativan than indicated in the absence of an opioid and titrate based on clinical response.
 If an opioid is initiated in a patient already taking Ativan, prescribe a lower initial dose of the opioid and titrate based upon clinical response.
 
 Advise both patients and caregivers about the risks of respiratory depression and sedation when Ativan is used with opioids.
-Advise patients not to drive or operate heavy machinery until the effects of concomitant use with the opioid have been determined (see PRECAUTIONS, Drug Interactions).
+Advise patients not to drive or operate heavy machinery until the effects of concomitant use with the opioid have been determined (see PRECAUTIONS: Drug Interactions).
 
 Abuse, Misuse, and Addiction
 
 The use of benzodiazepines, including Ativan, exposes users to the risks of abuse, misuse, and addiction, which can lead to overdose or death.
-Abuse and misuse of benzodiazepines often (but not always) involve the use of doses greater than the maximum recommended dosage and commonly involve concomitant use of other medications, alcohol, and/or illicit substances, which is associated with an increased frequency of serious adverse outcomes, including respiratory depression, overdose, or death (see DRUG ABUSE AND DEPENDENCE, Abuse).
+Abuse and misuse of benzodiazepines often (but not always) involve the use of doses greater than the maximum recommended dosage and commonly involve concomitant use of other medications, alcohol, and/or illicit substances, which is associated with an increased frequency of serious adverse outcomes, including respiratory depression, overdose, or death (see DRUG ABUSE AND DEPENDENCE: Abuse).
 
-Before prescribing Ativan and throughout treatment, assess each patient’s risk for abuse, misuse, and addiction.
+Before prescribing Ativan and throughout treatment, assess each patient’s risk for abuse, misuse, and addiction (e.g., using a standardized screening tool).
 Use of Ativan, particularly in patients at elevated risk, necessitates counseling about the risks and proper use of Ativan along with monitoring for signs and symptoms of abuse, misuse, and addiction.
-Prescribe the lowest possible dosage for the shortest duration; avoid or minimize concomitant use of CNS depressants and other substances associated with abuse, misuse, and addiction (e.g., opioid analgesics, stimulants); and advise patients on the proper disposal of unused drug.
+Prescribe the lowest effective dosage; avoid or minimize concomitant use of CNS depressants and other substances associated with abuse, misuse, and addiction (e.g., opioid analgesics, stimulants); and advise patients on the proper disposal of unused drug.
 If a substance use disorder is suspected, evaluate the patient and institute (or refer them for) early treatment, as appropriate.
 
 Dependence and Withdrawal Reactions
 
-To reduce the risk of withdrawal reactions, use a gradual taper to discontinue Ativan or reduce the dosage (a patient-specific plan should be used to taper the dose) (see DOSAGE AND ADMINSTRATION, Discontinuation or Dosage Reduction of Ativan).
+To reduce the risk of withdrawal reactions, use a gradual taper to discontinue Ativan or reduce the dosage (a patient-specific plan should be used to taper the dose) (see DOSAGE AND ADMINSTRATION: Discontinuation or Dosage Reduction of Ativan).
 
 Patients at an increased risk of withdrawal adverse reactions after benzodiazepine discontinuation or rapid dosage reduction include those who take higher dosages, and those who have had longer durations of use.
 
 Acute Withdrawal Reactions
 
-The continued use of benzodiazepines, including Ativan, for several days to weeks may lead to clinically significant physical dependence.
-Abrupt discontinuation or rapid dosage reduction of Ativan after continued use (for several days or weeks), or administration of flumazenil (a benzodiazepine antagonist) may precipitate acute withdrawal reactions, which can be life-threatening (e.g., seizures) (see DRUG ABUSE AND DEPENDENCE, Dependence).
+The continued use of benzodiazepines, including Ativan, may lead to clinically significant physical dependence.
+Abrupt discontinuation or rapid dosage reduction of Ativan after continued use, or administration of flumazenil (a benzodiazepine antagonist) may precipitate acute withdrawal reactions, which can be life-threatening (e.g., seizures) (see DRUG ABUSE AND DEPENDENCE: Dependence).
 
 Protracted Withdrawal Syndrome
 
-In some cases, benzodiazepine users have developed a protracted withdrawal syndrome with withdrawal symptoms lasting weeks to more than 12 months (see DRUG ABUSE AND DEPENDENCE, Dependence).
+In some cases, benzodiazepine users have developed a protracted withdrawal syndrome with withdrawal symptoms lasting weeks to more than 12 months (see DRUG ABUSE AND DEPENDENCE: Dependence).
 
 Pre-existing depression may emerge or worsen during use of benzodiazepines including lorazepam.
 Ativan (lorazepam) is not recommended for use in patients with a primary depressive disorder or psychosis.
 
-Use of benzodiazepines, including lorazepam, both used alone and in combination with other CNS depressants, may lead to potentially fatal respiratory depression (see PRECAUTIONS, Drug Interactions).
+Use of benzodiazepines, including lorazepam, both used alone and in combination with other CNS depressants, may lead to potentially fatal respiratory depression (see PRECAUTIONS: Drug Interactions).
 
 As with all patients on CNS-depressant drugs, patients receiving lorazepam should be warned not to operate dangerous machinery or motor vehicles and that their tolerance for alcohol and other CNS depressants will be diminished.
 
@@ -78,19 +77,19 @@ Advise the patient to read the FDA-approved patient labeling (Medication Guide).
 
 Risks from Concomitant Use with Opioids
 
-Advise both patients and caregivers about the risks of potentially fatal respiratory depression and sedation when Ativan is used with opioids and not to use drugs such as concomitantly unless supervised by a healthcare provider.
-Advise patients not to drive or operate heavy machinery until the effects of concomitant use with the opioid have been determined (see WARNINGS, Risks from Concomitant Use with Opioids and PRECAUTIONS, Drug Interactions).
+Advise both patients and caregivers about the risks of potentially fatal respiratory depression and sedation when Ativan is used with opioids and not to use such drugs concomitantly unless supervised by a health care provider.
+Advise patients not to drive or operate heavy machinery until the effects of concomitant use with the opioid have been determined (see WARNINGS: Risks from Concomitant Use of Opioids and PRECAUTIONS: Drug Interactions).
 
 Abuse, Misuse, and Addiction
 
 Inform patients that the use of Ativan even at recommended doses, exposes users to risks of abuse, misuse, and addiction, which can lead to overdose and death, especially when used in combination with other medications (e.g., opioid analgesics), alcohol, and/or illicit substances.
-Inform patients about the signs and symptoms of benzodiazepine abuse, misuse, and addiction; to seek medical help if they develop these signs and/or symptoms; and on the proper disposal of unused drug (see WARNINGS, Abuse Misuse, and Addiction and DRUG ABUSE AND DEPENDENCE).
+Inform patients about the signs and symptoms of benzodiazepine abuse, misuse, and addiction; to seek medical help if they develop these signs and/or symptoms; and on the proper disposal of unused drug (see WARNINGS: Abuse Misuse, and Addiction and DRUG ABUSE AND DEPENDENCE).
 
 Withdrawal Reactions
 
-Inform patients that the continued use of Ativan for several days or weeks may lead to clinically significant physical dependence and that abrupt discontinuation or rapid dosage reduction of Ativan may precipitate acute withdrawal reactions, which can be life-threatening.
-Inform patients that in some cases, patients have developed a protracted withdrawal syndrome with withdrawal symptoms lasting weeks to more than 12 months.
-Instruct patients that discontinuation or dosage reduction of Ativan may require a slow taper (see WARNINGS, Dependence and Withdrawal Reactions and DRUG ABUSE AND DEPENDENCE).
+Inform patients that the continued use of Ativan may lead to clinically significant physical dependence and that abrupt discontinuation or rapid dosage reduction of Ativan may precipitate acute withdrawal reactions, which can be life-threatening.
+Inform patients that in some cases, patients taking benzodiazepines have developed a protracted withdrawal syndrome with withdrawal symptoms lasting weeks to more than 12 months.
+Instruct patients that discontinuation or dosage reduction of Ativan may require a slow taper (see WARNINGS: Dependence and Withdrawal Reactions and DRUG ABUSE AND DEPENDENCE).
 
 ## Essential Laboratory Tests
 
