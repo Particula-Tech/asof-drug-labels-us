@@ -27,7 +27,7 @@ Miscellaneous: Dehydration, general deterioration, fever, lymphadenopathy, weigh
 
 Neurologic: Abnormal eye movements, aphonia, choreiform movements, coma, diplopia, dysarthria, dysdiadochokinesis, ''glassy-eyed'' appearance, headache, hemiparesis, hypotonia, nystagmus, respiratory depression, slurred speech, tremor, vertigo
 
-Psychiatric: Confusion, depression, amnesia, hallucinations, hysteria, increased libido, insomnia, psychosis (the behavior effects are more likely to occur in patients with a history of psychiatric disturbances).
+Psychiatric: Confusion, depression, amnesia, hysteria, increased libido, insomnia, psychosis (the behavior effects are more likely to occur in patients with a history of psychiatric disturbances).
 
 The following paradoxical reactions have been observed: irritability, aggression, agitation, nervousness, hostility, anxiety, sleep disturbances, nightmares, abnormal dreams, hallucinations.
 
@@ -112,11 +112,9 @@ Table 3 Treatment-Emergent Adverse Event Incidence in 6- to 9-Week Placebo-Contr
 | Vision Disorders |  |  |  |  |  |  |
 | Blurred Vision | 1 | 2 | 3 | 0 | 1 | 1 |
 | Reproductive DisordersDenominators for events in gender-specific systems are: n=240 (clonazepam), 102 (placebo) for male, and 334 (clonazepam), 192 (placebo) for female. |  |  |  |  |  |  |
-| Female |  |  |  |  |  |  |
-| Dysmenorrhea | 0 | 6 | 5 | 2 | 3 | 2 |
+| Female Dysmenorrhea | 0 | 6 | 5 | 2 | 3 | 2 |
 | Colpitis | 4 | 0 | 2 | 1 | 1 | 1 |
-| Male |  |  |  |  |  |  |
-| Ejaculation Delayed | 0 | 0 | 2 | 2 | 1 | 0 |
+| Male Ejaculation Delayed | 0 | 0 | 2 | 2 | 1 | 0 |
 | Impotence | 3 | 0 | 2 | 1 | 1 | 0 |
 
 ### Commonly Observed Adverse Events

@@ -3,16 +3,41 @@
 ## Risks from Concomitant Use with Opioids
 
 Concomitant use of benzodiazepines, including Klonopin, and opioids may result in profound sedation, respiratory depression, coma, and death.
-Because of these risks, reserve concomitant prescribing of benzodiazepines and opioids for use in patients for whom alternative treatment options are inadequate.
+Because of these risks, reserve concomitant prescribing of benzodiazepines and opioids for patients for whom alternative treatment options are inadequate.
 
 Observational studies have demonstrated that concomitant use of opioid analgesics and benzodiazepines increases the risk of drug-related mortality compared to use of opioids alone.
 If a decision is made to prescribe Klonopin concomitantly with opioids, prescribe the lowest effective dosages and minimum durations of concomitant use, and follow patients closely for signs and symptoms of respiratory depression and sedation.
-Advise both patients and caregivers about the risks of respiratory depression and sedation when Klonopin is used with opioids (see PRECAUTIONS: Information for Patients) and PRECAUTIONS: Drug Interactions).
+Advise both patients and caregivers about the risks of respiratory depression and sedation when Klonopin is used with opioids (see PRECAUTIONS: Information for Patients and PRECAUTIONS: Drug Interactions).
+
+## Abuse, Misuse, and Addiction
+
+The use of benzodiazepines, including KLONOPIN, exposes users to the risks of abuse, misuse, and addiction, which can lead to overdose or death.
+Abuse and misuse of benzodiazepines often (but not always) involve the use of doses greater than the maximum recommended dosage and commonly involve concomitant use of other medications, alcohol, and/or illicit substances, which is associated with an increased frequency of serious adverse outcomes, including respiratory depression, overdose, or death (see DRUG ABUSE AND DEPENDENCE: Abuse).
+
+Before prescribing KLONOPIN and throughout treatment, assess each patient's risk for abuse, misuse, and addiction (e.g., using a standardized screening tool).
+Use of KLONOPIN, particularly in patients at elevated risk, necessitates counseling about the risks and proper use of KLONOPIN along with monitoring for signs and symptoms of abuse, misuse, and addiction.
+Prescribe the lowest effective dosage; avoid or minimize concomitant use of CNS depressants and other substances associated with abuse, misuse, and addiction (e.g., opioid analgesics, stimulants); and advise patients on the proper disposal of unused drug.
+If a substance use disorder is suspected, evaluate the patient and institute (or refer them for) early treatment, as appropriate.
+
+## Dependence and Withdrawal Reactions
+
+To reduce the risk of withdrawal reactions, use a gradual taper to discontinue KLONOPIN or reduce the dosage (a patient-specific plan should be used to taper the dose) (see DOSAGE AND ADMINISTRATION: Discontinuation or Dosage Reduction of KLONOPIN).
+
+Patients at an increased risk of withdrawal adverse reactions after benzodiazepine discontinuation or rapid dosage reduction include those who take higher dosages, and those who have had longer durations of use.
+
+### Acute Withdrawal Reactions
+
+The continued use of benzodiazepines, including KLONOPIN, may lead to clinically significant physical dependence.
+Abrupt discontinuation or rapid dosage reduction of KLONOPIN after continued use, or administration of flumazenil (a benzodiazepine antagonist) may precipitate acute withdrawal reactions, which can be life-threatening (e.g., seizures) (see DRUG ABUSE AND DEPENDENCE: Dependence).
+
+### Protracted Withdrawal Syndrome
+
+In some cases, benzodiazepine users have developed a protracted withdrawal syndrome with withdrawal symptoms lasting weeks to more than 12 months (see DRUG ABUSE AND DEPENDENCE: Dependence).
 
 ## Interference with Cognitive and Motor Performance
 
 Since Klonopin produces CNS depression, patients receiving this drug should be cautioned against engaging in hazardous occupations requiring mental alertness, such as operating machinery or driving a motor vehicle.
-They should also be warned about the concomitant use of alcohol or other CNS-depressant drugs during Klonopin therapy (see PRECAUTIONS: Drug Interactions and Information for Patients).
+They should also be warned about the concomitant use of alcohol or other CNS-depressant drugs during Klonopin therapy (see PRECAUTIONS: Drug Interactions and PRECAUTIONS: Information for Patients).
 
 ## Suicidal Behavior and Ideation
 
@@ -28,7 +53,7 @@ Because most trials included in the analysis did not extend beyond 24 weeks, the
 
 The risk of suicidal thoughts or behavior was generally consistent among drugs in the data analyzed.
 The finding of increased risk with AEDs of varying mechanisms of action and across a range of indications suggests that the risk applies to all AEDs used for any indication.
-The risk did not vary substantially by age (5-100 years) in the clinical trials analyzed.
+The risk did not vary substantially by age (5–100 years) in the clinical trials analyzed.
 
 Table 1 shows absolute and relative risk by indication for all evaluated AEDs.
 
@@ -49,10 +74,6 @@ Should suicidal thoughts and behavior emerge during treatment, the prescriber ne
 
 Patients, their caregivers, and families should be informed that AEDs increase the risk of suicidal thoughts and behavior and should be advised of the need to be alert for the emergence or worsening of the signs and symptoms of depression, any unusual changes in mood or behavior, or the emergence of suicidal thoughts, behavior, or thoughts about self-harm.
 Behaviors of concern should be reported immediately to healthcare providers.
-
-## Withdrawal Symptoms
-
-Withdrawal symptoms of the barbiturate type have occurred after the discontinuation of benzodiazepines (see DRUG ABUSE AND DEPENDENCE).
 
 # PRECAUTIONS
 
@@ -76,14 +97,8 @@ Periodic blood counts and liver function tests are advisable during long-term th
 ### Psychiatric and Paradoxical Reactions
 
 Paradoxical reactions, such as agitation, irritability, aggression, anxiety, anger, nightmares, hallucinations, and psychoses are known to occur when using benzodiazepines (see ADVERSE REACTIONS: Psychiatric).
-Should this occur, the use of the drug should be discontinued gradually (see PRECAUTIONS: Risks of Abrupt Withdrawal and DRUG ABUSE AND DEPENDENCE: Physical and Psychological Dependence).
+Should this occur, the use of the drug should be discontinued gradually (see WARNINGS: Dependence and Withdrawal Reactions and DRUG ABUSE AND DEPENDENCE: Dependence).
 Paradoxical reactions are more likely to occur in children and in the elderly.
-
-### Risks of Abrupt Withdrawal
-
-The abrupt withdrawal of Klonopin, particularly in those patients on long-term, high-dose therapy, may precipitate status epilepticus.
-Therefore, when discontinuing Klonopin, gradual withdrawal is essential.
-While Klonopin is being gradually withdrawn, the simultaneous substitution of another anticonvulsant may be indicated.
 
 ### Caution in Renally Impaired Patients
 
@@ -112,9 +127,16 @@ Physicians are advised to discuss the following issues with patients for whom th
 
 Inform patients and caregivers that potentially fatal additive effects may occur if Klonopin is used with opioids and not to use such drugs concomitantly unless supervised by a health care provider (see WARNINGS: Risks from Concomitant Use with Opioids and PRECAUTIONS: Drug Interactions).
 
-### Dose Changes
+### Abuse, Misuse, and Addiction
 
-To assure the safe and effective use of benzodiazepines, patients should be informed that, since benzodiazepines may produce psychological and physical dependence, it is advisable that they consult with their physician before either increasing the dose or abruptly discontinuing this drug.
+Inform patients that the use of KLONOPIN, even at recommended dosages, exposes users to risks of abuse, misuse, and addiction, which can lead to overdose and death, especially when used in combination with other medications (e.g., opioid analgesics), alcohol, and/or illicit substances.
+Inform patients about the signs and symptoms of benzodiazepine abuse, misuse, and addiction; to seek medical help if they develop these signs and/or symptoms; and on the proper disposal of unused drug (see WARNINGS: Abuse, Misuse, and Addiction and DRUG ABUSE AND DEPENDENCE).
+
+### Withdrawal Reactions
+
+Inform patients that the continued use of KLONOPIN may lead to clinically significant physical dependence and that abrupt discontinuation or rapid dosage reduction of KLONOPIN may precipitate acute withdrawal reactions, which can be life-threatening.
+Inform patients that in some cases, patients taking benzodiazepines have developed a protracted withdrawal syndrome with withdrawal symptoms lasting weeks to more than 12 months.
+Instruct patients that discontinuation or dosage reduction of KLONOPIN may require a slow taper (see WARNINGS: Dependence and Withdrawal Reactions and DRUG ABUSE AND DEPENDENCE).
 
 ### Interference With Cognitive and Motor Performance
 
@@ -130,7 +152,7 @@ Behaviors of concern should be reported immediately to healthcare providers.
 Patients should be advised to notify their physician if they become pregnant or intend to become pregnant during therapy with Klonopin (see PRECAUTIONS: Pregnancy).
 Patients should be encouraged to enroll in the North American Antiepileptic Drug (NAAED) Pregnancy Registry if they become pregnant.
 This registry is collecting information about the safety of antiepileptic drugs during pregnancy.
-To enroll, patients can call the toll free number 1-888-233-2334 (see PRECAUTIONS: Pregnancy).
+To enroll, patients can call the toll-free number 1-888-233-2334 (see PRECAUTIONS: Pregnancy).
 
 ### Nursing
 
@@ -155,7 +177,7 @@ Limit dosage and duration of concomitant use of benzodiazepines and opioids, and
 
 ### Effect of Clonazepam on the Pharmacokinetics of Other Drugs
 
-Clonazepam does not appear to alter the pharmacokinetics of phenytoin, carbamazepine or phenobarbital.
+Clonazepam does not appear to alter the pharmacokinetics of carbamazepine or phenobarbital.
 Clonazepam has the potential to influence concentrations of phenytoin.
 Monitoring of phenytoin concentration is recommended when clonazepam is co-administrated with phenytoin.
 The effect of clonazepam on the metabolism of other drugs has not been investigated.
@@ -211,7 +233,7 @@ Information on this registry can also be found at the website http://www.aedpreg
 
 ## Labor and Delivery
 
-The effect of Klonopin on labor and delivery in humans has not been specifically studied; however, perinatal complications have been reported in children born to mothers who have been receiving benzodiazepines late in pregnancy, including findings suggestive of either excess benzodiazepine exposure or of withdrawal phenomena (see WARNINGS: Pregnancy Risks).
+The effect of Klonopin on labor and delivery in humans has not been specifically studied; however, perinatal complications have been reported in children born to mothers who have been receiving benzodiazepines late in pregnancy, including findings suggestive of either excess benzodiazepine exposure or of withdrawal phenomena (see PRECAUTIONS: Pregnancy).
 
 ## Nursing Mothers
 

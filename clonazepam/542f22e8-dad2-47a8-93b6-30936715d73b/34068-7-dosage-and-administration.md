@@ -32,14 +32,14 @@ In general, elderly patients should be started on low doses of Klonopin and obse
 
 ### Adults
 
-The initial dose for adults with panic disorder is 0.25 mg bid.
+The initial dose for adults with panic disorder is 0.25 mg twice daily.
 An increase to the target dose for most patients of 1 mg/day may be made after 3 days.
 The recommended dose of 1 mg/day is based on the results from a fixed dose study in which the optimal effect was seen at 1 mg/day.
 Higher doses of 2, 3 and 4 mg/day in that study were less effective than the 1 mg/day dose and were associated with more adverse effects.
-Nevertheless, it is possible that some individual patients may benefit from doses of up to a maximum dose of 4 mg/day, and in those instances, the dose may be increased in increments of 0.125 to 0.25 mg bid every 3 days until panic disorder is controlled or until side effects make further increases undesired.
+Nevertheless, it is possible that some individual patients may benefit from doses of up to a maximum dose of 4 mg/day, and in those instances, the dose may be increased in increments of 0.125 to 0.25 mg twice daily every 3 days until panic disorder is controlled or until side effects make further increases undesired.
 To reduce the inconvenience of somnolence, administration of one dose at bedtime may be desirable.
 
-Treatment should be discontinued gradually, with a decrease of 0.125 mg bid every 3 days, until the drug is completely withdrawn.
+Treatment should be discontinued gradually, with a decrease of 0.125 mg twice daily every 3 days, until the drug is completely withdrawn.
 
 There is no body of evidence available to answer the question of how long the patient treated with clonazepam should remain on it.
 Therefore, the physician who elects to use Klonopin for extended periods should periodically reevaluate the long-term usefulness of the drug for the individual patient.
@@ -52,3 +52,9 @@ There is no clinical trial experience with Klonopin in panic disorder patients u
 
 There is no clinical trial experience with Klonopin in panic disorder patients 65 years of age and older.
 In general, elderly patients should be started on low doses of Klonopin and observed closely (see PRECAUTIONS: Geriatric Use).
+
+## Discontinuation or Dosage Reduction of KLONOPIN
+
+To reduce the risk of withdrawal reactions, increased seizure frequency, and status epilepticus, use a gradual taper to discontinue Klonopin or reduce the dosage.
+If a patient develops withdrawal reactions, consider pausing the taper or increasing the dosage to the previous tapered dosage level.
+Subsequently decrease the dosage more slowly (see WARNINGS: Dependence and Withdrawal Reactions and DRUG ABUSE AND DEPENDENCE: Dependence).
