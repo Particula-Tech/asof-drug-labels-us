@@ -30,7 +30,7 @@ The drug interactions described are based on studies conducted with PREVYMIS or 
 Table 3: Potentially Significant Drug Interactions: Alteration in Dose May Be Recommended Based on Results from Drug Interaction Studies or Predicted InteractionsThis table is not all inclusive.
 (Information in the Table Applies to Co-administration of PREVYMIS and the Concomitant Drug without Cyclosporine, Unless Otherwise Indicated)
 
-| Concomitant Drug Class and/or Clearance Pathway: Drug Name | Effect on Concentration↓ =decrease, ↑=increase | Clinical Comments |
+| Concomitant Drug Class and/or Clearance Pathway: Drug Name | Effect on Concentration↓ =decrease, ↑ =increase | Clinical Comments |
 | --- | --- | --- |
 | Anti-arrhythmic Agents |  |  |
 | amiodarone | ↑ amiodarone | Close clinical monitoring for adverse events related to amiodarone is recommended during co-administration. Frequently monitor amiodarone concentrations when amiodarone is co-administered with PREVYMIS. |
@@ -71,7 +71,7 @@ Table 3: Potentially Significant Drug Interactions: Alteration in Dose May Be Re
 | sirolimus | ↑ sirolimus | When PREVYMIS is co-administered with sirolimus, frequently monitor sirolimus whole blood concentrations during treatment and after discontinuation of PREVYMIS and adjust the dose of sirolimus accordingly. When PREVYMIS is co-administered with cyclosporine and sirolimus, refer to the sirolimus prescribing information for specific sirolimus dosing recommendations. |
 | tacrolimus | ↑ tacrolimus | Frequently monitor tacrolimus whole blood concentrations during treatment and after discontinuation of PREVYMIS and adjust the dose of tacrolimus accordingly. |
 | Proton Pump Inhibitors |  |  |
-| omeprazole | ↓omeprazole | Clinical monitoring and dose adjustment may be needed. |
+| omeprazole | ↓ omeprazole | Clinical monitoring and dose adjustment may be needed. |
 | pantoprazole | ↓ pantoprazole | Clinical monitoring and dose adjustment may be needed. |
 | Wakefulness-Promoting Agents |  |  |
 | modafinil | ↓ letermovir | Co-administration of PREVYMIS and modafinil is not recommended due to potential for loss of efficacy of PREVYMIS. |

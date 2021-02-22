@@ -50,7 +50,7 @@ Letermovir was also detected in the blood of nursing pups on post-partum/lactati
 Infertility
 
 There are no data on the effect of letermovir on human fertility.
-Decreased fertility due to testicular toxicity was observed in male rats [see Nonclinical Toxicology (13.1) and (13.2)].
+Decreased fertility due to testicular toxicity was observed in male rats [see Nonclinical Toxicology (13.1, 13.2)].
 
 ## 8.4 Pediatric Use
 

@@ -2,12 +2,12 @@
 
 ## 2.1 Important Dosing and Administration Information
 
-PREVYMIS™ Tablets
+PREVYMIS Tablets
 
 - Administer with or without food.
 - Swallow tablets whole.
 
-PREVYMIS™ Injection
+PREVYMIS Injection
 
 - PREVYMIS injection must be administered through a sterile 0.2 micron or 0.22 micron polyethersulfone (PES) in-line filter.
 - Administer by intravenous infusion via a peripheral catheter or central venous line at a constant rate over 1 hour.
@@ -71,7 +71,7 @@ Preparation and Administration Instructions
 - Use compatible IV bags and infusion set materials.
   PREVYMIS injection is compatible with the following IV bags and infusion set materials.
   PREVYMIS injection is not recommended with any IV bags or infusion set materials not listed below (note that PREVYMIS injection is not recommended for use with polyurethane-containing IV administration set tubing).
-  IV Bags Materials: Polyvinyl chloride (PVC), ethylene vinyl acetate (EVA) and polyolefin (polypropylene and polyethylene) Infusion Sets Materials: PVC, polyethylene (PE), polybutadiene (PBD), silicone rubber (SR), styrene–butadiene copolymer (SBC), styrene-butadiene-styrene copolymer (SBS), polystyrene (PS) Plasticizers:Tris (2-ethylhexyl) trimellitate (TOTM), benzyl butyl phthalate (BBP)Catheters: Radiopaque polyurethane
+  IV Bags Materials: Polyvinyl chloride (PVC), ethylene vinyl acetate (EVA) and polyolefin (polypropylene and polyethylene) Infusion Sets Materials: PVC, polyethylene (PE), polybutadiene (PBD), silicone rubber (SR), styrene–butadiene copolymer (SBC), styrene-butadiene-styrene copolymer (SBS), polystyrene (PS) Plasticizers: Tris (2-ethylhexyl) trimellitate (TOTM), benzyl butyl phthalate (BBP) Catheters: Radiopaque polyurethane
 - Once diluted, the solution of PREVYMIS is clear, and ranges from colorless to yellow.
   Variations of color within this range do not affect the quality of the product.
 - Parenteral drug products should be inspected visually for particulate matter and discoloration prior to administration.

@@ -3,7 +3,8 @@
 PREVYMIS contains letermovir, an inhibitor of the CMV DNA terminase complex, and is administered orally or by intravenous infusion.
 
 PREVYMIS is available as 240 mg and 480 mg tablets.
-PREVYMIS tablets contain either 240 mg or 480 mg of letermovir and the following inactive ingredients: colloidal silicon dioxide, croscarmellose sodium, magnesium stearate, microcrystalline cellulose, povidone 25, and film-coated with a coating material containing the following inactive ingredients: hypromellose 2910, iron oxide red (only for 480 mg tablets), iron oxide yellow, lactose monohydrate, titanium dioxide, and triacetin, Carnauba wax is added as a polishing agent.
+PREVYMIS tablets contain either 240 mg or 480 mg of letermovir and the following inactive ingredients: colloidal silicon dioxide, croscarmellose sodium, magnesium stearate, microcrystalline cellulose, povidone 25, and film-coated with a coating material containing the following inactive ingredients: hypromellose 2910, iron oxide red (only for 480 mg tablets), iron oxide yellow, lactose monohydrate, titanium dioxide, and triacetin.
+Carnauba wax is added as a polishing agent.
 
 PREVYMIS is also available as 240 mg and 480 mg injection for intravenous infusion.
 PREVYMIS injection is a clear, preservative-free sterile solution and may contain a few small translucent or white particles in single-dose vials of either 240 mg or 480 mg per vial.
