@@ -184,10 +184,6 @@ ONCE-A-DAY DOSING
 
 Rx only
 
-www.CoregCR.com
-
-Call 1-888-825-5249
-
 Each extended-release capsule contains 10 mg of carvedilol phosphate.
 Store at 25oC (77oF) [see USP].
 
@@ -199,15 +195,17 @@ This extended-release capsule formulation differs in strength from COREG tablets
 Keep this and all drugs out of the reach of children.
 In case of accidental overdose, seek professional help or contact a poison control center immediately.
 
+Distributed by:
+
 GlaxoSmithKline, RTP, NC 27709
 
 Made in Canada
 
-1. ©2019 GSK group of companies or its licensor.
+1. ©2021 GSK group of companies or its licensor.
    Rev.
-   8/19
+   1/21
 
-62000000042454
+62000000059952
 
 PRINICIPAL DISPLAY PANEL
 
@@ -227,10 +225,6 @@ ONCE-A-DAY DOSING
 
 Rx only
 
-www.CoregCR.com
-
-Call 1-888-825-5249
-
 Each extended-release capsule contains 20 mg of carvedilol phosphate.
 Store at 25oC (77oF) [see USP].
 
@@ -242,15 +236,17 @@ This extended-release capsule formulation differs in strength from COREG tablets
 Keep this and all drugs out of the reach of children.
 In case of accidental overdose, seek professional help or contact a poison control center immediately.
 
+Distributed by:
+
 GlaxoSmithKline, RTP, NC 27709
 
 Made in Canada
 
-1. ©2019 GSK group of companies or its licensor.
+1. ©2021 GSK group of companies or its licensor.
    Rev.
-   8/19
+   1/21
 
-62000000042455
+62000000059956
 
 PRINICIPAL DISPLAY PANEL
 
@@ -270,10 +266,6 @@ ONCE-A-DAY DOSING
 
 Rx only
 
-www.CoregCR.com
-
-Call 1-888-825-5249
-
 Each extended-release capsule contains 40 mg of carvedilol phosphate.
 Store at 25oC (77oF) [see USP].
 
@@ -285,15 +277,17 @@ This extended-release capsule formulation differs in strength from COREG tablets
 Keep this and all drugs out of the reach of children.
 In case of accidental overdose, seek professional help or contact a poison control center immediately.
 
+Distributed by:
+
 GlaxoSmithKline, RTP, NC 27709
 
 Made in Canada
 
-1. ©2019 GSK group of companies or its licensor.
+1. ©2021 GSK group of companies or its licensor.
    Rev.
-   8/19
+   1/21
 
-62000000042456
+62000000059950
 
 PRINICIPAL DISPLAY PANEL
 
@@ -313,10 +307,6 @@ ONCE-A-DAY DOSING
 
 Rx only
 
-www.CoregCR.com
-
-Call 1-888-825-5249
-
 Each extended-release capsule contains 80 mg of carvedilol phosphate.
 Store at 25oC (77oF) [see USP].
 
@@ -328,12 +318,14 @@ This extended-release capsule formulation differs in strength from COREG tablets
 Keep this and all drugs out of the reach of children.
 In case of accidental overdose, seek professional help or contact a poison control center immediately.
 
+Distributed by:
+
 GlaxoSmithKline, RTP, NC 27709
 
 Made in Canada
 
-1. ©2019 GSK group of companies or its licensor.
+1. ©2021 GSK group of companies or its licensor.
    Rev.
-   8/19
+   1/21
 
-62000000042458
+62000000059954
