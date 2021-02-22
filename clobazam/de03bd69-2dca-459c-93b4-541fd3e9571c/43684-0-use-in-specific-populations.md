@@ -13,7 +13,7 @@ Although some early epidemiological studies suggested a relationship between ben
 More recently completed studies of benzodiazepine use in pregnancy have not consistently documented elevated risks for specific congenital anomalies.
 There is insufficient evidence to assess the effect of benzodiazepine pregnancy exposure on neurodevelopment.
 There are clinical considerations regarding exposure to benzodiazepines during the second and third trimester of pregnancy or immediately prior to or during childbirth.
-These risks include decreased fetal movement and/or fetal heart rate variability, “floppy infant syndrome,” dependence, and withdrawal [seeClinical Considerationsand Human Data].
+These risks include decreased fetal movement and/or fetal heart rate variability, “floppy infant syndrome,” dependence, and withdrawal [see Clinical Considerations and Human Data].
 Administration of clobazam to pregnant rats and rabbits during the period of organogenesis or to rats throughout pregnancy and lactation resulted in developmental toxicity, including increased incidences of fetal malformations and mortality, at plasma exposures for clobazam and its major active metabolite, N-desmethylclobazam, below those expected at therapeutic doses in patients [see Animal Data].
 Data for other benzodiazepines suggest the possibility of long-term effects on neurobehavioral and immunological function in animals following prenatal exposure to benzodiazepines at clinically relevant doses.
 ONFI should be used during pregnancy only if the potential benefit to the mother justifies the potential risk to the fetus.
@@ -66,7 +66,7 @@ The effect of ONFI on milk production is unknown.
 The developmental and health benefits of breastfeeding should be considered along with the mother’s clinical need for ONFI and any potential adverse effects on the breastfed infant from ONFI or from the underlying maternal condition.
 If exposing a breastfed infant to ONFI, observe for any potential adverse effects.
 
-Clinical Considerations Monitoring for Adverse Reactions Adverse reactions such as somnolence and difficult feeding have been reported in infants during breastfeeding in postmarketing experience with ONFI.
+Clinical Considerations Monitoring for Adverse Reactions Adverse reactions such as somnolence and difficulty feeding have been reported in infants during breastfeeding in postmarketing experience with ONFI.
 Monitor breastfed infants for possible sedation and poor sucking.
 
 Data Scientific literature on ONFI use during lactation is limited.

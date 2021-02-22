@@ -9,29 +9,28 @@ What is the most important information I should know about ONFI?
   - breathing stops (which may lead to the heart stopping)
   - excessive sleepiness (sedation)
 - Risk of abuse, misuse, and addiction.
-  There is a risk of abuse, misuse, and addiction with ONFI treatment which can lead to overdose or death.
-  You can develop an addiction even if you take ONFI as prescribed by your healthcare provider.
+  There is a risk of abuse, misuse, and addiction with benzodiazepines, including ONFI, which can lead to overdose and serious side effects including coma and death.
   - Serious side effects including coma and death have happened in people who have abused or misused benzodiazepines, including ONFI.
-    These serious side effects may include delirium, paranoia, suicidal thoughts or actions, seizures, and difficulty breathing.
+    These serious side effects may also include delirium, paranoia, suicidal thoughts or actions, seizures, and difficulty breathing.
     Call your healthcare provider or go to the nearest hospital emergency room right away if you get any of these serious side effects.
+  - You can develop an addiction even if you take ONFI as prescribed by your healthcare provider.
   - Take ONFI exactly as your healthcare provider prescribed.
   - Do not share your ONFI with other people.
   - Keep ONFI in a safe place and away from children.
 - Physical dependence and withdrawal reactions.
-  ONFI can cause physical dependence and withdrawal reactions, especially if you continue to take ONFI for several days to several weeks.
-  - Do not stop taking ONFI all of a sudden.
-    Stopping ONFI suddenly can cause serious and life-threatening side effects, including, unusual movements, responses, or expressions, seizures, sudden and severe mental or nervous system changes, depression, seeing or hearing things that others do not see or hear, homicidal thoughts, an extreme increase in activity or talking, losing touch with reality, and suicidal thoughts or actions.
+  ONFI can cause physical dependence and withdrawal reactions.
+  - Do not suddenly stop taking ONFI.
+    Stopping ONFI suddenly can cause serious and life-threatening side effects, including, unusual movements, responses, or expressions, seizures, sudden and severe mental or nervous system changes, depression, seeing or hearing things that others do not see or hear, an extreme increase in activity or talking, losing touch with reality, and suicidal thoughts or actions.
     Call your healthcare provider or go to the nearest hospital emergency room right away if you get any of these symptoms.
-  - Some people who stop ONFI suddenly have symptoms that can last for several weeks to more than 12 months, including, anxiety, trouble remembering, learning, or concentrating, depression, problems sleeping, feeling like insects are crawling under your skin, weakness, shaking, muscle twitching, burning or prickling feeling in your hands, arms, legs or feet, and ringing in your ears.
+  - Some people who suddenly stop benzodiazepines have symptoms that can last for several weeks to more than 12 months, including, anxiety, trouble remembering, learning, or concentrating, depression, problems sleeping, feeling like insects are crawling under your skin, weakness, shaking, muscle twitching, burning or prickling feeling in your hands, arms, legs or feet, and ringing in your ears.
   - Physical dependence is not the same as drug addiction.
     Your healthcare provider can tell you more about the differences between physical dependence and drug addiction.
   - Do not take more ONFI than prescribed or take ONFI for longer than prescribed.
 
 - ONFI can make you sleepy or dizzy and can slow your thinking and motor skills.
-
-- Do not drive, operate heavy machinery, or do other dangerous activities until you know how ONFI affects you.
-- Do not drink alcohol or take other drugs that may make you sleepy or dizzy while taking ONFI without first talking to your healthcare provider.
-  When taken with alcohol or drugs that cause sleepiness or dizziness, ONFI may make your sleepiness or dizziness much worse.
+  - Do not drive, operate heavy machinery, or do other dangerous activities until you know how ONFI affects you.
+  - Do not drink alcohol or take other drugs that may make you sleepy or dizzy while taking ONFI without first talking to your healthcare provider.
+    When taken with alcohol or drugs that cause sleepiness or dizziness, ONFI may make your sleepiness or dizziness much worse.
 
 - Serious skin reactions have been seen when ONFI is taken with other medicines and may require stopping its use.
   Do not stop taking ONFI without first talking to your healthcare provider.
@@ -69,6 +68,7 @@ If you have suicidal thoughts or actions, your healthcare provider may check for
 What is ONFI?
 
 - ONFI is a prescription medicine used along with other medicines to treat seizures associated with Lennox-Gastaut syndrome in people 2 years of age or older.
+
 - ONFI is a federally controlled substance (C-IV) because it contains clobazam that can be abused or lead to dependence.
   Keep ONFI in a safe place to prevent misuse and abuse.
   Selling or giving away ONFI may harm others, and is against the law.
@@ -159,7 +159,7 @@ Tablets
 Oral Suspension
 
 - Replace the cap securely after opening.
-- Store and dispense ONFI oral suspension in its original bottle in an upright position.
+- Store and dispense the oral suspension in its original bottle in an upright position.
   Use ONFI oral suspension within 90 days of first opening the bottle.
 - After 90 days safely throw away any ONFI oral suspension that has not been used.
 - Keep ONFI and all medicines out of the reach of children.
@@ -184,7 +184,7 @@ ONFI is a registered trademark of Lundbeck
 
 For more information about ONFI, go to www.ONFI.com or call Lundbeck at 1-866-402-8520.
 
-This Medication Guide has been approved by the U.S. Food and Drug Administration Revised: 10/2020
+This Medication Guide has been approved by the U.S. Food and Drug Administration Revised: 2/2021
 
 Instructions for Use ONFI® (ON-fee) (clobazam) Oral Suspension, CIV
 

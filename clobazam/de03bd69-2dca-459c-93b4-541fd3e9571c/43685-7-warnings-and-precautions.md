@@ -3,7 +3,7 @@
 ## 5.1 Risks from Concomitant Use with Opioids
 
 Concomitant use of benzodiazepines, including ONFI, and opioids may result in profound sedation, respiratory depression, coma, and death.
-Because of these risks, reserve concomitant prescribing of benzodiazepines and opioids in patients for whom alternative treatment options are inadequate.
+Because of these risks, reserve concomitant prescribing of benzodiazepines and opioids for patients for whom alternative treatment options are inadequate.
 
 Observational studies have demonstrated that concomitant use of opioid analgesics and benzodiazepines increases the risk of drug-related mortality compared to use of opioids alone.
 If a decision is made to prescribe ONFI concomitantly with opioids, prescribe the lowest effective dosages and minimum durations of concomitant use, and follow patients closely for signs and symptoms of respiratory depression and sedation.
@@ -16,7 +16,7 @@ Abuse and misuse of benzodiazepines often (but not always) involve the use of do
 
 Before prescribing ONFI and throughout treatment, assess each patient’s risk for abuse, misuse, and addiction (e.g., using a standardized screening tool).
 Use of ONFI, particularly in patients at elevated risk, necessitates counseling about the risks and proper use of ONFI along with monitoring for signs and symptoms of abuse, misuse, and addiction.
-Prescribe the lowest possible dosage for the shortest duration; avoid or minimize concomitant use of CNS depressants and other substances associated with abuse, misuse, and addiction (e.g., opioid analgesics, stimulants); and advise patients on the proper disposal of unused drug.
+Prescribe the lowest effective dosage; avoid or minimize concomitant use of CNS depressants and other substances associated with abuse, misuse, and addiction (e.g., opioid analgesics, stimulants); and advise patients on the proper disposal of unused drug.
 If a substance use disorder is suspected, evaluate the patient and institute (or refer them for) early treatment, as appropriate.
 
 ## 5.3 Dependence and Withdrawal Reactions
@@ -27,8 +27,8 @@ Patients at an increased risk of withdrawal adverse reactions after benzodiazepi
 
 Acute Withdrawal Reactions
 
-The continued use of benzodiazepines, including ONFI, for several days to weeks may lead to clinically significant physical dependence.
-Abrupt discontinuation or rapid dosage reduction of ONFI after continued use (for several days to weeks), or administration of flumazenil (a benzodiazepine antagonist) may precipitate acute withdrawal reactions, which can be life-threatening (e.g., seizures) [see Drug Abuse and Dependence (9.3)].
+The continued use of benzodiazepines, including ONFI, may lead to clinically significant physical dependence.
+Abrupt discontinuation or rapid dosage reduction of ONFI after continued use, or administration of flumazenil (a benzodiazepine antagonist) may precipitate acute withdrawal reactions, which can be life-threatening (e.g., seizures) [see Drug Abuse and Dependence (9.3)].
 
 Protracted Withdrawal Syndrome
 

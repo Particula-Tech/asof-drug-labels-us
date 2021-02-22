@@ -14,8 +14,8 @@ Inform patients about the signs and symptoms of benzodiazepine abuse, misuse, an
 Withdrawal Reactions
 
 Advise patients or caregivers that abrupt withdrawal of AEDs may increase their risk of seizure.
-Inform patients that the continued use of ONFI for several days to weeks may lead to clinically significant physical dependence and that abrupt discontinuation or rapid dosage reduction of ONFI may precipitate acute withdrawal reactions, which can be life-threatening.
-Inform patients that in some cases, patients have developed a protracted withdrawal syndrome with withdrawal symptoms lasting weeks to more than 12 months.
+Inform patients that the continued use of ONFI may lead to clinically significant physical dependence and that abrupt discontinuation or rapid dosage reduction of ONFI may precipitate acute withdrawal reactions, which can be life-threatening.
+Inform patients that in some cases, patients taking benzodiazepines have developed a protracted withdrawal syndrome with withdrawal symptoms lasting weeks to more than 12 months.
 Instruct patients that discontinuation or dosage reduction of ONFI may require a slow taper [see Warnings and Precautions (5.3) and Drug Abuse and Dependence (9.3)].
 
 Somnolence or Sedation
