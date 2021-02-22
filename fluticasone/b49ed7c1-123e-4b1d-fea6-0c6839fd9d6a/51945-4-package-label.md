@@ -21,12 +21,12 @@ Net Wt.
 
 120 Metered Actuations
 
-Made in UK
+Made in Singapore
 
-©2020 GSK group of companies or its licensor.
+©2021 GSK group of companies or its licensor.
 
-1. 62000000051332 Rev.
-   5/20
+1. 62000000060860 Rev.
+   01/21
 
 PRINCIPAL DISPLAY PANEL
 
