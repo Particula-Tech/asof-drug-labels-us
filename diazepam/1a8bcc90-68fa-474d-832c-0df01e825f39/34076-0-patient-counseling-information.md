@@ -7,16 +7,15 @@ Concomitant use with Opioids
 Concomitant use of benzodiazepines, including VALTOCO, and opioids may result in profound sedation, respiratory depression, coma, and death.
 Do not use such drugs concomitantly unless supervised by a health care provider [see Warnings and Precautions (5.1)].
 
-Drug Abuse and Dependence
+Abuse, Misuse, and Addiction
 
-Diazepam is a Schedule IV controlled substance and can produce drug dependence.
-It is recommended that patients be treated with VALTOCO no more frequently than every five days and no more than five times per month.
+Inform patients that the use of VALTOCO more frequently than recommended, even at recommended dosages, exposes users to risks of abuse, misuse, and addiction, which can lead to overdose and death, especially when used in combination with other medications (e.g., opioid analgesics), alcohol, and/or illicit substances.
+Inform patients about the signs and symptoms of benzodiazepine abuse, misuse, and addiction; to seek medical help if they develop these signs and/or symptoms; and on the proper disposal of unused drug [see Warnings and Precautions (5.2) and Drug Abuse and Dependence (9.2)].
 
-Addiction-prone individuals (such as drug addicts or alcoholics) should be under careful surveillance when receiving diazepam or other psychotropic agents because of the predisposition of such patients to habituation and dependence.
+Withdrawal Reactions
 
-Abrupt discontinuation of diazepam following chronic regular use has resulted in withdrawal symptoms, similar in character to those noted with barbiturates and alcohol (convulsions, tremor, abdominal and muscle cramps, vomiting and sweating).
-The more severe withdrawal symptoms have usually been limited to those patients who had received excessive doses over an extended period of time.
-Generally milder withdrawal symptoms (e.g., dysphoria and insomnia) have been reported following abrupt discontinuation of benzodiazepines taken continuously at therapeutic levels for several months.
+Inform patients that use of VALTOCO more frequently than recommended may lead to clinically significant physical dependence and that abrupt discontinuation or rapid dosage reduction of VALTOCO may precipitate acute withdrawal reactions, which can be life-threatening.
+Inform patients that in some cases, patients taking benzodiazepines have developed a protracted withdrawal syndrome with withdrawal symptoms lasting weeks to more than 12 months [see Warnings and Precautions (5.3) and Drug Abuse and Dependence (9.3)].
 
 Important Treatment Instructions
 

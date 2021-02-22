@@ -3,10 +3,12 @@
 The following serious adverse reactions are discussed elsewhere in the labeling:
 
 - Risk of Concomitant Use with Opioids [see Warnings and Precautions (5.1)]
-- CNS depression [see Warnings and Precautions (5.2)]
-- Suicidal Behavior and Ideation [see Warnings and Precautions (5.3)]
-- Glaucoma [see Warnings and Precautions (5.4)]
-- Risk of Serious Adverse Reactions in Infants due to Benzyl Alcohol Preservative [see Warnings and Precautions (5.5)].
+- Abuse, Misuse, and Addiction [see Warnings and Precautions (5.2)]
+- Dependence and Withdrawal Reactions After Use of VALTOCO More Frequently Than Recommended [see Warnings and Precautions (5.3)]
+- CNS depression [see Warnings and Precautions (5.4)]
+- Suicidal Behavior and Ideation [see Warnings and Precautions (5.5)]
+- Glaucoma [see Warnings and Precautions (5.6)]
+- Risk of Serious Adverse Reactions in Infants due to Benzyl Alcohol Preservative [see Warnings and Precautions (5.7)].
 
 ## 6.1 Clinical Trials Experience
 
@@ -28,7 +30,7 @@ The adverse reaction most frequently associated with discontinuation (occurring 
 Other adverse reactions most commonly associated with discontinuation and occurring in two patients were hypoventilation and rash.
 Adverse reactions associated with discontinuation occurring in one patient were asthenia, hyperkinesia, incoordination, vasodilatation, and urticaria.
 
-In the two double-blind, placebo-controlled, parallel-group studies [see Clinical Studies (14)], the proportion of patients who discontinued treatment because of adverse events was 2% for the group treated with Diazepam rectal gel, versus 2% for the placebo group.
+In the two double-blind, placebo-controlled, parallel-group studies [see Clinical Studies (14)], the proportion of patients who discontinued treatment because of adverse events was 2% for the group treated with diazepam rectal gel, versus 2% for the placebo group.
 In the diazepam rectal gel group, one patient discontinued because of rash and one patient discontinued because of lethargy.
 
 Table 3: Adverse Reactions That Occurred in Greater Than 1% Of Patients in Parallel-Group, Placebo-Controlled Trials with Diazepam Rectal Gel and More Common Than Placebo

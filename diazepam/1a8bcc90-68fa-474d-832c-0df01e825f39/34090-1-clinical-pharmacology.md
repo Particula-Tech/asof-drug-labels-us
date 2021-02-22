@@ -32,7 +32,7 @@ Both diazepam and its major active metabolite desmethyldiazepam bind extensively
 Metabolism and Elimination
 
 In vitro studies using human liver preparations suggest that CYP2C19 and CYP3A4 are the principal isozymes involved in the initial oxidative metabolism of diazepam.
-It has been reported in the literature that diazepam is extensively metabolized to one major active metabolite, desmethyldiazepam, and two minor active metabolites, 3- hydroxydiazepam (temazepam) and 3-hydroxy-N-diazepam (oxazepam), in plasma.
+It has been reported in the literature that diazepam is extensively metabolized to one major active metabolite, desmethyldiazepam, and two minor active metabolites, 3­ hydroxydiazepam (temazepam) and 3-hydroxy-N-diazepam (oxazepam), in plasma.
 At therapeutic doses, desmethyldiazepam is found in plasma at concentrations equivalent to those of diazepam while oxazepam and temazepam are not usually detectable.
 The metabolism of diazepam is primarily hepatic and involves demethylation (involving primarily CYP2C19 and CYP3A4) and 3-hydroxylation (involving primarily CYP3A4), followed by glucuronidation.
 The marked inter-individual variability in the clearance of diazepam reported in the literature is probably attributable to variability of CYP2C19 (which is known to exhibit genetic polymorphism; about 3-5% of Caucasians have little or no activity and are "poor metabolizers") and CYP3A4.

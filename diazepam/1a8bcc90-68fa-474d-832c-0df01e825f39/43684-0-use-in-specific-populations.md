@@ -98,8 +98,8 @@ VALTOCO is not approved for use in neonates or infants.
 - Serious adverse reactions including fatal reactions and the "gasping syndrome" occurred in premature neonates and low-birth-weight infants in the neonatal intensive care unit who received drugs containing benzyl alcohol as a preservative.
   In these cases, benzyl alcohol dosages of 99 to 234 mg/kg/day produced high levels of benzyl alcohol and its metabolites in the blood and urine (blood levels of benzyl alcohol were 0.61 to 1.378 mmol/L).
   Additional adverse reactions included gradual neurological deterioration, seizures, intracranial hemorrhage, hematologic abnormalities, skin breakdown, hepatic and renal failure, hypotension, bradycardia, and cardiovascular collapse.
-  Preterm, low -birth-weight infants may be more likely to develop these reactions because they may be less able to metabolize benzyl alcohol.
-  The minimum amount of benzyl alcohol at which serious adverse reactions may occur is not known (VALTOCO contains 10.5 mg of benzyl alcohol per 0.1 mL) [see Warnings and Precautions (5.5)].
+  Preterm, low-birth-weight infants may be more likely to develop these reactions because they may be less able to metabolize benzyl alcohol.
+  The minimum amount of benzyl alcohol at which serious adverse reactions may occur is not known (VALTOCO contains 10.5 mg of benzyl alcohol per 0.1 mL) [see Warnings and Precautions (5.7)].
 
 ## 8.5 Geriatric Use
 

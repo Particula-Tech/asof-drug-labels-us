@@ -6,39 +6,52 @@ VALTOCO contains diazepam, a Schedule IV controlled substance.
 
 ## 9.2 Abuse
 
-VALTOCO contains diazepam, a sedative with a known potential for abuse.
-VALTOCO can be abused in a similar manner as other benzodiazepines, which can lead to addiction.
-VALTOCO, like other benzodiazepines, can be diverted for non-medical use into illicit channels for abuse purposes.
-
-Drug abuse is the intentional, non-therapeutic use of a drug, even once, for its desirable psychological or physiological effects.
-Whereas misuse is the intentional use, for therapeutic purposes, of a drug by an individual in a way other than prescribed by a health care provider or for whom it was not prescribed.
-
+VALTOCO is a benzodiazepine and a CNS depressant with a potential for abuse and addiction.
+Abuse is the intentional, non-therapeutic use of a drug, even once, for its desirable psychological or physiological effects.
+Misuse is the intentional use, for therapeutic purposes, of a drug by an individual in a way other than prescribed by a health care provider or for whom it was not prescribed.
 Drug addiction is a cluster of behavioral, cognitive, and physiological phenomena that may include a strong desire to take the drug, difficulties in controlling drug use (e.g., continuing drug use despite harmful consequences, giving a higher priority to drug use than other activities and obligations), and possible tolerance or physical dependence.
+Even taking benzodiazepines as prescribed may put patients at risk for abuse and misuse of their medication.
+Abuse and misuse of benzodiazepines may lead to addiction.
+
+Abuse and misuse of benzodiazepines often (but not always) involve the use of doses greater than the maximum recommended dosage and commonly involve concomitant use of other medications, alcohol, and/or illicit substances, which is associated with an increased frequency of serious adverse outcomes, including respiratory depression, overdose, or death.
+Benzodiazepines are often sought by individuals who abuse drugs and other substances, and by individuals with addictive disorders [see Warnings and Precautions (5.2)].
+
+The following adverse reactions have occurred with benzodiazepine abuse and/or misuse: abdominal pain, amnesia, anorexia, anxiety, aggression, ataxia, blurred vision, confusion, depression, disinhibition, disorientation, dizziness, euphoria, impaired concentration and memory, indigestion, irritability, muscle pain, slurred speech, tremors, and vertigo.
+
+The following severe adverse reactions have occurred with benzodiazepine abuse and/or misuse: delirium, paranoia, suicidal ideation and behavior, seizures, coma, breathing difficulty, and death.
+Death is more often associated with polysubstance use (especially benzodiazepines with other CNS depressants such as opioids and alcohol).
 
 In the clinical studies with VALTOCO at recommended doses, abuse-related adverse events included euphoria, somnolence, sedation, anterograde amnesia, depression, anxiety, hallucinations, and restlessness.
 
-Abuse and misuse of diazepam products, especially prolonged and at higher doses, may result in neuropsychiatric and other symptoms including: euphoria, anxiety, depression, irritability, restlessness, cognitive and psychomotor impairment, disorientation, paranoia, hallucinations, slurred speech, double vision, tremors, nausea or vomiting, loss of appetite, and muscle spasms.
-
 ## 9.3 Dependence
 
-Both tolerance and physical dependence can develop during chronic or frequent use of diazepam products.
-Tolerance is a physiological state characterized by a reduced response to a drug after repeated administration (i.e., a higher dose of a drug is required to produce the same effect that was once obtained at a lower dose).
+Physical Dependence After Use of VALTOCO More Frequently Than Recommended
+
+VALTOCO may produce physical dependence if used more frequently than recommended.
 Physical dependence is a state that develops as a result of physiological adaptation in response to repeated drug use, manifested by withdrawal signs and symptoms after abrupt discontinuation or a significant dose reduction of a drug.
+Although VALTOCO is indicated only for intermittent use [see Indications and Usage (1) and Dosage and Administration (2)], if used more frequently than recommended, abrupt discontinuation or rapid dosage reduction or administration of flumazenil, a benzodiazepine antagonist, may precipitate acute withdrawal reactions, including seizures, which can be life-threatening.
+Patients at an increased risk of withdrawal adverse reactions after benzodiazepine discontinuation or rapid dosage reduction include those who take higher dosages (i.e., higher and/or more frequent doses) and those who have had longer durations of use [see Warnings and Precautions (5.3)].
+For patients using VALTOCO more frequently than recommended, to reduce the risk of withdrawal reactions, use a gradual taper to discontinue VALTOCO [see Warnings and Precautions (5.3)].
+
+Acute Withdrawal Signs and Symptoms
+
+Acute withdrawal signs and symptoms associated with benzodiazepines have included abnormal involuntary movements, anxiety, blurred vision, depersonalization, depression, derealization, dizziness, fatigue, gastrointestinal adverse reactions (e.g., nausea, vomiting, diarrhea, weight loss, decreased appetite), headache, hyperacusis, hypertension, irritability, insomnia, memory impairment, muscle pain and stiffness, panic attacks, photophobia, restlessness, tachycardia, and tremor.
+More severe acute withdrawal signs and symptoms, including life-threatening reactions, have included catatonia, convulsions, delirium tremens, depression, hallucinations, mania, psychosis, seizures, and suicidality.
+
+Protracted Withdrawal Syndrome
+
+Protracted withdrawal syndrome associated with benzodiazepines is characterized by anxiety, cognitive impairment, depression, insomnia, formication, motor symptoms (e.g., weakness, tremor, muscle twitches), paresthesia, and tinnitus that persists beyond 4 to 6 weeks after initial benzodiazepine withdrawal.
+Protracted withdrawal symptoms may last weeks to more than 12 months.
+As a result, there may be difficulty in differentiating withdrawal symptoms from potential re-emergence or continuation of symptoms for which the benzodiazepine was being used.
+
+Tolerance
+
+Tolerance to VALTOCO may develop after use more frequently than recommended.
+Tolerance is a physiological state characterized by a reduced response to a drug after repeated administration (i.e., a higher dose of a drug is required to produce the same effect that was once obtained at a lower dose).
+Tolerance to the therapeutic effect of benzodiazepines may develop; however, little tolerance develops to the amnestic reactions and other cognitive impairments caused by benzodiazepines.
 
 It is recommended that patients be treated with VALTOCO no more frequently than every five days and no more than five times per month.
 
 VALTOCO is not recommended for chronic, daily use as an anticonvulsant.
 Chronic daily use of diazepam may increase the frequency and/or severity of tonic clonic seizures, requiring an increase in the dosage of standard anticonvulsant medication.
 In such cases, abrupt withdrawal of chronic diazepam may also be associated with a temporary increase in the frequency and/or severity of seizures.
-
-Withdrawal symptoms have occurred following abrupt discontinuance of diazepam.
-These withdrawal symptoms may consist of tremor, abdominal and muscle cramps, vomiting, sweating, headache, muscle pain, extreme anxiety, tension, restlessness, confusion, and irritability.
-In severe cases, the following symptoms may occur: derealization, depersonalization, hyperacusis, numbness and tingling of the extremities, hypersensitivity to light, noise and physical contact, hallucinations, or epileptic seizures.
-The more severe withdrawal symptoms have usually been limited to those patients who had received excessive doses over an extended period of time.
-Generally milder withdrawal symptoms (e.g., dysphoria and insomnia) have been reported following abrupt discontinuance of benzodiazepines taken continuously at therapeutic levels for several months.
-Consequently, after extended therapy, abrupt discontinuation should generally be avoided and a gradual dosage tapering schedule followed.
-
-Chronic use (even at therapeutic doses) may lead to the development of physical dependence: discontinuation of the therapy may result in withdrawal or rebound phenomena.
-
-In some patients, chronic treatment with diazepam may lead to protracted withdrawal symptoms after the drug discontinuation which is characterized by anxiety, depression, tinnitus, headache, paresthesias, motor symptoms such as weakness, tremor, muscle twitches, ataxia, cognitive dysfunction, and short-term memory loss.
-These withdrawal symptoms may persist for weeks and months even with taper at the end of treatment with diazepam.

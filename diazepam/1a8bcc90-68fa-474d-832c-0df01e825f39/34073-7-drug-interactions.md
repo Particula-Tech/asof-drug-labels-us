@@ -9,7 +9,7 @@ Limit dosage and duration of concomitant use of benzodiazepines and opioids, and
 
 ## 7.2 CNS Depressants and Alcohol
 
-Coadministration of other CNS depressants (e.g., valproate) or consumption of alcohol may potentiate the CNS-depressant effects of diazepam [see Warnings and Precautions (5.2)].
+Coadministration of other CNS depressants (e.g., valproate) or consumption of alcohol may potentiate the CNS-depressant effects of diazepam [see Warnings and Precautions (5.4)].
 
 ## 7.3 Effect of Other Drugs on VALTOCO Metabolism
 
