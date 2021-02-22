@@ -1,0 +1,27 @@
+{
+  "application_numbers": [
+    "ANDA214017"
+  ],
+  "inn": "droxidopa",
+  "labeler": "ScieGen Pharmaceuticals Inc",
+  "package_ndcs": [
+    "50228-429-10",
+    "50228-429-30",
+    "50228-429-90",
+    "50228-430-10",
+    "50228-430-30",
+    "50228-430-90",
+    "50228-431-05",
+    "50228-431-30",
+    "50228-431-90"
+  ],
+  "products": [
+    {
+      "form": "CAPSULE",
+      "generic": "droxidopa",
+      "name": "Droxidopa"
+    }
+  ],
+  "setid": "10b02d98-ebb8-4152-bd56-3402417fbf79",
+  "source": "dailymed"
+}
