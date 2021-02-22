@@ -13,12 +13,12 @@ The drug is a synthetic amino acid and should NOT be mixed with solutions contai
 Discard any unused portion.
 The diluted mixture may be stored for up to 4 hours at room temperature prior to patient administration.
 
-## 2.2 Recommended Dosage for Patients with Varying Degrees of Renal Impairment*
+## 2.2 Recommended Dosage for Patients With Varying Degrees of Renal Impairment*
 
 For patients with moderate to severe impaired renal function, the following dosages are recommended:
 
 Table 1.
-Recommended Dosage in Patients with Varying Degrees of Renal Impairment
+Recommended Dosage in Patients With Varying Degrees of Renal Impairment
 
 | Serum Creatinine (mg/dL) | Tranexamic Acid Injection Intravenous Dosage |
 | --- | --- |

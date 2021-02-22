@@ -8,7 +8,14 @@ Venous and arterial thrombosis or thromboembolism has been reported in patients 
 Avoid concomitant use of tranexamic acid and medical products that are pro-thrombotic, as the risk of thrombosis may be increased.
 These medications include but are not limited to, Factor IX Complex concentrates, Anti-inhibitor Coagulant concentrates, and hormonal contraceptives [see Drug Interactions (7.1), Use in Specific Populations (8.3)].
 
-## 5.2 Seizures
+## 5.2 Risk of Medication Errors Due to Incorrect Route of Administration
+
+Tranexamic acid is for intravenous use only.
+Serious adverse reactions including seizures and cardiac arrythmias have occurred when tranexamic acid was inadvertently administered intrathecally instead of intravenously.
+Confirm the correct route of administration for tranexamic acid and avoid confusion with other injectable solutions that might be administered at the same time as tranexamic acid.
+Syringes containing tranexamic acid should be clearly labeled with the intravenous route of administration.
+
+## 5.3 Seizures
 
 Tranexamic acid may cause seizures, including focal and generalized seizures.
 The most common setting for tranexamic acid-induced seizures has been during cardiovascular surgery (a setting in which tranexamic acid is not FDA-approved and which uses doses of up to 10-fold higher than the recommended human dose and in patients inadvertently given tranexamic acid into the neuraxial system).
@@ -18,20 +25,20 @@ Closely monitor the patient during surgery.
 Consider electroencephalogram (EEG) monitoring for patients with history of seizures or who experience myoclonic movements, twitching, or show evidence of focal seizures.
 Discontinue tranexamic acid if seizures occur.
 
-## 5.3 Hypersensitivity Reactions
+## 5.4 Hypersensitivity Reactions
 
 Cases of hypersensitivity reactions, including anaphylactic reactions, have occurred with use of intravenous tranexamic acid.
 Discontinue treatment with tranexamic acid if serious reaction occurs, provide appropriate medical management, and do not restart treatment.
 Tranexamic acid injection is contraindicated in patients with a history of hypersensitivity to tranexamic acid.
 
-## 5.4 Visual Disturbances
+## 5.5 Visual Disturbances
 
 Although not seen in humans, focal areas of retinal degeneration have been observed in cats and dogs following oral or intravenous tranexamic acid at doses between 250 to 1600 mg/kg/day (1.6 to 22 times the recommended usual human dose based on body surface area) from 6 days to 1 year.
 No retinal changes have been observed in eye examinations of patients treated with tranexamic acid for up to 8 years.
 Patients expected to be treated for greater than 3 months may consider ophthalmic monitoring including visual acuity and optical coherence tomography at regular intervals.
 Discontinue tranexamic acid if changes in ophthalmological examination occurs.
 
-## 5.5 Dizziness
+## 5.6 Dizziness
 
 Tranexamic acid may cause dizziness.
 Concomitant use of other drugs that may also cause dizziness may worsen this effect.
