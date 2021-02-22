@@ -4,12 +4,12 @@
 
 Pregnancy Exposure Registry
 
-There is a pregnancy exposure registry that monitors pregnancy outcomes in women exposed to antiepileptic drugs (AEDs), such as Seizalam, during pregnancy.
-Encourage women who are taking Seizalam during pregnancy to enroll in the North American Antiepileptic Drug (NAAED) pregnancy registry by calling 1-888-233-2334 or visiting http://www.aedpregnancyregistry.org/.
+There is a pregnancy exposure registry that monitors pregnancy outcomes in women exposed to antiepileptic drugs (AEDs), such as SEIZALAM, during pregnancy.
+Encourage women who are taking SEIZALAM during pregnancy to enroll in the North American Antiepileptic Drug (NAAED) pregnancy registry by calling 1-888-233-2334 or visiting http://www.aedpregnancyregistry.org/.
 
 Risk Summary
 
-There are no adequate and well-controlled studies of Seizalam in pregnant women.
+There are no adequate and well-controlled studies of SEIZALAM in pregnant women.
 Available data suggest that the class of benzodiazepines is not associated with marked increases in risk for congenital anomalies.
 Although some early epidemiological studies suggested a relationship between benzodiazepine use in pregnancy and congenital anomalies such as cleft lip and or palate, these studies had considerable limitations.
 More recently completed studies of benzodiazepine use in pregnancy have not consistently documented elevated risks for specific congenital anomalies.
@@ -20,7 +20,7 @@ These risks include decreased fetal movement and/or fetal heart rate variability
 
 Administration of midazolam to rats and rabbits during the period of organogenesis or to rats during late pregnancy and throughout lactation at doses greater than those used clinically did not result in adverse effects on development (see Animal Data).
 Data for other benzodiazepines suggest the possibility of increased neuronal cell death and long-term effects on neurobehavioral and immunological function based on findings in animals following prenatal or early postnatal exposure at clinically relevant doses.
-Seizalam should be used during pregnancy only if the potential benefit to the mother justifies the potential risk to the fetus.
+SEIZALAM should be used during pregnancy only if the potential benefit to the mother justifies the potential risk to the fetus.
 Advise a pregnant woman and women of childbearing age of the potential risk to a fetus.
 
 In the U.S. general population, the estimated background risk of major birth defects and miscarriage in clinically recognized pregnancies is 2% to 4% and 15% to 20%, respectively.
@@ -35,7 +35,7 @@ Clinical manifestations of withdrawal or neonatal abstinence syndrome may includ
 These complications can appear shortly after delivery to 3 weeks after birth, and persist from hours to several months, depending on the degree of dependence and the pharmacokinetic profile of the benzodiazepine.
 Symptoms may be mild and transient or severe.
 Standard management for neonatal withdrawal syndrome has not yet been defined.
-Observe newborns who are exposed to Seizalam in utero during the later stages of pregnancy for symptoms of withdrawal and manage accordingly.
+Observe newborns who are exposed to SEIZALAM in utero during the later stages of pregnancy for symptoms of withdrawal and manage accordingly.
 
 Labor and Delivery
 
@@ -49,7 +49,7 @@ Human Data
 
 Congenital Anomalies
 
-Although there are no adequate and well controlled studies of Seizalam in pregnant women, there is information about benzodiazepines as a class.
+Although there are no adequate and well controlled studies of SEIZALAM in pregnant women, there is information about benzodiazepines as a class.
 Dolovich et al. published a meta-analysis of 23 studies that examined the effects of benzodiazepine exposure during the first trimester of pregnancy.
 Eleven of the 23 studies included in the meta-analysis considered the use of chlordiazepoxide and diazepam and not other benzodiazepines.
 The authors considered case-control and cohort studies separately.
@@ -86,7 +86,7 @@ Risk Summary
 
 Midazolam is excreted in human milk.
 Studies assessing the effects of midazolam in breastfed children or on milk production/excretion have not been performed.
-Postmarketing experience suggests that breastfed infants of mothers taking benzodiazepines, such as Seizalam, may have effects of lethargy, somnolence and poor sucking.
+Postmarketing experience suggests that breastfed infants of mothers taking benzodiazepines, such as SEIZALAM, may have effects of lethargy, somnolence and poor sucking.
 The developmental and health benefits of breastfeeding should be considered along with the mother's clinical need for midazolam and any potential adverse effects on the breastfed child from midazolam or from the underlying maternal condition.
 
 ## 8.4 Pediatric Use
@@ -94,20 +94,20 @@ The developmental and health benefits of breastfeeding should be considered alon
 Safety and effectiveness in pediatric patients have not been established.
 Benzodiazepines are not recognized as a treatment for status epilepticus in neonates and should not be used in this population.
 
-Seizalam is not approved for use in neonates or infants.
+SEIZALAM is not approved for use in neonates or infants.
 Serious adverse reactions including fatal reactions and the “gasping syndrome” occurred in premature neonates and low-birth-weight infants in the neonatal intensive care unit who received drugs containing benzyl alcohol as a preservative.
 In these cases, benzyl alcohol dosages of 99 to 234 mg/kg/day produced high levels of benzyl alcohol and its metabolites in the blood and urine (blood levels of benzyl alcohol were 0.61 to 1.378 mmol/L).
 Additional adverse reactions included gradual neurological deterioration, seizures, intracranial hemorrhage, hematologic abnormalities, skin breakdown, hepatic and renal failure, hypotension, bradycardia, and cardiovascular collapse.
 Preterm, low-birth-weight infants may be more likely to develop these reactions because they may be less able to metabolize benzyl alcohol.
-The minimum amount of benzyl alcohol at which serious adverse reactions may occur is not known (Seizalam contains 10 mg of benzyl alcohol per mL) [see Warnings and Precautions (5.7)].
+The minimum amount of benzyl alcohol at which serious adverse reactions may occur is not known (SEIZALAM contains 10 mg of benzyl alcohol per mL) [see Warnings and Precautions (5.9)].
 
 ## 8.5 Geriatric Use
 
-Of the total number of patients from the intent-to-treat (ITT) population in the clinical trial of Seizalam, 14.9 percent were 65 years of age and over, while 8.3 percent were 75 years of age and over.
+Of the total number of patients from the intent-to-treat (ITT) population in the clinical trial of SEIZALAM, 14.9 percent were 65 years of age and over, while 8.3 percent were 75 years of age and over.
 
 Geriatric patients may have altered drug distribution; diminished hepatic and/or renal function; longer elimination half-lives for midazolam and its metabolites, and subjects over 70 years of age may be particularly sensitive [see Clinical Pharmacology (12.3)].
-Administration of IM midazolam to elderly patients has been associated with rare reports of death under circumstances compatible with cardiorespiratory depression [see Warnings and Precautions (5.2)].
-In most of these cases, the patients also received other CNS depressants capable of depressing respiration, especially narcotics [see Warnings and Precautions (5.1, 5.4)].
+Administration of IM midazolam to elderly patients has been associated with rare reports of death under circumstances compatible with cardiorespiratory depression [see Warnings and Precautions (5.4)].
+In most of these cases, the patients also received other CNS depressants capable of depressing respiration, especially narcotics [see Warnings and Precautions (5.1, 5.6)].
 Close monitoring of geriatric patients is recommended.
 
 ## 8.6 Renal Impairment

@@ -3,11 +3,14 @@
 The following serious adverse reactions are discussed in greater detail in other sections:
 
 - Risks from Concomitant Use with Opioids [see Warnings and Precautions (5.1)]
-- Risks of Cardiorespiratory Adverse Reactions [see Warnings and Precautions (5.2)]
-- Other Adverse Reactions [see Warnings and Precautions (5.3)]
-- Risks from Concomitant Use of Central Nervous System Depressants [see Warnings and Precautions (5.4)]
-- Glaucoma [see Warnings and Precautions (5.6)]
-- Risk of Serious Adverse Reactions in Infants due to Benzyl Alcohol Preservative [see Warnings and Precautions (5.7)]
+- Abuse, Misuse, and Addiction [see Warnings and Precautions (5.2)]
+- Dependence and Withdrawal Reactions After Use of SEIZALAM More Frequently Than Recommended [see Warnings and Precautions (5.3)]
+- Risks of Cardiorespiratory Adverse Reactions [see Warnings and Precautions (5.4)]
+- Other Adverse Reactions [see Warnings and Precautions (5.5)]
+- Risks from Concomitant Use of Central Nervous System Depressants [see Warnings and Precautions (5.6)]
+- Impaired Cognitive Function [see Warnings and Precautions (5.7)]
+- Glaucoma [see Warnings and Precautions (5.8)]
+- Risk of Serious Adverse Reactions in Infants due to Benzyl Alcohol Preservative [see Warnings and Precautions (5.9)]
 
 ## 6.1 Clinical Trials Experience
 
@@ -34,7 +37,7 @@ Table 1 Adverse Reactions in 2% or More of IM Midazolam-Treated Patients and Mor
 
 Adverse Reactions in Other Midazolam Studies
 
-Fluctuations in vital signs were the most frequently seen findings following parenteral administration of midazolam in adults for uses other than that for which Seizalam is indicated, and included decreased tidal volume and/or respiratory rate decrease [11% of patients following intramuscular administration], as well as variations in blood pressure and pulse rate.
+Fluctuations in vital signs were the most frequently seen findings following parenteral administration of midazolam in adults for uses other than that for which SEIZALAM is indicated, and included decreased tidal volume and/or respiratory rate decrease [11% of patients following intramuscular administration], as well as variations in blood pressure and pulse rate.
 The majority of serious adverse effects, particularly those associated with oxygenation and ventilation, have been reported when midazolam was administered with other medications capable of depressing the CNS.
 The incidence of such events was higher in patients undergoing procedures involving the airway without the protective effect of an endotracheal tube (e.g., upper endoscopy and dental procedures).
 

@@ -1,3 +1,3 @@
 # 4 CONTRAINDICATIONS
 
-Seizalam is contraindicated in patients with a known hypersensitivity to midazolam.
+SEIZALAM is contraindicated in patients with a known hypersensitivity to midazolam.

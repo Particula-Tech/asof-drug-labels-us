@@ -1,6 +1,6 @@
 # 14 CLINICAL STUDIES
 
-The safety and effectiveness of Seizalam for the treatment of status epilepticus was established in a multi-center, randomized, double-blind (double-dummy), active-control trial comparing midazolam administered intramuscularly (IM) via an auto-injector to lorazepam administered intravenously (IV).
+The safety and effectiveness of SEIZALAM for the treatment of status epilepticus was established in a multi-center, randomized, double-blind (double-dummy), active-control trial comparing midazolam administered intramuscularly (IM) via an auto-injector to lorazepam administered intravenously (IV).
 Patients meeting the diagnosis of status epilepticus, with continuing convulsive seizure activity after the arrival of paramedics, were eligible for enrollment.
 The ITT population consisted of 893 patients who were randomized to receive either IM midazolam (n=448) or IV lorazepam (n=445).
 Following randomization, each patient received study treatments administered by a healthcare professional (e.g., paramedic) prior to arrival at a hospital.

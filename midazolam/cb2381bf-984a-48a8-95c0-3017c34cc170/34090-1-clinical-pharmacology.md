@@ -104,7 +104,7 @@ CYP3A4 Inhibitors
 
 Drugs that inhibit the activity of CYP3A4 may inhibit midazolam clearance and elevate midazolam concentrations [see Drug Interactions (7.3)].
 
-- The effect of single oral doses of 800 mg cimetidine and 300 mg ranitidine on steady-state concentrations of oral midazolam was examined in a randomized crossover study (n=8).
+- The effect of single oral doses of 800 mg cimetidine and 300 mg ranitidine on steady-state concentrations f oral midazolam was examined in a randomized crossover study (n=8).
   Cimetidine increased the mean midazolam steady-state concentration from 57 to 71 ng/mL.
   Ranitidine increased the mean steady-state concentration to 62 ng/mL.
   No change in choice reaction time or sedation index was detected after dosing with the H2 receptor antagonists.
