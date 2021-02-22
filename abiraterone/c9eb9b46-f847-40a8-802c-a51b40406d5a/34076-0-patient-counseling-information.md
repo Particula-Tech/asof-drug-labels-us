@@ -7,30 +7,18 @@ Hypokalemia, Fluid Retention, and Cardiovascular Adverse Reactions
 - Inform patients that abiraterone acetate is associated with hypertension, hypokalemia, and peripheral edema that may lead to QT prolongation and Torsades de Pointes in patients who develop hypokalemia while taking abiraterone acetate tablets.
   Advise patients that their blood pressure, serum potassium and signs and symptoms of fluid retention will be monitored clinically at least monthly.
   Advise patients to adhere to corticosteroids and to report symptoms of hypertension, hypokalemia, or edema to their healthcare provider [see Warnings and Precautions (5.1)].
-
-Adrenocortical Insufficiency
-
+  Adrenocortical Insufficiency
 - Inform patients that abiraterone acetate with prednisone is associated with adrenal insufficiency.
   Advise patients to report symptoms of adrenocortical insufficiency to their healthcare provider [see Warnings and Precautions (5.2)].
-
-Hepatotoxicity
-
+  Hepatotoxicity
 - Inform patients that abiraterone acetate is associated with severe hepatotoxicity.
   Inform patients that their liver function will be monitored using blood tests.
   Advise patients to immediately report symptoms of hepatotoxicity to their healthcare provider [see Warnings and Precautions (5.3)].
-
-Hypoglycemia
-
+  Hypoglycemia
 - Inform patients that severe hypoglycemia has been reported when abiraterone acetate was administered to patients with pre-existing diabetes who were receiving medications containing thiazolidinediones (including pioglitazone) or repaglinide – antidiabetic drugs.
-  Advise patients with diabetes to monitor glucose levels during and after treatment with abiraterone acetate [see Warnings and Precautions (5.6) and Drug Interactions (7.2)].
-
-Use in Combination with Radium Ra 223 Dichloride
-
+  Advise patients with diabetes to monitor glucose levels during and after treatment with abiraterone acetate [see Warnings and Precautions (5.6) and Drug Interactions (7.2)].Use in Combination with Radium Ra 223 Dichloride
 - Advise patients that radium Ra 223 dichloride showed an increase in mortality and an increased rate of fracture when used in combination with abiraterone acetate plus prednisone/prednisolone.
-  Inform patients to speak with their healthcare provider about any other medications or treatment they are currently taking for prostate cancer [see Warnings and Precautions (5.4)].
-
-Dosing and Administration
-
+  Inform patients to speak with their healthcare provider about any other medications or treatment they are currently taking for prostate cancer [see Warnings and Precautions (5.4)].Dosing and Administration
 - Inform patients that abiraterone acetate tablets are taken once daily with prednisone (twice daily according to their healthcare provider’s instructions) and to not interrupt or stop either of these medications without consulting their healthcare provider.
 - Inform patients receiving GnRH therapy that they need to maintain this treatment during the course of treatment with abiraterone acetate tablets.
 - Instruct patients to take abiraterone acetate tablets on an empty stomach, at least one hour before or at least two hours after a meal.
@@ -49,7 +37,11 @@ Infertility
 
 - Advise male patients that abiraterone acetate may impair fertility [see Use in Specific Populations (8.3)].
 
-Distributed by: Amneal Pharmaceuticals LLC Bridgewater, NJ 08807
+Distributed by:
+
+Amneal Pharmaceuticals LLC
+
+Bridgewater, NJ 08807
 
 Rev.
-11-2020-04
+10-2020-04

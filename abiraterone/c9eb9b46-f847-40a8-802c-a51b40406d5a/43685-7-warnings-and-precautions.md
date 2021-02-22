@@ -1,6 +1,6 @@
 # 5 WARNINGS AND PRECAUTIONS
 
-## 5.1 Hypokalemia, Fluid Retention and Cardiovascular Adverse Reactions due to Mineralocorticoid Excess
+## 5.1 Hypokalemia, Fluid Retention, and Cardiovascular Adverse Reactions due to Mineralocorticoid Excess
 
 Abiraterone acetate may cause hypertension, hypokalemia, and fluid retention as a consequence of increased mineralocorticoid levels resulting from CYP17 inhibition [see Clinical Pharmacology (12.1)].
 Monitor patients for hypertension, hypokalemia, and fluid retention at least once a month.

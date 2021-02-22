@@ -5,9 +5,15 @@
   "inn": "abiraterone",
   "labeler": "Amneal Pharmaceuticals NY LLC",
   "package_ndcs": [
-    "69238-1165-7"
+    "69238-1165-7",
+    "69238-1754-6"
   ],
   "products": [
+    {
+      "form": "TABLET",
+      "generic": "abiraterone",
+      "name": "ABIRATERONE ACETATE"
+    },
     {
       "form": "TABLET",
       "generic": "abiraterone",

@@ -7,6 +7,11 @@ They are supplied as follows:
 
 Bottles of 120: NDC 69238-1165-7
 
+Abiraterone acetate tablets USP, 500 mg, are available as purple, oval-shaped, film-coated tablets debossed with “1754” on one side and plain on the other side.
+They are supplied as follows:
+
+Bottles of 60: NDC 69238-1754-6
+
 Storage and Handling
 
 Store at 20° to 25°C (68° to 77°F); excursions permitted between 15° to 30°C (59° to 86°F) [see USP Controlled Room Temperature].
