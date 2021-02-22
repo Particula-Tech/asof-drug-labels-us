@@ -1,0 +1,31 @@
+{
+  "application_numbers": [
+    "NDA213330"
+  ],
+  "inn": "labetalol",
+  "labeler": "Hikma Pharmaceuticals USA Inc.",
+  "package_ndcs": [
+    "0143-9363-01",
+    "0143-9363-10",
+    "0143-9364-01",
+    "0143-9364-10",
+    "0143-9365-01",
+    "0143-9365-10",
+    "0143-9366-01",
+    "0143-9366-10"
+  ],
+  "products": [
+    {
+      "form": "INJECTION",
+      "generic": "labetalol hydrochloride",
+      "name": "Labetalol HCl in Dextrose"
+    },
+    {
+      "form": "INJECTION",
+      "generic": "labetalol hydrochloride",
+      "name": "Labetalol HCl in Sodium Chloride"
+    }
+  ],
+  "setid": "99a715a0-4579-410c-b102-7ef6fab8db55",
+  "source": "dailymed"
+}
