@@ -25,7 +25,7 @@ Clobazam is rapidly and extensively absorbed following oral administration.
 The time to peak concentrations (T max) of clobazam tablets under fasted conditions ranged from 0.5 to 4 hours after single- or multiple-dose administrations.
 The relative bioavailability of clobazam tablets compared to an oral solution is approximately 100%.
 After single dose administration of the oral suspension under fasted conditions, the T max ranged from 0.5 to 2 hours.
-Based on exposure (C max and AUC) of clobazam, clobazam tablets were shown to have similar bioavailability under fasted conditions.
+Based on exposure (C max and AUC) of clobazam, clobazam tablets and suspension were shown to have similar bioavailability under fasted conditions.
 The administration of clobazam tablets with food or when crushed in applesauce does not affect absorption.
 
 Although not studied, the oral bioavailability of the oral suspension is unlikely to be affected under fed conditions.
@@ -72,7 +72,7 @@ Patients with severe renal impairment or ESRD were not included in this study.
 Hepatic Impairment
 
 There are limited data to characterize the effect of hepatic impairment on the pharmacokinetics of clobazam.
-In a small study, the pharmacokinetics of a 20 mg single oral dose ofclobazamin 9 patients with liver impairment were compared to healthy controls (N=6).
+In a small study, the pharmacokinetics of a 20 mg single oral dose of clobazam in 9 patients with liver impairment were compared to healthy controls (N=6).
 The Cmax and the mean plasma clearance of clobazam, as well as the C max of N-desmethylclobazam, showed no significant change compared to the healthy controls.
 The AUC values of N-desmethylclobazam in these patients were not available.
 Adjust dosage in patients with hepatic impairment [see Dosage and Administration (2.7)].
@@ -113,11 +113,11 @@ Co-administration of ketoconazole (a strong CYP3A4 inhibitor) 400 mg once-daily 
 Strong (e.g., fluconazole, fluvoxamine, ticlopidine) and moderate (e.g., omeprazole) inhibitors of CYP2C19 may result in up to a 5-fold increase in exposure to N-desmethylclobazam, the active metabolite of clobazam, based on extrapolation from pharmacogenomic data [see Clinical Pharmacology (12.5)].
 Dosage adjustment of clobazam may be necessary when co-administered with strong or moderate CYP2C19 inhibitors [see Drug Interactions (7.4)].
 
-The effects of concomitant antiepileptic drugs that are CYP3A4 inducers (phenobarbital, phenytoin, and carbamazepine), CYP2C9 inducers (valproic acid, phenobarbital, phenytoin, and carbamazepine), and CYP2C9 inhibitors (felbamate and oxcarbazepine) were evaluated using data from clinical trials.
+The effects of concomitant antiepileptic drugs that are CYP3A4 inducers (phenobarbital, phenytoin, and carbamazepine), CYP2C19 inducers (valproic acid, phenobarbital, phenytoin, and carbamazepine), and CYP2C19 inhibitors (felbamate and oxcarbazepine) were evaluated using data from clinical trials.
 Results of population pharmacokinetic analysis show that these concomitant antiepileptic drugs did not significantly alter the pharmacokinetics of clobazam or N-desmethylclobazam at steady-state.
 
 Alcohol has been reported to increase the maximum plasma exposure of clobazam by approximately 50%.
-Alcohol may have additive CNS depressant effects when taken with clobazam [see Warnings and Precautions (5.2),Drug Interactions (7.2)].
+Alcohol may have additive CNS depressant effects when taken with clobazam [see Warnings and Precautions (5.4), Drug Interactions (7.2)].
 
 ## 12.5 Pharmacogenomics
 

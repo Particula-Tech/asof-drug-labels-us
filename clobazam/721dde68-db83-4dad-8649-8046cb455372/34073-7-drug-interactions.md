@@ -9,10 +9,10 @@ Limit dosage and duration of concomitant use of benzodiazepines and opioids, and
 
 ## 7.2 CNS Depressants and Alcohol
 
-Concomitant use of clobazam with other CNS depressants may increase the risk of sedation and somnolence [see Warnings and Precautions (5.2)].
+Concomitant use of clobazam with other CNS depressants may increase the risk of sedation and somnolence [see Warnings and Precautions (5.4)].
 
 Alcohol, as a CNS depressant, will interact with clobazam in a similar way and also increases clobazam’s maximum plasma exposure by approximately 50%.
-Therefore, caution patients or their caregivers against simultaneous use with other CNS depressant drugs or alcohol, and caution that the effects of other CNS depressant drugs or alcohol may be potentiated [see Warnings and Precautions (5.2)].
+Therefore, caution patients or their caregivers against simultaneous use with other CNS depressant drugs or alcohol, and caution that the effects of other CNS depressant drugs or alcohol may be potentiated [see Warnings and Precautions (5.4)].
 
 ## 7.3 Effect of Clobazam Tablet on Other Drugs
 
@@ -20,7 +20,7 @@ Hormonal Contraceptives
 
 Clobazam is a weak CYP3A4 inducer.
 As some hormonal contraceptives are metabolized by CYP3A4, their effectiveness may be diminished when given with clobazam.
-Additional non- hormonal forms of contraception are recommended when using clobazam [see Clinical Pharmacology (12.3), Patient Counseling Information (17)].
+Additional non-hormonal forms of contraception are recommended when using clobazam [see Clinical Pharmacology (12.3), Patient Counseling Information (17)].
 
 Drugs Metabolized by CYP2D6
 
