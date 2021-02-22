@@ -14,7 +14,7 @@ It has the chemical name 4-hydroxy-α1-[[[6-(4-phenylbutoxy)hexyl]amino]methyl]-
 Salmeterol xinafoate is a white powder with a molecular weight of 603.8, and the empirical formula is C25H37NO4•C11H8O3.
 It is freely soluble in methanol; slightly soluble in ethanol, chloroform, and isopropanol; and sparingly soluble in water.
 
-ADVAIR HFA is a purple plastic inhaler with a light purple strapcap containing a pressurized metered-dose aerosol canister fitted with a counter.
+ADVAIR HFA is a purple plastic inhaler with a light purple cap containing a pressurized metered-dose aerosol canister fitted with a counter.
 Each canister contains a microcrystalline suspension of micronized fluticasone propionate and micronized salmeterol xinafoate in propellant HFA-134a (1,1,1,2-tetrafluoroethane).
 It contains no other excipients.
 

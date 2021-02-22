@@ -6,8 +6,7 @@ ADVAIR HFA 115/21 is supplied in 12-g pressurized aluminum canisters containing 
 
 ADVAIR HFA 230/21 is supplied in 12-g pressurized aluminum canisters containing 120 metered actuations in boxes of 1 (NDC 0173-0717-20) and 8-g pressurized aluminum canisters containing 60 metered actuations in institutional pack boxes of 1 (NDC 0173-0717-22).
 
-Each canister is fitted with a counter and supplied with a purple actuator with a light purple strapcap.
-Each inhaler is sealed in a plastic-coated, moisture-protective foil pouch with a desiccant that should be discarded when the pouch is opened.
+Each canister is fitted with a counter and supplied with a purple actuator with a light purple cap.
 Each inhaler is packaged with a Patient Information leaflet.
 
 The purple actuator supplied with ADVAIR HFA should not be used with any other product canisters, and actuators from other products should not be used with an ADVAIR HFA canister.

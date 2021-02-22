@@ -7,7 +7,7 @@ Risk Summary
 There are insufficient data on the use of ADVAIR HFA or individual monoproducts, fluticasone propionate and salmeterol xinafoate, in pregnant women.
 There are clinical considerations with the use of ADVAIR HFA in pregnant women.
 (See Clinical Considerations.)
-In animals, teratogenicity characteristic of corticosteroids, decreased fetal body weight and/or skeletal variations, in rats, mice, and rabbits were observed with subcutaneously administered maternal toxic doses of fluticasone propionate less than the maximum recommended human daily inhaled dose (MRHDID) on a mcg/m2 basis.
+In animals, teratogenicity characteristic of corticosteroids, decreased fetal body weight and/or skeletal variations, in rats, mice, and rabbits, was observed with subcutaneously administered maternal toxic doses of fluticasone propionate less than the maximum recommended human daily inhaled dose (MRHDID) on a mcg/m2 basis.
 (See Data.)
 However, fluticasone propionate administered via inhalation to rats decreased fetal body weight but did not induce teratogenicity at a maternal toxic dose less than the MRHDID on a mcg/m2 basis.
 (See Data.)
@@ -22,7 +22,7 @@ In the U.S. general population, the estimated risk of major birth defects and mi
 
 Clinical Considerations
 
-Disease-Associated Maternal and/or Embryofetal Risk: In women with poorly or moderately controlled asthma, there is an increased risk of several perinatal outcomes such as pre‑eclampsia in the mother and prematurity, low birth weight, and small for gestational age in the neonate.
+Disease-Associated Maternal and/or Embryofetal Risk: In women with poorly or moderately controlled asthma, there is an increased risk of several perinatal outcomes such as pre-eclampsia in the mother and prematurity, low birth weight, and small for gestational age in the neonate.
 Pregnant women should be closely monitored and medication adjusted as necessary to maintain optimal control of asthma.
 
 Labor and Delivery: There are no human studies evaluating the effects of ADVAIR HFA during labor and delivery.
