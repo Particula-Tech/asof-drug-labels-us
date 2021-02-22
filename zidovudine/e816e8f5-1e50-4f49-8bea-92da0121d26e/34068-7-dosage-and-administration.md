@@ -6,11 +6,12 @@ The recommended dosage of lamivudine and zidovudine tablet in HIV-1-infected adu
 
 ## 2.2 Recommended Dosage for Pediatric Patients
 
-The recommended oral dosage of scored lamivudine and zidovudine tablets for pediatric patients who weigh greater than or equal to 30 kg and for whom a solid oral dosage form is appropriate is 1 tablet administered orally twice daily.
+The recommended dosage of scored lamivudine and zidovudine tablets for pediatric patients who weigh greater than or equal to 30 kg and for whom a solid oral dosage form is appropriate is 1 tablet administered orally twice daily.
 Before prescribing lamivudine and zidovudine tablets, children should be assessed for the ability to swallow tablets.
-If a child is unable to reliably swallow a lamivudine and zidovudine tablet, the liquid oral formulations should be prescribed: lamivudine oral solution and zidovudine syrup.
+If a child is unable to reliably swallow a lamivudine and zidovudine tablet, the liquid oral formulations should be prescribed: EPIVIR (lamivudine) oral solution and RETROVIR (zidovudine) syrup.
 
 ## 2.3 Not Recommended Due to Lack of Dosage Adjustment
 
-Because lamivudine and zidovudine is a fixed-dose tablet and cannot be dose adjusted, lamivudine and zidovudine tablets are not recommended for: • pediatric patients weighing less than 30 kg [see Use in Specific Populations(8.4)]. • patients with creatinine clearance less than 50 mL per minute [see Use in Specific Populations (8.6)]. • patients with hepatic impairment [see Use in Specific Populations (8.7)]. • patients experiencing dose-limiting adverse reactions.
-Liquid and solid oral formulations of the individual components of lamivudine and zidovudine tablet are available for these populations.
+Because lamivudine and zidovudine is a fixed-dose tablet and cannot be dose adjusted, lamivudine and zidovudine tablets are not recommended for: • pediatric patients weighing less than 30 kg [see Use in Specific Populations (8.4)]. • patients with creatinine clearance less than 50 mL per minute [see Use in Specific Populations (8.6)]. • patients with hepatic impairment [see Use in Specific Populations (8.7)]. • patients experiencing dose-limiting adverse reactions.
+
+Liquid and solid oral formulations of the individual components of lamivudine and zidovudine tablets are available for these populations.

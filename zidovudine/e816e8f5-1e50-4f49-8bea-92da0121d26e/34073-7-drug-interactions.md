@@ -2,4 +2,9 @@
 
 ## 7.1 Zidovudine
 
-Agents Antagonistic with Zidovudine Concomitant use of zidovudine with the following drugs should be avoided since an antagonistic relationship has been demonstrated in vitro: •Stavudine •Doxorubicine •Nucleoside analogues e.g., ribavirin Hematologic/Bone Marrow Suppressive/Cytotoxic Agents Coadministration with the following drugs may increase the hematologic toxicity of zidovudine: •Ganciclovir •Interferon alfa •Ribavirin •Other bone marrow suppressive or cytotoxic agents
+Agents Antagonistic with Zidovudine Concomitant use of zidovudine with the following drugs should be avoided since an antagonistic relationship has been demonstrated in vitro: • Stavudine • Doxorubicine • Nucleoside analogues, e.g., ribavirin Hematologic/Bone Marrow Suppressive/Cytotoxic Agents Coadministration with the following drugs may increase the hematologic toxicity of zidovudine: • Ganciclovir • Interferon alfa • Ribavirin • Other bone marrow suppressive or cytotoxic agents
+
+## 7.2 Lamivudine
+
+Sorbitol Coadministration of single doses of lamivudine and sorbitol resulted in a sorbitol dose-dependent reduction in lamivudine exposures.
+When possible, avoid use of sorbitol-containing medicines with lamivudine-containing medicines [see Clinical Pharmacology (12.3)].

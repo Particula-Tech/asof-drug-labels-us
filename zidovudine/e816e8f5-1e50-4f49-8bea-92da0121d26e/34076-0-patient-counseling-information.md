@@ -8,20 +8,16 @@ Advise patients to stop taking lamivudine and zidovudine if they develop clinica
 Patients with Hepatitis B or C Co-infection Advise patients co-infected with HIV-1 and HBV that worsening of liver disease has occurred in some cases when treatment with lamivudine was discontinued.
 Advise patients to discuss any changes in regimen with their healthcare provider [see Warnings and Precautions (5.4)].
 Inform patients with HIV-1/HCV co-infection that hepatic decompensation (some fatal) has occurred in HIV-1/HCV co-infected patients receiving combination antiretroviral therapy for HIV-1 and interferon alfa with or without ribavirin [see Warnings and Precautions (5.5)].
-Drug Interactions Advise patients that other medications may interact with lamivudine and zidovudine and certain medications, including ganciclovir, interferon alfa, and ribavirin, may exacerbate the toxicity of zidovudine, a component of lamivudine and zidovudine [see Drug Interactions (7.1)].
+Drug Interactions Advise patients that other medications may interact with lamivudine and zidovudine and certain medications, including ganciclovir, interferon alfa, and ribavirin, may exacerbate the toxicity of zidovudine, a component of lamivudine and zidovudine tablets [see Drug Interactions (7.1)].
 Immune Reconstitution Syndrome Advise patients to inform their healthcare provider immediately of any signs and symptoms of infection as inflammation from previous infection may occur soon after combination antiretroviral therapy, including when lamivudine and zidovudine is started [see Warnings and Precautions (5.7)].
-Redistribution/Accumulation of Body Fat Inform patients that redistribution or accumulation of body fat may occur in patients receiving antiretroviral therapy and that the cause and long-term health effects of these conditions are not known at this time [see Warnings and Precautions (5.8)].
+Lipoatrophy Advise patients that loss of subcutaneous fat may occur in patients receiving lamivudine and zidovudine and that they will be regularly assessed during therapy [see Warnings and Precautions (5.8)].
 Pregnancy Registry Advise patients that there is a pregnancy exposure registry that monitors pregnancy outcomes in women exposed to lamivudine and zidovudine during pregnancy [see Use in Specific Populations (8.1)].
 Lactation Instruct women with HIV-1 infection not to breastfeed because HIV-1 can be passed to the baby in the breast milk [see Use in Specific Populations (8.2)].
 Missed Dose Instruct patients that if they miss a dose of lamivudine and zidovudine, to take it as soon as they remember.
 Advise patients not to double their next dose or take more than the prescribed dose [see Dosage and Administration (2)].
-The other brands listed are trademarks of their respective owners and are not trademarks of the Hetero Labs Limited.
-The makers of these brands are not affiliated with and do not endorse Hetero Labs Limited the or its products.
+The brands listed are trademarks of their respective owners and are not trademarks of Hetero Labs Limited.
 
-Manufactured for:
+Manufactured for: Camber Pharmaceuticals, Inc. Piscataway, NJ 08854
 
-Camber Pharmaceuticals, Inc. Piscataway, NJ08854
-
-By: HETEROTM Hetero Labs Limited Unit V, Polepally, Jadcherla Mahaboob Nagar- 509 301, India.
-
-Revised: December 2017
+Manufactured by: HETERO LABS LIMITED Unit V, Polepally, Jadcherla, Mahabubnagar-509 301, India.
+Revised: 06/2019
