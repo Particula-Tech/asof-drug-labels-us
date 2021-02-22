@@ -1,6 +1,6 @@
 # DOSAGE AND ADMINISTRATION
 
-NOTE: CONTAINS BENZYL ALCOHOL (see WARNINGS and PRECAUTIONS - Pediatric Use).
+NOTE: CONTAINS BENZYL ALCOHOL (see WARNINGS and PRECAUTIONS, Pediatric Use).
 
 ATIVAN must never be used without individualization of dosage particularly when used with other medications capable of producing central-nervous-system depression.
 
@@ -18,7 +18,7 @@ The use of benzodiazepines, like ATIVAN Injection, is ordinarily only an initial
 Because status epilepticus may result from a correctable acute cause such as hypoglycemia, hyponatremia, or other metabolic or toxic derangement, such an abnormality must be immediately sought and corrected.
 Furthermore, patients who are susceptible to further seizure episodes should receive adequate maintenance antiepileptic therapy.
 
-Any health care professional who intends to treat a patient with status epilepticus should be familiar with this package insert and the pertinent medical literature concerning current concepts for the treatment of status epilepticus.
+Any healthcare professional who intends to treat a patient with status epilepticus should be familiar with this package insert and the pertinent medical literature concerning current concepts for the treatment of status epilepticus.
 A comprehensive review of the considerations critical to the informed and prudent management of status epilepticus cannot be provided in drug product labeling.
 The archival medical literature contains many informative references on the management of status epilepticus, among them the report of the working group on status epilepticus of the Epilepsy Foundation of America “Treatment of Convulsive Status Epilepticus” (JAMA 1993; 270:854-859).
 As noted in the report just cited, it may be useful to consult with a neurologist if a patient fails to respond (e.g., fails to regain consciousness).

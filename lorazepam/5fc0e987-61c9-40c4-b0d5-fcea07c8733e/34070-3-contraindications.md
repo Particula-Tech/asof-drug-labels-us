@@ -4,5 +4,4 @@ ATIVAN Injection is contraindicated in patients with a known sensitivity to benz
 It is also contraindicated in patients with severe respiratory insufficiency, except in those patients requiring relief of anxiety and/or diminished recall of events while being mechanically ventilated.
 The use of ATIVAN Injection intra-arterially is contraindicated because, as with other injectable benzodiazepines, inadvertent intra-arterial injection may produce arteriospasm resulting in gangrene which may require amputation (see WARNINGS).
 
-ATIVAN Injection is contraindicated for use in premature infants because the formulation contains benzyl alcohol.
-(See WARNINGS and PRECAUTIONS - Pediatric Use).
+ATIVAN Injection is contraindicated for use in premature infants because the formulation contains benzyl alcohol (see WARNINGS and PRECAUTIONS, Pediatric Use).
