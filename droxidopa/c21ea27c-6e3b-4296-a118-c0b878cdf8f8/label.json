@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "ANDA211726"
+  ],
+  "inn": "droxidopa",
+  "labeler": "Camber Pharmaceuticals, Inc.",
+  "package_ndcs": [
+    "31722-010-90"
+  ],
+  "products": [
+    {
+      "form": "CAPSULE",
+      "generic": "droxidopa",
+      "name": "Droxidopa"
+    }
+  ],
+  "setid": "c21ea27c-6e3b-4296-a118-c0b878cdf8f8",
+  "source": "dailymed"
+}
