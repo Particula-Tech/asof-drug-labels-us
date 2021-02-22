@@ -6,7 +6,7 @@ In adults, symptomatic response to therapy with pantoprazole sodium does not pre
 Consider additional follow-up and diagnostic testing in adult patients who have a suboptimal response or an early symptomatic relapse after completing treatment with a PPI.
 In older patients, also consider an endoscopy.
 
-## 5.2 Acute interstitial Nephritis
+## 5.2 Acute Interstitial Nephritis
 
 Acute interstitial nephritis has been observed in patients taking PPIs including pantoprazole sodium delayed-release tablets.
 Acute interstitial nephritis may occur at any point during PPI therapy and is generally attributed to an idiopathic hypersensitivity reaction.
@@ -23,7 +23,7 @@ Patients should use the lowest dose and shortest duration of PPI therapy appropr
 Several published observational studies suggest that PPI therapy may be associated with an increased risk for osteoporosis-related fractures of the hip, wrist, or spine.
 The risk of fracture was increased in patients who received high-dose, defined as multiple daily doses, and long-term PPI therapy (a year or longer).
 Patients should use the lowest dose and shortest duration of PPI therapy appropriate to the condition being treated.
-Patients at risk for osteoporosis-related fractures should be managed according to established treatment guidelines [see Dosage and Administration (2) and Adverse Reactions (6.2)].
+Patients at risk for osteoporosis-related fractures should be managed according to established treatment guidelines [see Dosage and Administration (2), Adverse Reactions (6.2)].
 
 ## 5.5 Cutaneous and Systemic Lupus Erythematosus
 
@@ -63,11 +63,13 @@ The relevance of these findings to tumor development in humans is unknown [see N
 
 ## 5.9 Fundic Gland Polyps
 
-PPI use is associated with an increased risk of fundic gland polyps that increases with long-term use, especially beyond one year.
+use is associated with an increased risk of fundic gland polyps that increases with long-term use, especially beyond one year.
+Most PPI users who developed fundic gland polyps were asymptomatic and fundic gland polyps were identified incidentally on endoscopy.
+Use the shortest duration of PPI therapy appropriate to the condition being PPI use is associated with an increased risk of fundic gland polyps that increases with long-term use, especially beyond one year.
 Most PPI users who developed fundic gland polyps were asymptomatic and fundic gland polyps were identified incidentally on endoscopy.
 Use the shortest duration of PPI therapy appropriate to the condition being treated.
 
-## 5.10 Interference with Urine Screen for THC
+## 5.10 Interference with Investigations for Neuroendocrine Tumors
 
 Serum chromogranin A (CgA) levels increase secondary to drug-induced decreases in gastric acidity.
 The increased CgA level may cause false positive results in diagnostic investigations for neuroendocrine tumors.

@@ -12,8 +12,8 @@ Table 8: Erosive Esophagitis Healing Rates (Per Protocol)
 | ––––––––––––––– Pantoprazole sodium –––––––––– Placebo |  |  |  |  |
 | --- | --- | --- | --- | --- |
 | Week | 10 mg daily (n = 153) | 20 mg daily (n = 158) | 40 mg daily (n = 162) | (n = 68) |
-| 4 | 45.6%+ | 58.4%+# | 75%+* | 14.3% |
-| 8 | 66%+ | 83.5%+# | 92.6%+* | 39.7% |
+| 4 | 45.6% + | 58.4% +# | 75.0% +* | 14.3% |
+| 8 | 66.0% + | 83.5% +# | 92.6% +* | 39.7% |
 
 + (p < 0.001) pantoprazole sodium versus placebo * (p < 0.05) versus 10 mg or 20 mg pantoprazole sodium # (p < 0.05) versus 10 mg pantoprazole sodium In this study, all pantoprazole sodium treatment groups had significantly greater healing rates than the placebo group.
 This was true regardless of H. pylori status for the 40 mg and 20 mg pantoprazole sodium treatment groups.
@@ -27,8 +27,8 @@ Table 9: Erosive Esophagitis Healing Rates (Per Protocol)
 | –––––––––––––––Pantoprazole sodium––––––––––––––– Nizatidine |  |  |  |
 | --- | --- | --- | --- |
 | Week | 20 mg daily (n = 72) | 40 mg daily (n = 70) | 150 mg twice daily (n = 70) |
-| 4 | 61.4%+ | 64%+ | 22.2% |
-| 8 | 79.2%+ | 82.9%+ | 41.4% |
+| 4 | 61.4% + | 64.0% + | 22.2% |
+| 8 | 79.2% + | 82.9% + | 41.4% |
 
 + (p < 0.001) pantoprazole sodium versus nizatidine Once-daily treatment with pantoprazole sodium 40 mg or 20 mg resulted in significantly superior rates of healing at both 4 and 8 weeks compared with twice-daily treatment with 150 mg of nizatidine.
 For the 40 mg treatment group, significantly greater healing rates compared to nizatidine were achieved regardless of the H. pylori status.
@@ -36,7 +36,7 @@ A significantly greater proportion of the patients in the pantoprazole sodium tr
 Patients taking pantoprazole sodium consumed significantly fewer antacid tablets per day than those taking nizatidine.
 Pediatric Patients Ages 5 Years through 16 Years The efficacy of pantoprazole sodium in the treatment of EE associated with GERD in pediatric patients ages 5 years through 16 years is extrapolated from adequate and well-conducted trials in adults, as the pathophysiology is thought to be the same.
 Four pediatric patients with endoscopically diagnosed EE were studied in multicenter, randomized, double-blind, parallel-treatment trials.
-Children with endoscopically diagnosed EE (defined as an endoscopic Hetzel-Dent score ≥ 2) were treated once daily for 8 weeks with one of two dose levels of pantoprazole sodium delayed-release tablets (20 mg or 40 mg).
+Children with endoscopically diagnosed EE (defined as an endoscopic Hetzel-Dent score ≥2) were treated once daily for 8 weeks with one of two dose levels of pantoprazole sodium delayed-release tablets (20 mg or 40 mg).
 All 4 patients with EE were healed (Hetzel-Dent score of 0 or 1) at 8 weeks.
 
 ## 14.2 Long-Term Maintenance of Healing of Erosive Esophagitis
@@ -76,7 +76,7 @@ Table 11: Number of Episodes of Heartburn (mean ± SD)
 
 ## 14.3 Pathological Hypersecretory Conditions Including Zollinger-Ellison Syndrome
 
-In a multicenter, open-label trial of 35 patients with pathological hypersecretory conditions, such as Zollinger-Ellison syndrome, with or without multiple endocrine neoplasia-type I, pantoprazole sodium successfully controlled gastric acid secretion.
+In a multicenter, open-label trial of 35 patients with pathological hypersecretory conditions, such as Zollinger-Ellison Syndrome, with or without multiple endocrine neoplasia-type I, pantoprazole sodium successfully controlled gastric acid secretion.
 Doses ranging from 80 mg daily to 240 mg daily maintained gastric acid output below 10 mEq/h in patients without prior acid-reducing surgery and below 5 mEq/h in patients with prior acid-reducing surgery.
 Doses were initially titrated to the individual patient needs, and adjusted in some patients based on the clinical response with time [see Dosage and Administration (2)].
 Pantoprazole sodium was well tolerated at these dose levels for prolonged periods (greater than 2 years in some patients).

@@ -2,12 +2,12 @@
 
 Table 4 includes drugs with clinically important drug interactions and interaction with diagnostics when administered concomitantly with pantoprazole sodium delayed-release tablets and instructions for preventing or managing them.
 Consult the labeling of concomitantly used drugs to obtain further information about interactions with PPIs.
-Table 4: Clinically Relevant Interactions Affecting Drugs Co-Administered with pantoprazole sodium and Interactions with Diagnostics
+Table 4: Clinically Relevant Interactions Affecting Drugs Co-Administered with Pantoprazole Sodium and Interactions with Diagnostics
 
 | Antiretrovirals |  |
 | --- | --- |
 | Clinical Impact: | The effect of PPIs on antiretroviral drugs is variable. The clinical importance and the mechanisms behind these interactions are not always known. • Decreased exposure of some antiretroviral drugs (e.g., rilpivirine atazanavir, and nelfinavir) when used concomitantly with pantoprazole sodium may reduce antiviral effect and promote the development of drug resistance. • Increased exposure of other antiretroviral drugs (e.g., saquinavir) when used concomitantly with pantoprazole sodium may increase toxicity of the antiretroviral drugs. • There are other antiretroviral drugs which do not result in clinically relevant interactions with pantoprazole. |
-| Intervention: | Rilpivirine-containing products: Concomitant use with pantoprazole sodium is contraindicated [see Contraindications (4)].See prescribing information. Atazanavir: See prescribing information for atazanavir for dosing information. Nelfinavir: Avoid concomitant use with pantoprazole sodium. See prescribing information for nelfinavir. Saquinavir: See the prescribing information for saquinavir and monitor for potential saquinavir toxicities. Other antiretrovirals: See prescribing information. |
+| Intervention: | Rilpivirine-containing products: Concomitant use with pantoprazole sodium is contraindicated [see Contraindications (4)]. See prescribing information. Atazanavir: See prescribing information for atazanavir for dosing information. Nelfinavir: Avoid concomitant use with pantoprazole sodium. See prescribing information for nelfinavir. Saquinavir: See the prescribing information for saquinavir and monitor for potential saquinavir toxicities. Other antiretrovirals: See prescribing information. |
 | Warfarin |  |
 | Clinical Impact: | Increased INR and prothrombin time in patients receiving PPIs, including pantoprazole, and warfarin concomitantly. Increases in INR and prothrombin time may lead to abnormal bleeding and even death. |
 | Intervention: | Monitor INR and prothrombin time. Dose adjustment of warfarin may be needed to maintain target INR range. See prescribing information for warfarin. |

@@ -9,7 +9,8 @@ Cutaneous and Systemic Lupus Erythematosus Advise patients to immediately call t
 Cyanocobalamin (Vitamin B-12) Deficiency Advise patients to report any clinical symptoms that may be associated with cyancobalamin deficiency to their healthcare provider if they have been receiving pantoprazole sodium delayed-release tablets for longer than 3 years [see Warnings and Precautions (5.6)].
 Hypomagnesemia Advise patients to report any clinical symptoms that may be associated with hypomagnesemia to their healthcare provider, if they have been receiving pantoprazole sodium delayed-release tablets for at least 3 months [see Warnings and Precautions (5.7)].
 Drug Interactions Instruct patients to inform their healthcare provider of any other medications they are currently taking, including rilpivirine-containing products [see Contraindications (4)]digoxin [see Warnings and Precautions (5.7)]and high dose methotrexate [see Warnings and Precautions (5.12)].
-Pregnancy Inform female patients of reproductive potential that pantoprazole sodium delayed-release tablets may cause fetal harm and to inform their prescriber of a known or suspected pregnancy [see Use in Specific Populations (8.1)].
+Pregnancy Advise a pregnant women of the potential risk to a fetus.
+Advise females of reproductive potential to inform their healthcare provider of a known or suspected pregnancy [see Use in Specific Populations (8.1)].
 Administration • Do not split, crush, or chew Pantoprazole Sodium Delayed-Release Tablets. • Swallow Pantoprazole Sodium Delayed-Release Tablets whole, with or without food in the stomach. • Concomitant administration of antacids does not affect the absorption of Pantoprazole Sodium Delayed-Release Tablets. • Take a missed dose as soon as possible.
 If it is almost time for the next dose, skip the missed dose and take the next dose at the regular scheduled time.
 Do not take 2 doses at the same time.
@@ -22,10 +23,8 @@ Piscataway, NJ 08854
 
 By: HETEROTM
 
-Hetero Labs Limited Unit V, Polepally,
+Hetero Labs Limited, Unit V, Polepally,
 
 Jadcherla, Mahabubnagar – 509 301, India.
 
-Barcode
-
-Revised: July 2018
+Revised: 12/2019

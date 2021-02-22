@@ -1,4 +1,4 @@
-# 2 DOSAGE & ADMINISTRATION
+# 2 DOSAGE AND ADMINISTRATION
 
 ## 2.1 Recommended Dosing Schedule
 
@@ -30,6 +30,6 @@ Table 2: Administration Instructions
 Take a missed dose as soon as possible.
 If it is almost time for the next dose, skip the missed dose and take the next dose at the regular scheduled time.
 Do not take 2 doses at the same time.
-Pantoprazole Sodium Delayed-Release Tablets Swallowed Pantoprazole Sodium Delayed-Release Tablets whole, with or without food in the stomach.
+Pantoprazole Sodium Delayed-Release Tablets Swallow Pantoprazole Sodium Delayed-Release Tablets whole, with or without food in the stomach.
 For patients unable to swallow a 40 mg tablet, two 20 mg tablets may be taken.
 Concomitant administration of antacids does not affect the absorption of Pantoprazole Sodium Delayed-Release Tablets.
