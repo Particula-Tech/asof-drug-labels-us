@@ -1,0 +1,24 @@
+{
+  "application_numbers": [
+    "ANDA213911"
+  ],
+  "inn": "droxidopa",
+  "labeler": "Ascend Laboratories, LLC",
+  "package_ndcs": [
+    "67877-704-05",
+    "67877-704-90",
+    "67877-705-05",
+    "67877-705-90",
+    "67877-706-05",
+    "67877-706-90"
+  ],
+  "products": [
+    {
+      "form": "CAPSULE",
+      "generic": "droxidopa",
+      "name": "Droxidopa"
+    }
+  ],
+  "setid": "6091958e-f04e-47c0-9eef-9c204df4edd9",
+  "source": "dailymed"
+}

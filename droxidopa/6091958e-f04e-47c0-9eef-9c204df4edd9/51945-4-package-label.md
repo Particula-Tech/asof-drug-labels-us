@@ -1,0 +1,7 @@
+# PACKAGE LABEL.PRINCIPAL DISPLAY PANEL
+
+PRINCIPAL DISPLAY PANEL- BOTTLE OF 90'S-100 MG NDC 67877-704-90 Droxidopa Capsules 100 mg Rx Only 90 Capsules Ascend Laboratories, LLC
+
+PRINCIPAL DISPLAY PANEL- BOTTLE OF 90'S-200 MG NDC 67877-705-90 Droxidopa Capsules 200 mg Rx Only 90 Capsules Ascend Laboratories, LLC
+
+PRINCIPAL DISPLAY PANEL- BOTTLE OF 90'S-300 MG NDC 67877-706-90 Droxidopa Capsules 300 mg Rx Only 90 Capsules Ascend Laboratories, LLC
