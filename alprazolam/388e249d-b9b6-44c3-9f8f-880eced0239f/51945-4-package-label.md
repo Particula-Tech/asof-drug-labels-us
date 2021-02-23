@@ -1,14 +1,10 @@
 # PRINCIPAL DISPLAY PANEL - 0.25 mg Tablet Bottle Label
 
-ALWAYS DISPENSE WITH MEDICATION GUIDE
+ALWAYS DISPENSE WITH MEDICATION GUIDE NDC 0009-0029-01
 
 Pfizer
 
-NDC 0009-0029-01
-
-Xanax®
-
-alprazolam tablets, USP
+Xanax® alprazolam tablets, USP
 
 CIV
 
@@ -18,15 +14,11 @@ CIV
 
 # PRINCIPAL DISPLAY PANEL - 0.5 mg Tablet Bottle Label
 
-ALWAYS DISPENSE WITH MEDICATION GUIDE
+ALWAYS DISPENSE WITH MEDICATION GUIDE NDC 0009-0055-01
 
 Pfizer
 
-NDC 0009-0055-01
-
-Xanax®
-
-alprazolam tablets, USP
+Xanax® alprazolam tablets, USP
 
 CIV
 
@@ -36,15 +28,11 @@ CIV
 
 # PRINCIPAL DISPLAY PANEL - 1 mg Tablet Bottle Label
 
-ALWAYS DISPENSE WITH MEDICATION GUIDE
+ALWAYS DISPENSE WITH MEDICATION GUIDE NDC 0009-0090-01
 
 Pfizer
 
-NDC 0009-0090-01
-
-Xanax®
-
-alprazolam tablets, USP
+Xanax® alprazolam tablets, USP
 
 CIV
 
@@ -54,15 +42,11 @@ CIV
 
 # PRINCIPAL DISPLAY PANEL - 2 mg Tablet Bottle Label
 
-ALWAYS DISPENSE WITH MEDICATION GUIDE
+ALWAYS DISPENSE WITH MEDICATION GUIDE NDC 0009-0094-01
 
 Pfizer
 
-NDC 0009-0094-01
-
-Xanax®
-
-alprazolam tablets, USP
+Xanax® alprazolam tablets, USP
 
 CIV
 

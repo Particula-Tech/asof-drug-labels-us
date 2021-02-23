@@ -5,14 +5,12 @@ XANAX Tablets are available as follows:
 | 0.25 mg (white, oval, scored, imprinted "XANAX 0.25") |  |
 | --- | --- |
 | Bottles of 100 | NDC 0009-0029-01 |
-| Reverse Numbered |  |
-| Unit dose (100) | NDC 0009-0029-46 |
+| Reverse Numbered Unit dose (100) | NDC 0009-0029-46 |
 | Bottles of 500 | NDC 0009-0029-02 |
 | Bottles of 1000 | NDC 0009-0029-14 |
 | 0.5 mg (peach, oval, scored, imprinted "XANAX 0.5") |  |
 | Bottles of 100 | NDC 0009-0055-01 |
-| Reverse Numbered |  |
-| Unit Dose (100) | NDC 0009-0055-46 |
+| Reverse Numbered Unit Dose (100) | NDC 0009-0055-46 |
 | Bottles of 500 | NDC 0009-0055-03 |
 | Bottles of 1000 | NDC 0009-0055-15 |
 | 1 mg (blue, oval, scored, imprinted "XANAX 1.0") |  |

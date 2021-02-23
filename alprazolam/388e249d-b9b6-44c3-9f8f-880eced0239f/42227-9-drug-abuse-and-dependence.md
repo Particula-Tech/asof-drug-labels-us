@@ -1,32 +1,50 @@
 # DRUG ABUSE AND DEPENDENCE
 
-## Physical and Psychological Dependence
+## Controlled Substance
 
-Withdrawal symptoms similar in character to those noted with sedative/hypnotics and alcohol have occurred following discontinuance of benzodiazepines, including XANAX.
-The symptoms can range from mild dysphoria and insomnia to a major syndrome that may include abdominal and muscle cramps, vomiting, sweating, tremors and convulsions.
-Distinguishing between withdrawal emergent signs and symptoms and the recurrence of illness is often difficult in patients undergoing dose reduction.
-The long term strategy for treatment of these phenomena will vary with their cause and the therapeutic goal.
-When necessary, immediate management of withdrawal symptoms requires re-institution of treatment at doses of XANAX sufficient to suppress symptoms.
-There have been reports of failure of other benzodiazepines to fully suppress these withdrawal symptoms.
-These failures have been attributed to incomplete cross-tolerance but may also reflect the use of an inadequate dosing regimen of the substituted benzodiazepine or the effects of concomitant medications.
+XANAX contains alprazolam, a Schedule IV controlled substance.
 
-While it is difficult to distinguish withdrawal and recurrence for certain patients, the time course and the nature of the symptoms may be helpful.
-A withdrawal syndrome typically includes the occurrence of new symptoms, tends to appear toward the end of taper or shortly after discontinuation, and will decrease with time.
-In recurring panic disorder, symptoms similar to those observed before treatment may recur either early or late, and they will persist.
+## Abuse
 
-While the severity and incidence of withdrawal phenomena appear to be related to dose and duration of treatment, withdrawal symptoms, including seizures, have been reported after only brief therapy with XANAX at doses within the recommended range for the treatment of anxiety (eg, 0.75 to 4 mg/day).
-Signs and symptoms of withdrawal are often more prominent after rapid decrease of dosage or abrupt discontinuance.
-The risk of withdrawal seizures may be increased at doses above 4 mg/day (see WARNINGS).
+XANAX is a benzodiazepine and a CNS depressant with a potential for abuse and addiction.
+Abuse is the intentional, non-therapeutic use of a drug, even once, for its desirable psychological or physiological effects.
+Misuse is the intentional use, for therapeutic purposes, of a drug by an individual in a way other than prescribed by a health care provider or for whom it was not prescribed.
+Drug addiction is a cluster of behavioral, cognitive, and physiological phenomena that may include a strong desire to take the drug, difficulties in controlling drug use (e.g., continuing drug use despite harmful consequences, giving a higher priority to drug use than other activities and obligations), and possible tolerance or physical dependence.
+Even taking benzodiazepines as prescribed may put patients at risk for abuse and misuse of their medication.
+Abuse and misuse of benzodiazepines may lead to addiction.
 
-Patients, especially individuals with a history of seizures or epilepsy, should not be abruptly discontinued from any CNS depressant agent, including XANAX.
-It is recommended that all patients on XANAX who require a dosage reduction be gradually tapered under close supervision (see WARNINGS and DOSAGE AND ADMINISTRATION).
+Abuse and misuseof benzodiazepines often (but not always) involve the use of doses greater than the maximum recommended dosage and commonly involve concomitant use of other medications, alcohol, and/or illicit substances, which is associated with an increased frequency of serious adverse outcomes, including respiratory depression, overdose, or death.
+Benzodiazepines are often sought by individuals who abuse drugs and other substances, and by individuals with addictive disorders (see WARNINGS -Abuse, Misuse, and Addiction).
 
-Psychological dependence is a risk with all benzodiazepines, including XANAX.
-The risk of psychological dependence may also be increased at doses greater than 4 mg/day and with longer term use, and this risk is further increased in patients with a history of alcohol or drug abuse.
-Some patients have experienced considerable difficulty in tapering and discontinuing from XANAX, especially those receiving higher doses for extended periods.
-Addiction-prone individuals should be under careful surveillance when receiving XANAX.
-As with all anxiolytics, repeat prescriptions should be limited to those who are under medical supervision.
+The following adverse reactions have occurred with benzodiazepine abuse and/or misuse: abdominal pain, amnesia, anorexia, anxiety, aggression, ataxia, blurred vision, confusion, depression, disinhibition, disorientation, dizziness, euphoria, impaired concentration and memory, indigestion, irritability, muscle pain, slurred speech, tremors, and vertigo.
 
-## Controlled Substance Class
+The following severe adverse reactions have occurred with benzodiazepine abuse and/or misuse: delirium, paranoia, suicidal ideation and behavior, seizures, coma, breathing difficulty, and death.
+Death is more often associated with polysubstance use (especially benzodiazepines with other CNS depressants such as opioids and alcohol).
 
-Alprazolam is a controlled substance under the Controlled Substance Act by the Drug Enforcement Administration and XANAX Tablets have been assigned to Schedule IV.
+## Dependence
+
+### Physical Dependence
+
+XANAX may produce physical dependence from continued therapy.
+Physical dependence is a state that develops as a result of physiological adaptation in response to repeated drug use, manifested by withdrawal signs and symptoms after abrupt discontinuation or a significant dose reduction of a drug.
+Abrupt discontinuation or rapid dosage reduction of benzodiazepines or administration of flumazenil, a benzodiazepine antagonist, may precipitate acute withdrawal reactions, including seizures, which can be life-threatening.
+Patients at an increased risk of withdrawal adverse reactions after benzodiazepine discontinuation or rapid dosage reduction include those who take higher dosages (i.e., higher and/or more frequent doses) and those who have had longer durations of use (see WARNINGS - Dependence and Withdrawal Reactions).
+
+To reduce the risk of withdrawal reactions, use a gradual taper to discontinue XANAX or reduce the dosage (see DOSAGE AND ADMINISTRATION - Discontinuation or Dosage Reduction of XANAX and WARNINGS - Dependence and Withdrawal Reactions).
+
+#### Acute Withdrawal Signs and Symptoms
+
+Acute withdrawal signs and symptoms associated with benzodiazepines have included: (abnormal involuntary movements, anxiety, blurred vision, depersonalization, depression, derealization, dizziness, fatigue, gastrointestinal adverse reactions (e.g., nausea, vomiting, diarrhea, weight loss, decreased appetite), headache, hyperacusis, hypertension, irritability, insomnia, memory impairment, muscle pain and stiffness, panic attacks, photophobia, restlessness, tachycardia, and tremor.
+More severe acute withdrawal signs and symptoms, including life-threatening reactions, have included catatonia, convulsions, delirium tremens, depression, hallucinations, mania, psychosis, seizures and suicidality.
+
+#### Protracted Withdrawal Syndrome
+
+Protracted withdrawal syndrome associated with benzodiazepines is characterized by anxiety, cognitive impairment, depression, insomnia, formication, motor symptoms (e.g., weakness, tremor, muscle twitches), paresthesia, and tinnitus that persists beyond 4 to 6 weeks after initial benzodiazepine withdrawal.
+Protracted withdrawal symptoms may last weeks to more than 12 months.
+As a result, there may be difficulty in differentiating withdrawal symptoms from potential re-emergence or continuation of symptoms for which the benzodiazepine was being used.
+
+### Tolerance
+
+Tolerance to XANAX may develop from continued therapy.
+Tolerance is a physiological state characterized by a reduced response to a drug after repeated administration (i.e., a higher dose of a drug is required to produce the same effect that was once obtained at a lower dose).
+Tolerance to the therapeutic effect of Xanax may develop; however, little tolerance develops to the amnestic reactions and other cognitive impairments caused by benzodiazepines.
