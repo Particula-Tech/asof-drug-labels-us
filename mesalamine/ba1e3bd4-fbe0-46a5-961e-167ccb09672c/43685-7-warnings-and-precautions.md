@@ -2,42 +2,51 @@
 
 ## 5.1 Renal Impairment
 
-Renal impairment, including minimal change nephropathy, acute and chronic interstitial nephritis, and, rarely, renal failure, has been reported in patients given products such as mesalamine delayed-release tablets that contain mesalamine or are converted to mesalamine.
+Renal impairment, including minimal change disease, acute and chronic interstitial nephritis, and, rarely, renal failure, has been reported in patients given products such as mesalamine delayed-release tablets that contain mesalamine or are converted to mesalamine.
+In animal studies, the kidney was the principal organ of mesalamine toxicity [see Adverse Reactions (6.2), Nonclinical Toxicology (13.2)].
 
-It is recommended that patients have an evaluation of renal function prior to initiation of mesalamine therapy and periodically while on therapy.
-Exercise caution when using mesalamine in patients with known renal dysfunction or a history of renal disease.
-
-In animal studies, the kidney was the principal organ for toxicity [see Drug Interactions (7.1) and Nonclinical Toxicology (13.2)].
+Evaluate renal function prior to initiation of mesalamine therapy and periodically while on therapy.
+Evaluate the risks and benefits of using mesalamine in patients with known renal impairment, history of renal disease, or taking concomitant nephrotoxic drugs [see Drug Interactions (7.1), Use in Specific Populations (8.6)].
 
 ## 5.2 Mesalamine-Induced Acute Intolerance Syndrome
 
 Mesalamine has been associated with an acute intolerance syndrome that may be difficult to distinguish from an exacerbation of ulcerative colitis.
 Although the exact frequency of occurrence has not been determined, it has occurred in 3% of patients in controlled clinical trials of mesalamine or sulfasalazine.
-Symptoms include cramping, acute abdominal pain and bloody diarrhea, and sometimes fever, headache, and rash.
-Observe patients closely for worsening of these symptoms while on treatment.
+Symptoms include cramping, acute abdominal pain, and bloody diarrhea, and sometimes fever, headache, and rash.
+Monitor patients closely for worsening of these symptoms while on treatment.
 If acute intolerance syndrome is suspected, promptly discontinue treatment with mesalamine.
 
 ## 5.3 Hypersensitivity Reactions
 
-Some patients who have experienced a hypersensitivity reaction to sulfasalazine may have a similar reaction to mesalamine delayed-release tablets or to other compounds that contain or are converted to mesalamine.
+Hypersensitivity reactions have been reported in patients taking sulfasalazine.
+Some of these patients may have a similar reaction to mesalamine delayed-release tablets or to other compounds that contain or are converted to mesalamine.
 
-Mesalamine-induced cardiac hypersensitivity reactions (myocarditis and pericarditis) have been reported with mesalamine delayed-release tablets and other mesalamine medications.
-Take caution in prescribing this medicine to patients with conditions predisposing them to the development of myocarditis or pericarditis.
+As with sulfasalazine, mesalamine-induced hypersensitivity reactions may present as internal organ involvement, including myocarditis, pericarditis, nephritis, hepatitis, pneumonitis, and hematologic abnormalities.
+Evaluate patients immediately if signs or symptoms of a hypersensitivity reaction are present.
+Discontinue mesalamine delayed-release tablets if an alternative etiology for the signs or symptoms cannot be established.
 
-## 5.4 Hepatic Impairment
+## 5.4 Hepatic Failure
 
 There have been reports of hepatic failure in patients with pre-existing liver disease who have been administered mesalamine.
-Exercise caution when administering mesalamine to patients with liver disease.
+Evaluate the risks and benefits of using mesalamine in patients with known liver impairment.
 
-## 5.5 Upper GI Tract Obstruction
+## 5.5 Upper Gastrointestinal Tract Obstruction
 
-Pyloric stenosis or other organic or functional obstruction in the upper gastrointestinal tract may cause prolonged gastric retention of mesalamine which would delay mesalamine release in the colon.
+Pyloric stenosis or other organic or functional obstruction in the upper gastrointestinal tract may cause prolonged gastric retention of mesalamine, which would delay mesalamine release in the colon.
+Avoid mesalamine in patients at risk of upper gastrointestinal tract obstruction.
 
 ## 5.6 Photosensitivity
 
 Patients with pre-existing skin conditions such as atopic dermatitis and atopic eczema have reported more severe photosensitivity reactions.
+Advise patients to avoid sun exposure, wear protective clothing, and use a broad-spectrum sunscreen when outdoors.
 
-## 5.7 Interference with Laboratory Tests
+## 5.7 Nephrolithiasis
 
-Use of mesalamine may lead to spuriously elevated test results when measuring urinary normetanephrine by liquid chromatography with electrochemical detection because of the similarity in the chromatograms of normetanephrine and mesalamine’s main metabolite, N-acetyl-5-aminosalicylic acid (N-Ac-5-ASA).
+Cases of nephrolithiasis have been reported with the use of mesalamine, including stones with a 100% mesalamine content.
+Mesalamine-containing stones are radiotransparent and undetectable by standard radiography or computed tomography (CT).
+Ensure adequate hydration during treatment with mesalamine.
+
+## 5.8 Interference with Laboratory Tests
+
+Use of mesalamine may lead to spuriously elevated test results when measuring urinary normetanephrine by liquid chromatography with electrochemical detection because of the similarity in the chromatograms of normetanephrine and the main metabolite of mesalamine, N-acetyl-5-aminosalicylic acid (N-Ac-5-ASA).
 Consider an alternative, selective assay for normetanephrine.

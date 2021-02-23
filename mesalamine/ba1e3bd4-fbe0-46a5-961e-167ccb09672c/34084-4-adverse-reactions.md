@@ -1,114 +1,98 @@
 # 6 ADVERSE REACTIONS
 
-The most serious adverse reactions seen in mesalamine clinical trials or with other products that contain or are metabolized to mesalamine are:
+The following clinically significant adverse reactions are described elsewhere in labeling:
 
 - Renal impairment, including renal failure [see Warnings and Precautions (5.1)]
 - Mesalamine-induced acute intolerance syndrome [see Warnings and Precautions (5.2)]
 - Hypersensitivity reactions [see Warnings and Precautions (5.3)]
-- Hepatic impairment, including hepatic failure [see Warnings and Precautions (5.4)]
+- Hepatic failure [see Warnings and Precautions (5.4)]
+- Upper gastrointestinal tract obstruction [see Warnings and Precautions (5.5)]
+- Photosensitivity [see Warnings and Precautions (5.6)]
+- Nephrolithiasis [see Warnings and Precautions (5.7)]
 
 ## 6.1 Clinical Trials Experience
 
 Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in practice.
 
-Mesalamine has been evaluated in 1368 patients with ulcerative colitis in controlled and open-label trials.
+Adults
 
-Induction of Remission
+Induction
 
-In two 8-week, placebo-controlled clinical trials involving 535 patients with ulcerative colitis, 356 received 2.4 g/day or 4.8 g/day mesalamine delayed-release tablets and 179 received placebo.
-The most frequent adverse reaction leading to discontinuation from mesalamine therapy was exacerbation of ulcerative colitis (0.8%).
-Pancreatitis occurred in less than 1% of patients during clinical trials and resulted in discontinuation of therapy with mesalamine in patients experiencing this event.
+The most common adverse reactions occurring in at least 1% of mesalamine- or placebo-treated adult patients with mildly to moderately active ulcerative colitis in two eight-week, randomized, double-blind, placebo-controlled trials (Study 1 and Study 2) [see Clinical Studies (14.1)] are listed in Table 2.
 
-Adverse reactions occurring in mesalamine or placebo groups at a frequency of at least 1% in two 8-week, double-blind, placebo-controlled trials are listed in Table 1.
-The most common adverse reactions with mesalamine 2.4 g/day and 4.8 g/day were headache (5.6% and 3.4%, respectively) and flatulence (4% and 2.8%, respectively).
+Table 2: Adverse Reactions* in Two Eight-Week, Placebo-Controlled Trials of Induction Therapy (Study 1 and Study 2) in Adults with Mildly to Moderately Active Ulcerative Colitis
 
-Table 1: Adverse Reactions in Two Eight-Week, Placebo-Controlled Trials Experienced by at Least 1% of the Mesalamine Group and at a Rate Greater than Placebo*
-
-| Adverse Reaction | Mesalamine 2.4 g/day (n = 177) | Mesalamine 4.8 g/day (n = 179) | Placebo (n = 179) |
+| Adverse Reaction | Mesalamine2.4 g once daily(n = 177) | Mesalamine4.8 g once daily(n = 179) | Placebo (n = 179) |
 | --- | --- | --- | --- |
-| Headache | 10 (5.6%) | 6 (3.4%) | 1 (0.6%) |
-| Flatulence | 7 (4%) | 5 (2.8%) | 5 (2.8%) |
-| Liver Function Test Abnormal | 1 (0.6%) | 4 (2.2%) | 2 (1.1%) |
-| Alopecia | 0 | 2 (1.1%) | 0 |
-| Pruritus | 1 (0.6%) | 2 (1.1%) | 2 (1.1%) |
-| * Adverse reactions for which the placebo rate equalled or exceeded the rate for at least one of the mesalamine treatment groups were abdominal pain, dizziness, dyspepsia, and nausea. |  |  |  |
+| Headache | 6% | 3% | <1% |
+| Flatulence | 4% | 3% | 3% |
+| Liver Function Test Abnormal | <1% | 2% | 1% |
+| Alopecia | 0 | 1% | 0 |
+| Pruritus | <1% | 1% | 1% |
+| *Reported in at least 1% of patients in at least one mesalamine group and greater than placebo |  |  |  |
 
-The following adverse reactions, presented by body system, were reported infrequently (less than 1%) by mesalamine-treated ulcerative colitis patients in the two controlled trials.
+Pancreatitis occurred in less than 1% of patients during induction in clinical trials and resulted in discontinuation of therapy with mesalamine in patients experiencing this event.
+
+Maintenance of Remission
+
+A mesalamine dosage of 2.4 g/day, administered as either 1.2 g twice daily or 2.4 g once daily, was evaluated for safety in three maintenance trials in patients with mildly to moderately active ulcerative colitis: a 6-month double-blind, active-controlled study (Study 3) [see Clinical Studies (14.1)] and two 12- to 14-month open-label studies.
+The most common adverse reactions with mesalamine in these maintenance trials are listed in Table 3.
+
+Table 3: Adverse Reactions* in Three Trials of Maintenance of Remission in Adults with Ulcerative Colitis
+
+|  |  | Mesalamine2.4 g/day†(n=1082) |
+| --- | --- | --- |
+| Adverse Reaction |  | % |
+| Headache |  | 3% |
+| Liver function test abnormal |  | 2% |
+| Abdominal pain |  | 2% |
+| Diarrhea |  | 2% |
+| Abdominal distension |  | 1% |
+| Abdominal pain upper |  | 1% |
+| Dyspepsia |  | 1% |
+| Back pain |  | 1% |
+| Rash |  | 1% |
+| Arthralgia |  | 1% |
+| Fatigue |  | 1% |
+| Hypertension |  | 1% |
+| *Reported in at least 1% of patients |  |  |
+| †Administered either as 1.2 g twice daily or 2.4 g once daily |  |  |
+
+The following adverse reactions, presented by body system, were reported in less than 1% of mesalamine-treated patients with ulcerative colitis in either induction or maintenance trials:
 
 Cardiac Disorder: tachycardia
 
-Vascular Disorders: hypertension, hypotension
+Ear and Labyrinth Disorders: ear pain
 
-Skin and Subcutaneous Tissue Disorders: acne, prurigo, rash, urticaria
+Gastrointestinal Disorders: abdominal distention, colitis, diarrhea, flatulence, nausea, pancreatitis, rectal polyp, vomiting
 
-Gastrointestinal Disorders: abdominal distention, colitis, diarrhea, pancreatitis, rectal polyp, vomiting
+General Disorders and Administrative Site Disorders: asthenia, face edema, fatigue, pyrexia
 
 Investigations: decreased platelet count
 
 Musculoskeletal and Connective Tissue Disorders: arthralgia, back pain
 
-Nervous System Disorders: somnolence, tremor
+Nervous System Disorders: dizziness, somnolence, tremor
 
 Respiratory, Thoracic and Mediastinal Disorders: pharyngolaryngeal pain
 
-General Disorders and Administrative Site Disorders: asthenia, face edema, fatigue, pyrexia
+Skin and Subcutaneous Tissue Disorders: acne, prurigo, rash, alopecia, pruritus, urticaria
 
-Ear and Labyrinth Disorders: ear pain
+Vascular Disorders: hypertension, hypotension
 
-Maintenance of Remission of Ulcerative Colitis
-
-The dose evaluated in three studies of mesalamine given for the maintenance of remission in patients with ulcerative colitis was 1.2 g twice daily or 2.4 g/once daily.
-One of these studies was a 6-month double-blind comparator study, while two were 12- to 14-month open-label studies.
-
-The most common adverse reactions with mesalamine in the maintenance arms of long-term trials were colitis ulcerative (5.8%), headache (2.9%), liver function test abnormal (2.3%), and abdominal pain (2.2%).
-Of the 1082 subjects in the all maintenance studies pooled, 1.9% had severe adverse reactions.
-The most common severe adverse reactions were gastrointestinal disorders; these were mainly symptoms associated with ulcerative colitis.
-
-Table 2: Adverse Reactions in Three Maintenance Trials Experienced by at Least 1% of the Mesalamine Group (maintenance phases of trials)
-
-|  | All Mesalamine (n=1082) |  |
-| --- | --- | --- |
-| Adverse Reaction | n | % |
-| Colitis ulcerative | 63 | (5.8%) |
-| Headache | 31 | (2.9%) |
-| Liver function test abnormal | 25 | (2.3%) |
-| Abdominal pain | 24 | (2.2%) |
-| Diarrhea | 18 | (1.7%) |
-| Abdominal distension | 14 | (1.3%) |
-| Abdominal pain upper | 13 | (1.2%) |
-| Dyspepsia | 13 | (1.2%) |
-| Back pain | 13 | (1.2%) |
-| Rash | 13 | (1.2%) |
-| Arthralgia | 12 | (1.1%) |
-| Fatigue | 11 | (1.0%) |
-| Hypertension | 10 | (1.0%) |
-
-The following adverse reactions, presented by body system, were reported infrequently (less than 1%) by mesalamine-treated patients with ulcerative colitis in the three long-term maintenance trials (maintenance phases of these trials):
-
-Cardiac Disorder: tachycardia
-
-Skin and Subcutaneous Tissue Disorders: acne, alopecia, pruritus, urticaria
-
-Gastrointestinal Disorders: colitis, flatulence, nausea, pancreatitis, rectal polyp, vomiting
-
-Nervous System Disorders: dizziness
-
-Respiratory, Thoracic and Mediastinal Disorders: pharyngolaryngeal pain
-
-General Disorders and Administrative Site Disorders: asthenia, pyrexia
-
-Ear and Labyrinth Disorders: ear pain
+Pediatric use information is approved for Takeda Pharmaceuticals U.S.A., Inc.’s LIALDA (mesalamine) delayed-release tablets.
+However, due to Takeda Pharmaceuticals U.S.A., Inc.’s marketing exclusivity rights, this drug product is not labeled with that information.
 
 ## 6.2 Postmarketing Experience
 
-In addition to the adverse reactions reported above in clinical trials involving mesalamine, the adverse reactions listed below have been identified during post-approval use of mesalamine and other mesalamine-containing products.
+The following adverse reactions have been identified during post-approval use of mesalamine or other mesalamine-containing products.
 Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
 
 Body as a Whole: lupus-like syndrome, drug fever
 
-Cardiac Disorders: pericarditis, pericardial effusion, myocarditis
+Cardiac Disorders: pericarditis, pericardial effusion, myocarditis [see Warnings and Precautions (5.3)]
 
-Gastrointestinal: pancreatitis, cholecystitis, gastritis, gastroenteritis, gastrointestinal bleeding, perforated peptic ulcer
+Gastrointestinal: cholecystitis, gastritis, gastroenteritis, gastrointestinal bleeding, perforated peptic ulcer
 
 Hepatic: jaundice, cholestatic jaundice, hepatitis, liver necrosis, liver failure, Kawasaki-like syndrome including changes in liver enzymes
 
@@ -118,9 +102,9 @@ Immune System Disorders: anaphylactic reaction, angioedema, Stevens-Johnson synd
 
 Musculoskeletal and Connective Tissue Disorders: myalgia, lupus-like syndrome
 
-Neurological/Psychiatric: peripheral neuropathy, Guillain-Barre syndrome, transverse myelitis, intracranial hypertension
+Neurological/Psychiatric: peripheral neuropathy, Guillain-Barré syndrome, transverse myelitis, intracranial hypertension
 
-Renal Disorders: interstitial nephritis, nephrogenic diabetes insipidus
+Renal Disorders: renal failure, interstitial nephritis, nephrogenic diabetes insipidus, nephrolithiasis [see Warnings and Precautions (5.1, 5.7)]
 
 Respiratory, Thoracic and Mediastinal Disorders: interstitial lung disease, hypersensitivity pneumonitis (including interstitial pneumonitis, allergic alveolitis, eosinophilic pneumonitis)
 

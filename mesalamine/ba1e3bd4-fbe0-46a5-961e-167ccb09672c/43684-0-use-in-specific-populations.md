@@ -5,7 +5,7 @@
 Risk Summary
 
 Published data from meta-analyses, cohort studies, and case series on the use of mesalamine during pregnancy have not reliably informed an association with mesalamine and major birth defects, miscarriage, or adverse maternal or fetal outcomes (see Data).
-There are adverse effects on maternal and fetal outcomes associated with ulcerative colitis in pregnancy [see Clinical Considerations].
+There are adverse effects on maternal and fetal outcomes associated with ulcerative colitis in pregnancy (see Clinical Considerations).
 
 In animal reproduction studies, there were no adverse developmental outcomes with administration of oral mesalamine during organogenesis to pregnant rats and rabbits at doses 1.8 and 2.9 times, respectively, the maximum recommended human dose (see Data).
 
@@ -37,7 +37,7 @@ Reproduction studies with mesalamine during organogenesis have been performed in
 Risk Summary
 
 Data from published literature report the presence of mesalamine and its metabolite, N-acetyl-5-aminosalicylic acid in human milk in small amounts with relative infant doses (RID) of 0.1% or less for mesalamine (see Data).
-There are case reports of diarrhea in breastfed infants exposed to mesalamine [see Clinical Considerations].
+There are case reports of diarrhea in breastfed infants exposed to mesalamine (see Clinical Considerations).
 There is no information on the effects of the drug on milk production.
 The lack of clinical data during lactation precludes a clear determination of the risk of mesalamine to an infant during lactation; therefore, the developmental and health benefits of breastfeeding should be considered along with the mother’s clinical need for mesalamine and any potential adverse effects on the breastfed child from mesalamine or from the underlying maternal condition.
 
@@ -54,14 +54,24 @@ Based on these concentrations, estimated infant daily dosages for an exclusively
 
 ## 8.4 Pediatric Use
 
-Safety and effectiveness of mesalamine in pediatric patients have not been established.
+The safety and effectiveness of mesalamine have not been established in patients weighing less than 24 kg.
+
+Pediatric use information is approved for Takeda Pharmaceuticals U.S.A., Inc.’s LIALDA (mesalamine) delayed-release tablets.
+However, due to Takeda Pharmaceuticals U.S.A., Inc.’s marketing exclusivity rights, this drug product is not labeled with that information.
 
 ## 8.5 Geriatric Use
 
-Reports from uncontrolled clinical studies and postmarketing reporting systems suggested a higher incidence of blood dyscrasias (i.e., neutropenia and pancytopenia) in patients who were 65 years or older who were taking mesalamine-containing products such as mesalamine delayed-release tablets.
-Take caution to monitor blood cell counts closely during mesalamine therapy.
+Clinical trials of mesalamine did not include sufficient numbers of patients aged 65 years and over to determine whether they respond differently from younger patients.
+Reports from uncontrolled clinical studies and postmarketing reporting systems suggested a higher incidence of blood dyscrasias (i.e., agranulocytosis, neutropenia, and pancytopenia) in patients who were 65 years or older who were taking mesalamine-containing products such as mesalamine delayed-release tablets compared to younger patients.
+Monitor complete blood cell counts and platelet counts in elderly patients during treatment with mesalamine.
 
-Clinical trials of mesalamine did not include sufficient numbers of patients aged 65 and over to determine whether they respond differently from younger patients.
-Other reported clinical experience has not identified differences in responses between the elderly and younger patients.
 Systemic exposures are increased in elderly subjects [see Clinical Pharmacology (12.3)].
-In general, dose selection for an elderly patient should be cautious, usually starting at the low end of the dosing range, reflecting the greater frequency of decreased hepatic, renal, or cardiac function, and of concurrent disease or other drug therapy in elderly patients.
+
+In general, consider the greater frequency of decreased hepatic, renal, or cardiac function, and of concomitant disease or other drug therapy in elderly patients when prescribing mesalamine.
+Consider starting at the low end of the dosing range for induction in elderly patients [see Dosage and Administration (2), Use in Specific Populations (8.6)].
+
+## 8.6 Renal Impairment
+
+Mesalamine is known to be substantially excreted by the kidney, and the risk of toxic reactions may be greater in patients with impaired renal function.
+Evaluate renal function in all patients prior to initiation and periodically while on mesalamine therapy.
+Monitor patients with known renal impairment or history of renal disease or taking nephrotoxic drugs for decreased renal function and mesalamine-related adverse reactions [see Warnings and Precautions (5.1), Adverse Reactions (6.2), Drug Interactions (7.1)].
