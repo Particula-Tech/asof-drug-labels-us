@@ -1,0 +1,21 @@
+{
+  "application_numbers": [
+    "ANDA214384"
+  ],
+  "inn": "droxidopa",
+  "labeler": "Sun Pharmaceutical Industries, Inc.",
+  "package_ndcs": [
+    "63304-086-90",
+    "63304-104-90",
+    "63304-112-90"
+  ],
+  "products": [
+    {
+      "form": "CAPSULE",
+      "generic": "droxidopa",
+      "name": "droxidopa"
+    }
+  ],
+  "setid": "51ef3096-4622-4f45-a180-ab0dc6d46df9",
+  "source": "dailymed"
+}
