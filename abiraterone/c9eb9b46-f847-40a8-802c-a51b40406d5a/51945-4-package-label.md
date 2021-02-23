@@ -12,6 +12,8 @@ Rx only
 
 Amneal Pharmaceuticals LLC
 
+# PRINCIPAL DISPLAY PANEL
+
 NDC 69238-1754-6
 
 Abiraterone Acetate Tablets, USP
