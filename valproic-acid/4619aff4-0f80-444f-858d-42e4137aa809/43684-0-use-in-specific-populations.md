@@ -5,7 +5,7 @@
 Pregnancy Exposure Registry
 
 There is a pregnancy exposure registry that monitors pregnancy outcomes in women exposed to antiepileptic drugs (AEDs), including Depakote Sprinkle Capsules, during pregnancy.
-Encourage women who are taking Depakote Sprinkle Capsules during pregnancy to enroll in the North American Antiepileptic Drug (NAAED) Pregnancy Registry by calling toll‑free 1-888-233-2334 or visiting the website, http://www.aedpregnancyregistry.org/.
+Encourage women who are taking Depakote Sprinkle Capsules during pregnancy to enroll in the North American Antiepileptic Drug (NAAED) Pregnancy Registry by calling toll-free 1-888-233-2334 or visiting the website, http://www.aedpregnancyregistry.org/.
 This must be done by the patient herself.
 
 Risk Summary
@@ -22,7 +22,7 @@ Valproate polytherapy with other AEDs has been associated with an increased freq
 The risk of major structural abnormalities is greatest during the first trimester; however, other serious developmental effects can occur with valproate use throughout pregnancy.
 The rate of congenital malformations among babies born to epileptic mothers who used valproate during pregnancy has been shown to be about four times higher than the rate among babies born to epileptic mothers who used other anti-seizure monotherapies [see Warnings and Precautions (5.2) and Data (Human)].
 
-Epidemiological studies have indicated that children exposed to valproate in utero have lower IQ scores and a higher risk of neurodevelopmental disorders compared to children exposed to either another AED in utero or to no AEDs in utero[see Warnings and Precautions (5.3) and Data (Human)].
+Epidemiological studies have indicated that children exposed to valproate in utero have lower IQ scores and a higher risk of neurodevelopmental disorders compared to children exposed to either another AED in utero or to no AEDs in utero [see Warnings and Precautions (5.3) and Data (Human)].
 
 An observational study has suggested that exposure to valproate products during pregnancy increases the risk of autism spectrum disorders [see Data (Human)].
 

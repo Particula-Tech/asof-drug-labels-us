@@ -23,7 +23,7 @@ The therapeutic range in epilepsy is commonly considered to be 50 to 100 mcg/mL 
 
 Absorption/Bioavailability
 
-Equivalent oral doses of Depakote (divalproex sodium) products and DEPAKENE (valproic acid) capsules deliver equivalent quantities of valproate ion systemically.
+Equivalent oral doses of Depakote (divalproex sodium) products and valproic acid capsules deliver equivalent quantities of valproate ion systemically.
 Although the rate of valproate ion absorption may vary with the formulation administered (liquid, solid, or sprinkle), conditions of use (e.g., fasting or postprandial) and the method of administration (e.g., whether the contents of the capsule are sprinkled on food or the capsule is taken intact), these differences should be of minor clinical importance under the steady state conditions achieved in chronic use in the treatment of epilepsy.
 
 However, it is possible that differences among the various valproate products in Tmax and Cmax could be important upon initiation of treatment.
@@ -32,7 +32,7 @@ For example, in single dose studies, the effect of feeding had a greater influen
 While the absorption rate from the G.I. tract and fluctuation in valproate plasma concentrations vary with dosing regimen and formulation, the efficacy of valproate as an anticonvulsant in chronic use is unlikely to be affected.
 Experience employing dosing regimens from once-a-day to four-times-a-day, as well as studies in primate epilepsy models involving constant rate infusion, indicate that total daily systemic bioavailability (extent of absorption) is the primary determinant of seizure control and that differences in the ratios of plasma peak to trough concentrations between valproate formulations are inconsequential from a practical clinical standpoint.
 
-Co-administration of oral valproate products with food and substitution among the various Depakote and Depakene formulations should cause no clinical problems in the management of patients with epilepsy [see Dosage and Administration (2.1)].
+Co-administration of oral valproate products with food and substitution among the various Depakote and valproic acid formulations should cause no clinical problems in the management of patients with epilepsy [see Dosage and Administration (2.1)].
 
 Distribution
 
