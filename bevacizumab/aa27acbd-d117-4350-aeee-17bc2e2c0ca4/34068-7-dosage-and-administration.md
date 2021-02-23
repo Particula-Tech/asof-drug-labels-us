@@ -2,7 +2,8 @@
 
 ## 2.1 Important Administration Information
 
-Do not administer ZIRABEV until at least 28 days following surgery and the wound is fully healed.
+Withhold for at least 28 days prior to elective surgery.
+Do not administer ZIRABEV until at least 28 days following major surgery and until adequate wound healing.
 
 ## 2.2 Metastatic Colorectal Cancer
 
@@ -28,7 +29,27 @@ The recommended dosage is 10 mg/kg intravenously every 2 weeks in combination wi
 
 The recommended dosage is 15 mg/kg intravenously every 3 weeks in combination with paclitaxel and cisplatin or in combination with paclitaxel and topotecan.
 
-## 2.7 Dosage Modifications for Adverse Reactions
+## 2.7 Epithelial Ovarian, Fallopian Tube, or Primary Peritoneal Cancer
+
+Stage III or IV Disease Following Initial Surgical Resection
+
+The recommended dosage is 15 mg/kg intravenously every 3 weeks in combination with carboplatin and paclitaxel for up to 6 cycles, followed by ZIRABEV 15 mg/kg every 3 weeks as a single agent for a total of up to 22 cycles or until disease progression, whichever occurs earlier.
+
+Recurrent Disease
+
+Platinum Resistant
+
+The recommended dosage is 10 mg/kg intravenously every 2 weeks in combination with paclitaxel, pegylated liposomal doxorubicin, or topotecan (every week).
+
+The recommended dosage is 15 mg/kg intravenously every 3 weeks in combination with topotecan (every 3 weeks).
+
+Platinum Sensitive
+
+The recommended dosage is 15 mg/kg intravenously every 3 weeks, in combination with carboplatin and paclitaxel for 6 to 8 cycles, followed by ZIRABEV 15 mg/kg every 3 weeks as a single agent until disease progression.
+
+The recommended dosage is 15 mg/kg intravenously every 3 weeks, in combination with carboplatin and gemcitabine for 6 to 10 cycles, followed by ZIRABEV 15 mg/kg every 3 weeks as a single agent until disease progression.
+
+## 2.8 Dosage Modifications for Adverse Reactions
 
 Table 1 describes dosage modifications for specific adverse reactions.
 No dose reductions for ZIRABEV are recommended.
@@ -38,7 +59,8 @@ Table 1: Dosage Modifications for Adverse Reactions
 | Adverse Reaction | Severity | Dosage Modification |
 | --- | --- | --- |
 | Gastrointestinal Perforations and Fistulae [see Warnings and Precautions (5.1)]. | Gastrointestinal perforation, any gradeTracheoesophageal fistula, any gradeFistula, Grade 4Fistula formation involving any internal organ | Discontinue ZIRABEV |
-| Wound Healing Complications [see Warnings and Precautions (5.2)]. | Wound healing complications requiring medical interventionNecrotizing fasciitis | Discontinue ZIRABEV |
+| Wound Healing Complications [see Warnings and Precautions (5.2)]. | Any | Withhold ZIRABEV until adequate wound healing. The safety of resumption of bevacizumab products after resolution of wound healing complications has not been established. |
+| Necrotizing fasciitis | Discontinue ZIRABEV |  |
 | Hemorrhage [see Warnings and Precautions (5.3)]. | Grade 3 or 4 | Discontinue ZIRABEV |
 | Recent history of hemoptysis of 1/2 teaspoon (2.5 mL) or more | Withhold ZIRABEV |  |
 | Thromboembolic Events [see Warnings and Precautions (5.4, 5.5)]. | Arterial thromboembolism, severe | Discontinue ZIRABEV |
@@ -53,12 +75,12 @@ Table 1: Dosage Modifications for Adverse Reactions
 | Mild, clinically insignificant | Decrease infusion rate |  |
 | Congestive Heart Failure [see Warnings and Precautions (5.12)]. | Any | Discontinue ZIRABEV |
 
-## 2.8 Preparation and Administration
+## 2.9 Preparation and Administration
 
 Preparation
 
 - Use appropriate aseptic technique.
-- Visually inspect vial for particulate matter and discoloration prior to preparation and administration.
+- Visually inspect vial for particulate matter and discoloration prior to preparation for administration.
   Discard vial if solution is cloudy, discolored, or contains particulate matter.
 - Withdraw necessary amount of ZIRABEV and dilute in a total volume of 100 mL of 0.9% Sodium Chloride Injection, USP.
   DO NOT ADMINISTER OR MIX WITH DEXTROSE SOLUTION.

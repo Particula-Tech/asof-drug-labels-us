@@ -23,3 +23,11 @@ ZIRABEV, in combination with interferon alfa, is indicated for the treatment of 
 ## 1.5 Persistent, Recurrent, or Metastatic Cervical Cancer
 
 ZIRABEV, in combination with paclitaxel and cisplatin or paclitaxel and topotecan, is indicated for the treatment of patients with persistent, recurrent, or metastatic cervical cancer.
+
+## 1.6 Epithelial Ovarian, Fallopian Tube, or Primary Peritoneal Cancer
+
+ZIRABEV, in combination with carboplatin and paclitaxel, followed by ZIRABEV as a single agent, is indicated for the treatment of patients with stage III or IV epithelial ovarian, fallopian tube, or primary peritoneal cancer following initial surgical resection.
+
+ZIRABEV, in combination with paclitaxel, pegylated liposomal doxorubicin, or topotecan, is indicated for the treatment of patients with platinum-resistant recurrent epithelial ovarian, fallopian tube, or primary peritoneal cancer who received no more than 2 prior chemotherapy regimens.
+
+ZIRABEV, in combination with carboplatin and paclitaxel, or with carboplatin and gemcitabine, followed by ZIRABEV as a single agent, is indicated for the treatment of patients with platinum-sensitive recurrent epithelial ovarian, fallopian tube, or primary peritoneal cancer.

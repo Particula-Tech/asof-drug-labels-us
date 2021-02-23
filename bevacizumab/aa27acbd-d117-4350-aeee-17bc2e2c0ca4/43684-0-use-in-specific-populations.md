@@ -67,5 +67,5 @@ The incidence and severity of physeal dysplasia were dose-related and were parti
 
 ## 8.5 Geriatric Use
 
-In an exploratory, pooled analysis of 1745 patients from five randomized, controlled studies, 35% of patients were ≥ 65 years old.
-The overall incidence of ATE was increased in all patients receiving bevacizumab with chemotherapy as compared to those receiving chemotherapy alone, regardless of age; however, the increase in the incidence of ATE was greater in patients ≥ 65 years (8% vs. 3%) as compared to patients < 65 years (2% vs. 1%) [see Warnings and Precautions (5.4)].
+In an exploratory, pooled analysis of 1745 patients from five randomized, controlled studies, 35% of patients were ≥65 years old.
+The overall incidence of ATE was increased in all patients receiving bevacizumab with chemotherapy as compared to those receiving chemotherapy alone, regardless of age; however, the increase in the incidence of ATE was greater in patients ≥65 years (8% vs. 3%) as compared to patients <65 years (2% vs. 1%) [see Warnings and Precautions (5.4)].

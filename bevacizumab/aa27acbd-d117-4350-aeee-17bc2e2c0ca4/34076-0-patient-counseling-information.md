@@ -8,7 +8,7 @@ Advise patients to immediately contact their health care provider for high fever
 Surgery and Wound Healing Complications
 
 Bevacizumab products can increase the risk of wound healing complications.
-Advise patients that ZIRABEV should not be used for at least 28 days before or after surgery and until surgical wounds are fully healed [see Warnings and Precautions (5.2)].
+Instruct patients not to undergo surgery without first discussing this potential risk with their health care provider [see Warnings and Precautions (5.2)].
 
 Hemorrhage
 
@@ -23,7 +23,7 @@ Advise patients to immediately contact their health care provider for signs and 
 Hypertension
 
 Bevacizumab products can increase blood pressure.
-Advise patients that they will undergo routine blood pressure monitoring and to contact their healthcare provider if they experience changes in blood pressure [see Warnings and Precautions (5.6)].
+Advise patients that they will undergo routine blood pressure monitoring and to contact their health care provider if they experience changes in blood pressure [see Warnings and Precautions (5.6)].
 
 Posterior Reversible Leukoencephalopathy Syndrome
 
@@ -38,16 +38,16 @@ Advise patients that treatment with ZIRABEV requires regular monitoring of renal
 Infusion-Related Reactions
 
 Bevacizumab products can cause infusion-related reactions.
-Advise patients to contact their healthcare provider immediately for signs or symptoms of infusion-related reactions [see Warnings and Precautions (5.9)].
+Advise patients to contact their health care provider immediately for signs or symptoms of infusion-related reactions [see Warnings and Precautions (5.9)].
 
 Congestive Heart Failure
 
 Bevacizumab products can increase the risk of developing congestive heart failure.
-Advise patients to contact their healthcare provider immediately for signs and symptoms of CHF [see Warnings and Precautions (5.12)].
+Advise patients to contact their health care provider immediately for signs and symptoms of CHF [see Warnings and Precautions (5.12)].
 
 Embryo-Fetal Toxicity
 
-Advise female patients that bevacizumab products may cause fetal harm and to inform their healthcare provider with a known or suspected pregnancy [see Warnings and Precautions (5.10), Use in Specific Populations (8.1)].
+Advise female patients that bevacizumab products may cause fetal harm and to inform their health care provider with a known or suspected pregnancy [see Warnings and Precautions (5.10), Use in Specific Populations (8.1)].
 Advise females of reproductive potential to use effective contraception during treatment with ZIRABEV and for 6 months after the last dose of ZIRABEV [see Use in Specific Populations (8.3)].
 
 Ovarian Failure
