@@ -42,7 +42,7 @@ Epinephrine is the first line-medication of choice for treatment of anaphylaxis;
 
 ## 8.4 Pediatric Use
 
-Epinephrine injection, USP auto-injector may be administered to pediatric patients at a dosage appropriate to body weight [see Dosage and Administration (2)].
+Epinephrine injection, USP auto-injector may be administered to pediatric patients at a dosage appropriate to body weight [see Dosage and Administration (2.1)].
 Clinical experience with the use of epinephrine suggests that the adverse reactions seen in children are similar in nature and extent to those both expected and reported in adults.
 Since the doses of epinephrine delivered from epinephrine injection, USP auto-injectors are fixed, consider using other forms of injectable epinephrine if doses lower than 0.15 mg are deemed necessary.
 

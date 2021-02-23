@@ -1,13 +1,13 @@
 # 17 PATIENT COUNSELING INFORMATION
 
-[See FDA-Approved Patient Labeling (Patient Information and Instructions for Use).]
+See FDA-Approved Patient Labeling (Patient Information and Instructions for Use).
 
 A healthcare provider should review the patient instructions and operation of epinephrine injection, USP auto-injector in detail, with the patient or caregiver.
 
 Epinephrine is essential for the treatment of anaphylaxis.
 Patients who are at risk of or with a history of severe allergic reactions (anaphylaxis) to insect stings or bites, foods, drugs, and other allergens, as well as idiopathic and exercise-induced anaphylaxis, should be carefully instructed about the circumstances under which epinephrine should be used.
 
-Administration and Training
+Administration
 
 Instruct patients and/or caregivers in the appropriate use of epinephrine injection, USP auto-injector.
 Epinephrine injection, USP auto-injector should be injected into the middle of the outer thigh (through clothing, if necessary).
@@ -22,6 +22,8 @@ This small part may pose a choking hazard for children.
 
 Complete patient information, including dosage, directions for proper administration and precautions can be found inside each epinephrine injection, USP auto-injector carton.
 A printed label on the surface of epinephrine injection, USP auto-injector shows instructions for use and a diagram depicting the injection process.
+
+Training
 
 Instruct patients and/or caregivers to use and practice with the Trainer to familiarize themselves with the use of epinephrine injection, USP auto-injector in an allergic emergency.
 The Trainer may be used multiple times.
@@ -54,7 +56,9 @@ Instruct patients to inspect the epinephrine solution visually through the clear
 Replace epinephrine injection, USP auto-injector if the epinephrine solution appears discolored (pinkish or brown color), cloudy, or contains particles.
 Epinephrine is light sensitive and should be stored in the carrier tube provided to protect it from light.
 The carrier tube is not waterproof.
-Instruct patients that epinephrine injection, USP auto-injector must be used or properly disposed once the blue safety release is removed or after use [see Storage and Handling (16.2)].
+Instruct patients that epinephrine injection, USP auto-injector must be used or properly disposed once the blue safety release is removed or after use [see Storage and Handling (16)].
+
+Advise patients and caregivers to give used epinephrine injection, USP auto-injectors to their healthcare provider for inspection and proper disposal.
 
 Advise patients and caregivers to promptly dispose of medicines that are no longer needed.
 Dispose of expired, unwanted, or unused epinephrine injection, USP auto-injectors in an FDA-cleared sharps container.
@@ -69,4 +73,4 @@ Manufactured for Mylan Specialty L.P., Morgantown, WV 26505, U.S.A. by Meridian 
 Copyright © 2020 Meridian Medical Technologies.
 All rights reserved.
 
-Revised: 6/2020 MS:EPIG:R5 0002104
+Revised: 12/2020 MS:EPIG:R6 0002141
