@@ -27,7 +27,7 @@ In placebo-controlled clinical trials of acute mania, patients were dosed to cli
 
 Absorption/Bioavailability
 
-Equivalent oral doses of Depakote (divalproex sodium) products and Depakene (valproic acid) capsules deliver equivalent quantities of valproate ion systemically.
+Equivalent oral doses of Depakote (divalproex sodium) products and valproic acid capsules deliver equivalent quantities of valproate ion systemically.
 Although the rate of valproate ion absorption may vary with the formulation administered (liquid, solid, or sprinkle), conditions of use (e.g., fasting or postprandial) and the method of administration (e.g., whether the contents of the capsule are sprinkled on food or the capsule is taken intact), these differences should be of minor clinical importance under the steady state conditions achieved in chronic use in the treatment of epilepsy.
 
 However, it is possible that differences among the various valproate products in Tmax and Cmax could be important upon initiation of treatment.
@@ -37,7 +37,7 @@ While the absorption rate from the G.I. tract and fluctuation in valproate plasm
 Experience employing dosing regimens from once-a-day to four-times-a-day, as well as studies in primate epilepsy models involving constant rate infusion, indicate that total daily systemic bioavailability (extent of absorption) is the primary determinant of seizure control and that differences in the ratios of plasma peak to trough concentrations between valproate formulations are inconsequential from a practical clinical standpoint.
 Whether or not rate of absorption influences the efficacy of valproate as an antimanic or antimigraine agent is unknown.
 
-Co-administration of oral valproate products with food and substitution among the various Depakote and Depakene formulations should cause no clinical problems in the management of patients with epilepsy [see Dosage and Administration (2.2)].
+Co-administration of oral valproate products with food and substitution among the various Depakote and valproic acid formulations should cause no clinical problems in the management of patients with epilepsy [see Dosage and Administration (2.2)].
 Nonetheless, any changes in dosage administration, or the addition or discontinuance of concomitant drugs should ordinarily be accompanied by close monitoring of clinical status and valproate plasma concentrations.
 
 Distribution
