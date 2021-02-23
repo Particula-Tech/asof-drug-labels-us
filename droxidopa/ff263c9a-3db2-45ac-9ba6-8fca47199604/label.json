@@ -1,0 +1,21 @@
+{
+  "application_numbers": [
+    "ANDA214387"
+  ],
+  "inn": "droxidopa",
+  "labeler": "Aurobindo Pharma Limited",
+  "package_ndcs": [
+    "59651-375-90",
+    "59651-376-90",
+    "59651-377-90"
+  ],
+  "products": [
+    {
+      "form": "CAPSULE",
+      "generic": "droxidopa",
+      "name": "Droxidopa"
+    }
+  ],
+  "setid": "ff263c9a-3db2-45ac-9ba6-8fca47199604",
+  "source": "dailymed"
+}
