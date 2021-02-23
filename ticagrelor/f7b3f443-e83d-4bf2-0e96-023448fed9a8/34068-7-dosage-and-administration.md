@@ -24,6 +24,8 @@ Use BRILINTA with a loading dose of aspirin (300 to 325 mg) and a daily maintena
 
 ## 2.4 Administration
 
+A patient who misses a dose of BRILINTA should take one tablet (their next dose) at its scheduled time.
+
 For patients who are unable to swallow tablets whole, BRILINTA tablets can be crushed, mixed with water and drunk.
 The mixture can also be administered via a nasogastric tube (CH8 or greater) [see Clinical Pharmacology (12.3)].
 
