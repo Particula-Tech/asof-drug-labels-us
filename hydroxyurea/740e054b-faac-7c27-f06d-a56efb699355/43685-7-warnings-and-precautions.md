@@ -17,6 +17,12 @@ Recovery from myelosuppression is usually rapid when therapy is interrupted.
 
 Hydroxyurea is a human carcinogen.
 In patients receiving long-term hydroxyurea for myeloproliferative disorders, secondary leukemia has been reported.
+
+Secondary leukemia has also been reported in patients treated with long-term hydroxyurea for sickle cell disease.
+Leukemia has also been reported in patients with sickle cell disease and no prior history of treatment with hydroxyurea.
+
+All patients using hydroxyurea should be followed up on a long-term basis with regular blood counts to detect development of leukemia.
+
 Skin cancer has also been reported in patients receiving long-term hydroxyurea.
 Advise protection from sun exposure and monitor for the development of secondary malignancies.
 
