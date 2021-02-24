@@ -2,7 +2,7 @@
 
 How Supplied
 
-AMZEEQTM (minocycline) topical foam, 4% is a yellow suspension supplied in a pressurized aluminum aerosol container (can).
+AMZEEQ® (minocycline) topical foam, 4% is a yellow suspension supplied in a pressurized aluminum aerosol container (can).
 Each gram of AMZEEQ contains 40 mg of minocycline equivalent to 43 mg of minocycline hydrochloride, and is supplied as follows:
 
 NDC 72356-101-03 30 g Can

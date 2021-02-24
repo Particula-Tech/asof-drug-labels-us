@@ -31,3 +31,13 @@ Table 2: Clinical Pharmacokinetics of Minocycline when treated with AMZEEQ (~4 g
 | 12 - 14 | 2.8 ± 2.2 | 54.0 ± 46.2 |
 | 15 - <17 | 2.0 ± 1.2 | 40.8 ± 23.8 |
 | 10 - <17 | 3.1 ± 2.7 | 61.1 ± 59.2 |
+
+## 12.4 Microbiology
+
+Resistance
+
+Propionibacterium acnes strains displayed a low propensity for the development of resistance to minocycline, with spontaneous mutation frequencies being <10−8 at 2 to 16 × MIC.
+
+Antimicrobial Activity
+
+Minocycline is active in vitro against most isolates of Propionibacterium acnes; however, the clinical significance is unknown.

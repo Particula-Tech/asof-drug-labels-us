@@ -31,9 +31,9 @@ The safety and effectiveness of AMZEEQ have not been established in patients les
 Results of animal studies indicate that oral tetracyclines cross the placenta, are found in fetal tissues, and can cause retardation of skeletal development on the developing fetus.
 Evidence of embryotoxicity has been noted in animals treated orally early in pregnancy [see Use in Specific Populations (8.1)].
 
-## 5.5 Clostridium difficile Associated Diarrhea
+## 5.5 Clostridioides difficile Associated Diarrhea
 
-Clostridium difficile associated diarrhea (CDAD) has been reported with nearly all antibacterial agents, including oral minocycline, and may range in severity from mild diarrhea to fatal colitis.
+Clostridioides difficile associated diarrhea (CDAD) has been reported with nearly all antibacterial agents, including oral minocycline, and may range in severity from mild diarrhea to fatal colitis.
 Treatment with antibacterial agents alters the normal flora of the colon leading to overgrowth of C. difficile.
 
 C. difficile produces toxins A and B which contribute to the development of CDAD.

@@ -21,9 +21,9 @@ Tissue Hyperpigmentation
 
 Inform patients that AMZEEQ may cause discoloration of skin, scars, teeth or gums based on observations with oral minocycline.
 
-Clostridium difficile Associated Diarrhea
+Clostridioides difficile Associated Diarrhea
 
-Advise patients that Clostridium difficile associated diarrhea can occur with oral minocycline therapy.
+Advise patients that Clostridioides difficile associated diarrhea can occur with oral minocycline therapy.
 Advise patients to seek medical attention if they develop watery or bloody stools while using AMZEEQ.
 
 Hepatotoxicity
@@ -60,9 +60,9 @@ AMZEEQ should be applied exactly as directed.
 
 AMZEEQ may stain fabric.
 
-Manufactured by: ASM Aerosol-Service AG, Mohlin, Switzerland Manufactured for: Foamix Pharmaceuticals Inc., Bridgewater, NJ 08807 Product of Portugal or Switzerland
+Manufactured by: ASM Aerosol-Service AG, Mohlin, Switzerland Manufactured for: VYNE Pharmaceuticals Inc., Bridgewater, NJ 08807 Product of Portugal or Switzerland
 
-101G0001
+101G0004
 
-AMZEEQ is a trademark of Foamix Pharmaceuticals Ltd. All other trademarks are the properties of their respective owners.
-Copyright © 2018, Foamix Pharmaceuticals Ltd. All rights reserved.
+AMZEEQ is a registered trademark of an affiliate of VYNE Therapeutics Inc. All other trademarks are the properties of their respective owners.
+Copyright © 2020, VYNE Therapeutics Inc. All rights reserved.
