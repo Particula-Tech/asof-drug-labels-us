@@ -26,7 +26,7 @@ The recommended starting pediatric dosage, titration regimen, and maximum total 
 The dosage may be gradually titrated based on efficacy and tolerability.
 Doses higher than 9 g per night have not been studied and ordinarily should not be administered.
 
-Table 2: Recommended Initial XYWAV Dosage for Patients 7 Years of Age and Older*
+Table 2: Recommended XYWAV Dosage for Patients 7 Years of Age and Older*
 
 | Patient Weight | Initial Dosage |  | Maximum Weekly Dosage Increase |  | Maximum Recommended Dosage |  |
 | --- | --- | --- | --- | --- | --- | --- |

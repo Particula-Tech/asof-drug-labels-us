@@ -34,7 +34,7 @@ Vital signs and consciousness should be closely monitored.
 The bradycardia reported with GHB overdose has been responsive to atropine intravenous administration.
 No reversal of the central depressant effects of XYWAV can be expected from naloxone or flumazenil administration.
 The use of hemodialysis and other forms of extracorporeal drug removal have not been studied in GHB overdose.
-However, due to the rapid metabolism of sodium oxybate, these measures are not warranted.
+However, due to the rapid metabolism of oxybate, these measures are not warranted.
 
 ## 10.4 Poison Control Center
 
