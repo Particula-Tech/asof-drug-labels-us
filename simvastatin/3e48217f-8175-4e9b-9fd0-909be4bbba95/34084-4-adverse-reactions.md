@@ -2,7 +2,7 @@
 
 ## 6.1 Clinical Trials Experience
 
-Because clinical studies are conducted under widely varying conditions, adverse reaction rates observed in the clinical studies of a drug cannot be directly compared to rates in the clinical studies of another drug and may not reflect the rates observed in practice.
+Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in practice.
 
 In the pre-marketing controlled clinical studies and their open extensions (2,423 patients with median duration of follow-up of approximately 18 months), 1.4% of patients were discontinued due to adverse reactions.
 The most common adverse reactions that led to treatment discontinuation were: gastrointestinal disorders (0.5%), myalgia (0.1%), and arthralgia (0.1%).
@@ -59,7 +59,7 @@ Other adverse reactions reported in clinical trials were: diarrhea, rash, dyspep
 
 Laboratory Tests
 
-Marked persistent increases of hepatic transaminases have been noted [see WARNINGS AND PRECAUTIONS (5.2)].
+Marked persistent increases of hepatic transaminases have been noted [see WARNINGS AND PRECAUTIONS (5.3)].
 Elevated alkaline phosphatase and γ-glutamyl transpeptidase have also been reported.
 About 5% of patients had elevations of CK levels of 3 or more times the normal value on one or more occasions.
 This was attributable to the noncardiac fraction of CK [see WARNINGS AND PRECAUTIONS (5.1)].
