@@ -52,4 +52,4 @@
     Quantitative estimation of absorption and degradation of a carnitine supplement by human adults.
     Metabolism 40:1305-1310.
 
-PREVIOUS EDITION IS OBSOLETE Date of Issue: Feb 2020 LBI code: OPI-12 0518
+PREVIOUS EDITION IS OBSOLETE Date of Issue: 06/20 OPI-13
