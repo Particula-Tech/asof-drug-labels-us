@@ -27,18 +27,18 @@ The concomitant use of ertapenem and valproic acid/divalproex sodium is generall
 Anti-bacterials other than carbapenems should be considered to treat infections in patients whose seizures are well controlled on valproic acid or divalproex sodium.
 If administration of Ertapenem for injection is necessary, supplemental anti­convulsant therapy should be considered [see Drug Interactions (7.2)].
 
-## 5.4 Clostridium difficile-Associated Diarrhea (CDAD)
+## 5.4 Clostridioides difficile-Associated Diarrhea (CDAD)
 
 CDAD has been reported with use of nearly all antibacterial agents, including ertapenem, and may range in severity from mild diarrhea to fatal colitis.
-Treatment with antibacterial agents alters the normal flora of the colon leading to overgrowth of Clostridium difficile.
+Treatment with antibacterial agents alters the normal flora of the colon leading to overgrowth of Clostridioides difficile.
 
-Clostridium difficile produces toxins A and B which contribute to the development of CDAD.
-Hypertoxin producing strains of Clostridium difficile cause increased morbidity and mortality, as these infections can be refractory to antimicrobial therapy and may require colectomy.
+Clostridioides difficile produces toxins A and B which contribute to the development of CDAD.
+Hypertoxin producing strains of Clostridioides difficile cause increased morbidity and mortality, as these infections can be refractory to antimicrobial therapy and may require colectomy.
 CDAD must be considered in all patients who present with diarrhea following antibiotic use.
 Careful medical history is necessary since CDAD has been reported to occur over two months after the administration of antibacterial agents.
 
-If CDAD is suspected or confirmed, ongoing antibiotic use not directed against Clostridium difficile may need to be discontinued.
-Appropriate fluid and electrolyte management, protein supplementation, antibiotic treatment of Clostridium difficile, and surgical evaluation should be instituted as clinically indicated.
+If CDAD is suspected or confirmed, ongoing antibiotic use not directed against Clostridioides difficile may need to be discontinued.
+Appropriate fluid and electrolyte management, protein supplementation, antibiotic treatment of Clostridioides difficile, and surgical evaluation should be instituted as clinically indicated.
 
 ## 5.5 Caution with Intramuscular Administration
 
