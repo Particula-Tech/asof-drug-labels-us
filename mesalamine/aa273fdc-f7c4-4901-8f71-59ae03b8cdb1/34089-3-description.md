@@ -4,7 +4,6 @@ The active ingredient in sfROWASA® (mesalamine) Rectal Suspension, a disposable
 Chemically, mesalamine is 5-amino-2-hydroxybenzoic acid.
 
 The empirical formula is C7H7NO3, representing a molecular weight of 153.14.
-
 The structural formula is:
 
 Each rectal suspension unit contains 4 grams of mesalamine.

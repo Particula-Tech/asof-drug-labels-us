@@ -1,17 +1,15 @@
-To Report SUSPECTED ADVERSE REACTIONS, contact Meda Pharmaceuticals Inc. at 1-866-210-5950 or FDA at 1-800-FDA-1088 or www.fda.gov/medwatch.
-
-ADVERSE REACTIONS
+# ADVERSE REACTIONS
 
 ## Clinical Adverse Experience
 
 **sfROWASA® (mesalamine) Rectal Suspension is usually well tolerated.
 Most adverse effects have been mild and transient.
 
-ADVERSE REACTIONS OCCURRING IN MORE THAN 0.1% OF **sfROWASA® (MESALAMINE) RECTAL SUSPENSION ENEMA TREATED PATIENTS (COMPARISON TO PLACEBO)
+ADVERSE REACTIONS OCCURRING IN MORE THAN 0.1% OF **sfROWASA® (MESALAMINE) RECTAL SUSPENSION TREATED PATIENTS (COMPARISON TO PLACEBO)
 
-|  | **sfROWASA® N = 815 |  | PLACEBO N = 128 |  |
+| SYMPTOM | **sfROWASA® N = 815 |  | PLACEBO N = 128 |  |
 | --- | --- | --- | --- | --- |
-| SYMPTOM | N | % | N | % |
+|  | N | % | N | % |
 | Abdominal Pain/Cramps/Discomfort | 66 | 8.10 | 10 | 7.81 |
 | Headache | 53 | 6.50 | 16 | 12.50 |
 | Gas/Flatulence | 50 | 6.13 | 5 | 3.91 |
@@ -38,13 +36,13 @@ ADVERSE REACTIONS OCCURRING IN MORE THAN 0.1% OF **sfROWASA® (MESALAMINE) RECTA
 | Asthenia | 1 | 0.12 | 4 | 3.12 |
 | Insomnia | 1 | 0.12 | 3 | 2.34 |
 
-In addition, the following adverse events have been identified during post-approval use of products which contain (or are metabolized to) mesalamine in clinical practice; nephrotoxicity, pancreatitis, fibrosing alveolitis, elevated liver enzymes, nephrogenic diabetes insipidus and intracranial hypertension.
+In addition, the following adverse events have been identified during post-approval use of products which contain (or are metabolized to) mesalamine in clinical practice: nephrotoxicity, pancreatitis, fibrosing alveolitis, elevated liver enzymes, nephrogenic diabetes insipidus, intracranial hypertension and nephrolithiasis.
 Cases of pancreatitis and fibrosing alveolitis have been reported as manifestations of inflammatory bowel disease as well.
 Published case reports and/or spontaneous post marketing surveillance have described rare instances of aplastic anemia, agranulocytosis, thrombocytopenia, eosinophilia, pancytopenia, neutropenia, oligospermia, and infertility in men.
 Anemia, leukocytosis, and thrombocytosis can be part of the clinical presentation of inflammatory bowel disease.
 
 ## Hair Loss
 
-Mild hair loss characterized by "more hair in the comb" but no withdrawal from clinical trials has been observed in 7 of 815 mesalamine patients but none of the placebo-treated patients.
-In the literature there are at least six additional patients with mild hair loss who received either mesalamine of sulfasalazine.
+Mild hair loss characterized by “more hair in the comb” but no withdrawal from clinical trials has been observed in 7 of 815 mesalamine patients but none of the placebo-treated patients.
+In the literature there are at least six additional patients with mild hair loss who received either mesalamine or sulfasalazine.
 Retreatment is not always associated with repeated hair loss.

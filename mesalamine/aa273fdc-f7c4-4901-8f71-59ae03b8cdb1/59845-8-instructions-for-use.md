@@ -16,7 +16,8 @@ Remove the Bottles
 
 a. Remove the bottles from the protective foil pouch by tearing or by using scissors as shown, being careful not to squeeze or puncture bottles. sfROWASA® (mesalamine) Rectal Suspension is an off-white to tan colored suspension.
 Once the foil-wrapped unit of seven bottles is opened, any bottles remaining after 14 days should be discarded.
-Contents of product removed from the foil pouch may darken with time.
+
+Contents of products removed from the foil pouch may darken with time.
 Slight darkening will not affect potency, however, product with dark brown contents should be discarded.
 
 2.
@@ -32,7 +33,7 @@ Assume the Correct Body Position
 
 a. Best results are obtained by lying on the left side with the left leg extended and the right leg flexed forward for balance.
 
-b. An alternative to lying on the left side is the "knee-chest" position as shown here.
+b. An alternative to lying on the left side is the “knee-chest” position as shown here.
 
 4.
 Administer the Medication
@@ -54,15 +55,15 @@ MEDA PHARMACEUTICALS®
 
 Somerset, New Jersey 08873-4120
 
-©2017 Meda Pharmaceuticals Inc.
+©2020 Meda Pharmaceuticals Inc.
 
 U.S. Patent No. 7,645,801
 
-MEDA PHARMACEUTICALS and sfROWASA are registered trademarks of Meda AB or a related entity.
+MEDA PHARMACEUTICALS and SFROWASA are registered trademarks of Meda AB, or a related entity.
 
 www.sfROWASA.com
 
-IN-003260-02 Rev.
-6/2017
+IN-003260-03 Rev.
+10/2020
 
-For Medical Inquiries, Call Toll-Free: 1-866-210-5950
+For Medical Inquiries, Call Toll Free: 1-866-210-5950

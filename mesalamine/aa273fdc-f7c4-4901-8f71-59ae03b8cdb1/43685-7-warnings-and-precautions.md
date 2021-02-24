@@ -1,31 +1,39 @@
 # PRECAUTIONS
 
-Mesalamine has been implicated in the production of an acute intolerance syndrome characterized by cramping, acute abdominal pain and bloody diarrhea, sometimes fever, headache and a rash; in such cases prompt withdrawal is required.
-The patient's history of sulfasalazine intolerance, if any, should be re-evaluated.
-If a rechallenge is performed later in order to validate the hypersensitivity it should be carried out under close supervision and only if clearly needed, giving consideration to reduced dosage.
-In the literature one patient previously sensitive to sulfasalazine was rechallenged with 400 mg oral mesalamine; within eight hours she experienced headache, fever, intensive abdominal colic, profuse diarrhea and was readmitted as an emergency.
-She responded poorly to steroid therapy and two weeks later a pancolectomy was required.
+## Hepatic Failure
 
-Although renal abnormalities were not noted in the clinical trials with **sfROWASA® (mesalamine) Rectal Suspension, the possibility of increased absorption of mesalamine and concomitant renal tubular damage as noted in the preclinical studies must be kept in mind.
-Patients on sfROWASA® (mesalamine) Rectal Suspension, especially those on concurrent oral products which liberate mesalamine and those with preexisting renal disease, should be carefully monitored with urinalysis, BUN (blood urea nitrogen), and creatinine studies.
+There have been reports of hepatic failure in patients with pre-existing liver disease who have been administered other products containing mesalamine.
+Evaluate the risks and benefits of using sfROWASA® (mesalamine) rectal suspension in patients with known liver impairment.
 
-In a clinical trial most patients who were hypersensitive to sulfasalazine were able to take mesalamine without evidence of any allergic reaction.
-Nevertheless, caution should be exercised when mesalamine is initially used in patients known to be allergic to sulfasalazine.
-These patients should be instructed to discontinue therapy if signs of rash or fever become apparent.
+### Photosensitivity
 
-While using **sfROWASA® (mesalamine) Rectal Suspension, some patients have developed pancolitis.
-However, extension of upper disease boundary and/or flare-ups occurred less often in the **sfROWASA® (mesalamine) Rectal Suspension treated group than in the placebo-treated group.
+Patients with pre-existing skin conditions such as atopic dermatitis and atopic eczema have reported more severe photosensitivity reactions.
+Advise patients to avoid sun exposure, wear protective clothing, and use a broad-spectrum sunscreen when outdoors.
 
-Worsening of colitis or symptoms of inflammatory bowel disease, including melena and hematochezia, may occur after commencing mesalamine.
+### Nephrolithiasis
 
-Rare instances of pericarditis have been reported with mesalamine containing products including sulfasalazine.
-Cases of pericarditis have also been reported as manifestations of inflammatory bowel disease.
-In the cases reported with **sfROWASA® (mesalamine) Rectal Suspension, there have been positive rechallenges with mesalamine or mesalamine containing products.
-In one of these cases, however, a second rechallenge with sulfasalazine was negative throughout a 2-month follow-up.
-Chest pain or dyspnea in patients treated with **sfROWASA® (mesalamine) Rectal Suspension should be investigated with this information in mind.
-Discontinuation of sfROWASA® (mesalamine) Rectal Suspension may be warranted in some cases, but rechallenge with mesalamine can be performed under careful clinical observation should the continued therapeutic need for mesalamine be present.
+Cases of nephrolithiasis have been reported with the use of mesalamine, including stones with 100% mesalamine content.
+Mesalamine-containing stones are radiotransparent and undetectable by standard radiography or computed tomography (CT).
+Ensure adequate hydration during treatment.
 
-## Carcinogenesis, Mutagenesis, Impairment Of Fertility
+### Interference with Laboratory Tests
+
+Use of mesalamine may lead to spuriously elevated test results when measuring urinary normetanephrine by liquid chromatography with electrochemical detection because of the similarity in the chromatograms of normetanephrine and mesalamine’s main metabolite, N-acetyl-5-aminosalicylic acid (N-Ac-5-ASA).
+Consider an alternative, selective assay for normetanephrine.
+
+### Drug Interactions
+
+Nephrotoxic Agents, Including Non-Steroidal Anti-Inflammatory Drugs
+
+The concurrent use of mesalamine with known nephrotoxic agents, including non-steroidal anti-inflammatory drugs (NSAIDs), may increase the risk of nephrotoxicity.
+Monitor patients taking nephrotoxic drugs for changes in renal function and mesalamine-related adverse reactions.
+
+Azathioprine or 6-Mercaptopurine
+
+The concurrent use of mesalamine with azathioprine or 6-mercaptopurine and/or any other drugs known to cause myelotoxicity may increase the risk for blood disorders, bone marrow failure, and associated complications.
+If concomitant use of sfROWASA® (mesalamine) rectal suspension and azathioprine or 6-mercaptopurine cannot be avoided, monitor blood tests, including complete blood cell counts and platelet counts.
+
+## Carcinogenesis, Mutagenesis, Impairment of Fertility
 
 Mesalamine caused no increase in the incidence of neoplastic lesions over controls in a 2-year study of Wistar rats fed up to 320 mg/kg/day of mesalamine admixed with diet.
 Mesalamine is not mutagenic to Salmonella typhimurium tester strains TA98, TA100, TA1535, TA1537, TA1538.
@@ -48,3 +56,5 @@ As a general rule, nursing should not be undertaken while a patient is on a drug
 ## Pediatric Use
 
 Safety and effectiveness in pediatric patients have not been established.
+
+To report SUSPECTED ADVERSE REACTIONS, contact Meda Pharmaceuticals Inc. at 1-866-210-5949 or FDA at 1-800-FDA-1088 or www.fda.gov/medwatch.
