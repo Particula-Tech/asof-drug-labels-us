@@ -1,0 +1,27 @@
+{
+  "application_numbers": [
+    "ANDA213999"
+  ],
+  "inn": "amitriptyline",
+  "labeler": "Lifestar Pharma LLC",
+  "package_ndcs": [
+    "70756-201-11",
+    "70756-201-12",
+    "70756-202-11",
+    "70756-202-12",
+    "70756-203-11",
+    "70756-203-12",
+    "70756-204-11",
+    "70756-205-11",
+    "70756-206-11"
+  ],
+  "products": [
+    {
+      "form": "TABLET, FILM COATED",
+      "generic": "amitriptyline hydrochloride",
+      "name": "Amitriptyline Hydrochloride"
+    }
+  ],
+  "setid": "67e31675-1da2-4acf-84ac-77522b02f0b9",
+  "source": "dailymed"
+}
