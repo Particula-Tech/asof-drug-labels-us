@@ -13,7 +13,7 @@ The longer-term efficacy of XANAX XR in panic disorder has not been systematical
 
 Analyses of the relationship between treatment outcome and gender did not suggest any differential responsiveness on the basis of gender.
 
-This product's label may have been updated.
-For current full prescribing information, please visit www.pfizer.com.
+This product's labeling may have been updated.
+For the most recent prescribing information, please visit www.pfizer.com.
 
-LAB-0006-8.0 December 2016
+LAB-0006-9.0 Revised February 2021
