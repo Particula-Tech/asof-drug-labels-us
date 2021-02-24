@@ -59,9 +59,9 @@ Other Information
 ZILXI should be applied exactly as directed.
 ZILXI may stain fabric.
 
-Manufactured by: ASM Aerosol-Service AG, Mohlin, Switzerland Manufactured for: Foamix Pharmaceuticals Inc., Bridgewater, NJ 08807 Product of Portugal or Switzerland
+Manufactured by: ASM Aerosol-Service AG, Mohlin, Switzerland Manufactured for: VYNE Pharmaceuticals Inc., Bridgewater, NJ 08807 Product of Portugal or Switzerland
 
-103G0001
+103G0002
 
-ZILXI is a trademark of Foamix Pharmaceuticals Inc. All other trademarks are the properties of their respective owners.
-Copyright © 2020, Foamix Pharmaceuticals Ltd. All rights reserved.
+ZILXI is a registered trademark of an affiliate of VYNE Therapeutics Inc. All other trademarks are the properties of their respective owners.
+Copyright © 2020, VYNE Therapeutics Inc. All rights reserved.

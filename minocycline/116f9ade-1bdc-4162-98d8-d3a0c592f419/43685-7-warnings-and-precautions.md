@@ -10,7 +10,7 @@ Do not expose containers to heat and/or store at temperatures above 120°F (49°
 ## 5.2 Teratogenic Effects
 
 Minocycline, like other tetracycline-class drugs, may inhibit bone growth when administered orally during pregnancy.
-Based on animal data, when administered orally, tetracyclines cross the placenta, are found in fetal tissues, and can cause skeletal malformation and retardation of skeletal development on the developing fetus [see Use in Specific Populations (8.1) and Nonclinical Toxicology (13)].
+Based on animal data, when administered orally, tetracyclines cross the placenta, are found in fetal tissues, and can cause skeletal malformation and retardation of skeletal development on the developing fetus [see Use in Specific Populations (8.1) and Nonclinical Toxicology (13.1)].
 
 ## 5.3 Tooth Discoloration
 

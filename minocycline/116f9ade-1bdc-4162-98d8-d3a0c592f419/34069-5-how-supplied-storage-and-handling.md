@@ -2,7 +2,7 @@
 
 How Supplied
 
-ZILXITM (minocycline) topical foam, 1.5% is a yellow suspension supplied in a pressurized aluminum aerosol container (can).
+ZILXI® (minocycline) topical foam, 1.5% is a yellow suspension supplied in a pressurized aluminum aerosol container (can).
 Each gram of ZILXI contains 15 mg of minocycline equivalent to 16 mg of minocycline hydrochloride, and is supplied as follows:
 
 NDC 72356-103-03 30 g Can

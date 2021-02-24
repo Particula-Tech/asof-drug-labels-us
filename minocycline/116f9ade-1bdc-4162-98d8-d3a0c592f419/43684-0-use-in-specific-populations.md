@@ -8,7 +8,7 @@ Available data with ZILXI use in pregnant women are insufficient to evaluate for
 Systemic absorption of ZILXI in humans is low following once daily topical administration of ZILXI under maximal clinical use conditions [see Clinical Pharmacology (12.3)].
 Because of low systemic exposure, it is not expected that maternal use of ZILXI will result in significant fetal exposure to the drug.
 
-Tetracycline-class drugs may cause permanent discoloration of teeth and reversible inhibition of bone growth when administered orally during pregnancy [see Warnings and Precautions (5.2, 5.3, 5.4)].
+Tetracycline-class drugs may cause permanent discoloration of teeth and reversible inhibition of bone growth when administered orally during pregnancy [see Warnings and Precautions 5.2, 5.3, 5.4).
 
 Animal reproduction studies were not conducted with ZILXI.
 In animal reproduction studies, oral administration of minocycline to pregnant rats and rabbits during organogenesis induced skeletal malformations in fetuses at systemic exposures of 2,000 and 1,300 times, respectively, the maximum recommended human dose (MRHD based on AUC comparison) of ZILXI (see Data).

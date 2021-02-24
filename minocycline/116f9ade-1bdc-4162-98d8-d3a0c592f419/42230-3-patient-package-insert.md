@@ -1,4 +1,4 @@
-| PATIENT INFORMATIONZILXITM (ZILK-see)(minocycline)topical foam |  |  |
+| PATIENT INFORMATIONZILXI® (ZILK-see)(minocycline)topical foam |  |  |
 | --- | --- | --- |
 | Important Information: ZILXI is for use on the skin only (topical use). ZILXI is not for use in your mouth, eyes, or vagina. |  |  |
 | What is ZILXI?ZILXI is a prescription medicine used on the skin (topical) to treat adults with pimples and bumps caused by a condition called rosacea.ZILXI should not be used for the treatment of infections.It is not known if ZILXI is safe and effective in children. |  |  |
@@ -11,13 +11,13 @@
 | •Central nervous system effects. See “What should I avoid while using ZILXI?” •Increased pressure in the brain (intracranial hypertension). This condition may lead to vision changes and permanent vision loss. You are more likely to get intracranial hypertension if you are a female of childbearing potential and are overweight or have a history of intracranial hypertension. Stop using ZILXI and tell your healthcare provider right away if you have blurred vision, double vision, vision loss, or unusual headaches. •Immune system reactions including a lupus-like syndrome, hepatitis, and inflammation of blood or lymph vessels (vasculitis) have happened during treatment with minocycline taken by mouth. Call your healthcare provider right away if you get a fever, rash, joint pain, or body weakness.•Sensitivity to sunlight (photosensitivity). See “What should I avoid while using ZILXI?”•Serious skin or allergic reactions have happened during treatment with minocycline taken by mouth that may affect parts of your body such as your liver, lungs, kidneys and heart. Sometimes these can lead to death. Stop using ZILXI and go to the nearest hospital emergency room right away if you have any of the following signs or symptoms: oskin rash, hives, sores in your mouth, or your skin blisters and peelsoswelling of your face, eyes, lips, tongue, or throatotrouble swallowing or breathingoblood in your urineofever, yellowing of the skin or the whites of your eyes (jaundice), dark colored urineopain on the right side of the stomach area (abdominal pain)ochest pain or abnormal heartbeatsoswelling in your legs, ankles, and feet •Discoloration (hyperpigmentation). Minocycline taken by mouth may cause darkening of your skin, scars, teeth, or gums. The most common side effect of ZILXI is diarrhea.Your healthcare provider may stop your treatment with ZILXI if you develop certain side effects.These are not all the possible side effects with ZILXI. Call your doctor for medical advice about side effects. You may report side effects to FDA at 1-800-FDA-1088. |  |  |
 | How should I store ZILXI? •Store ZILXI at room temperature below 77ºF (25ºC) for 90 days. •Do not store ZILXI in the refrigerator.•Do not puncture or burn the ZILXI can.•Do not expose to heat or temperatures above 120ºF (49ºC) Keep ZILXI and all medicines out of the reach of children. |  |  |
 | General information about the safe and effective use of ZILXI.Medicines are sometimes prescribed for purposes other than those listed in Patient Information leaflet. Do not use ZILXI for a condition for which it was not prescribed. Do not give ZILXI to other people, even if they have the same symptoms you have. It may harm them. You can also ask your healthcare provider or pharmacist for information about ZILXI that is written for health professionals. |  |  |
-| What are the ingredients in ZILXI?Active ingredient: minocycline Inactive ingredients: soybean oil, coconut oil, light mineral oil, cyclomethicone, cetostearyl alcohol, stearic acid, myristyl alcohol, hydrogenated castor oil, white wax (beeswax), stearyl alcohol, docosanol. ZILXI is dispensed from an aluminum container (can) pressurized with propellant (butane + isobutane + propane). Manufactured by: ASM Aerosol-Service AG, Mohlin, SwitzerlandManufactured for: Foamix Pharmaceuticals Inc., Bridgewater, NJ 08807Product of Portugal or Switzerland 103G1001 ZILXI is a trademark of Foamix Pharmaceuticals Inc.All other trademarks are the properties of their respective owners.Copyright © 2020, Foamix Pharmaceuticals Ltd. All rights reserved. For more information, go to www.ZILXI.com or call Foamix Pharmaceuticals Inc. at 1-844-375-3673. |  |  |
+| What are the ingredients in ZILXI?Active ingredient: minocycline Inactive ingredients: soybean oil, coconut oil, light mineral oil, cyclomethicone, cetostearyl alcohol, stearic acid, myristyl alcohol, hydrogenated castor oil, white wax (beeswax), stearyl alcohol, docosanol. ZILXI is dispensed from an aluminum container (can) pressurized with propellant (butane + isobutane + propane). Manufactured by: ASM Aerosol-Service AG, Mohlin, SwitzerlandManufactured for: VYNE Pharmaceuticals Inc., Bridgewater, NJ 08807Product of Portugal or Switzerland 103G1002 ZILXI is a registered trademark of an affiliate of VYNE Therapeutics Inc.All other trademarks are the properties of their respective owners.Copyright © 2020, VYNE Therapeutics Inc. All rights reserved.For more information, go to www.ZILXI.com or call VYNE Pharmaceuticals Inc. at 1-844-375-3673. |  |  |
 
-This Patient Information has been approved by the U.S. Food and Drug Administration Issued: 05/2020
+This Patient Information has been approved by the U.S. Food and Drug Administration Issued: 01/2021
 
-Instructions for Use ZILXITM (ZILK-see) (minocycline) topical foam
+Instructions for Use ZILXI® (ZILK-see) (minocycline) topical foam
 
-Important Information: ZILXI is for use on the skin only (topical use).
+Important Information: ZILXI is for use on skin only (topical use).
 ZILXI is not for use in your mouth, eyes or vagina.
 
 Read this Instructions for Use before you start using ZILXI and each time you get a refill.
@@ -38,11 +38,11 @@ Before applying ZILXI:
 | •Wash your hands after applying ZILXI. •ZILXI can stain fabric. |  |
 
 This Instructions for Use has been approved by the U.S. Food and Drug Administration.
-Issued: 05/2020
+Issued: 01/2021
 
-Manufactured by: ASM Aerosol-Service AG, Mohlin, Switzerland Manufactured for: Foamix Pharmaceuticals Inc., Bridgewater, NJ 08807 Product of Portugal or Switzerland
+Manufactured by: ASM Aerosol-Service AG, Mohlin, Switzerland Manufactured for: VYNE Pharmaceuticals Inc., Bridgewater, NJ 08807 Product of Portugal or Switzerland
 
-103G2001
+103G2002
 
-ZILXI is a trademark of Foamix Pharmaceuticals Inc. All other trademarks are the properties of their respective owners.
-Copyright © 2020, Foamix Pharmaceuticals Ltd. All rights reserved.
+ZILXI is a registered trademark of an affiliate of VYNE Therapeutics Inc. All other trademarks are the properties of their respective owners.
+Copyright © 2020, VYNE Therapeutics Inc. All rights reserved.
