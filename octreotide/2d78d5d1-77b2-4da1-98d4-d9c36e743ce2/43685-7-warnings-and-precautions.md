@@ -116,7 +116,7 @@ In cases with a known outcome, no congenital malformations were reported.
 ## Nursing Mothers
 
 It is not known whether octreotide is excreted into human milk.
-Because many drugs are excreted in human milk, caution should be exercised when octreotide acetate is administered to a nursing woman.
+Because many drugs are excreted in human milk, caution should be exercised when octreotide is administered to a nursing woman.
 
 ## Pediatric Use
 

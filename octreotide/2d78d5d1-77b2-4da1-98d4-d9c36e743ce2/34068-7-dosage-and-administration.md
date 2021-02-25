@@ -14,6 +14,7 @@ Octreotide acetate is not compatible in Total Parenteral Nutrition (TPN) solutio
 Octreotide acetate is stable in sterile isotonic saline solutions or sterile solutions of dextrose 5% in water for 24 hours.
 It may be diluted in volumes of 50-200 mL and infused intravenously over 15-30 minutes or administered by IV push over 3 minutes.
 In emergency situations (e.g., carcinoid crisis), it may be given by rapid bolus.
+Discard unused portion.
 
 The initial dosage is usually 50 mcg administered twice or three times daily.
 Upward dose titration is frequently required.

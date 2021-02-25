@@ -8,6 +8,8 @@ Needle shield may contain latex
 
 Subcutaneous Injection See Insert
 
+Discard Unused Portion
+
 Rx only
 
 10 x 1 mL Single-Dose Unit-of-Use Syringes with a fixed 27 gauge 1/2 inch needle
@@ -28,13 +30,13 @@ Each mL contains:
 Octreotide (as acetate)..........................
 50 mcg L-lactic acid 3 mg, sodium chloride 7 mg, sodium hydroxide to adjust pH, and water for injection, q.s.
 
-Manufactured for: Mylan Institutional LLC Rockford, IL 61103 U.S.A.
+Manufactured for: Mylan Institutional LLC Morgantown, WV 26505 U.S.A.
 
 Made in Italy
 
 Mylan.com
 
-MI:239:10C:R5
+MI:239:10C:R6
 
 # PRINCIPAL DISPLAY PANEL - 100 mcg
 
@@ -45,6 +47,8 @@ Octreotide Acetate Injection 100 mcg/mL
 Needle shield may contain latex
 
 Subcutaneous Injection See Insert
+
+Discard Unused Portion
 
 Rx only
 
@@ -66,13 +70,13 @@ Each mL contains:
 Octreotide (as acetate)..........................
 100 mcg L-lactic acid 3 mg, sodium chloride 7 mg, sodium hydroxide to adjust pH, and water for injection, q.s.
 
-Manufactured for: Mylan Institutional LLC Rockford, IL 61103 U.S.A.
+Manufactured for: Mylan Institutional LLC Morgantown, WV 26505 U.S.A.
 
 Made in Italy
 
 Mylan.com
 
-MI:245:10C:R5
+MI:245:10C:R6
 
 # PRINCIPAL DISPLAY PANEL - 500 mcg
 
@@ -85,6 +89,8 @@ Octreotide Acetate Injection
 Needle shield may contain latex
 
 Subcutaneous Injection See Insert
+
+Discard Unused Portion
 
 Rx only
 
@@ -106,10 +112,10 @@ Each mL contains:
 Octreotide (as acetate)..........................
 500 mcg L-lactic acid 3 mg, sodium chloride 7 mg, sodium hydroxide to adjust pH, and water for injection, q.s.
 
-Manufactured for: Mylan Institutional LLC Rockford, IL 61103 U.S.A.
+Manufactured for: Mylan Institutional LLC Morgantown, WV 26505 U.S.A.
 
 Made in Italy
 
 Mylan.com
 
-MI:246:10C:R5
+MI:246:10C:R6
