@@ -26,7 +26,7 @@ Consider the benefits versus risks of treatment with a PD-1/PD-L1 blocking antib
 
 Embryo-Fetal Toxicity
 
-Advise females of reproductive potential that TECENTRIQ can cause harm to a fetus and to inform their healthcare provider of a known or suspected pregnancy [see Warnings and Precautions (5.4), Use in Specific Populations (8.1, 8.3)].
+Advise females of reproductive potential that TECENTRIQ can cause harm to a fetus and to inform their healthcare provider of a known or suspected pregnancy [see Warnings and Precautions (5.5), Use in Specific Populations (8.1, 8.3)].
 
 Advise females of reproductive potential to use effective contraception during treatment and for at least 5 months after the last dose of TECENTRIQ [see Use in Specific Populations (8.3)].
 

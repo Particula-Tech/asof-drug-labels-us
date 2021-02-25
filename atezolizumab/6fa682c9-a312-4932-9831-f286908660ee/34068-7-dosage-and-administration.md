@@ -1,6 +1,6 @@
 # 2 DOSAGE AND ADMINISTRATION
 
-## 2.1 Patient Selection for Treatment of Urothelial Carcinoma, Triple-Negative Breast Cancer, or Non-Small Cell Lung Cancer and Melanoma
+## 2.1 Patient Selection for Treatment of Urothelial Carcinoma, Triple-Negative Breast Cancer, Non-Small Cell Lung Cancer and Melanoma
 
 Select cisplatin-ineligible patients with previously untreated locally advanced or metastatic urothelial carcinoma for treatment with TECENTRIQ based on the PD-L1 expression on tumor-infiltrating immune cells [see Clinical Studies (14.1)].
 
@@ -12,114 +12,39 @@ Select patients with unresectable or metastatic melanoma for treatment with TECE
 Information on FDA-approved tests for the detection of BRAF V600E and V600K mutations in melanoma is available at: http://www.fda.gov/CompanionDiagnostics.
 An FDA-approved test for the detection of other BRAF V600 mutations for this use is not currently available.
 
-## 2.2 Recommended Dosage for Urothelial Carcinoma
+## 2.2 Recommended Dosage
 
-The recommended dosage of TECENTRIQ is:
+The recommended dosages of TECENTRIQ as a single agent are presented in Table 1.
 
-- 840 mg every 2 weeks or
-- 1200 mg every 3 weeks or
-- 1680 mg every 4 weeks
+Table 1: Recommended Dosage of TECENTRIQ as a Single Agent
 
-administered intravenously over 60 minutes until disease progression or unacceptable toxicity.
-If the first infusion is tolerated, all subsequent infusions may be delivered over 30 minutes.
+| Indication | Recommended Dosage of TECENTRIQ60-minute intravenous infusion. If the first infusion is tolerated, all subsequent infusions may be delivered over 30 minutes. | Duration of Therapy |
+| --- | --- | --- |
+| Urothelial Carcinoma | 840 mg every 2 weeks or1200 mg every 3 weeks or1680 mg every 4 weeks | Until disease progression or unacceptable toxicity |
+| NSCLC |  |  |
 
-## 2.3 Recommended Dosage for NSCLC
+The recommended dosages of TECENTRIQ in combination with other therapeutic agents are presented in Table 2.
+Refer to the respective Prescribing Information for each therapeutic agent administered in combination with TECENTRIQ for the recommended dosage information, as appropriate.
 
-Single Agent
+Table 2: Recommended Dosage of TECENTRIQ in Combination with Other Therapeutic Agents
 
-The recommended dosage of TECENTRIQ is:
+| Indication | Recommended Dosage of TECENTRIQ60-minute intravenous infusion. If the first infusion is tolerated, all subsequent infusions may be delivered over 30 minutes. | Duration of Therapy |
+| --- | --- | --- |
+| NSCLC | 840 mg every 2 weeks or1200 mg every 3 weeks or1680 mg every 4 weeks Administer TECENTRIQ prior to chemotherapy and bevacizumab when given on the same day. | Until disease progression or unacceptable toxicity |
+| Locally Advanced or Metastatic TNBC | 840 mg every 2 weeks or1200 mg every 3 weeks or1680 mg every 4 weeks Administer TECENTRIQ prior to paclitaxel protein-bound when given on the same day. For each 28 day cycle, paclitaxel protein-bound is administered at 100 mg/m2 on days 1, 8, and 15 until disease progression or unacceptable toxicity. TECENTRIQ and paclitaxel protein-bound may be discontinued for toxicity independently of each other. Do not substitute paclitaxel protein-bound with paclitaxel in combination with TECENTRIQ in clinical practice for metastatic TNBC outside of controlled trials [see Warnings and Precautions (5.4)]. |  |
+| SCLC | 840 mg every 2 weeks or1200 mg every 3 weeks or1680 mg every 4 weeks Administer TECENTRIQ prior to chemotherapy when given on the same day. |  |
+| HCC | 840 mg every 2 weeks or1200 mg every 3 weeks or1680 mg every 4 weeks Administer TECENTRIQ prior to bevacizumab when given on the same day. Bevacizumab is administered at 15 mg/kg every 3 weeks. |  |
+| Melanoma | 840 mg every 2 weeks or1200 mg every 3 weeks or1680 mg every 4 weeks Administer TECENTRIQ with cobimetinib 60 mg orally once daily (21 days on and 7 days off) and vemurafenib 720 mg orally twice daily. Prior to initiating TECENTRIQ, patients should receive a 28 day treatment cycle of cobimetinib 60 mg orally once daily (21 days on and 7 days off) and vemurafenib 960 mg orally twice daily from Days 1-21 and vemurafenib 720 mg orally twice daily from Days 22-28. |  |
 
-- 840 mg every 2 weeks or
-- 1200 mg every 3 weeks or
-- 1680 mg every 4 weeks
-
-administered intravenously over 60 minutes until disease progression or unacceptable toxicity.
-If the first infusion is tolerated, all subsequent infusions may be delivered over 30 minutes.
-
-TECENTRIQ with Platinum-based Chemotherapy
-
-The recommended dosage of TECENTRIQ is 1200 mg intravenously every 3 weeks until disease progression or unacceptable toxicity.
-
-Administer TECENTRIQ prior to chemotherapy and bevacizumab when given on the same day.
-Refer to the Prescribing Information for the chemotherapy agents or bevacizumab administered in combination with TECENTRIQ for recommended dosing information.
-
-Following completion of 4-6 cycles of chemotherapy, and if bevacizumab is discontinued, the recommended dosage of TECENTRIQ is:
-
-- 840 mg every 2 weeks or
-- 1200 mg every 3 weeks or
-- 1680 mg every 4 weeks
-
-administered intravenously until disease progression or unacceptable toxicity.
-
-Administer the initial infusion of TECENTRIQ over 60 minutes.
-If the first infusion is tolerated, all subsequent infusions may be delivered over 30 minutes.
-
-## 2.4 Recommended Dosage for Locally Advanced or Metastatic TNBC
-
-The recommended dosage of TECENTRIQ is 840 mg administered intravenously over 60 minutes, followed by 100 mg/m2 paclitaxel protein-bound.
-
-For each 28 day cycle, TECENTRIQ is administered on days 1 and 15, and paclitaxel protein-bound is administered on days 1, 8, and 15 until disease progression or unacceptable toxicity.
-
-TECENTRIQ and paclitaxel protein-bound may be discontinued for toxicity independently of each other.
-
-If the first infusion is tolerated, all subsequent infusions may be delivered over 30 minutes.
-Refer to the Prescribing Information for paclitaxel protein-bound for recommended dosing information.
-
-Do not substitute paclitaxel protein-bound with paclitaxel in combination with TECENTRIQ in clinical practice for metastatic TNBC outside of controlled trials [see Warnings and Precautions (5.4)].
-
-## 2.5 Recommended Dosage for SCLC
-
-The recommended dosage of TECENTRIQ is 1200 mg intravenously every 3 weeks, when administered in combination with carboplatin and etoposide, until disease progression or unacceptable toxicity.
-
-Administer TECENTRIQ prior to chemotherapy when given on the same day.
-Refer to the Prescribing Information for the chemotherapy agents administered in combination with TECENTRIQ for recommended dosing information.
-
-Following completion of 4 cycles of carboplatin and etoposide, the recommended dosage of TECENTRIQ is:
-
-- 840 mg every 2 weeks or
-- 1200 mg every 3 weeks or
-- 1680 mg every 4 weeks
-
-administered intravenously until disease progression or unacceptable toxicity.
-
-Administer the initial infusion of TECENTRIQ over 60 minutes.
-If the first infusion is tolerated, all subsequent infusions may be delivered over 30 minutes.
-
-## 2.6 Recommended Dosage for HCC
-
-The recommended dosage of TECENTRIQ is 1,200 mg administered as an intravenous infusion over 60 minutes, followed by 15 mg/kg of bevacizumab on the same day, every 3 weeks until disease progression or unacceptable toxicity.
-
-Refer to the Prescribing Information for bevacizumab prior to initiation.
-
-If bevacizumab is discontinued for toxicity, the recommended dosage of TECENTRIQ is:
-
-- 840 mg every 2 weeks or
-- 1,200 mg every 3 weeks or
-- 1,680 mg every 4 weeks
-
-administered intravenously until disease progression or unacceptable toxicity.
-
-If the first infusion of TECENTRIQ is tolerated, all subsequent infusions may be delivered over 30 minutes
-
-## 2.7 Recommended Dosage for Melanoma
-
-Prior to initiating TECENTRIQ, patients should receive a 28 day treatment cycle of cobimetinib 60 mg orally once daily (21 days on and 7 days off) and vemurafenib 960 mg orally twice daily from Days 1-21 and vemurafenib 720 mg orally twice daily from Days 22-28.
-
-The recommended dose of TECENTRIQ is 840 mg administered as an intravenous infusion over 60 minutes every 2 weeks until disease progression or unacceptable toxicity, when administered with cobimetinib 60 mg orally once daily (21 days on and 7 days off) and vemurafenib 720 mg orally twice daily.
-
-If the first infusion of TECENTRIQ is tolerated, all subsequent infusions may be delivered over 30 minutes.
-
-Refer to the Prescribing Information for cobimetinib and vemurafenib prior to initiation.
-
-## 2.8 Dosage Modifications for Adverse Reactions
+## 2.3 Dosage Modifications for Adverse Reactions
 
 No dose reduction for TECENTRIQ is recommended.
 In general, withhold TECENTRIQ for severe (Grade 3) immune-mediated adverse reactions.
 Permanently discontinue TECENTRIQ for life-threatening (Grade 4) immune-mediated adverse reactions, recurrent severe (Grade 3) immune-mediated reactions that require systemic immunosuppressive treatment, or an inability to reduce corticosteroid dose to 10 mg or less of prednisone or equivalent per day within 12 weeks of initiating steroids.
 
-Dosage modifications for TECENTRIQ for adverse reactions that require management different from these general guidelines are summarized in Table 1.
+Dosage modifications for TECENTRIQ for adverse reactions that require management different from these general guidelines are summarized in Table 3.
 
-Table 1: Recommended Dosage Modifications for Adverse Reactions
+Table 3: Recommended Dosage Modifications for Adverse Reactions
 
 | Adverse Reaction | SeverityBased on Common Terminology Criteria for Adverse Events (CTCAE), version 4. | Dosage Modification |
 | --- | --- | --- |
@@ -145,7 +70,7 @@ Table 1: Recommended Dosage Modifications for Adverse Reactions
 | Grades 3 or 4 | Permanently discontinue |  |
 | ALT = alanine aminotransferase, AST = aspartate aminotransferase, ULN = upper limit normal, DRESS = Drug Rash with Eosinophilia and Systemic Symptoms, SJS = Stevens Johnson syndrome, TEN = toxic epidermal necrolysis |  |  |
 
-## 2.9 Preparation and Administration
+## 2.4 Preparation and Administration
 
 Preparation
 
