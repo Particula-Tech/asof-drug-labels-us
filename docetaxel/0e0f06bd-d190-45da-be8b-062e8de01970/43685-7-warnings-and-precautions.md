@@ -17,8 +17,6 @@ Among patients who experienced treatment-related mortality at the 75 mg/m2 dose 
 
 ## 5.2 Hepatic Impairment
 
-Patients with combined abnormalities of transaminases and alkaline phosphatase should not be treated with Docetaxel Injection [see Boxed Warning, Use in Specific Populations (8.6), Clinical Studies (14)].
-
 Patients with elevations of bilirubin or abnormalities of transaminase concurrent with alkaline phosphatase are at increased risk for the development of severe neutropenia, febrile neutropenia, infections, severe thrombocytopenia, severe stomatitis, severe skin toxicity, and toxic death.
 
 Avoid docetaxel in patients with bilirubin > upper limit of normal (ULN), or to patients with AST and/or ALT >1.5 x ULN concomitant with alkaline phosphatase >2.5 x ULN [see Warnings and Precautions (5.1)].
@@ -30,7 +28,8 @@ Measure bilirubin, AST or ALT, and alkaline phosphatase prior to each cycle of d
 ## 5.3 Hematologic Effects
 
 Perform frequent peripheral blood cell counts on all patients receiving Docetaxel Injection.
-Patients should not be retreated with subsequent cycles of Docetaxel Injection until neutrophils recover to a level >1500 cells/mm3[see Contraindications (4)] and platelets recover to a level > 100,000 cells/mm3.
+Do not retreat patients with subsequent cycles of Docetaxel Injection until neutrophils recover to a level >1500 cells/mm3[see Contraindications (4)].
+Avoid retreating patients until platelets recover to a level > 100,000 cells/mm3.
 
 A 25% reduction in the dose of Docetaxel Injection is recommended during subsequent cycles following severe neutropenia (<500 cells/mm3) lasting 7 days or more, febrile neutropenia, or a grade 4 infection in a Docetaxel Injection cycle [see Dosage and Administration (2.7)].
 
@@ -45,7 +44,7 @@ Three breast cancer patients with severe liver impairment (bilirubin >1.7 times 
 In gastric cancer patients treated with docetaxel in combination with cisplatin and fluorouracil (TCF), febrile neutropenia and/or neutropenic infection occurred in 12% of patients receiving G-CSF compared to 28% who did not.
 Patients receiving TCF should be closely monitored during the first and subsequent cycles for febrile neutropenia and neutropenic infection [see Dosage and Administration (2.7), Adverse Reactions (6)].
 
-## 5.4 Enterocolitis and neutropenic Colitis
+## 5.4 Enterocolitis and Neutropenic Colitis
 
 Enterocolitis and neutropenic colitis (typhlitis) have occurred in patients treated with docetaxel alone and in combination with other chemotherapeutic agents, despite the coadministration of G-CSF.
 Caution is recommended for patients with neutropenia, particularly at risk for developing gastrointestinal complications.
@@ -55,10 +54,10 @@ Inform patients to contact their healthcare provider with new, or worsening symp
 
 ## 5.5 Hypersensitivity Reactions
 
-Patients should be observed closely for hypersensitivity reactions, especially during the first and second infusions.
-Severe hypersensitivity reactions characterized by generalized rash/erythema, hypotension and/or bronchospasm, or very rarely fatal anaphylaxis, have been reported in patients premedicated with 3 days of corticosteroids.
+Monitor patients closely for hypersensitivity reactions, especially during the first and second infusions.
+Severe hypersensitivity reactions characterized by generalized rash/erythema, hypotension and/or bronchospasm, or fatal anaphylaxis, have been reported in patients premedicated with 3 days of corticosteroids.
 Severe hypersensitivity reactions require immediate discontinuation of the Docetaxel Injection infusion and aggressive therapy.
-Patients with a history of severe hypersensitivity reactions should not be re-challenged with Docetaxel Injection [see Contraindications (4)].
+Do not rechallenge patients with a history of severe hypersensitivity reactions with Docetaxel Injection [see Contraindications (4)].
 
 Patients who have previously experienced a hypersensitivity reaction to paclitaxel may develop a hypersensitivity reaction to docetaxel that may include severe or fatal reactions such as anaphylaxis.
 Monitor patients with a previous history of hypersensitivity to paclitaxel closely during initiation of docetaxel therapy.
@@ -144,3 +143,9 @@ Consideration should be given to the alcohol content in Docetaxel Injection on t
 Each administration of Docetaxel Injection at 100 mg/m2 delivers 2.65 g/m2 of ethanol.
 For a patient with a BSA of 2.0 m2, this would deliver 5.3 grams of ethanol [see Description (11)].
 Other docetaxel products may have a different amount of alcohol.
+
+## 5.14 Tumor Lysis Syndrome
+
+Tumor lysis syndrome has been reported with docetaxel [see Adverse Reactions (6.2)].
+Patients at risk of tumor lysis syndrome (e.g., with renal impairment, hyperuricemia, bulky tumor) should be closely monitored prior to initiating Docetaxel Injection and periodically during treatment.
+Correction of dehydration and treatment of high uric acid levels are recommended prior to initiation of treatment.

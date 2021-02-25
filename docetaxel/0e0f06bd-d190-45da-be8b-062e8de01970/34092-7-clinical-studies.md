@@ -83,7 +83,7 @@ Table 14 - Subset Analyses-Adjuvant Breast Cancer Study
 
 |  |  | Disease Free Survival |  | Overall Survival |  |
 | --- | --- | --- | --- | --- | --- |
-| Patient subset | Number of patients | Hazard ratioA hazard ratio of less than 1 indicates that TAC is associated with a longer disease-free survival or overall survival compared to FAC. | 95% CI | Hazard ratio* | 95% CI |
+| Patient subset | Number of patients | Hazard ratioA hazard ratio of less than 1 indicates that TAC is associated with a longer disease-free survival or overall survival compared to FAC. | 95% CI | Hazard ratio | 95% CI |
 | No. of positive nodes |  |  |  |  |  |
 | Overall | 744 | 0.74 | (0.60, 0.92) | 0.69 | (0.53, 0.90) |
 | 1-3 | 467 | 0.64 | (0.47, 0.87) | 0.45 | (0.29, 0.70) |
@@ -118,11 +118,11 @@ The efficacy data for the docetaxel 75 mg/m2 arm and the comparator arms are sum
 |  | Docetaxel | Best | Docetaxel | Control |
 |  | 75 mg/m2 n=55 | Supportive Care n=49 | 75 mg/m2 n=125 | (V/IVinorelbine/Ifosfamide) n=123 |
 | Overall SurvivalLog-rank Test | p=0.01 |  | p=0.13 |  |
-| Risk Ratio, Mortality (Docetaxel: Control) | 0.56 |  | 0.82 |  |
+| Risk Ratioa value less than 1.00 favors docetaxel, Mortality (Docetaxel: Control) | 0.56 |  | 0.82 |  |
 | 95% CI (Risk Ratio) | (0.35, 0.88) |  | (0.63, 1.06) |  |
-| Median Survival | 7.5 monthsa value less than 1.00 favors docetaxel | 4.6 months | 5.7 months | 5.6 months |
+| Median Survival | 7.5 months | 4.6 months | 5.7 months | 5.6 months |
 | 95% CI | (5.5, 12.8) | (3.7, 6.1) | (5.1, 7.1) | (4.4, 7.9) |
-| % 1-year Survival | 37%uncorrected for multiple comparisons | 12% | 30% | 20% |
+| % 1-year Survival | 37%p≤0.05; uncorrected for multiple comparisons | 12% | 30% | 20% |
 | 95% CI | (24, 50) | (2, 23) | (22, 39) | (13, 27) |
 | Time to Progression | 12.3 weeks | 7.0 weeks | 8.3 weeks | 7.6 weeks |
 | 95% CI | (9.0, 18.3) | (6.0, 9.3) | (7.0,11.7) | (6.7, 10.1) |
@@ -282,7 +282,7 @@ During radiotherapy, carboplatin (AUC 1.5) was given weekly as a one-hour intrav
 Radiation was delivered with megavoltage equipment using once daily fractionation (2 Gy per day, 5 days per week for 7 weeks for a total dose of 70-72 Gy).
 Surgery on the primary site of disease and/or neck could be considered at anytime following completion of CRT.
 
-The primary efficacy endpoint, overall survival (OS), was significantly longer (log-rank test, p=0.0058) with the docetaxel injection-containing regimen compared to PF [median OS: 70.6 versus 30.1 months respectively, hazard ratio (HR)=0.70, 95% confidence interval (CI)= 0.54 to 0.90].
+The primary efficacy endpoint, overall survival (OS), was significantly longer (log-rank test, p=0.0058) with the docetaxel injection-containing regimen compared to PF (median OS: 70.6 versus 30.1 months respectively, hazard ratio [HR]=0.70, 95% confidence interval [CI]= 0.54 to 0.90).
 Overall survival results are presented in Table 21 and Figure 10.
 
 1. Table 21 - Efficacy of Docetaxel Injection in the Induction Treatment of Patients with Locally Advanced SCCHN (Intent-to-Treat Analysis)

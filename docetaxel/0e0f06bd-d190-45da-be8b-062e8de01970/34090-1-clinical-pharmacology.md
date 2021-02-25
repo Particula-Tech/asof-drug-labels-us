@@ -9,7 +9,7 @@ Docetaxel's binding to microtubules does not alter the number of protofilaments 
 
 ## 12.3 Pharmacokinetics
 
-Absorption: The pharmacokinetics of docetaxel have been evaluated in cancer patients after administration of 20 mg/m2 to 115 mg/m2 in phase 1 studies.
+Absorption: The pharmacokinetics of docetaxel has been evaluated in cancer patients after administration of 20 mg/m2 to 115 mg/m2 in phase 1 studies.
 The area under the curve (AUC) was dose proportional following doses of 70 mg/m2 to 115 mg/m2 with infusion times of 1 to 2 hours.
 Docetaxel's pharmacokinetic profile is consistent with a three-compartment pharmacokinetic model, with half-lives for the α, β, and γ phases of 4 min, 36 min, and 11.1 hr, respectively.
 Mean total body clearance was 21 L/h/m2.
@@ -30,7 +30,7 @@ Specific Populations
 
 Effect of Age: A population pharmacokinetic analysis was carried out after docetaxel treatment of 535 patients dosed at 100 mg/m2.
 Pharmacokinetic parameters estimated by this analysis were very close to those estimated from phase 1 studies.
-The pharmacokinetics of docetaxel were not influenced by age.
+The pharmacokinetics of docetaxel was not influenced by age.
 
 Effect of Gender: The population pharmacokinetics analysis described above also indicated that gender did not influence the pharmacokinetics of docetaxel.
 
@@ -45,7 +45,7 @@ Drug Interaction Studies
 
 Effect of Ketoconazole: The effect of ketoconazole (a strong CYP3A4 inhibitor) on the pharmacokinetics of docetaxel was investigated in 7 cancer patients.
 Patients were randomized to receive either docetaxel (100 mg/m2 intravenous) alone or docetaxel (10 mg/m2 intravenous) in combination with ketoconazole (200 mg orally once daily for 3 days) in a crossover design with a 3-week washout period.
-The results of this study indicated that the mean dose-normalized AUC of docetaxel was increased 2.2-fold and its clearance was reduced by 49% when docetaxel was co-administration with ketoconazole [see Dosage and Administration (2.7), Drug Interactions (7)].
+The results of this study indicated that the mean dose-normalized AUC of docetaxel was increased 2.2-fold and its clearance was reduced by 49% when docetaxel was co-administered with ketoconazole [see Dosage and Administration (2.7), Drug Interactions (7)].
 
 Effect of Combination Therapies:
 
