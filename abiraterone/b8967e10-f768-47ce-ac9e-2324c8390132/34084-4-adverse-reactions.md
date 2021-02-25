@@ -26,11 +26,11 @@ Patients were not eligible if AST and/or ALT ≥ 2.5 XULN in the absence of live
 Patients with liver metastases were excluded if AST and/or ALT > 5X ULN.
 
 Table 1 shows adverse reactions on the abiraterone acetate arm in Study 1 that occurred with a ≥2% absolute increase in frequency compared to placebo or were events of special interest.
-The median duration of treatment with abiraterone acetate was 8 months.
+The median duration of treatment with abiraterone acetate with a corticosteroid was 8 months.
 
 Table 1 Adverse Reactions due to Abiraterone Acetate in Study 1
 
-|  | Abiraterone Acetate with Corticosteroid(N=791) |  | Placebo withCorticosteroid (N=394) |  |
+|  | Abiraterone Acetate with Corticosteroid(N=791) |  | Placebo with Corticosteroid (N=394) |  |
 | --- | --- | --- | --- | --- |
 | System Organ ClassAdverse Reaction | All Grades1% | Grade 3-4% | All Grades% | Grade 3-4% |
 | Musculoskeletal and connective tissue disorders |  |  |  |  |
@@ -68,11 +68,11 @@ Table 1 Adverse Reactions due to Abiraterone Acetate in Study 1
 | 8 Includes terms Cardiac failure, Cardiac failure congestive, Left ventricular dysfunction, Cardiogenic shock, Cardiomegaly, Cardiomyopathy, and Ejection fraction decreased |  |  |  |  |
 
 Table 2 shows laboratory abnormalities of interest from Study 1.
-Grade 3-4 low serum phosphorus (7%) and low potassium (5%) occurred at a greater than or equal to 5% rate in the abiraterone acetate arm.
+Grade 3-4 low serum phosphorus (7%) and low potassium (5%) occurred at a greater than or equal to 5% rate in the abiraterone acetate with a corticosteroid arm.
 
 Table 2 Laboratory Abnormalities of Interest in Study 1
 
-|  | Abiraterone Acetate with Corticosteroid(N=791) |  | Placebo withCorticosteroid(N=394) |  |
+|  | Abiraterone Acetate with Corticosteroid(N=791) |  | Placebo with Corticosteroid(N=394) |  |
 | --- | --- | --- | --- | --- |
 | Laboratory Abnormality | All Grades% | Grade 3-4% | All Grades% | Grade 3-4% |
 | Hypertriglyceridemia | 63 | 0.4 | 53 | 0 |
@@ -87,12 +87,12 @@ Study 2: Metastatic CRPC Prior to Chemotherapy
 Study 2 enrolled 1088 patients with metastatic CRPC who had not received prior cytotoxic chemotherapy.
 Patients were ineligible if AST and/or ALT ≥ 2.5X ULN and patients were excluded if they had liver metastases.
 
-Table 3 shows adverse reactions on the abiraterone acetate arm in Study 2 that occurred with a ≥ 2% absolute increase in frequency compared to placebo.
-The median duration of treatment with abiraterone acetate was 13.8 months.
+Table 3 shows adverse reactions on the abiraterone acetate arm in Study 2 that occurred in ≥ 5% of patients with a ≥ 2% absolute increase in frequency compared to placebo.
+The median duration of treatment with abiraterone acetate with a corticosteroid was 13.8 months.
 
 Table 3 Adverse Reactions in ≥5% of Patients on the Abiraterone Acetate Arm in Study 2
 
-|  | Abiraterone Acetate with Corticosteroid(N=542) |  | Placebo withCorticosteroid (N=540) |  |
+|  | Abiraterone Acetate with Corticosteroid(N=542) |  | Placebo with Corticosteroid (N=540) |  |
 | --- | --- | --- | --- | --- |
 | System Organ ClassAdverse Reaction | All Grades1% | Grade 3-4% | All Grades% | Grade 3-4% |
 | General Disorders |  |  |  |  |
@@ -132,7 +132,7 @@ Table 4 shows laboratory abnormalities that occurred in greater than 15% of pati
 
 Table 4 Laboratory Abnormalities in > 15% of Patients in the Abiraterone Acetate Arm of Study 2
 
-|  | Abiraterone Acetate with Corticosteroid(N=542) |  | Placebo withCorticosteroid(N=540) |  |
+|  | Abiraterone Acetate with Corticosteroid(N=542) |  | Placebo with Corticosteroid(N=540) |  |
 | --- | --- | --- | --- | --- |
 | Laboratory Abnormality | Grade 1-4% | Grade 3-4% | Grade 1-4% | Grade 3-4% |
 | Hematology |  |  |  |  |

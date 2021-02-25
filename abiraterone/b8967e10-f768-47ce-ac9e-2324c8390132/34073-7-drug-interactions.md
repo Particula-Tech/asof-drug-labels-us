@@ -1,6 +1,6 @@
 # 7 DRUG INTERACTIONS
 
-## 7.1 Drugs that Inhibit of Induce CYP3A4 Enzymes
+## 7.1 Drugs that Inhibit or Induce CYP3A4 Enzymes
 
 Based on in vitro data, YONSA is a substrate of CYP3A4.
 

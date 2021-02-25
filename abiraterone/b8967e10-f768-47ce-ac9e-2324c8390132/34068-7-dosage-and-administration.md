@@ -1,5 +1,9 @@
 # 2 DOSAGE AND ADMINISTRATION
 
+## 2.1 Recommended Dosage
+
+The recommended dose of YONSA is 500 mg (four 125 mg tablets) administered orally once daily in combination with methylprednisolone 4 mg administered orally twice daily.
+
 ## 2.2 Important Administration Instructions
 
 To avoid medication errors and overdose, be aware that YONSA (abiraterone acetate) tablets may have different dosing and food effects than other abiraterone acetate products.
@@ -20,8 +24,7 @@ If elevations in ALT and/or AST greater than 5X upper limit of normal (ULN) or t
 Do not use YONSA in patients with baseline severe hepatic impairment (Child-Pugh Class C).
 
 Hepatotoxicity For patients who develop hepatotoxicity during treatment with YONSA (ALT and/or AST greater than 5X ULN or total bilirubin greater than 3X ULN), interrupt treatment with YONSA [see Warnings and Precautions (5.3)].
-Treatment may be restarted at a reduced dose of 375 mg once daily following return of liver function tests to the patient’s baseline or to AST and ALT less than or equal to 2.5X ULN and total bilirubin less than or equal to 1.5X ULN.
-For patients who resume treatment, monitor serum transaminases and bilirubin at a minimum of every two weeks for three months and monthly thereafter.
+Treatment may be restarted at a reduced dose of 375 mg once daily following return of liver function tests to the patient’s baseline or to AST and ALT less than or equal to 2.5X ULN and total bilirubin less than or equal to 1.5X ULN.For patients who resume treatment, monitor serum transaminases and bilirubin at a minimum of every two weeks for three months and monthly thereafter.
 
 If hepatotoxicity recurs at the dose of 375 mg once daily, re-treatment may be restarted at a reduced dose of 250 mg once daily following return of liver function tests to the patient’s baseline or to AST and ALT less than or equal to 2.5X ULN and total bilirubin less than or equal to 1.5X ULN.
 

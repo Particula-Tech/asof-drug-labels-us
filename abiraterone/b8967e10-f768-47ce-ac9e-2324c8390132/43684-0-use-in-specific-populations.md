@@ -38,6 +38,10 @@ Infertility
 
 Based on animal studies, abiraterone acetate may impair reproductive function and fertility in males of reproductive potential [see Nonclinical Toxicology (13.1)].
 
+## 8.4 Pediatric Use
+
+Safety and effectiveness of abiraterone acetate in pediatric patients have not been established.
+
 ## 8.5 Geriatric Use
 
 Of the total number of patients receiving abiraterone acetate in the two randomized trials, 73% of patients were 65 years and over and 30% were 75 years and over.
