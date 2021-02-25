@@ -1,6 +1,6 @@
 # 17 PATIENT COUNSELING INFORMATION
 
-See FDA-Approved Patient Labeling (Patient Information)
+Advise the patient to read the FDA-approved patient labeling (Patient Information).
 
 The patient should be instructed to:
 
@@ -12,12 +12,11 @@ Recommend the use of sunscreen products and protective apparel (e.g., hat) when 
 
 Manufactured for: Oceanside Pharmaceuticals, a division of Valeant Pharmaceuticals North America LLC Bridgewater, NJ 08807 USA
 
-by: Valeant Pharmaceuticals International, Inc. Laval, Quebec H7L 4A8, Canada
+By: Valeant Pharmaceuticals International, Inc. Laval, Quebec H7L 4A8, Canada
 
 Microsponge is a registered trademark of AMCOL International Corporation.
 Any other product/brand names are trademarks of their respective owners.
 
-©Valeant Pharmaceuticals North America LLC
+© Valeant Pharmaceuticals North America LLC
 
-Rev.
-08/2016 9515301 20001078B
+9515302

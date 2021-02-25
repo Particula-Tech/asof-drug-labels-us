@@ -1,12 +1,11 @@
 # Patient Information
 
-Tretinoin Gel Microsphere, 0.1%, 0.08% and 0.04% for topical use
+Tretinoin Gel Microsphere, 0.1% and 0.04% for topical use
 
-| Important Information: Tretinoin Gel Microsphere is for use on skin only. Do not get Tretinoin Gel Microsphere in your eyes, mouth, vagina or the corners of your nose. |
-| --- |
+Important information: Tretinoin Gel Microsphere is for use on skin only.
+Do not get Tretinoin Gel Microsphere in your eyes, mouth, vagina or the corners of your nose.
 
 What is Tretinoin Gel Microsphere?
-
 Tretinoin Gel Microsphereis a prescription medicine used on the skin (topical) to treat acne.
 Acne is a condition in which the skin has blackheads, whiteheads, and other pimples.
 
@@ -16,7 +15,7 @@ It is not known if Tretinoin Gel Microsphere is safe and effective in children u
 
 What should I tell my doctor before using Tretinoin Gel Microsphere?
 
-Before using Tretinoin Gel Microsphere, tell your doctor if you:
+Before using Tretinoin Gel Microsphere, tell your doctor about all your medical conditions, including if you:
 
 - •have a skin condition called eczema.
 - •have a sunburn.
@@ -25,9 +24,7 @@ Before using Tretinoin Gel Microsphere, tell your doctor if you:
 - •are pregnant or plan to become pregnant.
   It is not known if Tretinoin Gel Microsphere will harm your unborn baby.
 - •are breastfeeding or plan to breastfeed.
-  It is not known if Tretinoin Gel Microsphere passes into your breast milk.
-
-Tell your doctor about all the medicines you take, including prescription and over-the-counter medicines, vitamins, herbal supplements, and any skin products that you use.
+  It is not known if Tretinoin Gel Microsphere passes into your breast milk.Tell your doctor about all of the medicines you take, including prescription and over-the-counter medicines, vitamins, herbal supplements, and any skin products that you use.
 
 Especially tell your doctor if you use any other medicines to treat your acne, including medicated cleansers or soaps.
 Using other topical acne products may increase the irritation of your skin when used with Tretinoin Gel Microsphere.
@@ -43,7 +40,7 @@ How should I use Tretinoin Gel Microsphere?
   Rinse and pat your skin dry.
 - •Apply Tretinoin Gel Microsphere 1 time a day in the evening, or as prescribed by your doctor.
 - •Do not use more Tretinoin Gel Microsphere than you need to cover the affected area and do not apply Tretinoin Gel Microsphere more than 1 time a day.
-  Using too much Tretinoin Gel Microsphere or using it too often will not give you faster or better results and you may get skin redness, peeling, or discomfort.
+  Using too much Tretinoin Gel Microsphere or using it too often will not give you faster or better results, and you may get skin redness, peeling, or discomfort.
 - •You may have a brief feeling of warmth or slight stinging after applying Tretinoin Gel Microsphere.
 - •You may use moisturizers and cosmetics.
 - •Early in your treatment, you may get new pimples.
@@ -62,7 +59,7 @@ Applying Tretinoin Gel Microsphere:
 - Pump: Fully depress the pump twice to dispense Tretinoin Gel Microsphere onto a fingertip.
   Apply a thin layer to cover the affected area, as prescribed by your doctor.
   Spread Tretinoin Gel Microsphere evenly over the affected area.
-- •Wash your hands after applying Tretinoin Gel Microsphere
+- •Wash your hands after applying Tretinoin Gel Microsphere.
 
 What should I avoid while using Tretinoin Gel Microsphere?
 
@@ -117,18 +114,20 @@ What are the ingredients of Tretinoin Gel Microsphere?
 
 Active ingredient: tretinoin
 
-Inactive ingredients: benzyl alcohol, butylated hydroxytoluene, carbomer 974P, cyclomethicone, dimethicone copolyol, disodium EDTA, glycerin, PPG-20 methyl glucose ether distearate, propylene glycol, purified water, sorbic acid and trolamine
-
-This Patient Information has been approved by the U.S. Food and Drug Administration.
+Inactive ingredients: benzyl alcohol, butylated hydroxytoluene, carbomer 974P, cyclomethicone and dimethicone copolyol, disodium EDTA, glycerin, PPG-20 methyl glucose ether distearate, propylene glycol, purified water, sorbic acid and trolamine
 
 Manufactured for: Oceanside Pharmaceuticals, a division of Valeant Pharmaceuticals North America LLC Bridgewater, NJ 08807 USA
 
-by: Valeant Pharmaceuticals International, Inc. Laval, Quebec H7L 4A8, Canada
+By: Valeant Pharmaceuticals International, Inc. Laval, Quebec H7L 4A8, Canada
 
 Microsponge is a registered trademark of AMCOL International Corporation.
 Any other product/brand names are trademarks of their respective owners.
 
-©Valeant Pharmaceuticals North America LLC
+© Valeant Pharmaceuticals North America LLC
+
+This Patient Information has been approved by the U.S. Food and Drug Administration.
 
 Rev.
-08/2016 9515301 20001078B
+04/2018
+
+9515302
