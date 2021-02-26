@@ -1,4 +1,4 @@
-# 6ADVERSE REACTIONS
+# 6 ADVERSE REACTIONS
 
 ## 6.1 Clinical Trials Experience
 
@@ -7,7 +7,7 @@ Because clinical studies are conducted under widely varying conditions, adverse 
 In clinical trials, a total of 443 adult subjects with atopic dermatitis or plaque-type psoriasis were treated once daily or twice daily with VANOS Cream for 2 weeks.
 The most commonly observed adverse reactions in these clinical trials were as follows:
 
-Table 1:Most Commonly Observed Adverse Reactions (≥1%) in Adult Clinical Trials
+Table 1: Most Commonly Observed Adverse Reactions (≥1%) in Adult Clinical Trials
 
 | Adverse Reaction | VANOS Cream, once daily (n=216) | VANOS Cream, twice daily (n=227) | Vehicle Cream, once or twice daily (n=211) |
 | --- | --- | --- | --- |
@@ -22,12 +22,9 @@ Safety in patients 12 to 17 years of age was similar to that observed in adults.
 
 The following adverse reactions have been identified during postapproval use of VANOS Cream:
 
-Administration Site Conditions: discoloration, erythema, irritation, pruritus, swelling, pain, and condition aggravated.
-
-Immune System Disorders: hypersensitivity.
-
-Nervous System Disorders: headache and dizziness.
-
-Skin and Subcutaneous Tissue Disorders: acne, dry skin, rash, skin exfoliation, and skin tightness.
+1. Administration Site Conditions: discoloration, erythema, irritation, pruritus, swelling, pain, and condition aggravated.
+2. Immune System Disorders: hypersensitivity.
+3. Nervous System Disorders: headache and dizziness.
+4. Skin and Subcutaneous Tissue Disorders: acne, dry skin, rash, skin exfoliation, and skin tightness.
 
 Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.

@@ -1,4 +1,4 @@
-# 11DESCRIPTION
+# 11 DESCRIPTION
 
 VANOS (fluocinonide) Cream, 0.1% contains fluocinonide, a synthetic corticosteroid for topical dermatologic use.
 The corticosteroids constitute a class of primarily synthetic steroids used topically as anti-inflammatory and antipruritic agents.

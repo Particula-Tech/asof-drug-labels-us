@@ -1,4 +1,4 @@
-# 14CLINICAL STUDIES
+# 14 CLINICAL STUDIES
 
 Two adequate and well-controlled efficacy and safety studies of VANOS Cream have been completed, one in adult subjects with plaque-type psoriasis (Table 2), and one in adult subjects with atopic dermatitis (Table 3).
 In each of these studies, subjects with between 2% and 10% body surface area involvement at baseline treated all affected areas either once daily or twice daily with VANOS Cream for 14 consecutive days.

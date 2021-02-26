@@ -1,4 +1,6 @@
-Patient Information VANOS® (VAN-ōs) (fluocinonide) Cream, 0.1%
+# Patient Information
+
+VANOS® (VAN-ōs) (fluocinonide) Cream, 0.1%
 
 IMPORTANT: For skin use only.
 Do not get VANOS Cream in your eyes, mouth, or vagina.
@@ -44,7 +46,7 @@ Keep a list of your medicines with you to show your doctor and pharmacist when y
 
 How should I use VANOS Cream?
 
-- •See "What is VANOS Cream?"
+- •See “What is VANOS Cream?”
 - •Use VANOS Cream exactly as your doctor tells you.
 - •This medicine is for use on the skin only.
   Do not use VANOS Cream in your eyes, mouth, or vagina.
@@ -67,7 +69,7 @@ VANOS Cream may cause side effects, including:
   - •irritability and depression
   - •loss of appetite
   - •weight loss
-- •Cushing's syndrome, when the body is exposed to too much of the hormone cortisol.
+- •Cushing’s syndrome, when the body is exposed to too much of the hormone cortisol.
   Your doctor may do tests to check for this.
   Symptoms can include:
   - •weight gain, especially around your upper back and midsection
@@ -96,9 +98,7 @@ How should I store VANOS Cream?
 
 Keep VANOS Cream and all medicines out of reach of children.
 
-General information about VANOS Cream
-
-Medicines are sometimes prescribed for purposes other than those listed in the Patient Information leaflet.
+General information about VANOS Cream Medicines are sometimes prescribed for purposes other than those listed in the Patient Information leaflet.
 Do not use VANOS Cream for a condition for which it was not prescribed.
 Do not give VANOS Cream to other people, even if they have the same symptoms you have.
 It may harm them.
@@ -108,7 +108,6 @@ If you would like more information, talk with your doctor.
 You can also ask your pharmacist or doctor for information about VANOS Cream that is written for healthcare professionals.
 
 What are the ingredients in VANOS Cream?
-
 Active ingredient: fluocinonide 0.1%
 
 Inactive ingredients: anhydrous citric acid USP, carbopol 980 NF, diisopropanolamine, dimethyl isosorbide, glyceryl monostearate NF, glyceryl stearate (and) PEG-100 stearate, propylene glycol USP, and purified water USP.

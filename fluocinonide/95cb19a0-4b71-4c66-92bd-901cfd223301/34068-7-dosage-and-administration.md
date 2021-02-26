@@ -1,4 +1,4 @@
-# 2DOSAGE AND ADMINISTRATION
+# 2 DOSAGE AND ADMINISTRATION
 
 For topical use only.
 VANOS Cream is not for ophthalmic, oral, or intravaginal use.

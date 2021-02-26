@@ -1,6 +1,6 @@
-# PRINCIPAL DISPLAY PANEL - 30 g Tube Carton
+# PRINCIPAL DISPLAY PANEL - 120 g Tube Carton
 
-NDC 99207-525-30
+NDC 99207-525-10
 
 Vanos® (fluocinonide) Cream, 0.1%
 
@@ -10,6 +10,6 @@ Rx only
 
 Net.
 Wt.
-30 g
+120 g
 
 VALEANT

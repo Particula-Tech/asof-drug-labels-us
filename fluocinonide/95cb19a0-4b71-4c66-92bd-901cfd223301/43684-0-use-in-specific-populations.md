@@ -29,12 +29,12 @@ Therefore, the safety of VANOS Cream in patients younger than 12 years of age ha
 
 HPA-axis suppression has not been evaluated in patients with psoriasis who are less than 18 years of age.
 
-Because of a higher ratio of skin surface area to body mass, pediatric patients are at a greater risk than adults of HPA-axis suppression and Cushing's syndrome when they are treated with topical corticosteroids.
+Because of a higher ratio of skin surface area to body mass, pediatric patients are at a greater risk than adults of HPA-axis suppression and Cushing’s syndrome when they are treated with topical corticosteroids.
 They are therefore also at greater risk of adrenal insufficiency during or after withdrawal of treatment.
 Adverse effects including striae have been reported with inappropriate use of topical corticosteroids in infants and children.
 
-HPA-axis suppression, Cushing's syndrome, linear growth retardation, delayed weight gain, and intracranial hypertension have been reported in children receiving topical corticosteroids.
-Manifestations of adrenal suppression in children include low plasma cortisol levels and absence of response to cosyntropin (ACTH1–24) stimulation.
+HPA-axis suppression, Cushing’s syndrome, linear growth retardation, delayed weight gain, and intracranial hypertension have been reported in children receiving topical corticosteroids.
+Manifestations of adrenal suppression in children include low plasma cortisol levels and absence of response to cosyntropin (ACTH1-24) stimulation.
 Manifestations of intracranial hypertension include bulging fontanelles, headaches, and bilateral papilledema.
 
 ## 8.5 Geriatric Use
