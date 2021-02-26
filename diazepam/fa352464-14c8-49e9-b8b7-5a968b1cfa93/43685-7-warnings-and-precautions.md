@@ -1,15 +1,40 @@
 # WARNINGS
 
+Diazepam Autoinjector is to be administered only by the intramuscular (I.M.) route.
+
 ## Risks from Concomitant Use With Opioids
 
 Concomitant use of benzodiazepines, including diazepam, and opioids may result in profound sedation, respiratory depression, coma, and death.
-Because of these risks, reserve concomitant prescribing of benzodiazepines and opioids for use in patients for whom alternative treatment options are inadequate.
+Because of these risks, reserve concomitant prescribing of benzodiazepines and opioids for patients for whom alternative treatment options are inadequate.
 
 Observational studies have demonstrated that concomitant use of opioid analgesics and benzodiazepines increases the risk of drug-related mortality compared to use of opioids alone.
 If a decision is made to prescribe diazepam concomitantly with opioids, prescribe the lowest effective dosages and minimum durations of concomitant use, and follow patients closely for signs and symptoms of respiratory depression and sedation.
-Advise both patients and caregivers about the risks of respiratory depression and sedation when diazepam is used with opioids [see PRECAUTIONS].
+Advise both patients and caregivers about the risks of respiratory depression and sedation when diazepam is used with opioids (see PRECAUTIONS).
 
-Diazepam Autoinjector is to be administered only by the intramuscular (I.M.) route.
+## Abuse, Misuse, and Addiction
+
+The use of benzodiazepines, including Diazepam injection, exposes users to the risks of abuse, misuse, and addiction, which can lead to overdose or death.
+Abuse and misuse of benzodiazepines often (but not always) involve the use of doses greater than the maximum recommended dosage and commonly involve concomitant use of other medications, alcohol, and/or illicit substances, which is associated with an increased frequency of serious adverse outcomes, including respiratory depression, overdose, or death (see DRUG ABUSE AND DEPENDENCE: Abuse).
+
+Before prescribing Diazepam injection and throughout treatment, assess each patient's risk for abuse, misuse, and addiction.
+Use of Diazepam injection, particularly in patients at elevated risk, necessitates counseling about the risks and proper use of Diazepam injection along with monitoring for signs and symptoms of abuse, misuse, and addiction.
+Do not exceed the recommended dosing frequency; avoid or minimize concomitant use of CNS depressants and other substances associated with abuse, misuse, and addiction (e.g., opioid analgesics, stimulants); and advise patients on the proper disposal of unused drug.
+If a substance use disorder is suspected, evaluate the patient and institute (or refer them for) early treatment, as appropriate.
+
+## Dependence and Withdrawal Reactions After Use of Diazepam injection More Frequently Than Recommended
+
+For patients using Diazepam injection more frequently than recommended, to reduce the risk of withdrawal reactions, use a gradual taper to discontinue Diazepam injection (a patient-specific plan should be used to taper the dose).
+
+Patients at an increased risk of withdrawal adverse reactions after benzodiazepine discontinuation or rapid dosage reduction include those who take higher dosages, and those who have had longer durations of use.
+
+### Acute Withdrawal Reactions
+
+The continued use of benzodiazepines may lead to clinically significant physical dependence.
+Although Diazepam injection is indicated only for intermittent use (see INDICATIONS AND USAGE and DOSAGE AND ADMINISTRATION), if used more frequently than recommended, abrupt discontinuation or rapid dosage reduction of Diazepam injection, or administration of flumazenil (a benzodiazepine antagonist) may precipitate acute withdrawal reactions, which can be life-threatening (e.g., seizures) (see DRUG ABUSE AND DEPENDENCE: Dependence).
+
+### Protracted Withdrawal Syndrome
+
+In some cases, benzodiazepine users have developed a protracted withdrawal syndrome with withdrawal symptoms lasting weeks to more than 12 months (see DRUG ABUSE AND DEPENDENCE: Dependence).
 
 ## Respiratory and Central Nervous System Depression
 
@@ -18,7 +43,7 @@ Concomitant use of barbiturates, alcohol, or other central nervous system depres
 Resuscitative equipment including that necessary to support respiration should be readily available.
 
 When diazepam is used with a narcotic analgesic, the dosage of the narcotic should be reduced by at least one-third and administered in small increments.
-In some cases the use of a narcotic may not be necessary [see PRECAUTIONS].
+In some cases the use of a narcotic may not be necessary (see PRECAUTIONS).
 
 Diazepam injection should not be administered to patients in shock, coma, or in acute alcoholic intoxication with depression of vital signs.
 As is true of most CNS-acting drugs, patients receiving diazepam should be cautioned against engaging in hazardous occupations requiring complete mental alertness, such as operating machinery or driving a motor vehicle.
@@ -43,13 +68,9 @@ Efficacy and safety of parenteral diazepam has not been established in the neona
 
 Prolonged central nervous system depression has been observed in neonates, apparently due to inability to biotransform diazepam into inactive metabolites.
 
-## Withdrawal Symptoms
-
-Withdrawal symptoms of the barbiturate type have occurred after the discontinuation of benzodiazepines (see DRUG ABUSE AND DEPENDENCE section).
-
 # PRECAUTIONS
 
-## Drug Interactions:
+## Drug Interactions
 
 ### Effect of Concomitant Use of Benzodiazepines and Opioids
 
@@ -70,7 +91,7 @@ Metabolites of diazepam are excreted by the kidney; to avoid their excess accumu
 The clearance of diazepam and certain other benzodiazepines can be delayed in association with Tagamet (cimetidine) administration.
 The clinical significance of this is unclear.
 
-## Administration Considerations:
+## Administration Considerations
 
 ### Long Term Control of Seizures
 
