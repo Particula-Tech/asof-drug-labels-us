@@ -114,4 +114,16 @@ In two of four placebo-controlled trials in elderly patients with dementia-relat
 No pathological mechanism has been identified to explain this finding, and no consistent pattern for cause of death was observed.
 An increase of mortality in elderly patients with dementia-related psychosis was seen with the use of oral risperidone regardless of concomitant use with furosemide.
 RISPERDAL CONSTA® is not approved for the treatment of patients with dementia-related psychosis.
-[see Boxed Warning and Warnings and Precautions (5.1)]
+[see Boxed Warning and Warnings and Precautions (5.1)].
+
+## 8.6 Renal or Hepatic Impairment
+
+In patients with renal or hepatic impairment, carefully titrate with oral risperidone prior to initiating treatment with RISPERDAL CONSTA® [see Dosage and Administration (2.4)].
+
+Patients with renal impairment may have less ability to eliminate risperidone than patients with normal renal function.
+Patients with impaired hepatic function may have an increase in the free fraction of risperidone, possibly resulting in an enhanced effect [see Clinical Pharmacology (12.3)].
+
+## 8.7 Patients with Parkinson's Disease or Lewy Body Dementia
+
+Patients with Parkinson's Disease or Dementia with Lewy Bodies can experience increased sensitivity to RISPERDAL CONSTA®.
+Manifestations can include confusion, obtundation, postural instability with frequent falls, extrapyramidal symptoms, and clinical features consistent with neuroleptic malignant syndrome.

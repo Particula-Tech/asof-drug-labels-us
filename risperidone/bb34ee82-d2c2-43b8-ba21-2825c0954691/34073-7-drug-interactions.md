@@ -24,31 +24,36 @@ Amitriptyline did not affect the pharmacokinetics of risperidone or of risperido
 Cimetidine and ranitidine increased the bioavailability of oral risperidone by 64% and 26%, respectively.
 However, cimetidine did not affect the AUC of risperidone and 9-hydroxyrisperidone combined, whereas ranitidine increased the AUC of risperidone and 9-hydroxyrisperidone combined by 20%.
 
-## 7.6 Clozapine
+## 7.6 Methylphenidate
+
+Concomitant use with methylphenidate, when there is change in dosage of either medication, may increase the risk of extrapyramidal symptoms (EPS).
+Monitor for symptoms of EPS with concomitant use of RISPERDAL CONSTA® and methylphenidate [see Adverse Reactions (6.2)].
+
+## 7.7 Clozapine
 
 Chronic administration of clozapine with risperidone may decrease the clearance of risperidone.
 
-## 7.7 Lithium
+## 7.8 Lithium
 
 Repeated doses of oral RISPERDAL® (3 mg twice daily) did not affect the exposure (AUC) or peak plasma concentrations (Cmax) of lithium (N=13).
 
-## 7.8 Valproate
+## 7.9 Valproate
 
 Repeated doses of oral RISPERDAL® (4 mg once daily) did not affect the pre-dose or average plasma concentrations and exposure (AUC) of valproate (1000 mg/day in three divided doses) compared to placebo (N=21).
 However, there was a 20% increase in valproate peak plasma concentration (Cmax) after concomitant administration of oral RISPERDAL®.
 
-## 7.9 Digoxin
+## 7.10 Digoxin
 
 Oral RISPERDAL® (0.25 mg twice daily) did not show a clinically relevant effect on the pharmacokinetics of digoxin.
 
-## 7.10 Topiramate
+## 7.11 Topiramate
 
 Oral RISPERDAL® administered at doses from 1–6 mg/day concomitantly with topiramate 400 mg/day resulted in a 23% decrease in risperidone Cmax and a 33% decrease in risperidone AUC0–12 hour at steady state.
 Minimal reductions in the exposure to risperidone and 9-hydroxyrisperidone combined, and no change for 9-hydroxyrisperidone were observed.
 This interaction is unlikely to be of clinical significance.
 There was no clinically relevant effect of oral RISPERDAL® on the pharmacokinetics of topiramate.
 
-## 7.11 Drugs That Inhibit CYP 2D6 and Other CYP Isozymes
+## 7.12 Drugs That Inhibit CYP 2D6 and Other CYP Isozymes
 
 Risperidone is metabolized to 9-hydroxyrisperidone by CYP 2D6, an enzyme that is polymorphic in the population and that can be inhibited by a variety of psychotropic and other drugs [see Clinical Pharmacology (12.3)].
 Drug interactions that reduce the metabolism of risperidone to 9-hydroxyrisperidone would increase the plasma concentrations of risperidone and lower the concentrations of 9-hydroxyrisperidone.
@@ -74,7 +79,7 @@ Erythromycin
 
 There were no significant interactions between oral RISPERDAL® and erythromycin.
 
-## 7.12 Carbamazepine and Other CYP 3A4 Enzyme Inducers
+## 7.13 Carbamazepine and Other CYP 3A4 Enzyme Inducers
 
 Carbamazepine co-administration with oral RISPERDAL® decreased the steady-state plasma concentrations of risperidone and 9-hydroxyrisperidone by about 50%.
 Plasma concentrations of carbamazepine did not appear to be affected.
@@ -87,7 +92,7 @@ For patients treated with the recommended dose of 25 mg RISPERDAL CONSTA® and d
 The efficacy of the 12.5 mg dose has not been investigated in clinical trials.
 [see also Dosage and Administration (2.5)]
 
-## 7.13 Drugs Metabolized by CYP 2D6
+## 7.14 Drugs Metabolized by CYP 2D6
 
 In vitro studies indicate that risperidone is a relatively weak inhibitor of CYP 2D6.
 Therefore, RISPERDAL CONSTA® is not expected to substantially inhibit the clearance of drugs that are metabolized by this enzymatic pathway.

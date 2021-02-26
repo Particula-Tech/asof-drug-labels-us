@@ -15,13 +15,9 @@ The following are discussed in more detail in other sections of the labeling:
 - Seizures [see Warnings and Precautions (5.11)]
 - Dysphagia [see Warnings and Precautions (5.12)]
 - Priapism [see Warnings and Precautions (5.13)]
-- Thrombotic Thrombocytopenic Purpura (TTP) [see Warnings and Precautions (5.14)]
-- Disruption of body temperature regulation [see Warnings and Precautions (5.15)]
-- Avoidance of inadvertent injection into a blood vessel [see Warnings and Precautions (5.16)]
-- Antiemetic effect [see Warnings and Precautions (5.17)]
-- Increased sensitivity in patients with Parkinson's disease or those with dementia with Lewy bodies [see Warnings and Precautions (5.18)]
-- Diseases or conditions that could affect metabolism or hemodynamic responses [see Warnings and Precautions (5.18)]
-- Osteodystrophy and tumors in animals [see Warnings and Precautions (5.19)]
+- Disruption of body temperature regulation [see Warnings and Precautions (5.14)]
+- Avoidance of inadvertent injection into a blood vessel [see Warnings and Precautions (5.15)]
+- Osteodystrophy and tumors in animals [see Warnings and Precautions (5.16)]
 
 The most common adverse reactions in clinical trials in patients with schizophrenia (≥ 5%) were: headache, parkinsonism, dizziness, akathisia, fatigue, constipation, dyspepsia, sedation, weight increased, pain in extremity, and dry mouth.
 The most common adverse reactions in the double-blind, placebo-controlled periods of the bipolar disorder trials were weight increased (5% in the monotherapy trial) and tremor and parkinsonism (≥ 10% in the adjunctive treatment trial).
@@ -57,7 +53,9 @@ Further, because clinical trials are conducted under widely varying conditions, 
 
 The majority of all adverse reactions were mild to moderate in severity.
 
-## 6.1 Commonly-Observed Adverse Reactions in Double-Blind, Placebo-Controlled Clinical Trials - Schizophrenia
+## 6.1 Clinical Trials Experience
+
+Commonly-Observed Adverse Reactions in Double-Blind, Placebo-Controlled Clinical Trials - Schizophrenia
 
 Table 4 lists the adverse reactions reported in 2% or more of RISPERDAL CONSTA®-treated patients with schizophrenia in one 12-week double-blind, placebo-controlled trial.
 
@@ -106,7 +104,7 @@ Adverse Reactions in ≥2% of RISPERDAL CONSTA®-Treated Patients with Schizophr
 | Acne | 2 | 2 | 0 |
 | Dry skin | 2 | 0 | 0 |
 
-## 6.2 Commonly-Observed Adverse Reactions in Double-Blind, Placebo-Controlled Clinical Trials – Bipolar Disorder
+Commonly-Observed Adverse Reactions in Double-Blind, Placebo-Controlled Clinical Trials – Bipolar Disorder
 
 Table 5 lists the treatment-emergent adverse reactions reported in 2% or more of RISPERDAL CONSTA®-treated patients in the 24-month double-blind, placebo-controlled treatment period of the trial assessing the efficacy and safety of RISPERDAL CONSTA® when administered as monotherapy for maintenance treatment in patients with Bipolar I Disorder.
 
@@ -153,7 +151,7 @@ Adverse Reactions in ≥ 4% of Patients with Bipolar Disorder Treated with RISPE
 | Respiratory, thoracic and mediastinal disorders |  |  |
 | Cough | 4 | 1 |
 
-## 6.3 Other Adverse Reactions Observed During the Clinical Trial Evaluation of Risperidone
+Other Adverse Reactions Observed During the Clinical Trial Evaluation of Risperidone
 
 The following additional adverse reactions occurred in < 2% of the RISPERDAL CONSTA®-treated patients in the above schizophrenia double-blind, placebo-controlled trial dataset, in < 2% of the RISPERDAL CONSTA®-treated patients in the above double-blind, placebo-controlled period of the monotherapy bipolar disorder trial dataset, or in < 4% of the RISPERDAL CONSTA®-treated patients in the above double-blind, placebo-controlled period of the adjunctive treatment bipolar disorder trial dataset.
 The following also includes additional adverse reactions reported at any frequency in RISPERDAL CONSTA®-treated patients who participated in the open-label phases of the above bipolar disorder studies and in other studies, including double-blind, active controlled and open-label studies in schizophrenia and bipolar disorder.
@@ -238,7 +236,7 @@ Skin and Subcutaneous Tissue Disorders: erythema, skin discoloration, skin lesio
 
 Vascular Disorders: flushing
 
-## 6.4 Discontinuations Due to Adverse Reactions
+Discontinuations Due to Adverse Reactions
 
 Schizophrenia
 
@@ -252,9 +250,9 @@ In the 24-month double-blind, placebo-controlled treatment period of the trial a
 In the 52-week double-blind phase of the placebo-controlled trial in which RISPERDAL CONSTA® was administered as adjunctive therapy to patients with bipolar disorder in addition to continuing with their treatment as usual, approximately 4% (3/72) of RISPERDAL CONSTA®-treated patients discontinued treatment due to an adverse event, compared with 1.5% (1/67) of placebo-treated patients.
 Adverse reactions associated with discontinuation in RISPERDAL CONSTA®-treated patients were: hypokinesia (one patient) and tardive dyskinesia (one patient).
 
-## 6.5 Dose Dependency of Adverse Reactions in Clinical Trials
+Dose Dependency of Adverse Reactions in Clinical Trials
 
-Extrapyramidal Symptoms:
+Extrapyramidal Symptoms
 
 Two methods were used to measure extrapyramidal symptoms (EPS) in the 12-week double-blind, placebo-controlled trial comparing three doses of RISPERDAL CONSTA® (25 mg, 50 mg, and 75 mg) with placebo in patients with schizophrenia, including: (1) the incidence of spontaneous reports of EPS symptoms; and (2) the change from baseline to endpoint on the total score (sum of the subscale scores for parkinsonism, dystonia, and dyskinesia) of the Extrapyramidal Symptom Rating Scale (ESRS).
 
@@ -269,7 +267,7 @@ Dystonic symptoms include: spasm of the neck muscles, sometimes progressing to t
 While these symptoms can occur at low doses, they occur more frequently and with greater severity with high potency and at higher doses of first generation antipsychotic drugs.
 An elevated risk of acute dystonia is observed in males and younger age groups.
 
-## 6.6 Changes in ECG
+Changes in ECG
 
 The electrocardiograms of 202 schizophrenic patients treated with 25 mg or 50 mg RISPERDAL CONSTA® and 98 schizophrenic patients treated with placebo in the 12-week double-blind, placebo-controlled trial were evaluated.
 Compared with placebo, there were no statistically significant differences in QTc intervals (using Fridericia's and linear correction factors) during treatment with RISPERDAL CONSTA®.
@@ -280,7 +278,7 @@ There were no clinically relevant differences in QTc intervals (using Fridericia
 The electrocardiograms of 85 patients with bipolar disorder were evaluated in the 52-week double-blind, placebo-controlled trial.
 There were no statistically significant differences in QTc intervals (using Fridericia's and linear correction factors) during treatment with RISPERDAL CONSTA® 25 mg, 37.5 mg, or 50 mg when administered as adjunctive treatment in addition to continuing treatment as usual compared to placebo.
 
-## 6.7 Pain Assessment and Local Injection Site Reactions
+Pain Assessment and Local Injection Site Reactions
 
 The mean intensity of injection pain reported by patients with schizophrenia using a visual analog scale (0 = no pain to 100 = unbearably painful) decreased in all treatment groups from the first to the last injection (placebo: 16.7 to 12.6; 25 mg: 12.0 to 9.0; 50 mg: 18.2 to 11.8).
 After the sixth injection (Week 10), investigator ratings indicated that 1% of patients treated with 25 mg or 50 mg RISPERDAL CONSTA® experienced redness, swelling, or induration at the injection site.
@@ -290,9 +288,9 @@ Clinician ratings indicated that only mild redness, swelling, or induration at t
 All ratings returned to baseline at the predose assessment of the next injection 2 weeks later.
 No moderate or severe reactions were observed in any subject.
 
-## 6.8 Postmarketing Experience
+## 6.2 Postmarketing Experience
 
-The following adverse reactions have been identified during postapproval use of risperidone; because these reactions are reported voluntarily from a population of uncertain size, it is not possible to reliably estimate their frequency: agranulocytosis, alopecia, anaphylactic reaction, angioedema, atrial fibrillation, blood cholesterol increased, blood triglycerides increased, diabetes mellitus, diabetic ketoacidosis in patients with impaired glucose metabolism, drug withdrawal syndrome neonatal, dysgeusia, hypoglycemia, hypothermia, ileus, inappropriate antidiuretic hormone secretion, intestinal obstruction, jaundice, mania, pancreatitis, priapism, QT prolongation, sleep apnea syndrome, somnambulism, Stevens-Johnson syndrome and toxic epidermal necrolysis (SJS/TEN), thrombocytopenia, urinary retention, and water intoxication.
+The following adverse reactions have been identified during postapproval use of risperidone; because these reactions are reported voluntarily from a population of uncertain size, it is not possible to reliably estimate their frequency: agranulocytosis, alopecia, anaphylactic reaction, angioedema, atrial fibrillation, blood cholesterol increased, blood triglycerides increased, catatonia, diabetes mellitus, diabetic ketoacidosis in patients with impaired glucose metabolism, drug withdrawal syndrome neonatal, dysgeusia, hypoglycemia, hypothermia, ileus, inappropriate antidiuretic hormone secretion, intestinal obstruction, jaundice, mania, pancreatitis, priapism, QT prolongation, sleep apnea syndrome, somnambulism, Stevens-Johnson syndrome and toxic epidermal necrolysis (SJS/TEN), thrombocytopenia, thrombotic thrombocytopenic purpura, urinary retention, and water intoxication.
 In addition, the following adverse reactions have been observed during postapproval use of RISPERDAL CONSTA®: cerebrovascular disorders, including cerebrovascular accidents, and diabetes mellitus aggravated.
 
 Retinal artery occlusion after injection of RISPERDAL CONSTA® has been reported during postmarketing surveillance.
@@ -302,3 +300,5 @@ Serious injection site reactions including abscess, cellulitis, cyst, hematoma, 
 Isolated cases required surgical intervention.
 
 Very rarely, cases of anaphylactic reaction after injection with RISPERDAL CONSTA® have been reported during postmarketing experience in patients who have previously tolerated oral risperidone.
+
+Postmarketing cases of extrapyramidal symptoms (dystonia and dyskinesia) have been reported in patients concomitantly taking methylphenidate and risperidone when there was an increase or decrease in dosage, initiation, or discontinuation of either or both medications.

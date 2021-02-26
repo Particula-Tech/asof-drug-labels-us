@@ -20,37 +20,30 @@ RISPERDAL CONSTA® is not approved for the treatment of patients with dementia-r
 
 ## 5.3 Neuroleptic Malignant Syndrome
 
-A potentially fatal symptom complex sometimes referred to as Neuroleptic Malignant Syndrome (NMS) has been reported in association with antipsychotic drugs.
-Clinical manifestations of NMS are hyperpyrexia, muscle rigidity, altered mental status, and evidence of autonomic instability (irregular pulse or blood pressure, tachycardia, diaphoresis, and cardiac dysrhythmia).
+Neuroleptic Malignant Syndrome (NMS), a potentially fatal symptom complex, has been reported in association with antipsychotic drugs.
+Clinical manifestations of NMS are hyperpyrexia, muscle rigidity, altered mental status including delirium, and autonomic instability (irregular pulse or blood pressure, tachycardia, diaphoresis, and cardiac dysrhythmia).
 Additional signs may include elevated creatine phosphokinase, myoglobinuria (rhabdomyolysis), and acute renal failure.
 
-The diagnostic evaluation of patients with this syndrome is complicated.
-In arriving at a diagnosis, it is important to identify cases in which the clinical presentation includes both serious medical illness (e.g., pneumonia, systemic infection, etc.) and untreated or inadequately treated extrapyramidal signs and symptoms (EPS).
-Other important considerations in the differential diagnosis include central anticholinergic toxicity, heat stroke, drug fever, and primary central nervous system pathology.
-
-The management of NMS should include: (1) immediate discontinuation of antipsychotic drugs and other drugs not essential to concurrent therapy; (2) intensive symptomatic treatment and medical monitoring; and (3) treatment of any concomitant serious medical problems for which specific treatments are available.
-There is no general agreement about specific pharmacological treatment regimens for uncomplicated NMS.
-
-If a patient requires antipsychotic drug treatment after recovery from NMS, the potential reintroduction of drug therapy should be carefully considered.
-The patient should be carefully monitored, since recurrences of NMS have been reported.
+If NMS is suspected, immediately discontinue RISPERDAL CONSTA® and provide symptomatic treatment and monitoring.
 
 ## 5.4 Tardive Dyskinesia
 
-A syndrome of potentially irreversible, involuntary, dyskinetic movements may develop in patients treated with antipsychotic drugs.
-Although the prevalence of the syndrome appears to be highest among the elderly, especially elderly women, it is impossible to rely upon prevalence estimates to predict, at the inception of antipsychotic treatment, which patients are likely to develop the syndrome.
+Tardive dyskinesia, a syndrome consisting of potentially irreversible, involuntary, dyskinetic movements, may develop in patients treated with antipsychotic drugs.
+Although the prevalence of the syndrome appears to be highest among the elderly, especially elderly women, it is impossible to predict which patients will develop the syndrome.
 Whether antipsychotic drug products differ in their potential to cause tardive dyskinesia is unknown.
 
-The risk of developing tardive dyskinesia and the likelihood that it will become irreversible are believed to increase as the duration of treatment and the total cumulative dose of antipsychotic drugs administered to the patient increase.
-However, the syndrome can develop, although much less commonly, after relatively brief treatment periods at low doses.
+The risk of developing tardive dyskinesia and the likelihood that it will become irreversible increase with the duration of treatment and the cumulative dose.
+The syndrome can develop after relatively brief treatment periods, even at low doses.
+It may also occur after discontinuation of treatment.
 
-The syndrome may remit, partially or completely, if antipsychotic treatment is withdrawn.
-Antipsychotic treatment, itself, however, may suppress (or partially suppress) the signs and symptoms of the syndrome and thereby may possibly mask the underlying process.
+Tardive dyskinesia may remit, partially or completely, if antipsychotic treatment is discontinued.
+Antipsychotic treatment, itself, however, may suppress (or partially suppress) the signs and symptoms of the syndrome, possibly masking the underlying process.
 The effect that symptomatic suppression has upon the long-term course of the syndrome is unknown.
 
 Given these considerations, RISPERDAL CONSTA® should be prescribed in a manner that is most likely to minimize the occurrence of tardive dyskinesia.
-Chronic antipsychotic treatment should generally be reserved for patients who suffer from a chronic illness that: (1) is known to respond to antipsychotic drugs, and (2) for whom alternative, equally effective, but potentially less harmful treatments are not available or appropriate.
-In patients who do require chronic treatment, the smallest dose and the shortest duration of treatment producing a satisfactory clinical response should be sought.
-The need for continued treatment should be reassessed periodically.
+Chronic antipsychotic treatment should generally be reserved for patients: (1) who suffer from a chronic illness that is known to respond to antipsychotic drugs, and (2) for whom alternative, equally effective, but potentially less harmful treatments are not available or appropriate.
+In patients who do require chronic treatment, the lowest dose and the shortest duration of treatment producing a satisfactory clinical response.
+Periodically reassess the need for continued treatment.
 
 If signs and symptoms of tardive dyskinesia appear in a patient treated with RISPERDAL CONSTA®, drug discontinuation should be considered.
 However, some patients may require treatment with RISPERDAL CONSTA® despite the presence of the syndrome.
@@ -196,45 +189,21 @@ RISPERDAL CONSTA® and other antipsychotic drugs should be used cautiously in pa
 
 ## 5.13 Priapism
 
-Priapism has been reported during postmarketing surveillance [see Adverse Reactions (6.8)].
+Priapism has been reported during postmarketing surveillance [see Adverse Reactions (6.2)].
 Severe priapism may require surgical intervention.
 
-## 5.14 Thrombotic Thrombocytopenic Purpura (TTP)
-
-A single case of TTP was reported in a 28 year-old female patient receiving oral RISPERDAL® in a large, open premarketing experience (approximately 1300 patients).
-She experienced jaundice, fever, and bruising, but eventually recovered after receiving plasmapheresis.
-The relationship to RISPERDAL® therapy is unknown.
-
-## 5.15 Body Temperature Regulation
+## 5.14 Body Temperature Regulation
 
 Disruption of body temperature regulation has been attributed to antipsychotic agents.
 Both hyperthermia and hypothermia have been reported in association with oral RISPERDAL® or RISPERDAL CONSTA® use.
 Caution is advised when prescribing RISPERDAL CONSTA® for patients who will be exposed to temperature extremes.
 
-## 5.16 Administration
+## 5.15 Administration
 
 RISPERDAL CONSTA® should be injected into the deltoid or gluteal muscle, and care must be taken to avoid inadvertent injection into a blood vessel.
-[see Dosage and Administration (2) and Adverse Reactions (6.7)]
+[see Dosage and Administration (2) and Adverse Reactions (6)].
 
-## 5.17 Antiemetic Effect
-
-Risperidone has an antiemetic effect in animals; this effect may also occur in humans, and may mask signs and symptoms of overdosage with certain drugs or of conditions such as intestinal obstruction, Reye's syndrome, and brain tumor.
-
-## 5.18 Use in Patients with Concomitant Illness
-
-Clinical experience with RISPERDAL CONSTA® in patients with certain concomitant systemic illnesses is limited.
-Patients with Parkinson's Disease or Dementia with Lewy Bodies who receive antipsychotics, including RISPERDAL CONSTA®, are reported to have an increased sensitivity to antipsychotic medications.
-Manifestations of this increased sensitivity have been reported to include confusion, obtundation, postural instability with frequent falls, extrapyramidal symptoms, and clinical features consistent with the neuroleptic malignant syndrome.
-
-Caution is advisable when using RISPERDAL CONSTA® in patients with diseases or conditions that could affect metabolism or hemodynamic responses.
-RISPERDAL CONSTA® has not been evaluated or used to any appreciable extent in patients with a recent history of myocardial infarction or unstable heart disease.
-Patients with these diagnoses were excluded from clinical studies during the product's premarket testing.
-
-Increased plasma concentrations of risperidone and 9-hydroxyrisperidone occur in patients with severe renal impairment (creatinine clearance <30 mL/min/1.73 m2) treated with oral RISPERDAL®; an increase in the free fraction of risperidone is also seen in patients with severe hepatic impairment.
-Patients with renal or hepatic impairment should be carefully titrated on oral RISPERDAL® before treatment with RISPERDAL CONSTA® is initiated at a dose of 25 mg.
-A lower initial dose of 12.5 mg may be appropriate when clinical factors warrant dose adjustment, such as in patients with renal or hepatic impairment [see Dosage and Administration (2.4)].
-
-## 5.19 Osteodystrophy and Tumors in Animals
+## 5.16 Osteodystrophy and Tumors in Animals
 
 RISPERDAL CONSTA® produced osteodystrophy in male and female rats in a 1-year toxicity study and a 2-year carcinogenicity study at a dose of 40 mg/kg administered IM every 2 weeks.
 

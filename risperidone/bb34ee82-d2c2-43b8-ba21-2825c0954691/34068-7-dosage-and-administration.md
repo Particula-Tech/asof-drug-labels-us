@@ -97,7 +97,7 @@ When fluoxetine or paroxetine is initiated in patients receiving the recommended
 When RISPERDAL CONSTA® is initiated in patients already receiving fluoxetine or paroxetine, a starting dose of 12.5 mg can be considered.
 The efficacy of the 12.5 mg dose has not been investigated in clinical trials.
 The effects of discontinuation of concomitant fluoxetine or paroxetine therapy on the pharmacokinetics of risperidone and 9-hydroxyrisperidone have not been studied.
-[see Drug Interactions (7.11)]
+[see Drug Interactions (7.11)].
 
 ## 2.8 Instructions for Use
 

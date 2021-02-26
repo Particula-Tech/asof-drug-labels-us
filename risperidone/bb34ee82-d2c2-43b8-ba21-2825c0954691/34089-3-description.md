@@ -16,4 +16,4 @@ The diluent for parenteral use is a clear, colorless solution.
 Composition of the diluent includes 1 mg/mL citric acid anhydrous, 1.27 mg/mL disodium hydrogen phosphate dihydrate, 1 mg/mL polysorbate 20, 22.5 mg/mL sodium carboxymethyl cellulose, 6 mg/mL sodium chloride, 0.54 mg/mL sodium hydroxide, and water for injection.
 The microspheres are suspended in the diluent prior to injection.
 
-RISPERDAL CONSTA® is provided as a dose pack, consisting of a vial containing the microspheres, a pre-filled syringe containing the diluent, a vial adapter, and two Terumo SurGuard® 3 Needles (a 21 G UTW 1-inch needle with needle protection device for deltoid administration and a 20 G TW 2-inch needle with needle protection device for gluteal administration).
+RISPERDAL CONSTA® is provided as a single-use dose pack, consisting of a vial containing the microspheres, a pre-filled syringe containing the diluent, a vial adapter, and two Terumo SurGuard® 3 Needles (a 21 G UTW 1-inch needle with needle protection device for deltoid administration and a 20 G TW 2-inch needle with needle protection device for gluteal administration).
