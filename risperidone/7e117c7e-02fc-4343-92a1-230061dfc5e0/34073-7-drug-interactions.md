@@ -5,7 +5,8 @@
 The dose of RISPERDAL® should be adjusted when used in combination with CYP2D6 enzyme inhibitors (e.g., fluoxetine, and paroxetine) and enzyme inducers (e.g., carbamazepine) [see Table 18 and Dosage and Administration (2.5)].
 Dose adjustment is not recommended for RISPERDAL® when co-administered with ranitidine, cimetidine, amitriptyline, or erythromycin [see Table 18].
 
-Table 18 Summary of Effect of Coadministered Drugs on Exposure to Active Moiety (Risperidone + 9-Hydroxy-Risperidone) in Healthy Subjects or Patients with Schizophrenia
+Table 18.
+Summary of Effect of Coadministered Drugs on Exposure to Active Moiety (Risperidone + 9-Hydroxy-Risperidone) in Healthy Subjects or Patients with Schizophrenia
 
 | Coadministered Drug | Risperidone | AUC | Cmax |  |  |
 | --- | --- | --- | --- | --- | --- |
@@ -44,9 +45,9 @@ Dose adjustment for digoxin is not recommended.
 
 ## 7.2 Pharmacodynamic-related Interactions
 
-Centrally-Acting Drugs and Alcohol
+Centrally Acting Drugs and Alcohol
 
-Given the primary CNS effects of risperidone, caution should be used when RISPERDAL® is taken in combination with other centrally-acting drugs and alcohol.
+Given the primary CNS effects of risperidone, caution should be used when RISPERDAL® is taken in combination with other centrally acting drugs and alcohol.
 
 Drugs with Hypotensive Effects
 
@@ -55,6 +56,11 @@ Because of its potential for inducing hypotension, RISPERDAL® may enhance the h
 Levodopa and Dopamine Agonists
 
 RISPERDAL® may antagonize the effects of levodopa and dopamine agonists.
+
+Methylphenidate
+
+Concomitant use with methylphenidate, when there is change in dosage of either medication, may increase the risk of extrapyramidal symptoms (EPS).
+Monitor for symptoms of EPS with concomitant use of RISPERDAL® and methylphenidate [see Adverse Reactions (6.2)].
 
 Clozapine
 

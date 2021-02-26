@@ -1,4 +1,4 @@
-RISPERDAL® Tablets Active ingredient is made in Ireland Finished product is manufactured by: Janssen Ortho, LLC Gurabo, Puerto Rico 00778
+RISPERDAL® Tablets Active ingredient is made in Ireland Finished product is manufactured by: Janssen Ortho LLC Gurabo, Puerto Rico 00778
 
 RISPERDAL® Oral Solution Finished product is manufactured by: Janssen Pharmaceutica NV Beerse, Belgium
 

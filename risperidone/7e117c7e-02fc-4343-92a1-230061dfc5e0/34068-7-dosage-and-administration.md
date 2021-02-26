@@ -99,7 +99,7 @@ Patients experiencing persistent somnolence may benefit from a once-daily dose a
 
 ## 2.4 Dosing in Patients with Severe Renal or Hepatic Impairment
 
-For patients with severe renal impairment (CLcr < 30 mL/min) or hepatic impairment (10–15 points on Child Pugh System), the initial starting dose is 0.5 mg twice daily.
+For patients with severe renal impairment (Clcr< 30 mL/min) or hepatic impairment (10–15 points on Child Pugh System), the initial starting dose is 0.5 mg twice daily.
 The dose may be increased in increments of 0.5 mg or less, administered twice daily.
 For doses above 1.5 mg twice daily, increase in intervals of one week or greater [see Use in Specific Populations (8.6 and 8.7)].
 
