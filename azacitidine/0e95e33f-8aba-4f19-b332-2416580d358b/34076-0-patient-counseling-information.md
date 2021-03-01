@@ -31,5 +31,5 @@ Advise patients not to cut, split, crush, or chew the tablets [see Dosage and Ad
 
 Storage Instructions
 
-Advise patients to keep ONUREG in the original container.
-Advise patients to keep the container tightly closed with both desiccant canisters inside and to not eat the desiccant canisters [see How Supplied/Storage and Handling (16)].
+Advise patients to keep ONUREG in the original container (bottles or blisters).
+If bottles are dispensed, advise patients to keep the container tightly closed with both desiccant canisters inside and to not eat the desiccant canisters [see How Supplied/Storage and Handling (16)].
