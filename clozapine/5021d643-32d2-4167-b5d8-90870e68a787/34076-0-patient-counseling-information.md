@@ -49,4 +49,4 @@ Provide patients (and caregivers) with website information and the telephone num
 
 Distributed by: Aurobindo Pharma USA, Inc. 279 Princeton-Hightstown Road East Windsor, NJ 08520 Manufactured by: Aurobindo Pharma Limited Hyderabad-500 038, India
 
-Revised: 04/2020
+Revised: 02/2021

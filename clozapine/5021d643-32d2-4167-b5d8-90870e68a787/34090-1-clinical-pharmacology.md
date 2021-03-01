@@ -31,7 +31,7 @@ Clozapine is a substrate for many cytochrome P450 isozymes, in particular CYP1A2
 Approximately 50% of the administered dose is excreted in the urine and 30% in the feces.
 The demethylated, hydroxylated, and N-oxide derivatives are components in both urine and feces.
 Pharmacological testing has shown the desmethyl metabolite (norclozapine) to have only limited activity, while the hydroxylated and N-oxide derivatives were inactive.
-The mean elimination half-life of clozapine after a single 75 mg dose was 8 hours (range: 4 to12 hours), compared to a mean elimination half-life of 12 hours (range: 4 to 66 hours), after achieving steady state with 100 mg twice daily dosing.
+The mean elimination half-life of clozapine after a single 75 mg dose was 8 hours (range: 4 to 12 hours), compared to a mean elimination half-life of 12 hours (range: 4 to 66 hours), after achieving steady state with 100 mg twice daily dosing.
 A comparison of single-dose and multiple-dose administration of clozapine demonstrated that the elimination half-life increased significantly after multiple dosing relative to that after single-dose administration, suggesting the possibility of concentration-dependent pharmacokinetics.
 However, at steady state, approximately dose-proportional changes with respect to AUC (area under the curve), peak, and minimum clozapine plasma concentrations were observed after administration of 37.5, 75, and 150 mg twice daily.
 Drug-Drug Interaction Studies Fluvoxamine A pharmacokinetic study was conducted in 16 schizophrenic patients who received clozapine under steady-state conditions.

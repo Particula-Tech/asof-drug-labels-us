@@ -31,10 +31,8 @@ However, concomitant use of clozapine and strong CYP3A4 inducers is not recommen
 
 Consider reducing the clozapine dosage when discontinuing coadministered enzyme inducers; because discontinuation of inducers can result in increased clozapine plasma levels and an increased risk of adverse reactions [see Dosage and Administration (2.6)].
 
-Anticholinergic Drugs
-
-Concomitant treatment with clozapine and other drugs with anticholinergic activity (e.g., benztropine, cyclobenzaprine, diphenhydramine) can increase the risk for anticholinergic toxicity and severe gastrointestinal adverse reactions related to hypomotility.
-Avoid concomitant use of clozapine with anticholinergic drugs when possible [see Warnings and Precautions (5.8, 5.16)]
+Anticholinergic Drugs Concomitant treatment with clozapine and other drugs with anticholinergic activity (e.g., benztropine, cyclobenzaprine, diphenhydramine) can increase the risk for anticholinergic toxicity and severe gastrointestinal adverse reactions related to hypomotility.
+Avoid concomitant use of clozapine with anticholinergic drugs when possible [see Warnings and Precautions (5.8, 5.16)].
 
 Drugs that Cause QT Interval Prolongation
 

@@ -126,58 +126,26 @@ An elevated risk of acute dystonia is observed in males and younger age groups.
 The following adverse reactions have been identified during post-approval use of clozapine.
 Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
 
-Central Nervous System
+Central Nervous System Delirium, EEG abnormal, myoclonus, paresthesia, possible cataplexy, status epilepticus, obsessive compulsive symptoms, restless leg syndrome, and post-discontinuation cholinergic rebound adverse reactions.
 
-Delirium, EEG abnormal, myoclonus, paresthesia, possible cataplexy, status epilepticus, obsessive compulsive symptoms, pleurothotonus, restless legs syndrome and post-discontinuation cholinergic rebound adverse reactions.
+Cardiovascular System Atrial or ventricular fibrillation, ventricular tachycardia, palpitations, QT interval prolongation, Torsades de Pointes, mitral valve incompetence associated with clozapine-related cardiomyopathy, myocardial infarction, cardiac arrest, myocarditis, and periorbital edema.
 
-Cardiovascular System
+Endocrine System Pseudopheochromocytoma Gastrointestinal System Acute pancreatitis, dysphagia, salivary gland swelling, colitis, megacolon, intestinal ischemia or infarction.
 
-Atrial or ventricular fibrillation, ventricular tachycardia, palpitations, QT interval prolongation, Torsades de Pointes, mitral valve incompetence associated with clozapine-related cardiomyopathy, myocardial infarction sometimes fatal, cardiac arrest, myocarditis sometimes fatal and periorbital edema.
-
-Endocrine System
-
-Pseudopheochromocytoma
-
-Gastrointestinal System
-
-Acute pancreatitis, dysphagia, salivary gland swelling, colitis, megacolon, intestinal ischemia or infarction.
-
-Hepatobiliary System
-
-Cholestasis, hepatitis, jaundice, hepatotoxicity, hepatic steatosis, hepatic necrosis, hepatic fibrosis, hepatic cirrhosis, liver injury (hepatic, cholestatic, and mixed), and liver failure.
+Hepatobiliary System Cholestasis, hepatitis, jaundice, hepatotoxicity, hepatic steatosis, hepatic necrosis, hepatic fibrosis, hepatic cirrhosis, liver injury (hepatic, cholestatic, and mixed), and liver failure.
 
 Immune System Disorders
 
 Angioedema, leukocytoclastic vasculitis.
-
-Urogenital System
-
-Acute interstitial nephritis, nocturnal enuresis, priapism, renal failure, and retrograde ejaculation.
-
-Skin and Subcutaneous Tissue Disorders
-
-Hypersensitivity reactions: photosensitivity, vasculitis, erythema multiforme, skin pigmentation disorder, and Stevens-Johnson Syndrome.
-
+Urogenital System Acute interstitial nephritis, nocturnal enuresis, priapism, renal failure, and retrograde ejaculation.
+Skin and Subcutaneous Tissue Disorders Hypersensitivity reactions: photosensitivity, vasculitis, erythema multiforme, skin pigmentation disorder, and Stevens-Johnson Syndrome.
 Musculoskeletal System and Connective Tissue Disorders
 
 Myasthenic syndrome, rhabdomyolysis, and systemic lupus erythematosus.
+Respiratory System Aspiration, pleural effusion, pneumonia, lower respiratory tract infection, sleep apnea.
 
-Respiratory System
+Hemic and Lymphatic System Mild, moderate, or severe leukopenia, agranulocytosis, granulocytopenia, WBC decreased, deep-vein thrombosis, elevated hemoglobin/hematocrit, erythrocyte sedimentation rate (ESR) increased, sepsis, thrombocytosis, and thrombocytopenia.
 
-Aspiration, pleural effusion, pneumonia, lower respiratory tract infection, sleep apnea.
+Vision Disorders Narrow-angle glaucoma.
 
-Hemic and Lymphatic System
-
-Mild, moderate, or severe leukopenia, agranulocytosis, granulocytopenia, WBC decreased, deep-vein thrombosis, elevated hemoglobin/hematocrit, erythrocyte sedimentation rate (ESR) increased, sepsis, thrombocytosis, and thrombocytopenia.
-
-Vision Disorders
-
-Narrow-angle glaucoma.
-
-Metabolic Changes
-
-Obesity
-
-Miscellaneous
-
-Creatine phosphokinase elevation, hyperuricemia, hyponatremia, polyserositis and weight loss.
+Miscellaneous Creatine phosphokinase elevation, hyperuricemia, hyponatremia, polyserositis, and weight loss.
