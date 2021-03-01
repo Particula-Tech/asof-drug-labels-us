@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "ANDA210686"
+  ],
+  "inn": "abiraterone",
+  "labeler": "BluePoint Laboratories",
+  "package_ndcs": [
+    "68001-489-07"
+  ],
+  "products": [
+    {
+      "form": "TABLET",
+      "generic": "abiraterone acetate",
+      "name": "Abiraterone"
+    }
+  ],
+  "setid": "32f6b83d-c743-4934-9a20-1b5bf9f4eea3",
+  "source": "dailymed"
+}
