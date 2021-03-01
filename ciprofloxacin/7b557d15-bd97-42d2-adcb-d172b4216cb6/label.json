@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "NDA020369"
+  ],
+  "inn": "ciprofloxacin",
+  "labeler": "Novartis Pharmaceuticals Corporation",
+  "package_ndcs": [
+    "0078-0841-01"
+  ],
+  "products": [
+    {
+      "form": "OINTMENT",
+      "generic": "ciprofloxacin hydrochloride",
+      "name": "CILOXAN"
+    }
+  ],
+  "setid": "7b557d15-bd97-42d2-adcb-d172b4216cb6",
+  "source": "dailymed"
+}
