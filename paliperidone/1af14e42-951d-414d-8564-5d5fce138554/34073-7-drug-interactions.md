@@ -4,21 +4,15 @@
 
 Because paliperidone palmitate is hydrolyzed to paliperidone [see Clinical Pharmacology (12.3)], results from studies with oral paliperidone should be taken into consideration when assessing drug-drug interaction potential.
 
-Table 13: Clinically Important Drug Interactions with INVEGA SUSTENNA®
+Table 13.
+Clinically Important Drug Interactions with INVEGA SUSTENNA®
 
-| Drugs with Potential for Inducing Orthostatic Hypotension |  |
-| --- | --- |
-| Clinical Impact | Because INVEGA SUSTENNA® has the potential for inducing orthostatic hypotension, an additive effect may occur when INVEGA SUSTENNA® is administered with other therapeutic agents that have this potential [see Warning and Precautions (5.7)] |
-| Intervention | Monitor orthostatic vital signs in patients who are vulnerable to hypotension [see Warnings and Precautions (5.7)] |
-| Examples | Nitrates Antihypertensive medicines: thiazide diuretics (e.g. hydrochlorothiazide); beta blockers (e.g. acebutolol); angiotensin-converting enzyme (ACE) inhibitors (e.g. lisinopril); angiotensin II receptor blockers (ARBs) (e.g. candesartan); calcium channel blockers (e.g. amlodipine); alpha-blockers (e.g. prazosin), alpha-agonists (e.g. clonidine), other diuretics (e.g. loop, K-sparing), vasodilators (e.g. hydralazine) |
-| Strong Inducers of CYP3A4 and P-gp |  |
-| Clinical Impact | The concomitant use of paliperidone and strong inducers of CYP3A4 and P-gp may decrease the exposure of paliperidone [see Clinical Pharmacology (12.3)] |
-| Intervention | Avoid using CYP3A4 and/or P-gp inducers with INVEGA SUSTENNA® during the 1-month dosing interval, if possible. If administering a strong inducer is necessary, consider managing the patient using paliperidone extended release tablets [see Dosage and Administration (2.5)] |
-| Examples | Carbamazepine, rifampin, St John's Wort |
-| Dopamine Agonist |  |
-| Clinical Impact | Paliperidone may antagonize the effect of levodopa and other dopamine agonist |
-| Intervention | Monitor and manage patient as clinically appropriate |
-| Examples | Levodopa, bromocriptine, ropinirole and pramipexole |
+| Concomitant Drug Name or Drug Class | Clinical Rationale | Clinical Recommendation |
+| --- | --- | --- |
+| Centrally Acting Drugs and Alcohol | Given the primary CNS effects of paliperidone, concomitant use of centrally acting drugs and alcohol may modulate the CNS effects of INVEGA SUSTENNA®. | INVEGA SUSTENNA® should be used with caution in combination with other centrally acting drugs and alcohol [see Adverse Reactions (6.1, 6.2)]. |
+| Drugs with Potential for Inducing Orthostatic Hypotension | Because INVEGA SUSTENNA® has the potential for inducing orthostatic hypotension, an additive effect may occur when INVEGA SUSTENNA® is administered with other therapeutic agents that have this potential [see Warnings and Precautions (5.7)]. | Monitor orthostatic vital signs in patients who are vulnerable to hypotension [see Warnings and Precautions (5.7)]. |
+| Strong Inducers of CYP3A4 and P-gp (e.g., carbamazepine, rifampin, or St. John's Wort) | The concomitant use of paliperidone and strong inducers of CYP3A4 and P-gp may decrease the exposure of paliperidone [see Clinical Pharmacology (12.3)]. | Avoid using CYP3A4 and/or P-gp inducers with INVEGA SUSTENNA® during the 1-month dosing interval, if possible. If administering a strong inducer is necessary, consider managing the patient using paliperidone extended-release tablets [see Dosage and Administration (2.5)]. |
+| Levodopa and Other Dopamine Agonists | Paliperidone may antagonize the effect of levodopa and other dopamine agonists. | Monitor and manage patient as clinically appropriate. |
 
 ## 7.2 Drugs Having No Clinically Important Interactions with INVEGA SUSTENNA®
 
