@@ -9,11 +9,11 @@ Table 11 Trials Conducted with BIKTARVY in Subjects with HIV-1 Infection
 | Trial | Population | Trial Arms (N) | Timepoint (Week) |
 | --- | --- | --- | --- |
 | Trial 1489Randomized, double blind, active controlled trial. (NCT 02607930) | Adults with no antiretroviral treatment history | BIKTARVY (314) ABC/DTG/3TC (315) | 48 |
-| Trial 1490 (NCT 02607956) | BIKTARVY (320) DTG + FTC/TAF (325) | 48 |  |
+| Trial 1490 (NCT 02607956) | BIKTARVY (320) DTG + FTC/TAF(325) | 48 |  |
 | Trial 1844 (NCT 02603120) | Virologically-suppressedHIV-1 RNA less than 50 copies per mL. adults | BIKTARVY (282) ABC/DTG/3TC (281) | 48 |
 | Trial 1878Randomized, open label, active controlled trial. (NCT 02603107) | BIKTARVY (290) ATV or DRV (with cobicistat or ritonavir) plus either FTC/TDF or ABC/3TC (287) | 48 |  |
-| Trial 1825 | Virologically-suppressed adults with ESRDEnd stage renal disease (estimated creatinine clearance of less than 15 mL per minute by Cockcroft-Gault method). receiving chronic hemodialysis | FTC+TAF in combination with elvitegravir and cobicistat as a fixed-dose combination (55). In an extension phase of Trial 1825, 10 virologically-suppressed subjects switched to BIKTARVY. | 48Subjects received FTC+TAF in combination with elvitegravir and cobicistat for 96 weeks, followed by an extension phase in which 10 subjects received BIKTARVY for 48 weeks. |
-| Trial 1474Open label trial. (cohort 1) (NCT 02881320) | Virologically-suppressed adolescents between the ages of 12 to less than 18 years (at least 35 kg) | BIKTARVY (50) | 48 |
+| Trial 1825Open label trial. | Virologically-suppressed adults with ESRDEnd stage renal disease (estimated creatinine clearance of less than 15 mL per minute by Cockcroft-Gault method). receiving chronic hemodialysis | FTC+TAF in combination with elvitegravir and cobicistat as a fixed-dose combination (55). In an extension phase of Trial 1825, 10 virologically-suppressed subjects switched to BIKTARVY. | 48Subjects received FTC+TAF in combination with elvitegravir and cobicistat for 96 weeks, followed by an extension phase in which 10 subjects received BIKTARVY for 48 weeks. |
+| Trial 1474 (cohort 1) (NCT 02881320) | Virologically-suppressed adolescents between the ages of 12 to less than 18 years (at least 35 kg) | BIKTARVY (50) | 48 |
 | Trial 1474 (cohort 2) (NCT 02881320) | Virologically-suppressed children between the ages of 6 to less than 12 years (at least 25 kg) | BIKTARVY (50) | 24 |
 
 ## 14.2 Clinical Trial Results in HIV-1 Subjects with No Antiretroviral Treatment History
@@ -33,7 +33,7 @@ The mean baseline plasma HIV-1 RNA was 4.4 log10 copies/mL (range 2.3–6.6).
 The mean baseline CD4+ cell count was 456 cells per mm3 (range 2–1636) and 12% had CD4+ cell counts less than 200 cells per mm3.
 19% of subjects had baseline viral loads greater than 100,000 copies per mL.
 
-In both trials, subjects were stratified by baseline HIV-1 RNA (less than or equal to 100,000 copies per mL, greater than 100,000 copies per mL to less than or equal to 400,000 copies per mL, or greater than 400,000 copies per mL), by CD4 count (less than 50 cells per mm3, 50-199 cells per mm3, or greater than or equal to 200 cells per mm3), and by region (US or ex-US).
+In both trials, subjects were stratified by baseline HIV-1 RNA (less than or equal to 100,000 copies per mL, greater than 100,000 copies per mL to less than or equal to 400,000 copies per mL, or greater than 400,000 copies per mL), by CD4 count (less than 50 cells per mm3, 50–199 cells per mm3, or greater than or equal to 200 cells per mm3), and by region (US or ex-US).
 
 Treatment outcomes of Trials 1489 and 1490 through Week 48 are presented in Table 12.
 

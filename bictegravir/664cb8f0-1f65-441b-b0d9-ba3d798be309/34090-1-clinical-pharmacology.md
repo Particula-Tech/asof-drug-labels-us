@@ -28,13 +28,13 @@ Table 4 Pharmacokinetic Properties of the Components of BIKTARVY
 | --- | --- | --- | --- | --- |
 | Absorption |  |  |  |  |
 | Tmax (h)Values reflect administration of BIKTARVY with or without food. |  | 2.0–4.0 | 1.5–2.0 | 0.5–2.0 |
-| Effect of high-fat meal (relative to fasting)Values refer to geometric mean ratio [high-fat meal/fasting] in PK parameters and (90% confidence interval). High fat meal is approximately 800 kcal, 50% fat. | AUC ratio | 1.24 (1.16, 1.33) | 0.96 (0.93, 0.99) | 1.63 (1.43, 1.85) |
+| Effect of high-fat meal (relative to fasting)Values refer to geometric mean ratio [high-fat meal/ fasting] in PK parameters and (90% confidence interval). High fat meal is approximately 800 kcal, 50% fat. | AUC ratio | 1.24 (1.16, 1.33) | 0.96 (0.93, 0.99) | 1.63 (1.43, 1.85) |
 |  | Cmax ratio | 1.13 (1.06, 1.20) | 0.86 (0.78, 0.93) | 0.92 (0.73, 1.14) |
 | Distribution |  |  |  |  |
 | % bound to human plasma proteins |  | >99 | <4 | ~80 |
 | Blood-to-plasma ratio |  | 0.64 | 0.6 | 1.0 |
 | Elimination |  |  |  |  |
-| t1/2 (h)t 1/2 values refer to median (Q1, Q3) terminal plasma half-life. Note that the active metabolite of TAF, tenofovir diphosphate, has a half-life of 150–180 hours within PBMCs. |  | 17.3 (14.8, 20.7) | 10.4 (9.0, 12.0) | 0.51 (0.45, 0.62) |
+| t1/2 (h)t1/2 values refer to median (Q1, Q3) terminal plasma half-life. Note that the active metabolite of TAF, tenofovir diphosphate, has a half-life of 150–180 hours within PBMCs. |  | 17.3 (14.8, 20.7) | 10.4 (9.0, 12.0) | 0.51 (0.45, 0.62) |
 | Metabolism |  |  |  |  |
 | Metabolic pathway(s) |  | CYP3A UGT1A1 | Not significantly metabolized | Cathepsin AIn vivo, TAF is hydrolyzed within cells to form tenofovir (major metabolite), which is phosphorylated to the active metabolite, tenofovir diphosphate. In vitro studies have shown that TAF is metabolized to tenofovir by cathepsin A in PBMCs and macrophages; and by CES1 in hepatocytes. (PBMCs) CES1 (hepatocytes) |
 | Excretion |  |  |  |  |
@@ -98,7 +98,7 @@ Mean BIC Cmax, and exposures of FTC and TAF (AUCtau and Cmax) achieved in 50 ped
 
 Table 7 Multiple Dose PK Parameters of BIC, FTC, and TAF Following Oral Administration of BIKTARVY in HIV-Infected Pediatric Subjects Aged 6 to less than 12 years
 
-| Parameter Mean (CV%) | BictegravirFrom Population PK analysis of cohort 2 of Trial 1474 (n=50 for BIC; n=47 for TAF). | EmtricitabineFrom Intensive PK analysis of cohort 2 of Trial 1474 (n=25 except n=24 for C trough). | Tenofovir Alafenamide |
+| Parameter Mean (CV%) | BictegravirFrom Population PK analysis of cohort 2 of Trial 1474 (n=50 for BIC; n=47 for TAF). | EmtricitabineFrom Intensive PK analysis of cohort 2 of Trial 1474 (n=25 except n=24 for Ctrough). | Tenofovir Alafenamide |
 | --- | --- | --- | --- |
 | Cmax (microgram per mL) | 9.46 (24.3) | 3.89 (31.0) | 0.205 (44.6) |
 | AUCtau (microgram∙h per mL) | 128 (27.8) | 17.6 (36.9) | 0.278 (40.3) |
@@ -133,7 +133,7 @@ Table 8 Effect of Other Drugs on BICAll interaction studies conducted in healthy
 | Cmax | AUC | Cmin |  |  |  |
 | --- | --- | --- | --- | --- | --- |
 | Coadministered Drug | Dose of Coadministered Drug (mg) | BIC (mg) | Mean Ratio of BIC Pharmacokinetic Parameters (90% CI); No effect = 1.00 |  |  |
-| Ledipasvir/ Sofosbuvir (fed) | 90/400 once daily | 75 once daily | 0.98 (0.94, 1.03) | 1.00 (0.97, 1.03) | 1.04 (0.99, 1.09) |
+| Ledipasvir/Sofosbuvir (fed) | 90/400 once daily | 75 once daily | 0.98 (0.94, 1.03) | 1.00 (0.97, 1.03) | 1.04 (0.99, 1.09) |
 | Rifabutin (fasted) | 300 once daily | 75 once daily | 0.80 (0.67, 0.97) | 0.62 (0.53, 0.72) | 0.44 (0.37, 0.52) |
 | Rifampin (fed) | 600 once daily | 75 single dose | 0.72 (0.67, 0.78) | 0.25 (0.22, 0.27) | NA |
 | Sofosbuvir/ velpatasvir/ voxilaprevir (fed) | 400/100/100+100 voxilaprevirStudy conducted with additional voxilaprevir 100 mg to achieve voxilaprevir exposures expected in HCV-infected patients. once daily | 50 once daily | 0.98 (0.94, 1.01) | 1.07 (1.03, 1.10) | 1.10 (1.05, 1.17) |
@@ -170,14 +170,14 @@ Table 10 Effect of Components of BIKTARVY on Other DrugsAll interaction studies 
 | GS-331007The predominant circulating nucleoside metabolite of sofosbuvir. | 1.10 (1.07, 1.13) | 1.11 (1.08, 1.14) | 1.02 (0.99, 1.06) |  |  |  |
 | Metformin | 500 twice daily | 50 once daily | 25 once daily | 1.28 (1.21, 1.36) | 1.39 (1.31, 1.48) | 1.36 (1.21, 1.53) |
 | Midazolam | 2 single dose | 50 once daily | 25 once daily | 1.03 (0.87, 1.23) | 1.15 (1.00, 1.31) | NA |
-| Norelgestromin | norgestimate 0.180/0.215/0.250 once daily / ethinyl estradiol 0.025 once daily | 75 once daily | - | 1.23 (1.14, 1.32) | 1.08 (1.05, 1.10) | 1.10 (1.05, 1.15) |
+| Norelgestromin | norgestimate 0.180/0.215/0.250 once daily /ethinyl estradiol 0.025 once daily | 75 once daily | - | 1.23 (1.14, 1.32) | 1.08 (1.05, 1.10) | 1.10 (1.05, 1.15) |
 | Norgestrel | 1.15 (1.10, 1.21) | 1.13 (1.07, 1.19) | 1.14 (1.06, 1.22) |  |  |  |
 | Ethinyl estradiol | 1.15 (1.03, 1.27) | 1.04 (0.99, 1.10) | 1.05 (0.95, 1.14) |  |  |  |
 | Norelgestromin | norgestimate 0.180/0.215/0.250 once daily / ethinyl estradiol 0.025 once daily | - | 25 once dailyStudy conducted with emtricitabine/tenofovir alafenamide. | 1.17 (1.07,1.26) | 1.12 (1.07,1.17) | 1.16 (1.08, 1.24) |
 | Norgestrel | 1.10 (1.02, 1.18) | 1.09 (1.01, 1.18) | 1.11 (1.03, 1.20) |  |  |  |
 | Ethinyl estradiol | 1.22 (1.15, 1.29) | 1.11 (1.07, 1.16) | 1.02 (0.92, 1.12) |  |  |  |
 | Sertraline | 50 single dose | - | 10 once dailyStudy conducted with elvitegravir/cobicistat/emtricitabine/tenofovir alafenamide. | 1.14 (0.94, 1.38) | 0.93 (0.77, 1.13) | NA |
-| Sofosbuvir | 400/100/100+ 100Study conducted with additional voxilaprevir 100 mg to achieve voxilaprevir exposures expected in HCV-infected patients. once daily | 50 once daily | 25 once daily | 1.14 (1.04,1.25) | 1.09 (1.02, 1.15) | NA |
+| Sofosbuvir | 400/100/100+100Study conducted with additional voxilaprevir 100 mg to achieve voxilaprevir exposures expected in HCV-infected patients. once daily | 50 once daily | 25 once daily | 1.14 (1.04,1.25) | 1.09 (1.02, 1.15) | NA |
 | GS-331007 | 1.03 (0.99,1.06) | 1.03 (1.00,1.06) | 1.01 (0.98, 1.05) |  |  |  |
 | Velpatasvir | 0.96 (0.91,1.01) | 0.96 (0.90, 1.02) | 0.94 (0.88, 1.01) |  |  |  |
 | Voxilaprevir | 0.90 (0.76, 1.06) | 0.91 (0.80, 1.03) | 0.97 (0.88, 1.06) |  |  |  |

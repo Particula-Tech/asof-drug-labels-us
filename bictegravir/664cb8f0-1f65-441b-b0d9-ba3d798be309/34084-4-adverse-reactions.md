@@ -95,9 +95,9 @@ The other adverse reactions that occurred in single subjects were similar to tho
 
 ## 6.2 Postmarketing Experience
 
-The following events have been identified during post approval use of products containing TAF.
+The following events have been identified during post approval use of BIKTARVY or products containing TAF.
 Because these events are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
 
 Skin and Subcutaneous Tissue Disorders
 
-Angioedema and urticaria
+Angioedema, Stevens-Johnson syndrome/toxic epidermal necrolysis, and urticaria
