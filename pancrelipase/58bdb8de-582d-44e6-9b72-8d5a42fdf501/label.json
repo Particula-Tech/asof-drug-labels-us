@@ -1,0 +1,20 @@
+{
+  "application_numbers": [
+    "BLA022542"
+  ],
+  "inn": "pancrelipase",
+  "labeler": "Nestle Healthcare Nutrition, Inc.",
+  "package_ndcs": [
+    "73562-104-10",
+    "73562-208-10"
+  ],
+  "products": [
+    {
+      "form": "TABLET",
+      "generic": "pancrelipase",
+      "name": "Viokace"
+    }
+  ],
+  "setid": "58bdb8de-582d-44e6-9b72-8d5a42fdf501",
+  "source": "dailymed"
+}
