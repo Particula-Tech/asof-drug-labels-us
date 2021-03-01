@@ -116,3 +116,8 @@ Dosing must be individualized according to the patient's renal function status [
 
 No dosage adjustment is required in patients with mild to moderate hepatic impairment.
 INVEGA® has not been studied in patients with severe hepatic impairment.
+
+## 8.8 Patients with Parkinson's Disease or Lewy Body Dementia
+
+Patients with Parkinson's Disease or Dementia with Lewy Bodies can experience increased sensitivity to INVEGA®.
+Manifestations can include confusion, obtundation, postural instability with frequent falls, extrapyramidal symptoms, and clinical features consistent with neuroleptic malignant syndrome.

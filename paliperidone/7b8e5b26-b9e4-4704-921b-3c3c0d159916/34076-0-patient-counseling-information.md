@@ -2,25 +2,52 @@
 
 Physicians are advised to discuss the following issues with patients for whom they prescribe INVEGA®.
 
+Neuroleptic Malignant Syndrome (NMS)
+
+Counsel patients about a potentially fatal adverse reaction, Neuroleptic Malignant Syndrome (NMS), that has been reported in association with administration of antipsychotic drugs.
+Advise patients, family members, or caregivers to contact their healthcare provider or report to the emergency room if they experience signs and symptoms of NMS, including hyperpyrexia, muscle rigidity, altered mental status including delirium, and evidence of autonomic instability (irregular pulse or blood pressure, tachycardia, diaphoresis, and cardiac dysrhythmia) [see Warnings and Precautions (5.3)].
+
+Tardive Dyskinesia
+
+Counsel patients on the signs and symptoms of tardive dyskinesia and to contact their healthcare provider if these abnormal movements occur [see Warnings and Precautions (5.5)].
+
+Metabolic Changes
+
+Educate patients about the risk of metabolic changes, how to recognize symptoms of hyperglycemia and diabetes mellitus, and the need for specific monitoring, including blood glucose, lipids, and weight [see Warnings and Precautions (5.6)].
+
 Orthostatic Hypotension
 
-Patients should be advised that there is risk of orthostatic hypotension, particularly at the time of initiating treatment, re-initiating treatment, or increasing the dose [see Warnings and Precautions (5.9)].
+Educate patients about the risk of orthostatic hypotension and syncope, particularly at the time of initiating treatment, re-initiating treatment, or increasing the dose [see Warnings and Precautions (5.9)].
+
+Leukopenia/Neutropenia
+
+Advise patients with a pre-existing low WBC or a history of drug-induced leukopenia/neutropenia they should have their CBC monitored while taking INVEGA® [see Warnings and Precautions (5.11)].
+
+Hyperprolactinemia
+
+Counsel patients on signs and symptoms of hyperprolactinemia that may be associated with chronic use of INVEGA®.
+Advise them to seek medical attention if they experience any of the following: amenorrhea or galactorrhea in females, erectile dysfunction or gynecomastia in males [see Warnings and Precautions (5.7)].
 
 Interference with Cognitive and Motor Performance
 
-As INVEGA® has the potential to impair judgment, thinking, or motor skills, patients should be cautioned about operating hazardous machinery, including automobiles, until they are reasonably certain that INVEGA® therapy does not affect them adversely [see Warnings and Precautions (5.12)].
+Caution patients about performing activities requiring mental alertness, such as operating hazardous machinery, or operating a motor vehicle, until they are reasonably certain that INVEGA® therapy does not affect them adversely [see Warnings and Precautions (5.12)].
 
-Concomitant Medication
+Priapism
 
-Patients should be advised to inform their physicians if they are taking, or plan to take, any prescription or over-the-counter drugs, as there is a potential for interactions [see Drug Interactions (7)].
-
-Alcohol
-
-Patients should be advised to avoid alcohol while taking INVEGA® [see Drug Interactions (7.1)].
+Advise patients of the possibility of painful or prolonged penile erections (priapism).
+Instruct the patient to seek immediate medical attention in the event of priapism [see Warnings and Precautions (5.15)].
 
 Heat Exposure and Dehydration
 
-Patients should be advised regarding appropriate care in avoiding overheating and dehydration [see Warnings and Precautions (5.18)].
+Counsel patients on the importance of avoiding overheating and dehydration [see Warnings and Precautions (5.16)].
+
+Concomitant Medication
+
+Advise patients to inform their healthcare providers if they are taking, or plan to take, any prescription or over-the-counter drugs, as there is a potential for interactions [see Drug Interactions (7)].
+
+Alcohol
+
+Advise patients to avoid alcohol while taking INVEGA® [see Drug Interactions (7.1)].
 
 Administration
 
