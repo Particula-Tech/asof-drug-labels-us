@@ -39,8 +39,9 @@ These infections can be severe, and at times fatal.
 The degree to which the dose, route, and duration of corticosteroid administration correlates with the specific risks of infection is not well characterized; however, the rate of occurrence of infectious complications increases with increasing doses of corticosteroids.
 
 Monitor for the development of infection and consider withdrawal of corticosteroids or reduction of the dose of corticosteroids as needed.
+Varicella Zoster and Measles Viral Infections
 
-Varicella Zoster and Measles Viral Infections Chickenpox caused by Varicella Zoster virus and measles can have a serious or even fatal course in non-immune children or adults on corticosteroids, including EMFLAZA.
+Chickenpox caused by Varicella Zoster virus and measles can have a serious or even fatal course in non-immune children or adults on corticosteroids, including EMFLAZA.
 In children or adults who have not had these diseases, particular care should be taken to avoid exposure.
 If a patient is exposed to chickenpox, prophylaxis with varicella zoster immune globulin (VZIG) may be indicated.
 If a patient is exposed to measles, prophylaxis with immunoglobulin (IG) may be indicated.
