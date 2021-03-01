@@ -1,6 +1,6 @@
 # 1INDICATIONS AND USAGE
 
-## 1.1 Major Depressive Disorder
+## 1.1Major Depressive Disorder
 
 Lexapro (escitalopram) is indicated for the acute and maintenance treatment of major depressive disorder in adults and in adolescents 12 to 17 years of age [see Clinical Studies (14.1)].
 

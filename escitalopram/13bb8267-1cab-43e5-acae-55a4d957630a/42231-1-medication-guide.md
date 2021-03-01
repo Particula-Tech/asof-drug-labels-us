@@ -55,7 +55,7 @@ Severe allergic reactions:
 - rash, itchy welts (hives) or blisters, alone or with fever or joint pain
 
 4.
-Abnormal bleeding: Lexapro and other antidepressant medicines may increase your risk of bleeding or bruising, especially if you take the blood thinner warfarin (Coumadin®, Jantoven®), a non-steroidal anti-inflammatory drug (NSAIDs, like ibuprofen or naproxen), or aspirin.
+Abnormal bleeding: Lexapro and other antidepressant medicines may increase your risk of bleeding or bruising, especially if you take the blood thinner warfarin (Coumadin®, Jantoven®), a non-steroidal antiinflammatory drug (NSAIDs, like ibuprofen or naproxen), or aspirin.
 
 5.
 Seizures or convulsions
@@ -121,7 +121,7 @@ Do not take Lexapro if you:
   See the end of this Medication Guide for a complete list of ingredients in Lexapro.
 - Take a monoamine oxidase inhibitor (MAOI).
   Ask your healthcare provider or a pharmacist if you are not sure if you take an MAOI, including linezolid.
-- Do not take an MAOI within 2 weeks of stopping Lexapro unless directed to do so by your physician.
+- Do not take an MAOI within 2 weeks of stopping Lexapro unless directed to do so by your physician
 - Do not start Lexapro if you stopped taking an MAOI in the last 2 weeks unless directed to do so by your physician.
 
 People who take Lexapro close in time to an MAOI may have serious or even life-threatening side effects.
@@ -133,6 +133,7 @@ Get medical help right away if you have any of these symptoms:
 - rapid changes in heart rate or blood pressure
 - confusion
 - loss of consciousness (pass out)
+
 - Do not take Lexapro with Orap® (pimozide) because taking these two drugs together can cause serious heart problems.
 
 What should I tell my healthcare provider before taking Lexapro?
@@ -263,4 +264,4 @@ This Medication Guide has been approved by the U.S. Food and Drug Administration
 © 2020 Allergan.
 All rights reserved.
 
-v2.0MG2010
+v3.0MG2010

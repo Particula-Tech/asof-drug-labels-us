@@ -44,11 +44,11 @@ Patients should be told that, although Lexapro has not been shown in experiments
 
 Pregnancy
 
-Advise pregnant women to notify their healthcare providers if they become pregnant or intend to become pregnant during treatment with Lexapro.
+Advise pregnant women to notify their healthcare providers if they become pregnant or intend to become pregnant during treatment with LEXAPRO.
 
-Advise patients that Lexapro use later in pregnancy may lead to increased risk for neonatal complications requiring prolonged hospitalization, respiratory support, tube feeding, and/or persistent pulmonary hypertension (PPHN) of the newborn [see Use in Specific Populations (8.1)].
+Advise patients that LEXAPRO use later in pregnancy may lead to increased risk for neonatal complications requiring prolonged hospitalization, respiratory support, tube feeding, and/or persistent pulmonary hypertension (PPHN) of the newborn [see Use in Specific Populations (8.1)].
 
-Advise women that there is a pregnancy exposure registry that monitors pregnancy outcomes in women exposed to Lexapro during pregnancy [see Use in Specific Populations (8.1)].
+Advise women that there is a pregnancy exposure registry that monitors pregnancy outcomes in women exposed to LEXAPRO during pregnancy [see Use in Specific Populations (8.1)].
 
 Lactation
 
@@ -71,7 +71,7 @@ Madison, NJ 07940
 
 Licensed from H. Lundbeck A/S
 
-© 2020 Allergan.
+© 2021 Allergan.
 All rights reserved.
 
-V2.0USPI2120
+V3.0USPI2120

@@ -63,7 +63,7 @@ The most commonly observed adverse reactions in Lexapro patients (incidence of a
 Table 2 enumerates the incidence, rounded to the nearest percent, of treatment-emergent adverse events that occurred among 715 depressed patients who received Lexapro at doses ranging from 10 to 20 mg/day in placebo-controlled trials.
 Events included are those occurring in 2% or more of patients treated with Lexapro and for which the incidence in patients treated with Lexapro was greater than the incidence in placebo-treated patients.
 
-| Table 2 |  |  |
+| TABLE 2 |  |  |
 | --- | --- | --- |
 | Treatment-Emergent Adverse Reactions observed with a frequency of ≥ 2% and greater than placebo for Major Depressive Disorder |  |  |
 | Adverse Reaction | Lexapro (N=715) % | Placebo (N=592) % |
@@ -109,7 +109,7 @@ The most commonly observed adverse reactions in Lexapro patients (incidence of a
 Table 3 enumerates the incidence, rounded to the nearest percent of treatment-emergent adverse events that occurred among 429 GAD patients who received Lexapro 10 to 20 mg/day in placebo-controlled trials.
 Events included are those occurring in 2% or more of patients treated with Lexapro and for which the incidence in patients treated with Lexapro was greater than the incidence in placebo-treated patients.
 
-| Table 3 |  |  |
+| TABLE 3 |  |  |
 | --- | --- | --- |
 | Treatment-Emergent Adverse Reactions observed with a frequency of ≥ 2% and greater than placebo for Generalized Anxiety Disorder |  |  |
 | Adverse Reactions | Lexapro (N=429) % | Placebo (N=427) % |
@@ -162,7 +162,9 @@ Table 4 shows common adverse reactions that occurred in the 20 mg/day Lexapro gr
 | TABLE 4 |  |  |  |
 | --- | --- | --- | --- |
 | Incidence of Common Adverse Reactions in Patients with Major Depressive Disorder |  |  |  |
-| Adverse Reaction | Placebo (N=311) | 10 mg/day Lexapro (N=310) | 20 mg/day Lexapro (N=125) |
+| Adverse Reaction | Placebo | 10 mg/day | 20 mg/day |
+|  | (N=311) | Lexapro | Lexapro |
+|  |  | (N=310) | (N=125) |
 | Insomnia | 4% | 7% | 14% |
 | Diarrhea | 5% | 6% | 14% |
 | Dry Mouth | 3% | 4% | 9% |
@@ -223,7 +225,7 @@ None of the patients in the Lexapro group had a QTcF interval >500 msec or a pro
 The incidence of tachycardic outliers was 0.2% in the Lexapro and the placebo group.
 The incidence of bradycardic outliers was 0.5% in the Lexapro group and 0.2% in the placebo group.
 
-QTcF interval was evaluated in a randomized, placebo and active (moxifloxacin 400 mg) controlled cross-over, escalating multiple-dose study in 113 healthy subjects.
+QTcF interval was evaluated in a randomized, placebo and active (moxifloxacin 400 mg) controlled cross-over, escalating multiple dose study in 113 healthy subjects.
 The maximum mean (95% upper confidence bound) difference from placebo arm were 4.5 (6.4) and 10.7 (12.7) msec for 10 mg and supratherapeutic 30 mg escitalopram given once daily, respectively.
 Based on the established exposure-response relationship, the predicted QTcF change from placebo arm (95% confidence interval) under the Cmax for the dose of 20 mg is 6.6 (7.9) msec.
 Escitalopram 30 mg given once daily resulted in mean Cmax of 1.7-fold higher than the mean Cmax for the maximum recommended therapeutic dose at steady state (20 mg).

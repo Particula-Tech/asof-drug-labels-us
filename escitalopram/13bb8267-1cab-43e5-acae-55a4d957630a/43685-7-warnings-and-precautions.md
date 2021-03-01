@@ -37,7 +37,7 @@ Lexapro should also not be started in a patient who is being treated with MAOIs 
 All reports with methylene blue that provided information on the route of administration involved intravenous administration in the dose range of 1 mg/kg to 8 mg/kg.
 No reports involved the administration of methylene blue by other routes (such as oral tablets or local tissue injection) or at lower doses.
 There may be circumstances when it is necessary to initiate treatment with an MAOI such as linezolid or intravenous methylene blue in a patient taking Lexapro.
-Lexapro should be discontinued before initiating treatment with the MAOI [see Contraindications (4.1) and Dosage and Administration (2.6 and 2.7)].
+Lexapro should be discontinued before initiating treatment with the MAOI [see Contraindications (4.1) and Dosage and Administration (2.5 and 2.6)].
 
 If concomitant use of Lexapro with other serotonergic drugs including, triptans, tricyclic antidepressants, fentanyl, lithium, tramadol, buspirone, tryptophan, amphetamine and St. John’s Wort is clinically warranted, patients should be made aware of a potential increased risk for serotonin syndrome, particularly during treatment initiation and dose increases.
 
@@ -51,7 +51,7 @@ While these events are generally self-limiting, there have been reports of serio
 Patients should be monitored for these symptoms when discontinuing treatment with Lexapro.
 A gradual reduction in the dose rather than abrupt cessation is recommended whenever possible.
 If intolerable symptoms occur following a decrease in the dose or upon discontinuation of treatment, then resuming the previously prescribed dose may be considered.
-Subsequently, the physician may continue decreasing the dose but at a more gradual rate [see Dosage and Administration (2.5)].
+Subsequently, the physician may continue decreasing the dose but at a more gradual rate [see Dosage and Administration (2.4)].
 
 ## 5.4Seizures
 
@@ -83,7 +83,7 @@ Signs and symptoms associated with more severe and/or acute cases have included 
 ## 5.7Abnormal Bleeding
 
 SSRIs and SNRIs, including Lexapro, may increase the risk of bleeding events.
-Concomitant use of aspirin, nonsteroidal anti-inflammatory drugs, warfarin, and other anticoagulants may add to the risk.
+Concomitant use of aspirin, nonsteroidal antiinflammatory drugs, warfarin, and other anticoagulants may add to the risk.
 Case reports and epidemiological studies (case-control and cohort design) have demonstrated an association between use of drugs that interfere with serotonin reuptake and the occurrence of gastrointestinal bleeding.
 Bleeding events related to SSRIs and SNRIs use have ranged from ecchymoses, hematomas, epistaxis, and petechiae to life-threatening hemorrhages.
 
@@ -107,7 +107,7 @@ Lexapro has not been systematically evaluated in patients with a recent history 
 Patients with these diagnoses were generally excluded from clinical studies during the product's premarketing testing.
 
 In subjects with hepatic impairment, clearance of racemic citalopram was decreased and plasma concentrations were increased.
-The recommended dose of Lexapro in hepatically impaired patients is 10 mg/day [see Dosage and Administration (2.4)].
+The recommended dose of Lexapro in hepatically impaired patients is 10 mg/day [see Dosage and Administration (2.3)].
 
 Because escitalopram is extensively metabolized, excretion of unchanged drug in urine is a minor route of elimination.
-Until adequate numbers of patients with severe renal impairment have been evaluated during chronic treatment with Lexapro, however, it should be used with caution in such patients [see Dosage and Administration (2.4)].
+Until adequate numbers of patients with severe renal impairment have been evaluated during chronic treatment with Lexapro, however, it should be used with caution in such patients [see Dosage and Administration (2.3)].

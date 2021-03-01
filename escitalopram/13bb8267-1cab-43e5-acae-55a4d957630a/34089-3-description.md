@@ -1,6 +1,6 @@
 # 11DESCRIPTION
 
-Lexapro® contains escitalopram oxalate, an orally administered selective serotonin reuptake inhibitor (SSRI).
+Lexapro contains escitalopram, an orally administered selective serotonin reuptake inhibitor (SSRI).
 Escitalopram is the pure S-enantiomer (single isomer) of the racemic bicyclic phthalane derivative citalopram.
 Escitalopram oxalate is designated S-(+)-1-[3(dimethyl-amino)propyl]-1-(p-fluorophenyl)-5-phthalancarbonitrile oxalate with the following structural formula:
 
@@ -15,6 +15,6 @@ The 10 and 20 mg tablets are scored.
 The tablets also contain the following inactive ingredients: talc, croscarmellose sodium, microcrystalline cellulose/colloidal silicon dioxide, and magnesium stearate.
 The film coating contains hypromellose, titanium dioxide, and polyethylene glycol.
 
-Lexapro oral solution contains 1.29 mg/mL escitalopram oxalate equivalent to 1 mg/mL escitalopram base.
+Lexapro oral solution contains 1.29 mg/ml escitalopram oxalate equivalent to 1 mg/mL escitalopram base.
 It also contains the following inactive ingredients: sorbitol, purified water, citric acid, sodium citrate, malic acid, glycerin, propylene glycol, methylparaben, propylparaben, and natural peppermint flavor.
 The oral solution is not currently marketed.
