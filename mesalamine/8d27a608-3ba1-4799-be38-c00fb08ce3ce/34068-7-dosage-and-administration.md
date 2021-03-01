@@ -1,6 +1,14 @@
 # 2 DOSAGE AND ADMINISTRATION
 
-The recommended dose for maintenance of remission of ulcerative colitis in adult patients is 1.5 g (four mesalamine extended-release capsules) orally once daily in the morning.
-Mesalamine extended-release capsules may be taken without regard to meals.
-Mesalamine extended-release capsules should not be co-administered with antacids.
-An evaluation of renal function is recommended before initiating therapy with mesalamine extended-release capsules.
+Dosage
+
+The recommended dosage in adults is 1.5 g (four 0.375 g capsules) orally once daily in the morning.
+
+Administration Instructions
+
+- •Evaluate renal function before initiating therapy with mesalamine extended-release capsules [see Warnings and Precautions (5.1)].
+- •Swallow mesalamine extended-release capsules whole.
+  Do not cut, break, crush or chew the capsules.
+- •Avoid co-administration of mesalamine extended-release capsules with antacids [see Drug Interactions (7.1)].
+- •Drink an adequate amount of fluids [see Warnings and Precautions (5.5)].
+- •Take mesalamine extended-release capsules without regard to meals [see Clinical Pharmacology (12.3)].
