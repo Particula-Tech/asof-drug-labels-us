@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "ANDA213410"
+  ],
+  "inn": "rufinamide",
+  "labeler": "Ascend Laboratories, LLC",
+  "package_ndcs": [
+    "67877-673-62"
+  ],
+  "products": [
+    {
+      "form": "SUSPENSION",
+      "generic": "rufinamide",
+      "name": "Rufinamide"
+    }
+  ],
+  "setid": "a02ca527-bd8f-49ef-89fa-91fac154bffe",
+  "source": "dailymed"
+}
