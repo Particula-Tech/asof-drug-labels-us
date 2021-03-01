@@ -2,7 +2,7 @@
 
 ## 16.1 How Supplied
 
-Ertapenem for injection is supplied as a sterile lyophilized powder in single dose vials containing ertapenem for intravenous infusion or for intramuscular injection as follows:
+Ertapenem for injection is supplied as a sterile lyophilized powder in single-dose vials containing ertapenem for intravenous infusion or for intramuscular injection as follows:
 
 NDC 42023-221-85 in trays of 10 vials.
 
