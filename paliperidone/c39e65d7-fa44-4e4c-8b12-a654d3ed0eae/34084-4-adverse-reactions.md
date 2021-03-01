@@ -36,7 +36,7 @@ Commonly Observed Adverse Reactions: The most common adverse reactions (incidenc
 Discontinuation of Treatment Due to Adverse Events: The percentages of subjects who discontinued due to adverse events in the long-term maintenance trial were 5.1% during the open-label phase.
 During the double-blind phase, no INVEGA TRINZA®-treated subject and one placebo-treated subject discontinued due to adverse events.
 
-Adverse Reactions Occurring at an Incidence of 2% or More in INVEGA TRINZA®Treated Patients: The safety profile of INVEGA TRINZA® was similar to that seen with the 1-month paliperidone extended-release injectable suspension.
+Adverse Reactions Occurring at an Incidence of 2% or More in INVEGA TRINZA®-Treated Patients: The safety profile of INVEGA TRINZA® was similar to that seen with the 1-month paliperidone extended-release injectable suspension.
 Table 8 lists the adverse reactions reported in a long-term maintenance trial in subjects with schizophrenia.
 
 Table 8.
@@ -200,7 +200,7 @@ Vascular disorders: hypotension, ischemia
 
 ## 6.2 Postmarketing Experience
 
-The following adverse reactions have been identified during postapproval use of paliperidone; because these reactions were reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure: angioedema, ileus, somnambulism, swollen tongue, thrombotic thrombocytopenic purpura, urinary incontinence, and urinary retention.
+The following adverse reactions have been identified during postapproval use of paliperidone; because these reactions were reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure: angioedema, catatonia, ileus, somnambulism, swollen tongue, thrombotic thrombocytopenic purpura, urinary incontinence, and urinary retention.
 
 Cases of anaphylactic reaction after injection with the 1-month paliperidone palmitate extended-release suspension have been reported during postmarketing experience in patients who have previously tolerated oral risperidone or oral paliperidone.
 

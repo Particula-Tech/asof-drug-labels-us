@@ -18,19 +18,12 @@ These medications are not approved for the treatment of patients with dementia-r
 
 ## 5.3 Neuroleptic Malignant Syndrome
 
-A potentially fatal symptom complex sometimes referred to as Neuroleptic Malignant Syndrome (NMS) has been reported in association with antipsychotic drugs, including paliperidone.
-Clinical manifestations of NMS are hyperpyrexia, muscle rigidity, altered mental status, and evidence of autonomic instability (irregular pulse or blood pressure, tachycardia, diaphoresis, and cardiac dysrhythmia).
+Neuroleptic Malignant Syndrome (NMS), a potentially fatal symptom complex, has been reported in association with antipsychotic drugs, including paliperidone.
+
+Clinical manifestations of NMS are hyperpyrexia, muscle rigidity, altered mental status including delirium, and autonomic instability (irregular pulse or blood pressure, tachycardia, diaphoresis, and cardiac dysrhythmia).
 Additional signs may include elevated creatine phosphokinase, myoglobinuria (rhabdomyolysis), and acute renal failure.
 
-The diagnostic evaluation of patients with this syndrome is complicated.
-In arriving at a diagnosis, it is important to identify cases in which the clinical presentation includes both serious medical illness (e.g., pneumonia, systemic infection, etc.) and untreated or inadequately treated extrapyramidal signs and symptoms (EPS).
-Other important considerations in the differential diagnosis include central anticholinergic toxicity, heat stroke, drug fever, and primary central nervous system pathology.
-
-The management of NMS should include: (1) immediate discontinuation of antipsychotic drugs and other drugs not essential to concurrent therapy; (2) intensive symptomatic treatment and medical monitoring; and (3) treatment of any concomitant serious medical problems for which specific treatments are available.
-Consideration should be given to the long-acting nature of INVEGA TRINZA®.
-There is no general agreement about specific pharmacological treatment regimens for uncomplicated NMS.
-
-If a patient appears to require antipsychotic drug treatment after recovery from NMS, reintroduction of drug therapy should be closely monitored, since recurrences of NMS have been reported.
+If NMS is suspected, immediately discontinue INVEGA TRINZA and provide symptomatic treatment and monitoring.
 
 ## 5.4 QT Prolongation
 
@@ -53,20 +46,22 @@ In the long-term maintenance trial of INVEGA TRINZA® in subjects with schizophr
 
 ## 5.5 Tardive Dyskinesia
 
-A syndrome of potentially irreversible, involuntary, dyskinetic movements may develop in patients treated with antipsychotic drugs.
+Tardive dyskinesia, a syndrome consisting of potentially irreversible, involuntary, dyskinetic movements, may develop in patients treated with antipsychotic drugs.
 Although the prevalence of the syndrome appears to be highest among the elderly, especially elderly women, it is impossible to predict which patients will develop the syndrome.
 Whether antipsychotic drug products differ in their potential to cause tardive dyskinesia is unknown.
 
-The risk of developing tardive dyskinesia and the likelihood that it will become irreversible appear to increase as the duration of treatment and the total cumulative dose of antipsychotic drugs administered to the patient increase, but the syndrome can develop after relatively brief treatment periods at low doses, although this is uncommon.
+The risk of developing tardive dyskinesia and the likelihood that it will become irreversible appear to increase with the duration of treatment and the cumulative dose.
+The syndrome can develop after relatively brief treatment periods, even at low doses.
+It may also occur after discontinuation of treatment.
 
-The syndrome may remit, partially or completely, if antipsychotic treatment is withdrawn.
-Antipsychotic treatment itself may suppress (or partially suppress) the signs and symptoms of the syndrome and may thus mask the underlying process.
-The effect of symptomatic suppression on the long-term course of the syndrome is unknown.
+Tardive dyskinesia may remit, partially or completely, if antipsychotic treatment is discontinued.
+Antipsychotic treatment, itself, however, may suppress (or partially suppress) the signs and symptoms of the syndrome possibly masking the underlying process.
+The effect that symptomatic suppression has upon the long-term course of the syndrome is unknown.
 
 Given these considerations, INVEGA TRINZA® should be prescribed in a manner that is most likely to minimize the occurrence of tardive dyskinesia.
-Chronic antipsychotic treatment should generally be reserved for patients who suffer from a chronic illness that is known to respond to antipsychotic drugs.
-In patients who do require chronic treatment, the smallest dose and the shortest duration of treatment producing a satisfactory clinical response should be sought.
-The need for continued treatment should be reassessed periodically.
+Chronic antipsychotic treatment should generally be reserved for patients: (1) who suffer from a chronic illness that is known to respond to antipsychotic drugs, and (2) for whom alternative, equally effective, but potentially less harmful treatments are not available or appropriate.
+In patients who do require chronic treatment, use the lowest dose and the shortest duration of treatment producing a satisfactory clinical response.
+Periodically reassess the need for continued treatment.
 
 If signs and symptoms of tardive dyskinesia appear in a patient treated with INVEGA TRINZA®, drug discontinuation should be considered.
 Consideration should be given to the long-acting nature of INVEGA TRINZA®.
