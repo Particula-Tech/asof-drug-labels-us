@@ -3,9 +3,10 @@
     "NDA213422"
   ],
   "inn": "betamethasone",
-  "labeler": "MC2 Therapeutics Inc",
+  "labeler": "MC2 Therapeutics Ltd",
   "package_ndcs": [
-    "73499-001-01"
+    "73499-001-01",
+    "73499-001-03"
   ],
   "products": [
     {
