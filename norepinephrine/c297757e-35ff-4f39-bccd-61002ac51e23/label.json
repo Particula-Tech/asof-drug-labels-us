@@ -1,0 +1,20 @@
+{
+  "application_numbers": [
+    "ANDA211382"
+  ],
+  "inn": "norepinephrine",
+  "labeler": "Fresenius Kabi USA, LLC",
+  "package_ndcs": [
+    "63323-940-04",
+    "63323-940-21"
+  ],
+  "products": [
+    {
+      "form": "SOLUTION",
+      "generic": "norepinephrine bitartrate",
+      "name": "Norepinephrine Bitartrate"
+    }
+  ],
+  "setid": "c297757e-35ff-4f39-bccd-61002ac51e23",
+  "source": "dailymed"
+}
