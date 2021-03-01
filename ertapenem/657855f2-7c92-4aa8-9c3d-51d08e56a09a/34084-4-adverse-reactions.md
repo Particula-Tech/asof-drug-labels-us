@@ -5,7 +5,7 @@ The following are described in greater detail in the Warnings and Precautions se
 - Hypersensitivity Reactions [see Warnings and Precautions (5.1)]
 - Seizure Potential [see Warnings and Precautions (5.2)]
 - Interaction with Valproic Acid [see Warnings and Precautions (5.3)]
-- Clostridium difficile-Associated Diarrhea (CDAD) [see Warnings and Precautions (5.4)]
+- Clostridioides difficile-Associated Diarrhea (CDAD) [see Warnings and Precautions (5.4)]
 - Caution with Intramuscular Administration [see Warnings and Precautions (5.5)]
 - Development of Drug-Resistant Bacteria [see Warnings and Precautions (5.6)]
 - Laboratory Tests [see Warnings and Precautions (5.7)]
@@ -78,7 +78,7 @@ In a clinical trial for the treatment of diabetic foot infections in which 289 a
 
 Prophylaxis of Surgical Site Infection following Elective Colorectal Surgery
 
-In a clinical trial in adults for the prophylaxis of surgical site infection following elective colorectal surgery in which 476 patients received a 1 g dose of ertapenem for injection 1 hour prior to surgery and were then followed for safety 14 days post surgery, the overall adverse experience profile was generally comparable to that observed for ertapenem for injection in previous clinical trials.
+In a clinical trial in adults for the prophylaxis of surgical site infection following elective colorectal surgery in which 476 patients received a 1 g dose of ertapenem for injection 1 hour prior to surgery and were then followed for safety 14 days post-surgery, the overall adverse experience profile was generally comparable to that observed for ertapenem for injection in previous clinical trials.
 Table 4 shows the incidence of adverse experiences other than those previously described above for ertapenem for injection that were reported regardless of causality in ≥2.0% of patients in this trial.
 
 Table 4 Incidence (%) of Adverse Experiences Reported During Study Therapy Plus 14-Day Follow-Up in ≥2.0% of Adult Patients Treated With Ertapenem for Injection for Prophylaxis of Surgical Site Infections Following Elective Colorectal Surgery
@@ -178,7 +178,7 @@ Nervous System Disorders: coordination abnormal, depressed level of consciousnes
 
 Psychiatric Disorders: altered mental status (including aggression, delirium), hallucinations
 
-Skin and Subcutaneous Tissue Disorders: Acute Generalized Exanthematous Pustulosis (AGEP), Drug Reaction with Eosinophilia and Systemic Symptoms (DRESS syndrome)
+Skin and Subcutaneous Tissue Disorders: Acute Generalized Exanthematous Pustulosis (AGEP), Drug Reaction with Eosinophilia and Systemic Symptoms (DRESS syndrome), hypersensitivity vasculitis
 
 ## 6.3 Adverse Laboratory Changes in Clinical Trials
 
@@ -209,7 +209,7 @@ In a clinical trial for the treatment of diabetic foot infections in which 289 a
 
 Prophylaxis of Surgical Site Infection following Elective Colorectal Surgery
 
-In a clinical trial in adults for the prophylaxis of surgical site infection following elective colorectal surgery in which 476 patients received a 1 g dose of ertapenem for injection 1 hour prior to surgery and were then followed for safety 14 days post surgery, the overall laboratory adverse experience profile was generally comparable to that observed for ertapenem for injection in previous clinical trials.
+In a clinical trial in adults for the prophylaxis of surgical site infection following elective colorectal surgery in which 476 patients received a 1 g dose of ertapenem for injection 1 hour prior to surgery and were then followed for safety 14 days post-surgery, the overall laboratory adverse experience profile was generally comparable to that observed for ertapenem for injection in previous clinical trials.
 
 Pediatric Patients Receiving Ertapenem for Injection as a Treatment Regimen
 

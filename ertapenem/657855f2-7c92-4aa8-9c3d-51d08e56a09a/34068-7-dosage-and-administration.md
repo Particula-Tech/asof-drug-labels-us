@@ -32,7 +32,7 @@ Table 1 Treatment Guidelines for Adults and Pediatric Patients With Normal Renal
 | Complicated skin and skin structure infections, including diabetic foot infectionsErtapenem for injection has not been studied in diabetic foot infections with concomitant osteomyelitis [see Clinical Studies (14.1)]. | 1 g | 15 mg/kg twice daily | 7 to 14 daysadult patients with diabetic foot infections received up to 28 days of treatment (parenteral or parenteral plus oral switch therapy) |
 | Community acquired pneumonia | 1 g | 15 mg/kg twice daily | 10 to 14 daysduration includes a possible switch to an appropriate oral therapy, after at least 3 days of parenteral therapy, once clinical improvement has been demonstrated. |
 | Complicated urinary tract infections, including pyelonephritis | 1 g | 15 mg/kg twice daily | 10 to 14 days |
-| Acute pelvic infections including postpartum endomyometritis, septic abortion and post surgical gynecologic infections | 1 g | 15 mg/kg twice daily | 3 to 10 days |
+| Acute pelvic infections including postpartum endomyometritis, septic abortion and post-surgical gynecologic infections | 1 g | 15 mg/kg twice daily | 3 to 10 days |
 
 ## 2.3 Prophylactic Regimen in Adults
 
