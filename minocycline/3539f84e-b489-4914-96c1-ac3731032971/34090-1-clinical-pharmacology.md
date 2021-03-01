@@ -1,6 +1,6 @@
 # CLINICAL PHARMACOLOGY
 
-Following a single dose of two 100 mg tablet of minocycline hydrochloride administered to 28 normal fasting adult volunteers, maximum serum concentrations were attained in 1 to 3 hours (average 1.71 hours) and ranged from 491.71 to 1292.70 ng/mL (average 758.29 ng/mL).
+Following a single dose of two 100 mg tablet of minocycline hydrochloride administered to 28 normal fasting adult volunteers, maximum serum concentrations were attained in 1 to 3 hours (average 1.71 hours) and ranged from 491.71 to 1,292.70 ng/mL (average 758.29 ng/mL).
 The serum half-life in the normal volunteers ranged from 11.38 to 24.31 hours (average 17.03 hours).
 
 When minocycline hydrochloride tablets were given concomitantly with a meal, which included dairy products, the extent of absorption of minocycline hydrochloride tablets was slightly decreased (6%).
@@ -28,7 +28,7 @@ Bacillus anthracis Listeria monocytogenes Staphylococcus aureus Streptococcus pn
 
 Gram-negative Bacteria
 
-Bartonella bacilliformis Brucella species Klebsiella granulomatis Campylobacter fetus Francisella tularensis Haemophilus ducreyi Vibrio cholerae Yersinia pestis Acinetobacter species Enterobacter aerogenes Escherichia coli Haemophilus influenzae Klebsiella species Neisseria gonorrhoeae1 Neisseria meningitidis1 Shigella species
+Bartonella bacilliformis Brucella species Klebsiella granulomatis Campylobacter fetus Francisella tularensis Haemophilus ducreyi Vibrio cholerae Yersinia pestis Acinetobacter species Enterobacter aerogenes Escherichia coli Haemophilus influenzae Klebsiella species Neisseria gonorrhoeae 1 Neisseria meningitidis 1 Shigella species
 
 Other Microorganisms Actinomyces species Borrelia recurrentis Chlamydophila psittaci Chlamydia trachomatis Clostridium species Entamoeba species Fusobacterium nucleatum subspecies fusiforme Mycobacterium marinum Mycoplasma pneumoniae Propionibacterium acnes Rickettsiae Treponema pallidum subspecies pallidum Treponema pallidum subspecies pertenue Ureaplasma urealyticum
 
@@ -41,14 +41,15 @@ Dilution techniques:
 
 Quantitative methods are used to determine antimicrobial minimal inhibitory concentrations (MICs).
 These MICs provide estimates of the susceptibility of bacteria to antimicrobial compounds.
-The MICs should be determined using a standardized test method (broth or agar) or equivalent with standardized inoculum concentrations and standardized concentrations of tetracycline (class) or minocycline powder1,2.
+The MICs should be determined using a standardized test method (broth or agar) or equivalent with standardized inoculum concentrations and standardized concentrations of tetracycline (class) or minocycline powder 1,2.
 The MIC values should be interpreted according to the criteria provided in Table 1.
 
 Diffusion techniques:
 
 Quantitative methods that require measurement of zone diameters also provide reproducible estimates of the susceptibility of bacteria to antimicrobial compounds.
 The zone size provides an estimate of the susceptibility of bacteria to antimicrobial compounds.
-The zone size should be determined using a standardized method.2,3 This procedure uses paper disks impregnated with 30 µg tetracycline (class disk) or 30 µg minocycline to test the susceptibility of microorganisms to minocycline.
+The zone size should be determined using a standardized method.
+2,3 This procedure uses paper disks impregnated with 30 µg tetracycline (class disk) or 30 µg minocycline to test the susceptibility of microorganisms to minocycline.
 The disk diffusion interpretive criteria are provided in Table 1.
 
 Table 1: Susceptibility Test Interpretive Criteria for Minocycline and Tetracycline
@@ -56,16 +57,16 @@ Table 1: Susceptibility Test Interpretive Criteria for Minocycline and Tetracycl
 | Species | Minimal InhibitoryConcentration(mcg/mL) |  |  | ZoneDiameter(mm) |  |  | AgarDilution(mcg/mL) |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 |  | S | I | R | S | I | R | S | I | R |
-| EnterobacteriaceaeaMinocyclineTetracycline | ≤ 4 ≤ 4 | 8 8 | ≥16 ≥16 | ≥16 ≥15 | 13 to 15 12 to 14 | ≤ 12 ≤ 11 |  |  |  |
-| AcinetobacteraMinocycline | ≤ 4 | 8 | ≥16 | ≥16 | 13 to 15 | ≤ 12 |  |  |  |
+| Enterobacteriaceae aMinocyclineTetracycline | ≤ 4 ≤ 4 | 8 8 | ≥16 ≥16 | ≥16 ≥15 | 13 to 15 12 to 14 | ≤ 12 ≤ 11 |  |  |  |
+| Acinetobacter aMinocycline | ≤ 4 | 8 | ≥16 | ≥16 | 13 to 15 | ≤ 12 |  |  |  |
 | Tetracycline | ≤ 4 | 8 | ≥16 | ≥15 | 12 to 14 | ≤ 11 |  |  |  |
 | Haemophilus influenzaeTetracycline | ≤ 2 | 4 | ≥8 | ≥29 | 26 to 28 | ≤ 25 |  |  |  |
 | Streptococcus pneumoniaeTetracycline | ≤ 1 | 2 | ≥4 | ≥28 | 25 to 27 | ≤ 24 |  |  |  |
-| Staphylococcus aureusaMinocycline Tetracycline | ≤ 4 ≤ 4 | 8 8 | ≥16 ≥16 | ≥19 ≥19 | 15 to 18 15 to 18 | ≤ 14 ≤ 14 |  |  |  |
-| Vibrio choleraeaMinocyclineTetracycline | ≤ 4 ≤ 4 | 8 8 | ≥16 ≥16 | ≥16 ≥19 | 13 to 15 15 to 18 | ≤ 12 ≤ 14 |  |  |  |
-| Neisseria meningitidisbMinocycline | -- | -- | -- | ≥26 | -- | -- | ≤2 | -- | -- |
-| Bacillus anthracisbTetracycline | ≤ 1 | -- | -- |  |  |  |  |  |  |
-| Francisella tularensisbTetracycline | ≤ 4 | -- | -- |  |  |  |  |  |  |
+| Staphylococcus aureus aMinocycline Tetracycline | ≤ 4 ≤ 4 | 8 8 | ≥16 ≥16 | ≥19 ≥19 | 15 to 18 15 to 18 | ≤ 14 ≤ 14 |  |  |  |
+| Vibrio cholerae aMinocyclineTetracycline | ≤ 4 ≤ 4 | 8 8 | ≥16 ≥16 | ≥16 ≥19 | 13 to 15 15 to 18 | ≤ 12 ≤ 14 |  |  |  |
+| Neisseria meningitidis bMinocycline | -- | -- | -- | ≥26 | -- | -- | ≤2 | -- | -- |
+| Bacillus anthracis bTetracycline | ≤ 1 | -- | -- |  |  |  |  |  |  |
+| Francisella tularensis bTetracycline | ≤ 4 | -- | -- |  |  |  |  |  |  |
 | Yersinia pestis Tetracycline | ≤ 4 | 8 | ≥16 |  |  |  |  |  |  |
 | a Organisms that are susceptible to tetracycline are also considered susceptible to minocycline. However, some organisms that are intermediate or resistant to tetracycline may be susceptible to minocycline. |  |  |  |  |  |  |  |  |  |
 | b The current absence of resistance isolates precludes defining any result other than “susceptible”. If isolates yielding MIC results other than susceptible, they should be submitted to a reference laboratory for further testing. |  |  |  |  |  |  |  |  |  |
@@ -78,17 +79,18 @@ A report of Resistant (R) indicates that the antimicrobial drug is not likely to
 
 Quality Control
 
-Standardized susceptibility test procedures require the use of laboratory controls to monitor and ensure the accuracy and precision of supplies and reagents used in the assay, and the techniques of the individuals performing the test.1,2,3 Standard tetracycline (class compound) or minocycline powder should provide the following range of MIC values noted in Table 2.
+Standardized susceptibility test procedures require the use of laboratory controls to monitor and ensure the accuracy and precision of supplies and reagents used in the assay, and the techniques of the individuals performing the test.
+1,2,3 Standard tetracycline (class compound) or minocycline powder should provide the following range of MIC values noted in Table 2.
 For the disc diffusion technique, using the 30 mcg tetracycline or 30 mcg minocycline disk the criteria in Table 2 should be achieved.
 
 Table 2: Acceptable Quality Control Ranges for Minocycline and Tetracycline
 
 | Species | MinimalInhibitoryConcentration(mcg/mL) | ZoneDiameter(mm) | AgarDilution(mcg/mL) |
 | --- | --- | --- | --- |
-| Enterococcus faecalis ATCC 29212MinocyclineTetracycline | 1 to 4 8 to 32 | -- -- | -- -- |
-| Escherichia coli ATCC 25922MinocyclineTetracycline | 0.25 to 1 0.5 to 2 | 19 to 25 18 to 25 | -- -- |
-| Haemophilus influenzae ATCC 49247Tetracycline | 4 to 32 | 14 to 22 | -- |
-| Neisseria gonorrhoeae ATCC 49226Tetracycline | -- | 30 to 42 | 0.25 to 1 |
-| Staphylococcus aureus ATCC 25923MinocyclineTetracycline |  | 25 to 30 24 to 30 | -- -- |
-| Staphylococcus aureus ATCC 29213 MinocyclineTetracycline | 0.06 to 0.5 0.12 to 1 |  | -- -- |
+| Enterococcus faecalis ATCC 29212 MinocyclineTetracycline | 1 to 4 8 to 32 | -- -- | -- -- |
+| Escherichia coli ATCC 25922 MinocyclineTetracycline | 0.25 to 1 0.5 to 2 | 19 to 25 18 to 25 | -- -- |
+| Haemophilus influenzae ATCC 49247 Tetracycline | 4 to 32 | 14 to 22 | -- |
+| Neisseria gonorrhoeae ATCC 49226 Tetracycline | -- | 30 to 42 | 0.25 to 1 |
+| Staphylococcus aureus ATCC 25923 MinocyclineTetracycline |  | 25 to 30 24 to 30 | -- -- |
+| Staphylococcus aureus ATCC 29213 Minocycline Tetracycline | 0.06 to 0.5 0.12 to 1 |  | -- -- |
 | Streptococcus pneumoniae ATCC 49619Tetracycline | 0.06 to 0.5 | 27 to 31 | -- |

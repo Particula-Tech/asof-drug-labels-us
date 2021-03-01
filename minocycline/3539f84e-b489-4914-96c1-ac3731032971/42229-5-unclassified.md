@@ -133,7 +133,7 @@ This Patient Information leaflet summarizes the most important information about
 
 If you would like more information, talk with your doctor.
 Your doctor or pharmacist can give you information about minocycline hydrochloride tablets, USP that is written for health care professionals.
-For more information, you can also call Torrent Pharmaceuticals Inc. at 1-269-544-2299.
+For more information, you can also call Torrent Pharmaceuticals Inc. at 1-800-912-9561.
 
 What are the ingredients in minocycline hydrochloride tablets, USP?
 
@@ -147,18 +147,10 @@ Trademarks are the property of their respective owners.
 
 Manufactured by:
 
-Ohm Laboratories Inc., North Brunswick, NJ 08902.
+TORRENT PHARMACEUTICALS LTD., INDIA
 
-8064300 Revised May 2017
-
-​Manufactured by:
-
-TORRENT PHARMACEUTICALS LTD.
-
-Bharuch-392130, INDIA.
-
-8065295 Revised May 2018
-
-​Manufactured for:
+​​Manufactured for:
 
 ​TORRENT PHARMA INC., Basking Ridge, NJ 07920.
+
+8078130 February 2020

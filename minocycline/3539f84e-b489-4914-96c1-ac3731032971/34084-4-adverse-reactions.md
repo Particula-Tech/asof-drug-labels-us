@@ -62,4 +62,4 @@ Lupus-like syndrome consisting of positive antinuclear antibody; arthralgia, art
 Serum sickness-like syndrome consisting of fever; urticaria or rash; and arthralgia, arthritis, joint stiffness, or joint swelling and lymphadenopathy.
 Eosinophilia may be present.
 
-To report SUSPECTED ADVERSE REACTIONS, contact Torrent Pharmaceuticals Inc. at 1-269-544-2299 or FDA at 1-800-FDA-1088 or www.fda.gov/medwatch.
+To report SUSPECTED ADVERSE REACTIONS, contact Torrent Pharmaceuticals Inc. at 1-800-912-9561 or FDA at 1-800-FDA-1088 or www.fda.gov/medwatch.

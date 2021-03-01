@@ -8,9 +8,7 @@ Minocycline Hydrochloride Tablets, USP
 
 PHARMACIST: Dispense the accompanying Patient Information Sheet to each patient.
 
-​Manufactured by: ​Ohm Laboratories Inc.
-
-​Manufactured by: TORRENT PHARMACEUTICALS LTD.
+​​Manufactured by: TORRENT PHARMACEUTICALS LTD.
 
 # PACKAGE LABEL.PRINCIPAL DISPLAY PANEL - 75 mg
 
@@ -21,8 +19,6 @@ Minocycline Hydrochloride Tablets, USP
 Rx only
 
 PHARMACIST: Dispense the accompanying Patient Information Sheet to each patient.
-
-Manufactured by: Ohm Laboratories Inc.
 
 Manufactured by: TORRENT PHARMACEUTICALS LTD.
 
@@ -35,7 +31,5 @@ Minocycline Hydrochloride Tablets, USP
 Rx only
 
 PHARMACIST: Dispense the accompanying Patient Information Sheet to each patient.
-
-Manufactured by: Ohm Laboratories Inc.
 
 Manufactured by: TORRENT PHARMACEUTICALS LTD.
