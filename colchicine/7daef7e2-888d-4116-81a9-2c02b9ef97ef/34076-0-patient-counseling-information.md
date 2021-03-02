@@ -42,4 +42,4 @@ Advise males of reproductive potential that colchicine may rarely and transientl
 Distributed by: Amneal Pharmaceuticals LLC Bridgewater, NJ 08807
 
 Rev.
-05-2020-02
+01-2021-03
