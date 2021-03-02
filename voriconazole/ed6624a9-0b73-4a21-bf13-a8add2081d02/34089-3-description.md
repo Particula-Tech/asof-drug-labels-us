@@ -8,5 +8,5 @@ Voriconazole is designated chemically as (2R,3S)-2-(2, 4-difluorophenyl)-3-(5-fl
 Voriconazole, USP drug substance is a white to light-colored powder.
 
 Voriconazole for Oral Suspension is a white to off-white powder providing a white to off-white orange-flavored suspension when reconstituted.
-Bottles containing 45 grams powder for oral suspension are intended for reconstitution with water to produce a suspension containing 40 mg/mL voriconazole, USP.
+Bottles containing 45 grams powder for oral suspension, which contain 3 g of voriconazole, are intended for reconstitution with water to produce a suspension containing 40 mg/mL voriconazole, USP.
 The inactive ingredients include anhydrous citric acid, colloidal silicon dioxide, natural and artificial orange flavor, sodium benzoate, sodium citrate, sucrose, titanium dioxide, and xanthan gum.

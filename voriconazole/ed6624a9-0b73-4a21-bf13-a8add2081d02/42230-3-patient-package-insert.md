@@ -23,6 +23,7 @@ Do not take voriconazole for oral suspension if you:
 | o sirolimus | o rifampin | o carbamazepine |
 | o long-acting barbiturates like phenobarbital | o efavirenz | o ritonavir |
 | o rifabutin | o ergotamine, dihydroergotamine (ergot alkaloids) | o St. John’s Wort (herbal supplement) |
+| o naloxegol | o tolvaptan |  |
 
 Ask your healthcare provider or pharmacist if you are not sure if you are taking any of the medicines listed above.
 Do not start taking a new medicine without talking to your healthcare provider or pharmacist.
@@ -31,6 +32,8 @@ Before you take voriconazole for oral suspension, tell your healthcare provider 
 
 - have or ever had heart disease, or an abnormal heart rate or rhythm.
   Your healthcare provider may order a test to check your heart (EKG) before starting voriconazole for oral suspension.
+- have low potassium levels, low magnesium levels, and low calcium levels.
+  Your healthcare provider may do blood tests before starting and during treatment with voriconazole for oral suspension.
 - have liver or kidney problems.
   Your healthcare provider may do blood tests to make sure you can take voriconazole for oral suspension.
 - have trouble digesting dairy products, lactose (milk sugar), or regular table sugar.
@@ -40,7 +43,7 @@ Before you take voriconazole for oral suspension, tell your healthcare provider 
   Talk to your healthcare provider if you are pregnant or plan to become pregnant.
   Women who can become pregnant should use effective birth control while taking voriconazole for oral suspension.
   Talk to your healthcare provider about birth control methods that may be right for you.
-- are breast-feeding or plan to breast-feed.
+- are breastfeeding or plan to breastfeed.
   It is not known if voriconazole passes into breast milk.
   Talk to your healthcare provider about the best way to feed your baby if you take voriconazole for oral suspension.
 
@@ -116,6 +119,29 @@ Voriconazole for oral suspension may cause serious side effects including:
 - blistering or peeling of your skin
 - trouble swallowing or breathing
 
+- adrenal gland problems:
+
+- Voriconazole for oral suspension may cause reduced adrenal function (adrenal insufficiency).
+- Voriconazole for oral suspension may cause overactive adrenal function (Cushing’s syndrome) when voriconazole is used at the same time with corticosteroids.
+
+Symptoms of adrenal insufficiency include:
+
+| feeling tired | lack of energy | weakness |
+| --- | --- | --- |
+| nausea and vomiting | feeling dizzy or lightheaded | weight loss |
+| abdominal pain |  |  |
+
+Symptoms of Cushing’s syndrome include:
+
+| weight gain | fatty hump between the shoulders (buffalo of the skin hump) and a rounded face (moon face) | darkening of the skin on the stomach, thighs, breasts, and arms |
+| --- | --- | --- |
+| thinning skin | bruising easily | high blood sugar |
+| excessive hair growth | excessive sweating |  |
+
+- bone problems.
+  Voriconazole for oral suspension may cause weakening of bones and bone pain.
+  Tell your healthcare provider if you have bone pain.
+
 Call your healthcare provider or go to the nearest hospital emergency room right away if you have any of the symptoms listed above.
 
 The most common side effects of voriconazole for oral suspension in adults include:
@@ -126,17 +152,18 @@ The most common side effects of voriconazole for oral suspension in adults inclu
 | hallucinations (seeing or hearing things that are not there) | abnormal liver function tests | fever |
 |  | chills |  |
 
-The most common side effects of voriconazole in children include:
+The most common side effects of voriconazole for oral suspension in children include:
 
-| fever | stomach pain | nose bleeds |
+| fever | high blood pressure | Inflammation of mucous membranes |
 | --- | --- | --- |
-| diarrhea | high blood pressure | low blood potassium levels |
-| low platelet counts | cough | Inflammation of mucous membranes |
-| abnormal liver function tests | low blood pressure | constipation |
+| diarrhea | cough | hallucinations (seeing or hearing things that are not there) |
+| low platelet counts | low blood pressure | coughing up blood |
+| abnormal liver function tests | swelling in the arms and legs | constipation |
 | low blood calcium levels | high blood sugar levels | low blood magnesium levels |
 | low blood phosphate levels | headache | Fullness of the stomach area |
 | vision changes | fast heart beat (tachycardia) | vomiting |
-| rash |  | nausea |
+| rash | nose bleeds | nausea |
+| stomach pain | low blood potassium levels | upper respiratory tract infection |
 
 Tell your healthcare provider if you have any side effect that bothers you or that does not go away.
 
@@ -165,16 +192,16 @@ You can ask your healthcare provider or pharmacist for information about voricon
 
 What are the ingredients in voriconazole for oral suspension?
 
-Active ingredient: voriconazole, USP
+Active ingredient: voriconazole, USP.
 
 Inactive ingredients:
 
-Voriconazole oral suspension: anhydrous citric acid, colloidal silicon dioxide, natural and artificial orange flavor, sodium benzoate, sodium citrate, sucrose, titanium dioxide, and xanthan gum
+Voriconazole oral suspension: anhydrous citric acid, colloidal silicon dioxide, natural and artificial orange flavor, sodium benzoate, sodium citrate, sucrose, titanium dioxide, and xanthan gum.
 
-For more information, go to www.amneal.com or call 1-877-835-5472
+For more information, go to www.amneal.com or call 1-877-835-5472.
 
-This product’s label may have been updated.
-For current full prescribing information, please visit www.amneal.com or call 1-877-835-5472.
+This product’s labeling may have been updated.
+For the most recent prescribing information, please visit www.amneal.com or call 1-877-835-5472.
 
 This Patient Information has been approved by the U.S. Food and Drug Administration.
 
@@ -185,4 +212,4 @@ Amneal Pharmaceuticals LLC
 Bridgewater, NJ 08807
 
 Rev.
-10-2019-04
+02-2021-05

@@ -90,10 +90,10 @@ How should I store voriconazole for oral suspension?
 
 This Instructions for Use has been approved by the U.S. Food and Drug Administration.
 
-This product’s label may have been updated.
-For current full prescribing information, please visit www.amneal.com or call 1-877-835-5472.
+This product’s labeling may have been updated.
+For the most recent prescribing information, please visit www.amneal.com or call 1-877-835-5472.
 
 Distributed by: Amneal Pharmaceuticals LLC Bridgewater, NJ 08807
 
 Rev.
-10-2019-04
+02-2021-05

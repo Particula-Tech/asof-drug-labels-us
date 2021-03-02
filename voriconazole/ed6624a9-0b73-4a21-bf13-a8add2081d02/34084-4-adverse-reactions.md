@@ -313,11 +313,13 @@ Because these reactions are reported voluntarily from a population of uncertain 
 
 Adults
 
-Skeletal: fluorosis and periostitis have been reported during long-term voriconazole therapy [see Warnings and Precautions (5.11)].
+Skeletal: fluorosis and periostitis have been reported during long-term voriconazole therapy [see Warnings and Precautions (5.12)].
 
 Eye disorders: prolonged visual adverse reactions, including optic neuritis and papilledema [see Warnings and Precautions (5.4)].
 
 Skin and Appendages: drug reaction with eosinophilia and systemic symptoms (DRESS) has been reported [see Warnings and Precautions (5.5) and Adverse Reactions (6.1)].
+
+Endocrine disorders: adrenal insufficiency, Cushing’s syndrome (when voriconazole has been used concomitantly with corticosteroids) [see Warnings and Precautions (5.8)].
 
 Pediatric Patients
 

@@ -110,7 +110,7 @@ Dosage adjustment of voriconazole for oral suspension in pediatric patients with
 
 Adult Patients
 
-The pharmacokinetics of orally administered voriconazole for oral suspension is not significantly affected by renal impairment.
+The pharmacokinetics of orally administered voriconazole is not significantly affected by renal impairment.
 Therefore, no adjustment is necessary for oral dosing in patients with mild to severe renal impairment [see Clinical Pharmacology (12.3)].
 
 In patients with moderate or severe renal impairment (creatinine clearance < 50 mL/min) who are receiving an intravenous infusion of voriconazole, accumulation of the intravenous vehicle, SBECD, occurs.
