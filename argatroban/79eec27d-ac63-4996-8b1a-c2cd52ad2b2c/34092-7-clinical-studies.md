@@ -14,7 +14,7 @@ These studies did not include patients with documented unexplained aPTT >200% of
 
 The initial dose of argatroban was 2 mcg/kg/min.
 Two hours after the start of the argatroban infusion, an aPTT level was obtained and dose adjustments were made (up to a maximum of 10 mcg/kg/min) to achieve a steady-state aPTT value that was 1.5 to 3.0 times the baseline value, not to exceed 100 seconds.
-Overall the mean aPTT level for HIT and HITTS patients during the Argatroban infusion increased from baseline values of 34 and 38 seconds, respectively, to 62.5 and 64.5 seconds, respectively.
+Overall the mean aPTT level for HIT and HITTS patients during the argatroban infusion increased from baseline values of 34 and 38 seconds, respectively, to 62.5 and 64.5 seconds, respectively.
 
 The primary efficacy analysis was based on a comparison of event rates for a composite endpoint that included death (all causes), amputation (all causes) or new thrombosis during the treatment and follow-up period (study days 0 to 37).
 Secondary analyses included evaluation of the event rates for the components of the composite endpoint as well as time-to-event analyses.
@@ -28,7 +28,7 @@ The test results for the remainder of the patients and controls were either nega
 There was a significant improvement in the composite outcome in patients with HIT and HITTS treated with argatroban versus those in the historical control group (see Table 9).
 The components of the composite endpoint are shown in Table 9.
 
-| Table 9. Efficacy Results of Study 1: Composite Endpointa and Individual Components, Ranked by Severityb |  |  |  |  |  |  |  |
+| Table 9 Efficacy Results of Study 1: Composite Endpointa and Individual Components, Ranked by Severityb |  |  |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | Parameter, N (%) | HIT |  |  | HITTS |  | HIT/HITTS |  |
 | Control n = 147 | Argatroban n = 160 |  | Control n = 46 | Argatroban n = 144 | Control n = 193 | Argatroban n = 304 |  |
@@ -75,7 +75,7 @@ Safety and efficacy were assessed against historical control populations who had
 
 All patients received oral aspirin (325 mg) 2 to 24 hours prior to the interventional procedure.
 After venous or arterial sheaths were in place, anticoagulation was initiated with a bolus of argatroban of 350 mcg/kg via a large-bore intravenous line or through the venous sheath over 3 to 5 minutes.
-Simultaneously, a maintenance infusion of 25 mcg/kg/min was initiated to achieve a therapeutic activated clotting time (ACT) of 300 to 450 seconds.
+Simultaneously, a maintenance infusion of 25 mcg/kg/min was initiated to achieve a therapeutic ACT of 300 to 450 seconds.
 If necessary to achieve this therapeutic range, the maintenance infusion dose was titrated (15 to 40 mcg/kg/min) and/or an additional bolus dose of 150 mcg/kg could be given.
 Each patient’s ACT was checked 5 to 10 minutes following the bolus dose.
 The ACT was checked as clinically indicated.

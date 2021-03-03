@@ -17,7 +17,7 @@ When argatroban is administered by continuous infusion, anticoagulant effects an
 Immediately upon initiation of argatroban infusion, anticoagulant effects are produced as plasma argatroban concentrations begin to rise.
 Steady-state levels of both drug and anticoagulant effect are typically attained within 1 to 3 hours and are maintained until the infusion is discontinued or the dosage adjusted.
 Steady-state plasma argatroban concentrations increase proportionally with dose (for infusion doses up to 40 mcg/kg/min in healthy subjects) and are well correlated with steady-state anticoagulant effects.
-For infusion doses up to 40 mcg/kg/min, argatroban increases in a dose-dependent fashion, the activated partial thromboplastin time (aPTT), the activated clotting time (ACT), the prothrombin time (PT), the International Normalized Ratio (INR), and the thrombin time (TT) in healthy volunteers and cardiac patients.
+For infusion doses up to 40 mcg/kg/min, argatroban increases in a dose-dependent fashion, the aPTT, ACT, the prothrombin time (PT), the International Normalized Ratio (INR), and the thrombin time (TT) in healthy volunteers and cardiac patients.
 Representative steady-state plasma argatroban concentrations and anticoagulant effects are shown below for argatroban infusion doses up to 10 mcg/kg/min (see Figure 1).
 
 Effect on International Normalized Ratio (INR): Because argatroban is a direct thrombin inhibitor, co-administration of argatroban and warfarin produces a combined effect on the laboratory measurement of the INR.
@@ -27,7 +27,7 @@ The relationship between INR on co-therapy and warfarin alone is dependent on bo
 This relationship is influenced by the International Sensitivity Index (ISI) of the thromboplastin.
 Data for 2 commonly utilized thromboplastins with ISI values of 0.88 (Innovin, Dade) and 1.78 (Thromboplastin C Plus, Dade) are presented in Figure 2 for an argatroban dose of 2 mcg/kg/min.
 Thromboplastins with higher ISI values than shown result in higher INRs on combined therapy of warfarin and argatroban.
-These data are based on results obtained in normal individuals [see Dosage and Administration (2.5), Warnings and Precautions (5.3)].
+These data are based on results obtained in normal individuals [see Drug Interactions (7.2), Dosage and Administration (2.5), Warnings and Precautions (5.3)].
 
 Figure 2 demonstrates the relationship between INR for warfarin alone and INR for warfarin co-administered with argatroban at a dose of 2 mcg/kg/min.
 To calculate INR for warfarin alone (INRW), based on INR for co-therapy of warfarin and argatroban (INRWA), when the argatroban dose is 2 mcg/kg/min, use the equation next to the appropriate curve.

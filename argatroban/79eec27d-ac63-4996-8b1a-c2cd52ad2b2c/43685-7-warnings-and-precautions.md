@@ -18,7 +18,7 @@ Avoid the use of high doses of argatroban in patients undergoing PCI who have cl
 
 ## 5.3 Laboratory Tests
 
-Anticoagulation effects associated with Argatroban infusion at doses up to 40 mcg/kg/min correlate with increases of the activated partial thromboplastin time (aPTT).
-Although other global clot-based tests including prothrombin time (PT), the International Normalized Ratio (INR), and thrombin time (TT) are affected by Argatroban, the therapeutic ranges for these tests have not been identified for argatroban therapy.
-In clinical trials in PCI, the activated clotting time (ACT) was used for monitoring argatroban anticoagulant activity during the procedure.
+Anticoagulation effects associated with argatroban infusion at doses up to 40 mcg/kg/min correlate with increases of the aPTT.
+Although other global clot-based tests including prothrombin time (PT), the International Normalized Ratio (INR), and thrombin time (TT) are affected by argatroban, the therapeutic ranges for these tests have not been identified for argatroban therapy.
+In clinical trials in PCI, the ACT was used for monitoring argatroban anticoagulant activity during the procedure.
 The concomitant use of argatroban and warfarin results in prolongation of the PT and INR beyond that produced by warfarin alone [see Dosage and Administration (2.5), Clinical Pharmacology (12.2)].
