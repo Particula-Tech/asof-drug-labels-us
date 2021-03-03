@@ -3,12 +3,12 @@
 ## 12.1 Mechanism of Action
 
 Neostigmine methylsulfate is a competitive cholinesterase inhibitor.
-By reducing the breakdown of acetylcholine, neostigmine methylsulfate induces an increase in acetylcholine in the synaptic cleft which competes for the same binding site as nondepolarizing neuromuscular blocking agents, and reverses the neuromuscular blockade.
+By reducing the breakdown of acetylcholine, neostigmine methylsulfate induces an increase in acetylcholine in the synaptic cleft which competes for the same binding site as non-depolarizing neuromuscular blocking agents, and reverses the neuromuscular blockade.
 
 ## 12.2 Pharmacodynamics
 
 Neostigmine methylsulfate-induced increases in acetylcholine levels results in the potentiation of both muscarinic and nicotinic cholinergic activity.
-The resulting elevation of acetylcholine competes with nondepolarizing neuromuscular blocking agents to reverse neuromuscular blockade.
+The resulting elevation of acetylcholine competes with non-depolarizing neuromuscular blocking agents to reverse neuromuscular blockade.
 Neostigmine methylsulfate does not readily cross the blood-brain barrier and, therefore, does not significantly affect cholinergic function in the central nervous system.
 
 ## 12.3 Pharmacokinetics

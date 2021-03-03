@@ -33,7 +33,7 @@ i. Reversal of NMBAs with shorter half-lives, e.g., rocuronium, or
 ii.
 When the first twitch response to the TOF stimulus is substantially greater than 10% of baseline or when a second twitch is present.
 
-• The 0.07 mg/kg dose is recommended for
+• The 0.07 mg/kg dose is recommended for:
 
 iii.
 NMBAs with longer half-lives, e.g., vecuronium and pancuronium, or
@@ -51,13 +51,13 @@ h. Patients should continue to be monitored for adequacy of reversal from NMBAs 
 
 i. The recommended maximum total dose is 0.07 mg/kg or up to a total of 5 mg, whichever is less.
 
-## 2.3. Dosage in Pediatric Patients, including Neonates
+## 2.3. Dosage in Pediatric Patients, Including Neonates
 
 Adult guidelines should be followed when neostigmine methylsulfate injection is administered to pediatric patients.
 Pediatric patients require neostigmine methylsulfate injection doses similar to those for adult patients.
 
 ## 2.4. Anticholinergic (Atropine or Glycopyrrolate) Administration
 
-An anticholinergic agent, e.g., atropine sulfate or glycopyrrolate, s h o u l d be administered prior to or concomitantly with neostigmine methylsulfate injection.
+An anticholinergic agent, e.g., atropine sulfate or glycopyrrolate, should be administered prior to or concomitantly with neostigmine methylsulfate injection.
 The anticholinergic agent should be administered intravenously using a separate syringe.
 In the presence of bradycardia, it is recommended that the anticholinergic agent be administered prior to neostigmine methylsulfate injection.

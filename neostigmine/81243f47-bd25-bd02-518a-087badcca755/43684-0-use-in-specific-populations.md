@@ -19,24 +19,21 @@ Data
 
 Animal Data
 
-In embryofetal development studies, rats and rabbits were administered neostigmine methylsulfate at human equivalent doses (HED, on a mg/m2 basis) of 1.6, 4 and 8.1 mcg/kg/day 3.2, 8.1, and 13 mcg/kg/day, respectively, during the period of organogenesis (Gestation Days 6 through 17 for rats and Gestation Days 6 through 18 for rabbits).
+In embryofetal development studies, rats and rabbits were administered neostigmine methylsulfate at human equivalent doses (HED, on a mg/m2 basis) of 1.6, 4 and 8.1 mcg/kg/day and 3.2, 8.1, and 13 mcg/kg/day, respectively, during the period of organogenesis (Gestation Days 6 through 17 for rats and Gestation Days 6 through 18 for rabbits).
 There was no evidence for a teratogenic effect in rats and rabbits up to HED 8.1 and 13 mcg/kg/day, which are approximately 0.097-times and 0.16-times the MRHD of 5 mg/60 kg, respectively in the presence of minimal maternal toxicity (tremors, ataxia, and prostration).
 The studies resulted in exposures in the animals well below predicted exposures in humans.
 
 In a pre- and postnatal development study in rats, neostigmine methylsulfate was administered to pregnant female rats at human equivalent doses (HED) of 1.6, 4 and 8.1 mcg/kg/day from Day 6 of gestation through Day 20 of lactation, with weaning on Day 21.
-There were no adverse effects on physical development, behavior, learning ability, or fertility in the offspring occurred at HED doses up 8.1 mcg/kg/day which is 0.097-times the MRHD of 5 mg/60 kg on a mg/m2 basis in the presence of minimal maternal toxicity (tremors, ataxia, and prostration).
+There were no adverse effects on physical development, behavior, learning ability, or fertility in the offspring occurred at HED doses up to 8.1 mcg/kg/day which is 0.097-times the MRHD of 5 mg/60 kg on a mg/m2 basis in the presence of minimal maternal toxicity (tremors, ataxia, and prostration).
 The studies resulted in exposures in the animals well below predicted exposures in humans.
 
-## 8.2 Labor and Delivery
+## 8.2 Lactation
 
-The effect of neostigmine methylsulfate injection on the mother and fetus with regard to labor, delivery, the need for forceps delivery or other intervention or resuscitation of the newborn, is not known.
+Risk Summary
 
-Cholinesterase inhibitor drugs may induce premature labor when given intravenously to pregnant women near term.
-
-## 8.3 Nursing Mothers
-
-It is not known whether neostigmine methylsulfate is excreted in human milk.
-Caution should be exercised when neostigmine methylsulfate injection is administered to a nursing woman.
+Neostigmine methylsulfate has not been studied in lactating women.
+It is not known whether neostigmine methylsulfate is present in human milk, or if neostigmine methylsulfate has effects on milk production or the breastfed child.
+Therefore, the developmental and health benefits of breastfeeding should be considered along with the mother’s need for neostigmine methylsulfate and any potential adverse effects on the breastfed child from neostigmine methylsulfate or from the underlying maternal condition.
 
 ## 8.4 Pediatric Use
 
