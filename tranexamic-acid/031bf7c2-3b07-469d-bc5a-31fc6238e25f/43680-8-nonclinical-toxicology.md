@@ -22,12 +22,6 @@ Impairment of Fertility
 
 Reproductive studies performed in mice, rats and rabbits have not revealed any evidence of impaired fertility or adverse effects on the fetus due to tranexamic acid.
 
-In a rat embryo-fetal developmental toxicity study, tranexamic acid had no adverse effects on embryo-fetal development when administered during the period of organogenesis (from gestation days 6 through 17) at doses 1, 2 and 4 times the recommended human oral dose of 3900 mg/day.
-In a perinatal-postnatal study in rats, tranexamic acid had no adverse effects on pup viability, growth or development when administered from gestation day 6 through postnatal day 20 at doses 1, 2 and 4 times the recommended human oral dose of 3900 mg/day.
-
-The dose multiples referenced above are based on body surface area (mg/m2).
-Actual daily doses in rats were 300, 750 or 1500 mg/kg/day.
-
 ## 13.2 Animal Toxicology and/or Pharmacology
 
 Ocular Effects

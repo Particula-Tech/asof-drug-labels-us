@@ -1,6 +1,6 @@
 # PATIENT INFORMATION
 
-TRANEXAMIC ACID, USP TABLETS
+TRANEXAMIC ACID (TRAN-ex-AM-ik AS-id), USP TABLETS, for oral use
 
 Read the Patient Information that comes with tranexamic acid USP tablets before you start using the drug and each time you get a refill.
 There may be new information.
@@ -8,17 +8,17 @@ This leaflet does not take the place of talking with your healthcare provider ab
 
 What is tranexamic acid USP tablets?
 
-Tranexamic Acid USP Tablets is a prescription medicine used to treat your heavy monthly period (menstruation) when your bleeding gets in the way of social, leisure and physical activities.
-Tranexamic Acid USP Tablets does not contain any hormones.
+Tranexamic acid USP tablets is a prescription medicine used to treat your heavy monthly period (menstruation) when your bleeding gets in the way of social, leisure and physical activities.
+Tranexamic acid USP tablets does not contain any hormones.
 On average, tranexamic acid USP tablets has been shown to lower the amount of blood lost during your monthly period by about one-third, but it is not meant to stop your period.
 
-Tranexamic Acid USP Tablets is taken only during your period and is not meant to treat pre-menstrual symptoms (symptoms that occur before your bleeding starts).
-Tranexamic Acid USP Tablets does not affect your fertility and cannot be used as birth control.
-Tranexamic Acid USP Tablets does not protect you against diseases that you may get if you have unprotected sex.
+Tranexamic acid USP tablets is taken only during your period and is not meant to treat pre-menstrual symptoms (symptoms that occur before your bleeding starts).
+Tranexamic acid USP tablets does not affect your fertility and cannot be used as birth control.
+Tranexamic acid USP tablets does not protect you against diseases that you may get if you have unprotected sex.
 
-Tranexamic Acid USP Tablets has not been studied in adolescents younger than 18 years of age.
+Tranexamic acid USP tablets has not been studied in adolescents younger than 18 years of age.
 
-Tranexamic Acid is not for women who have already gone through menopause (post-menopausal).
+Tranexamic acid is not for women who have already gone through menopause (post-menopausal).
 
 Who should not take tranexamic acid USP tablets?
 
@@ -41,14 +41,14 @@ Before taking tranexamic acid USP tablets, tell your healthcare provider about a
   For this reason, do not use tranexamic acid USP tablets if you use a form of birth control that contains estrogen and a progestin.
 - You are pregnant or think you may be pregnant
 - You are breastfeeding or plan to breast-feed.
-  Tranexamic Acid USP Tablets can pass into your milk.
+  Tranexamic acid USP tablets can pass into your milk.
   Talk to your healthcare provider about the best way to feed your baby if you take tranexamic acid USP tablets.
 - The time between the start of your periods is less than 21 days or more than 35 days
 - You have any other medical conditions
 
 Tell your healthcare provider about all the medicines you take, including prescription and over-the-counter medicines, vitamins, and herbal supplements.
-Tranexamic Acid USP Tablets and other medicines can affect each other, causing side effects.
-Tranexamic Acid USP Tablets can affect the way other medicines work and other medicines can affect how tranexamic acid USP tablets works.
+Tranexamic acid USP tablets and other medicines can affect each other, causing side effects.
+Tranexamic acid USP tablets can affect the way other medicines work and other medicines can affect how tranexamic acid USP tablets works.
 
 Especially tell your healthcare provider if you take:
 
@@ -66,8 +66,8 @@ How should I take tranexamic acid USP tablets?
 - Do not take tranexamic acid USP tablets for more than 5 days in a row.
 - Do not take tranexamic acid USP tablets when you do not have your period.
 - Once your period has started, take 2 tablets of tranexamic acid USP tablets three times per day (e.g., in the morning, afternoon, and evening).
-- Tranexamic Acid USP Tablets should be swallowed whole and not chewed or broken apart.
-- Tranexamic Acid USP Tablets may be taken with or without food.
+- Tranexamic acid USP tablets should be swallowed whole and not chewed or broken apart.
+- Tranexamic acid USP tablets may be taken with or without food.
 - Do not take more than 6 tablets of tranexamic acid USP tablets in a day.
   If you take more than 6 tablets, call your healthcare provider.
 - If you miss a dose, take it when you remember, and then take your next dose at least six hours later.
@@ -76,7 +76,7 @@ How should I take tranexamic acid USP tablets?
 
 What are the possible side effects of tranexamic acid USP tablets?
 
-Tranexamic Acid USP Tablets can cause serious side effects, including:
+Tranexamic acid USP tablets can cause serious side effects, including:
 
 - Blood clots.
   You may have a higher risk of having serious blood clots if you take tranexamic acid USP tablets with:
@@ -101,7 +101,6 @@ The most common side effects of tranexamic acid USP tablets include:
 Tell your healthcare provider if you have any side effect that bothers you or does not go away.
 
 These are not all of the possible side effects of tranexamic acid USP tablets.
-
 For more information, ask your healthcare provider or pharmacist.
 
 If you notice a change in your usual bleeding pattern that worries you, or your heavy bleeding continues, contact your healthcare provider right away.
@@ -137,12 +136,11 @@ Inactive ingredients: microcrystalline cellulose, colloidal silicon dioxide, pre
 
 This Patient Information has been approved by the U.S. Food and Drug Administration.
 
-Manufactured for: Amring Pharmaceuticals Inc. Berwyn, PA 19312
+Manufactured for: Amring Pharmaceuticals Inc. Berwyn, PA 19312 www.amringusa.com
 
-Manufactured by: Mikart, LLC.
-Atlanta, GA 30318
+The Amring Logo and the “A” Logo are trademarks of Amring Pharmaceuticals Inc.
+
+Manufactured by: Mikart, LLC Atlanta, GA 30318
 
 Rev.
-03/2019
-
-1221E00
+12/2020

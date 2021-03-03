@@ -1,5 +1,3 @@
 # 1 INDICATIONS AND USAGE
 
-Tranexamic Acid USP Tablets are indicated for the treatment of cyclic heavy menstrual bleeding [see Clinical Studies (14)].
-
-Prior to prescribing tranexamic acid USP tablets,exclude endometrial pathology that can be associated with heavy menstrual bleeding.
+Tranexamic acid USP tablets are indicated for the treatment of cyclic heavy menstrual bleeding in females of reproductive potential [see Clinical Studies (14)].

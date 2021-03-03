@@ -1,3 +1,3 @@
 # 3 DOSAGE FORMS AND STRENGTHS
 
-650 mg tablets
+Tablets: 650 mg white oval-shaped debossed with the marking “FP650”
