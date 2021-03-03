@@ -1,0 +1,7 @@
+# PACKAGE LABEL.PRINCIPAL DISPLAY PANEL
+
+Penicillamine tablets USP
+
+NDC 70748-153-01
+
+Bottle of 100's
