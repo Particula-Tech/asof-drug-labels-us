@@ -21,6 +21,6 @@ Combination Therapy
 
 When fulvestrant injection is used in combination with palbociclib, abemaciclib, or ribociclib, refer to the respective Full Prescribing Information for Patient Counseling Information.
 
-Athenex Mfd. for Athenex Schaumburg, IL 60173 (USA) Made in China ©2020 Athenex.
+Athenex Mfd. for Athenex Schaumburg, IL 60173 (USA) Made in China ©2021 Athenex.
 
-Revised: July 2020
+Revised: January 2021
