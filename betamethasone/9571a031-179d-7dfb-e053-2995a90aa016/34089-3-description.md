@@ -9,4 +9,4 @@ Chemically, betamethasone dipropionate is 9-Fluoro-11β,17,21-trihydroxy-16β-me
 
 Betamethasone dipropionate is a white to creamy white, odorless crystalline powder, insoluble in water.
 
-Each gram of Betamethasone Dipropionate Cream USP, 0.05% contains: 0.64 mg betamethasone dipropionate USP (equivalent to 0.5 mg betamethasone), in a hydrophilic emollient cream consisting of cetomacrogol 1000, cetostearyl alcohol, mineral oil, propylene glycol, purified water, sodium phosphate monobasic, white petrolatum, chlorocresol as preservative, and phosphoric acid and/or sodium hydroxide for pH correction.
+Each gram of Betamethasone Dipropionate Cream USP, 0.05% contains: 0.64 mg betamethasone dipropionate USP (equivalent to 0.5 mg betamethasone), in a hydrophilic emollient cream consisting of cetomacrogol 1000, cetostearyl alcohol, mineral oil, propylene glycol, purified water, sodium phosphate monobasic, white petrolatum, chlorocresol as preservative, and phosphoric acid and/or sodium hydroxide for pH adjustment.
