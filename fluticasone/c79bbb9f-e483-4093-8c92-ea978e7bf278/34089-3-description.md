@@ -6,7 +6,7 @@ Fluticasone propionate is a white powder with a molecular weight of 500.57, and 
 It is practically insoluble in water, freely soluble in dimethylformamide, sparingly soluble in acetone and dichloromethane, and slightly soluble in 96% ethanol.
 
 XHANCE (fluticasone propionate) nasal spray, 93 mcg, for intranasal administration, with an exhalation delivery system that delivers an aqueous suspension of microfine fluticasone propionate having a particle size distribution in the range of 0 to 5 microns for topical intranasal administration by means of a metering, atomizing spray pump and exhaled breath.
-XHANCE also contains microcrystalline cellulose and carboxymethylcellulose sodium, dextrose, benzalkonium chloride, polysorbate 80, edetate disodium dihydrate, and purified water, and has a pH between 5 and 7.
+XHANCE also contains microcrystalline cellulose and carboxymethylcellulose sodium, dextrose, benzalkonium chloride, polysorbate 80, edetate disodium dihydrate, sodium hydroxide and hydrochloric acid (to adjust pH), and purified water, and has a pH between 5 and 7.
 
 Before initial use, prime XHANCE by gently shaking and then pressing the amber glass bottle 7 times or until a fine mist appears.
 Once primed, XHANCE contains 120 metered sprays.

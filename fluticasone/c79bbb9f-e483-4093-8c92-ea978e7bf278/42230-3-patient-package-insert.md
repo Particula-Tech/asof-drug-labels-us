@@ -17,9 +17,9 @@
 | These are not all the side effects associated with XHANCE. Call your doctor for medical advice about side effects. You may report side effects to FDA at 1-800-FDA-1088. |  |
 | How should I store XHANCE? •Store XHANCE at room temperature between 15°C and 25°C (59°F and 77°F). •Protect XHANCE from light. •Throw away XHANCE after using 120 sprays after initial priming. Even though the bottle may not be completely empty, you may not get the correct dose of medicine if you continue to use it.•The XHANCE Bottle is made of glass. Do not remove the base. Keep XHANCE and all medicines out of the reach of children. |  |
 | General information about the safe and effective use of XHANCE.Medicines are sometimes prescribed for purposes other than those listed in a Patient Information leaflet. Do not use XHANCE for a condition for which it was not prescribed. Do not give your XHANCE to other people, even if they have the same symptoms that you have. It may harm them.You can ask your pharmacist or healthcare provider for information about XHANCE that is written for health professionals. |  |
-| What are the ingredients in XHANCE?Active ingredient: fluticasone propionateInactive ingredients: microcrystalline cellulose, carboxymethylcellulose sodium, dextrose, benzalkonium chloride, polysorbate 80, edetate disodium dihydrate, and purified water |  |
-| Distributed by: OptiNose US, Inc. 1020 Stony Hill Rd, Yardley, PA 19067XHANCE and OPTINOSE are registered trademarks of OptiNose AS©2020, OptiNose US, Inc. All rights reserved.Patented. See www.xhance.com/patentsFor more information, go to www.XHANCE.com or call 1-833-678-6673. |  |
+| What are the ingredients in XHANCE?Active ingredient: fluticasone propionateInactive ingredients: microcrystalline cellulose, carboxymethylcellulose sodium, dextrose, benzalkonium chloride, polysorbate 80, edetate disodium dihydrate, sodium hydroxide and hydrochloric acid (to adjust pH), and purified water |  |
+| Distributed by: OptiNose US, Inc. 1020 Stony Hill Rd, Yardley, PA 19067XHANCE and OPTINOSE are registered trademarks of OptiNose AS©2021, OptiNose US, Inc. All rights reserved.Patented. See www.xhance.com/patentsFor more information, go to www.XHANCE.com or call 1-833-678-6673. |  |
 
 This Patient Information has been approved by the U.S. Food and Drug Administration
 
-Revised: 09/2020
+Revised: 02/2021

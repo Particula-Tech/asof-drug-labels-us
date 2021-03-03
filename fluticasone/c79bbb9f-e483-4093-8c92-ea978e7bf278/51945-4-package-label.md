@@ -25,12 +25,12 @@ Avoid exposure to extreme heat, cold or light.
 
 Usual Dosage: See Prescribing Information.
 
-Inactive Ingredients: microcrystalline cellulose and carboxymethylcellulose sodium, dextrose, 0.02% w/w benzalkonium chloride, polysorbate 80, EDTA, purified water
+Inactive Ingredients: microcrystalline cellulose and carboxymethylcellulose sodium, dextrose, 0.02% w/w benzalkonium chloride, polysorbate 80, EDTA, sodium hydroxide and hydrochloric acid (to adjust pH), purified water
 
 Distributed by: OptiNose US, Inc., Yardley, PA 19067 Made in Canada.
 XHANCE and OPTINOSE are registered trademarks of OptiNose AS.
 Patented.
-See www.XHANCE.com/patents. ©2020 OptiNose US, Inc. All rights reserved.
+See www.XHANCE.com/patents. ©2021 OptiNose US, Inc. All rights reserved.
 
 LOT ###### EXP XX/XXXX SERIAL #
 
