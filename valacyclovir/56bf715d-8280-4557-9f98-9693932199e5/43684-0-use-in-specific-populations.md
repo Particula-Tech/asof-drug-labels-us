@@ -53,7 +53,7 @@ No significant adverse effects were observed in offspring exposed daily from bef
 Although there is no information on the presence of valacyclovir in human milk, its metabolite, acyclovir, is present in human milk following oral administration of valacyclovir.
 Based on published data, a 500-mg maternal dose of valacyclovir tablets twice daily would provide a breastfed child with an oral acyclovir dosage of approximately 0.6 mg/kg/day (see Data).
 There is no data on the effects of valacyclovir or acyclovir on the breastfed child or on milk production.
-The developmental and health benefits of breastfeeding should be considered along with the mother’s clincial need for valacyclovir tablets and any potential adverse effects on the breastfed child from valacyclovir or from the underlying maternal condition.
+The developmental and health benefits of breastfeeding should be considered along with the mother’s clinical need for valacyclovir tablets and any potential adverse effects on the breastfed child from valacyclovir or from the underlying maternal condition.
 
 ### Data
 
@@ -81,7 +81,7 @@ The efficacy and safety of valacyclovir have not been established in pediatric p
 The pharmacokinetic profile and safety of valacyclovir oral suspension in children aged less than 12 years were studied in 3 open-label trials.
 No efficacy evaluations were conducted in any of the 3 trials.
 
-Trial 1 was a single-dose pharmacokinetic, multiple-dose safety trial in 27 pediatric subjects aged 1 to less than 12 years with clinically suspected varicella-zoster virus (VZV) infection [see Dosage and Administration (2.2), Adverse Reactions (6.2), Clinical Pharmacology (12.3),Clinical Studies (14.4)].
+Trial 1 was a single-dose pharmacokinetic, multiple-dose safety trial in 27 pediatric subjects aged 1 to less than 12 years with clinically suspected varicella-zoster virus (VZV) infection [see Dosage and Administration (2.2), Adverse Reactions (6.2), Clinical Pharmacology (12.3), Clinical Studies (14.4)].
 
 Trial 2 was a single-dose pharmacokinetic and safety trial in pediatric subjects aged 1 month to less than 6 years who had an active herpes virus infection or who were at risk for herpes virus infection.
 Fifty-seven subjects were enrolled and received a single dose of 25 mg/kg valacyclovir oral suspension.

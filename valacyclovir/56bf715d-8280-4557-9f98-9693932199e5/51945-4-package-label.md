@@ -6,7 +6,7 @@ Valacyclovir Tablets, USP 500 mg
 
 Rx only 30 Tablets
 
-Each film-coated tablet contains 500 mg of valacyclovir equivalent to 611.2 mg of valacyclovir hydrochloride, USP per tablet.
+Each film-coated tablet contains 500 mg of valacyclovir equivalent to 556.2 mg of valacyclovir hydrochloride, USP (hydrous) per tablet.
 
 Usual Dosage: See accompanying prescribing information.
 
@@ -23,7 +23,7 @@ Made in India
 
 Mylan.com
 
-RMX4275H6
+RMX4275H7
 
 Dispense in a tight, light-resistant container as defined in the USP using a child-resistant closure.
 
@@ -39,7 +39,7 @@ Valacyclovir Tablets, USP 1 gram
 
 Rx only 30 Tablets
 
-Each film-coated tablet contains 1 gram of valacyclovir equivalent to 1222.4 mg of valacyclovir hydrochloride, USP per tablet.
+Each film-coated tablet contains 1 gram of valacyclovir equivalent to 1.112 grams of valacyclovir hydrochloride, USP (hydrous) per tablet.
 
 Usual Dosage: See accompanying prescribing information.
 
@@ -56,7 +56,7 @@ Made in India
 
 Mylan.com
 
-RMX4276H6
+RMX4276H7
 
 Dispense in a tight, light-resistant container as defined in the USP using a child-resistant closure.
 

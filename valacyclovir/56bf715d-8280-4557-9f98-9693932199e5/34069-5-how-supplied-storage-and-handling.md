@@ -1,6 +1,6 @@
 # 16 HOW SUPPLIED/STORAGE AND HANDLING
 
-Valacyclovir Tablets, USP are available containing 611.2 mg or 1222.4 mg of valacyclovir hydrochloride, USP equivalent to 500 mg or 1 gram of valacyclovir, respectively.
+Valacyclovir Tablets, USP are available containing 556.2 mg or 1.112 grams of valacyclovir hydrochloride, USP (hydrous) equivalent to 500 mg or 1 gram of valacyclovir, respectively.
 
 The 500 mg tablets are white, film-coated, oval, unscored tablets with M122 imprinted with black ink on one side of the tablet and plain on the other side of the tablet.
 They are available as follows:
