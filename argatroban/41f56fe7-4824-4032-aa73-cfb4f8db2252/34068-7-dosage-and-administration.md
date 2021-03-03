@@ -99,7 +99,7 @@ Obtain additional ACTs every 20 to 30 minutes during prolonged procedure.
 
 Continued Anticoagulation after PCI If a patient requires anticoagulation after the procedure, Argatroban Injection may be continued, but at a rate of 2 mcg/kg/min and adjusted as needed to maintain the aPTT in the desired range [see Dosage and Administration (2.1)].
 
-## 2.4 Dosing in Patients With Hepatic Impairment
+## 2.4 Dosing in Patients with Hepatic Impairment
 
 Initial Dosage
 
@@ -109,7 +109,7 @@ Monitor the aPTT closely, and adjust the dosage as clinically indicated.
 Monitoring Therapy Achievement of steady state aPTT levels may take longer and require more dose adjustments in patients with hepatic impairment compared to patients with normal hepatic function.
 
 For patients with hepatic impairment undergoing PCI and who have HIT or are at risk for HIT, carefully titrate argatroban until the desired level of anticoagulation is achieved.
-Use of Argatroban in PCI patients with clinically significant hepatic disease or AST/ALT levels ≥3 times the upper limit of normal should be avoided [see Warnings and Precautions (5.2)].
+Use of argatroban in PCI patients with clinically significant hepatic disease or AST/ALT levels ≥3 times the upper limit of normal should be avoided [see Warnings and Precautions (5.2)].
 
 ## 2.5 Conversion to Oral Anticoagulant Therapy
 
@@ -119,7 +119,7 @@ Initiate therapy using the expected daily dose of warfarin.
 To avoid prothrombotic effects and to ensure continuous anticoagulation when initiating warfarin, it is suggested that argatroban and warfarin therapy be overlapped.
 There are insufficient data available to recommend the duration of the overlap.
 
-Co-Administration of Warfarin and Argatroban Injection at Doses Up to 2 mcg/kg/min Measure INR daily while Argatroban Injection and warfarin are co-administered.
+Co-Administration of Warfarin and Argatroban Injection at Doses up to 2 mcg/kg/min Measure INR daily while Argatroban Injection and warfarin are co-administered.
 In general, with doses of Argatroban Injection up to 2 mcg/kg/min, Argatroban Injection can be discontinued when the INR is >4 on combined therapy.
 After Argatroban Injection is discontinued, repeat the INR measurement in 4 to 6 hours.
 If the repeat INR is below the desired therapeutic range, resume the infusion of Argatroban Injection and repeat the procedure daily until the desired therapeutic range on warfarin alone is reached.

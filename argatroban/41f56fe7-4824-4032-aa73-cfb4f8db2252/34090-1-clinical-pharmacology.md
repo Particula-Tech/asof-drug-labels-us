@@ -41,7 +41,7 @@ Thus, INRW cannot be reliably predicted from INRWA at doses greater than 2 mcg/k
 
 ## 12.3 Pharmacokinetics
 
-Distribution Argatroban distributes mainly in the extracellular fluid as evidenced by an apparent steady-state volume of distribution of 174 mL/kg (12.18 L in a 70-kg adult).
+Distribution Argatroban distributes mainly in the extracellular fluid as evidenced by an apparent steady-state volume of distribution of 174 mL/kg (12.18 L in a 70 kg adult).
 Argatroban is 54% bound to human serum proteins, with binding to albumin and α1-acid glycoprotein being 20% and 34%, respectively.
 
 Metabolism The main route of argatroban metabolism is hydroxylation and aromatization of the 3-methyltetrahydroquinoline ring in the liver.
