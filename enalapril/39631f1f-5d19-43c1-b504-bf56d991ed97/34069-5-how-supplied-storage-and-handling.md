@@ -1,8 +1,8 @@
 # HOW SUPPLIED
 
-| VASOTEC™ (Enalapril Maleate) Tablets |  |  |  |
+| VASOTEC (enalapril maleate) Tablets |  |  |  |
 | --- | --- | --- | --- |
-| NDC Number | Strength | Quantity | Description |
+| NDC | Strength | Quantity | Description |
 | 0187-0140-30 | 2.5 mg | Bottles of 30 (with desiccant) | White, oval shaped tablet imprinted with “VASO 2.5” and scored on one side and scored on the other. |
 | 0187-0140-90 | Bottles of 90 (with desiccant) |  |  |
 | 0187-0141-30 | 5 mg | Bottles of 30 (with desiccant) | White, rounded triangle shaped tablet imprinted with “VASO 5” on one side and scored on the other. |

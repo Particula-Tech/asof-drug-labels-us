@@ -130,4 +130,4 @@ Liver Function Tests
 
 Elevations of liver enzymes and/or serum bilirubin have occurred (see WARNINGS, Hepatic Failure).
 
-To report SUSPECTED ADVERSE REACTIONS, contact Valeant Pharmaceuticals North America LLC at 1-800-321-4576 or FDA at 1-800-FDA-1088 or www.fda.gov/medwatch.
+To report SUSPECTED ADVERSE REACTIONS, contact Bausch Health US, LLC at 1-800-321-4576 or FDA at 1-800-FDA-1088 or www.fda.gov/medwatch.

@@ -104,7 +104,7 @@ The results are shown in the following table.
 
 |  | Six Months | One Year |
 | --- | --- | --- |
-|  | SURVIVAL (%) |  |
+|  | Survival (%) |  |
 | VASOTEC (n=127) | 74 | 64 |
 | Placebo (n=126) | 56 | 48 |
 

@@ -22,12 +22,12 @@ The usual dose of enalapril is recommended for patients with a creatinine cleara
 For patients with creatinine clearance less than or equal to 30 mL/min (serum creatinine more than or equal to 3 mg/dL), the first dose is 2.5 mg once daily.
 The dosage may be titrated upward until blood pressure is controlled or to a maximum of 40 mg daily.
 
-| Renal Status | Creatinine Clearance mL/min | Initial Dose mg/day |
+| Renal Status | Creatinine Clearance (mL/min) | Initial Dose (mg/day) |
 | --- | --- | --- |
 | Normal Renal Function | >80 mL/min | 5 mg |
-| Mild Impairment | ≤ 80 >30 mL/min | 5 mg |
+| Mild Impairment | ≤80 >30 mL/min | 5 mg |
 | Moderate to Severe Impairment | ≤30 mL/min | 2.5 mg |
-| Dialysis PatientsSee WARNINGS, Anaphylactoid Reactions during Membrane Exposure. |  | 2.5 mg on dialysis daysDosage on nondialysis days should be adjusted depending on the blood pressure response. |
+| Dialysis PatientsSee WARNINGS, Anaphylactoid Reactions During Membrane Exposure. |  | 2.5 mg on dialysis daysDosage on nondialysis days should be adjusted depending on the blood pressure response. |
 
 Heart Failure
 
