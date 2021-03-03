@@ -9,7 +9,8 @@ Subjects with fulminant C. difficile disease, sepsis with hypotension, ileus, pe
 
 Efficacy analyses were performed on the Full Analysis Set (FAS), which included randomized subjects who received at least one dose of vancomycin and had any post-dosing investigator evaluation data (N=259; 134 in Trial 1 and 125 in Trial 2).
 
-The demographic profile and baseline CDAD characteristics of enrolled subjects were similar in the two trials. vancomycin-treated subjects had a median age of 67 years, were mainly white (93%), and male (52%).
+The demographic profile and baseline CDAD characteristics of enrolled subjects were similar in the two trials.
+Vancomycin-treated subjects had a median age of 67 years, were mainly white (93%), and male (52%).
 CDAD was classified as severe (defined as 10 or more unformed bowel movements per day or WBC ≥15000/mm3) in 25% of subjects, and 47% were previously treated for CDAD.
 
 Efficacy was assessed by using clinical success, defined as diarrhea resolution and the absence of severe abdominal discomfort due to CDAD, on Day 10.

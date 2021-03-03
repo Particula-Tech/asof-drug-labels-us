@@ -1,5 +1,10 @@
 # 17 PATIENT COUNSELING INFORMATION
 
+Severe Dermatologic Reactions
+
+Advise patients about the signs and symptoms of serious skin manifestations.
+Instruct patients to stop taking Vancomycin Hydrochloride Capsules immediately and promptly seek medical attention at the first signs or symptoms of skin rash, mucosal lesions or blisters [see Warnings and Precautions (5.5)].
+
 Antibacterial Resistance
 
 Patients should be counseled that antibacterial drugs including Vancomycin Hydrochloride Capsules should only be used to treat bacterial infections.

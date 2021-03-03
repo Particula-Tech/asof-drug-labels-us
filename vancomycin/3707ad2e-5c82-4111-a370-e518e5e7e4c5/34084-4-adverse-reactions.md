@@ -43,11 +43,13 @@ Ototoxicity: Cases of hearing loss associated with intravenously administered va
 Most of these patients had kidney dysfunction or a preexisting hearing loss or were receiving concomitant treatment with an ototoxic drug [see Warnings and Precautions (5.4)].
 Vertigo, dizziness, and tinnitus have been reported.
 
+Skin and Subcutaneous Tissue Disorders: Severe dermatologic reactions such as toxic epidermal necrolysis (TEN), Stevens-Johnson syndrome (SJS), drug reaction with eosinophilia and systemic symptoms (DRESS), acute generalized exanthematous pustulosis (AGEP), and linear IgA bullous dermatosis (LABD) [see Warnings and Precautions (5.5)], rashes (including exfoliative dermatitis).
+
 Hematopoietic: Reversible neutropenia, usually starting 1 week or more after onset of intravenous therapy with vancomycin or after a total dose of more than 25 g, has been reported for several dozen patients.
 Neutropenia appears to be promptly reversible when vancomycin is discontinued.
 Thrombocytopenia has been reported.
 
-Miscellaneous: Patients have been reported to have had anaphylaxis, drug fever, chills, nausea, eosinophilia, rashes (including exfoliative dermatitis), Stevens-Johnson syndrome, toxic epidermal necrolysis, and rare cases of vasculitis in association with the administration of vancomycin.
+Miscellaneous: Patients have been reported to have had anaphylaxis, drug fever, chills, nausea, eosinophilia, and cases of vasculitis in association with the administration of vancomycin.
 
 A condition has been reported that is similar to the IV–induced syndrome with symptoms consistent with anaphylactoid reactions, including hypotension, wheezing, dyspnea, urticaria, pruritus, flushing of the upper body (“Red Man Syndrome”), pain and muscle spasm of the chest and back.
 These reactions usually resolve within 20 minutes but may persist for several hours.
