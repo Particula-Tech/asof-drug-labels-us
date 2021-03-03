@@ -2,7 +2,7 @@
 
 The following serious adverse reactions to clindamycin are described below and elsewhere in the labeling:
 
-- •Clostridium difficile Associated Diarrhea [see Warnings and Precautions (5.1)]
+- •Clostridioides difficile Associated Diarrhea [see Warnings and Precautions (5.1)]
 - •Anaphylactic and Severe Hypersensitivity Reactions [see Warnings and Precautions (5.2)]
 
 The following adverse reactions associated with the use of clindamycin were identified in clinical trials or postmarketing reports.
@@ -10,7 +10,7 @@ Because these reactions were reported voluntarily from a population of uncertain
 
 Infections and Infestations
 
-Clostridium difficile colitis
+Clostridioides difficile colitis
 
 Gastrointestinal
 

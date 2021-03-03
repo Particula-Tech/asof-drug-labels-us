@@ -10,14 +10,12 @@ Biologically inactive clindamycin phosphate is converted to active clindamycin.
 By the end of short-term intravenous infusion, peak serum concentrations of active clindamycin are reached.
 
 After intramuscular injection of clindamycin phosphate, peak concentrations of active clindamycin are reached within 3 hours in adults and 1 hour in pediatric patients.
-Serum concentration-time curves may be constructed from intravenous peak serum concentrations as given in Table 2 by application of elimination half-lives described in the elimination section below.
+Serum concentration-time curves may be constructed from intravenous peak serum concentrations as given in Table 3 by application of elimination half-lives described in the elimination section below.
 
 Serum concentrations of clindamycin can be maintained above the in vitro minimum inhibitory concentrations for most indicated organisms by administration of clindamycin phosphate every 8 to 12 hours in adults and every 6 to 8 hours in pediatric patients, or by continuous intravenous infusion.
 An equilibrium state is reached by the third dose.
 
-Serum assays for active clindamycin require an inhibitor to prevent in vitro hydrolysis of clindamycin phosphate.
-
-Table 2.
+Table 3.
 Average Peak and Trough Serum Concentrations of Active Clindamycin After Dosing with Clindamycin Phosphate
 
 | Dosage Regimen | Peakmcg/mL | Troughmcg/mL |
@@ -53,6 +51,10 @@ Pharmacokinetic studies in elderly volunteers (61-79 years) and younger adults (
 After oral administration of clindamycin hydrochloride, the average elimination half-life is increased to approximately 4.0 hours (range 3.4-5.1 h) in the elderly, compared to 3.2 hours (range 2.1-4.2 h) in younger adults.
 The extent of absorption, however, is not different between age groups and no dosage alteration is necessary for the elderly with normal hepatic function and normal (age-adjusted) renal function1.
 
+Obese Pediatric Patients Aged 2 to Less than 18 Years and Obese Adults Aged 18 to 20 Years
+
+An analysis of pharmacokinetic data in obese pediatric patients aged 2 to less than 18 years and obese adults aged 18 to 20 years demonstrated that clindamycin clearance and volume of distribution, normalized by total body weight, are comparable regardless of obesity.
+
 Drug Interaction Studies
 
 In vitro studies indicate that clindamycin does not inhibit CYP1A2, CYP2C9, CYP2C19, CYP2E1 or CYP2D6 and only moderately inhibits CYP3A4.
@@ -73,16 +75,16 @@ Macrolide-resistant isolates of staphylococci and beta-hemolytic streptococci sh
 
 ### Antimicrobial Activity
 
-Clindamycin has been shown to be active against most of the isolates of the following microorganisms, both in vitro and in clinical infections [see Indications and Usage (1)].
+Clindamycin has been shown to be active against most isolates of the following microorganisms, both in vitro and in clinical infections [see Indications and Usage (1)].
 
 1. Aerobic bacteria
-   1. Gram-positive bacteria
-2. Staphylococcus aureus (methicillin-susceptible strains) Streptococcus pneumoniae (penicillin-susceptible strains) Streptococcus pyogenes
-3. Anaerobic bacteria
-4. Gram-positive bacteria
-5. Clostridium perfringens Peptostreptococcus anaerobius
-6. Gram-negative bacteria
-7. Fusobacterium necrophorum Fusobacterium nucleatum Prevotella melaninogenica
+2. Gram-positive bacteria
+3. Staphylococcus aureus (methicillin-susceptible isolates) Streptococcus pneumoniae (penicillin-susceptible isolates) Streptococcus pyogenes
+4. Anaerobic bacteria
+5. Gram-positive bacteria
+6. Clostridium perfringens Peptostreptococcus anaerobius
+7. Gram-negative bacteria
+8. Fusobacterium necrophorum Fusobacterium nucleatum Prevotella melaninogenica
 
 The following in vitro data are available, but their clinical significance is unknown.
 At least 90 percent of the following bacteria exhibit an in vitro minimum inhibitory concentration (MIC) less than or equal to the susceptible breakpoint for clindamycin against isolates of similar genus or organism group.
@@ -90,13 +92,13 @@ However, the efficacy of clindamycin in treating clinical infections caused by t
 
 1. Aerobic bacteria
 2. Gram-positive bacteria
-3. Staphylococcus epidermidis (methicillin-susceptible strains) Streptococcus agalactiae Streptococcus anginosus Streptococcus mitis Streptococcus oralis
+3. Staphylococcus epidermidis (methicillin-susceptible isolates) Streptococcus agalactiae Streptococcus anginosus Streptococcus mitis Streptococcus oralis
 4. Anaerobic bacteria
 5. Gram-positive bacteria
 6. Actinomyces israelii Clostridium clostridioforme Eggerthella lenta Finegoldia (Peptostreptococcus) magna Micromonas (Peptostreptococcus) micros Propionibacterium acnes
 7. Gram-negative bacteria
 8. Prevotella bivia Prevotella intermedia
 
-### Susceptibility Test Methods
+### Susceptibility Testing
 
-For specific information regarding susceptibility test interpretive criteria and associated test methods and quality control standards recognized by FDA for this drug, please see: http://www.fda.gov/STIC.
+For specific information regarding susceptibility test interpretive criteria, and associated test methods and quality control standards recognized by FDA for this drug, please see https://www.fda.gov/STIC.

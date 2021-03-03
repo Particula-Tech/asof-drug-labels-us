@@ -28,7 +28,7 @@ Reproduction studies performed during organogenesis (gestational days 6-15) in p
 
 ### Risk Summary
 
-Clindamycin has been reported to appear in breast milk in the range of 0.7 to 3.8 mcg/mL at dosages of 150 mg orally to 600 mg intravenously.
+Clindamycin has been reported to appear in breast milk in the range of less than 0.5 to 3.8 mcg/mL at dosages of 150 mg orally to 600 mg intravenously.
 Clindamycin has the potential to cause adverse effects on the breastfed infant’s gastrointestinal flora.
 
 The developmental and health benefits of breastfeeding should be considered along with the mother's clinical need for clindamycin and any potential adverse effects on the breast-fed child from clindamycin or from the underlying maternal condition.
@@ -40,9 +40,12 @@ Monitor the infant for possible adverse effects on the gastrointestinal flora, s
 
 ## 8.4 Pediatric Use
 
-When Clindamycin in 0.9% Sodium Chloride Injection is administered to the pediatric population (birth to 16 years) appropriate dosing and monitoring of organ system functions is desirable.
+Clindamycin in 0.9% Sodium Chloride Injection is indicated for the treatment of serious infections caused by susceptible anaerobic bacteria, infections due to susceptible isolates of streptococci, pneumococci and staphylococci, lower respiratory tract Infections, skin and skin structure infections, gynecological infections, intra-abdominal infections, septicemia and bone and joint infections in pediatric patients for whom appropriate dosing with this formulation can be achieved [see Indications and Usage (1.1-1.8)] and Dosage and Administration (2.3)].
 
-The potential for the toxic effect in the pediatric population from chemicals that may leach from the single dose premixed intravenous preparation in plastic has not been evaluated.
+When Clindamycin in 0.9% Sodium Chloride Injection is administered to the pediatric population (less than 1 month to 16 years old) appropriate dosing and monitoring of organ system functions is desirable.
+Because of the limitations of the available strengths and administration requirements (i.e., administration of fractional doses is not recommended) of Clindamycin in 0.9% Sodium Chloride Injection, and to avoid unintentional overdose, this product is not recommended for use if a dose of Clindamycin in 0.9% Sodium Chloride Injection is required that does not equal 300 mg 600 mg or 900 mg is required and an alternative formulation of clindamycin should be considered [see Dosage and Administration (2.3)].
+
+The potential for the toxic effect in the pediatric population from chemicals that may leach from the single dose premixed Clindamycin in 0.9% Sodium Chloride Injection preparation in plastic has not been evaluated.
 
 ## 8.5 Geriatric Use
 

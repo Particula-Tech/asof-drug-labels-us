@@ -1,6 +1,20 @@
 # 2 DOSAGE AND ADMINISTRATION
 
-## 2.1 Important Discontinuation Instructions
+## 2.1 Important Administration and Discontinuation Instructions
+
+If a dose of Clindamycin in 0.9% Sodium Chloride Injection is required that does not equal 300 mg 600 mg or 900 mg, this product is not recommended for use and an alternative formulation of clindamycin should be considered.
+
+Administer Clindamycin in 0.9% Sodium Chloride Injection by intravenous infusion over at least 10 minutes.
+Infusion rates should NOT exceed 30 mg per minute.
+The usual infusion rates are described in Table 1.
+
+Table 1: Usual Infusion Rates for the Administration of Clindamycin in 0.9% Sodium Chloride Injection
+
+| Dose | Time |
+| --- | --- |
+| 300 mg | 10 min |
+| 600 mg | 20 min |
+| 900 mg | 30 min |
 
 Discontinue Clindamycin in 0.9% Sodium Chloride Injection if diarrhea occurs during therapy [see Boxed Warning].
 
@@ -11,11 +25,11 @@ The recommended dosing regimen for Clindamycin in 0.9% Sodium Chloride Injection
 For more severe infections, particularly those due to proven or suspected Bacteroides fragilis, Peptococcus species, or Clostridium species other than Clostridium perfringens, the recommended dosing regimen is 1200-2700 mg/day in 2, 3, or 4 equal doses by intravenous infusion.
 
 In life-threatening situations, these doses may be increased.
-Doses of as much as 4800 mg daily have been given intravenously to adults [see Dosage and Administration (2.4)].
+Doses of as much as 4800 mg daily have been given intravenously to adults.
 
 Alternatively, drug may be administered in the form of a single rapid infusion of the first dose followed by continuous intravenous infusion as follows:
 
-Table 1: Infusion Rates for the Administration of Clindamycin Injection by Single Rapid Infuion followed by Continuous Intravenous Infusion
+Table 2: Infusion Rates for the Administration of Clindamycin Injection by Single Rapid Infusion followed by Continuous Intravenous Infusion
 
 | To maintain serum clindamycin levels | Rapid infusion rate | Maintenance infusion rate |
 | --- | --- | --- |
@@ -23,35 +37,25 @@ Table 1: Infusion Rates for the Administration of Clindamycin Injection by Singl
 | Above 5 mcg/mL | 15 mg/min for 30 min | 1.00 mg/min |
 | Above 6 mcg/mL | 20 mg/min for 30 min | 1.25 mg/min |
 
-## 2.3 Dosage in Pediatric Patients (1 Month of Age to 16 Years)
+## 2.3 Dosage in Pediatric Patients (Less than 1 Month of Age to 16 Years old)
 
-The recommended dosing regimen for pediatric patients is 20 to 40 mg/kg/day in 3 or 4 equal doses by intravenous infusion.
+If a dose of Clindamycin in 0.9% Sodium Chloride Injection is required that does not equal 300 mg, 600 mg or 900 mg, this product is not recommended for use and an alternative formulation of clindamycin should be considered.
+The recommended pediatric dosing regimen of Clindamycin in 0.9% Sodium Chloride Injection is as follows:
+
+- •Pediatric patients (1 month of age to16 years old) is 20 to 40 mg/kg/day in 3 or 4 equal doses
+- •Pediatric Patients (less than 1 month of age) is 15 to 20 mg/kg/day in 3 or 4 equal doses.
+  The lower dosage may be adequate for small prematures.
+
 The higher doses would be used for more severe infections.
 As an alternative to dosing on a body weight basis, pediatric patients may be dosed on the basis of square meters body surface: 350 mg/m2/day for serious infections and 450 mg/m2/day for more severe infections.
 
-Parenteral therapy may be changed to oral clindamycin palmitate hydrochloride powder for oral solution or clindamycin hydrochloride capsules when the condition warrants and at the discretion of the physician.
+Parenteral therapy may be changed to oral formulations of clindamycin when the condition warrants and at the discretion of the physician.
 
 In cases of β-hemolytic streptococcal infections, treatment should be continued for at least 10 days.
 
-## 2.4 Dosage in Pediatric Patients (Neonates Less than 1 Month)
-
-The recommended dosing regimen for neonates is 15 to 20 mg/kg/day in 3 to 4 equal doses by intravenous infusion.
-The lower dosage may be adequate for small prematures.
-
-## 2.5 Intravenous Infusion Rates
-
-Infusion rates should NOT exceed 30 mg per minute.
-The usual infusion rates are as follows:
-
-| Dose | Time |
-| --- | --- |
-| 300 mg | 10 min |
-| 600 mg | 20 min |
-| 900 mg | 30 min |
+## 2.4 Directions for Use of Clindamycin in 0.9% Sodium Chloride Injection in GALAXY Plastic Container
 
 Parenteral drug products should be inspected visually for particulate matter and discoloration prior to administration, whenever solution and container permit.
-
-## 2.6 Directions for Use of Clindamycin in 0.9% Sodium Chloride Injection in GALAXY Plastic Container
 
 Premixed Clindamycin in 0.9% Sodium Chloride Injection is for intravenous infusion using sterile equipment.
 Check for minute leaks prior to use by squeezing bag firmly.
@@ -62,6 +66,8 @@ Do NOT use unless solution is clear and seal is intact.
 
 Do NOT use plastic containers in series connections.
 Such use could result in air embolism due to residual air being drawn from the primary container before administration of the fluid from the secondary container is complete.
+
+Clindamycin in 0.9% Sodium Chloride Injection should not be injected intravenously undiluted as a bolus, but should be infused over at least 10 minutes.
 
 Preparation for Administration:
 
