@@ -8,4 +8,5 @@ The empirical formula is C40H59NO11•CH4O3S.
 Eribulin mesylate has the following structural formula:
 
 HALAVEN is a clear, colorless, sterile solution for intravenous administration.
-Each vial contains 1 mg of eribulin mesylate as a 0.5 mg/mL solution in ethanol: water (5:95).
+Each vial contains 1 mg of eribulin mesylate as a 0.5 mg/mL solution in dehydrated alcohol (5% v/v) and water for injection (95% v/v).
+Sodium hydroxide or hydrochloric acid may be used for pH adjustment.

@@ -3,7 +3,7 @@
 ## 14.1 Metastatic Breast Cancer
 
 Study 1 was an open-label, randomized, multicenter trial of 762 patients with metastatic breast cancer who received at least two chemotherapeutic regimens for the treatment of metastatic disease and experienced disease progression within 6 months of their last chemotherapeutic regimen.
-Patients were required to receive prior anthracycline- and taxane- based chemotherapy for adjuvant or metastatic disease.
+Patients were required to receive prior anthracycline- and taxane-based chemotherapy for adjuvant or metastatic disease.
 Patients were randomized (2:1) to receive HALAVEN (n=508) or a single agent therapy selected prior to randomization (control arm, n=254).
 Randomization was stratified by geographic region, HER2/neu status, and prior capecitabine exposure.
 HALAVEN was administered at a dose of 1.4 mg/m2 on Days 1 and 8 of a 21-day cycle.

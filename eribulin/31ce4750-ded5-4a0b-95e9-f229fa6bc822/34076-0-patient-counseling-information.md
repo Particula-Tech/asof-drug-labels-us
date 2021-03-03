@@ -22,4 +22,4 @@ Advise women not to breastfeed during treatment with HALAVEN and for 2 weeks aft
 
 Distributed by: Eisai Inc. Woodcliff Lake, NJ 07677
 
-© 2016 Eisai Inc.
+© 2021 Eisai Inc.
