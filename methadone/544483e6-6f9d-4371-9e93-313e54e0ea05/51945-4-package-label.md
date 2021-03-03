@@ -40,4 +40,4 @@ Rx only
 
 Mallinckrodt™
 
-L00M82 Rev 07/2017
+L00M82 Rev 01/2021

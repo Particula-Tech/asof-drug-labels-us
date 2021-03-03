@@ -176,3 +176,8 @@ Warn patients not to drive or operate dangerous machinery unless they are tolera
 ## 5.17 Laboratory Test Interactions
 
 False positive urine drug screens for methadone have been reported for several drugs including diphenhydramine, doxylamine, clomipramine, chlorpromazine, thioridazine, quetiapine, and verapamil.
+
+## 5.18 FD&C Yellow No. 5 (Tartrazine)
+
+Methadone Hydrochloride Tablets (methadone hydrochloride tablets for oral suspension USP) (dispersible, orange flavored) contain FD&C Yellow No. 5 (tartrazine) which may cause allergic-type reactions (including bronchial asthma) in certain susceptible persons.
+Although the overall incidence of FD&C Yellow No. 5 (tartrazine) sensitivity in the general population is low, it is frequently seen in patients who also have aspirin hypersensitivity.
