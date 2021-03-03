@@ -48,8 +48,8 @@ The developmental and health benefits of breastfeeding should be considered alon
 
 ## 8.4 Pediatric Use
 
-The safety and effectiveness of ASMANEX TWISTHALER have been established in children 4 years of age and older.
-Use of ASMANEX TWISTHALER in children 12 years of age and older is supported by evidence from adequate and well-controlled clinical trials in this patient population [see Clinical Studies (14.1) and Adverse Reactions (6.1)].
+The safety and effectiveness of ASMANEX TWISTHALER for maintenance treatment of asthma as prophylactic therapy have been established in children 4 years of age and older.
+Use of ASMANEX TWISTHALER in pediatric patients 12 years of age and older is supported by evidence from adequate and well-controlled clinical trials in this patient population [see Clinical Studies (14.1) and Adverse Reactions (6.1)].
 
 Use of ASMANEX TWISTHALER in pediatric patients 4 to 11 years of age is supported by evidence from adequate and well-controlled clinical trials of 12 weeks duration in 630 patients 4 to 11 years of age receiving ASMANEX TWISTHALER and one 52-week safety trial in 152 patients [see Clinical Studies (14.1) and Adverse Reactions (6.1)].
 

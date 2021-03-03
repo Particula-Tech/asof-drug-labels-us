@@ -43,6 +43,8 @@ The mean peak plasma concentrations at steady state ranged from approximately 94
 Distribution: Based on the study employing a 1000 mcg inhaled dose of tritiated mometasone furoate inhalation powder in humans, no appreciable accumulation of mometasone furoate in the red blood cells was found.
 Following an intravenous 400 mcg dose of mometasone furoate, the plasma concentrations showed a biphasic decline, with a mean terminal half-life of about 5 hours and the mean steady-state volume of distribution of 152 L. The in vitro protein binding for mometasone furoate was reported to be 98% to 99% (in a concentration range of 5–500 ng/mL).
 
+Elimination:
+
 Metabolism: Studies have shown that mometasone furoate is primarily and extensively metabolized in the liver of all species investigated and undergoes extensive metabolism to multiple metabolites.
 In vitro studies have confirmed the primary role of CYP3A4 in the metabolism of this compound; however, no major metabolites were identified.
 
@@ -50,19 +52,15 @@ Excretion: Following an intravenous dosing, the terminal half-life was reported 
 Following the inhaled dose of tritiated 1000 mcg mometasone furoate, the radioactivity is excreted mainly in the feces (a mean of 74%), and to a small extent in the urine (a mean of 8%) up to 7 days.
 No radioactivity was associated with unchanged mometasone furoate in the urine.
 
-Special Populations:
+Specific Populations:
 
-Hepatic Impairment: Administration of a single inhaled dose of 400 mcg mometasone furoate to subjects with mild (n=4), moderate (n=4), and severe (n=4) hepatic impairment resulted in only 1 or 2 subjects in each group having detectable peak plasma concentrations of mometasone furoate (ranging from 50–105 pcg/mL).
+Pharmacokinetics have not been adequately investigated with ASMANEX TWISTHALER by gender, race or in pediatric patients.
+
+Patients with Hepatic Impairment: Administration of a single inhaled dose of 400 mcg mometasone furoate to subjects with mild (n=4), moderate (n=4), and severe (n=4) hepatic impairment resulted in only 1 or 2 subjects in each group having detectable peak plasma concentrations of mometasone furoate (ranging from 50–105 pcg/mL).
 The observed peak plasma concentrations appear to increase with severity of hepatic impairment; however, the numbers of detectable levels were few.
 
-Renal Impairment: The effects of renal impairment on mometasone furoate pharmacokinetics have not been adequately investigated.
+Patients with Renal Impairment: The effects of renal impairment on mometasone furoate pharmacokinetics have not been adequately investigated.
 
-Pediatric: Mometasone furoate pharmacokinetics have not been investigated in the pediatric population [see Use in Specific Populations (8.4)].
-
-Gender: The effects of gender on mometasone furoate pharmacokinetics have not been adequately investigated.
-
-Race: The effects of race on mometasone furoate pharmacokinetics have not been adequately investigated.
-
-Drug-Drug Interaction: Inhibitors of Cytochrome P450 3A4: In a drug interaction study, an inhaled dose of mometasone furoate 400 mcg was given to 24 healthy subjects twice daily for 9 days and ketoconazole 200 mg (as well as placebo) were given twice daily concomitantly on Days 4 to 9.
+Drug Interaction Studies: Inhibitors of Cytochrome P450 3A4: In a drug interaction study, an inhaled dose of mometasone furoate 400 mcg was given to 24 healthy subjects twice daily for 9 days and ketoconazole 200 mg (as well as placebo) were given twice daily concomitantly on Days 4 to 9.
 Mometasone furoate plasma concentrations were <150 pcg/mL on Day 3 prior to coadministration of ketoconazole or placebo.
 Following concomitant administration of ketoconazole, 4 out of 12 subjects in the ketoconazole treatment group (n=12) had peak plasma concentrations of mometasone furoate >200 pcg/mL on Day 9 (211–324 pcg/mL).

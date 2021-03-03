@@ -1,12 +1,13 @@
 # 6 ADVERSE REACTIONS
 
-Systemic and local corticosteroid use may result in the following:
+The following clinically significant adverse reactions are described elsewhere in the labeling:
 
-- Candida albicans infection [see Warnings and Precautions (5.1)]
-- Immunosuppression [see Warnings and Precautions (5.4)]
-- Hypercorticism and adrenal suppression [see Warnings and Precautions (5.6)]
-- Growth effects [see Warnings and Precautions (5.8) and Use in Specific Populations (8.4)]
-- Glaucoma and cataracts [see Warnings and Precautions (5.9)]
+- Oropharyngeal Candidiasis [see Warnings and Precautions (5.1)]
+- Immunosuppression and Risk of Infections [see Warnings and Precautions (5.4)]
+- Hypercorticism and Adrenal Suppression [see Warnings and Precautions (5.6)]
+- Reduction in Bone Mineral Density [see Warnings and Precautions (5.7)]
+- Growth Effects [see Warnings and Precautions (5.8) and Use in Specific Populations (8.4)]
+- Glaucoma and Cataracts [see Warnings and Precautions (5.9)]
 
 ## 6.1 Clinical Studies Experience
 
@@ -105,6 +106,6 @@ Because they are reported voluntarily from a population of uncertain size, it is
 
 Eye disorders: Vision blurred [see Warnings and Precautions (5.9)].
 
-Immune System Disorders: Immediate and delayed hypersensitivity reactions including rash, pruritus, angioedema and anaphylactic reaction [see Warnings and Precautions (5.3) and Contraindications (4.2)].
+Immune System Disorders: Immediate and delayed hypersensitivity reactions including rash, pruritus, angioedema and anaphylactic reaction [see Warnings and Precautions (5.3) and Contraindications (4)].
 
 Respiratory, Thoracic and Mediastinal Disorders: Asthma aggravation, which may include cough, dyspnea, wheezing and bronchospasm.

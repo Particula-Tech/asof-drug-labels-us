@@ -1,15 +1,17 @@
 # 2 DOSAGE AND ADMINISTRATION
 
+Administration Information
+
 Administer ASMANEX TWISTHALER by the orally inhaled route only.
 Instruct patients to inhale rapidly and deeply.
-Advise patients to rinse the mouth after inhalation.
+After administration, advise patients to rinse the mouth with water and spit out contents without swallowing.
 Individual patients will experience a variable time to onset and degree of symptom relief.
 Maximum benefit may not be achieved for 1 to 2 weeks or longer after initiation of treatment.
 After asthma stability has been achieved, it is desirable to titrate to the lowest effective dosage to reduce the possibility of side effects.
 For patients ≥12 years of age who do not respond adequately to the starting dose after 2 weeks of therapy, higher doses may provide additional asthma control.
 The safety and efficacy of ASMANEX TWISTHALER when administered in excess of recommended doses have not been established.
 
-## 2.1 Recommended Dosages in Patients 4 Years of Age and Older
+## 2.1 Recommended Dosages in Adult and Pediatric Patients 4 Years of Age and Older
 
 The recommended starting doses and highest recommended daily dose for ASMANEX TWISTHALER treatment based on prior asthma therapy are provided in Table 1.
 

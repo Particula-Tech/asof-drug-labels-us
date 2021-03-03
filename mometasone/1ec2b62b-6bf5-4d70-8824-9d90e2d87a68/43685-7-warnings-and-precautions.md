@@ -1,26 +1,27 @@
 # 5 WARNINGS AND PRECAUTIONS
 
-## 5.1 Local Effects
+## 5.1 Oropharyngeal Candidiasis
 
 In clinical trials, the development of localized infections of the mouth and pharynx with Candida albicans occurred in 195 of 3007 patients treated with ASMANEX TWISTHALER.
 If oropharyngeal candidiasis develops, it should be treated with appropriate local or systemic (i.e., oral) antifungal therapy while remaining on treatment with ASMANEX TWISTHALER therapy, but at times therapy with the ASMANEX TWISTHALER may need to be interrupted.
-Advise patients to rinse the mouth after inhalation of ASMANEX TWISTHALER.
+After administration, advise patients to rinse the mouth with water and spit out contents without swallowing.
 
 ## 5.2 Acute Asthma Episodes
 
 ASMANEX TWISTHALER is not a bronchodilator and is not indicated for rapid relief of bronchospasm or other acute episodes of asthma.
+A short acting beta2-agonist, such as albuterol, should be available at all times to treat acute asthma symptoms.
 Instruct patients to contact their physician immediately if episodes of asthma that are not responsive to bronchodilators occur during the course of treatment with ASMANEX TWISTHALER.
 During such episodes, patients may require therapy with oral corticosteroids.
 
 ## 5.3 Hypersensitivity Reactions Including Anaphylaxis
 
 Hypersensitivity reactions including rash, pruritus, angioedema, and anaphylactic reaction have been reported with use of ASMANEX TWISTHALER.
-Discontinue ASMANEX TWISTHALER if such reactions occur [see Contraindications (4.2) and Adverse Reactions (6.2)].
+Discontinue ASMANEX TWISTHALER if such reactions occur [see Contraindications (4) and Adverse Reactions (6.2)].
 
 ASMANEX TWISTHALER contains small amounts of lactose, which contains trace levels of milk proteins.
-In postmarketing experience with ASMANEX TWISTHALER, anaphylactic reactions in patients with milk protein allergy have been reported [see Contraindications (4.2) and Adverse Reactions (6.2)].
+In postmarketing experience with ASMANEX TWISTHALER, anaphylactic reactions in patients with milk protein allergy have been reported [see Contraindications (4) and Adverse Reactions (6.2)].
 
-## 5.4 Immunosuppression
+## 5.4 Immunosuppression and Risk of Infections
 
 Persons who are using drugs that suppress the immune system are more susceptible to infections than healthy individuals.
 Chickenpox and measles, for example, can have a more serious or even fatal course in susceptible children or adults using corticosteroids.
@@ -35,6 +36,8 @@ If chickenpox develops, treatment with antiviral agents may be considered.
 Inhaled corticosteroids should be used with caution, if at all, in patients with active or quiescent tuberculosis infection of the respiratory tract; untreated systemic fungal, bacterial, viral, or parasitic infections; or ocular herpes simplex.
 
 ## 5.5 Transferring Patients from Systemic Corticosteroid Therapy
+
+HPA Suppression/Adrenal Insufficiency
 
 Particular care is needed for patients who are transferred from systemically active corticosteroids to ASMANEX TWISTHALER because deaths due to adrenal insufficiency have occurred in asthmatic patients during and after transfer from systemic corticosteroids to less systemically available inhaled corticosteroids.
 After withdrawal from systemic corticosteroids, a number of months are required for recovery of hypothalamic-pituitary-adrenal (HPA) function.
@@ -51,7 +54,11 @@ Prednisone reduction can be accomplished by reducing the daily prednisone dose b
 Lung function (FEV1 or PEFR), beta-agonist use, and asthma symptoms should be carefully monitored during withdrawal of oral corticosteroids.
 In addition to monitoring asthma signs and symptoms, patients should be observed for signs and symptoms of adrenal insufficiency such as fatigue, lassitude, weakness, nausea and vomiting, and hypotension.
 
+Unmasking of Allergic Conditions Previously Suppressed by Systemic Corticosteroids
+
 Transfer of patients from systemic corticosteroid therapy to ASMANEX TWISTHALER may unmask allergic conditions previously suppressed by the systemic corticosteroid therapy, e.g., rhinitis, conjunctivitis, eczema, arthritis, and eosinophilic conditions.
+
+Corticosteroid Withdrawal Symptoms
 
 During withdrawal from oral corticosteroids, some patients may experience symptoms of systemically active corticosteroid withdrawal, e.g., joint and/or muscular pain, lassitude, and depression, despite maintenance or even improvement of respiratory function.
 

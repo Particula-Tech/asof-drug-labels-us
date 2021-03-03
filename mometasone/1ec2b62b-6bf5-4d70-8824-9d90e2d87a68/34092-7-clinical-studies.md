@@ -9,14 +9,14 @@ The results of the clinical trials are presented based upon previous asthma ther
 
 Patients ≥12 Years of Age Previously Maintained on Bronchodilators Alone: ASMANEX TWISTHALER was studied in three 12-week, double-blind trials in 737 patients with mild to moderate asthma (mean baseline FEV1≅2.6 L, 72% of predicted normal) who were maintained on short-acting beta2-agonists alone.
 The first 2 trials evaluated doses of 440 mcg administered as 2 inhalations once daily in the morning and 1 of these studies also evaluated 220 mcg twice daily.
-In both trials, AM predose FEV1 was significantly improved at endpoint (last observation) following treatment with 440 mcg ASMANEX TWISTHALER once daily in the morning as compared to placebo (14% vs. 2.5%, respectively, in 1 trial and 16% vs. 5.5% in the other).
-There was also a significant improvement in AM predose FEV1 at endpoint following treatment with ASMANEX TWISTHALER 220 mcg twice daily.
-Other measures of lung function (AM and PM PEFR) also showed improvement compared to placebo.
+In both trials, morning predose FEV1 was significantly improved at endpoint (last observation) following treatment with 440 mcg ASMANEX TWISTHALER once daily in the morning as compared to placebo (14% vs. 2.5%, respectively, in 1 trial and 16% vs. 5.5% in the other).
+There was also a significant improvement in morning predose FEV1 at endpoint following treatment with ASMANEX TWISTHALER 220 mcg twice daily.
+Other measures of lung function (morning and evening PEFR) also showed improvement compared to placebo.
 Patients receiving ASMANEX TWISTHALER treatment had reduced frequency of beta2-agonist rescue medication use compared to those on placebo (mean reductions at endpoint 2.2 and 0.5 puffs per day, respectively, from a baseline of 4.1 puffs/day).
 Additionally, fewer patients receiving ASMANEX TWISTHALER 440 mcg once daily experienced asthma worsening than did patients receiving placebo.
 
 In the third trial, 195 asthmatic patients were treated with ASMANEX TWISTHALER 220 mcg once daily in the evening or placebo.
-The AM FEV1 at endpoint was significantly improved compared to placebo (mean change at endpoint 0.43 L or 16.8% vs. 0.16 L or 6%, respectively, see Figure 1).
+The morning FEV1 at endpoint was significantly improved compared to placebo (mean change at endpoint 0.43 L or 16.8% vs. 0.16 L or 6%, respectively, see Figure 1).
 Evening PEF increased 24.96 L/min (7%) from baseline in the ASMANEX TWISTHALER group compared to 8.67 L/min (4%) in placebo.
 
 Patients ≥12 Years of Age Previously Maintained on Inhaled Corticosteroids: The efficacy and safety of ASMANEX TWISTHALER in doses ranging from 110 mcg twice daily to 440 mcg twice daily was evaluated in 3 trials in 1072 patients previously maintained on inhaled corticosteroids.
@@ -24,16 +24,16 @@ In the first 2 trials, asthmatic patients (mean baseline FEV1 ~2.6 L, 76% predic
 The first trial included 307 patients who were treated in an open-label fashion with ASMANEX TWISTHALER 220 mcg (110 mcg × 2 inhalations) twice daily for 2 weeks followed by 12 weeks of double-blind treatment with ASMANEX TWISTHALER 440 mcg once daily in the morning or placebo.
 The second trial involved 365 patients who continued on their previous dose of inhaled corticosteroids during a 2-week screening period before being switched to ASMANEX TWISTHALER 440 mcg twice daily, 220 mcg twice daily, 110 mcg twice daily, beclomethasone dipropionate 168 mcg twice daily, or placebo for 12 weeks.
 
-In the first trial, AM predose FEV1 was effectively maintained (-1.4% change from baseline to endpoint) over the 12 weeks in the patients who were randomized to ASMANEX TWISTHALER 440 mcg once daily in the morning, while decreasing 10% at endpoint in those switched to placebo.
+In the first trial, morning predose FEV1 was effectively maintained (-1.4% change from baseline to endpoint) over the 12 weeks in the patients who were randomized to ASMANEX TWISTHALER 440 mcg once daily in the morning, while decreasing 10% at endpoint in those switched to placebo.
 In addition, fewer patients treated with ASMANEX TWISTHALER experienced worsening of asthma compared to placebo.
 
-In the second trial, AM predose FEV1 was significantly increased at endpoint when patients were switched to ASMANEX TWISTHALER 220 mcg twice daily (7% increase) or 440 mcg twice daily (6.2% increase) as compared to a decrease of 7% when switched to placebo.
+In the second trial, morning predose FEV1 was significantly increased at endpoint when patients were switched to ASMANEX TWISTHALER 220 mcg twice daily (7% increase) or 440 mcg twice daily (6.2% increase) as compared to a decrease of 7% when switched to placebo.
 Additionally, beta2-agonist rescue medication use was decreased for patients who received ASMANEX TWISTHALER treatment relative to those on placebo (mean reduction from baseline to endpoint 1.1 puffs/day vs. increase of 0.7 puffs/day).
 Fewer patients receiving ASMANEX TWISTHALER treatment experienced asthma worsening than did patients receiving placebo.
 
 The third trial evaluated the efficacy and safety of ASMANEX TWISTHALER compared to placebo in 400 asthmatic patients (mean FEV1 67% predicted at baseline) previously maintained on beclomethasone dipropionate (hydrofluoroalkane [HFA] or chlorofluorocarbon [CFC]) 168–600 mcg/day, budesonide 200–1200 mcg/day, flunisolide 500–2000 mcg/day, fluticasone propionate 88–880 mcg/day, or triamcinolone acetonide 400–1600 mcg/day.
 Following a 28-day inhaled corticosteroid dose-reduction phase, patients were randomized to ASMANEX TWISTHALER 440 mcg once daily in the evening, 220 mcg once daily in the evening, 220 mcg twice daily, or placebo.
-At endpoint, patients who received ASMANEX TWISTHALER 220 mcg once daily in the evening, 440 mcg once daily in the evening, or 220 mcg twice daily had a significant improvement in AM FEV1 [0.41 L (19%), 0.49 L (22%), and 0.51 L (24%) in the 220 mcg once daily in the evening, 440 mcg once daily in the evening, and 220 mcg twice daily treatment group, respectively] compared to placebo [0.16 L (8%)] (see Figure 2).
+At endpoint, patients who received ASMANEX TWISTHALER 220 mcg once daily in the evening, 440 mcg once daily in the evening, or 220 mcg twice daily had a significant improvement in morning FEV1 [0.41 L (19%), 0.49 L (22%), and 0.51 L (24%) in the 220 mcg once daily in the evening, 440 mcg once daily in the evening, and 220 mcg twice daily treatment group, respectively] compared to placebo [0.16 L (8%)] (see Figure 2).
 Evening PEF increased 15.65 L/min (4.1%) with the 220 mcg once daily in the evening dose, 39.26 L/min (10.7%) with the 440 mcg once daily in the evening dose, and 36.7 L/min (10.8%) with the 220 mcg twice daily dose, respectively, compared to a 1.4 L/min (1%) increase with placebo.
 Patients receiving all doses of ASMANEX TWISTHALER treatment had reduced frequency of beta-agonist rescue medication use compared to those on placebo (mean reductions at endpoint of 1.4–1.8 puffs/day from a baseline of more than 3 puffs/day compared to an increase in use by 0.5 puffs/day for placebo).
 In addition, fewer patients receiving ASMANEX TWISTHALER experienced asthma worsening than did those on placebo.

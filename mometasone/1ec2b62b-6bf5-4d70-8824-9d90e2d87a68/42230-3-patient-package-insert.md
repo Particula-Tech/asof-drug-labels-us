@@ -1,150 +1,23 @@
-Patient Information
-
-ASMANEX® TWISTHALER® 220 mcg (mometasone furoate inhalation powder) ASMANEX® TWISTHALER® 110 mcg (mometasone furoate inhalation powder)
-
-FOR ORAL INHALATION ONLY
-
-Please read this leaflet carefully before taking ASMANEX® TWISTHALER®.
-
-This leaflet does not contain the complete information about this medication.
-If you have any questions about ASMANEX TWISTHALER, ask your health care provider or pharmacist.
-
-IMPORTANT POINTS TO REMEMBER ABOUT ASMANEX TWISTHALER
-
-- Your health care provider has prescribed ASMANEX TWISTHALER for you or your child.
-  It contains a medicine called mometasone furoate, which is a man-made corticosteroid.
-  This medicine is used as maintenance treatment that helps prevent and control asthma symptoms.
-- ASMANEX TWISTHALER is not a bronchodilator and should not be used for sudden symptoms of shortness of breath.
-  Use an inhaled short-acting bronchodilator such as albuterol to relieve sudden symptoms of shortness of breath.
-- Your health care provider may prescribe bronchodilators such as albuterol for emergency relief if an acute asthma attack occurs.
-- Use your ASMANEX TWISTHALER regularly and at the same time each day, as prescribed by your health care provider.
-  You or your child may not get the most benefit for 1 to 2 weeks or longer after starting ASMANEX.
-  If you or your child's symptoms do not improve in that time frame or if your condition gets worse, contact your health care provider.
-- The cap is needed to use the ASMANEX TWISTHALER.
-  Do not twist the mouthpiece with your hand.
-  When the cap is removed from the TWISTHALER, the dose counter will count down by one, and show the number of doses available after this use.
-- The inhaler delivers your medicine as a very fine powder that you or your child may not taste, smell, or feel.
-  Do not take or give extra doses unless your health care provider has told you to.
-- It is important to replace the cap after each inhalation to protect the inhaler from moisture.
-- Do not use the inhaler if you notice that it is not working correctly.
-  Take it to your health care provider or pharmacist.
-
-WHO SHOULD NOT USE ASMANEX TWISTHALER
-
-Do not use ASMANEX TWISTHALER:
-
-- To treat sudden, severe symptoms of asthma.
-- If you have an allergy to milk proteins.
-  Ask your health care provider if you are not sure.
-
-HOW TO USE ASMANEX TWISTHALER OR GIVE TO YOUR CHILD
-
-- Remove the ASMANEX TWISTHALER from its foil pouch and write the date on the cap label.
-- Throw away the inhaler 45 days after this date or when the dose counter reads "00", indicating the final dose has been inhaled, whichever comes first.
-- Follow steps 1 and 2 below each time you inhale a dose from your ASMANEX TWISTHALER.
-
-Inhaler Parts:
-
-See Figures 1 and 2 below to become familiar with the inhaler parts.
-
-Step 1: Open inhaler
-
-Hold the inhaler straight up (upright position) with the colored portion (the base) on the bottom (see Figure 3 below).
-It is important that you remove the cap of the TWISTHALER while it is in this upright position to make sure that you get the right amount of medicine with each dose.
-
-Holding the colored base, twist the cap in a counterclockwise direction to remove it (see Figure 3 below).
-As you lift off the cap, the dose counter on the base will count down by one.
-Removing the cap loads the TWISTHALER with the medicine that you are now ready to inhale.
-
-IT IS IMPORTANT TO NOTE that the indented arrow (located on the white portion of the TWISTHALER, directly above the colored base) is pointing to the dose counter (see Figure 2).
-
-Step 2: Inhale dose
-
-Breathe out fully.
-Then bring the TWISTHALER up to your mouth or your child's mouth with the mouthpiece facing toward you or your child.
-Place the mouthpiece in your mouth or your child's mouth, holding it in a horizontal (on its side) position as shown below (see Figure 4).
-Firmly close your lips around the mouthpiece and take in a fast, deep breath.
-Since the medicine is a very fine powder, you may not be able to taste, smell, or feel it after inhalation.
-Do not cover the ventilation holes while inhaling the dose.
-
-Remove the TWISTHALER from your mouth and hold your breath for about 10 seconds, or as long as you comfortably can.
-
-IMPORTANT: DO NOT BREATHE OUT (EXHALE) INTO THE INHALER.
-
-After you take your medicine, it is important that you wipe the mouthpiece dry, if needed, and then REPLACE THE CAP, firmly closing the TWISTHALER right away (see Figures 5 and 6 below).
-
-Be sure that the indented arrow is in line with the dose counter.
-Put the cap back onto the inhaler and turn it in a clockwise direction, as you gently press down.
-You'll hear a "click" to let you know that the cap is fully closed.
-This is the only way to be sure that your next dose is loaded the right way.
-
-IT IS IMPORTANT TO REPEAT STEPS 1 AND 2 EACH TIME YOU INHALE.
-
-Rinse your mouth after using.
-
-STORING YOUR INHALER
-
-- Keep your inhaler clean and dry at all times.
-  If the mouthpiece needs cleaning, gently wipe the mouthpiece with a dry cloth or tissue as needed.
-  Do not wash the inhaler.
-  Avoid contact with any liquids.
-- Store in a dry place at 25°C (77°F) [may range between 15–30°C (59–86°F)].
-- Keep your inhaler out of the reach of children.
-
-HOW TO KNOW WHEN YOUR INHALER IS EMPTY
-
-The inhaler has a dose counter on the colored base, which shows the number of doses left to use.
-As you lift off the cap to take your dose, the dose counter on the base will count down by one (if you began with the dose counter reading "30" this will cause the dose counter to now read "29").
-Read the numbers from top to bottom.
-
-When the unit reads "01" this indicates the last remaining dose.
-After dose "01" the counter will read "00".
-When you replace the cap, the unit will lock and then must be thrown away.
-Start using a new ASMANEX TWISTHALER as instructed by your health care provider.
-
-BEFORE AND DURING TREATMENT WITH ASMANEX TWISTHALER
-
-Tell your healthcare provider about all the medicines you take, including prescription and non-prescription medicines, vitamins, and herbal supplements.
-
-ASMANEX TWISTHALER may affect the way other medicines work, and other medicines may affect how ASMANEX TWISTHALER works.
-
-Especially, tell your healthcare provider if you take antifungal medicines, antibiotic medicines, or anti-HIV medicines such as: ritonavir, ketoconazole, nefazodone, nelfinavir, indinavir, atazanavir, clarithromycin, saquinavir, telithromycin, itraconazole, and cobicistat-containing products.
-
-For some medicines (including medicines for HIV such as ritonavir, cobicistat-containing products, and certain antifungals and antibiotics) your doctor may wish to monitor you carefully.
-
-Ask your healthcare provider if you are not sure if any of your medicines are the kinds listed above.
-
-Know the medicines you take.
-Keep a list and show it to your healthcare provider and pharmacist each time you get a new medicine.
-
-POSSIBLE SIDE EFFECTS WITH ASMANEX TWISTHALER
-
-Serious Side Effects may include:
-
-- Fungal infections in the mouth and throat.
-  Patients who use inhaled steroid medicines for asthma may develop a fungal infection of the mouth.
-  Rinse your mouth after using ASMANEX TWISTHALER.
-- Worsening asthma or sudden asthma attacks
-- Serious allergic reactions.
-  Call your health care provider or get emergency medical care if you get any symptoms of a serious allergic reaction, including:
-  - Rash
-  - Swelling of the face, mouth and tongue
-  - Breathing problems
-- Possible increased risk of infection due to a weakened immune system with using steroid medicines.
-  Tell your health care provider if you or your child have or had TB, are exposed to anyone with chickenpox or measles, or about any other infections you or your child had before or while using ASMANEX TWISTHALER.
-- Adrenal insufficiency (your adrenal gland cannot produce enough steroids since you were on oral steroid medicine).
-  If you or your child took steroids by mouth and are having them decreased (tapered) or you are being switched to ASMANEX TWISTHALER, you should be followed closely by your health care professional.
-  Death can occur.
-  Tell your health care professional right away about any symptoms such as feeling tired or exhausted, weakness, nausea, vomiting, or symptoms of low blood pressure (such as dizziness or faintness).
-  If you or your child is under stress, such as with surgery, after surgery or trauma, you may need steroids by mouth again.
-- Decreased bone mass (bone mineral density).
-  Patients who use inhaled steroid medicines for a long time may have an increased risk of decreased bone mass, which can affect bone strength.
-  Talk with your health care provider about any questions about bone health.
-- Glaucoma, cataract, and visual disturbance.
-  Contact your doctor if you experience blurred vision or other changes in your vision.
-
-The most common side effects with ASMANEX TWISTHALER include: headache, nasal allergy symptoms, sore throat, upper respiratory tract infection, sinus infection, fungal infections in the mouth, painful menstrual periods, muscle and bone pain, back pain, and upset stomach.
-
-Tell your health care professional about any side effects that bother you or do not go away.
-These are not all of the possible side effects with ASMANEX TWISTHALER.
-For more information, ask your health care professional.
+| Patient Information ASMANEX® TWISTHALER® (AZ-ma-neks) (mometasone furoate inhalation powder) for oral inhalation use only |  |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- |
+| What is ASMANEX TWISTHALER? ASMANEX TWISTHALER is an inhaled corticosteroid (ICS) prescription medicine used as maintenance treatment for the prevention and control of asthma symptoms in people 4 years of age and older. ASMANEX TWISTHALER is not used to treat sudden severe symptoms of asthma.ASMANEX TWISTHALER should not be used as a rescue inhaler.It is not known if ASMANEX TWISTHALER is safe and effective in children less than 4 years of age. |  |  |  |  |  |  |
+| Do not use ASMANEX TWISTHALER: to treat sudden severe symptoms of asthma.if you are allergic to milk proteins, mometasone furoate, or any of the ingredients in ASMANEX TWISTHALER. See the end of this Patient Information leaflet for a complete list of ingredients in ASMANEX TWISTHALER. |  |  |  |  |  |  |
+| Before you use ASMANEX TWISTHALER, tell your healthcare provider about all of your medical conditions including if you: have liver problems.have osteoporosis.have an immune system problem.have eye problems such as increased pressure in the eye (glaucoma), cataracts, blurred vision, or other changes in your vision.are allergic to any medicines.are exposed to chickenpox or measles.have or have had tuberculosis (TB), any untreated fungal, bacterial or viral infections or parasitic infections, or eye infections caused by herpes.are pregnant or planning to become pregnant. It is not known if ASMANEX TWISTHALER may harm your unborn baby.are breastfeeding. It is not known if ASMANEX TWISTHALER passes into your breast milk and if it can harm your baby. You and your healthcare provider should decide if you will either take ASMANEX TWISTHALER or breastfeed. Tell your healthcare provider about all the medicines you take, including prescription and over-the-counter medicines, vitamins, and herbal supplements. ASMANEX TWISTHALER may affect the way other medicines work, and other medicines may affect how ASMANEX TWISTHALER works. Especially, tell your healthcare provider if you take antifungal medicines, antibiotic medicines, or anti-HIV medicines such as: |  |  |  |  |  |  |
+| ritonaviratazanavircobicistat-containing products | ketoconazoleclarithromycin | nefazodonesaquinavir | nelfinavirtelithromycin | indinaviritraconazole |  |  |
+| Ask your healthcare provider if you are not sure if any of your medicines are the kinds listed above. For some medicines (including medicines for HIV such as ritonavir, cobicistat-containing products, and certain antifungals and antibiotics) your healthcare provider may wish to monitor you carefully. Know the medicines you take. Keep a list and show it to your healthcare provider and pharmacist each time you get a new medicine. |  |  |  |  |  |  |
+| How should I use ASMANEX TWISTHALER? Read the step-by-step instructions for using ASMANEX TWISTHALER in the Instructions for Use. Use ASMANEX TWISTHALER exactly as prescribed. Do not use ASMANEX TWISTHALER more often than prescribed.You must use ASMANEX TWISTHALER regularly. It may take 1 week to 2 weeks or longer after you start using ASMANEX TWISTHALER for your asthma symptoms to get better. Do not stop using ASMANEX TWISTHALER even if you are feeling better, unless your healthcare provider tells you to.Do not change or stop using ASMANEX TWISTHALER or other asthma medicines used to control or threat your breathing problems unless told to do so by your healthcare provider. Your healthcare provider will change your medicines as needed.ASMANEX TWISTHALER comes in 2 strengths. Your healthcare provider has prescribed the strength that is best for you. Pay attention to the differences between ASMANEX TWISTHALER and your other inhaled medicines, including their prescribed use and the way they look.ASMANEX TWISTHALER gives the medicine in a fine powder that you or your child may not taste, smell, or feel.If you take more ASMANEX TWISTHALER than your healthcare provider has prescribed, call your healthcare provider right away.ASMANEX TWISTHALER does not relieve sudden asthma symptoms. Always have a rescue inhaler such as albuterol with you to treat sudden symptoms. Use your rescue inhaler if you have breathing problems between doses of ASMANEX TWISTHALER. If you do not have a rescue inhaler such as albuterol, call your healthcare provider to have a rescue inhaler prescribed for you.Rinse your mouth with water after each dose of ASMANEX TWISTHALER. Spit out the water. Do not swallow it. This will help lessen the chance of getting a yeast infection (thrush) in your mouth and throat.Call your healthcare provider or get medical care right away if you have asthma and your symptoms do not improve after using ASMANEX TWISTHALER regularly for 1 to 2 weeks.Do not use the ASMANEX TWISTHALER if the inhaler or any of its parts are not working properly. Take it to your healthcare provider or pharmacist. |  |  |  |  |  |  |
+| What are the possible side effects of ASMANEX TWISTHALER? ASMANEX TWISTHALER can cause serious side effects, including: |  |  |  |  |  |  |
+| Thrush in your mouth and throat. This is a serious but common side effect. You may develop thrush, a yeast (Candida albicans), in your mouth or throat. After each dose of ASMANEX TWISTHALER, rinse your mouth with water. Spit out the water. Do not swallow it. This will help to prevent thrush in your mouth or throat.Increased wheezing right after taking ASMANEX TWISTHALER. Always have a rescue inhaler with you to treat sudden wheezing.Serious allergic reactions. Stop taking ASMANEX TWISTHALER and call your healthcare provider or get emergency medical care right away if you get any of the following symptoms of a serious allergic reaction: |  |  |  |  |  |  |
+| rash | itching | swelling, including swelling of the face, mouth, and tongue |  |  | breathing problems |  |
+| Immune system effects and a higher chance for infections. You are more likely to get infections if you take medicines that weaken your immune system. Avoid contact with people who have contagious diseases such as chicken pox or measles while using ASMANEX TWISTHALER. Tell your healthcare provider about any signs of infection such as: |  |  |  |  |  |  |
+| fever | feeling tired | body aches | vomiting | pain | nausea | chills |
+| Adrenal insufficiency that can lead to death can happen when you stop taking oral corticosteroid medicines and start using inhaled corticosteroid medicines. Adrenal insufficiency can also happen in people who take higher doses of ASMANEX TWISTHALER than recommended over a long period of time. When your body is under stress such as from fever, trauma (such as a car accident), infection, or surgery, adrenal insufficiency can get worse. Symptoms of adrenal insufficiency include: |  |  |  |  |  |  |
+| feeling tired or exhausted (fatigue)weakness |  | lack of energynausea and vomiting |  | low blood pressure (hypotension)dizziness or feeling faint |  |  |
+| Lower bone mineral density. This may be a problem for people who already have a higher chance for low bone density (osteoporosis).Slowed growth in children. A child’s growth should be checked often.Eye problems including glaucoma, cataracts, and blurred vision. You should have regular eye exams while using ASMANEX TWISTHALER. |  |  |  |  |  |  |
+| The most common side effects reported while using ASMANEX TWISTHALER include: |  |  |  |  |  |  |
+| headachepainful menstrual periodssinus infectionupper respiratory tract infectionupset stomach |  |  |  | muscle and bone painback painnasal allergy symptomssore throat |  |  |
+| Other side effects: Worsening asthma or sudden asthma attacks have been reported with the use of inhaled mometasone furoate. Tell your healthcare provider about any side effect that bothers you or that does not go away. These are not all the side effects with ASMANEX TWISTHALER. Ask your healthcare provider or pharmacist for more information. Call your doctor for medical advice about side effects. You may report side effects to FDA at 1-800-FDA-1088. |  |  |  |  |  |  |
+| General information about the safe and effective use of ASMANEX TWISTHALER. Medicines are sometimes prescribed for purposes other than those listed in a Patient Information leaflet. Do not use ASMANEX TWISTHALER for a condition for which it was not prescribed. Do not give your ASMANEX TWISTHALER to other people, even if they have the same condition that you have. It may harm them. You can ask your healthcare provider or pharmacist for information about ASMANEX TWISTHALER that was written for healthcare professionals. For more information about ASMANEX TWISTHALER go to www.merck.com/product/patent/home.html or to report side effects call 1-877-888-4231. |  |  |  |  |  |  |
+| What are the ingredients in ASMANEX TWISTHALER? Active ingredient: mometasone furoate Inactive ingredient: anhydrous lactose (which contains trace amounts of milk proteins). |  |  |  |  |  |  |
+| Manufactured for: Merck Sharp & Dohme Corp., a subsidiary of MERCK & CO., INC., Whitehouse Station, NJ 08889, USA Manufactured by: MSD International GmbH (Singapore Branch) Singapore 638030, Singapore Copyright © 2008-2021 Merck Sharp & Dohme Corp., a subsidiary of Merck & Co., Inc. All rights reserved. |  |  |  |  |  |  |
+| This Patient Information has been approved by the U.S. Food and Drug Administration. |  |  |  |  | Revised Date: 02/2021 |  |
