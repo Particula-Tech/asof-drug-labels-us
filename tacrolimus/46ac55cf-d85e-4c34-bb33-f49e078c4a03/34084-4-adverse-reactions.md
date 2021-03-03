@@ -85,7 +85,7 @@ Table 4 Kidney Transplantation: Adverse Reactions Occurring in ≥15% of Patient
 
 Two trials were conducted for tacrolimus-based immunosuppression in conjunction with MMF and corticosteroids.
 In the non-US trial (Study 1), the incidence of adverse reactions was based on 1,195 kidney transplant patients that received tacrolimus (Group C, n=403), or one of two cyclosporine (CsA) regimens (Group A, n=384 and Group B, n=408) in combination with MMF and corticosteroids; all patients, except those in one of the two cyclosporine groups, also received induction with daclizumab.
-The trial population had a mean age of 46 years (range 17 to 76), the distribution was 65% male, and the composition was 93% Caucasian.
+The trial population had a mean age of 46 years (range 17 to 76); the distribution was 65% male, and the composition was 93% Caucasian.
 The 12-month post-transplant information from this trial is presented below.
 
 Adverse reactions that occurred in ≥10% of kidney transplant patients treated with tacrolimus in conjunction with MMF in Study 1 [Note: This trial was conducted entirely outside of the United States.
@@ -106,7 +106,7 @@ Table 5 Kidney Transplantation: Adverse Reactions Occurring in ≥10% of Patient
 | Key: Group A = CsA/MMF/CS, B = CsA/MMF/CS/Daclizumab, C = Tac/MMF/CS/Daclizumab CsA = Cyclosporine, CS = Corticosteroids, Tac = Tacrolimus, MMF = mycophenolate mofetil |  |  |  |
 
 In the U.S. trial (Study 2) with tacrolimus-based immunosuppression in conjunction with MMF and corticosteroids, 424 kidney transplant patients received tacrolimus (n=212) or cyclosporine (n=212) in combination with MMF 1 gram twice daily, basiliximab induction, and corticosteroids.
-The trial population had a mean age of 48 years (range 17 to 77), the distribution was 63% male, and the composition was White (74%), African-American (20%), Asian (3%), and Other (3%).
+The trial population had a mean age of 48 years (range 17 to 77); the distribution was 63% male, and the composition was White (74%), African-American (20%), Asian (3%), and Other (3%).
 The 12-month post-transplant information from this trial is presented below.
 
 Adverse reactions that occurred in ≥15% of kidney transplant patients treated with tacrolimus in conjunction with MMF in Study 2 are presented below:
@@ -152,9 +152,9 @@ Liver Transplantation
 
 There were two randomized comparative liver transplant trials.
 In the U.S. trial, 263 adult and pediatric patients received tacrolimus and steroids and 266 patients received cyclosporine-based immunosuppressive regimen (CsA/AZA).
-The trial population had a mean age of 44 years (range 0.4 to 70), the distribution was 52% male, and the composition was White (78%), African-American (5%), Asian (2%), Hispanic (13%), and Other (2%).
+The trial population had a mean age of 44 years (range 0.4 to 70); the distribution was 52% male, and the composition was White (78%), African-American (5%), Asian (2%), Hispanic (13%), and Other (2%).
 In the European trial, 270 patients received tacrolimus and steroids and 275 patients received CsA/AZA.
-The trial population had a mean age of 46 years (range 15 to 68), the distribution was 59% male, and the composition was White (95.4%), Black (1%), Asian (2%), and Other (2%).
+The trial population had a mean age of 46 years (range 15 to 68); the distribution was 59% male, and the composition was White (95.4%), Black (1%), Asian (2%), and Other (2%).
 
 The proportion of patients reporting more than one adverse event was >99% in both the tacrolimus group and the CsA/AZA group.
 Precautions must be taken when comparing the incidence of adverse reactions in the U.S. trial to that in the European trial.
@@ -223,7 +223,7 @@ Heart Transplantation
 
 The incidence of adverse reactions was determined based on two trials in primary orthotopic heart transplantation.
 In a trial conducted in Europe, 314 patients received a regimen of antibody induction, corticosteroids, and azathioprine (AZA) in combination with tacrolimus (n=157) or cyclosporine (n=157) for 18 months.
-The trial population had a mean age of 51 years (range 18 to 65), the distribution was 82% male, and the composition was White (96%), Black (3%), and Other (1%).
+The trial population had a mean age of 51 years (range 18 to 65); the distribution was 82% male, and the composition was White (96%), Black (3%), and Other (1%).
 
 The most common adverse reactions (≥15%) observed in tacrolimus-treated heart transplant patients are: abnormal renal function, hypertension, diabetes mellitus, CMV infection, tremor, hyperglycemia, leukopenia, infection, anemia, bronchitis, pericardial effusion, urinary tract infection, and hyperlipemia.
 Based on reported adverse reaction terms related to decreased renal function, nephrotoxicity was reported in approximately 59% of heart transplantation patients in the European trial.
@@ -259,7 +259,7 @@ Table 9 Heart Transplantation: Adverse Reactions Occurring in ≥15% of Patients
 In the European trial, the cyclosporine trough concentrations were above the pre-defined target range (i.e., 100 to 200 ng/mL) at Day 122 and beyond in 32% to 68% of the patients in the cyclosporine treatment arm, whereas the tacrolimus trough concentrations were within the pre-defined target range (i.e., 5 to 15 ng/mL) in 74% to 86% of the patients in the tacrolimus treatment arm.
 
 In a U.S. trial, the incidence of adverse reactions was based on 331 heart transplant patients that received corticosteroids and tacrolimus in combination with sirolimus (n=109), tacrolimus in combination with MMF (n=107) or cyclosporine modified in combination with MMF (n=115) for 1 year.
-The trial population had a mean age of 53 years (range 18 to 75), the distribution was 78% male, and the composition was White (83%), African-American (13%) and Other (4%).
+The trial population had a mean age of 53 years (range 18 to 75); the distribution was 78% male, and the composition was White (83%), African-American (13%) and Other (4%).
 
 Only selected targeted treatment-emergent adverse reactions were collected in the U.S. heart transplantation trial.
 Those reactions that were reported at a rate of 15% or greater in patients treated with tacrolimus and MMF include the following: any target adverse reactions (99%), hypertension (89%), hyperglycemia requiring antihyperglycemic therapy (70%), hypertriglyceridemia (65%), anemia (hemoglobin <10 g/dL) (65%), fasting blood glucose >140 mg/dL (on two separate occasions) (61%), hypercholesterolemia (57%), hyperlipidemia (34%), WBCs <3000 cells/mcL (34%), serious bacterial infections (30%), magnesium <1.2 mEq/L (24%), platelet count <75,000 cells/mcL (19%), and other opportunistic infections (15%).
@@ -330,7 +330,7 @@ Table 13 Incidence of Post-Transplant Diabetes Mellitus and Insulin Use at 1 Yea
 Heart Transplantation
 
 Insulin-dependent PTDM was reported in 13% and 22% of tacrolimus-treated heart transplant patients receiving mycophenolate mofetil (MMF) or azathioprine (AZA) and was reversible in 30% and 17% of these patients at one year post-transplant, in the U.S. and European randomized trials, respectively (Table 14).
-Hyperglycemia defined as two fasting plasma glucose levels ≥126 mg/dL was reported with the use of tacrolimus plus MMF or AZA in 32% and 35% of heart transplant recipients in the U.S. and European randomized trials, respectively, and may require treatment [see Adverse Reactions (6.1)].
+Hyperglycemia, defined as two fasting plasma glucose levels ≥126 mg/dL, was reported with the use of tacrolimus plus MMF or AZA in 32% and 35% of heart transplant recipients in the U.S. and European randomized trials, respectively, and may require treatment [see Adverse Reactions (6.1)].
 
 Table 14 Incidence of Post-Transplant Diabetes Mellitus and Insulin Use at 1 Year in Heart Transplant Recipients
 
@@ -373,7 +373,7 @@ The following adverse reactions were reported in either liver, kidney, and/or he
 ## 6.2 Postmarketing Adverse Reactions
 
 The following adverse reactions have been reported from worldwide marketing experience with tacrolimus.
-Because these reactions are reported voluntarily from a population of uncertain size it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
+Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
 Decisions to include these reactions in labeling are typically based on one or more of the following factors: (1) seriousness of the reaction, (2) frequency of the reporting, or (3) strength of causal connection to the drug.
 
 Other reactions include:
@@ -385,7 +385,7 @@ Other reactions include:
 - •Hemic/Lymphatic
 - Agranulocytosis, disseminated intravascular coagulation, hemolytic anemia, neutropenia, febrile neutropenia, pancytopenia, thrombocytopenic purpura, thrombotic thrombocytopenic purpura, pure red cell aplasia [see Warnings and Precautions (5.15)]
 - •Infections
-- Cases of progressive multifocal leukoencephalopathy (PML), sometimes fatal; polyoma virus-associated nephropathy, (PVAN) including graft loss [see Warnings and Precautions (5.2)]
+- Cases of progressive multifocal leukoencephalopathy (PML), sometimes fatal; polyoma virus-associated nephropathy (PVAN) including graft loss [see Warnings and Precautions (5.2)]
 - •Metabolic/Nutritional
 - Glycosuria, increased amylase including pancreatitis, weight decreased
 - •Miscellaneous

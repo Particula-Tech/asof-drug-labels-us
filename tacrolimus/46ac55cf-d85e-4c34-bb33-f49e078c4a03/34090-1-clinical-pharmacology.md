@@ -3,10 +3,10 @@
 ## 12.1 Mechanism of Action
 
 Tacrolimus binds to an intracellular protein, FKBP-12.
-A complex of tacrolimus-FKBP-12, calcium, calmodulin, and calcineurin (an ubiquitous mammalian intracellular enzyme) is then formed, after which the phosphatase activity of calcineurin is inhibited.
+A complex of tacrolimus-FKBP-12, calcium, calmodulin, and calcineurin (a ubiquitous mammalian intracellular enzyme) is then formed, after which the phosphatase activity of calcineurin is inhibited.
 Such inhibition prevents the dephosphorylation and translocation of various factors such as the nuclear factor of activated T-cells (NF-AT), and nuclear factor kappa-light-chain enhancer of activated B-cells (NF-κB).
 
-Tacrolimus inhibits the expression and/or production of several cytokines that include interleukin (IL)-1 beta, IL-2, IL-3, IL-4, IL-5, IL-6, IL-8, IL-10, gamma interferon, tumor necrosis factor-alpha, and granulocyte macrophage colony stimulating factor.
+Tacrolimus inhibits the expression and/or production of several cytokines that include interleukin (IL)-1 beta, IL-2, IL-3, IL-4, IL-5, IL-6, IL-8, IL-10, gamma interferon, tumor necrosis factor-alpha, and granulocyte macrophage colony-stimulating factor.
 Tacrolimus also inhibits IL-2 receptor expression and nitric oxide release, induces apoptosis and production of transforming growth factor beta that can lead to immunosuppressive activity.
 The net result is the inhibition of T-lymphocyte activation and proliferation as well as T-helper-cell-dependent B-cell response (i.e., immunosuppression).
 
@@ -120,7 +120,7 @@ Table 19 Pharmacokinetics in Renal and Hepatic Impaired Adult Patients
 
 Patients with Renal Impairment
 
-Tacrolimus pharmacokinetics following a single IV administration were determined in 12 patients (7 not on dialysis and 5 on dialysis, serum creatinine of 3.9±1.6 and 12±2.4 mg/dL, respectively) prior to their kidney transplant.
+Tacrolimus pharmacokinetics, following a single IV administration, were determined in 12 patients (7 not on dialysis and 5 on dialysis, serum creatinine of 3.9±1.6 and 12±2.4 mg/dL, respectively) prior to their kidney transplant.
 The pharmacokinetic parameters obtained were similar for both groups.
 The mean clearance of tacrolimus in patients with renal dysfunction was similar to that in normal volunteers (Table 19) [see Dosage and Administration (2.2) and Use in Specific Populations (8.6)].
 
@@ -133,7 +133,7 @@ The mean clearance was substantially lower in patients with severe hepatic dysfu
 
 Racial or Ethnic Groups The pharmacokinetics of tacrolimus have been studied following single IV and oral administration of tacrolimus to 10 African-American, 12 Latino-American, and 12 Caucasian healthy volunteers.
 There were no significant pharmacokinetic differences among the three ethnic groups following a 4-hour IV infusion of 0.015 mg/kg.
-However, after single oral administration of 5 mg, mean (±SD) tacrolimus Cmax in African-Americans (23.6±12.1 ng/mL) was significantly lower than in Caucasians (40.2±12.6 ng/mL) and Latino-Americans (36.2±15.8 ng/mL) (p<0.01).
+However, after single oral administration of 5 mg, mean (±SD) tacrolimus Cmax in African-Americans (23.6±12.1 ng/mL) was significantly lower than in Caucasians (40.2±12.6 ng/mL) and the Latino-Americans (36.2±15.8 ng/mL) (p<0.01).
 Mean AUC0-inf tended to be lower in African-Americans (203±115 ng·hr/mL) than Caucasians (344±186 ng·hr/mL) and Latino-Americans (274±150 ng·hr/mL).
 The mean (±SD) absolute oral bioavailability (F) in African-Americans (12±4.5%) and Latino-Americans (14±7.4%) was significantly lower than in Caucasians (19±5.8%, p=0.011).
 There was no significant difference in mean terminal T1/2 among the three ethnic groups (range from approximately 25 to 30 hours).

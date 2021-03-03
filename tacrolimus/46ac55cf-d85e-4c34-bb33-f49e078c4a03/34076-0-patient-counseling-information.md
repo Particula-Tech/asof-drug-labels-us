@@ -73,5 +73,3 @@ Inform patients that tacrolimus capsules can interfere with the usual response t
 Manufactured in India by Sandoz Private Limited for
 
 Sandoz Inc., Princeton, NJ 08540
-
-Revised: June 2019

@@ -7,7 +7,7 @@ Tacrolimus capsules should not be used without supervision by a physician with e
 Tacrolimus capsules are not interchangeable or substitutable for other tacrolimus extended-release products.
 This is because rate of absorption following the administration of an extended-release tacrolimus product is not equivalent to that of an immediate-release tacrolimus drug product.
 Under- or overexposure to tacrolimus may result in graft rejection or other serious adverse reactions.
-Changes between tracrolimus immediatete-release and extended-release dosage forms must occur under physician supervision [see Warnings and Precautions (5.3)].
+Changes between tacrolimus immediate-release and extended-release dosage forms must occur under physician supervision [see Warnings and Precautions (5.3)].
 
 Intravenous Formulation – Administration Precautions due to Risk of Anaphylaxis
 
@@ -60,7 +60,7 @@ The data in kidney transplant patients indicate that the African-American patien
 
 Table 2 Comparative Dose and Trough Concentrations Based on Race
 
-| Time After Transplant | Caucasiann=114 |  | African-Americann=56 |  |
+| Time After Transplant | CaucasianN=114 |  | African-AmericanN=56 |  |
 | --- | --- | --- | --- | --- |
 | Dose(mg/kg) | Trough Concentrations(ng/mL) | Dose(mg/kg) | Trough Concentrations (ng/mL) |  |
 | Day 7 | 0.18 | 12 | 0.23 | 10.9 |
@@ -112,7 +112,7 @@ In kidney transplant patients with post-operative oliguria, the initial dose of 
 
 ## 2.5 Dosage Adjustment in Patients with Hepatic Impairment
 
-Due to the reduced clearance and prolonged half-life, patients with severe hepatic impairment (Child Pugh ≥10) may require lower doses of tacrolimus capsules.
+Due to the reduced clearance and prolonged half-life, patients with severe hepatic impairment (Child-Pugh ≥10) may require lower doses of tacrolimus capsules.
 Close monitoring of blood concentrations is warranted.
 
 The use of tacrolimus capsules in liver transplant recipients experiencing post-transplant hepatic impairment may be associated with increased risk of developing renal insufficiency related to high whole blood concentrations of tacrolimus.
@@ -132,11 +132,11 @@ The relative risks of toxicity and efficacy failure are related to tacrolimus wh
 Therefore, monitoring of whole blood trough concentrations is recommended to assist in the clinical evaluation of toxicity and efficacy failure.
 
 Methods commonly used for the assay of tacrolimus include high-performance liquid chromatography with tandem mass spectrometric detection (HPLC/MS/MS) and immunoassays.
-Immunoassays may react with metabolites as well as the parent compound.
+Immunoassays may react with metabolites as well as parent compound.
 Therefore, assay results obtained with immunoassays may have a positive bias relative to results of HPLC/MS.
 The bias may depend upon the specific assay and laboratory.
 Comparison of the concentrations in published literature to patient concentrations using the current assays must be made with detailed knowledge of the assay methods and biological matrices employed.
 Whole blood is the matrix of choice and specimens should be collected into tubes containing ethylene diamine tetraacetic acid (EDTA) anti-coagulant.
 Heparin anti-coagulation is not recommended because of the tendency to form clots on storage.
 Samples which are not analyzed immediately should be stored at room temperature or in a refrigerator and assayed within 7 days; see assay instructions for specifics.
-If samples are to be kept longer they should be deep frozen at -20° C. One study showed drug recovery >90% for samples stored at -20° C for 6 months, with reduced recovery observed after 6 months.
+If samples are to be kept longer, they should be deep frozen at -20° C. One study showed drug recovery >90% for samples stored at -20° C for 6 months, with reduced recovery observed after 6 months.
