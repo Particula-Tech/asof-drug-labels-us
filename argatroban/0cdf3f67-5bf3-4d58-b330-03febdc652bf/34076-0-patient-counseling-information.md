@@ -10,6 +10,6 @@ Specifically, inform patients to report:
 
 Manufactured by: Exela Pharma Sciences, LLC Lenoir, NC 28645
 
-Distributed by: Hikma Pharmaceuticals USA Inc. Eatontown, NJ 07724
+Distributed by: Hikma Pharmaceuticals USA Inc. Berkeley Heights, NJ 07922
 
-Revised January 2020
+November 2020
