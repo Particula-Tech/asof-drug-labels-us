@@ -59,7 +59,7 @@ It is strongly recommended that the physician contact the local poison control c
 
 *Poisindex® Toxicologic Management.
 Topic: Antidepressants, Tricyclic.
-Micromedex Inc., Vol. 85.
+Micromedex Inc. Vol. 85.
 
 ### Chlordiazepoxide Overdosage
 

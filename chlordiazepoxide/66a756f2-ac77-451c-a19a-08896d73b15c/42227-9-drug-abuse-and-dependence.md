@@ -11,7 +11,7 @@ Abuse is the intentional, non-therapeutic use of a drug, even once, for its desi
 Misuse is the intentional use, for therapeutic purposes, of a drug by an individual in a way other than prescribed by a health care provider or for whom it was not prescribed.
 Drug addiction is a cluster of behavioral, cognitive, and physiological phenomena that may include a strong desire to take the drug, difficulties in controlling drug use (e.g., continuing drug use despite harmful consequences, giving a higher priority to drug use than other activities and obligations), and possible tolerance or physical dependence.
 Even taking benzodiazepines as prescribed may put patients at risk for abuse and misuse of their medication.
-Abuse and misuse may lead to addiction.
+Abuse and misuse of benzodiazepines may lead to addiction.
 
 Abuse and misuse of benzodiazepines often (but not always) involve the use of doses greater than the maximum recommended dosage and commonly involve concomitant use of other medications, alcohol, and/or illicit substances, which is associated with an increased frequency of serious adverse outcomes, including respiratory depression, overdose, or death.
 Benzodiazepines are often sought by individuals who abuse drugs and other substances, and by individuals with addictive disorders (see WARNINGS: Abuse, Misuse, and Addiction).

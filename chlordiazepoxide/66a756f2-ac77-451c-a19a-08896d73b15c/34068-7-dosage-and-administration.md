@@ -9,7 +9,7 @@ In general, lower dosages are recommended for elderly patients.
 Chlordiazepoxide and amitriptyline hydrochloride tablets 10 mg/25 mg are recommended in an initial dosage of 3 or 4 tablets daily in divided doses; this may be increased to 6 tablets daily as required.
 Some patients respond to smaller doses and can be maintained on 2 tablets daily.
 
-Chlordiazepoxide and amitriptyline hydrochloride tablets 5 mg/12.5 mg in an initial dosage of three or four tablets daily in divided doses may be satisfactory in patients who do not tolerate higher doses.
+Chlordiazepoxide and amitriptyline hydrochloride tablets 5 mg/12.5 mg in an initial dosage of 3 or 4 tablets daily in divided doses may be satisfactory in patients who do not tolerate higher doses.
 
 ## Screen for Bipolar Disorder Prior to Starting Chlordiazepoxide and Amitriptyline Hydrochloride Tablets
 

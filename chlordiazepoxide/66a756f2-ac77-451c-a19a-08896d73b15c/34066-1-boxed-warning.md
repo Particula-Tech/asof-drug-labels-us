@@ -1,10 +1,9 @@
 # WARNING: RISKS FROM CONCOMITANT USE WITH OPIOIDS; ABUSE, MISUSE, AND ADDICTION; DEPENDENCE AND WITHDRAWAL REACTIONS; and SUICIDAL THOUGHTS AND BEHAVIORS
 
-Concomitant use of benzodiazepines and opioids may result in profound sedation, respiratory depression, coma, and death.
-Reserve concomitant prescribing of these drugs in patients for whom alternative treatment options are inadequate.
-Limit dosages and durations to the minimum required.
-Follow patients for signs and symptoms of respiratory depression and sedation.
-
+- •Concomitant use of benzodiazepines and opioids may result in profound sedation, respiratory depression, coma, and death.
+  Reserve concomitant prescribing of these drugs for patients for whom alternative treatment options are inadequate.
+  Limit dosages and durations to the minimum required.
+  Follow patients for signs and symptoms of respiratory depression and sedation (see WARNINGS and PRECAUTIONS).
 - •The use of benzodiazepines, including chlordiazepoxide and amitriptyline hydrochloride tablets, exposes users to risks of abuse, misuse, and addiction, which can lead to overdose or death.
   Abuse and misuse of benzodiazepines commonly involve concomitant use of other medications, alcohol, and/or illicit substances, which is associated with an increased frequency of serious adverse outcomes.
   Before prescribing chlordiazepoxide and amitriptyline hydrochloride tablets and throughout treatment, assess each patient’s risk for abuse, misuse, and addiction (see WARNINGS).

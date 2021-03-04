@@ -133,7 +133,7 @@ Because of its amitriptyline component, chlordiazepoxide and amitriptyline hydro
 
 ## Drugs Metabolized by P450 2D6
 
-The biochemical activity of the drug metabolizing isozyme cytochrome P450 2D6 (debrisoquin hydroxylase) is reduced in a subset of the caucasian population (about 7% to 10% of caucasians are so called “poor metabolizers”); reliable estimates of the prevalence of reduced P450 2D6 isozyme activity among Asian, African and other populations are not yet available.
+The biochemical activity of the drug metabolizing isozyme cytochrome P450 2D6 (debrisoquin hydroxylase) is reduced in a subset of the Caucasian population (about 7% to 10% of Caucasians are so called “poor metabolizers”); reliable estimates of the prevalence of reduced P450 2D6 isozyme activity among Asian, African and other populations are not yet available.
 Poor metabolizers have higher than expected plasma concentrations of tricyclic antidepressants (TCAs) when given usual doses.
 Depending on the fraction of drug metabolized by P450 2D6, the increase in plasma concentration may be small or quite large (8-fold increase in plasma AUC of the TCA).
 
@@ -176,7 +176,7 @@ Anyone considering the use of chlordiazepoxide and amitriptyline hydrochloride t
 
 ## Geriatric Use
 
-In elderly and debilitated patients it is recommended that dosage be limited to the smallest effective amount to preclude the development of ataxia, over sedation, confusion or anticholinergic effects.
+In elderly and debilitated patients it is recommended that dosage be limited to the smallest effective amount to preclude the development of ataxia, oversedation, confusion or anticholinergic effects.
 
 Of the total number of subjects in clinical studies of chlordiazepoxide and amitriptyline hydrochloride tablets, 74 individuals were 65 years and older.
 An additional 34 subjects were between 60 and 69 years of age.
@@ -209,7 +209,7 @@ Inform patients about the signs and symptoms of benzodiazepine abuse, misuse, an
 
 Inform patients that the continued use of chlordiazepoxide and amitriptyline hydrochloride tablets may lead to clinically significant physical dependence and that abrupt discontinuation or rapid dosage reduction of chlordiazepoxide and amitriptyline hydrochloride tablets may precipitate acute withdrawal reactions, which can be life-threatening.
 Inform patients that in some cases, patients taking benzodiazepines have developed a protracted withdrawal syndrome with withdrawal symptoms lasting weeks to more than 12 months.
-Instruct patients that discontinuation or dosage reduction of chlordiazepoxide and amitriptyline tablets may require a slow taper (see WARNINGS: Dependence and Withdrawal Reactions and DRUG ABUSE AND DEPENDENCE).
+Instruct patients that discontinuation or dosage reduction of chlordiazepoxide and amitriptyline hydrochloride tablets may require a slow taper (see WARNINGS: Dependence and Withdrawal Reactions and DRUG ABUSE AND DEPENDENCE).
 
 ## Suicidal Thoughts and Behaviors
 
