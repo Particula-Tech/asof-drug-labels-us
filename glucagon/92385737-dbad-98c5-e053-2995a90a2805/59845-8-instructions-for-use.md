@@ -1,6 +1,6 @@
-# Gvoke HypoPen™ (glucagon injection) | Instructions for Use
+# Gvoke HypoPen ® (glucagon injection) | Instructions for Use
 
-Gvoke HypoPen™ (glucagon injection) | Instructions for Use
+Gvoke HypoPen® (glucagon injection) | Instructions for Use
 
 - Become familiar with the following instructions before an emergency happens.
 - Do not use this auto-injector past the expiration date printed on the device.
