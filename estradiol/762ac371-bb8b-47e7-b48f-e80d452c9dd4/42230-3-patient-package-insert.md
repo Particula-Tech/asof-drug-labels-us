@@ -234,7 +234,7 @@ Manufactured for:
 
 ASCEND Therapeutics ® US, LLC
 
-Morristown, NJ 07960
+Herndon, VA 20170
 
 By DPT Laboratories Ltd.
 
