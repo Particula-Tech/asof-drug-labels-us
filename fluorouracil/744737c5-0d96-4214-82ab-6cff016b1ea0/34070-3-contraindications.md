@@ -3,14 +3,14 @@
 Fluorouracil 5% Topical Cream may cause fetal harm when administered to a pregnant woman.
 
 There are no adequate and well-controlled studies in pregnant women with either the topical or the parenteral forms of fluorouracil.
-One birth defect (cleft lip and palate) has been reported in the newborn of a patient using 5% Topical Cream as recommended.
+One birth defect (cleft lip and palate) has been reported in the newborn of a patient using Fluorouracil 5% Topical Cream as recommended.
 One birth defect (ventricular septal defect) and cases of miscarriage have been reported when Fluorouracil 5% Topical Cream was applied to mucous membrane areas.
 Multiple birth defects have been reported in a fetus of a patient treated with intravenous fluorouracil.
 
 Animal reproduction studies have not been conducted with Fluorouracil 5% Topical Cream.
 Fluorouracil administered parenterally has been shown to be teratogenic in mice, rats, and hamsters when given at doses equivalent to the usual human intravenous dose; however, the amount of fluorouracil absorbed systemically after topical administration to actinic keratoses is minimal (see CLINICAL PHARMACOLOGY).
 Fluorouracil exhibited maximum teratogenicity when given to mice as single intraperitoneal injections of 10 to 40 mg/kg on Day 10 or 12 of gestation.
-Similarly, intraperitoneal doses of 12 to 37 mg/kg given to rats between Days 9 and 12 of gestation and intramuscular doses of 3 to 9 mg/kg given to hamsters between Days 8 and 11 of gestation were teratogenic and/or embryotoxic (ie, resulted in increased resorptions or embryolethality).
+Similarly, intraperitoneal doses of 12 to 37 mg/kg given to rats between Days 9 and 12 of gestation and intramuscular doses of 3 to 9 mg/kg given to hamsters between Days 8 and 11 of gestation were teratogenic and/or embryotoxic (i.e., resulted in increased resorptions or embryolethality).
 In monkeys, divided doses of 40 mg/kg given between Days 20 and 24 of gestation were not teratogenic.
 Doses higher than 40 mg/kg resulted in abortion.
 

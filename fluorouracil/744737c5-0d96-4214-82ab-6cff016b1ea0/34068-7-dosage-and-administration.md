@@ -1,6 +1,6 @@
 # DOSAGE AND ADMINISTRATION
 
-When Fluorouracil 5% Topical Cream is applied to a lesion, a response occurs with the following sequence: erythema, usually followed by vesiculation, desquamation, erosion and reepithelialization.
+When Fluorouracil 5% Topical Cream is applied to a lesion, a response occurs with the following sequence: erythema, usually followed by vesiculation, desquamation, erosion, and re-epithelialization.
 
 Fluorouracil 5% Topical Cream should be applied preferably with a nonmetal applicator or suitable glove.
 If Fluorouracil 5% Topical Cream is applied with the fingers, the hands should be washed immediately afterward.

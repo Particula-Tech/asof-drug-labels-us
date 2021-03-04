@@ -1,5 +1,0 @@
-FOR TOPICAL USE ONLY - NOT FOR OPHTHALMIC, ORAL, OR INTRAVAGINAL USE.
-
-Manufactured for: Mylan Pharmaceuticals Inc. Morgantown, WV 26505 U.S.A.
-
-1337.1 JANUARY 2013 FLUOR:R1
