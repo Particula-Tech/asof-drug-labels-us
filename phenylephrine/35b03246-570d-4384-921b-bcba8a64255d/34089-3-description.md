@@ -3,7 +3,7 @@
 Phenylephrine is an alpha-1 adrenergic receptor agonist.
 VAZCULEP (phenylephrine hydrochloride) Injection, 10 mg/mL, is a sterile, nonpyrogenic solution for intravenous use.
 It must be diluted before administration as an intravenous bolus or continuous intravenous infusion.
-The chemical name of phenylephrine hydrochloride is (-)-m-hydroxy-α-[(methylamino)methyl]benzyl alcohol hydrochloride, and its structural formula is depicted below:
+The chemical name of phenylephrine hydrochloride is (-)- m-hydroxy-α-[(methylamino)methyl]benzyl alcohol hydrochloride, and its structural formula is depicted below:
 
 Phenylephrine hydrochloride is soluble in water and ethanol, and insoluble in chloroform and ethyl ether.
 VAZCULEP (phenylephrine hydrochloride) Injection, 10 mg/mL, is sensitive to light.

@@ -8,7 +8,7 @@ Risk Summary
 
 There are no adequate or well-controlled studies with phenylephrine hydrochloride injection in pregnant women, nor have animal reproduction studies been conducted.
 Published studies in normotensive pregnant rabbits report early onset labor, increased fetal lethality, and adverse placental effects with subcutaneous phenylephrine administration during gestation at doses approximately 1.9 times the total daily human dose.
-Published studies in normotensive pregnant sheep report decreased uterine blood flow and decreased PaO2 in the fetus with intravenous phenylephrine administration during late gestation at doses less than and similar to the human dose.
+Published studies in normotensive pregnant sheep report decreased uterine blood flow and decreased PaO 2 in the fetus with intravenous phenylephrine administration during late gestation at doses less than and similar to the human dose.
 It is not known whether VAZCULEP can cause fetal harm when administered to a pregnant woman.
 VAZCULEP should be given to a pregnant woman only if the potential benefit justifies the potential risk to the fetus.
 
@@ -28,8 +28,8 @@ The doses administered were 1.9 times the total daily human dose of 10 mg/day ba
 Published studies in pregnant normotensive sheep demonstrate that intravenous phenylephrine (4 mcg/kg/min for 30 minutes, equivalent to 3.6 to 4.1 mcg/kg/min human equivalent dose based on body surface area) administered during the third trimester of pregnancy decreased uterine blood flow by 42%.
 This dose is 1.1 to 1.2 times the human bolus dose of 200 mcg/60 kg person based on body surface area.
 Mean fetal blood pressure and heart rate fluctuated above and below controls by about 7% during the infusion.
-Fetal PaO2 was significantly decreased by approximately 26% of control during the infusion.
-Likewise, PaCO2 was increased and pH was decreased.
+Fetal PaO 2 was significantly decreased by approximately 26% of control during the infusion.
+Likewise, PaCO 2 was increased and pH was decreased.
 The clinical significance of these findings is not clear; however, the results suggest the potential for cardiovascular effects on the fetus when phenylephrine is used during pregnancy.
 
 ## 8.3 Nursing Mothers
