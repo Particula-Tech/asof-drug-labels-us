@@ -14,11 +14,9 @@ Patients should be advised:
 - to inform their physician of any muscle pain, tenderness, or weakness; onset of abdominal pain; or any other new symptoms.
 - not to breastfeed during treatment with fenofibrate tablets and for 5 days after the final dose.
 
-Manufactured by: Bora Pharmaceutical Laboratories Inc. Jhunan, Taiwan
+Distributed by:
 
-Distributed by: Amneal Pharmaceuticals LLC Bridgewater, NJ 08807
+Amneal Pharmaceuticals LLC Bridgewater, NJ 08807
 
-Product of Italy
-
-295-13 Rev.
-05-2019-01
+Rev.
+01-2021-00
