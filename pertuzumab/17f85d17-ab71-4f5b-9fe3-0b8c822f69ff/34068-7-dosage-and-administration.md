@@ -94,7 +94,7 @@ Preparation
 Prepare the solution for infusion, using aseptic technique, as follows:
 
 - Parenteral drug products should be inspected visually for particulates and discoloration prior to administration.
-- Withdraw the appropriate volume of PERJETA solution from the vial(s).
+- Withdraw the appropriate volume of PERJETA solution from the vial(s) using a sterile needle and syringe.
 - Dilute into a 250 mL 0.9% sodium chloride PVC or non-PVC polyolefin infusion bag.
 - Mix diluted solution by gentle inversion.
   Do not shake.
