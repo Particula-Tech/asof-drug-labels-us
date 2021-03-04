@@ -15,23 +15,23 @@ An anticholinergic agent, e.g., atropine sulfate or glycopyrrolate, should be ad
 
 ## 2.2. Dosage in Adults
 
-1. a.Peripheral nerve stimulation devices capable of delivering a train-of-four (TOF) stimulus are essential to effectively using BLOXIVERZ.
-2. b.There must be a twitch response to the first stimulus in the TOF of at least 10% of its baseline level, i.e., the response prior to NMBA administration, prior to the administration of BLOXIVERZ.
-3. c.Prior to administration, visually inspect BLOXIVERZ for particulate matter and discoloration.
-4. d.BLOXIVERZ should be injected slowly by intravenous route over a period of at least 1 minute.
-5. e.A 0.03 mg/kg to 0.07 mg/kg dose of BLOXIVERZ will generally achieve a TOF twitch ratio of 90% (TOF0.9) within 10 to 20 minutes of administration.
+1. Peripheral nerve stimulation devices capable of delivering a train-of-four (TOF) stimulus are essential to effectively using BLOXIVERZ.
+2. There must be a twitch response to the first stimulus in the TOF of at least 10% of its baseline level, i.e., the response prior to NMBA administration, prior to the administration of BLOXIVERZ.
+3. Prior to administration, visually inspect BLOXIVERZ for particulate matter and discoloration.
+4. BLOXIVERZ should be injected slowly by intravenous route over a period of at least 1 minute.
+5. A 0.03 mg/kg to 0.07 mg/kg dose of BLOXIVERZ will generally achieve a TOF twitch ratio of 90% (TOF 0.9) within 10 to 20 minutes of administration.
    Dose selection should be based on the extent of spontaneous recovery that has occurred at the time of administration, the half-life of the NMBA being reversed, and whether there is a need to rapidly reverse the NMBA.
-   1. •The 0.03 mg/kg dose is recommended for:
-      - •Reversal of NMBAs with shorter half-lives, e.g., rocuronium, or
-      - •When the first twitch response to the TOF stimulus is substantially greater than 10% of baseline or when a second twitch is present.
-   2. •The 0.07 mg/kg dose is recommended for
-      - •NMBAs with longer half-lives, e.g., vecuronium and pancuronium, or
-      - •When the first twitch response is relatively weak, i.e., not substantially greater than 10% of baseline or
-      - •There is need for more rapid recovery.
-6. f.TOF monitoring should continue to be used to evaluate the extent of recovery of neuromuscular function and the possible need for an additional dose of BLOXIVERZ.
-7. g.TOF monitoring alone should not be relied upon to determine the adequacy of reversal of neuromuscular blockade as related to a patient’s ability to adequately ventilate and maintain a patent airway following tracheal extubation.
-8. h.Patients should continue to be monitored for adequacy of reversal from NMBAs for a period of time that would assure full recovery based on the patient’s medical condition and the pharmacokinetics of neostigmine and the NMBA used.
-9. i.The recommended maximum total dose is 0.07 mg/kg or up to a total of 5 mg, whichever is less.
+   1. The 0.03 mg/kg dose is recommended for:
+      - Reversal of NMBAs with shorter half-lives, e.g., rocuronium, or
+      - When the first twitch response to the TOF stimulus is substantially greater than 10% of baseline or when a second twitch is present.
+   2. The 0.07 mg/kg dose is recommended for
+      - NMBAs with longer half-lives, e.g., vecuronium and pancuronium, or
+      - When the first twitch response is relatively weak, i.e., not substantially greater than 10% of baseline or
+      - There is need for more rapid recovery.
+6. TOF monitoring should continue to be used to evaluate the extent of recovery of neuromuscular function and the possible need for an additional dose of BLOXIVERZ.
+7. TOF monitoring alone should not be relied upon to determine the adequacy of reversal of neuromuscular blockade as related to a patient’s ability to adequately ventilate and maintain a patent airway following tracheal extubation.
+8. Patients should continue to be monitored for adequacy of reversal from NMBAs for a period of time that would assure full recovery based on the patient’s medical condition and the pharmacokinetics of neostigmine and the NMBA used.
+9. The recommended maximum total dose is 0.07 mg/kg or up to a total of 5 mg, whichever is less.
 
 ## 2.3. Dosage in Pediatric Patients, Including Neonates
 
