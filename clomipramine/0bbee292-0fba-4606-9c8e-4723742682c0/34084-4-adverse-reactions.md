@@ -16,7 +16,7 @@ There was no apparent relationship between the adverse events and elevated plasm
 Incidence in Controlled Clinical Trials
 
 The following table enumerates adverse events that occurred at an incidence of 1% or greater among patients with OCD who received clomipramine hydrochloride capsules, USP in adult or pediatric placebo-controlled clinical trials.
-The frequencies were obtained from pooled data of clinical trials involving either adults receiving clomipramine hydrochloride capsules (N=322) or placebo (N=319) or children treated with clomipramine hydrochloride capsules, USP (N=46) or placebo (N=44).
+The frequencies were obtained from pooled data of clinical trials involving either adults receiving clomipramine hydrochloride capsules, USP (N=322) or placebo (N=319) or children treated with clomipramine hydrochloride capsules, USP (N=46) or placebo (N=44).
 The prescriber should be aware that these figures cannot be used to predict the incidence of side effects in the course of usual medical practice, in which patient characteristics and other factors differ from those that prevailed in the clinical trials.
 Similarly, the cited frequencies cannot be compared with figures obtained from other clinical investigations involving different treatments, uses, and investigators.
 The cited figures, however, provide the physician with a basis for estimating the relative contribution of drug and nondrug factors to the incidence of side effects in the populations studied.
@@ -208,12 +208,10 @@ Rare - albuminuria, anorgasmy, breast engorgement, breast fibroadenosis, cervica
 
 Postmarketing Experience
 
-The following adverse drug reaction has been reported during post-approval use of clomipramine hydrochloride capsules.
+The following adverse drug reaction has been reported during post-approval use of clomipramine hydrochloride capsules, USP.
 Because this reaction is reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate frequency.
 
 Eye Disorders – angle-closure glaucoma.
-
-Immune System Disorders – Drug Rash with Eosinophilia and Systemic Symptoms (DRESS)
 
 Immune System Disorders – Drug Rash with Eosinophilia and Systemic Symptoms (DRESS)
 
