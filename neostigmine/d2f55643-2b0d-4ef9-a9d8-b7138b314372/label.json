@@ -1,0 +1,21 @@
+{
+  "application_numbers": [
+    "NDA204078"
+  ],
+  "inn": "neostigmine",
+  "labeler": "Exela Pharma Sciences, LLC",
+  "package_ndcs": [
+    "51754-1210-1",
+    "51754-1210-3",
+    "51754-1220-3"
+  ],
+  "products": [
+    {
+      "form": "INJECTION",
+      "generic": "neostigmine methylsulfate",
+      "name": "Bloxiverz"
+    }
+  ],
+  "setid": "d2f55643-2b0d-4ef9-a9d8-b7138b314372",
+  "source": "dailymed"
+}
