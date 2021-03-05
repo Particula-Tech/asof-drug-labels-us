@@ -37,12 +37,12 @@ Rates of CHD events were comparable among women in the CE plus MPA group and the
 ### Venous Thromboembolism
 
 In the WHI estrogen-alone substudy, the risk of VTE (DVT and PE) was increased for women receiving daily CE (0.625 mg)-alone compared to placebo (30 versus 22 per 10,000 women-years), although only the increased risk of DVT reached statistical significance (23 versus 15 per 10,000 women-years).
-The increase in VTE risk was demonstrated during the first 2 years3[see Clinical Studies(14.3)].
+The increase in VTE risk was demonstrated during the first 2 years3[see Clinical Studies (14.3)].
 Should a VTE occur or be suspected, estrogen-alone therapy should be discontinued immediately.
 
 In the WHI estrogen plus progestin substudy, a statistically significant 2-fold greater rate of VTE was reported in women receiving daily CE (0.625 mg) plus MPA (2.5 mg) compared to women receiving placebo (35 versus 17 per 10,000 women-years).
 Statistically significant increases in risk for both DVT (26 versus 13 per 10,000 women-years) and PE (18 versus 8 per 10,000 women-years) were also demonstrated.
-The increase in VTE risk was demonstrated during the first year and persisted4[see Clinical Studies(14.3)].
+The increase in VTE risk was demonstrated during the first year and persisted4 [see Clinical Studies(14.3)].
 Should a VTE occur or be suspected, estrogen plus progestin therapy should be discontinued immediately.
 
 If feasible, estrogens should be discontinued at least 4 to 6 weeks before surgery of the type associated with an increased risk of thromboembolism, or during periods of prolonged immobilization.
@@ -108,10 +108,11 @@ The relative risk of probable dementia for CE-alone versus placebo was 1.49 (95 
 The absolute risk of probable dementia for CE-alone versus placebo was 37 versus 25 cases per 10,000 women-years8[see Use in Specific Populations (8.5) and Clinical Studies (14.4)].
 
 In the WHIMS estrogen plus progestin ancillary study, a population of 4,532 postmenopausal women 65 to 79 years of age was randomized to daily CE (0.625 mg) plus MPA (2.5 mg) or placebo.
-After an average follow-up of 4 years, 40 women in the CE plus MPA group and 21 women in the placebo group were diagnosed with probable dementia.The relative risk of probable dementia for CE plus MPA versus placebo was 2.05 (95 percent CI, 1.21-3.48).
-The absolute risk of probable dementia for CE plus MPA versus placebo was 45 versus 22 cases per 10,000 women-years8[see Use in Specific Populations (8.5), and Clinical Studies (14.4)].
+After an average follow-up of 4 years, 40 women in the CE plus MPA group and 21 women in the placebo group were diagnosed with probable dementia.
+The relative risk of probable dementia for CE plus MPA versus placebo was 2.05 (95 percent CI, 1.21-3.48).
+The absolute risk of probable dementia for CE plus MPA versus placebo was 45 versus 22 cases per 10,000 women-years8 [see Use in Specific Populations (8.5), and Clinical Studies (14.4)].
 
-When data from the two populations in the WHIMS estrogen-alone and estrogen plus progestin ancillary studies were pooled as planned in the WHIMS protocol, the reported overall RR for probable dementia was 1.76 (95 percent CI, 1.19-2.60).
+When data from the two populations in the WHIMS estrogen-alone and estrogen plus progestin ancillary studies were pooled as planned in the WHIMS protocol, the reported overall relative risk for probable dementia was 1.76 (95 percent CI, 1.19-2.60).
 Since both ancillary studies were conducted in women 65 to 79 years of age, it is unknown whether these findings apply to younger postmenopausal women8[see Use in Specific Populations (8.5), and Clinical Studies (14.4)].
 
 ## 5.4 Gallbladder Disease
@@ -187,9 +188,8 @@ Serum follicle stimulating hormone (FSH) and estradiol levels have not been show
 
 ## 5.18 Drug-Laboratory Test Interactions
 
-The use of sex steroids may influence the results of certain laboratory tests.
+Accelerated prothrombin time, partial thromboplastin time, and platelet aggregation time; increased platelet count; increased factors II, VII antigen, VIII antigen, VIII coagulant activity, IX, X, XII, VII-X complex, II-VII-X complex, and beta-thromboglobulin; decreased levels of antifactor Xa and antithrombin III, decreased antithrombin III activity; increased levels of fibrinogen and fibrinogen activity; increased plasminogen antigen and activity.
 
-- Accelerated prothrombin time, partial thromboplastin time, and platelet aggregation time; increased platelet count; increased factors II, VII antigen, VIII antigen, VIII coagulant activity, IX, X, XII, VII-X complex, II-VII-X complex, and beta-thromboglobulin; decreased levels of antifactor Xa and antithrombin III, decreased antithrombin III activity; increased levels of fibrinogen and fibrinogen activity; increased plasminogen antigen and activity.
 - Increased TBG levels leading to increased circulating total thyroid hormone, as measured by protein-bound iodine (PBI), T4 levels (by column or by radioimmunoassay) or T3 levels by radioimmunoassay.
   T3 resin uptake is decreased, reflecting the elevated TBG.
   Free T4 and free T3 concentrations are unaltered.

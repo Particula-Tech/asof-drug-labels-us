@@ -281,6 +281,6 @@ Manufactured for:
 
 Bayer HealthCare Pharmaceuticals Inc. Whippany, NJ 07981
 
-Manufactured by 3M Drug Delivery Systems
+Manufactured by Kindeva Drug Delivery L.P
 
 Northridge, CA 91324

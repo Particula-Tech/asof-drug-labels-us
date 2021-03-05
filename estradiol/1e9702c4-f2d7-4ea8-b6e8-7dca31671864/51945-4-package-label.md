@@ -17,8 +17,6 @@ For transdermal use only.
 
 Keep this and all drugs out of the reach of children.
 
-Rx only
-
 # PACKAGE/LABEL PRINCIPAL DISPLAY PANEL
 
 Climara®

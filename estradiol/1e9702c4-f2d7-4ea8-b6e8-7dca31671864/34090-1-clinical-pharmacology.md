@@ -49,8 +49,6 @@ In a single dose, randomized, crossover study conducted to compare the effect of
 The estradiol serum concentration profiles are shown in Figure 2.
 Values of Cmax and Cavg were, respectively, 25 percent and 17 percent higher with the buttock application than with the abdomen application.
 
-Figure 2: Observed Mean (± SE) Estradiol Serum Concentrations for a One Week Application of the Climara Transdermal System (25 cm2) to the Abdomen and Buttocks of 38 Postmenopausal Women
-
 Table 2 provides a summary of estradiol pharmacokinetic parameters determined during evaluation of the Climara transdermal system.
 
 Table 2: Pharmacokinetic Summary (Mean Estradiol Values)
