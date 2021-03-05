@@ -15,8 +15,8 @@ Removal of angiotensin II negative feedback on renin secretion leads to increase
 ACE is identical to kininase, an enzyme that degrades bradykinin.
 Whether increased levels of bradykinin, a potent vasodepressor peptide, play a role in the therapeutic effects of Enalapril Maleate Tablets remains to be elucidated.
 
-While the mechanism through which Enalapril Maleate Tablets lowers blood pressure is believed to be primarily suppression of the renin-angiotensin-aldosterone system, Enalapril Maleate Tablets is antihypertensive even in patients with low-renin hypertension.
-Although Enalapril Maleate Tablets was antihypertensive in all races studied, black hypertensive patients (usually a low-renin hypertensive population) had a smaller average response to enalapril monotherapy than non-black patients.
+While the mechanism through which Enalapril Maleate Tablets lowers blood pressure is believed to be primarily suppression of the renin-angiotensin-aldosterone system, Enalapril Maleate Tablets are antihypertensive even in patients with low-renin hypertension.
+Although Enalapril Maleate Tablets were antihypertensive in all races studied, black hypertensive patients (usually a low-renin hypertensive population) had a smaller average response to enalapril monotherapy than non-black patients.
 
 Pharmacokinetics and Metabolism
 
@@ -105,7 +105,7 @@ The results are shown in the following table.
 
 |  | Six Months | One Year |
 | --- | --- | --- |
-|  | SURVIVAL (%) |  |
+|  | Survival (%) |  |
 | Enalapril Maleate Tablets (n=127) | 74 | 64 |
 | Placebo (n=126) | 56 | 48 |
 
@@ -118,10 +118,10 @@ At steady state, the mean effective half-life for accumulation of enalaprilat wa
 Conversion of enalapril to enalaprilat was in the range of 63-76%.
 The overall results of this study indicate that the pharmacokinetics of enalapril in hypertensive children aged 2 months to ≤16 years are consistent across the studied age groups and consistent with pharmacokinetic historic data in healthy adults.
 
-In a clinical study involving 110 hypertensive pediatric patients 6 to 16 years of age, patients who weighed <50 kg received either 0.625, 2.5 or 20 mg of enalapril daily and patients who weighed ≥ 50 kg received either 1.25, 5, or 40 mg of enalapril daily.
+In a clinical study involving 110 hypertensive pediatric patients 6 to 16 years of age, patients who weighed <50 kg received either 0.625, 2.5 or 20 mg of enalapril daily and patients who weighed ≥50 kg received either 1.25, 5, or 40 mg of enalapril daily.
 Enalapril administered once daily lowered trough blood pressure in a dose-dependent manner.
 The dose-dependent antihypertensive efficacy of enalapril was consistent across all subgroups (age, Tanner stage, gender, race).
 However, the lowest doses studied, 0.625 mg and 1.25 mg, corresponding to an average of 0.02 mg/kg once daily, did not appear to offer consistent antihypertensive efficacy.
-In this study, Enalapril Maleate Tablets was generally well tolerated.
+In this study, Enalapril Maleate Tablets were generally well tolerated.
 
 In the above pediatric studies, enalapril maleate was given as tablets of Enalapril Maleate Tablets and for those children and infants who were unable to swallow tablets or who required a lower dose than is available in tablet form, enalapril was administered in a suspension formulation (see DOSAGE AND ADMINISTRATION, Preparation of Suspension).

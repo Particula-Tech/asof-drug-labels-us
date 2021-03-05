@@ -1,7 +1,7 @@
 # ADVERSE REACTIONS
 
-Enalapril Maleate Tablets has been evaluated for safety in more than 10,000 patients, including over 1000 patients treated for one year or more.
-Enalapril Maleate Tablets has been found to be generally well tolerated in controlled clinical trials involving 2987 patients.
+Enalapril Maleate Tablets have been evaluated for safety in more than 10,000 patients, including over 1000 patients treated for one year or more.
+Enalapril Maleate Tablets have been found to be generally well tolerated in controlled clinical trials involving 2987 patients.
 For the most part, adverse experiences were mild and transient in nature.
 In clinical trials, discontinuation of therapy due to clinical adverse experiences was required in 3.3 percent of patients with hypertension and in 5.7 percent of patients with heart failure.
 The frequency of adverse experiences was not related to total daily dosage within the usual dosage ranges.
@@ -72,7 +72,7 @@ Other serious clinical adverse experiences occurring since the drug was marketed
 
 Body As A Whole: Anaphylactoid reactions (see WARNINGS, Anaphylactoid and Possibly Related Reactions).
 
-Cardiovascular: Cardiac arrest; myocardial infarction or cerebrovascular accident, possibly secondary to excessive hypotension in high risk patients (see WARNINGS,Hypotension); pulmonary embolism and infarction; pulmonary edema; rhythm disturbances including atrial tachycardia and bradycardia; atrial fibrillation; palpitation, Raynaud’s phenomenon.
+Cardiovascular: Cardiac arrest; myocardial infarction or cerebrovascular accident, possibly secondary to excessive hypotension in high risk patients (see WARNINGS, Hypotension); pulmonary embolism and infarction; pulmonary edema; rhythm disturbances including atrial tachycardia and bradycardia; atrial fibrillation; palpitation, Raynaud’s phenomenon.
 
 Digestive: Ileus, pancreatitis, hepatic failure, hepatitis (hepatocellular [proven on rechallenge] or cholestatic jaundice) (see WARNINGS, Hepatic Failure), melena, anorexia, dyspepsia, constipation, glossitis, stomatitis, dry mouth.
 
@@ -130,4 +130,4 @@ Liver Function Tests
 
 Elevations of liver enzymes and/or serum bilirubin have occurred (see WARNINGS, Hepatic Failure).
 
-To report SUSPECTED ADVERSE REACTIONS, contact Valeant Pharmaceuticals North America LLC at 1-800-321-4576 or FDA at 1-800-FDA-1088 or www.fda.gov/medwatch.
+To report SUSPECTED ADVERSE REACTIONS, contact Oceanside Pharmaceuticals at 1-800-321-4576 or FDA at 1-800-FDA-1088 or www.fda.gov/medwatch.

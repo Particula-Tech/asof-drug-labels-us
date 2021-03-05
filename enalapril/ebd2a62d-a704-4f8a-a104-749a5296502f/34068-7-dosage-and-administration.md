@@ -22,17 +22,17 @@ The usual dose of enalapril is recommended for patients with a creatinine cleara
 For patients with creatinine clearance less than or equal to 30 mL/min (serum creatinine more than or equal to 3 mg/dL), the first dose is 2.5 mg once daily.
 The dosage may be titrated upward until blood pressure is controlled or to a maximum of 40 mg daily.
 
-| Renal Status | Creatinine Clearance mL/min | Initial Dose mg/day |
+| Renal Status | Creatinine Clearance (mL/min) | Initial Dose (mg/day) |
 | --- | --- | --- |
 | Normal Renal Function | >80 mL/min | 5 mg |
-| Mild Impairment | ≤ 80 >30 mL/min | 5 mg |
+| Mild Impairment | ≤80 >30 mL/min | 5 mg |
 | Moderate to Severe Impairment | ≤30 mL/min | 2.5 mg |
-| Dialysis Patients* | - | 2.5 mg on dialysis days† |
-| *See WARNINGS, Anaphylactoid Reactions during Membrane Exposure.†Dosage on nondialysis days should be adjusted depending on the blood pressure response. |  |  |
+| Dialysis Patients¹ |  | 2.5 mg on dialysis days² |
+| *SeeWARNINGS, Anaphylactoid Reactions During Membrane Exposure.²Dosage on nondialysis days should be adjusted depending on the blood pressure response. |  |  |
 
 Heart Failure
 
-Enalapril Maleate Tablets is indicated for the treatment of symptomatic heart failure, usually in combination with diuretics and digitalis.
+Enalapril Maleate Tablets are indicated for the treatment of symptomatic heart failure, usually in combination with diuretics and digitalis.
 In the placebo-controlled studies that demonstrated improved survival, patients were titrated as tolerated up to 40 mg, administered in two divided doses.
 
 The recommended initial dose is 2.5 mg.
@@ -64,7 +64,7 @@ The usual recommended starting dose is 0.08 mg/kg (up to 5 mg) once daily.
 Dosage should be adjusted according to blood pressure response.
 Doses above 0.58 mg/kg (or in excess of 40 mg) have not been studied in pediatric patients (see CLINICAL PHARMACOLOGY, Clinical Pharmacology in Pediatric Patients).
 
-Enalapril Maleate Tablets is not recommended in neonates and in pediatric patients with glomerular filtration rate less than 30 mL/min/1.73 m2, as no data are available.
+Enalapril Maleate Tablets are not recommended in neonates and in pediatric patients with glomerular filtration rate less than 30 mL/min/1.73 m2, as no data are available.
 
 Preparation of Suspension (for 200 mL of a 1.0 mg/mL suspension)
 

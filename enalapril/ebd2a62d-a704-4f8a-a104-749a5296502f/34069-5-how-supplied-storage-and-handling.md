@@ -2,11 +2,11 @@
 
 | Enalapril Maleate Tablets |  |  |  |
 | --- | --- | --- | --- |
-| NDC Number | Strength | Quantity | Description |
-| 68682-710-3068682-710-9068682-710-0168682-710-10 | 2.5 mg | Bottles of 30(with desiccant)Bottles of 90(with desiccant)Bottles of 100(with desiccant)Bottles of 1,000(with desiccant) | White, oval shaped tablet imprinted with “VASO 2.5” and scored on one side andscored on the other. |
-| 68682-711-3068682-711-9068682-711-0168682-711-10 | 5 mg | Bottles of 30(with desiccant)Bottles of 90(with desiccant)Bottles of 100(with desiccant)Bottles of 1,000(with desiccant) | White, rounded triangle shaped tablet imprinted with “VASO 5” on one side and scored on the other. |
-| 68682-712-3068682-712-9068682-712-0168682-712-10 | 10 mg | Bottles of 30(with desiccant)Bottles of 90(with desiccant)Bottles of 100(with desiccant)Bottles of 1,000(with desiccant) | Rust red, rounded triangle shaped tablet imprinted with “VASO 10” on one side and scored on the other. |
-| 68682-713-3068682-713-9068682-713-0168682-713-10 | 20 mg | Bottles of 30(with desiccant)Bottles of 90(with desiccant)Bottles of 100(with desiccant)Bottles of 1,000(with desiccant) | Peach, rounded triangle shaped tablet imprinted with “VASO 20” on one side and scored on the other. |
+| NDC | Strength | Quantity | Description |
+| 68682-710-0168682-710-10 | 2.5 mg | Bottles of 100(with desiccant)Bottles of 1,000(with desiccant) | White, oval shaped tablet imprinted with “VASO 2.5” and scored on one side andscored on the other. |
+| 68682-711-0168682-711-10 | 5 mg | Bottles of 100(with desiccant)Bottles of 1,000(with desiccant) | White, rounded triangle shaped tablet imprinted with “VASO 5” on one side and scored on the other. |
+| 68682-712-0168682-712-10 | 10 mg | Bottles of 100(with desiccant)Bottles of 1,000(with desiccant) | Rust red, rounded triangle shaped tablet imprinted with “VASO 10” on one side and scored on the other. |
+| 68682-713-0168682-713-10 | 20 mg | Bottles of 100(with desiccant)Bottles of 1,000(with desiccant) | Peach, rounded triangle shaped tablet imprinted with “VASO 20” on one side and scored on the other. |
 
 Storage
 
@@ -15,21 +15,23 @@ Keep container tightly closed.
 Protect from moisture.
 Dispense in a tight container as per USP, if product package is subdivided.
 
-Manufactured for:
+Distributed by:
 
 Oceanside Pharmaceuticals, a division of
 
-Valeant Pharmaceuticals North America LLC
+Bausch Health US, LLC
 
 Bridgewater, NJ 08807 USA
 
 Manufactured by:
 
-Valeant Pharmaceuticals International, Inc.
+Bausch Health Companies Inc.
 
-Steinbach, MB R5G 1Z7 Canada
+Steinbach, MB R5G 1Z7, Canada
 
-20002517 9450103
+© 2020 Bausch Health Companies Inc. or its affiliates
+
+9450104_20003098
 
 Rev.
-11/2018
+12/2020

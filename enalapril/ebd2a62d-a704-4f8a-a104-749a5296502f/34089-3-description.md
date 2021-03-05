@@ -1,6 +1,6 @@
 # DESCRIPTION
 
-- Enalapril Maleate Tablets is the maleate salt of enalapril, the ethyl ester of a long-acting angiotensin-converting enzyme inhibitor, enalaprilat.
+- Enalapril Maleate Tablets are the maleate salt of enalapril, the ethyl ester of a long-acting angiotensin-converting enzyme inhibitor, enalaprilat.
   Enalapril maleate is chemically described as (S)-1-[N-[1-(ethoxycarbonyl)-3-phenylpropyl]-L-alanyl]-L-proline, (Z)-2-butenedioate salt (1:1).
   Its empirical formula is C20H28N2O5•C4H4O4, and its structural formula is:
 

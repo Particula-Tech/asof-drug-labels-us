@@ -10,7 +10,7 @@ Enalapril Maleate Tablets
 
 100 Tablets
 
-Oceanside Pharmaceuticals
+OCEANSIDE PHARMACEUTICALS
 
 # PRINCIPAL DISPLAY PANEL – 5 mg
 
@@ -38,7 +38,7 @@ Enalapril Maleate Tablets
 
 100 Tablets
 
-Oceanside Pharmaceuticals
+OCEANSIDE PHARMACEUTICALS
 
 # PRINCIPAL DISPLAY PANEL – 20 mg
 
@@ -52,4 +52,4 @@ Enalapril Maleate Tablets
 
 100 Tablets
 
-Oceanside Pharmaceuticals
+OCEANSIDE PHARMACEUTICALS

@@ -22,12 +22,12 @@ Intestinal angioedema should be included in the differential diagnosis of patien
 
 Patients with a history of angioedema unrelated to ACE inhibitor therapy may be at increased risk of angioedema while receiving an ACE inhibitor (see INDICATIONS AND USAGEand CONTRAINDICATIONS).
 
-Anaphylactoid Reactions during Desensitization
+Anaphylactoid Reactions During Desensitization
 
 Two patients undergoing desensitizing treatment with hymenoptera venom while receiving ACE inhibitors sustained life-threatening anaphylactoid reactions.
 In the same patients, these reactions were avoided when ACE inhibitors were temporarily withheld, but they reappeared upon inadvertent rechallenge.
 
-Anaphylactoid Reactions during Membrane Exposure
+Anaphylactoid Reactions During Membrane Exposure
 
 Anaphylactoid reactions have been reported in patients dialyzed with high-flux membranes and treated concomitantly with an ACE inhibitor.
 Anaphylactoid reactions have also been reported in patients undergoing low-density lipoprotein apheresis with dextran sulfate absorption.
@@ -37,7 +37,7 @@ Hypotension
 Excessive hypotension is rare in uncomplicated hypertensive patients treated with Enalapril Maleate Tablets alone.
 Patients with heart failure given Enalapril Maleate Tablets commonly have some reduction in blood pressure, especially with the first dose, but discontinuation of therapy for continuing symptomatic hypotension usually is not necessary when dosing instructions are followed; caution should be observed when initiating therapy (see DOSAGE AND ADMINISTRATION).
 Patients at risk for excessive hypotension, sometimes associated with oliguria and/or progressive azotemia, and rarely with acute renal failure and/or death, include those with the following conditions or characteristics: heart failure, hyponatremia, high-dose diuretic therapy, recent intensive diuresis or increase in diuretic dose, renal dialysis, or severe volume and/or salt depletion of any etiology.
-It may be advisable to eliminate the diuretic (except in patients with heart failure), reduce the diuretic dose or increase salt intake cautiously before initiating therapy with Enalapril Maleate Tablets in patients at risk for excessive hypotension who are able to tolerate such adjustments (see PRECAUTIONS, Drug Interactionsand ADVERSE REACTIONS).
+It may be advisable to eliminate the diuretic (except in patients with heart failure), reduce the diuretic dose or increase salt intake cautiously before initiating therapy with Enalapril Maleate Tablets in patients at risk for excessive hypotension who are able to tolerate such adjustments (see PRECAUTIONS, Drug Interactions and ADVERSE REACTIONS).
 In patients at risk for excessive hypotension, therapy should be started under very close medical supervision and such patients should be followed closely for the first two weeks of treatment and whenever the dose of enalapril and/or diuretic is increased.
 Similar considerations may apply to patients with ischemic heart or cerebrovascular disease, in whom an excessive fall in blood pressure could result in a myocardial infarction or cerebrovascular accident.
 
@@ -179,7 +179,7 @@ Agents Causing Renin Release
 
 The antihypertensive effect of Enalapril Maleate Tablets is augmented by antihypertensive agents that cause renin release (e.g., diuretics).
 
-Nonsteroidal Anti-Inflammatory Agents Imncluding Selective Cyclooxygenase-2 Inhibitors (COX-2 Inhibitors)
+Nonsteroidal Anti-Inflammatory Agents Including Selective Cyclooxygenase-2 Inhibitors (COX-2 Inhibitors)
 
 In patients who are elderly, volume-depleted (including those on diuretic therapy), or with compromised renal function, coadministration of NSAIDs, including selective COX-2 inhibitors, with ACE inhibitors, including enalapril, may result in deterioration of renal function, including possible acute renal failure.
 These effects are usually reversible.
@@ -191,11 +191,11 @@ However, reports suggest that NSAIDs may diminish the antihypertensive effect of
 
 Other Cardiovascular Agents
 
-Enalapril Maleate Tablets has been used concomitantly with beta adrenergic-blocking agents, methyldopa, nitrates, calcium-blocking agents, hydralazine, prazosin and digoxin without evidence of clinically significant adverse interactions.
+Enalapril Maleate Tablets have been used concomitantly with beta adrenergic-blocking agents, methyldopa, nitrates, calcium-blocking agents, hydralazine, prazosin and digoxin without evidence of clinically significant adverse interactions.
 
 Agents Increasing Serum Potassium
 
-Enalapril Maleate Tablets attenuates potassium loss caused by thiazide-type diuretics.
+Enalapril Maleate Tablets attenuate potassium loss caused by thiazide-type diuretics.
 Potassium-sparing diuretics (e.g., spironolactone, triamterene, or amiloride), potassium supplements, or potassium-containing salt substitutes may lead to significant increases in serum potassium.
 Therefore, if concomitant use of these agents is indicated because of demonstrated hypokalemia, they should be used with caution and with frequent monitoring of serum potassium.
 Potassium-sparing agents should generally not be used in patients with heart failure receiving Enalapril Maleate Tablets.
@@ -220,7 +220,7 @@ There was no evidence of a tumorigenic effect when enalapril was administered fo
 These doses are 26 times (in rats and female mice) and 13 times (in male mice) the maximum recommended human daily dose (MRHDD) when compared on a body surface area basis.
 
 Neither enalapril maleate nor the active diacid was mutagenic in the Ames microbial mutagen test with or without metabolic activation.
-Enalapril was also negative in the following genotoxicity studies: rec-assay, reverse mutation assay with E. coli, sister chromatid exchange with cultured mammalian cells, and the micronucleus test with mice, as well as in an in vivo cytogenic study using mouse bone marrow.
+Enalapril was also negative in the following genotoxicity studies: rec-assay, reverse mutation assay with E. coli, sister chromatid exchange with cultured mammalian cells, and the micronucleus test with mice, as well as in an in vivocytogenic study using mouse bone marrow.
 
 There were no adverse effects on reproductive performance of male and female rats treated with up to 90 mg/kg/day of enalapril (26 times the MRHDD when compared on a body surface area basis).
 
@@ -240,6 +240,6 @@ Exchange transfusions or dialysis may be required as a means of reversing hypote
 Enalapril, which crosses the placenta, has been removed from neonatal circulation by peritoneal dialysis with some clinical benefit, and theoretically may be removed by exchange transfusion, although there is no experience with the latter procedure.
 
 Antihypertensive effects of Enalapril Maleate Tablets have been established in hypertensive pediatric patients age 1 month to 16 years.
-Use of Enalapril Maleate Tablets in these age groups is supported by evidence from adequate and well-controlled studies of Enalapril Maleate Tablets in pediatric and adult patients as well as by published literature in pediatric patients (see CLINICAL PHARMACOLOGY, Clinical Pharmacology in Pediatric Patientsand DOSAGE AND ADMINISTRATION).
+Use of Enalapril Maleate Tablets in these age groups is supported by evidence from adequate and well-controlled studies of Enalapril Maleate Tablets in pediatric and adult patients as well as by published literature in pediatric patients (see CLINICAL PHARMACOLOGY, Clinical Pharmacology in Pediatric Patients and DOSAGE AND ADMINISTRATION).
 
-Enalapril Maleate Tablets is not recommended in neonates and in pediatric patients with glomerular filtration rate <30 mL/min/1.73 m2, as no data are available.
+Enalapril Maleate Tablets are not recommended in neonates and in pediatric patients with glomerular filtration rate <30 mL/min/1.73 m2, as no data are available.
