@@ -12,7 +12,6 @@ Procedural complications includes post-op complication, post-op wound complicati
 
 Based on clinical trials with RETISERT, during the 3-year post-implantation period, nearly all phakic eyes are expected to develop cataracts and require cataract surgery.
 IOP lowering medications to lower intraocular pressure were required in approximately 77% of patients; filtering surgeries were required to control intraocular pressure in 37% of patients.
-
 Ocular adverse events occurring in approximately 10 - 40% of patients in decreasing order of incidence were ocular/conjunctival hyperemia, reduced visual acuity, glaucoma, conjunctival hemorrhage, blurred vision, abnormal sensation in the eye, eye irritation, maculopathy, vitreous floaters, hypotony, pruritus, ptosis, increased tearing, vitreous hemorrhage, dry eye, eyelid edema, macular edema and visual disturbance.
 
 Ocular adverse events occurring in approximately 5 - 9% of patients in decreasing order of incidence were eye discharge, photophobia, blepharitis, corneal edema, iris adhesions, choroidal detachment, diplopia, eye swelling, retinal detachment, photopsia, retinal hemorrhage and hyphema.

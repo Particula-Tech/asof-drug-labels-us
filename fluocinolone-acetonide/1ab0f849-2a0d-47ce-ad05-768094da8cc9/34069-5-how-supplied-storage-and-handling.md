@@ -9,5 +9,5 @@ Each packaged implant is provided in a carton which includes the package insert.
 
 NDC 24208-416-01 0.59 mg 1 count
 
-Storage: Store in the original container at 15°-25°C (59°-77°F).
+Storage: Store in the original container at 15° to 25°C (59° to 77°F).
 Protect from freezing.

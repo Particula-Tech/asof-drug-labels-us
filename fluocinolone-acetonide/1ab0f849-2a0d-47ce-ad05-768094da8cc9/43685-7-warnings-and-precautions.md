@@ -27,14 +27,13 @@ Based on clinical trials with RETISERT, within 3-years post-implantation, approx
 
 ## 5.4 Separation of Implant Components
 
-In vitro stability studies show that the strength of the adhesive bond between the silicone cup reservoir and the suture tab is reduced with prolonged hydration, indicating a potential for the separation of these components.
+In vitrostability studies show that the strength of the adhesive bond between the silicone cup reservoir and the suture tab is reduced with prolonged hydration, indicating a potential for the separation of these components.
 The suture tab composition is a silicone elastomer reinforced with a polyester mesh.
 Physicians should periodically monitor the integrity of the implant by visual inspection.
 
 ## 5.5 Other Corticosteroid Induced Adverse Reactions
 
 RETISERT should be used with caution in patients with a history of a viral, bacterial, mycobacterial or fungal infection of the cornea and conjunctiva including epithelial herpes simplex keratitis (dendritic keratitis), vaccinia and varicella.
-
 Use of ocular steroids may prolong the course and may exacerbate the severity of many viral infections of the eye (including herpes simplex).
 Employment of a corticosteroid medication in the treatment of patients with a history of herpes simplex requires great caution.
 
