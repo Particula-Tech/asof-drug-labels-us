@@ -2,11 +2,11 @@
 
 ## 12.1 Mechanism of Action
 
-Pramipexole is a non-ergot dopamine agonist with high relative in vitro specificity and full intrinsic activity at the D2 subfamily of dopamine receptors, binding with higher affinity to D3 than to D2 or D4 receptor subtypes.
+Pramipexole is a non-ergot dopamine agonist with high relative in vitro specificity and full intrinsic activity at the D 2 subfamily of dopamine receptors, binding with higher affinity to D 3 than to D 2 or D 4 receptor subtypes.
 
 Parkinson’s Disease The precise mechanism of action of pramipexole as a treatment for Parkinson’s disease is unknown, although it is believed to be related to its ability to stimulate dopamine receptors in the striatum.
 This conclusion is supported by electrophysiologic studies in animals that have demonstrated that pramipexole influences striatal neuronal firing rates via activation of dopamine receptors in the striatum and the substantia nigra, the site of neurons that send projections to the striatum.
-The relevance of D3 receptor binding in Parkinson’s disease is unknown.
+The relevance of D 3 receptor binding in Parkinson’s disease is unknown.
 
 Restless Legs Syndrome (RLS) The precise mechanism of action of pramipexole dihydrochloride tablets as a treatment for RLS is unknown.
 Although the pathophysiology of RLS is largely unknown, neuropharmacological evidence suggests primary dopaminergic system involvement.
@@ -31,7 +31,7 @@ Steady-state concentrations are achieved within 2 days of dosing.
 
 Absorption Pramipexole is rapidly absorbed, reaching peak concentrations in approximately 2 hours.
 The absolute bioavailability of pramipexole is greater than 90%, indicating that it is well absorbed and undergoes little presystemic metabolism.
-Food does not affect the extent of pramipexole absorption, although the time of maximum plasma concentration (Tmax) is increased by about 1 hour when the drug is taken with a meal.
+Food does not affect the extent of pramipexole absorption, although the time of maximum plasma concentration (T max) is increased by about 1 hour when the drug is taken with a meal.
 
 Distribution Pramipexole is extensively distributed, having a volume of distribution of about 500 L (coefficient of variation [CV]=20%).
 It is about 15% bound to plasma proteins.
@@ -69,7 +69,7 @@ In patients with varying degrees of renal impairment, pramipexole clearance corr
 Therefore, creatinine clearance can be used as a predictor of the extent of decrease in pramipexole clearance.
 
 Drug Interactions Carbidopa/levodopa: Carbidopa/levodopa did not influence the pharmacokinetics of pramipexole in healthy volunteers (N=10).
-Pramipexole did not alter the extent of absorption (AUC) or the elimination of carbidopa/levodopa, although it caused an increase in levodopa Cmax by about 40% and a decrease in Tmax from 2.5 to 0.5 hours.
+Pramipexole did not alter the extent of absorption (AUC) or the elimination of carbidopa/levodopa, although it caused an increase in levodopa C max by about 40% and a decrease in T max from 2.5 to 0.5 hours.
 
 Selegiline: In healthy volunteers (N=11), selegiline did not influence the pharmacokinetics of pramipexole.
 

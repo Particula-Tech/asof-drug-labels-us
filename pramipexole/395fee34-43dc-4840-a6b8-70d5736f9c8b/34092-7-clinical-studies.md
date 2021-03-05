@@ -84,7 +84,7 @@ Table 8 Mean Changes from Baseline to Week 12 in IRLS Score and CGI-I (Study 1)
 | --- | --- | --- | --- | --- | --- |
 | No. Patients | 88 | 79 | 87 | 254 | 85 |
 | IRLS score | -13.1 | -13.4 | -14.4 | -13.6 | -9.4 |
-| CGI-I responders* | 74.7% | 67.9% | 72.9% | 72% | 51.2% |
+| CGI-I responders * | 74.7% | 67.9% | 72.9% | 72% | 51.2% |
 
 *CGI-I responders = “much improved” and “very much improved”
 
@@ -116,7 +116,7 @@ Table 9 Mean Changes from Baseline to Week 13 in IRLS Score and CGI-I (Study 4)
 | --- | --- | --- | --- | --- | --- | --- |
 | No. Patients | 21 | 22 | 22 | 21 | 86 | 21 |
 | IRLS score | -11.7 | -15.3 | -17.6 | -15.2 | -15.0 | -6.2 |
-| CGI-I responders* | 61.9% | 68.2% | 86.4% | 85.7% | 75.6% | 42.9% |
+| CGI-I responders * | 61.9% | 68.2% | 86.4% | 85.7% | 75.6% | 42.9% |
 
 *CGI-I responders = “much improved” and “very much improved”
 

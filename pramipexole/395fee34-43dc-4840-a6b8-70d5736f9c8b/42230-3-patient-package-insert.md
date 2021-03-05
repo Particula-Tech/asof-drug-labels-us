@@ -88,12 +88,7 @@ Pramipexole dihydrochloride tablets may cause serious side effects, including:
   - Some patients did not feel sleepy before they fell asleep while driving.
     You could fall asleep without any warning.
 
-- low blood pressure when you sit or stand up quickly.
-  You may have: Sit and stand up slowly after you have been sitting or lying down.
-  - • dizziness
-  - • nausea
-  - • fainting
-  - • sweating
+- low blood pressure when you sit or stand up quickly.You may have:•dizziness•nausea•fainting•sweatingSit and stand up slowly after you have been sitting or lying down.
 
 - unusual urges.
   Some people who take certain medicines to treat Parkinson’s disease or RLS, including pramipexole dihydrochloride tablets, have reported problems, such as gambling, compulsive eating, compulsive buying, and increased sex drive.
@@ -155,4 +150,4 @@ The brands listed are trademarks of their respective owners and are not trademar
 
 Manufactured by: ScieGen Pharmaceuticals, Inc. Hauppauge, NY 11788 USA
 
-Rev: 05/20
+Rev: 1/2021

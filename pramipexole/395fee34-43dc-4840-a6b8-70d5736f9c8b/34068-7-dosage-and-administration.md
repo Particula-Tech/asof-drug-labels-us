@@ -66,8 +66,8 @@ Table 3 Ascending Dosage Schedule of Pramipexole Dihydrochloride tablets for RLS
 | Titration Step | Duration | Dose (mg) to be taken once daily, 2-3 hours before bedtime |
 | --- | --- | --- |
 | 1 | 4-7 days | 0.125 |
-| 2* | 4-7 days | 0.25 |
-| 3* | 4-7 days | 0.5 |
+| 2 * | 4-7 days | 0.25 |
+| 3 * | 4-7 days | 0.5 |
 
 *if needed
 

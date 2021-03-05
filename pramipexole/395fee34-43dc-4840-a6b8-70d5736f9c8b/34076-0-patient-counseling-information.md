@@ -46,4 +46,4 @@ Because of the possibility that pramipexole may be excreted in breast milk, advi
 Manufactured by: ScieGen Pharmaceuticals, Inc. Hauppauge, NY 11788 USA
 
 Rev.
-05/20
+1/2021

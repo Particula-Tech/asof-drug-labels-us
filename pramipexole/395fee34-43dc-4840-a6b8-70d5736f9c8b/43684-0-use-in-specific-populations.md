@@ -46,4 +46,4 @@ There were no apparent differences in efficacy or safety between older and young
 
 The elimination of pramipexole is dependent on renal function.
 Pramipexole clearance is extremely low in dialysis patients, as a negligible amount of pramipexole is removed by dialysis.
-Caution should be exercised when administering pramipexole dihydrochloride tablets to patients with renal disease [see Dosage and Administration (2.2),Warnings and Precautions (5.7), and Clinical Pharmacology (12.3)].
+Caution should be exercised when administering pramipexole dihydrochloride tablets to patients with renal disease [see Dosage and Administration (2.2), Warnings and Precautions (5.7), and Clinical Pharmacology (12.3)].
