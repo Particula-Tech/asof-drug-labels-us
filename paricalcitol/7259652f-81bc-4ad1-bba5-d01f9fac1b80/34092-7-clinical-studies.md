@@ -17,13 +17,13 @@ Mean Changes from Baseline to Final Evaluation in intact PTH, Alkaline Phosphata
 |  | Group (No. of Pts.) | Baseline Mean (Range) | Mean (SE) Change From Baseline to Final Evaluation |
 | --- | --- | --- | --- |
 | intact PTH (pg/mL) | ZEMPLAR (n = 40) | 783 (291 – 2076) | -379 (43.7) |
-| placebo (n = 38) | 745 (320 – 1671) | -69.6 (44.8) |  |
+|  | placebo (n = 38) | 745 (320 – 1671) | -69.6 (44.8) |
 | Alkaline Phosphatase (U/L) | ZEMPLAR (n = 31) | 150 (40 – 600) | -41.5 (10.6) |
-| placebo (n = 34) | 169 (56 – 911) | +2.6 (10.1) |  |
+|  | placebo (n = 34) | 169 (56 – 911) | +2.6 (10.1) |
 | Phosphorus (mg/dL) | ZEMPLAR (n = 40) | 5.8 (3.7 – 10.2) | +0.47 (0.3) |
-| placebo (n = 38) | 6.0 (2.8 – 8.8) | -0.47 (0.3) |  |
+|  | placebo (n = 38) | 6.0 (2.8 – 8.8) | -0.47 (0.3) |
 | Calcium × Phosphorus Product | ZEMPLAR (n = 40) | 54 (32 – 106) | +7.9 (2.2) |
-| placebo (n = 38) | 54 (26 – 77) | -3.9 (2.3) |  |
+|  | placebo (n = 38) | 54 (26 – 77) | -3.9 (2.3) |
 
 Pediatric Study in CKD on Dialysis
 

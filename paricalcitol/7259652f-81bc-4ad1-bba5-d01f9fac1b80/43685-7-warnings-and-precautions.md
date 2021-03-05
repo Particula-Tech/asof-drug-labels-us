@@ -4,7 +4,7 @@
 
 Hypercalcemia may occur during ZEMPLAR treatment.
 Acute hypercalcemia may increase the risk of cardiac arrhythmias and seizures and may potentiate the effect of digitalis on the heart [see Warnings and Precautions (5.2)].
-Chronic hypercalcemia can lead to generalized vascular calcification and other soft‑tissue calcification.
+Chronic hypercalcemia can lead to generalized vascular calcification and other soft-tissue calcification.
 Severe hypercalcemia may require emergency attention.
 
 Hypercalcemia may be exacerbated by concomitant administration of high doses of calcium-containing preparations, thiazide diuretics, or other vitamin D compounds [see Drug Interactions (7)].

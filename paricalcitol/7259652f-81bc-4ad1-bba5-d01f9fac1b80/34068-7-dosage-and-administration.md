@@ -34,9 +34,7 @@ Recommended ZEMPLAR Adult Dose Titration Based Upon intact PTH
 
 ## 2.3 Starting Dose and Dose Titration for Pediatric Patients 5 Years of Age and Above
 
-- Initiate ZEMPLAR as an intravenous bolus dose of:
-  - 0.04 mcg/kg if baseline intact PTH is less than 500 pg/mL, or
-  - 0.08 mcg/kg if baseline intact PTH is 500 pg/mL or greater
+- Initiate ZEMPLAR as an intravenous bolus dose of: ○ 0.04 mcg/kg if baseline intact PTH is less than 500 pg/mL, or ○ 0.08 mcg/kg if baseline intact PTH is 500 pg/mL or greater
 - Administer ZEMPLAR three times per week, no more frequently than every other day, at any time during dialysis.
 - Target the maintenance dose of ZEMPLAR to intact PTH levels within the desired therapeutic range and serum calcium within normal limits.
 - Monitor serum calcium frequently (e.g., twice weekly) and intact PTH levels every 2 to 4 weeks after initiation of therapy or dose adjustment.
