@@ -120,4 +120,4 @@ www.ciplausa.com or call 1-866-604-3268
 
 This Patient Information has been approved by the U.S. Food and Drug Administration.
 
-Revised: 5/2020
+Revised: 2/2021
