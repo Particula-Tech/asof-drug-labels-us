@@ -11,7 +11,7 @@ Daily Dosing
 The safety of alendronate sodium in the treatment of postmenopausal osteoporosis was assessed in four clinical trials that enrolled 7453 women aged 44 to 84 years.
 Study 1 and Study 2 were identically designed, three-year, placebo-controlled, double-blind, multicenter studies (United States and Multinational n = 994); Study 3 was the three-year vertebral fracture cohort of the Fracture Intervention Trial [FIT] (n = 2027) and Study 4 was the four-year clinical fracture cohort of FIT (n = 4432).
 Overall, 3620 patients were exposed to placebo and 3432 patients exposed to alendronate sodium.
-Patients with preexisting gastrointestinal disease and concomitant use of non-steroidal anti-inflammatory drugs were included in these clinical trials.
+Patients with pre-existing gastrointestinal disease and concomitant use of non-steroidal anti-inflammatory drugs were included in these clinical trials.
 In Study 1 and Study 2 all women received 500 mg elemental calcium as carbonate.
 In Study 3 and Study 4 all women with dietary calcium intake less than 1000 mg per day received 500 mg calcium and 250 international units Vitamin D per day.
 
@@ -24,7 +24,7 @@ Table 1: Osteoporosis Treatment Studies in Postmenopausal Women Adverse Reaction
 
 |  | United States/Multinational Studies |  | Fracture Intervention Trial |  |
 | --- | --- | --- | --- | --- |
-|  | Alendronate Sodium10 mg/day for three years % (n = 196) | Placebo % (n = 397) | Alendronate Sodium5 mg/day for 2 years and 10 mg/day for either 1 or 2 additional years % (n = 3236) | Placebo % (n = 3223) |
+|  | Alendronate Sodium1%(n = 196) | Placebo%(n = 397) | Alendronate Sodium2%(n = 3236) | Placebo%(n = 3223) |
 | Gastrointestinal |  |  |  |  |
 | abdominal pain | 6.6 | 4.8 | 1.5 | 1.5 |
 | nausea | 3.6 | 4.0 | 1.1 | 1.5 |
@@ -39,13 +39,14 @@ Table 1: Osteoporosis Treatment Studies in Postmenopausal Women Adverse Reaction
 | abdominal distention | 1.0 | 0.8 | 0.0 | 0.0 |
 | gastritis | 0.5 | 1.3 | 0.6 | 0.7 |
 | Musculoskeletal |  |  |  |  |
-| musculoskeletal (bone, muscle, or joint) pain | 4.1 | 2.5 | 0.4 | 0.3 |
+| musculoskeletal (bone, muscle or joint) pain | 4.1 | 2.5 | 0.4 | 0.3 |
 | muscle cramp | 0.0 | 1.0 | 0.2 | 0.1 |
 | Nervous System/Psychiatric |  |  |  |  |
 | headache | 2.6 | 1.5 | 0.2 | 0.2 |
 | dizziness | 0.0 | 1.0 | 0.0 | 0.1 |
 | Special Senses |  |  |  |  |
 | taste perversion | 0.5 | 1.0 | 0.1 | 0.0 |
+| 1. 10 mg/day for three years2. 5 mg/day for 2 years and 10 mg/day for either 1 or 2 additional years |  |  |  |  |
 
 Rash and erythema have occurred.
 
@@ -54,7 +55,7 @@ Aspirin and alendronate sodium were discontinued and the patient recovered.
 In the Study 1 and Study 2 populations, 49 to 54% had a history of gastrointestinal disorders at baseline and 54 to 89% used non-steroidal anti-inflammatory drugs or aspirin at some time during the studies [see Warnings and Precautions (5.1)].
 
 Laboratory Test Findings: In double-blind, multicenter, controlled studies, asymptomatic, mild, and transient decreases in serum calcium and phosphate were observed in approximately 18% and 10%, respectively, of patients taking alendronate sodium versus approximately 12% and 3% of those taking placebo.
-However, the incidences of decreases in serum calcium to less than 8 mg/dL (2 mM) and serum phosphate to less than or equal to 2 mg/dL (0.65 mM) were similar in both treatment groups.
+However, the incidences of decreases in serum calcium to less than 8.0 mg/dL (2.0 mM) and serum phosphate to less than or equal to 2.0 mg/dL (0.65 mM) were similar in both treatment groups.
 
 Weekly Dosing
 
@@ -113,7 +114,7 @@ Table 3: Osteoporosis Prevention Studies in Postmenopausal Women Adverse Reactio
 
 Concomitant Use with Estrogen/Hormone Replacement Therapy
 
-In two studies (of one and two years' duration) of postmenopausal osteoporotic women (total: n= 853), the safety and tolerability profile of combined treatment with alendronate, the free acid 10 mg once daily and estrogen ± progestin (n = 354) was consistent with those of the individual treatments.
+In two studies (of one and two years duration) of postmenopausal osteoporotic women (total: n=853), the safety and tolerability profile of combined treatment with alendronate, the free acid 10 mg once daily and estrogen ± progestin (n = 354) was consistent with those of the individual treatments.
 
 Osteoporosis in Men
 
@@ -136,10 +137,10 @@ Table 4: Osteoporosis Studies in Men Adverse Reactions Considered Possibly, Prob
 
 Glucocorticoid-Induced Osteoporosis
 
-In two, one-year, placebo-controlled, double-blind, multicenter studies in patients receiving glucocorticoid treatment, the overall safety and tolerability profiles of alendronate, the free acid 5 and 10 mg/day were generally similar to that of placebo.
+In two, one-year, placebo-controlled, double-blind, multicenter studies in patients receiving glucocorticoid treatment, the overall safety and tolerability profiles of alendronate, the free acid 5 mg/day and 10 mg/day were generally similar to that of placebo.
 The adverse reactions considered by the investigators as possibly, probably, or definitely drug related in greater than or equal to 1% of patients treated with either alendronate, the free acid 5 or 10 mg/day or placebo are presented in Table 5.
 
-Table 5: One Year Studies in Glucocorticoid-Treated Patients Adverse Reactions Considered Possibly, Probably, or Definitely Drug Related by the Investigators and Reported in Greater Than or Equal to 1% of Patients
+Table 5: One-Year Studies in Glucocorticoid-Treated Patients Adverse Reactions Considered Possibly, Probably, or Definitely Drug Related by the Investigators and Reported in Greater Than or Equal to 1% of Patients
 
 |  | Alendronate, the free acid 10 mg/day % (n = 157) | Alendronate, the free acid 5 mg/day % (n = 161) | Placebo % (n = 159) |
 | --- | --- | --- | --- |

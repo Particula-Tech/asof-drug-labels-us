@@ -6,7 +6,7 @@ Animal studies have indicated the following mode of action.
 At the cellular level, alendronate shows preferential localization to sites of bone resorption, specifically under osteoclasts.
 The osteoclasts adhere normally to the bone surface but lack the ruffled border that is indicative of active resorption.
 Alendronate does not interfere with osteoclast recruitment or attachment, but it does inhibit osteoclast activity.
-Studies in mice on the localization of radioactive [3H]alendronate in bone showed about 10 fold higher uptake on osteoclast surfaces than on osteoblast surfaces.
+Studies in mice on the localization of radioactive [3H]alendronate in bone showed about 10-fold higher uptake on osteoclast surfaces than on osteoblast surfaces.
 Bones examined 6 and 49 days after [3H]alendronate administration in rats and mice, respectively, showed that normal bone was formed on top of the alendronate, which was incorporated inside the matrix.
 While incorporated in bone matrix, alendronate is not pharmacologically active.
 Thus, alendronate must be continuously administered to suppress osteoclasts on newly formed resorption surfaces.
@@ -25,8 +25,8 @@ The diagnosis can be confirmed by the finding of low bone mass, evidence of frac
 Osteoporosis occurs in both males and females but is most common among women following the menopause, when bone turnover increases and the rate of bone resorption exceeds that of bone formation.
 These changes result in progressive bone loss and lead to osteoporosis in a significant proportion of women over age 50.
 Fractures, usually of the spine, hip, and wrist, are the common consequences.
-From age 50 to age 90, the risk of hip fracture in white women increases 50 fold and the risk of vertebral fracture 15 to 30 fold.
-It is estimated that approximately 40% of 50 year old women will sustain one or more osteoporosis-related fractures of the spine, hip, or wrist during their remaining lifetimes.
+From age 50 to age 90, the risk of hip fracture in white women increases 50-fold and the risk of vertebral fracture 15- to 30-fold.
+It is estimated that approximately 40% of 50-year-old women will sustain one or more osteoporosis-related fractures of the spine, hip, or wrist during their remaining lifetimes.
 Hip fractures, in particular, are associated with substantial morbidity, disability, and mortality.
 
 Daily oral doses of alendronate (5, 20, and 40 mg for six weeks) in postmenopausal women produced biochemical changes indicative of dose-dependent inhibition of bone resorption, including decreases in urinary calcium and urinary markers of bone collagen degradation (such as deoxypyridinoline and cross-linked N-telopeptides of type I collagen).
@@ -81,7 +81,7 @@ Absorption
 Relative to an intravenous reference dose, the mean oral bioavailability of alendronate in women was 0.64% for doses ranging from 5 to 70 mg when administered after an overnight fast and two hours before a standardized breakfast.
 Oral bioavailability of the 10 mg tablet in men (0.59%) was similar to that in women when administered after an overnight fast and 2 hours before breakfast.
 
-Alendronate, the free acid 70 mg oral solution and alendronate, the free acid 70 mg tablets are equally bioavailable.
+Alendronate, the free acid 70 mg oral solution and alendronate, the free acid 70 mg tablet are equally bioavailable.
 
 A study examining the effect of timing of a meal on the bioavailability of alendronate was performed in 49 postmenopausal women.
 Bioavailability was decreased (by approximately 40%) when 10 mg alendronate was administered either 0.5 or 1 hour before a standardized breakfast, when compared to dosing 2 hours before eating.

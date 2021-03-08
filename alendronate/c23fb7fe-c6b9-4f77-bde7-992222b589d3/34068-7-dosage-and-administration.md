@@ -14,7 +14,7 @@ The recommended dosage is:
 - one 35 mg tablet once weekly or
 - one 5 mg tablet once daily
 
-## 2.3 Treatment to Increase Bone Mass in Men With Osteoporosis
+## 2.3 Treatment to Increase Bone Mass in Men with Osteoporosis
 
 The recommended dosage is:
 
@@ -31,7 +31,7 @@ The recommended treatment regimen is 40 mg once a day for six months.
 
 Re-treatment of Paget's Disease
 
-Re-treatment with alendronate sodium tablets may be considered, following a six month post-treatment evaluation period in patients who have relapsed, based on increases in serum alkaline phosphatase, which should be measured periodically.
+Re-treatment with alendronate sodium tablets may be considered, following a six-month post-treatment evaluation period in patients who have relapsed, based on increases in serum alkaline phosphatase, which should be measured periodically.
 Re-treatment may also be considered in those who failed to normalize their serum alkaline phosphatase.
 
 ## 2.6 Important Administration Instructions
@@ -42,7 +42,7 @@ Instruct patients to do the following:
   Other beverages (including mineral water), food, and some medications are likely to reduce the absorption of alendronate sodium tablets [see Drug Interactions (7.1)].
   Waiting less than 30 minutes, or taking alendronate sodium tablets with food, beverages (other than plain water) or other medications will lessen the effect of alendronate sodium tablets by decreasing its absorption into the body.
 - Take alendronate sodium tablets upon arising for the day.
-  To facilitate delivery to the stomach and thus reduce the potential for esophageal irritation, an alendronate sodium tablet should be swallowed with a full glass of water (6 to 8 ounces).
+  To facilitate delivery to the stomach and thus reduce the potential for esophageal irritation, a alendronate sodium tablet should be swallowed with a full glass of water (6 to 8 ounces).
   Patients should not lie down for at least 30 minutes and until after their first food of the day.
   Alendronate sodium tablets should not be taken at bedtime or before arising for the day.
   Failure to follow these instructions may increase the risk of esophageal adverse experiences [see Warnings and Precautions (5.1) and Patient Counseling Information (17.2)].

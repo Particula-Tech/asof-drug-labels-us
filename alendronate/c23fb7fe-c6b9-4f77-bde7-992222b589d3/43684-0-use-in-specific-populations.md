@@ -2,40 +2,54 @@
 
 ## 8.1 Pregnancy
 
-Teratogenic Effects Pregnancy category C
+Risk Summary
 
-There are no studies in pregnant women.
-Alendronate sodium should be used during pregnancy only if the potential benefit justifies the potential risk to the mother and fetus.
+Available data on the use of alendronate sodium in pregnant women are insufficient to inform a drug-associated risk of adverse maternal or fetal outcomes.
+Discontinue alendronate sodium when pregnancy is recognized.
+
+In animal reproduction studies, daily oral administration of alendronate to rats from before mating through the end of gestation or lactation showed decreased postimplantation survival and decreased pup body weight gain starting at doses equivalent to less than half of the highest recommended 40 mg clinical daily dose (based on body surface area, mg/m2).
+Oral administration of alendronate to rats during organogenesis resulted in reduced fetal ossification starting at doses 3 times the 40 mg clinical daily dose.
+No similar fetal effects were observed in pregnant rabbits dosed orally during organogenesis at doses equivalent to approximately 10 times the 40 mg clinical daily dose.
+
+Delayed or failed delivery of offspring, protracted parturition, and late pregnancy maternal and fetal deaths due to maternal hypocalcemia occurred in rats at oral doses as low as one tenth the 40 mg clinical daily dose (see Data).
 
 Bisphosphonates are incorporated into the bone matrix, from which they are gradually released over a period of years.
-The amount of bisphosphonate incorporated into adult bone, and hence, the amount available for release back into the systemic circulation, is directly related to the dose and duration of bisphosphonate use.
-There are no data on fetal risk in humans.
-However, there is a theoretical risk of fetal harm, predominantly skeletal, if a woman becomes pregnant after completing a course of bisphosphonate therapy.
+The amount of bisphosphonate incorporated into adult bone and available for release into the systemic circulation is directly related to the dose and duration of bisphosphonate use.
+Consequently, based on the mechanism of action of bisphosphonates, there is a potential risk of fetal harm, predominantly skeletal, if a woman becomes pregnant after completing a course of bisphosphonate therapy.
 The impact of variables such as time between cessation of bisphosphonate therapy to conception, the particular bisphosphonate used, and the route of administration (intravenous versus oral) on the risk has not been studied.
 
-Reproduction studies in rats showed decreased postimplantation survival and decreased body weight gain in normal pups at doses less than half of the recommended clinical dose.
-Sites of incomplete fetal ossification were statistically significantly increased in rats beginning at approximately 3 times the clinical dose in vertebral (cervical, thoracic, and lumbar), skull, and sternebral bones.
-No similar fetal effects were seen when pregnant rabbits were treated with doses approximately 10 times the clinical dose.
+The estimated background risk of major birth defects and miscarriage for the indicated population(s) is unknown.
+All pregnancies have a background risk of birth defects, loss, or other adverse outcomes.
+In the U.S. general population, the estimated background risks of major birth defects and miscarriage in clinically recognized pregnancies is 2% to 4% and 15% to 20%, respectively.
 
-Both total and ionized calcium decreased in pregnant rats at approximately 4 times the clinical dose resulting in delays and failures of delivery.
-Protracted parturition due to maternal hypocalcemia occurred in rats at doses as low as one tenth the clinical dose when rats were treated from before mating through gestation.
-Maternotoxicity (late pregnancy deaths) also occurred in the female rats treated at approximately 4 times the clinical dose for varying periods of time ranging from treatment only during pre-mating to treatment only during early, middle, or late gestation; these deaths were lessened but not eliminated by cessation of treatment.
-Calcium supplementation either in the drinking water or by minipump could not ameliorate the hypocalcemia or prevent maternal and neonatal deaths due to delays in delivery; intravenous calcium supplementation prevented maternal, but not fetal deaths.
+Data
 
-Exposure multiples based on surface area, mg/m2, were calculated using a 40 mg human daily dose.
-Animal dose ranged between 1 and 15 mg/kg/day in rats and up to 40 mg/kg/day in rabbits.
+Animal Data
 
-## 8.3 Nursing Mothers
+Reproduction studies in rats dosed orally from before mating to the end of gestation or lactation showed decreased postimplantation survival starting at 2 mg/kg/day and decreased body weight gain starting at 1 mg/kg/day, doses equivalent to less than half the 40 mg clinical daily dose based on body surface area, mg/m2.
+Incidence of incomplete fetal ossification in vertebral, skull, and sternebral bones were increased in rats dosed orally during organogenesis starting at 10 mg/kg/day (approximately 3 times the 40 mg clinical daily dose).
+No similar fetal effects were observed in pregnant rabbits dosed orally during organogenesis at up to 35 mg/kg/day (equivalent to approximately 10 times the 40 mg clinical daily dose).
 
-It is not known whether alendronate is excreted in human milk.
-Because many drugs are excreted in human milk, caution should be exercised when alendronate sodium is administered to nursing women.
+Both total and ionized calcium decreased in pregnant rats dosed orally with 15 mg/kg/day alendronate (approximately 4 times the 40 mg clinical daily dose) resulting in delays and failures of delivery.
+Protracted parturition due to maternal hypocalcemia was observed when rats were treated from before mating through gestation starting at 0.5 mg/kg/day (approximately one tenth the 40 mg clinical daily dose).
+Maternotoxicity (late pregnancy deaths) also occurred in female rats treated orally with 15 mg/kg/day (approximately 4 times the 40 mg clinical daily dose) for varying gestational time periods.
+These maternal deaths were lessened but not eliminated by cessation of treatment.
+Calcium supplementation in the drinking water or by subcutaneous minipump to rats dosed orally with 15 mg/kg/day alendronate could not ameliorate the hypocalcemia or prevent the dystocia-related maternal and neonatal deaths.
+However, intravenous calcium supplementation prevented maternal, but not neonatal deaths.
+
+## 8.2 Lactation
+
+Risk Summary
+
+It is not known whether alendronate sodium is present in human breast milk, affects human milk production, or has effects on the breastfed infant.
+The developmental and health benefits of breastfeeding should be considered along with the mother’s clinical need for alendronate sodium and any potential adverse effects on the breastfed child from alendronate or from the underlying maternal condition.
 
 ## 8.4 Pediatric Use
 
 Alendronate sodium is not indicated for use in pediatric patients.
 
-The safety and efficacy of alendronate sodium were examined in a randomized, double-blind, placebo-controlled two-year study of 139 pediatric patients, aged 4 to 18 years, with severe osteogenesis imperfecta (OI).
-One hundred and nine patients were randomized to 5 mg alendronate, the free acid daily (weight less than 40 kg) or 10 mg alendronate, the free acid daily (weight greater than or equal to 40 kg) and 30 patients to placebo.
+The safety and efficacy of alendronate sodium were examined in a randomized, double-blind, placebo-controlled two-year study of 139 pediatric patients, aged 4 to 18 years, with severe osteogenesis imperfect (OI).
+One-hundred-and-nine patients were randomized to 5 mg alendronate, the free acid daily (weight less than 40 kg) or 10 mg alendronate, the free acid daily (weight greater than or equal to 40 kg) and 30 patients to placebo.
 The mean baseline lumbar spine BMD Z-score of the patients was -4.5.
 The mean change in lumbar spine BMD Z-score from baseline to Month 24 was 1.3 in the alendronate sodium-treated patients and 0.1 in the placebo-treated patients.
 Treatment with alendronate sodium did not reduce the risk of fracture.
@@ -46,7 +60,7 @@ The oral bioavailability in children was similar to that observed in adults.
 
 The overall safety profile of alendronate sodium in osteogenesis imperfecta patients treated for up to 24 months was generally similar to that of adults with osteoporosis treated with alendronate sodium.
 However, there was an increased occurrence of vomiting in osteogenesis imperfecta patients treated with alendronate sodium compared to placebo.
-During the 24 month treatment period, vomiting was observed in 32 of 109 (29.4%) patients treated with alendronate sodium and 3 of 30 (10%) patients treated with placebo.
+During the 24-month treatment period, vomiting was observed in 32 of 109 (29.4%) patients treated with alendronate sodium and 3 of 30 (10%) patients treated with placebo.
 
 In a pharmacokinetic study, 6 of 24 pediatric osteogenesis imperfecta patients who received a single oral dose of alendronate, the free acid 35 or 70 mg developed fever, flu-like symptoms, and/or mild lymphocytopenia within 24 to 48 hours after administration.
 These events, lasting no more than 2 to 3 days and responding to acetaminophen, are consistent with an acute-phase response that has been reported in patients receiving bisphosphonates, including alendronate sodium [see Adverse Reactions (6.2)].

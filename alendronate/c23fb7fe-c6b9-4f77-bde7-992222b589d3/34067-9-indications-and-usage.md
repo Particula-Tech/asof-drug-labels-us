@@ -9,7 +9,7 @@ In postmenopausal women, alendronate sodium tablets increase bone mass and reduc
 
 Alendronate sodium tablets are indicated for the prevention of postmenopausal osteoporosis [see Clinical Studies (14.2)].
 
-## 1.3 Treatment to Increase Bone Mass in Men With Osteoporosis
+## 1.3 Treatment to Increase Bone Mass in Men with Osteoporosis
 
 Alendronate sodium tablets are indicated for treatment to increase bone mass in men with osteoporosis [see Clinical Studies (14.3)].
 

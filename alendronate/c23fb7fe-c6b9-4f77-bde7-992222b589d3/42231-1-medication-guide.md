@@ -1,6 +1,6 @@
 # MEDICATION GUIDE
 
-ALENDRONATE (a-LEN-droe-nate) SODIUM TABLETS USP
+ALENDRONATE SODIUM (a len’ droe nate soe’ dee um) TABLETS, USP
 
 Read the Medication Guide that comes with alendronate sodium tablets before you start taking them and each time you get a refill.
 There may be new information.
@@ -85,7 +85,7 @@ Do not take alendronate sodium tablets if you:
 - Have certain problems with your esophagus, the tube that connects your mouth with your stomach
 - Cannot stand or sit upright for at least 30 minutes
 - Have low levels of calcium in your blood
-- Are allergic to alendronate sodium tablets or any of their ingredients.
+- Are allergic to alendronate sodium tablets or any of its ingredients.
   A list of ingredients is at the end of this leaflet.
 
 What should I tell my doctor before taking alendronate sodium tablets?
@@ -98,7 +98,8 @@ Before you start alendronate sodium tablets, be sure to talk to your doctor if y
 - Plan to have dental surgery or teeth removed
 - Have kidney problems
 - Have been told you have trouble absorbing minerals in your stomach or intestines (malabsorption syndrome)
-- Are pregnant, or plan to become pregnant.
+- Are pregnant, trying to become pregnant or suspect that you are pregnant.
+  If you become pregnant while taking alendronate sodium tablets, stop taking it and contact your doctor.
   It is not known if alendronate sodium tablets can harm your unborn baby.
 - Are breast-feeding or plan to breast-feed.
   It is not known if alendronate sodium passes into your milk and may harm your baby.
@@ -124,8 +125,8 @@ How should I take alendronate sodium tablets?
 - Do not chew or suck on a tablet of alendronate sodium.
 - Swallow alendronate sodium tablets with a full glass (6 to 8 oz) of plain water only.
 - Do not take alendronate sodium tablets with mineral water, coffee, tea, soda, or juice.
-  - If you take Alendronate Daily:
-    - Take 1 alendronate tablet one time a day, every day after you get for the day and before taking your first food, drink, or other medicine
+- If you take Alendronate Daily:
+  - Take 1 alendronate tablet one time a day, every day after you get up for the day and before taking your first food, drink, or other medicine.
 
 - If you take Once Weekly Alendronate Sodium Tablets:
   - Choose the day of the week that best fits your schedule.
