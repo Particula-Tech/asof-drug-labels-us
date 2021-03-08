@@ -2,6 +2,6 @@ Dist. by: Merck Sharp & Dohme Corp., a subsidiary of MERCK & CO., INC., Whitehou
 
 For patent information: www.merck.com/product/patent/home.html
 
-Copyright © 1998-2020 Merck Sharp & Dohme Corp., a subsidiary of Merck & Co., Inc. All rights reserved.
+Copyright © 1998-2021 Merck Sharp & Dohme Corp., a subsidiary of Merck & Co., Inc. All rights reserved.
 
-uspi-mk0476-mf-2004r041
+uspi-mk0476-mf-2102r042
