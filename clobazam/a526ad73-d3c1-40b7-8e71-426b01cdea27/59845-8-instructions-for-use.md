@@ -1,6 +1,6 @@
 # Instructions for Use
 
-Clobazam (KLOE-ba-zam)
+Clobazam (kloe’ ba zam)
 
 Oral Suspension, CIV
 
@@ -94,4 +94,4 @@ This Instructions for Use has been approved by the U.S. Food and Drug Administra
 Manufactured by: Amneal Pharmaceuticals LLC Branchburg, NJ 08876
 
 Rev.
-06-2018-00
+02-2021-01
