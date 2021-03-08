@@ -81,9 +81,9 @@ With a high-fat meal, the Cmax of abacavir decreased 23% and the Cmax and AUC of
 
 Specific Populations
 
-Patients with Renal Impairment: The effect of renal impairment on the combination of abacavir, dolutegravir, and lamivudine has not been evaluated (see the U.S. prescribing information for the individual abacavir, dolutegravir, and lamivudine components).
+Patients with Renal Impairment: The pharmacokinetics for the individual components of TRIUMEQ have been evaluated in patients with renal impairment (see the U.S. prescribing information for the individual abacavir, dolutegravir, and lamivudine components).
 
-Patients with Hepatic Impairment: The effect of hepatic impairment on the combination of abacavir, dolutegravir, and lamivudine has not been evaluated (see the U.S. prescribing information for the individual abacavir, dolutegravir, and lamivudine components).
+Patients with Hepatic Impairment: The pharmacokinetics for the individual components of TRIUMEQ have been evaluated in patients with varying degrees of hepatic impairment (see the U.S. prescribing information for the individual abacavir, dolutegravir, and lamivudine components).
 
 Pediatric Patients: The pharmacokinetics for the individual components of TRIUMEQ (abacavir, dolutegravir, and lamivudine) have been evaluated in pediatric subjects.
 
@@ -171,8 +171,13 @@ Summary of Effect of Coadministered Drugs on the Pharmacokinetics of Dolutegravi
 
 Abacavir or Lamivudine: The drug interactions described are based on trials conducted with abacavir or lamivudine as single entities.
 
-Effect of Abacavir and Lamivudine on the Pharmacokinetics of Other Agents: Abacavir and lamivudine do not inhibit or induce CYP enzymes (such as CYP3A4, CYP2C9, or CYP2D6).
+Effect of Abacavir and Lamivudine on the Pharmacokinetics of Other Agents: In vitro studies have shown that abacavir has potential to inhibit CYP1A1 and limited potential to inhibit metabolism mediated by CYP3A4.
+Lamivudine does not inhibit or induce CYP3A4.
+Abacavir and lamivudine do not inhibit or induce other CYP enzymes (such as CYP2C9 or CYP2D6).
 Based on in vitro study results, abacavir and lamivudine at therapeutic drug exposures are not expected to affect the pharmacokinetics of drugs that are substrates of the following transporters: OATP1B1/3, BCRP or P-gp, OCT1, OCT2, OCT3 (lamivudine only), or MATE1 and MATE2-K.
+
+Abacavir, Dolutegravir, and Lamivudine: Coadministration of a single dose of riociguat (0.5 mg) to HIV-1–infected subjects receiving TRIUMEQ is reported to increase riociguat AUC(∞) compared with riociguat AUC(∞) reported in healthy subjects due to CYP1A1 inhibition by abacavir.
+The exact magnitude of increase in riociguat exposure has not been fully characterized based on findings from two studies [see Drug Interactions (7.3)].
 
 Effect of Other Agents on the Pharmacokinetics of Abacavir or Lamivudine: In vitro, abacavir is not a substrate of OATP1B1, OATP1B3, OCT1, OCT2, OAT1, MATE1, MATE2-K, MRP2 or MRP4; therefore, drugs that modulate these transporters are not expected to affect abacavir plasma concentrations.
 Abacavir is a substrate of BCRP and P-gp in vitro; however, considering its absolute bioavailability (83%), modulators of these transporters are unlikely to result in a clinically relevant impact on abacavir concentrations.

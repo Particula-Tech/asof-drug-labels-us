@@ -38,13 +38,16 @@ Data analyzed to date from other sources including the APR, clinical trials, and
 
 Data from the birth outcome surveillance study described above and postmarketing sources with more than 1,000 pregnancy outcomes from second and third trimester exposure in pregnant women indicate no evidence of increased risk of adverse birth outcomes.
 
-Abacavir: Based on prospective reports to the APR of over 2,000 exposures to abacavir during pregnancy resulting in live births (including over 1,000 exposed in the first trimester), there was no difference between the overall risk of birth defects for abacavir compared with the background birth defect rate of 2.7% in the U.S. reference population of the Metropolitan Atlanta Congenital Defects Program (MACDP).
-The prevalence of defects in live births was 2.9% (95% CI: 2.0% to 4.1%) following first trimester exposure to abacavir-containing regimens and 2.7% (95% CI: 1.9% to 3.7%) following second/third trimester exposure to abacavir-containing regimens.
+Based on prospective reports to the APR of exposures to dolutegravir during pregnancy resulting in live births (including over 450 exposed in the first trimester and over 280 exposed in the second/third trimester), there was no difference between the overall risk of birth defects for dolutegravir compared with the background birth defect rate of 2.7% in the U.S. reference population of the Metropolitan Atlanta Congenital Defects Program (MACDP).
+The prevalence of defects in live births was 3.5% (95% CI: 2.0% to 5.6%) following first trimester exposure to dolutegravir-containing regimens and 4.2% (95% CI: 2.2% to 7.2%) following second/third trimester exposure to dolutegravir-containing regimens.
+
+Abacavir: Based on prospective reports to the APR of exposures to abacavir during pregnancy resulting in live births (including over 1,300 exposed in the first trimester and over 1,300 exposed in the second/third trimester), there was no difference between the overall risk of birth defects for abacavir compared with the background birth defect rate of 2.7% in the U.S. reference population of the MACDP.
+The prevalence of defects in live births was 3.2% (95% CI: 2.3% to 4.3%) following first trimester exposure to abacavir-containing regimens and 2.9% (95% CI: 2.1% to 4.0%) following second/third trimester exposure to abacavir-containing regimens.
 
 Abacavir has been shown to cross the placenta and concentrations in neonatal plasma at birth were essentially equal to those in maternal plasma at delivery [see Clinical Pharmacology (12.3)].
 
-Lamivudine: Based on prospective reports to the APR of over 11,000 exposures to lamivudine during pregnancy resulting in live births (including over 4,500 exposed in the first trimester), there was no difference between the overall risk of birth defects for lamivudine compared with the background birth defect rate of 2.7% in the U.S. reference population of the MACDP.
-The prevalence of birth defects in live births was 3.1% (95% CI: 2.6% to 3.6%) following first trimester exposure to lamivudine-containing regimens and 2.8% (95% CI: 2.5%, 3.3%) following second/third trimester exposure to lamivudine-containing regimens.
+Lamivudine: Based on prospective reports to the APR of exposures to lamivudine during pregnancy resulting in live births (including over 5,300 exposed in the first trimester and over 7,400 exposed in the second/third trimester), there was no difference between the overall risk of birth defects for lamivudine compared with the background birth defect rate of 2.7% in the U.S. reference population of the MACDP.
+The prevalence of birth defects in live births was 3.1% (95% CI: 2.7% to 3.6%) following first trimester exposure to lamivudine-containing regimens and 298% (95% CI: 2.5%, 3.3%) following second/third trimester exposure to lamivudine-containing regimens.
 
 Lamivudine pharmacokinetics were studied in pregnant women during 2 clinical trials conducted in South Africa.
 The trials assessed pharmacokinetics in 16 women at 36 weeks’ gestation using 150 mg lamivudine twice daily with zidovudine, 10 women at 38 weeks’ gestation using 150 mg lamivudine twice daily with zidovudine, and 10 women at 38 weeks’ gestation using lamivudine 300 mg twice daily without other antiretrovirals.
@@ -53,12 +56,12 @@ Lamivudine concentrations were generally similar in maternal, neonatal, and umbi
 In a subset of subjects, amniotic fluid specimens were collected following natural rupture of membranes and confirmed that lamivudine crosses the placenta in humans.
 Based on limited data at delivery, median (range) amniotic fluid concentrations of lamivudine were 3.9 (1.2 to 12.8)–fold greater compared with paired maternal serum concentration (n = 8).
 
-Animal Data: Dolutegravir: Dolutegravir was administered orally to pregnant rats and rabbits (up to 1,000 mg per kg per day) on gestation Days 6 to 17 and 6 to 18, respectively, and to rats on gestation Day 6 to lactation/post-partum Day 20.
+Animal Data: Dolutegravir: Dolutegravir was administered orally to pregnant rats and rabbits (up to 1,000 mg per kg per day) on Gestation Days 6 to 17 and 6 to 18, respectively, and to rats on Gestation Day 6 to lactation/post-partum Day 20.
 No adverse effects on embryo-fetal (rats and rabbits) or pre/post-natal (rats) development were observed up to the highest dose tested.
 During organogenesis, systemic exposures (AUC) to dolutegravir in rabbits were less than the exposure in humans at the RHD and in rats were approximately 50 times the exposure in humans at the RHD.
 In the rat pre/post-natal development study, decreased body weight of the developing offspring was observed during lactation at a maternally toxic dose (approximately 50 times human exposure at the RHD).
 
-Abacavir: Abacavir was administered orally to pregnant rats (at 100, 300, and 1,000 mg per kg per day) and rabbits (at 125, 350, or 700 mg per kg per day) during organogenesis (on gestation Days 6 through 17 and 6 through 20, respectively).
+Abacavir: Abacavir was administered orally to pregnant rats (at 100, 300, and 1,000 mg per kg per day) and rabbits (at 125, 350, or 700 mg per kg per day) during organogenesis (on Gestation Days 6 through 17 and 6 through 20, respectively).
 Fetal malformations (increased incidences of fetal anasarca and skeletal malformations) or developmental toxicity (decreased fetal body weight and crown‑rump length) were observed in rats at doses up to 1,000 mg per kg per day, resulting in exposures approximately 35 times the human exposure (AUC) at the RHD.
 No developmental effects were observed in rats at 100 mg per kg per day, resulting in exposures (AUC) 3.5 times the human exposure at the recommended daily dose.
 In a fertility and early embryo-fetal development study conducted in rats (at 60, 160, or 500 mg per kg per day), embryonic and fetal toxicities (increased resorptions, decreased fetal body weights) or toxicities to the offspring (increased incidence of stillbirth and lower body weights) occurred at doses up to 500 mg per kg per day.
@@ -66,7 +69,7 @@ No developmental effects were observed in rats at 60 mg per kg per day, resultin
 Studies in pregnant rats showed that abacavir is transferred to the fetus through the placenta.
 In pregnant rabbits, no developmental toxicities and no increases in fetal malformations occurred at up to the highest dose evaluated, resulting in exposures (AUC) approximately 9 times the human exposure at the RHD.
 
-Lamivudine: Lamivudine was administered orally to pregnant rats (at 90, 600, and 4,000 mg per kg per day) and rabbits (at 90, 300 and 1,000 mg per kg per day and at 15, 40, and 90 mg per kg per day) during organogenesis (on gestation Days 7 through 16 [rat] and 8 through 20 [rabbit]).
+Lamivudine: Lamivudine was administered orally to pregnant rats (at 90, 600, and 4,000 mg per kg per day) and rabbits (at 90, 300 and 1,000 mg per kg per day and at 15, 40, and 90 mg per kg per day) during organogenesis (on Gestation Days 7 through 16 [rat] and 8 through 20 [rabbit]).
 No evidence of fetal malformations due to lamivudine was observed in rats and rabbits at doses producing plasma concentrations (Cmax) approximately 35 times higher than human exposure at the recommended daily dose.
 Evidence of early embryolethality was seen in the rabbit at systemic exposures (AUC) similar to those observed in humans, but there was no indication of this effect in the rat at plasma concentrations (Cmax) 35 times higher than human exposure at the recommended daily dose.
 Studies in pregnant rats showed that lamivudine is transferred to the fetus through the placenta.
@@ -78,14 +81,16 @@ In the study, development of the offspring, including fertility and reproductive
 Risk Summary
 
 The Centers for Disease Control and Prevention recommends that HIV‑1‑infected mothers in the United States not breastfeed their infants to avoid risking postnatal transmission of HIV‑1 infection.
+
 Abacavir and lamivudine are present in human milk.
 When administered to lactating rats, dolutegravir was present in milk (see Data).
 There is no information on the effects of TRIUMEQ or its components on the breastfed infant or the effects of the drug on milk production.
+
 Because of the potential for (1) HIV‑1 transmission (in HIV-negative infants), (2) developing viral resistance (in HIV-positive infants), and (3) adverse reactions in a breastfed infant similar to those seen in adults, instruct mothers not to breastfeed if they are receiving TRIUMEQ.
 
 Data
 
-Animal Data: Dolutegravir was the primary drug-related component excreted into the milk of lactating rats following a single oral dose of 50 mg per kg on lactation Day 10, with milk concentrations of up to approximately 1.3 times that of maternal plasma concentrations observed 8 hours postdose.
+Animal Data: Dolutegravir was the primary drug-related component excreted into the milk of lactating rats following a single oral dose of 50 mg per kg on Lactation Day 10, with milk concentrations of up to approximately 1.3 times that of maternal plasma concentrations observed 8 hours postdose.
 
 ## 8.3 Females and Males of Reproductive Potential
 
@@ -115,8 +120,14 @@ In general, caution should be exercised in the administration of TRIUMEQ in elde
 
 ## 8.6 Patients with Impaired Renal Function
 
-TRIUMEQ is not recommended for patients with creatinine clearance less than 50 mL per min because TRIUMEQ is a fixed-dose combination and the dosage of the individual components cannot be adjusted.
-If a dose reduction of lamivudine, a component of TRIUMEQ, is required for patients with creatinine clearance less than 50 mL per min, then the individual components should be used [see Clinical Pharmacology (12.3)].
+TRIUMEQ is not recommended for patients with creatinine clearance less than 30 mL per min because TRIUMEQ is a fixed-dose combination and the dosage of the individual components cannot be adjusted.
+If a dose reduction of lamivudine, a component of TRIUMEQ, is required for patients with creatinine clearance less than 30 mL per min, then the individual components should be used [see Clinical Pharmacology (12.3)].
+
+Patients with a creatinine clearance between 30 and 49 mL per min receiving TRIUMEQ may experience a 1.6- to 3.3-fold higher lamivudine exposure (AUC) than patients with a creatinine clearance ≥50 mL per min. There are no safety data from randomized, controlled trials comparing TRIUMEQ to the individual components in patients with a creatinine clearance between 30 and 49 mL per min who received dose-adjusted lamivudine.
+In the original lamivudine registrational trials in combination with zidovudine, higher lamivudine exposures were associated with higher rates of hematologic toxicities (neutropenia and anemia), although discontinuations due to neutropenia or anemia each occurred in <1% of subjects.
+Patients with a sustained creatinine clearance between 30 and 49 mL per min who receive TRIUMEQ should be monitored for hematologic toxicities.
+If new or worsening neutropenia or anemia develop, dose adjustment of lamivudine, per lamivudine prescribing information, is recommended.
+If lamivudine dose adjustment is indicated, TRIUMEQ should be discontinued and the individual components should be used to construct the treatment regimen.
 
 ## 8.7 Patients with Impaired Hepatic Function
 

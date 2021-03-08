@@ -28,6 +28,6 @@ Dosing Recommendations for TRIUMEQ with Coadministered Medications
 
 Because TRIUMEQ is a fixed-dose tablet and cannot be dose adjusted, TRIUMEQ is not recommended in:
 
-- •patients with creatinine clearance less than 50 mL per minute [see Use in Specific Populations (8.6)].
+- •patients with creatinine clearance less than 30 mL per minute [see Use in Specific Populations (8.6)].
 - •patients with mild hepatic impairment.
   TRIUMEQ is contraindicated in patients with moderate or severe hepatic impairment [see Contraindications (4), Use in Specific Populations (8.7)].

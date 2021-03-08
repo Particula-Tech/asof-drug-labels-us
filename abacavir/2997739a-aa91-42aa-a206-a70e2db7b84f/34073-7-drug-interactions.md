@@ -2,7 +2,7 @@
 
 ## 7.1 Effect of Dolutegravir on the Pharmacokinetics of Other Agents
 
-In vitro, dolutegravir inhibited the renal OCT2 (IC50 = 1.93 microM) and multidrug and toxin extrusion transporter (MATE)1 (IC50 = 6.34 microM).
+In vitro, dolutegravir inhibited the renal organic cation transporters (OCT)2 (IC50 = 1.93 microM) and multidrug and toxin extrusion transporter (MATE)1 (IC50 = 6.34 microM).
 In vivo, dolutegravir inhibits tubular secretion of creatinine by inhibiting OCT2 and potentially MATE1.
 Dolutegravir may increase plasma concentrations of drugs eliminated via OCT2 or MATE1 (dofetilide, dalfampridine, and metformin) [see Contraindications (4), Drug Interactions (7.3)].
 
@@ -68,3 +68,9 @@ Sorbitol
 
 Lamivudine: Coadministration of single doses of lamivudine and sorbitol resulted in a sorbitol dose-dependent reduction in lamivudine exposures.
 When possible, avoid use of sorbitol-containing medicines with lamivudine-containing medicines [see Clinical Pharmacology (12.3)].
+
+Riociguat
+
+Abacavir: Coadministration with TRIUMEQ resulted in increased riociguat exposure, which may increase the risk of riociguat adverse reactions [see Clinical Pharmacology (12.3)].
+The riociguat dose may need to be reduced.
+See full prescribing information for ADEMPAS (riociguat).
