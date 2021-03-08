@@ -4,8 +4,7 @@ RITUXAN HYCELA is a combination of rituximab and hyaluronidase human.
 Rituximab is a genetically engineered chimeric murine/human monoclonal IgG1 kappa antibody directed against the CD20 antigen.
 Rituximab has an approximate molecular weight of 145 kD.
 Rituximab has a binding affinity for the CD20 antigen of approximately 8.0 nM.
-Rituximab is produced by mammalian cell (Chinese Hamster Ovary) suspension culture in a nutrient medium that may contain the antibiotic gentamicin.
-Gentamicin is not detectable in the final product.
+Rituximab is produced by mammalian cell (Chinese Hamster Ovary) suspension culture.
 
 Recombinant human hyaluronidase is an endoglycosidase used to increase the dispersion and absorption of co-administered drugs when administered subcutaneously.
 It is produced by mammalian (Chinese Hamster Ovary) cells containing a DNA plasmid encoding for a soluble fragment of human hyaluronidase (PH20).

@@ -91,7 +91,7 @@ Patients were randomized (1:1) to receive either a rituximab product by intraven
 The main outcome measure was the non-inferiority of the pharmacokinetic profile of RITUXAN HYCELA compared to rituximab.
 An additional outcome measure in Part 2 was investigator-assessed response rate.
 
-The median age was 60 years (range: 25 to 78 years); 65% were males and 96% were White.
+The median age was 60 years (range: 25 to 78); 65% were males and 96% were White.
 The median BSA was 1.9 m2, 62% had Binet Stage B disease and 93% had typical CLL characterization.
 
 The pharmacokinetic results demonstrated that RITUXAN HYCELA 1,600 mg/26,800 Units serum rituximab Ctrough level was non-inferior compared with rituximab at 500 mg/m2 in patients receiving combination treatment with chemotherapy [see Clinical Pharmacology (12.3)].
