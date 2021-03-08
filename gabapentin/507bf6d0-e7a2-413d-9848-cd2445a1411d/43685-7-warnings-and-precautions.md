@@ -37,13 +37,13 @@ During the controlled trials in patients with post-herpetic neuralgia, somnolenc
 Dizziness and somnolence were among the most common adverse reactions leading to discontinuation of gabapentin.
 
 Patients should be carefully observed for signs of central nervous system (CNS) depression, such as somnolence and sedation, when gabapentin is used with other drugs with sedative properties because of potential synergy.
-In addition, patients who require concomitant treatment with morphine may experience increases in gabapentin concentrations and may require dose adjustment [see Drug Interactions (7.2)].
+In addition, patients who require concomitant treatment with morphine may experience increases in gabapentin concentrations and may require dose adjustment [see Drug Interactions (7.1)].
 
 ## 5.5 Withdrawal Precipitated Seizure, Status Epilepticus
 
 Antiepileptic drugs should not be abruptly discontinued because of the possibility of increasing seizure frequency.
 
-In the placebo-controlled epilepsy studies in patients > 12 years of age, the incidence of status epilepticus in patients receiving gabapentin was 0.6% (3 of 543) vs. 0.5% in patients receiving placebo (2 of 378).
+In the placebo-controlled epilepsy studies in patients > 12 years of age, the incidence of status epilepticus in patients receiving gabapentin was 0.6% (3 of 543) versus 0.5% in patients receiving placebo (2 of 378).
 Among the 2,074 patients > 12 years of age treated with gabapentin across all epilepsy studies (controlled and uncontrolled), 31 (1.5%) had status epilepticus.
 Of these, 14 patients had no prior history of status epilepticus either before treatment or while on other medications.
 Because adequate historical data are not available, it is impossible to say whether or not treatment with gabapentin is associated with a higher or lower rate of status epilepticus than would be expected to occur in a similar population not treated with gabapentin.
@@ -96,7 +96,7 @@ Gabapentin use in pediatric patients with epilepsy 3 to 12 years of age is assoc
 The most significant of these can be classified into the following categories: 1) emotional lability (primarily behavioral problems), 2) hostility, including aggressive behaviors, 3) thought disorder, including concentration problems and change in school performance, and 4) hyperkinesia (primarily restlessness and hyperactivity).
 Among the gabapentin-treated patients, most of the reactions were mild to moderate in intensity.
 
-In controlled clinical epilepsy trials in pediatric patients 3 to 12 years of age, the incidence of these adverse reactions was: emotional lability 6% (gabapentin-treated patients) vs. 1.3% (placebo-treated patients); hostility 5.2% vs. 1.3%; hyperkinesia 4.7% vs. 2.9%; and thought disorder 1.7% vs. 0%.
+In controlled clinical epilepsy trials in pediatric patients 3 to 12 years of age, the incidence of these adverse reactions was: emotional lability 6% (gabapentin-treated patients) versus 1.3% (placebo-treated patients); hostility 5.2% versus 1.3%; hyperkinesia 4.7% versus 2.9%; and thought disorder 1.7% versus 0%.
 One of these reactions, a report of hostility, was considered serious.
 Discontinuation of gabapentin treatment occurred in 1.3% of patients reporting emotional lability and hyperkinesia and 0.9% of gabapentin-treated patients reporting hostility and thought disorder.
 One placebo-treated patient (0.4%) withdrew due to emotional lability.

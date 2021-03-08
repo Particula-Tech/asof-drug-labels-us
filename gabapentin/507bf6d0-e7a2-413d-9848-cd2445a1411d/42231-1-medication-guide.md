@@ -1,6 +1,6 @@
 # MEDICATION GUIDE
 
-Gabapentin (gab”a pen’ tin) Capsules
+Gabapentin (gab” a pen’ tin) Capsules
 
 What is the most important information I should know about gabapentin capsules?
 
@@ -10,8 +10,9 @@ Stopping gabapentin capsules suddenly can cause serious problems.
 
 Gabapentin capsules can cause serious side effects including:
 
-1. Suicidal Thoughts.
-   Like other antiepileptic drugs, gabapentin capsules may cause suicidal thoughts or actions in a very small number of people, about 1 in 500.
+1.
+Suicidal Thoughts.
+Like other antiepileptic drugs, gabapentin capsules may cause suicidal thoughts or actions in a very small number of people, about 1 in 500.
 
 Call a healthcare provider right away if you have any of these symptoms, especially if they are new, worse, or worry you:
 
@@ -189,8 +190,8 @@ The 400-mg capsule shell contains: gelatin, sodium lauryl sulfate, titanium diox
 
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
 
-This product’s label may have been updated.
-For current full prescribing information, please visit www.amneal.com
+This product’s labeling may have been updated.
+For the most recent prescribing information, please visit www.amneal.com
 
 *Trademarks are the property of their respective owners.
 
@@ -199,18 +200,10 @@ Ltd. Ahmedabad 382220, INDIA
 
 Or
 
-Manufactured by:
+Manufactured by: Amneal Pharmaceuticals Pvt.
+Ltd. Oral Solid Dosage Unit Ahmedabad 382213, INDIA
 
-Amneal Pharmaceuticals Pvt.
-Ltd.
-
-Oral Solid Dosage Unit
-
-Ahmedabad 382213, INDIA
-
-Distributed by: Amneal Pharmaceuticals LLC
-
-Bridgewater, NJ 08807
+Distributed by: Amneal Pharmaceuticals LLC Bridgewater, NJ 08807
 
 Rev.
-05-2020-08
+02-2021-09

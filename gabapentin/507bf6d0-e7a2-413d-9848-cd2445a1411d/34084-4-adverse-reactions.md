@@ -7,7 +7,7 @@ The following serious adverse reactions are discussed in greater detail in other
 - Somnolence/Sedation and Dizziness [see Warnings and Precautions (5.4)]
 - Withdrawal Precipitated Seizure, Status Epilepticus [see Warnings and Precautions (5.5)]
 - Suicidal Behavior and Ideation [see Warnings and Precautions (5.6)]
-- Respiratory Depression [see Warnings and Precautions(5.7)]
+- Respiratory Depression [see Warnings and Precautions (5.7)]
 - Neuropsychiatric Adverse Reactions (Pediatric Patients 3 to 12 Years of Age) [see Warnings and Precautions (5.8)]
 - Sudden and Unexplained Death in Patients with Epilepsy [see Warnings and Precautions (5.10)]
 
@@ -171,7 +171,7 @@ Reproductive system and breast disorders: breast enlargement, changes in libido,
 
 Skin and subcutaneous tissue disorders: angioedema [see Warnings and Precautions (5.2)], bullous pemphigoid, erythema multiforme, Stevens-Johnson syndrome.
 
-There are postmarketing reports of life-threatening or fatal respiratory depression in patients taking gabapentin with opioids or other CNS depressants, or in the setting of underlying respiratory impairment [see Warnings and Precautions(5.7)].
+There are postmarketing reports of life-threatening or fatal respiratory depression in patients taking gabapentin with opioids or other CNS depressants, or in the setting of underlying respiratory impairment [see Warnings and Precautions (5.7)].
 
 Adverse reactions following the abrupt discontinuation of gabapentin have also been reported.
 The most frequently reported reactions were anxiety, insomnia, nausea, pain, and sweating.

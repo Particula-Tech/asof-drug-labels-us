@@ -1,10 +1,8 @@
 # 7 DRUG INTERACTIONS
 
-## 7.1 Other Antiepileptic Drugs
+## 7.1 Opioids
 
-Gabapentin is not appreciably metabolized nor does it interfere with the metabolism of commonly co-administered antiepileptic drugs [see Clinical Pharmacology (12.3)].
-
-## 7.2 Opioids
+Respiratory depression and sedation, sometimes resulting in death, have been reported following co-administration of gabapentin with opioids (e.g., morphine, hydrocodone, oxycodone, buprenorphine) [see Warnings and Precautions (5.7)].
 
 Hydrocodone
 
@@ -14,6 +12,10 @@ The potential for alteration in hydrocodone exposure and effect should be consid
 Morphine
 
 When gabapentin is administered with morphine, patients should be observed for signs of CNS depression, such as somnolence, sedation and respiratory depression [see Clinical Pharmacology (12.3)].
+
+## 7.2 Other Antiepileptic Drugs
+
+Gabapentin is not appreciably metabolized nor does it interfere with the metabolism of commonly co-administered antiepileptic drugs [see Clinical Pharmacology (12.3)].
 
 ## 7.3 Maalox® (aluminum hydroxide, magnesium hydroxide)
 
