@@ -46,7 +46,7 @@ Counsel individuals of childbearing potential to consistently use effective cont
 
 In individuals of childbearing potential currently on DOVATO who are actively trying to become pregnant, or if pregnancy is confirmed in the first trimester, assess the risks and benefits of continuing DOVATO versus switching to another antiretroviral regimen and consider switching to an alternative regimen [see Use in Specific Populations (8.1, 8.3)].
 
-DOVATO may be considered during the second and third trimesters of pregnancy if the expected benefit justifies the potential risk to the pregnant woman and the fetus.
+DOVATO may be considered during the second and third trimesters of pregnancy if the expected benefit justifies the potential risk to the pregnancy woman and the fetus.
 
 ## 5.5 Lactic Acidosis and Severe Hepatomegaly with Steatosis
 

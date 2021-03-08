@@ -37,8 +37,11 @@ Data analyzed to date from other sources including the APR, clinical trials, and
 
 Data from the birth outcome surveillance study described above and postmarketing sources with more than 1,000 pregnancy outcomes from second and third trimester exposure in pregnant women indicate no evidence of increased risk of adverse birth outcomes.
 
-Lamivudine: Based on prospective reports to the APR of over 12,000 exposures to lamivudine during pregnancy resulting in live births (including over 5,000 exposed in the first trimester), there was no difference between the overall risk of birth defects for lamivudine compared with the background birth defect rate of 2.7% in the U.S. reference population of the Metropolitan Atlanta Congenital Defects Program (MACDP).
-The prevalence of defects in live births was 3.0% (95% CI: 2.6% to 3.5%) following first trimester exposure to lamivudine-containing regimens and 2.9% (95% CI: 2.5% to 3.3%) following second/third trimester exposure to lamivudine-containing regimens.
+Based on prospective reports to the APR of exposures to dolutegravir during pregnancy resulting in live births (including over 450 exposed in the first trimester and over 280 exposed in the second/third trimester), there was no difference between the overall risk of birth defects for dolutegravir compared with the background birth defect rate of 2.7% in the U.S. reference population of the Metropolitan Atlanta Congenital Defects Program (MACDP).
+The prevalence of defects in live births was 3.5% (95% CI: 2.0% to 5.6%) following first trimester exposure to dolutegravir-containing regimens and 4.2% (95% CI: 2.2% to 7.2%) following second/third trimester exposure to dolutegravir-containing regimens.
+
+Lamivudine: Based on prospective reports to the APR of exposures to lamivudine during pregnancy resulting in live births (including over 5,300 exposed in the first trimester and over 7,400 exposed in the second/third trimester), there was no difference between the overall risk of birth defects for lamivudine compared with the background birth defect rate of 2.7% in the U.S. reference population of the MACDP.
+The prevalence of defects in live births was 3.1% (95% CI: 2.7% to 3.6%) following first trimester exposure to lamivudine-containing regimens and 2.9% (95% CI: 2.5% to 3.3%) following second/third trimester exposure to lamivudine-containing regimens.
 
 Lamivudine pharmacokinetics were studied in pregnant women during 2 clinical trials conducted in South Africa.
 The trials assessed pharmacokinetics in 16 women at 36 weeks’ gestation using lamivudine 150 mg twice daily with zidovudine, 10 women at 38 weeks’ gestation using lamivudine 150 mg twice daily with zidovudine, and 10 women at 38 weeks’ gestation using lamivudine 300 mg twice daily without other antiretrovirals.
@@ -52,12 +55,12 @@ No adverse effects on embryo-fetal (rats and rabbits) or pre/postnatal (rats) de
 During organogenesis, systemic exposures (AUC) to dolutegravir in rabbits were less than the exposure in humans at the RHD and in rats were approximately 50 times the exposure in humans at the RHD.
 In the rat pre/postnatal development study, decreased body weight of the developing offspring was observed during lactation at a maternally toxic dose (approximately 50 times human exposure at the RHD).
 
-1. Lamivudine: Lamivudine was administered orally to pregnant rats (at 90, 600, and 4,000 mg/kg/day) and rabbits (at 90, 300 and 1,000 mg/kg/day and at 15, 40, and 90 mg/kg/day) during organogenesis (on Gestation Days 7 through 16 [rat] and 8 through 20 [rabbit]).
-   No evidence of fetal malformations due to lamivudine was observed in rats and rabbits at doses producing plasma concentrations (Cmax) approximately 35 times higher than human exposure at the RHD.
-   Evidence of early embryolethality was seen in the rabbit at systemic exposures (AUC) similar to those observed in humans, but there was no indication of this effect in the rat at plasma concentrations (Cmax) 35 times higher than human exposure at the RHD.
-   Studies in pregnant rats showed that lamivudine is transferred to the fetus through the placenta.
-   In the fertility/pre- and postnatal development study in rats, lamivudine was administered orally at doses of 180, 900, and 4,000 mg/kg/day (from prior to mating through Postnatal Day 20).
-   In the study, development of the offspring, including fertility and reproductive performance, was not affected by the maternal administration of lamivudine.
+Lamivudine: Lamivudine was administered orally to pregnant rats (at 90, 600, and 4,000 mg/kg/day) and rabbits (at 90, 300 and 1,000 mg/kg/day and at 15, 40, and 90 mg/kg/day) during organogenesis (on Gestation Days 7 through 16 [rat] and 8 through 20 [rabbit]).
+No evidence of fetal malformations due to lamivudine was observed in rats and rabbits at doses producing plasma concentrations (Cmax) approximately 35 times higher than human exposure at the RHD.
+Evidence of early embryolethality was seen in the rabbit at systemic exposures (AUC) similar to those observed in humans, but there was no indication of this effect in the rat at plasma concentrations (Cmax) 35 times higher than human exposure at the RHD.
+Studies in pregnant rats showed that lamivudine is transferred to the fetus through the placenta.
+In the fertility/pre- and postnatal development study in rats, lamivudine was administered orally at doses of 180, 900, and 4,000 mg/kg/day (from prior to mating through Postnatal Day 20).
+In the study, development of the offspring, including fertility and reproductive performance, was not affected by the maternal administration of lamivudine.
 
 ## 8.2 Lactation
 
@@ -99,8 +102,15 @@ In general, caution should be exercised in the administration of DOVATO in elder
 
 ## 8.6 Renal Impairment
 
-DOVATO is not recommended for patients with creatinine clearance <50 mL/min because DOVATO is a fixed-dose combination and the dosage of the individual components cannot be adjusted.
-If a dose reduction of lamivudine, a component of DOVATO, is required for patients with creatinine clearance <50 mL/min, then the individual components should be used.
+DOVATO is not recommended for patients with creatinine clearance <30 mL/min because DOVATO is a fixed-dose combination and the dosage of the individual components cannot be adjusted.
+If a dose reduction of lamivudine, a component of DOVATO, is required for patients with creatinine clearance <30 mL/min, then the individual components should be used.
+
+Patients with a creatinine clearance between 30 and 49 mL/min receiving DOVATO may experience a 1.6- to 3.3-fold higher lamivudine exposure (AUC) than patients with a creatinine clearance ≥50 mL/min.
+There are no safety data from randomized, controlled trials comparing DOVATO to the individual components in patients with a creatinine clearance between 30 and 49 mL/min who received dose-adjusted lamivudine.
+In the original lamivudine registrational trials in combination with zidovudine, higher lamivudine exposures were associated with higher rates of hematologic toxicities (neutropenia and anemia), although discontinuations due to neutropenia or anemia each occurred in <1% of subjects.
+Patients with a sustained creatinine clearance between 30 and 49 mL/min who receive DOVATO should be monitored for hematologic toxicities.
+If new or worsening neutropenia or anemia develop, dose adjustment of lamivudine, per lamivudine prescribing information, is recommended.
+If lamivudine dose adjustment is indicated, DOVATO should be discontinued and the individual components should be used to construct the treatment regimen.
 
 ## 8.7 Hepatic Impairment
 

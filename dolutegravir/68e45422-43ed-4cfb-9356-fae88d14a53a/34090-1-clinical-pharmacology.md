@@ -58,7 +58,12 @@ Specific Populations
 
 No clinically significant differences in the pharmacokinetics of the components of DOVATO were observed based on age, sex, or race.
 Pharmacokinetic data for dolutegravir and lamivudine in subjects aged 65 years and older are limited.
-The effect of renal or hepatic impairment on the pharmacokinetics of DOVATO is unknown.
+
+Patients with Renal Impairment: The pharmacokinetics for the individual components of DOVATO have been evaluated in patients with renal impairment.
+See the U.S. prescribing information for the individual components, TIVICAY (dolutegravir) and EPIVIR (lamivudine).
+
+Patients with Hepatic Impairment: The pharmacokinetics for the individual components of DOVATO have been evaluated in patients with varying degrees of hepatic impairment.
+See the U.S. prescribing information for the individual components, TIVICAY (dolutegravir) and EPIVIR (lamivudine).
 
 Drug Interaction Studies
 

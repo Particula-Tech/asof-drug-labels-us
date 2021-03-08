@@ -24,7 +24,7 @@ Dosing Recommendations for DOVATO with Coadministered Drugs
 
 ## 2.4 Not Recommended in Patients with Renal Impairment
 
-Because DOVATO is a fixed-dose tablet and cannot be dose adjusted, DOVATO is not recommended in patients with creatinine clearance less than 50 mL per minute [see Use in Specific Populations (8.6)].
+Because DOVATO is a fixed-dose tablet and cannot be dose adjusted, DOVATO is not recommended in patients with creatinine clearance less than 30 mL per minute [see Use in Specific Populations (8.6)].
 
 ## 2.5 Not Recommended in Patients with Severe Hepatic Impairment
 
