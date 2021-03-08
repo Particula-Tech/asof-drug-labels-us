@@ -24,7 +24,7 @@ Conversion from Gengraf® to Sandimmune® should be made with increased monitori
 
 ## Kidney, Liver, and Heart Transplant
 
-Nephrotoxicity
+### Nephrotoxicity
 
 Cyclosporine, the active ingredient of Gengraf® Capsules (cyclosporine capsules, USP [MODIFIED]), can cause nephrotoxicity and hepatotoxicity when used in high doses.
 It is not unusual for serum creatinine and BUN levels to be elevated during cyclosporine therapy.
@@ -51,7 +51,7 @@ It should be noted however, that up to 20% of patients may have simultaneous nep
 | Aspiration Cytology | CyA deposits in tubular and endothelial cells Fine isometric vacuolization of tubular cells | Inflammatory infiltrate with mononuclear phagocytes, macrophages, lymphoblastoid cells, and activated T-cells These strongly express HLA-DR antigens |
 | Urine Cytology | Tubular cells with vacuolization and granularization | Degenerative tubular cells, plasma cells, and lymphocyturia >20% of sediment |
 | Manometry Ultrasonography | Intracapsular pressure <40 mm Hgb Unchanged graft cross sectional area | Intracapsular pressure >40 mm Hgb Increase in graft cross sectional area AP diameter ≥ Transverse diameter |
-| Magnetic Resonance Imagery | Normal appearance | Loss of distinct corticomedullary junction, swelling image intensity of parachyma approaching that of psoas, loss of hilar fat |
+| Magnetic Resonance Imagery | Normal appearance | Loss of distinct corticomedullary junction, swelling image intensity of parenchyma approaching that of psoas, loss of hilar fat |
 | Radionuclide Scan | Normal or generally decreased perfusion Decrease in tubular function (131 I-hippuran) > decrease in perfusion (99m Tc DTPA) | Patchy arterial flow Decrease in perfusion > decrease in tubular function Increased uptake of Indium 111 labeled platelets or Tc-99m in colloid |
 | Therapy | Responds to decreased cyclosporine | Responds to increased steroids or antilymphocyte globulin |
 | ap <0.05, bp <0.01, cp <0.001, dp <0.0001 |  |  |
@@ -112,7 +112,7 @@ Patients receiving immunosuppressants, including Gengraf®, are at increased ris
 These infections may lead to serious, including fatal, outcomes.
 (See BOXED WARNING and ADVERSE REACTIONS)
 
-Polyoma Virus Infections
+### Polyoma Virus Infections
 
 Patients receiving immunosuppressants, including Gengraf®, are at increased risk for opportunistic infections, including polyoma virus infections.
 Polyoma virus infections in transplant patients may have serious, and sometimes, fatal outcomes.
@@ -214,7 +214,7 @@ For an adult weighing 70 kg, the maximum daily oral dose would deliver about 1 g
 
 ## General
 
-Hypertension
+### Hypertension
 
 Cyclosporine is the active ingredient of Gengraf® Capsules (cyclosporine capsules, USP [MODIFIED]).
 Hypertension is a common side effect of cyclosporine therapy which may persist.
@@ -224,11 +224,11 @@ In recipients of kidney, liver, and heart allografts treated with cyclosporine, 
 While calcium antagonists can be effective agents in treating cyclosporine-associated hypertension, they can interfere with cyclosporine metabolism.
 (See Drug Interactions)
 
-Vaccination
+### Vaccination
 
 During treatment with cyclosporine, vaccination may be less effective; and the use of live attenuated vaccines should be avoided.
 
-Special Monitoring of Rheumatoid Arthritis Patients
+### Special Monitoring of Rheumatoid Arthritis Patients
 
 Before initiating treatment, a careful physical examination, including blood pressure measurements (on at least two occasions) and two creatinine levels to estimate baseline should be performed.
 Blood pressure and serum creatinine should be evaluated every 2 weeks during the initial 3 months and then monthly if the patient is stable.
@@ -243,7 +243,7 @@ In most cases, blood pressure has returned to baseline when cyclosporine was dis
 In placebo-controlled trials of rheumatoid arthritis patients, systolic hypertension (defined as an occurrence of two systolic blood pressure readings >140 mmHg) and diastolic hypertension (defined as two diastolic blood pressure readings >90 mmHg) occurred in 33% and 19% of patients treated with cyclosporine, respectively.
 The corresponding placebo rates were 22% and 8%.
 
-Special Monitoring for Psoriasis Patients
+### Special Monitoring for Psoriasis Patients
 
 Before initiating treatment, a careful dermatological and physical examination, including blood pressure measurements (on at least two occasions) should be performed.
 Since Gengraf® (cyclosporine capsules, USP [MODIFIED]) is an immunosuppressive agent, patients should be evaluated for the presence of occult infection on their first physical examination and for the presence of tumors initially, and throughout treatment with Gengraf®.
@@ -299,7 +299,7 @@ In addition, concomitant use of NSAIDs with cyclosporine, particularly in the se
 Caution should be exercised when using other drugs which are known to impair renal function.
 (See WARNINGS, Nephrotoxicity)
 
-### Drugs That May Potentiate Renal Dysfunction
+Drugs That May Potentiate Renal Dysfunction
 
 | Antibiotics | Antineoplastics | Anti-inflammatory Drugs | Gastrointestinal Agents |
 | --- | --- | --- | --- |
@@ -321,7 +321,8 @@ Compounds that decrease cyclosporine absorption such as orlistat should be avoid
 Appropriate Gengraf® dosage adjustment to achieve the desired cyclosporine concentrations is essential when drugs that significantly alter cyclosporine concentrations are used concomitantly.
 (See Blood Concentration Monitoring)
 
-### 1. Drugs That Increase Cyclosporine Concentrations
+1.
+Drugs That Increase Cyclosporine Concentrations
 
 | Calcium Channel Blockers | Antifungals | Antibiotics | Glucocorticoids | Other Drugs |
 | --- | --- | --- | --- | --- |
@@ -344,7 +345,8 @@ Grapefruit juice
 
 Grapefruit and grapefruit juice affect metabolism, increasing blood concentrations of cyclosporine, thus should be avoided.
 
-### 2. Drugs/Dietary Supplements That Decrease Cyclosporine Concentrations
+2.
+Drugs/Dietary Supplements That Decrease Cyclosporine Concentrations
 
 | Antibiotics | Anticonvulsants | Other Drugs/Dietary Supplements |
 | --- | --- | --- |
@@ -482,7 +484,7 @@ Other Immunosuppressive Drugs and Agents
 
 Psoriasis patients receiving other immunosuppressive agents or radiation therapy (including PUVA and UVB) should not receive concurrent cyclosporine because of the possibility of excessive immunosuppression.
 
-### C. Effect of Cyclosporine on the Efficacy of Live Vaccines
+C. Effect of Cyclosporine on the Efficacy of Live Vaccines
 
 During treatment with cyclosporine, vaccination may be less effective.
 The use of live vaccines should be avoided.

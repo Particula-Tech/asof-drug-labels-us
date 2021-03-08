@@ -57,7 +57,7 @@ When the patients were administered cyclosporine (MODIFIED) with and without T-t
 | De novo psoriasis6 Week 4 (N=18) | 189±69.8 | 2.48±0.65 | 2324±1048 | 655±186 | 74.9±46.7 | 723±186 | 10.2±3.9 |
 | 1Total daily dose was divided into two doses administered every 12 hours 2AUC was measured over one dosing interval 3Trough concentration was measured just prior to the morning cyclosporine (MODIFIED) dose, approximately 12 hours after the previous dose 4Assay: TDx specific monoclonal fluorescence polarization immunoassay 5Assay: Cyclo-trac specific monoclonal radioimmunoassay 6Assay: INCSTAR specific monoclonal radioimmunoassay |  |  |  |  |  |  |  |
 
-### Distribution
+Distribution
 
 Cyclosporine is distributed largely outside the blood volume.
 The steady state volume of distribution during intravenous dosing has been reported as 3 to 5 L/kg in solid organ transplant recipients.
@@ -68,7 +68,7 @@ In plasma, approximately 90% is bound to proteins, primarily lipoproteins.
 Cyclosporine is excreted in human milk.
 (See PRECAUTIONS, Nursing Mothers)
 
-### Metabolism
+Metabolism
 
 Cyclosporine is extensively metabolized by the cytochrome P-450 3A enzyme system in the liver, and to a lesser degree in the gastrointestinal tract, and the kidney.
 The metabolism of cyclosporine can be altered by the coadministration of a variety of agents.
@@ -78,18 +78,18 @@ The major metabolites (M1, M9, and M4N) result from oxidation at the 1-beta, 9-g
 At steady state following the oral administration of Sandimmune®, the mean AUCs for blood concentrations of M1, M9, and M4N are about 70%, 21%, and 7.5% of the AUC for blood cyclosporine concentrations, respectively.
 Based on blood concentration data from stable renal transplant patients (13 patients administered cyclosporine [MODIFIED] and Sandimmune® in a crossover study), and bile concentration data from de novo liver transplant patients (4 administered cyclosporine [MODIFIED], 3 administered Sandimmune®), the percentage of dose present as M1, M9, and M4N metabolites is similar when either cyclosporine (MODIFIED) or Sandimmune® is administered.
 
-### Excretion
+Excretion
 
 Only 0.1% of a cyclosporine dose is excreted unchanged in the urine.
 Elimination is primarily biliary with only 6% of the dose (parent drug and metabolites) excreted in the urine.
 Neither dialysis nor renal failure alters cyclosporine clearance significantly.
 
-### Drug Interactions
+Drug Interactions
 
 (See PRECAUTIONS, Drug Interactions) When diclofenac or methotrexate was coadministered with cyclosporine in rheumatoid arthritis patients, the AUC of diclofenac and methotrexate, each was significantly increased.
 (See PRECAUTIONS, Drug Interactions) No clinically significant pharmacokinetic interactions occurred between cyclosporine and aspirin, ketoprofen, piroxicam, or indomethacin.
 
-### Specific Populations
+Specific Populations
 
 Renal Impairment
 
