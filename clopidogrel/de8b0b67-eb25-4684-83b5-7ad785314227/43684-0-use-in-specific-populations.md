@@ -44,7 +44,7 @@ There are no data on the presence of clopidogrel in human milk or the effects on
 No adverse effects on breastfed infants have been observed with maternal clopidogrel use during lactation in a small number of postmarketing cases.
 Studies in rats have shown that clopidogrel and/or its metabolites are present in the milk.
 When a drug is present in animal milk, it is likely that the drug will be present in human milk.
-The developmental and health benefits of breastfeeding should be considered along with mother's clinical need for PLAVIX and any potential adverse effects on the breastfed infant from PLAVIX or from underlying maternal condition.
+The developmental and health benefits of breastfeeding should be considered along with mother's clinical need for Plavix and any potential adverse effects on the breastfed infant from Plavix or from underlying maternal condition.
 
 ## 8.4 Pediatric Use
 
