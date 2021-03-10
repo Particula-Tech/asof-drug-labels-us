@@ -1,6 +1,6 @@
 PRINCIPAL DISPLAY PANEL
 
-Package Label – 125 mg Tablets for Oral Suspension
+Package Label – 250 mg Tablets for Oral Suspension
 
 NDC 69452-159-13
 
@@ -8,7 +8,9 @@ Deferasirox Tablets for Oral Suspension*
 
 125 mg per tablet
 
-DO NOT CHEW OR SWALLOW WHOLE *Tablets MUST be dispersed in water, orange or apple juice prior to ingestion.
+DO NOT CHEW OR SWALLOW WHOLE
+
+*Tablets MUST be dispersed in water, orange or apple juice prior to ingestion.
 
 PHARMACIST: Dispense the accompanying Medication Guide to each patient.
 
@@ -34,7 +36,9 @@ DO NOT CHEW OR SWALLOW WHOLE
 
 PHARMACIST: Dispense the accompanying Medication Guide to each patient.
 
-Rx only 30 Tablets
+Rx only
+
+30 Tablets
 
 BIONPHARMA
 
