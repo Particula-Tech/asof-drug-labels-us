@@ -29,13 +29,13 @@ Effect of Risperidone on Other Drugs
 
 Lithium
 
-Repeated oral doses of risperidone (3 mg twice daily) did not affect the exposure (AUC) or peak plasma concentrations (Cmax) of lithium (n=13).
+Repeated oral doses of risperidone (3 mg twice daily) did not affect the exposure (AUC) or peak plasma concentrations (C max) of lithium (n=13).
 Dose adjustment for lithium is not recommended.
 
 Valproate
 
 Repeated oral doses of risperidone (4 mg once daily) did not affect the pre-dose or average plasma concentrations and exposure (AUC) of valproate (1,000 mg/day in three divided doses) compared to placebo (n=21).
-However, there was a 20% increase in valproate peak plasma concentration (Cmax) after concomitant administration of risperidone.
+However, there was a 20% increase in valproate peak plasma concentration (C max) after concomitant administration of risperidone.
 Dose adjustment for valproate is not recommended.
 
 Digoxin
@@ -56,6 +56,11 @@ Because of its potential for inducing hypotension, risperidone may enhance the h
 Levodopa and Dopamine Agonists
 
 Risperidone may antagonize the effects of levodopa and dopamine agonists.
+
+Methylphenidate
+
+Concomitant use with methylphenidate, when there is change in dosage of either medication, may increase the risk of extrapyramidal symptoms (EPS).
+Monitor for symptoms of EPS with concomitant use of risperidone and methylphenidate [see Adverse Reactions (6.2)].
 
 Clozapine
 
