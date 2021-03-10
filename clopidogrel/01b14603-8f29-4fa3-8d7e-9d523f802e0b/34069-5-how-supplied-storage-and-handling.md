@@ -5,6 +5,7 @@ Tablets are provided as follows:
 
 - NDC 63653-1171-6 Bottles of 30
 - NDC 63653-1171-1 Bottles of 90
+- NDC 63653-1171-5 Bottles of 500
 - NDC 63653-1171-3 Blisters of 100
 
 Plavix (clopidogrel tablets) 300 mg are available as pink, oblong, film-coated tablets debossed with "300" on one side and "1332" on the other.

@@ -59,8 +59,8 @@ What should I tell my doctor before taking Plavix?
 
 Before you take Plavix, tell your doctor if you:
 
-- have a history of bowel (gastrointestinal) or stomach ulcers
-- have a history of bleeding problems
+- have a history of bowel (gastrointestinal) or stomach ulcers.
+- have a history of bleeding problems.
 - plan to have surgery or a dental procedure.
   See "How should I take Plavix?"
 - are pregnant or plan to become pregnant.
@@ -85,11 +85,12 @@ Especially tell your doctor if you take:
 
 - aspirin, especially if you have had a stroke.
   Always talk to your doctor about whether you should take aspirin along with Plavix to treat your condition.
-- non-steroidal anti-inflammatory drugs (NSAIDs).
+- nonsteroidal anti-inflammatory drugs (NSAIDs).
   Ask your doctor or pharmacist for a list of NSAID medicines if you are not sure.
 - warfarin (Coumadin®, Jantoven®).
 - selective serotonin reuptake inhibitors (SSRIs) and serotonin norepinephrine reuptake inhibitors (SNRIs).
   Ask your doctor or pharmacist for a list of SSRI or SNRI medicines if you are not sure.
+- rifampin (used to treat severe infections)
 
 Know the medicines you take.
 Keep a list of them to show your doctor or pharmacist when you get a new medicine.
@@ -116,7 +117,7 @@ Plavix can cause serious side effects including:
 - A blood clotting problem called Thrombotic Thrombocytopenic Purpura (TTP).
   TTP can happen with Plavix, sometimes after a short time (less than 2 weeks).
   TTP is a blood clotting problem where blood clots form in blood vessels; and can happen anywhere in the body.
-  TTP needs to be treated in a hospital right away, because it may cause death.
+  TTP needs to be treated in a hospital right away because it may cause death.
   Get medical help right away if you have any of these symptoms and they cannot be explained by another medical condition:
   - purplish spots (called purpura) on the skin or in the mouth (mucous membranes) due to bleeding under the skin
   - your skin or the whites of your eyes are yellow (jaundice)
