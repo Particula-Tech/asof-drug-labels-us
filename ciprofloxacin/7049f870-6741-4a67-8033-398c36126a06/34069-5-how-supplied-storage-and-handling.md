@@ -20,5 +20,7 @@ Protect from light.
 Avoid excessive heat.
 Protect from freezing.
 
+Discard unused portion.
+
 Sterile, Nonpyrogenic, Preservative-free.
 The container and container closure are not made with natural rubber latex.

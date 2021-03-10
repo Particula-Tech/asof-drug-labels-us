@@ -1,6 +1,6 @@
 # 17 PATIENT COUNSELING INFORMATION
 
-Advise the patient to read the FDA-Approved patient labeling (Medication Guide)
+Advise the patient to read the FDA-approved patient labeling (Medication Guide)
 
 Serious Adverse Reactions
 
@@ -44,6 +44,8 @@ Inform patients of the following serious adverse reactions that have been associ
   If patients need to be outdoors while using quinolones, instruct them to wear loose-fitting clothes that protect skin from sun exposure and discuss other sun protection measures with their physician.
   If a sunburn-like reaction or skin eruption occurs, instruct patients to contact their physician.
 - Blood Glucose Disturbances: Inform the patients that if they are diabetic and are being treated with insulin or an oral hypoglycemic agent and a hypoglycemic reaction occurs, they should discontinue ciprofloxacin and consult a physician.
+- Lactation: For indications other than inhalational anthrax (post-exposure), advise a woman that breastfeeding is not recommended during treatment with ciprofloxacin and for an additional 2 days after the last dose.
+  Alternatively, a woman may pump and discard during treatment and for additional 2 days after the last dose [see Use in Specific Populations (8.2)].
 
 Antibacterial Resistance
 
@@ -67,6 +69,6 @@ Therefore, approval for these conditions was based on efficacy studies conducted
 
 Brands listed are the trademarks of their respective owners.
 
-SAGENT® Mfd. for SAGENT Pharmaceuticals Schaumburg, IL 60195 (USA) Made in Switzerland ©2019 Sagent Pharmaceuticals, Inc.
+SAGENT® Mfd. for SAGENT Pharmaceuticals Schaumburg, IL 60195 (USA) Made in Switzerland ©2020 Sagent Pharmaceuticals, Inc.
 
-Revised: March 2019
+Revised: August 2020

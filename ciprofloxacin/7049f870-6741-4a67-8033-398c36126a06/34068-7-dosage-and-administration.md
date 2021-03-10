@@ -47,7 +47,7 @@ Table 3: Pediatric Dosage Guidelines
 | --- | --- | --- | --- |
 | Complicated Urinary Tract or Pyelonephritis (patients from 1 to 17 years of age)1 | 6 mg/kg to 10 mg/kg (maximum 400 mg per dose; not to be exceeded even in patients weighing more than 51 kg) | Every 8 hours | 10 to 21 days1 |
 | Inhalational Anthrax (Post-Exposure)2 | 10 mg/kg (maximum 400 mg per dose) | Every 12 hours | 60 days |
-| Plague2,3 | 10 mg/kg (maximum 400 mg per dose) | Every 8 to 12 hours | 10 to 21 days |
+| Plague2,3 | 10 mg/kg (maximum 400 mg per dose) | Every 8 to 12 hours | 14 days |
 | 1. The total duration of therapy for cUTI and pyelonephritis in the clinical trial was determined by the physician. The mean duration of treatment was 11 days (range 10 to 21 days). |  |  |  |
 | 2. Begin drug administration as soon as possible after suspected or confirmed exposure. |  |  |  |
 | 3. Begin drug administration as soon as possible after suspected or confirmed exposure to Y. pestis. |  |  |  |

@@ -10,7 +10,7 @@
    Evaluation of a case registry of the European network of teratology information services (ENTIS).
    Eur J Obstet Gynecol Reprod Biol.
    1996;69:83-89.
-5. CReport presented at the FDA's Anti-Infective Drug and Dermatological Drug Product's Advisory Committee meeting, March 31, 1993, Silver Spring, MD.
+5. Report presented at the FDA's Anti-Infective Drug and Dermatological Drug Product's Advisory Committee meeting, March 31, 1993, Silver Spring, MD.
    Report available from FDA, CDER, Advisors and Consultants Staff, HFD-21, 1901 Chapman Avenue, Room 200, Rockville, MD 20852, USA.
 6. Kelly DJ, et al. Serum concentrations of penicillin, doxycycline, and ciprofloxacin during prolonged therapy in rhesus monkeys.
    J Infect Dis 1992; 166:1184-7.

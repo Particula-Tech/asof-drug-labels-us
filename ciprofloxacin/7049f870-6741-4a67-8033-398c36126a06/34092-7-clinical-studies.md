@@ -6,9 +6,9 @@ The safety and efficacy of ciprofloxacin, 400 mg intravenously every 8 hours, in
 
 Clinical response rates observed in this study were as follows:
 
-The clinical success and bacteriologic eradication rates in the Per Protocol population were similar between ciprofloxacin and the comparator group as shown in Table 11.
+The clinical success and bacteriologic eradication rates in the Per Protocol population were similar between ciprofloxacin and the comparator group as shown in Table 12.
 
-Table 11: Clinical Response Rates
+Table 12: Clinical Response Rates
 
 | Outcomes | Ciprofloxacin/Piperacillin N = 233 Success (%) | Tobramycin/Piperacillin N = 237 Success (%) |
 | --- | --- | --- |
@@ -27,9 +27,9 @@ The primary objective of the study was to assess musculoskeletal and neurologica
 Patients were evaluated for clinical success and bacteriological eradication of the baseline organism(s) with no new infection or superinfection at 5 to 9 days post-therapy (Test of Cure or TOC).
 The Per Protocol population had a causative organism(s) with protocol specified colony count(s) at baseline, no protocol violation, and no premature discontinuation or loss to follow-up (among other criteria).
 
-The clinical success and bacteriologic eradication rates in the Per Protocol population were similar between ciprofloxacin and the comparator group as shown in Table 12.
+The clinical success and bacteriologic eradication rates in the Per Protocol population were similar between ciprofloxacin and the comparator group as shown in Table 13.
 
-Table 12: Clinical Success and Bacteriologic Eradication at Test of Cure (5 to 9 Days Post-Therapy)
+Table 13: Clinical Success and Bacteriologic Eradication at Test of Cure (5 to 9 Days Post-Therapy)
 
 |  | Ciprofloxacin | Comparator |
 | --- | --- | --- |
@@ -54,7 +54,7 @@ The mean trough serum concentration at steady-state for both of these regimens i
 In a study of 10 pediatric patients between 6 and 16 years of age, the mean peak plasma concentration achieved is 8.3 mcg/mL and trough concentrations range from 0.09 mcg/mL to 0.26 mcg/mL, following two 30-minute intravenous infusions of 10 mg/kg administered 12 hours apart.
 After the second intravenous infusion patients switched to 15 mg/kg orally every 12 hours achieve a mean peak concentration of 3.6 mcg/mL after the initial oral dose.
 Long-term safety data, including effects on cartilage, following the administration of ciprofloxacin to pediatric patients are limited.
-Ciprofloxacin serum concentrations achieved in humans serve as a surrogate endpoint reasonably likely to predict clinical benefit and provide the basis for this indication.7
+Ciprofloxacin serum concentrations achieved in humans serve as a surrogate endpoint reasonably likely to predict clinical benefit and provide the basis for this indication.1
 
 A placebo-controlled animal study in rhesus monkeys exposed to an inhaled mean dose of 11 LD50 (~5.5 × 105) spores (range 5 to 30 LD50) of B. anthracis was conducted.
 The minimal inhibitory concentration (MIC) of ciprofloxacin for the anthrax strain used in this study was 0.08 mcg/mL.

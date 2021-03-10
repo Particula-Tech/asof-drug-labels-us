@@ -24,19 +24,18 @@ Comparison of the pharmacokinetic parameters following the 1st and 5th intraveno
 The absolute bioavailability of oral ciprofloxacin is within a range of 70 to 80% with no substantial loss by first pass metabolism.
 An intravenous infusion of 400-mg ciprofloxacin given over 60 minutes every 12 hours has been shown to produce an area under the serum concentration time curve (AUC) equivalent to that produced by a 500-mg oral dose given every 12 hours.
 An intravenous infusion of 400 mg ciprofloxacin given over 60 minutes every 8 hours has been shown to produce an AUC at steady-state equivalent to that produced by a 750-mg oral dose given every 12 hours.
-A 400-mg intravenous dose results in a Cmax similar to that observed with a 750-mg oral dose.
-An infusion of 200 mg ciprofloxacin given every 12 hours produces an AUC equivalent to that produced by a 250-mg oral dose given every 12 hours (Table 10).
+A 400-mg intravenous dose results in a Cmax similar to that observed with a 750-mg oral dose (Table 10).
+An infusion of 200 mg ciprofloxacin given every 12 hours produces an AUC equivalent to that produced by a 250-mg oral dose given every 12 hours.
 
-Table 10: Steady–state Pharmacokinetic Parameters Following Multiple Oral and Intravenous Doses
+Table 10: Steady–state Pharmacokinetic Parameters Following Multiple Oral and Intravenous Doses (adults)
 
 | Parameters | 500 mg | 400 mg | 750 mg | 400 mg |
 | --- | --- | --- | --- | --- |
-|  | every 12 hours orally | every 12 hours, intravenously | every 12 hours, orally | every 8 hours, intravenously |
-| AUC (mcg•hr/mL) | 13.71 | 12.71 | 31.62 | 32.93 |
-| Cmax (mcg/mL) | 2.97 | 4.56 | 3.59 | 4.07 |
-| 1. AUC 0-12h |  |  |  |  |
-| 2. AUC 24h = AUC 0-12h × 2 |  |  |  |  |
-| 3. AUC 24h = AUC 0-8h × 3 |  |  |  |  |
+|  | every 12 hours, orally | every 12 hours, intravenously | every 12 hours, orally | every 8 hours, intravenously |
+| AUC (0-24h),ss (mcg•h/mL) | 27.4* | 25.4* | 31.6* | 32.9** |
+| Cmax,ss (mcg/mL) | 2.97 | 4.56 | 3.59 | 4.07 |
+| * AUC 0-12h x 2 |  |  |  |  |
+| ** AUC 0-8h x 3 |  |  |  |  |
 
 Distribution
 
@@ -87,12 +86,20 @@ The kinetics of ciprofloxacin in patients with acute hepatic insufficiency, have
 
 Pediatrics
 
-Following a single oral dose of 10 mg/kg ciprofloxacin suspension to 16 children ranging in age from 4 months to 7 years, the mean Cmax was 2.4 mcg/mL (range: 1.5 to 3.4 mcg/mL) and the mean AUC was 9.2 mcg*hr/mL (range: 5.8 mcg*hr/mL to 14.9 mcg*hr/mL).
-There was no apparent age-dependence, and no notable increase in Cmax or AUC upon multiple dosing (10 mg/kg three times a day).
-In children with severe sepsis who were given intravenous ciprofloxacin (10 mg/kg as a 1-hour infusion), the mean Cmax was 6.1 mcg/mL (range: 4.6 mcg/mL to 8.3 mcg/mL) in 10 children less than 1 year of age; and 7.2 mcg/mL (range: 4.7 mcg/mL to 11.8 mcg/mL) in 10 children between 1 year and 5 years of age.
-The AUC values were 17.4 mcg*hr/mL (range: 11.8 mcg*hr/mL to 32.0 mcg*hr/mL) and 16.5 mcg*hr/mL (range: 11 mcg*hr/mL to 23.8 mcg*hr/mL) in the respective age groups.
+Table 11 summarizes pharmacokinetic parameters in pediatric patients aged less than 1 to less than 12 years of age receiving intravenous treatment.
+
+Table 11: Estimated AUC0–24,ss and Cmax,ss for Intravenous Treatment (1-h infusion) in Pediatric Patients following a Multiple Dosing Regimen of 10 mg/kg, Three Times Daily
+
+| Age | AUC0-24,ss (mg•h/L) | Cmax,ss (mg/L) |
+| --- | --- | --- |
+| Less than 1 year | 30.9* | 2.8* |
+| 1 to less than 2 years | 27.8* | 3.6* |
+| 2 to less than 6 years | 28.9* | 2.7* |
+| 6 to less than 12 years | 20.4* | 2.0* |
+| * 3 x AUC0-8,ss |  |  |
+
 These values are within the range reported for adults at therapeutic doses.
-Based on population pharmacokinetic analysis of pediatric patients with various infections, the predicted mean half-life in children is approximately 4 hours–5 hours, and the bioavailability of the oral suspension is approximately 60%.
+Based on population pharmacokinetic analysis of pediatric patients with various infections, the predicted mean half-life in children is approximately 4 hours to 5 hours, and the bioavailability of the oral suspension is approximately 60%.
 
 Drug-Drug Interactions
 
@@ -129,7 +136,7 @@ Lidocaine
 In a study conducted in 9 healthy volunteers, concomitant use of 1.5 mg/kg IV lidocaine with 500 mg ciprofloxacin twice daily resulted in an increase of lidocaine Cmax and AUC by 12% and 26%, respectively.
 Although lidocaine treatment was well tolerated at this elevated exposure, a possible interaction with ciprofloxacin and an increase in adverse reactions related to lidocaine may occur upon concomitant administration.
 
-## 12.4 Microbiology
+### 12.4 Microbiology
 
 Mechanism of Action
 
@@ -157,8 +164,8 @@ Gram-negative bacteria
 Citrobacter koseri Citrobacter freundii Enterobacter cloacae Escherichia coli Haemophilus influenzae Haemophilus parainfluenzae Klebsiella pneumoniae Moraxella catarrhalis Morganella morganii Proteus mirabilis Proteus vulgaris Providencia rettgeri Providencia stuartii Pseudomonas aeruginosa Serratia marcescens Yersinia pestis
 
 The following in vitro data are available, but their clinical significance is unknown.
-At least 90 percent of the following bacteria exhibit an in vitro minimum inhibitory concentration (MIC) less than or equal to the susceptible breakpoint for ciprofloxacin (≤1 mcg/mL).
-However, the efficacy of ciprofloxacin in treating clinical infections due to these bacteria has not been established in adequate and well-controlled clinical trials.
+At least 90 percent of the following bacteria exhibit an in vitro minimum inhibitory concentration (MIC) less than or equal to the susceptible breakpoint for ciprofloxacin against isolates of similar genus or organism group.
+However, the efficacy of ciprofloxacin in treating clinical infections caused by these bacteria has not been established in adequate and well-controlled clinical trials.
 
 Gram-positive bacteria
 

@@ -9,10 +9,10 @@ The following serious and otherwise important adverse drug reactions are discuss
 - Exacerbation of Myasthenia Gravis [see Warnings and Precautions (5.5)]
 - Other Serious and Sometimes Fatal Adverse Reactions [see Warnings and Precautions (5.6)]
 - Hypersensitivity Reactions [see Warnings and Precautions (5.7)]
-- Risk of Aortic Aneurysm and Dissection [see Warnings and Precautions (5.8)]
-- Hepatotoxicity [see Warnings and Precautions (5.9)]
+- Hepatotoxicity [see Warnings and Precautions (5.8)]
+- Risk of Aortic Aneurysm and Dissection [see Warnings and Precautions (5.9)]
 - Serious Adverse Reactions with Concomitant Theophylline [see Warnings and Precautions (5.10)]
-- Clostridium difficile-Associated Diarrhea [see Warnings and Precautions (5.11)]
+- Clostridioides difficile-Associated Diarrhea [see Warnings and Precautions (5.11)]
 - Prolongation of the QT Interval [see Warnings and Precautions (5.12)]
 - Musculoskeletal Disorders in Pediatric Patients [see Warnings and Precautions (5.13)]
 - Photosensitivity/Phototoxicity [see Warnings and Precautions (5.14)]
@@ -75,8 +75,8 @@ Table 6: Musculoskeletal Adverse Reactions1 as Assessed by the IPSC
 | 95% Confidence Interval2 | (-0.8%, +7.2%) |  |
 | Age Group |  |  |
 | 12 months to 24 months | 1/36 (2.8%) | 0/41 |
-| 2 years to < 6 years | 5/124 (4%) | 3/118 (2.5%) |
-| 6 years to < 12 years | 18/143 (12.6%) | 12/153 (7.8%) |
+| 2 years to <6 years | 5/124 (4%) | 3/118 (2.5%) |
+| 6 years to <12 years | 18/143 (12.6%) | 12/153 (7.8%) |
 | 12 years to 17 years | 7/32 (21.9%) | 6/37 (16.2%) |
 | All Patients (within 1 year) | 46/335 (13.7%) | 33/349 (9.5%) |
 | 95% Confidence Interval2 | (-0.6%, +9.1%) |  |
@@ -92,7 +92,7 @@ Discontinuation of drug due to an adverse reaction was observed in 3% (10/335) o
 Other adverse events that occurred in at least 1% of ciprofloxacin patients were diarrhea 4.8%, vomiting 4.8%, abdominal pain 3.3%, dyspepsia 2.7%, nausea 2.7%, fever 2.1%, asthma 1.8% and rash 1.8%.
 
 Short-term safety data for ciprofloxacin was also collected in a randomized, double-blind clinical trial for the treatment of acute pulmonary exacerbations in cystic fibrosis patients (ages 5 to 17 years).
-Sixty seven patients received ciprofloxacin IV 10 mg/kg/dose every 8 hours for one week followed by ciprofloxacin tablets 20 mg/kg/dose every 12 hours to complete 10 to 21 days treatment and 62 patients received the combination of ceftazidime intravenous 50 mg/kg/dose every 8 hours and tobramycin intravenous 3 mg/kg/dose every 8 hours for a total of 10 to 21 days.
+Sixty-seven patients received ciprofloxacin 10 mg/kg/dose every 8 hours for one week followed by ciprofloxacin tablets 20 mg/kg/dose every 12 hours to complete 10 to 21 days treatment and 62 patients received the combination of ceftazidime intravenous 50 mg/kg/dose every 8 hours and tobramycin intravenous 3 mg/kg/dose every 8 hours for a total of 10 to 21 days.
 Periodic musculoskeletal assessments were conducted by treatment-blinded examiners.
 Patients were followed for an average of 23 days after completing treatment (range 0 to 93 days).
 Musculoskeletal adverse reactions were reported in 22% of the patients in the ciprofloxacin group and 21% in the comparison group.

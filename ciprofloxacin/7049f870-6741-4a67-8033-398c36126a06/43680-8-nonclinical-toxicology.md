@@ -2,7 +2,7 @@
 
 ## 13.1 Carcinogenesis, Mutagenesis, Impairment of Fertility
 
-A total of 8 in vitro mutagenicity tests have been conducted with ciprofloxacin, and the test results are listed below:
+Eight in vitro mutagenicity tests have been conducted with ciprofloxacin, and the test results are listed below:
 
 - Salmonella/Microsome Test (Negative)
 - E. coli DNA Repair Assay (Negative)
@@ -30,11 +30,12 @@ In this model, mice treated with ciprofloxacin alone did not develop skin or sys
 There are no data from similar models using pigmented mice and/or fully haired mice.
 The clinical significance of these findings to humans is unknown.
 
-Fertility studies performed in rats at oral doses of ciprofloxacin up to 100 mg/kg (approximately 0.7-times the highest recommended therapeutic dose based upon body surface area) revealed no evidence of impairment.
+Fertility studies performed in male and female rats at oral doses of ciprofloxacin up to 100 mg/kg (approximately 0.6-times the highest recommended therapeutic oral dose based upon body surface area) revealed no evidence of impairment.
+Male rats received oral ciprofloxacin for 10 weeks prior to mating and females were dosed for 3 weeks prior to mating through Gestation Day 7.
 
 ## 13.2 Animal Toxicology and/or Pharmacology
 
-Ciprofloxacin and other quinolones have been shown to cause arthropathy in immature animals of most species tested [see Warnings and Precautions (5.12)].
+Ciprofloxacin and other quinolones have been shown to cause arthropathy in immature animals of most species tested [see Warnings and Precautions (5.13)].
 
 Damage of weight-bearing joints was observed in juvenile dogs and rats.
 In young beagles, 100 mg/kg ciprofloxacin, given daily for 4 weeks, caused degenerative articular changes of the knee joint.
