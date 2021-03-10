@@ -13,6 +13,7 @@ Table 11 Trials Conducted with BIKTARVY in Subjects with HIV-1 Infection
 | Trial 1844 (NCT 02603120) | Virologically-suppressedHIV-1 RNA less than 50 copies per mL. adults | BIKTARVY (282) ABC/DTG/3TC (281) | 48 |
 | Trial 1878Randomized, open label, active controlled trial. (NCT 02603107) | BIKTARVY (290) ATV or DRV (with cobicistat or ritonavir) plus either FTC/TDF or ABC/3TC (287) | 48 |  |
 | Trial 1825Open label trial. | Virologically-suppressed adults with ESRDEnd stage renal disease (estimated creatinine clearance of less than 15 mL per minute by Cockcroft-Gault method). receiving chronic hemodialysis | FTC+TAF in combination with elvitegravir and cobicistat as a fixed-dose combination (55). In an extension phase of Trial 1825, 10 virologically-suppressed subjects switched to BIKTARVY. | 48Subjects received FTC+TAF in combination with elvitegravir and cobicistat for 96 weeks, followed by an extension phase in which 10 subjects received BIKTARVY for 48 weeks. |
+| Trial 4449 (NCT 03405935) | Virologically-suppressed adults aged 65 years and over | BIKTARVY (86) | 48 |
 | Trial 1474 (cohort 1) (NCT 02881320) | Virologically-suppressed adolescents between the ages of 12 to less than 18 years (at least 35 kg) | BIKTARVY (50) | 48 |
 | Trial 1474 (cohort 2) (NCT 02881320) | Virologically-suppressed children between the ages of 6 to less than 12 years (at least 25 kg) | BIKTARVY (50) | 24 |
 
@@ -95,6 +96,13 @@ The mean change from baseline in CD4+ count at Week 48 was 25 cells per mm3 in p
 
 In Trial 1825, an open-label single arm trial, the efficacy, safety, and pharmacokinetics of FTC and TAF (components of BIKTARVY) were evaluated in virologically-suppressed adults with ESRD (estimated creatinine clearance of less than 15 mL/min) on chronic hemodialysis treated with FTC+TAF in combination with elvitegravir and cobicistat as a fixed-dose combination tablet for 96 weeks (N=55).
 In an extension phase of Trial 1825, 10 virologically-suppressed subjects switched to BIKTARVY and all subjects remained virologically suppressed (HIV-1 RNA < 50 copies/mL) for 48 weeks.
+
+In Trial 4449, the efficacy and safety of switching from a stable antiretroviral regimen to BIKTARVY were evaluated in an open-label, single arm trial of virologically-suppressed (HIV-1 RNA less than 50 copies per mL) HIV-1 infected adults aged 65 years and over (N=86).
+Subjects treated with BIKTARVY had a mean age of 70 years (range: 65 to 80).
+The primary endpoint was the proportion of subjects with HIV RNA > 50 copies/mL at Week 48.
+No subjects had HIV RNA > 50 copies/mL.
+Ninety-one percent (78/86) of subjects remained suppressed (HIV-1 RNA < 50 copies/mL) at Week 48.
+Eight subjects did not have virologic data at the Week 48 timepoint due to discontinuation or missing data.
 
 ## 14.4 Clinical Trial Results in HIV-1 Infected Pediatric Subjects Between the Ages of 6 to Less than 18 Years
 

@@ -87,7 +87,9 @@ Safety and effectiveness of BIKTARVY in pediatric patients weighing less than 25
 
 ## 8.5 Geriatric Use
 
-Clinical trials of BIKTARVY did not include sufficient numbers of subjects aged 65 and over to determine whether they respond differently from younger subjects.
+Clinical trials in virologically-suppressed subjects (Trials 4449, 1844, and 1878) included 111 subjects aged 65 years and over who received BIKTARVY, including 86 patients from an open-label, single-arm trial of subjects aged 65 years and over who were switched from their previous antiretroviral regimen to BIKTARVY [see Clinical Studies (14.3)].
+Of the total number of BIKTARVY-treated patients in these trials, 100 (90%) were 65 to 74 years of age, and 11 (10%) were 75 to 84 years of age.
+No overall differences in safety or effectiveness were observed between elderly subjects and adults between 18 and less than 65 years of age, and other reported clinical experience has not identified differences in responses between the elderly and younger patients, but greater sensitivity of some older individuals cannot be ruled out.
 
 ## 8.6 Renal Impairment
 
