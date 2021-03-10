@@ -3,13 +3,6 @@
 Levocetirizine dihydrochloride tablets are available as 5 mg breakable (scored) tablets, allowing for the administration of 2.5 mg, if needed.
 Levocetirizine dihydrochloride tablets can be taken without regard to food consumption.
 
-## 2.1 Perennial Allergic Rhinitis
-
-Children 6 months to 2 Years of Age
-
-The recommended initial dose of levocetirizine dihydrochloride tablets is 1.25 mg once daily in the evening.
-The 1.25 mg once daily dose should not be exceeded based on comparable exposure to adults receiving 5 mg [see Clinical Pharmacology (12.3)].
-
 ## 2.2 Chronic Idiopathic Urticaria
 
 Adults and Children 12 Years of Age and Older
@@ -21,11 +14,6 @@ Children 6 to 11 Years of Age
 
 The recommended dose of levocetirizine dihydrochloride tablets is 2.5 mg (1/2 tablet) once daily in the evening.
 The 2.5 mg dose should not be exceeded because the systemic exposure with 5 mg is approximately twice that of adults [see Clinical Pharmacology (12.3)].
-
-Children 6 months to 5 Years of Age
-
-The recommended initial dose of levocetirizine dihydrochloride tablets is 1.25 mg once daily in the evening.
-The 1.25 mg once daily dose should not be exceeded based on comparable exposure to adults receiving 5 mg [see Clinical Pharmacology (12.3)].
 
 Dose Adjustment for Renal and Hepatic Impairment
 

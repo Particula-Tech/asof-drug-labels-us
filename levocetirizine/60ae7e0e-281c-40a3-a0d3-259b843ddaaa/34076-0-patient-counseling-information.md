@@ -19,7 +19,7 @@ Manufactured by:
 
 Glenmark Pharmaceuticals Limited
 
-Colvale-Bardez, Goa 403 513, India
+Colvale-Bardez, Goa 403513, India
 
 Manufactured for:
 
@@ -32,4 +32,4 @@ Questions?
 
 www.glenmarkpharma-us.com
 
-June 2019
+September 2020
