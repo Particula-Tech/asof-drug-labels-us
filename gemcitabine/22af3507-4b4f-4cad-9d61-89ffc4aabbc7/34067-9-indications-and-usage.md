@@ -10,9 +10,9 @@ Gemcitabine Injection in combination with paclitaxel is indicated for the first-
 
 ## 1.3 Non-Small Cell Lung Cancer
 
-Gemcitabine Injection is indicated in combination with cisplatin for the first-line treatment of patients with inoperable, locally advanced (Stage IIIA or IIIB), or metastatic (Stage IV) non-small cell lung cancer.
+Gemcitabine Injection in combination with cisplatin is indicated for the first-line treatment of patients with inoperable, locally advanced (Stage IIIA or IIIB) or metastatic (Stage IV) non-small cell lung cancer (NSCLC).
 
 ## 1.4 Pancreatic Cancer
 
 Gemcitabine Injection is indicated as first-line treatment for patients with locally advanced (nonresectable Stage II or Stage III) or metastatic (Stage IV) adenocarcinoma of the pancreas.
-Gemcitabine Injection is indicated for patients previously treated with 5-FU.
+Gemcitabine Injection is indicated for patients previously treated with fluorouracil.

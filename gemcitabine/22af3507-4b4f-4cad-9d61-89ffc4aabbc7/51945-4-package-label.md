@@ -14,6 +14,8 @@ For Intravenous Infusion Only
 
 Must Be Diluted Before Use
 
-Single-Use Vial
+Single-Dose Vial
 
-Discard unused portion.
+Discard unused portion
+
+Caution: Cytotoxic Agent
