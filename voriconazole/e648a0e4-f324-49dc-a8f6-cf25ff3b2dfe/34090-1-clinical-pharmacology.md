@@ -40,7 +40,10 @@ Table 12: Geometric Mean (%CV) Plasma Voriconazole Pharmacokinetic Parameters in
 | AUC12 (mcg∙h/mL) | 13.9 (32) | 13.7 (53) | 33.9 (54) | 9.31 (38) | 12.4 (78) | 34 (53) |
 | Cmax (mcg/mL) | 3.13 (20) | 3.03 (25) | 4.77 (36) | 2.30 (19) | 2.31 (48) | 4.74 (35) |
 | Cmin (mcg/mL) | -- | 0.46 (97) | 1.73 (74) | -- | 0.46 (120) | 1.63 (79) |
-| Note: Parameters were estimated based on non-compartmental analysis from 5 pharmacokinetic studies. AUC12 = area under the curve over 12 hour dosing interval, Cmax = maximum plasma concentration, Cmin = minimum plasma concentration. CV = coefficient of variation |  |  |  |  |  |  |
+
+Note: Parameters were estimated based on non-compartmental analysis from 5 pharmacokinetic studies.
+AUC12 = area under the curve over 12 hour dosing interval, Cmax = maximum plasma concentration, Cmin = minimum plasma concentration.
+CV = coefficient of variation
 
 When the recommended intravenous loading dose regimen is administered to healthy subjects, plasma concentrations close to steady state are achieved within the first 24 hours of dosing (e.g., 6 mg/kg IV every 12 hours on day 1 followed by 3 mg/kg IV every 12 hours).
 Without the loading dose, accumulation occurs during twice daily multiple dosing with steady state plasma voriconazole concentrations being achieved by day 6 in the majority of subjects.
@@ -163,7 +166,7 @@ Rifampin(potent CYP450 inducer)
 
 Rifampin (600 mg once daily) decreased the steady state Cmax and AUCτ of voriconazole (200 mg every 12 hours × 7 days) by an average of 93% and 96%, respectively, in healthy subjects.
 Doubling the dose of voriconazole to 400 mg every 12 hours does not restore adequate exposure to voriconazole during coadministration with rifampin.
-Coadministration of voriconazole and rifampin is contraindicated [see Contraindications (4) and Warnings and Precautions (5.12)].
+Coadministration of voriconazole and rifampin is contraindicated [see Contraindications (4) and Warnings and Precautions (5.13)].
 
 Ritonavir (potent CYP450 inducer; CYP3A4 inhibitor and substrate)
 
@@ -172,7 +175,7 @@ High-dose ritonavir (400 mg every 12 hours for 9 days) decreased the steady stat
 Low-dose ritonavir (100 mg every 12 hours for 9 days) decreased the steady state Cmax and AUCτ of oral voriconazole (400 mg every 12 hours for 1 day, then 200 mg every 12 hours for 8 days) by an average of 24% and 39%, respectively, in healthy subjects.
 Although repeat oral administration of voriconazole did not have a significant effect on steady state Cmax and AUCτ of high-dose ritonavir in healthy subjects, steady state Cmax and AUCτ of low-dose ritonavir decreased slightly by 24% and 14% respectively, when administered concomitantly with oral voriconazole in healthy subjects.
 Coadministration of voriconazole and high-dose ritonavir (400 mg every 12 hours) is contraindicated.
-Coadministration of voriconazole and low-dose ritonavir (100 mg every 12 hours) should be avoided, unless an assessment of the benefit/risk to the patient justifies the use of voriconazole [see Contraindications (4) and Warnings and Precautions (5.12)].
+Coadministration of voriconazole and low-dose ritonavir (100 mg every 12 hours) should be avoided, unless an assessment of the benefit/risk to the patient justifies the use of voriconazole [see Contraindications (4) and Warnings and Precautions (5.13)].
 
 St. John's Wort (CYP450 inducer; P-gp inducer)
 
@@ -183,7 +186,7 @@ Because long-term use of St. John's Wort could lead to reduced voriconazole expo
 Carbamazepine and long-acting barbiturates (potent CYP450 inducers)
 
 Although not studied in vitro or in vivo, carbamazepine and long-acting barbiturates (e.g., phenobarbital, mephobarbital) are likely to significantly decrease plasma voriconazole concentrations.
-Coadministration of voriconazole with carbamazepine or long-acting barbiturates is contraindicated [see Contraindications (4) and Warnings and Precautions (5.12)].
+Coadministration of voriconazole with carbamazepine or long-acting barbiturates is contraindicated [see Contraindications (4) and Warnings and Precautions (5.13)].
 
 Significant drug interactions that may require voriconazole dosage adjustment, or frequent monitoring of voriconazole-related adverse events/toxicity:
 
@@ -192,7 +195,11 @@ Fluconazole (CYP2C9, CYP2C19 and CYP3A4 inhibitor)
 Concurrent administration of oral voriconazole (400 mg every 12 hours for 1 day, then 200 mg every 12 hours for 2.5 days) and oral fluconazole (400 mg on day 1, then 200 mg every 24 hours for 4 days) to 6 healthy male subjects resulted in an increase in Cmax and AUCτ of voriconazole by an average of 57% (90% CI: 20%, 107%) and 79% (90% CI: 40%, 128%), respectively.
 In a follow-on clinical study involving 8 healthy male subjects, reduced dosing and/or frequency of voriconazole and fluconazole did not eliminate or diminish this effect.
 Concomitant administration of voriconazole and fluconazole at any dose is not recommended.
-Close monitoring for adverse events related to voriconazole is recommended if voriconazole is used sequentially after fluconazole, especially within 24 hours of the last dose of fluconazole [see Warnings and Precautions (5.12)].
+Close monitoring for adverse events related to voriconazole is recommended if voriconazole is used sequentially after fluconazole, especially within 24 hours of the last dose of fluconazole [see Warnings and Precautions (5.13)].
+
+Letermovir (CYP2C9/2C19 inducer)
+
+Coadministration of oral letermovir with oral voriconazole decreased the steady state Cmax and AUC0-12 of voriconazole by an average of 39% and 44%, respectively [see Drug Interactions (7)].
 
 Minor or no significant pharmacokinetic interactions that do not require dosage adjustment:
 
@@ -221,18 +228,23 @@ The systemic exposure of the following drugs is significantly increased or is ex
 Sirolimus (CYP3A4 substrate)
 
 Repeat dose administration of oral voriconazole (400 mg every 12 hours for 1 day, then 200 mg every 12 hours for 8 days) increased the Cmax and AUC of sirolimus (2 mg single dose) an average of 7-fold (90% CI: 5.7, 7.5) and 11-fold (90% CI: 9.9, 12.6), respectively, in healthy male subjects.
-Coadministration of voriconazole and sirolimus is contraindicated [see Contraindications (4) and Warnings and Precautions (5.12)].
+Coadministration of voriconazole and sirolimus is contraindicated [see Contraindications (4) and Warnings and Precautions (5.13)].
 
 Cisapride, pimozide and quinidine (CYP3A4 substrates)
 
 Although not studied in vitro or in vivo, concomitant administration of voriconazole with cisapride, pimozide or quinidine may result in inhibition of the metabolism of these drugs.
 Increased plasma concentrations of these drugs can lead to QT prolongation and rare occurrences of torsade de pointes.
-Coadministration of voriconazole, cisapride, pimozide and quinidine is contraindicated [see Contraindications (4) and Warnings and Precautions (5.12)].
+Coadministration of voriconazole, cisapride, pimozide and quinidine is contraindicated [see Contraindications (4) and Warnings and Precautions (5.13)].
 
 Ergot alkaloids
 
 Although not studied in vitro or in vivo, voriconazole may increase the plasma concentration of ergot alkaloids (ergotamine and dihydroergotamine) and lead to ergotism.
-Coadministration of voriconazole with ergot alkaloids is contraindicated [see Contraindications (4) and Warnings and Precautions (5.12)].
+Coadministration of voriconazole with ergot alkaloids is contraindicated [see Contraindications (4) and Warnings and Precautions (5.13)].
+
+Naloxegol (CYP3A4 substrate)
+
+Although not studied in vitro or in vivo, voriconazole may increase the plasma concentration of naloxegol and precipitate opioid withdrawal symptoms.
+Coadministration of voriconazole with naloxegol is contraindicated [see Contraindications (4) and Warnings and Precautions (5.13)].
 
 Everolimus (CYP3A4 substrate, P-gp substrate)
 
@@ -247,12 +259,12 @@ Alfentanil (CYP3A4 substrate)
 
 Coadministration of multiple doses of oral voriconazole (400 mg every 12 hours on day 1, 200 mg every 12 hours on day 2) with a single 20 mcg/kg intravenous dose of alfentanil with concomitant naloxone resulted in a 6-fold increase in mean alfentanil AUC0–∞ and a 4-fold prolongation of mean alfentanil elimination half-life, compared to when alfentanil was given alone.
 An increase in the incidence of delayed and persistent alfentanil-associated nausea and vomiting during co-administration of voriconazole and alfentanil was also observed.
-Reduction in the dose of alfentanil or other opiates that are also metabolized by CYP3A4 (e.g., sufentanil), and extended close monitoring of patients for respiratory and other opiate-associated adverse events, may be necessary when any of these opiates is coadministered with voriconazole [see Warnings and Precautions (5.12)].
+Reduction in the dose of alfentanil or other opiates that are also metabolized by CYP3A4 (e.g., sufentanil), and extended close monitoring of patients for respiratory and other opiate-associated adverse events, may be necessary when any of these opiates is coadministered with voriconazole [see Warnings and Precautions (5.13)].
 
 Fentanyl (CYP3A4 substrate)
 
 In an independent published study, concomitant use of voriconazole (400 mg every 12 hours on Day 1, then 200 mg every 12 hours on Day 2) with a single intravenous dose of fentanyl (5 mcg/kg) resulted in an increase in the mean AUC0–∞ of fentanyl by 1.4-fold (range 0.81- to 2.04-fold).
-When voriconazole is co-administered with fentanyl IV, oral or transdermal dosage forms, extended and frequent monitoring of patients for respiratory depression and other fentanyl-associated adverse events is recommended, and fentanyl dosage should be reduced if warranted [see Warnings and Precautions (5.12)].
+When voriconazole is co-administered with fentanyl IV, oral or transdermal dosage forms, extended and frequent monitoring of patients for respiratory depression and other fentanyl-associated adverse events is recommended, and fentanyl dosage should be reduced if warranted [see Warnings and Precautions (5.13)].
 
 Oxycodone (CYP3A4 substrate)
 
@@ -260,14 +272,14 @@ In an independent published study, coadministration of multiple doses of oral vo
 The mean elimination half-life of oxycodone was also increased by 2-fold (range 1.4- to 2.5-fold).
 Voriconazole also increased the visual effects (heterophoria and miosis) of oxycodone.
 A reduction in oxycodone dosage may be needed during voriconazole treatment to avoid opioid related adverse effects.
-Extended and frequent monitoring for adverse effects associated with oxycodone and other long-acting opiates metabolized by CYP3A4 is recommended [see Warnings and Precautions (5.12)].
+Extended and frequent monitoring for adverse effects associated with oxycodone and other long-acting opiates metabolized by CYP3A4 is recommended [see Warnings and Precautions (5.13)].
 
 Cyclosporine (CYP3A4 substrate)
 
 In stable renal transplant recipients receiving chronic cyclosporine therapy, concomitant administration of oral voriconazole (200 mg every 12 hours for 8 days) increased cyclosporine Cmax and AUCτ an average of 1.1 times (90% CI: 0.9, 1.41) and 1.7 times (90% CI: 1.5, 2), respectively, as compared to when cyclosporine was administered without voriconazole.
 When initiating therapy with voriconazole in patients already receiving cyclosporine, it is recommended that the cyclosporine dose be reduced to one-half of the original dose and followed with frequent monitoring of the cyclosporine blood levels.
 Increased cyclosporine levels have been associated with nephrotoxicity.
-When voriconazole is discontinued, cyclosporine levels should be frequently monitored and the dose increased as necessary [see Warnings and Precautions (5.12)].
+When voriconazole is discontinued, cyclosporine levels should be frequently monitored and the dose increased as necessary [see Warnings and Precautions (5.13)].
 
 Methadone (CYP3A4, CYP2C19, CYP2C9 substrate)
 
@@ -275,54 +287,54 @@ Repeat dose administration of oral voriconazole (400 mg every 12 hours for 1 day
 The Cmax and AUC of (S)-methadone increased by 65% (90% CI: 53%, 79%) and 103% (90% CI: 85%, 124%), respectively.
 Increased plasma concentrations of methadone have been associated with toxicity including QT prolongation.
 Frequent monitoring for adverse events and toxicity related to methadone is recommended during coadministration.
-Dose reduction of methadone may be needed [see Warnings and Precautions (5.12)].
+Dose reduction of methadone may be needed [see Warnings and Precautions (5.13)].
 
 Tacrolimus (CYP3A4 substrate)
 
 Repeat oral dose administration of voriconazole (400 mg every 12 hours × 1 day, then 200 mg every 12 hours × 6 days) increased tacrolimus (0.1 mg/kg single dose) Cmax and AUCτ in healthy subjects by an average of 2-fold (90% CI: 1.9, 2.5) and 3-fold (90% CI: 2.7, 3.8), respectively.
 When initiating therapy with voriconazole in patients already receiving tacrolimus, it is recommended that the tacrolimus dose be reduced to one-third of the original dose and followed with frequent monitoring of the tacrolimus blood levels.
 Increased tacrolimus levels have been associated with nephrotoxicity.
-When voriconazole is discontinued, tacrolimus levels should be carefully monitored and the dose increased as necessary [see Warnings and Precautions (5.12)].
+When voriconazole is discontinued, tacrolimus levels should be carefully monitored and the dose increased as necessary [see Warnings and Precautions (5.13)].
 
 Warfarin (CYP2C9 substrate)
 
 Coadministration of voriconazole (300 mg every 12 hours × 12 days) with warfarin (30 mg single dose) significantly increased maximum prothrombin time by approximately 2 times that of placebo in healthy subjects.
-Close monitoring of prothrombin time or other suitable anticoagulation tests is recommended if warfarin and voriconazole are coadministered and the warfarin dose adjusted accordingly [see Warnings and Precautions (5.12)].
+Close monitoring of prothrombin time or other suitable anticoagulation tests is recommended if warfarin and voriconazole are coadministered and the warfarin dose adjusted accordingly [see Warnings and Precautions (5.13)].
 
 Oral Coumarin Anticoagulants (CYP2C9, CYP3A4 substrates)
 
 Although not studied in vitro or in vivo, voriconazole may increase the plasma concentrations of coumarin anticoagulants and therefore may cause an increase in prothrombin time.
-If patients receiving coumarin preparations are treated simultaneously with voriconazole, the prothrombin time or other suitable anticoagulation tests should be monitored at close intervals and the dosage of anticoagulants adjusted accordingly [see Warnings and Precautions (5.12)].
+If patients receiving coumarin preparations are treated simultaneously with voriconazole, the prothrombin time or other suitable anticoagulation tests should be monitored at close intervals and the dosage of anticoagulants adjusted accordingly [see Warnings and Precautions (5.13)].
 
 Statins (CYP3A4 substrates)
 
 Although not studied clinically, voriconazole has been shown to inhibit lovastatin metabolism in vitro (human liver microsomes).
 Therefore, voriconazole is likely to increase the plasma concentrations of statins that are metabolized by CYP3A4.
 It is recommended that dose adjustment of the statin be considered during coadministration.
-Increased statin concentrations in plasma have been associated with rhabdomyolysis [see Warnings and Precautions (5.12)].
+Increased statin concentrations in plasma have been associated with rhabdomyolysis [see Warnings and Precautions (5.13)].
 
 Benzodiazepines (CYP3A4 substrates)
 
 Although not studied clinically, voriconazole has been shown to inhibit midazolam metabolism in vitro (human liver microsomes).
 Therefore, voriconazole is likely to increase the plasma concentrations of benzodiazepines that are metabolized by CYP3A4 (e.g., midazolam, triazolam, and alprazolam) and lead to a prolonged sedative effect.
-It is recommended that dose adjustment of the benzodiazepine be considered during coadministration [see Warnings and Precautions (5.12)].
+It is recommended that dose adjustment of the benzodiazepine be considered during coadministration [see Warnings and Precautions (5.13)].
 
 Calcium Channel Blockers (CYP3A4 substrates)
 
 Although not studied clinically, voriconazole has been shown to inhibit felodipine metabolism in vitro (human liver microsomes).
 Therefore, voriconazole may increase the plasma concentrations of calcium channel blockers that are metabolized by CYP3A4.
 Frequent monitoring for adverse events and toxicity related to calcium channel blockers is recommended during coadministration.
-Dose adjustment of the calcium channel blocker may be needed [see Warnings and Precautions (5.12)].
+Dose adjustment of the calcium channel blocker may be needed [see Warnings and Precautions (5.13)].
 
 Sulfonylureas (CYP2C9 substrates)
 
 Although not studied in vitro or in vivo, voriconazole may increase plasma concentrations of sulfonylureas (e.g., tolbutamide, glipizide, and glyburide) and therefore cause hypoglycemia.
-Frequent monitoring of blood glucose and appropriate adjustment (i.e., reduction) of the sulfonylurea dosage is recommended during coadministration [see Warnings and Precautions (5.12)].
+Frequent monitoring of blood glucose and appropriate adjustment (i.e., reduction) of the sulfonylurea dosage is recommended during coadministration [see Warnings and Precautions (5.13)].
 
 Vinca Alkaloids (CYP3A4 substrates)
 
 Although not studied in vitro or in vivo, voriconazole may increase the plasma concentrations of the vinca alkaloids (e.g., vincristine and vinblastine) and lead to neurotoxicity.
-Therefore, reserve azole antifungals, including voriconazole, for patients receiving a vinca alkaloid, including vincristine, who have no alternative antifungal treatment options [see Warnings and Precautions (5.12)].
+Therefore, reserve azole antifungals, including voriconazole, for patients receiving a vinca alkaloid, including vincristine, who have no alternative antifungal treatment options [see Warnings and Precautions (5.13)].
 
 Non-Steroidal Anti-Inflammatory Drugs (NSAIDs; CYP2C9 substrates)
 
@@ -331,14 +343,14 @@ Voriconazole increased the mean Cmax and AUC of the pharmacologically active iso
 Voriconazole increased the mean Cmax and AUC of diclofenac by 114% and 78%, respectively.
 
 A reduction in ibuprofen and diclofenac dosage may be needed during concomitant administration with voriconazole.
-Patients receiving voriconazole concomitantly with other NSAIDs (e.g., celecoxib, naproxen, lornoxicam, meloxicam) that are also metabolized by CYP2C9 should be carefully monitored for NSAID-related adverse events and toxicity, and dosage reduction should be made if warranted [see Warnings and Precautions (5.12)].
+Patients receiving voriconazole concomitantly with other NSAIDs (e.g., celecoxib, naproxen, lornoxicam, meloxicam) that are also metabolized by CYP2C9 should be carefully monitored for NSAID-related adverse events and toxicity, and dosage reduction should be made if warranted [see Warnings and Precautions (5.13)].
 
 No significant pharmacokinetic interactions were observed when voriconazole was coadministered with the following agents.
 Therefore, no dosage adjustment for these agents is recommended:
 
 Prednisolone (CYP3A4 substrate)
 
-Voriconazole (200 mg every 12 hours × 30 days) increased Cmax and AUC of prednisolone (60 mg single dose) by an average of 11% and 34%, respectively, in healthy subjects.
+Voriconazole (200 mg every 12 hours × 30 days) increased Cmax and AUC of prednisolone (60 mg single dose) by an average of 11% and 34%, respectively, in healthy subjects [see Warnings and Precautions (5.8)].
 
 Digoxin (P-glycoprotein mediated transport)
 
@@ -371,6 +383,7 @@ The pharmacokinetics of adjusted doses of voriconazole and efavirenz were studie
 Coadministration of voriconazole 400 mg every 12 hours with efavirenz 300 mg every 24 hours, decreased voriconazole AUCτ by 7% (90% CI: -23%, 13%) and increased Cmax by 23% (90% CI: -1%, 53%); efavirenz AUCτ was increased by 17% (90% CI: 6%, 29%) and Cmax was equivalent.
 
 Coadministration of standard doses of voriconazole and efavirenz (400 mg every 24 hours or higher) is contraindicated.
+
 Voriconazole may be coadministered with efavirenz if the voriconazole maintenance dose is increased to 400 mg every 12 hours and the efavirenz dose is decreased to 300 mg every 24 hours.
 When treatment with voriconazole is stopped, the initial dosage of efavirenz should be restored [see Dosage and Administration (2.7), Contraindications (4), and Drug Interactions (7)].
 
@@ -383,7 +396,7 @@ Phenytoin may be coadministered with voriconazole if the maintenance dose of vor
 
 Repeat dose administration of voriconazole (400 mg every 12 hours × 10 days) increased the steady state Cmax and AUCτ of phenytoin (300 mg once daily) by an average of 70% and 80%, respectively, in healthy subjects.
 The increase in phenytoin Cmax and AUC when coadministered with voriconazole may be expected to be as high as 2 times the Cmax and AUC estimates when phenytoin is given without voriconazole.
-Therefore, frequent monitoring of plasma phenytoin concentrations and phenytoin-related adverse effects is recommended when phenytoin is coadministered with voriconazole [see Warnings and Precautions (5.12)].
+Therefore, frequent monitoring of plasma phenytoin concentrations and phenytoin-related adverse effects is recommended when phenytoin is coadministered with voriconazole [see Warnings and Precautions (5.13)].
 
 Omeprazole (CYP2C19 inhibitor; CYP2C19 and CYP3A4 substrate)
 
@@ -391,7 +404,7 @@ Coadministration of omeprazole (40 mg once daily × 10 days) with oral voriconaz
 No dosage adjustment of voriconazole is recommended.
 
 Coadministration of voriconazole (400 mg every 12 hours × 1 day, then 200 mg × 6 days) with omeprazole (40 mg once daily × 7 days) to healthy subjects significantly increased the steady state Cmax and AUCτ of omeprazole an average of 2 times (90% CI: 1.8, 2.6) and 4 times (90% CI: 3.3, 4.4), respectively, as compared to when omeprazole is given without voriconazole.
-When initiating voriconazole in patients already receiving omeprazole doses of 40 mg or greater, it is recommended that the omeprazole dose be reduced by one-half [see Warnings and Precautions (5.12)].
+When initiating voriconazole in patients already receiving omeprazole doses of 40 mg or greater, it is recommended that the omeprazole dose be reduced by one-half [see Warnings and Precautions (5.13)].
 
 The metabolism of other proton pump inhibitors that are CYP2C19 substrates may also be inhibited by voriconazole and may result in increased plasma concentrations of these drugs.
 
@@ -399,7 +412,7 @@ Oral Contraceptives (CYP3A4 substrate; CYP2C19 inhibitor)
 
 Coadministration of oral voriconazole (400 mg every 12 hours for 1 day, then 200 mg every 12 hours for 3 days) and oral contraceptive (Ortho-Novum1/35® consisting of 35 mcg ethinyl estradiol and 1 mg norethindrone, every 24 hours) to healthy female subjects at steady state increased the Cmax and AUCτ of ethinyl estradiol by an average of 36% (90% CI: 28%, 45%) and 61% (90% CI: 50%, 72%), respectively, and that of norethindrone by 15% (90% CI: 3%, 28%) and 53% (90% CI: 44%, 63%), respectively in healthy subjects.
 Voriconazole Cmax and AUCτ increased by an average of 14% (90% CI: 3%, 27%) and 46% (90% CI: 32%, 61%), respectively.
-Monitoring for adverse events related to oral contraceptives, in addition to those for voriconazole, is recommended during coadministration [see Warnings and Precautions (5.12)].
+Monitoring for adverse events related to oral contraceptives, in addition to those for voriconazole, is recommended during coadministration [see Warnings and Precautions (5.13)].
 
 No significant pharmacokinetic interaction was seen and no dosage adjustment of these drugs is recommended:
 
@@ -415,7 +428,7 @@ Other HIV Protease Inhibitors (CYP3A4 substrates and inhibitors)
 
 In vitro studies (human liver microsomes) suggest that voriconazole may inhibit the metabolism of HIV protease inhibitors (e.g., saquinavir, amprenavir and nelfinavir).
 In vitro studies (human liver microsomes) also show that the metabolism of voriconazole may be inhibited by HIV protease inhibitors (e.g., saquinavir and amprenavir).
-Patients should be frequently monitored for drug toxicity during the coadministration of voriconazole and HIV protease inhibitors [see Warnings and Precautions (5.12)].
+Patients should be frequently monitored for drug toxicity during the coadministration of voriconazole and HIV protease inhibitors [see Warnings and Precautions (5.13)].
 
 Other Non-Nucleoside Reverse Transcriptase Inhibitors (NNRTIs) (CYP3A4 substrates, inhibitors or CYP450 inducers)
 
@@ -423,7 +436,7 @@ In vitro studies (human liver microsomes) show that the metabolism of voriconazo
 The findings of a clinical voriconazole-efavirenz drug interaction study in healthy male subjects suggest that the metabolism of voriconazole may be induced by a NNRTI.
 This in vivo study also showed that voriconazole may inhibit the metabolism of a NNRTI [see Drug Interactions (7) and Warnings and Precautions (5.1)].
 Patients should be frequently monitored for drug toxicity during the coadministration of voriconazole and other NNRTIs (e.g., nevirapine and delavirdine) [see Warnings and Precautions (5.12)].
-Dose adjustments are required when voriconazole is co-administered with efavirenz [see Drug Interactions (7) and Warnings and Precautions (5.12)].
+Dose adjustments are required when voriconazole is co-administered with efavirenz [see Drug Interactions (7) and Warnings and Precautions (5.13)].
 
 ## 12.4 Microbiology
 

@@ -43,13 +43,13 @@ The rate of discontinuation from voriconazole study medication in Study 305 due 
 Laboratory test abnormalities for these studies are discussed under Clinical Laboratory Values below.
 
 Table 4: Treatment Emergent Adverse Events Rate ≥ 2% on Voriconazole or Adverse Events of Concern in Therapeutic Studies Population, Studies 307/602-608 Combined, or Study 305.
-Possibly Related to Therapy or Causality UnknownStudy 307/602: IA; Study 608: candidemia; Study 305: EC
+Possibly Related to Therapy or Causality Unknown*
 
 |  | N (%) | N (%) | N (%) | N (%) | N (%) | N (%) |
 | --- | --- | --- | --- | --- | --- | --- |
-|  | Therapeutic StudiesStudies 303, 304, 305, 307, 309, 602, 603, 604, 608 | Studies 307/602 and 608 (IV/ oral therapy) |  |  | Study 305 (oral therapy) |  |
-|  | Voriconazole N=1655 | Voriconazole N=468 | Ampho BAmphotericin B followed by other licensed antifungal therapy N=185 | Ampho B→ Fluconazole N=131 | Voriconazole N=200 | Fluconazole N=191 |
-| Special SensesSee Warnings and Precautions (5.4) |  |  |  |  |  |  |
+|  | Therapeutic Studies§ | Studies 307/602 and 608 (IV/ oral therapy) |  |  | Study 305 (oral therapy) |  |
+|  | Voriconazole N=1655 | Voriconazole N=468 | Ampho B† N=185 | Ampho B→ Fluconazole N=131 | Voriconazole N=200 | Fluconazole N=191 |
+| Special Senses‡ |  |  |  |  |  |  |
 | Abnormal vision | 310 (18.7) | 63 (13.5) | 1 (0.5) | 0 | 31 (15.5) | 8 (4.2) |
 | Photophobia | 37 (2.2) | 8 (1.7) | 0 | 0 | 5 (2.5) | 2 (1) |
 | Chromatopsia | 20 (1.2) | 2 (0.4) | 0 | 0 | 2 (1) | 0 |
@@ -79,6 +79,14 @@ Possibly Related to Therapy or Causality UnknownStudy 307/602: IA; Study 608: ca
 | Urogenital |  |  |  |  |  |  |
 | Kidney function abnormal | 10 (0.6) | 6 (1.3) | 40 (21.6) | 9 (6.9) | 1 (0.5) | 1 (0.5) |
 | Acute kidney failure | 7 (0.4) | 2 (0.4) | 11 (5.9) | 7 (5.3) | 0 | 0 |
+
+* Study 307/602: IA; Study 608: candidemia; Study 305: EC
+
+† Amphotericin B followed by other licensed antifungal therapy
+
+‡ See Warnings and Precautions (5.4)
+
+§ Studies 303, 304, 305, 307, 309, 602, 603, 604, 608
 
 Visual Disturbances
 
@@ -160,19 +168,27 @@ Table 5: Protocol 305 – Patients with Esophageal Candidiasis Clinically Signif
 
 |  |  | n/N (%) | n/N (%) |
 | --- | --- | --- | --- |
-|  | CriteriaWithout regard to baseline value | Voriconazole | Fluconazole |
+|  | Criteria* | Voriconazole | Fluconazole |
 | T. Bilirubin | >1.5× ULN | 8/185 (4.3) | 7/186 (3.8) |
 | AST | >3× ULN | 38/187 (20.3) | 15/186 (8.1) |
 | ALT | >3× ULN | 20/187 (10.7) | 12/186 (6.5) |
 | Alkaline Phosphatase | >3× ULN | 19/187 (10.2) | 14/186 (7.5) |
 
-1. n = number of patients with a clinically significant abnormality while on study therapy N = total number of patients with at least one observation of the given lab test while on study therapy AST = Aspartate aminotransferase; ALT= alanine aminotransferase ULN = upper limit of normal
+n = number of patients with a clinically significant abnormality while on study therapy
+
+N = total number of patients with at least one observation of the given lab test while on study therapy
+
+AST= Aspartate aminotransferase; ALT=alanine aminotransferase
+
+ULN = upper limit of normal
+
+*Without regard to baseline value
 
 Table 6: Protocol 307/602 – Primary Treatment of Invasive Aspergillosis Clinically Significant Laboratory Test Abnormalities
 
 |  |  | n/N (%) | n/N (%) |
 | --- | --- | --- | --- |
-|  | CriteriaWithout regard to baseline value | Voriconazole | Amphotericin BAmphotericin B followed by other licensed antifungal therapy |
+|  | Criteria* | Voriconazole | Amphotericin B |
 | T. Bilirubin | >1.5× ULN | 35/180 (19.4) | 46/173 (26.6) |
 | AST | >3× ULN | 21/180 (11.7) | 18/174 (10.3) |
 | ALT | >3× ULN | 34/180 (18.9) | 40/173 (23.1) |
@@ -180,21 +196,43 @@ Table 6: Protocol 307/602 – Primary Treatment of Invasive Aspergillosis Clinic
 | Creatinine | >1.3× ULN | 39/182 (21.4) | 102/177 (57.6) |
 | Potassium | <0.9× LLN | 30/181 (16.6) | 70/178 (39.3) |
 
-1. n = number of patients with a clinically significant abnormality while on study therapy N = total number of patients with at least one observation of the given lab test while on study therapy AST = Aspartate aminotransferase; ALT = alanine aminotransferase ULN = upper limit of normal LLN = lower limit of normal
+n = number of patients with a clinically significant abnormality while on study therapy
+
+N = total number of patients with at least one observation of the given lab test while on study therapy
+
+AST= Aspartate aminotransferase; ALT=alanine aminotransferase
+
+ULN = upper limit of normal
+
+LLN = lower limit of normal
+
+* Without regard to baseline value
+
+† Amphotericin B followed by other licensed antifungal therapy
 
 Table 7: Protocol 608 – Treatment of Candidemia Clinically Significant Laboratory Test Abnormalities
 
-|  |  | n/N (%) | n/N (%) |  |  |  |  |  |  |  |  |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-|  | CriteriaWithout regard to baseline value | Voriconazole | Amphotericin B followed by Fluconazole |  |  |  |  |  |  |  |  |
-| T. Bilirubin | >1.5× ULN | 50/261 (19.2) | 31/115 (27) |  |  |  |  |  |  |  |  |
-| AST | >3× ULN | 40/261 (15.3) | 16/116 (13.8) |  |  |  |  |  |  |  |  |
-| ALT | >3× ULN | 22/261 (8.4) | 15/116 (12.9) |  |  |  |  |  |  |  |  |
-| Alkaline Phosphatase | >3× ULN | 59/261 (22.6) | 26/115 (22.6) |  |  |  |  |  |  |  |  |
-| Creatinine | >1.3× ULN | 39/260 (15) | 32/118 (27.1) |  |  |  |  |  |  |  |  |
-| Potassium | <0.9× LLN | 43/258 (16.7) | 35/118 (29.7) |  |  |  |  |  |  |  |  |
-| n = number of patients with a clinically significant abnormality while on study therapy |  |  |  |  |  |  |  |  |  |  |  |
-| N = total number of patients with at least one observation of the given lab test while on study therapy AST = Aspartate aminotransferase; ALT = alanine aminotransferase ULN = upper limit of normal LLN = lower limit of normal |  |  |  |  |  |  |  |  |  |  |  |
+|  |  | n/N (%) | n/N (%) |
+| --- | --- | --- | --- |
+|  | Criteria* | Voriconazole | Amphotericin B followed by Fluconazole |
+| T. Bilirubin | >1.5× ULN | 50/261 (19.2) | 31/115 (27) |
+| AST | >3× ULN | 40/261 (15.3) | 16/116 (13.8) |
+| ALT | >3× ULN | 22/261 (8.4) | 15/116 (12.9) |
+| Alkaline Phosphatase | >3× ULN | 59/261 (22.6) | 26/115 (22.6) |
+| Creatinine | >1.3× ULN | 39/260 (15) | 32/118 (27.1) |
+| Potassium | <0.9× LLN | 43/258 (16.7) | 35/118 (29.7) |
+
+n = number of patients with a clinically significant abnormality while on study therapy
+
+N = total number of patients with at least one observation of the given lab test while on study therapy
+
+AST= Aspartate aminotransferase; ALT=alanine aminotransferase
+
+ULN = upper limit of normal
+
+LLN = lower limit of normal
+
+* Without regard to baseline value
 
 Clinical Trials Experience in Pediatric Patients
 
@@ -213,15 +251,15 @@ The most common adverse reactions occurring in ≥5% of pediatric patients recei
 
 Table 8: Treatment-Emergent Adverse Reactions Occurring in ≥5% of Pediatric Patients Receiving Voriconazole in the Pooled Pediatric Clinical Trials
 
-| Body System | Adverse Reaction | Pooled Pediatric DataReflects all adverse reactions and not treatment-related only. N=105 n (%) |
+| Body System | Adverse Reaction | Pooled Pediatric Data* N=105 n (%) |
 | --- | --- | --- |
 | Blood and Lymphatic Systems Disorders | Thrombocytopenia | 10 (10) |
 | Cardiac Disorders | Tachycardia | 7 (7) |
-| Eye Disorders | Visual DisturbancesPooled reports include such terms as: amaurosis (partial or total blindness without visible change in the eye); asthenopia (eye strain); chromatopsia (abnormally colored vision); color blindness; diplopia; photopsia; retinal disorder; vision blurred, visual acuity decreased, visual brightness; visual impairment. Several patients had more than one visual disturbance. | 27 (26) |
+| Eye Disorders | Visual Disturbances† | 27 (26) |
 | Photophobia | 6 (6) |  |
 | Gastrointestinal Disorders | Vomiting | 21 (20) |
 | Nausea | 14 (13) |  |
-| Abdominal painPooled reports include such terms as: abdominal pain and abdominal pain, upper. | 13 (12) |  |
+| Abdominal pain‡ | 13 (12) |  |
 | Diarrhea | 12 (11) |  |
 | Abdominal distention | 5 (5) |  |
 | Constipation | 5 (5) |  |
@@ -229,7 +267,7 @@ Table 8: Treatment-Emergent Adverse Reactions Occurring in ≥5% of Pediatric Pa
 | Peripheral edema | 9 (9) |  |
 | Mucosal inflammation | 6 (6) |  |
 | Infections and Infestations | Upper respiratory tract infection | 5 (5) |
-| Investigations | ALT abnormalPooled reports include such terms as: ALT abnormal and ALT increased. | 9 (9) |
+| Investigations | ALT abnormal§ | 9 (9) |
 | LFT abnormal | 6 (6) |  |
 | Metabolism and Nutrition Disorders | Hypokalemia | 11 (11) |
 | Hyperglycemia | 7 (7) |  |
@@ -239,16 +277,33 @@ Table 8: Treatment-Emergent Adverse Reactions Occurring in ≥5% of Pediatric Pa
 | Hypomagnesemia | 5 (5) |  |
 | Nervous System Disorders | Headache | 10 (10) |
 | Dizziness | 5 (5) |  |
-| Psychiatric Disorders | HallucinationsPooled reports include such terms as: hallucination; hallucination, auditory; hallucination, visual. Several patients had both visual and auditory hallucinations. | 5 (5) |
-| Renal and Urinary Disorders | Renal impairmentPooled reports include such terms as: renal failure and a single patient with renal impairment. | 5 (5) |
+| Psychiatric Disorders | Hallucinations¶ | 5 (5) |
+| Renal and Urinary Disorders | Renal impairment# | 5 (5) |
 | Respiratory Disorders | Epistaxis | 17 (16) |
 | Cough | 10 (10) |  |
 | Dyspnea | 6 (6) |  |
 | Hemoptysis | 5 (5) |  |
-| Skin and Subcutaneous Tissue Disorders | RashPooled reports include such terms as: rash; rash generalized; rash macular; rash maculopapular; rash pruritic. | 14 (13) |
+| Skin and Subcutaneous Tissue Disorders | RashÞ | 14 (13) |
 | Vascular Disorders | Hypertension | 12 (11) |
 | Hypotension | 9 (9) |  |
-| Abbreviations: ALT = alanine aminotransferase; LFT = liver function test |  |  |
+
+Abbreviations: ALT = alanine aminotransferase; LFT = liver function test
+
+* Reflects all adverse reactions and not treatment-related only.
+
+† Pooled reports include such terms as: amaurosis (partial or total blindness without visible change in the eye); asthenopia (eye strain); chromatopsia (abnormally colored vision); color blindness; diplopia; photopsia; retinal disorder; vision blurred, visual acuity decreased, visual brightness; visual impairment.
+Several patients had more than one visual disturbance.
+
+‡ Pooled reports include such terms as: abdominal pain and abdominal pain, upper.
+
+§ Pooled reports include such terms as: ALT abnormal and ALT increased.
+
+¶ Pooled reports include such terms as: hallucination; hallucination, auditory; hallucination, visual.
+Several patients had both visual and auditory hallucinations.
+
+# Pooled reports include such terms as: renal failure and a single patient with renal impairment.
+
+Þ Pooled reports include such terms as: rash; rash generalized; rash macular; rash maculopapular; rash pruritic.
 
 The following adverse reactions with incidence less than 5% were reported in 105 pediatric patients treated with voriconazole:
 
@@ -308,7 +363,14 @@ Table 9: Incidence of Hepatic Abnormalities among Pediatric Subjects
 | AST | >3× ULN | 16/103 (16) |
 | ALT | >3× ULN | 23/102 (23) |
 | Alkaline Phosphatase | >3× ULN | 8/97 (8) |
-| n = number of patients with a clinically significant abnormality while on study therapy N = total number of patients with at least one observation of the given lab test while on study therapy AST = Aspartate aminotransferase; ALT = alanine aminotransferase ULN = upper limit of normal |  |  |
+
+n = number of patients with a clinically significant abnormality while on study therapy
+
+N = total number of patients with at least one observation of the given lab test while on study therapy
+
+AST = Aspartate aminotransferase; ALT = alanine aminotransferase
+
+ULN = upper limit of normal
 
 ## 6.2 Postmarketing Experience in Adult and Pediatric Patients
 
@@ -317,11 +379,13 @@ Because these reactions are reported voluntarily from a population of uncertain 
 
 Adults
 
-Skeletal: fluorosis and periostitis have been reported during long-term voriconazole therapy [see Warnings and Precautions (5.11)].
+Skeletal: fluorosis and periostitis have been reported during long-term voriconazole therapy [see Warnings and Precautions (5.12)].
 
 Eye disorders: prolonged visual adverse reactions, including optic neuritis and papilledema [see Warnings and Precautions (5.4)].
 
 Skin and Appendages: drug reaction with eosinophilia and systemic symptoms (DRESS) has been reported [see Warningsand Precautions (5.5) and Adverse Reactions (6.1)].
+
+Endocrine disorders: adrenal insufficiency, Cushing’s syndrome (when voriconazole has been used concomitantly with corticosteroids) [see Warnings and Precautions (5.8)].
 
 Pediatric Patients
 
