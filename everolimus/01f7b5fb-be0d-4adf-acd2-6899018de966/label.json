@@ -1,0 +1,26 @@
+{
+  "application_numbers": [
+    "ANDA205426"
+  ],
+  "inn": "everolimus",
+  "labeler": "Breckenridge Pharmaceutical, Inc.",
+  "package_ndcs": [
+    "51991-821-28",
+    "51991-821-99",
+    "51991-822-28",
+    "51991-822-99",
+    "51991-823-28",
+    "51991-823-99",
+    "51991-824-28",
+    "51991-824-99"
+  ],
+  "products": [
+    {
+      "form": "TABLET",
+      "generic": "everolimus",
+      "name": "Everolimus"
+    }
+  ],
+  "setid": "01f7b5fb-be0d-4adf-acd2-6899018de966",
+  "source": "dailymed"
+}
