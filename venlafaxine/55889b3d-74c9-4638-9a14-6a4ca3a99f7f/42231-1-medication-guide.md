@@ -169,23 +169,23 @@ Before starting venlafaxine tablets, USP, tell your healthcare provider if you:
 - •Are taking certain drugs such as:
   - •Amphetamines
   - •Medicines used to treat migraine headaches such as:
-- otriptans
+- •triptans
   - •Medicines used to treat mood, anxiety, psychotic or thought disorders, such as:
-    - otricyclic antidepressants
-    - olithium
-    - oSSRIs
-    - oSNRIs
-    - oantipsychotic drugs
+    - •tricyclic antidepressants
+    - •lithium
+    - •SSRIs
+    - •SNRIs
+    - •antipsychotic drugs
   - •Medicines used to treat pain such as:
-    - otramadol
+    - •tramadol
   - •Medicines used to thin your blood such as:
-    - owarfarin
+    - •warfarin
   - •Medicines used to treat heartburn such as:
-    - oCimetidine
+    - •Cimetidine
   - •Over-the-counter medicines or supplements such as:
-    - oAspirin or other NSAIDs
-    - oTryptophan
-    - oSt.
+    - •Aspirin or other NSAIDs
+    - •Tryptophan
+    - •St.
       John’s Wort
 - •have heart problems
 - •have diabetes
