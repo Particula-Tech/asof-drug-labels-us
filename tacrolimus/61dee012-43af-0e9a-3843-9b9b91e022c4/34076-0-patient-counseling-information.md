@@ -1,10 +1,8 @@
 # 17 PATIENT COUNSELING INFORMATION
 
-Advise the patient to read the FDA-approved patient labeling (Patient Information).
+Advise the patient to read the FDA-approved patient labeling (Patient Information and Instructions for Use).
 
 ## 17.1 Administration
-
-Advise patients to:
 
 Advise the patient or caregiver to:
 
@@ -13,12 +11,12 @@ Advise the patient or caregiver to:
   Other tacrolimus products cannot be substituted for tacrolimus.
 - Take tacrolimus at the same 12 hour intervals every day to achieve consistent blood concentrations.
 - Take tacrolimus consistently either with or without food because the presence and composition of food decreases the bioavailability of tacrolimus.
-- Not to eat grapefruit or drink grapefruit juice in combination with tacrolimus [seeDrug Interactions (7.2)].
+- Not to eat grapefruit or drink grapefruit juice in combination with tacrolimus [see Drug Interactions (7.2)].
 
 ## 17.2 Development of Lymphoma and Other Malignancies
 
 Inform patients they are at increased risk of developing lymphomas and other malignancies, particularly of the skin, due to immunosuppression.
-Advise patients to limit exposure to sunlight and ultraviolet (UV) light by wearing protective clothing and using a broad spectrum a sunscreen with a high protection factor [see Boxed Warning and Warnings and Precautions (5.1)].
+Advise patients to limit exposure to sunlight and ultraviolet (UV) light by wearing protective clothing and using a broad spectrum sunscreen with a high protection factor [see Boxed Warning and Warnings and Precautions (5.1)].
 
 ## 17.3 Increased Risk of Infection
 
@@ -53,7 +51,7 @@ Advise patients to monitor their blood pressure [see Warnings and Precautions (5
 Instruct patients to tell their healthcare providers when they start or stop taking any medicines, including prescription medicines and nonprescription medicines, natural or herbal remedies, nutritional supplements, and vitamins.
 Advise patients to avoid grapefruit and grapefruit juice [see Drug Interactions (7)].
 
-## 17.10 Pregnant, Lactation and Infertility
+## 17.10 Pregnancy, Lactation and Infertility
 
 Inform women of childbearing potential that tacrolimus can harm the fetus.
 Instruct male and female patients to discuss with their healthcare provider family planning options including appropriate contraception.
@@ -82,4 +80,4 @@ Dr. Reddy’s Laboratories Limited
 
 Bachupally – 500 090 INDIA
 
-Revised: 0619
+Revised: 0121

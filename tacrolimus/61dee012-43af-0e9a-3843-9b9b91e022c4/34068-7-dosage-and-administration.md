@@ -4,7 +4,7 @@
 
 Tacrolimus capsules should not be used without supervision by a physician with experience in immunosuppressive therapy.
 
-Tacrolimus capsules and tacrolimus granules are not interchangeable or substitutable for other tacrolimus extended-release products.
+Tacrolimus capsules are not interchangeable or substitutable for other tacrolimus extended-release products.
 This is because rate of absorption following the administration of an extended-release tacrolimus product is not equivalent to that of an immediate-release tacrolimus drug product.
 Under-or overexposure to tacrolimus may result in graft rejection or other serious adverse reactions.
 Changes between tacrolimus immediate-release and extended-release dosage forms must occur under physician supervision [see Warnings and Precautions (5.3)].
@@ -17,7 +17,7 @@ Patients receiving tacrolimus injection should be under continuous observation f
 If signs or symptoms of anaphylaxis occur, the infusion should be stopped.
 An aqueous solution of epinephrine should be available at the bedside as well as a source of oxygen.
 
-Oral Formulations (Capsules and Oral Suspension)
+Oral Formulation (Capsules)
 
 If patients are able to initiate oral therapy, the recommended starting doses should be initiated.
 Tacrolimus capsules may be taken with or without food.
@@ -72,7 +72,7 @@ Comparative Dose and Trough Concentrations Based on Race
 
 | Time After Transplant | Caucasian N=114 |  | African-American N=56 |  |
 | --- | --- | --- | --- | --- |
-|  | Dose(mg/kg) | Trough Concentrations(ng/mL) | Dose (mg/kg) | Trough Concentrations(ng/mL) |
+|  | Dose (mg/kg) | Trough Concentrations (ng/mL) | Dose (mg/kg) | Trough Concentrations (ng/mL) |
 | Day 7 | 0.18 | 12.0 | 0.23 | 10.9 |
 | Month 1 | 0.17 | 12.8 | 0.26 | 12.9 |
 | Month 6 | 0.14 | 11.8 | 0.24 | 11.5 |
@@ -92,33 +92,32 @@ The whole blood trough concentration range described in Table 1 pertains to oral
 Anaphylactic reactions have occurred with injectables containing castor oil derivatives, such as tacrolimus injection.
 Therefore, monitoring for signs and symptoms of anaphylaxis is recommended [see Warnings and Precautions (5.9)].
 
-## 2.3 Dosing for Pediatric Kidney, Liver, and Heart Transplant Patients
+## 2.3 Dosing for Pediatric Liver Transplant Patients
 
-Oral formulations (capsules or oral suspension)
+Oral formulation (capsules)
 
 Pediatric patients in general need higher tacrolimus doses compared to adults: the higher dose requirements may decrease as the child grows older.
 Recommendations for the initial oral dosing for pediatric transplant patients and whole blood trough concentration range are shown in Table 3.
 Perform TDM to ensure that patients are within the ranges listed in Table 3.
 
 Table 3.
-Summary of Initial Tacrolimus Capsule and Tacrolimus Granules Dosing Recommendations and Whole Blood Trough Concentration Range in Children
+Summary of Initial Tacrolimus Capsule Dosing Recommendations and Whole Blood Trough Concentration Range in Children
 
-| Patient Population | Initial Tacrolimus Capsule and Tacrolimus Granules Dosing | Whole Blood Trough Concentration Range |
+| Patient Population | Initial Tacrolimus Capsule Dosing | Whole Blood Trough Concentration Range |
 | --- | --- | --- |
-| Pediatric kidney transplant patients† | 0.3 mg/kg/day capsules or oral suspension, divided in two doses, administered every 12 hours | Month 1 to 12: 5 to 20 ng/mL |
-| Pediatric liver transplant patients‡ | 0.15 to 0.2 mg/kg/day capsules or 0.2 mg/kg/day oral suspension, divided in two doses, administered every 12 hours | Month 1 to 12: 5 to 20 ng/mL |
-| Pediatric heart transplant patients† | 0.3 mg/kg/day* capsules or oral suspension, divided in two doses, administered every 12 hours | Month 1 to 12: 5 to 20 ng/mL |
+| Pediatric liver transplant patients‡ | 0.15 to 0.2 mg/kg/day capsules divided in two doses, administered every 12 hours | Month 1 to 12: 5 to 20 ng/mL |
 
 * 0.1 mg/kg/day if cell depleting induction treatment is administered.
 
-† See Clinical Pharmacology (12.3), Tacrolimus Granules Pharmacokinetics in Pediatric Patients.
-
 ‡ See Clinical Studies (14.2), Liver Transplantation.
 
-For conversion of pediatric patients from tacrolimus granules to tacrolimus capsules or from tacrolimus capsules to tacrolimus granules, the total daily dose should remain the same.
+For conversion of pediatric patients from tacrolimus for oral suspension to tacrolimus capsules or from tacrolimus capsules to tacrolimus for oral suspension, the total daily dose should remain the same.
 Following conversion from one formulation to another formulation of tacrolimus, therapeutic drug monitoring is recommended [see Dosage and Administration (2.6)].
 If a patient is unable to receive an oral formulation, the patient may be started on tacrolimus injection.
 For pediatric liver transplant patients, the intravenous dose is 0.03 to 0.05 mg/kg/day.
+
+Additional pediatric use information is approved for Astellas Pharma US, Inc.’s Prograf (tacrolimus) products.
+However, due to Astellas Pharma US, Inc.’s marketing exclusivity rights, this drug product is not labeled with that information.
 
 ## 2.4 Dosage Adjustment in Patients with Renal Impairment
 
@@ -139,7 +138,7 @@ Some evidence suggests that lower doses should be used in these patients [see Do
 ## 2.6 Therapeutic Drug Monitoring
 
 Monitoring of tacrolimus blood concentrations in conjunction with other laboratory and clinical parameters is considered an essential aid to patient management for the evaluation of rejection, toxicity, dose adjustments and compliance.
-Whole blood trough concentrations range can be found in Table 1.
+Whole blood trough concentration range can be found in Table 1.
 
 Factors influencing frequency of monitoring include but are not limited to hepatic or renal dysfunction, the addition or discontinuation of potentially interacting drugs and the post-transplant time.
 Blood concentration monitoring is not a replacement for renal and liver function monitoring and tissue biopsies.
@@ -148,8 +147,8 @@ Data from clinical trials show that tacrolimus whole blood concentrations were m
 The relative risks of toxicity and efficacy failure are related to tacrolimus whole blood trough concentrations.
 Therefore, monitoring of whole blood trough concentrations is recommended to assist in the clinical evaluation of toxicity and efficacy failure.
 
-Methods commonly used for the assay of tacrolimus include high performance liquid chromatography with tandem mass spectrometric detection (HPLC/MS/MS) and immunoassays.
-Immunoassays may react with metabolites as well as the parent compound.
+Methods commonly used for the assay of tacrolimus include high-performance liquid chromatography with tandem mass spectrometric detection (HPLC/MS/MS) and immunoassays.
+Immunoassays may react with metabolites as well as parent compound.
 Therefore, assay results obtained with immunoassays may have a positive bias relative to results of HPLC/MS.
 The bias may depend upon the specific assay and laboratory.
 Comparison of the concentrations in published literature to patient concentrations using the current assays must be made with detailed knowledge of the assay methods and biological matrices employed.

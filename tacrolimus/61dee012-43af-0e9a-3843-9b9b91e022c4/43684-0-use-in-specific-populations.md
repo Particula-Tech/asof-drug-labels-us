@@ -89,7 +89,7 @@ At 1 mg/kg (1.6 to 4.3 times the recommended clinical dose range), embryofetal l
 Administration of 3.2 mg/kg oral tacrolimus (2.6 to 6.9 times the recommended clinical dose range) to pregnant rats throughout organogenesis produced maternal toxicity/lethality, embryofetal lethality and decreased fetal body weight in the offspring of C-sectioned dams; and decreased pup viability and interventricular septal defect in offspring of dams that delivered.
 
 In a peri-/postnatal development study, oral administration of tacrolimus to pregnant rats during late gestation (after organogenesis) and throughout lactation produced maternal toxicity, effects on parturition, and reduced pup viability at 3.2 mg/kg (2.6 to 6.9 times the recommended clinical dose range); among these pups that died early, an increased incidence of kidney hydronephrosis was observed.
-Reduced pup weight was observed at 1.0 mg/kg (0.8 to 2.2 times the recommended clinical dose range).
+Reduced pup weight was observed at 1 mg/kg (0.8 to 2.2 times the recommended clinical dose range).
 
 Administration of oral tacrolimus to rats prior to mating, and throughout gestation and lactation, produced maternal toxicity/lethality, embryofetal loss and reduced pup viability at 3.2 mg/kg (2.6 to 6.9 times the recommended clinical dose range).
 Interventricular septal defects, hydronephrosis, craniofacial malformations and skeletal effects were observed in offspring that died.
@@ -118,18 +118,16 @@ Based on findings in animals, male and female fertility may be compromised by tr
 
 ## 8.4 Pediatric Use
 
-Safety and effectiveness have been established in pediatric liver, kidney, and heart transplant patients.
+Safety and effectiveness have been established in pediatric liver, transplant patients.
 
 Liver transplant
 
-Safety and efficacy using tacrolimus granules in pediatric de novo liver transplant patients less than 16 years of age are based on evidence from active controlled studies that included 56 pediatric patients, 31 of which received tacrolimus, and supported by two pharmacokinetic and safety studies in 151 children who received tacrolimus.
+Safety and efficacy in pediatric liver transplant patients less than 16 years of age are based on evidence from active controlled studies that included 56 pediatric patients, 31 of which received tacrolimus.
 Additionally, 122 pediatric patients were studied in an uncontrolled trial of tacrolimus in living related donor liver transplantation.
-Dose adjustments were made in the PK studies based on clinical status and whole blood concentrations.
-Pediatric patients generally required higher doses of tacrolimus to maintain blood trough concentrations of tacrolimus similar to adult patients [see Dosage and Administration (2.3), Adverse Reactions(6.1), Clinical Pharmacology (12.3) and Clinical Studies (14.2)].
+Pediatric patients generally required higher doses of tacrolimus to maintain blood trough concentrations of tacrolimus similar to adult patients [see Dosage and Administration (2.3), Adverse Reactions (6.1), Clinical Pharmacology (12.3) and Clinical Studies (14.2)].
 
-Kidney and heart transplant
-
-Use of tacrolimus capsules and tacrolimus granules in pediatric kidney and heart transplant patients is supported by adequate and well-controlled studies and pharmacokinetic data in adult kidney and heart transplant patients with additional pharmacokinetic data in pediatric kidney and heart transplant patients and safety data in pediatric liver transplant patients [see Dosage and Administration (2.3) and Clinical Pharmacology (12.3)].
+Additional pediatric use information is approved for Astellas Pharma US, Inc.’s Prograf (tacrolimus) products.
+However, due to Astellas Pharma US, Inc.’s marketing exclusivity rights, this drug product is not labeled with that information.
 
 ## 8.5 Geriatric Use
 

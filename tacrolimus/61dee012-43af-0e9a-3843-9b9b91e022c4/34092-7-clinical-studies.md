@@ -18,7 +18,7 @@ Data from this trial of tacrolimus in conjunction with azathioprine indicate tha
 Tacrolimus/Mycophenolate Mofetil (MMF)
 
 Tacrolimus-based immunosuppression in conjunction with MMF, corticosteroids, and induction has been studied.
-In a randomized, open-label, multicenter trial (Study 1), 1,589 kidney transplant patients received tacrolimus (Group C, n=401), sirolimus (Group D, n=399), or one of two cyclosporine (CsA) regimens (Group A, n=390 and Group B, n=399) in combination with MMF and corticosteroids; all patients, except those in one of the two cyclosporine groups, also receivedinduction with daclizumab.
+In a randomized, open-label, multicenter trial (Study 1), 1,589 kidney transplant patients received tacrolimus (Group C, n=401), sirolimus (Group D, n=399), or one of two cyclosporine (CsA) regimens (Group A, n=390 and Group B, n=399) in combination with MMF and corticosteroids; all patients, except those in one of the two cyclosporine groups, also received induction with daclizumab.
 The trial was conducted outside the United States; the trial population was 93% Caucasian.
 In this trial, mortality at 12 months in patients receiving tacrolimus/MMF was similar (3%) compared to patients receiving cyclosporine/MMF (3% and 2%) or sirolimus/MMF (3%).
 Patients in the tacrolimus group exhibited higher estimated creatinine clearance rates (eCLcr) using the Cockcroft-Gault formula (Table 20) and experienced fewer efficacy failures, defined as biopsy proven acute rejection (BPAR), graft loss, death, and/or loss to follow-up (Table 21) in comparison to each of the other three groups.
@@ -69,8 +69,8 @@ Tacrolimus Whole Blood Trough Concentration Range (Study 1)
 | --- | --- |
 | Day 30 (N=366) | 6.9 (4.4 to 11.3) |
 | Day 90 (N=351) | 6.8 (4.1 to 10.7) |
-| Day 180 (N=355) | 6.5 (4.0 to 9.6) |
-| Day 365 (N=346) | 6.5 (3.8 to 10.0) |
+| Day 180 (N=355) | 6.5 (4 to 9.6) |
+| Day 365 (N=346) | 6.5 (3.8 to 10) |
 
 * 10 to 90th Percentile: range of Ctrough, Tac that excludes lowest 10% and highest 10% of Ctrough,Tac
 
@@ -178,6 +178,9 @@ Although there is a lack of direct correlation between tacrolimus concentrations
 Most patients are stable when trough whole blood concentrations are maintained between 5 to 20 ng/mL.
 Long-term post-transplant patients are often maintained at the low end of this target range.
 Data from the U.S. clinical trial show that the median trough blood concentrations, measured at intervals from the second week to one year post-transplantation, ranged from 9.8 ng/mL to 19.4 ng/mL.
+
+Additional pediatric use information is approved for Astellas Pharma US, Inc.’s Prograf (tacrolimus) products.
+However, due to Astellas Pharma US, Inc.’s marketing exclusivity rights, this drug product is not labeled with that information.
 
 ## 14.3 Heart Transplantation
 

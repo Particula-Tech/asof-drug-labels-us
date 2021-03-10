@@ -10,7 +10,7 @@ Tacrolimus USP has an molecular formula of C44H69NO12•H2O and a formula weight
 Tacrolimus USP appears as white to off white granular powder.
 It is practically insoluble in water, freely soluble in methanol, ethanol, acetone, ehyl acetate, chloroform.
 
-Tacrolimus USP is available for oral administration as capsules containing the equivalent of 0.5 mg, 1 mg or 5 mg of anhydrous tacrolimus.
+Tacrolimus USP is available for oral administration as capsules containing the equivalent of 0.5 mg, 1 mg or 5 mg of anhydrous tacrolimus, USP.
 Inactive ingredients include croscarmellose sodium, lactose monohydrate and magnesium stearate.
 The 0.5 mg capsule shell contains gelatin, iron oxide red, iron oxide yellow and titanium dioxide, the 1 mg capsule shell contains gelatin and titanium dioxide and the 5 mg capsule shell contains gelatin, iron oxide red, iron oxide black, and titanium dioxide.
 
