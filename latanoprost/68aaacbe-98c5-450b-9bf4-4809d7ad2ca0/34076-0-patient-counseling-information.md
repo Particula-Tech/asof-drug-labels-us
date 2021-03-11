@@ -22,4 +22,4 @@ Advise patients that if more than one topical ophthalmic drug is being used, the
 
 If a Dose is Missed Advise patients that if one dose is missed, treatment should continue with the next dose as normal.
 
-Distributed by: Bausch + Lomb, a division of Bausch Health US, LLC Bridgewater, NJ 08807 USA © 2020 Bausch & Lomb Incorporated or its affiliates p/n (folded) p/n (flat)
+Distributed by: Bausch + Lomb, a division of Bausch Health US, LLC Bridgewater, NJ 08807 USA © 2020 Bausch & Lomb Incorporated or its affiliates 9144710 (folded) 9144810 (flat)
