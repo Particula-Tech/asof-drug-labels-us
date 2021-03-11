@@ -1,7 +1,7 @@
 # 16 HOW SUPPLIED/STORAGE AND HANDLING
 
 ULTRAM (tramadol hydrochloride) 50 mg tablets are white, capsule-shaped, coated, with a functional score.
-The tablets are imprinted “ULTRAM” on one side and “06 59” on the scored side.
+The tablets are imprinted "ULTRAM" on one side and "06 59" on the scored side.
 
 Bottle of 100 tablets: NDC 50458-659-60
 

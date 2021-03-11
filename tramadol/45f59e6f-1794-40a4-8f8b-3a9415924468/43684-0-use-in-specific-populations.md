@@ -120,8 +120,8 @@ Because elderly patients are more likely to have decreased renal function, care 
 ## 8.6 Renal and Hepatic Impairment
 
 Impaired renal function results in a decreased rate and extent of excretion of tramadol and its active metabolite, M1.
-In patients with creatinine clearances of less than 30 mL/min, dosing reduction is recommended [see Dosage and Administration (2.2)].
+In patients with creatinine clearances of less than 30 mL/min, dosing reduction is recommended [see Dosage and Administration (2.3)].
 Metabolism of tramadol and M1 is reduced in patients with severe hepatic impairment based on a study in patients with advanced cirrhosis of the liver.
-In patients with severe hepatic impairment, dosing reduction is recommended [see Dosage and Administration (2.2)].
+In patients with severe hepatic impairment, dosing reduction is recommended [see Dosage and Administration (2.3)].
 
 With the prolonged half-life in these conditions, achievement of steady-state is delayed, so that it may take several days for elevated plasma concentrations to develop.
