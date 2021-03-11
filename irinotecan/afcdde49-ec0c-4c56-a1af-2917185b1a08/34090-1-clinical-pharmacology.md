@@ -33,9 +33,9 @@ Pharmacokinetic parameters for irinotecan and SN-38 following a 90-minute infusi
 Table 9.
 Summary of Mean (±Standard Deviation) Irinotecan and SN-38 Pharmacokinetic Parameters in Patients with Solid Tumors
 
-| Dose (mg/m 2) | Irinotecan |  |  |  |  | SN-38 |  |  |
+| Dose (mg/m2) | Irinotecan |  |  |  |  | SN-38 |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| C max (ng/mL) | AUC 0-24 (ng·h/mL) | t 1/2(h) | V z(L/m 2) | CL (L/h/m 2) | C max (ng/mL) | AUC 0-24 (ng·h/mL) | t 1/2(h) |  |
+| C max (ng/mL) | AUC 0-24 (ng·h/mL) | t 1/2(h) | V z(L/m2) | CL (L/h/m2) | C max (ng/mL) | AUC 0-24 (ng·h/mL) | t 1/2(h) |  |
 | 125(N = 64) | 1,660±797 | 10,200±3,270 | 5.8 a±0.7 | 110±48.5 | 13.3±6.01 | 26.3±11.9 | 229±108 | 10.4 a±3.1 |
 | 340(N = 6) | 3,392±874 | 20,604±6,027 | 11.7 b±1.0 | 234±69.6 | 13.9±4.0 | 56.0±28.2 | 474±245 | 21.0 b±4.3 |
 | C max - Maximum plasma concentration AUC 0-24 - Area under the plasma concentration-time curve from time 0 to 24 hours after the end of the 90-minute infusion t 1/2 - Terminal elimination half-life V z - Volume of distribution of terminal elimination phase CL - Total systemic clearance a Plasma specimens collected for 24 hours following the end of the 90-minute infusion. b Plasma specimens collected for 48 hours following the end of the 90-minute infusion. Because of the longer collection period, these values provide a more accurate reflection of the terminal elimination half-lives of irinotecan and SN-38. |  |  |  |  |  |  |  |  |
@@ -67,7 +67,7 @@ Effect of Age
 The pharmacokinetics of irinotecan administered using the weekly schedule was evaluated in a study of 183 patients that was prospectively designed to investigate the effect of age on irinotecan toxicity.
 Results from this trial indicate that there are no differences in the pharmacokinetics of irinotecan, SN-38, and SN-38 glucuronide in patients <65 years of age compared with patients ≥65 years of age.
 In a study of 162 patients that was not prospectively designed to investigate the effect of age, small (less than 18%) but statistically significant differences in dose-normalized irinotecan pharmacokinetic parameters in patients <65 years of age compared to patients ≥65 years of age were observed.
-Although dose-normalized AUC 0-24 for SN-38 in patients ≥65 years of age was 11% higher than in patients <65 years of age, this difference was not statistically significant.
+Although dose-normalized AUC0-24 for SN-38 in patients ≥65 years of age was 11% higher than in patients <65 years of age, this difference was not statistically significant.
 No change in the starting dose is recommended for geriatric patients receiving the weekly dosage schedule of irinotecan [see Dosage and Administration (2)].
 
 Effect of Gender
@@ -82,7 +82,7 @@ Effect of Hepatic Impairment
 
 Irinotecan clearance is diminished in patients with hepatic impairment while exposure to the active metabolite SN-38 is increased relative to that in patients with normal hepatic function.
 The magnitude of these effects is proportional to the degree of liver impairment as measured by elevations in total bilirubin and transaminase concentrations.
-However, the tolerability of irinotecan in patients with hepatic dysfunction (bilirubin greater than 2 mg/dl) has not been assessed sufficiently, and no recommendations for dosing can be made [see Dosage and Administration (2), Warnings and Precautions (5.10) and Use in Specific Populations (8.7)].
+However, the tolerability of irinotecan in patients with hepatic dysfunction (bilirubin greater than 2 mg/dl) has not been assessed sufficiently, and no recommendations for dosing can be made [see Dosage and Administration (2.1), Warnings and Precautions (5.10) and Use in Specific Populations (8.7)].
 
 Effect of Renal Impairment
 

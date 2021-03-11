@@ -1,10 +1,58 @@
 # 14 CLINICAL STUDIES
 
-Irinotecan has been studied in clinical trials as a single agent [see Dosage and Administration (2)].
+Irinotecan has been studied in clinical trials in combination with 5-fluorouracil (5-FU) and leucovorin (LV) and as a single agent [see Dosage and Administration (2)].
+When given as a component of combination-agent treatment, irinotecan was either given with a weekly schedule of bolus 5-FU/LV or with an every-2-week schedule of infusional 5-FU/LV.
 Weekly and once-every-3-week dosage schedules were used for the single-agent irinotecan studies.
-Clinical studies of single-agent use are described below.
+Clinical studies of combination and single-agent use are described below.
 
 ## 14.1 Metastatic Colorectal Cancer
+
+First Line Therapy in Combination with 5-FU/LV: Studies 1 and 2
+
+Two phase 3, randomized, controlled, multinational clinical trials support the use of irinotecan hydrochloride injection as first-line treatment of patients with metastatic carcinoma of the colon or rectum.
+In each study, combinations of irinotecan with 5-FU and LV were compared with 5-FU and LV alone.
+Study 1 compared combination irinotecan/bolus 5-FU/LV therapy given weekly with a standard bolus regimen of 5-FU/LV alone given daily for 5 days every 4 weeks; an irinotecan-alone treatment arm given on a weekly schedule was also included.
+Study 2 evaluated two different methods of administering infusional 5-FU/LV, with or without irinotecan.
+In both studies, concomitant medications such as antiemetics, atropine, and loperamide were given to patients for prophylaxis and/or management of symptoms from treatment.
+In Study 2, a 7-day course of fluoroquinolone antibiotic prophylaxis was given in patients whose diarrhea persisted for greater than 24 hours despite loperamide or if they developed a fever in addition to diarrhea.
+Treatment with oral fluoroquinolone was also initiated in patients who developed an absolute neutrophil count (ANC) <500/mm3, even in the absence of fever or diarrhea.
+Patients in both studies also received treatment with intravenous antibiotics if they had persistent diarrhea or fever or if ileus developed.
+
+In both studies, the combination of irinotecan/5-FU/LV therapy resulted in significant improvements in objective tumor response rates, time to tumor progression, and survival when compared with 5-FU/LV alone.
+These differences in survival were observed in spite of second-line therapy in a majority of patients on both arms, including crossover to irinotecan-containing regimens in the control arm.
+Patient characteristics and major efficacy results are shown in Table 10.
+
+Table 10.
+Combination Dosage Schedule: Study Results
+
+|  | Irinotecan + Bolus 5-FU/LV weekly × 4 every 6 weeks | Bolus 5-FU/LV daily × 5 every 4 weeks | Irinotecan weekly × 4 every 6 weeks | Irinotecan + Infusional 5-FU/LV | Infusional 5-FU/LV |
+| --- | --- | --- | --- | --- | --- |
+|  | Study 1 |  |  | Study 2 |  |
+| Number of patients | 231 | 226 | 226 | 198 | 187 |
+| Demographics and treatment administration |  |  |  |  |  |
+| Female/Male (%) | 34/65 | 45/54 | 35/64 | 33/67 | 47/53 |
+| Median age in years (range) | 62 (25–85) | 61 (19–85) | 61 (30–87) | 62 (27–75) | 59 (24–75) |
+| Performance status (%) |  |  |  |  |  |
+| 0 | 39 | 41 | 46 | 51 | 51 |
+| 1 | 46 | 45 | 46 | 42 | 41 |
+| 2 | 15 | 13 | 8 | 7 | 8 |
+| Primary tumor (%) |  |  |  |  |  |
+| Colon | 81 | 85 | 84 | 55 | 65 |
+| Rectum | 17 | 14 | 15 | 45 | 35 |
+| Median time from diagnosis to randomization (months, range) | 1.9 (0–161) | 1.7 (0–203) | 1.8 (0.1–185) | 4.5 (0–88) | 2.7 (0–104) |
+| Prior adjuvant 5-FU therapy (%) No Yes | 89 11 | 92 8 | 90 10 | 74 26 | 76 24 |
+| Median duration of study treatmentStudy 1: N=225 (irinotecan/5-FU/LV),N=219 (5-FU/LV),N=223 (irinotecan) Study 2: N=199 (irinotecan/5-FU/LV),N=186 (5-FU/LV) (months) | 5.5 | 4.1 | 3.9 | 5.6 | 4.5 |
+| Median Relative Dose Intensity (%) Irinotecan 5-FU | 72 71 | — 86 | 75 — | 87 86 | — 93 |
+| Efficacy Results |  |  |  |  |  |
+| Confirmed objective tumor response rate Confirmed ≥ 4 to 6 weeks after first evidence of objective response (%) | 39 | 21 | 18 | 35 | 22 |
+| (p<0.0001)Chi-square test |  |  | (p<0.005) |  |  |
+| Median time to tumor progressionLog-rank test (months) | 7.0 | 4.3 | 4.2 | 6.7 | 4.4 |
+| (p=0.004) |  |  | (p<0.001) |  |  |
+| Median survival (months) | 14.8 | 12.6 | 12.0 | 17.4 | 14.1 |
+| (p<0.05) |  |  | (p<0.05) |  |  |
+
+Improvement was noted with irinotecan-based combination therapy relative to 5-FU/LV when response rates and time to tumor progression were examined across the following demographic and disease-related subgroups (age, gender, ethnic origin, performance status, extent of organ involvement with cancer, time from diagnosis of cancer, prior adjuvant therapy, and baseline laboratory abnormalities).
+Figures 1 and 2 illustrate the Kaplan-Meier survival curves for the comparison of irinotecan/5-FU/LV versus 5-FU/LV in Studies 1 and 2, respectively.
 
 Second-Line Therapy After 5-FU-Based Treatment
 
@@ -102,8 +150,8 @@ Once-Every-3-Week Dosage Schedule: Study Results
 |  | Study 7 |  | Study 8 |  |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | Irinotecan | BSC a | Irinotecan | 5-FU |  |  |  |  |  |  |
-| Number of Patients | 189 | 90 | 127 | 129 |  |  |  |  |  |
-| Demographics and Treatment Administration |  |  |  |  |  |  |  |  |  |
+| Number of patients | 189 | 90 | 127 | 129 |  |  |  |  |  |
+| Demographics and treatment administration |  |  |  |  |  |  |  |  |  |
 | Female/Male (%) | 32/68 | 42/58 | 43/57 | 35/65 |  |  |  |  |  |
 | Median age in years (range) | 59 (22-75) | 62 (34-75) | 58 (30-75) | 58 (25-75) |  |  |  |  |  |
 | Performance status (%) 0 1 2 | 473914 | 314623 | 58358 | 54433 |  |  |  |  |  |
@@ -132,8 +180,8 @@ EORTC QLQ-C30: Mean Worst Post-Baseline Score a
 | QLQ-C30 Subscale | Study 7 |  |  | Study 8 |  |  |  |  |  |  |  |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | Irinotecan | BSC | p-value | Irinotecan | 5-FU | p-value |  |  |  |  |  |  |  |  |  |  |  |
-| Global Health Status | 47 | 37 | 0.03 | 53 | 52 | 0.9 |  |  |  |  |  |  |  |  |  |  |
-| Functional Scales |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| Global health status | 47 | 37 | 0.03 | 53 | 52 | 0.9 |  |  |  |  |  |  |  |  |  |  |
+| Functional scales |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 | Cognitive | 77 | 68 | 0.07 | 79 | 83 | 0.9 |  |  |  |  |  |  |  |  |  |  |
 | Emotional | 68 | 64 | 0.4 | 64 | 68 | 0.9 |  |  |  |  |  |  |  |  |  |  |
 | Social | 58 | 47 | 0.06 | 65 | 67 | 0.9 |  |  |  |  |  |  |  |  |  |  |

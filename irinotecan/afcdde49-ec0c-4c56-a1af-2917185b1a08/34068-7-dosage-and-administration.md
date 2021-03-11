@@ -1,5 +1,68 @@
 # 2 DOSAGE AND ADMINISTRATION
 
+## 2.1 Colorectal Cancer Combination Regimens 1 and 2
+
+Administer irinotecan hydrochloride injection as a 90-minute intravenous infusion followed by LV and 5-FU.
+The currently recommended regimens are shown in Table 1.
+
+A reduction in the starting dose by one dose level of irinotecan hydrochloride injection may be considered for patients with any of the following conditions: prior pelvic/abdominal radiotherapy, performance status of 2, or increased bilirubin levels.
+Dosing for patients with bilirubin >2 mg/dL cannot be recommended because there is insufficient information to recommend a dose in these patients.
+
+Table 1.
+Combination-Agent Dosage Regimens and Dose Modifications Dose reductions beyond Dose Level –2 by decrements of ≈ 20% may be warranted for patients continuing to experience toxicity.
+Provided intolerable toxicity does not develop, treatment with additional cycles may be continued indefinitely as long as patients continue to experience clinical benefit.
+
+| Regimen 1 6-wk cycle with bolus 5-FU/LV (next cycle begins on day 43) | Irinotecan hydrochloride injection LV 5-FU | 125 mg/m2 intravenous infusion over 90 minutes, days 1,8,15,22 20 mg/m2 intravenous injection bolus, days 1,8,15,22 500 mg/m2 intravenous injection bolus, days 1,8,15,22 |  |  |
+| --- | --- | --- | --- | --- |
+| Starting Dose & Modified Dose Levels (mg/m2) |  |  |  |  |
+| Starting Dose | Dose Level -1 | Dose Level -2 |  |  |
+|  | Irinotecan hydrochloride injection | 125 | 100 | 75 |
+|  | LV | 20 | 20 | 20 |
+|  | 5-FU | 500 | 400 | 300 |
+| Regimen 2 6-wk cycle with infusional 5-FU/LV (next cycle begins on day 43) | Irinotecan hydrochloride injection | 180 mg/m2 intravenous infusion over 90 minutes, days 1,15,29 |  |  |
+| LV | 200 mg/m2 intravenous infusion over 2 hours, days 1,2,15,16,29,30 |  |  |  |
+| 5-FU Bolus | 400 mg/m2 intravenous injection bolus, days 1,2,15,16,29,30 |  |  |  |
+| 5-FU InfusionInfusion follows bolus administration. | 600 mg/m2 intravenous infusion over 22 hours, days 1,2,15,16,29,30 |  |  |  |
+|  |  | Starting Dose & Modified Dose Levels (mg/m2) |  |  |
+|  |  | Starting Dose | Dose Level -1 | Dose Level -2 |
+|  | Irinotecan hydrochloride injection | 180 | 150 | 120 |
+|  | LV | 200 | 200 | 200 |
+|  | 5-FU Bolus | 400 | 320 | 240 |
+|  | 5-FU Infusion | 600 | 480 | 360 |
+
+Dosing for patients with bilirubin >2 mg/dL cannot be recommended because there is insufficient information to recommend a dose in these patients [see Warnings and Precautions (5.10), Use in Specific Populations (8.7) and Clinical Pharmacology (12.3)].
+
+Dose Modifications
+
+Based on recommended dose levels described in Table 1, Combination Regimens of irinotecan hydrochloride injection and Dose Modifications, subsequent doses should be adjusted as suggested in Table 2, Recommended Dose Modifications for Combination Regimens.
+All dose modifications should be based on the worst preceding toxicity.
+
+Table 2.
+Recommended Dose Modifications for Irinotecan Hydrochloride injection/5-Fluorouracil (5-FU)/Leucovorin (LV) Combination Schedules
+
+| Toxicity NCI CTC Grade National Cancer Institute Common Toxicity Criteria (version 1.0) (Value) | During a Cycle of Therapy | At the Start of Subsequent Cycles of Therapy Relative to the starting dose used in the previous cycle |
+| --- | --- | --- |
+| Patients should return to pre-treatment bowel function without requiring antidiarrhea medications for at least 24 hours before the next chemotherapy administration. A new cycle of therapy should not begin until the granulocyte count has recovered to ≥1500/mm3, and the platelet count has recovered to ≥100,000/mm3, and treatment-related diarrhea is fully resolved. Treatment should be delayed 1 to 2 weeks to allow for recovery from treatment-related toxicities. If the patient has not recovered after a 2-week delay, consideration should be given to discontinuing therapy. |  |  |
+| No toxicity | Maintain dose level | Maintain dose level |
+| Neutropenia |  |  |
+| 1 (1500 to 1999/mm3) | Maintain dose level | Maintain dose level |
+| 2 (1000 to 1499/mm3) | ↓ 1 dose level | Maintain dose level |
+| 3 (500 to 999/mm3) | Omit dose until resolved to ≤ grade 2, then ↓ 1 dose level | ↓ 1 dose level |
+| 4 (<500/mm3) | Omit dose until resolved to ≤ grade 2, then ↓ 2 dose levels | ↓ 2 dose levels |
+| Neutropenic fever | Omit dose until resolved, then ↓ 2 dose levels |  |
+| Other hematologic toxicities | Dose modifications for leukopenia or thrombocytopenia during a cycle of therapy and at the start of subsequent cycles of therapy are also based on NCI toxicity criteria and are the same as recommended for neutropenia above. |  |
+| Diarrhea |  |  |
+| 1 (2–3 stools/day > pretx Pretreatment) | Delay dose until resolved to baseline, then give same dose | Maintain dose level |
+| 2 (4–6 stools/day > pretx) | Omit dose until resolved to baseline, then ↓ 1 dose level | Maintain dose level |
+| 3 (7–9 stools/day > pretx) | Omit dose until resolved to baseline, then ↓ 1 dose level | ↓ 1 dose level |
+| 4 (≥10 stools/day > pretx) | Omit dose until resolved to baseline, then ↓ 2 dose levels | ↓ 2 dose levels |
+| Other nonhematologic toxicities Excludes alopecia, anorexia, asthenia |  |  |
+| 1 | Maintain dose level | Maintain dose level |
+| 2 | Omit dose until resolved to ≤ grade 1, then ↓ 1 dose level | Maintain dose level |
+| 3 | Omit dose until resolved to ≤ grade 2, then ↓ 1 dose level | ↓ 1 dose level |
+| 4 | Omit dose until resolved to ≤ grade 2, then ↓ 2 dose levels | ↓ 2 dose levels |
+|  | For mucositis/stomatitis decrease only 5-FU, not irinotecan hydrochloride injection | For mucositis/stomatitis decrease only 5-FU, not irinotecan hydrochloride injection. |
+
 ## 2.2 Colorectal Single Agent Regimens 1 and 2
 
 Administer irinotecan hydrochloride injection as a 90-minute intravenous infusion.
@@ -28,7 +91,7 @@ Based on recommended dose-levels described in Table 3, Single-Agent Regimens of 
 All dose modifications should be based on the worst preceding toxicity.
 
 Table 4.
-Recommended Dose Modifications for Single-Agent Schedulesa
+Recommended Dose Modifications For Single-Agent Schedulesa
 
 | A new cycle of therapy should not begin until the granulocyte count has recovered to ≥1500/mm3, and the platelet count has recovered to ≥100,000/mm3, and treatment-related diarrhea is fully resolved. Treatment should be delayed 1 to 2 weeks to allow for recovery from treatment-related toxicities. If the patient has not recovered after a 2-week delay, consideration should be given to discontinuing irinotecan hydrochloride injection. |  |  |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -56,8 +119,8 @@ Recommended Dose Modifications for Single-Agent Schedulesa
 
 ## 2.3 Dosage in Patients with Reduced UGT1A1 Activity
 
-When administered as a single-agent, a reduction in the starting dose by at least one level of irinotecan hydrochloride injection should be considered for patients known to be homozygous for the UGT1A1*28 allele [see Dosage and Administration (2.2) and Warnings and Precautions (5.3)].
-However, the precise dose reduction in this patient population is not known, and subsequent dose modifications should be considered based on individual patient tolerance to treatment (see Tables 3-4).
+When administered in combination with other agents, or as a single-agent, a reduction in the starting dose by at least one level of irinotecan hydrochloride injection should be considered for patients known to be homozygous for the UGT1A1*28 allele [see Dosage and Administration (2.1 and 2.2) and Warnings and Precautions (5.3)].
+However, the precise dose reduction in this patient population is not known, and subsequent dose modifications should be considered based on individual patient tolerance to treatment (see Tables 1-4).
 
 ## 2.4 Premedication
 
@@ -65,6 +128,7 @@ It is recommended that patients receive premedication with antiemetic agents.
 In clinical studies of the weekly dosage schedule, the majority of patients received 10 mg of dexamethasone given in conjunction with another type of antiemetic agent, such as a 5-HT3 blocker (e.g., ondansetron or granisetron).
 Antiemetic agents should be given on the day of treatment, starting at least 30 minutes before administration of irinotecan hydrochloride injection.
 Physicians should also consider providing patients with an antiemetic regimen (e.g., prochlorperazine) for subsequent use as needed.
+A similar antiemetic regimen should be used with irinotecan hydrochloride injection in combination therapy.
 
 Prophylactic or therapeutic administration of atropine should be considered in patients experiencing cholinergic symptoms.
 

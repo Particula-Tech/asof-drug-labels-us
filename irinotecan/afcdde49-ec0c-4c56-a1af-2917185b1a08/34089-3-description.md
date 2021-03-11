@@ -10,7 +10,7 @@ The preferred diluent is 5% Dextrose Injection, USP.
 
 Irinotecan hydrochloride is a semisynthetic derivative of camptothecin, an alkaloid extract from plants such as Camptotheca acuminata or is chemically synthesized.
 
-The chemical name is (S) -4,11-diethyl-3,4,12,14-tetrahydro-4-hydroxy-3,14-dioxo1H-pyrano[3’,4’:6,7]-indolizino[1,2-b]quinolin-9-yl-[1,4’bipiperidine]-1’-carboxylate, monohydrochloride, trihydrate.
+The chemical name is (S)-4,11-diethyl-3,4,12,14-tetrahydro-4-hydroxy-3,14-dioxo1H-pyrano[3’,4’:6,7]-indolizino[1,2-b]quinolin-9-yl-[1,4’bipiperidine]-1’-carboxylate, monohydrochloride, trihydrate.
 Its empirical formula is C33H38N4O6•HCl•3H2O and molecular weight is 677.19.
 It is slightly soluble in water and organic solvents.
 Its structural formula is as follows:
