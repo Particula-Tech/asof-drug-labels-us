@@ -2,15 +2,11 @@
 
 PREZISTA Oral Suspension
 
-PREZISTA 100 mg per mL is supplied as a white to off-white opaque suspension for oral use, containing darunavir ethanolate equivalent to 100 mg of darunavir per mL of suspension.
+PREZISTA 100 mg per mL is supplied as a white to off-white opaque suspension for oral use, containing 100 mg of darunavir per mL of suspension.
 
 PREZISTA Tablets
 
-- 75 mg: white, caplet-shaped, film-coated tablets containing darunavir ethanolate equivalent to 75 mg of darunavir.
-  Each tablet is debossed with "75" on one side and "TMC" on the other side.
-- 150 mg: white, oval-shaped, film-coated tablets containing darunavir ethanolate equivalent to 150 mg of darunavir.
-  Each tablet is debossed with "150" on one side and "TMC" on the other side.
-- 600 mg: orange, oval-shaped, film-coated tablets containing darunavir ethanolate equivalent to 600 mg of darunavir.
-  Each tablet is debossed with "600MG" on one side and "TMC" on the other side.
-- 800 mg: dark red, oval-shaped, film-coated tablets containing darunavir ethanolate equivalent to 800 mg of darunavir.
-  Each tablet is debossed with "800" on one side and "T" on the other side.
+- 75 mg: white, caplet-shaped, film-coated tablets debossed with "75" on one side and "TMC" on the other side.
+- 150 mg: white, oval-shaped, film-coated tablets debossed with "150" on one side and "TMC" on the other side.
+- 600 mg: orange, oval-shaped, film-coated tablets debossed with "600MG" on one side and "TMC" on the other side.
+- 800 mg: dark red, oval-shaped, film-coated tablets debossed with "800" on one side and "T" on the other side.
