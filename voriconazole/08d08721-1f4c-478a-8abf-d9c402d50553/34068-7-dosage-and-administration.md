@@ -12,7 +12,7 @@ Do not administer as an IV bolus injection.
 Blood products and concentrated electrolytes
 
 VFEND I.V. must not be infused concomitantly with any blood product or short-term infusion of concentrated electrolytes, even if the two infusions are running in separate intravenous lines (or cannulas).
-Electrolyte disturbances such as hypokalemia, hypomagnesemia and hypocalcemia should be corrected prior to initiation of and during VFEND therapy [see Warnings and Precautions (5.9)].
+Electrolyte disturbances such as hypokalemia, hypomagnesemia and hypocalcemia should be corrected prior to initiation of and during VFEND therapy [see Warnings and Precautions (5.10)].
 
 Intravenous solutions containing (non-concentrated) electrolytes
 
@@ -46,10 +46,10 @@ Patients should be treated for a minimum of 14 days and for at least 7 days foll
 
 Table 1: Recommended Dosing Regimen (Adults)
 
-| Invasive AspergillosisIn a clinical study of IA, the median duration of intravenous VFEND therapy was 10 days (range 2 to 85 days). The median duration of oral VFEND therapy was 76 days (range 2 to 232 days) (14.1). | 6 mg/kg every 12 hours for the first 24 hours | 4 mg/kg every 12 hours | 200 mg every 12 hours |
+|  | Intravenous infusion | Intravenous infusion | OralAdult patients who weigh less than 40 kg should receive half of the oral maintenance dose. |
 | --- | --- | --- | --- |
 | Infection | Loading Dose | Maintenance DoseIncrease dose when VFEND is co-administered with phenytoin or efavirenz (7); Decrease dose in patients with hepatic impairment (2.5),In healthy volunteer studies, the 200 mg oral every 12 hours dose provided an exposure (AUCτ) similar to a 3 mg/kg intravenous infusion every 12 hours dose; the 300 mg oral every 12 hours dose provided an exposure (AUCτ) similar to a 4 mg/kg intravenous infusion every 12 hours dose (12). |  |
-|  | Intravenous infusion | Intravenous infusion | OralAdult patients who weigh less than 40 kg should receive half of the oral maintenance dose. |
+| Invasive AspergillosisIn a clinical study of IA, the median duration of intravenous VFEND therapy was 10 days (range 2 to 85 days). The median duration of oral VFEND therapy was 76 days (range 2 to 232 days) (14.1). | 6 mg/kg every 12 hours for the first 24 hours | 4 mg/kg every 12 hours | 200 mg every 12 hours |
 | Candidemia in nonneutropenic patients and other deep tissue Candida infections | 6 mg/kg every 12 hours for the first 24 hours | 3–4 mg/kg every 12 hoursIn clinical trials, patients with candidemia received 3 mg/kg intravenous infusion every 12 hours as primary therapy, while patients with other deep tissue Candida infections received 4 mg/kg every 12 hours as salvage therapy. Appropriate dose should be based on the severity and nature of the infection. | 200 mg every 12 hours |
 | Esophageal Candidiasis | Not EvaluatedNot evaluated in patients with EC. | Not Evaluated | 200 mg every 12 hours |
 | Scedosporiosis and Fusariosis | 6 mg/kg every 12 hours for the first 24 hours | 4 mg/kg every 12 hours | 200 mg every 12 hours |
@@ -72,7 +72,7 @@ Table 2: Recommended Dosing Regimen for Pediatric Patients 2 to less than 12 yea
 |  | Intravenous infusion | Intravenous infusion | Oral |
 | --- | --- | --- | --- |
 |  | Loading Dose | Maintenance Dose |  |
-| Invasive Aspergillosis In the Phase 3 clinical trials, patients with IA received intravenous (IV) treatment for at least 6 weeks and up to a maximum of 12 weeks. Patients received IV treatment for at least the first 7 days of therapy and then could be switched to oral VFEND therapy. | 9 mg/kg every 12 hours for the first 24 hours | 8 mg/kg every 12 hours after the first 24 hours | 9 mg/kg every 12 hours (maximum dose of 350 mg every 12 hours) |
+| Invasive AspergillosisIn the Phase 3 clinical trials, patients with IA received intravenous (IV) treatment for at least 6 weeks and up to a maximum of 12 weeks. Patients received IV treatment for at least the first 7 days of therapy and then could be switched to oral VFEND therapy. | 9 mg/kg every 12 hours for the first 24 hours | 8 mg/kg every 12 hours after the first 24 hours | 9 mg/kg every 12 hours (maximum dose of 350 mg every 12 hours) |
 | Candidemia in nonneutropenics and other deep tissue Candida infectionsStudy treatment for primary or salvage invasive candidiasis and candidemia (ICC) or EC consisted of intravenous VFEND, with an option to switch to oral therapy after at least 5 days of IV therapy, based on subjects meeting switch criteria. For subjects with primary or salvage ICC, VFEND was administered for at least 14 days after the last positive culture. A maximum of 42 days of treatment was permitted. Patients with primary or salvage EC were treated for at least 7 days after the resolution of clinical signs and symptoms. A maximum of 42 days of treatment was permitted. |  |  |  |
 | Scedosporiosis and Fusariosis |  |  |  |
 | Esophageal Candidiasis | Not Evaluated | 4 mg/kg every 12 hours | 9 mg/kg every 12 hours (maximum dose of 350 mg every 12 hours) |
