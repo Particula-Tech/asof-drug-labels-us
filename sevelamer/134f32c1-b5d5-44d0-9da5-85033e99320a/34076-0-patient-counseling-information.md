@@ -10,4 +10,10 @@ Disclaimer: Other brands listed are the registered trademarks of their respectiv
 
 Manufactured by: InvaGen Pharmaceuticals, Inc. (a subsidiary of Cipla Ltd.) Hauppauge, NY 11788
 
+Or
+
+Manufactured By:
+
+﻿Cipla Ltd., Kurkumbh, India
+
 Manufactured for: Cipla USA, Inc. 10 Independence Boulevard, Suite 300 Warren, NJ 07059 Rev: 05/2020
