@@ -165,10 +165,7 @@ Table 5: Protocol 305 – Patients with Esophageal Candidiasis Clinically Signif
 | AST | >3.0× ULN | 38/187 (20.3) | 15/186 (8.1) |
 | ALT | >3.0× ULN | 20/187 (10.7) | 12/186 (6.5) |
 | Alkaline Phosphatase | >3.0× ULN | 19/187 (10.2) | 14/186 (7.5) |
-| n = number of patients with a clinically significant abnormality while on study therapy |  |  |  |
-| N = total number of patients with at least one observation of the given lab test while on study therapy |  |  |  |
-| AST = Aspartate aminotransferase; ALT= alanine aminotransferase |  |  |  |
-| ULN = upper limit of normal |  |  |  |
+| n = number of patients with a clinically significant abnormality while on study therapy N = total number of patients with at least one observation of the given lab test while on study therapy AST = Aspartate aminotransferase; ALT= alanine aminotransferase ULN = upper limit of normal |  |  |  |
 
 Table 6: Protocol 307/602 – Primary Treatment of Invasive Aspergillosis Clinically Significant Laboratory Test Abnormalities
 
@@ -181,11 +178,7 @@ Table 6: Protocol 307/602 – Primary Treatment of Invasive Aspergillosis Clinic
 | Alkaline Phosphatase | >3.0× ULN | 29/181 (16.0) | 38/173 (22.0) |
 | Creatinine | >1.3× ULN | 39/182 (21.4) | 102/177 (57.6) |
 | Potassium | <0.9× LLN | 30/181 (16.6) | 70/178 (39.3) |
-| n = number of patients with a clinically significant abnormality while on study therapy |  |  |  |
-| N = total number of patients with at least one observation of the given lab test while on study therapy |  |  |  |
-| AST = Aspartate aminotransferase; ALT= alanine aminotransferase |  |  |  |
-| ULN = upper limit of normal |  |  |  |
-| LLN = lower limit of normal |  |  |  |
+| n = number of patients with a clinically significant abnormality while on study therapy N = total number of patients with at least one observation of the given lab test while on study therapy AST = Aspartate aminotransferase; ALT= alanine aminotransferase ULN = upper limit of normal LLN = lower limit of normal |  |  |  |
 
 Table 7: Protocol 608 – Treatment of Candidemia Clinically Significant Laboratory Test Abnormalities
 
@@ -198,11 +191,7 @@ Table 7: Protocol 608 – Treatment of Candidemia Clinically Significant Laborat
 | Alkaline Phosphatase | >3.0× ULN | 59/261 (22.6) | 26/115 (22.6) |
 | Creatinine | >1.3× ULN | 39/260 (15.0) | 32/118 (27.1) |
 | Potassium | <0.9× LLN | 43/258 (16.7) | 35/118 (29.7) |
-| n = number of patients with a clinically significant abnormality while on study therapy |  |  |  |
-| N = total number of patients with at least one observation of the given lab test while on study therapy |  |  |  |
-| AST = Aspartate aminotransferase; ALT = alanine aminotransferase |  |  |  |
-| ULN = upper limit of normal |  |  |  |
-| LLN = lower limit of normal |  |  |  |
+| n = number of patients with a clinically significant abnormality while on study therapy N = total number of patients with at least one observation of the given lab test while on study therapy AST = Aspartate aminotransferase; ALT = alanine aminotransferase ULN = upper limit of normal LLN = lower limit of normal |  |  |  |
 
 Clinical Trials Experience in Pediatric Patients
 
@@ -316,10 +305,7 @@ Table 9: Incidence of Hepatic Abnormalities among Pediatric Subjects
 | AST | >3.0× ULN | 16/103 (16) |
 | ALT | >3.0× ULN | 23/102 (23) |
 | Alkaline Phosphatase | >3.0× ULN | 8/97 (8) |
-| n = number of patients with a clinically significant abnormality while on study therapy |  |  |
-| N = total number of patients with at least one observation of the given lab test while on study therapy |  |  |
-| AST = Aspartate aminotransferase; ALT = alanine aminotransferase |  |  |
-| ULN = upper limit of normal |  |  |
+| n = number of patients with a clinically significant abnormality while on study therapy N = total number of patients with at least one observation of the given lab test while on study therapy AST = Aspartate aminotransferase; ALT = alanine aminotransferase ULN = upper limit of normal |  |  |
 
 ## 6.2 Postmarketing Experience in Adult and Pediatric Patients
 
@@ -328,11 +314,13 @@ Because these reactions are reported voluntarily from a population of uncertain 
 
 Adults
 
-Skeletal: fluorosis and periostitis have been reported during long-term voriconazole therapy [see Warnings and Precautions (5.11)].
+Skeletal: fluorosis and periostitis have been reported during long-term voriconazole therapy [see Warnings and Precautions (5.12)].
 
 Eye disorders: prolonged visual adverse reactions, including optic neuritis and papilledema [see Warnings and Precautions (5.4)].
 
 Skin and Appendages: drug reaction with eosinophilia and systemic symptoms (DRESS) has been reported [see Warnings and Precautions (5.5) and Adverse Reactions (6.1)].
+
+Endocrine disorders: adrenal insufficiency, Cushing's syndrome (when voriconazole has been used concomitantly with corticosteroids) [see Warnings and Precautions (5.8)].
 
 Pediatric Patients
 

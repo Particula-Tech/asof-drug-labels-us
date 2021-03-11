@@ -12,7 +12,7 @@ Do not administer as an IV bolus injection.
 Blood products and concentrated electrolytes
 
 VFEND I.V. must not be infused concomitantly with any blood product or short-term infusion of concentrated electrolytes, even if the two infusions are running in separate intravenous lines (or cannulas).
-Electrolyte disturbances such as hypokalemia, hypomagnesemia and hypocalcemia should be corrected prior to initiation of and during VFEND therapy [see Warnings and Precautions (5.9)].
+Electrolyte disturbances such as hypokalemia, hypomagnesemia and hypocalcemia should be corrected prior to initiation of and during VFEND therapy [see Warnings and Precautions (5.10)].
 
 Intravenous solutions containing (non-concentrated) electrolytes
 
@@ -201,9 +201,7 @@ Only clear solutions without particles should be used.
 
 The reconstituted solution can be diluted with:
 
-0.9% Sodium Chloride USP Lactated Ringers USP 5% Dextrose and Lactated Ringers USP 5% Dextrose and 0.45% Sodium Chloride USP 5% Dextrose USP 5% Dextrose and 20 mEq Potassium Chloride USP 0.45% Sodium Chloride USP 5% Dextrose and 0.9% Sodium Chloride USP
-
-The compatibility of VFEND I.V. with diluents other than those described above is unknown (see Incompatibilities below).
+0.9% Sodium Chloride USP Lactated Ringers USP 5% Dextrose and Lactated Ringers USP 5% Dextrose and 0.45% Sodium Chloride USP 5% Dextrose USP 5% Dextrose and 20 mEq Potassium Chloride USP 0.45% Sodium Chloride USP 5% Dextrose and 0.9% Sodium Chloride USP The compatibility of VFEND I.V. with diluents other than those described above is unknown (see Incompatibilities below).
 
 Parenteral drug products should be inspected visually for particulate matter and discoloration prior to administration, whenever solution and container permit.
 

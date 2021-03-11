@@ -13,3 +13,5 @@
 - Coadministration of VFEND with rifabutin is contraindicated since VFEND significantly increases rifabutin plasma concentrations and rifabutin also significantly decreases voriconazole plasma concentrations [see Drug Interactions (7) and Clinical Pharmacology (12.3)].
 - Coadministration of VFEND with ergot alkaloids (ergotamine and dihydroergotamine) is contraindicated because VFEND may increase the plasma concentration of ergot alkaloids, which may lead to ergotism [see Drug Interactions (7) and Clinical Pharmacology (12.3)].
 - Coadministration of VFEND with St. John's Wort is contraindicated because this herbal supplement may decrease voriconazole plasma concentration [see Drug Interactions (7) and Clinical Pharmacology (12.3)].
+- Coadministration of VFEND with naloxegol is contraindicated because VFEND may increase plasma concentrations of naloxegol which may precipitate opioid withdrawal symptoms [see Drug Interactions (7) and Clinical Pharmacology (12.3)].
+- Coadministration of VFEND with tolvaptan is contraindicated because VFEND may increase tolvaptan plasma concentrations and increase risk of adverse reactions [see Drug Interactions (7)].
