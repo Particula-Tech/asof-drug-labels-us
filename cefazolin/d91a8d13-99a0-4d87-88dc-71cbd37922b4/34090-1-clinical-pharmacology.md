@@ -2,7 +2,7 @@
 
 ## 12.1 Mechanism of Action
 
-Cefazolin is a cephalosporin antibacterial drug [see Microbiology (12.4)].
+Cefazolin is an antibacterial drug [see Microbiology (12.4)].
 
 ## 12.2 Pharmacodynamics
 
@@ -10,25 +10,24 @@ The pharmacokinetic/pharmacodynamic relationship for cefazolin has not been eval
 
 ## 12.3 Pharmacokinetics
 
-Studies have shown that following intravenous administration of cefazolin to normal volunteers, mean serum concentrations peaked at approximately 185 mcg/mL and were approximately 4 mcg/mL at 8 hours for a 1 g dose.
+Studies have shown that following intravenous administration of cefazolin to normal volunteers, mean serum concentrations peaked at approximately 185 mcg/mL and were approximately 4 mcg/mL at 8 hours for a 1 gram dose.
 
-The serum half-life for cefazolin is approximately 1.8 hours following intravenous administration.
+The serum half-life for cefazolin is approximately 1.8 hours following IV administration.
 
-In a study, using normal volunteers, of constant intravenous infusion with dosages of 3.5 mg/kg for 1 hour (approximately 250 mg) and 1.5 mg/kg the next 2 hours (approximately 100 mg), cefazolin produced a steady serum concentration at the third hour of approximately 28 mcg/mL.
+In a study of constant intravenous infusion with dosages of 3.5 mg/kg for 1 hour (approximately 250 mg) and 1.5 mg/kg the next 2 hours (approximately 100 mg), cefazolin serum concentrations at the third hour of approximately 28 mcg/mL.
 
-Plasma pharmacokinetic parameters of cefazolin in normal volunteers (N=12) following a single 15-minute intravenous infusion of 2 g of Cefazolin for injection and Dextrose injection are summarized in Table 1.
+Plasma pharmacokinetic parameters of cefazolin in healthy volunteers (N=12) following a single 15- minute IV infusion of 2 grams of cefazolin injection are summarized in Table 7.
 
-Table 1: Mean (Standard Deviation) Plasma Pharmacokinetic Parameters of Cefazolin in Normal Volunteers
+Table 7: Mean (Standard Deviation) Plasma Pharmacokinetic Parameters of Cefazolin in Healthy Volunteers
 
-|  | N | Cmax(mcg/mL) | TmaxTmax reported as median (range)(h) | AUCo-inf (mcgh/mL) | t1/2(h) | CL(L/h) | Vz(L) |
+|  | N | Cmax(mcg/mL) | Tmaxa(h) | AUC0-inf(mcg*h/mL) | T1/2(h) | CL(L/h) | Vz(L) |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| Single 2 g Dose as a 15-Minute IV Infusion | 12 | 280.9 (45.9) | 0.25 (0.25-0.33) | 509.9 (89.3) | 2.01 (0.28) | 4.03 (0.68) | 11.50 (1.53) |
+| Single 2 grams Dose as a 15- Minute IV Infusion | 12 | 280.9(45.9) | 0.25(0.25-0.33) | 509.9(89.3) | 2.01(0.28) | 4.03(0.68) | 11.50(1.53) |
+| a Tmax reported as median (range) |  |  |  |  |  |  |  |
 
-N= number of subjects observed; Cmax = maximum plasma concentration; Tmax = time to maximum plasma concentration; AUC0‑inf = area under the plasma concentration-time curve extrapolated to infinity; t1/2 = apparent plasma terminal elimination half-life; CL = total clearance; Vz = volume of distribution
+N= number of subjects observed; Cmax = maximum plasma concentration; Tmax = time to maximum plasma concentration; AUC0-inf = area under the plasma concentration-time curve extrapolated to infinity; t1/2 = apparent plasma terminal elimination half-life; CL = total clearance; Vz = volume of distribution
 
-Studies in patients hospitalized with infections indicate that cefazolin produces mean peak serum concentrations approximately equivalent to those seen in normal volunteers.
-
-Distribution
+Studies in patients hospitalized with infections indicate that cefazolin produces mean peak serum concentrations approximately equivalent to those seen in healthy volunteers.
 
 Bile concentrations in patients without obstructive biliary disease can reach or exceed serum concentrations by up to five times; however, in patients with obstructive biliary disease, bile concentrations of cefazolin are considerably lower than serum concentrations (less than 1.0 mcg/mL).
 
@@ -37,10 +36,11 @@ In synovial fluid, the cefazolin concentration becomes comparable to that reache
 Studies of cord blood show prompt transfer of cefazolin across the placenta.
 Cefazolin is present in very low concentrations in the milk of nursing mothers.
 
-Excretion
-
 Cefazolin is excreted unchanged in the urine.
 In the first 6 hours approximately 60% of the drug is excreted in the urine and this increases to 70% to 80% within 24 hours.
+
+Additional pediatric use information is approved for B. Braun Medical Inc.'s CEFAZOLIN FOR INJECTION AND DEXTROSE INJECTION.
+However, due to B. Braun Medical Inc.'s marketing exclusivity rights, this drug product is not labeled with that information.
 
 ## 12.4 Microbiology
 
@@ -50,16 +50,27 @@ Cefazolin is a bactericidal agent that acts by inhibition of bacterial cell wall
 
 Resistance
 
-Predominant mechanisms of bacterial resistance to cephalosporins include the presence of extended-spectrum beta-lactamases and enzymatic hydrolysis.
+Predominant mechanisms of bacterial resistance to cephalosporins include the presence of extended- spectrum beta-lactamases and enzymatic hydrolysis.
 
 Antimicrobial Activity
 
-Cefazolin has been shown to be active against most isolates of the following microorganisms:
+Cefazolin has been shown to be active against most isolates of the following microorganisms, both in vitro and in clinical infections as described in the INDICATIONS AND USAGE (1) section.
 
-Gram-positive Bacteria Staphylococcus aureus (methicillin-susceptible isolates only) Streptococcus agalactiae Streptococcus pyogenes
+1. Gram-Positive Bacteria
+2. Staphylococcus aureus
+3. Staphylococcus epidermidis
+4. Streptococcus agalactiae
+5. Streptococcus pneumoniae
+6. Streptococcus pyogenes
 
-Gram-negative Bacteria
+Methicillin-resistant staphylococci are uniformly resistant to cefazolin.
 
-Escherichia coli Proteus mirabilis
+1. Gram-Negative Bacteria
+2. Escherichia coli
+3. Proteus mirabilis
 
 Most isolates of indole positive Proteus (Proteus vulgaris), Enterobacter spp., Morganella morganii, Providencia rettgeri, Serratia spp., and Pseudomonas spp. are resistant to cefazolin.
+
+Susceptibility Testing
+
+For specific information regarding susceptibility test interpretive criteria, and associated test methods and quality control standards recognized by FDA for this drug, please see: http://www.fda.gov/STIC.
