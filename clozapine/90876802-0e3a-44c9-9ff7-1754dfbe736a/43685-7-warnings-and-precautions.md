@@ -29,11 +29,11 @@ Table 2: CLOZARIL Treatment Recommendations Based on Absolute Neutrophil Count (
 
 | ANC Level | CLOZARIL Treatment Recommendations | ANC Monitoring |
 | --- | --- | --- |
-| Normal range (≥1500/µL) | Initiate treatmentIf treatment interrupted: < 30 days, continue monitoring as before≥ 30 days, monitor as if new patient | Weekly from initiation to 6 months Every 2 weeks from 6 to 12 monthsMonthly after 12 months |
-| Discontinuation for reasons other than neutropenia | See Section 2.4 |  |
-| Mild Neutropenia (1000 to 1499/µL)* | Continue treatment | Three times weekly until ANC ≥1500/µLOnce ANC ≥1500/µL, return to patient’s last “Normal Range” ANC monitoring interval** |
-| Moderate Neutropenia (500 to 999/µL)* | Recommend hematology consultationInterrupt treatment for suspected clozapine induced neutropeniaResume treatment once ANC ≥1000/µL | Daily until ANC ≥1000/µL, thenThree times weekly until ANC ≥1500/µLOnce ANC ≥1500/µL, check ANC weekly for 4 weeks, then return to patient’s last “Normal Range” ANC monitoring interval** |
-| Severe Neutropenia (less than 500/µL)* | Recommend hematology consultationInterrupt treatment for suspected clozapine-induced neutropeniaDo not rechallenge unless prescriber determines benefits outweigh risks | Daily until ANC ≥1000/µL, thenThree times weekly until ANC ≥1500/µLIf patient rechallenged, resume treatment as a new patient under “Normal Range” monitoring once ANC ≥1500/µL |
+| Normal range (≥1500/µL) | •Initiate treatment•If treatment interrupted: •< 30 days, continue monitoring as before•≥ 30 days, monitor as if new patient | •Weekly from initiation to 6 months•Every 2 weeks from 6 to 12 months•Monthly after 12 months |
+| •Discontinuation for reasons other than neutropenia | •See Section 2.4 |  |
+| Mild Neutropenia (1000 to 1499/µL)* | •Continue treatment | •Three times weekly until ANC ≥1500/µL•Once ANC ≥1500/µL, return to patient’s last “Normal Range” ANC monitoring interval** |
+| Moderate Neutropenia (500 to 999/µL)* | •Recommend hematology consultation•Interrupt treatment for suspected clozapine induced neutropenia•Resume treatment once ANC ≥1000/µL | •Daily until ANC ≥1000/µL, then•Three times weekly until ANC ≥1500/µL•Once ANC ≥1500/µL, check ANC weekly for 4 weeks, then return to patient’s last “Normal Range” ANC monitoring interval** |
+| Severe Neutropenia (less than 500/µL)* | •Recommend hematology consultation•Interrupt treatment for suspected clozapine-induced neutropenia•Do not rechallenge unless prescriber determines benefits outweigh risks | •Daily until ANC ≥1000/µL, then•Three times weekly until ANC ≥1500/µL•If patient rechallenged, resume treatment as a new patient under “Normal Range” monitoring once ANC ≥1500/µL |
 
 * Confirm all initial reports of ANC less than 1500/ µL with a repeat ANC measurement within 24 hours ** If clinically appropriate
 
@@ -54,20 +54,20 @@ Table 3: Patients with Benign Ethnic Neutropenia (BEN); CLOZARIL Treatment Recom
 
 | ANC Level | Treatment Recommendations | ANC Monitoring |
 | --- | --- | --- |
-| Normal BEN Range (Established ANC baseline ≥1000/µL) | Obtain at least two baseline ANC levels before initiating treatmentIf treatment interrupted < 30 days, continue monitoring as before≥ 30 days, monitor as if new patient | Weekly from initiation to 6 monthsEvery 2 weeks from 6 to 12 monthsMonthly after 12 months |
-| Discontinuation of treatment for reasons other than neutropenia | See Section 2.4 |  |
-| BEN Neutropenia 500 to 999/µL* | Recommend hematology consultationContinue treatment | Three times weekly until ANC ≥ 1000/µL or ≥ patient’s known baselineOnce ANC ≥ 1000/µL or at patient’s known baseline, check ANC weekly for 4 weeks, then return to patient’s last “Normal BEN Range” ANC monitoring interval.** |
-| BEN Severe Neutropenia less than 500/µL* | Recommend hematology consultationInterrupt treatment for suspected clozapine-induced neutropeniaDo not rechallenge unless prescriber determines benefits outweigh risks | Daily until ANC ≥500/µL, thenThree times weekly until ANC ≥ patient’s baselineIf patient rechallenged, resume treatment as a new patient under “Normal Range” monitoring once ANC ≥1000/µL or at patient’s baseline |
+| Normal BEN Range (Established ANC baseline ≥1000/µL) | •Obtain at least two baseline ANC levels before initiating treatment•If treatment interrupted •< 30 days, continue monitoring as before•≥ 30 days, monitor as if new patient | •Weekly from initiation to 6 months•Every 2 weeks from 6 to 12 months•Monthly after 12 months |
+| •Discontinuation of treatment for reasons other than neutropenia | •See Section 2.4 |  |
+| BEN Neutropenia 500 to 999/µL* | •Recommend hematology consultation•Continue treatment | •Three times weekly until ANC ≥ 1000/µL or ≥ patient’s known baseline•Once ANC ≥ 1000/µL or at patient’s known baseline, check ANC weekly for 4 weeks, then return to patient’s last “Normal BEN Range” ANC monitoring interval.** |
+| BEN Severe Neutropenia less than 500/µL* | •Recommend hematology consultation•Interrupt treatment for suspected clozapine-induced neutropenia•Do not rechallenge unless prescriber determines benefits outweigh risks | •Daily until ANC ≥500/µL, then•Three times weekly until ANC ≥ patient’s baseline•If patient rechallenged, resume treatment as a new patient under “Normal Range” monitoring once ANC ≥1000/µL or at patient’s baseline |
 
 * Confirm all initial reports of ANC less than 1500/µL with a repeat ANC measurement within 24 hours ** If clinically appropriate
 
 General Guidelines for Management of All Patients with Fever or with Neutropenia
 
-- Fever: Interrupt CLOZARIL as a precautionary measure in any patient who develops fever, defined as a temperature of 38.5°C [101.3°F] or greater, and obtain an ANC level.
+- •Fever: Interrupt CLOZARIL as a precautionary measure in any patient who develops fever, defined as a temperature of 38.5°C [101.3°F] or greater, and obtain an ANC level.
   Fever is often the first sign of neutropenic infection.
-- ANC less than 1000/µL: If fever occurs in any patient with an ANC less than 1000/µL, initiate appropriate workup and treatment for infection and refer to Tables 2 or 3 for management.
-- Consider hematology consultation.
-- See Neuroleptic Malignant Syndrome [NMS] and Fever under WARNINGS and PRECAUTIONS (5) and Instructions for Patients, under PATIENT COUNSELING INFORMATION (17).
+- •ANC less than 1000/µL: If fever occurs in any patient with an ANC less than 1000/µL, initiate appropriate workup and treatment for infection and refer to Tables 2 or 3 for management.
+- •Consider hematology consultation.
+- •See Neuroleptic Malignant Syndrome [NMS] and Fever under WARNINGS and PRECAUTIONS (5) and Instructions for Patients, under PATIENT COUNSELING INFORMATION (17).
 
 Rechallenge after an ANC less than 500/µL (severe neutropenia)
 
@@ -90,9 +90,9 @@ CLOZARIL is only available through a restricted program under a REMS called the 
 
 Notable requirements of the Clozapine REMS Program include:
 
-- Healthcare professionals who prescribe CLOZARIL must be certified with the program by enrolling and completing training
-- Patients who receive CLOZARIL must be enrolled in the program and comply with the ANC testing and monitoring requirements
-- Pharmacies dispensing CLOZARIL must be certified with the program by enrolling and completing training and must only dispense to patients who are eligible to receive CLOZARIL
+- •Healthcare professionals who prescribe CLOZARIL must be certified with the program by enrolling and completing training
+- •Patients who receive CLOZARIL must be enrolled in the program and comply with the ANC testing and monitoring requirements
+- •Pharmacies dispensing CLOZARIL must be certified with the program by enrolling and completing training and must only dispense to patients who are eligible to receive CLOZARIL
 
 Further information is available at www.clozapinerems.com or 1-844-267-8678.
 
@@ -141,7 +141,7 @@ Myocarditis most frequently presents within the first 2 months of clozapine trea
 Symptoms of cardiomyopathy generally occur later than clozapine-associated myocarditis and usually after 8 weeks of treatment.
 However, myocarditis and cardiomyopathy can occur at any period during treatment with CLOZARIL.
 It is common for nonspecific flu-like symptoms such as malaise, myalgia, pleuritic chest pain, and low-grade fevers to precede more overt signs of heart failure.
-Typical laboratory findings include elevated troponin I or T, elevated creatinine kinase-MB, peripheral eosinophilia, and elevated C-reactive protein (CRP).
+Typical laboratory findings include elevated troponin I or T, elevated creatinine kinase‑MB, peripheral eosinophilia, and elevated C-reactive protein (CRP).
 Chest roentgenogram may demonstrate cardiac silhouette enlargement, and cardiac imaging (echocardiogram, radionucleotide studies, or cardiac catheterization) may reveal evidence of left ventricular dysfunction.
 In patients who are diagnosed with cardiomyopathy while taking CLOZARIL mitral valve incompetence has been reported.
 These cases reported either mild or moderate mitral regurgitation on two-dimensional echocardiography.
@@ -242,9 +242,9 @@ Categorical Changes in Fasting Glucose Level in Studies in Adult Subjects with S
 
 | Laboratory Parameter | Category Change (at least once) from baseline | Treatment Arm | N | n (%) |
 | --- | --- | --- | --- | --- |
-| Fasting Glucose | Normal(<100 mg/dL)toHigh (≥126 mg/dL) | CLOZARIL | 198 | 53 (27) |
+| Fasting Glucose | Normal (<100 mg/dL) to High (≥126 mg/dL) | CLOZARIL | 198 | 53 (27) |
 | Chlorpromazine | 135 | 14 (10) |  |  |
-| Borderline(100 to 125 mg/dL)toHigh (≥126 mg/dL) | CLOZARIL | 57 | 24 (42) |  |
+| Borderline (100 to 125 mg/dL) to High (≥126 mg/dL) | CLOZARIL | 57 | 24 (42) |  |
 | Chlorpromazine | 43 | 12 (28) |  |  |
 
 Dyslipidemia
@@ -278,17 +278,17 @@ Categorical Changes in Lipid Concentrations in Studies in Adult Subjects with Sc
 
 | Laboratory Parameter | Category Change (at least once) from baseline | Treatment Arm | N | n (%) |
 | --- | --- | --- | --- | --- |
-| Total Cholesterol(random or fasting) | Increase by ≥40 mg/dL | CLOZARIL | 334 | 111 (33) |
+| Total Cholesterol (random or fasting) | Increase by ≥40 mg/dL | CLOZARIL | 334 | 111 (33) |
 | Chlorpromazine | 185 | 46 (25) |  |  |
-| Normal (<200 mg/dL) toHigh (≥240 mg/dL) | CLOZARIL | 222 | 18 (8) |  |
+| Normal (<200 mg/dL) to High (≥240 mg/dL) | CLOZARIL | 222 | 18 (8) |  |
 | Chlorpromazine | 132 | 3 (2) |  |  |
-| Borderline(200 – 239 mg/dL) toHigh (≥240 mg/dL) | CLOZARIL | 79 | 30 (38) |  |
+| Borderline (200 – 239 mg/dL) to High (≥240 mg/dL) | CLOZARIL | 79 | 30 (38) |  |
 | Chlorpromazine | 34 | 14 (41) |  |  |
-| Triglycerides(fasting) | Increase by ≥50 mg/dL | CLOZARIL | 6 | 3 (50) |
+| Triglycerides (fasting) | Increase by ≥50 mg/dL | CLOZARIL | 6 | 3 (50) |
 | Chlorpromazine | 7 | 3 (43) |  |  |
-| Normal (<150 mg/dL) toHigh (≥200 mg/dL) | CLOZARIL | 4 | 0 (0) |  |
+| Normal (<150 mg/dL) to High (≥200 mg/dL) | CLOZARIL | 4 | 0 (0) |  |
 | Chlorpromazine | 6 | 2 (33) |  |  |
-| Borderline(≥150 mg/dL and<200 mg/dL) toHigh (≥200 mg/dL) | CLOZARIL | 1 | 1 (100) |  |
+| Borderline (≥150 mg/dL and <200 mg/dL) to High (≥200 mg/dL) | CLOZARIL | 1 | 1 (100) |  |
 | Chlorpromazine | 1 | 0 (0) |  |  |
 
 Weight Gain
@@ -301,7 +301,7 @@ The median duration of exposure was 609, 728, and 42 days, in the CLOZARIL, olan
 Table 7.
 Mean Change in Body Weight (kg) by Duration of Exposure from Studies in Adult Subjects with Schizophrenia
 
-| Metabolic parameter | Exposure duration | CLOZARIL(N=669) |  | Olanzapine (N=442) |  | Chlorpromazine (N=155) |  |
+| Metabolic parameter | Exposure duration | CLOZARIL (N=669) |  | Olanzapine (N=442) |  | Chlorpromazine (N=155) |  |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | n | Mean | n | Mean | n | Mean |  |  |
 | Weight change from baseline | 2 weeks (Day 11–17) | 6 | +0.9 | 3 | +0.7 | 2 | -0.5 |
