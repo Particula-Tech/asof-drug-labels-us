@@ -43,7 +43,7 @@ How should I store voriconazole oral suspension?
 
 This Instructions for Use has been approved by the U.S. Food and Drug Administration.
 
-This product's label may have been updated.
-For current full prescribing information, please visit www.greenstonellc.com.
+This product's labeling may have been updated.
+For the most recent prescribing information, please visit www.greenstonellc.com.
 
-LAB-1397-1.0 Revised: 05/2019
+LAB-1397-2.0 Revised: 01/2021

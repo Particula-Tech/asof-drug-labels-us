@@ -1,15 +1,3 @@
-# PRINCIPAL DISPLAY PANEL - 200 mg Tablet Bottle Label
-
-NDC 59762-0930-2 30 Tablets
-
-GREENSTONE® BRAND
-
-voriconazole tablets
-
-200 mg
-
-Rx only
-
 # PRINCIPAL DISPLAY PANEL - 40 mg Bottle Label
 
 NDC 59762-0935-3 75 mL (when reconstituted)
