@@ -86,14 +86,14 @@ Approved Pediatric Indications
 
 Schizophrenia
 
-The efficacy and safety of risperidone in the treatment of schizophrenia were demonstrated in 417 adolescents, aged 13 – 17 years, in two short-term (6 and 8 weeks, respectively) double-blind controlled trials [see Indications and Usage (1.1), Adverse Reactions (6.1), and Clinical Studies (14.1)].
+The efficacy and safety of risperidone in the treatment of schizophrenia were demonstrated in 417 adolescents, aged 13 to 17 years, in two short-term (6 and 8 weeks, respectively) double-blind controlled trials [see Indications and Usage (1.1), Adverse Reactions (6.1), and Clinical Studies (14.1)].
 Additional safety and efficacy information was also assessed in one long-term (6-month) open-label extension study in 284 of these adolescent patients with schizophrenia.
 
 Safety and effectiveness of risperidone in children less than 13 years of age with schizophrenia have not been established.
 
 Bipolar I Disorder
 
-The efficacy and safety of risperidone in the short-term treatment of acute manic or mixed episodes associated with Bipolar I Disorder in 169 children and adolescent patients, aged 10 – 17 years, were demonstrated in one double-blind, placebo-controlled, 3-week trial [see Indications and Usage (1.2), Adverse Reactions (6.1), and Clinical Studies (14.2)].
+The efficacy and safety of risperidone in the short-term treatment of acute manic or mixed episodes associated with Bipolar I Disorder in 169 children and adolescent patients, aged 10 to 17 years, were demonstrated in one double-blind, placebo-controlled, 3-week trial [see Indications and Usage (1.2), Adverse Reactions (6.1), and Clinical Studies (14.2)].
 
 Safety and effectiveness of risperidone in children less than 10 years of age with bipolar disorder have not been established.
 

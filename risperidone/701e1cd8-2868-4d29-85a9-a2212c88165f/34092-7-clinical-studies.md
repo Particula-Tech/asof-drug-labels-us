@@ -31,7 +31,7 @@ Patients receiving risperidone experienced a significantly longer time to relaps
 
 Pediatrics
 
-The efficacy of risperidone in the treatment of schizophrenia in adolescents aged 13–17 years was demonstrated in two short-term (6 and 8 weeks), double-blind controlled trials.
+The efficacy of risperidone in the treatment of schizophrenia in adolescents aged 13 to17 years was demonstrated in two short-term (6 and 8 weeks), double-blind controlled trials.
 All patients met DSM-IV diagnostic criteria for schizophrenia and were experiencing an acute episode at time of enrollment.
 In the first trial (study #1), patients were randomized into one of three treatment groups: risperidone 1–3 mg/day (n=55, mean modal dose = 2.6 mg), risperidone 4–6 mg/day (n=51, mean modal dose = 5.3 mg), or placebo (n=54).
 In the second trial (study #2), patients were randomized to either risperidone 0.15–0.6 mg/day (n=132, mean modal dose = 0.5 mg) or risperidone 1.5–6 mg/day (n=125, mean modal dose = 4 mg).
