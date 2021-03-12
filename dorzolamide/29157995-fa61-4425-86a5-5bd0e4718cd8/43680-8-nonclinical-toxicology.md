@@ -18,5 +18,5 @@ The topical ophthalmic dose in monkeys was approximately equivalent to the human
 
 The following tests for mutagenic potential were negative: (1) in vivo (mouse) cytogenetic assay; (2) in vitro chromosomal aberration assay; (3) alkaline elution assay; (4) V-79 assay; and (5) Ames test.
 
-In reproduction studies of dorzolamide hydrochloride in rats, there were no adverse effects on the reproductive capacity of males or females at doses of 15 and 7.5 mg/kg/day, respectively.
-These doses represent estimated plasma Cmax levels in rats, 104 and 52 times higher than the lower limit of detection in human plasma following ocular administration, respectively.
+In fertility studies of dorzolamide hydrochloride in rats, there were no adverse effects on the reproductive capacity of males or females at doses of 15 and 7.5 mg/kg/day, respectively.
+These doses represent estimated plasma Cmax levels in rats, 103 and 52 times higher than the lower limit of detection in human plasma following ocular administration, respectively.

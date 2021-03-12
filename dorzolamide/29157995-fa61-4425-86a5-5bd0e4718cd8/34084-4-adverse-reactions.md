@@ -1,10 +1,10 @@
 # 6 ADVERSE REACTIONS
 
-## 6.1 Clinical Studies Experience
+## 6.1 Clinical Trials Experience
 
 Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in practice.
 
-Controlled clinical trials
+Controlled Clinical Trials
 
 The most frequent adverse reactions associated with dorzolamide were ocular burning, stinging, or discomfort immediately following ocular administration (approximately one-third of patients).
 Approximately one-quarter of patients noted a bitter taste following administration.
@@ -14,7 +14,7 @@ Other ocular reactions and systemic reactions were reported infrequently, includ
 
 In a 3-month, double-masked, active-treatment-controlled, multicenter study in pediatric patients, the adverse reactions profile of dorzolamide was comparable to that seen in adult patients.
 
-## 6.2 Post-Marketing Experience
+## 6.2 PostMarketing Experience
 
 The following adverse reactions have been identified during post-approval use of dorzolamide.
 Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure: signs and symptoms of systemic allergic reactions including angioedema, bronchospasm, pruritus, and urticaria; Stevens-Johnson syndrome and toxic epidermal necrolysis; dizziness, paresthesia; ocular pain, transient myopia, choroidal detachment following filtration surgery, eyelid crusting; dyspnea; contact dermatitis, epistaxis, dry mouth and throat irritation.

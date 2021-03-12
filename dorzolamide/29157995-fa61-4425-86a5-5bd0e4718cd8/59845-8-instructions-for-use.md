@@ -61,6 +61,7 @@ How should I store Dorzolamide Hydrochloride Ophthalmic Solution?
 
 - •Store dorzolamide hydrochloride ophthalmic solution at 2° to 25°C (36° to 77°F).
 - •Protect from light
+- •After opening, dorzolamide hydrochloride ophthalmic solution can be used until the expiration date on the bottle
 - •Safely throw away medicine that is out of date or no longer needed.
 - KEEP DORZOLAMIDE HYDROCHLORIDE OPHTHALMIC SOLUTION AND ALL MEDICINES OUT OF THE REACH OF CHILDREN.
 - Important information about using Dorzolamide Hydrochloride Ophthalmic Solution
@@ -84,4 +85,4 @@ Fort Worth, Texas 76134 for
 Sandoz Inc., Princeton, NJ 08540
 
 Rev.
-May 2020
+January 2021
