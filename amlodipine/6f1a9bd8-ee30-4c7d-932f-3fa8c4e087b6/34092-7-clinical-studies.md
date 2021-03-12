@@ -45,7 +45,7 @@ The mean duration of follow-up was 19 months.
 The primary endpoint was the time to first occurrence of one of the following events: hospitalization for angina pectoris, coronary revascularization, myocardial infarction, cardiovascular death, resuscitated cardiac arrest, hospitalization for heart failure, stroke/TIA, or peripheral vascular disease.
 A total of 110 (16.6%) and 151 (23.1%) first events occurred in the amlodipine and placebo groups, respectively, for a hazard ratio of 0.691 (95% CI: 0.540–0.884, p = 0.003).
 The primary endpoint is summarized in Figure 1 below.
-The outcome of this study was largely derived from the prevention of hospitalizations for angina and the prevention of revascularization procedures (see Table 6).
+The outcome of this study was largely derived from the prevention of hospitalizations for angina and the prevention of revascularization procedures (see Table 8).
 Effects in various subgroups are shown in Figure 2.
 
 In an angiographic substudy (n=274) conducted within CAMELOT, there was no significant difference between amlodipine and placebo on the change of atheroma volume in the coronary artery as assessed by intravascular ultrasound.
@@ -56,10 +56,10 @@ Kaplan-Meier Analysis of Composite Clinical Outcomes for Amlodipine versus Place
 Figure 2.
 Effects on Primary Endpoint of Amlodipine versus Placebo across Sub-Groups
 
-Table 6 below summarizes the significant composite endpoint and clinical outcomes from the composites of the primary endpoint.
+Table 8 below summarizes the significant composite endpoint and clinical outcomes from the composites of the primary endpoint.
 The other components of the primary endpoint including cardiovascular death, resuscitated cardiac arrest, myocardial infarction, hospitalization for heart failure, stroke/TIA, or peripheral vascular disease did not demonstrate a significant difference between amlodipine and placebo.
 
-Table 6.
+Table 8.
 Incidence of Significant Clinical Outcomes for CAMELOT
 
 | Clinical Outcomes N (%) | Amlodipine (N=663) | Placebo (N=655) | Risk Reduction (p-value) |
@@ -127,13 +127,13 @@ Subjects were randomly assigned to either 10 mg/day or 80 mg/day of atorvastatin
 The primary endpoint was the time to first occurrence of any of the following major cardiovascular events (MCVE): death from CHD, non-fatal myocardial infarction, resuscitated cardiac arrest, and fatal and non-fatal stroke.
 The mean LDL-C, TC, TG, non-HDL, and HDL-C levels at 12 weeks were 73, 145, 128, 98, and 47 mg/dL during treatment with 80 mg of atorvastatin and 99, 177, 152, 129, and 48 mg/dL during treatment with 10 mg of atorvastatin.
 
-Treatment with atorvastatin 80 mg/day significantly reduced the rate of MCVE (434 events in the 80 mg/day group vs. 548 events in the 10 mg/day group) with a relative risk reduction of 22%, HR 0.78, 95% CI (0.69, 0.89), p=0.0002 (see Figure 5 and Table 7).
+Treatment with atorvastatin 80 mg/day significantly reduced the rate of MCVE (434 events in the 80 mg/day group vs. 548 events in the 10 mg/day group) with a relative risk reduction of 22%, HR 0.78, 95% CI (0.69, 0.89), p=0.0002 (see Figure 5 and Table 9).
 The overall risk reduction was consistent regardless of age (< 65, ≥ 65) or gender.
 
 Figure 5.
 Effect of Atorvastatin 80 mg/day vs. 10 mg/day on Time to Occurrence of Major Cardiovascular Events (TNT)
 
-Table 7.
+Table 9.
 Overview of Efficacy Results in TNT
 
 | PRIMARY ENDPOINT | n | (%) | n | (%) |  |
@@ -159,11 +159,11 @@ Overview of Efficacy Results in TNT
 | Suicide, homicide, and other traumatic non-CV death | 9 | (0.2) | 15 | (0.3) | 1.67 (0.73, 3.82) |
 | HR=hazard ratio; CHD=coronary heart disease; CI=confidence interval; MI=myocardial infarction; CHF=congestive heart failure; CV=cardiovascular; PVD=peripheral vascular disease; CABG=coronary artery bypass graft Confidence intervals for the Secondary Endpoints were not adjusted for multiple comparisons. |  |  |  |  |  |
 
-Of the events that comprised the primary efficacy endpoint, treatment with atorvastatin 80 mg/day significantly reduced the rate of non-fatal, non-procedure related MI and fatal and non-fatal stroke, but not CHD death or resuscitated cardiac arrest (Table 7).
+Of the events that comprised the primary efficacy endpoint, treatment with atorvastatin 80 mg/day significantly reduced the rate of non-fatal, non-procedure related MI and fatal and non-fatal stroke, but not CHD death or resuscitated cardiac arrest (Table 9).
 Of the predefined secondary endpoints, treatment with atorvastatin 80 mg/day significantly reduced the rate of coronary revascularization, angina, and hospitalization for heart failure, but not peripheral vascular disease.
 The reduction in the rate of CHF with hospitalization was only observed in the 8% of patients with a prior history of CHF.
 
-There was no significant difference between the treatment groups for all-cause mortality (Table 7).
+There was no significant difference between the treatment groups for all-cause mortality (Table 9).
 The proportions of subjects who experienced cardiovascular death, including the components of CHD death and fatal stroke, were numerically smaller in the atorvastatin 80 mg group than in the atorvastatin 10 mg treatment group.
 The proportions of subjects who experienced noncardiovascular death were numerically larger in the atorvastatin 80 mg group than in the atorvastatin 10 mg treatment group.
 
@@ -185,9 +185,9 @@ Therapeutic response is seen within 2 weeks, and maximum response is usually ach
 Atorvastatin is effective in a wide variety of patient populations with hyperlipidemia, with and without hypertriglyceridemia, in men and women, and in the elderly.
 
 In two multicenter, placebo-controlled, dose-response studies in patients with hyperlipidemia, atorvastatin given as a single dose over 6 weeks significantly reduced total-C, LDL-C, apo B, and TG.
-(Pooled results are provided in Table 8.)
+(Pooled results are provided in Table 10.)
 
-Table 8.
+Table 10.
 Dose Response in Patients with Primary Hyperlipidemia (Adjusted Mean % Change From Baseline)Results are pooled from 2 dose-response studies.
 
 | Dose | N | TC | LDL-C | Apo B | TG | HDL-C | Non-HDL-C/HDL-C |
@@ -202,9 +202,9 @@ In patients with Fredrickson Types IIa and IIb hyperlipoproteinemia pooled from 
 Additionally, analysis of the pooled data demonstrated consistent and significant decreases in total-C, LDL-C, TG, total-C/HDL-C, and LDL-C/HDL-C.
 
 In three multicenter, double-blind studies in patients with hyperlipidemia, atorvastatin was compared to other statins.
-After randomization, patients were treated for 16 weeks with either atorvastatin 10 mg per day or a fixed dose of the comparative agent (Table 9).
+After randomization, patients were treated for 16 weeks with either atorvastatin 10 mg per day or a fixed dose of the comparative agent (Table 11).
 
-Table 9.
+Table 11.
 Mean Percentage Change from Baseline at Endpoint (Double-Blind, Randomized, Active-Controlled Trials)
 
 | Treatment (Daily Dose) | N | Total-C | LDL-C | Apo B | TG | HDL-C | Non-HDL-C/ HDL-C |
@@ -222,16 +222,16 @@ Mean Percentage Change from Baseline at Endpoint (Double-Blind, Randomized, Acti
 | Simvastatin 10 mg | 45 | -24 | -30 | -30 | -15 | +7 | -33 |
 | 95% CI for Diff |  | -8.7, -2.7 | -10.1, -2.6 | -8.0, -1.1 | -15.1, -0.7 | -4.3, 3.9 | -9.6, -1.9 |
 
-The impact on clinical outcomes of the differences in lipid-altering effects between treatments shown in Table 9 is not known.
-Table 9 does not contain data comparing the effects of atorvastatin 10 mg and higher doses of lovastatin, pravastatin, and simvastatin.
+The impact on clinical outcomes of the differences in lipid-altering effects between treatments shown in Table 11 is not known.
+Table 11 does not contain data comparing the effects of atorvastatin 10 mg and higher doses of lovastatin, pravastatin, and simvastatin.
 The drugs compared in the studies summarized in the table are not necessarily interchangeable.
 
 ## 14.8 Atorvastatin for Hypertriglyceridemia
 
-The response to atorvastatin in 64 patients with isolated hypertriglyceridemia (Fredrickson Type IV) treated across several clinical trials is shown in the table below (Table 10).
+The response to atorvastatin in 64 patients with isolated hypertriglyceridemia (Fredrickson Type IV) treated across several clinical trials is shown in the table below (Table 12).
 For the atorvastatin-treated patients, median (min, max) baseline TG level was 565 (267–1502).
 
-Table 10.
+Table 12.
 Combined Patients with Isolated Elevated TG: Median (min, max) Percentage Change From Baseline
 
 |  | Placebo (N=12) | Atorvastatin 10 mg (N=37) | Atorvastatin 20 mg (N=13) | Atorvastatin 80 mg (N=14) |
@@ -245,9 +245,9 @@ Combined Patients with Isolated Elevated TG: Median (min, max) Percentage Change
 
 ## 14.9 Atorvastatin for Dysbetalipoproteinemia
 
-The results of an open-label crossover study of 16 patients (genotypes: 14 apo E2/E2 and 2 apo E3/E2) with dysbetalipoproteinemia (Fredrickson Type III) are shown in the table below (Table 11).
+The results of an open-label crossover study of 16 patients (genotypes: 14 apo E2/E2 and 2 apo E3/E2) with dysbetalipoproteinemia (Fredrickson Type III) are shown in the table below (Table 13).
 
-Table 11.
+Table 13.
 Open-Label Crossover Study of 16 Patients with Dysbetalipoproteinemia (Fredrickson Type III)
 
 |  |  | Median % Change (min, max) |  |
@@ -275,9 +275,9 @@ The mean baseline LDL-C value was 218.6 mg/dL (range: 138.5–385.0 mg/dL) in th
 The dosage of atorvastatin (once daily) was 10 mg for the first 4 weeks and uptitrated to 20 mg if the LDL-C level was > 130 mg/dL.
 The number of atorvastatin-treated patients who required uptitration to 20 mg after Week 4 during the double-blind phase was 78 (55.7 %).
 
-Atorvastatin significantly decreased plasma levels of total-C, LDL-C, TG, and apolipoprotein B during the 26-week double-blind phase (see Table 12).
+Atorvastatin significantly decreased plasma levels of total-C, LDL-C, TG, and apolipoprotein B during the 26-week double-blind phase (see Table 14).
 
-Table 12.
+Table 14.
 Lipid-Altering Effects of Atorvastatin in Adolescent Boys and Girls with Heterozygous Familial Hypercholesterolemia or Severe Hypercholesterolemia (Mean Percentage Change from Baseline at Endpoint in Intention-to-Treat Population)
 
 | DOSAGE | N | Total-C | LDL-C | HDL-C | TG | Apo B |
@@ -298,9 +298,9 @@ The reductions in LDL-C from baseline were generally consistent across age group
 
 In a double-blind, placebo-controlled study, a total of 1660 patients with co-morbid hypertension and dyslipidemia received once daily treatment with eight dose combinations of amlodipine and atorvastatin (5/10, 10/10, 5/20, 10/20, 5/40, 10/40, 5/80, or 10/80 mg), amlodipine alone (5 mg or 10 mg), atorvastatin alone (10 mg, 20 mg, 40 mg, or 80 mg), or placebo.
 In addition to concomitant hypertension and dyslipidemia, 15% of the patients had diabetes mellitus, 22% were smokers, and 14% had a positive family history of cardiovascular disease.
-At eight weeks, all eight combination-treatment groups of amlodipine and atorvastatin demonstrated statistically significant dose-related reductions in systolic blood pressure (SBP), diastolic blood pressure (DBP), and LDL-C compared to placebo, with no overall modification of effect of either component on SBP, DBP, and LDL-C (Table 13).
+At eight weeks, all eight combination-treatment groups of amlodipine and atorvastatin demonstrated statistically significant dose-related reductions in systolic blood pressure (SBP), diastolic blood pressure (DBP), and LDL-C compared to placebo, with no overall modification of effect of either component on SBP, DBP, and LDL-C (Table 15).
 
-Table 13.
+Table 15.
 Effects of Amlodipine and Atorvastatin on Blood Pressure and LDL-C
 
 | BP (mmHg) | Atorvastatin |  |  |  |  |

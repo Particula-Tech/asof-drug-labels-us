@@ -176,9 +176,9 @@ Atorvastatin is a substrate of the hepatic transporters, OATP1B1 and OATP1B3 tra
 Metabolites of atorvastatin are substrates of OATP1B1.
 Atorvastatin is also identified as a substrate of the efflux transporter BCRP, which may limit the intestinal absorption and biliary clearance of atorvastatin.
 
-Table 4 shows effects of other drugs on the pharmacokinetics of atorvastatin.
+Table 6 shows effects of other drugs on the pharmacokinetics of atorvastatin.
 
-Table 4.
+Table 6.
 Effect of Co-administered Drugs on the Pharmacokinetics of Atorvastatin
 
 |  | Dose (mg) | Ratio of AUCRepresents ratio of treatments (co-administered drug plus atorvastatin vs atorvastatin alone). | Ratio of Cmax |
@@ -231,9 +231,9 @@ Irrespective of the CYP3A5 genotype status, the possibility of an interaction ca
 
 Atorvastatin:
 
-Table 5 shows the effects of atorvastatin on the pharmacokinetics of other drugs.
+Table 7 shows the effects of atorvastatin on the pharmacokinetics of other drugs.
 
-Table 5.
+Table 7.
 Effect of Atorvastatin on the Pharmacokinetics of Co-administered Drugs
 
 |  | Drug/Dose (mg) | Ratio of AUC | Ratio of Cmax |
@@ -246,3 +246,5 @@ Effect of Atorvastatin on the Pharmacokinetics of Co-administered Drugs
 | 10 mg SD | Tipranavir 500 mg BIDTwice daily/ritonavir 200 mg BID, 7 days | 1.08 | 0.96 |
 | 10 mg QD for 4 days | Fosamprenavir 1400 mg BID, 14 days | 0.73 | 0.82 |
 | 10 mg QD for 4 days | Fosamprenavir 700 mg BID/ritonavir 100 mg BID, 14 days | 0.99 | 0.94 |
+
+Atorvastatin had no clinically significant effect on prothrombin time when administered to patients receiving chronic warfarin treatment.

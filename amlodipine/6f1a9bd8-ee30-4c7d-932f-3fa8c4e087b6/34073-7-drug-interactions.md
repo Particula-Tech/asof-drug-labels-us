@@ -32,84 +32,63 @@ Frequent monitoring of trough blood levels of cyclosporine and tacrolimus is rec
 
 Atorvastatin
 
-The risk of myopathy during treatment with statins is increased with concurrent administration of fibric acid derivatives, lipid-modifying doses of niacin, cyclosporine, or strong CYP3A4 inhibitors (e.g., clarithromycin, HIV and HCV protease inhibitors, and itraconazole) [see Warnings and Precautions (5.1) and Clinical Pharmacology (12.3)].
+## 7.3 Drug Interactions that may Increase the Risk of Myopathy and Rhabdomyolysis with Atorvastatin
 
-## 7.3 Strong Inhibitors of CYP3A4
+Atorvastatin is a substrate of CYP3A4 and transporters (e.g., OATP1B1/1B3, P-gp, or BCRP).
+Atorvastatin plasma levels can be significantly increased with concomitant administration of inhibitors of CYP3A4 and transporters.
+Table 3 includes a list of drugs that may increase exposure to atorvastatin and may increase the risk of myopathy and rhabdomyolysis when used concomitantly and instructions for preventing or managing them [see Warnings and Precautions (5.1) and Clinical Pharmacology (12.3)].
 
-Atorvastatin is metabolized by CYP3A4.
-Concomitant administration of atorvastatin with strong inhibitors of CYP3A4 can lead to increases in plasma concentrations of atorvastatin.
-The extent of interaction and potentiation of effects depend on the variability of effect on CYP3A4.
+Table 3.
+Drug Interactions that may Increase the Risk of Myopathy and Rhabdomyolysis with Atorvastatin
 
-Clarithromycin: Atorvastatin AUC was significantly increased with concomitant administration of atorvastatin 80 mg with clarithromycin (500 mg twice daily) compared to that of atorvastatin alone [see Clinical Pharmacology (12.3)].
-Therefore, in patients taking clarithromycin, avoid atorvastatin doses >20 mg [see Dosage and Administration (2) and Warnings and Precautions (5.1)].
+| Cyclosporine or Gemfibrozil |  |
+| --- | --- |
+| Clinical Impact: | Atorvastatin plasma levels were significantly increased with concomitant administration of atorvastatin and cyclosporine, an inhibitor of CYP3A4 and OATP1B1 [see Clinical Pharmacology (12.3)]. Gemfibrozil may cause myopathy when given alone. The risk of myopathy and rhabdomyolysis is increased with concomitant use of cyclosporine or gemfibrozil with atorvastatin |
+| Intervention: | Concomitant use of cyclosporine or gemfibrozil with atorvastatin is not recommended. |
+| Anti-Viral Medications |  |
+| Clinical Impact: | Atorvastatin plasma levels were significantly increased with concomitant administration of atorvastatin with many anti-viral medications, which are inhibitors of CYP3A4 and/or transporters (e.g., BCRP, OATP1B1/1B3, P-gp, MRP2, and/or OAT2) [see Clinical Pharmacology (12.3)]. Cases of myopathy and rhabdomyolysis have been reported with concomitant use of ledipasvir plus sofosbuvir with atorvastatin. |
+| Intervention: | Concomitant use of tipranavir plus ritonavir or glecaprevir plus pibrentasvir with atorvastatin is not recommended.In patients taking lopinavir plus ritonavir, or simeprevir, consider the risk/benefit of concomitant use with atorvastatin.In patients taking saquinavir plus ritonavir, darunavir plus ritonavir, fosamprenavir, fosamprenavir plus ritonavir, elbasvir plus grazoprevir or letermovir do not exceed atorvastatin 20 mg.In patients taking nelfinavir, do not exceed atorvastatin 40 mg [see Dosage and Administration (2)].Consider the risk/benefit of concomitant use of ledipasvir plus sofosbuvir with atorvastatinMonitor all patients for signs and symptoms of myopathy particularly during initiation of therapy and during upward dose titration of either drug. |
+| Examples: | Tipranavir plus ritonavir, glecaprevir plus pibrentasvir, lopinavir plus ritonavir, simeprevir, saquinavir plus ritonavir, darunavir plus ritonavir, fosamprenavir, fosamprenavir plus ritonavir, elbasvir plus grazoprevir, letermovir, nelfinavir, and ledipasvir plus sofosbuvir |
+| Select Azole Antifungals or Macrolide Antibiotics |  |
+| Clinical Impact: | Atorvastatin plasma levels were significantly increased with concomitant administration of atorvastatin with select azole antifungals or macrolide antibiotics, due to inhibition of CYP3A4 and/or transporters [see Clinical Pharmacology (12.3)]. |
+| Intervention: | In patients taking clarithromycin or itraconazole, do not exceed atorvastatin 20 mg [see Dosage and Administration (2)]. Consider the risk/benefit of concomitant use of other azole antifungals or macrolide antibiotics with atorvastatin. Monitor all patients for signs and symptoms of myopathy particularly during initiation of therapy and during upward dose titration of either drug. |
+| Examples: | Erythromycin, clarithromycin, itraconazole, ketoconazole, posaconazole, and voriconazole. |
+| Niacin |  |
+| Clinical Impact: | Cases of myopathy and rhabdomyolysis have been observed with concomitant use of lipid modifying dosages of niacin (≥1 gram/day niacin) with atorvastatin. |
+| Intervention: | Consider if the benefit of using lipid modifying dosages of niacin concomitantly with atorvastatin outweighs the increased risk of myopathy and rhabdomyolysis. If concomitant use is decided, monitor patients for signs and symptoms of myopathy particularly during initiation of therapy and during upward dose titration of either drug. |
+| Fibrates (other than Gemfibrozil) |  |
+| Clinical Impact: | Fibrates may cause myopathy when given alone. The risk of myopathy and rhabdomyolysis is increased with concomitant use of fibrates with atorvastatin. |
+| Intervention: | Consider if the benefit of using fibrates concomitantly with atorvastatin outweighs the increased risk of myopathy and rhabdomyolysis. If concomitant use is decided, monitor patients for signs and symptoms of myopathy particularly during initiation of therapy and during upward dose titration of either drug. |
+| Colchicine |  |
+| Clinical Impact: | Cases of myopathy and rhabdomyolysis have been reported with concomitant use of colchicine with atorvastatin. |
+| Intervention: | Consider the risk/benefit of concomitant use of colchicine with atorvastatin. If concomitant use is decided, monitor patients for signs and symptoms of myopathy particularly during initiation of therapy and during upward dose titration of either drug. |
+| Grapefruit Juice |  |
+| Clinical Impact: | Grapefruit juice consumption, especially excessive consumption, more than 1.2 liters/daily can raise the plasma levels of atorvastatin and may increase the risk of myopathy and rhabdomyolysis. |
+| Intervention: | Avoid intake of large quantities of grapefruit juice, more than 1.2 liters daily, when taking atorvastatin. |
 
-Combination of Protease Inhibitors: Atorvastatin AUC was significantly increased with concomitant administration of atorvastatin with several combinations of protease inhibitors [see Clinical Pharmacology (12.3)].
-In patients taking tipranavir plus ritonavir or glecaprevir plus pibrentasvir, concomitant use of atorvastatin should be avoided.
-In patients taking lopinavir plus ritonavir or simeprevir, use the lowest necessary atorvastatin dose.
-In patients taking saquinavir plus ritonavir, darunavir plus ritonavir, fosamprenavir, fosamprenavir plus ritonavir, or elbasvir plus grazoprevir, the dose of atorvastatin should not exceed 20 mg.
-In patients taking nelfinavir, the dose of atorvastatin should not exceed 40 mg and close clinical monitoring is recommended [see Dosage and Administration (2) and Warnings and Precautions (5.1)].
+## 7.4 Drug Interactions that may Decrease Exposure to Atorvastatin
 
-Itraconazole: Atorvastatin AUC was significantly increased with concomitant administration of atorvastatin 40 mg and itraconazole 200 mg [see Clinical Pharmacology (12.3)].
-Therefore, in patients taking itraconazole, avoid atorvastatin doses >20 mg [see Dosage and Administration (2) and Warnings and Precautions (5.1)].
+Table 4 presents drug interactions that may decrease exposure to atorvastatin and instructions for preventing or managing them.
 
-## 7.4 Grapefruit Juice
+Table 4.
+Drug Interactions that may Decrease Exposure to Atorvastatin
 
-Contains one or more components that inhibit CYP3A4 and can increase plasma concentrations of atorvastatin, especially with excessive grapefruit juice consumption (> 1.2 liters per day).
+| Rifampin |  |
+| --- | --- |
+| Clinical Impact: | Concomitant administration of atorvastatin with rifampin, an inducer of cytochrome P450 3A4 and inhibitor of OATP1B1, can lead to variable reductions in plasma concentrations of atorvastatin. Due to the dual interaction mechanism of rifampin, delayed administration of atorvastatin after administration of rifampin has been associated with a significant reduction in atorvastatin plasma concentrations. |
+| Intervention: | Administer atorvastatin and rifampin simultaneously. |
 
-## 7.5 Transporter Inhibitors
+## 7.5 Atorvastatin Effects on Other Drugs
 
-Atorvastatin is a substrate of the hepatic transporters.
-Atorvastatin-metabolites are substrates of the OATP1B1 transporter [see Clinical Pharmacology (12.3)].
+Table 5 presents atorvastatin's effect on other drugs and instructions for preventing or managing them.
 
-Cyclosporine: Inhibitors of the OATP1B1 (e.g., cyclosporine) can increase the bioavailability of atorvastatin.
-Atorvastatin AUC was significantly increased with concomitant administration of atorvastatin 10 mg and cyclosporine 5.2 mg/kg/day compared to that of atorvastatin alone [see Clinical Pharmacology (12.3)].
+Table 5.
+Atorvastatin Effects on Other Drugs
 
-The co-administration of atorvastatin with cyclosporine should be avoided [see Warnings and Precautions (5.1)].
-
-Concomitant administration of atorvastatin 20 mg and letermovir 480 mg daily resulted in an increase in exposure to atorvastatin (ratio of AUC: 3.29) [see Clinical Pharmacology (12.3)].
-Letermovir inhibits efflux transporters P-gp, BCRP, MRP2, OAT2 and hepatic transporter OATP1B1/1B3, thus it increases exposure to atorvastatin.
-Do not exceed 20 mg atorvastatin daily [see Dosage and Administration (2)].
-
-The magnitude of CYP3A- and OATP1B1/1B3-mediated drug interactions on co-administered drugs may be different when letermovir is co-administered with cyclosporine.
-Use of atorvastatin is not recommended in patients taking letermovir co-administered with cyclosporine.
-
-Concomitant administration of glecaprevir and pibrentasvir or elbasvir and grazoprevir may lead to increased plasma concentrations of atorvastatin and an increased risk of myopathy.
-
-Coadministration of glecaprevir and pibrentasvir with atorvastatin increase plasma concentrations of atorvastatin by 8.3-fold due in part to BCRP, OATP1B1/1B3, and CYP3A inhibition; therefore, coadministration of atorvastatin in patients receiving concomitant medications with products containing glecaprevir and pibrentasvir is not recommended.
-
-Coadministration of elbasvir and grazoprevir with atorvastatin increase plasma concentrations of atorvastatin by 1.9-fold due in part to BCRP, OATP1B1/1B3, and CYP3A inhibition; therefore, the dose of atorvastatin should not exceed 20 mg daily in patients receiving concomitant medications with products containing elbasvir and grazoprevir [see Dosage and Administration (2), Warnings and Precautions (5.1), and Clinical Pharmacology (12.3)].
-
-## 7.6 Gemfibrozil
-
-Because of an increased risk of myopathy/rhabdomyolysis when HMG-CoA reductase inhibitors are co-administered with gemfibrozil, avoid concomitant administration of atorvastatin with gemfibrozil [see Warnings and Precautions (5.1)].
-
-## 7.7 Other Fibrates
-
-The risk of myopathy during treatment with HMG-CoA reductase inhibitors is increased with concurrent administration of other fibrates [see Warnings and Precautions (5.1)].
-
-## 7.8 Niacin
-
-The risk of skeletal muscle effects may be enhanced when atorvastatin is used in combination with niacin; consider a reduction in atorvastatin dosage in this setting [see Warnings and Precautions (5.1)].
-
-## 7.9 Rifampin or other Inducers of CYP3A4
-
-Concomitant administration of atorvastatin with inducers of CYP3A4 (e.g., efavirenz, rifampin) can lead to variable reductions in plasma concentrations of atorvastatin.
-Because of the dual interaction mechanism of rifampin, simultaneous co-administration of atorvastatin with rifampin is recommended, as delayed administration of atorvastatin after administration of rifampin has been associated with a significant reduction in atorvastatin plasma concentrations.
-
-## 7.10 Digoxin
-
-When multiple doses of atorvastatin and digoxin were co-administered, steady-state plasma digoxin concentrations increased [see Clinical Pharmacology (12.3)].
-Monitor digoxin levels.
-
-## 7.11 Oral Contraceptives
-
-Co-administration of atorvastatin and an oral contraceptive increased AUC values for norethindrone and ethinyl estradiol [see Clinical Pharmacology (12.3)].
-Consider these increases when selecting an oral contraceptive for a woman taking CADUET.
-
-## 7.12 Warfarin
-
-Atorvastatin had no clinically significant effect on prothrombin time when administered to patients receiving chronic warfarin treatment.
-
-## 7.13 Colchicine
-
-Cases of myopathy, including rhabdomyolysis, have been reported with atorvastatin co-administered with colchicine.
+| Oral Contraceptives |  |
+| --- | --- |
+| Clinical Impact: | Co-administration of atorvastatin and an oral contraceptive increased plasma concentrations of norethindrone and ethinyl estradiol [see Clinical Pharmacology (12.3)]. |
+| Intervention: | Consider this when selecting an oral contraceptive for patients taking atorvastatin. |
+| Digoxin |  |
+| Clinical Impact: | When multiple doses of atorvastatin and digoxin were co-administered, steady state plasma digoxin concentrations increased [see Clinical Pharmacology (12.3)]. |
+| Intervention: | Monitor patients taking digoxin appropriately. |

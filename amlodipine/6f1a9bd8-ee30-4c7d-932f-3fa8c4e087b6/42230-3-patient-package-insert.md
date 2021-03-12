@@ -1,8 +1,6 @@
 # PATIENT INFORMATION
 
-Caduet® amlodipine besylate/atorvastatin calcium from 2.5mg/10mg to 10mg/80mg tablets
-
-(CAD-oo-et)
+CADUET® (CAD-oo-et) (amlodipine and atorvastatin) Tablets
 
 Read the patient information that comes with CADUET before you start taking it, and each time you get a refill.
 There may be new information.
@@ -130,7 +128,6 @@ Call your doctor right away if:
 - you feel more tired than usual
 - your skin and white of your eyes get yellow
 - you have allergic skin reactions
-
 - Chest pain that does not go away or gets worse.
   Sometimes when you start CADUET or increase your dose, chest pain can get worse or a heart attack can happen.
   If this happens, call your doctor or go to the emergency room right away.
@@ -209,4 +206,4 @@ Inactive ingredients: calcium carbonate, croscarmellose sodium, microcrystalline
 
 Film coating: Opadry® II White 85F28751 (polyvinyl alcohol, titanium dioxide, PEG 3000, and talc) or Opadry® II Blue 85F10919 (polyvinyl alcohol, titanium dioxide, PEG 3000, talc, and FD&C blue #2)
 
-LAB-0347-11.0 Revised December 2019
+LAB-0347-12.0 Revised December 2020

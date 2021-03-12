@@ -50,8 +50,7 @@ Patients with Renal Impairment: Renal disease does not affect the plasma concent
 Use with Cyclosporine, Clarithromycin, Itraconazole, Letermovir, or Certain Protease Inhibitors: In patients taking cyclosporine or the human immunodeficiency virus (HIV) protease inhibitor tipranavir plus ritonavir or the hepatitis C virus (HCV) protease inhibitor glecaprevir plus pibrentasvir, or letermovir when co-administered with cyclosporine, therapy with atorvastatin should be avoided.
 In patients with HIV taking lopinavir plus ritonavir, use the lowest dose necessary of atorvastatin.
 In patients taking clarithromycin, itraconazole, elbasvir plus grazoprevir, or in patients with HIV taking a combination of saquinavir plus ritonavir, darunavir plus ritonavir, fosamprenavir, fosamprenavir plus ritonavir, or letermovir therapy with atorvastatin should be limited to 20 mg, and appropriate clinical assessment is recommended to ensure that the lowest dose necessary of atorvastatin is used.
-In patients taking the HIV protease inhibitor nelfinavir therapy with atorvastatin should be limited to 40 mg.
-When co-prescribing atorvastatin with other protease inhibitors, appropriate clinical assessment is recommended to ensure that the lowest dose necessary of atorvastatin is used [see Warnings and Precautions (5.1), Drug Interactions (7)].
+In patients taking the HIV protease inhibitor nelfinavir therapy with atorvastatin should be limited to 40 mg [see Warnings and Precautions (5.1), Drug Interactions (7.3)].
 
 Heterozygous Familial Hypercholesterolemia in Pediatric Patients (10 Years to 17 Years of Age): The recommended starting dose of atorvastatin is 10 mg/day; the usual dose range is 10 to 20 mg orally once daily [see Clinical Studies (14.11)].
 Doses should be individualized according to the recommended goal of therapy [see Indications and Usage (1.4) and Clinical Pharmacology (12)].

@@ -2,7 +2,7 @@
 
 The following serious adverse reactions are discussed in greater detail in other sections of the label:
 
-- Rhabdomyolysis and myopathy [see Warnings and Precautions (5.1)]
+- Myopathy and Rhabdomyolysis [see Warnings and Precautions (5.1)]
 - Liver enzyme abnormalities [see Warnings and Precautions (5.3)]
 
 ## 6.1 Clinical Trials Experience
@@ -11,7 +11,7 @@ Because clinical trials are conducted under widely varying conditions, adverse r
 
 CADUET
 
-CADUET (amlodipine besylate/atorvastatin calcium) has been evaluated for safety in 1,092 patients in double-blind placebo-controlled studies treated for co-morbid hypertension and dyslipidemia.
+CADUET (amlodipine/atorvastatin) has been evaluated for safety in 1,092 patients in double-blind placebo-controlled studies treated for co-morbid hypertension and dyslipidemia.
 In general, treatment with CADUET was well tolerated.
 For the most part, adverse reactions have been mild or moderate in severity.
 In clinical trials with CADUET, no adverse reactions peculiar to this combination have been observed.
@@ -87,9 +87,9 @@ The five most common adverse reactions in patients treated with atorvastatin tha
 
 The most commonly reported adverse reactions (incidence ≥ 2% and greater than placebo) regardless of causality, in patients treated with atorvastatin in placebo-controlled trials (n=8,755) were: nasopharyngitis (8.3%), arthralgia (6.9%), diarrhea (6.8%), pain in extremity (6.0%), and urinary tract infection (5.7%).
 
-Table 3 summarizes the frequency of clinical adverse reactions, regardless of causality, reported in ≥ 2% and at a rate greater than placebo in patients treated with atorvastatin (n=8,755), from seventeen placebo-controlled trials.
+Table 2 summarizes the frequency of clinical adverse reactions, regardless of causality, reported in ≥ 2% and at a rate greater than placebo in patients treated with atorvastatin (n=8,755), from seventeen placebo-controlled trials.
 
-Table 3.
+Table 2.
 Clinical Adverse Reactions Occurring in ≥ 2% in Patients Treated with Any Dose of Atorvastatin and at an Incidence Greater than Placebo Regardless of Causality (% of Patients)
 
 | Adverse ReactionAdverse Reaction ≥ 2% in any dose greater than placebo. | Any dose N=8755 | 10 mg N=3908 | 20 mg N=188 | 40 mg N=604 | 80 mg N=4055 | Placebo N=7311 |

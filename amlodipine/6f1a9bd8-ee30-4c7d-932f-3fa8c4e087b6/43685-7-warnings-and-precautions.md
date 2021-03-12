@@ -2,34 +2,29 @@
 
 ## 5.1 Myopathy and Rhabdomyolysis
 
-Rare cases of rhabdomyolysis with acute renal failure secondary to myoglobinuria have been reported with atorvastatin and with other drugs in this class.
-A history of renal impairment may be a risk factor for the development of rhabdomyolysis.
-Such patients merit closer monitoring for skeletal muscle effects.
+CADUET may cause myopathy (muscle pain, tenderness, or weakness with creatine kinase (CK) above ten times the upper limit of normal) and rhabdomyolysis (with or without acute renal failure secondary to myoglobinuria).
+Rare fatalities have occurred as a result of rhabdomyolysis with statin use, including CADUET.
 
-Atorvastatin, like other statins, occasionally causes myopathy, defined as muscle aches or muscle weakness in conjunction with increases in creatine phosphokinase (CPK) values > 10 times upper limit of normal [ULN].
-The concomitant use of higher doses of atorvastatin with certain drugs such as cyclosporine and strong cytochrome P450 3A4 (CYP3A4) inhibitors (e.g., clarithromycin, itraconazole, and HIV and HCV protease inhibitors) increases the risk of myopathy/rhabdomyolysis.
+Risk Factors for Myopathy
 
-Myopathy should be considered in any patient with diffuse myalgias, muscle tenderness or weakness, or marked elevation of CPK.
-Patients should be advised to report promptly unexplained muscle pain, tenderness, or weakness, particularly if accompanied by malaise or fever or if muscle signs and symptoms persist after discontinuing CADUET.
-CADUET therapy should be discontinued if markedly elevated CPK levels occur or myopathy is diagnosed or suspected.
+Risk factors for myopathy include age 65 years or greater, uncontrolled hypothyroidism, renal impairment, concomitant use with certain other drugs, and higher CADUET dosage [see Drug Interactions (7.3)].
 
-The risk of myopathy during treatment with statins is increased with concurrent administration of the drugs listed in Table 2.
-Physicians considering combined therapy of CADUET with any of these drugs should carefully weigh the potential benefits and risks and should carefully monitor patients for any signs or symptoms of muscle pain, tenderness, or weakness, particularly during the initial months of therapy and during any periods of upward dosage titration of either drug.
-Lower starting and maintenance doses of atorvastatin should be considered when taken concomitantly with the aforementioned drugs [see Drug Interactions (7)].
-Periodic creatine phosphokinase (CPK) determinations may be considered in such situations, but there is no assurance that such monitoring will prevent the occurrence of severe myopathy.
+Steps to Prevent or Reduce the Risk of Myopathy and Rhabdomyolysis
 
-Prescribing recommendations for interacting agents are summarized in Table 2 [see Dosage and Administration (2), Drug Interactions (7), and Clinical Pharmacology (12.3)].
+CADUET exposure may be increased by drug interactions due to inhibition of cytochrome P450 enzyme 3A4 (CYP3A4) and/or transporters (e.g., breast cancer resistant protein [BCRP], organic anion-transporting polypeptide [OATP1B1/OATP1B3] and P-glycoprotein [P-gp]), resulting in an increased risk of myopathy and rhabdomyolysis.
+Concomitant use of cyclosporine, gemfibrozil, tipranavir plus ritonavir or glecaprevir plus pibrentasvir with CADUET is not recommended.
+CADUET dosage modifications are recommended for patients taking certain anti-viral, azole antifungals, or macrolide antibiotic medications [see Dosage and Administration (2)].
+Cases of myopathy/rhabdomyolysis have been reported with atorvastatin co-administered with lipid modifying doses (>1 gram/day) of niacin, fibrates, colchicine, and ledipasvir plus sofosbuvir.
+Consider if the benefit of use of these products outweighs the increased risk of myopathy and rhabdomyolysis [see Drug Interactions (7.3)].
 
-Table 2.
-Atorvastatin Drug Interactions Associated with Increased Risk of Myopathy/Rhabdomyolysis
+Concomitant intake of large quantities, more than 1.2 liters daily, of grapefruit juice is not recommended in patients taking CADUET [see Drug Interactions (7.3)].
 
-| Cyclosporine, tipranavir plus ritonavir, glecaprevir plus pibrentasvir, letermovir when co-administered with cyclosporine | Avoid atorvastatin |
-| --- | --- |
-| Clarithromycin, itraconazole, saquinavir plus ritonavirUse the lowest dose necessary (12.3), darunavir plus ritonavir, fosamprenavir, fosamprenavir plus ritonavir, elbasvir plus grazoprevir, letermovir | Do not exceed 20 mg atorvastatin daily |
-| Nelfinavir | Do not exceed 40 mg atorvastatin daily |
-| Lopinavir plus ritonavir, simeprevir, fibric acid derivatives, erythromycin, azole antifungals, lipid-modifying doses of niacin, colchicine | Use with caution and lowest dose necessary |
+Discontinue CADUET if markedly elevated CK levels occur or myopathy is diagnosed or suspected.
+Muscle symptoms and CK increases may resolve if CADUET is discontinued.
+Temporarily discontinue CADUET in patients experiencing an acute or serious condition at high risk of developing renal failure secondary to rhabdomyolysis (e.g., sepsis; shock; severe hypovolemia; major surgery; trauma; severe metabolic, endocrine, or electrolyte disorders; or uncontrolled epilepsy).
 
-Withhold or discontinue in any patient with an acute, serious condition suggestive of a myopathy or having a risk factor predisposing to the development of renal failure secondary to rhabdomyolysis (e.g., severe acute infection; hypotension; major surgery; trauma; severe metabolic, endocrine, and electrolyte disorders; and uncontrolled seizures).
+Inform patients of the risk of myopathy and rhabdomyolysis when starting or increasing the CADUET dosage.
+Instruct patients to promptly report any unexplained muscle pain, tenderness or weakness, particularly if accompanied by malaise or fever.
 
 ## 5.2 Immune-Mediated Necrotizing Myopathy
 

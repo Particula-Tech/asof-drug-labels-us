@@ -5,7 +5,8 @@
 Amlodipine
 
 Rats and mice treated with amlodipine maleate in the diet for up to two years, at concentrations calculated to provide daily dosage levels of 0.5, 1.25, and 2.5 mg amlodipine/kg/day, showed no evidence of a carcinogenic effect of the drug.
-For the mouse, the highest dose was, on a mg/m2 basis, similar to the MRHD of 10 mg amlodipine/day.4 For the rat, the highest dose level was, on a mg/m2 basis, about twice the MRHD.Based on patient weight of 50 kg.
+For the mouse, the highest dose was, on a mg/m2 basis, similar to the MRHD of 10 mg amlodipine/day.Based on patient weight of 50 kg.
+For the rat, the highest dose level was, on a mg/m2 basis, about twice the MRHD.
 
 Mutagenicity studies conducted with amlodipine maleate revealed no drug related effects at either the gene or chromosome levels.
 
