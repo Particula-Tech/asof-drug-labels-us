@@ -18,7 +18,7 @@ Each patch of 15 cm2 contains 27 mg rivastigmine base with in vivo release rate 
 
 1. Carton of 30………………………..NDC 0781-7313-31
 
-Store at 25°C (77°F); excursions permitted to 15°C to 30°C (59°F-86°F) [see USP Controlled Room Temperature].
+Store at 20°C to 25°C (68°F to 77°F); excursions permitted between 15°C and 30°C (59°F and 86°F) [see USP Controlled Room Temperature].
 Keep rivastigmine transdermal system in the individual sealed pouch until use.
 Each pouch contains 1 patch.
 Used systems should be folded, with the adhesive surfaces pressed together, and discarded safely.

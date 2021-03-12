@@ -29,7 +29,7 @@ In case of accidental contact with the eyes, or if their eyes become red after h
 
 Gastrointestinal Adverse Reactions
 
-Inform patients or caregivers of the potential gastrointestinal adverse reactions such as nausea, vomiting, and diarrhea, including the possibility of dehydration due to these symptoms.
+Inform patients or caregivers of the potential gastrointestinal adverse reactions, such as nausea, vomiting, and diarrhea, including the possibility of dehydration due to these symptoms.
 Explain that rivastigmine transdermal system may affect the patient’s appetite and/or the patient’s weight.
 Patients and caregivers should be instructed to look for these adverse reactions, in particular when treatment is initiated or the dose is increased.
 Instruct patients and caregivers to inform a physician if these adverse reactions persist [see Warnings and Precautions (5.2)].
@@ -49,4 +49,4 @@ Advise patients to notify their healthcare provider if they are pregnant or plan
 
 Distributed by: Sandoz Inc. Princeton, NJ 08540
 
-T2019-03
+T2020-99

@@ -32,7 +32,7 @@ Figure 2: Rivastigmine Plasma Concentrations Following Dermal 24-Hour Patch Appl
 
 Over a 24-hour dermal application, approximately 50% of the drug content of the patch is released from the system.
 
-Exposure area under the plasma concentration-time curve from time zero to infinity (AUC∞) to rivastigmine (and metabolite NAP266-90) was highest when the patch was applied to the upper back, chest, or upper arm.
+Exposure area under the plasma concentration-time curve from time zero to infinity (AUC∞) to rivastigmine (and metabolite NAP226-90) was highest when the patch was applied to the upper back, chest, or upper arm.
 Two other sites (abdomen and thigh) could be used if none of the 3 other sites is available, but the practitioner should be aware that the rivastigmine plasma exposure associated with these sites was approximately 20% to 30% lower.
 
 There was no relevant accumulation of rivastigmine or the metabolite NAP226-90 in plasma in patients with Alzheimer’s disease with daily dosing.
@@ -48,7 +48,7 @@ It has an apparent volume of distribution in the range of 1.8 to 2.7 L/kg.
 Metabolism
 
 Rivastigmine is extensively metabolized primarily via cholinesterase-mediated hydrolysis to the decarbamylated metabolite NAP226-90.
-In vitro, this metabolite shows minimal inhibition of acetylcholinesterase (<10%).
+In vitro, this metabolite shows minimal inhibition of acetylcholinesterase (less than 10%).
 Based on evidence from in vitro and animal studies, the major cytochrome P450 isoenzymes are minimally involved in rivastigmine metabolism.
 
 The metabolite-to-parent AUC∞ ratio was about 0.7 after rivastigmine transdermal system application versus 3.5 after oral administration, indicating that much less metabolism occurred after dermal treatment.
@@ -83,7 +83,7 @@ Compared to a patient with a body weight of 65 kg, the rivastigmine steady-state
 Renal Impairment
 
 No study was conducted with rivastigmine transdermal system in subjects with renal impairment.
-Based on population analysis, creatinine clearance did not show any clear effect on steady state concentrations of rivastigmine or its metabolite.
+Based on population analysis, creatinine clearance did not show any clear effect on steady-state concentrations of rivastigmine or its metabolite.
 
 Hepatic Impairment
 

@@ -35,7 +35,7 @@ Adverse Reactions Observed at an Incidence of Greater than or Equal to 2%
 Table 1 lists adverse reactions seen at an incidence of greater than or equal to 2% in either rivastigmine transdermal system-treated group in Study 1, and for which the rate of occurrence was greater for patients treated with that dose of rivastigmine transdermal system than for those treated with placebo.
 The unapproved 17.4 mg/24 hours rivastigmine transdermal system arm is included to demonstrate the increased rates of gastrointestinal adverse reactions over those seen with the 9.5 mg/24 hours rivastigmine transdermal system.
 
-Table 1: Proportion of Adverse Reactions Observed with a Frequency of Greater Than or Equal to 2% and Occurring at a Rate Greater Than Placebo in Study 1
+Table 1: Proportion of Adverse Reactions Observed With a Frequency of Greater Than or Equal to 2% and Occurring at a Rate Greater Than Placebo in Study 1
 
 |  | Rivastigmine Transdermal System 9.5 mg/24 hours | Rivastigmine Transdermal System 17.4 mg/24 hours | Rivastigmine Tartrate Capsule 6 mg twice daily | Placebo |
 | --- | --- | --- | --- | --- |
@@ -99,7 +99,7 @@ Other adverse reactions of interest which occurred less frequently, but which we
 The percentage of patients with these reactions decreased over time in each treatment group (Table 3).
 The adverse reaction severity profile was generally similar for both the rivastigmine transdermal system 13.3 mg/24 hours and 9.5 mg/24 hours groups.
 
-Table 3: Proportion of Adverse Reactions Over Time in the 48-week Double-Blind Treatment Phase (at least 3% in any Treatment Group) in Study 2
+Table 3: Proportion of Adverse Reactions Over Time in the 48-week Double-Blind Treatment Phase (at least 3% in any treatment group) in Study 2
 
 |  | Cumulative Week 0 to 48 (DB Phase) |  | Week 0 to 24 (DB Phase) |  | Week >24 to 48 (DB Phase) |  |
 | --- | --- | --- | --- | --- | --- | --- |
@@ -140,7 +140,7 @@ Severe Alzheimer’s Disease
 Most Commonly Observed Adverse Reactions
 
 The most common adverse reactions in patients administered rivastigmine transdermal system in the controlled clinical trial, defined as those occurring at a frequency of at least 5% in the 13.3 mg/24 hours rivastigmine transdermal system arm and at a frequency higher than in the 4.6 mg/24 hours rivastigmine transdermal system were application-site erythema, fall, insomnia, vomiting, diarrhea, weight decreased, and nausea (Table 4).
-Patients in the lower dose group reported more events of agitation, urinary tract infection, and hallucinations than patients in the higher dose group.
+Patients in the lower-dose group reported more events of agitation, urinary tract infection, and hallucinations than patients in the higher-dose group.
 
 Discontinuation Rates
 
@@ -154,10 +154,10 @@ Most Commonly Observed Adverse Reactions Greater than or Equal to 5%
 Other adverse reactions of interest, which were observed in a higher percentage of patients in the rivastigmine transdermal system 13.3 mg/24 hours group than in the rivastigmine transdermal system 4.6 mg/24 hours group, included application-site erythema, fall, insomnia, vomiting, diarrhea, weight decreased, and nausea (Table 4).
 Overall, the majority of patients in this study experienced adverse reactions that were mild (30.7%) or moderate (32.1%) in severity.
 Slightly more patients in the 4.6 mg/24 hours patch group reported mild events than in the 13.3 mg/24 hours patch group, while the numbers of patients reporting moderate events were comparable between groups.
-Severe adverse reactions were reported at a slightly higher percentage at the higher dose (12.4%) than at the lower dose (10%) treatment groups.
+Severe adverse reactions were reported at a slightly higher percentage at the higher dose (12.4%) than at the lower-dose (10%) treatment groups.
 With the exception of severe adverse reactions of agitation (13.3 mg: 1.1%; 4.6 mg: 1.4%), fall (13.3 mg: 1.1%) and urinary tract infection (4.6 mg: 1.1%), all adverse reactions reported as severe occurred in less than 1% of patients in either treatment group.
 
-Table 4: Proportion of Adverse Reactions in the 24-week Double Blind-Treatment Phase (at least 5% in any Treatment Group) in Study 3
+Table 4: Proportion of Adverse Reactions in the 24-week Double-Blind Treatment Phase (at least 5% in any treatment group) in Study 3
 
 | Preferred term | Rivastigmine Transdermal System 13.3 mg/24 hours | Rivastigmine Transdermal System 4.6 mg/24 hours |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -191,7 +191,7 @@ Parkinson’s Disease Dementia
 
 76-week International Open-Label Trial (Study 4)
 
-Rivastigmine transdermal system has been administered to 288 patients with mild to moderate Parkinson’s Disease Dementia in a single, 76-week, open-label, active-comparator safety study.
+Rivastigmine transdermal system has been administered to 288 patients with mild-to-moderate Parkinson’s Disease Dementia in a single, 76-week, open-label, active-comparator safety study.
 Of these, 256 have been treated for at least 12 weeks, 232 for at least 24 weeks, and 196 for at least 52 weeks.
 
 Treatment with rivastigmine transdermal system was initiated at 4.6 mg/24 hours and if tolerated the dose was increased after 4 weeks to 9.5 mg/24 hours.

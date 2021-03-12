@@ -69,7 +69,7 @@ If a patch falls off or if a dose is missed, apply a new patch immediately, and 
 Do not apply a new patch to the same location for at least 14 days.
 
 (f) May wear the patch during bathing and in hot weather.
-But avoid long exposure to external heat sources (excessive sunlight, saunas, solariums).
+Avoid long exposure to external heat sources (excessive sunlight, saunas, solariums).
 
 (g) Place used patches in the previously saved pouch and discard in the trash, away from pets or children.
 

@@ -11,7 +11,7 @@ As in any case of overdose, general supportive measures should be utilized.
 
 Overdosage with cholinesterase inhibitors can result in cholinergic crisis characterized by severe nausea, vomiting, salivation, sweating, bradycardia, hypotension, respiratory depression, and convulsions.
 Increasing muscle weakness is a possibility and may result in death if respiratory muscles are involved.
-Atypical responses in blood pressure and heart rate have been reported with other drugs that increase cholinergic activity when coadministered with quaternary anticholinergics such as glycopyrrolate.
+Atypical responses in blood pressure and heart rate have been reported with other drugs that increase cholinergic activity when coadministered with quaternary anticholinergics, such as glycopyrrolate.
 Additional symptoms associated with rivastigmine overdose are diarrhea, abdominal pain, dizziness, tremor, headache, somnolence, confusional state, hyperhidrosis, hypertension, hallucinations and malaise.
 Due to the short plasma elimination half-life of rivastigmine after patch administration, dialysis (hemodialysis, peritoneal dialysis, or hemofiltration) would not be clinically indicated in the event of an overdose.
 

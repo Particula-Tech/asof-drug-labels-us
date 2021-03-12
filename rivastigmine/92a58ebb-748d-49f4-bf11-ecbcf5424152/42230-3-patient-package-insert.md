@@ -57,7 +57,7 @@ Before you use rivastigmine transdermal system, tell your healthcare provider if
 - •have problems with movement (tremors)
 - •have asthma or breathing problems
 - •have a loss of appetite or are losing weight
-- •have had a skin reaction to rivastigmine (the medicine in rivastigmine transdermal system) in the past.
+- •have had a skin reaction to rivastigmine (the medicine in rivastigmine transdermal system) in the past
 - •have any other medical conditions
 - •are pregnant or plan to become pregnant.
   It is not known if the medicine in the rivastigmine transdermal system will harm your unborn baby.
@@ -115,7 +115,7 @@ What should I avoid while using rivastigmine transdermal system?
   In case of accidental contact with your eyes or if your eyes become red after handling the patch, rinse immediately with plenty of water and seek medical advice if symptoms do not resolve.
 - •Rivastigmine transdermal system can cause drowsiness, dizziness, weakness, or fainting.
   Do not drive, operate heavy machinery, or do other dangerous activities until you know how rivastigmine transdermal system affects you.
-- •Avoid exposure to heat sources such as excessive sunlight, saunas, or sunrooms for long periods of time.
+- •Avoid exposure to heat sources, such as excessive sunlight, saunas, or sunrooms for long periods of time.
 
 What are the possible side effects of rivastigmine transdermal system?
 
@@ -189,9 +189,9 @@ Active ingredient: rivastigmine Excipients include: acrylic copolymer, poly (but
 
 Distributed by: Sandoz Inc. Princeton, NJ 08540
 
-T2019-04
+T2020-100
 
-| This Patient Information has been approved by the U.S. Food and Drug Administration Revised: 12/2018 |
+| This Patient Information has been approved by the U.S. Food and Drug Administration. Revised: 6/2020 |
 | --- |
 
 ## Instructions for Use
@@ -298,4 +298,4 @@ Distributed by: Sandoz Inc. Princeton, NJ 08540
 
 T2019-05 December 2018
 
-6514969 USG
+6516211 USG
