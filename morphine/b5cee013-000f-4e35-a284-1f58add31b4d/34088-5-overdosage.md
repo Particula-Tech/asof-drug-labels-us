@@ -11,9 +11,8 @@ In cases of overdose, priorities are the re-establishment of a patent and protec
 Employ other supportive measures (including oxygen and vasopressors) in the management of circulatory shock and pulmonary edema as indicated.
 Cardiac arrest or arrhythmias will require advanced life-support techniques.
 
-The opioid antagonists, naloxone or nalmefene, are specific antidotes to respiratory depression resulting from opioid overdose.
-For clinically significant respiratory or circulatory depression secondary to morphine overdose, administer an opioid antagonist.
-Opioid antagonists should not be administered in the absence of clinically significant respiratory or circulatory depression secondary to morphine overdose.
+Opioid antagonists, such as naloxone, are specific antidotes to respiratory depression resulting from opioid overdose.
+For clinically significant respiratory or circulatory depression secondary to opioid overdose, administer an opioid antagonist.
 
 Because the duration of reversal would be expected to be less than the duration of action of morphine in KADIAN, carefully monitor the patient until spontaneous respiration is reliably reestablished.
 KADIAN will continue to release morphine add to the morphine load for 24 to 48 hours or longer following ingestion, necessitating prolonged monitoring.

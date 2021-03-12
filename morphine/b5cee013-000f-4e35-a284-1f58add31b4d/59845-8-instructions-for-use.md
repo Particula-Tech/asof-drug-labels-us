@@ -4,7 +4,7 @@ KADIAN® (key-dee-uhn)
 
 (morphine sulfate) Extended-Release Capsules, CII
 
-If you cannot swallow KADIAN® capsules, tell your healthcare provider.
+If you cannot swallow KADIAN capsules, tell your healthcare provider.
 There may be another way to take KADIAN that may be right for you.
 If your healthcare provider tells you that you can take KADIAN using this other way, follow these steps:
 

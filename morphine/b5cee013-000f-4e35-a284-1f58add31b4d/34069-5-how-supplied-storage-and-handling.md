@@ -1,6 +1,6 @@
 # 16 HOW SUPPLIED/STORAGE AND HANDLING
 
-KADIAN® extended-release capsules contain white to off-white or tan colored polymer coated extended-release pellets of morphine sulfate and are available in nine dose strengths.
+KADIAN extended-release capsules contain white to off-white or tan colored polymer coated extended-release pellets of morphine sulfate and are available in nine dose strengths.
 
 |  | KADIAN 10 mg | KADIAN 20 mg | KADIAN 30 mg | KADIAN 40 mg |
 | --- | --- | --- | --- | --- |

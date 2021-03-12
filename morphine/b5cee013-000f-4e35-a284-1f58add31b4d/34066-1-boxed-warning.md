@@ -1,6 +1,6 @@
 # WARNING: ADDICTION, ABUSE, AND MISUSE; RISK EVALUATION AND MITIGATION STRATEGY (REMS); LIFE-THREATENING RESPIRATORY DEPRESSION; ACCIDENTAL INGESTION; NEONATAL OPIOID WITHDRAWAL SYNDROME; INTERACTION WITH ALCOHOL; and RISKS FROM CONCOMITANT USE WITH BENZODIAZEPINES OR OTHER CNS DEPRESSANTS
 
-Addiction, Abuse, and Misuse KADIAN® exposes patients and other users to the risks of opioid addiction, abuse, and misuse, which can lead to overdose and death.
+Addiction, Abuse, and Misuse KADIAN exposes patients and other users to the risks of opioid addiction, abuse, and misuse, which can lead to overdose and death.
 Assess each patient’s risk prior to prescribing KADIAN, and monitor all patients regularly for the development of these behaviors and conditions [see Warnings and Precautions (5.1)].
 
 Opioid Analgesic Risk Evaluation and Mitigation Strategy (REMS)

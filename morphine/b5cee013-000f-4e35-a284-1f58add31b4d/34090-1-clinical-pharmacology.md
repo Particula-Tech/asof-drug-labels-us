@@ -54,12 +54,12 @@ Overall, the effects of opioids appear to be modestly immunosuppressive.
 Concentration-Efficacy Relationships
 
 The minimum effective analgesic concentration will vary widely among patients, especially among patients who have been previously treated with potent agonist opioids.
-The minimum effective analgesic concentration of morphine for any individual patient may increase over time due to an increase in pain, the development of a new pain syndrome, and/or the development of analgesic tolerance [see Dosage and Administration (2.1, 2.2)].
+The minimum effective analgesic concentration of morphine for any individual patient may increase over time due to an increase in pain, the development of a new pain syndrome, and/or the development of analgesic tolerance [see Dosage and Administration (2.1, 2.3)].
 
 Concentration-Adverse Reaction Relationships
 
 There is a relationship between increasing morphine plasma concentration and increasing frequency of dose-related opioid adverse reactions such as nausea, vomiting, CNS effects, and respiratory depression.
-In opioid-tolerant patients, the situation may be altered by the development of tolerance to opioid-related adverse reactions [see Dosage and Administration (2.1, 2.2, 2.3)].
+In opioid-tolerant patients, the situation may be altered by the development of tolerance to opioid-related adverse reactions [see Dosage and Administration (2.1, 2.3, 2.4)].
 
 ## 12.3 Pharmacokinetics
 
@@ -105,7 +105,7 @@ Once absorbed, morphine is distributed to skeletal muscle, kidneys, liver, intes
 The volume of distribution of morphine is approximately 3 to 4 L/kg.
 Morphine is 30 to 35% reversibly bound to plasma proteins.
 Although the primary site of action of morphine is in the CNS, only small quantities pass the blood-brain barrier.
-Morphine also crosses the placental membranes [see Use in Specific Populations (8.1)] and has been found in breast milk [see Use in Specific Populations (8.4)].
+Morphine also crosses the placental membranes [see Use in Specific Populations (8.1)] and has been found in breast milk [see Use in Specific Populations (8.2)].
 
 Elimination
 

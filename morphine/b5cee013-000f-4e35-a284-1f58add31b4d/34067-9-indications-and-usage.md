@@ -1,6 +1,6 @@
 # 1 INDICATIONS AND USAGE
 
-KADIAN® is indicated for the management of pain severe enough to require daily, around-the-clock, long-term opioid treatment and for which alternative treatment options are inadequate.
+KADIAN is indicated for the management of pain severe enough to require daily, around-the-clock, long-term opioid treatment and for which alternative treatment options are inadequate.
 
 Limitations of Use:
 
