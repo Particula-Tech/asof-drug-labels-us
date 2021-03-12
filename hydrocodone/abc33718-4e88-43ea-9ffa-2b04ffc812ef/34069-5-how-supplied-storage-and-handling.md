@@ -37,4 +37,4 @@ Store hydrocodone bitartrate and ibuprofen tablets securely and dispose of prope
 Manufactured by: Amneal Pharmaceuticals of NY LLC Brookhaven, NY 11719
 
 Rev.
-08-2019-08
+07-2020-09
