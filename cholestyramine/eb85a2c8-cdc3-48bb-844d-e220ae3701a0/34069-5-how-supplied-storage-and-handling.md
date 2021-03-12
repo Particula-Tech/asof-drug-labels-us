@@ -8,3 +8,7 @@ NDC 51224-009-20 Carton of 60 single-dose pouches NDC 51224-009-10 Can, 201.6 g 
 ## Storage
 
 Store at 20°C to 25°C (68° to 77°F) [see USP Controlled Room Temperature].
+
+Always replace plastic lid after using.
+
+KEEP OUT OF THE REACH OF CHILDREN.

@@ -6,14 +6,12 @@ Cholestyramine for Oral Suspension USP, Light
 
 Powder
 
-4 grams cholestyramine resin USP, per pouch*
-
-*each pouch contains 4 grams cholestyramine resin USP
+4 grams cholestyramine resin USP, per pouch* *each pouch contains 4 grams cholestyramine resin USP
 
 Orange Flavor Rx Only
 
 Usual Dosage: See accompanying literature.
 WARNING: This package is not child-resistant.
-Keep this and all medication out of the reach of children.
+KEEP OUT OF THE REACH OF CHILDREN.
 
 tagiPHARMA That's A Good Idea.

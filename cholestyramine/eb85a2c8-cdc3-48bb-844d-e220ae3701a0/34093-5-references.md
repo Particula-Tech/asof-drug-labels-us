@@ -30,3 +30,5 @@ Philadelphia, PA, WB Saunders Company, 1996.
 7.
 Takemoto CK et al (eds): Pediatric Dosage Handbook, ed 3.
 Cleveland/Akron, OH, Lexi-Comp, Inc., 1996/1997.
+
+To report SUSPECTED ADVERSE REACTIONS, contact TAGI Pharma, Inc. at 1-844-668-3942 or FDA at 1-800-FDA-1088 or www.fda.gov/medwatch.
