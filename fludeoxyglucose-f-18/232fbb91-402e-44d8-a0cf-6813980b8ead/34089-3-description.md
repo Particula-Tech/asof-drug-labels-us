@@ -6,7 +6,7 @@ Fludeoxyglucose F 18 Injection is a positron emitting radiopharmaceutical that i
 The active ingredient 2-deoxy-2-[18F]fluoro-D-glucose has the molecular formula of C6H1118FO5 with a molecular weight of 181.26, and has the following chemical structure:
 
 Fludeoxyglucose F 18 Injection is provided as a ready to use sterile, pyrogen free, clear, colorless citrate buffered solution.
-Each mL contains between 0.74 to 11.1 GBq (20 - 300 mCi) of 2-deoxy-2-[18F]fluoro-D-glucose at the EOS, 4.5 mg of sodium chloride in citrate buffer..
+Each mL contains between 0.74 GBq to 11.1 GBq (20 mCi to 300 mCi) of 2-deoxy-2-[18F]fluoro-D-glucose at the EOS, 4.5 mg of sodium chloride in citrate buffer..
 The pH of the solution is between 4.5 and 7.5.
 The solution is packaged in a multiple-dose glass vial and does not contain any preservative.
 
@@ -44,7 +44,7 @@ Radiation Attenuation of 511 keV Photons by lead (Pb) shielding
 | 13 | 0.10 |
 | 26 | 0.01 |
 | 39 | 0.01 |
-| 52.8 | 0.0001 |
+| 52 | 0.0001 |
 
 For use in correcting for physical decay of this radionuclide, the fractions remaining at selected intervals after calibration are shown in Table 4.
 

@@ -17,8 +17,8 @@ The efficacy of Fludeoxyglucose F 18 Injection PET imaging in cancer screening w
 ## 14.2 Cardiology
 
 The efficacy of Fludeoxyglucose F 18 Injection for cardiac use was demonstrated in ten independent, prospective studies of patients with coronary artery disease and chronic left ventricular systolic dysfunction who were scheduled to undergo coronary revascularization.
-Before revascularization, patients underwent PET imaging with Fludeoxyglucose F 18 Injection (74 – 370 MBq, 2 – 10 mCi) and perfusion imaging with other diagnostic radiopharmaceuticals.
-Doses of Fludeoxyglucose F 18 Injection ranged from 74-370 MBq (2-10 mCi).
+Before revascularization, patients underwent PET imaging with Fludeoxyglucose F 18 Injection (74 MBq to 370 MBq, 2 mCi to 10 mCi) and perfusion imaging with other diagnostic radiopharmaceuticals.
+Doses of Fludeoxyglucose F 18 Injection ranged from 74 MBq to 370 MBq (2 mCi to 10 mCi).
 Segmental, left ventricular, wall-motion assessments of asynergic areas made before revascularization were compared in a blinded manner to assessments made after successful revascularization to identify myocardial segments with functional recovery.
 
 Left ventricular myocardial segments were predicted to have reversible loss of systolic function if they showed Fludeoxyglucose F 18 accumulation and reduced perfusion (i.e., flow-metabolism mismatch).
@@ -34,8 +34,8 @@ Therefore, in patients with a low likelihood of successful revascularization, th
 ## 14.3 Neurology
 
 In a prospective, open label trial, Fludeoxyglucose F 18 Injection was evaluated in 86 patients with epilepsy.
-Each patient received a dose of Fludeoxyglucose F 18 Injection in the range of 185-370 MBq (5-10 mCi).
-The mean age was 16.4 years (range: 4 months - 58 years; of these, 42 patients were less than 12 years and 16 patients were less than 2 years old).
+Each patient received a dose of Fludeoxyglucose F 18 Injection in the range of 185 MBq to 370 MBq (5 mCi to 10 mCi).
+The mean age was 16.4 years (range: 4 months to 58 years; of these, 42 patients were less than 12 years and 16 patients were less than 2 years old).
 Patients had a known diagnosis of complex partial epilepsy and were under evaluation for surgical treatment of their seizure disorder.
 Seizure foci had been previously identified on ictal EEGs and sphenoidal EEGs.
 Fludeoxyglucose F 18 Injection PET imaging confirmed previous diagnostic findings in 16% (14/87) of the patients; in 34% (30/87) of the patients, Fludeoxyglucose F 18 Injection PET images provided new findings.

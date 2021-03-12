@@ -34,7 +34,7 @@ Interictally, the seizure focus tends to be hypometabolic.
 ## 12.3 Pharmacokinetics
 
 Distribution: In four healthy male volunteers, receiving an intravenous administration of 30 seconds in duration, the arterial blood level profile for Fludeoxyglucose F 18 decayed triexponentially.
-The effective half-life ranges of the three phases were 0.2-0.3 minutes, 10-13 minutes with a mean and standard deviation (STD) of 12 ± 1 min, and 80-95 minutes with a mean and STD of 88 ± 4 min.
+The effective half-life ranges of the three phases were 0.2 minutes to 0.3 minutes, 10 minutes to 13 minutes with a mean and standard deviation (STD) of 12 ± 1 min, and 80 minutes to 95 minutes with a mean and STD of 88 ± 4 min.
 
 Plasma protein binding of Fludeoxyglucose F 18 has not been studied.
 

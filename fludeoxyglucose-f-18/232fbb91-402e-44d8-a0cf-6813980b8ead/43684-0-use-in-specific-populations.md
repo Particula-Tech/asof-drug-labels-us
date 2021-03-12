@@ -11,7 +11,7 @@ If considering Fludeoxyglucose F 18 Injection administration to a pregnant woman
 
 The estimated background risk of major birth defects and miscarriage for the indicated population is unknown.
 All pregnancies have a background risk of birth defect, loss, or other adverse outcomes.
-In the U.S. general population, the estimated background risk of major birth defects and miscarriage in clinically recognized pregnancies are 2-4% and 15-20%, respectively.
+In the U.S. general population, the estimated background risk of major birth defects and miscarriage in clinically recognized pregnancies are 2% to 4% and 15% to 20%, respectively.
 
 Data Human Data Data from published case series and case reports describe Fludeoxyglucose F 18 Injection crossing the placental barrier and visualization of radioactivity throughout the body of the fetus.
 The estimated fetal absorbed radiation dose from the maximum labeled dose (370 MBq) of Fludeoxyglucose F 18 was 10mGy with first trimester exposure to PET alone and 20mGy with first trimester exposure to PET/CT scan combination.

@@ -7,7 +7,7 @@ Assay the final dose in a properly calibrated dose calibrator before administrat
 
 ## 2.1 Recommended Dose for Adults
 
-Within the oncology, cardiology and neurology settings, the recommended dose for adults is 5 – 10 mCi (185 – 370 MBq) as an intravenous injection.
+Within the oncology, cardiology and neurology settings, the recommended dose for adults is 5 mCi to 10 mCi (185 MBq to 370 MBq) as an intravenous injection.
 
 ## 2.2 Recommended Dose for Pediatric Patients
 
@@ -20,8 +20,8 @@ The optimal dose adjustment on the basis of body size or weight has not been det
   Encourage the patient to drink water or other fluids (as tolerated) in the 4 hours before their PET study.
 - Encourage the patient to void as soon as the imaging study is completed and as often as possible thereafter for at least one hour.
 - Screen patients for clinically significant blood glucose abnormalities by obtaining a history and/or laboratory tests [see Warnings and Precautions (5.2)].
-  Prior to Fludeoxyglucose F 18 PET imaging in the oncology and neurology settings, instruct patient to fast for 4 – 6 hours prior to the drug's injection.
-- In the cardiology setting, administration of glucose-containing food or liquids (e.g., 50 – 75 grams) prior to Fludeoxyglucose F 18 Injection facilitates localization of cardiac ischemia.
+  Prior to Fludeoxyglucose F 18 PET imaging in the oncology and neurology settings, instruct patient to fast for 4 hours to 6 hours prior to the drug's injection.
+- In the cardiology setting, administration of glucose-containing food or liquids (e.g., 50 grams to 75 grams) prior to Fludeoxyglucose F 18 Injection facilitates localization of cardiac ischemia.
 
 ## 2.4 Radiation Dosimetry
 
@@ -44,11 +44,11 @@ Estimated Absorbed Radiation Doses (rem/mCi) After Intravenous Administration of
 | Kidneys | 0.81 | 0.34 | 0.19 | 0.13 | 0.089 | 0.074 |
 | Ovaries | 0.80 | 0.8 | 0.19 | 0.11 | 0.058 | 0.053 |
 | Uterus | 0.79 | 0.35 | 0.19 | 0.12 | 0.076 | 0.062 |
-| LLI wall | 0.69 | 0.28 | 0.15 | 0.097 | 0.060 | 0.051 |
+| *LLI wall | 0.69 | 0.28 | 0.15 | 0.097 | 0.060 | 0.051 |
 | Liver | 0.69 | 0.31 | 0.17 | 0.11 | 0.076 | 0.058 |
 | Gallbladder wall | 0.69 | 0.26 | 0.14 | 0.093 | 0.059 | 0.049 |
 | Small intestine | 0.68 | 0.29 | 0.15 | 0.096 | 0.060 | 0.047 |
-| ULI wall | 0.67 | 0.27 | 0.15 | 0.090 | 0.057 | 0.046 |
+| **ULI wall | 0.67 | 0.27 | 0.15 | 0.090 | 0.057 | 0.046 |
 | Stomach wall | 0.65 | 0.27 | 0.14 | 0.089 | 0.057 | 0.047 |
 | Adrenals | 0.65 | 0.28 | 0.15 | 0.095 | 0.061 | 0.048 |
 | Testes | 0.64 | 0.27 | 0.14 | 0.085 | 0.052 | 0.041 |
@@ -87,4 +87,4 @@ bThe dynamic bladder model with a uniform voiding frequency of 1.5 hours was use
 ## 2.7 Imaging Guidelines
 
 - Initiate imaging within 40 minutes following Fludeoxyglucose F 18 Injection administration.
-- Acquire static emission images 30 – 100 minutes from the time of injection.
+- Acquire static emission images 30 minutes to 100 minutes from the time of injection.
