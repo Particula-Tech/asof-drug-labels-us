@@ -7,7 +7,7 @@ Upon completion of the double-blind portion, all patients entered an open-label 
 
 Treatment failure, the main efficacy endpoint measured during this study, was defined as death, need for liver transplantation, histologic progression by two stages or to cirrhosis, development of varices, ascites or encephalopathy, marked worsening of fatigue or pruritus, inability to tolerate the drug, doubling of serum bilirubin and voluntary withdrawal.
 After two years of double-blind treatment, the incidence of treatment failure was significantly (p<0.01) reduced in the URSO 250 mg group (20 of 86 (23%) as compared to the placebo group (40 of 86 (47%).
-Time to treatment failure, which excluded doubling of serum bilirubin and voluntary withdrawal, was also significantly (p<0.001) delayed in the URSO 250 treated group (n=86, 803.8±24.9 d vs. 641.1±24.4 d for the placebo group (n=86) on average) regardless of either histologic stage or baseline bilirubin levels (>1.8 or ≤1.8 mg/dL).
+Time to treatment failure, which excluded doubling of serum bilirubin and voluntary withdrawal, was also significantly (p<0.001) delayed in the URSO 250 treated group (n=86, 803.8±24.9 d vs. 641.1±24.4 d for the placebo group (n=86) on average) regardless of either histologic stage or baseline bilirubin levels (>1.8 or <1.8 mg/dL).
 
 Using a definition of treatment failure, which excluded doubling of serum bilirubin and voluntary withdrawal, time to treatment failure was significantly delayed in the URSO 250 group.
 In comparison with placebo, treatment with URSO 250 resulted in a significant improvement in the following serum hepatic biochemistries when compared to baseline: total bilirubin, SGOT, alkaline phosphatase and IgM.

@@ -1,4 +1,6 @@
-Principal Display Panel - Urso 250 Bottle Label
+# Principal Display Panel
+
+- Urso 250 Bottle Label
 
 NDC 58914-785-10
 
@@ -12,7 +14,9 @@ Urso® 250
 
 Allergan™
 
-Principal Display Panel - Urso 500 Bottle Label
+# Principal Display Panel
+
+- Urso 500 Bottle Label
 
 NDC 58914-790-10
 

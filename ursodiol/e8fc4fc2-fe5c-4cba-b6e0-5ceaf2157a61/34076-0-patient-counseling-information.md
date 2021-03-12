@@ -2,8 +2,7 @@
 
 ## 17.1 Appropriate Treatments
 
-Patients with the following conditions should be instructed to receive appropriate management measures: variceal bleeding, hepatic encephalopathy, ascites, in need of an urgent liver transplant or hepatic function deterioration.
-[see Warnings and Precautions (5)].
+Patients with the following conditions should be instructed to receive appropriate management measures: variceal bleeding, hepatic encephalopathy, ascites, in need of an urgent liver transplant or hepatic function deterioration [see Warnings and Precautions (5)].
 
 Caution has to be exercised to maintain the bile flow of the patients taking ursodiol.
 

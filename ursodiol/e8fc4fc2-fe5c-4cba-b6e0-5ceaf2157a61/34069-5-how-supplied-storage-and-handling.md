@@ -13,5 +13,5 @@ Available in bottles of 100 tablets (NDC 58914-790-10).
 Store at 20°C to 25°C (68°F to 77°F).
 Dispense in a tight container.
 
-Half-tablets (scored URSO Forte 500 mg tablets broken in half) maintain acceptable quality for up to 28 days when stored in the current packaging (bottles) at 20°C to 25°C (68°F to 77°F).
+Half-tablets (scored URSO Forte 500 mg tablets broken in half) maintain acceptable quality for up to 28 days when stored in the current packaging (bottles) at 20ºC to 25ºC (68ºF to 77ºF).
 Due to the bitter taste, the halved segments should be stored separately from the whole tablets [see Dosage and Administration (2.2)].

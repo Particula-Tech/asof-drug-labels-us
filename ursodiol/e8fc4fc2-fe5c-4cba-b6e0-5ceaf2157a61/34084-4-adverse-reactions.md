@@ -6,7 +6,7 @@ Because clinical trials are conducted under widely varying conditions, adverse r
 
 The following table summarizes the adverse reactions observed in two placebo-controlled clinical trials.
 
-| ADVERSE REACTIONS | VISIT AT 12 MONTHS | VISIT AT 24 MONTHS |  |  |
+| ADVERSE REACTIONS | VISIT AT 12 MONTHS |  | VISIT AT 24 MONTHS |  |
 | --- | --- | --- | --- | --- |
 |  | UDCA n (%) | Placebo n (%) | UDCA n (%) | Placebo n (%) |
 | Diarrhea | --- | --- | 1 (1.32) | --- |
@@ -33,7 +33,7 @@ Because these reactions are reported voluntarily from a population of uncertain 
 - Hepatobiliary disorders: jaundice (or aggravation of pre-existing jaundice).
 - Immune System Disorders: Drug hypersensitivity to include facial edema, urticaria, angioedema and laryngeal edema.
 - Abnormal Laboratory Tests: ALT increased, AST increased, blood alkaline phosphatase increased, blood bilirubin increased, γ-GT increased, hepatic enzyme increased, liver function test abnormal, transaminases increased.
-- Musculoskeletal and connective tissue disorders: myalgia.
+- Musculoskeletal and connective tissue disorders: myalgia
 - Nervous system disorders: dizziness, headache.
 - Respiratory, thoracic and mediastinal disorders: cough.
 - Skin and subcutaneous tissue disorder: alopecia, pruritus, rash.
