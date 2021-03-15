@@ -178,4 +178,4 @@ Newtown, PA 18940
 For more information, go to www.kvktech.com or call our customer service at 1-800-862-3895.
 
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
-Issued or Revised: Oct 2020
+Issued or Revised: Mar 2021

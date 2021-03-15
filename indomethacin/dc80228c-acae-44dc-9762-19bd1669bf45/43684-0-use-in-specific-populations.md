@@ -22,7 +22,6 @@ Oligohydramnios/Neonatal Renal Impairment
 Use of NSAIDs at about 20 weeks gestation or later in pregnancy has been associated with cases of fetal renal dysfunction leading to oligohydramnios, and in some cases, neonatal renal impairment.
 
 Data from observational studies regarding other potential embryofetal risks of NSAID use in women in the first or second trimesters of pregnancy are inconclusive.
-In the general U.S. population, all clinically recognized pregnancies, regardless of drug exposure, have a background rate of 2-4% for major malformations, and 15-20% for pregnancy loss.
 In animal reproduction studies retarded fetal ossification was observed with administration of indomethacin to mice and rats during organogenesis at doses 0.1 and 0.2 times, respectively, the maximum recommended human dose (MRHD, 200 mg).
 In published studies in pregnant mice, indomethacin produced maternal toxicity and death, increased fetal resorptions, and fetal malformations at 0.1 times the MRHD.
 When rat and mice dams were dosed during the last three days of gestation, indomethacin produced neuronal necrosis in the offspring at 0.1 and 0.05 times the MRHD, respectively [see Data].
@@ -30,6 +29,10 @@ Based on animal data, prostaglandins have been shown to have an important role i
 In animal studies, administration of prostaglandin synthesis inhibitors such as indomethacin, resulted in increased pre- and post-implantation loss.
 Prostaglandins also have been shown to have an important role in fetal kidney development.
 In published animal studies, prostaglandin synthesis inhibitors have been reported to impair kidney development when administered at clinically relevant doses.
+
+The estimated background risk of major birth defects and miscarriage for the indicated population(s) is unknown.
+All pregnancies have a background risk of birth defect, loss, or other adverse outcomes.
+In the U.S. general population, the estimated background risk of major birth defects and miscarriage in clinically recognized pregnancies is 2-4% and 15-20%, respectively.
 
 Clinical Considerations
 

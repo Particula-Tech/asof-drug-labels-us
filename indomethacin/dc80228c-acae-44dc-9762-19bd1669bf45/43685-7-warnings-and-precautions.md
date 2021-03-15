@@ -132,7 +132,7 @@ These serious events may occur without warning.
 Inform patients about the signs and symptoms of serious skin reactions, and to discontinue the use of indomethacin extended-release capsules at the first appearance of skin rash or any other sign of hypersensitivity.
 Indomethacin extended-release capsules are contraindicated in patients with previous serious skin reactions to NSAIDs [see Contraindications (4)].
 
-## 5.10 Drug Rash with Eosinophilia and Systemic Symptoms (DRESS)
+## 5.10 Drug Reaction with Eosinophilia and Systemic Symptoms (DRESS)
 
 Drug Reaction with Eosinophilia and Systemic Symptoms (DRESS) has been reported in patients taking NSAIDs such as indomethacin extended-release capsules.
 Some of these events have been fatal or life-threatening.
