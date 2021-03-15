@@ -97,8 +97,6 @@ Similarly, in patients with allergic rhinitis (hay fever), an intramuscular dose
 If signs of stress are associated with the condition being treated, the dosage of the suspension should be increased.
 If a rapid hormonal effect of maximum intensity is required, the intravenous administration of highly soluble methylprednisolone sodium succinate is indicated.
 
-In treatment of acute exacerbations of multiple sclerosis, daily doses of 160 mg of methylprednisolone for a week followed by 64 mg every other day for 1 month have been shown to be effective.
-
 For the purpose of comparison, the following is the equivalent milligram dose of the various glucocorticoids:
 
 | Cortisone, 25 | Triamcinolone, 4 |
