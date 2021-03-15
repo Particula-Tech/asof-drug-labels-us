@@ -23,7 +23,7 @@ Table 1
 | Complicated skin and skin structure infections, including diabetic foot infections§ | 1 g | 15 mg/kg twice daily‡ | 7 to 14 days¶ |
 | Community acquired pneumonia | 1 g | 15 mg/kg twice daily‡ | 10 to 14 days# |
 | Complicated urinary tract infections, including pyelonephritis | 1 g | 15 mg/kg twice daily‡ | 10 to 14 days# |
-| Acute pelvic infections including postpartum endomyometritis, septic abortion and post surgical gynecologic infections | 1 g | 15 mg/kg twice daily‡ | 3 to 10 days |
+| Acute pelvic infections including postpartum endomyometritis, septic abortion and post-surgical gynecologic infections | 1 g | 15 mg/kg twice daily‡ | 3 to 10 days |
 | * defined as creatinine clearance >90 mL/min/1.73 m2 † due to the designated pathogens [see Indications and Usage (1)] ‡ not to exceed 1 g/day § ertapenem for injection has not been studied in diabetic foot infections with concomitant osteomyelitis [see Clinical Studies (14.1)]. ¶ adult patients with diabetic foot infections received up to 28 days of treatment (parenteral or parenteral plus oral switch therapy) # duration includes a possible switch to an appropriate oral therapy, after at least 3 days of parenteral therapy, once clinical improvement has been demonstrated. |  |  |  |
 
 ## 2.3 Prophylactic Regimen in Adults
@@ -93,6 +93,7 @@ ERTAPENEM FOR INJECTION MUST BE RECONSTITUTED AND THEN DILUTED PRIOR TO ADMINIST
    NOTE: Use with a needleless IV system is not recommended.
    The resultant concentration is approximately 100 mg/mL.
 2. Shake well to dissolve and immediately withdraw a volume equal to 15 mg/kg of body weight (not to exceed 1 g/day) and dilute in 0.9% Sodium Chloride Injection to a final concentration of 20 mg/mL or less.
+   Discard vial with unused portion of ertapenem for injection reconstituted solution.
 3. Complete the infusion within 6 hours of reconstitution.
 
 Preparation for intramuscular administration: ERTAPENEM FOR INJECTION MUST BE RECONSTITUTED PRIOR TO ADMINISTRATION.
@@ -101,6 +102,7 @@ Preparation for intramuscular administration: ERTAPENEM FOR INJECTION MUST BE RE
    Shake vial thoroughly to form solution.
    The resultant concentration is approximately 280 mg/mL.
 2. Immediately withdraw a volume equal to 15 mg/kg of body weight (not to exceed 1 g/day) and administer by deep intramuscular injection into a large muscle mass (such as the gluteal muscles or lateral part of the thigh).
+   Discard vial with unused portion of ertapenem for injection reconstituted solution.
 3. The reconstituted IM solution should be used within 1 hour after preparation.
    NOTE: THE RECONSTITUTED SOLUTION SHOULD NOT BE ADMINISTERED INTRAVENOUSLY.
 

@@ -2,7 +2,7 @@
 
 ## 16.1 How Supplied
 
-Ertapenem for injection is a sterile, white to off white lyophilized cake or powder in single dose vials containing ertapenem for intravenous infusion or for intramuscular injection and is supplied as follows: 1 gram/vial Single Dose Vials in a Carton of 10 NDC 55150-282-20
+Ertapenem for injection is a sterile, white to off white lyophilized cake or powder in single-dose vials containing ertapenem for intravenous infusion or for intramuscular injection and is supplied as follows: 1 gram/vial Single-Dose Vials in a Carton of 10 NDC 55150-282-20
 
 ## 16.2 Storage and Handling
 
