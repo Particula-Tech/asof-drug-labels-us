@@ -10,7 +10,6 @@ Paliperidone is sparingly soluble in 0.1N HCl and methylene chloride; practicall
 
 Paliperidone extended-release tablets are intended for oral administration and are available in 1.5 mg (brown), 3 mg (white to off-white), 6 mg (yellow), and 9 mg (pink) strengths.
 Paliperidone extended-release tablets are formulated as a polymer matrix based once-a-day controlled release tablet for oral use.
-[see Description (11)].
 
 Inactive ingredients are polyethylene oxide, hypromellose, anhydrous lactose, magnesium stearate, ethyl cellulose, triethyl citrate, talc, titanium dioxide and polyethylene glycol.
 The 1.5 mg and 6 mg tablets also contain lactose monohydrate, iron oxide yellow and iron oxide red.

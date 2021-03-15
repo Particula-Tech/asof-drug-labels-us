@@ -2,7 +2,7 @@
 
 ## 7.1 Potential for Paliperidone to Affect Other Drugs
 
-Given the primary CNS effects of paliperidone [see Adverse Reactions (6.1,6.2)], paliperidone
+Given the primary CNS effects of paliperidone [see Adverse Reactions (6.1, 6.2)], paliperidone
 
 should be used with caution in combination with other centrally acting drugs and alcohol.
 Paliperidone may antagonize the effect of levodopa and other dopamine agonists.

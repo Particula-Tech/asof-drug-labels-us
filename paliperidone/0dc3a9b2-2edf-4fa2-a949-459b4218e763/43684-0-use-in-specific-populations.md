@@ -2,6 +2,11 @@
 
 ## 8.1 Pregnancy
 
+Pregnancy Exposure Registry
+
+There is a pregnancy exposure registry that monitors pregnancy outcomes in women exposed to atypical antipsychotics, including paliperidone, during pregnancy.
+Healthcare providers are encouraged to register patients by contacting the National Pregnancy Registry for Atypical Antipsychotics at 1-866-961-2388 or online at http://womensmentalhealth.org/clinical-andresearch-programs/pregnancyregistry/.
+
 Risk Summary
 
 Neonates exposed to antipsychotic drugs during the third trimester of pregnancy are at risk for extrapyramidal and/or withdrawal symptoms following delivery (see Clinical Considerations).
@@ -111,3 +116,8 @@ Dosing must be individualized according to the patient’s renal function status
 
 No dosage adjustment is required in patients with mild to moderate hepatic impairment.
 Paliperidone has not been studied in patients with severe hepatic impairment.
+
+## 8.8 Patients with Parkinson’s Disease or Lewy Body Dementia
+
+Patients with Parkinson’s Disease or Dementia with Lewy Bodies can experience increased sensitivity to paliperidone.
+Manifestations can include confusion, obtundation, postural instability with frequent falls, extrapyramidal symptoms, and clinical features consistent with neuroleptic malignant syndrome.
