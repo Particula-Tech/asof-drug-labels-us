@@ -18,11 +18,11 @@ Store hydrocodone bitartrate and acetaminophen tablets securely and dispose of p
 
 Mallinckrodt, the “M” brand mark and the Mallinckrodt Pharmaceuticals logo are trademarks of a Mallinckrodt company.
 
-© 2019 Mallinckrodt.
+© 2020 Mallinckrodt.
 
 SpecGx LLC Webster Groves, MO 63119 USA
 
-Rev 10/2019
+Rev 08/2020
 
 Mallinckrodt™ Pharmaceuticals
 

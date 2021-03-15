@@ -12,6 +12,7 @@ Assess each patient’s risk for opioid addiction, abuse, or misuse prior to pre
 Risks are increased in patients with a personal or family history of substance abuse (including drug or alcohol abuse or addiction) or mental illness (e.g., major depression).
 The potential for these risks should not, however, prevent the proper management of pain in any given patient.
 Patients at increased risk may be prescribed opioids such as hydrocodone bitartrate and acetaminophen tablets, but use in such patients necessitates intensive counseling about the risks and proper use of hydrocodone bitartrate and acetaminophen tablets along with intensive monitoring for signs of addiction, abuse, and misuse.
+Consider prescribing naloxone for the emergency treatment of opioid overdose (see WARNINGS, Life-Threatening Respiratory Depression; DOSAGE AND ADMINISTRATION, Patient Access to Naloxone for the Emergency Treatment of Opioid Overdose).
 
 Opioids are sought by drug abusers and people with addiction disorders and are subject to criminal diversion.
 Consider these risks when prescribing or dispensing hydrocodone bitartrate and acetaminophen tablets.
@@ -48,9 +49,20 @@ Overestimating the hydrocodone bitartrate and acetaminophen tablets dosage when 
 
 Accidental ingestion of hydrocodone bitartrate and acetaminophen tablets, especially by children, can result in respiratory depression and death due to an overdose of hydrocodone bitartrate and acetaminophen tablets.
 
+Educate patients and caregivers on how to recognize respiratory depression and emphasize the importance of calling 911 or getting emergency medical help right away in the event of a known or suspected overdose (see PRECAUTIONS, Information for Patients).
+
 Opioids can cause sleep-related breathing disorders including central sleep apnea (CSA) and sleep-related hypoxemia.
 Opioid use increases the risk of CSA in a dose-dependent fashion.
-In patients who present with CSA, consider decreasing the opioid dosage using best practices for opioid taper (see Dosage and Administration).
+In patients who present with CSA, consider decreasing the opioid dosage using best practices for opioid taper (see DOSAGE AND ADMINISTRATION).
+
+Patient Access to Naloxone for the Emergency Treatment of Opioid Overdose Discuss the availability of naloxone for the emergency treatment of opioid overdose with the patient and caregiver and assess the potential need for access to naloxone, both when initiating and renewing treatment with hydrocodone bitartrate and acetaminophen tablets.
+Inform patients and caregivers about the various ways to obtain naloxone as permitted by individual state naloxone dispensing and prescribing requirements or guidelines (e.g., by prescription, directly from a pharmacist, or as part of a community-based program).
+Educate patients and caregivers on how to recognize respiratory depression and emphasize the importance of calling 911 or getting emergency medical help, even if naloxone is administered (see PRECAUTIONS, Information for Patients).
+
+Consider prescribing naloxone, based on the patient’s risk factors for overdose, such as concomitant use of other CNS depressants, a history of opioid use disorder, or prior opioid overdose.
+The presence of risk factors for overdose should not prevent the proper management of pain in any given patient.
+Also consider prescribing naloxone if the patient has household members (including children) or other close contacts at risk for accidental ingestion or overdose.
+If naloxone is prescribed, educate patients and caregivers on how to treat with naloxone (see WARNINGS, Addiction, Abuse, and Misuse, Risks from Concomitant Use with Benzodiazepines or Other CNS Depressants; PRECAUTIONS, Information for Patients).
 
 ## Neonatal Opioid Withdrawal Syndrome
 
@@ -80,6 +92,8 @@ If the decision is made to prescribe a benzodiazepine or other CNS depressant co
 In patients already receiving an opioid analgesic, prescribe a lower initial dose of the benzodiazepine or other CNS depressant than indicated in the absence of an opioid, and titrate based on clinical response.
 If an opioid analgesic is initiated in a patient already taking a benzodiazepine or other CNS depressant, prescribe a lower initial dose of the opioid analgesic, and titrate based on clinical response.
 Follow patients closely for signs and symptoms of respiratory depression and sedation.
+
+If concomitant use is warranted, consider prescribing naloxone for the emergency treatment of opioid overdose (see WARNINGS, Life-Threatening Respiratory Depression; DOSAGE AND ADMINISTRATION, Patient Access to Naloxone for the Emergency Treatment of Opioid Overdose).
 
 Advise both patients and caregivers about the risks of respiratory depression and sedation when hydrocodone bitartrate and acetaminophen tablets are used with benzodiazepines or other CNS depressants (including alcohol and illicit drugs).
 Advise patients not to drive or operate heavy machinery until the effects of concomitant use of the benzodiazepine or other CNS depressant have been determined.
@@ -191,8 +205,23 @@ Inform patients that they can visit www.fda.gov/drugdisposal for a complete list
 Addiction, Abuse, and Misuse Inform patients that the use of hydrocodone bitartrate and acetaminophen tablets, even when taken as recommended, can result in addiction, abuse, and misuse, which can lead to overdose and death (see WARNINGS).
 Instruct patients not to share hydrocodone bitartrate and acetaminophen tablets with others and to take steps to protect hydrocodone bitartrate and acetaminophen tablets from theft or misuse.
 
-Life-Threatening Respiratory Depression Inform patients of the risk of life-threatening respiratory depression, including information that the risk is greatest when starting hydrocodone bitartrate and acetaminophen tablets or when the dosage is increased, and that it can occur even at recommended dosages (see WARNINGS).
-Advise patients how to recognize respiratory depression and to seek medical attention if breathing difficulties develop.
+Life-Threatening Respiratory Depression Inform patients of the risk of life-threatening respiratory depression, including information that the risk is greatest when starting hydrocodone bitartrate and acetaminophen tablets or when the dosage is increased, and that it can occur even at recommended dosages.
+
+Educate patients and caregivers on how to recognize respiratory depression and emphasize the importance of calling 911 or getting emergency medical help right away in the event of a known or suspected overdose (see WARNINGS, Life Threatening Respiratory Depression).
+
+Patient Access to Naloxone for the Emergency Treatment of Opioid Overdose Discuss with the patient and caregiver the availability of naloxone for the emergency treatment of opioid overdose, both when initiating and renewing treatment with hydrocodone bitartrate and acetaminophen tablets.
+Inform patients and caregivers about the various ways to obtain naloxone as permitted by individual state naloxone dispensing and prescribing requirements or guidelines (e.g., by prescription, directly from a pharmacist, or as part of a community-based program) (see WARNINGS, Life-Threatening Respiratory Depression; DOSAGE AND ADMINISTRATION).
+
+Educate patients and caregivers on how to recognize the signs and symptoms of an overdose.
+
+Explain to patients and caregivers that naloxone’s effects are temporary, and that they must call 911 or get emergency medical help right away in all cases of known or suspected opioid overdose, even if naloxone is administered (see OVERDOSAGE).
+
+If naloxone is prescribed, also advise patients and caregivers:
+
+- How to treat with naloxone in the event of an opioid overdose
+- To tell family and friends about their naloxone and to keep it in a place where family and friends can access it in an emergency
+- To read the Patient Information (or other educational material) that will come with their naloxone.
+  Emphasize the importance of doing this before an opioid emergency happens, so the patient and caregiver will know what to do.
 
 Accidental Ingestion Inform patients that accidental ingestion, especially by children, may result in respiratory depression or death (see WARNINGS).
 
@@ -267,7 +296,8 @@ Benzodiazepines and Other CNS Depressants Due to additive pharmacologic effect, 
 
 Reserve concomitant prescribing of these drugs for use in patients for whom alternative treatment options are inadequate.
 Limit dosages and durations to the minimum required.
-Follow patients closely for signs of respiratory depression and sedation (see WARNINGS).
+Follow patients closely for signs of respiratory depression and sedation.
+If concomitant use is warranted, consider prescribing naloxone for the emergency treatment of opioid overdose (see WARNINGS).
 
 Serotonergic Drugs The concomitant use of opioids with other drugs that affect the serotonergic neurotransmitter system, such as selective serotonin reuptake inhibitors (SSRIs), serotonin and norepinephrine reuptake inhibitors (SNRIs), tricyclic antidepressants (TCAs), triptans, 5-HT3 receptor antagonists, drugs that affect the serotonin neurotransmitter system (e.g., mirtazapine, trazodone, tramadol), certain muscle relaxants (i.e., cyclobenzaprine, metaxalone), and monoamine oxidase (MAO) inhibitors (those intended to treat psychiatric disorders and also others, such as linezolid and intravenous methylene blue), has resulted in serotonin syndrome (see PRECAUTIONS, Information for Patients).
 
@@ -287,6 +317,7 @@ Advise patient to avoid concomitant use of these drugs.
 Muscle Relaxants Hydrocodone bitartrate and acetaminophen tablets may enhance the neuromuscular blocking action of skeletal muscle relaxants and produce an increased degree of respiratory depression.
 
 If concomitant use is warranted, monitor patients for signs of respiratory depression that may be greater than otherwise expected and decrease the dosage of hydrocodone bitartrate and acetaminophen tablets and/or the muscle relaxant as necessary.
+Due to the risk of respiratory depression with concomitant use of skeletal muscle relaxants and opioids, consider prescribing naloxone for the emergency treatment of opioid overdose (see WARNINGS).
 
 Diuretics Opioids can reduce the efficacy of diuretics by inducing the release of antidiuretic hormone.
 
