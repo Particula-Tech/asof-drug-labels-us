@@ -38,9 +38,11 @@ Distribution
 Risperidone is rapidly distributed.
 The volume of distribution is 1 to 2 L/kg.
 In plasma, risperidone is bound to albumin and α1-acid glycoprotein.
-The plasma protein binding of risperidone is 90%, and that of its major metabolite, 9-hydroxyrisperidone, is 77%.
+The plasma protein binding of risperidone is approximately 90%, and that of its major metabolite, 9-hydroxyrisperidone, is 77%.
 Neither risperidone nor 9-hydroxyrisperidone displaces each other from plasma binding sites.
 High therapeutic concentrations of sulfamethazine (100 mcg/mL), warfarin (10 mcg/mL), and carbamazepine (10 mcg/mL) caused only a slight increase in the free fraction of risperidone at 10 ng/mL and 9-hydroxyrisperidone at 50 ng/mL, changes of unknown clinical significance.
+
+Elimination
 
 Metabolism
 
@@ -55,20 +57,6 @@ CYP 2D6 is subject to genetic polymorphism (about 6% to 8% of Caucasians, and a 
 Extensive CYP 2D6 metabolizers convert risperidone rapidly into 9-hydroxyrisperidone, whereas poor CYP 2D6 metabolizers convert it much more slowly.
 Although extensive metabolizers have lower risperidone and higher 9-hydroxyrisperidone concentrations than poor metabolizers, the pharmacokinetics of risperidone and 9-hydroxyrisperidone combined, after single and multiple doses, are similar in extensive and poor metabolizers.
 
-Risperidone could be subject to two kinds of drug-drug interactions.
-First, inhibitors of CYP 2D6 interfere with conversion of risperidone to 9-hydroxyrisperidone [see Drug Interactions (7)].
-This occurs with quinidine, giving essentially all recipients a risperidone pharmacokinetic profile typical of poor metabolizers.
-The therapeutic benefits and adverse effects of risperidone in patients receiving quinidine have not been evaluated, but observations in a modest number (n ≅ 70) of poor metabolizers given risperidone do not suggest important differences between poor and extensive metabolizers.
-Second, co-administration of known enzyme inducers (e.g., carbamazepine, phenytoin, rifampin, and phenobarbital) with risperidone may cause a decrease in the combined plasma concentrations of risperidone and 9-hydroxyrisperidone [see Drug Interactions (7)].
-It would also be possible for risperidone to interfere with metabolism of other drugs metabolized by CYP 2D6.
-Relatively weak binding of risperidone to the enzyme suggests this is unlikely [see Drug Interactions (7)].
-
-In vitro studies indicate that risperidone is a relatively weak inhibitor of CYP 2D6.
-Therefore, risperidone is not expected to substantially inhibit the clearance of drugs that are metabolized by this enzymatic pathway.
-In drug interaction studies, risperidone did not significantly affect the pharmacokinetics of donepezil and galantamine, which are metabolized by CYP 2D6.
-
-In vitro studies demonstrated that drugs metabolized by other CYP isozymes, including 1A1, 1A2, 2C9, 2C19, and 3A4, are only weak inhibitors of risperidone metabolism.
-
 Excretion
 
 Risperidone and its metabolites are eliminated via the urine and, to a much lesser extent, via the feces.
@@ -78,9 +66,21 @@ The apparent half-life of risperidone was 3 hours (CV = 30%) in extensive metabo
 The apparent half-life of 9-hydroxyrisperidone was about 21 hours (CV = 20%) in extensive metabolizers and 30 hours (CV = 25%) in poor metabolizers.
 The pharmacokinetics of risperidone and 9-hydroxyrisperidone combined, after single and multiple doses, were similar in extensive and poor metabolizers, with an overall mean elimination half-life of about 20 hours.
 
-Drug-Drug Interaction Studies
+Drug Interaction Studies
 
-[See Drug Interactions (7)].
+Risperidone could be subject to two kinds of drug-drug interactions.
+First, inhibitors of CYP 2D6 interfere with conversion of risperidone to 9-hydroxyrisperidone [see Drug Interactions (7)].
+This occurs with quinidine, giving essentially all recipients a risperidone pharmacokinetic profile typical of poor metabolizers.
+The therapeutic benefits and adverse effects of risperidone in patients receiving quinidine have not been evaluated, but observations in a modest number (n≅70) of poor metabolizers given risperidone do not suggest important differences between poor and extensive metabolizers.
+Second, co-administration of known enzyme inducers (e.g., carbamazepine, phenytoin, rifampin, and phenobarbital) with risperidone may cause a decrease in the combined plasma concentrations of risperidone and 9-hydroxyrisperidone [see Drug Interactions (7)].
+It would also be possible for risperidone to interfere with metabolism of other drugs metabolized by CYP 2D6.
+Relatively weak binding of risperidone to the enzyme suggests this is unlikely [see Drug Interactions (7)].
+
+In vitro studies indicate that risperidone is a relatively weak inhibitor of CYP 2D6.
+Therefore, risperidone is not expected to substantially inhibit the clearance of drugs that are metabolized by this enzymatic pathway.
+In drug interaction studies, risperidone did not significantly affect the pharmacokinetics of donepezil and galantamine, which are metabolized by CYP 2D6.
+
+In vitro studies demonstrated that drugs metabolized by other CYP isozymes, including 1A1, 1A2, 2C9, 2C19, and 3A4, are only weak inhibitors of risperidone metabolism.
 
 Specific Populations
 

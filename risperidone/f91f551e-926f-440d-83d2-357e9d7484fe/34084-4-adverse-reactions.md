@@ -11,7 +11,7 @@ The following are discussed in more detail in other sections of the labeling:
 - •Orthostatic hypotension [see Warnings and Precautions (5.7)]
 - •Falls [see Warnings and Precautions (5.8)]
 - •Leukopenia, neutropenia, and agranulocytosis [see Warnings and Precautions (5.9)]
-- •Potential for cognitive and motor impairment [seeWarnings and Precautions (5.10)]
+- •Potential for cognitive and motor impairment [see Warnings and Precautions (5.10)]
 - •Seizures [see Warnings and Precautions (5.11)]
 - •Dysphagia [see Warnings and Precautions (5.12)]
 - •Priapism [see Warnings and Precautions (5.13)]
@@ -421,4 +421,6 @@ In two controlled schizophrenia trials in adolescents (aged 13 to 17 years), the
 
 The following adverse reactions have been identified during postapproval use of risperidone.
 Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
-These adverse reactions include: alopecia, anaphylactic reaction, angioedema, atrial fibrillation, cardiopulmonary arrest, diabetic ketoacidosis in patients with impaired glucose metabolism, dysgeusia, hypoglycemia, hypothermia, ileus, inappropriate antidiuretic hormone secretion, intestinal obstruction, jaundice, mania, pancreatitis, pituitary adenoma, precocious puberty, pulmonary embolism, QT prolongation, sleep apnea syndrome, sudden death, thrombocytopenia, thrombotic thrombocytopenic purpura, urinary retention, and water intoxication.
+These adverse reactions include: alopecia, anaphylactic reaction, angioedema, atrial fibrillation, cardiopulmonary arrest, catatonia, diabetic ketoacidosis in patients with impaired glucose metabolism, dysgeusia, hypoglycemia, hypothermia, ileus, inappropriate antidiuretic hormone secretion, intestinal obstruction, jaundice, mania, pancreatitis, pituitary adenoma, precocious puberty, pulmonary embolism, QT prolongation, sleep apnea syndrome, somnambulism, Stevens-Johnson syndrome and toxic epidermal necrolysis (SJS/TEN), sudden death, thrombocytopenia, thrombotic thrombocytopenic purpura, urinary retention, and water intoxication.
+
+Postmarketing cases of extrapyramidal symptoms (dystonia and dyskinesia) have been reported in patients concomitantly taking methylphenidate and risperidone when there was an increase or decrease in dosage, initiation, or discontinuation of either or both medications.

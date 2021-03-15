@@ -1,37 +1,60 @@
 # 17 PATIENT COUNSELING INFORMATION
 
-Physicians are advised to discuss the following issues with patients for whom they prescribe risperidone orally disintegrating tablets and their caregivers:
+Physicians are advised to discuss the following issues with patients for whom they prescribe risperidone orally disintegrating tablets.
+
+Neuroleptic Malignant Syndrome (NMS)
+
+Counsel patients about a potentially fatal adverse reaction, Neuroleptic Malignant Syndrome (NMS), that has been reported in association with administration of antipsychotic drugs.
+Advise patients, family members, or caregivers to contact the healthcare provider or report to the emergency room if they experience signs and symptoms of NMS, including hyperpyrexia, muscle rigidity, altered mental status including delirium, and evidence of autonomic instability (irregular pulse or blood pressure, tachycardia, diaphoresis, and cardiac dysrhythmia) [see Warnings and Precautions (5.3)].
+
+Tardive Dyskinesia
+
+Counsel patients on the signs and symptoms of tardive dyskinesia and to contact their healthcare provider if these abnormal movements occur [see Warnings and Precautions (5.4)].
+
+Metabolic Changes
+
+Educate patients about the risk of metabolic changes, how to recognize symptoms of hyperglycemia and diabetes mellitus, and the need for specific monitoring, including blood glucose, lipids, and weight [see Warnings and Precautions (5.5)].
 
 Orthostatic Hypotension
 
-Advise patients and caregivers about the risk of orthostatic hypotension, especially during the period of initial dose titration [see Warnings and Precautions (5.7)].
+Educate patients about the risk of orthostatic hypotension and syncope, particularly at the time of initiating treatment, re-initiating treatment, or increasing the dose [see Warnings and Precautions (5.7)].
+
+Leukopenia/Neutropenia
+
+Advise patients with a pre-existing low WBC or a history of drug induced leukopenia/neutropenia they should have their CBC monitored while taking risperidone [see Warnings and Precautions (5.9)].
+
+Hyperprolactinemia
+
+Counsel patients on signs and symptoms of hyperprolactinemia that may be associated with chronic use of risperidone.
+Advise them to seek medical attention if they experience any of the following: amenorrhea or galactorrhea in females, erectile dysfunction or gynecomastia in males.
+[See Warnings and Precautions (5.6)].
 
 Interference with Cognitive and Motor Performance
 
-Inform patients and caregivers that risperidone orally disintegrating tablets has the potential to impair judgment, thinking, or motor skills.
-Advise caution about operating hazardous machinery, including automobiles, until patients are reasonably certain that risperidone orally disintegrating tablets therapy does not affect them adversely [see Warnings and Precautions(5.10)].
+Caution patients about performing activities requiring mental alertness, such as operating hazardous machinery, or operating a motor vehicle until they are reasonably certain that risperidone orally disintegrating tablets therapy does not affect them adversely [see Warnings and Precautions (5.10)].
 
-Concomitant Medication
+Priapism
 
-Advise patients and caregivers to inform their physicians if the patient is taking, or plans to take, any prescription or over-the-counter drugs, because there is a potential for interactions [see Drug Interactions (7)].
+Advise patients of the possibility of painful or prolonged penile erections (priapism).
+Instruct the patient to seek immediate medical attention in the event of priapism [Warnings and Precautions (5.13)].
 
-Alcohol
+Heat Exposure and Dehydration
 
-Advise patients to avoid alcohol while taking risperidone orally disintegrating tablets [see Drug Interactions (7.2)].
+Counsel patients regarding appropriate care in avoiding overheating and dehydration [see Warnings and Precautions (5.14)].
 
 Phenylketonurics
 
 Inform patients with Phenylketonuria and caregivers that risperidone orally disintegrating tablets contain phenylalanine.
 Phenylalanine is a component of aspartame.
-Each 4 mg risperidone orally disintegrating tablet contains 1.28 mg phenylalanine; each 3 mg risperidone orally disintegrating tablet contains 0.96 mg phenylalanine; each 2 mg risperidone orally disintegrating tablet contains 0.63 mg phenylalanine; each 1 mg risperidone orally disintegrating tablet contains 0.32 mg phenylalanine; each 0.5 mg risperidone orally disintegrating tablet contains 0.16 mg phenylalanine [see Warnings and Precautions (5.14)].
+Each 4 mg risperidone orally disintegrating tablet contains 1.28 mg phenylalanine; each 3 mg risperidone orally disintegrating tablet contains 0.96 mg phenylalanine; each 2 mg risperidone orally disintegrating tablet contains 0.63 mg phenylalanine; each 1 mg risperidone orally disintegrating tablet contains 0.32 mg phenylalanine; each 0.5 mg risperidone orally disintegrating tablet contains 0.16 mg phenylalanine [see Warnings and Precautions (5.15)].
 
-Metabolic Changes
+Concomitant Medication
 
-Inform patients and caregivers that treatment with risperidone orally disintegrating tablets can be associated with hyperglycemia and diabetes mellitus, dyslipidemia, and weight gain [see Warnings and Precautions (5.5)].
+Advise patients to inform their healthcare providers if they are taking, or plan to take any prescription or over-the-counter drugs, as there is a potential for interactions [see Drug Interactions (7)].
 
-Tardive Dyskinesia
+Alcohol
 
-Inform patients and caregivers about the risk of tardive dyskinesia [see Warnings and Precautions (5.4)].
+Advise patients to avoid alcohol while taking risperidone [see Drug Interactions (7.2)].
 
 Pregnancy
 
@@ -41,7 +64,7 @@ Advise patients that there is a pregnancy registry that monitors pregnancy outco
 
 Lactation
 
-Advise breastfeeding women using risperidone orally disintegrating tabletsto monitor infants for somnolence, failure to thrive, jitteriness, and extrapyramidal symptoms (tremors and abnormal muscle movements) and to seek medical care if they notice these signs [see Use in Specific Populations (8.2)].
+Advise breastfeeding women using risperidone orally disintegrating tablets to monitor infants for somnolence, failure to thrive, jitteriness, and extrapyramidal symptoms (tremors and abnormal muscle movements) and to seek medical care if they notice these signs [see Use in Specific Populations (8.2)].
 
 Infertility
 
@@ -62,4 +85,4 @@ Sun Pharmaceutical Industries, Inc.
 
 Cranbury, NJ 08512
 
-1. September 2018 FDA-07
+1. February 2021 FDA-10

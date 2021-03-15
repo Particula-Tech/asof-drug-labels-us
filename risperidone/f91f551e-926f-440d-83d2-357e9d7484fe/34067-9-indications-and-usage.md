@@ -15,7 +15,7 @@ Efficacy was established in 2 short-term trials in adults and one short-term tri
 Adjunctive Therapy
 
 Risperidone orally disintegrating tablets adjunctive therapy with lithium or valproate is indicated for the treatment of acute manic or mixed episodes associated with Bipolar I Disorder.
-Efficacy was established in one short-term trial in adults [seeClinical Studies (14.3)].
+Efficacy was established in one short-term trial in adults [see Clinical Studies (14.3)].
 
 ## 1.3 Irritability Associated with Autistic Disorder
 

@@ -41,7 +41,7 @@ Patients experiencing persistent somnolence may benefit from administering half 
 
 Maintenance Therapy
 
-While it is unknown how long a patient with schizophrenia should remain on risperidone orally disintegrating tablets, the effectiveness of risperidone orally disintegrating tablets 2 mg per day to 8 mg per day at delaying relapse was demonstrated in a controlled trial in adult patients who had been clinically stable for at least 4 weeks and were then followed for a period of 1 to 2 years [seeClinical Studies (14.1)].
+While it is unknown how long a patient with schizophrenia should remain on risperidone orally disintegrating tablets, the effectiveness of risperidone orally disintegrating tablets 2 mg per day to 8 mg per day at delaying relapse was demonstrated in a controlled trial in adult patients who had been clinically stable for at least 4 weeks and were then followed for a period of 1 to 2 years [see Clinical Studies (14.1)].
 Both adult and adolescent patients who respond acutely should generally be maintained on their effective dose beyond the acute episode.
 Patients should be periodically reassessed to determine the need for maintenance treatment.
 
