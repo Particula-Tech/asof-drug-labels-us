@@ -53,9 +53,9 @@ Concentration–Efficacy Relationships
 Studies in normal volunteers and patients reveal predictable relationships between oxycodone dosage and plasma oxycodone concentrations, as well as between concentration and certain expected opioid effects, such as pupillary constriction, sedation, overall subjective "drug effect," analgesia, and feelings of relaxation.
 
 The minimum effective analgesic concentration will vary widely among patients, especially among patients who have been previously treated with potent agonist opioids.
-The minimum effective analgesic concentration of oxycodone for any individual patient may increase over time due to an increase in pain, the development of a new pain syndrome, and/or the development of analgesic tolerance [see Dosage and Administration (2.1, 2.4)].
+The minimum effective analgesic concentration of oxycodone for any individual patient may increase over time due to an increase in pain, the development of a new pain syndrome, and/or the development of analgesic tolerance [see Dosage and Administration (2.1, 2.5)].
 
-Concentration –Adverse Reaction Relationships
+Concentration–Adverse Reaction Relationships
 
 There is a relationship between increasing oxycodone plasma concentration and increasing frequency of dose-related opioid adverse reactions such as nausea, vomiting, CNS effects, and respiratory depression.
 In opioid-tolerant patients, the situation may be altered by the development of tolerance to opioid-related adverse reactions.
@@ -96,7 +96,7 @@ Table 7: Oxycodone Pharmacokinetic Parameters, Administration of Capsule Content
 | --- | --- | --- | --- |
 | Intact XTAMPZA ER Capsules (fed) | 55.3 (13.6) | 4.5 (1.5 – 9.0) | 540 (143) |
 | Sprinkled XTAMPZA ER Capsule Contents (fed) | 48.1 (12.0) | 4.5 (2.5 – 9.0) | 528 (130) |
-| Values shown for Cmax and AUC0-INF are mean (standard deviation); values shown for Tmax are median (minimum - maximum). |  |  |  |
+| Values shown for Cmax and AUC0-INF are mean (standard deviation); values shown for Tmax are median (minimum – maximum). |  |  |  |
 
 Distribution
 

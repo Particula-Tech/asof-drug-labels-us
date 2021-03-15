@@ -8,11 +8,10 @@ XTAMPZA ER single doses greater than 36 mg (equivalent to 40 mg oxycodone hydroc
 Patients considered opioid tolerant are those receiving, for one week or longer, at least 60 mg oral morphine per day, 25 mcg transdermal fentanyl per hour, 30 mg oral oxycodone HCl per day, 8 mg oral hydromorphone per day, 25 mg oral oxymorphone per day, 60 mg oral hydrocodone per day, or an equianalgesic dose of another opioid.
 
 XTAMPZA ER is administered, twice daily, every 12 hours, and must be taken with food.
-Instruct patients to take XTAMPZA ER capsules with approximately the same amount of food for every dose in order to ensure consistent plasma levels are achieved.
-[see Clinical Pharmacology (12.3)].
+Instruct patients to take XTAMPZA ER capsules with approximately the same amount of food for every dose in order to ensure consistent plasma levels are achieved [see Clinical Pharmacology (12.3)].
 
 Patients who are unable to swallow XTAMPZA ER should be instructed to sprinkle the capsule contents on soft foods or into a cup and then administer directly into the mouth and immediately swallow.
-XTAMPZA ER may also be administered through a gastrostomy or nasogastric feeding tube [see Dosage and Administration 2.6].
+XTAMPZA ER may also be administered through a gastrostomy or nasogastric feeding tube [see Dosage and Administration (2.7)].)
 
 - Use the lowest effective dosage for the shortest duration consistent with individual patient treatment goals [see Warnings and Precautions (5)].
 - Initiate the dosing regimen for each patient individually, taking into account the patient's severity of pain, patient response, prior analgesic treatment experience, and risk factors for addiction, abuse, and misuse [see Warnings and Precautions (5.1)].
@@ -33,7 +32,18 @@ Equivalence table for dosage strengths of oxycodone hydrochloride salt and oxyco
 | 30 mg | 27 mg |
 | 40 mg | 36 mg |
 
-## 2.2 Initial Dosing
+## 2.2 Patient Access to Naloxone for the Emergency Treatment of Opioid Overdose
+
+Discuss the availability of naloxone for the emergency treatment of opioid overdose with the patient and caregiver and assess the potential need for access to naloxone, both when initiating and renewing treatment with XTAMPZA ER [see Warnings and Precautions (5.3), Patient Counseling Information (17)].
+
+Inform patients and caregivers about the various ways to obtain naloxone as permitted by individual state naloxone dispensing and prescribing requirements or guidelines (e.g., by prescription, directly from a pharmacist, or as part of a community-based program).
+
+Consider prescribing naloxone, based on the patient's risk factors for overdose, such as concomitant use of CNS depressants, a history of opioid use disorder, or prior opioid overdose.
+The presence of risk factors for overdose should not prevent the proper management of pain in any given patient [see Warnings and Precautions (5.1, 5.3, 5.6)].
+
+Consider prescribing naloxone if the patient has household members (including children) or other close contacts at risk for accidental ingestion or overdose.
+
+## 2.3 Initial Dosing
 
 Use of XTAMPZA ER as the First Opioid Analgesic (Opioid-Naïve Patients)
 
@@ -47,7 +57,7 @@ Use of higher starting doses in patients who are not opioid tolerant may cause f
 
 Conversion from other Oral Oxycodone Formulations to XTAMPZA ER
 
-Patients receiving other oral oxycodone formulations, may be converted to XTAMPZA ER, using the same total daily dose of oxycodone, by administering one-half of the patient's total daily oral oxycodone dose as XTAMPZA ER every 12 hours with food.
+Patients receiving other oral oxycodone formulations may be converted to XTAMPZA ER, using the same total daily dose of oxycodone, by administering one-half of the patient's total daily oral oxycodone dose as XTAMPZA ER every 12 hours with food.
 Because XTAMPZA ER is not bioequivalent to other oxycodone extended-release products, monitor patients for possible dosage adjustment [see Dosage and Administration (2.1) and Patient Counseling Information (17)].
 
 Conversion from other Opioids to XTAMPZA ER
@@ -72,14 +82,13 @@ Eighteen hours following the removal of the transdermal fentanyl patch, XTAMPZA 
 Although there has been no systematic assessment of such conversion, a conservative oxycodone dose, approximately 9 mg (equivalent to 10 mg oxycodone HCl) every 12 hours of XTAMPZA ER, should be initially substituted for each 25 mcg/hr fentanyl transdermal patch.
 Follow the patient closely during conversion from transdermal fentanyl to XTAMPZA ER, as there is limited documented experience with this conversion.
 
-## 2.3 Dosage Modifications in Patients with Hepatic Impairment
+## 2.4 Dosage Modifications in Patients with Hepatic Impairment
 
 For patients with hepatic impairment, start dosing patients at 1/3 to 1/2 the usual starting dose followed by careful dose titration.
 Monitor closely for adverse events such as respiratory depression.
-Use of alternate analgesics is recommended for patients who require an XTAMPZA ER dose of less than 9 mg.
-[see Use in Specific Populations (8.5), Clinical Pharmacology (12.3)].
+Use of alternate analgesics is recommended for patients who require an XTAMPZA ER dose of less than 9 mg [see Use in Specific Populations (8.5), Clinical Pharmacology (12.3)].
 
-## 2.4 Titration and Maintenance of Therapy
+## 2.5 Titration and Maintenance of Therapy
 
 Individually titrate XTAMPZA ER to a dose that provides adequate analgesia and minimizes adverse reactions.
 Continually reevaluate patients receiving XTAMPZA ER to assess the maintenance of pain control and the relative incidence of adverse reactions, as well as monitoring for the development of addiction, abuse, and misuse.
@@ -98,7 +107,7 @@ As a guideline, the total daily oxycodone dose usually can be increased by 25% t
 If unacceptable opioid-related adverse reactions are observed, the subsequent dosages may be reduced.
 Adjust the dosage to obtain an appropriate balance between management of pain and opioid-related adverse reactions.
 
-## 2.5 Safe Reduction or Discontinuation of XTAMPZA ER
+## 2.6 Safe Reduction or Discontinuation of XTAMPZA ER
 
 Do not abruptly discontinue XTAMPZA ER in patients who may be physically dependent on opioids.
 Rapid discontinuation of opioid analgesics in patients who are physically dependent on opioids has resulted in serious withdrawal symptoms, uncontrolled pain, and suicide.
@@ -109,7 +118,7 @@ When a decision has been made to decrease the dose or discontinue therapy in an 
 It is important to ensure ongoing care of the patient and to agree on an appropriate tapering schedule and follow-up plan so that patient and provider goals and expectations are clear and realistic.
 When opioid analgesics are being discontinued due to a suspected substance use disorder, evaluate and treat the patient, or refer for evaluation and treatment of the substance use disorder.
 Treatment should include evidence-based approaches, such as medication assisted treatment of opioid use disorder.
-Complex patients with co- morbid pain and substance use disorders may benefit from referral to a specialist.
+Complex patients with co-morbid pain and substance use disorders may benefit from referral to a specialist.
 
 There are no standard opioid tapering schedules that are suitable for all patients.
 Good clinical practice dictates a patient-specific plan to taper the dose of the opioid gradually.
@@ -126,7 +135,7 @@ In addition, monitor patients for any changes in mood, emergence of suicidal tho
 When managing patients taking opioid analgesics, particularly those who have been treated for a long duration and/or with high doses for chronic pain, ensure that a multimodal approach to pain management, including mental health support (if needed), is in place prior to initiating an opioid analgesic taper.
 A multimodal approach to pain management may optimize the treatment of chronic pain, as well as assist with the successful tapering of the opioid analgesic [see Warnings and Precautions (5.13), Drug Abuse and Dependence (9.3)].
 
-## 2.6 Administration of XTAMPZA ER
+## 2.7 Administration of XTAMPZA ER
 
 Instruct patients to always take XTAMPZA ER capsules with food and with approximately the same amount of food in order to ensure consistent plasma levels are achieved [see Dosage and Administration (2.1), Clinical Pharmacology (12.3)].
 

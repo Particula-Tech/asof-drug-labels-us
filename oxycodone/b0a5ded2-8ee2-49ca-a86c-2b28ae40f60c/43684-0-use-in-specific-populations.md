@@ -32,7 +32,7 @@ An opioid antagonist, such as naloxone, must be available for reversal of opioid
 XTAMPZA ER is not recommended for use in pregnant women during or immediately prior to labor, when other analgesic techniques are more appropriate.
 Opioid analgesics, including XTAMPZA ER, can prolong labor through actions which temporarily reduce the strength, duration, and frequency of uterine contractions.
 However, this effect is not consistent and may be offset by an increased rate of cervical dilatation, which tends to shorten labor.
-Monitor neonates exposed to opioid analgesics during labor for signs of excess sedation and respiratory depression
+Monitor neonates exposed to opioid analgesics during labor for signs of excess sedation and respiratory depression.
 
 Data
 
@@ -88,15 +88,13 @@ Titrate the dosage of XTAMPZA ER slowly in geriatric patients and monitor closel
 A study in patients with hepatic impairment demonstrated greater plasma oxycodone concentrations than those seen at equivalent doses in persons with normal hepatic function.
 A similar effect on plasma oxycodone concentrations can be expected for patients with hepatic impairment taking XTAMPZA ER.
 Therefore, in the setting of hepatic impairment, start dosing patients at 1/3 to 1/2 the usual starting dose followed by careful dose titration.
-Use of alternative analgesics is recommended for patients who require a dose of XTAMPZA ER less than 9 mg.
-[see Dosage and Administration (2.3), Clinical Pharmacology (12.3)].
+Use of alternative analgesics is recommended for patients who require a dose of XTAMPZA ER less than 9 mg [see Dosage and Administration (2.4), Clinical Pharmacology (12.3)].
 
 ## 8.7 Renal Impairment
 
 In patients with renal impairment, as evidenced by decreased creatinine clearance (<60 mL/min), the concentrations of oxycodone in the plasma are approximately 50% higher than in subjects with normal renal function.
 Follow a conservative approach to dose initiation and adjust according to the clinical situation.
-Use of alternative analgesics is recommended for patients who require a dose of XTAMPZA ER less than 9 mg.
-[see Clinical Pharmacology (12.3)].
+Use of alternative analgesics is recommended for patients who require a dose of XTAMPZA ER less than 9 mg [see Clinical Pharmacology (12.3)].
 
 ## 8.8 Sex Differences
 

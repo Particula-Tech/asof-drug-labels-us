@@ -71,7 +71,7 @@ The data displayed in Table 3 illustrate the findings from the oral pharmacokine
 Collectively, the data demonstrated that crushing or chewing XTAMPZA ER prior to administration did not increase the maximum observed plasma concentration (Cmax) or total exposure (AUC0-INF) relative to dosing the intact product under fed conditions.
 Relative to immediate-release oxycodone and crushed reformulated OXYCONTIN (oxycodone hydrochloride) extended-release tablets, the Cmax for all XTAMPZA ER treatments was lower and the Tmax longer, consistent with an extended-release profile.
 
-Table 3: Oxycodone Pharmacokinetic Parameters, Administration of Manipulated and Intact Dosage Forms (36mg of XTAMPZA ER or equivalent)
+Table 3: Oxycodone Pharmacokinetic Parameters, Administration of Manipulated and Intact Dosage Forms (36 mg of XTAMPZA ER or equivalent)
 
 |  | Cmax (ng/mL) | Tmax (hr) | AUC0-INF (hr∙ng/mL) |
 | --- | --- | --- | --- |
@@ -81,8 +81,8 @@ Table 3: Oxycodone Pharmacokinetic Parameters, Administration of Manipulated and
 | Chewed XTAMPZA ER Capsule Contents (fed) | 55.6 (10.9) | 4.5 (2.5-8) | 559 (113) |
 | Immediate-Release Oxycodone Solution (fasted) | 115 (27.3) | 0.75 (0.5-2) | 489 (80.2) |
 |  | Oral Pharmacokinetic Study 2 |  |  |
-| Intact XTAMPZA ER Capsules (fed) | 67.5 (17.6) | 3.5 (1.25 – 6.0) | 581 (138) |
-| Crushed XTAMPZA ER Capsule Contents (fed) | 62.9 (12.6) | 4.0 (2.0 – 7.0) | 597 (149) |
+| Intact XTAMPZA ER Capsules (fed) | 67.5 (17.6) | 3.5 (1.25–6.0) | 581 (138) |
+| Crushed XTAMPZA ER Capsule Contents (fed) | 62.9 (12.6) | 4.0 (2.0–7.0) | 597 (149) |
 | Intact reformulated OXYCONTIN (oxycodone hydrochloride) extended-release tablets (fed) | 64.9 (13.8) | 5.0 (2.0-10.0) | 611 (145) |
 | Crushed reformulated OXYCONTIN (oxycodone hydrochloride) extended-release tablets (fed) | 78.4 (12.9) | 1.75 (0.5-5.0) | 587 (132) |
 | Crushed Immediate-Release Oxycodone Tablets (fed) | 79.4 (17.1) | 1.75 (0.5-4.0) | 561 (146) |
@@ -194,8 +194,8 @@ Do not abruptly discontinue XTAMPZA ER in a patient physically dependent on opio
 Rapid tapering of XTAMPZA ER in a patient physically dependent on opioids may lead to serious withdrawal symptoms, uncontrolled pain, and suicide.
 Rapid discontinuation has also been associated with attempts to find other sources of opioid analgesics, which may be confused with drug-seeking for abuse.
 
-When discontinuing XTAMPZA ER, gradually taper the dosage using a patient- specific plan that considers the following: the dose of XTAMPZA ER the patient has been taking, the duration of treatment, and the physical and psychological attributes of the patient.
+When discontinuing XTAMPZA ER, gradually taper the dosage using a patient-specific plan that considers the following: the dose of XTAMPZA ER the patient has been taking, the duration of treatment, and the physical and psychological attributes of the patient.
 To improve the likelihood of a successful taper and minimize withdrawal symptoms, it is important that the opioid tapering schedule is agreed upon by the patient.
-In patients taking opioids for a long duration at high doses, ensure that a multimodal approach to pain management, including mental health support (if needed), is in place prior to initiating an opioid analgesic taper [see Dosage and Administration (2.5), Warnings and Precautions (5.13)].
+In patients taking opioids for a long duration at high doses, ensure that a multimodal approach to pain management, including mental health support (if needed), is in place prior to initiating an opioid analgesic taper [see Dosage and Administration (2.6), Warnings and Precautions (5.13)].
 
 Infants born to mothers physically dependent on opioids will also be physically dependent and may exhibit respiratory difficulties and withdrawal symptoms [see Use in Specific Populations (8.1)].
