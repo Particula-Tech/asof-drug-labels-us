@@ -10,14 +10,14 @@ Embryo-Fetal Toxicity
   Advise female patients to contact their healthcare provider with a known or suspected pregnancy [see Use in Specific Populations (8.1)].
 - •Advise females of reproductive potential to use effective contraception during treatment and for 7 months following the last dose of Ogivri [see Use in Specific Populations (8.3)].
 
-Ogivri® and the Ogivri Logo are registered trademarks of Mylan Institutional Inc.
+Ogivri® and the Ogivri Logo are registered trademarks of Mylan Institutional Inc., a Viatris Company.
 
-Copyright © 2020 Mylan Inc. All rights reserved.
+© 2021 Viatris Inc.
 
 Manufactured by: Mylan Pharmaceuticals Inc. Morgantown, WV 26505 U.S.A.
 
 US License No. 2210
 
-KR/DRUGS/KTK/28D/07/2006
+KR/DRUGS/KTK/28D/07/2006 KR/DRUGS/KTK/28/0456/2019
 
-B:TRAS420B:R1
+B:TRAS4224B:R6
