@@ -54,6 +54,7 @@ Anastrozole is 40% bound to plasma proteins in the therapeutic range.
 Metabolism of anastrozole occurs by N-dealkylation, hydroxylation and glucuronidation.
 Three metabolites of anastrozole (triazole, a glucuronide conjugate of hydroxy-anastrozole, and a glucuronide conjugate of anastrozole itself) have been identified in human plasma and urine.
 The major circulating metabolite of anastrozole, triazole, lacks pharmacologic activity.
+
 Anastrozole inhibited reactions catalyzed by cytochrome P450 1A2, 2C8/9, and 3A4 in vitro with Ki values which were approximately 30 times higher than the mean steady-state C max values observed following a 1 mg daily dose.
 Anastrozole had no inhibitory effect on reactions catalyzed by cytochrome P450 2A6 or 2D6 in vitro.
 Administration of a single 30 mg/kg or multiple10 mg/kg doses of anastrozole to healthy subjects had no effect on the clearance of antipyrine or urinary recovery of antipyrine metabolites.

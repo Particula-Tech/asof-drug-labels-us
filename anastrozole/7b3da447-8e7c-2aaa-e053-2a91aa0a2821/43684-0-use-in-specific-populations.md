@@ -58,7 +58,7 @@ All patients received a 1 mg daily dose of Anastrozole tablets.
 The trial duration was 12 months.
 Patients were enrolled on the basis of a diagnosis of typical (27/28) or atypical (1/27) McCune-Albright Syndrome, precocious puberty, history of vaginal bleeding, and/or advanced bone age.
 Patients’ baseline characteristics included the following: a mean chronological age of 5.9 ± 2.0 years, a mean bone age of 8.6 ± 2.6 years, a mean growth rate of 7.9 ± 2.9 cm/year and a mean Tanner stage for breast of 2.7 ± 0.81.
-Compared to pre-treatment data there were no on-treatment statistically significant reductions in the frequency of vaginal bleeding days, or in the rate of increase of bone age (defined as a ratio between the changes in bone age over the change of chronological age).
+Compared to pre-treatment data there were no on-treatment statistically significant reductions in the frequency of vaginal bleeding days, or in the rate of increase of bone age (defined as a ratio between the change in bone age over the change of chronological age).
 There were no clinically significant changes in Tanner staging, mean ovarian volume, mean uterine volume and mean predicted adult height.
 A small but statistically significant reduction of growth rate from 7.9 ± 2.9 cm/year to 6.5 ± 2.8 cm/year was observed but the absence of a control group precludes attribution of this effect to treatment or to other confounding factors such as variations in endogenous estrogen levels commonly seen in McCune-Albright Syndrome patients.
 
@@ -67,7 +67,7 @@ These were nausea, acne, pain in an extremity, increased alanine transaminase an
 
 Pharmacokinetics in Pediatric Patients
 
-Following 1 mg once daily multiple administration in pediatric patients, the mean time to reach the maximum anastrozole concentration was 1 hr. The mean (range) disposition parameters of anastrozole in pediatric patients were described by a CL/F of1.54 L/h (0.77-4.53 L/h) and V/F of 98.4 L (50.7-330.0 L). The terminal elimination half-life was 46.8 h, which was similar to that observed in postmenopausal women treated with anastrozole for breast cancer.
+Following 1 mg once daily multiple administration in pediatric patients, the mean time to reach the maximum anastrozole concentration was 1 hr. The mean (range) disposition parameters of anastrozole in pediatric patients were described by a CL/F of 1.54 L/h (0.77-4.53 L/h) and V/F of 98.4 L (50.7-330.0 L). The terminal elimination half-life was 46.8 h, which was similar to that observed in postmenopausal women treated with anastrozole for breast cancer.
 Based on a population pharmacokinetic analysis, the pharmacokinetics of anastrozole was similar in boys with pubertal gynecomastia and girls with McCune-Albright Syndrome.
 
 ## 8.5 Geriatric Use
@@ -78,7 +78,7 @@ In studies 0004 and 0005, 50% of patients were 65 or older.
 Response rates and time to progression were similar for the over 65 and younger patients.
 
 In the ATAC study, 45% of patients were 65 years of age or older.
-The efficacy of Anastrozole compared to tamoxifen in patients who were 65 years or older (N=1413 for Anastrozole and N=1410 for tamoxifen, the hazard ratio for disease-free survival was 0.93[95% CI: 0.80, 1.08]) was less than efficacy observed in patients who were less than 65 years of age (N=1712 for Anastrozole and N=1706 for tamoxifen, the hazard ratio for disease-free survival was 0.79 [95% CI: 0.67, 0.94]).
+The efficacy of Anastrozole compared to tamoxifen in patients who were 65 years or older (N=1413 for Anastrozole and N=1410 for tamoxifen, the hazard ratio for disease-free survival was 0.93 [95% CI: 0.80, 1.08]) was less than efficacy observed in patients who were less than 65 years of age (N=1712 for Anastrozole and N=1706 for tamoxifen, the hazard ratio for disease-free survival was 0.79 [95% CI: 0.67, 0.94]).
 
 The pharmacokinetics of anastrozole are not affected by age.
 
@@ -91,5 +91,4 @@ Dosage adjustment in patients with renal impairment is not necessary [see Dosage
 
 The plasma anastrozole concentrations in the subjects with hepatic cirrhosis were within the range of concentrations seen in normal subjects across all clinical trials.
 Therefore, dosage adjustment is also not necessary in patients with stable hepatic cirrhosis.
-
 Anastrozole has not been studied in patients with severe hepatic impairment [see Dosage and Administration (2.2) and Clinical Pharmacology (12.3)].

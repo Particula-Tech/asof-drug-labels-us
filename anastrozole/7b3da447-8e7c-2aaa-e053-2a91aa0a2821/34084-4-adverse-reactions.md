@@ -20,7 +20,7 @@ Adverse reactions occurring with an incidence of at least 5% in either treatment
 
 Table 1 — Adverse reactions occurring with an incidence of at least 5% in either treatment group during treatment, or within 14 days of the end of treatment in the ATAC trial *
 
-| Body system and adverse reactions byCOSTART preferred term † ‡ | Anastrozole 1 mg(N§= 3092) | Tamoxifen 20 mg(N§ = 3094) |
+| Body system and adverse reactions byCOSTART † preferred term † | Anastrozole 1 mg(N §= 3092) | Tamoxifen 20 mg(N § = 3094) |
 | --- | --- | --- |
 | Body as a whole |  |  |
 | Asthenia | 575 (19) | 544 (18) |
@@ -82,9 +82,9 @@ Table 1 — Adverse reactions occurring with an incidence of at least 5% in eith
 | Breast pain | 251 (8) | 169 (6) |
 | Breast Neoplasm | 164 (5) | 139 (5) |
 | Vulvovaginitis | 194 (6) | 150 (5) |
-| Vaginal Hemorrhage¶ | 122 (4) | 180 (6) |
+| Vaginal Hemorrhage ¶ | 122 (4) | 180 (6) |
 | Vaginitis | 125 (4) | 158 (5) |
-| *The combination arm was discontinued due to lack of efficacy benefit at 33 months of follow-up.†COSTART Coding Symbols for Thesaurus of Adverse Reaction Terms.‡A patient may have had more than 1 adverse reaction, including more than 1 adverse reaction in the same body system.§N=Number of patients receiving the treatment.¶Vaginal Hemorrhage without further diagnosis. |  |  |
+| *The combination arm was discontinued due to lack of efficacy benefit at 33 months of follow-up. †COSTART Coding Symbols for Thesaurus of Adverse Reaction Terms. ‡A patient may have had more than 1 adverse reaction, including more than 1 adverse reaction in the same body system. §N=Number of patients receiving the treatment. ¶Vaginal Hemorrhage without further diagnosis. |  |  |
 
 Certain adverse reactions and combinations of adverse reactions were prospectively specified for analysis, based on the known pharmacologic properties and side effect profiles of the two drugs (see Table 2).
 
@@ -93,7 +93,7 @@ Table 2 — Number of Patients with Pre-specified Adverse Reactions in ATAC Tria
 |  | AnastrozoleN= 3092 (%) | TamoxifenN=3094(%) | Odds-ratio | 95% CI |
 | --- | --- | --- | --- | --- |
 | Hot Flashes | 1104 (36) | 1264 (41) | 0.80 | 0.73 - 0.89 |
-| Musculoskeletal Events† | 1100 (36) | 911 (29) | 1.32 | 1.19 - 1.47 |
+| Musculoskeletal Events † | 1100 (36) | 911 (29) | 1.32 | 1.19 - 1.47 |
 | Fatigue/Asthenia | 575 (19) | 544 (18) | 1.07 | 0.94 - 1.22 |
 | Mood Disturbances | 597 (19) | 554 (18) | 1.10 | 0.97 - 1.25 |
 | Nausea and Vomiting | 393 (13) | 384 (12) | 1.03 | 0.88 - 1.19 |
@@ -109,14 +109,14 @@ Table 2 — Number of Patients with Pre-specified Adverse Reactions in ATAC Tria
 | Venous Thromboembolic events | 87 (3) | 140 (5) | 0.61 | 0.47 - 0.80 |
 | Deep Venous Thromboembolic Events | 48 (2) | 74 (2) | 0.64 | 0.45 - 0.93 |
 | Ischemic Cerebrovascular Event | 62 (2) | 88 (3) | 0.70 | 0.50 - 0.97 |
-| Endometrial Cancer‡ | 4 (0.2) | 13 (0.6) | 0.31 | 0.10 - 0.94 |
-| *Patients with multiple events in the same category are counted only once in that category.†Refers to joint symptoms, including joint disorder, arthritis, arthrosis and arthralgia.‡Percentages calculated based upon the numbers of patients with an intact uterus at baseline |  |  |  |  |
+| Endometrial Cancer ‡ | 4 (0.2) | 13 (0.6) | 0.31 | 0.10 - 0.94 |
+| *Patients with multiple events in the same category are counted only once in that category. †Refers to joint symptoms, including joint disorder, arthritis, arthrosis and arthralgia. ‡Percentages calculated based upon the numbers of patients with an intact uterus at baseline |  |  |  |  |
 
 Ischemic Cardiovascular Events
 
 Between treatment arms in the overall population of 6186 patients, there was no statistical difference in ischemic cardiovascular events (4% Anastrozole vs. 3% tamoxifen).
 In the overall population, angina pectoris was reported in 71/3092 (2.3%) patients in the Anastrozole arm and 51/3094 (1.6%) patients in the tamoxifen arm; myocardial infarction was reported in 37/3092 (1.2%) patients in the Anastrozole arm and 34/3094 (1.1%) patients in the tamoxifen arm.
-In women with pre-existing ischemic heart disease 465/6186 (7.5%), the incidence of ischemic cardiovascular events was 17% inpatients on Anastrozole and 10% in patients on tamoxifen.
+In women with pre-existing ischemic heart disease 465/6186 (7.5%), the incidence of ischemic cardiovascular events was 17% in patients on Anastrozole and 10% in patients on tamoxifen.
 In this patient population, angina pectoris was reported in 25/216 (11.6%) patients receiving Anastrozole and 13/249 (5.2%) patients receiving tamoxifen; myocardial infarction was reported in 2/216 (0.9%) patients receiving Anastrozole and 8/249 (3.2%) patients receiving tamoxifen.
 
 Bone Mineral Density Findings Results from the ATAC trial bone substudy at 12 and 24 months demonstrated that patients receiving Anastrozole had a mean decrease in both lumbar spine and total hip bone mineral density (BMD) compared to baseline.
@@ -157,7 +157,7 @@ Table 3 – Adverse Reactions Occurring with an Incidence of at Least 5% in Tria
 
 | Body systemAdverse Reaction* | Number (%) of subjects |  |
 | --- | --- | --- |
-|  | ANASTROZOLE(N=506) | Tamoxifen(N=511) |
+|  | Anastrozole(N=506) | Tamoxifen(N=511) |
 | Whole body |  |  |
 | Asthenia | 83 (16) | 81 (16) |
 | Pain | 70 (14) | 73 (14) |
@@ -203,19 +203,19 @@ Table 4 – Number of Patients with Pre-specified Adverse Reactions in Trials 00
 
 |  | Number (n) and Percentage of Patients |  |
 | --- | --- | --- |
-| Adverse Reaction* | ANASTROZOLE1 mg(N=506)n (%) | NOLVADEX20 mg(N=511)n (%) |
+| Adverse Reaction * | Anastrozole1 mg(N=506)n (%) | NOLVADEX20 mg(N=511)n (%) |
 | Depression | 23 (5) | 32 (6) |
 | Tumor Flare | 15 (3) | 18 (4) |
-| Thromboembolic Disease† | 18 (4) | 33 (6) |
-| Venous† | 5 | 15 |
-| Coronary and Cerebral‡ | 13 | 19 |
+| Thromboembolic Disease † | 18 (4) | 33 (6) |
+| Venous † | 5 | 15 |
+| Coronary and Cerebral ‡ | 13 | 19 |
 | Gastrointestinal Disturbance | 170 (34) | 196 (38) |
 | Hot Flushes | 134 (26) | 118 (23) |
 | Vaginal Dryness | 9 (2) | 3 (1) |
 | Lethargy | 6 (1) | 15 (3) |
 | Vaginal Bleeding | 5 (1) | 11 (2) |
 | Weight Gain | 11 (2) | 8 (2) |
-| *A patient may have had more than 1 adverse reaction.†Includes pulmonary embolus, thrombophlebitis, retinal vein thrombosis.‡Includes myocardial infarction, myocardial ischemia, angina pectoris, cerebrovascular accident,cerebral ischemia and cerebral infarct. |  |  |
+| *A patient may have had more than 1 adverse reaction. †Includes pulmonary embolus, thrombophlebitis, retinal vein thrombosis. ‡Includes myocardial infarction, myocardial ischemia, angina pectoris, cerebrovascular accident, cerebral ischemia and cerebral infarct. |  |  |
 
 ### Second-Line Therapy
 
@@ -223,9 +223,9 @@ Anastrozole was tolerated in two controlled clinical trials (i.e., Trials 0004 a
 The principal adverse reaction more common with Anastrozole than megestrol acetate was diarrhea.
 Adverse reactions reported in greater than 5% of the patients in any of the treatment groups in these two controlled clinical trials, regardless of causality, are presented below:
 
-Table 5 – Number (N) and Percentage of Patients with Adverse Reactions in Trials 0004 and 0005
+Table 5 – Number (n) and Percentage of Patients with Adverse Reactions in Trials 0004 and 0005
 
-| Adverse Reaction* | Anastrozole |  | Anastrozole |  | Megestrol Acetate |  |
+| Adverse Reaction * | Anastrozole |  | Anastrozole |  | Megestrol Acetate |  |
 | --- | --- | --- | --- | --- | --- | --- |
 | 1 mg |  | 10 mg |  | 160 mg |  |  |
 | (N=262) |  | (N=246) |  | (N=253) |  |  |
@@ -270,7 +270,7 @@ The results are shown in the table below.
 
 Table 6 — Number (n) and Percentage of Patients with Pre-specified Adverse Reactions in Trials 0004 and 0005
 
-|  | Anastrozole |  | Anastrozole |  | Megestrol Acetate |  |
+| Adverse Reaction Group | Anastrozole |  | Anastrozole |  | MegestrolAcetate |  |
 | --- | --- | --- | --- | --- | --- | --- |
 | 1 mg |  | 10 mg |  | 160 mg |  |  |
 | (N=262) |  | (N=246) |  | (N=253) |  |  |

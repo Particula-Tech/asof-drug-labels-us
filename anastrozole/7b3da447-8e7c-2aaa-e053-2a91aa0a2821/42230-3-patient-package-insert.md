@@ -11,14 +11,13 @@ Women with early breast cancer, who have a history of blockage in their heart ar
 
 Get medical help right away if you have new or worsening chest pain or shortness of breath during treatment with Anastrozole Tablets.
 
-- What is Anastrozole Tablets?
+- What are Anastrozole Tablets?
 
-Anastrozole Tablets is a prescription medicine used in women after menopause (“the change of life”) for:
+Anastrozole Tablets are a prescription medicine used in women after menopause (“the change of life”) for:
 
 - treatment of early breast cancer
-
-• after surgery • in women whose breast cancer is hormone receptor-positive
-
+- after surgery
+- in women whose breast cancer is hormone receptor-positive
 - the first treatment of breast cancer that has spread to nearby tissue or lymph nodes (locally advanced) or has spread to other parts of the body (metastatic), in women whose breast cancer is hormone receptor-positive or the hormone receptors are not known.
 - treatment of advanced breast cancer, if the cancer has grown, or the disease has spread after tamoxifen therapy
 
@@ -37,8 +36,7 @@ Talk to your healthcare provider if you are not sure. • have or had a heart pr
 Taking Anastrozole Tablets during pregnancy or within 3 weeks of becoming pregnant may harm your unborn baby. - Females who are able to become pregnant should have a pregnancy test before starting treatment with Anastrozole Tablets. - Females who are able to become pregnant should use effective birth control (contraceptive) during treatment with Anastrozole Tablets and for 3 weeks after your last dose of Anastrozole Tablets.
 Tell your healthcare provider right away if you become pregnant or think you may be pregnant. • are breastfeeding or plan to breastfeed.
 It is not known if Anastrozole Tablets passes into breast milk.
-You and your healthcare provider should decide if you will take Anastrozole Tablets or breastfeed.
-You should not do both.
+Do not breastfeed during treatment with Anastrozole Tablets and for 2 weeks after your last dose of Anastrozole Tablets.
 
 Tell your healthcare provider about all the medicines you take, including prescription and over-the-counter medicines, vitamins, and herbal supplements.
 Especially tell your healthcare provider if you take: • Tamoxifen.
@@ -58,7 +56,7 @@ If you take too much Anastrozole Tablets, call your healthcare provider or go to
 - What are the possible side effects of Anastrozole Tablets?
 
 Anastrozole Tablets may cause serious side effects including: • See “ What is the most important information I should know about Anastrozole Tablets?” • bone thinning or weakness (osteoporosis).
-Anastrozole Tablets lowers estrogen in your body, which may cause your bones to become thinner and weaker.
+Anastrozole Tablets lower estrogen in your body, which may cause your bones to become thinner and weaker.
 This may increase your risk of fractures, especially of your spine, hip and wrist.
 Your healthcare provider may order a bone mineral density test before you start and during treatment with Anastrozole Tablets to check you for bone changes. • increased blood cholesterol (fat in the blood).
 Your healthcare provider may do blood tests to check your cholesterol while you are taking Anastrozole Tablets. • skin reactions.
@@ -89,6 +87,7 @@ Medicines are sometimes prescribed for purposes other than those listed in a Pat
 Do not take Anastrozole Tablets for a condition for which it was not prescribed.
 Do not give Anastrozole Tablets to other people, even if they have the same symptoms that you have.
 It may harm them.
+
 If you would like more information, talk with your healthcare provider.
 You can ask your pharmacist or healthcare provider for information about Anastrozole Tablets that is written for health professionals.
 For more information call 1-877-736-5697.
@@ -99,7 +98,7 @@ Active ingredient: anastrozole Inactive ingredients: colloidal silicon dioxide, 
 
 This Patient Information has been approved by the U.S. Food and Drug Administration.
 
-Revised: 01/2019
+Revised: 03/2021
 
 Manufactured by: Beijing Yiling Bio-engineering Technology Co., Ltd. No. 23 Keji Road, Industrial Park, Miyun, Beijing, China, 101500
 
