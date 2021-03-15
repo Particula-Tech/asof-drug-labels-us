@@ -4,5 +4,6 @@ Ketorolac tromethamine ophthalmic solution 0.4% is supplied sterile, in white op
 
 5 mL in 10 mL bottle NDC 60758-773-05
 
-Storage: Store at 15o-25oC (59o-77oF).
+Storage: Store at 15oC to 25oC (59oF to 77oF).
 Protect from light.
+After opening, ketorolac tromethamine ophthalmic solution can be used until the expiration date on the bottle.

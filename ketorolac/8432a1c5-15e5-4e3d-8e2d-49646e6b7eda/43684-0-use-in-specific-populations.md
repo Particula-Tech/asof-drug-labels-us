@@ -12,7 +12,7 @@ No evidence of teratogenicity has been observed in rats or rabbits with ketorola
 Risk Summary
 
 It is not known whether ketorolac when given topically is present in human milk.
-Because many drugs are excreted in human mik, caution should be exercised when ketorolac tromethamine ophthalmic solution is administered to a nursing woman.
+Because many drugs are excreted in human milk, caution should be exercised when ketorolac tromethamine ophthalmic solution is administered to a nursing woman.
 
 ## 8.4 Pediatric Use
 

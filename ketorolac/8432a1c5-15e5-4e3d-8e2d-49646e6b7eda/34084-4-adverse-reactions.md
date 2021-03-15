@@ -7,16 +7,16 @@ The following serious adverse reactions are described elsewhere in the labeling:
 - Increased Bleeding Time [see Warnings and Precautions (5.3)]
 - Corneal Effects [see Warnings and Precautions (5.4)]
 
-## 6.1Clinical Studies Experience
+## 6.1Clinical Trials Experience
 
-Because clinical studies are conducted under widely varying conditions, adverse reaction rates observed in the clinical studies of a drug cannot be directly compared to rates in the clinical studies of another drug and may not reflect the rates observed in practice.
+Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in practice.
 
 The most frequently reported adverse reactions for ketorolac tromethamine ophthalmic solution occurring in approximately 1 to 5% of the overall study population were conjunctival hyperemia, corneal infiltrates, headache, ocular edema, and ocular pain.
 
 The most frequent adverse reactions reported with the use of ketorolac tromethamine ophthalmic solutions have been transient stinging and burning on instillation.
 These reactions were reported by up to 40% of patients participating in clinical trials.
 
-Other adverse reactions occurring approximately in 1 to 10% of the time during treatment with other ketorolac tromethamine ophthalmic solutions included allergic reactions, corneal edema, iritis, ocular inflammation, ocular irritation, superficial keratitis, and superficial ocular infections.
+Other adverse reactions occurring approximately in 1 to 10% of the time during treatment with other ketorolac tromethamine ophthalmic solutions included allergic reactions (including eye swelling, eyelid edema, and hyperemia), corneal edema, iritis, ocular inflammation, ocular irritation, superficial keratitis, and superficial ocular infections.
 
 Other adverse reactions reported rarely with the use of ketorolac tromethamine ophthalmic solutions included: corneal ulcer, eye dryness, and visual disturbance (blurry vision).
 

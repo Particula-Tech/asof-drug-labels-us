@@ -1,3 +1,3 @@
 # 3DOSAGE FORMS AND STRENGTHS
 
-10 mL size bottle filled with 5 mL of ketorolac tromethamine ophthalmic solution 0.4% (4 mg/mL).
+Ophthalmic solution containing ketorolac tromethamine 0.4% (4 mg/mL).

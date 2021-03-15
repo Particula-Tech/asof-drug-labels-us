@@ -9,12 +9,9 @@ Avoiding Contamination of the Product
 Instruct patients to avoid allowing the tip of the bottle to contact the eye or surrounding structures because this could cause the tip to become contaminated by common bacteria known to cause ocular infections.
 Serious damage to the eye and subsequent loss of vision may result from using contaminated solutions.
 
-Also, to avoid the potential for cross-contamination, the patient should be advised to use one bottle for each eye following bilateral ocular surgery.
-The use of the same bottle of topical eye drops for both eyes following bilateral ocular surgery is not recommended.
-
 Contact Lens Wear
 
-Advise patients that ketorolac tromethamine solution should not be administered while wearing contact lenses.
+Advise patients that ketorolac tromethamine ophthalmic solution should not be administered while wearing contact lenses.
 
 Intercurrent Ocular Conditions
 
@@ -24,17 +21,15 @@ Concomitant Topical Ocular Therapy
 
 Advise patients that if more than one topical ophthalmic medication is being used, the medicines should be administered at least 5 minutes apart.
 
-© 2019 Allergan.
+Distributed by: Allergan USA, Inc.
+
+Madison, NJ 07940
+
+© 2021 Allergan.
 All rights reserved.
 
 All trademarks are the property of their respective owners.
 
-Patented: See: www.allergan.com/products/patents
+Patented: See www.allergan.com/patents
 
-Distributed for
-
-Allergan USA, Inc.
-
-Madison, NJ 07940
-
-v1.0USPI0773
+v2.0USPI0773
