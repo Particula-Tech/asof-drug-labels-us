@@ -1,0 +1,27 @@
+{
+  "application_numbers": [
+    "NDA204417"
+  ],
+  "inn": "levetiracetam",
+  "labeler": "TRIPOINT THERAPEUTICS, LLC",
+  "package_ndcs": [
+    "80705-100-30",
+    "80705-100-99",
+    "80705-101-30",
+    "80705-101-99"
+  ],
+  "products": [
+    {
+      "form": "TABLET, EXTENDED RELEASE",
+      "generic": "levetiracetam",
+      "name": "ELEPSIA XR 1000 MG"
+    },
+    {
+      "form": "TABLET, CHEWABLE, EXTENDED RELEASE",
+      "generic": "levetiracetam",
+      "name": "ELEPSIA XR 1500 MG"
+    }
+  ],
+  "setid": "cac83d47-88a2-4447-a0c0-90b44ffda0ac",
+  "source": "dailymed"
+}
