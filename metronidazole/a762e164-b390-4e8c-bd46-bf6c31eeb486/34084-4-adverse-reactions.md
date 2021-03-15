@@ -63,9 +63,9 @@ Additionally, the following adverse reactions, presented by system organ class i
 Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
 
 - Gastrointestinal disorders: abdominal distention, eructation, flatulence
-- General disorders and administration site conditions: chest discomfort, fatigue.
-- Infections and infestations: candidiasis, pseudomembranous colitis (Clostridium difficile colitis).
-- Nervous Systems: peripheral neuropathy.
+- General disorders and administration site conditions: chest discomfort, fatigue
+- Infections and infestations: candidiasis, pseudomembranous colitis (Clostridium difficile colitis)
+- Nervous Systems: peripheral neuropathy
 - Skin and subcutaneous disorders: Stevens-Johnson syndrome, toxic epidermal necrolysis, DRESS syndrome (drug rash with eosinophilia and systemic symptoms)
 
 ## 6.3 Other Important Adverse Reactions from Labeling for the Individual Components of PYLERA
@@ -74,7 +74,8 @@ Metronidazole
 
 Blood and Lymphatic system disorders: Reversible neutropenia (leucopenia) in cases of prolonged treatment; rarely reversible thrombocytopenia however no persistent hematological abnormalities attributable to metronidazole have been observed [see Warnings and Precautions (5.9)].
 
-Cardiac disorders: Flattening of the T-wave.
+Cardiac disorders: QT prolongation has been reported with metronidazole, particularly when administered with drugs with the potential for prolonging the QT interval.
+Flattening of the T-wave may be seen in electrocardiographic tracings.
 
 Gastrointestinal disorders: Nausea, vomiting, diarrhea, abdominal pain, constipation, anorexia, metallic taste, furry tongue, glossitis, stomatitis and candida overgrowth.
 

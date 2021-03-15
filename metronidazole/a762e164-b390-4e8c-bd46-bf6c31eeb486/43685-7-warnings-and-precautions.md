@@ -86,7 +86,7 @@ Bismuth absorbs x-rays and may interfere with x-ray diagnostic procedures of the
 Bismuth subcitrate potassium may cause a temporary and harmless darkening of the stool.
 However, this change does not interfere with standard tests for occult blood.
 
-Metronizadole may interfere with certain types of determinations of serum chemistry values, such as aspartate aminotransferase (AST, SGOT), alanine aminotransferase (ALT, SGPT), lactate dehydrogenase (LDH), triglycerides, and hexokinase glucose.
+Metronidazole may interfere with certain types of determinations of serum chemistry values, such as aspartate aminotransferase (AST, SGOT), alanine aminotransferase (ALT, SGPT), lactate dehydrogenase (LDH), triglycerides, and hexokinase glucose.
 Values of zero may be observed.
 All of the assays in which interference has been reported involve enzymatic coupling of the assay to oxidation-reduction of nicotinamide (NAD+ <=> NADH).
 Interference is due to the similarity in absorbance peaks of NADH (340 nm) and metronidazole (322 nm) at pH 7.
@@ -125,7 +125,11 @@ Busulfan
 
 Metronidazole has been reported to increase plasma concentrations of busulfan, which can result in an increased risk for serious busulfan toxicity.
 Do not administer PYLERA concomitantly with busulfan unless the benefit outweighs the risk.
-If no therapeutic alternatives to PYLERA are available, and concomitant administration with busulfan is medically needed, Monitor for busulfan toxicity and busulfan plasma concentrations and adjust the busulfan dose accordingly [see Drug Interactions (7.8)].
+If no therapeutic alternatives to PYLERA are available, and concomitant administration with busulfan is medically needed, monitor for busulfan toxicity and busulfan plasma concentrations and adjust the busulfan dose accordingly [see Drug Interactions (7.8)].
+
+Drugs that Prolong the QT interval
+
+QT prolongation has been reported with metronidazole, a component of PYLERA, particularly when administered with drugs with the potential for prolonging the QT interval.
 
 ## 5.15 Risk of Hepatotoxicity and Death in Patients with Cockayne Syndrome
 

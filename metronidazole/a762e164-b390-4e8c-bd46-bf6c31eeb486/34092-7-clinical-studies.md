@@ -10,10 +10,10 @@ Patients were randomized to one of the following 10-day treatment regimens:
 
 - Clarithromycin 500 mg plus 1000 mg amoxicillin plus 20 mg omeprazole twice a day before the morning and evening meals (OAC).
 
-H. pylori eradication rates, defined as two negative 13C-urea breath tests performed at 4 and 8 weeks post-therapy are shown in Table 7 for OBMT and OAC.
+H. pylori eradication rates, defined as two negative 13C-urea breath tests performed at 4 and 8 weeks post-therapy are shown in Table 6 for OBMT and OAC.
 The eradication rates for both groups were found to be similar using either the Per Protocol (PP) or Modified Intent-to-Treat (MITT) populations.
 
-Table 7: Helicobacter pylori Eradication at 8 Weeks after 10 Day Treatment Regimen Percent (%) of Patients Cured [95% Confidence Interval] (Number of Patients)
+Table 6: Helicobacter pylori Eradication at 8 Weeks after 10 Day Treatment Regimen Percent (%) of Patients Cured [95% Confidence Interval] (Number of Patients)
 
 |  | Treatment Group |  | Difference |
 | --- | --- | --- | --- |

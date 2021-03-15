@@ -14,7 +14,7 @@ Inform patients of the risk of central and peripheral nervous system effects wit
 
 Photosensitivity
 
-Avoid exposure to sun or sun lamps while taking PYLERA [see Warnings and Precautions (5.7).
+Avoid exposure to sun or sun lamps while taking PYLERA [see Warnings and Precautions (5.7)].
 
 Drug Interactions
 
@@ -61,9 +61,11 @@ Skipping doses or not completing the full course of therapy may (1) decrease the
 
 Distributed By: Allergan USA, Inc. Madison, NJ 07940
 
-© 2018 Allergan.
+© 2021 Allergan.
 All rights reserved.
 
 Pylera® is a registered trademark of Aptalis Pharma Canada ULC, an Allergan affiliate.
+
+v1.0USPI601
 
 Component Number: 73205US11
