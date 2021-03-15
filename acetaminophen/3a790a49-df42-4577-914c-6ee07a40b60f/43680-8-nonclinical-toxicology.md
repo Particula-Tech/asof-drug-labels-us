@@ -26,6 +26,6 @@ Although there was no effect on sperm motility or sperm density in the epididymi
 Published studies in rodents report that oral acetaminophen treatment of male animals at doses that are 1.2 times the MHDD and greater (based on a body surface comparison) result in decreased testicular weights, reduced spermatogenesis, reduced fertility, and reduced implantation sites in females given the same doses.
 These effects appear to increase with the duration of treatment.
 
-In a published mouse study, oral administration of 50 mg/kg acetaminophen to pregnant mice from Gestation Day 7 to delivery (0.06 times the MHDD) reduced the number of primordial follicles in female offspring and reduced the percentage of full term pregnancies and number of pups born to these females exposed to acetaminophen in utero.
+In a published mouse study, oral administration of 50 mg/kg acetaminophen to pregnant mice from Gestation Day 7 to delivery (0.06 times the MHDD) reduced the number of primordial follicles in female offspring and reduced the percentage of full-term pregnancies and number of pups born to these females exposed to acetaminophen in utero.
 
 In a published study, pregnant rats oral administration of 350 mg/kg acetaminophen (0.9 times the MHDD) from Gestation Day 13 to 21 (dams), reduced the number of germ cells in the fetal ovary and decreased ovary weight and reduced number of pups per litter in F1 females as well as reduced ovary weights in F2 females.

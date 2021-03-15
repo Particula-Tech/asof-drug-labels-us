@@ -7,12 +7,23 @@
 - Initiate the dosing regimen for each patient individually, taking into account the patient’s severity of pain, patient response, prior analgesic treatment experience, and risk factors for addiction, abuse, and misuse [see Warnings and Precautions (5.1)].
 - Monitor patients closely for respiratory depression, especially within the first 24-72 hours of initiating therapy and following dosage increases with APADAZ and adjust the dosage accordingly [see Warnings and Precautions (5.3)].
 
-## 2.2 Initial Dosage
+## 2.2 Patient Access to Naloxone for the Emergency Treatment of Opioid Overdose
+
+Discuss the availability of naloxone for the emergency treatment of opioid overdose with the patient and caregiver and assess the potential need for access to naloxone, both when initiating and renewing treatment with APADAZ [see Warnings and Precautions (5.3), Patient Counseling Information (17)].
+
+Inform patients and caregivers about the various ways to obtain naloxone as permitted by individual state naloxone dispensing and prescribing requirements or guidelines (e.g., by prescription, directly from a pharmacist, or as part of a community-based program).
+
+Consider prescribing naloxone, based on the patient’s risk factors for overdose, such as concomitant use of CNS depressants, a history of opioid use disorder, or prior opioid overdose.
+The presence of risk factors for overdose should not prevent the proper management of pain in any given patient [see Warnings and Precautions (5.1, 5.3, 5.7)].
+
+Consider prescribing naloxone if the patient has household members (including children) or other close contacts at risk for accidental ingestion or overdose.
+
+## 2.3 Initial Dosage
 
 Use of APADAZ as the First Opioid Analgesic Initiate treatment with APADAZ at 1 to 2 tablets every 4 to 6 hours as needed for pain.
 Dosage should not exceed 12 tablets in a 24-hour period.
 
-## 2.3 Conversion from Other Opioids to APADAZ
+## 2.4 Conversion from Other Opioids to APADAZ
 
 There is inter-patient variability in the potency of opioid drugs and opioid formulations.
 Therefore, a conservative approach is advised when determining the total daily dosage of APADAZ.
@@ -29,7 +40,7 @@ Conversion from Hydrocodone bitartrate/Acetaminophen to APADAZ.
 | 7.5 | 6.12 |
 | 10 | 8.16 |
 
-## 2.4 Titration and Maintenance of Therapy
+## 2.5 Titration and Maintenance of Therapy
 
 Individually titrate APADAZ to a dose that provides adequate analgesia and minimizes adverse reactions.
 Continually reevaluate patients receiving APADAZ to assess the maintenance of pain control and the relative incidence of adverse reactions, as well as monitoring for the development of addiction, abuse, or misuse [see Warnings and Precautions (5.1)].
@@ -41,7 +52,7 @@ Adjust the dosage to obtain an appropriate balance between management of pain an
 
 Total dosage of APADAZ and any concomitant acetaminophen-containing products should not exceed 4000 mg of acetaminophen in a 24-hour period.
 
-## 2.5 Safe Reduction or Discontinuation of APADAZ
+## 2.6 Safe Reduction or Discontinuation of APADAZ
 
 Do not abruptly discontinue APADAZ in patients who may be physically dependent on opioids.
 Rapid discontinuation of opioid analgesics in patients who are physically dependent on opioids has resulted in serious withdrawal symptoms, uncontrolled pain, and suicide.
@@ -58,6 +69,7 @@ There are no standard opioid tapering schedules that are suitable for all patien
 Good clinical practice dictates a patient-specific plan to taper the dose of the opioid gradually.
 For patients on APADAZ who are physically opioid-dependent, initiate the taper by a small enough increment (e.g., no greater than 10% to 25% of the total daily dose) to avoid withdrawal symptoms, and proceed with dose-lowering at an interval of every 2 to 4 weeks.
 Patients who have been taking opioids for briefer periods of time may tolerate a more rapid taper.
+
 It may be necessary to provide the patient with lower dosage strengths to accomplish a successful taper.
 Reassess the patient frequently to manage pain and withdrawal symptoms, should they emerge.
 Common withdrawal symptoms include restlessness, lacrimation, rhinorrhea, yawning, perspiration, chills, myalgia, and mydriasis.

@@ -12,11 +12,12 @@ Assess each patient’s risk for opioid addiction, abuse, or misuse prior to pre
 Risks are increased in patients with a personal or family history of substance abuse (including drug or alcohol abuse or addiction) or mental illness (e.g., major depression).
 The potential for these risks should not, however, prevent the proper management of pain in any given patient.
 Patients at increased risk may be prescribed opioids such as APADAZ, but use in such patients necessitates intensive counseling about the risks and proper use of APADAZ along with intensive monitoring for signs of addiction, abuse, and misuse.
+Consider prescribing naloxone for the emergency treatment of opioid overdose [see Dosage and Administration (2.2), Warnings and Precautions (5.3)].
 
 Opioids are sought by drug abusers and people with addiction disorders and are subject to criminal diversion.
 Consider these risks when prescribing or dispensing APADAZ.
 Strategies to reduce these risks include prescribing the drug in the smallest appropriate quantity and advising the patient on the proper disposal of unused drug [see Patient Counseling Information (17)].
-Contact local state professional licensing board or state controlled substances authority for information on how to prevent and detect abuse or diversion of this product.
+Contact local state professional licensing board or state-controlled substances authority for information on how to prevent and detect abuse or diversion of this product.
 
 ## 5.2 Opioid Analgesic Risk Evaluation and Mitigation Strategy (REMS)
 
@@ -38,7 +39,7 @@ The FDA Blueprint can be found at www.fda.gov/OpioidAnalgesicREMSBlueprint.
 Serious, life-threatening, or fatal respiratory depression has been reported with the use of opioids, even when used as recommended.
 Respiratory depression, if not immediately recognized and treated, may lead to respiratory arrest and death.
 Management of respiratory depression may include close observation, supportive measures, and use of opioid antagonists, depending on the patient’s clinical status [see Overdosage (10)].
-Carbon dioxide (CO2) retention from opioid-induced respiratory depression can exacerbate the sedating effects of opioids.
+Carbon dioxide (CO 2) retention from opioid-induced respiratory depression can exacerbate the sedating effects of opioids.
 
 While serious, life-threatening, or fatal respiratory depression can occur at any time during the use of APADAZ, the risk is greatest during the initiation of therapy or following a dosage increase.
 Monitor patients closely for respiratory depression, especially within the first 24-72 hours of initiating therapy with and following dosage increases of APADAZ.
@@ -48,16 +49,29 @@ Overestimating the APADAZ dosage when converting patients from another opioid pr
 
 Accidental ingestion of even one dose of APADAZ, especially by children, can result in respiratory depression and death due to an overdose of hydrocodone.
 
+Educate patients and caregivers on how to recognize respiratory depression and emphasize the importance of calling 911 or getting emergency medical help right away in the event of a known or suspected overdose [see Patient Counseling Information (17)].
+
 Opioids can cause sleep-related breathing disorders including central sleep apnea (CSA) and sleep-related hypoxemia.
 Opioid use increases the risk of CSA in a dose-dependent fashion.
-In patients who present with CSA, consider decreasing the opioid dosage using best practices for opioid taper [see Dosage and Administration (2.1)].
+In patients who present with CSA, consider decreasing the opioid dosage using best practices for opioid taper [see Dosage and Administration (2.6)].
+
+Patient Access to Naloxone for the Emergency Treatment of Opioid Overdose
+
+Discuss the availability of naloxone for the emergency treatment of opioid overdose with the patient and caregiver and assess the potential need for access to naloxone, both when initiating and renewing treatment with APADAZ.
+Inform patients and caregivers about the various ways to obtain naloxone as permitted by individual state naloxone dispensing and prescribing requirements or guidelines (e.g., by prescription, directly from a pharmacist, or as part of a community-based program).
+Educate patients and caregivers on how to recognize respiratory depression and emphasize the importance of calling 911 or getting emergency medical help, even if naloxone is administered [see Patient Counseling Information (17)].
+
+Consider prescribing naloxone, based on the patient’s risk factors for overdose, such as concomitant use of CNS depressants, a history of opioid use disorder, or prior opioid overdose.
+The presence of risk factors for overdose should not prevent the proper management of pain in any given patient.
+Also consider prescribing naloxone if the patient has household members (including children) or other close contacts at risk for accidental ingestion or overdose.
+If naloxone is prescribed, educate patients and caregivers on how to treat with naloxone [see Warnings and Precautions (5.1, 5.7), Patient Counseling Information (17)].
 
 ## 5.4 Neonatal Opioid Withdrawal Syndrome
 
 Prolonged use of APADAZ during pregnancy can result in withdrawal in the neonate.
 Neonatal opioid withdrawal syndrome, unlike opioid withdrawal syndrome in adults, may be life-threatening if not recognized and treated, and requires management according to protocols developed by neonatology experts.
 Observe newborns for signs of neonatal opioid withdrawal syndrome and manage accordingly.
-Advise pregnant women using opioids for a prolonged period of the risk of neonatal opioid withdrawal syndrome and ensure that appropriate treatment will be available [see Use in Specific Populations (8.1), Patient Counseling Information(17)].
+Advise pregnant women using opioids for a prolonged period of the risk of neonatal opioid withdrawal syndrome and ensure that appropriate treatment will be available [see Use in Specific Populations (8.1), Patient Counseling Information (17)].
 
 ## 5.5 Risks of Concomitant Use or Discontinuation of Cytochrome P450 CYP3A4 Inhibitors and Inducers
 
@@ -92,6 +106,8 @@ If the decision is made to prescribe a benzodiazepine or other CNS depressant co
 In patients already receiving an opioid analgesic, prescribe a lower initial dose of the benzodiazepine or other CNS depressant than indicated in the absence of an opioid, and titrate based on clinical response.
 If an opioid analgesic is initiated in a patient already taking a benzodiazepine or other CNS depressant, prescribe a lower initial dose of the opioid analgesic, and titrate based on clinical response.
 Follow patients closely for signs and symptoms of respiratory depression and sedation.
+
+If concomitant use is warranted, consider prescribing naloxone for the emergency treatment of opioid overdose [see Dosage and Administration (2.2), Warnings and Precautions (5.3)].
 
 Advise both patients and caregivers about the risks of respiratory depression and sedation when APADAZ is used with benzodiazepines or other CNS depressants (including alcohol and illicit drugs).
 Advise patients not to drive or operate heavy machinery until the effects of concomitant use of the benzodiazepine or other CNS depressant have been determined.
@@ -134,7 +150,7 @@ Inform patients about the signs of serious skin reactions and discontinue use at
 
 ## 5.12 Risks of Use in Patients with Increased Intracranial Pressure, Brain Tumors, Head Injury, or Impaired Consciousness
 
-In patients who may be susceptible to the intracranial effects of CO2 retention (e.g., those with evidence of increased intracranial pressure or brain tumors), APADAZ may reduce respiratory drive, and the resultant CO2 retention can further increase intracranial pressure.
+In patients who may be susceptible to the intracranial effects of CO 2 retention (e.g., those with evidence of increased intracranial pressure or brain tumors), APADAZ may reduce respiratory drive, and the resultant CO 2 retention can further increase intracranial pressure.
 Monitor such patients for signs of sedation and respiratory depression, particularly when initiating therapy with APADAZ.
 
 Opioids may also obscure the clinical course in a patient with a head injury.
@@ -165,7 +181,7 @@ Monitor patients with a history of seizure disorders for worsened seizure contro
 
 Do not abruptly discontinue APADAZ in a patient physically dependent on opioids.
 When discontinuing APADAZ in a physically dependent patient, gradually taper the dosage.
-Rapid tapering of APADAZ in a patient physically dependent on opioids may lead to a withdrawal syndrome and return of pain [see Dosage and Administration (2.5), Drug Abuse and Dependence (9.3)].
+Rapid tapering of APADAZ in a patient physically dependent on opioids may lead to a withdrawal syndrome and return of pain [see Dosage and Administration (2.6), Drug Abuse and Dependence (9.3)].
 
 Additionally, avoid the use of mixed agonist/antagonist (e.g, pentazocine, nalbuphine, and butorphanol) or partial agonist (e.g., buprenorphine) analgesics in patients who are receiving a full opioid agonist analgesic, including APADAZ.
 In these patients, mixed agonist/antagonist and partial agonist analgesics may reduce the analgesic effect and/or may precipitate withdrawal symptoms.

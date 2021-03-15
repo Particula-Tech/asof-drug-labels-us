@@ -46,7 +46,7 @@ Overall, these studies showed no advantage for APADAZ over the hydrocodone/aceta
 Oral Clinical Abuse Potential Study In an oral, single-center, randomized, double-blind, active- and placebo-controlled, 7-period, crossover, human abuse potential study, 71 recreational opioid users were randomized into the Treatment Phase; 62 subjects completed the study.
 Treatment arms included APADAZ (4, 8, and 12 tablets, each containing 6.12 mg benzhydrocodone and 325 mg acetaminophen), hydrocodone/acetaminophen (4, 8 and 12 tablets, each containing 4.54 mg hydrocodone and 325 mg acetaminophen), and placebo.
 The respective dosage strengths for APADAZ and hydrocodone/acetaminophen contained equimolar amounts of hydrocodone.
-The rate (Cmax) and extent (AUClast, AUCinf) of hydrocodone exposure following APADAZ administration was comparable to that for hydrocodone/acetaminophen across all 3 dosage strengths.
+The rate (Cmax) and extent (AUC last, AUC inf) of hydrocodone exposure following APADAZ administration was comparable to that for hydrocodone/acetaminophen across all 3 dosage strengths.
 There were no statistically significant differences nor any clinically meaningful differences between APADAZ and the hydrocodone/acetaminophen control for the pre-specified primary endpoint of maximal score (Emax) for Drug Liking VAS or secondary endpoints of Emax for High VAS and Take Drug Again VAS.
 The results do not support a finding that APADAZ can be expected to deter abuse by the oral route of administration.
 
@@ -54,13 +54,13 @@ Intranasal Clinical Abuse Potential Study In an intranasal single-center, random
 Five treatment arms included intranasal crushed and oral APADAZ (2 tablets, each containing 6.12 mg benzhydrocodone and 325 mg acetaminophen), intranasal crushed and oral hydrocodone/acetaminophen (2 tablets, each containing 4.54 mg hydrocodone and 325 mg acetaminophen), and intranasal placebo powder.
 The respective dosage strengths for APADAZ and hydrocodone/acetaminophen contained equimolar amounts of hydrocodone.
 
-The pharmacokinetic data showed that overall (AUClast, AUCinf, and Cmax) hydrocodone exposure was comparable between intranasal crushed APADAZ and intranasal crushed hydrocodone/acetaminophen.
-These treatments were also comparable with cumulative hydrocodone exposure at the timepoints of 4, 8, and 24 hours (AUC0-4, AUC0-8, AUC0-24).
-Over the first 2 hours post-dosing (AUC0-0.5, AUC0-1, and AUC0-2), the cumulative hydrocodone exposure was lower following intranasal APADAZ compared to intranasal hydrocodone/ acetaminophen.
+The pharmacokinetic data showed that overall (AUC last, AUC inf, and C max) hydrocodone exposure was comparable between intranasal crushed APADAZ and intranasal crushed hydrocodone/acetaminophen.
+These treatments were also comparable with cumulative hydrocodone exposure at the timepoints of 4, 8, and 24 hours (AUC 0-4, AUC 0-8, AUC 0-24).
+Over the first 2 hours post-dosing (AUC 0-0.5, AUC 0-1, and AUC 0-2), the cumulative hydrocodone exposure was lower following intranasal APADAZ compared to intranasal hydrocodone/ acetaminophen.
 
-There were numerically small but not statistically significant differences between APADAZ and the hydrocodone/acetaminophen control observed for the pre-specified primary endpoint, maximum effect on Drug Liking VAS (Emax), and the secondary endpoints of Emax for High VAS and Take Drug Again VAS.
+There were numerically small but not statistically significant differences between APADAZ and the hydrocodone/acetaminophen control observed for the pre-specified primary endpoint, maximum effect on Drug Liking VAS (Emax), and the secondary endpoints of E max for High VAS and Take Drug Again VAS.
 
-Table 3: Summary Statistics of Maximum Scores (Emax) on Drug Liking, High and Take Drug Again, Following Intranasal Administration of APADAZ, Hydrocodone/APAP, and Placebo
+Table 3: Summary Statistics of Maximum Scores (E max) on Drug Liking, High and Take Drug Again, Following Intranasal Administration of APADAZ, Hydrocodone/APAP, and Placebo
 
 | VAS Scale (100 point) intranasal (n=42) | APADAZ Crushed | Hydrocodone/APAP Crushed | Placebo |
 | --- | --- | --- | --- |
@@ -95,6 +95,6 @@ Rapid discontinuation has also been associated with attempts to find other sourc
 
 When discontinuing APADAZ, gradually taper the dosage using a patient-specific plan that considers the following: the dose of APADAZ the patient has been taking, the duration of treatment, and the physical and psychological attributes of the patient.
 To improve the likelihood of a successful taper and minimize withdrawal symptoms, it is important that the opioid tapering schedule is agreed upon by the patient.
-In patients taking opioids for a long duration at high doses, ensure that a multimodal approach to pain management, including mental health support (if needed), is in place prior to initiating an opioid analgesic taper [see Dosage and Administration (2.5), Warnings and Precautions (5.16)].
+In patients taking opioids for a long duration at high doses, ensure that a multimodal approach to pain management, including mental health support (if needed), is in place prior to initiating an opioid analgesic taper [see Dosage and Administration (2.6), Warnings and Precautions (5.16)].
 
 Infants born to mothers physically dependent on opioids will also be physically dependent and may exhibit respiratory difficulties and withdrawal signs [see Use in Specific Populations (8.1)].

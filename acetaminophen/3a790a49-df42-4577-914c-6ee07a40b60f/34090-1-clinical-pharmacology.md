@@ -47,21 +47,21 @@ The clinical significance of these findings is unknown.
 Overall, the effects of opioids appear to be modestly immunosuppressive.
 
 Concentration–Efficacy Relationships The minimum effective analgesic concentration will vary widely among patients, especially among patients who have been previously treated with potent agonist opioids.
-The minimum effective analgesic concentration of hydrocodone for any individual patient may increase over time due to an increase in pain, the development of a new pain syndrome, and/or the development of analgesic tolerance [see Dosage and Administration (2.1, 2.5)].
+The minimum effective analgesic concentration of hydrocodone for any individual patient may increase over time due to an increase in pain, the development of a new pain syndrome, and/or the development of analgesic tolerance [see Dosage and Administration (2.1, 2.6)].
 
 Concentration–Adverse Reaction Relationships There is a relationship between increasing hydrocodone plasma concentration and increasing frequency of dose-related opioid adverse reactions such as nausea, vomiting, CNS effects, and respiratory depression.
-In opioid-tolerant patients, the situation may be altered by the development of tolerance to opioid-related adverse reactions [see Dosage and Administration (2.1, 2.2, 2.4)].
+In opioid-tolerant patients, the situation may be altered by the development of tolerance to opioid-related adverse reactions [see Dosage and Administration (2.1, 2.3, 2.5)].
 
 ## 12.3 Pharmacokinetics
 
-APADAZ has met the bioequivalence criteria for hydrocodone AUC and Cmax to other immediate-release hydrocodone combination products.
+APADAZ has met the bioequivalence criteria for hydrocodone AUC and C max to other immediate-release hydrocodone combination products.
 Benzhydrocodone was not detectable in plasma after oral administration in clinical studies, indicating that exposure to benzhydrocodone was minimal and transient.
 Steady state with APADAZ is attained within 24 to 36 hours of dosing.
 The systemic exposure to hydrocodone from APADAZ increases linearly after administration of single and multiple doses of 2 tablets of APADAZ.
 
-Absorption Single-Dose Studies In 2 comparative bioavailability studies following oral administration of single dose to healthy subjects under fasted conditions, 6.12 mg/325 mg APADAZ tablet met the bioequivalence criteria for hydrocodone AUC and Cmax to immediate-release tablet of 7.5 mg hydrocodone/200 mg ibuprofen (N = 28); and the bioequivalence criteria for acetaminophen AUC and Cmax to immediate-release tablet of 37.5 mg tramadol/325 mg acetaminophen (N = 27).
+Absorption Single-Dose Studies In 2 comparative bioavailability studies following oral administration of single dose to healthy subjects under fasted conditions, 6.12 mg/325 mg APADAZ tablet met the bioequivalence criteria for hydrocodone AUC and C max to immediate-release tablet of 7.5 mg hydrocodone/200 mg ibuprofen (N = 28); and the bioequivalence criteria for acetaminophen AUC and C max to immediate-release tablet of 37.5 mg tramadol/325 mg acetaminophen (N = 27).
 
-In a comparative bioavailability study following oral administration of single dose under fasted conditions in 24 healthy subjects comparing 6.12 mg/325 mg APADAZ to immediate-release tablet of 7.5 mg hydrocodone/325 mg acetaminophen, APADAZ met the bioequivalence criteria for hydrocodone Cmax and AUC; and met the bioequivalence criteria for acetaminophen AUC, with comparable acetaminophen Cmax.
+In a comparative bioavailability study following oral administration of single dose under fasted conditions in 24 healthy subjects comparing 6.12 mg/325 mg APADAZ to immediate-release tablet of 7.5 mg hydrocodone/325 mg acetaminophen, APADAZ met the bioequivalence criteria for hydrocodone C max and AUC; and met the bioequivalence criteria for acetaminophen AUC, with comparable acetaminophen C max.
 
 In a study to assess the effect of food on the bioavailability and pharmacokinetics of APADAZ in 38 healthy subjects compared to fasted conditions, co-administration of APADAZ with a high-fat, high-calorie meal showed a slight decrease in the rate but no change in the extent of hydrocodone absorption; and no difference in rate and extent of acetaminophen absorption.
 The effect of a high-fat, high-calorie meal on pharmacokinetics is similar between APADAZ and immediate-release tablet of 7.5 mg hydrocodone/325 mg acetaminophen.
@@ -74,22 +74,22 @@ PK parameters of hydrocodone and acetaminophen after oral administration of APAD
 | Parameter* | Fed | Fasted |
 | --- | --- | --- |
 | Hydrocodone |  |  |
-| Cmax (ng/mL) | 16.04 ± 3.60 (40) | 19.18 ± 4.84 (38) |
-| Tmax (h) | 2.50 (40) [0.50–4.00] | 1.25 (38) [0.50–3.00] |
-| AUCinf (h•ng/mL) | 130.91 ± 29.45 (40) | 125.73 ± 36.78 (38) |
-| t½ (h) | 4.53 ± 0.70 (40) | 4.33 ± 0.67 (38) |
+| C max (ng/mL) | 16.04 ± 3.60 (40) | 19.18 ± 4.84 (38) |
+| T max (h) | 2.50 (40) [0.50–4.00] | 1.25 (38) [0.50–3.00] |
+| AUC inf (h•ng/mL) | 130.91 ± 29.45 (40) | 125.73 ± 36.78 (38) |
+| t ½ (h) | 4.53 ± 0.70 (40) | 4.33 ± 0.67 (38) |
 | Acetaminophen |  |  |
-| Cmax (μg/mL) | 3.34 ± 1.01 (39) | 4.05 ± 1.30 (38) |
-| Tmax (h) | 1.50 (39) [0.50–4.00] | 1.00 (38) [0.50–3.00] |
-| AUCinf (h•μg/mL) | 15.0 ± 3.53 (36) | 14.7 ± 3.87 (36) |
-| t½ (h) | 5.64 ± 1.58 (36) | 4.78 ± 1.30 (36) |
+| C max (μg/mL) | 3.34 ± 1.01 (39) | 4.05 ± 1.30 (38) |
+| T max (h) | 1.50 (39) [0.50–4.00] | 1.00 (38) [0.50–3.00] |
+| AUC inf (h•μg/mL) | 15.0 ± 3.53 (36) | 14.7 ± 3.87 (36) |
+| t ½ (h) | 5.64 ± 1.58 (36) | 4.78 ± 1.30 (36) |
 
 * Arithmetic mean ± standard deviation (N) except Tmax for which the median (N) [Range] is reported
 
 Multiple-Dose Study A multiple-dose study in 24 healthy subjects showed no measurable exposure to benzhydrocodone, when 2 tablets of APADAZ, 6.12/325 mg, was administered orally every 4 hours for a total of 13 doses.
 Steady state for hydrocodone and acetaminophen was achieved after 24 hours and between 24 and 36 hours, respectively.
-The accumulation ratios for hydrocodone Cmax and AUC values were 1.85-fold and 2.03-fold, respectively.
-The accumulation ratios for acetaminophen Cmax and AUC values were 1.38-fold and 1.80-fold, respectively.
+The accumulation ratios for hydrocodone Cmax and AUC values were 1.85-fold a nd 2.03-fold, respectively.
+The accumulation ratios for acetaminophen C max and AUC values were 1.38-fold and 1.80-fold, respectively.
 
 Elimination Hydrocodone is eliminated primarily from the kidneys.
 Elimination of acetaminophen is principally by liver metabolism and subsequent renal excretion of metabolites.
