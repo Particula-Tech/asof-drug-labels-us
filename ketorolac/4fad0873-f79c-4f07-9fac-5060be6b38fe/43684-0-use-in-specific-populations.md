@@ -4,15 +4,15 @@
 
 Risk Summary
 
-There are no adequate or well-controlled studies with ACULAR LS® in pregnant women.
-No evidence of teratogenicity has been observed in rats or rabbits with ACULAR LS® at clinically relevant doses.
+There are no adequate or well-controlled studies with ACULAR LS in pregnant women.
+No evidence of teratogenicity has been observed in rats or rabbits with ACULAR LS at clinically relevant doses.
 
 ## 8.2Lactation
 
 Risk Summary
 
 It is not known whether ketorolac when given topically is present in human milk.
-Because many drugs are excreted in human mik, caution should be exercised when ACULAR LS® is administered to a nursing woman.
+Because many drugs are excreted in human milk, caution should be exercised when ACULAR LS is administered to a nursing woman.
 
 ## 8.4 Pediatric Use
 

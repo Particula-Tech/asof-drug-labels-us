@@ -1,3 +1,3 @@
 # 4 CONTRAINDICATIONS
 
-ACULAR LS® solution is contraindicated in patients with previously demonstrated hypersensitivity to any of the ingredients in the formulation.
+ACULAR LS ophthalmic solution is contraindicated in patients with previously demonstrated hypersensitivity to any of the ingredients in the formulation [see Adverse Reactions (6.1)].
