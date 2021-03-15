@@ -11,7 +11,7 @@ Based on animal data, advise pregnant women of the potential risk to a fetus.
 All pregnancies have a background risk of birth defect, loss, or other adverse outcomes.
 In the U.S. general population, the estimated background risk of major birth defects and miscarriage in clinically recognized pregnancies is 2 to 4% and 15 to 20%, respectively.
 
-Clinical Considerations Fetal/Neonatal Adverse Reactions Prolonged use of opioid analgesics during pregnancy for medical or nonmedical purposes can result in physical dependence in the neonate and neonatal opioid withdrawal syndrome shortly after birth.
+Clinical Considerations Fetal/Neonatal Adverse Reactions Prolonged use of opioid analgesics during pregnancy for medical or non-medical purposes can result in physical dependence in the neonate and neonatal opioid withdrawal syndrome shortly after birth.
 
 Neonatal opioid withdrawal syndrome presents irritability, hyperactivity, and abnormal sleep pattern, high pitched cry, tremor, vomiting, diarrhea, and failure to gain weight.
 The onset, duration, and severity of neonatal opioid withdrawal syndrome vary based on the specific opioid use, duration of use, timing and amount of last maternal use, and rate of elimination of the drug by the newborn.
@@ -39,7 +39,7 @@ Lactation studies have not been conducted with ROXICODONE, and no information is
 The developmental and health benefits of breastfeeding should be considered along with the mother’s clinical need for ROXICODONE and any potential adverse effects on the breastfed infant from ROXICODONE or from the underlying maternal condition.
 
 Clinical Considerations Infants exposed to ROXICODONE through breast milk should be monitored for excess sedation and respiratory depression.
-Withdrawal symptoms can occur in breastfed infants when maternal administration of an opioid analgesic is stopped or when breast-feeding is stopped.
+Withdrawal symptoms can occur in breastfed infants when maternal administration of an opioid analgesic is stopped or when breastfeeding is stopped.
 
 ## 8.3 Females and Males of Reproductive Potential
 
