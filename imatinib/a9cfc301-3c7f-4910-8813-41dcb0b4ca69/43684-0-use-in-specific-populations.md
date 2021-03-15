@@ -11,7 +11,7 @@ Reproductive studies in rats have demonstrated that imatinib mesylate induced te
 Advise women to avoid pregnancy when taking imatinib mesylate.
 If this drug is used during pregnancy, or if the patient becomes pregnant while taking this drug, apprise the patient of the potential hazard to the fetus.
 
-The background risk of major birth defects and miscarriage for the indicated population is not known; however, in the U.S. general population, the estimated background risk of major birth defects of clinically recognized pregnancies is 2 to 4% and of miscarriage is 15% to 20%.
+The background risk of major birth defects and miscarriage for the indicated population is not known; however, in the U.S. general population, the estimated background risk of major birth defects of clinically recognized pregnancies is 2% to 4% and of miscarriage is 15% to 20%.
 
 Data
 
@@ -30,7 +30,7 @@ Five animals developed a red vaginal discharge in the 45 mg/kg/day group on Days
 Other maternal effects noted only at the dose of 45 mg/kg/day (approximately one-half the maximum human dose of 800 mg/day based on body surface area) included an increased numbers of stillborn pups and pups dying between postpartum Days 0 and 4.
 In the F1 offspring at this same dose level, mean body weights were reduced from birth until terminal sacrifice and the number of litters achieving criterion for preputial separation was slightly decreased.
 There were no other significant effects in developmental parameters or behavioral testing.
-F1 fertility was not affected but reproductive effects were noted at 45 mg/kg/day including an increased number of resorptions and a decreased number of viable fetuses.
+F1 fertility was not affected but reproductive effects were noted at 45 mg/kg/day, including an increased number of resorptions and a decreased number of viable fetuses.
 The NOEL for both maternal animals and the F1 generation was 15 mg/kg/day.
 
 ## 8.2 Lactation
@@ -42,7 +42,7 @@ Because of the potential for serious adverse reactions in breastfed infants from
 
 Human Data
 
-Based on data from 3 breastfeeding women taking imatinib mesylate, the milk:plasma ratio is about 0.5 for imatinib and about 0.9 for the active metabolite.
+Based on data from 3 breastfeeding women taking imatinib mesylate, the milk: plasma ratio is about 0.5 for imatinib and about 0.9 for the active metabolite.
 Considering the combined concentration of imatinib and active metabolite, a breastfed infant could receive up to 10% of the maternal therapeutic dose based on body weight.
 
 ## 8.3 Females and Males of Reproductive Potential
@@ -65,7 +65,7 @@ In a rat study, the fertility in males and females was not affected [see Nonclin
 
 ## 8.4 Pediatric Use
 
-The safety and effectiveness of imatinib mesylate have been demonstrated in pediatric patients with newly diagnosed Ph+ chronic phase CML [see Clinical Studies (14.2)].
+The safety and effectiveness of imatinib mesylate have been demonstrated in pediatric patients with newly diagnosed Ph+ chronic phase CML and Ph+ ALL [see Clinical Studies (14.2, 14.4)].
 There are no data in children under 1 year of age.
 
 ## 8.5 Geriatric Use
@@ -89,13 +89,12 @@ Table 16: Liver Function Classification
 | --- | --- | --- | --- | --- |
 | Total Bilirubin | less than or equal to ULN | greater than 1.0 to 1.5 times the ULN | greater than 1.5 to 3 times the ULN | greater than 3 to 10 times the ULN |
 | SGOT | less than or equal to ULN | greater than ULN (can be normal if Total Bilirubin is greater than ULN) | Any | Any |
-
-ULN = upper limit of normal for the institution
+| Abbreviation: ULN, upper limit of normal for the institution. |  |  |  |  |
 
 ## 8.7 Renal Impairment
 
 The effect of renal impairment on the pharmacokinetics of imatinib was assessed in 59 patients with cancer and varying degrees of renal impairment at single and steady state imatinib doses ranging from 100 to 800 mg/day.
-The mean exposure to imatinib (dose normalized AUC) in patients with mild and moderate renal impairment increased 1.5 to 2 fold compared to patients with normal renal function.
+The mean exposure to imatinib (dose normalized AUC) in patients with mild and moderate renal impairment increased 1.5- to 2- fold compared to patients with normal renal function.
 There are not sufficient data in patients with severe renal impairment [see Clinical Pharmacology (12.3)].
 Dose reductions are necessary for patients with moderate and severe renal impairment [see Dosage and Administration (2.12)].
 
@@ -106,5 +105,4 @@ Table 17: Renal Function Classification
 | Mild | CrCL = 40 to 59 mL/min |
 | Moderate | CrCL = 20 to 39 mL/min |
 | Severe | CrCL = less than 20 mL/min |
-
-CrCL = Creatinine Clearance
+| Abbreviation: CrCL, Creatinine Clearance. |  |

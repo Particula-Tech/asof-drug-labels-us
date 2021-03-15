@@ -13,13 +13,14 @@ Imatinib is also an inhibitor of the receptor tyrosine kinases for platelet-deri
 ## 12.3 Pharmacokinetics
 
 The pharmacokinetics of imatinib mesylate have been evaluated in studies in healthy subjects and in population pharmacokinetic studies in over 900 patients.
+The pharmacokinetics of imatinib mesylate are similar in CML patients.
 
 Absorption and Distribution
 
 Imatinib is well absorbed after oral administration with Cmax achieved within 2 to 4 hours post-dose.
 Mean absolute bioavailability is 98%.
 Mean imatinib AUC increases proportionally with increasing doses ranging from 25 mg to 1,000 mg.
-There is no significant change in the pharmacokinetics of imatinib on repeated dosing, and accumulation is 1.5 to 2.5 fold at steady state when imatinib mesylate is dosed once daily.
+There is no significant change in the pharmacokinetics of imatinib on repeated dosing, and accumulation is 1.5- to 2.5-fold at steady state when imatinib mesylate is dosed once-daily.
 At clinically relevant concentrations of imatinib, binding to plasma proteins in in vitro experiments is approximately 95%, mostly to albumin and α1-acid glycoprotein.
 
 Elimination
@@ -73,15 +74,15 @@ Dosing in children at both 260 mg/m2 and 340 mg/m2 achieved an AUC similar to th
 The comparison of AUC on Day 8 vs. Day 1 at 260 mg/m2 and 340 mg/m2 dose levels revealed a 1.5- and 2.2-fold drug accumulation, respectively, after repeated once-daily dosing.
 Mean imatinib AUC did not increase proportionally with increasing dose.
 
-Based on pooled population pharmacokinetic analysis in pediatric patients with hematological disorders (CML, or other hematological disorders treated with imatinib), clearance of imatinib increases with increasing body surface area (BSA).
-After correcting for the BSA effect, other demographics such as age, body weight and body mass index did not have clinically significant effects on the exposure of imatinib.
+Based on pooled population pharmacokinetic analysis in pediatric patients with hematological disorders (CML, Ph+ ALL, or other hematological disorders treated with imatinib), clearance of imatinib increases with increasing body surface area (BSA).
+After correcting for the BSA effect, other demographics, such as age, body weight, and body mass index did not have clinically significant effects on the exposure of imatinib.
 The analysis confirmed that exposure of imatinib in pediatric patients receiving 260 mg/m2 once-daily (not exceeding 400 mg once-daily) or 340 mg/m2 once-daily (not exceeding 600 mg once-daily) were similar to those in adult patients who received imatinib 400 mg or 600 mg once-daily.
 
 Drug Interactions
 
 Agents Inducing CYP3A Metabolism
 
-Pretreatment of healthy volunteers with multiple doses of rifampin followed by a single dose of imatinib mesylate, increased imatinib mesylate oral-dose clearance by 3.8 fold, which significantly (p less than 0.05) decreased mean Cmax and AUC.
+Pretreatment of healthy volunteers with multiple doses of rifampin followed by a single dose of imatinib mesylate, increased imatinib mesylate oral-dose clearance by 3.8-fold, which significantly (p less than 0.05) decreased mean Cmax and AUC.
 
 Similar findings were observed in patients receiving 400 to 1200 mg/day imatinib mesylate concomitantly with enzyme-inducing anti-epileptic drugs (EIAED) (e.g., carbamazepine, oxcarbamazepine, phenytoin, fosphenytoin, phenobarbital, and primidone).
 The mean dose normalized AUC for imatinib in the patients receiving EIAED’s decreased by 73% compared to patients not receiving EIAED.

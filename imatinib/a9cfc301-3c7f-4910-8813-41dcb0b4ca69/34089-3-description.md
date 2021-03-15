@@ -11,7 +11,7 @@ C29H31N7O•CH4SO3 M.W.
 Imatinib mesylate is a white to off-white to brownish or yellowish powder.
 Imatinib mesylate is very soluble in water and soluble in aqueous buffers less than or equal to pH 5.5, but is very slightly soluble to insoluble in neutral/alkaline aqueous buffers.
 It is soluble in polar solvents, but only slightly soluble to insoluble in low polar solvents.
-Imatinib mesylate is freely soluble to very slightly soluble in dimethyl sulfoxide, methanol and ethanol, but is insoluble in n-octanol, acetone and acetonitrile.
+Imatinib mesylate is freely soluble to very slightly soluble in dimethyl sulfoxide, methanol, and ethanol, but is insoluble in n-octanol, acetone, and acetonitrile.
 The free base has very low solubility in water (0.001 g/100 mL) and in aqueous solutions that are slightly alkaline.
 
 Inactive Ingredients: colloidal silicon dioxide, croscarmellose sodium, crospovidone, FD&C Yellow #6 Sunset Yellow FCF aluminum lake, hydroxypropyl cellulose, hypromellose, iron oxide yellow, lactose monohydrate, magnesium stearate, microcrystalline cellulose, sodium stearyl fumarate, talc, and titanium dioxide.
