@@ -1,0 +1,20 @@
+{
+  "application_numbers": [
+    "NDA020816"
+  ],
+  "inn": "brinzolamide",
+  "labeler": "Sandoz Inc",
+  "package_ndcs": [
+    "0781-6014-70",
+    "0781-6014-85"
+  ],
+  "products": [
+    {
+      "form": "SUSPENSION/ DROPS",
+      "generic": "brinzolamide",
+      "name": "Brinzolamide"
+    }
+  ],
+  "setid": "ed6dbc25-47d7-42db-9787-5814d71f45ce",
+  "source": "dailymed"
+}
