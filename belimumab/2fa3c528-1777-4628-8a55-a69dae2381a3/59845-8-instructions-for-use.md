@@ -154,7 +154,7 @@ See Figure J.
 
 - •Put your used syringe and sharps in an FDA-cleared sharps disposal container right away after use.
   Do not throw away (dispose of) loose needles and syringes in your household trash.
-- •If you do not have a FDA-cleared sharps disposal container, you may use a household container that:
+- •If you do not have an FDA-cleared sharps disposal container, you may use a household container that:
   - ois made of a heavy-duty plastic,
   - ocan be closed with a tight-fitting, puncture-resistant lid, without sharps being able to come out,
   - ois upright and stable during use,
@@ -178,17 +178,21 @@ For more information about BENLYSTA, go to www.BENLYSTA.com or call 1-877-423-65
 
 This Instructions for Use has been approved by the U.S. Food and Drug Administration.
 
-Trademark is owned by or licensed to the GSK group of companies.
+Trademarks are owned by or licensed to the GSK group of companies.
 
-Manufactured by Human Genome Sciences, Inc., (a subsidiary of GlaxoSmithKline), Rockville, MD 20850
+Manufactured by GlaxoSmithKline LLC
 
-U.S. License No. 1820
+Philadelphia, PA 19112, U.S. License No. 1727, and
 
-©2020 GSK group of companies or its licensor.
+Distributed by GlaxoSmithKline
 
-BNL:3IFU-S
+Research Triangle Park, NC 27709
 
-Revised December 2020
+©2021 GSK group of companies or its licensor.
+
+BNL:4IFU-S
+
+Revised March 2021
 
 Instructions for Use
 
@@ -349,7 +353,7 @@ See Figure K.
 
 - •Put your used autoinjector in an FDA-cleared sharps disposal container right away after use.
   Do not throw away (dispose of) in your household trash.
-- •If you do not have a FDA-cleared sharps disposal container, you may use a household container that:
+- •If you do not have an FDA-cleared sharps disposal container, you may use a household container that:
 - ois made of a heavy-duty plastic,
 - ocan be closed with a tight-fitting, puncture-resistant lid, without sharps being able to come out,
 - ois upright and stable during use,
@@ -373,16 +377,18 @@ For more information about BENLYSTA, go to www.BENLYSTA.com or call 1-877-423-65
 
 This Instructions for Use has been approved by the U.S. Food and Drug Administration.
 
-Trademark is owned by or licensed to the GSK group of companies.
+Trademarks are owned by or licensed to the GSK group of companies.
 
-Manufactured by Human Genome Sciences, Inc., (a subsidiary of GlaxoSmithKline), Rockville, MD 20850
+Manufactured by GlaxoSmithKline LLC
 
-U.S. License No. 1820
+Philadelphia, PA 19112, U.S. License No. 1727, and
 
-©2020 GSK group of companies or its licensor.
+Distributed by GlaxoSmithKline
 
-BNL:3IFU-A
+Research Triangle Park, NC 27709
 
-Revised
+©2021 GSK group of companies or its licensor.
 
-December 2020
+BNL:4IFU-A
+
+Revised March 2021

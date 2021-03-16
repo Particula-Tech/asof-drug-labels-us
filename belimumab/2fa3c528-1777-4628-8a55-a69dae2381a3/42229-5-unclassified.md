@@ -1,24 +1,16 @@
 Trademarks are owned by or licensed to the GSK group of companies.
 
-Manufactured by
+Manufactured by GlaxoSmithKline LLC
 
-Human Genome Sciences, Inc.
+Philadelphia, PA 19112, U.S. License No. 1727, and
 
-(a subsidiary of GlaxoSmithKline)
-
-Rockville, Maryland 20850
-
-U.S. License No. 1820
-
-Marketed by
-
-GlaxoSmithKline
+Distributed by GlaxoSmithKline
 
 Research Triangle Park, NC 27709
 
-©2020 GSK group of companies or its licensor.
+©2021 GSK group of companies or its licensor.
 
-BNL:15PI
+BNL:16PI
 
 DETACH HERE AND GIVE MEDICATION GUIDE TO PATIENT.
 

@@ -56,14 +56,15 @@ Clinical Response Rate in Patients with SLE after 52 Weeks of Treatment
 
 |  | Trial 2 |  |  | Trial 3 |  |  |
 | --- | --- | --- | --- | --- | --- | --- |
-| Response | Placebo +Standard Therapy(n = 275) | BENLYSTA1 mg/kg + Standard Therapyb(n = 271) | BENLYSTA10 mg/kg + Standard Therapy(n = 273) | Placebo +Standard Therapy(n = 287) | BENLYSTA1 mg/kg + Standard Therapyb(n = 288) | BENLYSTA10 mg/kg + Standard Therapy(n = 290) |
-| SLE Responder Index-4 (SRI-4)a | 34% | 41% P = 0.104 | 43% P = 0.021 | 44% | 51% P = 0.013 | 58% P <0.001 |
+| Response | Placebo +Standard Therapy(n = 275) | BENLYSTA1 mg/kg + Standard Therapya(n = 271) | BENLYSTA10 mg/kg + Standard Therapy(n = 273) | Placebo +Standard Therapy(n = 287) | BENLYSTA1 mg/kg + Standard Therapya(n = 288) | BENLYSTA10 mg/kg + Standard Therapy(n = 290) |
+| SLE Responder Index-4 (SRI-4)b | 34% | 41% P = 0.104 | 43% P = 0.021 | 44% | 51% P = 0.013 | 58% P <0.001 |
 | Odds Ratio (95% CI) vs. placebo |  | 1.3 (0.9, 1.9) | 1.5 (1.1, 2.2) |  | 1.6 (1.1, 2.2) | 1.8 (1.3, 2.6) |
 | Components of SLE Responder Index-4 (SRI-4) |  |  |  |  |  |  |
 | Percent of patients with reduction in SELENA-SLEDAI ≥4 | 36% | 43% | 47% | 46% | 53% | 58% |
 | Percent of patients with no worsening by BILAG index | 65% | 75% | 69% | 73% | 79% | 81% |
 | Percent of patients with no worsening by PGA | 63% | 73% | 69% | 69% | 79% | 80% |
-| a Patients dropping out of the trial early or experiencing certain increases in background medication were considered as failures in these analyses. In both trials, a higher proportion of placebo patients were considered as failures for this reason compared with the groups receiving BENLYSTA. b The 1-mg/kg dose is not recommended. |  |  |  |  |  |  |
+| a The 1-mg/kg dose is not recommended. |  |  |  |  |  |  |
+| b Patients dropping out of the trial early or experiencing certain increases in background medication were considered as failures in these analyses. In both trials, a higher proportion of placebo patients were considered as failures for this reason compared with the groups receiving BENLYSTA. |  |  |  |  |  |  |
 
 The reduction in disease activity seen in the SRI-4 was related primarily to improvement in the most commonly involved organ systems; namely, mucocutaneous, musculoskeletal, and immune.
 

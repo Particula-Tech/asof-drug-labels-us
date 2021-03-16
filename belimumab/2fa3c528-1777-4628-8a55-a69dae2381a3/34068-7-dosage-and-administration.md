@@ -43,19 +43,19 @@ Reconstitution Instructions for Intravenous Use:
 
 Dilution Instructions for Intravenous Use:
 
-1. 6.Dextrose intravenous solutions are incompatible with BENLYSTA.
+1. 1.Dextrose intravenous solutions are incompatible with BENLYSTA.
    BENLYSTA should only be diluted in 0.9% Sodium Chloride Injection, USP (normal saline), 0.45% Sodium Chloride Injection, USP (half-normal saline), or Lactated Ringer’s Injection, USP to a volume of 250 mL for intravenous infusion.
    For patients whose body weight is less than or equal to 40 kg, 100 mL may be used such that the resulting belimumab concentration in the infusion bag does not exceed 4 mg/mL.
    From a 250‑mL (or 100‑mL) infusion bag or bottle of normal saline, half-normal saline, or Lactated Ringer’s Injection, withdraw and discard a volume equal to the volume of the reconstituted solution of BENLYSTA required for the patient’s dose.
    Then add the required volume of the reconstituted solution of BENLYSTA into the infusion bag or bottle.
    Gently invert the bag or bottle to mix the solution.
    Any unused solution in the vials must be discarded.
-2. 7.Parenteral drug products should be inspected visually for particulate matter and discoloration prior to administration, whenever solution and container permit.
+2. 2.Parenteral drug products should be inspected visually for particulate matter and discoloration prior to administration, whenever solution and container permit.
    Discard the solution if any particulate matter or discoloration is observed.
-3. 8.The reconstituted solution of BENLYSTA, if not used immediately, should be stored protected from direct sunlight and refrigerated at 36°F to 46°F (2°C to 8°C).
+3. 3.The reconstituted solution of BENLYSTA, if not used immediately, should be stored protected from direct sunlight and refrigerated at 36°F to 46°F (2°C to 8°C).
    Solutions of BENLYSTA diluted in normal saline, half-normal saline, or Lactated Ringer’s Injection may be stored at 36°F to 46°F (2°C to 8°C) or room temperature.
    The total time from reconstitution of BENLYSTA to completion of infusion should not exceed 8 hours.
-4. 9.No incompatibilities between BENLYSTA and polyvinylchloride or polyolefin bags have been observed.
+4. 4.No incompatibilities between BENLYSTA and polyvinylchloride or polyolefin bags have been observed.
 
 Administration Instructions for Intravenous Use
 

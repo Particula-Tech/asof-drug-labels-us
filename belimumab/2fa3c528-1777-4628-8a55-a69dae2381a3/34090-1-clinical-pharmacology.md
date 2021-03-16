@@ -76,12 +76,11 @@ The following information is based on the population pharmacokinetic analyses of
 
 Age: Age did not significantly influence the pharmacokinetics of belimumab, where the majority of subjects were between 18 and 45 years (70% with intravenous dosing; 74% with subcutaneous dosing).
 
-Geriatric Patients: Limited pharmacokinetic data are available for elderly patients as less than 2% of the subjects included in the pharmacokinetic analysis were 65 years or older [see Use in Specific Populations (8.5)].
-
-Pediatric Patients: The pharmacokinetic parameters are based on individual parameter estimates from a population pharmacokinetic analysis of 53 pediatric patients (Trial 6).
-Following IV administration of 10 mg/kg on Days 0, 14, and 28, and at 4‑week intervals thereafter, belimumab exposures were similar between pediatric and adult subjects with SLE.
-Steady-state geometric mean Cmax, Cmin, Cavg, and AUC values were 305, 42, 92 mcg/mL, and 2,569 day●mcg/mL in the 5- to 11-year-old group, and 317, 52, 112 mcg/mL and 3,126 day●mcg/mL in the 12- to 17-year-old group.
-[See Use in Specific Populations (8.4).]
+1. Geriatric Patients: Limited pharmacokinetic data are available for elderly patients as less than 2% of the subjects included in the pharmacokinetic analysis were 65 years or older [see Use in Specific Populations (8.5)].
+2. Pediatric Patients: The pharmacokinetic parameters are based on individual parameter estimates from a population pharmacokinetic analysis of 53 pediatric patients (Trial 6).
+   Following IV administration of 10 mg/kg on Days 0, 14, and 28, and at 4‑week intervals thereafter, belimumab exposures were similar between pediatric and adult subjects with SLE.
+   Steady-state geometric mean Cmax, Cmin, Cavg, and AUC values were 305, 42, 92 mcg/mL, and 2,569 day●mcg/mL in the 5- to 11-year-old group, and 317, 52, 112 mcg/mL and 3,126 day●mcg/mL in the 12- to 17-year-old group.
+   [See Use in Specific Populations (8.4).]
 
 Male and Female Patients: Gender did not significantly influence belimumab pharmacokinetics in the largely female trial population (94% with intravenous dosing; 85% with subcutaneous dosing).
 
