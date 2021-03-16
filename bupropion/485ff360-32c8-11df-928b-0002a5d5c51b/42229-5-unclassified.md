@@ -5,7 +5,6 @@
 
 CONTRAVE® is a registered trademark of Nalpropion Pharmaceuticals LLC
 
-All other trademarks are the property of their respective owners. © 2020 Nalpropion Pharmaceuticals LLC
+All other trademarks are the property of their respective owners. © 2021 Nalpropion Pharmaceuticals LLC
 
-CON-LC115.00 Rev.
-08/20
+CON-LC115.01
