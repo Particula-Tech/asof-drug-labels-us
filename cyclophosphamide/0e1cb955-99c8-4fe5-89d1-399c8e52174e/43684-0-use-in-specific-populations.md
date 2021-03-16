@@ -2,11 +2,9 @@
 
 ## 8.1 Pregnancy
 
-Pregnancy Category D
-
 Risk Summary
 
-Based on its mechanism of action and published reports of effects in pregnant patients or animals, Cyclophosphamide can cause fetal harm when administered to a pregnant woman [see Clinical Pharmacology (12.1) and Nonclinical Toxicology (13.1)].
+Based on its mechanism of action and published reports of effects in pregnant patients or animals, Cyclophosphamide capsules can cause fetal harm when administered to a pregnant woman [see Clinical Pharmacology (12.1) and Nonclinical Toxicology (13.1)].
 Exposure to cyclophosphamide during pregnancy may cause fetal malformations, miscarriage, fetal growth retardation, and toxic effects in the newborn [see Data].
 Cyclophosphamide is teratogenic and embryo-fetal toxic in mice, rats, rabbits and monkeys [see Data].
 Advise pregnant women and females of reproductive potential of the potential risk to the fetus.
@@ -31,24 +29,24 @@ Risk Summary
 
 Cyclophosphamide is present in breast milk.
 Neutropenia, thrombocytopenia, low hemoglobin, and diarrhea have been reported in infants breast fed by women treated with cyclophosphamide.
-Because of the potential for serious adverse reactions in a breastfed child from Cyclophosphamide, advise lactating women not to breastfeed during the treatment and for 1 week after the last dose.
+Because of the potential for serious adverse reactions in a breastfed child from Cyclophosphamide capsules, advise lactating women not to breastfeed during the treatment and for 1 week after the last dose.
 
 ## 8.3 Females and Males Reproductive Potential
 
 Pregnancy Testing
 
-Verify the pregnancy status of females of reproductive potential prior to the initiation of Cyclophosphamide Capsules [see Use in Specific Populations (8.1)].
+Verify the pregnancy status of females of reproductive potential prior to the initiation of Cyclophosphamide capsules [see Use in Specific Populations (8.1)].
 
 Contraception
 
 Females
 
-Cyclophosphamide can cause fetal harm.
+Cyclophosphamide capsules can cause fetal harm.
 Advise females of reproductive potential to use effective contraception during treatment with Cyclophosphamide for up to 1 year after completion of therapy [see Use in Specific Populations (8.1)].
 
 Males
 
-Based on findings in genetic toxicity and animal reproduction studies, advise male patients with female partners of reproductive potential to use effective contraception during treatment with Cyclophosphamide and for 4 months after completion of therapy [see Use in Specific Populations (8.1) and Nonclinical Toxicology (13.1)].
+Based on findings in genetic toxicity and animal reproduction studies, advise male patients with female partners of reproductive potential to use effective contraception during treatment with Cyclophosphamide capsules and for 4 months after completion of therapy [see Use in Specific Populations (8.1) and Nonclinical Toxicology (13.1)].
 
 Infertility
 
@@ -64,7 +62,7 @@ The exact duration of follicular development in humans is not known, but may be 
 
 Males
 
-Men treated with cyclophosphamide may develop oligospermia or azoospermia which are normally associated with increased gonadotropin but normal testosterone secretion.
+Men treated with cyclophosphamide capsules may develop oligospermia or azoospermia which are normally associated with increased gonadotropin but normal testosterone secretion.
 
 ## 8.4 Pediatric Use
 

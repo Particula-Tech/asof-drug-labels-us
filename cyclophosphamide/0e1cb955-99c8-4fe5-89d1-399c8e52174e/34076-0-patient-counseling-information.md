@@ -30,11 +30,11 @@ Embryo-Fetal Toxicity
 
 Lactation
 
-- Advise lactating women not to breastfeed during treatment and for 1 week after the last dose of Cyclophosphamide Capsules [see Use in Specific Populations (8.2)].
+- Advise lactating women not to breastfeed during treatment and for 1 week after the last dose of Cyclophosphamide capsules [see Use in Specific Populations (8.2)].
 
 Infertility
 
-- Cyclophosphamide may impair fertility in males and females of reproductive potential [see Warnings and Precautions (5.8) and Use in Specific Populations (8.3, 8.4)]
+- Cyclophosphamide capsules may impair fertility in males and females of reproductive potential [see Warnings and Precautions (5.8) and Use in Specific Populations (8.3, 8.4)]
 
 Common Adverse Reactions
 
@@ -59,8 +59,8 @@ Manufactured for:
 
 Cipla USA, Inc.
 
-1560 Sawgrass Corporate Parkway,
+10 Independence Boulevard, Suite 300,
 
-Suite 130, Sunrise, FL 33323
+Warren, NJ 07059
 
-Revised: 10/2019
+Revised: 02/2020

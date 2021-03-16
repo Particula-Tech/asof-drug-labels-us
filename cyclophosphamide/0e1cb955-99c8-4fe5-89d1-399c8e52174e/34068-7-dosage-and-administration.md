@@ -6,12 +6,12 @@ Therefore, cyclophosphamide should be administered in the morning.
 ## 2.1 Hydration and Important Administration Instructions
 
 During or immediately after the administration of cyclophosphamide capsules, adequate amounts of fluid should be ingested or infused to force diuresis in order to reduce the risk of urinary tract toxicity.
-Therefore, cyclophosphamide should be taken in the morning.
+Therefore, cyclophosphamide capsules should be taken in the morning.
 
 Cyclophosphamide capsules should be swallowed whole.
 The capsules should not be opened, chewed, or crushed.
 
-Cyclophosphamide is a cytotoxic drug.
+Cyclophosphamide capsules is a cytotoxic drug.
 Follow applicable special handling and disposal procedures.1Exposure to broken capsules should be avoided.
 If contact with broken capsules occurs, wash hands immediately and thoroughly.
 

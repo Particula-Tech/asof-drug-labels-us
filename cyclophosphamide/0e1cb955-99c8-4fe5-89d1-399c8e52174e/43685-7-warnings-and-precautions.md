@@ -70,18 +70,18 @@ Other risk factors predisposing to the development of VOD include preexisting di
 
 ## 5.7 Embryo-Fetal Toxicity
 
-Based on its mechanism of action and published reports of effects in pregnant patients or animals, Cyclophosphamide can cause fetal harm when administered to a pregnant woman [see Use in Specific Populations (8.1), Clinical Pharmacology (12.1) and Nonclinical Toxicology (13.1)].
+Based on its mechanism of action and published reports of effects in pregnant patients or animals, Cyclophosphamide capsules can cause fetal harm when administered to a pregnant woman [see Use in Specific Populations (8.1), Clinical Pharmacology (12.1) and Nonclinical Toxicology (13.1)].
 Exposure to cyclophosphamide during pregnancy may cause birth defects, miscarriage, fetal growth retardation, and fetotoxic effects in the newborn.
 Cyclophosphamide is teratogenic and embryo-fetal toxic in mice, rats, rabbits and monkeys.
 
 Advise pregnant women and female patients of reproductive potential of the potential risk to the fetus [see Use in Specific Populations (8.1)].
-Verify the pregnancy status of females of reproductive potential prior to initiation of Cyclophosphamide.
-Advise females of reproductive potential to use effective contraception during treatment with Cyclophosphamide and for up to 1 year after completion of therapy.
-Advise male patients with female partners of reproductive potential to use effective contraception during treatment with Cyclophosphamide Capsules and for 4 months after completion of therapy [see Use in Specific Populations (8.1, 8.3)].
+Verify the pregnancy status of females of reproductive potential prior to initiation of Cyclophosphamide capsules.
+Advise females of reproductive potential to use effective contraception during treatment with Cyclophosphamide capsules and for up to 1 year after completion of therapy.
+Advise male patients with female partners of reproductive potential to use effective contraception during treatment with Cyclophosphamide capsules and for 4 months after completion of therapy [see Use in Specific Populations (8.1, 8.3)].
 
 ## 5.8 Infertility
 
-Male and female reproductive function and fertility may be impaired in patients being treated with cyclophosphamide.
+Male and female reproductive function and fertility may be impaired in patients being treated with cyclophosphamide capsules.
 Cyclophosphamide interferes with oogenesis and spermatogenesis.
 It may cause sterility in both sexes.
 Development of sterility appears to depend on the dose of cyclophosphamide, duration of therapy, and the state of gonadal function at the time of treatment.

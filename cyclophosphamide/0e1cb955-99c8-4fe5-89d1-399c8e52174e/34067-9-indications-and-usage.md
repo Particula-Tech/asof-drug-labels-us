@@ -17,8 +17,8 @@ Cyclophosphamide, although effective alone in susceptible malignancies, is more 
 
 ## 1.2 Minimal Change Nephrotic Syndrome in Pediatric Patients
 
-Cyclophosphamide is indicated for the treatment of biopsy proven minimal change nephrotic syndrome in pediatric patients who failed to adequately respond to or are unable to tolerate adrenocorticosteroid therapy.
+Cyclophosphamide capsules is indicated for the treatment of biopsy proven minimal change nephrotic syndrome in pediatric patients who failed to adequately respond to or are unable to tolerate adrenocorticosteroid therapy.
 
 Limitations of Use:
 
-The safety and effectiveness of cyclophosphamide for the treatment of nephrotic syndrome in adults or other renal disease has not been established.
+The safety and effectiveness of cyclophosphamide capsules for the treatment of nephrotic syndrome in adults or other renal disease has not been established.
