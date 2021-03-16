@@ -14,7 +14,18 @@ Do not use household teaspoons or tablespoons to measure hydromorphone hydrochlo
 - Initiate the dosing regimen for each patient individually, taking into account the patient's severity of pain, patient response, prior analgesic treatment experience, and risk factors for addiction, abuse, and misuse [see Warnings and Precautions (5.2)].
 - Monitor patients closely for respiratory depression, especially within the first 24 to 72 hours of initiating therapy and following dosage increases with hydromorphone hydrochloride oral solution or hydromorphone hydrochloride tablets and adjust the dosage accordingly [see Warnings and Precautions (5.4)].
 
-## 2.2 Initial Dosage
+## 2.2 Patient Access to Naloxone for the Emergency Treatment of Opioid Overdose
+
+Discuss the availability of naloxone for the emergency treatment of opioid overdose with the patient and caregiver and assess the potential need for access to naloxone, both when initiating and renewing treatment with Hydromorphone Hydrochloride Oral Solution or Hydromorphone Hydrochloride Tablets [see Warnings and Precautions (5.4), Patient Counseling Information (17)].
+
+Inform patients and caregivers about the various ways to obtain naloxone as permitted by individual state naloxone dispensing and prescribing requirements or guidelines (e.g., by prescription, directly from a pharmacist, or as part of a community-based program).
+
+Consider prescribing naloxone, based on the patient's risk factors for overdose, such as concomitant use of CNS depressants, a history of opioid use disorder, or prior opioid overdose.
+The presence of risk factors for overdose should not prevent the proper management of pain in any given patient [see Warnings and Precautions (5.2, 5.4, 5.6)].
+
+Consider prescribing naloxone if the patient has household members (including children) or other close contacts at risk for accidental ingestion or overdose.
+
+## 2.3 Initial Dosage
 
 Initiating Treatment with Hydromorphone Hydrochloride Oral Solution or Hydromorphone Hydrochloride Tablets
 
@@ -33,21 +44,21 @@ Therefore, a conservative approach is advised when determining the total daily d
 It is safer to underestimate a patient's 24-hour hydromorphone hydrochloride dosage than to overestimate the 24-hour dosage and manage an adverse reaction due to overdose.
 
 In general, it is safest to start hydromorphone hydrochloride therapy by administering half of the usual starting dose every 3 to 6 hours for hydromorphone hydrochloride oral solution; and every 4 to 6 hours for hydromorphone hydrochloride tablets.
-The dose of hydromorphone hydrochloride can be gradually adjusted until adequate pain relief and acceptable side effects have been achieved [see Dosage and Administration (2.4)].
+The dose of hydromorphone hydrochloride can be gradually adjusted until adequate pain relief and acceptable side effects have been achieved [see Dosage and Administration (2.5)].
 
 Conversion from Hydromorphone Hydrochloride Oral Solution or Hydromorphone Hydrochloride Tablets to Extended-Release Hydromorphone Hydrochloride
 
 The relative bioavailability of hydromorphone hydrochloride oral solution and hydromorphone hydrochloride tablets compared to extended-release hydromorphone hydrochloride is unknown, so conversion to extended-release tablets must be accompanied by close observation for signs of excessive sedation and respiratory depression.
 
-## 2.3 Dosage Modifications in Patients with Hepatic Impairment
+## 2.4 Dosage Modifications in Patients with Hepatic Impairment
 
 Initiate treatment with one-fourth to one-half the usual hydromorphone hydrochloride starting dose depending on the degree of impairment [see Use in Specific Populations (8.6), and Clinical Pharmacology (12.3)].
 
-## 2.4 Dosage Modifications in Patients with Renal Impairment
+## 2.5 Dosage Modifications in Patients with Renal Impairment
 
 Initiate treatment with one-fourth to one-half the usual hydromorphone hydrochloride starting dose depending on the degree of impairment [see Use in Specific Populations (8.7), and Clinical Pharmacology (12.3)].
 
-## 2.5 Titration and Maintenance of Therapy
+## 2.6 Titration and Maintenance of Therapy
 
 Individually titrate hydromorphone hydrochloride oral solution or hydromorphone hydrochloride tablets to a dose that provides adequate analgesia and minimizes adverse reactions.
 Continually reevaluate patients receiving hydromorphone hydrochloride oral solution or hydromorphone hydrochloride tablets to assess the maintenance of pain control and the relative incidence of adverse reactions, as well as monitoring for the development of addiction, abuse, or misuse [see Warnings and Precautions (5.2].
@@ -60,7 +71,7 @@ Adjust the dosage to obtain an appropriate balance between management of pain an
 For chronic pain, doses should be administered around-the-clock.
 A supplemental dose of 5 to 15% of the total daily usage may be administered every two hours on an as-needed basis.
 
-## 2.6 Safe Reduction or Discontinuation of Hydromorphone Hydrochloride Oral Solution or Hydromorphone Hydrochloride Tablets
+## 2.7 Safe Reduction or Discontinuation of Hydromorphone Hydrochloride Oral Solution or Hydromorphone Hydrochloride Tablets
 
 Do not abruptly discontinue hydromorphone hydrochloride oral solution or hydromorphone hydrochloride tablets in patients who may be physically dependent on opioids.
 Rapid discontinuation of opioid analgesics in patients who are physically dependent on opioids has resulted in serious withdrawal symptoms, uncontrolled pain, and suicide.

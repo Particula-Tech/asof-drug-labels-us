@@ -11,9 +11,8 @@ In case of overdose, priorities are the reestablishment of a patent and protecte
 Employ other supportive measures (including oxygen and vasopressors) in the management of circulatory shock and pulmonary edema as indicated.
 Cardiac arrest or arrhythmias will require advanced life-support techniques.
 
-The opioid antagonists, naloxone or nalmefene, are specific antidotes to respiratory depression resulting from opioid overdose.
-For clinically significant respiratory or circulatory depression secondary to hydromorphone overdose, administer an opioid antagonist.
-Opioid antagonists should not be administered in the absence of clinically significant respiratory or circulatory depression secondary to hydromorphone overdose.
+Opioid antagonists, such as naloxone, are specific antidotes to respiratory depression resulting from opioid overdose.
+For clinically significant respiratory or circulatory depression secondary to opioid overdose, administer an opioid antagonist.
 
 Because the duration of opioid reversal is expected to be less than the duration of action of hydromorphone in hydromorphone hydrochloride oral solution or hydromorphone hydrochloride tablets, carefully monitor the patient until spontaneous respiration is reliably reestablished.
 If the response to an opioid antagonist is suboptimal or only brief in nature, administer additional antagonist as directed by the product's prescribing information.

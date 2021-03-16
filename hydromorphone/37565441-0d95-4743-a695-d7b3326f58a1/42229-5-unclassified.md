@@ -5,6 +5,6 @@ Manufactured by: Halo Pharmaceutical, Inc. Whippany, NJ 07981
 Marketed by: Rhodes Pharmaceuticals L.P.
 Coventry, RI 02816
 
-Component# 305170-0B
+305170-0D
 
-Revised: 10/2019
+Revised: 03/2021
