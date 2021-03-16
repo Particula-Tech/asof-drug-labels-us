@@ -1,6 +1,6 @@
-# 13NONCLINICAL TOXICOLOGY
+# 13 NONCLINICAL TOXICOLOGY
 
-## 13.1Carcinogenesis, Mutagenesis, Impairment of Fertility
+## 13.1 Carcinogenesis, Mutagenesis, Impairment of Fertility
 
 ZUBSOLV has been shown to have differences in bioavailability compared to other buprenorphine/naloxone-containing sublingual products.
 The exposure margins listed below are based on body surface area comparisons (mg/m2) to the recommended human sublingual dose of 16 mg buprenorphine via Suboxone, which is equivalent to a human sublingual dose of 11.4 mg buprenorphine via ZUBSOLV.

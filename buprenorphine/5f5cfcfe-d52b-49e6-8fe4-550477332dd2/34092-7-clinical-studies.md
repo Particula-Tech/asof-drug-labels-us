@@ -1,4 +1,4 @@
-# 14CLINICAL STUDIES
+# 14 CLINICAL STUDIES
 
 The induction of buprenorphine therapy with ZUBSOLV was evaluated in two blinded randomized, non-inferiority studies.
 The identical blinded induction phase component of the studies was designed to assess the tolerability of ZUBSOLV versus generic buprenorphine tablets when used as initial treatment, as measured by retention in treatment.

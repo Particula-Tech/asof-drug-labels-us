@@ -1,4 +1,4 @@
-# 11DESCRIPTION
+# 11 DESCRIPTION
 
 ZUBSOLV (buprenorphine and naloxone) sublingual tablets are white menthol-flavored tablets in an oval shape for the dosage strength 0.7 mg/0.18 mg, a triangular shape for the dosage strength 1.4 mg /0.36 mg, a D shape for the dosage strength 2.9 mg/0.71 mg, a round shape for the dosage strength 5.7 mg/1.4 mg, a diamond shape for the dosage strength 8.6 mg/2.1 mg and a capsule shape for the dosage strength 11.4 mg/2.9 mg.
 They are debossed with the respective dosage strength of buprenorphine.

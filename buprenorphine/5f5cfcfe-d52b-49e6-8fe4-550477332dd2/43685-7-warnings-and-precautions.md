@@ -7,7 +7,7 @@ Prescribe and dispense buprenorphine with appropriate precautions to minimize ri
 Clinical monitoring appropriate to the patient’s level of stability is essential.
 Multiple refills should not be prescribed early in treatment or without appropriate patient follow-up visits [see Drug Abuse and Dependence (9.2)].
 
-## 5.2Risk of Life-Threatening Respiratory Depression and Central Nervous System (CNS) Depression
+## 5.2Risk of Life-Threatening Respiratory and Central Nervous System (CNS) Depression
 
 Buprenorphine has been associated with life-threatening respiratory depression and death.
 Many, but not all, post-marketing reports regarding coma and death involved misuse by self-injection or were associated with the concomitant use of buprenorphine and benzodiazepines or other CNS depressants, including alcohol.
@@ -15,9 +15,26 @@ Warn patients of the potential danger of self-administration of benzodiazepines 
 
 Use ZUBSOLV with caution in patients with compromised respiratory function (e.g., chronic obstructive pulmonary disease, cor pulmonale, decreased respiratory reserve, hypoxia, hypercapnia, or pre-existing respiratory depression).
 
+Educate patients and caregivers on how to recognize respiratory depression and emphasize the importance of calling 911 or getting emergency medical help right away in the event of a known or suspected overdose [see Patient Counseling Information (17)].
+
 Opioids can cause sleep-related breathing disorders including central sleep apnea (CSA) and sleep-related hypoxemia.
 Opioid use increases the risk of CSA in a dose-dependent fashion.
-In patients who present with CSA, consider decreasing the opioid dosage using best practices for opioid taper [see Dosage and Administration (2.8)].
+In patients who present with CSA, consider decreasing the opioid dosage using best practices for opioid taper [see Dosage and Administration (2.9)].
+
+Patient Access to Naloxone for the Emergency Treatment of Opioid Overdose
+
+Discuss the availability of naloxone for the emergency treatment of opioid overdose with the patient and caregiver.
+
+Because patients being treated for opioid use disorder have the potential for relapse, putting them at risk for opioid overdose, strongly consider prescribing naloxone for the emergency treatment of opioid overdose, both when initiating and renewing treatment with ZUBSOLV.
+Also consider prescribing naloxone if the patient has household members (including children) or other close contacts at risk for accidental ingestion or opioid overdose [see Dosage and Administration (2.3)].
+
+Advise patients and caregivers that naloxone may also be administered for a known or suspected overdose with ZUBSOLV itself.
+Higher than normal doses and repeated administration of naloxone may be necessary due to the long duration of action of ZUBSOLV and its affinity for the mu receptor [see Overdosage (10)].
+
+Inform patients and caregivers of their options for obtaining naloxone as permitted by individual state naloxone dispensing and prescribing requirements or guidelines (e.g., by prescription, directly from a pharmacist, or as part of a community-based program).
+
+Educate patients and caregivers on how to recognize respiratory depression and, if naloxone is prescribed, how to treat with naloxone.
+Emphasize the importance of calling 911 or getting emergency medical help, even if naloxone is administered [see Patient Counseling Information (17)].
 
 ## 5.3Managing Risks from Concomitant Use of Benzodiazepines or Other CNS Depressants
 
@@ -40,7 +57,10 @@ For patients in buprenorphine treatment, benzodiazepines are not the treatment o
 Before co-prescribing benzodiazepines, ensure that patients are appropriately diagnosed and consider alternative medications and non-pharmacologic treatments to address anxiety or insomnia.
 Ensure that other healthcare providers prescribing benzodiazepines or other CNS depressants are aware of the patient’s buprenorphine treatment and coordinate care to minimize the risks associated with concomitant use.
 
+If concomitant use is warranted, strongly consider prescribing naloxone for the emergency treatment of opioid overdose, as is recommended for all patients in buprenorphine treatment for opioid use disorder [see Warnings and Precautions (5.2)].
+
 In addition, take measures to confirm that patients are taking their medications as prescribed and are not diverting or supplementing with illicit drugs.
+
 Toxicology screening should test for prescribed and illicit benzodiazepines [see Drug Interactions (7)].
 
 ## 5.4Unintentional Pediatric Exposure
@@ -72,7 +92,7 @@ The information available does not identify any particular opioids as being more
 
 Buprenorphine is a partial agonist at the mu-opioid receptor and chronic administration produces physical dependence of the opioid type, characterized by withdrawal signs and symptoms upon abrupt discontinuation or rapid taper.
 The withdrawal syndrome is typically milder than seen with full agonists and may be delayed in onset.
-When discontinuing ZUBSOLV, gradually taper the dosage [see Dosage and Administration (2.8)].
+When discontinuing ZUBSOLV, gradually taper the dosage [see Dosage and Administration (2.9)].
 
 ## 5.8Risk of Hepatitis, Hepatic Events
 
@@ -104,7 +124,7 @@ Because of the partial agonist properties of buprenorphine, ZUBSOLV may precipit
 There have been reported deaths of opioid naive individuals who received a 2 mg dose of buprenorphine as a sublingual tablet for analgesia.
 ZUBSOLV is not appropriate as an analgesic.
 
-## 5.12Use in Patients With Impaired Hepatic Function
+## 5.12Use in Patients with Impaired Hepatic Function
 
 Buprenorphine/naloxone products are not recommended in patients with severe hepatic impairment and may not be appropriate for patients with moderate hepatic impairment.
 The doses of buprenorphine and naloxone in this fixed-dose combination product cannot be individually titrated, and hepatic impairment results in a reduced clearance of naloxone to a much greater extent than buprenorphine.

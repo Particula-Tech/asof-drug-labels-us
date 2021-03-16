@@ -1,13 +1,13 @@
-# 9DRUG ABUSE AND DEPENDENCE
+# 9 DRUG ABUSE AND DEPENDENCE
 
-## 9.1Controlled Substance
+## 9.1 Controlled Substance
 
 ZUBSOLV contains buprenorphine, a Schedule III substance under the Controlled Substances Act.
 
 Under the Drug Addiction Treatment Act (DATA) codified at 21 U.S.C.
 823(g), prescription use of this product in the treatment of opioid dependence is limited to healthcare providers who meet certain qualifying requirements, and who have notified the Secretary of Health and Human Services (HHS) of their intent to prescribe this product for the treatment of opioid dependence and have been assigned a unique identification number that must be included on every prescription.
 
-## 9.2Abuse
+## 9.2 Abuse
 
 Buprenorphine, like morphine and other opioids, has the potential to be abused and is subject to criminal diversion.
 This should be considered when prescribing or dispensing buprenorphine in situations when the clinician is concerned about an increased risk of misuse, abuse, or diversion.
@@ -22,7 +22,7 @@ The healthcare provider may be able to more easily detect misuse or diversion by
 
 Proper assessment of the patient, proper prescribing practices, periodic re-evaluation of therapy, and proper handling and storage of the medication are appropriate measures that help to limit abuse of opioid drugs.
 
-## 9.3Dependence
+## 9.3 Dependence
 
 Buprenorphine is a partial agonist at the mu-opioid receptor and chronic administration produces physical dependence of the opioid type, characterized by moderate withdrawal signs and symptoms upon abrupt discontinuation or rapid taper.
 The withdrawal syndrome is typically milder than seen with full agonists and may be delayed in onset [see Warnings and Precautions (5.7)].

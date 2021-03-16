@@ -1,6 +1,6 @@
-# 8USE IN SPECIFIC POPULATIONS
+# 8 USE IN SPECIFIC POPULATIONS
 
-## 8.1Pregnancy
+## 8.1 Pregnancy
 
 Risk Summary
 
@@ -15,7 +15,7 @@ Pre- and post-natal development studies in rats demonstrated increased neonatal 
 No clear teratogenic effects were seen when buprenorphine was administered during organogenesis with a range of doses equivalent to or greater than the human sublingual dose of 16 mg/day of buprenorphine.
 However, increases in skeletal abnormalities were noted in rats and rabbits administered buprenorphine daily during organogenesis at doses approximately 0.6 and approximately equal to the human sublingual dose of 16 mg/day of buprenorphine, respectively.
 In a few studies, some events such as acephalus and omphalocele were also observed but these findings were not clearly treatment-related [see Data].
-Based on animal data, advice pregnant women of the potential risk to a fetus.
+Based on animal data, advise pregnant women of the potential risk to a fetus.
 
 The estimated background risk of major birth defects and miscarriage for the indicated population are unknown.
 All pregnancies have a background risk of birth defect, loss, or other adverse outcomes.
@@ -78,7 +78,7 @@ No definitive drug-related teratogenic effects were observed in rats and rabbits
 Maternal toxicity resulting in mortality was noted in these studies in both rats and rabbits.
 Acephalus was observed in one rabbit fetus from the low-dose group and omphalocele was observed in two rabbit fetuses from the same litter in the mid-dose group; no findings were observed in fetuses from the high-dose group.
 Maternal toxicity was seen in the high-dose group but not at the lower doses where the findings were observed.
-Following oral administration of buprenorphine to rats, dose-related post-implantation losses, evidenced by increases in the numbers of early resorptions with consequent reductions in the numbers of fetuses, were observed at doses of 10 mg/kg/day or greater (estimated exposure approximately 6 times the human sublingual dose of 16 mg).
+Following oral administration of buprenorphine to rats, dose-related post- implantation losses, evidenced by increases in the numbers of early resorptions with consequent reductions in the numbers of fetuses, were observed at doses of 10 mg/kg/day or greater (estimated exposure approximately 6 times the human sublingual dose of 16 mg).
 In the rabbit, increased post-implantation losses occurred at an oral dose of 40 mg/kg/day.
 Following IM administration in the rat and the rabbit, post-implantation losses, as evidenced by decreases in live fetuses and increases in resorptions, occurred at 30 mg/kg/day.
 
@@ -94,7 +94,7 @@ Fertility, pre-, and post-natal development studies with buprenorphine in rats i
 An apparent lack of milk production during these studies likely contributed to the decreased pup viability and lactation indices.
 Delays in the occurrence of righting reflex and startle response were noted in rat pups at an oral dose of 80 mg/kg/day (approximately 50 times the human sublingual dose of 16 mg).
 
-## 8.2Lactation
+## 8.2 Lactation
 
 Risk Summary
 
@@ -115,25 +115,25 @@ In a study of six lactating women who were taking a median sublingual buprenorph
 Data from a study of seven lactating women who were taking a median sublingual buprenorphine dose of 7 mg/day an average of 1.12 months after delivery indicated that the mean milk concentrations (Cavg) of buprenorphine and norbuprenorphine were 3.65 mcg/L and 1.94 mcg/L respectively.
 Based on the study data, and assuming milk consumption of 150 mL/kg/day, an exclusively breastfed infant would receive an estimated mean absolute infant dose (AID) of 0.55 mcg/kg/day of buprenorphine and 0.29 mcg/kg/day of norbuprenorphine, or a mean relative infant dose (RID) of 0.38% and 0.18%, respectively, of the maternal weight-adjusted dose.
 
-## 8.3Females and Males of Reproductive Potential
+## 8.3 Females and Males of Reproductive Potential
 
 Infertility
 
 Chronic use of opioids may cause reduced fertility in females and males of reproductive potential.
 It is not known whether these effects on fertility are reversible [see Adverse Reactions (6.2), Nonclinical Toxicology (13.1)].
 
-## 8.4Pediatric Use
+## 8.4 Pediatric Use
 
 The safety and effectiveness of ZUBSOLV have not been established in pediatric patients.
 This product is not appropriate for the treatment of neonatal opioid withdrawal syndrome in neonates, because it contains naloxone, an opioid antagonist.
 
-## 8.5Geriatric Use
+## 8.5 Geriatric Use
 
 Clinical studies of buprenorphine/naloxone sublingual tablets did not include sufficient numbers of subjects aged 65 and over to determine whether they responded differently than younger subjects.
 Other reported clinical experience have not identified differences in responses between the elderly and younger patients.
 Due to possible decreased hepatic, renal, or cardiac function and of concomitant disease or other drug therapy in geriatric patients, the decision to prescribe ZUBSOLV should be made cautiously in individuals 65 years of age or older and these patients should be monitored for signs and symptoms of toxicity or overdose.
 
-## 8.6Hepatic Impairment
+## 8.6 Hepatic Impairment
 
 The effect of hepatic impairment on the pharmacokinetics of buprenorphine and naloxone has been evaluated in a pharmacokinetic study.
 Both drugs are extensively metabolized in the liver.
@@ -142,7 +142,7 @@ The magnitude of the effects on naloxone is greater than that on buprenorphine i
 The difference in magnitude of the effects on naloxone and buprenorphine are greater in subjects with severe hepatic impairment than in subjects with moderate hepatic impairment, and therefore the clinical impact of these effects is likely to be greater in patients with severe hepatic impairment than in patients with moderate hepatic impairment.
 Buprenorphine/naloxone products should be avoided in patients with severe hepatic impairment and may not be appropriate for patients with moderate hepatic impairment [see Warnings and Precautions (5.12), Clinical Pharmacology (12.3)].
 
-## 8.7Renal Impairment
+## 8.7 Renal Impairment
 
 No differences in buprenorphine pharmacokinetics were observed between 9 dialysis-dependent and 6 normal patients following IV administration of 0.3 mg buprenorphine.
 The effects of renal failure on naloxone pharmacokinetics are unknown [see Clinical Pharmacology (12.3)].

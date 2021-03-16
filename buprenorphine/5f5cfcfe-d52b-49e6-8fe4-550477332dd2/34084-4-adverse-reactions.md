@@ -2,18 +2,27 @@
 
 The following serious adverse reactions are described elsewhere in the labeling:
 
-- Addiction, Abuse, and Misuse [see Warnings and Precautions (5.1)]
-- Respiratory and CNS Depression [see Warnings and Precautions (5.2, 5.3)]
-- Neonatal Opioid Withdrawal Syndrome [see Warnings and Precautions (5.5)]
-- Adrenal Insufficiency [see Warnings and Precautions (5.6)]
-- Opioid Withdrawal [see Warnings and Precautions (5.7, 5.10)]
-- Hepatitis, Hepatic Events [see Warnings and Precautions (5.8)]
-- Hypersensitivity Reactions [see Warnings and Precautions (5.9)]
-- Orthostatic Hypotension [see Warnings and Precautions (5.14)]
-- Elevation of Cerebrospinal Fluid Pressure [see Warnings and Precautions (5.15)]
-- Elevation of Intracholedochal Pressure [see Warnings and Precautions (5.16)]
+• Addiction, Abuse, and Misuse [see Warnings and Precautions (5.1)]
 
-## 6.1Clinical Trials Experience
+• Respiratory and CNS Depression [see Warnings and Precautions (5.2, 5.3)]
+
+• Neonatal Opioid Withdrawal Syndrome [see Warnings and Precautions (5.5)]
+
+• Adrenal Insufficiency [see Warnings and Precautions (5.6)]
+
+• Opioid Withdrawal [see Warnings and Precautions (5.7, 5.10)]
+
+• Hepatitis, Hepatic Events [see Warnings and Precautions (5.8)]
+
+• Hypersensitivity Reactions [see Warnings and Precautions (5.9)]
+
+• Orthostatic Hypotension [see Warnings and Precautions (5.14)]
+
+• Elevation of Cerebrospinal Fluid Pressure [see Warnings and Precautions (5.15)]
+
+• Elevation of Intracholedochal Pressure [see Warnings and Precautions (5.16)]
+
+## 6.1 Clinical Trials Experience
 
 Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in practice.
 
@@ -111,11 +120,15 @@ Table 3 shows adverse events reported by at least 5% of subjects in any dose gro
 | Runny Eyes | 13 (7%) | 9 (5%) | 6 (3%) | 6 (3%) | 34 (5%) |
 
 *Sublingual solution.
-Doses in this table cannot necessarily be delivered in tablet form, but for comparison purposes:
+Doses in this table cannot necessarily be delivered in tablet form, but for comparison purposes: "Very low" dose (1 mg solution) would be less than a tablet dose of 2 mg
 
-"Very low" dose (1 mg solution) would be less than a tablet dose of 2 mg "Low" dose (4 mg solution) approximates a 6 mg tablet dose "Moderate" dose (8 mg solution) approximates a 12 mg tablet dose "High" dose (16 mg solution) approximates a 24 mg tablet dose
+"Low" dose (4 mg solution) approximates a 6 mg tablet dose
 
-## 6.2Post-marketing Experience
+"Moderate" dose (8 mg solution) approximates a 12 mg tablet dose
+
+"High" dose (16 mg solution) approximates a 24 mg tablet dose
+
+## 6.2 Post-marketing Experience
 
 The following adverse reactions have been identified during post-approval use of buprenorphine and naloxone sublingual tablets.
 Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate a causal relationship to drug exposure.
