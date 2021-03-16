@@ -16,7 +16,8 @@ When aztreonam pharmacokinetics were assessed for adult and pediatric patients, 
 The serum half-life of aztreonam averaged 1.7 hours (1.5-2.0) in subjects with normal renal function, independent of the dose and route of administration.
 In healthy subjects, based on a 70 kg person, the serum clearance was 91 mL/min and renal clearance was 56 mL/min; the apparent mean volume of distribution at steady-state averaged 12.6 liters, approximately equivalent to extracellular fluid volume.
 
-In elderly patients, the mean serum half-life of aztreonam increased and the renal clearance decreased, consistent with the age-related decrease in creatinine clearance.1-4 The dosage of AZACTAM should be adjusted accordingly (see DOSAGE AND ADMINISTRATION: Renal Impairment in Adult Patients).
+In elderly patients, the mean serum half-life of aztreonam increased and the renal clearance decreased, consistent with the age-related decrease in creatinine clearance.
+The dosage of AZACTAM should be adjusted accordingly (see DOSAGE AND ADMINISTRATION: Renal Impairment in Adult Patients).
 
 In patients with impaired renal function, the serum half-life of aztreonam is prolonged.
 (See DOSAGE AND ADMINISTRATION: Renal Impairment in Adult Patients.)

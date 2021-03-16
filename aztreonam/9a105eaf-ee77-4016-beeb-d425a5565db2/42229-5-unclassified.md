@@ -4,7 +4,3 @@ AZACTAM and the Bristol-Myers Squibb logo are registered trademarks of Bristol-M
 All other trademarks are the property of their respective owners.
 
 Manufactured by: Bristol-Myers Squibb Company Princeton, NJ 08543 USA
-
-Rev
-
-December 2019

@@ -91,7 +91,37 @@ For Bolus Injection: The contents of an AZACTAM 15 mL capacity vial should be co
 For Infusion: If the contents of a 15 mL capacity vial are to be transferred to an appropriate infusion solution, each gram of aztreonam should be initially constituted with at least 3 mL Sterile Water for Injection, USP.
 Further dilution may be obtained with one of the following intravenous infusion solutions:
 
-Sodium Chloride Injection, USP, 0.9%Ringer’s Injection, USPLactated Ringer’s Injection, USP Dextrose Injection, USP, 5% or 10% Dextrose and Sodium Chloride Injection, USP, 5%:0.9%, 5%:0.45%, or 5%:0.2% Sodium Lactate Injection, USP (M/6 Sodium Lactate) Ionosol® B and 5% Dextrose Isolyte® EIsolyte® E with 5% Dextrose Isolyte® M with 5% Dextrose Normosol®-R Normosol®-R and 5% Dextrose Normosol®-M and 5% Dextrose Mannitol Injection, USP, 5% or 10% Lactated Ringer’s and 5% Dextrose Injection Plasma-Lyte M and 5% Dextrose
+Sodium Chloride Injection, USP, 0.9%
+
+Ringer’s Injection, USP
+
+Lactated Ringer’s Injection, USP
+
+Dextrose Injection, USP, 5% or 10%
+
+Dextrose and Sodium Chloride Injection, USP, 5%:0.9%, 5%:0.45%, or 5%:0.2%
+
+Sodium Lactate Injection, USP (M/6 Sodium Lactate)
+
+Ionosol® B and 5% Dextrose
+
+Isolyte® E
+
+Isolyte® E with 5% Dextrose
+
+Isolyte® M with 5% Dextrose
+
+Normosol®-R
+
+Normosol®-R and 5% Dextrose
+
+Normosol®-M and 5% Dextrose
+
+Mannitol Injection, USP, 5% or 10%
+
+Lactated Ringer’s and 5% Dextrose Injection
+
+Plasma-Lyte M and 5% Dextrose
 
 ### Intramuscular Solutions
 

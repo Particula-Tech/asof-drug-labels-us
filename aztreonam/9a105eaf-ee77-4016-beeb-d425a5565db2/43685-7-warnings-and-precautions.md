@@ -64,8 +64,6 @@ There was a slightly reduced survival rate during the lactation period in the of
 
 ## Pregnancy
 
-### Pregnancy Category B
-
 In pregnant women, aztreonam crosses the placenta and enters the fetal circulation.
 
 Developmental toxicity studies in pregnant rats and rabbits with daily doses of aztreonam up to 1800 and 1200 mg/kg, respectively, revealed no evidence of embryotoxicity or fetotoxicity or teratogenicity.
