@@ -5,7 +5,9 @@
   "inn": "amphetamine",
   "labeler": "Arbor Pharmaceuticals",
   "package_ndcs": [
+    "24338-022-03",
     "24338-022-10",
+    "24338-026-03",
     "24338-026-10"
   ],
   "products": [
