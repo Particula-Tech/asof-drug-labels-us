@@ -8,12 +8,23 @@ Initiate the dosing regimen for each patient individually, taking into account t
 
 Evidence supporting the efficacy and safety of Butalbital, Acetaminophen, Caffeine, and Codeine Phosphate Capsules in the treatment of multiple recurrent headaches is unavailable.
 
-## 2.2 Dosing Information
+## 2.2 Patient Access to Naloxone for the Emergency Treatment of Opioid Overdose
+
+Discuss the availability of naloxone for the emergency treatment of opioid overdose with the patient and caregiver and assess the potential need for access to naloxone, both when initiating and renewing treatment with Butalbital, Acetaminophen, Caffeine, and Codeine Phosphate Capsules [see Warnings and Precautions (5.3), Patient Counseling Information (17)].
+
+Inform patients and caregivers about the various ways to obtain naloxone as permitted by individual state naloxone dispensing and prescribing requirements or guidelines (e.g., by prescription, directly from a pharmacist, or as part of a community-based program).
+
+Consider prescribing naloxone, based on the patient’s risk factors for overdose, such as concomitant use of CNS depressants, a history of opioid use disorder, or prior opioid overdose.
+The presence of risk factors for overdose should not prevent the proper management of pain in any given patient [see Warnings and Precautions (5.1, 5.3, 5.4)].
+
+Consider prescribing naloxone if the patient has household members (including children) or other close contacts at risk for accidental ingestion or overdose.
+
+## 2.3 Dosing Information
 
 One or two capsules every 4 hours as needed for pain.
 Total daily dosage should not exceed 6 capsules.
 
-## 2.3 Safe Reduction or Discontinuation of Butalbital, Acetaminophen, Caffeine, and Codeine Phosphate Capsules
+## 2.4 Safe Reduction or Discontinuation of Butalbital, Acetaminophen, Caffeine, and Codeine Phosphate Capsules
 
 Do not abruptly discontinue Butalbital, Acetaminophen, Caffeine, and Codeine Phosphate Capsules in patients who may be physically dependent on opioids.
 Rapid discontinuation of opioid analgesics in patients who are physically dependent on opioids has resulted in serious withdrawal symptoms, uncontrolled pain, and suicide.

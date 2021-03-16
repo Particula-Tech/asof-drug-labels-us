@@ -14,6 +14,8 @@ Risks are increased in patients with a personal or family history of substance a
 The potential for these risks should not, however, prevent the proper management of pain in any given patient.
 Patients at increased risk may be prescribed opioids such as Butalbital, Acetaminophen, Caffeine, and Codeine Phosphate Capsules, but use in such patients necessitates intensive counseling about the risks and proper use of Butalbital, Acetaminophen, Caffeine, and Codeine Phosphate Capsules along with intensive monitoring for signs of addiction, abuse, and misuse.
 
+Consider prescribing naloxone for the emergency treatment of opioid overdose [see Dosage and Administration (2.2), Warnings and Precautions (5.3)].
+
 Opioids and barbiturates are sought by drug abusers and people with addiction disorders and are subject to criminal diversion.
 Consider these risks when prescribing or dispensing Butalbital, Acetaminophen, Caffeine, and Codeine Phosphate Capsules.
 Strategies to reduce these risks include prescribing the drug in the smallest appropriate quantity and advising the patient on the proper disposal of unused drug [see Patient Counseling Information (17)].
@@ -45,14 +47,28 @@ Carbon dioxide (CO2) retention from opioid-induced respiratory depression can ex
 While serious, life-threatening, or fatal respiratory depression can occur at any time during the use of Butalbital, Acetaminophen, Caffeine, and Codeine Phosphate Capsules, the risk is greatest during the initiation of therapy or following a dosage increase.
 Monitor patients closely for respiratory depression, especially within the first 24-72 hours of initiating therapy with and following dosage increases of Butalbital, Acetaminophen, Caffeine, and Codeine Phosphate Capsules.
 
-To reduce the risk of respiratory depression, proper dosing and titration of Butalbital, Acetaminophen, Caffeine, and Codeine Phosphate Capsules are essential [see Dosage and Administration (2.2)].
+To reduce the risk of respiratory depression, proper dosing and titration of Butalbital, Acetaminophen, Caffeine, and Codeine Phosphate Capsules are essential [see Dosage and Administration (2.3)].
 Overestimating the Butalbital, Acetaminophen, Caffeine, and Codeine Phosphate Capsules dosage when converting patients from another opioid product can result in a fatal overdose with the first dose.
 
-Accidental ingestion of (or exposure to) Butalbital, Acetaminophen, Caffeine, and Codeine Phosphate Capsules, especially by children, can result in respiratory depression and death due to an overdose of codeine and butalbital.
+Accidental ingestion of even one dose of Butalbital, Acetaminophen, Caffeine, and Codeine Phosphate Capsules, especially by children, can result in respiratory depression and death due to an overdose of codeine and butalbital.
+
+Educate patients and caregivers on how to recognize respiratory depression and emphasize the importance of calling 911 or getting emergency medical help right away in the event of a known or suspected overdose [see Patient Counseling Information (17)].
 
 Opioids can cause sleep-related breathing disorders including central sleep apnea (CSA) and sleep-related hypoxemia.
 Opioid use increases the risk of CSA in a dose-dependent fashion.
-In patients who present with CSA, consider decreasing the opioid dosage using best practices for opioid taper [see Dosage and Administration (2.3)].
+In patients who present with CSA, consider decreasing the opioid dosage using best practices for opioid taper [see Dosage and Administration (2.4)].
+
+Patient Access to Naloxone for the Emergency Treatment of Opioid Overdose
+
+Discuss the availability of naloxone for the emergency treatment of opioid overdose with the patient and caregiver and assess the potential need for access to naloxone, both when initiating and renewing treatment with Butalbital, Acetaminophen, Caffeine, and Codeine Phosphate Capsules.
+Inform patients and caregivers about the various ways to obtain naloxone as permitted by individual state naloxone dispensing and prescribing requirements or guidelines (e.g., by prescription, directly from a pharmacist, or as part of a community-based program).
+Educate patients and caregivers on how to recognize respiratory depression and emphasize the importance of calling 911 or getting emergency medical help, even if naloxone is administered [see Patient Counseling Information (17)].
+
+Consider prescribing naloxone, based on the patient’s risk factors for overdose, such as concomitant use of CNS depressants, a history of opioid use disorder, or prior opioid overdose.
+The presence of risk factors for overdose should not prevent the proper management of pain in any given patient.
+Also consider prescribing naloxone if the patient has household members (including children) or other close contacts at risk for accidental ingestion or overdose.
+If naloxone is prescribed, educate patients and caregivers on how to treat with naloxone.
+[see Warnings and Precautions (5.1, 5.4), Patient Counseling Information (17)].
 
 ## 5.4 Risks from Concomitant Use with Benzodiazepines or Other CNS Depressants
 
@@ -66,6 +82,8 @@ If the decision is made to prescribe a benzodiazepine or other CNS depressant co
 In patients already receiving an opioid analgesic, prescribe a lower initial dose of the benzodiazepine or other CNS depressant than indicated in the absence of an opioid, and titrate based on clinical response.
 If an opioid analgesic is initiated in a patient already taking a benzodiazepine or other CNS depressant, prescribe a lower initial dose of the opioid analgesic, and titrate based on clinical response.
 Follow patients closely for signs and symptoms of respiratory depression and sedation.
+
+If concomitant use is warranted, consider prescribing naloxone for the emergency treatment of opioid overdose [see Dosage and Administration (2.2), Warnings and Precautions (5.3)].
 
 Advise both patients and caregivers about the risks of respiratory depression and sedation when Butalbital, Acetaminophen, Caffeine, and Codeine Phosphate Capsules are used with benzodiazepines or other CNS depressants (including alcohol and illicit drugs).
 Advise patients not to drive or operate heavy machinery until the effects of concomitant use of the benzodiazepine or other CNS depressant have been determined.
@@ -199,12 +217,12 @@ Monitor patients with a history of seizure disorders for worsened seizure contro
 ## 5.16 Withdrawal
 
 Do not abruptly discontinue Butalbital, Acetaminophen, Caffeine, and Codeine in a patient physically dependent on opioids.
-Rapid tapering of Butalbital, Acetaminophen, Caffeine, and Codeine in a patient physically dependent on opioids may lead to a withdrawal syndrome and return of pain [see Dosage and Administration (2.3), Drug Abuse and Dependence (9.3)].
+Rapid tapering of Butalbital, Acetaminophen, Caffeine, and Codeine in a patient physically dependent on opioids may lead to a withdrawal syndrome and return of pain [see Dosage and Administration (2.4), Drug Abuse and Dependence (9.3)].
 
 Additionally, avoid the use of mixed agonist/antagonist (e.g., pentazocine, nalbuphine, and butorphanol) or partial agonist (e.g., buprenorphine) analgesics in patients who are receiving a full opioid agonist analgesic, including Butalbital, Acetaminophen, Caffeine, and Codeine Phosphate Capsules.
 In these patients, mixed agonist/antagonist and partial agonist analgesics may reduce the analgesic effect and/or precipitate withdrawal symptoms.
 
-When discontinuing Butalbital, Acetaminophen, Caffeine, and Codeine Phosphate Capsules, in a physically-dependent patient, gradually taper the dosage [see Dosage and Administration (2.3)].
+When discontinuing Butalbital, Acetaminophen, Caffeine, and Codeine Phosphate Capsules, in a physically-dependent patient, gradually taper the dosage [see Dosage and Administration (2.4)].
 Abrupt discontinuation of butalbital can cause seizures [see Drug Abuse and Dependence (9.3)].
 
 ## 5.17 Risks of Driving and Operating Machinery
