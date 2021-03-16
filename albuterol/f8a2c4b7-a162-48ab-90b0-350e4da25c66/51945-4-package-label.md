@@ -1,0 +1,43 @@
+Principal Display Panel – Canister
+
+NDC 0781- 7296-85
+
+Albuterol Sulfate Inhalation Aerosol HFA
+
+90 mcg *
+
+with Dose Indicator
+
+Rx only
+
+FOR ORAL INHALATION WITH SANDOZ INC. ALBUTEROL SULFATE
+
+INHALATION AEROSOL HFA
+
+ACTUATOR ONLY
+
+200 METERED INHALATIONS Net Contents 6.7 g
+
+SANDOZ
+
+Principal Display Panel – Carton
+
+NDC 0781-7296-85
+
+Albuterol Sulfate Inhalation Aerosol HFA With Dose Indicator
+
+Rx only
+
+FOR ORAL INHALATION WITH SANDOZ INC
+
+ALBUTEROL SULFATE INHALATION AEROSOL HFA ACTUATOR ONLY
+
+200 METERED INHALATIONS
+
+Net Contents 6.7 g
+
+CONTAINS NO
+
+CHLOROFLUOROCARBONS (CFCs)
+
+SANDOZ A Novarti Division

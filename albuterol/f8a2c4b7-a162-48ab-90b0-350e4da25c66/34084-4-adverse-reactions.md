@@ -1,0 +1,37 @@
+# ADVERSE REACTIONS
+
+Adverse reaction information concerning Albuterol Sulfate Inhalation Aerosol is derived from a 12-week, double-blind, double-dummy study which compared Albuterol Sulfate Inhalation Aerosol, a CFC 11/12 propelled albuterol inhaler, and an HFA-134a placebo inhaler in 565 asthmatic patients.
+The following table lists the incidence of all adverse events (whether considered by the investigator drug related or unrelated to drug) from this study which occurred at a rate of 3% or greater in the Albuterol Sulfate Inhalation Aerosol treatment group and more frequently in the Albuterol Sulfate Inhalation Aerosol treatment group than in the placebo group.
+Overall, the incidence and nature of the adverse reactions reported for Albuterol Sulfate Inhalation Aerosol and a CFC 11/12 propelled albuterol inhaler were comparable.
+
+Adverse Experience Incidences (% of patients) in a Large 12-week Clinical Trial*
+
+| Body System/ Adverse Event (Preferred Term) |  | Albuterol Sulfate Inhalation Aerosol (N=193) | CFC 11/12 Propelled Albuterol Inhaler (N=186) | HFA-134a Placebo Inhaler (N=186) |
+| --- | --- | --- | --- | --- |
+| Application Site Disorders | Inhalation Site Sensation | 6 | 9 | 2 |
+| Inhalation Taste Sensation | 4 | 3 | 3 |  |
+| Body as a Whole | Allergic Reaction/Symptoms | 6 | 4 | <1 |
+| Back Pain | 4 | 2 | 3 |  |
+| Fever | 6 | 2 | 5 |  |
+| Central and Peripheral Nervous System | Tremor | 7 | 8 | 2 |
+| Gastrointestinal System | Nausea | 10 | 9 | 5 |
+| Vomiting | 7 | 2 | 3 |  |
+| Heart Rate and Rhythm Disorder | Tachycardia | 7 | 2 | <1 |
+| Psychiatric Disorders | Nervousness | 7 | 9 | 3 |
+| Respiratory System Disorders | Respiratory Disorder (unspecified) | 6 | 4 | 5 |
+| Rhinitis | 16 | 22 | 14 |  |
+| Upper Resp Tract Infection | 21 | 20 | 18 |  |
+| Urinary System Disorder | Urinary Tract Infection | 3 | 4 | 2 |
+| *This table includes all adverse events (whether considered by the investigator drug related or unrelated to drug) which occurred at an incidence rate of at least 3% in the Albuterol Sulfate Inhalation Aerosol group and more frequently in the Albuterol Sulfate Inhalation Aerosol group than in the HFA-134a placebo inhaler group. |  |  |  |  |
+
+Adverse events reported by less than 3% of the patients receiving Albuterol Sulfate Inhalation Aerosol, and by a greater proportion of Albuterol Sulfate Inhalation Aerosol patients than placebo patients, which have the potential to be related to Albuterol Sulfate Inhalation Aerosol include: dysphonia, increased sweating, dry mouth, chest pain, edema, rigors, ataxia, leg cramps, hyperkinesia, eructation, flatulence, tinnitus, diabetes mellitus, anxiety, depression, somnolence, rash.
+Palpitation and dizziness have also been observed with Albuterol Sulfate Inhalation Aerosol.
+
+Adverse events reported in a 4-week pediatric clinical trial comparing Albuterol Sulfate Inhalation Aerosol and a CFC 11/12 propelled albuterol inhaler occurred at a low incidence rate and were similar to those seen in the adult trials.
+
+In small, cumulative dose studies, tremor, nervousness, and headache appeared to be dose related.
+
+Rare cases of urticaria, angioedema, rash, bronchospasm, and oropharyngeal edema have been reported after the use of inhaled albuterol.
+In addition, albuterol, like other sympathomimetic agents, can cause adverse reactions such as hypertension, angina, vertigo, central nervous system stimulation, insomnia, headache, metabolic acidosis, and drying or irritation of the oropharynx.
+
+To report SUSPECTED ADVERSE REACTIONS, contact Sandoz Inc., at 1-800-525-8747 or FDA at 1-800-FDA-1088 or www.fda.gov/medwatch.

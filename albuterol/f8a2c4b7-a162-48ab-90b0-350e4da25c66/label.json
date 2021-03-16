@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "NDA020503"
+  ],
+  "inn": "albuterol",
+  "labeler": "Sandoz Inc",
+  "package_ndcs": [
+    "0781-7296-85"
+  ],
+  "products": [
+    {
+      "form": "AEROSOL, METERED",
+      "generic": "albuterol sulfate",
+      "name": "Albuterol Sulfate"
+    }
+  ],
+  "setid": "f8a2c4b7-a162-48ab-90b0-350e4da25c66",
+  "source": "dailymed"
+}
