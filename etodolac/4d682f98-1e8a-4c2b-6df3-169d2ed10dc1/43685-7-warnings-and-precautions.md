@@ -82,7 +82,7 @@ NSAIDs, including etodolac, can cause serious skin adverse events such as exfoli
 These serious events may occur without warning.
 Patients should be informed about the signs and symptoms of serious skin manifestations and use of the drug should be discontinued at the first appearance of skin rash or any other sign of hypersensitivity.
 
-Drug Rash with Eosinophilia and Systemic Symptoms (DRESS)
+Drug Reaction with Eosinophilia and Systemic Symptoms (DRESS)
 
 Drug Reaction with Eosinophilia and Systemic Symptoms (DRESS) has been reported in patients taking NSAIDs such as Etodolac.
 Some of these events have been fatal or life-threatening.
@@ -156,7 +156,7 @@ Patients should also be encouraged to read the NSAID Medication Guide that accom
 Cardiovascular Thrombotic Events Advise patients to be alert for the symptoms of cardiovascular thrombotic events, including chest pain, shortness of breath, weakness, or slurring of speech, and to report any of these symptoms to their health care provider immediately (see WARNINGS).
 
 2.
-Serious Skin Reactions, including DRESS Advise patients to stop taking etodolac immediately if they develop any type of rash or fever and to contact their healthcare provider as soon as possible [see Warnings].
+Serious Skin Reactions, including DRESS Advise patients to stop taking etodolac immediately if they develop any type of reaction or fever and to contact their healthcare provider as soon as possible [see Warnings].
 
 3.
 Etodolac, like other NSAIDs, can cause serious skin side effects such as exfoliative dermatitis, SJS, and TEN, which may result in hospitalizations and even death.
@@ -251,6 +251,10 @@ Risk Summary
 
 Use of NSAIDs, including etodolac, can cause premature closure of the fetal ductus arteriosus and fetal renal dysfunction leading to oligohydramnios and, in some cases, neonatal renal impairment.
 Because of these risks, limit dose and duration of etodolac use between about 20 and 30 weeks of gestation, and avoid etodolac use at about 30 weeks of gestation and later in pregnancy [see WARNINGS; Fetal Toxicity].
+
+The estimated background risk of major birth defects and miscarriage for the indicated population(s) is unknown.
+All pregnancies have a background risk of birth defect, loss, or other adverse outcomes.
+In the U.S. general population, the estimated background risk of major birth defects and miscarriage in clinically recognized pregnancies is 2-4% and 15-20%, respectively.
 
 Premature Closure of Fetal Ductus Arteriosus
 
