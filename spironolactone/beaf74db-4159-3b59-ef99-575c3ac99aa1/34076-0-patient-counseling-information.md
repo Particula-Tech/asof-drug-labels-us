@@ -4,4 +4,4 @@ Patients who receive spironolactone tablets should be advised to avoid potassium
 
 Mylan Pharmaceuticals Inc. Morgantown, WV 26505 U.S.A.
 
-Revised: 10/2020 SP:R24
+Revised: 3/2021 SP:R25
