@@ -11,10 +11,8 @@ In case of overdose, priorities are the reestablishment of a patent and protecte
 Employ other supportive measures (including oxygen and vasopressors) in the management of circulatory shock and pulmonary edema accompanying overdose as indicated.
 Cardiac arrest or arrhythmias will require advanced life support techniques.
 
-The opioid antagonists, naloxone or nalmefene, are specific antidotes to respiratory depression resulting from opioid overdosage.
+Opioid antagonists, such as naloxone, are specific antidotes to respiratory depression resulting from opioid overdosage.
 For clinically significant respiratory or circulatory depression secondary to hydrocodone overdose, administer an opioid antagonist.
-
-Opioid antagonists should not be administered in the absence of clinically significant respiratory or circulatory depression secondary to hydrocodone overdose.
 
 Because the duration of reversal is expected to be less than the duration of action of hydrocodone in ZOHYDRO ER, carefully monitor the patient until spontaneous respiration is reliably reestablished.
 ZOHYDRO ER will continue to release hydrocodone and add to the hydrocodone load for 24 to 48 hours or longer following ingestion necessitating prolonged monitoring.

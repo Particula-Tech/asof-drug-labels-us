@@ -16,7 +16,18 @@ Crushing, chewing, or dissolving the beads in ZOHYDRO ER capsules will result in
 
 ZOHYDRO ER is administered orally twice daily (every 12 hours).
 
-## 2.2 Initial Dosage
+## 2.2 Patient Access to Naloxone for the Emergency Treatment of Opioid Overdose
+
+Discuss the availability of naloxone for the emergency treatment of opioid overdose with the patient and caregiver and assess the potential need for access to naloxone, both when initiating and renewing treatment with ZOHYDRO ER [see Warnings and Precautions (5.3), Patient Counseling Information (17)].
+
+Inform patients and caregivers about the various ways to obtain naloxone as permitted by individual state naloxone dispensing and prescribing requirements or guidelines (e.g., by prescription, directly from a pharmacist, or as part of a community-based program).
+
+Consider prescribing naloxone, based on the patient's risk factors for overdose, such as concomitant use of CNS depressants, a history of opioid use disorder, or prior opioid overdose.
+The presence of risk factors for overdose should not prevent the proper management of pain in any given patient [see Warnings and Precautions (5.1, 5.3, 5.6)].
+
+Consider prescribing naloxone if the patient has household members (including children) or other close contacts at risk for accidental ingestion or overdose.
+
+## 2.3 Initial Dosage
 
 Use of ZOHYDRO ER as the First Opioid Analgesic (opioid-naïve patients)
 
@@ -81,7 +92,7 @@ ZOHYDRO ER treatment can be initiated 18 hours following the removal of the tran
 Although there has been no systematic assessment of such conversion, a conservative hydrocodone dose, approximately 10 mg every 12 hours of ZOHYDRO ER, should be initially substituted for each 25 mcg/hr fentanyl transdermal patch.
 Follow the patient closely during conversion from transdermal fentanyl to ZOHYDRO ER, as there is limited documented experience with this conversion.
 
-## 2.3 Titration and Maintenance of Therapy
+## 2.4 Titration and Maintenance of Therapy
 
 Individually titrate ZOHYDRO ER to a dose that provides adequate analgesia and minimizes adverse reactions.
 Continually reevaluate patients receiving ZOHYDRO ER to assess the maintenance of pain control and the relative incidence of adverse reactions, as well as monitoring for the development of addiction, abuse, or misuse [see Warnings and Precautions (5.1)].
@@ -95,13 +106,13 @@ Because steady-state plasma concentrations are approximated within 3 days, ZOHYD
 If unacceptable opioid-related adverse reactions are observed, consider reducing the dosage.
 Adjust the dosage to obtain an appropriate balance between management of pain and opioid-related adverse reactions.
 
-## 2.4 Dosage Modifications in Patients with Severe Hepatic Impairment
+## 2.5 Dosage Modifications in Patients with Severe Hepatic Impairment
 
 Patients with severe hepatic impairment may have higher plasma concentrations of hydrocodone than those with normal function.
 Therefore, initiate therapy with 10 mg every 12 hours and titrate carefully, while monitoring for respiratory depression, sedation, and hypotension.
 No adjustment in starting dose with ZOHYDRO ER is required in patients with mild or moderate hepatic impairment [see Clinical Pharmacology (12.3)].
 
-## 2.5 Safe Reduction or Discontinuation of ZOHYDRO ER
+## 2.6 Safe Reduction or Discontinuation of ZOHYDRO ER
 
 Do not abruptly discontinue ZOHYDRO ER in patients who may be physically dependent on opioids.
 Rapid discontinuation of opioid analgesics in patients who are physically dependent on opioids has resulted in serious withdrawal symptoms, uncontrolled pain, and suicide.
