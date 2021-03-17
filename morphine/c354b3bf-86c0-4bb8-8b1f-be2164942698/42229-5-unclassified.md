@@ -6,6 +6,6 @@ Stamford, CT 06901-3431
 Marketed by: Rhodes Pharmaceuticals L.P.
 Coventry, RI 02816
 
-Component # 304356-0C
+304356-0D
 
-Revised 10/2019
+Revised 03/2021

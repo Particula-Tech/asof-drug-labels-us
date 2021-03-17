@@ -13,13 +13,14 @@ Assess each patient's risk for opioid addiction, abuse, or misuse prior to presc
 Risks are increased in patients with a personal or family history of substance abuse (including drug or alcohol abuse or addiction) or mental illness (e.g., major depression).
 The potential for these risks should not, however, prevent the proper management of pain in any given patient.
 Patients at increased risk may be prescribed opioids such as MS CONTIN, but use in such patients necessitates intensive counseling about the risks of proper use of MS CONTIN along with intensive monitoring for signs of addiction, abuse, and misuse.
+Consider prescribing naloxone for the emergency treatment of opioid overdose [see Dosage and Administration (2.2), Warnings and Precautions (5.3)].
 
 Abuse or misuse of MS CONTIN by crushing, chewing, snorting, or injecting the dissolved product will result in the uncontrolled delivery of morphine and can result in overdose and death [see Overdosage (10)].
 
 Opioids are sought by drug abusers and people with addiction disorders and are subject to criminal diversion.
 Consider these risks when prescribing or dispensing MS CONTIN.
 Strategies to reduce these risks include prescribing the drug in the smallest appropriate quantity and advising the patient on the proper disposal of unused drug [see Patient Counseling Information (17)].
-Contact local state professional licensing board or state controlled substances authority for information on how to prevent and detect abuse or diversion of this product.
+Contact local state professional licensing board or state-controlled substances authority for information on how to prevent and detect abuse or diversion of this product.
 
 ## 5.2 Opioid Analgesic Risk Evaluation and Mitigation Strategy (REMS)
 
@@ -44,16 +45,29 @@ Management of respiratory depression may include close observation, supportive m
 Carbon dioxide (CO2) retention from opioid-induced respiratory depression can exacerbate the sedating effects of opioids.
 
 While serious, life-threatening, or fatal respiratory depression can occur at any time during the use of MS CONTIN, the risk is greatest during the initiation of therapy or following a dosage increase.
-Monitor patients closely for respiratory depression especially within the first 24 to 72 hours of initiating therapy and following dosage increases of with MS CONTIN.
+Monitor patients closely for respiratory depression especially within the first 24 to 72 hours of initiating therapy and following dosage increases of MS CONTIN.
 
 To reduce the risk of respiratory depression, proper dosing and titration of MS CONTIN are essential [see Dosage and Administration (2)].
 Overestimating the MS CONTIN dosage when converting patients from another opioid product can result in a fatal overdose with the first dose.
 
 Accidental ingestion of even one dose of MS CONTIN, especially by children, can result in respiratory depression and death due to an overdose of morphine.
 
+Educate patients and caregivers on how to recognize respiratory depression and emphasize the importance of calling 911 or getting emergency medical help right away in the event of a known or suspected overdose [see Patient Counseling Information (17)].
+
 Opioids can cause sleep-related breathing disorders including central sleep apnea (CSA) and sleep-related hypoxemia.
 Opioid use increases the risk of CSA in a dose-dependent fashion.
-In patients who present with CSA, consider decreasing the opioid dosage using best practices for opioid taper [see Dosage and Administration (2.5)].
+In patients who present with CSA, consider decreasing the opioid dosage using best practices for opioid taper [see Dosage and Administration (2.6)].
+
+Patient Access to Naloxone for the Emergency Treatment of Opioid Overdose
+
+Discuss the availability of naloxone for the emergency treatment of opioid overdose with the patient and caregiver and assess the potential need for access to naloxone, both when initiating and renewing treatment with MS CONTIN.
+Inform patients and caregivers about the various ways to obtain naloxone as permitted by individual state naloxone dispensing and prescribing requirements or guidelines (e.g., by prescription, directly from a pharmacist, or as part of a community-based program).
+Educate patients and caregivers on how to recognize respiratory depression and emphasize the importance of calling 911 or getting emergency medical help, even if naloxone is administered [see Patient Counseling Information (17)].
+
+Consider prescribing naloxone, based on the patient's risk factors for overdose, such as concomitant use of CNS depressants, a history of opioid use disorder, or prior opioid overdose.
+The presence of risk factors for overdose should not prevent the proper management of pain in any given patient.
+Also consider prescribing naloxone if the patient has household members (including children) or other close contacts at risk for accidental ingestion or overdose.
+If naloxone is prescribed, educate patients and caregivers on how to treat with naloxone [see Warnings and Precautions (5.1, 5.5), Patient Counseling Information (17)].
 
 ## 5.4 Neonatal Opioid Withdrawal Syndrome
 
@@ -74,6 +88,8 @@ If the decision is made to prescribe a benzodiazepine or other CNS depressant co
 In patients already receiving an opioid analgesic, prescribe a lower initial dose of the benzodiazepine or other CNS depressant than indicated in the absence of an opioid, and titrate based on clinical response.
 If an opioid analgesic is initiated in a patient already taking a benzodiazepine or other CNS depressant, prescribe a lower initial dose of the opioid analgesic, and titrate based on clinical response.
 Follow patients closely for signs and symptoms of respiratory depression and sedation.
+
+If concomitant use is warranted, consider prescribing naloxone for the emergency treatment of opioid overdose [see Dosage and Administration (2.2), Warnings and Precautions (5.3)].
 
 Advise both patients and caregivers about the risks of respiratory depression and sedation when MS CONTIN is used with benzodiazepines or other CNS depressants (including alcohol and illicit drugs).
 Advise patients not to drive or operate heavy machinery until the effects of concomitant use of the benzodiazepine or other CNS depressant have been determined.
@@ -137,13 +153,11 @@ Monitor patients with a history of seizure disorders for worsened seizure contro
 ## 5.13 Withdrawal
 
 Do not abruptly discontinue MS CONTIN in a patient physically dependent on opioids.
-Rapid tapering of MS CONTIN in a patient physically dependent on opioids may lead to a withdrawal syndrome and return of pain [see Dosage and Administration (2.5), Drug Abuse and Dependence (9.3)].
+When discontinuing MS CONTIN in a physically dependent patient, gradually taper the dosage.
+Rapid tapering of morphine in a patient physically dependent on opioids may lead to a withdrawal syndrome and return of pain [see Dosage and Administration (2.6), Drug Abuse and Dependence (9.3)].
 
 Additionally, avoid the use of mixed agonist/antagonist (e.g., pentazocine, nalbuphine, and butorphanol) or partial agonist (e.g., buprenorphine) analgesics in patients who have received or are receiving a course of therapy with a full opioid agonist analgesic, including MS CONTIN.
 In these patients, mixed agonists/antagonist and partial agonist analgesics may reduce the analgesic effect and/or may precipitate withdrawal symptoms [see Drug Interactions (7)].
-
-When discontinuing MS CONTIN, gradually taper the dosage [see Dosage and Administration (2.4)].
-Do not abruptly discontinue MS CONTIN [see Drug Abuse and Dependence (9.3)].
 
 ## 5.14 Risks of Driving and Operating Machinery
 

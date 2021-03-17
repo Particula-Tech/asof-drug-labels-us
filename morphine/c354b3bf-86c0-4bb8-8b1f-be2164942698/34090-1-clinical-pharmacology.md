@@ -54,12 +54,12 @@ Overall, the effects of opioids appear to be modestly immunosuppressive.
 Concentration-Efficacy Relationships
 
 The minimum effective analgesic concentration will vary widely among patients, especially among patients who have been previously treated with potent agonist opioids.
-The minimum effective analgesic concentration of morphine for any individual patient may increase over time due to an increase in pain, the development of a new pain syndrome, and/or the development of analgesic tolerance [see Dosage and Administration (2.1, 2.2)]
+The minimum effective analgesic concentration of morphine for any individual patient may increase over time due to an increase in pain, the development of a new pain syndrome, and/or the development of analgesic tolerance [see Dosage and Administration (2.1, 2.3)]
 
 Concentration–Adverse Reaction Relationships
 
 There is a relationship between increasing morphine plasma concentration and increasing frequency of dose-related opioid adverse reactions such as nausea, vomiting, CNS effects, and respiratory depression.
-In opioid-tolerant patients, the situation may be altered by the development of tolerance to opioid-related adverse reactions [see Dosage and Administration (2.1, 2.2, 2.3)].
+In opioid-tolerant patients, the situation may be altered by the development of tolerance to opioid-related adverse reactions [see Dosage and Administration (2.1, 2.3, 2.4)].
 
 ## 12.3 Pharmacokinetics
 
@@ -119,5 +119,5 @@ Adequate studies of the pharmacokinetics of morphine in patients with severe hep
 Renal Impairment
 
 Morphine pharmacokinetics are altered in patients with renal failure.
-The AUC is increased and clearance is decreased and the metabolites, M3G and M6G, may accumulate to much higher plasma levels in patients with renal failure as compared to patients with normal renal function.
+The AUC is increased, and clearance is decreased and the metabolites, M3G and M6G, may accumulate to much higher plasma levels in patients with renal failure as compared to patients with normal renal function.
 Adequate studies of the pharmacokinetics of morphine in patients with severe renal impairment have not been conducted.
