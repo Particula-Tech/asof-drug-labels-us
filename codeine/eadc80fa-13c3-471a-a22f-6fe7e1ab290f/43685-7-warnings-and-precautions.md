@@ -1,6 +1,6 @@
 # WARNINGS
 
-Addiction, Abuse, and Misuse
+## Addiction, Abuse, and Misuse
 
 Acetaminophen and codeine phosphate tablets contain codeine.
 Codeine in combination with acetaminophen, is a Schedule III controlled substance.
@@ -13,13 +13,14 @@ Assess each patient’s risk for opioid addiction, abuse, or misuse prior to pre
 Risks are increased in patients with a personal or family history of substance abuse (including drug or alcohol abuse or addiction) or mental illness (e.g., major depression).
 The potential for these risks should not, however, prevent the proper management of pain in any given patient.
 Patients at increased risk may be prescribed opioids such as acetaminophen and codeine phosphate tablets, but use in such patients necessitates intensive counseling about the risks and proper use of acetaminophen and codeine phosphate tablets along with intensive monitoring for signs of addiction, abuse, and misuse.
+Consider prescribing naloxone for the emergency treatment of opioid overdose (see WARNINGS, Life-Threatening Respiratory Depression; DOSAGE AND ADMINISTRATION, Patient Access to Naloxone for the Emergency Treatment of Opioid Overdose).
 
 Opioids are sought by drug abusers and people with addiction disorders and are subject to criminal diversion.
 Consider these risks when prescribing or dispensing acetaminophen and codeine phosphate tablets.
 Strategies to reduce these risks include prescribing the drug in the smallest appropriate quantity and advising the patient on the proper disposal of unused drug (see PRECAUTIONS, Information for Patients/Caregivers).
 Contact local state professional licensing board or state controlled substances authority for information on how to prevent and detect abuse or diversion of this product.
 
-Opioid Analgesic Risk Evaluation and Mitigation Strategy (REMS)
+## Opioid Analgesic Risk Evaluation and Mitigation Strategy (REMS)
 
 To ensure that the benefits of opioid analgesics outweigh the risks of addiction, abuse, and misuse, the Food and Drug Administration (FDA) has required a Risk Evaluation and Mitigation Strategy (REMS) for these products.
 Under the requirements of the REMS, drug companies with approved opioid analgesic products must make REMS-compliant education programs available to healthcare providers.
@@ -34,7 +35,7 @@ Healthcare providers are strongly encouraged to do all of the following:
 To obtain further information on the opioid analgesic REMS and for a list of accredited REMS CME/CE, call 800-503-0784, or log on to www.opioidanalgesicrems.com.
 The FDA Blueprint can be found at www.fda.gov/OpioidAnalgesicREMSBlueprint.
 
-Life-Threatening Respiratory Depression
+## Life-Threatening Respiratory Depression
 
 Serious, life-threatening, or fatal respiratory depression has been reported with the use of opioids, even when used as recommended.
 Respiratory depression, if not immediately recognized and treated, may lead to respiratory arrest and death.
@@ -49,11 +50,22 @@ Overestimating the acetaminophen and codeine phosphate tablets dosage when conve
 
 Accidental ingestion of acetaminophen and codeine phosphate tablets, especially by children, can result in respiratory depression and death due to an overdose of codeine.
 
+Educate patients and caregivers on how to recognize respiratory depression and emphasize the importance of calling 911 or getting emergency medical help right away in the event of a known or suspected overdose (see PRECAUTIONS, Information for Patients/Caregivers).
+
 Opioids can cause sleep-related breathing disorders including central sleep apnea (CSA) and sleep-related hypoxemia.
 Opioid use increases the risk of CSA in a dose-dependent fashion.
 In patients who present with CSA, consider decreasing the opioid dosage using best practices for opioid taper (see DOSAGE AND ADMINISTRATION).
 
-Ultra-Rapid Metabolism of Codeine and Other Risk Factors for Life-Threatening Respiratory Depression in Children
+Patient Access to Naloxone for the Emergency Treatment of Opioid Overdose Discuss the availability of naloxone for the emergency treatment of opioid overdose with the patient and caregiver and assess the potential need for access to naloxone, both when initiating and renewing treatment with acetaminophen and codeine phosphate tablets.
+Inform patients and caregivers about the various ways to obtain naloxone as permitted by individual state naloxone dispensing and prescribing requirements or guidelines (e.g., by prescription, directly from a pharmacist, or as part of a community-based program).
+Educate patients and caregivers on how to recognize respiratory depression and emphasize the importance of calling 911 or getting emergency medical help, even if naloxone is administered (see PRECAUTIONS, Information for Patients/Caregivers).
+
+Consider prescribing naloxone, based on the patient’s risk factors for overdose, such as concomitant use of other CNS depressants, a history of opioid use disorder, or prior opioid overdose.
+The presence of risk factors for overdose should not prevent the proper management of pain in any given patient.
+Also consider prescribing naloxone if the patient has household members (including children) or other close contacts at risk for accidental ingestion or overdose.
+If naloxone is prescribed, educate patients and caregivers on how to treat with naloxone (see WARNINGS, Addiction, Abuse, and Misuse, Risks from Concomitant Use with Benzodiazepines or Other CNS Depressants; PRECAUTIONS, Information for Patients/Caregivers).
+
+## Ultra-Rapid Metabolism of Codeine and Other Risk Factors for Life-Threatening Respiratory Depression in Children
 
 Life-threatening respiratory depression and death have occurred in children who received codeine.
 Codeine is subject to variability in metabolism based upon CYP2D6 genotype (described below), which can lead to an increased exposure to the active metabolite morphine.
@@ -79,14 +91,14 @@ This rapid conversion results in higher than expected serum morphine levels.
 Even at labeled dosage regimens, individuals who are ultra-rapid metabolizers may have life-threatening or fatal respiratory depression or experience signs of overdose (such as extreme sleepiness, confusion, or shallow breathing) (see OVERDOSAGE).
 Therefore, individuals who are ultra-rapid metabolizers should not use acetaminophen and codeine phosphate tablets.
 
-Neonatal Opioid Withdrawal Syndrome
+## Neonatal Opioid Withdrawal Syndrome
 
 Prolonged use of acetaminophen and codeine phosphate tablets during pregnancy can result in withdrawal in the neonate.
 Neonatal opioid withdrawal syndrome, unlike opioid withdrawal syndrome in adults, may be life-threatening if not recognized and treated, and requires management according to protocols developed by neonatology experts.
 Observe newborns for signs of neonatal opioid withdrawal syndrome and manage accordingly.
 Advise pregnant women using opioids for a prolonged period of the risk of neonatal opioid withdrawal syndrome and ensure that appropriate treatment will be available (see PRECAUTIONS, Information for Patients/Caregivers, Pregnancy).
 
-Interactions with Drugs Affecting Cytochrome P450 Isoenzymes
+## Interactions with Drugs Affecting Cytochrome P450 Isoenzymes
 
 The effects of concomitant use or discontinuation of cytochrome P450 3A4 inducers, 3A4 inhibitors, or 2D6 inhibitors with codeine are complex.
 Use of cytochrome P450 3A4 inducers, 3A4 inhibitors, or 2D6 inhibitors with acetaminophen and codeine phosphate tablets requires careful consideration of the effects on the parent drug, codeine, and the active metabolite, morphine.
@@ -117,7 +129,7 @@ Follow patients receiving acetaminophen and codeine phosphate tablets and any CY
 If concomitant use with a CYP2D6 inhibitor is necessary, follow the patient for signs of reduced efficacy or opioid withdrawal and consider increasing the acetaminophen and codeine phosphate tablets dosage.
 After stopping use of a CYP2D6 inhibitor, consider reducing the acetaminophen and codeine phosphate tablets dosage and follow the patient for signs and symptoms of respiratory depression or sedation (see PRECAUTIONS, Drug Interactions).
 
-Hepatotoxicity
+## Hepatotoxicity
 
 Acetaminophen has been associated with cases of acute liver failure, at times resulting in liver transplant and death.
 Most of the cases of liver injury are associated with the use of acetaminophen at doses that exceed 4,000 milligrams per day, and often involve more than one acetaminophen-containing product.
@@ -128,7 +140,7 @@ The risk of acute liver failure is higher in individuals with underlying liver d
 Instruct patients to look for acetaminophen or APAP on package labels and not to use more than one product that contains acetaminophen.
 Instruct patients to seek medical attention immediately upon ingestion of more than 4,000 milligrams of acetaminophen per day, even if they feel well.
 
-Risks from Concomitant Use with Benzodiazepines or Other CNS Depressants
+## Risks from Concomitant Use with Benzodiazepines or Other CNS Depressants
 
 Profound sedation, respiratory depression, coma, and death may result from the concomitant use of acetaminophen and codeine phosphate tablets with benzodiazepines and/or other CNS depressants (e.g., non-benzodiazepine sedatives/hypnotics, anxiolytics, tranquilizers, muscle relaxants, general anesthetics, antipsychotics, other opioids, alcohol).
 Because of these risks, reserve concomitant prescribing of these drugs for use in patients for whom alternative treatment options are inadequate.
@@ -141,11 +153,13 @@ In patients already receiving an opioid analgesic, prescribe a lower initial dos
 If an opioid analgesic is initiated in a patient already taking a benzodiazepine or other CNS depressant, prescribe a lower initial dose of the opioid analgesic, and titrate based on clinical response.
 Follow patients closely for signs and symptoms of respiratory depression and sedation.
 
+If concomitant use is warranted, consider prescribing naloxone for the emergency treatment of opioid overdose (see WARNINGS, Life-Threatening Respiratory Depression; DOSAGE AND ADMINISTRATION, Patient Access to Naloxone for the Emergency Treatment of Opioid Overdose).
+
 Advise both patients and caregivers about the risks of respiratory depression and sedation when acetaminophen and codeine phosphate tablets are used with benzodiazepines or other CNS depressants (including alcohol and illicit drugs).
 Advise patients not to drive or operate heavy machinery until the effects of concomitant use of the benzodiazepine or other CNS depressant have been determined.
 Screen patients for risk of substance use disorders, including opioid abuse and misuse, and warn them of the risk for overdose and death associated with the use of additional CNS depressants including alcohol and illicit drugs (see PRECAUTIONS, Drug Interactions and Information for Patients/Caregivers).
 
-Life-Threatening Respiratory Depression in Patients with Chronic Pulmonary Disease or Elderly, Cachectic, or Debilitated Patients
+## Life-Threatening Respiratory Depression in Patients with Chronic Pulmonary Disease or Elderly, Cachectic, or Debilitated Patients
 
 The use of acetaminophen and codeine phosphate tablets in patients with acute or severe bronchial asthma in an unmonitored setting or in the absence of resuscitative equipment is contraindicated.
 
@@ -160,12 +174,12 @@ Life-threatening respiratory depression is more likely to occur in elderly, cach
 Monitor such patients closely, particularly when initiating and titrating acetaminophen and codeine phosphate tablets and when acetaminophen and codeine phosphate tablets are given concomitantly with other drugs that depress respiration (see WARNINGS, Life-Threatening Respiratory Depression).
 Alternatively, consider the use of non-opioid analgesics in these patients.
 
-Interaction with Monoamine Oxidase Inhibitors
+## Interaction with Monoamine Oxidase Inhibitors
 
 Monoamine oxidase inhibitors (MAOIs) may potentiate the effects of morphine, codeine’s active metabolite, including respiratory depression, coma, and confusion.
 Acetaminophen and codeine phosphate tablets should not be used in patients taking MAOIs or within 14 days of stopping such treatment.
 
-Adrenal Insufficiency
+## Adrenal Insufficiency
 
 Cases of adrenal insufficiency have been reported with opioid use, more often following greater than 1 month of use.
 Presentation of adrenal insufficiency may include non-specific symptoms and signs including nausea, vomiting, anorexia, fatigue, weakness, dizziness, and low blood pressure.
@@ -175,7 +189,7 @@ Wean the patient off of the opioid to allow adrenal function to recover and cont
 Other opioids may be tried as some cases reported use of a different opioid without recurrence of adrenal insufficiency.
 The information available does not identify any particular opioids as being more likely to be associated with adrenal insufficiency.
 
-Severe Hypotension
+## Severe Hypotension
 
 Acetaminophen and codeine may cause severe hypotension including orthostatic hypotension and syncope in ambulatory patients.
 There is increased risk in patients whose ability to maintain blood pressure has already been compromised by a reduced blood volume or concurrent administration of certain CNS depressant drugs (e.g., phenothiazines or general anesthetics) (see PRECAUTIONS, Drug Interactions).
@@ -183,12 +197,12 @@ Monitor these patients for signs of hypotension after initiating or titrating th
 In patients with circulatory shock acetaminophen and codeine phosphate tablets may cause vasodilatation that can further reduce cardiac output and blood pressure.
 Avoid the use of acetaminophen and codeine with circulatory shock.
 
-Serious Skin Reactions
+## Serious Skin Reactions
 
 Rarely, acetaminophen may cause serious skin reactions such as acute generalized exanthematous pustulosis (AGEP), Stevens-Johnson Syndrome (SJS), and toxic epidermal necrolysis (TEN), which can be fatal.
 Patients should be informed about the signs of serious skin reactions, and use of the drug should be discontinued at the first appearance of skin rash or any other sign of hypersensitivity.
 
-Risks of Use in Patients with Increased Intracranial Pressure, Brain Tumors, Head Injury, or Impaired Consciousness
+## Risks of Use in Patients with Increased Intracranial Pressure, Brain Tumors, Head Injury, or Impaired Consciousness
 
 In patients who may be susceptible to the intracranial effects of CO2 retention (e.g., those with evidence of increased intracranial pressure or brain tumors), acetaminophen and codeine phosphate tablets may reduce respiratory drive, and the resultant CO2 retention can further increase intracranial pressure.
 Monitor such patients for signs of sedation and respiratory depression, particularly when initiating therapy with acetaminophen and codeine phosphate tablets.
@@ -196,7 +210,7 @@ Monitor such patients for signs of sedation and respiratory depression, particul
 Opioids may also obscure the clinical course in a patient with a head injury.
 Avoid the use of acetaminophen and codeine phosphate tablets in patients with impaired consciousness or coma.
 
-Hypersensitivity/Anaphylaxis
+## Hypersensitivity/Anaphylaxis
 
 There have been postmarketing reports of hypersensitivity and anaphylaxis associated with the use of acetaminophen.
 Clinical signs included swelling of the face, mouth, and throat, respiratory distress, urticaria, rash, pruritus, and vomiting.
@@ -204,7 +218,7 @@ There were infrequent reports of life-threatening anaphylaxis requiring emergenc
 Instruct patients to discontinue acetaminophen and codeine phosphate tablets immediately and seek medical care if they experience these symptoms.
 Do not prescribe acetaminophen and codeine phosphate tablets for patients with acetaminophen allergy (see PRECAUTIONS, Information for Patients/Caregivers).
 
-Risks of Use in Patients with Gastrointestinal Conditions
+## Risks of Use in Patients with Gastrointestinal Conditions
 
 Acetaminophen and codeine phosphate tablets are contraindicated in patients with gastrointestinal obstruction, including paralytic ileus.
 
@@ -214,12 +228,12 @@ Acetaminophen and codeine phosphate tablets may cause spasm of the sphincter of 
 Opioids may cause increases in serum amylase.
 Monitor patients with biliary tract disease, including acute pancreatitis, for worsening symptoms.
 
-Increased Risk of Seizures in Patients with Seizure Disorders
+## Increased Risk of Seizures in Patients with Seizure Disorders
 
 The codeine in acetaminophen and codeine phosphate tablets may increase the frequency of seizures in patients with seizure disorders, and may increase the risk of seizures occurring in other clinical settings associated with seizures.
 Monitor patients with a history of seizure disorders for worsened seizure control during acetaminophen and codeine phosphate tablets therapy.
 
-Withdrawal
+## Withdrawal
 
 Do not abruptly discontinue acetaminophen and codeine phosphate tablets in a patient physically dependent on opioids.
 When discontinuing acetaminophen and codeine phosphate tablets in a physically dependent patient, gradually taper the dosage.
@@ -230,12 +244,12 @@ In these patients, mixed agonist/antagonist and partial analgesics may reduce th
 
 # PRECAUTIONS
 
-Risks of Driving and Operating Machinery
+## Risks of Driving and Operating Machinery
 
 Acetaminophen and codeine phosphate tablets may impair the mental or physical abilities needed to perform potentially hazardous activities such as driving a car or operating machinery.
 Warn patients not to drive or operate dangerous machinery unless they are tolerant to the effects of acetaminophen and codeine phosphate tablets and know how they will react to the medication (see PRECAUTIONS, Information for Patients/Caregivers).
 
-Information for Patients/Caregivers
+## Information for Patients/Caregivers
 
 Advise the patient to read the FDA-approved patient labeling (Medication Guide).
 
@@ -251,7 +265,7 @@ If no take back programs or DEA-registered collectors are available, instruct pa
 - Mix acetaminophen and codeine phosphate tablets (do not crush) with an unpalatable substance such as dirt, cat litter, or used coffee grounds;
 - Place the mixture in a container such as a sealed plastic bag;
 - Throw the container in the household trash;
-- Delete all personal information on the prescription label of the empty bottle
+- Delete all personal information on the prescription label of the empty bottle.
 
 Inform patients that they can visit www.fda.gov/drugdisposal for additional information on disposal of unused medicines.
 
@@ -262,8 +276,25 @@ Instruct patients not to share acetaminophen and codeine phosphate tablets with 
 
 Life-Threatening Respiratory Depression
 
-Inform patients of the risk of life-threatening respiratory depression, including information that the risk is greatest when starting acetaminophen and codeine phosphate tablets or when the dosage is increased, and that it can occur even at recommended dosages (see WARNINGS).
-Advise patients how to recognize respiratory depression and to seek medical attention if breathing difficulties develop.
+Inform patients of the risk of life-threatening respiratory depression, including information that the risk is greatest when starting acetaminophen and codeine phosphate tablets or when the dosage is increased, and that it can occur even at recommended dosages.
+
+Educate patients and caregivers on how to recognize respiratory depression and emphasize the importance of calling 911 or getting emergency medical help right away in the event of a known or suspected overdose (see WARNINGS, Life-Threatening Respiratory Depression).
+
+Patient Access to Naloxone for the Emergency Treatment of Opioid Overdose
+
+Discuss with the patient and caregiver the availability of naloxone for the emergency treatment of opioid overdose, both when initiating and renewing treatment with acetaminophen and codeine phosphate tablets.
+Inform patients and caregivers about the various ways to obtain naloxone as permitted by individual state naloxone dispensing and prescribing requirements or guidelines (e.g., by prescription, directly from a pharmacist, or as part of a community-based program) (see WARNINGS, Life-Threatening Respiratory Depression; DOSAGE AND ADMINISTRATION).
+
+Educate patients and caregivers on how to recognize the signs and symptoms of an overdose.
+
+Explain to patients and caregivers that naloxone’s effects are temporary, and that they must call 911 or get emergency medical help right away in all cases of known or suspected opioid overdose, even if naloxone is administered (see OVERDOSAGE).
+
+If naloxone is prescribed, also advise patients and caregivers:
+
+- How to treat with naloxone in the event of an opioid overdose,
+- To tell family and friends about their naloxone and to keep it in a place where family and friends can access it in an emergency,
+- To read the Patient Information (or other educational material) that will come with their naloxone.
+  Emphasize the importance of doing this before an opioid emergency happens, so the patient and caregiver will know what to do.
 
 Accidental Ingestion
 
@@ -342,7 +373,7 @@ Inform patients that acetaminophen and codeine phosphate tablets may impair the 
 
 Constipation Advise patients of the potential for severe constipation, including management instructions and when to seek medical attention (see ADVERSE REACTIONS and CLINICAL PHARMACOLOGY).
 
-Drug Interactions
+## Drug Interactions
 
 CYP2D6 Inhibitors
 
@@ -385,7 +416,8 @@ Due to additive pharmacologic effect, the concomitant use of benzodiazepines or 
 
 Reserve concomitant prescribing of these drugs for use in patients for whom alternative treatment options are inadequate.
 Limit dosages and durations to the minimum required.
-Follow patients closely for signs of respiratory depression and sedation (see WARNINGS).
+Follow patients closely for signs of respiratory depression and sedation.
+If concomitant use is warranted, consider prescribing naloxone for the emergency treatment of opioid overdose (see WARNINGS).
 
 Serotonergic Drugs
 
@@ -413,6 +445,7 @@ Muscle Relaxants
 Acetaminophen and codeine may enhance the neuromuscular blocking action of skeletal muscle relaxants and produce an increased degree of respiratory depression.
 
 If concomitant use is warranted, monitor patients for signs of respiratory depression that may be greater than otherwise expected and decrease the dosage of acetaminophen and codeine phosphate tablets and/or the muscle relaxant as necessary.
+Due to the risk of respiratory depression with concomitant use of skeletal muscle relaxants and opioids, consider prescribing naloxone for the emergency treatment of opioid overdose (see WARNINGS).
 
 Diuretics
 
@@ -426,13 +459,13 @@ The concomitant use of anticholinergic drugs may increase risk of urinary retent
 
 If concomitant use is warranted, monitor patients for signs of urinary retention or reduced gastric motility when acetaminophen and codeine phosphate tablets are used concomitantly with anticholinergic drugs.
 
-Drug/Laboratory Test Interactions
+## Drug/Laboratory Test Interactions
 
 Codeine may increase serum amylase levels.
 
 Acetaminophen may produce false-positive test results for urinary 5-hydroxyindoleacetic acid.
 
-Carcinogenesis, Mutagenesis, Impairment of Fertility
+## Carcinogenesis, Mutagenesis, Impairment of Fertility
 
 Carcinogenesis
 
@@ -471,7 +504,7 @@ Infertility
 Chronic use of opioids may cause reduced fertility in females and males of reproductive potential.
 It is not known whether these effects on fertility are reversible (see ADVERSE REACTIONS).
 
-Pregnancy
+## Pregnancy
 
 Teratogenic Effects
 
@@ -490,7 +523,7 @@ Neonatal opioid withdrawal syndrome presents as irritability, hyperactivity and 
 The onset, duration, and severity of neonatal opioid withdrawal syndrome vary based on the specific opioid used, duration of use, timing and amount of last maternal use, and rate of elimination of the drug by the newborn.
 Observe newborns for symptoms of neonatal opioid withdrawal syndrome and manage accordingly (see WARNINGS).
 
-Labor or Delivery
+## Labor or Delivery
 
 Opioids cross the placenta and may produce respiratory depression and psycho-physiologic effects in neonates.
 An opioid antagonist, such as naloxone, must be available for reversal of opioid-induced respiratory depression in the neonate.
@@ -504,7 +537,7 @@ If the mother has received narcotic analgesics during labor, newborn infants sho
 Resuscitation may be required (see OVERDOSAGE).
 The effect of codeine, if any, on the later growth, development, and functional maturation of the child is unknown.
 
-Nursing Mothers
+## Nursing Mothers
 
 Codeine and its active metabolite, morphine, are present in human milk.
 There are published studies and cases that have reported excessive sedation, respiratory depression, and death in infants exposed to codeine via breast milk.
@@ -520,7 +553,7 @@ Because of the potential for serious adverse reactions in nursing infants from a
 Clinical Considerations If infants are exposed to acetaminophen and codeine phosphate tablets through breast milk, they should be monitored for excess sedation and respiratory depression.
 Withdrawal symptoms can occur in breastfed infants when maternal administration of an opioid analgesic is stopped, or when breastfeeding is stopped.
 
-Pediatric Use
+## Pediatric Use
 
 The safety and effectiveness of acetaminophen and codeine phosphate tablets in pediatric patients below the age of 18 have not been established.
 
@@ -534,7 +567,7 @@ Because of the risk of life-threatening respiratory depression and death:
 - Avoid the use of acetaminophen and codeine phosphate tablets in adolescents 12 to 18 years of age who have other risk factors that may increase their sensitivity to the respiratory depressant effects of codeine unless the benefits outweigh the risks.
   Risk factors include conditions associated with hypoventilation, such as postoperative status, obstructive sleep apnea, obesity, severe pulmonary disease, neuromuscular disease, and concomitant use of other medications that cause respiratory depression (see WARNINGS).
 
-Geriatric Use
+## Geriatric Use
 
 Elderly patients (aged 65 years or older) may have increased sensitivity to acetaminophen and codeine phosphate tablets.
 In general, use caution when selecting a dosage for an elderly patient, usually starting at the low end of the dosing range, reflecting the greater frequency of decreased hepatic, renal, or cardiac function and of concomitant disease or other drug therapy.
