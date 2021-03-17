@@ -17,13 +17,24 @@ Cutting, breaking, crushing, chewing, or dissolving OXYCONTIN tablets will resul
 
 OXYCONTIN is administered orally every 12 hours.
 
-## 2.2 Initial Dosage in Adults who are not Opioid-Tolerant
+## 2.2 Patient Access to Naloxone for the Emergency Treatment of Opioid Overdose
+
+Discuss the availability of naloxone for the emergency treatment of opioid overdose with the patient and caregiver and assess the potential need for access to naloxone, both when initiating and renewing treatment with OXYCONTIN [see Warnings and Precautions (5.3), Patient Counseling Information (17)].
+
+Inform patients and caregivers about the various ways to obtain naloxone as permitted by individual state naloxone dispensing and prescribing requirements or guidelines (e.g., by prescription, directly from a pharmacist, or as part of a community-based program).
+
+Consider prescribing naloxone, based on the patient’s risk factors for overdose, such as concomitant use of CNS depressants, a history of opioid use disorder, or prior opioid overdose.
+The presence of risk factors for overdose should not prevent the proper management of pain in any given patient [see Warnings and Precautions (5.1, 5.3, 5.6)].
+
+Consider prescribing naloxone if the patient has household members (including children) or other close contacts at risk for accidental ingestion or overdose.
+
+## 2.3 Initial Dosage in Adults who are not Opioid-Tolerant
 
 The starting dosage for patients who are not opioid tolerant is OXYCONTIN 10 mg orally every 12 hours.
 
 Use of higher starting doses in patients who are not opioid tolerant may cause fatal respiratory depression [see Warnings and Precautions (5.3)].
 
-## 2.3 Conversion from Opioids to OXYCONTIN in Adults
+## 2.4 Conversion from Opioids to OXYCONTIN in Adults
 
 Conversion from Other Oral Oxycodone Formulations to OXYCONTIN If switching from other oral oxycodone formulations to OXYCONTIN, administer one half of the patient's total daily oral oxycodone dose as OXYCONTIN every 12 hours.
 
@@ -46,7 +57,7 @@ Conversion from Transdermal Fentanyl to OXYCONTIN Treatment with OXYCONTIN can b
 Although there has been no systematic assessment of such conversion, start with a conservative conversion: substitute 10 mg of OXYCONTIN every 12 hours for each 25 mcg per hour fentanyl transdermal patch.
 Follow the patient closely during conversion from transdermal fentanyl to OXYCONTIN, as there is limited documented experience with this conversion.
 
-## 2.4 Initial Dosage in Pediatric Patients 11 Years and Older
+## 2.5 Initial Dosage in Pediatric Patients 11 Years and Older
 
 The following dosing information is for use only in pediatric patients 11 years and older already receiving and tolerating opioids for at least five consecutive days.
 For the two days immediately preceding dosing with OXYCONTIN, patients must be taking a minimum of 20 mg per day of oxycodone or its equivalent.
@@ -104,7 +115,7 @@ Follow the patient closely during conversion from transdermal fentanyl to OXYCON
 
 If using asymmetric dosing, instruct patients to take the higher dose in the morning and the lower dose in the evening.
 
-## 2.5 Titration and Maintenance of Therapy in Adults and Pediatric Patients 11 Years and Older
+## 2.6 Titration and Maintenance of Therapy in Adults and Pediatric Patients 11 Years and Older
 
 Individually titrate OXYCONTIN to a dosage that provides adequate analgesia and minimizes adverse reactions.
 Continually reevaluate patients receiving OXYCONTIN to assess the maintenance of pain control, signs and symptoms of opioid withdrawal, and adverse reactions, as well as monitoring for the development of addiction, abuse and misuse [see Warnings and Precautions (5.1)].
@@ -122,20 +133,20 @@ There are no well-controlled clinical studies evaluating the safety and efficacy
 As a guideline for pediatric patients 11 years and older, the total daily oxycodone dosage usually can be increased by 25% of the current total daily dosage.
 As a guideline for adults, the total daily oxycodone dosage usually can be increased by 25% to 50% of the current total daily dosage, each time an increase is clinically indicated.
 
-## 2.6 Dosage Modifications with Concomitant Use of Central Nervous System Depressants
+## 2.7 Dosage Modifications with Concomitant Use of Central Nervous System Depressants
 
 If the patient is currently taking a central nervous system (CNS) depressant and the decision is made to begin OXYCONTIN, start with one-third to one-half the recommended starting dosage of OXYCONTIN, consider using a lower dosage of the concomitant CNS depressant, and monitor patients for signs of respiratory depression, sedation, and hypotension [see Warnings and Precautions (5.6), Drug Interactions (7)].
 
-## 2.7 Dosage Modifications in Geriatric Patients who are Debilitated and not Opioid-Tolerant
+## 2.8 Dosage Modifications in Geriatric Patients who are Debilitated and not Opioid-Tolerant
 
 For geriatric patients who are debilitated and not opioid tolerant, start dosing patients at one-third to one-half the recommended starting dosage and titrate the dosage cautiously [see Use in Specific Populations (8.5)].
 
-## 2.8 Dosage Modifications in Patients with Hepatic Impairment
+## 2.9 Dosage Modifications in Patients with Hepatic Impairment
 
 For patients with hepatic impairment, start dosing patients at one-third to one-half the recommended starting dosage and titrate the dosage carefully.
 Monitor for signs of respiratory depression, sedation, and hypotension [see Use in Specific Populations, (8.6), Clinical Pharmacology (12.3)].
 
-## 2.9 Safe Reduction or Discontinuation of OXYCONTIN
+## 2.10 Safe Reduction or Discontinuation of OXYCONTIN
 
 Do not abruptly discontinue OXYCONTIN in patients who may be physically dependent on opioids.
 Rapid discontinuation of opioid analgesics in patients who are physically dependent on opioids has resulted in serious withdrawal symptoms, uncontrolled pain, and suicide.

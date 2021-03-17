@@ -4,8 +4,7 @@
 
 Carcinogenesis
 
-Carcinogenic potential of oxycodone was evaluated in a 2-year oral gavage study in Sprague-Dawley rats.
-Oxycodone did not increase the incidence of tumors in male and female rats at doses up to 6 mg/kg/day.
+Long-term studies in animals to evaluate the carcinogenic potential of oxycodone have not been conducted.
 
 Mutagenesis
 

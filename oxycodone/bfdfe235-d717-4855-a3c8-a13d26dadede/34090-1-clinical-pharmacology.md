@@ -57,7 +57,7 @@ The minimum effective analgesic concentration of oxycodone for any individual pa
 Concentration –Adverse Reaction Relationships
 
 There is a relationship between increasing oxycodone plasma concentration and increasing frequency of dose-related opioid adverse reactions such as nausea, vomiting, CNS effects, and respiratory depression.
-In opioid-tolerant patients, the situation may be altered by the development of tolerance to opioid-related adverse reactions [see Dosage and Administration (2.1, 2.5)].
+In opioid-tolerant patients, the situation may be altered by the development of tolerance to opioid-related adverse reactions [see Dosage and Administration (2.1, 2.6)].
 
 ## 12.3 Pharmacokinetics
 
@@ -84,11 +84,10 @@ Dose proportionality has been established for OXYCONTIN 10 mg, 15 mg, 20 mg, 30 
 Given the short elimination t½ of oxycodone, steady-state plasma concentrations of oxycodone are achieved within 24-36 hours of initiation of dosing with OXYCONTIN.
 In a study comparing 10 mg of OXYCONTIN every 12 hours to 5 mg of immediate-release oxycodone every 6 hours, the two treatments were found to be equivalent for AUC and Cmax, and similar for Cmin (trough) concentrations.
 
-TABLE 6
+TABLE 6 Mean [% coefficient of variation]
 
-| Mean [% coefficient of variation] |  |  |  |  |
-| --- | --- | --- | --- | --- |
 | Regimen | Dosage Form | AUC (ng·hr/mL)* | Cmax (ng/mL) | Tmax (hr) |
+| --- | --- | --- | --- | --- |
 | Single Dose† | 10 mg | 136 [27] | 11.5 [27] | 5.11 [21] |
 |  | 15 mg | 196 [28] | 16.8 [29] | 4.59 [19] |
 |  | 20 mg | 248 [25] | 22.7 [25] | 4.63 [22] |

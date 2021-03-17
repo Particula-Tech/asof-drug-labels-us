@@ -46,7 +46,7 @@ Pregnant rabbits were treated with 1, 5, 25, and 125 mg/kg oxycodone hydrochlori
 Oxycodone did not cause adverse effects to the fetus at exposures up to 40 times the human dose of 60 mg/day.
 The 25 mg/kg and 125 mg/kg doses high doses produced maternal toxicity characterized by decreased food consumption and body weight gain.
 
-Pregnant rats were treated with 0.5, 2, and 6 mg/kg oxycodone hydrochloride (0.08, 0.32, and 1 times the human daily dose of 60 mg/kg, respective, based on a mg/m2 basis, during the period of organogenesis through lactation.
+Pregnant rats were treated with 0.5, 2, and 6 mg/kg oxycodone hydrochloride (0.08, 0.32, and 1 times the human daily dose of 60 mg/kg, respective, based on a mg/m2 basis) during the period of organogenesis through lactation.
 Decreased body weight was found during lactation and the early post-weaning phase in pups nursed by mothers given the highest dose used (6 mg/kg/day, equivalent to an adult human dose of 60 mg/day, on a mg/m2 basis).
 However, body weight of these pups recovered.
 
@@ -79,7 +79,7 @@ However, there were insufficient numbers of patients less than 11 years of age e
 The safety of OXYCONTIN in pediatric patients was evaluated in 155 patients previously receiving and tolerating opioids for at least 5 consecutive days with a minimum of 20 mg per day of oxycodone or its equivalent on the two days immediately preceding dosing with OXYCONTIN.
 Patients were started on a total daily dose ranging between 20 mg and 100 mg depending on prior opioid dose.
 
-The most frequent adverse events observed in pediatric patients were vomiting, nausea, headache, pyrexia, and constipation [see Dosage and Administration (2.4), Adverse Reactions (6.1), Clinical Pharmacology (12.3) and Clinical Trials (14)].
+The most frequent adverse events observed in pediatric patients were vomiting, nausea, headache, pyrexia, and constipation [see Dosage and Administration (2.5), Adverse Reactions (6.1), Clinical Pharmacology (12.3) and Clinical Studies (14)].
 
 ## 8.5 Geriatric Use
 
@@ -88,7 +88,7 @@ Compared to young adults, the plasma concentrations of oxycodone were increased 
 Of the total number of subjects (445) in clinical studies of oxycodone hydrochloride controlled-release tablets, 148 (33.3%) were age 65 and older (including those age 75 and older) while 40 (9.0%) were age 75 and older.
 In clinical trials with appropriate initiation of therapy and dose titration, no untoward or unexpected adverse reactions were seen in the elderly patients who received oxycodone hydrochloride controlled-release tablets.
 Thus, the usual doses and dosing intervals may be appropriate for elderly patients.
-However, a dosage reduction in debilitated, non-opioid-tolerant patients is recommended [see Dosage and Administration (2.7)].
+However, a dosage reduction in debilitated, non-opioid-tolerant patients is recommended [see Dosage and Administration (2.8)].
 
 Respiratory depression is the chief risk for elderly patients treated with opioids, and has occurred after large initial doses were administered to patients who are not opioid-tolerant or when opioids were co-administered with other agents that depress respiration.
 Titrate the dosage of OXYCONTIN slowly in these patients and monitor closely for signs of central nervous system and respiratory depression.

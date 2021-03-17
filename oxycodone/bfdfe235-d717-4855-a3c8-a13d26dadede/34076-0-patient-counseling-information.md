@@ -18,10 +18,27 @@ Instruct patients not to share OXYCONTIN with others and to take steps to protec
 
 Life-Threatening Respiratory Depression
 
-Inform patients of the risk of life-threatening respiratory depression, including information that the risk is greatest when starting OXYCONTIN or when the dosage is increased, and that it can occur even at recommended dosages [see Warnings and Precautions (5.3)].
-Advise patients how to recognize respiratory depression and to seek medical attention if breathing difficulties develop.
+Inform patients of the risk of life-threatening respiratory depression, including information that the risk is greatest when starting OXYCONTIN or when the dosage is increased, and that it can occur even at recommended dosages.
+
+Educate patients and caregivers on how to recognize respiratory depression and emphasize the importance of calling 911 or getting emergency medical help right away in the event of a known or suspected overdose [see Warnings and Precautions (5.3)].
 
 To guard against excessive exposure to OXYCONTIN by young children, advise caregivers to strictly adhere to recommended OXYCONTIN dosing.
+
+Patient Access to Naloxone for the Emergency Treatment of Opioid Overdose
+
+Discuss with the patient and caregiver the availability of naloxone for the emergency treatment of opioid overdose, both when initiating and renewing treatment with OXYCONTIN.
+Inform patients and caregivers about the various ways to obtain naloxone as permitted by individual state naloxone dispensing and prescribing requirements or guidelines (e.g., by prescription, directly from a pharmacist, or as part of a community-based program) [see Dosage and Administration (2.2), Warnings and Precautions (5.3)].
+
+Educate patients and caregivers on how to recognize the signs and symptoms of an overdose.
+
+Explain to patients and caregivers that naloxones effects are temporary, and that they must call 911 or get emergency medical help right away in all cases of known or suspected opioid overdose, even if naloxone is administered [see Overdosage (10)].
+
+If naloxone is prescribed, also advise patients and caregivers:
+
+- How to treat with naloxone in the event of an opioid overdose
+- To tell family and friends about their naloxone and to keep it in a place where family and friends can access it in an emergency
+- To read the Patient Information (or other educational material) that will come with their naloxone.
+  Emphasize the importance of doing this before an opioid emergency happens, so the patient and caregiver will know what to do
 
 Accidental Ingestion
 
@@ -96,11 +113,11 @@ Constipation
 
 Advise patients of the potential for severe constipation, including management instructions and when to seek medical attention [see Adverse Reactions (6)].
 
-Healthcare professionals can telephone Purdue Pharma’s Medical Services Department (1-888-726-7535) for information on this product.
+Healthcare professionals can telephone Purdue Pharmas Medical Services Department (1-888-726-7535) for information on this product.
 
 Purdue Pharma L.P.
 Stamford, CT 06901-3431
 
-©2020, Purdue Pharma L.P.
+©2021, Purdue Pharma L.P.
 
-U.S. Patent Numbers 7,129,248; 8,309,060; 8,808,741; 8,821,929; 8,894,987; 8,894,988; 9,073,933; 9,492,389; 9,492,391; 9,492,392; 9,492,393; 9,522,919; 9,675,610; 9,763,886; 9,763,933; 9,770,416; 9,775,808; 9,775,810; 9,775,811; 9,777,011; 10,130,591; 10,369,109; 10,407434; 10,675,278 and 10,696,684.
+U.S. Patent Numbers 7,129,248; 8,309,060; 8,808,741; 8,821,929; 8,894,987; 8,894,988; 9,073,933; 9,492,389; 9,492,391; 9,492,392; 9,492,393; 9,522,919; 9,675,610; 9,763,886; 9,763,933; 9,770,416; 9,775,808; 9,775,810; 9,775,811; 9,777,011; 10,130,591; 10,369,109; 10,407,434; 10,675,278 and 10,696,684.
