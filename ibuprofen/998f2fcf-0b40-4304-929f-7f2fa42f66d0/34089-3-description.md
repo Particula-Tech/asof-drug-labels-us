@@ -1,7 +1,7 @@
 # DESCRIPTION
 
 The active ingredient in Ibuprofen Oral Suspension USP, 100 mg/5 mL is ibuprofen, which is a member of the propionic acid group of nonsteroidal anti-inflammatory drugs (NSAIDs).
-Ibuprofen is a racemic mixture of [+]S-and [-]R-enantiomers.
+Ibuprofen is a racemic mixture of [+]S- and [-]R-enantiomers.
 It is a white to off-white crystalline powder, with a melting point of 74º to 77ºC.
 It is practically insoluble in water (<0.1 mg/mL), but readily soluble in organic solvents such as ethanol and acetone.
 Ibuprofen has a pKa of 4.43±0.03 and an n-octanol/water partition coefficient of 11.7 at pH 7.4.

@@ -1,4 +1,4 @@
-# Medication Guide for Nonsteroidal Anti-inflammatory Drugs (NSAlDs)
+# Medication Guide for Nonsteroidal Anti-inflammatory Drugs (NSAIDs)
 
 What is the most important information I should know about medicines called Nonsteroidal Anti-inflammatory Drugs (NSAIDs)?
 
