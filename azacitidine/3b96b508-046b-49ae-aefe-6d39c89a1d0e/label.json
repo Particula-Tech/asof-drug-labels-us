@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "ANDA212128"
+  ],
+  "inn": "azacitidine",
+  "labeler": "Meitheal Pharmaceuticals Inc.",
+  "package_ndcs": [
+    "71288-153-95"
+  ],
+  "products": [
+    {
+      "form": "INJECTION, POWDER, LYOPHILIZED, FOR SOLUTION",
+      "generic": "azacitidine",
+      "name": "Azacitidine"
+    }
+  ],
+  "setid": "3b96b508-046b-49ae-aefe-6d39c89a1d0e",
+  "source": "dailymed"
+}
