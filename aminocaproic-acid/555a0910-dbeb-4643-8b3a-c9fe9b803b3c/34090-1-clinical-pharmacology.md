@@ -5,13 +5,13 @@ The fibrinolysis-inhibitory effects of Aminocaproic Acid Tablets appear to be ex
 In adults, oral absorption appears to be a zero-order process with an absorption rate of 5.2 g/hr.
 The mean lag time in absorption is 10 minutes.
 After a single oral dose of 5 g, absorption was complete (F=1).
-Mean ± SD peak plasma concentrations (164 ± 28 mcg/ml) were reached within 1.2 ± 0.45 hours.
+Mean ± SD peak plasma concentrations (164 ± 28 mcg/mL) were reached within 1.2 ± 0.45 hours.
 
 After oral administration, the apparent volume of distribution was estimated to be 23.1 ± 6.6 L (mean ± SD).
 Correspondingly, the volume of distribution after intravenous administration has been reported to be 30.0 ± 8.2 L. After prolonged administration, Aminocaproic Acid Tablets has been found to distribute throughout extravascular and intravascular compartments of the body, penetrating human red blood cells as well as other tissue cells.
 
 Renal excretion is the primary route of elimination.
 Sixty-five percent of the dose is recovered in the urine as unchanged drug and 11 % of the dose appears as the metabolite adipic acid.
-Renal clearance (116 mUmin) approximates endogenous creatinine clearance.
-The total body clearance is 169 ml/min.
+Renal clearance (116 mL/min) approximates endogenous creatinine clearance.
+The total body clearance is 169 mL/min.
 The terminal elimination half-life for Aminocaproic Acid Tablets is approximately 2 hours.
