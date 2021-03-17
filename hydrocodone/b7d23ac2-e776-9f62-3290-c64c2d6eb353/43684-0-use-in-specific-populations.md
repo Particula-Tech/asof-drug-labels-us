@@ -25,7 +25,7 @@ However, this effect is not consistent and may be offset by an increased rate of
 Monitor neonates exposed to opioid analgesics during labor for signs of excess sedation and respiratory depression.
 
 Data Animal Data No evidence of embryotoxicity or teratogenicity was observed after oral administration of hydrocodone throughout the period of organogenesis in rats and rabbits at doses up to 30 mg/kg/day (approximately 0.1 and 0.3 times, respectively, the human hydrocodone dose of 120 mg/day based on AUC exposure comparisons).
-However, in these studies, reduced fetal body weights and delayed ossification were observed in rat at 30 mg/kg/day and reduced fetal body weights were observed in in rabbit at 30 mg/kg/day (approximately 0.1 and 0.3 times, respectively, the human hydrocodone dose of 120 mg/day based on AUC exposure comparisons).
+However, in these studies, reduced fetal body weights and delayed ossification were observed in rat at 30 mg/kg/day and reduced fetal body weights were observed in rabbits at 30 mg/kg/day (approximately 0.1 and 0.3 times, respectively, the human hydrocodone dose of 120 mg/day based on AUC exposure comparisons).
 In a pre- and post-natal development study pregnant rats were administered oral hydrocodone throughout the period of gestation and lactation.
 At a dose of 30 mg/kg/day decreased pup viability, pup survival indices, litter size and pup body weight were observed.
 This dose is approximately 0.1 times the human hydrocodone dose of 120 mg/day based on AUC exposure comparisons.
@@ -71,12 +71,12 @@ Because elderly patients are more likely to have decreased renal function, care 
 
 No adjustment in starting dose with HYSINGLA ER is required in patients with mild or moderate hepatic impairment.
 Patients with severe hepatic impairment may have higher plasma concentrations than those with normal hepatic function [see Clinical Pharmacology (12.3)].
-Therefore, a dosage reduction is recommended for these patients [see Dosage and Administration (2.4)].
+Therefore, a dosage reduction is recommended for these patients [see Dosage and Administration (2.5)].
 Monitor closely for respiratory depression, sedation, and hypotension.
 
 ## 8.7 Renal Impairment
 
 No dose adjustment is needed in patients with mild renal impairment.
 Patients with moderate or severe renal impairment or end stage renal disease have higher plasma concentrations than those with normal renal function [see Clinical Pharmacology (12.3)].
-Therefore, a dosage reduction is recommended for these patients [see Dosage and Administration (2.5)].
+Therefore, a dosage reduction is recommended for these patients [see Dosage and Administration (2.6)].
 Monitor closely for respiratory depression, sedation, and hypotension.

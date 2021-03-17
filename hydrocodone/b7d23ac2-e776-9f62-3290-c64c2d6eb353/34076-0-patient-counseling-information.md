@@ -12,12 +12,29 @@ Inform patients that they can visit www.fda.gov/drugdisposal for a complete list
 Addiction, Abuse, and Misuse Inform patients that the use of HYSINGLA ER, even when taken as recommended, can result in addiction, abuse, and misuse, which can lead to overdose or death [see Warnings and Precautions (5.1)].
 Instruct patients not to share HYSINGLA ER with others and to take steps to protect HYSINGLA ER from theft or misuse.
 
-Life-Threatening Respiratory Depression Inform patients of the risk of life-threatening respiratory depression, including information that the risk is greatest when starting HYSINGLA ER or when the dosage is increased, and that it can occur even at recommended dosages [see Warnings and Precautions (5.3)].
-Advise patients how to recognize respiratory depression and to seek medical attention if breathing difficulties develop.
+Life-Threatening Respiratory Depression Inform patients of the risk of life-threatening respiratory depression, including information that the risk is greatest when starting HYSINGLA ER or when the dosage is increased, and that it can occur even at recommended dosages
+
+Educate patients and caregivers on how to recognize respiratory depression and emphasize the importance of calling 911 or getting emergency medical help right away in the event of a known or suspected overdose [see Warnings and Precautions (5.3)].
+
+Patient Access to Naloxone for the Emergency Treatment of Opioid Overdose
+
+Discuss with the patient and caregiver the availability of naloxone for the emergency treatment of opioid overdose, both when initiating and renewing treatment with HYSINGLA ER.
+Inform patients and caregivers about the various ways to obtain naloxone as permitted by individual state naloxone dispensing and prescribing requirements or guidelines (e.g., by prescription, directly from a pharmacist, or as part of a community-based program) [see Dosage and Administration (2.2), Warnings and Precautions (5.3)].
+
+Educate patients and caregivers on how to recognize the signs and symptoms of an overdose.
+
+Explain to patients and caregivers that naloxone’s effects are temporary, and that they must call 911 or get emergency medical help right away in all cases of known or suspected opioid overdose, even if naloxone is administered [see Overdosage (10)].
+
+If naloxone is prescribed, also advise patients and caregivers:
+
+- How to treat with naloxone in the event of an opioid overdose
+- To tell family and friends about their naloxone and to keep it in a place where family and friends can access it in an emergency
+- To read the Patient Information (or other educational material) that will come with their naloxone.
+  Emphasize the importance of doing this before an opioid emergency happens, so the patient and caregiver will know what to do.
 
 Accidental Ingestion Inform patients that accidental ingestion, especially by children, may result in respiratory depression or death [see Warnings and Precautions (5.3)].
 
-Interaction with Benzodiazepines and other CNS Depressants Inform patients and caregivers that potentially fatal additive effects may occur if HYSINGLA ER is used with benzodiazepines or other CNS depressants, including alcohol, and not to use these concomitantly unless supervised by a health care provider [see Warnings and Precautions (5.6), Drug Interactions (7)].
+Interaction with Benzodiazepines and other CNS Depressants Inform patients and caregivers that potentially fatal additive effects may occur if HYSINGLA ER is used with benzodiazepines or other CNS depressants, including alcohol, and not to use these concomitantly unless supervised by a healthcare provider [see Warnings and Precautions (5.6), Drug Interactions (7)].
 
 Serotonin Syndrome Inform patients that opioids could cause a rare but potentially life-threatening condition resulting from concomitant administration of serotonergic drugs.
 Warn patients of the symptoms of serotonin syndrome and to seek medical attention right away if symptoms develop.
@@ -39,7 +56,7 @@ Important Administration Instructions Instruct patients how to properly take HYS
 
 Important Discontinuation Instructions
 
-- In order to avoid developing withdrawal symptoms, instruct patients not to discontinue HYSINGLA ER without first discussing a tapering plan with the prescriber [see Dosage and Administration (2.6)]
+- In order to avoid developing withdrawal symptoms, instruct patients not to discontinue HYSINGLA ER without first discussing a tapering plan with the prescriber [see Dosage and Administration (2.7)]
 
 Hypotension Inform patients that HYSINGLA ER may cause orthostatic hypotension and syncope.
 Instruct patients how to recognize symptoms of low blood pressure and how to reduce the risk of serious consequences should hypotension occur (e.g., sit or lie down, carefully rise from a sitting or lying position) [see Warnings and Precautions (5.9)].
@@ -72,7 +89,6 @@ Healthcare professionals can telephone Purdue Pharma’s Medical Services Depart
 Purdue Pharma L.P.
 Stamford, CT 06901-3431
 
-©2019, Purdue Pharma L.P.
+©2021, Purdue Pharma L.P.
 
-U.S. Patent Numbers: 6,733,783; 8,309,060; 8,361,499; 8,529,948; 8,551,520; 8,647,667 and 8,808,740.
-9,023,401;9,056,052;9,060,940;9,084,816;9,101,661;9,095,614;9,095,615;9,198,863;9,205,055;9,205,056;9,289,391;9,393,206;9,486,412;9,486,413;9,492,389;9,492,390; 9,492,391; 9,517,236; 9,545,380; 9,572,779; 9,572,804; 9,669,023; 9,669,024; 9,675,610; 9,675,611; 9,682,077, 9,744,136; 9,750,703; 9,763,886; 9,763,933; 9,770,416; 9,770,417; 9,775,809; 9,775,810; 9,861,584; 9,872,837; 10,130,591 and 10,369,109.
+U.S. Patent Numbers: 6,733,783; 8,309,060; 8,361,499; 8,529,948; 8,551,520; 8,647,667; 8,808,740; 9,084,816; 9,101,661; 9,095,614; 9,095,615; 9,205,055; 9,393,206; 9,486,412; 9,486,413; 9,492,389; 9,492,390; 9,492,391; 9,545,380; 9,572,779; 9,669,023; 9,669,024; 9,675,610; 9,675,611; 9,682,077: 9,744,136; 9,750,703; 9,763,886; 9,763,933; 9,770,416; 9,770,417; 9,775,809; 9,775,810; 9,861,584; 9,872,837; 10,130,591 and 10,369,109

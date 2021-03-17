@@ -18,7 +18,18 @@ Crushing, chewing, or dissolving HYSINGLA ER tablets will result in uncontrolled
 HYSINGLA ER is administered orally once daily (every 24 hours).
 Multiple tablets of lower dose strengths that provide the desired total daily dose can be taken as a once daily dose.
 
-## 2.2 Initial Dosage
+## 2.2 Patient Access to Naloxone for the Emergency Treatment of Opioid Overdose
+
+Discuss the availability of naloxone for the emergency treatment of opioid overdose with the patient and caregiver and assess the potential need for access to naloxone, both when initiating and renewing treatment with HYSINGLA ER [see Warnings and Precautions (5.3), Patient Counseling Information (17)].
+
+Inform patients and caregivers about the various ways to obtain naloxone as permitted by individual state naloxone dispensing and prescribing requirements or guidelines (e.g., by prescription, directly from a pharmacist, or as part of a community-based program).
+
+Consider prescribing naloxone, based on the patient’s risk factors for overdose, such as concomitant use of CNS depressants, a history of opioid use disorder, or prior opioid overdose.
+The presence of risk factors for overdose should not prevent the proper management of pain in any given patient [see Warnings and Precautions (5.1, 5.3, 5.6)].
+
+Consider prescribing naloxone if the patient has household members (including children) or other close contacts at risk for accidental ingestion or overdose.
+
+## 2.3 Initial Dosage
 
 Use of HYSINGLA ER as the First Opioid Analgesic (opioid-naïve patients)
 
@@ -86,7 +97,7 @@ Follow the patient closely during conversion from transdermal fentanyl to HYSING
 Conversion from Transdermal Buprenorphine to HYSINGLA ER All patients receiving transdermal buprenorphine (≤ 20 mcg/hr) should initiate therapy with HYSINGLA ER 20 mg every 24 hours.
 Follow the patient closely during conversion from transdermal buprenorphine to HYSINGLA ER, as there is limited experience with this conversion.
 
-## 2.3 Titration and Maintenance of Therapy
+## 2.4 Titration and Maintenance of Therapy
 
 Individually titrate HYSINGLA ER to a dose that provides adequate analgesia and minimizes adverse reactions.
 Continually reevaluate patients receiving HYSINGLA ER to assess the maintenance of pain control and the relative incidence of adverse reactions, as well as monitoring for the development of addiction, abuse, or misuse [see Warnings and Precautions (5.1).
@@ -100,17 +111,17 @@ Adjust the dose of HYSINGLA ER in increments of 10 mg to 20 mg every 3 to 5 days
 If unacceptable opioid-related adverse reactions are observed, consider reducing the dosage.
 Adjust the dosage to obtain an appropriate balance between management of pain and opioid-related adverse reactions.
 
-## 2.4 Dosage Modifications in Patients with Severe Hepatic Impairment
+## 2.5 Dosage Modifications in Patients with Severe Hepatic Impairment
 
 Patients with severe hepatic impairment may have higher plasma concentrations of hydrocodone than those with normal function.
 Initiate therapy with one half the initial dose of HYSINGLA ER in these patients and monitor closely for respiratory depression, sedation, and hypotension [see Clinical Pharmacology (12.3)].
 
-## 2.5 Dosage Modifications in Patients with Moderate to Severe Renal Impairment
+## 2.6 Dosage Modifications in Patients with Moderate to Severe Renal Impairment
 
 Patients with moderate to severe renal impairment, and end-stage renal disease may have higher plasma concentrations than those with normal function.
 Initiate therapy with one half the initial dose of HYSINGLA ER in these patients and monitor closely for respiratory depression, sedation, and hypotension [see Clinical Pharmacology (12.3)].
 
-## 2.6 Safe Reduction or Discontinuation of HYSINGLA ER
+## 2.7 Safe Reduction or Discontinuation of HYSINGLA ER
 
 Do not abruptly discontinue HYSINGLA ER in patients who may be physically dependent on opioids.
 Rapid discontinuation of opioid analgesics in patients who are physically dependent on opioids has resulted in serious withdrawal symptoms, uncontrolled pain, and suicide.
