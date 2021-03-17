@@ -7,8 +7,8 @@ Zonisamide USP is a white powder, pKa = 10.2, and is moderately soluble in water
 
 The chemical structure is:
 
-Zonisamide is supplied for oral administration as capsules containing 100 mg zonisamide.
+Zonisamide is supplied for oral administration as capsules containing 25, 50 and 100 mg of zonisamide.
 
 Each 100 mg capsule contains the labeled amount of zonisamide plus the following inactive ingredients: microcrystalline cellulose, hydrogenated vegetable oil, gelatin and colorants.
-Components of gelatin capsules (For 100 mg: titanium dioxide, gelatin and FDA/E172 red iron oxide).
-Imprint ink dye (Black SW- 9008/SW-9009).
+Components of gelatin capsules,titanium dioxide, gelatin and Imprint ink dye (Black SW- 9008/SW-9009).
+(For 100 mg: FDA/E172 red iron oxide and For 50 mg: FD&C Blue No#2).
