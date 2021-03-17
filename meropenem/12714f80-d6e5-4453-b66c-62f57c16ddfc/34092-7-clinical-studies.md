@@ -79,9 +79,9 @@ Four hundred forty-six patients (397 pediatric patients 3 months to less than 17
 A comparable number of patients were found to be clinically evaluable (ranging from 61 to 68%) and with a similar distribution of pathogens isolated on initial CSF culture.
 Patients were defined as clinically not cured if any one of the following three criteria were met:
 
-1. 1 At the 5-7 week post-completion of therapy visit, the patient had any one of the following: moderate to severe motor, behavior or development deficits, hearing loss of greater than 60 decibels in one or both ears, or blindness.
-2. 2 During therapy the patient's clinical status necessitated the addition of other antibacterial drugs.
-3. 3 Either during or post-therapy, the patient developed a large subdural effusion needing surgical drainage, or a cerebral abscess, or a bacteriologic relapse.
+1. At the 5-7 week post-completion of therapy visit, the patient had any one of the following: moderate to severe motor, behavior or development deficits, hearing loss of greater than 60 decibels in one or both ears, or blindness.
+2. During therapy the patient's clinical status necessitated the addition of other antibacterial drugs.
+3. Either during or post-therapy, the patient developed a large subdural effusion needing surgical drainage, or a cerebral abscess, or a bacteriologic relapse.
 
 Using the definition, the following efficacy rates were obtained, per organism (noted in Table 10).
 The values represent the number of patients clinically cured/number of clinically evaluable patients, with the percent cure in parentheses.

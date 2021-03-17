@@ -130,7 +130,7 @@ Adverse Laboratory Changes in Pediatric Patients:
 
 Laboratory changes seen in the pediatric studies, including the meningitis studies, were similar to those reported in the adult studies.
 
-## 6.2 Post marketing Experience
+## 6.2 Post-marketing Experience
 
 The following adverse reactions have been identified during post-approval use of Meropenem for injection (I.V.).
 Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.

@@ -84,6 +84,7 @@ For Intravenous Bolus Administration
 
 Re-constitute injection vials (500 mg and 1 gram) with sterile Water for Injection (see table 4 below).
 Shake to dissolve and let stand until clear.
+Discard unused portion.
 
 Table 4: Volume of Sterile Water for Injection for Reconstitution of Injection Vials
 

@@ -5,7 +5,9 @@
   "inn": "meropenem",
   "labeler": "Fresenius Kabi USA, LLC",
   "package_ndcs": [
+    "63323-507-19",
     "63323-507-21",
+    "63323-508-21",
     "63323-508-31"
   ],
   "products": [
