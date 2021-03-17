@@ -31,7 +31,7 @@ Find a comfortable space with a clean, flat, working surface.
 
 Do not remove the needle cap while allowing your ACTEMRA prefilled syringe to reach room temperature.
 
-- Keep your unused syringes in the original carton and keep in the refrigerator at 2°C to 8°C (36°F to 46°F).
+- Keep your unused syringes in the original carton and keep in the refrigerator at 36°F to 46°F (2°C to 8°C).
   Do not freeze.
 - Hold your ACTEMRA prefilled syringe with the covered needle pointing down (See Figure C).
 - Check the liquid in the ACTEMRA prefilled syringe.
@@ -51,7 +51,7 @@ Choose an Injection Site
 
 Rotate Injection Site
 
-- Choose a different injection site for each new injection at least 1 inch from the last area you injected.
+- Choose a different injection site for each new injection at least 1-inch from the last area you injected.
 - Do not inject into moles, scars, bruises, or areas where the skin is tender, red, hard or not intact.
 
 Prepare the Injection Site
@@ -129,18 +129,18 @@ Record your Injection
 If you have questions or concerns about your ACTEMRA prefilled syringe, please contact your healthcare provider familiar with ACTEMRA or call 1-800-ACTEMRA.
 
 This Medication Guide and Instructions for Use has been approved by the U.S. Food and Drug Administration.
-Medication Guide Revised: 05/2020 ACTEMRA is a registered trademark of Chugai Seiyaku Kabushiki Kaisha Corp., a member of the Roche Group.
+Medication Guide Revised: 03/2021 ACTEMRA is a registered trademark of Chugai Seiyaku Kabushiki Kaisha Corp., a member of the Roche Group.
 
 Genentech, Inc. A Member of the Roche Group 1 DNA Way South San Francisco, CA 94080-4990
 
-U.S. License No.: 1048 © 2020 Genentech, Inc. All rights reserved.
+U.S. License No.: 1048 © 2021 Genentech, Inc. All rights reserved.
 
 Instructions for Use ACTEMRA® (AC-TEM-RA) (tocilizumab) Injection, For Subcutaneous Use Single-dose Prefilled ACTPen® (AKT-PEN) Autoinjector
 
 Read and follow the Instructions for Use that come with your ACTEMRA ACTPen autoinjector before you start using it and each time you get a prescription refill.
 Before you use the ACTEMRA ACTPen autoinjector for the first time, make sure your healthcare provider shows you the right way to use it.
 
-Important: Keep your unused Autoinjectors in the original carton and keep in the refrigerator at 2°C to 8°C (36°F to 46°F).
+Important: Keep your unused Autoinjectors in the original carton and keep in the refrigerator at 36°F to 46°F (2°C to 8°C).
 Do not freeze.
 
 - Do not remove the Autoinjector cap until you are ready to inject ACTEMRA.
@@ -295,11 +295,11 @@ Record your Injection
 If you have any questions or concerns about your ACTEMRA ACTPen autoinjector, talk to your healthcare provider familiar with ACTEMRA or call 1-800-ACTEMRA.
 
 This Medication Guide and Instructions for Use has been approved by the U.S. Food and Drug Administration.
-Medication Guide Revised: 05/2020 ACTEMRA is a registered trademark of Chugai Seiyaku Kabushiki Kaisha Corp., a member of the Roche Group.
+Medication Guide Revised: 03/2021 ACTEMRA is a registered trademark of Chugai Seiyaku Kabushiki Kaisha Corp., a member of the Roche Group.
 ACTPen is a registered trademark of Chugai Seiyaku Kabushiki Kaisha Corp., a member of the Roche Group.
 
 Genentech, Inc. A Member of the Roche Group 1 DNA Way South San Francisco, CA 94080-4990
 
 U.S. License No.: 1048
 
-© 2020 Genentech, Inc. All rights reserved.
+© 2021 Genentech, Inc. All rights reserved.

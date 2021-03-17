@@ -17,7 +17,7 @@ The risks and benefits of treatment should be considered prior to initiating ACT
 - who have resided or traveled in areas of endemic tuberculosis or endemic mycoses; or
 - with underlying conditions that may predispose them to infection.
 
-Closely monitor patients for the development of signs and symptoms of infection during and after treatment with ACTEMRA, as signs and symptoms of acute inflammation may be lessened due to suppression of the acute phase reactants [see Dosage and Administration (2.6), Adverse Reactions (6.1), and Patient Counseling Information (17)].
+Closely monitor patients for the development of signs and symptoms of infection during and after treatment with ACTEMRA, as signs and symptoms of acute inflammation may be lessened due to suppression of the acute phase reactants [see Dosage and Administration (2.7), Adverse Reactions (6.1), and Patient Counseling Information (17)].
 
 Hold ACTEMRA if a patient develops a serious infection, an opportunistic infection, or sepsis.
 A patient who develops a new infection during treatment with ACTEMRA should undergo a prompt and complete diagnostic workup appropriate for an immunocompromised patient, initiate appropriate antimicrobial therapy, and closely monitor the patient.
@@ -53,13 +53,13 @@ Some of these cases have resulted in liver transplant or death.
 Time to onset for cases ranged from months to years after treatment initiation with tocilizumab.
 While most cases presented with marked elevations of transaminases (> 5 times ULN), some cases presented with signs or symptoms of liver dysfunction and only mildly elevated transaminases.
 
-During randomized controlled studies, treatment with ACTEMRA was associated with a higher incidence of transaminase elevations [see Adverse Reactions (6.1, 6.2, 6.4, 6.6)].
+During randomized controlled studies, treatment with ACTEMRA was associated with a higher incidence of transaminase elevations [see Adverse Reactions (6.1, 6.2, 6.5, 6.7)].
 Increased frequency and magnitude of these elevations was observed when potentially hepatotoxic drugs (e.g., MTX) were used in combination with ACTEMRA.
 
-For RA and GCA patients, obtain a liver test panel (serum alanine aminotransferase [ALT], aspartate aminotransferase [AST], alkaline phosphatase, and total bilirubin) before initiating ACTEMRA, every 4 to 8 weeks after start of therapy for the first 6 months of treatment and every 3 months thereafter.
-It is not recommended to initiate ACTEMRA treatment in RA or GCA patients with elevated transaminases ALT or AST greater than 1.5× ULN.
+For RA, GCA and SSc-ILD patients, obtain a liver test panel (serum alanine aminotransferase [ALT], aspartate aminotransferase [AST], alkaline phosphatase, and total bilirubin) before initiating ACTEMRA, every 4 to 8 weeks after start of therapy for the first 6 months of treatment and every 3 months thereafter.
+It is not recommended to initiate ACTEMRA treatment in RA, GCA or SSc-ILD patients with elevated transaminases ALT or AST greater than 1.5× ULN.
 In patients who develop elevated ALT or AST greater than 5× ULN, discontinue ACTEMRA.
-For recommended modifications based upon increase in transaminases see Dosage and Administration (2.9).
+For recommended modifications based upon increase in transaminases see Dosage and Administration (2.10).
 
 Measure liver tests promptly in patients who report symptoms that may indicate liver injury, such as fatigue, anorexia, right upper abdominal discomfort, dark urine or jaundice.
 In this clinical context, if the patient is found to have abnormal liver tests (e.g., ALT greater than three times the upper limit of the reference range, serum total bilirubin greater than two times the upper limit of the reference range), ACTEMRA treatment should be interrupted and investigation done to establish the probable cause.
@@ -70,7 +70,7 @@ Monitor liver test panel at the time of the second administration and thereafter
 
 ## 5.4 Laboratory Parameters
 
-Rheumatoid Arthritis and Giant Cell Arteritis
+Rheumatoid Arthritis, Giant Cell Arteritis and Systemic Sclerosis-Associated Interstitial Lung Disease
 
 Neutropenia
 
@@ -80,7 +80,7 @@ Infections have been uncommonly reported in association with treatment-related n
 - –It is not recommended to initiate ACTEMRA treatment in patients with a low neutrophil count, i.e., absolute neutrophil count (ANC) less than 2000 per mm3.
   In patients who develop an absolute neutrophil count less than 500 per mm3 treatment is not recommended.
 - –Monitor neutrophils 4 to 8 weeks after start of therapy and every 3 months thereafter [see Clinical Pharmacology (12.2)].
-  For recommended modifications based on ANC results see Dosage and Administration (2.9).
+  For recommended modifications based on ANC results see Dosage and Administration (2.10).
 
 Thrombocytopenia
 
@@ -90,12 +90,12 @@ Treatment-related reduction in platelets was not associated with serious bleedin
 - –It is not recommended to initiate ACTEMRA treatment in patients with a platelet count below 100,000 per mm3.
   In patients who develop a platelet count less than 50,000 per mm3 treatment is not recommended.
 - –Monitor platelets 4 to 8 weeks after start of therapy and every 3 months thereafter.
-  For recommended modifications based on platelet counts see Dosage and Administration (2.9).
+  For recommended modifications based on platelet counts see Dosage and Administration (2.10).
 
 Elevated Liver Enzymes
 
 Refer to 5.3 Hepatotoxicity.
-For recommended modifications [see Dosage modifications 2.9]
+For recommended modifications [see Dosage and Administration (2.10)]
 
 Lipid Abnormalities
 
@@ -108,7 +108,7 @@ Polyarticular and Systemic Juvenile Idiopathic Arthritis
 
 A similar pattern of liver enzyme elevation, low neutrophil count, low platelet count and lipid elevations is noted with ACTEMRA treatment in the PJIA and SJIA populations.
 Monitor neutrophils, platelets, ALT and AST at the time of the second administration and thereafter every 4 to 8 weeks for PJIA and every 2 to 4 weeks for SJIA.
-Monitor lipids as above for approved adult indications [see Dosage and Administration (2.9)].
+Monitor lipids as above for approved adult indications [see Dosage and Administration (2.10)].
 
 ## 5.5 Immunosuppression
 
@@ -126,7 +126,7 @@ Injection site reactions were categorized separately [see Adverse Reactions (6)]
 
 In the postmarketing setting, events of hypersensitivity reactions, including anaphylaxis and death have occurred in patients treated with a range of doses of intravenous ACTEMRA, with or without concomitant therapies.
 Events have occurred in patients who received premedication.
-Hypersensitivity, including anaphylaxis events, have occurred both with and without previous hypersensitivity reactions and as early as the first infusion of ACTEMRA [see Adverse Reactions (6.6)].
+Hypersensitivity, including anaphylaxis events, have occurred both with and without previous hypersensitivity reactions and as early as the first infusion of ACTEMRA [see Adverse Reactions (6.7)].
 ACTEMRA for intravenous use should only be infused by a healthcare professional with appropriate medical support to manage anaphylaxis.
 For ACTEMRA subcutaneous injection, advise patients to seek immediate medical attention if they experience any symptoms of a hypersensitivity reaction.
 If anaphylaxis or other hypersensitivity reaction occurs, stop administration of ACTEMRA immediately and discontinue ACTEMRA permanently.

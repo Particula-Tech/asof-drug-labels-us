@@ -11,7 +11,7 @@ IL-6 is also produced by synovial and endothelial cells leading to local product
 
 In clinical studies in RA patients with the 4 mg per kg and 8 mg per kg intravenous doses or the 162 mg weekly and every other weekly subcutaneous doses of ACTEMRA, decreases in levels of C-reactive protein (CRP) to within normal ranges were seen as early as week 2.
 Changes in pharmacodynamic parameters were observed (i.e., decreases in rheumatoid factor, erythrocyte sedimentation rate (ESR), serum amyloid A, fibrinogen and increases in hemoglobin) with doses, however the greatest improvements were observed with 8 mg per kg ACTEMRA.
-Pharmacodynamic changes were also observed to occur after ACTEMRA administration in GCA, PJIA, and SJIA patients (decreases in CRP, ESR, and increases in hemoglobin).
+Pharmacodynamic changes were also observed to occur after ACTEMRA administration in GCA, SSc-ILD, PJIA, and SJIA patients (decreases in CRP, ESR, and increases in hemoglobin).
 The relationship between these pharmacodynamic findings and clinical efficacy is not known.
 
 In healthy subjects administered ACTEMRA in doses from 2 to 28 mg per kg intravenously and 81 to 162 mg subcutaneously, absolute neutrophil counts decreased to the nadir 3 to 5 days following ACTEMRA administration.
@@ -47,7 +47,7 @@ For AUCtau and Cmean, 90% of the steady-state value was reached after the 1st an
 For doses of 162 mg given every other week subcutaneously, the estimated median (range) steady-state Cmax, Ctrough, and Cmean of tocilizumab were 12.1 (0.4–49.3) mcg/mL, 4.1 (0.0–34.2) mcg/mL, and 9.2 (0.2–43.6) mcg/mL, respectively.
 
 For doses of 162 mg given every week subcutaneously, the estimated median (range) steady-state Cmax, Ctrough, and Cmean of tocilizumab were 49.8 (3–150) mcg/mL, 42.9 (1.3–144) mcg/mL, and 47.3 (2.4–147) mcg/mL, respectively.
-Exposures after the 162 mg SC QW regimen were greater by 5.1 (Cmean) to 10.5 fold (Ctrough) compared to the 162 SC Q2W regimen.
+Exposures after the 162 mg SC QW regimen were greater by 5.1 (Cmean) to 10.5 fold (Ctrough) compared to the 162 mg SC Q2W regimen.
 
 Accumulation ratios after multiple doses of either SC regimen were higher than after IV regimen with the highest ratios for Ctrough (6.02 and 6.30, for 162 mg SC Q2W and 162 mg SC QW, respectively).
 The higher accumulation for Ctrough was expected based on the nonlinear clearance contribution at lower concentrations.
@@ -70,6 +70,14 @@ Steady state was reached after 17 weeks.
 For the 162 mg every other week dose, the estimated median (range) steady-state Cmax, Ctrough, and Cmean of tocilizumab were 17.2 (1.1–56.2) mcg/mL, 7.7 (0.1–37.3) mcg/mL, and 13.7 (0.5–49) mcg/mL, respectively.
 The accumulation ratios for Cmean or AUCtau, Ctrough, and Cmax were 2.8, 5.6, and 2.3 respectively.
 Steady-state was reached after 14 weeks.
+
+Systemic Sclerosis-Associated Interstitial Lung Disease – Subcutaneous Administration
+
+The pharmacokinetics of tocilizumab in SSc-ILD patients was determined using a population pharmacokinetic analysis on a dataset composed of 66 SSc-ILD patients treated with 162 mg tocilizumab SC every week.
+
+The estimated median (range) steady-state Cmax, Ctrough and Cmean of tocilizumab were 52.5 (14.8-121) mcg/mL, 47.2 (10.8-114) mcg/mL, and 50.4 (13.4-119) mcg/mL, respectively.
+The accumulation ratios for Cmean or AUCtau, Ctrough, and Cmax were 7.11, 6.56, and 5.89, respectively.
+Steady-state was reached after 13 weeks.
 
 Polyarticular Juvenile Idiopathic Arthritis—Intravenous and Subcutaneous Administration
 
@@ -112,7 +120,7 @@ Trough and mean concentrations in patients after SC dosing were similar to those
 
 Absorption
 
-Following subcutaneous dosing in RA and GCA patients, the absorption half-life was around 4 days.
+Following subcutaneous dosing, the absorption half-life was around 4 days in RA and GCA patients and 3 days in SSc-ILD patients.
 The bioavailability for the subcutaneous formulation was 80%.
 
 Following subcutaneous dosing in PJIA patients, the absorption half-life was around 2 days, and the bioavailability for the subcutaneous formulation in PJIA patients was 96%.
@@ -123,12 +131,16 @@ In RA patients the median values of Tmax were 2.8 days after the tocilizumab eve
 
 In GCA patients, the median values of Tmax were 3 days after the tocilizumab every week dose and 4.5 days after the tocilizumab every other week dose.
 
+In SSc-ILD patients, the median value of Tmax was 2.8 days after the tocilizumab every week dose.
+
 Distribution
 
 Following intravenous dosing, tocilizumab undergoes biphasic elimination from the circulation.
 In rheumatoid arthritis patients the central volume of distribution was 3.5 L and the peripheral volume of distribution was 2.9 L, resulting in a volume of distribution at steady state of 6.4 L.
 
 In GCA patients, the central volume of distribution was 4.09 L, the peripheral volume of distribution was 3.37 L resulting in a volume of distribution at steady state of 7.46 L.
+
+In SSc-ILD patients, the central volume of distribution was 4.16 L, the peripheral volume of distribution was 2.58 L resulting in a volume of distribution at steady state of 6.74 L.
 
 In pediatric patients with PJIA, the central volume of distribution was 1.98 L, the peripheral volume of distribution was 2.1 L, resulting in a volume of distribution at steady state of 4.08 L.
 
@@ -144,7 +156,7 @@ The pharmacokinetic parameters of ACTEMRA do not change with time.
 
 Population pharmacokinetic analyses in any patient population tested so far indicate no relationship between apparent clearance and the presence of anti-drug antibodies.
 
-The linear clearance in the population pharmacokinetic analysis was estimated to be 12.5 mL per h in RA patients, 6.7 mL per h in GCA patients, 5.8 mL per h in pediatric patients with PJIA, and 5.7 mL per h in pediatric patients with SJIA.
+The linear clearance in the population pharmacokinetic analysis was estimated to be 12.5 mL per h in RA patients, 6.7 mL per h in GCA patients, 8.8 mL per h in SSc-ILD patients, 5.8 mL per h in pediatric patients with PJIA, and 5.7 mL per h in pediatric patients with SJIA.
 
 Due to the dependence of total clearance on ACTEMRA serum concentrations, the half-life of ACTEMRA is also concentration-dependent and varies depending on the serum concentration level.
 
@@ -152,6 +164,8 @@ For intravenous administration in RA patients, the concentration-dependent appar
 For subcutaneous administration in RA patients, the concentration-dependent apparent t1/2 is up to 13 days for 162 mg every week and 5 days for 162 mg every other week in patients with RA at steady-state.
 
 In GCA patients at steady state, the effective t1/2 of tocilizumab varied between 18.3 and 18.9 days for 162 mg subcutaneously every week dosing regimen and between 4.2 and 7.9 days for 162 mg subcutaneously every other week dosing regimen.
+
+In SSc-ILD patients at steady state, the effective t1/2 of tocilizumab varied between 12.1 and 13.0 days for the 162 mg subcutaneous every week dosing regimen.
 
 The t1/2 of tocilizumab in children with PJIA is up to 17 days for the two body weight categories (8 mg/kg for body weight at or above 30 kg or 10 mg/kg for body weight below 30 kg) during a dosing interval at steady state.
 For subcutaneous administration, the t1/2 of tocilizumab in PJIA patients is up to 10 days for the two body weight categories (every other week regimen for body weight at or above 30 kg or every 3 week regimen for body weight less than 30 kg) during a dosing interval at steady state.
@@ -179,7 +193,7 @@ Renal Impairment
 
 No formal study of the effect of renal impairment on the pharmacokinetics of tocilizumab was conducted.
 
-Most of the RA and GCA patients in the population pharmacokinetic analysis had normal renal function or mild renal impairment.
+Most of the RA, GCA, and SSc-ILD patients in the population pharmacokinetic analysis had normal renal function or mild renal impairment.
 Mild renal impairment (estimated creatinine clearance less than 80 mL per min and at or above 50 mL per min based on Cockcroft-Gault formula) did not impact the pharmacokinetics of tocilizumab.
 
 Approximately one-third of the patients in the GCA clinical trial had moderate renal impairment at baseline (estimated creatinine clearance of 30-59 mL/min).
