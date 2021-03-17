@@ -36,11 +36,6 @@ One level scoop delivers 1 g of powder, which contains 40 mg of TDF.
 VIREAD oral powder should be mixed in a container with 2 to 4 ounces of soft food not requiring chewing (e.g., applesauce, baby food, yogurt).
 The entire mixture should be ingested immediately to avoid a bitter taste.
 Do not administer VIREAD oral powder in a liquid as the powder may float on top of the liquid even after stirring.
-Further patient instructions on how to administer VIREAD oral powder with the supplied dosing scoop are provided in the FDA-approved patient labeling (Patient Information).VIREAD oral powder should be measured only with the supplied dosing scoop.
-One level scoop delivers 1 g of powder, which contains 40 mg of TDF.
-VIREAD oral powder should be mixed in a container with 2 to 4 ounces of soft food not requiring chewing (e.g., applesauce, baby food, yogurt).
-The entire mixture should be ingested immediately to avoid a bitter taste.
-Do not administer VIREAD oral powder in a liquid as the powder may float on top of the liquid even after stirring.
 Further patient instructions on how to administer VIREAD oral powder with the supplied dosing scoop are provided in the FDA-approved patient labeling (Patient Information).
 
 Table 2 Dosing for Patients 2 Years and Older Weighing at least 10 kg Using VIREAD Oral Powder
@@ -70,9 +65,9 @@ Table 3 Dosage Interval Adjustment for Adult Patients with Altered Creatinine Cl
 
 | 50 or greater | 30–49 | 10–29 |  |  |
 | --- | --- | --- | --- | --- |
-|  | Creatinine Clearance (mL/min) Calculated using ideal (lean) body weight. |  |  | Hemodialysis Patients |
-| Recommended 300 mg Dosing Interval | Every 24 hours | Every 48 hours | Every 72 to 96 hours | Every 7 days or after a total of approximately 12 hours of dialysis Generally once weekly assuming 3 hemodialysis sessions a week of approximately 4 hours' duration. VIREAD should be administered following completion of dialysis. |
+|  | Creatinine Clearance (mL/min)Calculated using ideal (lean) body weight. |  |  | Hemodialysis Patients |
+| Recommended 300 mg Dosing Interval | Every 24 hours | Every 48 hours | Every 72 to 96 hours | Every 7 days or after a total of approximately 12 hours of dialysisGenerally once weekly assuming 3 hemodialysis sessions a week of approximately 4 hours' duration. VIREAD should be administered following completion of dialysis. |
 
-No data are available to make dosage recommendations in patients with creatinine clearance below 10 mL/min who are not on hemodialysis.No data are available to make dosage recommendations in patients with creatinine clearance below 10 mL/min who are not on hemodialysis.
+No data are available to make dosage recommendations in patients with creatinine clearance below 10 mL/min who are not on hemodialysis.
 
-No data are available to make dosage recommendations in pediatric patients with renal impairment.No data are available to make dosage recommendations in pediatric patients with renal impairment.
+No data are available to make dosage recommendations in pediatric patients with renal impairment.

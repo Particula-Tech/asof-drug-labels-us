@@ -1,6 +1,6 @@
 # Instructions for Use
 
-VIREAD ® (VEER-ee-ad) (tenofovir disoproxil fumarate) powder for oral use
+VIREAD® (VEER-ee-ad) (tenofovir disoproxil fumarate) powder for oral use
 
 Read the Patient Information that comes with VIREAD powder for important information about VIREAD.
 

@@ -26,13 +26,13 @@ The most common adverse reactions were mild to moderate gastrointestinal events 
 Mild adverse reactions (Grade 1) were common with a similar incidence in both arms and included dizziness, diarrhea, and nausea.
 Table 4 provides the treatment-emergent adverse reactions (Grades 2–4) occurring in greater than or equal to 5% of subjects treated in any treatment group.
 
-Table 4 Selected Adverse Reactions Frequencies of adverse reactions are based on all treatment-emergent adverse events, regardless of relationship to study drug.
+Table 4 Selected Adverse ReactionsFrequencies of adverse reactions are based on all treatment-emergent adverse events, regardless of relationship to study drug.
 (Grades 2–4) Reported in ≥5% in Any Treatment Group in Trial 903 (0–144 Weeks)
 
 |  | N=299 | N=301 |
 | --- | --- | --- |
 |  | VIREAD+3TC+EFV | d4T+3TC+EFV |
-| Rash event Rash event includes rash, pruritus, maculopapular rash, urticaria, vesiculobullous rash, and pustular rash. | 18% | 12% |
+| Rash eventRash event includes rash, pruritus, maculopapular rash, urticaria, vesiculobullous rash, and pustular rash. | 18% | 12% |
 | Headache | 14% | 17% |
 | Pain | 13% | 12% |
 | Diarrhea | 11% | 13% |
@@ -50,8 +50,8 @@ Table 4 Selected Adverse Reactions Frequencies of adverse reactions are based on
 | Dyspepsia | 4% | 5% |
 | Dizziness | 3% | 6% |
 | Myalgia | 3% | 5% |
-| Lipodystrophy Lipodystrophy represents a variety of investigator-described adverse events not a protocol-defined syndrome. | 1% | 8% |
-| Peripheral neuropathy Peripheral neuropathy includes peripheral neuritis and neuropathy. | 1% | 5% |
+| LipodystrophyLipodystrophy represents a variety of investigator-described adverse events not a protocol-defined syndrome. | 1% | 8% |
+| Peripheral neuropathyPeripheral neuropathy includes peripheral neuritis and neuropathy. | 1% | 5% |
 
 Laboratory Abnormalities: Table 5 provides a list of laboratory abnormalities (Grades 3–4) observed in Trial 903.
 With the exception of fasting cholesterol and fasting triglyceride elevations that were more common in the d4T group (40% and 9%) compared with the VIREAD group (19% and 1%), respectively, laboratory abnormalities observed in this trial occurred with similar frequency in the VIREAD and d4T treatment arms.
@@ -68,7 +68,7 @@ Table 5 Grades 3–4 Laboratory Abnormalities Reported in ≥1% of VIREAD-Treate
 | AST (M: >180 U/L; F: >170 U/L) | 5% | 7% |
 | ALT (M: >215 U/L; F: >170 U/L) | 4% | 5% |
 | Hematuria (>100 RBC/HPF) | 7% | 7% |
-| Neutrophils (<750/mm 3) | 3% | 1% |
+| Neutrophils (<750/mm3) | 3% | 1% |
 | Fasting Triglycerides (>750 mg/dL) | 1% | 9% |
 
 Changes in Bone Mineral Density: In HIV-1 infected adult subjects in Trial 903, there was a significantly greater mean percentage decrease from baseline in BMD at the lumbar spine in subjects receiving VIREAD + 3TC + EFV (−2.2% ± 3.9) compared with subjects receiving d4T + 3TC + EFV (−1.0% ± 4.6) through 144 weeks.
@@ -82,12 +82,12 @@ In Trial 934, 511 antiretroviral-naïve subjects received efavirenz (EFV) admini
 The most common adverse reactions (incidence greater than or equal to 10%, all grades) included diarrhea, nausea, fatigue, headache, dizziness, depression, insomnia, abnormal dreams, and rash.
 Table 6 provides the treatment-emergent adverse reactions (Grades 2–4) occurring in greater than or equal to 5% of subjects treated in any treatment group.
 
-Table 6 Selected Adverse Reactions Frequencies of adverse reactions are based on all treatment-emergent adverse events, regardless of relationship to study drug.
+Table 6 Selected Adverse ReactionsFrequencies of adverse reactions are based on all treatment-emergent adverse events, regardless of relationship to study drug.
 (Grades 2–4) Reported in ≥5% in Any Treatment Group in Trial 934 (0–144 Weeks)
 
 |  | N=257 | N=254 |
 | --- | --- | --- |
-|  | VIREAD From Weeks 96 to 144 of the trial, subjects received TRUVADA ® with EFV in place of VIREAD + FTC with EFV. +FTC+EFV | AZT/3TC+EFV |
+|  | VIREADFrom Weeks 96 to 144 of the trial, subjects received TRUVADA® with EFV in place of VIREAD + FTC with EFV.+FTC+EFV | AZT/3TC+EFV |
 | Fatigue | 9% | 8% |
 | Depression | 9% | 7% |
 | Nausea | 9% | 7% |
@@ -95,7 +95,7 @@ Table 6 Selected Adverse Reactions Frequencies of adverse reactions are based on
 | Dizziness | 8% | 7% |
 | Upper respiratory tract infections | 8% | 5% |
 | Sinusitis | 8% | 4% |
-| Rash event Rash event includes rash, exfoliative rash, rash generalized, rash macular, rash maculopapular, rash pruritic, and rash vesicular. | 7% | 9% |
+| Rash eventRash event includes rash, exfoliative rash, rash generalized, rash macular, rash maculopapular, rash pruritic, and rash vesicular. | 7% | 9% |
 | Headache | 6% | 5% |
 | Insomnia | 5% | 7% |
 | Nasopharyngitis | 5% | 3% |
@@ -107,7 +107,7 @@ Table 7 Significant Laboratory Abnormalities Reported in ≥1% of Subjects in An
 
 |  | N=257 | N=254 |
 | --- | --- | --- |
-|  | VIREAD+FTC+EFV From Weeks 96 to 144 of the trial, subjects received TRUVADA with EFV in place of VIREAD + FTC with EFV. | AZT/3TC+EFV |
+|  | VIREAD+FTC+EFVFrom Weeks 96 to 144 of the trial, subjects received TRUVADA with EFV in place of VIREAD + FTC with EFV. | AZT/3TC+EFV |
 | Any ≥ Grade 3 Laboratory Abnormality | 30% | 26% |
 | Fasting Cholesterol (>240 mg/dL) | 22% | 24% |
 | Creatine Kinase (M: >990 U/L; F: >845 U/L) | 9% | 7% |
@@ -119,7 +119,7 @@ Table 7 Significant Laboratory Abnormalities Reported in ≥1% of Subjects in An
 | Hyperglycemia (>250 mg/dL) | 2% | 1% |
 | Hematuria (>75 RBC/HPF) | 3% | 2% |
 | Glycosuria (≥3+) | <1% | 1% |
-| Neutrophils (<750/mm 3) | 3% | 5% |
+| Neutrophils (<750/mm3) | 3% | 5% |
 | Fasting Triglycerides (>750 mg/dL) | 4% | 2% |
 
 Clinical Trials in Treatment-Experienced HIV-1 Infected Adult Subjects
@@ -128,7 +128,7 @@ In Trial 907, the adverse reactions seen in HIV-1 infected treatment-experienced
 Less than 1% of subjects discontinued participation in the clinical trials due to gastrointestinal adverse reactions.
 Table 8 provides the treatment-emergent adverse reactions (Grades 2–4) occurring in greater than or equal to 3% of subjects treated in any treatment group.
 
-Table 8 Selected Adverse Reactions Frequencies of adverse reactions are based on all treatment-emergent adverse events, regardless of relationship to study drug.
+Table 8 Selected Adverse ReactionsFrequencies of adverse reactions are based on all treatment-emergent adverse events, regardless of relationship to study drug.
 (Grades 2–4) Reported in ≥3% in Any Treatment Group in Trial 907 (0–48 Weeks)
 
 |  | VIREAD N=368 (Week 0–24) | Placebo N=182 (Week 0–24) | VIREAD N=368 (Week 0–48) | Placebo Crossover to VIREAD N=170 (Week 24–48) |
@@ -153,10 +153,10 @@ Table 8 Selected Adverse Reactions Frequencies of adverse reactions are based on
 | Nervous System |  |  |  |  |
 | Depression | 4% | 3% | 8% | 4% |
 | Insomnia | 3% | 2% | 4% | 4% |
-| Peripheral neuropathy Peripheral neuropathy includes peripheral neuritis and neuropathy. | 3% | 3% | 5% | 2% |
+| Peripheral neuropathyPeripheral neuropathy includes peripheral neuritis and neuropathy. | 3% | 3% | 5% | 2% |
 | Dizziness | 1% | 3% | 3% | 1% |
 | Skin and Appendage |  |  |  |  |
-| Rash event Rash event includes rash, pruritus, maculopapular rash, urticaria, vesiculobullous rash, and pustular rash. | 5% | 4% | 7% | 1% |
+| Rash eventRash event includes rash, pruritus, maculopapular rash, urticaria, vesiculobullous rash, and pustular rash. | 5% | 4% | 7% | 1% |
 | Sweating | 3% | 2% | 3% | 1% |
 | Musculoskeletal |  |  |  |  |
 | Myalgia | 3% | 3% | 4% | 1% |
@@ -178,7 +178,7 @@ Table 9 Grades 3–4 Laboratory Abnormalities Reported in ≥1% of VIREAD-Treate
 | AST (M: >180 U/L; F: >170 U/L) | 3% | 3% | 4% | 5% |
 | ALT (M: >215 U/L; F: >170 U/L) | 2% | 2% | 4% | 5% |
 | Serum Glucose (>250 U/L) | 2% | 4% | 3% | 3% |
-| Neutrophils (<750/mm 3) | 1% | 1% | 2% | 1% |
+| Neutrophils (<750/mm3) | 1% | 1% | 2% | 1% |
 
 Adverse Reactions from Clinical Trials Experience in HIV-1 Infected Pediatric Subjects 2 Years and Older
 
@@ -202,7 +202,7 @@ Adverse Reactions from Clinical Trials Experience in HBV-Infected Adults
 
 Clinical Trials in Adult Subjects with Chronic Hepatitis B and Compensated Liver Disease
 
-In controlled clinical trials in 641 subjects with chronic hepatitis B (0102 and 0103), more subjects treated with VIREAD during the 48-week double-blind period experienced nausea: 9% with VIREAD versus 2% with HEPSERA ®.
+In controlled clinical trials in 641 subjects with chronic hepatitis B (0102 and 0103), more subjects treated with VIREAD during the 48-week double-blind period experienced nausea: 9% with VIREAD versus 2% with HEPSERA®.
 Other treatment-emergent adverse reactions reported in more than 5% of subjects treated with VIREAD included: abdominal pain, diarrhea, headache, dizziness, fatigue, nasopharyngitis, back pain, and skin rash.
 
 In Trials 0102 and 0103, during the open-label phase of treatment with VIREAD (weeks 48–384), 2% of subjects (13/585) experienced a confirmed increase in serum creatinine of 0.5 mg/dL from baseline.
