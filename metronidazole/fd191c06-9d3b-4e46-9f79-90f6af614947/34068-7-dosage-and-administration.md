@@ -35,7 +35,7 @@ The usual adult oral dosage is 7.5 mg/kg every six hours.
 
 A maximum of 4 g should not be exceeded during a 24-hour period.
 
-CAUTION: Metronidazole Injection USP is to be administered by slow intravenous drip infusion only, either as a continuous or intermittent infusion.
+Caution: Metronidazole Injection USP is to be administered by slow intravenous drip infusion only, either as a continuous or intermittent infusion.
 IV admixtures containing metronidazole and other drugs should be avoided.
 Additives should not be introduced into this solution.
 If used with a primary intravenous fluid system, the primary solution should be discontinued during metronidazole infusion.

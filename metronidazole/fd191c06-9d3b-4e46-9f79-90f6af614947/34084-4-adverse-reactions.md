@@ -9,6 +9,9 @@ GASTROINTESTINAL: Nausea, vomiting, abdominal discomfort, diarrhea, and an unple
 
 HEMATOPOIETIC: Reversible neutropenia (leukopenia).
 
+CARDIOVASCULAR: QT prolongation has been reported, particularly when metronidazole was administered with drugs with the potential for prolonging the QT interval.
+Flattening of the T-wave may be seen in electrocardiographic tracings.
+
 DERMATOLOGIC: Erythematous rash and pruritus.
 
 CENTRAL NERVOUS SYSTEM: Encephalopathy, aseptic meningitis, convulsive seizures, optic neuropathy, peripheral neuropathy, dizziness, vertigo, incoordination, ataxia, confusion, psychosis, dysarthria, irritability, depression, weakness, and insomnia.
@@ -29,7 +32,8 @@ Furry tongue, glossitis, and stomatitis have occurred; these may be associated w
 
 HEMATOPOIETIC: Reversible neutropenia (leukopenia); rarely, reversible thrombocytopenia.
 
-CARDIOVASCULAR: Flattening of the T-wave may be seen in electrocardiographic tracings.
+CARDIOVASCULAR: QT prolongation has been reported, particularly when metronidazole was administered with drugs with the potential for prolonging the QT interval.
+Flattening of the T-wave may be seen in electrocardiographic tracings.
 
 CENTRAL NERVOUS SYSTEM: Encephalopathy, aseptic meningitis, convulsive seizures, optic neuropathy, peripheral neuropathy, dizziness, vertigo, incoordination, ataxia, confusion, psychosis, dysarthria, irritability, depression, weakness, and insomnia.
 
@@ -38,11 +42,11 @@ HYPERSENSITIVITY: Urticaria, erythematous rash, Stevens-Johnson Syndrome, flushi
 RENAL: Dysuria, cystitis, polyuria, incontinence, a sense of pelvic pressure, and darkened urine.
 
 OTHER: Hiccup.
-Proliferation of Candida in the vagina, dyspareunia, decrease of libido, proctitis, and fleeting joint pains sometimes resembling "serum sickness".
+Proliferation of Candida in the vagina, dyspareunia, decrease of libido, proctitis, and fleeting joint pains sometimes resembling “serum sickness”.
 If patients receiving metronidazole drink alcoholic beverages, they may experience abdominal distress, nausea, vomiting, flushing, or headache.
 A modification of the taste of alcoholic beverages has also been reported.
 
-Crohn's disease patients are known to have an increased incidence of gastrointestinal and certain extraintestinal cancers.
-There have been some reports in the medical literature of breast and colon cancer in Crohn's disease patients who have been treated with metronidazole at high doses for extended periods of time.
+Crohn’s disease patients are known to have an increased incidence of gastrointestinal and certain extraintestinal cancers.
+There have been some reports in the medical literature of breast and colon cancer in Crohn’s disease patients who have been treated with metronidazole at high doses for extended periods of time.
 A cause and effect relationship has not been established.
-Crohn's disease is not an approved indication for Metronidazole Injection USP.
+Crohn’s disease is not an approved indication for Metronidazole Injection USP.

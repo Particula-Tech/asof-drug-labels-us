@@ -26,7 +26,7 @@ In one study newborn infants appeared to demonstrate diminished capacity to elim
 The elimination half-life, measured during the first three days of life, was inversely related to gestational age.
 In infants whose gestational ages were between 28 and 40 weeks, the corresponding elimination half-lives ranged from 109 to 22.5 hours.
 
-## MICROBIOLOGY
+## MICROBIOLOGY:
 
 ### Mechanism of Action
 
@@ -50,23 +50,28 @@ Metronidazole has been shown to be active against most isolates of the following
 
 ### Gram negative anaerobes:
 
-- Bacteroides fragilis group (B. fragilis, B. distasonis, B. ovatus, B. thetaiotaomicron, B. vulgatus)
-- Fusobacterium species
+Bacteroides fragilis group (B. fragilis, B. distasonis, B. ovatus, B. thetaiotaomicron, B. vulgatus)
+
+Fusobacterium species
 
 ### Gram positive anaerobes:
 
-- Clostridium species
-- Eubacterium species
-- Peptococcus species
-- Peptostreptococcus species
+Clostridium species
+
+Eubacterium species
+
+Peptococcus species
+
+Peptostreptococcus species
 
 The following in vitro data are available, but their clinical significance is unknown: Metronidazole exhibits in vitro minimal inhibitory concentrations (MIC’s) of 8 mcg/mL or less against most (≥90%) isolates of the following bacteria; however, the safety and effectiveness of metronidazole in treating clinical infections due to these bacteria have not been established in adequate and well-controlled clinical trials.
 
 ### Gram negative anaerobes
 
-- Bacteroides fragilis group (B. caccae, B. uniformis)
-- Prevotella species (P. bivia, P. buccae, P. disiens)
+Bacteroides fragilis group (B. caccae, B. uniformis)
 
-## Susceptibility Testing
+Prevotella species (P. bivia, P. buccae, P. disiens)
+
+## Susceptibility Testing:
 
 For specific information regarding susceptibility test interpretive criteria, and associated test methods and quality control standards recognized by FDA for this drug, please see: http://www.fda.gov/STIC.

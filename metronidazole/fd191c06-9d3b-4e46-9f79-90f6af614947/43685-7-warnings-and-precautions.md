@@ -1,11 +1,11 @@
 # WARNINGS
 
-## CENTRAL AND PERIPHERAL NERVOUS SYSTEM EFFECTS
+## CENTRAL AND PERIPHERAL NERVOUS SYSTEM EFFECTS:
 
 Convulsive seizures, encephalopathy, aseptic meningitis, optic and peripheral neuropathy, the latter characterized mainly by numbness or paresthesia of an extremity, have been reported in patients treated with metronidazole.
 The appearance of abnormal neurologic signs demands the prompt evaluation of the benefit/risk ratio of the continuation of therapy.
 
-## RISK OF HEPATOTOXICITY AND DEATH IN PATIENTS WITH COCKAYNE SYNDROME
+## RISK OF HEPATOTOXICITY AND DEATH IN PATIENTS WITH COCKAYNE SYNDROME:
 
 Cases of severe hepatotoxicity/acute hepatic failure, including cases with a fatal outcome with very rapid onset after treatment initiation in patients with Cockayne syndrome have been reported with products containing metronidazole for systemic use.
 In this population, metronidazole should therefore be used after careful benefit-risk assessment and only if no alternative treatment is available.
@@ -16,7 +16,7 @@ Advise patients with Cockayne syndrome to stop taking metronidazole immediately 
 
 # PRECAUTIONS
 
-## GENERAL
+## GENERAL:
 
 Patients with severe hepatic disease metabolize metronidazole slowly, with resultant accumulation of metronidazole and its metabolites in the plasma.
 Accordingly, for such patients, doses below those usually recommended should be administered cautiously.
@@ -28,20 +28,20 @@ Known or previously unrecognized candidiasis may present more prominent symptoms
 
 Prescribing Metronidazole Injection USP in the absence of a proven or strongly suspected bacterial infection or a prophylactic indication is unlikely to provide benefit to the patient and increases the risk of the development of drug-resistant bacteria.
 
-## INFORMATION FOR PATIENTS
+## INFORMATION FOR PATIENTS:
 
 Patients should be counseled that antibacterial drugs including Metronidazole Injection USP should only be used to treat bacterial infections.
 They do not treat viral infections (e.g., the common cold).
 When Metronidazole Injection USP is prescribed to treat a bacterial infection, patients should be told that although it is common to feel better early in the course of therapy, the medication should be taken exactly as directed.
 Skipping doses or not completing the full course of therapy may (1) decrease the effectiveness of the immediate treatment and (2) increase the likelihood that bacteria will develop resistance and will not be treatable by Metronidazole Injection USP or other antibacterial drugs in the future.
 
-## LABORATORY TESTS
+## LABORATORY TESTS:
 
 Metronidazole is a nitroimidazole, and Metronidazole Injection USP should be used with caution in patients with evidence of or history of blood dyscrasia.
 A mild leukopenia has been observed during its administration; however, no persistent hematologic abnormalities attributable to metronidazole have been observed in clinical studies.
 Total and differential leukocyte counts are recommended before and after therapy.
 
-## DRUG INTERACTIONS
+## DRUG INTERACTIONS:
 
 Metronidazole has been reported to potentiate the anticoagulant effect of warfarin and other oral coumarin anticoagulants, resulting in a prolongation of prothrombin time.
 This possible drug interaction should be considered when Metronidazole Injection USP is prescribed for patients on this type of anticoagulant therapy.
@@ -55,7 +55,9 @@ Alcoholic beverages should not be consumed during metronidazole therapy because 
 Psychotic reactions have been reported in alcoholic patients who are using metronidazole and disulfiram concurrently.
 Metronidazole should not be given to patients who have taken disulfiram within the last two weeks.
 
-## DRUG/LABORATORY TEST INTERACTIONS
+QT prolongation has been reported, particularly when metronidazole was administered with drugs with the potential for prolonging the QT interval.
+
+## DRUG/LABORATORY TEST INTERACTIONS:
 
 Metronidazole may interfere with certain types of determinations of serum chemistry values, such as aspartate aminotransferase (AST, SGOT), alanine aminotransferase (ALT, SGPT), lactate dehydrogenase (LDH), triglycerides, and hexokinase glucose.
 Values of zero may be observed.
@@ -64,26 +66,25 @@ Interference is due to the similarity in absorbance peaks of NADH (340 nm) and m
 
 ## CARCINOGENESIS, MUTAGENESIS, IMPAIRMENT OF FERTILITY
 
-### Tumorigenicity in Rodents
+### Tumorigenicity in Rodents:
 
 Metronidazole has shown evidence of carcinogenic activity in studies involving chronic, oral administration in mice and rats, but similar studies in the hamster gave negative results.
 Also, metronidazole has shown mutagenic activity in a number of in vitro assay systems, but studies in mammals (in vivo) failed to demonstrate a potential for genetic damage.
 
-## PREGNANCY
+## PREGNANCY:
 
-### Teratogenic Effects
-
+Teratogenic Effects.
 Metronidazole crosses the placental barrier and enters the fetal circulation rapidly.
 Reproduction studies have been performed in rats at doses up to five times the human dose and have revealed no evidence of impaired fertility or harm to the fetus due to metronidazole.
 Metronidazole administered intraperitoneally to pregnant mice at approximately the human dose caused fetotoxicity; administered orally to pregnant mice, no fetotoxicity was observed.
 There are, however, no adequate and well-controlled studies in pregnant women.
 Because animal reproduction studies are not always predictive of human response, and because metronidazole is a carcinogen in rodents, this drug should be used during pregnancy only if clearly needed (see CONTRAINDICATIONS).
 
-## NURSING MOTHERS
+## NURSING MOTHERS:
 
 Metronidazole is secreted in human milk in concentrations similar to those found in plasma.
 Because of the potential for tumorigenicity shown for metronidazole in mouse and rat studies, a decision should be made whether to discontinue nursing or to discontinue the drug, taking into account the importance of the drug to the mother.
 
-## PEDIATRIC USE
+## PEDIATRIC USE:
 
 Safety and effectiveness in children have not been established.

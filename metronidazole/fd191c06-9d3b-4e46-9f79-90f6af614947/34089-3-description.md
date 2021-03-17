@@ -16,7 +16,6 @@ The plastic container is a copolymer of ethylene and propylene formulated and de
 The copolymer contains no plasticizers.
 The safety of the plastic container has been confirmed by biological evaluation procedures.
 
-The material passes Class VI testing as specified in the U.S. Pharmacopeia for Biological Tests–Plastic Containers.
+The material passes Class VI testing as specified in the U.S. Pharmacopeia for Biological Tests – Plastic Containers.
 The container/solution unit is a closed system and is not dependent upon entry of external air during administration.
-
 No vapor barrier is necessary.
