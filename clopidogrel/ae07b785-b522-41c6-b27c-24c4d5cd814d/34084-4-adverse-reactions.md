@@ -2,12 +2,12 @@
 
 The following serious adverse reactions are discussed below and elsewhere in the labeling:
 
-- Bleeding [seeWarningsandPrecautions(5.2)]
-- Thrombotic thrombocytopenic purpura [seeWarningsandPrecautions(5.4)]
+- Bleeding [see Warnings and Precautions(5.2)]
+- Thrombotic thrombocytopenic purpura [seeWarnings and Precautions (5.4)]
 
 ## 6.1 Clinical Trials Experience
 
-Because clinical trials are conducted under widely varying conditions and durations of follow up, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in practice.
+Because clinical trials are conducted under widely varying conditions and durations of follow-up, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in practice.
 
 Clopidogrel bisulfate has been evaluated for safety in more than 54,000 patients, including over 21,000 patients treated for 1 year or more.
 The clinically important adverse reactions observed in trials comparing clopidogrel bisulfate plus aspirin to placebo plus aspirin and trials comparing clopidogrel bisulfate alone to aspirin alone are discussed below.
@@ -80,7 +80,7 @@ Hemorrhages, including those with fatal outcome, have been reported in patients 
 - Gastrointestinal disorders: Colitis (including ulcerative or lymphocytic colitis), pancreatitis, stomatitis, gastric/duodenal ulcer, diarrhea
 - General disorders and administration site condition: Fever
 - Hepatobiliary disorders: Acute liver failure, hepatitis (noninfectious), abnormal liver function test
-- Immune system disorders: Hypersensitivity reactions, anaphylactoid reactions, serum sickness, insulin autoimmune syndrome, which can lead to severe hypoglycemia.
+- Immune system disorders: Hypersensitivity reactions, anaphylactoid reactions, serum sickness, insulin autoimmune syndrome, which can lead to severe hypoglycemia
 - Musculoskeletal, connective tissue and bone disorders: Myalgia, arthralgia, arthritis
 - Nervous system disorders: Taste disorders, headache, ageusia
 - Psychiatric disorders: Confusion, hallucinations

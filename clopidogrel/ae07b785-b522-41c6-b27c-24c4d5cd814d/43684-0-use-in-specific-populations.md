@@ -33,7 +33,7 @@ The available data from published case reports over two decades of postmarketing
 Animal data
 
 Embryo-fetal developmental toxicology studies were performed in pregnant rats and rabbits with doses up to 500 and 300 mg/kg/day, respectively, administered during organogenesis.
-These doses, corresponding to 65 and 78 times the recommended daily human dose, respectively, on a mg/m2 basis, revealed no evidence of impaired fertility or fetotoxicity due to clopidogrel.
+These doses, corresponding to 65 and 78 times the recommended daily human dose, respectively, on a mg/m 2 basis, revealed no evidence of impaired fertility or fetotoxicity due to clopidogrel.
 
 ## 8.2 Lactation
 
@@ -63,7 +63,7 @@ No dosage adjustment is necessary in elderly patients.
 
 ## 8.6 Renal Impairment
 
-Experience is limited in patients with severe and moderate renal impairment [see Clinical Pharmacology (12.2)].
+Experience is limited in patients with severe and moderate renal impairment [seeClinicalPharmacology(12.2)].
 
 ## 8.7 Hepatic Impairment
 
