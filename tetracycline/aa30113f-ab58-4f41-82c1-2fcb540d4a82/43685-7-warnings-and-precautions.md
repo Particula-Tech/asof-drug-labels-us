@@ -106,13 +106,13 @@ Tetracycline hydrochloride had no effect on fertility when administered in the d
 
 ## Pregnancy
 
-### Teratogenic Effects
+Teratogenic Effects
 
-#### Pregnancy Category D
+Pregnancy Category D
 
 (see WARNINGS)
 
-### Nonteratogenic Effects
+Nonteratogenic Effects
 
 (see WARNINGS)
 
