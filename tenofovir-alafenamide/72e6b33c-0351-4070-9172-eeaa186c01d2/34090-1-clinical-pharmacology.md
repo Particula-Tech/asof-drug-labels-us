@@ -20,28 +20,28 @@ Table 5 Pharmacokinetic Properties of VEMLIDY
 |  | Tenofovir Alafenamide |
 | --- | --- |
 | Absorption |  |
-| T max (h) | 0.48 |
-| Effect of high fat meal (relative to fasting): AUC last Ratio Values refer to geometric mean ratio in AUC last [fed/fasted] and (90% confidence interval). High fat meal = ~800 kcal, 50% fat. | 1.65 (1.51, 1.81) |
+| Tmax (h) | 0.48 |
+| Effect of high fat meal (relative to fasting): AUClast RatioValues refer to geometric mean ratio in AUClast [fed/fasted] and (90% confidence interval). High fat meal = ~800 kcal, 50% fat. | 1.65 (1.51, 1.81) |
 | Distribution |  |
 | % Bound to human plasma proteins | 80% |
 | Source of protein binding data | Ex vivo |
 | Blood-to-plasma ratio | 1.0 |
 | Metabolism |  |
-| Metabolism In vivo, TAF is hydrolyzed within cells to form tenofovir (major metabolite), which is phosphorylated to the active metabolite, tenofovir diphosphate. In vitro studies have shown that TAF is metabolized to tenofovir by CES1 in hepatocytes, and by cathepsin A in PBMCs and macrophages. | CES1 (hepatocytes) Cathepsin A (PBMCs) CYP3A (minimal) |
+| MetabolismIn vivo, TAF is hydrolyzed within cells to form tenofovir (major metabolite), which is phosphorylated to the active metabolite, tenofovir diphosphate. In vitro studies have shown that TAF is metabolized to tenofovir by CES1 in hepatocytes, and by cathepsin A in PBMCs and macrophages. | CES1 (hepatocytes) Cathepsin A (PBMCs) CYP3A (minimal) |
 | Elimination |  |
 | Major route of elimination | Metabolism (>80% of oral dose) |
-| t 1/2 (h) t 1/2 values refer to median terminal plasma half-life. | 0.51 |
-| % Of dose excreted in urine Dosing in mass balance study: TAF 25 mg (single dose administration of [14C] TAF). | <1 |
+| t1/2 (h)t1/2 values refer to median terminal plasma half-life. | 0.51 |
+| % Of dose excreted in urineDosing in mass balance study: TAF 25 mg (single dose administration of [14C] TAF). | <1 |
 | % Of dose excreted in feces | 31.7 |
 | CES1 = carboxylesterase 1; PBMCs = peripheral blood mononuclear cells. |  |
 
 Table 6 Multiple Dose PK Parameters of Tenofovir Alafenamide and its Metabolite Tenofovir Following Oral Administration in Adults with Chronic Hepatitis B
 
-| Parameter Mean (CV%) | Tenofovir Alafenamide From Intensive PK analyses in Trial 108 and Trial 110; N = 8. | Tenofovir |
+| Parameter Mean (CV%) | Tenofovir AlafenamideFrom Intensive PK analyses in Trial 108 and Trial 110; N = 8. | Tenofovir |
 | --- | --- | --- |
-| C max (microgram per mL) | 0.27 (63.3) | 0.03 (24.6) |
-| AUC tau (microgram∙hour per mL) | 0.27 (47.8) | 0.40 (35.2) |
-| C trough (microgram per mL) | NA | 0.01 (39.6) |
+| Cmax (microgram per mL) | 0.27 (63.3) | 0.03 (24.6) |
+| AUCtau (microgram∙hour per mL) | 0.27 (47.8) | 0.40 (35.2) |
+| Ctrough (microgram per mL) | NA | 0.01 (39.6) |
 | CV = coefficient of variation; NA = not applicable |  |  |
 
 Specific Populations
@@ -53,7 +53,7 @@ No clinically relevant differences in tenofovir alafenamide or tenofovir pharmac
 
 Patients with Renal Impairment
 
-In a Phase 1, open-label study, tenofovir alafenamide and tenofovir systemic exposures (AUC inf) were evaluated in subjects with severe renal impairment and in subjects with normal renal function (Table 7).
+In a Phase 1, open-label study, tenofovir alafenamide and tenofovir systemic exposures (AUCinf) were evaluated in subjects with severe renal impairment and in subjects with normal renal function (Table 7).
 In an open-label trial of elvitegravir/cobicistat/emtricitabine/tenofovir alafenamide 150/150/200/10 mg, tenofovir alafenamide and tenofovir AUC were evaluated in a subset of virologically suppressed HIV-1 infected subjects with ESRD receiving chronic hemodialysis (Table 7).
 In a Phase 2, open-label trial, tenofovir alafenamide and tenofovir AUC were evaluated in a subset of virologically suppressed HBV-infected subjects with ESRD receiving chronic hemodialysis (Table 7) [see Use in Specific Populations (8.6)].
 The pharmacokinetics of tenofovir alafenamide were similar among subjects with normal renal function, subjects with severe renal impairment, and subjects with ESRD receiving chronic hemodialysis.
@@ -62,15 +62,15 @@ Within the chronic hemodialysis population, increased tenofovir exposures were o
 
 Table 7 Pharmacokinetics of Tenofovir Alafenamide and its Metabolite Tenofovir in Subjects with Renal Impairment as Compared to Subjects with Normal Renal Function
 
-| Estimated Creatinine Clearance By Cockcroft-Gault method. Mean (CV%) | ≥90 mL per minute 25 mg TAF (N=13) PK assessed on a single dose of TAF 25 mg in subjects with normal renal function and in subjects with severe renal impairment. | 15–29 mL per minute 25 mg TAF (N=14) | <15 mL per minute 25 mg TAF PK assessed on the day prior to hemodialysis of TAF 25 mg.These subjects from Study 4035 had a median baseline eGFR by Cockcroft-Gault of 7.2 mL/min (range, 4.8 to 12.0). (N=5) | <15 mL per minute 10 mg TAF Exposures from TAF 25 mg = exposures from TAF 10 mg as part of elvitegravir/cobicistat/emtricitabine/tenofovir alafenamide. PK assessed on the day prior to hemodialysis following 3 consecutive daily doses of elvitegravir/cobicistat/emtricitabine/tenofovir alafenamide.These subjects from Study 1825 had a median baseline eGFR by Cockcroft-Gault of 10.2 mL/min (range, 6.8 to 19.2). (N=12) |
+| Estimated Creatinine ClearanceBy Cockcroft-Gault method. Mean (CV%) | ≥90 mL per minute 25 mg TAF (N=13)PK assessed on a single dose of TAF 25 mg in subjects with normal renal function and in subjects with severe renal impairment. | 15–29 mL per minute 25 mg TAF (N=14) | <15 mL per minute 25 mg TAFPK assessed on the day prior to hemodialysis of TAF 25 mg. These subjects from Study 4035 had a median baseline eGFR by Cockcroft-Gault of 7.2 mL/min (range, 4.8 to 12.0). (N=5) | <15 mL per minute 10 mg TAFExposures from TAF 25 mg = exposures from TAF 10 mg as part of elvitegravir/cobicistat/emtricitabine/tenofovir alafenamide. PK assessed on the day prior to hemodialysis following 3 consecutive daily doses of elvitegravir/cobicistat/emtricitabine/tenofovir alafenamide. These subjects from Study 1825 had a median baseline eGFR by Cockcroft-Gault of 10.2 mL/min (range, 6.8 to 19.2). (N=12) |
 | --- | --- | --- | --- | --- |
 | Tenofovir alafenamide |  |  |  |  |
-| AUC (mcg∙hour per mL) | 0.27 (49.2) AUC inf. | 0.51 (47.3) | 0.30 (26.7) AUC last. | 0.23 (53.2) |
-| C max (mcg per mL) | 0.20 (62.1) | 0.36 (65.7) | 0.23 (48.4) | 0.25 (75.4) |
+| AUC (mcg∙hour per mL) | 0.27 (49.2)AUCinf. | 0.51 (47.3) | 0.30 (26.7)AUClast. | 0.23 (53.2) |
+| Cmax (mcg per mL) | 0.20 (62.1) | 0.36 (65.7) | 0.23 (48.4) | 0.25 (75.4) |
 | Tenofovir |  |  |  |  |
-| AUC (mcg∙hour per mL) | 0.34 (27.2) | 2.07 (47.1) | 18.8 (30.4) AUC tau. | 8.72 (39.4),N=10. |
-| C max (mcg per mL) | 0.01 (36.5) | 0.03 (32.4) | 0.89 (26.4) | 0.44 (40.9) |
-| C 24h (mcg per mL) | 0.004 (25.6) | 0.02 (41.9) | 0.89 (26.4) | 0.26 (73.2) |
+| AUC (mcg∙hour per mL) | 0.34 (27.2) | 2.07 (47.1) | 18.8 (30.4)AUCtau. | 8.72 (39.4),N=10. |
+| Cmax (mcg per mL) | 0.01 (36.5) | 0.03 (32.4) | 0.89 (26.4) | 0.44 (40.9) |
+| C24h (mcg per mL) | 0.004 (25.6) | 0.02 (41.9) | 0.89 (26.4) | 0.26 (73.2) |
 | CV = coefficient of variation |  |  |  |  |
 
 Patients with Hepatic Impairment
@@ -89,36 +89,36 @@ The effects of coadministered drugs on the exposure of tenofovir alafenamide are
 The effects of tenofovir alafenamide on the exposure of coadministered drugs are shown in Table 9 [For information regarding clinical recommendations, see Drug Interactions (7)].
 Information regarding potential drug-drug interactions with HIV antiretrovirals is not provided (see the prescribing information for emtricitabine/tenofovir alafenamide for interactions with HIV antiretrovirals).
 
-Table 8 Drug Interactions: Changes in Pharmacokinetic Parameters for Tenofovir Alafenamide in the Presence of the Coadministered Drug All interaction studies conducted in healthy subjects.
+Table 8 Drug Interactions: Changes in Pharmacokinetic Parameters for Tenofovir Alafenamide in the Presence of the Coadministered DrugAll interaction studies conducted in healthy subjects.
 
-| C max | AUC | C min |  |  |  |  |
+| Cmax | AUC | Cmin |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- |
-| Coadministered Drug | Dose of Coadministered Drug (mg) | Tenofovir Alafenamide (mg) | N | Geometric Mean Ratio of TAF Pharmacokinetic Parameters (90% CI) All no effect boundaries are 70%–143%.; No effect = 1.00 |  |  |
-| Carbamazepine | 300 twice daily | 25 once daily Study conducted with emtricitabine/tenofovir alafenamide. | 26 | 0.43 (0.36, 0.51) | 0.45 (0.40, 0.51) | NC |
-| Cobicistat A representative inhibitor of P-glycoprotein. | 150 once daily | 8 once daily | 12 | 2.83 (2.20, 3.65) | 2.65 (2.29, 3.07) | NC |
-| Ledipasvir/ Sofosbuvir | 90/400 once daily | 25 once daily Study conducted with emtricitabine/rilpivirine/tenofovir alafenamide. | 42 | 1.03 (0.94, 1.14) | 1.32 (1.25, 1.40) | NC |
-| Sertraline | 50 single dose | 10 once daily Study conducted with elvitegravir/cobicistat/emtricitabine/tenofovir alafenamide. | 19 | 1.00 (0.86, 1.16) | 0.96 (0.89, 1.03) | NC |
-| Sofosbuvir/ Velpatasvir/ Voxilaprevir | 400/100/100+ 100 voxilaprevir Study conducted with additional voxilaprevir 100 mg to achieve voxilaprevir exposures expected in HCV-infected patients. once daily | 25 once daily | 30 | 1.32 (1.17, 1.48) | 1.52 (1.43, 1.61) | NC |
+| Coadministered Drug | Dose of Coadministered Drug (mg) | Tenofovir Alafenamide (mg) | N | Geometric Mean Ratio of TAF Pharmacokinetic Parameters (90% CI)All no effect boundaries are 70%–143%.; No effect = 1.00 |  |  |
+| Carbamazepine | 300 twice daily | 25 once dailyStudy conducted with emtricitabine/tenofovir alafenamide. | 26 | 0.43 (0.36, 0.51) | 0.45 (0.40, 0.51) | NC |
+| CobicistatA representative inhibitor of P-glycoprotein. | 150 once daily | 8 once daily | 12 | 2.83 (2.20, 3.65) | 2.65 (2.29, 3.07) | NC |
+| Ledipasvir/ Sofosbuvir | 90/400 once daily | 25 once dailyStudy conducted with emtricitabine/rilpivirine/tenofovir alafenamide. | 42 | 1.03 (0.94, 1.14) | 1.32 (1.25, 1.40) | NC |
+| Sertraline | 50 single dose | 10 once dailyStudy conducted with elvitegravir/cobicistat/emtricitabine/tenofovir alafenamide. | 19 | 1.00 (0.86, 1.16) | 0.96 (0.89, 1.03) | NC |
+| Sofosbuvir/ Velpatasvir/ Voxilaprevir | 400/100/100+ 100 voxilaprevirStudy conducted with additional voxilaprevir 100 mg to achieve voxilaprevir exposures expected in HCV-infected patients. once daily | 25 once daily | 30 | 1.32 (1.17, 1.48) | 1.52 (1.43, 1.61) | NC |
 | NC = not calculated |  |  |  |  |  |  |
 
-Table 9 Drug Interactions: Changes in Pharmacokinetic Parameters for Coadministered Drug in the Presence of Tenofovir Alafenamide All interaction studies conducted in healthy subjects.
+Table 9 Drug Interactions: Changes in Pharmacokinetic Parameters for Coadministered Drug in the Presence of Tenofovir AlafenamideAll interaction studies conducted in healthy subjects.
 
-| C max | AUC | C min |  |  |  |  |
+| Cmax | AUC | Cmin |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- |
-| Coadministered Drug | Dose of Coadministered Drug (mg) | Tenofovir Alafenamide (mg) | N | Geometric Mean Ratio of Coadministered Drug Pharmacokinetic Parameters (90% CI) All no effect boundaries are 70%–143%.; No effect = 1.00 |  |  |
-| Ledipasvir | 90 ledipasvir / 400 sofosbuvir once daily | 25 once daily Study conducted with emtricitabine/rilpivirine/tenofovir alafenamide. | 41 | 1.01 (0.97, 1.05) | 1.02 (0.97, 1.06) | 1.02 (0.98, 1.07) |
+| Coadministered Drug | Dose of Coadministered Drug (mg) | Tenofovir Alafenamide (mg) | N | Geometric Mean Ratio of Coadministered Drug Pharmacokinetic Parameters (90% CI)All no effect boundaries are 70%–143%.; No effect = 1.00 |  |  |
+| Ledipasvir | 90 ledipasvir / 400 sofosbuvir once daily | 25 once dailyStudy conducted with emtricitabine/rilpivirine/tenofovir alafenamide. | 41 | 1.01 (0.97, 1.05) | 1.02 (0.97, 1.06) | 1.02 (0.98, 1.07) |
 | Sofosbuvir | 0.96 (0.89, 1.04) | 1.05 (1.01, 1.09) | NC |  |  |  |
-| GS-331007 The predominant circulating nucleoside metabolite of sofosbuvir. | 1.08 (1.05, 1.11) | 1.08 (1.06, 1.10) | 1.10 (1.07, 1.12) |  |  |  |
-| Midazolam A sensitive CYP3A4 substrate. | 2.5 single dose orally | 25 once daily | 18 | 1.02 (0.92, 1.13) | 1.13 (1.04, 1.23) | NC |
+| GS-331007The predominant circulating nucleoside metabolite of sofosbuvir. | 1.08 (1.05, 1.11) | 1.08 (1.06, 1.10) | 1.10 (1.07, 1.12) |  |  |  |
+| MidazolamA sensitive CYP3A4 substrate. | 2.5 single dose orally | 25 once daily | 18 | 1.02 (0.92, 1.13) | 1.13 (1.04, 1.23) | NC |
 | 1 single dose IV | 0.99 (0.89, 1.11) | 1.08 (1.04, 1.14) | NC |  |  |  |
-| Norelgestromin | norgestimate 0.180/0.215/0.250 once daily / ethinyl estradiol 0.025 once daily | 25 once daily Study conducted with emtricitabine/tenofovir alafenamide. | 29 | 1.17 (1.07, 1.26) | 1.12 (1.07, 1.17) | 1.16 (1.08, 1.24) |
+| Norelgestromin | norgestimate 0.180/0.215/0.250 once daily / ethinyl estradiol 0.025 once daily | 25 once dailyStudy conducted with emtricitabine/tenofovir alafenamide. | 29 | 1.17 (1.07, 1.26) | 1.12 (1.07, 1.17) | 1.16 (1.08, 1.24) |
 | Norgestrel | 1.10 (1.02, 1.18) | 1.09 (1.01, 1.18) | 1.11 (1.03, 1.20) |  |  |  |
 | Ethinyl estradiol | 1.22 (1.15, 1.29) | 1.11 (1.07, 1.16) | 1.02 (0.93, 1.12) |  |  |  |
-| Sertraline | 50 single dose | 10 once daily Study conducted with elvitegravir/cobicistat/emtricitabine/tenofovir alafenamide. | 19 | 1.14 (0.94, 1.38) | 0.93 (0.77, 1.13) | NC |
-| Sofosbuvir | 400 once daily | 25 once daily Study conducted with emtricitabine/rilpivirine/tenofovir alafenamide. | 30 | 0.95 (0.86, 1.05) | 1.01 (0.97, 1.06) | NC |
+| Sertraline | 50 single dose | 10 once dailyStudy conducted with elvitegravir/cobicistat/emtricitabine/tenofovir alafenamide. | 19 | 1.14 (0.94, 1.38) | 0.93 (0.77, 1.13) | NC |
+| Sofosbuvir | 400 once daily | 25 once dailyStudy conducted with emtricitabine/rilpivirine/tenofovir alafenamide. | 30 | 0.95 (0.86, 1.05) | 1.01 (0.97, 1.06) | NC |
 | GS-331007 | 1.02 (0.98, 1.06) | 1.04 (1.01, 1.06) | NC |  |  |  |
 | Velpatasvir | 100 once daily | 1.05 (0.96, 1.16) | 1.01 (0.94, 1.07) | 1.01 (0.95, 1.09) |  |  |
-| Voxilaprevir | 100+100 Study conducted with additional voxilaprevir 100 mg to achieve voxilaprevir exposures expected in HCV-infected patients. once daily | 0.96 (0.84, 1.11) | 0.94 (0.84, 1.05) | 1.02 (0.92, 1.12) |  |  |
+| Voxilaprevir | 100+100Study conducted with additional voxilaprevir 100 mg to achieve voxilaprevir exposures expected in HCV-infected patients. once daily | 0.96 (0.84, 1.11) | 0.94 (0.84, 1.05) | 1.02 (0.92, 1.12) |  |  |
 | NC = not calculated |  |  |  |  |  |  |
 
 ## 12.4 Microbiology
@@ -136,13 +136,13 @@ Tenofovir diphosphate is a weak inhibitor of mammalian DNA polymerases that incl
 Antiviral Activity in Cell Culture
 
 The antiviral activity of tenofovir alafenamide was assessed in a transient transfection assay using HepG2 cells against a panel of HBV clinical isolates representing genotypes A-H.
-The EC 50 (50% effective concentration) values for tenofovir alafenamide ranged from 34.7 to 134.4 nM, with an overall mean EC 50 value of 86.6 nM.
-The CC 50 (50% cytotoxicity concentration) values in HepG2 cells were greater than 44,400 nM.
+The EC50 (50% effective concentration) values for tenofovir alafenamide ranged from 34.7 to 134.4 nM, with an overall mean EC50 value of 86.6 nM.
+The CC50 (50% cytotoxicity concentration) values in HepG2 cells were greater than 44,400 nM.
 In cell culture combination antiviral activity studies of tenofovir with the HBV nucleoside reverse transcriptase inhibitors entecavir, lamivudine, and telbivudine, no antagonistic activity was observed.
 
 Resistance in Clinical Trials
 
-Genotypic resistance analysis was performed on paired baseline and on-treatment HBV isolates for subjects who either experienced virologic breakthrough (2 consecutive visits with HBV DNA greater than or equal to 69 IU/mL [400 copies/mL] after having been less than 69 IU/mL, or 1.0-log 10 or greater increase in HBV DNA from nadir) through Week 48, or had HBV DNA greater than or equal to 69 IU/mL at early discontinuation at or after Week 24.
+Genotypic resistance analysis was performed on paired baseline and on-treatment HBV isolates for subjects who either experienced virologic breakthrough (2 consecutive visits with HBV DNA greater than or equal to 69 IU/mL [400 copies/mL] after having been less than 69 IU/mL, or 1.0-log10 or greater increase in HBV DNA from nadir) through Week 48, or had HBV DNA greater than or equal to 69 IU/mL at early discontinuation at or after Week 24.
 
 In a pooled analysis of treatment-naïve and treatment-experienced subjects receiving VEMLIDY in Trials 108 and 110 [see Clinical Studies (14.2)], treatment-emergent amino acid substitutions in the HBV reverse transcriptase domain, all occurring at polymorphic positions, were observed in some HBV isolates evaluated (5/20); however, no specific substitutions occurred at a sufficient frequency to be associated with resistance to VEMLIDY.
 
@@ -152,5 +152,5 @@ Cross-Resistance
 
 The antiviral activity of tenofovir alafenamide was evaluated against a panel of isolates containing substitutions associated with HBV nucleoside reverse transcriptase inhibitor resistance in a transient transfection assay using HepG2 cells.
 HBV isolates expressing the lamivudine resistance-associated substitutions rtM204V/I (±rtL180M±rtV173L) and expressing the entecavir resistance-associated substitutions rtT184G, rtS202G, or rtM250V in the presence of rtL180M and rtM204V showed less than 2-fold reduced susceptibility (within the inter-assay variability) to tenofovir alafenamide.
-HBV isolates expressing the rtA181T, rtA181V, or rtN236T single substitutions associated with resistance to adefovir also had less than 2-fold changes in EC 50 values; however, the HBV isolate expressing the rtA181V plus rtN236T double substitutions exhibited reduced susceptibility (3.7-fold) to tenofovir alafenamide.
+HBV isolates expressing the rtA181T, rtA181V, or rtN236T single substitutions associated with resistance to adefovir also had less than 2-fold changes in EC50 values; however, the HBV isolate expressing the rtA181V plus rtN236T double substitutions exhibited reduced susceptibility (3.7-fold) to tenofovir alafenamide.
 The clinical relevance of these substitutions is not known.

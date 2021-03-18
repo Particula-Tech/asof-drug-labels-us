@@ -8,11 +8,11 @@ Table 10 Trials Conducted with VEMLIDY in Adults with Chronic HBV Infection
 
 | Trial | Population | Trial Arms (N) | Primary Endpoint (Week) |
 | --- | --- | --- | --- |
-| Trial 108 Randomized, double blind, active controlled trial. (NCT01940341) | HBeAg-negative TN and TE adults with compensated liver disease | VEMLIDY (285) TDF (140) | 48 |
-| Trial 110 (NCT01940471) | HBeAg-positive TN and TE adults with compensated liver disease | VEMLIDY (581) TDF(292) | 48 |
-| Trial 4018 (NCT02979613) | HBeAg-negative and HBeAg-positive virologically suppressed HBV DNA <20 IU/mL at screening. adults with compensated liver disease | VEMLIDY (243) TDF (245) | 48 |
-| Trial 4035 (Part A, Cohort 1) Open-label trial. (NCT03180619) | Virologically suppressed adults with moderate to severe renal impairment Estimated creatinine clearance between 15 and 59 mL per minute by Cockcroft-Gault method. | VEMLIDY (78) | 24 |
-| Trial 4035 (Part A, Cohort 2) (NCT03180619) | Virologically suppressed adults with ESRD End stage renal disease (estimated creatinine clearance of below 15 mL per minute by Cockcroft-Gault method). receiving chronic hemodialysis | VEMLIDY (15) | 24 |
+| Trial 108Randomized, double blind, active controlled trial. (NCT01940341) | HBeAg-negative TN and TE adults with compensated liver disease | VEMLIDY (285) TDF (140) | 48 |
+| Trial 110 (NCT01940471) | HBeAg-positive TN and TE adults with compensated liver disease | VEMLIDY (581) TDF (292) | 48 |
+| Trial 4018 (NCT02979613) | HBeAg-negative and HBeAg-positive virologically suppressedHBV DNA <20 IU/mL at screening. adults with compensated liver disease | VEMLIDY (243) TDF (245) | 48 |
+| Trial 4035 (Part A, Cohort 1)Open-label trial. (NCT03180619) | Virologically suppressed adults with moderate to severe renal impairmentEstimated creatinine clearance between 15 and 59 mL per minute by Cockcroft-Gault method. | VEMLIDY (78) | 24 |
+| Trial 4035 (Part A, Cohort 2) (NCT03180619) | Virologically suppressed adults with ESRDEnd stage renal disease (estimated creatinine clearance of below 15 mL per minute by Cockcroft-Gault method). receiving chronic hemodialysis | VEMLIDY (15) | 24 |
 | TE = treatment-experienced, TN = treatment-naive |  |  |  |
 
 ## 14.2 Clinical Trials in Adults with Chronic Hepatitis B Virus Infection and Compensated Liver Disease
@@ -24,51 +24,51 @@ In Trial 108, HBeAg-negative treatment-naïve and treatment-experienced subjects
 The mean age was 46 years, 61% were male, 72% were Asian, 25% were White, 2% were Black, and 1% were other races.
 24%, 38%, and 31% had HBV genotype B, C, and D, respectively.
 21% were treatment experienced [previous treatment with oral antivirals, including entecavir (N=41), lamivudine (N=42), TDF (N=21), or other (N=18)].
-At baseline, mean plasma HBV DNA was 5.8 log 10 IU/mL, mean serum ALT was 94 U/L, and 9% of subjects had a history of cirrhosis.
+At baseline, mean plasma HBV DNA was 5.8 log10 IU/mL, mean serum ALT was 94 U/L, and 9% of subjects had a history of cirrhosis.
 
 In Trial 110, HBeAg-positive treatment-naïve and treatment-experienced subjects with compensated liver disease were randomized in a 2:1 ratio to receive VEMLIDY 25 mg (N=581) once daily or TDF 300 mg (N=292) once daily for 48 weeks.
 The mean age was 38 years, 64% were male, 82% were Asian, 17% were White, and 1% were Black or other races.
 17%, 52%, and 23% had HBV genotype B, C, and D, respectively.
 26% were treatment experienced [previous treatment with oral antivirals, including adefovir (N=42), entecavir (N=117), lamivudine (N=84), telbivudine (N=25), TDF (N=70), or other (n=17)].
-At baseline, mean plasma HBV DNA was 7.6 log 10 IU/mL, mean serum ALT was 120 U/L, and 7% of subjects had a history of cirrhosis.
+At baseline, mean plasma HBV DNA was 7.6 log10 IU/mL, mean serum ALT was 120 U/L, and 7% of subjects had a history of cirrhosis.
 
-In both trials, randomization was stratified on prior treatment history (nucleoside naïve or experienced) and baseline HBV DNA (<7, ≥7 to <8, and ≥8 log 10 IU/mL in Trial 108; and <8 and ≥8 log 10 IU/mL in Trial 110).
+In both trials, randomization was stratified on prior treatment history (nucleoside naïve or experienced) and baseline HBV DNA (<7, ≥7 to <8, and ≥8 log10 IU/mL in Trial 108; and <8 and ≥8 log10 IU/mL in Trial 110).
 The efficacy endpoint in both trials was the proportion of subjects with plasma HBV DNA levels below 29 IU/mL at Week 48.
 Additional efficacy endpoints include the proportion of subjects with ALT normalization, HBsAg loss and seroconversion, and HBeAg loss and seroconversion in Trial 110.
 
 Treatment outcomes of Trials 108 and 110 at Week 48 are presented in Table 11 and Table 12.
 
-Table 11 Trials 108 and 110: HBV DNA Virologic Outcome at Week 48 Missing = failure analysis in Patients with Chronic HBV Infection and Compensated Liver Disease
+Table 11 Trials 108 and 110: HBV DNA Virologic Outcome at Week 48Missing = failure analysis. in Patients with Chronic HBV Infection and Compensated Liver Disease
 
 |  | VEMLIDY (N=285) | TDF (N=140) | VEMLIDY (N=581) | TDF (N=292) |
 | --- | --- | --- | --- | --- |
 |  | Trial 108 (HBeAg-Negative) |  | Trial 110 (HBeAg-Positive) |  |
 | HBV DNA <29 IU/mL | 94% | 93% | 64% | 67% |
-| Treatment Difference Adjusted by baseline plasma HBV DNA categories and oral antiviral treatment status strata. | 1.8% (95% CI = -3.6% to 7.2%) |  | -3.6% (95% CI = -9.8% to 2.6%) |  |
+| Treatment DifferenceAdjusted by baseline plasma HBV DNA categories and oral antiviral treatment status strata. | 1.8% (95% CI = -3.6% to 7.2%) |  | -3.6% (95% CI = -9.8% to 2.6%) |  |
 | HBV DNA ≥29 IU/mL | 2% | 3% | 31% | 30% |
 | Baseline HBV DNA |  |  |  |  |
-| <7 log 10 IU/mL | 96% (221/230) | 92% (107/116) | N/A | N/A |
-| ≥7 log 10 IU/mL | 85% (47/55) | 96% (23/24) |  |  |
+| <7 log10 IU/mL | 96% (221/230) | 92% (107/116) | N/A | N/A |
+| ≥7 log10 IU/mL | 85% (47/55) | 96% (23/24) |  |  |
 | Baseline HBV DNA |  |  |  |  |
-| <8 log 10 IU/mL | N/A | N/A | 82% (254/309) | 82% (123/150) |
-| ≥8 log 10 IU/mL |  |  | 43% (117/272) | 51% (72/142) |
-| Nucleoside Naïve Treatment-naïve subjects received <12 weeks of oral antiviral treatment with any nucleoside or nucleotide analog including TDF or VEMLIDY. | 94% (212/225) | 93% (102/110) | 68% (302/444) | 70% (156/223) |
+| <8 log10 IU/mL | N/A | N/A | 82% (254/309) | 82% (123/150) |
+| ≥8 log10 IU/mL |  |  | 43% (117/272) | 51% (72/142) |
+| Nucleoside NaïveTreatment-naïve subjects received <12 weeks of oral antiviral treatment with any nucleoside or nucleotide analog including TDF or VEMLIDY. | 94% (212/225) | 93% (102/110) | 68% (302/444) | 70% (156/223) |
 | Nucleoside Experienced | 93% (56/60) | 93% (28/30) | 50% (69/137) | 57% (39/69) |
-| No Virologic Data at Week 48 Includes subjects who discontinued due to lack of efficacy, adverse event or death, for reasons other than an AE, death or lack or loss of efficacy, e.g., withdrew consent, loss to follow-up, etc., or missing data during Week 48 window but still on study drug. | 4% | 4% | 5% | 3% |
+| No Virologic Data at Week 48Includes subjects who discontinued due to lack of efficacy, adverse event or death, for reasons other than an AE, death or lack or loss of efficacy, e.g., withdrew consent, loss to follow-up, etc., or missing data during Week 48 window but still on study drug. | 4% | 4% | 5% | 3% |
 
 In Trial 108, the proportion of subjects with cirrhosis who achieved HBV DNA <29 IU/mL at Week 48 was 92% (22/24) in the VEMLIDY group and 93% (13/14) in the TDF group.
 The corresponding proportions in Trial 110 were 63% (26/41) and 67% (16/24) in the VEMLIDY and TDF groups, respectively.
 
-Table 12 Additional Efficacy Parameters at Week 48 Missing = failure analysis
+Table 12 Additional Efficacy Parameters at Week 48Missing = failure analysis.
 
 |  | VEMLIDY (N=285) | TDF (N=140) | VEMLIDY (N=581) | TDF (N=292) |
 | --- | --- | --- | --- | --- |
 |  | Trial 108 (HBeAg-Negative) |  | Trial 110 (HBeAg-Positive) |  |
 | ALT |  |  |  |  |
-| Normalized ALT (Central Lab) The population used for analysis of ALT normalization included only subjects with ALT above upper limit of normal (ULN) of the central laboratory range (>43 U/L for males aged 18 to <69 years and >35 U/L for males ≥69 years; >34 U/L for females 18 to <69 years and >32 U/L for females ≥69 years) at baseline. | 83% | 75% | 72% | 67% |
-| Normalized ALT (AASLD) The population used for analysis of ALT normalization included only subjects with ALT above ULN of the 2016 American Association of the Study of Liver Diseases (AASLD) criteria (>30 U/L males and >19 U/L females) at baseline. | 50% | 32% | 45% | 36% |
+| Normalized ALT (Central Lab)The population used for analysis of ALT normalization included only subjects with ALT above upper limit of normal (ULN) of the central laboratory range (>43 U/L for males aged 18 to <69 years and >35 U/L for males ≥69 years; >34 U/L for females 18 to <69 years and >32 U/L for females ≥69 years) at baseline. | 83% | 75% | 72% | 67% |
+| Normalized ALT (AASLD)The population used for analysis of ALT normalization included only subjects with ALT above ULN of the 2016 American Association of the Study of Liver Diseases (AASLD) criteria (>30 U/L males and >19 U/L females) at baseline. | 50% | 32% | 45% | 36% |
 | Serology |  |  |  |  |
-| HBeAg Loss / Seroconversion The population used for serology analysis included only subjects with antigen (HBeAg) positive and anti-body (HBeAb) negative or missing at baseline. | N/A | N/A | 14% / 10% | 12% / 8% |
+| HBeAg Loss / SeroconversionThe population used for serology analysis included only subjects with antigen (HBeAg) positive and anti-body (HBeAb) negative or missing at baseline. | N/A | N/A | 14% / 10% | 12% / 8% |
 | HBsAg Loss / Seroconversion | 0 / 0 | 0 / 0 | 1% / 1% | <1% / 0 |
 | N/A = not applicable |  |  |  |  |
 
@@ -86,29 +86,30 @@ Additional efficacy endpoints in Trial 4018 included the proportion of subjects 
 
 Treatment outcomes of Trial 4018 at Week 48 are presented in Table 13 and Table 14.
 
-Table 13 Trial 4018: HBV DNA Virologic Outcome at Week 48 Week 48 window was between Day 295 and Day 378 (inclusive). in Virologically Suppressed Subjects with Chronic HBV Infection
+Table 13 Trial 4018: HBV DNA Virologic Outcome at Week 48Week 48 window was between Day 295 and Day 378 (inclusive). in Virologically Suppressed Subjects with Chronic HBV Infection
 
 |  | VEMLIDY (N=243) | TDF (N=245) |
 | --- | --- | --- |
-| HBV DNA ≥20 IU/mL No subject discontinued treatment due to lack of efficacy. | <1% | <1% |
-| Treatment Difference Adjusted by baseline age groups (< 50, ≥ 50 years) and baseline HBeAg status strata. | 0.0% (95% CI = -1.9% to 2.0%) |  |
+| HBV DNA ≥20 IU/mLNo subject discontinued treatment due to lack of efficacy. | <1% | <1% |
+| Treatment DifferenceAdjusted by baseline age groups (< 50, ≥ 50 years) and baseline HBeAg status strata. | 0.0% (95% CI = -1.9% to 2.0%) |  |
 | HBV DNA <20 IU/mL | 96% | 96% |
 | Treatment Difference | 0.0% (95% CI = -3.7% to 3.7%) |  |
 | No Virologic Data at Week 48 | 3% | 3% |
 | Discontinued Study Drug Due to AE or Death and Last Available HBV DNA <20 IU/mL | 1% | 0 |
-| Discontinued Study Drug Due to Other Reasons Includes subjects who discontinued for reasons other than an AE, death, or lack of efficacy, e.g., withdrew consent, loss to follow-up, etc. and Last Available HBV DNA <20 IU/mL | 2% | 3% |
+| Discontinued Study Drug Due to Other ReasonsIncludes subjects who discontinued for reasons other than an AE, death, or lack of efficacy, e.g., withdrew consent, loss to follow-up, etc. and Last Available HBV DNA <20 IU/mL | 2% | 3% |
 
-Table 14 Additional Efficacy Parameters at Week 48 Missing = failure analysis (Trial 4018)
+Table 14 Additional Efficacy Parameters at Week 48Missing = failure analysis.
+(Trial 4018)
 
 |  | VEMLIDY (N=243) | TDF (N=245) |
 | --- | --- | --- |
 | ALT |  |  |
 | Normal ALT (Central Lab) | 89% | 85% |
 | Normal ALT (AASLD) | 79% | 75% |
-| Normalized ALT (Central Lab) The population used for analysis of ALT normalization included only subjects with ALT above upper limit of normal (ULN) of the central laboratory range (>43 U/L for males 18 to <69 years and >35 U/L for males ≥69 years; >34 U/L for females 18 to <69 years and >32 U/L for females ≥69 years) at baseline.,Proportion of subjects at Week 48: VEMLIDY, 16/32; TDF, 7/19. | 50% | 37% |
-| Normalized ALT (AASLD) The population used for analysis of ALT normalization included only subjects with ALT above ULN of the 2018 American Association of the Study of Liver Diseases (AASLD) criteria (35 U/L males and 25 U/L females) at baseline.,Proportion of subjects at Week 48: VEMLIDY, 26/52; TDF, 14/53. | 50% | 26% |
+| Normalized ALT (Central Lab)The population used for analysis of ALT normalization included only subjects with ALT above upper limit of normal (ULN) of the central laboratory range (>43 U/L for males 18 to <69 years and >35 U/L for males ≥69 years; >34 U/L for females 18 to <69 years and >32 U/L for females ≥69 years) at baseline.,Proportion of subjects at Week 48: VEMLIDY, 16/32; TDF, 7/19. | 50% | 37% |
+| Normalized ALT (AASLD)The population used for analysis of ALT normalization included only subjects with ALT above ULN of the 2018 American Association of the Study of Liver Diseases (AASLD) criteria (35 U/L males and 25 U/L females) at baseline.,Proportion of subjects at Week 48: VEMLIDY, 26/52; TDF, 14/53. | 50% | 26% |
 | Serology |  |  |
-| HBeAg Loss / Seroconversion The population used for serology analysis included only subjects with antigen (HBeAg) positive and anti-body (HBeAb) negative or missing at baseline. | 8% / 3% | 6% / 0 |
+| HBeAg Loss / SeroconversionThe population used for serology analysis included only subjects with antigen (HBeAg) positive and anti-body (HBeAb) negative or missing at baseline. | 8% / 3% | 6% / 0 |
 | HBsAg Loss / Seroconversion | 0 / 0 | 2% / 0 |
 
 ## 14.4 Clinical Trial in Adults with Chronic Hepatitis B Virus Infection and Renal Impairment
@@ -123,4 +124,4 @@ Overall, 98% of subjects achieved HBV DNA <20 IU/mL at Week 24 (Cohort 1, 97%; C
 Two subjects in Cohort 1 discontinued treatment early (due to subject decision); last available HBV DNA for both of these subjects was <20 IU/mL.
 The overall mean (SD) change from baseline in ALT values was +1 (11.3) U/L (Cohort 1, +1 [11.9] U/L; Cohort 2, +3 [7.9] U/L) at Week 24.
 No patient had HBeAg or HBsAg loss at Week 24.
-The mean (SD) changes in HBsAg level from baseline were -0.05 (0.122) log 10 IU/mL (-0.05 [0.124] log 10 IU/mL for Cohort 1 and -0.07 [0.115] log 10 IU/mL for Cohort 2) at Week 24.
+The mean (SD) changes in HBsAg level from baseline were -0.05 (0.122) log10 IU/mL (-0.05 [0.124] log10 IU/mL for Cohort 1 and -0.07 [0.115] log10 IU/mL for Cohort 2) at Week 24.

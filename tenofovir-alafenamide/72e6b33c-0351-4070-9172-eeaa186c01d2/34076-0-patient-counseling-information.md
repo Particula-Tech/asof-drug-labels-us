@@ -12,7 +12,7 @@ Inform patients that if they have or develop HIV infection and are not receiving
 
 New Onset or Worsening Renal Impairment
 
-Advise patients that renal impairment, including cases of acute renal failure, has been reported in association with the use of tenofovir prodrugs [see Warnings and Precautions (5.3)].
+Postmarketing cases of renal impairment, including acute renal failure, have been reported [see Warnings and Precautions (5.3)].
 
 Lactic Acidosis and Severe Hepatomegaly
 
