@@ -1,14 +1,14 @@
 # Package/Label Display Panel
 
-NDC 69918-720-01
+NDC 69918-720-01 Rx Only
 
 Arsenic Trioxide Injection
 
 10 mg/10 mL (1 mg/mL)
 
-For Intravenous Use Only Caution: Cytotoxic Agent 10 mL Single-Dose Vial Rx only
+For Intravenous Use Only Caution: Cytotoxic Agent
 
-AMRING PHARMACEUTICALS, INC.
+10 mL Single-Dose Vial
 
 NDC 69918-720-02 Rx Only
 
