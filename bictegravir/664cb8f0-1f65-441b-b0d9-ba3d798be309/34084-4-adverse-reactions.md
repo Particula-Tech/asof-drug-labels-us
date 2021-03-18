@@ -74,7 +74,7 @@ Table 2 Laboratory Abnormalities (Grades 3–4) Reported in ≥ 2% of Subjects R
 Changes in Serum Creatinine: BIC has been shown to increase serum creatinine due to inhibition of tubular secretion of creatinine without affecting renal glomerular function [see Clinical Pharmacology (12.2)].
 Increases in serum creatinine occurred by Week 4 of treatment and remained stable through Week 48.
 In Trials 1489 and 1490, median (Q1, Q3) serum creatinine increased by 0.10 (0.03, 0.17) mg per dL from baseline to Week 48 in the BIKTARVY group and was similar to the comparator groups who received ABC/DTG/3TC, or DTG + FTC/TAF.
-There were no discontinuations due to renal adverse events through Week 48 in BIKTARVY clinical trials.
+There were no discontinuations due to renal adverse events and renal serious adverse events were encountered in less than 1% of participants treated with BIKTARVY through Week 48 in clinical trials.
 
 Changes in Bilirubin: In Trials 1489 and 1490, total bilirubin increases were observed in 12% of subjects administered BIKTARVY through Week 48.
 Increases were primarily Grade 1 (1.0 to 1.5 × ULN) (9%) and Grade 2 (1.5 to 2.5 × ULN) (3%).
@@ -97,6 +97,10 @@ The other adverse reactions that occurred in single subjects were similar to tho
 
 The following events have been identified during post approval use of BIKTARVY or products containing TAF.
 Because these events are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
+
+Renal and Urinary Disorders
+
+Acute renal failure, acute tubular necrosis, proximal renal tubulopathy, and Fanconi syndrome
 
 Skin and Subcutaneous Tissue Disorders
 
