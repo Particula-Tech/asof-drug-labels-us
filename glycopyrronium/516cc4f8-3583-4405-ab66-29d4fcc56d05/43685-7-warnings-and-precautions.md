@@ -54,7 +54,7 @@ Other studies in dogs suggest that this may be due to diminished seminal secreti
 
 ## Pregnancy
 
-### Teratogenic Effects - Pregnancy Category B.
+### Teratogenic Effects
 
 Reproduction studies with glycopyrrolate were performed in rats at a dietary dose of approximately 65 mg/kg/day (exposure was approximately 320 times the maximum recommended daily human dose of 2 mg on a mg/m2 basis) and rabbits at intramuscular doses of up to 0.5 mg/kg/day (exposure was approximately 5 times the maximum recommended daily human dose on a mg/m2 basis).
 These studies produced no teratogenic effects to the fetus.
