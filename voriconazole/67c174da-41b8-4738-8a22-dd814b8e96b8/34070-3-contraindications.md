@@ -1,6 +1,6 @@
 # 4 CONTRAINDICATIONS
 
-- •Voriconazole tablets are contraindicated in patients with known hypersensitivity to voriconazole or its excipients.
+- •Voriconazole tablets are contraindicated in patients with known hypersensitivity to voriconazole or their excipients.
   There is no information regarding cross-sensitivity between voriconazole and other azole antifungal agents.
   Caution should be used when prescribing voriconazole tablets to patients with hypersensitivity to other azoles.
 - •Coadministration of cisapride, pimozide or quinidine with voriconazole tablets is contraindicated because increased plasma concentrations of these drugs can lead to QT prolongation and rare occurrences of torsade de pointes [see Drug Interactions (7) and Clinical Pharmacology (12.3)].
@@ -13,3 +13,5 @@
 - •Coadministration of voriconazole tablets with rifabutin is contraindicated since voriconazole tablets significantly increase rifabutin plasma concentrations and rifabutin also significantly decreases voriconazole plasma concentrations [see Drug Interactions (7) and Clinical Pharmacology (12.3)].
 - •Coadministration of voriconazole tablets with ergot alkaloids (ergotamine and dihydroergotamine) is contraindicated because voriconazole tablets may increase the plasma concentration of ergot alkaloids, which may lead to ergotism [see Drug Interactions (7) and Clinical Pharmacology (12.3)].
 - •Coadministration of voriconazole tablets with St. John’s Wort is contraindicated because this herbal supplement may decrease voriconazole plasma concentration [see Drug Interactions (7) and Clinical Pharmacology (12.3)].
+- •Coadministration of voriconazole tablets with naloxegol is contraindicated because voriconazole tablets may increase plasma concentrations of naloxegol which may precipitate opioid withdrawal symptoms [see Drug Interactions (7) and Clinical Pharmacology (12.3)].
+- •Coadministration of voriconazole tablets with tolvaptan is contraindicated because voriconazole tablets may increase tolvaptan plasma concentrations and increase risk of adverse reactions [see Drug Interactions (7)].

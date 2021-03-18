@@ -100,7 +100,7 @@ Erythema multiforme has also been reported during treatment with voriconazole [s
 
 Voriconazole has also been associated with additional photosensitivity related skin reactions such as pseudoporphyria, cheilitis, and cutaneous lupus erythematosus [see Warnings and Precautions (5.6)].
 
-##### Less Common Adverse Events
+##### Less Common Adverse Reactions
 
 The following adverse reactions occurred in < 2% of all voriconazole-treated patients in all therapeutic studies (N = 1655).
 This listing includes events where a causal relationship to voriconazole cannot be ruled out or those which may help the physician in managing the risks to the patients.
@@ -210,11 +210,13 @@ Because these reactions are reported voluntarily from a population of uncertain 
 
 ### Adults
 
-Skeletal: fluorosis and periostitis have been reported during long-term voriconazole therapy [see Warnings and Precautions (5.11)].
+Skeletal: fluorosis and periostitis have been reported during long-term voriconazole therapy [see Warnings and Precautions (5.12)].
 
 Eye Disorders: prolonged visual adverse reactions, including optic neuritis and papilledema [see Warnings and Precautions (5.4)].
 
 Skin and Appendages: drug reaction with eosinophilia and systemic symptoms (DRESS) has been reported [see Warnings and Precautions (5.5) and Adverse Reactions (6.1)].
+
+Endocrine Disorders: adrenal insufficiency, Cushing’s syndrome (when voriconazole has been used concomitantly with corticosteroids) [see Warnings and Precautions (5.8)].
 
 ### Pediatric Patients
 
