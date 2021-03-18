@@ -16,4 +16,4 @@ KEEP THIS AND ALL MEDICATIONS OUT OF THE REACH OF CHILDREN.
 Distributed By: Teva Pharmaceuticals USA, Inc. North Wales, PA 19454
 
 Rev.
-L 10/2020
+M 3/2021

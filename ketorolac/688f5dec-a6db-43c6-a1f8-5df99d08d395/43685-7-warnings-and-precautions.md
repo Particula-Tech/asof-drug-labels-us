@@ -121,7 +121,7 @@ NSAIDs, including ketorolac tromethamine, can cause serious skin adverse events 
 These serious events may occur without warning.
 Patients should be informed about the signs and symptoms of serious skin manifestations and use of the drug should be discontinued at the first appearance of skin rash, mucosal lesions, or any other sign of hypersensitivity.
 
-## Drug Rash with Eosinophilia and Systemic Symptoms (DRESS)
+## Drug Reaction with Eosinophilia and Systemic Symptoms (DRESS)
 
 Drug Reaction with Eosinophilia and Systemic Symptoms (DRESS) has been reported in patients taking NSAIDs such as ketorolac tromethamine tablets.
 Some of these events have been fatal or life-threatening.
@@ -322,7 +322,6 @@ Oligohydramnios/Neonatal Renal Impairment
 Use of NSAIDs at about 20 weeks gestation or later in pregnancy has been associated with cases of fetal renal dysfunction leading to oligohydramnios, and in some cases, neonatal renal impairment.
 
 Data from observational studies regarding other potential embryofetal risks of NSAID use in women in the first or second trimesters of pregnancy are inconclusive.
-In the general U.S. population, all clinically recognized pregnancies, regardless of drug exposure, have a background rate of 2 to 4% for major malformations, and 15 to 20% for pregnancy loss.
 Animal reproduction studies have been performed during organogenesis using daily oral doses of ketorolac tromethamine at 3.6 mg/kg (0.37 times the human AUC) in rabbits and at 10 mg/kg (1 times the human AUC) in rats.
 Results of these studies did not reveal evidence of teratogenicity to the fetus.
 However, animal reproduction studies are not always predictive of human response.
@@ -330,6 +329,9 @@ Based on animal data, prostaglandins have been shown to have an important role i
 In animal studies, administration of prostaglandin synthesis inhibitors such as ketorolac tromethamine, resulted in increased pre- and post-implantation loss.
 Prostaglandins also have been shown to have an important role in fetal kidney development.
 In published animal studies, prostaglandin synthesis inhibitors have been reported to impair kidney development when administered at clinically relevant doses.
+The estimated background risk of major birth defects and miscarriage for the indicated population(s) is unknown.
+All pregnancies have a background risk of birth defect, loss, or other adverse outcomes.
+In the U.S. general population, the estimated background risk of major birth defects and miscarriage in clinically recognized pregnancies is 2 to 4% and 15 to 20%, respectively.
 
 Clinical Considerations
 
