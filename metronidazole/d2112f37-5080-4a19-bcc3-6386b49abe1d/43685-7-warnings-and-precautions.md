@@ -135,6 +135,10 @@ Metronidazole Injection, USP decreases the clearance of 5-fluorouracil and may t
 
 Metronidazole Injection, USP may potentiate the effects of vecuronium.
 
+### Drugs that Prolong the QT interval
+
+QT prolongation has been reported, particularly when metronidazole was administered with drugs with the potential for prolonging the QT interval.
+
 ## Drug/Laboratory Test Interactions
 
 Metronidazole may interfere with certain types of determinations of serum chemistry values, such as aspartate aminotransferase (AST, SGOT), alanine aminotransferase (ALT, SGPT), lactate dehydrogenase (LDH), triglycerides and glucose hexokinase.

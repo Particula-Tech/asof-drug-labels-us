@@ -18,7 +18,8 @@ EYE DISORDERS: Optic neuropathy, Saccadic eye movement
 
 EAR AND LABYRINTH DISORDERS: Vertigo
 
-CARDIAC DISORDERS: Tachycardia, Palpitation
+CARDIAC DISORDERS: QT prolongation has been reported, particularly when metronidazole was administered with drugs with the potential for prolonging the QT interval.
+Flattening of the T-wave may be seen in electrocardiographic tracings, Tachycardia, Palpitation
 
 RESPIRATORY, THORACIC AND MEDIASTINAL DISORDERS: Dyspnea
 
@@ -34,7 +35,7 @@ RENAL AND URINARY DISORDERS: Chromaturia, Dysuria
 
 REPRODUCTIVE: Dyspareunia
 
-GENERAL DISORDERS AND ADMINISTRATION SITE CONDITIONS: Injection site reaction, Malaise, Face edema, Edema peripheral, Chest pain, Chills
+GENERAL DISORDERS AND ADMINISTRATION SITE CONDITIONS: Injection site reaction, Malaise, Face edema, Edema peripheral, Chest pain, Chills,
 
 INVESTIGATIONS: Hepatic enzyme increased.
 
