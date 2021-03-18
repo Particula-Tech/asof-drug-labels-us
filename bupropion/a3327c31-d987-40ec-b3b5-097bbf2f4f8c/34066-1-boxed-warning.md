@@ -2,7 +2,7 @@
 
 SUICIDALITY AND ANTIDEPRESSANT DRUGS
 
-Although ZYBAN is not indicated for treatment of depression, it contains the same active ingredient as the antidepressant medications WELLBUTRIN®, WELLBUTRIN® SR, and WELLBUTRIN XL®.
+Although ZYBAN is not indicated for treatment of depression, it contains the same active ingredient as the antidepressant medications WELLBUTRIN, WELLBUTRIN SR, and WELLBUTRIN XL.
 Antidepressants increased the risk of suicidal thoughts and behavior in children, adolescents, and young adults in short-term trials.
 These trials did not show an increase in the risk of suicidal thoughts and behavior with antidepressant use in subjects over age 24; there was a reduction in risk with antidepressant use in subjects aged 65 and older [see Warnings and Precautions (5.1)].
 

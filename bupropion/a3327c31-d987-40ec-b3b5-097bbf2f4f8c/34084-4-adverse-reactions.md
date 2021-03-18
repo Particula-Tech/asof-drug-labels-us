@@ -166,7 +166,7 @@ Infrequent were impotence, polyuria, and urinary urgency.
 
 ## 6.2 Postmarketing Experience
 
-The following adverse reactions have been identified during post-approval use of ZYBAN and are not described elsewhere in the label.
+The following adverse reactions have been identified during postapproval use of ZYBAN and are not described elsewhere in the label.
 Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a relationship to drug exposure.
 
 Body (General)
@@ -176,7 +176,7 @@ These symptoms may resemble serum sickness [see Warnings and Precautions (5.8)].
 
 Cardiovascular
 
-Cardiovascular disorder, complete AV block, extrasystoles, hypotension, myocardial infarction, phlebitis, and pulmonary embolism.
+Cardiovascular disorder, complete atrioventricular block (AV) block, extrasystoles, hypotension, myocardial infarction, phlebitis, and pulmonary embolism.
 
 Digestive
 
@@ -189,7 +189,7 @@ Hyperglycemia, hypoglycemia, hyponatremia, and syndrome of inappropriate antidiu
 Hemic and Lymphatic
 
 Anemia, leukocytosis, leukopenia, lymphadenopathy, pancytopenia, and thrombocytopenia.
-Altered PT and/or INR, infrequently associated with hemorrhagic or thrombotic complications, were observed when bupropion was coadministered with warfarin.
+Altered prothrombin time (PT) and/or international normalized ratio (INR), infrequently associated with hemorrhagic or thrombotic complications, were observed when bupropion was coadministered with warfarin.
 
 Metabolic and Nutritional
 

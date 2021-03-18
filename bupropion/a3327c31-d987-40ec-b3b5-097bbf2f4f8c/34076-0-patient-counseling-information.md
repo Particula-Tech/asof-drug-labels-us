@@ -33,7 +33,7 @@ Patients may wish to be examined to determine whether they are susceptible to an
 
 Bupropion-Containing Products
 
-Educate patients that ZYBAN contains the same active ingredient (bupropion hydrochloride) found in WELLBUTRIN, WELLBUTRIN SR, and WELLBUTRIN XL, which are used to treat depression and that ZYBAN should not be used in conjunction with any other medications that contain bupropion (such as WELLBUTRIN, the immediate-release formulation; WELLBUTRIN SR, the sustained-release formulation; WELLBUTRIN XL or FORFIVO XL®, the extended-release formulations; and APLENZIN®, the extended-release formulation of bupropion hydrobromide).
+Educate patients that ZYBAN contains the same active ingredient (bupropion hydrochloride) found in WELLBUTRIN, WELLBUTRIN SR, and WELLBUTRIN XL, which are used to treat depression and that ZYBAN should not be used in conjunction with any other medications that contain bupropion (such as WELLBUTRIN, the immediate-release formulation; WELLBUTRIN SR, the sustained-release formulation; WELLBUTRIN XL or FORFIVO XL, the extended-release formulations; and APLENZIN, the extended-release formulation of bupropion hydrobromide).
 In addition, there are a number of generic bupropion HCl products for the immediate-, sustained-, and extended-release formulations.
 
 Potential for Cognitive and Motor Impairment
@@ -67,15 +67,14 @@ Instruct patients if they miss a dose, not to take an extra tablet to make up fo
 ZYBAN can be taken with or without food.
 Advise patients that ZYBAN tablets may have an odor.
 
-ZYBAN, WELLBUTRIN, WELLBUTRIN SR, WELLBUTRIN XL are registered trademarks of the GSK group of companies.
-The other brands listed are trademarks of their respective owners and are not trademarks of the GSK group of companies.
+ZYBAN, WELLBUTRIN, WELLBUTRIN SR, WELLBUTRIN XL are owned by or licensed to the GSK group of companies.
+The other brands listed are trademarks owned by or licensed to their respective owners and are not owned by or licensed to the GSK group of companies.
 The makers of these brands are not affiliated with and do not endorse the GSK group of companies or its products.
 
 GlaxoSmithKline
 
 Research Triangle Park, NC 27709
 
-©2019 the GSK group of companies.
-All rights reserved.
+©2021 GSK group of companies or its licensor.
 
-ZYB:13PI
+ZYB:14PI

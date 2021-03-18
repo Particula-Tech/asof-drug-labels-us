@@ -94,7 +94,7 @@ The risk of seizure can be reduced if the dose of ZYBAN for smoking cessation do
 ## 5.4 Hypertension
 
 Treatment with ZYBAN can result in elevated blood pressure and hypertension.
-Assess blood pressure before initiating treatment with ZYBAN, and monitor periodically during treatment.
+Assess blood pressure before initiating treatment with ZYBAN and monitor periodically during treatment.
 The risk of hypertension is increased if ZYBAN is used concomitantly with MAOIs or other drugs that increase dopaminergic or noradrenergic activity [see Contraindications (4)].
 
 Data from a comparative trial of ZYBAN, NTS, the combination of ZYBAN plus NTS, and placebo as an aid to smoking cessation suggest a higher incidence of treatment-emergent hypertension in patients treated with the combination of ZYBAN and NTS.
