@@ -68,6 +68,8 @@ Virologically Suppressed Adults:
 
 In a study of 1,436 virologically-suppressed TDF-treated adults with a mean baseline estimated creatinine clearance of 112 mL per minute who were randomized to continue their treatment regimen or switch to GENVOYA, at Week 96 mean serum creatinine was similar to baseline for both those continuing baseline treatment and those switching to GENVOYA.
 
+Across these trials, renal serious adverse events or discontinuations due to renal adverse reactions were encountered in less than 1% of participants treated with GENVOYA.
+
 Bone Mineral Density Effects
 
 Treatment-Naïve Adults:
@@ -167,3 +169,7 @@ Because these events are reported voluntarily from a population of uncertain siz
 Skin and Subcutaneous Tissue Disorders
 
 Angioedema, urticaria, and rash
+
+Renal and Urinary Disorders
+
+Acute renal failure, acute tubular necrosis, proximal renal tubulopathy, and Fanconi syndrome

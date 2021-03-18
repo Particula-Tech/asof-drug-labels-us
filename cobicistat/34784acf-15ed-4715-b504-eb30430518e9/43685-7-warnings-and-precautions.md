@@ -28,10 +28,7 @@ Autoimmune disorders (such as Graves' disease, polymyositis, Guillain-Barré syn
 
 ## 5.4 New Onset or Worsening Renal Impairment
 
-Renal impairment, including cases of acute renal failure and Fanconi syndrome (renal tubular injury with severe hypophosphatemia), has been reported with the use of tenofovir prodrugs in both animal toxicology studies and human trials.
-In clinical trials of GENVOYA, there have been no cases of Fanconi syndrome or Proximal Renal Tubulopathy (PRT).
-In clinical trials of GENVOYA in treatment-naïve subjects and in virologically suppressed subjects switched to GENVOYA with estimated creatinine clearance greater than 50 mL per minute, renal serious adverse events or discontinuations due to renal adverse reactions were encountered in less than 1% of participants treated with GENVOYA.
-In a study of virologically suppressed subjects with baseline estimated creatinine clearance between 30 and 69 mL per minute treated with GENVOYA for a median duration of 144 weeks, GENVOYA was permanently discontinued due to worsening renal function in three of 80 (4%) subjects with a baseline estimated creatinine clearance between 30 and 50 mL per minute and two of 162 (1%) with a baseline estimated creatinine clearance greater than or equal to 50 mL per minute [see Adverse Reactions (6.1)].
+Postmarketing cases of renal impairment, including acute renal failure, proximal renal tubulopathy (PRT), and Fanconi syndrome have been reported with TAF-containing products; while most of these cases were characterized by potential confounders that may have contributed to the reported renal events, it is also possible these factors may have predisposed patients to tenofovir-related adverse events [see Adverse Reactions (6.1, 6.2)].
 GENVOYA is not recommended in patients with estimated creatinine clearance of 15 to below 30 mL per minute, or in patients with estimated creatinine clearance below 15 mL per minute who are not receiving chronic hemodialysis.
 
 Patients taking tenofovir prodrugs who have impaired renal function and those taking nephrotoxic agents including non-steroidal anti-inflammatory drugs are at increased risk of developing renal-related adverse reactions.
