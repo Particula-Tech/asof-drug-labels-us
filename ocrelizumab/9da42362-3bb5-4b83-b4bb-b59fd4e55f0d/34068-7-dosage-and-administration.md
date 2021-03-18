@@ -81,6 +81,7 @@ This change in rate will increase the total duration of the infusion but not the
 Preparation
 
 OCREVUS must be prepared by a healthcare professional using aseptic technique.
+A sterile needle and syringe should be used to prepare the diluted infusion solution.
 
 Visually inspect for particulate matter and discoloration prior to administration.
 Do not use the solution if discolored or if the solution contains discrete foreign particulate matter.
