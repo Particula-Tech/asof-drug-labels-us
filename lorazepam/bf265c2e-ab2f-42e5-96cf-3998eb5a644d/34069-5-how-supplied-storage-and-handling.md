@@ -7,6 +7,10 @@ NDC 65162-687-84: Bottles of 30 mL with calibrated dropper (graduations of 0.25 
 
 PROTECT FROM LIGHT
 
+Keep bottles tightly closed.
+
+Keep out of reach of children.
+
 Store at cold temperature.
 Refrigerate at 2° to 8°C (36° to 46°F).
 
@@ -14,9 +18,11 @@ Dispense only in the bottle and only with the calibrated dropper provided.
 
 Discard opened bottle after 90 days.
 
-Rx Only
+Manufactured by:
 
-Manufactured by: Amneal Pharmaceuticals LLC Branchburg, NJ 08876
+Amneal Pharmaceuticals LLC
+
+Branchburg, NJ 08876
 
 Distributed by:
 
@@ -25,4 +31,4 @@ Amneal Pharmaceuticals LLC
 Glasgow, KY 42141
 
 Rev.
-09-2019-02
+03-2021-03
