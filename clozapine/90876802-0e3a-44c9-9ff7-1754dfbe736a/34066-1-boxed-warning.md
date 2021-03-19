@@ -8,7 +8,8 @@ Prior to initiating treatment with CLOZARIL a baseline ANC must be at least 1500
 During treatment, patients must have regular ANC monitoring.
 Advise patients to immediately report symptoms consistent with severe neutropenia or infection (e.g., fever, weakness, lethargy, or sore throat) [see Dosage and Administration (2.1) and Warnings and Precautions (5.1)].
 
-Because of the risk of severe neutropenia, CLOZARIL is available only through a restricted program under a Risk Evaluation Mitigation Strategy (REMS) called the Clozapine REMS Program [see Warnings and Precautions (5.2)].
+Because of the risk of severe neutropenia, CLOZARIL is available only through a restricted program under a Risk Evaluation Mitigation Strategy (REMS) called the Clozapine REMS Program.
+[see Warnings and Precautions (5.2)].
 
 Orthostatic Hypotension, Bradycardia, Syncope
 
