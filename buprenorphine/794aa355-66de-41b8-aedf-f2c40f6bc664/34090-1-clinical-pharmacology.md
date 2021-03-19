@@ -40,10 +40,10 @@ The clinical significance of these findings is unknown.
 Overall, the effects of opioids appear to be modestly immunosuppressive.
 
 Concentration–Efficacy Relationships The minimum effective analgesic concentration will vary widely among patients, especially among patients who have been previously treated with potent agonist opioids.
-The minimum effective analgesic concentration of buprenorphine for any individual patient may increase over time due to an increase in pain, the development of a new pain syndrome, and/or the development of analgesic tolerance [see Dosage and Administration (2.1, 2.3)].
+The minimum effective analgesic concentration of buprenorphine for any individual patient may increase over time due to an increase in pain, the development of a new pain syndrome, and/or the development of analgesic tolerance [see Dosage and Administration (2.1, 2.4)].
 
 Concentration–Adverse Reaction Relationships There is a relationship between increasing buprenorphine plasma concentration and increasing frequency of dose-related opioid adverse reactions such as nausea, vomiting, CNS effects, and respiratory depression.
-In opioid-tolerant patients, the situation may be altered by the development of tolerance to opioid-related adverse reactions [see Dosage and Administration (2.1, 2.2, 2.3)].
+In opioid-tolerant patients, the situation may be altered by the development of tolerance to opioid-related adverse reactions [see Dosage and Administration (2.1, 2.3, 2.4)].
 
 ## 12.3 Pharmacokinetics
 
@@ -71,9 +71,9 @@ In clinical pharmacology studies, the median time for BUTRANS 10 mcg/hour to del
 
 The absolute bioavailability of BUTRANS relative to IV administration, following a 7-day application, is approximately 15% for all doses (BUTRANS 5, 10, and 20 mcg/hour).
 
-Effects of Application Site A study in healthy subjects demonstrated that the pharmacokinetic profile of buprenorphine delivered by BUTRANS 10 mcg/hour is similar when applied to the upper outer arm, upper chest, upper back, or the side of the chest [see Dosage and Administration (2.6)].
+Effects of Application Site A study in healthy subjects demonstrated that the pharmacokinetic profile of buprenorphine delivered by BUTRANS 10 mcg/hour is similar when applied to the upper outer arm, upper chest, upper back, or the side of the chest [see Dosage and Administration (2.7)].
 
-The reapplication of BUTRANS 10 mcg/hour after various rest periods to the same application site in healthy subjects showed that the minimum rest period needed to avoid variability in drug absorption is 3 weeks (21 days) [see Dosage and Administration (2.6)].
+The reapplication of BUTRANS 10 mcg/hour after various rest periods to the same application site in healthy subjects showed that the minimum rest period needed to avoid variability in drug absorption is 3 weeks (21 days) [see Dosage and Administration (2.7)].
 
 Effects of Heat In a study of healthy subjects, application of a heating pad directly on the BUTRANS 10 mcg/hour system caused a 26% - 55% increase in blood concentrations of buprenorphine.
 Concentrations returned to normal within 5 hours after the heat was removed.

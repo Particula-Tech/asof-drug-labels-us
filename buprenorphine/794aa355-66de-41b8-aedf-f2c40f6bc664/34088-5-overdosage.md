@@ -7,7 +7,8 @@ Treatment of Overdose In case of overdose, priorities are the re-establishment o
 Employ other supportive measures (including oxygen, vasopressors) in the management of circulatory shock and pulmonary edema as indicated.
 Cardiac arrest or arrhythmias will require advanced life support techniques.
 
-Naloxone may not be effective in reversing any respiratory depression produced by buprenorphine.
+Opioid antagonists, such as naloxone, are specific antidotes to respiratory depression resulting from opioid overdose.
+However, naloxone may not be effective in reversing any respiratory depression produced by buprenorphine.
 High doses of naloxone, 10-35 mg/70 kg, may be of limited value in the management of buprenorphine overdose.
 The onset of naloxone effect may be delayed by 30 minutes or more.
 Doxapram hydrochloride (a respiratory stimulant) has also been used.

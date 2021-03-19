@@ -85,4 +85,4 @@ Titrate the dosage of BUTRANS slowly in geriatric patients and monitor closely f
 
 In a study utilizing intravenous buprenorphine, peak plasma levels (Cmax) and exposure (AUC) of buprenorphine in patients with mild and moderate hepatic impairment did not increase as compared to those observed in subjects with normal hepatic function.
 BUTRANS has not been evaluated in patients with severe hepatic impairment.
-As BUTRANS is intended for 7-day dosing, consider the use of alternate analgesic therapy in patients with severe hepatic impairment [see Dosage and Administration (2.4) and Clinical Pharmacology (12.3)].
+As BUTRANS is intended for 7-day dosing, consider the use of alternate analgesic therapy in patients with severe hepatic impairment [see Dosage and Administration (2.5) and Clinical Pharmacology (12.3)].

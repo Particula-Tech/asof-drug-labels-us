@@ -16,7 +16,18 @@ Patients who are opioid-experienced are those receiving, for one week or longer,
 BUTRANS is for transdermal use (on intact skin) only.
 Each BUTRANS patch is intended to be worn for 7 days.
 
-## 2.2 Initial Dosage
+## 2.2 Patient Access to Naloxone for the Emergency Treatment of Opioid Overdose
+
+Discuss the availability of naloxone for the emergency treatment of opioid overdose with the patient and caregiver and assess the potential need for access to naloxone, both when initiating and renewing treatment with BUTRANS [see Warnings and Precautions (5.3), Patient Counseling Information (17)].
+
+Inform patients and caregivers about the various ways to obtain naloxone as permitted by individual state naloxone dispensing and prescribing requirements or guidelines (e.g., by prescription, directly from a pharmacist, or as part of a community-based program).
+
+Consider prescribing naloxone, based on the patient’s risk factors for overdose, such as concomitant use of CNS depressants, a history of opioid use disorder, or prior opioid overdose.
+The presence of risk factors for overdose should not prevent the proper management of pain in any given patient [see Warnings and Precautions (5.1, 5.3, 5.5), Overdosage (10)].
+
+Consider prescribing naloxone if the patient has household members (including children) or other close contacts at risk for accidental exposure or overdose.
+
+## 2.3 Initial Dosage
 
 Use of BUTRANS as the First Opioid Analgesic (opioid-naive patients) Initiate treatment with BUTRANS with a 5 mcg/hour patch.
 
@@ -41,7 +52,7 @@ Conversion from Methadone to BUTRANS Close monitoring is of particular importanc
 The ratio between methadone and other opioid agonists may vary widely as a function of previous dose exposure.
 Methadone has a long half-life and can accumulate in the plasma.
 
-## 2.3 Titration and Maintenance of Therapy
+## 2.4 Titration and Maintenance of Therapy
 
 Individually titrate BUTRANS to a dose that provides adequate analgesia and minimizes adverse reactions.
 Continually reevaluate patients receiving BUTRANS to assess the maintenance of pain control and the relative incidence of adverse reactions, as well as monitoring for the development of addiction, abuse, or misuse [see Warnings and Precautions (5.1)].
@@ -60,12 +71,12 @@ If the level of pain increases after dose stabilization, attempt to identify the
 Because steady-state plasma concentrations are achieved within 72 hours, BUTRANS dosage may be adjusted every 3 days.
 Dose adjustments may be made in 5 mcg/hour, 7.5 mcg/hour, or 10 mcg/hour increments by using no more than two patches of the 5 mcg/hour, or 7.5 mcg/hour, or 10 mcg/hour system(s).
 The total dose from both patches should not exceed 20 mcg/hour.
-For the use of two patches, instruct patients to remove their current patch, and apply the two new patches at the same time, adjacent to one another at a different application site [see Dosage and Administration (2.6)].
+For the use of two patches, instruct patients to remove their current patch, and apply the two new patches at the same time, adjacent to one another at a different application site [see Dosage and Administration (2.7)].
 
 If unacceptable opioid-related adverse reactions are observed, consider reducing the dosage.
 Adjust the dosage to obtain an appropriate balance between the management of pain and opioid-related adverse reactions.
 
-## 2.4 Safe Reduction or Discontinuation of BUTRANS
+## 2.5 Safe Reduction or Discontinuation of BUTRANS
 
 Do not abruptly discontinue BUTRANS in patients who may be physically dependent on opioids.
 Rapid discontinuation of opioid analgesics in patients who are physically dependent on opioids has resulted in serious withdrawal symptoms, uncontrolled pain, and suicide.
@@ -93,12 +104,12 @@ In addition, monitor patients for any changes in mood, emergence of suicidal tho
 When managing patients taking opioid analgesics, particularly those who have been treated for a long duration and/or with high doses for chronic pain, ensure that a multimodal approach to pain management, including mental health support (if needed), is in place prior to initiating an opioid analgesic taper.
 A multimodal approach to pain management may optimize the treatment of chronic pain, as well as assist with the successful tapering of the opioid analgesic [see Warnings and Precautions (5.3), Drug Abuse and Dependence (9.3)].
 
-## 2.5 Patients with Hepatic Impairment
+## 2.6 Patients with Hepatic Impairment
 
 BUTRANS has not been evaluated in patients with severe hepatic impairment.
 As BUTRANS is only intended for 7-day application, consider use of an alternate analgesic that may permit more flexibility with the dosing in patients with severe hepatic impairment [see Warnings and Precautions (5.11), Use in Specific Populations (8.6), and Clinical Pharmacology (12.3)]
 
-## 2.6 Administration of BUTRANS
+## 2.7 Administration of BUTRANS
 
 - Instruct patients to apply immediately after removal from the individually sealed pouch.
   Instruct patients not to use BUTRANS if the pouch seal is broken or the patch is cut, damaged, or changed in any way.
@@ -117,10 +128,10 @@ As BUTRANS is only intended for 7-day application, consider use of an alternate 
 - If problems with adhesion of BUTRANS occur, the edges may be taped with first aid tape.
   If problems with lack of adhesion continue, the patch may be covered with waterproof or semipermeable adhesive dressings suitable for 7 days of wear.
 - If BUTRANS falls off during the 7-day dosing interval, dispose of the transdermal system properly and place a new BUTRANS patch on at a different skin site.
-- When changing the system, instruct patients to remove BUTRANS and dispose of it properly [see Dosage and Administration (2.7)].
+- When changing the system, instruct patients to remove BUTRANS and dispose of it properly [see Dosage and Administration (2.8)].
 - If the buprenorphine-containing adhesive matrix accidentally contacts the skin, instruct patients or caregivers to wash the area with water and not to use soap, alcohol, or other solvents to remove the adhesive because they may enhance the absorption of the drug.
 
-## 2.7 Disposal Instructions
+## 2.8 Disposal Instructions
 
 Patients should refer to the Instructions for Use for proper disposal of BUTRANS.
 Dispose of used and unused patches by following the instructions on the Patch-Disposal Unit that is packaged with the BUTRANS patches.
