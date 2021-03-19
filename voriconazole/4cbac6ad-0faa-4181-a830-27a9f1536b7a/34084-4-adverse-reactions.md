@@ -4,6 +4,8 @@ The following serious adverse reactions are described elsewhere in the labeling:
 
 ## 6.1 Clinical Trials Experience
 
+Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in practice.
+
 Clinical Trials Experience in Adults
 
 Overview
@@ -32,7 +34,7 @@ Possibly Related to Therapy or Causality Unknown†
 |  | N (%) | N (%) | N (%) | N (%) | N (%) | N (%) |
 | --- | --- | --- | --- | --- | --- | --- |
 |  | Therapeutic Studies* | Studies 307/602 and 608(IV/ oral therapy) |  |  |  | Study 305(oral therapy) |
-|  | VoriconazoleN=1655 | VoriconazoleN=468 | Ampho B**N=185 | Ampho B→ FluconazoleN=131 | VoriconazoleN=200 | FluconazoleN=191 |
+|  | Voriconazole N=1655 | Voriconazole N=468 | Ampho B**N=185 | Ampho B FluconazoleN=131 | Voriconazole N=200 | Fluconazole N=191 |
 | Special Senses*** |  |  |  |  |  |  |
 | Abnormal vision | 310 (18.7) | 63 (13.5) | 1 (0.5) | 0 | 31 (15.5) | 8 (4.2) |
 | Photophobia | 37 (2.2) | 8 (1.7) | 0 | 0 | 5 (2.5) | 2 (1) |
@@ -44,9 +46,9 @@ Possibly Related to Therapy or Causality Unknown†
 | Cardiovascular System |  |  |  |  |  |  |
 | Tachycardia | 39 (2.4) | 6 (1.3) | 5 (2.7) | 0 | 0 | 0 |
 | Digestive System |  |  |  |  |  |  |
-| Nausea | 89 (5.4) | 18 (3.8) | 29 (15.7) | 2 (1.5) | 2 (1.) | 3 (1.6) |
-| Vomiting | 72 (4.4) | 15 (3.2) | 18 (9.7) | 1 (0.8) | 2 (1.) | 1 (0.5) |
-| Liver function tests abnormal | 45 (2.7) | 15 (3.2) | 4 (2.2) | 1 (0.8) | 6 (3.) | 2 (1) |
+| Nausea | 89 (5.4) | 18 (3.8) | 29 (15.7) | 2 (1.5) | 2 (1) | 3 (1.6) |
+| Vomiting | 72 (4.4) | 15 (3.2) | 18 (9.7) | 1 (0.8) | 2 (1) | 1 (0.5) |
+| Liver function tests abnormal | 45 (2.7) | 15 (3.2) | 4 (2.2) | 1 (0.8) | 6 (3) | 2 (1) |
 | Cholestatic jaundice | 17 (1) | 8 (1.7) | 0 | 1 (0.8) | 3 (1.5) | 0 |
 | Metabolic and Nutritional Systems |  |  |  |  |  |  |
 | Alkaline phosphatase increased | 59 (3.6) | 19 (4.1) | 4 (2.2) | 3 (2.3) | 10 (5) | 3 (1.6) |
@@ -80,7 +82,7 @@ The mechanism of action of the visual disturbance is unknown, although the site 
 In a study in healthy subjects investigating the effect of 28-day treatment with voriconazole on retinal function, voriconazole caused a decrease in the electroretinogram (ERG) waveform amplitude, a decrease in the visual field, and an alteration in color perception.
 The ERG measures electrical currents in the retina.
 These effects were noted early in administration of voriconazole and continued through the course of study drug treatment.
-Fourteen days after end of dosing, ERG, visual fields and color perception returned to normal [see Warnings and Precautions (5.4)].
+Fourteen days after the end of dosing, ERG, visual fields and color perception returned to normal [see Warnings and Precautions (5.4)].
 Dermatological Reactions Dermatological reactions were common in the patients treated with voriconazole.
 The mechanism underlying these dermatologic adverse events remains unknown.
 Severe cutaneous adverse reactions (SCARs), including Stevens-Johnson syndrome (SJS), toxic epidermal necrolysis (TEN), and drug reaction with eosinophilia and systemic symptoms (DRESS) have been reported during treatment with voriconazole.
@@ -89,7 +91,7 @@ Erythema multiforme has also been reported during treatment with voriconazole [s
 Voriconazole has also been associated with additional photosensitivity related skin reactions such as pseudoporphyria, cheilitis, and cutaneous lupus erythematosus [see Warnings and Precautions (5.6)].
 Less Common Adverse Reactions The following adverse reactions occurred in < 2% of all voriconazole-treated patients in all therapeutic studies (N=1655).
 This listing includes events where a causal relationship to voriconazole cannot be ruled out or those which may help the physician in managing the risks to the patients.
-The list does not include events included in Table 5 above and does not include every event reported in the voriconazole clinical program.
+The list does not include events included in Table 4 above and does not include every event reported in the voriconazole clinical program.
 Body as a Whole: abdominal pain, abdomen enlarged, allergic reaction, anaphylactoid reaction [see Warnings and Precautions (5.3)], ascites, asthenia, back pain, chest pain, cellulitis, edema, face edema, flank pain, flu syndrome, graft versus host reaction, granuloma, infection, bacterial infection, fungal infection, injection site pain, injection site infection/inflammation, mucous membrane disorder, multi-organ failure, pain, pelvic pain, peritonitis, sepsis, substernal chest pain.
 Cardiovascular: atrial arrhythmia, atrial fibrillation, AV block complete, bigeminy, bradycardia, bundle branch block, cardiomegaly, cardiomyopathy, cerebral hemorrhage, cerebral ischemia, cerebrovascular accident, congestive heart failure, deep thrombophlebitis, endocarditis, extrasystoles, heart arrest, hypertension, hypotension, myocardial infarction, nodal arrhythmia, palpitation, phlebitis, postural hypotension, pulmonary embolus, QT interval prolonged, supraventricular extrasystoles, supraventricular tachycardia, syncope, thrombophlebitis, vasodilatation, ventricular arrhythmia, ventricular fibrillation, ventricular tachycardia (including torsade de pointes) [see Warnings and Precautions (5.2)].
 
@@ -122,7 +124,7 @@ Patient management should include laboratory evaluation of hepatic function (par
 Discontinuation of voriconazole must be considered if clinical signs and symptoms consistent with liver disease develop that may be attributable to voriconazole [see Warnings and Precautions (5.1)].
 
 Acute renal failure has been observed in severely ill patients undergoing treatment with voriconazole.
-Patients being treated with voriconazole are likely to be treated concomitantly with nephrotoxic medications may have concurrent conditions that can result in decreased renal function.
+Patients being treated with voriconazole are likely to be treated concomitantly with nephrotoxic medications and may have concurrent conditions that can result in decreased renal function.
 It is recommended that patients are monitored for the development of abnormal renal function.
 This should include laboratory evaluation of serum creatinine.
 Tables 5 to 7 show the number of patients with hypokalemia and clinically significant changes in renal and liver function tests in three randomized, comparative multicenter studies.
@@ -134,75 +136,89 @@ Table 5: Protocol 305 – Patients with Esophageal Candidiasis Clinically Signif
 
 |  |  | n/N (%) | n/N (%) |
 | --- | --- | --- | --- |
-|  | Criteria | Voriconazole | Fluconazole |
-| T. Bilirubin | >1.5× ULN | 8/185 (4.3) | 7/186 (3.8) |
-| AST | >3.0× ULN | 38/187 (20.3) | 15/186 (8.1) |
-| ALT | >3.0× ULN | 20/187 (10.7) | 12/186 (6.5) |
-| Alkaline Phosphatase | >3.0× ULN | 19/187 (10.2) | 14/186 (7.5) |
+|  | Criteria* | Voriconazole | Fluconazole |
+| T. Bilirubin | >1.5x ULN | 8/185 (4.3) | 7/186 (3.8) |
+| AST | >3x ULN | 38/187 (20.3) | 15/186 (8.1) |
+| ALT | >3x ULN | 20/187 (10.7) | 12/186 (6.5) |
+| Alkaline phosphatase | >3x ULN | 19/187 (10.2) | 14/186 (7.5) |
 
 *Without regard to baseline value
 
-n = number of patients with a clinically significant abnormality while on study therapy
+n=number of patients with a clinically significant abnormality while on study therapy
 
-N = total number of patients with at least one observation of the given lab test while on study therapy
+N=total number of patients with at least one observation of the given lab test while on study therapy
 
-AST = Aspartate aminotransferase; ALT= alanine aminotransferase ULN = upper limit of normal Table 6: Protocol 307/602 – Primary Treatment of Invasive Aspergillosis Clinically Significant Laboratory Test Abnormalities
+AST=Aspartate aminotransferase; ALT= alanine aminotransferase ULN=upper limit of normal Table 6: Protocol 307/602 – Primary Treatment of Invasive Aspergillosis Clinically Significant Laboratory Test Abnormalities
 
 |  |  | n/N (%) | n/N (%) |
 | --- | --- | --- | --- |
-|  | Criteria | Voriconazole | Amphotericin B |
-| T. Bilirubin | >1.5× ULN | 35/180 (19.4) | 46/173 (26.6) |
-| AST | >3.0× ULN | 21/180 (11.7) | 18/174 (10.3) |
-| ALT | >3.0× ULN | 34/180 (18.9) | 40/173 (23.1) |
-| Alkaline Phosphatase | >3.0× ULN | 29/181 (16.0) | 38/173 (22.0) |
-| Creatinine | >1.3× ULN | 39/182 (21.4) | 102/177 (57.6) |
-| Potassium | <0.9× LLN | 30/181 (16.6) | 70/178 (39.3) |
+|  | Criteria* | Voriconazole | Amphotericin B** |
+| T. Bilirubin | >1.5x ULN | 35/180 (19.4) | 46/173 (26.6) |
+| AST | >3x ULN | 21/180 (11.7) | 18/174 (10.3) |
+| ALT | >3x ULN | 34/180 (18.9) | 40/173 (23.1) |
+| Alkaline phosphatase | >3x ULN | 29/181 (16) | 38/173 (22) |
+| Creatinine | >1.3x ULN | 39/182 (21.4) | 102/177 (57.6) |
+| Potassium | <0.9x LLN | 30/181 (16.6) | 70/178 (39.3) |
 
-n = number of patients with a clinically significant abnormality while on study therapy
+* Without regard to baseline value
+
+** Amphotericin B followed by other licensed antifungal therapy
+
+n=number of patients with a clinically significant abnormality while on study therapy
+
+N=total number of patients with at least one observation of the given lab test while on study therapy
+
+AST = Aspartate aminotransferase; ALT= alanine aminotransferase
+
+ULN=upper limit of normal
+
+LLN=lower limit of normal
 
 Table 7: Protocol 608 – Treatment of Candidemia Clinically Significant Laboratory Test Abnormalities
 
 |  |  | n/N (%) | n/N (%) |
 | --- | --- | --- | --- |
-|  | Criteria | Voriconazole | Amphotericin B followed by Fluconazole |
-| T. Bilirubin | >1.5× ULN | 50/261 (19.2) | 31/115 (27.0) |
-| AST | >3.0× ULN | 40/261 (15.3) | 16/116 (13.8) |
-| ALT | >3.0× ULN | 22/261 (8.4) | 15/116 (12.9) |
-| Alkaline Phosphatase | >3.0× ULN | 59/261 (22.6) | 26/115 (22.6) |
-| Creatinine | >1.3× ULN | 39/260 (15.0) | 32/118 (27.1) |
-| Potassium | <0.9× LLN | 43/258 (16.7) | 35/118 (29.7) |
+|  | Criteria* | Voriconazole | Amphotericin B followed by Fluconazole |
+| T. Bilirubin | >1.5x ULN | 50/261 (19.2) | 31/115 (27) |
+| AST | >3x ULN | 40/261 (15.3) | 16/116 (13.8) |
+| ALT | >3x ULN | 22/261 (8.4) | 15/116 (12.9) |
+| Alkaline phosphate | >3x ULN | 59/261 (22.6) | 26/115 (22.6) |
+| Creatinine | >1.3x ULN | 39/260 (15) | 32/118 (27.1) |
+| Potassium | <0.9x LLN | 43/258 (16.7) | 35/118 (29.7) |
 
-n = number of patients with a clinically significant abnormality while on study therapy
+* Without regard to baseline value
 
-N= = total number of patients with at least one observation of the given lab test while on study therapy
+n=number of patients with a clinically significant abnormality while on study therapy
 
-AST = Aspartate aminotransferase; ALT = alanine aminotransferase
+N=total number of patients with at least one observation of the given lab test while on study therapy
 
-ULN = upper limit of normal
+AST = Aspartate aminotransferase; ALT= alanine aminotransferase
 
-LLN = lower limit of normal
+ULN=upper limit of normal
 
-Clinical Trials Experience in Pediatric Patients The safety of Voriconazole was investigated in 105 pediatric patients aged 2 to less than 18 years, including 52 pediatric patients less than 18 years of age who were enrolled in the adult therapeutic studies.
-Serious Adverse Reactions and Adverse Reactions Leading to Discontinuation In clinical studies, serious adverse reactions occurred in 46% (48/105) of Voriconazole treated pediatric patients.
+LLN=lower limit of normal
+
+Clinical Trials Experience in Pediatric Patients The safety of voriconazole was investigated in 105 pediatric patients aged 2 to less than 18 years, including 52 pediatric patients less than 18 years of age who were enrolled in the adult therapeutic studies.
+Serious Adverse Reactions and Adverse Reactions Leading to Discontinuation In clinical studies, serious adverse reactions occurred in 46% (48/105) of voriconazole treated pediatric patients.
 Treatment discontinuations due to adverse reactions occurred in 12 /105 (11%) of all patients.
 Hepatic adverse reactions (i.e.
-ALT increased; liver function test abnormal; jaundice) 6% (6/105) accounted for the majority of Voriconazole treatment discontinuations.
+ALT increased; liver function test abnormal; jaundice) 6% (6/105) accounted for the majority of voriconazole treatment discontinuations.
 
 Most Common Adverse Reactions
 
-The most common adverse reactions occurring in ≥5% of pediatric patients receiving Voriconazole in the pooled pediatric clinical trials are displayed by body system, in Table 8.
+The most common adverse reactions occurring in ≥5% of pediatric patients receiving voriconazole in the pooled pediatric clinical trials are displayed by body system, in Table 8.
 
 Table 8: Treatment-Emergent Adverse Reactions Occurring in ≥5% of Pediatric Patients Receiving Voriconazole in the Pooled Pediatric Clinical Trials
 
-| Body System | Adverse Reaction | Pooled Pediatric Data N=105 n (%) |
+| Body System | Adverse Reaction | Pooled Pediatric Dataa N=105 n (%) |
 | --- | --- | --- |
 | Blood and Lymphatic Systems Disorders | Thrombocytopenia | 10 (10) |
 | Cardiac Disorders | Tachycardia | 7 (7) |
-| Eye Disorders | Visual Disturbances | 27 (26) |
+| Eye Disorders | Visual Disturbancesb | 27 (26) |
 | Photophobia | 6 (6) |  |
 | Gastrointestinal Disorders | Vomiting | 21 (20) |
 | Nausea | 14 (13) |  |
-| Abdominal pain | 13 (12) |  |
+| Abdominal painc | 13 (12) |  |
 | Diarrhea | 12 (11) |  |
 | Abdominal distention | 5 (5) |  |
 | Constipation | 5 (5) |  |
@@ -210,7 +226,7 @@ Table 8: Treatment-Emergent Adverse Reactions Occurring in ≥5% of Pediatric Pa
 | Peripheral edema | 9 (9) |  |
 | Mucosal inflammation | 6 (6) |  |
 | Infections and Infestations | Upper respiratory tract infection | 5 (5) |
-| Investigations | ALT abnormal | 9 (9) |
+| Investigations | ALT abnormald | 9 (9) |
 | LFT abnormal | 6 (6) |  |
 | Metabolism and Nutrition Disorders | Hypokalemia | 11 (11) |
 | Hyperglycemia | 7 (7) |  |
@@ -220,13 +236,13 @@ Table 8: Treatment-Emergent Adverse Reactions Occurring in ≥5% of Pediatric Pa
 | Hypomagnesemia | 5 (5) |  |
 | Nervous System Disorders | Headache | 10 (10) |
 | Dizziness | 5 (5) |  |
-| Psychiatric Disorders | Hallucinations | 5 (5) |
-| Renal and Urinary Disorders | Renal impairment | 5 (5) |
+| Psychiatric Disorders | Hallucinationse | 5 (5) |
+| Renal and Urinary Disorders | Renal impairmentf | 5 (5) |
 | Respiratory Disorders | Epistaxis | 17 (16) |
 | Cough | 10 (10) |  |
 | Dyspnea | 6 (6) |  |
 | Hemoptysis | 5 (5) |  |
-| Skin and Subcutaneous Tissue Disorders | Rash | 14 (13) |
+| Skin and Subcutaneous Tissue Disorders | Rashg | 14 (13) |
 | Vascular Disorders | Hypertension | 12 (11) |
 | Hypotension | 9 (9) |  |
 
@@ -242,21 +258,21 @@ d Pooled reports include such terms as: ALT abnormal and ALT increased.
 e Pooled reports include such terms as: hallucination; hallucination, auditory; hallucination, visual.
 Several patients had both visual and auditory hallucinations.
 
-f Pooled reports include subch terms as: renal failure and a single patient with renal impairment.
+f Pooled reports include such terms as: renal failure and a single patient with renal impairment.
 
 g Pooled reports include such terms as: rash; rash generalized; rash macular; rash maculopapular; rash pruritic.
 
-Abbreviations: ALT = alanine aminotransferase; LFT = liver function test The following adverse reactions with incidence less than 5% were reported in 105 pediatric patients treated with Voriconazole: Blood and Lymphatic System Disorders: anemia, leukopenia, pancytopenia
+Abbreviations: ALT = alanine aminotransferase; LFT = liver function test The following adverse reactions with incidence less than 5% were reported in 105 pediatric patients treated with voriconazole: Blood and Lymphatic System Disorders: anemia, leukopenia, pancytopenia
 
 Cardiac Disorders: bradycardia, palpitations, supraventricular tachycardia Eye Disorders: dry eye, keratitis
 
-Ear and Labyrinth Disorders: tinnitus, vertigo Gastrointestinal Disorders: abdominal tenderness, dyspepsia General Disorders and Administration Site Conditions: asthenia, catheter site pain, chills, hypothermia, lethargy Hepatobiliary Disorders: cholestasis, hyperbilirubinemia, jaundice Immune System Disorders: hypersensitivity, urticarial Infections and Infestations: conjunctivitis Laboratory Investigations: AST increased, blood creatinine increased, gamma-glutamyl transferase increased Metabolism and Nutrition Disorders: hypercalcemia, hypermagnesemia, hyperphosphatemia, hypoglycemia Musculoskeletal and Connective Tissue Disorders: arthralgia, myalgia Nervous System Disorders: ataxia, convulsion, dizziness, nystagmus, paresthesia, syncope Psychiatric Disorders: affect lability, agitation, anxiety, depression, insomnia Respiratory Disorders: bronchospasm, nasal congestion, respiratory failure, tachypnea Skin and Subcutaneous Tissue Disorders: alopecia, dermatitis (allergic, contact, and exfoliative), pruritus Vascular Disorders: flushing, phlebitis Hepatic-Related Adverse Reactions in Pediatric Patients The frequency of hepatic-related adverse reactions in pediatric patients exposed to Voriconazole in therapeutic studies was numerically higher than that of adults (28.6% compared to 24.1%, respectively).
+Ear and Labyrinth Disorders: tinnitus, vertigo Gastrointestinal Disorders: abdominal tenderness, dyspepsia General Disorders and Administration Site Conditions: asthenia, catheter site pain, chills, hypothermia, lethargy Hepatobiliary Disorders: cholestasis, hyperbilirubinemia, jaundice Immune System Disorders: hypersensitivity, urticaria Infections and Infestations: conjunctivitis Laboratory Investigations: AST increased, blood creatinine increased, gamma-glutamyl transferase increased Metabolism and Nutrition Disorders: hypercalcemia, hypermagnesemia, hyperphosphatemia, hypoglycemia Musculoskeletal and Connective Tissue Disorders: arthralgia, myalgia Nervous System Disorders: ataxia, convulsion, dizziness, nystagmus, paresthesia, syncope Psychiatric Disorders: affect lability, agitation, anxiety, depression, insomnia Respiratory Disorders: bronchospasm, nasal congestion, respiratory failure, tachypnea Skin and Subcutaneous Tissue Disorders: alopecia, dermatitis (allergic, contact, and exfoliative), pruritus Vascular Disorders: flushing, phlebitis Hepatic-Related Adverse Reactions in Pediatric Patients The frequency of hepatic-related adverse reactions in pediatric patients exposed to voriconazole in therapeutic studies was numerically higher than that of adults (28.6% compared to 24.1%, respectively).
 The higher frequency of hepatic adverse reactions in the pediatric population was mainly due to an increased frequency of liver enzyme elevations (21.9% in pediatric patients compared to 16.1% in adults), including transaminase elevations (ALT and AST combined) 7.6% in the pediatric patients compared to 5.1% in adults.
 
 Clinical Laboratory Values in Pediatric Patients
 
-The overall incidence of transaminase increases >3× upper limit of normal was 27.2% (28/103) in pediatric and 17.7% (268/1514) in adult patients treated with Voriconazole in pooled clinical trials.
-The majority of abnormal liver function tests either resolved on treatment with or without dose adjustment or after Voriconazole discontinuation.
+The overall incidence of transaminase increases >3× upper limit of normal was 27.2% (28/103) in pediatric and 17.7% (268/1514) in adult patients treated with voriconazole in pooled clinical trials.
+The majority of abnormal liver function tests either resolved on treatment with or without dose adjustment or after voriconazole discontinuation.
 
 A higher frequency of clinically significant liver laboratory abnormalities, irrespective of baseline laboratory values (>3× ULN ALT or AST), was consistently observed in the combined therapeutic pediatric population (15.5% AST and 22.5% ALT) when compared to adults (12.9% AST and 11.6% ALT).
 The incidence of bilirubin elevation was comparable between adult and pediatric patients.
@@ -266,23 +282,25 @@ Table 9: Incidence of Hepatic Abnormalities among Pediatric Subjects
 
 |  | Criteria | n/N (%) |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Total bilirubin | >1.5× ULN | 19/102 (19) |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| AST | >3× ULN | 16/103 (16) |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| ALT | >3× ULN | 23/102 (23) |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| Alkaline Phosphatase | >3× ULN | 8/97 (8) |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| Total bilirubin | >1.5x ULN | 19/102 (19) |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| AST | >3x ULN | 16/103 (16) |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| ALT | >3x ULN | 23/102 (23) |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| Alkaline Phosphatase | >3x ULN | 8/97 (8) |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 | n = number of patients with a clinically significant abnormality while on study therapy N = total number of patients with at least one observation of the given lab test while on study therapy AST = Aspartate aminotransferase; ALT = alanine aminotransferase ULN = upper limit of normal |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
-1. Pediatric use information is approved for Pfizer's VFEND® (voriconazole) tablets.
-   However, due to Pfizer's marketing exclusivity rights, this drug product is not labeled with that pediatric information.
+- Pediatric use information is approved for Pfizer's VFEND® (voriconazole) tablets.
+  However, due to Pfizer's marketing exclusivity rights, this drug product is not labeled with that pediatric information.
 
 ## 6.2 Postmarketing Experience in Adult and Pediatric Patients
 
-The following adverse reactions have been identified during post-approval use of Voriconazole.
+The following adverse reactions have been identified during post-approval use of voriconazole.
 Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
 
-Adults Skeletal: fluorosis and periostitis have been reported during long-term voriconazole therapy [see Warnings and Precautions (5.11)].
+Adults Skeletal: fluorosis and periostitis have been reported during long-term voriconazole therapy [see Warnings and Precautions (5.12)].
 Eye disorders: prolonged visual adverse reactions, including optic neuritis and papilledema [see Warnings and Precautions (5.4)].
 
 Skin and Appendages: drug reaction with eosinophilia and systemic symptoms (DRESS) has been reported [see Warnings and Precautions (5.5) and Adverse Reactions (6.1)].
+
+Endocrine disorders: adrenal insufficiency, Cushing’s syndrome (when voriconazole has been used concomitantly with corticosteroids) [see Warnings and Precautions (5.8)].
 
 Pediatric Patients There have been postmarketing reports of pancreatitis in pediatric patients.

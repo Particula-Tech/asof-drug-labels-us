@@ -8,14 +8,14 @@ Hepatic reactions, including hepatitis and jaundice, have occurred among patient
 Liver dysfunction has usually been reversible on discontinuation of therapy [see Adverse Reactions (6.1)].
 
 A higher frequency of liver enzyme elevations was observed in the pediatric population [see Adverse Reactions (6.1)].
-Hepaticfunction should be monitored in both adult and pediatric patients.
+Hepatic function should be monitored in both adult and pediatric patients.
 
 Measure serum transaminase levels and bilirubin at the initiation of voriconazole therapy and monitor at least weekly for the first month of treatment.
 Monitoring frequency can be reduced to monthly during continued use if no clinically significant changes are noted.
-If liver function tests become markedly elevated compared to baseline, voriconazole tablets should be discontinued unless the medical judgment of the benefit/risk of the treatment for the patient justifies continued use [see Dosage and Administration (2.5) and Adverse Reactions (6.1)]
+If liver function tests become markedly elevated compared to baseline, voriconazole tablets should be discontinued unless the medical judgment of the benefit/risk of the treatment for the patient justifies continued use [see Dosage and Administration (2.5) and Adverse Reactions (6.1)].
 
-1. Pediatric use information is approved for Pfizer's VFEND® (voriconazole) tablets.
-   However, due to Pfizer's marketing exclusivity rights, this drug product is not labeled with that pediatric information.
+- Pediatric use information is approved for Pfizer's VFEND® (voriconazole) tablets.
+  However, due to Pfizer's marketing exclusivity rights, this drug product is not labeled with that pediatric information.
 
 ## 5.2 Arrhythmias and QT Prolongation
 
@@ -42,7 +42,7 @@ If treatment continues beyond 28 days, visual function including visual acuity, 
 ## 5.5 Severe Cutaneous Adverse Reactions
 
 Severe cutaneous adverse reactions (SCARs), such as Stevens-Johnson syndrome (SJS), toxic epidermal necrolysis (TEN), and drug reaction with eosinophilia and systemic symptoms (DRESS), which can be life-threatening or fatal, have been reported during treatment with voriconazole.
-If a patient develops a severe cutaneous adverse reaction, voriconazole should be discontinued.
+If a patient develops a severe cutaneous adverse reaction, voriconazole tablets should be discontinued [see Adverse Reactions (6.1, 6.2)].
 
 ## 5.6 Photosensitivity
 
@@ -67,34 +67,45 @@ Patients being treated with voriconazole are likely to be treated concomitantly 
 Patients should be monitored for the development of abnormal renal function.
 This should include laboratory evaluation of serum creatinine [see Clinical Pharmacology (12.3) and Dosage and Administration (2.6)].
 
-## 5.8 Embryo-Fetal Toxicity
+## 5.8 Adrenal Dysfunction
+
+Reversible cases of azole-induced adrenal insufficiency have been reported in patients receiving azoles, including voriconazole.
+Adrenal insufficiency has been reported in patients receiving azoles with or without concomitant corticosteroids.
+In patients receiving azoles without corticosteroids adrenal insufficiency is related to direct inhibition of steroidogenesis by azoles.
+In patients taking corticosteroids, voriconazole associated CYP3A4 inhibition of their metabolism may lead to corticosteroid excess and adrenal suppression [see Drug Interactions (7) and Clinical Pharmacology (12.3)].
+Cushing’s syndrome with and without subsequent adrenal insufficiency has also been reported in patients receiving voriconazole concomitantly with corticosteroids.
+
+Patients receiving voriconazole and corticosteroids (via all routes of administration) should be carefully monitored for adrenal dysfunction both during and after voriconazole treatment.
+Patients should be instructed to seek immediate medical care if they develop signs and symptoms of Cushing’s syndrome or adrenal insufficiency.
+
+## 5.9 Embryo-Fetal Toxicity
 
 Voriconazole can cause fetal harm when administered to a pregnant woman.
 
 In animals, voriconazole administration was associated with fetal malformations, embryotoxicity, increased gestational length, dystocia and embryomortality [see Use in Specific Populations (8.1)].
 If voriconazole is used during pregnancy, or if the patient becomes pregnant while taking voriconazole, inform the patient of the potential hazard to the fetus.
-Advise females of reproductive potential to use effective contraception during treatment with voriconazole [see Use in Specific Populations (8.3)]
+Advise females of reproductive potential to use effective contraception during treatment with voriconazole [see Use in Specific Populations (8.3)].
 
-## 5.9 Laboratory Tests
+## 5.10 Laboratory Tests
 
 Electrolyte disturbances such as hypokalemia, hypomagnesemia and hypocalcemia should be corrected prior to initiation of and during voriconazole therapy.
 
 Patient management should include laboratory evaluation of renal (particularly serum creatinine) and hepatic function (particularly liver function tests and bilirubin).
 
-## 5.10 Pancreatitis
+## 5.11 Pancreatitis
 
 Pancreatitis has been observed in patients undergoing treatment with voriconazole [see Adverse Reactions (6.1, 6.2)] Patients with risk factors for acute pancreatitis (e.g., recent chemotherapy, hematopoietic stem cell transplantation [HSCT]) should be monitored for the development of pancreatitis during voriconazole treatment.
 
-## 5.11 Skeletal Adverse Reactions
+## 5.12 Skeletal Adverse Reactions
 
 Fluorosis and periostitis have been reported during long-term voriconazole therapy.
 If a patient develops skeletal pain and radiologic findings compatible with fluorosis or periostitis, voriconazole should be discontinued [see Adverse Reactions (6.2)].
 
-## 5.12 Clinically Significant Drug Interactions
+## 5.13 Clinically Significant Drug Interactions
 
 See Table 10 for a listing of drugs that may significantly alter voriconazole concentrations.
 Also, see Table 11 for a listing of drugs that may interact with voriconazole resulting in altered pharmacokinetics or pharmacodynamics of the other drug [see Contraindications (4) and Drug Interactions (7)].
 
-## 5.13 Galactose Intolerance
+## 5.14 Galactose Intolerance
 
 Voriconazole tablets contain lactose and should not be given to patients with rare hereditary problems of galactose intolerance, Lapp lactase deficiency or glucose-galactose malabsorption.

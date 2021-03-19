@@ -5,7 +5,7 @@ Advise the patient to read the FDA-approved patient labeling (Patient Informatio
 Embryo-Fetal Toxicity
 
 - •Advise female patients of the potential risks to a fetus.
-- •Advise females of reproductive potential to use effective contraception during treatment with voriconazole.
+- •Advise females of reproductive potential to use effective contraception during treatment with voriconazole tablets.
 
 Manufactured by:
 
@@ -24,8 +24,6 @@ Questions?
 
 www.glenmarkpharma-us.com
 
-Product of India
-
 Trademarks are the property of their respective owners.
 
-October 2020
+March 2021

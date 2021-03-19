@@ -10,10 +10,10 @@ In animal reproduction studies, oral voriconazole was associated with fetal malf
 Cleft palates and hydronephrosis/hydroureter were observed in rat pups exposed to voriconazole during organogenesis at and above 10 mg/kg (0.3 times the RMD of 200 mg every 12 hours based on body surface area comparisons).
 In rabbits, embryomortality, reduced fetal weight and increased incidence of skeletal variations, cervical ribs and extrasternal ossification sites were observed in pups when pregnant rabbits were orally dosed at 100 mg/kg (6 times the RMD based on body surface area comparisons) during organogenesis.
 Rats exposed to voriconazole from implantation to weaning experienced increased gestational length and dystocia, which were associated with increased perinatal pup mortality at the 10 mg/kg dose [see Data].
-If this drug is used during pregnancy, or if the patient becomes pregnant while taking this drug, inform the patient of the potential hazard to the fetus [see Warnings and Precautions (5.8)].
+If this drug is used during pregnancy, or if the patient becomes pregnant while taking this drug, inform the patient of the potential hazard to the fetus [see Warnings and Precautions (5.9)].
 
 The background risk of major birth defects and miscarriage for the indicated populations is unknown.
-In the U.S. general population, the estimated background risk of major birth defects and miscarriage in clinically recognized pregnancies is 2 to 4% and 15-20% respectively.
+In the U.S. general population, the estimated background risk of major birth defects and miscarriage in clinically recognized pregnancies is 2 to 4% and 15 to 20% respectively.
 
 Data
 
@@ -23,7 +23,7 @@ Voriconazole was administered orally to pregnant rats during organogenesis (gest
 Voriconazole was associated with increased incidences in hydroureter and hydronephrosis at 10 mg/kg/day or greater, approximately 0.3 times the recommended human dose (RMD) based on mg/m2, and cleft palate at 60 mg/kg, approximately 2 times the RMD based on mg/m2.
 Reduced ossification of sacral and caudal vertebrae, skull, pubic, and hyoid bone, supernumerary ribs, anomalies of the sternbrae, and dilatation of the ureter/renal pelvis were also observed at doses of 10 mg/kg or greater.
 There was no evidence of maternal toxicity at any dose.
-Voriconazole was administered orally to pregnant rabbits during the period of organogenesis (gestation days 7-19) at 10, 40, and 100 mg/kg/day.
+Voriconazole was administered orally to pregnant rabbits during the period of organogenesis (gestation days 7 to 19) at 10, 40, and 100 mg/kg/day.
 Voriconazole was associated with increased post-implantation loss and decreased fetal body weight, in association with maternal toxicity (decreased body weight gain and food consumption) at 100 mg/kg/day (6 times the RMD based on mg/m2).
 Fetal skeletal variations (increases in the incidence of cervical rib and extra sternebral ossification sites) were observed at 100 mg/kg/day.
 In a peri- and postnatal toxicity study in rats, voriconazole was administered orally to female rats from implantation through the end of lactation at 1, 3, and 10 mg/kg/day.
@@ -38,10 +38,10 @@ The developmental and health benefits of breastfeeding should be considered alon
 
 ## 8.3 Females and Males of Reproductive Potential
 
-Contracessssption
+Contraception
 
 Advise females of reproductive potential to use effective contraception during treatment with voriconazole.
-The coadministration of voriconazole with the oral contraceptive, Ortho-Novum®(35 mcg ethinyl estradiol and 1 mg norethindrone), results in an interaction between these two drugs, but is unlikely to reduce the contraceptive effect.
+The coadministration of voriconazole with the oral contraceptive, Ortho-Novum® (35 mcg ethinyl estradiol and 1 mg norethindrone), results in an interaction between these two drugs, but is unlikely to reduce the contraceptive effect.
 Monitoring for adverse reactions associated with oral contraceptives and voriconazole is recommended [see Drug Interactions (7) and Clinical Pharmacology (12.3)].
 
 ## 8.4 Pediatric Use
@@ -60,10 +60,10 @@ Stringent measures for photoprotection are warranted.
 Sun avoidance and dermatologic follow-up are recommended in pediatric patients experiencing photoaging injuries, such as lentigines or ephelides, even after treatment discontinuation [see Warnings and Precautions (5.6)].
 
 Voriconazole has not been studied in pediatric patients with hepatic or renal impairment [see Dosage and Administration (2.5, 2.6)].
-Hepatic function and serum creatinine levels should be closely monitored in pediatric patients [see Dosage and Administration (2.6) and Warnings and Precautions (5.1, 5.9)].
+Hepatic function and serum creatinine levels should be closely monitored in pediatric patients [see Dosage and Administration (2.6) and Warnings and Precautions (5.1, 5.10)].
 
-1. Pediatric use information is approved for Pfizer's VFEND® (voriconazole) tablets.
-   However, due to Pfizer's marketing exclusivity rights, this drug product is not labeled with that pediatric information.
+- Pediatric use information is approved for Pfizer's VFEND® (voriconazole) tablets.
+  However, due to Pfizer's marketing exclusivity rights, this drug product is not labeled with that pediatric information.
 
 ## 8.5 Geriatric Use
 

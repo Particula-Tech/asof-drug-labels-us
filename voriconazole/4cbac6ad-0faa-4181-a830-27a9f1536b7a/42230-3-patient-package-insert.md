@@ -1,6 +1,4 @@
-# Patient Package Insert
-
-PATIENT INFORMATION
+# PATIENT INFORMATION
 
 Voriconazole Tablets
 
@@ -22,18 +20,13 @@ Do not take voriconazole tablets if you:
 - •are allergic to voriconazole or any of the ingredients in voriconazole tablets.
   See the end of this leaflet for a complete list of ingredients in voriconazole tablets.
 - •are taking any of the following medicines:
-- o cisapride
-- o pimozide
-- o quinidine
-- o sirolimus
-- o rifampin
-- o carbamazepine
-- o long-acting barbiturates like phenobarbital
-- o efavirenz
-- o ritonavir
-- o rifabutin
-- o ergotamine, dihydroergotamine (ergot alkaloids)
-- o St. John’s Wort (herbal supplement)
+
+| ocisapride | opimozide | oquinidine |
+| --- | --- | --- |
+| osirolimus | orifampin | ocarbamazepine |
+| olong-acting barbiturates like phenobarbital | oefavirenz | oritonavir |
+| orifabutin | oergotamine, dihydroergotamine (ergot alkaloids) | oSt. John’s Wort (herbal supplement) |
+| onaloxegol | otolvaptan |  |
 
 Ask your healthcare provider or pharmacist if you are not sure if you are taking any of the medicines listed above.
 
@@ -41,8 +34,10 @@ Do not start taking a new medicine without talking to your healthcare provider o
 
 Before you take voriconazole tablets, tell your healthcare provider about all of your medical conditions, including if you:
 
-- • have or ever had heart disease, or an abnormal heart rate or rhythm.
+- •have or ever had heart disease, or an abnormal heart rate or rhythm.
   Your healthcare provider may order a test to check your heart (EKG) before starting voriconazole tablets.
+- •have low potassium levels, low magnesium levels, and low calcium levels.
+  Your healthcare provider may do blood tests before starting and during treatment with voriconazole tablets.
 - •have liver or kidney problems.
   Your healthcare provider may do blood tests to make sure you can take voriconazole tablets.
 - •have trouble digesting dairy products, lactose (milk sugar), or regular table sugar.
@@ -52,7 +47,7 @@ Before you take voriconazole tablets, tell your healthcare provider about all of
   Talk to your healthcare provider if you are pregnant or plan to become pregnant.
   Women who can become pregnant should use effective birth control while taking voriconazole tablets.
   Talk to your healthcare provider about birth control methods that may be right for you.
-- •are breast-feeding or plan to breast-feed.
+- •are breastfeeding or plan to breastfeed.
   It is not known if voriconazole passes into breast milk.
   Talk to your healthcare provider about the best way to feed your baby if you take voriconazole tablets.
 
@@ -66,10 +61,10 @@ Keep a list of them to show your healthcare provider or pharmacist when you get 
 How should I take voriconazole tablets?
 
 - •Voriconazole tablets may be prescribed to you as:
-  - •voriconazole tablets
-  - •Take voriconazole tablets exactly as your healthcare provider tells you to.
-  - •Take voriconazole tablets at least 1 hours before or at least 1 hours after meals.
-  - •If you take too much voriconazole, call your healthcare provider or go to the nearest hospital emergency room.
+- ovoriconazole tablets
+- •Take voriconazole tablets exactly as your healthcare provider tells you to.
+- •Take voriconazole tablets at least 1 hour before or at least 1 hour after meals.
+- •If you take too much voriconazole, call your healthcare provider or go to the nearest hospital emergency room.
 
 What should I avoid while taking voriconazole tablets?
 
@@ -88,31 +83,26 @@ Voriconazole tablets may cause serious side effects including:
 
 - •liver problems.
   Symptoms of liver problems may include:
-- •itchy skin
-- •yellowing of your eyes
-- •feeling very tired
-- •flu-like symptoms
-- •nausea or vomiting
 
-vision changes.
-Symptoms of vision changes may include:
+| oitchy skin | oyellowing of your eyes | ofeeling very tired |
+| --- | --- | --- |
+| oflu-like symptoms | onausea or vomiting |  |
 
-- •blurred vision
-- •changes in the way you see colors
-- •sensitivity to light (photophobia)
+- •vision changes.
+  Symptoms of vision changes may include:
+- oblurred vision
+- ochanges in the way you see colors
+- osensitivity to light (photophobia)
 - •serious heart problems.
   Voriconazole tablets may cause changes in your heart rate or rhythm, including your heart stopping (cardiac arrest).
 - •allergic reactions.
   Symptoms of an allergic reaction may include:
-- •fever
-- •sweating
-- •feels like your heart is beating fast (tachycardia)
-- •chest tightness
-- •trouble breathing
-- •feel faint
-- •nausea
-- •itching
-- •skin rash
+
+| ofever | osweating | ofeels like your heart is beating fast (tachycardia) |
+| --- | --- | --- |
+| ochest tightness | otrouble breathing | ofeel faint |
+| onausea | oitching | oskin rash |
+
 - •kidney problems.
   Voriconazole tablets may cause new or worse problems with kidney function, including kidney failure.
   Your healthcare provider should check your kidney function while you are taking voriconazole tablets.
@@ -123,6 +113,26 @@ Symptoms of vision changes may include:
 - •mouth sores
 - •blistering or peeling of your skin
 - •trouble swallowing or breathing
+- •adrenal gland problems:
+  - •Voriconazole tablets may cause reduced adrenal function (adrenal insufficiency).
+  - •Voriconazole tablets may cause overactive adrenal function (Cushing’s syndrome) when voriconazole is used at the same time with corticosteroids.
+- Symptoms of adrenal insufficiency include:
+
+| ofeeling tired | o lack of energy |  | oweakness |
+| --- | --- | --- | --- |
+| o nausea and vomiting | o feeling dizzy or lightheaded |  | oweight loss |
+| o abdominal pain |  |  |  |
+
+Symptoms of Cushing’s syndrome include:
+
+| oweight gain | ofatty hump between the shoulders (buffalo hump) and a rounded face (moon face) | odarkening of the skin on the ostomach, thighs, breasts, and arms |
+| --- | --- | --- |
+| othinning skin | obruising easily | ohigh blood sugar |
+| oexcessive hair growth | oexcessive sweating |  |
+
+- •bone problems.
+  Voriconazole may cause weakening of bones and bone pain.
+  Tell your healthcare provider if you have bone pain.
 
 Call your healthcare provider or go to the nearest hospital emergency room right away if you have any of the symptoms
 
@@ -130,52 +140,35 @@ listed above.
 
 The most common side effects of voriconazole tablets in adults include:
 
-- •vision changes
-- •rash
-- •vomiting
-- •nausea
-- •headache
-- •fast heart beat (tachycardia)
-- •hallucinations (seeing or hearing things that are not there)
-- •abnormal liver function tests
-- •chills
-- •fever
+| ovision changes | orash | ovomiting |
+| --- | --- | --- |
+| onausea | oheadache | ofast heart beat (tachycardia) |
+| ohallucinations (seeing or hearing things that are not there) | oabnormal liver function testsochills | ofever |
 
 The most common side effects of voriconazole tablets in children include:
 
-Fever
-
-- •stomach pain
-- •nose bleeds
-- •diarrhea
-- •high blood pressure
-- •low blood potassium levels
-- •low platelet counts
-- •cough
-- •Inflammation of mucous membranes
-- •abnormal liver function tests
-- •low blood pressure
-- •constipation
-- •low blood calcium levels
-- •high blood sugar levels
-- •low blood magnesium levels
-- •low blood phosphate levels
-- •headache
-- •Fullness of the stomach area
-- •vision changes
-- •fast heart beat (tachycardia)
-- •vomiting
-- •rash
-- •nausea
+| ofever | ohigh blood pressure | oinflammation of mucous membranes |
+| --- | --- | --- |
+| odiarrhea | ocough | ohallucinations (seeing or hearing things that are not there) |
+| olow platelet counts | olow blood pressure | ocoughing up blood |
+| oabnormal liver function tests | oswelling in arms and legs |  |
+| olow blood calcium levels | ohigh blood sugar levels | oconstipation |
+| olow blood phosphate levels | oheadache | olow blood magnesium levels |
+| ovision changes | ofast heart beat (tachycardia) | ofullness of the stomach area |
+| orash | onose bleeds | ovomiting |
+| ostomach pain | olow blood potassium levels | onausea |
+|  |  | oupper respiratory tract infection |
 
 Tell your healthcare provider if you have any side effect that bothers you or that does not go away.
 
 These are not all the possible side effects of voriconazole tablets.
+
 Call your doctor for medical advice about side effects.
 You may report side effects to FDA at 1-800-FDA-1088.
+
 How should I store voriconazole tablets?
 
-- •Store voriconazole tablets at room temperature, 68° to 77°F (20° to 25°C).
+- •Store voriconazole tablets at room temperature, 68°F to 77°F (20°C to 25°C).
   Do not refrigerate or freeze.
 - •Keep voriconazole tablets in a tightly closed container.
 - •Safely throw away medicine that is out of date or no longer needed.
@@ -194,9 +187,9 @@ What are the ingredients of voriconazole tablets?
 
 Active ingredient: voriconazole
 
-Inactive ingredients: croscarmellose sodium, a coating containing hypromellose, lactose, lactose monohydrate, magnesium stearate, monohydrate, povidone, pregelatinized starch, talc, titanium dioxide, and triacetin.
+Inactive ingredients: croscarmellose sodium, lactose monohydrate, magnesium stearate, pregelatinized starch, povidone, talc, and coating material containing hypromellose, lactose monohydrate, titanium dioxide, and triacetin.
 
-Trademarks are the property of their respective owners.
+Trademarks are the properties of their respective owners.
 
 Manufactured by:
 
@@ -211,8 +204,6 @@ Questions?
 
 www.glenmarkpharma-us.com
 
-Product of India
-
-October 2020
+March 2021
 
 This Patient Information has been approved by the U.S. Food and Drug Administration.

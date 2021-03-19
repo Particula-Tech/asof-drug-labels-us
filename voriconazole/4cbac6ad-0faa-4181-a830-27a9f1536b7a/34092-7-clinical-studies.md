@@ -2,9 +2,9 @@
 
 Voriconazole, administered orally or parenterally, has been evaluated as primary or salvage therapy in 520 patients aged 12 years and older with infections caused by Aspergillus spp., Fusarium spp., and Scedosporium spp.
 
-## 14.1 Invasive Aspergillosis
+## 14.1 Invasive Aspergillosis (IA)
 
-Voriconazole was studied in patients for primary therapy of invasive aspergillosis (randomized, controlled study 307/602), for primary and salvage therapy of aspergillosis (non-comparative study 304) and for treatment of patients with IA who were refractory to, or intolerant of, other antifungal therapy (non-comparative study 309/604).
+Voriconazole was studied in patients for primary therapy of IA (randomized, controlled study 307/602), for primary and salvage therapy of aspergillosis (non-comparative study 304) and for treatment of patients with IA who were refractory to, or intolerant of, other antifungal therapy (non-comparative study 309/604).
 
 Study 307/602 – Primary Therapy of Invasive Aspergillosis
 
@@ -26,7 +26,7 @@ Treatment was then continued with OLAT, including itraconazole and lipid amphote
 Although initial therapy with conventional amphotericin B was to be continued for at least two weeks, actual duration of therapy was at the discretion of the investigator.
 Patients who discontinued initial randomized therapy due to toxicity or lack of efficacy were eligible to continue in the study with OLAT treatment.
 
-A satisfactory global response at 12 weeks (complete or partial resolution of all attributible symptoms, signs, radiographic/bronchoscopic abnormalities present at baseline) was seen in 53% of voriconazole treated patients compared to 32% of amphotericin B treated patients (Table 15).
+A satisfactory global response at 12 weeks (complete or partial resolution of all attributable symptoms, signs, radiographic/bronchoscopic abnormalities present at baseline) was seen in 53% of voriconazole treated patients compared to 32% of amphotericin B treated patients (Table 15).
 A benefit of voriconazole compared to amphotericin B on patient survival at Day 84 was seen with a 71% survival rate on voriconazole compared to 58% on amphotericin B (Table 13).
 
 Table 13 also summarizes the response (success) based on mycological confirmation and species.
@@ -121,9 +121,9 @@ b Patients who did not have a 12-week assessment for any reason were considered 
 In a secondary analysis, which counted DRC-assessed successes at any time point (EOT, or 2, 6, or 12 weeks after EOT), the response rates were 65% for voriconazole and 71% for the regimen of amphotericin B followed by fluconazole.
 
 In Studies 608 and 309/604 (non-comparative study in patients with invasive fungal infections who were refractory to, or intolerant of, other antifungal agents), voriconazole was evaluated in 35 patients with deep tissue Candida infections.
-A favorable response was seen in 4 of 7 patients with intra-abdominal infections, 5 of 6 patients with kidney and bladder wall infections, 3 of 3 patients with deep tissue abscess or wound infection, 1 of 2 patients with pneumonia/pleural space infections, 2 of 4 patients with skin lesions, 1 of 1 patients with mixed intraabdominal and pulmonary infection, 1 of 2 patients with suppurative phlebitis, 1 of 3 patients with hepatosplenic infection, 1 of 5 patients with osteomyelitis, 0 of 1 with liver infection, and 0 of 1 with cervical lymph node infection.
+A favorable response was seen in 4 of 7 patients with intra-abdominal infections, 5 of 6 patients with kidney and bladder wall infections, 3 of 3 patients with deep tissue abscess or wound infection, 1 of 2 patients with pneumonia/pleural space infections, 2 of 4 patients with skin lesions, 1 of 1 patients with mixed intra-abdominal and pulmonary infection, 1 of 2 patients with suppurative phlebitis, 1 of 3 patients with hepatosplenic infection, 1 of 5 patients with osteomyelitis, 0 of 1 with liver infection, and 0 of 1 with cervical lymph node infection.
 
-## 14.3 Esophageal Candidiasis
+## 14.3 Esophageal Candidiasis (EC)
 
 The efficacy of oral voriconazole 200 mg twice daily compared to oral fluconazole 200 mg once daily in the primary treatment of EC was demonstrated in Study 150 to 305, a double-blind, double-dummy study in immunocompromised patients with endoscopically-proven EC.
 Patients were treated for a median of 15 days (range 1 to 49 days).
@@ -147,7 +147,7 @@ c ITT (Intent to Treat) patients without endoscopy or clinical assessment at EOT
 
 Microbiologic success rates by Candida species are presented in Table 17.
 
-Table 17: Clinical and Mycological outcome by Baseline pathogen in Patients with Esophageal Candidiasis (Study- 150-305)
+Table 17: Clinical and Mycological Outcome by Baseline Pathogen in Patients with Esophageal Candidiasis (Study 150-305)
 
 | Pathogena | Voriconazole |  | Fluconazole |  |
 | --- | --- | --- | --- | --- |
@@ -215,8 +215,7 @@ Voriconazole was administered for at least 14 days after the last positive cultu
 A maximum of 42 days of treatment was permitted.
 
 Patients with primary or salvage EC aged 2 to less than 12 years and 12 to 14 years with body weight less than 50 kg received an intravenous voriconazole dose of 4 mg/kg every 12 hours followed by an oral voriconazole dose of 9 mg/kg every 12 hours (maximum dose of 350 mg) when criteria for oral switch were met.
-All other pediatric patients aged 12 to less than 18 years received the adult voriconazole dosage regimen.
-Voriconazole was administered for at least 7 days after the resolution of clinical signs and symptoms.
+All other pediatric patients aged 12 to less than 18 years received the adult voriconazole dosage regimen. voriconazole was administered for at least 7 days after the resolution of clinical signs and symptoms.
 A maximum of 42 days of treatment was permitted.
 
 For EC, study treatment was initiated without a loading dose of intravenous voriconazole.
