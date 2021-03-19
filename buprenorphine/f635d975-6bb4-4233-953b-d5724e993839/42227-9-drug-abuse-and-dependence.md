@@ -5,7 +5,7 @@
 PROBUPHINE contains buprenorphine, a Schedule III controlled substance under the Controlled Substances Act.
 
 Under the Drug Addiction Treatment Act (DATA) codified at 21 United States Code (U.S.C.)
-823(g), use of this product in the treatment of opioid dependence is limited to healthcare providers who meet certain qualifying requirements, and who have notified the Secretary of Health and Human Services (HHS) of their intent to prescribe or dispense this product for the treatment of opioid dependence and have been assigned a unique identification number that must be included on every prescription.
+823(g), use of this product in the treatment of opioid dependence is limited to Healthcare Providers who meet certain qualifying requirements, and who have notified the Secretary of Health and Human Services (HHS) of their intent to prescribe or dispense this product for the treatment of opioid dependence and have been assigned a unique identification number that must be included on every prescription.
 
 ## 9.2. Abuse
 
@@ -26,7 +26,6 @@ Buprenorphine is a partial agonist at the mu-opioid receptor and chronic adminis
 The withdrawal syndrome is typically milder than seen with full agonists and may be delayed in onset.
 
 Patients treated with PROBUPHINE who experience a delay between removal of implants and insertion of new implants should be maintained on their previous dose of sublingual buprenorphine.
-
 Patients who elect to discontinue PROBUPHINE treatment without continuing on other buprenorphine treatment should be monitored for withdrawal.
 Some or all of the following can characterize this syndrome: restlessness, lacrimation, rhinorrhea, yawning, perspiration, chills, myalgia, and mydriasis.
 Other signs and symptoms also may develop, including: irritability, anxiety, backache, joint pain, weakness, abdominal cramps, insomnia, nausea, anorexia, vomiting, diarrhea, or increased blood pressure, respiratory rate, or heart rate [see Warnings and Precautions (5.9)].

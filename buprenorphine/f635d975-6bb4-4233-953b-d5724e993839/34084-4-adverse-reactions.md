@@ -20,24 +20,26 @@ The following adverse reactions are discussed in more detail in other sections o
 Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in practice.
 
 The safety of PROBUPHINE is supported by clinical trials using PROBUPHINE, and other trials using buprenorphine tablets and buprenorphine sublingual solutions.
-The safety of PROBUPHINE was evaluated in 349 opioid-dependent subjects across three double-blind trials (n = 309) and two open-label extension studies (n = 40).
+The safety of PROBUPHINE was evaluated in 349 opioid-dependent subjects across three double-blind trials (n=309) and two open-label extension studies (n=40).
 In these studies, there were a total of 258 subjects exposed to PROBUPHINE for at least 24 weeks and 82 subjects exposed for 48 weeks.
-The safety of the PROBUPHINE insertion and removal procedures has been evaluated in 568 unique subjects across the entire development program who received PROBUPHINE implants or placebo implants, with 507 subjects across the three double-blind trials, 40 subjects from two open- label extension trials, and 21 subjects from two phase 2 pharmacokinetic studies.
+The safety of the PROBUPHINE insertion and removal procedures has been evaluated in 568 unique subjects across the entire development program who received PROBUPHINE implants or placebo implants, with 507 subjects across the three double-blind trials, 40 subjects from two open-label extension trials, and 21 subjects from two phase 2 pharmacokinetic studies.
 
 In total, safety data from clinical studies are available from over 3000 opioid-dependent subjects exposed to buprenorphine at doses in the range used in the treatment of opioid dependence.
 
 Table 1 shows the non-implant-site related adverse events for PROBUPHINE and comparator groups in the three 6-month, double-blind, PROBUPHINE Phase 3 studies.
 Patients in the PROBUPHINE arm were treated with 4–5 implants and may have received supplemental sublingual buprenorphine.
-Patients in the Placebo/SL BPN comparator group had either regularly- dosed or as- needed sublingual buprenorphine; some had placebo implants.
+Patients in the Placebo/SL BPN comparator group had either regularly dosed or as-needed sublingual buprenorphine; some had placebo implants.
 Adverse events were categorized using the Medical Dictionary for Regulatory Activities (MedDRA, Version 17).
 
-In Table 1, MedDRA High Level Group Terms (HLGT) reported in at least 5% of patients in the PROBUPHINE group and more commonly than in the comparator group, are listed at the Higher Level Group Term (HLGT) level along with subordinate Preferred Terms (PT) reported in 2: 1% of PROBUPHINE patients (and at least 0.5% more frequent than comparator).
+In Table 1, MedDRA High Level Group Terms (HLGT) reported in at least 5% of patients in the PROBUPHINE group and more commonly than in the comparator group, are listed at the Higher Level Group Term (HLGT) level along with subordinate Preferred Terms (PT) reported in ≥1% of PROBUPHINE patients (and at least 0.5% more frequent than comparator).
 Events involving the implant site, or insertion or removal procedures or complications are not included in the table below, but are shown in Table 2.
 
 Table 1: Adverse events (≥ 5% in the PROBUPHINE arm and more than in Placebo/SL BPN) by HLGT and treatment group for phase 3 controlled trials
 
-| System Organ Class High Level Group Term MedDRA Preferred Term | PROBUPHINE (N=309) n (%) A subject reporting more than one adverse event for a particular MedDRA Higher Level Group Term or Preferred Term is counted only once for that MedDRA Higher Level Group Term or Preferred Term. Percentages are rounded to the nearest whole number, and to the nearest decimal when < 0.5%. | Placebo/ SL BPN'SL BPN' =Denotes subjects assigned to Daily Sublingual Buprenorphine Arm in PRO-806 and PRO-814 studies. All subjects in all studies took SL BPN before study treatment period was initiated and had the option of taking SL BPN as supplemental medication during treatment. (N=317) n (%) |
+| MedDRA Preferred Term | n (%) A subject reporting more than one adverse event for a particular MedDRA Higher Level Group Term or Preferred Term is counted only once for that MedDRA Higher Level Group Term or Preferred Term. Percentages are rounded to the nearest whole number, and to the nearest decimal when < 0.5%. | n (%) |
 | --- | --- | --- |
+| System Organ Class | PROBUPHINE | Placebo / SL BPN SL BPN = Denotes subjects assigned to Daily Sublingual Buprenorphine Arm in PRO-806 and PRO-814 studies. All subjects in all studies took SL BPN before study treatment period was initiated and had the option of taking SL BPN as supplemental medication during treatment. |
+| High Level Group Term | (N=309) | (N=317) |
 | GASTROINTESTINAL DISORDERS |  |  |
 | GASTROINTESTINAL SIGNS AND SYMPTOMS | 42 (14) | 39 (12) |
 | Nausea | 20 (6) | 15 (5) |
@@ -108,11 +110,11 @@ Table 2: Implant site adverse events reported by ≥ 2% of subjects in the Phase
 The adverse event profile of buprenorphine in a transmucosal form (i.e., sublingual) was also characterized in the dose-controlled study of buprenorphine solution, over a range of doses in four months of treatment.
 The table below shows adverse events reported by at least 5% of subjects in any dose group in the dose-controlled study.
 
-Table 3: Adverse events reported by at least 5% of subjects in any dose group in the dose- controlled study
+Table 3: Adverse events reported by at least 5% of subjects in any dose group in the dose-controlled study
 
 | N (%) | N (%) | N (%) | N (%) | N (%) |  |
 | --- | --- | --- | --- | --- | --- |
-| Body System /Adverse Event (COSTART Terminology) | Buprenorphine DoseSublingual solution. Doses in this table cannot necessarily be delivered in tablet form, but for comparison purposes: "Very low" dose (1 mg solution) would be less than a tablet dose of 2 mg "Low" dose (4mg solution) approximates a 6 mg tablet dose "Moderate" dose (8mg solution) approximates a 12 mg tablet dose "High" dose (16 mg solution) approximates a 24 mg tablet dose |  |  |  |  |
+| Body System /Adverse Event (COSTART Terminology) | Buprenorphine Dose Sublingual solution. Doses in this table cannot necessarily be delivered in tablet form, but for comparison purposes: "Very low" dose (1 mg solution) would be less than a tablet dose of 2 mg "Low" dose (4 mg solution) approximates a 6 mg tablet dose "Moderate" dose (8 mg solution) approximates a 12 mg tablet dose "High" dose (16 mg solution) approximates a 24 mg tablet dose |  |  |  |  |
 | Very Low (N=184) | Low (N=180) | Moderate (N=186) | High (N=181) | Total (N=731) |  |
 | Body as a Whole |  |  |  |  |  |
 | Abscess | 9 (5%) | 2 (1%) | 3 (2%) | 2 (1%) | 16 (2%) |
@@ -151,7 +153,7 @@ Table 3: Adverse events reported by at least 5% of subjects in any dose group in
 ## 6.2. Postmarketing Experience
 
 No post-marketing data exist at this time for PROBUPHINE.
-The most frequently reported post- marketing adverse event observed with sublingual buprenorphine was drug misuse or abuse.
+The most frequently reported post-marketing adverse event observed with sublingual buprenorphine was drug misuse or abuse.
 The most frequently reported post-marketing adverse event with buprenorphine/naloxone sublingual tablets was peripheral edema.
 
 Serotonin syndrome: Cases of serotonin syndrome, a potentially life-threatening condition, have been reported during concomitant use of opioids with serotonergic drugs.

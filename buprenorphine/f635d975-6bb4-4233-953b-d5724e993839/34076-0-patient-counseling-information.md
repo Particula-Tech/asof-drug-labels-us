@@ -1,4 +1,4 @@
-# 17 PATIENT COUNSELING INFORMATION
+# 17. PATIENT COUNSELING INFORMATION
 
 Advise the patient to read the FDA-approved patient labeling (Medication Guide).
 
@@ -33,10 +33,32 @@ Risks Relating to the Insertion and Removal Procedure [see Warnings and Precauti
   - –Itching, pain, irritation or redness, swelling, bleeding, or bruising at the insertion or removal site.
   - –Scarring around the incision site.
 
+Life-Threatening Respiratory Depression
+
+Educate patients and caregivers on how to recognize respiratory depression and emphasize the importance of calling 911 or seeking emergency medical help right away in the event of a known or suspected overdose [see Warnings and Precautions (5.4)].
+
+Patient Access to Naloxone for the Emergency Treatment of Opioid Overdose
+
+Because patients being treated for opioid use disorder are at risk for relapse, discuss the importance of having access to naloxone with the patient and caregiver.
+Also discuss the importance of having access to naloxone if there are household members (including children) or other close contacts at risk for accidental ingestion or opioid overdose.
+
+Inform patients and caregivers of the options for obtaining naloxone as permitted by individual state naloxone dispensing and prescribing requirements or guidelines (e.g., by prescription, directly from a pharmacist, or as part of a community-based program).
+
+Educate patients and caregivers on how to recognize the signs and symptoms of an opioid overdose.
+
+Explain to patients and caregivers that naloxone's effects are temporary, and that they must call 911 or seek emergency medical help right away in all cases of known or suspected opioid overdose, even if naloxone is administered.
+Repeat administration may be necessary, particularly for overdose involving buprenorphine, because naloxone is often not effective at the doses available for patient access [see Dosage and Administration (2.3), Warnings and Precautions (5.4), Overdosage (10)].
+
+If naloxone is prescribed, also advise patients and caregivers:
+
+- How to treat with naloxone in the event of an opioid overdose
+- To tell family and friends about their naloxone and to keep it in a place where family and friends can easily access it in an emergency
+- To read the Patient Information (or other educational material) that will come with their naloxone.
+  Emphasize the importance of doing this before an opioid emergency happens, so the patient and caregiver will know what to do.
+
 Interaction with Benzodiazepines and other CNS Depressants
 
-Inform patients and caregivers that potentially fatal additive effects may occur if PROBUPHINE is used with benzodiazepines or other CNS depressants, including alcohol, and not to use these concomitantly unless supervised by a health care provider.
-[see Warnings and Precautions (5.5), Drug Interactions (7)].
+Inform patients and caregivers that potentially fatal additive effects may occur if PROBUPHINE is used with benzodiazepines or other CNS depressants, including alcohol, and not to use these concomitantly unless supervised by a health care provider [see Warnings and Precautions (5.5), Drug Interactions (7)].
 
 Serotonin Syndrome
 
@@ -46,7 +68,7 @@ Instruct patients to inform their physicians if they are taking, or plan to take
 
 Adrenal Insufficiency
 
-Inform patients that PROBUPHINE could cause adrenal insufficiency, a potentially life- threatening condition.
+Inform patients that PROBUPHINE could cause adrenal insufficiency, a potentially life-threatening condition.
 Adrenal insufficiency may present with non-specific symptoms and signs such as nausea, vomiting, anorexia, fatigue, weakness, dizziness, and low blood pressure.
 Advise patients to seek medical attention if they experience a constellation of these symptoms [see Warnings and Precautions (5.7)].
 
@@ -71,7 +93,7 @@ Inform patients that, like other opioids, PROBUPHINE may produce orthostatic hyp
 
 Drug Interactions
 
-Instruct patients to inform their healthcare providers of any other prescription medications, over-the-counter medications, or herbal preparations that are prescribed or currently being used [see Drug Interactions (7)].
+Instruct patients to inform their Healthcare Providers of any other prescription medications, over-the-counter medications, or herbal preparations that are prescribed or currently being used [see Drug Interactions (7)].
 
 Pregnancy
 
@@ -81,7 +103,7 @@ Advise women that if they are pregnant while being treated with PROBUPHINE, the 
 
 Embryo Fetal Toxicity
 
-Advise women of childbearing potential who become pregnant or are planning to become pregnant to consult their healthcare provider regarding the possible effects of using PROBUPHINE during pregnancy [see Use in Specific Populations (8.1)].
+Advise women of childbearing potential who become pregnant or are planning to become pregnant to consult their Healthcare Provider regarding the possible effects of using PROBUPHINE during pregnancy [see Use in Specific Populations (8.1)].
 
 Lactation
 

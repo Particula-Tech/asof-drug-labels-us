@@ -1,20 +1,17 @@
 # 5. WARNINGS AND PRECAUTIONS
 
-## 5.1. Serious Complications from Insertion and Removal of PROBUPHINE
+## 5.1. Serious Complications From Insertion and Removal of PROBUPHINE
 
 Rare but serious complications including nerve damage and migration resulting in embolism and death may result from improper insertion of drug implants inserted in the upper arm.
 Additional complications may include local migration, protrusion, and expulsion.
 
-Insert PROBUPHINE in accordance with the instructions.
-[see Indications and Usage (1), Dosage and Administration (2.2, 2.6)].
+Insert PROBUPHINE in accordance with the instructions [see Indications and Usage (1), Dosage and Administration (2.2, 2.6)].
 It is essential to insert PROBUPHINE subdermally so that each implant is palpable after insertion.
 It is also essential to confirm proper placement by palpation immediately after insertion.
 If PROBUPHINE is inserted too deeply (intramuscular or in the fascia), neural or vascular injury may occur.
 
-Incomplete insertions or infections may lead to protrusion or expulsion.
-[see Dosage and Administration (2.8)].
-Accidental exposures to PROBUPHINE can result from protrusion or expulsion of the implants.
-[see Warnings and Precautions (5.8)].
+Incomplete insertions or infections may lead to protrusion or expulsion [see Dosage and Administration (2.8)].
+Accidental exposures to PROBUPHINE can result from protrusion or expulsion of the implants [see Warnings and Precautions (5.8)].
 
 Improper insertion may lead to complicated removal if the implant is inserted too deeply, is not palpable, or has migrated.
 Deep insertions may lead to difficulty localizing the implant; additional surgical procedures may be required in order to remove the implant [see Dosage and Administration (2.6, 2.7)].
@@ -23,8 +20,7 @@ Injury to deeper neural or vascular structures in the arm may occur when removin
 All Healthcare Providers must successfully complete a live training program on the insertion and removal procedures and become certified in the PROBUPHINE REMS program, prior to performing insertions or prescribing PROBUPHINE implants.
 There are additional requirements and prerequisites that must be met to become certified to insert PROBUPHINE implants.
 Only Healthcare Providers who have performed a surgical procedure in the last 3 months and demonstrate competency in the PROBUPHINE procedures at the live training can become certified to perform insertions.
-Patients must be monitored to ensure that PROBUPHINE is removed by a healthcare provider certified to insert PROBUPHINE implants.
-[see Warnings and Precautions (5.2)].
+Patients must be monitored to ensure that PROBUPHINE is removed by a Healthcare Provider certified to insert PROBUPHINE implants [see Warnings and Precautions (5.2)].
 
 ## 5.2. PROBUPHINE REMS Program
 
@@ -32,11 +28,11 @@ PROBUPHINE is available only through a restricted program under a REMS, called t
 
 Notable requirements of the PROBUPHINE REMS Program include the following:
 
-- Healthcare Providers who Prescribe PROBUPHINE must be certified with the program by enrolling and completing live training
-- Healthcare Providers who Insert PROBUPHINE must
+- Healthcare Providers who prescribe PROBUPHINE must be certified with the program by enrolling and completing live training
+- Healthcare Providers who insert PROBUPHINE must
   - meet the prerequisite requirements [see Dosage and Administration (2.1) and Warnings and Precautions (5.1)]
   - be certified with the program by enrolling and completing live training, including demonstrating competency in PROBUPHINE procedures
-- Patients must be monitored to ensure that PROBUPHINE is removed by a healthcare provider certified to insert PROBUPHINE implants
+- Patients must be monitored to ensure that PROBUPHINE is removed by a Healthcare Provider certified to insert PROBUPHINE implants
 - PROBUPHINE will only be distributed to certified prescribers through a restricted distribution program
 
 Further information is available at www.PROBUPHINEREMS.com or 1-844-859-6341.
@@ -57,11 +53,29 @@ Warn patients of the potential danger of self-administration of benzodiazepines 
 
 Use PROBUPHINE with caution in patients with compromised respiratory function (e.g., chronic obstructive pulmonary disease, cor pulmonale, decreased respiratory reserve, hypoxia, hypercapnia, or pre-existing respiratory depression).
 
+Educate patients and caregivers on how to recognize respiratory depression and emphasize the importance of calling 911 or seeking emergency medical help right away in the event of a known or suspected overdose [see Patient Counseling Information (17)].
+
 Opioids can cause sleep-related breathing disorders including central sleep apnea (CSA) and sleep-related hypoxemia.
 Opioid use increases the risk of CSA in a dose-dependent fashion.
 In patients who present with CSA, removal of PROBUPHINE may be required.
 
-## 5.5. Managing Risks From Concomitant Use of Benzodiazepines or Other CNS Depressants with Buprenorphine
+Patient Access to Naloxone for the Emergency Treatment of Opioid Overdose
+
+Discuss the availability of naloxone for the emergency treatment of opioid overdose with the patient and caregiver.
+
+Because patients being treated for opioid use disorder have the potential for relapse, putting them at risk for opioid overdose, strongly consider prescribing naloxone for the emergency treatment of opioid overdose, both when initiating and renewing treatment with PROBUPHINE.
+Also consider prescribing naloxone if the patient has household members (including children) or other close contacts at risk for accidental ingestion or opioid overdose [see Dosage and Administration (2.3)].
+
+Advise patients and caregivers that naloxone may also be administered for a known or suspected overdose with buprenorphine, such as due to an accidental exposure of a household contact to a PROBUPHINE implant that is protruding or has been expelled.
+Inform patients to call a Healthcare Provider immediately and follow protrusion or/and expulsion guidelines.
+Higher than normal doses and repeated administration of naloxone may be necessary due to the long duration of action of PROBUPHINE and its affinity for the mu receptor [see Patient Counseling Information (17)].
+
+Inform patients and caregivers of their options for obtaining naloxone as permitted by individual state naloxone dispensing and prescribing requirements or guidelines (e.g., by prescription, directly from a pharmacist, or as part of a community-based program).
+
+Educate patients and caregivers on how to recognize respiratory depression and, if naloxone is prescribed, how to treat with naloxone.
+Emphasize the importance of calling 911 or seeking emergency medical help, even if naloxone is administered [see Patient Counseling Information (17)].
+
+## 5.5. Managing Risks From Concomitant Use of Benzodiazepines or Other CNS Depressants With Buprenorphine
 
 Concomitant use of buprenorphine and benzodiazepines or other CNS depressants increases the risk of adverse reactions including overdose and death.
 Medication-assisted treatment of opioid use disorder, however, should not be categorically denied to patients taking these drugs.
@@ -80,7 +94,9 @@ In others, gradually tapering a patient off of a prescribed benzodiazepine or ot
 
 For patients in buprenorphine treatment, benzodiazepines are not the treatment of choice for anxiety or insomnia.
 Before co-prescribing benzodiazepines, ensure that patients are appropriately diagnosed and consider alternative medications and non-pharmacologic treatments to address anxiety or insomnia.
-Ensure that other healthcare providers prescribing benzodiazepines or other CNS depressants are aware of the patient's buprenorphine treatment and coordinate care to minimize the risks associated with concomitant use.
+Ensure that other Healthcare Providers prescribing benzodiazepines or other CNS depressants are aware of the patient's buprenorphine treatment and coordinate care to minimize the risks associated with concomitant use.
+
+If concomitant use is warranted, strongly consider prescribing naloxone for the emergency treatment of opioid overdose, as is recommended for all patients in buprenorphine treatment for opioid use disorder [see Warnings and Precautions (5.4)].
 
 In addition, take measures to confirm that patients are taking their medications as prescribed and are not diverting or supplementing with illicit drugs.
 Toxicology screening should test for prescribed and illicit benzodiazepines [see Drug Interactions (7)].
@@ -110,7 +126,7 @@ The information available does not identify any particular opioids as being more
 Buprenorphine can cause severe, possibly fatal, respiratory depression in children who are accidentally exposed to it.
 Instruct patients to keep the expelled implant(s) away from others, especially children.
 
-## 5.9. Risk of Opioid Withdrawal with Abrupt Discontinuation of PROBUPHINE Treatment
+## 5.9. Risk of Opioid Withdrawal With Abrupt Discontinuation of PROBUPHINE Treatment
 
 Buprenorphine is a partial agonist at the mu-opioid receptor and chronic administration produces physical dependence of the opioid type, characterized by withdrawal signs and symptoms upon abrupt discontinuation or rapid taper.
 The withdrawal syndrome is milder than that seen with full agonists, and may be delayed in onset [see Drug Abuse and Dependence (9.2, 9.3)].
@@ -144,11 +160,11 @@ A history of hypersensitivity to buprenorphine or EVA is a contraindication to P
 Because of the partial opioid agonist properties of buprenorphine, buprenorphine may precipitate opioid withdrawal signs and symptoms in persons who are currently physically dependent on full opioid agonists such as heroin, morphine, or methadone before the effects of the full opioid agonist have subsided.
 Verify that patients are clinically stable on transmucosal buprenorphine and not dependent on full agonists before inserting PROBUPHINE.
 
-## 5.13. Risks Associated with Treatment of Emergent Acute Pain
+## 5.13. Risks Associated With Treatment of Emergent Acute Pain
 
 While on PROBUPHINE, situations may arise where patients need acute pain management, or may require anesthesia.
 Treat patients receiving PROBUPHINE with a non-opioid analgesic whenever possible.
-Patients requiring opioid therapy for analgesia may be treated with a high- affinity full opioid analgesic under the supervision of a physician, with particular attention to respiratory function.
+Patients requiring opioid therapy for analgesia may be treated with a high-affinity full opioid analgesic under the supervision of a physician, with particular attention to respiratory function.
 Higher doses may be required for analgesic effect.
 Therefore, a higher potential for toxicity exists with opioid administration.
 If opioid therapy is required as part of anesthesia, patients should be continuously monitored in an anesthesia care setting by persons not involved in the conduct of the surgical or diagnostic procedure.
@@ -164,7 +180,7 @@ Patients who develop moderate to severe hepatic impairment while being treated w
 
 ## 5.15. Impairment of Ability to Drive and Operate Machinery
 
-PROBUPHINE may impair the mental or physical abilities required for the performance of potentially dangerous tasks such as driving a car or operating machinery, especially for the first 24- 48 hours following initial insertion.
+PROBUPHINE may impair the mental or physical abilities required for the performance of potentially dangerous tasks such as driving a car or operating machinery, especially for the first 24-48 hours following initial insertion.
 Caution patients about driving or operating hazardous machinery until they are reasonably certain that PROBUPHINE does not adversely affect their ability to engage in such activities.
 
 ## 5.16. Orthostatic Hypotension

@@ -8,11 +8,11 @@ The data on use of buprenorphine, the active ingredient in PROBUPHINE implant, i
 There are limited data from randomized clinical trials in women maintained on buprenorphine that were not designed appropriately to assess the risk of major malformations [see Human Data].
 
 Observational studies have reported on congenital malformations among buprenorphine-exposed pregnancies, but were also not designed appropriately to assess the risk of congenital malformations specifically due to buprenorphine exposure [see Human Data].
-Adequate and well- controlled studies have not been conducted with PROBUPHINE or buprenorphine in pregnant women.
+Adequate and well-controlled studies have not been conducted with PROBUPHINE or buprenorphine in pregnant women.
 Neonatal opioid withdrawal syndrome has been reported in the infants of women treated with buprenorphine sublingual tablets during pregnancy [see Clinical Considerations].
 
 Reproductive and developmental studies in rats and rabbits identified adverse events at clinically relevant and higher doses.
-Embryo Fetal death was observed in both rats and rabbits administered buprenorphine during the period of organogenesis at doses approximately 6 and 0.3-times, respectively, the human sublingual dose of 16 mg/day of buprenorphine.
+Embryo fetal death was observed in both rats and rabbits administered buprenorphine during the period of organogenesis at doses approximately 6 and 0.3-times, respectively, the human sublingual dose of 16 mg/day of buprenorphine.
 Pre- and post-natal development studies in rats demonstrated increased neonatal deaths at 0.3-times and above and dystocia at approximately 3-times the human sublingual dose of 16 mg/day of buprenorphine.
 No clear teratogenic effects were seen when buprenorphine was administered during organogenesis with a range of doses equivalent to or greater than the human sublingual dose of 16 mg/day of buprenorphine.
 However, increases in skeletal abnormalities were noted in rats administered buprenorphine daily during organogenesis at a dose approximately 0.6- and approximately equal to the human sublingual dose of 16 mg/day of buprenorphine, respectively.
@@ -42,7 +42,7 @@ Neonatal opioid withdrawal syndrome may occur in newborn infants of mothers who 
 Neonatal opioid withdrawal syndrome presents as irritability, hyperactivity and abnormal sleep pattern, high pitched cry, tremor, vomiting, diarrhea, and/or failure to gain weight.
 Signs of neonatal withdrawal usually occur in the first days after birth.
 The duration and severity of neonatal opioid withdrawal syndrome may vary.
-Observe newborns for signs of neonatal opioid withdrawal syndrome and manage accordingly [see Warnings and Precautions (5.6)]
+Observe newborns for signs of neonatal opioid withdrawal syndrome and manage accordingly [see Warnings and Precautions (5.6)].
 
 Labor or Delivery
 
@@ -120,7 +120,7 @@ Based on the study data, and assuming milk consumption of 150 mL/kg/day, an excl
 
 Infertility
 
-Dietary administration of buprenorphine in the rat at dose levels of 500 ppm or greater (equivalent to approximately 47 mg/kg/day or greater; estimated exposure approximately 22 times the highest daily exposure from PROBUPHINE on an AUC basis) produced a reduction in fertility demonstrated by reduced female conception rates [see Nonclinical Pharmacology (13.1)]
+Dietary administration of buprenorphine in the rat at dose levels of 500 ppm or greater (equivalent to approximately 47 mg/kg/day or greater; estimated exposure approximately 22 times the highest daily exposure from PROBUPHINE on an AUC basis) produced a reduction in fertility demonstrated by reduced female conception rates [see Nonclinical Pharmacology (13.1)].
 
 Chronic use of opioids may cause reduced fertility in females and males of reproductive potential.
 It is not known whether these effects on fertility are reversible [see Adverse Reactions (6.2), Clinical Pharmacology (12.2)].

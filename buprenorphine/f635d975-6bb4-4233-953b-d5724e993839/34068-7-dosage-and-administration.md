@@ -3,7 +3,7 @@
 ## 2.1. Drug Addiction Treatment Act
 
 Under the Drug Addiction Treatment Act (DATA) codified at 21 United States Code (U.S.C.)
-823(g), use of this product in the treatment of opioid dependence is limited to healthcare providers who meet certain qualifying requirements, and who have notified the Secretary of Health and Human Services (HHS) of their intent to prescribe or dispense this product for the treatment of opioid dependence and have been assigned a unique identification number that must be included on every prescription.
+823(g), use of this product in the treatment of opioid dependence is limited to Healthcare Providers who meet certain qualifying requirements, and who have notified the Secretary of Health and Human Services (HHS) of their intent to prescribe or dispense this product for the treatment of opioid dependence and have been assigned a unique identification number that must be included on every prescription.
 
 ## 2.2. Important Dosage and Administration Information
 
@@ -21,7 +21,20 @@ After one insertion in each arm, most patients should be transitioned back to a 
 There is no experience with inserting additional implants into other sites in the arm to recommend an approach to a second insertion into a previously-used arm.
 Neither re-insertion into previously-used administration sites, nor into sites other than the upper arm, has been studied [see Dosage and Administration (2.4, 2.5, and 2.9), Warnings and Precautions (5.1)].
 
-## 2.3. Healthcare Provider Training
+## 2.3. Patient Access to Naloxone for the Emergency Treatment of Opioid Overdose
+
+Discuss the availability of naloxone for the emergency treatment of opioid overdose with the patient and caregiver.
+Because patients being treated for opioid use disorder have the potential for relapse, putting them at risk for opioid overdose, strongly consider prescribing naloxone for the emergency treatment of opioid overdose, both when initiating and renewing treatment with PROBUPHINE.
+Also consider prescribing naloxone if the patient has household members (including children) or other close contacts at risk for accidental ingestion or opioid overdose [see Warnings and Precautions (5.4)].
+
+Advise patients and caregivers that naloxone may also be administered for a known or suspected overdose with buprenorphine, such as due to an accidental exposure of a household contact to a PROBUPHINE implant that has been expelled.
+Inform patients to call a Healthcare Provider immediately and follow protrusion or/and expulsion guidelines [see Patient Counseling Information (17)].
+
+Higher than normal doses and repeated administration of naloxone may be necessary due to the long duration of action of PROBUPHINE and its affinity for the mu receptor.
+
+Inform patients and caregivers of their options for obtaining naloxone as permitted by individual state naloxone dispensing and prescribing requirements or guidelines (e.g., by prescription, directly from a pharmacist, or as part of a community-based program) [see Patient Counseling Information (17)].
+
+## 2.4. Healthcare Provider Training
 
 All Healthcare Providers who intend to prescribe PROBUPHINE must successfully complete a live training program [see Warnings and Precautions (5.2)].
 
@@ -32,13 +45,13 @@ The basis for successful use and subsequent removal of PROBUPHINE is a correct a
 As a prerequisite for participating in the live training program leading to certification, the Healthcare Provider must have performed at least one qualifying surgical procedure in the last 3 months.
 Qualifying procedures are those performed under local anesthesia using aseptic technique, and include, at a minimum, making skin incisions, or placing sutures [see Warnings and Precautions (5.2)].
 
-## 2.4. Patient Selection
+## 2.5. Patient Selection
 
 PROBUPHINE implants are only for use in patients who meet ALL of the following criteria:
 
 - Achieved and sustained prolonged clinical stability on transmucosal buprenorphine
 - Are currently on a maintenance dose of 8 mg per day or less of a Subutex or Suboxone sublingual tablet or its transmucosal buprenorphine product equivalent (the dose of transmucosal buprenorphine providing blood levels comparable or lower than the level provided by PROBUPHINE)
-  - Patients should not be tapered to a lower dose for the sole purpose of transitioning to PROBUPHINE
+  - Patients should not be tapered to a lower dose for the sole purpose of transitioning to PROBUPHINE.
 - Stable transmucosal buprenorphine dose (of 8 mg per day or less of a sublingual Subutex tablet or Suboxone sublingual tablet or its transmucosal buprenorphine product equivalent) for three months or longer without any need for supplemental dosing or adjustments
 
 Examples of acceptable doses of transmucosal buprenorphine include:
@@ -59,7 +72,7 @@ Consider the following factors in determining clinical stability and suitability
 - period without episodes of hospitalizations (addiction or mental health issues), emergency room visits, or crisis interventions
 - social support system
 
-## 2.5. Clinical Supervision
+## 2.6. Clinical Supervision
 
 Examine the insertion site one week following insertion of PROBUPHINE for signs of infection or any problems with wound healing, including evidence of implant extrusion from the skin.
 
@@ -70,7 +83,7 @@ Instead, patients who feel the need for supplemental dosing should be seen and e
 Ongoing use of supplemental dosing with transmucosal buprenorphine indicates that the amount of buprenorphine delivered by PROBUPHINE is not adequate for stable maintenance.
 Consider use of alternate buprenorphine products for maintenance of treatment.
 
-## 2.6. Insertion of PROBUPHINE
+## 2.7. Insertion of PROBUPHINE
 
 Preparation
 
@@ -170,7 +183,7 @@ After determining that anesthesia is adequate and effective, make a shallow inci
 
 Step 13.
 Lift the edge of the incision opening with a toothed forceps.
-While applying counter- traction to the skin, insert only the tip of the applicator at a slight angle (no greater than 20 degrees), into the subdermal space (depth of 3-4 mm below the skin), with the bevel-up stop marking on the cannula facing upwards and visible with the obturator locked fully into the cannula (Figure 5).
+While applying counter-traction to the skin, insert only the tip of the applicator at a slight angle (no greater than 20 degrees), into the subdermal space (depth of 3-4 mm below the skin), with the bevel-up stop marking on the cannula facing upwards and visible with the obturator locked fully into the cannula (Figure 5).
 
 Figure 5
 
@@ -219,7 +232,7 @@ By palpating both ends of the implant, you should be able to confirm the presenc
 If you cannot feel each of the four implants, or are in doubt of their presence, use other methods to confirm the presence of the implant.
 Suitable methods to locate are: Ultrasound with a high frequency linear array transducer (10 MHz or greater) or Magnetic Resonance Imaging (MRI).
 Please note that the PROBUPHINE implants are not radiopaque and cannot be seen by X-ray or CT scan.
-If ultrasound and MRI fail, call 1-844-859- 6341.
+If ultrasound and MRI fail, call 1-844-859-6341.
 
 Figure 13
 
@@ -228,7 +241,7 @@ Apply pressure to the incision site for approximately five minutes if necessary.
 
 Step 22.
 Clean the incision site.
-Apply liquid adhesive to the skin margins and allow to dry before closing the incision with the ¼ inch thin adhesive strip (butterfly strip) (for example Steri-strip skin closures).
+Apply liquid adhesive to the skin margins and allow to dry before closing the incision with the ¼ inch thin adhesive strip (butterfly strip) (for example, Steri-strip skin closures).
 
 Step 23.
 Place a small adhesive bandage over the insertion site.
@@ -252,7 +265,7 @@ Instruct the patient to apply an ice pack on his/her arm for 40 minutes every tw
 Step 28.
 Complete the PROBUPHINE REMS Insertion/Removal Log Form.
 
-## 2.7. PROBUPHINE Removal Procedure
+## 2.8. PROBUPHINE Removal Procedure
 
 Before initiating the removal procedure, read the instructions for removal.
 
@@ -270,7 +283,7 @@ After localization of a non-palpable implant, removal should be performed under 
 Exploratory surgery without knowledge of the exact location of all implants is strongly discouraged.
 
 There is a greater risk of injury to neural and vascular structures during removal of implants located deeper than the subdermal space.
-As the anatomical location of these structures must be taken into consideration during the removal of deeply inserted implants, the procedure should only be attempted by healthcare providers familiar with this anatomy.
+As the anatomical location of these structures must be taken into consideration during the removal of deeply inserted implants, the procedure should only be attempted by Healthcare Providers familiar with this anatomy.
 A surgical specialist consulted to assist with a difficult removal does not need to be certified in the REMS program.
 
 Preparation
@@ -278,8 +291,7 @@ Preparation
 Before removal of PROBUPHINE, confirm that:
 
 - The patient does not have allergies to the antiseptic or the anesthetic to be used.
-
-Implants Should be Removed Under Aseptic Conditions.
+  Implants should be removed under aseptic conditions.
 
 The Following Equipment is Needed for Implant Removal:
 
@@ -330,7 +342,7 @@ Step 6.
 Using aseptic technique, place the sterile equipment on the sterile field of the instrument stand.
 
 Step 7.
-Clean the removal site with an antiseptic solution (e.g. chlorhexidine) using gentle repeated back and forth strokes for 30 seconds.
+Clean the removal site with an antiseptic solution (e.g., chlorhexidine) using gentle repeated back and forth strokes for 30 seconds.
 When using triple swab stick applicators, use each swab stick sequentially within the 30 seconds.
 Allow the area to air dry for approximately 30 seconds and do not blot or wipe away.
 
@@ -372,6 +384,7 @@ Therefore, it is important to measure the implant to ensure the entire implant h
 
 Step 14.
 After removal of all four implants, clean the incision site.
+
 Step 15.
 Close the incision with sutures.
 
@@ -404,12 +417,12 @@ If implant(s) or implant fragment(s) are not removed during a removal attempt, t
 The subsequent removal attempt should be performed on the same day of localization.
 If localization and a second removal attempt are not performed on the same day as the initial removal attempt that necessitated imaging for localization, the wound should be closed with sutures in the interim.
 
-## 2.8. Spontaneous Expulsion
+## 2.9. Spontaneous Expulsion
 
-If spontaneous expulsion of the implant occurs after insertion, the following steps should be taken.
+If spontaneous expulsion of the implant occurs after insertion, the following steps should be taken:
 
-- Schedule two appointments for the patient to return to the office of the inserting healthcare provider as soon as possible and to the office of the prescribing healthcare provider.
-- Instruct the patient to place the implant in a plastic bag, store it safely out of reach of children, and to bring it to the healthcare provider office to determine whether the full implant has been expelled.
+- Schedule two appointments for the patient to return to the office of the inserting Healthcare Provider as soon as possible and to the office of the prescribing Healthcare Provider.
+- Instruct the patient to place the implant in a plastic bag, store it safely out of reach of children, and to bring it to the Healthcare Provider office to determine whether the full implant has been expelled.
 - If the patient returns the expelled implant, measure it to ensure that the entire implant was expelled (26 mm).
 - Dispose of the removed implant in keeping with local, state, and federal regulations governing the disposal of pharmaceutical biohazardous waste, after measuring.
 - Examine incision site for infection.
@@ -417,13 +430,13 @@ If spontaneous expulsion of the implant occurs after insertion, the following st
 - If the expelled implant is not intact, palpate the insertion location to identify the location of any remaining partial implant.
   Remove the remaining partial implant using the techniques described above.
 - Call 1-844-859-6341 to obtain a new kit that will include four implants and return instructions for any unused implants.
-- The Prescribing HCP must carefully monitor patient until the implant is replaced to evaluate for withdrawal or other clinical indicators that supplemental transmucosal buprenorphine may be needed.
+- The prescribing Healthcare Provider must carefully monitor patient until the implant is replaced to evaluate for withdrawal or other clinical indicators that supplemental transmucosal buprenorphine may be needed.
 - Schedule an appointment to insert replacement implant(s).
 - Insert the replacement implant(s) in same arm either medially or laterally to in situ implants.
   Alternatively, replacement implant(s) may be inserted in the contralateral arm.
-- Record the new serial number on the PROBUPHINE REMS Insertion/Removal Log Form
+- Record the new serial number on the PROBUPHINE REMS Insertion/Removal Log Form.
 
-## 2.9. Continuation of Therapy: Subsequent Insertion of PROBUPHINE in the Contralateral Arm
+## 2.10. Continuation of Therapy: Subsequent Insertion of PROBUPHINE in the Contralateral Arm
 
 There is no clinical experience with insertion of PROBUPHINE beyond a single insertion in each arm.
 If continued treatment is desired at the end of the first six-month treatment cycle, PROBUPHINE implants may be replaced by new implants at the time of removal in the contralateral arm, following the insertion steps above to locate the appropriate insertion site.
@@ -431,7 +444,7 @@ If continued treatment is desired at the end of the first six-month treatment cy
 If new implants are not inserted on the same day as the removal, patients should be maintained on their previous dose of transmucosal buprenorphine (i.e., the dose from which they were transferred to PROBUPHINE treatment) prior to additional PROBUPHINE treatment [see Dosage and Administration (2.6), Warnings and Precautions (5.1)].
 
 There is no experience with inserting additional implants into other sites in the arm to recommend an approach to a second insertion into a previously-used arm.
-Neither re-insertion into previously- used administration sites, nor into sites other than the upper arm, have been studied.
+Neither re-insertion into previously used administration sites, nor into sites other than the upper arm, have been studied.
 It is important to avoid previously-implanted sites because the effect of scarring and fibrosis in previously-used insertion sites on either the effectiveness of PROBUPHINE or the safety of insertion have not been evaluated.
-After one insertion in each arm, additional cycles of treatment should only be considered if the potential benefits of continuing PROBUPHINE outweigh the potential risks of additional insertion and removal procedures, taking into account the experience of the healthcare provider with PROBUPHINE procedures and related procedures, and the clinical need of the patient for ongoing treatment with subdermal medication.
+After one insertion in each arm, additional cycles of treatment should only be considered if the potential benefits of continuing PROBUPHINE outweigh the potential risks of additional insertion and removal procedures, taking into account the experience of the Healthcare Provider with PROBUPHINE procedures and related procedures, and the clinical need of the patient for ongoing treatment with subdermal medication.
 In most cases, patients should be transitioned back to a transmucosal buprenorphine-containing product for continued treatment.

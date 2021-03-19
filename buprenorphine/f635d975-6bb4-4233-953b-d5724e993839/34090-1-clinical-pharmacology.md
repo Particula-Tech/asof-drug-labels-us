@@ -3,7 +3,7 @@
 ## 12.1. Mechanism of Action
 
 PROBUPHINE implants contain buprenorphine HCl.
-Buprenorphine is a partial agonist at the mu- opioid receptor and an antagonist at the kappa-opioid receptor.
+Buprenorphine is a partial agonist at the mu-opioid receptor and an antagonist at the kappa-opioid receptor.
 
 ## 12.2. Pharmacodynamics
 
@@ -54,8 +54,8 @@ At steady state, the buprenorphine concentrations were stable and comparable to 
 
 In one pharmacokinetics study (Figure 17), subjects received 16 mg per day sublingual buprenorphine for a minimum of 5 consecutive days, followed by 4 implants of PROBUPHINE (totally 320 mg buprenorphine hydrochloride).
 Overall peak plasma buprenorphine concentrations were markedly lower after PROBUPHINE insertion than after dosing with 16 mg per day sublingual buprenorphine.
-The steady-state buprenorphine AUC0-24 value after 4 implants of PROBUPHINE on Day 28 was 19.6 ± 33.7 ng*hr/mL, 31% of the steady-state buprenorphine AUC0- 24 value of 16 mg per day sublingual administration (62.7 ± 36.4 ng*hr/mL).
-The average steady- state buprenorphine concentration of PROBUPHINE on Day 28 was approximately 0.82 ng/mL, 8% of the peak concentration (10.4 ± 13.4 ng/mL), and 52% of the trough concentration (1.58 ± 0.60 ng/mL) of 16 mg per day sublingual buprenorphine at steady state.
+The steady-state buprenorphine AUC0-24 value after 4 implants of PROBUPHINE on Day 28 was 19.6 ± 33.7 ng*hr/mL, 31% of the steady-state buprenorphine AUC0-24 value of 16 mg per day sublingual administration (62.7 ± 36.4 ng*hr/mL).
+The average steady-state buprenorphine concentration of PROBUPHINE on Day 28 was approximately 0.82 ng/mL, 8% of the peak concentration (10.4 ± 13.4 ng/mL), and 52% of the trough concentration (1.58 ± 0.60 ng/mL) of 16 mg per day sublingual buprenorphine at steady state.
 
 The figure below shows the steady state buprenorphine concentration of 16 mg per day sublingual buprenorphine on Day -1, the initial buprenorphine concentration after PROBUPHINE insertion on Day 1, and steady state buprenorphine after PROBUPHINE insertion on Day 28.
 
@@ -102,6 +102,6 @@ Drug Interaction Studies
 CYP3A4 Inhibitors and Inducers
 
 Buprenorphine is metabolized to norbuprenorphine primarily by cytochrome CYP3A4; therefore, potential interactions may occur when PROBUPHINE is given concurrently with agents that affect CYP3A4 activity.
-The effects of co-administered CYP3A4 inducers or inhibitors have been established in studies using transmucosal buprenorphine; the effects on buprenorphine exposure in patients treated with PROBUPHINE have not been studied, and the effects may be dependent on the route of administration..
+The effects of co-administered CYP3A4 inducers or inhibitors have been established in studies using transmucosal buprenorphine; the effects on buprenorphine exposure in patients treated with PROBUPHINE have not been studied, and the effects may be dependent on the route of administration.
 
 Buprenorphine has been found to be a CYP2D6 and CYP3A4 inhibitor and its major metabolite, norbuprenorphine, has been found to be a moderate CYP2D6 inhibitor in in vitro studies employing human liver microsomes [see Drug Interactions (7)].
