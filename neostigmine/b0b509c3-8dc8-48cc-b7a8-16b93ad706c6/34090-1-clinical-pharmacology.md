@@ -34,7 +34,9 @@ Specific Populations
 
 Pediatric Population:
 
-After intravenous administration as a 2-minute infusion (infants 2 to 10 months old: 100 mcg/kg; children 1 to 6 years old: 70 mcg/kg), the elimination half-life for infants and children were 39 ± 5 min and 48 ± 16 min (mean ± SD), respectively.
+After intravenous administration as a 2-minute infusion (infants 2 to 10 months old: 100 mcg/kg; children 1 to 6 years old:
+
+70 mcg/kg), the elimination half-life for infants and children were 39 ± 5 min and 48 ± 16 min (mean ± SD), respectively.
 Clearance for infants and children were 13.6 ± 2.8 and 11.1 ± 2.7 mL/min/kg (mean ± SD), respectively.
 
 Renal Impairment
