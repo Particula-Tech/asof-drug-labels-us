@@ -145,6 +145,18 @@ These serious events may occur without warning.
 Inform patients about the signs and symptoms of serious skin reactions and to discontinue the use of diclofenac sodium delayed-release at the first appearance of skin rash or any other sign of hypersensitivity.
 Diclofenac sodium delayed-release is contraindicated in patients with previous serious skin reactions to NSAIDs (see CONTRAINDICATIONS).
 
+## Drug Reaction with Eosinophilia and Systemic Symptoms (DRESS)
+
+Drug Reaction with Eosinophilia and Systemic Symptoms (DRESS) has been reported in patients taking NSAIDs such as diclofenac sodium delayed-release tablets.
+Some of these events have been fatal or life-threatening.
+DRESS typically, although not exclusively, presents with fever, rash, lymphadenopathy, and/or facial swelling.
+Other clinical manifestations may include hepatitis, nephritis, hematological abnormalities, myocarditis, or myositis.
+Sometimes symptoms of DRESS may resemble an acute viral infection.
+Eosinophilia is often present.
+Because this disorder is variable in its presentation, other organ systems not noted here may be involved.
+It is important to note that early manifestations of hypersensitivity, such as fever or lymphadenopathy, may be present even though rash is not evident.
+If such signs or symptoms are present, discontinue diclofenac sodium delayed-release tablets and evaluate the patient immediately.
+
 ## Fetal Toxicity
 
 Premature Closure of Fetal Ductus Arteriosus:
@@ -173,18 +185,6 @@ If a patient treated with diclofenac sodium delayed-release, has any signs or sy
 NSAIDs, including diclofenac sodium delayed-release, may increase the risk of bleeding events.
 Co-morbid conditions such as coagulation disorders, concomitant use of warfarin, other anticoagulants, antiplatelet agents (e.g., aspirin), serotonin reuptake inhibitors (SSRIs) and serotonin norepinephrine reuptake inhibitors (SNRIs) may increase this risk.
 Monitor these patients for signs of bleeding (see PRECAUTIONS; Drug Interactions).
-
-## Drug Rash with Eosinophilia and Systemic Symptoms (DRESS)
-
-Drug Reaction with Eosinophilia and Systemic Symptoms (DRESS) has been reported in patients taking NSAIDs such as diclofenac sodium delayed-release tablets.
-Some of these events have been fatal or life-threatening.
-DRESS typically, although not exclusively, presents with fever, rash, lymphadenopathy, and/or facial swelling.
-Other clinical manifestations may include hepatitis, nephritis, hematological abnormalities, myocarditis, or myositis.
-Sometimes symptoms of DRESS may resemble an acute viral infection.
-Eosinophilia is often present.
-Because this disorder is variable in its presentation, other organ systems not noted here may be involved.
-It is important to note that early manifestations of hypersensitivity, such as fever or lymphadenopathy, may be present even though rash is not evident.
-If such signs or symptoms are present, discontinue diclofenac sodium delayed-release tablets and evaluate the patient immediately.
 
 # PRECAUTIONS
 
@@ -331,12 +331,14 @@ Oligohydramnios/Neonatal Renal Impairment
 Use of NSAIDs at about 20 weeks gestation or later in pregnancy has been associated with cases of fetal renal dysfunction leading to oligohydramnios, and in some cases, neonatal renal impairment.
 
 Data from observational studies regarding other potential embryofetal risks of NSAID use in women in the first or second trimesters of pregnancy are inconclusive.
-In the general U.S. population, all clinically recognized pregnancies, regardless of drug exposure, have a background rate of 2% to 4% for major malformations, and 15% to 20% for pregnancy loss.
 In animal reproduction studies, no evidence of teratogenicity was observed in mice, rats, or rabbits given diclofenac during the period of organogenesis at doses up to approximately 0.5, 0.5, and 1 times, respectively, the maximum recommended human dose (MRHD) of diclofenac sodium delayed-release, 200 mg/day, despite the presence of maternal and fetal toxicity at these doses (see Data).
 Based on animal data, prostaglandins have been shown to have an important role in endometrial vascular permeability, blastocyst implantation, and decidualization.
 In animal studies, administration of prostaglandin synthesis inhibitors such as diclofenac sodium, resulted in increased pre- and post-implantation loss.
 Prostaglandins also have been shown to have an important role in fetal kidney development.
 In published animal studies, prostaglandin synthesis inhibitors have been reported to impair kidney development when administered at clinically relevant doses.
+The estimated background risk of major birth defects and miscarriage for the indicated population(s) is unknown.
+All pregnancies have a background risk of birth defect, loss, or other adverse outcomes.
+In the U.S. general population, the estimated background risk of major birth defects and miscarriage in clinically recognized pregnancies is 2% to 4% and 15% to 20%, respectively.
 
 Clinical Considerations
 
