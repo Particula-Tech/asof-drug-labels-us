@@ -16,7 +16,18 @@ Crushing, chewing, or dissolving morphine sulfate extended-release tablets will 
 
 Morphine sulfate extended-release tablets are administered orally once every 8 or 12 hours.
 
-## 2.2 Initial Dosage
+## 2.2 Patient Access to Naloxone for the Emergency Treatment of Opioid Overdose
+
+Discuss the availability of naloxone for the emergency treatment of opioid overdose with the patient and caregiver and assess the potential need for access to naloxone, both when initiating and renewing treatment with morphine sulfate extended-release tablets [see Warnings and Precautions (5.3), Patient Counseling Information (17)].
+
+Inform patients and caregivers about the various ways to obtain naloxone as permitted by individual state naloxone dispensing and prescribing requirements or guidelines (e.g., by prescription, directly from a pharmacist, or as part of a community-based program).
+
+Consider prescribing naloxone, based on the patient's risk factors for overdose, such as concomitant use of CNS depressants, a history of opioid use disorder, or prior opioid overdose.
+The presence of risk factors for overdose should not prevent the proper management of pain in any given patient [see Warnings and Precautions (5.1, 5.3, 5.5)].
+
+Consider prescribing naloxone if the patient has household members (including children) or other close contacts at risk for accidental ingestion or overdose.
+
+## 2.3 Initial Dosage
 
 Use of Morphine Sulfate Extended-Release Tablets as the First Opioid Analgesic (opioid-naïve patients)
 
@@ -61,7 +72,7 @@ Close monitoring is of particular importance when converting methadone to other 
 The ratio between methadone and other opioid agonists may vary widely as a function of previous dose exposure.
 Methadone has a long half-life and can accumulate in the plasma.
 
-## 2.3 Titration and Maintenance of Therapy
+## 2.4 Titration and Maintenance of Therapy
 
 Individually titrate morphine sulfate extended-release tablets to a dose that provides adequate analgesia and minimizes adverse reactions.
 Continually reevaluate patients receiving morphine sulfate extended-release tablets to assess the maintenance of pain control and the relative incidence of adverse reactions, as well as monitoring for the development of addiction, abuse, or misuse [see Warnings and Precautions (5.1)].
@@ -75,11 +86,11 @@ Because steady-state plasma concentrations are approximated in 1 day, morphine s
 If unacceptable opioid-related adverse reactions are observed, consider reducing the dosage.
 Adjust the dosage to obtain an appropriate balance between management of pain and opioid-related adverse reactions.
 
-## 2.4 Dosage Modifications with Concomitant Use of Central Nervous System Depressants
+## 2.5 Dosage Modifications with Concomitant Use of Central Nervous System Depressants
 
 If the patient is currently taking a central nervous system (CNS) depressant and the decision is made to begin morphine sulfate extended-release tablets, start with the lowest possible dose, 15 mg every 12 hours, monitor patients for signs of respiratory depression, sedation, and hypotension, and consider using a lower dosage of the concomitant CNS depressant [see Warnings and Precautions (5.5), Drug Interactions (7)].
 
-## 2.5 Safe Reduction or Discontinuation of Morphine Sulfate Extended-Release Tablets
+## 2.6 Safe Reduction or Discontinuation of Morphine Sulfate Extended-Release Tablets
 
 Do not abruptly discontinue morphine sulfate extended-release tablets in patients who may be physically dependent on opioids.
 Rapid discontinuation of opioid analgesics in patients who are physically dependent on opioids has resulted in serious withdrawal symptoms, uncontrolled pain, and suicide.
