@@ -1,8 +1,8 @@
 # 1 INDICATIONS AND USAGE
 
-Exforge HCT (amlodipine, valsartan, hydrochlorothiazide) is indicated for the treatment of hypertension, to lower blood pressure.
+Exforge HCT (amlodipine, valsartan, and hydrochlorothiazide) is indicated for the treatment of hypertension, to lower blood pressure.
 Lowering blood pressure reduces the risk of fatal and nonfatal cardiovascular events, primarily strokes and myocardial infarctions.
-These benefits have been seen in controlled trials of antihypertensive drugs from a wide variety of pharmacologic classes, including amlodipine, hydrochlorothiazide, and the ARB class to which valsartan principally belongs.
+These benefits have been seen in controlled trials of antihypertensive drugs from a wide variety of pharmacologic classes, including amlodipine, hydrochlorothiazide, and the angiotensin II receptor blocker (ARB) class to which valsartan principally belongs.
 There are no controlled trials demonstrating risk reduction with Exforge HCT.
 
 Control of high blood pressure should be part of comprehensive cardiovascular risk management, including, as appropriate, lipid control, diabetes management, antithrombotic therapy, smoking cessation, exercise, and limited sodium intake.
@@ -18,6 +18,6 @@ Relative risk reduction from blood pressure reduction is similar across populati
 Some antihypertensive drugs have smaller blood pressure effects (as monotherapy) in black patients, and many antihypertensive drugs have additional approved indications and effects (e.g., on angina, heart failure, or diabetic kidney disease).
 These considerations may guide selection of therapy.
 
-Limitation of Use
+Limitations of Use
 
 Exforge HCT is not indicated for the initial therapy of hypertension [see Dosage and Administration (2)].

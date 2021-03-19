@@ -16,4 +16,4 @@ Potassium Supplements: Advise patients not to use salt substitutes without consu
 
 Non-melanoma Skin Cancer: Instruct patients taking hydrochlorothiazide to protect skin from the sun and undergo regular skin cancer screening [see Adverse Reactions (6.2)].
 
-T2020-122
+T2021-12

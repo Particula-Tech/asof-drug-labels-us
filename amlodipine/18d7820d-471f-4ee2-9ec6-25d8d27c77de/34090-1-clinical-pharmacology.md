@@ -26,7 +26,7 @@ Valsartan blocks the vasoconstrictor and aldosterone-secreting effects of angiot
 Its action is therefore independent of the pathways for angiotensin II synthesis.
 
 There is also an AT2 receptor found in many tissues, but AT2 is not known to be associated with cardiovascular homeostasis.
-Valsartan has much greater affinity (about 20000-fold) for the AT1 receptor than for the AT2 receptor.
+Valsartan has much greater affinity (about 20,000-fold) for the AT1 receptor than for the AT2 receptor.
 The increased plasma levels of angiotensin following AT1 receptor blockade with valsartan may stimulate the unblocked AT2 receptor.
 The primary metabolite of valsartan is essentially inactive with an affinity for the AT1 receptor about one-200th that of valsartan itself.
 
@@ -107,8 +107,8 @@ After oral administration of hydrochlorothiazide, diuresis begins within 2 hours
 
 Exforge HCT
 
-Following oral administration of Exforge HCT in normal healthy adults, peak plasma concentrations of amlodipine, valsartan and HCTZ are reached in about 6 hours, 3 hours, and 2 hours, respectively.
-The rate and extent of absorption of amlodipine, valsartan and HCTZ from Exforge HCT are the same as when administered as individual dosage forms.
+Following oral administration of Exforge HCT in normal healthy adults, peak plasma concentrations of amlodipine, valsartan, and HCTZ are reached in about 6 hours, 3 hours, and 2 hours, respectively.
+The rate and extent of absorption of amlodipine, valsartan, and HCTZ from Exforge HCT are the same as when administered as individual dosage forms.
 
 The bioavailability of amlodipine, valsartan, and HCTZ were not altered when Exforge HCT was administered with food.
 Exforge HCT may be administered with or without food.
@@ -127,7 +127,7 @@ Steady state plasma levels of amlodipine are reached after 7 to 8 days of consec
 
 Valsartan
 
-Following oral administration of valsartan alone peak plasma concentrations of valsartan are reached in 2 to 4 hours.
+Following oral administration of valsartan alone, peak plasma concentrations of valsartan are reached in 2 to 4 hours.
 Absolute bioavailability is about 25% (range 10% to 35%).
 
 The steady state volume of distribution of valsartan after intravenous administration is 17 L indicating that valsartan does not distribute into tissues extensively.
@@ -201,7 +201,7 @@ This finding was not observed in CYP3A5 non-expressers (N = 6).
 However, a 3-fold increase in plasma exposure to tacrolimus in a renal transplant patient (CYP3A5 non-expresser) upon initiation of amlodipine for the treatment of post-transplant hypertension resulting in reduction of tacrolimus dose has been reported.
 Irrespective of the CYP3A5 genotype status, the possibility of an interaction cannot be excluded with these drugs [see Drug Interactions (7)].
 
-Valsartan
+Valsartan:
 
 No clinically significant pharmacokinetic interactions were observed when Diovan (valsartan) was coadministered with amlodipine, atenolol, cimetidine, digoxin, furosemide, glyburide, hydrochlorothiazide, or indomethacin.
 The valsartan-atenolol combination was more antihypertensive than either component, but it did not lower the heart rate more than atenolol alone.

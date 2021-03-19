@@ -2,7 +2,7 @@ Information for Patients
 
 Patient Information
 
-Exforge HCT® (X-phorj HCT) (amlodipine and valsartan and hydrochlorothiazide) Tablets
+Exforge HCT® (X-phorj HCT) (amlodipine, valsartan, and hydrochlorothiazide) Tablets
 
 Read the Patient Information that comes with EXFORGE HCT before you start taking it and each time you get a refill.
 There may be new information.
@@ -196,4 +196,4 @@ Distributed by: Novartis Pharmaceuticals Corporation East Hanover, New Jersey 07
 
 © Novartis
 
-T2020-123 Revised: August 2020
+T2021-13 Revised: February 2021

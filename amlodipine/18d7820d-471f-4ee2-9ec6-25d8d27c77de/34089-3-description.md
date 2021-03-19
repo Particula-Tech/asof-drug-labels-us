@@ -21,6 +21,6 @@ Hydrochlorothiazide is chemically described as 6-chloro-3,4-dihydro-2H-1,2,4-ben
 Hydrochlorothiazide is a thiazide diuretic.
 Its empirical formula is C7H8ClN3O4S2, its molecular weight is 297.73, and its structural formula is:
 
-Exforge HCT film-coated tablets are formulated in 5 strengths for oral administration with a combination of amlodipine besylate, valsartan, and hydrochlorothiazide, providing for the following available combinations: 5/160/12.5 mg, 10/160/12.5 mg, 5/160/25 mg, 10/160/25 mg, and 10/320/25 mg amlodipine besylate/valsartan/hydrochlorothiazide.
+Exforge HCT (amlodipine, valsartan, and hydrochlorothiazide) is available as film-coated tablets containing amlodipine besylate (6.9 mg or 13.9 mg, equivalent to 5 mg or 10 mg of amlodipine respectively), with valsartan 160 mg or 320 mg, and hydrochlorothiazide 12.5 mg or 25 mg, providing for the following available combinations: 5/160/12.5 mg, 10/160/12.5 mg, 5/160/25 mg, 10/160/25 mg, and 10/320/25 mg.
 The inactive ingredients for all strengths of the tablets include microcrystalline cellulose; crospovidone; colloidal anhydrous silica; magnesium stearate; hypromellose, macrogol 4000, and talc.
 Additionally, the 5/160/12.5 mg strength contains titanium dioxide; the 10/160/12.5 mg strength contains titanium dioxide and yellow and red iron oxides; the 5/160/25 mg strength contains titanium dioxide and yellow iron oxide, and the 10/160/25 mg and 10/320/25 mg strengths both contain yellow iron oxide.

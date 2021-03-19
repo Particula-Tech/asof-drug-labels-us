@@ -21,7 +21,7 @@ In patients with an activated renin-angiotensin system, such as volume- or salt-
 Correct this condition prior to administration of Exforge HCT.
 
 Exforge HCT has not been studied in patients with heart failure, recent myocardial infarction, or in patients undergoing surgery or dialysis.
-Patients with heart failure or post-myocardial infarction patients given valsartan commonly have some reduction in blood pressure, but discontinuation of therapy because of continuing symptomatic hypotension usually is not necessary when dosing instructions are followed.
+Patients with heart failure or post-myocardial infarction who were given valsartan commonly have some reduction in blood pressure, but discontinuation of therapy because of continuing symptomatic hypotension usually is not necessary when dosing instructions are followed.
 In controlled trials in heart failure patients, the incidence of hypotension in valsartan-treated patients was 5.5% compared to 1.8% in placebo-treated patients.
 In the Valsartan in Acute Myocardial Infarction Trial (VALIANT), hypotension in post-myocardial infarction patients led to permanent discontinuation of therapy in 1.4% of valsartan-treated patients and 0.8% of captopril-treated patients.
 
