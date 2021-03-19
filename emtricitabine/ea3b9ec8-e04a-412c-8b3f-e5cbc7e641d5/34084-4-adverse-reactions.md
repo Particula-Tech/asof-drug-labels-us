@@ -24,10 +24,10 @@ The most common adverse reactions (all Grades) reported in at least 2% of subjec
 Over 98% of the adverse reactions in the ODEFSEY group were of mild to moderate intensity.
 The proportion of subjects who discontinued treatment with ODEFSEY due to adverse events, regardless of severity, was 2% compared to 1% for FTC/RPV/TDF and 2% for EFV/FTC/TDF.
 
-Table 1 Adverse Reactions Frequencies of adverse reactions are based on all adverse events attributed to study drugs by the investigator.
+Table 1 Adverse ReactionsFrequencies of adverse reactions are based on all adverse events attributed to study drugs by the investigator.
 (All Grades) Reported in ≥1% of HIV-1 Infected Virologically-Suppressed Adults in Trial 1160 or Trial 1216 (Week 48 analysis)
 
-| ODEFSEY (N=438) | EFV/FTC/TDF (N=437) Data from Trials 1160 and 1216 do not provide an adequate basis for comparison of adverse reaction incidences between ODEFSEY and the FTC/RPV/TDF and EFV/FTC/TDF groups. | ODEFSEY (N=316) | FTC/RPV/TDF (N=313) |  |
+| ODEFSEY (N=438) | EFV/FTC/TDF (N=437)Data from Trials 1160 and 1216 do not provide an adequate basis for comparison of adverse reaction incidences between ODEFSEY and the FTC/RPV/TDF and EFV/FTC/TDF groups. | ODEFSEY (N=316) | FTC/RPV/TDF (N=313) |  |
 | --- | --- | --- | --- | --- |
 | Adverse Reaction | Trial 1160 |  | Trial 1216 |  |
 | Headache | 2% | 1% | 0 | 1% |
@@ -62,14 +62,14 @@ Changes from baseline in total cholesterol, HDL-cholesterol, LDL-cholesterol, tr
 
 Table 2 Lipid Values, Mean Change from Baseline Reported in Subjects Receiving ODEFSEY, FTC/RPV/TDF and EFV/FTC/TDF in Trials 1216 and 1160 at 48 Weeks
 
-| mg/dL | Change The change from baseline is the mean of within-subject changes from baseline for subjects with both baseline and Week 48 values.,Subjects who received lipid-lowering agents during the treatment period were excluded. | mg/dL | Change, | mg/dL | Change, | mg/dL | Change, |  |
+| mg/dL | ChangeThe change from baseline is the mean of within-subject changes from baseline for subjects with both baseline and Week 48 values.,Subjects who received lipid-lowering agents during the treatment period were excluded. | mg/dL | Change, | mg/dL | Change, | mg/dL | Change, |  |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 |  | Trial 1216 |  |  |  | Trial 1160 |  |  |  |
 |  | ODEFSEY N=316 [n=235] |  | FTC/RPV/TDF N=314 [n=245] |  | ODEFSEY N=438 [n=295] |  | EFV/FTC/TDF N=437 [n=308] |  |
 | Baseline | Week 48 | Baseline | Week 48 | Baseline | Week 48 | Baseline | Week 48 |  |
 | Total Cholesterol (fasted) | 176 | +17 | 171 | 0 | 193 | -7 | 192 | -3 |
 | HDL-Cholesterol (fasted) | 50 | +3 | 48 | 0 | 56 | -4 | 55 | -2 |
-| LDL-Cholesterol (fasted) | 111 | +13 | 108 | +1 | 118 [n=296] for ODEFSEY group in Study 1160 for LDL-Cholesterol (fasted) | -1 | 119 | -1 |
+| LDL-Cholesterol (fasted) | 111 | +13 | 108 | +1 | 118[n=296] for ODEFSEY group in Study 1160 for LDL-Cholesterol (fasted) | -1 | 119 | -1 |
 | Triglycerides (fasted) | 116 | +12 | 119 | -9 | 139 | -12 | 133 | +3 |
 | Total Cholesterol to HDL Ratio | 3.7 | +0.2 | 3.8 | +0.1 | 3.7 | +0.2 | 3.8 | 0 |
 
@@ -88,8 +88,12 @@ Antiretroviral treatment-naïve adult subjects treated with FTC+TAF with EVG+COB
 
 Renal Laboratory Tests
 
-In two 48-week trials in antiretroviral treatment-naïve HIV-1 infected adults treated with FTC+TAF with EVG+COBI (N=866) with a median baseline eGFR of 115 mL per minute, mean serum creatinine increased by 0.1 mg per dL from baseline to Week 48.
+In two 48-week trials in antiretroviral treatment-naïve HIV-1 infected adults treated with FTC+TAF with elvitegravir (EVG) plus cobicistat (COBI) (N=866) with a median baseline eGFR of 115 mL per minute, mean serum creatinine increased by 0.1 mg per dL from baseline to Week 48.
+
+In clinical trials of FTC+TAF with EVG+COBI in treatment-naïve subjects and in virologically-suppressed subjects switched to FTC+TAF with EVG+COBI with estimated creatinine clearance greater than 50 mL per minute, renal serious adverse events or discontinuations due to renal adverse reactions were encountered in less than 1% of participants treated with FTC+TAF with EVG+COBI.
+
 In a 24-week trial in adults with renal impairment (baseline eGFR 30 to 69 mL per minute) who received FTC+TAF with EVG+COBI (N=248), mean serum creatinine was 1.5 mg per dL at both baseline and Week 24.
+FTC+TAF with EVG+COBI was permanently discontinued due to worsening renal function in two of 80 (3%) subjects.
 
 Bone Mineral Density Effects
 
@@ -132,3 +136,7 @@ Tenofovir alafenamide:
 Skin and Subcutaneous Tissue Disorders
 
 Angioedema, urticaria, and rash
+
+Renal and Urinary Disorders
+
+Acute renal failure, acute tubular necrosis, proximal renal tubulopathy, and Fanconi syndrome

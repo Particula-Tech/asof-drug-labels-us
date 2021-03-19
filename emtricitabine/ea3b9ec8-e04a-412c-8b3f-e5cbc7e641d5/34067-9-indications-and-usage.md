@@ -7,4 +7,4 @@ ODEFSEY is indicated as a complete regimen for the treatment of HIV-1 infection 
 
 Limitations of Use:
 
-- More rilpivirine-treated subjects with no antiretroviral treatment history with HIV-1 RNA greater than 100,000 copies/mL at the start of therapy experienced virologic failure (HIV-1 RNA ≥ 50 copies/mL) compared to rilpivirine-treated subjects with HIV-1 RNA less than or equal to 100,000 copies/mL [see Clinical Studies (14.2, 14.3)].
+- More rilpivirine-treated subjects with no antiretroviral treatment history with HIV-1 RNA greater than 100,000 copies/mL at the start of therapy experienced virologic failure (HIV-1 RNA ≥ 50 copies/mL) compared to rilpivirine-treated subjects with HIV-1 RNA less than or equal to 100,000 copies/mL [see Clinical Studies (14.2,14.3)].

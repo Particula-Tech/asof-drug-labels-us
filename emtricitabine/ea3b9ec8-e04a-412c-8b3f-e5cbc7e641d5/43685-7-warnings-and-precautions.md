@@ -43,17 +43,11 @@ Suicidal ideation and suicide attempt were reported in 1 subject.
 
 ## 5.5 New Onset or Worsening Renal Impairment
 
-Renal impairment, including cases of acute renal failure and Fanconi syndrome (renal tubular injury with severe hypophosphatemia), has been reported with the use of tenofovir prodrugs in both animal toxicology studies and human trials.
-In clinical trials of FTC+TAF with EVG+COBI, there have been no cases of Fanconi syndrome or proximal renal tubulopathy (PRT).
-In clinical trials of FTC+TAF with EVG+COBI in treatment-naïve subjects and in virologically-suppressed subjects switched to FTC+TAF with EVG+COBI with estimated creatinine clearance greater than 50 mL per minute, renal serious adverse events or discontinuations due to renal adverse reactions were encountered in less than 1% of participants treated with FTC+TAF with EVG+COBI.
-In a study of virologically-suppressed subjects with baseline estimated creatinine clearance between 30 and 69 mL per minute treated with FTC+TAF with EVG+COBI for a median duration of 43 weeks, FTC+TAF with EVG+COBI was permanently discontinued due to worsening renal function in two of 80 (3%) subjects with a baseline estimated creatinine clearance between 30 and 50 mL per minute [see Adverse Reactions (6.1)].
+Postmarketing case of renal impairment, including acute renal failure, proximal renal tubulopathy (PRT), and Fanconi syndrome have been reported with TAF-containing products; while most of these cases were characterized by potential confounders that may have contributed to the reported renal events, it is also possible these factors may have predisposed patients to tenofovir-related adverse events [see Adverse Reactions (6.1, 6.2)].
 ODEFSEY is not recommended in patients with estimated creatinine clearance of 15 to below 30 mL per minute, or in patients with estimated creatinine clearance below 15 mL per minute who are not receiving chronic hemodialysis.
 
-Patients taking tenofovir prodrugs who have impaired renal function and those taking nephrotoxic agents, including nonsteroidal anti-inflammatory drugs are at increased risk of developing renal-related adverse reactions.Patients taking tenofovir prodrugs who have impaired renal function and those taking nephrotoxic agents, including nonsteroidal anti-inflammatory drugs are at increased risk of developing renal-related adverse reactions.
+Patients taking tenofovir prodrugs who have impaired renal function and those taking nephrotoxic agents, including nonsteroidal anti-inflammatory drugs are at increased risk of developing renal-related adverse reactions.
 
-Prior to or when initiating ODEFSEY, and during treatment with ODEFSEY, on a clinically appropriate schedule, assess serum creatinine, estimated creatinine clearance, urine glucose and urine protein in all patients.
-In patients with chronic kidney disease, also assess serum phosphorus.
-Discontinue ODEFSEY in patients who develop clinically significant decreases in renal function or evidence of Fanconi syndrome.
 Prior to or when initiating ODEFSEY, and during treatment with ODEFSEY, on a clinically appropriate schedule, assess serum creatinine, estimated creatinine clearance, urine glucose and urine protein in all patients.
 In patients with chronic kidney disease, also assess serum phosphorus.
 Discontinue ODEFSEY in patients who develop clinically significant decreases in renal function or evidence of Fanconi syndrome.
@@ -77,8 +71,6 @@ Treatment with ODEFSEY should be suspended in any patient who develops clinical 
 
 ## 5.8 Immune Reconstitution Syndrome
 
-Immune reconstitution syndrome has been reported in patients treated with combination antiretroviral therapy, including FTC and RPV, both components of ODEFSEY.
-During the initial phase of combination antiretroviral treatment, patients whose immune system responds may develop an inflammatory response to indolent or residual opportunistic infections [such as infection, cytomegalovirus, pneumonia (PCP), or tuberculosis], which may necessitate further evaluation and treatment.
 Immune reconstitution syndrome has been reported in patients treated with combination antiretroviral therapy, including FTC and RPV, both components of ODEFSEY.
 During the initial phase of combination antiretroviral treatment, patients whose immune system responds may develop an inflammatory response to indolent or residual opportunistic infections [such as Mycobacterium avium infection, cytomegalovirus, Pneumocystis jirovecii pneumonia (PCP), or tuberculosis], which may necessitate further evaluation and treatment.
 

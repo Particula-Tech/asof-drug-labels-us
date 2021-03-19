@@ -25,7 +25,7 @@ Inform patients to seek immediate medical evaluation if they experience depressi
 New Onset or Worsening Renal Impairment
 
 Advise patients to avoid taking ODEFSEY with concurrent or recent use of nephrotoxic agents.
-Renal impairment, including cases of acute renal failure, has been reported in association with the use of tenofovir prodrugs [see Warnings and Precautions (5.5)].
+Postmarketing cases of renal impairment, including acute renal failure, have been reported [see Warnings and Precautions (5.5)].
 
 Drug Interactions
 
@@ -52,6 +52,3 @@ Inform patients that there is an antiretroviral pregnancy registry to monitor fe
 Lactation
 
 Instruct patients with HIV-1 infection not to breastfeed because HIV-1 can be passed to the baby in breast milk [see Use in Specific Populations (8.2)].
-
-ODEFSEY is a trademark of Gilead Sciences, Inc., or its related companies.
-All other trademarks referenced herein are the property of their respective owners.
