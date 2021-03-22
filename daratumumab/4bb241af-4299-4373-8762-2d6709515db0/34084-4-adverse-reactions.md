@@ -225,7 +225,7 @@ Clinically relevant adverse reactions in <10% of patients who received DARZALEX 
 - Psychiatric disorders: insomnia
 - Vascular disorders: hypertension, hypotension
 - Nervous system disorders: dizziness, peripheral sensory neuropathy, paresthesia
-- Infections: bronchitis, influenza, urinary tract infection, herpes zoster, sepsis, hepatitis B reactivation
+- Infections: bronchitis, influenza, urinary tract infection, herpes zoster, sepsis, hepatitis B virus reactivation
 - Skin and subcutaneous tissue disorders: pruritus, rash
 - Cardiac disorders: atrial fibrillation
 - Respiratory, thoracic and mediastinal disorders: pulmonary edema
@@ -341,9 +341,11 @@ None of the patients who tested positive for anti-rHuPH20 antibodies tested posi
 
 ## 6.3 Postmarketing Experience
 
-The following adverse reactions have been identified with use of intravenous daratumumab.
+The following adverse reactions have been identified with post-approval use of daratumumab.
 Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
 
 Immune System: Anaphylactic reaction
 
 Gastrointestinal: Pancreatitis
+
+Infections: Cytomegalovirus, Listeriosis
