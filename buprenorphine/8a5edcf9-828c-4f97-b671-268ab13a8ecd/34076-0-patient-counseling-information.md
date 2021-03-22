@@ -20,6 +20,18 @@ Instruct patients to read the Medication Guide each time SUBOXONE sublingual fil
   Advise patients not to cut, chew, or swallow SUBOXONE sublingual film.
 - Inform patients and caregivers that potentially fatal additive effects may occur if SUBOXONE sublingual film is used with benzodiazepines or other CNS depressants, including alcohol.
   Counsel patients that such medications should not be used concomitantly unless supervised by a health care provider [see Warnings and Precautions (5.2, 5.3), Drug Interactions (7)].
+- Educate patients and caregivers on how to recognize respiratory depression and emphasize the importance of calling 911 or getting emergency medical help right away in the event of a known or suspected overdose [see Warnings and Precautions (5.2)].
+- Patient Access to Naloxone for the Emergency Treatment of Opioid Overdose Because patients being treated for opioid use disorder are at risk for relapse, discuss the importance of having access to naloxone with the patient and caregiver.
+  Also discuss the importance of having access to naloxone if there are household members (including children) or other close contacts at risk for accidental ingestion or opioid overdose.
+  Inform patients and caregivers of the options for obtaining naloxone as permitted by individual state naloxone dispensing and prescribing requirements or guidelines (e.g., by prescription, directly from a pharmacist, or as part of a community-based program).
+  Educate patients and caregivers on how to recognize the signs and symptoms of an opioid overdose.
+  Explain to patients and caregivers that naloxone's effects are temporary, and that they must call 911 or get emergency medical help right away in all cases of known or suspected opioid overdose, even if naloxone is administered.
+  Repeat administration may be necessary, particularly for overdose involving SUBOXONE sublingual film, because naloxone is often not effective at the doses available for patient access [see Dosage and Administration (2.3), Warnings and Precautions (5.2), Overdosage (10)].
+  If naloxone is prescribed, also advise patients and caregivers:
+  - How to treat with naloxone in the event of an opioid overdose
+  - To tell family and friends about their naloxone and to keep it in a place where family and friends can easily access it in an emergency
+  - To read the Patient Information (or other educational material) that will come with their naloxone.
+    Emphasize the importance of doing this before an opioid emergency happens, so the patient and caregiver will know what to do.
 - Advise patients that SUBOXONE sublingual film contains an opioid that can be a target for people who abuse prescription medications or street drugs.
   Caution patients to keep their films in a safe place, and to protect them from theft.
 - Instruct patients to keep SUBOXONE sublingual film in a secure place, out of the sight and reach of children.
@@ -64,4 +76,4 @@ Indivior Inc.
 
 North Chesterfield, VA 23235
 
-SUBOXONE® and SUBUTEX® are registered trademarks of Indivior UK Ltd.
+SUBOXONE® and SUBUTEX® are registered trademarks of Indivior UK Limited.
