@@ -1,13 +1,9 @@
 # 1 INDICATIONS AND USAGE
 
-## 1.1 Treatment of severe hypoglycemia
+## 1.1 Severe Hypoglycemia
 
-GlucaGen is used to treat severe hypoglycemic (low blood sugar) reactions which may occur in patients with diabetes mellitus treated with insulin.
-Because GlucaGen depletes glycogen stores, the patient should be given supplemental carbohydrates as soon as he/she awakens and is able to swallow, especially children or adolescents.
-Medical evaluation is recommended for all patients who experience severe hypoglycemia.
+GlucaGen is indicated for the treatment of severe hypoglycemia in pediatric and adult patients with diabetes.
 
-## 1.2 Use as a diagnostic aid
+## 1.2 Diagnostic Aid
 
-GlucaGen is indicated for use during radiologic examinations to temporarily inhibit movement of the gastrointestinal tract.
-GlucaGen is not recommended in combination with anticholinergic agents due to the possibility of increased side effects.
-After the end of the diagnostic procedure, give oral carbohydrates to patients who have been fasting, if this is compatible with the diagnostic procedure applied.
+GlucaGen is indicated as a diagnostic aid for use during radiologic examinations to temporarily inhibit movement of the gastrointestinal tract in adult patients.

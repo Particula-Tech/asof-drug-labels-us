@@ -1,25 +1,20 @@
 # 7 DRUG INTERACTIONS
 
-## 7.1 Beta-blockers
+Table 1: Clinically Significant Drug Interactions with GlucaGen
 
-Patients taking beta-blockers might be expected to have a greater increase in both pulse and blood pressure, an increase of which will be temporary because of glucagon’s short half-life.
-The increase in blood pressure and pulse rate may require therapy in patients with pheochromocytoma or coronary artery disease.
-
-## 7.2 Indomethacin
-
-When used with indomethacin, glucagon may lose its ability to raise blood glucose or may even produce hypoglycemia.
-Therefore, caution should be exercised for patients taking indomethacin when glucagon will be administered.
-
-## 7.3 Anticholinergic Drugs
-
-Coadministration with an anticholinergic drug is not recommended due to increased gastrointestinal side effects.
-
-## 7.4 Warfarin
-
-Glucagon may increase the anticoagulant effect of warfarin.
-Therefore, caution should be exercised for patients taking warfarin when glucagon will be administered.
-
-## 7.5 Insulin
-
-Insulin reacts antagonistically towards glucagon.
-Therefore, caution should be exercised when glucagon is used as a diagnostic aid in diabetes patients.
+| Beta-Blockers |  |
+| --- | --- |
+| Clinical Impact: | Patients taking beta-blockers may have a transient increase in pulse and blood pressure when given GlucaGen. |
+| Intervention: | The increase in blood pressure and heart rate may require therapy in patients with coronary artery disease. |
+| Indomethacin |  |
+| Clinical Impact: | In patients taking indomethacin, GlucaGen may lose its ability to raise blood glucose or may even produce hypoglycemia. |
+| Intervention: | Monitor blood glucose levels during GlucaGen treatment of patients taking indomethacin. |
+| Anticholinergic Drugs |  |
+| Clinical Impact: | The concomitant use of anticholinergic drugs and GlucaGen increase the risk of gastrointestinal adverse reactions due to additive effects on inhibition of gastrointestinal motility. |
+| Intervention: | Concomintant use of anticholinergic drugs with GlucaGen for use as a diagnostic aid is not recommended. |
+| Warfarin |  |
+| Clinical Impact: | GlucaGen may increase the anticoagulant effect of warfarin. |
+| Intervention: | Monitor patients for unusual bruising or bleeding, as adjustments in warfarin dosage may be required. |
+| Insulin |  |
+| Clinical Impact: | Insulin acts antagonistically to glucagon. |
+| Intervention: | Monitor blood glucose when GlucaGen is used as a diagnostic aid in patients receiving insulin. |

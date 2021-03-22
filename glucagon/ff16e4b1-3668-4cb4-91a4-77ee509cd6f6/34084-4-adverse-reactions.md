@@ -4,30 +4,25 @@ The following important adverse reactions are described below and elsewhere in t
 
 - •Hypersensitivity and Allergic Reactions [see Warnings and Precautions (5.3)]
 - •Necrolytic Migratory Erythema [see Warnings and Precautions (5.5)]
+- •Hyperglycemia in Patients with Diabetes Mellitus when Used as a Diagnostic Aid [see Warnings and Precautions (5.6)]
+- •Blood Pressure and Heart Rate Increase in Patients with Cardiac Disease when Used as a Diagnostic Aid [see Warnings and Precautions (5.7)]
 
-Side effects may include nausea and vomiting at doses above 1 mg or with rapid injection.
-Hypotension has been reported up to 2 hours after administration in patients receiving GlucaGen as premedication for upper GI endoscopy procedures.
-GlucaGen exerts positive inotropic and chronotropic effects and may, therefore, cause tachycardia and hypertension.
-Adverse reactions indicating toxicity of GlucaGen have not been reported.
-A temporary increase in both blood pressure and pulse rate may occur following the administration of GlucaGen.
-Patients taking beta-blockers might be expected to have a greater increase in both pulse and blood pressure, an increase of which will be temporary because of GlucaGen’s short half-life [see Drug Interactions (7.1)].
-The increase in blood pressure and pulse rate may require therapy in patients with pheochromocytoma or coronary artery disease [see Warnings and Precautions (5.1)].
-Anaphylactic reactions may occur in some cases.
-
-The following adverse reactions have been identified during postapproval use of GlucaGen.
+The following adverse reactions have been identified during post-approval use of glucagon.
 Because these reactions are reported voluntarily from a population of uncertain size, it is generally not possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
 
-Table 1 Frequency of Adverse Reactions
-
-| Treatment of severe hypoglycemia |  |
-| --- | --- |
-| Frequency (%) | Adverse Reaction |
-| < 10 | Nausea |
-| < 1 | Vomiting |
-| Use as a diagnostic aid |  |
-| < 10 | Nausea |
-| < 1 | Vomiting |
-| < 1 | Hypoglycemia |
-| <1 | Hypoglycemic coma |
-
-Necrolytic migratory erythema (NME) cases have been reported postmarketing in patients receiving continuous infusion of glucagon.
+- •Injection site reactions
+- •Nausea
+- •Vomiting
+- •Headache
+- •Dizziness
+- •Asthenia
+- •Pallor
+- •Diarrhea
+- •Somnolence
+- •Generalized allergic reactions including anaphylactic shock with breathing difficulties and hypotension
+- •Hypertension and tachycardia
+- •Decreased blood pressure.
+  Hypotension has been reported up to 2 hours after administration in patients receiving GlucaGen as premedication for upper gastrointestinal endoscopy procedures.
+- •Hypoglycemia and hypoglycemic coma.
+  Patients taking indomethacin may be more likely to experience hypoglycemia following glucagon administration [see Drug Interactions (7)].
+- •Necrolytic Migratory Erythema (NME) cases have been reported post marketing in patients receiving continuous infusion of glucagon.

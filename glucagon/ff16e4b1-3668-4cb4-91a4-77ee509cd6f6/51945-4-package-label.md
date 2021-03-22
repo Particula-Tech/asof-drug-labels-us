@@ -12,7 +12,7 @@ For intramuscular or intravenous injection
 
 GlucaGen® should be reconstituted with Sterile Water for Reconstitution immediately before use
 
-Single use only.
+Single dose.
 Discard unused portion.
 Protect from Light.
 
