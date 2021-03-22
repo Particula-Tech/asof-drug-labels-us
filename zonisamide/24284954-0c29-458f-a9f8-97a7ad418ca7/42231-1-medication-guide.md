@@ -222,7 +222,8 @@ What are the ingredients in zonisamide capsules?
 Active ingredient: zonisamide USP
 
 Inactive ingredients: microcrystalline cellulose, hydrogenated vegetable oil, gelatin and colorants.
-Components of gelatin capsules,titanium dioxide, gelatin and Imprint ink dye (Black SW- 9008/SW-9009) (For 100 mg: FDA/E172 red iron oxide For 50 mg: FD&C Blue No#2).
+Components of gelatin capsules,titanium dioxide, gelatin and Imprint ink dye (Black SW- 9008/SW-9009).
+In addition, 100 mg capsule conatins: FDA/E172 red iron oxide and 50 mg capsule contains: FD&C Blue No#2.
 
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
 
