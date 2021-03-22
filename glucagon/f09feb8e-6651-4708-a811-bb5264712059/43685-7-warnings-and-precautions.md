@@ -1,27 +1,26 @@
 # 5 WARNINGS AND PRECAUTIONS
 
-## 5.1 Pheochromocytoma
+## 5.1 Substantial Increase in Blood Pressure in Patients with Pheochromocytoma
 
-GlucaGen is contraindicated in patients with pheochromocytoma because GlucaGen may stimulate the release of catecholamines from the tumor.
-If the patient develops a dramatic increase in blood pressure, 5 to 10 mg of phentolamine mesylate has been shown to be effective in lowering blood pressure for the short time that control would be needed.
+GlucaGen is contraindicated in patients with pheochromocytoma because GlucaGen may stimulate the release of catecholamines from the tumor [see Contraindications (4)].
+If the patient develops a substantial increase in blood pressure and a previously undiagnosed pheochromocytoma is suspected, 5 to 10 mg of phentolamine mesylate, administered intravenously, has been shown to be effective in lowering blood pressure for the short time that control would be needed.
 
-## 5.2 Insulinoma and Glucagonoma
+## 5.2 Hypoglycemia in Patients with Insulinoma
 
-GlucaGen should not be administered to patients suspected of having insulinoma.
-In patients with insulinoma, intravenous administration of glucagon may produce an initial increase in blood glucose; however, GlucaGen administration may directly or indirectly (through an initial rise in blood glucose) stimulate exaggerated insulin release from an insulinoma.
-A patient developing symptoms of hypoglycemia after a dose of GlucaGen should be given glucose orally or intravenously, whichever is most appropriate.
-Caution should be observed in administering GlucaGen to patients with glucagonoma.
+In patients with insulinoma, administration of glucagon may produce an initial increase in blood glucose; however, GlucaGen administration may directly or indirectly (through an initial rise in blood glucose) stimulate exaggerated insulin release from an insulinoma and cause hypoglycemia.
+GlucaGen is contraindicated in patients with insulinoma [see Contraindications (4)].
+If a patient develops symptoms of hypoglycemia after a dose of GlucaGen, give glucose orally or intravenously.
 
 ## 5.3 Hypersensitivity and Allergic Reactions
 
-Allergic reactions may occur and include generalized rash, and in some cases anaphylactic shock with breathing difficulties, and hypotension.
-The anaphylactic reactions have generally occurred in association with endoscopic examination during which patients often received other agents including contrast media and local anesthetics.
-The patients should be given standard treatment for anaphylaxis including an injection of epinephrine if they encounter respiratory difficulties after GlucaGen injection.
+Allergic reactions have been reported with glucagon, these include generalized rash, and in some cases anaphylactic shock with breathing difficulties and hypotension.
+GlucaGen is contraindicated in patients with a prior hypersensitivity reaction [see Contraindications (4)].
 
-## 5.4 Glycogen Stores and Hypoglycemia
+## 5.4 Lack of Efficacy in Patients with Decreased Hepatic Glycogen
 
-In order for GlucaGen treatment to reverse hypoglycemia, adequate amounts of glucose must be stored in the liver (as glycogen).
-Therefore, GlucaGen should be used with caution in patients with conditions such as prolonged fasting, starvation, adrenal insufficiency, or chronic hypoglycemia because these conditions result in low levels of releasable glucose in the liver and an inadequate reversal of hypoglycemia by GlucaGen treatment.
+GlucaGen is effective in treating hypoglycemia only if sufficient hepatic glycogen is present.
+Patients in states of starvation, with adrenal insufficiency or chronic hypoglycemia may not have adequate levels of hepatic glycogen for GlucaGen administration to be effective.
+Patients with these conditions should be treated with glucose.
 
 ## 5.5 Necrolytic Migratory Erythema
 
@@ -30,10 +29,17 @@ NME lesions may affect the face, groin, perineum and legs or be more widespread.
 In the reported cases NME resolved with discontinuation of the glucagon, and treatment with corticosteroids was not effective.
 Should NME occur, consider whether the benefits of continuous glucagon infusion outweigh the risks.
 
-## 5.6 Cardiac Disease
+## 5.6 Hyperglycemia in Patients with Diabetes Mellitus when Used as a Diagnostic Aid
 
-Caution should be observed when GlucaGen is used as an adjunct in endoscopic or radiographic procedures to inhibit gastrointestinal motility in patients with known cardiac disease.
+Treatment with GlucaGen in patients with diabetes mellitus may cause hyperglycemia.
+Monitor diabetic patients for changes in blood glucose levels during treatment and treat if indicated.
 
-## 5.7 Laboratory Tests
+## 5.7 Blood Pressure and Heart Rate Increase in Patients with Cardiac Disease when used as a Diagnostic Aid
 
-Blood glucose measurements may be considered to monitor the patient’s response.
+GlucaGen may increase myocardial oxygen demand, blood pressure, and pulse rate which may be life-threatening in patients with cardiac disease.
+Cardiac monitoring is recommended in patients with cardiac disease during use of GlucaGen as a diagnostic aid, and an increase in blood pressure and pulse rate may require therapy.
+
+## 5.8 Hypoglycemia in Patients with Glucagonoma
+
+Glucagon administered to patients with glucagonoma may cause secondary hypoglycemia.
+Test patients suspected of having glucagonoma for blood levels of glucagon prior to use as a diagnostic aid as GlucaGen is contraindicated in this setting [see Contraindications (4)].

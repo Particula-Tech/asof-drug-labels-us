@@ -1,5 +1,12 @@
 # 3 DOSAGE FORMS AND STRENGTHS
 
-GlucaGen is supplied in a vial, alone, or accompanied by Sterile Water for Reconstitution (1 mL) also in a vial (10 pack or diagnostic kit).
-It is also supplied as GlucaGen HypoKit®, a presentation with a disposable prefilled syringe containing 1 mL Sterile Water for Reconstitution.
-When the glucagon powder is reconstituted with Sterile Water for Reconstitution (if supplied) or with Sterile Water for Injection, USP, it forms a solution of 1 mg/mL glucagon for subcutaneous, intramuscular, or intravenous injection (appearance of the powder may vary, and occasionally the powder may appear compacted).
+GlucaGen for injection is a white lyophilized powder supplied as follows:
+
+Treatment of Severe Hypoglycemia
+
+- •1 mg single-dose vial of GlucaGen with a 1 mL single-dose syringe of Sterile Water for Injection, USP (GlucaGen HypoKit®)
+
+Use as a Diagnostic Aid
+
+- •1 mg single-dose vial of GlucaGen
+- •1 mg single-dose vial of GlucaGen with a 1 mL single-dose vial of Sterile Water for Injection, USP (Diagnostic Kit)

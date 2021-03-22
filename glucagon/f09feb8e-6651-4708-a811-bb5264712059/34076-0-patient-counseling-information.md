@@ -1,30 +1,38 @@
 # 17 PATIENT COUNSELING INFORMATION
 
-[See FDA-Approved Patient Information and Instructions for Use.]
+Advise the patient to read the FDA-approved (Patient Information and Instructions for Use).
 
-## 17.1 Physician Instructions
+Recognition of Severe Hypoglycemia
 
-Refer patients and family members to the FDA-approved patient labeling for instructions describing the method of preparing and injecting GlucaGen.
-Advise the patient and family members to become familiar with the technique of preparing GlucaGen before an emergency arises.
-Instruct patients to use 1 mg for adults or ½ the adult dose (0.5 mg) for children weighing less than 55 lb (25 kg).
-To prevent severe hypoglycemia, patients and family members should be informed of the symptoms of mild hypoglycemia and how to treat it appropriately.
-Family members should be informed to arouse the patient as quickly as possible because prolonged hypoglycemia may result in damage to the central nervous system.
-Patients should be advised to inform their physician each time a hypoglycemic reaction occurs so that the treatment regimen may be adjusted if necessary.
+Inform patient and family members or caregivers on how to recognize the signs and symptoms of severe hypoglycemia and the risks of prolonged hypoglycemia.
 
-No studies on the effects on the ability to drive and use machines have been performed.
-After diagnostic procedures, hypoglycemia has been reported infrequently.
-The patient’s ability to concentrate and react may be impaired as a result of hypoglycemia.
-This may present a risk in situations where these abilities are especially important, such as driving or operating machinery.
-Therefore, these activities should be avoided until the patient has had intake of oral carbohydrates.
+Administration
 
-Date of issue: June 2020
+Review the Patient Information and Instructions for Use with the patient and family members or caregivers.
 
-Version: 10
+Serious Hypersensitivity
+
+Inform patients that allergic reactions can occur with GlucaGen.
+Advise patients to seek immediate medical attention if they experience any symptoms of serious hypersensitivity reactions [see Warnings and Precautions (5.3)].
+
+Manufactured by:
+
+Novo Nordisk A/S
+
+2880 Bagsvaerd, Denmark
 
 GlucaGen® and HypoKit® are registered trademarks of Novo Nordisk A/S
 
-© 1998-2020 Novo Nordisk
+© 1998-2021 Novo Nordisk
 
-For information contact: Novo Nordisk Inc. 800 Scudders Mill Road Plainsboro, NJ 08536, USA 1-800-727-6500 www.novonordisk-us.com
+For information contact:
 
-Manufactured by: Novo Nordisk A/S 2880 Bagsvaerd, Denmark
+Novo Nordisk Inc.
+
+800 Scudders Mill Road
+
+Plainsboro, NJ 08536, USA
+
+1-800-727-6500
+
+www.novonordisk-us.com
