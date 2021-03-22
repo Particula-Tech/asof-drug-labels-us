@@ -26,3 +26,9 @@ For elderly or debilitated patients, an initial dosage of 1 mg/day to 2 mg/day i
 
 The dosage of lorazepam should be increased gradually when needed to help avoid adverse effects.
 When higher dosage is indicated, the evening dose should be increased before the daytime doses.
+
+## Discontinuation or Dosage Reduction of Lorazepam
+
+To reduce the risk of withdrawal reactions, use a gradual taper to discontinue lorazepam or reduce the dosage.
+If a patient develops withdrawal reactions, consider pausing the taper or increasing the dosage to the previous tapered dosage level.
+Subsequently decrease the dosage more slowly (see WARNINGS:Dependence and Withdrawal Reactionsand DRUG ABUSE AND DEPENDENCE: Dependence).

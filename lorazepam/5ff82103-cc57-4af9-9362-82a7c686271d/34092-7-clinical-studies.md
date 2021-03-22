@@ -9,10 +9,10 @@ The peak plasma level of lorazepam from a 2 mg dose is approximately 20 ng/mL.
 The mean half-life of unconjugated lorazepam in human plasma is about 12 hours and for its major metabolite, lorazepam glucuronide, about 18 hours.
 At clinically relevant concentrations, lorazepam is approximately 85% bound to plasma proteins.
 Lorazepam is rapidly conjugated at its 3-hydroxy group into lorazepam glucuronide which is then excreted in the urine.
-Lorazepam glucuronide has no demonstrable CNS activity in animals.
+Lorazepam glucuronide has no demonstrable central nervous system (CNS) activity in animals.
 
 The plasma levels of lorazepam are proportional to the dose given.
-There is no evidence of accumulation of lorazepam on administration up to six months.
+There is no evidence of accumulation of lorazepam on administration up to 6 months.
 
 Studies comparing young and elderly subjects have shown that advancing age does not have a significant effect on the pharmacokinetics of lorazepam.
 However, in one study involving single intravenous doses of 1.5 mg to 3 mg of lorazepam injection, mean total body clearance of lorazepam decreased by 20% in 15 elderly subjects of 60 to 84 years of age compared to that in 15 younger subjects of 19 to 38 years of age.
