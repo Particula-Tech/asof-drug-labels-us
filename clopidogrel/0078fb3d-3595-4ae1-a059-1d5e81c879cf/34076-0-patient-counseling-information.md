@@ -11,6 +11,6 @@ Bleeding Advise patients that they:
 Thrombotic Thrombocytopenic Purpura Instruct patients to get prompt medical attention if they experience symptoms of TTP that cannot otherwise be explained [see Warnings and Precautions (5.4)].
 Invasive Procedures Advise patients to inform physicians and dentists that they are taking clopidogrel bisulfate before any surgery or dental procedure [see Warnings and Precautions (5.2, 5.3)].
 Proton Pump Inhibitors Advise patients not to take omeprazole or esomeprazole while taking clopidogrel bisulfate.
-Dexlansoprazole, lansoprazole, and pantoprazole had less pronounced effects on the antiplatelet activity of clopidogrel bisulfate than did omeprazole or esomeprazole [see Drug Interactions (7.1)].
+Dexlansoprazole, lansoprazole, and pantoprazole had less pronounced effects on the antiplatelet activity of clopidogrel bisulfate than did omeprazole or esomeprazole [see Drug Interactions (7.2)].
 
-Dispense with Medication Guide available at: www.aurobindousa.com/product-medication-guides
+Dispense with Medication Guide available at: www.aurobindousa.com/medication-guides

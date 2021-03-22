@@ -41,14 +41,19 @@ Elimination Following an oral dose of 14C-labeled clopidogrel in humans, approxi
 After a single, oral dose of 75 mg, clopidogrel has a half-life of approximately 6 hours.
 The half-life of the active metabolite is about 30 minutes.
 Drug Interactions Effect of other drugs on clopidogrel bisulfate Clopidogrel is metabolized to its active metabolite in part by CYP2C19.
-Concomitant use of certain inhibitors of this enzyme results in reduced plasma concentrations of the active metabolite of clopidogrel and a reduction in platelet inhibition.
+CYP2C19 inducers Concomitant use of strong inducers of CYP2C19 results in increased plasma concentration of the active metabolite of clopidogrel and an increase in platelet inhibition.
+
+Rifampin: Coadministration of rifampin 300 mg twice daily for 7 days with 600 mg loading dose of clopidogrel in healthy adults increased the mean AUC and Cmax of clopidogrel’s thiol metabolites by 3.8-fold.
+Mean inhibition of platelet aggregation at 4 hours post-dose was 34% higher in the presence of rifampin compared to clopidogrel administered alone.
+CYP2C19 inhibitors Concomitant use of certain inhibitors of this enzyme results in reduced plasma concentrations of the active metabolite of clopidogrel and a reduction in platelet inhibition.
+
 Proton pump inhibitors (PPI) The effect of proton pump inhibitors (PPI) on the systemic exposure to the clopidogrel active metabolite following multiple doses of clopidogrel bisulfate 75 mg evaluated in dedicated drug interaction studies is presented in Figure 1.
 
 Pharmacodynamic and pharmacokinetic parameters measured in these studies showed that the interaction was highest with omeprazole and least with dexlansoprazole.
 Opioids Coadministration of 5 mg intravenous morphine with 600 mg loading dose of clopidogrel in healthy adults decreased the AUC and Cmax of clopidogrel’s thiol metabolites by 34%.
 Mean platelet aggregation was higher up to 2 to 4 hours with morphine coadministration.
 Effect of clopidogrel bisulfate on other drugs In vitro studies have shown that the glucuronide metabolite of clopidogrel is a strong inhibitor of CYP2C8.
-Concomitant administration of repaglinide with clopidogrel bisulfate increased the systemic exposure to repaglinide (AUC0-∞) by 5.1-fold following the loading dose (300 mg) and by 3.9-fold on day 3 of the maintenance dose (75 mg) of clopidogrel bisulfate [see Drug Interactions (7.6)].
+Concomitant administration of repaglinide with clopidogrel bisulfate increased the systemic exposure to repaglinide (AUC0-∞) by 5.1-fold following the loading dose (300 mg) and by 3.9-fold on day 3 of the maintenance dose (75 mg) of clopidogrel bisulfate [see Drug Interactions (7.7)].
 
 ## 12.5 Pharmacogenomics
 

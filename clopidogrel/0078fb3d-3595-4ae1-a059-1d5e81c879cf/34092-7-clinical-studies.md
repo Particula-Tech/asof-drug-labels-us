@@ -9,7 +9,7 @@ Patients also received aspirin (75 to 325 mg once daily) and other standard ther
 The use of GPIIb/IIIa inhibitors was not permitted for three days prior to randomization.
 The patient population was largely White (82%) and included 38% women, and 52% age ≥65 years of age.
 Only about 20% of patients underwent revascularization during the initial hospitalization and few underwent emergent or urgent revascularization.
-The number of patients experiencing the primary outcome (CV death, MI, or stroke) was 582 (9.3%) in the clopidogrel bisulfate-treated group and 719 (11.4%) in the placebo-treated group, a 20% relative risk reduction (95% CI of 10% to 28%; p < 0.001) for the clopidogrel bisulfate-treated group (see Table 4).
+The number of patients experiencing the primary outcome (CV death, MI, or stroke) was 582 (9.3%) in the clopidogrel bisulfate-treated group and 719 (11.4%) in the placebo-treated group, a 20% relative risk reduction (95% CI of 10% to 28%; p <0.001) for the clopidogrel bisulfate-treated group (see Table 4).
 
 Table 4: Outcome Events in the CURE Primary Analysis
 

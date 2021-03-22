@@ -66,7 +66,7 @@ Hemorrhages, including those with fatal outcome, have been reported in patients 
 - Gastrointestinal disorders: Colitis (including ulcerative or lymphocytic colitis), pancreatitis, stomatitis, gastric/duodenal ulcer, diarrhea
 - General disorders and administration site condition: Fever
 - Hepatobiliary disorders: Acute liver failure, hepatitis (noninfectious), abnormal liver function test
-- Immune system disorders: Hypersensitivity reactions, anaphylactoid reactions, serum sickness, insulin autoimmune syndrome, which can lead to severe hypoglycemia.
+- Immune system disorders: Hypersensitivity reactions, anaphylactoid reactions, serum sickness, insulin autoimmune syndrome, which can lead to severe hypoglycemia
 - Musculoskeletal, connective tissue and bone disorders: Myalgia, arthralgia, arthritis
 - Nervous system disorders: Taste disorders, headache, ageusia
 - Psychiatric disorders: Confusion, hallucinations
