@@ -113,7 +113,7 @@ Other less common adverse reactions, including those known to occur with opioid 
 
 Abdominal distention, abdominal pain, accidental injury, affect lability, agitation, alanine aminotransferase increased, angina pectoris, angioedema, apathy, application site dermatitis, asthma aggravated, bradycardia, chills, confusional state, contact dermatitis, coordination abnormal, dehydration, depersonalization, depressed level of consciousness, depressed mood, disorientation, disturbance in attention, diverticulitis, drug hypersensitivity, drug withdrawal syndrome, dry eye, dry skin, dysarthria, dysgeusia, dysphagia, euphoric mood, face edema, flatulence, flushing, gait disturbance, hallucination, hiccups, hot flush, hyperventilation, hypotension, hypoventilation, ileus, insomnia, libido decreased, loss of consciousness, malaise, memory impairment, mental impairment, mental status changes, miosis, muscle weakness, nervousness, nightmare, orthostatic hypotension, palpitations, psychotic disorder, respiration abnormal, respiratory depression, respiratory distress, respiratory failure, restlessness, rhinitis, sedation, sexual dysfunction, syncope, tachycardia, tinnitus, urinary hesitation, urinary incontinence, urinary retention, urticaria, vasodilatation, vertigo, vision blurred, visual disturbance, weight decreased, and wheezing.
 
-## 6.2 Postmarketing Experience:
+## 6.2 Postmarketing Experience
 
 The following adverse reactions have been identified during post approval use of buprenorphine.
 Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.

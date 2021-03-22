@@ -19,8 +19,25 @@ Instruct patients not to share buprenorphine transdermal system with others and 
 
 Life-Threatening Respiratory Depression
 
-Inform patients of the risk of life-threatening respiratory depression, including information that the risk is greatest when starting buprenorphine transdermal system or when the dosage is increased, and that it can occur even at recommended doses [see Warnings and Precautions (5.3)].
-Advise patients how to recognize respiratory depression and to seek medical attention if breathing difficulties develop.
+Inform patients of the risk of life-threatening respiratory depression, including information that the risk is greatest when starting buprenorphine transdermal system or when the dosage is increased, and that it can occur even at recommended doses.
+
+Educate patients and caregivers on how to recognize respiratory depression and emphasize the importance of calling 911 or getting emergency medical help right away in the event of a known or suspected overdose [see Warnings and Precautions (5.3), Overdosage (10)].
+
+Patient Access to Naloxone for the Emergency Treatment of Opioid Overdose
+
+Discuss with the patient and caregiver the availability of naloxone for the emergency treatment of opioid overdose, both when initiating and renewing treatment with buprenorphine transdermal system.
+Inform patients and caregivers about the various ways to obtain naloxone as permitted by individual state naloxone dispensing and prescribing requirements or guidelines (e.g., by prescription, directly from a pharmacist, or as part of a community-based program) [see Dosage and Administration (2.2), Warnings and Precautions (5.3)].
+
+Educate patients and caregivers on how to recognize the signs and symptoms of an overdose.
+
+Explain to patients and caregivers that naloxone's effects are temporary, and that they must call 911 or get emergency medical help right away in all cases of known or suspected opioid overdose, even if naloxone is administered [see Overdosage (10)].
+
+If naloxone is prescribed, also advise patients and caregivers:
+
+- How to treat with naloxone in the event of an opioid overdose
+- To tell family and friends about their naloxone and to keep it in a place where family and friends can access it in an emergency
+- To read the Patient Information (or other educational material) that will come with their naloxone.
+  Emphasize the importance of doing this before an opioid emergency happens, so the patient and caregiver will know what to do.
 
 Accidental Exposure
 
@@ -38,7 +55,7 @@ Serotonin Syndrome
 
 Inform patients that opioids could cause a rare but potentially life-threatening condition resulting from concomitant administration of serotonergic drugs.
 Warn patients of the symptoms of serotonin syndrome and to seek medical attention right away if symptoms develop.
-Instruct patients to inform their physicians if they are taking, or plan to take, serotonergic medications [see Drug Interactions (7)].
+Instruct patients to inform their physicians if they are taking, or plan to take serotonergic medications [see Drug Interactions (7)].
 
 MAOI Interaction
 
@@ -56,18 +73,18 @@ Important Administration Instructions
 Instruct patients how to properly use buprenorphine transdermal system, including the following:
 
 1. To carefully follow instructions for the application, removal, and disposal of buprenorphine transdermal system.
-   Each week, apply buprenorphine transdermal system to a different site based on the 8 described skin sites, with a minimum of 3 weeks between applications to a previously used site [see Dosage and Administration (2.6)].
+   Each week, apply buprenorphine transdermal system to a different site based on the 8 described skin sites, with a minimum of 3 weeks between applications to a previously used site [see Dosage and Administration (2.7)].
 2. To apply buprenorphine transdermal system to a hairless or nearly hairless skin site.
    If none are available, instruct patients to clip the hair at the site and not to shave the area.
    Instruct patients not to apply to irritated skin.
    If the application site must be cleaned, use clear water only.
    Soaps, alcohol, oils, lotions, or abrasive devices should not be used.
-   Allow the skin to dry before applying buprenorphine transdermal system [see Dosage and Administration (2.6)].
+   Allow the skin to dry before applying buprenorphine transdermal system [see Dosage and Administration (2.7)].
 3. To avoid exposing the buprenorphine transdermal system application site to external heat sources, hot water, or prolonged direct sunlight [see Warnings and Precautions (5.15)].
 
 Important Discontinuation Instructions
 
-In order to avoid developing withdrawal symptoms, instruct patients not to discontinue buprenorphine transdermal system without first discussing a tapering plan with the prescriber [see Dosage and Administration (2.4)].
+In order to avoid developing withdrawal symptoms, instruct patients not to discontinue buprenorphine transdermal system without first discussing a tapering plan with the prescriber [see Dosage and Administration (2.5)].
 
 Hypotension
 

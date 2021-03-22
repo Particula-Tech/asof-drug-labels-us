@@ -10,7 +10,7 @@ The contributions of these actions to its analgesic profile are unclear.
 Effects on the Central Nervous System
 
 Buprenorphine produces respiratory depression by direct action on brainstem respiratory centers.
-The respiratory depression involves a reduction in the responsiveness of the brainstem respiratory centers to both increases in carbon dioxide tension and to electrical stimulation.
+The respiratory depression involves a reduction in the responsiveness of the brainstem respiratory centers to both increases in carbon dioxide tension and electrical stimulation.
 
 Buprenorphine causes miosis, even in total darkness.
 Pinpoint pupils are a sign of opioid overdose but are not pathognomonic (e.g., pontine lesions of hemorrhagic or ischemic origins may produce similar findings).
@@ -21,7 +21,7 @@ Effects on the Gastrointestinal Tract and Other Smooth Muscle
 Buprenorphine causes a reduction in motility associated with an increase in smooth muscle tone in the antrum of the stomach and duodenum.
 Digestion of food in the small intestine is delayed and propulsive contractions are decreased.
 Propulsive peristaltic waves in the colon are decreased, while tone is increased to the point of spasm, resulting in constipation.
-Other opioid-induced effects may include a reduction in biliary and pancreatic secretions, spasm of the sphincter of Oddi, and transient elevations in serum amylase.
+Other opioid-induced effects may include a reduction in biliary and pancreatic secretions, spasm of sphincter of Oddi, and transient elevations in serum amylase.
 
 Effects on the Cardiovascular System
 
@@ -35,7 +35,7 @@ The dose escalation sequence for buprenorphine transdermal system during the tit
 The QTc evaluation was performed during the third day of buprenorphine transdermal system 10 mcg/hour and the fourth day of 2 × buprenorphine transdermal system 20 mcg/hour when the plasma levels of buprenorphine were at steady state for the corresponding doses [see Warnings and Precautions (5.8)].
 
 There was no clinically meaningful effect on mean QTc with a buprenorphine transdermal system dose of 10 mcg/hour.
-A buprenorphine transdermal system dose of 40 mcg/hour (given as two 20 mcg/hour buprenorphine transdermal systems) prolonged mean QTc by a maximum of 9.2 (90% CI: 5.2 to 13.3) msec across the 13 assessment time points.
+A buprenorphine transdermal system dose of 40 mcg/hour (given as two 20 mcg/hour buprenorphine transdermal systems) prolonged mean QTc by a maximum of 9.2 (90% CI: 5.2 -13.3) msec across the 13 assessment time points.
 
 Effects on the Endocrine System
 
@@ -54,12 +54,12 @@ Overall, the effects of opioids appear to be modestly immunosuppressive.
 Concentration–Efficacy Relationships
 
 The minimum effective analgesic concentration will vary widely among patients, especially among patients who have been previously treated with potent agonist opioids.
-The minimum effective analgesic concentration of buprenorphine for any individual patient may increase over time due to an increase in pain, the development of a new pain syndrome, and/or the development of analgesic tolerance [see Dosage and Administration (2.1, 2.3)].
+The minimum effective analgesic concentration of buprenorphine for any individual patient may increase over time due to an increase in pain, the development of a new pain syndrome, and/or the development of analgesic tolerance [see Dosage and Administration (2.1, 2.4)].
 
 Concentration–Adverse Reaction Relationships
 
 There is a relationship between increasing buprenorphine plasma concentration and increasing frequency of dose-related opioid adverse reactions such as nausea, vomiting, CNS effects, and respiratory depression.
-In opioid-tolerant patients, the situation may be altered by the development of tolerance to opioid-related adverse reactions [see Dosage and Administration (2.1, 2.2, 2.3)].
+In opioid-tolerant patients, the situation may be altered by the development of tolerance to opioid-related adverse reactions [see Dosage and Administration (2.1, 2.3, 2.4)].
 
 ## 12.3 Pharmacokinetics
 
@@ -91,13 +91,13 @@ The absolute bioavailability of buprenorphine transdermal system relative to IV 
 
 Effects of Application Site
 
-A study in healthy subjects demonstrated that the pharmacokinetic profile of buprenorphine delivered by buprenorphine transdermal system 10 mcg/hour is similar when applied to the upper outer arm, upper chest, upper back, or the side of the chest [see Dosage and Administration (2.6)].
+A study in healthy subjects demonstrated that the pharmacokinetic profile of buprenorphine delivered by buprenorphine transdermal system 10 mcg/hour is similar when applied to the upper outer arm, upper chest, upper back, or the side of the chest [see Dosage and Administration (2.7)].
 
-The reapplication of buprenorphine transdermal system 10 mcg/hour after various rest periods to the same application site in healthy subjects showed that the minimum rest period needed to avoid variability in drug absorption is 3 weeks (21 days) [see Dosage and Administration (2.6)].
+The reapplication of buprenorphine transdermal system 10 mcg/hour after various rest periods to the same application site in healthy subjects showed that the minimum rest period needed to avoid variability in drug absorption is 3 weeks (21 days) [see Dosage and Administration (2.7)].
 
 Effects of Heat
 
-In a study of healthy subjects, application of a heating pad directly on the buprenorphine transdermal system 10 mcg/hour caused a 26% to 55% increase in blood concentrations of buprenorphine.
+In a study of healthy subjects, application of a heating pad directly on the buprenorphine transdermal system 10 mcg/hour caused a 26% -55% increase in blood concentrations of buprenorphine.
 Concentrations returned to normal within 5 hours after the heat was removed.
 For this reason, instruct patients not to apply heating pads directly to the buprenorphine transdermal system during system wear [see Warnings and Precautions (5.15)].
 
@@ -112,7 +112,7 @@ Buprenorphine is approximately 96% bound to plasma proteins, mainly to alpha- an
 
 Studies of IV buprenorphine have shown a large volume of distribution (approximately 430 L), implying extensive distribution of buprenorphine.
 
-CSF buprenorphine concentrations appear to be approximately 15 to 25% of concurrent plasma concentrations.
+CSF buprenorphine concentrations appear to be approximately 15 -25% of concurrent plasma concentrations.
 
 Elimination
 
@@ -134,7 +134,7 @@ Following intramuscular administration of 2 mcg/kg dose of buprenorphine, approx
 Approximately 27% was excreted in urine.
 
 Following transdermal application, buprenorphine is eliminated via hepatic metabolism, with subsequent biliary excretion and renal excretion of soluble metabolites.
-After removal of buprenorphine transdermal system, mean buprenorphine concentrations decrease approximately 50% within 10 to 24 hours, followed by decline with an apparent terminal half-life of approximately 26 hours.
+After removal of buprenorphine transdermal system, mean buprenorphine concentrations decrease approximately 50% within 10 -24 hours, followed by decline with an apparent terminal half-life of approximately 26 hours.
 Since metabolism and excretion of buprenorphine occur mainly via hepatic elimination, reductions in hepatic blood flow induced by some general anesthetics (e.g., halothane) and other drugs may result in a decreased rate of hepatic elimination of the drug, leading to increased plasma concentrations.
 
 The total clearance of buprenorphine is approximately 55 L/hour in postoperative patients.
@@ -150,7 +150,7 @@ Based on the results from this study, metabolism during therapy with buprenorphi
 Antiretroviral agents have been evaluated for CYP3A4 mediated interactions with sublingual buprenorphine.
 Nucleoside reverse transcriptase inhibitors (NRTIs) and non-nucleoside reverse transcriptase inhibitors (NNRTIs) do not appear to have clinically significant interactions with buprenorphine.
 However, certain protease inhibitors (PIs) with CYP3A4 inhibitory activity such as atazanavir and atazanavir/ritonavir resulted in elevated levels of buprenorphine and norbuprenorphine when buprenorphine and naloxone were administered sublingually.
-Cmax and AUC for buprenorphine increased by up to 1.6 and 1.9 fold, and Cmax and AUC for norbuprenorphine increased by up to 1.6 and 2.0 fold, respectively, when sublingual buprenorphine was administered with these PIs.
+Cmax and AUC for buprenorphine increased by up to 1.6 and 1.9 fold, and Cmax and AUC for norbuprenorphine increased by up to 1.6 and 2.0 fold respectively, when sublingual buprenorphine was administered with these PIs.
 Patients in this study reported increased sedation, and symptoms of opiate excess have been found in post-marketing reports of patients receiving buprenorphine and atazanavir with and without ritonavir concomitantly.
 It should be noted that atazanavir is both a CYP3A4 and UGT1A1 inhibitor.
 As such, the drug-drug interaction potential for buprenorphine with CYP3A4 inhibitors is likely to be dependent on the route of administration as well as the specificity of enzyme inhibition [see Drug Interactions (7)].

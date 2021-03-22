@@ -13,13 +13,14 @@ Assess each patient's risk for opioid addiction, abuse, or misuse prior to presc
 Risks are increased in patients with a personal or family history of substance abuse (including drug or alcohol abuse or addiction) or mental illness (e.g., major depression).
 The potential for these risks should not, however, prevent the proper management of pain in any given patient.
 Patients at increased risk may be prescribed opioids such as buprenorphine transdermal system, but use in such patients necessitates intensive counseling about the risks and proper use of buprenorphine transdermal system, along with intensive monitoring for signs of addiction, abuse, or misuse.
+Consider prescribing naloxone for the emergency treatment of opioid overdose [see Dosage and Administration (2.2), Warnings and Precautions (5.3), Overdosage (10)].
 
 Abuse or misuse of buprenorphine transdermal system by placing it in the mouth, chewing it, swallowing it, or using it in ways other than indicated may cause choking, overdose, and death [see Overdosage (10)].
 
 Opioids are sought by drug abusers and people with addiction disorders and are subject to criminal diversion.
 Consider these risks when prescribing or dispensing buprenorphine transdermal system.
 Strategies to reduce these risks include prescribing the drug in the smallest appropriate quantity and advising the patient on the proper disposal of unused drug [see Patient Counseling Information (17)].
-Contact local state professional licensing board or state controlled substances authority for information on how to prevent and detect abuse or diversion of this product.
+Contact local state professional licensing board or state- controlled substances authority for information on how to prevent and detect abuse or diversion of this product.
 
 ## 5.2 Opioid Analgesic Risk Evaluation and Mitigation Strategy (REMS)
 
@@ -44,16 +45,29 @@ Management of respiratory depression may include close observation, supportive m
 Carbon dioxide (CO2) retention from opioid-induced respiratory depression can exacerbate the sedating effects of opioids.
 
 While serious, life-threatening, or fatal respiratory depression can occur at any time during the use of buprenorphine transdermal system, the risk is greatest during the initiation of therapy or following a dosage increase.
-Monitor patients closely for respiratory depression, especially within the first 24 to72 hours of initiating therapy with and following dosage increases of buprenorphine transdermal system.
+Monitor patients closely for respiratory depression, especially within the first 24-72 hours of initiating therapy with and following dosage increases of buprenorphine transdermal system.
 
 To reduce the risk of respiratory depression, proper dosing and titration of buprenorphine transdermal system are essential [see Dosage and Administration (2)].
 Overestimating the buprenorphine transdermal system dosage when converting patients from another opioid product can result in fatal overdose with the first dose.
 
 Accidental exposure to buprenorphine transdermal system, especially in children, can result in respiratory depression and death due to an overdose of buprenorphine.
 
+Educate patients and caregivers on how to recognize respiratory depression and emphasize the importance of calling 911 or getting emergency medical help right away in the event of a known or suspected overdose [see Patient Counseling Information (17)].
+
 Opioids can cause sleep-related breathing disorders including central sleep apnea (CSA) and sleep-related hypoxemia.
 Opioid use increases the risk of CSA in a dose-dependent fashion.
-In patients who present with CSA, consider decreasing the opioid dosage using best practices for opioid taper [see Dosage and Administration (2.4)].
+In patients who present with CSA, consider decreasing the opioid dosage using best practices for opioid taper [see Dosage and Administration (2.5)].
+
+Patient Access to Naloxone for the Emergency Treatment of Opioid Overdose
+
+Discuss the availability of naloxone for the emergency treatment of opioid overdose with the patient and caregiver and assess the potential need for access to naloxone, both when initiating and renewing treatment with buprenorphine transdermal system.
+Inform patients and caregivers about the various ways to obtain naloxone as permitted by individual state naloxone dispensing and prescribing requirements or guidelines (e.g., by prescription, directly from a pharmacist, or as part of a community-based program).
+Educate patients and caregivers on how to recognize respiratory depression and emphasize the importance of calling 911 or getting emergency medical help, even if naloxone is administered [see Patient Counseling Information (17)].
+
+Consider prescribing naloxone, based on the patient's risk factors for overdose, such as concomitant use of CNS depressants, a history of opioid use disorder, or prior opioid overdose.
+The presence of risk factors for overdose should not prevent the proper management of pain in any given patient.
+Also consider prescribing naloxone if the patient has household members (including children) or other close contacts at risk for accidental ingestion or overdose.
+If naloxone is prescribed, educate patients and caregivers on how to treat with naloxone [see Warnings and Precautions (5.1, 5.5), Overdosage (10), Patient Counseling Information (17)].
 
 ## 5.4 Neonatal Opioid Withdrawal Syndrome
 
@@ -74,6 +88,8 @@ If the decision is made to prescribe a benzodiazepine or other CNS depressant co
 In patients already receiving an opioid analgesic, prescribe a lower initial dose of the benzodiazepine or other CNS depressant than indicated in the absence of an opioid, and titrate based on clinical response.
 If an opioid analgesic is initiated in a patient already taking a benzodiazepine or other CNS depressant, prescribe a lower initial dose of the opioid analgesic, and titrate based on clinical response.
 Follow patients closely for signs and symptoms of respiratory depression and sedation.
+
+If concomitant use is warranted, consider prescribing naloxone for the emergency treatment of opioid overdose [see Dosage and Administration (2.2), Warnings and Precautions (5.3), Overdosage (10)].
 
 Advise both patients and caregivers about the risks of respiratory depression and sedation when buprenorphine transdermal system is used with benzodiazepines or other CNS depressants (including alcohol and illicit drugs).
 Advise patients not to drive or operate heavy machinery until the effects of concomitant use of the benzodiazepine or other CNS depressant have been determined.
@@ -105,7 +121,7 @@ The information available does not identify any particular opioids as being more
 A positive-controlled study of the effects of buprenorphine transdermal system on the QTc interval in healthy subjects demonstrated no clinically meaningful effect at a buprenorphine transdermal system dose of 10 mcg/hour; however, a buprenorphine transdermal system dose of 40 mcg/hour (given as two buprenorphine transdermal systems, 20 mcg/hour) was observed to prolong the QTc interval.
 
 Consider these observations in clinical decisions when prescribing buprenorphine transdermal system to patients with hypokalemia or clinically unstable cardiac disease, including unstable atrial fibrillation, symptomatic bradycardia, unstable congestive heart failure, or active myocardial ischemia.
-Avoid the use of buprenorphine transdermal system in patients with a history of Long QT Syndrome or an immediate family member with this condition, or those taking Class IA antiarrhythmic medications (e.g., quinidine, procainamide, disopyramide) or Class III antiarrhythmic medications (e.g., sotalol, amiodarone, dofetilide), or other medications that prolong the QTc interval [see Dosage and Administration (2.3), Adverse Reactions (6.1)], Clinical Pharmacology (12.2)].
+Avoid the use of buprenorphine transdermal system in patients with a history of Long QT Syndrome or an immediate family member with this condition, or those taking Class IA antiarrhythmic medications (e.g., quinidine, procainamide, disopyramide) or Class III antiarrhythmic medications (e.g., sotalol, amiodarone, dofetilide), or other medications that prolong the QTc interval [see Dosage and Administration (2.4), Adverse Reactions (6.1)], Clinical Pharmacology (12.2)].
 
 ## 5.9 Severe Hypotension
 
@@ -147,7 +163,7 @@ A history of hypersensitivity to buprenorphine is a contraindication to the use 
 
 Do not abruptly discontinue buprenorphine in a patient physically dependent on opioids.
 When discontinuing buprenorphine transdermal system in a physically dependent patient, gradually taper the dosage.
-Rapid tapering of buprenorphine in a patient physically dependent on opioids may lead to a withdrawal syndrome and return of pain [see Dosage and Administration (2.4), Drug Abuse and Dependence (9.3)].
+Rapid tapering of buprenorphine in a patient physically dependent on opioids may lead to a withdrawal syndrome and return of pain [see Dosage and Administration (2.5), Drug Abuse and Dependence (9.3)].
 
 Additionally, the use of buprenorphine transdermal system, a partial agonist opioid analgesic, in patients who are receiving a full opioid agonist analgesic may reduce the analgesic effect and/or precipitate withdrawal symptoms.
 Avoid concomitant use of buprenorphine transdermal system with a full opioid agonist analgesic.

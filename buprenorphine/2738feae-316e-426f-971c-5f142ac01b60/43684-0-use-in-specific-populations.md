@@ -11,7 +11,7 @@ In animal reproduction studies, buprenorphine caused an increase in the number o
 Based on animal data, advise pregnant women of the potential risk to a fetus.
 The estimated background risk of major birth defects and miscarriage for the indicated population is unknown.
 All pregnancies have a background risk of birth defect, loss, or other adverse outcomes.
-In the U.S. general population, the estimated background risk of major birth defects and miscarriage in clinically recognized pregnancies is 2 to 4% and 15 to 20%, respectively.
+In the U.S. general population, the estimated background risk of major birth defects and miscarriage in clinically recognized pregnancies is 2-4% and 15-20%, respectively.
 
 Clinical Considerations
 
@@ -35,8 +35,8 @@ Data
 Animal Data
 
 Studies in rats and rabbits demonstrated no evidence of teratogenicity following buprenorphine transdermal system or subcutaneous (SC) administration of buprenorphine during the period of organogenesis.
-Rats were administered up to one buprenorphine transdermal system 20 mcg/hour every 3 days (gestation days 6, 9, 12, and 15) or received daily SC buprenorphine up to 5 mg/kg (gestation days 6 to 17).
-Rabbits were administered four buprenorphine transdermal systems 20 mcg/hour every 3 days (gestation days 6, 9, 12, 15, 18, and 19) or received daily SC buprenorphine up to 5 mg/kg (gestation days 6 to19).
+Rats were administered up to one buprenorphine transdermal system 20 mcg/hour every 3 days (Gestation Days 6, 9, 12, and 15) or received daily SC buprenorphine up to 5 mg/kg (Gestation Days 6-17).
+Rabbits were administered four buprenorphine transdermal systems 20 mcg/hour every 3 days (Gestation Days 6, 9, 12, 15, 18, and 19) or received daily SC buprenorphine up to 5 mg/kg (Gestation Days 6-19).
 No teratogenicity was observed at any dose.
 AUC values for buprenorphine with buprenorphine transdermal system application and SC injection were approximately 110 and 140 times, respectively, that of human subjects who received the MRHD of one buprenorphine transdermal system 20 mcg/hour.
 
@@ -55,7 +55,7 @@ Because of the potential for serious adverse reactions, including excess sedatio
 Clinical Considerations
 
 Monitor infants exposed to buprenorphine transdermal system through breast milk for excess sedation and respiratory depression.
-Withdrawal symptoms can occur in breastfed infants when maternal administration of buprenorphine is stopped or when breastfeeding is stopped.
+Withdrawal symptoms can occur in breastfed infants when maternal administration of buprenorphine is stopped or when breast-feeding is stopped.
 
 ## 8.3 Females and Males of Reproductive Potential
 
@@ -89,4 +89,4 @@ Titrate the dosage of buprenorphine transdermal system slowly in geriatric patie
 
 In a study utilizing intravenous buprenorphine, peak plasma levels (Cmax) and exposure (AUC) of buprenorphine in patients with mild and moderate hepatic impairment did not increase as compared to those observed in subjects with normal hepatic function.
 Buprenorphine transdermal system has not been evaluated in patients with severe hepatic impairment.
-As buprenorphine transdermal system is intended for 7-day dosing, consider the use of alternate analgesic therapy in patients with severe hepatic impairment [see Dosage and Administration (2.5) and Clinical Pharmacology (12.3)].
+As buprenorphine transdermal system is intended for 7-day dosing, consider the use of alternate analgesic therapy in patients with severe hepatic impairment [see Dosage and Administration (2.6) and Clinical Pharmacology (12.3)].

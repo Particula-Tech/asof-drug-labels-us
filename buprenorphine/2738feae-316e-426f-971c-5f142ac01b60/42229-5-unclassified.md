@@ -11,6 +11,6 @@ LTS Lohmann Therapy Systems Corp., West Caldwell, NJ 07006
 
 LTS Lohmann Therapie-Systeme AG, Andernach, 56626 Germany
 
-Revised: 12/2019
+Revised: 03/2021
 
-304250-0F
+304250-0G
