@@ -28,8 +28,8 @@ No accounts of subjects removing or attempting to remove the depot after adminis
 ## 9.3 Dependence
 
 Buprenorphine is a partial agonist at the mu-opioid receptor and chronic administration produces physical dependence of the opioid type, characterized by moderate withdrawal signs and symptoms upon abrupt discontinuation.
-The withdrawal syndrome is typically milder than seen with full agonists and may be delayed in onset [see Warnings and Precautions (5.11)].
+The withdrawal syndrome is typically milder than seen with full agonists and may be delayed in onset [see Warnings and Precautions (5.12)].
 
 Due to the long-acting nature of SUBLOCADE, withdrawal signs and symptoms may not be evident immediately following the discontinuation of treatment.
 
-Neonatal opioid withdrawal syndrome (NOWS) is an expected and treatable outcome of prolonged use of opioids during pregnancy [see Warnings and Precautions (5.6)].
+Neonatal opioid withdrawal syndrome (NOWS) is an expected and treatable outcome of prolonged use of opioids during pregnancy [see Warnings and Precautions (5.7)].

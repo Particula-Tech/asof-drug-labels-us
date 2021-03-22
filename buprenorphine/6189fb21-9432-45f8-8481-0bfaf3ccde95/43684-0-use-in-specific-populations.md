@@ -36,7 +36,7 @@ Neonatal opioid withdrawal syndrome may occur in newborn infants of mothers who 
 Neonatal opioid withdrawal syndrome presents as irritability, hyperactivity and abnormal sleep pattern, high pitched cry, tremor, vomiting, diarrhea, and/or failure to gain weight.
 Signs of neonatal withdrawal usually occur in the first days after birth.
 The duration and severity of neonatal opioid withdrawal syndrome may vary.
-Observe newborns for signs of neonatal opioid withdrawal syndrome and manage accordingly [see Warnings and Precautions (5.3)].
+Observe newborns for signs of neonatal opioid withdrawal syndrome and manage accordingly [see Warnings and Precautions (5.7)].
 
 Labor or Delivery
 
@@ -74,7 +74,8 @@ Although similar effects were observed with equivalent levels of ATRIGEL® deliv
 Based on these results, the NOAEL for developmental toxicity was 300 mg/kg (approximately 15 times the MRHD on an AUC basis).
 
 In an embryofetal development study in rabbits, administration of a single subcutaneous injection of SUBLOCADE to pregnant animals on Gestation Day 7 during the period of organogenesis resulted an increased litter incidence of skeletal malformations at 155 mg/kg (approximately 7 times the MRHD on an AUC basis), which appear to be buprenorphine-related adverse effects.
-There was also an increased litter incidence of external malformations, visceral, and skeletal malformations and variations at 390 mg/kg SUBLOCADE (approximately 15 times the MRHD on an AUC basis); however, similar effects were observed with an equivalent level of the ATRIGEL® delivery system, indicating they may be attributable to the vehicle In addition, increased post-implantation loss, which correlated with increased mean number of resorptions and decreased mean number of viable fetuses, and decreased fetal body weights were observed at 390 mg/kg (approximately 15 times the MRHD on an AUC basis); however, similar findings were also observed with an equivalent level of the ATRIGEL® delivery system alone.
+There was also an increased litter incidence of external malformations, visceral, and skeletal malformations and variations at 390 mg/kg SUBLOCADE (approximately 15 times the MRHD on an AUC basis); however, similar effects were observed with an equivalent level of the ATRIGEL® delivery system, indicating they may be attributable to the vehicle.
+In addition, increased post-implantation loss, which correlated with increased mean number of resorptions and decreased mean number of viable fetuses, and decreased fetal body weights were observed at 390 mg/kg (approximately 15 times the MRHD on an AUC basis); however, similar findings were also observed with an equivalent level of the ATRIGEL® delivery system alone.
 Based on these results, the NOAEL for developmental toxicity for SUBLOCADE was 78 mg/kg (approximately 3 times the MRHD on an AUC basis).
 
 In a pre- and postnatal development study in rats, SUBLOCADE was administered subcutaneously to pregnant animals once during implantation (on Gestation Day 7) and once during weaning (on Lactation Day 7).
@@ -139,7 +140,7 @@ Because of the long-acting nature of the product, adjustments to dosages of SUBL
 Because buprenorphine levels cannot be rapidly adjusted, patients with pre-existing moderate to severe hepatic impairment are not candidates for treatment with SUBLOCADE.
 
 Patients who develop moderate to severe hepatic impairment while being treated with SUBLOCADE should be monitored for signs and symptoms of toxicity or overdose caused by increased levels of buprenorphine.
-If signs and symptoms of toxicity or overdose occur within 2 weeks of SUBLOCADE administration, removal of the depot may be required [see Dosage and Administration (2.8), Warnings and Precautions (5.9), Clinical Pharmacology (12.3)].
+If signs and symptoms of toxicity or overdose occur within 2 weeks of SUBLOCADE administration, removal of the depot may be required [see Dosage and Administration (2.9), Warnings and Precautions (5.10), Clinical Pharmacology (12.3)].
 
 ## 8.7 Renal Impairment
 

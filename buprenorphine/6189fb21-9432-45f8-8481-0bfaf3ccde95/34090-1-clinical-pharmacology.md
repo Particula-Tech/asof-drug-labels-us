@@ -68,7 +68,7 @@ Observed mean buprenorphine concentrations levels for Cavg, Cmax and Cmin are pr
 Table 6.
 Comparison of Buprenorphine Mean Pharmacokinetic Parameters Between SUBUTEX and SUBLOCADE
 
-| Pharmacokinetic parameters | SUBUTEX daily stabilization |  | SUBLOCADE |  |  |
+| Pharmacokinetic parameters | SUBUTEX® daily stabilization |  | SUBLOCADE |  |  |
 | --- | --- | --- | --- | --- | --- |
 | Mean | 12 mg (steady-state) | 24 mg (steady-state) | 300 mg# (1st injection) | 100 mg* (steady-state) | 300 mg* (steady-state) |
 | Cavg,ss (ng/mL) | 1.71 | 2.91 | 2.19 | 3.21 | 6.54 |

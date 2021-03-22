@@ -4,14 +4,14 @@ The following adverse reactions are discussed in more detail in other sections o
 
 - Addiction, Abuse, and Misuse [see Warnings and Precautions (5.3)]
 - Respiratory and CNS Depression [see Warnings and Precautions (5.4)]
-- Neonatal Opioid Withdrawal Syndrome [see Warnings and Precautions (5.6)]
-- Adrenal Insufficiency [see Warnings and Precautions (5.7)]
-- Opioid Withdrawal [see Warnings and Precautions (5.8, 5.11)]
-- Hepatitis, Hepatic Events [see Warnings and Precautions (5.9)]
-- Hypersensitivity Reactions [see Warnings and Precautions (5.10)]
-- Orthostatic Hypotension [see Warnings and Precautions (5.17)]
-- Elevation of Cerebrospinal Fluid Pressure [see Warnings and Precautions (5.18)]
-- Elevation of Intracholedochal Pressure [see Warnings and Precautions (5.19)]
+- Neonatal Opioid Withdrawal Syndrome [see Warnings and Precautions (5.7)]
+- Adrenal Insufficiency [see Warnings and Precautions (5.8)]
+- Opioid Withdrawal [see Warnings and Precautions (5.9, 5.12)]
+- Hepatitis, Hepatic Events [see Warnings and Precautions (5.10)]
+- Hypersensitivity Reactions [see Warnings and Precautions (5.11)]
+- Orthostatic Hypotension [see Warnings and Precautions (5.18)]
+- Elevation of Cerebrospinal Fluid Pressure [see Warnings and Precautions (5.19)]
+- Elevation of Intracholedochal Pressure [see Warnings and Precautions (5.20)]
 
 ## 6.1 Clinical Trials Experience
 
@@ -28,7 +28,7 @@ Total Subjects Exposed to SUBLOCADE
 
 | Study 13-0001 (NCT02357901) Up to 6 Injections |  |  | Study 13-0003 (NCT02510014) |  |  |  | Total Subjects Exposed To SUBLOCADE |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-|  | Roll-Over Up to 6 Injections |  |  |  | De-Novo Up to 12 Injections |  |  |
+| Roll-Over Up to 6 Injections |  |  | De-Novo Up to 12 Injections |  |  |  |  |
 | SUBLOCADE 300/100 mg | SUBLOCADE 300/300 mg | Placebo | From SUBLOCADE 300/100 mg To SUBLOCADE 300/Flex† | From SUBLOCADE 300/300 mg To SUBLOCADE 300/Flex† | From Placebo To SUBLOCADE 300/Flex† | SUBLOCADE 300/Flex |  |
 | N = 203 | N = 201 | N = 100* | N = 112‡ | N = 113‡ | N= 32 | N = 412 | N = 848 |
 | *Not included in total subjects exposed to SUBLOCADE |  |  |  |  |  |  |  |

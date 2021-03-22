@@ -4,7 +4,7 @@
 
 Intravenous injection presents significant risk of serious harm or death as SUBLOCADE forms a solid mass upon contact with body fluids.
 Occlusion, local tissue damage, and thrombo-embolic events, including life threatening pulmonary emboli, could result if administered intravenously [see Warnings and Precautions (5.2), Drug Abuse and Dependence (9.2)].
-Do not administer intravenously or intramuscularly.
+Do not administer intravenously, intramuscularly, or intradermally [see Warnings and Precautions (5.6)].
 
 ## 5.2 SUBLOCADE Risk Evaluation and Mitigation Strategy (REMS) Program
 
@@ -35,9 +35,26 @@ Use SUBLOCADE with caution in patients with compromised respiratory function (e.
 
 Due to its extended-release characteristics, if SUBLOCADE is discontinued as a result of compromised respiratory function, monitor patients for ongoing buprenorphine effects for several months.
 
+Educate patients and caregivers on how to recognize respiratory depression and emphasize the importance of calling 911 or getting emergency medical help right away in the event of a known or suspected overdose [see Patient Counseling Information (17)].
+
 Opioids can cause sleep-related breathing disorders including central sleep apnea (CSA) and sleep-related hypoxemia.
 Opioid use increases the risk of CSA in a dose-dependent fashion.
-In patients who present with CSA, consider decreasing the opioid dosage using best practices for opioid taper [see Dosage and Administration (2.8)].
+In patients who present with CSA, consider decreasing the opioid dosage using best practices for opioid taper [see Dosage and Administration (2.9)].
+
+Patient Access to Naloxone for the Emergency Treatment of Opioid Overdose
+
+Discuss the availability of naloxone for the emergency treatment of opioid overdose with the patient and caregiver.
+
+Because patients being treated for opioid use disorder have the potential for relapse, putting them at risk for opioid overdose, strongly consider prescribing naloxone for the emergency treatment of opioid overdose, both when initiating and renewing treatment with SUBLOCADE.
+Also consider prescribing naloxone if the patient has household members (including children) or other close contacts at risk for accidental ingestion or opioid overdose [see Dosage and Administration (2.3)].
+
+Advise patients and caregivers that naloxone may also be administered for a known or suspected overdose with buprenorphine itself.
+Higher than normal doses and repeated administration of naloxone may be necessary due to the long duration of action of buprenorphine and its affinity for the mu-opioid receptor [see Overdosage (10)].
+
+Inform patients and caregivers of their options for obtaining naloxone as permitted by individual state naloxone dispensing and prescribing requirements or guidelines (e.g., by prescription, directly from a pharmacist, or as part of a community-based program).
+
+Educate patients and caregivers on how to recognize respiratory depression and, if naloxone is prescribed, how to treat with naloxone.
+Emphasize the importance of calling 911 or getting emergency medical help, even if naloxone is administered [see Patient Counseling Information (17)].
 
 ## 5.5 Managing Risks From Concomitant Use of Benzodiazepines Or Other CNS Depressants With Buprenorphine
 
@@ -60,10 +77,21 @@ For patients in buprenorphine treatment, benzodiazepines are not the treatment o
 Before co-prescribing benzodiazepines, ensure that patients are appropriately diagnosed and consider alternative medications and non-pharmacologic treatments to address anxiety or insomnia.
 Ensure that other healthcare providers prescribing benzodiazepines or other CNS depressants are aware of the patient's buprenorphine treatment and coordinate care to minimize the risks associated with concomitant use.
 
+If concomitant use is warranted, strongly consider prescribing naloxone for the emergency treatment of opioid overdose, as is recommended for all patients in buprenorphine treatment for opioid use disorder [see Warnings and Precautions (5.4)].
+
 In addition, take measures to confirm that patients are taking their medications as prescribed and are not diverting or supplementing with illicit drugs.
 Toxicology screening should test for prescribed and illicit benzodiazepines [see Drug Interactions (7)].
 
-## 5.6 Neonatal Opioid Withdrawal Syndrome
+## 5.6 Risk of Serious Injection Site Reactions
+
+Injection site reactions are most commonly manifested by pain, erythema and pruritis.
+In some post-marketing case reports injection site reactions have involved abscess, ulceration, and necrosis.
+Some cases resulted in surgical depot removal, debridement, antibiotic administration, and SUBLOCADE discontinuation.
+The likelihood of serious injection site reactions may be increased with inadvertent intramuscular or intradermal administration.
+Carefully review injection technique [see Instructions for Use (2.7)].
+Evaluate and treat serious injection site reactions as appropriate.
+
+## 5.7 Neonatal Opioid Withdrawal Syndrome
 
 Neonatal opioid withdrawal syndrome (NOWS) is an expected and treatable outcome of prolonged use of opioids during pregnancy, whether that use is medically-authorized or illicit.
 Unlike opioid withdrawal syndrome in adults, NOWS may be life-threatening if not recognized and treated in the neonate.
@@ -73,7 +101,7 @@ Advise pregnant women receiving opioid addiction treatment with SUBLOCADE of the
 This risk should be balanced against the risk of untreated opioid addiction which often results in continued or relapsing illicit opioid use and is associated with poor pregnancy outcomes.
 Therefore, prescribers should discuss the importance of management of opioid addiction throughout pregnancy.
 
-## 5.7 Adrenal Insufficiency
+## 5.8 Adrenal Insufficiency
 
 Cases of adrenal insufficiency have been reported with opioid use, more often following greater than one month of use.
 Presentation of adrenal insufficiency may include non-specific symptoms and signs including nausea, vomiting, anorexia, fatigue, weakness, dizziness, and low blood pressure.
@@ -83,7 +111,7 @@ Wean the patient off the opioid to allow adrenal function to recover and continu
 Other opioids may be tried as some cases reported use of a different opioid without recurrence of adrenal insufficiency.
 The information available does not identify any particular opioids as being more likely to be associated with adrenal insufficiency.
 
-## 5.8 Risk of Opioid Withdrawal With Abrupt Discontinuation of SUBLOCADE Treatment
+## 5.9 Risk of Opioid Withdrawal With Abrupt Discontinuation of SUBLOCADE Treatment
 
 Buprenorphine is a partial agonist at the mu-opioid receptor and chronic administration produces physical dependence of the opioid type, characterized by withdrawal signs and symptoms upon abrupt discontinuation.
 The withdrawal syndrome is milder than that seen with full agonists and may be delayed in onset [see Drug Abuse and Dependence (9.3)].
@@ -95,7 +123,7 @@ Model simulations indicate that steady-state buprenorphine plasma concentrations
 Patients who elect to discontinue treatment with SUBLOCADE should be monitored for withdrawal signs and symptoms.
 Consider transmucosal buprenorphine if needed to treat withdrawal after discontinuing SUBLOCADE.
 
-## 5.9 Risk of Hepatitis, Hepatic Events
+## 5.10 Risk of Hepatitis, Hepatic Events
 
 Cases of cytolytic hepatitis and hepatitis with jaundice have been observed in individuals receiving buprenorphine in clinical trials and through postmarketing adverse event reports.
 The spectrum of abnormalities ranges from transient asymptomatic elevations in hepatic transaminases to case reports of death, hepatic failure, hepatic necrosis, hepatorenal syndrome, and hepatic encephalopathy.
@@ -109,19 +137,19 @@ Liver function tests, prior to initiation of treatment, are recommended to estab
 Monthly monitoring of liver function during treatment, particularly with 300 mg maintenance dose, is also recommended.
 An etiological evaluation is recommended when a hepatic adverse event is suspected.
 
-## 5.10 Hypersensitivity Reactions
+## 5.11 Hypersensitivity Reactions
 
 Cases of hypersensitivity to buprenorphine-containing products have been reported both in clinical trials and in the postmarketing experience.
 Cases of bronchospasm, angioneurotic edema, and anaphylactic shock have been reported.
 The most common signs and symptoms include rashes, hives, and pruritus.
 A history of hypersensitivity to buprenorphine is a contraindication to the use of SUBLOCADE [see Contraindications (4)].
 
-## 5.11 Precipitation of Opioid Withdrawal in Patients Dependent on Full Agonist Opioids
+## 5.12 Precipitation of Opioid Withdrawal in Patients Dependent on Full Agonist Opioids
 
 Because of the partial opioid agonist properties of buprenorphine, buprenorphine may precipitate opioid withdrawal signs and symptoms in persons who are currently physically dependent on full opioid agonists such as heroin, morphine, or methadone before the effects of the full opioid agonist have subsided.
 Verify that patients have tolerated and are dose adjusted on transmucosal buprenorphine before subcutaneously injecting SUBLOCADE.
 
-## 5.12 Risks Associated With Treatment of Emergent Acute Pain
+## 5.13 Risks Associated With Treatment of Emergent Acute Pain
 
 While on SUBLOCADE, situations may arise where patients need acute pain management, or may require anesthesia.
 Treat patients receiving SUBLOCADE with a non-opioid analgesic whenever possible.
@@ -135,12 +163,12 @@ Advise patients of the importance of instructing their family members, in the ev
 
 The above guidance should also be considered for any patient who has been treated with SUBLOCADE within the last 6 months.
 
-## 5.13 Use in Opioid Naïve Patients
+## 5.14 Use in Opioid Naïve Patients
 
 There have been reported deaths of opioid naïve individuals who received a 2 mg dose of buprenorphine as a sublingual tablet.
 SUBLOCADE is not appropriate for use in opioid naïve patients.
 
-## 5.14 Use in Patients With Impaired Hepatic Function
+## 5.15 Use in Patients With Impaired Hepatic Function
 
 In a pharmacokinetic study with transmucosal buprenorphine, buprenorphine plasma levels were found to be higher and the half-life was found to be longer in subjects with moderate and severe hepatic impairment, but not in subjects with mild hepatic impairment.
 The effect of hepatic impairment on the pharmacokinetics of SUBLOCADE has not been studied.
@@ -150,36 +178,36 @@ Because buprenorphine levels cannot be rapidly decreased, patients with pre-exis
 
 Patients who develop moderate to severe hepatic impairment while being treated with SUBLOCADE should be monitored for several months for signs and symptoms of toxicity or overdose caused by increased levels of buprenorphine [see Use in Specific Populations (8.6), Clinical Pharmacology (12.3)].
 
-## 5.15 Use in Patients at Risk for Arrhythmia
+## 5.16 Use in Patients at Risk for Arrhythmia
 
 Buprenorphine has been observed to prolong the QTc interval in some patients participating in clinical trials.
 Consider these observations in clinical decisions when prescribing buprenorphine to patients with hypokalemia, hypomagnesemia, or clinically unstable cardiac disease, including unstable atrial fibrillation, symptomatic bradycardia, unstable congestive heart failure, or active myocardial ischemia.
 Periodic electrocardiographic (ECG) monitoring is recommended in these patients.
 Avoid the use of buprenorphine in patients with a history of Long QT Syndrome or an immediate family member with this condition or those taking Class IA antiarrhythmic medications (e.g., quinidine, procainamide, disopyramide) or Class III antiarrhythmic medications (e.g., sotalol, amiodarone, dofetilide), or other medications that prolong the QT interval [see Clinical Pharmacology (12.2)].
 
-## 5.16 Impairment of Ability to Drive or Operate Machinery
+## 5.17 Impairment of Ability to Drive or Operate Machinery
 
 SUBLOCADE may impair the mental or physical abilities required for the performance of potentially dangerous tasks such as driving a car or operating machinery especially during the first few days following treatment and dose adjustment.
 Buprenorphine plasma levels accumulate during the first two months and are maintained with the 100 mg maintenance dose; further accumulation occurs with the 300 mg maintenance dose, which achieves steady-state after the fourth monthly injection.
 Caution patients about driving or operating hazardous machinery until they are reasonably certain that SUBLOCADE does not adversely affect their ability to engage in such activities.
 
-## 5.17 Orthostatic Hypotension
+## 5.18 Orthostatic Hypotension
 
 Buprenorphine may produce orthostatic hypotension in ambulatory patients.
 
-## 5.18 Elevation of Cerebrospinal Fluid Pressure
+## 5.19 Elevation of Cerebrospinal Fluid Pressure
 
 Buprenorphine may elevate cerebrospinal fluid pressure and should be used with caution in patients with head injury, intracranial lesions, and other circumstances when cerebrospinal pressure may be increased.
 Buprenorphine can produce miosis and changes in the level of consciousness that may interfere with patient evaluation.
 
-## 5.19 Elevation of Intracholedochal Pressure
+## 5.20 Elevation of Intracholedochal Pressure
 
 Buprenorphine has been shown to increase intracholedochal pressure, as do other opioids, and thus should be administered with caution to patients with dysfunction of the biliary tract.
 
-## 5.20 Effects in Acute Abdominal Conditions
+## 5.21 Effects in Acute Abdominal Conditions
 
 Buprenorphine may obscure the diagnosis or clinical course of patients with acute abdominal conditions.
 
-## 5.21 Unintentional Pediatric Exposure
+## 5.22 Unintentional Pediatric Exposure
 
 Buprenorphine can cause severe, possibly fatal, respiratory depression in children who are accidentally exposed to it.
