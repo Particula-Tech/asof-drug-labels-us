@@ -58,7 +58,7 @@ The onset time was approximately 1 minute faster in patients with end-stage live
 
 ## Malignant Hyperthermia (MH)
 
-In a study of MH-susceptible pigs, cisatracurium besylate (highest dose 2000 mcg/kg equivalent to 3 x ED 95 in pigs and 40 x ED 95 in humans) did not trigger MH.
+In a study of MH-susceptible pigs, cisatracurium besylate (highest dose 2000 mcg/kg equivalent to 3 x ED95 in pigs and 40 x ED95 in humans) did not trigger MH.
 Cisatracurium besylate has not been studied in MH-susceptible patients.
 Because MH can develop in the absence of established triggering agents, the clinician should be prepared to recognize and treat MH in any patient undergoing general anesthesia.
 
@@ -73,7 +73,7 @@ There have been rare spontaneous reports of seizures in ICU patients who have re
 These patients usually had predisposing causes (such as cranial trauma, cerebral edema, hypoxic encephalopathy, viral encephalitis, uremia).
 There are insufficient data to determine whether or not laudanosine contributes to seizures in ICU patients.
 Consistent with the decreased infusion rate requirements for cisatracurium, laudanosine concentrations were lower in patients receiving cisatracurium than in patients receiving atracurium for up to 48 hours (see Pharmacokinetics, Special Populations, Intensive Care Unit Patients).
-In a randomized, double-blind study using train-of-four nerve stimulator monitoring to maintain at least one visible twitch, evaluable patients treated with cisatracurium (n = 19) recovered neuromuscular function (T 4:T 1 ratio ≥ 70%) following termination of infusion in approximately 55 minutes (range: 20 to 270) whereas evaluable vecuronium-treated patients (n = 12) recovered in 178 minutes (range: 40 minutes to 33 hours).
+In a randomized, double-blind study using train-of-four nerve stimulator monitoring to maintain at least one visible twitch, evaluable patients treated with cisatracurium (n = 19) recovered neuromuscular function (T4:T1 ratio ≥ 70%) following termination of infusion in approximately 55 minutes (range: 20 to 270) whereas evaluable vecuronium-treated patients (n = 12) recovered in 178 minutes (range: 40 minutes to 33 hours).
 In another study comparing cisatracurium and atracurium, patients recovered neuromuscular function in approximately 50 minutes for both cisatracurium (range: 20 to 175; n = 34) and atracurium (range: 35 to 85; n = 15).
 
 WHENEVER THE USE OF CISATRACURIUM OR ANY OTHER NEUROMUSCULAR BLOCKING AGENT IN THE ICU IS CONTEMPLATED, IT IS RECOMMENDED THAT NEUROMUSCULAR FUNCTION BE MONITORED DURING ADMINISTRATION WITH A NERVE STIMULATOR.
@@ -85,7 +85,7 @@ The effects of hemofiltration, hemodialysis, and hemoperfusion on plasma levels 
 ## Drug Interactions
 
 Cisatracurium has been used safely following varying degrees of recovery from succinylcholine-induced neuromuscular block.
-Administration of 0.1 mg/kg (2 x ED 95) cisatracurium at 10% or 95% recovery following an intubating dose of succinylcholine (1 mg/kg) produced ≥ 95% neuromuscular block.
+Administration of 0.1 mg/kg (2 x ED95) cisatracurium at 10% or 95% recovery following an intubating dose of succinylcholine (1 mg/kg) produced ≥ 95% neuromuscular block.
 The time to onset of maximum block following cisatracurium is approximately 2 minutes faster with prior administration of succinylcholine.
 Prior administration of succinylcholine had no effect on the duration of neuromuscular block following initial or maintenance bolus doses of cisatracurium.
 Infusion requirements of cisatracurium in patients administered succinylcholine prior to infusions of cisatracurium were comparable to or slightly greater than when succinylcholine was not administered.
@@ -127,7 +127,7 @@ Teratogenic Effects
 
 Pregnancy Category B
 
-Teratology testing in nonventilated pregnant rats treated subcutaneously with maximum subparalyzing doses (4 mg/kg daily; equivalent to 8 x the human ED 95 following a bolus dose of 0.2 mg/kg intravenous) and in ventilated rats treated intravenously with paralyzing doses of cisatracurium at 0.5 and 1 mg/kg; equivalent to 10 x and 20 x the human ED 95 dose, respectively, revealed no maternal or fetal toxicity or teratogenic effects.
+Teratology testing in nonventilated pregnant rats treated subcutaneously with maximum subparalyzing doses (4 mg/kg daily; equivalent to 8 x the human ED95 following a bolus dose of 0.2 mg/kg intravenous) and in ventilated rats treated intravenously with paralyzing doses of cisatracurium at 0.5 and 1 mg/kg; equivalent to 10 x and 20 x the human ED95 dose, respectively, revealed no maternal or fetal toxicity or teratogenic effects.
 There are no adequate and well-controlled studies of cisatracurium in pregnant women.
 Because animal studies are not always predictive of human response, cisatracurium should be used during pregnancy only if clearly needed.
 
@@ -144,7 +144,7 @@ Because many drugs are excreted in human milk, caution should be exercised follo
 
 ## Pediatric Use
 
-Cisatracurium has not been studied in pediatric patients below the age of 1 month (see CLINICAL PHARMACOLOGY and DOSAGE AND ADMINISTRATIONfor clinical experience and recommendations for use in children 1 month to 12 years of age).
+Cisatracurium has not been studied in pediatric patients below the age of 1 month (see CLINICAL PHARMACOLOGY and DOSAGE AND ADMINISTRATION for clinical experience and recommendations for use in children 1 month to 12 years of age).
 Intubation of the trachea in patients 1 to 4 years old was facilitated more reliably when cisatracurium was used in combination with halothane than when opioids and nitrous oxide were used for induction of anesthesia.
 
 The 10 mL multiple dose vials of cisatracurium contain benzyl alcohol as a preservative.
@@ -158,7 +158,7 @@ Practitioners administering this and other medications containing benzyl alcohol
 ## Geriatric Use
 
 Of the total number of subjects in clinical studies of cisatracurium, 57 were 65 and over, 63 were 70 and over, and 15 were 80 and over.
-The geriatric population included a subset of patients with significant cardiovascular disease (see CLINICALPHARMACOLOGY, Hemodynamics Profile and Special Populations,Geriatric Patients).
+The geriatric population included a subset of patients with significant cardiovascular disease (see CLINICAL PHARMACOLOGY, Hemodynamics Profile and Special Populations, Geriatric Patients).
 No overall differences in safety or effectiveness were observed between these subjects and younger subjects, and other reported clinical experience has not identified differences in responses between elderly and younger subjects, but greater sensitivity of some older individuals to cisatracurium cannot be ruled out.
 
 Minor differences in the pharmacokinetics of cisatracurium between elderly and young adult patients are not associated with clinically significant differences in the recovery profile of cisatracurium following a single 0.1 mg/kg dose; the time to maximum block is approximately 1 minute slower in elderly patients (see CLINICAL PHARMACOLOGY, Pharmacokinetics).

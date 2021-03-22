@@ -1,6 +1,6 @@
 # DOSAGE AND ADMINISTRATION:
 
-NOTE: CONTAINS BENZYL ALCOHOL (see WARNINGS and PRECAUTIONS,Pediatric Use).
+NOTE: CONTAINS BENZYL ALCOHOL (see WARNINGS and PRECAUTIONS, Pediatric Use).
 
 CISATRACURIUM BESYLATE INJECTION SHOULD ONLY BE ADMINISTERED INTRAVENOUSLY.
 
@@ -14,12 +14,12 @@ Initial Doses
 
 One of two intubating doses of cisatracurium may be chosen, based on the desired time to tracheal intubation and the anticipated length of surgery.
 In addition to the dose of neuromuscular blocking agent, the presence of co-induction agents (e.g., fentanyl and midazolam) and the depth of anesthesia are factors that can influence intubation conditions.
-Doses of 0.15 (3 x ED 95) and 0.2 (4 x ED 95) mg/kg cisatracurium, as components of a propofol/nitrous oxide/oxygen induction-intubation technique, may produce generally GOOD or EXCELLENT conditions for intubation in 2 and 1.5 minutes, respectively.
+Doses of 0.15 (3 x ED95) and 0.2 (4 x ED95) mg/kg cisatracurium, as components of a propofol/nitrous oxide/oxygen induction-intubation technique, may produce generally GOOD or EXCELLENT conditions for intubation in 2 and 1.5 minutes, respectively.
 Similar intubation conditions may be expected when these doses of cisatracurium are administered as components of a thiopental/nitrous oxide/oxygen induction-intubation technique.
 In two intubation studies using thiopental or propofol and midazolam and fentanyl as co-induction agents, EXCELLENT intubation conditions were most frequently achieved with the 0.2 mg/kg compared to 0.15 mg/kg dose of cisatracurium.
 The clinically effective durations of action for 0.15 and 0.2 mg/kg cisatracurium during propofol anesthesia are 55 minutes (range: 44 to 74 minutes) and 61 minutes (range: 41 to 81 minutes), respectively.
 Lower doses may result in a longer time for the development of satisfactory intubation conditions.
-Doses up to 8 x ED 95 cisatracurium have been safely administered to healthy adult patients and patients with serious cardiovascular disease.
+Doses up to 8 x ED95 cisatracurium have been safely administered to healthy adult patients and patients with serious cardiovascular disease.
 These larger doses are associated with longer clinically effective durations of action (see CLINICAL PHARMACOLOGY).
 
 Because slower times to onset of complete neuromuscular block were observed in elderly patients and patients with renal dysfunction, extending the interval between administration of cisatracurium and the intubation attempt for these patients may be required to achieve adequate intubation conditions.
@@ -119,13 +119,13 @@ Studies have shown that Cisatracurium Besylate Injection is compatible with:
 - 5% Dextrose Injection, USP
 - 0.9% Sodium Chloride Injection, USP
 - 5% Dextrose and 0.9% Sodium Chloride Injection, USP
-- SUFENTA ® (sufentanil citrate) Injection, diluted as directed
-- ALFENTA ® (alfentanil hydrochloride) Injection, diluted as directed
-- SUBLIMAZE ® (fentanyl citrate) Injection, diluted as directed
-- VERSED ® (midazolam hydrochloride) Injection, diluted as directed
+- SUFENTA® (sufentanil citrate) Injection, diluted as directed
+- ALFENTA® (alfentanil hydrochloride) Injection, diluted as directed
+- SUBLIMAZE® (fentanyl citrate) Injection, diluted as directed
+- VERSED® (midazolam hydrochloride) Injection, diluted as directed
 - Droperidol Injection, diluted as directed
 
-Cisatracurium Besylate Injection is not compatible with DIPRIVAN ® (propofol) Injection or TORADOL ® (ketorolac) Injection for Y-site administration.
+Cisatracurium Besylate Injection is not compatible with DIPRIVAN® (propofol) Injection or TORADOL® (ketorolac) Injection for Y-site administration.
 Studies of other parenteral products have not been conducted.
 
 Dilution Stability
