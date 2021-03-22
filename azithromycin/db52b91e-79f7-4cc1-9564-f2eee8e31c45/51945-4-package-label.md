@@ -78,7 +78,9 @@ Zithromax® (azithromycin) tablets
 
 500 mg*
 
-30 Tablets Rx only
+30 Tablets
+
+Rx only
 
 # PRINCIPAL DISPLAY PANEL - 500 mg - 3 ct. Tablet Blister Pack
 
@@ -112,7 +114,11 @@ Zithromax® (azithromycin) Tablet
 
 500 mg
 
-PFIZER LABS DIV OF PFIZER INC, NY, NY 10017
+Distributed by PFIZER LABS DIV OF PFIZER INC, NY, NY 10017
+
+PAA135273
+
+EXP & LOT AREA As per P.O.
 
 # PRINCIPAL DISPLAY PANEL - 500 mg Tablet Blister Pack Box
 
@@ -136,13 +142,15 @@ NDC 0069-3110-19
 
 300 mg (15 mL when mixed)
 
-Zithromax® (azithromycin for oral suspension)
+Pfizer
 
-CHERRY FLAVORED
+Zithromax® (azithromycin) for oral suspension
 
 100 mg* per 5 mL
 
-Pfizer Pfizer Labs Division of Pfizer Inc, NY, NY 10017
+CHERRY FLAVORED
+
+Rx only
 
 # PRINCIPAL DISPLAY PANEL - 300 mg Bottle Carton
 
@@ -150,15 +158,17 @@ NDC 0069-3110-19
 
 300 mg (15 mL when mixed)
 
-www.zithromax.com
+Pfizer
 
-Zithromax® (azithromycin for oral suspension)
-
-Cherry Flavored
-
-Rx only
+Zithromax® (azithromycin) for oral suspension
 
 100 mg* per 5 mL
+
+FOR ORAL USE ONLY
+
+CHERRY FLAVORED
+
+Rx only
 
 # PRINCIPAL DISPLAY PANEL - 600 mg Bottle Label
 
@@ -166,19 +176,15 @@ NDC 0069-3120-19
 
 600 mg (15 mL when mixed)
 
-Zithromax® (azithromycin for oral suspension)
+Pfizer
 
-CHERRY FLAVORED
+Zithromax® (azithromycin) for oral suspension
 
 200 mg* per 5 mL
 
+CHERRY FLAVORED
+
 Rx only
-
-Pfizer
-
-Distributed by
-
-Pfizer Labs Division of Pfizer Inc, NY, NY 10017
 
 # PRINCIPAL DISPLAY PANEL - 600 mg Bottle Carton
 
@@ -188,13 +194,17 @@ NDC 0069-3120-19
 
 www.zithromax.com
 
-Zithromax® (azithromycin for oral suspension)
+Pfizer
 
-Cherry Flavored
-
-Rx only
+Zithromax® (azithromycin) for oral suspension
 
 200 mg* per 5 mL
+
+FOR ORAL USE ONLY
+
+CHERRY FLAVORED
+
+Rx only
 
 # PRINCIPAL DISPLAY PANEL - 900 mg Bottle Label
 
@@ -202,19 +212,15 @@ NDC 0069-3130-19
 
 900 mg (22.5 mL when mixed)
 
-Zithromax® (azithromycin for oral suspension)
+Pfizer
 
-CHERRY FLAVORED
+Zithromax® (azithromycin) for oral suspension
 
 200 mg* per 5 mL
 
+CHERRY FLAVORED
+
 Rx only
-
-Pfizer
-
-Distributed by
-
-Pfizer Labs Division of Pfizer Inc, NY, NY 10017
 
 # PRINCIPAL DISPLAY PANEL - 900 mg Bottle Carton
 
@@ -222,15 +228,17 @@ NDC 0069-3130-19
 
 900 mg (22.5 mL when mixed)
 
-www.zithromax.com
+Pfizer
 
-Zithromax® (azithromycin for oral suspension)
-
-Cherry Flavored
-
-Rx only
+Zithromax® (azithromycin) for oral suspension
 
 200 mg* per 5 mL
+
+FOR ORAL USE ONLY
+
+CHERRY FLAVORED
+
+Rx only
 
 # PRINCIPAL DISPLAY PANEL - 1200 mg Bottle Label
 
@@ -238,19 +246,15 @@ NDC 0069-3140-19
 
 1200 mg (30 mL when mixed)
 
-Zithromax® (azithromycin for oral suspension)
+Pfizer
 
-CHERRY FLAVORED
+Zithromax® (azithromycin) for oral suspension
 
 200 mg* per 5 mL
 
+CHERRY FLAVORED
+
 Rx only
-
-Pfizer
-
-Distributed by
-
-Pfizer Labs Division of Pfizer Inc, NY, NY 10017
 
 # PRINCIPAL DISPLAY PANEL - 1200 mg Bottle Carton
 
@@ -258,12 +262,14 @@ NDC 0069-3140-19
 
 1200 mg (30 mL when mixed)
 
-www.zithromax.com
+Pfizer
 
-Zithromax® (azithromycin for oral suspension)
-
-Cherry Flavored
-
-Rx only
+Zithromax® (azithromycin) for oral suspension
 
 200 mg* per 5 mL
+
+FOR ORAL USE ONLY
+
+CHERRY FLAVORED
+
+Rx only
