@@ -18,11 +18,6 @@
   ],
   "products": [
     {
-      "form": "INJECTION, SOLUTION",
-      "generic": "interferon beta-1a",
-      "name": "AVONEX"
-    },
-    {
       "form": "KIT",
       "generic": "interferon beta-1a",
       "name": "AVONEX"
@@ -30,7 +25,12 @@
     {
       "form": "INJECTION, SOLUTION",
       "generic": "interferon beta-1a",
-      "name": "AVONEX PEN"
+      "name": "Avonex"
+    },
+    {
+      "form": "INJECTION, SOLUTION",
+      "generic": "interferon beta-1a",
+      "name": "Avonex Pen"
     }
   ],
   "setid": "d70a39cc-de15-4c12-a1ec-8063b69ea0e1",
