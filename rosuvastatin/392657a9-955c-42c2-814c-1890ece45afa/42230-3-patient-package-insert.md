@@ -11,12 +11,12 @@ What are rosuvastatin tablets?
 Rosuvastatin tablets are a prescription medicine that contains a cholesterol-lowering medicine called rosuvastatin.
 
 - •Rosuvastatin tablets are used along with diet to:
-  - olower the level of your “bad” cholesterol (LDL)
-  - oincrease the level of your “good” cholesterol (HDL)
-  - olower the level of fat in your blood (triglycerides)
-  - oslow the buildup of fatty deposits (plaque) in the walls of blood vessels
+  - •lower the level of your “bad” cholesterol (LDL)
+  - •increase the level of your “good” cholesterol (HDL)
+  - •lower the level of fat in your blood (triglycerides)
+  - •slow the buildup of fatty deposits (plaque) in the walls of blood vessels
 - •Rosuvastatin tablets are used to treat:
-  - oadults who cannot control their cholesterol levels by diet and exercise alone
+  - •adults who cannot control their cholesterol levels by diet and exercise alone
 
 It is not known if rosuvastatin tablets are safe and effective in people who have Fredrickson Type I and V dyslipidemias.
 
@@ -65,14 +65,14 @@ Especially tell your doctor if you take:
 - •darolutamide (a medicine for the treatment of prostate cancer)
 - •regorafenib (a medicine used to treat cancer of the colon and rectum)
 - •anti-viral medicines including certain HIV or hepatitis C protease inhibitors such as:
-  - olopinavir, ritonavir, fosamprenavir, tipranavir, atazanavir, simeprevir)
-  - ocombination of
-    - •sofosbuvir/velpatasvir/voxilaprevir
-    - •dasabuvir/ombitasvir/paritaprevir/ritonavir
-    - •elbasvir/grazoprevir
-    - •sofosbuvir/velpatasvir
-    - •glecaprevir/pibrentasvir and
-  - oall other combinations with ledipasvir including ledipasvir/sofosbuvir
+  - •lopinavir, ritonavir, fosamprenavir, tipranavir, atazanavir, simeprevir)
+  - •combination of
+    - ▪sofosbuvir/velpatasvir/voxilaprevir
+    - ▪dasabuvir/ombitasvir/paritaprevir/ritonavir
+    - ▪elbasvir/grazoprevir
+    - ▪sofosbuvir/velpatasvir
+    - ▪glecaprevir/pibrentasvir and
+  - •all other combinations with ledipasvir including ledipasvir/sofosbuvir
 - •certain anti-fungal medicines (such as itraconazole, ketoconazole and fluconazole)
 - •coumarin anticoagulants (medicines that prevent blood clots, such as warfarin)
 - •niacin or nicotinic acid
@@ -107,23 +107,23 @@ Rosuvastatin tablets may cause serious side effects, including:
 - •Muscle pain, tenderness and weakness (myopathy).
   Muscle problems, including muscle breakdown, can be serious in some people and rarely cause kidney damage that can lead to death.
   Tell your doctor right away if:
-  - oyou have unexplained muscle pain, tenderness, or weakness, especially if you have a fever or feel more tired than usual, while you take rosuvastatin tablets.
-  - oyou have muscle problems that do not go away even after your doctor has told you to stop taking rosuvastatin tablets.
+  - •you have unexplained muscle pain, tenderness, or weakness, especially if you have a fever or feel more tired than usual, while you take rosuvastatin tablets.
+  - •you have muscle problems that do not go away even after your doctor has told you to stop taking rosuvastatin tablets.
     Your doctor may do further tests to diagnose the cause of your muscle problems.
 - Your chances of getting muscle problems are higher if you:
-  1. oare taking certain other medicines while you take rosuvastatin tablets
-  2. oare 65 years of age or older
-  3. ohave thyroid problems (hypothyroidism) that are not controlled
-  4. ohave kidney problems
-  5. oare taking higher doses of rosuvastatin tablets
+  1. •are taking certain other medicines while you take rosuvastatin tablets
+  2. •are 65 years of age or older
+  3. •have thyroid problems (hypothyroidism) that are not controlled
+  4. •have kidney problems
+  5. •are taking higher doses of rosuvastatin tablets
 - •Liver problems.
   Your doctor should do blood tests to check your liver before you start taking rosuvastatin tablets and if you have symptoms of liver problems while you take rosuvastatin tablets.
   Call your doctor right away if you have any of the following symptoms of liver problems:
-  - ofeel unusually tired or weak
-  - oloss of appetite
-  - oupper belly pain
-  - odark urine
-  - oyellowing of your skin or the whites of your eyes
+  - •feel unusually tired or weak
+  - •loss of appetite
+  - •upper belly pain
+  - •dark urine
+  - •yellowing of your skin or the whites of your eyes
 
 The most common side effects may include headache, muscle aches and pains, abdominal pain, weakness, and nausea.
 
@@ -170,4 +170,4 @@ Questions?
 
 www.glenmarkpharma-us.com
 
-November 2020
+February 2021

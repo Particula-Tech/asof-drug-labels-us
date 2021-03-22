@@ -20,7 +20,11 @@ Bottles of 30 with child-resistant closure, NDC 68462-263-30 Bottles of 50 with 
 
 40 mg tablets: Pink colored, film-coated, oval shaped tablets debossed with “G264” on one side and “40” on the other side.
 
-Bottles of 30 with child-resistant closure, NDC 68462-264-30 Bottles of 50 with child-resistant closure, NDC 68462-264-50 Bottles of 90 with child-resistant closure, NDC 68462-264-90Bottles of 100 with child-resistant closure, NDC 68462-264-01 Bottles of 1000, NDC 68462-264-10
+Bottles of 30 with child-resistant closure, NDC 68462-264-30 Bottles of 50 with child-resistant closure, NDC 68462-264-50 Bottles of 90 with child-resistant closure, NDC 68462-264-90
+
+Bottles of 100 with child-resistant closure, NDC 68462-264-01 Bottles of 500, NDC 68462-264-05
+
+Bottles of 1000, NDC 68462-264-10
 
 Storage
 
