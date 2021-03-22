@@ -11,7 +11,7 @@ Under the Drug Addiction Treatment Act (DATA) codified at 21 U.S.C.
 
 Buprenorphine, like morphine and other opioids, has the potential for being abused and is subject to criminal diversion.
 This should be considered when prescribing or dispensing buprenorphine in situations when the clinician is concerned about an increased risk of misuse, abuse, or diversion.
-Healthcare professionals should contact their state professional licensing board or state controlled substances authority for information on how to prevent and detect abuse or diversion of this product.
+Healthcare professionals should contact their state professional licensing board or state-controlled substances authority for information on how to prevent and detect abuse or diversion of this product.
 
 Patients who continue to misuse, abuse, or divert, buprenorphine products or other opioids should be provided or referred for more intensive and structured treatment.
 
