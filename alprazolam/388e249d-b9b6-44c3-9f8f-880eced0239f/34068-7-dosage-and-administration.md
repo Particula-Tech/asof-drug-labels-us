@@ -1,62 +1,57 @@
-# DOSAGE AND ADMINISTRATION
+# 2 DOSAGE AND ADMINISTRATION
 
-Dosage should be individualized for maximum beneficial effect.
-While the usual daily dosages given below will meet the needs of most patients, there will be some who require doses greater than 4 mg/day.
-In such cases, dosage should be increased cautiously to avoid adverse effects.
+## 2.1 Dosage in Generalized Anxiety Disorder
 
-## Anxiety Disorders and Transient Symptoms of Anxiety
+The recommended starting oral dosage of XANAX for the acute treatment of patients with GAD is 0.25 mg to 0.5 mg administered three times daily.
+Depending upon the response, the dosage may be adjusted at intervals of every 3 to 4 days.
+The maximum recommended dosage is 4 mg daily (in divided doses).
 
-Treatment for patients with anxiety should be initiated with a dose of 0.25 to 0.5 mg given three times daily.
-The dose may be increased to achieve a maximum therapeutic effect, at intervals of 3 to 4 days, to a maximum daily dose of 4 mg, given in divided doses.
-The lowest possible effective dose should be employed and the need for continued treatment reassessed frequently.
-The risk of dependence may increase with dose and duration of treatment.
+Use the lowest possible effective dose and frequently assess the need for continued treatment [see Warnings and Precautions (5.2)].
 
-In all patients, dosage should be reduced gradually when discontinuing therapy or when decreasing the daily dosage.
-Although there are no systematically collected data to support a specific discontinuation schedule, it is suggested that the daily dosage be decreased by no more than 0.5 mg every 3 days.
-Some patients may require an even slower dosage reduction.
+## 2.2 Dosage in Panic Disorder
 
-## Panic Disorder
+The recommended starting oral dosage of XANAX for the treatment of PD is 0.5 mg three times daily.
+Depending on the response, the dosage may be increased at intervals of every 3 to 4 days in increments of no more than 1 mg per day.
 
-The successful treatment of many panic disorder patients has required the use of XANAX at doses greater than 4 mg daily.
-In controlled trials conducted to establish the efficacy of XANAX in panic disorder, doses in the range of 1 to 10 mg daily were used.
-The mean dosage employed was approximately 5 to 6 mg daily.
-Among the approximately 1700 patients participating in the panic disorder development program, about 300 received XANAX in dosages of greater than 7 mg/day, including approximately 100 patients who received maximum dosages of greater than 9 mg/day.
-Occasional patients required as much as 10 mg a day to achieve a successful response.
+Controlled trials of XANAX in the treatment of panic disorder included dosages in the range of 1 mg to 10 mg daily.
+The mean dosage was approximately 5 mg to 6 mg daily.
+Occasional patients required as much as 10 mg per day.
 
-### Dose Titration
+For patients receiving doses greater than 4 mg per day, periodic reassessment and consideration of dosage reduction is advised.
+In a controlled postmarketing dose-response study, patients treated with doses of XANAX greater than 4 mg per day for 3 months were able to taper to 50% of their total maintenance dose without apparent loss of clinical benefit.
 
-Treatment may be initiated with a dose of 0.5 mg three times daily.
-Depending on the response, the dose may be increased at intervals of 3 to 4 days in increments of no more than 1 mg per day.
-Slower titration to the dose levels greater than 4 mg/day may be advisable to allow full expression of the pharmacodynamic effect of XANAX.
-To lessen the possibility of interdose symptoms, the times of administration should be distributed as evenly as possible throughout the waking hours, that is, on a three or four times per day schedule.
+The necessary duration of treatment for PD in patients responding to XANAX is unknown.
+After a period of extended freedom from panic attacks, a carefully supervised tapered discontinuation may be attempted, but there is evidence that this may often be difficult to accomplish without recurrence of symptoms and/or the manifestation of withdrawal phenomena [see Dosage and Administration (2.3)].
 
-Generally, therapy should be initiated at a low dose to minimize the risk of adverse responses in patients especially sensitive to the drug.
-Dose should be advanced until an acceptable therapeutic response (ie, a substantial reduction in or total elimination of panic attacks) is achieved, intolerance occurs, or the maximum recommended dose is attained.
-
-### Dose Maintenance
-
-For patients receiving doses greater than 4 mg/day, periodic reassessment and consideration of dosage reduction is advised.
-In a controlled postmarketing dose-response study, patients treated with doses of XANAX greater than 4 mg/day for 3 months were able to taper to 50% of their total maintenance dose without apparent loss of clinical benefit.
-Because of the danger of withdrawal, abrupt discontinuation of treatment should be avoided.
-(See WARNINGS, PRECAUTIONS, DRUG ABUSE AND DEPENDENCE.)
-
-The necessary duration of treatment for panic disorder patients responding to XANAX is unknown.
-After a period of extended freedom from attacks, a carefully supervised tapered discontinuation may be attempted, but there is evidence that this may often be difficult to accomplish without recurrence of symptoms and/or the manifestation of withdrawal phenomena.
-
-## Discontinuation or Dosage Reduction of XANAX
+## 2.3 Discontinuation or Dosage Reduction of XANAX
 
 To reduce the risk of withdrawal reactions, use a gradual taper to discontinue XANAX or reduce the dosage.
 If a patient develops withdrawal reactions, consider pausing the taper or increasing the dosage to the previous tapered dosage level.
-Subsequently decrease the dosage more slowly (see WARNINGS - Dependence and Withdrawal Reactions and DRUG ABUSE AND DEPENDENCE - Dependence).
+Subsequently decrease the dosage more slowly [see Warnings and Precautions (5.3), Drug Abuse and Dependence (9.3)].
 
-In a controlled postmarketing discontinuation study of panic disorder patients which compared this recommended taper schedule with a slower taper schedule, no difference was observed between the groups in the proportion of patients who tapered to zero dose; however, the slower schedule was associated with a reduction in symptoms associated with a withdrawal syndrome.
-
-Reduced the dosage by no more than 0.5 mg every 3 days, Some patients may benefit from an even more gradual discontinuation.
+Reduced the dosage by no more than 0.5 mg every 3 days.
+Some patients may benefit from an even more gradual discontinuation.
 Some patients may prove resistant to all discontinuation regimens.
 
-## Dosing in Special Populations
+In a controlled postmarketing discontinuation study of panic disorder patients which compared the recommended taper schedule with a slower taper schedule, no difference was observed between the groups in the proportion of patients who tapered to zero dose; however, the slower schedule was associated with a reduction in symptoms associated with a withdrawal syndrome.
 
-In elderly patients, in patients with advanced liver disease or in patients with debilitating disease, the usual starting dose is 0.25 mg, given two or three times daily.
+## 2.4 Dosage Recommendations in Geriatric Patients
+
+In geriatric patients, the recommended starting oral dosage of XANAX is 0.25 mg, given 2 or 3 times daily.
 This may be gradually increased if needed and tolerated.
-The elderly may be especially sensitive to the effects of benzodiazepines.
-If side effects occur at the recommended starting dose, the dose may be lowered.
+Geriatric patients may be especially sensitive to the effects of benzodiazepines.
+If adverse reactions occur at the recommended starting dosage, the dosage may be reduced [see Use in Specific Populations (8.5), Clinical Pharmacology (12.3)].
+
+## 2.5 Dosage Recommendations in Patients with Hepatic Impairment
+
+In patients with hepatic impairment, the recommended starting oral dosage of XANAX is 0.25 mg, given 2 or 3 times daily.
+This may be gradually increased if needed and tolerated.
+If adverse reactions occur at the recommended starting dose, the dosage may be reduced [see Use in Specific Populations (8.6), Clinical Pharmacology (12.3)].
+
+## 2.6 Dosage Modifications for Drug Interactions
+
+XANAX should be reduced to half of the recommended dosage when a patient is started on ritonavir and XANAX together, or when ritonavir administered to a patient treated with XANAX.
+Increase the XANAX dosage to the target dose after 10 to 14 days of dosing ritonavir and XANAX together.
+It is not necessary to reduce XANAX dose in patients who have been taking ritonavir for more than 10 to 14 days.
+
+XANAX is contraindicated with concomitant use of all strong CYP3A inhibitors, except ritonavir [see Contraindications (4), Warnings and Precautions (5.5)].

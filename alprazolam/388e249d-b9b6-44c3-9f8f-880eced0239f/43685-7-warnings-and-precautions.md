@@ -1,6 +1,6 @@
-# WARNINGS
+# 5 WARNINGS AND PRECAUTIONS
 
-## Risks from Concomitant Use with Opioids
+## 5.1 Risks from Concomitant Use with Opioids
 
 Concomitant use of benzodiazepines, including XANAX, and opioids may result in profound sedation, respiratory depression, coma, and death.
 Because of these risks, reserve concomitant prescribing of these drugs in patients for whom alternative treatment options are inadequate.
@@ -11,282 +11,86 @@ In patients already receiving an opioid analgesic, prescribe a lower initial dos
 If an opioid is initiated in a patient already taking XANAX, prescribe a lower initial dose of the opioid and titrate based upon clinical response.
 
 Advise both patients and caregivers about the risks of respiratory depression and sedation when XANAX is used with opioids.
-Advise patients not to drive or operate heavy machinery until the effects of concomitant use with the opioid have been determined (see PRECAUTIONS - Drug Interactions).
+Advise patients not to drive or operate heavy machinery until the effects of concomitant use with the opioid have been determined [see Drug Interactions (7.1)].
 
-## Abuse, Misuse, and Addiction
+## 5.2 Abuse, Misuse, and Addiction
 
 The use of benzodiazepines, including XANAX, exposes users to the risks of abuse, misuse, and addiction, which can lead to overdose or death.
-Abuse and misuse of benzodiazepines often (but not always) involve the use of doses greater than the maximum recommended dosage and commonly involve concomitant use of other medications, alcohol, and/or illicit substances, which is associated with an increased frequency of serious adverse outcomes, including respiratory depression, overdose, or death (see DRUG ABUSE AND DEPENDENCE - Abuse).
+Abuse and misuse of benzodiazepines often (but not always) involve the use of doses greater than the maximum recommended dosage and commonly involve concomitant use of other medications, alcohol, and/or illicit substances, which is associated with an increased frequency of serious adverse outcomes, including respiratory depression, overdose, or death [see Drug Abuse and Dependence (9.2)].
 
 Before prescribing XANAX and throughout treatment, assess each patient's risk for abuse, misuse, and addiction (e.g., using a standardized screening tool).
 Use of XANAX, particularly in patients at elevated risk, necessitates counseling about the risks and proper use of XANAX along with monitoring for signs and symptoms of abuse, misuse, and addiction.
 Prescribe the lowest effective dosage; avoid or minimize concomitant use of CNS depressants and other substances associated with abuse, misuse, and addiction (e.g., opioid analgesics, stimulants); and advise patients on the proper disposal of unused drug.
 If a substance use disorder is suspected, evaluate the patient and institute (or refer them for) early treatment, as appropriate.
 
-## Dependence and Withdrawal Reactions
+## 5.3 Dependence and Withdrawal Reactions
 
-To reduce the risk of withdrawal reactions, use a gradual taper to discontinue XANAX or reduce the dosage (a patient-specific plan should be used to taper the dose) (see DOSAGE AND ADMINISTRATION - Discontinuation or Dosage Reduction of XANAX).
+To reduce the risk of withdrawal reactions, use a gradual taper to discontinue XANAX or reduce the dosage (a patient-specific plan should be used to taper the dose) [see Dosage and Administration (2.3)].
 
 Patients at an increased risk of withdrawal adverse reactions after benzodiazepine discontinuation or rapid dosage reduction include those who take higher dosages, and those who have had longer durations of use.
 
-### Acute Withdrawal Reactions
+Acute Withdrawal Reactions
 
 The continued use of benzodiazepines, including XANAX, may lead to clinically significant physical dependence.
-Abrupt discontinuation or rapid dosage reduction of XANAX after continued use, or administration of flumazenil (a benzodiazepine antagonist) may precipitate acute withdrawal reactions, which can be life threatening (e.g., seizures) (see DRUG ABUSE AND DEPENDENCE - Dependence).
+Abrupt discontinuation or rapid dosage reduction of XANAX after continued use, or administration of flumazenil (a benzodiazepine antagonist) may precipitate acute withdrawal reactions, which can be life-threatening (e.g., seizures) [see Drug Abuse and Dependence (9.3)].
 
-### Protracted Withdrawal Syndrome
+Protracted Withdrawal Syndrome
 
-In some cases, benzodiazepine users have developed a protracted withdrawal syndrome with withdrawal symptoms lasting weeks to more than 12 months (see DRUG ABUSE AND DEPENDENCE - Dependence).
+In some cases, benzodiazepine users have developed a protracted withdrawal syndrome with withdrawal symptoms lasting weeks to more than 12 months [see Drug Abuse and Dependence (9.3)].
 
 Certain adverse clinical events, some life-threatening, are a direct consequence of physical dependence to XANAX.
-These include a spectrum of withdrawal symptoms; the most important is seizure (see DRUG ABUSE AND DEPENDENCE).
-Even after relatively short-term use at the doses recommended for the treatment of transient anxiety and anxiety disorder (ie, 0.75 to 4.0 mg per day), there is some risk of dependence.
+These include a spectrum of withdrawal symptoms; the most important is seizure [see Drug Abuse and Dependence (9.3)].
+Even after relatively short-term use at doses of ≤ 4 mg/day, there is some risk of dependence.
 Spontaneous reporting system data suggest that the risk of dependence and its severity appear to be greater in patients treated with doses greater than 4 mg/day and for long periods (more than 12 weeks).
-However, in a controlled postmarketing discontinuation study of panic disorder patients, the duration of treatment (3 months compared to 6 months) had no effect on the ability of patients to taper to zero dose.
+However, in a controlled postmarketing discontinuation study of panic disorder patients who received XANAX, the duration of treatment (3 months compared to 6 months) had no effect on the ability of patients to taper to zero dose.
 In contrast, patients treated with doses of XANAX greater than 4 mg/day had more difficulty tapering to zero dose than those treated with less than 4 mg/day.
-
-#### The importance of dose and the risks of XANAX as a treatment for panic disorder
-
-Because the management of panic disorder often requires the use of average daily doses of XANAX above 4 mg, the risk of dependence among panic disorder patients may be higher than that among those treated for less severe anxiety.
-Experience in randomized placebo-controlled discontinuation studies of patients with panic disorder showed a high rate of rebound and withdrawal symptoms in patients treated with XANAX compared to placebo-treated patients.
-
-Relapse or return of illness was defined as a return of symptoms characteristic of panic disorder (primarily panic attacks) to levels approximately equal to those seen at baseline before active treatment was initiated.
-Rebound refers to a return of symptoms of panic disorder to a level substantially greater in frequency, or more severe in intensity than seen at baseline.
-Withdrawal symptoms were identified as those which were generally not characteristic of panic disorder and which occurred for the first time more frequently during discontinuation than at baseline.
 
 In a controlled clinical trial in which 63 patients were randomized to XANAX and where withdrawal symptoms were specifically sought, the following were identified as symptoms of withdrawal: heightened sensory perception, impaired concentration, dysosmia, clouded sensorium, paresthesias, muscle cramps, muscle twitch, diarrhea, blurred vision, appetite decrease, and weight loss.
 Other symptoms, such as anxiety and insomnia, were frequently seen during discontinuation, but it could not be determined if they were due to return of illness, rebound, or withdrawal.
 
-In two controlled trials of 6 to 8 weeks duration where the ability of patients to discontinue medication was measured, 71%–93% of patients treated with XANAX tapered completely off therapy compared to 89%–96% of placebo-treated patients.
-In a controlled postmarketing discontinuation study of panic disorder patients, the duration of treatment (3 months compared to 6 months) had no effect on the ability of patients to taper to zero dose.
+Interdose Symptoms
 
-Seizures attributable to XANAX were seen after drug discontinuance or dose reduction in 8 of 1980 patients with panic disorder or in patients participating in clinical trials where doses of XANAX greater than 4 mg/day for over 3 months were permitted.
-Five of these cases clearly occurred during abrupt dose reduction, or discontinuation from daily doses of 2 to 10 mg.
-Three cases occurred in situations where there was not a clear relationship to abrupt dose reduction or discontinuation.
-In one instance, seizure occurred after discontinuation from a single dose of 1 mg after tapering at a rate of 1 mg every 3 days from 6 mg daily.
-In two other instances, the relationship to taper is indeterminate; in both of these cases the patients had been receiving doses of 3 mg daily prior to seizure.
-The duration of use in the above 8 cases ranged from 4 to 22 weeks.
-There have been occasional voluntary reports of patients developing seizures while apparently tapering gradually from XANAX.
-The risk of seizure seems to be greatest 24–72 hours after discontinuation (see DOSAGE AND ADMINISTRATION - Discontinuation or Dosage Reduction of XANAX).
-
-## Status Epilepticus and its Treatment
-
-The medical event voluntary reporting system shows that withdrawal seizures have been reported in association with the discontinuation of XANAX.
-In most cases, only a single seizure was reported; however, multiple seizures and status epilepticus were reported as well.
-
-## Interdose Symptoms
-
-Early morning anxiety and emergence of anxiety symptoms between doses of XANAX have been reported in patients with panic disorder taking prescribed maintenance doses of XANAX.
+Early morning anxiety and emergence of anxiety symptoms between doses of XANAX have been reported in patients with panic disorder taking prescribed maintenance doses.
 These symptoms may reflect the development of tolerance or a time interval between doses which is longer than the duration of clinical action of the administered dose.
-In either case, it is presumed that the prescribed dose is not sufficient to maintain plasma levels above those needed to prevent relapse, rebound or withdrawal symptoms over the entire course of the interdosing interval.
-In these situations, it is recommended that the same total daily dose be given divided as more frequent administrations (see DOSAGE AND ADMINISTRATION).
+In either case, it is presumed that the prescribed dose is not sufficient to maintain plasma levels above those needed to prevent relapse, rebound, or withdrawal symptoms over the entire course of the interdosing interval.
 
-## CNS Depression and Impaired Performance
+## 5.4 Effects on Driving and Operating Machinery
 
 Because of its CNS depressant effects, patients receiving XANAX should be cautioned against engaging in hazardous occupations or activities requiring complete mental alertness such as operating machinery or driving a motor vehicle.
-For the same reason, patients should be cautioned about the simultaneous ingestion of alcohol and other CNS depressant drugs during treatment with XANAX.
+For the same reason, patients should be cautioned about the concomitant use of alcohol and other CNS depressant drugs during treatment with XANAX [see Drug Interactions (7.1)].
 
-## Risk of Fetal Harm
+## 5.5 Neonatal Sedation and Withdrawal Syndrome
 
-Benzodiazepines can potentially cause fetal harm when administered to pregnant women.
-If XANAX is used during pregnancy, or if the patient becomes pregnant while taking this drug, the patient should be apprised of the potential hazard to the fetus.
-Because of experience with other members of the benzodiazepine class, XANAX is assumed to be capable of causing an increased risk of congenital abnormalities when administered to a pregnant woman during the first trimester.
-Because use of these drugs is rarely a matter of urgency, their use during the first trimester should almost always be avoided.
-The possibility that a woman of childbearing potential may be pregnant at the time of institution of therapy should be considered.
-Patients should be advised that if they become pregnant during therapy or intend to become pregnant they should communicate with their physicians about the desirability of discontinuing the drug.
+Use of XANAX during later stages of pregnancy can result in sedation (respiratory depression, lethargy, hypotonia) and withdrawal symptoms (hyperreflexia, irritability, restlessness, tremors, inconsolable crying, and feeding difficulties) in the neonate.
+Observe newborns for signs of sedation and neonatal withdrawal syndrome and manage accordingly [see Use in Specific Populations (8.1)].
 
-## Alprazolam Interaction with Drugs that Inhibit Metabolism via Cytochrome P4503A
+## 5.6 Interaction with Drugs that Inhibit Metabolism via Cytochrome P450 3A
 
 The initial step in alprazolam metabolism is hydroxylation catalyzed by cytochrome P450 3A (CYP3A).
 Drugs that inhibit this metabolic pathway may have a profound effect on the clearance of alprazolam.
-Consequently, alprazolam should be avoided in patients receiving very potent inhibitors of CYP3A.
-With drugs inhibiting CYP3A to a lesser but still significant degree, alprazolam should be used only with caution and consideration of appropriate dosage reduction.
-For some drugs, an interaction with alprazolam has been quantified with clinical data; for other drugs, interactions are predicted from in vitro data and/or experience with similar drugs in the same pharmacologic class.
 
-The following are examples of drugs known to inhibit the metabolism of alprazolam and/or related benzodiazepines, presumably through inhibition of CYP3A.
+Strong CYP3A Inhibitors
 
-## Potent CYP3A Inhibitors
+XANAX is contraindicated in patients receiving strong inhibitors of CYP3A (such as azole antifungal agents), except ritonavir [see Contraindications (4)].
+Ketoconazole and itraconazole have been shown in vivo to increase plasma alprazolam concentrations 3.98 fold and 2.70 fold, respectively.
 
-### Azole antifungal agents
+Dosage adjustment is necessary when XANAX and ritonavir are initiated concomitantly or when ritonavir is added to a stable dosage of XANAX [see Dosage and Administration (2.6), Drug Interactions (7.1)].
 
-Ketoconazole and itraconazole are potent CYP3A inhibitors and have been shown in vivo to increase plasma alprazolam concentrations 3.98 fold and 2.70 fold, respectively.
-The coadministration of alprazolam with these agents is not recommended.
-Other azole-type antifungal agents should also be considered potent CYP3A inhibitors and the coadministration of alprazolam with them is not recommended (see CONTRAINDICATIONS).
+Drugs demonstrated to be CYP3A inhibitors on the basis of clinical studies involving alprazolam: nefazodone, fluvoxamine, and cimetidine [see Drug Interaction (7.1), Clinical Pharmacology (12.3)].
+Use caution and consider dose reduction of XANAX, as appropriate, during co-administration with these drugs.
 
-### Drugs demonstrated to be CYP 3A inhibitors on the basis of clinical studies involving alprazolam (caution and consideration of appropriate alprazolam dose reduction are recommended during coadministration with the following drugs)
+## 5.7 Patients with Depression
 
-#### Nefazodone
-
-Coadministration of nefazodone increased alprazolam concentration two-fold.
-
-#### Fluvoxamine
-
-Coadministration of fluvoxamine approximately doubled the maximum plasma concentration of alprazolam, decreased clearance by 49%, increased half-life by 71%, and decreased measured psychomotor performance.
-
-#### Cimetidine
-
-Coadministration of cimetidine increased the maximum plasma concentration of alprazolam by 86%, decreased clearance by 42%, and increased half-life by 16%.
-
-### Other drugs possibly affecting alprazolam metabolism
-
-Other drugs possibly affecting alprazolam metabolism by inhibition of CYP3A are discussed in the PRECAUTIONS section (see PRECAUTIONS–Drug Interactions).
-
-# PRECAUTIONS
-
-## General
-
-### Suicide
-
-As with other psychotropic medications, the usual precautions with respect to administration of the drug and size of the prescription are indicated for severely depressed patients or those in whom there is reason to expect concealed suicidal ideation or plans.
+Benzodiazepines may worsen depression.
 Panic disorder has been associated with primary and secondary major depressive disorders and increased reports of suicide among untreated patients.
+Consequently, appropriate precautions (e.g., limiting the total prescription size and increased monitoring for suicidal ideation) should be considered in patients with depression.
 
-### Mania
+## 5.8 Mania
 
-Episodes of hypomania and mania have been reported in association with the use of XANAX in patients with depression.
+Episodes of hypomania and mania have been reported in association with the use of XANAX in patients with depression [see Adverse Reactions (6.2)].
 
-### Uricosuric Effect
+## 5.9 Risk in Patients with Impaired Respiratory Function
 
-Alprazolam has a weak uricosuric effect.
-Although other medications with weak uricosuric effect have been reported to cause acute renal failure, there have been no reported instances of acute renal failure attributable to therapy with XANAX.
-
-### Use in Patients with Concomitant Illness
-
-It is recommended that the dosage be limited to the smallest effective dose to preclude the development of ataxia or oversedation which may be a particular problem in elderly or debilitated patients (see DOSAGE AND ADMINISTRATION).
-The usual precautions in treating patients with impaired renal, hepatic or pulmonary function should be observed.
-There have been rare reports of death in patients with severe pulmonary disease shortly after the initiation of treatment with XANAX.
-A decreased systemic alprazolam elimination rate (eg, increased plasma half-life) has been observed in both alcoholic liver disease patients and obese patients receiving XANAX (see CLINICAL PHARMACOLOGY).
-
-## Information for Patients
-
-Advise the patient to read the FDA-approved patient labeling (Medication Guide).
-
-### Risks from Concomitant Use with Opioids
-
-Advise the patient to read the FDA-approved patient labeling (Medication Guide).
-
-### Risks from Concomitant Use with Opioids
-
-Advise both patients and caregivers about the risks of potentially fatal respiratory depression and sedation when XANAX is used with opioids and not to use such drugs concomitantly unless supervised by a health care provider.
-Advise patients not to drive or operate heavy machinery until the effects of concomitant use with the opioid have been determined (see PRECAUTIONS - Drug Interactions).
-
-### Abuse, Misuse, and Addiction
-
-Inform patients that the use of XANAX, even at recommended dosages, exposes users to risks of abuse misuseand addiction, which can lead to overdose and death, especially when used in combination with other medications (e.g., opioid analgesics), alcohol, and/or illicit substances.
-Inform patients about the signs and symptoms of benzodiazepine abuse, misuse, and addiction; to seek medical help if they develop these signs and/or symptoms; and on the proper disposal of unused drug (see WARNINGS - Abuse, Misuse, and Addiction and DRUG ABUSE AND DEPENDENCE).
-
-### Withdrawal Reactions
-
-Inform patients that the continued use of XANAX may lead to clinically significant physical dependence and that abrupt discontinuation or rapid dosage reduction of XANAX may precipitate acute withdrawal reactions, which can be life-threatening.
-Inform patients that in some cases, patients taking benzodiazepines have developed a protracted withdrawal syndrome with withdrawal symptoms lasting weeks to more than 12 months.
-Instruct patients that discontinuation or dosage reduction of XANAX may require a slow taper (see WARNINGS - Drug Abuse and Dependence and DRUG ABUSE AND DEPENDENCE).
-
-Inform your physician about any alcohol consumption and medicine you are taking now, including medication you may buy without a prescription.
-Alcohol should generally not be used during treatment with benzodiazepines.
-
-Not recommended for use in pregnancy.
-Therefore, inform your physician if you are pregnant, if you are planning to have a child, or if you become pregnant while you are taking this medication.
-Inform your physician if you are nursing.
-
-Until you experience how this medication affects you, do not drive a car or operate potentially dangerous machinery, etc.
-
-## Laboratory Tests
-
-Laboratory tests are not ordinarily required in otherwise healthy patients.
-However, when treatment is protracted, periodic blood counts, urinalysis, and blood chemistry analyses are advisable in keeping with good medical practice.
-
-## Drug Interactions
-
-### Use with Opioids
-
-The concomitant use of benzodiazepines and opioids increases the risk of respiratory depression because of actions at different receptor sites in the CNS that control respiration.
-Benzodiazepines interact at GABAA sites and opioids interact primarily at mu receptors.
-When benzodiazepines and opioids are combined, the potential for benzodiazepines to significantly worsen opioid-related respiratory depression exists.
-Limit dosage and duration of concomitant use of benzodiazepines and opioids, and monitor patients closely for respiratory depression and sedation.
-
-### Use with Other CNS Depressants
-
-If XANAX Tablets are to be combined with other psychotropic agents or anticonvulsant drugs, careful consideration should be given to the pharmacology of the agents to be employed, particularly with compounds which might potentiate the action of benzodiazepines.
-The benzodiazepines, including alprazolam, produce additive CNS depressant effects when co-administered with other psychotropic medications, anticonvulsants, antihistaminics, ethanol and other drugs which themselves produce CNS depression.
-
-### Use with Imipramine and Desipramine
-
-The steady state plasma concentrations of imipramine and desipramine have been reported to be increased an average of 31% and 20%, respectively, by the concomitant administration of XANAX Tablets in doses up to 4 mg/day.
-The clinical significance of these changes is unknown.
-
-### Drugs that inhibit alprazolam metabolism via cytochrome P450 3A
-
-The initial step in alprazolam metabolism is hydroxylation catalyzed by cytochrome P450 3A (CYP3A).
-Drugs which inhibit this metabolic pathway may have a profound effect on the clearance of alprazolam (see CONTRAINDICATIONS and WARNINGS for additional drugs of this type).
-
-### Drugs demonstrated to be CYP3A inhibitors of possible clinical significance on the basis of clinical studies involving alprazolam (caution is recommended during coadministration with alprazolam)
-
-#### Fluoxetine
-
-Coadministration of fluoxetine with alprazolam increased the maximum plasma concentration of alprazolam by 46%, decreased clearance by 21%, increased half-life by 17%, and decreased measured psychomotor performance.
-
-#### Propoxyphene
-
-Coadministration of propoxyphene decreased the maximum plasma concentration of alprazolam by 6%, decreased clearance by 38%, and increased half-life by 58%.
-
-#### Oral Contraceptives
-
-Coadministration of oral contraceptives increased the maximum plasma concentration of alprazolam by 18%, decreased clearance by 22%, and increased half-life by 29%.
-
-### Drugs and other substances demonstrated to be CYP 3A inhibitors on the basis of clinical studies involving benzodiazepines metabolized similarly to alprazolam or on the basis of in vitro studies with alprazolam or other benzodiazepines (caution is recommended during coadministration with alprazolam)
-
-Available data from clinical studies of benzodiazepines other than alprazolam suggest a possible drug interaction with alprazolam for the following: diltiazem, isoniazid, macrolide antibiotics such as erythromycin and clarithromycin, and grapefruit juice.
-Data from in vitro studies of alprazolam suggest a possible drug interaction with alprazolam for the following: sertraline and paroxetine.
-However, data from an in vivo drug interaction study involving a single dose of alprazolam 1 mg and steady state dose of sertraline (50 to 150 mg/day) did not reveal any clinically significant changes in the pharmacokinetics of alprazolam.
-Data from in vitro studies of benzodiazepines other than alprazolam suggest a possible drug interaction for the following: ergotamine, cyclosporine, amiodarone, nicardipine, and nifedipine.
-Caution is recommended during the coadministration of any of these with alprazolam (see WARNINGS).
-
-### Drugs demonstrated to be inducers of CYP3A
-
-Carbamazepine can increase alprazolam metabolism and therefore can decrease plasma levels of alprazolam.
-
-## Drug/Laboratory Test Interactions
-
-Although interactions between benzodiazepines and commonly employed clinical laboratory tests have occasionally been reported, there is no consistent pattern for a specific drug or specific test.
-
-## Carcinogenesis, Mutagenesis, Impairment of Fertility
-
-No evidence of carcinogenic potential was observed during 2-year bioassay studies of alprazolam in rats at doses up to 30 mg/kg/day (150 times the maximum recommended daily human dose of 10 mg/day) and in mice at doses up to 10 mg/kg/day (50 times the maximum recommended daily human dose).
-
-Alprazolam was not mutagenic in the rat micronucleus test at doses up to 100 mg/kg, which is 500 times the maximum recommended daily human dose of 10 mg/day.
-Alprazolam also was not mutagenic in vitro in the DNA Damage/Alkaline Elution Assay or the Ames Assay.
-
-Alprazolam produced no impairment of fertility in rats at doses up to 5 mg/kg/day, which is 25 times the maximum recommended daily human dose of 10 mg/day.
-
-## Pregnancy
-
-### Teratogenic Effects
-
-#### Pregnancy Category D
-
-(See WARNINGS section).
-
-### Nonteratogenic Effects
-
-It should be considered that the child born of a mother who is receiving benzodiazepines may be at some risk for withdrawal symptoms from the drug during the postnatal period.
-Also, neonatal flaccidity and respiratory problems have been reported in children born of mothers who have been receiving benzodiazepines.
-
-## Labor and Delivery
-
-XANAX has no established use in labor or delivery.
-
-## Nursing Mothers
-
-Benzodiazepines are known to be excreted in human milk.
-It should be assumed that alprazolam is as well.
-Chronic administration of diazepam to nursing mothers has been reported to cause their infants to become lethargic and to lose weight.
-As a general rule, nursing should not be undertaken by mothers who must use XANAX.
-
-## Pediatric Use
-
-Safety and effectiveness of XANAX in individuals below 18 years of age have not been established.
-
-## Geriatric Use
-
-The elderly may be more sensitive to the effects of benzodiazepines.
-They exhibit higher plasma alprazolam concentrations due to reduced clearance of the drug as compared with a younger population receiving the same doses.
-The smallest effective dose of XANAX should be used in the elderly to preclude the development of ataxia and oversedation (see CLINICAL PHARMACOLOGY and DOSAGE AND ADMINISTRATION).
+There have been reports of death in patients with severe pulmonary disease shortly after the initiation of treatment with XANAX.
+Closely monitor patients with impaired respiratory function.
+If signs and symptoms of respiratory depression, hypoventilation, or apnea occur, discontinue XANAX.
