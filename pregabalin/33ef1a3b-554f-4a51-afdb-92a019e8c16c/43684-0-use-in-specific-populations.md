@@ -91,6 +91,11 @@ Fibromyalgia
 
 Safety and effectiveness in pediatric patients have not been established.
 
+A 15-week, placebo-controlled trial was conducted with 107 pediatric patients with fibromyalgia, ages 12 through 17 years, at pregabalin total daily doses of 75 mg to 450 mg per day.
+The primary efficacy endpoint of change from baseline to Week 15 in mean pain intensity (derived from an 11-point numeric rating scale) showed numerically greater improvement for the pregabalin-treated patients compared to placebo-treated patients, but did not reach statistical significance.
+The most frequently observed adverse reactions in the clinical trial included dizziness, nausea, headache, weight increased, and fatigue.
+The overall safety profile in adolescents was similar to that observed in adults with fibromyalgia.
+
 Adjunctive Therapy for Partial-Onset Seizures
 
 Safety and effectiveness in pediatric patients below the age of 1 month have not been established.

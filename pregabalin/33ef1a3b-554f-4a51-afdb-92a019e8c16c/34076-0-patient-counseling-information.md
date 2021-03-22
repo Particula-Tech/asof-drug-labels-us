@@ -81,4 +81,4 @@ Some animals treated with pregabalin developed skin ulcerations, although no inc
 Manufactured by: ScieGen Pharmaceuticals, Inc. Hauppauge, NY 11788
 
 Rev.
-05/20
+1/2021
