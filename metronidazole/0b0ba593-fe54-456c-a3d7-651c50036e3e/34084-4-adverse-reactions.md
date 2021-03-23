@@ -50,7 +50,8 @@ Dermatologic: Erythematous rash and pruritus.
 
 Hematopoietic: Reversible neutropenia (leukopenia); rarely, reversible thrombocytopenia.
 
-Cardiovascular: Flattening of the T-wave may be seen in electrocardiographic tracings.
+Cardiovascular: QT prolongation has been reported, particularly when metronidazole was administered with drugs with the potential for prolonging the QT interval.
+Flattening of the T-wave may be seen in electrocardiographic tracings.
 
 Hypersensitivity: Urticaria, erythematous rash, Stevens-Johnson Syndrome, toxic epidermal necrolysis, flushing, nasal congestion, dryness of the mouth (or vagina or vulva), and fever.
 

@@ -109,6 +109,10 @@ The simultaneous administration of drugs that decrease microsomal liver enzyme a
 
 The simultaneous administration of drugs that induce microsomal liver enzymes, such as phenytoin or phenobarbital, may accelerate the elimination of metronidazole, resulting in reduced plasma levels; impaired clearance of phenytoin has been reported.
 
+### Drugs that Prolong the QT interval
+
+QT prolongation has been reported, particularly when metronidazole was administered with drugs with the potential for prolonging the QT interval.
+
 ## Drug/Laboratory Test Interactions
 
 Metronidazole may interfere with certain types of determinations of serum chemistry values, such as aspartate aminotransferase (AST, SGOT), alanine aminotransferase (ALT, SGPT), lactate dehydrogenase (LDH), triglycerides, and glucose hexokinase.
