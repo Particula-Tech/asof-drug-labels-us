@@ -133,7 +133,7 @@ Inform patients about the signs and symptoms of serious skin reactions, and to d
 
 Indomethacin capsules are contraindicated in patients with previous serious skin reactions to NSAIDs [see Contraindications (4)].
 
-## 5.10 Drug Rash with Eosinophilia and Systemic Symptoms (DRESS)
+## 5.10 Drug Reaction with Eosinophilia and Systemic Symptoms (DRESS)
 
 Drug Reaction with Eosinophilia and Systemic Symptoms (DRESS) has been reported in patients taking NSAIDs such as indomethacin.
 Some of these events have been fatal or life-threatening.
