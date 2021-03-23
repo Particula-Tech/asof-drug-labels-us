@@ -4,12 +4,12 @@
 
 Because of the risk of acute bronchospasm, AFREZZA is contraindicated in patients with chronic lung disease such as asthma or COPD [see Contraindications (4)].
 
-Before initiating therapy with AFREZZA, evaluate all patients with a medical history, physical examination and spirometry (FEV1) to identify potential underlying lung disease.
+Before initiating therapy with AFREZZA, evaluate all patients with a medical history, physical examination and spirometry (FEV 1) to identify potential underlying lung disease.
 
 Acute bronchospasm has been observed following AFREZZA dosing in patients with asthma and patients with COPD.
 In a study of patients with asthma, bronchoconstriction and wheezing following AFREZZA dosing was reported in 29% (5 out of 17) and 0% (0 out of 13) of patients with and without a diagnosis of asthma, respectively.
-In this study, a mean decline in FEV1 of 400 mL was observed 15 minutes after a single dose in patients with asthma.
-In a study of patients with COPD (n=8), a mean decline in FEV1 of 200 mL was observed 18 minutes after a single dose of AFREZZA.
+In this study, a mean decline in FEV 1 of 400 mL was observed 15 minutes after a single dose in patients with asthma.
+In a study of patients with COPD (n=8), a mean decline in FEV 1 of 200 mL was observed 18 minutes after a single dose of AFREZZA.
 The long-term safety and efficacy of AFREZZA in patients with chronic lung disease have not been established.
 
 ## 5.2 Changes in Insulin Regimen
@@ -40,16 +40,16 @@ In patients at higher risk for hypoglycemia and patients who have reduced sympto
 
 ## 5.4 Decline in Pulmonary Function
 
-AFREZZA causes a decline in lung function over time as measured by FEV1.
-In clinical trials excluding patients with chronic lung disease and lasting up to 2 years, AFREZZA-treated patients experienced a small [40 mL (95% CI: -80, -1)] but greater FEV1 decline than comparator-treated patients.
-The FEV1 decline was noted within the first 3 months, and persisted for the entire duration of therapy (up to 2 years of observation).
-In this population, the annual rate of FEV1 decline did not appear to worsen with increased duration of use.
+AFREZZA causes a decline in lung function over time as measured by FEV 1.
+In clinical trials excluding patients with chronic lung disease and lasting up to 2 years, AFREZZA-treated patients experienced a small [40 mL (95% CI: -80, -1)] but greater FEV 1 decline than comparator-treated patients.
+The FEV 1 decline was noted within the first 3 months, and persisted for the entire duration of therapy (up to 2 years of observation).
+In this population, the annual rate of FEV 1 decline did not appear to worsen with increased duration of use.
 The effects of AFREZZA on pulmonary function for treatment duration longer than 2 years has not been established.
-There are insufficient data in long term studies to draw conclusions regarding reversal of the effect on FEV1 after discontinuation of AFREZZA.
-The observed changes in FEV1 were similar in patients with type 1 and type 2 diabetes.
+There are insufficient data in long term studies to draw conclusions regarding reversal of the effect on FEV 1 after discontinuation of AFREZZA.
+The observed changes in FEV 1 were similar in patients with type 1 and type 2 diabetes.
 
 Assess pulmonary function (e.g., spirometry) at baseline, after the first 6 months of therapy, and annually thereafter, even in the absence of pulmonary symptoms.
-In patients who have a decline of ≥ 20% in FEV1 from baseline, consider discontinuing AFREZZA.
+In patients who have a decline of ≥ 20% in FEV 1 from baseline, consider discontinuing AFREZZA.
 Consider more frequent monitoring of pulmonary function in patients with pulmonary symptoms such as wheezing, bronchospasm, breathing difficulties, or persistent or recurring cough.
 If symptoms persist, discontinue AFREZZA [see Adverse Reactions (6)].
 

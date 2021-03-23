@@ -82,12 +82,12 @@ In clinical trials, cough was the most common reason for discontinuation of AFRE
 
 Pulmonary Function Decline
 
-In clinical trials lasting up to 2 years, excluding patients with chronic lung disease, patients treated with AFREZZA had a 40 mL (95% CI: -80, -1) greater decline from baseline in forced expiratory volume in one second (FEV1) compared to patients treated with comparator anti-diabetes treatments.
+In clinical trials lasting up to 2 years, excluding patients with chronic lung disease, patients treated with AFREZZA had a 40 mL (95% CI: -80, -1) greater decline from baseline in forced expiratory volume in one second (FEV 1) compared to patients treated with comparator anti-diabetes treatments.
 The decline occurred during the first 3 months of therapy and persisted over 2 years (Figure 2).
-A decline in FEV1 of ≥ 15% occurred in 6% of AFREZZA-treated subjects compared to 3% of comparator-treated subjects.
+A decline in FEV 1 of ≥ 15% occurred in 6% of AFREZZA-treated subjects compared to 3% of comparator-treated subjects.
 
 Figure 2.
-Mean (+/-SE) Change in FEV1 (Liters) from Baseline for Type 1 and Type 2 Diabetes Patients
+Mean (+/-SE) Change in FEV 1 (Liters) from Baseline for Type 1 and Type 2 Diabetes Patients
 
 Weight Gain
 

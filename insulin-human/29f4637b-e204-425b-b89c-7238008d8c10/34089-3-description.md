@@ -5,7 +5,7 @@
 AFREZZA consists of single-use plastic cartridges filled with a white powder containing insulin (human), which is administered via oral inhalation using the AFREZZA Inhaler only.
 
 AFREZZA cartridges contain human insulin produced by recombinant DNA technology utilizing a non-pathogenic laboratory strain of Escherichia coli (K12).
-Chemically, human insulin has the empirical formula C257H383N65O77S6 and a molecular weight of 5808.
+Chemically, human insulin has the empirical formula C 257H 383N 65O 77S 6 and a molecular weight of 5808.
 Human insulin has the following primary amino acid sequence:
 
 Insulin is adsorbed onto carrier particles consisting of fumaryl diketopiperazine (FDKP) and polysorbate 80.

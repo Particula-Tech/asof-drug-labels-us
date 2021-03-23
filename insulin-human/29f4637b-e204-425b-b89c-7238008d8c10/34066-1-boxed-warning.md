@@ -2,4 +2,4 @@
 
 - Acute bronchospasm has been observed in patients with asthma and COPD using AFREZZA [see Warnings and Precautions (5.1)].
 - AFREZZA is contraindicated in patients with chronic lung disease such as asthma or COPD [see Contraindications (4)].
-- Before initiating AFREZZA, perform a detailed medical history, physical examination, and spirometry (FEV1) to identify potential lung disease in all patients [see Dosage and Administration (2.5), Warnings and Precautions (5.1)].
+- Before initiating AFREZZA, perform a detailed medical history, physical examination, and spirometry (FEV 1) to identify potential lung disease in all patients [see Dosage and Administration (2.5), Warnings and Precautions (5.1)].

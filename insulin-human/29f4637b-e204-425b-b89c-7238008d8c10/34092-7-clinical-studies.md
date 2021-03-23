@@ -21,12 +21,12 @@ Results at Week 24 in an Active-Controlled Study of Mealtime AFREZZA plus Basal 
 
 | Efficacy Parameter | AFREZZA + Basal Insulin (N=174) | Insulin Aspart + Basal Insulin (N=170) |
 | --- | --- | --- |
-| HbA1c (%) |  |  |
-| Baseline (adjusted meanAdjusted mean was obtained using a Mixed Model Repeated Measures (MMRM) approach with HbA1c or FPG as the dependent variable and treatment, visit, region, basal insulin stratum, and treatment by visit interaction as fixed factors, and corresponding baseline as a covariate. An autoregression (1) [AR(1)] covariance structure was used.) | 7.94 | 7.92 |
+| HbA 1c (%) |  |  |
+| Baseline (adjusted mean Adjusted mean was obtained using a Mixed Model Repeated Measures (MMRM) approach with HbA1c or FPG as the dependent variable and treatment, visit, region, basal insulin stratum, and treatment by visit interaction as fixed factors, and corresponding baseline as a covariate. An autoregression (1) [AR(1)] covariance structure was used.) | 7.94 | 7.92 |
 | Change from baseline (adjusted mean,Data at 24 weeks were available from 131 (75 %) and 150 (88%) subjects randomized to the AFREZZA and insulin aspart groups, respectively.) | -0.21 | -0.40 |
 | Difference from insulin aspart (adjusted mean,) | 0.19 |  |
 | (95% CI) | (0.02, 0.36) |  |
-| Percentage of patients achieving HbA1c ≤ 7%The percentage was calculated based on the number of patients randomized to the trial. | 13.8 | 27.1 |
+| Percentage of patients achieving HbA1c ≤ 7% The percentage was calculated based on the number of patients randomized to the trial. | 13.8 | 27.1 |
 | Fasting Plasma Glucose (mg/dL) |  |  |
 | Baseline (adjusted mean) | 153.9 | 151.6 |
 | Change from baseline (adjusted mean,) | -25.3 | 10.2 |
@@ -46,11 +46,11 @@ Results at Week 24 in a Placebo-Controlled Study of AFREZZA in Adults with Type 
 
 | Efficacy Parameter | AFREZZA + Oral Anti-Diabetic Agents (N=177) | Placebo + Oral Anti-Diabetic Agents (N=176) |
 | --- | --- | --- |
-| HbA1c (%) |  |  |
-| Baseline (adjusted meanAdjusted mean was obtained using a Mixed Model Repeated Measures (MMRM) approach with HbA1c or FPG as the dependent variable and treatment, visit, region, and treatment by visit interaction as fixed factors, and corresponding baseline as a covariate. An autoregression (1) [AR(1)] covariance structure was used.) | 8.25 | 8.27 |
+| HbA 1c (%) |  |  |
+| Baseline (adjusted mean Adjusted mean was obtained using a Mixed Model Repeated Measures (MMRM) approach with HbA1c or FPG as the dependent variable and treatment, visit, region, and treatment by visit interaction as fixed factors, and corresponding baseline as a covariate. An autoregression (1) [AR(1)] covariance structure was used.) | 8.25 | 8.27 |
 | Change from baseline (adjusted mean,Data at 24 weeks without rescue therapy were available from 139 (79%) and 129 (73%) subjects randomized to the AFREZZA and placebo groups, respectively.) | -0.82 | -0.42 |
 | Difference from placebo (adjusted mean,) (95% CI) | -0.40 (-0.57, -0.23) |  |
-| Percentage (%) of patients achieving HbA1C ≤7%The percentage was calculated based on the number of patients randomized to the trial. | 32.2 | 15.3 |
+| Percentage (%) of patients achieving HbA 1C ≤7% The percentage was calculated based on the number of patients randomized to the trial. | 32.2 | 15.3 |
 | Fasting Plasma Glucose (mg/dL) |  |  |
 | Baseline (adjusted mean) | 175.9 | 175.2 |
 | Change from baseline (adjusted mean,) | -11.2 | -3.8 |

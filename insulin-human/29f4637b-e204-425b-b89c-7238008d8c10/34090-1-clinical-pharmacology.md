@@ -24,7 +24,7 @@ Mean Insulin Effect (Baseline-Corrected Glucose Infusion Rate; A) and Pharmacoki
 
 On average, the pharmacodynamics effect of AFREZZA, measured as area under the glucose infusion rate – time curve (AUC GIR) increased linearly with doses up to 48 units (106, 387, and 1581 mg/kg for 4, 12, and 48 units doses, respectively).
 
-Intrapatient variability in AUC GIR and GIRmax is approximately 28% (95% CI 21-42%) and 27% (95% CI 20-40%), respectively.
+Intrapatient variability in AUC GIR and GIR max is approximately 28% (95% CI 21-42%) and 27% (95% CI 20-40%), respectively.
 
 ## 12.3 Pharmacokinetics
 
@@ -40,7 +40,7 @@ Systemic insulin disposition (apparent terminal half-life) following oral inhala
 
 Variability
 
-Intrapatient variability in insulin exposure measured by AUC and Cmax is approximately 16% (95% CI 12-23%) and 21% (95% CI 16-30%), respectively.
+Intrapatient variability in insulin exposure measured by AUC and C max is approximately 16% (95% CI 12-23%) and 21% (95% CI 16-30%), respectively.
 
 Metabolism and Elimination
 

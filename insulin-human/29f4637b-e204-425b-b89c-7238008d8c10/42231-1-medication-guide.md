@@ -70,7 +70,7 @@ What are the possible side effects of AFREZZA?
 
 AFREZZA may cause serious side effects that can lead to death, including:
 
-See "What is the most important information I should know about AFREZZA?"
+See " What is the most important information I should know about AFREZZA?"
 
 - Low blood sugar (hypoglycemia).
   Signs and symptoms that may indicate low blood sugar include:
@@ -92,7 +92,7 @@ See "What is the most important information I should know about AFREZZA?"
   This can happen even if you have never had heart failure or heart problems before.
   If you already have heart failure it may get worse while you take TZDs with AFREZZA.
   Your healthcare provider should monitor you closely while you are taking TZDs with AFREZZA.
-  Tell your healthcare provider if you have any new or worse symptoms of heart failure including:Treatment with TZDs and AFREZZA may need to be changed or stopped by your healthcare provider if you have new or worse heart failure.
+  Tell your healthcare provider if you have any new or worse symptoms of heart failure including: Treatment with TZDs and AFREZZA may need to be changed or stopped by your healthcare provider if you have new or worse heart failure.
   - Shortness of breath, swelling of your ankles or feet, sudden weight gain.
 
 Get emergency medical help if you have:
@@ -124,7 +124,7 @@ Active ingredient: human insulin
 
 Inactive ingredients: fumaryl diketopiperazine, polysorbate 80
 
-AFREZZA® is a registered trademark of MannKind Corporation
+AFREZZA ® is a registered trademark of MannKind Corporation
 
 Patented.
 See http://mannkindcorp.com/patent-notices

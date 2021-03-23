@@ -1,6 +1,6 @@
 # 1 INDICATIONS AND USAGE
 
-AFREZZA® is a rapid acting inhaled insulin indicated to improve glycemic control in adult patients with diabetes mellitus.
+AFREZZA ® is a rapid acting inhaled insulin indicated to improve glycemic control in adult patients with diabetes mellitus.
 
 Limitations of Use
 

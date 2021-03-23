@@ -45,7 +45,7 @@ Dosage adjustment may be needed when AFREZZA is coadministered with certain drug
 ## 2.5 Lung Function Assessment Prior to Administration
 
 AFREZZA is contraindicated in patients with chronic lung disease because of the risk of acute bronchospasm in these patients.
-Before initiating AFREZZA, perform a medical history, physical examination and spirometry (FEV1) in all patients to identify potential lung disease [see Contraindications (4) and Warnings and Precautions (5.1)].
+Before initiating AFREZZA, perform a medical history, physical examination and spirometry (FEV 1) in all patients to identify potential lung disease [see Contraindications (4) and Warnings and Precautions (5.1)].
 
 ## 2.6 Important Administration Instructions
 

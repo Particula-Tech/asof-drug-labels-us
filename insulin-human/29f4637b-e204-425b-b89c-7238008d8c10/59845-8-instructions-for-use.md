@@ -28,15 +28,15 @@ Important information about AFREZZA:
 
 If you are having problems with your AFREZZA inhaler or if it breaks and you need a new one, call 1-877-323-8505.
 
-Know your AFREZZA® inhaler:
+Know your AFREZZA ® inhaler:
 
-Know your AFREZZA® cartridges:
+Know your AFREZZA ® cartridges:
 
 | How to take your dose of AFREZZA: Always be sure you have the right number of AFREZZA cartridges for your dose available before you start. AFREZZA cartridges must only be used with the AFREZZA Inhaler. |  |  |
 | --- | --- | --- |
 | Step 1: Select the AFREZZA cartridges for your dose |  |  |
-| If your prescribed AFREZZA® dose is more than 12 units you will need to use more than 1 cartridge to get your right dose. |  |  |
-| Use the dosage chart below to determine the least number of AFREZZA® cartridges you can use for your dose. Other cartridge combinations can be used.(Figure B) |  |  |
+| If your prescribed AFREZZA ® dose is more than 12 units you will need to use more than 1 cartridge to get your right dose. |  |  |
+| Use the dosage chart below to determine the least number of AFREZZA ® cartridges you can use for your dose. Other cartridge combinations can be used. (Figure B) |  |  |
 | Example: |  |  |
 | Select CartridgesImportant: Use the AFREZZA dose chart above (See Figure B) to help you choose the right number of AFREZZA cartridges needed for your dose. |  |  |
 |  | Open Packages Remove a blister card from the foil package. Tear along perforation to remove one strip. |  |
@@ -55,7 +55,7 @@ Know your AFREZZA® cartridges:
 |  | Remove the Mouthpiece CoverImportant: Keep the inhaler level during and after removal of the purple mouthpiece cover. |  |
 |  | ExhaleHold the inhaler away from your mouth and fully blow out (exhale). |  |
 |  | Position Inhaler in MouthKeeping your head level, place the mouthpiece in your mouth and tilt the inhaler down towards your chin, as shown.Close your lips around the mouthpiece to form a seal.Tilt the inhaler downward while keeping your head level. |  |
-|  | Inhale Deeply and Hold BreathWith your mouth closed around the mouthpiece, inhale deeply through the inhaler.Hold your breath for as long as comfortable and at the same time remove the inhaler from your mouth. After holding your breath, exhale and continue to breathe normally. |  |
+|  | Inhale Deeply and Hold BreathWith your mouth closed around the mouthpiece, inhale deeply through the inhaler. Hold your breath for as long as comfortable and at the same time remove the inhaler from your mouth. After holding your breath, exhale and continue to breathe normally. |  |
 
 | Step 4: Removing a used cartridge |  |  |
 | --- | --- | --- |
@@ -79,11 +79,11 @@ Know your AFREZZA® cartridges:
 
 | Switching between AFREZZA and injected insulin: |  |
 | --- | --- |
-|  | Contact your healthcare provider before switching insulins. AFREZZA® is a mealtime insulin. Do not switch from AFREZZA to a long acting insulin. Do not switch from a long acting insulin to AFREZZA®. |
+|  | Contact your healthcare provider before switching insulins. AFREZZA ® is a mealtime insulin. Do not switch from AFREZZA to a long acting insulin. Do not switch from a long acting insulin to AFREZZA ®. |
 
 This Instructions for Use has been approved by the U.S. Food and Drug Administration.
 
-AFREZZA® is a registered trademark of MannKind Corporation
+AFREZZA ® is a registered trademark of MannKind Corporation
 
 Patented.
 See http://www.mannkindcorp.com/patent-notices

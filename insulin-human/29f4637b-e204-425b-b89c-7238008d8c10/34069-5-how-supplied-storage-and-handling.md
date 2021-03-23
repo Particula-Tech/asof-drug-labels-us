@@ -7,7 +7,7 @@ For convenience, the perforation allows users to remove a single strip containin
 Two cards of the same cartridge strength are packaged in a foil laminate overwrap (30 cartridges per foil package).
 
 The cartridges are color-coded, blue for 4 units, green for 8 units and yellow for 12 units.
-Each cartridge is marked with "afrezza" and "4 units", "8 units" or "12 units".
+Each cartridge is marked with " afrezza" and "4 units", "8 units" or "12 units".
 
 The AFREZZA Inhaler is individually packaged in a clear overwrap.
 The inhaler is fully assembled with a removable mouthpiece cover.
@@ -27,7 +27,7 @@ Storage
 
 Not in Use: Refrigerated Storage 2–8ºC (36–46ºF)
 
-| Sealed (Unopened) Foil Package | May be stored until the Expiration DateIf a foil package, blister card or strip is not refrigerated, the contents must be used within 10 days. |
+| Sealed (Unopened) Foil Package | May be stored until the Expiration Date If a foil package, blister card or strip is not refrigerated, the contents must be used within 10 days. |
 | --- | --- |
 | Sealed (Unopened) Blister Cards + Strips | Must be used within 1 month |
 

@@ -32,9 +32,9 @@ Animal Data
 
 In pregnant rats given subcutaneous doses of 10, 30, and 100 mg/kg/day of carrier particles (vehicle without insulin) from gestation day 6 through 17 (organogenesis), no major malformations were observed at up to 100 mg/kg/day (a systemic exposure 14-21 times the human systemic exposure, resulting from the maximum recommended daily dose of 99 mg AFREZZA based on AUC).
 
-In pregnant rabbits given subcutaneousdoses of 2, 10, and 100 mg/kg/day of carrier particles (vehicle without insulin) from gestation day 7 through 19 (organogenesis), adverse maternal effects were observed at all dose groups (at human systemic exposure following a 99 mg AFREZZA dose, based on AUC).
+In pregnant rabbits given subcutaneous doses of 2, 10, and 100 mg/kg/day of carrier particles (vehicle without insulin) from gestation day 7 through 19 (organogenesis), adverse maternal effects were observed at all dose groups (at human systemic exposure following a 99 mg AFREZZA dose, based on AUC).
 
-In pregnant rats given subcutaneous doses of 10, 30, and 100 mg/kg/day of carrier particles (vehicle without insulin) from gestation day 7 through lactation day 20 (weaning), decreased epididymis and testes weights, however, no decrease in fertility was noted, and impaired learning were observed in pups at ≥30 mg/kg/day (a systemic exposure 6 times human systemic exposure at the maximum daily AFREZZAdose of 99 mg based on AUC).
+In pregnant rats given subcutaneous doses of 10, 30, and 100 mg/kg/day of carrier particles (vehicle without insulin) from gestation day 7 through lactation day 20 (weaning), decreased epididymis and testes weights, however, no decrease in fertility was noted, and impaired learning were observed in pups at ≥30 mg/kg/day (a systemic exposure 6 times human systemic exposure at the maximum daily AFREZZA dose of 99 mg based on AUC).
 
 ## 8.2 Lactation
 
