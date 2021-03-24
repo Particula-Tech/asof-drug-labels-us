@@ -6,7 +6,6 @@ Isatuximab-irfc is an IgG1-derived monoclonal antibody that binds to CD38 expres
 Isatuximab-irfc induces apoptosis of tumor cells and activation of immune effector mechanisms including antibody-dependent cell-mediated cytotoxicity (ADCC), antibody-dependent cellular phagocytosis (ADCP), and complement dependent cytotoxicity (CDC).
 Isatuximab-irfc inhibits the ADP-ribosyl cyclase activity of CD38.
 Isatuximab-irfc can activate natural killer (NK) cells in the absence of CD38-positive target tumor cells and suppresses CD38-positive T-regulatory cells.
-
 The combination of isatuximab-irfc and pomalidomide enhanced ADCC activity and direct tumor cell killing compared to that of isatuximab-irfc alone in vitro, and enhanced antitumor activity compared to the activity of isatuximab-irfc or pomalidomide alone in a human multiple myeloma xenograft model.
 
 ## 12.2 Pharmacodynamics
@@ -23,7 +22,7 @@ No apparent relationship was observed between an increase of isatuximab-irfc exp
 
 ## 12.3 Pharmacokinetics
 
-Following the administration of isatuximab-irfc at the recommended dose and schedule, the steady state isatuximab-irfc mean (CV %) predicted maximum plasma concentration (Cmax) was 351 µg/mL (36.0%) and area under the plasma concentration-time curve (AUC) was 72,600 µg∙h/mL (51.7%).
+Following the administration of isatuximab-irfc at the recommended dose and schedule, the steady state isatuximab-irfc mean (CV%) predicted maximum plasma concentration (Cmax) was 351 µg/mL (36.0%) and area under the plasma concentration-time curve (AUC) was 72,600 µg∙h/mL (51.7%).
 The median time to reach steady state of isatuximab-irfc was 8 weeks with a 3.1-fold accumulation.
 
 Isatuximab-irfc AUC increases in a greater than dose proportional manner over a dosage range from 1 mg/kg to 20 mg/kg (0.1 to 2 times the approved recommended dosage) every 2 weeks.
@@ -31,7 +30,7 @@ Isatuximab-irfc AUC increases proportionally over a dosage range from 5 mg/kg to
 
 Distribution
 
-The mean (CV %) predicted total volume of distribution of isatuximab-irfc is of 8.13 L (26.2%).
+The mean (CV%) predicted total volume of distribution of isatuximab-irfc is of 8.13 L (26.2%).
 
 Metabolism
 
@@ -46,7 +45,7 @@ The elimination of isatuximab-irfc was similar when given as a single agent or a
 Specific Populations
 
 Isatuximab-irfc exposure (AUC) at steady state decreases with increasing body weight.
-The following factors have no clinically meaningful effect on the exposure of isatuximab-irfc: age (36 to 85 years, 70 patients were >75 years old), sex, race (Caucasian, Black, Asian), renal impairment (eGFR <90 mL/min/1.73 m2), and mild hepatic impairment (total bilirubin 1 to 1.5 times upper limit of normal [ULN] or aspartate amino transferase [AST] > ULN).
+The following factors have no clinically meaningful effect on the exposure of isatuximab-irfc: age (36 to 85 years, 70 patients were >75 years old), sex, race (Caucasian, Black, Asian), renal impairment (eGFR<90 mL/min/1.73 m2), and mild hepatic impairment (total bilirubin 1 to 1.5 times upper limit of normal [ULN] or aspartate aminotransferase [AST] >ULN).
 The effect of moderate (total bilirubin >1.5 times to 3 times ULN and any AST) and severe (total bilirubin >3 times ULN and any AST) hepatic impairment on isatuximab-irfc pharmacokinetics is unknown.
 
 No dose adjustments are recommended in these specific patient populations.

@@ -72,7 +72,7 @@ Description of Selected Adverse Reactions
 Infusion-related reactions
 
 In ICARIA-MM, infusion-related reactions (defined as adverse reactions associated with the SARCLISA infusions, with an onset typically within 24 hours from the start of the infusion) were reported in 58 patients (38%) treated with SARCLISA.
-All patients who experienced infusion-related reactions, experienced them during the 1st infusion of SARCLISA, with 3 patients (2%) also having infusion-related reactions at their 2nd infusion, and 2 patients (1.3%) at their 4th infusion.
+All patients who experienced infusion-related reactions experienced them during the 1st infusion of SARCLISA, with 3 patients (2%) also having infusion-related reactions at their 2nd infusion, and 2 patients (1.3%) at their 4th infusion.
 Grade 1 infusion-related reactions were reported in 3.9%, Grade 2 in 32%, Grade 3 in 1.3%, and Grade 4 in 1.3% of the patients.
 Signs and symptoms of Grade 3 or higher infusion-related reactions included dyspnea, hypertension, and bronchospasm.
 The incidence of infusion interruptions because of infusion-related reactions was 29.6%.

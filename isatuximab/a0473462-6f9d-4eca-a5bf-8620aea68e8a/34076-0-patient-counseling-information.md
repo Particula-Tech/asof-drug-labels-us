@@ -4,7 +4,7 @@ Advise the patient to read the FDA-approved patient labeling (Patient Informatio
 
 Infusion-Related Reaction
 
-Instruct patients to immediately report any occurrence of symptoms occurring within 24 hours of start of infusion to their healthcare provider [see Warnings and Precautions (5.1)].
+Advise patients to seek immediate medical attention for any of the following signs and symptoms of infusion-related reactions: shortness of breath, wheezing or trouble breathing; swelling of the face, mouth, throat, or tongue; throat tightness; palpitations; dizziness, lightheadedness, or fainting; headache; cough; rash or itching; nausea; runny or stuffy nose; or chills [see Warnings and Precautions (5.1)].
 
 Neutropenia
 

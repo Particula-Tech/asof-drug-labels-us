@@ -2,18 +2,21 @@
 
 ## 5.1 Infusion-Related Reactions
 
+Serious infusion-related reactions including life-threatening anaphylactic reactions have occurred with SARCLISA treatment.
+Severe signs and symptoms included cardiac arrest, hypertension, hypotension, bronchospasm, dyspnea, angioedema, and swelling.
+
 Infusion-related reactions have been observed in 39% of patients treated with SARCLISA [see Adverse Reactions (6.1)].
 All infusion-related reactions started during the first SARCLISA infusion and resolved on the same day in 98% of the cases.
 The most common symptoms of an infusion-related reaction included dyspnea, cough, chills, and nausea.
-The most common severe signs and symptoms included hypertension and dyspnea [see Adverse Reactions (6.1)].
+Anaphylactic reactions occurred in less than 1% of patients.
 
 To decrease the risk and severity of infusion-related reactions, premedicate patients prior to SARCLISA infusion with acetaminophen, H2 antagonists, diphenhydramine, or equivalent; dexamethasone [see Dosage and Administration (2.2)].
 Monitor vital signs frequently during the entire SARCLISA infusion.
-For patients with grade 1 or 2 reactions, interrupt SARCLISA infusion and provide appropriate medical support.
-If symptoms improve, restart SARCLISA infusion at half of the initial infusion rate, with supportive care as needed, and closely monitor patients.
+For patients with grade ≥2 reactions, interrupt SARCLISA infusion and provide appropriate medical management.
+For patients with grade 2 or grade 3 reactions, if symptoms improve to grade ≤1, restart SARCLISA infusion at half of the initial infusion rate, with supportive care as needed, and closely monitor patients.
 If symptoms do not recur after 30 minutes, the infusion rate may be increased to the initial rate, and then increased incrementally, as shown in Table 2 [see Dosage and Administration (2.5)].
-In case symptoms do not improve or recur after interruption, permanently discontinue SARCLISA and institute appropriate management.
-Permanently discontinue SARCLISA therapy if a grade 3 or higher infusion-related reaction occurs and institute appropriate medical management.
+In case symptoms do not improve to grade ≤1, after interruption of SARCLISA infusion, persist or worsen despite appropriate medications, or require hospitalization, permanently discontinue SARCLISA and institute appropriate management.
+Permanently discontinue SARCLISA if an anaphylactic reaction or life threatening (grade 4) infusion-related reaction occurs and institute appropriate management.
 
 ## 5.2 Neutropenia
 
