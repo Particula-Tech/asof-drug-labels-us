@@ -52,7 +52,7 @@ Telmisartan tablets may affect the way other medicines work, and other medicines
 Especially tell your doctor if you take:
 
 - •aliskiren
-- •digoxin (Lanoxin®, Lanoxicaps®)
+- •digoxin (Lanoxin®)
 - •lithium (Lithobid®, lithium carbonate, lithium citrate)
 - •aspirin or other non-steroidal anti-inflammatory drugs (NSAIDs)
 - •other medicines used to treat your high blood pressure or heart problem
@@ -72,8 +72,6 @@ How should I take telmisartan tablets?
   If it is close to your next dose, do not take the missed dose.
   Take the next dose at your regular time.
 - •If you take too much telmisartan, call your doctor, or go to the nearest hospital emergency room right away.
-- •Read the “How to Open the Blister” at the end of this leaflet before you use telmisartan tablets.
-  Talk with your doctor if you do not understand the instructions.
 
 What are the possible side effects of telmisartan tablets?
 
@@ -122,7 +120,7 @@ You may report side effects to FDA at 1-800-FDA-1088.
 How should I store telmisartan tablets?
 
 - •Store telmisartan tablets between 59°F to 86°F (15°C to 30°C).
-- •Do not remove telmisartan tablets from blisters until right before you take them.
+- •Do not remove telmisartan tablets from blisters or bottles until right before you take them.
 
 Keep telmisartan tablets and all medicines out of the reach of children.
 
@@ -155,18 +153,11 @@ Medicines that lower your blood pressure lower your chance of having a stroke or
 High blood pressure makes the heart work harder to pump blood throughout the body and causes damage to the blood vessels.
 If high blood pressure is not treated, it can lead to stroke, heart attack, heart failure, kidney failure, and vision problems.
 
-How to open the blister:
-
-1.
-Tear (You may also use scissors to tear the blister apart)
-
-2.
-Peel back foil on blister.
-Do not push tablet through foil.
+Trademarks are the property of their respective owners.
 
 Manufactured by:
 
-Glenmark Pharmaceuticals Limited Plot No. S-7, Colvale Industrial Estate Colvale-Bardez, Goa 403 513, India
+Glenmark Pharmaceuticals Limited Colvale-Bardez, Goa 403513, India
 
 Manufactured for:
 
@@ -175,6 +166,4 @@ Glenmark Pharmaceuticals Inc., USA Mahwah, NJ 07430
 Questions?
 1 (888) 721-7115 www.glenmarkpharma-us.com
 
-September 2019
-
-Trademarks are the property of their respective owners.
+January 2021

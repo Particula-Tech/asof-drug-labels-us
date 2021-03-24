@@ -22,9 +22,11 @@ Potassium Supplements
 
 Advise patients not to use potassium supplements or salt substitutes that contain potassium without consulting the prescribing healthcare provider [see Warnings and Precautions (5.3)].
 
+Trademarks are the property of their respective owners.
+
 Manufactured by:
 
-Glenmark Pharmaceuticals Limited Plot No. S-7, Colvale Industrial Estate Colvale-Bardez, Goa 403 513, India
+Glenmark Pharmaceuticals Limited Colvale-Bardez, Goa 403513, India
 
 Manufactured for:
 
@@ -33,6 +35,4 @@ Glenmark Pharmaceuticals Inc., USA Mahwah, NJ 07430
 Questions?
 1 (888) 721-7115 www.glenmarkpharma-us.com
 
-September 2019
-
-Trademarks are the property of their respective owners.
+January 2021
