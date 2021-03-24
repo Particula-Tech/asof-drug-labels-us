@@ -1,6 +1,8 @@
 # PRINCIPAL DISPLAY PANEL - 50 mg Tablet Bottle Label
 
-Pfizer NDC 0049-3170-30
+Pfizer
+
+NDC 0049-3170-30
 
 Vfend® (voriconazole)
 
@@ -12,7 +14,9 @@ Tablets
 
 # PRINCIPAL DISPLAY PANEL - 200 mg Tablet Bottle Label
 
-Pfizer NDC 0049-3180-30
+Pfizer
+
+NDC 0049-3180-30
 
 Vfend® (voriconazole)
 
@@ -31,12 +35,11 @@ Vfend® I.V.
 
 200 mg* 200 mg* of voriconazole
 
-No Latex No Preservatives
+Not made with natural rubber latex No Preservatives Sterile Single-Dose Vial – Discard Unused Portion For Intravenous Infusion Only
 
-Sterile Single Use Vial For I.V.
-Infusion Only
+Pfizer Injectables
 
-Pfizer Injectables Rx only
+Rx only
 
 # PRINCIPAL DISPLAY PANEL - 200 mg Vial Carton
 
@@ -47,10 +50,11 @@ NDC 0049-3190-28 Rx only
 
 200 mg* 200 mg* of voriconazole
 
-No Latex No Preservatives
+Not made with natural rubber latex No Preservatives
 
-Sterile Single Use Vial For I.V.
-Infusion Only
+Sterile Single-Dose Vial – Discard Unused Portion
+
+For Intravenous Infusion Only
 
 Pfizer Injectables
 
@@ -68,7 +72,9 @@ for oral suspension
 
 ORANGE FLAVORED
 
-75 mL (when reconstituted) Rx only
+75 mL (when reconstituted)
+
+Rx only
 
 # PRINCIPAL DISPLAY PANEL - 40 mg Bottle Carton
 
@@ -89,4 +95,6 @@ Oral Dispenser Included
 Important: Read assembly instructions carefully before dispensing.
 Contains Small Parts - Keep out of reach of children.
 
-75 mL (when reconstituted) Rx only
+75 mL (when reconstituted)
+
+Rx only
