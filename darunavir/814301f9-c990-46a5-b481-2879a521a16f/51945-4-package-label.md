@@ -8,8 +8,6 @@ PREZISTA® (darunavir) tablets
 
 75 mg
 
-Each tablet contains darunavir ethanolate equivalent to 75 mg of darunavir.
-
 ALERT Find out about medicines that should NOT be taken with PREZISTA.
 
 janssen
@@ -23,8 +21,6 @@ NDC 59676-564-01
 PREZISTA® (darunavir) tablets
 
 150 mg
-
-Each tablet contains darunavir ethanolate equivalent to 150 mg of darunavir.
 
 ALERT Find out about medicines that should NOT be taken with PREZISTA.
 
@@ -40,8 +36,6 @@ PREZISTA® (darunavir) tablets
 
 600 mg
 
-Each tablet contains darunavir ethanolate equivalent to 600 mg of darunavir.
-
 ALERT Find out about medicines that should NOT be taken with PREZISTA.
 
 janssen
@@ -55,8 +49,6 @@ NDC 59676-566-30
 PREZISTA® (darunavir) tablets
 
 800 mg
-
-Each tablet contains darunavir ethanolate equivalent to 800 mg of darunavir.
 
 ALERT Find out about medicines that should NOT be taken with PREZISTA.
 
@@ -76,7 +68,7 @@ Do not refrigerate or freeze.
 
 Shake well before each usage.
 
-Dosage: See package insert.
+RECOMMENDED DOSAGE: See Prescribing Information
 
 Dispensing: For information concerning proper usage of the oral dosing syringe, see accompanying patient instructions.
 
