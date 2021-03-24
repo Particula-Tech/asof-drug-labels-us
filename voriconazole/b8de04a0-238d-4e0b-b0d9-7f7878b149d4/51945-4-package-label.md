@@ -41,7 +41,7 @@ voriconazole tablets
 
 Rx only
 
-# PRINCIPAL DISPLAY PANEL - 200 mg Tablet Bottle Label - NDC 59762-0936
+# PRINCIPAL DISPLAY PANEL - 200 mg Tablet Bottle Label
 
 NDC 59762-0936-1 30 Tablets
 
