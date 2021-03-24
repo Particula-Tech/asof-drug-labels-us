@@ -5,12 +5,13 @@ The following serious adverse reactions are described in more detail in the Warn
 - Serious Skin Rashes [see Warnings and Precautions (5.1)]
 - Hemophagocytic Lymphohistiocytosis [see Warnings and Precautions (5.2)]
 - Multiorgan Hypersensitivity Reactions and Organ Failure [see Warnings and Precautions (5.3)]
-- Blood Dyscrasias [see Warnings and Precautions (5.4)]
-- Suicidal Behavior and Ideation [see Warnings and Precautions (5.5)]
-- Aseptic Meningitis [see Warnings and Precautions (5.6)]
-- Withdrawal Seizures [see Warnings and Precautions (5.9)]
-- Status Epilepticus [see Warnings and Precautions (5.10)]
-- Sudden Unexplained Death in Epilepsy [see Warnings and Precautions (5.11)]
+- Cardiac Rhythm and Conduction Abnormalities [see Warnings and Precautions (5.4)]
+- Blood Dyscrasias [see Warnings and Precautions (5.5)]
+- Suicidal Behavior and Ideation [see Warnings and Precautions (5.6)]
+- Aseptic Meningitis [see Warnings and Precautions (5.7)]
+- Withdrawal Seizures [see Warnings and Precautions (5.10)]
+- Status Epilepticus [see Warnings and Precautions (5.11)]
+- Sudden Unexplained Death in Epilepsy [see Warnings and Precautions (5.12)]
 
 ## 6.1 Clinical Trial Experience
 
@@ -218,10 +219,10 @@ Adverse Reactions in Pooled, Placebo-Controlled Adjunctive Trials in Pediatric P
 | Male and female patients |  |  |
 | Urinary tract infection | 3 | 0 |
 
-Bipolar Disorder in Adults: The most common adverse reactions seen in association with the use of lamotrigine as monotherapy (100 to 400 mg/day) in adult patients (aged 18 to 82 years) with bipolar disorder in the 2 double-blind placebo-controlled trials of 18 months' duration are included in Table 12.
+Bipolar Disorder in Adults: The most common adverse reactions seen in association with the use of lamotrigine as monotherapy (100 to 400 mg/day) in adult patients (aged 18 to 82 years) with bipolar disorder in the 2 double-blind, placebo-controlled trials of 18 months' duration are included in Table 12.
 Adverse reactions that occurred in at least 5% of patients and were numerically more frequent during the dose-escalation phase of lamotrigine in these trials (when patients may have been receiving concomitant medications) compared with the monotherapy phase were: headache (25%), rash (11%), dizziness (10%), diarrhea (8%), dream abnormality (6%), and pruritus (6%).
 
-During the monotherapy phase of the double-blind placebo-controlled trials of 18 months' duration, 13% of 227 patients who received lamotrigine (100 to 400 mg/day), 16% of 190 patients who received placebo, and 23% of 166 patients who received lithium discontinued therapy because of an adverse reaction.
+During the monotherapy phase of the double-blind, placebo-controlled trials of 18 months' duration, 13% of 227 patients who received lamotrigine (100 to 400 mg/day), 16% of 190 patients who received placebo, and 23% of 166 patients who received lithium discontinued therapy because of an adverse reaction.
 The adverse reactions that most commonly led to discontinuation of lamotrigine were rash (3%) and mania/hypomania/mixed mood adverse reactions (2%).
 Approximately 16% of 2,401 patients who received lamotrigine (50 to 500 mg/day) for bipolar disorder in premarketing trials discontinued therapy because of an adverse reaction, most commonly due to rash (5%) and mania/hypomania/mixed mood adverse reactions (2%).
 
@@ -273,7 +274,7 @@ Respiratory: Sinusitis.
 Urogenital: Urinary frequency.
 
 Adverse Reactions following Abrupt Discontinuation: In the 2 controlled clinical trials, there was no increase in the incidence, severity, or type of adverse reactions in patients with bipolar disorder after abruptly terminating therapy with lamotrigine.
-In the clinical development program in adults with bipolar disorder, 2 patients experienced seizures shortly after abrupt withdrawal of lamotrigine [see Warnings and Precautions (5.9)].
+In the clinical development program in adults with bipolar disorder, 2 patients experienced seizures shortly after abrupt withdrawal of lamotrigine [see Warnings and Precautions (5.10)].
 
 Mania/Hypomania/Mixed Episodes: During the double-blind, placebo-controlled clinical trials in bipolar I disorder in which adults were converted to monotherapy with lamotrigine (100 to 400 mg/day) from other psychotropic medications and followed for up to 18 months, the rates of manic or hypomanic or mixed mood episodes reported as adverse reactions were 5% for patients treated with lamotrigine (n = 227), 4% for patients treated with lithium (n = 166), and 7% for patients treated with placebo (n = 190).
 In all bipolar controlled trials combined, adverse reactions of mania (including hypomania and mixed mood episodes) were reported in 5% of patients treated with lamotrigine (n = 956), 3% of patients treated with lithium (n = 280), and 4% of patients treated with placebo (n = 803).
@@ -343,3 +344,5 @@ Musculoskeletal: Rhabdomyolysis has been observed in patients experiencing hyper
 Nervous System: Aggression, exacerbation of Parkinsonian symptoms in patients with pre-existing Parkinson's disease, tics.
 
 Non-site Specific: Progressive immunosuppression.
+
+Renal and Urinary Disorders: Tubulointerstitial nephritis (has been reported alone and in association with uveitis).

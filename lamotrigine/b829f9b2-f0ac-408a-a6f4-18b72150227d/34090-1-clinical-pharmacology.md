@@ -24,16 +24,22 @@ Significantly reduced concentrations of folate are associated with teratogenesis
 Folate concentrations were also reduced in male rats given repeated oral doses of lamotrigine.
 Reduced concentrations were partially returned to normal when supplemented with folinic acid.
 
+Cardiac Electrophysiology: Effect of Lamotrigine: In vitro studies show that lamotrigine exhibits Class IB antiarrhythmic activity at therapeutically relevant concentrations.
+It inhibits human cardiac sodium channels with rapid onset and offset kinetics and strong voltage dependence, consistent with other Class IB antiarrhythmic agents.
+Lamotrigine did not slow ventricular conduction (widen QRS) in healthy individuals in a thorough QT study; however, it could slow ventricular conduction and increase the risk of arrhythmia in patients with structural heart disease or myocardial ischemia.
+Elevated heart rates could also increase the risk of ventricular conduction slowing with lamotrigine.
+
+Effect of Lamotrigine Metabolite: In dogs, lamotrigine is extensively metabolized to a 2-N-methyl metabolite.
+This metabolite causes dose-dependent prolongation of the PR interval, widening of the QRS complex, and, at higher doses, complete AV conduction block.
+The in vitro electrophysiological effects of this metabolite have not been studied.
+Similar cardiovascular effects from this metabolite are not anticipated in humans because only trace amounts of the 2-N-methyl metabolite (<0.6% of lamotrigine dose) have been found in human urine [see Clinical Pharmacology (12.3)].
+However, it is conceivable that plasma concentrations of this metabolite could be increased in patients with a reduced capacity to glucuronidate lamotrigine (e.g., in patients with liver disease, patients taking concomitant medications that inhibit glucuronidation).
+
 Accumulation in Kidneys: Lamotrigine accumulated in the kidney of the male rat, causing chronic progressive nephrosis, necrosis, and mineralization.
 These findings are attributed to α-2 microglobulin, a species- and sex-specific protein that has not been detected in humans or other animal species.
 
 Melanin Binding: Lamotrigine binds to melanin-containing tissues, e.g., in the eye and pigmented skin.
 It has been found in the uveal tract up to 52 weeks after a single dose in rodents.
-
-Cardiovascular: In dogs, lamotrigine is extensively metabolized to a 2-N-methyl metabolite.
-This metabolite causes dose-dependent prolongation of the PR interval, widening of the QRS complex, and, at higher doses, complete AV conduction block.
-Similar cardiovascular effects are not anticipated in humans because only trace amounts of the 2-N-methyl metabolite (<0.6% of lamotrigine dose) have been found in human urine [see Clinical Pharmacology (12.3)].
-However, it is conceivable that plasma concentrations of this metabolite could be increased in patients with a reduced capacity to glucuronidate lamotrigine (e.g., in patients with liver disease, patients taking concomitant medications that inhibit glucuronidation).
 
 ## 12.3 Pharmacokinetics
 
@@ -64,7 +70,7 @@ The numbers in parentheses next to each parameter mean represent the range of in
 Absorption: Lamotrigine is rapidly and completely absorbed after oral administration with negligible first-pass metabolism (absolute bioavailability is 98%).
 The bioavailability is not affected by food.
 Peak plasma concentrations occur anywhere from 1.4 to 4.8 hours following drug administration.
-The lamotrigine chewable/dispersible tablets were found to be equivalent, whether administered as dispersed in water, chewed and swallowed, or swallowed whole, to the lamotrigine compressed tablets in terms of rate and extent of absorption.
+The lamotrigine tablets for oral suspension were found to be equivalent, whether administered as dispersed in water, chewed and swallowed, or swallowed whole, to the lamotrigine compressed tablets in terms of rate and extent of absorption.
 In terms of rate and extent of absorption, lamotrigine orally disintegrating tablets, whether disintegrated in the mouth or swallowed whole with water, were equivalent to the lamotrigine compressed tablets swallowed with water.
 
 Dose Proportionality: In healthy volunteers not receiving any other medications and given single doses, the plasma concentrations of lamotrigine increased in direct proportion to the dose administered over the range of 50 to 400 mg.
@@ -90,7 +96,7 @@ Evidence gathered from other sources suggests that self-induction by lamotrigine
 Elimination: The elimination half-life and apparent clearance of lamotrigine following oral administration of lamotrigine to adult subjects with epilepsy and healthy volunteers is summarized in Table 14.
 Half-life and apparent oral clearance vary depending on concomitant AEDs.
 
-Drug Interactions: The apparent clearance of lamotrigine is affected by the coadministration of certain medications [see Warnings and Precautions (5.8, 5.12), Drug Interactions (7)].
+Drug Interactions: The apparent clearance of lamotrigine is affected by the coadministration of certain medications [see Warnings and Precautions (5.9, 5.13), Drug Interactions (7)].
 
 The net effects of drug interactions with lamotrigine are summarized in Tables 13 and 15, followed by details of the drug interaction studies below.
 
@@ -260,11 +266,14 @@ Mean Pharmacokinetic Parameters in Pediatric Subjects with Epilepsy
 | Pediatric Study Population | Number of Subjects | Tmax (h) | t½ (h) | CL/F (mL/min/kg) |
 | --- | --- | --- | --- | --- |
 | Ages 10 months to 5.3 years |  |  |  |  |
-| Subjects taking carbamazepine, phenytoin, phenobarbital, or primidoneCarbamazepine, phenytoin, phenobarbital, and primidone have been shown to increase the apparent clearance of lamotrigine. Estrogen-containing oral contraceptives, rifampin, and the protease inhibitors lopinavir/ritonavir and atazanavir/ritonavir have also been shown to increase the apparent clearance of lamotrigine [see Drug Interactions (7)]. | 10 | 3.0 (1.0-5.9) | 7.7 (5.7-11.4) | 3.62 (2.44-5.28) |
-| Subjects taking antiepileptic drugs with no known effect on the apparent clearance of lamotrigine | 7 | 5.2 (2.9-6.1) | 19.0 (12.9-27.1) | 1.2 (0.75-2.42) |
+| Subjects taking carbamazepine, phenytoin, phenobarbital, or primidoneCarbamazepine, phenytoin, phenobarbital, and primidone have been shown to increase the apparent clearance of lamotrigine. Estrogen-containing oral contraceptives, rifampin, and the protease inhibitors lopinavir/ritonavir and atazanavir/ritonavir have also been shown to increase the apparent clearance of lamotrigine [see Drug Interactions (7)]. | 10 | 3.0 | 7.7 | 3.62 |
+|  |  | (1.0-5.9) | (5.7-11.4) | (2.44-5.28) |
+| Subjects taking antiepileptic drugs with no known effect on the apparent clearance of lamotrigine | 7 | 5.2 | 19.0 | 1.2 |
+|  |  | (2.9-6.1) | (12.9-27.1) | (0.75-2.42) |
 | Subjects taking valproate only | 8 | 2.9 (1.0-6.0) | 44.9 (29.5-52.5) | 0.47 (0.23-0.77) |
 | Ages 5 to 11 years |  |  |  |  |
-| Subjects taking carbamazepine, phenytoin, phenobarbital, or primidone | 7 | 1.6 (1.0-3.0) | 7.0 (3.8-9.8) | 2.54 (1.35-5.58) |
+| Subjects taking carbamazepine, phenytoin, phenobarbital, or primidone | 7 | 1.6 | 7.0 | 2.54 |
+|  |  | (1.0-3.0) | (3.8-9.8) | (1.35-5.58) |
 | Subjects taking carbamazepine, phenytoin, phenobarbital, or primidone plus valproate | 8 | 3.3 (1.0-6.4) | 19.1 (7.0-31.2) | 0.89 (0.39-1.93) |
 | Subjects taking valproate onlyTwo subjects were included in the calculation for mean Tmax. | 3 | 4.5 (3.0-6.0) | 65.8 (50.7-73.7) | 0.24 (0.21-0.26) |
 | Ages 13 to 18 years |  |  |  |  |

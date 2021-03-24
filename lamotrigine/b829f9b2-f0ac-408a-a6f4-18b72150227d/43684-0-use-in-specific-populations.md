@@ -28,6 +28,7 @@ Data
 
 Human Data: Data from several international pregnancy registries have not shown an increased risk for malformations overall.
 The International Lamotrigine Pregnancy Registry reported major congenital malformations in 2.2% (95% CI: 1.6%, 3.1%) of 1,558 infants exposed to lamotrigine monotherapy in the first trimester of pregnancy.
+
 The NAAED Pregnancy Registry reported major congenital malformations among 2.0% of 1,562 infants exposed to lamotrigine monotherapy in the first trimester.
 EURAP, a large international pregnancy registry focused outside of North America, reported major birth defects in 2.9% (95% CI: 2.3%, 3.7%) of 2,514 exposures to lamotrigine monotherapy in the first trimester.
 The frequency of major congenital malformations was similar to estimates from the general population.

@@ -64,13 +64,13 @@ Because there is inadequate experience in this population, lamotrigine should be
 
 Discontinuation Strategy: Epilepsy: For patients receiving lamotrigine in combination with other AEDs, a re-evaluation of all AEDs in the regimen should be considered if a change in seizure control or an appearance or worsening of adverse reactions is observed.
 
-If a decision is made to discontinue therapy with lamotrigine, a step-wise reduction of dose over at least 2 weeks (approximately 50% per week) is recommended unless safety concerns require a more rapid withdrawal [see Warnings and Precautions (5.9)].
+If a decision is made to discontinue therapy with lamotrigine, a step-wise reduction of dose over at least 2 weeks (approximately 50% per week) is recommended unless safety concerns require a more rapid withdrawal [see Warnings and Precautions (5.10)].
 
 Discontinuing carbamazepine, phenytoin, phenobarbital, primidone, or other drugs such as rifampin and the protease inhibitors lopinavir/ritonavir and atazanavir/ritonavir that induce lamotrigine glucuronidation should prolong the half-life of lamotrigine; discontinuing valproate should shorten the half-life of lamotrigine.
 
 Bipolar Disorder: In the controlled clinical trials, there was no increase in the incidence, type, or severity of adverse reactions following abrupt termination of lamotrigine.
 In the clinical development program in adults with bipolar disorder, 2 patients experienced seizures shortly after abrupt withdrawal of lamotrigine.
-Discontinuation of lamotrigine should involve a step-wise reduction of dose over at least 2 weeks (approximately 50% per week) unless safety concerns require a more rapid withdrawal [see Warnings and Precautions (5.9)].
+Discontinuation of lamotrigine should involve a step-wise reduction of dose over at least 2 weeks (approximately 50% per week) unless safety concerns require a more rapid withdrawal [see Warnings and Precautions (5.10)].
 
 ## 2.2 Epilepsy—Adjunctive Therapy
 
@@ -128,6 +128,7 @@ The advantage of using doses above those recommended in Tables 1-4 has not been 
 ## 2.3 Epilepsy—Conversion from Adjunctive Therapy to Monotherapy
 
 The goal of the transition regimen is to attempt to maintain seizure control while mitigating the risk of serious rash associated with the rapid titration of lamotrigine.
+
 The recommended maintenance dose of lamotrigine as monotherapy is 500 mg/day given in 2 divided doses.
 
 To avoid an increased risk of rash, the recommended initial dose and subsequent dose escalations for lamotrigine should not be exceeded [see Boxed Warning].
@@ -160,6 +161,7 @@ Adults
 The target dose of lamotrigine is 200 mg/day (100 mg/day in patients taking valproate, which decreases the apparent clearance of lamotrigine, and 400 mg/day in patients not taking valproate and taking either carbamazepine, phenytoin, phenobarbital, primidone, or other drugs such as rifampin and the protease inhibitor lopinavir/ritonavir that increase the apparent clearance of lamotrigine).
 In the clinical trials, doses up to 400 mg/day as monotherapy were evaluated; however, no additional benefit was seen at 400 mg/day compared with 200 mg/day [see Clinical Studies (14.2)].
 Accordingly, doses above 200 mg/day are not recommended.
+
 Treatment with lamotrigine is introduced, based on concurrent medications, according to the regimen outlined in Table 5.
 If other psychotropic medications are withdrawn following stabilization, the dose of lamotrigine should be adjusted.
 In patients discontinuing valproate, the dose of lamotrigine should be doubled over a 2-week period in equal weekly increments (see Table 6).
