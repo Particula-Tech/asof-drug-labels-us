@@ -1,11 +1,17 @@
 # 17 PATIENT COUNSELING INFORMATION
 
+Serious Allergic Reactions
+
 Patients should be advised that allergic reactions, including serious allergic reactions could occur and that serious reactions require immediate treatment and discontinuation of ceftriaxone.
 Patients should report to their health care provider any previous allergic reactions to ceftriaxone, cephalosporins, penicillins, or other similar antibacterials.
+
+Diarrhea
 
 Patients should be advised that diarrhea is a common problem caused by antibacterials, which usually ends when the antibacterial is discontinued.
 Sometimes after starting treatment with antibacterials, patients can develop watery and bloody stools (with or without stomach cramps and fever) even as late as two or more months after having taken the last dose of the antibacterial.
 If this occurs, patients should contact a physician as soon as possible.
+
+Antibacterial Resistance
 
 Patients should be counseled that antibacterial drugs, including Ceftriaxone for Injection and Dextrose Injection should only be used to treat bacterial infections.
 They do not treat viral infections (e.g., the common cold).

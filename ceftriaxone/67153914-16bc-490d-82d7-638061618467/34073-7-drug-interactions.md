@@ -2,8 +2,7 @@
 
 ## 7.1 Vancomycin, Amsacrine, Aminoglycosides, and Fluconazole
 
-Vancomycin, amsacrine, aminoglycosides, and fluconazole are physically incompatible with ceftriaxone in admixtures.
-[see Dosage and Administration (2.3)]
+Vancomycin, amsacrine, aminoglycosides, and fluconazole are physically incompatible with ceftriaxone in admixtures [see Dosage and Administration (2.3)].
 
 ## 7.2 Calcium-containing Products
 

@@ -4,7 +4,7 @@ The following serious adverse reactions to ceftriaxone are described below and e
 
 - Hypersensitivity reactions [see Warnings and Precautions (5.1)]
 - Ceftriaxone-calcium precipitates [see Warnings and Precautions (5.2) and Drug Interactions (7.2)]
-- Clostridium difficile-associated diarrhea [see Warnings and Precautions (5.3)]
+- Clostridioides difficile-associated diarrhea [see Warnings and Precautions (5.3)]
 - Hemolytic anemia [see Warnings and Precautions (5.4)]
 
 ## 6.1 Clinical Trials Experience
@@ -31,11 +31,11 @@ The following reactions occurred in less than or equal to 6% of the patients:
 The following adverse reactions have been reported during postapproval use of ceftriaxone.
 Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to readily estimate their frequency or establish a causal relationship to drug exposure.
 
-- Gastrointestinal—stomatitis and glossitis.
-- Genitourinary—oliguria, ureteric obstruction, post-renal acute renal failure
-- Hepatic—hepatitis.
-- Dermatologic— severe cutaneous adverse reactions (erythema multiforme, Stevens-Johnson syndrome or Lyell’s syndrome/toxic epidermal necrolysis), exanthema, allergic dermatitis, urticaria, and edema.
-- Immunologic – Anaphylaxis (anaphylactic shock, transient leucopenia, neutropenia, agranulocytosis and thrombocytopenia).
+- Gastrointestinal - stomatitis and glossitis.
+- Genitourinary - oliguria, ureteric obstruction, post-renal acute renal failure
+- Hepatic - hepatitis.
+- Dermatologic - severe cutaneous adverse reactions (erythema multiforme, Stevens-Johnson syndrome or Lyell’s syndrome/toxic epidermal necrolysis), exanthema, allergic dermatitis, urticaria, and edema.
+- Immunologic - Anaphylaxis (anaphylactic shock, transient leucopenia, neutropenia, agranulocytosis and thrombocytopenia).
 
 ## 6.3 Cephalosporin-class Adverse Reactions
 

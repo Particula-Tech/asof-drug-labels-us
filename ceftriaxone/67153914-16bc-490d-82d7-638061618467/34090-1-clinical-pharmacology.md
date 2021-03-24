@@ -7,9 +7,9 @@ Ceftriaxone is an antibacterial drug [see Microbiology (12.4)].
 ## 12.3 Pharmacokinetics
 
 Average plasma concentrations of ceftriaxone following a single 30-minute intravenous (IV) infusion of a 0.5, 1 or 2 g dose in healthy subjects are presented in Table 2.
-Multiple IV doses ranging from 0.5 to 2 g at 12- to 24-hour intervals resulted in 15% to 36% accumulation of ceftriaxone above single dose values.
+Multiple IV doses ranging from 0.5 to 2 g at 12- to 24-hour intervals resulted in 15% to 36% accumulation of ceftriaxone above single-dose values.
 
-TABLE 2: Ceftriaxone Plasma Concentrations After Single Dose Administration
+TABLE 2: Ceftriaxone Plasma Concentrations After Single-Dose Administration
 
 | Dose/Route | Average Plasma Concentrations (mcg/mL) |  |  |  |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -38,7 +38,7 @@ TABLE 3: Average Pharmacokinetic Parameters of Ceftriaxone in Pediatric Patients
 | Elimination Half-life (hr) | 4.6 | 4.3 |
 | Plasma Clearance (mL/hr/kg) | 49 | 60 |
 | Volume of Distribution (mL/kg) | 338 | 373 |
-| CSF Concentration__inflamed meninges (mcg/mL) | 5.6 | 6.4 |
+| CSF Concentration_inflamed meninges (mcg/mL) | 5.6 | 6.4 |
 | Range (mcg/mL) | 1.3 – 18.5 | 1.3 – 44 |
 | Time after dose (hr) | 3.7 (±1.6) | 3.3 (±1.4) |
 
@@ -48,7 +48,7 @@ After a 1 g IV dose, average concentrations of ceftriaxone, determined from 1 to
 
 Ceftriaxone concentrations in urine are shown in Table 4.
 
-TABLE 4: Urinary Concentrations of Ceftriaxone After Single Dose Administration
+TABLE 4: Urinary Concentrations of Ceftriaxone After Single-Dose Administration
 
 | Dose/Route | Average Urinary Concentrations (mcg/mL) |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- |

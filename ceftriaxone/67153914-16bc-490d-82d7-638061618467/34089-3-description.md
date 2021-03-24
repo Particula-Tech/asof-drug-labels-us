@@ -1,6 +1,6 @@
 # 11 DESCRIPTION
 
-Ceftriaxone for Injection and Dextrose Injection is a sterile, nonpyrogenic, single use, packaged combination of Ceftriaxone Sodium and Dextrose Injection (diluent) in the DUPLEX® sterile container.
+Ceftriaxone for Injection and Dextrose Injection is a sterile, nonpyrogenic, single-dose, packaged combination of Ceftriaxone Sodium and Dextrose Injection (diluent) in the DUPLEX® sterile container.
 The DUPLEX® Container is a flexible dual chamber container.
 
 The drug chamber is filled with ceftriaxone sodium, a sterile, semisynthetic, broad-spectrum cephalosporin antibacterial for intravenous administration.

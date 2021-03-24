@@ -11,7 +11,7 @@ DUPLEX® CONTAINER
 50 mL
 
 Use only after mixing contents of both chambers.
-For IV Use Only Iso-osmotic Single Dose Sterile/Nonpyrogenic
+For IV Use Only Iso-osmotic Single-Dose Sterile/Nonpyrogenic
 
 Reconstitution: Hold container with set port in a downward direction and fold the diluent chamber just below the solution meniscus.
 To activate seal, squeeze folded diluent chamber until seal between diluent and drug chamber opens, releasing diluent into drug chamber.
@@ -22,6 +22,7 @@ After reconstitution each 50 mL single dose unit contains: Ceftriaxone for Injec
 
 Prior to Reconstitution: Store at 20-25°C (68-77°F).
 Excursions permitted to 15-30°C (59-86°F).
+[See USP Controlled Room Temperature.]
 Use only if container and seals are intact.
 Do not peel foil strip until ready for use.
 After foil strip removal, product must be used within 7 days, but not beyond the labeled expiration date.
@@ -44,7 +45,7 @@ Rx only
 Prepared in USA.
 API from USA and Italy.
 
-Y37-002-553 LD-206-4
+Y37-002-569 LD-206-5
 
 EXP LOT
 
@@ -72,7 +73,7 @@ DUPLEX® CONTAINER
 50 mL
 
 Use only after mixing contents of both chambers.
-For IV Use Only Iso-osmotic Single Dose Sterile/Nonpyrogenic
+For IV Use Only Iso-osmotic Single-Dose Sterile/Nonpyrogenic
 
 Reconstitution: Hold container with set port in a downward direction and fold the diluent chamber just below the solution meniscus.
 To activate seal, squeeze folded diluent chamber until seal between diluent and drug chamber opens, releasing diluent into drug chamber.
@@ -83,6 +84,7 @@ After reconstitution each 50 mL single dose unit contains: Ceftriaxone for Injec
 
 Prior to Reconstitution: Store at 20-25°C (68-77°F).
 Excursions permitted to 15-30°C (59-86°F).
+[See USP Controlled Room Temperature.]
 Use only if container and seals are intact.
 Do not peel foil strip until ready for use.
 After foil strip removal, product must be used within 7 days, but not beyond the labeled expiration date.
@@ -105,7 +107,9 @@ Rx only
 Prepared in USA.
 API from USA and Italy.
 
-Y37-002-554 LD-207-4
+Y37-002-570 LD-207-5
+
+EXP LOT
 
 PEEL HERE
 

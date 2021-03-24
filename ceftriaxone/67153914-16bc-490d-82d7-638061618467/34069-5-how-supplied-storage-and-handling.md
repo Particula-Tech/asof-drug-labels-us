@@ -5,7 +5,7 @@ After reconstitution, the concentrations are equivalent to 1 g and 2 g ceftriaxo
 The diluent chamber contains approximately 50 mL of Dextrose Injection.
 Dextrose Injection has been adjusted to 3.74% and 2.22% for the 1 g and 2 g doses, respectively, such that the reconstituted solution is iso-osmotic.
 
-Ceftriaxone for Injection and Dextrose Injection is supplied sterile and nonpyrogenic in the DUPLEX® Container packaged 24 units per case.
+Ceftriaxone for Injection and Dextrose Injection is supplied sterile and nonpyrogenic in the DUPLEX® Container packaged 24 single-dose units per case.
 
 | NDC | REF | Dose | Volume |
 | --- | --- | --- | --- |
@@ -14,6 +14,7 @@ Ceftriaxone for Injection and Dextrose Injection is supplied sterile and nonpyro
 
 Store the unactivated unit at 20-25°C (68-77°F).
 Excursions permitted to 15 - 30°C (59-86°F).
+[See USP Controlled Room Temperature.]
 Do not freeze.
 
 Precautions

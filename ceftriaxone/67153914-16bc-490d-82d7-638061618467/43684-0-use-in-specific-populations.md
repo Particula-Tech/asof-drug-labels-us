@@ -2,21 +2,39 @@
 
 ## 8.1 Pregnancy
 
-### Pregnancy Category B
+### Risk Summary
 
-Reproductive studies have been performed in mice, rats, and primates at intravenous doses of 625, 586, and 84 mg/kg/day respectively without evidence of embryotoxicity, fetotoxicity, or teratogenicity.
-These doses are approximately 1.5, 2.8, and 0.8 times the recommended clinical dose of 2 g/day based on body surface area comparisons.
+Available data from published prospective cohort studies, case series, and case reports over several decades with cephalosporin use, including Ceftriaxone, in pregnant women have not established a drug-associated risk of major birth defects, miscarriage, or adverse maternal or fetal outcomes.
+Ceftriaxone crosses the placenta.
 
-There are, however, no adequate and well-controlled studies in pregnant women.
-Because animal reproductive studies are not always predictive of human response, this drug should be used during pregnancy only if clearly needed.
+In animal reproduction studies, no adverse developmental effects were observed when ceftriaxone was administered to pregnant rats at doses up to approximately 2.8 times the clinical dose of 2 g/day (see Data).
 
-Ceftriaxone was tested in a Segment III (pre-postnatal) study in rats at intravenous doses of up to 586 mg/kg/day approximately 2.8 times (mg/m2 comparison) the recommended daily dose of 2 g/day.
+The estimated background risk of major birth defects and miscarriage for the indicated population is unknown.
+All pregnancies have a background risk of birth defect, loss, or other adverse outcomes.
+In the U.S. general population, the estimated background risk of major birth defects and miscarriage in clinically recognized pregnancies is 2% to 4% and 15% to 20%, respectively.
+
+### Data
+
+Human Data
+
+Published literature shows that ceftriaxone crosses the placenta.
+While available studies cannot definitively establish the absence of risk, published data from case-control studies and case reports over several decades have not identified an association with cephalosporin use during pregnancy and major birth defects, miscarriage, or other adverse maternal or fetal outcomes.
+Available studies have methodologic limitations, including small sample size, retrospective data collection, and inconsistent comparator groups.
+
+Animal Data
+
+Reproductive studies have been performed in mice, rats, and primates at intravenous doses of 625, 586, and 84 mg/kg/day, respectively, without evidence of embryotoxicity, fetotoxicity, or teratogenicity.
+These doses are approximately 1.5, 2.8, and 0.8 times the clinical dose of 2 g/day based on body surface area comparisons.
+Ceftriaxone was tested in a Segment III (pre-postnatal) study in rats at intravenous doses of up to 586 mg/kg/day (approximately 2.8 times the clinical dose of 2 g/day based on body surface area comparison).
 No adverse effects were noted on various reproductive parameters during gestation and lactation, including postnatal growth, functional behavior, and reproductive ability of the offspring.
 
-## 8.3 Nursing Mothers
+## 8.2 Lactation
 
-Ceftriaxone is excreted in human breast milk.
-Caution should be exercised when Ceftriaxone for Injection and Dextrose Injection is administered to a nursing woman.
+### Risk Summary
+
+Data from published literature report that ceftriaxone is present in human milk.
+There are no data on the effects of Ceftriaxone on the breastfed child or on milk production.
+The developmental and health benefits of breastfeeding should be considered along with the mother’s clinical need for Ceftriaxone for Injection and Dextrose Injection and any potential adverse effects on the breastfed child from Ceftriaxone for Injection and Dextrose Injection or from the mother’s underlying condition.
 
 ## 8.4 Pediatric Use
 
