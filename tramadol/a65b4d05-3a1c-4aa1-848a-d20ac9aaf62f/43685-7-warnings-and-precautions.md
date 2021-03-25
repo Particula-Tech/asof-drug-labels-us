@@ -1,6 +1,6 @@
 # 5 WARNINGS AND PRECAUTIONS
 
-## 5.1 Addiction, Abuse, and Misuse
+## 5.1 Addiction, Abuse and Misuse
 
 CONZIP contains tramadol, a Schedule IV controlled substance.
 As an opioid, CONZIP exposes users to the risks of addiction, abuse and misuse.
@@ -12,13 +12,15 @@ Addiction can occur at recommended dosages and if the drug is misused or abused.
 Assess each patient's risk for opioid addiction, abuse or misuse prior to prescribing CONZIP, and monitor all patients receiving CONZIP for the development of these behaviors and conditions.
 Risks are increased in patients with a personal or family history of substance abuse (including drug or alcohol abuse or addiction) or mental illness (e.g., major depression).
 The potential for these risks should not, however, prevent the proper management of pain in any given patient.
-Patients are increased risk may be prescribed opioids such as CONZIP, but use in such patients necessitates intensive counseling about the risks and proper use of CONZIP along with intensive monitoring for signs of addiction, abuse and misuse.
+Patients at increased risk may be prescribed opioids such as CONZIP, but use in such patients necessitates intensive counseling about the risks and proper use of CONZIP along with intensive monitoring for signs of addiction, abuse and misuse.
+Consider prescribing naloxone for the emergency treatment of opioid overdose [see Dosage and Administration (2.2), Warnings and Precautions (5.3)].
 
 Abuse or misuse of CONZIP by splitting, breaking, chewing, crushing, snorting, or injecting the dissolved product will result in the uncontrolled delivery of tramadol and can result in overdose and death [see Overdosage (10)].
 
 Opioids are sought by drug abusers and people with addiction disorders and are subject to criminal diversion.
-Consider these risks when prescribing or dispense CONZIP.
-Strategies to reduce these risks include prescribing the drug in smallest appropriate quantity and advising the patient on the proper disposal of unused drug [see Patient Counseling Information (17)] Contact local state professional licensing board or state controlled substances authority for information on how to prevent and detect abuse or diversion of this product.
+Consider these risks when prescribing or dispensing CONZIP.
+Strategies to reduce these risks include prescribing the drug in the smallest appropriate quantity and advising the patient on the proper disposal of unused drug [see Patient Counseling Information (17)].
+Contact local state professional licensing board or state controlled substances authority for information on how to prevent and detect abuse or diversion of this product.
 
 ## 5.2 Opioid Analgesic Risk Evaluation and Mitigation Strategy (REMS)
 
@@ -50,11 +52,24 @@ Overestimating the CONZIP dosage when converting patients from another opioid pr
 
 Accidental ingestion of even one dose of CONZIP, especially by children, can result in respiratory depression and death due to an overdose of tramadol.
 
+Educate patients and caregivers on how to recognize respiratory depression and emphasize the importance of calling 911 or getting emergency medical help right away in the event of a known or suspected overdose [see Patient Counseling Information (17)].
+
 Opioids can cause sleep-related breathing disorders including central sleep apnea (CSA) and sleep-related hypoxemia.
 Opioid use increases the risk of CSA in a dose-dependent fashion.
-In patients who present with CSA, consider decreasing the opioid dosage using best practices for opioid taper [see Dosage and Administration (2.4)].
+In patients who present with CSA, consider decreasing the opioid dosage using best practices for opioid taper [see Dosage and Administration (2.5)].
 
-## 5.4 Ultra-Rapid Metabolism of Tramadol and Other Risk Factors for Life-threatening Respiratory Depression in Children
+Patient Access to Naloxone for the Emergency Treatment of Opioid Overdose
+
+Discuss the availability of naloxone for the emergency treatment of opioid overdose with the patient and caregiver and assess the potential need for access to naloxone, both when initiating and renewing treatment with CONZIP.
+Inform patients and caregivers about the various ways to obtain naloxone as permitted by individual state naloxone dispensing and prescribing requirements or guidelines (e.g., by prescription, directly from a pharmacist, or as part of a community-based program).
+Educate patients and caregivers on how to recognize respiratory depression and emphasize the importance of calling 911 or getting emergency medical help, even if naloxone is administered [see Patient Counseling Information (17)].
+
+Consider prescribing naloxone, based on the patient's risk factors for overdose, such as concomitant use of CNS depressants, a history of opioid use disorder, or prior opioid overdose.
+The presence of risk factors for overdose should not prevent the proper management of pain in any given patient.
+Also consider prescribing naloxone if the patient has household members (including children) or other close contacts at risk for accidental ingestion or overdose.
+If naloxone is prescribed, educate patients and caregivers on how to treat with naloxone [see Warnings and Precautions (5.1, 5.7), Patient Counseling Information (17)].
+
+## 5.4 Ultra-Rapid Metabolism of Tramadol and Other Risk Factors for Life-Threatening Respiratory Depression in Children
 
 Life-threatening respiratory depression and death have occurred in children who received tramadol.
 Tramadol and codeine are subject to variability in metabolism based upon CYP2D6 genotype (described below), which can lead to increased exposure to an active metabolite.
@@ -72,12 +87,12 @@ Nursing Mothers
 
 Tramadol is subject to the same polymorphic metabolism as codeine, with ultra-rapid metabolizers of CYP2D6 substrates being potentially exposed to life-threatening levels of O-desmethyltramadol (M1).
 At least one death was reported in a nursing infant who was exposed to high levels of morphine in breast milk because the mother was an ultra-rapid metabolizer of codeine.
-A baby nursing from an ultra-rapid metabolizer mother taking CONZIP could potentially be exposed to high levels of MI, and experience life-threatening respiratory depression.
+A baby nursing from an ultra-rapid metabolizer mother taking CONZIP could potentially be exposed to high levels of M1, and experience life-threatening respiratory depression.
 For this reason, breastfeeding is not recommended during treatment with CONZIP [see Use in Specific Populations (8.2)].
 
 CYP2D6 Genetic Variability: Ultra-rapid metabolizer
 
-Some individuals may be ultra-rapid metabolizers because of a specific CYP2D6 genotype (gene duplications denoted as *1/*1xN or *1/*2xN).
+Some individuals may be ultra-rapid metabolizers because of a specific CYP2D6 genotype (gene duplications denoted as *1/*1×N or *1/*2×N).
 The prevalence of this CYP2D6 phenotype varies widely and has been estimated at 1 to 10% for Whites (European, North American), 3 to 4% for Blacks (African Americans), 1 to 2% for East Asians (Chinese, Japanese, Korean), and may be greater than 10% in certain racial/ethnic groups (i.e., Oceanian, Northern African, Middle Eastern, Ashkenazi Jews, Puerto Rican).
 
 These individuals convert tramadol into its active metabolite, O-desmethyltramadol (M1), more rapidly and completely than other people.
@@ -95,7 +110,7 @@ Advise pregnant women using opioids for a prolonged period of the risk of neonat
 ## 5.6 Risks of Interactions with Drugs Affecting Cytochrome P450 Isoenzymes
 
 The effects of concomitant use or discontinuation of cytochrome P450 3A4 inducers, 3A4 inhibitors, or 2D6 inhibitors on levels of tramadol and M1 from CONZIP are complex.
-Use of cytochrome P450 3A4 inducers, 3A4 inhibitors, or 2D6 inhibitors with CONZIP requires careful consideration of the effects on the parent drug, tramadol which is a weak serotonin and norepinephrine reuptake inhibitor and μ-opioid agonist, and the active metabolite, M1, which is more potent than tramadol in μ-opioid receptor binding [see Drug Interactions (7)].
+Use of cytochrome P450 3A4 inducers, 3A4 inhibitors, or 2D6 inhibitors with CONZIP requires careful consideration of the effects on the parent drug, tramadol which is a weak serotonin and norepinephrine reuptake inhibitor and mu-opioid agonist, and the active metabolite, M1, which is more potent than tramadol in mu-opioid receptor binding [see Drug Interactions (7)].
 
 Risks of Concomitant Use or Discontinuation of Cytochrome P450 2D6 Inhibitors
 
@@ -105,7 +120,7 @@ The effect of increased tramadol levels may be an increased risk for serious adv
 
 Discontinuation of a concomitantly used cytochrome P450 2D6 inhibitor may result in a decrease in tramadol plasma levels and an increase in active metabolite M1 levels, which could increase or prolong adverse reactions related to opioid toxicity and may cause potentially fatal respiratory depression.
 
-Follow patients receiving CONZIP and any CYP2D6 inhibitor for the risk of serious adverse events including seizures and serotonin syndrome, signs and symptoms that may reflect opioid toxicity, and opioid withdrawal when CONZIP are used in conjunction with inhibitors of CYP2D6 [see, Drug Interactions (7)].
+Follow patients receiving CONZIP and any CYP2D6 inhibitor for the risk of serious adverse events including seizures and serotonin syndrome, signs and symptoms that may reflect opioid toxicity, and opioid withdrawal when CONZIP is used in conjunction with inhibitors of CYP2D6 [see Drug Interactions (7)].
 
 Cytochrome P450 3A4 Interaction
 
@@ -114,7 +129,7 @@ The concomitant use of CONZIP with cytochrome P450 3A4 inhibitors, such as macro
 The concomitant use of CONZIP with all cytochrome P450 3A4 inducers or discontinuation of a cytochrome P450 3A4 inhibitor may result in lower tramadol levels.
 This may be associated with a decrease in efficacy, and in some patients, may result in signs and symptoms of opioid withdrawal.
 
-Follow patients receiving CONZIP and any CYP3A4 inhibitor or inducer for the risk for serious adverse events including seizures and serotonin syndrome, signs and symptoms that may reflect opioid toxicity and opioid withdrawal when CONZIP are used in conjunction with inhibitors and inducers of CYP3A4 [see Drug Interactions (7)].
+Follow patients receiving CONZIP and any CYP3A4 inhibitor or inducer for the risk for serious adverse events including seizures and serotonin syndrome, signs and symptoms that may reflect opioid toxicity and opioid withdrawal when CONZIP is used in conjunction with inhibitors and inducers of CYP3A4 [see Drug Interactions (7)].
 
 ## 5.7 Risks from Concomitant Use with Benzodiazepines or Other CNS Depressants
 
@@ -129,8 +144,10 @@ In patients already receiving an opioid analgesic, prescribe a lower initial dos
 If an opioid analgesic is initiated in a patient already taking a benzodiazepine or other CNS depressant, prescribe a lower initial dose of the opioid analgesic, and titrate based on clinical response.
 Follow patients closely for signs and symptoms of respiratory depression and sedation.
 
+If concomitant use is warranted, consider prescribing naloxone for the emergency treatment of opioid overdose [see Dosage and Administration (2.2), Warnings and Precautions (5.3)].
+
 Advise both patients and caregivers about the risks of respiratory depression and sedation when CONZIP is used with benzodiazepines or other CNS depressants (including alcohol and illicit drugs).
-Advise patients not to drive or operate heavy machinery until the effects of concomitant use of the benzodiazepine or other CNS depressant have been determined.
+Advise patients not to drive or operate heavy machinery until the effects of concomitant use of the benzodiazepine or other CNS depressants have been determined.
 Screen patients for risk of substance use disorders, including opioid abuse and misuse, and warn them of the risk for overdose and death associated with the use of additional CNS depressants including alcohol and illicit drugs [see Drug Interactions (7), Patient Counseling Information (17)].
 
 ## 5.8 Serotonin Syndrome with Concomitant Use of Serotonergic Drugs
@@ -216,7 +233,7 @@ Monitor patients with biliary tract disease, including acute pancreatitis, for w
 ## 5.16 Anaphylaxis and Other Hypersensitivity Reactions
 
 Serious and rarely fatal hypersensitive reactions have been reported in patients receiving therapy with tramadol.
-When these events do occur it is often following the first dose.
+When these events do occur, it is often following the first dose.
 Other reported hypersensitivity reactions include pruritus, hives, bronchospasm, angioedema, toxic epidermal necrolysis and Stevens-Johnson syndrome.
 Patients with a history of hypersensitivity reactions to tramadol and other opioids may be at increased risk and therefore should not receive CONZIP.
 If anaphylaxis or other hypersensitivity occurs, stop administration of CONZIP immediately, discontinue CONZIP permanently, and do not rechallenge with any formulation of tramadol.
@@ -224,13 +241,14 @@ Advise patients to seek immediate medical attention if they experience any sympt
 
 ## 5.17 Withdrawal
 
-Do not abruptly discontinue tramadol in a patient physically dependent on opioids.
-When discontinuing CONZIP in a physcially dependent patient, gradually taper the dosage.Rapid tapering of tramadol in a patient physically dependent on opioids may lead to a withdrawal syndrome and return of pain [see Dosage and Administration (2.4), Drug Abuse and Dependence (9.3)].
+Do not abruptly discontinue CONZIP in a patient physically dependent on opioids.
+When discontinuing CONZIP in a physically dependent patient, gradually taper the dosage.
+Rapid tapering of tramadol in a patient physically dependent on opioids may lead to a withdrawal syndrome and return of pain [see Dosage and Administration (2.5), Drug Abuse and Dependence (9.3)].
 
 Additionally, avoid the use of mixed agonist/antagonist (e.g, pentazocine, nalbuphine, and butorphanol) or partial agonist (e.g., buprenorphine) analgesics in patients who are receiving a full opioid agonist analgesic, including CONZIP.
 In these patients, mixed agonist/antagonist and partial agonist analgesics may reduce the analgesic effect and/or may precipitate withdrawal symptoms [see Drug Interactions (7)].
 
-When discontinuing CONZIP, gradually taper the dosage [see Dosage and Administration (2.4)].
+When discontinuing CONZIP, gradually taper the dosage [see Dosage and Administration (2.5)].
 Do not abruptly discontinue CONZIP [see Drug Abuse and Dependence (9.3)].
 
 ## 5.18 Risks of Driving and Operating Machinery

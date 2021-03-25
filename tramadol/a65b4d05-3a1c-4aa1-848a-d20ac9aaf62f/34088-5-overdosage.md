@@ -4,7 +4,7 @@ Clinical Presentation
 
 Acute overdosage with CONZIP can be manifested by respiratory depression, somnolence progressing to stupor or coma, skeletal muscle flaccidity, cold and clammy skin, constricted pupils, and, in some cases, pulmonary edema, bradycardia, QT prolongation, hypotension, partial or complete airway obstruction, atypical snoring, and death.
 Marked mydriasis rather than miosis may be seen with hypoxia in overdose situations.
-[see Clinical Pharmacology (12.2)]
+[see Clinical Pharmacology (12.2)
 
 Treatment of Overdose
 
@@ -12,9 +12,8 @@ In case of overdosage, priorities are the reestablishment of a patent and protec
 Employ other supportive measures (including oxygen and vasopressors) in the management of circulatory shock and pulmonary edema as indicated.
 Cardiac arrest or arrhythmias will require advanced life-support techniques.
 
-The opioid antagonists, naloxone or nalmefene, are specific antidotes to respiratory depression resulting from opioid overdose.
-For clinically significant respiratory or circulatory depression secondary to tramadol overdose, administer an opioid antagonist.
-Opioid antagonists should not be administered in the absence of clinically significant respiratory or circulatory depression secondary to tramadol overdose.
+Opioid antagonists, such as naloxone, are specific antidotes to respiratory depression resulting from opioid overdose.
+For clinically significant respiratory or circulatory depression secondary to opioid overdose, administer an opioid antagonist.
 
 While naloxone will reverse some, but not all, symptoms caused by overdosage with tramadol, the risk of seizures is also increased with naloxone administration.
 In animals, convulsions following the administration of toxic doses of CONZIP could be suppressed with barbiturates or benzodiazepines but were increased with naloxone.

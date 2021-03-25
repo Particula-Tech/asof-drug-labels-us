@@ -9,7 +9,7 @@ Opioid Analgesic Risk Evaluation and Mitigation Strategy (REMS):
 
 To ensure that the benefits of opioid analgesics outweigh the risks of addiction, abuse, and misuse, the Food and Drug Administration (FDA) has required a REMS for these products [see Warnings and Precautions (5.2)].
 Under the requirements of the REMS, drug companies with approved opioid analgesic products must make REMS-compliant education programs available to healthcare providers.
-Healthcare providers are strongly encouraged to
+Healthcare providers are strongly encouraged to:
 
 - complete a REMS-compliant education program,
 - counsel patients and/or their caregivers, with every prescription, on safe use, serious risks, storage, and disposal of these products,
@@ -29,7 +29,7 @@ Accidental ingestion of/exposure to even one dose of CONZIP especially by childr
 Ultra-Rapid Metabolism Of Tramadol And Other Risk Factors For Life-Threatening Respiratory Depression In Children
 
 Life-threatening respiratory depression and death have occurred in children who received tramadol.
-Some of the reported cases occurred following tonsillectomy and/or adenoidectomy, and at least one case, the child had evidence of being an ultra-rapid metabolizer of tramadol due to a CYP2D6 polymorphism [see Warnings and Precautions (5.4)].
+Some of the reported cases occurred following tonsillectomy and/or adenoidectomy, and in at least one case, the child had evidence of being an ultra-rapid metabolizer of tramadol due to a CYP2D6 polymorphism [see Warnings and Precautions (5.4)].
 CONZIP is contraindicated in children younger than 12 years of age and in children younger than 18 years of age following tonsillectomy and/or adenoidectomy [see Contraindications (4)].
 Avoid the use of CONZIP in adolescents 12 to 18 years of age who have other risk factors that may increase their sensitivity to the respiratory depressant effects of tramadol [see Warnings and Precautions (5.4)].
 

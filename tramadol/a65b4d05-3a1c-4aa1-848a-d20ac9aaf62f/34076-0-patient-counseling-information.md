@@ -4,15 +4,14 @@ Advise the patient to read the FDA-approved patient labeling (Medication Guide)
 
 Storage and Disposal
 
-Because of the risks associated with accidental ingestion, misuse, and abuse, advise patients to store Tramadol Hydrochloride Extended-Release Capsules securely, out of sight and reach of children, and in a location not accessible by others, including visitors to the home [see Warnings and Precautions (5.1), Drug Abuse and Dependence (9.2)].
-Inform patients that leaving Tramadol Hydrochloride Extended-Release Capsules unsecured can pose a deadly risk to others in the home.
+Because of the risks associated with accidental ingestion, misuse, and abuse, advise patients to store CONZIP securely, out of sight and reach of children, and in a location not accessible by others, including visitors to the home [see Warnings and Precautions (5.1), Drug Abuse and Dependence (9.2)].
+Inform patients that leaving CONZIP unsecured can pose a deadly risk to others in the home.
 
 Advise patients and caregivers that when medicines are no longer needed, they should be disposed of promptly.
-
 Inform patients that medicine take-back options are the preferred way to safely dispose of most types of unneeded medicines.
-If no take back programs or DEA-registered collectors are available, instruct patients to dispose of Tramadol Hydrochloride Extended-Release Capsules by following these four steps:
+If no take back programs or DEA-registered collectors are available, instruct patients to dispose of CONZIP by following these four steps:
 
-- Mix Tramadol Hydrochloride Extended-Release Capsules (do not crush) with an unpalatable substance such as dirt, cat litter, or used coffee grounds;
+- Mix CONZIP (do not crush) with an unpalatable substance such as dirt, cat litter, or used coffee grounds;
 - Place the mixture in a container such as a sealed plastic bag;
 - Throw the container in the household trash;
 - Delete all personal information on the prescription label of the empty bottle
@@ -26,8 +25,25 @@ Instruct patients not to share CONZIP with others and to take steps to protect C
 
 Life-Threatening Respiratory Depression
 
-Inform patients of the risk of life threatening respiratory depression, including information that the risk is greatest when starting CONZIP or when the dosage is increased, and that it can occur even at recommended dosages [see Warnings and Precautions (5.3)].
-Advise patients how to recognize respiratory depression and to seek medical attention if breathing difficulties develop.
+Inform patients of the risk of life-threatening respiratory depression, including information that the risk is greatest when starting CONZIP or when the dosage is increased, and that it can occur even at recommended dosages.
+
+Educate patients and caregivers on how to recognize respiratory depression and emphasize the importance of calling 911 or getting emergency medical help right away in the event of a known or suspected overdose [see Warnings and Precautions (5.3)].
+
+Patient Access to Naloxone for the Emergency Treatment of Opioid Overdose
+
+Discuss with the patient and caregiver the availability of naloxone for the emergency treatment of opioid overdose, both when initiating and renewing treatment with CONZIP.
+Inform patients and caregivers about the various ways to obtain naloxone as permitted by individual state naloxone dispensing and prescribing requirements or guidelines (e.g., by prescription, directly from a pharmacist, or as part of a community-based program) [see Dosage and Administration (2.2), Warnings and Precautions (5.3)].
+
+Educate patients and caregivers on how to recognize the signs and symptoms of an overdose.
+
+Explain to patients and caregivers that naloxone's effects are temporary, and that they must call 911 or get emergency medical help right away in all cases of known or suspected opioid overdose, even if naloxone is administered [see Overdosage (10)].
+
+If naloxone is prescribed, also advise patients and caregivers:
+
+- How to treat with naloxone in the event of an opioid overdose
+- To tell family and friends about their naloxone and to keep it in a place where family and friends can access it in an emergency
+- To read the Patient Information (or other educational material) that will come with their naloxone.
+  Emphasize the importance of doing this before an opioid emergency happens, so the patient and caregiver will know what to do
 
 Accidental Ingestion
 
@@ -35,7 +51,7 @@ Inform patients that accidental ingestion, especially by children, may result in
 [see Warnings and Precautions (5.3)].
 Instruct patients to take steps to store CONZIP securely and to dispose of unused CONZIP in accordance with the local state guidelines and/or regulations.
 
-Ultra-Rapid Metabolism of Tramadol and Other Risk Factors for Life-threatening Respiratory Depression in Children
+Ultra-Rapid Metabolism of Tramadol and Other Risk Factors for Life-Threatening Respiratory Depression in Children
 
 Advise caregivers that CONZIP is contraindicated in all children younger than 12 years of age and in children younger than 18 years of age following tonsillectomy and/or adenoidectomy.
 Advise caregivers of children ages 12 to18 years of age receiving CONZIP to monitor for signs of respiratory depression [see Warnings and Precautions (5.4)].
@@ -76,7 +92,7 @@ Instruct patients how to properly take CONZIP, including the following:
 
 Important Discontinuation Instructions
 
-In order to avoid developing withdrawal symptoms, instruct patients not to discontinue CONZIP without first discussing a tapering plan with the prescriber [see Dosage and Administration (2.4)]
+In order to avoid developing withdrawal symptoms, instruct patients not to discontinue CONZIP without first discussing a tapering plan with the prescriber [see Dosage and Administration (2.5)].
 
 Hypotension
 
@@ -92,7 +108,7 @@ Pregnancy
 
 Neonatal Opioid Withdrawal Syndrome
 
-Inform female patients of reproductive potential that prolonged use of CONZIP during pregnancy can result in neonatal opioid withdrawal syndrome, which may be life-threatening if not recognized and treated [see Warnings and Precautions (5.4), Use in Specific Populations (8.1)].
+Inform female patients of reproductive potential that prolonged use of CONZIP during pregnancy can result in neonatal opioid withdrawal syndrome, which may be life-threatening if not recognized and treated [see Warnings and Precautions (5.5), Use in Specific Populations (8.1)].
 
 Embryo-Fetal Toxicity
 
@@ -115,10 +131,3 @@ Advise patients not to perform such tasks until they know how they will react to
 Constipation
 
 Advise patients of the potential for severe constipation, including management instructions and when to seek medical attention [see Adverse Reactions (6), Clinical Pharmacology (12.1)].
-
-| Manufactured by: | Galephar P.R., Inc. |
-| --- | --- |
-|  | Juncos, Puerto Rico 00777 |
-| Distributed by: | Vertical Pharmaceuticals, LLC |
-|  | Bridgewater, NJ 08807, USA |
-|  | Rev. 10/2019 |

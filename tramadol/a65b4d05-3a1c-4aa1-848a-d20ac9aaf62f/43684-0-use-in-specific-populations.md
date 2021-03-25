@@ -64,7 +64,7 @@ CONZIP is not recommended for obstetrical preoperative medication or for post-de
 
 Tramadol and its metabolite, O-desmethyltramadol (M1), are present in human milk.
 There is no information on the effects of the drug on the breastfed infant or the effects of the drug on milk production.
-The M1 metabolite is more potent than tramadol in mu opioid receptor binding [see Clinical Pharmacology (12.1)].
+The M1 metabolite is more potent than tramadol in mu-opioid receptor binding [see Clinical Pharmacology (12.1)].
 Published studies have reported tramadol and M1 in colostrum with administration of tramadol to nursing mothers in the early post-partum period.
 Women who are ultra-rapid metabolizers of tramadol may have higher than expected serum levels of M1, potentially leading to higher levels of M1 in breast milk that can be dangerous in their breastfed infants.
 In women with normal tramadol metabolism, the amount of tramadol secreted into human milk is low and dose-dependent.
@@ -95,7 +95,7 @@ In some of the reported cases, these events followed tonsillectomy and/or adenoi
 Children with sleep apnea may be particularly sensitive to the respiratory depressant effects of tramadol.
 Because of the risk of life-threatening respiratory depression and death:
 
-- CONZIP is contraindicated for all children younger than age 12 years of age [see Contraindications (4)].
+- CONZIP is contraindicated for all children younger than 12 years of age [see Contraindications (4)].
 - CONZIP is contraindicated for post-operative management in pediatric patients younger than 18 years of age following tonsillectomy and/or adenoidectomy [see Contraindications (4)].
 - Avoid the use of CONZIP in adolescents 12 to 18 years of age who have other risk factors that may increase their sensitivity to the respiratory depressant effects of tramadol unless the benefits outweigh the risks.
   Risk factors include conditions associated with hypoventilation, such as postoperative status, obstructive sleep apnea, obesity, severe pulmonary disease, neuromuscular disease, and concomitant use of other medications that cause respiratory depression.
@@ -105,7 +105,7 @@ Because of the risk of life-threatening respiratory depression and death:
 
 Eight hundred and twelve elderly (65 years of age or older) subjects were exposed to CONZIP in clinical trials.
 Of those subjects, two hundred and forty were 75 years of age and older.
-In general, higher incidence rates of adverse events were observed for patients older than 65 years of age compared with patients 65 years and younger, particularly for the following adverse events: nausea, constipation, somnolence, dizziness, dry mouth, vomiting, asthenia, pruritus, anorexia sweating, fatigue, weakness, postural hypotension and dyspepsia.
+In general, higher incidence rates of adverse events were observed for patients older than 65 years of age compared with patients 65 years and younger, particularly for the following adverse events: nausea, constipation, somnolence, dizziness, dry mouth, vomiting, asthenia, pruritus, anorexia, sweating, fatigue, weakness, postural hypotension and dyspepsia.
 For this reason, CONZIP should be used with great caution in patients older than 75 years of age [see Dosage and Administration (2.3)].
 
 Respiratory depression is the chief risk for elderly patients treated with opioids, and has occurred after large initial doses were administered to patients who were not opioid-tolerant or when opioids were co-administered with other agents that depress respiration.
