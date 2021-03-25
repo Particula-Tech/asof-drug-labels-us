@@ -2,7 +2,7 @@
 
 ## 8.1 Pregnancy
 
-Risk Summary Available data from a small number of postmarketing cases with ertapenem use in pregnancy are insufficient to inform any drug-associated risks for major birth defects, miscarriage, or adverse maternal or fetal outcomes.
+Risk Summary Available data from a small number of post-marketing cases with ertapenem use in pregnancy are insufficient to inform any drug-associated risks for major birth defects, miscarriage, or adverse maternal or fetal outcomes.
 In animal reproduction studies after intravenous administration of ertapenem during the period of organogenesis, there was no evidence of developmental malformations in rats at systemic exposures (AUC) up to approximately 1.2 times the human exposure at the maximum recommended human dose (MRHD) and in mice at doses up to approximately 3 times the MRHD based on body surface area comparison.
 In pregnant rats administered ertapenem during organogenesis through lactation, fetal toxicity, developmental delays, and impaired reproduction did not occur in first generation offspring at systemic exposures (AUC) approximately 1.2 times the human exposure at the MRHD (see Data).
 The estimated background risk of major birth defects and miscarriage for the indicated population is unknown.
