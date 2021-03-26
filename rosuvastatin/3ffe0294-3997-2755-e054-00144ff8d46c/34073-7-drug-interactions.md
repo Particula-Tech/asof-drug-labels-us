@@ -38,8 +38,9 @@ If used together, the dose of rosuvastatin tablets should not exceed 10 mg once 
 
 ## 7.6 Coumarin Anticoagulants
 
-When rosuvastatin was coadministered with fenofibrate, no clinically significant increase in the AUC of rosuvastatin or fenofibrate was observed.
-Because it is known that the risk of myopathy during treatment with HMG-CoA reductase inhibitors is increased with concomitant use of fenofibrates, caution should be used when prescribing fenofibrates with rosuvastatin [see Warnings and Precautions (5.1) and Clinical Pharmacology (12.3)].
+Rosuvastatin significantly increased INR in patients receiving coumarin anticoagulants.
+Therefore, caution should be exercised when coumarin anticoagulants are given in conjunction with rosuvastatin.
+In patients taking coumarin anticoagulants and rosuvastatin concomitantly, INR should be determined before starting rosuvastatin and frequently enough during early therapy to ensure that no significant alteration of INR occurs [see Warnings and Precautions (5.4) and Clinical Pharmacology (12.3)].
 
 ## 7.7 Niacin
 
@@ -52,4 +53,4 @@ Because it is known that the risk of myopathy during treatment with HMG-CoA redu
 
 ## 7.9 Colchicine
 
-Cases of myopathy, including rhabdomyolysis, have been reported with HMG‑CoA reductase inhibitors, including rosuvastatin, coadministered with colchicine, and caution should be exercised when prescribing rosuvastatin with colchicine [see Warnings and Precautions (5.1)].
+Cases of myopathy, including rhabdomyolysis, have been reported with HMG-CoA reductase inhibitors, including rosuvastatin, coadministered with colchicine, and caution should be exercised when prescribing rosuvastatin with colchicine [see Warnings and Precautions (5.1)].

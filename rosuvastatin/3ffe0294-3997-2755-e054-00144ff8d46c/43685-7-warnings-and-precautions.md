@@ -23,11 +23,20 @@ IMNM is characterized by: proximal muscle weakness and elevated serum creatine k
 All patients should be advised to promptly report to their physician unexplained muscle pain, tenderness, or weakness, particularly if accompanied by malaise or fever or if muscle signs and symptoms persist after discontinuing rosuvastatin tablets.
 All patients should be advised to promptly report to their physician unexplained muscle pain, tenderness, or weakness, particularly if accompanied by malaise or fever or if muscle signs and symptoms persist after discontinuing rosuvastatin tablets.
 
-## 5.2 Liver Enzyme Abnormalities
+## 5.2 Immune-Mediated Necrotizing Myopathy
+
+There have been rare reports of immune-mediated necrotizing myopathy (IMNM), an autoimmune myopathy, associated with statin use.
+IMNM is characterized by: proximal muscle weakness and elevated serum creatine kinase, which persist despite discontinuation of statin treatment; positive anti-HMG CoA reductase antibody; muscle biopsy showing necrotizing myopathy; and improvement with immunosuppressive agents.
+Additional neuromuscular and serologic testing may be necessary.
+Treatment with immunosuppressive agents may be required.
+Consider risk of IMNM carefully prior to initiation of a different statin.
+If therapy is initiated with a different statin, monitor for signs and symptoms of IMNM.
+
+## 5.3 Liver Enzyme Abnormalities
 
 It is recommended that liver enzyme tests be performed before the initiation of rosuvastatin tablets, and if signs or symptoms of liver injury occur.
 
-Increases in serum transaminases [AST (SGOT) or ALT (SGPT)] have been reported with HMG‑CoA reductase inhibitors, including rosuvastatin.
+Increases in serum transaminases [AST (SGOT) or ALT (SGPT)] have been reported with HMG-CoA reductase inhibitors, including rosuvastatin.
 In most cases, the elevations were transient and resolved or improved on continued therapy or after a brief interruption in therapy.
 There were two cases of jaundice, for which a relationship to rosuvastatin therapy could not be determined, which resolved after discontinuation of therapy.
 There were no cases of liver failure or irreversible liver disease in these trials.
@@ -41,20 +50,20 @@ If an alternate etiology is not found, do not restart rosuvastatin tablets.
 Rosuvastatin tablets should be used with caution in patients who consume substantial quantities of alcohol and/or have a history of chronic liver disease [see Clinical Pharmacology (12.3)].
 Active liver disease, which may include unexplained persistent transaminase elevations, is a contraindication to the use of rosuvastatin [see Contraindications (4)].
 
-## 5.3 Concomitant Coumarin Anticoagulants
+## 5.4 Concomitant Coumarin Anticoagulants
 
 Caution should be exercised when anticoagulants are given in conjunction with rosuvastatin because of its potentiation of the effect of coumarin-type anticoagulants in prolonging the prothrombin time/INR.
 In patients taking coumarin anticoagulants and rosuvastatin concomitantly, INR should be determined before starting rosuvastatin and frequently enough during early therapy to ensure that no significant alteration of INR occurs [see Drug Interactions (7.6)].
 
-## 5.4 Proteinuria and Hematuria
+## 5.5 Proteinuria and Hematuria
 
 In the rosuvastatin clinical trial program, dipstick-positive proteinuria and microscopic hematuria were observed among rosuvastatin treated patients.
-These findings were more frequent in patients taking rosuvastatin tablets 40 mg, when compared to lower doses of rosuvastatin tablets or comparator HMG‑CoA reductase inhibitors, though it was generally transient and was not associated with worsening renal function.
+These findings were more frequent in patients taking rosuvastatin tablets 40 mg, when compared to lower doses of rosuvastatin tablets or comparator HMG-CoA reductase inhibitors, though it was generally transient and was not associated with worsening renal function.
 Although the clinical significance of this finding is unknown, a dose reduction should be considered for patients on rosuvastatin therapy with unexplained persistent proteinuria and/or hematuria during routine urinalysis testing.
 
-## 5.5 Endocrine Effects
+## 5.6 Endocrine Effects
 
-Increases in HbA1c and fasting serum glucose levels have been reported with HMG‑CoA reductase inhibitors, including rosuvastatin.
+Increases in HbA1c and fasting serum glucose levels have been reported with HMG-CoA reductase inhibitors, including rosuvastatin.
 Based on clinical trial data with rosuvastatin, in some instances these increases may exceed the threshold for the diagnosis of diabetes mellitus [see Adverse Reactions (6.1)].
 
 Although clinical studies have shown that rosuvastatin alone does not reduce basal plasma cortisol concentration or impair adrenal reserve, caution should be exercised if rosuvastatin is administered concomitantly with drugs that may decrease the levels or activity of endogenous steroid hormones such as ketoconazole, spironolactone, and cimetidine.

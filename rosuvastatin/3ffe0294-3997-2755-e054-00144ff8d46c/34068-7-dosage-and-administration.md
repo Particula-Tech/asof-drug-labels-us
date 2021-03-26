@@ -11,7 +11,7 @@ The maximum rosuvastatin tablet dose of 40 mg should be used only for those pati
 Rosuvastatin tablets can be administered as a single dose at any time of day, with or without food.
 The tablet should be swallowed whole.
 
-When initiating rosuvastatin therapy or switching from another HMG‑CoA reductase inhibitor therapy, the appropriate rosuvastatin tablets starting dose should first be utilized, and only then titrated according to the patient’s response and individualized goal of therapy.
+When initiating rosuvastatin therapy or switching from another HMG-CoA reductase inhibitor therapy, the appropriate rosuvastatin tablets starting dose should first be utilized, and only then titrated according to the patient’s response and individualized goal of therapy.
 
 After initiation or upon titration of rosuvastatin, lipid levels should be analyzed within 2 to 4 weeks and the dosage adjusted accordingly.
 
@@ -29,11 +29,9 @@ Patients taking cyclosporine and darolutamide The dose of rosuvastatin tablets s
 
 Patients taking gemfibrozil Avoid concomitant use of rosuvastatin with gemfibrozil.
 If concomitant use cannot be avoided, initiate rosuvastatin tablets at 5 mg once daily.
-The dose of rosuvastatin tablets should not exceed 10 mg once daily.
-[see Warnings and Precautions (5.1), Drug Interactions (7.2) and Clinical Pharmacology (12.3)].
+The dose of rosuvastatin tablets should not exceed 10 mg once daily [see Warnings and Precautions (5.1), Drug Interactions (7.2) and Clinical Pharmacology (12.3)].
 
-Patients taking regorafenib Concomitant use of rosuvastatin tablets and regorafenib, the dose of rosuvastatin tablets should not exceed 10 mg once daily.
-[see Warnings and Precautions (5.1), Drug Interactions (7.5) and Clinical Pharmacology (12.3)].
+Patients taking regorafenib Concomitant use of rosuvastatin tablets and regorafenib, the dose of rosuvastatin tablets should not exceed 10 mg once daily [see Warnings and Precautions (5.1), Drug Interactions (7.5) and Clinical Pharmacology (12.3)].
 
 Patients taking atazanavir and ritonavir, lopinavir and ritonavir, simeprevir or combination of dasabuvir/ombitasvir/paritaprevir/ritonavir, elbasvir/grazoprevir, sofosbuvir/velpatasvir and glecaprevir/pibrentasvir Initiate rosuvastatin therapy with 5 mg once daily.
 The dose of rosuvastatin tablets should not exceed 10 mg once daily [see Warnings and Precautions (5.1), Drug Interactions (7.3), and Clinical Pharmacology (12.3)].

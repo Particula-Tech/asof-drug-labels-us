@@ -28,28 +28,13 @@ All patients treated with rosuvastatin tablets should be advised to promptly rep
 
 Manufactured For:
 
-Accord Healthcare, Inc.,
-
-1009 Slater Road,
-
-Suite 210-B,
-
-Durham, NC 27703,
-
-USA
+Accord Healthcare, Inc., 1009 Slater Road, Suite 210-B, Durham, NC 27703, USA
 
 Manufactured By:
 
 Intas Pharmaceuticals Limited.
+Plot No 5 to 14, Pharmez, Sarkhej-Bavla, National Highway No 8-A, Near Village Matoda, Tal Sanand, Ahmedabad - 382213, Gujarat, India
 
-Plot No 5 to 14, Pharmez,
+51 2359 5 725635
 
-Sarkhej-Bavla, National Highway No 8-A, Near Village Matoda, Tal Sanand,
-
-Ahmedabad - 382213, Gujarat,
-
-India.
-
-51 2359 4 724860
-
-Issued September 2020
+Issued November 2020

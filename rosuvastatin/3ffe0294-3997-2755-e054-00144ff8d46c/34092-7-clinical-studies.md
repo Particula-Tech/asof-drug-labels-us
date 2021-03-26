@@ -44,7 +44,7 @@ In the overall population, the mean LDL‑C reduction from baseline was 22%.
 About one-third of the patients benefited from increasing their dose from 20 mg to 40 mg with further LDL lowering of greater than 6%.
 In the 27 patients with at least a 15% reduction in LDL‑C, the mean LDL-C reduction was 30% (median 28% reduction).
 Among 13 patients with an LDL‑C reduction of <15%, 3 had no change or an increase in LDL‑C.
-Reductions in LDL‑C of 15% or greater were observed in 3 of 5 patients with known receptor negative status.
+Reductions in LDL-C of 15% or greater were observed in 3 of 5 patients with known receptor negative status.
 
 Pediatric use information for patients 7 to 17 years of age is approved for AstraZeneca’s CRESTOR (rosuvastatin calcium) tablets.
 However, due to AstraZeneca’s marketing exclusivity rights, this drug product is not labeled with that pediatric information.

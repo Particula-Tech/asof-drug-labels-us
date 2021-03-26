@@ -42,6 +42,6 @@ NDC 16729-287-10
 
 Rosuvastatin
 
-10 mg tablets
+40 mg tablets
 
 Rx only

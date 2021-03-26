@@ -145,7 +145,7 @@ Effect of Rosuvastatin Coadministration on Systemic Exposure to Other Drugs
 EE = ethinyl estradiol, NG = norgestrel, QD= Once daily
 
 1.
-Clinically significant pharmacodynamic effects [see Warnings and Precautions (5.3)]
+Clinically significant pharmacodynamic effects [see Warnings and Precautions (5.4)]
 
 2.
 Mean ratio with 90% CI (with/without coadministered drug, e.g., 1= no change, 0.7=30% decrease, 11=11-fold increase in exposure)
