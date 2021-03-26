@@ -8,22 +8,8 @@ Read this Patient Information before you start using EVAMIST and each time you g
 There may be new information.
 This information does not take the place of talking to your healthcare provider about your menopausal symptoms or your treatment.
 
-What is the most important information I should know about EVAMIST (an estrogen hormone)?
-
-- •Using estrogen-alone may increase your chance of getting cancer of the uterus (womb).
-  Report any unusual vaginal bleeding right away while you are using EVAMIST.
-  Vaginal bleeding after menopause may be a warning sign of cancer of the uterus (womb).
-  Your healthcare provider should check any unusual vaginal bleeding to find the cause.
-- •Do not use estrogen-alone to prevent heart disease, heart attacks, strokes or dementia (decline in brain function).
-- •Using estrogen-alone may increase your chances of getting strokes or blood clots.
-- •Using estrogen-alone may increase your chance of getting dementia, based on a study of women 65 years or older.
-- •Do not use estrogens with progestins to prevent heart disease, heart attack, strokes, or dementia.
-- •Using estrogens with progestins may increase your chances of getting heart attacks, strokes, breast cancer, or blood clots.
-- •Using estrogens with progestins may increase your chance of getting dementia, based on a study of women 65 years and older.
-- •The estrogen in EVAMIST spray can transfer from the area of skin where it was sprayed to other people.
-  Do not allow others, especially children, to come into contact with the area of your skin where you sprayed EVAMIST.
-  Young children who are accidentally exposed to estrogen through contact with women using EVAMIST may show signs of puberty that are not expected (for example, breast budding).
-- •You and your healthcare provider should talk regularly about whether you still need treatment with EVAMIST.
+| What is the most important information I should know about EVAMIST (an estrogen hormone)? •Using estrogen-alone may increase your chance of getting cancer of the uterus (womb). Report any unusual vaginal bleeding right away while you are using EVAMIST. Vaginal bleeding after menopause may be a warning sign of cancer of the uterus (womb). Your healthcare provider should check any unusual vaginal bleeding to find the cause.•Do not use estrogen-alone to prevent heart disease, heart attacks, strokes or dementia (decline in brain function).•Using estrogen-alone may increase your chances of getting strokes or blood clots.•Using estrogen-alone may increase your chance of getting dementia, based on a study of women 65 years or older.•Do not use estrogens with progestins to prevent heart disease, heart attack, strokes, or dementia.•Using estrogens with progestins may increase your chances of getting heart attacks, strokes, breast cancer, or blood clots.•Using estrogens with progestins may increase your chance of getting dementia, based on a study of women 65 years and older.•The estrogen in EVAMIST spray can transfer from the area of skin where it was sprayed to other people. Do not allow others, especially children, to come into contact with the area of your skin where you sprayed EVAMIST. Young children who are accidentally exposed to estrogen through contact with women using EVAMIST may show signs of puberty that are not expected (for example, breast budding).•You and your healthcare provider should talk regularly about whether you still need treatment with EVAMIST. |
+| --- |
 
 What is EVAMIST?
 
