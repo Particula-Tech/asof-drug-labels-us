@@ -1,5 +1,7 @@
 # ADVERSE REACTIONS:
 
+To report SUSPECTED ADVERSE REACTIONS, contact Fresenius Kabi USA, LLC at 1-800-551-7176 or FDA at 1-800-FDA-1088 or www.fda.gov/medwatch.
+
 IN GENERAL, THE INCIDENCE AND SEVERITY OF ACUTE SIDE EFFECTS ARE RELATED TO DOSE AND FREQUENCY OF ADMINISTRATION.
 THE MOST SERIOUS REACTIONS ARE DISCUSSED ABOVE UNDER ORGAN SYSTEM TOXICITY IN THE PRECAUTIONS SECTION.
 THAT SECTION SHOULD ALSO BE CONSULTED WHEN LOOKING FOR INFORMATION ABOUT ADVERSE REACTIONS WITH METHOTREXATE.
@@ -47,9 +49,9 @@ Hepatic histology was not examined in these short-term studies (see PRECAUTIONS)
 
 Incidence greater than 10%: Elevated liver function tests 15%, nausea/vomiting 10%.
 
-Incidence 3% to 10%: Stomatitis, thrombocytopenia (platelet count less than 100,000/mm 3).
+Incidence 3% to 10%: Stomatitis, thrombocytopenia (platelet count less than 100,000/mm3).
 
-Incidence 1% to 3%: Rash/pruritus/dermatitis, diarrhea, alopecia, leukopenia (WBC less than 3,000/mm 3), pancytopenia, dizziness.
+Incidence 1% to 3%: Rash/pruritus/dermatitis, diarrhea, alopecia, leukopenia (WBC less than 3,000/mm3), pancytopenia, dizziness.
 
 Two other controlled trials of patients (n=680) with Rheumatoid Arthritis on 7.5 mg to 15 mg/wk oral doses showed an incidence of interstitial pneumonitis of 1% (see PRECAUTIONS).
 
@@ -65,5 +67,5 @@ Rarely, painful plaque erosions may appear (Pearce, HP and Wilson, BB: Am Acad D
 
 ## Adverse Reactions in JRA Studies
 
-The approximate incidences of adverse reactions reported in pediatric patients with JRA treated with oral, weekly doses of methotrexate (5 to 20 mg/m 2/wk or 0.1 to 0.65 mg/kg/wk) were as follows (virtually all patients were receiving concomitant non-steroidal anti-inflammatory drugs, and some also were taking low doses of corticosteroids): elevated liver function tests, 14%; gastrointestinal reactions (e.g., nausea, vomiting, diarrhea), 11%; stomatitis, 2%; leukopenia, 2%; headache, 1.2%; alopecia, 0.5%; dizziness, 0.2%; and rash, 0.2%.
-Although there is experience with dosing up to 30 mg/m 2/wk in JRA, the published data for doses above 20 mg/m 2/wk are too limited to provide reliable estimates of adverse reaction rates.
+The approximate incidences of adverse reactions reported in pediatric patients with JRA treated with oral, weekly doses of methotrexate (5 to 20 mg/m2/wk or 0.1 to 0.65 mg/kg/wk) were as follows (virtually all patients were receiving concomitant non-steroidal anti-inflammatory drugs, and some also were taking low doses of corticosteroids): elevated liver function tests, 14%; gastrointestinal reactions (e.g., nausea, vomiting, diarrhea), 11%; stomatitis, 2%; leukopenia, 2%; headache, 1.2%; alopecia, 0.5%; dizziness, 0.2%; and rash, 0.2%.
+Although there is experience with dosing up to 30 mg/m2/wk in JRA, the published data for doses above 20 mg/m2/wk are too limited to provide reliable estimates of adverse reaction rates.
