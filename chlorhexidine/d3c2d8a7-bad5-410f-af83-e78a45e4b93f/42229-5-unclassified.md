@@ -2,9 +2,9 @@ MANUFACTURED BY
 
 Pharmaceutical Associates, Inc. Greenville, SC 29605 www.paipharma.com
 
-R03/20
+R12/20
 
-What To Expect When Using Chlorhexidine Gluconate Oral Rinse, 0.12%
+What To Expect When Using Chlorhexidine Gluconate Oral Rinse USP, 0.12%
 
 Your dentist has prescribed chlorhexidine gluconate oral rinse, 0.12% to treat your gingivitis, to help reduce the redness and swelling of your gums, and also to help you control any gum bleeding.
 Use chlorhexidine gluconate oral rinse regularly, as directed by your dentist, in addition to daily brushing.
@@ -35,4 +35,4 @@ MANUFACTURED BY
 
 Pharmaceutical Associates, Inc. Greenville, SC 29605 www.paipharma.com
 
-R03/20
+R12/20

@@ -11,25 +11,29 @@ Anaphylaxis, as well as serious allergic reactions, have been reported during po
 
 ## General
 
-- For patients having coexisting gingivitis and periodontitis, the presence or absence of gingival inflammation following treatment with chlorhexidine gluconate oral rinse, 0.12% should not be used as a major indicator of underlying periodontitis.
-- Chlorhexidine gluconate oral rinse, 0.12% can cause staining of oral surfaces, such as tooth surfaces, restorations, and the dorsum of the tongue.
-  Not all patients will experience a visually significant increase in tooth staining.
-  In clinical testing, 56% of chlorhexidine gluconate oral rinse users exhibited a measurable increase in facial anterior stain, compared to 35% of control users after six months; 15% of chlorhexidine gluconate users developed what was judged to be heavy stain, compared to 1% of control users after six months.
-  Stain will be more pronounced in patients who have heavier accumulations of unremoved plaque.
-  Stain resulting from use of chlorhexidine gluconate oral rinse, 0.12% does not adversely affect health of the gingivae or other oral tissues.
-  Stain can be removed from most tooth surfaces by conventional professional prophylactic techniques.
-  Additional time may be required to complete the prophylaxis.
-  Discretion should be used when prescribing to patients with anterior facial restorations with rough surfaces or margins.
-  If natural stain cannot be removed from these surfaces by a dental prophylaxis, patients should be excluded from chlorhexidine gluconate oral rinse, 0.12% treatment if permanent discoloration is unacceptable.
-  Stain in these areas may be difficult to remove by dental prophylaxis and on rare occasions may necessitate replacement of these restorations.
-- Some patients may experience an alteration in taste perception while undergoing treatment with chlorhexidine gluconate oral rinse.
-  Rare instances of permanent taste alteration following chlorhexidine gluconate oral rinse use have been reported via postmarketing product surveillance.
+1.
+For patients having coexisting gingivitis and periodontitis, the presence or absence of gingival inflammation following treatment with chlorhexidine gluconate oral rinse, 0.12% should not be used as a major indicator of underlying periodontitis.
+
+2.
+Chlorhexidine gluconate oral rinse, 0.12% can cause staining of oral surfaces, such as tooth surfaces, restorations, and the dorsum of the tongue.
+Not all patients will experience a visually significant increase in tooth staining.
+In clinical testing, 56% of chlorhexidine gluconate oral rinse users exhibited a measurable increase in facial anterior stain, compared to 35% of control users after six months; 15% of chlorhexidine gluconate users developed what was judged to be heavy stain, compared to 1% of control users after six months.
+Stain will be more pronounced in patients who have heavier accumulations of unremoved plaque.
+
+Stain resulting from use of chlorhexidine gluconate oral rinse, 0.12% does not adversely affect health of the gingivae or other oral tissues.
+Stain can be removed from most tooth surfaces by conventional professional prophylactic techniques.
+Additional time may be required to complete the prophylaxis.
+Discretion should be used when prescribing to patients with anterior facial restorations with rough surfaces or margins.
+If natural stain cannot be removed from these surfaces by a dental prophylaxis, patients should be excluded from chlorhexidine gluconate oral rinse, 0.12% treatment if permanent discoloration is unacceptable.
+Stain in these areas may be difficult to remove by dental prophylaxis and on rare occasions may necessitate replacement of these restorations.
+
+3.
+Some patients may experience an alteration in taste perception while undergoing treatment with chlorhexidine gluconate oral rinse.
+Rare instances of permanent taste alteration following chlorhexidine gluconate oral rinse use have been reported via postmarketing product surveillance.
 
 ## Pregnancy
 
 ### Teratogenic Effects
-
-#### Pregnancy Category B
 
 Reproduction studies have been performed in rats and rabbits at chlorhexidine gluconate doses up to 300 mg/kg/day and 40 mg/kg/day, respectively, and have not revealed evidence of harm to the fetus.
 However, adequate and well-controlled studies in pregnant women have not been done.
