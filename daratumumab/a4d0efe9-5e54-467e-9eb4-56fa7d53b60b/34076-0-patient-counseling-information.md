@@ -20,7 +20,7 @@ Advise patients to inform their healthcare providers, including personnel at blo
 
 Advise patients that DARZALEX can affect the results of some tests used to determine complete response in some patients and additional tests may be needed to evaluate response [see Warnings and Precautions (5.5)].
 
-Hepatitis B Virus (HBV) Reactivation:
+Hepatitis B Virus (HBV) Reactivation
 
 Advise patients to inform healthcare providers if they have ever had or might have a hepatitis B infection and that DARZALEX could cause hepatitis B virus to become active again [see Adverse Reactions (6.1)].
 

@@ -203,7 +203,7 @@ Table 14: Treatment-Emergent Hematology Laboratory Abnormalities in POLLUX
 | Neutropenia | 92 | 36 | 17 | 87 | 32 | 8 |
 | Thrombocytopenia | 73 | 7 | 6 | 67 | 10 | 5 |
 | Anemia | 52 | 13 | 0 | 57 | 19 | 0 |
-| Key: D=Daratumumab, Rd=lenalidomide-dexamethasone. |  |  |  |  |  |  |
+| Key: D=daratumumab, Rd=lenalidomide-dexamethasone. |  |  |  |  |  |  |
 
 Combination Treatment with Bortezomib and Dexamethasone
 
@@ -247,7 +247,7 @@ Table 16: Treatment-Emergent Hematology Laboratory Abnormalities in CASTOR
 | Lymphopenia | 89 | 41 | 7 | 81 | 24 | 3 |
 | Neutropenia | 58 | 12 | 3 | 40 | 5 | < 1 |
 | Anemia | 48 | 13 | 0 | 56 | 14 | 0 |
-| Key: D=Daratumumab, Vd=bortezomib-dexamethasone. |  |  |  |  |  |  |
+| Key: D=daratumumab, Vd=bortezomib-dexamethasone. |  |  |  |  |  |  |
 
 Combination Treatment with Twice-Weekly (20/56 mg/m2) Carfilzomib and Dexamethasone
 
@@ -293,7 +293,7 @@ Table 17: Adverse Reactions (≥15%) in Patients Who Received DARZALEX in Combin
 | Insomnia | 18 | 3.9 | 11 | 2 |
 | Musculoskeletal and connective tissue disorders |  |  |  |  |
 | Back pain | 16 | 1.9 | 10 | 1.3 |
-| Key: D=Daratumumab; Kd=carfilzomib-dexamethasone |  |  |  |  |
+| Key: D=daratumumab; Kd=carfilzomib-dexamethasone |  |  |  |  |
 
 Adverse Reactions Occurring at a Frequency of < 15%
 
@@ -359,7 +359,7 @@ Table 18: Adverse Reactions (≥15%) of Patients Who Received DARZALEX in Combin
 | Musculoskeletal and connective tissue disorders |  |  |
 | Back pain | 25 | 0 |
 | Pain in extremity | 15 | 0 |
-| Key: D=Daratumumab; Kd=carfilzomib-dexamethasone |  |  |
+| Key: D=daratumumab; Kd=carfilzomib-dexamethasone |  |  |
 
 Adverse Reactions Occurring at a Frequency of < 15%
 
@@ -426,7 +426,7 @@ Table 19: Adverse Reactions With Incidence ≥10% Reported in EQUULEUS
 | Hypokalemia | 16 | 3 | 0 |
 | Hyperglycemia | 13 | 5 | 1 |
 | Decreased appetite | 11 | 0 | 0 |
-| Key: D=Daratumumab, Pd=pomalidomide-dexamethasone. |  |  |  |
+| Key: D=daratumumab, Pd=pomalidomide-dexamethasone. |  |  |  |
 
 Laboratory abnormalities worsening during treatment are listed in Table 20.
 
@@ -439,7 +439,7 @@ Table 20: Treatment-Emergent Hematology Laboratory Abnormalities in EQUULEUS
 | Lymphopenia | 94 | 45 | 26 |
 | Thrombocytopenia | 75 | 10 | 10 |
 | Anemia | 57 | 30 | 0 |
-| Key: D=Daratumumab, Pd=pomalidomide-dexamethasone. |  |  |  |
+| Key: D=daratumumab, Pd=pomalidomide-dexamethasone. |  |  |  |
 
 Monotherapy
 
@@ -542,9 +542,11 @@ However, this assay has limitations in detecting anti-daratumumab antibodies in 
 
 ## 6.3 Postmarketing Experience
 
-The following adverse reactions have been identified during postapproval use of DARZALEX.
+The following adverse reactions have been identified during post-approval use of daratumumab.
 Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
 
 Immune System disorders: Anaphylactic reaction
 
 Gastrointestinal disorders: Pancreatitis
+
+Infections: Cytomegalovirus, Listeriosis

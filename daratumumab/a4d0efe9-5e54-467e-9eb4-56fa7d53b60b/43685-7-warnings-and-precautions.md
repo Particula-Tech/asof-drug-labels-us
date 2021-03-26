@@ -23,7 +23,7 @@ In EQUULEUS, patients receiving combination treatment (n=97) were administered t
 The incidence of any grade infusion-related reactions was 42%, with 36% of patients experiencing infusion-related reactions on Day 1 of Week 1, 4% on Day 2 of Week 1, and 8% with subsequent infusions.
 The median time to onset of a reaction was 1.8 hours (range: 0.1 to 5.4 hours).
 The incidence of infusion interruptions due to reactions was 30%.
-Median durations of infusions were 4.2 h for Week 1-Day 1, 4.2 h for Week 1-Day 2, and 3.4 hours for the subsequent infusions.
+Median durations of infusions were 4.2 hours for Week 1-Day 1, 4.2 hours for Week 1-Day 2, and 3.4 hours for the subsequent infusions.
 
 Pre-medicate patients with antihistamines, antipyretics and corticosteroids.
 Frequently monitor patients during the entire infusion [see Dosage and Administration (2.3)].

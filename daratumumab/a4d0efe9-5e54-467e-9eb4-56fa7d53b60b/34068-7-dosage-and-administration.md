@@ -165,7 +165,7 @@ Management of infusion-related reactions may further require reduction in the ra
   If the patient does not experience additional symptoms, resume infusion rate escalation at increments and intervals as outlined in Table 6.
   Repeat the procedure above in the event of recurrence of Grade 3 symptoms.
   Permanently discontinue DARZALEX upon the third occurrence of a Grade 3 or greater infusion-related reaction.
-- Grade 4 (life threatening): Permanently discontinue DARZALEX.
+- Grade 4 (life-threatening): Permanently discontinue DARZALEX.
 
 ## 2.5 Preparation and Administration
 
