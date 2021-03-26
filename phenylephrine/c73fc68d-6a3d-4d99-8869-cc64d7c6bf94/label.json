@@ -1,0 +1,21 @@
+{
+  "application_numbers": [
+    "NDA204300"
+  ],
+  "inn": "phenylephrine",
+  "labeler": "Exela Phrama Sciences, LLC",
+  "package_ndcs": [
+    "51754-4000-3",
+    "51754-4010-4",
+    "51754-4020-1"
+  ],
+  "products": [
+    {
+      "form": "INJECTION",
+      "generic": "phenylephrine hydrochloride",
+      "name": "Vazculep"
+    }
+  ],
+  "setid": "c73fc68d-6a3d-4d99-8869-cc64d7c6bf94",
+  "source": "dailymed"
+}
