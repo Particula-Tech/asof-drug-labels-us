@@ -46,7 +46,7 @@ Table 3: Effect of Coadministered Drugs or Grapefruit Juice on Simvastatin Syste
 |  | AUC C max | C max |  |  |  |
 | --- | --- | --- | --- | --- | --- |
 | Coadministered Drug or Grapefruit Juice | Dosing of Coadministered Drug or Grapefruit Juice | Dosing of Simvastatin | Geometric Mean Ratio (Ratio Results based on a chemical assay except results with propranolol as indicated. with / without co-administered drug) No Effect = 1.00 |  |  |
-| Contraindicated with simvastatin [see Contraindications (4) and Warnings and Precautions (5.1)] |  |  |  |  |  |
+| Contraindicated with simvastatin[see Contraindications (4) and Warnings and Precautions (5.1)] |  |  |  |  |  |
 | Telithromycin Results could be representative of the following CYP3A4 inhibitors: ketoconazole, erythromycin, clarithromycin, HIV protease inhibitors, and nefazodone. | 200 mg QD for 4 days | 80 mg | simvastatin acid Simvastatin acid refers to the β-hydroxyacid of simvastatin. simvastatin | 12 8.9 | 15 5.3 |
 | Nelfinavir | 1250 mg BID for 14 days | 20 mg QD for 28 days | simvastatin acid simvastatin | 6 | 6.2 |
 | Itraconazole | 200 mg QD for 4 days | 80 mg | simvastatin acid simvastatin |  | 13.113.1 |
@@ -70,7 +70,7 @@ Table 3: Effect of Coadministered Drugs or Grapefruit Juice on Simvastatin Syste
 | No dosing adjustments required for the following: |  |  |  |  |  |
 | Fenofibrate | 160 mg QD X 14 days | 80 mg QD on Days 8 to 14 | simvastatin acid simvastatin | 0.64 0.89 | 0.89 0.83 |
 | Niacin extended-release | 2 g single dose | 20 mg single dose | simvastatin acid simvastatin | 1.6 1.4 | 1.84 1.08 |
-| Propranolol | 80 mg single dose | 80 mg single dose | total inhibitor active inhibitor | 0.79 0.79 | ↓ from 33.6 to 21.1 ng·eq/mL ↓ from 7.0 to 4.7 ng·eq/mL |
+| Propranolol | 80 mg single dose | 80 mg single dose | total inhibitor active inhibitor | 0.79 0.79 | from 33.6 to 21.1 ng·eq/mL ↓ from 7.0 to 4.7 ng·eq/mL |
 
 In a study of 12 healthy volunteers, simvastatin at the 80-mg dose had no effect on the metabolism of the probe cytochrome P450 isoform 3A4 (CYP3A4) substrates midazolam and erythromycin.
 This indicates that simvastatin is not an inhibitor of CYP3A4, and, therefore, is not expected to affect the plasma levels of other drugs metabolized by CYP3A4.
