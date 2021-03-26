@@ -10,7 +10,7 @@ For the rat, the highest dose level was, on a mg/m2 basis, about twice the MRHD.
 
 Mutagenicity studies conducted with amlodipine maleate revealed no drug related effects at either the gene or chromosome levels.
 
-There was no effect on the fertility of rats treated orally with amlodipine maleate (males for 64 days and females for 14 days prior to mating) at doses up to 10 mg amlodipine/kg/day (8 times the MRHD4 of 10 mg/day on a mg/m2 basis).
+There was no effect on the fertility of rats treated orally with amlodipine maleate (males for 64 days and females for 14 days prior to mating) at doses up to 10 mg amlodipine/kg/day (8 times the MRHD of 10 mg/day on a mg/m2 basis).
 
 Atorvastatin
 
