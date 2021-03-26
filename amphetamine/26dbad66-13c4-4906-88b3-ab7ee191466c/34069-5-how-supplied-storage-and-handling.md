@@ -5,7 +5,10 @@ Bottles of 100 NDC 70010-040-01 10 mg: Light blue, round, biconvex, double score
 Bottles of 100 NDC 70010-041-01 Store at 20° to 25°C (68° to 77°F).
 [See USP Controlled Room Temperature.]
 Dispense in a well closed container, as defined in the USP.
-Manufactured by: Granules Pharmaceuticals Inc., Chantilly, VA 20151
+
+Dispense with medication guide is also available at:
+
+http://www.granulesindia.com/U.S.ProductCatalog.php Manufactured by: Granules Pharmaceuticals Inc., Chantilly, VA 20151
 
 Rev.
-03/19
+03/21

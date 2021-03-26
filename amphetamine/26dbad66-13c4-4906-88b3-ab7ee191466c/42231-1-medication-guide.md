@@ -1,4 +1,4 @@
-# .
+# MEDICATION GUIDE
 
 MEDICATION GUIDE Amphetamine Sulfate Tablets (am fet’ a meen sul’ fate) Read this Medication Guide before you or your child starts taking amphetamine sulfate tablets and each time you get a refill.
 There may be new information.This information does not take the place of talking to your doctor about you or your child's treatment.
@@ -76,5 +76,11 @@ The 10 mg tablets also contain FD&C Blue #1 aluminum lake.
 
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
 
-Manufactured by: Granules Pharmaceuticals Inc., Chantilly, VA 20151 Rev.
-03/19
+Dispense with medication guide is also available at:
+
+http://www.granulesindia.com/U.S.ProductCatalog.php
+
+Manufactured by:
+
+Granules Pharmaceuticals Inc., Chantilly, VA 20151 Rev.
+03/21
