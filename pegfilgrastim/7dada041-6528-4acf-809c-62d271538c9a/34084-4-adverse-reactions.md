@@ -8,9 +8,12 @@ The following clinically significant adverse reactions are discussed in greater 
 - •Use in Patients with Sickle Cell Disorders [see Warnings and Precautions (5.4)]
 - •Glomerulonephritis [see Warnings and Precautions (5.5)]
 - •Leukocytosis [see Warnings and Precautions (5.6)]
-- •Capillary Leak Syndrome [see Warnings and Precautions (5.7)]
-- •Potential for Tumor Growth Stimulatory Effects on Malignant Cells [see Warnings and Precautions (5.8)]
-- •Aortitis [see Warnings and Precautions (5.9)]
+- •Thrombocytopenia [see Warnings and Precautions (5.7)]
+- •Capillary Leak Syndrome [see Warnings and Precautions (5.8)]
+- •Potential for Tumor Growth Stimulatory Effects on Malignant Cells [see Warnings and Precautions (5.9)]
+- •Myelodysplastic syndrome [see Warnings and Precautions (5.10)]
+- •Acute myeloid leukemia [see Warnings and Precautions (5.10)]
+- •Aortitis [see Warnings and Precautions (5.11)]
 
 ## 6.1 Clinical Trials Experience
 
@@ -67,8 +70,10 @@ Because these reactions are reported voluntarily from a population of uncertain 
 - •Sickle cell crisis [see Warnings and Precautions (5.4)]
 - •Glomerulonephritis [see Warnings and Precautions (5.5)]
 - •Leukocytosis [see Warnings and Precautions (5.6)]
-- •Capillary Leak Syndrome [see Warnings and Precautions (5.7)]
+- •Thrombocytopenia [see Warnings and Precautions (5.7)]
+- •Capillary Leak Syndrome [see Warnings and Precautions (5.8)]
 - •Injection site reactions
 - •Sweet’s syndrome (acute febrile neutrophilic dermatosis), cutaneous vasculitis
-- •Aortitis [see Warnings and Precautions (5.9)]
+- •Myelodysplastic syndrome (MDS) and acute myeloid leukemia (AML) in patients with breast and lung cancer receiving chemotherapy and/or radiotherapy [see Warnings and Precautions (5.10)]
+- •Aortitis [see Warnings and Precautions (5.11)]
 - •Alveolar hemorrhage

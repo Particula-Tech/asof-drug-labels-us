@@ -9,6 +9,7 @@ Advise patients of the following risks and potential risks with ZIEXTENZO:
 - •Serious allergic reactions
 - •Sickle cell crisis
 - •Glomerulonephritis
+- •Increased risk of Myelodysplastic Syndrome and/or Acute Myeloid Leukemia in patients with breast and lung cancer who receive ZIEXTENZO in conjunction with chemotherapy and/or radiation therapy
 - •Capillary Leak Syndrome
 - •Aortitis
 
