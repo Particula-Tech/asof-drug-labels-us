@@ -150,9 +150,9 @@ Table 40: Efficacy Results in KEYNOTE-189
 | Number (%) of patients with event | 127 (31%) | 108 (52%) |
 | Median in months (95% CI) | NR (NR, NR) | 11.3 (8.7, 15.1) |
 | Hazard ratioBased on the stratified Cox proportional hazard model (95% CI) | 0.49 (0.38, 0.64) |  |
-| p-ValueBased on stratified log-rank test. | <0.0001 |  |
+| p-ValueBased on a stratified log-rank test. | <0.0001 |  |
 | PFS |  |  |
-| Number of patients with event (%) | 244 (60%) | 166 (81%) |
+| Number of patients with event (%) | 245 (60%) | 166 (81%) |
 | Median in months (95% CI) | 8.8 (7.6, 9.2) | 4.9 (4.7, 5.5) |
 | Hazard ratio (95% CI) | 0.52 (0.43, 0.64) |  |
 | p-Value | <0.0001 |  |
@@ -160,10 +160,12 @@ Table 40: Efficacy Results in KEYNOTE-189
 | ORRResponse: Best objective response as confirmed complete response or partial response (95% CI) | 48% (43, 53) | 19% (14, 25) |
 | Complete response | 0.5% | 0.5% |
 | Partial response | 47% | 18% |
-| p-ValueBased on Miettinen and Nurminen method stratified by PD-L1 status, platinum chemotherapy and smoking status | <0.0001 |  |
+| p-ValueBased on Miettinen and Nurminen method stratified by PD-L1 status, platinum chemotherapy, and smoking status | <0.0001 |  |
 | Duration of Response |  |  |
 | Median in months (range) | 11.2 (1.1+, 18.0+) | 7.8 (2.1+, 16.4+) |
 | NR = not reached |  |  |
+
+At the protocol-specified final OS analysis, the median in the KEYTRUDA in combination with pemetrexed and platinum chemotherapy arm was 22.0 months (95% CI: 19.5, 24.5) compared to 10.6 months (95% CI: 8.7, 13.6) in the placebo with pemetrexed and platinum chemotherapy arm, with an HR of 0.56 (95% CI: 0.46, 0.69).
 
 First-line treatment of metastatic squamous NSCLC with carboplatin and either paclitaxel or paclitaxel protein-bound chemotherapy
 
@@ -200,7 +202,7 @@ Table 41: Efficacy Results in KEYNOTE-407
 | p-ValueBased on a stratified log-rank test | 0.0017 |  |
 | PFS |  |  |
 | Number of events (%) | 152 (55%) | 197 (70%) |
-| Median in months (95% CI) | 6.4 (6.2, 8.3) | 4.8 (4.3, 5.7) |
+| Median in months (95% CI) | 6.4 (6.2, 8.3) | 4.8 (4.2, 5.7) |
 | Hazard ratio (95% CI) | 0.56 (0.45, 0.70) |  |
 | p-Value | <0.0001 |  |
 |  | n=101 | n=103 |
@@ -211,6 +213,8 @@ Table 41: Efficacy Results in KEYNOTE-407
 | Duration of Response |  |  |
 | Median duration of response in months (range) | 7.2 (2.4, 12.4+) | 4.9 (2.0, 12.4+) |
 | NE = not estimable |  |  |
+
+At the protocol-specified final OS analysis, the median in the KEYTRUDA in combination with carboplatin and either paclitaxel or paclitaxel protein-bound chemotherapy arm was 17.1 months (95% CI: 14.4, 19.9) compared to 11.6 months (95% CI: 10.1, 13.7) in the placebo with carboplatin and either paclitaxel or paclitaxel protein-bound chemotherapy arm, with an HR of 0.71 (95% CI: 0.58, 0.88).
 
 First-line treatment of metastatic NSCLC as a single agent
 
@@ -253,8 +257,8 @@ Table 42: Efficacy Results of All Randomized Patients (TPS ≥1% and TPS ≥50%)
 | p-ValueBased on a stratified log-rank test; compared to a p-Value boundary of 0.0291 | 0.0036 |  | 0.0006 |  |
 | PFS |  |  |  |  |
 | Number of events (%) | 507 (80%) | 506 (79%) | 221 (74%) | 233 (78%) |
-| Median in months (95% CI) | 5.4 (4.3, 6.2) | 6.5 (6.3, 7.0) | 7.1 (5.9, 9.0) | 6.4 (6.1, 6.9) |
-| Hazard ratio, Not evaluated for statistical significance as a result of the sequential testing procedure for the secondary endpoints (95% CI) | 1.07 (0.94, 1.21) |  | 0.81 (0.67, 0.99) |  |
+| Median in months (95% CI) | 5.4 (4.3, 6.2) | 6.5 (6.3, 7.0) | 6.9 (5.9, 9.0) | 6.4 (6.1, 6.9) |
+| Hazard ratio, Not evaluated for statistical significance as a result of the sequential testing procedure for the secondary endpoints (95% CI) | 1.07 (0.94, 1.21) |  | 0.82 (0.68, 0.99) |  |
 | p-Value | - |  | NSNot significant compared to a p-Value boundary of 0.0291 |  |
 | Objective Response Rate |  |  |  |  |
 | ORR (95% CI) | 27% (24, 31) | 27% (23, 30) | 39% (33.9, 45.3) | 32% (26.8, 37.6) |
