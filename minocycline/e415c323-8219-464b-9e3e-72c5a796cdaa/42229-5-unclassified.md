@@ -7,10 +7,10 @@ For current package insert and further product information, please visit www.min
 Call between 9:00 a.m. and 5:00 p.m.
 Eastern Time, Monday through Friday.
 
-Manufactured for Rempex Pharmaceuticals, Inc., a wholly-owned subsidiary of Melinta Therapeutics, Inc. All rights reserved.
+Manufactured for Rempex Pharmaceuticals, Inc., a wholly-owned subsidiary of Melinta Therapeutics, LLC All rights reserved.
 
-Marketed and Distributed by Melinta Therapeutics, Inc. Lincolnshire, IL 60069 USA
+Marketed and Distributed by Melinta Therapeutics, LLC Lincolnshire, IL 60069 USA
 
-04/20
+2/2021
 
-MEL080-R002
+MEL080-R003
