@@ -1,6 +1,6 @@
 # 11 DESCRIPTION
 
-Tranexamic Acid is trans-4-(Aminomethyl)cyclohexanecarboxylic acid, an antifibrinolytic agent.
+Tranexamic acid is trans-4-(Aminomethyl)cyclohexanecarboxylic acid, an antifibrinolytic agent.
 Tranexamic acid, USP is a white crystalline powder.
 The structural formula is
 

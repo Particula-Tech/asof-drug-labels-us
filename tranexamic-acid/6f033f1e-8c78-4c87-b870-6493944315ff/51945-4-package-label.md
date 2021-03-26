@@ -1,10 +1,10 @@
-# PACKAGE/LABEL PRINCIPAL DISPLAY PANEL - 1000 mg/10 mL
+# PACKAGE/LABEL PRINCIPAL DISPLAY PANEL – 1,000 mg/10 mL
 
 NDC 67457-197-10
 
 Tranexamic Acid Injection, USP
 
-1000 mg/10 mL (100 mg/mL)
+1,000 mg/10 mL (100 mg/mL)
 
 For Intravenous Use Only
 
@@ -26,6 +26,6 @@ Manufactured for: Mylan Institutional LLC Morgantown, WV 26505 U.S.A.
 
 Manufactured by: Mylan Institutional Galway, Ireland
 
-MI:197:10C:R7
+MI:197:10C:R8
 
 Mylan.com
