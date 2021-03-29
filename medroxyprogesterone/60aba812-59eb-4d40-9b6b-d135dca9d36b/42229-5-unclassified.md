@@ -2,10 +2,12 @@
 
 Medroxyprogesterone Acetate
 
-(med ROX ee proe JES ter one AS e tate) Injectable Suspension USP
+(med ROX ee proe JES ter one AS e tate)
+
+Injectable Suspension, USP
 
 Read this Patient Information carefully before you decide if medroxyprogesterone acetate injectable suspension is right for you.
-This information does not take the place of talking with your gynecologist or other healthcare provider who specializes in women’s health.
+This information does not take the place of talking with your gynecologist or other healthcare provider who specializes in women's health.
 If you have any questions about medroxyprogesterone acetate injectable suspension, ask your healthcare provider.
 You should also learn about other birth control methods to choose the one that is best for you.
 
@@ -18,7 +20,7 @@ Medroxyprogesterone acetate injectable suspension can cause serious side effects
   Your bones may not recover completely when you stop using medroxyprogesterone acetate injectable suspension.
 - •If you use medroxyprogesterone acetate injectable suspension continuously for a long time (for more than 2 years), it may increase the risk of weak, porous bones (osteoporosis) that could increase the risk of broken bones, especially after menopause.
 - •You should not use medroxyprogesterone acetate injectable suspension for more than two years unless you cannot use other birth control methods.
-- •It is not known if your risk of developing osteoporosis is greater if you are a teenager or young adult when you start to use medroxyprogesterone acetate injectable suspension (see “What are the possible side effects of medroxyprogesterone acetate injectable suspension?”).
+- •It is not known if your risk of developing osteoporosis is greater if you are a teenager or young adult when you start to use medroxyprogesterone acetate injectable suspension (see "What are the possible side effects of medroxyprogesterone acetate injectable suspension?").
 
 Medroxyprogesterone acetate injectable suspension is intended to prevent pregnancy.
 Medroxyprogesterone acetate injectable suspension does not protect against HIV infection (AIDS) and other sexually transmitted diseases (STDs).
@@ -45,44 +47,46 @@ How should I take medroxyprogesterone acetate injectable suspension?
   The shot is given in your buttock or upper arm 1 time every 3 months.
   At the end of the 3 months, you will need to return to your healthcare provider for your next injection in order to continue your protection against pregnancy.
 - •To make sure that you are not pregnant before you take medroxyprogesterone acetate injectable suspension, the first injection should be given only:
-- o during the first 5 days of a normal menstrual period, or
-- o within the first 5 days after giving birth, if you are not breastfeeding, or
-- o at the 6th week after giving birth, if you are feeding your baby only breastmilk.
+- oduring the first 5 days of a normal menstrual period, or
+- owithin the first 5 days after giving birth, if you are not breastfeeding, or
+- oat the 6th week after giving birth, if you are feeding your baby only breastmilk.
 - •Medroxyprogesterone acetate injectable suspension may be given at other times than those listed above, but you will likely need to have a pregnancy test first to show that you are not pregnant.
 - •During treatment with medroxyprogesterone acetate injectable suspension, you should see your healthcare provider every year for a blood pressure check and other healthcare needs.
 
-Who should not use medroxyprogesterone acetate injectable suspension?
+Who Should Not Use Medroxyprogesterone Acetate Injectable Suspension?
 
-1. Do not use medroxyprogesterone acetate injectable suspension if you:
-2. •are pregnant or think you might be pregnant
-3. •have bleeding from your vagina that has not been explained
-4. •have breast cancer now or in the past, or think you have breast cancer
-5. •have had a stroke
-6. •ever had blood clots in your arms, legs or lungs
-7. •have problems with your liver or liver disease
-8. •are allergic to medroxyprogesterone acetate or any of the other ingredients in medroxyprogesterone acetate injectable suspension.
-   See the end of this leaflet for a complete list of ingredients in medroxyprogesterone acetate injectable suspension.
+Do not use medroxyprogesterone acetate injectable suspension if you:
+
+- •are pregnant or think you might be pregnant
+- •have bleeding from your vagina that has not been explained
+- •have breast cancer now or in the past, or think you have breast cancer
+- •have had a stroke
+- •ever had blood clots in your arms, legs or lungs
+- •have problems with your liver or liver disease
+- •are allergic to medroxyprogesterone acetate or any of the other ingredients in medroxyprogesterone acetate injectable suspension.
+  See the end of this leaflet for a complete list of ingredients in medroxyprogesterone acetate injectable suspension.
 
 What should I tell my healthcare provider before taking medroxyprogesterone acetate injectable suspension?
 
-1. Before taking medroxyprogesterone acetate injectable suspension, tell your healthcare provider if you have:
-2. •risk factors for weak bones (osteoporosis) such as bone disease, use alcohol or smoke regularly, anorexia nervosa, or a strong family history of osteoporosis
-3. •irregular or lighter than usual menstrual periods
-4. •breast cancer now or in the past, or think you have breast cancer
-5. •a family history of breast cancer
-6. •an abnormal mammogram (breast X-ray), lumps in your breasts, or bleeding from your nipples
-7. •kidney problems
-8. •high blood pressure
-9. •had a stroke
-10. •had blood clots in your arms, legs or lungs
-11. •migraine headaches
-12. •asthma
-13. •epilepsy (convulsions or seizures)
-14. •diabetes
-15. •depression or a history of depression
-16. •any other medical conditions
+Before taking medroxyprogesterone acetate injectable suspension, tell your healthcare provider if you have:
 
-If you are breastfeeding or plan to breastfeed, medroxyprogesterone acetate can pass into your breast milk.
+- •risk factors for weak bones (osteoporosis) such as bone disease, use alcohol or smoke regularly, anorexia nervosa, or a strong family history of osteoporosis
+- •irregular or lighter than usual menstrual periods
+- •breast cancer now or in the past, or think you have breast cancer
+- •a family history of breast cancer
+- •an abnormal mammogram (breast X-ray), lumps in your breasts, or bleeding from your nipples
+- •kidney problems
+- •high blood pressure
+- •had a stroke
+- •had blood clots in your arms, legs or lungs
+- •migraine headaches
+- •asthma
+- •epilepsy (convulsions or seizures)
+- •diabetes
+- •depression or a history of depression
+- •any other medical conditions
+
+If you are breastfeeding or plan to breastfeed, medroxyprogesterone acetate injectable suspension can pass into your breast milk.
 Talk to your healthcare provider about the best way to feed your baby if you take medroxyprogesterone acetate injectable suspension.
 
 Tell your healthcare provider about all of the medicines you take, including prescription and nonprescription medicines, vitamins, and herbal supplements.
@@ -101,18 +105,18 @@ Especially tell your healthcare provider if you take:
 - •an antibiotic
 - •medicine for HIV (AIDS)
 - •St.
-  John’s wort
+  John's wort
 
 Know the medicines you take.
 Keep a list of your medicines with you to show your healthcare provider or pharmacist before you first start taking medroxyprogesterone acetate injectable suspension or when you get a new medicine.
 
-Follow your healthcare provider’s instructions about using a back-up method of birth control if you are taking medicines that may make medroxyprogesterone acetate injectable suspension less effective.
+Follow your healthcare provider's instructions about using a back-up method of birth control if you are taking medicines that may make medroxyprogesterone acetate injectable suspension less effective.
 
 What are the possible side effects of medroxyprogesterone acetate injectable suspension?
 
 Medroxyprogesterone acetate injectable suspension can cause serious side effects, including:
 
-- •Effect on the bones: See “What is the most important information I should know about medroxyprogesterone acetate injectable suspension?”.
+- •Effect on the bones: See "What is the most important information I should know about medroxyprogesterone acetate injectable suspension?".
 - Teenage years are the most important years to gain bone strength.
   The decrease in calcium in your bones is of most concern if you are a teenager or have the following problems:
 - •bone disease
@@ -121,14 +125,11 @@ Medroxyprogesterone acetate injectable suspension can cause serious side effects
 - •you take a drug that can lower the amount of calcium in your bones (drugs for epilepsy or steroid drugs)
 - •you drink a lot of alcohol (more than 2 drinks a day)
 - •you smoke
-
-If you need a birth control method for more than 2 years, your healthcare provider may switch you to another birth control method instead of using medroxyprogesterone acetate injectable suspension.
-If you continue using medroxyprogesterone acetate injectable suspension, your healthcare provider may ask you to have a bone test, especially if you have other risks for weak bones.
-
-When medroxyprogesterone acetate injectable suspension is stopped, your bones may start to regain calcium.
-However, in a study of teenage girls who used medroxyprogesterone acetate injectable suspension for more than 2 years, their hip bones did not completely recover by 5 years after they stopped using medroxyprogesterone acetate injectable suspension.
-Taking calcium and Vitamin D and exercising daily may lessen the loss of calcium from your bones.
-
+- If you need a birth control method for more than 2 years, your healthcare provider may switch you to another birth control method instead of using medroxyprogesterone acetate injectable suspension.
+  If you continue using medroxyprogesterone acetate injectable suspension, your healthcare provider may ask you to have a bone test, especially if you have other risks for weak bones.
+- When medroxyprogesterone acetate injectable suspension is stopped, your bones may start to regain calcium.
+  However, in a study of teenage girls who used medroxyprogesterone acetate injectable suspension for more than 2 years, their hip bones did not completely recover by 5 years after they stopped using medroxyprogesterone acetate injectable suspension.
+  Taking calcium and Vitamin D and exercising daily may lessen the loss of calcium from your bones.
 - •possible increased risk of breast cancer.
   Women who use medroxyprogesterone acetate injectable suspension may have a slightly increased risk of breast cancer compared to non-users.
 - •blood clots in your arms, legs, lungs, and eyes
@@ -142,7 +143,10 @@ Taking calcium and Vitamin D and exercising daily may lessen the loss of calcium
 - •migraine headaches
 - •depression
 - •convulsions or seizures
-- •liver problems Call your healthcare provider right away if you have: sharp chest pain, coughing up blood, or sudden shortness of breath (indicating a possible clot in the lung) sudden severe headache or vomiting, dizziness or fainting, problems with your eyesight or speech, weakness, or numbness in an arm or leg (indicating a possible stroke) severe pain or swelling in the calf (indicating a possible clot in the leg) sudden blindness, partial or complete (indicating a possible clot in the blood vessels of the eye) unusually heavy vaginal bleeding severe pain or tenderness in the lower abdominal area persistent pain, pus, or bleeding at the injection site yellowing of the eyes or skin hives difficulty breathing swelling of the face, mouth, tongue or neck
+- •liver problems
+
+Call your healthcare provider right away if you have:
+
 - •sharp chest pain, coughing up blood, or sudden shortness of breath (indicating a possible clot in the lung)
 - •sudden severe headache or vomiting, dizziness or fainting, problems with your eyesight or speech, weakness, or numbness in an arm or leg (indicating a possible stroke)
 - •severe pain or swelling in the calf (indicating a possible clot in the leg)
@@ -154,7 +158,9 @@ Taking calcium and Vitamin D and exercising daily may lessen the loss of calcium
 - •hives
 - •difficulty breathing
 - •swelling of the face, mouth, tongue or neck
-- The most common side effects of medroxyprogesterone acetate injectable suspension include:
+
+The most common side effects of medroxyprogesterone acetate injectable suspension include:
+
 - •irregular vaginal bleeding, such as lighter or heavier menstrual bleeding, or continued spotting
 - •weight gain.
   You may experience weight gain while you are using medroxyprogesterone acetate injectable suspension.
@@ -174,7 +180,7 @@ These are not all the possible side effects of medroxyprogesterone acetate injec
 For more information, ask your healthcare provider or pharmacist.
 
 Call your doctor for medical advice about side effects.
-You may report side effects to FDA at 1-800-FDA-1088.
+You may report side effects to FDA at 1- 800-FDA-1088.
 
 What other information should I know before choosing medroxyprogesterone acetate injectable suspension?
 
@@ -185,23 +191,26 @@ What other information should I know before choosing medroxyprogesterone acetate
   You should not use medroxyprogesterone acetate injectable suspension if you are pregnant.
   However, medroxyprogesterone acetate injectable suspension taken by accident during pregnancy does not seem to cause birth defects.
 - •Nursing Mothers.
-  Although medroxyprogesterone acetate can be passed to the nursing baby in the breast milk, no harmful effects on babies have been found.
+  Although medroxyprogesterone acetate injectable suspension can be passed to the nursing baby in the breast milk, no harmful effects on babies have been found.
   Medroxyprogesterone acetate injectable suspension does not stop the breasts from producing milk, so it can be used by nursing mothers.
   However, to minimize the amount of medroxyprogesterone acetate injectable suspension that is passed to the baby in the first weeks after birth, you should wait until your baby is 6 weeks old before you start using medroxyprogesterone acetate injectable suspension for birth control.
-- How will medroxyprogesterone acetate injectable suspension change my periods?
+
+How will medroxyprogesterone acetate injectable suspension change my periods?
+
 - •Change in normal menstrual cycle.
   The side effect reported most frequently by women who use medroxyprogesterone acetate injectable suspension for birth controls is a change in their normal menstrual cycle.
   During the first year of using medroxyprogesterone acetate injectable suspension, you might have one or more of the following changes:
 - oirregular or unpredictable bleeding or spotting
 - oan increase or decrease in menstrual bleeding
 - ono bleeding at all.
-  In clinical studies of medroxyprogesterone acetate injectable suspension 55% of women reported no menstrual bleeding (amenorrhea) after one year of use and 68% of women reported no menstrual bleeding after two years of use.
+  In clinical studies of medroxyprogesterone acetate injectable suspension, 55% of women reported no menstrual bleeding (amenorrhea) after one year of use and 68% of women reported no menstrual bleeding after two years of use.
 - •Missed period.
   During the time you are using medroxyprogesterone acetate injectable suspension for birth controls, you may skip a period, or your periods may stop completely.
   If you have been receiving your shot of medroxyprogesterone acetate injectable suspension regularly every 3 months, then you are probably not pregnant.
   However, if you think that you may be pregnant, see your healthcare provider.
 
 Unusually heavy or continuous bleeding is not a usual effect of medroxyprogesterone acetate injectable suspension and if this happens you should see your healthcare provider right away.
+
 With continued use of medroxyprogesterone acetate injectable suspension, bleeding usually decreases and many women stop having periods completely.
 When you stop using medroxyprogesterone acetate injectable suspension your menstrual period will usually, in time, return to its normal cycle.
 
@@ -211,7 +220,7 @@ Because medroxyprogesterone acetate injectable suspension is a long-acting birth
 Most women who try to get pregnant after using medroxyprogesterone acetate injectable suspension get pregnant within 18 months after their last shot.
 The length of time you use medroxyprogesterone acetate injectable suspension has no effect on how long it takes you to become pregnant after you stop using it.
 
-General information about medroxyprogesterone acetate injectable suspension
+General Information about medroxyprogesterone acetate injectable suspension
 
 Medicines are sometimes prescribed for conditions that are not mentioned in patient information leaflets.
 This leaflet summarizes the most important information about medroxyprogesterone acetate injectable suspension.
@@ -233,7 +242,7 @@ Manufactured for:
 
 Mylan Institutional LLC
 
-Rockford, IL 61103 U.S.A.
+Morgantown, WV 26505 U.S.A.
 
 Manufactured by:
 
@@ -241,4 +250,4 @@ Mylan Laboratories Limited
 
 Bangalore, India
 
-OCTOBER 2017
+MARCH 2021

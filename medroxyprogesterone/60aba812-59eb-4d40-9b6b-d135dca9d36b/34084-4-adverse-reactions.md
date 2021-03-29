@@ -1,22 +1,22 @@
 # 6 ADVERSE REACTIONS
 
-The following important adverse reactions observed with the use of medroxyprogesterone acetate injectable suspension are discussed in greater detail in the Warnings and Precautions section (5):
+The following important adverse reactions observed with the use of medroxyprogesterone acetate are discussed in greater detail in the Warnings and Precautions section (5):
 
 - •Loss of Bone Mineral Density [see Warnings and Precautions (5.1)]
 - •Thromboembolic disease [see Warnings and Precautions (5.2)]
 - •Breast Cancer [see Warnings and Precautions (5.3)]
 - •Anaphylaxis and Anaphylactoid Reactions [see Warnings and Precautions (5.5)]
-- •Bleeding Irregularities[see Warnings and Precautions (5.9)]
-- •Weight Gain [see Warnings and Precautions (5.10)]
+- •Bleeding Irregularities [see Warnings and Precautions (5.10)]
+- •Weight Gain [see Warnings and Precautions (5.11)]
 
 ## 6.1 Clinical Trials Experience
 
 Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical studies of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in practice.
 
-In the two clinical trials with medroxyprogesterone acetate injectable suspension, over 3,900 women, who were treated for up to 7 years, reported the following adverse reactions, which may or may not be related to the use of medroxyprogesterone acetate injectable suspension.
+In the two clinical trials with medroxyprogesterone acetate, over 3,900 women, who were treated for up to 7 years, reported the following adverse reactions, which may or may not be related to the use of medroxyprogesterone acetate.
 The population studied ranges in age from 15 to 51 years, of which 46% were White, 50% Non-White, and 4.9% Unknown race.
-The patients received 150 mg medroxyprogesterone acetate injectable suspension every 3-months (90 days).
-The median study duration was 13 months with a range of 1-84 months.
+The patients received 150 mg medroxyprogesterone acetate every 3-months (90 days).
+The median study duration was 13 months with a range of 1 to 84 months.
 Fifty eight percent of patients remained in the study after 13 months and 34% after 24 months.
 
 Table 1 Adverse Reactions that Were Reported by More than 5% of Subjects
@@ -24,7 +24,7 @@ Table 1 Adverse Reactions that Were Reported by More than 5% of Subjects
 | Body System* | Adverse Reactions [Incidence (%)] |
 | --- | --- |
 | Body as a Whole | Headache (16.5%) Abdominal pain/discomfort (11.2%) |
-| Metabolic/Nutritional | Increased weight >10 lbs at 24 months (37.7%) |
+| Metabolic/Nutritional | Increased weight > 10lbs at 24 months (37.7%) |
 | Nervous | Nervousness (10.8%) Dizziness (5.6%) Libido decreased (5.5%) |
 | Urogenital | Menstrual irregularities: (bleeding (57.3% at 12 months, 32.1% at 24 months) amenorrhea (55% at 12 months, 68% at 24 months) |
 
@@ -44,14 +44,14 @@ Table 2 Adverse Reactions that Were Reported by between 1 and 5% of Subjects
 
 * Body System represented from COSTART medical dictionary.
 
-Adverse reactions leading to study discontinuation in ≥ 2% of subjects: bleeding (8.2%), amenorrhea (2.1%), weight gain (2.0%)
+Adverse reactions leading to study discontinuation in ≥2% of subjects: bleeding (8.2%), amenorrhea (2.1%), weight gain (2.0%)
 
-## 6.2 Post-marketing Experience
+## 6.2 Post-Marketing Experience
 
-The following adverse reactions have been identified during post approval use of medroxyprogesterone acetate injectable suspension.
+The following adverse reactions have been identified during post approval use of medroxyprogesterone acetate.
 Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
 
-There have been cases of osteoporosis including osteoporotic fractures reported post-marketing in patients taking medroxyprogesterone acetate injectable suspension.
+There have been cases of osteoporosis including osteoporotic fractures reported post-marketing in patients taking medroxyprogesterone acetate.
 
 Table 3 Adverse Reactions Reported during Post-Marketing Experience
 
@@ -70,4 +70,4 @@ Table 3 Adverse Reactions Reported during Post-Marketing Experience
 
 * Body System represented from COSTART medical dictionary.
 
-† Injection site abscess and injection site infections have been reported; therefore strict aseptic injection technique should be followed when administering medroxyprogesterone acetate injectable suspension in order to avoid injection site infections [see Dosage and Administration (2.1)].
+† Injection site abscess and injection site infections have been reported; therefore strict aseptic injection technique should be followed when administering medroxyprogesterone acetate in order to avoid injection site infections [see Dosage and Administration (2.1)].

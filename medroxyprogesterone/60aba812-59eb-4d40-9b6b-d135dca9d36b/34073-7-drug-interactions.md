@@ -29,7 +29,7 @@ Consult the labeling of all concurrently-used drugs to obtain further informatio
 
 The pathologist should be advised of progestin therapy when relevant specimens are submitted.
 
-The following laboratory tests may be affected by progestins including medroxyprogesterone acetate injectable suspension:
+The following laboratory tests may be affected by progestins including medroxyprogesterone acetate:
 
 1. (a) Plasma and urinary steroid levels are decreased (e.g., progesterone, estradiol, pregnanediol, testosterone, cortisol).
 2. (b) Gonadotropin levels are decreased.
