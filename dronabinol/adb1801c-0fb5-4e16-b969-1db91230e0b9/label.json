@@ -1,0 +1,21 @@
+{
+  "application_numbers": [
+    "NDA018651"
+  ],
+  "inn": "dronabinol",
+  "labeler": "Ascend Laboratories, LLC",
+  "package_ndcs": [
+    "67877-753-60",
+    "67877-754-60",
+    "67877-755-60"
+  ],
+  "products": [
+    {
+      "form": "CAPSULE",
+      "generic": "dronabinol",
+      "name": "Dronabinol"
+    }
+  ],
+  "setid": "adb1801c-0fb5-4e16-b969-1db91230e0b9",
+  "source": "dailymed"
+}
