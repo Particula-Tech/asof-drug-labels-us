@@ -13,7 +13,7 @@ Animal reproduction studies performed at oral doses that provided up to 10 and 7
 
 ## 8.3 Nursing Mothers
 
-Following oral administration of a 500 mg dose of valacyclovir hydrochloride to 5 nursing mothers, peak acyclovir concentrations (Cmax) in breast milk ranged from 0.5 to 2.3 times (median 1.4) the corresponding maternal acyclovir serum concentrations.
+Following oral administration of a 500 mg dose of valacyclovir hydrochloride to 5 nursing mothers, peak acyclovir concentrations (C max) in breast milk ranged from 0.5 to 2.3 times (median 1.4) the corresponding maternal acyclovir serum concentrations.
 The acyclovir breast milk AUC ranged from 1.4 to 2.6 times (median 2.2) maternal serum AUC.
 A 500 mg maternal dosage of valacyclovir hydrochloride twice daily would provide a nursing infant with an oral acyclovir dosage of approximately 0.6 mg/kg/day.
 This would result in less than 2% of the exposure obtained after administration of a standard neonatal dose of 30 mg/kg/day of intravenous acyclovir to the nursing infant.

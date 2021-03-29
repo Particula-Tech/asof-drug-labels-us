@@ -12,7 +12,7 @@ Recurrent Episodes: The recommended dosage of valacyclovir tablets, USP for trea
 Initiate treatment at the first sign or symptom of an episode.
 Suppressive Therapy: The recommended dosage of valacyclovir tablets, USP for chronic suppressive therapy of recurrent genital herpes is 1 gram once daily in patients with normal immune function.
 In patients with a history of 9 or fewer recurrences per year, an alternative dose is 500 mg once daily.
-In HIV-infected patients with a CD4+ cell count ≥100 cells/mm3, the recommended dosage of valacyclovir tablets, USP for chronic suppressive therapy of recurrent genital herpes is 500 mg twice daily.
+In HIV-infected patients with a CD4+ cell count ≥100 cells/mm 3, the recommended dosage of valacyclovir tablets, USP for chronic suppressive therapy of recurrent genital herpes is 500 mg twice daily.
 Reduction of Transmission: The recommended dosage of valacyclovir tablets, USP for reduction of transmission of genital herpes in patients with a history of 9 or fewer recurrences per year is 500 mg once daily for the source partner.
 Herpes Zoster: The recommended dosage of valacyclovir tablets, USP for treatment of herpes zoster is 1 gram 3 times daily for 7 days.
 Therapy should be initiated at the earliest sign or symptom of herpes zoster and is most effective when started within 48 hours of the onset of rash.
@@ -38,7 +38,7 @@ Discard after 28 days.” * The amount of cherry flavor added is as instructed b
 ## 2.4 Patients with Renal impairment
 
 Dosage recommendations for adult patients with reduced renal function are provided in Table 1 [see Use in Specific Populations (8.5, 8.6), Clinical Pharmacology (12.3)].
-Data are not available for the use of valacyclovir tablets, USP in pediatric patients with a creatinine clearance <50 mL/min/1.73 m2.
+Data are not available for the use of valacyclovir tablets, USP in pediatric patients with a creatinine clearance <50 mL/min/1.73 m 2.
 Table 1.
 Valacyclovir Tablets, USP Dosage Recommendations for Adults With Renal Impairment
 

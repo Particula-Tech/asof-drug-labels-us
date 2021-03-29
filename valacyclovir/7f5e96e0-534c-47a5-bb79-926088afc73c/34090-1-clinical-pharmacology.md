@@ -11,14 +11,14 @@ Pharmacokinetics in Adults: Absorption and Bioavailability: After oral administr
 The absolute bioavailability of acyclovir after administration of valacyclovir hydrochloride is 54.5% ± 9.1% as determined following a 1 gram oral dose of valacyclovir hydrochloride and a 350 mg intravenous acyclovir dose to 12 healthy volunteers.
 Acyclovir bioavailability from the administration of valacyclovir hydrochloride is not altered by administration with food(30 minutes after an 873 Kcal breakfast, which included 51 grams of fat).
 Acyclovir pharmacokinetic parameter estimates following administration of valacyclovir hydrochloride to healthy adult volunteers are presented in Table 3.
-There was a less than dose-proportional increase in acyclovir maximum concentration (Cmax) and area under the acyclovir concentration-time curve (AUC) after single-dose and multiple-dose administration (4 times daily) of valacyclovir hydrochloride from doses between 250 mg to 1 gram.
+There was a less than dose-proportional increase in acyclovir maximum concentration (C max) and area under the acyclovir concentration-time curve (AUC) after single-dose and multiple-dose administration (4 times daily) of valacyclovir hydrochloride from doses between 250 mg to 1 gram.
 There is no accumulation of acyclovir after the administration of valacyclovir at the recommended dosage regimens in adults with normal renal function.
 Table 3.
 Mean (±SD) Plasma Acyclovir Pharmacokinetic Parameters Following Administration of Valacyclovir Hydrochloride to Healthy Adult Volunteers
 
-| Dose | Single-Dose Administration (N = 8) |  | Multiple-Dose Administrationa (N = 24, 8 per treatment arm) |  |
+| Dose | Single-Dose Administration (N = 8) |  | Multiple-Dose Administration a (N = 24, 8 per treatment arm) |  |
 | --- | --- | --- | --- | --- |
-|  | Cmax (±SD) (mcg/mL) | AUC (±SD) (hr●mcg/mL) | Cmax (±SD) (mcg/mL) | AUC (±SD) (hr●mcg/mL) |
+|  | C max (±SD) (mcg/mL) | AUC (±SD) (hr●mcg/mL) | C max (±SD) (mcg/mL) | AUC (±SD) (hr●mcg/mL) |
 | 100 mg | 0.83 (±0.14) | 2.28 (±0.40) | ND | ND |
 | 250 mg | 2.15 (±0.50) | 5.76 (±0.60) | 2.11 (±0.33) | 5.66 (±1.09) |
 | 500 mg | 3.28 (±0.83) | 11.59 (±1.79) | 3.69 (±0.87) | 9.88 (±2.01) |
@@ -44,10 +44,10 @@ Specific Populations: Renal Impairment: Reduction in dosage is recommended in pa
 Following administration of valacyclovir hydrochloride to volunteers with ESRD, the average acyclovir half-life is approximately 14 hours.
 During hemodialysis, the acyclovir half-life is approximately 4 hours.
 Approximately one third of acyclovir in the body is removed by dialysis during a 4-hour hemodialysis session.
-Apparent plasma clearance of acyclovir in dialysis patients was 86.3 ± 21.3 mL/min/1.73 m2 compared with 679.16 ± 162.76 mL/min/1.73 m2 in healthy volunteers.
+Apparent plasma clearance of acyclovir in dialysis patients was 86.3 ± 21.3 mL/min/1.73 m 2 compared with 679.16 ± 162.76 mL/min/1.73 m 2 in healthy volunteers.
 Hepatic Impairment: Administration of valacyclovir hydrochloride to patients with moderate (biopsy-proven cirrhosis) or severe (with and without ascites and biopsy-proven cirrhosis)liver disease indicated that the rate but not the extent of conversion of valacyclovir to acyclovir is reduced, and the acyclovir half-life is not affected.
 Dosage modification is not recommended for patients with cirrhosis.
-HIV Disease: In 9 patients with HIV disease and CD4+ cell counts <150 cells/mm3 who received valacyclovir hydrochloride at a dosage of 1 gram 4 times daily for 30 days, the pharmacokinetics of valacyclovir and acyclovir were not different from that observed in healthy volunteers.
+HIV Disease: In 9 patients with HIV disease and CD4+ cell counts <150 cells/mm 3 who received valacyclovir hydrochloride at a dosage of 1 gram 4 times daily for 30 days, the pharmacokinetics of valacyclovir and acyclovir were not different from that observed in healthy volunteers.
 Geriatrics: After single-dose administration of 1 gram of valacyclovir hydrochloride in healthy geriatric volunteers, the half-life of acyclovir was 3.11 ± 0.51 hours, compared with 2.91 ± 0.63 hours in healthy younger adult volunteers.
 The pharmacokinetics of acyclovir following single- and multiple-dose oral administration of valacyclovir hydrochloride in geriatric volunteers varied with renal function.
 Dose reduction may be required in geriatric patients, depending on the underlying renal status of the patient [see Dosage and Administration (2.4), Use in Specific Populations (8.5), (8.6)].
@@ -65,11 +65,11 @@ Mean (±SD) Plasma Acyclovir Pharmacokinetic Parameter Estimates Following First
 a Historical estimates using pediatric pharmacokinetic sampling schedule.
 Drug Interactions: When valacyclovir hydrochloride is coadministered with antacids, cimetidine and/or probenicid, digoxin, or thiazide diuretics in patients with normal renal function, the effects are not considered to be of clinical significance (see below).
 Therefore, when valacyclovir hydrochloride is coadministered with these drugs in patients with normal renal function, no dosage adjustment is recommended.
-Antacids: The pharmacokinetics of acyclovir after a single dose of valacyclovir hydrochloride (1 gram) were unchanged by coadministration of a single dose of antacids (Al3+ or Mg++).
-Cimetidine: Acyclovir Cmax and AUC following a single dose of valacyclovir hydrochloride (1 gram) increased by 8% and 32%, respectively, after a single dose of cimetidine (800 mg).
-Cimetidine Plus Probenecid: Acyclovir Cmax and AUC following a single dose of valacyclovir hydrochloride (1 gram) increased by 30% and 78%, respectively, after a combination of cimetidine and probenecid, primarily due to a reduction in renal clearance of acyclovir.
+Antacids: The pharmacokinetics of acyclovir after a single dose of valacyclovir hydrochloride (1 gram) were unchanged by coadministration of a single dose of antacids (Al 3+ or Mg ++).
+Cimetidine: Acyclovir C max and AUC following a single dose of valacyclovir hydrochloride (1 gram) increased by 8% and 32%, respectively, after a single dose of cimetidine (800 mg).
+Cimetidine Plus Probenecid: Acyclovir C max and AUC following a single dose of valacyclovir hydrochloride (1 gram) increased by 30% and 78%, respectively, after a combination of cimetidine and probenecid, primarily due to a reduction in renal clearance of acyclovir.
 Digoxin: The pharmacokinetics of digoxin were not affected by coadministration of valacyclovir hydrochloride 1 gram 3 times daily, and the pharmacokinetics of acyclovir after a single dose of valacyclovir hydrochloride (1 gram) was unchanged by coadministration of digoxin (2 doses of 0.75 mg).
-Probenecid: Acyclovir Cmax and AUC following a single dose of valacyclovir hydrochloride (1 gram) increased by 22% and 49%, respectively, after probenecid (1 gram).
+Probenecid: Acyclovir C max and AUC following a single dose of valacyclovir hydrochloride (1 gram) increased by 22% and 49%, respectively, after probenecid (1 gram).
 Thiazide Diuretics: The pharmacokinetics of acyclovir after a single dose of valacyclovir hydrochloride (1 gram) were unchanged by coadministration of multiple doses of thiazide diuretics.
 
 ## 12.4 Microbiology
@@ -83,10 +83,10 @@ In biochemical assays, acyclovir triphosphate inhibits replication of herpes vir
 This is accomplished in 3 ways: 1)competitive inhibition of viral DNA polymerase, 2)incorporation and termination of the growing viral DNA chain, and 3)inactivation of the viral DNA polymerase.
 The greater antiviral activity of acyclovir against HSV compared with VZV is due to its more efficient phosphorylation by the viral TK.
 Antiviral Activities: The quantitative relationship between the cell culture susceptibility of herpesviruses to antivirals and the clinical response to therapy has not been established in humans, and virus sensitivity testing has not been standardized.
-Sensitivity testing results, expressed as the concentration of drug required to inhibit by 50% the growth of virus in cell culture (EC50), vary greatly depending upon a number of factors.
-Using plaque-reduction assays, the EC50 values against herpes simplex virus isolates range from 0.09 to 60 µM (0.02 to 13.5 mcg/mL)for HSV-1 and from 0.04 to 44 µM (0.01 to 9.9 mcg/mL)for HSV-2.
-The EC50 values for acyclovir against most laboratory strains and clinical isolates of VZV range from 0.53 to 48 µM (0.12 to 10.8 mcg/mL).
-Acyclovir also demonstrates activity against the Oka vaccine strain of VZV with a mean EC50 of 6 µM (1.35 mcg/mL).
+Sensitivity testing results, expressed as the concentration of drug required to inhibit by 50% the growth of virus in cell culture (EC 50), vary greatly depending upon a number of factors.
+Using plaque-reduction assays, the EC 50 values against herpes simplex virus isolates range from 0.09 to 60 µM (0.02 to 13.5 mcg/mL)for HSV-1 and from 0.04 to 44 µM (0.01 to 9.9 mcg/mL)for HSV-2.
+The EC 50 values for acyclovir against most laboratory strains and clinical isolates of VZV range from 0.53 to 48 µM (0.12 to 10.8 mcg/mL).
+Acyclovir also demonstrates activity against the Oka vaccine strain of VZV with a mean EC 50 of 6 µM (1.35 mcg/mL).
 Resistance: Resistance of HSV and VZV to acyclovir can result from qualitative and quantitative changes in the viral TK and/or DNA polymerase.
 Clinical isolates of VZV with reduced susceptibility to acyclovir have been recovered from patients with AIDS.
 In these cases, TK-deficient mutants of VZV have been recovered.

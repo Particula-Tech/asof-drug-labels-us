@@ -29,7 +29,7 @@ Incidence (%) of Laboratory Abnormalities in Herpes Zoster and Genital Herpes St
 | Valacyclovir Hydrochloride 1 gram 3 times daily (n = 967) | Placebo (n = 195) | Valacyclovir Hydrochloride 1 gram twice daily (n = 1,194) | Valacyclovir Hydrochloride 500 mg twice daily (n = 1,159) | Placebo (n = 439) | Valacyclovir Hydrochloride 1 gram once daily (n = 269) | Valacyclovir Hydrochloride 500 mg once daily (n = 266) | Placebo (n = 134) |  |
 | Hemoglobin (<0.8 x LLN) | 0.8% | 0% | 0.3% | 0.2% | 0% | 0% | 0.8% | 0.8% |
 | White blood cells (<0.75 x LLN) | 1.3% | 0.6% | 0.7% | 0.6% | 0.2% | 0.7% | 0.8% | 1.5% |
-| Platelet count (<100,000/mm3) | 1.0% | 1.2% | 0.3% | 0.1% | 0.7% | 0.4% | 1.1% | 1.5% |
+| Platelet count (<100,000/mm 3) | 1.0% | 1.2% | 0.3% | 0.1% | 0.7% | 0.4% | 1.1% | 1.5% |
 | AST (SGOT) (>2 x ULN) | 1.0% | 0% | 1.0% | a | 0.5% | 4.1% | 3.8% | 3.0% |
 | Serum creatinine (>1.5 x ULN) | 0.2% | 0% | 0.7% | 0% | 0% | 0% | 0% | 0% |
 

@@ -111,4 +111,11 @@ You can ask your healthcare provider or pharmacist for information about valacyc
 
 What are the ingredients in valacyclovir hydrochloride?
 Active Ingredient: valacyclovir hydrochloride USP (monohydrate) Inactive Ingredients: crospovidone, FD&C blue #2/ indigo carmine aluminum lake, hypromellose, magnesium stearate, microcrystalline cellulose, polyethylene glycol, polysorbate 80, povidone, and titanium dioxide.
-Manufactured for: Camber Pharmaceuticals Inc. Piscataway, NJ 08854 Manufactured by: HETEROTM HETERO LABS LIMITED Unit V, Polepally, Jadcherla, Mahaboob Nagar-509 301, India.
+
+Patient information available at http://camberpharma.com/medication-guides
+
+Manufactured for: Camber Pharmaceuticals, Inc. Piscataway, NJ 08854
+
+By: Hetero TM Hetero Labs Limited, Unit V, Polepally, Jadcherla, Mahabubnagar-509 301, India.
+
+Revised: 09/2018

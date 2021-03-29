@@ -35,9 +35,3 @@ Patients should be advised to initiate treatment as soon as possible after a dia
 ## 17.5 Chickenpox
 
 Patients should be advised to initiate treatment at the earliest sign or symptom of chickenpox.
-Manufactured for:
-
-Camber Pharmaceuticals,Inc.
-Piscataway, NJ 08854 Manufactured by:
-
-HETEROTM HETERO LABS LIMITED Unit V, Polepally, Jadcherla, Mahaboob Nagar-509 301, India
