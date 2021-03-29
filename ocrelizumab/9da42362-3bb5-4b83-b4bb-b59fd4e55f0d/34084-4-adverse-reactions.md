@@ -80,7 +80,7 @@ The type, severity, latency, duration, and outcome of serious infections observe
 Decreased Neutrophil Levels
 
 In the PPMS clinical trial (Study 3), decreased neutrophil counts occurred in 13% of OCREVUS-treated patients compared to 10% in placebo patients.
-The majority of the decreased neutrophil counts were only observed once for a given patient treated with OCREVUS and were between 1.96 × 109/L and 1.0 × 109/L.
+The majority of the decreased neutrophil counts were only observed once for a given patient treated with OCREVUS and were between LLN - 1.5 × 109/L and 1.0 × 109/L.
 Overall, 1% of the patients in the OCREVUS group had neutrophil counts less than 1.0 × 109/L and these were not associated with an infection.
 
 ## 6.2 Immunogenicity
