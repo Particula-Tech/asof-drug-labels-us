@@ -14,7 +14,9 @@ NDC 60793-700-10 Contains 10 of NDC 60793-700-01
 
 Ten Syringes (1 mL size)
 
-Bicillin® L-A (penicillin G benzathine injectable suspension) 600,000 units per 1 mL
+Bicillin® L-A (penicillin G benzathine injectable suspension)
+
+600,000 units per 1 mL
 
 FOR PEDIATRIC USE
 
@@ -42,7 +44,9 @@ NDC 60793-701-10 Contains 10 of NDC 60793-701-02
 
 Ten Syringes (2 mL size)
 
-Bicillin® L-A (penicillin G benzathine injectable suspension) 1,200,000 units per 2 mL
+Bicillin® L-A (penicillin G benzathine injectable suspension)
+
+1,200,000 units per 2 mL
 
 FOR DEEP INTRAMUSCULAR INJECTION ONLY
 
@@ -70,7 +74,11 @@ NDC 60793-702-10 Contains 10 of NDC 60793-702-04
 
 Ten Syringes (4 mL size)
 
-Bicillin® L-A (penicillin G benzathine injectable suspension) 2,400,000 units per 4 mL disposable syringe
+Bicillin® L-A (penicillin G benzathine injectable suspension)
+
+2,400,000 units per 4 mL
+
+disposable syringe
 
 FOR DEEP INTRAMUSCULAR INJECTION ONLY
 
