@@ -1,54 +1,35 @@
-# WARNINGS
+# 5 WARNINGS AND PRECAUTIONS
 
-1. Norepinephrine bitartrate injection should be used with extreme caution in patients receiving monoamine oxidase inhibitors (MAOI) or antidepressants of the triptyline or imipramine types, because severe, prolonged hypertension may result.
-2. Norepinephrine bitartrate injection contains sodium metabisulfite, a sulfite that may cause allergic-type reactions including anaphylactic symptoms and life-threatening or less severe asthmatic episodes in certain susceptible people.
-   The overall prevalence of sulfite sensitivity in the general population is unknown.
-   Sulfite sensitivity is seen more frequently in asthmatic than in nonasthmatic people.
+## 5.1 Tissue Ischemia
 
-# PRECAUTIONS
+Administration of norepinephrine to patients who are hypotensive from hypovolemia can result in severe peripheral and visceral vasoconstriction, decreased renal perfusion and reduced urine output, tissue hypoxia, lactic acidosis, and reduced systemic blood flow despite “normal” blood pressure.
+Address hypovolemia prior to initiating norepinephrine [see Dosage and Administration (2.1)].
+Avoid norepinephrine in patients with mesenteric or peripheral vascular thrombosis, as this may increase ischemia and extend the area of infarction.
 
-1. General
-2. Avoid Hypertension: Because of the potency of norepinephrine bitartrate injection and because of varying response to pressor substances, the possibility always exists that dangerously high blood pressure may be produced with overdoses of this pressor agent.
-   It is desirable, therefore, to record the blood pressure every two minutes from the time administration is started until the desired blood pressure is obtained, then every five minutes if administration is to be continued.
+Gangrene of the extremities has occurred in patients with occlusive or thrombotic vascular disease or who received prolonged or high dose infusions.
+Monitor for changes to the skin of the extremities in susceptible patients.
 
-The rate of flow must be watched constantly, and the patient should never be left unattended while receiving norepinephrine bitartrate injection.
-Headache may be a symptom of hypertension due to overdosage.
+Extravasation of norepinephrine may cause necrosis and sloughing of surrounding tissue.
+To reduce the risk of extravasation, infuse into a large vein, check the infusion site frequently for free flow, and monitor for signs of extravasation [see Dosage and Administration (2.1)].
 
-Site of Infusion: Whenever possible, infusions of norepinephrine bitartrate injection should be given into a large vein, particularly an antecubital vein because, when administered into this vein, the risk of necrosis of the overlying skin from prolonged vasoconstriction is apparently very slight.
-Some authors have indicated that the femoral vein is also an acceptable route of administration.
-A catheter tie-in technique should be avoided, if possible, since the obstruction to blood flow around the tubing may cause stasis and increased local concentration of the drug.
-Occlusive vascular diseases (for example, atherosclerosis, arteriosclerosis, diabetic endarteritis, Buerger’s disease) are more likely to occur in the lower than in the upper extremity.
-Therefore, one should avoid the veins of the leg in elderly patients or in those suffering from such disorders.
-Gangrene has been reported in a lower extremity when infusions of norepinephrine bitartrate injection were given in an ankle vein.
+Emergency Treatment of Extravasation
 
-1. Extravasation: The infusion site should be checked frequently for free flow.
-   Care should be taken to avoid extravasation of norepinephrine bitartrate injection into the tissues, as local necrosis might ensue due to the vasoconstrictive action of the drug.
-   Blanching along the course of the infused vein, sometimes without obvious extravasation, has been attributed to vasa vasorum constriction with increased permeability of the vein wall, permitting some leakage.
-2. This also may progress on rare occasions to superficial slough, particularly during infusion into leg veins in elderly patients or in those suffering from obliterative vascular disease.
-   Hence, if blanching occurs, consideration should be given to the advisability of changing the infusion site at intervals to allow the effects of local vasoconstriction to subside.
+To prevent sloughing and necrosis in areas in which extravasation has occurred, infiltrate the ischemic area as soon as possible, using a syringe with a fine hypodermic needle with 5 to 10 mg of phentolamine mesylate in 10 to 15 mL of 0.9% Sodium Chloride Injection in adults.
 
-IMPORTANT — Antidote for Extravasation Ischemia: To prevent sloughing and necrosis in areas in which extravasation has taken place, the area should be infiltrated as soon as possible with 10 mL to 15 mL of saline solution containing from 5 mg to 10 mg of Regitine® (brand of phentolamine), an adrenergic blocking agent.
-A syringe with a fine hypodermic needle should be used, with the solution being infiltrated liberally throughout the area, which is easily identified by its cold, hard, and pallid appearance.
-Sympathetic blockade with phentolamine causes immediate and conspicuous local hyperemic changes if the area is infiltrated within
+Sympathetic blockade with phentolamine causes immediate and conspicuous local hyperemic changes if the area is infiltrated within 12 hours.
 
-12 hours.
-Therefore, phentolamine should be given as soon as possible after the extravasation is noted.
+## 5.2 Hypotension after Abrupt Discontinuation
 
-1. Drug Interactions:Cyclopropane and halothane anesthetics increase cardiac autonomic irritability and therefore seem to sensitize the myocardium to the action of intravenously administered epinephrine or norepinephrine.
-   Hence, the use of norepinephrine bitartrate injection during cyclopropane and halothane anesthesia is generally considered contraindicated because of the risk of producing ventricular tachycardia or fibrillation.
-   The same type of cardiac arrhythmias may result from the use of norepinephrine bitartrate injection in patients with profound hypoxia or hypercarbia.
+Sudden cessation of the infusion rate may result in marked hypotension.
+When discontinuing the infusion, gradually reduce the norepinephrine infusion rate while expanding blood volume with intravenous fluids.
 
-Norepinephrine bitartrate injection should be used with extreme caution in patients receiving monoamine oxidase inhibitors (MAOI) or antidepressants of the triptyline or imipramine types, because severe, prolonged hypertension may result.
+## 5.3 Cardiac Arrhythmias
 
-Carcinogenesis, Mutagenesis, Impairment of Fertility:Studies have not been performed.
+Norepinephrine elevates intracellular calcium concentrations and may cause arrhythmias, particularly in the setting of hypoxia or hypercarbia.
+Perform continuous cardiac monitoring of patients with arrhythmias.
 
-1. Pregnancy Category C:Animal reproduction studies have not been conducted with norepinephrine bitartrate injection.
-   It is also not known whether norepinephrine bitartrate injection can cause fetal harm when administered to a pregnant woman or can affect reproduction capacity.
-   Norepinephrine bitartrate injection should be given to a pregnant woman only if clearly needed.
-2. Nursing Mothers:It is not known whether this drug is excreted in human milk.
-   Because many drugs are excreted in human milk, caution should be exercised when norepinephrine bitartrate injection is administered to a nursing woman.
-3. Pediatric Use:Safety and effectiveness in pediatric patients has not been established.
-4. Geriatric Use:Clinical studies of norepinephrine bitartrate injection did not include sufficient numbers of subjects aged 65 and over to determine whether they respond differently from younger subjects.
-   Other reported clinical experience has not identified differences in responses between the elderly and younger patients.
-   In general, dose selection for an elderly patient should be cautious, usually starting at the low end of the dosing range, reflecting the greater frequency of decreased hepatic, renal, or cardiac function, and of concomitant disease or other drug therapy.
-5. Norepinephrine bitartrate injection infusions should not be administered into the veins in the leg in elderly patients (see PRECAUTIONS, General).
+## 5.4 Allergic Reactions Associated with Sulfite
+
+Norepinephrine contains sodium metabisulfite, a sulfite that may cause allergic-type reactions including anaphylactic symptoms and life-threatening or less severe asthmatic episodes in certain susceptible people.
+The overall prevalence of sulfite sensitivity in the general population is unknown.
+Sulfite sensitivity is seen more frequently in asthmatic than in non-asthmatic people.

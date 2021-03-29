@@ -1,27 +1,5 @@
 # PACKAGE/LABEL PRINCIPAL DISPLAY PANEL
 
-NDC 67457-852-00
-
-4mL
-
-Norepinephrine Bitartrate Injection, USP
-
-4 mg/4 mL* (1 mg per mL)
-
-Sterile
-
-FOR INTRAVENOUS INFUSION ONLY
-
-Warning: Contains Sulfites.
-
-Single-Dose Vials
-
-Mylan
-
-Rx only
-
-# PACKAGE/LABEL PRINCIPAL DISPLAY PANEL
-
 NDC 67457-852-04
 
 Norepinephrine Bitartrate Injection, USP
