@@ -9,14 +9,25 @@ Patients considered opioid-tolerant are those taking, for one week or longer, at
 
 - •Use the lowest effective dosage for the shortest duration consistent with individual patient treatment goals [see Warnings and Precautions (5)].
 - •Initiate the dosing regimen for each patient individually, taking into account the patient's severity of pain, prior analgesic treatment experience, and risk factors for addiction, abuse, and misuse [see Warnings and Precautions (5.1)].
-- •Monitor patients closely for respiratory depression, especially within the first 24 to 72 hours of initiating therapy and following dosage increases with Morphine sulfate extended-release tablets and adjust the dosage accordingly [see Warnings and Precautions (5.3)].
+- •Monitor patients closely for respiratory depression, especially within the first 24 to 72 hours of initiating therapy and following dosage increases with morphine sulfate extended-release tablets and adjust the dosage accordingly [see Warnings and Precautions (5.3)].
 
-Instruct patients to swallow Morphine sulfate extended-release tablets whole [see Patient Counseling Information (17)].
-Crushing, chewing, or dissolving Morphine sulfate extended-release tablets will result in uncontrolled delivery of morphine and can lead to overdose or death [see Warnings and Precautions (5.1)].
+Instruct patients to swallow morphine sulfate extended-release tablets whole [see Patient Counseling Information (17)].
+Crushing, chewing, or dissolving morphine sulfate extended-release tablets will result in uncontrolled delivery of morphine and can lead to overdose or death [see Warnings and Precautions (5.1)].
 
 Morphine sulfate extended-release tablets is administered orally once every 8 or 12 hours.
 
-## 2.2 Initial Dosage
+## 2.2 Patient Access to Naloxone for the Emergency Treatment of Opioid Overdose
+
+Discuss the availability of naloxone for the emergency treatment of opioid overdose with the patient and caregiver and assess the potential need for access to naloxone, both when initiating and renewing treatment with morphine sulfate extended-release tablets [see Warnings and Precautions (5.3), Patient Counseling Information (17)].
+
+Inform patients and caregivers about the various ways to obtain naloxone as permitted by individual state naloxone dispensing and prescribing requirements or guidelines (e.g., by prescription, directly from a pharmacist, or as part of a community-based program).
+
+Consider prescribing naloxone, based on the patient’s risk factors for overdose, such as concomitant use of CNS depressants, a history of opioid use disorder, or prior opioid overdose.
+The presence of risk factors for overdose should not prevent the proper management of pain in any given patient [see Warnings and Precautions (5.1, 5.3, 5.5)].
+
+Consider prescribing naloxone if the patient has household members (including children) or other close contacts at risk for accidental ingestion or overdose.
+
+## 2.3 Initial Dosage
 
 Use of Morphine Sulfate Extended-Release Tablets as the First Opioid Analgesic (opioid-naïve patients)
 
@@ -38,7 +49,7 @@ Discontinue all other around-the-clock opioid drugs when morphine sulfate extend
 There are no established conversion ratios for conversion from other opioids to morphine sulfate extended-release tablets defined by clinical trials.
 Initiate dosing using morphine sulfate extended-release tablets 15 mg orally every 8 to 12 hours.
 
-It is safer to underestimate a patient's 24-hour oral morphine dosage and provide rescue medication (e.g., immediate-release opioid) than to overestimate the 24-hour oral morphine dosage and managean adverse reaction due to an overdose.
+It is safer to underestimate a patient's 24-hour oral morphine dosage and provide rescue medication (e.g., immediate-release opioid) than to overestimate the 24-hour oral morphine dosage and manage an adverse reaction due to an overdose.
 While useful tables of opioid equivalents are readily available, there is inter-patient variability in the potency of opioid drugs and opioid formulations.
 Close observation and frequent titration are warranted until pain management is stable on the new opioid.
 Monitor patients for signs and symptoms of opioid withdrawal and for signs of oversedation/toxicity after converting patients to morphine sulfate extended-release tablets.
@@ -50,7 +61,7 @@ When converting from parenteral morphine or other non-morphine opioids (parenter
 Parenteral to oral morphine ratio: Between 2 to 6 mg of oral morphine may be required to provide analgesia equivalent to 1 mg of parenteral morphine.
 Typically, a dose of morphine that is approximately three times the previous daily parenteral morphine requirement is sufficient.
 
-Other parenteral or oral non-morphine opioids to oral morphine Ratios: Specific recommendations are not available because of a lack of systematic evidence for these types of analgesic substitutions.
+Other parenteral or oral non-morphine opioids to oral morphine ratios: Specific recommendations are not available because of a lack of systematic evidence for these types of analgesic substitutions.
 Published relative potency data are available, but such ratios are approximations.
 In general, begin with half of the estimated daily morphine requirement as the initial dose, managing inadequate analgesia by supplementation with immediate-release morphine.
 
@@ -60,7 +71,7 @@ Close monitoring is of particular importance when converting methadone to other 
 The ratio between methadone and other opioid agonists may vary widely as a function of previous dose exposure.
 Methadone has a long half-life and can accumulate in the plasma.
 
-## 2.3 Titration and Maintenance of Therapy
+## 2.4 Titration and Maintenance of Therapy
 
 Individually titrate morphine sulfate extended-release tablets to a dose that provides adequate analgesia and minimizes adverse reactions.
 Continually reevaluate patients receiving morphine sulfate extended-release tablets to assess the maintenance of pain control and the relative incidence of adverse reactions, as well as monitoring for the development of addiction, abuse, or misuse [see Warnings and Precautions (5.1)].
@@ -74,11 +85,11 @@ Because steady-state plasma concentrations are approximated in 1 day, morphine s
 If unacceptable opioid-related adverse reactions are observed, consider reducing the dosage.
 Adjust the dosage to obtain an appropriate balance between management of pain and opioid-related adverse reactions.
 
-## 2.4 Dosage Modifications with Concomitant Use of Central Nervous System Depressants
+## 2.5 Dosage Modifications with Concomitant Use of Central Nervous System Depressants
 
-If the patient is currently taking a central nervous system (CNS) depressant and the decision is made to begin morphine sulfate, start with the lowest possible dose, 15 mg every 12 hours, monitor patients for signs of respiratory depression, sedation, and hypotension, and consider using a lower dosage of the concomitant CNS depressant [see Warnings andPrecautions (5.5), Drug Interactions (7)].
+If the patient is currently taking a central nervous system (CNS) depressant and the decision is made to begin morphine sulfate, start with the lowest possible dose, 15 mg every 12 hours, monitor patients for signs of respiratory depression, sedation, and hypotension, and consider using a lower dosage of the concomitant CNS depressant [see Warnings and Precautions (5.5), Drug Interactions (7)].
 
-## 2.5 Safe Reduction or Discontinuation of Morphine Sulfate Extended-Release Tablets
+## 2.6 Safe Reduction or Discontinuation of Morphine Sulfate Extended-Release Tablets
 
 Do not abruptly discontinue morphine sulfate extended-release tablets in patients who may be physically dependent on opioids.
 Rapid discontinuation of opioid analgesics in patients who are physically dependent on opioids has resulted in serious withdrawal symptoms, uncontrolled pain, and suicide.
@@ -104,4 +115,4 @@ If withdrawal symptoms arise, it may be necessary to pause the taper for a perio
 In addition, monitor patients for any changes in mood, emergence of suicidal thoughts, or use of other substances.
 
 When managing patients taking opioid analgesics, particularly those who have been treated for a long duration and/or with high doses for chronic pain, ensure that a multimodal approach to pain management, including mental health support (if needed), is in place prior to initiating an opioid analgesic taper.
-A multimodal approach to pain management may optimize the treatment of chronic pain, as well as assist with the successful tapering of the opioid analgesic [see Warningsand Precautions (5.2), Drug Abuse and Dependence(9.3)].
+A multimodal approach to pain management may optimize the treatment of chronic pain, as well as assist with the successful tapering of the opioid analgesic [see Warnings and Precautions (5.13), Drug Abuse and Dependence (9.3)].

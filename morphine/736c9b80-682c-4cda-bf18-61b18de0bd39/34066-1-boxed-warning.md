@@ -1,4 +1,4 @@
-# WARNING: ADDICTION, ABUSE, AND MISUSE;RISK EVALUATION AND MITIGATION STRATEGY (REMS); LIFE-THREATENING RESPIRATORY DEPRESSION; ACCIDENTAL INGESTION; NEONATAL OPIOID WITHDRAWAL SYNDROME; and RISKS FROM CONCOMITANT USE WITH BENZODIAZEPINES OR OTHER CNS DEPRESSANTS
+# WARNING: ADDICTION, ABUSE, AND MISUSE; RISK EVALUATION AND MITIGATION STRATEGY (REMS); LIFE-THREATENING RESPIRATORY DEPRESSION; ACCIDENTAL INGESTION; NEONATAL OPIOID WITHDRAWAL SYNDROME; and RISKS FROM CONCOMITANT USE WITH BENZODIAZEPINES OR OTHER CNS DEPRESSANTS
 
 Addiction, Abuse, and Misuse
 
@@ -19,7 +19,8 @@ Healthcare providers are strongly encouraged to:
 Life-Threatening Respiratory Depression
 
 Serious, life-threatening, or fatal respiratory depression may occur with use of morphine sulfate.
-Monitor for respiratory depression, especially during initiation of morphine sulfate or following a dose increase.Instruct patients to swallow morphine sulfate extended-release tablets whole; crushing, chewing, or dissolving morphine sulfate extended-release tablets can cause rapid release and absorption of a potentially fatal dose of morphine [see Warnings and Precautions (5.3)].
+Monitor for respiratory depression, especially during initiation of morphine sulfate or following a dose increase.
+Instruct patients to swallow morphine sulfate extended-release tablets whole; crushing, chewing, or dissolving morphine sulfate extended-release tablets can cause rapid release and absorption of a potentially fatal dose of morphine [see Warnings and Precautions (5.3)].
 
 Accidental Ingestion
 

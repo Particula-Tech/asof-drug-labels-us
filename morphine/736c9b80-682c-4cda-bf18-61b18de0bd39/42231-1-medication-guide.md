@@ -13,13 +13,10 @@ Morphine sulfate extended-release tablets are:
 
 Important information about morphine sulfate extended-release tablets:
 
-- •Get emergency help right away if you take too much morphine sulfate extended-release tablets (overdose).
+- •Get emergency help or call 911 right away if you take too much morphine sulfate extended-release tablets (overdose).
   When you first start taking morphine sulfate extended-release tablets, when your dose is changed, or if you take too much (overdose), serious or life-threatening breathing problems that can lead to death may occur.
+  Talk to your healthcare provider about naloxone, a medicine for the emergency treatment of an opioid overdose.
 - •Taking morphine sulfate extended-release tablets with other opioid medicines, benzodiazepines, alcohol, or other central nervous system depressants (including street drugs) can cause severe drowsiness, decreased awareness, breathing problems, coma, and death.
-- •Never give anyone else your morphine sulfate extended-release tablets.
-  They could die from taking it.
-  Store morphine sulfate extended-release tablets away from children and in a safe place to prevent stealing or abuse.
-  Selling or giving away morphine sulfate extended-release tablets is against the law.
 - •Never give anyone else your morphine sulfate extended-release tablets.
   They could die from taking it.
   Selling or giving away morphine sulfate extended-release tablets is against the law.
@@ -34,7 +31,7 @@ Before taking morphine sulfate extended-release tablets, tell your healthcare pr
 
 | •head injury, seizures•problems urinating | •liver, kidney, thyroid problems •pancreas or gallbladder problems |
 | --- | --- |
-| •abuse of street or prescription drugs, alcohol addiction, or mental health problems. |  |
+| •abuse of street or prescription drugs, alcohol addiction, opioid overdose, or mental health problems. |  |
 
 Tell your healthcare provider if you are:
 
@@ -43,6 +40,7 @@ Tell your healthcare provider if you are:
 - •breastfeeding.
   Not recommended during treatment with morphine sulfate.
   It may harm your baby.
+- •living in a household where there are small children or someone who has abused street or prescription drugs
 - •taking prescription or over-the-counter medicines, vitamins, or herbal supplements.
   Taking morphine sulfate extended-release tablets with certain other medicines can cause serious side effects.
 
@@ -58,10 +56,12 @@ When taking morphine sulfate extended-release tablets:
   Do not cut, break, chew, crush, dissolve, snort, or inject morphine sulfate extended-release tablets because this may cause you to overdose and die.
 - •Call your healthcare provider if the dose you are taking does not control your pain.
 - •Do not stop taking morphine sulfate extended-release tablets without talking to your healthcare provider.
-- •Dispose of expired, unwanted, or unused morphine sulfate extended-release tablets by promptly flushing down the toilet, if a drug take-back option is not readily available.
-  Visit
-- •www.fda.gov/drugdisposal for additional information on disposal of unused medicines.
-  While taking morphine sulfate extended-release tablets DO NOT:
+
+Dispose of expired, unwanted, or unused morphine sulfate extended-release tablets by promptly flushing down the toilet, if a drug take-back option is not readily available.
+Visit www.fda.gov/drugdisposal for additional information on disposal of unused medicines.
+
+While taking morphine sulfate extended-release tablets DO NOT:
+
 - •Drive or operate heavy machinery, until you know how morphine sulfate extended-release tablets affect you.
   Morphine sulfate extended-release tablets can make you sleepy, dizzy, or lightheaded.
 - •Drink alcohol or use prescription or over-the-counter medicines that contain alcohol.
@@ -72,7 +72,7 @@ The possible side effects of morphine sulfate extended-release tablets are:
 - •Constipation, nausea, sleepiness, vomiting, tiredness, headache, dizziness, abdominal pain.
   Call your healthcare provider if you have any of these symptoms and they are severe.
 
-Get emergency medical help if you have:
+Get emergency medical help or call 911 right awayif you have:
 
 - •trouble breathing, shortness of breath, fast heartbeat, chest pain, swelling of your face, tongue or throat, extreme drowsiness, light-headedness when changing positions, feeling faint, agitation, high body temperature, trouble walking, stiff muscles, or mental changes such as confusion.
 
@@ -97,4 +97,4 @@ Cranbury, NJ 08512
 
 www.sunpharma.com or call 1-800-818-4555
 
-1. October 2019 FDA-08
+1. March 2021 FDA-09

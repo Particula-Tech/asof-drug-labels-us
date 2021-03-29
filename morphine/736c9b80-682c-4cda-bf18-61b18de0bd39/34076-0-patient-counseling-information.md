@@ -4,7 +4,7 @@ Advise the patient to read the FDA-approved patient labeling (Medication Guide).
 
 Storage and Disposal
 
-Because of the risks associated with accidental ingestion, misuse, and abuse, advise patients to store morphine sulfate extended-release tablets securely, out of sight and reach of children, and in a location not accessible by others, including visitors to the home [see Warnings and Precautions (5.13), Drug Abuse and Dependence (9.2)].
+Because of the risks associated with accidental ingestion, misuse, and abuse, advise patients to store morphine sulfate extended-release tablets securely, out of sight and reach of children, and in a location not accessible by others, including visitors to the home [see Warnings and Precautions (5.1), Drug Abuse and Dependence (9.2)].
 Inform patients that leaving morphine sulfate extended-release tablets unsecured can pose a deadly risk to others in the home.
 
 Advise patients and caregivers that when medicines are no longer needed, they should be disposed of promptly.
@@ -18,8 +18,24 @@ Instruct patients not to share morphine sulfate extended-release tablets with ot
 
 Life-Threatening Respiratory Depression
 
-Inform patients of the risk of life-threatening respiratory depression, including information that the risk is greatest when starting morphine sulfate extended-release tablets or when the dosage is increased, and that it can occur even at recommended doses [see Warnings and Precautions (5.3)].
-Advise patients how to recognize respiratory depression and to seek medical attention if breathing difficulties develop.
+Inform patients of the risk of life-threatening respiratory depression, including information that the risk is greatest when starting morphine sulfate extended-release tablets or when the dosage is increased, and that it can occur even at recommended dosages.
+Educate patients and caregivers on how to recognize respiratory depression and emphasize the importance of calling 911 or getting emergency medical help right away in the event of a known or suspected overdose [see Warnings and Precautions (5.3)].
+
+Patient Access to Naloxone for the Emergency Treatment of Opioid Overdose
+
+Discuss with the patient and caregiver the availability of naloxone for the emergency treatment of opioid overdose, both when initiating and renewing treatment with morphine sulfate extended-release tablets.
+Inform patients and caregivers about the various ways to obtain naloxone as permitted by individual state naloxone dispensing and prescribing requirements or guidelines (e.g., by prescription, directly from a pharmacist, or as part of a community-based program) [see Dosage and Administration (2.2), Warnings and Precautions (5.3)].
+
+Educate patients and caregivers on how to recognize the signs and symptoms of an overdose.
+
+Explain to patients and caregivers that naloxone’s effects are temporary, and that they must call 911 or get emergency medical help right away in all cases of known or suspected opioid overdose, even if naloxone is administered [see Overdosage (10)].
+
+If naloxone is prescribed, also advise patients and caregivers:
+
+1. • How to treat with naloxone in the event of an opioid overdose
+2. • To tell family and friends about their naloxone and to keep it in a place where family and friends can access it in an emergency
+3. • To read the Patient Information (or other educational material) that will come with their naloxone.
+   Emphasize the importance of doing this before an opioid emergency happens, so the patient and caregiver will know what to do.
 
 Accidental Ingestion
 
@@ -56,7 +72,7 @@ Instruct patients how to properly take morphine sulfate extended-release tablets
 
 Important Discontinuation Instructions
 
-Inorder to avoid developing withdrawal symptoms, instruct patients not to discontinue morphine sulfate extended-release tablets without first discussing a tapering plan with the prescriber [see Dosage and Administration (2.5)].
+In order to avoid developing withdrawal symptoms, instruct patients not to discontinue morphine sulfate extended-release tablets without first discussing a tapering plan with the prescriber [see Dosage and Administration (2.6)].
 
 Hypotension
 
@@ -110,4 +126,4 @@ Sun Pharmaceutical Industries, Inc.
 
 Cranbury, NJ 08512
 
-1. October 2019 FDA-09
+1. March 2021 FDA-10
