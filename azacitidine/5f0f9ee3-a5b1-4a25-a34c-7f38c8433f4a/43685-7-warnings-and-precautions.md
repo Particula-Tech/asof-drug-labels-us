@@ -8,9 +8,9 @@ After administration of the recommended dosage for the first cycle, adjust dosag
 
 ## 5.2 Hepatic Toxicity in Patients with Severe Pre-existing Hepatic Impairment
 
-Because azacitidine is potentially hepatotoxic in patients with severe pre-existing hepatic impairment, caution is needed in patients with liver disease.
+Because Azacitidine for Injection is potentially hepatotoxic in patients with severe pre-existing hepatic impairment, caution is needed in patients with liver disease.
 Patients with extensive tumor burden due to metastatic disease have been reported to experience progressive hepatic coma and death during azacitidine treatment, especially in such patients with baseline albumin less than 30 g/L.
-Azacitidine is contraindicated in patients with advanced malignant hepatic tumors [see Contraindications (4.1)].
+Azacitidine for Injection is contraindicated in patients with advanced malignant hepatic tumors [see Contraindications (4)].
 
 Monitor liver chemistries prior to initiation of therapy and with each cycle.
 
@@ -18,7 +18,7 @@ Safety and effectiveness of Azacitidine for Injection in patients with MDS and h
 
 ## 5.3 Renal Toxicity
 
-Renal toxicity ranging from elevated serum creatinine to renal failure and death have been reported in patients treated with intravenous azacitidine in combination with other chemotherapeutic agents for nonMDS conditions.
+Renal toxicity ranging from elevated serum creatinine to renal failure and death have been reported in patients treated with intravenous azacitidine in combination with other chemotherapeutic agents for non-MDS conditions.
 In addition, renal tubular acidosis, defined as a fall in serum bicarbonate to less than 20 mEq/L in association with an alkaline urine and hypokalemia (serum potassium less than 3 mEq/L) developed in 5 patients with CML (an unapproved use)treated with azacitidine and etoposide.
 Monitor serum creatinine and electrolytes prior to initiation of therapy and with each cycle.
 If unexplained reductions in serum bicarbonate less than 20 mEq/L or elevations of BUN or serum creatinine occur, reduce or hold the dose [see Dosage and Administration (2.4)].
@@ -37,9 +37,8 @@ Assess baseline risk and monitor and treat as appropriate.
 ## 5.5 Embryo-Fetal Toxicity
 
 Based on the mechanism of action and findings in animals, Azacitidine for Injection can cause fetal harm when administered to a pregnant woman.
-In animal studies, azacitidine caused adverse developmental outcomes when administered to mice and rats at doses of 3 to 12 mg/m2 and 6 mg/m2 (approximately 4% to 16% and 8%) of the recommended human daily dose of 75 mg/m2, respectively.
-Advise pregnant women of the potential risk to the fetus [see Use in Specific Populations (8.1)].
+In animal studies, azacitidine caused adverse developmental outcomes when administered to mice and rats at doses of 3 to 12 mg/m 2 and 6 mg/m 2 (approximately 4% to 16% and 8%) of the recommended human daily dose of 75 mg/m 2, respectively.
+Advise pregnant women of the potential risk to the fetus.
 
 Advise females of reproductive potential to use effective contraception during treatment with Azacitidine for Injection and for 6 months following the final dose.
-Advise males with female partners of reproductive potential to use effective contraception during treatment with Azacitidine for Injection and for 3 months following the final dose [see Use in Specific Populations (8.1and 8.3) and Clinical Pharmacology (12.3)].
-Advise men to avoid fathering a child while receiving treatment with Azacitidine for Injection.
+Advise males with female partners of reproductive potential to use effective contraception during treatment with Azacitidine for Injection and for 3 months following the final dose [see Use in Specific Populations (8.1, 8.3)].

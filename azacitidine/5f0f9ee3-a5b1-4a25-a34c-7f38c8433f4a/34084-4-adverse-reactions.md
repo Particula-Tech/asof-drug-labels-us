@@ -1,40 +1,39 @@
 # 6 ADVERSE REACTIONS
 
-The following adverse reactions are described in other labeling sections:
+The following clinically significant adverse reactions are described elsewhere in labeling:
 
-- •Myelosuppression [see Warnings and Precautions (5.1)]
-- •Hepatic Toxicity in Patients with Severe Pre-existing Hepatic Impairment [see Warnings and Precautions (5.2)]
-- •Renal Toxicity [see Warnings and Precautions (5.3)]
-- •Tumor Lysis Syndrome [see Warnings and Precautions (5.4)]
-- •Embryo-Fetal Toxicity [see Warnings and Precautions (5.5)]
+- Myelosuppression [see Warnings and Precautions (5.1)]
+- Hepatic Toxicity in Patients with Severe Pre-existing Hepatic Impairment [see Warnings and Precautions (5.2)]
+- Renal Toxicity [see Warnings and Precautions (5.3)]
+- Tumor Lysis Syndrome [see Warnings and Precautions (5.4)]
 
-## 6.1 Adverse Reactions in Clinical Trials
+## 6.1 Clinical Trials Experience
 
 Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in practice.
 
-The data described below reflect exposure to Azacitidine for Injection in 443 MDS patients from 4 clinical studies.
+The data described below reflect exposure to azacitidine in 443 MDS patients from 4 clinical studies.
 Study 1 was a supportive-care controlled trial (subcutaneous administration), Studies 2 and 3 were single arm studies (one with subcutaneous administration and one with intravenous administration), and Study 4 was an international randomized trial (subcutaneous administration) [see Clinical Studies (14)].
 
-In Studies 1, 2 and 3, a total of 268 patients were exposed to Azacitidine for Injection, including 116 exposed for 6 cycles (approximately 6 months) or more and 60 exposed for greater than 12 cycles (approximately one year).
-Azacitidine for Injection was studied primarily in supportive-care controlled and uncontrolled trials (n=150 and n=118, respectively).
+In Studies 1, 2 and 3, a total of 268 patients were exposed to azacitidine, including 116 exposed for 6 cycles (approximately 6 months) or more and 60 exposed for greater than 12 cycles (approximately one year).
+Azacitidine was studied primarily in supportive-care controlled and uncontrolled trials (n=150 and n=118, respectively).
 The population in the subcutaneous studies (n=220) was 23 to 92 years old (mean 66.4 years), 68% male, and 94% white, and had MDS or AML.
 The population in the intravenous study (n=48) was 35 to 81 years old (mean 63.1 years), 65% male, and 100% white.
-Most patients received average daily doses between 50 and 100 mg/m2.
+Most patients received average daily doses between 50 and 100 mg/m 2.
 
-In Study 4, a total of 175 patients with higher-risk MDS (primarily RAEB and RAEB-T subtypes) were exposed to Azacitidine for Injection.
+In Study 4, a total of 175 patients with higher-risk MDS (primarily RAEB and RAEB-T subtypes) were exposed to azacitidine.
 Of these patients, 119 were exposed for 6 or more cycles, and 63 for at least 12 cycles.
 The mean age of this population was 68.1 years (ranging from 42 to 83 years), 74% were male, and 99% were white.
-Most patients received daily Azacitidine for Injection doses of 75 mg/m2.
+Most patients received daily azacitidine doses of 75 mg/m 2.
 
-Table 1 presents adverse reactions occurring in at least 5% of patients treated with Azacitidine for Injection (subcutaneous) in Studies 1 and 2.
-It is important to note that duration of exposure was longer for the Azacitidine for Injection-treated group than for the observation group: patients received Azacitidine for Injection for a mean of 11.4 months while mean time in the observation arm was 6.1 months.
+Table 1 presents adverse reactions occurring in at least 5% of patients treated with azacitidine (subcutaneous) in Studies 1 and 2.
+It is important to note that duration of exposure was longer for the azacitidine -treated group than for the observation group; patients received azacitidine for a mean of 11.4 months while mean time in the observation arm was 6.1 months.
 
-Table 1: Most Frequently Observed Adverse Reactions (Greater Than or Equal To 5% in All Subcutaneous Azacitidine for Injection-Treated Patients; Studies 1 and 2)
+Table 1: Most Frequently Observed Adverse Reactions (Greater Than or Equal To 5% in All Subcutaneous Azacitidine-Treated Patients; Studies 1 and 2)
 
-| Adverse reactiona | (N=220) | (N=92) |
+| Adverse reaction a | (N=220) | (N=92) |
 | --- | --- | --- |
 |  | Number (%) of Patients |  |
-| Body System | All Azacitidine for Injection b | Observationc |
+| Body System | All Azacitidine b | Observation c |
 | Blood and lymphatic system disorders |  |  |
 | Anemia | 153 (70) | 59 (64) |
 | Anemia aggravated | 12 (6) | 5 (5) |
@@ -97,21 +96,21 @@ Table 1: Most Frequently Observed Adverse Reactions (Greater Than or Equal To 5%
 | Hypotension | 15 (7) | 2 (2) |
 | Petechiae | 52 (24) | 8 (9) |
 | a Multiple terms of the same preferred terms for a patient are only counted once within each treatment group. |  |  |
-| b Includes adverse reactions from all patients exposed to Azacitidine for Injection, including patients after crossing over from observations. |  |  |
-| c Includes adverse reactions from observation period only; excludes any adverse events after crossover to Azacitidine for Injection. |  |  |
+| b Includes adverse reactions from all patients exposed to azacitidine, including patients after crossing over from observations. |  |  |
+| c Includes adverse reactions from observation period only; excludes any adverse events after crossover to azacitidine. |  |  |
 
-Table 2 presents adverse reactions occurring in at least 5% of patients treated with Azacitidine for Injection in Study 4.
-Similar to Studies 1 and 2 described above, duration of exposure to treatment with Azacitidine for Injection was longer (mean 12.2 months) compared with best supportive care (mean 7.5 months).
+Table 2 presents adverse reactions occurring in at least 5% of patients treated with azacitidine in Study 4.
+Similar to Studies 1 and 2 described above, duration of exposure to treatment with azacitidine was longer (mean 12.2 months) compared with best supportive care (mean 7.5 months).
 
-Table 2: Most Frequently Observed Adverse Reactions (Greater Than or Equal To 5% in the Azacitidine for Injection-Treated Patients and the Percentage with NCI CTC Grade 3/4 Reactions; Study 4)
+Table 2: Most Frequently Observed Adverse Reactions (Greater Than or Equal To 5% in the Azacitidine -Treated Patients and the Percentage with NCI CTC Grade 3/4 Reactions; Study 4)
 
-| Adverse Reactiona | (N=175) | (N=102) | (N=175) | (N=102) |  |  |  |
+| Adverse Reaction a | (N=175) | (N=102) | (N=175) | (N=102) |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 |  | Number (%) of Patients |  |  |  |  |  |  |
 |  | Any Grade |  | Grade 3/4 |  |  |  |  |
 |  |  | Best |  | Best |  |  |  |
 |  | Azacitidine | Supportive | Azacitidine | Supportive |  |  |  |
-| Body System | for Injection | Care Only | for Injection | Care Only |  |  |  |
+| Body System |  | Care Only |  | Care Only |  |  |  |
 | Blood and lymphatic system disorders |  |  |  |  |  |  |  |
 | Anemia | 90 (51) | 45 (44) | 24 (14) | 9 (9) |  |  |  |
 | Febrile neutropenia | 24 (14) | 10 (10) | 22 (13) | 7 (7) |  |  |  |
@@ -122,7 +121,7 @@ Table 2: Most Frequently Observed Adverse Reactions (Greater Than or Equal To 5%
 | Abdominal pain | 22 (13) | 7 (7) | 7 (4) | 0 |  |  |  |
 | Constipation | 88 (50) | 8 (8) | 2 (1) | 0 |  |  |  |
 | Dyspepsia | 10 (6) | 2 (2) | 0 | 0 |  |  |  |
-| Nausea | 84 (48) | 12 (10) | 3 (2) | 0 |  |  |  |
+| Nausea | 84 (48) | 12 (12) | 3 (2) | 0 |  |  |  |
 | Vomiting | 47 (27) | 7 (7) | 0 | 0 |  |  |  |
 | General disorders and administration site conditions |  |  |  |  |  |  |  |
 | Fatigue | 42 (24) | 12 (12) | 6 (3) | 2 (2) |  |  |  |
@@ -162,7 +161,7 @@ Table 2: Most Frequently Observed Adverse Reactions (Greater Than or Equal To 5%
 | Hypertension | 15 (9) | 4 (4) | 2 (1) | 2 (2) |  |  |  |
 | a Multiple reports of the same preferred term from a patient were only counted once within each treatment. |  |  |  |  |  |  |  |
 
-In Studies 1, 2 and 4 with subcutaneous administration of Azacitidine for Injection, adverse reactions of neutropenia, thrombocytopenia, anemia, nausea, vomiting, diarrhea, constipation, and injection site erythema/reaction tended to increase in incidence with higher doses of Azacitidine for Injection.
+In Studies 1, 2 and 4 with subcutaneous administration of azacitidine, adverse reactions of neutropenia, thrombocytopenia, anemia, nausea, vomiting, diarrhea, constipation, and injection site erythema/reaction tended to increase in incidence with higher doses of azacitidine.
 Adverse reactions that tended to be more pronounced during the first 1 to 2 cycles of subcutaneous treatment compared with later cycles included thrombocytopenia, neutropenia, anemia, nausea, vomiting, injection site erythema/pain/bruising/reaction, constipation, petechiae, dizziness, anxiety, hypokalemia, and insomnia.
 There did not appear to be any adverse reactions that increased in frequency over the course of treatment.
 
@@ -180,7 +179,7 @@ Dose Held: leukopenia, neutropenia, thrombocytopenia, pyrexia, pneumonia, febril
 
 Dose Reduced: leukopenia, neutropenia, thrombocytopenia.
 
-In clinical studies of either subcutaneous or intravenous Azacitidine for Injection, the following serious adverse reactions occurring at a rate of less than 5% (and not described in Tables 1 or 2) were reported:
+In clinical studies of either subcutaneous or intravenous azacitidine, the following serious adverse reactions occurring at a rate of less than 5% (and not described in Tables 1 or 2) were reported:
 
 Blood and lymphatic system disorders: agranulocytosis, bone marrow failure, pancytopenia, splenomegaly.
 
@@ -218,12 +217,12 @@ Vascular disorders: orthostatic hypotension.
 
 ## 6.2 Postmarketing Experience
 
-The following adverse reactions have been identified during postmarketing use of Azacitidine for Injection.
+The following adverse reactions have been identified during postapproval use of azacitidine.
 Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
 
-- •Interstitial lung disease
-- •Tumor lysis syndrome
-- •Injection site necrosis
-- •Sweet’s syndrome (acute febrile neutrophilic dermatosis)
-- •Necrotizing fasciitis (including fatal cases)
-- •Differentiation syndrome
+- Interstitial lung disease
+- Tumor lysis syndrome
+- Injection site necrosis
+- Sweet’s syndrome (acute febrile neutrophilic dermatosis)
+- Necrotizing fasciitis (including fatal cases)
+- Differentiation syndrome

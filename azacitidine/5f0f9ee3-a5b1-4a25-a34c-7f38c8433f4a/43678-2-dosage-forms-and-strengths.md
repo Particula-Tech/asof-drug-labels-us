@@ -1,3 +1,3 @@
 # 3 DOSAGE FORMS AND STRENGTHS
 
-Azacitidine for Injection is supplied as lyophilized powder in 100 mg single-dose vials.
+For injection: 100mg as a lyophilized powder in single-dose vial for reconstitution.

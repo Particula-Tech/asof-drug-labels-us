@@ -2,29 +2,29 @@
 
 Myelodysplastic Syndromes (MDS)
 
-Study 1 was a randomized, open-label, controlled trial carried out in 53 U.S. sites that compared the safety and efficacy of subcutaneous Azacitidine for Injection plus supportive care with supportive care alone (“observation”) in patients with any of the five FAB subtypes of myelodysplastic syndromes (MDS): refractory anemia (RA), RA with ringed sideroblasts (RARS), RA with excess blasts (RAEB), RAEB in transformation (RAEB-T), and chronic myelomonocytic leukemia (CMMoL).
-RA and RARS patients were included if they met one or more of the following criteria: required packed RBC transfusions; had platelet counts less than or equal to 50 x 109/L; required platelet transfusions; or were neutropenic (ANC less than 1 x 109/L) with infections requiring treatment with antibiotics.
+Study 1 was a randomized, open-label, controlled trial carried out in 53 U.S. sites that compared the safety and efficacy of subcutaneous azacitidine plus supportive care with supportive care alone (“observation”) in patients with any of the five FAB subtypes of myelodysplastic syndromes (MDS): refractory anemia (RA), RA with ringed sideroblasts (RARS), RA with excess blasts (RAEB), RAEB in transformation (RAEB-T), and chronic myelomonocytic leukemia (CMMoL).
+RA and RARS patients were included if they met one or more of the following criteria: required packed RBC transfusions; had platelet counts less than or equal to 50 x 10 9/L; required platelet transfusions; or were neutropenic (ANC less than 1 x 10 9/L) with infections requiring treatment with antibiotics.
 Patients with acute myelogenous leukemia (AML) were not intended to be included.
 Supportive care allowed in this study included blood transfusion products, antibiotics, antiemetics, analgesics and antipyretics.
 The use of hematopoietic growth factors was prohibited.
 Baseline patient and disease characteristics are summarized in Table 3; the 2 groups were similar.
 
-Azacitidine for Injection was administered at a subcutaneous dose of 75 mg/m2 daily for 7 days every 4 weeks.
-The dose was increased to 100 mg/m2 if no beneficial effect was seen after 2 treatment cycles.
+Azacitidine was administered at a subcutaneous dose of 75 mg/m 2 daily for 7 days every 4 weeks.
+The dose was increased to 100 mg/m 2 if no beneficial effect was seen after 2 treatment cycles.
 The dose was decreased and/or delayed based on hematologic response or evidence of renal toxicity.
-Patients in the observation arm were allowed by protocol to cross over to Azacitidine for Injection if they had increases in bone marrow blasts, decreases in hemoglobin, increases in red cell transfusion requirements, or decreases in platelets, or if they required a platelet transfusion or developed a clinical infection requiring treatment with antibiotics.
+Patients in the observation arm were allowed by protocol to cross over to azacitidine if they had increases in bone marrow blasts, decreases in hemoglobin, increases in red cell transfusion requirements, or decreases in platelets, or if they required a platelet transfusion or developed a clinical infection requiring treatment with antibiotics.
 For purposes of assessing efficacy, the primary endpoint was response rate (as defined in Table 4).
 
 Of the 191 patients included in the study, independent review (adjudicated diagnosis) found that 19 had the diagnosis of AML at baseline.
 These patients were excluded from the primary analysis of response rate, although they were included in an intent-to-treat (ITT) analysis of all patients randomized.
-Approximately 55% of the patients randomized to observation crossed over to receive Azacitidine for Injection treatment.
+Approximately 55% of the patients randomized to observation crossed over to receive azacitidine treatment.
 
 Table 3.
 Baseline Demographics and Disease Characteristics
 
-|  | Azacitidine for |  |
+|  | Azacitidine |  |
 | --- | --- | --- |
-|  | Injection | Observation |
+|  |  | Observation |
 |  | (N=99) | (N=92) |
 | Gender (n%) |  |  |
 | Male | 72 (72.7) | 60 (65.2) |
@@ -63,10 +63,10 @@ Response Criteria
 | Partial Response (PR), duration ≥4 weeks | Marrow | No marrow requirements |  | ≥50% decrease in blasts Improvement of marrow dyspoiesis |  |  |
 | Peripheral Blood | ≥50% restoration in the deficit from normal levels of baseline white cells, hemoglobin and platelets if abnormal at baseline No blasts in the peripheral circulationFor CMMoL, if WBC is elevated at baseline, a ≥75% reduction in the excess count over the upper limit of normal |  |  |  |  |  |
 
-The overall response rate (CR + PR) of 15.7% in Azacitidine for Injection-treated patients without AML (16.2% for all Azacitidine for Injection randomized patients including AML) was statistically significantly higher than the response rate of 0% in the observation group (p<0.0001) (Table 5).
+The overall response rate (CR + PR) of 15.7% in azacitidine -treated patients without AML (16.2% for all azacitidine randomized patients including AML) was statistically significantly higher than the response rate of 0% in the observation group (p<0.0001) (Table 5).
 The majority of patients who achieved either CR or PR had either 2 or 3 cell line abnormalities at baseline (79%; 11/14) and had elevated bone marrow blasts or were transfusion dependent at baseline.
-Patients responding to Azacitidine for Injection had a decrease in bone marrow blasts percentage, or an increase in platelets, hemoglobin or WBC.
-Greater than 90% of the responders initially demonstrated these changes by the 5th treatment cycle.
+Patients responding to azacitidine had a decrease in bone marrow blasts percentage, or an increase in platelets, hemoglobin or WBC.
+Greater than 90% of the responders initially demonstrated these changes by the 5 th treatment cycle.
 All patients who had been transfusion dependent became transfusion independent during PR or CR.
 The mean and median duration of clinical response of PR or better was estimated as 512 and 330 days, respectively; 75% of the responding patients were still in PR or better at completion of treatment.
 Response occurred in all MDS subtypes as well as in patients with adjudicated baseline diagnosis of AML.
@@ -74,25 +74,25 @@ Response occurred in all MDS subtypes as well as in patients with adjudicated ba
 Table 5.
 Response Rates
 
-|  | Azacitidine forInjection(N=89) | Observation Before Crossover(N=83) |  |
+|  | Azacitidine (N=89) | Observation Before Crossover(N=83) |  |
 | --- | --- | --- | --- |
 | Response | n (%) | n (%) | P value |
 | Overall (CR+PR) | 14 (15.7) | 0 (0.0) | (<0.0001) |
 | Complete (CR) | 5 (5.6) | 0 (0.0) | (0.06) |
 | Partial (PR) | 9 (10.1) | 0 (0.0) | -- |
 
-Patients in the observation group who crossed over to receive Azacitidine for Injection treatment (47 patients) had a response rate of 12.8%.
+Patients in the observation group who crossed over to receive azacitidine treatment (47 patients) had a response rate of 12.8%.
 
 Study 2, a multi-center, open-label, single-arm study of 72 patients with RAEB, RAEB-T, CMMoL, or AML was also carried out.
-Treatment with subcutaneous Azacitidine for Injection resulted in a response rate (CR + PR) of 13.9%, using criteria similar to those described above.
+Treatment with subcutaneous azacitidine resulted in a response rate (CR + PR) of 13.9%, using criteria similar to those described above.
 The mean and median duration of clinical response of PR or better was estimated as 810 and 430 days, respectively; 80% of the responding patients were still in PR or better at the time of completion of study involvement.
-In Study 3, another open-label, single-arm study of 48 patients with RAEB, RAEB-T, or AML, treatment with intravenous Azacitidine for Injection resulted in a response rate of 18.8%, again using criteria similar to those described above.
+In Study 3, another open-label, single-arm study of 48 patients with RAEB, RAEB-T, or AML, treatment with intravenous azacitidine resulted in a response rate of 18.8%, again using criteria similar to those described above.
 The mean and median duration of clinical response of PR or better was estimated as 389 and 281 days, respectively; 67% of the responding patients were still in PR or better at the time of completion of treatment.
 Response occurred in all MDS subtypes as well as in patients with adjudicated baseline diagnosis of AML in both of these studies.
-Azacitidine for Injection dosage regimens in these 2 studies were similar to the regimen used in the controlled study.
+Azacitidine dosage regimens in these 2 studies were similar to the regimen used in the controlled study.
 
 Benefit was seen in patients who did not meet the criteria for PR or better, but were considered “improved.”
-About 24% of Azacitidine for Injection-treated patients were considered improved, and about 2/3 of those lost transfusion dependence.
+About 24% of azacitidine -treated patients were considered improved, and about 2/3 of those lost transfusion dependence.
 In the observation group, only 5/83 patients met criteria for improvement; none lost transfusion dependence.
 In all 3 studies, about 19% of patients met criteria for improvement with a median duration of 195 days.
 
@@ -106,7 +106,7 @@ At baseline, 95% of the patients were higher risk by FAB classification: RAEB (5
 By IPSS classification, 87% were higher risk: Int-2 (41%), High (47%).
 At baseline, 32% of patients met WHO criteria for AML.
 
-Azacitidine was administered subcutaneously at a dose of 75 mg/m2 daily for 7 consecutive days every 28 days (which constituted one cycle of therapy).
+Azacitidine was administered subcutaneously at a dose of 75 mg/m 2 daily for 7 consecutive days every 28 days (which constituted one cycle of therapy).
 Patients continued treatment until disease progression, relapse after response, or unacceptable toxicity.
 Azacitidine patients were treated for a median of 9 cycles (range 1 to 39), BSC only patients for a median of 7 cycles (range 1 to 26), low dose cytarabine patients for a median of 4.5 cycles (range 1 to 15), and chemotherapy with cytarabine and anthracycline patients for a median of 1 cycle (range 1 to 3, i.e. induction plus 1 or 2 consolidation cycles).
 
@@ -125,5 +125,5 @@ Effect of Azacitidine on RBC Transfusions in MDS Patients
 
 | Efficacy Parameter | Azacitidine plus BSC (n= 179) | Conventional Care Regimens (n= 179) |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Number and percent of patients who were transfusion dependent at baseline who became transfusion independent on treatment1 Number and percent of patients who were transfusion-independent at baseline who became transfusion-dependent on treatment | 50/111 (45.0%) (95% CI: 35.6%, 54.8%) 10/68 (14.7%) (95% CI: 7.3%, 25.4%) | 13/114 (11.4%) (95% CI: 6.2%, 18.7%) 28/65 (43.1%) (95% CI: 30.9%, 56.0%) |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| Number and percent of patients who were transfusion dependent at baseline who became transfusion independent on treatment 1 Number and percent of patients who were transfusion-independent at baseline who became transfusion-dependent on treatment | 50/111 (45.0%) (95% CI: 35.6%, 54.8%) 10/68 (14.7%) (95% CI: 7.3%, 25.4%) | 13/114 (11.4%) (95% CI: 6.2%, 18.7%) 28/65 (43.1%) (95% CI: 30.9%, 56.0%) |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 | 1 A patient was considered RBC transfusion independent during the treatment period if the patient had no RBC transfusions during any 56 consecutive days or more during the treatment period. Otherwise, the patient was considered transfusion dependent. |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |

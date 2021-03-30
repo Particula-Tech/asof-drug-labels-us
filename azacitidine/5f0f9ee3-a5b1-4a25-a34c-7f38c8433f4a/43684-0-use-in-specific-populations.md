@@ -16,12 +16,12 @@ Data
 
 Animal Data
 
-Early embryotoxicity studies in mice revealed a 44% frequency of intrauterine embryonal death (increased resorption) after a single IP (intraperitoneal) injection of 6 mg/m2 (approximately 8% of the recommended human daily dose on a mg/m2 basis) azacitidine on gestation day 10.
-Developmental abnormalities in the brain have been detected in mice given azacitidine on or before gestation day 15 at doses of ~3 to 12 mg/m2 (approximately 4% to 16% the recommended human daily dose on a mg/m2 basis).
+Early embryotoxicity studies in mice revealed a 44% frequency of intrauterine embryonal death (increased resorption) after a single IP (intraperitoneal) injection of 6 mg/m 2 (approximately 8% of the recommended human daily dose on a mg/m 2 basis) azacitidine on gestation day 10.
+Developmental abnormalities in the brain have been detected in mice given azacitidine on or before gestation day 15 at doses of ~3 to 12 mg/m 2 (approximately 4% to 16% the recommended human daily dose on a mg/m 2 basis).
 
-In rats, azacitidine was clearly embryotoxic when given IP on gestation days 4 to 8 (postimplantation) at a dose of 6 mg/m2 (approximately 8% of the recommended human daily dose on a mg/m2 basis), although treatment in the preimplantation period (on gestation days 1 to 3) had no adverse effect on the embryos.
-Azacitidine caused multiple fetal abnormalities in rats after a single IP dose of 3 to 12 mg/m2 (approximately 8% the recommended human daily dose on a mg/m2 basis) given on gestation day 9, 10, 11 or 12.
-In this study azacitidine caused fetal death when administered at 3 to 12 mg/m2 on gestation days 9 and 10; average live animals per litter was reduced to 9% of control at the highest dose on gestation day 9.
+In rats, azacitidine was clearly embryotoxic when given IP on gestation days 4 to 8 (postimplantation) at a dose of 6 mg/m 2 (approximately 8% of the recommended human daily dose on a mg/m 2 basis), although treatment in the preimplantation period (on gestation days 1 to 3) had no adverse effect on the embryos.
+Azacitidine caused multiple fetal abnormalities in rats after a single IP dose of 3 to 12 mg/m 2 (approximately 8% the recommended human daily dose on a mg/m 2 basis) given on gestation day 9, 10, 11 or 12.
+In this study azacitidine caused fetal death when administered at 3 to 12 mg/m 2 on gestation days 9 and 10; average live animals per litter was reduced to 9% of control at the highest dose on gestation day 9.
 Fetal anomalies included: CNS anomalies (exencephaly/encephalocele), limb anomalies (micromelia, club foot, syndactyly, oligodactyly), and others (micrognathia, gastroschisis, edema, and rib abnormalities).
 
 ## 8.2 Lactation
@@ -29,7 +29,7 @@ Fetal anomalies included: CNS anomalies (exencephaly/encephalocele), limb anomal
 Risk Summary
 
 There is no information on the presence of azacitidine or its metabolites in human milk, the effects on a breast-fed child, or the effects on milk production.
-Because many drugs are excreted in human milk and because of the potential for tumorigenicity shown for azacitidine in animal studies [see Nonclinical Toxicology (13.1)] and the potential for serious adverse reactions in a nursing child from azacitidine, advise patients not to breastfeed during treatment with azacitidine and for 1 week after the final dose.
+Because many drugs are excreted in human milk and because of the potential for tumorigenicity shown for azacitidine in animal studies [see Nonclinical Toxicology (13.1)] and the potential for serious adverse reactions in a breastfeed child, advise women not to breastfeed during treatment with Azacitidine for Injection and for 1 week after the final dose.
 
 ## 8.3 Females and Males of Reproductive Potential
 
@@ -43,7 +43,6 @@ Contraception
 
 Females
 
-Azacitidine for Injection can cause fetal harm.
 Advise females of reproductive potential to use effective contraception during treatment with Azacitidine for Injection and for 6 months after the final dose [see Use in Specific Populations (8.1) and Clinical Pharmacology (12.3)].
 
 Males
