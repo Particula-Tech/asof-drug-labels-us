@@ -67,7 +67,7 @@ Docetaxel has been studied in a total of 289 pediatric patients: 239 in 2 trials
 Docetaxel Monotherapy
 
 Docetaxel monotherapy was evaluated in a dose-finding phase 1 trial in 61 pediatric patients (median age 12.5 years, range 1-22 years) with a variety of refractory solid tumors.
-The recommended dose was 125 mg/m2 as a 1-hour intravenous infusion every 21 days.
+The recommended dose was 125 mg/m 2 as a 1-hour intravenous infusion every 21 days.
 The primary dose limiting toxicity was neutropenia.
 
 The recommended dose for docetaxel monotherapy was evaluated in a phase 2 single-arm trial in 178 pediatric patients (median age 12 years, range 1-26 years) with a variety of recurrent/refractory solid tumors.
@@ -83,10 +83,10 @@ One patient out of 50 in the TCF group (2%) had a complete response while none o
 Pharmacokinetics
 
 Pharmacokinetic parameters for docetaxel were determined in 2 pediatric solid tumor trials.
-Following docetaxel administration at 55 mg/m2 to 235 mg/m2 in a 1-hour intravenous infusion every 3 weeks in 25 patients aged 1 to 20 years (median 11 years), docetaxel clearance was 17.3±10.9 L/h/m2.
+Following docetaxel administration at 55 mg/m 2 to 235 mg/m 2 in a 1-hour intravenous infusion every 3 weeks in 25 patients aged 1 to 20 years (median 11 years), docetaxel clearance was 17.3±10.9 L/h/m 2.
 
-Docetaxel was administered in combination with cisplatin and 5-fluorouracil (TCF), at dose levels of 75 mg/m2 in a 1-hour intravenous infusion day 1 in 28 patients aged 10 to 21 years (median 16 years, 17 patients were older than 16).
-Docetaxel clearance was 17.9±8.75 L/h/m2, corresponding to an AUC of 4.20±2.57 mcg•h/mL.
+Docetaxel was administered in combination with cisplatin and 5-fluorouracil (TCF), at dose levels of 75 mg/m 2 in a 1-hour intravenous infusion day 1 in 28 patients aged 10 to 21 years (median 16 years, 17 patients were older than 16).
+Docetaxel clearance was 17.9±8.75 L/h/m 2, corresponding to an AUC of 4.20±2.57 mcg•h/mL.
 
 In summary, the body surface area adjusted clearance of docetaxel monotherapy and TCF combination in children were comparable to those in adults [see Clinical Pharmacology (12.3)].
 

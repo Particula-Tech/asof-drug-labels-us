@@ -4,7 +4,7 @@ Caution: Cytotoxic Agent
 
 Rx Only
 
-NDC 71288-143-02
+NDC 71288- 143-02
 
 Docetaxel Injection, USP
 
@@ -22,7 +22,7 @@ One-vial formulation
 
 Principal Display Panel – Docetaxel Injection, USP 2 mL Carton
 
-NDC 71288-143-02
+NDC 71288- 143-02
 
 1 x 2 mL Single-Dose Vial
 
@@ -51,7 +51,7 @@ Caution: Cytotoxic Agent
 
 Rx Only
 
-NDC 71288-144-08
+NDC 71288- 144-08
 
 Docetaxel Injection, USP
 
@@ -67,7 +67,7 @@ One-vial formulation
 
 Principal Display Panel – Docetaxel Injection, USP 8 mL Carton
 
-NDC 71288-144-08
+NDC 71288- 144-08
 
 1 x 8 mL Multi-Dose Vial
 
@@ -94,7 +94,7 @@ Caution: Cytotoxic Agent
 
 Rx Only
 
-NDC 71288-144-16
+NDC 71288- 144-16
 
 Docetaxel Injection, USP
 
@@ -110,7 +110,7 @@ One-vial formulation
 
 Principal Display Panel – Docetaxel Injection, USP 16 mL Carton
 
-NDC 71288-144-16
+NDC 71288- 144-16
 
 1 x 16 mL Multi-Dose Vial
 

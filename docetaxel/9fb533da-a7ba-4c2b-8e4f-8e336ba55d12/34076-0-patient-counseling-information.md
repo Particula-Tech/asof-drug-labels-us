@@ -14,7 +14,7 @@ Advise patients of the symptoms of colitis, such as abdominal pain or tenderness
 Hypersensitivity Reactions
 
 Ask patients whether they have previously received paclitaxel therapy, and if they have experienced a hypersensitivity reaction to paclitaxel.
-Instruct patients to immediately report to their healthcare provider signs of a hypersensitivity reaction [see Contraindications (4), Warnings and Precautions (5.5)].
+Instruct patients to immediately report to their healthcare provider signs of a hypersensitivity reaction [s ee Contraindications (4), Warnings and Precautions (5.5)].
 
 Fluid Retention
 
@@ -87,6 +87,6 @@ Drug Interactions
 
 Inform patients about the risk of drug interactions and the importance of providing a list of prescription and non-prescription drugs to their healthcare provider [see Drug Interactions (7)].
 
-meitheal® Mfd. for Meitheal Pharmaceuticals Chicago, IL 60631 (USA) ©2020 Meitheal Pharmaceuticals Inc.
+meitheal ® Mfd. for Meitheal Pharmaceuticals Chicago, IL 60631 (USA) ©2021 Meitheal Pharmaceuticals Inc.
 
-November 2020
+Revised: March 2021
