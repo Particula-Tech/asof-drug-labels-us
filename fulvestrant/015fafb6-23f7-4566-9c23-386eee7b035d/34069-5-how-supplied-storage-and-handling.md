@@ -7,7 +7,7 @@ It is supplied as follows:
 | --- | --- | --- |
 | 71288-555-86 | 250 mg per 5 mL Single-Dose Prefilled Syringe | 2 syringes per carton |
 
-The 2 x 5 mL single-dose prefilled syringes are presented in a tray with polystyrene plunger rod and 21G x 1- 1/2 inch safety needles (SafetyGlide™) for connection to the barrel.
+The 2 x 5 mL single-dose prefilled syringes are presented in a tray with polystyrene plunger rod and 21G x 1-1/2 inch safety needles (SafetyGlide™) for connection to the barrel.
 
 Discard each syringe after use.
 If a patient dose requires only one syringe, unused syringe should be stored as directed below.

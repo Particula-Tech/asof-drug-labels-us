@@ -16,8 +16,10 @@ This Patient Information has been approved by the U.S. Food and Drug Administrat
 
 Brands listed are the trademarks of their respective owners.
 
-Mfd. for Meitheal Pharmaceuticals Chicago, IL 60631 (USA) ©2020 Meitheal Pharmaceuticals Inc.
+Mfd. for Meitheal Pharmaceuticals Chicago, IL 60631 (USA) ©2021 Meitheal Pharmaceuticals Inc.
 
-Revised: September 2020
+Mfd. by Nanjing King-Friend Biochemical Pharmaceutical Co., Ltd. Nanjing, China 210061
 
-810038-01
+Revised: February 2021
+
+810038-02
