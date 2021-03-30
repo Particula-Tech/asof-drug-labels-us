@@ -27,10 +27,10 @@ Inform patients that monitoring for hepatotoxicity during therapy with DOVATO is
 
 Embryo-Fetal Toxicity
 
-Counsel individuals of childbearing potential to consider an alternative treatment to DOVATO at the time of conception through the first trimester of pregnancy.
-Advise individuals of childbearing potential to contact their healthcare provider if they plan to become pregnant, become pregnant, or if pregnancy is suspected during treatment with DOVATO [see Warnings and Precaution (5.4), Use in Specific Populations (8.1, 8.3)].
+Advise individuals of childbearing potential, including those actively trying to become pregnant, to discuss the risks and benefits of DOVATO with their healthcare provider to determine if an alternative treatment should be considered at the time of conception through the first trimester of pregnancy.
+If pregnancy is confirmed in the first trimester, advise patients to contact their healthcare provider [see Warnings and Precaution (5.4), Use in Specific Populations (8.1, 8.3)].
 
-Advise individuals of childbearing potential taking DOVATO to consistently use effective contraception [see Warnings and Precautions (5.4), Use in Specific Populations (8.1, 8.3)].
+Individuals of childbearing potential taking DOVATO should be counseled on the consistent use of effective contraception [see Warnings and Precautions (5.4), Use in Specific Populations (8.1, 8.3)].
 
 Lactic Acidosis/Hepatomegaly with Steatosis
 
@@ -72,7 +72,7 @@ GlaxoSmithKline Research Triangle Park, NC 27709
 
 ©2021 ViiV Healthcare group of companies or its licensor.
 
-DVT:5PI
+DVT:6PI
 
 PHARMACIST‑DETACH HERE AND GIVE INSTRUCTIONS TO PATIENT
 

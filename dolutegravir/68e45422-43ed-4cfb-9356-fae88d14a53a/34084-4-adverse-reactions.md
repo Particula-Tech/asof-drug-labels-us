@@ -43,17 +43,26 @@ Adverse reactions of at least Grade 2 occurring in ≥1% of subjects treated wit
 Less Common Adverse Reactions: The following adverse reactions occurred in <2% of subjects receiving dolutegravir plus lamivudine or are from studies described in the prescribing information of the individual components, TIVICAY (dolutegravir) and EPIVIR (lamivudine).
 Some events have been included because of their seriousness and assessment of potential causal relationship.
 
-1. Blood and Lymphatic Systems Disorders: Anemia, neutropenia, thrombocytopenia.
-2. Gastrointestinal Disorders: Abdominal discomfort, abdominal pain, flatulence, upper abdominal pain, vomiting.
-3. General: Fever.
-4. Hepatobiliary Disorders: Hepatitis.
-5. Immune System Disorders: Hypersensitivity, immune reconstitution syndrome.
-6. Musculoskeletal Disorders: Myositis.
-7. Nervous System Disorders: Somnolence.
-8. Psychiatric Disorders: Abnormal dreams, depression.
-   Suicidal ideation, attempt, behavior, or completion; these events were observed primarily in subjects with a pre-existing history of depression or other psychiatric illness.
-9. Renal and Urinary Disorders: Renal impairment.
-10. Skin and Subcutaneous Tissue Disorders: Pruritus, rash.
+Blood and Lymphatic Systems Disorders: Anemia, neutropenia, thrombocytopenia.
+
+Gastrointestinal Disorders: Abdominal discomfort, abdominal pain, flatulence, upper abdominal pain, vomiting.
+
+General: Fever.
+
+Hepatobiliary Disorders: Hepatitis.
+
+Immune System Disorders: Hypersensitivity, immune reconstitution syndrome.
+
+Musculoskeletal Disorders: Myositis.
+
+Nervous System Disorders: Somnolence.
+
+Psychiatric Disorders: Abnormal dreams, depression.
+Suicidal ideation, attempt, behavior, or completion; these events were observed primarily in subjects with a pre-existing history of depression or other psychiatric illness.
+
+Renal and Urinary Disorders: Renal impairment.
+
+Skin and Subcutaneous Tissue Disorders: Pruritus, rash.
 
 Clinical Trials in Virologically Suppressed Adults
 

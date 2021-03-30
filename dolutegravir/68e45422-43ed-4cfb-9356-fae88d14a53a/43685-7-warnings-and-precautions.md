@@ -36,17 +36,15 @@ Monitoring for hepatotoxicity is recommended.
 
 ## 5.4 Embryo-Fetal Toxicity
 
-An observational study showed an association between dolutegravir, a component of DOVATO, and an increased risk of neural tube defects when dolutegravir was administered at the time of conception and in early pregnancy.
-As there is limited understanding of reported types of neural tube defects associated with dolutegravir use and because the date of conception may not be determined with precision, an alternative treatment to DOVATO should be considered at the time of conception through the first trimester of pregnancy [see Use in Specific Populations (8.1)].
+An ongoing observational study showed an association between dolutegravir and an increased risk of neural tube defects when dolutegravir was administered at the time of conception and in early pregnancy.
+As there is limited understanding of the association of reported types of neural tube defects with dolutegravir use, inform individuals of childbearing potential, including those actively trying to become pregnant, about the potential increased risk of neural tube defects with DOVATO.
+Assess the risks and benefits of DOVATO and discuss with the patient to determine if an alternative treatment should be considered at the time of conception through the first trimester of pregnancy or if pregnancy is confirmed in the first trimester [see Use in Specific Populations (8.1, 8.3)].
 
-Perform pregnancy testing before initiation of DOVATO in individuals of childbearing potential to exclude use of DOVATO during the first trimester of pregnancy [see Dosage and Administration (2.1)].
-Initiation of DOVATO is not recommended in individuals actively trying to become pregnant unless there is no suitable alternative [see Use in Specific Populations (8.1, 8.3)].
+Pregnancy testing is recommended before initiation of DOVATO in individuals of childbearing potential [see Dosage and Administration (2.1)].
 
-Counsel individuals of childbearing potential to consistently use effective contraception [see Use in Specific Populations (8.1, 8.3)].
+Individuals of childbearing potential should be counseled on the consistent use of effective contraception [see Use in Specific Populations (8.1, 8.3)].
 
-In individuals of childbearing potential currently on DOVATO who are actively trying to become pregnant, or if pregnancy is confirmed in the first trimester, assess the risks and benefits of continuing DOVATO versus switching to another antiretroviral regimen and consider switching to an alternative regimen [see Use in Specific Populations (8.1, 8.3)].
-
-DOVATO may be considered during the second and third trimesters of pregnancy if the expected benefit justifies the potential risk to the pregnancy woman and the fetus.
+DOVATO may be considered during the second and third trimesters of pregnancy if the expected benefit justifies the potential risk to the pregnant woman and the fetus.
 
 ## 5.5 Lactic Acidosis and Severe Hepatomegaly with Steatosis
 
@@ -64,7 +62,7 @@ The coadministration of DOVATO and other drugs may result in known or potentiall
 - •Possible clinically significant adverse reactions from greater exposures of coadministered drugs.
 
 See Table 5 for steps to prevent or manage these possible and known significant drug interactions, including dosing recommendations.
-Consider the potential for drug interactions prior to and during therapy with DOVATO; review coadministered drugs during therapy with DOVATO, and monitor for the adverse reactions associated with the coadministered drugs.
+Consider the potential for drug interactions prior to and during therapy with DOVATO, review coadministered drugs during therapy with DOVATO, and monitor for the adverse reactions associated with the coadministered drugs.
 
 ## 5.7 Immune Reconstitution Syndrome
 
