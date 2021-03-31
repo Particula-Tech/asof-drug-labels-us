@@ -6,7 +6,7 @@ They are supplied in the following strengths and package configurations:
 
 | Ziprasidone Capsules |  |  |  |
 | --- | --- | --- | --- |
-| Package Configuration | Capsule Strength (mg) | NDC Code | Imprint |
+| Package Configuration | Capsule Strength (mg) | NDC (National Drug Code) | Imprint |
 | Bottles of 30 | 20 | NDC-60505-2528-3 | APO ZIP 20 |
 | Bottles of 30 | 40 | NDC-60505-2529-3 | APO ZIP 40 |
 | Bottles of 30 | 60 | NDC-60505-2530-3 | APO ZIP 60 |

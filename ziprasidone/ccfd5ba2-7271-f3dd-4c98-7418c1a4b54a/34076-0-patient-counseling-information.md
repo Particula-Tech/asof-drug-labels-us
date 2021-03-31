@@ -45,6 +45,6 @@ ZIPRASIDONE CAPSULES, USP
 | Manufactured by Apotex Inc. Toronto, Ontario Canada M9L 1T9 | Manufactured for Apotex Corp. Weston, Florida 33326 |
 | --- | --- |
 
-Revised: May 2020
+Revised: March 2021
 
-Revision: 15
+Revision: 16

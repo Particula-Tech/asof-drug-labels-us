@@ -4,14 +4,14 @@
 
 Pregnancy Exposure Registry
 
-There is a pregnancy exposure registry that monitors pregnancy outcomes in women exposed to atypical antipsychotics, including ziprasidon, during pregnancy.
+There is a pregnancy exposure registry that monitors pregnancy outcomes in women exposed to atypical antipsychotics, including ziprasidone, during pregnancy.
 Healthcare providers are encouraged to register patients by contacting the National Pregnancy Registry for Atypical Antipsychotics at 1-866-961-2388 or online at http://womensmentalhealth.org/clinical-and-research-programs/pregnancyregistry/.
 
 Risk Summary
 
-Neonates exposed to antipsychotic drugs, including ziprasidon, during the third trimester are at risk for extrapyramidal and/or withdrawal symptoms following delivery (see Clinical Considerations).
+Neonates exposed to antipsychotic drugs, including ziprasidone, during the third trimester are at risk for extrapyramidal and/or withdrawal symptoms following delivery (see Clinical Considerations).
 Overall available data from published epidemiologic studies of pregnant women exposed to ziprasidone have not established a drug-associated risk of major birth defects, miscarriage, or adverse maternal or fetal outcomes (see Data).
-There are risks to the mother associated with untreated schizophrenia or bipolar I disorder and with exposure to antipsychotics, including ziprasidon, during pregnancy (see Clinical Considerations).
+There are risks to the mother associated with untreated schizophrenia or bipolar I disorder and with exposure to antipsychotics, including ziprasidone, during pregnancy (see Clinical Considerations).
 
 In animal studies, ziprasidone administration to pregnant rats and rabbits during organogenesis caused developmental toxicity at doses similar to recommended human doses, and was teratogenic in rabbits at 3 times the maximum recommended human dose (MRHD).
 Rats exposed to ziprasidone during gestation and lactation exhibited increased perinatal pup mortality and delayed neurobehavioral and functional development of offspring at doses less than or similar to human therapeutic doses.
@@ -31,7 +31,7 @@ It is not known if this is a direct result of the illness or other comorbid fact
 
 Fetal/neonatal adverse reactions
 
-Extrapyramidal and/or withdrawal symptoms, including agitation, hypertonia, hypotonia, tremor, somnolence, respiratory distress, and feeding disorder have been reported in neonates who were exposed to antipsychotic drugs, including ziprasidon, during the third trimester of pregnancy.
+Extrapyramidal and/or withdrawal symptoms, including agitation, hypertonia, hypotonia, tremor, somnolence, respiratory distress, and feeding disorder have been reported in neonates who were exposed to antipsychotic drugs, including ziprasidone, during the third trimester of pregnancy.
 These symptoms have varied in severity.
 Monitor neonates for extrapyramidal and/or withdrawal symptoms and manage symptoms appropriately.
 Some neonates recovered within hours or days without specific treatment; others required prolonged hospitalization.

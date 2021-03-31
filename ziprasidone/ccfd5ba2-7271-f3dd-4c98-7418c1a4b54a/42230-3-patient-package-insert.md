@@ -7,7 +7,7 @@ Information for patients taking ziprasidone capsules or their caregivers
 This summary contains important information about ziprasidone capsules.
 It is not meant to take the place of your doctor’s instructions.
 Read this information carefully before you take ziprasidone capsules.
-Ask your doctor or pharmacist if you do not understand any of this information or if you want to know more about ziprasidone hydrochloride capsules.
+Ask your doctor or pharmacist if you do not understand any of this information or if you want to know more about ziprasidone capsules.
 
 What are ziprasidone capsules?
 
@@ -78,7 +78,7 @@ Before you start ziprasidone e capsules, be sure to tell your doctor if you:
 - are taking any over-the-counter medicines you can buy without a prescription, including natural/herbal remedies
 - have had any problems with your liver
 - are pregnant, might be pregnant, or plan to get pregnant
-- are breast feeding or plan to breastfeed
+- are breastfeeding or plan to breastfeed
 - are allergic to any medicines
 - have ever had an allergic reaction to ziprasidone or any of the other ingredients of ziprasidone capsules.
   Ask your doctor or pharmacist for a list of these ingredients
@@ -154,12 +154,11 @@ If this happens, be careful not to stand up too quickly, and talk to your doctor
 Before taking ziprasidone capsules, tell your doctor if you
 
 - are pregnant or plan on becoming pregnant.
-
-Ο If you become pregnant while receiving ziprasidone capsules, talk to your healthcare provider about registering with the National Pregnancy Registry for Atypical Antipsychotics.
-You can register by calling 1-866-961-2388 or go to http://womensmentalhealth.org/clinical-and-research-programs/pregnancyregistry/
+  - If you become pregnant while receiving ziprasidone capsules, talk to your healthcare provider about registering with the National Pregnancy Registry for Atypical Antipsychotics.
+    You can register by calling 1-866-961-2388 or go to http://womensmentalhealth.org/clinical-and-research-programs/pregnancyregistry/
 
 - are breastfeeding or plan to breastfeed. ziprasidone capsules can pass into your breast milk.
-  Talk to your healthcare provider about the best way to feed your baby if you receive ziprasidone hydrochloride capsules.
+  Talk to your healthcare provider about the best way to feed your baby if you receive ziprasidone capsules.
 
 Because ziprasidone capsules can cause sleepiness, be careful when operating machinery or driving a motor vehicle.
 
@@ -173,7 +172,7 @@ Ziprasidone capsules have not been shown to be safe or effective in the treatmen
 
 Keep ziprasidone capsules and all medicines out of the reach of children.
 
-How to Store Ziprasidone Capsules
+How To Store Ziprasidone Capsules
 
 Store ziprasidone capsules at room temperature (59°F to 86°F or 15°C to 30°C).
 
@@ -190,6 +189,6 @@ APOTEX INC. ZIPRASIDONE CAPSULES, USP 20 mg, 40 mg, 60 mg and 80 mg
 
 Manufactured by Manufactured for Apotex Inc. Apotex Corp. Toronto, Ontario Weston, Florida Canada M9L 1T9 33326
 
-Revised: May 2020
+Revised: March 2021
 
-Revision: 15
+Revision: 16
