@@ -41,13 +41,11 @@ Advise patients on the use of the on-body injector (OBI) for Neulasta:
     Failure to keep the OBI for Neulasta at least this recommended distance may interfere with operation and can lead to a missed or incomplete dose of Neulasta.
   - that if the needle is exposed after OBI for Neulasta removal, place the used OBI for Neulasta in a sharps disposal container to avoid accidental needle stick and call their healthcare provider immediately.
   - to remove the OBI for Neulasta after the green light shines continuously and to place the used OBI for Neulasta in a sharps disposal container (see the Patient Instructions for Use).
-
 - Advise the patient:
   - do not reapply the OBI for Neulasta if the OBI for Neulasta comes off before full dose is delivered and instead call their healthcare provider immediately, as they may need a replacement dose.
   - avoid bumping the OBI for Neulasta or knocking the OBI for Neulasta off the body.
   - do not use other materials to hold the on-body injector in place that could cover audio/visual indicators or compress the on-body injector against the patient's skin, as this could dislodge the cannula and lead to a missed dose or incomplete dose of Neulasta.
   - do not expose the OBI for Neulasta to medical imaging studies (e.g., X-ray scan, MRI, CT scan and ultrasound), radiation treatment, and oxygen rich environments such as hyperbaric chambers to avoid OBI for Neulasta damage and patient injury.
-
 - Advise the patient to avoid:
   - airport X-ray scans and request a manual pat down instead; remind patients who elect to request a manual pat down to exercise care to avoid having the OBI for Neulasta dislodged during the pat down process.
   - sleeping on the OBI for Neulasta or applying pressure on the OBI for Neulasta as this may affect OBI for Neulasta performance.
@@ -55,9 +53,3 @@ Advise patients on the use of the on-body injector (OBI) for Neulasta:
   - use of lotions, creams, or oils on their arms and abdomen prior to their next scheduled OBI for Neulasta dose (to help with device adherence to the skin).
   - using bath tubs, hot tubs, whirlpools, or saunas and avoid exposing the OBI for Neulasta to direct sunlight as these may affect the drug.
   - peeling off or disturbing the OBI for Neulasta adhesive before delivery of full dose is complete.
-
-Neulasta® (pegfilgrastim) Manufactured by: Amgen Inc. One Amgen Center Drive Thousand Oaks, California 91320-1799 U.S. License No. 1080
-
-Patent: http://pat.amgen.com/onpro/
-
-© 2002-2021 Amgen Inc. All rights reserved. www.neulasta.com 1-800-77-AMGEN (1-800-772-6436) v27

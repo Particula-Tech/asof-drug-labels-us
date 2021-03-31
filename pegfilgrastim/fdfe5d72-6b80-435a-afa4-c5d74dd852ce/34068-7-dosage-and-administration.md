@@ -38,15 +38,15 @@ The syringe does not bear graduation marks, which are necessary to accurately me
 Thus, the direct administration to patients requiring dosing of less than 0.6 mL (6 mg) is not recommended due to the potential for dosing errors.
 Refer to Table 1.
 
-| Table 1. Dosing of Neulasta for pediatric patients weighing less than 45 kg |  |  |
-| --- | --- | --- |
+Table 1.
+Dosing of Neulasta for pediatric patients weighing less than 45 kg
+
 | Body Weight | Neulasta Dose | Volume to Administer |
-| Less than 10 kg* | See below* | See below* |
+| --- | --- | --- |
+| Less than 10 kgFor pediatric patients weighing less than 10 kg, administer 0.1 mg/kg (0.01 mL/kg) of Neulasta. | See below | See below |
 | 10 - 20 kg | 1.5 mg | 0.15 mL |
 | 21 - 30 kg | 2.5 mg | 0.25 mL |
 | 31 - 44 kg | 4 mg | 0.4 mL |
-
-*For pediatric patients weighing less than 10 kg, administer 0.1 mg/kg (0.01 mL/kg) of Neulasta.
 
 ## 2.4 Special Healthcare Provider Instructions for the On-body Injector for Neulasta
 

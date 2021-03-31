@@ -39,7 +39,7 @@ If causality is likely, consider dose-reduction or interruption of Neulasta.
 
 ## 5.7 Leukocytosis
 
-White blood cell (WBC) counts of 100 x 109/L or greater have been observed in patients receiving pegfilgrastim.
+White blood cell (WBC) counts of 100 × 109/L or greater have been observed in patients receiving pegfilgrastim.
 Monitoring of complete blood count (CBC) during pegfilgrastim therapy is recommended.
 
 ## 5.8 Thrombocytopenia

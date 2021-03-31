@@ -33,16 +33,18 @@ The ethnicity was 66% Caucasian, 31% Hispanic, 2% Black, and < 1% Asian, Native 
 
 The most common adverse reactions occurring in ≥ 5% of patients and with a between-group difference of ≥ 5% higher in the pegfilgrastim arm in placebo-controlled clinical trials are bone pain and pain in extremity.
 
-| Table 2. Adverse Reactions with ≥ 5% Higher Incidence in Neulasta Patients Compared to Placebo in Study 3 |  |  |
-| --- | --- | --- |
+Table 2.
+Adverse Reactions with ≥ 5% Higher Incidence in Neulasta Patients Compared to Placebo in Study 3
+
 | Body System Adverse Reaction | Placebo (N = 461) | Neulasta 6 mg SC on Day 2 (N = 467) |
+| --- | --- | --- |
 | Musculoskeletal and connective tissue disorders |  |  |
 | Bone pain | 26% | 31% |
 | Pain in extremity | 4% | 9% |
 
 Leukocytosis
 
-In clinical studies, leukocytosis (WBC counts > 100 x 109/L) was observed in less than 1% of 932 patients with non-myeloid malignancies receiving Neulasta.
+In clinical studies, leukocytosis (WBC counts > 100 × 109/L) was observed in less than 1% of 932 patients with non-myeloid malignancies receiving Neulasta.
 No complications attributable to leukocytosis were reported in clinical studies.
 
 ## 6.2 Immunogenicity

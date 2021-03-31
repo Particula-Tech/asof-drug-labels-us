@@ -1,8 +1,7 @@
 # Neulasta® (pegfilgrastim) Onpro® kit Healthcare Provider INSTRUCTIONS FOR USE
 
-| Guide to Parts |
+| Guide to Parts Neulasta Prefilled Syringe |
 | --- |
-| Neulasta Prefilled Syringe |
 | On-body Injector for Neulasta |
 
 Important
@@ -65,7 +64,7 @@ Step 1: Prepare
 
 Step 2: Fill
 
-| A | Remove air bubbles in prefilled syringe. Injecting air bubbles could interfere with proper operation of the on-body injector. Remove the gray needle cap.Gently tap the syringe with your finger until air bubbles rise to the top.Slowly push air out of the syringe, taking care to not expel medicine.A small droplet at the tip of the needle during air purging is normal. |  |  |  |
+| A | Remove air bubbles in prefilled syringe. Injecting air bubbles could interfere with proper operation of the on-body injector. Remove the gray needle cap.Gently tap the syringe with your finger until air bubbles rise to the top.Slowly push air out of the syringe, taking care to not expel medicine.A small droplet at the tip of the needle during air purging is normal.Do not recap the syringe. |  |  |  |
 | --- | --- | --- | --- | --- |
 | B | Center the needle directly over the medicine port and insert all the way into the port, avoiding sides. |  |  |  |
 
@@ -109,7 +108,9 @@ Start again with a new kit and call Amgen at 1-800-772-6436.
 | --- | --- |
 | Attention! What to do if you hear beeping or when you look at status light and it is flashing red. If at any time the on-body injector beeps continuously for 5 minutes, and the status light is flashing red, take the on-body injector off of the patient. Do not apply or leave the on-body injector on the patient if red error light is on. In all cases, do not use. Start over with a new Neulasta Onpro kit, and call Amgen at 1-800-772-6436. |  |
 | What to do if your patient reports the status light is flashing red. If the patient reports the status light is flashing red, they may not have received the full dose. Schedule a follow-up appointment with your patient. |  |
-| What to do if your patient reports the adhesive is saturated with fluid or the on-body injector is dripping. If the patient reports an on-body injector leak, they may not have received the full dose. Schedule a follow-up appointment with your patient. In all cases report the incident to Amgen at 1-800-772-6436. |  |
+| What to do if your patient reports the adhesive is saturated with fluid or the on-body injector is dripping. If the patient reports an on-body injector leak, they may not have received the full dose. Schedule a follow-up appointment with your patient. |  |
+
+In all cases report the incident to Amgen at 1-800-772-6436.
 
 Neulasta® (pegfilgrastim)
 
@@ -117,7 +118,7 @@ Manufactured by: Amgen Inc. One Amgen Center Drive Thousand Oaks, California 913
 
 Patent: http://pat.amgen.com/onpro/ © 2002 to 2021 Amgen Inc. All rights reserved.
 
-http://www.neulasta.com/ 1-844-MYNEULASTA (1-844-696-3852) Issued: 02/2021 V11
+http://www.neulasta.com/ 1-844-MYNEULASTA (1-844-696-3852) Issued: 03/2021 V12
 
 Before You Begin
 
@@ -125,7 +126,7 @@ Before You Begin
 | --- | --- | --- |
 |  | After the on-body injector activates, you will have 3 full minutes to remove the blue needle guard and adhesive backing, and then apply the on-body injector to your patient. The on-body injector will beep several times prior to inserting the cannula. Make sure you have the on-body injector properly secured to your patient before the cannula inserts. |  |
 |  | When the status light flashes green, this means the on-body injector has successfully inserted the cannula. |  |
-|  | For all questions, or if a patient calls you regarding any on-body injector problems, call Amgen at 1-800-772-6436. ←Turn over to continue with the Instructions for Use |  |
+|  | For all questions, or if a patient calls you regarding any on-body injector problems, call Amgen at 1-800-772-6436. ← Turn over to continue with the Instructions for Use |  |
 
 | Symbol | Meaning |
 | --- | --- |
@@ -189,19 +190,19 @@ Care should be taken if the on-body injector for Neulasta is used adjacent to ot
 | Test specifications for ENCLOSURE PORT IMMUNITY to RF wireless communications equipment |  |  |  |  |  |  |
 | The on-body injector for Neulasta is intended for use in the radio frequency environment specified below. The user of this equipment should ensure that it is used in such an environment. |  |  |  |  |  |  |
 | Test Frequency | BandFor some services, only the uplink frequencies are included. | Service | ModulationThe carrier shall be modulated using a 50% duty cycle square wave signal. | Maximum Power | Distance | Immunity Test Level |
-| 385 | 380–390 | TETRA 400 | Pulse modulation 18 Hz | 1.8 | 0.3 | 27 |
-| 450 | 430–470 | GMRS 460, FRS 460 | FM As an alternative to FM modulation, 50% pulse modulation at 18 Hz may be used because while it does not represent actual modulation, it would be worst case. ± 5 kHz deviation 1 kHz sine | 2 | 0.3 | 28 |
-| 710 | 704–787 | LTE Band 13, 17 | Pulse modulation 217 Hz | 0.2 | 0.3 | 9 |
+| 385 | 380-390 | TETRA 400 | Pulse modulation 18 Hz | 1.8 | 0.3 | 27 |
+| 450 | 430-470 | GMRS 460, FRS 460 | FM As an alternative to FM modulation, 50% pulse modulation at 18 Hz may be used because while it does not represent actual modulation, it would be worst case. ± 5 kHz deviation 1 kHz sine | 2 | 0.3 | 28 |
+| 710 | 704-787 | LTE Band 13, 17 | Pulse modulation 217 Hz | 0.2 | 0.3 | 9 |
 | 745 |  |  |  |  |  |  |
 | 780 |  |  |  |  |  |  |
-| 810 | 800–960 | GSM 800/900, TETRA 800, iDEN 820, CDMA 850, LTE Band 5 | Pulse modulation 18 Hz | 2 | 0.3 | 28 |
+| 810 | 800-960 | GSM 800/900, TETRA 800, iDEN 820, CDMA 850, LTE Band 5 | Pulse modulation 18 Hz | 2 | 0.3 | 28 |
 | 870 |  |  |  |  |  |  |
 | 930 |  |  |  |  |  |  |
-| 1720 | 1700–1990 | GSM 1800; CDMA 1900; GSM 1900; DECT; LTE Band 1, 3, 4, 25; UMTS | Pulse modulation 217 Hz | 2 | 0.3 | 28 |
+| 1720 | 1700-1990 | GSM 1800; CDMA 1900; GSM 1900; DECT; LTE Band 1, 3, 4, 25; UMTS | Pulse modulation 217 Hz | 2 | 0.3 | 28 |
 | 1845 |  |  |  |  |  |  |
 | 1970 |  |  |  |  |  |  |
-| 2450 | 2400–2570 | Bluetooth, WLAN, 802.11 b/g/n, RFID 2450, LTE Band 7 | Pulse modulation 217 Hz | 2 | 0.3 | 28 |
-| 5240 | 5100–5800 | WLAN 802.11 a/n | Pulse modulation 217 Hz | 0.2 | 0.3 | 9 |
+| 2450 | 2400-2570 | Bluetooth, WLAN, 802.11 b/g/n, RFID 2450, LTE Band 7 | Pulse modulation 217 Hz | 2 | 0.3 | 28 |
+| 5240 | 5100-5800 | WLAN 802.11 a/n | Pulse modulation 217 Hz | 0.2 | 0.3 | 9 |
 | 5500 |  |  |  |  |  |  |
 | 5785 |  |  |  |  |  |  |
 | NOTE If necessary to achieve the IMMUNITY TEST LEVEL, the distance between the transmitting antenna and the ME EQUIPMENT OF ME SYSTEM may be reduced to 1 m. The 1 m test distance is permitted by IEC 61000-4-3. |  |  |  |  |  |  |
@@ -218,6 +219,188 @@ Care should be taken if the on-body injector for Neulasta is used adjacent to ot
 | 10 | 3.6894 | 3.6894 | 7.3785 |
 | 100 | 11.667 | 11.667 | 23.333 |
 
+Instructions for Use Neulasta (nu-las-tah) (pegfilgrastim) Injection, for subcutaneous use Single-Dose Prefilled Syringe
+
+Guide to parts
+
+Important: The needle is covered by the gray needle cap before use.
+
+Important
+
+Read the Patient Information for important information you need to know about Neulasta before using these Instructions for Use.
+
+Before you use a Neulasta prefilled syringe, read this important information.
+
+Storing the prefilled syringe
+
+- Store Neulasta in the refrigerator between 36°F to 46°F (2°C to 8°C).
+- Do not freeze.
+- Keep the prefilled syringe in the original carton to protect from light or physical damage.
+- Take the prefilled syringe out of the refrigerator 30 minutes before use and allow it to reach room temperature before preparing an injection.
+- Throw away (dispose of) any Neulasta that has been left at room temperature, 68°F to 77°F (20°C to 25°C), for more than 48 hours.
+- Keep the Neulasta prefilled syringe out of the reach of children.
+
+Using the prefilled syringe
+
+- It is important that you do not try to give the injection unless you or your caregiver has received training from your healthcare provider.
+- Make sure the name Neulasta appears on the carton and prefilled syringe label.
+- Check the carton and prefilled syringe label to make sure the dose strength is 6 mg.
+- You should not inject a dose of Neulasta to children weighing less than 45 kg from a Neulasta prefilled syringe.
+  A dose less than 0.6 mL (6 mg) cannot be accurately measured using the Neulasta prefilled syringe.
+- Do not use a prefilled syringe after the expiration date on the label.
+- Do not shake the prefilled syringe.
+- Do not remove the gray needle cap from the prefilled syringe until you are ready to inject.
+- Do not use the prefilled syringe if the carton is open or damaged.
+- Do not use a prefilled syringe if it has been dropped on a hard surface.
+  The prefilled syringe may be broken even if you cannot see the break.
+  Use a new prefilled syringe.
+- Do not slide the blue safety guard over the needle before you give the injection.
+  This will "activate" or lock the blue safety guard.
+  Use another prefilled syringe that has not been activated and is ready to use.
+- The gray needle cap on the prefilled syringe contains dry natural rubber (made from latex).
+  Tell your healthcare provider if you are allergic to latex.
+  You should not give Neulasta using the prefilled syringe if you have latex allergies.
+
+Call your healthcare provider if you have any questions.
+
+Step 1: Prepare
+
+A Remove the prefilled syringe carton from the refrigerator.
+
+Put the original carton with any unused prefilled syringes back in the refrigerator.
+
+Remove the syringe tray from the carton.
+On a clean, well-lit surface, place the syringe tray at room temperature for 30 minutes before you give an injection.
+
+- Do not use the prefilled syringe if the carton is damaged.
+- Do not try to warm the prefilled syringe by using a heat source such as hot water or microwave.
+- Do not leave the prefilled syringe in direct sunlight.
+- Do not shake the prefilled syringe.
+
+Open the tray by peeling away the cover.
+Grab the blue safety guard to remove the prefilled syringe from the tray.
+
+For safety reasons:
+
+- Do not grab the plunger rod.
+- Do not grab the gray needle cap.
+
+B Inspect the medicine and prefilled syringe.
+
+Make sure the medicine in the prefilled syringe is clear and colorless.
+
+- Do not use the prefilled syringe if:
+  - The medicine is cloudy or discolored or contains flakes or particles.
+  - Any part appears cracked or broken.
+  - The prefilled syringe has been dropped.
+  - The gray needle cap is missing or not securely attached.
+  - The expiration date printed on the label has passed.
+
+In all cases, use a new prefilled syringe and call your healthcare provider.
+
+C Gather all materials needed for the injection.
+
+Wash your hands thoroughly with soap and water.
+
+On a clean, well-lit work surface, place the:
+
+- Prefilled syringe
+- Alcohol wipe
+- Cotton ball or gauze pad
+- Adhesive bandage
+- Sharps disposal container
+
+Step 2: Get ready
+
+D Prepare and clean the injection site(s).
+
+You can use:
+
+- Thigh
+- Stomach area (abdomen), except for a 2-inch area right around the navel (belly button)
+- Upper outer area of the buttocks (only if someone else is giving you the injection)
+- Outer area of upper arm (only if someone else is giving you the injection)
+
+Clean the injection site with an alcohol wipe.
+Let the skin dry.
+
+- Do not touch this area again before injecting.
+- If you want to use the same injection site, make sure it is not the same spot on the injection site you used for a previous injection.
+- Do not inject into areas where the skin is tender, bruised, red, or hard.
+  Avoid injecting into areas with scars or stretch marks.
+
+E Hold the prefilled syringe by the syringe barrel.
+Carefully pull the gray needle cap straight off and away from the body.
+
+- Do not remove the gray needle cap from the prefilled syringe until you are ready to inject.
+- Do not twist or bend the gray needle cap.
+- Do not hold the prefilled syringe by the plunger rod.
+- Do not put the gray needle cap back onto the prefilled syringe.
+
+Important: Throw the gray needle cap into the sharps disposal container.
+
+Step 3: Subcutaneous (under the skin) injection
+
+F Pinch the injection site to create a firm surface.
+
+Important: Keep skin pinched while injecting.
+
+G Hold the pinch.
+Insert the needle into the skin at 45 to 90 degrees.
+
+H Using slow and constant pressure, push the plunger rod until it reaches the bottom.
+
+When done, gently pull the syringe off of the skin.
+
+Important: When you remove the syringe, if it looks like the medicine is still in the syringe barrel, this means you have not received a full dose.
+Call your healthcare provider right away.
+
+Step 4: Finish
+
+| I |  |
+| --- | --- |
+
+For your safety, pull the blue safety guard until it clicks and covers the needle.
+
+Once extended, the blue safety guard will lock into position and will not slide back over the needle.
+
+Keep your hands away from the needle at all times.
+
+J Discard (throw away) the used prefilled syringe.
+
+- Put the used prefilled syringe in a FDA-cleared sharps disposal container right away after use.
+  Do not throw away (dispose of) the syringe in the household trash.
+- If you do not have a FDA-cleared sharps disposal container, you may use a household container that is:
+  - made of a heavy-duty plastic,
+  - can be closed with a tight-fitting, puncture-resistant lid, without sharps being able to come out,
+  - upright and stable during use,
+  - leak-resistant, and
+  - properly labeled to warn of hazardous waste inside the container.
+- When your sharps disposal container is almost full, you will need to follow your community guidelines for the right way to dispose of your sharps disposal container.
+  There may be state or local laws about how you should throw away used needles and syringes.
+  For more information about safe sharps disposal, and for specific information about sharps disposal in the state that you live in, go to the FDA's website at: http://www.fda.gov/safesharpsdisposal
+- Do not reuse the prefilled syringe.
+- Do not recycle the prefilled syringe or sharps disposal container or throw them into household trash.
+
+Important: Always keep the sharps disposal container out of the reach of children.
+
+K Examine the injection site.
+
+If there is blood, press a cotton ball or gauze pad on the injection site.
+Do not rub the injection site.
+Apply an adhesive bandage if needed.
+
+This Instructions for Use has been approved by the U.S. Food and Drug Administration.
+
+Manufactured by:
+
+Amgen Inc. One Amgen Center Drive Thousand Oaks, California 91320-1799 U.S. License No. 1080
+
+Patent: http://pat.amgen.com/onpro/
+
+© 2002-2016 Amgen Inc. All rights reserved.
+1xxxxxx Revised: 12/2016 v2
+
 # Patient INSTRUCTIONS FOR USE Neulasta® Onpro® (nu-las-tah) (pegfilgrastim) injection Single-Use On-body Injector
 
 |  | Your On-body injector was applied: |  |  |
@@ -230,6 +413,10 @@ Care should be taken if the on-body injector for Neulasta is used adjacent to ot
 | Healthcare Provider name: |  |  |  |
 | Healthcare Provider contact number: |  |  |  |
 | On-body Injector lot number: |  |  |  |
+
+AMGEN®
+
+Neulasta® (pegfilgrastim) Onpro® kit
 
 Get to Know Your On-body Injector
 
@@ -255,13 +442,14 @@ Contents
 | --- | --- |
 |  | On-body Injector for Neulasta Description |
 | INFO | The on-body injector for Neulasta is intended for delivery of Neulasta. This on-body injector delivers Neulasta with an injection under-the-skin (subcutaneous). See the Patient Information that comes with your on-body injector for important information.Your healthcare provider will use a prefilled syringe with Neulasta to fill the on-body injector prior to applying it. The prefilled syringe with Neulasta and the on-body injector are provided to your healthcare provider as part of Neulasta Onpro kit. The on-body injector is applied directly to your skin using a self-adhesive backing. The on-body injector lets you know its status with sounds and lights. |
-|  | Warnings You should only receive a dose of Neulasta on the day your healthcare provider tells you.You should not receive your dose of Neulasta any sooner than 24 hours after you finish receiving your chemotherapy. The on-body injector for Neulasta is programmed to deliver your dose about 27 hours after your healthcare provider places the on-body injector on your skin.If you have concerns about your medicine, call your healthcare provider right away. Serious allergic reactions can happen with Neulasta. Ask your caregiver to be nearby for the first use. Plan to be in a place where you or your caregiver can closely monitor the on-body injector for Neulasta for about 45-minutes during Neulasta delivery and for an hour after the delivery.Do not take Neulasta if you have had a serious allergic reaction to pegfilgrastim (Neulasta) or to filgrastim (Neupogen).Tell your healthcare provider if you are allergic to latex. A prefilled syringe is used to fill the on-body injector by your healthcare provider prior to applying the on-body injector. The prefilled syringe gray needle cap contains dry natural rubber, which is derived from latex. Latex may be transferred to your skin.Tell your healthcare provider if you have had severe skin reactions to acrylic adhesives.If you have an allergic reaction during the delivery of Neulasta, remove the on-body injector by grabbing the edge of the adhesive pad and peeling off the on-body injector. Get emergency medical help right away.Call your healthcare provider right away if you have severe pain or skin discomfort around your on-body injector. Call your healthcare provider right away if you have pain in your left upper stomach area or left shoulder area. This pain could mean your spleen is enlarged or ruptured.Call your healthcare provider or get emergency medical help right away if you get any of these symptoms of acute respiratory distress syndrome (ARDS): fever, shortness of breath, trouble breathing, or a fast rate of breathing. Call your healthcare provider right away if you experience any of these symptoms of kidney injury (glomerulonephritis): puffiness in your face or ankles, blood in your urine or brown colored urine or you notice you urinate less than usual.Call your healthcare provider if you have persistent or worsening redness or tenderness at the application site (may be a sign of infection).The on-body injector is for adult patients only. |
-|  | Wearing the On-body Injector This on-body injector delivers Neulasta with an under-the-skin (subcutaneous) injection.The on-body injector is small, for one-time use, lightweight, battery-powered, and waterproof up to 8 feet for 1 hour.The on-body injector can be worn in a shower. After showering, check the on-body injector to ensure it has not become loose (dislodged).Avoid getting body lotions, creams, oils or cleaning agents near the on-body injector as these products may loosen the adhesive. Before your next scheduled Neulasta dose, avoid use of lotions, creams, or oils on your arms and stomach area (abdomen). Only expose the on-body injector to temperatures between 41°F and 104°F (5°C and 40°C).Do not use bath tubs, hot tubs, whirlpools, or saunas while wearing the on-body injector. This may affect your medicine.Do not expose the on-body injector to direct sunlight. If the on-body injector is exposed to direct sunlight for more than 1 hour, it may affect your medicine. Wear the on-body injector under clothing.Do not sleep on the on-body injector or apply pressure during wear, especially during dose delivery. This may affect on-body injector performance.Do not peel off or disturb the on-body injector adhesive before your full dose is complete. This may result in a missed or incomplete dose of Neulasta. |
+|  | Warnings You should only receive a dose of Neulasta on the day your healthcare provider tells you.You should not receive your dose of Neulasta any sooner than 24 hours after you finish receiving your chemotherapy. The on-body injector for Neulasta is programmed to deliver your dose about 27 hours after your healthcare provider places the on-body injector on your skin.If you have concerns about your medicine, call your healthcare provider right away. Serious allergic reactions can happen with Neulasta. Ask your caregiver to be nearby for the first use. Plan to be in a place where you or your caregiver can closely monitor the on-body injector for Neulasta for about 45-minutes during Neulasta delivery and for an hour after the delivery.Do not take Neulasta if you have had a serious allergic reaction to pegfilgrastim (Neulasta) or to filgrastim (Neupogen). |
+|  | Tell your healthcare provider if you are allergic to latex. A prefilled syringe is used to fill the on-body injector by your healthcare provider prior to applying the on-body injector. The prefilled syringe gray needle cap contains dry natural rubber, which is derived from latex. Latex may be transferred to your skin.Tell your healthcare provider if you have had severe skin reactions to acrylic adhesives.If you have an allergic reaction during the delivery of Neulasta, remove the on-body injector by grabbing the edge of the adhesive pad and peeling off the on-body injector. Get emergency medical help right away.Call your healthcare provider right away if you have severe pain or skin discomfort around your on-body injector. Call your healthcare provider right away if you have pain in your left upper stomach area or left shoulder area. This pain could mean your spleen is enlarged or ruptured.Call your healthcare provider or get emergency medical help right away if you get any of these symptoms of acute respiratory distress syndrome (ARDS): fever, shortness of breath, trouble breathing, or a fast rate of breathing. Call your healthcare provider right away if you experience any of these symptoms of kidney injury (glomerulonephritis): puffiness in your face or ankles, blood in your urine or brown colored urine or you notice you urinate less than usual.Call your healthcare provider if you have persistent or worsening redness or tenderness at the application site (may be a sign of infection).The on-body injector is for adult patients only. |
+|  | Important Information Wearing the On-body Injector This on-body injector delivers Neulasta with an under-the-skin (subcutaneous) injection.The on-body injector is small, for one-time use, lightweight, battery-powered, and waterproof up to 8 feet for 1 hour.The on-body injector can be worn in a shower. After showering, check the on-body injector to ensure it has not become loose (dislodged).Avoid getting body lotions, creams, oils or cleaning agents near the on-body injector as these products may loosen the adhesive. Before your next scheduled Neulasta dose, avoid use of lotions, creams, or oils on your arms and stomach area (abdomen). Only expose the on-body injector to temperatures between 41°F and 104°F (5°C and 40°C).Do not use bath tubs, hot tubs, whirlpools, or saunas while wearing the on-body injector. This may affect your medicine.Do not expose the on-body injector to direct sunlight. If the on-body injector is exposed to direct sunlight for more than 1 hour, it may affect your medicine. Wear the on-body injector under clothing.Do not sleep on the on-body injector or apply pressure during wear, especially during dose delivery. This may affect on-body injector performance.Do not peel off or disturb the on-body injector adhesive before your full dose is complete. This may result in a missed or incomplete dose of Neulasta. |
 
 |  | Environmental Precautions |  |
 | --- | --- | --- |
 |  | Do not expose the on-body injector to the following because the on-body injector may be damaged and you could be injured: Diagnostic imaging (e.g., CT Scan, MRI, Ultrasound, X-ray)Radiation treatmentOxygen rich environments, such as hyperbaric chambers | 1 |
-|  | Keep the on-body injector at least 4 inches away from electrical equipment such as cell phones, cordless telephones, microwaves and other common appliances. Failure to keep the on-body injector at least this recommended distance may interfere with operation and can lead to a missed or incomplete dose of Neulasta.Avoid activities and places that may interfere with monitoring during the dosing of Neulasta administered by the on-body injector. For example, avoid traveling, driving, or operating heavy machinery during hours 26–29 following application of the on-body injector for Neulasta (this includes the 45-minute dose delivery period plus an hour post-delivery).If you must travel by airplane before the approximately 45-minute dose delivery period with the on-body injector, avoid airport X-ray scans. Request a manual pat down instead. Use care during a manual pat down to help prevent the on-body injector from being accidentally removed. For more information go to: http://www.tsa.gov/traveler-information/travelers-disabilities-and-medical-conditions |  |
+|  | Keep the on-body injector at least 4 inches away from electrical equipment such as cell phones, cordless telephones, microwaves and other common appliances. Failure to keep the on-body injector at least this recommended distance may interfere with operation and can lead to a missed or incomplete dose of Neulasta.Avoid activities and places that may interfere with monitoring during the dosing of Neulasta administered by the on-body injector. For example, avoid traveling, driving, or operating heavy machinery during hours 26-29 following application of the on-body injector for Neulasta (this includes the 45-minute dose delivery period plus an hour post-delivery).If you must travel by airplane before the approximately 45-minute dose delivery period with the on-body injector, avoid airport X-ray scans. Request a manual pat down instead. Use care during a manual pat down to help prevent the on-body injector from being accidentally removed. For more information go to: http://www.tsa.gov/traveler-information/travelers-disabilities-and-medical-conditions |  |
 
 A healthcare provider who is familiar with Neulasta should answer your questions.
 For general questions or support call 1-844-MYNEULASTA (1-844-696-3852) or visit www.neulasta.com.
@@ -286,9 +474,9 @@ Step 2: Observe Dose Delivery
 
 Step 3: Verify Dose Complete
 
-| 3 | A | After the beep, check the color of the status light. |  |  |
+|  | A | After the beep, check the color of the status light. |  |  |
 | --- | --- | --- | --- | --- |
-|  | Check to see if the status light is SOLID GREEN or has switched off. This means the dose is complete. If the dose is complete, go to the next step. Do not remove the on-body injector if the status light is flashing green. | If you see the status light is FLASHING RED, and your on-body injector is beeping, your on-body injector is not functioning properly. Call your healthcare provider right away, as you may need a replacement dose. |  |  |
+| 3 |  | Check to see if the status light is SOLID GREEN or has switched off. This means the dose is complete. If the dose is complete, go to the next step. Do not remove the on-body injector if the status light is flashing green. | If you see the status light is FLASHING RED, and your on-body injector is beeping, your on-body injector is not functioning properly. Call your healthcare provider right away, as you may need a replacement dose. |  |
 | B | Grab the edge of the adhesive pad. Slowly peel off the on-body injector. |  |  |  |
 |  |  |  |  | 4 |
 |  | Do not grasp the on-body injector itself to try to pull it off of your body.If medicine has leaked or the adhesive is noticeably wet or dripping, call your healthcare provider right away, as you may not have received your full dose and you may need a replacement dose. Remove any extra adhesive using soap and water. |  |  |  |
@@ -299,9 +487,9 @@ Step 4: Finish
 | --- | --- | --- | --- | --- |
 | 4 |  | Check your status light. Watch for at least 10 seconds. If the status light is solid green or it has switched off, it is okay.You should see a black line next to the EMPTY indicator. If the on-body injector is not empty, call your healthcare provider right away, as you may need a replacement dose. If you hear beeping, or when you check the status light and it is flashing red, call your healthcare provider right away.If the needle is exposed, call your healthcare provider right away. |  |  |
 | A | Check off the box below to record how your on-body injector looks after use. |  |  |  |
-|  | ▯ | Status light is solid green or the status light has switched off. This means that the delivery is complete. |  |  |
-|  | ▯ | On-body injector leaked, call your healthcare provider right away, as you may need a replacement dose. |  |  |
-|  | ▯ | Status light is red, call your healthcare provider right away, as you may need a replacement dose. |  |  |
+|  | ⃞ | Status light is solid green or the status light has switched off. This means that the delivery is complete. |  |  |
+|  | ⃞ | On-body injector leaked, call your healthcare provider right away, as you may need a replacement dose. |  |  |
+|  | ⃞ | Status light is red, call your healthcare provider right away, as you may need a replacement dose. |  |  |
 | B | Properly dispose of the on-body injector. |  |  |  |
 |  | After on-body injector removal, place the on-body injector in a sharps disposal container whether the needle is exposed or not.The on-body injector contains batteries, electronics, and a needle. Put the on-body injector in a FDA-cleared sharps disposal container right away after use. Do not throw away (dispose of) the on-body injector in your household trash.If you do not have a FDA-cleared sharps disposal container, you may use a household container that is: made of a heavy-duty plastic,can be closed with a tight-fitting, puncture-resistant lid, without sharps being able to come out,upright and stable during use, leak-resistant, andproperly labeled to warn of hazardous waste inside the container When your sharps disposal container is almost full, you will need to follow your community guidelines for the right way to dispose of your sharps disposal container. There may be state or local laws about how you should throw away used needles and syringes. Do not dispose of your used sharps disposal container in your household trash unless your community guidelines permit this. Do not recycle your used sharps disposal container.For more information about safe sharps disposal, and for specific information about sharps disposal in the state that you live in, go to FDA's website at: http://www.fda.gov/safesharpsdisposal. |  |  |  |
 |  | To participate in Amgen's voluntary disposal program, please call 1-844-MYNEULASTA (1-844-696-3852) or visit www.neulasta.com to enroll. |  |  | FAQ |
