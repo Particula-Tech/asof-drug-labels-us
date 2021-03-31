@@ -63,7 +63,7 @@ DIASTAT should be used with caution:
 
 Discuss beforehand with the doctor any additional steps you may need to take if there is leakage of DIASTAT or a bowel movement.
 
-Patient’s DIASTAT dosage is __________mg
+Patient’s DIASTAT dosage is: __________mg
 
 Patient’s resting breathing rate _________ Patient’s current weight ____________
 
@@ -74,7 +74,7 @@ Be sure seal pin is removed with the cap.
 
 TREATMENT 1 ------------------------------------------------------------------------------------------------------------
 
-Important things to tell the doctor:
+Important things to tell the doctor.
 
 Things to do after treatment with DIASTAT:
 
@@ -110,7 +110,7 @@ Manufactured by: DPT Laboratories, Ltd. San Antonio, TX 78215 USA
 
 © 2021 Bausch Health Companies Inc. or its affiliates
 
-Rev.
-02/2021
-
 9435004
+
+Rev.
+3/2021
