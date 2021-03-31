@@ -1,9 +1,9 @@
 # 17 PATIENT COUNSELING INFORMATION
 
-- •Counsel patients that antibacterial drugs including Clindamycin in 0.9% Sodium Chloride Injection should only be used to treat bacterial infections.
+- •Counsel patients that antibacterial drugs including Clindamycin Phosphate in Sodium Chloride Injection should only be used to treat bacterial infections.
   They do not treat viral infections (e.g., the common cold).
-  When Clindamycin in 0.9% Sodium Chloride Injection is prescribed to treat a bacterial infection, inform patient that although it is common to feel better early in the course of therapy, the medication should be taken exactly as directed.
-  Skipping doses or not completing the full course of therapy may (1) decrease the effectiveness of the immediate treatment and (2) increase the likelihood that bacteria will develop resistance and will not be treatable by Clindamycin in 0.9% Sodium Chloride Injection or other antibacterial drugs in the future.
+  When Clindamycin Phosphate in Sodium Chloride Injection is prescribed to treat a bacterial infection, inform patient that although it is common to feel better early in the course of therapy, the medication should be taken exactly as directed.
+  Skipping doses or not completing the full course of therapy may (1) decrease the effectiveness of the immediate treatment and (2) increase the likelihood that bacteria will develop resistance and will not be treatable by Clindamycin Phosphate in Sodium Chloride Injection or other antibacterial drugs in the future.
 - •Counsel patients that diarrhea is a common problem caused by antibacterial drugs which usually ends when the antibacterial is discontinued.
   Sometimes after starting treatment with antibacterial drugs, patients can develop watery and bloody stools (with or without stomach cramps and fever) even as late as two or more months after having taken the last dose of the antibacterial drugs.
   If this occurs, contact physician as soon as possible [see Warnings and Precautions (5.4)].
@@ -15,4 +15,4 @@ Baxter Healthcare Corporation Deerfield, IL 60015 USA
 
 Made in USA.
 
-07-19-02-004
+07-19-02-630

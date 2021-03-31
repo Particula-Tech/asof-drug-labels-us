@@ -2,7 +2,7 @@
 
 ## 5.1 Clostridioides difficile Associated Diarrhea
 
-Clostridioides difficile associated diarrhea (CDAD) has been reported with use of nearly all antibacterial agents, including Clindamycin in 0.9% Sodium Chloride Injection, and may range in severity from mild diarrhea to fatal colitis.
+Clostridioides difficile associated diarrhea (CDAD) has been reported with use of nearly all antibacterial agents, including Clindamycin Phosphate in Sodium Chloride Injection, and may range in severity from mild diarrhea to fatal colitis.
 Treatment with antibacterial agents alters the normal flora of the colon leading to overgrowth of C. difficile.
 
 C. difficile produces toxins A and B which contribute to the development of CDAD.
@@ -29,11 +29,11 @@ When clindamycin is indicated in these patients, they should be carefully monito
 
 ## 5.4 Use in Patients with Gastrointestinal Disease
 
-Clindamycin in 0.9% Sodium Chloride Injection products should be avoided in individuals with a history of gastrointestinal disease, particularly colitis.
+Clindamycin Phosphate in Sodium Chloride Injection products should be avoided in individuals with a history of gastrointestinal disease, particularly colitis.
 
 ## 5.5 Use in Atopic Individuals
 
-Clindamycin in 0.9% Sodium Chloride Injection should be avoided in atopic individuals.
+Clindamycin Phosphate in Sodium Chloride Injection should be avoided in atopic individuals.
 
 ## 5.6 Laboratory Tests: Monitoring to Assess Safety
 
@@ -47,9 +47,9 @@ However, periodic liver enzyme determinations should be made when treating patie
 
 ## 5.7 Overgrowth of Nonsusceptible Organisms
 
-The use of Clindamycin in 0.9% Sodium Chloride Injection may result in overgrowth of nonsusceptible organisms-particularly yeasts.
+The use of Clindamycin Phosphate in Sodium Chloride Injection may result in overgrowth of nonsusceptible organisms-particularly yeasts.
 If such infections occur, appropriate measures should be taken as indicated by the clinical situation.
 
 ## 5.8 Development of Drug-Resistant Bacteria
 
-Prescribing Clindamycin in 0.9% Sodium Chloride Injection in the absence of a proven or strongly suspected bacterial infection or a prophylactic indication is unlikely to provide benefit to the patient and increases the risk of the development of drug-resistant bacteria.
+Prescribing Clindamycin Phosphate in Sodium Chloride Injection in the absence of a proven or strongly suspected bacterial infection or a prophylactic indication is unlikely to provide benefit to the patient and increases the risk of the development of drug-resistant bacteria.
