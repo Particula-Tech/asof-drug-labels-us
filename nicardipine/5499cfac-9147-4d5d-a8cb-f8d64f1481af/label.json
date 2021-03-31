@@ -1,0 +1,20 @@
+{
+  "application_numbers": [
+    "NDA019734"
+  ],
+  "inn": "nicardipine",
+  "labeler": "Baxter Healthcare Corporation",
+  "package_ndcs": [
+    "43066-021-10",
+    "43066-024-10"
+  ],
+  "products": [
+    {
+      "form": "INJECTION, SOLUTION",
+      "generic": "nicardipine hydrochloride",
+      "name": "Cardene IV"
+    }
+  ],
+  "setid": "5499cfac-9147-4d5d-a8cb-f8d64f1481af",
+  "source": "dailymed"
+}
