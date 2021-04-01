@@ -83,7 +83,10 @@ Continued approval for this indication may be contingent upon verification and d
 
 ## 1.11 Esophageal Cancer
 
-KEYTRUDA is indicated for the treatment of patients with recurrent locally advanced or metastatic squamous cell carcinoma of the esophagus whose tumors express PD-L1 (CPS ≥10) as determined by an FDA-approved test [see Dosage and Administration (2.1)], with disease progression after one or more prior lines of systemic therapy.
+KEYTRUDA is indicated for the treatment of patients with locally advanced or metastatic esophageal or gastroesophageal junction (GEJ) (tumors with epicenter 1 to 5 centimeters above the GEJ) carcinoma that is not amenable to surgical resection or definitive chemoradiation either:
+
+- in combination with platinum- and fluoropyrimidine-based chemotherapy, or
+- as a single agent after one or more prior lines of systemic therapy for patients with tumors of squamous cell histology that express PD-L1 (CPS ≥10) as determined by an FDA-approved test [see Dosage and Administration (2.1)].
 
 ## 1.12 Cervical Cancer
 
