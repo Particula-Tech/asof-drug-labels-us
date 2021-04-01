@@ -33,7 +33,7 @@ In some patients with advanced HIV infection (AIDS), signs and symptoms of infla
 New Onset or Worsening Renal Impairment
 
 Advise HIV-1 infected patients and uninfected individuals to avoid taking DESCOVY with concurrent or recent use of nephrotoxic agents.
-Renal impairment, including cases of acute renal failure, has been reported in association with the use of tenofovir prodrugs [see Warnings and Precautions (5.4)].
+Postmarketing cases of renal impairment, including acute renal failure, have been reported [see Warnings and Precautions (5.4)].
 
 Lactic Acidosis and Severe Hepatomegaly
 

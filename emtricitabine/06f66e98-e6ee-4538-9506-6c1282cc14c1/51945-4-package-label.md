@@ -14,7 +14,7 @@ ALERT: Find out about medicines that should NOT be taken with Discovy ®
 
 NDC 61958-2002-2 30 tablet blister pack
 
-Descovy ® (emtricitabine and tenofovir alafenamide) tablets 200 mg / 25 mg
+Descovy® (emtricitabine and tenofovir alafenamide) tablets 200 mg / 25 mg
 
 Rx only
 

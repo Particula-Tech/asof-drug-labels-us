@@ -11,7 +11,7 @@ The following adverse reactions are discussed in other sections of the labeling:
 
 Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug (or a drug given in various combinations with other concomitant therapy) cannot be directly compared to rates in the clinical trials of another drug (or drug given in the same or different combination therapy) and may not reflect the rates observed in practice.
 
-Adverse Reactions in Clinical Trials of FTC+TAF with EVG+COBI in Treatment-Naïve Adults with HIV-1 Infection
+Adverse Reactions in Clinical Trials of FTC+TAF with Elvitegravir (EVG) plus Cobicistat (COBI) in Treatment-Naïve Adults with HIV-1 Infection
 
 In pooled 48-week trials of antiretroviral treatment-naïve HIV-1 infected adult subjects, the most common adverse reaction in subjects treated with FTC+TAF with EVG+COBI (N=866) (incidence greater than or equal to 10%, all grades) was nausea (10%).
 In this treatment group, 0.9% of subjects discontinued FTC+TAF with EVG+COBI due to adverse events during the 48-week treatment period [see Clinical Studies (14.2)].
@@ -23,13 +23,16 @@ Renal Laboratory Tests
 In two 48-week trials in antiretroviral treatment-naïve HIV-1 infected adults treated with FTC+TAF with EVG+COBI (N=866) with a median baseline eGFR of 115 mL per minute, mean serum creatinine increased by 0.1 mg per dL from baseline to Week 48.
 Median urine protein-to-creatinine ratio (UPCR) was 44 mg per gram at baseline and at Week 48.
 In a 48-week trial in virologically-suppressed TDF-treated adults who switched to FTC+TAF with EVG+COBI (N=959) with a mean baseline eGFR of 112 mL per minute, mean serum creatinine was similar to baseline at Week 48; median UPCR was 61 mg per gram at baseline and 46 mg per gram at Week 48.
+Across these trials, renal serious adverse events or discontinuations due to renal adverse reactions were encountered in less than 1% of participants treated with FTC+TAF with EVG+COBI.
+
 In a 24-week trial in adults with renal impairment (baseline eGFR 30 to 69 mL per minute) who received FTC+TAF with EVG+COBI (N=248), mean serum creatinine was 1.5 mg per dL at both baseline and Week 24.
 Median UPCR was 161 mg per gram at baseline and 93 mg per gram at Week 24.
+FTC+TAF with EVG+COBI was permanently discontinued due to worsening renal function in two of 80 (3%) subjects.
 
 Bone Mineral Density Effects
 
 In the pooled analysis of two 48-week trials of antiretroviral treatment-naïve HIV-1 infected adult subjects, bone mineral density (BMD) from baseline to Week 48 was assessed by dual-energy X-ray absorptiometry (DXA).
-Mean BMD decreased from baseline to Week 48 –1.30% with FTC+TAF with EVG+COBI at the lumbar spine and –0.66% at the total hip.
+Mean BMD decreased from baseline to Week 48 −1.30% with FTC+TAF with EVG+COBI at the lumbar spine and −0.66% at the total hip.
 BMD declines of 5% or greater at the lumbar spine were experienced by 10% of FTC+TAF with EVG+COBI subjects.
 BMD declines of 7% or greater at the femoral neck were experienced by 7% of FTC+TAF with EVG+COBI subjects.
 The long-term clinical significance of these BMD changes is not known.
@@ -53,7 +56,7 @@ Bone Mineral Density Effects
 Cohort 1: Treatment-naïve adolescents (12 to less than 18 years; at least 35 kg)
 
 Among the subjects in cohort 1 receiving FTC+TAF with EVG+COBI, mean BMD increased from baseline to Week 48, +4.2% at the lumbar spine and +1.3% for the total body less head (TBLH).
-Mean changes from baseline BMD Z-scores were –0.07 for lumbar spine and –0.20 for TBLH at Week 48.
+Mean changes from baseline BMD Z-scores were −0.07 for lumbar spine and −0.20 for TBLH at Week 48.
 One subject had significant (at least 4%) lumbar spine BMD loss at Week 48.
 
 Cohort 2: Virologically-suppressed children (6 to less than 12 years; at least 25 kg)
@@ -69,14 +72,14 @@ Cohort 2: Virologically-suppressed children (6 to less than 12 years; at least 2
 Cohort 2 evaluated pediatric subjects (N=23) who were virologically-suppressed and who switched from their antiretroviral regimen to FTC+TAF with EVG+COBI.
 Although all subjects had HIV-1 RNA < 50 copies/mL, there was a decrease from baseline in CD4+ cell count at Week 24.
 The mean baseline and mean change from baseline in CD4+ cell count and in CD4% from Week 2 to Week 24 are presented in Table 1.
-All subjects maintained their CD4+ cell counts above 400 cells/mm 3[see Use in Specific Populations (8.4)].
+All subjects maintained their CD4+ cell counts above 400 cells/mm3 [see Use in Specific Populations (8.4)].
 
 Table 1 Mean Change in CD4+ Count and Percentage from Baseline to Week 24 in Virologically-Suppressed Pediatric Patients from 6 to <12 Years Who Switched to FTC+TAF with EVG+COBI
 
-| Week 2 | Week 4 | Week 12 | Week 24 |  |  |
+|  | Baseline | Week 2 | Week 4 | Week 12 | Week 24 |
 | --- | --- | --- | --- | --- | --- |
-|  | Baseline | Mean Change from Baseline |  |  |  |
-| CD4+ Cell Count (cells/mm 3) | 966 (201.7) Mean (SD) | -162 | -125 | -162 | -150 |
+|  |  | Mean Change from Baseline |  |  |  |
+| CD4+ Cell Count (cells/mm3) | 966 (201.7)Mean (SD) | -162 | -125 | -162 | -150 |
 | CD4% | 40 (5.3) | +0.5% | -0.1% | -0.8% | -1.5% |
 
 Adverse Reactions from Clinical Trial Experience in HIV-1 Uninfected Individuals Taking DESCOVY for HIV-1 PrEP
@@ -95,7 +98,7 @@ Table 2 Adverse Reactions (All Grades) Reported in ≥2% in Either Arm in the DI
 | Nausea | 4% | 5% |
 | Headache | 2% | 2% |
 | Fatigue | 2% | 3% |
-| Abdominal pain Includes the following terms: abdominal pain, abdominal pain upper, abdominal pain lower, gastrointestinal pain, and abdominal discomfort | 2% | 3% |
+| Abdominal painIncludes the following terms: abdominal pain, abdominal pain upper, abdominal pain lower, gastrointestinal pain, and abdominal discomfort | 2% | 3% |
 
 Renal Laboratory Tests
 
@@ -106,10 +109,13 @@ Table 3 Laboratory Assessments of Renal Function Reported in HIV-1 Uninfected Pa
 
 |  | DESCOVY (N=2,694) | TRUVADA (N=2,693) |
 | --- | --- | --- |
-| Serum Creatinine (mg/dL) Mean (SD). Change at Week 48 | –0.01 (0.107) | 0.01 (0.111) |
-| eGFR CG (mL/min) Median (Q1, Q3). Change at Week 48 | 1.8 (–7.2, 11.1) | –2.3 (–10.8, 7.2) |
-| Percentage of Participants who Developed UPCR >200 mg/g Based on N who had normal UPCR (≤ 200 mg/g) at baseline. At Week 48 | 0.7% | 1.5% |
-| eGFR CG=estimated Glomerular Filtration Rate by Cockcroft-Gault; UPCR=urine protein/creatinine ratio |  |  |
+| Serum Creatinine (mg/dL)Mean (SD). |  |  |
+| Change at Week 48 | −0.01 (0.107) | 0.01 (0.111) |
+| eGFRCG (mL/min)Median (Q1, Q3). |  |  |
+| Change at Week 48 | 1.8 (−7.2, 11.1) | −2.3 (−10.8, 7.2) |
+| Percentage of Participants who Developed UPCR >200 mg/gBased on N who had normal UPCR (≤ 200 mg/g) at baseline. |  |  |
+| At Week 48 | 0.7% | 1.5% |
+| eGFRCG=estimated Glomerular Filtration Rate by Cockcroft-Gault; UPCR=urine protein/creatinine ratio |  |  |
 
 Bone Mineral Density Effects
 
@@ -121,12 +127,12 @@ Serum Lipids
 
 Changes from baseline to Week 48 in total cholesterol, HDL-cholesterol, LDL-cholesterol, triglycerides, and total cholesterol to HDL ratio are presented in Table 4.
 
-Table 4 Fasting Lipid Values, Mean Change from Baseline, Reported in HIV-1 Uninfected Participants Receiving DESCOVY or TRUVADA in the DISCOVER Trial Excludes subjects who received lipid lowering agents during the treatment period.
+Table 4 Fasting Lipid Values, Mean Change from Baseline, Reported in HIV-1 Uninfected Participants Receiving DESCOVY or TRUVADA in the DISCOVER TrialExcludes subjects who received lipid lowering agents during the treatment period.
 
-| mg/dL | Change The baseline and change from baseline are for subjects with both baseline and Week 48 values. | mg/dL | Change |  |
+|  | mg/dL | ChangeThe baseline and change from baseline are for subjects with both baseline and Week 48 values. | mg/dL | Change |
 | --- | --- | --- | --- | --- |
 |  | DESCOVY (N=2,694) |  | TRUVADA (N=2,693) |  |
-| Baseline | Week 48 | Baseline | Week 48 |  |
+|  | Baseline | Week 48 | Baseline | Week 48 |
 | Total Cholesterol (fasted) | 176 N=1,098 | 0 | 176 N=1,124 | -12 |
 | HDL-Cholesterol (fasted) | 51 | -2 | 51 | -5 |
 | LDL-Cholesterol (fasted) | 103 N=1,079 | 0 | 103 N=1,107 | -7 |
@@ -141,3 +147,7 @@ Because these reactions are reported voluntarily from a population of uncertain 
 Skin and Subcutaneous Tissue Disorders
 
 Angioedema, urticaria, and rash
+
+Renal and Urinary Disorders
+
+Acute renal failure, acute tubular necrosis, proximal renal tubulopathy, and Fanconi syndrome

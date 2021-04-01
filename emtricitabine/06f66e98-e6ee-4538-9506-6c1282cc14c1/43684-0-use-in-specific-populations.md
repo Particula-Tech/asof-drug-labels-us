@@ -12,7 +12,7 @@ Risk Summary
 Available data from the APR show no increase in the risk of overall major birth defects for emtricitabine (FTC) compared with the background rate for major birth defects of 2.7% in a U.S. reference population of the Metropolitan Atlanta Congenital Defects Program (MACDP).
 There are insufficient tenofovir alafenamide (TAF) data from the APR to adequately assess the risk of major birth defects.
 The rate of miscarriage for individual drugs is not reported in the APR.
-The estimated background rate of miscarriage in the clinically recognized pregnancies in the U.S. general population is 15–20%.
+The estimated background rate of miscarriage in the clinically recognized pregnancies in the U.S. general population is 15−20%.
 
 In animal studies, no adverse developmental effects were observed when the components of DESCOVY were administered separately during the period of organogenesis at exposures 60 and 108 times (mice and rabbits, respectively) the FTC exposure and at exposure equal to or 53 times (rats and rabbits, respectively) the TAF exposure at the recommended daily dose of DESCOVY (see Data).
 Likewise, no adverse developmental effects were seen when FTC was administered to mice through lactation at exposures up to approximately 60 times the exposure at the recommended daily dose of DESCOVY.
