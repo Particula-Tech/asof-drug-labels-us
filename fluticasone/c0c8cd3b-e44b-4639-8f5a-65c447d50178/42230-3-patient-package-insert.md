@@ -1,74 +1,16 @@
-# PATIENT INFORMATION CUTIVATE® (CUE' ti vāt) (fluticasone propionate) Ointment, 0.005%
+# PATIENT INFORMATION
 
-Important: CUTIVATE® Ointment is for use on skin only (topical).
-Do not get CUTIVATE® Ointment near or in your eyes, mouth, or vagina.
-
-Read this Patient Information before you start using CUTIVATE® Ointment and each time you get a refill.
-There may be new information.
-This information does not take the place of talking to your healthcare provider about your medical condition or treatment.
-
-What is CUTIVATE® Ointment?
-CUTIVATE® Ointment is a prescription corticosteroid medicine used on the skin (topical) for the relief of inflammation and itching caused by certain skin conditions in adults.
-It is not known if CUTIVATE® Ointment is safe and effective in children.
-CUTIVATE® Ointment is not recommended for use in children.
-
-Before using CUTIVATE® Ointment, tell your healthcare provider about all of your medical conditions, including if you:
-
-- • have an allergy to any of the ingredients in CUTIVATE® Ointment
-- • have a skin infection at the site to be treated.
-  You may also need medicine to treat the skin infection.
-- • have adrenal gland problems
-- • have liver problems
-- • have diabetes
-- • have thinning skin (atrophy) at the site to be treated
-- • are pregnant or plan to become pregnant.
-  It is not known if CUTIVATE® Ointment will harm your unborn baby.
-- • are breastfeeding or plan to breastfeed.
-  It is not known if CUTIVATE® Ointment can pass into your breast milk and harm your baby.
-
-Tell your healthcare provider about all the medicines you take, including prescription and over-the-counter medicines, vitamins, and herbal supplements.
-Especially tell your healthcare provider if you take other corticosteroid medicines by mouth or use other products on your skin that contain corticosteroids.
-
-How should I use CUTIVATE® Ointment?
-
-- • Use CUTIVATE® Ointment exactly as your healthcare provider tells you to use it.
-- • Apply a thin film of CUTIVATE® Ointment to the affected area 2 times each day.
-  Gently rub into your skin.
-- • Do not bandage, cover, or wrap the treated area unless your healthcare provider tells you to.
-- • Do not use CUTIVATE® Ointment on your face, groin, underarms (armpits), unless your healthcare provider tells you to.
-- • Wash your hands after applying CUTIVATE® Ointment, unless your hands are being treated.
-- • Tell your healthcare provider if your symptoms get worse with CUTIVATE® Ointment or if your symptoms do not improve after 2 weeks of treatment.
-
-What are possible side effects with CUTIVATE® Ointment?
-CUTIVATE® Ointment may cause serious side effects, including:
-
-- •CUTIVATE® Ointment can pass through your skin and may cause adrenal gland problems.
-  This is more likely to happen if you use CUTIVATE® Ointment for too long, use it over a large treatment area, use it with other topical medicines that contain corticosteroids, cover the treated area, or have liver failure.
-  Your healthcare provider may do blood tests to check your adrenal gland function during and after treatment with CUTIVATE® Ointment.
-- •Skin problems, including skin reactions or thinning of your skin (atrophy), skin infections, and allergic reactions (allergic contact dermatitis) at the treatment site.
-  Tell your healthcare provider if you get any skin reactions such as pain, tenderness, swelling, or healing problems.
-
-The most common side effects of CUTIVATE® Ointment include itching, burning, excessive hair growth, skin redness, hives, and lightheadedness.
-These are not all the possible side effects with CUTIVATE® Ointment.
-Call your doctor for medical advice about side effects.
-You may report side effects to FDA at 1-800-FDA-1088.
-
-How should I store CUTIVATE® Ointment?
-
-- • Store CUTIVATE® Ointment between 36°F to 86°F (2°C to 30°C).
-
-Keep CUTIVATE® Ointment and all medicines out of the reach of children.
-
-General information about the safe and effective use of CUTIVATE® Ointment.
-Medicines are sometimes prescribed for purposes other than those listed in a Patient Information leaflet.
-Do not use CUTIVATE® Ointment for a condition for which it was not prescribed.
-Do not give CUTIVATE® Ointment to other people, even if they have the same symptoms you have.
-It may harm them.
-You can ask your pharmacist or healthcare provider for information about CUTIVATE® Ointment that is written for health professionals.
-
-What are the ingredients in CUTIVATE® Ointment?
-Active ingredient: fluticasone propionate Inactive ingredients: liquid paraffin, microcrystalline wax, propylene glycol, and sorbitan sesquioleate
+| PATIENT INFORMATIONCUTIVATE® (CUE' ti vāt) (fluticasone propionate) Ointment, 0.005% |
+| --- |
+| Important: CUTIVATE® Ointment is for use on skin only (topical). Do not get CUTIVATE® Ointment near or in your eyes, mouth, or vagina. Read this Patient Information before you start using CUTIVATE® Ointment and each time you get a refill. There may be new information. This information does not take the place of talking to your healthcare provider about your medical condition or treatment. |
+| What is CUTIVATE® Ointment? CUTIVATE® Ointment is a prescription corticosteroid medicine used on the skin (topical) for the relief of inflammation and itching caused by certain skin conditions in adults. It is not known if CUTIVATE® Ointment is safe and effective in children. CUTIVATE® Ointment is not recommended for use in children. |
+| Before using CUTIVATE® Ointment, tell your healthcare provider about all of your medical conditions, including if you: • have an allergy to any of the ingredients in CUTIVATE® Ointment • have a skin infection at the site to be treated. You may also need medicine to treat the skin infection. • have adrenal gland problems • have liver problems • have diabetes • have thinning skin (atrophy) at the site to be treated•have cataracts or glaucoma• are pregnant or plan to become pregnant. It is not known if CUTIVATE® Ointment will harm your unborn baby. If you use CUTIVATE® Ointment during pregnancy, use CUTIVATE® Ointment on the smallest area of the skin and for the shortest time needed.• are breastfeeding or plan to breastfeed. It is not known if CUTIVATE® Ointment can pass into your breast milk and harm your baby. Breastfeeding women should use CUTIVATE® Ointment on the smallest area of skin and for the shortest time needed. Do not apply CUTIVATE® Ointment directly to the nipple and areola to avoid contact with your baby. Tell your healthcare provider about all the medicines you take, including prescription and over-the-counter medicines, vitamins, and herbal supplements. Especially tell your healthcare provider if you take other corticosteroid medicines by mouth or use other products on your skin that contain corticosteroids. |
+| How should I use CUTIVATE® Ointment? • Use CUTIVATE® Ointment exactly as your healthcare provider tells you to use it. • Apply a thin film of CUTIVATE® Ointment to the affected area 2 times each day. Gently rub into your skin. • Do not bandage, cover, or wrap the treated area unless your healthcare provider tells you to. • Do not use CUTIVATE® Ointment on your face, groin, underarms (armpits), unless your healthcare provider tells you to. • Wash your hands after applying CUTIVATE® Ointment, unless your hands are being treated.•Tell your healthcare provider if your symptoms get worse with CUTIVATE® Ointment or if your symptoms do not improve after 2 weeks of treatment. |
+| What are possible side effects with CUTIVATE® Ointment? CUTIVATE® Ointment may cause serious side effects, including: •CUTIVATE® Ointment can pass through your skin and may cause adrenal gland problems. This is more likely to happen if you use CUTIVATE® Ointment for too long, use it over a large treatment area, use it with other topical medicines that contain corticosteroids, cover the treated area, or have liver failure. Your healthcare provider may do blood tests to check your adrenal gland function during and after treatment with CUTIVATE® Ointment. •Skin problems, including skin reactions or thinning of your skin (atrophy), skin infections, and allergic reactions (allergic contact dermatitis) at the treatment site. Tell your healthcare provider if you get any skin reactions such as pain, tenderness, swelling, or healing problems.•Vision problems. Topical corticosteroids including CUTIVATE® Ointment may increase your chance of developing cataract(s) and glaucoma. Tell your healthcare provider if you develop blurred vision or other vision problems during treatment with CUTIVATE® Ointment. The most common side effects of CUTIVATE® Ointment include itching, burning, excessive hair growth, skin redness, hives, and lightheadedness. These are not all the possible side effects with CUTIVATE® Ointment. Call your doctor for medical advice about side effects. You may report side effects to FDA at 1-800-FDA-1088. |
+| How should I store CUTIVATE® Ointment? • Store CUTIVATE® Ointment between 36°F to 86°F (2°C to 30°C). Keep CUTIVATE® Ointment and all medicines out of the reach of children. |
+| General information about the safe and effective use of CUTIVATE® Ointment. Medicines are sometimes prescribed for purposes other than those listed in a Patient Information leaflet. Do not use CUTIVATE® Ointment for a condition for which it was not prescribed. Do not give CUTIVATE® Ointment to other people, even if they have the same symptoms you have. It may harm them. You can ask your pharmacist or healthcare provider for information about CUTIVATE® Ointment that is written for health professionals. |
+| What are the ingredients in CUTIVATE® Ointment? Active ingredient: fluticasone propionate Inactive ingredients: liquid paraffin, microcrystalline wax, propylene glycol, and sorbitan sesquioleate |
 
 Manufactured by: PharmaDerm® A division of Fougera PHARMACEUTICAL INC. Melville, New York 11747 www.pharmaderm.com This Patient Information has been approved by the U.S. Food and Drug Administration
 
-46156942A Revised: February 2015 #144
+46156942B Revised: March 2021 #144

@@ -2,30 +2,52 @@
 
 ## 8.1 Pregnancy
 
-Pregnancy Category C
+Risk Summary
 
-1. There are no adequate and well-controlled studies in pregnant women.
-   Therefore, CUTIVATE® Ointment should be used during pregnancy only if the potential benefit justifies the potential risk to the fetus.
-2. Systemic embryofetal development studies were conducted in mice, rats and rabbits.
-3. Subcutaneous doses of 15, 45 and 150 μg/kg/day of fluticasone propionate were administered to pregnant female mice from gestation days 6 to 15.
-   A teratogenic effect characteristic of corticosteroids (cleft palate) was noted after administration of 45 and 150 μg/kg/day (less than the MRHD in adults based on body surface area comparisons) in this study.
-   No treatment related effects on embryofetal toxicity or teratogenicity were noted at 15 μg/kg/day (less than the MRHD in adults based on body surface area comparisons).
-4. Subcutaneous doses of 10, 30 and 100 μg/kg/day of fluticasone propionate were administered to pregnant female rats in two embryofetal development studies (one study administered fluticasone propionate from gestation days 6 to 15 and the other study from gestation days 7 to 17).
-   In the presence of maternal toxicity, fetal effects noted at 100 μg/kg/day (less than the MRHD in adults based on body surface area comparisons) included decreased fetal weights, omphalocele, cleft palate, and retarded skeletal ossification.
-   No treatment related effects on embryofetal toxicity or teratogenicity were noted at 10 μg/kg/day (less than the MRHD in adults based on body surface area comparisons).
-5. Subcutaneous doses of 0.08, 0.57 and 4 μg/kg/day of fluticasone propionate were administered to pregnant female rabbits from gestation days 6 to 18.
-   Fetal effects noted at 4 μg/kg/day (less than the MRHD in adults based on body surface area comparisons) included decreased fetal weights, cleft palate and retarded skeletal ossification.
-   No treatment related effects on embryofetal toxicity or teratogenicity were noted at 0.57 μg/kg/day (less than the MRHD in adults based on body surface area comparisons).
-6. Oral doses of 3, 30 and 300 μg/kg/day fluticasone propionate were administered to pregnant female rabbits from gestation days 8 to 20.
-   No fetal or teratogenic effects were noted at oral doses up to 300 μg/kg/day (less than the MRHD in adults based on body surface area comparisons) in this study.
-   However, no fluticasone propionate was detected in the plasma in this study, consistent with the established low bioavailability following oral administration.
-7. Fluticasone propionate crossed the placenta following administration of a subcutaneous or an oral dose of 100 μg/kg tritiated fluticasone propionate to pregnant rats.
+There are no available data on CUTIVATE® Ointment use in pregnant women to evaluate for a drug-associated risk of major birth defects, miscarriage, or adverse maternal or fetal outcomes.
+Observational studies suggest an increased risk of low birthweight infants with the use of greater than 300 grams of potent or very potent topical corticosteroids during pregnancy (see Data).
+Advise pregnant women that CUTIVATE® Ointment may increase the risk of having a low birthweight infant and to use CUTIVATE® Ointment on the smallest area of skin and for the shortest duration possible.
 
-## 8.3 Nursing Mothers
+In animal reproduction studies, subcutaneous administration of fluticasone propionate to pregnant mice, rats, and rabbits during organogenesis caused malformations characteristic of corticosteroids in each species (seeData).
+The available data do not allow the calculation of relevant comparisons between the systemic exposure of fluticasone propionate observed in animal studies to the systemic exposure that would be expected in humans after topical use of CUTIVATE® Ointment.
 
-1. Systemically administered corticosteroids appear in human milk and can suppress growth, interfere with endogenous corticosteroid production, or cause other untoward effects.
-   It is not known whether topical administration of corticosteroids could result in sufficient systemic absorption to produce detectable quantities in human milk.
-   Because many drugs are excreted in human milk, caution should be exercised when CUTIVATE® Ointment is administered to a nursing woman.
+The background risk of major birth defects and miscarriage for the indicated population(s) is unknown.
+All pregnancies have a background risk of birth defect, loss, or other adverse outcomes.
+In the U.S. general population, the estimated background risk of major birth defects and miscarriage in clinically recognized pregnancies is 2 to 4% and 15 to 20%, respectively.
+
+Data
+
+Human Data
+
+Available observational studies in pregnant women did not identify a drug-associated risk of major birth defects, preterm delivery, or fetal mortality with the use of topical corticosteroids of any potency.
+However, when the dispensed amount of potent or very potent topical corticosteroids exceeded 300 grams during the entire pregnancy, maternal use was associated with an increased risk of low birth weight infants.
+
+1. Animal Data
+2. In embryo-fetal development studies, pregnant rabbits, rats, and mice received subcutaneous doses of fluticasone propionate during organogenesis at doses up to 4, 100, and 150 µg/kg/day, respectively.
+   A malformation characteristic of corticosteroids (cleft palate) was noted at the high dose in each species.
+   Additional adverse effects were noted in rats and rabbits.
+   Decreased fetal weights and retarded skeletal ossification were noted in rabbits at 4 µg/kg/day and rats at 100 µg/kg/day.
+   Maternal toxicity and omphalocele were also noted in rats at 100 µg/kg/day.
+   No malformations or developmental toxicity was noted in rabbits at 0.57 µg/kg/day, in rats at 10 µg/kg/day, or in mice at 15 µg/kg/day.
+3. Fluticasone propionate crossed the placenta following administration of a subcutaneous or an oral dose of 100 μg/kg tritiated fluticasone propionate to pregnant rats.
+
+## 8.2 Lactation
+
+Risk Summary
+
+There are no data on the presence of fluticasone propionate in human milk, its effects on the breastfed infant, or its effects on milk production.
+It is not known whether topical administration of CUTIVATE® Ointment could result in sufficient systemic absorption to produce detectable quantities in human milk (see Clinical Considerations).
+
+The developmental and health benefits of breastfeeding should be considered along with the mother’s clinical need for
+
+CUTIVATE® Ointment and any potential adverse effects on the breastfed child from CUTIVATE® Ointment or from the
+
+underlying maternal condition.
+
+Clinical Considerations
+
+To minimize potential exposure to the breastfed infant via breast milk, use CUTIVATE® Ointment on the smallest area of skin and for the shortest duration possible while breastfeeding.
+Advise breastfeeding women not to apply CUTIVATE® Ointment directly to the nipple and areola prior to breastfeeding to avoid direct infant exposure [see Use in Specific Populations (8.4)].
 
 ## 8.4 Pediatric Use
 
