@@ -13,3 +13,9 @@ In such cases dosage should be increased cautiously to avoid adverse effects.
 | Geriatric Patients, or in the presence of debilitating disease. | 2 mg to 2.5 mg, 1 or 2 times daily initially; increase gradually as needed and tolerated |
 | PEDIATRIC PATIENTS: |  |
 | Because of varied responses to CNS-acting drugs, initiate therapy with lowest dose and increase as required. Not for use in pediatric patients under 6 months. | 1 mg to 2.5 mg, 3 or 4 times daily initially; increase gradually as needed and tolerated |
+
+## Discontinuation or Dosage Reduction of Diazepam Tablets
+
+To reduce the risk of withdrawal reactions, use a gradual taper to discontinue diazepam tablets or reduce the dosage.
+If a patient develops withdrawal reactions, consider pausing the taper or increasing the dosage to the previous tapered dosage level.
+Subsequently decrease the dosage more slowly (see WARNINGS: Dependence and Withdrawal Reactions and DRUG ABUSE AND DEPENDENCE: Dependence).

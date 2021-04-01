@@ -9,4 +9,4 @@ The structural formula is as follows:
 Diazepam is available for oral administration as tablets containing 2 mg, 5 mg or 10 mg diazepam, USP.
 In addition to the active ingredient diazepam, each tablet contains the following inactive ingredients: colloidal silicon dioxide, magnesium stearate, microcrystalline cellulose, pregelatinized starch (corn) and sodium lauryl sulfate.
 The 5 mg tablets also contain FD&C Yellow No. 6 Aluminum Lake.
-The 10 mg tablets also contain FD&C Blue No. 1 Aluminum Lake and D&C Yellow No. 10 Aluminum Lake.
+The 10 mg tablets also contain D&C Yellow No. 10 Aluminum Lake and FD&C Blue No. 1 Aluminum Lake.

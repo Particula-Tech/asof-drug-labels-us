@@ -10,9 +10,7 @@ Rx only 100 Tablets
 
 Each tablet contains 2 mg of diazepam, USP.
 
-Dispense in a tight, light-resistant container as defined in the USP using a child-resistant closure.
-
-Keep container tightly closed.
+Usual Dosage: See accompanying prescribing information.
 
 Keep this and all medication out of the reach of children.
 
@@ -21,13 +19,19 @@ Store at 20° to 25°C (68° to 77°F).
 
 Protect from light.
 
-Usual Dosage: See accompanying prescribing information.
+Manufactured for: Mylan Pharmaceuticals Inc. Morgantown, WV 26505 U.S.A.
 
-Mylan Pharmaceuticals Inc. Morgantown, WV 26505 U.S.A.
+Made in India
 
 Mylan.com
 
-RM0271A9
+Dispense in a tight, light-resistant container as defined in the USP using a child-resistant closure.
+
+Keep container tightly closed.
+
+Code No.: MH/DRUGS/AS/089
+
+RMXA0271A
 
 # PRINCIPAL DISPLAY PANEL - 5 mg
 
@@ -41,9 +45,7 @@ Rx only 100 Tablets
 
 Each tablet contains 5 mg of diazepam, USP.
 
-Dispense in a tight, light-resistant container as defined in the USP using a child-resistant closure.
-
-Keep container tightly closed.
+Usual Dosage: See accompanying prescribing information.
 
 Keep this and all medication out of the reach of children.
 
@@ -52,13 +54,19 @@ Store at 20° to 25°C (68° to 77°F).
 
 Protect from light.
 
-Usual Dosage: See accompanying prescribing information.
+Manufactured for: Mylan Pharmaceuticals Inc. Morgantown, WV 26505 U.S.A.
 
-Mylan Pharmaceuticals Inc. Morgantown, WV 26505 U.S.A.
+Made in India
 
 Mylan.com
 
-RM0345A9
+Dispense in a tight, light-resistant container as defined in the USP using a child-resistant closure.
+
+Keep container tightly closed.
+
+Code No.: MH/DRUGS/AS/089
+
+RMXA0345A
 
 # PRINCIPAL DISPLAY PANEL - 10 mg
 
@@ -72,9 +80,7 @@ Rx only 100 Tablets
 
 Each tablet contains 10 mg of diazepam, USP.
 
-Dispense in a tight, light-resistant container as defined in the USP using a child-resistant closure.
-
-Keep container tightly closed.
+Usual Dosage: See accompanying prescribing information.
 
 Keep this and all medication out of the reach of children.
 
@@ -83,10 +89,16 @@ Store at 20° to 25°C (68° to 77°F).
 
 Protect from light.
 
-Usual Dosage: See accompanying prescribing information.
+Manufactured for: Mylan Pharmaceuticals Inc. Morgantown, WV 26505 U.S.A.
 
-Mylan Pharmaceuticals Inc. Morgantown, WV 26505 U.S.A.
+Made in India
 
 Mylan.com
 
-RM0477A11
+Dispense in a tight, light-resistant container as defined in the USP using a child-resistant closure.
+
+Keep container tightly closed.
+
+Code No.: MH/DRUGS/AS/089
+
+RMXA0477A
