@@ -1,0 +1,32 @@
+{
+  "application_numbers": [
+    "ANDA076726"
+  ],
+  "inn": "enoxaparin",
+  "labeler": "Italfarmaco SpA",
+  "package_ndcs": [
+    "11797-757-02",
+    "11797-757-06",
+    "11797-758-02",
+    "11797-758-06",
+    "11797-759-02",
+    "11797-759-06",
+    "11797-760-02",
+    "11797-760-06",
+    "11797-761-02",
+    "11797-761-06",
+    "11797-762-02",
+    "11797-762-06",
+    "11797-763-02",
+    "11797-763-06"
+  ],
+  "products": [
+    {
+      "form": "INJECTION, SOLUTION",
+      "generic": "enoxaparin sodium",
+      "name": "Enoxaparin Sodium"
+    }
+  ],
+  "setid": "b4d9e4d4-4fdb-48d6-a169-7bc5eebc51e9",
+  "source": "dailymed"
+}
