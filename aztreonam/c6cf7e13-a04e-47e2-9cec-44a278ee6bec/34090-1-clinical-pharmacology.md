@@ -15,9 +15,9 @@ The serum half-life of aztreonam averaged 1.7 hours (1.5 to 2) in subjects with 
 In healthy subjects, based on a 70 kg person, the serum clearance was 91 mL/min and renal clearance was 56 mL/min; the apparent mean volume of distribution at steady-state averaged 12.6 liters, approximately equivalent to extracellular fluid volume.
 
 In elderly patients, the mean serum half-life of aztreonam increased and the renal clearance decreased, consistent with the age-related decrease in creatinine clearance.
-1-4 The dosage of aztreonam for injection should be adjusted accordingly (see DOSAGE AND ADMINISTRATION,Renal Impairment in Adult Patients).
+1-4 The dosage of aztreonam for injection should be adjusted accordingly (see DOSAGE AND ADMINISTRATION, Renal Impairment in Adult Patients).
 
-In patients with impaired renal function, the serum half-life of aztreonam is prolonged (see DOSAGE AND ADMINISTRATION,Renal Impairment in Adult Patients).
+In patients with impaired renal function, the serum half-life of aztreonam is prolonged (see DOSAGE AND ADMINISTRATION, Renal Impairment in Adult Patients).
 The serum half-life of aztreonam is only slightly prolonged in patients with hepatic impairment since the liver is a minor pathway of excretion.
 
 Average urine concentrations of aztreonam were approximately 1,100 mcg/mL, 3,500 mcg/mL and 6,600 mcg/mL within the first 2 hours following single 500 mg, 1 g and 2 g intravenous doses of aztreonam for injection (30-minute infusions), respectively.
@@ -141,7 +141,7 @@ Aztreonam and aminoglycosides have been shown to be synergistic in vitro against
 
 Alterations of the anaerobic intestinal flora by broad-spectrum antibiotics may decrease colonization resistance, thus permitting overgrowth of potential pathogens, e.g., Candida and Clostridium species.
 Aztreonam has little effect on the anaerobic intestinal microflora in in vitro studies.
-Clostridium difficile and its cytotoxin were not found in animal models following administration of aztreonam (see ADVERSE REACTIONS,Gastrointestinal).
+Clostridium difficile and its cytotoxin were not found in animal models following administration of aztreonam (see ADVERSE REACTIONS, Gastrointestinal).
 
 Susceptibility Test Methods
 

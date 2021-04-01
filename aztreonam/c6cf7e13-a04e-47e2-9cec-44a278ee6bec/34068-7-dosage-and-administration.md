@@ -51,7 +51,7 @@ Therefore, as with all antibiotics eliminated by the kidneys, estimates of creat
 ## Dosage in Pediatric Patients
 
 Aztreonam for injection should be administered intravenously to pediatric patients with normal renal function.
-There are insufficient data regarding intramuscular administration to pediatric patients or dosing in pediatric patients with renal impairment (see PRECAUTION S,Pediatric Use).
+There are insufficient data regarding intramuscular administration to pediatric patients or dosing in pediatric patients with renal impairment (see PRECAUTIONS, Pediatric Use).
 
 Table 5: Aztreonam for Injection Dosage Guidelines for Pediatric Patients*
 

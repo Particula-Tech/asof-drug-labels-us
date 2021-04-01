@@ -2,11 +2,10 @@
 
 Aztreonam for Injection, USP
 
-| Product No. | NDC No. | Strength |  |
+| Product Code | Unit of Sale | Strength | Each |
 | --- | --- | --- | --- |
-| 309720 | 63323-397-20 | 500 mg per vial | 20 mL single dose vial, supplied in packages of ten. |
-| 400120 | 63323-401-20 | 1 g per vial | 20 mL single dose vial, supplied in packages of ten. |
-| 400220 | 63323-402-20 | 2 g per vial | 30 mL single dose vial, supplied in packages of ten. |
+| 400120 | 63323-401-20 Unit of 10 | 1 g per vial | 63323-401-01 20 mL single dose vial |
+| 400220 | 63323-402-20 Unit of 10 | 2 g per vial | 63323-402-01 30 mL single dose vial |
 
 ## Storage
 
