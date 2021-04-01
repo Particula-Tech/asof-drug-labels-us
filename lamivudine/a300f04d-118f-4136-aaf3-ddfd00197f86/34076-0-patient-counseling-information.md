@@ -29,11 +29,15 @@ Pregnancy Registry: Advise patients that there is an antiretroviral pregnancy re
 
 Lactation: Instruct women with HIV-1 infection not to breastfeed because HIV-1 can be passed to the baby in breast milk [see Use in Specific Populations (8.2)].
 
-Other brands listed are the registered trademarks of their respective owners and are not trademarks of Mylan Laboratories Limited or Mylan Pharmaceuticals Inc.
-
 Rx only
 
 Manufactured for: Mylan Specialty L.P.
 Morgantown, WV 26505 U.S.A.
 
 Manufactured by: Mylan Laboratories Limited Hyderabad — 500 096, India
+
+© 2021 Viatris Inc.
+
+CIMDUO is a registered trademark of Mylan Pharmaceuticals Inc., a Viatris Company.
+
+Other brands listed are the registered trademarks of their respective owners and are not trademarks of Mylan Laboratories Limited or Mylan Pharmaceuticals Inc.

@@ -2,7 +2,7 @@
 
 NDC 49502-450-93 Rx only
 
-CIMDUOTM (lamivudine and tenofovir disoproxil fumarate) tablets 300 mg/300 mg
+CIMDUO® (lamivudine and tenofovir disoproxil fumarate) tablets 300 mg/300 mg
 
 Each film-coated tablet contains: Lamivudine, USP 300 mg Tenofovir Disoproxil Fumarate 300 mg equivalent to 245 mg of tenofovir disoproxil)
 
@@ -24,6 +24,10 @@ Made in India
 
 Code No.: MH/DRUGS/AD/089
 
-MS:MXA:45093:1C:R1
+MS:MXA:45093:1C:R2
 
 Mylan.com
+
+© 2021 Viatris Inc.
+
+CIMDUO is a registered trademark of Mylan Pharmaceuticals Inc., a Viatris Company.

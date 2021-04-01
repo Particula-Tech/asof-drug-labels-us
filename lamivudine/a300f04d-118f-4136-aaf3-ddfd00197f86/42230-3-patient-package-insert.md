@@ -1,6 +1,6 @@
 # Patient Information
 
-| CIMDUO™ (sim-DEW-oh) (lamivudine and tenofovir disoproxil fumarate) tablets |  |
+| CIMDUO® (sim-DEW-oh) (lamivudine and tenofovir disoproxil fumarate) tablets |  |
 | --- | --- |
 | What is the most important information I should know about CIMDUO?CIMDUO can cause serious side effects, including: •Too much lactic acid in your blood (lactic acidosis). Lactic acidosis is a serious medical emergency that can lead to death. Tell your healthcare provider right away if you get any of the following symptoms that could be signs of lactic acidosis: |  |
 | ofeel very weak or tired ounusual (not normal) muscle pain otrouble breathingostomach pain with nausea or vomiting | ofeel cold, especially in your arms and legs ofeel dizzy or lightheaded ohave a fast or irregular heartbeat |
@@ -17,7 +17,7 @@
 | Tell your healthcare provider if you have any side effect that bothers you or that does not go away.These are not all the possible side effects of CIMDUO. Call your doctor for medical advice about side effects. You may report side effects to FDA at 1-800-FDA-1088. |  |
 | How should I store CIMDUO? •Store CIMDUO tablets at room temperature between 68°F to 77°F (20°C to 25°C). •Keep CIMDUO tablets in the original container. Keep CIMDUO and all medicines out of the reach of children. |  |
 | General information about the safe and effective use of CIMDUO.Medicines are sometimes prescribed for purposes other than those listed in a Patient Information leaflet. Do not use CIMDUO for a condition for which it was not prescribed. Do not give CIMDUO to other people, even if they have the same symptoms that you have. It may harm them. If you would like more information, talk with your healthcare provider. You can ask your pharmacist or healthcare provider for information about CIMDUO that is written for health professionals. |  |
-| What are the ingredients in CIMDUO?Active ingredient: lamivudine and tenofovir disoproxil fumarate Inactive ingredients: croscarmellose sodium, lactose monohydrate, magnesium stearate and microcrystalline cellulose. The tablet coating contains polyethylene glycol, titanium dioxide, polyvinyl alcohol and talc.Other brands listed are the registered trademarks of their respective owners and are not trademarks of Mylan Laboratories Limited or Mylan Pharmaceuticals Inc.Manufactured for: Mylan Specialty L.P. Morgantown, WV 26505 U.S.A.Manufactured by: Mylan Laboratories Limited Hyderabad — 500 096, India75064319MS:TLDT:R1For more information, call Mylan at 1-877-446-3679 (1-877-4-INFO-RX). |  |
+| What are the ingredients in CIMDUO?Active ingredient: lamivudine and tenofovir disoproxil fumarate Inactive ingredients: croscarmellose sodium, lactose monohydrate, magnesium stearate and microcrystalline cellulose. The tablet coating contains polyethylene glycol, titanium dioxide, polyvinyl alcohol and talc. Manufactured for: Mylan Specialty L.P. Morgantown, WV 26505 U.S.A.Manufactured by: Mylan Laboratories Limited Hyderabad — 500 096, India © 2021 Viatris Inc. CIMDUO is a registered trademark of Mylan Pharmaceuticals Inc., a Viatris Company. Other brands listed are the registered trademarks of their respective owners and are not trademarks of Mylan Laboratories Limited or Mylan Pharmaceuticals Inc. 75078442MS:TLDT:R2For more information, call Mylan at 1-877-446-3679 (1-877-4-INFO-RX). |  |
 
 This Patient Information has been approved by the U.S. Food and Drug Administration.
-Issued: 3/2018
+Revised: 2/2021

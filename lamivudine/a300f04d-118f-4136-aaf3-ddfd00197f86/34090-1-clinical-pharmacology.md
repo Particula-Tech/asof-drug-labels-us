@@ -52,7 +52,7 @@ The pharmacokinetics of lamivudine and tenofovir have not been studied in patien
 The pharmacokinetics of lamivudine are altered in subjects with renal impairment (Table 3).
 
 Table 3.
-Pharmacokinetic Parameters (Mean ± SD) after a Single 300-mg Oral Dose of 3TC in Subjects with Varying Degrees of Renal Function
+Pharmacokinetic Parameters (Mean ± SD) After a Single 300-mg Oral Dose of 3TC in Subjects with Varying Degrees of Renal Function
 
 | Parameter | Creatinine Clearance Criterion (Number of Subjects) |  |  |
 | --- | --- | --- | --- |
@@ -68,7 +68,7 @@ The pharmacokinetics of tenofovir are altered in subjects with renal impairment 
 In subjects with creatinine clearance below 50 mL/min or with end‑stage renal disease (ESRD) requiring dialysis, Cmax, and AUC0‑∞ of tenofovir were increased.
 
 Table 4.
-Pharmacokinetic Parameters (Mean ± SD) of Tenofovir in Subjects after a Single 300-mg Oral Dose of TDF in Subjects with Varying Degrees of Renal Function
+Pharmacokinetic Parameters (Mean ± SD) of Tenofovir in Subjects After a Single 300-mg Oral Dose of TDF in Subjects with Varying Degrees of Renal Function
 
 | Baseline Creatinine Clearance (mL/min) | > 80(N = 3) | 50-80(N = 10) | 30-49(N = 8) | 12-29(N = 11) |
 | --- | --- | --- | --- | --- |
@@ -129,7 +129,7 @@ Coadministration of 3TC with sorbitol resulted in dose-dependent decreases of 20
 Each subject received treatment with a single 300-mg dose of 3TC and TMP 160 mg/SMX 800 mg once a day for 5 days with concomitant administration of 3TC 300 mg with the fifth dose in a crossover design.
 Coadministration of TMP/SMX with 3TC resulted in an increase of 43% ± 23% (mean ± SD) in 3TC AUC∞, a decrease of 29% ± 13% in 3TC oral clearance, and a decrease of 30% ± 36% in 3TC renal clearance.
 The pharmacokinetic properties of TMP and SMX were not altered by coadministration with 3TC.
-There is no information regarding the effect on 3TC pharmacokinetics of higher doses of TMP/SMX such as those used in treat PCP.
+There is no information regarding the effect on 3TC pharmacokinetics of higher doses of TMP/SMX such as those used in treating PCP.
 
 #### Tenofovir Disoproxil Fumarate
 
@@ -186,12 +186,12 @@ Drug Interactions: Changes in Pharmacokinetic Parameters for Coadministered Drug
 | AtazanavirReyataz (atazanavir) Prescribing Information. | 400 once daily × 14 days | ↓ 21(↓ 27 to ↓ 14) | ↓ 25(↓ 30 to ↓ 19) |  | ↓ 40(↓ 48 to ↓ 32) |
 | Atazanavir | Atazanavir/Ritonavir 300/100 once daily × 42 days | ↓ 28(↓ 50 to ↑ 5) | ↓ 25In HIV-infected subjects, addition of TDF to atazanavir 300 mg plus ritonavir 100 mg, resulted in AUC and Cmin values of atazanavir that were 2.3- and 4-fold higher than the respective values observed for atazanavir 400 mg when given alone.(↓ 42 to ↓ 3) |  | ↓ 23(↓ 46 to ↑ 10) |
 | DarunavirPrezista (darunavir) Prescribing Information. | Darunavir/Ritonavir 300/100 once daily | ↑ 16(↓ 6 to ↑ 42) | ↑ 21(↓ 5 to ↑ 54) |  | ↑ 24(↓ 10 to ↑ 69) |
-| DidanosineVidex EC® Prescribing Information. Subjects received didanosine enteric-coated capsules. | 250 once, simultaneously with VIREAD® and a light meal373 kcal, 8.2 g fat | ↓ 20Compared with didanosine (enteric-coated) 400 mg administered alone under fasting conditions.(↓ 32 to ↓ 7) | ↔ |  | NA |
+| DidanosineVidex® EC Prescribing Information. Subjects received didanosine enteric-coated capsules. | 250 once, simultaneously with VIREAD® and a light meal373 kcal, 8.2 g fat | ↓ 20Compared with didanosine (enteric-coated) 400 mg administered alone under fasting conditions.(↓ 32 to ↓ 7) | ↔ |  | NA |
 | Emtricitabine | 200 once daily × 7 days | ↔ | ↔ | ↑ 20(↑ 12 to ↑ 29) |  |
 | Entecavir | 1 mg once daily × 10 days | ↔ | ↑ 13(↑ 11 to ↑ 15) | ↔ |  |
 | Indinavir | 800 three times daily × 7 days | ↓ 11(↓ 30 to ↑ 12) | ↔ | ↔ |  |
 | Lamivudine | 150 twice daily × 7 days | ↓ 24(↓ 34 to ↓ 12) | ↔ | ↔ |  |
-| LopinavirRitonavir | Lopinavir/Ritonavir 400/100 twice daily × 14 days | ↔↔ | ↔↔ | ↔↔ |  |
+| LopinavirRitonavir | Lopinavir/Ritonavir 400/100 twice daily × 14 days | ↔ ↔ | ↔↔ | ↔↔ |  |
 | Saquinavir | Saquinavir/Ritonavir 1000/100 twice daily × 14 days | ↑ 22(↑ 6 to ↑ 41) | ↑ 29Increases in AUC and Cmin are not expected to be clinically relevant; hence no dose adjustments are required when tenofovir DF and ritonavir-boosted saquinavir are coadministered.(↑ 12 to ↑ 48) | ↑ 47(↑ 23 to ↑ 76) |  |
 | Ritonavir | ↔ | ↔ | ↑ 23(↑ 3 to ↑ 46) |  |  |
 | Tacrolimus | 0.05 mg/kg twice daily × 7 days | ↔ | ↔ | ↔ |  |

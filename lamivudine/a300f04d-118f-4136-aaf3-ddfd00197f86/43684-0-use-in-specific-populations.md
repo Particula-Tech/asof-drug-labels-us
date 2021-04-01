@@ -52,7 +52,8 @@ The Centers for Disease Control and Prevention recommend that HIV-1-infected mot
 ### Lamivudine
 
 3TC is excreted into human milk.
-Samples of breast milk obtained from 20 mothers receiving 3TC monotherapy, 300 mg twice daily (2 times the dose in CIMDUO), had measurable concentrations of 3TC.There is no information on the effects of 3TC on the breastfed infant, or the effects of 3TC on milk production.
+Samples of breast milk obtained from 20 mothers receiving 3TC monotherapy, 300 mg twice daily (2 times the dose in CIMDUO), had measurable concentrations of 3TC.
+There is no information on the effects of 3TC on the breastfed infant, or the effects of 3TC on milk production.
 
 ### Tenofovir Disoproxil Fumarate
 
