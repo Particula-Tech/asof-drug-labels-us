@@ -31,20 +31,35 @@ Absorption
 The rate of systemic absorption of bupivacaine is dependent upon the total dose of drug administered, the route of administration, and the vascularity of the administration site.
 
 Pharmacokinetic parameters of EXPAREL after local infiltration and following an interscalene brachial plexus nerve block were evaluated following surgical procedures.
-Descriptive statistics of pharmacokinetic parameters of representative EXPAREL doses in each study are provided in Table 3.
+Descriptive statistics of pharmacokinetic parameters of representative EXPAREL doses in each study are provided in Table 4 for adult patients after administration of Single Doses of EXPAREL via Local Infiltration and Interscalene Brachial Plexus Nerve Block, and in Table 5 for pediatric patients aged 6 to less than 17 years old after Administration of Single Doses of EXPAREL via Local Infiltration.
 
-Table 3: Summary of Pharmacokinetic Parameters for Bupivacaine after Administration of Single Doses of EXPAREL via Local Infiltration and Interscalene Brachial Plexus Nerve Block
+Table 4: Summary of Pharmacokinetic Parameters for Bupivacaine after Administration of Single Doses of EXPAREL via Local Infiltration and Interscalene Brachial Plexus Nerve Block in Adult Patients
 
-| Parameters | Surgical Site Administration via Local Infiltration |  | Interscalene Brachial Plexus Nerve Block |
+| Parameters* | Surgical Site Administration via Local Infiltration |  |  |  | Interscalene Brachial Plexus Nerve Block |
+| --- | --- | --- | --- | --- | --- |
+| Bunionectomy 106 mg (8 mL) | Hemorrhoidectomy 266 mg (20 mL) | Spine Surgery1 266 mg | Cardiac Surgery2 266 mg | Total Shoulder Arthroplasty 133 mg (10 mL) |  |
+| (N=26) | (N=25) | (N=11) | (N=5) | (N=12) |  |
+| Cmax (ng/mL) | 166 (93) | 867 (353) | 513 (268) | 445 (120) | 207 (137) |
+| Tmax (h) | 2 (0.5, 24) | 0.5 (0.25, 36) | 0.6 (0.2, 37) | 0.6 (0.6, 36) | 48 (3,74) |
+| AUC0-40h (h x ng/mL) | NE | NE | 13035 (8782) | 9867 (1332) | NE |
+| AUC(0-last) (h x ng/mL) | 5864 (2038) 3 | 16867 (7868) 3 | 17214 (11621) 4 | 14277 (3449) 3 | 11484 (8615) 5 |
+| AUC(inf) (h x ng/mL) | 7105 (2283) | 18289 (7569) | 17917 (12187) | 15768 (4530) | 11590 (8603) |
+| t½ (h) | 34 (17) | 24 (39) | 9 (2) | 14 (6) | 11 (5) |
+| * Arithmetic mean (standard deviation) except Tmax where it is median (minimum, maximum).1 Subjects undergoing open posterior spinal fusion or reconstructive surgery2 Subjects undergoing posterolateral thoracotomy3 AUC0-last, 0-72h; 4 AUC0-last, 0-96h; 5 AUC0-last, 0-120hNE: Not evaluated |  |  |  |  |  |
+
+Table 5: Summary of Pharmacokinetic Parameters for Bupivacaine after Administration of Single Doses of EXPAREL via Local Infiltration in Pediatric Patients Aged 6 to Less Than 17 Years Old.
+
+| Parameters* | Spine Surgery | Cardiac Surgery |  |
 | --- | --- | --- | --- |
-| Bunionectomy 106 mg (8 mL) | Hemorrhoidectomy 266 mg (20 mL) | Total Shoulder Arthroplasty 133 mg (10 mL) |  |
-| (N=26) | (N=25) | (N=12) |  |
-| Cmax (ng/mL) | 166 (92.7) | 867 (353) | 207 (137) |
-| Tmax (h) | 2 (0.5-24) | 0.5 (0.25-36) | 48 (3-74) |
-| AUC(0-t) (h×ng/mL) | 5864 (2038) | 16,867 (7868) | 11484 (8615) |
-| AUC(inf) (h×ng/mL) | 7105 (2283) | 18,289 (7569) | 11590 (8603) |
-| t½ (h) | 34 (17) | 24 (39) | 11 (5) |
-| Note: Arithmetic mean (standard deviation) except Tmax where it is median (range). |  |  |  |
+| EXPAREL 4 mg/kg (Maximum 266 mg) | EXPAREL 4 mg/kg (Maximum 266 mg) |  |  |
+| 6 to <17 years (N = 17) | 6 to <12 years (N = 21) |  |  |
+| Cmax (ng/mL) | 353 (125) | 447 (243) |  |
+| Tmax (h) | 1.2 (0.3-26) | 23 (0.2, 55) |  |
+| AUC(0- 40 h) (h x ng/mL) | 8782 (2834) | 11286 (4791) |  |
+| AUC(0-last) (h x ng/mL) | NR1 | 16776 (7936)1 |  |
+| AUC(inf) (h x ng/mL) | NR2 | NR2 |  |
+| t½ (h) | NR2 | NR2 |  |
+| Arithmetic mean (standard deviation) except Tmax where it is median (minimum, maximum).1AUC0-last, 0-72hNR1 = Not reported, since the last sampling time point varies among different patients.NR2 = Not reported, since the terminal elimination phase was not adequately characterized in sufficient number of patients. |  |  |  |
 
 Distribution
 

@@ -79,7 +79,8 @@ EXPAREL has not been evaluated for the following uses and, therefore, is not rec
 
 EXPAREL has not been evaluated for use in the following patient populations and, therefore, is not recommended for administration to these groups.
 
-- patients younger than 18 years old
+- patients younger than 6 years old for infiltration
+- patients younger than 18 years old for interscalene brachial plexus nerve block
 - pregnant patients
 
 The potential sensory and/or motor loss with EXPAREL is temporary and varies in degree and duration depending on the site of injection and dosage administered and may last for up to 5 days as seen in clinical trials.

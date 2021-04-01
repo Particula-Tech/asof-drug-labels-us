@@ -1,6 +1,9 @@
 # 1. INDICATIONS AND USAGE
 
-EXPAREL is indicated for single-dose infiltration in adults to produce postsurgical local analgesia and as an interscalene brachial plexus nerve block to produce postsurgical regional analgesia.
+EXPAREL is indicated:
+
+- In patients aged 6 years and older for single-dose infiltration to produce postsurgical local analgesia
+- In adults as an interscalene brachial plexus nerve block to produce postsurgical regional analgesia
 
 Limitations of Use
 

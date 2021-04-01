@@ -112,7 +112,7 @@ The mean age was 58 years (range 18 to 82).
 After the surgical procedure was completed but prior to the surgical site closure, 20 mL of EXPAREL was administered by the surgeon as an intercostal nerve block divided into three equal doses in three syringes of approximately 88 mg in 6.6 mL volume per nerve, and administered to each of three nerve segments (index nerve, nerve above, and nerve below).
 Postsurgically, patients were allowed opioid rescue medication administered initially by intravenous fentanyl 100 mcg, which was to be administered once via bolus only.
 For the US sites, the second rescue medication was to be PCA-administered morphine or hydromorphone.
-For the European sites, the second rescue medication was to be intramuscular administered morphine up to10 mg every 4 hours.
+For the European sites, the second rescue medication was to be intramuscular administered morphine up to 10 mg every 4 hours.
 At all sites, once a subject was tolerating oral medication, oral immediate-release oxycodone was administered (but not more than 10 mg every 4 hours).
 Subjects who did not achieve adequate pain relief with this regimen were to be withdrawn from the study and followed for safety only.
 
@@ -120,3 +120,19 @@ In this study there were no statistically significant treatment effects for EXPA
 Four percent of patients treated with EXPAREL required no rescue medication at 72 hours compared to 1% treated with placebo.
 For those patients who did require rescue medication, the mean amount of opioid rescue used over 72 hours was 71 mg for patients treated with EXPAREL and 71 mg for patients treated with placebo.
 The median Tmax of bupivacaine observed in this study was 1 h with a range of 0.5 h to 50 h.
+
+## 14.3 Study in Pediatric Patients Aged 6 Years and Older
+
+Study 7
+
+Study 7 was a multicenter, randomized, open-label, two-part study (NCT03682302) to evaluate the PK and safety of EXPAREL in pediatric subjects aged 6 to less than 17 years who were undergoing spine or cardiac surgery.
+
+Sixty-one (61) subjects aged 12 to less than 17 years (Group 1), undergoing spine surgeries, were randomized 1:1 to receive either EXPAREL 4 mg/kg (maximum 266 mg) or bupivacaine HCl 2 mg/kg (maximum 175 mg).
+Postsurgically, patients were administered opioid rescue medication according to the study site’s standard of care.
+
+Thirty-four (34) subjects aged 6 to less than 12 years (Group 2), undergoing either spine or cardiac surgeries, received EXPAREL 4 mg/kg (maximum up to 266 mg).
+Postsurgically, patients were administered opioid rescue medication according to the study site’s standard of care.
+
+This study evaluated the safety of EXPAREL for local infiltration for pediatric subjects aged 6 and older [see Adverse Reactions (6.1), Pediatric Use (8.4), and Clinical Pharmacology (12.3)]
+
+The efficacy of EXPAREL for local infiltration for pediatric subjects (6 to less than 17 years of age) was extrapolated from the efficacy of EXPAREL for local infiltration for adult subjects.

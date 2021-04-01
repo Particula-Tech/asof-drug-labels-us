@@ -5,15 +5,15 @@
 - EXPAREL is intended for single-dose administration only.
 - Different formulations of bupivacaine are not bioequivalent even if the milligram strength is the same.
   Therefore, it is not possible to convert dosing from any other formulations of bupivacaine to EXPAREL [see Dosage and Administration (2.5)].
-- DO NOT dilute EXPAREL with water for injection or other hypotonic agents, as it will result in disruption of the liposomal particles.
+- DO NOT dilute EXPAREL with water or other hypotonic agents, as it will result in disruption of the liposomal particles.
 - Use suspensions of EXPAREL diluted with preservative-free normal (0.9%) saline for injection or lactated Ringer’s solution within 4 hours of preparation in a syringe.
 - Do not administer EXPAREL if it is suspected that the vial has been frozen or exposed to high temperature (greater than 40°C or 104°F) for an extended period.
 - Inspect EXPAREL visually for particulate matter and discoloration prior to administration, whenever solution and container permit.
   Do not administer EXPAREL if the product is discolored.
 
-## 2.2 Recommended Dosing in Adults
+## 2.2 Recommended Dosing
 
-Local Analgesia via Infiltration
+Local Analgesia via Infiltration Dosing in Adults
 
 The recommended dose of EXPAREL for local infiltration in adults is up to a maximum dose of 266 mg (20 mL), and is based on the following factors:
 
@@ -21,14 +21,18 @@ The recommended dose of EXPAREL for local infiltration in adults is up to a maxi
 - Volume required to cover the area
 - Individual patient factors that may impact the safety of an amide local anesthetic
 
-As general guidance in selecting the proper dosing, two examples of infiltration dosing are provided:
+As general guidance in selecting the proper dosing, two examples of infiltration dosing are provided [see Clinical Trials (14.1)]:
 
 - In patients undergoing bunionectomy, a total of 106 mg (8 mL) of EXPAREL was administered, with 7 mL infiltrated into the tissues surrounding the osteotomy, and 1 mL infiltrated into the subcutaneous tissue.
 - In patients undergoing hemorrhoidectomy, a total of 266 mg (20 mL) of EXPAREL was diluted with 10 mL of saline, for a total of 30 mL, divided into six 5 mL aliquots, injected by visualizing the anal sphincter as a clock face and slowly infiltrating one aliquot to each of the even numbers to produce a field block.
 
-Regional Analgesia via Interscalene Brachial Plexus Nerve Block
+Local Analgesia via Infiltration Dosing in Pediatric Patients
 
-The recommended dose of EXPAREL for interscalene brachial plexus nerve block in adults is 133 mg (10 mL), and is based upon one study of patients undergoing either total shoulder arthroplasty or rotator cuff repair.
+The recommended dose of EXPAREL for single-dose infiltration in pediatric patients, aged 6 to less than 17 years, is 4 mg/kg (up to a maximum of 266 mg), and is based upon two studies of pediatric patients undergoing either spine surgery or cardiac surgery [see Clinical Trials (14.3)].
+
+Regional Analgesia via Interscalene Brachial Plexus Nerve Block Dosing in Adults
+
+The recommended dose of EXPAREL for interscalene brachial plexus nerve block in adults is 133 mg (10 mL), and is based upon one study of patients undergoing either total shoulder arthroplasty or rotator cuff repair [see Clinical Trials (14.1)].
 
 ## 2.3 Injection Instructions
 

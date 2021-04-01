@@ -44,7 +44,10 @@ The developmental and health benefits of breastfeeding should be considered alon
 
 ## 8.4 Pediatric Use
 
-Safety and effectiveness in pediatric patients have not been established.
+The safety and effectiveness of EXPAREL for single-dose infiltration to produce postsurgical local anesthesia have been established in pediatric patients aged 6 years and older.
+Use of EXPAREL for this indication is supported by evidence from adequate and well-controlled studies in adults with additional pharmacokinetic and safety data in pediatric patients aged 6 years and older [see Adverse Reactions (6.1), Clinical Pharmacology (12.3), and Clinical Studies (14.3)]
+
+Safety and effectiveness have not been established in pediatric patients aged less than 6 years old for local infiltration or less than 18 years old for interscalene brachial plexus nerve block.
 
 ## 8.5 Geriatric Use
 
