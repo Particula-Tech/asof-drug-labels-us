@@ -3,16 +3,16 @@
 ## 7.1 Ergot-Containing Drugs
 
 Ergot-containing drugs have been reported to cause prolonged vasospastic reactions.
-Because these effects may be additive, use of ergotamine-containing or ergot-type medications (like dihydroergotamine or methysergide) and sumatriptan succinate injection within 24 hours of each other is contraindicated.
+Because these effects may be additive, use of ergotamine-containing or ergot-type medications (like dihydroergotamine or methysergide) and Sumatriptan succinate injection within 24 hours of each other is contraindicated.
 
 ## 7.2 Monoamine Oxidase-A Inhibitors
 
 MAO-A inhibitors increase systemic exposure by 2-fold.
-Therefore, the use of sumatriptan succinate injection in patients receiving MAO-A inhibitors is contraindicated [see Clinical Pharmacology (12.3)].
+Therefore, the use of Sumatriptan succinate injection in patients receiving MAO-A inhibitors is contraindicated [see Clinical Pharmacology (12.3)].
 
 ## 7.3 Other 5-HT1 Agonists
 
-Because their vasospastic effects may be additive, coadministration of sumatriptan succinate injection and other 5-HT 1 agonists (e.g., triptans) within 24 hours of each other is contraindicated.
+Because their vasospastic effects may be additive, coadministration of Sumatriptan succinate injection and other 5-HT1 agonists (e.g., triptans) within 24 hours of each other is contraindicated.
 
 ## 7.4 Selective Serotonin Reuptake Inhibitors/Serotonin Norepinephrine Reuptake Inhibitors and Serotonin Syndrome
 
