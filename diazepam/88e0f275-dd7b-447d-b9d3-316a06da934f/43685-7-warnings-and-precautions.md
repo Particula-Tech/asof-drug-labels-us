@@ -162,7 +162,7 @@ Valproate: Valproate may potentiate the CNS-depressant effects of diazepam.
 
 Effect of Other Drugs on Diazepam Metabolism: In vitro studies using human liver preparations suggest that CYP2C19 and CYP3A4 are the principal isozymes involved in the initial oxidative metabolism of diazepam.
 Therefore, potential interactions may occur when diazepam is given concurrently with agents that affect CYP2C19 and CYP3A4 activity.
-Potential inhibitors of CYP2C19 (e.g., cimetidine, quinidine, and tranylcypromine) and CYP3A4 (e.g., ketoconazole, troleandomycin, and clotrimazole) could decrease the rate of diazepam elimination, while inducers of CYP2C19 (e.g., rifampin) and CYP3A4 (e.g., carbamazepine, phenytoin, dexamethasone and phenobarbital) could increase the rate of elimination of diazepam.
+Potential inhibitors of CYP2C19 (e.g., cimetidine, quinidine, and tranylcypromine) and CYP3A4 (e.g., ketoconazole, troleandomycin, and clotrimazole) could decrease the rate of diazepam elimination, while inducers of CYP2C19 (e.g., rifampin) and CYP3A4 (e.g., carbamazepine, phenytoin, dexamethasone, and phenobarbital) could increase the rate of elimination of diazepam.
 
 Effect of Diazepam on the Metabolism of Other Drugs: There are no reports as to which isozymes could be inhibited or induced by diazepam.
 But, based on the fact that diazepam is a substrate for CYP2C19 and CYP3A4, it is possible that diazepam may interfere with the metabolism of drugs which are substrates for CYP2C19, (e.g. omeprazole, propranolol, and imipramine) and CYP3A4 (e.g. cyclosporine, paclitaxel, terfenadine, theophylline, and warfarin) leading to a potential drug-drug interaction.
