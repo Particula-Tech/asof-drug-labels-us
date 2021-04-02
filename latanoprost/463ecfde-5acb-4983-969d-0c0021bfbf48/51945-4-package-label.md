@@ -10,7 +10,7 @@ GREENSTONE® BRAND
 
 8Q4972
 
-# PRINCIPAL DISPLAY PANEL - 125 mcg/2.5 mL - Single Bottle Carton
+# PRINCIPAL DISPLAY PANEL - 125 mcg/2.5 mL Bottle Carton
 
 NDC 59762-0333-2 One 2.5 mL Bottle
 
