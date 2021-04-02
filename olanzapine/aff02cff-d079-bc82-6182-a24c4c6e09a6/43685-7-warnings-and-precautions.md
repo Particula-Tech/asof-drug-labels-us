@@ -391,3 +391,7 @@ When using olanzapine in combination with lithium or valproate, the prescriber s
 ## 5.17 Laboratory Tests
 
 Fasting blood glucose testing and lipid profile at the beginning of, and periodically during, treatment is recommended [see Warnings and Precautions (5.5) and Patient Counseling Information (17)].
+
+## 5.18 Risks in Patients with Phenylketonuria
+
+Phenylketonurics: Olanzapine orally disintegrating tablet contains phenylalanine (0.75 mg per 5 mg tablet, 0.75 mg per 10 mg tablet, 1.125 mg per 15 mg tablet, and 1.5 mg per 20 mg tablet, respectively).

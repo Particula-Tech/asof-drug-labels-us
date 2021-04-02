@@ -8,7 +8,7 @@ In the limited number of patients who were evaluated in hospitals, including the
 Vital signs were usually within normal limits following overdoses.
 
 In postmarketing reports of overdose with olanzapine alone, symptoms have been reported in the majority of cases.
-In symptomatic patients, symptoms with ≥10% incidence included aggressiveness, dysarthria, tachycardia, various extrapyramidal symptoms, and reduced level of consciousness ranging from sedation to coma.
+In symptomatic patients, symptoms with ≥10 % incidence included agitation/aggressiveness dysarthria, tachycardia, various extrapyramidal symptoms, and reduced level of consciousness ranging from sedation to coma.
 Among less commonly reported symptoms were the following potentially medically serious reactions: aspiration, cardiopulmonary arrest, cardiac arrhythmias (such as supraventricular tachycardia and 1 patient experiencing sinus pause with spontaneous resumption of normal rhythm), delirium, possible neuroleptic malignant syndrome, respiratory depression/arrest, convulsion, hypertension, and hypotension.
 Reports of fatality in association with overdose of olanzapine alone have been received.
 In 1 case of death, the amount of acutely ingested olanzapine was reported to be possibly as low as 450 mg of oral olanzapine; however, in another case, a patient was reported to survive an acute olanzapine ingestion of approximately 2 g of oral olanzapine.

@@ -131,7 +131,7 @@ Before starting olanzapine orally disintegrating tablets, tell your doctor if yo
 
 Tell your doctor if you exercise a lot or are in hot places often.
 
-The symptoms of bipolar I disorder or schizophrenia may include thoughts of suicide or of hurting yourself or others.
+The symptoms of bipolar I disorder, treatment resistant depression, or schizophrenia may include thoughts of suicide or of hurting yourself or others.
 If you have these thoughts at any time, tell your doctor or go to an emergency room right away.
 
 Tell your doctor about all the medicines that you take, including prescription and non-prescription medicines, vitamins, and herbal supplements.
@@ -250,6 +250,6 @@ Dr. Reddy’s Laboratories Limited
 
 Bachupally - 500 090 INDIA
 
-Revised: 0520
+Revised: 0321
 
 Dispense with Medication Guide available at:www.drreddys.com/medguide/olanzapineodtabs.pdf

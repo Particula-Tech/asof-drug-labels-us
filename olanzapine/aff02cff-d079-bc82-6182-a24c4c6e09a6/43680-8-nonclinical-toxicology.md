@@ -7,7 +7,7 @@ Olanzapine was administered to mice in two 78-week studies at doses of 3, 10, 30
 Rats were dosed for 2 years at doses of 0.25, 1, 2.5, 4 mg/kg/day (males) and 0.25, 1, 4, 8 mg/kg/day (females) (equivalent to 0.13-2 and 0.13-4 times the daily oral MRHD based on mg/m2 body surface area, respectively).
 The incidence of liver hemangiomas and hemangiosarcomas was significantly increased in 1 mouse study in female mice at 2 times the daily oral MRHD based on mg/m2 body surface area.
 These tumors were not increased in another mouse study in females dosed up to 2-5 times the daily oral MRHD based on mg/m2 body surface area; in this study, there was a high incidence of early mortalities in males of the 30/20 mg/kg/day group.
-The incidence of mammary gland adenomas and adenocarcinomas was significantly increased in female mice dosed at =2 mg/kg/day and in female rats dosed at =4 mg/kg/day (0.5 and 2 times the daily oral MRHD based on mg/m2 body surface area, respectively).
+The incidence of mammary gland adenomas and adenocarcinomas was significantly increased in female mice dosed at ≥2 mg/kg/day and in female rats dosed at ≥4 mg/kg/day (0.5 and 2 times the daily oral MRHD based on mg/m2 body surface area, respectively).
 Antipsychotic drugs have been shown to chronically elevate prolactin levels in rodents.
 Serum prolactin levels were not measured during the olanzapine carcinogenicity studies; however, measurements during subchronic toxicity studies showed that olanzapine elevated serum prolactin levels up to 4-fold in rats at the same doses used in the carcinogenicity study.
 An increase in mammary gland neoplasms has been found in rodents after chronic administration of other antipsychotic drugs and is considered to be prolactin mediated.
