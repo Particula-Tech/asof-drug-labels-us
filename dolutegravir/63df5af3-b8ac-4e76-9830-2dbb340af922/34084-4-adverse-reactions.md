@@ -188,4 +188,4 @@ Arthralgia, myalgia.
 
 Psychiatric
 
-Anxiety
+Anxiety.

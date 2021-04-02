@@ -4,7 +4,7 @@ Advise the patient to read the FDA-approved patient labeling (Patient Informatio
 
 Drug Interactions
 
-TIVICAY or TIVICAY PD may interact with other drugs; therefore, advise patients to report to their healthcare provider the use of any other prescription or nonprescription medication or herbal products, including St. John’s wort [see Contraindications (4), Drug Interactions (7)].
+TIVICAY or TIVICAY PD may interact with other drugs; therefore, advise patients to report to their healthcare provider the use of any other prescription or nonprescription medication or herbal products, including St. John’s wort [see Contraindications (4), Warnings and Precautions (5.4), Drug Interactions (7)].
 
 Hypersensitivity Reactions
 
@@ -18,10 +18,10 @@ Advise patients that laboratory monitoring for hepatoxicity during therapy with 
 
 Embryo-Fetal Toxicity
 
-Advise adolescents and adults of childbearing potential to consider an alternative treatment to dolutegravir at the time of conception through the first trimester of pregnancy.
-Advise adolescents and adults of childbearing potential to contact their healthcare provider if they plan to become pregnant, become pregnant, or if pregnancy is suspected during treatment with dolutegravir [see Warnings and Precaution (5.3), Use in Specific Populations (8.1, 8.3)].
+Advise adolescents and adults of childbearing potential, including those actively trying to become pregnant, to discuss the risks and benefits of TIVICAY and TIVICAY PD with their healthcare provider to determine if an alternative treatment should be considered at the time of conception through the first trimester of pregnancy.
+If pregnancy is confirmed in the first trimester, advise patients to contact their healthcare provider [see Warnings and Precautions (5.3), Use in Specific Populations (8.1, 8.3)].
 
-Counsel adolescents and adults of childbearing potential taking dolutegravir to consistently use effective contraception [see Warnings and Precautions (5.3), Use in Specific Populations (8.1, 8.3)].
+Adolescents and adults of childbearing potential taking TIVICAY or TIVICAY PD should be counseled on the consistent use of effective contraception [see Warnings and Precautions (5.3), Use in Specific Populations (8.1, 8.3)].
 
 Immune Reconstitution Syndrome
 
@@ -72,8 +72,8 @@ GlaxoSmithKline
 
 Research Triangle Park, NC 27709
 
-©2020 ViiV Healthcare group of companies or its licensor.
+©2021 ViiV Healthcare group of companies or its licensor.
 
-TVC:14PI
+TVC:15PI
 
 PHARMACIST‑DETACH HERE AND GIVE INSTRUCTIONS TO PATIENT _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _

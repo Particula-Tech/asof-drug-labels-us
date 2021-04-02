@@ -28,7 +28,7 @@ In vitro, dolutegravir was not a substrate of OATP1B1 or OATP1B3.
 ## 7.3 Established and Other Potentially Significant Drug Interactions
 
 Table 8 provides clinical recommendations as a result of drug interactions with TIVICAY or TIVICAY PD.
-These recommendations are based on either drug interaction trials or predicted interactions due to the expected magnitude of interaction and potential for serious adverse events or loss of efficacy see Dosage and Administration (2), Clinical Pharmacology (12.3).]
+These recommendations are based on either drug interaction trials or predicted interactions due to the expected magnitude of interaction and potential for serious adverse events or loss of efficacy [see Dosage and Administration (2), Clinical Pharmacology (12.3).]
 
 Table 8.
 Established and Other Potentially Significant Drug Interactions: Alterations in Dose or Regimen May Be Recommended Based on Drug Interaction Trials or Predicted Interactions [see Dosage and Administration (2)]

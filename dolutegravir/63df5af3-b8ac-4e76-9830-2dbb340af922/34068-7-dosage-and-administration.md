@@ -2,7 +2,7 @@
 
 ## 2.1 Pregnancy Testing before Initiation
 
-Perform pregnancy testing before initiation of dolutegravir in adolescents and adults of childbearing potential [see Warnings and Precautions (5.3), Use in Specific Populations (8.1, 8.3)].
+Pregnancy testing is recommended before initiation of TIVICAY or TIVICAY PD in adolescents and adults of childbearing potential [see Warnings and Precautions (5.3), Use in Specific Populations (8.1, 8.3)].
 
 ## 2.2 Recommended Dosage in Adults
 
@@ -47,8 +47,9 @@ Recommended Dosage of TIVICAY PD in Pediatric Patients 4 Weeks and Older Weighin
 
 For pediatric patients weighing 14 kg or greater (4 weeks and older, treatment-naïve or treatment-experienced but naïve to INSTI treatment) administer either:
 
-- •TIVICAY PD tablets for oral suspension (preferred in pediatric patients weighing less than 20 kg) (Table 3), or
-- •TIVICAY tablets for oral use (Table 4)
+• TIVICAY PD tablets for oral suspension (preferred in pediatric patients weighing less than 20 kg) (Table 3), or
+
+• TIVICAY tablets for oral use (Table 4)
 
 Table 3.
 Recommended Dosage of TIVICAY PD Tablets for Oral Suspension in Pediatric Patients Weighing 14 kg or Greater
@@ -58,19 +59,17 @@ Recommended Dosage of TIVICAY PD Tablets for Oral Suspension in Pediatric Patien
 | Daily Dosea | Number of5-mg Tablets |  |
 | 14 kg to less than 20 kg | 25 mg once daily | 5 |
 | 20 kg and greater | 30 mg once daily | 6 |
-
-- a If certain UGT1A or CYP3A inducers are coadministered, then administer TIVICAY PD twice daily [see Drug Interactions (7.2, 7.3)].
+| a If certain UGT1A or CYP3A inducers are coadministered, then administer TIVICAY PD twice daily [see Drug Interactions (7.2, 7.3)]. |  |  |
 
 Table 4.
 Recommended Dosage of TIVICAY Tablets in Pediatric Patients Weighing 14 kg or Greater
 
-| Body Weight | TIVICAY Tablets |  |
-| --- | --- | --- |
-| Daily Dosea | Number of Tablets |  |
-| 14 kg to less than 20 kg | 40 mg once daily | 4 x 10-mg |
-| 20 kg and greater | 50 mg once daily | 1 x 50-mg |
-
-- a If certain UGT1A or CYP3A inducers are coadministered, then administer TIVICAY twice daily [see Drug Interactions (7.2, 7.3)].
+| Body Weight | TIVICAY Tablets |  |  |  |  |
+| --- | --- | --- | --- | --- | --- |
+| Daily Dosea | Number of Tablets |  |  |  |  |
+| 14 kg to less than 20 kg | 40 mg once daily | 4 x 10-mg |  |  |  |
+| 20 kg and greater | 50 mg once daily | 1 x 50-mg |  |  |  |
+| a If certain UGT1A or CYP3A inducers are coadministered, then administer TIVICAY twice daily [see Drug Interactions (7.2, 7.3)]. |  |  |  |  |  |
 
 ## 2.6 Additional Administration Instructions
 
@@ -81,6 +80,7 @@ Administration Instructions for TIVICAY PD
 Do not chew, cut, or crush TIVICAY PD [see Instructions for Use].
 Instruct patients (or instruct caregivers) to either:
 
-- •Swallow the tablets for oral suspension whole (if more than one tablet is required, swallow one tablet at a time to reduce the risk of choking), or
-- •Fully disperse the tablets for oral suspension in 5 mL of drinking water (if using 1 or 3 tablets for oral suspension) or 10 mL (if using 4, 5, or 6 tablets for oral suspension) in the supplied cup; swirl the suspension so that no lumps remain.
-  After full dispersion, administer the oral suspension within 30 minutes of mixing [see Instructions for Use].
+• Swallow the tablets for oral suspension whole (if more than one tablet is required, swallow one tablet at a time to reduce the risk of choking), or
+
+• Fully disperse the tablets for oral suspension in 5 mL of drinking water (if using 1 or 3 tablets for oral suspension) or 10 mL (if using 4, 5, or 6 tablets for oral suspension) in the supplied cup; swirl the suspension so that no lumps remain.
+After full dispersion, administer the oral suspension within 30 minutes of mixing [see Instructions for Use].

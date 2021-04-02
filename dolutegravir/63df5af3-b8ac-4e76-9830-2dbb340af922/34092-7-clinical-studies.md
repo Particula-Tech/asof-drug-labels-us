@@ -23,11 +23,11 @@ Trials Conducted with TIVICAY or TIVICAY PD in HIV-1–Infected Subjects
 
 Treatment-Naïve Subjects
 
-In SPRING-2, 822 subjects were randomized and received at least 1 dose of either TIVICAY 50-mg once daily or raltegravir 400 mg twice daily, both in combination with fixed-dose dual NRTI treatment (either abacavir sulfate and lamivudine [EPZICOM] or emtricitabine/tenofovir [TRUVADA]).
+In SPRING-2, 822 subjects were randomized and received at least 1 dose of either TIVICAY 50 mg once daily or raltegravir 400 mg twice daily, both in combination with fixed-dose dual NRTI treatment (either abacavir sulfate and lamivudine [EPZICOM] or emtricitabine/tenofovir [TRUVADA]).
 There were 808 subjects included in the efficacy and safety analyses.
 At baseline, the median age of subjects was 36 years, 13% female, 15% non-white, 11% had hepatitis B and/or C virus co-infection, 2% were CDC Class C (AIDS), 28% had HIV-1 RNA greater than 100,000 copies per mL, 48% had CD4+ cell count less than 350 cells per mm3, and 39% received EPZICOM; these characteristics were similar between treatment groups.
 
-In SINGLE, 833 subjects were randomized and received at least 1 dose of either TIVICAY 50‑mg once daily with fixed-dose abacavir sulfate and lamivudine (EPZICOM) or fixed-dose efavirenz/emtricitabine/tenofovir (ATRIPLA).
+In SINGLE, 833 subjects were randomized and received at least 1 dose of either TIVICAY 50 mg once daily with fixed-dose abacavir sulfate and lamivudine (EPZICOM) or fixed-dose efavirenz/emtricitabine/tenofovir (ATRIPLA).
 At baseline, the median age of subjects was 35 years, 16% female, 32% non-white, 7% had hepatitis C co-infection (hepatitis B virus co-infection was excluded), 4% were CDC Class C (AIDS), 32% had HIV-1 RNA greater than 100,000 copies per mL, and 53% had CD4+ cell count less than 350 cells per mm3; these characteristics were similar between treatment groups.
 
 Outcomes for SPRING-2 (Week 96 analysis) and SINGLE (Week 144 open-label phase analysis which followed the Week 96 double-blind phase) are provided in Table 16.
@@ -174,7 +174,7 @@ Refer to the prescribing information for JULUCA (dolutegravir and rilpivirine) t
 
 IMPAACT P1093 is an ongoing Phase 1/2, multicenter, open-label trial to evaluate the pharmacokinetic parameters, safety, tolerability, and efficacy of TIVICAY or TIVICAY PD in combination treatment regimens in HIV-1–infected infants, children, and adolescents aged at least 4 weeks to 18 years.
 Subjects were stratified by 5 age cohorts: Cohort 1, aged 12 to less than 18 years; Cohort 2A, aged 6 to less than 12 years; Cohort 3, aged 2 to less than 6 years; Cohort 4, aged 6 months to less than 2 years; and Cohort 5, aged 4 weeks to less than 6 months.
-Seventy-five subjects received the recommended dose (determined by weight and age) of TIVICAY or TIVICAY PD [see Dosage and Administration (2.2, 2.4, 2.5)].
+Seventy-five subjects received the recommended dose (determined by weight and age) of TIVICAY or TIVICAY PD [see Dosage and Administration (2.3, 2.4, 2.5)].
 
 These 75 subjects had a median age of 27 months (range: 1 to 214), were 59% female, and 68% were black or African American.
 At baseline, mean plasma HIV-1 RNA was 4.4 log10 copies per mL, median CD4+ cell count was 1,225 cells per mm3 (range: 1 to 8,255), and median CD4+% was 23% (range: 0.3% to 49%).

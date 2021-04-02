@@ -22,6 +22,6 @@ Bottle of 60 tablets with child-resistant closure containing a desiccant.
 Each bottle is packaged with one 30-mL dosing cup and one 10-mL oral dosing syringe with 1-mL gradations.
 NDC 49702-255-37.
 
-Store TIVICAY PD tablets for oral suspension below 30 °C (86 °F).
+Store TIVICAY PD tablets for oral suspension below 30°C (86°F).
 Store and dispense the 5-mg tablets in the original bottle, protect from moisture, and keep the bottle tightly closed.
 Do not remove desiccant.
