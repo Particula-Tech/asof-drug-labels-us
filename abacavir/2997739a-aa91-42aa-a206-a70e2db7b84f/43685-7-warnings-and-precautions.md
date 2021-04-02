@@ -73,15 +73,13 @@ Treatment with TRIUMEQ should be suspended in any patient who develops clinical 
 
 ## 5.6 Embryo-Fetal Toxicity
 
-An observational study showed an association between dolutegravir, a component of TRIUMEQ, and an increased risk of neural tube defects when dolutegravir was administered at the time of conception and in early pregnancy.
-As there is limited understanding of reported types of neural tube defects associated with dolutegravir use and because the date of conception may not be determined with precision, an alternative treatment to TRIUMEQ should be considered at the time of conception through the first trimester of pregnancy [see Use in Specific Populations (8.1)].
+An ongoing observational study showed an association between dolutegravir and an increased risk of neural tube defects when dolutegravir was administered at the time of conception and in early pregnancy.
+As there is limited understanding of the association of reported types of neural tube defects with dolutegravir use, inform adolescents and adults of childbearing potential, including those actively trying to become pregnant, about the potential increased risk of neural tube defects with TRIUMEQ.
+Assess the risks and benefits of TRIUMEQ and discuss with the patient to determine if an alternative treatment should be considered at the time of conception through the first trimester of pregnancy or if pregnancy is confirmed in the first trimester [see Use in Specific Populations (8.1, 8.3)].
 
-Perform pregnancy testing before initiation of TRIUMEQ in adolescents and adults of childbearing potential to exclude use of TRIUMEQ during the first trimester of pregnancy [see Dosage and Administration (2.2)].
-Initiation of TRIUMEQ is not recommended in adolescents and adults actively trying to become pregnant unless there is no suitable alternative [see Use in Specific Populations (8.1, 8.3)].
+Pregnancy testing is recommended before initiation of TRIUMEQ in adolescents and adults of childbearing potential [see Dosage and Administration (2.2)].
 
-Counsel adolescents and adults of childbearing potential to consistently use effective contraception [see Use in Specific Populations (8.1, 8.3)].
-
-In adolescents and adults of childbearing potential currently on TRIUMEQ who are actively trying to become pregnant, or if pregnancy is confirmed in the first trimester, assess the risks and benefits of continuing TRIUMEQ versus switching to another antiretroviral regimen and consider switching to an alternative regimen [see Use in Specific Populations (8.1, 8.3)].
+Adolescents and adults of childbearing potential should be counseled on the consistent use of effective contraception [see Use in Specific Populations (8.1, 8.3)].
 
 TRIUMEQ may be considered during the second and third trimesters of pregnancy if the expected benefit justifies the potential risk to the pregnant woman and the fetus.
 

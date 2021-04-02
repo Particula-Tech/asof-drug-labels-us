@@ -4,7 +4,7 @@ Advise the patient to read the FDA-approved patient labeling (Medication Guide).
 
 Drug Interactions
 
-TRIUMEQ may interact with many drugs; therefore, advise patients to report to their healthcare provider the use of any other prescription or nonprescription medication or herbal products, including St. John’s wort [see Contraindications (4), Drug Interactions (7)].
+TRIUMEQ may interact with many drugs; therefore, advise patients to report to their healthcare provider the use of any other prescription or nonprescription medication or herbal products, including St. John’s wort [see Contraindications (4), Warnings and Precautions (5.7), Drug Interactions (7)].
 
 Hypersensitivity Reaction
 
@@ -39,10 +39,10 @@ Inform patients that some HIV medicines, including TRIUMEQ, can cause a rare, bu
 
 Embryo-Fetal Toxicity
 
-Advise adolescents and adults of childbearing potential to consider an alternative treatment to TRIUMEQ at the time of conception through the first trimester of pregnancy.
-Advise adolescents and adults of childbearing potential to contact their healthcare provider if they plan to become pregnant, become pregnant, or if pregnancy is suspected during treatment with TRIUMEQ [see Warnings and Precautions (5.6), Use in Specific Populations (8.1, 8.3)].
+Advise adolescents and adults of childbearing potential, including those actively trying to become pregnant, to discuss the risks and benefits of TRIUMEQ with their healthcare provider to determine if an alternative treatment should be considered at the time of conception through the first trimester of pregnancy.
+If pregnancy is confirmed in the first trimester, advise patients to contact their healthcare provider [see Warnings and Precautions (5.6), Use in Specific Populations (8.1, 8.3)].
 
-Counsel adolescents and adults of childbearing potential taking TRIUMEQ to consistently use effective contraception [see Warnings and Precautions (5.6), Use in Specific Populations (8.1, 8.3)].
+Adolescents and adults of childbearing potential taking TRIUMEQ should be counseled on the consistent use of effective contraception [see Warnings and Precautions (5.6), Use in Specific Populations (8.1, 8.3)].
 
 Immune Reconstitution Syndrome
 
@@ -92,4 +92,4 @@ Research Triangle Park, NC 27709
 
 ©2021 ViiV Healthcare group of companies or its licensor.
 
-TRM:12PI
+TRM:13PI

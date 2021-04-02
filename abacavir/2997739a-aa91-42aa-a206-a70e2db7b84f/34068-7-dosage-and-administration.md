@@ -6,7 +6,7 @@ Screen for the HLA‑B*5701 allele prior to initiating therapy with TRIUMEQ [see
 
 ## 2.2 Pregnancy Testing before Initiation of TRIUMEQ
 
-Perform pregnancy testing before initiation of TRIUMEQ in adolescents and adults of childbearing potential [see Warnings and Precautions (5.6), Use in Specific Populations (8.1, 8.3)].
+Pregnancy testing is recommended before initiation of TRIUMEQ in adolescents and adults of childbearing potential [see Warnings and Precautions (5.6), Use in Specific Populations (8.1, 8.3)].
 
 ## 2.3 Recommended Dosage
 
@@ -28,6 +28,7 @@ Dosing Recommendations for TRIUMEQ with Coadministered Medications
 
 Because TRIUMEQ is a fixed-dose tablet and cannot be dose adjusted, TRIUMEQ is not recommended in:
 
-- •patients with creatinine clearance less than 30 mL per minute [see Use in Specific Populations (8.6)].
-- •patients with mild hepatic impairment.
-  TRIUMEQ is contraindicated in patients with moderate or severe hepatic impairment [see Contraindications (4), Use in Specific Populations (8.7)].
+• patients with creatinine clearance less than 30 mL per minute [see Use in Specific Populations (8.6)].
+
+• patients with mild hepatic impairment.
+TRIUMEQ is contraindicated in patients with moderate or severe hepatic impairment [see Contraindications (4), Use in Specific Populations (8.7)].
