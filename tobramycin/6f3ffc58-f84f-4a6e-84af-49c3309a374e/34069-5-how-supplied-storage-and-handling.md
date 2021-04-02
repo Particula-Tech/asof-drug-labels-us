@@ -2,7 +2,7 @@
 
 ## 16.1 How Supplied
 
-TOBI Podhaler contains aluminum blister-packaged 28 mg TOBI Podhaler (tobramycin inhalation powder) clear, colorless hypromellose capsules with “MYL TPH” in blue radial imprint on one part of the capsule and the Mylan logo in blue radial imprint on the other part of the capsule, and Podhaler devices.
+TOBI Podhaler contains aluminum blister-packaged 28 mg TOBI Podhaler (tobramycin inhalation powder) clear, colorless hypromellose capsules with “NVR AVCI” in blue radial imprint on one part of the capsule and the Novartis logo “” in blue radial imprint on the other part of the capsule, and Podhaler devices.
 
 Each Podhaler device consists of the inhaler body, mouthpiece, capsule chamber and blue push button.
 The Podhaler device is provided in a case that protects the device during shipment, storage and its one week in-use period.
