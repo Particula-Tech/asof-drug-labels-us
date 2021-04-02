@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "NDA208289"
+  ],
+  "inn": "ephedrine",
+  "labeler": "Exela Pharma Sciences, LLC",
+  "package_ndcs": [
+    "51754-4200-4"
+  ],
+  "products": [
+    {
+      "form": "INJECTION",
+      "generic": "ephedrine sulfate",
+      "name": "Akovaz"
+    }
+  ],
+  "setid": "e92f3eda-33eb-4b34-9e8b-db8d32a5dbd9",
+  "source": "dailymed"
+}
