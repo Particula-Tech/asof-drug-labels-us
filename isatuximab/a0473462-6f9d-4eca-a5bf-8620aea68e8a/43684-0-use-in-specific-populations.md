@@ -65,5 +65,5 @@ Safety and effectiveness in pediatric patients have not been established.
 
 ## 8.5 Geriatric Use
 
-Of the total number of subjects in clinical studies of SARCLISA, 53% (306 patients) were 65 and over, while 14% (82 patients) were 75 and over.
+Of the total number of subjects in clinical studies of SARCLISA, 56% (586 patients) were 65 and over, while 16% (163 patients) were 75 and over.
 No overall differences in safety or effectiveness were observed between subjects 65 and over and younger subjects, and other reported clinical experience has not identified differences in responses between the adults 65 years and over and younger patients, but greater sensitivity of some older individuals cannot be ruled out.

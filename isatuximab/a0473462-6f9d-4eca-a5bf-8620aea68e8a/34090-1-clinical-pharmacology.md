@@ -22,8 +22,11 @@ No apparent relationship was observed between an increase of isatuximab-irfc exp
 
 ## 12.3 Pharmacokinetics
 
-Following the administration of isatuximab-irfc at the recommended dose and schedule, the steady state isatuximab-irfc mean (CV%) predicted maximum plasma concentration (Cmax) was 351 µg/mL (36.0%) and area under the plasma concentration-time curve (AUC) was 72,600 µg∙h/mL (51.7%).
-The median time to reach steady state of isatuximab-irfc was 8 weeks with a 3.1-fold accumulation.
+Following administration of isatuximab-irfc in combination with pomalidomide and dexamethasone at the recommended dose and schedule, the steady-state mean (CV%) predicted maximum plasma concentration (Cmax) and area under the plasma concentration-time curve (AUC) of isatuximab-irfc were 351 µg/mL (36.0%) and 72,600 µg∙h/mL (51.7%), respectively.
+
+Following administration of isatuximab-irfc in combination with carfilzomib and dexamethasone at the recommended dose and schedule, the steady state mean (CV%) predicted Cmax and AUC of isatuximab-irfc were 655 µg/mL (30.8%) and 159,000 µg∙h/mL (37.1%), respectively.
+
+The median time to reach steady state of isatuximab-irfc was 18 weeks with a 3.1-fold accumulation.
 
 Isatuximab-irfc AUC increases in a greater than dose proportional manner over a dosage range from 1 mg/kg to 20 mg/kg (0.1 to 2 times the approved recommended dosage) every 2 weeks.
 Isatuximab-irfc AUC increases proportionally over a dosage range from 5 mg/kg to 20 mg/kg (0.5 to 2 times the approved recommended dosage) every week for 4 weeks followed by every 2 weeks.
@@ -44,8 +47,16 @@ The elimination of isatuximab-irfc was similar when given as a single agent or a
 
 Specific Populations
 
-Isatuximab-irfc exposure (AUC) at steady state decreases with increasing body weight.
-The following factors have no clinically meaningful effect on the exposure of isatuximab-irfc: age (36 to 85 years, 70 patients were >75 years old), sex, race (Caucasian, Black, Asian), renal impairment (eGFR<90 mL/min/1.73 m2), and mild hepatic impairment (total bilirubin 1 to 1.5 times upper limit of normal [ULN] or aspartate aminotransferase [AST] >ULN).
-The effect of moderate (total bilirubin >1.5 times to 3 times ULN and any AST) and severe (total bilirubin >3 times ULN and any AST) hepatic impairment on isatuximab-irfc pharmacokinetics is unknown.
+The following factors have no clinically meaningful effect on the exposure of isatuximab-irfc: age (36 to 85 years, 70 patients were ≥75 years old), sex, renal impairment (eGFR <90 mL/min/1.73 m2), and mild hepatic impairment (total bilirubin ≤ upper limit of normal [ULN] and aspartate aminotransferase [AST] >ULN, or total bilirubin >1 to 1.5 × ULN and any AST).
+The effect of moderate (total bilirubin >1.5 to 3 × ULN and any AST) and severe (total bilirubin >3 × ULN and any AST) hepatic impairment on isatuximab-irfc pharmacokinetics is unknown.
 
 No dose adjustments are recommended in these specific patient populations.
+
+Body weight
+
+The clearance of isatuximab-irfc increased with increasing body weight.
+
+Race
+
+White (n=377, 79%) or Asian (n=25, 5%) race have no clinically meaningful effect on the exposure of isatuximab-irfc.
+The effect of Black (n=18, 4%) race on the exposure of isatuximab-irfc is unknown.

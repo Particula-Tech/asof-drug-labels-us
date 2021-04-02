@@ -12,7 +12,11 @@ Inform patients about the risk of neutropenia and infection during SARCLISA trea
 
 Second Primary Malignancies
 
-Inform patients of the risk of developing second primary malignancies during treatment with SARCLISA in combination with pomalidomide and low-dose dexamethasone [see Warnings and Precautions (5.3)].
+Inform patients of the risk of developing second primary malignancies during treatment with SARCLISA when given with pomalidomide and dexamethasone or with carfilzomib and dexamethasone [see Warnings and Precautions (5.3)].
+
+Cardiac Toxicities
+
+Inform patients about the risk of cardiac failure during treatment with SARCLISA when given with carfilzomib and dexamethasone, and the importance of reporting immediately any difficulty breathing, cough, or leg swelling to their healthcare provider [see Adverse Reactions (6.1)].
 
 Interference with Laboratory Tests
 
