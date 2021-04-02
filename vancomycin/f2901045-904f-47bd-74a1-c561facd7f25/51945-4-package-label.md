@@ -106,3 +106,35 @@ MUST BE FURTHER DILUTED BEFORE USE.
 SEE PACKAGE INSERT.
 
 Hospira
+
+# PRINCIPAL DISPLAY PANEL - 1.5 g Vial Label
+
+Sterile powder Rx only
+
+Vancomycin Hydrochloride for Injection, USP
+
+For intravenous use.
+
+Equivalent to 1.5 g Vancomycin
+
+MUST BE FURTHER DILUTED BEFORE USE.
+SEE INSERT.
+
+Distributed by Hospira, Inc., Lake Forest, IL 60045 USA
+
+# PRINCIPAL DISPLAY PANEL - 1.5 g Vial Tray
+
+Fliptop Vial Sterile Powder
+
+Rx only NDC 0409-3515-01 Contains 10 of NDC 0409-3515-11
+
+Vancomycin Hydrochloride for Injection, USP
+
+For Intravenous Use.
+
+Equivalent to 1.5 g Vancomycin
+
+MUST BE FURTHER DILUTED BEFORE USE.
+SEE INSERT.
+
+Hospira

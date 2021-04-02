@@ -22,6 +22,13 @@ Vancomycin should be used with caution in patients with renal insufficiency beca
 
 Dosage of vancomycin hydrochloride for injection must be adjusted for patients with renal dysfunction (see PRECAUTIONS and DOSAGE AND ADMINISTRATION).
 
+## Severe Dermatologic Reactions
+
+Severe dermatologic reactions such as toxic epidermal necrolysis (TEN), Stevens-Johnson syndrome (SJS), drug reaction with eosinophilia and systemic symptoms (DRESS), acute generalized exanthematous pustulosis (AGEP), and linear IgA bullous dermatosis (LABD) have been reported in association with the use of vancomycin.
+Cutaneous signs or symptoms reported include skin rashes, mucosal lesions, and blisters.
+
+Discontinue vancomycin hydrochloride for injection at the first appearance of signs and symptoms of TEN, SJS, DRESS, AGEP, or LABD.
+
 ## Clostridioides difficile Associated Diarrhea (CDAD)
 
 Clostridioides difficile associated diarrhea (CDAD) has been reported with use of nearly all antibacterial agents, including vancomycin hydrochloride for injection, and may range in severity from mild diarrhea to fatal colitis.
@@ -110,6 +117,11 @@ The natural decrement of glomerular filtration with increasing age may lead to e
 Vancomycin dosage schedules should be adjusted in elderly patients (see DOSAGE AND ADMINISTRATION).
 
 ## Information for Patients
+
+### Severe Dermatologic Reactions
+
+Advise patients about the signs and symptoms of serious skin manifestations.
+Instruct patients to stop vancomycin hydrochloride for injection immediately and promptly seek medical attention at the first signs or symptoms of skin rash, mucosal lesions, and blisters (see WARNINGS).
 
 Patients should be counseled that antibacterial drugs including vancomycin hydrochloride for injection should only be used to treat bacterial infections.
 They do not treat viral infections (e.g., the common cold).

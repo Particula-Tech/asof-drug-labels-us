@@ -68,7 +68,7 @@ The creatinine clearance should be measured promptly.
 | Women: |  | 0.85 × above value |  |
 
 The serum creatinine must represent a steady state of renal function.
-Otherwise the estimated value for creatinine clearance is not valid.
+Otherwise, the estimated value for creatinine clearance is not valid.
 Such a calculated clearance is an overestimate of actual clearance in patients with conditions: (1) characterized by decreasing renal function, such as shock, severe heart failure, or oliguria; (2) in which a normal relationship between muscle mass and total body weight is not present, such as in obese patients or those with liver disease, edema, or ascites; and (3) accompanied by debilitation, malnutrition, or inactivity.
 The safety and efficacy of vancomycin administration by the intrathecal (intralumbar or intraventricular) routes have not been established.
 Intermittent infusion is the recommended method of administration.
@@ -81,9 +81,7 @@ The following diluents are physically and chemically compatible (with 4 g/L vanc
 - 5% Dextrose Injection and 0.9% Sodium Chloride Injection, USP
 - Lactated Ringer's Injection, USP
 - 5% Dextrose and Lactated Ringer's Injection
-- Normosol®-M and 5% Dextrose
 - 0.9% Sodium Chloride Injection, USP
-- Isolyte® E
 
 Good professional practice suggests that compounded admixtures should be administered as soon after preparation as is feasible.
 
@@ -98,12 +96,14 @@ At the time of use, reconstitute the vials of Vancomycin Hydrochloride for Injec
 | 500 mg | 10 mL |
 | 750 mg | 15 mL |
 | 1 g | 20 mL |
+| 1.5 g | 30 mL |
 
 After reconstitution, the vials may be stored in a refrigerator for 14 days without significant loss of potency.
 
 Reconstituted solutions of vancomycin (500 mg/10 mL) must be further diluted in at least 100 mL of a suitable infusion solution.
 For doses of 750 mg (15 mL), at least 150 mL of solution must be used.
 For doses of 1 gram (20 mL), at least 200 mL of solution must be used.
+For doses of 1.5 gram (30 mL), at least 300 mL of solution must be used.
 The desired dose diluted in this manner should be administered by intermittent IV infusion over a period of at least 60 minutes.
 
 ## Compatibility with Intravenous Fluids
@@ -111,11 +111,9 @@ The desired dose diluted in this manner should be administered by intermittent I
 Solutions that are diluted with 5% Dextrose Injection or 0.9% Sodium Chloride Injection may be stored in a refrigerator for 14 days without significant loss of potency.
 Solutions that are diluted with the following infusion fluids may be stored in a refrigerator for 96 hours:
 
-- 5% Dextrose Injection and 0.9% Sodium Chloride Injection USP
-- Lactated Ringer's Injection USP
-- Lactated Ringer's and 5% Dextrose Injection USP
-- Normosol®-M and 5% Dextrose
-- Isolyte® E
+- 5% Dextrose Injection and 0.9% Sodium Chloride Injection, USP
+- Lactated Ringer's Injection, USP
+- Lactated Ringer's and 5% Dextrose Injection, USP
 
 Vancomycin solution has a low pH and may cause chemical or physical instability when it is mixed with other compounds.
 
