@@ -19,6 +19,7 @@ What are telmisartan tablets?
 Telmisartan tablets are a prescription medicine used:
 
 - •to treat high blood pressure (hypertension)
+- •in certain high risk people aged 55 years and older to help lower their risk of having certain cardiovascular problems such as heart attack, or death
 
 It is not known if telmisartan tablets are safe and effective in children.
 
@@ -72,6 +73,8 @@ How should I take telmisartan tablets?
   If it is close to your next dose, do not take the missed dose.
   Take the next dose at your regular time.
 - •If you take too much telmisartan, call your doctor, or go to the nearest hospital emergency room right away.
+- •Read the “How to Open the Blister” at the end of this leaflet before you use telmisartan tablets.
+  Talk with your doctor if you do not understand the instructions.
 
 What are the possible side effects of telmisartan tablets?
 
@@ -153,6 +156,18 @@ Medicines that lower your blood pressure lower your chance of having a stroke or
 High blood pressure makes the heart work harder to pump blood throughout the body and causes damage to the blood vessels.
 If high blood pressure is not treated, it can lead to stroke, heart attack, heart failure, kidney failure, and vision problems.
 
+What is Cardiovascular Risk?
+
+Patients older than 55 years of age who have been diagnosed with blood vessel disease in the heart, legs, or brain (coronary, peripheral, or cerebral vascular disease) or diabetes with end organ damage (for example: kidney, heart, and brain) are at higher risk of cardiovascular events (for example: death from cardiovascular causes, and/or heart attack).
+
+How to open the blister:
+
+1.
+Tear (You may also use scissors to tear the blister apart)
+
+2.
+Push (Push the tablet through the foil)
+
 Trademarks are the property of their respective owners.
 
 Manufactured by:
@@ -166,4 +181,6 @@ Glenmark Pharmaceuticals Inc., USA Mahwah, NJ 07430
 Questions?
 1 (888) 721-7115 www.glenmarkpharma-us.com
 
-January 2021
+This Patient Information has been approved by the U.S. Food and Drug Administration.
+
+March 2021

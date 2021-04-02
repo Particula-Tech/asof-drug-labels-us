@@ -54,6 +54,12 @@ One telmisartan-treated patient discontinued therapy because of increases in cre
 Liver Enzymes: Occasional elevations of liver chemistries occurred in patients treated with telmisartan; all marked elevations occurred at a higher frequency with placebo.
 No telmisartan-treated patients discontinued therapy because of abnormal hepatic function.
 
+Cardiovascular Risk Reduction
+
+Because common adverse reactions were well characterized in studies of telmisartan in hypertension, only adverse events leading to discontinuation and serious adverse events were recorded in subsequent studies of telmisartan for cardiovascular risk reduction.
+In TRANSCEND (N=5926, 4 years and 8 months of follow-up), discontinuations for adverse events were 8.4% on telmisartan and 7.6% on placebo.
+The only serious adverse events at least 1% more common on telmisartan than placebo were intermittent claudication (7% vs 6%) and skin ulcer (3% vs 2%).
+
 ## 6.2 Postmarketing Experience
 
 The following adverse reactions have been identified during post-approval use of telmisartan.
