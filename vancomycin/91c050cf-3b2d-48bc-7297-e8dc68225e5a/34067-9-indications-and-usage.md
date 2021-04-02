@@ -22,4 +22,4 @@ In the absence of such data, local epidemiology and susceptibility patterns may 
 
 The parenteral form of vancomycin hydrochloride may be administered orally for treatment of antibiotic-associated pseudomembranous colitis produced by C. difficile and for staphylococcal enterocolitis.
 Parenteral administration of vancomycin hydrochloride alone is of unproven benefit for these indications.
-Vancomycin is not effective by the oral route for other types of infection.
+Vancomycin is not effective by the oral route for other types of infections.

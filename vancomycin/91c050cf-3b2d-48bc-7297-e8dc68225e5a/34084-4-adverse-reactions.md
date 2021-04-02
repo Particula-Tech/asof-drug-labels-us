@@ -39,17 +39,17 @@ Inflammation at the injection site has been reported.
 
 Miscellaneous
 
-Infrequently, patients have been reported to have had anaphylaxis, drug fever, nausea, chills, eosinophilia, rashes including exfoliative dermatitis, linear IgA bullous dermatosis, Stevens-Johnson syndrome, toxic epidermal necrolysis and vasculitis in association with the administration of vancomycin.
+Patients have been reported to have had anaphylaxis, drug fever, nausea, chills, eosinophilia, rashes including exfoliative dermatitis, Stevens-Johnson syndrome (see WARNINGS, Severe Dermatologic Reactions), and vasculitis in association with the administration of vancomycin.
 
 Chemical peritonitis has been reported following intraperitoneal administration (see PRECAUTIONS).
 
-POST MARKETING REPORTS
+Post Marketing Reports
 
 The following adverse reactions have been identified during post-approval use of vancomycin.
 Because these reactions are reported voluntarily from a population of uncertain size, it is not possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
 
 Skin and Subcutaneous Tissue Disorders
 
-Drug Rash with Eosinophilia and Systemic Symptoms (DRESS)
+Severe dermatologic reactions such as toxic epidermal necrolysis (TEN), drug reaction with eosinophilia and systemic symptoms (DRESS), acute generalized exanthematous pustulosis (AGEP), and linear IgA bullous dermatosis (LABD) (see WARNINGS, Severe Dermatologic Reactions).
 
 To report SUSPECTED ADVERSE EVENTS, contact FDA at 1-800-FDA-1088 or www.fda.gov.

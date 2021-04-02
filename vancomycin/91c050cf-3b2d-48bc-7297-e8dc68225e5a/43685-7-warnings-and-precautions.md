@@ -22,6 +22,13 @@ Vancomycin should be used with caution in patients with renal insufficiency beca
 
 Dosage of vancomycin hydrochloride for injection must be adjusted for patients with renal dysfunction (see PRECAUTIONS and DOSAGE AND ADMINISTRATION).
 
+Severe Dermatologic Reactions
+
+Severe dermatologic reactions such as toxic epidermal necrolysis (TEN), Stevens-Johnson syndrome (SJS), drug reaction with eosinophilia and systemic symptoms (DRESS), acute generalized exanthematous pustulosis (AGEP), and linear IgA bullous dermatosis (LABD) have been reported in association with the use of vancomycin.
+Cutaneous signs or symptoms reported include skin rashes, mucosal lesions, and blisters.
+
+Discontinue vancomycin hydrochloride for injection at the first appearance of signs and symptoms of TEN, SJS, DRESS, AGEP, or LABD.
+
 ## Clostridioides difficile Associated Diarrhea (CDAD)
 
 Clostridioides difficile associated diarrhea (CDAD) has been reported with use of nearly all antibacterial agents, including vancomycin hydrochloride for injection, and may range in severity from mild diarrhea to fatal colitis.
@@ -111,10 +118,15 @@ Vancomycin dosage schedules should be adjusted in elderly patients (see DOSAGE A
 
 ## Information for Patients
 
+Severe Dermatologic Reactions
+
+Advise patients about the signs and symptoms of serious skin manifestations.
+Instruct patients to stop vancomycin hydrochloride for injection immediately and promptly seek medical attention at the first signs or symptoms of skin rash, mucosal lesions, and blisters (see WARNINGS).
+
 Patients should be counseled that antibacterial drugs including vancomycin hydrochloride for injection, should only be used to treat bacterial infections.
 They do not treat viral infections (e.g., the common cold).
 When vancomycin hydrochloride for injection, is prescribed to treat a bacterial infection, patients should be told that although it is common to feel better early in the course of therapy, the medication should be taken exactly as directed.
-Skipping doses or not completing the full course of therapy may (1) decrease the effectiveness of the immediate treatment and (2) increase the likelihood that bacteria will develop resistance and will not be treatable by vancomycin hydrochloride for injection, or other antibacterial drugs in the future.
+Skipping doses or not completing the full course of therapy may (1) decrease the effectiveness of the immediate treatment and (2) increase the likelihood that bacteria will develop resistance and will not be treatable by vancomycin hydrochloride for injection or other antibacterial drugs in the future.
 
 Diarrhea is a common problem caused by antibiotics which usually ends when the antibiotic is discontinued.
 Sometimes after starting treatment with antibiotics, patients can develop watery and bloody stools (with or without stomach cramps and fever) even as late as two or more months after having taken the last dose of the antibiotic.

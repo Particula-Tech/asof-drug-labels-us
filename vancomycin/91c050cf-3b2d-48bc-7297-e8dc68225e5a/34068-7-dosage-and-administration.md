@@ -54,7 +54,7 @@ For such patients, an initial dose of 15 mg/kg of body weight should be given to
 The dose required to maintain stable concentrations is 1.9 mg/kg/24 h. In patients with marked renal impairment, it may be more convenient to give maintenance doses of 250 to 1,000 mg once every several days rather than administering the drug on a daily basis.
 In anuria, a dose of 1,000 mg every 7 to 10 days has been recommended.
 
-When only serum creatinine is known, the following formula (based on sex, weight and age of the patient) may be used to calculate creatinine clearance.
+When only serum creatinine is known, the following formula (based on sex, weight, and age of the patient) may be used to calculate creatinine clearance.
 Calculated creatinine clearances (mL/min) are only estimates.
 The creatinine clearance should be measured promptly.
 

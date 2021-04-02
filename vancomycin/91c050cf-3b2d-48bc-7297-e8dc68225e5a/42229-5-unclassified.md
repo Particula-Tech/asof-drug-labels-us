@@ -21,18 +21,29 @@ CAUTION: NOT TO BE DISPENSED AS A UNIT.
   If prompt fluid transfer cannot be accomplished, discard the contents no later than 4 HOURS after initial closure puncture.
   This time limit should begin with the introduction of solvent for diluent into the Pharmacy Bulk Package.
 
-Parenteral drug products should be inspected visually for particulate matter and discoloration prior to administration, whenever solution and container permit.
+Parenteral drug products should be visually inspected for particulate matter and discoloration prior to administration, whenever solution and container permit.
 
 Do not add supplementary medication to Vancomycin for Injection, USP.
 
 ## Preparation and Stability
 
+### 5 g Pharmacy Bulk Package Bottle
+
 At the time of use, reconstitute by adding 100 mL of Sterile Water for Injection to the 5 g Pharmacy Bulk Package bottle of dry, sterile vancomycin powder.
-The resultant solution will contain vancomycin equivalent to 500 mg/10 mL.
-FURTHER DILUTION IS REQUIRED.
+The resultant solution will contain vancomycin equivalent to 500 mg/10 mL (1 g/20 mL).
+AFTER RECONSTITUTION, FURTHER DILUTION IS REQUIRED.
 Reconstituted solutions of vancomycin (500 mg/10 mL) must be further diluted in at least 100 mL of a suitable infusion solution.
-Doses of 1 gram/20 mL must be further diluted in at least 200 mL of a suitable infusion solution.
-The desired dose diluted in this manner should be administered by intermittent intravenous infusion over a period of at least 60 minutes.
+Doses of 1 g/20 mL must be further diluted in at least 200 mL of a suitable infusion solution.
+The desired dose diluted in this manner should be administered by intermittent IV infusion over a period of at least 60 minutes.
+
+### 10 g Pharmacy Bulk Package Bottle
+
+At the time of use, reconstitute by adding 95 mL of Sterile Water for Injection to the 10 g Pharmacy Bulk Package bottle of dry, sterile vancomycin powder.
+The resultant solution will contain vancomycin equivalent to 500 mg/5 mL (1 g/10 mL).
+AFTER RECONSTITUTION, FURTHER DILUTION IS REQUIRED.
+Reconstituted solutions of vancomycin (500 mg/5 mL) must be further diluted in at least 100 mL of a suitable infusion solution.
+For doses of 1 g/10 mL, at least 200 mL of solution must be used.
+The desired dose diluted in this manner should be administered by intermittent IV infusion over a period of at least 60 minutes.
 
 Parenteral drug products should be visually inspected for particulate matter and discoloration prior to administration, whenever solution or container permits.
 
