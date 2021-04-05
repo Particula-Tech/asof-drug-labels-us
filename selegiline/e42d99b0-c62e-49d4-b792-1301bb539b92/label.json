@@ -1,0 +1,20 @@
+{
+  "application_numbers": [
+    "ANDA075352"
+  ],
+  "inn": "selegiline",
+  "labeler": "Novitium Pharma LLC",
+  "package_ndcs": [
+    "70954-504-10",
+    "70954-504-20"
+  ],
+  "products": [
+    {
+      "form": "CAPSULE",
+      "generic": "selegiline hydrochloride",
+      "name": "Selegiline Hydrochloride"
+    }
+  ],
+  "setid": "e42d99b0-c62e-49d4-b792-1301bb539b92",
+  "source": "dailymed"
+}
