@@ -44,7 +44,7 @@ Figure 3: IDNT: Kaplan-Meier Estimates of Primary Endpoint (Doubling of Serum Cr
 
 The percentages of patients experiencing an event during the course of the study can be seen in Table 1 below: Table 1: IDNT: Components of Primary Composite Endpoint
 
-|  | Irbesartan N=579 (%) | Comparison With Placebo |  |  | Comparison With Amlodipine |  |  |
+|  | Irbesartan N=579 (%) | ComparisonWithPlacebo |  |  | ComparisonWithAmlodipine |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | Placebo N=569 (%) | Hazard Ratio | 95% CI | Amlodipine N=567 (%) | Hazard Ratio | 95% CI |  |  |
 | Primary Composite Endpoint | 32.6 | 39.0 | 0.80 | 0.66-0.97 (p=0.0234) | 41.1 | 0.77 | 0.63-0.93 |
