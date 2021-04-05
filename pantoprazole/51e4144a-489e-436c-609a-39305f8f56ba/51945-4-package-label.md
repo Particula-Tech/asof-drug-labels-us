@@ -5,7 +5,7 @@ NDC 0008-0923-51
 PROTONIX® I.V.
 (pantoprazole sodium) for Injection
 
-40 mg
+40 mg/vial
 
 Sterile For Intravenous Infusion Only Single-dose vial
 
@@ -18,7 +18,7 @@ NDC 0008-0923-51
 PROTONIX® I.V.
 (pantoprazole sodium) for Injection
 
-40 mg
+40 mg/vial
 
 Sterile For Intravenous Infusion Only Single-dose vial
 
@@ -30,7 +30,7 @@ Pfizer Injectables
 
 Rx only
 
-# PRINCIPAL DISPLAY PANEL - 25 Vial Carton
+# PRINCIPAL DISPLAY PANEL - 25 Vial Carton Package
 
 NDC 0008-0923-60 Contains 25 of NDC 0008-0923-51
 
@@ -39,7 +39,7 @@ NDC 0008-0923-60 Contains 25 of NDC 0008-0923-51
 PROTONIX® I.V.
 (pantoprazole sodium) for Injection
 
-40 mg
+40 mg/vial
 
 Sterile For Intravenous Infusion Only Single-dose vial
 
@@ -47,7 +47,7 @@ Pfizer Injectables
 
 Rx only
 
-# PRINCIPAL DISPLAY PANEL - 10 Vial Carton Package Label
+# PRINCIPAL DISPLAY PANEL - 10 Unit Carton Bundle Label
 
 Each vial contains:
 
@@ -64,14 +64,14 @@ Dist. by Wyeth Pharmaceuticals LLC A subsidiary of Pfizer Inc Philadelphia, PA 1
 
 Under license from Takeda GmbH D78467 Konstanz, Germany MADE IN FRANCE
 
-14278102 R02/0518/ 6171032
+R03/1020/ 6171032
 
 1 Bundle of 10 unit cartons NDC 0008-0923-55
 
 PROTONIX® I.V.
 (pantoprazole sodium) for Injection
 
-40 mg
+40 mg/vial
 
 Sterile For Intravenous Infusion Only Single-dose vial
 
