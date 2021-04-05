@@ -31,7 +31,7 @@ Because these reactions are reported voluntarily from a population of uncertain 
 | Nervous System Disorders | convulsions, drowsiness, dysarthria, fasciculation, loss of consciousness, miosis, visual changes |
 | Cardiovascular Disorders | cardiac arrest, cardiac arrhythmias (A-V block, nodal rhythm), hypotension, nonspecific EKG changes, syncope |
 | Respiratory, Thoracic and Mediastinal Disorders | bronchospasm; increased oral, pharyngeal and bronchial secretions; respiratory arrest; respiratory depression |
-| Skin and Subcutaneous Tissue Disorders | rash, urticaria |
+| Skin and Sub-cutaneous Tissue Disorders | rash, urticaria |
 | Gastrointestinal Disorders | bowel cramps, diarrhea, flatulence, increased peristalsis |
 | Renal and Urinary Disorders | urinary frequency |
 | Musculoskeletal and Connective Tissue Disorders | arthralgia, muscle cramps, spasms, weakness |

@@ -3,13 +3,13 @@
 Neostigmine methylsulfate injection, USP is a clear, colorless, sterile, nonpyrogenic solution intended for intravenous use.
 It is available as follows:
 
-0.5 mg/mL:
+5 mg/10 mL (0.5 mg/mL):
 
 10 mL, Multiple-Dose Vial: NDC 70121-1478-1
 
 10 Vials in a Carton: NDC 70121-1478-7
 
-1 mg/mL:
+10 mg/10 mL (1 mg/mL):
 
 10 mL, Multiple-Dose Vial: NDC 70121-1479-1
 
@@ -37,4 +37,4 @@ Amneal Pharmaceuticals LLC
 Bridgewater, NJ 08807
 
 Rev.
-09-2020-02
+02-2021-03

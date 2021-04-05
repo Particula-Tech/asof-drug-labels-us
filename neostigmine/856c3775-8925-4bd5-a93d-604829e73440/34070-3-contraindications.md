@@ -3,4 +3,4 @@
 Neostigmine methylsulfate is contraindicated in patients with:
 
 - known hypersensitivity to neostigmine methylsulfate (known hypersensitivity reactions have included urticaria, angioedema, erythema multiforme, generalized rash, facial swelling, peripheral edema, pyrexia, flushing, hypotension, bronchospasm, bradycardia and anaphylaxis).
-- with peritonitis or mechanical obstruction of the intestinal or urinary tract.
+- peritonitis or mechanical obstruction of the intestinal or urinary tract.
