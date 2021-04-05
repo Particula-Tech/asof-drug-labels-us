@@ -17,7 +17,7 @@ For patients with type 2 diabetes, dosage adjustments of concomitant anti-diabet
 
 ## 5.3 Hypoglycemia
 
-Hypoglycemia is the most common adverse effect of all insulin therapies, including NOVOLOG.
+Hypoglycemia is the most common adverse effect of all insulins, including NOVOLOG.
 Severe hypoglycemia can cause seizures, may lead to unconsciousness, may be life threatening or cause death.
 Hypoglycemia can impair concentration ability and reaction time; this may place an individual and others at risk in situations where these abilities are important (e.g., driving or operating other machinery).
 
@@ -27,8 +27,9 @@ Symptomatic awareness of hypoglycemia may be less pronounced in patients with lo
 Risk Factors for Hypoglycemia
 
 The risk of hypoglycemia after an injection is related to the duration of action of the insulin and, in general, is highest when the glucose lowering effect of the insulin is maximal.
-As with all insulin preparations, the glucose lowering effect time course of NOVOLOG may vary in different individuals or at different times in the same individual and depends on many conditions, including the area of injection as well as the injection site blood supply and temperature [see Clinical Pharmacology (12.2)].
-Other factors which may increase the risk of hypoglycemia include changes in meal pattern (e.g., macronutrient content or timing of meals), changes in level of physical activity, or changes to co-administered medication [see Drug Interactions (7)].Patients with renal or hepatic impairment may be at higher risk of hypoglycemia [see Use in Specific Populations (8.6, 8.7)].
+As with all insulins, the glucose lowering effect time course of NOVOLOG may vary in different individuals or at different times in the same individual and depends on many conditions, including the area of injection as well as the injection site blood supply and temperature [see Clinical Pharmacology (12.2)].
+Other factors which may increase the risk of hypoglycemia include changes in meal pattern (e.g., macronutrient content or timing of meals), changes in level of physical activity, or changes to co-administered medication [see Drug Interactions (7)].
+Patients with renal or hepatic impairment may be at higher risk of hypoglycemia [see Use in Specific Populations (8.6, 8.7)].
 
 Risk Mitigation Strategies for Hypoglycemia
 
@@ -38,18 +39,18 @@ In patients at higher risk for hypoglycemia and patients who have reduced sympto
 
 ## 5.4 Hypoglycemia Due to Medication Errors
 
-Accidental mix-ups between NOVOLOG and other insulin products have been reported.
+Accidental mix-ups between insulin products have been reported.
 To avoid medication errors between NOVOLOG and other insulins, instruct patients to always check the insulin label before each injection.
 
-## 5.5 Hypersensitivity and Allergic Reactions
+## 5.5 Hypersensitivity Reactions
 
-Severe, life-threatening, generalized allergy, including anaphylaxis, can occur with insulin products, including NOVOLOG.
+Severe, life-threatening, generalized allergy, including anaphylaxis, can occur with insulins, including NOVOLOG.
 If hypersensitivity reactions occur, discontinue NOVOLOG; treat per standard of care and monitor until symptoms and signs resolve [see Adverse Reactions (6)].
 NOVOLOG is contraindicated in patients who have had hypersensitivity reactions to insulin aspart or one of the excipients [see Contraindications (4)].
 
 ## 5.6 Hypokalemia
 
-All insulin products, including NOVOLOG, can cause a shift in potassium from the extracellular to intracellular space, possibly leading to hypokalemia.
+All insulins, including NOVOLOG, can cause a shift in potassium from the extracellular to intracellular space, possibly leading to hypokalemia.
 Untreated hypokalemia may cause respiratory paralysis, ventricular arrhythmia, and death.
 Monitor potassium levels in patients at risk for hypokalemia if indicated (e.g., patients using potassium-lowering medications, patients taking medications sensitive to serum potassium concentration).
 

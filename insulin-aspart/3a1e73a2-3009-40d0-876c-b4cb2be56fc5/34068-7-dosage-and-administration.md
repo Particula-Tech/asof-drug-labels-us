@@ -16,7 +16,7 @@ Subcutaneous Injection
 
 - •Inject NOVOLOG subcutaneously within 5-10 minutes before a meal into the abdominal area, thigh, buttocks or upper arm.
 - •Rotate injection sites within the same region from one injection to the next to reduce the risk of lipodystrophy and localized cutaneous amyloidosis.
-  Do not inject into areas of lipodystrophy or localized cutaneous amyloidosis [see Warnings and Precautions (5.2) and Adverse Reactions (6.1,6.3)].
+  Do not inject into areas of lipodystrophy or localized cutaneous amyloidosis [see Warnings and Precautions (5.2) and Adverse Reactions (6.1, 6.3)].
 - •During changes to a patient’s insulin regimen, increase the frequency of blood glucose monitoring [see Warnings and Precautions (5.2)].
 - •The NOVOLOG FlexPen and FlexTouch dial in 1-unit increments.
 - •NOVOLOG administered by subcutaneous injection should generally be used in regimens with an intermediate- or long-acting insulin.
@@ -41,7 +41,7 @@ Continuous Subcutaneous Infusion (Insulin Pump)
 Intravenous Administration
 
 - •Dilute NOVOLOG to concentrations from 0.05 unit/mL to 1 unit/mL insulin aspart in infusion systems using polypropylene infusion bags.
-  NOVOLOG is stable in infusion fluids such as 0.9% sodium chloride.
+  NOVOLOG is stable in infusion fluids such as 0.9% Sodium Chloride Injection, USP.
 - •Administer NOVOLOG intravenously ONLY under medical supervision with close monitoring of blood glucose and potassium levels to avoid hypoglycemia and hypokalemia [see Warnings and Precautions (5.3, 5.6) and How Supplied/Storage and Handling (16.2)].
 
 ## 2.3 Dosage Information

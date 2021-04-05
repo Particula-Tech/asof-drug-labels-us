@@ -29,23 +29,10 @@ Hypersensitivity Reactions
 Advise patients that hypersensitivity reactions have occurred with NOVOLOG.
 Inform patients of the symptoms of hypersensitivity reactions [see Warnings and Precautions (5.4)].
 
-Administration
-
-NOVOLOG must only be used if the solution is clear and colorless with no particles visible.
-Instruct patients that when injecting NOVOLOG, they must press and hold down the dose button until the dose counter shows 0 and then keep the needle in the skin and count slowly to 6 as the prescribed dose is not completely delivered until 6 seconds later.
-If the needle is removed earlier, the full dose may not be delivered (a possible under-dose may occur by as much as 20%).
-Inform the patient to increase the frequency of checking their blood glucose and that possible additional insulin administration may be necessary.
-
-If 0 does not appear in the dose counter after continuously pressing the dose button, the patient may have used a blocked needle.
-In this case they would not have received any insulin – even though the dose counter has moved from the original dose that was set.
-Instruct the patient to change the needle as described in Section 5 of the Instructions for Use and repeat all steps in the IFU starting with Section 1: Prepare your pen with a new needle.
-Make sure the patient selects the full dose needed.
-
 Patients Using Continuous Subcutaneous Insulin Pumps
 
 - •Train patients in both intensive insulin therapy with multiple injections and in the function of their pump and pump accessories.
 - •Instruct patients to replace insulin in the reservoir at least every 6 days; infusion sets and infusion set insertion sites should be changed at least every 3 days.
-  By following this schedule, patients avoid insulin degradation, infusion set occlusion, and loss of the insulin preservative.
   NOVOLOG is recommended for use in any reservoir and infusion sets that are compatible with insulin and the specific pump.
   Please see recommended reservoir and infusion sets in the pump manual.
 - •Instruct patients to discard insulin exposed to temperatures higher than 37°C (98.6°F).
@@ -59,21 +46,29 @@ Before using an insulin pump with NOVOLOG, read the pump label to make sure the 
 
 Rx only
 
-Date of Issue: 11/2019
+Date of Issue: 03/2021
 
-Version: 27
+Version: 28
 
 Novo Nordisk®, NOVOLOG®, PenFill®, Novolin®, FlexPen®, FlexTouch®, NovoFine®, and NovoTwist® are registered trademarks of Novo Nordisk A/S.
 
-Patent Information: http://novonordisk-us.com/patients/products/product-patents.html
+ReliOn® is a registered trademark of Walmart Inc. and is used under license by Novo Nordisk Inc.
 
-© 2019 Novo Nordisk
+Patent Information: http://novonordisk-us.com/products/product-patents.html
+
+© 2021 Novo Nordisk
 
 Manufactured by:
 
-Novo Nordisk A/S
+Novo Nordisk Inc.
 
-DK-2880 Bagsvaerd, Denmark
+800 Scudders Mill Road
+
+Plainsboro, NJ 08536
+
+1-800-727-6500
+
+U.S. License Number 1261
 
 For information about NOVOLOG contact:
 
@@ -81,8 +76,8 @@ Novo Nordisk Inc.
 
 800 Scudders Mill Road
 
-Plainsboro, New Jersey 08536
+Plainsboro, NJ 08536
 
-1-800-727-6500
+1-800-727-6500 (Se Habla español)
 
 www.novonordisk-us.com

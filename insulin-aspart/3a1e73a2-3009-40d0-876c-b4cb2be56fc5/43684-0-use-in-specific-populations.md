@@ -27,9 +27,7 @@ Data
 Human Data
 
 Published data from 5 randomized controlled trials of 441 pregnant women with diabetes mellitus treated with insulin aspart during the late 2nd trimester of pregnancy did not identify an association of insulin aspart with major birth defects or adverse maternal or fetal outcomes.
-However, these studies cannot definitely establish the absence of any risk because of methodological limitations, including a variable duration of treatment and small size of the
-
-majority of the trials.
+However, these studies cannot definitely establish the absence of any risk because of methodological limitations, including a variable duration of treatment and small size of the majority of the trials.
 
 Animal Data
 
@@ -54,9 +52,8 @@ The developmental and health benefits of breastfeeding should be considered alon
 
 ## 8.4 Pediatric Use
 
-NOVOLOG is approved for use in children for subcutaneous daily injections and for subcutaneous continuous infusion by external insulin pump [see Clinical Studies (14.1, 14.2)].
-NOVOLOG has not been studied in pediatric patients younger than 2 years of age.
-NOVOLOG has not been studied in pediatric patients with type 2 diabetes.
+The safety and effectiveness of NOVOLOG to improve glycemic control have been established in pediatric patients.
+Use of NOVOLOG for this indication is supported by evidence from an adequate and well-controlled study in 283 pediatric patients with type 1 diabetes mellitus aged 6 to 18 years and from studies in adults with diabetes mellitus [see Adverse Reactions (6.1), Clinical Pharmacology (12.3), and Clinical Studies (14)].
 
 ## 8.5 Geriatric Use
 

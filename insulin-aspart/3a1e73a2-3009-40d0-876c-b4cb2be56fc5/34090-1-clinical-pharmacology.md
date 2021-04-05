@@ -2,7 +2,7 @@
 
 ## 12.1 Mechanism of Action
 
-The primary activity of insulin, including NOVOLOGis the regulation of glucose metabolism.
+The primary activity of insulin, including NOVOLOG is the regulation of glucose metabolism.
 Insulin and its analogs lower blood glucose by stimulating peripheral glucose uptake, especially by skeletal muscle and fat, and by inhibiting hepatic glucose production.
 Insulin inhibits lipolysis and proteolysis, and enhances protein synthesis.
 
@@ -13,7 +13,7 @@ Subcutaneous administration
 The pharmacodynamic profile of NOVOLOG given subcutaneously in 22 patients with type 1 diabetes is shown in Figure 2.
 The maximum glucose-lowering effect of NOVOLOG occurred between 1 and 3 hours after subcutaneous injection (0.15 units/kg).
 The duration of action for NOVOLOG is 3 to 5 hours.
-The time course of action of insulin and insulin analogs such as NOVOLOG may vary considerably in different individuals orwithin the same individual.
+The time course of action of insulin and insulin analogs such as NOVOLOG may vary considerably in different individuals or within the same individual.
 The parameters of NOVOLOG activity (time of onset, peak time and duration) as designated in Figure 2 should be considered only as general guidelines.
 The rate of insulin absorption and onset of activity is affected by the site of injection, exercise, and other variables [see Warnings and Precautions (5.3)].
 
@@ -43,24 +43,24 @@ Metabolism and Elimination
 In a randomized, double-blind, crossover study 17 healthy Caucasian male subjects between 18 and 40 years of age received an intravenous infusion of either NOVOLOG or regular human insulin at 1.5 mU/kg/min for 120 minutes.
 The mean insulin clearance was similar for the two groups with mean values of 1.2 L/h/kg for the NOVOLOG group and 1.2 L/h/kg for the regular human insulin group.
 
-After subcutaneous administration in normal malevolunteers (n=24), NOVOLOG was eliminated with an average apparent half-life of 81 minutes.
+After subcutaneous administration in normal male volunteers (n=24), NOVOLOG was eliminated with an average apparent half-life of 81 minutes.
 
 Specific Populations
 
-Pediatrics - Thepharmacokinetic and pharmacodynamic properties of NOVOLOG and regular humaninsulin were evaluated in asingle dose study in 18 children (6-12 years, n=9) and adolescents (13-17 years [Tanner grade ≥ 2], n=9) with type 1 diabetes.
-The relative differences in pharmacokinetics and pharmacodynamics in children and adolescents with type 1 diabetes between NOVOLOG and regular human insulin were similar to those in healthy adult subjects and adults with type 1 diabetes.
+Pediatrics - The pharmacokinetic and pharmacodynamic properties of NOVOLOG and regular human insulin were evaluated in a single dose study in 18 pediatric patients with type 1 diabetes in 2 age groups: 6-12 years, n=9 and 13-17 years (Tanner grade ≥ 2), n=9.
+The relative differences in pharmacokinetics and pharmacodynamics in the pediatric patients with type 1 diabetes in both age groups between NOVOLOG and regular human insulin were similar to those in healthy adult subjects and adults with type 1 diabetes.
 
 Geriatrics: The pharmacokinetic and pharmacodynamic properties of NOVOLOG and regular human insulin were investigated in a single dose study in 18 subjects with type 2 diabetes who were ≥ 65 years of age.
 The relative differences in pharmacokinetics and pharmacodynamics in geriatric patients with type 2 diabetes between NOVOLOG and regular human insulin were similar to those in younger adults.
 
-Gender: Inhealthy volunteers given a single subcutaneous dose of NOVOLOG 0.06 units/kg, no difference in insulin aspart levels was seen between men and women based on comparison of AUC (0-10h) or Cmax.
+Gender: In healthy volunteers given a single subcutaneous dose of NOVOLOG 0.06 units/kg, no difference in insulin aspart levels was seen between men and women based on comparison of AUC (0-10h) or Cmax.
 
 Obesity: A single subcutaneous dose of 0.1 units/kg NOVOLOG was administered in a study of 23 patients with type 1 diabetes and a wide range of body mass index (BMI, 22-39 kg/m2).
-The pharmacokinetic parameters, AUC and Cmax, of NOVOLOG were generally unaffected by BMI in the different groups – BMI 19-23 kg/m2 (N=4); BMI 23-27 kg/m2 (N=7); BMI 27-32 kg/m2 (N=6) and BMI >32 kg/m2 (N=6).
+The pharmacokinetic parameters, AUC and Cmax, of NOVOLOG were generally unaffected by BMI in the different groups – BMI 19-23 kg/m2 (n=4); BMI 23-27 kg/m2 (n=7); BMI 27-32 kg/m2 (n=6) and BMI >32 kg/m2 (n=6).
 Clearance of NOVOLOG was reduced by 28% in patients with BMI >32 kg/m2 compared to patients with BMI <23 kg/m2.
 
-Renal Impairment: A single subcutaneous dose of 0.08 units/kg NOVOLOG was administered in a study to subjects with either normal renal function (N=6) creatinine clearance (CLcr) (> 80 ml/min) or mild (N=7; CLcr = 50-80 ml/min), moderate (N=3; CLcr = 30-50 ml/min) or severe (but not requiring hemodialysis) (N=2; CLcr = <30 ml/min) renal impairment.
+Renal Impairment: A single subcutaneous dose of 0.08 units/kg NOVOLOG was administered in a study to subjects with either normal renal function (n=6) creatinine clearance (CLcr) (> 80 ml/min) or mild (n=7; CLcr = 50-80 ml/min), moderate (n=3; CLcr = 30-50 ml/min) or severe (but not requiring hemodialysis) (n=2; CLcr = <30 ml/min) renal impairment.
 In this study, there was no apparent effect of creatinine clearance values on AUC and Cmax of NOVOLOG.
 
-Hepatic Impairment: A single subcutaneous dose of 0.06 units/kg NOVOLOG was administered in an open-label, single-dose study of 24 subjects (N=6/group) with different degree of hepatic impairment (mild, moderate and severe) having Child-Pugh Scores ranging from 0 (healthy volunteers) to 12 (severe hepatic impairment).
+Hepatic Impairment: A single subcutaneous dose of 0.06 units/kg NOVOLOG was administered in an open-label, single-dose study of 24 subjects (n=6/group) with different degree of hepatic impairment (mild, moderate and severe) having Child-Pugh Scores ranging from 0 (healthy volunteers) to 12 (severe hepatic impairment).
 In this study, there was no correlation between the degree of hepatic impairment and any NOVOLOG pharmacokinetic parameter.

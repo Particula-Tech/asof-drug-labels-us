@@ -2,8 +2,9 @@
 
 1. The following adverse reactions are also discussed elsewhere:
 2. •Hypoglycemia [see Warnings and Precautions (5.3)]
-3. •Hypersensitivity and allergic reactions [see Warnings and Precautions (5.5)]
-4. •Hypokalemia [see Warnings and Precautions (5.6)]
+3. •Hypoglycemia Due to Medication Errors [see Warnings and Precautions (5.4)]
+4. •Hypersensitivity reactions [see Warnings and Precautions (5.5)]
+5. •Hypokalemia [see Warnings and Precautions (5.6)]
 
 ## 6.1 Clinical Trial Experience
 
@@ -50,11 +51,11 @@ Table 2: Adverse reactions occurring in ≥ 5% of Type 2 Diabetes Mellitus Adult
 
 Severe hypoglycemia
 
-Hypoglycemia is the most commonly observed adverse reaction in patients using insulin, including NOVOLOG [see Warnings and Precautions (5.3)].
+Hypoglycemia is the most commonly observed adverse reaction in patients using insulin, including NOVOLOG.
 The rates of reported hypoglycemia depend on the definition of hypoglycemia used, diabetes type, insulin dose, intensity of glucose control, background therapies, and other intrinsic and extrinsic patient factors.
 For these reasons, comparing rates of hypoglycemia in clinical trials for NOVOLOG with the incidence of hypoglycemia for other products may be misleading and also, may not be representative of hypoglycemia rates that will occur in clinical practice.
 
-Severehypoglycemia was defined as hypoglycemia associated with central nervous system symptoms and requiring the intervention of another person or hospitalization.
+Severe hypoglycemia was defined as hypoglycemia associated with central nervous system symptoms and requiring the intervention of another person or hospitalization.
 
 The incidence of severe hypoglycemia in adult and pediatric patients receiving subcutaneous NOVOLOG with type 1 diabetes mellitus was 17% at 24 weeks and 6% at 24 weeks, respectively [see Clinical Studies (14)].
 
@@ -66,9 +67,9 @@ No severe hypoglycemic episodes were reported in adult patients with type 2 diab
 
 Allergic Reactions
 
-Some patients taking insulin therapy, including NOVOLOG have experienced erythema, local edema, and pruritus at the site of injection.
+Some patients taking insulin, including NOVOLOG have experienced erythema, local edema, and pruritus at the site of injection.
 These conditions were usually self-limiting.
-Severe cases of generalized allergy (anaphylaxis) have been reported [see Warnings and Precautions (5.5)].
+Severe cases of generalized allergy (anaphylaxis) have been reported.
 
 Insulin initiation and glucose control intensification
 
@@ -81,11 +82,11 @@ Administration of insulin, including NOVOLOG, subcutaneously and via subcutaneou
 
 Peripheral Edema
 
-Insulin products, including NOVOLOG, may cause sodium retention and edema, particularly if previously poor metabolic control is improved by intensified insulin therapy.
+Insulins, including NOVOLOG, may cause sodium retention and edema, particularly if previously poor metabolic control is improved by intensified insulin therapy.
 
 Weight gain
 
-Weight gain has occurred with some insulin therapies including NOVOLOG and has been attributed to the anabolic effects of insulin and the decrease in glucosuria.
+Weight gain has occurred with insulins, including NOVOLOG, and has been attributed to the anabolic effects of insulin and the decrease in glucosuria.
 
 ## 6.2 Immunogenicity
 
@@ -105,7 +106,7 @@ These antibodies did not cause deterioration in glycemic control or necessitate 
 The following adverse reactions have been identified during post-approval use of NOVOLOG.
 Because these adverse reactions are reported voluntarily from a population of uncertain size, it is generally not possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
 
-Medication errors have been reported in which other insulins have been accidentally substituted for NOVOLOG [see Warnings and Precautions (5.4)].
+Medication errors have been reported in which other insulins have been accidentally substituted for NOVOLOG.
 
 Localized cutaneous amyloidosis at the injection site has occurred with insulin aspart.
 Hyperglycemia has been reported with repeated insulin injections into areas of localized cutaneous amyloidosis; hypoglycemia has been reported with a sudden change to an unaffected injection site.

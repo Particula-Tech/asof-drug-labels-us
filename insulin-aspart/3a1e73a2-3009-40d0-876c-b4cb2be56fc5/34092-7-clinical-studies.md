@@ -2,17 +2,17 @@
 
 ## 14.1 Overview of Clinical Studies
 
-The safety and effectiveness of subcutaneous NOVOLOG was compared to regular human insulin in 596 type 1 diabetes adult, 187 pediatric type 1 diabetes, and 91 adult type 2 diabetes patients using NPH as basal insulin (see Tables 3, 4, 5).
+The safety and effectiveness of subcutaneous NOVOLOG were compared to regular human insulin in 596 type 1 diabetes adult, 187 pediatric type 1 diabetes, and 91 adult type 2 diabetes patients using NPH as basal insulin (see Tables 3, 4, 5).
 The reduction in glycated hemoglobin (HbA1c) was similar to regular human insulin.
 
-The safety and effectiveness of NOVOLOG administered by continuous subcutaneous insulin infusion (CSII) by external pump was compared to buffered regular human insulin (administered by CSII), to lispro (administered by CSII) and compared to NOVOLOG injections and NPH injection.
+The safety and effectiveness of NOVOLOG administered by continuous subcutaneous insulin infusion (CSII) by external pump were compared to buffered regular human insulin (administered by CSII), to lispro (administered by CSII) and compared to NOVOLOG injections and NPH injection.
 Overall, the reduction in HbA1c was similar to the comparator.
 
 ## 14.2 Clinical Studies in Adult and Pediatric Patients with Type 1 Diabetes and Subcutaneous Daily Injections
 
 Type 1 Diabetes – Adults (see Table 3)
 
-Two 24 week, open‑label, active-controlled studies were conducted to compare the safety and efficacy of NOVOLOG to regular human insulin injection in adult patients with type 1 diabetes.
+Two 24-week, open‑label, active-controlled studies were conducted to compare the safety and efficacy of NOVOLOG to regular human insulin injection in adult patients with type 1 diabetes.
 Because the two study designs and results were similar, data are shown for only one study (see Table 3).
 
 The mean age of the trial population was 38.9 years and mean duration of diabetes was 15.7 years.
@@ -27,7 +27,7 @@ Changes in HbA1c were comparable for the two treatment regimens in this study (T
 Table 3.
 Type 1 Diabetes Mellitus – Adult (NOVOLOG plus NPH insulin vs. regular human insulin plus NPH insulin)
 
-|  | NOVOLOG + NPH(N=596) | Regular Human Insulin+ NPH(N=286) |
+|  | NOVOLOG + NPH(n=596) | Regular Human Insulin+ NPH(n=286) |
 | --- | --- | --- |
 | Baseline HbA1c (%)* | 7.9 ±1.1 | 8.0 ± 1.2 |
 | Change from Baseline HbA1c (%) | -0.1 ± 0.8 | 0.0 ± 0.8 |
@@ -38,16 +38,16 @@ Type 1 Diabetes Mellitus – Adult (NOVOLOG plus NPH insulin vs. regular human i
 Type 1 Diabetes – Pediatric (see Table 4)
 
 The efficacy of NOVOLOG to improve glycemic control in pediatric patients with type 1 diabetes mellitus is based on an adequate and well-controlled trial of regular human insulin in pediatric patients with type 1 diabetes mellitus (Table 4).
-This 24-week, parallel-group study of children and adolescents with type 1 diabetes (n = 283), aged 6 to 18 years, compared two subcutaneous multiple-dose treatment regimens: NOVOLOG (n=187) or regular human insulin (n=96).
+This 24-week, parallel-group study of pediatric patients with type 1 diabetes (n = 283), aged 6 to 18 years, compared two subcutaneous multiple-dose treatment regimens: NOVOLOG (n=187) or regular human insulin (n=96).
 NPH insulin was administered as the basal insulin.
 Similar effects on HbA1c were observed in both treatment groups (Table 4).
 
-Subcutaneous administration of NOVOLOG and regular human insulin have also been compared in children with type 1 diabetes (n=26) aged 2 to 6 years with similar effects on HbA1c.
+Subcutaneous administration of NOVOLOG and regular human insulin have also been compared in pediatric patients with type 1 diabetes (n=26) aged 2 to 6 years with similar effects on HbA1c.
 
 Table 4.
 Pediatric Subcutaneous Administration of NOVOLOG in Type 1 Diabetes (24 weeks; n=283)
 
-|  | NOVOLOG + NPH(N=187) | Regular Human Insulin+ NPH(N=96) |
+|  | NOVOLOG + NPH(n=187) | Regular Human Insulin+ NPH(n=96) |
 | --- | --- | --- |
 | Baseline HbA1c (%)* | 8.3 ± 1.2 | 8.3 ± 1.3 |
 | Change from Baseline HbA1c (%) | 0.1± 1.0 | 0.1± 1.1 |
@@ -59,21 +59,21 @@ Pediatric Subcutaneous Administration of NOVOLOG in Type 1 Diabetes (24 weeks; n
 
 Type 2 Diabetes - Adults (see Table 5)
 
-Onesix-month, open-label, active-controlled study was conducted to compare the safety and efficacy of NOVOLOG to regular human insulin in patients with type 2 diabetes (Table 5).
+One six-month, open-label, active-controlled study was conducted to compare the safety and efficacy of NOVOLOG to regular human insulin in patients with type 2 diabetes (Table 5).
 
 The mean age of the trial population was 56.6 years and mean duration of diabetes was 12.7 years.
 Sixty-three percent were male.
 Seventy-six percent were Caucasian, 9% were Black and 15% were Other.
 The mean BMI was approximately 29.7 kg/m2.
 
-NOVOLOG was administered by subcutaneous injection immediately prior to meals and regular human insulin was administered by subcutaneous injection30 minutes before meals.
+NOVOLOG was administered by subcutaneous injection immediately prior to meals and regular human insulin was administered by subcutaneous injection 30 minutes before meals.
 NPH insulin was administered as the basal insulin in either single or divided daily doses.
 Changes in HbA1c were comparable for the two treatment regimens.
 
 Table 5.
 Subcutaneous NOVOLOG Administration in Type 2 Diabetes (6 months; n=176)
 
-|  | NOVOLOG + NPH(N=90) | Regular Human Insulin + NPH(N=86) |
+|  | NOVOLOG + NPH(n=90) | Regular Human Insulin + NPH(n=86) |
 | --- | --- | --- |
 | Baseline HbA1c (%)* | 8.1 ± 1.2 | 7.8 ± 1.1 |
 | Change from Baseline HbA1c (%) | -0.3 ± 1.0 | -0.1 ± 0.8 |
@@ -96,7 +96,7 @@ The two treatment regimens had comparable changes in HbA1c.
 Table 6.
 Adult Insulin Pump Study in Type 1 Diabetes (16 weeks; n=118)
 
-|  | NOVOLOG(N=59) | Buffered human insulin(N=59) |
+|  | NOVOLOG(n=59) | Buffered human insulin(n=59) |
 | --- | --- | --- |
 | Baseline HbA1c (%)* | 7.3 ± 0.7 | 7.5 ± 0.8 |
 | Change from Baseline HbA1c (%) | 0.0 ± 0.5 | 0.2 ± 0.6 |
@@ -106,13 +106,13 @@ Adult Insulin Pump Study in Type 1 Diabetes (16 weeks; n=118)
 
 Type 1 Diabetes – Pediatric (see Table 7)
 
-A randomized, 16-week, open-label, parallel design study of children and adolescents with type 1 diabetes (n=298) aged 4-18 years compared two subcutaneous infusion regimens administered via an external insulin pump: NOVOLOG (n=198) or insulin lispro (n=100).
+A randomized, 16-week, open-label, parallel design study of pediatric patients with type 1 diabetes (n=298) aged 4-18 years compared two subcutaneous infusion regimens administered via an external insulin pump: NOVOLOG (n=198) or insulin lispro (n=100).
 These two treatments resulted in comparable changes from baseline in HbA1c (see Table 7).
 
 Table 7.
 Pediatric Insulin Pump Study in Type 1 Diabetes (16 weeks; n=298)
 
-|  | NOVOLOG(N=198) | Lispro(N=100) |
+|  | NOVOLOG(n=198) | Lispro(n=100) |
 | --- | --- | --- |
 | Baseline HbA1c (%)* | 8.0 ± 0.9 | 8.2 ± 0.8 |
 | Change from Baseline HbA1c (%) | -0.1 ± 0.8 | -0.1 ± 0.7 |
@@ -136,7 +136,7 @@ The two treatment groups had similar reductions in HbA1c (Table 8).
 Table 8.
 Pump Therapy in Type 2 Diabetes (16 weeks; n=127)
 
-|  | NOVOLOG pump(N=66) | NOVOLOG + NPH(N=61) |
+|  | NOVOLOG pump(n=66) | NOVOLOG + NPH(n=61) |
 | --- | --- | --- |
 | Baseline HbA1c (%)* | 8.2 ± 1.4 | 8.0 ± 1.1 |
 | Change from Baseline HbA1c (%) | -0.6 ± 1.1 | -0.5 ± 0.9 |
