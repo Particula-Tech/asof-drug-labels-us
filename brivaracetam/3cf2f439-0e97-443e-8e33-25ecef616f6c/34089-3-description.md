@@ -31,4 +31,4 @@ Injection
 BRIVIACT injection is a clear, colorless liquid provided as a sterile, preservative-free solution.
 BRIVIACT injection contains 10 mg brivaracetam per mL for intravenous administration.
 One vial contains 50 mg of brivaracetam drug substance.
-It contains the following inactive ingredients: sodium acetate (trihydrate), glacial acetic acid (for pH adjustment to 5.5), sodium chloride, and water for injection.
+It contains the following inactive ingredients: sodium acetate, trihydrate (1.64 mg/mL), glacial acetic acid (for pH adjustment to 5.5), sodium chloride (9.00 mg/mL), and water for injection.

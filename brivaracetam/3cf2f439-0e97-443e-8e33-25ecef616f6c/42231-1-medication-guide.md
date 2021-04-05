@@ -151,13 +151,13 @@ The tablet film coating contains the inactive ingredients listed below:
 
 Oral solution inactive ingredients: sodium citrate, anhydrous citric acid, methylparaben, sodium carboxymethylcellulose, sucralose, sorbitol solution, glycerin, raspberry flavor, and purified water.
 
-Injection inactive ingredients: sodium acetate (trihydrate), glacial acetic acid, sodium chloride, and water for injection.
+Injection inactive ingredients: sodium acetate, trihydrate (1.64 mg/mL), glacial acetic acid (for pH adjustment to 5.5), sodium chloride (9.00 mg/mL), and water for injection.
 
 Manufactured for UCB, Inc., Smyrna, GA 30080.
 
-BRIVIACT® is a registered trademark of the UCB Group of Companies. ©2018, UCB, Inc., Smyrna, GA 30080.
+BRIVIACT® is a registered trademark of the UCB Group of Companies. ©2021, UCB, Inc., Smyrna, GA 30080.
 All rights reserved.
 
 For more information, go to www.BRIVIACT.com or call 1-844-599-2273.
 
-This Medication Guide has been approved by the U.S. Food and Drug Administration Revised:05/2018
+This Medication Guide has been approved by the U.S. Food and Drug Administration Revised: 3/2021
