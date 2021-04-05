@@ -7,6 +7,12 @@ Patients can be seriously injured or injure others during complex sleep behavior
 Such injuries may result in a fatal outcome.
 Other complex sleep behaviors (e.g., preparing and eating food, making phone calls, or having sex) have also been reported.
 Patients usually do not remember these events.
+Post-marketing reports have shown that complex sleep behaviors may occur with zolpidem alone at recommended dosages, with or without the concomitant use of alcohol or other central nervous system (CNS) depressants Discontinue ZOLPIMIST immediately if a patient experiences a complex sleep behavior.
+Complex sleep behaviors including sleep-walking, sleep-driving, and engaging in other activities while not fully awake may occur following the first or any subsequent use of zolpidem.
+Patients can be seriously injured or injure others during complex sleep behaviors.
+Such injuries may result in a fatal outcome.
+Other complex sleep behaviors (e.g., preparing and eating food, making phone calls, or having sex) have also been reported.
+Patients usually do not remember these events.
 Post-marketing reports have shown that complex sleep behaviors may occur with zolpidem alone at recommended dosages, with or without the concomitant use of alcohol or other central nervous system (CNS) depressants [see Drug Interactions (7.1)].
 Discontinue ZOLPIMIST immediately if a patient experiences a complex sleep behavior.
 
@@ -18,7 +24,14 @@ Patients should be cautioned against engaging in hazardous occupations requiring
 Zolpidem tartrate showed additive effects when combined with alcohol and should not be taken with alcohol.
 Patients should also be cautioned about possible combined effects with other CNS-depressant drugs.
 Dosage adjustments may be necessary when ZOLPIMIST is administered with such agents because of the potentially additive effects.
+Zolpidem tartrate, like other sedative-hypnotic drugs, has CNS-depressant effects.
+Due to the rapid onset of action, ZOLPIMIST should only be administered immediately prior to going to bed.
+Patients should be cautioned against engaging in hazardous occupations requiring complete mental alertness or motor coordination such as operating machinery or driving a motor vehicle after ingesting the drug, including potential impairment of the performance of such activities that may occur the day following administration of ZOLPIMIST.
+Zolpidem tartrate showed additive effects when combined with alcohol and should not be taken with alcohol.
+Patients should also be cautioned about possible combined effects with other CNS-depressant drugs.
+Dosage adjustments may be necessary when ZOLPIMIST is administered with such agents because of the potentially additive effects.
 
+Because ZOLPIMIST can cause drowsiness and a decreased level of consciousness, patients, particularly the elderly, are at higher risk of falls.
 Because ZOLPIMIST can cause drowsiness and a decreased level of consciousness, patients, particularly the elderly, are at higher risk of falls.
 
 ## 5.3 Need to Evaluate for Co-Morbid Diagnoses

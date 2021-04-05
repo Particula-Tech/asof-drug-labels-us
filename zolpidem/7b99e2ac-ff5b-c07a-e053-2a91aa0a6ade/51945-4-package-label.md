@@ -2,7 +2,7 @@
 
 NDC 69654-0510-30
 
-ZolpiMIST™
+Zolpi MIST™
 
 (zolpidem tartrate) ORAL SPRAY
 
@@ -24,7 +24,7 @@ Rx Only
 
 NDC 69654-0510-60
 
-ZolpiMIST™
+Zolpi MIST™
 
 (zolpidem tartrate) ORAL SPRAY
 

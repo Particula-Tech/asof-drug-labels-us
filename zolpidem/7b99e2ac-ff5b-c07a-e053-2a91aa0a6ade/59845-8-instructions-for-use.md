@@ -79,7 +79,7 @@ The child-resistant container should be thrown away when the 60 sprays have been
 There are no special requirements for cleaning and maintaining ZOLPIMIST.
 Professional assistance regarding questions about product performance or use can be obtained by calling 1-855-298-8246.
 
-See Medication Guide section “How should I store ZOLPIMIST?” for instructions about how to store ZOLPIMIST.
+See Medication Guide section “ How should I store ZOLPIMIST?” for instructions about how to store ZOLPIMIST.
 
 Manufactured for Aytu BioScience, Inc. 373 Inverness Parkway, Suite 206 Englewood, CO 80112
 
