@@ -88,7 +88,7 @@ Table 12: Mean (SD) Daptomycin Population Pharmacokinetic Parameters Following I
 | CAPD | 27.56 (4.53) N=5 | 0.11 (0.02) N=5 | 2.9 (0.4) N=5 | 1409 (238) N=5 | NA | NA |
 | Note: CUBICIN was administered over a 30-minute period. |  |  |  |  |  |  |
 
-Because renal excretion is the primary route of elimination, adjustment of CUBICIN dosage interval is necessary in adult patients with severe renal impairment (CLCR <30 mL/min) [see Dosage and Administration (2.4)].
+Because renal excretion is the primary route of elimination, adjustment of CUBICIN dosage interval is necessary in adult patients with severe renal impairment (CLCR <30 mL/min) [see Dosage and Administration (2.6)].
 
 Hepatic Impairment
 
@@ -232,8 +232,8 @@ Daptomycin has been shown to be active against most isolates of the following mi
 - Streptococcus pyogenes
 
 The following in vitro data are available, but their clinical significance is unknown.
-At least 90 percent of the following bacteria exhibit an in vitro minimum inhibitory concentration (MIC) less than or equal to the susceptible breakpoint for daptomycin against isolates of genus or organism group.
-However, the efficacy of daptomycin in treating clinical infections due to these bacteria has not been established in adequate and well-controlled clinical trials.
+At least 90 percent of the following bacteria exhibit an in vitro minimum inhibitory concentration (MIC) less than or equal to the susceptible breakpoint for daptomycin against isolates of similar genus or organism group.
+However, the efficacy of daptomycin in treating clinical infections caused by these bacteria has not been established in adequate and well-controlled clinical trials.
 
 - Gram-Positive Bacteria
 - Corynebacterium jeikeium
