@@ -151,20 +151,20 @@ The following adverse reactions have been identified during post approval use of
 Unless otherwise specified, these adverse reactions have occurred in adults and children and adolescents.
 Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
 
-1. Cardiovascular system — QT prolongation, syncope.
-2. Peripheral vascular effects — Raynaud's phenomenon.
-3. General disorders and administration site conditions — Lethargy.
-4. Musculoskeletal system — Rhabdomyolysis.
-5. Nervous system disorders — Hypoaesthesia; paraesthesia in children and adolescents; sensory
-6. disturbances; tics.
-7. Psychiatric disorders — Depression and depressed mood; anxiety, libido changes.
-8. Seizures — Seizures have been reported in the postmarketing period.
-   The postmarketing seizure cases
-9. include patients with pre-existing seizure disorders and those with identified risk factors for seizures, as
-10. well as patients with neither a history of nor identified risk factors for seizures.
-    The exact relationship
-11. between atomoxetine and seizures is difficult to evaluate due to uncertainty about the background risk of
-12. seizures in ADHD patients.
-13. Skin and subcutaneous tissue disorders — Alopecia, hyperhidrosis.
-14. Urogenital system — Male pelvic pain; urinary hesitation in children and adolescents; urinary retention
-15. in children and adolescents.
+- Cardiovascular system — QT prolongation, syncope.
+- Peripheral vascular effects — Raynaud's phenomenon.
+- General disorders and administration site conditions — Lethargy.
+- Musculoskeletal system — Rhabdomyolysis.
+- Nervous system disorders — Hypoaesthesia; paraesthesia in children and adolescents; sensory
+- disturbances; tics.
+- Psychiatric disorders — Depression and depressed mood; anxiety, libido changes.
+- Seizures — Seizures have been reported in the postmarketing period.
+  The postmarketing seizure cases
+- include patients with pre-existing seizure disorders and those with identified risk factors for seizures, as
+- well as patients with neither a history of nor identified risk factors for seizures.
+  The exact relationship
+- between atomoxetine and seizures is difficult to evaluate due to uncertainty about the background risk of
+- seizures in ADHD patients.
+- Skin and subcutaneous tissue disorders — Alopecia, hyperhidrosis.
+- Urogenital system — Male pelvic pain; urinary hesitation in children and adolescents; urinary retention
+- in children and adolescents.

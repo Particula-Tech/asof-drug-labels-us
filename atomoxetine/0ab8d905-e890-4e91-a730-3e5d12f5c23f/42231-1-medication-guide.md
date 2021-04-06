@@ -98,7 +98,7 @@ Who should not take atomoxetine capsules?
 - •are pregnant or plan to become pregnant.
   It is not known if atomoxetine will harm your unborn baby.
   Talk to your doctor if you are pregnant or plan to become pregnant.
-  - oThere is a pregnancy registry for females who are exposed to ADHD medications, including atomoxetine capsule, during pregnancy.
+  - •There is a pregnancy registry for females who are exposed to ADHD medications, including atomoxetine capsule, during pregnancy.
     The purpose of the registry is to collect information about the health of females exposed to atomoxetine and their baby.
     If you or your child becomes pregnant during treatment with atomoxetine, talk to your healthcare provider about registering with the National Pregnancy Registry of ADHD Medications at 1-866-961-2388 or visit online at https://womensmentalhealth.org/adhdmedications/.
 - •are breastfeeding or plan to breastfeed.
@@ -152,8 +152,8 @@ What are possible side effects of atomoxetine capsules?
 - •serious allergic reactions (call your doctor if you have trouble breathing, see swelling or hives, or experience other allergic reactions)
 - •slowing of growth (height and weight) in children
 - •problems passing urine including
-  - otrouble starting or keeping a urine stream
-  - ocannot fully empty the bladder
+  - •trouble starting or keeping a urine stream
+  - •cannot fully empty the bladder
 - Common side effects in children and teenagers include:
 - •upset stomach
 - •decreased appetite
