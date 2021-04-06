@@ -30,7 +30,7 @@ Cardiac Electrophysiology
 
 Effect of Lamotrigine: In vitro studies show that lamotrigine exhibits Class IB antiarrhythmic activity at therapeutically relevant concentrations.
 It inhibits human cardiac sodium channels with rapid onset and offset kinetics and strong voltage dependence, consistent with other Class IB antiarrhythmic agents.
-LAMICTAL XR did not slow ventricular conduction (widen QRS) in healthy individuals in a thorough QT study; however, it could slow ventricular conduction and increase the risk of arrhythmia in patients with structural heart disease or myocardial ischemia.
+At therapeutic doses, LAMICTAL XR did not slow ventricular conduction (widen QRS) in healthy individuals in a thorough QT study; however, in patients with clinically important structural or functional heart disease (i.e., patients with heart failure, valvular heart disease, congenital heart disease, conduction system disease, ventricular arrhythmias, cardiac channelopathies [e.g., Brugada syndrome], clinically important ischemic heart disease, or multiple risk factors for coronary artery disease), LAMICTAL XR could slow ventricular conduction (widen QRS) and induce proarrhythmia, which can lead to sudden death.
 Elevated heart rates could also increase the risk of ventricular conduction slowing with LAMICTAL XR.
 
 Effect of Lamotrigine Metabolite: In dogs, lamotrigine is extensively metabolized to a 2-N-methyl metabolite.

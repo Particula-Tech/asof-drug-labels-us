@@ -65,9 +65,9 @@ Prior to initiation of treatment with LAMICTAL XR, the patient should be instruc
 ## 5.4 Cardiac Rhythm and Conduction Abnormalities
 
 In vitro testing showed that LAMICTAL XR exhibits Class IB antiarrhythmic activity at therapeutically relevant concentrations [see Clinical Pharmacology (12.2)].
-Based on this activity, LAMICTAL could slow ventricular conduction (widen QRS) and induce proarrhythmia, including sudden death, in patients with structural heart disease or myocardial ischemia.
-Therefore, avoid the use of LAMICTAL XR in patients who have cardiac conduction disorders (e.g., second- or third-degree heart block), ventricular arrhythmias, or cardiac disease or abnormality (e.g., myocardial ischemia, heart failure, structural heart disease, Brugada syndrome or other sodium channelopathies).
-Concomitant use of other sodium channel blockers may increase the risk of proarrhythmia.
+Based on these in vitro findings, LAMICTAL XR could slow ventricular conduction (widen QRS) and induce proarrhythmia, which can lead to sudden death, in patients with clinically important structural or functional heart disease (i.e., patients with heart failure, valvular heart disease, congenital heart disease, conduction system disease, ventricular arrhythmias, cardiac channelopathies [e.g., Brugada syndrome], clinically important ischemic heart disease, or multiple risk factors for coronary artery disease).
+Any expected or observed benefit of LAMICTAL XR in an individual patient with clinically important structural or functional heart disease must be carefully weighed against the risks for serious arrythmias and/or death for that patient.
+Concomitant use of other sodium channel blockers may further increase the risk of proarrhythmia.
 
 ## 5.5 Blood Dyscrasias
 
