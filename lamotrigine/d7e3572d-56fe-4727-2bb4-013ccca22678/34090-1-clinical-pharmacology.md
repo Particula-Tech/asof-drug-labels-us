@@ -32,13 +32,13 @@ Cardiac Electrophysiology
 
 Effect of Lamotrigine: In vitro studies show that lamotrigine exhibits Class IB antiarrhythmic activity at therapeutically relevant concentrations.
 It inhibits human cardiac sodium channels with rapid onset and offset kinetics and strong voltage dependence, consistent with other Class IB antiarrhythmic agents.
-LAMICTAL did not slow ventricular conduction (widen QRS) in healthy individuals in a thorough QT study; however, it could slow ventricular conduction and increase the risk of arrhythmia in patients with structural heart disease or myocardial ischemia.
+At therapeutic doses, LAMICTAL did not slow ventricular conduction (widen QRS) in healthy individuals in a thorough QT study; however, in patients with clinically important structural or functional heart disease (i.e., patients with heart failure, valvular heart disease, congenital heart disease, conduction system disease, ventricular arrhythmias, cardiac channelopathies [e.g., Brugada syndrome], clinically important ischemic heart disease, or multiple risk factors for coronary artery disease), LAMICTAL could slow ventricular conduction (widen QRS) and induce proarrhythmia, which can lead to sudden death.
 Elevated heart rates could also increase the risk of ventricular conduction slowing with LAMICTAL.
 
 Effect of Lamotrigine Metabolite: In dogs, lamotrigine is extensively metabolized to a 2-N-methyl metabolite.
 This metabolite causes dose-dependent prolongation of the PR interval, widening of the QRS complex, and, at higher doses, complete AV conduction block.
 The in vitro electrophysiological effects of this metabolite have not been studied.
-Similar cardiovascular effects a from this metabolite are not anticipated in humans because only trace amounts of the 2-N-methyl metabolite (<0.6% of lamotrigine dose) have been found in human urine [see Clinical Pharmacology (12.3)].
+Similar cardiovascular effects from this metabolite are not anticipated in humans because only trace amounts of the 2-N-methyl metabolite (<0.6% of lamotrigine dose) have been found in human urine [see Clinical Pharmacology (12.3)].
 However, it is conceivable that plasma concentrations of this metabolite could be increased in patients with a reduced capacity to glucuronidate lamotrigine (e.g., in patients with liver disease, patients taking concomitant medications that inhibit glucuronidation).
 
 Accumulation in Kidneys
