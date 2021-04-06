@@ -142,7 +142,8 @@ The antiemetic activity of aprepitant was evaluated based on the following endpo
 - Primary endpoint:
 - Other prespecified endpoints:
 
-- •complete response (defined as no emetic episodes and no use of rescue therapy as recorded in patient diaries) in the overall phase (0 to 120 hours post-chemotherapy)Other prespecified endpoints:
+- •complete response (defined as no emetic episodes and no use of rescue therapy as recorded in patient diaries) in the overall phase (0 to 120 hours post-chemotherapy)
+- Other prespecified endpoints:
 - •no emesis (defined as no emetic episodes regardless of use of rescue therapy)
 - •no nausea (maximum VAS less than 5 mm on a 0 to 100 mm scale)
 - •no significant nausea (maximum VAS less than 25 mm on a 0 to 100 mm scale)
@@ -237,11 +238,11 @@ Table 18: HEC and MEC Treatment Regimens* for Pediatric Patients 6 Months to 17 
 | CINV Control Regimen |  |  |  |
 | Ondansetron | Per standard of care‡ | none | none |
 
-1. *Intravenous dexamethasone was permitted at the discretion of the physician.
-   A 50% dose reduction of dexamethasone was required for patients in the aprepitant group, reflecting a dosage adjustment to account for a drug interaction [see Clinical Pharmacology (12.3)].
-   No dexamethasone dose reduction was required for patients in the control regimen.
-2. †Aprepitant was administered 1 hour prior to chemotherapy treatment on Days 1, 2, and 3.
-   If no chemotherapy was given on Days 2 and 3, aprepitant was administered in the morning.
+- *Intravenous dexamethasone was permitted at the discretion of the physician.
+  A 50% dose reduction of dexamethasone was required for patients in the aprepitant group, reflecting a dosage adjustment to account for a drug interaction [see Clinical Pharmacology (12.3)].
+  No dexamethasone dose reduction was required for patients in the control regimen.
+- †Aprepitant was administered 1 hour prior to chemotherapy treatment on Days 1, 2, and 3.
+  If no chemotherapy was given on Days 2 and 3, aprepitant was administered in the morning.
 
 ‡Ondansetron was administered 30 minutes prior to chemotherapy on Day 1§aprepitant placebo was used to maintain blinding.
 
