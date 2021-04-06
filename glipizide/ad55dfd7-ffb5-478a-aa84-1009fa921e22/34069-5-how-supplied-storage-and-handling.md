@@ -1,8 +1,8 @@
 # HOW SUPPLIED
 
-Glipizide Tablets USP, 5 mg are white, scored, round tablets debossed with Watson 460 and are available in bottles of 100, 500 and 1000.
+Glipizide tablets USP, 5 mg are white, scored, round tablets debossed with Watson 460 and are available in bottles of 100 (NDC 0591-0460-01), 500 (NDC 0591-0460-05) and 1000 (NDC 0591-0460-10).
 
-Glipizide Tablets USP, 10 mg are white, scored, round tablets debossed with Watson 461 and are available in bottles of 100, 500 and 1000.
+Glipizide tablets USP, 10 mg are white, scored, round tablets debossed with Watson 461 and are available in bottles of 100 (NDC 0591-0461-01), 500 (NDC 0591-0461-05) and 1000 (NDC 0591-0461-10).
 
 Bottles of 100 are supplied with child-resistant closures.
 
@@ -10,8 +10,11 @@ Store below 30°C (86°F).
 
 Dispense in a tight container as defined in the USP.
 
+Keep this and all medication out of the reach of children.
+
 Manufactured by: Watson Pharma Private Limited Verna, Salcette Goa 403 722 INDIA
 
 Distributed by: Actavis Pharma, Inc. Parsippany, NJ 07054 USA
 
-Revised: June 2015
+Rev.
+A 3/2021

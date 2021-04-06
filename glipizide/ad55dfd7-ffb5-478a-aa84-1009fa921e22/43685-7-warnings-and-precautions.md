@@ -26,7 +26,7 @@ If hypoglycemia should occur in such patients, it may be prolonged and appropria
 Hypoglycemia: All sulfonylurea drugs are capable of producing severe hypoglycemia.
 Proper patient selection, dosage, and instructions are important to avoid hypoglycemic episodes.
 Renal or hepatic insufficiency may cause elevated blood levels of glipizide and the latter may also diminish gluconeogenic capacity, both of which increase the risk of serious hypoglycemic reactions.
-Elderly, debilitated or malnourished patients, and those with adrenal or pituitary insufficiency are particularly susceptible to the hypoglycemic action of glucose-lowering drugs.
+Elderly, debilitated or malnourished patients, and those with adrenal or pituitary insufficiency, are particularly susceptible to the hypoglycemic action of glucose-lowering drugs.
 Hypoglycemia may be difficult to recognize in the elderly, and in people who are taking beta-adrenergic blocking drugs.
 Hypoglycemia is more likely to occur when caloric intake is deficient, after severe or prolonged exercise, when alcohol is ingested, or when more than one glucose-lowering drug is used.
 
@@ -65,14 +65,14 @@ Maintenance or discontinuation of glipizide or other antidiabetic medications sh
 
 ## Drug Interactions:
 
-The hypoglycemic action of sulfonylureas may be potentiated by certain drugs including nonsteroidal anti-inflammatory agents, some azoles, and other drugs that are highly protein bound, salicylates, sulfonamides, chloramphenicol, probenecid, coumarins, monoamine oxidase inhibitors, and beta adrenergic blocking agents.
+The hypoglycemic action of sulfonylureas may be potentiated by certain drugs including nonsteroidal anti-inflammatory agents, some azoles, and other drugs that are highly protein bound, salicylates, sulfonamides, chloramphenicol, probenecid, coumarins, monoamine oxidase inhibitors, quinolones and beta adrenergic blocking agents.
 When such drugs are administered to a patient receiving glipizide, the patient should be observed closely for hypoglycemia.
 When such drugs are withdrawn from a patient receiving glipizide, the patient should be observed closely for loss of control.
 In vitro binding studies with human serum proteins indicate that glipizide binds differently than tolbutamide and does not interact with salicylate or dicumarol.
 However, caution must be exercised in extrapolating these findings to the clinical situation and in the use of glipizide with these drugs.
 
 Certain drugs tend to produce hyperglycemia and may lead to loss of control.
-These drugs include the thiazides and other diuretics, corticosteriods, phenothiazines, thyroid products, estrogens, oral contraceptives, phenytoin, nicotinic acid, sympathomimetics, calcium channel blocking drugs, and isoniazid.
+These drugs include the thiazides and other diuretics, corticosteroids, phenothiazines, thyroid products, estrogens, oral contraceptives, phenytoin, nicotinic acid, sympathomimetics, calcium channel blocking drugs, and isoniazid.
 When such drugs are administered to a patient receiving glipizide, the patient should be closely observed for loss of control.
 When such drugs are withdrawn from a patient receiving glipizide, the patient should be observed closely for hypoglycemia.
 
@@ -94,18 +94,16 @@ Studies in rats of both sexes at doses up to 75 times the human dose showed no e
 
 ## Pregnancy:
 
-### Teratogenic Effects:
-
-Pregnancy Category C: Glipizide was found to be mildly fetotoxic in rat reproductive studies at all dose levels (5 to 50 mg/kg).
+Glipizide was found to be mildly fetotoxic in rat reproductive studies at all dose levels (5 to 50 mg/kg).
 This fetotoxicity has been similarly noted with other sulfonylureas, such as tolbutamide and tolazamide.
 The effect is perinatal and believed to be directly related to the pharmacologic (hypoglycemic) action of glipizide.
-In studies in rats and rabbits no teratogenic effects were found.
+In studies in rats and rabbits, no teratogenic effects were found.
 There are no adequate and well controlled studies in pregnant women.
 Glipizide should be used during pregnancy only if the potential benefit justifies the potential risk to the fetus.
 
 Because recent information suggests that abnormal blood glucose levels during pregnancy are associated with a higher incidence of congenital abnormalities, many experts recommend that insulin be used during pregnancy to maintain blood glucose levels as close to normal as possible.
 
-### Nonteratogenic Effects:
+## Nonteratogenic Effects:
 
 Prolonged severe hypoglycemia (4 to 10 days) has been reported in neonates born to mothers who were receiving a sulfonylurea drug at the time of delivery.
 This has been reported more frequently with the use of agents with prolonged half-lives.
