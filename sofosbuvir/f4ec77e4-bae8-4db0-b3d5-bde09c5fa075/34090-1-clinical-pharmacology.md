@@ -24,14 +24,15 @@ The pharmacokinetic properties of ledipasvir, sofosbuvir, and the predominant ci
 Sofosbuvir was absorbed quickly and the peak median plasma concentration was observed ~0.8 to 1 hour post-dose.
 Median peak plasma concentration of GS-331007 was observed between 3.5 to 4 hours post-dose.
 
-Based on the population pharmacokinetic analysis in HCV-infected subjects, geometric mean steady-state AUC 0–24 for ledipasvir (N=2113), sofosbuvir (N=1542), and GS-331007 (N=2113) were 7290, 1320, and 12,000 ng∙hr/mL, respectively.
-Steady-state C max for ledipasvir, sofosbuvir, and GS-331007 were 323, 618, and 707 ng/mL, respectively.
-Sofosbuvir and GS-331007 AUC 0–24 and C max were similar in healthy adult subjects and subjects with HCV infection.
-Relative to healthy subjects (N=191), ledipasvir AUC 0–24 and C max were 24% lower and 32% lower, respectively, in HCV-infected subjects.
+Based on the population pharmacokinetic analysis in HCV-infected subjects, geometric mean steady-state AUC0–24 for ledipasvir (N=2113), sofosbuvir (N=1542), and GS-331007 (N=2113) were 7290, 1320, and 12,000 ng∙hr/mL, respectively.
+Steady-state Cmax for ledipasvir, sofosbuvir, and GS-331007 were 323, 618, and 707 ng/mL, respectively.
+Sofosbuvir and GS-331007 AUC0–24 and Cmax were similar in healthy adult subjects and subjects with HCV infection.
+Relative to healthy subjects (N=191), ledipasvir AUC0–24 and Cmax were 24% lower and 32% lower, respectively, in HCV-infected subjects.
 
 Effect of Food
 
-Relative to fasting conditions, the administration of a single dose of HARVONI with a moderate fat (~600 kcal, 25% to 30% fat) or high fat (~1000 kcal, 50% fat) meal increased sofosbuvir AUC 0–inf by approximately 2-fold, but did not significantly affect sofosbuvir C max. The exposures of GS-331007 and ledipasvir were not altered in the presence of either meal type.
+Relative to fasting conditions, the administration of a single dose of HARVONI with a moderate fat (~600 kcal, 25% to 30% fat) or high fat (~1000 kcal, 50% fat) meal increased sofosbuvir AUC0–inf by approximately 2-fold, but did not significantly affect sofosbuvir Cmax.
+The exposures of GS-331007 and ledipasvir were not altered in the presence of either meal type.
 The response rates in Phase 3 trials were similar in HCV-infected subjects who received HARVONI with food or without food.
 HARVONI can be administered without regard to food.
 
@@ -73,22 +74,22 @@ Specific Populations
 Race: Population pharmacokinetics analysis in HCV-infected subjects indicated that race had no clinically relevant effect on the exposure of ledipasvir, sofosbuvir, and GS-331007.
 
 Gender: Population pharmacokinetics analysis in HCV-infected subjects indicated that gender had no clinically relevant effect on the exposure of sofosbuvir and GS-331007.
-AUC and C max of ledipasvir were 77% and 58% higher, respectively, in females than males; however, the relationship between gender and ledipasvir exposures was not considered clinically relevant, as high response rates (SVR12 >90%) were achieved in male and female subjects across the Phase 3 studies and the safety profiles are similar in females and males.
+AUC and Cmax of ledipasvir were 77% and 58% higher, respectively, in females than males; however, the relationship between gender and ledipasvir exposures was not considered clinically relevant, as high response rates (SVR12 >90%) were achieved in male and female subjects across the Phase 3 studies and the safety profiles are similar in females and males.
 
 Pediatric Patients: The pharmacokinetics of ledipasvir, sofosbuvir, and GS-331007 were determined in HCV genotype 1, 3, or 4 infected pediatric subjects 3 years of age and older receiving a daily dose of HARVONI as described below in Table 7.
 Exposures in pediatric subjects were similar to those observed in adults.
 
-Table 7 Pharmacokinetic Properties of the Components of HARVONI in HCV-Infected Pediatric Subjects 3 Years of Age and Older Population PK derived parameters
+Table 7 Pharmacokinetic Properties of the Components of HARVONI in HCV-Infected Pediatric Subjects 3 Years of Age and OlderPopulation PK derived parameters
 
 | Ledipasvir | Sofosbuvir | GS-331007 |  |  |  |
 | --- | --- | --- | --- | --- | --- |
 | Weight Group | Dose | PK Parameter | Geometric Mean (%CV) |  |  |
-| ≥35 kg Ledipasvir N=100; Sofosbuvir N=72; GS-331007 N=100 | 90/400 mg | AUC tau (ng∙hr/mL) | 11200 (45.7) | 1350 (45.2) | 13600 (18.9) |
-| C max (ng/mL) | 550 (44.2) | 660 (51.1) | 921 (17.8) |  |  |
-| 17 to <35 kg Ledipasvir N=86; Sofosbuvir N=66; GS-331007 N=86 | 45/200 mg | AUC tau (ng∙hr/mL) | 8750 (46.6) | 1420 (34.2) | 10700 (30.9) |
-| C max (ng/mL) | 440 (42.7) | 690 (24.8) | 958 (26.1) |  |  |
-| <17 kg Ledipasvir N=9; Sofosbuvir N=9; GS-331007 N=9 | 33.75/150 mg | AUC tau (ng∙hr/mL) | 7460 (31.0) | 1720 (23.2) | 12200 (15.2) |
-| C max (ng/mL) | 405 (25.7) | 791 (16.6) | 1070 (13.0) |  |  |
+| ≥35 kgLedipasvir N=100; Sofosbuvir N=72; GS-331007 N=100 | 90/400 mg | AUCtau (ng∙hr/mL) | 11200 (45.7) | 1350 (45.2) | 13600 (18.9) |
+| Cmax (ng/mL) | 550 (44.2) | 660 (51.1) | 921 (17.8) |  |  |
+| 17 to <35 kgLedipasvir N=86; Sofosbuvir N=66; GS-331007 N=86 | 45/200 mg | AUCtau (ng∙hr/mL) | 8750 (46.6) | 1420 (34.2) | 10700 (30.9) |
+| Cmax (ng/mL) | 440 (42.7) | 690 (24.8) | 958 (26.1) |  |  |
+| <17 kgLedipasvir N=9; Sofosbuvir N=9; GS-331007 N=9 | 33.75/150 mg | AUCtau (ng∙hr/mL) | 7460 (31.0) | 1720 (23.2) | 12200 (15.2) |
+| Cmax (ng/mL) | 405 (25.7) | 791 (16.6) | 1070 (13.0) |  |  |
 
 The pharmacokinetics of ledipasvir, sofosbuvir, and GS-331007 have not been established in pediatric subjects less than 3 years of age [see Use in Specific Populations (8.4) and Clinical Studies (14.7)].
 
@@ -97,18 +98,18 @@ Geriatric Patients: Population pharmacokinetic analysis in HCV-infected subjects
 Patients with Renal Impairment: The pharmacokinetics of ledipasvir were studied with a single dose of 90 mg ledipasvir in HCV negative subjects with severe renal impairment (eGFR less than 30 mL/min by Cockcroft-Gault).
 No clinically relevant differences in ledipasvir pharmacokinetics were observed between healthy subjects and subjects with severe renal impairment.
 
-The pharmacokinetics of sofosbuvir were studied in HCV negative subjects with mild (eGFR between 50 to less than 80 mL/min/1.73 m 2), moderate (eGFR between 30 to less than 50 mL/min/1.73 m 2), severe renal impairment (eGFR less than 30 mL/min/1.73 m 2), and subjects with ESRD requiring hemodialysis following a single 400 mg dose of sofosbuvir.
-Relative to subjects with normal renal function (eGFR greater than 80 mL/min/1.73 m 2), the sofosbuvir AUC 0–inf was 61%, 107%, and 171% higher in mild, moderate, and severe renal impairment, while the GS-331007 AUC 0–inf was 55%, 88%, and 451% higher, respectively.
-In subjects with ESRD, relative to subjects with normal renal function, sofosbuvir and GS-331007 AUC 0–inf was 28% and 1280% higher when sofosbuvir was dosed 1 hour before hemodialysis compared with 60% and 2070% higher when sofosbuvir was dosed 1 hour after hemodialysis, respectively.
+The pharmacokinetics of sofosbuvir were studied in HCV negative subjects with mild (eGFR between 50 to less than 80 mL/min/1.73 m2), moderate (eGFR between 30 to less than 50 mL/min/1.73 m2), severe renal impairment (eGFR less than 30 mL/min/1.73 m2), and subjects with ESRD requiring hemodialysis following a single 400 mg dose of sofosbuvir.
+Relative to subjects with normal renal function (eGFR greater than 80 mL/min/1.73 m2), the sofosbuvir AUC0–inf was 61%, 107%, and 171% higher in mild, moderate, and severe renal impairment, while the GS-331007 AUC0–inf was 55%, 88%, and 451% higher, respectively.
+In subjects with ESRD, relative to subjects with normal renal function, sofosbuvir and GS-331007 AUC0–inf was 28% and 1280% higher when sofosbuvir was dosed 1 hour before hemodialysis compared with 60% and 2070% higher when sofosbuvir was dosed 1 hour after hemodialysis, respectively.
 A 4-hour hemodialysis session removed approximately 18% of administered dose [see Dosage and Administration (2.6) and Use in Specific Populations (8.6)].
 
 The pharmacokinetics of ledipasvir, sofosbuvir, and GS-331007 were studied in HCV-infected subjects with severe renal impairment or ESRD requiring dialysis treated with HARVONI for 8, 12, or 24 weeks.
 The results were generally consistent with those observed in HCV-negative subjects with ESRD requiring dialysis.
 
-Patients with Hepatic Impairment: The pharmacokinetics of ledipasvir were studied with a single dose of 90 mg ledipasvir in HCV negative subjects with severe hepatic impairment (Child-Pugh Class C). Ledipasvir plasma exposure (AUC 0–inf) was similar in subjects with severe hepatic impairment and control subjects with normal hepatic function.
+Patients with Hepatic Impairment: The pharmacokinetics of ledipasvir were studied with a single dose of 90 mg ledipasvir in HCV negative subjects with severe hepatic impairment (Child-Pugh Class C). Ledipasvir plasma exposure (AUC0–inf) was similar in subjects with severe hepatic impairment and control subjects with normal hepatic function.
 Population pharmacokinetics analysis in HCV-infected subjects indicated that cirrhosis (including decompensated cirrhosis) had no clinically relevant effect on the exposure of ledipasvir [see Use in Specific Populations (8.7)].
 
-The pharmacokinetics of sofosbuvir were studied following 7-day dosing of 400 mg sofosbuvir in HCV-infected subjects with moderate and severe hepatic impairment (Child-Pugh Class B and C). Relative to subjects with normal hepatic function, the sofosbuvir AUC 0–24 were 126% and 143% higher in moderate and severe hepatic impairment, while the GS-331007 AUC 0–24 were 18% and 9% higher, respectively.
+The pharmacokinetics of sofosbuvir were studied following 7-day dosing of 400 mg sofosbuvir in HCV-infected subjects with moderate and severe hepatic impairment (Child-Pugh Class B and C). Relative to subjects with normal hepatic function, the sofosbuvir AUC0–24 were 126% and 143% higher in moderate and severe hepatic impairment, while the GS-331007 AUC0–24 were 18% and 9% higher, respectively.
 Population pharmacokinetics analysis in HCV-infected subjects indicated that cirrhosis (including decompensated cirrhosis) had no clinically relevant effect on the exposure of sofosbuvir and GS-331007 [see Use in Specific Populations (8.7) and Clinical Studies (14.5)].
 
 Drug Interaction Studies
@@ -127,12 +128,12 @@ Clinically significant drug interactions with HARVONI mediated by CYP or UGT1A1 
 
 The effects of coadministered drugs on the exposure of ledipasvir, sofosbuvir, and GS-331007 are shown in Table 8 [see Drug Interactions (7)].
 
-Table 8 Drug Interactions: Changes in Pharmacokinetic Parameters for Ledipasvir, Sofosbuvir, and the Predominant Circulating Metabolite GS-331007 in the Presence of the Coadministered Drug All interaction studies conducted in healthy volunteers.
+Table 8 Drug Interactions: Changes in Pharmacokinetic Parameters for Ledipasvir, Sofosbuvir, and the Predominant Circulating Metabolite GS-331007 in the Presence of the Coadministered DrugAll interaction studies conducted in healthy volunteers.
 
-|  | C max | AUC | C min |  |  |  |  |  |
+|  | Cmax | AUC | Cmin |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | Coadministered Drug | Dose of Coadministered Drug (mg) | Ledipasvir Dose (mg) | Sofosbuvir Dose (mg) | N | Mean Ratio (90% CI) of Ledipasvir, Sofosbuvir, and GS-331007 PK With/Without Coadministered Drug No Effect=1.00 |  |  |  |
-| Atazanavir/ ritonavir + emtricitabine/ tenofovir DF Data generated from simultaneous dosing with HARVONI. Staggered administration (12 hours apart) of atazanavir/ritonavir + emtricitabine/tenofovir DF or darunavir/ritonavir + emtricitabine/tenofovir DF and HARVONI provided similar results.,The effects of atazanavir/ritonavir on ledipasvir and sofosbuvir are similar with or without the presence of emtricitabine/tenofovir DF. | 300/100 + 200/300 once daily | 90 once daily | 400 once daily | 24 | ledipasvir | 1.68 (1.54, 1.84) | 1.96 (1.74, 2.21) | 2.18 (1.91, 2.50) |
+| Atazanavir/ ritonavir + emtricitabine/ tenofovir DFData generated from simultaneous dosing with HARVONI. Staggered administration (12 hours apart) of atazanavir/ritonavir + emtricitabine/tenofovir DF or darunavir/ritonavir + emtricitabine/tenofovir DF and HARVONI provided similar results.,The effects of atazanavir/ritonavir on ledipasvir and sofosbuvir are similar with or without the presence of emtricitabine/tenofovir DF. | 300/100 + 200/300 once daily | 90 once daily | 400 once daily | 24 | ledipasvir | 1.68 (1.54, 1.84) | 1.96 (1.74, 2.21) | 2.18 (1.91, 2.50) |
 | sofosbuvir | 1.01 (0.88, 1.15) | 1.11 (1.02, 1.21) | NA |  |  |  |  |  |
 | GS-331007 | 1.17 (1.12, 1.23) | 1.31 (1.25, 1.36) | 1.42 (1.34, 1.49) |  |  |  |  |  |
 | Carbamazepine | 300 twice daily | ND | 400 single dose | 24 | sofosbuvir | 0.52 (0.43, 0.62) | 0.52 (0.46, 0.59) | NA |
@@ -145,7 +146,7 @@ Table 8 Drug Interactions: Changes in Pharmacokinetic Parameters for Ledipasvir,
 | Darunavir/ ritonavir + emtricitabine/ tenofovir DF | 800/100 + 200/300 once daily | 90 once daily | 400 once daily | 23 | ledipasvir | 1.11 (0.99, 1.24) | 1.12 (1.00, 1.25) | 1.17 (1.04, 1.31) |
 | sofosbuvir | 0.63 (0.52, 0.75) | 0.73 (0.65, 0.82) | NA |  |  |  |  |  |
 | GS-331007 | 1.10 (1.04, 1.16) | 1.20 (1.16, 1.24) | 1.26 (1.20, 1.32) |  |  |  |  |  |
-| Efavirenz/ emtricitabine/ tenofovir DF Administered as ATRIPLA ® (efavirenz, emtricitabine, tenofovir DF). | 600/200/300 once daily | 90 once daily | 400 once daily | 14 | ledipasvir | 0.66 (0.59, 0.75) | 0.66 (0.59, 0.75) | 0.66 (0.57, 0.76) |
+| Efavirenz/ emtricitabine/ tenofovir DFAdministered as ATRIPLA® (efavirenz, emtricitabine, tenofovir DF). | 600/200/300 once daily | 90 once daily | 400 once daily | 14 | ledipasvir | 0.66 (0.59, 0.75) | 0.66 (0.59, 0.75) | 0.66 (0.57, 0.76) |
 | sofosbuvir | 1.03 (0.87, 1.23) | 0.94 (0.81, 1.10) | NA |  |  |  |  |  |
 | GS-331007 | 0.86 (0.76, 0.96) | 0.90 (0.83, 0.97) | 1.07 (1.02, 1.13) |  |  |  |  |  |
 | Elvitegravir/ cobicistat/ emtricitabine/ tenofovir alafenamide | 150/150/200/10 once daily | 90 once daily | 400 once daily | 30 | ledipasvir | 1.65 (1.53, 1.78) | 1.79 (1.64, 1.96) | 1.93 (1.74, 2.15) |
@@ -165,7 +166,7 @@ Table 8 Drug Interactions: Changes in Pharmacokinetic Parameters for Ledipasvir,
 | 20 once daily 2 hours prior to ledipasvir | 30 single dose | ND | 17 | ledipasvir | 0.52 (0.41, 0.66) | 0.58 (0.48, 0.71) | NA |  |
 | Rifabutin | 300 once daily | ND | 400 single dose | 20 | sofosbuvir | 0.64 (0.53, 0.77) | 0.76 (0.63, 0.91) | NA |
 | GS-331007 | 1.15 (1.03, 1.27) | 1.03 (0.95, 1.12) | NA |  |  |  |  |  |
-| Rifampin | 600 once daily | 90 single dose This study was conducted in the presence of two other investigational HCV direct-acting agents. | ND | 31 | ledipasvir | 0.65 (0.56, 0.76) | 0.41 (0.36, 0.48) | NA |
+| Rifampin | 600 once daily | 90 single doseThis study was conducted in the presence of two other investigational HCV direct-acting agents. | ND | 31 | ledipasvir | 0.65 (0.56, 0.76) | 0.41 (0.36, 0.48) | NA |
 | ND | 400 single dose | 17 | sofosbuvir | 0.23 (0.19, 0.29) | 0.28 (0.24, 0.32) | NA |  |  |
 | GS-331007 | 1.23 (1.14, 1.34) | 0.95 (0.88, 1.03) | NA |  |  |  |  |  |
 | Simeprevir | 150 once daily | 30 once daily | ND | 22 | ledipasvir | 1.81 (1.69, 2.94) | 1.92 (1.77, 2.07) | NA |
@@ -187,12 +188,12 @@ Ledipasvir, sofosbuvir, and GS-331007 are not inhibitors or inducers of CYP or U
 
 The effects of ledipasvir or sofosbuvir on the exposure of coadministered drugs are shown in Table 9 [see Drug Interactions (7)].
 
-Table 9 Drug Interactions: Changes in Pharmacokinetic Parameters for Coadministered Drug in the Presence of Ledipasvir, Sofosbuvir, or HARVONI All interaction studies conducted in healthy volunteers.
+Table 9 Drug Interactions: Changes in Pharmacokinetic Parameters for Coadministered Drug in the Presence of Ledipasvir, Sofosbuvir, or HARVONIAll interaction studies conducted in healthy volunteers.
 
-| C max | AUC | C min |  |  |  |  |  |
+| Cmax | AUC | Cmin |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | Coadministered Drug | Dose of Coadministered Drug (mg) | Ledipasvir Dose (mg) | Sofosbuvir Dose (mg) | N | Mean Ratio (90% CI) of Coadministered Drug PK With/Without Ledipasvir, Sofosbuvir, or HARVONI No Effect=1.00 |  |  |
-| Atazanavir/ ritonavir + emtricitabine /tenofovir DF Data generated from simultaneous dosing with HARVONI. Staggered administration (12 hours apart) of atazanavir/ritonavir + emtricitabine/tenofovir DF or darunavir/ritonavir + emtricitabine/tenofovir DF and HARVONI provided similar results.,The effects of HARVONI on atazanavir and ritonavir are similar with or without the presence of emtricitabine/tenofovir DF.,This magnitude of change in tenofovir exposure does not reflect the approximately 60–80% increase caused by the effects of an HIV PI/ritonavir and the effect of food. Therefore, tenofovir exposure is approximately 130% higher when administered as tenofovir DF + atazanavir/ritonavir + HARVONI or tenofovir DF + darunavir/ritonavir + HARVONI and with food as compared to the tenofovir exposure observed following fasted administration of tenofovir DF-based regimens that do not contain an HIV PI/ritonavir and HARVONI. | atazanavir 300 once daily | 90 once daily | 400 once daily | 24 | 1.07 (0.99, 1.14) | 1.27 (1.18, 1.37) | 1.63 (1.45, 1.84) |
+| Atazanavir/ ritonavir + emtricitabine /tenofovir DFData generated from simultaneous dosing with HARVONI. Staggered administration (12 hours apart) of atazanavir/ritonavir + emtricitabine/tenofovir DF or darunavir/ritonavir + emtricitabine/tenofovir DF and HARVONI provided similar results.,The effects of HARVONI on atazanavir and ritonavir are similar with or without the presence of emtricitabine/tenofovir DF.,This magnitude of change in tenofovir exposure does not reflect the approximately 60–80% increase caused by the effects of an HIV PI/ritonavir and the effect of food. Therefore, tenofovir exposure is approximately 130% higher when administered as tenofovir DF + atazanavir/ritonavir + HARVONI or tenofovir DF + darunavir/ritonavir + HARVONI and with food as compared to the tenofovir exposure observed following fasted administration of tenofovir DF-based regimens that do not contain an HIV PI/ritonavir and HARVONI. | atazanavir 300 once daily | 90 once daily | 400 once daily | 24 | 1.07 (0.99, 1.14) | 1.27 (1.18, 1.37) | 1.63 (1.45, 1.84) |
 | ritonavir 100 once daily | 0.86 (0.79, 0.93) | 0.97 (0.89, 1.05) | 1.45 (1.27, 1.64) |  |  |  |  |
 | tenofovir DF 300 once daily | 1.47 (1.37, 1.58) | 1.35 (1.29, 1.42) | 1.47 (1.38, 1.57) |  |  |  |  |
 | Darunavir/ ritonavir + emtricitabine/ tenofovir DF, | darunavir 800 once daily | 90 once daily | 400 once daily | 23 | 1.01 (0.96, 1.06) | 1.04 (0.99, 1.08) | 1.08 (0.98, 1.20) |
@@ -213,7 +214,7 @@ Table 9 Drug Interactions: Changes in Pharmacokinetic Parameters for Coadministe
 | ND | 400 single dose | 19 | 0.57 (0.44, 0.75) | 0.73 (0.59, 0.91) | 0.95 (0.81, 1.12) |  |  |
 | Simeprevir | 150 once daily | 30 once daily | ND | 22 | 2.61 (2.39, 2.86) | 2.69 (2.44, 2.96) | NA |
 | Tacrolimus | 5 single dose | ND | 400 single dose | 16 | 0.73 (0.59, 0.90) | 1.09 (0.84, 1.40) | NA |
-| Tenofovir DF | 300 once daily Administered as ATRIPLA (efavirenz, emtricitabine, tenofovir DF). The effects of HARVONI on tenofovir exposures are similar when tenofovir is administered as ATRIPLA, COMPLERA, or TRUVADA + dolutegravir. | 90 once daily | 400 once daily | 15 | 1.79 (1.56, 2.04) | 1.98 (1.77, 2.23) | 2.63 (2.32, 2.97) |
+| Tenofovir DF | 300 once dailyAdministered as ATRIPLA (efavirenz, emtricitabine, tenofovir DF). The effects of HARVONI on tenofovir exposures are similar when tenofovir is administered as ATRIPLA, COMPLERA, or TRUVADA + dolutegravir. | 90 once daily | 400 once daily | 15 | 1.79 (1.56, 2.04) | 1.98 (1.77, 2.23) | 2.63 (2.32, 2.97) |
 | NA = not available/not applicable, ND = not dosed. |  |  |  |  |  |  |  |
 | tenofovir DF = tenofovir disoproxil fumarate |  |  |  |  |  |  |  |
 
@@ -228,24 +229,24 @@ Resistance selection in cell culture and cross-resistance studies indicate ledip
 
 Sofosbuvir is an inhibitor of the HCV NS5B RNA-dependent RNA polymerase, which is required for viral replication.
 Sofosbuvir is a nucleotide prodrug that undergoes intracellular metabolism to form the pharmacologically active uridine analog triphosphate (GS-461203), which can be incorporated into HCV RNA by the NS5B polymerase and acts as a chain terminator.
-In a biochemical assay, GS-461203 inhibited the polymerase activity of the recombinant NS5B from HCV genotypes 1b and 4a with IC 50 values of 3.3 and 2.7 microM, respectively.
+In a biochemical assay, GS-461203 inhibited the polymerase activity of the recombinant NS5B from HCV genotypes 1b and 4a with IC50 values of 3.3 and 2.7 microM, respectively.
 GS-461203 is neither an inhibitor of human DNA and RNA polymerases nor an inhibitor of mitochondrial RNA polymerase.
 
 Antiviral Activity
 
-In HCV replicon assays, the EC 50 values of ledipasvir against full-length replicons from genotypes 1a and 1b were 0.031 nM and 0.004 nM, respectively.
-The median EC 50 values of ledipasvir against chimeric replicons encoding NS5A sequences from clinical isolates from treatment-naïve HCV-infected subjects were 0.
+In HCV replicon assays, the EC50 values of ledipasvir against full-length replicons from genotypes 1a and 1b were 0.031 nM and 0.004 nM, respectively.
+The median EC50 values of ledipasvir against chimeric replicons encoding NS5A sequences from clinical isolates from treatment-naïve HCV-infected subjects were 0.
 02 nM for genotype 1a (range 0.007–1.0 nM; N=23) and 0.006 nM for genotype 1b (range 0.002–1.0 nM; N=34).
-Ledipasvir had median EC 50 values ranging between 0.002 nM to 0.16 nM against 11 genotype 4 subtypes (4a, 4d, 4n, 4r, 4o, 4c, 4f, 4k, 4l, 4m, and 4t).
-The median EC 50 value for subtype 4b was 199.6 nM (range 0.66–1799 nM; N=3); the two 4b isolates with EC 50 values greater than 100 nM had NS5A resistance-associated polymorphisms L30S+M31M+P58S+Y93H.
-The median EC 50 value of ledipasvir was 0.03 nM against genotype 5a isolates (range 0.008–0.081 nM; N=35).
-For genotype 6, the EC 50 values for ledipasvir varied by subtype.
-Subtypes 6a and 6h had median EC 50 values of 0.55 and 0.17 nM, respectively.
-For subtypes 6e, 6l, 6n, 6q, 6k, and 6m, the median EC 50 values ranged from 60.6 nM to 430.1 nM.
+Ledipasvir had median EC50 values ranging between 0.002 nM to 0.16 nM against 11 genotype 4 subtypes (4a, 4d, 4n, 4r, 4o, 4c, 4f, 4k, 4l, 4m, and 4t).
+The median EC50 value for subtype 4b was 199.6 nM (range 0.66–1799 nM; N=3); the two 4b isolates with EC50 values greater than 100 nM had NS5A resistance-associated polymorphisms L30S+M31M+P58S+Y93H.
+The median EC50 value of ledipasvir was 0.03 nM against genotype 5a isolates (range 0.008–0.081 nM; N=35).
+For genotype 6, the EC50 values for ledipasvir varied by subtype.
+Subtypes 6a and 6h had median EC50 values of 0.55 and 0.17 nM, respectively.
+For subtypes 6e, 6l, 6n, 6q, 6k, and 6m, the median EC50 values ranged from 60.6 nM to 430.1 nM.
 
-In HCV replicon assays, the EC 50 values of sofosbuvir against full-length replicons from genotypes 1a, 1b, and 4a, and chimeric 1b replicons encoding NS5B from genotypes 5a or 6a ranged from 14–110 nM.
-The median EC 50 value of sofosbuvir against chimeric replicons encoding NS5B sequences from clinical isolates was 62 nM for genotype 1a (range 29–128 nM; N=67) and 102 nM for genotype 1b (range 45–170 nM; N=29).
-In replication competent virus assays, the EC 50 value of sofosbuvir against genotype 1a was 30 nM.
+In HCV replicon assays, the EC50 values of sofosbuvir against full-length replicons from genotypes 1a, 1b, and 4a, and chimeric 1b replicons encoding NS5B from genotypes 5a or 6a ranged from 14–110 nM.
+The median EC50 value of sofosbuvir against chimeric replicons encoding NS5B sequences from clinical isolates was 62 nM for genotype 1a (range 29–128 nM; N=67) and 102 nM for genotype 1b (range 45–170 nM; N=29).
+In replication competent virus assays, the EC50 value of sofosbuvir against genotype 1a was 30 nM.
 Evaluation of sofosbuvir in combination with ledipasvir showed no antagonistic effect in reducing HCV RNA levels in replicon cells.
 
 Resistance
@@ -255,7 +256,7 @@ In Cell Culture
 HCV replicons with reduced susceptibility to ledipasvir have been selected in cell culture for genotypes 1a and 1b.
 Reduced susceptibility to ledipasvir was associated with the primary NS5A amino acid substitution Y93H in both genotypes 1a and 1b.
 Additionally, a Q30E substitution emerged in genotype 1a replicons.
-Site-directed mutagenesis of the Y93H in both genotypes 1a and 1b, as well as the Q30E substitution in genotype 1a, conferred high levels of reduced susceptibility to ledipasvir (fold change in EC 50 greater than 1000-fold).
+Site-directed mutagenesis of the Y93H in both genotypes 1a and 1b, as well as the Q30E substitution in genotype 1a, conferred high levels of reduced susceptibility to ledipasvir (fold change in EC50 greater than 1000-fold).
 
 HCV replicons with reduced susceptibility to sofosbuvir have been selected in cell culture for multiple genotypes including 1b, 4a, 5a, and 6a.
 Reduced susceptibility to sofosbuvir was associated with the NS5B substitution S282T in all replicon genotypes examined.

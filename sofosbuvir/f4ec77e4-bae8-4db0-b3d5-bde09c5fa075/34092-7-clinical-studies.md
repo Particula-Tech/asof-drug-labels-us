@@ -10,7 +10,7 @@ Table 10 Trials Conducted with HARVONI with or without Ribavirin in Subjects wit
 | --- | --- | --- |
 | ION-3 Open-label. (NCT01851330) | GT1, TN without cirrhosis | HARVONI 8 weeks (215) HARVONI + RBV 8 weeks (216) HARVONI 12 weeks (216) |
 | ION-1 (NCT01701401) | GT1, TN with or without cirrhosis | HARVONI 12 weeks (214) HARVONI + RBV 12 weeks (217) HARVONI 24 weeks (217) HARVONI + RBV 24 weeks (217) |
-| ION-2 (NCT01768286) | GT1, TE TE = Treatment-experienced subjects including those who have failed a peginterferon alfa + RBV based regimen with or without an HCV protease inhibitor. with or without cirrhosis | HARVONI 12 weeks (109) HARVONI + RBV 12 weeks (111) HARVONI 24 weeks (109) HARVONI + RBV 24 weeks (111) |
+| ION-2 (NCT01768286) | GT1, TETE = Treatment-experienced subjects including those who have failed a peginterferon alfa + RBV based regimen with or without an HCV protease inhibitor. with or without cirrhosis | HARVONI 12 weeks (109) HARVONI + RBV 12 weeks (111) HARVONI 24 weeks (109) HARVONI + RBV 24 weeks (111) |
 | SIRIUS Double-blind, placebo-controlled. (NCT01965535) | GT1, TE with cirrhosis | HARVONI + RBV 12 Weeks (77) HARVONI 24 weeks (77) |
 | ION-4 (NCT02073656) | GT1 and GT4 HCV/HIV-1 coinfected TN and TE with or without cirrhosis | HARVONI 12 Weeks (N=327 for GT1; N=8 for GT4) |
 | 1119 (NCT02081079) | GT4 and GT5, TN and TE with or without cirrhosis | HARVONI 12 Weeks (N=44 for GT4; N=41 for GT5) |
@@ -18,7 +18,7 @@ Table 10 Trials Conducted with HARVONI with or without Ribavirin in Subjects wit
 | SOLAR-1 and SOLAR-2 (NCT01938430 and NCT02010255) | GT1 and GT4 pre-transplant with decompensated cirrhosis or post-transplant with Metavir F0–F3 fibrosis, compensated cirrhosis, decompensated cirrhosis, or FCH | HARVONI + RBV 12 Weeks (336) HARVONI + RBV 24 weeks (334) |
 | 1116 (NCT02249182) | GT1 or 4 TN and TE with or without cirrhosis in pediatric subjects 3 years of age and older | HARVONI 12 Weeks (223) HARVONI 24 Weeks (1) |
 | 0154 (NCT01958281) | GT1 TN and TE with severe RI without dialysis | HARVONI 12 weeks (18) |
-| 4063 (NCT03036839) | GT1, 5, or 6 TN and TE TE = Treatment experienced subjects including those who have failed either interferon/peginterferon alfa/ribavirin based regimens or HCV-specific direct-acting antiviral regimens that do not include an NS5A polymerase inhibitor. with or without compensated cirrhosis, with ESRD requiring dialysis | HARVONI 8 Weeks (45) HARVONI 12 Weeks (12) HARVONI 24 Weeks (6) |
+| 4063 (NCT03036839) | GT1, 5, or 6 TN and TETE = Treatment experienced subjects including those who have failed either interferon/peginterferon alfa/ribavirin based regimens or HCV-specific direct-acting antiviral regimens that do not include an NS5A polymerase inhibitor. with or without compensated cirrhosis, with ESRD requiring dialysis | HARVONI 8 Weeks (45) HARVONI 12 Weeks (12) HARVONI 24 Weeks (6) |
 | ESRD = End stage renal disease; RBV = ribavirin; RI = Renal impairment; TN = Treatment-naïve subjects. |  |  |
 
 HARVONI was administered once daily by mouth in these trials.
@@ -39,7 +39,7 @@ ION-3 was a randomized, open-label trial in treatment-naïve non-cirrhotic subje
 Subjects were randomized in a 1:1:1 ratio to one of the following three treatment groups and stratified by HCV genotype (1a vs 1b): HARVONI for 8 weeks, HARVONI for 12 weeks, or HARVONI + ribavirin for 8 weeks.
 
 Demographics and baseline characteristics were balanced across the treatment groups.
-Of the 647 treated subjects, the median age was 55 years (range: 20 to 75); 58% of the subjects were male; 78% were White; 19% were Black; 6% were Hispanic or Latino; mean body mass index was 28 kg/m 2 (range: 18 to 56 kg/m 2); 81% had baseline HCV RNA levels greater than or equal to 800,000 IU per mL; 80% had genotype 1a HCV infection; 73% had non-C/C IL28B alleles (CT or TT).
+Of the 647 treated subjects, the median age was 55 years (range: 20 to 75); 58% of the subjects were male; 78% were White; 19% were Black; 6% were Hispanic or Latino; mean body mass index was 28 kg/m2 (range: 18 to 56 kg/m2); 81% had baseline HCV RNA levels greater than or equal to 800,000 IU per mL; 80% had genotype 1a HCV infection; 73% had non-C/C IL28B alleles (CT or TT).
 
 Table 11 presents the SVR12 for the HARVONI treatment groups in the ION-3 trial after 8 and 12 weeks of HARVONI treatment.
 Ribavirin was not shown to increase the SVR12 observed with HARVONI.
@@ -52,9 +52,9 @@ Table 11 Study ION-3: SVR12 after 8 and 12 Weeks of Treatment in Treatment-Naïv
 | SVR12 | 94% (202/215) | 96% (208/216) |
 | Outcome for Subjects without SVR |  |  |
 | On-Treatment Virologic Failure | 0/215 | 0/216 |
-| Relapse The denominator for relapse is the number of subjects with HCV RNA <LLOQ at their last on-treatment assessment. | 5% (11/215) | 1% (3/216) |
-| Other Other includes subjects who did not achieve SVR and did not meet virologic failure criteria (e.g., lost to follow-up). | 1% (2/215) | 2% (5/216) |
-| SVR by Genotype One subject without a confirmed subtype for genotype 1 infection was excluded from this subgroup analysis. |  |  |
+| RelapseThe denominator for relapse is the number of subjects with HCV RNA <LLOQ at their last on-treatment assessment. | 5% (11/215) | 1% (3/216) |
+| OtherOther includes subjects who did not achieve SVR and did not meet virologic failure criteria (e.g., lost to follow-up). | 1% (2/215) | 2% (5/216) |
+| SVR by GenotypeOne subject without a confirmed subtype for genotype 1 infection was excluded from this subgroup analysis. |  |  |
 | Genotype 1a | 93% (159/171) | 96% (165/172) |
 | Genotype 1b | 98% (42/43) | 98% (43/44) |
 
@@ -68,7 +68,7 @@ Table 12 Study ION-3: Relapse Rates by Baseline Viral Load after 8 and 12 Weeks 
 |  | HARVONI 8 Weeks (N=215) | HARVONI 12 Weeks (N=216) |
 | --- | --- | --- |
 | Number of Responders at End of Treatment | 215 | 216 |
-| Baseline HCV RNA HCV RNA values were determined using the Roche TaqMan Assay; a subject's HCV RNA may vary from visit to visit. |  |  |
+| Baseline HCV RNAHCV RNA values were determined using the Roche TaqMan Assay; a subject's HCV RNA may vary from visit to visit. |  |  |
 | HCV RNA <6 million IU/mL | 2% (2/123) | 2% (2/131) |
 | HCV RNA ≥6 million IU/mL | 10% (9/92) | 1% (1/85) |
 
@@ -79,7 +79,7 @@ Subjects were randomized in a 1:1:1:1 ratio to receive HARVONI for 12 weeks, HAR
 Randomization was stratified by the presence or absence of cirrhosis and HCV genotype (1a vs 1b).
 
 Demographics and baseline characteristics were balanced across the treatment groups.
-Of the 865 treated subjects, the median age was 54 years (range: 18 to 80); 59% of the subjects were male; 85% were White; 12% were Black; 12% were Hispanic or Latino; mean body mass index was 27 kg/m 2 (range: 18 to 48 kg/m 2); 79% had baseline HCV RNA levels greater than or equal to 800,000 IU per mL; 67% had genotype 1a HCV infection; 70% had non-C/C IL28B alleles (CT or TT); and 16% had cirrhosis.
+Of the 865 treated subjects, the median age was 54 years (range: 18 to 80); 59% of the subjects were male; 85% were White; 12% were Black; 12% were Hispanic or Latino; mean body mass index was 27 kg/m2 (range: 18 to 48 kg/m2); 79% had baseline HCV RNA levels greater than or equal to 800,000 IU per mL; 67% had genotype 1a HCV infection; 70% had non-C/C IL28B alleles (CT or TT); and 16% had cirrhosis.
 
 Table 13 presents the SVR12 for the treatment group of HARVONI for 12 weeks in the ION-1 trial.
 Ribavirin was not shown to increase SVR12 observed with HARVONI.
@@ -89,7 +89,7 @@ Table 13 Study ION-1: SVR12 after 12 Weeks of Treatment in Treatment-Naïve Subj
 
 |  | HARVONI 12 Weeks (N=214) |
 | --- | --- |
-| SVR12 Excluding one subject with genotype 4 infection. | 99% (210/213) |
+| SVR12Excluding one subject with genotype 4 infection. | 99% (210/213) |
 | Outcome for Subjects without SVR |  |
 | On-Treatment Virologic Failure | 0/213 |
 | Relapse,The denominator for relapse is the number of subjects with HCV RNA <LLOQ at their last on-treatment assessment. | <1% (1/212) |
@@ -101,10 +101,10 @@ Table 14 Study ION-1: SVR12 for Selected Subgroups after 12 Weeks of Treatment i
 
 |  | HARVONI 12 Weeks (N=214) |
 | --- | --- |
-| Genotype One subject without a confirmed subtype for genotype 1 infection and one subject with genotype 4 infection were excluded from this subgroup analysis. |  |
+| GenotypeOne subject without a confirmed subtype for genotype 1 infection and one subject with genotype 4 infection were excluded from this subgroup analysis. |  |
 | Genotype 1a | 98% (142/145) |
 | Genotype 1b | 100% (67/67) |
-| Cirrhosis Subjects with missing cirrhosis status were excluded from this subgroup analysis. |  |
+| CirrhosisSubjects with missing cirrhosis status were excluded from this subgroup analysis. |  |
 | No | 99% (176/177) |
 | Yes | 94% (32/34) |
 
@@ -115,7 +115,7 @@ Subjects were randomized in a 1:1:1:1 ratio to receive HARVONI for 12 weeks, HAR
 Randomization was stratified by the presence or absence of cirrhosis, HCV genotype (1a vs 1b) and response to prior HCV therapy (relapse/breakthrough vs nonresponse).
 
 Demographics and baseline characteristics were balanced across the treatment groups.
-Of the 440 treated subjects, the median age was 57 years (range: 24 to 75); 65% of the subjects were male; 81% were White; 18% were Black; 9% were Hispanic or Latino; mean body mass index was 28 kg/m 2 (range: 19 to 50 kg/m 2); 89% had baseline HCV RNA levels greater than or equal to 800,000 IU per mL; 79% had genotype 1a HCV infection; 88% had non-C/C IL28B alleles (CT or TT); and 20% had cirrhosis.
+Of the 440 treated subjects, the median age was 57 years (range: 24 to 75); 65% of the subjects were male; 81% were White; 18% were Black; 9% were Hispanic or Latino; mean body mass index was 28 kg/m2 (range: 19 to 50 kg/m2); 89% had baseline HCV RNA levels greater than or equal to 800,000 IU per mL; 79% had genotype 1a HCV infection; 88% had non-C/C IL28B alleles (CT or TT); and 20% had cirrhosis.
 Forty-seven percent (47%) of the subjects failed a prior therapy of pegylated interferon and ribavirin.
 Among these subjects, 49% were relapse/breakthrough and 51% were non-responder.
 Fifty-three percent (53%) of the subjects failed a prior therapy of pegylated interferon and ribavirin with an HCV protease inhibitor.
@@ -132,8 +132,8 @@ Table 15 Study ION-2: SVR12 after 12 and 24 Weeks of Treatment in Subjects with 
 | SVR12 | 94% (102/109) | 99% (108/109) |
 | Outcome for Subjects without SVR |  |  |
 | On-Treatment Virologic Failure | 0/109 | 0/109 |
-| Relapse The denominator for relapse is the number of subjects with HCV RNA <LLOQ at their last on-treatment assessment. | 6% (7/108) | 0/109 |
-| Other Other includes subjects who did not achieve SVR12 and did not meet virologic failure criteria (e.g., lost to follow-up). | 0/109 | 1% (1/109) |
+| RelapseThe denominator for relapse is the number of subjects with HCV RNA <LLOQ at their last on-treatment assessment. | 6% (7/108) | 0/109 |
+| OtherOther includes subjects who did not achieve SVR12 and did not meet virologic failure criteria (e.g., lost to follow-up). | 0/109 | 1% (1/109) |
 
 Among the subjects with available SVR12 and SVR24 data (206/218), all subjects who achieved SVR12 in the ION-2 study also achieved SVR24.
 
@@ -146,7 +146,7 @@ Table 16 Study ION-2: SVR12 for Selected Subgroups after 12 and 24 Weeks of Trea
 | Genotype |  |  |
 | Genotype 1a | 95% (82/86) | 99% (84/85) |
 | Genotype 1b | 87% (20/23) | 100% (24/24) |
-| Cirrhosis Subjects with missing cirrhosis status were excluded from this subgroup analysis. |  |  |
+| CirrhosisSubjects with missing cirrhosis status were excluded from this subgroup analysis. |  |  |
 | No | 95% (83/87) | 99% (85/86) |
 | Yes | 86% (19/22) | 100% (22/22) |
 | Prior HCV Therapy |  |  |
@@ -162,10 +162,10 @@ Table 17 Study ION-2: Relapse Rates for Selected Subgroups after 12 and 24 Weeks
 |  | HARVONI 12 Weeks (N=109) | HARVONI 24 Weeks (N=109) |
 | --- | --- | --- |
 | Number of Responders at End of Treatment | 108 | 109 |
-| Cirrhosis Subjects with missing cirrhosis status were excluded from this subgroup analysis. |  |  |
-| No | 5% (4/86) These 4 non-cirrhotic relapsers all had baseline NS5A resistance-associated polymorphisms. | 0% (0/86) |
+| CirrhosisSubjects with missing cirrhosis status were excluded from this subgroup analysis. |  |  |
+| No | 5% (4/86)These 4 non-cirrhotic relapsers all had baseline NS5A resistance-associated polymorphisms. | 0% (0/86) |
 | Yes | 14% (3/22) | 0% (0/22) |
-| Presence of Baseline NS5A Resistance-Associated Polymorphisms NS5A resistance-associated polymorphisms include any change at NS5A positions 24, 28, 30, 31, 58, 92, or 93. |  |  |
+| Presence of Baseline NS5A Resistance-Associated PolymorphismsNS5A resistance-associated polymorphisms include any change at NS5A positions 24, 28, 30, 31, 58, 92, or 93. |  |  |
 | No | 2% (2/85) | 0% (0/90) |
 | Yes | 22% (5/23) | 0% (0/19) |
 | IL28B Status |  |  |
@@ -179,7 +179,7 @@ Subjects were randomized in a 1:1 ratio to receive placebo for 12 weeks followed
 Randomization was stratified by HCV genotype (1a vs 1b) and response to prior HCV therapy (never achieved HCV RNA less than LLOQ vs achieved HCV RNA less than LLOQ).
 
 Demographics and baseline characteristics were balanced across the treatment groups.
-Of the 155 randomized subjects, the median age was 56 years (range: 23 to 77); 74% of the subjects were male; 97% were White; mean body mass index was 27 kg/m 2 (range: 19 to 47 kg/m 2); 63% had genotype 1a HCV infection; 94% had non-C/C IL28B alleles (CT or TT).
+Of the 155 randomized subjects, the median age was 56 years (range: 23 to 77); 74% of the subjects were male; 97% were White; mean body mass index was 27 kg/m2 (range: 19 to 47 kg/m2); 63% had genotype 1a HCV infection; 94% had non-C/C IL28B alleles (CT or TT).
 One subject discontinued therapy while on placebo, and was not included in the efficacy analysis.
 
 The SVR12 was 96% (74/77) and 97% (75/77) in subjects treated with HARVONI + ribavirin for 12 weeks and HARVONI for 24 weeks without ribavirin, respectively.
@@ -219,7 +219,7 @@ ION-4 was an open-label clinical trial that evaluated the safety and efficacy of
 Treatment-experienced subjects had failed prior treatment with Peg-IFN + ribavirin, Peg-IFN + ribavirin + an HCV protease inhibitor, or sofosbuvir + ribavirin.
 Subjects were on a stable HIV-1 antiretroviral therapy that included emtricitabine + tenofovir disoproxil fumarate, administered with efavirenz, rilpivirine, or raltegravir.
 
-Of the 335 treated subjects, the median age was 52 years (range: 26 to 72); 82% of the subjects were male; 61% were White; 34% were Black; mean body mass index was 27 kg/m 2 (range: 18 to 66 kg/m 2); 75% had genotype 1a HCV infection; 2% had genotype 4 infection; 76% had non-C/C IL28B alleles (CT or TT); and 20% had compensated cirrhosis.
+Of the 335 treated subjects, the median age was 52 years (range: 26 to 72); 82% of the subjects were male; 61% were White; 34% were Black; mean body mass index was 27 kg/m2 (range: 18 to 66 kg/m2); 75% had genotype 1a HCV infection; 2% had genotype 4 infection; 76% had non-C/C IL28B alleles (CT or TT); and 20% had compensated cirrhosis.
 Fifty-five percent (55%) of the subjects were treatment-experienced.
 
 Table 18 presents the SVR12 in the ION-4 trial after 12 weeks of HARVONI treatment.
@@ -231,8 +231,8 @@ Table 18 Study ION-4: SVR12 in Subjects with Genotype 1 or 4 HCV Coinfected with
 | SVR12 | 96% (321/335) |
 | Outcome for Subjects without SVR |  |
 | On-Treatment Virologic Failure | <1% (2/335) |
-| Relapse The denominator for relapse is the number of subjects with HCV RNA <LLOQ at their last on-treatment assessment. | 3% (10/333) |
-| Other Other includes subjects who did not achieve SVR12 and did not meet virologic failure criteria (e.g., lost to follow-up). | <1% (2/335) |
+| RelapseThe denominator for relapse is the number of subjects with HCV RNA <LLOQ at their last on-treatment assessment. | 3% (10/333) |
+| OtherOther includes subjects who did not achieve SVR12 and did not meet virologic failure criteria (e.g., lost to follow-up). | <1% (2/335) |
 
 SVR12 rates were 94% (63/67) in subjects with cirrhosis and 98% (46/47) in subjects who were previously treated and had cirrhosis.
 The relapse rate in the ION-4 trial in Black subjects was 9% (10/115), all of whom were IL28B non-CC genotype, and none in non-Black subjects (0/220).
@@ -240,7 +240,7 @@ In the ION-1, ION-2, and ION-3 HCV mono-infection studies, relapse rates were 3%
 
 No subject had HIV-1 rebound during the study.
 The percentage of CD4+ cells did not change during treatment.
-Median CD4+ cell count increase of 29 cells/mm 3 was observed at the end of treatment with HARVONI for 12 weeks.
+Median CD4+ cell count increase of 29 cells/mm3 was observed at the end of treatment with HARVONI for 12 weeks.
 
 ## 14.5 Clinical Trials in Liver Transplant Recipients and/or Subjects with Decompensated Cirrhosis
 
@@ -253,7 +253,7 @@ For subjects with decompensated cirrhosis in SOLAR-1 and SOLAR-2 studies, the st
 Ribavirin dose adjustments were performed according to the ribavirin labeling [see Clinical Studies (14.1)].
 
 Demographics and baseline characteristics were balanced across the treatment groups.
-Of the 670 treated subjects, the median age was 59 years (range: 21 to 81); 77% of the subjects were male; 91% were White; mean body mass index was 28 kg/m 2 (range: 18 to 49 kg/m 2); 94% and 6% had genotype 1 and 4 HCV infection, respectively; 78% of the subjects failed a prior HCV therapy.
+Of the 670 treated subjects, the median age was 59 years (range: 21 to 81); 77% of the subjects were male; 91% were White; mean body mass index was 28 kg/m2 (range: 18 to 49 kg/m2); 94% and 6% had genotype 1 and 4 HCV infection, respectively; 78% of the subjects failed a prior HCV therapy.
 
 Table 19 presents the pooled SVR12 rates for SOLAR-1 and SOLAR-2 in subjects with genotype 1 HCV treated with HARVONI + ribavirin for 12 weeks.
 The SVR12 rates observed with 24 weeks of HARVONI + ribavirin were similar to the SVR12 rates observed with 12 weeks of treatment.
@@ -261,7 +261,7 @@ Therefore, the results for the HARVONI + ribavirin 24 weeks arm are not presente
 
 Table 19 Studies SOLAR-1 and SOLAR-2: SVR12 and Relapse Rates After 12 Weeks of Treatment with HARVONI and Ribavirin in Subjects with Genotype 1 HCV Who Were Post Liver Transplant and/or Who Had Decompensated Liver Disease
 
-|  | SVR12 (N=300) Five subjects transplanted prior to post-treatment Week 12 with HCV RNA<LLOQ at last measurement prior to transplant were excluded.,Two subjects were excluded due to failure to meet the inclusion criteria for any of the treatment groups (i.e., did not have decompensated cirrhosis and had also not received a liver transplant). | Relapse (N=288),,Twelve subjects were excluded from relapse analysis because they died (N=11) or withdrew consent (N=1) prior to reaching the 12-week post-treatment follow-up visit. |
+|  | SVR12 (N=300)Five subjects transplanted prior to post-treatment Week 12 with HCV RNA<LLOQ at last measurement prior to transplant were excluded.,Two subjects were excluded due to failure to meet the inclusion criteria for any of the treatment groups (i.e., did not have decompensated cirrhosis and had also not received a liver transplant). | Relapse (N=288),,Twelve subjects were excluded from relapse analysis because they died (N=11) or withdrew consent (N=1) prior to reaching the 12-week post-treatment follow-up visit. |
 | --- | --- | --- |
 |  | HARVONI + RBV 12 weeks (N=307) |  |
 | Pre-transplant |  |  |
@@ -292,12 +292,12 @@ Table 20 Trial 4063: SVR12 after 8, 12, and 24 Weeks of Treatment in Adults with
 
 |  | HARVONI 8 Weeks (N=45) | HARVONI 12 Weeks (N=12) | HARVONI 24 Weeks (N=6) |
 | --- | --- | --- | --- |
-| Population | Treatment-naïve, GT 1 HCV Non-cirrhotic | Treatment-naïve and treatment- experienced Subjects with prior exposure to any HCV NS5A inhibitor were excluded. GT 1, 5, 6 One subject had an indeterminant HCV GT. HCV Non-cirrhotic | Treatment-experienced, GT 1 HCV with compensated cirrhosis |
+| Population | Treatment-naïve, GT 1 HCV Non-cirrhotic | Treatment-naïve and treatment- experiencedSubjects with prior exposure to any HCV NS5A inhibitor were excluded. GT 1, 5, 6One subject had an indeterminant HCV GT. HCV Non-cirrhotic | Treatment-experienced, GT 1 HCV with compensated cirrhosis |
 | SVR12 | 93% (42/45) | 100% (12/12) | 83% (5/6) |
 | Outcome for Subjects without SVR |  |  |  |
 | On-Treatment Virologic Failure | 0/45 | 0/12 | 0/6 |
 | Relapse | 0/44 | 0/12 | 0/6 |
-| Other "Other" outcomes includes subjects who did not achieve SVR and did not meet virologic failure criteria. All subjects who failed without virologic relapse or on-treatment virologic failure died prior to follow-up Week 12. None of these deaths were assessed as treatment-related. | 7% (3/45) | 0/12 | 17% (1/6) |
+| Other"Other" outcomes includes subjects who did not achieve SVR and did not meet virologic failure criteria. All subjects who failed without virologic relapse or on-treatment virologic failure died prior to follow-up Week 12. None of these deaths were assessed as treatment-related. | 7% (3/45) | 0/12 | 17% (1/6) |
 
 ## 14.7 Clinical Trial in Pediatric Subjects
 
@@ -306,7 +306,7 @@ This study evaluated 12 weeks of treatment with HARVONI once daily in genotype 1
 
 Subjects 12 Years to <18 Years of Age: HARVONI was evaluated in 100 subjects 12 years to <18 years of age with HCV genotype 1 infection.
 Demographics and baseline characteristics were balanced across treatment-naïve and treatment-experienced subjects (patients had failed an interferon based regimen with or without ribavirin).
-The median age was 15 years (range: 12 to 17); 63% of the subjects were female; 91% were White, 7% were Black, and 2% were Asian; 13% were Hispanic/Latino; mean body mass index was 23 kg/m 2 (range: 13.1 to 36.6 kg/m 2); mean weight was 61 kg (range 33 to 126 kg); 55% had baseline HCV RNA levels greater than or equal to 800,000 IU/mL; 81% had genotype 1a HCV infection.
+The median age was 15 years (range: 12 to 17); 63% of the subjects were female; 91% were White, 7% were Black, and 2% were Asian; 13% were Hispanic/Latino; mean body mass index was 23 kg/m2 (range: 13.1 to 36.6 kg/m2); mean weight was 61 kg (range 33 to 126 kg); 55% had baseline HCV RNA levels greater than or equal to 800,000 IU/mL; 81% had genotype 1a HCV infection.
 One subject (treatment-naïve) had known compensated cirrhosis.
 The majority of subjects (84%) had been infected through vertical transmission.
 
@@ -317,7 +317,7 @@ Two subjects were lost to follow-up.
 Subjects 6 Years to <12 Years of Age: HARVONI was evaluated in 90 subjects 6 years to <12 years of age with HCV genotype 1 or 4 infection.
 Among these subjects, 72 (80%) were treatment-naïve and 18 (20%) were treatment-experienced.
 Eighty-nine of the subjects (87 with genotype 1 HCV infection and 2 with genotype 4 HCV infection) were treated with HARVONI for 12 weeks, 1 subject with genotype 1 HCV infection was treated with HARVONI for 24 weeks.
-The median age was 9 years (range: 6 to 11); 59% of the subjects were male; 79% were White, 8% were Black, and 6% were Asian; 10% were Hispanic/Latino; mean body mass index was 18 kg/m 2 (range: 13 to 31kg/m 2); mean weight was 33 kg (range 18 to 76 kg); 59% had baseline HCV RNA levels greater than or equal to 800,000 IU/mL; 86% had genotype 1a HCV infection; 2 subjects (1 treatment-naïve, 1 treatment-experienced) had known compensated cirrhosis.
+The median age was 9 years (range: 6 to 11); 59% of the subjects were male; 79% were White, 8% were Black, and 6% were Asian; 10% were Hispanic/Latino; mean body mass index was 18 kg/m2 (range: 13 to 31kg/m2); mean weight was 33 kg (range 18 to 76 kg); 59% had baseline HCV RNA levels greater than or equal to 800,000 IU/mL; 86% had genotype 1a HCV infection; 2 subjects (1 treatment-naïve, 1 treatment-experienced) had known compensated cirrhosis.
 The majority of subjects (97%) had been infected through vertical transmission.
 
 The SVR12 rate was 99% (86/87) in subjects with genotype 1 HCV infection, and 100% (2/2) in subjects with genotype 4 HCV infection.
@@ -326,7 +326,7 @@ The one subject (genotype 1) who did not achieve SVR12 and relapsed had been tre
 
 Subjects 3 Years to <6 Years of Age: HARVONI was evaluated in 34 subjects 3 years to <6 years of age with HCV genotype 1 (N = 33) or genotype 4 (N = 1) infection.
 All of the subjects were treatment-naïve and treated with HARVONI for 12 weeks.
-The median age was 5 years (range: 3 to 5); 71% of the subjects were female; 79% were White, 3% were Black, and 6% were Asian; 18% were Hispanic/Latino; mean body mass index was 17 kg/m 2 (range: 13 to 25 kg/m 2); mean weight was 19 kg (range 11 to 34 kg); 56% had baseline HCV RNA levels greater than or equal to 800,000 IU/mL; 82% had genotype 1a HCV infection; no subjects had known cirrhosis.
+The median age was 5 years (range: 3 to 5); 71% of the subjects were female; 79% were White, 3% were Black, and 6% were Asian; 18% were Hispanic/Latino; mean body mass index was 17 kg/m2 (range: 13 to 25 kg/m2); mean weight was 19 kg (range 11 to 34 kg); 56% had baseline HCV RNA levels greater than or equal to 800,000 IU/mL; 82% had genotype 1a HCV infection; no subjects had known cirrhosis.
 All subjects (100%) had been infected through vertical transmission.
 
 The SVR12 rate was 97% (32/33) in subjects with genotype 1 HCV infection, and the one subject with genotype 4 HCV infection also achieved SVR12.

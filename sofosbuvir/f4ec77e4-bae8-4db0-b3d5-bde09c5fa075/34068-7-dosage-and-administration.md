@@ -9,7 +9,6 @@ Test all patients for evidence of current or prior HBV infection by measuring he
 Table 1 shows the recommended HARVONI treatment regimen and duration based on patient population.
 Relapse rates are affected by baseline host and viral factors and differ between treatment durations for certain subgroups [see Clinical Studies (14)].
 
-For patients with HCV/HIV-1 coinfection, follow the dosage recommendations in Table 1 Refer to for dosage recommendations for concomitant HIV-1 antiviral drugs.
 For patients with HCV/HIV-1 coinfection, follow the dosage recommendations in Table 1 [see Clinical Studies (14)].
 Refer to Drug Interactions (7) for dosage recommendations for concomitant HIV-1 antiviral drugs.
 
@@ -17,10 +16,10 @@ Table 1 Recommended Treatment Regimen and Duration for HARVONI in Patients 3 Yea
 
 | HCV Genotype | Patient Population | Treatment Regimen and Duration |
 | --- | --- | --- |
-| Genotype 1 | Treatment-naïve without cirrhosis or with compensated cirrhosis (Child-Pugh A) | HARVONI 12 weeks HARVONI for 8 weeks can be considered in treatment-naïve genotype 1 patients without cirrhosis who have pretreatment HCV RNA less than 6 million IU/mL [see Clinical Studies (14.2)]. |
-| Treatment-experienced Treatment-experienced adult and pediatric subjects have failed a peginterferon alfa +/- ribavirin based regimen with or without an HCV protease inhibitor. without cirrhosis | HARVONI 12 weeks |  |
-| Treatment-experienced with compensated cirrhosis (Child-Pugh A) | HARVONI 24 weeks HARVONI + ribavirin for 12 weeks can be considered in treatment-experienced genotype 1 patients with cirrhosis who are eligible for ribavirin [see Dosage and Administration (2.3 and 2.4) and Clinical Studies (14.2)]. |  |
-| Treatment-naïve and treatment-experienced with decompensated cirrhosis (Child-Pugh B or C) | HARVONI + ribavirin See Dosage and Administration 2.3 and 2.4 for ribavirin dosage recommendations. 12 weeks |  |
+| Genotype 1 | Treatment-naïve without cirrhosis or with compensated cirrhosis (Child-Pugh A) | HARVONI 12 weeksHARVONI for 8 weeks can be considered in treatment-naïve genotype 1 patients without cirrhosis who have pretreatment HCV RNA less than 6 million IU/mL [see Clinical Studies (14.2)]. |
+| Treatment-experiencedTreatment-experienced adult and pediatric subjects have failed a peginterferon alfa +/- ribavirin based regimen with or without an HCV protease inhibitor. without cirrhosis | HARVONI 12 weeks |  |
+| Treatment-experienced with compensated cirrhosis (Child-Pugh A) | HARVONI 24 weeksHARVONI + ribavirin for 12 weeks can be considered in treatment-experienced genotype 1 patients with cirrhosis who are eligible for ribavirin [see Dosage and Administration (2.3 and 2.4) and Clinical Studies (14.2)]. |  |
+| Treatment-naïve and treatment-experienced with decompensated cirrhosis (Child-Pugh B or C) | HARVONI + ribavirinSee Dosage and Administration 2.3 and 2.4 for ribavirin dosage recommendations. 12 weeks |  |
 | Genotype 1 or 4 | Treatment-naïve and treatment-experienced liver transplant recipients without cirrhosis, or with compensated cirrhosis (Child-Pugh A) | HARVONI + ribavirin 12 weeks |
 | Genotype 4, 5, or 6 | Treatment-naïve and treatment-experienced, without cirrhosis or with compensated cirrhosis (Child-Pugh A) | HARVONI 12 weeks |
 
@@ -52,7 +51,7 @@ Table 2 Dosing for Pediatric Patients 3 Years and Older Using HARVONI Tablets or
 
 Table 3 Recommended Dosing for Ribavirin in Combination Therapy with HARVONI for Pediatric Patients 3 Years and Older
 
-| Body Weight (kg) | Oral Ribavirin Daily Dosage The daily dosage of ribavirin is weight-based and is administered orally in two divided doses with food. |
+| Body Weight (kg) | Oral Ribavirin Daily DosageThe daily dosage of ribavirin is weight-based and is administered orally in two divided doses with food. |
 | --- | --- |
 | less than 47 | 15 mg per kg per day (divided dose AM and PM) |
 | 47–49 | 600 mg per day (1 × 200 mg AM, 2 × 200 mg PM) |

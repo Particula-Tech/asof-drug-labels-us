@@ -1,4 +1,4 @@
-# INSTRUCTIONS FOR USE HARVONI ® (har-VOE-nee) (ledipasvir and sofosbuvir) pellets, for oral use
+# INSTRUCTIONS FOR USE HARVONI® (har-VOE-nee) (ledipasvir and sofosbuvir) pellets, for oral use
 
 Read the Patient Information that comes with HARVONI oral pellets for important information about HARVONI.
 
