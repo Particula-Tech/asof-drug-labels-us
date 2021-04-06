@@ -94,7 +94,7 @@ Table 4: Dose Adjustments for Neutropenia and Thrombocytopenia in Pediatric Pati
 |  | 100 mg | 80 mg | 70 mg |  |  |  |  |
 | *ANC: absolute neutrophil count ** lower tablet dose not available |  |  |  |  |  |  |  |
 
-For pediatric patients with chronic phase CML, if Grade ≥3 neutropenia or thrombocytopenia recurs during complete hematologic response (CHR), interrupt SPRYCEL and resume at a reduced dose.
+For pediatric patients with chronic phase CML, if Grade ≥ 3 neutropenia or thrombocytopenia recurs during complete hematologic response (CHR), interrupt SPRYCEL and resume at a reduced dose.
 Implement temporary dose reductions for intermediate degrees of cytopenia and disease response as needed.
 
 For pediatric patients with Ph+ ALL, if neutropenia and/or thrombocytopenia result in a delay of the next block of treatment by more than 14 days, interrupt SPRYCEL and resume at the same dose level once the next block of treatment is started.

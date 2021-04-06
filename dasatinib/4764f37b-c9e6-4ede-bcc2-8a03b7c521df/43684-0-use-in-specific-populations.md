@@ -49,10 +49,9 @@ Because of the potential for serious adverse reactions in nursing children from 
 
 ### Contraception
 
-#### Females
-
 SPRYCEL can cause fetal harm when administered to a pregnant woman [see Use in Specific Populations (8.1)].
-Advise females of reproductive potential to avoid pregnancy, which may include the use of effective contraceptive methods, during treatment with SPRYCEL and for 30 days after the final dose.
+Advise females of reproductive potential to avoid pregnancy.
+Both sexually active male and female patients of childbearing potential should use adequate contraceptive methods during treatment with SPRYCEL and for 30 days after the final dose.
 
 #### Infertility
 

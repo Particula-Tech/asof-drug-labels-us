@@ -72,7 +72,7 @@ Patients with advanced stage disease and/or high tumor burden may be at increase
 
 Based on limited human data, SPRYCEL can cause fetal harm when administered to a pregnant woman.
 Adverse pharmacologic effects of SPRYCEL including hydrops fetalis, fetal leukopenia, and fetal thrombocytopenia have been reported with maternal exposure to SPRYCEL.
-Advise females of reproductive potential to avoid pregnancy, which may include the use of effective contraception, during treatment with SPRYCEL and for 30 days after the final dose [see Use in Specific Populations (8.1, 8.3)].
+Advise patients of reproductive potential to avoid pregnancy, which may include the use of effective contraception by both sexually active male and female patients, during treatment with SPRYCEL and for 30 days after the final dose [see Use in Specific Populations (8.1, 8.3)].
 
 ## 5.10 Effects on Growth and Development in Pediatric Patients
 

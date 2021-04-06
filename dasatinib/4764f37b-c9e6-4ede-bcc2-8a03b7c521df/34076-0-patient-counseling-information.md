@@ -30,7 +30,7 @@ Inform pediatric patients and their caregivers of the possibility of developing 
 ### Embryo-Fetal Toxicity
 
 - •Advise pregnant women of the potential risk to a fetus [see Warnings and Precautions (5.9) and Use in Specific Populations (8.1)].
-- •Advise females of reproductive potential to avoid pregnancy, which may include use of effective contraception during treatment with SPRYCEL and for 30 days after the final dose.
+- •Advise patients of reproductive potential to avoid pregnancy, which may include use of effective contraception by both sexually active male and female patients during treatment with SPRYCEL and for 30 days after the final dose.
   Advise females to contact their healthcare provider if they become pregnant, or if pregnancy is suspected, while taking SPRYCEL [see Warnings and Precautions (5.9) and Use in Specific Populations (8.1, 8.3)].
 
 ### Lactation
