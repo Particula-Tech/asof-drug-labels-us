@@ -16,8 +16,8 @@ Table 1 Recommended Treatment Regimen and Duration in Patients 6 Years of Age an
 
 | Patient Population | Treatment Regimen and Duration |
 | --- | --- |
-| Treatment-naïve and treatment-experienced In clinical trials in adults, regimens contained peginterferon alfa/ribavirin with or without an HCV NS3/4A protease inhibitor (boceprevir, simeprevir, or telaprevir)., without cirrhosis and with compensated cirrhosis (Child-Pugh A) | EPCLUSA 12 weeks |
-| Treatment-naïve and treatment-experienced, with decompensated cirrhosis (Child-Pugh B or C) | EPCLUSA + ribavirin See Dosage and Administration 2.3 and 2.4 for ribavirin dosage recommendations. 12 weeks |
+| Treatment-naïve and treatment-experiencedIn clinical trials in adults, regimens contained peginterferon alfa/ribavirin with or without an HCV NS3/4A protease inhibitor (boceprevir, simeprevir, or telaprevir)., without cirrhosis and with compensated cirrhosis (Child-Pugh A) | EPCLUSA 12 weeks |
+| Treatment-naïve and treatment-experienced, with decompensated cirrhosis (Child-Pugh B or C) | EPCLUSA + ribavirinSee Dosage and Administration 2.3 and 2.4 for ribavirin dosage recommendations. 12 weeks |
 
 ## 2.3 Recommended Dosage in Adults
 
@@ -42,7 +42,7 @@ Table 2 Dosing for Pediatric Patients 6 Years and Older or Weighing at Least 17 
 
 Table 3 Recommended Dosing for Ribavirin in Combination Therapy with EPCLUSA for Pediatric Patients 6 Years and Older
 
-| Body Weight (kg) | Oral Ribavirin Daily Dosage The daily dosage of ribavirin is weight-based and is administered orally in two divided doses with food. |
+| Body Weight (kg) | Oral Ribavirin Daily DosageThe daily dosage of ribavirin is weight-based and is administered orally in two divided doses with food. |
 | --- | --- |
 | less than 47 | 15 mg per kg per day (divided dose AM and PM) |
 | 47–49 | 600 mg per day (1 × 200 mg AM, 2 × 200 mg PM) |
