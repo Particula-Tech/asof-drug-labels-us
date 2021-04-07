@@ -21,12 +21,12 @@ Do not take voriconazole tablets if you:
   See the end of this leaflet for a complete list of ingredients in voriconazole tablets.
 - •are taking any of the following medicines:
 
-| ocisapride | opimozide | oquinidine |
+| •cisapride | •pimozide | •quinidine |
 | --- | --- | --- |
-| osirolimus | orifampin | ocarbamazepine |
-| olong-acting barbiturates like phenobarbital | oefavirenz | oritonavir |
-| orifabutin | oergotamine, dihydroergotamine (ergot alkaloids) | oSt. John’s Wort (herbal supplement) |
-| onaloxegol | otolvaptan |  |
+| •sirolimus | •rifampin | •carbamazepine |
+| •long-acting barbiturates like phenobarbital | •efavirenz | •ritonavir |
+| •rifabutin | •ergotamine, dihydroergotamine (ergot alkaloids) | •St. John’s Wort (herbal supplement) |
+| •naloxegol | •tolvaptan |  |
 
 Ask your healthcare provider or pharmacist if you are not sure if you are taking any of the medicines listed above.
 
@@ -61,7 +61,7 @@ Keep a list of them to show your healthcare provider or pharmacist when you get 
 How should I take voriconazole tablets?
 
 - •Voriconazole tablets may be prescribed to you as:
-- ovoriconazole tablets
+- •voriconazole tablets
 - •Take voriconazole tablets exactly as your healthcare provider tells you to.
 - •Take voriconazole tablets at least 1 hour before or at least 1 hour after meals.
 - •If you take too much voriconazole, call your healthcare provider or go to the nearest hospital emergency room.
@@ -84,24 +84,24 @@ Voriconazole tablets may cause serious side effects including:
 - •liver problems.
   Symptoms of liver problems may include:
 
-| oitchy skin | oyellowing of your eyes | ofeeling very tired |
+| •itchy skin | •yellowing of your eyes | •feeling very tired |
 | --- | --- | --- |
-| oflu-like symptoms | onausea or vomiting |  |
+| •flu-like symptoms | •nausea or vomiting |  |
 
 - •vision changes.
   Symptoms of vision changes may include:
-- oblurred vision
-- ochanges in the way you see colors
-- osensitivity to light (photophobia)
+- •blurred vision
+- •changes in the way you see colors
+- •sensitivity to light (photophobia)
 - •serious heart problems.
   Voriconazole tablets may cause changes in your heart rate or rhythm, including your heart stopping (cardiac arrest).
 - •allergic reactions.
   Symptoms of an allergic reaction may include:
 
-| ofever | osweating | ofeels like your heart is beating fast (tachycardia) |
+| •fever | •sweating | •feels like your heart is beating fast (tachycardia) |
 | --- | --- | --- |
-| ochest tightness | otrouble breathing | ofeel faint |
-| onausea | oitching | oskin rash |
+| •chest tightness | •trouble breathing | •feel faint |
+| •nausea | •itching | •skin rash |
 
 - •kidney problems.
   Voriconazole tablets may cause new or worse problems with kidney function, including kidney failure.
@@ -118,17 +118,17 @@ Voriconazole tablets may cause serious side effects including:
   - •Voriconazole tablets may cause overactive adrenal function (Cushing’s syndrome) when voriconazole is used at the same time with corticosteroids.
 - Symptoms of adrenal insufficiency include:
 
-| ofeeling tired | o lack of energy |  | oweakness |
-| --- | --- | --- | --- |
-| o nausea and vomiting | o feeling dizzy or lightheaded |  | oweight loss |
-| o abdominal pain |  |  |  |
+| •feeling tired | • lack of energy | •weakness |
+| --- | --- | --- |
+| • nausea and vomiting | • feeling dizzy or lightheaded | •weight loss |
+| • abdominal pain |  |  |
 
 Symptoms of Cushing’s syndrome include:
 
-| oweight gain | ofatty hump between the shoulders (buffalo hump) and a rounded face (moon face) | odarkening of the skin on the ostomach, thighs, breasts, and arms |
+| •weight gain | •fatty hump between the shoulders (buffalo hump) and a rounded face (moon face) | •darkening of the skin on the •stomach, thighs, breasts, and arms |
 | --- | --- | --- |
-| othinning skin | obruising easily | ohigh blood sugar |
-| oexcessive hair growth | oexcessive sweating |  |
+| •thinning skin | •bruising easily | •high blood sugar |
+| •excessive hair growth | •excessive sweating |  |
 
 - •bone problems.
   Voriconazole may cause weakening of bones and bone pain.
@@ -140,24 +140,24 @@ listed above.
 
 The most common side effects of voriconazole tablets in adults include:
 
-| ovision changes | orash | ovomiting |
+| •vision changes | •rash | •vomiting |
 | --- | --- | --- |
-| onausea | oheadache | ofast heart beat (tachycardia) |
-| ohallucinations (seeing or hearing things that are not there) | oabnormal liver function testsochills | ofever |
+| •nausea | •headache | •fast heart beat (tachycardia) |
+| •hallucinations (seeing or hearing things that are not there) | •abnormal liver function tests•chills | •fever |
 
 The most common side effects of voriconazole tablets in children include:
 
-| ofever | ohigh blood pressure | oinflammation of mucous membranes |
+| •fever | •high blood pressure | •inflammation of mucous membranes |
 | --- | --- | --- |
-| odiarrhea | ocough | ohallucinations (seeing or hearing things that are not there) |
-| olow platelet counts | olow blood pressure | ocoughing up blood |
-| oabnormal liver function tests | oswelling in arms and legs |  |
-| olow blood calcium levels | ohigh blood sugar levels | oconstipation |
-| olow blood phosphate levels | oheadache | olow blood magnesium levels |
-| ovision changes | ofast heart beat (tachycardia) | ofullness of the stomach area |
-| orash | onose bleeds | ovomiting |
-| ostomach pain | olow blood potassium levels | onausea |
-|  |  | oupper respiratory tract infection |
+| •diarrhea | •cough | •hallucinations (seeing or hearing things that are not there) |
+| •low platelet counts | •low blood pressure | •coughing up blood |
+| •abnormal liver function tests | •swelling in arms and legs |  |
+| •low blood calcium levels | •high blood sugar levels | •constipation |
+| •low blood phosphate levels | •headache | •low blood magnesium levels |
+| •vision changes | •fast heart beat (tachycardia) | •fullness of the stomach area |
+| •rash | •nose bleeds | •vomiting |
+| •stomach pain | •low blood potassium levels | •nausea |
+|  |  | •upper respiratory tract infection |
 
 Tell your healthcare provider if you have any side effect that bothers you or that does not go away.
 
