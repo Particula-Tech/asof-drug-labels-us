@@ -67,7 +67,9 @@ Active Ingredient: ramelteon Inactive Ingredients: copovidone, corn starch, hydr
 
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
 
+Dispense with Medication Guide is also available at: http://www.granulesindia.com/U.S.ProductCatalog.php
+
 Manufactured by: Granules Pharmaceuticals Inc., Chantilly, VA 20151
 
 Rev.
-09/20
+03/2021
