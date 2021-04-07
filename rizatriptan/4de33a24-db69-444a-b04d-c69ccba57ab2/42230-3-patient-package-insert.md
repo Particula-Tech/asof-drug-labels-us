@@ -50,14 +50,14 @@ Before you take rizatriptan benzoate orally disintegrating tablets, tell your do
 
 - •have or have had heart problems, high blood pressure, chest pain, or shortness of breath
 - •have any risk factors for heart problems or blood vessel problems such as:
-  - ohigh blood pressure
-  - ohigh cholesterol
-  - osmoking
-  - oobesity
-  - odiabetes
-  - ofamily history of heart problems
-  - oyou are post menopausal
-  - oyou are a male over 40
+  - •high blood pressure
+  - •high cholesterol
+  - •smoking
+  - •obesity
+  - •diabetes
+  - •family history of heart problems
+  - •you are post menopausal
+  - •you are a male over 40
 - •have phenylketonuria (PKU).
   Rizatriptan benzoate orally disintegrating tablets contain phenylalanine.
 - •have kidney or liver problems
@@ -89,17 +89,17 @@ How should I take rizatriptan benzoate orally disintegrating tablets?
 - •Take rizatriptan benzoate orally disintegrating tablets exactly as your doctor tells you to take it.
 - •Your doctor will tell you how much rizatriptan benzoate orally disintegrating tablets to take and when to take it.
 - •To take rizatriptan benzoate orally disintegrating tablets:
-- oLeave rizatriptan benzoate orally disintegrating tablets in the package it comes in until you are ready to take it.
+- •Leave rizatriptan benzoate orally disintegrating tablets in the package it comes in until you are ready to take it.
   When you are ready to take it:
-- ▪Remove the blister from the foil pouch.
+- •Remove the blister from the foil pouch.
   Do not push the rizatriptan benzoate orally disintegrating tablet through the blister.
-- ▪Peel open the blister pack with dry hands and place the rizatriptan benzoate orally disintegrating tablet on your tongue.
+- •Peel open the blister pack with dry hands and place the rizatriptan benzoate orally disintegrating tablet on your tongue.
   The tablet will dissolve and be swallowed with your saliva.
   No liquid is needed to take the orally disintegrating tablet.
 - •If your headache comes back after your first rizatriptan benzoate orally disintegrating tablets dose:
-- oFor adults: a second dose may be taken 2 hours after the first dose.
+- •For adults: a second dose may be taken 2 hours after the first dose.
   Do not take more than 30 mg of rizatriptan benzoate orally disintegrating tablets in a 24-hour period (for example, do not take more than three 10 mg tablets in a 24-hour period).
-- oFor children 6 to 17 years of age: It is not known if taking more than 1 dose of rizatriptan benzoate orally disintegrating tablets in 24 hours is safe and effective.
+- •For children 6 to 17 years of age: It is not known if taking more than 1 dose of rizatriptan benzoate orally disintegrating tablets in 24 hours is safe and effective.
   Talk to your doctor about what to do if your headache does not go away or comes back.
 - •If you take too much rizatriptan benzoate, call your doctor or go to the nearest hospital emergency room right away.
 
@@ -115,38 +115,38 @@ Call your doctor or go to the nearest hospital emergency room right away if you 
 
 - •heart attack.
   Symptoms of a heart attack may include:
-  - ochest discomfort in the center of your chest that lasts for more than a few minutes or that goes away and comes back
-  - ochest discomfort that feels like uncomfortable pressure, squeezing, fullness or pain
-  - opain or discomfort in your arms, back, neck, jaw or stomach
-  - oshortness of breath with or without chest discomfort
-  - obreaking out in a cold sweat
-  - onausea or vomiting
-  - ofeeling lightheaded
+  - •chest discomfort in the center of your chest that lasts for more than a few minutes or that goes away and comes back
+  - •chest discomfort that feels like uncomfortable pressure, squeezing, fullness or pain
+  - •pain or discomfort in your arms, back, neck, jaw or stomach
+  - •shortness of breath with or without chest discomfort
+  - •breaking out in a cold sweat
+  - •nausea or vomiting
+  - •feeling lightheaded
 - •stroke.
   Symptoms of a stroke may include the following sudden symptoms:
-  - onumbness or weakness in your face, arm or leg, especially on one side of your body
-  - oconfusion, problems speaking or understanding
-  - oproblems seeing in one or both of your eyes
-  - oproblems walking, dizziness, loss of balance or coordination
-  - osevere headache with no known cause
+  - •numbness or weakness in your face, arm or leg, especially on one side of your body
+  - •confusion, problems speaking or understanding
+  - •problems seeing in one or both of your eyes
+  - •problems walking, dizziness, loss of balance or coordination
+  - •severe headache with no known cause
 - •blood vessel problems.
   Symptoms of blood vessel problems may include:
-  - ostomach pain
-  - obloody diarrhea
-  - ovision problems
-  - ocoldness and numbness of hands and feet
+  - •stomach pain
+  - •bloody diarrhea
+  - •vision problems
+  - •coldness and numbness of hands and feet
 - •serotonin syndrome.
   A condition called serotonin syndrome can happen when Triptan medicines such as rizatriptan benzoate orally disintegrating tablets are taken with certain other medicines.
   Symptoms of serotonin syndrome may include:
-  - oagitation
-  - ohallucinations
-  - ocoma
-  - ofast heartbeat
-  - ofast changes in your blood pressure
-  - oincreased body temperature
-  - omuscle spasm
-  - oloss of coordination
-  - onausea, vomiting or diarrhea
+  - •agitation
+  - •hallucinations
+  - •coma
+  - •fast heartbeat
+  - •fast changes in your blood pressure
+  - •increased body temperature
+  - •muscle spasm
+  - •loss of coordination
+  - •nausea, vomiting or diarrhea
 - •increased blood pressure
 
 The most common side effects of rizatriptan benzoate orally disintegrating tablets in adults include:
