@@ -35,11 +35,11 @@ Although the significance of these studies to humans is not clear, patients shou
 
 The mutagenic potential of tretinoin was evaluated in the Ames assay and in the in vivo mouse micronucleus assay, both of which were negative.
 
-In dermal Segment I fertility studies of another tretinoin formulation in rats, slight (not statistically significant) decreases in sperm count and motility were seen at 0.5 mg/kg/day (4 times the maximum human systemic dose adjusted for total body surface area), and slight (not statistically significant) increases in the number and percent of nonviable embryos in females treated with 0.25 mg/kg/day (2 times the maximum human systemic dose adjusted for total body surface area) and above were observed.
+In dermal Segment I fertility studies of another tretinoin formulation in rats, slight (not statistically significant) decreases in sperm count and motility were seen at 0.5 mg/kg/day (4 times the maximum human systemic dose adjusted for total body surface area) and slight (not statistically significant) increases in the number and percent of nonviable embryos in females treated with 0.25 mg/kg/day (2 times the maximum human systemic dose adjusted for total body surface area) and above were observed.
 A dermal Segment III study with RETIN-A has not been performed in any species.
 In oral Segment I and Segment III studies in rats with tretinoin, decreased survival of neonates and growth retardation were observed at doses in excess of 2 mg/kg/day (16 times the human topical dose adjusted for total body surface area).
 
-## Pregnancy Teratogenic effects
+## Pregnancy Teratogenic Effects
 
 Oral tretinoin has been shown to be teratogenic in rats, mice, hamsters, and subhuman primates.
 It was teratogenic and fetotoxic in Wistar rats when given orally or topically in doses greater than 1 mg/kg/day (8 times the maximum human systemic dose adjusted for total body surface area).
@@ -61,11 +61,10 @@ Thirty human cases of temporally associated congenital malformations have been r
 Although no definite pattern of teratogenicity and no causal association have been established from these cases, five of the reports describe the rare birth defect category holoprosencephaly (defects associated with incomplete midline development of the forebrain).
 The significance of these spontaneous reports in terms of risk to the fetus is not known.
 
-Nonteratogenic effects
+Nonteratogenic Effects
 
 Topical tretinoin has been shown to be fetotoxic in rabbits when administered 0.5 mg/kg/day (8 times the maximum human systemic dose adjusted for total body surface area).
 Oral tretinoin has been shown to be fetotoxic, resulting in skeletal variations and increased intrauterine death in rats when administered 2.5 mg/kg/day (20 times the maximum human systemic dose adjusted for total body surface area).
-
 There are, however, no adequate and well-controlled studies in pregnant women.
 Tretinoin should be used during pregnancy only if the potential benefit justifies the potential risk to the fetus.
 

@@ -10,7 +10,7 @@ Alterations of vehicle, drug concentration, or dose frequency should be closely 
 During the early weeks of therapy, an apparent exacerbation of inflammatory lesions may occur.
 This is due to the action of the medication on deep, previously unseen lesions and should not be considered a reason to discontinue therapy.
 
-Therapeutic results should be noticed after two to three weeks but more than six weeks of therapy may be required before definite beneficial effects are seen.
+Therapeutic results should be noticed after 2 to 3 weeks but more than 6 weeks of therapy may be required before definite beneficial effects are seen.
 
 Once the acne lesions have responded satisfactorily, it may be possible to maintain the improvement with less frequent applications, or other dosage forms.
 

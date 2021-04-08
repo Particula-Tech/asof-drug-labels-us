@@ -1,11 +1,11 @@
-# TRETINOIN CREAM PATIENT INSTRUCTIONS For Topical Use Only Acne Treatment IMPORTANT Read Directions Carefully Before Using
+# PATIENT INSTRUCTIONS TRETINOIN CREAM For Topical Use Only Acne Treatment IMPORTANT Read Directions Carefully Before Using
 
 THIS LEAFLET TELLS YOU ABOUT TRETINOIN ACNE TREATMENT AS PRESCRIBED BY YOUR PHYSICIAN.
 THIS PRODUCT IS TO BE USED ONLY ACCORDING TO YOUR DOCTOR’S INSTRUCTIONS, AND IT SHOULD NOT BE APPLIED TO OTHER AREAS OF THE BODY OR TO OTHER GROWTHS OR LESIONS.
 THE LONG-TERM SAFETY AND EFFECTIVENESS OF THIS PRODUCT IN OTHER DISORDERS HAVE NOT BEEN EVALUATED.
 IF YOU HAVE ANY QUESTIONS, BE SURE TO ASK YOUR DOCTOR.
 
-WARNINGS AND PRECAUTIONS
+PRECAUTIONS
 
 The effects of the sun on your skin.
 As you know, overexposure to natural sunlight or the artificial sunlight of a sunlamp can cause sunburn.
@@ -38,7 +38,7 @@ If you are experiencing severe or persistent irritation, discontinue the use of 
 There have been reports that, in some patients, areas treated with Tretinoin Cream developed a temporary increase or decrease in the amount of skin pigment (color) present.
 The pigment in these areas returned to normal either when the skin was allowed to adjust to Tretinoin Cream or therapy was discontinued.
 
-Use other medication only on your physician’s advice.
+Use other medications only on your physician’s advice.
 Only your physician knows which other medications may be helpful during treatment and will recommend them to you if necessary.
 Follow the physician’s instructions carefully.
 In addition, you should avoid preparations that may dry or irritate your skin.
@@ -57,6 +57,7 @@ Use a mild, non-medicated soap.
 Avoid frequent washings and harsh scrubbing.
 Acne isn’t caused by dirt, so no matter how hard you scrub, you can’t wash it away.
 Washing too frequently or scrubbing too roughly may at times actually make your acne worse.
+
 Wash your skin gently with a mild, bland soap.
 Two or three times a day should be sufficient.
 Pat skin dry with a towel.
@@ -76,13 +77,13 @@ To help you use the medication correctly, keep these simple instructions in mind
 - •Apply Tretinoin Cream once daily before bedtime, or as directed by your physician.
   Your physician may advise, especially if your skin is sensitive, that you start your therapy by applying Tretinoin Cream every other night.
   First, wash with a mild soap and dry your skin gently.
-  WAIT 20 to 30 MINUTES BEFORE APPLYING MEDICATION; it is important for skin to be completely dry in order to minimize possible irritation.
+  WAIT 20 TO 30 MINUTES BEFORE APPLYING MEDICATION;it is important for skin to be completely dry in order to minimize possible irritation.
 - •It is better not to use more than the amount suggested by your physician or to apply more frequently than instructed.
   Too much may irritate the skin, waste medication and won’t give faster or better results.
 - •Keep the medication away from the corners of the nose, mouth, eyes and open wounds.
   Spread away from these areas when applying.
 - •Cream: Squeeze about a half inch or less of medication onto the fingertip.
-  While that should be enough for your whole face, after you have some experience with the medication you may find you need slightly more or less to do the job.
+  While that should be enough for your whole face, after you have some experience with the medication, you may find you need slightly more or less to do the job.
   The medication should become invisible almost immediately.
   If it is still visible, you are using too much.
   Cover the affected area lightly with Tretinoin Cream by first dabbing it on your forehead, chin and both cheeks, then spreading it over the entire affected area.
@@ -99,11 +100,11 @@ There may be some discomfort or peeling during the early days of treatment.
 Some patients also notice that their skin begins to take on a blush.
 
 These reactions do not happen to everyone.
-If they do, it is just your skin adjusting to Tretinoin Cream and this usually subsides within two to four weeks.
+If they do, it is just your skin adjusting to Tretinoin Cream and this usually subsides within 2 to 4 weeks.
 These reactions can usually be minimized by following instructions carefully.
 Should the effects become excessively troublesome, consult your doctor.
 
-BY THREE TO SIX WEEKS, some patients notice an appearance of new blemishes (papules and pustules).
+BY 3 TO 6 WEEKS, some patients notice an appearance of new blemishes (papules and pustules).
 At this stage it is important to continue using Tretinoin Cream.
 
 If Tretinoin Cream is going to have a beneficial effect for you, you should notice a continued improvement in your appearance after 6 to 12 weeks of therapy.
@@ -117,11 +118,19 @@ IF YOU HAVE QUESTIONS
 All questions of a medical nature should be taken up with your doctor.
 For more information about Tretinoin Cream, call our toll-free number: 1-800-636-7546.
 
+Storage Conditions: Tretinoin Cream, 0.1%, 0.05%, and 0.025%: store below 80°F.
+
 Distributed by: Obagi Cosmeceuticals LLC Long Beach, CA 90806
+
+All products/brand names, whether designated by notice or not (®/TM), are trademarks of Obagi Cosmeceuticals LLC and/or its affiliates.
+
+©2021 Obagi Cosmeceuticals LLC.
+
+All rights reserved.
 
 www.obagi.com
 
 Rev.
-01/2019
+01/2021
 
-9441003
+9441004
