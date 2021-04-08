@@ -2,7 +2,7 @@
 
 ## 8.1 Pregnancy
 
-Risk Summary:
+Risk Summary
 
 There are no adequate and well controlled studies of the acute effect of epinephrine in pregnant women.
 In animal reproductive studies, epinephrine administered by the subcutaneous route to rabbits, mice, and hamsters during the period of organogenesis was teratogenic at doses 7 times and higher than the maximum recommended human intramuscular and subcutaneous dose on a mg/m2 basis.
@@ -11,7 +11,7 @@ Epinephrine should be used for treatment of anaphylaxis during pregnancy in the 
 
 In the U.S. general population, the estimated background risk of major birth defects and miscarriage in clinically recognized pregnancies is 2% to 4% and 15% to 20%, respectively.
 
-Clinical Considerations:
+Clinical Considerations
 
 Disease-associated maternal and embryo/fetal risk:
 
@@ -22,7 +22,7 @@ Management of anaphylaxis during pregnancy is similar to management in the gener
 Epinephrine is the first line-medication of choice for treatment of anaphylaxis; it should be used in the same manner in pregnant and non-pregnant patients.
 In conjunction with the administration of epinephrine, the patient should seek immediate medical or hospital care.
 
-Data:
+Data
 
 Animal Data:
 
@@ -42,7 +42,7 @@ Epinephrine is the first line-medication of choice for treatment of anaphylaxis;
 
 ## 8.4 Pediatric Use
 
-Epinephrine injection, 0.3 mg or epinephrine injection, 0.15 mg may be administered to pediatric patients at a dosage appropriate to body weight [see Dosage and Administration (2)].
+Epinephrine injection, 0.3 mg or epinephrine injection, 0.15 mg may be administered to pediatric patients at a dosage appropriate to body weight [see Dosage and Administration (2.1)].
 Clinical experience with the use of epinephrine suggests that the adverse reactions seen in children are similar in nature and extent to those both expected and reported in adults.
 Since the doses of epinephrine delivered from epinephrine injection, 0.3 mg and epinephrine injection, 0.15 mg are fixed, consider using other forms of injectable epinephrine if doses lower than 0.15 mg are deemed necessary.
 

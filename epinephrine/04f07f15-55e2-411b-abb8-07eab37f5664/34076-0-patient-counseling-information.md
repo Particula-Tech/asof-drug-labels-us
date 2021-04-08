@@ -1,16 +1,15 @@
 # 17 PATIENT COUNSELING INFORMATION
 
-[See FDA-Approved Patient Labeling (Patient Information and Instructions for Use).]
+See FDA-Approved Patient Labeling (Patient Information and Instructions for Use)
 
 A healthcare provider should review the patient instructions and operation of epinephrine injection, 0.3 mg and epinephrine injection, 0.15 mg in detail, with the patient or caregiver.
 
 Epinephrine is essential for the treatment of anaphylaxis.
 Patients who are at risk of or with a history of severe allergic reactions (anaphylaxis) to insect stings or bites, foods, drugs, and other allergens, as well as idiopathic and exercise-induced anaphylaxis, should be carefully instructed about the circumstances under which epinephrine should be used.
 
-Administration and Training
+Administration
 
-Instruct patients and/or caregivers in the appropriate use of epinephrine injection, 0.3 mg and epinephrine injection, 0.15 mg.
-Epinephrine injection, 0.3 mg and epinephrine injection, 0.15 mg should be injected into the middle of the outer thigh (through clothing, if necessary).
+Instruct patients and/or caregivers in the appropriate use of epinephrine injection, 0.3 mg and epinephrine injection, 0.15 mg should be injected into the middle of the outer thigh (through clothing, if necessary).
 Each device is a single-use injection.
 Advise patients to seek immediate medical care in conjunction with administration of epinephrine injection, 0.3 mg and epinephrine injection, 0.15 mg.
 
@@ -22,6 +21,8 @@ This small part may pose a choking hazard for children.
 
 Complete patient information, including dosage, directions for proper administration and precautions can be found inside each epinephrine injection, 0.3 mg or epinephrine injection, 0.15 mg carton.
 A printed label on the surface of epinephrine injection, 0.3 mg and epinephrine injection, 0.15 mg shows instructions for use and a diagram depicting the injection process.
+
+Training
 
 Instruct patients and/or caregivers to use and practice with the Trainer to familiarize themselves with the use of epinephrine injection, 0.3 mg and epinephrine injection, 0.15 mg in an allergic emergency.
 The Trainer may be used multiple times.
@@ -51,10 +52,12 @@ Advise patients to seek medical care if they develop signs or symptoms of infect
 Storage and Handling
 
 Instruct patients to inspect the epinephrine solution visually through the clear window of the auto-injector periodically.
-Replace epinephrine injection, 0.3 mg and epinephrine injection, 0.15 mg if the epinephrine solution appears discolored (pinkish or darker than slightly yellow) or if it contains a precipitate.
+Replace epinephrine injection, 0.3 mg and epinephrine injection, 0.15 mg if the epinephrine solution appears discolored (pinkish or darker than slightly yellow), cloudy or if it contains a precipitate.
 Epinephrine is light sensitive and should be protected from light.
 The auto-injector is not waterproof.
 Instruct patients that epinephrine injection, 0.3 mg and epinephrine injection, 0.15 mg must be used or properly disposed once the blue safety release is removed or after use [see Storage and Handling (16.2)].
+
+Advise patients and caregivers to give used epinephrine injection, 0.3 mg and epinephrine injection, 0.15 mg auto-injectors to their healthcare provider for inspection and proper disposal.
 
 Advise patients and caregivers to promptly dispose of medicines that are no longer needed.
 Dispose of expired, unwanted, or unused epinephrine injection, 0.3 mg and epinephrine injection, 0.15 mg auto-injectors in an FDA-cleared sharps container.
@@ -67,4 +70,4 @@ Complete patient information, including dosage, directions for proper administra
 Manufactured For: Teva Pharmaceuticals USA, Inc. North Wales, PA 19454
 
 Rev.
-B 2/2020
+D 1/2021

@@ -21,7 +21,7 @@ This information does not take the place of talking with your healthcare provide
 What is the most important information I should know about epinephrine injection, 0.3 mg and epinephrine injection, 0.15 mg?
 
 1.
-Epinephrine injection, 0.3 mg and epinephrine injection, 0.15 mg contain a medicine used to treat allergic emergencies (anaphylaxis).
+Epinephrine injection, 0.3 mg and epinephrine injection, 0.15 mg are single-dose automatic injection devices (auto-injectors) that contain epinephrine, a medicine used to treat allergic emergencies (anaphylaxis).
 Anaphylaxis can be life threatening, can happen within minutes, and can be caused by stinging and biting insects, allergy injections, foods, medicines, exercise, or unknown causes.
 
 Symptoms of anaphylaxis may include:
@@ -59,7 +59,7 @@ When you have an allergic emergency (anaphylaxis)
 
 What are epinephrine injection, 0.3 mg and epinephrine injection, 0.15 mg?
 
-- Epinephrine injection, 0.3 mg and epinephrine injection, 0.15 mg are disposable, prefilled automatic injection devices (auto-injectors) used to treat life-threatening, allergic emergencies including anaphylaxis in people who are at risk for or have a history of serious allergic emergencies.
+- Epinephrine injection, 0.3 mg and epinephrine injection, 0.15 mg are disposable, pre-filled auto-injectors used to treat life-threatening, allergic emergencies including anaphylaxis in people who are at risk for or have a history of serious allergic emergencies.
   Each device contains a single dose of epinephrine.
 - Epinephrine injection, 0.3 mg and epinephrine injection, 0.15 mg are for immediate self (or caregiver) administration and do not take the place of emergency medical care.
   You should get emergency help right away after using epinephrine injection, 0.3 mg and epinephrine injection, 0.15 mg.
@@ -98,23 +98,32 @@ Use your epinephrine injection, 0.3 mg or epinephrine injection, 0.15 mg for tre
 
 How should I use epinephrine injection, 0.3 mg and epinephrine injection, 0.15 mg?
 
-- Each epinephrine injection, 0.3 mg (auto-injector) or epinephrine injection, 0.15 mg (auto-injector) contains only 1 dose of medicine.
+- Each epinephrine injection, 0.3 mg (auto-injector) or epinephrine injection, 0.15 mg (auto-injector) contains only 1 dose of medicine (single-dose).
+- Epinephrine injection, 0.3 mg and epinephrine injection, 0.15 mg Auto-Injectors deliver a fixed dose of epinephrine.
+  The auto-injectors cannot be reused.
+  Do not try to reuse epinephrine injection, 0.3 mg or epinephrine injection, 0.15 mg after the device has been activated.
+  It is normal for most of the medicine to remain in the auto-injector after the dose has been injected.
+  The dose has been injected if the orange tip is extended and the window is blocked.
 - Epinephrine injection, 0.3 mg or epinephrine injection, 0.15 mg should be injected into the middle of your outer thigh (upper leg).
   It can be injected through your clothing if needed.
-- Read the Instructions for Use at the end of this Patient Information Leaflet about the right way to use epinephrine injection, 0.3 mg and epinephrine injection, 0.15 mg.
+  Do not inject into a vein or into the buttocks, fingers, toes, hands or feet.
+- Read the Instructions for Use at the end of this Patient Information Leaflet about the right way to use epinephrine injection, 0.3 mg or epinephrine injection, 0.15 mg.
 - Your healthcare provider will show you how to safely use the epinephrine injection, 0.3 mg (auto-injector) or epinephrine injection, 0.15 mg (auto-injector).
-- Use your epinephrine injection, 0.3 mg or epinephrine injection, 0.15 mg exactly as your healthcare provider tells you to use it.
+- Use your single-dose epinephrine injection, 0.3 mg or epinephrine injection, 0.15 mg exactly as your healthcare provider tells you to use it.
   You may need to use a second epinephrine injection, 0.3 mg or epinephrine injection, 0.15 mg if symptoms continue or recur.
   Only a healthcare provider should give additional doses of epinephrine if you need more than 2 injections for a single anaphylaxis episode.
 - Caution: Never put your thumb, fingers, or hand over the orange tip.
   Never press or push the orange tip with your thumb, fingers, or hand.
   The needle comes out of the orange tip.
   Accidental injection into finger, hands or feet may cause a loss of blood flow to these areas.
-  If this happens, go immediately to the nearest emergency room.
+  If an accidental injection happens, go immediately to the nearest emergency room.
   Tell the healthcare provider where on your body you received the accidental injection.
 - Your epinephrine injection, 0.3 mg (auto-injector) and epinephrine injection, 0.15 mg (auto-injector) may come packaged with an Epinephrine Injection Trainer and separate Epinephrine Injection Trainer Instructions for Use.
   The Epinephrine Injection Trainer has a grey color.
   The grey Epinephrine Injection Trainer contains no medicine and no needle.
+  Keep the Epinephrine Injection Trainer and the real Epinephrine Injection, 0.3 mg and Epinephrine Injection, 0.15 mg Auto-Injectors away from young children.
+  The real Epinephrine Injection, 0.3 mg and Epinephrine Injection, 0.15 mg Auto-Injectors and Epinephrine Injection Trainer are not toys.
+  For young children, use of the Epinephrine Injection Trainer and the real Epinephrine Injection, 0.3 mg and Epinephrine Injection, 0.15 mg Auto-Injectors should be supervised by an adult.
   Periodically practice with your Epinephrine Injection Trainer before an allergic emergency happens to make sure you are able to safely use the real epinephrine injection, 0.3 mg (auto-injector) and epinephrine injection, 0.15 mg (auto-injector) in an emergency.
   Always carry your real epinephrine injection, 0.3 mg (auto-injector) or epinephrine injection 0.15 mg (auto-injector) with you in case of an allergic emergency.
   Additional training resources are available at www.TevaEpinephrine.com.
@@ -128,20 +137,26 @@ Epinephrine injection, 0.3 mg and epinephrine injection, 0.15 mg may cause serio
 
 - The epinephrine injection, 0.3 mg or epinephrine injection, 0.15 mg should only be injected into the middle of your outer thigh (upper leg).
   Do not inject the epinephrine injection, 0.3 mg or epinephrine injection, 0.15 mg into your:
-- veins
-- buttocks
-- fingers, toes, hands, or feet If you accidentally inject epinephrine injection, 0.3 mg or epinephrine injection, 0.15 mg into any other part of your body, go to the nearest emergency room right away.
-  Tell the healthcare provider where on your body you received the accidental injection.
+  - veins
+  - buttocks
+  - fingers, toes, hands, or feet If you accidentally inject epinephrine injection, 0.3 mg or epinephrine injection, 0.15 mg into any other part of your body, go to the nearest emergency room right away.
+    Tell the healthcare provider where on your body you received the accidental injection.
 - Rarely, patients who have used epinephrine injection, 0.3 mg or epinephrine injection, 0.15 mg may develop infections at the injection site within a few days of an injection.
   Some of these infections can be serious.
   Call your healthcare provider right away if you have any of the following at an injection site:
-- redness that does not go away
-- swelling
-- tenderness
-- the area feels warm to the touch
+  - redness that does not go away
+  - swelling
+  - tenderness
+  - the area feels warm to the touch
 - Cuts on the skin, bent needles, and needles that remain in the skin after the injection, have happened in young children who do not cooperate and kick or move during an injection.
   If you inject a young child with epinephrine injection, 0.3 mg or epinephrine injection, 0.15 mg, hold their leg firmly in place before and during the injection to prevent injuries.
-  Ask your healthcare provider to show you how to properly hold the leg of a young child during injection.
+  Ask your healthcare provider to show you how to:
+
+1. Hold the young child firmly in place (restrain).
+2. With 1 hand, quickly twist the yellow cap off the Epinephrine Injection, 0.3 mg auto-injector or the green cap off the Epinephrine Injection, 0.15 mg auto-injector in the direction of the “twist arrow” to remove it.
+3. Grasp the auto-injector in your fist with the orange tip (needle end) pointing downward.
+4. With your other hand, pull off the blue safety release.
+
 - If you have certain medical conditions, or take certain medicines, your condition may get worse or you may have longer lasting side effects when you use your epinephrine injection, 0.3 mg or epinephrine injection, 0.15 mg.
   Talk to your healthcare provider about all your medical conditions.
 
@@ -164,19 +179,18 @@ Tell your healthcare provider if you have any side effect that bothers you or th
 These are not all the possible side effects of the epinephrine injection, 0.3 mg or epinephrine injection, 0.15 mg.
 For more information, ask your healthcare provider or pharmacist.
 
-Call your healthcare provider for medical advice about side effects.
+Call your doctor for medical advice about side effects.
 You may report side effects to FDA at 1-800-FDA-1088.
 
 How should I store epinephrine injection, 0.3 mg and epinephrine injection, 0.15 mg?
 
 - Store epinephrine injection, 0.3 mg and epinephrine injection, 0.15 mg at room temperature between 68° to 77°F (20° to 25°C).
-
 - Protect from light.
 - Do not expose to extreme cold or heat.
   For example, do not store in your vehicle’s glove box and do not store in the refrigerator or freezer.
 - Examine the contents in the clear window of your auto-injector periodically.
   The solution should be clear.
-  If the solution is discolored (pinkish or darker than slightly yellow) or if it contains a precipitate, replace the unit.
+  If the solution is discolored (pinkish or darker than slightly yellow) or contains solid particles, replace the unit.
 - Always protect your epinephrine injection, 0.3 mg (auto-injector) and epinephrine injection, 0.15 mg (auto-injector) from damage and water.
 - The blue safety release helps to prevent accidental injection.
   Keep the blue safety release on until you need to use epinephrine injection, 0.3 mg or epinephrine injection, 0.15 mg.
@@ -184,12 +198,14 @@ How should I store epinephrine injection, 0.3 mg and epinephrine injection, 0.15
   Replace it before the expiration date.
   Throw away (dispose of) expired, unwanted, or unused epinephrine injection, 0.3 mg and epinephrine injection, 0.15 mg in an FDA-cleared sharps disposal container.
   Do not throw away the epinephrine injection, 0.3 mg or epinephrine injection, 0.15 mg in your household trash.
-  If you do not have an FDA-cleared sharps disposal container, you may use a household container that is:Visit the FDA website (www.fda.gov/drugs/safe-disposal-medicines/disposal-unused-medicines-what-you-should-know) for more information about how to throw away (dispose of) unused medicines.
-  - Made of heavy-duty plastic
-  - Can be closed with a tight-fitting, puncture-resistant lid, without sharps being able to come out
-  - Upright and stable during use
+  If you do not have an FDA-cleared sharps disposal container, you may use a household container that is:When your sharps disposal container is almost full, you will need to follow your community guidelines for the right way to dispose of your sharps disposal container.
+  There may be state or local laws about how you should throw away used needles and syringes.
+  For more information about safe sharps disposal, and for specific information about sharps disposal in the state that you live in, go to the FDA’s website at: http://www.fda.gov/safesharpsdisposalVisit the FDA’s website (https://www.fda.gov/drugs/safe-disposal-medicines/disposal-unused-medicines-what-you-should-know) for more information about how to throw away (dispose of) unused, unwanted or expired medicines.
+  - Made of heavy-duty plastic,
+  - Can be closed with a tight-fitting, puncture-resistant lid, without sharps being able to come out,
+  - Upright and stable during use,
   - Leak-resistant, and
-  - Properly labeled to warn of hazardous waste inside the container
+  - Properly labeled to warn of hazardous waste inside the container.
 
 Keep epinephrine injection, 0.3 mg and epinephrine injection, 0.15 mg and all medicines out of the reach of children.
 
@@ -227,7 +243,7 @@ Important Information
   The needle comes out of the orange tip.
 - If an accidental injection happens, get emergency medical help right away.
 
-Instructions for Use
+INSTRUCTIONS FOR USE
 
 Epinephrine Injection USP, 0.3 mg (Auto-Injector)
 
@@ -240,7 +256,7 @@ Epinephrine Injection USP, 0.15 mg = one dose of 0.15 mg epinephrine USP, 0.15 m
 For allergic emergencies (anaphylaxis)
 
 Read this Instructions for Use carefully before you use epinephrine injection, 0.3 mg or epinephrine injection, 0.15 mg.
-Before you need to use your epinephrine injection, 0.3 mg or epinephrine injection, 0.15 mg, make sure your healthcare provider shows you the right way to use it.
+Before you need to use your single-dose epinephrine injection, 0.3 mg or epinephrine injection, 0.15 mg auto-injector, make sure your healthcare provider shows you the right way to use it.
 Parents, caregivers, and others who may be in a position to administer epinephrine injection, 0.3 mg (auto-injector) or epinephrine injection, 0.15 mg (auto-injector) should also understand how to use it as well.
 If you have any questions, ask your healthcare provider.
 
@@ -278,41 +294,40 @@ If you are administering epinephrine injection, 0.3 mg or epinephrine injection,
 Step 3.
 Get emergency medical help now.
 You may need further medical attention.
-You may need to use a second epinephrine injection, 0.3 mg auto-injector or epinephrine injection, 0.15 mg auto-injector if symptoms continue or recur.
+You may need to use a second epinephrine injection, 0.3 mg (auto-injector) or epinephrine injection, 0.15 mg (auto-injector) if symptoms continue or recur.
 
 - Take your used auto-injector with you when you go to see a healthcare provider.
 - Tell the healthcare provider that you have received an injection of epinephrine.
   Show the healthcare provider where you received the injection.
-- Give your used epinephrine injection, 0.3 mg auto-injector or epinephrine injection, 0.15 mg auto-injector to the healthcare provider for inspection and proper disposal.
+- Give your used epinephrine injection, 0.3 mg (auto-injector) or epinephrine injection, 0.15 mg (auto-injector) to the healthcare provider for inspection and proper disposal.
 - Ask for a refill, if needed.
 
 Note:
 
+- Keep the Epinephrine Injection Trainer and the real epinephrine injection, 0.3 mg and epinephrine injection, 0.15 mg Auto-Injectors away from young children.
+  The real epinephrine injection, 0.3 mg and epinephrine injection, 0.15 mg Auto-Injectors and Epinephrine Injection Trainer are not toys.
+  For young children, use of the Epinephrine Injection Trainer and the real epinephrine injection, 0.3 mg and epinephrine injection, 0.15 mg Auto-Injectors should be supervised by an adult.
 - A carrying tube is not provided as seen with other products.
-- Epinephrine injection, 0.3 mg and epinephrine injection, 0.15 mg are single-use injectable devices that deliver a fixed dose of epinephrine.
+- Epinephrine injection, 0.3 mg and epinephrine injection, 0.15 mg are single-dose injectable devices that deliver a fixed dose of epinephrine.
   The auto-injector cannot be reused.
   Do not attempt to reuse epinephrine injection after the device has been activated.
   It is normal for most of the medicine to remain in the auto-injector after the dose is injected.
   The correct dose has been administered if the orange needle tip is extended and the window is blocked.
-- Your epinephrine injection, 0.3 mg auto-injector and epinephrine injection, 0.15 mg auto-injector may come packaged with an Epinephrine Injection Trainer and separate Epinephrine Injection Trainer Instructions for Use.
+- Your epinephrine injection, 0.3 mg (auto-injector) and epinephrine injection, 0.15 mg (auto-injector) may come packaged with an Epinephrine Injection Trainer and separate Epinephrine Injection Trainer Instructions for Use.
   The Epinephrine Injection Trainer has a grey color.
   The grey Epinephrine Injection Trainer contains no medicine and no needle.
   Practice with your Epinephrine Injection Trainer, but always carry your real epinephrine injection, 0.3 mg auto-injector or epinephrine injection, 0.15 mg auto-injector in case of an allergic emergency.
-- If you are administering epinephrine injection, 0.3 mg or epinephrine injection, 0.15 mg to a young child, ask your healthcare provider to show you how to properly hold the leg in place while administering a dose.
-- Do not try to take the epinephrine injection, 0.3 mg auto-injector or epinephrine injection, 0.15 mg auto-injector apart.
+- If you are administering epinephrine injection, 0.3 mg or epinephrine injection, 0.15 mg to a young child, ask your healthcare provider to show you how to (1) hold the young child firmly in place (restrain), (2) with 1 hand, quickly twist the yellow cap off the epinephrine injection, 0.3 mg (auto-injector) or the green cap off the epinephrine injection, 0.15 mg (auto-injector) in the direction of the “twist arrow” to remove it, (3) grasp the auto-injector in your fist with the orange tip (needle end) pointing downward and (4) with your other hand, pull off the blue safety release, and how to properly hold the leg in place while administering a dose.
+- Do not try to take the epinephrine injection, 0.3 mg (auto-injector) or epinephrine injection, 0.15 mg (auto-injector) apart.
 
 This Patient Information and Instructions for Use have been approved by the U.S. Food and Drug Administration.
 
 KEEP THIS AND ALL MEDICATIONS OUT OF THE REACH OF CHILDREN.
 
-Manufactured For:
-
-Teva Pharmaceuticals USA, Inc.
-
-North Wales, PA 19454
+Manufactured For: Teva Pharmaceuticals USA, Inc. North Wales, PA 19454
 
 Rev.
-A 2/2020
+C 1/2021
 
 Epinephrine Injection USP, 0.3 mg (Auto-Injector)
 
@@ -324,29 +339,32 @@ Epinephrine Injection USP, 0.15 mg = one dose of 0.15 mg epinephrine USP, 0.15 m
 
 TevaEpinephrine.com
 
-Register your Epinephrine Injection 0.3 mg Auto-Injector or Epinephrine Injection 0.15 mg Auto-Injector at www.TevaEpinephrine.com and find out more about:
+Register your Epinephrine Injection 0.3 mg (Auto-Injector) or Epinephrine Injection 0.15 mg (Auto-Injector) at www.TevaEpinephrine.com and find out more about:
 
 - Free Epinephrine Injection Auto-Injector Refill Reminder Program.
   It is important to keep your auto-injector up-to-date.
 
-Register up to 6 Epinephrine Injection 0.3 mg Auto-Injectors or Epinephrine Injection 0.15 mg Auto-Injectors and receive automatic Refill Reminder Alerts.
+Register up to 6 Epinephrine Injection 0.3 mg (Auto-Injectors) or Epinephrine Injection 0.15 mg (Auto-Injectors) and receive automatic Refill Reminder Alerts.
 
 - Receive periodic information related to allergies and allergens.
 - Instructional Video
 
-For more information about Epinephrine Injection 0.3 mg Auto-Injector or Epinephrine Injection 0.15 mg Auto-Injector and proper use of the products, call Teva at 1-888-838-2872 or visit www.TevaEpinephrine.com.
+For more information about Epinephrine Injection 0.3 mg (Auto-Injector) or Epinephrine Injection 0.15 mg (Auto-Injector) and proper use of the products, call Teva at 1-888-838-2872 or visit www.TevaEpinephrine.com.
 
 Epinephrine Injection Trainer Instructions for Use
 
 In an emergency: Do not use the grey Trainer.
-Use your real yellow Epinephrine Injection 0.3 mg Auto-Injector or green Epinephrine Injection 0.15 mg Auto-Injector.
+Use your real yellow Epinephrine Injection 0.3 mg Auto-Injector or real green Epinephrine Injection 0.15 mg Auto-Injector.
 
 Important Information
 
 - The Trainer label has a grey color.
 - The Trainer contains no medicine and no needle.
-- Periodically practice with the grey colored Trainer before an allergic emergency (anaphylaxis) happens to make sure you are able to safely use the real yellow epinephrine injection 0.3 mg auto-injector or green epinephrine injection 0.15 mg auto-injector in case of an emergency.
-- Always carry your real yellow epinephrine injection 0.3 mg auto-injector or green epinephrine injection 0.15 mg auto-injector in case of an allergic emergency.
+  Keep the grey Trainer away from young children.
+  The Trainer is not a toy.
+  Young children should only practice with the Trainer under adult supervision.
+- Periodically practice with the grey Trainer before an allergic emergency (anaphylaxis) happens to make sure you are able to safely use the real yellow epinephrine injection 0.3 mg auto-injector or real green epinephrine injection 0.15 mg auto-injector in case of an emergency.
+- Always carry your real yellow epinephrine injection 0.3 mg auto-injector or real green epinephrine injection 0.15 mg auto-injector in case of an allergic emergency.
 - Small parts like the blue safety release may become a choking hazard for children.
   Put the blue safety release back on the Trainer and reset it immediately after practicing.
 
@@ -355,11 +373,11 @@ The Epinephrine Injection Trainer
 Familiarize yourself with this grey Trainer.
 Practice until you are comfortable using it.
 
-Your grey colored Trainer:
+Your grey Trainer:
 
-• Never put your thumb, other fingers, or hand over the Orange Tip (below grey safety cap).
+• Never put your thumb, other fingers, or hand over the orange tip (below grey safety cap).
 
-• The Orange Tip is where the needle comes out of your epinephrine injection 0.3 mg auto-injector or epinephrine injection 0.15 mg auto-injector.
+• The orange tip is where the needle comes out of your epinephrine injection 0.3 mg auto-injector or epinephrine injection 0.15 mg auto-injector.
 
 | Practice Instructions |
 | --- |
@@ -367,16 +385,16 @@ Your grey colored Trainer:
 |  |  | 1 Prepare the Trainer for Simulated Injection Grasp the grey Trainer in your fist with the orange tip pointing downward and twist off Grey Cap in the direction of “twist arrow”.With your other hand, pull off blue safety release.Removing the blue safety release unlocks the Trainer. |
 | --- | --- | --- |
 |  |  | 2 Administer the Trainer Simulation |
-|  | If practicing with a young child, hold the leg firmly in place while using the Epinephrine Trainer. Ask your healthcare provider to show you how to properly hold the leg to practice so that you will be prepared before an allergic emergency happens. |  |
-|  |  | Place the orange tip against the middle of the outer thigh (upper leg) at a right angle (perpendicular) to the thigh.Swing and push the trainer firmly until it ‘clicks’. The click signals that the injection has started.Hold firmly in place for 3 seconds (count slowly 1,2,3).Remove the Trainer from the thigh and massage the injection area for 10 seconds. The orange tip automatically extends out after use. Note: In an actual emergency, you would need to seek emergency medical help right awayThe actual auto-injector is made to work through clothingDo not inject into any other part of the body |
-|  |  | 3 To reset the Trainer Put the blue safety release back on the TrainerReplace Grey Cap |
+|  | If practicing with a young child, hold the leg firmly in place while using the Epinephrine Injection Trainer. Ask your healthcare provider to show you how to:1. Hold the young child firmly in place (restrain).2. With 1 hand, quickly twist the grey cap off the Epinephrine Injection Trainer in the direction of the “twist arrow” to remove it.3. Grasp the auto-injector in your fist with the orange tip (needle end) pointing downward. 4. With your other hand, pull off the blue safety release, and how to properly hold the leg to practice so that you will be prepared before an allergic emergency happens. |  |
+|  |  | Place the orange tip against the middle of the outer thigh (upper leg) at a right angle (perpendicular) to the thigh.Swing and push the Trainer firmly until it ‘clicks’. The click signals that the injection has started.Hold firmly in place for 3 seconds (count slowly 1,2,3).Remove the Trainer from the thigh and massage the injection area for 10 seconds. The orange tip automatically extends out after use. Note: In an actual emergency, you would need to seek emergency medical help right away.The actual auto-injector is made to work through clothing.Do not inject into any other part of the body. |
+|  |  | 3 To reset the Trainer Put the blue safety release back on the Trainer.Replace Grey Cap. |
 
-NOTE: With the real yellow Epinephrine Injection 0.3 mg Auto-Injector or green Epinephrine Injection 0.15 mg Auto-Injector, the orange tip covers the needle after self-injection to help protect you from accidentally sticking yourself or others.
+NOTE: With the real yellow Epinephrine Injection 0.3 mg Auto-Injector or real green Epinephrine Injection 0.15 mg Auto-Injector, the orange tip covers the needle after self-injection to help protect you from accidentally sticking yourself or others.
 
 | Practice Session Information |
 | --- |
 
-In case of an allergic emergency, use the real yellow Epinephrine Injection 0.3 mg Auto-Injector or green Epinephrine Injection 0.15 mg Auto-Injector and not the grey Trainer.
+In case of an allergic emergency, use the real yellow Epinephrine Injection 0.3 mg Auto-Injector or real green Epinephrine Injection 0.15 mg Auto-Injector and not the grey Trainer.
 
 Follow instructions above.
 Repeat as often as needed until you are able to self-inject quickly and correctly.
@@ -398,28 +416,24 @@ For more information about the Epinephrine Injection 0.3 mg Auto-Injector and Ep
 
 Caution:
 
-Important differences between the Trainer and your real yellow Epinephrine Injection 0.3 mg (Auto-Injector) or green Epinephrine Injection 0.15 mg (Auto-Injector)
+Important differences between the Trainer and your real yellow Epinephrine Injection 0.3 mg (Auto-Injector) or real green Epinephrine Injection 0.15 mg (Auto-Injector)
 
-| TRAINER(Grey) | Epinephrine Injection 0.3 mg(Yellow) | Epinephrine Injection 0.15 mg(Green) |  |
+| Trainer(Grey) | Epinephrine Injection 0.3 mg(Yellow) | Epinephrine Injection 0.15 mg(Green) |  |
 | --- | --- | --- | --- |
-| Contains medicine? | NO | YES | YES |
-| Has needle? | NO | YES | YES |
-| Comes in Carrier Tube? | NO | NO | NO |
+| Contains medicine? | No | Yes | Yes |
+| Has needle? | No | Yes | Yes |
+| Comes in Carrier Tube? | No | No | No |
 | Color of label | Grey | Yellow | Green |
-| Has expiration date? | NO | YES | YES |
-| Can be reused? | YES | NO (use only one time) | NO (use only one time) |
-| Okay to remove and replace cap and/or safety release? | YES | NO (remove just one timebefore use) | NO (remove just one timebefore use) |
+| Has expiration date? | No | Yes | Yes |
+| Can be reused? | Yes | No (use only one time) | No (use only one time) |
+| Okay to remove and replace cap and/or safety release? | Yes | No (remove just one timebefore use) | No (remove just one timebefore use) |
 | Pressure needed to hold against thigh? | Moderate | Strong | Strong |
 
 This Trainer Instructions for Use has been approved by the U.S. Food and Drug Administration.
 
 KEEP THIS AND ALL MEDICATIONS OUT OF THE REACH OF CHILDREN.
 
-Manufactured For:
-
-Teva Pharmaceuticals USA, Inc.
-
-North Wales, PA 19454
+Manufactured For: Teva Pharmaceuticals USA, Inc. North Wales, PA 19454
 
 Rev.
-B 2/2020
+D 1/2021
