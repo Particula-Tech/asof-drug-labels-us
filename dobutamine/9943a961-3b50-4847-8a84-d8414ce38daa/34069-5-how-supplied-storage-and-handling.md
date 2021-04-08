@@ -1,19 +1,19 @@
 # HOW SUPPLIED
 
-DOBUTamine in 5% Dextrose Injection, USP is supplied in 250 and 500 mL LifeCare™ flexible containers as follows:
+DOBUTamine in 5% Dextrose Injection, USP is supplied in 250 LifeCare™ single-dose flexible containers as follows:
 
-| Unit of Sale | Total Strength/Total Volume (Concentration) |
+| Unit of Sale | Concentration |
 | --- | --- |
-| NDC 0409-2346-32 Case of 12 Flexible containers | 250 mg/250 mL (1 mg/mL) |
-| NDC 0409-2347-32 Case of 12 Flexible containers | 500 mg/250 mL (2 mg/mL) |
-| NDC 0409-3724-32 Case of 12 Flexible containers | 1000 mg/250 mL (4 mg/mL) |
+| NDC 0409-2346-32 Case of 12 single-dose flexible containers | 250 mg/250 mL (1 mg/mL) |
+| NDC 0409-2347-32 Case of 12 single-dose flexible containers | 500 mg/250 mL (2 mg/mL) |
+| NDC 0409-3724-32 Case of 12 single-dose flexible containers | 1000 mg/250 mL (4 mg/mL) |
 
 Do not freeze.
-Store at 20 to 25ºC (68 to 77ºF).
+Store at 20°C to 25°C (68°F to 77°F).
 [See USP Controlled Room Temperature.]
 
 Distributed by Hospira, Inc., Lake Forest, IL 60045 USA
 
-LAB-1181-2.0
+LAB-1181-3.0
 
-Revised: 5/2019
+Revised: 3/2021
