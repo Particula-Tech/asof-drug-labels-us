@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "ANDA079062"
+  ],
+  "inn": "escitalopram",
+  "labeler": "Rising Pharma Holdings, Inc.",
+  "package_ndcs": [
+    "16571-769-24"
+  ],
+  "products": [
+    {
+      "form": "SOLUTION",
+      "generic": "escitalopram oxalate",
+      "name": "Escitalopram Oxalate"
+    }
+  ],
+  "setid": "79fddc2d-2dc2-444f-8fd3-0337090ee744",
+  "source": "dailymed"
+}
