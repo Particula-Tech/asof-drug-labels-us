@@ -35,3 +35,27 @@ Two Pack
 CHECK PRODUCT EXPIRATION DATE BEFORE USE.
 
 OPEN HERE FOR QUICK START GUIDE Opioid Overdose Response Instructions
+
+# PRINCIPAL DISPLAY PANEL - 4 mg Vial Package
+
+For use in the nose only NDC 69547-353-02
+
+Rx Only
+
+NARCAN®(naloxone HCl) NASAL SPRAY 4 mg
+
+1 spray per device
+
+Each dose contains 4 mg naloxone HCl (equivalent to 3.6 mg naloxone) in 0.1 mL nasal spray Store below 77°F (25°C).
+Excursions permitted up to 104°F (40°C).
+Do not freeze or expose to excessive heat above 104°F (40°C).
+Protect from light.
+Use for known or suspected opioid overdose in adults and children SEE ENCLOSED QUICK START GUIDE
+
+LOT_XXXXXX_EXP_MMM_YYYY
+
+Distributed by Emergent Devices Inc. Plymouth Meeting, PA 19462 USA
+
+DO NOT TEST DEVICE BEFORE USE
+
+# PRINCIPAL DISPLAY PANEL

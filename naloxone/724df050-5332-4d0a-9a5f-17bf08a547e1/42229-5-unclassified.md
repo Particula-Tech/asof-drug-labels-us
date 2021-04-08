@@ -1,5 +1,3 @@
-NARCAN® is a registered trademark licensed by Adapt Pharma Operations Limited.
+NARCAN® is a registered trademark licensed by Emergent Operations Ireland Limited.
 
-Distributed by Adapt Pharma, Inc., Plymouth Meeting, PA 19462 USA
-
-A1135
+Distributed by Emergent Devices Inc., Plymouth Meeting, PA 19462 USA.
