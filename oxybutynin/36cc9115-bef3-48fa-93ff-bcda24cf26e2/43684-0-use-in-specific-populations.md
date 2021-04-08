@@ -2,22 +2,19 @@
 
 ## 8.1 Pregnancy
 
-Pregnancy Category B. There are no adequate and well-controlled studies using DITROPAN XL® in pregnant women.
-DITROPAN XL® should be used during pregnancy only if the potential benefit to the patient outweighs the risk to the patient and fetus.
-Women who become pregnant during DITROPAN XL® treatment are encouraged to contact their physician.
+Risk Summary
+
+There are no adequate data on DITROPAN XL® use in pregnant women to evaluate for a drug-associated risk of major birth defects, miscarriage or adverse maternal or fetal outcomes.
+
+In the U.S. general population, the estimated background risk of major birth defects and miscarriage in clinically recognized pregnancies is 2–4% and 15–20%, respectively.
+The background risk of major birth defects and miscarriage for the indicated population is unknown.
+
+## 8.2 Lactation
 
 Risk Summary
 
-Based on animal data, oxybutynin is predicted to have a low probability of increasing the risk of adverse developmental effects above background risk.
-
-Animal Data
-
-Reproduction studies with oxybutynin chloride in the mouse, rat, hamster, and rabbit showed no evidence of impaired fertility or harm to the animal fetus.
-
-## 8.3 Nursing Mothers
-
-It is not known whether oxybutynin is excreted in human milk.
-Because many drugs are excreted in human milk, caution should be exercised when DITROPAN XL® is administered to a nursing woman.
+There are no data on the presence of oxybutynin in human milk, the effects on the breastfed infant, or the effects of DITROPAN XL® on milk production.
+The developmental and health benefits of breastfeeding should be considered along with the mother's clinical need for DITROPAN XL® and any potential adverse effects on the breastfed child from DITROPAN XL® or from the underlying maternal condition.
 
 ## 8.4 Pediatric Use
 

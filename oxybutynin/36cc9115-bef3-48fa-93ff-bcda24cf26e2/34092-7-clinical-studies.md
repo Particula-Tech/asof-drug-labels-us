@@ -14,10 +14,12 @@ Table 4: Number of Urge Urinary Incontinence Episodes Per Week (Study 1)
 | --- | --- | --- | --- | --- |
 | Mean Baseline | 34 | 15.9 | 16 | 20.9 |
 | Mean (SD) Change from BaselineCovariate adjusted mean with missing observations set to baseline values | 34 | -15.8 (8.9) | 16 | -7.6 (8.6) |
-| 95% Confidence Interval for Difference | (-13.6, -2.8)The difference between DITROPAN XL® and placebo was statistically significant. |  |  |  |
+| 95% Confidence Interval for Difference |  | (-13.6, -2.8)The difference between DITROPAN XL® and placebo was statistically significant. |  |  |
 | (DITROPAN XL® - Placebo) |  |  |  |  |
 
 Figure 3: Mean Change (±SD) in Urge Urinary Incontinence Episodes Per Week from Baseline (Study 1)
+
+* The difference between DITROPAN XL® and placebo was statistically significant.
 
 Table 5: Number of Urge Urinary Incontinence Episodes Per Week (Study 2)
 
@@ -25,7 +27,7 @@ Table 5: Number of Urge Urinary Incontinence Episodes Per Week (Study 2)
 | --- | --- | --- | --- | --- |
 | Mean Baseline | 53 | 27.6 | 52 | 23.0 |
 | Mean (SD) Change from BaselineCovariate adjusted mean with missing observations set to baseline values | 53 | -17.6 (11.9) | 52 | -19.4 (11.9) |
-| 95% Confidence Interval for Difference | (-2.8, 6.5) |  |  |  |
+| 95% Confidence Interval for Difference |  | (-2.8, 6.5) |  |  |
 | (DITROPAN XL® - oxybutynin) |  |  |  |  |
 
 Figure 4: Mean Change (±SD) in Urge Urinary Incontinence Episodes Per Week from Baseline (Study 2)
@@ -36,7 +38,9 @@ Table 6: Number of Urge Urinary Incontinence Episodes Per Week (Study 3)
 | --- | --- | --- | --- | --- |
 | Mean Baseline | 111 | 18.9 | 115 | 19.5 |
 | Mean (SD) Change from BaselineCovariate adjusted mean with missing observations set to baseline values | 111 | -14.5 (8.7) | 115 | -13.8 (8.6) |
-| 95% Confidence Interval for Difference | (-3.0, 1.6)The difference between DITROPAN XL® and oxybutynin fulfilled the criteria for comparable efficacy. |  |  |  |
+| 95% Confidence Interval for Difference |  | (-3.0, 1.6)The difference between DITROPAN XL® and oxybutynin fulfilled the criteria for comparable efficacy. |  |  |
 | (DITROPAN XL® - oxybutynin) |  |  |  |  |
 
 Figure 5: Mean Change (±SD) in Urge Urinary Incontinence Episodes Per Week from Baseline (Study 3)
+
+** The difference between DITROPAN XL® and oxybutynin fulfilled the criteria for comparable efficacy.
