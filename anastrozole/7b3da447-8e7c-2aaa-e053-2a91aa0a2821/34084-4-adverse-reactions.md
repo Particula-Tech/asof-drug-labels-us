@@ -1,7 +1,7 @@
 # 6 ADVERSE REACTIONS
 
 Serious adverse reactions with Anastrozole occurring in less than 1 in 10,000 patients, are: 1) skin reactions such as lesions, ulcers, or blisters; 2) allergic reactions with swelling of the face, lips, tongue, and/or throat.
-This may cause difficulty in swallowing and/or breathing; and 3) changes in blood tests of the liver function, including inflammation of the liver with symptoms that may include a general feeling of not being well, with or without jaundice, liver pain or liver swelling [seeAdverse Reactions (6.2)].
+This may cause difficulty in swallowing and/or breathing; and 3) changes in blood tests of the liver function, including inflammation of the liver with symptoms that may include a general feeling of not being well, with or without jaundice, liver pain or liver swelling [see Adverse Reactions (6.2)].
 
 Common adverse reactions (occurring with an incidence of ≥10%) in women taking Anastrozole included: hot flashes, asthenia, arthritis, pain, arthralgia, hypertension, depression, nausea and vomiting, rash, osteoporosis, fractures, back pain, insomnia, headache, bone pain, peripheral edema, increased cough, dyspnea, pharyngitis and lymphedema.
 
@@ -274,7 +274,7 @@ Table 6 — Number (n) and Percentage of Patients with Pre-specified Adverse Rea
 | --- | --- | --- | --- | --- | --- | --- |
 | 1 mg |  | 10 mg |  | 160 mg |  |  |
 | (N=262) |  | (N=246) |  | (N=253) |  |  |
-| Adverse Reaction Group | n | (%) | n | (%) | n | (%) |
+| n | (%) | n | (%) | n | (%) |  |
 | Gastrointestinal Disturbance | 77 | (29) | 81 | (33) | 54 | (21) |
 | Hot Flushes | 33 | (13) | 29 | (12) | 35 | (14) |
 | Edema | 19 | (7) | 28 | (11) | 35 | (14) |
