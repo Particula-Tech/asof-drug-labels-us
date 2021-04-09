@@ -3,34 +3,34 @@
 The following adverse reactions are discussed in more detail in other sections of the labeling.
 
 - •Hypertension [see Warnings and Precautions (5.1)]
-- •Urinary retention [see Warnings and Precautions (5.2)]
+- •Urinary Retention [see Warnings and Precautions (5.2)]
 - •Angioedema [see Warnings and Precautions (5.3)]
 
 ## 6.1 Clinical Trials Experience
 
 Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in clinical practice.
 
-Monotherapy
+MYRBETRIQ Monotherapy for Adult OAB
 
-In three, 12-week, double-blind, placebo-controlled, safety and efficacy studies in patients with overactive bladder (Studies 1, 2, and 3), MYRBETRIQ was evaluated for safety in 2736 patients [see Clinical Studies (14)].
+In three, 12-week, double-blind, placebo-controlled, safety and efficacy studies in patients with OAB (Studies 1, 2, and 3), MYRBETRIQ was evaluated for safety in 2736 patients [see Clinical Studies (14.1)].
 Study 1 also included an active control.
 For the combined Studies 1, 2, and 3, 432 patients received MYRBETRIQ 25 mg, 1375 received MYRBETRIQ 50 mg, and 929 received MYRBETRIQ 100 mg once daily.
-In these studies, the majority of the patients were Caucasian (94%), and female (72%) with a mean age of 59 years (range 18 to 95 years).
+In these studies, the majority of the patients were Caucasian (94%) and female (72%) with a mean age of 59 years (range 18 to 95 years).
 
-MYRBETRIQ was also evaluated for safety in 1632 patients who received MYRBETRIQ 50 mg once daily (n=812 patients) or MYRBETRIQ 100 mg (n=820 patients) in a 1-year, randomized, fixed-dose, double-blind, active-controlled, safety study in patients with overactive bladder (Study 4).
+MYRBETRIQ was also evaluated for safety in 1632 patients who received MYRBETRIQ 50 mg once daily (n=812 patients) or MYRBETRIQ 100 mg (n=820 patients) in a 1-year, randomized, fixed-dose, double-blind, active-controlled, safety study in patients with OAB (Study 4).
 Of these patients, 731 received MYRBETRIQ in a previous 12-week study.
 In Study 4, 1385 patients received MYRBETRIQ continuously for at least 6 months, 1311 patients received MYRBETRIQ for at least 9 months, and 564 patients received MYRBETRIQ for at least 1 year.
 
-The most frequent adverse events (0.2%) leading to discontinuation in Studies 1, 2 and 3 for the 25 mg or 50 mg dose were nausea, headache, hypertension, diarrhea, constipation, dizziness and tachycardia.
+The most frequent adverse events (0.2%) leading to discontinuation in Studies 1, 2, and 3 for the 25 mg or 50 mg dose were nausea, headache, hypertension, diarrhea, constipation, dizziness, and tachycardia.
 
 Atrial fibrillation (0.2%) and prostate cancer (0.1%) were reported as serious adverse events by more than 1 patient and at a rate greater than placebo.
 
-Table 1 lists adverse reactions, derived from all adverse events, that were reported in Studies 1, 2 and 3 at an incidence greater than placebo and in 1% or more of patients treated with MYRBETRIQ 25 mg or 50 mg once daily for up to 12 weeks.
-The most commonly reported adverse reactions (greater than 2% of MYRBETRIQ patients and greater than placebo) were hypertension, nasopharyngitis, urinary tract infection and headache.
+Table 8 lists the adverse reactions, derived from all adverse events, that were reported in Studies 1, 2, and 3 at an incidence greater than placebo and in 1% or more of patients treated with MYRBETRIQ 25 mg or 50 mg once daily for up to 12 weeks.
+The most commonly reported adverse reactions (greater than 2% of MYRBETRIQ patients and greater than placebo) were hypertension, nasopharyngitis, urinary tract infection, and headache.
 
-Table 1: Percentages of Patients with Adverse Reactions, Derived from All Adverse Events, Exceeding Placebo Rate and Reported by 1% or More of Patients Treated with MYRBETRIQ 25 mg or 50 mg Once Daily in Studies 1, 2, and 3
+Table 8: Percentages of Patients with Adverse Reactions, Derived from All Adverse Events, Exceeding Placebo Rate and Reported in ≥ 1% of OAB Patients Treated with MYRBETRIQ 25 mg or 50 mg Once Daily in Studies 1, 2, and 3
 
-|  | Placebo(%) | MYRBETRIQ 25 mg(%) | MYRBETRIQ 50 mg(%) |
+| Adverse Reaction | Placebo(%) | MYRBETRIQ 25 mg(%) | MYRBETRIQ 50 mg(%) |
 | --- | --- | --- | --- |
 | Number of Patients | 1380 | 432 | 1375 |
 | HypertensionIncludes reports of blood pressure above the normal range, and BP increased from baseline, occurring predominantly in subjects with baseline hypertension. | 7.6 | 11.3 | 7.5 |
@@ -49,12 +49,12 @@ Other adverse reactions reported by less than 1% of patients treated with MYRBET
 
 Cardiac disorders: palpitations, blood pressure increased [see Clinical Pharmacology (12.2)] Eye disorders: glaucoma [see Clinical Pharmacology (12.2)] Gastrointestinal disorders: dyspepsia, gastritis, abdominal distension Infections and Infestations: sinusitis, rhinitis Investigations: GGT increased, AST increased, ALT increased, LDH increased Renal and urinary disorders: nephrolithiasis, bladder pain Reproductive system and breast disorders: vulvovaginal pruritus, vaginal infection Skin and subcutaneous tissue disorders: urticaria, leukocytoclastic vasculitis, rash, pruritus, purpura, lip edema
 
-Table 2 lists the rates of the most commonly reported adverse reactions, derived from all adverse events in patients treated with MYRBETRIQ 50 mg for up to 52 weeks in Study 4.
+Table 9 lists the rates of the most commonly reported adverse reactions, derived from all adverse events in patients treated with MYRBETRIQ 50 mg for up to 52 weeks in Study 4.
 The most commonly reported adverse reactions (> 3% of MYRBETRIQ patients) were hypertension, urinary tract infection, headache, and nasopharyngitis.
 
-Table 2: Percentages of Patients with Adverse Reactions, Derived from All Adverse Events, Reported by Greater Than 2% of Patients Treated with MYRBETRIQ 50 mg Once Daily in Study 4
+Table 9: Percentages of Patients with Adverse Reactions, Derived from All Adverse Events, Reported in > 2% of OAB Patients Treated with MYRBETRIQ 50 mg Once Daily in Study 4
 
-|  | MYRBETRIQ 50 mg(%) | Active Control(%) |
+| Adverse Reaction | MYRBETRIQ 50 mg(%) | Active Control(%) |
 | --- | --- | --- |
 | Number of Patients | 812 | 812 |
 | Hypertension | 9.2 | 9.6 |
@@ -74,30 +74,29 @@ In Study 4, in patients treated with MYRBETRIQ 50 mg once daily, adverse reactio
 Serious adverse events reported by at least 2 patients and exceeding active control included cerebrovascular accident (0.4%) and osteoarthritis (0.2%).
 Serum ALT/AST increased from baseline by greater than 10-fold in 2 patients (0.3%) taking MYRBETRIQ 50 mg; and these markers subsequently returned to baseline while both patients continued MYRBETRIQ.
 
-In Study 4, serious adverse events of neoplasm were reported by 0.1%, 1.3%, and 0.5% of patients treated with MYRBETRIQ 50 mg, MYRBETRIQ 100 mg and active control once daily, respectively.
-Neoplasms reported by 2 patients treated with MYRBETRIQ 100 mg included breast cancer, lung neoplasm malignant and prostate cancer.
+In Study 4, serious adverse events of neoplasm were reported by 0.1%, 1.3%, and 0.5% of patients treated with MYRBETRIQ 50 mg, MYRBETRIQ 100 mg, and active control once daily, respectively.
+Neoplasms reported by 2 patients treated with MYRBETRIQ 100 mg included breast cancer, lung neoplasm malignant, and prostate cancer.
 A causal relationship between mirabegron and these reported neoplasms has not been established.
 
-In a separate clinical study in Japan, a single case was reported as Stevens-Johnson syndrome with increased serum ALT, AST and bilirubin in a patient taking MYRBETRIQ 100 mg as well as an herbal medication (Kyufu Gold).
+In a separate clinical study in Japan, a single case was reported as Stevens-Johnson syndrome with increased serum ALT, AST, and bilirubin in a patient taking MYRBETRIQ 100 mg as well as an herbal medication (Kyufu Gold).
 
-Combination Therapy of MYRBETRIQ with Solifenacin Succinate
+MYRBETRIQ Combination Therapy with Solifenacin Succinate for Adult OAB
 
-In three, 12-week, double-blind, randomized, active-controlled safety and efficacy studies in patients with overactive bladder (Studies 5, 6, and 7), combination treatment of MYRBETRIQ and solifenacin succinate was evaluated for safety in 6818 patients.
+In three, 12-week, double-blind, randomized, active-controlled safety and efficacy studies in patients with OAB (Studies 5, 6, and 7), combination treatment of MYRBETRIQ and solifenacin succinate was evaluated for safety in 6818 patients [see Clinical Studies (14.2)].
 Studies 5 and 6 also included a placebo control.
 For the combined Studies 5, 6, and 7, 997 patients received combination treatment with MYRBETRIQ 25 mg and solifenacin succinate 5 mg, and 1706 patients received combination treatment with MYRBETRIQ 50 mg and solifenacin succinate 5 mg.
-In these studies, the majority of the patients were Caucasian (88%), and female (77%) with a mean age of 57 years (range 18 to 89 years).
+In these studies, the majority of the patients were Caucasian (88%) and female (77%) with a mean age of 57 years (range 18 to 89 years).
 
-MYRBETRIQ 50 mg and solifenacin succinate 5 mg co-administration was also evaluated for safety in 1814 patients in a 52-week, double-blind, randomized, active-controlled study in patients with overactive bladder (Study 8).
+MYRBETRIQ 50 mg and solifenacin succinate 5 mg coadministration was also evaluated for safety in 1814 patients in a 52-week, double-blind, randomized, active-controlled study in patients with OAB (Study 8) [see Clinical Studies (14.2)].
 
 In Studies 5, 6, and 7, the most commonly reported adverse reactions (greater than 2% of patients treated with combination therapy of MYRBETRIQ and solifenacin succinate 5 mg, and greater than placebo and/or MYRBETRIQ or solifenacin succinate comparator at the same dose as in the combination treatment) were dry mouth, urinary tract infection, constipation, and tachycardia.
-The most frequent adverse reactions (≥ 0.2%) leading to discontinuation in the co-administration trials were dry mouth and urinary retention.
-No serious adverse reactions were reported by more than 2 patients.
+The most frequent adverse reactions (≥ 0.2%) leading to discontinuation in the coadministration trials were dry mouth and urinary retention.
 
-Table 3 lists adverse reactions, derived from all adverse events that were reported in Studies 5, 6, and 7 in 1% or more of patients treated with MYRBETRIQ 25 mg or 50 mg co-administered with solifenacin succinate 5 mg and at an incidence greater than placebo and mirabegron or solifenacin succinate comparator at the same dose as in the combination treatment when administered once daily for up to 12 weeks.
+Table 10 lists the adverse reactions, derived from all adverse events that were reported in Studies 5, 6, and 7 in 1% or more of patients treated with MYRBETRIQ 25 mg or 50 mg coadministered with solifenacin succinate 5 mg and at an incidence greater than placebo and mirabegron or solifenacin succinate comparator at the same dose as in the combination treatment when administered once daily for up to 12 weeks.
 
-Table 3: Percentages of Patients with Adverse Reactions, Derived from All Adverse Events, Exceeding Placebo and Comparator (at same dose level) Rate and Reported by 1% or More of Patients Treated With Combination Therapy in Studies 5, 6, and 7Adverse reactions occurring in patients treated with co-administration of MYRBETRIQ and solifenacin succinate in Study 7, that included a 4-week initial treatment period with MYRBETRIQ 25 mg + solifenacin succinate 5 mg, are included in the MYRBETRIQ 50 mg + solifenacin succinate 5 mg group.
+Table 10: Percentages of Patients with Adverse Reactions, Derived from All Adverse Events, Exceeding Placebo and Comparator (at same dose level) Rate and Reported in ≥ 1% of OAB Patients Treated with Combination Therapy in Studies 5, 6, and 7Adverse reactions occurring in patients treated with coadministration of MYRBETRIQ and solifenacin succinate in Study 7, that included a 4-week initial treatment period with MYRBETRIQ 25 mg + Solifenacin Succinate 5 mg, are included in the MYRBETRIQ 50 mg + Solifenacin Succinate 5 mg group.
 
-|  | Placebo(%) | MYRBETRIQ25 mg(%) | MYRBETRIQ50 mg(%) | Solifenacin succinate5 mg(%) | MYRBETRIQ25 mg + Solifenacin succinate 5 mg(%) | MYRBETRIQ50 mg + Solifenacin succinate 5 mg(%) |
+| AdverseReaction | Placebo(%) | MYRBETRIQ25 mg(%) | MYRBETRIQ50 mg(%) | Solifenacin Succinate5 mg(%) | MYRBETRIQ25 mg + Solifenacin Succinate5 mg(%) | MYRBETRIQ50 mg + Solifenacin Succinate5 mg(%) |
 | --- | --- | --- | --- | --- | --- | --- |
 | Number of Patients | 510 | 500 | 500 | 1288 | 997 | 1706 |
 | Dry Mouth | 2.2 | 3.8 | 3.6 | 6.5 | 9.3 | 7.2 |
@@ -109,18 +108,18 @@ Table 3: Percentages of Patients with Adverse Reactions, Derived from All Advers
 | Vision Blurred | 0.4 | 0.2 | 0.2 | 0.9 | 0.7 | 1.1 |
 | Arthralgia | 0.8 | 0.8 | 0.8 | 0.8 | 0.5 | 1.1 |
 
-In Study 8, the most common adverse reactions (more than 2% of patients treated with co-administration of MYRBETRIQ and solifenacin succinate and exceeding comparator rate) were UTI, dry mouth, constipation, and headache.
+In Study 8, the most common adverse reactions (more than 2% of patients treated with coadministration of MYRBETRIQ and solifenacin succinate and exceeding comparator rate) were UTI, dry mouth, constipation, and headache.
 The most frequent adverse reactions leading to discontinuation in the trial were constipation (0.2%), urinary retention (0.2%), urinary hesitation (0.2%), and vision blurred (0.2%).
 
-In Study 8, serious adverse events of neoplasm were reported by 0.7%, 0.3%, and 0% of patients who received co-administration of MYRBETRIQ 50 mg and solifenacin succinate 5 mg, MYRBETRIQ 50 mg monotherapy, and solifenacin succinate 5 mg monotherapy, respectively.
-Neoplasms reported by more than 1 patient who received co-administration with MYRBETRIQ 50 mg and solifenacin succinate 5 mg included basal cell carcinoma (n=3), breast cancer (n=2), melanoma (n=2), and squamous cell carcinoma (n=2).
-A causal relationship between the co-administration of mirabegron and solifenacin succinate and these reported neoplasms has not been established.
+In Study 8, serious adverse events of neoplasm were reported by 0.7%, 0.3%, and 0% of patients who received coadministration of MYRBETRIQ 50 mg and solifenacin succinate 5 mg, MYRBETRIQ 50 mg monotherapy, and solifenacin succinate 5 mg monotherapy, respectively.
+Neoplasms reported by more than 1 patient who received coadministration with MYRBETRIQ 50 mg and solifenacin succinate 5 mg included basal cell carcinoma (n=3), breast cancer (n=2), melanoma (n=2), and squamous cell carcinoma (n=2).
+A causal relationship between the coadministration of mirabegron and solifenacin succinate and these reported neoplasms has not been established.
 
-Table 4 lists adverse reactions, derived from all adverse events that were reported at an incidence greater than comparator and in 2% or more of patients treated with MYRBETRIQ 50 mg co-administered with solifenacin succinate 5 mg once daily for up to 52 weeks in Study 8.
+Table 11 lists the adverse reactions, derived from all adverse events that were reported at an incidence greater than comparator and in 2% or more of patients treated with MYRBETRIQ 50 mg coadministered with solifenacin succinate 5 mg once daily for up to 52 weeks in Study 8.
 
-Table 4: Percentages of Patients with Adverse Reactions, Derived from All Adverse Events, Exceeding Comparator Rate and Reported by 2% or More of Patients Treated With Combination Therapy in Study 8
+Table 11: Percentages of Patients with Adverse Reactions, Derived from All Adverse Events, Exceeding Comparator Rate and Reported in ≥ 2% of OAB Patients Treated with Combination Therapy in Study 8
 
-|  | MYRBETRIQ50 mg(%) | Solifenacin succinate5 mg(%) | MYRBETRIQ50 mg + Solifenacin succinate5 mg(%) |
+| Adverse Reaction | MYRBETRIQ50 mg(%) | Solifenacin Succinate5 mg(%) | MYRBETRIQ50 mg + Solifenacin Succinate5 mg(%) |
 | --- | --- | --- | --- |
 | Number of Patients | 305 | 303 | 1206 |
 | Urinary Tract InfectionsIncludes any recorded treatment-emergent UTI. | 6.2 | 5.9 | 8.4 |
@@ -128,16 +127,48 @@ Table 4: Percentages of Patients with Adverse Reactions, Derived from All Advers
 | Constipation | 1.0 | 2.3 | 3.3 |
 | Headache | 1.6 | 1.7 | 2.9 |
 
+MYRBETRIQ/MYRBETRIQ Granules for Pediatric Neurogenic Detrusor Overactivity (NDO)
+
+The safety of MYRBETRIQ/MYRBETRIQ Granules was evaluated in a 52-week, open-label, baseline-controlled, multicenter, dose titration study (Study 9) [see Clinical Studies (14.3)].
+The study included 86 pediatric patients 3 to 17 years of age with neurogenic detrusor overactivity (NDO); 55% were female, 72% were White.
+Treatment was initiated at the weight-based starting recommended dose and was increased to a dose equivalent of MYRBETRIQ 50 mg daily dose in adults by Week 8.
+Subsequent to the dose titration period, patients continued their optimized dose for the duration of the 52-week study (mean exposure duration 303 days, range 1 to 390 days).
+
+The most commonly reported adverse reactions were UTI, nasopharyngitis, constipation, and headache.
+
+Table 12 lists the adverse reactions that were reported in 2% or more of patients treated with MYRBETRIQ/MYRBETRIQ Granules for oral suspension in Study 9.
+
+Table 12: Percentages of Patients with Adverse Reactions Reported in ≥ 2% of Patients 3 to 17 Years of Age with Neurogenic Detrusor Overactivity (NDO) Treated with MYRBETRIQ/MYRBETRIQ Granules in Study 9
+
+| Adverse Reaction | Percentage (%) of Patients ReportingAdverse ReactionsN=86 |
+| --- | --- |
+| Number of Patients | 51 (59.3) |
+| Urinary Tract InfectionIncludes any recorded UTI while patient was on treatment with MYRBETRIQ/MYRBETRIQ Granules. | 24.4 |
+| Nasopharyngitis | 5.8 |
+| Constipation | 4.7 |
+| Headache | 3.5 |
+| Nausea | 2.3 |
+| Gastroenteritis | 2.3 |
+| Rhinitis | 2.3 |
+| Cough | 2.3 |
+
+Increased Blood Pressure in Pediatric Patients with NDO Treated with MYRBETRIQ/MYRBETRIQ Granules:
+
+Mean systolic and diastolic blood pressures increased in Study 9 by 4.3 mm Hg and 1.7 mm Hg, respectively, in patients less than 12 years of age on MYRBETRIQ/MYRBETRIQ Granules at a dose equivalent of MYRBETRIQ 50 mg daily dose in adults.
+The blood pressure increases were larger in patients less than 8 years of age with mean systolic and diastolic blood pressure increases of 5.9 mm Hg and 2.3 mm Hg, respectively.
+Ten (24%) patients less than 12 years of age who were normotensive at baseline had at least one blood pressure measured at or above the 95th percentile for age, sex, and stature during Study 9.
+Stage 1 hypertension, defined as repeated blood pressure measurements at or above the 95th percentile for age, sex, and stature, was sustained in six of these 10 patients (60%) at the end of the study.
+
 ## 6.2 Postmarketing Experience
 
-The following adverse reactions have been identified during post-approval use of mirabegron.
+The following adverse reactions have been identified during post-approval use of MYRBETRIQ/MYRBETRIQ Granules.
 Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
 The following events have been reported in association with mirabegron use in worldwide postmarketing experience:
 
-Cardiovascular disorders: atrial fibrillation Gastrointestinal disorders: nausea, constipation, diarrhea Nervous system disorders: dizziness, headache
+Cardiac disorders: atrial fibrillation Gastrointestinal disorders: nausea, constipation, diarrhea Nervous system disorders: dizziness, headache
 
-There have been postmarketing reports of confusion, hallucinations, insomnia and anxiety in patients taking mirabegron.
-The majority of these patients had pre-existing medical conditions or concomitant medications that may cause confusion, hallucinations, insomnia and anxiety.
+There have been postmarketing reports of confusion, hallucinations, insomnia, and anxiety in patients taking mirabegron.
+The majority of these patients had pre-existing medical conditions or concomitant medications that may cause confusion, hallucinations, insomnia, and anxiety.
 A causal relationship between mirabegron and these disorders has not been established.
 
-Skin and subcutaneous tissue: angioedema of the face, lips, tongue, and larynx, with or without respiratory symptoms [see Warnings and Precautions (5.3)]; pruritus Urologic: urinary retention [see Warnings and Precautions (5.2)]
+Skin and subcutaneous tissue disorders: angioedema of the face, lips, tongue, and larynx, with or without respiratory symptoms [see Warnings and Precautions (5.3)]; pruritus Renal and urinary disorders: urinary retention [see Warnings and Precautions (5.2)]

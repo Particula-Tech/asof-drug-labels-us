@@ -1,14 +1,14 @@
 # 7 DRUG INTERACTIONS
 
-Drug interaction studies were conducted to investigate the effect of co-administered drugs on the pharmacokinetics of mirabegron and the effect of mirabegron on the pharmacokinetics of co-administered drugs (e.g., ketoconazole, rifampin, solifenacin succinate, tamsulosin, and oral contraceptives) [see Clinical Pharmacology (12.3)].
-No dose adjustment is recommended when these drugs are co-administered with mirabegron.
+Drug interaction studies were conducted in adult patients to investigate the effect of coadministered drugs on the pharmacokinetics of mirabegron and the effect of mirabegron on the pharmacokinetics of coadministered drugs (e.g., ketoconazole, rifampin, solifenacin succinate, tamsulosin, and oral contraceptives) [see Clinical Pharmacology (12.3)].
+No dose adjustment is recommended when these drugs are coadministered with mirabegron.
 
 The following are drug interactions for which monitoring is recommended:
 
 ## 7.1 Drugs Metabolized by CYP2D6
 
-Since mirabegron is a moderate CYP2D6 inhibitor, the systemic exposure of drugs metabolized by CYP2D6 enzyme, such as metoprolol and desipramine, is increased when co-administered with mirabegron.
-Therefore, appropriate monitoring and dose adjustment may be necessary when MYRBETRIQ is co-administered with these drugs, especially with narrow therapeutic index CYP2D6 substrates, such as thioridazine, flecainide, and propafenone [see Warnings and Precautions (5.4) and Clinical Pharmacology (12.3)].
+Since mirabegron is a moderate CYP2D6 inhibitor, the systemic exposure of drugs metabolized by CYP2D6 enzyme is increased when coadministered with mirabegron.
+Therefore, appropriate monitoring and dose adjustment may be necessary when MYRBETRIQ/MYRBETRIQ Granules is coadministered with these drugs, especially with narrow therapeutic index CYP2D6 substrates [see Warnings and Precautions (5.4) and Clinical Pharmacology (12.3)].
 
 ## 7.2 Digoxin
 

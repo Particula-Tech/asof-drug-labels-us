@@ -1,18 +1,23 @@
 {
   "application_numbers": [
-    "NDA202611"
+    "NDA202611",
+    "NDA213801"
   ],
   "inn": "mirabegron",
   "labeler": "Astellas Pharma US, Inc.",
   "package_ndcs": [
     "0469-2601-30",
-    "0469-2601-71",
     "0469-2601-90",
     "0469-2602-30",
-    "0469-2602-71",
-    "0469-2602-90"
+    "0469-2602-90",
+    "0469-5020-99"
   ],
   "products": [
+    {
+      "form": "GRANULE, FOR SUSPENSION, EXTENDED RELEASE",
+      "generic": "mirabegron",
+      "name": "Myrbetriq"
+    },
     {
       "form": "TABLET, FILM COATED, EXTENDED RELEASE",
       "generic": "mirabegron",
