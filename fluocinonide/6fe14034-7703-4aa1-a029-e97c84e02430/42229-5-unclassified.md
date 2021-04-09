@@ -3,6 +3,6 @@ NOT FOR OPHTHALMIC USE.
 
 Rx only
 
-Mfd. by: Taro Pharmaceuticals Inc., Brampton, Ontario, Canada L6T 1C1 Dist. by: Taro Pharmaceuticals U.S.A., Inc. Hawthorne, NY 10532 Revised: January, 2015
+Mfd. by: Taro Pharmaceutical Industries Ltd., Haifa Bay, Israel 2624761 Dist. by: Taro Pharmaceuticals U.S.A., Inc. Hawthorne, NY 10532 Revised: March 2021
 
-PK-1940-4 362
+5201016-0321-1 587

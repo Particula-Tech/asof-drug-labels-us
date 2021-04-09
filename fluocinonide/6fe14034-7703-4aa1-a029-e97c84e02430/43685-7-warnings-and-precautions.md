@@ -10,7 +10,8 @@ If HPA axis suppression is noted, an attempt should be made to withdraw the drug
 
 Recovery of HPA axis function is generally prompt and complete upon discontinuation of the drug.
 Infrequently, signs and symptoms of steroid withdrawal may occur, requiring supplemental systemic corticosteroids.
-Children may absorb proportionally larger amounts of topical corticosteroids and thus be more susceptible to systemic toxicity (See PRECAUTIONS - Pediatric Use).
+Children may absorb proportionally larger amounts of topical corticosteroids and thus be more susceptible to systemic toxicity.
+(See PRECAUTIONS - Pediatric Use.)
 
 This preparation is not for ophthalmic use.
 Severe irritation is possible if fluocinonide solution contacts the eye.
@@ -49,7 +50,7 @@ The following tests may be helpful in evaluating the HPA axis suppression:
 Long-term animal studies have not been performed to evaluate the carcinogenic potential or the effect on fertility of topical corticosteroids.
 Studies to determine mutagenicity with prednisolone and hydrocortisone have revealed negative results.
 
-## Pregnancy Category C
+## Pregnancy
 
 Corticosteroids are generally teratogenic in laboratory animals when administered systemically at relatively low dosage levels.
 The more potent corticosteroids have been shown to be teratogenic after dermal application in laboratory animals.
