@@ -2,21 +2,20 @@
 
 ## 8.1 Pregnancy
 
-Pregnancy Category C
+Risk Summary
 
-Risk Summary: There are no adequate or well-controlled studies of Vasostrict® in pregnant women.
-It is not known whether vasopressin can cause fetal harm when administered to a pregnant woman or can affect reproduction capacity.
-Animal reproduction studies have not been conducted with vasopressin [see Clinical Pharmacology (12.3)].
+There are no available data on Vasostrict® use in pregnant women to inform a drug associated risk of major birth defects, miscarriage, or adverse maternal or fetal outcomes.
+Animal reproduction studies have not been conducted.
 
-Clinical Considerations: Because of increased clearance of vasopressin in the second and third trimester, the dose of Vasostrict® may need to be up-titrated to doses exceeding 0.1 units/minute in post-cardiotomy shock and 0.07 units/minute in septic shock.
+Clinical Considerations
 
-Vasostrict® may produce tonic uterine contractions that could threaten the continuation of pregnancy.
+Dose adjustments during pregnancy and the postpartum period: Because of increased clearance of vasopressin in the second and third trimester, the dose of Vasostrict® may need to be increased [see Dosage and Administration (2.2) and Clinical Pharmacology (12.3)].
 
-## 8.3 Nursing Mothers
+Maternal adverse reactions: Vasostrict® may produce tonic uterine contractions that could threaten the continuation of pregnancy.
 
-It is not known whether vasopressin is present in human milk.
-However, oral absorption by a nursing infant is unlikely because vasopressin is rapidly destroyed in the gastrointestinal tract.
-Consider advising a lactating woman to pump and discard breast milk for 1.5 hours after receiving vasopressin to minimize potential exposure to the breastfed infant.
+## 8.2 Lactation
+
+There are no data on the presence of vasopressin injection in either human or animal milk, the effects on the breastfed infant, or the effects on milk production.
 
 ## 8.4 Pediatric Use
 

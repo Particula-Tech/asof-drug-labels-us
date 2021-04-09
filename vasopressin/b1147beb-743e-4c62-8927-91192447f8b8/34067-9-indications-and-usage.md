@@ -1,3 +1,3 @@
 # 1 INDICATIONS AND USAGE
 
-Vasostrict® is indicated to increase blood pressure in adults with vasodilatory shock (e.g., post-cardiotomy or sepsis) who remain hypotensive despite fluids and catecholamines.
+Vasostrict® is indicated to increase blood pressure in adults with vasodilatory shock who remain hypotensive despite fluids and catecholamines.

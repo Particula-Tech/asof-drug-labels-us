@@ -23,12 +23,16 @@ This product does not require further dilution prior to administration.
 
 ## 2.2 Administration
 
-The goal of treatment is optimization of perfusion to critical organs, but aggressive treatment can compromise perfusion of organs, like the gastrointestinal tract, whose function is difficult to monitor.
-The following advice is empirical.
 In general, titrate to the lowest dose compatible with a clinically acceptable response.
 
-For post-cardiotomy shock, start with a dose of 0.03 units/minute.
-For septic shock, start with a dose of 0.01 units/minute.
-If the target blood pressure response is not achieved, titrate up by 0.005 units/minute at 10- to 15-minute intervals.
-The maximum dose for post-cardiotomy shock is 0.1 units/minute and for septic shock 0.07 units/minute.
-After target blood pressure has been maintained for 8 hours without the use of catecholamines, taper Vasostrict® by 0.005 units/minute every hour as tolerated to maintain target blood pressure.
+The recommended starting dose is:
+
+Post-cardiotomy shock: 0.03 units/minute
+
+Septic Shock: 0.01 units/minute
+
+Titrate up by 0.005 units/minute at 10- to 15-minute intervals until the target blood pressure is reached.
+There are limited data for doses above 0.1 units/minute for post-cardiotomy shock and 0.07 units/minute for septic shock.
+Adverse reactions are expected to increase with higher doses.
+
+After target blood pressure has been maintained for 8 hours without the use of catecholamines, taper vasopressin injection by 0.005 units/minute every hour as tolerated to maintain target blood pressure.
