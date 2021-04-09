@@ -6,22 +6,22 @@ Select patients for treatment with KEYTRUDA as a single agent based on the prese
 
 - stage III NSCLC who are not candidates for surgical resection or definitive chemoradiation [see Clinical Studies (14.2)].
 - metastatic NSCLC [see Clinical Studies (14.2)].
-- first-line treatment of metastatic or unresectable, recurrent HNSCC [see Clinical Studies (14.4)].
-- metastatic urothelial carcinoma [see Clinical Studies (14.7)].
-- metastatic gastric cancer [see Clinical Studies (14.10)].
+- first-line treatment of metastatic or unresectable, recurrent HNSCC [see Clinical Studies (14.3)].
+- metastatic urothelial carcinoma [see Clinical Studies (14.6)].
+- metastatic gastric cancer [see Clinical Studies (14.9)].
   If PD-L1 expression is not detected in an archival gastric cancer specimen, evaluate the feasibility of obtaining a tumor biopsy for PD-L1 testing.
-- previously treated recurrent locally advanced or metastatic esophageal cancer [see Clinical Studies (14.11)].
-- recurrent or metastatic cervical cancer [see Clinical Studies (14.12)].
+- previously treated recurrent locally advanced or metastatic esophageal cancer [see Clinical Studies (14.10)].
+- recurrent or metastatic cervical cancer [see Clinical Studies (14.11)].
 
-For the MSI-H/dMMR indications, select patients for treatment with KEYTRUDA as a single agent based on MSI-H/dMMR status in tumor specimens [see Clinical Studies (14.8, 14.9)].
+For the MSI-H/dMMR indications, select patients for treatment with KEYTRUDA as a single agent based on MSI-H/dMMR status in tumor specimens [see Clinical Studies (14.7, 14.8)].
 
-For the TMB-H indication, select patients for treatment with KEYTRUDA as a single agent based on TMB-H status in tumor specimens [see Clinical Studies (14.17)].
+For the TMB-H indication, select patients for treatment with KEYTRUDA as a single agent based on TMB-H status in tumor specimens [see Clinical Studies (14.16)].
 
 Because the effect of prior chemotherapy on test results for tumor mutation burden (TMB-H), MSI-H, or dMMR in patients with high-grade gliomas is unclear, it is recommended to test for these markers in the primary tumor specimens obtained prior to initiation of temozolomide chemotherapy in patients with high-grade gliomas.
 
 Select patients for treatment with KEYTRUDA in combination with chemotherapy based on the presence of positive PD-L1 expression in:
 
-- locally recurrent unresectable or metastatic TNBC [see Clinical Studies (14.19)].
+- locally recurrent unresectable or metastatic TNBC [see Clinical Studies (14.18)].
 
 Information on FDA-approved tests for the detection of PD-L1 expression and TMB status is available at: http://www.fda.gov/CompanionDiagnostics.
 An FDA-approved test for the detection of MSI-H or dMMR is not currently available.
@@ -35,7 +35,7 @@ Table 1: Recommended Dosage
 | Monotherapy |  |  |
 | Adult patients with unresectable or metastatic melanoma | 200 mg every 3 weeks30-minute intravenous infusion or 400 mg every 6 weeks | Until disease progression or unacceptable toxicity |
 | Adjuvant treatment of adult patients with melanoma | 200 mg every 3 weeks or 400 mg every 6 weeks | Until disease recurrence, unacceptable toxicity, or up to 12 months |
-| Adult patients with NSCLC, SCLC, HNSCC, cHL, PMBCL, locally advanced or metastatic Urothelial Carcinoma, MSI-H or dMMR Cancer, MSI-H or dMMR CRC, Gastric Cancer, Esophageal Cancer, Cervical Cancer, HCC, MCC, TMB-H Cancer, or cSCC | 200 mg every 3 weeks or 400 mg every 6 weeks | Until disease progression, unacceptable toxicity, or up to 24 months |
+| Adult patients with NSCLC, HNSCC, cHL, PMBCL, locally advanced or metastatic Urothelial Carcinoma, MSI-H or dMMR Cancer, MSI-H or dMMR CRC, Gastric Cancer, Esophageal Cancer, Cervical Cancer, HCC, MCC, TMB-H Cancer, or cSCC | 200 mg every 3 weeks or 400 mg every 6 weeks | Until disease progression, unacceptable toxicity, or up to 24 months |
 | Adult patients with high-risk BCG- unresponsive NMIBC | 200 mg every 3 weeks or 400 mg every 6 weeks | Until persistent or recurrent high-risk NMIBC, disease progression, unacceptable toxicity, or up to 24 months |
 | Pediatric patients with cHL, PMBCL, MSI-H Cancer, MCC, or TMB-H Cancer | 2 mg/kg every 3 weeks (up to a maximum of 200 mg) | Until disease progression, unacceptable toxicity, or up to 24 months |
 | Combination TherapyRefer to the Prescribing Information for the agents administered in combination with KEYTRUDA for recommended dosing information, as appropriate. |  |  |
