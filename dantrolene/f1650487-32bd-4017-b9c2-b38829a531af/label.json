@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "ANDA078378"
+  ],
+  "inn": "dantrolene",
+  "labeler": "USWM, LLC",
+  "package_ndcs": [
+    "78670-003-67"
+  ],
+  "products": [
+    {
+      "form": "INJECTION, POWDER, LYOPHILIZED, FOR SOLUTION",
+      "generic": "dantrolene sodium",
+      "name": "Revonto"
+    }
+  ],
+  "setid": "f1650487-32bd-4017-b9c2-b38829a531af",
+  "source": "dailymed"
+}
