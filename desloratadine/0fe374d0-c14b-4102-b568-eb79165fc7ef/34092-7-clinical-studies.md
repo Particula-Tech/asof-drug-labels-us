@@ -2,8 +2,8 @@
 
 ## 14.1 Seasonal Allergic Rhinitis
 
-The clinical efficacy and safety of Desloratadine Tablets were evaluated in over 2,300 patients 12 to 75 years of age with seasonal allergic rhinitis.
-A total of 1,838 patients received 2.5 to 20 mg/day of Desloratadine in 4 double-blind, randomized, placebo-controlled clinical trials of 2 to 4 weeks' duration conducted in the United States.
+The clinical efficacy and safety of Desloratadine Tablets were evaluated in over 2300 patients 12 to 75 years of age with seasonal allergic rhinitis.
+A total of 1838 patients received 2.5 to 20 mg/day of Desloratadine in 4 double-blind, randomized, placebo-controlled clinical trials of 2 to 4 weeks' duration conducted in the United States.
 The results of these studies demonstrated the efficacy and safety of Desloratadine 5 mg in the treatment of adult and adolescent patients with seasonal allergic rhinitis.
 In a dose-ranging trial, Desloratadine 2.5 to 20 mg/day was studied.
 Doses of 5, 7.5, 10, and 20 mg/day were superior to placebo; and no additional benefit was seen at doses above 5.0 mg.
@@ -27,7 +27,7 @@ There were no significant differences in the effectiveness of Desloratadine Tabl
 
 ## 14.2 Perennial Allergic Rhinitis
 
-The clinical efficacy and safety of Desloratadine Tablets 5 mg were evaluated in over 1,300 patients 12 to 80 years of age with perennial allergic rhinitis.
+The clinical efficacy and safety of Desloratadine Tablets 5 mg were evaluated in over 1300 patients 12 to 80 years of age with perennial allergic rhinitis.
 A total of 685 patients received 5 mg/day of Desloratadine in two double-blind, randomized, placebo-controlled clinical trials of 4 weeks' duration conducted in the United States and internationally.
 In one of these studies Desloratadine Tablets 5 mg once daily was shown to significantly reduce the Total Symptom Score in patients with perennial allergic rhinitis (Table 4).
 

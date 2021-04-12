@@ -11,7 +11,7 @@ Because clinical trials are conducted under widely varying conditions, adverse r
 
 Adults and Adolescents
 
-Allergic Rhinitis: In multiple-dose placebo-controlled trials, 2,834 patients ages 12 years or older received Desloratadine Tablets at doses of 2.5 mg to 20 mg daily, of whom 1,655 patients received the recommended daily dose of 5 mg.
+Allergic Rhinitis: In multiple-dose placebo-controlled trials, 2834 patients ages 12 years or older received Desloratadine Tablets at doses of 2.5 mg to 20 mg daily, of whom 1655 patients received the recommended daily dose of 5 mg.
 In patients receiving 5 mg daily, the rate of adverse events was similar between Desloratadine and placebo-treated patients.
 The percent of patients who withdrew prematurely due to adverse events was 2.4% in the Desloratadine group and 2.6% in the placebo group.
 There were no serious adverse events in these trials in patients receiving desloratadine.
@@ -19,7 +19,7 @@ All adverse events that were reported by greater than or equal to 2% of patients
 
 Table 1 Incidence of Adverse Events Reported by ≥2% of Adult and Adolescent Allergic Rhinitis Patients Receiving Desloratadine Tablets
 
-| Adverse Event | Desloratadine Tablets 5 mg (n=1,655) | Placebo (n=1,652) |
+| Adverse Event | Desloratadine Tablets 5 mg (n=1655) | Placebo (n=1652) |
 | --- | --- | --- |
 | Infections and Infestations Pharyngitis | 4.1% | 2.0% |
 | Nervous System Disorders Somnolence | 2.1% | 1.8% |
@@ -34,7 +34,7 @@ There were no differences in adverse events for subgroups of patients as defined
 Chronic Idiopathic Urticaria: In multiple-dose, placebo-controlled trials of chronic idiopathic urticaria, 211 patients ages 12 years or older received Desloratadine Tablets and 205 received placebo.
 Adverse events that were reported by greater than or equal to 2% of patients who received Desloratadine Tablets and that were more common with Desloratadine than placebo were (rates for Desloratadine and placebo, respectively): headache (14%, 13%), nausea (5%, 2%), fatigue (5%, 1%), dizziness (4%, 3%), pharyngitis (3%, 2%), dyspepsia (3%, 1%), and myalgia (3%, 1%).
 
-Pediatrics Two hundred and forty-six pediatric subjects 6 months to 11 years of age received Desloratadine Oral Solution for 15 days in three placebo controlled clinical trials.
+Pediatrics Two hundred and forty-six pediatric subjects 6 months to 11 years of age received Desloratadine Oral Solution for 15 days in three placebo-controlled clinical trials.
 Pediatric subjects aged 6 to 11 years received 2.5 mg once a day, subjects aged 1 to 5 years received 1.25 mg once a day, and subjects 6 to 11 months of age received 1.0 mg once a day.
 
 In subjects 6 to 11 years of age, no individual adverse event was reported by 2 percent or more of the subjects.

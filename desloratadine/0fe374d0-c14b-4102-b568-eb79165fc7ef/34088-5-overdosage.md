@@ -8,7 +8,3 @@ Information regarding acute overdosage is limited to experience from post-market
 In a dose-ranging trial, at doses of 10 mg and 20 mg/day somnolence was reported.
 
 In another study, no clinically relevant adverse events were reported in normal male and female volunteers who were given single daily doses of Desloratadine 45 mg for 10 days [see Clinical Pharmacology (12.2)].
-
-Lethality occurred in rats at oral doses of 250 mg/kg or greater (estimated desloratadine and desloratadine metabolite exposures were approximately 120 times the AUC in humans at the recommended daily oral dose).
-The oral median lethal dose in mice was 353 mg/kg (estimated desloratadine exposures were approximately 290 times the human daily oral dose on a mg/m2 basis).
-No deaths occurred at oral doses up to 250 mg/kg in monkeys (estimated desloratadine exposures were approximately 810 times the human daily oral dose on a mg/m2 basis).

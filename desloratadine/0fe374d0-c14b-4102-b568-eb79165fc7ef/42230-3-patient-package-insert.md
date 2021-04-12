@@ -41,7 +41,7 @@ Before you take Desloratadine Tablets, tell your doctor if you:
   Talk to your doctor if you are pregnant or plan to become pregnant.
 - •are breast-feeding or plan to breast-feed.
   Desloratadine can pass into your breast milk.
-  Talk to your doctor about the best way to feed your baby if you take Desloratadine Tablets.
+  Talk to your doctor about the best way to feed your baby if you take Desloratadine.
 
 Tell your doctor about all the medicines you take, including prescription and non-prescription medicines, vitamins and herbal supplements.
 Desloratadine may affect the way other medicines work, and other medicines may affect how Desloratadine works.
@@ -120,4 +120,4 @@ What are the ingredients in Desloratadine Tablets?
 Active ingredient: Desloratadine Inactive ingredients in Desloratadine Tablets: microcrystalline cellulose NF, pregelatinized starch NF, croscarmellose sodium NF, talc USP, zinc stearate, USP and FD&C Blue #2 HT 11-14%.
 
 Manufactured for: Virtus Pharmaceuticals, LLC Langhorne, PA 19047 1-888-848-3593 MADE IN USA Rev.
-03/2019 R-1903
+10/2020 R-2010
