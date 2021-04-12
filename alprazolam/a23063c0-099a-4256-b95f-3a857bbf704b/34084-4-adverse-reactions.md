@@ -1,191 +1,127 @@
-# ADVERSE REACTIONS
+# 6 ADVERSE REACTIONS
 
-Side effects to alprazolam tablets, if they occur, are generally observed at the beginning of therapy and usually disappear upon continued medication.
-In the usual patient, the most frequent side effects are likely to be an extension of the pharmacological activity of alprazolam, e.g., drowsiness or light-headedness.
+The following clinically significant adverse reactions are described elsewhere in the labeling:
 
-The data cited in the two tables below are estimates of untoward clinical event incidence among patients who participated under the following clinical conditions: relatively short duration (i.e., four weeks) placebo-controlled clinical studies with dosages up to 4 mg/day of alprazolam (for the management of anxiety disorders or for the short-term relief of the symptoms of anxiety) and short-term (up to ten weeks) placebo-controlled clinical studies with dosages up to 10 mg/day of alprazolam in patients with panic disorder, with or without agoraphobia.
+- Risks from Concomitant Use with Opioids [see Warnings and Precautions (5.1)]
+- Abuse, Misuse, and Addiction [see Warnings and Precautions (5.2)]
+- Dependence and Withdrawal Reactions [see Warnings and Precautions (5.3)]
+- Effects on Driving and Operating Machinery [see Warnings and Precautions (5.4)]
+- Neonatal Sedation and Withdrawal Syndrome [see Warnings and Precautions (5.5)]
+- Patients with Depression [see Warnings and Precautions (5.7)]
+- Risks in Patients with Impaired Respiratory Function [see Warnings and Precautions (5.9)]
 
-These data cannot be used to predict precisely the incidence of untoward events in the course of usual medical practice where patient characteristics, and other factors often differ from those in clinical trials.
-These figures cannot be compared with those obtained from other clinical studies involving related drug products and placebo as each group of drug trials are conducted under a different set of conditions.
+## 6.1 Clinical Trials Experience
 
-Comparison of the cited figures, however, can provide the prescriber with some basis for estimating the relative contributions of drug and non-drug factors to the untoward event incidence in the population studied.
-Even this use must be approached cautiously, as a drug may relieve a symptom in one patient but induce it in others.
-(For example, an anxiolytic drug may relieve dry mouth [a symptom of anxiety] in some subjects but induce it [an untoward event] in others.)
+Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in practice.
 
-Additionally, for anxiety disorders the cited figures can provide the prescriber with an indication as to the frequency with which physician intervention (e.g., increased surveillance, decreased dosage or discontinuation of drug therapy) may be necessary because of the untoward clinical event.
+The data in the two tables below are estimates of adverse reaction incidence among adult patients who participated in:
 
-Treatment-Emergent Adverse Events Reported in Placebo-Controlled Trials of Anxiety Disorders
+- 4-week placebo-controlled clinical studies with alprazolam dosages up to 4 mg per day for the acute treatment of generalized anxiety disorder (Table 1)
+- Short-term (up to 10 weeks) placebo-controlled clinical studies with alprazolam dosages up to 10 mg per day for panic disorder, with or without agoraphobia (Table 2).
 
-|  | Alprazolam | PLACEBO | Alprazolam |
-| --- | --- | --- | --- |
-| ANXIETY DISORDERS |  |  |  |
-|  | Treatment-Emergent |  | Incidence of Intervention |
-|  | Symptom Incidence† |  | Because of Symptom |
-| Number of Patients | 565 | 505 | 565 |
-| % of Patients |  |  |  |
-| Reporting: |  |  |  |
-| Central Nervous System |  |  |  |
-| Drowsiness | 41.0 | 21.6 | 15.1 |
-| Light-headedness | 20.8 | 19.3 | 1.2 |
-| Depression | 13.9 | 18.1 | 2.4 |
-| Headache | 12.9 | 19.6 | 1.1 |
-| Confusion | 9.9 | 10.0 | 0.9 |
-| Insomnia | 8.9 | 18.4 | 1.3 |
-| Nervousness | 4.1 | 10.3 | 1.1 |
-| Syncope | 3.1 | 4.0 | * |
-| Dizziness | 1.8 | 0.8 | 2.5 |
-| Akathisia | 1.6 | 1.2 | * |
-| Tiredness/Sleepiness | * | * | 1.8 |
-| Gastrointestinal |  |  |  |
-| Dry Mouth | 14.7 | 13.3 | 0.7 |
-| Constipation | 10.4 | 11.4 | 0.9 |
-| Diarrhea | 10.1 | 10.3 | 1.2 |
-| Nausea/Vomiting | 9.6 | 12.8 | 1.7 |
-| Increased Salivation | 4.2 | 2.4 | * |
-| Cardiovascular |  |  |  |
-| Tachycardia/Palpitations | 7.7 | 15.6 | 0.4 |
-| Hypotension | 4.7 | 2.2 | * |
-| Sensory |  |  |  |
-| Blurred Vision | 6.2 | 6.2 | 0.4 |
-| Musculoskeletal |  |  |  |
-| Rigidity | 4.2 | 5.3 | * |
-| Tremor | 4.0 | 8.8 | 0.4 |
-| Cutaneous |  |  |  |
-| Dermatitis/Allergy | 3.8 | 3.1 | 0.6 |
-| Other |  |  |  |
-| Nasal Congestion | 7.3 | 9.3 | * |
-| Weight Gain | 2.7 | 2.7 | * |
-| Weight Loss | 2.3 | 3.0 | * |
-| *None reported |  |  |  |
-| †Events reported by 1% or more of alprazolam patients are included. |  |  |  |
-
-In addition to the relatively common (ie, greater than 1%) untoward events enumerated in the table above, the following adverse events have been reported in association with the use of benzodiazepines: dystonia, irritability, concentration difficulties, anorexia, transient amnesia or memory impairment, loss of coordination, fatigue, seizures, sedation, slurred speech, jaundice, musculoskeletal weakness, pruritus, diplopia, dysarthria, changes in libido, menstrual irregularities, incontinence and urinary retention.
-
-Treatment-Emergent Adverse Events Reported in Placebo-Controlled Trials of Panic Disorder
-
-|  | Alprazolam | PLACEBO |
+| Table 1: Adverse Reactions Occurring in ≥1% in Alprazolam-treated Patients and Greater than Placebo-treated Patients in Placebo-Controlled Trials for Generalized Anxiety |  |  |
 | --- | --- | --- |
-| PANIC DISORDER |  |  |
-|  | Treatment-Emergent |  |
-|  | Symptom Incidence* |  |
-| Number of Patients | 1388 | 1231 |
-| % of Patients Reporting: |  |  |
-| Central Nervous System |  |  |
-| Drowsiness | 76.8 | 42.7 |
-| Fatigue and Tiredness | 48.6 | 42.3 |
-| Impaired Coordination | 40.1 | 17.9 |
-| Irritability | 33.1 | 30.1 |
-| Memory Impairment | 33.1 | 22.1 |
-| Light-headedness/Dizziness | 29.8 | 36.9 |
-| Insomnia | 29.4 | 41.8 |
-| Headache | 29.2 | 35.6 |
-| Cognitive Disorder | 28.8 | 20.5 |
-| Dysarthria | 23.3 | 6.3 |
-| Anxiety | 16.6 | 24.9 |
-| Abnormal Involuntary Movement | 14.8 | 21.0 |
-| Decreased Libido | 14.4 | 8.0 |
-| Depression | 13.8 | 14.0 |
-| Confusional State | 10.4 | 8.2 |
-| Muscular Twitching | 7.9 | 11.8 |
-| Increased Libido | 7.7 | 4.1 |
-| Change in Libido (Not Specified) | 7.1 | 5.6 |
-| Weakness | 7.1 | 8.4 |
-| Muscle Tone Disorders | 6.3 | 7.5 |
-| Syncope | 3.8 | 4.8 |
-| Akathisia | 3.0 | 4.3 |
-| Agitation | 2.9 | 2.6 |
-| Disinhibition | 2.7 | 1.5 |
-| Paresthesia | 2.4 | 3.2 |
-| Talkativeness | 2.2 | 1.0 |
-| Vasomotor Disturbances | 2.0 | 2.6 |
-| Derealization | 1.9 | 1.2 |
-| Dream Abnormalities | 1.8 | 1.5 |
-| Fear | 1.4 | 1.0 |
-| Feeling Warm | 1.3 | 0.5 |
-| Gastrointestinal |  |  |
-| Decreased Salivation | 32.8 | 34.2 |
-| Constipation | 26.2 | 15.4 |
-| Nausea/Vomiting | 22.0 | 31.8 |
-| Diarrhea | 20.6 | 22.8 |
-| Abdominal Distress | 18.3 | 21.5 |
-| Increased Salivation | 5.6 | 4.4 |
-| Cardio-Respiratory |  |  |
-| Nasal Congestion | 17.4 | 16.5 |
-| Tachycardia | 15.4 | 26.8 |
-| Chest Pain | 10.6 | 18.1 |
-| Hyperventilation | 9.7 | 14.5 |
-| Upper Respiratory Infection | 4.3 | 3.7 |
-| Sensory |  |  |
-| Blurred Vision | 21.0 | 21.4 |
-| Tinnitus | 6.6 | 10.4 |
-| Musculoskeletal |  |  |
-| Muscular Cramps | 2.4 | 2.4 |
-| Muscle Stiffness | 2.2 | 3.3 |
-| Cutaneous |  |  |
-| Sweating | 15.1 | 23.5 |
-| Rash | 10.8 | 8.1 |
-| Other |  |  |
-| Increased Appetite | 32.7 | 22.8 |
-| Decreased Appetite | 27.8 | 24.1 |
-| Weight Gain | 27.2 | 17.9 |
-| Weight Loss | 22.6 | 16.5 |
-| Micturition Difficulties | 12.2 | 8.6 |
-| Menstrual Disorders | 10.4 | 8.7 |
-| Sexual Dysfunction | 7.4 | 3.7 |
-| Edema | 4.9 | 5.6 |
-| Incontinence | 1.5 | 0.6 |
-| Infection | 1.3 | 1.7 |
-| *Events reported by 1% or more of alprazolam patients are included. |  |  |
+|  | Alprazolam n=565 | Placebo n=505 |
+| Nervous system disorders |  |  |
+| Drowsiness | 41% | 22% |
+| Light-headedness | 21% | 19% |
+| Dizziness | 2% | 1% |
+| Akathisia | 2% | 1% |
+| Gastrointestinal disorders |  |  |
+| Dry mouth | 15% | 13% |
+| Increased salivation | 4% | 2% |
+| Cardiovascular disorders |  |  |
+| Hypotension | 5% | 2% |
+| Skin and subcutaneous tissue disorders |  |  |
+| Dermatitis/allergy | 4% | 3% |
 
-In addition to the relatively common (ie, greater than 1%) untoward events enumerated in the table above, the following adverse events have been reported in association with the use of alprazolam: seizures, hallucinations, depersonalization, taste alterations, diplopia, elevated bilirubin, elevated hepatic enzymes, and jaundice.
+In addition to the adverse reactions (i.e., greater than 1%) enumerated in the table above for patients with generalized anxiety disorder, the following adverse reactions have been reported in association with the use of benzodiazepines: dystonia, irritability, concentration difficulties, anorexia, transient amnesia or memory impairment, loss of coordination, fatigue, seizures, sedation, slurred speech, jaundice, musculoskeletal weakness, pruritus, diplopia, dysarthria, changes in libido, menstrual irregularities, incontinence and urinary retention.
 
-Panic disorder has been associated with primary and secondary major depressive disorders and increased reports of suicide among untreated patients (see PRECAUTIONS, General).
+| Table 2: Adverse Reactions Occurring in ≥1% in Alprazolam-treated Patients and Greater than Placebo-treated Patients in Placebo-Controlled Trials (Up to 10 Weeks) for Panic Disorder |  |  |
+| --- | --- | --- |
+|  | Alprazolam n=1388 | Placebo n=1231 |
+| Drowsiness | 77% | 43% |
+| Fatigue and Tiredness | 49% | 42% |
+| Impaired Coordination | 40% | 18% |
+| Irritability | 33% | 30% |
+| Memory Impairment | 33% | 22% |
+| Cognitive Disorder | 29% | 21% |
+| Decreased Libido | 14% | 8% |
+| Dysarthria | 23% | 6% |
+| Confusional state | 10% | 8% |
+| Increased libido | 8% | 4% |
+| Change in libido (not specified) | 7% | 6% |
+| Disinhibition | 3% | 2% |
+| Talkativeness | 2% | 1% |
+| Derealization | 2% | 1% |
+| Gastrointestinal disorders Constipation Increased salivation | 26%6% | 15%4% |
+| Skin and subcutaneous tissue disorders Rash | 11% | 8% |
+| Other Increased appetite Decreased appetite Weight gain Weight loss Micturition difficulties Menstrual disorders Sexual dysfunction Incontinence | 33%28%27%23%12%11%7%2% | 23%24%18%17%9%9%4%1% |
 
-Adverse Events Reported as Reasons for Discontinuation in Treatment of Panic Disorder in Placebo-Controlled Trials
+In addition to the reactions (i.e., greater than 1%) enumerated in the table above for patients with panic disorder, the following adverse reactions have been reported in association with the use of alprazolam: seizures, hallucinations, depersonalization, taste alterations, diplopia, elevated bilirubin, elevated hepatic enzymes, and jaundice.
 
-In a larger database comprised of both controlled and uncontrolled studies in which 641 patients received alprazolam, discontinuation-emergent symptoms which occurred at a rate of over 5% in patients treated with alprazolam and at a greater rate than the placebo treated group were as follows:
+Adverse Reactions Reported as Reasons for Discontinuation in Treatment of Panic Disorder in Placebo-Controlled Trials
 
-DISCONTINUATION-EMERGENT SYMPTOM INCIDENCE
+In a larger database comprised of both controlled and uncontrolled studies in which 641 patients received alprazolam discontinuation-emergent symptoms which occurred at a rate of over 5% in patients treated with alprazolam and at a greater rate than the placebo-treated group are shown in Table 3.
 
-| Patients Reporting Events |  |  |  |  |
-| --- | --- | --- | --- | --- |
-| Percentage of 641 Alprazolam-Treated Panic Disorder |  |  |  |  |
-| Body System/Event |  |  |  |  |
-| Neurologic |  |  | Gastrointestinal |  |
-| Insomnia | 29.5 |  | Nausea/Vomiting | 16.5 |
-| Light-headedness | 19.3 |  | Diarrhea | 13.6 |
-| Abnormal involuntary movement | 17.3 |  | Decreased salivation | 10.6 |
-| Headache | 17.0 |  | Metabolic-Nutritional |  |
-| Muscular twitching | 6.9 |  | Weight loss | 13.3 |
-| Impaired coordination | 6.6 |  | Decreased appetite | 12.8 |
-| Muscle tone disorders | 5.9 |  |  |  |
-| Weakness | 5.8 |  | Dermatological |  |
-| Psychiatric |  |  | Sweating | 14.4 |
-| Anxiety | 19.2 |  |  |  |
-| Fatigue and Tiredness | 18.4 |  | Cardiovascular |  |
-| Irritability | 10.5 |  | Tachycardia | 12.2 |
-| Cognitive disorder | 10.3 |  |  |  |
-| Memory impairment | 5.5 |  | Special Senses |  |
-| Depression | 5.1 |  | Blurred vision | 10.0 |
-| Confusional state | 5.0 |  |  |  |
+| Table 3: Discontinuation-Emergent Symptom Incidence Reported in ≥5% of Alprazolam-treated Patients and > Placebo-treated Patients |  |
+| --- | --- |
+|  | Alprazolam-treated Patients n=641 |
+| Nervous system disorders |  |
+| Insomnia | 29.5% |
+| Light-headedness | 19.3% |
+| Abnormal involuntary movement | 17.3% |
+| Headache | 17.0% |
+| Muscular twitching | 6.9% |
+| Impaired coordination | 6.6% |
+| Muscle tone disorders | 5.9% |
+| Weakness | 5.8% |
+| Psychiatric disorders |  |
+| Anxiety | 19.2% |
+| Fatigue and Tiredness | 18.4% |
+| Irritability | 10.5% |
+| Cognitive disorder | 10.3% |
+| Memory impairment | 5.5% |
+| Depression | 5.1% |
+| Confusional state | 5.0% |
+| Gastrointestinal disorders |  |
+| Nausea/Vomiting | 16.5% |
+| Diarrhea | 13.6% |
+| Decreased salivation | 10.6% |
+| Metabolism and nutrition disorders |  |
+| Weight loss | 13.3% |
+| Decreased appetite | 12.8% |
+| Dermatological disorders |  |
+| Sweating | 14.4% |
+| Cardiovascular disorders |  |
+| Tachycardia | 12.2% |
+| Special Senses |  |
+| Blurred vision | 10.0% |
+| n=number of patients. |  |
 
-From the studies cited, it has not been determined whether these symptoms are clearly related to the dose and duration of therapy with alprazolam in patients with panic disorder.
-There have also been reports of withdrawal seizures upon rapid decrease or abrupt discontinuation of alprazolam tablets (see WARNINGS).
+There have also been reports of withdrawal seizures upon rapid decrease or abrupt discontinuation of alprazolam [see Warning and Precautions (5.2) and Drug Abuse and Dependence (9.3)].
 
-To discontinue treatment in patients taking alprazolam, the dosage should be reduced slowly in keeping with good medical practice.
-It is suggested that the daily dosage of alprazolam be decreased by no more than 0.5 mg every three days (see DOSAGE AND ADMINISTRATION).
-Some patients may benefit from an even slower dosage reduction.
-In a controlled postmarketing discontinuation study of panic disorder patients which compared this recommended taper schedule with a slower taper schedule, no difference was observed between the groups in the proportion of patients who tapered to zero dose; however, the slower schedule was associated with a reduction in symptoms associated with a withdrawal syndrome.
-
-As with all benzodiazepines, paradoxical reactions such as stimulation, increased muscle spasticity, sleep disturbances, hallucinations and other adverse behavioral effects such as agitation, rage, irritability, and aggressive or hostile behavior have been reported rarely.
+Paradoxical reactions such as stimulation, increased muscle spasticity, sleep disturbances, hallucinations, and other adverse behavioral effects such as agitation, rage, irritability, and aggressive or hostile behavior have been reported rarely.
 In many of the spontaneous case reports of adverse behavioral effects, patients were receiving other CNS drugs concomitantly and/or were described as having underlying psychiatric conditions.
 Should any of the above events occur, alprazolam should be discontinued.
 Isolated published reports involving small numbers of patients have suggested that patients who have borderline personality disorder, a prior history of violent or aggressive behavior, or alcohol or substance abuse may be at risk for such events.
 Instances of irritability, hostility, and intrusive thoughts have been reported during discontinuation of alprazolam in patients with posttraumatic stress disorder.
 
-Post Introduction Reports: Various adverse drug reactions have been reported in association with the use of alprazolam since market introduction.
-The majority of these reactions were reported through the medical event voluntary reporting system.
-Because of the spontaneous nature of the reporting of medical events and the lack of controls, a causal relationship to the use of alprazolam cannot be readily determined.
-Reported events include: gastrointestinal disorder, hypomania, mania, liver enzyme elevations, hepatitis, hepatic failure, Stevens-Johnson syndrome, angioedema, peripheral edema, hyperprolactinemia, gynecomastia, and galactorrhea (see PRECAUTIONS).
+## 6.2 Postmarketing Experience
 
-To report SUSPECTED ADVERSE REACTIONS, contact Actavis at 1-888-838-2872 or FDA at 1-800-FDA-1088 or http://www.fda.gov/ for voluntary reporting of adverse reactions.
+The following adverse reactions have been identified during post-approval use of alprazolam.
+Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
+
+Endocrine disorders: Hyperprolactinemia
+
+General disorders and administration site conditions: Edema peripheral
+
+Hepatobiliary disorders: Hepatitis, hepatic failure
+
+Investigations: Liver enzyme elevations
+
+Psychiatric disorders: Hypomania, mania
+
+Reproductive system and breast disorders: Gynecomastia, galactorrhea
+
+Skin and subcutaneous tissue disorders: Photosensitivity reaction, angioedema, Stevens-Johnson syndrome
