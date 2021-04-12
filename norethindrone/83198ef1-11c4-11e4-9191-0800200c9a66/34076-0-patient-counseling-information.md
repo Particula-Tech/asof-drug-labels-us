@@ -6,7 +6,7 @@ Read this Patient Information before you start using CombiPatch and each time yo
 There may be new information.
 This information does not take the place of talking to your healthcare provider about your menopausal symptoms or your treatment.
 
-| What is the most important information I should know about CombiPatch (a combination of estrogen and progestin hormones)? Do not use estrogens with progestins to prevent heart disease, heart attacks, strokes, or dementia (decline of brain function).Using estrogens with progestins may increase your chances of getting heart attacks, strokes, breast cancer, or blood clots.Using estrogens with progestins may increase your chance of getting dementia, based on a study of women 65 years of age or older.Do not use estrogen-alone to prevent heart disease, heart attacks, strokes or dementia.Using estrogen-alone may increase your chances of getting cancer of the uterus (womb).Using estrogen-alone may increase your chance of getting stroke or blood clots.Using estrogen-alone may increase your chance of getting dementia, based on a study of women 65 years of age or older. You and your healthcare provider should talk regularly about whether you still need treatment with CombiPatch. |
+| What is the most important information I should know about CombiPatch (a combination of estrogen and progestin hormones)? Do not use estrogens with progestins to prevent heart disease, heart attacks, strokes, or dementia (decline of brain function).Using estrogens with progestins may increase your chances of getting heart attacks, strokes, breast cancer, or blood clots.Using estrogens with progestins may increase your chance of getting dementia, based on a study of women 65 years of age or older.Do not use estrogen-alone to prevent heart disease, heart attacks, strokes or dementia.Using estrogen-alone may increase your chances of getting cancer of the uterus (womb).Using estrogen-alone may increase your chance of getting stroke or blood clots.Using estrogen-alone may increase your chance of getting dementia, based on a study of women 65 years of age or older.You and your healthcare provider should talk regularly about whether you still need treatment with CombiPatch. |
 | --- |
 
 What is CombiPatch?
@@ -178,4 +178,4 @@ Active Ingredients: estradiol and norethindrone acetate
 
 Inactive Ingredients: acrylic adhesive, silicone adhesive, oleic acid NF, povidone USP, dipropylene glycol, polyester release protective liner
 
-102538 08/2017
+102538

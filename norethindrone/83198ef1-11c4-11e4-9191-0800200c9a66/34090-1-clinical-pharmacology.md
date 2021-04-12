@@ -14,7 +14,12 @@ These vary in proportion from tissue to tissue.
 Circulating estrogens modulate the pituitary secretion of the gonadotropins, luteinizing hormone (LH), and follicle stimulating hormone (FSH) through a negative feedback mechanism.
 Estrogens act to reduce the elevated levels of these hormones seen in postmenopausal women.
 
-## Pharmacokinetics Absorption
+## Pharmacokinetics
+
+Systemic estrogen exposures across different estrogen products should not be compared.
+These comparisons can be unreliable and misleading when there are differences in route of administration, estrogen components, dosing, or analytical methods that were used across the studies.
+
+Absorption
 
 Estradiol: Estrogens used in hormone therapy are well absorbed through the skin, mucous membranes, and gastrointestinal tract.
 Administration of CombiPatch every 3 to 4 days in postmenopausal women produces average steady-state estradiol serum concentrations of 45 to 50 pg/mL, which are equivalent to the normal ranges observed at the early follicular phase in premenopausal women.
