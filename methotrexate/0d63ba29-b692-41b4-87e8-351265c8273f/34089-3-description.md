@@ -1,15 +1,14 @@
-# DESCRIPTION
+# 11 DESCRIPTION
 
-Methotrexate (formerly Amethopterin) is an antimetabolite used in the treatment of certain neoplastic diseases, severe psoriasis, and adult rheumatoid arthritis.
+Methotrexate is a folate analog metabolic inhibitor with the chemical name of N-[4-[[(2,4-diamino-6-pteridinyl) methyl]methylamino]benzoyl]-L-glutamic acid and a molecular weight of 454.44.
+The molecular formula is C20H22N8O5, and the structural formula is shown below:
 
-Chemically methotrexate is N-[4-[[(2,4-diamino-6-pteridinyl) methyl]methylamino]benzoyl]-L-glutamic acid.
+Methotrexate Injection with preservative is supplied in sterile multiple-dose vials for intravenous, intramuscular, or subcutaneous use.
 
-The structural formula is:
+- Each 25 mg/mL, 2 mL vial contains 50 mg methotrexate equivalent to 54.8 mg of methotrexate sodium, 18.8 mg of benzyl alcohol as a preservative and Sodium chloride 5.2 mg.
+  May contain sodium hydroxide and/or hydrochloric acid to adjust the pH to 8.5.
 
-Methotrexate Injection, USP is sterile and non-pyrogenic and may be given by the intramuscular, intravenous or intra-arterial route.
-(See DOSAGE AND ADMINISTRATION.)
-The preserved formulation contains benzyl alcohol; do not use for intrathecal or high-dose therapy.
+Preservative-free Methotrexate Injection is supplied in sterile single-dose vials for intravenous, intramuscular, subcutaneous, or intrathecal use.
 
-Methotrexate Injection, USP, Isotonic Liquid, Contains Preservative is available in 25 mg/mL, 2 mL (50 mg) vials.
-
-Each 25 mg/mL, 2 mL vial contains methotrexate sodium equivalent to 50 mg methotrexate, 0.9% w/v of Benzyl Alcohol as a preservative, and the following inactive ingredients: Sodium Chloride 0.260% w/v and Water for Injection qs ad 100% v. Sodium Hydroxide and, if necessary, Hydrochloric Acid are added to adjust the pH to approximately 8.5.
+- Each 25 mg/mL, 40 mL vial contains 1000 mg methotrexate equivalent to 1096.7 mg of methotrexate sodium, and the following inactive ingredients: Sodium chloride 196 mg.
+  May contain sodium hydroxide and/or hydrochloric acid to adjust pH to 8.5.

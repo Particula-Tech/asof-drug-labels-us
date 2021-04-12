@@ -1,21 +1,29 @@
-# HOW SUPPLIED
+# 16 HOW SUPPLIED/STORAGE AND HANDLING
 
-Parenteral:
+How Supplied
 
-Methotrexate Injection, USP, Isotonic Liquid, Contains Preservative.
-Each 25 mg/mL, 2 mL vial contains methotrexate sodium equivalent to 50 mg methotrexate.
+Methotrexate Injection is a clear, yellow, sterile solution available with preservative (multiple-dose vials) and preservative-free (single-dose vials) as follows:
 
-| Unit of Sale | Concentration |
-| --- | --- |
-| NDC 61703-350-38 Carton containing 5 Vials | 50 mg/2 mL (25 mg/mL) |
-
-Store at controlled room temperature, 20° to 25°C (68° to 77°F) [see USP Controlled Room Temperature]; excursions permitted to 15° to 30°C (59° to 86°F).
-PROTECT FROM LIGHT.
-
-‡LEUCOVORIN RESCUE SCHEDULES FOLLOWING TREATMENT WITH HIGHER DOSES OF METHOTREXATE
-
-| Clinical Situation | Laboratory Findings | Leucovorin Dosage and Duration |
+| Strength/Fill volume | NDC number | Pack style |
 | --- | --- | --- |
-| Normal Methotrexate Elimination | Serum methotrexate level approximately 10 micromolar at 24 hours after administration, 1 micromolar at 48 hours, and less than 0.2 micromolar at 72 hours. | 15 mg PO, IM, or IV q 6 hours for 60 hours (10 doses starting at 24 hours after start of methotrexate infusion). |
-| Delayed Late Methotrexate Elimination | Serum methotrexate level remaining above 0.2 micromolar at 72 hours, and more than 0.05 micromolar at 96 hours after administration. | Continue 15 mg PO, IM, or IV q six hours, until methotrexate level is less than 0.05 micromolar. |
-| Delayed Early Methotrexate Elimination and/or Evidence of Acute Renal Injury | Serum methotrexate level of 50 micromolar or more at 24 hours, or 5 micromolar or more at 48 hours after administration, OR; a 100% or greater increase in serum creatinine level at 24 hours after methotrexate administration, (e.g., an increase from 0.5 mg/dL to a level of 1 mg/dL or more). | 150 mg IV q three hours, until methotrexate level is less than 1 micromolar; then 15 mg IV q three hours until methotrexate level is less than 0.05 micromolar. |
+| With Preservative |  |  |
+| 50 mg/2 mL | 61703-350-38 | Carton containing five (5) multiple-dose vials |
+| Preservative-free |  |  |
+| 1 g/40 mL | 61703-408-41 | Carton containing one (1) single-dose vial |
+
+| Carton contents | NDC |
+| --- | --- |
+| Methotrexate Injection, With Preservative, 5 multiple-dose vials |  |
+| 50 mg/2 mL | 61703-350-38 |
+| Preservative-free, 1 single-dose vial |  |
+| 1000 mg/40 mL | 61703-408-41 |
+
+Storage and Handling
+
+Store at 20°C to 25°C (68°F to 77°F); excursions permitted to 15°C to 30°C (59°F to 86°F) [see USP Controlled Room Temperature].
+Protect from light.
+
+After first puncture, store multiple-dose vials at 2°C to 8°C, and use within 30 days.
+
+Methotrexate Injection is a hazardous drug.
+Follow applicable special handling and disposal procedures.1
