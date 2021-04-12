@@ -17,7 +17,7 @@ Coadministration of RPV and drugs that inhibit CYP3A may result in increased pla
 ## 7.3 Drugs Increasing Gastric pH
 
 Coadministration of RPV with drugs that increase gastric pH may decrease plasma concentrations of RPV and loss of virologic response and possible resistance to RPV or to the class of NNRTIs.
-Use of RPV with proton pump inhibitors is contraindicated and use of RPV with H 2-receptor antagonists requires staggered administration [see Contraindications (4) and Clinical Pharmacology (12.3)].
+Use of RPV with proton pump inhibitors is contraindicated and use of RPV with H2-receptor antagonists requires staggered administration [see Contraindications (4) and Clinical Pharmacology (12.3)].
 
 ## 7.4 Drugs Affecting Renal Function
 
@@ -36,19 +36,19 @@ Important drug interaction information for COMPLERA is summarized in Table 4.
 The drug interactions described are based on studies conducted with FTC, RPV, or TDF as individual medications or with COMPLERA as a combination product, or are potential drug interactions [see Clinical Pharmacology (12.3), Tables 9–14].
 For list of contraindicated drugs, [see Contraindications (4)].
 
-Table 4 Significant This table is not all inclusive.
+Table 4 SignificantThis table is not all inclusive.
 Drug Interactions
 
-| Concomitant Drug Class: Drug Name | Effect on Concentration Increase = ↑; Decrease = ↓; No Effect = ↔ | Clinical Comment |
+| Concomitant Drug Class: Drug Name | Effect on ConcentrationIncrease = ↑; Decrease = ↓; No Effect = ↔ | Clinical Comment |
 | --- | --- | --- |
 | Antacids: antacids (e.g., aluminum, magnesium hydroxide, or calcium carbonate) | ↔ RPV (antacids taken at least 2 hours before or at least 4 hours after RPV) ↓ RPV (concomitant intake) | Administer antacids at least 2 hours before or at least 4 hours after COMPLERA. |
 | Anticonvulsants: carbamazepine oxcarbazepine phenobarbital phenytoin | ↓ RPV | Coadministration is contraindicated due to potential for loss of virologic response and development of resistance. |
 | Antimycobacterials: rifampin rifapentine | ↓ RPV | Coadministration is contraindicated due to potential for loss of virologic response and development of resistance. |
-| rifabutin | ↓ RPV The interaction was evaluated in a clinical study. All other drug-drug interactions shown are predicted. | If COMPLERA is coadministered with rifabutin, an additional 25 mg tablet of RPV (Edurant) once per day is recommended to be taken concomitantly with COMPLERA and with a meal for the duration of rifabutin coadministration. |
+| rifabutin | ↓ RPVThe interaction was evaluated in a clinical study. All other drug-drug interactions shown are predicted. | If COMPLERA is coadministered with rifabutin, an additional 25 mg tablet of RPV (Edurant) once per day is recommended to be taken concomitantly with COMPLERA and with a meal for the duration of rifabutin coadministration. |
 | Azole Antifungal Agents: fluconazole itraconazole ketoconazole posaconazole voriconazole | ↑ RPV,This interaction study has been performed with a dose higher than the recommended dose for RPV assessing the maximal effect on the coadministered drug. The dosing recommendation is applicable to the recommended dose of RPV 25 mg once daily. ↓ ketoconazole, | No dose adjustment is required when COMPLERA is coadministered with azole antifungal agents. Clinically monitor for breakthrough fungal infections when azole antifungals are coadministered with COMPLERA. |
 | Glucocorticoid (systemic): dexamethasone (more than a single-dose treatment) | ↓ RPV | Coadministration is contraindicated due to potential for loss of virologic response and development of resistance. |
-| Hepatitis C Antiviral Agents: ledipasvir/sofosbuvir sofosbuvir/velpatasvir sofosbuvir/velpatasvir/voxilaprevir | ↑ tenofovir | Patients receiving COMPLERA concomitantly with HARVONI ® (ledipasvir/sofosbuvir), EPCLUSA ® (sofosbuvir/velpatasvir), or VOSEVI ® (sofosbuvir/velpatasvir/voxilaprevir) should be monitored for adverse reactions associated with TDF. |
-| H 2-Receptor Antagonists: cimetidine famotidine nizatidine ranitidine | ↔ RPV, (famotidine taken 12 hours before RPV or 4 hours after RPV) ↓ RPV, (famotidine taken 2 hours before RPV) | Administer H 2-receptor antagonists at least 12 hours before or at least 4 hours after COMPLERA. |
+| Hepatitis C Antiviral Agents: ledipasvir/sofosbuvir sofosbuvir/velpatasvir sofosbuvir/velpatasvir/voxilaprevir | ↑ tenofovir | Patients receiving COMPLERA concomitantly with HARVONI® (ledipasvir/sofosbuvir), EPCLUSA® (sofosbuvir/velpatasvir), or VOSEVI® (sofosbuvir/velpatasvir/voxilaprevir) should be monitored for adverse reactions associated with TDF. |
+| H2-Receptor Antagonists: cimetidine famotidine nizatidine ranitidine | ↔ RPV, (famotidine taken 12 hours before RPV or 4 hours after RPV) ↓ RPV, (famotidine taken 2 hours before RPV) | Administer H2-receptor antagonists at least 12 hours before or at least 4 hours after COMPLERA. |
 | Herbal Products: St John's wort (Hypericum perforatum) | ↓ RPV | Coadministration is contraindicated due to potential for loss of virologic response and development of resistance. |
 | Macrolide or Ketolide Antibiotics: clarithromycin erythromycin telithromycin | ↑ RPV ↔ clarithromycin ↔ erythromycin ↔ telithromycin | Where possible, alternatives such as azithromycin should be considered. |
 | Narcotic Analgesics: methadone | ↓ R(–) methadone ↓ S(+) methadone ↔ RPV ↔ methadone (when used with tenofovir) | No dose adjustments are required when initiating coadministration of methadone with COMPLERA. However, clinical monitoring is recommended as methadone maintenance therapy may need to be adjusted in some patients. |
