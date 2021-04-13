@@ -1,9 +1,5 @@
 # Package/Label Display Panel, Part 1 of 2
 
-# Package/Label Display Panel, Part 2 of 2
-
-## Claravis (isotretinoin capsules USP) 10 mg 30s Carton Text
-
 Rx only
 
 NDC 0555-1054-86
@@ -36,11 +32,9 @@ Store at 20° to 25°C (68° to 77°F) [See USP Controlled Room Temperature].
 
 TEVA PHARMACEUTICALS USA, Inc., North Wales, Pa 19454
 
-# Package/Label Display Panel, Part 1 of 2
-
 # Package/Label Display Panel, Part 2 of 2
 
-## Claravis (isotretinoin capsules USP) 20 mg 30s Carton Text
+# Package/Label Display Panel, Part 1 of 2
 
 Rx only
 
@@ -74,11 +68,9 @@ Store at 20° to 25°C (68° to 77°F) [See USP Controlled Room Temperature].
 
 TEVA PHARMACEUTICALS USA, Inc., North Wales, Pa 19454
 
-# Package/Label Display Panel, Part 1 of 2
-
 # Package/Label Display Panel, Part 2 of 2
 
-## Claravis (isotretinoin capsules USP) 30 mg 30s Carton Text
+# Package/Label Display Panel, Part 1 of 2
 
 Rx only
 
@@ -112,11 +104,9 @@ Store at 20° to 25°C (68° to 77°F) [See USP Controlled Room Temperature].
 
 TEVA PHARMACEUTICALS USA, Inc., North Wales, Pa 19454
 
-# Package/Label Display Panel, Part 1 of 2
-
 # Package/Label Display Panel, Part 2 of 2
 
-## Claravis (isotretinoin capsules USP) 40 mg 30s Carton Text
+# Package/Label Display Panel, Part 1 of 2
 
 Rx only
 
@@ -149,3 +139,5 @@ Usual Dosage: See package brochure and other important prescribing information.
 Store at 20° to 25°C (68° to 77°F) [See USP Controlled Room Temperature].
 
 TEVA PHARMACEUTICALS USA, Inc., North Wales, Pa 19454
+
+# Package/Label Display Panel, Part 2 of 2
