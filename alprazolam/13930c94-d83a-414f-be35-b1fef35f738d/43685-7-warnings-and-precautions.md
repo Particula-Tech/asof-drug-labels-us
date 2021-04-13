@@ -3,7 +3,7 @@
 ## Risks from Concomitant Use with Opioids
 
 Concomitant use of benzodiazepines, including alprazolam, and opioids may result in profound sedation, respiratory depression, coma, and death.
-Because of these risks, reserve concomitant prescribing of these drugs for use in patients for whom alternative treatment options are inadequate.
+Because of these risks, reserve concomitant prescribing of these drugs in patients for whom alternative treatment options are inadequate.
 
 Observational studies have demonstrated that concomitant use of opioid analgesics and benzodiazepines increases the risk of drug-related mortality compared to use of opioids alone.
 If a decision is made to prescribe alprazolam concomitantly with opioids, prescribe the lowest effective dosages and minimum durations of concomitant use, and follow patients closely for signs and symptoms of respiratory depression and sedation.
@@ -11,18 +11,41 @@ In patients already receiving an opioid analgesic, prescribe a lower initial dos
 If an opioid is initiated in a patient already taking alprazolam, prescribe a lower initial dose of the opioid and titrate based upon clinical response.
 
 Advise both patients and caregivers about the risks of respiratory depression and sedation when alprazolam is used with opioids.
-Advise patients not to drive or operate heavy machinery until the effects of concomitant use with the opioid have been determined [see Drug Interactions].
+Advise patients not to drive or operate heavy machinery until the effects of concomitant use with the opioid have been determined (see PRECAUTIONS - Drug Interactions).
 
-## Dependence and Withdrawal Reactions, Including Seizures
+## Abuse, Misuse, and Addiction
+
+The use of benzodiazepines, including alprazolam, exposes users to the risks of abuse, misuse, and addiction, which can lead to overdose or death.
+Abuse and misuse of benzodiazepines often (but not always) involve the use of doses greater than the maximum recommended dosage and commonly involve concomitant use of other medications, alcohol, and/or illicit substances, which is associated with an increased frequency of serious adverse outcomes, including respiratory depression, overdose, or death (see DRUG ABUSE AND DEPENDENCE - Abuse).
+
+Before prescribing Alprazolam and throughout treatment, assess each patient's risk for abuse, misuse, and addiction (e.g., using a standardized screening tool).
+Use of Alprazolam, particularly in patients at elevated risk, necessitates counseling about the risks and proper use of Alprazolam along with monitoring for signs and symptoms of abuse, misuse, and addiction.
+Prescribe the lowest effective dosage; avoid or minimize concomitant use of CNS depressants and other substances associated with abuse, misuse, and addiction (e.g., opioid analgesics, stimulants); and advise patients on the proper disposal of unused drug.
+If a substance use disorder is suspected, evaluate the patient and institute (or refer them for) early treatment, as appropriate.
+
+## Dependence and Withdrawal Reactions
+
+To reduce the risk of withdrawal reactions, use a gradual taper to discontinue Alprazolam or reduce the dosage (a patient-specific plan should be used to taper the dose) (see DOSAGE AND ADMINISTRATION - Discontinuation or Dosage Reduction of Alprazolam.
+
+Patients at an increased risk of withdrawal adverse reactions after benzodiazepine discontinuation or rapid dosage reduction include those who take higher dosages, and those who have had longer durations of use.
+
+### Acute Withdrawal Reactions
+
+The continued use of benzodiazepines, including Alprazolam, may lead to clinically significant physical dependence.
+Abrupt discontinuation or rapid dosage reduction of Alprazolam after continued use, or administration of flumazenil (a benzodiazepine antagonist) may precipitate acute withdrawal reactions, which can be life-threatening (e.g., seizures) (see DRUG ABUSE AND DEPENDENCE - Dependence).
+
+### Protracted Withdrawal Syndrome
+
+In some cases, benzodiazepine users have developed a protracted withdrawal syndrome with withdrawal symptoms lasting weeks to more than 12 months (see DRUG ABUSE AND DEPENDENCE - Dependence).
 
 Certain adverse clinical events, some life-threatening, are a direct consequence of physical dependence to Alprazolam.
 These include a spectrum of withdrawal symptoms; the most important is seizure (see DRUG ABUSE AND DEPENDENCE).
-Even after relatively short-term use at the doses recommended for the treatment of transient anxiety and anxiety disorder (ie, 0.75 to 4.0 mg per day), there is some risk of dependence.
+Even after relatively short-term use at the doses recommended for the treatment of transient anxiety and anxiety disorder (i.e., 0.75 to 4.0 mg per day), there is some risk of dependence.
 Spontaneous reporting system data suggest that the risk of dependence and its severity appear to be greater in patients treated with doses greater than 4 mg/day and for long periods (more than 12 weeks).
 However, in a controlled postmarketing discontinuation study of panic disorder patients, the duration of treatment (3 months compared to 6 months) had no effect on the ability of patients to taper to zero dose.
 In contrast, patients treated with doses of Alprazolam greater than 4 mg/day had more difficulty tapering to zero dose than those treated with less than 4 mg/day.
 
-### The importance of dose and the risks of Alprazolam as a treatment for panic disorder
+#### The importance of dose and the risks of Alprazolam as a treatment for panic disorder
 
 Because the management of panic disorder often requires the use of average daily doses of Alprazolam above 4 mg, the risk of dependence among panic disorder patients may be higher than that among those treated for less severe anxiety.
 Experience in randomized placebo-controlled discontinuation studies of patients with panic disorder showed a high rate of rebound and withdrawal symptoms in patients treated with Alprazolam compared to placebo-treated patients.
@@ -44,7 +67,7 @@ In one instance, seizure occurred after discontinuation from a single dose of 1 
 In two other instances, the relationship to taper is indeterminate; in both of these cases the patients had been receiving doses of 3 mg daily prior to seizure.
 The duration of use in the above 8 cases ranged from 4 to 22 weeks.
 There have been occasional voluntary reports of patients developing seizures while apparently tapering gradually from Alprazolam.
-The risk of seizure seems to be greatest 24–72 hours after discontinuation (see DOSAGE AND ADMINISTRATION for recommended tapering and discontinuation schedule).
+The risk of seizure seems to be greatest 24–72 hours after discontinuation (see DOSAGE AND ADMINISTRATION - Discontinuation or Dosage Reduction of Alprazolam).
 
 ## Status Epilepticus and its Treatment
 
@@ -57,12 +80,6 @@ Early morning anxiety and emergence of anxiety symptoms between doses of Alprazo
 These symptoms may reflect the development of tolerance or a time interval between doses which is longer than the duration of clinical action of the administered dose.
 In either case, it is presumed that the prescribed dose is not sufficient to maintain plasma levels above those needed to prevent relapse, rebound or withdrawal symptoms over the entire course of the interdosing interval.
 In these situations, it is recommended that the same total daily dose be given divided as more frequent administrations (see DOSAGE AND ADMINISTRATION).
-
-## Risk of Dose Reduction
-
-Withdrawal reactions may occur when dosage reduction occurs for any reason.
-This includes purposeful tapering, but also inadvertent reduction of dose (eg, the patient forgets, the patient is admitted to a hospital).
-Therefore, the dosage of alprazolam should be reduced or discontinued gradually (see DOSAGE AND ADMINISTRATION).
 
 ## CNS Depression and Impaired Performance
 
@@ -110,13 +127,6 @@ Coadministration of fluvoxamine approximately doubled the maximum plasma concent
 
 Coadministration of cimetidine increased the maximum plasma concentration of alprazolam by 86%, decreased clearance by 42%, and increased half-life by 16%.
 
-#### HIV protease inhibitors
-
-Interactions involving HIV protease inhibitors (eg, ritonavir) and alprazolam are complex and time dependent.
-Low doses of ritonavir resulted in a large impairment of alprazolam clearance, prolonged its elimination half-life and enhanced clinical effects.
-However, upon extended exposure to ritonavir, CYP3A induction offset this inhibition.
-This interaction will require a dose-adjustment or discontinuation of alprazolam.
-
 ### Other drugs possibly affecting alprazolam metabolism
 
 Other drugs possibly affecting alprazolam metabolism by inhibition of CYP3A are discussed in the PRECAUTIONS section (see PRECAUTIONS–Drug Interactions).
@@ -141,41 +151,39 @@ Although other medications with weak uricosuric effect have been reported to cau
 
 ### Use in Patients with Concomitant Illness
 
-It is recommended that the dosage be limited to the smallest effective dose to preclude the development of ataxia or oversedation which may be a particular problem in elderly or debilitated patients.
-(See DOSAGE AND ADMINISTRATION.)
+It is recommended that the dosage be limited to the smallest effective dose to preclude the development of ataxia or oversedation which may be a particular problem in elderly or debilitated patients (see DOSAGE AND ADMINISTRATION).
 The usual precautions in treating patients with impaired renal, hepatic or pulmonary function should be observed.
 There have been rare reports of death in patients with severe pulmonary disease shortly after the initiation of treatment with alprazolam.
-A decreased systemic alprazolam elimination rate (eg, increased plasma half-life) has been observed in both alcoholic liver disease patients and obese patients receiving alprazolam (see CLINICAL PHARMACOLOGY).
+A decreased systemic alprazolam elimination rate (e.g., increased plasma half-life) has been observed in both alcoholic liver disease patients and obese patients receiving alprazolam (see CLINICAL PHARMACOLOGY).
 
 ## Information for Patients
 
-### For all users of alprazolam
+Advise the patient to read the FDA-approved patient labeling (Medication Guide).
 
-To assure safe and effective use of benzodiazepines, all patients prescribed alprazolam should be provided with the following guidance.
+### Risks from Concomitant Use with Opioids
 
-1. Advise both patients and caregivers about the risks of potentially fatal respiratory depression and sedation when alprazolam is used with opioids and not to use such drugs concomitantly unless supervised by a health care provider.
-2. Advise patients not to drive or operate heavy machinery until the effects of concomitant use with the opioid have been determined [see Drug Interactions].
-3. Inform your physician about any alcohol consumption and medicine you are taking now, including medication you may buy without a prescription.
-   Alcohol should generally not be used during treatment with benzodiazepines.
-4. Not recommended for use in pregnancy.
-   Therefore, inform your physician if you are pregnant, if you are planning to have a child, or if you become pregnant while you are taking this medication.
-5. Inform your physician if you are nursing.
-6. Until you experience how this medication affects you, do not drive a car or operate potentially dangerous machinery, etc.
-7. Do not increase the dose even if you think the medication "does not work anymore" without consulting your physician.
-   Benzodiazepines, even when used as recommended, may produce emotional and/or physical dependence.
-8. Do not stop taking this medication abruptly or decrease the dose without consulting your physician, since withdrawal symptoms can occur.
+Advise both patients and caregivers about the risks of potentially fatal respiratory depression and sedation when alprazolam is used with opioids and not to use such drugs concomitantly unless supervised by a health care provider.
+Advise patients not to drive or operate heavy machinery until the effects of concomitant use with the opioid have been determined (see PRECAUTIONS - Drug Interactions).
 
-### Additional advice for panic disorder patients
+### Abuse, Misuse, and Addiction
 
-The use of alprazolam at doses greater than 4 mg/day, often necessary to treat panic disorder, is accompanied by risks that you need to carefully consider.
-When used at doses greater than 4 mg/day, which may or may not be required for your treatment, alprazolam has the potential to cause severe emotional and physical dependence in some patients and these patients may find it exceedingly difficult to terminate treatment.
-In two controlled trials of 6 to 8 weeks duration where the ability of patients to discontinue medication was measured, 7 to 29% of patients treated with alprazolam did not completely taper off therapy.
-In a controlled postmarketing discontinuation study of panic disorder patients, the patients treated with doses of alprazolam greater than 4 mg/day had more difficulty tapering to zero dose than patients treated with less than 4 mg/day.
-In all cases, it is important that your physician help you discontinue this medication in a careful and safe manner to avoid overly extended use of alprazolam.
+Inform patients that the use of Alprazolam, even at recommended dosages, exposes users to risks of abuse, misuse, and addiction, which can lead to overdose and death, especially when used in combination with other medications (e.g., opioid analgesics), alcohol, and/or illicit substances.
+Inform patients about the signs and symptoms of benzodiazepine abuse, misuse, and addiction; to seek medical help if they develop these signs and/or symptoms; and on the proper disposal of unused drug (see WARNINGS – Abuse, Misuse, and Addiction and DRUG ABUSE AND DEPENDENCE).
 
-In addition, the extended use at doses greater than 4 mg/day appears to increase the incidence and severity of withdrawal reactions when alprazolam is discontinued.
-These are generally minor but seizure can occur, especially if you reduce the dose too rapidly or discontinue the medication abruptly.
-Seizure can be life-threatening.
+### Withdrawal Reactions
+
+Inform patients that the continued use of Alprazolam may lead to clinically significant physical dependence and that abrupt discontinuation or rapid dosage reduction of Alprazolam may precipitate acute withdrawal reactions, which can be life-threatening.
+Inform patients that in some cases, patients taking benzodiazepines have developed a protracted withdrawal syndrome with withdrawal symptoms lasting weeks to more than 12 months.
+Instruct patients that discontinuation or dosage reduction of Alprazolam may require a slow taper (see WARNINGS – Dependence and Withdrawal Reactions and DRUG ABUSE AND DEPENDENCE).
+
+Inform your physician about any alcohol consumption and medicine you are taking now, including medication you may buy without a prescription.
+Alcohol should generally not be used during treatment with benzodiazepines.
+
+Not recommended for use in pregnancy.
+Therefore, inform your physician if you are pregnant, if you are planning to have a child, or if you become pregnant while you are taking this medication.
+Inform your physician if you are nursing.
+
+Until you experience how this medication affects you, do not drive a car or operate potentially dangerous machinery, etc.
 
 ## Laboratory Tests
 
@@ -195,11 +203,6 @@ Limit dosage and duration of concomitant use of benzodiazepines and opioids, and
 
 If Alprazolam Tablets are to be combined with other psychotropic agents or anticonvulsant drugs, careful consideration should be given to the pharmacology of the agents to be employed, particularly with compounds which might potentiate the action of benzodiazepines.
 The benzodiazepines, including alprazolam, produce additive CNS depressant effects when co-administered with other psychotropic medications, anticonvulsants, antihistaminics, ethanol and other drugs which themselves produce CNS depression.
-
-### Use with Digoxin
-
-Increased digoxin concentrations have been reported when alprazolam was given, especially in elderly (>65 years of age).
-Patients who receive alprazolam and digoxin should therefore be monitored for signs and symptoms related to digoxin toxicity
 
 ### Use with Imipramine and Desipramine
 
@@ -254,7 +257,9 @@ Alprazolam produced no impairment of fertility in rats at doses up to 5 mg/kg/da
 
 ### Teratogenic Effects
 
-See WARNINGS section.
+#### Pregnancy Category D
+
+(See WARNINGS section).
 
 ### Nonteratogenic Effects
 

@@ -23,7 +23,7 @@ The mean dosage employed was approximately 5 to 6 mg daily.
 Among the approximately 1700 patients participating in the panic disorder development program, about 300 received alprazolam in dosages of greater than 7 mg/day, including approximately 100 patients who received maximum dosages of greater than 9 mg/day.
 Occasional patients required as much as 10 mg a day to achieve a successful response.
 
-### Dose Titration
+## Dose Titration
 
 Treatment may be initiated with a dose of 0.5 mg three times daily.
 Depending on the response, the dose may be increased at intervals of 3 to 4 days in increments of no more than 1 mg per day.
@@ -31,9 +31,9 @@ Slower titration to the dose levels greater than 4 mg/day may be advisable to al
 To lessen the possibility of interdose symptoms, the times of administration should be distributed as evenly as possible throughout the waking hours, that is, on a three or four times per day schedule.
 
 Generally, therapy should be initiated at a low dose to minimize the risk of adverse responses in patients especially sensitive to the drug.
-Dose should be advanced until an acceptable therapeutic response (ie, a substantial reduction in or total elimination of panic attacks) is achieved, intolerance occurs, or the maximum recommended dose is attained.
+Dose should be advanced until an acceptable therapeutic response (i.e., a substantial reduction in or total elimination of panic attacks) is achieved, intolerance occurs, or the maximum recommended dose is attained.
 
-### Dose Maintenance
+## Dose Maintenance
 
 For patients receiving doses greater than 4 mg/day, periodic reassessment and consideration of dosage reduction is advised.
 In a controlled postmarketing dose-response study, patients treated with doses of alprazolam greater than 4 mg/day for 3 months were able to taper to 50% of their total maintenance dose without apparent loss of clinical benefit.
@@ -43,18 +43,16 @@ Because of the danger of withdrawal, abrupt discontinuation of treatment should 
 The necessary duration of treatment for panic disorder patients responding to alprazolam is unknown.
 After a period of extended freedom from attacks, a carefully supervised tapered discontinuation may be attempted, but there is evidence that this may often be difficult to accomplish without recurrence of symptoms and/or the manifestation of withdrawal phenomena.
 
-### Dose Reduction
+## Discontinuation or Dosage Reduction of Alprazolam
 
-Because of the danger of withdrawal, abrupt discontinuation of treatment should be avoided (see WARNINGS, PRECAUTIONS, DRUG ABUSE AND DEPENDENCE).
+To reduce the risk of withdrawal reactions, use a gradual taper to discontinue Alprazolam or reduce the dosage.
+If a patient develops withdrawal reactions, consider pausing the taper or increasing the dosage to the previous tapered dosage level.
+Subsequently decrease the dosage more slowly (see WARNINGS - Dependence and Withdrawal Reactions and DRUG ABUSE AND DEPENDENCE - Dependence).
 
-In all patients, dosage should be reduced gradually when discontinuing therapy or when decreasing the daily dosage.
-Although there are no systematically collected data to support a specific discontinuation schedule, it is suggested that the daily dosage be decreased by no more than 0.5 mg every three days.
-Some patients may require an even slower dosage reduction.
-
-In any case, reduction of dose must be undertaken under close supervision and must be gradual.
-If significant withdrawal symptoms develop, the previous dosing schedule should be reinstituted and, only after stabilization, should a less rapid schedule of discontinuation be attempted.
 In a controlled postmarketing discontinuation study of panic disorder patients which compared this recommended taper schedule with a slower taper schedule, no difference was observed between the groups in the proportion of patients who tapered to zero dose; however, the slower schedule was associated with a reduction in symptoms associated with a withdrawal syndrome.
-It is suggested that the dose be reduced by no more than 0.5 mg every 3 days, with the understanding that some patients may benefit from an even more gradual discontinuation.
+
+Reduced the dosage by no more than 0.5 mg every 3 days.
+Some patients may benefit from an even more gradual discontinuation.
 Some patients may prove resistant to all discontinuation regimens.
 
 ## Dosing in Special Populations

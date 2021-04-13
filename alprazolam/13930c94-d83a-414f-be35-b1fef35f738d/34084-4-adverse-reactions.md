@@ -1,9 +1,9 @@
 # ADVERSE REACTIONS
 
 Side effects to Alprazolam Tablets, if they occur, are generally observed at the beginning of therapy and usually disappear upon continued medication.
-In the usual patient, the most frequent side effects are likely to be an extension of the pharmacological activity of alprazolam, eg, drowsiness or light-headedness.
+In the usual patient, the most frequent side effects are likely to be an extension of the pharmacological activity of alprazolam, e.g., drowsiness or light-headedness.
 
-The data cited in the two tables below are estimates of untoward clinical event incidence among patients who participated under the following clinical conditions: relatively short duration (ie, four weeks) placebo-controlled clinical studies with dosages up to 4 mg/day of alprazolam (for the management of anxiety disorders or for the short-term relief of the symptoms of anxiety) and short-term (up to ten weeks) placebo-controlled clinical studies with dosages up to 10 mg/day of alprazolam in patients with panic disorder, with or without agoraphobia.
+The data cited in the two tables below are estimates of untoward clinical event incidence among patients who participated under the following clinical conditions: relatively short duration (i.e., four weeks) placebo-controlled clinical studies with dosages up to 4 mg/day of alprazolam (for the management of anxiety disorders or for the short-term relief of the symptoms of anxiety) and short-term (up to ten weeks) placebo-controlled clinical studies with dosages up to 10 mg/day of alprazolam in patients with panic disorder, with or without agoraphobia.
 
 These data cannot be used to predict precisely the incidence of untoward events in the course of usual medical practice where patient characteristics, and other factors often differ from those in clinical trials.
 These figures cannot be compared with those obtained from other clinical studies involving related drug products and placebo as each group of drug trials are conducted under a different set of conditions.
@@ -12,7 +12,7 @@ Comparison of the cited figures, however, can provide the prescriber with some b
 Even this use must be approached cautiously, as a drug may relieve a symptom in one patient but induce it in others.
 (For example, an anxiolytic drug may relieve dry mouth [a symptom of anxiety] in some subjects but induce it [an untoward event] in others.)
 
-Additionally, for anxiety disorders the cited figures can provide the prescriber with an indication as to the frequency with which physician intervention (eg, increased surveillance, decreased dosage or discontinuation of drug therapy) may be necessary because of the untoward clinical event.
+Additionally, for anxiety disorders the cited figures can provide the prescriber with an indication as to the frequency with which physician intervention (e.g., increased surveillance, decreased dosage or discontinuation of drug therapy) may be necessary because of the untoward clinical event.
 
 ## Treatment-Emergent Adverse Events Reported in Placebo-Controlled Trials of Anxiety Disorders
 
@@ -20,7 +20,7 @@ ANXIETY DISORDERS
 
 | Number of Patients % of Patients Reporting: | 565 | 505 | 565 |
 | --- | --- | --- | --- |
-|  | Treatment-Emergent Symptom IncidenceEvents reported by 1% or more of alpraozolam patients are included. |  | Incidence of Intervention Because of Symptom |
+|  | Treatment-Emergent Symptom IncidenceEvents reported by 1% or more of alprazolam patients are included. |  | Incidence of Intervention Because of Symptom |
 |  | ALPRAZOLAM | PLACEBO | ALPRAZOLAM |
 | Central Nervous System |  |  |  |
 | Drowsiness | 41.0 | 21.6 | 15.1 |
@@ -131,7 +131,7 @@ PANIC DISORDER
 | Incontinence | 1.5 | 0.6 |
 | Infection | 1.3 | 1.7 |
 
-In addition to the relatively common (ie, greater than 1%) untoward events enumerated in the table above, the following adverse events have been reported in association with the use of alprazolam: seizures, hallucinations, depersonalization, taste alterations, diplopia, elevated bilirubin, elevated hepatic enzymes, and jaundice.
+In addition to the relatively common (i.e., greater than 1%) untoward events enumerated in the table above, the following adverse events have been reported in association with the use of alprazolam: seizures, hallucinations, depersonalization, taste alterations, diplopia, elevated bilirubin, elevated hepatic enzymes, and jaundice.
 
 Panic disorder has been associated with primary and secondary major depressive disorders and increased reports of suicide among untreated patients (see PRECAUTIONS, General).
 
@@ -143,7 +143,7 @@ DISCONTINUATION-EMERGENT SYMPTOM INCIDENCE
 
 | Body System/Event |  |  |  |
 | --- | --- | --- | --- |
-| Percentage of Alprazolam-Treated Panic Disorder Patients Reporting Events |  |  |  |
+| Percentage of 641 Alprazolam-Treated Panic Disorder Patients Reporting Events |  |  |  |
 | Neurologic |  | Gastrointestinal |  |
 | Insomnia | 29.5 | Nausea/Vomiting | 16.5 |
 | Light-headedness | 19.3 | Diarrhea | 13.6 |
@@ -163,7 +163,6 @@ DISCONTINUATION-EMERGENT SYMPTOM INCIDENCE
 | Confusional state | 5.0 |  |  |
 
 From the studies cited, it has not been determined whether these symptoms are clearly related to the dose and duration of therapy with alprazolam in patients with panic disorder.
-
 There have also been reports of withdrawal seizures upon rapid decrease or abrupt discontinuation of Alprazolam Tablets (see WARNINGS).
 
 To discontinue treatment in patients taking alprazolam, the dosage should be reduced slowly in keeping with good medical practice.
@@ -182,4 +181,4 @@ Instances of irritability, hostility, and intrusive thoughts have been reported 
 Various adverse drug reactions have been reported in association with the use of alprazolam since market introduction.
 The majority of these reactions were reported through the medical event voluntary reporting system.
 Because of the spontaneous nature of the reporting of medical events and the lack of controls, a causal relationship to the use of alprazolam cannot be readily determined.
-Reported events include: gastrointestinal disorder, hypomania, mania, liver enzyme elevations, hepatitis, hepatic failure, Stevens-Johnson syndrome, photosensitivity reaction, angioedema, peripheral edema, hyperprolactinemia, gynecomastia, and galactorrhea (see PRECAUTIONS).
+Reported events include: gastrointestinal disorder, hypomania, mania, liver enzyme elevations, hepatitis, hepatic failure, Stevens-Johnson syndrome, angioedema, peripheral edema, hyperprolactinemia, gynecomastia, and galactorrhea (see PRECAUTIONS).
