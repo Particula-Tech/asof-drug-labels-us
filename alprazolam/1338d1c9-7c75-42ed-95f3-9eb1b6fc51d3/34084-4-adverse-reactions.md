@@ -12,7 +12,7 @@ In the tables and tabulations that follow, standard MedDRA terminology (version 
 ### Adverse Events Reported as Reasons for Discontinuation of Treatment in Placebo-Controlled Trials
 
 Approximately 17% of the 531 patients who received Alprazolam XR in placebo-controlled clinical trials for panic disorder had at least one adverse event that led to discontinuation compared to 8% of 349 placebo-treated patients.
-The most common events leading to discontinuation and considered to be drug-related (ie, leading to discontinuation in at least 1% of the patients treated with Alprazolam XR at a rate at least twice that of placebo) are shown in the following table.
+The most common events leading to discontinuation and considered to be drug-related (i.e., leading to discontinuation in at least 1% of the patients treated with Alprazolam XR at a rate at least twice that of placebo) are shown in the following table.
 
 Common Adverse Events Leading to Discontinuation of Treatment in Placebo-Controlled Trials
 
@@ -36,7 +36,7 @@ The prescriber should be aware that adverse event incidence cannot be used to pr
 Similarly, the cited frequencies cannot be compared with event incidence obtained from other clinical investigations involving different treatments, uses, and investigators.
 The cited values, however, do provide the prescribing physician with some basis for estimating the relative contribution of drug and non-drug factors to the adverse event incidence rate in the population studied.
 
-The following table shows the incidence of treatment-emergent adverse events that occurred during 6- to 8-week placebo-controlled trials in 1% or more of patients treated with Alprazolam XR where the incidence in patients treated with Alprazolam XR was greater than the incidence in placebo-treated patients.
+The following table shows the incidence of treatment-emergent adverse events that occurred during 6 to 8-week placebo-controlled trials in 1% or more of patients treated with Alprazolam XR where the incidence in patients treated with Alprazolam XR was greater than the incidence in placebo-treated patients.
 The most commonly observed adverse events in panic disorder patients treated with Alprazolam XR (incidence of 5% or greater and at least twice the incidence in placebo patients) were: sedation, somnolence, memory impairment, dysarthria, coordination abnormal, ataxia, libido decreased (see table).
 
 Treatment-Emergent Adverse Events: Incidence in Short-Term, Placebo-Controlled Clinical Trials with Alprazolam XR
@@ -185,4 +185,4 @@ Instances of irritability, hostility, and intrusive thoughts have been reported 
 Various adverse drug reactions have been reported in association with the use of Alprazolam tablets since market introduction.
 The majority of these reactions were reported through the medical event voluntary reporting system.
 Because of the spontaneous nature of the reporting of medical events and the lack of controls, a causal relationship to the use of Alprazolam tablets cannot be readily determined.
-Reported events include: gastrointestinal disorder, hypomania, mania, liver enzyme elevations, hepatitis, jaundice, hepatic failure, Stevens-Johnson syndrome, photosensitivity reaction, angioedema, peripheral edema, menstruation irregular, hyperprolactinemia, gynecomastia, and galactorrhea (see PRECAUTIONS).
+Reported events include: gastrointestinal disorder, hypomania, mania, liver enzyme elevations, hepatitis, hepatic failure, Stevens-Johnson syndrome, angioedema, peripheral edema, hyperprolactinemia, gynecomastia, and galactorrhea (see PRECAUTIONS).

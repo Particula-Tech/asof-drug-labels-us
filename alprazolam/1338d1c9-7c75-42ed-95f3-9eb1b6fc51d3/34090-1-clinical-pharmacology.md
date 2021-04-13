@@ -84,16 +84,11 @@ Alprazolam is primarily eliminated by metabolism via cytochrome P450 3A (CYP3A).
 Most of the interactions that have been documented with alprazolam are with drugs that inhibit or induce CYP3A4.
 
 Compounds that are potent inhibitors of CYP3A would be expected to increase plasma alprazolam concentrations.
-Drug products that have been studied in vivo, along with their effect on increasing alprazolam AUC, are as follows: ketoconazole, 3.98 fold; itraconazole, 2.70 fold; nefazodone, 1.98 fold; fluvoxamine, 1.96 fold; and erythromycin, 1.61 fold (see CONTRAINDICATIONS, WARNINGS, and PRECAUTIONS–Drug Interactions).
+Drug products that have been studied in vivo, along with their effect on increasing alprazolam AUC, are as follows: ketoconazole, 3.98 fold; itraconazole, 2.70 fold; nefazodone, 1.98 fold; fluvoxamine, 1.96 fold; and erythromycin, 1.61 fold (see CONTRAINDICATIONS, WARNINGS, and PRECAUTIONS – Drug Interactions).
 
 CYP3A inducers would be expected to decrease alprazolam concentrations and this has been observed in vivo.
-The oral clearance of alprazolam (given in a 0.8 mg single dose) was increased from 0.90±0.21 mL/min/kg to 2.13±0.54 mL/min/kg and the elimination t1/2 was shortened (from 17.1±4.9 to 7.7±1.7 h) following administration of 300 mg/day carbamazepine for 10 days (see PRECAUTIONS–Drug Interactions).
+The oral clearance of alprazolam (given in a 0.8 mg single dose) was increased from 0.90±0.21 mL/min/kg to 2.13±0.54 mL/min/kg and the elimination t1/2 was shortened (from 17.1±4.9 to 7.7±1.7 h) following administration of 300 mg/day carbamazepine for 10 days (see PRECAUTIONS – Drug Interactions).
 However, the carbamazepine dose used in this study was fairly low compared to the recommended doses (1000–1200 mg/day); the effect at usual carbamazepine doses is unknown.
-
-Interactions involving HIV protease inhibitors (eg, ritonavir) and alprazolam are complex and time dependent.
-Short-term low doses of ritonavir (4 doses of 200 mg) reduced alprazolam clearance to 41% of control values, prolonged its elimination half-life (mean values, 30 versus 13 h) and enhanced clinical effects.
-However, upon extended exposure to ritonavir (500 mg, twice daily), CYP3A induction offset this inhibition.
-Alprazolam AUC and Cmax was reduced by 12% and 16%, respectively, in the presence of ritonavir (see WARNINGS).
 
 The ability of alprazolam to induce or inhibit human hepatic enzyme systems has not been determined.
 However, this is not a property of benzodiazepines in general.

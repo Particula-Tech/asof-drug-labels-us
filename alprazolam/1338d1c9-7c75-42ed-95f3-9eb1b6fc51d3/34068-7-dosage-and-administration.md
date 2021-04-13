@@ -21,7 +21,7 @@ Depending on the response, the dose may be increased at intervals of 3 to 4 days
 Slower titration to the dose levels may be advisable to allow full expression of the pharmacodynamic effect of Alprazolam XR.
 
 Generally, therapy should be initiated at a low dose to minimize the risk of adverse responses in patients especially sensitive to the drug.
-Dose should be advanced until an acceptable therapeutic response (ie, a substantial reduction in or total elimination of panic attacks) is achieved, intolerance occurs, or the maximum recommended dose is attained.
+Dose should be advanced until an acceptable therapeutic response (i.e., a substantial reduction in or total elimination of panic attacks) is achieved, intolerance occurs, or the maximum recommended dose is attained.
 
 ## Dose Maintenance
 
@@ -33,18 +33,16 @@ The necessary duration of treatment for panic disorder patients responding to Al
 However, periodic reassessment is advised.
 After a period of extended freedom from attacks, a carefully supervised tapered discontinuation may be attempted, but there is evidence that this may often be difficult to accomplish without recurrence of symptoms and/or the manifestation of withdrawal phenomena.
 
-## Dose Reduction
+## Discontinuation or Dosage Reduction of Alprazolam XR
 
-Because of the danger of withdrawal, abrupt discontinuation of treatment should be avoided (see WARNINGS, PRECAUTIONS, DRUG ABUSE AND DEPENDENCE).
+To reduce the risk of withdrawal reactions, use a gradual taper to discontinue Alprazolam XR or reduce the dosage.
+If a patient develops withdrawal reactions, consider pausing the taper or increasing the dosage to the previous tapered dosage level.
+Subsequently decrease the dosage more slowly (see WARNINGS – Dependence and Withdrawal Reactions and DRUG ABUSE AND DEPENDENCE – Dependence).
 
-In all patients, dosage should be reduced gradually when discontinuing therapy or when decreasing the daily dosage.
-Although there are no systematically collected data to support a specific discontinuation schedule, it is suggested that the daily dosage be decreased by no more than 0.5 mg every three days.
-Some patients may require an even slower dosage reduction.
-
-In any case, reduction of dose must be undertaken under close supervision and must be gradual.
-If significant withdrawal symptoms develop, the previous dosing schedule should be reinstituted and, only after stabilization, should a less rapid schedule of discontinuation be attempted.
 In a controlled postmarketing discontinuation study of panic disorder patients which compared this recommended taper schedule with a slower taper schedule, no difference was observed between the groups in the proportion of patients who tapered to zero dose; however, the slower schedule was associated with a reduction in symptoms associated with a withdrawal syndrome.
-It is suggested that the dose be reduced by no more than 0.5 mg every three days, with the understanding that some patients may benefit from an even more gradual discontinuation.
+
+Reduce the dosage by no more than 0.5 mg every three days.
+Some patients may benefit from an even more gradual discontinuation.
 Some patients may prove resistant to all discontinuation regimens.
 
 ## Switch from alprazolam (immediate-release) tablets to Alprazolam XR (extended-release) tablets
