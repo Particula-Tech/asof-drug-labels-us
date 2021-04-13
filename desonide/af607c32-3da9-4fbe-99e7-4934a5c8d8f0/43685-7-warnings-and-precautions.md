@@ -14,8 +14,7 @@ Recovery of HPA axis function is generally prompt and complete upon discontinuat
 Infrequently, signs and symptoms of glucocorticosteroid insufficiency may occur requiring supplemental systemic corticosteroids.
 For information on systemic supplementation, see prescribing information for those products.
 
-Pediatric patients may be more susceptible to systemic toxicity from equivalent doses due to their larger skin surface to body mass ratios.
-(See PRECAUTIONS: Pediatric Use).
+Pediatric patients may be more susceptible to systemic toxicity from equivalent doses due to their larger skin surface to body mass ratios (see PRECAUTIONS: Pediatric Use).
 
 If irritation develops, desonide lotion should be discontinued and appropriate therapy instituted.
 Allergic contact dermatitis with corticosteroids is usually diagnosed by observing failure to heal rather than noting a clinical exacerbation as with most topical products not containing corticosteroids.
@@ -50,8 +49,6 @@ Long-term animal studies have not been performed to evaluate the carcinogenic po
 ## Pregnancy
 
 ### Teratogenic Effects
-
-#### Pregnancy Category C
 
 Corticosteroids have been shown to be teratogenic in laboratory animals when administered systemically at relatively low dosage levels.
 Some corticosteroids have been shown to be teratogenic after dermal application in laboratory animals.

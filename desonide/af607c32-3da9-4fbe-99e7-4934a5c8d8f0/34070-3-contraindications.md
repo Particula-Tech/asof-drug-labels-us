@@ -1,3 +1,3 @@
 # CONTRAINDICATIONS
 
-Desonide lotion is contraindicated in those patients with a history of hypersensitivity to any of the components of the preparations.
+Desonide lotion is contraindicated in those patients with a history of hypersensitivity to any of the components of the preparation.
