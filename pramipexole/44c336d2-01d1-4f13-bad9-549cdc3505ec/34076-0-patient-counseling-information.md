@@ -54,6 +54,4 @@ Glenmark Pharmaceuticals Inc., USA Mahwah, NJ 07430
 Questions?
 1 (888) 721-7115 www.glenmarkpharma-us.com
 
-Product of India
-
-May 2020
+March 2021

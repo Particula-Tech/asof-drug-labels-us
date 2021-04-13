@@ -1,8 +1,9 @@
 # 11 DESCRIPTION
 
-Pramipexole Dihydrochloride Tablets contain pramipexole, a nonergot dopamine agonist.
+Pramipexole Dihydrochloride Tablets contain pramipexole dihydrochloride (as a monohydrate).
+Pramipexole is a nonergot dopamine agonist.
 The chemical name of pramipexole dihydrochloride, USP is (S)-2-amino-4,5,6,7-tetrahydro-6-(propylamino) benzothiazole dihydrochloride monohydrate.
-Its empirical formula is C10 H17 N3 S2HCl.H2O, and its molecular weight is 302.26.
+Its empirical formula is C10 H17 N3 S.2HCl.H2O, and its molecular weight is 302.26 g/mol.
 
 The structural formula is:
 
