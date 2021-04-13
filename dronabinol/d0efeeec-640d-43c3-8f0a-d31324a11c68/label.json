@@ -1,0 +1,21 @@
+{
+  "application_numbers": [
+    "NDA018651"
+  ],
+  "inn": "dronabinol",
+  "labeler": "ThePharmaNetwork, LLC",
+  "package_ndcs": [
+    "53097-571-60",
+    "53097-572-60",
+    "53097-573-60"
+  ],
+  "products": [
+    {
+      "form": "CAPSULE",
+      "generic": "dronabinol",
+      "name": "MARINOL"
+    }
+  ],
+  "setid": "d0efeeec-640d-43c3-8f0a-d31324a11c68",
+  "source": "dailymed"
+}

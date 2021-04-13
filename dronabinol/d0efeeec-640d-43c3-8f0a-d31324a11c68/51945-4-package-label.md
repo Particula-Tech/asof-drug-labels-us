@@ -1,0 +1,97 @@
+# PACKAGE LABEL.PRINCIPAL DISPLAY PANEL
+
+PRINCIPAL DISPLAY PANEL- BOTTLE OF 60 CAPSULES
+
+NDC 53097-571-60
+
+MARINOL®(dronabinol Capsules, USP)
+
+2.5 mg
+
+Rx Only
+
+60 Capsules
+
+ThePharmaNetwork, LLC
+
+PRINCIPAL DISPLAY PANEL- CARTON OF 60 CAPSULES
+
+NDC 53097-571-60
+
+MARINOL(dronabinol Capsules, USP)
+
+2.5 mg
+
+PRESCRIPTION REPACK
+
+UNIT-OF-USE
+
+Rx Only
+
+60 Capsules
+
+ThePharmaNetwork, LLC
+
+PRINCIPAL DISPLAY PANEL- BOTTLE OF 60 CAPSULES
+
+NDC 53097-572-60
+
+MARINOL®(dronabinol Capsules, USP)
+
+5 mg
+
+Rx Only
+
+60 Capsules
+
+ThePharmaNetwork, LLC
+
+PRINCIPAL DISPLAY PANEL- CARTON OF 60 CAPSULES
+
+NDC 53097-572-60
+
+MARINOL(dronabinol Capsules, USP)
+
+5 mg
+
+PRESCRIPTION REPACK
+
+UNIT-OF-USE
+
+Rx Only
+
+60 Capsules
+
+ThePharmaNetwork, LLC
+
+PRINCIPAL DISPLAY PANEL- BOTTLE OF 60 CAPSULES
+
+NDC 53097-573-60
+
+MARINOL®(dronabinol Capsules, USP)
+
+10 mg
+
+Rx Only
+
+60 Capsules
+
+ThePharmaNetwork, LLC
+
+PRINCIPAL DISPLAY PANEL- CARTON OF 60 CAPSULES
+
+NDC 53097-573-60
+
+MARINOL(dronabinol Capsules, USP)
+
+10 mg
+
+PRESCRIPTION REPACK
+
+UNIT-OF-USE
+
+Rx Only
+
+60 Capsules
+
+ThePharmaNetwork, LLC
