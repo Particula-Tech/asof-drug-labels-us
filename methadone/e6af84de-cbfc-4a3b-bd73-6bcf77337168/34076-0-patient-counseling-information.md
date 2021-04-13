@@ -84,12 +84,12 @@ Constipation:
 
 Advise patients of the potential for severe constipation, including management instructions and when to seek medical attention [see Adverse Reactions (6), Clinical Pharmacology (12.2)].
 
-Distr. by: West-Ward
+Distr. by: Hikma
 
-Pharmaceuticals Corp.
+Pharmaceuticals USA Inc.
 
 Eatontown, NJ 07724
 
-10000879/11
+C50000737/01
 
-Revised October 2019
+Revised April 2020
