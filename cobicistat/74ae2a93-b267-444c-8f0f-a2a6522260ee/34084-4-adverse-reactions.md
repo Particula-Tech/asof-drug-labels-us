@@ -20,7 +20,7 @@ A total of 701 subjects received STRIBILD once daily in these two studies.
 The proportion of subjects who discontinued treatment with STRIBILD, ATRIPLA, or ATV+RTV+TRUVADA due to adverse events, regardless of severity, was 6.0%, 7.4%, and 8.5%, respectively.
 Table 1 displays the frequency of adverse reactions greater than or equal to 5% of subjects in any treatment arm.
 
-Table 1 Adverse Reactions Frequencies of adverse reactions are based on all treatment-emergent adverse events attributed to study drugs.
+Table 1 Adverse ReactionsFrequencies of adverse reactions are based on all treatment-emergent adverse events attributed to study drugs.
 (All Grades) Reported in ≥5% of Adult Subjects in Any Treatment Arm in Studies 102 and 103 (Week-144 Analysis)
 
 |  | STRIBILD N=701 | ATRIPLA N=352 | ATV+RTV+TRUVADA N=355 |
@@ -43,7 +43,7 @@ Table 1 Adverse Reactions Frequencies of adverse reactions are based on all trea
 | Insomnia | 3% | 9% | 1% |
 | Abnormal dreams | 9% | 27% | 4% |
 | SKIN AND SUBCUTANEOUS TISSUE DISORDERS |  |  |  |
-| Rash Rash event includes dermatitis, drug eruption, eczema, pruritus, pruritus generalized, rash, rash erythematous, rash generalized, rash macular, rash maculo-papular, rash morbilliform, rash papular, rash pruritic, and urticaria. | 4% | 15% | 6% |
+| RashRash event includes dermatitis, drug eruption, eczema, pruritus, pruritus generalized, rash, rash erythematous, rash generalized, rash macular, rash maculo-papular, rash morbilliform, rash papular, rash pruritic, and urticaria. | 4% | 15% | 6% |
 
 See Warnings and Precautions (5.2) for a discussion of renal adverse reactions from clinical trials experience with STRIBILD.
 
@@ -69,7 +69,7 @@ The frequency of laboratory abnormalities (Grades 3–4) occurring in at least 2
 
 Table 2 Laboratory Abnormalities (Grades 3–4) Reported in ≥2% of Adult Subjects Receiving STRIBILD in Studies 102 and 103 (Week-144 Analysis)
 
-| Laboratory Parameter Abnormality Frequencies are based on treatment-emergent laboratory abnormalities.,For subjects with serum amylase >1.5 × upper limit of normal (ULN), lipase test was also performed. The frequency of increased lipase (Grades 3–4) occurring in STRIBILD (N=69), ATRIPLA (N=40), and ATV+RTV+TRUVADA (N=38) was 17%, 15%, and 24%, respectively. | STRIBILD N=701 | ATRIPLA N=352 | ATV+RTV+TRUVADA N=355 |
+| Laboratory Parameter AbnormalityFrequencies are based on treatment-emergent laboratory abnormalities.,For subjects with serum amylase >1.5 × upper limit of normal (ULN), lipase test was also performed. The frequency of increased lipase (Grades 3–4) occurring in STRIBILD (N=69), ATRIPLA (N=40), and ATV+RTV+TRUVADA (N=38) was 17%, 15%, and 24%, respectively. | STRIBILD N=701 | ATRIPLA N=352 | ATV+RTV+TRUVADA N=355 |
 | --- | --- | --- | --- |
 | AST (>5.0 × ULN) | 3% | 6% | 6% |
 | ALT (>3.0 × ULN) | 2% | 5% | 4% |
@@ -92,11 +92,11 @@ Table 3 Change from Baseline in Serum Creatinine and eGFR and Incidence of Eleva
 
 |  | STRIBILD N=701 | ATRIPLA N=352 | ATV+RTV+TRUVADA N=355 |
 | --- | --- | --- | --- |
-| Serum Creatinine (mg/dL) Mean change ± standard deviation | 0.14 (±0.14) | 0.01 (±0.12) | 0.09 (±0.15) |
+| Serum Creatinine (mg/dL)Mean change ± standard deviation | 0.14 (±0.14) | 0.01 (±0.12) | 0.09 (±0.15) |
 | eGFR by Cockcroft-Gault (mL/minute) | −14.0 (±16.6) | −1.9 (±17.9) | −9.8 (±19.4) |
 | Subjects with Elevations in Serum Creatinine (All Grades) (%) | 12 | 2 | 6 |
 
-Emtricitabine or TDF: In addition to the laboratory abnormalities observed with STRIBILD, the following laboratory abnormalities have been previously reported in subjects treated with emtricitabine or TDF with other antiretroviral agents in other clinical trials: Grade 3 or 4 laboratory abnormalities of ALT (M: greater than 215 U per L; F: greater than 170 U per L), alkaline phosphatase (greater than 550 U per L), bilirubin (greater than 2.5 × ULN), serum glucose (less than 40 or greater than 250 mg per dL), glycosuria (greater than or equal to 3+), neutrophils (less than 750 per mm 3), fasting cholesterol (greater than 240 mg per dL), and fasting triglycerides (greater than 750 mg per dL).
+Emtricitabine or TDF: In addition to the laboratory abnormalities observed with STRIBILD, the following laboratory abnormalities have been previously reported in subjects treated with emtricitabine or TDF with other antiretroviral agents in other clinical trials: Grade 3 or 4 laboratory abnormalities of ALT (M: greater than 215 U per L; F: greater than 170 U per L), alkaline phosphatase (greater than 550 U per L), bilirubin (greater than 2.5 × ULN), serum glucose (less than 40 or greater than 250 mg per dL), glycosuria (greater than or equal to 3+), neutrophils (less than 750 per mm3), fasting cholesterol (greater than 240 mg per dL), and fasting triglycerides (greater than 750 mg per dL).
 
 Serum Lipids: In the clinical trials of STRIBILD, a similar percentage of subjects receiving STRIBILD, ATRIPLA, and ATV+RTV+TRUVADA were on lipid-lowering agents at baseline (12%, 12%, and 13%, respectively).
 While receiving study drug through Week 144, an additional 11% of STRIBILD subjects were started on lipid-lowering agents, compared to 13% of ATRIPLA and 12% of ATV+RTV+TRUVADA subjects.
@@ -105,7 +105,7 @@ Changes from baseline in total cholesterol, HDL-cholesterol, LDL-cholesterol, an
 
 Table 4 Lipid Values, Mean Change from Baseline at Week 144 in Adult Subjects Receiving STRIBILD or Comparator in Studies 102 and 103
 
-| mg/dL | Change The change from baseline is the mean of within-patient changes from baseline for patients with both baseline and Week 144 values. | mg/dL | Change | mg/dL | Change |  |
+| mg/dL | ChangeThe change from baseline is the mean of within-patient changes from baseline for patients with both baseline and Week 144 values. | mg/dL | Change | mg/dL | Change |  |
 | --- | --- | --- | --- | --- | --- | --- |
 |  | STRIBILD N=701 |  | ATRIPLA N=352 |  | ATV+RTV+TRUVADA N=355 |  |
 | Baseline | Week 144 | Baseline | Week 144 | Baseline | Week 144 |  |
