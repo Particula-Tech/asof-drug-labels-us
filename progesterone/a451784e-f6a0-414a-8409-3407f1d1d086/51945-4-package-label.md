@@ -1,6 +1,6 @@
 # PRINCIPAL DISPLAY PANEL - 100 mg Capsule Bottle Label
 
-100 Capsules NDC 69543-372-10
+30 Capsules NDC 69543-372-30
 
 PROMETRIUM® (progesterone, USP) Capsules
 
@@ -14,7 +14,7 @@ VIRTUS® PHARMACEUTICALS
 
 # PRINCIPAL DISPLAY PANEL - 200 mg Capsule Bottle Label
 
-100 Capsules NDC 69543-373-10
+30 Capsules NDC 69543-373-30
 
 PROMETRIUM® (progesterone, USP) Capsules
 

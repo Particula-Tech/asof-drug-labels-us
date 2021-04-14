@@ -102,7 +102,7 @@ Less serious, but common side effects include:
 
 These are not all the possible side effects of PROMETRIUM® (progesterone, USP) Capsules.
 For more information, ask your healthcare provider or pharmacist for advice about side effects.
-You may report side effects to Virtus Pharmaceuticals, LLC. at 1-888-848-3593 or to FDA at 1-800-FDA-1088.
+You may report side effects to Virtus Pharmaceuticals, LLC at 1-888-848-3593 or to FDA at 1-800-FDA-1088.
 
 What can I do to lower my chances of getting a serious side effect with PROMETRIUM Capsules?
 
@@ -128,7 +128,7 @@ General information about safe and effective use of PROMETRIUM Capsules
 
 Keep PROMETRIUM Capsules out of the reach of children.
 
-This leaf let provides a summary of the most important information about PROMETRIUM Capsules.
+This leaflet provides a summary of the most important information about PROMETRIUM Capsules.
 If you would like more information, talk with your healthcare provider or pharmacist.
 You can ask for information about PROMETRIUM Capsules that is written for health professionals.
 You can get more information by calling the toll free number 1-888-848-3593.
@@ -151,9 +151,7 @@ Store at 25°C (77°F); excursions permitted to 15° to 30°C (59° to 86°F) [S
 
 Protect from excessive moisture.
 
-Manufactured by: Catalent Pharma Solutions St. Petersburg, FL 33716
+Distributed by: Virtus Pharmaceuticals, LLC Langhorne, PA 19047 1-888-848-3593
 
-Marketed by: Virtus Pharmaceuticals, LLC.
-Newtown, PA 18940, USA 1-888-848-3593
-
-9898 Rev 06/17
+9898 Rev.
+03/2021

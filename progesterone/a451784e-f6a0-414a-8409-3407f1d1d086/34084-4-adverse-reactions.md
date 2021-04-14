@@ -42,7 +42,7 @@ In a multicenter, randomized, double-blind, placebo-controlled clinical trial, t
 Table 7 lists adverse reactions greater than or equal to 5 percent of women who received PROMETRIUM Capsules or placebo.
 
 TABLE 7.
-Adverse Reactions (≥ 5%) Reported in Patients Using 400 mg/day in a Placebo-Controlled Trial in Estrogen- Primed Postmenopausal Women
+Adverse Reactions (≥ 5%) Reported in Patients Using 400 mg/day in a Placebo-Controlled Trial in Estrogen-Primed Postmenopausal Women
 
 | Adverse Experience | PROMETRIUM Capsules 400 mg | Placebo |
 | --- | --- | --- |
