@@ -1,3 +1,103 @@
+# PRINCIPAL DISPLAY PANEL - 500 mg/50 mL Container Label
+
+Acetaminophen Injection
+
+500 mg/50 mL
+
+(10 mg/mL)
+
+REF DA4050
+
+NDC 0264-4050-80
+
+50 mL fill
+
+PAB® Container
+
+For Intravenous Use Only
+
+Protect from light until use.
+
+CAUTION: DO NOT ADD SUPPLEMENTARY MEDICATION.
+
+Single Dose Container.
+Doses less than 500 mg require aseptic transfer to a separate container prior to dispensing.
+Discard unused portion.
+
+Each 50 mL contains 500 mg Acetaminophen, USP, 1,900 mg Mannitol, USP, 15 mg Sodium Citrate Dihydrate, USP, and Water for Injection, USP qs.
+
+pH is adjusted with glacial acetic acid.
+
+Store at 20° to 25°C (68° to 77°F); excursions permitted between 15° to 30°C (59° to 86°F).
+[See USP Controlled Room Temperature.]
+Do not freeze.
+Do not expose the product under light.
+
+See Package Insert for recommended dosage and Full Prescribing Information.
+
+Not made with natural rubber latex, PVC or DEHP.
+
+PAB is a registered trademark of B. Braun Medical Inc.
+
+Rx only
+
+B. Braun Medical Inc. Bethlehem, PA 18018-3524 USA 1-800-227-2862 Prepared in USA.
+API from USA or China.
+
+Y94-003-435 LD-549-2
+
+LOT
+
+EXP
+
+# PRINCIPAL DISPLAY PANEL - 500 mg/50 mL Carton Label
+
+Acetaminophen Injection
+
+500 mg/50 mL (10 mg/mL)
+
+NDC 0264-4050-85
+
+REF DA4050
+
+Four 50 mL fill PAB® Containers
+
+For Intravenous Use Only
+
+CAUTION: DO NOT ADD SUPPLEMENTARY MEDICATION.
+
+Each 50 mL contains 500 mg Acetaminophen, USP, 1,900 mg Mannitol, USP, 15 mg Sodium Citrate Dihydrate, USP, and Water for Injection, USP qs.
+
+pH is adjusted with glacial acetic acid.
+
+Single Dose Container.
+Doses less than 500 mg require aseptic transfer to a separate container prior to dispensing.
+Discard unused portion.
+
+Protect from light until use.
+
+Store at 20° to 25°C (68° to 77°F); excursions permitted between 15° to 30°C (59° to 86°F).
+[See USP Controlled Room Temperature.]
+Do not freeze.
+Do not expose the product under light.
+
+See Package Insert for recommended dosage and Full Prescribing Information.
+
+Not made with natural rubber latex, PVC or DEHP.
+
+PAB is a registered trademark of B. Braun Medical Inc.
+
+Rx only
+
+B. Braun Medical Inc. Bethlehem, PA 18018-3524 USA 1-800-227-2862 Prepared in USA.
+API from USA or China.
+
+X12-002-500 LD-553-3
+
+LOT
+
+EXP
+
 # PRINCIPAL DISPLAY PANEL - 1,000 mg/100 mL Container Label
 
 Acetaminophen Injection
@@ -32,7 +132,6 @@ Store at 20° to 25°C (68° to 77°F); excursions permitted between 15° to 30�
 [See USP Controlled Room Temperature.]
 Do not freeze.
 Do not expose the product under light.
-Keep the product in the box until use.
 
 See Package Insert for recommended dosage and Full Prescribing Information.
 
@@ -45,7 +144,7 @@ Rx only
 B. Braun Medical Inc. Bethlehem, PA 18018-3524 USA 1-800-227-2862 Prepared in USA.
 API from USA or China.
 
-Y94-003-417 LD-550-2
+Y94-003-437 LD-550-3
 
 LOT
 
@@ -81,7 +180,6 @@ Store at 20° to 25°C (68° to 77°F); excursions permitted between 15° to 30�
 [See USP Controlled Room Temperature.]
 Do not freeze.
 Do not expose the product under light.
-Keep the product in the box until use.
 
 See Package Insert for recommended dosage and Full Prescribing Information.
 
@@ -94,7 +192,7 @@ Rx only
 B. Braun Medical Inc. Bethlehem, PA 18018-3524 USA 1-800-227-2862 Prepared in USA.
 API from USA or China.
 
-X12-002-497 LD-554-3
+X12-002-501 LD-554-4
 
 LOT
 
