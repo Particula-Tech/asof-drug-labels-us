@@ -2,19 +2,31 @@
 
 ## 2.1 Administration Instructions
 
-- Take budesonide capsules (enteric coated) once daily in the morning.
-- Swallow budesonide extended-release capsules (enteric coated) whole.
+- Take budesonide delayed-release capsules (enteric coated) once daily in the morning.
+- Swallow budesonide delayed-release capsules (enteric coated) whole.
   Do not chew or crush.
-- Avoid consumption of grapefruit juice for the duration of budesonide capsules (enteric coated) therapy [see Drug Interactions (7.1)].
+- For patients unable to swallow an intact capsule, budesonide delayed-release capsules can be opened and administered as follows:
+
+1. Place one tablespoonful of applesauce into a clean container (e.g., empty bowl).
+   The applesauce used should not be hot and should be soft enough to be swallowed without chewing.
+2. Open the capsule(s).
+3. Carefully empty all the granules inside the capsule(s) on the applesauce.
+4. Mix the granules with the applesauce.
+5. Consume the entire contents within 30 minutes of mixing.
+   Do not chew or crush the granules.
+   Do not save the applesauce and granules for future use.
+6. Follow the applesauce and granules immediately with a glass (8 ounces) of cool water to ensure complete swallowing of the granules.
+
+- Avoid consumption of grapefruit juice for the duration of budesonide delayed-release capsules (enteric coated) therapy [see Drug Interactions (7.1)].
 
 ## 2.2 Treatment of Mild to Moderate Active Crohn’s Disease
 
-The recommended dosage of budesonide capsules (enteric coated) is:
+The recommended dosage of budesonide delayed-release capsules (enteric coated) is:
 
 Adults
 
 9 mg orally once daily for up to 8 weeks.
-Repeated 8 week courses of budesonide capsules (enteric coated)can be given for recurring episodes of active disease.
+Repeated 8 week courses of budesonide delayed-release capsules (enteric coated) can be given for recurring episodes of active disease.
 
 Pediatric patients 8 to 17 years who weigh more than 25 kg
 

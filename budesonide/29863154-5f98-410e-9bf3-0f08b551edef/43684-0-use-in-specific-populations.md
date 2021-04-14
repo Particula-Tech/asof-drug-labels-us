@@ -32,7 +32,7 @@ Animal Data
 
 Budesonide was teratogenic and embryolethal in rabbits and rats.
 
-In an embryo-fetal development study in pregnant rats dosed subcutaneously with budesonide during the period of organogenesis from gestation days 6-15 there were effects on fetal development and survival at subcutaneous doses up to approximately 500 mcg/kg in rats (approximately 0.5 times the maximum recommended human dose on a body surface area basis).
+In an embryo-fetal development study in pregnant rats dosed subcutaneously with budesonide during the period of organogenesis from gestation days 6 to 15 there were effects on fetal development and survival at subcutaneous doses up to approximately 500 mcg/kg in rats (approximately 0.5 times the maximum recommended human dose on a body surface area basis).
 In an embryo-fetal development study in pregnant rabbits dosed during the period of organogenesis from gestation days 6 to 18, there was an increase in maternal abortion, and effects on fetal development and reduction in litter weights at subcutaneous doses up to approximately 25 mcg/kg in rabbits (approximately 0.05 times the maximum recommended human dose on a body surface area basis).
 Maternal toxicity, including reduction in body weight gain, was observed at subcutaneous doses of 5 mcg/kg in rabbits (approximately 0.01 times the maximum recommended human dose on a body surface area basis) and 500 mcg/kg in rats (approximately 0.5 times the maximum recommended human dose on a body surface area basis).
 
@@ -52,7 +52,7 @@ Data
 
 One published study reports that budesonide is present in human milk following maternal inhalation of budesonide which resulted in infant doses approximately 0.3% to 1% of the maternal weight-adjusted dosage and a milk/plasma ratio ranging between 0.4 and 0.5.
 Budesonide plasma concentrations were not detected and no adverse events were noted in the breastfed infants following maternal use of inhaled budesonide.
-The recommended daily dose of budesonide capsules (enteric coated) are higher (up to 9 mg daily) compared with inhaled budesonide (up to 800 mcg daily) given to mothers in the above described study.
+The recommended daily dose of budesonide capsules (enteric coated) is higher (up to 9 mg daily) compared with inhaled budesonide (up to 800 mcg daily) given to mothers in the above described study.
 The maximum budesonide plasma concentration following a 9 mg daily dose (in both single- and repeated-dose pharmacokinetic studies) of oral budesonide is approximately 2.15 to 4.31 ng/mL which is up to 10 times higher than the 0.43 to 0.86 ng/mL for a 800 mcg daily dose of inhaled budesonide at steady state in the above inhalation study.
 Assuming the coefficient of extrapolation between the inhaled and oral doses is constant across all dose levels, at therapeutic doses of budesonide capsules (enteric coated), budesonide exposure to the nursing child may be up to 10 times higher than that by budesonide inhalation.
 

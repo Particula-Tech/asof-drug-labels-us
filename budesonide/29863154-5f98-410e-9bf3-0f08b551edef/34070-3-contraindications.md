@@ -1,4 +1,4 @@
 # 4 CONTRAINDICATIONS
 
-Budesonide extended-release capsules (enteric coated) are contraindicated in patients with hypersensitivity to budesonide or any of the ingredients of budesonide capsules (enteric coated).
+Budesonide capsules (enteric coated) are contraindicated in patients with hypersensitivity to budesonide or any of the ingredients of budesonide capsules (enteric coated).
 Serious hypersensitivity reactions, including anaphylaxis have occurred [see Adverse Reactions (6.2)].

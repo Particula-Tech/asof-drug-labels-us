@@ -17,7 +17,7 @@ See Table 5.
 
 Table 5 Clinical Improvement Rates (CDAI less than or equal to 150) After 8 weeks of Treatment
 
-| C li n i cal Study | Budesonide 9 mg Daily | Budesonide 4.5 mg Twice Daily | C o m parator3 | Placebo | Prednisolone |
+| Clinical Study | Budesonide Capsules (Enteric Coated) 9 mg Daily | Budesonide Capsules (Enteric Coated) 4.5 mg Twice Daily | Comparator3 | Placebo | Prednisolone |
 | --- | --- | --- | --- | --- | --- |
 | 1 | 62/91 (69%)1 |  | 37/83 (45%) |  |  |
 | 2 |  | 31/61 (51%)2 |  | 13/64 (20%) |  |

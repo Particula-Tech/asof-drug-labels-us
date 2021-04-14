@@ -6,7 +6,7 @@ Budesonide is an anti-inflammatory corticosteroid and has a high glucocorticoid 
 
 ## 12.2 Pharmacodynamics
 
-Treatment with glucocorticoids, including budesonide capsules (enteric coated) are associated with a suppression of endogenous cortisol concentrations and an impairment of the hypothalamus-pituitary-adrenal (HPA) axis function.
+Treatment with glucocorticoids, including budesonide capsules (enteric coated) is associated with a suppression of endogenous cortisol concentrations and an impairment of the hypothalamus-pituitary-adrenal (HPA) axis function.
 There was a positive correlation between the percent (%) reduction of AUC 0-24 of plasma cortisol and systemic exposure to budesonide both in pediatric and adult patients.
 
 Adults
@@ -23,7 +23,7 @@ The responses to adrenocorticotropin challenge (i.e., ACTH stimulation test) was
 After 8 weeks of treatment with 9 mg once daily budesonide capsules (enteric coated) or with prednisolone, administered at tapering doses starting from 1 mg/kg, the proportion of patients with normal response to the ACTH challenge was 6% in the budesonide group compared to none in the prednisolone group; the proportion of patients with morning p-cortisol of greater than 5 mcg/dL was 50% in the budesonide group compared to 22% in the prednisolone group.
 The mean morning p-cortisol was 6.3 mcg/dL in the budesonide group and 2.6 mcg/dL in the prednisolone group (Table 4).
 
-Table 4 Proportion of Pediatric Patients 8 to 17 years old with Peak Endogenous Cortisol Levels (above 18 mcg/dL) after ACTH Stimulation and Normal Response* to ACTH Challenge Following Administration of Budesonide or Prednisolone for 8 weeks
+Table 4 Proportion of Pediatric Patients 8 to 17 years old with Peak Endogenous Cortisol Levels (above 18 mcg/dL) after ACTH Stimulation and Normal Response* to ACTH Challenge Following Administration of Budesonide Delayed-Release Capsules (Enteric Coated) or Prednisolone for 8 weeks
 
 |  | Budesonide | Prednisolone |
 | --- | --- | --- |
@@ -40,7 +40,6 @@ Table 4 Proportion of Pediatric Patients 8 to 17 years old with Peak Endogenous 
 
 Absorption
 
-Following administration of budesonide capsules (enteric coated), the time to peak concentration varied in individual patients between 30 and 600 minutes.
 Mean oral bioavailability of budesonide ranged from 9% to 21% both in patients and in healthy subjects, demonstrating a high first-pass elimination of the drug.
 
 Budesonide pharmacokinetics were dose-proportional following repeated administration in the dose range of 3 to 15 mg.
@@ -50,10 +49,12 @@ Following oral administration of a single dose of 9 mg budesonide capsules (ente
 The time to peak concentration (Tmax) varied between 2 and 8 hours with a median value of 3.5 hours.
 In a different study, following oral administration of 9 mg budesonide capsules (enteric coated) for five days in healthy subjects, the mean Cmax and the steady state AUC for budesonide were 2.28 ± 0.77 ng/mL and 15.93 ± 6.29 ng•hr/mL, respectively.
 
-Following administration of 9 mg budesonide capsules (enteric coated) once daily in patients with active Crohn's disease, the mean Cmax and AUC were 1.72 ± 0.90 ng/mL and 15.07 ± 8.52 ng•hr/mL, respectively.
+Following administration of 9 mg budesonide capsules (enteric coated) once daily in patients with active Crohn's disease, the mean Cmax and AUC were 1.7 ± 0.9 ng/mL and 15.1 ± 8.5 ng•hr/mL, respectively.
+Following administration of budesonide capsules (enteric coated), the Tmax ranged in individual patients from 0.5 to 10 hours.
 
-Concomitant administration of a high-fat meal delayed the Tmax of budesonide from budesonide capsules (enteric coated) by 2.3 hours but did not significantly affect the AUC in healthy subjects.
-The Cmax and AUC to budesonide was similar when single dose of budesonide capsules (enteric coated) (9 mg) were administered after opening capsule and sprinkling granules on applesauce versus as intact capsules in the fasted state (N=24) in healthy subjects.
+Concomitant administration of a high-fat meal delayed the Tmax of budesonide by 2.3 hours compared to that under fasted conditions but did not significantly affect the AUC in healthy subjects.
+The mean Cmax and AUC of budesonide were similar when single dose of budesonide capsules (enteric coated) (9 mg) was administered after opening the capsules and sprinkling the granules on applesauce versus as intact capsules in the fasted state (N=24) in healthy subjects.
+The Tmax ranged from 3 to 10 hours with a median of 4 hours after administration of sprinkled granules on appleasauce.
 
 Distribution
 
@@ -66,7 +67,8 @@ Elimination
 Budesonide had a plasma clearance, 0.9 to 1.8 L/min in healthy adults.
 Mean plasma clearance after intravenous administration of budesonide in patients with Crohn's disease was 1.0 L/min.
 These plasma clearance values approached the estimated liver blood flow, and, accordingly, suggest that budesonide is a high hepatic clearance drug.
-The plasma elimination half-life, after administration of intravenous doses ranged between 2 and 3.6 hours, and did not differ between healthy adults and patients with Crohn's disease.
+The plasma elimination half-life after administration of intravenous doses ranged between 2 and 3.6 hours, and did not differ between healthy adults and patients with Crohn's disease.
+The mean ± SD plasma elimination half-life after a single dose of budesonide capsules (enteric coated) (9 mg) in the fasted state (N=24) in healthy subjects was 6.3 ± 1.6 hours and ranged between 2 and 8 hours.
 
 Metabolism
 
@@ -114,7 +116,7 @@ Effects of Other Drugs on Budesonide
 Ketoconazole
 
 In an open, non-randomized, cross-over study, 6 healthy subjects were given budesonide 10 mg as a single dose, either alone or concomitantly with the last ketoconazole dose of 3 days treatment with ketoconazole 100 mg twice daily.
-Coadministration of ketoconazole resulted in an eight-fold increase in AUC of budesonide, compared to budesonide alone [see Drug Interactions (7.1)].
+Co-administration of ketoconazole resulted in an eight-fold increase in AUC of budesonide, compared to budesonide alone [see Drug Interactions (7.1)].
 
 Grapefruit Juice
 
@@ -137,4 +139,4 @@ Cimetidine
 In an open, non-randomized, cross-over study, the potential effect of cimetidine on the pharmacokinetics of budesonide was studied.
 Six healthy subjects received cimetidine 1 gram daily (200 mg with meals and 400 mg at night) for 2 separate 3-day periods.
 Budesonide 4 mg was administered either alone or on the last day of one of the cimetidine treatment periods.
-Coadministration of cimetidine resulted in a 52% and 31% increase in the budesonide peak plasma concentration and the AUC of budesonide, respectively.
+Co-administration of cimetidine resulted in a 52% and 31% increase in the budesonide peak plasma concentration and the AUC of budesonide, respectively.

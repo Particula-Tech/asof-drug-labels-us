@@ -23,7 +23,7 @@ The most common adverse reactions, occurring in greater than or equal to 5% of t
 
 Table 1 Common Adverse Reactions1 in 8-Week Treatment Clinical Trials
 
-| Adverse Reaction | Budesonide 9 mg n=520 Number (%) | Placebo n=107 Number (%) | Prednisolone2 40 mg n=145 Number (%) | Comparator3 n=88 Number (%) |
+| Adverse Reaction | Budesonide Capsules (Enteric Coated) 9 mg n=520 Number (%) | Placebo n=107 Number (%) | Prednisolone2 40 mg n=145 Number (%) | Comparator3 n=88 Number (%) |
 | --- | --- | --- | --- | --- |
 | Headache | 107(21) | 19(18) | 31(21) | 11(13) |
 | Respiratory Infection | 55(11) | 7(7) | 20(14) | 5(6) |
@@ -37,14 +37,14 @@ Table 1 Common Adverse Reactions1 in 8-Week Treatment Clinical Trials
 | Fatigue | 25(5) | 8(7) | 11(8) | 0(0) |
 | Pain | 24(5) | 8(7) | 17(12) | 2(2) |
 | 1 Occurring in greater than or equal to 5% of the patients in any treated group. |  |  |  |  |
-| 2 Prednisolone tapering scheme: either 40 mg in week 1 to 2, thereafter tapering with 5 mg per week; or 40 mg in week 1to 2, 30 mg in week 3 to 4, thereafter tapering with 5 mg per week. |  |  |  |  |
+| 2 Prednisolone tapering scheme: either 40 mg in week 1 to 2, thereafter tapering with 5 mg per week; or 40 mg in week 1 to 2, 30 mg in week 3 to 4, thereafter tapering with 5 mg per week. |  |  |  |  |
 | 3 This drug is not approved for the treatment of Crohn's disease in the United States. |  |  |  |  |
 
 The incidence of signs and symptoms of hypercorticism reported by active questioning of patients in 4 of the 5 short-term clinical trials are displayed in Table 2.
 
 Table 2 Summary and Incidence of Signs/Symptoms of Hypercorticism in 8-Week Treatment ClinicalTrials
 
-| Header$ | Budesonide 9 mg n=427 | Placebo n=107 | Prednisolone1 40 mg n=145 |
+|  | Budesonide Capsules (Enteric Coated) 9 mg n=427 | Placebo n=107 | Prednisolone1 40 mg n=145 |
 | --- | --- | --- | --- |
 | Signs/Symptom | Number (%) | Number (%) | Number (%) |
 | Total | 145 (34%) | 29 (27%) | 69 (48%) |
@@ -55,13 +55,13 @@ Table 2 Summary and Incidence of Signs/Symptoms of Hypercorticism in 8-Week Trea
 | Hirsutism3 | 22(5) | 2(2) | 5(3) |
 | Buffalo hump | 6(1) | 2(2) | 5(3) |
 | Skin Striae | 4(1) | 2(2) | 0(0) |
-| 1 Prednisolone tapering scheme: either 40 mg in week 1-2, thereafter tapering with 5 mg/week; or 40 mg in week 1 to 2, 30 mg in week 3 to 4, thereafter tapering with 5 mg/week. |  |  |  |
+| 1 Prednisolone tapering scheme: either 40 mg in week 1 to 2, thereafter tapering with 5 mg/week; or 40 mg in week 1 to 2, 30 mg in week 3 to 4, thereafter tapering with 5 mg/week. |  |  |  |
 | 2 Statistically significantly different from budesonide capsules (enteric coated) 9 mg. |  |  |  |
 | 3 including hair growth increased, local and hair growth increased, general. |  |  |  |
 
 Maintenance of Clinical Remission of Mild to Moderate Crohn's Disease
 
-The safety of budesonide capsules (enteric coated) were evaluated in 233 adult patients in four long-term clinical trials (52 weeks) of maintenance of clinical remission in patients with mild to moderate Crohn's disease.
+The safety of budesonide capsules (enteric coated) was evaluated in 233 adult patients in four long-term clinical trials (52 weeks) of maintenance of clinical remission in patients with mild to moderate Crohn's disease.
 A total of 145 patients were treated with budesonide capsules (enteric coated) 6 mg once daily.
 
 The adverse reaction profile of budesonide capsules (enteric coated) 6 mg once daily in maintenance of Crohn's disease was similar to that of short-term treatment with budesonide capsules (enteric coated) 9 mg once daily in active Crohn's disease.
@@ -71,7 +71,7 @@ Signs/symptoms of hypercorticism reported by active questioning of patients in t
 
 Table 3 Summary and Incidence of Signs/Symptoms of Hypercorticism in Long-Term Studies
 
-| Header$ | Budesonide 3 mg n=88 | Budesonide 6 mg n=145 | Placebo n=143 |
+|  | Budesonide Capsules (Enteric Coated) 3 mg n=88 | Budesonide Capsules (Enteric Coated) 6 mg n=145 | Placebo n=143 |
 | --- | --- | --- | --- |
 | Signs/Symptom | Number (%) | Number (%) | Number (%) |
 | Bruising easily | 4(5) | 15(10) | 5(4) |
