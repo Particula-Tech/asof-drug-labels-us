@@ -22,36 +22,32 @@ Risperidone is not approved for the treatment of patients with dementia-related 
 
 ## 5.3 Neuroleptic Malignant Syndrome
 
-Antipsychotic drugs including risperidone can cause a potentially fatal symptom complex referred to as Neuroleptic Malignant Syndrome (NMS).
-Clinical manifestations of NMS include hyperpyrexia, muscle rigidity, altered mental status and autonomic instability (irregular pulse or blood pressure, tachycardia, diaphoresis and cardiac dysrhythmia).
-Additional signs may include elevated creatine phosphokinase (CPK), myoglobinuria, rhabdomyolysis, and acute renal failure.
+Neuroleptic Malignant Syndrome (NMS), a potentially fatal symptom complex, has been reported in association with antipsychotic drugs.
+Clinical manifestations of NMS are hyperpyrexia, muscle rigidity, altered mental status including delirium, and autonomic instability (irregular pulse or blood pressure, tachycardia, diaphoresis and cardiac dysrhythmia).
+Additional signs may include elevated creatine phosphokinase, myoglobinuria (rhabdomyolysis), and acute renal failure.
 
-The diagnostic evaluation of patients with this syndrome is complicated.
-In arriving at a diagnosis, it is important to identify cases in which the clinical presentation includes both serious medical illness (e.g., pneumonia, systemic infection, etc.) and untreated or inadequately treated extrapyramidal signs and symptoms (EPS).
-Other important considerations in the differential diagnosis include central anticholinergic toxicity, heat stroke, drug fever and primary central nervous system pathology.
-
-The management of NMS should include: (1) immediate discontinuation of antipsychotic drugs and other drugs not essential to concurrent therapy; (2) intensive symptomatic treatment and medical monitoring; and (3) treatment of any concomitant serious medical problems for which specific treatments are available.
-There is no general agreement about specific pharmacological treatment regimens for uncomplicated NMS.
-
-If a patient requires antipsychotic drug treatment after recovery from NMS, the potential reintroduction of drug therapy should be carefully considered.
-The patient should be carefully monitored, since recurrences of NMS have been reported.
+If NMS is suspected, immediately discontinue risperidone and provide symptomatic treatment and monitoring.
 
 ## 5.4 Tardive Dyskinesia
 
-A syndrome of potentially irreversible, involuntary, dyskinetic movements may develop in patients treated with antipsychotic drugs.
-The risk of developing tardive dyskinesia and the likelihood that it will become irreversible are believed to increase as the duration of treatment and the total cumulative dose of antipsychotic drugs administered to the patient increase.
-However, the syndrome can develop, although much less commonly, after relatively brief treatment periods at low doses.
+Tardive dyskinesia, a syndrome consisting of potentially irreversible, involuntary, dyskinetic movements, may develop in patients treated with antipsychotic drugs.
+Although the prevalence of the syndrome appears to be highest among the elderly, especially elderly women, it is impossible to predict which patients will develop the syndrome.
+Whether antipsychotic drug products differ in their potential to cause tardive dyskinesia is unknown.
 
-The syndrome may remit, partially or completely, if antipsychotic treatment is withdrawn.
-Antipsychotic treatment, itself, however, may suppress (or partially suppress) the signs and symptoms of the syndrome and thereby may possibly mask the underlying process.
+The risk of developing tardive dyskinesia and the likelihood that it will become irreversible increase with the duration of treatment and the cumulative dose.
+The syndrome can develop after relatively brief treatment periods, even at low doses.
+It may also occur after discontinuation of treatment.
+
+Tardive dyskinesia may remit, partially or completely, if antipsychotic treatment is discontinued.
+Antipsychotic treatment, itself, however, may suppress (or partially suppress) the signs and symptoms of the syndrome, possibly masking the underlying process.
 The effect that symptomatic suppression has upon the long-term course of the syndrome is unknown.
 
-Given these considerations, prescribe risperidone in a manner that is most likely to minimize the occurrence of tardive dyskinesia.
-Chronic antipsychotic treatment should generally be reserved for patients who suffer from a chronic illness that: (1) is known to respond to antipsychotic drugs, and (2) for whom alternative, equally effective, but potentially less harmful treatments are not available or appropriate.
-In patients who do require chronic treatment, the smallest dose and the shortest duration of treatment producing a satisfactory clinical response should be sought.
-The need for continued treatment should be reassessed periodically.
+Given these considerations, risperidone should be prescribed in a manner that is most likely to minimize the occurrence of tardive dyskinesia.
+Chronic antipsychotic treatment should generally be reserved for patients: (1) who suffer from a chronic illness that is known to respond to antipsychotic drugs, and (2) for whom alternative, equally effective, but potentially less harmful treatments are not available or appropriate.
+In patients who do require chronic treatment, use the lowest dose and the shortest duration of treatment producing a satisfactory clinical response.
+Periodically reassess the need for continued treatment.
 
-If signs and symptoms of tardive dyskinesia appear in a patient treated with risperidone, consider drug discontinuation.
+If signs and symptoms of tardive dyskinesia appear in a patient on risperidone, drug discontinuation should be considered.
 However, some patients may require treatment with risperidone despite the presence of the syndrome.
 
 ## 5.5 Metabolic Changes
@@ -231,9 +227,11 @@ Neither clinical studies nor epidemiologic studies conducted to date have shown 
 Risperidone may induce orthostatic hypotension associated with dizziness, tachycardia and in some patients, syncope, especially during the initial dose-titration period, probably reflecting its alpha-adrenergic antagonistic properties.
 Syncope was reported in 0.2% (6/2,607) of risperidone-treated patients in Phase 2 and 3 studies in adults with schizophrenia.
 The risk of orthostatic hypotension and syncope may be minimized by limiting the initial dose to 2 mg total (either once daily or 1 mg twice daily) in normal adults and 0.5 mg twice daily in the elderly and patients with renal or hepatic impairment [see Dosage and Administration (2.1, 2.4)].
+
 Monitoring of orthostatic vital signs should be considered in patients for whom this is of concern.
 A dose reduction should be considered if hypotension occurs.
-Risperidone should be used with particular caution in patients with known cardiovascular disease (history of myocardial infarction or ischemia, heart failure, or conduction abnormalities), cerebrovascular disease and conditions which would predispose patients to hypotension, e.g., dehydration and hypovolemia.
+Risperidone should be used with particular caution in patients with known cardiovascular disease (history of myocardial infarction or ischemia, heart failure, or conduction abnormalities), cerebrovascular disease and conditions which would predispose patients to hypotension, e.g., dehydration and hypovolemia, and in the elderly and patients with renal or hepatic impairment.
+Monitoring of orthostatic vital signs should be considered if hypotension occurs.
 Clinically significant hypotension has been observed with concomitant use of risperidone and antihypertensive medication.
 
 ## 5.8 Falls

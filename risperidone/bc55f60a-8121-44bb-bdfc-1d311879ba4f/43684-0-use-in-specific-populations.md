@@ -14,7 +14,7 @@ Overall, available data from published epidemiologic studies of pregnant women e
 There are risks to the mother associated with untreated schizophrenia or bipolar I disorder and with exposure to antipsychotics, including risperidone, during pregnancy (see Clinical Considerations).
 
 Oral administration of risperidone to pregnant mice caused cleft palate at doses 3 to 4 times the maximum recommended human dose (MRHD) with maternal toxicity observed at 4-times MRHD based on mg/m2 body surface area.
-Risperidone was not teratogenic in rats or rabbits at doses up to 6- times the MRHD based on mg/m2 body surface area.
+Risperidone was not teratogenic in rats or rabbits at doses up to 6-times the MRHD based on mg/m2 body surface area.
 Increased stillbirths and decreased birth weight occurred after oral risperidone administration to pregnant rats at 1.5-times the MRHD based on mg/m2 body surface area.
 Learning was impaired in offspring of rats when the dams were dosed at 0.6-times the MRHD and offspring mortality increased at doses 0.1 to 3 times the MRHD based on mg/m2 body surface area.
 

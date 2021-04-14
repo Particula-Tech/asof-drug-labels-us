@@ -46,9 +46,9 @@ Dose adjustment for digoxin is not recommended.
 
 ## 7.2 Pharmacodynamic-related Interactions
 
-Centrally-Acting Drugs and Alcohol
+Centrally Acting Drugs and Alcohol
 
-Given the primary CNS effects of risperidone, caution should be used when risperidone is taken in combination with other centrally-acting drugs and alcohol.
+Given the primary CNS effects of risperidone, caution should be used when risperidone is taken in combination with other centrally acting drugs and alcohol.
 
 Drugs with Hypotensive Effects
 
@@ -57,6 +57,11 @@ Because of its potential for inducing hypotension, risperidone may enhance the h
 Levodopa and Dopamine Agonists
 
 Risperidone may antagonize the effects of levodopa and dopamine agonists.
+
+Methylphenidate
+
+Concomitant use with methylphenidate, when there is change in dosage of either medication, may increase the risk of extrapyramidal symptoms (EPS).
+Monitor for symptoms of EPS with concomitant use of risperidone and methylphenidate [see Adverse Reactions (6.2)].
 
 Clozapine
 
