@@ -2,8 +2,9 @@
 
 ## 5.1 Central and Peripheral Nervous System Effects
 
-Convulsive seizures and peripheral neuropathy, the latter characterized mainly by numbness or paresthesia of an extremity, have been reported in patients treated with oral or intravenous metronidazole.
+Convulsive seizures, encephalopathy, aseptic meningitis, optic and peripheral neuropathy, the latter characterized mainly by numbness or paresthesia of an extremity, have been reported in patients treated with oral or intravenous metronidazole.
 NUVESSA should be administered with caution to patients with central nervous system diseases.
+Discontinue promptly if abnormal neurologic signs develop.
 
 ## 5.2 Carcinogenicity in Animals
 

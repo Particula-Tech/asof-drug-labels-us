@@ -4,16 +4,27 @@ Because clinical trials are conducted under widely varying conditions, adverse r
 
 ## 6.1 Clinical Trials Experience
 
+Clinical Trial Experience in Adult Subjects
+
 The safety of NUVESSA was evaluated in a randomized, double-blind, vehicle-controlled study in subjects with bacterial vaginosis.
 A total of 321 non-pregnant females with a mean age of 33.4 years (range 18 to 67 years) received NUVESSA.
 Subjects were primarily Black/African American (58.3%) or White (39.3%).
 Subjects administered a single dose of NUVESSA at bedtime on the first day of the study.
 
-There were no deaths or serious adverse events in this trial.
-Adverse events were reported by 19.0% of subjects treated with NUVESSA versus 16.1% of subjects treated with Vehicle Gel.
+There were no deaths or serious adverse reactions in this trial.
+Adverse reactions were reported by 19.0% of subjects treated with NUVESSA versus 16.1% of subjects treated with Vehicle Gel.
 
-Adverse events occurring in ≥1% of subjects receiving NUVESSA were: vulvovaginal candidiasis (5.6%), headache (2.2%), vulvovaginal pruritus (1.6%), nausea (1.6%), diarrhea (1.2%), and dysmenorrhea (1.2%).
-No subjects discontinued treatment due to adverse events.
+Adverse reactions occurring in ≥1% of subjects receiving NUVESSA were: vulvovaginal candidiasis (5.6%), headache (2.2%), vulvovaginal pruritus (1.6%), nausea (1.6%), diarrhea (1.2%), and dysmenorrhea (1.2%).
+No subjects discontinued treatment due to adverse reactions.
+
+Clinical Trial Experience in Pediatric Subjects
+
+The safety of NUVESSA was evaluated in a multicenter, open-label study evaluating the safety and tolerability of NUVESSA in 60 pediatric subjects between the ages of 12 and less than 18 years old all of whom were treated with a single dose of NUVESSA administered once at bedtime intravaginally.
+Most subjects in this study were either Black/African-American, non-Hispanic (47%) or Hispanic (35%).
+
+Safety in pediatric female subjects aged 12 to less than 18 years old was comparable to adult women.
+No deaths occurred and no subjects discontinued treatment due to adverse reactions.
+Adverse reactions occurring in ≥ 1% of pediatric subjects included: vulvovaginal discomfort (2%).
 
 ## 6.2 Other Metronidazole Formulations
 

@@ -1,6 +1,6 @@
 # 7 DRUG INTERACTIONS
 
-The intravaginal administration of a single dose ofNUVESSAresults in lower systemic exposure to metronidazole that is approximately 2% to 4% of that achieved following oral administration of 500 mg metronidazole tablets [see Clinical Pharmacology (12.3)].
+The intravaginal administration of a single dose of NUVESSA results in lower systemic exposure to metronidazole that is approximately 2% to 4% of that achieved following oral administration of 500 mg metronidazole tablets [see Clinical Pharmacology (12.3)].
 The following drug interactions were reported for oral metronidazole.
 
 ## 7.1 Disulfiram

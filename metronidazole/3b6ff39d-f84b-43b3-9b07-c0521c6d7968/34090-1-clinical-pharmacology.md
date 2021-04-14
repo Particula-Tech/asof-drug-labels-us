@@ -2,7 +2,7 @@
 
 ## 12.1 Mechanism of Action
 
-Metronidazole is an antimicrobial drug [see Clinical Pharmacology, Microbiology (12.4)].
+Metronidazole is an antimicrobial drug [see Microbiology (12.4)].
 
 ## 12.3 Pharmacokinetics
 
@@ -19,8 +19,7 @@ Metronidazole is a nitroimidazole antimicrobial agent that acts primarily agains
 The 5-nitro group on the metronidazole molecule is reduced by metabolically active anaerobes to its active state by the bacterial nitro-reductase enzyme after it diffuses into the bacterial cell.
 This results in the production of cytotoxic compounds that disrupt the helical structure of bacterial DNA thereby inhibiting bacterial nucleic acid synthesis which leads to cell death.
 
-Culture and sensitivity testing of bacteria are not routinely performed to establish the diagnosis of bacterial vaginosis.
-[see Clinical Studies (14)]
+Culture and sensitivity testing of bacteria are not routinely performed to establish the diagnosis of bacterial vaginosis [see Clinical Studies (14)].
 
 Metronidazole is active in vitro against most isolates of the following organisms that have been reported to be associated with bacterial vaginosis:
 

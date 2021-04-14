@@ -1,6 +1,6 @@
 # 13 NONCLINICAL TOXICOLOGY
 
-## 13.1 Carcinogenesis, Mutagenesis, Impairment of Fertility
+## 13.1 Carcinogenesis Mutagenesis, Impairment of Fertility
 
 Metronidazole has shown evidence of carcinogenic activity in a number of studies involving chronic oral administration in mice and rats.
 Pulmonary tumors were reported in several mouse studies in which mice were dosed orally at 75 mg/kg and above (about 6 or more times the maximum recommended human dose based on mg/m2).
