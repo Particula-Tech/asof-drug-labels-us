@@ -48,6 +48,9 @@ Do not use if particulates, cloudiness, or discoloration are visible, or if the 
 
 The intravitreal injection should be performed with a 30-gauge × ½-inch injection needle (not provided).
 
+The pre-filled syringe contains more than the recommended dose of 2 mg aflibercept (equivalent to 50 microliters).
+The excess volume must be discarded prior to the administration.
+
 PRE-FILLED SYRINGE DESCRIPTION – Figure 1:
 
 Use aseptic technique to carry out the following steps:
@@ -132,7 +135,8 @@ Prepare for intravitreal injection with the following medical devices for single
 6. Ensure that the plunger rod is drawn sufficiently back when emptying the vial in order to completely empty the filter needle.
 7. Remove the filter needle from the syringe and properly dispose of the filter needle.
    Note: Filter needle is not to be used for intravitreal injection.
-8. Remove the 30-gauge × ½-inch injection needle from its packaging and attach the injection needle to the syringe by firmly twisting the injection needle onto the Luer lock syringe tip (see Figure 10).Figure 10:
+8. Remove the 30-gauge × ½-inch injection needle from its packaging and attach the injection needle to the syringe by firmly twisting the injection needle onto the Luer lock syringe tip (see Figure 10).
+   Figure 10:
 9. When ready to administer EYLEA, remove the plastic needle shield from the needle.
 10. Holding the syringe with the needle pointing up, check the syringe for bubbles.
     If there are bubbles, gently tap the syringe with your finger until the bubbles rise to the top (see Figure 11).
@@ -144,6 +148,9 @@ Prepare for intravitreal injection with the following medical devices for single
 
 The intravitreal injection procedure should be carried out under controlled aseptic conditions, which include surgical hand disinfection and the use of sterile gloves, a sterile drape, and a sterile eyelid speculum (or equivalent).
 Adequate anesthesia and a topical broad–spectrum microbicide should be given prior to the injection.
+
+Note for the pre-filled syringe: A small residual volume may remain in the syringe after a full dose has been injected.
+This is normal.
 
 Immediately following the intravitreal injection, patients should be monitored for elevation in intraocular pressure.
 Appropriate monitoring may consist of a check for perfusion of the optic nerve head or tonometry.
