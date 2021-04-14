@@ -45,10 +45,10 @@ Distributed by:
 
 Sun Pharmaceutical Industries, Inc., Cranbury, NJ 08512
 
-© 2020, Sun Pharma Global FZE
+© 2021, Sun Pharma Global FZE
 
 All rights reserved
 
-12/2020
+02/2021
 
-lant-uspi-2020-Dec-0002
+lant-uspi-2021-Feb-0003
