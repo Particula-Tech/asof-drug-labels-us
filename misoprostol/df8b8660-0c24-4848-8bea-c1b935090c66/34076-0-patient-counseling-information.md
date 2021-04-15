@@ -55,9 +55,11 @@ Use of NSAIDS and Low-Dose Aspirin
 
 Inform patients not to use low-dose aspirin concomitantly with diclofenac sodium and misoprostol delayed-release tablets until they talk to their healthcare provider [see Drug Interactions (7)].
 
-Manufactured by: Actavis Laboratories FL, Inc. Fort Lauderdale, FL 33314 USA
+Manufactured By:
 
-Distributed by: Actavis Pharma, Inc. Parsippany, NJ 07054 USA
+Teva Pharmaceuticals USA, Inc.
+
+Parsippany, NJ 07054
 
 Rev.
-B 11/2020
+C 1/2021
