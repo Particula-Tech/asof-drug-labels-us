@@ -9,8 +9,9 @@ Advise patients of the following risks and potential risks with Fulphila:
 - •Serious allergic reactions [see Warnings and Precautions (5.3)]
 - •Sickle cell crisis [see Warnings and Precautions (5.4)]
 - •Glomerulonephritis [see Warnings and Precautions (5.5)]
-- •Capillary Leak Syndrome [see Warnings and Precautions (5.7)]
-- • Aortitis [see Warnings and Precautions (5.9)]
+- •Increased risk of Myelodysplastic Syndrome and/or Acute Myeloid Leukemia in patients with breast and lung cancer who receive pegfilgrastim in conjunction with chemotherapy and/or radiation therapy [see Warnings and Precautions (5.10)]
+- •Capillary Leak Syndrome [see Warnings and Precautions (5.8)]
+- •Aortitis [see Warnings and Precautions (5.11)]
 
 Instruct patients who self-administer Fulphila using the single-dose prefilled syringe of the:
 
