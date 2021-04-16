@@ -123,7 +123,7 @@ The relative risks of toxicity and efficacy failure are related to tacrolimus wh
 Therefore, monitoring of whole blood trough concentrations is recommended to assist in the clinical evaluation of toxicity and efficacy failure.
 
 Methods commonly used for the assay of tacrolimus include high-performance liquid chromatography with tandem mass spectrometric detection (HPLC/MS/MS) and immunoassays.
-Immunoassays may react with metabolites as well as the parent compound.
+Immunoassays may react with metabolites as well as parent compound.
 Therefore, assay results obtained with immunoassays may have a positive bias relative to results of HPLC/MS.
 The bias may depend upon the specific assay and laboratory.
 Comparison of the concentrations in published literature to patient concentrations using the current assays must be made with detailed knowledge of the assay methods and biological matrices employed.

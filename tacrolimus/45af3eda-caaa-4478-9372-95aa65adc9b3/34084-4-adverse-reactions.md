@@ -163,7 +163,7 @@ The 12-month post-transplant information from the U.S. trial and from the Europe
 The two trials also included different patient populations and patients were treated with immunosuppressive regimens of differing intensities.
 Adverse reactions reported in ≥ 15% in tacrolimus patients (combined trial results) are presented below for the two controlled trials in liver transplantation.
 
-The most common adverse reactions (≥ 38%) observed in tacrolimus-treated liver transplant patients are: tremor, headache, diarrhea, hypertension, nausea, abnormal renal function, abdominal pain, insomnia, paresthesia, anemia, pain, fever, asthenia, hyperkalemia, hypomagnesemia, and hyperglycemia.
+The most common adverse reactions (≥ 40%) observed in tacrolimus-treated liver transplant patients are: tremor, headache, diarrhea, hypertension, nausea, abnormal renal function, abdominal pain, insomnia, paresthesia, anemia, pain, fever, asthenia, hyperkalemia, hypomagnesemia, and hyperglycemia.
 These all occur with oral and IV administration of tacrolimus and some may respond to a reduction in dosing (e.g., tremor, headache, paresthesia, hypertension).
 Diarrhea was sometimes associated with other gastrointestinal complaints such as nausea and vomiting.
 Based on reported adverse reaction terms related to decreased renal function, nephrotoxicity was reported in approximately 40% and 36% of liver transplantation patients receiving tacrolimus in the U.S. and European randomized trials.

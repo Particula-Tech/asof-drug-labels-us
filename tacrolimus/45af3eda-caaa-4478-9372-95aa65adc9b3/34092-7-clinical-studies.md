@@ -89,9 +89,8 @@ There was, however, an imbalance in mortality at 12 months in those patients rec
 Table 24.
 Incidence of BPAR, Graft Loss, Death, or Loss to Follow-up at 12 Months (Study 2)
 
-|  | Tacrolimus/MMF | Cyclosporine/MMF |
+|  | Tacrolimus/MMF(N = 212) | Cyclosporine/MMF(N = 212) |
 | --- | --- | --- |
-| (N = 212) | (N = 212) |  |
 | Overall Failure | 32 (15.1%) | 36 (17.0%) |
 | Components of efficacy failure |  |  |
 | BPAR | 16 (7.5%) | 29 (13.7%) |

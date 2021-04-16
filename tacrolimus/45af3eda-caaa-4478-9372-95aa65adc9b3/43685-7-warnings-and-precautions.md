@@ -5,7 +5,7 @@
 Patients receiving immunosuppressants, including tacrolimus, are at increased risk of developing lymphomas and other malignancies, particularly of the skin [see Boxed Warning].
 The risk appears to be related to the intensity and duration of immunosuppression rather than to the use of any specific agent.
 
-As usual for patients with increased risk for skin cancer, examine patients for skin changes; exposure to sunlight and UV light should be limited by wearing protective clothing and using a broad-spectrum sunscreen with a high protection factor.
+As usual for patients with increased risk for skin cancer, examine patients for skin changes; exposure to sunlight and UV light should be limited by wearing protective clothing and using a broad spectrum sunscreen with a high protection factor.
 
 Post-transplant lymphoproliferative disorder (PTLD) has been reported in immunosuppressed organ transplant recipients.
 The majority of PTLD events appear related to Epstein-Barr Virus (EBV) infection.
@@ -24,7 +24,7 @@ Serious viral infections reported include:
 
 Monitor for the development of infection and adjust the immunosuppressive regimen to balance the risk of rejection with the risk of infection [see Adverse Reactions (6.1, 6.2)].
 
-## 5.3 Not Interchangeable With Extended-Release Tacrolimus Products - Medication Errors
+## 5.3 Not Interchangeable with Extended-Release Tacrolimus Products - Medication Errors
 
 Medication errors, including substitution and dispensing errors, between tacrolimus immediate-release products and tacrolimus extended-release products were reported outside the U.S. This led to serious adverse reactions, including graft rejection, or other adverse reactions due to under-or overexposure to tacrolimus.
 Tacrolimus capsules are not interchangeable or substitutable for tacrolimus extended-release products.
@@ -81,7 +81,9 @@ Tacrolimus is not recommended for use with sirolimus:
 
 ## 5.11 Interactions with CYP3A4 Inhibitors and Inducers
 
-When co-administering tacrolimus with strong CYP3A4 inhibitors (e.g., telaprevir, boceprevir, ritonavir, ketoconazole, itraconazole, voriconazole, clarithromycin) and strong inducers (e.g., rifampin, rifabutin), adjustments in the dosing regimen of tacrolimus and subsequent frequent monitoring of tacrolimus whole blood trough concentrations and tacrolimus-associated adverse reactions are recommended [see Drug Interactions (7)].
+When co-administering tacrolimus with strong CYP3A4 inhibitors (e.g., telaprevir, boceprevir, ritonavir, ketoconazole, itraconazole, voriconazole, clarithromycin) and strong inducers (e.g., rifampin, rifabutin), adjustments in the dosing regimen of tacrolimus and subsequent frequent monitoring of tacrolimus whole blood trough concentrations and tacrolimus-associated adverse reactions are recommended.
+A rapid, sharp rise in tacrolimus levels has been reported after co-administration with a strong CYP3A4 inhibitor, clarithromycin, despite an initial reduction of tacrolimus dose.
+Early and frequent monitoring of tacrolimus whole blood trough levels is recommended [see Drug Interactions (7.2)].
 
 ## 5.12 QT Prolongation
 
@@ -90,7 +92,7 @@ Avoid tacrolimus in patients with congenital long QT syndrome.
 In patients with congestive heart failure, bradyarrhythmias, those taking certain antiarrhythmic medications or other medicinal products that lead to QT prolongation, and those with electrolyte disturbances such as hypokalemia, hypocalcemia, or hypomagnesemia, consider obtaining electrocardiograms and monitoring electrolytes (magnesium, potassium, calcium) periodically during treatment.
 
 When co-administering tacrolimus with other substrates and/or inhibitors of CYP3A4 that also have the potential to prolong the QT interval, a reduction in tacrolimus dose, frequent monitoring of tacrolimus whole blood concentrations, and monitoring for QT prolongation is recommended.
-Use of tacrolimus with amiodarone has been reported to result in increased tacrolimus whole blood concentrations with or without concurrent QT prolongation [see Drug Interactions (7)].
+Use of tacrolimus with amiodarone has been reported to result in increased tacrolimus whole blood concentrations with or without concurrent QT prolongation [see Drug Interactions (7.2)].
 
 ## 5.13 Myocardial Hypertrophy
 

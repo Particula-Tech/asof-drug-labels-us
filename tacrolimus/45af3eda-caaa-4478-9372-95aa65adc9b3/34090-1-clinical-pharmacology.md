@@ -148,7 +148,7 @@ The mean clearance was substantially lower in patients with severe hepatic dysfu
 
 The pharmacokinetics of tacrolimus have been studied following single IV and oral administration of tacrolimus to 10 African-American, 12 Latino-American, and 12 Caucasian healthy volunteers.
 There were no significant pharmacokinetic differences among the three ethnic groups following a 4-hour IV infusion of 0.015 mg/kg.
-However, after single oral administration of 5 mg, mean (± SD) tacrolimus Cmax in African-Americans (23.6 ± 12.1 ng/mL) was significantly lower than in Caucasians (40.2 ± 12.6 ng/mL) and Latino-Americans (36.2 ± 15.8 ng/mL) (p < 0.01).
+However, after single oral administration of 5 mg, mean (± SD) tacrolimus Cmax in African-Americans (23.6 ± 12.1 ng/mL) was significantly lower than in Caucasians (40.2 ± 12.6 ng/mL) and the Latino-Americans (36.2 ± 15.8 ng/mL) (p < 0.01).
 Mean AUC0-inf tended to be lower in African-Americans (203 ± 115 ng•hr/mL) than Caucasians (344 ± 186 ng•hr/mL) and Latino-Americans (274 ± 150 ng•hr/mL).
 The mean (± SD) absolute oral bioavailability (F) in African-Americans (12 ± 4.5%) and Latino-Americans (14 ± 7.4%) was significantly lower than in Caucasians (19 ± 5.8%, p = 0.011).
 There was no significant difference in mean terminal T1/2 among the three ethnic groups (range from approximately 25 to 30 hours).
