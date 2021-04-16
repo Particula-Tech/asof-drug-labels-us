@@ -1,0 +1,20 @@
+{
+  "application_numbers": [
+    "ANDA203767"
+  ],
+  "inn": "travoprost",
+  "labeler": "Micro Labs Limited",
+  "package_ndcs": [
+    "42571-130-21",
+    "42571-130-27"
+  ],
+  "products": [
+    {
+      "form": "SOLUTION",
+      "generic": "travoprost ophthalmic solution",
+      "name": "Travoprost Ophthalmic"
+    }
+  ],
+  "setid": "39c8f172-9dc6-4adf-8e7f-4d1cb6940926",
+  "source": "dailymed"
+}
