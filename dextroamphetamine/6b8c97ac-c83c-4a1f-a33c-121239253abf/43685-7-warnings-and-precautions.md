@@ -217,8 +217,6 @@ Mutagenicity studies and long-term studies in animals to determine the carcinoge
 
 ### Teratogenic Effects
 
-#### Pregnancy Category C
-
 Dextroamphetamine has been shown to have embryotoxic and teratogenic effects when administered to A/Jax mice and C57BL mice in doses approximately 41 times the maximum human dose.
 Embryotoxic effects were not seen in New Zealand white rabbits given the drug in doses 7 times the human dose nor in rats given 12.5 times the maximum human dose.
 While there are no adequate and well-controlled studies in pregnant women, there has been one report of severe congenital bony deformity, tracheoesophageal fistula, and anal atresia (Vater association) in a baby born to a woman who took dextroamphetamine sulfate with lovastatin during the first trimester of pregnancy.

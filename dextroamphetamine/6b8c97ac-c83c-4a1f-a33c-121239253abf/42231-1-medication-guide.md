@@ -172,9 +172,7 @@ The 10 mg tablets contain FD&C Red #40, FD&C Yellow #6 and FD&C Blue #2.
 
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
 
-Manufactured by Mikart Inc. Atlanta, GA 30318 for Wilshire Pharmaceuticals, Inc., Atlanta, GA 30328
-
-Code 1029A00
+Manufactured for Wilshire Pharmaceuticals, Inc., Atlanta, GA 30328
 
 Rev.
-02/17
+01/21 DEX-MG-07
