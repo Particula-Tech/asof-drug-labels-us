@@ -10,7 +10,7 @@ Advise patients to inform their physician if they experience changes in vision w
 
 Serotonin Syndrome
 
-Advise patients to inform their physician if taking serotonin re-uptake inhibitors or other antidepressants [see Warnings and Precautions (5.3)].
+Advise patients to inform their physician if taking serotonergic agents, including serotonin re-uptake inhibitors or other antidepressants and opioids [see Warnings and Precautions (5.3)].
 
 Potential Interactions Producing Elevation of Blood Pressure
 
