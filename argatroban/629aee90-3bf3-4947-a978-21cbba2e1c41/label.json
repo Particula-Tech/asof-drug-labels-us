@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "ANDA214235"
+  ],
+  "inn": "argatroban",
+  "labeler": "Sagent Pharmaceuticals",
+  "package_ndcs": [
+    "25021-414-50"
+  ],
+  "products": [
+    {
+      "form": "INJECTION, SOLUTION",
+      "generic": "argatroban",
+      "name": "Argatroban"
+    }
+  ],
+  "setid": "629aee90-3bf3-4947-a978-21cbba2e1c41",
+  "source": "dailymed"
+}
