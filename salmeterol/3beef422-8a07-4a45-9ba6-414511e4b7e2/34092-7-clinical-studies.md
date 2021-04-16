@@ -88,6 +88,40 @@ In subjects receiving fluticasone propionate and salmeterol inhalation powder 10
 
 The findings of this trial, along with extrapolation of efficacy data from subjects aged 12 years and older, support the overall conclusion that fluticasone propionate and salmeterol inhalation powder 100 mcg/50 mcg is efficacious in the treatment of asthma in subjects aged 4 to 11 years.
 
+##### Safety and Efficacy Trials Comparing Fluticasone Propionate and Salmeterol Inhalation Powder with Fluticasone Propionate
+
+Serious Asthma-Related Events
+
+Two 26-week, randomized, double-blind, parallel-group, active comparator trials were conducted to compare the safety and efficacy of fluticasone propionate and salmeterol inhalation powder with fluticasone propionate inhalation powder in adult and adolescent subjects (Trial 4, NCT01475721) and in pediatric subjects aged 4 to 11 years (Trial 5, NCT01462344).
+The primary safety objective of both trials was to evaluate whether the addition of salmeterol xinafoate to fluticasone propionate therapy (fluticasone propionate and salmeterol inhalation powder) was non-inferior to ICS fluticasone propionate in terms of the risk of a serious asthma-related event (hospitalization, endotracheal intubation, and death).
+The trials were designed to rule out pre-defined risk margins for serious asthma-related events of 2.0 for Trial 4 and 2.7 for Trial 5.
+A blinded adjudication committee determined whether events were asthma related.
+
+Trial 4 enrolled subjects with moderate to severe persistent asthma with a history of asthma-related hospitalization or at least 1 asthma exacerbation in the previous year treated with systemic corticosteroids.
+A total of 11,679 adult and adolescent subjects [5,834 receiving fluticasone propionate and salmeterol inhalation powder 100 mcg/50 mcg, fluticasone propionate and salmeterol inhalation powder 250 mcg/50 mcg, or fluticasone propionate and salmeterol inhalation powder 500 mcg/50 mcg and 5,845 receiving fluticasone propionate inhalation powder (100, 250, or 500 mcg)] were included.
+Trial 5 enrolled subjects with a diagnosis of asthma and a history of at least 1 asthma exacerbation in the previous year treated with systemic corticosteroid.
+A total of 6,208 subjects aged 4 to 11 years [3,107 receiving fluticasone propionate and salmeterol inhalation powder 100 mcg/50 mcg or fluticasone propionate and salmeterol inhalation powder 250 mcg/50 mcg and 3,101 receiving fluticasone propionate inhalation powder (100 or 250 mcg)] were included.
+In both trials, subjects with life-threatening asthma were excluded.
+In Trials 4 and 5, fluticasone propionate and salmeterol inhalation powder was non-inferior to fluticasone propionate in terms of time to first serious asthma-related events based on the pre-specified risk margins, with estimated hazard ratios of 1.03 (95% CI: 0.64, 1.66) and 1.29 (95% CI: 0.73, 2.27), respectively (Table 6).
+
+Table 6.
+Serious Asthma-Related Events in the 26-Week Trials 4 and 5
+
+|  | Adult and Adolescent SubjectsAged 12 Years and Older(Trial 4) |  | Pediatric SubjectsAged 4 to 11 Years(Trial 5) |  |
+| --- | --- | --- | --- | --- |
+|  | FluticasonePropionateand Salmeterol Inhalation Powder(n = 5,834) | FluticasonePropionateInhalationPowder(n = 5,845) | FluticasonePropionateand Salmeterol Inhalation Powder(n = 3,107) | FluticasonePropionateInhalationPowder(n = 3,101) |
+| Serious asthma-related event (hospitalization, endotracheal intubation,and death)Number of subjects with event that occurred within 6 months after the first use of study drug or 7 days after the last date of study drug treatment, whichever date was later. Subjects can have one or more events, but only the first event was counted for analysis. A blinded adjudication committee determined whether events were asthma related. | 34 (0.6%) | 33 (0.6%) | 27 (0.9%) | 21 (0.7%) |
+| Hazard ratio (fluticasone propionate and salmeterol inhalation powder/ fluticasone propionate) | 1.03(0.64-1.66)The hazard ratio for time to first event was based on a Cox proportional hazards model with a single covariate of treatment (fluticasone propionate and salmeterol inhalation powder vs. fluticasone propionate) and baseline hazards stratified by incoming asthma medication/asthma control status. If the resulting upper 95% CI estimate for the relative risk was < 2.0 (Trial 4) or < 2.7 (Trial 5), then non-inferiority was concluded. |  | 1.29(0.73-2.27) |  |
+| Asthma-related death | 0 | 0 | 0 | 0 |
+| Asthma-related intubation (endotracheal) | 0 | 2 | 0 | 0 |
+| Asthma-related hospitalization (≥ 24-hour stay) | 34 | 33 | 27 | 21 |
+
+Effect on Exacerbation
+
+Trials 4 and 5 included time to first exacerbation as a secondary endpoint, where exacerbation was defined as a deterioration of asthma requiring the use of systemic corticosteroids for at least 3 days or an in-patient hospitalization or emergency department visit due to asthma that required systemic corticosteroids.
+In Trials 4 and 5, the hazard ratio for the time to first asthma exacerbation for fluticasone propionate and salmeterol inhalation powder relative to fluticasone propionate inhalation powder was 0.79 (95% CI: 0.70, 0.89) and 0.86 (95% CI: 0.73, 1.01), respectively.
+The difference in exacerbations was primarily driven by a reduction in those requiring systemic corticosteroids only.
+
 ## 14.2 Chronic Obstructive Pulmonary Disease
 
 The efficacy of fluticasone propionate and salmeterol inhalation powder 250 mcg/50 mcg and fluticasone propionate and salmeterol inhalation powder 500 mcg/50 mcg in the treatment of subjects with COPD was evaluated in 6 randomized, double-blind, parallel-group clinical trials in adult subjects aged 40 years and older.

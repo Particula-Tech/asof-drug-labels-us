@@ -2,8 +2,8 @@
 
 No human overdosage data has been reported for fluticasone propionate and salmeterol inhalation powder.
 
-Wixela™ Inhub™ contains both fluticasone propionate and salmeterol; therefore, the risks associated with overdosage for the individual components described below apply to Wixela™ Inhub™.
-Treatment of overdosage consists of discontinuation of Wixela™ Inhub™ together with institution of appropriate symptomatic and/or supportive therapy.
+Wixela Inhub® contains both fluticasone propionate and salmeterol; therefore, the risks associated with overdosage for the individual components described below apply to Wixela Inhub®.
+Treatment of overdosage consists of discontinuation of Wixela Inhub® together with institution of appropriate symptomatic and/or supportive therapy.
 The judicious use of a cardioselective beta-receptor blocker may be considered, bearing in mind that such medication can produce bronchospasm.
 Cardiac monitoring is recommended in cases of overdosage.
 

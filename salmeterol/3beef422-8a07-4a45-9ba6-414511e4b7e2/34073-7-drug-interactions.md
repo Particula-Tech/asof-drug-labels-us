@@ -5,8 +5,8 @@ No formal drug interaction trials have been performed with fluticasone propionat
 
 ## 7.1 Inhibitors of Cytochrome P450 3A4
 
-Fluticasone propionate and salmeterol, the individual components of Wixela™ Inhub™, are substrates of CYP3A4.
-The use of strong CYP3A4 inhibitors (e.g., ritonavir, atazanavir, clarithromycin, indinavir, itraconazole, nefazodone, nelfinavir, saquinavir, ketoconazole, telithromycin) with Wixela™ Inhub™ is not recommended because increased systemic corticosteroid and increased cardiovascular adverse effects may occur.
+Fluticasone propionate and salmeterol, the individual components of Wixela Inhub®, are substrates of CYP3A4.
+The use of strong CYP3A4 inhibitors (e.g., ritonavir, atazanavir, clarithromycin, indinavir, itraconazole, nefazodone, nelfinavir, saquinavir, ketoconazole, telithromycin) with Wixela Inhub® is not recommended because increased systemic corticosteroid and increased cardiovascular adverse effects may occur.
 
 ### Ritonavir
 
@@ -29,15 +29,15 @@ Although there was no statistical effect on the mean QTc, coadministration of sa
 
 ## 7.2 Monoamine Oxidase Inhibitors and Tricyclic Antidepressants
 
-Wixela™ Inhub™ should be administered with extreme caution to patients being treated with monoamine oxidase inhibitors or tricyclic antidepressants, or within 2 weeks of discontinuation of such agents, because the action of salmeterol, a component of Wixela™ Inhub™, on the vascular system may be potentiated by these agents.
+Wixela Inhub® should be administered with extreme caution to patients being treated with monoamine oxidase inhibitors or tricyclic antidepressants, or within 2 weeks of discontinuation of such agents, because the action of salmeterol, a component of Wixela Inhub®, on the vascular system may be potentiated by these agents.
 
 ## 7.3 Beta-adrenergic Receptor Blocking Agents
 
-Beta-blockers not only block the pulmonary effect of beta-agonists, such as salmeterol, a component of Wixela™ Inhub™, but may also produce severe bronchospasm in patients with asthma or COPD.
+Beta-blockers not only block the pulmonary effect of beta-agonists, such as salmeterol, a component of Wixela Inhub®, but may also produce severe bronchospasm in patients with asthma or COPD.
 Therefore, patients with asthma or COPD should not normally be treated with beta-blockers.
 However, under certain circumstances, there may be no acceptable alternatives to the use of beta-adrenergic blocking agents for these patients; cardioselective beta-blockers could be considered, although they should be administered with caution.
 
 ## 7.4 Non–Potassium-Sparing Diuretics
 
-The ECG changes and/or hypokalemia that may result from the administration of non–potassium-sparing diuretics (such as loop or thiazide diuretics) can be acutely worsened by beta-agonists, such as salmeterol, a component of Wixela™ Inhub™, especially when the recommended dose of the beta-agonist is exceeded.
-Although the clinical significance of these effects is not known, caution is advised in the coadministration of Wixela™ Inhub™ with non–potassium-sparing diuretics.
+The ECG changes and/or hypokalemia that may result from the administration of non–potassium-sparing diuretics (such as loop or thiazide diuretics) can be acutely worsened by beta-agonists, such as salmeterol, a component of Wixela Inhub®, especially when the recommended dose of the beta-agonist is exceeded.
+Although the clinical significance of these effects is not known, caution is advised in the coadministration of Wixela Inhub® with non–potassium-sparing diuretics.

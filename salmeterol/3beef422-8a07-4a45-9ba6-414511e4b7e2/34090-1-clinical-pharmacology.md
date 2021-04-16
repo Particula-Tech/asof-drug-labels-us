@@ -2,10 +2,10 @@
 
 ## 12.1 Mechanism of Action
 
-### WIXELA™ INHUB™
+### WIXELA INHUB®
 
-Wixela™ Inhub™ contains both fluticasone propionate and salmeterol.
-The mechanisms of action described below for the individual components apply to Wixela™ Inhub™.
+Wixela Inhub® contains both fluticasone propionate and salmeterol.
+The mechanisms of action described below for the individual components apply to Wixela Inhub®.
 These drugs represent 2 different classes of medications (a synthetic corticosteroid and a LABA) that have different effects on clinical, physiologic, and inflammatory indices.
 
 #### Fluticasone Propionate
@@ -21,7 +21,7 @@ These anti-inflammatory actions of corticosteroids contribute to their efficacy 
 
 Inflammation is also a component in the pathogenesis of COPD.
 In contrast to asthma, however, the predominant inflammatory cells in COPD include neutrophils, CD8+ T-lymphocytes, and macrophages.
-The effects of corticosteroids in the treatment of COPD are not well defined and ICS and fluticasone propionate when used apart from Wixela™ Inhub™ are not indicated for the treatment of COPD.
+The effects of corticosteroids in the treatment of COPD are not well defined and ICS and fluticasone propionate when used apart from Wixela Inhub® are not indicated for the treatment of COPD.
 
 #### Salmeterol Xinafoate
 
@@ -143,7 +143,7 @@ The effects of rising inhaled doses of salmeterol and standard inhaled doses of 
 Salmeterol doses up to 84 mcg administered as inhalation aerosol resulted in heart rate increases of 3 to 16 beats/min, about the same as albuterol dosed at 180 mcg by inhalation aerosol (4 to 10 beats/min).
 Adult and adolescent subjects receiving 50 mcg doses of salmeterol inhalation powder (N = 60) underwent continuous electrocardiographic monitoring during two 12-hour periods after the first dose and after 1 month of therapy, and no clinically significant dysrhythmias were noted.
 
-### Concomitant Use of Wixela™ Inhub™ with Other Respiratory Medicines
+### Concomitant Use of Wixela Inhub® with Other Respiratory Medicines
 
 #### Short-acting Beta2-agonists
 

@@ -24,7 +24,7 @@ Pregnant women should be closely monitored and medication adjusted as necessary 
 #### Labor and Delivery
 
 There are no human studies evaluating the effects of fluticasone propionate and salmeterol inhalation powder during labor and delivery.
-Because of the potential for beta-agonist interference with uterine contractility, use of Wixela™ Inhub™ during labor should be restricted to those patients in whom the benefits clearly outweigh the risks.
+Because of the potential for beta-agonist interference with uterine contractility, use of Wixela Inhub® during labor should be restricted to those patients in whom the benefits clearly outweigh the risks.
 
 ### Data
 
@@ -87,7 +87,7 @@ Salmeterol xinafoate crossed the placenta following oral administration to mice 
 There are no available data on the presence of fluticasone propionate or salmeterol in human milk, the effects on the breastfed child, or the effects on milk production.
 Other corticosteroids have been detected in human milk.
 However, fluticasone propionate and salmeterol concentrations in plasma after inhaled therapeutic doses are low and therefore concentrations in human breast milk are likely to be correspondingly low [see Clinical Pharmacology (12.3)].
-The developmental and health benefits of breastfeeding should be considered along with the mother’s clinical need for Wixela™ Inhub™ and any potential adverse effects on the breastfed child from Wixela™ Inhub™ or from the underlying maternal condition.
+The developmental and health benefits of breastfeeding should be considered along with the mother’s clinical need for Wixela Inhub® and any potential adverse effects on the breastfed child from Wixela Inhub® or from the underlying maternal condition.
 
 ### Data
 
@@ -101,8 +101,8 @@ Oral administration of salmeterol at a dose of 10,000 mcg/kg/day to lactating ra
 Use of fluticasone propionate and salmeterol inhalation powder 100 mcg/50 mcg in patients aged 4 to 11 years is supported by extrapolation of efficacy data from older subjects and by safety and efficacy data from a trial of fluticasone propionate and salmeterol inhalation powder 100 mcg/50 mcg in children with asthma aged 4 to 11 years [see Adverse Reactions (6.1), Clinical Pharmacology (12.3), Clinical Studies (14.1)].
 The safety and effectiveness of fluticasone propionate and salmeterol inhalation powder in children with asthma younger than 4 years have not been established.
 
-ICS, including fluticasone propionate, a component of Wixela™ Inhub™, may cause a reduction in growth velocity in children and adolescents [see Warnings and Precautions (5.14)].
-The growth of pediatric patients receiving orally inhaled corticosteroids, including Wixela™ Inhub™, should be monitored.
+ICS, including fluticasone propionate, a component of Wixela Inhub®, may cause a reduction in growth velocity in children and adolescents [see Warnings and Precautions (5.14)].
+The growth of pediatric patients receiving orally inhaled corticosteroids, including Wixela Inhub®, should be monitored.
 
 A 52-week placebo-controlled trial to assess the potential growth effects of fluticasone propionate inhalation powder (FLOVENT® ROTADISK®) at 50 and 100 mcg twice daily was conducted in the U.S. in 325 prepubescent children (244 males and 81 females) aged 4 to 11 years.
 The mean growth velocities at 52 weeks observed in the intent-to-treat population were 6.32 cm/year in the placebo group (n = 76), 6.07 cm/year in the 50 mcg group (n = 98), and 5.66 cm/year in the 100 mcg group (n = 89).
@@ -113,7 +113,7 @@ The clinical relevance of these growth data is not certain.
 
 If a child or adolescent on any corticosteroid appears to have growth suppression, the possibility that he/she is particularly sensitive to this effect of corticosteroids should be considered.
 The potential growth effects of prolonged treatment should be weighed against the clinical benefits obtained.
-To minimize the systemic effects of orally inhaled corticosteroids, including Wixela™ Inhub™, each patient should be titrated to the lowest strength that effectively controls his/her asthma [see Dosage and Administration (2.1)].
+To minimize the systemic effects of orally inhaled corticosteroids, including Wixela Inhub®, each patient should be titrated to the lowest strength that effectively controls his/her asthma [see Dosage and Administration (2.1)].
 
 ## 8.5 Geriatric Use
 
@@ -123,8 +123,8 @@ Of the total number of subjects in clinical trials receiving fluticasone propion
 Subjects with COPD aged 65 years and older had a higher incidence of serious adverse events compared with subjects younger than 65 years.
 Although the distribution of adverse events was similar in the 2 age groups, subjects older than 65 years experienced more severe events.
 In two 1-year trials, the excess risk of pneumonia that was seen in subjects treated with fluticasone propionate and salmeterol inhalation powder compared with those treated with salmeterol was greater in subjects older than 65 years than in subjects younger than 65 years [see Adverse Reactions (6.2)].
-As with other products containing beta2-agonists, special caution should be observed when using Wixela™ Inhub™ in geriatric patients who have concomitant cardiovascular disease that could be adversely affected by beta2-agonists.
-Based on available data for fluticasone propionate and salmeterol inhalation powder or its active components, no adjustment of dosage of Wixela™ Inhub™ in geriatric patients is warranted.
+As with other products containing beta2-agonists, special caution should be observed when using Wixela Inhub® in geriatric patients who have concomitant cardiovascular disease that could be adversely affected by beta2-agonists.
+Based on available data for fluticasone propionate and salmeterol inhalation powder or its active components, no adjustment of dosage of Wixela Inhub® in geriatric patients is warranted.
 
 No relationship between fluticasone propionate systemic exposure and age was observed in 57 subjects with COPD (aged 40 to 82 years) given 250 or 500 mcg twice daily.
 
