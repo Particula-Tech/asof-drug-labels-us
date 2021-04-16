@@ -43,5 +43,5 @@ Stamford, CT 06901-3431 A subsidiary of Purdue Pharma L.P.
 Manufactured by: Purdue Pharmaceuticals L.P.
 Wilson, NC 27893
 
-ADHANSIA XR™ is a trademark of Purdue Pharma L.P.
-U.S. Patent Numbers: 9,974,752, 10,111,839, 10,292,938 and 10,292,939
+ADHANSIA XR® is a trademark of Purdue Pharma L.P.
+U.S. Patent Numbers: 9,974,752, 10,111,839, 10,292,938, 10,292,939, 10,449,159, 10,500,162, 10,507,186, 10,512,612, 10,512,613, 10,568,841, 10,688,060 and 10,722,473
