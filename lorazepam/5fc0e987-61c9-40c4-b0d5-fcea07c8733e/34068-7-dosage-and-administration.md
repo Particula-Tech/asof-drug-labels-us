@@ -46,7 +46,7 @@ The safety of ATIVAN in pediatric patients has not been established.
 ### INTRAMUSCULAR INJECTION
 
 For the designated indications as a premedicant, the usual recommended dose of lorazepam for intramuscular injection is 0.05 mg/kg up to a maximum of 4 mg.
-As with all premedicant drugs, the dose should be individualized (see also CLINICAL PHARMACOLOGY, WARNINGS, PRECAUTIONS, and ADVERSE REACTIONS).
+As with all premedicant drugs, the dose should be individualized (see CLINICAL PHARMACOLOGY, WARNINGS, PRECAUTIONS, and ADVERSE REACTIONS).
 Doses of other central-nervous-system-depressant drugs ordinarily should be reduced (see PRECAUTIONS).
 For optimum effect, measured as lack of recall, intramuscular lorazepam should be administered at least 2 hours before the anticipated operative procedure.
 Narcotic analgesics should be administered at their usual preoperative time.
@@ -72,7 +72,7 @@ No dosage adjustments are needed in elderly patients and in patients with hepati
 ### PATIENTS WITH RENAL DISEASE
 
 For acute dose administration, adjustment is not needed for patients with renal disease.
-However, in patients with renal disease, caution should be exercised if frequent doses are given over relatively short periods of time (see also CLINICAL PHARMACOLOGY).
+However, in patients with renal disease, caution should be exercised if frequent doses are given over relatively short periods of time (see CLINICAL PHARMACOLOGY).
 
 ### DOSE ADJUSTMENT DUE TO DRUG INTERACTIONS
 
