@@ -8,9 +8,12 @@ The following clinically significant adverse reactions are discussed in greater 
 - Use in Patients with Sickle Cell Disorders [see Warnings and Precautions (5.4)]
 - Glomerulonephritis [see Warnings and Precautions (5.5)]
 - Leukocytosis [see Warnings and Precautions (5.6)]
-- Capillary Leak Syndrome [see Warnings and Precautions (5.7)]
-- Potential for Tumor Growth Stimulatory Effects on Malignant Cells [see Warnings and Precautions (5.8)]
-- Aortitis [see Warnings and Precautions (5.9)]
+- Thrombocytopenia [see Warnings and Precautions (5.7)]
+- Capillary Leak Syndrome [see Warnings and Precautions (5.8)]
+- Potential for Tumor Growth Stimulatory Effects on Malignant Cells [see Warnings and Precautions (5.9)]
+- Myelodysplastic Syndrome [see Warnings and Precautions (5.10)]
+- Acute Myeloid Leukemia [see Warnings and Precautions (5.10)]
+- Aortitis [see Warnings and Precautions (5.11)]
 
 ## 6.1 Clinical Trials Experience
 
@@ -25,7 +28,7 @@ Most patients received a single 100 mcg/kg (n = 259) or a single 6 mg (n = 546) 
 The following adverse reaction data in Table 2 are from a randomized, double-blind, placebo-controlled study in patients with metastatic or non-metastatic breast cancer receiving docetaxel 100 mg/m2 every 21 days (Study 3).
 A total of 928 patients were randomized to receive either 6 mg pegfilgrastim (n = 467) or placebo (n = 461).
 The patients were 21 to 88 years of age and 99% female.
-The ethnicity was 66% Caucasian, 31% Hispanic, 2% Black, and <1% Asian, Native American, or Other.
+The ethnicity was 66% Caucasian, 31% Hispanic, 2% Black, and <1% Asian, Native American, or other.
 
 The most common adverse reactions occurring in ≥5% of patients and with a between-group difference of ≥5% higher in the pegfilgrastim arm in placebo-controlled clinical trials are bone pain and pain in extremity.
 
@@ -67,8 +70,10 @@ Because these reactions are reported voluntarily from a population of uncertain 
 - Sickle cell crisis [see Warnings and Precautions (5.4)]
 - Glomerulonephritis [see Warnings and Precautions (5.5)]
 - Leukocytosis [see Warnings and Precautions (5.6)]
-- Capillary Leak Syndrome [see Warnings and Precautions (5.7)]
+- Thrombocytopenia [see Warnings and Precautions (5.7)]
+- Capillary Leak Syndrome [see Warnings and Precautions (5.8)]
 - Injection site reactions
 - Sweet's syndrome (acute febrile neutrophilic dermatosis), cutaneous vasculitis
-- Aortitis [see Warnings and Precautions (5.9)]
+- Myelodysplastic syndrome (MDS) and acute myeloid leukemia (AML) in patients with breast and lung cancer receiving chemotherapy and/or radiotherapy [see Warnings and Precautions (5.10)]
+- Aortitis [see Warnings and Precautions (5.11)]
 - Alveolar hemorrhage

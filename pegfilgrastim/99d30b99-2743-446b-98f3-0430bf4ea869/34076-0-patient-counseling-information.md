@@ -9,6 +9,7 @@ Advise patients of the following risks and potential risks with NYVEPRIA:
 - Serious allergic reactions
 - Sickle cell crisis
 - Glomerulonephritis
+- Increased risk of Myelodysplastic Syndrome and/or Acute Myeloid Leukemia in patients with breast and lung cancer who receive pegfilgrastim products in conjunction with chemotherapy and/or radiation therapy
 - Capillary Leak Syndrome
 - Aortitis
 
@@ -18,5 +19,5 @@ Instruct patients who self-administer NYVEPRIA using the single-dose prefilled s
 - Dangers of reusing syringes.
 - Importance of following local requirements for proper disposal of used syringes.
 
-This product's label may have been updated.
-For full prescribing information, please visit www.pfizer.com.
+This product's labeling may have been updated.
+For the most recent prescribing information, please visit www.pfizer.com.

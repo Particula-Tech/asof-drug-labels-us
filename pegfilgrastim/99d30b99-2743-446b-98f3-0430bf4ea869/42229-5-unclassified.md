@@ -4,4 +4,4 @@ Distributed by Pfizer Labs, division of Pfizer Inc., New York, NY 10017 USA
 
 BD UltraSafe Plus is a trademark of Becton Dickinson and Company.
 
-LAB-1186-1.0
+LAB-1186-2.0
