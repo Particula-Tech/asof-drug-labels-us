@@ -121,8 +121,8 @@ Manufactured for: IBSA Institut Biochimique SA, CH-6903 Lugano, Switzerland
 
 Distributed by: IBSA Pharma Inc, Parsippany, NJ 07054
 
-For more information, call 1-800-587-3513.
+For more information go to www.Flector.com or call 1-800-587-3513.
 
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
 
-Revised October 2020
+Revised November 2020

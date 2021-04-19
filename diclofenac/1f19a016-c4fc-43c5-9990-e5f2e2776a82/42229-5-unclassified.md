@@ -2,7 +2,7 @@ Distributor: IBSA Pharma Inc, Parsippany, NJ 07054 Manufacturer: Altergon Italia
 
 FLECTOR is a registered trademark of IBSA Institut Biochimique SA
 
-Revised October 2020
+Revised November 2020
 
 FI/171 1253 Ed.
 II/10.20
