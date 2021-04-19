@@ -15,7 +15,9 @@ Immediately following administration, take a sip of fluids to ensure all granule
 
 Adrenal Crisis
 
-Inform the patient or caregiver that undertreatment or sudden discontinuation of ALKINDI SPRINKLE may lead to adrenocortical insufficiency, adrenal crisis and death.
+Inform the patient or caregiver that undertreatment or sudden discontinuation of ALKINDI SPRINKLE may lead to symptoms of adrenocortical insufficiency, adrenal crisis, and death.
+Advise the caregiver that the potential dosing inaccuracy of manipulated oral hydrocortisone preparations (e.g., split or crushed tablets or compounded suspension) may result in differences.
+When switching treatment from conventional oral hydrocortisone to ALKINDI SPRINKLE, advise the patient or caregiver that this could lead to unintended clinical consequences and recommend close monitoring of patients after the switch.
 Inform the patient or caregiver to contact their healthcare provider if they have prolonged vomiting, are severely ill or are unable to take oral medications.
 [see Warnings and Precautions (5.1)]
 
@@ -62,10 +64,13 @@ Excretion of Granules
 ALKINDI SPRINKLE granules may sometimes be seen in stools since the center of the granule is not absorbed in the gut after the active substance has been released.
 Inform patients or caregivers that this does not mean the product is ineffective and they should not take another dose.
 
-ALKINDI SPRINKLE is manufactured for Eton Pharmaceuticals, Inc. by Glatt Pharmaceutical Services GmbH & Co. KG Werner-Glatt-Strasse 1, Binzen, Baden-Wuerttemberg, 79589, Germany,and is packaged by Delpharm Lille SAS, Parc d'Activités Roubaix-Est, 22 rue de Toufflers CS 50070, Lys Lez Lannoy, France.
+ALKINDI SPRINKLE is manufactured for Eton Pharmaceuticals, Inc. by Glatt Pharmaceutical Services GmbH & Co. KG Werner-Glatt-Strasse 1, Binzen, Baden-Wuerttemberg, 79589, Germany.
 
 ALKINDI® is a registered trademark of Diurnal Limited.
 
 ALKINDI is covered by the following US patents: 9,649,280; 9,675,559; 9,717,740; and other patents in other countries internationally.
 
 ALKINDI SPRINKLE is distributed in the USA by Eton Pharmaceuticals, Inc. under license from Diurnal Limited.
+
+This product labeling may have been updated.
+For the most recent prescribing information, please visit www.alkindisprinkle.com.

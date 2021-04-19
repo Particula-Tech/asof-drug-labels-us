@@ -9,7 +9,7 @@ The following serious adverse reactions are described here and elsewhere in the 
 - Decrease in Bone Mineral Density [see Warnings and Precautions (5.5)]
 - Psychiatric Adverse Reactions [see Warnings and Precautions (5.6)]
 - Ophthalmic Adverse Reactions [see Warnings and Precautions (5.7)]
-- Gastrointestinal Adverse reactions [see Warnings and Precautions (5.8)]
+- Gastrointestinal Adverse Reactions [see Warnings and Precautions (5.8)]
 
 6.1 Clinical Trials Experience
 

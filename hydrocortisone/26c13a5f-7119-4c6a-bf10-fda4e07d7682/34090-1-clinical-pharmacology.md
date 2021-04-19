@@ -3,8 +3,8 @@
 ## 12.1 Mechanism of Action
 
 Hydrocortisone is a glucocorticoid.
-Glucocorticoids, adrenocortical steroids, cause varied metabolic effects.
-In addition, they modify the body's immune responses to diverse stimuli.
+Glucocorticoids and adrenocortical steroids cause varied metabolic effects.
+In addition, they modify the body’s immune responses to diverse stimuli.
 
 ## 12.2 Pharmacodynamics
 
@@ -25,7 +25,7 @@ The coadministration of ALKINDI SPRINKLE with soft food (yogurt and fruit puree)
 
 Distribution
 
-90% or more of circulating hydrocortisone is reversibly bound to protein.
+Ninety percent or more of circulating hydrocortisone is reversibly bound to protein.
 
 The binding is accounted for by two protein fractions.
 One, corticosteroid-binding globulin is a glycoprotein; the other is albumin.

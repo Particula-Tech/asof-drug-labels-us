@@ -2,13 +2,19 @@
 
 ## 5.1 Adrenal Crisis
 
-Undertreatment with ALKINDI SPRINKLE or sudden discontinuation of therapy with ALKINDI SPRINKLE may lead to adrenocortical insufficiency, adrenal crisis and death.
-Adrenal crisis may also be induced by stress events such as infections or surgery when patients require higher doses of corticosteroids.
+Undertreatment with ALKINDI SPRINKLE or sudden discontinuation of therapy with ALKINDI SPRINKLE may lead to symptoms of adrenocortical insufficiency, adrenal crisis and death.
+Adrenal crisis may also be induced by stressor events such as infections or surgery when patients require higher doses of corticosteroids.
 Symptoms of adrenocortical insufficiency include poor feeding, fatigue, low muscle tone, joint pain, nausea, vomiting, hypoglycemia, low blood pressure and electrolyte disturbances.
 
 Increase the dose of ALKINDI SPRINKLE during periods of stress (infections, surgery).
 Switch patients who are vomiting, severely ill or unable to take oral medications to parenteral corticosteroid formulations without delay.
 Once the patient recovers, gradually reduce the steroid dose used during the acute event.
+
+The potential dosing inaccuracy of manipulated oral hydrocortisone preparations (e.g., split or crushed tablets or compounded suspension) may result in a relative difference in hydrocortisone exposure on the same nominal dose.
+This could lead to unintended clinical consequences.
+Close monitoring of patients is recommended after the switch as with many other medications.
+Healthcare professionals should inform caregivers and patients that dose adjustments of ALKINDI SPRINKLE may be needed.
+An increase in the total daily dose of ALKINDI SPRINKLE should be considered if symptoms of adrenal insufficiency present.
 
 ## 5.2 Infections
 

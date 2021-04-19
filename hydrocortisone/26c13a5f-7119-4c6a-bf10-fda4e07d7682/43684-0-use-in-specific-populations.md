@@ -38,7 +38,6 @@ The developmental and health benefits of breastfeeding should be considered alon
 
 The safety and effectiveness of ALKINDI SPRINKLE have been established in pediatric patients for replacement therapy of adrenocortical insufficiency and the information on this use is discussed throughout the labeling.
 Use of ALKINDI SPRINKLE in pediatric patients is supported by use in pediatric patients for adrenocortical insufficiency with another hydrocortisone product, along with supportive pharmacokinetic and safety data in 24 pediatric patients with adrenocortical insufficiency.
-No new adverse reactions were identified.
-[see Adverse Reactions (6) and Clinical Pharmacology (12.3)].
+No new adverse reactions were identified [see Adverse Reactions (6) and Clinical Pharmacology (12.3)].
 ALKINDI SPRINKLE are oral granules contained within capsules that must be opened and not swallowed whole to administer the granules.
 Additionally, ALKINDI SPRINKLE granules should not be administered via nasogastric or gastric tubes as they may cause tube blockage [see Dosage and Administration (2.2)].

@@ -63,9 +63,9 @@ How should I store ALKINDI SPRINKLE?
 - Store in the original bottle to protect from light.
 - After the bottle has been opened, use the ALKINDI SPRINKLE capsules within 60 days.
 
-Keep ALKINDI and all medicines out of the reach of children.
+Keep ALKINDI SPRINKLE and all medicines out of the reach of children.
 
-Alkindi Sprinkle is manufactured for Eton Pharmaceuticals, Inc. by Glatt Pharmaceutical Services GmbH & Co. KG Werner-Glatt-Strasse 1, Binzen, Baden-Wuerttemberg, 79589, Germany
+ALKINDI SPRINKLE is manufactured for Eton Pharmaceuticals, Inc. by Glatt Pharmaceutical Services GmbH & Co. KG Werner-Glatt-Strasse 1, Binzen, Baden-Wuerttemberg, 79589, Germany
 
 ALKINDI® is a registered trademark of Diurnal Limited.
 
@@ -75,4 +75,4 @@ For more information, go to www.alkindisprinkle.com or call 1-833-343-2500.
 
 This Instructions for Use has been approved by the U.S. Food and Drug Administration.
 
-Issued: 10/2020
+Issued: 03/2021
