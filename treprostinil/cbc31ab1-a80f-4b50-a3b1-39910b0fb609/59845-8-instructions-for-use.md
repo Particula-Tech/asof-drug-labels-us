@@ -607,8 +607,8 @@ Contents
 | Cleaning and Storing your TYVASO Inhalation System | 46 |
 | Storing between sessions during the day | 48 |
 | End of day cleaning | 52 |
-| Recharging the Battery | 57 |
-| Weekly Cleaning | 59 |
+| Recharging the battery | 57 |
+| Weekly cleaning | 59 |
 | Monthly Refill Kit | 60 |
 | Replacing your devices | 61 |
 | Help / More information about your TYVASO Inhalation System | 62 |
@@ -648,7 +648,7 @@ Always ask your doctor or specialty pharmacy provider if you have any questions 
 Your doctor has prescribed TYVASO® (treprostinil) Inhalation Solution.
 Please see the accompanying Patient Information for important safety information on TYVASO.
 
-TYVASO is a prescription medicine used in adults to treat pulmonary arterial hypertension (PAH) (WHO Group 1), which is high blood pressure in the arteries of your lungs.
+TYVASO is a prescription medicine used in adults to treat pulmonary arterial hypertension (PAH; WHO Group 1) and pulmonary hypertension associated with interstitial lung disease (PH-ILD; WHO Group 3), which are diseases causing high blood pressure in the arteries of your lungs.
 TYVASO can improve exercise ability.
 The effects decrease over 4 hours; treatment timing can be adjusted for planned activities.
 
@@ -662,7 +662,7 @@ Before beginning treatment with TYVASO, you will receive either a Patient Starte
 
 Both kits include 2 complete inhalation devices (all accessories and supplies included).
 When you refill your prescription for TYVASO each month, you will receive a Refill Kit that contains a 28-day supply of TYVASO and new accessories.
-You will receive 2 replacement devices every 2 years.
+You will receive replacement devices every 2 years from your date of receipt of the TYVASO Inhalation System.
 
 CAUTION: Federal law restricts this device to sale by or on the order of a physician, or other licensed practitioner.
 
@@ -702,8 +702,8 @@ Your environment:
 - Do not immerse the device in water or other liquids, or place in dishwasher.
 - Do not place any system components in a microwave, conventional oven, or dishwasher.
 - Do not use the device near flammable liquids and materials or heated surfaces.
-- Do not place the device or use the device in the presence of strong electric or magnetic fields (eg, microwave oven, magnetic imaging equipment).
-- Wireless communications equipment (eg, cell phone) can affect operation of the device and should be kept at least a distance of 3.3 meters (about 11 feet) away while using the device.
+- Do not place the device or use the device in the presence of strong electric or magnetic fields (e.g., microwave oven, magnetic imaging equipment).
+- Wireless communications equipment (e.g., cell phone) can affect operation of the device and should be kept at least a distance of 3.3 meters (about 11 feet) away while using the device.
 - If the device performance is affected by exposure to any conditions listed here, see the Troubleshooting section, or contact your healthcare provider or specialty pharmacy provider.
 
 | C: Buttons, indicators, and markings |
@@ -945,7 +945,7 @@ Prior to use, inspect each part and do not use parts if they appear damaged or d
 | Filter membranesThese accessories are replaced every month. Replacement accessories are included in the Monthly Refill Kit. Use 2 per day | Medicine cups Use 1 per day | Dome assembly |
 | Mouthpiece | Inhalation piece | 2 filter shells |
 | 2 Plugs (Used when storing the device) | Carrying case | Pen or pencil (not provided) to record your treatment |
-| Distilled water carrier | AC wall plug | Treatment Tracker |
+| Distilled water carrier | AC wall plug | Treatment Tracker Example |
 
 | C: Fill water chamber and medicine cup |
 | --- |
@@ -963,7 +963,7 @@ Important:
 Fill water chamber
 
 Fill the water level cup with distilled water up to the arrow markers on the water cup.
-Use fresh distilled water each day (ie, do not use water left in the water chamber from the previous day).
+Use fresh distilled water each day (i.e., do not use water left in the water chamber from the previous day).
 Pour the distilled water into the water chamber.
 
 Make sure the water level is above the upper, silver sensor and below the blue ring in the water chamber (about 45 mL of distilled water).
@@ -1212,8 +1212,8 @@ There is also information about your monthly refill kits, replacing your device,
 | --- | --- |
 | A: Storing between sessions during the day | 48 |
 | B: End of day cleaning | 52 |
-| C: Recharging the Battery | 57 |
-| D: Weekly Cleaning | 59 |
+| C: Recharging the battery | 57 |
+| D: Weekly cleaning | 59 |
 | E: Monthly Refill Kit | 60 |
 | F: Replacing your devices | 61 |
 
@@ -1350,7 +1350,7 @@ Once all the items are dry, you can store the filter shells, inhalation piece, m
 
 You can also recharge the device for the next day of use (see page 57).
 
-| C: Recharging the Battery |
+| C: Recharging the battery |
 | --- |
 
 1.
@@ -1381,7 +1381,7 @@ If the device is powered on, the battery charging icon appears next to the batte
 | Battery charging icon |
 | --- |
 
-| D: Weekly Cleaning |
+| D: Weekly cleaning |
 | --- |
 
 Clean the device once a week to help avoid corrosion and leaks and to keep your device working properly.
@@ -1529,22 +1529,22 @@ For further support, you can:
 | C: Electromagnetic compatibility (EMC) |
 | --- |
 
-The Tyvaso Inhalation System has been tested and found to comply with the electromagnetic compatibility (EMC) limits for medical devices according to IEC 60601-1-2: (2007).
+The TYVASO Inhalation System has been tested and found to comply with the electromagnetic compatibility (EMC) limits for medical devices according to IEC 60601-1-2: (2007).
 Compliance is intended to provide reasonable protection against harmful interference in a typical user environment.
 
-Table 1, Table 2 and Table 3 document the intended EMC use environment and established compliance levels for the Tyvaso Inhalation System.
+Table 1, Table 2 and Table 3 document the intended EMC use environment and established compliance levels for the TYVASO Inhalation System.
 To ensure the intended performance, use the system in the environments described in these tables.
 
-The Tyvaso Inhalation System is intended for use in the electromagnetic environment specified in this section.
+The TYVASO Inhalation System is intended for use in the electromagnetic environment specified in this section.
 
 Table 1: Guidance and manufacturer's declaration - electromagnetic emissions
 
 | Guidance and manufacturer's declaration - electromagnetic emissions |  |  |
 | --- | --- | --- |
-| The Tyvaso Inhalation System is intended for use in the electromagnetic environment specified below. The customer or the user of the Tyvaso Inhalation System should assure that it is used in such an environment. |  |  |
+| The TYVASO Inhalation System is intended for use in the electromagnetic environment specified below. The customer or the user of the TYVASO Inhalation System should assure that it is used in such an environment. |  |  |
 | Emissions test | Compliance | Electromagnetic environment - guidance |
-| RF emissions CISPR 11 | Group 1 | The Tyvaso Inhalation System uses RF energy only for its internal function. Therefore, its RF emissions are very low and are not likely to cause any interference in nearby electronic equipment. |
-| RF emissions CISPR 11 | Class B | The Tyvaso Inhalation System is suitable for use in all establishments, including domestic establishments and those directly connected to the public low voltage power supply network that supplies buildings used for domestic purposes. |
+| RF emissions CISPR 11 | Group 1 | The TYVASO Inhalation System uses RF energy only for its internal function. Therefore, its RF emissions are very low and are not likely to cause any interference in nearby electronic equipment. |
+| RF emissions CISPR 11 | Class B | The TYVASO Inhalation System is suitable for use in all establishments, including domestic establishments and those directly connected to the public low voltage power supply network that supplies buildings used for domestic purposes. |
 | Harmonic emissions IEC 61000-3-2 | Class A |  |
 | Voltage fluctuations/flicker emissions IEC 61000-3-3 | Complies |  |
 
@@ -1552,21 +1552,21 @@ Table 2: Guidance and manufacturer's declaration – electromagnetic immunity
 
 | Guidance and manufacturer's declaration – electromagnetic immunity |  |  |  |
 | --- | --- | --- | --- |
-| The Tyvaso Inhalation System is intended for use in the electromagnetic environment specified below. The customer or the user of the Tyvaso Inhalation System should assure that it is used in such an environment. |  |  |  |
+| The TYVASO Inhalation System is intended for use in the electromagnetic environment specified below. The customer or the user of the TYVASO Inhalation System should assure that it is used in such an environment. |  |  |  |
 | Immunity test | IEC 60601 Test level | Compliance level | Electromagnetic environment - guidance |
 | Electrostatic discharge (ESD) IEC 61000-4-2 | ± 8 kV contact ± 15 kV air | ± 8 kV contact ± 15 kV air | Floors should be wood, concrete or ceramic tile. If floors are covered with synthetic material, the relative humidity should be at least 30%. |
 | Electrical fast transient/burst IEC 61000-4-4 | ± 2 kV for power supply lines ± 1 kV for input/output lines | ± 2 kV for power supply lines ± 1 kV for input/output lines | Mains power quality should be that of a typical commercial or hospital environment. |
 | Surge IEC 61000-4-5 | ± 1 kV line(s) to line(s) ± 2 kV line(s) to earth | ± 1 kV line(s) to line(s) ± 2 kV line(s) to earth | Mains power quality should be that of a typical commercial or hospital environment. |
-| Voltage dips, short interruptions and voltage variations on power supply input lines IEC 61000-4-11 | 0 % UT (100 % dip in UT) for 0,5 cycle 0 % UT (100 % dip in UT) for 1 cycle 70 % UT (30 % dip in UT) for 25/30 cycles 0 % UT (100 % dip in UT) for 250/300 cycle | 0 % UT (100 % dip in UT) for 0,5 cycle 0 % UT (100 % dip in UT) for 1 cycle 70 % UT (30 % dip in UT) for 25/30 cycles 0 % UT (100 % dip in UT) for 250/300 cycle | Mains power quality should be that of a typical commercial or hospital environment. If the user of the Tyvaso Inhalation System requires continued operation during power mains interruptions, it is recommended that the Tyvaso Inhalation System be powered from an uninterruptible power supply or the internal battery. |
+| Voltage dips, short interruptions and voltage variations on power supply input lines IEC 61000-4-11 | 0 % UT (100 % dip in UT) for 0,5 cycle 0 % UT (100 % dip in UT) for 1 cycle 70 % UT (30 % dip in UT) for 25/30 cycles 0 % UT (100 % dip in UT) for 250/300 cycle | 0 % UT (100 % dip in UT) for 0,5 cycle 0 % UT (100 % dip in UT) for 1 cycle 70 % UT (30 % dip in UT) for 25/30 cycles 0 % UT (100 % dip in UT) for 250/300 cycle | Mains power quality should be that of a typical commercial or hospital environment. If the user of the TYVASO Inhalation System requires continued operation during power mains interruptions, it is recommended that the TYVASO Inhalation System be powered from an uninterruptible power supply or the internal battery. |
 | Power frequency (50/60 Hz) magnetic field IEC 61000-4-8 | 30 A/m | 30 A/m | Power frequency magnetic fields should be at levels characteristic of a typical location in a typical commercial or hospital environment. |
-| Conducted RF IEC 61000-4-6 Radiated RF IEC 61000-4-3 | 3 Vrms 150 kHz to 80 MHz 10 V/m 80 MHz to 2.6 GHz | 3 Vrms 150 kHz to 80 MHz 10 V/m 80 MHz to 2.6 GHz | Portable and mobile RF communications equipment should be used no closer to any part of Tyvaso Inhalation System, including cables, than the recommended separation distance calculated from the equation applicable to the frequency of the transmitter. Recommended separation distance d = 1.2 √P d = 1.2 √P 80 MHz to 800 MHz d = 2.3 √P 800 MHz to 2.5 GHz where P is the maximum output power rating of the transmitter in watts (W) according to the transmitter manufacturer and d is the recommended separation distance in meters (m). Field strengths from fixed RF transmitters, as determined by an electromagnetic site surveyField strengths from fixed transmitters, such as base stations for radio (cellular/cordless) telephones and land mobile radios, amateur radio, AM and FM radio broadcast and TV broadcast cannot be predicted theoretically with accuracy. To assess the electromagnetic environment due to fixed RF transmitters, an electromagnetic site survey should be considered. If the measured field strength in the location in which the Tyvaso Inhalation System is used exceeds the applicable RF compliance level above, the Tyvaso Inhalation System should be observed to verify normal operation. If abnormal performance is observed, additional measures may be necessary, such as re-orienting or relocating the Tyvaso Inhalation System., should be less than the compliance level in each frequency rangeOver the frequency range 150 kHz to 80 MHz, field strengths should be less than [V1] V/m.. Interference may occur in the vicinity of equipment marked with the following symbol: |
+| Conducted RF IEC 61000-4-6 Radiated RF IEC 61000-4-3 | 3 Vrms 150 kHz to 80 MHz 10 V/m 80 MHz to 2.6 GHz | 3 Vrms 150 kHz to 80 MHz 10 V/m 80 MHz to 2.6 GHz | Portable and mobile RF communications equipment should be used no closer to any part of TYVASO Inhalation System, including cables, than the recommended separation distance calculated from the equation applicable to the frequency of the transmitter. Recommended separation distance d = 1.2 √P d = 1.2 √P 80 MHz to 800 MHz d = 2.3 √P 800 MHz to 2.5 GHz where P is the maximum output power rating of the transmitter in watts (W) according to the transmitter manufacturer and d is the recommended separation distance in meters (m). Field strengths from fixed RF transmitters, as determined by an electromagnetic site surveyField strengths from fixed transmitters, such as base stations for radio (cellular/cordless) telephones and land mobile radios, amateur radio, AM and FM radio broadcast and TV broadcast cannot be predicted theoretically with accuracy. To assess the electromagnetic environment due to fixed RF transmitters, an electromagnetic site survey should be considered. If the measured field strength in the location in which the TYVASO Inhalation System is used exceeds the applicable RF compliance level above, the TYVASO Inhalation System should be observed to verify normal operation. If abnormal performance is observed, additional measures may be necessary, such as re-orienting or relocating the TYVASO Inhalation System., should be less than the compliance level in each frequency rangeOver the frequency range 150 kHz to 80 MHz, field strengths should be less than [V1] V/m.. Interference may occur in the vicinity of equipment marked with the following symbol: |
 | NOTE UT is the a.c. mains voltage prior to application of the test level. NOTE 1 At 80 MHz and 800 MHz, the higher frequency range applies. NOTE 2 These guidelines may not apply in all situations. Electromagnetic propagation is affected by absorption and reflection from structures, objects and people. |  |  |  |
 
-Table 3: Manufacturer's Declaration – Recommended separation distances between portable and mobile communications equipment and the Tyvaso Inhalation System
+Table 3: Manufacturer's Declaration – Recommended separation distances between portable and mobile communications equipment and the TYVASO Inhalation System
 
-| Recommended separation distances between portable and mobile RF communications equipment and the Tyvaso Inhalation System |  |  |  |
+| Recommended separation distances between portable and mobile RF communications equipment and the TYVASO Inhalation System |  |  |  |
 | --- | --- | --- | --- |
-| The Tyvaso Inhalation System is intended for use in an electromagnetic environment in which radiated RF disturbances are controlled. The customer or the user of the Tyvaso Inhalation System can help prevent electromagnetic interference by maintaining a minimum distance between portable and mobile RF communications equipment (transmitters) and the Tyvaso Inhalation System as recommended below, according to the maximum output power of the communications equipment. |  |  |  |
+| The TYVASO Inhalation System is intended for use in an electromagnetic environment in which radiated RF disturbances are controlled. The customer or the user of the TYVASO Inhalation System can help prevent electromagnetic interference by maintaining a minimum distance between portable and mobile RF communications equipment (transmitters) and the TYVASO Inhalation System as recommended below, according to the maximum output power of the communications equipment. |  |  |  |
 | Rated maximum output power of transmitter W | Separation distance according to frequency of transmitter m |  |  |
 | 150 kHz to 80 MHz d = 1.2 √P | 80 MHz to 800 MHz d = 1.2 √P | 800 MHz to 2.5 GHz d = 2.3 √P |  |
 | 0.01 | 0.12 | 0.12 | 0.23 |
@@ -1642,7 +1642,7 @@ Water chamber: The white hollow portion in the center of the inhalation device i
 | E: Warranty information |
 | --- |
 
-Your Tyvaso Inhalation System is granted a full replacement or repair warranty good for 2 years from your date of receipt of the TYVASO Inhalation System Starter Kit or 5 years from the date of manufacture, whichever comes first.
+Your TYVASO Inhalation System is granted a replacement or repair warranty good for 2 years from your date of receipt of the TYVASO Inhalation System or 5 years from the date of manufacture, whichever comes first.
 This warranty applies to the TYVASO Inhalation System device only.
 Accessory components are not covered under warranty.
 
@@ -1673,14 +1673,17 @@ TYVASO Inhalation Solution is for prescription use only.
 | ▶ Specialty pharmacist: |
 | ▶ United Therapeutics: |
 
-For further questions and information, or to report a problem with your device or an adverse event with your Tyvaso Inhalation System, please call 1-877-UNITHER (1-877-864-8437).
+For further questions and information, or to report a problem with your device or an adverse event with your TYVASO Inhalation System, please call 1-877-UNITHER (1-877-864-8437).
 
 Distributed by: United Therapeutics Corporation Research Triangle Park, North Carolina 27709
 
-© 2019, United Therapeutics Corporation.
+© 2021, United Therapeutics Corporation.
 All rights reserved.
+
+100956
 
 TYVASO is a registered trademark of United Therapeutics Corporation.
 
-Literature issued 2019-09-15 RTP-4-00104, Rev.
-H
+This Instructions for Use has been approved by the U.S. Food and Drug Administration.
+
+Revised: April 2021

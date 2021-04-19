@@ -10,29 +10,18 @@ The treatment sessions should be approximately 4 hours apart.
 
 Initial Dosage:
 
-Therapy should begin with 3 breaths of Tyvaso (18 mcg of treprostinil), per treatment session, 4 times daily.
+Therapy should begin with 3 breaths of Tyvaso (18 mcg of treprostinil) per treatment session 4 times daily.
 If 3 breaths are not tolerated, reduce to 1 or 2 breaths and subsequently increase to 3 breaths, as tolerated.
 
 Maintenance Dosage:
 
-Dosage should be increased by an additional 3 breaths per treatment session at approximately 1- to 2- week intervals, if tolerated, until the target dose of 9 breaths (54 mcg of treprostinil) is reached, 4 times daily.
+Dosage should be increased by an additional 3 breaths per treatment session, 4 times daily at approximately 1- to 2-week intervals.
+Studies establishing effectiveness in patients with PAH and PH-ILD have used target doses of 9 to 12 breaths per treatment session, 4 times daily.
 If adverse effects preclude titration to target dose, Tyvaso should be continued at the highest tolerated dose.
 
 If a scheduled treatment session is missed or interrupted, therapy should be resumed as soon as possible at the usual dose.
 
-The maximum recommended dosage is 9 breaths per treatment session, 4 times daily.
-
-## 2.2 Patients with Hepatic Insufficiency
-
-Plasma clearance of treprostinil is reduced in patients with hepatic insufficiency.
-Patients with hepatic insufficiency may therefore be at increased risk of dose-dependent adverse reactions because of an increase in systemic exposure [see Warnings and Precautions (5.3), Use in Specific Populations (8.6) and Clinical Pharmacology (12.3)].
-
-## 2.3 Patients with Renal Insufficiency
-
-Plasma clearance of treprostinil may be reduced in patients with renal insufficiency, since treprostinil and its metabolites are excreted mainly through the urinary route.
-Patients with renal insufficiency may therefore be at increased risk of dose-dependent adverse reactions [see Warnings and Precautions (5.3), Use in Specific Populations (8.7) and Clinical Pharmacology (12.3)].
-
-## 2.4 Administration
+## 2.2 Administration
 
 Tyvaso must be used only with the Tyvaso Inhalation System.
 Patients should follow the instructions for use for operation of the Tyvaso Inhalation System and for daily cleaning of the device components after the last treatment session of the day.
