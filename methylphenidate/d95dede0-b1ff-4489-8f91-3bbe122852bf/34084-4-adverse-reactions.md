@@ -3,7 +3,7 @@
 The following adverse reactions are discussed in more detail in other sections of the labeling:
 
 - Drug Dependence [see Boxed Warning, Warnings and Precautions (5.1), and Drug Abuse and Dependence (9.2, 9.3)]
-- Hypersensitivity to methylphenidate or other components of the JORNAY PM [see Contraindications (4)]
+- Hypersensitivity to methylphenidate or other components of JORNAY PM [see Contraindications (4)]
 - Hypertensive crisis when used concomitantly with monoamine oxidase inhibitors [see Contraindications (4) and Drug Interactions (7.1)]
 - Serious Cardiovascular Reactions [see Warnings and Precautions (5.2)]
 - Blood Pressure and Heart Rate Increases [see Warnings and Precautions (5.3)]
@@ -83,7 +83,7 @@ Nervous System Disorders: Convulsion, Grand mal convulsion, Dyskinesia, Serotoni
 
 Psychiatric Disorders: Disorientation, Hallucination, Hallucination auditory, Hallucination visual, Libido changes, Mania
 
-Urogential System: Priapism
+Urogenital System: Priapism
 
 Skin and Subcutaneous Tissue Disorders: Alopecia, Erythema
 

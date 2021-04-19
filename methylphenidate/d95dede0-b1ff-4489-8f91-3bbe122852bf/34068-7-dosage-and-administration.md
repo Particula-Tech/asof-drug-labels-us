@@ -5,7 +5,7 @@
 Prior to treating pediatric patients and adults with CNS stimulants, including JORNAY PM, assess for the presence of cardiac disease (i.e., perform a careful history, family history of sudden death or ventricular arrhythmia, and physical exam) [see Warnings and Precautions (5.2)].
 
 Assess the risk of abuse prior to prescribing, and monitor for signs of abuse, dependence while on therapy.
-Maintain careful prescription records, educate patients about abuse, monitor for signs of abuse and overdose, and periodically re-evaluate for the need for JORNAY PM use [see Boxed Warning, Warnings and Precautions (5.1) and Drug Abuse and Dependence (9)].
+Maintain careful prescription records, educate patients about abuse, monitor for signs of abuse and overdose, and periodically re-evaluate the need for JORNAY PM use [see Boxed Warning, Warnings and Precautions (5.1) and Drug Abuse and Dependence (9)].
 
 ## 2.2 General Dosing Information
 

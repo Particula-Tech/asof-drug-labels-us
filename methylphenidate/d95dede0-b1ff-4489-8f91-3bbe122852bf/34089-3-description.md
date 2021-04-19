@@ -19,4 +19,4 @@ Each capsule contains 20 mg, 40 mg, 60 mg, 80 mg, or 100 mg of methylphenidate h
 JORNAY PM capsules also contain the following inactive ingredients: dibutyl sebacate, diglycerides, ethylcellulose, hydroxypropyl cellulose, hypromellose, magnesium stearate, methacrylic acid copolymer Type B, microcrystalline cellulose, monoglycerides, polysorbate 80, and talc.
 The capsule shell of 20 and 40 mg strength capsules is made of FD&C Blue #1, hypromellose, titanium dioxide, yellow iron oxide, and black ink for the imprint.
 The capsule shell of 60 and 80 mg strength capsules is made of FD&C Blue #1, hypromellose, titanium dioxide, and black ink for the imprint.
-The capsules shell of 100 mg strength capsule is made of black iron oxide, FD&C Blue #1, hypromellose, red iron oxide, titanium dioxide, and black ink, and white ink for the imprint.
+The capsule shell of 100 mg strength capsule is made of black iron oxide, FD&C Blue #1, hypromellose, red iron oxide, titanium dioxide, and black ink, and white ink for the imprint.
