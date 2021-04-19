@@ -1,5 +1,7 @@
 # 3 DOSAGE FORMS AND STRENGTHS
 
+Exforge (amlodipine and valsartan) tablets are available as follows:
+
 5/160 mg tablets, debossed with NVR/ECE (side 1/side 2)
 
 10/160 mg tablets, debossed with NVR/UIC

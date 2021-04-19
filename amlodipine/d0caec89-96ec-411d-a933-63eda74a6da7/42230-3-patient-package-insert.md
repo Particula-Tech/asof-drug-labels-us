@@ -46,7 +46,7 @@ Tell your doctor about all of your medical conditions, including if you:
   Angioedema causes swelling of the face, lips, tongue, throat, and may cause difficulty breathing.
 
 Tell your doctor about all the medicines you take, including prescription and nonprescription medicines, vitamins, and herbal supplements.
-Some of your other medicines and EXFORGE could affect each other, causing serious side affects.
+Some of your other medicines and EXFORGE could affect each other, causing serious side effects.
 
 Especially tell your doctor if you take:
 

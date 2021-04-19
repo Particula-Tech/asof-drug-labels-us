@@ -1,6 +1,6 @@
 # 16 HOW SUPPLIED/STORAGE AND HANDLING
 
-Exforge is available as non-scored tablets containing amlodipine besylate equivalent to 5 mg, or 10 mg of amlodipine free-base with valsartan 160 mg or 320 mg, providing for the following available combinations: 5/160 mg, 10/160 mg, 5/320 mg, and 10/320 mg.
+Exforge is available as non-scored tablets containing amlodipine besylate (6.9 mg or 13.9 mg, equivalent to 5 mg or 10 mg of amlodipine respectively) with valsartan 160 mg or 320 mg, providing for the following available combinations: 5/160 mg, 10/160 mg, 5/320 mg, and 10/320 mg.
 
 All strengths are packaged in bottles of 30 tablets.
 
@@ -20,5 +20,5 @@ Bottles of 30 NDC 0078-0490-15
 
 Bottles of 30 NDC 0078-0491-15
 
-Store at 20°C - 25°C (68°F - 77°F); excursions permitted between 15°C and 30°C (59°F and 86°F) [See USP Controlled Room Temperature].
+Store at 20°C-25°C (68°F-77°F); excursions permitted between 15°C and 30°C (59°F and 86°F) [See USP Controlled Room Temperature].
 Protect from moisture.

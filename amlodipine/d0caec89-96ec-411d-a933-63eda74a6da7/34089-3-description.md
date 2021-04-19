@@ -14,7 +14,7 @@ Valsartan’s chemical name is N-(1-oxopentyl)-N-[[2’-(1H-tetrazol-5-yl) [1,1�
 
 Its empirical formula is C24H29N5O3 and its molecular weight is 435.5.
 
-Exforge tablets are formulated in 4 strengths for oral administration with a combination of amlodipine besylate, equivalent to 5 mg or 10 mg of amlodipine free-base, with 160 mg, or 320 mg of valsartan providing for the following available combinations: 5/160 mg, 10/160 mg, 5/320 mg, and 10/320 mg.
+Exforge tablets are formulated in 4 strengths for oral administration with a combination of amlodipine besylate (6.9 mg or 13.9 mg, equivalent to 5 mg or 10 mg of amlodipine respectively), with 160 mg, or 320 mg of valsartan providing for the following available combinations: 5/160 mg, 10/160 mg, 5/320 mg, and 10/320 mg.
 
 The inactive ingredients for all strengths of the tablets are colloidal silicon dioxide, crospovidone, magnesium stearate, and microcrystalline cellulose.
 Additionally the 5/320 mg and 10/320 mg strengths contain iron oxide yellow and sodium starch glycolate.

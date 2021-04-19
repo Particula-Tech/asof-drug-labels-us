@@ -38,7 +38,7 @@ Table 3: Effect of Exforge on Sitting Diastolic Blood Pressure
 |  | 0 mg |  | 160 mg |  | 320 mg |  |
 |  | Mean Change* | Placebo-subtracted | Mean Change* | Placebo-subtracted | Mean Change* | Placebo-subtracted |
 | 0 mg | -8.2 | --- | -12.8 | - 4.5 | -12.8 | -4.5 |
-| 10 mg | -15.0 | -6.7 | - 17.2 | - 9.0 | -18.1 | -9.9 |
+| 10 mg | -15.0 | -6.7 | -17.2 | -9.0 | -18.1 | -9.9 |
 | *Mean Change and Placebo-Subtracted Mean Change from Baseline (mmHg) at Week 8 in Sitting Diastolic Blood Pressure. Mean baseline diastolic BP was 99.1 mmHg. |  |  |  |  |  |  |
 
 Table 4: Effect of Exforge on Sitting Systolic Blood Pressure
