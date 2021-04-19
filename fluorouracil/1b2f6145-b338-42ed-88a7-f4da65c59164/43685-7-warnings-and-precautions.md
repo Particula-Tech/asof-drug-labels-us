@@ -59,8 +59,6 @@ Single dose intravenous and intraperitoneal injections of 5-fluorouracil have be
 
 ### Teratogenic Effects
 
-#### Pregnancy Category X
-
 See CONTRAINDICATIONS section.
 
 ## Nursing Mothers
