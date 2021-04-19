@@ -4,282 +4,264 @@ PAXIL® (PAX-il)
 
 (paroxetine hydrochloride)
 
-Tablets and Oral Suspension
+Tablets
 
-Read the Medication Guide that comes with PAXIL before you start taking it and each time you get a refill.
-There may be new information.
-This Medication Guide does not take the place of talking to your healthcare provider about your medical condition or treatment.
-Talk with your healthcare provider if there is something you do not understand or want to learn more about.
+oral suspension
 
 What is the most important information I should know about PAXIL?
 
-PAXIL and other antidepressant medicines may cause serious side effects, including:
+PAXIL can cause serious side effects, including:
 
-1. 1.Suicidal thoughts or actions:
+- Increased risk of suicidal thoughts or actions.
+  PAXIL and other antidepressant medicines may increase suicidalthoughts and actions in some people 24 years of age and younger, especially within the first few months of treatment or when the dose is changed.
+  PAXIL is not for use in children.
 
-- •PAXIL and other antidepressant medicines may increase suicidal thoughts or actions in some children, teenagers, or young adults within the first few months of treatment or when the dose is changed.
-- •Depression or other serious mental illnesses are the most important causes of suicidal thoughts or actions.
-- •Watch for these changes and call your healthcare provider right away if you notice:
-  - ∘New or sudden changes in mood, behavior, actions, thoughts, or feelings, especially if severe.
-  - ∘Pay particular attention to such changes when PAXIL is started or when the dose is changed.
-
-Keep all follow-up visits with your healthcare provider and call between visits if you are worried about symptoms.
-
-Call your healthcare provider right away if you have any of the following symptoms, or call 911 if an emergency, especially if they are new, worse, or worry you:
-
-- •attempts to commit suicide
-- •acting on dangerous impulses
-- •acting aggressive or violent
-- •thoughts about suicide or dying
-- •new or worse depression
-- •new or worse anxiety or panic attacks
-- •feeling agitated, restless, angry, or irritable
-- •trouble sleeping
-- •an increase in activity or talking more than what is normal for you
-- •other unusual changes in behavior or mood
 - 
+  - 
+    - Depression or other mental illnesses are the most important causes of suicidal thoughts and actions.
+
+How can I watch for and try to prevent suicidal thoughts and actions?
+
 - 
+  - Pay close attention to any changes, especially sudden changes in mood, behavior, thoughts or feelings or if youdevelop suicidal thoughts or actions.
+    This is very important when an antidepressant medicine is started or when thedoes is changed.
+  - Call your healthcare provider right away to report new or sudden changes in mood, behavior, thoughts or feelings or ifyou develop suicidal thoughts or actions.
+  - Keep all follow-up visits with your healthcare provider as scheduled.
+    Call your healthcare provider between visits asneeded, especially if you have concerns about symptoms.
 
-Call your healthcare provider right away if you have any of the following symptoms, or call 911 if an emergency.
-PAXIL may be associated with these serious side effects:
+Call your healthcare provider or get emergency medical help right away if you have any of the followingsymptoms, especially if they are new, worse, or worry you:
 
-2.
-Serotonin Syndrome or Neuroleptic Malignant Syndrome-like reactions.
-This condition can be life-threatening and may include:
-
-- agitation, hallucinations, coma, or other changes in mental status
-- coordination problems or muscle twitching (overactive reflexes)
-- racing heartbeat, high or low blood pressure
-- sweating or fever
-- nausea, vomiting, or diarrhea
-- muscle rigidity
-
-3.
-Visual problems
-
-- eye pain
-- changes in vision
-- swelling or redness in or around the eye
-
-Only some people are at risk for these problems.
-You may want to undergo an eye examination to see if you are at risk and receive preventative treatment if you are.
-
-4.
-Severe allergic reactions:
-
-- trouble breathing
-- swelling of the face, tongue, eyes, or mouth
-- rash, itchy welts (hives), or blisters, alone or with fever or joint pain
-
-5.
-Abnormal bleeding: PAXIL and other antidepressant medicines may increase your risk of bleeding or bruising, especially if you take the blood thinner warfarin (Coumadin®, Jantoven®), a non-steroidal anti-inflammatory drug (NSAIDs, like ibuprofen or naproxen), or aspirin.
-
-6.
-Seizures or convulsions
-
-7.
-Manic episodes:
-
-- greatly increased energy
-- severe trouble sleeping
-- racing thoughts
-- reckless behavior
-- unusually grand ideas
-- excessive happiness or irritability
-- talking more or faster than usual
-
-8.
-Changes in appetite or weight.
-Children and adolescents should have height and weight monitored during treatment.
-
-9.
-Low salt (sodium) levels in the blood.
-Elderly people may be at greater risk for this.
-Symptoms may include:
-
-- headache
-- weakness or feeling unsteady
-- confusion, problems concentrating or thinking, or memory problems
-
-Do not stop PAXIL without first talking to your healthcare provider.
-Stopping PAXIL too quickly may cause serious symptoms including:
-
-- •anxiety, irritability, high or low mood, feeling restless, or changes in sleep habits
-- •headache, sweating, nausea, dizziness
-- •electric shock-like sensations, shaking, confusion
+- 
+  - attempts to commit suicide
+  - acting aggressive or violent
+  - new or worse depression
+  - feeling agitated, restless, angry, or irritable
+  - an increase in activity and talking more than what is normal for you
+  - acting on dangerous impulses
+  - thoughts about suicide or dying
+  - new or worse anxiety or panic attacks
+  - trouble sleeping
+  - other unusual changes in behavior or mood
 
 What is PAXIL?
 
-PAXIL is a prescription medicine used to treat depression.
-It is important to talk with your healthcare provider about the risks of treating depression and also the risks of not treating it.
-You should discuss all treatment choices with your healthcare provider.
-PAXIL is also used to treat:
+PAXIL is a prescription medicine used in adults to treat:
 
-- •Major Depressive Disorder (MDD)
-- •Obsessive Compulsive Disorder (OCD)
-- •Panic Disorder
-- •Social Anxiety Disorder
-- •Generalized Anxiety Disorder (GAD)
-- •Posttraumatic Stress Disorder (PTSD)
-
-Talk to your healthcare provider if you do not think that your condition is getting better with treatment using PAXIL.
-
-Who should not take PAXIL?
+- A certain type of depression called Major Depressive Disorder (MDD)
+- Obsessive Compulsive Disorder (OCD)
+- Panic Disorder (PD)
+- Social Anxiety Disorder (SAD)
+- Generalized Anxiety Disorder (GAD)
+- Posttraumatic Stress Disorder (PTSD)
 
 Do not take PAXIL if you:
 
-- •are allergic to paroxetine or any of the ingredients in PAXIL.
+- take a monoamine oxidase inhibitor (MAOI)
+- have stopped taking an MAOI in the last 14 days
+- are being treated with the antibiotic linezolid or the intravenous methylene blue
+- are taking pimozide
+- are taking thioridazine
+- are allergic to paroxetine or any of the ingredients in PAXIL.
   See the end of this Medication Guide for a complete list of ingredients in PAXIL.
-- •take a monoamine oxidase inhibitor (MAOI).
-  Ask your healthcare provider or pharmacist if you are not sure if you take an MAOI, including the antibiotic linezolid.
-  - ∘Do not take an MAOI within 2 weeks of stopping PAXIL unless directed to do so by your physician.
-  - ∘Do not start PAXIL if you stopped taking an MAOI in the last 2 weeks unless directed to do so by your physician.
-  - ∘People who take PAXIL close in time to an MAOI may have serious or even life-threatening side effects.
-    Get medical help right away if you have any of these symptoms:
-    - ▪high fever
-    - ▪uncontrolled muscle spasms
-    - ▪stiff muscles
-    - ▪rapid changes in heart rate or blood pressure
-    - ▪confusion
-    - ▪loss of consciousness (pass out)
-- •take MELLARIL® (thioridazine).
-  Do not take MELLARIL® together with PAXIL because this can cause serious heart rhythm problems or sudden death.
-- •take the antipsychotic medicine pimozide (ORAP®) because this can cause serious heart problems.
 
-What should I tell my healthcare provider before taking PAXIL?
-Ask if you are not sure.
+Ask your healthcare provider or pharmacist if you are not sure if you take an MAOI or one of these medicines, including the antibiotic linezolid or intravenous methylene blue.
 
-Before starting PAXIL, tell your healthcare provider if you:
+Do not start taking an MAOI for at least 14 days after you stop treatment with PAXIL.
 
-- •are pregnant, may be pregnant, or plan to become pregnant.
-  There is a possibility that PAXIL may harm your unborn baby, including an increased risk of birth defects, particularly heart defects.
-  Other risks may include a serious condition in which there is not enough oxygen in the baby’s blood.
-  Your baby may also have certain other symptoms shortly after birth.
-  Premature births have also been reported in some women who used PAXIL during pregnancy.
-- •are breastfeeding.
-  PAXIL passes into your milk.
-  Talk to your healthcare provider about the best way to feed your baby while taking PAXIL.
-- •are taking certain drugs such as:
-  - ∘triptans used to treat migraine headache
-  - ∘other antidepressants (SSRIs, SNRIs, tricyclics, or lithium) or antipsychotics
-  - ∘drugs that affect serotonin, such as lithium, tramadol, tryptophan, St. John’s wort
-  - ∘certain drugs used to treat irregular heart beats
-  - ∘certain drugs used to treat schizophrenia
-  - ∘certain drugs used to treat HIV infection
-  - ∘certain drugs that affect the blood, such as warfarin, aspirin, and ibuprofen
-  - ∘certain drugs used to treat epilepsy
-  - ∘atomoxetine
-  - ∘cimetidine
-  - ∘fentanyl
-  - ∘metoprolol
-  - ∘pimozide
-  - ∘procyclidine
-  - ∘tamoxifen
-- •have liver problems
-- •have kidney problems
-- •have heart problems
-- •have or had seizures or convulsions
-- •have bipolar disorder or mania
-- •have low sodium levels in your blood
-- •have a history of a stroke
-- •have high blood pressure
-- •have or had bleeding problems
-- •have glaucoma (high pressure in the eye)
+Before taking PAXIL, tell your healthcare provider about all your medical conditions, including if you:
 
-Tell your healthcare provider about all the medicines you take, including prescription and non-prescription medicines, vitamins, and herbal supplements.
-PAXIL and some medicines may interact with each other, may not work as well, or may cause serious side effects.
+- have heart problems
+- have or had bleeding problems
+- have, or have a family history of, bipolar disorder, mania or hypomania
+- have or had seizures or convulsions
+- have glaucoma (high pressure in the eye)
+- have low sodium levels in your blood
+- have bone problems
+- have kidney or liver problems
+- are pregnant or plan to become pregnant.
+  PAXIL may harm your unborn baby.
+  Talk to your healthcare provider about the risks to your unborn baby if you take PAXIL during pregnancy.
+  Tell your healthcare provider right away if you become pregnant or think you are pregnant during treatment with PAXIL.
+- are breastfeeding or plan to breastfeed.
+  PAXIL passes into your breast milk.
+  Talk to your healthcare provider about the best way to feed your baby during treatment with PAXIL.
 
-Your healthcare provider or pharmacist can tell you if it is safe to take PAXIL with your other medicines.
-Do not start or stop any medicine while taking PAXIL without talking to your healthcare provider first.
+Tell your healthcare provider about all the medicines you take, including prescription and over-the-counter medicines, vitamins, and herbal supplements.
 
-| If you take PAXIL, you should not take any other medicines that contain paroxetine, including PAXIL CR and PEXEVA® (paroxetine mesylate). |
-| --- |
+Especially tell your healthcare provider if you take:
+
+- medicines used to treat migraine headaches called triptans
+- tricyclic antidepressants
+- fentanyl
+- lithium
+- tramadol
+- tryptophan
+- buspirone
+- amphetamines
+- St. John’s Wort
+- medicines that can affect blood clotting such as aspirin, nonsteroidal anti-inflammatory drugs (NSAIDs), warfarin
+- diuretics
+- tamoxifen
+- medicines used to treat mood, anxiety, psychotic, or thought disorders, including selective serontonin reuptake (SSRIs) and serotonin norepinephrine reuptake inhibitors (SNRIs)
+
+Ask your healthcare provider if you are not sure if you are taking any of these medicines.
+Your healthcare provider can tell you if it is safe to take PAXIL with your other medicines.
+
+Do not start or stop any other medicines during treatment with PAXIL without talking to your healthcare provider first.
+Stopping PAXIL suddenly may cause you to have serious side effects.
+See, “What are the possible side effects of PAXIL?”
+
+Know the medicines you take.
+Keep a list of them to show to your healthcare provider and pharmacist when you get a new medicine.
 
 How should I take PAXIL?
 
-- •Take PAXIL exactly as prescribed.
+- Take PAXIL exactly as prescribed.
   Your healthcare provider may need to change the dose of PAXIL until it is the right dose for you.
-- •PAXIL may be taken with or without food.
-- •If you are taking PAXIL Oral Suspension, shake the suspension well before use.
-- •If you miss a dose of PAXIL, take the missed dose as soon as you remember.
-  If it is almost time for the next dose, skip the missed dose and take your next dose at the regular time.
-  Do not take two doses of PAXIL at the same time.
-- •If you take too much PAXIL, call your healthcare provider or poison control center right away, or get emergency treatment.
-- •Do not stop taking PAXIL suddenly without talking to your doctor (unless you have symptoms of a severe allergic reaction).
-  If you need to stop taking PAXIL, your healthcare provider can tell you how to safely stop taking it.
-
-What should I avoid while taking PAXIL?
-
-PAXIL can cause sleepiness or may affect your ability to make decisions, think clearly, or react quickly.
-You should not drive, operate heavy machinery, or do other dangerous activities until you know how PAXIL affects you.
-Do not drink alcohol while using PAXIL.
+- Take PAXIL 1 time each day in the morning.
+- PAXIL may be taken with or without food.
+- If you are taking PAXIL oral suspension, shake suspension well before taking.
+- If you take too much PAXIL, call your poison control center at 1-800-222-1222 or go to the nearest hospital emergency room right away.
 
 What are possible side effects of PAXIL?
 
-PAXIL may cause serious side effects, including all of those described in the section entitled “What is the most important information I should know about PAXIL?”
+PAXIL can cause serious side effects, including:
 
-Common possible side effects in people who take PAXIL include:
+- See, “What is the most important information I should know about PAXIL?”
+- Serotonin syndrome.
+  A potentially life-threatening problem called serotonin syndrome can happen when you take PAXIL with certain other medicines.
+  See, “Who should not take PAXIL?”
+  Call your healthcare provider or go to the nearest hospital emergency room right away if you have any of the following signs and symptoms of serotonin syndrome:
+  - agitation
+  - seeing or hearing things that are not real (hallucinations)
+  - confusion
+  - fast heart beat
+  - changes in blood pressure
+  - dizziness
+  - sweating
+  - flushing
+  - high body temperature (hyperthermia)
+  - shaking (tremors), stiff muscles, or muscle twitching
+  - loss of coordination
+  - seizures
+  - nausea, vomiting, diarrhea
+- Eye problems (angle-closure glaucoma).
+  PAXIL may cause a type of eye problem called angle-closure glaucoma in people with certain other eye conditions.
+  You may want to undergo an eye examination to see if you are at risk and receive preventative treatment if you are.
+  Call your healthcare provider if you have eye pain, changes in your vision, or swelling or redness in or around the eye.
+- Medicine interactions.
+  Taking PAXIL with certain other medicines including thioridazine and pimozide may increase the risk of developing a serious heart problem called QT prolongation.
+- Seizures (convulsions).
+- Manic episodes.
+  Manic episodes may happen in people with bipolar disorder who take PAXIL.
+  Symptoms may include:
+  - greatly increased energy
+  - racing thoughts
+  - unusually grand ideas
+  - talking more or faster than usual
+  - severe problems sleeping
+  - reckless behavior
+  - excessive happiness or irritability
+- Discontinuation syndrome.
+  Suddenly stopping PAXIL may cause you to have serious side effects.
+  Your healthcare provider may want to decrease your dose slowly.
+  Symptoms may include:
+  - nausea
+  - sweating
+  - changes in your mood
+  - irritability and agitation
+  - dizziness
+  - electric shock feeling (paresthesia)
+  - tremor
+  - anxiety
+  - confusion
+  - headache
+  - tiredness
+  - problems sleeping
+  - hypomania
+  - ringing in your ears (tinnitus)
+  - seizures
+- Low sodium levels in your blood (hyponatremia).
+  Low sodium levels in your blood that may be serious and may cause death, can happen during treatment with PAXIL.
+  Elderly people and people who take certain medicines may be at a greater risk for developing low sodium levels in your blood.
+  Signs and symptoms may include:
+  - headache
+  - difficulty concentrating
+  - memory changes
+  - confusion
+  - weakness and unsteadiness on your feet which can lead to falls
 
-- •nausea
-- •sleepiness
-- •weakness
-- •dizziness
-- •feeling anxious or trouble sleeping
-- •sexual problems
-- •sweating
-- •shaking
-- •not feeling hungry
-- •dry mouth
-- •constipation
-- •infection
-- •yawning
+In more severe or more sudden cases, signs and symptoms include:
 
-Tell your healthcare provider if you have any side effect that bothers you or that does not go away.
+- 
+  - seeing or hearing things that are not real (hallucinations)
+  - fainting
+  - seizures
+  - coma
+  - stopping breathing (respiratory arrest)
+- Abnormal bleeding.
+  Taking PAXIL with aspirin, NSAIDs, or blood thinners may increase this risk.
+  Tell your healthcare provider about any unusual bleeding or bruising.
+- Bone fractures
+
+The most common side effects of PAXIL include:
+
+- male and female sexual function problems
+- constipation
+- diarrhea
+- dry mouth
+- problems sleeping
+- nervousness
+- sweating
+- yawning
+- weakness (asthenia)
+- decreased appetite
+- dizziness
+- infection
+- nausea
+- sleepiness
+- shaking (tremor)
+
 These are not all the possible side effects of PAXIL.
-For more information, ask your healthcare provider or pharmacist.
 
-CALL YOUR DOCTOR FOR MEDICAL ADVICE ABOUT SIDE EFFECTS.
-YOU MAY REPORT SIDE EFFECTS TO THE FDA AT 1-800-FDA-1088 or 1-800-332-1088.
+Call your doctor for medical advice about side effects.
+You may report side effects to FDA at 1-800-FDA-1088.
 
 How should I store PAXIL?
 
-- •Store PAXIL Tablets at room temperature between 59º and 86ºF (15º and 30ºC).
-- •Store PAXIL Oral Suspension at or below 77ºF (25ºC).
-- •Keep PAXIL away from light.
-- •Keep bottle of PAXIL closed tightly.
+- Store PAXIL tablets between 59ºF to 86ºF (15ºC to 30ºC).
+- Store PAXIL oral suspension at or below 77ºF (25ºC).
 
 Keep PAXIL and all medicines out of the reach of children.
 
-General information about PAXIL
+General information about the safe and effective use of PAXIL.
 
 Medicines are sometimes prescribed for purposes other than those listed in a Medication Guide.
-Do not use PAXIL for a condition for which it was not prescribed.
-Do not give PAXIL to other people, even if they have the same condition.
+Do not take PAXIL for a condition for which it was not prescribed.
+Do not give PAXIL to other people, even if they have the same symptoms that you have.
 It may harm them.
-
-This Medication Guide summarizes the most important information about PAXIL.
-If you would like more information, talk with your healthcare provider.
 You may ask your healthcare provider or pharmacist for information about PAXIL that is written for healthcare professionals.
-
-For more information about PAXIL call 1-800-706-5575.
 
 What are the ingredients in PAXIL?
 
 Active ingredient: paroxetine hydrochloride
 
-Inactive ingredients in tablets: dibasic calcium phosphate dihydrate, hypromellose, magnesium stearate, polyethylene glycols, polysorbate 80, sodium starch glycolate, titanium dioxide, and 1 or more of the following: D&C Red No. 30 aluminum lake, D&C Yellow No. 10 aluminum lake, FD&C Blue No. 2 aluminum lake, FD&C Yellow No. 6 aluminum lake.
+Inactive ingredients:
 
-Inactive ingredients in suspension for oral administration: polacrilin potassium, microcrystalline cellulose, propylene glycol, glycerin, sorbitol, methylparaben, propylparaben, sodium citrate dihydrate, citric acid anhydrous, sodium saccharin, flavorings, FD&C Yellow No. 6 aluminum lake, and simethicone emulsion, USP.
+Tablets: dibasic calcium phosphate dihydrate, hypromellose, magnesium stearate, polyethylene glycols, polysorbate 80, sodium starch glycolate, titanium dioxide, and 1 or more of the following: D&C Red No. 30 aluminum lake, D&C Yellow No. 10 aluminum lake, FD&C Blue No. 2 aluminum lake, FD&C Yellow No. 6 aluminum lake
 
-PAXIL and PAXIL CR are registered trademarks of GlaxoSmithKline.
+Oral suspension: citric acid (anhydrous), FD&C yellow No. 6, flavorings, glycerin, methylparaben, microcrystalline cellulose and carboxymethylcellulose sodium, polacrilin potassium, propylene glycol, propylparaben, purified water, saccharin sodium, simethicone emulsion and sodium citrate (dihydrate)
+
+Manufactured by: Apotex Inc.Toronto, Ontario, Canada M9L 1T9
+
+Manufactured for: Apotex Corp. Weston, Florida USA 33326
+
+PAXIL® and PAXIL CR® are registered trademarks of the GlaxoSmithKline group of companies.
+
+All other registered trademarks are the property of their respective owners.
+
+For more information about PAXIL call 1-800-706-5575.
 
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
 
-Manufactured by: GlaxoSmithKline Research Triangle Park, NC 27709
-
-Distributed by: Apotex Corp. Weston, FL 33326
-
-©2013, GlaxoSmithKline.
-All rights reserved.
-
-October 2016
+Revised: 2/2021

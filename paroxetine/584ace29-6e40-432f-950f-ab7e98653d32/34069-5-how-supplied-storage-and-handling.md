@@ -1,42 +1,20 @@
-# HOW SUPPLIED
+# 16 HOW SUPPLIED/STORAGE AND HANDLING
 
-## Tablets:
+PAXIL (paroxetine) tablets are oval shaped tablets supplied as:
 
-Film‑coated, modified‑oval as follows:
-
-10-mg yellow, scored tablets engraved on the front with PAXIL and on the back with 10.
-
-NDC 60505-3663-3 Bottles of 30
-
-20-mg pink, scored tablets engraved on the front with PAXIL and on the back with 20.
-
-NDC 60505-3664-3 Bottles of 30
-
-30-mg blue tablets engraved on the front with PAXIL and on the back with 30.
-
-NDC 60505-3665-3 Bottles of 30
-
-40-mg green tablets engraved on the front with PAXIL and on the back with 40.
-
-NDC 60505-3666-3 Bottles of 30
+| Tablet Strength | Color | Engraved Descriptors | Package Configuration | NDC Number |
+| --- | --- | --- | --- | --- |
+| 10 mg | yellow | Scored, “PAXIL” on front and “10” on back | Bottles of 30 | NDC 60505-4517-3 |
+| 20 mg | pink | Scored, “PAXIL” on front and “20” on back | Bottles of 30 | NDC 60505-4518-3 |
+| 30 mg | blue | “PAXIL” on front and “30” on back | Bottles of 30 | NDC 60505-4519-3 |
+| 40 mg | green | “PAXIL” on front and “40” on back | Bottles of 30 | NDC 60505-4520-3 |
 
 Store tablets between 15° and 30°C (59° and 86°F).
 
-## Oral Suspension:
+PAXIL (paroxetine) oral suspension is supplied as:
 
-Orange‑colored, orange‑flavored, 10 mg/5 mL, in white bottles containing 250 mL.
+| Strength | Color/Flavor | Package Configuration | NDC Number |
+| --- | --- | --- | --- |
+| 10 mg/5 mL | Orange/orange | Bottles containing 250 mL | NDC 60505-0402-5 |
 
-NDC 60505-0402-5
-
-Store suspension at or below 25°C (77°F).
-
-PAXIL is a registered trademark of GlaxoSmithKline.
-
-Manufactured by: GlaxoSmithKline Research Triangle Park, NC 27709
-
-Distributed by: Apotex Corp. Weston, FL 33326
-
-©2012, GlaxoSmithKline.
-All rights reserved.
-
-October 2016
+Store suspension at or below 25°C (77°F)

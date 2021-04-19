@@ -1,143 +1,57 @@
-# DOSAGE AND ADMINISTRATION
+# 2 DOSAGE AND ADMINISTRATION
 
-## Major Depressive Disorder:
+## 2.1 Administration Information
 
-### Usual Initial Dosage:
+Administer PAXIL as a single daily dose in the morning, with or without food.
 
-PAXIL should be administered as a single daily dose with or without food, usually in the morning.
-The recommended initial dose is 20 mg/day.
-Patients were dosed in a range of 20 to 50 mg/day in the clinical trials demonstrating the effectiveness of PAXIL in the treatment of major depressive disorder.
-As with all drugs effective in the treatment of major depressive disorder, the full effect may be delayed.
-Some patients not responding to a 20-mg dose may benefit from dose increases, in 10-mg/day increments, up to a maximum of 50 mg/day.
-Dose changes should occur at intervals of at least 1 week.
+Shake the oral suspension well before administration.
 
-### Maintenance Therapy:
+## 2.2 Recommended Dosage for MDD, OCD, PD, and PTSD
 
-There is no body of evidence available to answer the question of how long the patient treated with PAXIL should remain on it.
-It is generally agreed that acute episodes of major depressive disorder require several months or longer of sustained pharmacologic therapy.
-Whether the dose needed to induce remission is identical to the dose needed to maintain and/or sustain euthymia is unknown.
+The recommended starting dosages and maximum dosages of PAXIL in patients with MDD, OCD, PD, and PTSD are presented in Table 1.
 
-Systematic evaluation of the efficacy of PAXIL has shown that efficacy is maintained for periods of up to 1 year with doses that averaged about 30 mg.
+In patients with an inadequate response, increase dosage in increments of 10 mg per day at intervals of at least 1 week, depending on tolerability.
 
-## Obsessive Compulsive Disorder:
+Table 1: Recommended Daily Dosage of PAXIL in Patients with MDD, OCD, PD, and PTSD
 
-### Usual Initial Dosage:
+| Indication | Starting Dose | Maximum Dose |
+| --- | --- | --- |
+| MDD | 20 mg | 50 mg |
+| OCD | 20 mg | 60 mg |
+| PD | 10 mg | 60 mg |
+| PTSD | 20 mg | 50 mg |
 
-PAXIL should be administered as a single daily dose with or without food, usually in the morning.
-The recommended dose of PAXIL in the treatment of OCD is 40 mg daily.
-Patients should be started on 20 mg/day and the dose can be increased in 10-mg/day increments.
-Dose changes should occur at intervals of at least 1 week.
-Patients were dosed in a range of 20 to 60 mg/day in the clinical trials demonstrating the effectiveness of PAXIL in the treatment of OCD.
-The maximum dosage should not exceed 60 mg/day.
+## 2.3 Recommended Dosage for SAD and GAD
 
-### Maintenance Therapy:
+SAD
 
-Long‑term maintenance of efficacy was demonstrated in a 6‑month relapse prevention trial.
-In this trial, patients with OCD assigned to paroxetine demonstrated a lower relapse rate compared to patients on placebo (see CLINICAL PHARMACOLOGY: Clinical Trials).
-OCD is a chronic condition, and it is reasonable to consider continuation for a responding patient.
-Dosage adjustments should be made to maintain the patient on the lowest effective dosage, and patients should be periodically reassessed to determine the need for continued treatment.
+The starting and recommended dosage in patients with SAD is 20 mg daily.
+In clinical trials the effectiveness of PAXIL was demonstrated in patients dosed in a range of 20 mg to 60 mg daily.
+While the safety of PAXIL has been evaluated in patients with SAD at doses up to 60 mg daily, available information does not suggest any additional benefit for doses above 20 mg daily [see Clinical Studies (14.4)].
 
-## Panic Disorder:
+GAD
 
-### Usual Initial Dosage:
+The starting and recommended dosage in patients with GAD is 20 mg daily.
+In clinical trials the effectiveness of PAXIL in GAD was demonstrated in patients dosed in a range of 20 mg to 50 mg daily.
+There is not sufficient evidence to suggest a greater benefit to doses higher than 20 mg daily [see Clinical Studies (14.5)].
 
-PAXIL should be administered as a single daily dose with or without food, usually in the morning.
-The target dose of PAXIL in the treatment of panic disorder is 40 mg/day.
-Patients should be started on 10 mg/day.
-Dose changes should occur in 10-mg/day increments and at intervals of at least 1 week.
-Patients were dosed in a range of 10 to 60 mg/day in the clinical trials demonstrating the effectiveness of PAXIL.
-The maximum dosage should not exceed 60 mg/day.
+In patients with an inadequate response, increase dosage in increments of 10 mg per day at intervals of at least 1 week, depending on tolerability.
 
-### Maintenance Therapy:
+## 2.4 Screen for Bipolar Disorder Prior to Starting PAXIL
 
-Long-term maintenance of efficacy was demonstrated in a 3‑month relapse prevention trial.
-In this trial, patients with panic disorder assigned to paroxetine demonstrated a lower relapse rate compared to patients on placebo (see CLINICAL PHARMACOLOGY: Clinical Trials).
-Panic disorder is a chronic condition, and it is reasonable to consider continuation for a responding patient.
-Dosage adjustments should be made to maintain the patient on the lowest effective dosage, and patients should be periodically reassessed to determine the need for continued treatment.
+Prior to initiating treatment with PAXIL or another antidepressant, screen patients for a personal or family history of bipolar disorder, mania, or hypomania [see Warnings and Precautions (5.6)].
 
-## Social Anxiety Disorder:
+## 2.5 Recommended Dosage for Elderly Patients, Patients with Severe Renal Impairment, and Patients with Severe Hepatic Impairment
 
-### Usual Initial Dosage:
-
-PAXIL should be administered as a single daily dose with or without food, usually in the morning.
-The recommended and initial dosage is 20 mg/day.
-In clinical trials the effectiveness of PAXIL was demonstrated in patients dosed in a range of 20 to 60 mg/day.
-While the safety of PAXIL has been evaluated in patients with social anxiety disorder at doses up to 60 mg/day, available information does not suggest any additional benefit for doses above 20 mg/day (see CLINICAL PHARMACOLOGY: Clinical Trials).
-
-### Maintenance Therapy:
-
-There is no body of evidence available to answer the question of how long the patient treated with PAXIL should remain on it.
-Although the efficacy of PAXIL beyond 12 weeks of dosing has not been demonstrated in controlled clinical trials, social anxiety disorder is recognized as a chronic condition, and it is reasonable to consider continuation of treatment for a responding patient.
-Dosage adjustments should be made to maintain the patient on the lowest effective dosage, and patients should be periodically reassessed to determine the need for continued treatment.
-
-## Generalized Anxiety Disorder:
-
-### Usual Initial Dosage:
-
-PAXIL should be administered as a single daily dose with or without food, usually in the morning.
-In clinical trials the effectiveness of PAXIL was demonstrated in patients dosed in a range of 20 to 50 mg/day.
-The recommended starting dosage and the established effective dosage is 20 mg/day.
-There is not sufficient evidence to suggest a greater benefit to doses higher than 20 mg/day.
-Dose changes should occur in 10 mg/day increments and at intervals of at least 1 week.
-
-### Maintenance Therapy:
-
-Systematic evaluation of continuing PAXIL for periods of up to 24 weeks in patients with Generalized Anxiety Disorder who had responded while taking PAXIL during an 8-week acute treatment phase has demonstrated a benefit of such maintenance (see CLINICAL PHARMACOLOGY: Clinical Trials).
-Nevertheless, patients should be periodically reassessed to determine the need for maintenance treatment.
-
-## Posttraumatic Stress Disorder:
-
-### Usual Initial Dosage:
-
-PAXIL should be administered as a single daily dose with or without food, usually in the morning.
-The recommended starting dosage and the established effective dosage is 20 mg/day.
-In 1 clinical trial, the effectiveness of PAXIL was demonstrated in patients dosed in a range of 20 to 50 mg/day.
-However, in a fixed dose study, there was not sufficient evidence to suggest a greater benefit for a dose of 40 mg/day compared to 20 mg/day.
-Dose changes, if indicated, should occur in 10 mg/day increments and at intervals of at least 1 week.
-
-### Maintenance Therapy:
-
-There is no body of evidence available to answer the question of how long the patient treated with PAXIL should remain on it.
-Although the efficacy of PAXIL beyond 12 weeks of dosing has not been demonstrated in controlled clinical trials, PTSD is recognized as a chronic condition, and it is reasonable to consider continuation of treatment for a responding patient.
-Dosage adjustments should be made to maintain the patient on the lowest effective dosage, and patients should be periodically reassessed to determine the need for continued treatment.
-
-## Special Populations:
-
-### Treatment of Pregnant Women During the Third Trimester:
-
-Neonates exposed to PAXIL and other SSRIs or SNRIs, late in the third trimester have developed complications requiring prolonged hospitalization, respiratory support, and tube feeding (see WARNINGS: Usage in Pregnancy).
-When treating pregnant women with paroxetine during the third trimester, the physician should carefully consider the potential risks and benefits of treatment.
-
-### Dosage for Elderly or Debilitated Patients, and Patients With Severe Renal or Hepatic Impairment:
-
-The recommended initial dose is 10 mg/day for elderly patients, debilitated patients, and/or patients with severe renal or hepatic impairment.
-Increases may be made if indicated.
+The recommended initial dosage is 10 mg per day for elderly patients, patients with severe renal impairment, and patients with severe hepatic impairment.
 Dosage should not exceed 40 mg/day.
 
-## Switching a Patient to or From a Monoamine Oxidase Inhibitor (MAOI) Intended to Treat Psychiatric Disorders:
+## 2.6 Switching Patients to or From a Monoamine Oxidase Inhibitor (MAOI)
 
-At least 14 days should elapse between discontinuation of an MAOI intended to treat psychiatric disorders and initiation of therapy with PAXIL.
-Conversely, at least 14 days should be allowed after stopping PAXIL before starting an MAOI intended to treat psychiatric disorders (see CONTRAINDICATIONS).
+At least 14 days must elapse between discontinuation of a monoamine oxidase inhibitor (MAOI and initiation of PAXIL.
+In addition, at least 14 days must elapse after stopping PAXIL before starting an MAOI antidepressant [see Contraindications (4), Warnings and Precautions (5.2)].
 
-## Use of PAXIL With Other MAOIs, Such as Linezolid or Methylene Blue:
+## 2.7 Discontinuation of Treatment With PAXIL
 
-Do not start PAXIL in a patient who is being treated with linezolid or intravenous methylene blue because there is increased risk of serotonin syndrome.
-In a patient who requires more urgent treatment of a psychiatric condition, other interventions, including hospitalization, should be considered (see CONTRAINDICATIONS).
-
-In some cases, a patient already receiving therapy with PAXIL may require urgent treatment with linezolid or intravenous methylene blue.
-If acceptable alternatives to linezolid or intravenous methylene blue treatment are not available and the potential benefits of linezolid or intravenous methylene blue treatment are judged to outweigh the risks of serotonin syndrome in a particular patient, PAXIL should be stopped promptly, and linezolid or intravenous methylene blue can be administered.
-The patient should be monitored for symptoms of serotonin syndrome for 2 weeks or until 24 hours after the last dose of linezolid or intravenous methylene blue, whichever comes first.
-Therapy with PAXIL may be resumed 24 hours after the last dose of linezolid or intravenous methylene blue (see WARNINGS).
-
-The risk of administering methylene blue by non-intravenous routes (such as oral tablets or by local injection) or in intravenous doses much lower than 1 mg/kg with PAXIL is unclear.
-The clinician should, nevertheless, be aware of the possibility of emergent symptoms of serotonin syndrome with such use (see WARNINGS).
-
-## Discontinuation of Treatment With PAXIL:
-
-Symptoms associated with discontinuation of PAXIL have been reported (see PRECAUTIONS: Discontinuation of Treatment With PAXIL).
-Patients should be monitored for these symptoms when discontinuing treatment, regardless of the indication for which PAXIL is being prescribed.
-A gradual reduction in the dose rather than abrupt cessation is recommended whenever possible.
-If intolerable symptoms occur following a decrease in the dose or upon discontinuation of treatment, then resuming the previously prescribed dose may be considered.
-Subsequently, the physician may continue decreasing the dose but at a more gradual rate.
-
-NOTE: SHAKE SUSPENSION WELL BEFORE USING.
+Adverse reactions may occur upon discontinuation of PAXIL [see Warnings and Precautions (5.7)].
+Gradually reduce the dosage rather than stopping PAXIL abruptly whenever possible.
