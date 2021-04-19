@@ -2,8 +2,8 @@
 
 TYBOST (cobicistat) is a mechanism-based CYP3A inhibitor.
 
-The chemical name for cobicistat is 1,3-thiazol-5-ylmethyl [(2 R,5 R)-5-{[(2 S)-2-[(methyl{[2-(propan-2-yl)-1,3-thiazol-4-yl]methyl}carbamoyl)amino]-4-(morpholin-4-yl)butanoyl]amino}-1,6-diphenylhexan-2-yl]carbamate.
-It has a molecular formula of C 40H 53N 7O 5S 2 and a molecular weight of 776.0.
+The chemical name for cobicistat is 1,3-thiazol-5-ylmethyl [(2R,5R)-5-{[(2S)-2-[(methyl{[2-(propan-2-yl)-1,3-thiazol-4-yl]methyl}carbamoyl)amino]-4-(morpholin-4-yl)butanoyl]amino}-1,6-diphenylhexan-2-yl]carbamate.
+It has a molecular formula of C40H53N7O5S2 and a molecular weight of 776.0.
 It has the following structural formula:
 
 Cobicistat is adsorbed onto silicon dioxide.

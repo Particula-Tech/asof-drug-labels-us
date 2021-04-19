@@ -19,13 +19,13 @@ The most common adverse reactions (Grades 2−4) and reported in >5% of subjects
 The proportion of subjects who discontinued study treatment due to adverse events, regardless of severity, was 11% in both the TYBOST and ritonavir groups.
 Table 3 displays the frequency of adverse reactions (Grades 2−4) occurring in at least 2% of subjects in the TYBOST group in Trial 114.
 
-Table 3 Selected Adverse Reactions Frequencies of adverse reactions are based on Grades 2–4 adverse events attributed to study drugs.
+Table 3 Selected Adverse ReactionsFrequencies of adverse reactions are based on Grades 2–4 adverse events attributed to study drugs.
 (Grades 2–4) Reported in ≥2% of HIV-1 Infected Treatment-Naïve Adults in the TYBOST Coadministered with Atazanavir Group in Trial 114 (Week 144 Analysis)
 
 |  | TYBOST Coadministered with Atazanavir + TRUVADA N=344 | Ritonavir Coadministered with Atazanavir + TRUVADA N=348 |
 | --- | --- | --- |
 | Jaundice | 6% | 3% |
-| Rash Rash events include dermatitis allergic, drug hypersensitivity, pruritus generalized, eosinophilic pustular folliculitis, rash, rash generalized, rash macular, rash maculo-papular, rash morbilliform, rash papular, and urticaria. | 5% | 4% |
+| RashRash events include dermatitis allergic, drug hypersensitivity, pruritus generalized, eosinophilic pustular folliculitis, rash, rash generalized, rash macular, rash maculo-papular, rash morbilliform, rash papular, and urticaria. | 5% | 4% |
 | Ocular icterus | 4% | 2% |
 | Nausea | 2% | 2% |
 | Diarrhea | 2% | 1% |
@@ -61,9 +61,9 @@ Table 4 Laboratory Abnormalities (Grades 3–4) in ≥2% of HIV-1 Infected Treat
 | ALT (>5.0 × ULN) | 6% | 3% |
 | AST (>5.0 × ULN) | 4% | 3% |
 | GGT (>5.0 × ULN) | 4% | 2% |
-| Serum Amylase For subjects with serum amylase >1.5 × upper limit of normal, lipase test was also performed. The frequency of increased lipase (Grades 3–4) occurring in the TYBOST (N=46) and ritonavir (N=35) groups was 7% and 3%, respectively. (>2.0 × ULN) | 4% | 2% |
+| Serum AmylaseFor subjects with serum amylase >1.5 × upper limit of normal, lipase test was also performed. The frequency of increased lipase (Grades 3–4) occurring in the TYBOST (N=46) and ritonavir (N=35) groups was 7% and 3%, respectively. (>2.0 × ULN) | 4% | 2% |
 | Urine Glucose (Glycosuria) (≥1000 mg/dL) | 3% | 3% |
-| Neutrophils (<750/mm 3) | 3% | 2% |
+| Neutrophils (<750/mm3) | 3% | 2% |
 | Serum Glucose (Hyperglycemia) (>250 mg/dL) | 2% | 2% |
 
 Increase in Serum Creatinine: TYBOST causes increases in serum creatinine and decreases in estimated creatinine clearance due to inhibition of tubular secretion of creatinine without affecting actual renal glomerular function [see Warnings and Precautions (5.1) and Clinical Pharmacology (12.2)].
@@ -76,7 +76,7 @@ The clinical significance of these changes is unknown.
 
 Table 5 Lipid Values, Mean Change from Baseline, Reported in HIV-1 Infected Treatment-Naïve Adults Receiving TYBOST Coadministered with Atazanavir + TRUVADA or Ritonavir Coadministered with Atazanavir + TRUVADA in Trial 114 (Week 144 Analysis)
 
-| mg/dL | Change from baseline The change from baseline is the mean of within-patient changes from baseline for patients with both baseline and Week 144 values. Analysis excludes subjects receiving an HMG-CoA reductase inhibitor drug. | mg/dL | Change from baseline |  |
+| mg/dL | Change from baselineThe change from baseline is the mean of within-patient changes from baseline for patients with both baseline and Week 144 values. Analysis excludes subjects receiving an HMG-CoA reductase inhibitor drug. | mg/dL | Change from baseline |  |
 | --- | --- | --- | --- | --- |
 |  | TYBOST + Atazanavir + TRUVADA |  | Ritonavir + Atazanavir + TRUVADA |  |
 | Baseline | Week 144 | Baseline | Week 144 |  |

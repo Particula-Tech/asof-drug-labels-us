@@ -8,7 +8,7 @@ The concomitant use of TYBOST with atazanavir or darunavir and the following dru
 - Anticonvulsants: carbamazepine, phenobarbital, phenytoin
 - Anti-gout: colchicine
 - Antimycobacterial: rifampin
-- Antineoplastics: irinotecan These contraindications apply only to TYBOST coadministered with atazanavir
+- Antineoplastics: irinotecanThese contraindications apply only to TYBOST coadministered with atazanavir
 - Antipsychotics: lurasidone, pimozide
 - Ergot Derivatives: dihydroergotamine, ergotamine, methylergonovine
 - GI Motility Agent: cisapride
@@ -16,6 +16,6 @@ The concomitant use of TYBOST with atazanavir or darunavir and the following dru
 - Hormonal Contraceptives: drospirenone/ ethinyl estradiol
 - Lipid-modifying Agents: lomitapide, lovastatin, simvastatin
 - Non-nucleoside Reverse Transcriptase Inhibitor: nevirapine
-- Phosphodiesterase-5 (PDE-5) Inhibitor: sildenafil when administered as Revatio ® for the treatment of pulmonary arterial hypertension
+- Phosphodiesterase-5 (PDE-5) Inhibitor: sildenafil when administered as Revatio® for the treatment of pulmonary arterial hypertension
 - Protease Inhibitor: indinavir
 - Sedative/hypnotics triazolam, orally administered midazolam
