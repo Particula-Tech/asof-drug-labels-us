@@ -38,6 +38,8 @@ Discuss the following issues with patients and caregivers:
 
 The brands listed are trademarks of their respective owners.
 
-Mylan Pharmaceuticals Inc. Morgantown, WV 26505 U.S.A.
+Manufactured for: Mylan Pharmaceuticals Inc. Morgantown, WV 26505 U.S.A.
 
-Revised: 7/2020 CLOZ:R24
+Manufactured by: Mylan Laboratories Limited Hyderabad — 500 096, India
+
+Revised: 2/2021 MXA:CLOZ:R3
