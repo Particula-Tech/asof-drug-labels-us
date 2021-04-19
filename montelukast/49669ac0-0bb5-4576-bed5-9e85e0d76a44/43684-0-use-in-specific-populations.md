@@ -33,19 +33,21 @@ In embryo-fetal development studies, montelukast administered to pregnant rats a
 Risk Summary
 
 A published clinical lactation study reports the presence of montelukast in human milk.
-Data available on the effects of the drug on infants, either directly [see Use in Specific Populations (8.4)] or through breast milk, do not suggest a significant risk of adverse events from exposure to montelukast sodium.
+Data available on the effects of the drug on infants, either directly [see Use in Specific Populations (8.4)] or through breast milk, do not suggest a significant risk of adverse reactions from exposure to montelukast sodium.
 The effects of the drug on milk production are unknown.
-The developmental and health benefits of breastfeeding should be considered along with the mother’s clinical need for montelukast sodium and any potential adverse effects on the breastfed infant from montelukast sodium or from the underlying maternal condition.
+The developmental and health benefits of breastfeeding should be considered along with the mother’s clinical need for montelukast sodium and any potential adverse reactions on the breastfed infant from montelukast sodium or from the underlying maternal condition.
 
 ## 8.4 Pediatric Use
 
-Safety and efficacy of montelukast sodium have been established in adequate and well-controlled studies in pediatric patients with asthma 6 to 14 years of age.
-Safety and efficacy profiles in this age group are similar to those seen in adults [see Adverse Reactions (6.1), Clinical Pharmacology, Special Populations (12.3), and Clinical Studies (14.1, 14.2)].
-The efficacy of montelukast sodium for the treatment of seasonal allergic rhinitis in pediatric patients 2 to 14 years of age and for the treatment of perennial allergic rhinitis in pediatric patients 2 to 14 years of age is supported by extrapolation from the demonstrated efficacy in patients 15 years of age and older with allergic rhinitis as well as the assumption that the disease course, pathophysiology and the drug’s effect are substantially similar among these populations.
-The safety of montelukast chewable tablets 4 mg in pediatric patients 2 to 5 years of age with asthma has been demonstrated by adequate and well-controlled data [see Adverse Reactions (6.1)].
-Efficacy of montelukast sodium in this age group is extrapolated from the demonstrated efficacy in patients 6 years of age and older with asthma and is based on similar pharmacokinetic data, as well as the assumption that the disease course, pathophysiology and the drug’s effect are substantially similar among these populations.
-Efficacy in this age group is supported by exploratory efficacy assessments from a large, well-controlled safety study conducted in patients 2 to 5 years of age.
-The safety of montelukast chewable tablets 4 mg and 5 mg in pediatric patients aged 2 to 14 years with allergic rhinitis is supported by data from studies conducted in pediatric patients aged 2 to 14 years with asthma.
+Safety and effectiveness of montelukast sodium for asthma have been established in pediatric patients 6 to 14 years of age.
+Use of montelukast sodium for this indication is supported by evidence from well-controlled studies.
+Safety and efficacy data in this age group are similar to those seen in adults [see Adverse Reactions (6.1), Clinical Pharmacology, Specific Populations (12.3), and Clinical Studies (14.1, 14.2)].
+
+The effectiveness of montelukast sodium for the treatment of seasonal allergic rhinitis in pediatric patients 2 to 14 years of age and for the treatment of perennial allergic rhinitis in pediatric patients 2 to 14 years of age have been established and is supported by extrapolation from the demonstrated effectiveness in patients 15 years of age and older with allergic rhinitis as well as the assumption that the disease course, pathophysiology and the drug’s effect are substantially similar among these populations.
+The safety of montelukast sodium chewable tablets 4 mg in pediatric patients 2 to 5 years of age with asthma has been demonstrated by adequate and well-controlled data [see Adverse Reactions (6.1)].
+Effectiveness of montelukast sodium in this age group is extrapolated from the demonstrated effectiveness in patients 6 years of age and older with asthma and is based on similar pharmacokinetic data, as well as the assumption that the disease course, pathophysiology and the drug’s effect are substantially similar among these populations.
+Effectiveness in this age group is supported by exploratory efficacy assessments from a large, well-controlled safety study conducted in patients 2 to 5 years of age.
+The safety of montelukast sodium chewable tablets 4 mg and 5 mg in pediatric patients aged 2 to 14 years with allergic rhinitis is supported by data from studies conducted in pediatric patients aged 2 to 14 years with asthma.
 A safety study in pediatric patients 2 to 14 years of age with seasonal allergic rhinitis demonstrated a similar safety profile [see Adverse Reactions (6.1)].
 The safety and effectiveness in pediatric patients below the age of 12 months with asthma, 6 months with perennial allergic rhinitis, and 6 years with exercise-induced bronchoconstriction have not been established.
 Growth Rate in Pediatric Patients A 56-week, multi-center, double-blind, randomized, active- and placebo-controlled parallel group study was conducted to assess the effect of montelukast sodium on growth rate in 360 patients with mild asthma, aged 6 to 8 years.
@@ -64,10 +66,10 @@ The pharmacokinetic profile and the oral bioavailability of a single 10 mg oral 
 The plasma half-life of montelukast is slightly longer in the elderly.
 No dosage adjustment in the elderly is required.
 
-## 8.6 Hepatic Insufficiency
+## 8.6 Hepatic Impairment
 
-No dosage adjustment is required in patients with mild-to-moderate hepatic insufficiency [see Clinical Pharmacology (12.3)].
+No dosage adjustment is recommended in patients with mild-to-moderate hepatic insufficiency [see Clinical Pharmacology (12.3)].
 
-## 8.7 Renal Insufficiency
+## 8.7 Renal Impairment
 
 No dosage adjustment is recommended in patients with renal insufficiency [see Clinical Pharmacology (12.3)].
