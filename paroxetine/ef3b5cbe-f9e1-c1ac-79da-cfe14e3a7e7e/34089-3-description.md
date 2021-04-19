@@ -1,13 +1,22 @@
-# DESCRIPTION
+# 11 DESCRIPTION
 
-PAXIL (paroxetine hydrochloride) is an orally administered psychotropic drug.
-It is the hydrochloride salt of a phenylpiperidine compound identified chemically as (-)-trans-4R-(4'-fluorophenyl)-3S-[(3',4'-methylenedioxyphenoxy) methyl] piperidine hydrochloride hemihydrate and has the empirical formula of C19H20FNO3•HCl•1/2H2O.
+PAXIL contains paroxetine hydrochloride, an SSRI.
+It is the hydrochloride salt of a phenylpiperidine compound identified chemically as (-)-trans-4R-(4'-fluorophenyl)-3S-[(3',4'-methylenedioxyphenoxy) methyl] piperidine hydrochloride hemihydrate and has the empirical formula of C19H20FNO3·HCl·1/2H2O.
 The molecular weight is 374.8 (329.4 as free base).
 The structural formula of paroxetine hydrochloride is:
 
 Paroxetine hydrochloride is an odorless, off‑white powder, having a melting point range of 120° to 138°C and a solubility of 5.4 mg/mL in water.
 
-## Tablets:
+PAXIL Tablets
 
-Each film‑coated tablet contains paroxetine hydrochloride equivalent to paroxetine as follows: 10 mg–yellow (scored); 20 mg–pink (scored); 30 mg–blue, 40 mg–green.
+PAXIL tablets are for oral administration.
+Each film‑coated tablet contains 10 mg, 20 mg, 30 mg, or 40 mg of paroxetine equivalent to 11.1 mg, 22.2 mg, 33.3 mg or 44.4 mg of paroxetine hydrochloride, respectively.
+
 Inactive ingredients consist of dibasic calcium phosphate dihydrate, hypromellose, magnesium stearate, polyethylene glycols, polysorbate 80, sodium starch glycolate, titanium dioxide, and 1 or more of the following: D&C Red No. 30 aluminum lake, D&C Yellow No. 10 aluminum lake, FD&C Blue No. 2 aluminum lake, FD&C Yellow No. 6 aluminum lake.
+
+PAXIL Oral Suspension
+
+PAXIL oral suspension is for oral administration.
+Each 5 mL contains 10 mg of paroxetine equivalent to 11.1 mg of paroxetine hydrochloride.
+
+Inactive ingredients consist of citric acid (anhydrous), FD&C yellow No. 6, flavorings, glycerin, methylparaben, microcrystalline cellulose and carboxymethylcellulose sodium, polacrilin potassium, propylene glycol, propylparaben, purified water, saccharin sodium, simethicone emulsion and sodium citrate (dihydrate).

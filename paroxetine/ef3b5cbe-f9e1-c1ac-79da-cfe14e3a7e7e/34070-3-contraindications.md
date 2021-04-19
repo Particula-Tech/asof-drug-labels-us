@@ -1,10 +1,10 @@
-# CONTRAINDICATIONS
+# 4 CONTRAINDICATIONS
 
-The use of MAOIs intended to treat psychiatric disorders with PAXIL or within 14 days of stopping treatment with PAXIL is contraindicated because of an increased risk of serotonin syndrome.
-The use of PAXIL within 14 days of stopping an MAOI intended to treat psychiatric disorders is also contraindicated (see WARNINGS and DOSAGE AND ADMINISTRATION).
+PAXIL is contraindicated in patients:
 
-Starting PAXIL in a patient who is being treated with MAOIs such as linezolid or intravenous methylene blue is also contraindicated because of an increased risk of serotonin syndrome (see WARNINGS and DOSAGE AND ADMINISTRATION).
-
-Concomitant use with thioridazine is contraindicated (see WARNINGS and PRECAUTIONS).
-Concomitant use in patients taking pimozide is contraindicated (see PRECAUTIONS).
-PAXIL is contraindicated in patients with a hypersensitivity to paroxetine or any of the inactive ingredients in PAXIL.
+- Taking, or within 14 days of stopping, MAOIs (including the MAOIs linezolid and intravenous methylene blue) because of an increased risk of serotonin syndrome [see Warnings and Precautions (5.2), Drug Interactions (7)].
+- Taking thioridazine because of risk of QT prolongation [see Warnings and Precautions (5.
+  3) and Drug Interactions (7)]
+- Taking pimozide because of risk of QT prolongation [see Warnings and Precautions (5.
+  3) and Drug Interactions (7)]
+- With known hypersensitivity (e.g., anaphylaxis, angioedema, Stevens-Johnson syndrome) to paroxetine or any of the inactive ingredients in PAXIL [see Adverse Reactions (6.1), (6.2)].
