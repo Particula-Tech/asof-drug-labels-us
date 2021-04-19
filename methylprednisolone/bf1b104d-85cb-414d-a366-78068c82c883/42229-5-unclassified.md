@@ -7,8 +7,6 @@ For current full prescribing information, please visit www.pfizer.com.
 
 Distributed by Pharmacia & Upjohn Co Division of Pfizer Inc New York, NY 10017
 
-novaplus™
-
 Novaplus is a registered trademark of Vizient, Inc.
 
-LAB-0407-9.0 February 2018
+LAB-0407-10.0 Revised February 2021

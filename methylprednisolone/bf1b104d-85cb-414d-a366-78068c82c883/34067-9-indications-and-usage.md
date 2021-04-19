@@ -18,7 +18,7 @@ Miscellaneous: Trichinosis with neurologic or myocardial involvement, tuberculou
 
 Neoplastic Diseases: For palliative management of: leukemias and lymphomas.
 
-Nervous System: Acute exacerbations of multiple sclerosis; cerebral edema associated with primary or metastatic brain tumor or craniotomy.
+Nervous System: Cerebral edema associated with primary or metastatic brain tumor or craniotomy.
 
 Ophthalmic Diseases: Sympathetic opthalmia, temporal arteritis, uveitis, ocular inflammatory conditions unresponsive to topical corticosteroids.
 
