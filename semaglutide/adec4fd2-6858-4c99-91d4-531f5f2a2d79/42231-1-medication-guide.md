@@ -33,15 +33,21 @@ OZEMPIC is an injectable prescription medicine used:
 
 It is not known if OZEMPIC can be used in people who have had pancreatitis.
 
-OZEMPIC is not a substitute for insulin and is not for use in people with type 1 diabetes or people with diabetic ketoacidosis.
+OZEMPIC is not for use in people with type 1 diabetes.
 
 It is not known if OZEMPIC is safe and effective for use in children under 18 years of age.
 
 Do not use OZEMPIC if:
 
 - •you or any of your family have ever had a type of thyroid cancer called medullary thyroid carcinoma (MTC) or if you have an endocrine system condition called Multiple Endocrine Neoplasia syndrome type 2 (MEN 2).
-- •you are allergic to semaglutide or any of the ingredients in OZEMPIC.
+- •you have had a serious allergic reaction to semaglutide or any of the ingredients in OZEMPIC.
   See the end of this Medication Guide for a complete list of ingredients in OZEMPIC.
+  Symptoms of a serious allergic reaction include:
+  - oswelling of your face, lips, tongue or throat
+  - oproblems breathing or swallowing
+  - osevere rash or itching
+  - ofainting or feeling dizzy
+  - overy rapid heartbeat
 
 Before using OZEMPIC, tell your healthcare provider if you have any other medical conditions, including if you:
 
@@ -102,23 +108,23 @@ OZEMPIC may cause serious side effects, including:
 - •low blood sugar (hypoglycemia).
   Your risk for getting low blood sugar may be higher if you use OZEMPIC with another medicine that can cause low blood sugar, such as a sulfonylurea or insulin.
   Signs and symptoms of low blood sugar may include:
-  - odizziness or light-headedness
-  - oblurred vision
-  - oanxiety, irritability, or mood changes
-  - osweating
-  - oslurred speech
-  - ohunger
-  - oconfusion or drowsiness
-  - oshakiness
-  - oweakness
-  - oheadache
-  - ofast heartbeat
-  - ofeeling jittery
+
+| odizziness or light-headedness | oblurred vision | oanxiety, irritability, or mood changes |
+| --- | --- | --- |
+| osweating | oslurred speech | ohunger |
+| oconfusion or drowsiness | oshakiness | oweakness |
+| oheadache | ofast heartbeat | ofeeling jittery |
+
 - •kidney problems (kidney failure).
   In people who have kidney problems, diarrhea, nausea, and vomiting may cause a loss of fluids (dehydration) which may cause kidney problems to get worse.
   It is important for you to drink fluids to help reduce your chance of dehydration.
 - •serious allergic reactions.
-  Stop using OZEMPIC and get medical help right away, if you have any symptoms of a serious allergic reaction including itching, rash, or difficulty breathing.
+  Stop using OZEMPIC and get medical help right away, if you have any symptoms of a serious allergic reaction including:
+  - oswelling of your face, lips, tongue or throat
+  - oproblems breathing or swallowing
+  - osevere rash or itching
+  - ofainting or feeling dizzy
+  - overy rapid heartbeat.
 
 The most common side effects of OZEMPIC may include nausea, vomiting, diarrhea, stomach (abdominal) pain and constipation.
 
@@ -151,8 +157,8 @@ OZEMPIC® is a registered trademark of Novo Nordisk A/S.
 
 PATENT Information: http://novonordisk-us.com/products/product-patents.html
 
-© 2020 Novo Nordisk
+© 2021 Novo Nordisk
 
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
 
-Revised: 01/2020
+Revised: 04/2021

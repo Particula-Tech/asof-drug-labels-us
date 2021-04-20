@@ -41,8 +41,10 @@ Pen-sharing poses a risk for transmission of blood-borne pathogens.
 
 ## 5.5 Hypoglycemia with Concomitant Use of Insulin Secretagogues or Insulin
 
-The risk of hypoglycemia is increased when OZEMPIC is used in combination with insulin secretagogues (e.g., sulfonylureas) or insulin.
-Patients may require a lower dose of the secretagogue or insulin to reduce the risk of hypoglycemia in this setting [see Adverse Reactions (6.1), Drug Interactions (7.1)].
+Patients receiving OZEMPIC in combination with an insulin secretagogue (e.g., sulfonylurea) or insulin may have an increased risk of hypoglycemia, including severe hypoglycemia [see Adverse Reactions (6.1) and Drug Interactions (7)].
+
+The risk of hypoglycemia may be lowered by a reduction in the dose of sulfonylurea (or other concomitantly administered insulin secretagogue) or insulin.
+Inform patients using these concomitant medications of the risk of hypoglycemia and educate them on the signs and symptoms of hypoglycemia.
 
 ## 5.6 Acute Kidney Injury
 
@@ -53,9 +55,9 @@ Monitor renal function when initiating or escalating doses of OZEMPIC in patient
 
 ## 5.7 Hypersensitivity
 
-Serious hypersensitivity reactions (e.g., anaphylaxis, angioedema) have been reported with GLP-1 receptor agonists.
+Serious hypersensitivity reactions (e.g., anaphylaxis, angioedema) have been reported in patients treated with OZEMPIC.
 If hypersensitivity reactions occur, discontinue use of OZEMPIC; treat promptly per standard of care, and monitor until signs and symptoms resolve.
-Do not use in patients with a previous hypersensitivity to OZEMPIC [see Contraindications (4)].
+Do not use in patients with a previous hypersensitivity to OZEMPIC [see Contraindications (4) and Adverse Reactions (6.3)].
 
 Anaphylaxis and angioedema have been reported with other GLP-1 receptor agonists.
 Use caution in a patient with a history of angioedema or anaphylaxis with another GLP-1 receptor agonist because it is unknown whether such patients will be predisposed to anaphylaxis with OZEMPIC.

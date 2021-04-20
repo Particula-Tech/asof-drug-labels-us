@@ -10,7 +10,7 @@ The molecular formula is C187H291N45O59 and the molecular weight is 4113.58 g/mo
 Structural formula:
 
 OZEMPIC is a sterile, aqueous, clear, colorless solution.
-Each pre-filled pen contains a 1.5 mL solution of OZEMPIC equivalent to 2 mg semaglutide.
+Each pre-filled pen contains a 1.5 mL solution of OZEMPIC equivalent to 2 mg semaglutide or a 3 mL solution of OZEMPIC equivalent to 4 mg of semaglutide.
 Each 1 mL of OZEMPIC solution contains 1.34 mg of semaglutide and the following inactive ingredients: disodium phosphate dihydrate, 1.42 mg; propylene glycol, 14.0 mg; phenol, 5.50 mg; and water for injections.
 OZEMPIC has a pH of approximately 7.4.
 Hydrochloric acid or sodium hydroxide may be added to adjust pH.

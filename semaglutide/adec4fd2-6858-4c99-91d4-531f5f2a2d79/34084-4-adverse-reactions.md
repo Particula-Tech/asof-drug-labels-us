@@ -128,3 +128,10 @@ For these reasons, the incidence of antibodies to semaglutide in the studies des
 Across the placebo- and active-controlled glycemic control trials, 32 (1.0%) OZEMPIC-treated patients developed anti-drug antibodies (ADAs) to the active ingredient in OZEMPIC (i.e., semaglutide).
 Of the 32 semaglutide-treated patients that developed semaglutide ADAs, 19 patients (0.6% of the overall population) developed antibodies cross-reacting with native GLP-1.
 The in vitro neutralizing activity of the antibodies is uncertain at this time.
+
+## 6.3 Postmarketing Experience
+
+The following adverse reactions have been reported during post-approval use of semaglutide, the active ingredient of OZEMPIC.
+Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
+
+Hypersensitivity:anaphylaxis, angioedema, rash, urticaria.

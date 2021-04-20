@@ -2,8 +2,7 @@
 
 ## 7.1 Concomitant Use with an Insulin Secretagogue (e.g., Sulfonylurea) or with Insulin
 
-The risk of hypoglycemia is increased when OZEMPIC is used in combination with insulin secretagogues (e.g., sulfonylureas) or insulin.
-The risk of hypoglycemia may be lowered by a reduction in the dose of sulfonylurea (or other concomitantly administered insulin secretagogues) or insulin [see Warnings and Precautions (5.5)].
+When initiating OZEMPIC, consider reducing the dose of concomitantly administered insulin secretagogue (such as sulfonylureas) or insulin to reduce the risk of hypoglycemia [see Warnings and Precautions (5.5) and Adverse Reactions (6)].
 
 ## 7.2 Oral Medications
 
