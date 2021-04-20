@@ -1,6 +1,6 @@
 # INSTRUCTIONS FOR USE
 
-SOVALDI ® (soh-VAHL-dee) (sofosbuvir) pellets, for oral use
+SOVALDI® (soh-VAHL-dee) (sofosbuvir) pellets, for oral use
 
 Read the Patient Information that comes with SOVALDI oral pellets for important information about SOVALDI.
 

@@ -18,8 +18,8 @@ Table 1 Recommended Treatment Regimen and Duration in Adult Patients with Genoty
 
 |  | Patient Population | Treatment Regimen and Duration |
 | --- | --- | --- |
-| Genotype 1 or 4 | Treatment-naïve without cirrhosis or with compensated cirrhosis (Child-Pugh A) | SOVALDI + peginterferon alfa See peginterferon alfa prescribing information for dosage recommendation for patients with genotype 1 or 4 HCV. + ribavirin Dosage of ribavirin is weight-based (<75 kg = 1000 mg and ≥75 kg = 1200 mg). The daily dosage of ribavirin is administered orally in two divided doses with food. Patients with renal impairment (CrCl ≤50 mL/min) require ribavirin dosage reduction; refer to ribavirin tablet prescribing information. 12 weeks |
-| Genotype 2 | Treatment-naïve and treatment-experienced Treatment-experienced patients have failed an interferon-based regimen with or without ribavirin. without cirrhosis or with compensated cirrhosis (Child-Pugh A) | SOVALDI + ribavirin 12 weeks |
+| Genotype 1 or 4 | Treatment-naïve without cirrhosis or with compensated cirrhosis (Child-Pugh A) | SOVALDI + peginterferon alfaSee peginterferon alfa prescribing information for dosage recommendation for patients with genotype 1 or 4 HCV. + ribavirinDosage of ribavirin is weight-based (<75 kg = 1000 mg and ≥75 kg = 1200 mg). The daily dosage of ribavirin is administered orally in two divided doses with food. Patients with renal impairment (CrCl ≤50 mL/min) require ribavirin dosage reduction; refer to ribavirin tablet prescribing information. 12 weeks |
+| Genotype 2 | Treatment-naïve and treatment-experiencedTreatment-experienced patients have failed an interferon-based regimen with or without ribavirin. without cirrhosis or with compensated cirrhosis (Child-Pugh A) | SOVALDI + ribavirin 12 weeks |
 | Genotype 3 | Treatment-naïve and treatment-experienced without cirrhosis or with compensated cirrhosis (Child-Pugh A) | SOVALDI + ribavirin 24 weeks |
 
 Patients with Genotype 1 HCV Who are Ineligible to Receive an Interferon-Based Regimen
@@ -43,7 +43,7 @@ Table 2 Recommended Treatment Regimen and Duration in Pediatric Patients 3 Years
 
 |  | Patient Population | Treatment Regimen and Duration |
 | --- | --- | --- |
-| Genotype 2 | Treatment-naïve and treatment-experienced Treatment-experienced patients have failed an interferon based regimen with or without ribavirin. without cirrhosis or with compensated cirrhosis (Child-Pugh A) | SOVALDI + ribavirin See Table 4 for weight-based ribavirin dosing recommendations. 12 weeks |
+| Genotype 2 | Treatment-naïve and treatment-experiencedTreatment-experienced patients have failed an interferon based regimen with or without ribavirin. without cirrhosis or with compensated cirrhosis (Child-Pugh A) | SOVALDI + ribavirinSee Table 4 for weight-based ribavirin dosing recommendations. 12 weeks |
 | Genotype 3 | Treatment-naïve and treatment-experienced without cirrhosis or with compensated cirrhosis (Child-Pugh A) | SOVALDI + ribavirin 24 weeks |
 
 The recommended dosage of SOVALDI in pediatric patients 3 years and older with genotype 2 or 3 HCV using SOVALDI tablets or oral pellets (with or without food) is based on weight (Table 3), and is to be taken orally once daily in combination with ribavirin [see Dosage and Administration (2.4), Use in Specific Populations (8.4), Clinical Pharmacology (12.3), and Clinical Studies (14.5)].
@@ -59,7 +59,7 @@ Table 3 Dosing for Pediatric Patients 3 Years and Older Using SOVALDI Tablets or
 
 Table 4 Recommended Dosing for Ribavirin in Combination Therapy with SOVALDI for Pediatric Patients 3 Years and Older
 
-| Body Weight (kg) | Oral Ribavirin Daily Dosage The daily dosage of ribavirin is weight-based and is administered orally in two divided doses with food. |
+| Body Weight (kg) | Oral Ribavirin Daily DosageThe daily dosage of ribavirin is weight-based and is administered orally in two divided doses with food. |
 | --- | --- |
 | less than 47 | 15 mg per kg per day (divided dose AM and PM) |
 | 47–49 | 600 mg per day (1 × 200 mg AM, 2 × 200 mg PM) |
@@ -69,7 +69,7 @@ Table 4 Recommended Dosing for Ribavirin in Combination Therapy with SOVALDI for
 
 ## 2.4 Preparation and Administration of Oral Pellets
 
-See the SOVALDI oral pellets full Instructions for Use for details on the preparation and administration of SOVALDI pellets.See the SOVALDI oral pellets full Instructions for Use for details on the preparation and administration of SOVALDI pellets.
+See the SOVALDI oral pellets full Instructions for Use for details on the preparation and administration of SOVALDI pellets.
 
 Do not chew SOVALDI pellets.
 If SOVALDI pellets are administered with food, sprinkle the pellets on one or more spoonfuls of non-acidic soft food at or below room temperature.
@@ -89,4 +89,4 @@ If the other agents used in combination with SOVALDI are permanently discontinue
 
 ## 2.7 Severe Renal Impairment and End Stage Renal Disease
 
-No dosage recommendation can be given for patients with severe renal impairment (estimated Glomerular Filtration Rate [eGFR] less than 30 mL/min/1.73m 2) or with end stage renal disease (ESRD) due to higher exposures (up to 20-fold) of the predominant sofosbuvir metabolite [see Use in Specific Populations (8.6) and Clinical Pharmacology (12.3)].
+No dosage recommendation can be given for patients with severe renal impairment (estimated Glomerular Filtration Rate [eGFR] less than 30 mL/min/1.73m2) or with end stage renal disease (ESRD) due to higher exposures (up to 20-fold) of the predominant sofosbuvir metabolite [see Use in Specific Populations (8.6) and Clinical Pharmacology (12.3)].
