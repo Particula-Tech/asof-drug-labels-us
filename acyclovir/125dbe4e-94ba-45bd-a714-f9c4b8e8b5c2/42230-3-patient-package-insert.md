@@ -1,4 +1,6 @@
-# PATIENT INFORMATION ZOVIRAX (zho-vahy-rex) (acyclovir) Cream
+# PATIENT INFORMATION
+
+ZOVIRAX (zho-vahy-rex) (acyclovir) Cream
 
 Important information: ZOVIRAX Cream is for use on cold sores on the lips and around the mouth only.
 ZOVIRAX Cream should not be used in your eyes, mouth, nose, or on your genitals.
@@ -60,10 +62,20 @@ You can ask your pharmacist or healthcare provider for information about ZOVIRAX
 
 What are the ingredients in ZOVIRAX Cream?
 
-Active ingredient: acyclovir
+Active ingredient: acyclovir Inactive ingredients: cetostearyl alcohol, mineral oil, poloxamer 407, propylene glycol, sodium lauryl sulfate, water, and white petrolatum
 
-Inactive ingredients: cetostearyl alcohol, mineral oil, poloxamer 407, propylene glycol, sodium lauryl sulfate, water, and white petrolatum
+Distributed by: Bausch Health US, LLC Bridgewater, NJ 08807 USA
 
-Distributed by: Bausch Health US, LLC Bridgewater, NJ 08807 USA Manufactured by: Bausch Health Companies Inc. Laval, Quebec H7L 4A8, Canada Zovirax is a registered trademark of the GlaxoSmithKline group used under license by Bausch Health. © 2020 Bausch Health Companies Inc. or its affiliates For more information, call 1-800-321-4576.
+Manufactured by: Bausch Health Companies Inc. Laval, Quebec H7L 4A8, Canada
+
+Zovirax is a trademark of GlaxoSmithKline LLC used under license.
+
+© 2021 Bausch Health Companies Inc. or its affiliates
+
+For more information, call 1-800-321-4576.
+
 This Patient Information has been approved by the U.S. Food and Drug Administration.
-Revised: 12/2020 9462203
+
+Revised: 02/2021
+
+9462203

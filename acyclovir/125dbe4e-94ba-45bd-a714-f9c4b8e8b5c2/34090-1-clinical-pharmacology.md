@@ -2,7 +2,7 @@
 
 ## 12.1 Mechanism of Action
 
-Acyclovir is an antiviral drug active against α-herpesviruses [seeMicrobiology (12.4)].
+Acyclovir is an antiviral drug active against α-herpesviruses [see Microbiology (12.4)].
 
 ## 12.3 Pharmacokinetics
 
@@ -79,5 +79,5 @@ Table 3: Summary of Amino Acid Substitutions Conferring Cross-Resistance to PCV,
 | Cross-resistant to PCV/FCV | HSV-1 POL | A657T, D672N, V715G, A719V, S724N, E798K, N815S, G841S |
 | Cross-resistant to PCV/FCV | HSV-2 TK | G39E, R51W, Y53N, R177W, R221H, T288M |
 | Cross-resistant to PCV/FCV | HSV-2 POL | K533E, A606V, C625R, R628C, S729N, Q732R, M789K/T, V818A, N820S, F923L, T934A |
-| Cross-resistant to FOS | HSV-1 POL | D368A, A605V, D672N, L702H, V715G, A719T/V, S724N, L778M, E798K, V813M, N815S, V817M, G841C/S, I890M, |
+| Cross-resistant to FOS | HSV-1 POL | D368A, A605V, D672N, L702H, V715G, A719T/V, S724N, L778M, E798K, V813M, N815S, V817M, G841C/S, I890M |
 | Cross-resistant to FOS | HSV-2 POL | K533E, A606V, C625R, R628C, A724V, S725G, S729N, I731F, Q732R, M789K/T, V818A, Y823C, D912V, F923L, T934A, R964H |
