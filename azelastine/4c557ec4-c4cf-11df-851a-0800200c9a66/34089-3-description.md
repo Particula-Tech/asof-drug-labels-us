@@ -1,6 +1,6 @@
 # 11 DESCRIPTION
 
-Dymista (azelastine hydrochloride and fluticasone propionate) nasal spray is formulated as a white, uniform metered-spray suspension for intranasal administration.
+Dymista (azelastine hydrochloride and fluticasone propionate) nasal spray is formulated as a white, uniform metered-spray suspension for nasal administration.
 It is a fixed dose combination product containing an antihistamine (H1 receptor antagonist) and a corticosteroid as active ingredients.
 
 Azelastine hydrochloride active ingredient occurs as a white, odorless, crystalline powder with a bitter taste.

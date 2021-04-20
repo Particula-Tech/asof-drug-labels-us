@@ -10,7 +10,7 @@ While the data regarding the use of nasal preparations of fluticasone propionate
 
 Animal reproduction studies with DYMISTA are not available; however, studies are available with its individual components, azelastine hydrochloride and fluticasone propionate.
 In animal reproduction studies, there was no evidence of fetal harm in animals at oral doses of azelastine hydrochloride approximately 10 times the clinical daily dose.
-Oral administration of azelastine hydrochloride to pregnant mice, rats, and rabbits, during the period of organogenesis, produced developmental toxicity that included structural abnormalities, decreased embryo-fetal survival, and decreased fetal body weights at doses 530 times and higher than the maximum recommended human daily intranasal dose (MRHDID) of 0.548 mg.
+Oral administration of azelastine hydrochloride to pregnant mice, rats, and rabbits, during the period of organogenesis, produced developmental toxicity that included structural abnormalities, decreased embryo-fetal survival, and decreased fetal body weights at doses 530 times and higher than the maximum recommended human daily nasal dose (MRHDID) of 0.548 mg.
 However, the relevance of these findings in animals to pregnant women was considered questionable based upon the high animal to human dose multiple.
 
 In animal reproduction studies, fluticasone propionate administered via nose-only inhalation to rats decreased fetal body weight, but did not induce teratogenicity at a maternal toxic dose less than the MRHDID on a mcg/m2 basis.
@@ -66,7 +66,7 @@ There are no available data on the presence of azelastine hydrochloride or fluti
 Breastfed infants should be monitored for signs of milk rejection during DYMISTA use by lactating women (see Clinical Considerations).
 Fluticasone propionate is present in rat milk (see Data).
 Other corticosteroids have been detected in human milk.
-However, fluticasone propionate concentrations in plasma after intranasal therapeutic doses are low and therefore concentrations in human breast milk are likely to be correspondingly low [see Clinical Pharmacology (12.3)].
+However, fluticasone propionate concentrations in plasma after nasal therapeutic doses are low and therefore concentrations in human breast milk are likely to be correspondingly low [see Clinical Pharmacology (12.3)].
 The developmental and health benefits of breastfeeding should be considered along with the mother’s clinical need for DYMISTA and any potential adverse effects on the breastfed infant from DYMISTA or from the underlying maternal condition.
 
 ### Clinical Considerations
@@ -81,18 +81,19 @@ Subcutaneous administration of 10 mcg/kg of tritiated fluticasone propionate to 
 
 ## 8.4 Pediatric Use
 
-Use of DYMISTA for seasonal allergic rhinitis in pediatric patients 6 to 11 years of age is supported by safety and efficacy data from clinical studies (416 patients 6 to 11 years of age with allergic rhinitis were treated with DYMISTA in controlled clinical trials) and the established efficacy and safety of azelastine hydrochloride nasal spray and fluticasone propionate nasal spray in this age group [see Adverse Reactions(6.1) and Clinical Studies (14)].
+The safety and effectiveness of DYMISTA for seasonal allergic rhinitis have been established in pediatric patients aged 6 years and older.
+Use of DYMISTA for this indication in pediatric patients 6 to 11 years of age is supported by evidence from controlled clinical trials (416 patients 6 to 11 years of age with allergic rhinitis were treated with DYMISTA) [see Adverse Reactions(6.1) and Clinical Studies (14)].
 
 Sixty-one patients ages 4-5 years of age were treated with DYMISTA in the pediatric studies described above.
-Safety findings in children 4-5 years of age were similar to those in children 6-11 years of age, but efficacy was not established.
+Safety findings in children 4-5 years of age were similar to those in children 6-11 years of age, but effectiveness has not been established.
 
-Safety and effectiveness of DYMISTA has not been studied in pediatric patients below the age of 4 years.
+Safety and effectiveness of DYMISTA have not been established in pediatric patients below the age of 4 years.
 
-Controlled clinical studies have shown that intranasal corticosteroids may cause a reduction in growth velocity in pediatric patients.
+Controlled clinical studies have shown that nasal corticosteroids may cause a reduction in growth velocity in pediatric patients.
 This effect has been observed in the absence of laboratory evidence of HPA axis suppression, suggesting that growth velocity is a more sensitive indicator of systemic corticosteroid exposure in pediatric patients than some commonly used tests of HPA axis function.
-The long-term effects of this reduction in growth velocity associated with intranasal corticosteroids, including the impact on final adult height, are unknown.
-The potential for “catch-up” growth following discontinuation of treatment with intranasal corticosteroids has not been adequately studied.
-The growth of pediatric patients receiving intranasal corticosteroids, including DYMISTA, should be monitored routinely (e.g., via stadiometry).
+The long-term effects of this reduction in growth velocity associated with nasal corticosteroids, including the impact on final adult height, are unknown.
+The potential for “catch-up” growth following discontinuation of treatment with nasal corticosteroids has not been adequately studied.
+The growth of pediatric patients receiving nasal corticosteroids, including DYMISTA, should be monitored routinely (e.g., via stadiometry).
 The potential growth effects of prolonged treatment should be weighed against the clinical benefits obtained and the risks/benefits of treatment alternatives.
 
 ## 8.5 Geriatric Use

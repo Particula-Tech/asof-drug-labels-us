@@ -1,12 +1,12 @@
 # 6 ADVERSE REACTIONS
 
-Systemic and local corticosteroid use may result in the following:
+The following clinically significant adverse reactions are described elsewhere in the labeling:
 
 - •Somnolence [see Warnings and Precautions (5.1)]
 - •Local nasal effects, including epistaxis, nasal ulceration, nasal septal perforation, impaired wound healing, and Candida albicans infection [see Warnings and Precautions (5.2)]
-- •Glaucoma and cataracts [see Warnings and Precautions (5.3)]
-- •Immunosuppression [see Warnings and Precautions (5.4)]
-- •Hypothalamic-pituitary-adrenal (HPA) axis effects, including growth reduction [see Warnings and Precautions (5.5 and 5.7), Use in Specific Populations (8.4)]
+- •Glaucoma and Cataracts [see Warnings and Precautions (5.3)]
+- •Immunosuppression and Risk of Infections [see Warnings and Precautions (5.4)]
+- •Hypercorticism and Adrenal Suppression, including growth reduction [see Warnings and Precautions (5.5 and 5.7), Use in Specific Populations (8.4)]
 
 ## 6.1 Clinical Trials Experience
 
@@ -30,9 +30,9 @@ Adverse Reactions with ≥ 2% Incidence and More Frequently than Placebo in Plac
 |  | 1 spray per nostril twice daily |  |  |  |
 | --- | --- | --- | --- | --- |
 | DYMISTA(N = 853)Safety population N = 853, intent-to-treat population N = 848 | Azelastine Hydrochloride Nasal SprayNot commercially marketed (N = 851) | Fluticasone Propionate Nasal Spray(N = 846) | Vehicle Placebo(N = 861) |  |
-| Dysgeusia | 30(4%) | 44(5%) | 4(1%) | 2(<1%) |
-| Headache | 18(2%) | 20(2%) | 20(2%) | 10(1%) |
-| Epistaxis | 16(2%) | 14(2%) | 14(2%) | 15(2%) |
+| Dysgeusia | 30 (4%) | 44 (5%) | 4 (1%) | 2 (<1%) |
+| Headache | 18 (2%) | 20 (2%) | 20 (2%) | 10 (1%) |
+| Epistaxis | 16 (2%) | 14 (2%) | 14 (2%) | 15 (2%) |
 
 In the above trials, somnolence was reported in <1% of patients treated with DYMISTA (6 of 853) or vehicle placebo (1 of 861) [see Warnings and Precautions (5.1)].
 
@@ -69,7 +69,7 @@ In the DYMISTA treatment group, 7 patients (2%) had mild epistaxis and 1 patient
 In the fluticasone propionate nasal spray treatment group 1 patient (<1%) had mild epistaxis.
 No patients had reports of severe epistaxis.
 Focused nasal examinations were performed and no nasal ulcerations or septal perforations were observed.
-Eleven of 404 patients (3%) treated with DYMISTA and 6 of 207 patients (3%) treated with fluticasone propionate nasal spray discontinued from the trial due to adverse events.
+Eleven of 404 patients (3%) treated with DYMISTA and 6 of 207 patients (3%) treated with fluticasone propionate nasal spray discontinued from the trial due to adverse reactions.
 
 ### Long-Term (3-Month) Safety Trial in Pediatric Patients 6-11 Years of Age
 
@@ -82,12 +82,12 @@ In the DYMISTA treatment group 23 patients (9%) had mild epistaxis and 3 patient
 In the fluticasone propionate nasal spray treatment group 8 patients (9%) had mild epistaxis.
 No patients had reports of severe epistaxis.
 Focused nasal examinations were performed and no ulcerations or septal perforations were observed.
-Four of 264 patients (2%) treated with DYMISTA and 3 of 89 (3%) treated with fluticasone propionate nasal spray discontinued from the trial due to adverse events.
+Four of 264 patients (2%) treated with DYMISTA and 3 of 89 (3%) treated with fluticasone propionate nasal spray discontinued from the trial due to adverse reactions.
 There were two reports of somnolence, one severe, among children taking DYMISTA [see Warnings and Precautions (5.1)].
 
 ## 6.2 Postmarketing Experience
 
-The following spontaneous adverse events have been reported with DYMISTA or one of the components (azelastine and fluticasone).
+The following spontaneous adverse reactions have been reported with DYMISTA or one of the components (azelastine and fluticasone).
 Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
 
 Cardiac Disorders: atrial fibrillation, increased heart rate, palpitations

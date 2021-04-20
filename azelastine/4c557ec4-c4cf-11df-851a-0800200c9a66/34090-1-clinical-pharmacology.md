@@ -26,7 +26,7 @@ Corticosteroids have been shown to have a wide range of effects on multiple cell
 
 ## 12.2 Pharmacodynamics
 
-### Cardiac Effects
+### Cardiac Electrophysiology
 
 In a placebo-controlled trial (95 patients with allergic rhinitis), there was no evidence of an effect of azelastine hydrochloride nasal spray (2 sprays per nostril twice daily for 56 days) on cardiac repolarization as represented by the corrected QT interval (QTc) of the electrocardiogram.
 Following multiple dose oral administration of azelastine 4 mg or 8 mg twice daily, the mean change in QTc was 7.2 msec and 3.6 msec, respectively.
@@ -38,12 +38,12 @@ These drugs had no effect on QTc based on analysis of serial electrocardiograms.
 
 ### Absorption
 
-After intranasal administration of two sprays per nostril (548 mcg of azelastine hydrochloride and 200 mcg of fluticasone) of DYMISTA, the mean (± standard deviation) peak plasma exposure (Cmax) was 194.5 ± 74.4 pg/mL for azelastine and 10.3 ± 3.9 pg/mL for fluticasone propionate and the mean total exposure (AUC) was 4217 ± 2618 pg/mL*hr for azelastine and 97.7 ± 43.1 pg/mL*hr for fluticasone.
+After nasal administration of two sprays per nostril (548 mcg of azelastine hydrochloride and 200 mcg of fluticasone) of DYMISTA, the mean (± standard deviation) peak plasma exposure (Cmax) was 194.5 ± 74.4 pg/mL for azelastine and 10.3 ± 3.9 pg/mL for fluticasone propionate and the mean total exposure (AUC) was 4217 ± 2618 pg/mL*hr for azelastine and 97.7 ± 43.1 pg/mL*hr for fluticasone.
 The median time to peak exposure (tmax) from a single dose was 0.5 hours for azelastine and 1.0 hours for fluticasone.
 
-Systemic bioavailability of azelastine from DYMISTA following intranasal administration was comparable with monotherapy azelastine hydrochloride (Astelin®) nasal spray (i.e., approximately 40%).
-Systemic bioavailability of fluticasone from DYMISTA following intranasal administration was 44-61% higher than monotherapy fluticasone propionate (bioavailability for monotherapy fluticasone nasal spray was less than 2%).
-Due to the low intranasal bioavailability, pharmacokinetic data for fluticasone propionate were obtained via other routes of administration.
+Systemic bioavailability of azelastine from DYMISTA following nasal administration was comparable with monotherapy azelastine hydrochloride (Astelin®) nasal spray (i.e., approximately 40%).
+Systemic bioavailability of fluticasone from DYMISTA following nasal administration was 44-61% higher than monotherapy fluticasone propionate (bioavailability for monotherapy fluticasone nasal spray was less than 2%).
+Due to the low nasal bioavailability, pharmacokinetic data for fluticasone propionate were obtained via other routes of administration.
 Studies using oral dosing of radiolabeled fluticasone propionate showed negligible oral bioavailability and high extraction from plasma.
 The majority of the circulating radioactivity was due to an inactive metabolite.
 
@@ -59,6 +59,14 @@ The percentage of fluticasone propionate bound to human plasma proteins averaged
 Fluticasone propionate is weakly and reversibly bound to erythrocytes and freely equilibrates between erythrocytes and plasma.
 Fluticasone propionate is not significantly bound to human transcortin.
 
+### Elimination
+
+Following nasal administration of DYMISTA, the elimination half-life of azelastine hydrochloride is approximately 25 hours.
+Approximately 75% of an oral dose of radiolabeled azelastine hydrochloride was excreted in the feces with less than 10% as unchanged azelastine.
+
+Following intravenous dosing, fluticasone propionate showed polyexponential kinetics and had a terminal elimination half-life of approximately 7.8 hours.
+Less than 5% of a radiolabeled oral dose was excreted in the urine as metabolites, with the remainder excreted in the feces as parent drug and metabolites.
+
 ### Metabolism
 
 Azelastine hydrochloride is oxidatively metabolized to the principal active metabolite, desmethylazelastine, by the cytochrome P450 enzyme system.
@@ -70,40 +78,19 @@ This inactive metabolite had less affinity (approximately 1/2,000) than the pare
 Other metabolites detected in vitro using cultured human hepatoma cells have not been detected in man.
 The average total clearance of fluticasone propionate is relatively high (approximately 66 L/hr).
 
-### Elimination
+### Specific Populations
 
-Following intranasal administration of DYMISTA, the elimination half-life of azelastine hydrochloride is approximately 25 hours.
-Approximately 75% of an oral dose of radiolabeled azelastine hydrochloride was excreted in the feces with less than 10% as unchanged azelastine.
+DYMISTA was not studied in any specific populations, and no gender-specific pharmacokinetic data have been obtained.
 
-Following intravenous dosing, fluticasone propionate showed polyexponential kinetics and had a terminal elimination half-life of approximately 7.8 hours.
-Less than 5% of a radiolabeled oral dose was excreted in the urine as metabolites, with the remainder excreted in the feces as parent drug and metabolites.
+Following oral administration of azelastine hydrochloride, pharmacokinetic parameters were not influenced by hepatic impairment, age, or gender.
+The effect of race has not been evaluated.
 
-### Special Populations
-
-DYMISTA was not studied in any special populations, and no gender-specific pharmacokinetic data have been obtained.
-
-#### Hepatic Impairment
-
-Following oral administration of azelastine hydrochloride, pharmacokinetic parameters were not influenced by hepatic impairment.
-
-#### Renal Impairment
+#### Patients with Renal Impairment
 
 Based on oral, single-dose studies of azelastine hydrochloride, renal impairment (creatinine clearance <50 mL/min) resulted in a 70-75% higher Cmax and AUC compared to healthy subjects.
 Time to maximum concentration was unchanged.
 
-#### Age
-
-Following oral administration of azelastine hydrochloride, pharmacokinetic parameters were not influenced by age.
-
-#### Gender
-
-Following oral administration of azelastine hydrochloride, pharmacokinetic parameters were not influenced by gender.
-
-#### Race
-
-The effect of race has not been evaluated.
-
-### Drug-Drug Interactions
+### Drug Interaction Studies
 
 No formal drug interaction studies have been performed with DYMISTA.
 The drug interactions of the combination are expected to reflect those of the individual components.

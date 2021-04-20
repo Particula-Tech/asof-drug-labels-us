@@ -1,148 +1,15 @@
 # PATIENT INFORMATION
 
-DYMISTA (Dy-Mist-A)
-
-(azelastine hydrochloride and fluticasone
-
-propionate) nasal spray
-
-Important: For use in your nose only
-
-What is DYMISTA?
-
-- •DYMISTA is a prescription medicine used to treat symptoms of seasonal allergic rhinitis in people 6 years of age and older, who need treatment with both azelastine hydrochloride and fluticasone propionate.
-- •DYMISTA may help to reduce your nasal symptoms including stuffy nose, runny nose, itching, and sneezing.
-
-It is not known if DYMISTA is safe or effective in children under 4 years of age.
-
-What should I tell my healthcare provider before using DYMISTA?
-
-Before using DYMISTA tell your healthcare provider if you:
-
-- •have had recent nasal sores, nasal surgery, or nasal injury
-- •have eye or vision problems, such as cataracts or glaucoma (increased pressure in your eye)
-- •have tuberculosis or any untreated fungal, bacterial, viral infections or eye infections caused by herpes
-- •have been near someone who has chickenpox or measles
-- •are not feeling well or have any other symptoms that you do not understand
-- •have any other medical conditions
-- •are pregnant or plan to become pregnant.
-- •are breastfeeding or plan to breastfeed.
-  It is not known if DYMISTA passes into your breast milk.
-  Talk to your healthcare provider about the best way to feed your baby while using DYMISTA.
-
-Tell your healthcare provider about all the medicines you take, including prescription and over-the-counter medicines, vitamins, and herbal supplements.
-
-DYMISTA and other medicines may affect each other, causing side effects.
-
-Especially tell your healthcare provider if you take:
-
-- •ritonavir (Norvir) or medicines that contain ritonavir (commonly used to treat HIV infection or AIDS)
-- •ketoconazole, fluconazole, or itraconazole (for fungal infections)
-
-Ask your healthcare provider or pharmacist for a list of these medications, if you are not sure.
-
-Know the medicines you take.
-Keep a list of your medicines and show it to your healthcare provider and pharmacist when you get a new medicine.
-
-How should I use DYMISTA?
-
-- •Read the Instructions for Use at the end of this leaflet for information about the right way to use DYMISTA.
-- •An adult should help a young child use DYMISTA.
-- •DYMISTA is for use in your nose only.
-  Do not spray it into your eyes or mouth.
-  If you spray DYMISTA into your eyes, flush your eye(s) with large amounts of water for 10 minutes and then call your healthcare provider.
-- •Use DYMISTA exactly as your healthcare provider tells you to use it.
-  Your healthcare provider will tell you how much DYMISTA to use and when to use it.
-- •If a child accidentally swallows DYMISTA or you use too much DYMISTA, call your healthcare provider or go to the nearest hospital emergency room right away.
-
-What should I avoid while using DYMISTA?
-
-- •DYMISTA can cause sleepiness or drowsiness.
-  Do not drive, operate machinery, or do anything that needs you to be alert until you know how DYMISTA affects you.
-- •Do not drink alcohol or take any other medicines that may cause you to feel sleepy while using DYMISTA.
-  It can increase your chances of having serious side effects.
-
-What are the possible side effects of DYMISTA?
-
-DYMISTA may cause serious side effects including:
-
-- •Sleepiness or drowsiness.
-- •Nasal Problems.
-  Symptoms of nasal problems may include:
-  - •crusting in the nose
-  - •nosebleeds
-  - •runny nose
-  - •hole in the cartilage between your nose (nasal septal perforation).
-    A whistling sound when you breathe may be a symptom of nasal septal perforation.
-- •Slow wound healing.
-  You should not use DYMISTA until your nose has healed if you have a sore in your nose, if you have had surgery on your nose, or if your nose has been injured.
-- •Thrush (candida), a fungal infection in your nose and throat.
-  Tell your healthcare provider if you have any redness or white colored patches in your nose or mouth.
-- •Eye problems, such as glaucoma or cataracts.
-  Some people may have eye problems, including glaucoma and cataracts.
-  You should have regular eye exams when using DYMISTA.
-- •Immune system problems that may increase your risk of infections.
-  DYMISTA may cause problems with the way your immune system protects your body against infection and increase your risk of infection.
-  Avoid contact with people who have contagious diseases such as chickenpox or measles while you use DYMISTA.
-  Symptoms of infection may include:
-  - •fever
-  - •aches or pains
-  - •chills
-  - •feeling tired
-- •Adrenal Insufficiency.
-  Adrenal insufficiency is a condition in which the adrenal glands do not make enough steroid hormones.
-  Symptoms of adrenal insufficiency may include:
-  - •tiredness
-  - •weakness
-  - •nausea
-  - •vomiting
-  - •low blood pressure
-- •Slowed or delayed growth in children.
-  A child's growth should be checked regularly while using DYMISTA.
-
-Call your healthcare provider or get medical help right away if you have symptoms of any of the serious side effects listed above.
-
-The most common side effects of DYMISTA Nasal Spray include:
-
-- •changes in taste
-- •nosebleeds
-- •headache
-
-Tell your healthcare provider if you have any side effect that bothers you or that does not go away.
-These are not all of the possible side effects of DYMISTA.
-For more information, ask your healthcare provider or pharmacist.
-
-Call your doctor for medical advice about side effects.
-You may report side effects to FDA at 1-800-FDA-1088.
-
-How should I store DYMISTA?
-
-- •Store DYMISTA upright at controlled room temperature 68° to 77°F (20° to 25°C).
-- •Do not freeze or refrigerate DYMISTA.
-- •Protect DYMISTA from light.
-- •Safely throw away medicine that is out of date or no longer needed.
-- •Throw away your DYMISTA bottle after using 120 sprays after initial priming.
-  Even though the bottle may not be completely empty, you may not get the correct dose of medicine if you continue to use it.
-
-Keep DYMISTA and all medicines out of reach of children.
-
-General information about the safe and effective use of DYMISTA
-
-Medicines are sometimes prescribed for purposes other than those listed in a Patient Information leaflet.
-Do not use DYMISTA for a condition for which it was not prescribed.
-Do not give DYMISTA to other people, even if they have the same symptoms that you have.
-It may harm them.
-
-This Patient Information leaflet summarizes the most important information about DYMISTA.
-If you would like more information, talk with your healthcare provider.
-You can ask your pharmacist or healthcare provider for information about DYMISTA that is written for health professionals.
-
-For more information, go to www.DYMISTA.com or call Meda Pharmaceuticals Inc. at 1-888-939-6478.
-
-What are the ingredients in DYMISTA?
-Active ingredients: azelastine hydrochloride and fluticasone propionate
-
-Inactive ingredients: glycerin, microcrystalline cellulose and carboxymethylcellulose sodium, phenylethyl alcohol, edetate disodium, benzalkonium chloride, polysorbate 80, and purified water.
+| DYMISTA (Dy-Mist-A) (azelastine hydrochloride and fluticasone propionate) nasal spray |
+| --- |
+| Important: For use in your nose onlyWhat is DYMISTA? •DYMISTA is a prescription medicine used to treat symptoms of seasonal allergic rhinitis in people 6 years of age and older. •DYMISTA may help to reduce your nasal symptoms including stuffy nose, runny nose, itching, and sneezing. It is not known if DYMISTA is safe or effective in children under 4 years of age. |
+| What should I tell my healthcare provider before using DYMISTA? Before using DYMISTA, tell your healthcare provider about all of your medical conditions, including if you: •have had recent nasal sores, nasal surgery, or nasal injury.•have eye or vision problems, such as cataracts or glaucoma (increased pressure in your eye).•have tuberculosis or any untreated fungal, bacterial, viral infections or eye infections caused by herpes.•have been near someone who has chickenpox or measles.•are not feeling well or have any other symptoms that you do not understand.•are pregnant or plan to become pregnant. •are breastfeeding or plan to breastfeed. It is not known if DYMISTA passes into your breast milk. Talk to your healthcare provider about the best way to feed your baby while using DYMISTA. Tell your healthcare provider about all the medicines you take, including prescription and over-the-counter medicines, vitamins, and herbal supplements. DYMISTA and other medicines may affect each other, causing side effects. Especially tell your healthcare provider if you take: •antifungal or anti-HIV medicines Ask your healthcare provider or pharmacist for a list of these medicines, if you are not sure. Know the medicines you take. Keep a list of your medicines and show it to your healthcare provider and pharmacist when you get a new medicine. |
+| How should I use DYMISTA? •Read the Instructions for Use at the end of this leaflet for information about the right way to use DYMISTA.•An adult should help a young child use DYMISTA.•DYMISTA is for use in your nose only. Do not spray it into your eyes or mouth. If you spray DYMISTA into your eyes, flush your eyes with large amounts of water for 10 minutes and then call your healthcare provider. •Use DYMISTA exactly as your healthcare provider tells you to use it. Your healthcare provider will tell you how much DYMISTA to use and when to use it.•If a child accidentally swallows DYMISTA or you use too much DYMISTA, call your healthcare provider or go to the nearest hospital emergency room right away. |
+| What should I avoid while using DYMISTA? •DYMISTA can cause sleepiness or drowsiness. Do not drive, operate machinery, or do anything that needs you to be alert until you know how DYMISTA affects you.•Do not drink alcohol or take any other medicines that may cause you to feel sleepy while using DYMISTA. It can increase your chances of having serious side effects. |
+| What are the possible side effects of DYMISTA?DYMISTA may cause serious side effects including: •sleepiness or drowsiness.•nasal problems. Symptoms of nasal problems may include: ocrusting in the noseonosebleedsorunny noseohole in the cartilage between your nose (nasal septal perforation). A whistling sound when you breathe may be a symptom of nasal septal perforation. •slow wound healing. You should not use DYMISTA until your nose has healed if you have a sore in your nose, if you have had surgery on your nose, or if your nose has been injured.•thrush (candida), a fungal infection in your nose and throat. Tell your healthcare provider if you have any redness or white colored patches in your nose or mouth.•eye problems, such as glaucoma or cataracts. Some people may have eye problems, including glaucoma and cataracts. You should have regular eye exams when using DYMISTA.•immune system problems and increased risk of infections. DYMISTA may cause problems with the way your immune system protects your body against infection and increase your risk of infection. Avoid contact with people who have contagious diseases such as chickenpox or measles while you use DYMISTA. Symptoms of infection may include: ofeveroaches or painsochillsofeeling tired •adrenal insufficiency. Adrenal insufficiency is a condition in which the adrenal glands do not make enough steroid hormones. Symptoms of adrenal insufficiency may include: otirednessoweaknessonauseaovomitingolow blood pressure •slowed or delayed growth in children. A child's growth should be checked regularly while using DYMISTA. Call your healthcare provider or get medical help right away if you have symptoms of any of the serious side effects listed above. The most common side effects of DYMISTA Nasal Spray include: •changes in taste•nosebleeds•headache Tell your healthcare provider if you have any side effect that bothers you or that does not go away. These are not all of the possible side effects of DYMISTA. Call your doctor for medical advice about side effects. You may report side effects to FDA at 1-800-FDA-1088. |
+| How should I store DYMISTA? •Store DYMISTA upright at with the dust cap in place at room temperature between 68°F to 77°F (20°C to 25°C).•Do not freeze or refrigerate DYMISTA.•Protect DYMISTA from light.•Do not use DYMISTA after the expiration date “EXP” printed on the bottle label and carton.•Throw away your DYMISTA bottle after using 120 sprays after initial priming. Even though the bottle may not be completely empty, you may not get the correct dose of medicine if you continue to use it. Keep DYMISTA and all medicines out of reach of children. |
+| General information about the safe and effective use of DYMISTA.Medicines are sometimes prescribed for purposes other than those listed in a Patient Information leaflet. Do not use DYMISTA for a condition for which it was not prescribed. Do not give DYMISTA to other people, even if they have the same symptoms that you have. It may harm them. You can ask your pharmacist or healthcare provider for information about DYMISTA that is written for health professionals. |
+| What are the ingredients in DYMISTA? Active ingredients: azelastine hydrochloride and fluticasone propionate Inactive ingredients: glycerin, microcrystalline cellulose and carboxymethylcellulose sodium, phenylethyl alcohol, edetate disodium, benzalkonium chloride, polysorbate 80, and purified water. For more information, go to www.DYMISTA.com or call Meda Pharmaceuticals Inc. at 1-888-939-6478. |
 
 Instructions for Use DYMISTA (Dy-Mist-A) (azelastine hydrochloride and fluticasone propionate) nasal spray
 
@@ -277,7 +144,8 @@ No. 546
 
 Manufactured for: Meda Pharmaceuticals Inc. Somerset, New Jersey 08873-4120
 
-©2019 Mylan Specialty L.P.
-DYMISTA is a registered trademark of Meda Pharmaceuticals Inc., a Mylan company.
+© 2021 Viatris Inc.
 
-Revised: 9/2018 IN-023A6-06
+DYMISTA is a registered trademark of Meda Pharmaceuticals Inc., a Viatris Company.
+
+Revised: 4/2021 IN-023A6-X2

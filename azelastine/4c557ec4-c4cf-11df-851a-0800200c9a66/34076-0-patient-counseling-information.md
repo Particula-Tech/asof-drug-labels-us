@@ -13,7 +13,7 @@ Patients who have experienced recent nasal ulcers, nasal surgery, or nasal traum
 Glaucoma and Cataracts: Inform patients that glaucoma and cataracts are associated with nasal and inhaled corticosteroid use.
 Advise patients to inform his/her health care provider if a change in vision is noted while using DYMISTA [see Warnings and Precautions (5.3)].
 
-Immunosuppression: Warn patients who are on immunosuppressant doses of corticosteroids to avoid exposure to chickenpox or measles and, if exposed, to consult their physician without delay.
+Immunosuppression and Risk of Infections: Warn patients who are on immunosuppressant doses of corticosteroids to avoid exposure to chickenpox or measles and, if exposed, to consult their physician without delay.
 Inform patients of potential worsening of existing tuberculosis, fungal, bacterial, viral or parasitic infections, or ocular herpes simplex [see Warnings and Precautions (5.4)].
 
 Effect on Growth: Corticosteroids may cause a reduction in growth velocity when administered to pediatric patients.
@@ -22,9 +22,6 @@ Monitor the growth routinely of pediatric patients receiving DYMISTA [see Use in
 Priming: Instruct patients to shake the bottle gently before each use and prime the pump before initial use and when DYMISTA has not been used for 14 or more days [see Dosage and Administration (2.2)].
 
 Keep Spray Out of Eyes: Instruct patients to avoid spraying DYMISTA into their eyes.
-
-Keep Out of Children's Reach: Instruct patients to keep DYMISTA out of the reach of children.
-If a child accidentally ingests DYMISTA, seek medical help or call a poison control center immediately.
 
 Potential Drug Interactions: Advise patients that coadministration of DYMISTA and ritonavir is not recommended and to be cautious if DYMISTA is coadministered with ketoconazole [see Drug Interactions (7.2)].
 
@@ -35,7 +32,6 @@ No. 546
 
 Manufactured for: Meda Pharmaceuticals Inc. Somerset, New Jersey 08873-4120
 
-©2019 Mylan Specialty L.P.
-DYMISTA and ASTELIN are registered trademarks of Meda Pharmaceuticals Inc., a Mylan company.
+© 2021 Viatris Inc. DYMISTA and ASTELIN are registered trademarks of Meda Pharmaceuticals Inc., a Viatris Company.
 
-Revised: 9/2018 IN-023A6-06
+Revised: 4/2021 IN-023A6-X3

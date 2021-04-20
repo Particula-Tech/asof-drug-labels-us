@@ -10,12 +10,12 @@ Concurrent use of DYMISTA with alcohol or other central nervous system depressan
 
 In clinical trials of 2 to 52 weeks' duration, epistaxis was observed more frequently in patients treated with DYMISTA than those who received placebo [see Adverse Reactions (6)].
 
-Instances of nasal ulceration and nasal septal perforation have been reported in patients following the intranasal application of corticosteroids.
+Instances of nasal ulceration and nasal septal perforation have been reported in patients following the nasal application of corticosteroids.
 There were no instances of nasal ulceration or nasal septal perforation observed in clinical trials with DYMISTA.
 
 Because of the inhibitory effect of corticosteroids on wound healing, patients who have experienced recent nasal ulcers, nasal surgery, or nasal trauma should avoid use of DYMISTA until healing has occurred.
 
-In clinical trials with fluticasone propionate administered intranasally, the development of localized infections of the nose and pharynx with Candida albicans has occurred.
+In clinical trials with fluticasone propionate administered nasally, the development of localized infections of the nose and pharynx with Candida albicans has occurred.
 When such an infection develops, it may require treatment with appropriate local therapy and discontinuation of treatment with DYMISTA.
 Patients using DYMISTA over several months or longer should be examined periodically for evidence of Candida infection or other signs of adverse effects on the nasal mucosa.
 
@@ -30,7 +30,7 @@ In the DYMISTA group, one patient had increased intraocular pressure at month 6.
 In addition, three patients had evidence of posterior subcapsular cataract at month 6 and one at month 12 (end of treatment).
 In the fluticasone propionate group, three patients had evidence of posterior subcapsular cataract at month 12 (end of treatment).
 
-## 5.4 Immunosuppression
+## 5.4 Immunosuppression and Risk of Infections
 
 Persons who are using drugs, such as corticosteroids, that suppress the immune system are more susceptible to infections than healthy individuals.
 Chickenpox and measles, for example, can have a more serious or even fatal course in susceptible children or adults using corticosteroids.
@@ -39,16 +39,15 @@ How the dose, route, and duration of corticosteroid administration affect the ri
 The contribution of the underlying disease and/or prior corticosteroid treatment to the risk is also not known.
 If exposed to chickenpox, prophylaxis with varicella zoster immune globulin (VZIG) may be indicated.
 If exposed to measles, prophylaxis with pooled intramuscular immunoglobulin (IG) may be indicated.
-(See the respective package inserts for complete VZIG and IG prescribing information.)
-If chickenpox develops, treatment with antiviral agents may be considered.
+(See the respective Prescribing Information for VZIG and IG) If chickenpox develops, treatment with antiviral agents may be considered.
 
 Corticosteroids should be used with caution, if at all, in patients with active or quiescent tuberculous infections of the respiratory tract; untreated local or systemic fungal or bacterial infections; systemic viral or parasitic infections; or ocular herpes simplex because of the potential for worsening of these infections.
 
-## 5.5 Hypothalamic-Pituitary-Adrenal (HPA) Axis Effects
+## 5.5 Hypercorticism and Adrenal Suppression
 
-When intranasal steroids are used at higher than recommended dosages or in susceptible individuals at recommended dosages, systemic corticosteroid effects such as hypercorticism and adrenal suppression may appear.
+When nasal steroids are used at higher than recommended dosages or in susceptible individuals at recommended dosages, systemic corticosteroid effects such as hypercorticism and adrenal suppression may appear.
 If such changes occur, the dosage of DYMISTA should be discontinued slowly, consistent with accepted procedures for discontinuing oral corticosteroid therapy.
-The concomitant use of intranasal corticosteroids with other inhaled corticosteroids could increase the risk of signs or symptoms of hypercorticism and/or suppression of the HPA axis.
+The concomitant use of nasal corticosteroids with other inhaled corticosteroids could increase the risk of signs or symptoms of hypercorticism and/or suppression of the HPA axis.
 
 The replacement of a systemic corticosteroid with a topical corticosteroid can be accompanied by signs of adrenal insufficiency, and in addition some patients may experience symptoms of withdrawal, e.g., joint and/or muscular pain, lassitude, and depression.
 Patients previously treated for prolonged periods with systemic corticosteroids and transferred to topical corticosteroids should be carefully monitored for acute adrenal insufficiency in response to stress.
