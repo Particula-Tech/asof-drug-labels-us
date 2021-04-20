@@ -152,19 +152,6 @@ The most common side effects of voriconazole for oral suspension in adults inclu
 | hallucinations (seeing or hearing things that are not there) | abnormal liver function tests | fever |
 |  | chills |  |
 
-The most common side effects of voriconazole for oral suspension in children include:
-
-| fever | high blood pressure | Inflammation of mucous membranes |
-| --- | --- | --- |
-| diarrhea | cough | hallucinations (seeing or hearing things that are not there) |
-| low platelet counts | low blood pressure | coughing up blood |
-| abnormal liver function tests | swelling in the arms and legs | constipation |
-| low blood calcium levels | high blood sugar levels | low blood magnesium levels |
-| low blood phosphate levels | headache | Fullness of the stomach area |
-| vision changes | fast heart beat (tachycardia) | vomiting |
-| rash | nose bleeds | nausea |
-| stomach pain | low blood potassium levels | upper respiratory tract infection |
-
 Tell your healthcare provider if you have any side effect that bothers you or that does not go away.
 
 These are not all the possible side effects of voriconazole for oral suspension.
@@ -203,6 +190,9 @@ For more information, go to www.amneal.com or call 1-877-835-5472.
 This product’s labeling may have been updated.
 For the most recent prescribing information, please visit www.amneal.com or call 1-877-835-5472.
 
+Additional pediatric use information is approved for Pfizer’s VFEND (voriconazole).
+However, due to Pfizer’s marketing exclusivity rights, this drug product is not labeled with that information.
+
 This Patient Information has been approved by the U.S. Food and Drug Administration.
 
 Distributed by:
@@ -212,4 +202,4 @@ Amneal Pharmaceuticals LLC
 Bridgewater, NJ 08807
 
 Rev.
-02-2021-05
+04-2021-06

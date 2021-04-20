@@ -46,43 +46,19 @@ If patient is unable to tolerate 4 mg/kg intravenously every 12 hours, reduce th
 
 ## 2.4 Recommended Dosing Regimen in Pediatric Patients
 
-The recommended dosing regimen for pediatric patients 12 to 14 years of age with body weight less than 50 kg is shown in Table 2.
 For pediatric patients 12 to 14 years of age with a body weight greater than or equal to 50 kg and those 15 years of age and above regardless of body weight, administer the adult dosing regimen of voriconazole [see Dosage and Administration (2.3)].
-
-Table 2: Recommended Dosing Regimen for Pediatric Patients 12 to 14 years of age with body weight less than 50 kg^
-
-|  | Loading Dose | Maintenance Dose |  |
-| --- | --- | --- | --- |
-|  | Intravenous infusion | Intravenous infusion | Oral |
-| Invasive Aspergillosis* |  |  |  |
-| Candidemia in non-neutropenics and other deep tissue Candida infections† | 9 mg/kg every 12 hours for the first 24 hours | 8 mg/kg every 12 hours after the first 24 hours | 9 mg/kg every 12 hours (maximum dose of 350 mg every 12 hours) |
-| Scedosporiosis and Fusariosis |  |  |  |
-| Esophageal Candidiasis† | Not Evaluated | 4 mg/kg every 12 hours | 9 mg/kg every 12 hours (maximum dose of 350 mg every 12 hours) |
-| ^ Based on a population pharmacokinetic analysis in 26 immunocompromised pediatric patients aged 12 to less than 17 years of age.* In the Phase 3 clinical trials, patients with IA received intravenous (IV) treatment for at least 6 weeks and up to a maximum of 12 weeks. Patients received intravenous (IV) treatment for at least the first 7 days of therapy and then could be switched to oral voriconazole therapy.† Study treatment for primary or salvage invasive candidiasis and candidemia (ICC) or EC consisted of intravenous voriconazole, with an option to switch to oral therapy after at least 5 days of intravenous (IV) therapy, based on subjects meeting switch criteria. For subjects with primary or salvage ICC, voriconazole was administered for at least 14 days after the last positive culture. A maximum of 42 days of treatment was permitted. Patients with primary or salvage EC were treated for at least 7 days after the resolution of clinical signs and symptoms. A maximum of 42 days of treatment was permitted. |  |  |  |
 
 Initiate therapy with an intravenous infusion regimen.
 Consider an oral regimen only after there is a significant clinical improvement.
 
-Note that an 8 mg/kg intravenous dose will provide voriconazole exposure approximately 2-fold higher than a 9 mg/kg oral dose.
-
-The oral dose recommendation for children is based on studies in which voriconazole was administered as the powder for oral suspension formulation.
-Bioequivalence between the voriconazole powder for oral suspension and voriconazole tablets has not been investigated in a pediatric population.
-
 Method for Adjusting the Dosing Regimen in Pediatric Patients
-
-Pediatric Patients 12 to 14 years of age with body weight less than 50 kg
-
-If patient response is inadequate and the patient is able to tolerate the initial intravenous maintenance dose, the maintenance dose may be increased by 1 mg/kg steps.
-If patient response is inadequate and the patient is able to tolerate the oral maintenance dose, the dose may be increased by 1 mg/kg steps or 50 mg steps to a maximum of 350 mg every 12 hours.
-If patients are unable to tolerate the initial intravenous maintenance dose, reduce the dose by 1 mg/kg steps.
-If patients are unable to tolerate the oral maintenance dose, reduce the dose by 1 mg/kg or 50 mg steps.
 
 Pediatric patients 12 to 14 years of age weighing greater than or equal to 50 kg and 15 years of age and older regardless of body weight:
 
 Use the optimal method for titrating dosage recommended for adults [see Dosage and Administration (2.3)].
 
-Additional pediatric use information is approved for Pfizer’s VFEND® (voriconazole) for oral suspension.
-However, due to Pfizer’s marketing exclusivity rights, this drug product is not labeled with that pediatric information.
+Additional pediatric use information is approved for Pfizer’s VFEND (voriconazole).
+However, due to Pfizer’s marketing exclusivity rights, this drug product is not labeled with that information.
 
 ## 2.5 Dosage Modifications in Patients with Hepatic Impairment
 
