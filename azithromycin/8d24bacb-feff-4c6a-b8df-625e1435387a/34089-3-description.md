@@ -9,5 +9,5 @@ Azithromycin has the following structural formula:
 Azithromycin, as the dihydrate, is a white crystalline powder with a molecular formula of C38H72N2O12∙2H2O and a molecular weight of 785.0.
 
 ZITHROMAX for injection consists of azithromycin dihydrate and the following inactive ingredients: citric acid and sodium hydroxide.
-ZITHROMAX for injection is supplied in lyophilized form in a 10 mL vial equivalent to 500 mg of azithromycin for intravenous administration.
+ZITHROMAX for injection is supplied in lyophilized form in a 10-mL single-dose vial equivalent to 500 mg of azithromycin for intravenous administration.
 Reconstitution, according to label directions, results in approximately 5 mL of ZITHROMAX for intravenous injection with each mL containing azithromycin dihydrate equivalent to 100 mg of azithromycin.
