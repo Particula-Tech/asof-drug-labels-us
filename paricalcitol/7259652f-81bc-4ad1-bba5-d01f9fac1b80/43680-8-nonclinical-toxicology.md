@@ -11,4 +11,4 @@ The increased incidence of pheochromocytomas in rats may be related to the alter
 Paricalcitol did not exhibit genetic toxicity in vitro with or without metabolic activation in the microbial mutagenesis assay (Ames Assay), mouse lymphoma mutagenesis assay (L5178Y), or a human lymphocyte cell chromosomal aberration assay.
 There was also no evidence of genetic toxicity in an in vivo mouse micronucleus assay.
 
-Paricalcitol had no effect on fertility (male or female) in rats at intravenous doses up to 20 mcg/kg/dose (13 times a human dose of 14 mcg, equivalent to 0.24 mcg/kg based on surface area, mg/m2).
+Paricalcitol had no effect on fertility (male or female) in rats at intravenous doses up to 20 mcg/kg/dose (13 times a human dose of 14 mcg, equivalent to 0.24 mcg/kg based on surface area, mcg/m2).

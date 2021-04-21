@@ -16,4 +16,4 @@ Advise patients to also inform their physician that they are receiving ZEMPLAR i
 
 Manufactured for AbbVie Inc. North Chicago, IL 60064, U.S.A. © AbbVie Inc.
 
-EN-5761 November, 2018
+03-C646 April, 2021

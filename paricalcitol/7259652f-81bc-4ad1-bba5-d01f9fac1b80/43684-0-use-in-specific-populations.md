@@ -7,7 +7,7 @@ Risk Summary
 Limited data with ZEMPLAR in pregnant women are insufficient to inform a drug-associated risk for major birth defects and miscarriage.
 There are risks to the mother and fetus associated with chronic kidney disease in pregnancy (see Clinical Considerations).
 
-In animal reproduction studies, slightly increased embryofetal loss was observed in pregnant rats and rabbits administered paricalcitol intravenously during the period of organogenesis at doses 2 and 0.5 times, respectively, a human dose of 14 mcg (equivalent to 0.24 mcg/kg), based on body surface area (mg/m2).
+In animal reproduction studies, slightly increased embryofetal loss was observed in pregnant rats and rabbits administered paricalcitol intravenously during the period of organogenesis at doses 2 and 0.5 times, respectively, a human dose of 14 mcg (equivalent to 0.24 mcg/kg), based on body surface area (mcg/m2).
 Adverse reproductive outcomes were observed at doses that caused maternal toxicity (see Data).
 
 The estimated background risk of major birth defects and miscarriage for the indicated population is unknown.
@@ -24,7 +24,7 @@ Data
 Animal Data
 
 Pregnant rats and rabbits were treated with paricalcitol by once-daily intravenous injection during the period of organogenesis (in rats, from gestation day (GD) 6 to 17; in rabbits, from GD 6 to 18).
-Rats were dosed at 0, 0.3, 1 or 3 mcg/kg/day and rabbits at 0, 0.03, 0.1 or 0.3 mcg/kg/day, representing up to 2 or 0.5 times, respectively, a human dose of 0.24 mcg/kg, based on body surface area (mg/m2).
+Rats were dosed at 0, 0.3, 1 or 3 mcg/kg/day and rabbits at 0, 0.03, 0.1 or 0.3 mcg/kg/day, representing up to 2 or 0.5 times, respectively, a human dose of 0.24 mcg/kg, based on body surface area (mcg/m2).
 Slightly decreased fetal viability was observed in both studies at the highest doses representing 2 and 0.5 times, respectively, a human dose of 0.24 mcg/kg, in the presence of maternal toxicity (decreased body weight and food consumption).
 Pregnant rats were administered paricalcitol by intravenous injection three times per week at doses of 0, 0.3, 3 or 20 mcg/kg/day throughout gestation, parturition and lactation (GD 6 to lactation day (LD) 20) representing exposures up to 13 times a human dose of 0.24 mcg/kg.
 A small increase in stillbirths and pup deaths from parturition to LD 4 were observed at the high dose when compared to the control group (9.2% versus 3.3% in controls) at 13 times a human dose of 0.24 mcg/kg, which occurred at a maternally toxic dose known to cause hypercalcemia in rats.
