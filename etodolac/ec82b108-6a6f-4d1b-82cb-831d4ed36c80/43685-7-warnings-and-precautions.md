@@ -102,7 +102,7 @@ NSAIDs, including etodolac capsules and tablets, can cause serious skin adverse 
 These serious events may occur without warning.
 Patients should be informed about the signs and symptoms of serious skin manifestations and use of the drug should be discontinued at the first appearance of skin rash or any other sign of hypersensitivity.
 
-### Drug Rash with Eosinophilia and Systemic Symptoms (DRESS)
+### Drug Reaction with Eosinophilia and Systemic Symptoms (DRESS)
 
 Drug Reaction with Eosinophilia and Systemic Symptoms (DRESS) has been reported in patients taking NSAIDs such as etodolac capsules and tablets.
 Some of these events have been fatal or life-threatening.
@@ -293,7 +293,6 @@ Use of NSAIDs, including etodolac capsules and tablets, at about 30 weeks gestat
 Use of NSAIDs at about 20 weeks gestation or later in pregnancy has been associated with cases of fetal renal dysfunction leading to oligohydramnios, and in some cases, neonatal renal impairment.
 
 Data from observational studies regarding other potential embryofetal risks of NSAID use in women in the first or second trimesters of pregnancy are inconclusive.
-In the general U.S. population, all clinically recognized pregnancies, regardless of drug exposure, have a background rate of 2-4% for major malformations, and 15-20% for pregnancy loss.
 In teratology studies, isolated occurrences of alterations in limb development were found and included polydactyly, oligodactyly, syndactyly, and unossified phalanges in rats and oligodactyly and synostosis of metatarsals in rabbits.
 These were observed at dose levels (2 to 14 mg/kg/day) close to human clinical doses.
 However, the frequency and the dosage group distribution of these findings in initial or repeated studies did not establish a clear drug or dose-response relationship.
@@ -302,6 +301,10 @@ Based on animal data, prostaglandins have been shown to have an important role i
 In animal studies, administration of prostaglandin synthesis inhibitors such as etodolac, resulted in increased pre- and post-implantation loss.
 Prostaglandins also have been shown to have an important role in fetal kidney development.
 In published animal studies, prostaglandin synthesis inhibitors have been reported to impair kidney development when administered at clinically relevant doses.
+
+The estimated background risk of major birth defects and miscarriage for the indicated population(s) is unknown.
+All pregnancies have a background risk of birth defect, loss, or other adverse outcomes.
+In the U.S. general population, the estimated background risk of major birth defects and miscarriage in clinically recognized pregnancies is 2-4% and 15-20%, respectively.
 
 ### Clinical Considerations
 
@@ -315,7 +318,7 @@ Avoid use of NSAIDs in women at about 30 weeks gestation and later in pregnancy,
 
 If an NSAID is necessary at about 20 weeks gestation or later in pregnancy, limit the use to the lowest effective dose and shortest duration possible.
 If etodolac capsules and tablets treatment extends beyond 48 hours, consider monitoring with ultrasound for oligohydramnios.
-If oligohydramnios occurs, discontinue etodolac capsules and tablets and follow up according to clinical practice [see WARNING; Fetal Toxicity].
+If oligohydramnios occurs, discontinue etodolac capsules and tablets and follow up according to clinical practice [see WARNINGS; Fetal Toxicity].
 
 ### Data
 

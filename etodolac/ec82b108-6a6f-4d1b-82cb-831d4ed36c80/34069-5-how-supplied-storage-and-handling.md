@@ -28,4 +28,4 @@ Store at 20°-25°C (68°-77°F) [see USP Controlled Room Temperature].
 Store tablets in original container until ready to use.
 Dispense in light-resistant container.
 
-Mfd. by: Taro Pharmaceutical Industries Ltd. Haifa Bay, Israel 2624761 Dist. by: Taro Pharmaceuticals U.S.A., Inc. Hawthorne, NY 10532 Revised: November 2020 5201500-1120-8
+Mfd. by: Taro Pharmaceutical Industries Ltd. Haifa Bay, Israel 2624761 Dist. by: Taro Pharmaceuticals U.S.A., Inc. Hawthorne, NY 10532 Revised: March 2021 5201500-0321-9
