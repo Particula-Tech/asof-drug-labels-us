@@ -1,96 +1,74 @@
-# DOSAGE AND ADMINISTRATION
+# 2 DOSAGE AND ADMINISTRATION
 
-## Neoplastic Diseases
+## 2.1 Important Dosage and Safety Information
 
-Oral administration in tablet form is often preferred when low doses are being administered since absorption is rapid and effective serum levels are obtained.
+Verify pregnancy status in females of reproductive potential before starting TREXALL [see Contraindications (4), Warnings and Precautions (5.1)].
 
-### Choriocarcinoma and similar trophoblastic diseases
+Instruct patients and caregivers to take the recommended dosage as directed, because medication errors have led to deaths [see Warnings and Precautions (5.9)].
 
-Methotrexate is administered orally or intramuscularly in doses of 15 to 30 mg daily for a five-day course.
-Such courses are usually repeated for 3 to 5 times as required, with rest periods of one or more weeks interposed between courses, until any manifesting toxic symptoms subside.
-The effectiveness of therapy is ordinarily evaluated by 24 hour quantitative analysis of urinary chorionic gonadotropin (hCG), which should return to normal or less than 50 IU/24 hr usually after the third or fourth course and usually be followed by a complete resolution of measurable lesions in 4 to 6 weeks.
-One to two courses of methotrexate after normalization of hCG is usually recommended.
-Before each course of the drug careful clinical assessment is essential.
-Cyclic combination therapy of methotrexate with other antitumor drugs has been reported as being useful.
+When switching the dosing regimen from oral administration to intravenous, intramuscular, or subcutaneous administration, an alternative dosing regimen may be necessary.
 
-Since hydatidiform mole may precede choriocarcinoma, prophylactic chemotherapy with methotrexate has been recommended.
+Do not administer to patients who are unable to swallow a tablet.
 
-Chorioadenoma destruens is considered to be an invasive form of hydatidiform mole.
-Methotrexate is administered in these disease states in doses similar to those recommended for choriocarcinoma.
+TREXALL is a cytotoxic drug.
+Follow applicable special handling and disposal procedures.1
 
-### Leukemia
+## 2.2 Recommended Dosage for Neoplastic Diseases
 
-Acute lymphoblastic leukemia in pediatric patients and young adolescents is the most responsive to present day chemotherapy.
-In young adults and older patients, clinical remission is more difficult to obtain and early relapse is more common.
+Acute Lymphoblastic Leukemia
 
-Methotrexate alone or in combination with steroids was used initially for induction of remission in acute lymphoblastic leukemias.
-More recently corticosteroid therapy, in combination with other antileukemic drugs or in cyclic combinations with methotrexate included, has appeared to produce rapid and effective remissions.
-When used for induction, methotrexate in doses of 3.3 mg/m2 in combination with 60 mg/m2 of prednisone, given daily, produced remissions in 50% of patients treated, usually within a period of 4 to 6 weeks.
-Methotrexate in combination with other agents appears to be the drug of choice for securing maintenance of drug-induced remissions.
-When remission is achieved and supportive care has produced general clinical improvement, maintenance therapy is initiated, as follows: Methotrexate is administered 2 times weekly either by mouth or intramuscularly in total weekly doses of 30 mg/m2.
-It has also been given in doses of 2.5 mg/kg intravenously every 14 days.
-If and when relapse does occur, reinduction of remission can again usually be obtained by repeating the initial induction regimen.
+The recommended starting dosage of TREXALL is 20 mg/m2 orally once weekly, as part of a combination chemotherapy maintenance regimen.
+After initiating TREXALL, periodically monitor absolute neutrophil count (ANC) and platelet count and adjust the dose to maintain ANC at a desirable level and for excessive myelosuppression.
 
-A variety of combination chemotherapy regimens have been used for both induction and maintenance therapy in acute lymphoblastic leukemia.
-The physician should be familiar with the new advances in antileukemic therapy.
+Mycosis Fungoides
 
-### Lymphomas
+The recommended dosage of TREXALL is 25 mg to 75 mg orally once weekly when administered as a single agent or 10 mg/m2 orally twice weekly as part of a combination chemotherapy regimen.
 
-In Burkitt’s tumor, Stages I to II, methotrexate has produced prolonged remissions in some cases.
-Recommended dosage is 10 to 25 mg/day orally for 4 to 8 days.
-In Stage III, methotrexate is commonly given concomitantly with other antitumor agents.
-Treatment in all stages usually consists of several courses of the drug interposed with 7 to 10 day rest periods.
-Lymphosarcomas in Stage III may respond to combined drug therapy with methotrexate given in doses of 0.625 to 2.5 mg/kg daily.
+Relapsed or Refractory Non-Hodgkin Lymphomas
 
-### Mycosis Fungoides (cutaneous T cell lymphoma)
+The recommended dosage of methotrexate is 2.5 mg orally 2 to 4 times per week (maximum 10 mg per week) as part of a metronomic combination chemotherapy regimen.
 
-Therapy with methotrexate as a single agent appears to produce clinical responses in up to 50% of patients treated.
-Dosage in early stages is usually 5 to 50 mg once weekly.
-Dose reduction or cessation is guided by patient response and hematologic monitoring.
-Methotrexate has also been administered twice weekly in doses ranging from 15 to 37.5 mg in patients who have responded poorly to weekly therapy.
+## 2.3 Recommended Dosage for Rheumatoid Arthritis
 
-## Psoriasis, Rheumatoid Arthritis, and Juvenile Rheumatoid Arthritis
+The recommended starting dosage of TREXALL is 7.5 mg orally once weekly with escalation to achieve optimal response.
+Dosages of more than 20 mg once weekly result in an increased risk of serious adverse reactions, including myelosuppression.
+When responses are observed, the majority occurred between 3 and 6 weeks from initiation of treatment; however, responses have occurred up to 12 weeks after treatment initiation.
 
-### Adult Rheumatoid Arthritis
+Administer folic acid or folinic acid to reduce the risk of TREXALL adverse reactions [see Warnings and Precautions (5.10)].
 
-Recommended Starting Dosage Schedules
+## 2.4 Recommended Dosage for Polyarticular Juvenile Idiopathic Arthritis
 
-1. Single oral doses of 7.5 mg once weekly.
-2. Divided oral dosages of 2.5 mg at 12 hour intervals for 3 doses given as a course once weekly.
+The recommended starting dosage of TREXALL is 10 mg/m2 orally once weekly with escalation to achieve optimal response.
+Dosages of more than 30 mg/m2 once weekly result in an increased risk of serious adverse reactions, including myelosuppression.
+When responses are observed, the majority occurred between 3 and 6 weeks from initiation of treatment; however, responses have occurred up to 12 weeks after treatment initiation.
 
-### Polyarticular-Course Juvenile Rheumatoid Arthritis
+Administer folic acid or folinic acid to reduce the risk of TREXALL adverse reactions [see Warnings and Precautions (5.10)].
 
-The recommended starting dose is 10 mg/m2 given once weekly.
+## 2.5 Recommended Dosage for Psoriasis
 
-For either adult RA or polyarticular-course JRA dosages may be adjusted gradually to achieve an optimal response.
-Limited experience shows a significant increase in the incidence and severity of serious toxic reactions, especially bone marrow suppression, at doses greater than 20 mg/wk in adults.
-Although there is experience with doses up to 30 mg/m2/wk in children, there are too few published data to assess how doses over 20 mg/m2/wk might affect the risk of serious toxicity in children.
-Experience does suggest, however, that children receiving 20 to 30 mg/m2/wk (0.65 to 1.0 mg/kg/wk) may have better absorption and fewer gastrointestinal side effects if methotrexate is administered either intramuscularly or subcutaneously.
+The recommended dosage of TREXALL is 10 mg to 25 mg orally once weekly until an adequate response is achieved.
+Adjust the dose gradually to achieve optimal clinical response; do not exceed a dose of 30 mg per week.
+Once optimal clinical response has been achieved, reduce the dosage to the lowest possible dosing regimen.
 
-Therapeutic response usually begins within 3 to 6 weeks and the patient may continue to improve for another 12 weeks or more.
+Administer folic acid or folinic acid supplementation to reduce the risk of TREXALL adverse reactions [see Warnings and Precautions (5.10)].
 
-The optimal duration of therapy is unknown.
-Limited data available from long-term studies in adults indicate that the initial clinical improvement is maintained for at least two years with continued therapy.
-When methotrexate is discontinued, the arthritis usually worsens within 3 to 6 weeks.
+## 2.6 Dosage Modifications for Adverse Reactions
 
-The patient should be fully informed of the risks involved and should be under constant supervision of the physician.
-(See Information for Patients under PRECAUTIONS.)
-Assessment of hematologic, hepatic, renal, and pulmonary function should be made by history, physical examination, and laboratory tests before beginning, periodically during, and before reinstituting methotrexate therapy.
-(See PRECAUTIONS.)
-Appropriate steps should be taken to avoid conception during methotrexate therapy.
-(See PRECAUTIONS and CONTRAINDICATIONS.)
+Discontinue TREXALL for:
 
-All schedules should be continually tailored to the individual patient.
-An initial test dose may be given prior to the regular dosing schedule to detect any extreme sensitivity to adverse effects.
-(See ADVERSE REACTIONS.)
-Maximal myelosuppression usually occurs in seven to ten days.
+- Anaphylaxis or other severe hypersensitivity reactions [see Warnings and Precautions (5.2)]
+- Lymphoproliferative disease [see Warnings and Precautions (5.13)]
 
-### Psoriasis: Recommended Starting Dose Schedules
+Withhold, dose reduce or discontinue TREXALL as appropriate for:
 
-1. Weekly single oral, IM or IV dose schedule: 10 to 25 mg per week until adequate response is achieved.
-2. Divided oral dose schedule: 2.5 mg at 12-hour intervals for three doses.
+- Myelosuppression [see Warnings and Precautions (5.3)]
 
-Dosages in each schedule may be gradually adjusted to achieve optimal clinical response; 30 mg/week should not ordinarily be exceeded.
+Withhold or discontinue TREXALL as appropriate for:
 
-Once optimal clinical response has been achieved, each dosage schedule should be reduced to the lowest possible amount of drug and to the longest possible rest period.
-The use of methotrexate may permit the return to conventional topical therapy, which should be encouraged.
+- Severe gastrointestinal toxicity [see Warnings and Precautions (5.4)]
+- Hepatotoxicity [see Warnings and Precautions (5.5)]
+- Pulmonary toxicity [see Warnings and Precautions (5.6)]
+- Severe dermatologic reactions [see Warnings and Precautions (5.7)]
+- Severe renal toxicity [see Warnings and Precautions (5.8)]
+- Serious infections [see Warnings and Precautions (5.11)]
+- Neurotoxicity [see Warnings and Precautions (5.12)]

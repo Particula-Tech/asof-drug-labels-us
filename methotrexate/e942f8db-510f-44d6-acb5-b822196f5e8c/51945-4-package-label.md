@@ -1,95 +1,79 @@
-# Package/Label Display Panel
-
-## Trexall® (methotrexate tablets USP) 5 mg 30s Label Text
+# Principal Display Panel
 
 NDC 51285-366-01
 
 Trexall®
 
-(methotrexate tablets USP)
+(methotrexate tablets, USP)
 
 5 mg
 
-PHARMACIST: Please Dispense
+Caution: Cytotoxic Agent
 
-With Attached Patient
-
-Information Leaflet.
+PHARMACIST: Dispense the accompanying Patient Information Leaflet to each patient.
 
 Rx only
 
-30 TABLETS
+30 Tablets
 
-TEVA
+teva
 
-# Package/Label Display Panel
-
-## Trexall® (methotrexate tablets USP) 7.5 mg 30s Label Text
+# Principal Display Panel
 
 NDC 51285-367-01
 
 Trexall®
 
-(methotrexate tablets USP)
+(methotrexate tablets, USP)
 
 7.5 mg
 
-Pharmacist: Please Dispense
+Caution: Cytotoxic Agent
 
-With Attached Patient
-
-Information Leaflet.
+PHARMACIST: Dispense the accompanying Patient Information Leaflet to each patient.
 
 Rx only
 
-30 TABLETS
+30 Tablets
 
-TEVA
+teva
 
-# Package/Label Display Panel
-
-## Trexall® (methotrexate tablets USP) 10 mg 30s Label Text
+# Principal Display Panel
 
 NDC 51285-368-01
 
 Trexall®
 
-(methotrexate tablets USP)
+(methotrexate tablets, USP)
 
 10 mg
 
-Pharmacist: Please Dispense
+Caution: Cytotoxic Agent
 
-With Attached Patient
-
-Information Leaflet.
+PHARMACIST: Dispense the accompanying Patient Information Leaflet to each patient.
 
 Rx only
 
-30 TABLETS
+30 Tablets
 
-TEVA
+teva
 
-# Package/Label Display Panel
-
-## Trexall® (methotrexate tablets USP) 15 mg 30s Label Text
+# Principal Display Panel
 
 NDC 51285-369-01
 
 Trexall®
 
-(methotrexate tablets USP)
+(methotrexate tablets, USP)
 
 15 mg
 
-Pharmacist: Please Dispense
+Caution: Cytotoxic Agent
 
-With Attached Patient
-
-Information Leaflet.
+PHARMACIST: Dispense the accompanying Patient Information Leaflet to each patient.
 
 Rx only
 
-30 TABLETS
+30 Tablets
 
-TEVA
+teva

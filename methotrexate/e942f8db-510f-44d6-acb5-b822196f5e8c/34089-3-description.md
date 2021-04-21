@@ -1,19 +1,18 @@
-# DESCRIPTION
+# 11 DESCRIPTION
 
-Trexall® (methotrexate tablets USP) (formerly Amethopterin) is an antimetabolite used in the treatment of certain neoplastic diseases, severe psoriasis, and adult rheumatoid arthritis.
-Chemically methotrexate, USP is N-[4[[(2,4-diamino-6-pteridinyl) methyl] methyl-amino]benzoyl]-L-glutamic acid.
+TREXALL® (methotrexate tablets, USP) is dihydrofolate reductase inhibitor with the chemical name of L-glutamic acid, N-[4-[[(2,4-diamino-6-pteridinyl)methyl]methylamino]benzoyl].
+The molecular formula is C20H22N8O5 and the molecular weight is 454.45 g/mol.
 The structural formula is:
 
-C20H22N8O5 Molecular Weight: 454.45
+TREXALL (methotrexate tablets, USP) for oral use is available in bottles of 30 tablets.
+Each tablet contains 5 mg methotrexate, USP (equivalent to 5.48 mg methotrexate sodium), 7.5 mg methotrexate, USP (equivalent to 8.23 mg methotrexate sodium), 10 mg methotrexate, USP (equivalent to 10.97 mg methotrexate sodium), or 15 mg methotrexate, USP (equivalent to 16.45 mg methotrexate sodium).
 
-Trexall (methotrexate tablets USP), for oral administration, is available in 5 mg, 7.5 mg, 10 mg and 15 mg strengths.
+Inactive Ingredients: anhydrous lactose, crospovidone, hypromellose, magnesium stearate, microcrystalline cellulose, polyethylene glycol, polysorbate 80, pregelatinized corn starch, sodium carbonate monohydrate, talc and titanium dioxide.
 
-Each tablet contains methotrexate sodium in an amount equivalent to the labeled amount of methotrexate, USP, and contains the following inactive ingredients: anhydrous lactose, crospovidone, hydroxypropyl methylcellulose, magnesium stearate, microcrystalline cellulose, polyethylene glycol, polysorbate 80, pregelatinized corn starch, sodium carbonate monohydrate, talc and titanium dioxide.
+The 5 mg also contains: D&C Yellow No. 10 Aluminum lake, FD&C Blue No. 1 Aluminum lake and FD&C Yellow No. 6 Aluminum lake.
 
-The 5 mg also contains: D&C yellow no. 10 aluminum lake, FD&C blue no. 1 aluminum lake and FD&C yellow no. 6 aluminum lake.
+The 7.5 mg also contains: FD&C Blue No.1 Aluminum lake.
 
-The 7.5 mg also contains: FD&C blue no.1 aluminum lake.
+The 10 mg also contains: FD&C Red No. 40 Aluminum lake.
 
-The 10 mg also contains: FD&C red no. 40 aluminum lake.
-
-The 15 mg also contains: FD&C blue no. 2 aluminum lake and FD&C red no. 40 aluminum lake.
+The 15 mg also contains: FD&C Blue No. 2 Aluminum lake and FD&C Red No. 40 Aluminum lake.
