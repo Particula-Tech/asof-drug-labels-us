@@ -11,7 +11,7 @@ Focalin XR (dexmethylphenidate hydrochloride) extended-release capsules are avai
 - 35 mg capsules (NDC 0078-0609-05) light-blue and light caramel (imprinted NVR D35) supplied in bottles of 100
 - 40 mg capsules (NDC 0078-0434-05) green and white (imprinted NVR D40) supplied in bottles of 100
 
-Store at 20°C to 25°C (68°F to 77°F), with excursions permitted between 15°C and 30°C (59°F to 86°F) [See USP Controlled Room Temperature].
+Store at 20°C to 25°C (68°F to 77°F); excursions permitted between 15°C and 30°C (59°F and 86°F) [see USP Controlled Room Temperature].
 
 Dispense in tight container (USP).
 

@@ -31,7 +31,7 @@ The variability in Cmax, Cmin, and AUC is similar between Focalin XR and Focalin
 Approximately 90% of the dose is absorbed after oral administration of radiolabeled racemic methylphenidate.
 However, due to first pass metabolism the mean absolute bioavailability of dexmethylphenidate when administered in various formulations was 22% to 25%.
 
-After single dose administration, Focalin XR demonstrated dose proportional PK in the range of 5 mg to 40 mg.
+After single dose administration, Focalin XR demonstrated dose proportional pharmacokinetics (PK) in the range of 5 mg to 40 mg.
 
 For patients unable to swallow the capsule, the contents may be sprinkled on applesauce and administered [see Dosage and Administration (2)].
 
@@ -56,7 +56,7 @@ There is no in vivo interconversion to the l-threo-enantiomer.
 Excretion
 
 After oral dosing of radiolabeled racemic methylphenidate in humans, about 90% of the radioactivity was recovered in urine.
-The main urinary metabolite of racemic (d,l-) methylphenidate was d,l-ritalinic acid, accountable for approximately 80% of the dose.
+The main urinary metabolite of racemic dl- methylphenidate was dl-ritalinic acid, accountable for approximately 80% of the dose.
 Urinary excretion of parent compound accounted for 0.5% of an intravenous dose.
 
 Studies in Specific Populations
@@ -90,5 +90,5 @@ Drug Interaction Studies
 
 Methylphenidate is not metabolized by cytochrome P450 (CYP) isoenzymes to a clinically relevant extent.
 Inducers or inhibitors of CYPs are not expected to have any relevant impact on methylphenidate pharmacokinetics.
-Conversely, the d- and l-enantiomers of methylphenidate did not relevantly inhibit CYP1A2, 2C8, 2C9, 2C19, 2D6, 2E1 or 3A.
+Conversely, the d- and l-enantiomers of methylphenidate did not relevantly inhibit CYP1A2, 2C8, 2C9, 2C19, 2D6, 2E1, or 3A.
 Clinically, methylphenidate coadministration did not increase plasma concentrations of the CYP2D6 substrate desipramine.

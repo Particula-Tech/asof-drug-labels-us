@@ -1,12 +1,12 @@
 # 7 DRUG INTERACTIONS
 
-## 7.1 Clinically Important Interactions with Focalin XR
+## 7.1 Clinically Important Drug Interactions With Focalin XR
 
 Table 5 presents clinically important drug interactions with Focalin XR.
 
-Table 5: Clinically Important Drug Interactions with Focalin XR
+Table 5: Clinically Important Drug Interactions With Focalin XR
 
-| Monoamine Oxidase Inhibitors (MAOI) |  |
+| Monoamine Oxidase Inhibitors (MAOIs) |  |
 | --- | --- |
 | Clinical Impact | Concomitant use of MAOIs and CNS stimulants, including Focalin XR, can cause hypertensive crisis. Potential outcomes include death, stroke, myocardial infarction, aortic dissection, ophthalmological complications, eclampsia, pulmonary edema, and renal failure [see Contraindications (4)]. |
 | Intervention | Concomitant use of Focalin XR with MAOIs or within 14 days after discontinuing MAOI treatment is contraindicated. |
@@ -19,3 +19,6 @@ Table 5: Clinically Important Drug Interactions with Focalin XR
 | Clinical Impact | Concomitant use of halogenated anesthetics and Focalin XR may increase the risk of sudden blood pressure and heart rate increase during surgery. |
 | Intervention | Avoid use of Focalin XR in patients being treated with anesthetics on the day of surgery. |
 | Examples | halothane, isoflurane, enflurane, desflurane, sevoflurane |
+| Risperidone |  |
+| Clinical Impact | Combined use of methylphenidate with risperidone when there is a change, whether an increase or decrease, in dosage of either or both medications, may increase the risk of extrapyramidal symptoms (EPS) |
+| Intervention | Monitor for signs of EPS |

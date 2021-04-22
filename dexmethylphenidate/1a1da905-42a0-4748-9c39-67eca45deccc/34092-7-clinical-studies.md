@@ -23,7 +23,7 @@ Table 6: Summary of Efficacy Results from ADHD Study in Pediatric Patients (6 â€
 |  |  | Mean Baseline Score (SD) | LS Mean Change from Baseline (SE) | Placebo-subtracted Differencea (95% CI) |
 | Study 1 | Focalin XR 5-30 mg/day (n = 52) | 33.3 (9.18) | 16.41 (1.8) | 10.64 (5.38, 15.91) |
 |  | Placebo (n = 45) | 34.9 (10.03) | 5.77 (1.93) | -- |
-| Abbreviations: ADHD, Attention Deficit Hyperactivity Disorder; SD, standard deviation; SE, standard error; LS Mean, least-squares mean; CI, confidence interval, not adjusted for multiple comparisons. aDifference (drug minus placebo) in least-squares mean change from baseline. |  |  |  |  |
+| Abbreviations: ADHD, attention deficit hyperactivity disorder; SD, standard deviation; SE, standard error; LS Mean, least-squares mean; CI, confidence interval, not adjusted for multiple comparisons. aDifference (drug minus placebo) in least-squares mean change from baseline. |  |  |  |  |
 
 In 2 additional cross-over studies (Studies 2 and 3) in pediatric patients ages 6 to 12 years, who received 20 mg Focalin XR or placebo, Focalin XR was found to have a statistically significant treatment effect versus placebo on the Swanson, Kotkin, Agler, M-Flynn & Pelham (SKAMP) rating scale total scores at all-time points after dosing in each study (0.5, 1, 3, 4, 5, 7, 9, 10, 11, and 12 hours in Study 2 and 1, 2, 4, 6, 8, 9, 10, 11, and 12 hours in the study 3).
 SKAMP is a validated 13-item teacher-rated scale that assesses manifestations of ADHD in a classroom setting.
