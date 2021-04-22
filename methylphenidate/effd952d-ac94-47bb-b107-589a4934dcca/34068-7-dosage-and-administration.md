@@ -24,23 +24,23 @@ The mixture of drug and applesauce should be consumed immediately in its entiret
 The drug and applesauce mixture should not be stored for future use.
 
 Pharmacological treatment of ADHD may be needed for extended periods.
-Periodically reevaluate the long-term use of Ritalin and Ritalin-SR, and adjust dosage as needed.
+Periodically reevaluate the long-term use of Ritalin, and adjust dosage as needed.
 
-## 2.3 Patients Currently Using Ritalin or Ritalin-SR
+## 2.3 Patients Currently Using Ritalin
 
-The recommended dose of Ritalin LA for patients currently taking Ritalin twice daily or Ritalin extended-release (SR) is provided below.
+The recommended dose of Ritalin LA for patients currently taking Ritalin twice daily is provided below.
 
-Table 1: Recommended Dose Conversion from Ritalin or Ritalin-SR
+Table 1: Recommended Dose Conversion From Ritalin
 
-| Previous Ritalin or Ritalin-SR Dose | Recommended Ritalin LA Dose |
+| Previous Ritalin Dose | Recommended Ritalin LA Dose |
 | --- | --- |
 | 5 mg Ritalin twice daily | 10 mg once daily |
-| 10 mg Ritalin twice daily or 20 mg Ritalin-SR | 20 mg once daily |
+| 10 mg Ritalin twice daily | 20 mg once daily |
 | 15 mg Ritalin twice daily | 30 mg once daily |
-| 20 mg Ritalin twice daily or 40 mg Ritalin-SR | 40 mg once daily |
-| 30 mg Ritalin twice daily or 60 mg Ritalin-SR | 60 mg once daily |
+| 20 mg Ritalin twice daily | 40 mg once daily |
+| 30 mg Ritalin twice daily | 60 mg once daily |
 
-## 2.4 Switching from other Methylphenidate Products
+## 2.4 Switching From Other Methylphenidate Products
 
 If switching from other methylphenidate products, discontinue that treatment, and titrate with Ritalin LA using the titration schedule.
 

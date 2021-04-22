@@ -10,7 +10,7 @@ The following are discussed in more detail in other sections of the labeling:
 - Psychiatric Adverse Reactions [see Warnings and Precautions (5.4)]
 - Priapism [see Warnings and Precautions (5.5)]
 - Peripheral Vasculopathy, Including Raynaud’s Phenomenon [see Warnings and Precautions (5.6)]
-- Long-term Suppression of Growth [see Warnings and Precautions (5.7)]
+- Long-Term Suppression of Growth [see Warnings and Precautions (5.7)]
 
 ## 6.1 Clinical Trials Experience
 
@@ -22,7 +22,7 @@ The subjects received Ritalin LA in doses of 10 to 40 mg per day.
 Safety of Ritalin LA was assessed by evaluating frequency and nature of adverse events, routine laboratory tests, vital signs, and body weight.
 A placebo-controlled, double-blind, parallel-group study was conducted to evaluate the efficacy and safety of Ritalin LA in children with ADHD aged 6 to 12 years.
 All subjects received Ritalin LA for up to 4 weeks, and had their dose optimally adjusted, prior to entering the double-blind phase of the trial.
-In the 2-week double-blind treatment phase of this study, patients received either placebo or Ritalin LA at their individually-titrated dose (range, 10-40 mg).
+In the 2-week double-blind treatment phase of this study, patients received either placebo or Ritalin LA at their individually-titrated dose (range, 10 to 40 mg).
 
 Adverse reactions with an incidence greater than 5% during the initial 4-week single-blind Ritalin LA titration period of this study were headache, insomnia, upper abdominal pain, appetite decreased, and anorexia.
 
@@ -35,20 +35,20 @@ Table 2: Adverse Reactions in Greater Than 2% Ritalin LA-Treated Subjects in the
 | Anorexia | 2 (3.1) | 0 (0.0) |
 | Insomnia | 2 (3.1) | 0 (0.0) |
 
-Adverse Events Associated with Discontinuation of Treatment
+Adverse Events Associated With Discontinuation of Treatment
 
 In the 2-week double-blind treatment phase of a placebo-controlled parallel-group study in children with ADHD, one Ritalin LA-treated subject (1/65, 1.5%) discontinued due to an adverse event (depressed mood).
 
 In the single-blind titration period of this study, subjects received Ritalin LA for up to 4 weeks.
 During this period a total of 6 subjects (6/161, 3.7%) discontinued due to adverse events.
-The adverse events leading to discontinuation were anger (2 patients), hypomania, anxiety, depressed mood, fatigue, migraine and lethargy.
+The adverse events leading to discontinuation were anger (2 patients), hypomania, anxiety, depressed mood, fatigue, migraine, and lethargy.
 
 ## 6.2 Postmarketing Experience
 
 The following adverse reactions have been identified during the post approval use of methylphenidate products.
 Because these reactions were reported voluntarily from a population of uncertain size, it is not always possible to estimate their frequency reliably or to establish a causal relationship to drug exposure.
 
-Adverse Reactions Reported with Ritalin, Ritalin-SR, and Ritalin LA
+Adverse Reactions Reported With Ritalin and Ritalin LA
 
 Infections and Infestations: nasopharyngitis
 
@@ -66,7 +66,7 @@ Eye Disorders: blurred vision, difficulties in visual accommodation
 
 Cardiac Disorders: tachycardia, palpitations, increased blood pressure, arrhythmias, angina pectoris
 
-Respiratory, Thoracic and Mediastinal Disorders: cough
+Respiratory, Thoracic, and Mediastinal Disorders: cough
 
 Gastrointestinal Disorders: dry mouth, nausea, vomiting, abdominal pain, dyspepsia
 
@@ -80,7 +80,7 @@ Investigations: weight loss (adult ADHD patients)
 
 Adverse Reactions Reported with Other Methylphenidate-Containing Products
 
-The list below shows adverse reactions not listed with Ritalin, Ritalin-SR, or Ritalin LA formulations that have been reported with other methylphenidate-containing products.
+The list below shows adverse reactions not listed with Ritalin, or Ritalin LA formulations that have been reported with other methylphenidate-containing products.
 
 Blood and Lymphatic Disorders: pancytopenia
 
@@ -88,7 +88,7 @@ Immune System Disorders: hypersensitivity reactions, such as auricular swelling,
 
 Psychiatric Disorders: affect lability, mania, disorientation, libido changes
 
-Nervous System disorders: migraine
+Nervous System Disorders: migraine
 
 Eye Disorders: diplopia, mydriasis
 
@@ -96,13 +96,13 @@ Cardiac Disorders: sudden cardiac death, myocardial infarction, bradycardia, ext
 
 Vascular Disorders: peripheral coldness, Raynaud's phenomenon
 
-Respiratory, Thoracic and Mediastinal Disorders: pharyngolaryngeal pain, dyspnea
+Respiratory, Thoracic, and Mediastinal Disorders: pharyngolaryngeal pain, dyspnea
 
 Gastrointestinal Disorders: diarrhea, constipation
 
 Skin and Subcutaneous Tissue Disorders: angioneurotic edema, erythema, fixed drug eruption
 
-Musculoskeletal, Connective Tissue and Bone Disorders: myalgia, muscle twitching
+Musculoskeletal, Connective Tissue, and Bone Disorders: myalgia, muscle twitching
 
 Renal and Urinary Disorders: hematuria
 

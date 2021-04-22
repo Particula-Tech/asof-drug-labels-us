@@ -51,4 +51,4 @@ Advise patients that there is a pregnancy exposure registry that monitors pregna
 
 Distributed by: Novartis Pharmaceuticals Corporation East Hanover, New Jersey 07936
 
-T2019-129
+T2021-24
