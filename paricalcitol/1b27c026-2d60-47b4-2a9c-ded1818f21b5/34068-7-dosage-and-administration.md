@@ -38,7 +38,7 @@ Initial Dose
 
 Administer the dose of ZEMPLAR capsules orally three times a week, no more frequently than every other day based upon the following formula:
 
-- Dose (micrograms) = baseline iPTH (pg/mL) divided by 80
+Dose (micrograms) = baseline iPTH (pg/mL) divided by 80
 
 Treat patients only after their baseline serum calcium has been adjusted to 9.5 mg/dL or lower to minimize the risk of hypercalcemia [see Clinical Pharmacology (12.2) and Clinical Studies (14.2)].
 
@@ -47,7 +47,7 @@ Dose Titration
 Individualize the dose of ZEMPLAR based on iPTH, serum calcium and phosphorus levels.
 Titrate ZEMPLAR dose based on the following formula:
 
-- Dose (micrograms) = most recent iPTH level (pg/ml) divided by 80
+Dose (micrograms) = most recent iPTH level (pg/ml) divided by 80
 
 If serum calcium is elevated, the dose should be decreased by 2 to 4 micrograms.
 
@@ -76,7 +76,7 @@ Initial Dose
 
 Administer the dose of ZEMPLAR capsules orally three times a week, no more frequently than every other day based upon the following formula:
 
-- Dose* (micrograms) = baseline iPTH (pg/mL) divided by 120 * Round down to the nearest whole number
+Dose* (micrograms) = baseline iPTH (pg/mL) divided by 120 * Round down to the nearest whole number
 
 Dose Titration
 

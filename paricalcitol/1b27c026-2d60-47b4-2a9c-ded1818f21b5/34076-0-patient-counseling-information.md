@@ -10,3 +10,13 @@ Advise patients of the following:
 - Patients should inform their physician of all medications, including prescription and nonprescription drugs, supplements, and herbal preparations they are taking and any change to their medical condition.
   Patients should also inform their physician that they are taking ZEMPLAR capsules if a new medication is prescribed.
 - Breastfeeding is not recommended during treatment with ZEMPLAR capsules [see Use in Specific Populations (8.2)].
+
+© 1998-2021 AbbVie Inc.
+
+Manufactured for
+
+AbbVie Inc.
+
+North Chicago, IL 60064, U.S.A.
+
+20067826 April 2021
