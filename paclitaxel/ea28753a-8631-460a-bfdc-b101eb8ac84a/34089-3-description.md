@@ -2,7 +2,7 @@
 
 Paclitaxel Injection, USP is a clear colorless to slightly yellow viscous solution.
 It is supplied as a nonaqueous solution intended for dilution with a suitable parenteral fluid prior to intravenous infusion.
-Paclitaxel is available in 30 mg (5 mL), 100 mg (16.7 mL), and 300 mg (50 mL) multidose vials.
+Paclitaxel is available in 30 mg (5 mL), 100 mg (16.7 mL), and 300 mg (50 mL) multiple-dose vials.
 Each mL of sterile nonpyrogenic solution contains 6 mg paclitaxel, 527 mg of Polyoxyl 35 Castor Oil, NF, 49.7% (v/v) Dehydrated Alcohol, USP and 2 mg Citric Acid, USP.
 
 Paclitaxel is a natural product with antitumor activity.
