@@ -4,7 +4,7 @@
 
 Pregnancy Exposure Registry
 
-There is a pregnancy exposure registry that monitors pregnancy outcomes in women exposed to ADHD medications, including Ritalin and Ritalin-SR, during pregnancy.
+There is a pregnancy exposure registry that monitors pregnancy outcomes in women exposed to ADHD medications, including Ritalin, during pregnancy.
 Healthcare providers are encouraged to register patients by calling the National Pregnancy Registry for ADHD Medications at 1-866-961-2388 or visit https://womensmentalhealth.org/adhd-medications/.
 
 Risk Summary
@@ -24,7 +24,7 @@ Clinical Considerations
 
 Fetal/Neonatal Adverse Reactions
 
-CNS stimulants, such as Ritalin and Ritalin-SR, can cause vasoconstriction and thereby decrease placental perfusion.
+CNS stimulants, such as Ritalin, can cause vasoconstriction and thereby decrease placental perfusion.
 No fetal and/or neonatal adverse reactions have been reported with the use of therapeutic doses of methylphenidate during pregnancy; however, premature delivery and low birth weight infants have been reported in amphetamine-dependent mothers.
 
 Data
@@ -46,7 +46,7 @@ Risk Summary
 Limited published literature, based on milk sampling from seven mothers reports that methylphenidate is present in human milk, which resulted in infant doses of 0.16% to 0.7% of the maternal weight-adjusted dosage and a milk/plasma ratio ranging between 1.1 and 2.7.
 There are no reports of adverse effects on the breastfed infant and no effects on milk production.
 Long-term neurodevelopmental effects on infants from stimulant exposure are unknown.
-The developmental and health benefits of breastfeeding should be considered along with the mother’s clinical need for Ritalin or Ritalin-SR and any potential adverse effects on the breastfed infant from Ritalin or Ritalin-SR or from the underlying maternal condition.
+The developmental and health benefits of breastfeeding should be considered along with the mother’s clinical need for Ritalin and any potential adverse effects on the breastfed infant from Ritalin or from the underlying maternal condition.
 
 Clinical Considerations
 
@@ -54,15 +54,15 @@ Monitor breastfeeding infants for adverse reactions, such as agitation, insomnia
 
 ## 8.4 Pediatric Use
 
-The safety and effectiveness of Ritalin and Ritalin-SR for the treatment of ADHD have been established in pediatric patients 6 to 17 years.
+The safety and effectiveness of Ritalin for the treatment of ADHD have been established in pediatric patients 6 to 17 years.
 
-The safety and effectiveness of Ritalin and Ritalin-SR in pediatric patients less than 6 years have not been established.
+The safety and effectiveness of Ritalin in pediatric patients less than 6 years have not been established.
 
-The long-term efficacy of Ritalin and Ritalin-SR in pediatric patients has not been established.
+The long-term efficacy of Ritalin in pediatric patients has not been established.
 
 Long-Term Suppression of Growth
 
-Growth should be monitored during treatment with stimulants, including Ritalin and Ritalin-SR.
+Growth should be monitored during treatment with stimulants, including Ritalin.
 Pediatric patients who are not growing or gaining weight as expected may need to have their treatment interrupted [see Warnings and Precautions (5.7)].
 
 Juvenile Animal Toxicity Data

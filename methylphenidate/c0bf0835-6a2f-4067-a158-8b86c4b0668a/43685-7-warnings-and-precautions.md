@@ -2,7 +2,7 @@
 
 ## 5.1 Potential for Abuse and Dependence
 
-CNS stimulants, including Ritalin and Ritalin-SR, other methylphenidate-containing products, and amphetamines, have a high potential for abuse and dependence.
+CNS stimulants, including Ritalin, other methylphenidate-containing products, and amphetamines, have a high potential for abuse and dependence.
 Assess the risk of abuse prior to prescribing, and monitor for signs of abuse and dependence while on therapy [see Boxed Warning, Drug Abuse and Dependence (9.2, 9.3)].
 
 ## 5.2 Serious Cardiovascular Reactions
@@ -10,7 +10,7 @@ Assess the risk of abuse prior to prescribing, and monitor for signs of abuse an
 Sudden death, stroke, and myocardial infarction have been reported in adults with CNS stimulant treatment at recommended doses.
 Sudden death has been reported in pediatric patients with structural cardiac abnormalities and other serious heart problems taking CNS stimulants at recommended doses for ADHD.
 Avoid use in patients with known serious structural cardiac abnormalities, cardiomyopathy, serious heart rhythm abnormalities, coronary artery disease, and other serious heart problems.
-Further evaluate patients who develop exertional chest pain, unexplained syncope, or arrhythmias during Ritalin and Ritalin-SR treatment.
+Further evaluate patients who develop exertional chest pain, unexplained syncope, or arrhythmias during Ritalin treatment.
 
 ## 5.3 Blood Pressure and Heart Rate Increases
 
@@ -32,7 +32,7 @@ Prior to initiating treatment, screen patients for risk factors for developing a
 New Psychotic or Manic Symptoms
 
 CNS stimulants, at recommended doses, may cause psychotic or manic symptoms (e.g., hallucinations, delusional thinking, or mania) in patients without a prior history of psychotic illness or mania.
-If such symptoms occur, consider discontinuing Ritalin and Ritalin-SR.
+If such symptoms occur, consider discontinuing Ritalin.
 In a pooled analysis of multiple short-term, placebo-controlled studies of CNS stimulants, psychotic or manic symptoms occurred in approximately 0.1% of CNS stimulant-treated patients, compared to 0 in placebo-treated patients.
 
 ## 5.5 Priapism
@@ -44,7 +44,7 @@ Patients who develop abnormally sustained or frequent and painful erections shou
 
 ## 5.6 Peripheral Vasculopathy, Including Raynaud’s Phenomenon
 
-CNS stimulants, including Ritalin and Ritalin-SR, used to treat ADHD are associated with peripheral vasculopathy, including Raynaud’s phenomenon.
+CNS stimulants, including Ritalin, used to treat ADHD are associated with peripheral vasculopathy, including Raynaud’s phenomenon.
 Signs and symptoms are usually intermittent and mild; however, very rare sequelae include digital ulceration and/or soft tissue breakdown.
 Effects of peripheral vasculopathy, including Raynaud’s phenomenon, were observed in postmarketing reports at different times and at therapeutic doses in all age groups throughout the course of treatment.
 Signs and symptoms generally improve after reduction in dose or discontinuation of drug.
@@ -57,5 +57,5 @@ CNS stimulants have been associated with weight loss and slowing of growth rate 
 
 Careful follow-up of weight and height in pediatric patients ages 7 to 10 years who were randomized to either methylphenidate or non-medication treatment groups over 14 months, as well as in naturalistic subgroups of newly methylphenidate-treated and non-medication treated patients over 36 months (to the ages of 10 to 13 years), suggests that consistently medicated pediatric patients (i.e., treatment for 7 days per week throughout the year) have a temporary slowing in growth rate (on average, a total of about 2 cm less growth in height and 2.7 kg less growth in weight over 3 years), without evidence of growth rebound during this period of development.
 
-Closely monitor growth (weight and height) in pediatric patients treated with CNS stimulants, including Ritalin and Ritalin-SR.
+Closely monitor growth (weight and height) in pediatric patients treated with CNS stimulants, including Ritalin.
 Patients who are not growing or gaining height or weight as expected may need to have their treatment interrupted.

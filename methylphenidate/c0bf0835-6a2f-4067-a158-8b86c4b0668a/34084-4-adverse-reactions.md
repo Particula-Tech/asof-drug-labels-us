@@ -3,19 +3,19 @@
 The following are discussed in more detail in other sections of the labeling:
 
 - Abuse and Dependence [see Boxed Warning, Warnings and Precautions (5.1), Drug Abuse and Dependence (9.2, 9.3)]
-- Known hypersensitivity to methylphenidate or other ingredients of Ritalin and Ritalin-SR [see Contraindications (4)]
+- Known hypersensitivity to methylphenidate or other ingredients of Ritalin [see Contraindications (4)]
 - Hypertensive crisis with Concomitant Use of Monoamine Oxidase Inhibitors [see Contraindications (4), Drug Interactions (7.1)]
 - Serious Cardiovascular Reactions [see Warnings and Precautions (5.2)]
 - Blood Pressure and Heart Rate Increases [see Warnings and Precautions (5.3)]
 - Psychiatric Adverse Reactions [see Warnings and Precautions (5.4)]
 - Priapism [see Warnings and Precautions (5.5)]
 - Peripheral Vasculopathy, Including Raynaud’s Phenomenon [see Warnings and Precautions (5.6)]
-- Long-term Suppression of Growth [see Warnings and Precautions (5.7)]
+- Long-Term Suppression of Growth [see Warnings and Precautions (5.7)]
 
-The following adverse reactions associated with the use of all Ritalin, Ritalin-SR, and other methylphenidate products were identified in clinical trials, spontaneous reports, and literature.
+The following adverse reactions associated with the use of Ritalin and other methylphenidate products were identified in clinical trials, spontaneous reports, and literature.
 Because these reactions were reported voluntarily from a population of uncertain size, it is not always possible to estimate their frequency reliably or to establish a causal relationship to drug exposure.
 
-Adverse Reactions Reported with Ritalin and Ritalin-SR
+Adverse Reactions Reported With Ritalin
 
 Infections and Infestations: nasopharyngitis
 
@@ -33,7 +33,7 @@ Eye Disorders: blurred vision, difficulties in visual accommodation
 
 Cardiac Disorders: tachycardia, palpitations, increased blood pressure, arrhythmias, angina pectoris
 
-Respiratory, Thoracic and Mediastinal Disorders: cough
+Respiratory, Thoracic, and Mediastinal Disorders: cough
 
 Gastrointestinal Disorders: dry mouth, nausea, vomiting, abdominal pain, dyspepsia
 
@@ -47,7 +47,7 @@ Investigations: weight loss (adult ADHD patients)
 
 Additional Adverse Reactions Reported with Other Methylphenidate-Containing Products
 
-The list below shows adverse reactions not listed for Ritalin and Ritalin-SR that have been reported with other methylphenidate-containing products.
+The list below shows adverse reactions not listed for Ritalin that have been reported with other methylphenidate-containing products.
 
 Blood and Lymphatic Disorders: pancytopenia
 
@@ -63,13 +63,13 @@ Cardiac Disorders: sudden cardiac death, myocardial infarction, bradycardia, ext
 
 Vascular Disorders: peripheral coldness, Raynaud's phenomenon
 
-Respiratory, Thoracic and Mediastinal Disorders: pharyngolaryngeal pain, dyspnea
+Respiratory, Thoracic, and Mediastinal Disorders: pharyngolaryngeal pain, dyspnea
 
 Gastrointestinal Disorders: diarrhea, constipation
 
 Skin and Subcutaneous Tissue Disorders: angioneurotic edema, erythema, fixed drug eruption
 
-Musculoskeletal, Connective Tissue and bone Disorders: myalgia, muscle twitching
+Musculoskeletal, Connective Tissue, and Bone Disorders: myalgia, muscle twitching
 
 Renal and Urinary Disorders: hematuria
 
