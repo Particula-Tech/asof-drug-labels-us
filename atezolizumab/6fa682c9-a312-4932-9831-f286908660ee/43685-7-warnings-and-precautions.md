@@ -229,9 +229,9 @@ Other Immune-Mediated Adverse Reactions
 The following clinically significant immune-mediated adverse reactions occurred at an incidence of < 1% (unless otherwise noted) in patients who received TECENTRIQ or were reported with the use of other PD-1/PD-L1 blocking antibodies.
 Severe or fatal cases have been reported for some of these adverse reactions.
 
-Cardiac/Vascular: Myocarditis, pericarditis, vasculitis
+Cardiac/Vascular: Myocarditis, pericarditis, vasculitis.
 
-Nervous System: Meningitis, encephalitis, myelitis and demyelination, myasthenic syndrome/myasthenia gravis (including exacerbation), Guillain-Barré syndrome, nerve paresis, autoimmune neuropathy
+Nervous System: Meningitis, encephalitis, myelitis and demyelination, myasthenic syndrome/myasthenia gravis (including exacerbation), Guillain-Barré syndrome, nerve paresis, autoimmune neuropathy.
 
 Ocular: Uveitis, iritis, and other ocular inflammatory toxicities can occur.
 Some cases can be associated with retinal detachment.
@@ -242,7 +242,7 @@ Gastrointestinal: Pancreatitis to include increases in serum amylase and lipase 
 
 Musculoskeletal and Connective Tissue: Myositis/polymyositis, rhabdomyolysis and associated sequelae including renal failure, arthritis, polymyalgia rheumatic.
 
-Endocrine: Hypoparathyroidism
+Endocrine: Hypoparathyroidism.
 
 Other (Hematologic/Immune): Hemolytic anemia, aplastic anemia, hemophagocytic lymphohistiocytosis, systemic inflammatory response syndrome, histiocytic necrotizing lymphadenitis (Kikuchi lymphadenitis), sarcoidosis, immune thrombocytopenic purpura, solid organ transplant rejection.
 

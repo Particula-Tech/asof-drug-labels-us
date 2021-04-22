@@ -5,8 +5,7 @@
 TECENTRIQ is indicated for the treatment of adult patients with locally advanced or metastatic urothelial carcinoma who:
 
 - are not eligible for cisplatin-containing chemotherapy and whose tumors express PD-L1 (PD-L1 stained tumor-infiltrating immune cells [IC] covering ≥ 5% of the tumor area), as determined by an FDA-approved test [see Dosage and Administration (2.1)], or
-- are not eligible for any platinum-containing chemotherapy regardless of PD-L1 status, or
-- have disease progression during or following any platinum-containing chemotherapy, or within 12 months of neoadjuvant or adjuvant chemotherapy
+- are not eligible for any platinum-containing chemotherapy regardless of PD-L1 status
 
 This indication is approved under accelerated approval based on tumor response rate and durability of response [see Clinical Studies (14.1)].
 Continued approval for this indication may be contingent upon verification and description of clinical benefit in a confirmatory trial(s).

@@ -60,5 +60,8 @@ In pediatric patients who received TECENTRIQ 15 mg/kg with a maximum dose of 120
 
 ## 8.5 Geriatric Use
 
-Of 3040 patients with urothelial carcinoma, lung cancer, triple-negative breast cancer, hepatocellular carcinoma, and melanoma who were treated with TECENTRIQ in clinical studies, 43% were 65 years and over and 12% were 75 years and over.
+Of 2616 patients with metastatic urothelial carcinoma, metastatic NSCLC, and other tumor types treated with single agent TECENTRIQ in clinical studies, 49% were 65 years and over and 15% were 75 years and over.
+
+Of 2421 patients with NSCLC and SCLC treated with TECENTRIQ in combination with other antineoplastic drugs in clinical studies, 48% were 65 years and over and 10% were 75 years and over.
+
 No overall differences in safety or effectiveness were observed between patients aged 65 years or older and younger patients.

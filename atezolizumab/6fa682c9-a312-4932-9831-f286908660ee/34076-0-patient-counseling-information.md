@@ -22,7 +22,7 @@ Advise patients to contact their healthcare provider immediately for signs or sy
 Complications of Allogeneic HSCT after PD-1/PD-L1 inhibitors
 
 Follow patients closely for evidence of transplant-related complications and intervene promptly.
-Consider the benefits versus risks of treatment with a PD-1/PD-L1 blocking antibody prior to or after an allogeneic HSCT[see Warnings and Precautions (5.3)].
+Consider the benefits versus risks of treatment with a PD-1/PD-L1 blocking antibody prior to or after an allogeneic HSCT [see Warnings and Precautions (5.3)].
 
 Embryo-Fetal Toxicity
 

@@ -4,9 +4,9 @@
 
 Select cisplatin-ineligible patients with previously untreated locally advanced or metastatic urothelial carcinoma for treatment with TECENTRIQ based on the PD-L1 expression on tumor-infiltrating immune cells [see Clinical Studies (14.1)].
 
-Select patients with first-line metastatic non-small cell lung cancer for treatment with TECENTRIQ as a single agent based on the PD-L1 expression on tumor cells or on tumor infiltrating immune cells [see Clinical Studies (14.2)].
+Select patients with first-line metastatic non-small cell lung cancer for treatment with TECENTRIQ as a single agent based on the PD-L1 expression on tumor cells or on tumor-infiltrating immune cells [see Clinical Studies (14.2)].
 
-Select patients with locally advanced or metastatic triple-negative breast cancer for treatment with TECENTRIQ in combination with paclitaxel protein-bound based on the PD-L1 expression on tumor infiltrating immune cells [see Clinical Studies (14.3)].Information on FDA-approved tests for the determination of PD-L1 expression in locally advanced or metastatic urothelial carcinoma, triple-negative breast cancer, or non-small cell lung cancer are available at: http://www.fda.gov/CompanionDiagnostics
+Select patients with locally advanced or metastatic triple-negative breast cancer for treatment with TECENTRIQ in combination with paclitaxel protein-bound based on the PD-L1 expression on tumor-infiltrating immune cells [see Clinical Studies (14.3)].Information on FDA-approved tests for the determination of PD-L1 expression in locally advanced or metastatic urothelial carcinoma, triple-negative breast cancer, or non-small cell lung cancer are available at: http://www.fda.gov/CompanionDiagnostics.
 
 Select patients with unresectable or metastatic melanoma for treatment with TECENTRIQ in combination with cobimetinib and vemurafenib after confirming the presence of a BRAF V600 mutation [see Clinical Studies (14.5)].
 Information on FDA-approved tests for the detection of BRAF V600E and V600K mutations in melanoma is available at: http://www.fda.gov/CompanionDiagnostics.
@@ -46,16 +46,16 @@ Dosage modifications for TECENTRIQ for adverse reactions that require management
 
 Table 3: Recommended Dosage Modifications for Adverse Reactions
 
-| Adverse Reaction | SeverityBased on Common Terminology Criteria for Adverse Events (CTCAE), version 4. | Dosage Modification |
+| Adverse Reaction | SeverityBased on Common Terminology Criteria for Adverse Events (CTCAE), version 4 | Dosage Modification |
 | --- | --- | --- |
 | Immune-Mediated Adverse Reactions [see Warnings and Precautions (5.1)] |  |  |
-| Pneumonitis | Grade 2 | WithholdResume in patients with complete or partial resolution (Grade 0 to 1) after corticosteroid taper. Permanently discontinue if no complete or partial resolution within 12 weeks of initiating steroids or inability to reduce prednisone to 10 mg per day or less (or equivalent) within 12 weeks of initiating steroids. |
+| Pneumonitis | Grade 2 | WithholdResume in patients with complete or partial resolution (Grade 0 to 1) after corticosteroid taper. Permanently discontinue if no complete or partial resolution within 12 weeks of initiating steroids or inability to reduce prednisone to 10 mg per day or less (or equivalent) within 12 weeks of initiating steroids |
 | Grades 3 or 4 | Permanently discontinue |  |
 | Colitis | Grades 2 or 3 | Withhold |
 | Grade 4 | Permanently discontinue |  |
 | Hepatitis with no tumor involvement of the liver | AST or ALT increases to more than 3 and up to 8 times ULN or Total bilirubin increases to more than 1.5 and up to 3 times ULN | Withhold |
 | AST or ALT increases to more than 8 times ULN or Total bilirubin increases to more than 3 times ULN | Permanently discontinue |  |
-| Hepatitis with tumor involvement of the liverIf AST and ALT are less than or equal to ULN at baseline, withhold or permanently discontinue TECENTRIQ based on recommendations for hepatitis with no liver involvement. | Baseline AST or ALT is more than 1 and up to 3 times ULN and increases to more than 5 and up to 10 times ULN or Baseline AST or ALT is more than 3 and up to 5 times ULN and increases to more than 8 and up to 10 times ULN | Withhold |
+| Hepatitis with tumor involvement of the liverIf AST and ALT are less than or equal to ULN at baseline, withhold or permanently discontinue TECENTRIQ based on recommendations for hepatitis with no liver involvement | Baseline AST or ALT is more than 1 and up to 3 times ULN and increases to more than 5 and up to 10 times ULN or Baseline AST or ALT is more than 3 and up to 5 times ULN and increases to more than 8 and up to 10 times ULN | Withhold |
 | AST or ALT increases to more than 10 times ULN or Total bilirubin increases to more than 3 times ULN | Permanently discontinue |  |
 | Endocrinopathies | Grades 3 or 4 | Withhold until clinically stable or permanently discontinue depending on severity |
 | Nephritis with Renal Dysfunction | Grades 2 or 3 increased blood creatinine | Withhold |
