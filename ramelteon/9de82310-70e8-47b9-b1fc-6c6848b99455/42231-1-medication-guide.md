@@ -139,7 +139,7 @@ General Information about ROZEREM
 This Medication Guide summarizes the most important information about ROZEREM.
 If you would like more information, talk with your doctor.
 You can ask your doctor or pharmacist for information about ROZEREM that is written for healthcare professionals.
-For more information about ROZEREM, please call Takeda Pharmaceuticals at 1-877-TAKEDA-7 (1-877-825-3327) or visit www.rozerem.com.
+For more information about ROZEREM, please call Takeda Pharmaceuticals America, Inc. at 1-877-TAKEDA-7 (1-877-825-3327) or visit www.rozerem.com.
 
 What are the ingredients in ROZEREM?
 
@@ -149,12 +149,12 @@ Inactive Ingredients: lactose monohydrate, starch, hydroxypropyl cellulose, magn
 
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
 
-Distributed by: Takeda Pharmaceuticals America, Inc. Deerfield, IL 60015
+Distributed by: Takeda Pharmaceuticals America, Inc.
 
-ROZEREM is a trademark of Takeda Pharmaceutical Company Limited registered with the U.S. Patent and Trademark Office and used under license by Takeda Pharmaceuticals America, Inc.
+Lexington, MA 02421ROZEREM is a trademark of Takeda Pharmaceutical Company Limited registered with the U.S. Patent and Trademark Office and used under license by Takeda Pharmaceuticals America, Inc.
 
 All other trademark names are the property of their respective owners.
 
-©2005-2018 Takeda Pharmaceuticals America, Inc.
+©2005-2020 Takeda Pharmaceuticals America, Inc.
 
-ROZ014 R9 December 2018
+ROZ014 R10 December 2018
