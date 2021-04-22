@@ -24,7 +24,7 @@ Exacerbation of Preexisting Psychosis
 
 CNS stimulants may exacerbate symptoms of behavior disturbance and thought disorder in patients with a preexisting psychotic disorder.
 
-Induction of a Manic Episode in Patients with Bipolar Disorder
+Induction of a Manic Episode in Patients With Bipolar Disorder
 
 CNS stimulants may induce a manic or mixed mood episode in patients.
 Prior to initiating treatment, screen patients for risk factors for developing a manic episode (e.g., comorbid or history of depressive symptoms or a family history of suicide, bipolar disorder, or depression).
@@ -33,7 +33,7 @@ New Psychotic or Manic Symptoms
 
 CNS stimulants, at recommended doses, may cause psychotic or manic symptoms (e.g., hallucinations, delusional thinking, or mania) in patients without a prior history of psychotic illness or mania.
 If such symptoms occur, consider discontinuing Focalin.
-In a pooled analysis of multiple short-term, placebo-controlled studies of CNS stimulants, psychotic or manic symptoms occurred in approximately 0.1% of CNS stimulant-treated patients, compared to 0 in placebo-treated patients.
+In a pooled analysis of multiple short-term, placebo-controlled studies of CNS stimulants, psychotic, or manic symptoms occurred in approximately 0.1% of CNS stimulant-treated patients, compared to 0 in placebo-treated patients.
 
 ## 5.5 Priapism
 

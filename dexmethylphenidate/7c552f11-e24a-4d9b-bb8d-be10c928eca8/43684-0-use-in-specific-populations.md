@@ -5,7 +5,7 @@
 Pregnancy Exposure Registry
 
 There is a pregnancy exposure registry that monitors pregnancy outcomes in women exposed to ADHD medications, including Focalin, during pregnancy.
-Healthcare providers are encouraged to register patients by calling the National Pregnancy registry for ADHD medications at 1-866-961-2388 or visit https://womensmentalhealth.org/adhd-medications/.
+Healthcare providers are encouraged to register patients by calling the National Pregnancy Registry for ADHD medications at 1-866-961-2388 or visit https://womensmentalhealth.org/adhd-medications/.
 
 Risk Summary
 
