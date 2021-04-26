@@ -48,12 +48,25 @@ If an NSAID is necessary at about 20 weeks gestation or later in pregnancy, limi
 If indomethacin extended-release capsules treatment extends beyond 48 hours, consider monitoring with ultrasound for oligohydramnios.
 If oligohydramnios occurs, discontinue indomethacin extended-release capsules and follow up according to clinical practice (see Data).
 
-Labor or Delivery
-
-There are no studies on the effects of indomethacin extended-release capsules during labor or delivery.
-In animal studies, NSAIDs, including indomethacin, inhibit prostaglandin synthesis, cause delayed parturition, and increase the incidence of stillbirth.
-
 Data
+
+Human Data
+
+Premature Closure of Fetal Ductus Arteriosus:
+
+Published literature reports that the use of NSAIDs at about 30 weeks of gestation and later in pregnancy may cause premature closure of the fetal ductus arteriosus.
+
+Oligohydramnios/Neonatal Renal Impairment:
+
+Published studies and postmarketing reports describe maternal NSAID use at about 20 weeks gestation or later in pregnancy associated with fetal renal dysfunction leading to oligohydramnios, and in some cases, neonatal renal impairment.
+These adverse outcomes are seen, on average, after days to weeks of treatment, although oligohydramnios has been infrequently reported as soon as 48 hours after NSAID initiation.
+In many cases, but not all, the decrease in amniotic fluid was transient and reversible with cessation of the drug.
+There have been a limited number of case reports of maternal NSAID use and neonatal renal dysfunction without oligohydramnios, some of which were irreversible.
+Some cases of neonatal renal dysfunction required treatment with invasive procedures, such as exchange transfusion or dialysis.
+
+Methodological limitations of these postmarketing studies and reports include lack of a control group; limited information regarding dose, duration, and timing of drug exposure; and concomitant use of other medications.
+These limitations preclude establishing a reliable estimate of the risk of adverse fetal and neonatal outcomes with maternal NSAID use.
+Because the published safety data on neonatal outcomes involved mostly preterm infants, the generalizability of certain reported risks to the full-term infant exposed to NSAIDs through maternal use is uncertain.
 
 Animal data
 
@@ -63,6 +76,11 @@ Other studies in mice reported in the literature using higher doses (5 to 15 mg/
 
 In rats and mice, maternal indomethacin administration of 4.0 mg/kg/day (0.2 times and 0.1 times the MRHD on a mg/m2 basis) during the last 3 days of gestation was associated with an increased incidence of neuronal necrosis in the diencephalon in the live-born fetuses however no increase in neuronal necrosis was observed at 2.0 mg/kg/day as compared to the control groups (0.1 times and 0.05 times the MRHD on a mg/m2 basis).
 Administration of 0.5 or 4.0 mg/kg/day to offspring during the first 3 days of life did not cause an increase in neuronal necrosis at either dose level.
+
+Labor and Delivery
+
+There are no studies on the effects of indomethacin extended-release capsules during labor or delivery.
+In animal studies, NSAIDs, including indomethacin, inhibit prostaglandin synthesis, cause delayed parturition, and increase the incidence of stillbirth.
 
 ## 8.2 Lactation
 
