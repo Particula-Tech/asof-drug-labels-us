@@ -28,7 +28,7 @@ An interim analysis of the data showed a significantly longer time to relapse in
 Adolescents
 
 The efficacy of paliperidone in adolescent subjects with schizophrenia was established in a randomized, double-blind, parallel-group, placebo-controlled, 6-week study using a fixed-dose weight-based treatment group design over the dose range of 1.5 to 12 mg/day.
-The study was carried out in the US, India, Romania, Russia, and Ukraine, and involved subjects 12 to 17 years of age meeting DSM-IV criteria for schizophrenia, with diagnosis confirmation using the Kiddie Schedule for Affective Disorders and Schizophrenia-Present and Lifetime Version (K-SADSPL).
+The study was carried out in the US, India, Romania, Russia, and Ukraine, and involved subjects 12 to 17 years of age meeting DSM-IV criteria for schizophrenia, with diagnosis confirmation using the Kiddie Schedule for Affective Disorders and Schizophrenia-Present and Lifetime Version (K-SADS-PL).
 
 Eligible subjects were randomly assigned to 1 of 4 treatment groups: a placebo group or paliperidone Low, Medium, or High dose groups.
 Doses were administered based on body weight to minimize the risk of exposing lower-weight adolescents to high doses of paliperidone.

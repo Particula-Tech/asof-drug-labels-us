@@ -25,7 +25,7 @@ Additional reproduction toxicity studies were conducted with orally administered
 Disease-associated maternal and/or embryo/fetal risk
 
 There is a risk to the mother from untreated schizophrenia, including increased risk of relapse, hospitalization, and suicide.
-Schizophrenia is associated with increased adverse perinatal outcomes, including preterm birth.
+Schizophrenia are associated with increased adverse perinatal outcomes, including preterm birth.
 It is not known if this is a direct result of the illness or other comorbid factors.
 
 Fetal/Neonatal Adverse Reactions
@@ -85,7 +85,7 @@ Safety and effectiveness of paliperidone for the treatment of schizoaffective di
 
 Juvenile Animal Studies
 
-In a study in which juvenile rats were treated with oral paliperidone from days 24 to 73 of age, a reversible impairment of performance in a test of learning and memory was seen, in females only, with a no-effect dose of 0.63 mg/kg/day, which produced plasma levels (AUC) of paliperidone similar to those in adolescents at MRHDA of 12 mg/day.
+In a study in which juvenile rats were treated with oral paliperidone from days 24 to 73 of age, a reversible impairment of performance in a test of learning and memory was seen, in females only, with a no-effect dose of 0.63 mg/kg/day, which produced plasma levels (AUC) of paliperidone similar to those in adolescents at MRHD of 12 mg/day.
 No other consistent effects on neurobehavioral or reproductive development were seen up to the highest dose tested (2.5 mg/kg/day), which produced plasma levels of paliperidone 2 to 3 times those in adolescents.
 
 Juvenile dogs were treated for 40 weeks with oral risperidone, which is extensively metabolized to paliperidone in animals and humans, at doses of 0.31, 1.25, or 5 mg/kg/day.
@@ -116,3 +116,8 @@ Dosing must be individualized according to the patient’s renal function status
 
 No dosage adjustment is required in patients with mild to moderate hepatic impairment.
 Paliperidone has not been studied in patients with severe hepatic impairment.
+
+## 8.8 Patients with Parkinson’s Disease or Lewy Body Dementia
+
+Patients with Parkinson’s Disease or Dementia with Lewy Bodies can experience increased sensitivity to paliperidone.
+Manifestations can include confusion, obtundation, postural instability with frequent falls, extrapyramidal symptoms, and clinical features consistent with neuroleptic malignant syndrome.

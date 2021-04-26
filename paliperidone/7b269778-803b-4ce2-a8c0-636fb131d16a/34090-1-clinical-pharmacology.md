@@ -46,7 +46,7 @@ Population pharmacokinetic analyses found no difference in exposure or clearance
 
 Special Populations
 
-### Renal Impairment
+Renal Impairment
 
 The dose of paliperidone should be reduced in patients with moderate or severe renal impairment [see Dosage and Administration (2.5)].
 The disposition of a single dose paliperidone 3 mg extended-release tablet was studied in adult subjects with varying degrees of renal function.
