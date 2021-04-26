@@ -8,9 +8,10 @@ The following serious adverse reactions are discussed in more detail in other se
 - Metabolic Acidosis [see Warnings and Precautions (5.4)]
 - Suicidal Behavior and Ideation [see Warnings and Precautions (5.5)]
 - Cognitive/Neuropsychiatric Adverse Reactions [see Warnings and Precautions (5.6)]
-- Hyperammonemia and Encephalopathy (Without and With Concomitant Valproic Acid Use [see Warnings and Precautions (5.9)]
-- Kidney Stones [see Warnings and Precautions (5.10)]
-- Hypothermia With Concomitant Valproic Acid Use [see Warnings and Precautions (5.11)]
+- Serious Skin Reactions [see Warnings and Precautions (5.9)]
+- Hyperammonemia and Encephalopathy (Without and With Concomitant Valproic Acid Use [see Warnings and Precautions (5.10)]
+- Kidney Stones [see Warnings and Precautions (5.11)]
+- Hypothermia With Concomitant Valproic Acid Use [see Warnings and Precautions (5.12)]
 
 The data described in section 6.1 were obtained using immediate-release topiramate tablets.
 
@@ -53,7 +54,7 @@ Table 5: Adverse Reactions in the High Dose Group as Compared to the Low Dose Gr
 | Dizziness |  |  | 13 | 14 |
 | Ataxia |  |  | 3 | 4 |
 | Hypoesthesia |  |  | 4 | 5 |
-| Hypertonis |  |  | 0 | 3 |
+| Hypertonia |  |  | 0 | 3 |
 | Involuntary Muscle contraction | 0 | 3 |  |  |
 | Vertigo | 0 | 3 |  |  |
 | Gastro-Intestinal System Disorders |  |  |  |  |
@@ -103,7 +104,7 @@ Table 5: Adverse Reactions in the High Dose Group as Compared to the Low Dose Gr
 | Taste perversion |  |  | 3 | 5 |
 | Urinary System Disorders |  |  |  |  |
 | Cystitis |  |  | 1 | 3 |
-| Micturition frequency | 0 | 3 | 0 | 2 |
+| Micturition frequency | 0 | 3 |  |  |
 | Renal calculus |  |  | 0 | 3 |
 | Urinary incontinence | 1 | 3 |  |  |
 | Vascular (Extracardiac) Disorders |  |  |  |  |
@@ -142,7 +143,7 @@ Table 6: Most Common Adverse Reactions in Pooled Placebo-Controlled, Adjunctive 
 | Language problems | 1 | 6 |
 | Coordination abnormal | 2 | 4 |
 | Gait abnormal | 1 | 3 |
-| Gastro-intestinal System Disorders |  |  |
+| Gastro-Intestinal System Disorders |  |  |
 | Nausea | 8 | 10 |
 | Dyspepsia | 6 | 7 |
 | Abdominal pain | 4 | 6 |
@@ -374,7 +375,7 @@ Laboratory Test Abnormalities
 
 Adult Patients
 
-In addition to changes in serum bicarbonate (i.e., metabolic acidosis), sodium chloride and ammonia, immediate-release topiramate was associated with changes in several clinical laboratory analytes in randomized, double-blind, placebo-controlled studies [see Warnings and Precautions (5.4, 5.9)].
+In addition to changes in serum bicarbonate (i.e., metabolic acidosis), sodium chloride and ammonia, immediate-release topiramate was associated with changes in several clinical laboratory analytes in randomized, double-blind, placebo-controlled studies [see Warnings and Precautions (5.4, 5.10)].
 Controlled trials of adjunctive topiramate treatment of adults for partial-onset seizures showed an increased incidence of markedly decreased serum phosphorus (6% topiramate versus 2% placebo), markedly increased serum alkaline phosphatase (3% topiramate versus 1% placebo), and decreased serum potassium (0.4% topiramate versus 0.1% placebo).
 
 Pediatric Patients
@@ -426,13 +427,13 @@ In the controlled clinical study using QUDEXY XR, 8.9% of patients who received 
 The following adverse reactions have been identified during post-approval use of immediate-release topiramate.
 Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
 
-Body as a Whole–General Disorders: oligohydrosis and hyperthermia [see Warnings and Precautions (5.3)], hyperammonemia, hyperammonemic encephalopathy [see Warnings and Precautions (5.9)], hypothermia with concomitant valproic acid [see Warnings and Precautions (5.11)]
+Body as a Whole–General Disorders: oligohydrosis and hyperthermia [see Warnings and Precautions (5.3)], hyperammonemia, hyperammonemic encephalopathy [see Warnings and Precautions (5.10)], hypothermia with concomitant valproic acid [see Warnings and Precautions (5.12)]
 
 Gastrointestinal System Disorders: hepatic failure (including fatalities), hepatitis, pancreatitis
 
-Skin and Appendage Disorders: bullous skin reactions (including erythema multiforme, Stevens-Johnson syndrome, toxic epidermal necrolysis), pemphigus
+Skin and Appendage Disorders: bullous skin reactions (including erythema multiforme, Stevens-Johnson syndrome, toxic epidermal necrolysis), pemphigus [see Warnings and Precautions (5.9)]
 
-Urinary System Disorders: kidney stones, nephrocalcinosis [see Warnings and Precautions (5.4, 5.10)]
+Urinary System Disorders: kidney stones, nephrocalcinosis [see Warnings and Precautions (5.4, 5.11)]
 
 Vision Disorders: acute myopia, secondary angle closure glaucoma [see Warnings and Precautions (5.1)], maculopathy
 

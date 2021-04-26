@@ -60,7 +60,7 @@ The total daily dose should not exceed 400 mg/day.
 The recommended total daily dose of QUDEXY XR as treatment for the preventive treatment of migraine in patients 12 years of age and older is 100 mg once daily.
 The recommended titration rate for QUDEXY XR for the preventive treatment of migraine is as follows:
 
-Table 3: Preventive Treatment of Migraine Titration Schedule for Patients 12 years of Age and Older
+Table 3: Preventive Treatment of Migraine Titration Schedule for Patients 12 Years of Age and Older
 
 |  | QUDEXY XR Once Daily Dose |
 | --- | --- |
@@ -74,11 +74,11 @@ If required, longer intervals between dose adjustment can be used.
 
 ## 2.4 Dose Modifications in Patients With Renal Impairment
 
-In patients with renal impairment (creatinine clearance less than 70 mL/min/1.73 m2), one-half of the usual adult dose of Qudexy XR is recommended [see Use in Specific Populations (8.5, 8.6), Clinical Pharmacology (12.3)].
+In patients with renal impairment (creatinine clearance less than 70 mL/min/1.73 m2), one-half of the usual adult dose of QUDEXY XR is recommended [see Use in Specific Populations (8.5, 8.6), Clinical Pharmacology (12.3)].
 
 ## 2.5 Dosage in Patients Undergoing Hemodialysis
 
-To avoid rapid drops in topiramate plasma concentration during hemodialysis, a supplemental dose of Qudexy XR may be required.
+To avoid rapid drops in topiramate plasma concentration during hemodialysis, a supplemental dose of QUDEXY XR may be required.
 The actual adjustment should take into account 1) the duration of dialysis period, 2) the clearance rate of the dialysis system being used, and 3) the effective renal clearance of topiramate in the patient being dialyzed [see Use in Specific Populations (8.7), Clinical Pharmacology (12.3)].
 
 ## 2.6 Administration Instructions

@@ -19,14 +19,14 @@ Counsel patients to contact their healthcare professionals immediately if they d
 
 Metabolic Acidosis
 
-Warn patients about the potential significant risk for metabolic acidosis that may be asymptomatic and may be associated with adverse effects on kidneys (e.g., kidney stones, nephrocalcinosis), bones (e.g., osteoporosis, osteomalacia, and/or rickets in children), and growth (e.g., growth delay/retardation) in pediatric patients, and on the fetus [see Warnings and Precautions (5.4), Use in Specific Populations (8.1, 8.4)].
+Warn patients about the potential significant risk for metabolic acidosis that may be asymptomatic and may be associated with adverse effects on kidneys (e.g., kidney stones, nephrocalcinosis), bones (e.g., osteoporosis, osteomalacia, and/or rickets in children), and growth (e.g., growth delay/retardation) in pediatric patients, and on the fetus [see Warnings and Precautions (5.4), Use in Specific Populations (8.1), (8.4)].
 
 Suicidal Behavior and Ideation
 
 Counsel patients, their caregivers, and families that AEDs, including QUDEXY XR, may increase the risk of suicidal thoughts and behavior and they should be advised of the need to be alert for the emergence or worsening of the signs and symptoms of depression, any unusual changes in mood or behavior or the emergence of suicidal thoughts, behavior or thoughts about self-harm.
 Instruct patients to immediately report behaviors of concern to their healthcare providers [see Warnings and Precautions (5.5)].
 
-Interference With Cognitive and Motor Performance
+Interference with Cognitive and Motor Performance
 
 Warn patients about the potential for somnolence, dizziness, confusion, difficulty concentrating, visual effects, and advise patients not to drive or operate machinery until they have gained sufficient experience on QUDEXY XR to gauge whether it adversely affects their mental performance, motor performance, and/or vision [see Warnings and Precautions (5.6)].
 
@@ -38,7 +38,7 @@ Fetal Toxicity
 
 Inform pregnant women and women of childbearing potential that use of QUDEXY XR during pregnancy can cause fetal harm, including an increased risk for cleft lip and/or cleft palate (oral clefts), which occur early in pregnancy before many women know they are pregnant.
 Also inform patients that infants exposed to topiramate monotherapy in utero may be small for their gestational age.
-There may also be risks to the fetus from chronic metabolic acidosis with use of QUDEXY XR during pregnancy [see Warnings and Precautions (5.4, 5.7), Use in Specific Populations (8.1)].
+There may also be risks to the fetus from chronic metabolic acidosis with use of QUDEXY XR during pregnancy [see Warnings and Precautions (5.4), (5.7), Use in Specific Populations (8.1)].
 When appropriate, counsel pregnant women and women of childbearing potential about alternative therapeutic options.
 
 Advise women of childbearing potential who are not planning a pregnancy to use effective contraception while using QUDEXY XR, keeping in mind that there is a potential for decreased contraceptive efficacy when using estrogen-containing birth control with topiramate [see Drug Interactions (7.4)].
@@ -46,19 +46,25 @@ Advise women of childbearing potential who are not planning a pregnancy to use e
 Encourage pregnant women using QUDEXY XR to enroll in the North American Antiepileptic Drug (NAAED) Pregnancy Registry.
 The registry is collecting information about the safety of antiepileptic drugs during pregnancy [see Use in Specific Populations (8.1)].
 
+Serious Skin Reactions
+
+Inform patients about the signs of serious skin reactions.
+Instruct patients to immediately inform their healthcare provider at the first appearance of skin rash [see Warnings and Precautions (5.9)].
+
 Hyperammonemia and Encephalopathy
 
 Warn patients about the possible development of hyperammonemia with or without encephalopathy.
 Although hyperammonemia may be asymptomatic, clinical symptoms of hyperammonemic encephalopathy often include acute alterations in level of consciousness and/or cognitive function with lethargy and/or vomiting.
 This hyperammonemia and encephalopathy can develop with topiramate treatment alone or with topiramate treatment with concomitant valproic acid (VPA).
-Instruct patients to contact their physician if they develop unexplained lethargy, vomiting, or changes in mental status [see Warnings and Precautions (5.9)].
+
+Instruct patients to contact their physician if they develop unexplained lethargy, vomiting, or changes in mental status [see Warnings and Precautions (5.10)].
 
 Kidney Stones
 
-Instruct patients, particularly those with predisposing factors, to maintain an adequate fluid intake in order to minimize the risk of kidney stone formation [see Warnings and Precautions (5.10)].
+Instruct patients, particularly those with predisposing factors, to maintain an adequate fluid intake in order to minimize the risk of kidney stone formation [see Warnings and Precautions (5.11)].
 
 Hypothermia
 
 Counsel patients that QUDEXY XR can cause a reduction in body temperature, which can lead to alterations in mental status.
 If they note such changes, they should call their health care professional and measure their body temperature.
-Patients taking concomitant valproic acid should be specifically counseled on this potential adverse reaction [see Warnings and Precautions (5.11)].
+Patients taking concomitant valproic acid should be specifically counseled on this potential adverse reaction [see Warnings and Precautions (5.12)].
