@@ -1,6 +1,6 @@
 # DOSAGE AND ADMINISTRATION
 
-REGONOL® (pyridostigmine bromide injection, USP) is for intravenous use only.
+REGONOL® (pyridostigmine bromide injection, USP) 2 mL single-dose ampule is for intravenous use only.
 This drug should be administered by or under the supervision of experienced clinicians familiar with the use of agents which reverse or antagonize the effects of neuromuscular blocking agents.
 Dosage must be individualized in each case.
 The dosage information which follows is derived from studies based upon units of drug per unit of body weight and is intended to serve as a guide only.

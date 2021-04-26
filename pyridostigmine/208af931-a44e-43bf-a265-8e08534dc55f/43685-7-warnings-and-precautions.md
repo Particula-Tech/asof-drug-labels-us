@@ -59,8 +59,6 @@ Long-term studies in animals have not been performed to evaluate carcinogenic or
 
 ## Pregnancy
 
-### Pregnancy Category C
-
 It is not known whether REGONOL® (pyridostigmine bromide injection, USP) can cause fetal harm when administered to a pregnant woman or can affect reproductive capacity.
 REGONOL® should be given to a pregnant woman only if the administering clinician decides that the benefits outweigh the risks.
 

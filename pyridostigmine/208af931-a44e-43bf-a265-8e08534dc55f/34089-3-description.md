@@ -5,5 +5,4 @@ REGONOL® (pyridostigmine bromide injection, USP) is an active cholinesterase in
 Its structural formula is:
 
 REGONOL® is supplied as a sterile, isotonic, nonpyrogenic solution for injection.
-Each mL contains 5 mg of pyridostigmine bromide with 1% BENZYL ALCOHOL, WHICH IS NOT INTENDED FOR USE IN NEWBORNS, as the preservative.
-The pH is buffered with sodium citrate and citric acid and adjusted with sodium hydroxide if necessary.
+Each mL contains 5 mg of pyridostigmine bromide USP as active, 10 mg BENZYL ALCOHOL NF as preservative WHICH IS NOT INTENDED FOR USE IN NEWBORNS, 0.23 mg sodium citrate dihydrate USP and 0.1 mg anhydrous citric acid USP as buffering agent, pH adjusted with sodium hydroxide NF and anhydrous citric acid USP if necessary and water for injection USP.

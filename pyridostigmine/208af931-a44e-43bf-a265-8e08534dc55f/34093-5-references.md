@@ -43,9 +43,9 @@
     Anesthesiology 1973;39:504-509.
 
 Rev.
-January 2019
+April 2021
 
-46238566
+46277700
 
 Distributed by
 
