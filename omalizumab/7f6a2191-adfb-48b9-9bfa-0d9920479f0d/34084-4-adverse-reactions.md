@@ -15,12 +15,12 @@ The data described below reflect XOLAIR exposure for 2076 adult and adolescent p
 The mean age of patients receiving XOLAIR was 42 years, with 134 patients 65 years of age or older; 60% were women, and 85% Caucasian.
 Patients received XOLAIR 150 mg to 375 mg every 2 or 4 weeks or, for patients assigned to control groups, standard therapy with or without a placebo.
 
-The adverse events most frequently resulting in clinical intervention (e.g., discontinuation of XOLAIR, or the need for concomitant medication to treat an adverse event) were injection site reaction (45%), viral infections (23%), upper respiratory tract infection (20%), sinusitis (16%), headache (15%), and pharyngitis (11%).
-These events were observed at similar rates in XOLAIR-treated patients and control patients.
+The adverse reactions most frequently resulting in clinical intervention (e.g., discontinuation of XOLAIR, or the need for concomitant medication to treat an adverse reaction) were injection site reaction (45%), viral infections (23%), upper respiratory tract infection (20%), sinusitis (16%), headache (15%), and pharyngitis (11%).
+These reactions were observed at similar rates in XOLAIR-treated patients and control patients.
 
 Table 6 shows adverse reactions from four placebo-controlled asthma trials that occurred ≥1% and more frequently in adult and adolescent patients 12 years of age and older receiving XOLAIR than in those receiving placebo.
-Adverse events were classified using preferred terms from the International Medical Nomenclature (IMN) dictionary.
-Injection site reactions were recorded separately from the reporting of other adverse events.
+Adverse reactions were classified using preferred terms from the International Medical Nomenclature (IMN) dictionary.
+Injection site reactions were recorded separately from the reporting of other adverse reactions.
 
 Table 6.
 Adverse Reactions ≥1% More Frequent in XOLAIR-Treated Adult or Adolescent Patients 12 years of Age and Older in Four Placebo-controlled Asthma Trials
@@ -51,7 +51,9 @@ A retrospective case-control study investigated risk factors for anaphylaxis to 
 Cases with an adjudicated history of anaphylaxis to XOLAIR were compared to controls with no such history.
 The study found that a self-reported history of anaphylaxis to foods, medications or other causes was more common among patients with XOLAIR anaphylaxis (57% of 30 cases) compared to controls (23% of 88 controls) [OR 8.1, 95% CI 2.7 to 24.3].
 Because this is a case-control study, the study cannot provide the incidence of anaphylaxis among XOLAIR users.
-From other sources, anaphylaxis to XOLAIR was observed in 0.1% of patients in clinical trials and at least 0.2% of patients based upon postmarketing reports [see Warnings and Precautions (5.1), Adverse Reactions (6.3)].
+From other sources, anaphylaxis to XOLAIR was observed in 0.1% of patients in clinical trials and at least 0.2% of patients based upon postmarketing reports.
+Approximately 60% to 70% of cases were reported to occur within the first three doses of XOLAIR, with additional cases occurring sporadically beyond the third dose.
+The time to onset for anaphylaxis was reported to occur within 2 hours for the majority of cases (approximately 75%) - [see Warnings and Precautions (5.1), Adverse Reactions (6.3)].
 
 Injection Site Reactions
 
@@ -71,8 +73,8 @@ No cases of malignancy were reported in patients treated with XOLAIR in these tr
 
 The most common adverse reactions occurring at ≥3% in the pediatric patients receiving XOLAIR and more frequently than in patients treated with placebo were nasopharyngitis, headache, pyrexia, upper abdominal pain, pharyngitis streptococcal, otitis media, viral gastroenteritis, arthropod bite, and epistaxis.
 
-The adverse events most frequently resulting in clinical intervention (e.g., discontinuation of XOLAIR, or the need for concomitant medication to treat an adverse event) were bronchitis (0.2%), headache (0.2%) and urticaria (0.2%).
-These events were observed at similar rates in XOLAIR-treated patients and control patients.
+The adverse reactions most frequently resulting in clinical intervention (e.g., discontinuation of XOLAIR, or the need for concomitant medication to treat an adverse event) were bronchitis (0.2%), headache (0.2%) and urticaria (0.2%).
+These reactions were observed at similar rates in XOLAIR-treated patients and control patients.
 
 Adverse Reactions from Clinical Studies in Adult Patients with Nasal Polyps
 
@@ -139,7 +141,7 @@ None of the events resulted in study discontinuation or treatment interruption.
 
 Cardiovascular and Cerebrovascular Events from Clinical Studies in Patients with Asthma
 
-A 5-year observational cohort study was conducted in patients ≥12 years of age with moderate to severe persistent asthma and a positive skin test reaction to a perennial aeroallergen to evaluate the long term safety of XOLAIR, including the risk of malignancy [see Warnings and Precautions (5.2)].
+A 5-year observational cohort study was conducted in patients ≥12 years of age with moderate to severe persistent asthma and a positive skin test reaction to a perennial aeroallergen to evaluate the long -term safety of XOLAIR, including the risk of malignancy [see Warnings and Precautions (5.2)].
 A total of 5007 XOLAIR-treated and 2829 non-XOLAIR-treated patients enrolled in the study.
 Similar percentages of patients in both cohorts were current (5%) or former smokers (29%).
 Patients had a mean age of 45 years and were followed for a mean of 3.7 years.
@@ -162,7 +164,7 @@ However, the results of the pooled analysis were based on a low number of events
 As with all therapeutic proteins, there is potential for immunogenicity.
 The detection of antibody formation is highly dependent on the sensitivity and specificity of the assay.
 Additionally, the observed incidence of antibody (including neutralizing antibody) positivity in an assay may be influenced by several factors including assay methodology, sample handling, timing of sample collection, concomitant medications, and underlying disease.
-For these reasons, comparison of the incidence of antibodies to omalizumab in the studies described below with the incidence of antibodies in other studies or to other products may be misleading
+For these reasons, comparison of the incidence of antibodies to omalizumab in the studies described below with the incidence of antibodies in other studies or to other products may be misleading.
 
 Antibodies to XOLAIR were detected in approximately 1/1723 (<0.1%) of patients treated with XOLAIR in the clinical studies evaluated for asthma in patients 12 years of age and older.
 In three pediatric studies, antibodies to XOLAIR were detected in one patient out of 581 patients 6 to <12 years of age treated with XOLAIR and evaluated for antibodies.

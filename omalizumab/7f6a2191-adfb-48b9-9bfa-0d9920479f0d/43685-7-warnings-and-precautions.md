@@ -13,10 +13,14 @@ A case-control study showed that, among XOLAIR users, patients with a history of
 
 In postmarketing spontaneous reports, the frequency of anaphylaxis attributed to XOLAIR use was estimated to be at least 0.2% of patients based on an estimated exposure of about 57,300 patients from June 2003 through December 2006.
 Anaphylaxis has occurred as early as after the first dose of XOLAIR, but also has occurred beyond one year after beginning regularly scheduled treatment.
+Approximately 60% to 70% of anaphylaxis cases have been reported to occur within the first three doses of XOLAIR, with additional cases occurring sporadically beyond the third dose.
 
-Administer XOLAIR only in a healthcare setting by healthcare providers prepared to manage anaphylaxis that can be life-threatening.
+Initiate XOLAIR only in a healthcare setting equipped to manage anaphylaxis which can be life-threatening.
 Observe patients closely for an appropriate period of time after administration of XOLAIR, taking into account the time to onset of anaphylaxis seen in premarketing clinical trials and postmarketing spontaneous reports [see Adverse Reactions (6)].
 Inform patients of the signs and symptoms of anaphylaxis, and instruct them to seek immediate medical care should signs or symptoms occur.
+
+Once XOLAIR therapy has been established, administration of XOLAIR Prefilled Syringe outside of a healthcare setting by a patient or a caregiver may be appropriate for selected patients.
+Patient selection, determined by the healthcare provider in consultation with the patient, should take into account the pattern of anaphylaxis events seen in premarketing clinical trials and postmarketing spontaneous reports, as well as individual patient risk factors (e.g. prior history of anaphylaxis), ability to recognize signs and symptoms of anaphylaxis, and ability to perform subcutaneous injections with XOLAIR Prefilled Syringe with proper technique according to the prescribed dosing regimen and Instructions for Use [see Dosage and Administration (2.5),Adverse Reactions (6)].
 
 Discontinue XOLAIR in patients who experience a severe hypersensitivity reaction [see Contraindications (4)].
 
@@ -32,10 +36,11 @@ In this study, the incidence rates of primary malignancies (per 1000 patient yea
 However, study limitations preclude definitively ruling out a malignancy risk with XOLAIR.
 Study limitations include: the observational study design, the bias introduced by allowing enrollment of patients previously exposed to XOLAIR (88%), enrollment of patients (56%) while a history of cancer or a premalignant condition were study exclusion criteria, and the high study discontinuation rate (44%).
 
-## 5.3 Acute Asthma Symptoms
+## 5.3 Acute Asthma Symptoms and Deteriorating Disease
 
 XOLAIR has not been shown to alleviate asthma exacerbations acutely.
 Do not use XOLAIR to treat acute bronchospasm or status asthmaticus.
+Patients should seek medical advice if their asthma remains uncontrolled or worsens after initiation of treatment with XOLAIR.
 
 ## 5.4 Corticosteroid Reduction
 

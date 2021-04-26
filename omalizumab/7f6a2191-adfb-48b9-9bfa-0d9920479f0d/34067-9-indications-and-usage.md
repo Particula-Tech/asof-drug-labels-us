@@ -2,9 +2,7 @@
 
 ## 1.1 Asthma
 
-XOLAIR is indicated for patients 6 years of age and older with moderate to severe persistent asthma who have a positive skin test or in vitro reactivity to a perennial aeroallergen and whose symptoms are inadequately controlled with inhaled corticosteroids.
-
-XOLAIR has been shown to decrease the incidence of asthma exacerbations in these patients.
+XOLAIR is indicated for adults and pediatric patients 6 years of age and older with moderate to severe persistent asthma who have a positive skin test or in vitro reactivity to a perennial aeroallergen and whose symptoms are inadequately controlled with inhaled corticosteroids.
 
 Limitations of Use:
 
