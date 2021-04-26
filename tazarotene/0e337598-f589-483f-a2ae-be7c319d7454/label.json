@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "NDA202428"
+  ],
+  "inn": "tazarotene",
+  "labeler": "Mayne Pharma Inc.",
+  "package_ndcs": [
+    "68308-685-50"
+  ],
+  "products": [
+    {
+      "form": "AEROSOL, FOAM",
+      "generic": "tazarotene",
+      "name": "tazarotene"
+    }
+  ],
+  "setid": "0e337598-f589-483f-a2ae-be7c319d7454",
+  "source": "dailymed"
+}
