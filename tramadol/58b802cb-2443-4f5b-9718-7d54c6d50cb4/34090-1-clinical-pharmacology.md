@@ -129,7 +129,7 @@ Formation of M1 is dependent on CYP2D6 and as such is subject to inhibition, whi
 
 Approximately 7% of the population has reduced activity of the CYP2D6 isoenzyme of cytochrome P-450.
 These individuals are “poor metabolizers” of debrisoquine, dextromethorphan, tricyclic antidepressants, among other drugs.
-Based on a population PK analysis of Phase I studies in healthy subjects, concentrations of tramadol were approximately 20% higher in “poor metabolizers” versus “extensive metabolizers”, while M1 concentrations were 40% lower.
+Based on a population PK analysis of Phase 1 studies in healthy subjects, concentrations of tramadol were approximately 20% higher in “poor metabolizers” versus “extensive metabolizers”, while M1 concentrations were 40% lower.
 Concomitant therapy with inhibitors of CYP2D6 such as fluoxetine, paroxetine and quinidine could result in significant drug interactions.
 In vitro drug interaction studies in human liver microsomes indicate that inhibitors of CYP2D6 such as fluoxetine and its metabolite norfluoxetine, amitriptyline and quinidine inhibit the metabolism of tramadol to various degrees, suggesting that concomitant administration of these compounds could result in increases in tramadol concentrations and decreased concentrations of M1.
 The full pharmacological impact of these alterations in terms of either efficacy or safety is unknown.
@@ -158,7 +158,7 @@ Age: Geriatric
 
 Healthy elderly subjects aged 65 to 75 years have plasma tramadol concentrations and elimination half-lives comparable to those observed in healthy subjects less than 65 years of age.
 In subjects over 75 years, maximum serum concentrations are elevated (208 vs. 162 ng/mL) and the elimination half-life is prolonged (7 vs. 6 hours) compared to subjects 65 to 75 years of age.
-Adjustment of the daily dose is recommended for patients older than 75 years [see Dosage and Administration (2.2)].
+Adjustment of the daily dose is recommended for patients older than 75 years [see Dosage and Administration (2.3)].
 
 Sex
 

@@ -14,9 +14,8 @@ In case of overdose, priorities are the re-establishment of a patent and protect
 Employ other supportive measures (including oxygen and vasopressors) in the management of circulatory shock and pulmonary edema as indicated.
 Cardiac arrest or serious arrhythmias will require advanced life-supporting measures.
 
-The opioid antagonists, naloxone or nalmefene, are specific antidotes to respiratory depression resulting from opioid overdose.
-For clinically significant respiratory or circulatory depression secondary to tramadol overdose, administer an opioid antagonist.
-Opioid antagonists should not be administered in the absence of clinically significant respiratory or circulatory depression secondary to tramadol overdose.
+Opioid antagonists, such as naloxone, are specific antidotes to respiratory depression resulting from opioid overdose.
+For clinically significant respiratory or circulatory depression secondary to opioid overdose, administer an opioid antagonist.
 
 While naloxone will reverse some, but not all, symptoms caused by overdosage with tramadol, the risk of seizures is also increased with naloxone administration.
 In animals, convulsions following the administration of toxic doses of tramadol hydrochloride could be suppressed with barbiturates or benzodiazepines but were increased with naloxone.
