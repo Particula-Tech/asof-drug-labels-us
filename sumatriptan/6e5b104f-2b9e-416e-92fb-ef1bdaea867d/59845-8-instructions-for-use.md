@@ -30,4 +30,5 @@
 | Do not rub the injection site. |  |  |  |
 | Manufactured for UPSHER-SMITH LABORATORIES, LLC Maple Grove, MN 55369 |  |  |  |
 | ZEMBRACE and SymTouch are registered trademarks of Upsher-Smith Laboratories, LLC. |  |  |  |
-| This Instructions for Use has been approved by the U.S. Food and Drug Administration. |  |  | Revised: 07/2019 |
+| This product may be covered by one or more U.S. patent(s). See www.uslpatents.com. |  |  |  |
+| This Instructions for Use has been approved by the U.S. Food and Drug Administration. |  |  | Revised: 2/2021 |

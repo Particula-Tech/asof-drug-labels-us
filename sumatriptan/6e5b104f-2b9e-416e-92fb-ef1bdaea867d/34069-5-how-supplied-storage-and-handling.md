@@ -2,7 +2,7 @@
 
 ## 16.1 How Supplied
 
-- ZEMBRACE SymTouch 3 mg/0.5 mL Injection contains sumatriptan as the succinate salt and is supplied as a clear, colorless to pale yellow, sterile, nonpyrogenic solution in a prefilled, ready-to-use, single dose, disposable auto-injector unit (NDC # 0245-0809-89).
+- ZEMBRACE® SymTouch® 3 mg/0.5 mL Injection contains sumatriptan as the succinate salt and is supplied as a clear, colorless to pale yellow, sterile, nonpyrogenic solution in a prefilled, ready-to-use, single dose, disposable auto-injector unit (NDC # 0245-0809-89).
 - Each carton contains 4 units (NDC # 0245-0809-38) and a Patient Information and Instructions for Use leaflet.
 
 ## 16.2 Storage and Handling
