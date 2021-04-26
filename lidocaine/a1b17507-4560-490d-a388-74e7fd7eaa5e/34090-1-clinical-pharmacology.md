@@ -12,23 +12,20 @@ The penetration of lidocaine into intact skin after application of ZTLIDO is suf
 ## 12.3 Pharmacokinetics
 
 ZTLIDO has different bioavailability compared to Lidoderm.
-In a single-dose, crossover study conducted in 53 healthy volunteers, ZTLIDO (lidocaine topical system) 1.8% demonstrated equivalent exposure (AUC) and peak concentration (C max) of lidocaine to Lidoderm (lidocaine patch 5%).
+In a single-dose, crossover study conducted in 53 healthy volunteers, ZTLIDO (lidocaine topical system) 1.8% demonstrated equivalent exposure (AUC) and peak concentration (Cmax) of lidocaine to Lidoderm (lidocaine patch 5%).
 
 Absorption
 
 The amount of lidocaine systemically absorbed from ZTLIDO is directly related to both the duration of application and the surface area over which it is applied.
-In a pharmacokinetic study, three ZTLIDO topical systems were applied over an area of 420 cm 2 of intact skin on the backs of normal healthy volunteers for 12 hours.
+In a pharmacokinetic study, three ZTLIDO topical systems were applied over an area of 420 cm2 of intact skin on the backs of normal healthy volunteers for 12 hours.
 Blood samples were drawn for determination of lidocaine concentration during the topical system application and for 12 hours after removal of topical systems.
 The results are summarized in Table 1.
 
-Table 1
+Table 1 Mean ± SD Absorption of lidocaine from ZTLIDO Healthy Volunteers (n = 54, 12-hour application time)
 
-| Mean ± SD Absorption of lidocaine from ZTLIDO Normal volunteers (n = 54, 12-hour application time) |  |  |  |  |
+| Topical System | Application Site | Area (cm2) | Cmax (ng/mL) | Tmax (hr)median (min, max) |
 | --- | --- | --- | --- | --- |
-| Topical System | Application Site | Area (cm2) | Cmax (ng/mL) | Tmax (hr)* |
-| 3 Topical systems of ZTLIDO (108 mg) | Back | 420 | 75.1 ± 28.0 | 13.9 (4.0,18.0) |
-
-*median (min, max)
+| 3 Topical systems of ZTLIDO (108 mg) | Back | 420 | 75.1 ± 28.0 | 13.9 (4.0, 18.0) |
 
 Repeated application of three Lidoderm patches simultaneously for 12 hours (recommended maximum daily dose), once per day for three days, indicated that the lidocaine concentration does not increase with daily use.
 The mean plasma pharmacokinetic profile for the 15 healthy volunteers is shown in Figure 1.
@@ -49,7 +46,7 @@ Distribution
 
 When lidocaine is administered intravenously to healthy volunteers, the volume of distribution is 0.7 to 2.7 L/kg (mean 1.5 ± 0.6 SD, n = 15).
 At concentrations produced by application of ZTLIDO, lidocaine is approximately 70% bound to plasma proteins, primarily alpha-1-acid glycoprotein.
-At much higher plasma concentrations (1 to 4 μg/mL of free base), the plasma protein binding of lidocaine is concentration dependent.
+At much higher plasma concentrations (1 to 4 µg/mL of free base), the plasma protein binding of lidocaine is concentration dependent.
 Lidocaine crosses the placental and blood brain barriers, presumably by passive diffusion.
 
 Elimination

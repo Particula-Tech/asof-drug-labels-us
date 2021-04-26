@@ -2,9 +2,11 @@
 
 The following serious adverse reactions are described elsewhere in the labeling:
 
+- Excessive Dosing/Overexposure to Lidocaine [see Warnings and Precautions (5.2)]
 - Methemoglobinemia [see Warnings and Precautions (5.3)]
 - Application Site Reactions [see Warnings and Precautions (5.4)]
 - Hypersensitivity Reactions [see Warnings and Precautions (5.5)]
+- Eye Irritation [see Warnings and Precautions (5.6)]
 
 The following adverse reactions from voluntary reports or clinical studies have been reported with lidocaine.
 Because some of these reactions were reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.

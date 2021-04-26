@@ -2,9 +2,9 @@
 
 ## 5.1 Accidental Exposure
 
-Even a used ZTLIDO topical system contains residual lidocaine after use.
+A used ZTLIDO topical system contains residual lidocaine after use.
 The potential exists for a small child or a pet to suffer serious adverse effects from chewing or ingesting a new or used ZTLIDO.
-It is important for patients to store and dispose of ZTLIDO properly, and keep out of the reach of children, pets, and others [see Dosage and Administration (2)].
+It is important for patients to store and dispose of ZTLIDO properly, and keep out of the reach of children, pets, and others [see Dosage and Administration (2.1)].
 
 ## 5.2 Excessive Dosing/Overexposure to Lidocaine
 
@@ -15,18 +15,18 @@ Longer duration of application, application of more than the recommended number 
 If lidocaine overdose is suspected, check drug blood concentration.
 Management of overdose includes close monitoring, supportive care, and symptomatic treatment [see Overdosage (10)].
 
-Improper Application and Duration of Use: Application of more than the recommended number of ZTLIDO or applying ZTLIDO for longer than the recommended wearing time (12 hours of every 24 hours) could result in increased absorption and high blood concentrations of lidocaine, leading to adverse effects.
-Advise patients on proper application and duration [see Patient Counseling Information (17)].
+Improper Application and Duration of Use: Application of more than the recommended number of ZTLIDO or applying ZTLIDO for longer than the recommended wearing time (12 hours of every 24 hours) could result in increased absorption and high blood concentrations of lidocaine, leading to adverse reactions.
+Advise patients on proper application and duration.
 
 Hepatic Disease: Impaired elimination may contribute to increasing blood concentrations of lidocaine.
 Patients with severe hepatic disease are at greater risk of developing toxic blood concentrations of lidocaine because of their inability to metabolize lidocaine normally.
 
 Use on Non-Intact Skin: Application to broken or inflamed skin, although not tested, may result in higher blood concentrations of lidocaine from increased absorption.
 ZTLIDO is only recommended for use on intact skin.
-Advise patients not to apply ZTLIDO to non-intact skin [see Patient Counseling Information (17)].
+Advise patients not to apply ZTLIDO to non-intact skin.
 
 External Heat Sources: External heat sources may increase drug exposure, leading to overexposure to lidocaine.
-Advise patients not to apply external heat sources to ZTLIDO during administration [seeClinical Pharmacology (12.3), Patient Counseling Information (17)].
+Advise patients not to apply external heat sources to ZTLIDO during administration [see Clinical Pharmacology (12.3)].
 
 ## 5.3 Methemoglobinemia
 
@@ -44,7 +44,7 @@ A more severe clinical presentation may require treatment with methylene blue, e
 
 During or immediately after treatment with ZTLIDO, the skin at the site of application may develop blisters, bruising, burning sensation, depigmentation, dermatitis, discoloration, edema, erythema, exfoliation, irritation, papules, petechia, pruritus, vesicles, or may be the locus of abnormal sensation.
 These reactions are generally mild and transient, resolving spontaneously within a few minutes to hours.
-Inform patients of these potential reactions and that severe skin irritation may occur with ZTLIDO if applied for a longer period than instructed.
+If application site reactions occur while the topical system is being worn, advise the patient to remove ZTLIDO and not to reapply until skin reactions subside.
 
 ## 5.5 Hypersensitivity Reactions
 
