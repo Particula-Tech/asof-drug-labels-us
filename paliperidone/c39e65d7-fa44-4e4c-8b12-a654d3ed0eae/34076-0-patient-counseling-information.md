@@ -4,24 +4,24 @@ Advise the patient to read the FDA-approved patient labeling (Patient Informatio
 
 Neuroleptic Malignant Syndrome (NMS)
 
-Counsel patients about a potentially fatal adverse reaction, Neuroleptic Malignant Syndrome (NMS), that has been reported in association with administration of antipsychotic drugs.
-Advise patients, family members, or caregivers to contact their healthcare provider or report to the emergency room if they experience signs and symptoms of NMS, including hyperpyrexia, muscle rigidity, altered mental status including delirium, and evidence of autonomic instability (irregular pulse or blood pressure, tachycardia, diaphoresis, and cardiac dysrhythmia) [see Warnings and Precautions (5.3)].
+Counsel patients about a potentially fatal side effect referred to as Neuroleptic Malignant Syndrome (NMS) that has been reported in association with administration of antipsychotic drugs.
+Patients should contact their health care provider or report to the emergency room if they experience the following signs and symptoms of NMS, including hyperpyrexia, muscle rigidity, altered mental status, and evidence of autonomic instability (irregular pulse or blood pressure, tachycardia, diaphoresis, and cardiac dysrhythmia [see Warnings and Precautions (5.3)].
 
 Tardive Dyskinesia
 
-Counsel patients on the signs and symptoms of tardive dyskinesia and to contact their healthcare provider if these abnormal movements occur [see Warnings and Precautions (5.5)].
+Counsel patients on the signs and symptoms of tardive dyskinesia and to contact their health care provider if these abnormal movements occur [see Warnings and Precautions (5.5)].
 
 Metabolic Changes
 
-Educate patients about the risk of metabolic changes, how to recognize symptoms of hyperglycemia and diabetes mellitus, and the need for specific monitoring, including blood glucose, lipids, and weight [see Warnings and Precautions (5.6)].
+Educate patients about the risk of metabolic changes, how to recognize symptoms of hyperglycemia (high blood sugar) and diabetes mellitus (e.g., polydipsia, polyuria, polyphagia, and weakness), and the need for specific monitoring, including blood glucose, lipids, and weight [see Warnings and Precautions (5.6)].
 
 Orthostatic Hypotension
 
-Educate patients about the risk of orthostatic hypotension and syncope, particularly at the time of initiating treatment, re-initiating treatment, or increasing the dose [see Warnings and Precautions (5.7)].
+Educate patients about the risk of orthostatic hypotension, particularly at the time of initiating treatment, re-initiating treatment, or increasing the dose [see Warnings and Precautions (5.7)].
 
 Leukopenia/Neutropenia
 
-Advise patients with a pre-existing low WBC or a history of drug induced leukopenia/neutropenia that they should have their CBC monitored while taking INVEGA TRINZA® [see Warnings and Precautions (5.9)].
+Advise patients with a pre-existing low WBC or a history of drug induced leukopenia/neutropenia they should have their CBC monitored while taking INVEGA TRINZA® [see Warnings and Precautions (5.9)].
 
 Hyperprolactinemia
 
@@ -31,7 +31,7 @@ Advise them to seek medical attention if they experience any of the following: a
 
 Interference with Cognitive and Motor Performance
 
-Caution patients about performing activities requiring mental alertness, such as operating hazardous machinery, or operating a motor vehicle until they are reasonably certain that INVEGA TRINZA® therapy does not affect them adversely [see Warnings and Precautions (5.11)].
+As INVEGA TRINZA® has the potential to impair judgment, thinking, or motor skills, caution patients about operating hazardous machinery, including automobiles, until they are reasonably certain that INVEGA TRINZA® therapy does not affect them adversely [see Warnings and Precautions (5.11)].
 
 Priapism
 
@@ -40,15 +40,11 @@ Instruct the patient to seek immediate medical attention in the event of priapis
 
 Heat Exposure and Dehydration
 
-Counsel patients regarding appropriate care in avoiding overheating and dehydration [see Warnings and Precautions (5.15)].
+Counsel patients on the importance of avoiding overheating and dehydration [see Warnings and Precautions (5.15)].
 
 Concomitant Medication
 
-Advise patients to inform their healthcare providers if they are taking, or plan to take any prescription or over-the-counter medications, because there is a potential for clinically significant interactions [see Drug Interactions (7)].
-
-Alcohol
-
-Advise patients to avoid alcohol during treatment with INVEGA TRINZA® [see Drug Interactions (7.1)].
+Advise patients to inform their health care providers if they are taking, or plan to take any prescription or over-the-counter drugs, as there is a potential for interactions [see Drug Interactions (7)].
 
 Pregnancy
 

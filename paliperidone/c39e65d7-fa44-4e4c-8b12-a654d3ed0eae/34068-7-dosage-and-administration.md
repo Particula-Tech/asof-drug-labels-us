@@ -4,7 +4,7 @@
 
 INVEGA TRINZA® should be administered once every 3 months.
 
-Each injection must be administered only by a healthcare professional.
+Each injection must be administered only by a health care professional.
 
 Parenteral drug products should be inspected visually for foreign matter and discoloration prior to administration.
 It is important to shake the syringe vigorously for at least 15 seconds to ensure a homogeneous suspension.

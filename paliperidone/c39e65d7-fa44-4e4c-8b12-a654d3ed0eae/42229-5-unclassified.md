@@ -4,7 +4,8 @@ INVEGA SUSTENNA®, RISPERDAL®, and RISPERDAL CONSTA® are trademarks of Janssen
 
 Product of Ireland
 
-Manufactured by: Janssen Pharmaceutica NV Beerse, Belgium
+Manufactured by: Janssen Pharmaceutica N.V.
+Beerse, Belgium
 
 Manufactured for: Janssen Pharmaceuticals, Inc. Titusville, NJ 08560
 
