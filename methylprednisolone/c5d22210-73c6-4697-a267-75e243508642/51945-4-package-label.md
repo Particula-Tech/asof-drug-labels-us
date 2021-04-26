@@ -14,7 +14,7 @@ PACKAGE LABEL - PRINCIPAL DISPLAY - Methylprednisolone 40 mg Single Dose Vial Tr
 
 methylPREDNISolone Sodium Succinate for Injection, USP
 
-40 mg ∗ per vial
+40 mg* per vial
 
 For Intravenous or Intramuscular Use
 
@@ -28,7 +28,7 @@ methylPREDNISolone Sodium Succinate for Injection, USP
 
 125 mg per vial
 
-Reconstitute with 2 mL Bacteriostatic Water for Injection with Benzyl Alcohol.
+Reconstitute with 2 mL Bacteriostatic Water for Injection with Benzyl Alcohol
 
 Use within 48 hours after mixing.
 For Intravenous or Intramuscular Use
@@ -39,7 +39,7 @@ PACKAGE LABEL - PRINCIPAL DISPLAY - Methylprednisolone 125 mg Single Dose Vial T
 
 methylPREDNISolone Sodium Succinate for Injection, USP
 
-125 mg ∗ per vial
+125 mg* per vial
 
 For Intravenous or Intramuscular Use
 
@@ -51,7 +51,7 @@ PACKAGE LABEL - PRINCIPAL DISPLAY - Methylprednisolone 1 gram Multiple Dose Vial
 
 methylPREDNISolone Sodium Succinate for Injection, USP
 
-1 gram ∗ per vial
+1 gram* per vial
 
 For Intravenous or Intramuscular Use Recommended Diluent Contains Benzyl Alcohol as a Preservative.
 
@@ -65,7 +65,7 @@ PACKAGE LABEL - PRINCIPAL DISPLAY - Methylprednisolone 1 gram Multiple Dose Vial
 
 methylPREDNISolone Sodium Succinate for Injection, USP
 
-1 gram ∗ per vial
+1 gram* per vial
 
 For Intravenous or Intramuscular Use Recommended Diluent Contains Benzyl Alcohol as a Preservative.
 

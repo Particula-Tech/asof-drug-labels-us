@@ -16,6 +16,6 @@ Store solution at 20° to 25°C (68° to 77°F) [see USP Controlled Room Tempera
 
 Use solution within 48 hours after mixing.
 
-www.fresenius-kabi.us 451282B
+www.fresenius-kabi.com/us 451282C
 
-Revised: December 2016
+Revised: March 2020

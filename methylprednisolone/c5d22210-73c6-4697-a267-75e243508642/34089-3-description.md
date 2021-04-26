@@ -22,5 +22,5 @@ IMPORTANT- Use only Bacteriostatic Water for Injection with Benzyl Alcohol when 
 
 Use within 48 hours after mixing.
 
-When necessary, the pH of each formula was adjusted with sodium hydroxide so that the pH of the reconstituted solution is within the USP specified range of 7 to 8 and the tonicities are, for the 40 mg per mL solution, 0.50 osmolar; for the 125 mg per 2 mL, 0.40 osmolar for the 1 g per 16 mL solution is 0.40 isomolar.
+When necessary, the pH of each formula was adjusted with sodium hydroxide so that the pH of the reconstituted solution is within the USP specified range of 7 to 8 and the tonicities are, for the 40 mg per mL solution, 0.50 osmolar; for the 125 mg per 2 mL solution, 0.40 osmolar; for the 1 g per 16 mL solution is 0.40 osmolar.
 (Isotonic saline = 0.28 osmolar).

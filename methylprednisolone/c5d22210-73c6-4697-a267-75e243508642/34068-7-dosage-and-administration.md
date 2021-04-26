@@ -12,7 +12,7 @@ Parenteral drug products should be inspected visually for particulate matter and
 This preparation may be administered by intravenous injection, by intravenous infusion, or by intramuscular injection, the preferred method for initial emergency use being intravenous injection.
 Following the initial emergency period, consideration should be given to employing a longer acting injectable preparation or an oral preparation.
 
-There are reports of cardiac arrhythmias and/or cardiac arrest following the rapid administration of large IV doses of methylprednisolone (greater than 0.5 gram administered over a period of less than 10 minutes).
+There are reports of cardiac arrhythmias and/or cardiac arrest following the rapid administration of large intravenous doses of methylprednisolone (greater than 0.5 gram administered over a period of less than 10 minutes).
 Bradycardia has been reported during or after the administration of large doses of methylprednisolone sodium succinate, and may be unrelated to the speed or duration of infusion.
 When high dose therapy is desired, the recommended dose of methylprednisolone sodium succinate for injection, USP sterile powder is 30 mg/kg administered intravenously over at least 30 minutes.
 This dose may be repeated every 4 to 6 hours for 48 hours.
@@ -35,7 +35,7 @@ To prepare solutions for intravenous infusion, first prepare the solution for in
 This solution may then be added to indicated amounts of 5% dextrose in water, isotonic saline solution, or 5% dextrose in isotonic saline solution.
 
 In pediatric patients, the initial dose of methylprednisolone may vary depending on the specific disease entity being treated.
-The range of initial doses is 0.11 to 1.6 mg/kg/day in three or four divided doses (3.2 to 48 mg/m 2 bsa/day).
+The range of initial doses is 0.11 to 1.6 mg/kg/day in three or four divided doses (3.2 to 48 mg/m2 bsa/day).
 
 The National Heart, Lung, and Blood Institute (NHLBI) recommended dosing for systemic prednisone, prednisolone, or methylprednisolone in pediatric patients whose asthma is uncontrolled by inhaled corticosteroids and long-acting bronchodilators is 1 to 2 mg/kg/day in single or divided doses.
 It is further recommended that short course, or “burst” therapy, be continued until the patient achieves a peak expiratory flow rate of 80% of his or her personal best or until symptoms resolve.

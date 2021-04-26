@@ -21,9 +21,14 @@ In order to minimize the incidence of dermal and subdermal atrophy, care must be
 Injection into the deltoid muscle should be avoided because of a high incidence of subcutaneous atrophy.
 
 Rare instances of anaphylactoid reactions have occurred in patients receiving corticosteroid therapy (see ADVERSE REACTIONS).
+
+In patients receiving the 40 mg presentation of methylprednisolone sodium succinate during the treatment for acute allergic conditions and where these symptoms worsen or any new allergic symptoms occur, consideration should be given to the potential for hypersensitivity reactions to cow's milk ingredients (see CONTRAINDICATIONS).
+If appropriate, administration of methylprednisolone sodium succinate should be stopped, and the patient's condition should be treated accordingly.
+Alternative treatments, including the use of corticosteroid formulations that do not contain ingredients produced from cow's milk, should be considered for acute allergy management, where appropriate.
+
 Increased dosage of rapidly acting corticosteroids is indicated in patients on corticosteroid therapy who are subjected to any unusual stress before, during, and after the stressful situation.
 
-Results from one multicenter, randomized, placebo-controlled study with methylprednisolone hemisuccinate, an IV corticosteroid, showed an increase in early (at 2 weeks) and late (at 6 months) mortality in patients with cranial trauma who were determined not to have other clear indications for corticosteroid treatment.
+Results from one multicenter, randomized, placebo-controlled study with methylprednisolone hemisuccinate, an intravenous corticosteroid, showed an increase in early (at 2 weeks) and late (at 6 months) mortality in patients with cranial trauma who were determined not to have other clear indications for corticosteroid treatment.
 High doses of systemic corticosteroids, including methylprednisolone sodium succinate, should not be used for the treatment of traumatic brain injury.
 
 ## Cardio-renal
@@ -43,6 +48,15 @@ Monitor patients for these conditions with chronic use.
 Corticosteroids can produce reversible HPA axis suppression with the potential for glucocorticosteroid insufficiency after withdrawal of treatment.
 Drug induced secondary adrenocortical insufficiency may be minimized by gradual reduction of dosage.
 This type of relative insufficiency may persist for months after discontinuation of therapy; therefore, in any situation of stress occurring during that period, hormone therapy should be reinstituted.
+
+## Drug-Induced Liver Injury
+
+Rarely, high doses of cyclically pulsed intravenous methylprednisolone (usually for the treatment of exacerbations of multiple sclerosis at doses of 1 gram/day) can induce a toxic form of acute hepatitis.
+The time to onset of this form of steroid-induced liver injury can be several weeks or longer.
+Resolution has been observed after discontinuation of treatment.
+However, serious liver injury can occur, sometimes resulting in acute liver failure and death.
+Discontinue intravenous methylprednisolone if toxic hepatitis occurs.
+Since recurrence has occurred after re-challenge, avoid use of high dose intravenous methylprednisolone in patients with a history of toxic hepatitis caused by methylprednisolone.
 
 ## Infections
 
@@ -129,13 +143,14 @@ Discontinuation of corticosteroids may result in clinical improvement.
 
 ## Cardio-renal
 
+Caution is required in patients with systemic sclerosis because an increased incidence of scleroderma renal crisis has been observed with corticosteroids, including methylprednisolone.
+
 As sodium retention with resultant edema and potassium loss may occur in patients receiving corticosteroids, these agents should be used with caution in patients with congestive heart failure, hypertension, or renal insufficiency.
 
 ## Endocrine
 
 Drug-induced secondary adrenocortical insufficiency may be minimized by gradual reduction of dosage.
 This type of relative insufficiency may persist for months after discontinuation of therapy; therefore, in any situation of stress occurring during that period, hormone therapy should be reinstituted.
-Since mineralocorticoid secretion may be impaired, salt and/or a mineralocorticoid should be administered concurrently.
 
 Metabolic clearance of corticosteroids is decreased in hypothyroid patients and increased in hyperthyroid patients.
 Changes in thyroid status of the patient may necessitate adjustment in dosage.
@@ -228,6 +243,8 @@ Routine administration of vaccines or toxoids should be deferred until corticost
 
 No adequate studies have been conducted in animals to determine whether corticosteroids have a potential for carcinogenesis or mutagenesis.
 Steroids may increase or decrease motility and number of spermatozoa in some patients.
+
+Corticosteroids have been shown to impair fertility in male rats.
 
 ## Pregnancy
 
