@@ -50,7 +50,7 @@ Table 2 Dosage Interval Adjustment for HIV-1 Infected Adult Patients with Altere
 
 |  | ≥50 | 30–49 | <30 (Including Patients Requiring Hemodialysis) |
 | --- | --- | --- | --- |
-|  | Creatinine Clearance (mL/min) Calculated using ideal (lean) body weight |  |  |
+|  | Creatinine Clearance (mL/min)Calculated using ideal (lean) body weight |  |  |
 | Recommended Dosing Interval | Every 24 hours | Every 48 hours | TRUVADA is not recommended. |
 
 HIV-1 PrEP

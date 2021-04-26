@@ -23,12 +23,12 @@ Table 3 provides the treatment-emergent adverse reactions (Grades 2–4) occurri
 Skin discoloration, manifested by hyperpigmentation, occurred in 3% of subjects taking FTC+TDF, and was generally mild and asymptomatic.
 The mechanism and clinical significance are unknown.
 
-Table 3 Selected Adverse Reactions Frequencies of adverse reactions are based on all treatment-emergent adverse events, regardless of relationship to study drug.
+Table 3 Selected Adverse ReactionsFrequencies of adverse reactions are based on all treatment-emergent adverse events, regardless of relationship to study drug.
 (Grades 2–4) Reported in ≥5% in Any Treatment Group in Study 934 (0–144 Weeks)
 
 |  | N=257 | N=254 |
 | --- | --- | --- |
-|  | FTC+TDF+EFV From Weeks 96 to 144 of the trial, subjects received TRUVADA with efavirenz in place of FTC+TDF with efavirenz. | AZT/3TC+EFV |
+|  | FTC+TDF+EFVFrom Weeks 96 to 144 of the trial, subjects received TRUVADA with efavirenz in place of FTC+TDF with efavirenz. | AZT/3TC+EFV |
 | Fatigue | 9% | 8% |
 | Depression | 9% | 7% |
 | Nausea | 9% | 7% |
@@ -36,7 +36,7 @@ Table 3 Selected Adverse Reactions Frequencies of adverse reactions are based on
 | Dizziness | 8% | 7% |
 | Upper respiratory tract infections | 8% | 5% |
 | Sinusitis | 8% | 4% |
-| Rash event Rash event includes rash, exfoliative rash, rash generalized, rash macular, rash maculo-papular, rash pruritic, and rash vesicular. | 7% | 9% |
+| Rash eventRash event includes rash, exfoliative rash, rash generalized, rash macular, rash maculo-papular, rash pruritic, and rash vesicular. | 7% | 9% |
 | Headache | 6% | 5% |
 | Insomnia | 5% | 7% |
 | Nasopharyngitis | 5% | 3% |
@@ -48,7 +48,7 @@ Table 4 Significant Laboratory Abnormalities Reported in ≥1% of Subjects in An
 
 |  | N=257 | N=254 |
 | --- | --- | --- |
-|  | FTC+TDF+EFV From Weeks 96 to 144 of the trial, subjects received TRUVADA with efavirenz in place of FTC+TDF with efavirenz. | AZT/3TC+EFV |
+|  | FTC+TDF+EFVFrom Weeks 96 to 144 of the trial, subjects received TRUVADA with efavirenz in place of FTC+TDF with efavirenz. | AZT/3TC+EFV |
 | Any ≥ Grade 3 Laboratory Abnormality | 30% | 26% |
 | Fasting Cholesterol (>240 mg/dL) | 22% | 24% |
 | Creatine Kinase (M: >990 U/L) (F: >845 U/L) | 9% | 7% |
@@ -60,7 +60,7 @@ Table 4 Significant Laboratory Abnormalities Reported in ≥1% of Subjects in An
 | Hyperglycemia (>250 mg/dL) | 2% | 1% |
 | Hematuria (>75 RBC/HPF) | 3% | 2% |
 | Glycosuria (≥3+) | <1% | 1% |
-| Neutrophils (<750/mm 3) | 3% | 5% |
+| Neutrophils (<750/mm3) | 3% | 5% |
 | Fasting Triglycerides (>750 mg/dL) | 4% | 2% |
 
 Clinical Trials in Pediatric Subjects
@@ -108,7 +108,7 @@ Grades 2−3 proteinuria (2–4+) and/or glycosuria (3+) occurred in less than 1
 
 Table 6 Laboratory Abnormalities (Highest Toxicity Grade Reported for Each Subject) in the iPrEx Trial and Partners PrEP Trial
 
-| Grade 2–4 Grading is per DAIDS criteria. | FTC/TDF (N=1251) | Placebo (N=1248) | FTC/TDF (N=1579) | Placebo (N=1584) |
+| Grade 2–4Grading is per DAIDS criteria. | FTC/TDF (N=1251) | Placebo (N=1248) | FTC/TDF (N=1579) | Placebo (N=1584) |
 | --- | --- | --- | --- | --- |
 |  | iPrEx Trial |  | Partners PrEP Trial |  |
 | Creatinine (>1.4 × ULN) | <1% | <1% | <1% | <1% |
@@ -116,7 +116,7 @@ Table 6 Laboratory Abnormalities (Highest Toxicity Grade Reported for Each Subje
 | AST (>2.6 × ULN) | 5% | 5% | <1% | <1% |
 | ALT (>2.6 × ULN) | 7% | 7% | <1% | <1% |
 | Hemoglobin (<9.4 mg/dL) | 1% | 2% | 2% | 2% |
-| Neutrophils (<750/mm 3) | <1% | <1% | 5% | 3% |
+| Neutrophils (<750/mm3) | <1% | <1% | 5% | 3% |
 
 Changes in Bone Mineral Density: In clinical trials of HIV-1 uninfected individuals, decreases in BMD were observed.
 In the iPrEx trial, a substudy of 503 subjects found mean changes from baseline in BMD ranging from –0.4% to –1.0% across total hip, spine, femoral neck, and trochanter in the TRUVADA group compared with the placebo group, which returned toward baseline after discontinuation of treatment.

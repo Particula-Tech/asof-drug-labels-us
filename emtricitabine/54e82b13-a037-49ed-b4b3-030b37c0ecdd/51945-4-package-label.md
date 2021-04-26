@@ -1,47 +1,47 @@
-# PRINCIPAL DISPLAY PANEL - 30 Tablet Bottle Label
+# PRINCIPAL DISPLAY PANEL - 200 mg/300 mg Tablet Bottle Label
 
 NDC 61958-0701-1
 
-Truvada® (emtricitabine and tenofovir disoproxil fumarate) Tablets
+Truvada® (emtricitabine and tenofovir disoproxil fumarate) tablets
 
-30 tablets
+200 mg / 300 mg
 
-R x only
+30 tablets Rx only
 
-DISPENSER: Each time Truvada ® is dispensed give the patient the attached Medication Guide.
+DISPENSER: Each time Truvada is dispensed give the patient the attached Medication Guide.
 
 # PRINCIPAL DISPLAY PANEL - 100 mg/150 mg Tablet Bottle Label
 
-NDC 61958- 0703-1
+NDC 61958-0703-1
 
-Truvada® (emtricitabine and tenofovir disoproxil fumarate) Tablets
+Truvada® (emtricitabine and tenofovir disoproxil fumarate) tablets
 
 100 mg/150 mg
 
-30 tablets R x only
+30 tablets Rx only
 
-DISPENSER: Each time Truvada ® is dispensed give the patient the attached Medication Guide.
+DISPENSER: Each time Truvada is dispensed give the patient the attached Medication Guide.
 
 # PRINCIPAL DISPLAY PANEL - 133 mg/200 mg Tablet Bottle Label
 
-NDC 61958- 0704-1
+NDC 61958-0704-1
 
-Truvada® (emtricitabine and tenofovir disoproxil fumarate) Tablets
+Truvada® (emtricitabine and tenofovir disoproxil fumarate) tablets
 
 133 mg/200 mg
 
-30 tablets R x only
+30 tablets Rx only
 
-DISPENSER: Each time Truvada ® is dispensed give the patient the attached Medication Guide.
+DISPENSER: Each time Truvada is dispensed give the patient the attached Medication Guide.
 
 # PRINCIPAL DISPLAY PANEL - 167 mg/250 mg Tablet Bottle Label
 
-NDC 61958- 0705-1
+NDC 61958-0705-1
 
-Truvada® (emtricitabine and tenofovir disoproxil fumarate) Tablets
+Truvada® (emtricitabine and tenofovir disoproxil fumarate) tablets
 
 167 mg/250 mg
 
-30 tablets R x only
+30 tablets Rx only
 
-DISPENSER: Each time Truvada ® is dispensed give the patient the attached Medication Guide.
+DISPENSER: Each time Truvada is dispensed give the patient the attached Medication Guide.

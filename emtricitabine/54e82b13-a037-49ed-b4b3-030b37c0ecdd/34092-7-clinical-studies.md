@@ -6,10 +6,10 @@ The efficacy and safety of TRUVADA have been evaluated in the studies summarized
 
 Table 13 Trials Conducted with TRUVADA for HIV-1 Treatment and HIV-1 PrEP
 
-| Trial | Population | Study Arms (N) Randomized and dosed. | Timepoint |
+| Trial | Population | Study Arms (N)Randomized and dosed. | Timepoint |
 | --- | --- | --- | --- |
-| Study 934 Randomized, open label, active-controlled trial. (NCT00112047) | HIV-infected, treatment-naïve adults | FTC+TDF + efavirenz (257) zidovudine/lamivudine + efavirenz (254) | 48 Weeks |
-| iPrEx Randomized, double-blind, placebo-controlled trial. (NCT00458393) | HIV-seronegative men or transgender women who have sex with men | TRUVADA (1,251) Placebo (1,248) | 4,237 person-years |
+| Study 934Randomized, open label, active-controlled trial. (NCT00112047) | HIV-infected, treatment-naïve adults | FTC+TDF + efavirenz (257) zidovudine/lamivudine + efavirenz (254) | 48 Weeks |
+| iPrExRandomized, double-blind, placebo-controlled trial. (NCT00458393) | HIV-seronegative men or transgender women who have sex with men | TRUVADA (1,251) Placebo (1,248) | 4,237 person-years |
 | Partners PrEP (NCT00557245) | HIV serodiscordant heterosexual couples | TRUVADA (1,583) Placebo (1,586) | 7,827 person-years |
 
 ## 14.2 Clinical Trial Results for Treatment of HIV-1: Study 934
@@ -17,28 +17,28 @@ Table 13 Trials Conducted with TRUVADA for HIV-1 Treatment and HIV-1 PrEP
 Data through 144 weeks are reported for Study 934, a randomized, open-label, active-controlled multicenter trial comparing FTC+TDF administered in combination with efavirenz (EFV) versus zidovudine (AZT)/lamivudine (3TC) fixed-dose combination administered in combination with EFV in 511 antiretroviral-naïve adult subjects.
 From Weeks 96 to 144 of the trial, subjects received TRUVADA with EFV in place of FTC+TDF with EFV.
 Subjects had a mean age of 38 years (range 18–80); 86% were male, 59% were Caucasian, and 23% were Black.
-The mean baseline CD4+ cell count was 245 cells/mm 3 (range 2–1,191) and median baseline plasma HIV-1 RNA was 5.01 log 10 copies/mL (range 3.56–6.54).
-Subjects were stratified by baseline CD4+ cell count (< or ≥200 cells/mm 3); 41% had CD4+ cell counts <200 cells/mm 3 and 51% of subjects had baseline viral loads >100,000 copies/mL.
+The mean baseline CD4+ cell count was 245 cells/mm3 (range 2–1,191) and median baseline plasma HIV-1 RNA was 5.01 log10 copies/mL (range 3.56–6.54).
+Subjects were stratified by baseline CD4+ cell count (< or ≥200 cells/mm3); 41% had CD4+ cell counts <200 cells/mm3 and 51% of subjects had baseline viral loads >100,000 copies/mL.
 Treatment outcomes through 48 and 144 weeks for those subjects who did not have EFV resistance at baseline are presented in Table 14.
 
 Table 14 Virologic Outcomes of Randomized Treatment at Weeks 48 and 144 (Study 934)
 
-| FTC+TDF +EFV (N=244) | AZT/3TC +EFV (N=243) | FTC+TDF +EFV (N=227) Subjects who were responders at Week 48 or Week 96 (HIV-1 RNA <400 copies/mL) but did not consent to continue trial after Week 48 or Week 96 were excluded from analysis. | AZT/3TC +EFV (N=229) |  |
+| FTC+TDF +EFV (N=244) | AZT/3TC +EFV (N=243) | FTC+TDF +EFV (N=227)Subjects who were responders at Week 48 or Week 96 (HIV-1 RNA <400 copies/mL) but did not consent to continue trial after Week 48 or Week 96 were excluded from analysis. | AZT/3TC +EFV (N=229) |  |
 | --- | --- | --- | --- | --- |
 | Outcomes | At Week 48 |  | At Week 144 |  |
-| Responder Subjects achieved and maintained confirmed HIV-1 RNA <400 copies/mL through Weeks 48 and 144. | 84% | 73% | 71% | 58% |
-| Virologic failure Includes confirmed viral rebound and failure to achieve confirmed <400 copies/mL through Weeks 48 and 144. | 2% | 4% | 3% | 6% |
+| ResponderSubjects achieved and maintained confirmed HIV-1 RNA <400 copies/mL through Weeks 48 and 144. | 84% | 73% | 71% | 58% |
+| Virologic failureIncludes confirmed viral rebound and failure to achieve confirmed <400 copies/mL through Weeks 48 and 144. | 2% | 4% | 3% | 6% |
 | Rebound | 1% | 3% | 2% | 5% |
 | Never suppressed | 0% | 0% | 0% | 0% |
 | Change in antiretroviral regimen | 1% | 1% | 1% | 1% |
 | Death | <1% | 1% | 1% | 1% |
 | Discontinued due to adverse event | 4% | 9% | 5% | 12% |
-| Discontinued for other reasons Includes lost to follow-up, subject withdrawal, noncompliance, protocol violation, and other reasons. | 10% | 14% | 20% | 22% |
+| Discontinued for other reasonsIncludes lost to follow-up, subject withdrawal, noncompliance, protocol violation, and other reasons. | 10% | 14% | 20% | 22% |
 
 Through Week 48, 84% and 73% of subjects in the FTC+TDF group and the AZT/3TC group, respectively, achieved and maintained HIV-1 RNA <400 copies/mL (71% and 58% through Week 144).
 The difference in the proportion of subjects who achieved and maintained HIV-1 RNA <400 copies/mL through 48 weeks is largely due to the higher number of discontinuations due to adverse events and other reasons in the AZT/3TC group in this open-label trial.
 In addition, 80% and 70% of subjects in the FTC+TDF group and the AZT/3TC group, respectively, achieved and maintained HIV-1 RNA <50 copies/mL through Week 48 (64% and 56% through Week 144).
-The mean increase from baseline in CD4+ cell count was 190 cells/mm 3 in the FTC+TDF group and 158 cells/mm 3 in the AZT/3TC group at Week 48 (312 and 271 cells/mm 3 at Week 144).
+The mean increase from baseline in CD4+ cell count was 190 cells/mm3 in the FTC+TDF group and 158 cells/mm3 in the AZT/3TC group at Week 48 (312 and 271 cells/mm3 at Week 144).
 
 Through 48 weeks, 7 subjects in the FTC+TDF group and 5 subjects in the AZT/3TC group experienced a new CDC Class C event (10 and 6 subjects through 144 weeks).
 
