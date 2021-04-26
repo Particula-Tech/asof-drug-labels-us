@@ -119,4 +119,4 @@ This Medication Guide has been approved by the U.S. Food and Drug Administration
 | Manufactured by Apotex Inc.Toronto, OntarioCanada M9L 1T9 | Manufactured forApotex Corp.Weston, Florida33326 |
 | --- | --- |
 
-Revised: March 2021
+Revised: April 2021

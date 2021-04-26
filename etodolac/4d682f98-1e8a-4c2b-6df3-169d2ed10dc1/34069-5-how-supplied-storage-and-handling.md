@@ -19,7 +19,7 @@ APOTEX INC. ETODOLAC TABLETS, USP 400 mg and 500 mg
 | Manufactured by Apotex Inc.Toronto, OntarioCanada M9L 1T9 | Manufactured forApotex Corp.Weston, Florida33326 |
 | --- | --- |
 
-Revised: March 2021
+Revised: April 2021
 
 Rev.
-6
+7

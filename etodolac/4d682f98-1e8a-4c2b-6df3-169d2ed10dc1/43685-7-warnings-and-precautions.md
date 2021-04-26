@@ -156,12 +156,12 @@ Patients should also be encouraged to read the NSAID Medication Guide that accom
 Cardiovascular Thrombotic Events Advise patients to be alert for the symptoms of cardiovascular thrombotic events, including chest pain, shortness of breath, weakness, or slurring of speech, and to report any of these symptoms to their health care provider immediately (see WARNINGS).
 
 2.
-Serious Skin Reactions, including DRESS Advise patients to stop taking etodolac immediately if they develop any type of reaction or fever and to contact their healthcare provider as soon as possible [see Warnings].
+Etodolac, like other NSAIDs, can cause GI discomfort and, rarely, serious GI side effects, such as ulcers and bleeding, which may result in hospitalization and even death.
+Although serious GI tract ulcerations and bleeding can occur without warning symptoms, patients should be alert for the signs and symptoms of ulcerations and bleeding, and should ask for medical advice when observing any indicative sign or symptoms including epigastric pain, dyspepsia, melena, and hematemesis.
+Patients should be apprised of the importance of this follow-up (see WARNINGS, Gastrointestinal Effects, Risk of Ulceration, Bleeding, and Perforation).
 
 3.
-Etodolac, like other NSAIDs, can cause serious skin side effects such as exfoliative dermatitis, SJS, and TEN, which may result in hospitalizations and even death.
-Although serious skin reactions may occur without warning, patients should be alert for the signs and symptoms of skin rash and blisters, fever, or other signs of hypersensitivity such as itching, and should ask for medical advice when observing any indicative signs or symptoms.
-Patients should be advised to stop the drug immediately if they develop any type of rash and contact their physicians as soon as possible.
+Serious Skin Reactions, including DRESS: Advise patients to stop taking etodolac capsules immediately if they develop any type of rash or fever and to contact their healthcare provider as soon as possible [see WARNINGS].
 
 4.
 Heart Failure And Edema Advise patients to be alert for the symptoms of congestive heart failure including shortness of breath, unexplained weight gain, or edema and to contact their healthcare provider if such symptoms occur (see WARNINGS).
@@ -252,10 +252,6 @@ Risk Summary
 Use of NSAIDs, including etodolac, can cause premature closure of the fetal ductus arteriosus and fetal renal dysfunction leading to oligohydramnios and, in some cases, neonatal renal impairment.
 Because of these risks, limit dose and duration of etodolac use between about 20 and 30 weeks of gestation, and avoid etodolac use at about 30 weeks of gestation and later in pregnancy [see WARNINGS; Fetal Toxicity].
 
-The estimated background risk of major birth defects and miscarriage for the indicated population(s) is unknown.
-All pregnancies have a background risk of birth defect, loss, or other adverse outcomes.
-In the U.S. general population, the estimated background risk of major birth defects and miscarriage in clinically recognized pregnancies is 2-4% and 15-20%, respectively.
-
 Premature Closure of Fetal Ductus Arteriosus
 
 Use of NSAIDs, including etodolac, at about 30 weeks gestation or later in pregnancy increases the risk of premature closure of the fetal ductus arteriosus.
@@ -263,6 +259,19 @@ Use of NSAIDs, including etodolac, at about 30 weeks gestation or later in pregn
 Oligohydramnios/Neonatal Renal Impairment
 
 Use of NSAIDs at about 20 weeks gestation or later in pregnancy has been associated with cases of fetal renal dysfunction leading to oligohydramnios, and in some cases, neonatal renal impairment.
+
+Data from observational studies regarding other potential embryofetal risks of NSAID use in women in the first or second trimesters of pregnancy are inconclusive.
+In animal reproduction studies, isolated occurrences of alterations in limb development were found and included polydactyly, oligodactyly, syndactyly, and unossified phalanges in rats and oligodactyly and synostosis of metatarsals in rabbits.
+These were observed at dose levels (2 to 14 mg/kg/day) close to human clinical doses.
+However, the frequency and the dosage group distribution of these findings in initial or repeated studies did not establish a clear drug or dose response relationship.
+Animal reproduction studies are not always predictive of human response.
+Based on animal data, prostaglandins have been shown to have an important role in endometrial vascular permeability, blastocyst implantation, and decidualization.
+In animal studies, administration of prostaglandin synthesis inhibitors such as etodolac, resulted in increased pre- and post-implantation loss.
+Prostaglandins also have been shown to have an important role in fetal kidney development.
+In published animal studies, prostaglandin synthesis inhibitors have been reported to impair kidney development when administered at clinically relevant doses.
+The estimated background risk of major birth defects and miscarriage for the indicated population(s) is unknown.
+All pregnancies have a background risk of birth defect, loss, or other adverse outcomes.
+In the U.S. general population, the estimated background risk of major birth defects and miscarriage in clinically recognized pregnancies is 2-4% and 15-20%, respectively.
 
 Clinical Considerations
 
@@ -275,6 +284,25 @@ Oligohydramnios/Neonatal Renal Impairment
 If an NSAID is necessary at about 20 weeks gestation or later in pregnancy, limit the use to the lowest effective dose and shortest duration possible.
 If etodolac treatment extends beyond 48 hours, consider monitoring with ultrasound for oligohydramnios.
 If oligohydramnios occurs, discontinue etodolac and follow up according to clinical practice (see WARNINGS; Fetal Toxicity).
+
+Data
+
+Human Data
+
+There are no adequate or well-controlled studies in pregnant women.
+Etodolac should be used during pregnancy only if the potential benefit justifies the potential risk to the fetus.
+
+Premature Closure of Fetal Ductus Arteriosus: Published literature reports that the use of NSAIDs at about 30 weeks of gestation and later in pregnancy may cause premature closure of the fetal ductus arteriosus.
+
+Oligohydramnios/Neonatal Renal Impairment: Published studies and postmarketing reports describe maternal NSAID use at about 20 weeks gestation or later in pregnancy associated with fetal renal dysfunction leading to oligohydramnios, and in some cases, neonatal renal impairment.
+These adverse outcomes are seen, on average, after days to weeks of treatment, although oligohydramnios has been infrequently reported as soon as 48 hours after NSAID initiation.
+In many cases, but not all, the decrease in amniotic fluid was transient and reversible with cessation of the drug.
+There have been a limited number of case report of maternal NSAID use and neonatal renal dysfunction without oligohydramnios, some of which were irreversible.
+Some cases of neonatal renal dysfunction required treatment with invasive procedures, such as exchange transfusion or dialysis.
+
+Methodological limitations of these postmarketing studies and reports include lack of a control group; limited information regarding dose, duration, and timing of drug exposure; and concomitant use of other medications.
+These limitations preclude establishing a reliable estimate of the risk of adverse fetal and neonatal outcomes with maternal NSAID use.
+Because the published safety data on neonatal outcomes involved mostly preterm infants, the generalizability of certain reported risks to the full-term infant exposed to NSAIDs through maternal use is uncertain.
 
 ## Labor and Delivery
 
