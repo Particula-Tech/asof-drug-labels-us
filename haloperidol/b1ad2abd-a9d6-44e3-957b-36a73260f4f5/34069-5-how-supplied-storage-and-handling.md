@@ -8,3 +8,9 @@ Do not freeze.
 PROTECT FROM LIGHT.
 
 The container closure is not made with natural rubber latex.
+
+Lake Zurich, IL 60047 www.fresenius-kabi.com/us
+
+45850M
+
+Revised: March 2020

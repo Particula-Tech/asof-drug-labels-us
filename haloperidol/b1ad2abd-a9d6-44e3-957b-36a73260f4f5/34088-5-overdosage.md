@@ -18,4 +18,5 @@ Hypotension and circulatory collapse may be counteracted by use of intravenous f
 Epinephrine should not be used.
 In case of severe extrapyramidal reactions, antiparkinson medication should be administered.
 ECG and vital signs should be monitored especially for signs of QT-prolongation or dysrhythmias and monitoring should continue until the ECG is normal.
+
 Severe arrhythmias should be treated with appropriate antiarrhythmic measures.
