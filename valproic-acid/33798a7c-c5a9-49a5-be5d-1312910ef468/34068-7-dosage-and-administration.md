@@ -79,7 +79,7 @@ As the divalproex sodium delayed-release tablets dosage is titrated upward, bloo
 
 Antiepilepsy drugs should not be abruptly discontinued in patients in whom the drug is administered to prevent major seizures because of the strong possibility of precipitating status epilepticus with attendant hypoxia and threat to life.
 
-In epileptic patients previously receiving Depakene® (valproic acid) therapy, divalproex sodium delayed-release tablets should be initiated at the same daily dose and dosing schedule.
+In epileptic patients previously receiving valproic acid therapy, divalproex sodium delayed-release tablets should be initiated at the same daily dose and dosing schedule.
 After the patient is stabilized on divalproex sodium delayed-release tablets, a dosing schedule of two or three times a day may be elected in selected patients.
 
 ## 2.3 Migraine
