@@ -51,4 +51,4 @@ However, dose adjustment in patients with renal impairment is not necessary.
 Hepatic Impairment
 
 Pharmacokinetics and pharmacodynamics of filgrastim are similar between subjects with hepatic impairment and healthy subjects (n = 12/group).
-The study included 10 subjects with mild hepatic impairment (Child-Pugh Class A) and 2 subjects with moderate hepatic impairment (Child-Pugh Class B). Therefore, NIVESTYM dose adjustment for in patients with hepatic impairment is not necessary.
+The study included 10 subjects with mild hepatic impairment (Child-Pugh Class A) and 2 subjects with moderate hepatic impairment (Child-Pugh Class B). Therefore, NIVESTYM dose adjustment for patients with hepatic impairment is not necessary.

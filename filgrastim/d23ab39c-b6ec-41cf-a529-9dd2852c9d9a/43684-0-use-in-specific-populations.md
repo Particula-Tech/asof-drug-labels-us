@@ -4,16 +4,16 @@
 
 Risk Summary
 
-There are no adequate and well-controlled clinical studies in pregnant women, therefore the potential risk to the fetus with the use of filgrastim products is unknown.
+Available data from published studies, including several observational studies of pregnancy outcomes in women exposed to filgrastim products and those who were unexposed, have not established an association with filgrastim products use during pregnancy and major birth defects, miscarriage, or adverse maternal or fetal outcomes (see Data).
 Reports in the scientific literature have described transplacental passage of filgrastim in pregnant women when administered ≤ 30 hours prior to preterm delivery (≤ 30 weeks gestation).
 In animal reproduction studies, effects of filgrastim on prenatal development have been studied in rats and rabbits.
 No malformations were observed in either species.
 No maternal or fetal effects were observed in pregnant rats at doses up to 58 times the human doses.
-Filgrastim been shown to have adverse effects in pregnant rabbits at doses 2 to 10 times higher than the human doses (see Data).
+Filgrastim has been shown to have adverse effects in pregnant rabbits at doses 2 to 10 times higher than the human doses (see Data).
 
 The estimated background risk of major birth defects and miscarriage for the indicated populations is unknown.
 All pregnancies have a background risk of birth defect, loss, or other adverse outcomes.
-In the U.S. general population, the estimated background risk of major birth defects and miscarriage in clinically recognized pregnancies is 2–4% and 15–20%, respectively.
+In the U.S. general population, the estimated background risks of major birth defects and miscarriage in clinically recognized pregnancies is 2–4% and 15–20%, respectively.
 
 Data
 
@@ -40,7 +40,7 @@ Risk Summary
 There is published literature documenting transfer of filgrastim products into human milk.
 There are a few case reports describing the use of filgrastim products in breastfeeding mothers with no adverse effects noted in the infants.
 There are no data on the effects of filgrastim products on milk production.
-Other recombinant filgrastim products are secreted poorly into breast milk, and filgrastim products are not absorbed orally by neonates.
+Other filgrastim products are secreted poorly into breast milk, and filgrastim products are not absorbed orally by neonates.
 The developmental and health benefits of breastfeeding should be considered along with the mother's clinical need for NIVESTYM and any potential adverse effects on the breastfed child from NIVESTYM or from the underlying maternal condition.
 
 ## 8.4 Pediatric Use

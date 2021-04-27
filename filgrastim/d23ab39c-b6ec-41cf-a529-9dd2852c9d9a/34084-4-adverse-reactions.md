@@ -9,6 +9,8 @@ The following serious adverse reactions are discussed in greater detail in other
 - Glomerulonephritis [see Warnings and Precautions (5.5)]
 - Alveolar Hemorrhage and Hemoptysis [see Warnings and Precautions (5.6)]
 - Capillary Leak Syndrome [see Warnings and Precautions (5.7)]
+- Myelodysplastic Syndrome [see Warnings and Precautions (5.8)]
+- Acute Myeloid Leukemia [see Warnings and Precautions (5.8)]
 - Thrombocytopenia [see Warnings and Precautions (5.9)]
 - Leukocytosis [see Warnings and Precautions (5.10)]
 - Cutaneous Vasculitis [see Warnings and Precautions (5.11)]
@@ -118,7 +120,7 @@ Initial dosage of filgrastim:
 
 The dosage was increased incrementally to 12 mcg/kg/day divided 2 times per day if there was no response.
 
-Adverse reactions with ≥ 5% higher incidence in filgrastim patients compared to patients receiving no filgrastim included arthralgia, bone pain, back pain, muscle spasms, musculoskeletal pain, pain in extremity, splenomegaly, anemia, upper respiratory tract infection, and urinary tract infection (upper respiratory tract infection and urinary tract infection were higher in the filgrastim arm, total infection related events were lower in filgrastim treated patients), epistaxis, chest pain, diarrhea, hypoesthesia, and alopecia.
+Adverse reactions with ≥ 5% higher incidence in filgrastim patients compared to patients receiving no filgrastim included arthralgia, bone pain, back pain, muscle spasms, musculoskeletal pain, pain in extremity, splenomegaly, anemia, upper respiratory tract infection, and urinary tract infection (upper respiratory tract infection and urinary tract infection were higher in the filgrastim arm, total infection related events were lower in filgrastim-treated patients), epistaxis, chest pain, diarrhea, hypoesthesia, and alopecia.
 
 ## 6.2 Immunogenicity
 
@@ -150,3 +152,5 @@ Because these reactions are reported voluntarily from a population of uncertain 
 - cutaneous vasculitis [see Warnings and Precautions (5.11)]
 - Sweet's syndrome (acute febrile neutrophilic dermatosis)
 - decreased bone density and osteoporosis in pediatric patients receiving chronic treatment with filgrastim products.
+- myelodysplastic syndrome (MDS) and acute myeloid leukemia (AML) in patients with breast and lung cancer receiving chemotherapy and/or radiotherapy [see Warnings and Precautions (5.8)]
+- aortitis [see Warnings and Precautions (5.15)]

@@ -72,7 +72,7 @@ For direct administration of doses less than 0.3 mL (180 mcg) use NIVESTYM singl
 NIVESTYM is supplied in single-dose vials (for subcutaneous use or intravenous infusion) and single-dose prefilled syringes (for subcutaneous use) [see Dosage Forms and Strengths (3)].
 Prior to use‚ remove the vial or prefilled syringe from the refrigerator and allow NIVESTYM to reach room temperature for a minimum of 30 minutes and a maximum of 24 hours.
 Discard any vial or prefilled syringe left at room temperature for greater than 24 hours.
-Visually inspect NIVESTYM for particulate matter and discoloration prior to administration (the solution is clear and colorless).
+Parenteral drug products should be inspected visually for particulate matter and discoloration prior to administration, whenever solution and container permit (the solution is clear and colorless).
 Do not administer NIVESTYM if particulates or discoloration are observed.
 
 Discard unused portion of NIVESTYM in vials or prefilled syringes; do not re-enter the vial.
