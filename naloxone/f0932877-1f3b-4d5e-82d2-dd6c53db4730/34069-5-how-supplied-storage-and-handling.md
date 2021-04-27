@@ -13,10 +13,12 @@ Protect from light.
 
 Store in carton until contents have been used.
 
-Manufactured for: Mylan Institutional LLC Rockford, IL 61103 U.S.A.
+Discard unused portion.
+
+Manufactured for: Mylan Institutional LLC Morgantown, WV 26505 U.S.A.
 
 Manufactured by: Mylan Institutional Galway, Ireland
 
-0910L101
+0910L102
 
-Revised: 1/2018 MI:NALOIJ:R5
+Revised: 8/2020 MI:NALOIJ:R6
