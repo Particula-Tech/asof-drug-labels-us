@@ -38,13 +38,13 @@ The developmental and health benefits of breastfeeding should be considered alon
 
 ## 8.4 Pediatric Use
 
+The safety and effectiveness of Daptomycin for injection in the treatment of cSSSI and S. aureus bloodstream infections (bacteremia) have been established in the age groups 1 to 17 years of age.
+Use of Daptomycin for injection in these age groups is supported by evidence from adequate and well-controlled studies in adults, with additional data from pharmacokinetic studies in pediatric patients, and from safety, efficacy and PK studies in pediatric patients with cSSSI and S. aureus bloodstream infections [see Adverse Reactions (6.1), Clinical Pharmacology (12.3), and Clinical Studies (14.1)].
+
 Safety and effectiveness in pediatric patients below the age of one year have not been established.
-Avoid use of Daptomycin for injection in pediatric patients younger than one year of age due to the risk of potential effects on muscular, neuromuscular, and/or nervous systems (either peripheral and/or central) observed in neonatal dogs [see Warnings and Precautions (5.5) and Nonclinical Toxicology (13.2)].
+Avoid use of Daptomycin for injection in pediatric patients younger than one year of age due to the risk of potential effects on muscular, neuromuscular, and/or nervous systems (either peripheral and/or central) observed in neonatal dogs [see Warnings and Precautions (5.7) and Nonclinical Toxicology (13.2)].
 
 Daptomycin for injection is not indicated in pediatric patients with renal impairment because dosage has not been established in these patients.
-
-Pediatric use information is approved for Merck & Co., Inc.'s Cubicin (daptomycin for injection).
-However, due to Merck & Co., Inc.'s marketing exclusivity rights, this drug product is not labeled with that pediatric information.
 
 Daptomycin for injection has not been studied in pediatric patients with other bacterial infections.
 
@@ -56,11 +56,11 @@ In Phase 3 adult clinical trials of cSSSI and S. aureus bacteremia/endocarditis,
 In addition, treatment-emergent adverse events were more common in patients ≥65 years of age than in patients <65 years of age.
 
 The exposure of daptomycin was higher in healthy elderly subjects than in healthy young adult subjects.
-However, no adjustment of Daptomycin for injection dosage is warranted for elderly patients with creatinine clearance (CLCR) ≥30 mL/min [see Dosage and Administration (2.6) and Clinical Pharmacology (12.3)]
+However, no adjustment of Daptomycin for injection dosage is warranted for elderly patients with creatinine clearance (CLCR) ≥30 mL/min [see Dosage and Administration (2.6) and Clinical Pharmacology (12.3)].
 
 ## 8.6 Patients with Renal Impairment
 
-Daptomycin is eliminated primarily by the kidneys; therefore, a modification of Daptomycin for injection dosage interval is recommended for adult patients with CLCR<30 mL/min, including patients receiving hemodialysis or continuous ambulatory peritoneal dialysis (CAPD).
-In adult patients with renal impairment, both renal function and creatine phosphokinase (CPK) should be monitored more frequently than once weekly [see Dosage and Administration (2.6), Warnings and Precautions (5.2, 5.8), and Clinical Pharmacology (12.3)].
+Daptomycin is eliminated primarily by the kidneys; therefore, a modification of Daptomycin for injection dosage interval is recommended for adult patients with CLCR <30 mL/min, including patients receiving hemodialysis or continuous ambulatory peritoneal dialysis (CAPD).
+In adult patients with renal impairment, both renal function and creatine phosphokinase (CPK) should be monitored more frequently than once weekly [see Dosage and Administration (2.6), Warnings and Precautions (5.2, 5.10), and Clinical Pharmacology (12.3)].
 
 The dosage regimen for Daptomycin for injection in pediatric patients with renal impairment has not been established.

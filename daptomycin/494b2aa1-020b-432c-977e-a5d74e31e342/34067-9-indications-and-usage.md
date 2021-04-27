@@ -2,17 +2,15 @@
 
 ## 1.1 Complicated Skin and Skin Structure Infections (cSSSI)
 
-Daptomycin for injection is indicated for the treatment of adult patients with complicated skin and skin structure infections (cSSSI) caused by susceptible isolates of the following Gram-positive bacteria: Staphylococcus aureus (including methicillin-resistant isolates), Streptococcus pyogenes, Streptococcus agalactiae, Streptococcus dysgalactiae subsp. equisimilis, and Enterococcus faecalis (vancomycin-susceptible isolates only).
-
-Pediatric use information is approved for Merck & Co., Inc.'s Cubicin (daptomycin for injection).
-However, due to Merck & Co., Inc.'s marketing exclusivity rights, this drug product is not labeled with that pediatric information.
+Daptomycin for injection is indicated for the treatment of adult patients and pediatric patients (1 to 17 years of age) with complicated skin and skin structure infections (cSSSI) caused by susceptible isolates of the following Gram-positive bacteria: Staphylococcus aureus (including methicillin-resistant isolates), Streptococcus pyogenes, Streptococcus agalactiae, Streptococcus dysgalactiae subsp. equisimilis, and Enterococcus faecalis (vancomycin-susceptible isolates only).
 
 ## 1.2 Staphylococcus aureus Bloodstream Infections (Bacteremia) in Adult Patients, Including Those with Right-Sided Infective Endocarditis, Caused by Methicillin-Susceptible and Methicillin-Resistant Isolates
 
 Daptomycin for injection is indicated for the treatment of adult patients with Staphylococcus aureus bloodstream infections (bacteremia), including adult patients with right-sided infective endocarditis, caused by methicillin-susceptible and methicillin-resistant isolates.
 
-Pediatric use information is approved for Merck & Co., Inc.'s Cubicin (daptomycin for injection).
-However, due to Merck & Co., Inc.'s marketing exclusivity rights, this drug product is not labeled with that pediatric information.
+## 1.3 Staphylococcus aureus Bloodstream Infections (Bacteremia) in Pediatric Patients (1 to 17 Years of Age)
+
+Daptomycin for injection is indicated for the treatment of pediatric patients (1 to 17 years of age) with Staphylococcus aureus bloodstream infections (bacteremia).
 
 ## 1.4 Limitations of Use
 
@@ -22,7 +20,7 @@ Daptomycin for injection is not indicated for the treatment of left-sided infect
 The clinical trial of Daptomycin for injection in adult patients with S. aureus bloodstream infections included limited data from patients with left-sided infective endocarditis; outcomes in these patients were poor [see Clinical Studies (14.2)].
 Daptomycin for injection has not been studied in patients with prosthetic valve endocarditis.
 
-Daptomycin for injection is not recommended in pediatric patients younger than 1 year of age due to the risk of potential effects on muscular, neuromuscular, and/or nervous systems (either peripheral and/or central) observed in neonatal dogs [see Warnings and Precautions (5.5) and Nonclinical Toxicology (13.2)].
+Daptomycin for injection is not recommended in pediatric patients younger than 1 year of age due to the risk of potential effects on muscular, neuromuscular, and/or nervous systems (either peripheral and/or central) observed in neonatal dogs [see Warnings and Precautions (5.7) and Nonclinical Toxicology (13.2)].
 
 ## 1.5 Usage
 
