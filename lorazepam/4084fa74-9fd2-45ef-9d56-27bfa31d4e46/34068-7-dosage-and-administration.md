@@ -1,6 +1,6 @@
 # DOSAGE AND ADMINISTRATION
 
-NOTE: CONTAINS BENZYL ALCOHOL (see WARNINGS and PRECAUTIONS - Pediatric Use).
+NOTE: CONTAINS BENZYL ALCOHOL (see WARNINGS and PRECAUTIONS, Pediatric Use).
 
 Lorazepam must never be used without individualization of dosage particularly when used with other medications capable of producing central-nervous-system depression.
 
@@ -18,7 +18,7 @@ The use of benzodiazepines, like Lorazepam Injection, is ordinarily only an init
 Because status epilepticus may result from a correctable acute cause such as hypoglycemia, hyponatremia, or other metabolic or toxic derangement, such an abnormality must be immediately sought and corrected.
 Furthermore, patients who are susceptible to further seizure episodes should receive adequate maintenance antiepileptic therapy.
 
-Any health care professional who intends to treat a patient with status epilepticus should be familiar with this package insert and the pertinent medical literature concerning current concepts for the treatment of status epilepticus.
+Any healthcare professional who intends to treat a patient with status epilepticus should be familiar with this package insert and the pertinent medical literature concerning current concepts for the treatment of status epilepticus.
 A comprehensive review of the considerations critical to the informed and prudent management of status epilepticus cannot be provided in drug product labeling.
 The archival medical literature contains many informative references on the management of status epilepticus, among them the report of the working group on status epilepticus of the Epilepsy Foundation of America “Treatment of Convulsive Status Epilepticus” (JAMA 1993; 270:854-859).
 As noted in the report just cited, it may be useful to consult with a neurologist if a patient fails to respond (e.g., fails to regain consciousness).
@@ -46,7 +46,7 @@ The safety of lorazepam in pediatric patients has not been established.
 ### INTRAMUSCULAR INJECTION
 
 For the designated indications as a premedicant, the usual recommended dose of lorazepam for intramuscular injection is 0.05 mg/kg up to a maximum of 4 mg.
-As with all premedicant drugs, the dose should be individualized (see also CLINICAL PHARMACOLOGY, WARNINGS, PRECAUTIONS, and ADVERSE REACTIONS).
+As with all premedicant drugs, the dose should be individualized (see CLINICAL PHARMACOLOGY, WARNINGS, PRECAUTIONS, and ADVERSE REACTIONS).
 Doses of other central-nervous-system-depressant drugs ordinarily should be reduced (see PRECAUTIONS).
 For optimum effect, measured as lack of recall, intramuscular lorazepam should be administered at least 2 hours before the anticipated operative procedure.
 Narcotic analgesics should be administered at their usual preoperative time.
@@ -72,7 +72,7 @@ No dosage adjustments are needed in elderly patients and in patients with hepati
 ### PATIENTS WITH RENAL DISEASE
 
 For acute dose administration, adjustment is not needed for patients with renal disease.
-However, in patients with renal disease, caution should be exercised if frequent doses are given over relatively short periods of time (see also CLINICAL PHARMACOLOGY).
+However, in patients with renal disease, caution should be exercised if frequent doses are given over relatively short periods of time (see CLINICAL PHARMACOLOGY).
 
 ### DOSE ADJUSTMENT DUE TO DRUG INTERACTIONS
 
