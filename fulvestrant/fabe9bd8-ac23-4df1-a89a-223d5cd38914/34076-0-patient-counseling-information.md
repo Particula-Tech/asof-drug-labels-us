@@ -1,6 +1,6 @@
 # 17 PATIENT COUNSELING INFORMATION
 
-Advise the patient to read the FDA-approved patient labeling (Patient Information).
+Advise the patient to read the FDA-approved patient labeling (Patient Information)
 
 Monotherapy
 
@@ -23,6 +23,4 @@ When Fulvestrant Injection is used in combination with palbociclib, abemaciclib,
 
 Manufactured for:
 
-Lake Zurich, IL 60047 www.fresenius-kabi.com/us Made in Austria
-
-451542A
+Lake Zurich, IL 60047 www.fresenius-kabi.com/us Made in Austria 451542B

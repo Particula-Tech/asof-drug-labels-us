@@ -1,12 +1,10 @@
 # 14 CLINICAL STUDIES
 
-The efficacy of fulvestrant 500 mg versus fulvestrant 250 mg was compared in CONFIRM.
-The efficacy of fulvestrant 250 mg was compared to 1 mg anastrozole in
-
-Studies 0020 and 0021.
+The efficacy of fulvestrant 500 mg versus fulvestrant 250 mg, both administered intramuscularly, were compared in CONFIRM.
+The efficacy of fulvestrant 250 mg was compared to 1 mg anastrozole in Studies 0020 and 0021.
 The efficacy of fulvestrant 500 mg was compared to 1 mg anastrozole in FALCON.
 The efficacy of fulvestrant 500 mg in combination with palbociclib 125 mg was compared to fulvestrant 500 mg plus placebo in PALOMA-3.
-The efficacy of fulvestrant 500 mg in combination with abemaciclib 150 mg was compared to fulvestrant 500 mg plus placebo in MONARCH 2.
+The efficacy of fulvestrant 500 mg in combination with abemaciclib 150 mg was compared to fulvestrant 500mg plus placebo in MONARCH 2.
 The efficacy of fulvestrant 500 mg in combination with ribociclib 600 mg was compared to fulvestrant 500 mg plus placebo in MONALEESA-3.
 
 Monotherapy
@@ -16,8 +14,8 @@ Comparison of Fulvestrant Injection 500 mg and Fulvestrant Injection 250 mg (CON
 A randomized, double-blind, controlled clinical trial (CONFIRM, NCT00099437) was completed in 736 postmenopausal women with advanced breast cancer who had disease recurrence on or after adjuvant endocrine therapy or progression following endocrine therapy for advanced disease.
 This trial compared the efficacy and safety of fulvestrant 500 mg (n=362) with fulvestrant 250 mg (n=374).
 
-Fulvestrant 500 mg was administered as two 5 mL injections each containing fulvestrant 250 mg/5 mL, one in each buttock, on Days 1, 15, 29, and every 28 (+/- 3) days thereafter.
-Fulvestrant 250 mg was administered as two 5 mL injections (one containing fulvestrant 250 mg/5 mL injection plus one placebo injection), one in each buttock, on Days 1, 15 (2 placebo injections only), 29, and every 28 (+/- 3) days thereafter.
+Fulvestrant 500 mg was administered as two 5 mL injections each containing fulvestrant 250 mg/5mL, one in each buttock, on Days 1, 15, 29 and every 28 (+/- 3) days thereafter.
+Fulvestrant 250 mg was administered as two 5 mL injections (one containing fulvestrant 250 mg/5mL injection plus one placebo injection), one in each buttock, on Days 1, 15 (2 placebo injections only), 29 and every 28 (+/- 3) days thereafter.
 
 The median age of study participants was 61 years.
 All patients had ER+ advanced breast cancer.
@@ -42,7 +40,7 @@ Table 12: Efficacy Results in CONFIRM (Intent-To-Treat (ITT) Population)
 | Median OS (months) | 26.4 | 22.3 |
 | Hazard Ratio2 (95% CI3)6 | 0.81 (0.69-0.96) |  |
 | ORR7 (95% CI3) | 13.8% (9.7%, 18.8%) (33/240) | 14.6% (10.5%, 19.4%) (38/261) |
-| 1. PFS (Progression Free Survival)=the time between randomization and the earliest of progression or death from any cause. Minimum follow-up duration of 18 months. |  |  |
+| 1. PFS (Progression Free Survival) = the time between randomization and the earliest of progression or death from any cause. Minimum follow-up duration of 18 months. |  |  |
 | 2. Hazard Ratio <1 favors fulvestrant 500 mg. |  |  |
 | 3. CI=Confidence Interval |  |  |
 | 4. OS=Overall Survival |  |  |
@@ -57,7 +55,7 @@ Figure 7 Kaplan-Meier OS (Minimum Follow-up Duration of 50 Months): CONFIRM ITT 
 Comparison of Fulvestrant Injection 500 mg and Anastrozole 1 mg (FALCON)
 
 A randomized, double-blind, double-dummy, multi-center study (FALCON, NCT01602380) of fulvestrant 500 mg versus anastrozole 1 mg was conducted in postmenopausal women with ER-positive and/or PgR-positive, HER2-negative locally advanced or metastatic breast cancer who had not previously been treated with any hormonal therapy.
-A total of 462 patients were randomized 1:1 to receive administration of fulvestrant 500 mg as an intramuscular injection on Days 1, 15, 29, and every 28 (+/- 3) days thereafter or daily administration of 1 mg of anastrozole orally.
+A total of 462 patients were randomized 1:1 to receive administration of fulvestrant 500 mg as an intramuscular injection on Days 1, 15, 29 and every 28 (+/- 3) days thereafter or daily administration of 1 mg of anastrozole orally.
 This study compared the efficacy and safety of fulvestrant 500 mg and anastrozole 1 mg.
 
 Randomization was stratified by disease setting (locally advanced or metastatic), use of prior chemotherapy for advanced disease, and presence or absence of measurable disease.
@@ -82,7 +80,7 @@ Table 13: Efficacy Results in FALCON (Investigator Assessment, ITT Population)
 | Median PFS (months) | 16.6 | 13.8 |
 | PFS Hazard Ratio (95% CI) | 0.797 (0.637 - 0.999) |  |
 | p-value | 0.049 |  |
-| Overall Survival 1 |  |  |
+| Overall Survival1 |  |  |
 | Number of OS Events | 67 (29.1%) | 75 (32.3%) |
 | Median OS (months) | NR | NR |
 | OS Hazard Ratio (95% CI) | 0.874 (0.629 – 1.216) |  |
@@ -92,27 +90,23 @@ Table 13: Efficacy Results in FALCON (Investigator Assessment, ITT Population)
 | NR: Not reached |  |  |
 | 1. Interim OS analysis with 61% of total number of events required for the final OS analysis. |  |  |
 
-Figure 8 Kaplan-Meier Plot of Progression-Free Survival
-
-(Investigator Assessment, ITT Population) ─ FALCON
+Figure 8 Kaplan-Meier Plot of Progression-Free Survival (Investigator Assessment, ITT Population) ─ FALCON
 
 Comparison of Fulvestrant Injection 250 mg and Anastrozole 1 mg in Combined Data (Studies 0020 and 0021)
 
-Efficacy of fulvestrant was established by comparison to the selective aromatase inhibitor anastrozole in two randomized, controlled clinical trials (one conducted in North America, Study 0021,
-
-NCT00635713; the other predominantly in Europe, Study 0020) in postmenopausal women with locally advanced or metastatic breast cancer.
+Efficacy of fulvestrant was established by comparison to the selective aromatase inhibitor anastrozole in two randomized, controlled clinical trials (one conducted in North America, Study 0021, NCT00635713; the other predominantly in Europe, Study 0020) in postmenopausal women with locally advanced or metastatic breast cancer.
 All patients had progressed after previous therapy with an antiestrogen or progestin for breast cancer in the adjuvant or advanced disease setting.
 
 The median age of study participants was 64 years.
 81.6% of patients had ER+ and/or PgR+ tumors.
-Patients with ER-/PgR- or unknown tumors were required to have demonstrated a prior response to endocrine therapy.
+Patients with ER- /PgR- or unknown tumors were required to have demonstrated a prior response to endocrine therapy.
 Sites of metastases occurred as follows: visceral only 18.2%; viscera – liver involvement 23.0%; lung involvement 28.1%; bone only 19.7%; soft tissue only 5.2%; skin and soft tissue 18.7%.
 
 In both trials, eligible patients with measurable and/or evaluable disease were randomized to receive either fulvestrant 250 mg intramuscularly once a month (28 days ± 3 days) or anastrozole 1 mg orally once a day.
 All patients were assessed monthly for the first three months and every three months thereafter.
 Study 0021 was a double-blind, randomized trial in 400 postmenopausal women.
 Study 0020 was an open-label, randomized trial conducted in 451 postmenopausal women.
-Patients on the fulvestrant arm of Study 0021 received two separate injections (2 x 2.5 mL), whereas fulvestrant patients received a single injection (1 x 5 mL) in Study 0020.
+Patients on the fulvestrant arm of Study 0021 received two separate injections (2 X 2.5 mL), whereas fulvestrant patients received a single injection (1 X 5 mL) in Study 0020.
 In both trials, patients were initially randomized to a 125 mg per month dose as well, but interim analysis showed a very low response rate, and low dose groups were dropped.
 
 Results of the trials, after a minimum follow-up duration of 14.6 months, are summarized in Table 14.
@@ -124,12 +118,12 @@ Table 14: Efficacy Results in Studies 0020 and 0021 (Objective Response Rate (OR
 
 |  | Study 0021 (Double-Blind) |  | Study 0020 (Open-Label) |  |
 | --- | --- | --- | --- | --- |
-|  | Fulvestrant | Anastrozole | Fulvestrant | Anastrozole |
+| Fulvestrant | Anastrozole | Fulvestrant | Anastrozole |  |
 | Endpoint | 250 mg N=206 | 1 mg N=194 | 250 mg N=222 | 1 mg N=229 |
 | Objective Tumor Response Number (%) of subjects with CR1 + PR2 | 35 (17.0) | 33 (17.0) | 45 (20.3) | 34 (14.9) |
 | % Difference in Tumor Response Rate (FUL3-ANA4) 2–sided 95.4% CI5 | 0.0 (-6.3, 8.9) |  | 5.4 (-1.4, 14.8) |  |
 | Time to Progression (TTP) Median TTP (days) | 165 | 103 | 166 | 156 |
-| Hazard Ratio6 2-sided 95.4% CI | 0.9 (0.7, 1.1) |  | 1.0 (0.8, 1.2) |  |
+| Hazard Ratio 6 2-sided 95.4% CI | 0.9 (0.7, 1.1) |  | 1.0 (0.8, 1.2) |  |
 | Stable Disease for ≥24 weeks (%) | 26.7 | 19.1 | 24.3 | 30.1 |
 | Overall Survival (OS) |  |  |  |  |
 | Died n (%) Median Survival (days) | 152 (73.8%) 844 | 149 (76.8%) 913 | 167 (75.2%) 803 | 173 (75.5%) 736 |
@@ -151,7 +145,7 @@ PALOMA-3 (NCT-1942135) was an international, randomized, double-blind, parallel 
 
 A total of 521 pre/postmenopausal women were randomized 2:1 to fulvestrant plus palbociclib or fulvestrant plus placebo and stratified by documented sensitivity to prior hormonal therapy, menopausal status at study entry (pre/peri versus postmenopausal), and presence of visceral metastases.
 Palbociclib was given orally at a dose of 125 mg daily for 21 consecutive days followed by 7 days off treatment.
-Fulvestrant 500 mg was administered as two 5 mL injections each containing fulvestrant 250 mg/5 mL, one in each buttock, on Days 1, 15, 29, and every 28 (+/- 3) days thereafter.
+Fulvestrant 500 mg was administered as two 5 mL injections each containing fulvestrant 250 mg/5mL, one in each buttock, on Days 1, 15, 29 and every 28 (+/- 3) days thereafter.
 Pre/perimenopausal women were enrolled in the study and received the LHRH agonist goserelin for at least 4 weeks prior to and for the duration of PALOMA-3.
 
 Patients continued to receive assigned treatment until objective disease progression, symptomatic deterioration, unacceptable toxicity, death, or withdrawal of consent, whichever occurred first.
@@ -162,42 +156,29 @@ The majority of patients on study were White (74%), all patients had an ECOG PS 
 All patients had received prior systemic therapy and 75% of patients had received a previous chemotherapy regimen.
 Twenty-five percent of patients had received no prior therapy in the metastatic disease setting, 60% had visceral metastases, and 23% had bone only disease.
 
-The results from the investigator-assessed PFS and final OS data from PALOMA-3 are summarized in Table 15.
-The relevant Kaplan-Meier plots are shown in Figures 9 and 10, respectively.
-Consistent PFS results were observed across patient subgroups of disease site, sensitivity to prior hormonal therapy, and menopausal status.
-After a median follow-up time of 45 months, the final OS results were not statistically significant.
+The results from the investigator-assessed PFS from PALOMA-3 are summarized in Table 15 and Figure 9.
+Consistent results were observed across patient subgroups of disease site, sensitivity to prior hormonal therapy and menopausal status.
+The OS data were not mature at the time of the final PFS analysis (11% of patients had died).
+Patients will continue to be followed for the final analysis.
 
 Table 15: Efficacy Results in PALOMA-3 (Investigator Assessment, ITT Population)
 
-|  | Fulvestrant plus Palbociclib | Fulvestrant plus Placebo |
+|  | Fulvestrant plus Palbociclib N=347 | Fulvestrant plus Placebo N=174 |
 | --- | --- | --- |
-| Progression-Free Survival for ITT | N=347 | N=174 |
+| Progression-Free Survival for ITT |  |  |
 | Number of PFS Events (%) | 145 (41.8%) | 114 (65.5%) |
 | Median PFS (months) (95% CI) | 9.5 (9.2-11.0) | 4.6 (3.5-5.6) |
 | Hazard Ratio (95% CI) and p-value | 0.461 (0.360-0.591) p <0.0001 |  |
 | Objective Response for Patients with Measurable Disease | N=267 | N=138 |
-| Objective response rate1 (%, 95% CI) | 24.6 (19.6-30.2) | 10.9 (6.2-17.3) |
-| Overall Survival for ITT population | N=347 | N=174 |
-| Number of OS events (%) | 201 (57.9) | 109 (62.6) |
-| Median OS (months) (95% CI) | 34.9 (28.8, 40.0) | 28.0 (23.6, 34.6) |
-| Hazard Ratio (95% CI) and p-value | 0.814 (0.644, 1.029), p=0.08572,3 |  |
-| N=number of patients; PFS=progression-free survival; CI=confidence interval; ITT= Intent-to-Treat; OS=overall survival. |  |  |
-| 1. Responses are based on confirmed responses. |  |  |
-| 2. Not statistically significant at the pre-specified 2-sided alpha level of 0.047. |  |  |
-| 3. 2-sided p-value from the log-rank test stratified by the presence of visceral metastases and sensitivity to prior endocrine therapy per randomization. |  |  |
+| Objective response rate1 (%, 95% CI) | 24.6 (19.6 – 30.2) | 10.9 (6.2, 17.3) |
+| N=number of patients, CI=confidence interval; ITT= Intent-to-Treat. |  |  |
+| 1. Response based on confirmed responses. |  |  |
 
-Figure 9 Kaplan-Meier Plot of Progression-Free Survival
-
-(Investigator Assessment, ITT Population) ─ PALOMA-3
-
-Figure 10 Kaplan-Meier Plot of Overall Survival (ITT Population) ─ PALOMA-3
-
-FUL=fulvestrant; PAL=palbociclib; PCB=placebo.
+Figure 9 Kaplan-Meier Plot of Progression-Free Survival (Investigator Assessment, ITT Population) ─ PALOMA-3
 
 Fulvestrant Injection 500 mg in Combination with Abemaciclib 150 mg (MONARCH 2)
 
-MONARCH 2 (NCT02107703) was a randomized, placebo-controlled, multi-center study conducted in women with HR-positive, HER2-negative metastatic breast cancer with disease progression following endocrine therapy treated with fulvestrant plus abemaciclib versus fulvestrant plus placebo.
-
+MONARCH 2 (NCT02107703) was a randomized, placebo-controlled, multicenter study conducted in women with HR-positive, HER2-negative metastatic breast cancer with disease progression following endocrine therapy treated with fulvestrant plus abemaciclib versus fulvestrant plus placebo.
 Randomization was stratified by disease site (visceral, bone only, or other) and by sensitivity to prior endocrine therapy (primary or secondary resistance).
 A total of 669 patients received intramuscular injection of fulvestrant 500 mg on Days 1 and 15 of cycle 1 and then on Day 1 of cycle 2 and beyond (28-day cycles), plus abemaciclib or placebo orally twice daily.
 Pre/perimenopausal women were enrolled in the study and received the gonadotropin-releasing hormone agonist goserelin for at least 4 weeks prior to and for the duration of MONARCH 2.
@@ -209,37 +190,27 @@ Twenty percent (20%) of patients had de novo metastatic disease, 27% had bone on
 Twenty-five percent (25%) of patients had primary endocrine therapy resistance.
 Seventeen percent (17%) of patients were pre- or perimenopausal.
 
-The efficacy results from the MONARCH 2 study are summarized in Table 16, Figure 11, and Figure 12.
-PFS assessment based on a blinded independent radiologic review was consistent with the investigator assessment.
-Consistent results were observed across patient stratification subgroups of disease site and endocrine therapy resistance for PFS and OS.
+The efficacy results from the MONARCH 2 study are summarized in Table 16 and Figure 10.
+Median PFS assessment based on a blinded independent radiologic review was consistent with the investigator assessment.
+Consistent results were observed across patient stratification subgroups of disease site and endocrine therapy resistance.
+At the time of primary analysis of PFS, overall survival data were not mature (20% of patients had died).
 
-Table 16: Efficacy Results in MONARCH 2 (Intent-to-Treat Population)
+Table 16: Efficacy Results in MONARCH 2 (Investigator Assessment, Intent-to-Treat Population)
 
 |  | Fulvestrant plus Abemaciclib | Fulvestrant plus Placebo |
 | --- | --- | --- |
-| Progression-Free Survival (Investigator Assessment) | N=446 | N=223 |
+| Progression-Free Survival | N=446 | N=223 |
 | Number of patients with an event (n, %) | 222 (49.8) | 157 (70.4) |
 | Median (months, 95% CI) | 16.4 (14.4, 19.3) | 9.3 (7.4, 12.7) |
-| Hazard ratio (95% CI)1 | 0.553 (0.449, 0.681) |  |
-| p-value1 | p<0.0001 |  |
-| Overall Survival2 |  |  |
-| Number of deaths (n, %) | 211 (47.3) | 127 (57.0) |
-| Median OS in months (95% CI) | 46.7 (39.2, 52.2) | 37.3 (34.4, 43.2) |
-| Hazard ratio (95% CI)1 | 0.757 (0.606, 0.945) |  |
-| p-value1 | p=0.0137 |  |
+| Hazard ratio (95% CI) | 0.553 (0.449, 0.681) |  |
+| p-value | p<.0001 |  |
 | Objective Response for Patients with Measurable Disease | N=318 | N=164 |
-| Objective response rate3 (n, %) | 153 (48.1) | 35 (21.3) |
+| Objective response rate1 (n, %) | 153 (48.1) | 35 (21.3) |
 | 95% CI | 42.6, 53.6 | 15.1, 27.6 |
-| Abbreviations: CI=confidence interval, OS=overall survival. |  |  |
-| 1.Stratified by disease site (visceral metastases vs. bone-only metastases vs. other) and endocrine therapy resistance (primary resistance vs. secondary resistance) |  |  |
-| 2.Data from a pre-specified interim analysis (77% of the number of events needed for the planned final analysis) with the p-value compared with the allocated alpha of 0.021. |  |  |
-| 3.Complete response + partial response. |  |  |
+| Abbreviations: CI=confidence interval. |  |  |
+| 1. Complete response + partial response. |  |  |
 
-Figure 11 Kaplan-Meier Curves of Progression-Free Survival:
-
-Fulvestrant Injection Plus Abemaciclib versus Fulvestrant Injection plus Placebo (MONARCH 2)
-
-Figure 12 Kaplan-Meier Curves of Overall Survival: Fulvestrant plus Abemaciclib versus Fulvestrant plus Placebo (MONARCH 2)
+Figure 10 Kaplan-Meier Curves of Progression-Free Survival: Fulvestrant Injection Plus Abemaciclib versus Fulvestrant Injection plus Placebo (MONARCH 2)
 
 Postmenopausal women with HR-positive, HER2-negative advanced or metastatic breast cancer for initial endocrine based therapy or after disease progression on endocrine therapy
 
@@ -249,18 +220,18 @@ MONALEESA-3 (NCT 02422615) was a randomized double-blind, placebo-controlled stu
 
 A total of 726 patients were randomized in a 2:1 ratio to receive fulvestrant plus ribociclib or fulvestrant plus placebo and stratified according to the presence of liver and/or lung metastases and prior endocrine therapy for advanced or metastatic disease.
 Fulvestrant 500 mg was administered intramuscularly on Days 1, 15, 29, and once monthly thereafter, with either ribociclib 600 mg or placebo given orally once daily for 21 consecutive days followed by 7 days off until disease progression or unacceptable toxicity.
-The major efficacy outcome measure for the study was investigator-assessed progression-free survival (PFS) using Response Evaluation Criteria in Solid Tumors (RECIST) v1.1.
+The major efficacy outcome measure for the study was investigator-assessed progression-free survival (PFS) using Response Evaluation Criteria in Solid Tumors (RECIST) v.1.1.
 
 Patients enrolled in this study had a median age of 63 years (range 31 to 89).
 Of the patients enrolled, 47% were 65 years and older, including 14% age 75 years and older.
 The patients enrolled were primarily Caucasian (85%), Asian (9%), and Black (0.7%).
 Nearly all patients (99.7%) had an ECOG performance status of 0 or 1.
-First- and second-line patients were enrolled in this study (of which 19% had de novo metastatic disease).
+First and second line patients were enrolled in this study (of which 19% had de novo metastatic disease).
 Forty-three percent (43%) of patients had received chemotherapy in the adjuvant vs. 13% in the neoadjuvant setting and 59% had received endocrine therapy in the adjuvant vs. 1% in the neoadjuvant setting prior to study entry.
-Twenty-one percent (21%) of patients had bone-only disease and 61% had visceral disease.
+Twenty-one percent (21%) of patients had bone only disease and 61% had visceral disease.
 Demographics and baseline disease characteristics were balanced and comparable between study arms.
 
-The efficacy results from MONALEESA-3 are summarized in Table 17 and Figure 13.
+The efficacy results from MONALEESA-3 are summarized in Table 17 and Figure 11.
 Consistent results were observed in stratification factor subgroups of disease site and prior endocrine treatment for advanced disease.
 At the time of the PFS analysis, 17% of patients had died, and overall survival data were immature.
 
@@ -278,4 +249,4 @@ Table 17: Efficacy Results – MONALEESA-3 (Investigator Assessment, Intent-to-T
 | 1. p-value is obtained from the one-sided log-rank |  |  |
 | 2. Based on confirmed responses |  |  |
 
-Figure 13 Kaplan-Meier Progression Free Survival Curves – MONALEESA-3 (Investigator assessment)
+Figure 11 Kaplan-Meier Progression Free Survival Curves – MONALEESA-3 (Investigator assessment)
