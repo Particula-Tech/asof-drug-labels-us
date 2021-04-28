@@ -35,11 +35,11 @@ Although this study showed that both lorazepam and pentobarbital interfered with
 
 ### ABSORPTION
 
-#### Intravenous
+Intravenous
 
 A 4-mg dose provides an initial concentration of approximately 70 ng/mL.
 
-#### Intramuscular
+Intramuscular
 
 Following intramuscular administration, lorazepam is completely and rapidly absorbed reaching peak concentrations within 3 hours.
 A 4-mg dose provides a Cmax of approximately 48 ng/mL.
@@ -62,7 +62,7 @@ Only 0.3% of the dose was recovered as unchanged lorazepam, and the remainder of
 
 ### EFFECT OF AGE
 
-#### Pediatrics
+Pediatrics
 
 #### NEONATES (BIRTH TO 1 MONTH)
 
@@ -83,7 +83,7 @@ Unbound lorazepam clearance normalized to body-weight was comparable in children
 Total (bound and unbound) lorazepam had a 50% higher mean volume of distribution (normalized to body-weight) and a mean half-life that was two fold greater in adolescents with acute lymphocytic leukemia in complete remission (12 to 18 years, n=13) compared to normal adults (n=10).
 Unbound lorazepam clearance normalized to body-weight was comparable in adolescents and adults.
 
-#### Elderly
+Elderly
 
 Following single intravenous doses of 1.5 to 3 mg of Lorazepam Injection, mean total body clearance of lorazepam decreased by 20% in 15 elderly subjects of 60 to 84 years of age compared to that in 15 younger subjects of 19 to 38 years of age.
 Consequently, no dosage adjustment appears to be necessary in elderly subjects based solely on their age.

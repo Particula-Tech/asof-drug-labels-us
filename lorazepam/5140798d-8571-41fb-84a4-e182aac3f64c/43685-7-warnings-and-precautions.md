@@ -1,9 +1,26 @@
 # WARNINGS
 
-## Risks From Concomitant Use with Opioids
+## Risks from Concomitant Use with Opioids
 
 Concomitant use of benzodiazepines, including Lorazepam Injection, and opioids may result in profound sedation, respiratory depression, coma, and death.
 If a decision is made to use Lorazepam Injection concomitantly with opioids, monitor patients closely for respiratory depression and sedation (see PRECAUTIONS, Drug Interactions).
+
+## Abuse, Misuse, and Addiction
+
+The use of benzodiazepines, including Lorazepam Injection, exposes users to the risks of abuse, misuse, and addiction, which can lead to overdose or death.
+Abuse and misuse of benzodiazepines often (but not always) involve the use of doses greater than the maximum recommended dosage and commonly involve concomitant use of other medications, alcohol, and/or illicit substances, which is associated with an increased frequency of serious adverse outcomes, including respiratory depression, overdose, or death (see DRUG ABUSE AND DEPENDENCE, Abuse).
+Before prescribing Lorazepam Injection and throughout treatment, assess each patient’s risk for abuse, misuse, and addiction.
+Use of Lorazepam Injection, particularly in patients at elevated risk, necessitates counseling about the risks and proper use of Lorazepam Injection along with monitoring for signs and symptoms of abuse, misuse, and addiction.
+Do not exceed the recommended dosing frequency; avoid or minimize concomitant use of CNS depressants and other substances associated with abuse, misuse, and addiction (e.g., opioid analgesics, stimulants); and advise patients on the proper disposal of unused drug.
+If a substance use disorder is suspected, evaluate the patient and institute (or refer them for) early treatment, as appropriate.
+
+## Dependence and Withdrawal Reactions After Use of Lorazepam Injection More Frequently Than Recommended
+
+For patients using Lorazepam Injection more frequently than recommended, to reduce the risk of withdrawal reactions, use a gradual taper to discontinue Lorazepam Injection (a patient-specific plan should be used to taper the dose).
+Patients at an increased risk of withdrawal adverse reactions after benzodiazepine discontinuation or rapid dosage reduction include those who take higher dosages, and those who have had longer durations of use.
+ACUTE WITHDRAWAL REACTIONS The continued use of benzodiazepines may lead to clinically significant physical dependence.
+Although Lorazepam Injection is indicated only for intermittent use (see INDICATIONS AND USAGE and DOSAGE AND ADMINISTRATION), if used more frequently than recommended, abrupt discontinuation or rapid dosage reduction of Lorazepam Injection, or administration of flumazenil (a benzodiazepine antagonist) may precipitate acute withdrawal reactions, which can be life-threatening (e.g., seizures) (see DRUG ABUSE AND DEPENDENCE, Dependence).
+PROTRACTED WITHDRAWAL SYNDROME In some cases, benzodiazepine users have developed a protracted withdrawal syndrome with withdrawal symptoms lasting weeks to more than 12 months (see DRUG ABUSE AND DEPENDENCE, Dependence).
 
 ## Use in Status Epilepticus
 
@@ -48,7 +65,7 @@ As is true of similar CNS-acting drugs, the decision as to when patients who hav
 It is recommended that no patient engage in such activities for a period of 24 to 48 hours or until the effects of the drug, such as drowsiness, have subsided, whichever is longer.
 Impairment of performance may persist for greater intervals because of extremes of age, concomitant use of other drugs, stress of surgery, or the general condition of the patient.
 
-Clinical trials have shown that patients over the age of 50 years may have a more profound and prolonged sedation with intravenous lorazepam (see also DOSAGE AND ADMINISTRATION, Preanesthetic).
+Clinical trials have shown that patients over the age of 50 years may have a more profound and prolonged sedation with intravenous lorazepam (see DOSAGE AND ADMINISTRATION, Preanesthetic).
 
 As with all central-nervous-system-depressant drugs, care should be exercised in patients given injectable lorazepam as premature ambulation may result in injury from falling.
 
@@ -91,7 +108,7 @@ There have been rare reports of deaths, primarily in preterm infants, associated
 The amount of benzyl alcohol from medications is usually considered negligible compared to that received in flush solutions containing benzyl alcohol.
 Administration of high dosages of medications (including lorazepam) containing this preservative must take into account the total amount of benzyl alcohol administered.
 The recommended dosage range of lorazepam for preterm and term infants includes amounts of benzyl alcohol well below that associated with toxicity; however, the amount of benzyl alcohol at which toxicity may occur is not known.
-If the patient requires more than the recommended dosages or other medications containing this preservative, the practitioner must consider the daily metabolic load of benzyl alcohol from these combined sources (see WARNINGS and PRECAUTIONS - Pediatric Use).
+If the patient requires more than the recommended dosages or other medications containing this preservative, the practitioner must consider the daily metabolic load of benzyl alcohol from these combined sources (see WARNINGS and PRECAUTIONS, Pediatric Use).
 
 ## Pediatric Neurotoxicity
 
@@ -132,7 +149,12 @@ Symptoms may be more likely to develop in patients with renal impairment.
 
 ## Information for Patients
 
-Patients should be informed of the pharmacological effects of the drug, including sedation, relief of anxiety, and lack of recall, the duration of these effects (about 8 hours), and be apprised of the risks as well as the benefits of therapy.
+RISKS FROM CONCOMITANT USE WITH OPIOIDS Concomitant use of benzodiazepines, including Lorazepam Injection, and opioids may result in profound sedation, respiratory depression, coma, and death (see WARNINGS and PRECAUTIONS, Drug Interactions).
+ABUSE, MISUSE, AND ADDICTION Inform patients that the use of Lorazepam Injection more frequently than recommended, even at recommended dosages, exposes users to risks of abuse, misuse, and addiction, which can lead to overdose and death, especially when used in combination with other medications (e.g., opioid analgesics), alcohol, and/or illicit substances.
+Inform patients about the signs and symptoms of benzodiazepine abuse, misuse, and addiction; to seek medical help if they develop these signs and/or symptoms; and on the proper disposal of unused drug (see WARNINGS and DRUG ABUSE AND DEPENDENCE).
+WITHDRAWAL REACTIONS Inform patients that use of Lorazepam Injection more frequently than recommended may lead to clinically significant physical dependence and that abrupt discontinuation or rapid dosage reduction of Lorazepam Injection may precipitate acute withdrawal reactions, which can be life-threatening.
+Inform patients that in some cases, patients taking benzodiazepines have developed a protracted withdrawal syndrome with withdrawal symptoms lasting weeks to more than 12 months (see WARNINGS and DRUG ABUSE AND DEPENDENCE).
+EXCESSIVE SEDATION Patients should be informed of the pharmacological effects of the drug, including sedation, relief of anxiety, and lack of recall, the duration of these effects (about 8 hours), and be apprised of the risks as well as the benefits of therapy.
 
 Patients who receive Lorazepam Injection as a premedicant should be cautioned that driving a motor vehicle, operating machinery, or engaging in hazardous or other activities requiring attention and coordination, should be delayed for 24 to 48 hours following the injection or until the effects of the drug, such as drowsiness, have subsided, whichever is longer.
 Sedatives, tranquilizers and narcotic analgesics may produce a more prolonged and profound effect when administered along with injectable lorazepam.
@@ -143,10 +165,8 @@ Since tolerance for CNS depressants will be diminished in the presence of Loraze
 Alcoholic beverages should not be consumed for at least 24 to 48 hours after receiving lorazepam injectable due to the additive effects on central-nervous-system depression seen with benzodiazepines in general.
 Elderly patients should be told that Lorazepam Injection may make them very sleepy for a period longer than 6 to 8 hours following surgery.
 
-EFFECT OF ANESTHETIC AND SEDATION DRUGS ON EARLY BRAIN DEVELOPMENT
-
-Studies conducted in young animals and children suggest repeated or prolonged use of general anesthetic or sedation drugs in children younger than 3 years may have negative effects on their developing brains.
-Discuss with parents and caregivers the benefits, risks, and timing and duration of surgery or procedures requiring anesthetic and sedation drugs (see WARNINGS/Pediatric Neurotoxicity).
+EFFECT OF ANESTHETIC AND SEDATION DRUGS ON EARLY BRAIN DEVELOPMENT Studies conducted in young animals and children suggest repeated or prolonged use of general anesthetic or sedation drugs in children younger than 3 years may have negative effects on their developing brains.
+Discuss with parents and caregivers the benefits, risks, and timing and duration of surgery or procedures requiring anesthetic and sedation drugs (see WARNINGS, Pediatric Neurotoxicity).
 
 ## Laboratory Tests
 
@@ -182,18 +202,18 @@ No change in lorazepam dosage is necessary when concomitantly given with any of 
 
 Concurrent administration of lorazepam (2 mg intravenously) with valproate (250 mg twice daily orally for 3 days) to 6 healthy male subjects resulted in decreased total clearance of lorazepam by 40% and decreased formation rate of lorazepam glucuronide by 55%, as compared with lorazepam administered alone.
 Accordingly, lorazepam plasma concentrations were about two-fold higher for at least 12 hours post-dose administration during valproate treatment.
-Lorazepam dosage should be reduced to 50% of the normal adult dose when this drug combination is prescribed in patients (see also DOSAGE AND ADMINISTRATION).
+Lorazepam dosage should be reduced to 50% of the normal adult dose when this drug combination is prescribed in patients (see DOSAGE AND ADMINISTRATION).
 
 ### LORAZEPAM-ORAL CONTRACEPTIVE STEROIDS INTERACTION
 
 Coadministration of lorazepam (2 mg intravenously) with oral contraceptive steroids (norethindrone acetate, 1 mg, and ethinyl estradiol, 50 μg, for at least 6 months) to healthy females (n=7) was associated with a 55% decrease in half-life, a 50% increase in the volume of distribution, thereby resulting in an almost 3.7-fold increase in total clearance of lorazepam as compared with control healthy females (n=8).
-It may be necessary to increase the dose of lorazepam in female patients who are concomitantly taking oral contraceptives (see also DOSAGE AND ADMINISTRATION).
+It may be necessary to increase the dose of lorazepam in female patients who are concomitantly taking oral contraceptives (see DOSAGE AND ADMINISTRATION).
 
 ### LORAZEPAM-PROBENECID INTERACTION
 
 Concurrent administration of lorazepam (2 mg intravenously) with probenecid (500 mg orally every 6 hours) to 9 healthy volunteers resulted in a prolongation of lorazepam half-life by 130% and a decrease in its total clearance by 45%.
 No change in volume of distribution was noted during probenecid co-treatment.
-Lorazepam dosage needs to be reduced by 50% when coadministered with probenecid (see also DOSAGE AND ADMINISTRATION).
+Lorazepam dosage needs to be reduced by 50% when coadministered with probenecid (see DOSAGE AND ADMINISTRATION).
 
 ## Drug/Laboratory Test Interactions
 
@@ -207,7 +227,7 @@ The results of a preimplantation study in rats, in which the oral lorazepam dose
 
 ## Pregnancy
 
-Teratogenic Effects—Pregnancy Category D (see WARNINGS).
+Teratogenic Effects (see WARNINGS).
 
 Published studies in pregnant primates demonstrate that the administration of anesthetic and sedation drugs that block NMDA receptors and/or potentiate GABA activity during the period of peak brain development increases neuronal apoptosis in the developing brain of the offspring when used for longer than 3 hours.
 There are no data on pregnancy exposures in primates corresponding to periods prior to the third trimester in humans.
@@ -215,7 +235,7 @@ There are no data on pregnancy exposures in primates corresponding to periods pr
 In a published study in primates, administration of an anesthetic dose of ketamine for 24 hours on Gestation Day 122 increased neuronal apoptosis in the developing brain of the fetus.
 In other published studies, administration of either isoflurane or propofol for 5 hours on Gestation Day 120 resulted in increased neuronal and oligodendrocyte apoptosis in the developing brain of the offspring.
 With respect to brain development, this time period corresponds to the third trimester of gestation in the human.
-The clinical significance of these findings is not clear; however, studies in juvenile animals suggest neuroapoptosis correlates with long-term cognitive deficits (see WARNINGS/Pediatric Neurotoxicity, Pediatric Use, and ANIMAL TOXICOLOGY AND/OR PHARMACOLOGY).
+The clinical significance of these findings is not clear; however, studies in juvenile animals suggest neuroapoptosis correlates with long-term cognitive deficits (see WARNINGS, Pediatric Neurotoxicity, Pediatric Use, and ANIMAL TOXICOLOGY AND/OR PHARMACOLOGY).
 
 ## Labor and Delivery
 
@@ -259,7 +279,7 @@ There are insufficient data to support the efficacy of injectable lorazepam as a
 
 Seizure activity and myoclonus have been reported to occur following administration of Lorazepam Injection, especially in very low birth weight neonates.
 
-Pediatric patients may exhibit a sensitivity to benzyl alcohol, polyethylene glycol and propylene glycol, components of Lorazepam Injection (see also CONTRAINDICATIONS).
+Pediatric patients may exhibit a sensitivity to benzyl alcohol, polyethylene glycol and propylene glycol, components of Lorazepam Injection (see CONTRAINDICATIONS).
 The “gasping syndrome”, characterized by central nervous system depression, metabolic acidosis, gasping respirations, and high levels of benzyl alcohol and its metabolites found in the blood and urine, has been associated with the administration of intravenous solutions containing the preservative benzyl alcohol in neonates.
 Additional symptoms may include gradual neurological deterioration, seizures, intracranial hemorrhage, hematologic abnormalities, skin breakdown, hepatic and renal failure, hypotension, bradycardia, and cardiovascular collapse.
 Central nervous system toxicity, including seizures and intraventricular hemorrhage, as well as unresponsiveness, tachypnea, tachycardia, and diaphoresis have been associated with propylene glycol toxicity.
@@ -270,11 +290,11 @@ Based on comparisons across species, the window of vulnerability to these change
 
 In primates, exposure to 3 hours of ketamine that produced a light surgical plane of anesthesia did not increase neuronal cell loss, however, treatment regimens of 5 hours or longer of isoflurane increased neuronal cell loss.
 Data from isoflurane-treated rodents and ketamine-treated primates suggest that the neuronal and oligodendrocyte cell losses are associated with prolonged cognitive deficits in learning and memory.
-The clinical significance of these nonclinical findings is not known, and healthcare providers should balance the benefits of appropriate anesthesia in pregnant women, neonates and young children who require procedures with the potential risks suggested by the nonclinical data (See WARNINGS, Pediatric Neurotoxicity; PRECAUTIONS, Pregnancy; ANIMAL TOXICOLOGY AND/OR PHARMACOLOGY).
+The clinical significance of these nonclinical findings is not known, and healthcare providers should balance the benefits of appropriate anesthesia in pregnant women, neonates and young children who require procedures with the potential risks suggested by the nonclinical data (see WARNINGS, Pediatric Neurotoxicity; PRECAUTIONS, Pregnancy; ANIMAL TOXICOLOGY AND/OR PHARMACOLOGY).
 
 ## Geriatric Use
 
-Clinical studies of lorazepam generally were not adequate to determine whether subjects aged 65 and over respond differently than younger subjects; however, age over 65 may be associated with a greater incidence of central nervous system depression and more respiratory depression (see WARNINGS–Preanesthetic Use, PRECAUTIONS–General and ADVERSE REACTIONS–Preanesthetic).
+Clinical studies of lorazepam generally were not adequate to determine whether subjects aged 65 and over respond differently than younger subjects; however, age over 65 may be associated with a greater incidence of central nervous system depression and more respiratory depression (see WARNINGS, Preanesthetic Use, PRECAUTIONS, General and ADVERSE REACTIONS, Preanesthetic).
 
 Age does not appear to have a clinically significant effect on lorazepam kinetics (see CLINICAL PHARMACOLOGY).
 

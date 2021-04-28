@@ -23,6 +23,6 @@ Manufactured for: Civica, Inc., Lehi, Utah 84043
 
 Manufactured by: Hikma Pharmaceuticals USA Inc. Cherry Hill, NJ 08003
 
-Revised July 2020
+Revised February 2021
 
-462-879-00
+462-879-01
