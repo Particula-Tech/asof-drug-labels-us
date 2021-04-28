@@ -48,7 +48,7 @@ Safety and effectiveness in pediatric patients below the age of 2 years have not
 Juvenile Animal Toxicity Data
 
 In a study in which juvenile rats received intramuscular injections of Xeomin (0, 5, 10, or 30 Units/kg) every other week from postnatal day 21 for 10 weeks, decreased limb use, decreased body weight gain, skeletal muscle atrophy, and decreased bone growth and density were observed at all doses.
-Delayed female sexual maturation and male reproductive organ histopathology (atrophy of the germinal epithelium of the testis, associated with hypospermia) were observed at the mid and high doses, and mating behavior was impaired at the high dose.
+Male reproductive organ histopathology (atrophy of the germinal epithelium of the testis, associated with hypospermia) was observed at the mid and high doses, and mating behavior was impaired at the high dose.
 A no-effect dose for adverse effects on development in juvenile animals was not established.
 The lowest dose tested (5 Units/kg) is less than the human dose of 400 Units on a body weight (kg) basis.
 
