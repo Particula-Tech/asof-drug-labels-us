@@ -4,11 +4,7 @@ NDC 24208-443-35
 
 BAUSCH + LOMB
 
-Lotemax®
-
-loteprednol etabonate
-
-ophthalmic ointment 0.5%
+Lotemax® loteprednol etabonate ophthalmic ointment 0.5%
 
 FOR OPHTHALMIC USE ONLY
 

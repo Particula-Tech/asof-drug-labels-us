@@ -3,7 +3,8 @@
 ## 5.1 Intraocular Pressure (IOP) Increase
 
 Prolonged use of corticosteroids may result in glaucoma with damage to the optic nerve, defects in visual acuity and fields of vision.
-Steroids should be used with caution in the presence of glaucoma.If this product is used for 10 days or longer, IOP should be monitoredeven though it may be difficult in children and uncooperative patients.
+Steroids should be used with caution in the presence of glaucoma.
+If this product is used for 10 days or longer, IOP should be monitored even though it may be difficult in children and uncooperative patients.
 
 ## 5.2 Cataracts
 
