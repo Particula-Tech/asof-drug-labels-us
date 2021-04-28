@@ -133,27 +133,29 @@ Figure 4: Muscles Injected for Pediatric Upper Limb Spasticity
 
 ## 2.4 Cervical Dystonia
 
-The recommended initial total dose of XEOMIN for cervical dystonia is 120 Units.
+The recommended initial dose of XEOMIN for cervical dystonia is 120 Units.
 In a placebo-controlled trial utilizing initial XEOMIN doses of 120 Units and 240 Units, no meaningful difference in effectiveness was demonstrated between the doses [see Clinical Studies (14.3)].
 In previously treated patients, their past dose, response to treatment, duration of effect, and adverse event history should be taken into consideration when determining the XEOMIN dose.
 
-In the treatment of cervical dystonia, XEOMIN is usually injected into the sternocleidomastoid, levator scapulae, splenius capitis, scalenus, and/or the trapezius muscle(s).
+In the treatment of cervical dystonia, XEOMIN is usually injected into the sternocleidomastoid, levator scapulae, splenius capitis, scalenus, and/or the trapezius muscle(s) (see Figure 5).
 This list is not exhaustive, as any of the muscles responsible for controlling head position may require treatment [see Clinical Studies (14.3)].
 The dose and number of injection sites in each treated muscle should be individualized based on the number and location of the muscle(s) to be treated, the degree of spasticity/dystonia, muscle mass, body weight, and response to any previous botulinum toxin injections.
 
 The frequency of XEOMIN repeat treatments should be determined by clinical response, but should generally be no more frequent than every 12 weeks [see Clinical Studies (14.3)].
 
+Figure 5: Muscles Involved in Cervical Dsytonia
+
 ## 2.5 Blepharospasm
 
-In treatment-naïve patients, the recommended initial total dose of XEOMIN is 50 Units (25 Units per eye).
+In treatment-naïve patients, the recommended initial dose of XEOMIN is 50 Units (25 Units per eye).
 In patients previously treated with a botulinum toxin A, their past dose, response to treatment, duration of effect, and adverse event history should be taken into consideration when determining the XEOMIN dose.
 
 The total dose of XEOMIN should not exceed 100 Units per treatment session (50 Units per eye).
 
-XEOMIN is injected into the lateral and medial orbicularis oculi muscle of the upper lid; lateral canthus and the lateral orbicularis oculi muscle of the lower lid; and the corrugator muscle, if necessary (see Figure 5).
+XEOMIN is injected into the lateral and medial orbicularis oculi muscle of the upper lid; lateral canthus and the lateral orbicularis oculi muscle of the lower lid; and the corrugator muscle, if necessary (see Figure 6).
 The number and location of injections may be changed in response to adverse reactions or based on the patient's response to treatment, but the total dose should not exceed 50 Units per eye.
 
-Figure 5: Injection Sites for Blepharospasm
+Figure 6: Injection Sites for Blepharospasm
 
 The frequency of XEOMIN repeat treatments should be determined by clinical response but should generally be no more frequent than every 12 weeks [see Clinical Studies (14.4)].
 
@@ -164,7 +166,7 @@ The five injection sites are: two injections in each corrugator muscle and one i
 
 Retreatment with XEOMIN should be administered no more frequently than every three months.
 
-Figure 6: Injection Sites for Glabellar Lines
+Figure 7: Injection Sites for Glabellar Lines
 
 ## 2.7 Preparation and Reconstitution Technique
 
