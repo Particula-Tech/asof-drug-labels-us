@@ -19,6 +19,7 @@ In Phase 1 studies and Phase 2 clinical trials in adults, CPK elevations appeare
 Therefore, CUBICIN RF should not be dosed more frequently than once a day.
 
 CUBICIN RF should be discontinued in patients with unexplained signs and symptoms of myopathy in conjunction with CPK elevations to levels >1,000 U/L (~5× ULN), and in patients without reported symptoms who have marked elevations in CPK, with levels >2,000 U/L (≥10× ULN).
+
 In addition, consideration should be given to suspending agents associated with rhabdomyolysis, such as HMG-CoA reductase inhibitors, temporarily in patients receiving CUBICIN RF [see Drug Interactions (7.1)].
 
 ## 5.3 Eosinophilic Pneumonia

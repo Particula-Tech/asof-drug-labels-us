@@ -8,6 +8,6 @@ The trademarks depicted herein are owned by their respective companies.
 
 PREMIERProRx® is a registered trademark of Premier Healthcare Alliance, L.P., used under license.
 
-Copyright © 2016-2020 Merck Sharp & Dohme Corp., a subsidiary of Merck & Co., Inc. All rights reserved.
+Copyright © 2016-2021 Merck Sharp & Dohme Corp., a subsidiary of Merck & Co., Inc. All rights reserved.
 
-uspi-mk3009-rf-2008r007-plprem
+uspi-mk3009-rf-2103r008-plprem
