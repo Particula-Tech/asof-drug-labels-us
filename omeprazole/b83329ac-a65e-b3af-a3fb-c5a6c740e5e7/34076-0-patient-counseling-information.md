@@ -27,6 +27,8 @@ Omeprazole Delayed-Release Capsules
 - Swallow omeprazole delayed-release capsules whole; do not chew.
 - For patients unable to swallow an intact capsule, omeprazole delayed-release capsules can be opened and administered in applesauce, as described in the Medication Guide.
 
+Dispense with Medication Guide available at www1.apotex.com/products/us
+
 APOTEX INC. OMEPRAZOLE DELAYED-RELEASE CAPSULES, USP 10 mg, 20 mg and 40 mg
 
 | Manufactured by | Manufactured for |
@@ -35,6 +37,6 @@ APOTEX INC. OMEPRAZOLE DELAYED-RELEASE CAPSULES, USP 10 mg, 20 mg and 40 mg
 | Toronto, Ontario | Weston, Florida |
 | Canada M9L 1T9 | USA 33326 |
 
-Revised: November 2020
+Revised: April 2021
 
-Revision: 26
+Revision: 27
