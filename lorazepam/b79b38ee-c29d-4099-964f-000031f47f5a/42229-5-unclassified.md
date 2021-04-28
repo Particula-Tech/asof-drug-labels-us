@@ -13,24 +13,18 @@ Based on comparisons across species, the window of vulnerability to these change
 
 In primates, exposure to 3 hours of an anesthetic regimen that produced a light surgical plane of anesthesia did not increase neuronal cell loss, however, treatment regimens of 5 hours or longer increased neuronal cell loss.
 Data in rodents and in primates suggest that the neuronal and oligodendrocyte cell losses are associated with subtle but prolonged cognitive deficits in learning and memory.
-The clinical significance of these nonclinical findings is not known, and healthcare providers should balance the benefits of appropriate anesthesia in neonates and young children who require procedures against the potential risks suggested by the nonclinical data (See WARNINGS, Pediatric Neurotoxicity; PRECAUTIONS, Pregnancy, Pediatric Use).
+The clinical significance of these nonclinical findings is not known, and healthcare providers should balance the benefits of appropriate anesthesia in neonates and young children who require procedures against the potential risks suggested by the nonclinical data (see WARNINGS, Pediatric Neurotoxicity; PRECAUTIONS, Pregnancy, Pediatric Use).
 
-To report SUSPECTED ADVERSE REACTIONS, contact West-Ward Pharmaceuticals Corp. at 1-877-845-0689, or the FDA at 1-800-FDA-1088 or www.fda.gov/medwatch.
+To report SUSPECTED ADVERSE REACTIONS, contact Hikma Pharmaceuticals USA Inc. at 1-877-845-0689, or the FDA at 1-800-FDA-1088 or www.fda.gov/medwatch.
 
 For Product Inquiry call 1-877-845-0689.
 
 PREMIERProRx®
 
-Manufactured by:
-
-WEST-WARD
-
-A HIKMA COMPANY
-
-Eatontown, NJ 07724 USA
+Manufactured by: Hikma Pharmaceuticals USA Inc. Berkeley Heights, NJ 07922
 
 PREMIERProRx® is a registered trademark of Premier Healthcare Alliance, L.P., used under license.
 
-Issued June 2017
+Revised February 2021
 
-462-751-00
+462-751-01
