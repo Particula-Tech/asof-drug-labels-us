@@ -34,11 +34,10 @@ Female Fertility
 
 Advise females of reproductive potential who desire pregnancy that NSAIDs, including DICLOFENAC EPOLAMINE TOPICAL SYSTEM 1.3%, may delay or prevent rupture of ovarian follicles, which has been associated with reversible infertility in some women [see Use in Specific Populations (8.3)]
 
-Fetal Toxicity
+Premature Closure of the Fetal Ductus Arteriosus
 
-Inform pregnant women to avoid use of DICLOFENAC EPOLAMINE TOPICAL SYSTEM 1.3% and other NSAIDs starting at 30 weeks of gestation because of the risk of the premature closure of the fetal ductus arteriosus.
-If treatment with DICLOFENAC EPOLAMINE TOPICAL SYSTEM 1.3% is needed for a pregnant woman between about 20 to 30 weeks gestation, advise her that she may need to be monitored for oligohydramnios, if treatment continues for longer than 48 hours.
-[see Warnings and Precautions (5.10) and Use in Specific Populations (8.1)].
+Advise pregnant women to avoid use of DICLOFENAC EPOLAMINE TOPICAL SYSTEM 1.3% and other NSAIDs starting at 30 weeks of gestation because of the risk of the premature closure of the fetal ductus arteriosus.
+Advise females of reproductive potential to contact their healthcare provider with a known or suspected pregnancy [see Warnings and Precautions (5.10) and Use in Specific Populations (8.1)].
 
 Avoid Concomitant Use of NSAIDs
 
