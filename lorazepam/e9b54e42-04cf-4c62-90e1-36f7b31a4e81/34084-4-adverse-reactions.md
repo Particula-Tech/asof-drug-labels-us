@@ -21,7 +21,7 @@ An inspection of these frequencies, however, does provide the prescribing physic
 Table 1 lists the treatment-emergent adverse events that occurred in the patients treated with Lorazepam Injection in a dose-comparison trial of lorazepam 1 mg, 2 mg, and 4 mg.
 
 TABLE 1.
-NUMBER (%) OF STUDY EVENTS IN A DOSE COMPARISON CLINICL TRIAL
+NUMBER (%) OF STUDY EVENTS IN A DOSE COMPARISON CLINICAL TRIAL
 
 | Body System Event |  | Lorazepam Injection (n=130)One hundred and thirty (130) patients received Lorazepam Injection. |
 | --- | --- | --- |
@@ -153,7 +153,7 @@ Hypertension (0.1%) and hypotension (0.1%) have occasionally been observed after
 
 Five patients (5/446) who underwent regional anesthesia were observed to have airway obstruction.
 This was believed due to excessive sleepiness at the time of the procedure and resulted in temporary hypoventilation.
-In this instance, appropriate airway management may become necessary (see also CLINICAL PHARMACOLOGY, WARNINGS and PRECAUTIONS).
+In this instance, appropriate airway management may become necessary (see CLINICAL PHARMACOLOGY, WARNINGS, and PRECAUTIONS).
 
 ### OTHER ADVERSE EXPERIENCES
 
