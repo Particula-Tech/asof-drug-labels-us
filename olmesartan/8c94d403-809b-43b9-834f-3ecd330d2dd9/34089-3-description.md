@@ -8,3 +8,4 @@ Its molecular formula is C29H30N6O6 and its structural formula is:
 Olmesartan medoxomil USP is a white to off-white, crystalline powder with a molecular weight of 558.59.
 It is practically insoluble in water and sparingly soluble in methanol.
 Olmesartan medoxomil is available for oral use as film-coated tablets containing 5 mg, 20 mg, or 40 mg of olmesartan medoxomil USP and the following inactive ingredients: hydroxypropyl cellulose, hypromellose, lactose monohydrate, low-substituted hydroxypropyl cellulose, magnesium stearate, microcrystalline cellulose, talc and titanium dioxide.
+FDA approved dissolution test specifications differ from USP.
