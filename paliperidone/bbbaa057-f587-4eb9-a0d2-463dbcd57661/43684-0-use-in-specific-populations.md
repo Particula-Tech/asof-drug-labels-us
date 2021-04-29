@@ -5,18 +5,20 @@
 Pregnancy Exposure Registry
 
 There is a pregnancy exposure registry that monitors pregnancy outcomes in women exposed to atypical antipsychotics, including paliperidone, during pregnancy.
-Healthcare providers are encouraged to register patients by contacting the National Pregnancy Registry for Atypical Antipsychotics at 1-866-961-2388 or online at http://womensmentalhealth.org/clinical-and-research-programs/pregnancyregistry/.
+Healthcare providers are encouraged to register patients by contacting the National Pregnancy Registry for Atypical Antipsychotics at 1-866-961-2388 or online athttp://womensmentalhealth.org/clinical-and-research-programs/pregnancyregistry/.
 
 Risk Summary
 
-Neonates exposed to antipsychotic drugs during the third trimester of pregnancy are at risk for extrapyramidal and/or withdrawal symptoms following delivery (see CLINICAL CONSIDERATIONS).
-Overall, available data from published epidemiologic studies of pregnant women exposed to paliperidone have not established a drug-associated risk of major birth defects, miscarriage, or adverse maternal or fetal outcomes (see DATA).
-There are risks to the mother associated with untreated schizophrenia and with exposure to antipsychotics, including paliperidone, during pregnancy (see CLINICAL CONSIDERATIONS).The estimated background risk of major birth defects and miscarriage for the indicated population is unknown.
+Neonates exposed to antipsychotic drugs during the third trimester of pregnancy are at risk for extrapyramidal and/or withdrawal symptoms following delivery (see Clinical Considerations).
+Overall, available data from published epidemiologic studies of pregnant women exposed to paliperidone have not established a drug-associated risk of major birth defects, miscarriage, or adverse maternal or fetal outcomes (see Data).
+There are risks to the mother associated with untreated schizophrenia and with exposure to antipsychotics, including paliperidone, during pregnancy (see Clinical Considerations).
+
+The estimated background risk of major birth defects and miscarriage for the indicated population is unknown.
 All pregnancies have a background risk of birth defects, loss, or other adverse outcomes.
 In the U.S. general population, the estimated background risk of major birth defects and miscarriage in clinically recognized pregnancies is 2–4% and 15–20%, respectively.
 
 In animal reproduction studies, there were no increases in fetal abnormalities when pregnant rats and rabbits were treated with paliperidone during the period of organogenesis with up to 8 times the maximum recommended human dose (MRHD) based on mg/m2 body surface area.
-Additional reproduction toxicity studies were conducted with orally administered risperidone, which is extensively converted to paliperidone (see ANIMAL DATA).
+Additional reproduction toxicity studies were conducted with orally administered risperidone, which is extensively converted to paliperidone (see Animal Data).
 
 Clinical Considerations
 
@@ -39,8 +41,8 @@ Human Data
 
 Published data from observational studies, birth registries, and case reports on the use of atypical antipsychotics during pregnancy do not report a clear association with antipsychotics and major birth defects.
 A prospective observational study including 6 women treated with risperidone, the parent compound of paliperidone, demonstrated placental passage of risperidone and paliperidone.
-A retrospective cohort study from a Medicaid database of 9258 women exposed to antipsychotics during pregnancy did not indicate an overall increased risk for major birth defects.
-There was a small increase in the risk of major birth defects (RR= 1.26, 95% CI 1.02–1.56) and of cardiac malformations (RR=1.26, 95% CI 0.88–1.81) in a subgroup of 1566 women exposed to the parent compound of paliperidone, risperidone, during the first trimester of pregnancy; however, there is no mechanism of action to explain the difference in malformation rates.
+A retrospective cohort study from a Medicaid database of 9,258 women exposed to antipsychotics during pregnancy did not indicate an overall increased risk for major birth defects.
+There was a small increase in the risk of major birth defects (RR= 1.26, 95% CI 1.02–1.56) and of cardiac malformations (RR=1.26, 95% CI 0.88–1.81) in a subgroup of 1,566 women exposed to the parent compound of paliperidone, risperidone, during the first trimester of pregnancy; however, there is no mechanism of action to explain the difference in malformation rates.
 
 Animal Data
 
@@ -59,7 +61,7 @@ In rat reproduction studies with risperidone, pup deaths occurred at oral doses 
 Risk Summary
 
 Limited data from published literature report the presence of paliperidone in human breast milk.
-There is no information on the effects on the breastfed infant, or the effects on milk production; however, there are reports of sedation, failure to thrive, jitteriness, and extrapyramidal symptoms (tremors and abnormal muscle movements) in breastfed infants exposed to paliperidone's parent compound, risperidone (see CLINICAL CONSIDERATIONS).
+There is no information on the effects on the breastfed infant, or the effects on milk production; however, there are reports of sedation, failure to thrive, jitteriness, and extrapyramidal symptoms (tremors and abnormal muscle movements) in breastfed infants exposed to paliperidone's parent compound, risperidone (see Clinical Considerations).
 The developmental and health benefits of breastfeeding should be considered along with the mother's clinical need for paliperidone and any potential adverse effects on the breastfed child from paliperidone or from the mother's underlying condition.
 
 Clinical Considerations
@@ -72,7 +74,7 @@ Infertility
 
 Females
 
-Based on the pharmacologic action of paliperidone (D2 receptor antagonism), treatment with paliperidone may result in an increase in serum prolactin levels, which may lead to a reversible reduction in fertility in females of reproductive potential[see WARNINGS AND PRECAUTIONS (5.7)].
+Based on the pharmacologic action of paliperidone (D2 receptor antagonism), treatment with paliperidone may result in an increase in serum prolactin levels, which may lead to a reversible reduction in fertility in females of reproductive potential [see Warnings and Precautions (5.7)].
 
 ## 8.4 Pediatric Use
 
@@ -80,6 +82,8 @@ Safety and effectiveness of paliperidone in the treatment of schizophrenia were 
 
 Safety and effectiveness of paliperidone for the treatment of schizophrenia in patients < 12 years of age have not been established.
 Safety and effectiveness of paliperidone for the treatment of schizoaffective disorder in patients< 18 years of age have not been studied.
+
+Juvenile Animal Studies
 
 In a study in which juvenile rats were treated with oral paliperidone from days 24 to 73 of age, a reversible impairment of performance in a test of learning and memory was seen, in females only, with a no-effect dose of 0.63 mg/kg/day, which produced plasma levels (AUC) of paliperidone similar to those in adolescents.
 No other consistent effects on neurobehavioral or reproductive development were seen up to the highest dose tested (2.5 mg/kg/day), which produced plasma levels of paliperidone 2-3 times those in adolescents.
@@ -98,7 +102,7 @@ In this study, subjects received flexible doses of paliperidone (3 mg to 12 mg o
 In addition, a small number of subjects 65 years of age and older were included in the 6-week placebo-controlled studies in which adult schizophrenic subjects received fixed doses of paliperidone (3 mg to 15 mg once daily) [see Clinical Studies (14)].
 There were no subjects ≥ 65 years of age in the schizoaffective disorder studies.
 
-Overall, of the total number of subjects in schizophrenia clinical studies of paliperidone (n = 1796), including those who received paliperidone or placebo, 125 (7.0%) were 65 years of age and older and 22 (1.2%) were 75 years of age and older.
+Overall, of the total number of subjects in schizophrenia clinical studies of paliperidone (n = 1,796), including those who received paliperidone or placebo, 125 (7.0%) were 65 years of age and older and 22 (1.2%) were 75 years of age and older.
 No overall differences in safety or effectiveness were observed between these subjects and younger subjects, and other reported clinical experience has not identified differences in response between the elderly and younger patients, but greater sensitivity of some older individuals cannot be ruled out.
 
 This drug is known to be substantially excreted by the kidney and clearance is decreased in patients with moderate to severe renal impairment [see Clinical Pharmacology (12.3)], who should be given reduced doses.
@@ -112,3 +116,8 @@ Dosing must be individualized according to the patient’s renal function status
 
 No dosage adjustment is required in patients with mild to moderate hepatic impairment.
 Paliperidone has not been studied in patients with severe hepatic impairment.
+
+## 8.8 Patients with Parkinson’s Disease or Lewy Body Dementia
+
+Patients with Parkinson’s Disease or Dementia with Lewy Bodies can experience increased sensitivity to paliperidone.
+Manifestations can include confusion, obtundation, postural instability with frequent falls, extrapyramidal symptoms, and clinical features consistent with neuroleptic malignant syndrome.

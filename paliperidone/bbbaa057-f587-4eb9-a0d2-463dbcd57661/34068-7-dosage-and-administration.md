@@ -45,7 +45,7 @@ Tablets should not be chewed, divided, or crushed.
 ## 2.4 Use with Risperidone
 
 Concomitant use of paliperidone with risperidone has not been studied.
-Since paliperidone is the major active metabolite of risperidone, consideration should be given to the additive paliperidone exposure if risperidone is coadministered with paliperidone.
+Since paliperidone is the major active metabolite of risperidone, consideration should be given to the additive paliperidone exposure if risperidone is co-administered with paliperidone.
 
 ## 2.5 Dosage in Special Populations
 

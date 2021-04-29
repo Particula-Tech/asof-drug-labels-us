@@ -16,4 +16,5 @@ Storage and Handling
 Store at 20º to 25ºC (68º to 77ºF) [see USP Controlled Room Temperature].
 Protect from moisture.
 Dispense in a tight container.
+
 Keep out of reach of children.

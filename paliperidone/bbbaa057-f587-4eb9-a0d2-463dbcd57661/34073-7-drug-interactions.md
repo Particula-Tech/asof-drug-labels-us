@@ -17,7 +17,7 @@ No in vivo data are available and the clinical relevance is unknown.
 
 Pharmacokinetic interaction between lithium and paliperidone is unlikely.
 
-In a drug interaction study, co-administration of paliperidone (12 mg once daily for 5 days) with divalproex sodium extended-release tablets (500 mg to 2000 mg once daily) did not affect the steady-state pharmacokinetics (AUC24h and Cmax,ss) of valproate in 13 patients stabilized on valproate.
+In a drug interaction study, co-administration of paliperidone (12 mg once daily for 5 days) with divalproex sodium extended-release tablets (500 mg to 2,000 mg once daily) did not affect the steady-state pharmacokinetics (AUC24h and Cmax,ss) of valproate in 13 patients stabilized on valproate.
 In a clinical study, subjects on stable doses of valproate had comparable valproate average plasma concentrations when paliperidone 3-15 mg/day was added to their existing valproate treatment.
 
 ## 7.2 Potential for Other Drugs to Affect Paliperidone

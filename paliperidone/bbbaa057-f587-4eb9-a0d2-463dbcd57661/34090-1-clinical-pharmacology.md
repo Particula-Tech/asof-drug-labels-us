@@ -3,7 +3,8 @@
 ## 12.1 Mechanism of Action
 
 Paliperidone is the major active metabolite of risperidone.
-The mechanism of action of paliperidone, as with other drugs having efficacy in schizophrenia, is unknown, but it has been proposed that the drug's therapeutic activity in schizophrenia is mediated through a combination of central dopamine Type 2 (D2) and serotonin Type 2 (5HT2A) receptor antagonism.
+The mechanism of action of paliperidone in schizophrenia is unclear.
+However, the drug's therapeutic activity in schizophrenia is mediated through a combination of central dopamine Type 2 (D2) and serotonin Type 2 (5HT2A) receptor antagonism.
 
 ## 12.2 Pharmacodynamics
 
@@ -18,16 +19,16 @@ Following a single dose, the plasma concentrations of paliperidone gradually ris
 The pharmacokinetics of paliperidone following paliperidone extended-release tablets administration are dose-proportional within the available dose range.
 The terminal elimination half-life of paliperidone is approximately 23 hours.
 
-Steady-state concentrations of paliperidone are attained within 4-5 days of dosing with paliperidone extended release tablets in most subjects.
-The mean steady-state peak: trough ratio for a paliperidone extended release tablets dose of 9 mg was 1.7 with a range of 1.2-3.1.
+Steady-state concentrations of paliperidone are attained within 4-5 days of dosing with paliperidone in most subjects.
+The mean steady-state peak: trough ratio for a paliperidone dose of 9 mg was 1.7 with a range of 1.2-3.1.
 
 Following administration of paliperidone extended-release tablets, the (+) and (-) enantiomers of paliperidone interconvert, reaching an AUC (+) to (-) ratio of approximately 1.6 at steady state.
 
 Absorption and Distribution
 
-The absolute oral bioavailability of paliperidone following paliperidone extended-release tablets administration is 28%.
+The absolute oral bioavailability of paliperidone following paliperidone extended-release tablet administration is 28%.
 
-Administration of a 12 mg paliperidone extended-release tablets to healthy ambulatory subjects with a standard high-fat/high-caloric meal gave mean Cmax and AUC values of paliperidone that were increased by 60% and 54%, respectively, compared with administration under fasting conditions.
+Administration of a 12 mg paliperidone extended-release tablet to healthy ambulatory subjects with a standard high-fat/high-caloric meal gave mean Cmax and AUC values of paliperidone that were increased by 60% and 54%, respectively, compared with administration under fasting conditions.
 Clinical trials establishing the safety and efficacy of paliperidone were carried out in subjects without regard to the timing of meals.
 While paliperidone can be taken without regard to food, the presence of food at the time of paliperidone administration may increase exposure to paliperidone [see Dosage and Administration (2.3)].
 

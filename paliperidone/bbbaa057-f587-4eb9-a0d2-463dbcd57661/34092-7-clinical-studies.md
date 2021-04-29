@@ -13,7 +13,7 @@ Efficacy was evaluated using the Positive and Negative Syndrome Scale (PANSS), a
 Efficacy was also evaluated using the Personal and Social Performance (PSP) scale.
 The PSP is a validated clinician-rated scale that measures personal and social functioning in the domains of socially useful activities (e.g., work and study), personal and social relationships, self-care, and disturbing and aggressive behaviors.
 
-In all 3 studies (n = 1665), paliperidone was superior to placebo on the PANSS at all doses.
+In all 3 studies (n = 1,665), paliperidone was superior to placebo on the PANSS at all doses.
 Mean effects at all doses were fairly similar, although the higher doses in all studies were numerically superior.
 Paliperidone was also superior to placebo on the PSP in these trials.
 

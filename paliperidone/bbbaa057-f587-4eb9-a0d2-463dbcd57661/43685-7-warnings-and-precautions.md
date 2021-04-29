@@ -10,7 +10,7 @@ Observational studies suggest that, similar to atypical antipsychotic drugs, tre
 The extent to which the findings of increased mortality in observational studies may be attributed to the antipsychotic drug as opposed to some characteristic(s) of the patients is not clear.
 Paliperidone is not approved for the treatment of dementia-related psychosis [see Boxed Warning].
 
-## 5.2 Cerebrovascular Adverse Reactions, Including Stroke, in Elderly Patients With Dementia-Related Psychosis
+## 5.2 Cerebrovascular Adverse Reactions, Including Stroke, in Elderly Patients with Dementia-Related Psychosis
 
 In placebo-controlled trials with risperidone, aripiprazole, and olanzapine in elderly subjects with dementia, there was a higher incidence of cerebrovascular adverse reactions (cerebrovascular accidents and transient ischemic attacks) including fatalities compared to placebo-treated subjects.
 Paliperidone was not marketed at the time these studies were performed.
@@ -18,18 +18,11 @@ Paliperidone is not approved for the treatment of patients with dementia-related
 
 ## 5.3 Neuroleptic Malignant Syndrome
 
-A potentially fatal symptom complex sometimes referred to as Neuroleptic Malignant Syndrome (NMS) has been reported in association with antipsychotic drugs, including paliperidone.
-Clinical manifestations of NMS are hyperpyrexia, muscle rigidity, altered mental status, and evidence of autonomic instability (irregular pulse or blood pressure, tachycardia, diaphoresis, and cardiac dysrhythmia).
-Additional signs may include elevated creatine phosphokinase, myoglobinuria (rhabdomyolysis), and acute renal failure.
+Neuroleptic Malignant Syndrome (NMS), a potentially fatal symptom complex, has been reported in association with antipsychotic drugs, including paliperidone.
+Clinical manifestations of NMS are hyperpyrexia, muscle rigidity, altered mental status including delirium, and autonomic instability (irregular pulse or blood pressure, tachycardia, diaphoresis, and cardiac dysrhythmia).
+Additional signs may include elevated creatine phosphokinase, myoglobinuria, rhabdomyolysis, and acute renal failure.
 
-The diagnostic evaluation of patients with this syndrome is complicated.
-In arriving at a diagnosis, it is important to identify cases in which the clinical presentation includes both serious medical illness (e.g., pneumonia, systemic infection, etc.) and untreated or inadequately treated extrapyramidal signs and symptoms (EPS).
-Other important considerations in the differential diagnosis include central anticholinergic toxicity, heat stroke, drug fever, and primary central nervous system pathology.
-
-The management of NMS should include: (1) immediate discontinuation of antipsychotic drugs and other drugs not essential to concurrent therapy; (2) intensive symptomatic treatment and medical monitoring; and (3) treatment of any concomitant serious medical problems for which specific treatments are available.
-There is no general agreement about specific pharmacological treatment regimens for uncomplicated NMS.
-
-If a patient appears to require antipsychotic drug treatment after recovery from NMS, reintroduction of drug therapy should be closely monitored, since recurrences of NMS have been reported.
+If NMS is suspected, immediately discontinue paliperidone and provide symptomatic treatment and monitoring.
 
 ## 5.4 QT Prolongation
 
@@ -51,22 +44,24 @@ No subject receiving paliperidone had a QTcLD exceeding 500 msec at any time in 
 
 ## 5.5 Tardive Dyskinesia
 
-A syndrome of potentially irreversible, involuntary, dyskinetic movements may develop in patients treated with antipsychotic drugs.
+Tardive dyskinesia, a syndrome consisting of potentially irreversible, involuntary, dyskinetic movements, may develop in patients treated with antipsychotic drugs.
 Although the prevalence of the syndrome appears to be highest among the elderly, especially elderly women, it is impossible to predict which patients will develop the syndrome.
 Whether antipsychotic drug products differ in their potential to cause tardive dyskinesia is unknown.
 
-The risk of developing tardive dyskinesia and the likelihood that it will become irreversible appear to increase as the duration of treatment and the total cumulative dose of antipsychotic drugs administered to the patient increase, but the syndrome can develop after relatively brief treatment periods at low doses, although this is uncommon.
+The risk of developing tardive dyskinesia and the likelihood that it will become irreversible appear to increase with duration of treatment and the cumulative dose.
+The syndrome can develop after relatively brief treatment periods, even at low doses.
+It may also occur after discontinuation of treatment.
 
-The syndrome may remit, partially or completely, if antipsychotic treatment is withdrawn.
-Antipsychotic treatment itself may suppress (or partially suppress) the signs and symptoms of the syndrome and may thus mask the underlying process.
-The effect of symptomatic suppression on the long-term course of the syndrome is unknown.
+Tardive dyskinesia may remit, partially or completely, if antipsychotic treatment is withdrawn.
+Antipsychotic treatment, itself, however, may suppress (or partially suppress) the signs and symptoms of the syndrome and thereby may possibly mask the underlying process.
+The effect that symptomatic suppression has upon the long-term course of the syndrome is unknown.
 
 Given these considerations, paliperidone should be prescribed in a manner that is most likely to minimize the occurrence of tardive dyskinesia.
-Chronic antipsychotic treatment should generally be reserved for patients who suffer from a chronic illness that is known to respond to antipsychotic drugs.
-In patients who do require chronic treatment, the smallest dose and the shortest duration of treatment producing a satisfactory clinical response should be sought.
-The need for continued treatment should be reassessed periodically.
+Chronic antipsychotic treatment should generally be reserved for patients: (1) who suffer from a chronic illness that is known to respond to antipsychotic drugs, and (2) for whom alternative, equally effective, but potentially less harmful treatments are not available or appropriate.
+In patients who do require chronic treatment, use the lowest dose and the shortest duration of treatment producing a satisfactory clinical response.
+Periodically reassess the need for continued treatment.
 
-If signs and symptoms of tardive dyskinesia appear in a patient treated with paliperidone, drug discontinuation should be considered.
+If signs and symptoms of tardive dyskinesia appear in a patient on paliperidone, drug discontinuation should be considered.
 However, some patients may require treatment with paliperidone despite the presence of the syndrome.
 
 ## 5.6 Metabolic Changes
@@ -95,11 +90,11 @@ Pooled data from the three placebo-controlled, 6-week, fixed-dose studies in adu
 Table 1a.
 Change in Fasting Glucose from Three Placebo-Controlled, 6-Week, Fixed-Dose Studies in Adult Subjects with Schizophrenia
 
-|  | Paliperidone extended-release Tablets |  |  |  |  |
+|  | Paliperidone extended-release tablets |  |  |  |  |
 | --- | --- | --- | --- | --- | --- |
-|  | Placebo | 3 mg/day | 6 mg/day | 9 mg/day | 12 mg/day |
+| Placebo | 3 mg/day | 6 mg/day | 9 mg/day | 12 mg/day |  |
 |  | Mean change from baseline (mg/dL) |  |  |  |  |
-|  | n=322 | n=122 | n=212 | n=234 | n=218 |
+| n=322 | n=122 | n=212 | n=234 | n=218 |  |
 | Serum Glucose Change from baseline | 0.8 | -0.7 | 0.4 | 2.3 | 4.3 |
 |  | Proportion of Patients with Shifts |  |  |  |  |
 | Serum Glucose Normal to High (<100 mg/dL to ≥ 126 mg/dL) | 5.1 % (12/236) | 3.2 % (3/93) | 4.5 % (7/156) | 4.8 % (9/187) | 3.8 % (6/157) |
@@ -113,9 +108,9 @@ Change in Fasting Glucose from a Placebo-Controlled 6-Week Study in Adolescent S
 
 |  | Paliperidone extended-release tablets |  |  |  |  |
 | --- | --- | --- | --- | --- | --- |
-|  | Placebo | 1.5 mg/day | 3 mg/day | 6 mg/day | 12 mg/day |
+| Placebo | 1.5 mg/day | 3 mg/day | 6 mg/day | 12 mg/day |  |
 |  | Mean change from baseline (mg/dL) |  |  |  |  |
-|  | n=41 | n=44 | n=11 | n=28 | n=32 |
+| n=41 | n=44 | n=11 | n=28 | n=32 |  |
 | Serum Glucose Change from baseline | 0.8 | -1.4 | -1.8 | -0.1 | 5.2 |
 |  | Proportion of Patients with Shifts |  |  |  |  |
 | Serum Glucose Normal to High (<100 mg/dL to ≥126 mg/dL) | 3% (1/32) | 0% (0/34) | 0% (0/9) | 0% (0/20) | 11% (3/27) |
@@ -131,7 +126,7 @@ Change in Fasting Lipids from Three Placebo-Controlled, 6-Week, Fixed-Dose Studi
 
 |  | Paliperidone extended-release Tablets |  |  |  |  |
 | --- | --- | --- | --- | --- | --- |
-|  | Placebo | 3 mg/day | 6 mg/day | 9 mg/day | 12 mg/day |
+| Placebo | 3 mg/day | 6 mg/day | 9 mg/day | 12 mg/day |  |
 |  | Mean change from baseline (mg/dL) |  |  |  |  |
 | Cholesterol | n=331 | n=120 | n=216 | n=236 | n=231 |
 | Change from baseline | -6.3 | -4.4 | -2.4 | -5.3 | -4.0 |
@@ -184,8 +179,8 @@ Mean Change in Body Weight (kg) and the Proportion of Subjects with ≥ 7% Gain 
 
 |  | Paliperidone extended-release Tablets |  |  |  |  |
 | --- | --- | --- | --- | --- | --- |
-|  | Placebo | 3 mg/day | 6 mg/day | 9 mg/day | 12 mg/day |
-|  | n=323 | n=112 | n=215 | n=235 | n=218 |
+| Placebo | 3 mg/day | 6 mg/day | 9 mg/day | 12 mg/day |  |
+| n=323 | n=112 | n=215 | n=235 | n=218 |  |
 | Weight(kg) Change from baseline | -0.4 | 0.6 | 0.6 | 1.0 | 1.1 |
 | Weight Gain ≥7% increase from baseline | 5% | 7% | 6% | 9% | 9% |
 
@@ -199,8 +194,8 @@ Mean Change in Body Weight (kg) and the Proportion of Subjects with ≥ 7% Gain 
 
 |  | Paliperidone extended-release tablets |  |  |  |  |
 | --- | --- | --- | --- | --- | --- |
-|  | Placebo | 1.5 mg/day | 3 mg/day | 6 mg/day | 12 mg/day |
-|  | n=51 | n=54 | n=16 | n=45 | n=34 |
+| Placebo | 1.5 mg/day | 3 mg/day | 6 mg/day | 12 mg/day |  |
+| n=51 | n=54 | n=16 | n=45 | n=34 |  |
 | Weight (kg) Change from baseline | 0.0 | 0.3 | 0.8 | 1.2 | 1.5 |
 | Weight Gain ≥ 7% increase from baseline | 2% | 6% | 19% | 7% | 18% |
 
@@ -231,8 +226,8 @@ Neither clinical studies nor epidemiologic studies conducted to date have shown 
 
 ## 5.8 Potential for Gastrointestinal Obstruction
 
-Because the paliperidone extended-release tablets is non-deformable and does not appreciably change in shape in the gastrointestinal tract, paliperidone extended-release tablet should ordinarily not be administered to patients with preexisting severe gastrointestinal narrowing (pathologic or iatrogenic, for example: esophageal motility disorders, small bowel inflammatory disease, "short gut" syndrome due to adhesions or decreased transit time, past history of peritonitis, cystic fibrosis, chronic intestinal pseudoobstruction, or Meckel’s diverticulum).
-There have been rare reports of obstructive symptoms in patients with known strictures in association with the ingestion of drugs in non-deformable controlled-release formulations.
+Because the paliperidone extended-release tablet is non-deformable and does not appreciably change in shape in the gastrointestinal tract, paliperidone extended-release tablets should ordinarily not be administered to patients with pre-existing severe gastrointestinal narrowing (pathologic or iatrogenic, for example: esophageal motility disorders, small bowel inflammatory disease, "short gut" syndrome due to adhesions or decreased transit time, past history of peritonitis, cystic fibrosis, chronic intestinal pseudo-obstruction, or Meckel’s diverticulum).
+There have been rare reports of obstructive symptoms in patients with known strictures in association with the ingestion of drugs in nondeformable controlled-release formulations.
 Because of the controlled-release design of the tablet, paliperidone extended-release tablets should only be used in patients who are able to swallow the tablet whole [see Dosage and Administration (2.3) and Patient Counseling Information (17)].
 
 A decrease in transit time, e.g., as seen with diarrhea, would be expected to decrease bioavailability and an increase in transit time, e.g., as seen with gastrointestinal neuropathy, diabetic gastroparesis, or other causes, would be expected to increase bioavailability.
@@ -242,6 +237,7 @@ These changes in bioavailability are more likely when the changes in transit tim
 
 Paliperidone can induce orthostatic hypotension and syncope in some patients because of its alpha-blocking activity.
 In pooled results of the three placebo-controlled, 6-week, fixed-dose trials in subjects with schizophrenia, syncope was reported in 0.8% (7/850) of subjects treated with paliperidone (3 mg, 6 mg, 9 mg, 12 mg) compared to 0.3% (1/355) of subjects treated with placebo.
+
 Paliperidone should be used with caution in patients with known cardiovascular disease (e.g., heart failure, history of myocardial infarction or ischemia, conduction abnormalities), cerebrovascular disease, or conditions that predispose the patient to hypotension (e.g., dehydration, hypovolemia, and treatment with antihypertensive medications).
 Monitoring of orthostatic vital signs should be considered in patients who are vulnerable to hypotension.
 
@@ -252,18 +248,19 @@ For patients, particularly the elderly, with diseases, conditions, or medication
 
 ## 5.11 Leukopenia, Neutropenia, and Agranulocytosis
 
-Class Effect: In clinical trial and/or postmarketing experience, events of leukopenia/neutropenia have been reported temporally related to antipsychotic agents, including paliperidone.
+In clinical trial and/or postmarketing experience, events of leukopenia/neutropenia have been reported temporally related to antipsychotic agents, including paliperidone.
 Agranulocytosis has also been reported.
 
-Possible risk factors for leukopenia/neutropenia include pre-existing low white blood cell count (WBC) and history of drug-induced leukopenia/neutropenia.
-Patients with a history of a clinically significant low WBC or a drug-induced leukopenia/neutropenia should have their complete blood count (CBC) monitored frequently during the first few months of therapy and discontinuation of paliperidone should be considered at the first sign of a clinically significant decline in WBC in the absence of other causative factors.
+Possible risk factors for leukopenia/neutropenia include pre-existing low white blood cell count (WBC)/absolute neutrophil count (ANC) and history of drug-induced leukopenia/neutropenia.
+In patients with a history of a clinically significant low WBC/ANC or a drug-induced leukopenia/neutropenia, perform a complete blood count (CBC) frequently during the first few months of therapy.
+In such patients, consider discontinuation of paliperidone at the first sign of a clinically significant decline in WBC in the absence of other causative factors.
 
-Patients with clinically significant neutropenia should be carefully monitored for fever or other symptoms or signs of infection and treated promptly if such symptoms or signs occur.
-Patients with severe neutropenia (absolute neutrophil count <1000/mm3) should discontinue paliperidone and have their WBC followed until recovery.
+Monitor patients with clinically significant neutropenia for fever or other symptoms or signs of infection and treat promptly if such symptoms or signs occur.
+Discontinue paliperidone in patients with severe neutropenia (absolute neutrophil count < 1000/mm3) and follow their WBC until recovery.
 
 ## 5.12 Potential for Cognitive and Motor Impairment
 
-Somnolence was reported in subjects treated with paliperidone [see Adverse Reactions (6.1, 6.2)].
+Somnolence, sedation, and dizziness were reported as adverse reactions in subjects treated with paliperidone [see Adverse Reactions (6.2)].
 Antipsychotics, including paliperidone, have the potential to impair judgment, thinking, or motor skills.
 Patients should be cautioned about performing activities requiring mental alertness, such as operating hazardous machinery or operating a motor vehicle, until they are reasonably certain that paliperidone therapy does not adversely affect them.
 
@@ -285,28 +282,7 @@ Drugs with alpha-adrenergic blocking effects have been reported to induce priapi
 Priapism has been reported with paliperidone during postmarketing surveillance.
 Severe priapism may require surgical intervention.
 
-## 5.16 Thrombotic Thrombocytopenic Purpura (TTP)
-
-No cases of TTP were observed during clinical studies with paliperidone.
-Although cases of TTP have been reported in association with risperidone administration, the relationship to risperidone therapy is unknown.
-
-## 5.17 Body Temperature Regulation
+## 5.16 Body Temperature Regulation
 
 Disruption of the body’s ability to reduce core body temperature has been attributed to antipsychotic agents.
 Appropriate care is advised when prescribing paliperidone to patients who will be experiencing conditions which may contribute to an elevation in core body temperature, e.g., exercising strenuously, exposure to extreme heat, receiving concomitant medication with anticholinergic activity, or being subject to dehydration.
-
-## 5.18 Antiemetic Effect
-
-An antiemetic effect was observed in preclinical studies with paliperidone.
-This effect, if it occurs in humans, may mask the signs and symptoms of overdosage with certain drugs or of conditions such as intestinal obstruction, Reye’s syndrome, and brain tumor.
-
-## 5.19 Use in Patients with Concomitant Illness
-
-Clinical experience with paliperidone in patients with certain concomitant illnesses is limited [see Clinical Pharmacology (12.3)].
-
-Patients with Parkinson’s Disease or Dementia with Lewy Bodies are reported to have an increased sensitivity to antipsychotic medication.
-Manifestations of this increased sensitivity include confusion, obtundation, postural instability with frequent falls, extrapyramidal symptoms, and clinical features consistent with the neuroleptic malignant syndrome.
-
-Paliperidone has not been evaluated or used to any appreciable extent in patients with a recent history of myocardial infarction or unstable heart disease.
-Patients with these diagnoses were excluded from premarketing clinical trials.
-Because of the risk of orthostatic hypotension with paliperidone, caution should be observed in patients with known cardiovascular disease [see Warnings and Precautions (5.9)].
