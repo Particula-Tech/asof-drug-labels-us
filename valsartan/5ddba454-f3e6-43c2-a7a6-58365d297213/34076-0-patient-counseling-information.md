@@ -14,4 +14,6 @@ Caution all patients that inadequate fluid intake, excessive perspiration, diarr
 
 Hyperkalemia: Advise patients not to use salt substitutes without consulting their healthcare provider [see Drug Interactions (7.1)].
 
-T2020-74
+Distributed by: Novartis Pharmaceuticals Corporation East Hanover, New Jersey 07936 © Novartis
+
+T2021-30

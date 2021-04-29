@@ -1,12 +1,12 @@
 # 6 ADVERSE REACTIONS
 
-## 6.1 Clinical Studies Experience
+## 6.1 Clinical Trials Experience
 
 Because clinical studies are conducted under widely varying conditions, adverse reaction rates observed in the clinical studies of a drug cannot be directly compared to rates in the clinical studies of another drug and may not reflect the rates observed in practice.
 
 Adult Hypertension
 
-Diovan (valsartan) has been evaluated for safety in more than 4,000 patients, including over 400 treated for over 6 months, and more than 160 for over 1 year.
+Diovan has been evaluated for safety in more than 4,000 patients, including over 400 treated for over 6 months, and more than 160 for over 1 year.
 Adverse reactions have generally been mild and transient in nature and have only infrequently required discontinuation of therapy.
 The overall incidence of adverse reactions with Diovan was similar to placebo.
 
@@ -24,23 +24,16 @@ An increase in the incidence of dizziness was observed in patients treated with 
 
 Pediatric Hypertension
 
-Diovan has been evaluated for safety in over 400 pediatric patients aged 6 to 17 years and more than 160 pediatric patients aged 6 months to 5 years.
-No relevant differences were identified between the adverse experience profile for pediatric patients aged 6 to 16 years and that previously reported for adult patients.
-Headache and hyperkalemia were the most common adverse events suspected to be study drug-related in older children (6 to 17 years old) and younger children (6 months to 5 years old), respectively.
-Hyperkalemia was mainly observed in children with underlying renal disease.
-Neurocognitive and developmental assessment of pediatric patients aged 6 to 16 years revealed no overall clinically relevant adverse impact after treatment with Diovan for up to 1 year.
+Diovan has been evaluated for safety in 290 pediatric patients aged 1 to less than 6 years and over 400 patients aged 6 to 17 years.
+No relevant differences were identified between the adverse experience profile for pediatric patients and that previously reported for adult patients.
+Hyperkalemia was more frequently observed in pediatric patients aged 1 to 17 years with underlying chronic kidney disease (CKD).
 
-Diovan is not recommended for pediatric patients under 6 years of age.
-In a study (n=90) of pediatric patients (1 to 5 years), two deaths and three cases of on-treatment transaminase elevations were seen in the one-year open-label extension phase.
-These 5 events occurred in a study population in which patients frequently had significant co-morbidities.
-A causal relationship to Diovan has not been established.
-In a second study of 6-months duration in 75 children aged 1 to 5 years, there were no deaths; one case of marked liver transaminase elevations occurred following 6 months of treatment.
-The most common adverse reaction in children less than 6 years old was hyperkalemia.
-Hyperkalemia was mainly observed in children with underlying renal disease.
+Cases of elevated ALT and/or AST have been reported in pediatric patients 1 to less than 6 years of age.
+These events occurred in a study population which frequently had significant comorbidities; hence, a causal relationship to valsartan could not be established.
 
 Heart Failure
 
-In the Valsartan Heart Failure Trial, comparing valsartan in total daily doses up to 320 mg (n=2,506) to placebo (n=2,494), 10% of valsartan patients discontinued for adverse reactions vs. 7% of placebo patients.
+In the Valsartan Heart Failure Trial (Val-HeFT), comparing valsartan in total daily doses up to 320 mg (n=2,506) to placebo (n=2,494), 10% of valsartan patients discontinued for adverse reactions vs. 7% of placebo patients.
 
 The table shows adverse reactions in double-blind short-term heart failure trials, including the first 4 months of the Valsartan Heart Failure Trial, with an incidence of at least 2% that were more frequent in valsartan-treated patients than in placebo-treated patients.
 All patients received standard drug therapy for heart failure, frequently as multiple medications, which could include diuretics, digitalis, beta-blockers.

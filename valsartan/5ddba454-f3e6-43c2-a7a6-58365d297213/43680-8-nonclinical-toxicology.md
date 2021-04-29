@@ -15,3 +15,6 @@ This dose is 6 times the MRHD on a mg/m2 basis (Calculations assume an oral dose
 
 Daily oral dosing of neonatal/juvenile rats with valsartan at doses as low as 1 mg/kg/day (about 10% of the maximum recommended pediatric dose on a mg/m2 basis) from postnatal day 7 to postnatal day 70 produced persistent, irreversible kidney damage.
 These kidney effects in neonatal rats represent expected exaggerated pharmacological effects that are observed if rats are treated during the first 13 days of life.
+This period coincides with 36 weeks of gestation in humans, which could occasionally extend up to 44 weeks after conception in humans.
+In humans, nephrogenesis is thought to be complete around birth; however, maturation of other aspects of kidney function (such as glomerular filtration and tubular function) may continue until approximately 2 years of age.
+It is unknown whether post-natal use of valsartan before maturation of renal function is complete has long-term deleterious effects on the kidney [see Use in Specific Populations (8.4)].
