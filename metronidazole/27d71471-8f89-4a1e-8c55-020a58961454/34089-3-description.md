@@ -1,6 +1,6 @@
 # 11 DESCRIPTION
 
-VANDAZOLE (metronidazole gel USP, 0.75% (vaginal)) is the vaginal dosage form of the nitroimidazole antimicrobial metronidazole at a concentration of 0.75%.
+VANDAZOLE (metronidazole gel, USP), 0.75% is the vaginal dosage form of the nitroimidazole antimicrobial metronidazole at a concentration of 0.75%.
 Chemically, metronidazole is a 2-methyl-5-nitroimidazole-1-ethanol.
 
 C6H9N3O3 M.W.

@@ -1,6 +1,6 @@
 # PATIENT INSTRUCTIONS FOR USE
 
-VANDAZOLE® (van-DA-zole) (metronidazole gel USP, 0.75% (vaginal))
+VANDAZOLE® (van-DA-zole) (metronidazole gel, USP), 0.75%
 
 For vaginal use only.
 
@@ -53,26 +53,17 @@ If you get VANDAZOLE in your eye, rinse your eye with cool tap water and consult
 
 How should I store VANDAZOLE?
 
-- Store VANDAZOLE at 68° to 77°F (20° to 25°C).
+- Store VANDAZOLE at 68ºF to 77ºF (20ºC to 25ºC).
 - Avoid exposure to extreme heat or cold.
   Avoid freezing VANDAZOLE.
 - Keep this and all medicines out of reach of children.
 
-RX Only
-
-Manufactured In Croatia By:
-
-Pliva Hrvatska d.o.o.
-
+Manufactured In Croatia By: Pliva Hrvatska d.o.o.
 Zagreb, Croatia
 
-Manufactured for
+Manufactured For: UPSHER-SMITH LABORATORIES, LLC Maple Grove, MN 55369
 
-UPSHER-SMITH LABORATORIES, LLC
-
-Maple Grove, MN 55369
-
-© 2017 Upsher-Smith Laboratories, LLC
+© 2021 Upsher-Smith Laboratories, LLC
 
 Rev.
-D 6/2017
+E 2/2021

@@ -9,7 +9,7 @@ Therapeutic Cure defined as a clinical cure and Nugent score < 4 was assessed Da
 Table 1 shows the therapeutic, clinical and Nugent score cure rates in this trial.
 The therapeutic cure rate was 42.8% for the VANDAZOLE group and 30.9% for the comparator group (95% confidence interval about the 11.9% difference in therapeutic cure rate: 2.8% to 21.0%).
 
-Table 1 Efficacy of Vandazole for the Treatment of Bacterial Vaginosis in a Randomized, Double-Blind Active Controlled StudyModified intent-to-treat population
+Table 1 Efficacy of Vandazole for the Treatment of Bacterial Vaginosis in a Randomized, Double-Blind Active Controlled Study1
 
 | Outcome | Vandazole n = 229 | Active Control n = 243 | Treatment Difference (%) [95% Confidence Interval] |
 | --- | --- | --- | --- |
@@ -17,3 +17,4 @@ Table 1 Efficacy of Vandazole for the Treatment of Bacterial Vaginosis in a Rand
 | Therapeutic Cure | 42.8 | 30.9 | 11.9 [2.8, 21.0] |
 | Clinical Cure | 52.4 | 45.3 | 7.1 [-2.3, 16.5] |
 | Nugent Score Cure | 52.0 | 41.1 | 10.9 [1.5, 20.3] |
+| 1 Modified intent-to-treat population |  |  |  |

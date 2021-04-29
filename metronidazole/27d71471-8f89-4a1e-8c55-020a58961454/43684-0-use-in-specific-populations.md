@@ -2,36 +2,54 @@
 
 ## 8.1 Pregnancy
 
-Pregnancy Category B
+Risk Summary
 
-VANDAZOLE should be used during pregnancy only if clearly needed.
-There are no adequate and well-controlled studies in pregnant women.
+Available data on metronidazole use in pregnant women from published cohort studies, case-control studies, case series, meta analyses, and case reports over several decades have not established a drug-associated risk of major birth defects, miscarriage, or adverse maternal or fetal outcomes.
+In animal reproduction studies, no adverse developmental effects were demonstrated when oral metronidazole was administered to mice at doses up to six times the recommended human dose (see Data).
 
-There are published data from case-control studies, cohort studies, and two meta-analyses that include more than 5000 pregnant women who used metronidazole systemically during pregnancy.
+The estimated background risk of major birth defects and miscarriage for the indicated population is unknown.
+All pregnancies have a background risk of birth defect, loss, or other adverse outcomes.
+In the U.S. general population, the estimated background risk of major birth defects and miscarriage in clinically recognized pregnancies is 2 to 4% and 15 to 20%, respectively.
+
+Data
+
+Human Data
+
+Published case-control studies, cohort studies, meta analyses, case series, and case reports over several decades have not established a risk with metronidazole use in pregnancy and major birth defects, miscarriage, or adverse maternal or fetal outcomes.
 Many studies included first trimester exposures.
 One study showed an increased risk of cleft lip, with or without cleft palate, in infants exposed to metronidazole in-utero; however, these findings were not confirmed.
-In addition, more than ten randomized, placebo-controlled clinical trials enrolled more than 5000 pregnant women to assess the use of systemic antibiotic treatment (including metronidazole) for bacterial vaginosis on the incidence of preterm delivery.
 Most studies did not show an increased risk for congenital anomalies or other adverse fetal outcomes following metronidazole exposure during pregnancy.
-Three studies conducted to assess the risk of infant cancer following systemic metronidazole exposure during pregnancy did not show an increased risk; however, the ability of these studies to detect such a signal was limited.
+Studies conducted to assess the risk of infant cancer following systemic metronidazole exposure during pregnancy did not show an increased risk; however, the ability of these studies to detect such a signal was limited.
 
-Oral reproductive toxicity studies have been performed in mice at doses up to six times the recommended human dose based on body surface area comparisons and have revealed no evidence of impaired fertility or harm to the fetus.
-However, in a single small study where the drug was administered intraperitoneally, some intrauterine deaths were observed.
+Animal Data
 
 Animal studies have shown that metronidazole crosses the placental barrier and enters the fetal circulation rapidly.
-Because animal reproduction studies are not always predictive of human response, and because metronidazole crosses the placental barrier and is a carcinogen in rodents, this drug should be used during pregnancy only if clearly needed.
+Oral metronidazole reproductive toxicity studies have been performed in mice at doses up to six times the recommended human dose based on body surface area comparisons and have revealed no evidence of harm to the fetus.
+However, in a single small study where the drug was administered intraperitoneally, some intrauterine deaths were observed.
 
-## 8.3 Nursing Mothers
+## 8.2 Lactation
 
-Caution should be exercised when VANDAZOLE is administered to a nursing woman.
-Following oral metronidazole administration, concentrations of metronidazole in human milk are similar to concentrations in plasma.
-Since some metronidazole is systemically absorbed following vaginal administration of metronidazole, excretion in human milk is possible.
+Risk Summary
 
-Because of the potential for tumorigenicity shown for metronidazole in animal studies, a decision should be made whether to discontinue nursing or to discontinue VANDAZOLE, taking into account the importance of the therapy to the mother.
-A nursing mother may choose to pump and discard her milk for the duration of VANDAZOLE therapy, and for 24 hours after therapy ends and feed her infant stored human milk or formula.
+There are no data on the presence of metronidazole in human milk following intravaginal administration.
+Metronidazole is present in human milk following oral metronidazole administration at concentrations similar to those found in plasma (see Data).
+The metronidazole vaginal gel achieves 2% of the mean maximum serum concentration of a 500 mg oral metronidazole dose [see Clinical Pharmacology (12.3)].
+The published literature reports no adverse effects in infants exposed through breastmilk to maternal orally administered metronidazole.
+There are no data on the effects on milk production.
+
+Animal studies have shown the potential for tumorigenicity after oral metronidazole was administered chronically to rats and mice [see Nonclinical Toxicology (13.1)].
+The clinical relevance of these findings is unclear.
+The developmental and health benefits of breastfeeding should be considered along with the mother’s clinical need for VANDAZOLE, and any potential adverse effects on the breastfed child from VANDAZOLE or from the underlying maternal condition.
+Alternatively, a lactating patient may interrupt breastfeeding and choose to pump and discard breastmilk during treatment with VANDAZOLE and for 48 hours after the last dose and feed her infant previously stored human milk or formula.
+
+Data
+
+In a study of lactating women receiving oral metronidazole 600 mg (n=11) or 1200 mg (n=4) daily, mean maternal plasma concentrations were 5.0 and 12.5 mcg/mL, respectively, within 2 hours following administration; the milk: maternal plasma ratio was approximately 1.
 
 ## 8.4 Pediatric Use
 
-The safety and efficacy of VANDAZOLE in the treatment of bacterial vaginosis in post-menarchal females have been established on the extrapolation of clinical trial data from adult women.
+The safety and efficacy of VANDAZOLE in the treatment of bacterial vaginosis in post-menarchal females have been established on the extrapolation of clinical trial data from adult females.
+
 The safety and efficacy of VANDAZOLE in pre-menarchal females have not been established.
 
 ## 8.5 Geriatric Use

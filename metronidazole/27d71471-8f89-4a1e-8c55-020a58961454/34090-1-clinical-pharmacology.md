@@ -17,8 +17,8 @@ This AUC0-∞ is approximately 5% of the reported AUC of metronidazole following
 
 Patients with Bacterial Vaginosis
 
-Following single and multiple 5 gram doses of a similar metronidazole vaginal gel product to 4 patients with bacterial vaginosis, a mean maximum serum metronidazole concentration of 214 ng/mL on day one and 294 ng/mL (range: 228 to 349 ng/mL) on day five were reported.
-Steady state metronidazole serum concentrations following oral dosages of 400 to 500 mg BID have been reported to range from 6,000 to 20,000 ng/mL.
+Following single and multiple 5 gram doses of a similar metronidazole vaginal gel product to 4 patients with bacterial vaginosis, a mean maximum serum metronidazole concentration of 214 ng/mL on Day 1 and 294 ng/mL (range: 228 to 349 ng/mL) on Day 5 were reported.
+Steady state metronidazole serum concentrations following oral dosages of 400 to 500 mg twice a day have been reported to range from 6,000 to 20,000 ng/mL.
 
 ## 12.4 Microbiology
 
