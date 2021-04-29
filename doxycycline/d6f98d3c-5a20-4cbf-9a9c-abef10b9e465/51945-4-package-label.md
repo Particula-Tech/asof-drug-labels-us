@@ -72,6 +72,44 @@ SHAKE WELL BEFORE USING
 
 Rx only
 
+# PRINCIPAL DISPLAY PANEL - 473 mL Bottle Label - NDC 0069-0971-74
+
+NDC 0069-0971-74
+
+Pfizer
+
+Vibramycin® calcium (doxycycline calcium) syrup
+
+50 mg/5 mL*
+
+ORAL SUSPENSION FOR ORAL USE ONLY
+
+RASPBERRY/APPLE FLAVORED
+
+SHAKE WELL BEFORE USING
+
+1 Pint (473 mL) Rx only
+
+# PRINCIPAL DISPLAY PANEL - 473 mL Bottle Carton - NDC 0069-0971-74
+
+Pfizer
+
+NDC 0069-0971-74
+
+Vibramycin® calcium (doxycycline calcium) syrup
+
+50 mg/5 mL*
+
+ORAL SUSPENSION FOR ORAL USE ONLY
+
+IMPORTANT THIS CLOSURE IS NOT CHILD-RESISTANT.
+
+RASPBERRY/APPLE FLAVORED
+
+SHAKE WELL BEFORE USING
+
+1 Pint (473 mL) Rx only
+
 # PRINCIPAL DISPLAY PANEL - 100 mg Capsule Bottle Label
 
 Pfizer
