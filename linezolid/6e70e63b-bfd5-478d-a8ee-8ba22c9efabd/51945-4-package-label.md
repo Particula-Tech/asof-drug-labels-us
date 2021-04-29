@@ -1,4 +1,4 @@
-# PRINCIPAL DISPLAY PANEL - 100 mL Bag Label - Inner
+# PRINCIPAL DISPLAY PANEL - 100 mL Bag Label
 
 NDC 0009-5137-01 Rx only ZYVOX® (linezolid) injection
 
@@ -7,7 +7,8 @@ NDC 0009-5137-01 Rx only ZYVOX® (linezolid) injection
 Store at 25°C (77°F); excursions permitted to 15-30°C (59-86°F) [see USP Controlled Room Temperature].
 Do not freeze.
 Each mL contains: linezolid 2 mg dextrose, USP 50.24 mg sodium citrate, USP 1.64 mg citric acid, USP 0.85 mg water for injection, USP qs pH adjusted to 4.8 with sodium hydroxide or hydrochloric acid.
-Sterile and nonpyrogenic Single dose container.
+Sterile and nonpyrogenic.
+Single dose container.
 Do not add supplementary medication.
 Do not use in series connections.
 
@@ -15,6 +16,8 @@ For intravenous administration Check for leaks by squeezing container.
 If leaks are found, discard, as sterility may be impaired.
 Check linezolid solution for clarity; it may exhibit a yellow color that intensifies over time, with no adverse effect on potency.
 DOSAGE AND USE: See accompanying prescribing information.
+DISCARD UNUSED PORTION.
+The Infusion Bags and Ports are Not Made With Natural Rubber Latex.
 MADE IN SINGAPORE
 
 freeflex
@@ -25,17 +28,17 @@ Pfizer Injectables
 
 Distributed by: Pharmacia & Upjohn Co Division of Pfizer Inc NY, NY 10017
 
-1234567890 FUU 0701 01-68-26-019C
+1234567890 FUU 0701 01-68-26-019E
 
 LOT EXP
 
-# PRINCIPAL DISPLAY PANEL - 100 mL Bag Label
+# PRINCIPAL DISPLAY PANEL - 100 mL Bag Overwrap Label
 
 NDC 0009-5137-01 Rx only ZYVOX® (linezolid) injection
 
 200 mg/100 mL (2 mg/mL)
 
-Store at 25ºC (77ºF); excursions permitted to 15-30ºC (59-86ºF) [see USP Controlled Room Temperature].
+Store at 25°C (77°F); excursions permitted to 15-30°C (59-86°F) [see USP Controlled Room Temperature].
 Do not freeze.
 Each mL contains: linezolid 2 mg dextrose, USP 50.24 mg sodium citrate, USP 1.64 mg citric acid, USP 0.85 mg water for injection, USP qs pH adjusted to 4.8 with sodium hydroxide or hydrochloric acid.
 
@@ -47,6 +50,8 @@ If leaks are found, discard, as sterility may be impaired.
 Linezolid is sensitive to light.
 Retain overwrap prior to use.
 DOSAGE AND USE: See accompanying prescribing information.
+DISCARD UNUSED PORTION.
+The Infusion Bags and Ports are Not Made With Natural Rubber Latex.
 MADE IN SINGAPORE
 
 Pfizer Injectables
@@ -55,11 +60,11 @@ Pfizer Injectables
 
 Distributed by: Pharmacia & Upjohn Co Division of Pfizer Inc, NY, NY 10017
 
+FUU 0701 01-78-26-019F
+
 LOT EXP
 
-FUU 0701 01-78-26-019D
-
-# PRINCIPAL DISPLAY PANEL - 100 mL Box Label
+# PRINCIPAL DISPLAY PANEL - 100 mL Bag Box Label
 
 NDC 0009-5137-04 Contains 10 of NDC 0009-5137-01 QUANTITY: 1 (10 IV BAGS X 100 mL)
 
@@ -67,6 +72,8 @@ ZYVOX® (linezolid) injection 200 mg/100mL (2 mg/mL)
 
 RX ONLY STORE AT 25°C (77°F); EXCURSIONS PERMITTED TO 15-30°C (59-86°F) [SEE USP CONTROLLED ROOM TEMPERATURE].
 DO NOT FREEZE.
+DISCARD UNUSED PORTION.
+The Infusion Bags and Ports are Not Made With Natural Rubber Latex.
 
 DISTRIBUTED BY PHARMACIA & UPJOHN DIVISION OF PFIZER INC, NY, NY 10017 MADE IN SINGAPORE
 
@@ -76,18 +83,19 @@ LOT 00000000 EXP MM/DD/YYYY QTY: 01
 
 04.30.034
 
-FUU 0701 01-88-26-019H
+FUU 0701 01-88-26-019J
 
-# PRINCIPAL DISPLAY PANEL - 300 mL Bag Label - Inner
+# PRINCIPAL DISPLAY PANEL - 300 mL Bag Label
 
 NDC 0009-5140-01 Rx only ZYVOX® (linezolid) injection
 
 600 mg/300 mL (2 mg/mL)
 
-Store at 25ºC (77ºF); excursions permitted to 15-30ºC (59-86ºF) [see USP Controlled Room Temperature].
+Store at 25°C (77°F); excursions permitted to 15-30°C (59-86°F) [see USP Controlled Room Temperature].
 Do not freeze.
 Each mL contains: linezolid 2 mg dextrose, USP 50.24 mg sodium citrate, USP 1.64 mg citric acid, USP 0.85 mg water for injection, USP qs pH adjusted to 4.8 with sodium hydroxide or hydrochloric acid.
-Sterile and nonpyrogenic Single dose container.
+Sterile and nonpyrogenic.
+Single dose container.
 
 Do not add supplementary medication.
 Do not use in series connections.
@@ -95,6 +103,8 @@ For intravenous administration Check for leaks by squeezing container.
 If leaks are found, discard, as sterility may be impaired.
 Check linezolid solution for clarity; it may exhibit a yellow color that intensifies over time, with no adverse effect on potency.
 DOSAGE AND USE: See accompanying prescribing information.
+DISCARD UNUSED PORTION.
+The Infusion Bags and Ports are Not Made With Natural Rubber Latex.
 MADE IN SINGAPORE
 
 Pfizer Injectables
@@ -105,17 +115,17 @@ Distributed by: Pharmacia & Upjohn Co Division of Pfizer Inc, NY, NY 10017
 
 freeflex
 
-1234567890 FUU 0703 01-68-26-020C
+1234567890 FUU 0703 01-68-26-020E
 
 LOT EXP
 
-# PRINCIPAL DISPLAY PANEL - 300 mL Bag Label
+# PRINCIPAL DISPLAY PANEL - 300 mL Bag Overwrap Label
 
 NDC 0009-5140-01 Rx only ZYVOX® (linezolid) injection
 
 600 mg/300 mL (2 mg/mL)
 
-Store at 25ºC (77ºF); excursions permitted to 15-30ºC (59-86ºF) [see USP Controlled Room Temperature].
+Store at 25°C (77°F); excursions permitted to 15-30°C (59-86°F) [see USP Controlled Room Temperature].
 Do not freeze.
 Each mL contains: linezolid 2 mg dextrose, USP 50.24 mg sodium citrate, USP 1.64 mg citric acid, USP 0.85 mg water for injection, USP qs pH adjusted to 4.8 with sodium hydroxide or hydrochloric acid.
 
@@ -127,6 +137,8 @@ If leaks are found, discard, as sterility may be impaired.
 Linezolid is sensitive to light.
 Retain overwrap prior to use.
 DOSAGE AND USE: See accompanying prescribing information.
+DISCARD UNUSED PORTION.
+The Infusion Bags and Ports are Not Made With Natural Rubber Latex.
 MADE IN SINGAPORE
 
 Pfizer Injectables
@@ -135,11 +147,11 @@ Pfizer Injectables
 
 Distributed by: Pharmacia & Upjohn Co Division of Pfizer Inc, NY, NY 10017
 
+FUU 0703 01-78-26-020F
+
 LOT EXP
 
-FUU 0703 01-78-26-020D
-
-# PRINCIPAL DISPLAY PANEL - 300 mL Box Label
+# PRINCIPAL DISPLAY PANEL - 300 mL Bag Box Label
 
 NDC 0009-5140-04 Contains 10 of NDC 0009-5140-01 QUANTITY: 1 (10 IV BAGS X 300 mL)
 
@@ -147,6 +159,8 @@ ZYVOX® (linezolid) injection 600 mg/300mL (2 mg/mL)
 
 RX ONLY STORE AT 25°C (77°F); EXCURSIONS PERMITTED TO 15-30°C (59-86°F) [SEE USP CONTROLLED ROOM TEMPERATURE].
 DO NOT FREEZE.
+DISCARD UNUSED PORTION.
+The Infusion Bags and Ports are Not Made With Natural Rubber Latex.
 
 DISTRIBUTED BY PHARMACIA & UPJOHN DIVISION OF PFIZER INC, NY, NY 10017 MADE IN SINGAPORE
 
@@ -156,7 +170,7 @@ LOT 00000000 EXP MM/DD/YYYY QTY: 01
 
 04.30.034
 
-FUU 0703 01-88-26-020H
+FUU 0703 01-88-26-020J
 
 # PRINCIPAL DISPLAY PANEL - 150 mL Bottle Label
 
