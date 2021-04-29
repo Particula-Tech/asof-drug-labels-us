@@ -49,9 +49,9 @@ When used concomitantly, anesthetics and calcium blockers should be titrated car
 
 Benzodiazepines: Studies showed that diltiazem increased the AUC of midazolam and triazolam by 3- to 4-fold and the Cmax by 2-fold, compared to placebo.
 The elimination half-life of midazolam and triazolam also increased (1.5- to 2.5-fold) during coadministration with diltiazem.
-These pharmacokinetic effects seen during diltiazem coadministration can result in increased clinical effects (e.g.,prolonged sedation) of both midazolam and triazolam.
+These pharmacokinetic effects seen during diltiazem coadministration can result in increased clinical effects (e.g., prolonged sedation) of both midazolam and triazolam.
 
-Beta-Blockers: Controlled and uncontrolled domestic studies suggest that concomitant use of diltiazem and beta-blockers is usually well tolerated.
+Beta-blockers: Controlled and uncontrolled domestic studies suggest that concomitant use of diltiazem and beta-blockers is usually well tolerated.
 Available data are not sufficient, however, to predict the effects of concomitant treatment, particularly in patients with left ventricular dysfunction or cardiac conduction abnormalities.
 
 Administration of diltiazem concomitantly with propranolol in five normal volunteers resulted in increased propranolol levels in all subjects, and bioavailability of propranolol was increased approximately 50%.
@@ -66,9 +66,9 @@ Subsequent dose adjustments may be necessary during coadministration, and should
 Carbamazepine: Concomitant administration of diltiazem with carbamazepine has been reported to result in elevated serum levels of carbamazepine (40% to 72% increase) resulting in toxicity in some cases.
 Patients receiving these drugs concurrently should be monitored for a potential drug interaction.
 
-Cimetidine: A study in six healthy volunteers has shown a significant increase in peak diltiazem plasma levels (58%) and area-under-the-curve (53%) after a 1 week course of cimetidine at 1200 mg per day and a single dose of diltiazem 60 mg.
+Cimetidine: A study in six healthy volunteers has shown a significant increase in peak diltiazem plasma levels (58%) and area-under-the-curve (53%) after a 1-week course of cimetidine at 1200 mg per day and a single dose of diltiazem 60 mg.
 Ranitidine produced smaller, nonsignificant increases.
-The effect may be mediated by cimetidine's known inhibition of hepatic cytochrome P-450, the enzyme system responsible for the first-pass metabolism of diltiazem.
+The effect may be mediated by cimetidine's known inhibition of hepatic cytochrome P450, the enzyme system responsible for the first-pass metabolism of diltiazem.
 Patients currently receiving diltiazem therapy should be carefully monitored for a change in pharmacological effect when initiating and discontinuing therapy with cimetidine.
 An adjustment in the diltiazem dose may be warranted.
 
@@ -95,9 +95,8 @@ Coadministration of diltiazem with rifampin or any known CYP3A4 inducer should b
 
 Statins: Diltiazem is an inhibitor of CYP3A4 and has been shown to increase significantly the AUC of some statins.
 The risk of myopathy and rhabdomyolysis with statins metabolized by CYP3A4 may be increased with concomitant use of diltiazem.
-When possible, use a non-CYP3A4-metabolized statin together with diltiazem; otherwise, dose adjustments for both diltiazem and the statin should be considered along with close monitoring for signs and symptoms of any statin related adverse events.
-
-In a healthy volunteer cross-over study (N = 10), coadministration of a single 20 mg dose of simvastatin at the end of a 14 day regimen with 120 mg BID diltiazem SR resulted in a 5-fold increase in mean simvastatin AUC versus simvastatin alone.
+When possible, use a non-CYP3A4-metabolized statin together with diltiazem; otherwise, dose adjustments for both diltiazem and the statin should be considered along with close monitoring for signs and symptoms of any statin-related adverse events.
+In a healthy volunteer crossover study (N=10), coadministration of a single 20 mg dose of simvastatin at the end of a 14-day regimen with 120 mg BID diltiazem SR resulted in a 5-fold increase in mean simvastatin AUC versus simvastatin alone.
 Subjects with increased average steady-state exposures of diltiazem showed a greater fold increase in simvastatin exposure.
 Computer-based simulations showed that at a daily dose of 480 mg of diltiazem, an 8- to 9-fold mean increase in simvastatin AUC can be expected.
 If coadministration of simvastatin with diltiazem is required, limit the daily doses of simvastatin to 10 mg and diltiazem to 240 mg.
@@ -108,7 +107,7 @@ Diltiazem plasma levels were not significantly affected by lovastatin or pravast
 
 ## Carcinogenesis, Mutagenesis, Impairment of Fertility
 
-A 24 month study in rats and a 21 month study in mice showed no evidence of carcinogenicity.
+A 24-month study in rats and a 21-month study in mice showed no evidence of carcinogenicity.
 There was also no mutagenic response in in vitro bacterial tests.
 No intrinsic effect on fertility was observed in rats.
 
@@ -140,5 +139,7 @@ In general, dose selection for an elderly patient should be cautious, usually st
 
 Information for Patients
 
-Swallow diltiazem tablets whole; do not split, crush, or chew.
-The medication in diltiazem tablets is formulated to slowly release.
+30 mg – Diltiazem tablets may be swallowed whole, crushed, or chewed.
+Do not split diltiazem tablets.
+
+60 mg, 90 mg, and 120 mg – Diltiazem tablets may be swallowed whole, crushed, or chewed.

@@ -7,7 +7,7 @@ The oral LD50 in dogs is considered to be in excess of 50 mg/kg, while lethality
 The toxic dose in man is not known.
 Due to extensive metabolism, blood levels after a standard dose of diltiazem can vary over tenfold, limiting the usefulness of blood levels in overdose cases.
 
-There have been reports of diltiazem overdose in amounts ranging from < 1 g to 18 g. Of cases with known outcome, most patients recovered and in cases with a fatal outcome, the majority involved multiple drug ingestion.
+There have been reports of diltiazem overdose in amounts ranging from <1 g to 18 g. Of cases with known outcome, most patients recovered and in cases with a fatal outcome, the majority involved multiple drug ingestion.
 
 Events observed following diltiazem overdose included bradycardia, hypotension, heart block, and cardiac failure.
 Most reports of overdose described some supportive medical measure and/or drug treatment.
@@ -27,7 +27,7 @@ Diltiazem does not appear to be removed by peritoneal or hemodialysis.
 Limited data suggest that plasmapheresis or charcoal hemoperfusion may hasten diltiazem elimination following overdose.
 Based on the known pharmacological effects of diltiazem and/or reported clinical experiences, the following measures may be considered:
 
-Bradycardia: Administer atropine (0.6 to 1 mg).
+Bradycardia: Administer atropine (0.60 to 1.0 mg).
 If there is no response to vagal blockade, administer isoproterenol cautiously.
 
 High-Degree AV Block: Treat as for bradycardia above.

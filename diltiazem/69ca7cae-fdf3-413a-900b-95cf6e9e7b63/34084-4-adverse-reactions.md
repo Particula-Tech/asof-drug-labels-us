@@ -13,7 +13,7 @@ Cardiovascular: Angina, arrhythmia, AV block (first-degree), AV block (second- o
 
 Nervous System: Abnormal dreams, amnesia, depression, gait abnormality, hallucinations, insomnia, nervousness, paresthesia, personality change, somnolence, tremor
 
-Gastrointestinal: Anorexia, constipation, diarrhea, dysgeusia, dyspepsia, mild elevations of alkaline phosphatase, SGOT, SGPT, and LDH (see WARNINGS, Acute Hepatic Injury), thirst, vomiting, weight increase
+Gastrointestinal: Anorexia, constipation, diarrhea, dysgeusia, dyspepsia, mild elevations of alkaline phosphatase, SGOT, SGPT, and LDH (see WARNINGS, Acute Hepatic Injury), thirst, vomiting, weight increase.
 
 Dermatological: Petechiae, photosensitivity, pruritus, urticaria
 
@@ -25,4 +25,4 @@ In addition, events such as myocardial infarction have been observed, which are 
 A definitive cause and effect relationship between these events and diltiazem therapy cannot yet be established.
 Exfoliative dermatitis (proven by rechallenge) has also been reported.
 
-To report SUSPECTED ADVERSE REACTIONS, contact TEVA USA, PHARMACOVIGILANCE at 1-866-832-8537 or FDA at 1-800-FDA-1088 or www.fda.gov/medwatch.
+To report SUSPECTED ADVERSE REACTIONS, contact Teva Pharmaceuticals USA, Inc. at 1-888-838-2872 or FDA at 1-800-FDA-1088 or www.fda.gov/medwatch.
