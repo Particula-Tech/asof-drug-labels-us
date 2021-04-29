@@ -1,6 +1,6 @@
 # 12 CLINICAL PHARMACOLOGY
 
-## 12.1 MECHANISM OF ACTION
+## 12.1 Mechanism of Action
 
 Angiotensin II is a potent vasoconstrictor formed from angiotensin I in a reaction catalyzed by angiotensin-converting enzyme (ACE, kininase II).
 Angiotensin II is the primary vasoactive hormone of the renin-angiotensin system, and an important component in the pathophysiology of hypertension.
@@ -14,7 +14,7 @@ Blockade of the AT1 receptor removes the negative feedback of angiotensin II on 
 
 Irbesartan does not inhibit ACE or renin or affect other hormone receptors or ion channels known to be involved in the cardiovascular regulation of blood pressure and sodium homeostasis.
 
-## 12.2 PHARMACODYNAMICS
+## 12.2 Pharmacodynamics
 
 In healthy subjects, single oral irbesartan doses of up to 300 mg produced dose-dependent inhibition of the pressor effect of angiotensin II infusions.
 Inhibition was complete (100%) 4 hours following oral doses of 150 mg or 300 mg and partial inhibition was sustained for 24 hours (60% and 40% at 300 mg and 150 mg, respectively).
@@ -26,7 +26,7 @@ In hypertensive patients, chronic oral doses of irbesartan (up to 300 mg) had no
 In multiple dose studies in hypertensive patients, there were no clinically important effects on fasting triglycerides, total cholesterol, HDL-cholesterol, or fasting glucose concentrations.
 There was no effect on serum uric acid during chronic oral administration, and no uricosuric effect.
 
-## 12.3 PHARMACOKINETICS
+## 12.3 Pharmacokinetics
 
 Absorption
 
@@ -79,17 +79,17 @@ Geriatrics:
 In elderly subjects (age 65 to 80 years), irbesartan elimination half-life is not significantly altered, but AUC and Cmax values are about 20% to 50% greater than those of young subjects (age 18 to 40 years).
 No dosage adjustment is necessary in the elderly.
 
-Race/Ethnicity:
+Race/ethnicity:
 
 In healthy black subjects, irbesartan AUC values are approximately 25% greater than whites; there is no difference in Cmax values.
 
-Renal Impairment:
+Renal impairment:
 
 The pharmacokinetics of irbesartan is not altered in patients with renal impairment or in patients on hemodialysis.
 Irbesartan is not removed by hemodialysis.
 No dosage adjustment is necessary in patients with mild to severe renal impairment unless a patient with renal impairment is also volume depleted [see WARNINGS AND PRECAUTIONS (5.2) and DOSAGE AND ADMINISTRATION (2.4)].
 
-Hepatic Insufficiency:
+Hepatic insufficiency:
 
 The pharmacokinetics of irbesartan following repeated oral administration are not significantly affected in patients with mild to moderate cirrhosis of the liver.
 No dosage adjustment is necessary in patients with hepatic insufficiency.
