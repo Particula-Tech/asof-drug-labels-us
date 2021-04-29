@@ -91,3 +91,6 @@ The hazard ratio for overall survival was 0.76 (95% CI: 0.52, 1.11) in the 71 pa
 
 Of the 320 patients who received OPDIVO in combination with cabozantinib in CHECKMATE-9ER (renal cell carcinoma), 41% were 65 years or older and 9% were 75 years or older.
 No overall difference in safety was reported between elderly patients and younger patients.
+
+Of the 1581 patients randomized to OPDIVO 240 mg every 2 weeks or 360 mg every 3 weeks administered in combination with fluoropyrimidine- and platinum-containing chemotherapy in CHECKMATE-649 (GC, GEJC, or EAC), 39% were 65 years or older and 10% were 75 years or older.
+No overall difference in safety was reported between elderly patients and younger patients.

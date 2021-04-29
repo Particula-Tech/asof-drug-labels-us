@@ -1279,6 +1279,92 @@ Table 36: Laboratory Abnormalities Worsening from Baselinea Occurring in ≥10% 
 | Leukopenia | 11 | 0.5 | 79 | 45 |  |  |  |  |  |
 | a Each test incidence is based on the number of patients who had both baseline and at least one on-study laboratory measurement available: OPDIVO group (209 patients) and Docetaxel or Paclitaxel group (range: 207 to 208 patients). |  |  |  |  |  |  |  |  |  |
 
+### Gastric Cancer, Gastroesophageal Junction Cancer, and Esophageal Adenocarcinoma
+
+The safety of OPDIVO in combination with chemotherapy was evaluated in CHECKMATE-649, a randomized, multicenter, open-label trial in patients with previously untreated advanced or metastatic gastric cancer, gastroesophageal junction cancer, and esophageal adenocarcinoma [see Clinical Studies (14.12)].
+The trial excluded patients who were known human epidermal growth factor receptor 2 (HER2) positive, or had untreated CNS metastases.
+Patients were randomized to receive OPDIVO in combination with chemotherapy or chemotherapy.
+Patients received one of the following treatments:
+
+- •OPDIVO 240 mg in combination with mFOLFOX6 (fluorouracil, leucovorin and oxaliplatin) every 2 weeks or mFOLFOX6 every 2 weeks.
+- •OPDIVO 360 mg in combination with CapeOX (capecitabine and oxaliplatin) every 3 weeks or CapeOX every 3 weeks.
+
+Patients were treated with OPDIVO in combination with chemotherapy or chemotherapy until disease progression, unacceptable toxicity, or up to 2 years.
+The median duration of exposure was 6.8 months (range: 0 to 33.5 months) in OPDIVO and chemotherapy-treated patients.
+Among patients who received OPDIVO and chemotherapy, 54% were exposed for >6 months and 28% were exposed for >1 year.
+
+Fatal adverse reactions occurred in 16 (2.0%) patients who were treated with OPDIVO in combination with chemotherapy; these included pneumonitis (4 patients), febrile neutropenia (2 patients), stroke (2 patients), gastrointestinal toxicity, intestinal mucositis, septic shock, pneumonia, infection, gastrointestinal bleeding, mesenteric vessel thrombosis, and disseminated intravascular coagulation.
+Serious adverse reactions occurred in 52% of patients treated with OPDIVO in combination with chemotherapy.
+OPDIVO and/or chemotherapy were discontinued in 44% of patients and at least one dose was withheld in 76% of patients due to an adverse reaction.
+
+The most frequent serious adverse reactions reported in ≥2% of patients treated with OPDIVO in combination with chemotherapy were vomiting (3.7%), pneumonia (3.6%), anemia (3.6%), pyrexia (2.8%), diarrhea (2.7%), febrile neutropenia (2.6%), and pneumonitis (2.4%).
+The most common adverse reactions reported in ≥20% of patients treated with OPDIVO in combination with chemotherapy were peripheral neuropathy, nausea, fatigue, diarrhea, vomiting, decreased appetite, abdominal pain, constipation, and musculoskeletal pain.
+
+Tables 37 and 38 summarize the adverse reactions and laboratory abnormalities, respectively, in CHECKMATE-649.
+
+Table 37: Adverse Reactions in ≥10% of Patients Receiving OPDIVO and Chemotherapy - CHECKMATE-649
+
+| Adverse Reaction | OPDIVO and mFOLFOX6 or CapeOX(n=782) |  | mFOLFOX6 or CapeOX (n=767) |  |
+| --- | --- | --- | --- | --- |
+| All Grades (%) | Grades 3-4 (%) | All Grades (%) | Grades 3-4 (%) |  |
+| Adverse Reaction | 99 | 69 | 98 | 59 |
+| Nervous System |  |  |  |  |
+| Peripheral neuropathya | 53 | 7 | 46 | 4.8 |
+| Headache | 11 | 0.8 | 6 | 0.3 |
+| Gastrointestinal |  |  |  |  |
+| Nausea | 48 | 3.2 | 44 | 3.7 |
+| Diarrhea | 39 | 5 | 34 | 3.7 |
+| Vomiting | 31 | 4.2 | 29 | 4.2 |
+| Abdominal painb | 27 | 2.8 | 24 | 2.6 |
+| Constipation | 25 | 0.6 | 21 | 0.4 |
+| Stomatitisc | 17 | 1.8 | 13 | 0.8 |
+| General |  |  |  |  |
+| Fatigued | 44 | 7 | 40 | 5 |
+| Pyrexiae | 19 | 1.0 | 11 | 0.4 |
+| Edemaf | 12 | 0.5 | 8 | 0.1 |
+| Metabolism and Nutrition |  |  |  |  |
+| Decreased appetite | 29 | 3.6 | 26 | 2.5 |
+| Hypoalbuminemiag | 14 | 0.3 | 9 | 0.3 |
+| Investigations |  |  |  |  |
+| Weight decreased | 17 | 1.3 | 15 | 0.7 |
+| Increased lipase | 14 | 7 | 8 | 3.7 |
+| Increased amylase | 12 | 3.1 | 5 | 0.4 |
+| Musculoskeletal and Connective Tissue |  |  |  |  |
+| Musculoskeletal painh | 20 | 1.3 | 14 | 2.0 |
+| Skin and Subcutaneous Tissue |  |  |  |  |
+| Rashi | 18 | 1.7 | 4.4 | 0.1 |
+| Palmar-plantar erythrodysesthesia syndrome | 13 | 1.5 | 12 | 0.8 |
+| Respiratory, Thoracic and Mediastinal |  |  |  |  |
+| Coughj | 13 | 0.1 | 9 | 0 |
+| Infections and Infestations |  |  |  |  |
+| Upper respiratory tract infectionk | 10 | 0.1 | 7 | 0.1 |
+| Toxicity was graded per NCI CTCAE v4. a Includes dysaesthesia, hypoaesthesia, peripheral motor neuropathy, peripheral sensorimotor neuropathy, and peripheral sensory neuropathy. b Includes abdominal discomfort, abdominal pain lower, and abdominal pain upper. c Includes aphthous ulcer, mouth ulceration, and mucosal inflammation. d Includes asthenia. e Includes tumor associated fever. f Includes swelling, generalized edema, edema peripheral, and peripheral swelling. g Includes blood albumin decreased. h Includes back pain, bone pain, musculoskeletal chest pain, musculoskeletal discomfort, myalgia, neck pain, pain in extremity, and spinal pain. i Includes dermatitis, dermatitis acneiform, dermatitis allergic, dermatitis bullous, drug eruption, exfoliative rash, nodular rash, rash erythematous, rash macular, rash maculo-papular, rash papular, rash pruritic, and rash vesicular. j Includes productive cough. k Includes nasopharyngitis, pharyngitis, and rhinitis. |  |  |  |  |
+
+Table 38: Laboratory Values Worsening from Baselinea Occurring in ≥10% of Patients - CHECKMATE-649
+
+| Laboratory Abnormality | OPDIVO and mFOLFOX6 or CapeOX (n=782) |  | mFOLFOX6 or CapeOX (n=767) |  |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Grades 1-4 (%) | Grades 3-4 (%) | Grades 1-4 (%) | Grades 3-4 (%) |  |  |  |  |  |  |
+| Hematology |  |  |  |  |  |  |  |  |  |
+| Neutropenia | 73 | 29 | 62 | 23 |  |  |  |  |  |
+| Leukopenia | 69 | 12 | 59 | 9 |  |  |  |  |  |
+| Thrombocytopenia | 68 | 7 | 63 | 4.4 |  |  |  |  |  |
+| Anemia | 59 | 14 | 60 | 10 |  |  |  |  |  |
+| Lymphopenia | 59 | 12 | 49 | 9 |  |  |  |  |  |
+| Chemistry |  |  |  |  |  |  |  |  |  |
+| Increased AST | 52 | 4.6 | 47 | 1.9 |  |  |  |  |  |
+| Hypocalcemia | 42 | 1.6 | 37 | 1.0 |  |  |  |  |  |
+| Hyperglycemia | 41 | 3.9 | 38 | 2.7 |  |  |  |  |  |
+| Increased ALT | 37 | 3.4 | 30 | 1.9 |  |  |  |  |  |
+| Hyponatremia | 34 | 6 | 24 | 5 |  |  |  |  |  |
+| Hypokalemia | 27 | 7 | 24 | 4.8 |  |  |  |  |  |
+| Hyperbilirubinemia | 24 | 2.8 | 21 | 2.0 |  |  |  |  |  |
+| Increased creatinine | 15 | 1.0 | 9 | 0.5 |  |  |  |  |  |
+| Hyperkalemia | 14 | 1.4 | 11 | 0.7 |  |  |  |  |  |
+| Hypoglycemia | 12 | 0.7 | 9 | 0.2 |  |  |  |  |  |
+| Hypernatremia | 11 | 0.5 | 7.1 | 0 |  |  |  |  |  |
+| a Each test incidence is based on the number of patients who had both baseline and at least one on-study laboratory measurement available: OPDIVO and mFOLFOX6 or CapeOX group (407 to 767 patients) or mFOLFOX6 or CapeOX group (range: 405 to 735 patients). |  |  |  |  |  |  |  |  |  |
+
 ## 6.2 Immunogenicity
 
 As with all therapeutic proteins, there is a potential for immunogenicity.
@@ -1292,7 +1378,7 @@ There was no evidence of altered pharmacokinetic profile or increased incidence 
 Of the patients with melanoma, advanced renal cell carcinoma, metastatic colorectal cancer, metastatic or recurrent non-small cell lung cancer, and malignant pleural mesothelioma who were treated with OPDIVO and ipilimumab and evaluable for the presence of anti-nivolumab antibodies, the incidence of anti-nivolumab antibodies was 26% (132/516) with OPDIVO 3 mg/kg followed by ipilimumab 1 mg/kg every 3 weeks, 36.7% (180/491) and 25.7% (69/269) with OPDIVO 3 mg/kg every 2 weeks and ipilimumab 1 mg every 6 weeks in non-small cell lung cancer and malignant pleural mesothelioma patients, respectively, and 38% (149/394) with OPDIVO 1 mg/kg followed by ipilimumab 3 mg/kg every 3 weeks.
 The incidence of neutralizing antibodies against nivolumab was 0.8% (4/516) with OPDIVO 3 mg/kg followed by ipilimumab 1 mg/kg every 3 weeks, 1.4% (7/491) and 0.7% (2/269) with OPDIVO 3 mg/kg every 2 weeks and ipilimumab 1 mg every 6 weeks in non-small cell lung cancer and malignant pleural mesothelioma patients, respectively, and 4.6% (18/394) with OPDIVO 1 mg/kg followed by ipilimumab 3 mg/kg every 3 weeks.
 
-Of the patients with hepatocellular carcinoma who were treated with OPDIVO and ipilimumab every 3 weeks for 4 doses followed by OPDIVO every 3 weeks and were evaluable for the presence of anti-nivolumab antibodies, the incidence of anti-nivolumab antibodies was 45% (20/44) with OPDIVO 3 mg/kg followed by ipilimumab 1 mg/kg and 56% (27/48) with OPDIVO 1 mg/kg followed by ipilimumab 3 mg/kg; the corresponding incidence of neutralizing antibodies against nivolumab was 14% (6/44) and 23% (11/48), respectively.
+Of the patients with hepatocellular carcinoma who were treated with OPDIVO and ipilimumab every 3 weeks for 4 doses followed by OPDIVO every 2 weeks and were evaluable for the presence of anti-nivolumab antibodies, the incidence of anti-nivolumab antibodies was 45% (20/44) with OPDIVO 3 mg/kg followed by ipilimumab 1 mg/kg and 56% (27/48) with OPDIVO 1 mg/kg followed by ipilimumab 3 mg/kg; the corresponding incidence of neutralizing antibodies against nivolumab was 14% (6/44) and 23% (11/48), respectively.
 
 Of the patients with NSCLC who were treated with OPDIVO 360 mg every 3 weeks in combination with ipilimumab 1 mg/kg every 6 weeks and platinum-doublet chemotherapy, and were evaluable for the presence of anti-nivolumab antibodies, the incidence of anti-nivolumab antibodies was 34% (104/308); the incidence of neutralizing antibodies against nivolumab was 2.6% (8/308).
 

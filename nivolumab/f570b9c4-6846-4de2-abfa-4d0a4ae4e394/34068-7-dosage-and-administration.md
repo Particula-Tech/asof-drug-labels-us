@@ -48,6 +48,7 @@ Table 2: Recommended Dosages of OPDIVO in Combination with Other Therapeutic Age
 | Pediatric patients age 12 years and older and weighing less than 40 kg:3 mg/kg every 2 weeks(30-minute intravenous infusion) |  |  |
 | Hepatocellular carcinoma | 1 mg/kg every 3 weeks(30-minute intravenous infusion)with ipilimumab 3 mg/kg intravenouslyover 30 minutes on the same day | In combination with ipilimumab for 4 doses |
 | 240 mg every 2 weeks(30-minute intravenous infusion)or480 mg every 4 weeks(30-minute intravenous infusion) | After completing 4 doses of combination therapy, administer as single agent until disease progression or unacceptable toxicity |  |
+| Gastric cancer, Gastroesophageal junction cancer, and Esophageal adenocarcinoma | 240 mg every 2 weeks(30-minute intravenous infusion)with fluoropyrimidine- and platinum-containing chemotherapy every 2 weeksor360 mg every 3 weeks(30-minute intravenous infusion)with fluoropyrimidine- and platinum-containing chemotherapy every 3 weeks | Until disease progression, unacceptable toxicity, or up to 2 years |
 
 ## 2.3 Dose Modifications
 
@@ -61,43 +62,43 @@ When OPDIVO is administered in combination with ipilimumab, withhold or permanen
 
 Table 3: Recommended Dosage Modifications for Adverse Reactions
 
-| Adverse Reaction | Severity | Dosage Modification |  |
-| --- | --- | --- | --- |
-| Immune-Mediated Adverse Reactions [see Warnings and Precautions (5.1)] |  |  |  |
-| Pneumonitis | Grade 2 | Withholda |  |
-| Grades 3 or 4 | Permanently discontinue |  |  |
-| Colitis For colitis in patients treated with combination therapy with ipilimumab, see Table 4. | Grade 2 or 3 | Withholda |  |
-| Grade 4 | Permanently discontinue |  |  |
-| Hepatitis with no tumor involvement of the liver For liver enzyme elevations in patients treated with combination therapy with ipilimumab, see Table 4. | AST/ALT increases to >3 and ≤8 times ULN or Total bilirubin increases to >1.5 and ≤3 times ULN. | Withholda |  |
-| AST or ALT increases to >8 times ULN or Total bilirubin increases to >3 times ULN. | Permanently discontinue |  |  |
-| Hepatitis with tumor involvement of the liverb For liver enzyme elevations in patients treated with combination therapy with ipilimumab, see Table 4. | Baseline AST/ALT is >1 and ≤3 times ULN and increases to >5 and ≤10 times ULNorBaseline AST/ALT is >3 and ≤5 times ULN and increases to >8 and ≤10 times ULN. | Withholda |  |
-| AST/ALT increases to >10 times ULN or Total bilirubin increases to >3 times ULN. | Permanently discontinue |  |  |
-| Endocrinopathiesc | Grade 3 or 4 | Withhold until clinically stable or permanently discontinue depending on severity |  |
-| Nephritis with Renal Dysfunction | Grade 2 or 3 increased blood creatinine | Withholda |  |
-| Grade 4 increased blood creatinine | Permanently discontinue |  |  |
-| Exfoliative Dermatologic Conditions | Suspected SJS, TEN, or DRESS | Withhold |  |
-| Confirmed SJS, TEN, or DRESS | Permanently discontinue |  |  |
-| Myocarditis | Grades 2, 3, or 4 | Permanently discontinue |  |
-| Neurological Toxicities | Grade 2 | Withholda |  |
-| Grade 3 or 4 | Permanently discontinue |  |  |
-| Other Adverse Reactions |  |  |  |
-| Infusion-Related Reactions[see Warnings and Precautions (5.2)] | Grade 1 or 2 | Interrupt or slow the rate of infusion |  |
-| Grade 3 or 4 | Permanently discontinue |  |  |
-| a Resume in patients with complete or partial resolution (Grade 0 to 1) after corticosteroid taper. Permanently discontinue if no complete or partial resolution within 12 weeks of last dose or inability to reduce prednisone to 10 mg per day (or equivalent) or less within 12 weeks of initiating steroids. b If AST and ALT are less than or equal to ULN at baseline, withhold or permanently discontinue OPDIVO based on recommendations for hepatitis with no liver involvement. c Depending on clinical severity, consider withholding for Grade 2 endocrinopathy until symptom improvement with hormone replacement. Resume once acute symptoms have resolved. ALT = alanine aminotransferase, AST = aspartate aminotransferase, DRESS = Drug Rash with Eosinophilia and Systemic Symptoms, SJS = Stevens Johnson Syndrome, TEN = toxic epidermal necrolysis, ULN = upper limit normal |  |  |  |
+| Adverse Reaction | Severity | Dosage Modification |
+| --- | --- | --- |
+| Immune-Mediated Adverse Reactions [see Warnings and Precautions (5.1)] |  |  |
+| Pneumonitis | Grade 2 | Withholda |
+| Grades 3 or 4 | Permanently discontinue |  |
+| Colitis For colitis in patients treated with combination therapy with ipilimumab, see Table 4. | Grade 2 or 3 | Withholda |
+| Grade 4 | Permanently discontinue |  |
+| Hepatitis with no tumor involvement of the liver For liver enzyme elevations in patients treated with combination therapy with ipilimumab, see Table 4. | AST/ALT increases to >3 and ≤8 times ULN or Total bilirubin increases to >1.5 and ≤3 times ULN. | Withholda |
+| AST or ALT increases to >8 times ULN or Total bilirubin increases to >3 times ULN. | Permanently discontinue |  |
+| Hepatitis with tumor involvement of the liverb For liver enzyme elevations in patients treated with combination therapy with ipilimumab, see Table 4. | Baseline AST/ALT is >1 and ≤3 times ULN and increases to >5 and ≤10 times ULNorBaseline AST/ALT is >3 and ≤5 times ULN and increases to >8 and ≤10 times ULN. | Withholda |
+| AST/ALT increases to >10 times ULN or Total bilirubin increases to >3 times ULN. | Permanently discontinue |  |
+| Endocrinopathiesc | Grade 3 or 4 | Withhold until clinically stable or permanently discontinue depending on severity |
+| Nephritis with Renal Dysfunction | Grade 2 or 3 increased blood creatinine | Withholda |
+| Grade 4 increased blood creatinine | Permanently discontinue |  |
+| Exfoliative Dermatologic Conditions | Suspected SJS, TEN, or DRESS | Withhold |
+| Confirmed SJS, TEN, or DRESS | Permanently discontinue |  |
+| Myocarditis | Grades 2, 3, or 4 | Permanently discontinue |
+| Neurological Toxicities | Grade 2 | Withholda |
+| Grade 3 or 4 | Permanently discontinue |  |
+| Other Adverse Reactions |  |  |
+| Infusion-Related Reactions[see Warnings and Precautions (5.2)] | Grade 1 or 2 | Interrupt or slow the rate of infusion |
+| Grade 3 or 4 | Permanently discontinue |  |
+| a Resume in patients with complete or partial resolution (Grade 0 to 1) after corticosteroid taper. Permanently discontinue if no complete or partial resolution within 12 weeks of last dose or inability to reduce prednisone to 10 mg per day (or equivalent) or less within 12 weeks of initiating steroids. b If AST and ALT are less than or equal to ULN at baseline, withhold or permanently discontinue OPDIVO based on recommendations for hepatitis with no liver involvement. c Depending on clinical severity, consider withholding for Grade 2 endocrinopathy until symptom improvement with hormone replacement. Resume once acute symptoms have resolved. ALT = alanine aminotransferase, AST = aspartate aminotransferase, DRESS = Drug Rash with Eosinophilia and Systemic Symptoms, SJS = Stevens Johnson Syndrome, TEN = toxic epidermal necrolysis, ULN = upper limit normal |  |  |
 
 Table 4: Recommended Dosage Modifications for Adverse Reactions in Patients Treated with Combination Therapy
 
-| Treatment | Adverse Reaction | Severity | Dosage Modification |  |  |  |  |
-| --- | --- | --- | --- | --- | --- | --- | --- |
-| OPDIVO in combination with ipilimumab | Colitis | Grade 2 | Withholda |  |  |  |  |
-| Grade 3 or 4 | Permanently discontinue |  |  |  |  |  |  |
-| Hepatitis with no tumor involvement of the liver or Hepatitis with tumor involvement of the liver/non-HCC | AST/ALT increases to >3 times ULN and ≤5 times ULN orTotal bilirubin increases to ≥1.5 and ≤3 times ULN. | Withholda |  |  |  |  |  |
-| AST or ALT >5 times ULN orTotal bilirubin >3 times ULN. | Permanently discontinue |  |  |  |  |  |  |
-| Hepatitis with tumor involvement of the liverb/HCC | Baseline AST/ALT is >1 and ≤3 times ULN and increases to >5 and ≤10 times ULNorBaseline AST/ALT is >3 and ≤5 times ULN and increases to >8 and ≤10 times ULN. | Withholda |  |  |  |  |  |
-| AST/ALT increases to >10 times ULN orTotal bilirubin increases to >3 times ULN. | Permanently discontinue |  |  |  |  |  |  |
-| OPDIVO in combination with cabozantinib | Liver enzyme elevations | ALT or AST >3 times ULN but ≤10 times ULN with concurrent total bilirubin <2 times ULN | Withholdc both OPDIVO and cabozantinib until adverse reactions recoverd to Grades 0-1 |  |  |  |  |
-| ALT or AST >10 times ULN or >3 times ULN with concurrent total bilirubin ≥2 times ULN | Permanently discontinuec both OPDIVO and cabozantinib |  |  |  |  |  |  |
-| a Resume in patients with complete or partial resolution (Grade 0 to 1) after corticosteroid taper. Permanently discontinue if no complete or partial resolution within 12 weeks of last dose or inability to reduce prednisone to 10 mg per day (or equivalent) or less within 12 weeks of initiating steroids. b If AST and ALT are less than or equal to ULN at baseline, withhold or permanently discontinue OPDIVO in combination with ipilimumab based on recommendations for hepatitis with no liver involvement. c Consider corticosteroid therapy for hepatic adverse reactions if OPDIVO is withheld or discontinued when administered in combination with cabozantinib. d After recovery, rechallenge with one or both of OPDIVO and cabozantinib may be considered. If rechallenging with cabozantinib with or without OPDIVO, refer to cabozantinib Prescribing Information. |  |  |  |  |  |  |  |
+| Treatment | Adverse Reaction | Severity | Dosage Modification |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- |
+| OPDIVO in combination with ipilimumab | Colitis | Grade 2 | Withholda |  |  |  |
+| Grade 3 or 4 | Permanently discontinue |  |  |  |  |  |
+| Hepatitis with no tumor involvement of the liver or Hepatitis with tumor involvement of the liver/non-HCC | AST/ALT increases to >3 times ULN and ≤5 times ULN orTotal bilirubin increases to ≥1.5 and ≤3 times ULN. | Withholda |  |  |  |  |
+| AST or ALT >5 times ULN orTotal bilirubin >3 times ULN. | Permanently discontinue |  |  |  |  |  |
+| Hepatitis with tumor involvement of the liverb/HCC | Baseline AST/ALT is >1 and ≤3 times ULN and increases to >5 and ≤10 times ULNorBaseline AST/ALT is >3 and ≤5 times ULN and increases to >8 and ≤10 times ULN. | Withholda |  |  |  |  |
+| AST/ALT increases to >10 times ULN orTotal bilirubin increases to >3 times ULN. | Permanently discontinue |  |  |  |  |  |
+| OPDIVO in combination with cabozantinib | Liver enzyme elevations | ALT or AST >3 times ULN but ≤10 times ULN with concurrent total bilirubin <2 times ULN | Withholdc both OPDIVO and cabozantinib until adverse reactions recoverd to Grades 0-1 |  |  |  |
+| ALT or AST >10 times ULN or >3 times ULN with concurrent total bilirubin ≥2 times ULN | Permanently discontinuec both OPDIVO and cabozantinib |  |  |  |  |  |
+| a Resume in patients with complete or partial resolution (Grade 0 to 1) after corticosteroid taper. Permanently discontinue if no complete or partial resolution within 12 weeks of last dose or inability to reduce prednisone to 10 mg per day (or equivalent) or less within 12 weeks of initiating steroids. b If AST and ALT are less than or equal to ULN at baseline, withhold or permanently discontinue OPDIVO in combination with ipilimumab based on recommendations for hepatitis with no liver involvement. c Consider corticosteroid therapy for hepatic adverse reactions if OPDIVO is withheld or discontinued when administered in combination with cabozantinib. d After recovery, rechallenge with one or both of OPDIVO and cabozantinib may be considered. If rechallenging with cabozantinib with or without OPDIVO, refer to cabozantinib Prescribing Information. |  |  |  |  |  |  |
 
 ## 2.4 Preparation and Administration
 
@@ -128,6 +129,7 @@ Do not shake.
   - oWith ipilimumab: administer OPDIVO first followed by ipilimumab on the same day.
   - oWith platinum-doublet chemotherapy: administer OPDIVO first followed by platinum-doublet chemotherapy on the same day
   - oWith ipilimumab and platinum-doublet chemotherapy: administer OPDIVO first followed by ipilimumab and then platinum-doublet chemotherapy on the same day.
+  - oWith fluoropyrimidine- and platinum-containing chemotherapy: administer OPDIVO first followed by fluoropyrimidine- and platinum-containing chemotherapy on the same day.
 - •Use separate infusion bags and filters for each infusion.
 - •Flush the intravenous line at end of infusion.
 - •Do not co-administer other drugs through the same intravenous line.

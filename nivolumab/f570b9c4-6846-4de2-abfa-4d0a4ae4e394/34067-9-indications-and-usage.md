@@ -65,3 +65,7 @@ Continued approval for this indication may be contingent upon verification and d
 ## 1.11 Esophageal Squamous Cell Carcinoma
 
 OPDIVO is indicated for the treatment of patients with unresectable advanced, recurrent or metastatic esophageal squamous cell carcinoma (ESCC) after prior fluoropyrimidine- and platinum-based chemotherapy.
+
+## 1.12 Gastric Cancer, Gastroesophageal Junction Cancer, and Esophageal Adenocarcinoma
+
+OPDIVO, in combination with fluoropyrimidine- and platinum-containing chemotherapy, is indicated for the treatment of patients with advanced or metastatic gastric cancer, gastroesophageal junction cancer, and esophageal adenocarcinoma.
