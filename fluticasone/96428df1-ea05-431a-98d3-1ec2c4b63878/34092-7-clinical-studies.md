@@ -56,10 +56,8 @@ Least Squares Mean Change from Baseline in Weighted Mean FEV1 (0-4 h) and Trough
 | BREO ELLIPTA 200/25 | 205 | 209(157, 261) | –– | 168(117, 219) | 131(80, 183) | 32(-19, 83) |
 | Trial 2 |  |  |  |  |  |  |
 | BREO ELLIPTA 100/25 | 206 | 173(123, 224) | 120(70, 170) | –– | 115(60, 169) | 48(-6, 102) |
-
-a At Day 168.
-
-b At Day 169.
+| a At Day 168. |  |  |  |  |  |  |
+| b At Day 169. |  |  |  |  |  |  |
 
 Serial spirometric evaluations were performed predose and up to 4 hours after dosing.
 Results from Trial 1 at Day 1 and Day 168 are shown in Figure 4.
@@ -190,8 +188,6 @@ The results supported the selection of the once-daily dosing frequency (Figure 6
 Figure 6.
 Fluticasone Furoate Dose-Ranging and Dose-Frequency Trials
 
-FF = fluticasone furoate, FP = fluticasone propionate, QD = once daily, BID = twice daily.
-
 Confirmatory Trials
 
 The efficacy of BREO ELLIPTA was evaluated in 4 randomized, double-blind, parallel-group clinical trials in adult and adolescent subjects with asthma.
@@ -215,10 +211,8 @@ Demography of Asthma Trials 1, 2, 3, 5, and 6
 | Mean percent predicted FEV1 at baseline (%) | 70 | 62 | 67 | 72 | 68 |
 | % Reversibility | 29 | 30 | 29 | 24 | 28 |
 | Absolute reversibility (mL) | 614 | 563 | 571 | 500 | 512 |
-
-N/A = Data not collected.
-
-a Trials did not include current smokers; past smokers had fewer than 10 packs per year history.
+| N/A = Data not collected. |  |  |  |  |  |
+| a Trials did not include current smokers; past smokers had fewer than 10 packs per year history. |  |  |  |  |  |
 
 Trials 1, 2, and 3 were 12- or 24-week trials that evaluated the efficacy of BREO ELLIPTA on lung function in subjects with asthma.
 In Trial 1, subjects were randomized to BREO ELLIPTA 100/25, fluticasone furoate 100 mcg, or placebo.
@@ -237,27 +231,26 @@ Other secondary endpoints included change from baseline in percentage of rescue-
 Table 8.
 Change from Baseline in Weighted Mean FEV1 (0-24 h) (mL) and Trough FEV1 (mL) at Study Endpoint (Trials 1, 2, and 3)
 
-| Study (Duration)Background Treatment | n | Weighted Mean FEV1 (0-24 h) (mL) |  |  |  |  |  |
-| --- | --- | --- | --- | --- | --- | --- | --- |
-| Treatment | Difference from |  |  |  |  |  |  |
-| Placebo(95% CI) | Fluticasone Furoate 100 mcg(95% CI) | Fluticasone Furoate 200 mcg(95% CI) |  |  |  |  |  |
-| Trial 1 (12 Weeks)Low- to mid-dose ICS or low-dose ICS + LABA |  |  |  |  |  |  |  |
-| BREO ELLIPTA 100/25 | 108 | 302(178, 426) | 116(-5, 236) | –– |  |  |  |
-| Trial 2 (12 Weeks)Mid- to high-dose ICS or mid-dose ICS + LABA |  |  |  |  |  |  |  |
-| BREO ELLIPTA 100/25 | 312 | –– | 108(45, 171) | –– |  |  |  |
-| Trial 3 (24 Weeks)High-dose ICS or mid-dose ICS + LABA |  |  |  |  |  |  |  |
-| BREO ELLIPTA 200/25 | 89 | –– | –– | 136(1, 270) |  |  |  |
-| Study (Duration)Background Treatment | n | Trough FEV1 (mL) |  |  |  |  |  |
-| Treatment | Difference from |  |  |  |  |  |  |
-| Placebo(95% CI) | Fluticasone Furoate 100 mcg(95% CI) | Fluticasone Furoate 200 mcg(95% CI) |  |  |  |  |  |
-| Trial 1 (12 Weeks)Low- to mid-dose ICS or low-dose ICS + LABA |  |  |  |  |  |  |  |
-| BREO ELLIPTA 100/25 | 200 | 172(87, 258) | 36(-48, 120) | –– |  |  |  |
-| Trial 2 (12 Weeks)Mid- to high-dose ICS or mid-dose ICS + LABA |  |  |  |  |  |  |  |
-| BREO ELLIPTA 100/25 | 334 | –– | 77(16, 138) | –– |  |  |  |
-| Trial 3 (24 Weeks)High-dose ICS or mid-dose ICS + LABA |  |  |  |  |  |  |  |
-| BREO ELLIPTA 200/25 | 187 | –– | –– | 193(108, 277) |  |  |  |
-
-1. ICS = inhaled corticosteroid, LABA = long-acting beta2-adrenergic agonist.
+| Study (Duration)Background Treatment | n | Weighted Mean FEV1 (0-24 h) (mL) |  |  |  |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Treatment | Difference from |  |  |  |  |  |  |  |  |  |
+| Placebo(95% CI) | Fluticasone Furoate 100 mcg(95% CI) | Fluticasone Furoate 200 mcg(95% CI) |  |  |  |  |  |  |  |  |
+| Trial 1 (12 Weeks)Low- to mid-dose ICS or low-dose ICS + LABA |  |  |  |  |  |  |  |  |  |  |
+| BREO ELLIPTA 100/25 | 108 | 302(178, 426) | 116(-5, 236) | –– |  |  |  |  |  |  |
+| Trial 2 (12 Weeks)Mid- to high-dose ICS or mid-dose ICS + LABA |  |  |  |  |  |  |  |  |  |  |
+| BREO ELLIPTA 100/25 | 312 | –– | 108(45, 171) | –– |  |  |  |  |  |  |
+| Trial 3 (24 Weeks)High-dose ICS or mid-dose ICS + LABA |  |  |  |  |  |  |  |  |  |  |
+| BREO ELLIPTA 200/25 | 89 | –– | –– | 136(1, 270) |  |  |  |  |  |  |
+| Study (Duration)Background Treatment | n | Trough FEV1 (mL) |  |  |  |  |  |  |  |  |
+| Treatment | Difference from |  |  |  |  |  |  |  |  |  |
+| Placebo(95% CI) | Fluticasone Furoate 100 mcg(95% CI) | Fluticasone Furoate 200 mcg(95% CI) |  |  |  |  |  |  |  |  |
+| Trial 1 (12 Weeks)Low- to mid-dose ICS or low-dose ICS + LABA |  |  |  |  |  |  |  |  |  |  |
+| BREO ELLIPTA 100/25 | 200 | 172(87, 258) | 36(-48, 120) | –– |  |  |  |  |  |  |
+| Trial 2 (12 Weeks)Mid- to high-dose ICS or mid-dose ICS + LABA |  |  |  |  |  |  |  |  |  |  |
+| BREO ELLIPTA 100/25 | 334 | –– | 77(16, 138) | –– |  |  |  |  |  |  |
+| Trial 3 (24 Weeks)High-dose ICS or mid-dose ICS + LABA |  |  |  |  |  |  |  |  |  |  |
+| BREO ELLIPTA 200/25 | 187 | –– | –– | 193(108, 277) |  |  |  |  |  |  |
+| ICS = inhaled corticosteroid, LABA = long-acting beta2-adrenergic agonist. |  |  |  |  |  |  |  |  |  |  |
 
 In Trial 1, weighted mean FEV1 (0 to 24 hours) was assessed in a subset of subjects (n = 309).
 At Week 12, change from baseline in weighted mean FEV1 (0 to 24 hours) was significantly greater for BREO ELLIPTA 100/25 compared with placebo (302 mL; 95% CI: 178, 426; P<0.001) (Table 8); change from baseline in weighted mean FEV1 (0 to 24 hours) for BREO ELLIPTA 100/25 was numerically greater than fluticasone furoate 100 mcg, but not statistically significant (116 mL; 95% CI: -5, 236).

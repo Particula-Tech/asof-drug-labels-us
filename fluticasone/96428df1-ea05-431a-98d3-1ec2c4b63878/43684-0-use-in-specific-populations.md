@@ -24,7 +24,7 @@ Because of the potential for beta-agonist interference with uterine contractilit
 
 Data
 
-Animal Data:Fluticasone Furoate and Vilanterol: In an embryofetal developmental study, pregnant rats received fluticasone furoate and vilanterol during the period of organogenesis at doses up to approximately 5 and 40 times the MRHDID, respectively, alone or in combination (on a mcg/m2 basis at inhalation doses up to approximately 95 mcg/kg/day).
+Animal Data: Fluticasone Furoate and Vilanterol: In an embryofetal developmental study, pregnant rats received fluticasone furoate and vilanterol during the period of organogenesis at doses up to approximately 5 and 40 times the MRHDID, respectively, alone or in combination (on a mcg/m2 basis at inhalation doses up to approximately 95 mcg/kg/day).
 No evidence of structural abnormalities was observed.
 
 Fluticasone Furoate: In 2 separate embryofetal developmental studies, pregnant rats and rabbits received fluticasone furoate during the period of organogenesis at doses up to approximately 4 and 1 times the MRHDID, respectively (on a mcg/m2 basis at maternal inhalation doses up to 91 and 8 mcg/kg/day).

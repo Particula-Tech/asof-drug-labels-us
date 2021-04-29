@@ -42,8 +42,7 @@ Adverse Reactions with BREO ELLIPTA 100/25 with ≥3% Incidence and More Common 
 | Oropharyngeal candidiasisa | 5 | 2 | 3 | 2 |
 | Nervous system disorders |  |  |  |  |
 | Headache | 7 | 9 | 7 | 5 |
-
-a Includes oral candidiasis, oropharyngeal candidiasis, candidiasis, and fungal oropharyngitis.
+| a Includes oral candidiasis, oropharyngeal candidiasis, candidiasis, and fungal oropharyngitis. |  |  |  |  |
 
 12-Month Trials
 
@@ -86,8 +85,7 @@ Adverse Reactions with BREO ELLIPTA 100/25 with ≥2% Incidence and More Common 
 | Respiratory, thoracic, and mediastinal disorders |  |  |  |
 | Oropharyngeal pain | 2 | 2 | 1 |
 | Dysphonia | 2 | 1 | 0 |
-
-a Includes oral candidiasis and oropharyngeal candidiasis.
+| a Includes oral candidiasis and oropharyngeal candidiasis. |  |  |  |
 
 Trial 2 was a 12-week trial that evaluated the efficacy of BREO ELLIPTA 100/25, BREO ELLIPTA 200/25, and fluticasone furoate 100 mcg in adult and adolescent subjects with asthma.
 This trial did not have a placebo arm.

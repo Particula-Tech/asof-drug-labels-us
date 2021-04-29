@@ -100,10 +100,6 @@ The effect of renal and hepatic impairment and other intrinsic factors on the ph
 Figure 1.
 Impact of Intrinsic Factors on the Pharmacokinetics (PK) of Fluticasone Furoate (FF) and Vilanterol (VI) Following Administration as Fluticasone Furoate/Vilanterol Combination
 
-a Severe renal impairment (CrCl <30 mL/min) compared with healthy subjects; mild (Child-Pugh A), moderate (Child-Pugh B), and severe (Child-Pugh C) hepatic impairment compared with healthy subjects.
-
-b For COPD and asthma, the following comparisons were made: age compared with ≤65 years, gender compared with female, and ethnicity compared with white.
-
 Racial or Ethnic Groups: Systemic exposure [AUC(0-24)] to inhaled fluticasone furoate 200 mcg was 27% to 49% higher in healthy subjects of Japanese, Korean, and Chinese heritage compared with white subjects.
 Similar differences were observed for subjects with COPD or asthma (Figure 1).
 However, there is no evidence that this higher exposure to fluticasone furoate results in clinically relevant effects on urinary cortisol excretion or on efficacy in these racial groups.
@@ -136,8 +132,6 @@ The increase in vilanterol exposure was not associated with an increase in beta-
 
 Figure 2.
 Impact of Coadministered Drugsa on the Pharmacokinetics (PK) of Fluticasone Furoate (FF) and Vilanterol (VI) Following Administration as Fluticasone Furoate/Vilanterol Combination or Vilanterol Coadministered with a Long-acting Muscarinic Antagonist
-
-a Compared with placebo group.
 
 Inhibitors of P-glycoprotein: Fluticasone furoate and vilanterol are both substrates of P-glycoprotein (P-gp).
 Coadministration of repeat-dose (240 mg once daily) verapamil (a potent P-gp inhibitor and moderate CYP3A4 inhibitor) did not affect the vilanterol Cmax or AUC in healthy subjects (Figure 2).
