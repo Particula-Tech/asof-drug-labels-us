@@ -1,4 +1,4 @@
-# 11DESCRIPTION
+# 11 DESCRIPTION
 
 Bevacizumab-awwb is a vascular endothelial growth factor inhibitor.
 Bevacizumab-awwb is a recombinant humanized monoclonal IgG1 antibody that contains human framework regions and murine complementarity-determining regions.

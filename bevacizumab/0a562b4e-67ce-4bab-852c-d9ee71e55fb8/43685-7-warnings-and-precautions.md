@@ -1,4 +1,4 @@
-# 5WARNINGS AND PRECAUTIONS
+# 5 WARNINGS AND PRECAUTIONS
 
 ## 5.1 Gastrointestinal Perforations and Fistulae
 
@@ -20,9 +20,10 @@ Discontinue in patients with fistula formation involving any internal organ.
 In a controlled clinical study in which bevacizumab was not administered within 28 days of major surgical procedures, the incidence of wound healing complications, including serious and fatal complications, was 15% in patients with mCRC who underwent surgery while receiving bevacizumab and 4% in patients who did not receive bevacizumab.
 In a controlled clinical study in patients with relapsed or recurrent GBM, the incidence of wound healing events was 5% in patients who received bevacizumab and 0.7% in patients who did not receive bevacizumab [see Adverse Reactions (6.1)].
 
-Discontinue MVASI in patients with wound healing complications requiring medical intervention.
+In patients who experience wound healing complications during MVASI treatment, withhold MVASI until adequate wound healing.
 Withhold for at least 28 days prior to elective surgery.
-Do not administer for at least 28 days following surgery and until the wound is fully healed.
+Do not administer for at least 28 days following major surgery and until adequate wound healing.
+The safety of resumption of bevacizumab products after resolution of wound healing complications has not been established [see Dosage and Administration (2.7)].
 
 Necrotizing fasciitis including fatal cases, has been reported in patients receiving bevacizumab, usually secondary to wound healing complications, gastrointestinal perforation or fistula formation.
 Discontinue MVASI in patients who develop necrotizing fasciitis.
@@ -63,7 +64,7 @@ Across clinical studies the incidence of Grades 3-4 hypertension ranged from 5% 
 Monitor blood pressure every two to three weeks during treatment with MVASI.
 Treat with appropriate anti-hypertensive therapy and monitor blood pressure regularly.
 Continue to monitor blood pressure at regular intervals in patients with MVASI-induced or -exacerbated hypertension after discontinuing MVASI.
-Withhold MVASI in patients with severe hypertension (such as Grade 3 and above) until controlled with medical management; resume once controlled with medical management.
+Withhold MVASI in patients with severe hypertension that is not controlled with medical management; resume once controlled with medical management.
 Discontinue in patients who develop hypertensive crisis or hypertensive encephalopathy.
 
 ## 5.7 Posterior Reversible Encephalopathy Syndrome
@@ -107,7 +108,7 @@ Data from a postmarketing safety study showed poor correlation between UPCR (Uri
 ## 5.9 Infusion-Related Reactions
 
 Infusion-related reactions reported across clinical studies and postmarketing experience include hypertension, hypertensive crises associated with neurologic signs and symptoms, wheezing, oxygen desaturation, Grade 3 hypersensitivity, chest pain, headaches, rigors, and diaphoresis.
-In clinical studies, infusion-related reactions with the first dose occurred in < 3% of patients and severe reactions occurred in 0.2% of patients.
+In clinical studies, infusion-related reactions with the first dose occurred in < 3% of patients and severe reactions occurred in 0.4% of patients.
 
 Decrease the rate of infusion for mild, clinically insignificant infusion-related reactions.
 Interrupt the infusion in patients with clinically significant infusion-related reactions and consider resuming at a slower rate following resolution.
@@ -129,11 +130,11 @@ Recovery of ovarian function is defined as resumption of menses, a positive seru
 Long-term effects of bevacizumab products on fertility are unknown.
 Inform females of reproductive potential of the risk of ovarian failure prior to initiating MVASI [see Adverse Reactions (6.1), Use in Specific Populations (8.3)].
 
-## 5.12 Congestive Heart Failure (CHF)
+## 5.12 Congestive Heart Failure
 
 MVASI is not indicated for use with anthracycline-based chemotherapy.
 The incidence of Grade ≥ 3 left ventricular dysfunction was 1% in patients receiving bevacizumab compared to 0.6% of patients receiving chemotherapy alone.
-Among patients who received prior anthracycline treatment, the rate of CHF was 4% for patients receiving bevacizumab with chemotherapy as compared to 0.6% for patients receiving chemotherapy alone.
+Among patients who received prior anthracycline treatment, the rate of congestive heart failure (CHF) was 4% for patients receiving bevacizumab with chemotherapy as compared to 0.6% for patients receiving chemotherapy alone.
 
 In previously untreated patients with a hematological malignancy, the incidence of CHF and decline in left-ventricular ejection fraction (LVEF) were increased in patients receiving bevacizumab with anthracycline-based chemotherapy compared to patients receiving placebo with the same chemotherapy regimen.
 The proportion of patients with a decline in LVEF from baseline of ≥ 20% or a decline from baseline of 10% to < 50%, was 10% in patients receiving bevacizumab with chemotherapy compared to 5% in patients receiving chemotherapy alone.

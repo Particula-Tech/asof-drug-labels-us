@@ -1,4 +1,4 @@
-# 8USE IN SPECIFIC POPULATIONS
+# 8 USE IN SPECIFIC POPULATIONS
 
 ## 8.1 Pregnancy
 
@@ -53,7 +53,7 @@ After discontinuing bevacizumab with chemotherapy, recovery of ovarian function 
 ## 8.4 Pediatric Use
 
 The safety and effectiveness of bevacizumab products in pediatric patients have not been established.
-In published literature reports, cases of non-mandibular osteonecrosis have been observed in patients under the age of 18 years who have received bevacizumab.
+In published literature reports, cases of non-mandibular osteonecrosis have been observed in patients under the age of 18 years who received bevacizumab.
 Bevacizumab products are not approved for use in patients under the age of 18 years.
 
 Antitumor activity was not observed among eight pediatric patients with relapsed GBM who received bevacizumab and irinotecan.

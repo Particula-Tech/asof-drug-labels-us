@@ -1,10 +1,10 @@
-# 14CLINICAL STUDIES
+# 14 CLINICAL STUDIES
 
 ## 14.1 Metastatic Colorectal Cancer
 
 Study AVF2107g
 
-The safety and efficacy of Avastin was evaluated in a double-blind, active-controlled study [AVF2107g (NCT00109070)] in 923 patients with previously untreated mCRC who were randomized (1:1:1) to placebo with bolus-IFL (irinotecan 125 mg/m2, fluorouracil 500 mg/m2, and leucovorin 20 mg/m2 given once weekly for 4 weeks every 6 weeks), bevacizumab (5 mg/kg every 2 weeks) with bolus-IFL, or bevacizumab (5 mg/kg every 2 weeks) with fluorouracil and leucovorin.
+The safety and efficacy of bevacizumab was evaluated in a double-blind, active-controlled study [AVF2107g (NCT00109070)] in 923 patients with previously untreated mCRC who were randomized (1:1:1) to placebo with bolus-IFL (irinotecan 125 mg/m2, fluorouracil 500 mg/m2, and leucovorin 20 mg/m2 given once weekly for 4 weeks every 6 weeks), bevacizumab (5 mg/kg every 2 weeks) with bolus-IFL, or bevacizumab (5 mg/kg every 2 weeks) with fluorouracil and leucovorin.
 Enrollment to the bevacizumab with fluorouracil and leucovorin arm was discontinued, after enrollment of 110 patients in accordance with the protocol-specified adaptive design.
 Bevacizumab was continued until disease progression or unacceptable toxicity or for a maximum of 96 weeks.
 The main outcome measure was overall survival (OS).
@@ -22,29 +22,22 @@ Table 5: Efficacy Results in Study AVF2107g
 | Overall Survival |  |  |
 | Median, in months | 20.3 | 15.6 |
 | Hazard ratio (95% CI) | 0.66 (0.54, 0.81) |  |
-| p-valuea | < 0.001 |  |
+| p-valueby stratified log-rank test. | < 0.001 |  |
 | Progression-Free Survival |  |  |
 | Median, in months | 10.6 | 6.2 |
 | Hazard ratio (95% CI) | 0.54 (0.45, 0.66) |  |
-| p-valuea | < 0.001 |  |
+| p-value | < 0.001 |  |
 | Overall Response Rate |  |  |
 | Rate (%) | 45% | 35% |
-| p-valueb | < 0.01 |  |
+| p-valueby χ2 test. | < 0.01 |  |
 | Duration of Response |  |  |
 | Median, in months | 10.4 | 7.1 |
-
-a by stratified log-rank test.
-
-b by χ2 test.
-
-| Figure 1: Kaplan-Meier Curves for Duration of Survival in Metastatic Colorectal Cancer in Study AVF2107g |
-| --- |
 
 Among the 110 patients randomized to bevacizumab with fluorouracil and leucovorin, median OS was 18.3 months, median progression-free survival (PFS) was 8.8 months, overall response rate (ORR) was 39%, and median duration of response was 8.5 months.
 
 Study E3200
 
-The safety and efficacy of Avastin were evaluated in a randomized, open-label, active-controlled study [E3200 (NCT00025337)] in 829 patients who were previously treated with irinotecan and fluorouracil for initial therapy for metastatic disease or as adjuvant therapy.
+The safety and efficacy of bevacizumab were evaluated in a randomized, open-label, active-controlled study [E3200 (NCT00025337)] in 829 patients who were previously treated with irinotecan and fluorouracil for initial therapy for metastatic disease or as adjuvant therapy.
 Patients were randomized (1:1:1) to FOLFOX4 (Day 1: oxaliplatin 85 mg/m2 and leucovorin 200 mg/m2 concurrently, then fluorouracil 400 mg/m2 bolus followed by 600 mg/m2 continuously; Day 2: leucovorin 200 mg/m2, then fluorouracil 400 mg/m2 bolus followed by 600 mg/m2 continuously; every 2 weeks), bevacizumab (10 mg/kg every 2 weeks prior to FOLFOX4 on Day 1) with FOLFOX4, or bevacizumab alone (10 mg/kg every 2 weeks).
 Bevacizumab was continued until disease progression or unacceptable toxicity.
 The main outcome measure was OS.
@@ -60,11 +53,11 @@ Study TRC-0301
 
 The activity of bevacizumab with fluorouracil (as bolus or infusion) and leucovorin was evaluated in a single arm study [TRC-0301 (NCT00066846)] enrolling 339 patients with mCRC with disease progression following both irinotecan- and oxaliplatin-based chemotherapy.
 Seventy-three percent of patients received concurrent bolus fluorouracil and leucovorin.
-One objective partial response was verified in the first 100 evaluable patients for an ORR of 1% (95 % CI: 0%, 5.5%).
+One objective partial response was verified in the first 100 evaluable patients for an ORR of 1% (95% CI: 0%, 5.5%).
 
 Study ML18147
 
-The safety and efficacy of Avastin were evaluated in a prospective, randomized, open-label, multinational, controlled study [ML18147 (NCT00700102)] in 820 patients with histologically confirmed mCRC who had progressed on a first-line bevacizumab-containing regimen.
+The safety and efficacy of bevacizumab were evaluated in a prospective, randomized, open-label, multinational, controlled study [ML18147 (NCT00700102)] in 820 patients with histologically confirmed mCRC who had progressed on a first-line bevacizumab-containing regimen.
 Patients were excluded if they progressed within 3 months of initiating first-line chemotherapy and if they received bevacizumab for less than 3 consecutive months in the first-line setting.
 Patients were randomized (1:1) within 3 months after discontinuing bevacizumab as first-line treatment to receive fluoropyrimidine-irinotecan- or fluoropyrimidine-oxaliplatin-based chemotherapy with or without bevacizumab (5 mg/kg every 2 weeks or 7.5 mg/kg every 3 weeks).
 The choice of second-line treatment was contingent upon first-line chemotherapy.
@@ -83,19 +76,12 @@ Table 6: Efficacy Results in Study ML18147
 
 | Efficacy Parameter | Bevacizumab with Chemotherapy (N = 409) | Chemotherapy (N = 411) |
 | --- | --- | --- |
-| Overall Survivala |  |  |
+| Overall Survivalp = 0.0057 by unstratified log-rank test. |  |  |
 | Median, in months | 11.2 | 9.8 |
 | Hazard ratio (95% CI) | 0.81 (0.69, 0.94) |  |
-| Progression-Free Survivalb |  |  |
+| Progression-Free Survivalp-value < 0.0001 by unstratified log-rank test. |  |  |
 | Median, in months | 5.7 | 4.0 |
 | Hazard ratio (95% CI) | 0.68 (0.59, 0.78) |  |
-
-a p = 0.0057 by unstratified log-rank test.
-
-b p-value < 0.0001 by unstratified log-rank test.
-
-| Figure 2: Kaplan-Meier Curves for Duration of Survival in Metastatic Colorectal Cancer in Study ML18147 |
-| --- |
 
 ## 14.2 Lack of Efficacy in Adjuvant Treatment of Colon Cancer
 
@@ -138,9 +124,6 @@ OS was statistically significantly longer for patients receiving bevacizumab wit
 Median OS was 12.3 months vs. 10.3 months [HR 0.80 (95% CI: 0.68, 0.94), final p-value of 0.013, stratified log-rank test].
 Based on investigator assessment which was not independently verified, patients were reported to have longer PFS with bevacizumab with paclitaxel and carboplatin compared to chemotherapy alone.
 Results are presented in Figure 3.
-
-| Figure 3: Kaplan-Meier Curves for Duration of Survival in First-Line Non-Squamous Non-Small Cell Lung Cancer in Study E4599 |
-| --- |
 
 In an exploratory analysis across patient subgroups, the impact of bevacizumab on OS was less robust in the following subgroups: women [HR 0.99 (95% CI: 0.79, 1.25)], patients ≥ 65 years [HR 0.91 (95% CI: 0.72, 1.14)] and patients with ≥ 5% weight loss at study entry [HR 0.96 (95% CI: 0.73, 1.26)].
 
@@ -187,7 +170,7 @@ In Study NCI 06-C-0064E, the response rate was 19.6% (95% CI: 10.9%, 31.3%) with
 
 Study BO17705
 
-The safety and efficacy of Avastin were evaluated in patients with treatment-naïve mRCC in a multicenter, randomized, double-blind, international study [BO17705 (NCT00738530)] comparing interferon-alfa and bevacizumab versus interferon alfa and placebo.
+The safety and efficacy of bevacizumab were evaluated in patients with treatment-naïve mRCC in a multicenter, randomized, double-blind, international study [BO17705 (NCT00738530)] comparing interferon-alfa and bevacizumab versus interferon alfa and placebo.
 A total of 649 patients who had undergone a nephrectomy were randomized (1:1) to receive either bevacizumab (10 mg/kg every 2 weeks; N = 327) or placebo (every 2 weeks; N = 322) with interferon-alfa (9 MIU subcutaneously three times weekly, for a maximum of 52 weeks).
 Patients were treated until disease progression or unacceptable toxicity.
 The main outcome measure was investigator-assessed PFS.
@@ -201,14 +184,11 @@ Among the 595 patients with measurable disease, ORR was also significantly highe
 There was no improvement in OS based on the final analysis conducted after 444 deaths, with a median OS of 23 months in the patients receiving bevacizumab with interferon-alfa and 21 months in patients receiving interferon alone [HR 0.86, (95% CI: 0.72, 1.04)].
 Results are presented in Figure 4.
 
-| Figure 4: Kaplan-Meier Curves for Progression-Free Survival in Metastatic Renal Cell Carcinoma in Study BO17705 |
-| --- |
-
 ## 14.6 Persistent, Recurrent, or Metastatic Cervical Cancer
 
 Study GOG-0240
 
-The safety and efficacy of Avastin were evaluated in patients with persistent, recurrent, or metastatic cervical cancer in a randomized, four-arm, multicenter study comparing bevacizumab with chemotherapy versus chemotherapy alone [GOG-0240 (NCT00803062)].
+The safety and efficacy of bevacizumab were evaluated in patients with persistent, recurrent, or metastatic cervical cancer in a randomized, four-arm, multicenter study comparing bevacizumab with chemotherapy versus chemotherapy alone [GOG-0240 (NCT00803062)].
 A total of 452 patients were randomized (1:1:1:1) to receive paclitaxel and cisplatin with or without bevacizumab, or paclitaxel and topotecan with or without bevacizumab.
 
 The dosing regimens for bevacizumab, paclitaxel, cisplatin and topotecan were as follows:
@@ -229,21 +209,14 @@ Demographic and disease characteristics were balanced across arms.
 
 Results are presented in Figure 5 and Table 7.
 
-| Figure 5: Kaplan-Meier Curves for Overall Survival in Persistent, Recurrent, or Metastatic Cervical Cancer in Study GOG-0240 |
-| --- |
-
 Table 7: Efficacy Results in Study GOG-0240
 
 | Efficacy Parameter | Bevacizumab with Chemotherapy (N = 227) | Chemotherapy (N = 225) |
 | --- | --- | --- |
 | Overall Survival |  |  |
-| Median, in monthsa | 16.8 | 12.9 |
+| Median, in monthsKaplan-Meier estimates. | 16.8 | 12.9 |
 | Hazard ratio (95% CI) | 0.74 (0.58;0.94) |  |
-| p-valueb | 0.0132 |  |
-
-a Kaplan-Meier estimates.
-
-b log-rank test (stratified).
+| p-valuelog-rank test (stratified). | 0.0132 |  |
 
 The ORR was higher in patients who received bevacizumab with chemotherapy [45% (95% CI: 39, 52)] compared to patients who received chemotherapy alone [34% (95% CI: 28, 40)].
 
@@ -252,11 +225,9 @@ Table 8: Efficacy Results in Study GOG-0240
 | Efficacy Parameter | Topotecan and Paclitaxel with or without Bevacizumab (N = 223) | Cisplatin and Paclitaxel with or without Bevacizumab (N = 229) |
 | --- | --- | --- |
 | Overall Survival |  |  |
-| Median, in monthsa | 13.3 | 15.5 |
+| Median, in monthsKaplan-Meier estimates. | 13.3 | 15.5 |
 | Hazard ratio (95% CI)] | 1.15 (0.91, 1.46) |  |
 | p-value | 0.23 |  |
-
-a Kaplan-Meier estimates.
 
 The HR for OS with bevacizumab with cisplatin and paclitaxel as compared to cisplatin and paclitaxel alone was 0.72 (95% CI: 0.51, 1.02).
 The HR for OS with bevacizumab with topotecan and paclitaxel as compared to topotecan and paclitaxel alone was 0.76 (95% CI: 0.55, 1.06).

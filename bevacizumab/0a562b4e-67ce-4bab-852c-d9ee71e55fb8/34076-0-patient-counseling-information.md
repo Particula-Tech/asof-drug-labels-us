@@ -1,4 +1,4 @@
-# 17PATIENT COUNSELING INFORMATION
+# 17 PATIENT COUNSELING INFORMATION
 
 Gastrointestinal Perforations and Fistulae
 
@@ -8,7 +8,7 @@ Advise patients to immediately contact their health care provider for high fever
 Surgery and Wound Healing Complications
 
 Bevacizumab products can increase the risk of wound healing complications.
-Advise patients that MVASI should not be used for at least 28 days before or after surgery and until surgical wounds are fully healed [see Warnings and Precautions (5.2)].
+Instruct patients not to undergo surgery without first discussing this potential risk with their health care provider [see Warnings and Precautions (5.2)].
 
 Hemorrhage
 
@@ -48,7 +48,7 @@ Advise patients to contact their healthcare provider immediately for signs and s
 Embryo-Fetal Toxicity
 
 Advise female patients that bevacizumab products may cause fetal harm and to inform their healthcare provider with a known or suspected pregnancy [see Warnings and Precautions (5.10), Use in Specific Populations (8.1)].
-Advise females of reproductive potential to use effective contraception during treatment with MVASI and for 6 months after the last dose of MVASI [see Use in Specific Populations (8.3)].
+Advise females of reproductive potential to use effective contraception during treatment with MVASI and for 6 months after the last dose [see Use in Specific Populations (8.3)].
 
 Ovarian Failure
 
@@ -58,17 +58,3 @@ Advise patients of potential options for preservation of ova prior to starting t
 Lactation
 
 Advise women not to breastfeed during treatment with MVASI and for 6 months after the last dose [see Use in Specific Populations (8.2)].
-
-MVASITM (bevacizumab-awwb)
-
-Manufactured by: Amgen Inc. One Amgen Center Drive Thousand Oaks, CA 91320-1799 US License No. 1080
-
-Marketed by Amgen Inc.
-
-AMGEN® and MVASITM (bevacizumab-awwb) are trademarks owned or licensed by Amgen Inc., its subsidiaries, or affiliates.
-
-AVASTIN® (bevacizumab) is a registered trademark owned or licensed by Genentech Inc., its subsidiaries, or affiliates.
-
-© 2017-2019 Amgen Inc. All rights reserved.
-
-1xxxxxx- v2

@@ -1,8 +1,9 @@
-# 2DOSAGE AND ADMINISTRATION
+# 2 DOSAGE AND ADMINISTRATION
 
 ## 2.1 Important Administration Information
 
-Do not administer MVASI until at least 28 days following surgery and the wound is fully healed.
+Withhold for at least 28 days prior to elective surgery.
+Do not administer MVASI until at least 28 days following major surgery and until adequate wound healing.
 
 ## 2.2 Metastatic Colorectal Cancer
 
@@ -37,20 +38,21 @@ Table 1: Dosage Modifications for Adverse Reactions
 
 | Adverse Reaction | Severity | Dosage Modification |
 | --- | --- | --- |
-| Gastrointestinal Perforations and Fistulae [see Warnings and Precautions (5.1)] | Gastrointestinal perforation, any grade Tracheoesophageal fistula, any grade Fistula, Grade 4 Fistula formation involving any internal organ | Discontinue MVASI |
-| Wound Healing Complications [see Warnings and Precautions (5.2)] | Wound healing complications requiring medical intervention Necrotizing fasciitis | Discontinue MVASI |
+| Gastrointestinal Perforations and Fistulae [see Warnings and Precautions (5.1)] | Gastrointestinal perforation, any gradeTracheoesophageal fistula, any gradeFistula, Grade 4Fistula formation involving any internal organ | Discontinue MVASI |
+| Wound Healing Complications [see Warnings and Precautions (5.2)] | Any | Withhold MVASI until adequate wound healing. The safety of resumption of bevacizumab products after resolution of wound healing complications has not been established. |
+| Necrotizing fasciitis | Discontinue MVASI |  |
 | Hemorrhage [see Warnings and Precautions (5.3)] | Grade 3 or 4 | Discontinue MVASI |
-|  | Recent history of hemoptysis of 1/2 teaspoon (2.5 mL) or more | Withhold MVASI |
+| Recent history of hemoptysis of 1/2 teaspoon (2.5 mL) or more | Withhold MVASI |  |
 | Thromboembolic Events [see Warnings and Precautions (5.4, 5.5)] | Arterial thromboembolism, severe | Discontinue MVASI |
-|  | Venous thromboembolism, Grade 4 | Discontinue MVASI |
-| Hypertension [see Warnings and Precautions (5.6)] | Hypertensive crisis Hypertensive encephalopathy | Discontinue MVASI |
-|  | Hypertension, severe (such as Grade 3 and above) | Withhold MVASI until controlled with medical management; resume once controlled |
+| Venous thromboembolism, Grade 4 | Discontinue MVASI |  |
+| Hypertension [see Warnings and Precautions (5.6)] | Hypertensive crisisHypertensive encephalopathy | Discontinue MVASI |
+| Hypertension, severe | Withhold MVASI if not controlled with medical management; resume once controlled |  |
 | Posterior Reversible Encephalopathy Syndrome (PRES) [see Warnings and Precautions (5.7)] | Any | Discontinue MVASI |
 | Renal Injury and Proteinuria [see Warnings and Precautions (5.8)] | Nephrotic syndrome | Discontinue MVASI |
-|  | Proteinuria greater than or equal to 2 grams per 24 hours in absence of nephrotic syndrome | Withhold MVASI until proteinuria less than 2 grams per 24 hours |
+| Proteinuria greater than or equal to 2 grams per 24 hours in absence of nephrotic syndrome | Withhold MVASI until proteinuria less than 2 grams per 24 hours |  |
 | Infusion-Related Reactions [see Warnings and Precautions (5.9)] | Severe | Discontinue MVASI |
-|  | Clinically significant | Interrupt infusion; resume at a decreased rate of infusion after symptoms resolve |
-|  | Mild, clinically insignificant | Decrease infusion rate |
+| Clinically significant | Interrupt infusion; resume at a decreased rate of infusion after symptoms resolve |  |
+| Mild, clinically insignificant | Decrease infusion rate |  |
 | Congestive Heart Failure [see Warnings and Precautions (5.12)] | Any | Discontinue MVASI |
 
 ## 2.8 Preparation and Administration
@@ -58,7 +60,8 @@ Table 1: Dosage Modifications for Adverse Reactions
 Preparation
 
 - Use appropriate aseptic technique.
-- Visually inspect vial for particulate matter and discoloration prior to preparation and administration.
+- Use sterile needle and syringe to prepare MVASI.
+- Visually inspect vial for particulate matter and discoloration prior to preparation for administration.
   Discard vial if solution is cloudy, discolored or contains particulate matter.
 - Withdraw necessary amount of MVASI and dilute in a total volume of 100 mL of 0.9% Sodium Chloride Injection, USP.
   DO NOT ADMINISTER OR MIX WITH DEXTROSE SOLUTION.
