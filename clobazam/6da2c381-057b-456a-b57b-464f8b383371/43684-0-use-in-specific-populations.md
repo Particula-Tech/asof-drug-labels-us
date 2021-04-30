@@ -13,7 +13,7 @@ Risk Summary
 
 There are no adequate and well-controlled studies of clobazam in pregnant women.
 Available data suggest that the class of benzodiazepines is not associated with marked increases in risk for congenital anomalies.
-Although some early epidemiological studies suggested a relationship between benzodiazepine drug use in pregnancy and congenital anomalies such as cleft lip and or palate, these studies had considerable limitations.
+Although some early epidemiological studies suggested a relationship between benzodiazepine drug use in pregnancy and congenital anomalies such as cleft lip and/or palate, these studies had considerable limitations.
 More recently completed studies of benzodiazepine use in pregnancy have not consistently documented elevated risks for specific congenital anomalies.
 There is insufficient evidence to assess the effect of benzodiazepine pregnancy exposure on neurodevelopment.
 
@@ -25,7 +25,7 @@ Data for other benzodiazepines suggest the possibility of long-term effects on n
 Clobazam should be used during pregnancy only if the potential benefit to the mother justifies the potential risk to the fetus.
 Advise a pregnant woman and women of childbearing age of the potential risk to a fetus.
 
-In the U.S. general population, the estimated background risk of major birth defects and miscarriage in clinically recognized pregnancies is 2 to 4% and 15 to 20%, respectively.
+In the U.S. general population, the estimated background risk of major birth defects and miscarriage in clinically recognized pregnancies is 2% to 4% and 15% to 20%, respectively.
 The background risk of major birth defects and miscarriage for the indicated population is unknown.
 
 Clinical Considerations
@@ -56,7 +56,7 @@ Dolovich et al. published a meta-analysis of 23 studies that examined the effect
 Eleven of the 23 studies included in the meta-analysis considered the use of chlordiazepoxide and diazepam and not other benzodiazepines.
 The authors considered case-control and cohort studies separately.
 The data from the cohort studies did not suggest an increased risk for major malformations (OR 0.90; 95% CI 0.61 to 1.35) or for oral cleft (OR 1.19; 95% CI 0.34 to 4.15).
-The data from the case-control studies suggested an association between benzodiazepines and major malformations (OR 3.01, 95% CI 1.32 to 6.84) and oral cleft (OR 1.79; 95% CI 1.13 to 2.82).
+The data from the case-control studies suggested an association between benzodiazepines and major malformations (OR 3.01; 95% CI 1.32 to 6.84) and oral cleft (OR 1.79; 95% CI 1.13 to 2.82).
 The limitations of this meta-analysis included the small number of reports included in the analysis, and that most cases for analyses of both oral cleft and major malformations came from only three studies.
 A follow up to that meta-analysis included 3 new cohort studies that examined risk for major malformations and one study that considered cardiac malformations.
 The authors found no new studies with an outcome of oral clefts.
@@ -64,13 +64,13 @@ After the addition of the new studies, the odds ratio for major malformations wi
 
 Neonatal Withdrawal and Floppy Infant Syndrome
 
-Neonatal withdrawal syndrome and symptoms suggestive of floppy infant syndrome associated with administration of clobazam during the later stages of pregnancy and peripartum period have been reported in the post marketing experience.
+Neonatal withdrawal syndrome and symptoms suggestive of floppy infant syndrome associated with administration of clobazam during the later stages of pregnancy and peripartum period have been reported in the postmarketing experience.
 Findings in published scientific literature suggest that the major neonatal side effects of benzodiazepines include sedation and dependence with withdrawal signs.
 Data from observational studies suggest that fetal exposure to benzodiazepines is associated with the neonatal adverse events of hypotonia, respiratory problems, hypoventilation, low Apgar score, and neonatal withdrawal syndrome.
 
 Animal Data
 
-In a study in which clobazam (0,150, 450, or 750 mg/kg/day) was orally administered to pregnant rats throughout the period of organogenesis, embryofetal mortality and incidences of fetal skeletal variations were increased at all doses.
+In a study in which clobazam (0, 150, 450, or 750 mg/kg/day) was orally administered to pregnant rats throughout the period of organogenesis, embryofetal mortality and incidences of fetal skeletal variations were increased at all doses.
 The low-effect dose for embryofetal developmental toxicity in rats (150 mg/kg/day) was associated with plasma exposures (AUC) for clobazam and its major active metabolite, N-desmethylclobazam, lower than those in humans at the maximum recommended human dose (MRHD) of 40 mg/day.
 
 Oral administration of clobazam (0, 10, 30, or 75 mg/kg/day) to pregnant rabbits throughout the period of organogenesis resulted in decreased fetal body weights, and increased incidences of fetal malformations (visceral and skeletal) at the mid and high doses, and an increase in embryofetal mortality at the high dose.

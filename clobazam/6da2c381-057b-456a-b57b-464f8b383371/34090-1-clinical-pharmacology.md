@@ -9,14 +9,14 @@ The exact mechanism of action for clobazam, a 1,5-benzodiazepine, is not fully u
 Effects on Electrocardiogram
 
 The effect of clobazam 20 mg and 80 mg administered twice daily on QTc interval was evaluated in a randomized, evaluator-blinded, placebo-, and active-controlled (moxifloxacin 400 mg) parallel thorough QT study in 280 healthy subjects.
-In a study with demonstrated ability to detect small effects, the upper bound of the one-sided 95% confidence interval for the largest placebo adjusted, baseline-corrected QTc based on the Fridericia correction method was below 10 ms, the threshold for regulatory concern.
+In a study with demonstrated ability to detect small effects, the upper bound of the one-sided 95% confidence interval for the largest placebo-adjusted, baseline-corrected QTc based on the Fridericia correction method was below 10 ms, the threshold for regulatory concern.
 Thus, at a dose two times the maximum recommended dose, clobazam did not prolong the QTc interval to any clinically relevant extent.
 
 ## 12.3 Pharmacokinetics
 
 The peak plasma levels (Cmax) and the area under the curve (AUC) of clobazam are dose-proportional over the dose range of 10 to 80 mg following single- or multiple-dose administration of clobazam.
 Based on a population pharmacokinetic analysis, the pharmacokinetics of clobazam are linear from 5 to 160 mg/day.
-Clobazam is converted to N-desmethylclobazam which has about ⅕ the activity of clobazam.
+Clobazam is converted to N-desmethylclobazam which has about 1/5 the activity of clobazam.
 The estimated mean elimination half-lives (t½) of clobazam and N-desmethylclobazam were 36 to 42 hours and 71 to 82 hours, respectively.
 
 Absorption
@@ -38,7 +38,7 @@ Metabolism and Excretion
 Clobazam is extensively metabolized in the liver, with approximately 2% of the dose recovered in urine and 1% in feces as unchanged drug.
 The major metabolic pathway of clobazam involves N-demethylation, primarily by CYP3A4 and to a lesser extent by CYP2C19 and CYP2B6.
 N-desmethylclobazam, an active metabolite, is the major circulating metabolite in humans, and at therapeutic doses, plasma concentrations are 3 to 5 times higher than those of the parent compound.
-Based on animal and in vitro receptor binding data, estimates of the relative potency of N-desmethylclobazam compared to parent compound range from ⅕ to equal potency.
+Based on animal and in vitro receptor binding data, estimates of the relative potency of N-desmethylclobazam compared to parent compound range from 1/5 to equal potency.
 N-desmethylclobazam is extensively metabolized, mainly by CYP2C19.
 N-desmethylclobazam and its metabolites comprise ~94% of the total drug-related components in urine.
 Following a single oral dose of radiolabeled drug, approximately 11% of the dose was excreted in the feces and approximately 82% was excreted in the urine.
@@ -116,7 +116,7 @@ The effects of concomitant antiepileptic drugs that are CYP3A4 inducers (phenoba
 Results of population pharmacokinetic analysis show that these concomitant antiepileptic drugs did not significantly alter the pharmacokinetics of clobazam or N-desmethylclobazam at steady-state.
 
 Alcohol has been reported to increase the maximum plasma exposure of clobazam by approximately 50%.
-Alcohol may have additive CNS depressant effects when taken with clobazam tablets [see Warnings and Precautions (5.2), Drug Interactions (7.2)].
+Alcohol may have additive CNS depressant effects when taken with clobazam tablets [see Warnings and Precautions (5.4), Drug Interactions (7.2)].
 
 ## 12.5 Pharmacogenomics
 

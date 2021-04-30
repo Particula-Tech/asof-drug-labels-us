@@ -3,11 +3,11 @@
 Clinically significant adverse reactions that appear in other sections of the labeling include the following:
 
 - Risks from Concomitant Use with Opioids [see Warnings and Precautions (5.1)]
-- Potentiation of Sedation from Concomitant Use with Central Nervous System Depressants [see Warnings and Precautions (5.2)]
-- Somnolence or Sedation [see Warnings and Precautions (5.3)]
-- Withdrawal Symptoms [see Warnings and Precautions (5.4)]
-- Serious Dermatological Reactions [see Contraindications (4), Warnings and Precautions (5.5)]
-- Physical and Psychological Dependence [see Warnings and Precautions (5.6)]
+- Abuse, Misuse, and Addiction [see Warnings and Precautions (5.2)]
+- Dependence and Withdrawal Reactions [see Warnings and Precautions (5.3)]
+- Potentiation of Sedation from Concomitant Use with Central Nervous System Depressants [see Warnings and Precautions (5.4)]
+- Somnolence or Sedation [see Warnings and Precautions (5.5)]
+- Serious Dermatological Reactions [see Contraindications (4), Warnings and Precautions (5.6)]
 - Suicidal Behavior and Ideation [see Warnings and Precautions (5.7)]
 
 ## 6.1 Clinical Trials Experience
@@ -63,7 +63,7 @@ Adverse Reactions Reported for ≥5% of Patients and More Frequently than Placeb
 | Respiratory Disorders |  |  |  |  |  |
 | Cough | 0 | 3 | 5 | 7 | 5 |
 
-## 6.2 Post Marketing Experience
+## 6.2 Postmarketing Experience
 
 These reactions are reported voluntarily from a population of uncertain size; therefore, it is not possible to estimate their frequency or establish a causal relationship to drug exposure.
 Adverse reactions are categorized by system organ class.
