@@ -1,7 +1,7 @@
 # PACKAGE LABEL-PRINCIPAL DISPLAY PANEL - 100 mg (100 Capsules Bottle)
 
-NDC 65862-199-01 Gabapentin Capsules, USP 300 mg PHARMACIST: Dispense the Medication Guide provided separately to each patient.
-Rx only 100 Capsules AUROBINDO
+NDC 65862-198-01 Rx only Gabapentin Capsules, USP 100 mg PHARMACIST: Dispense the Medication Guide provided separately to each patient.
+AUROBINDO 100 Capsules
 
 # PACKAGE LABEL-PRINCIPAL DISPLAY PANEL - 100 mg Blister Carton 10 (1 x 10 Unit-dose)
 
