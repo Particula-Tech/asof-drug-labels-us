@@ -1,18 +1,16 @@
 # PRINCIPAL DISPLAY PANEL - 250 mg Tablet Bottle Label
 
-NDC 57894-150–12
+NDC 57894-150-12 Rx only
 
 Zytiga® (abiraterone acetate) tablets
 
 250 mg
 
-Each tablet contains: abiraterone acetate 250 mg
+Each tablet contains 250 mg of abiraterone acetate.
 
-Warning: Women who are or may be pregnant should not handle ZYTIGA without gloves (see package insert).
+Warning: Women who are or may be pregnant should not handle ZYTIGA without gloves (see Prescribing Information).
 
-Rx only 120 TABLETS
-
-2000009183
+120 tablets janssen
 
 # PRINCIPAL DISPLAY PANEL - 500 mg Tablet Bottle Label
 
