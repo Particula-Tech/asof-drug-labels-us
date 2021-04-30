@@ -1,0 +1,24 @@
+{
+  "application_numbers": [
+    "ANDA214492"
+  ],
+  "inn": "zonisamide",
+  "labeler": "Unichem Pharmaceuticals (USA), Inc.",
+  "package_ndcs": [
+    "29300-428-01",
+    "29300-428-05",
+    "29300-429-01",
+    "29300-429-05",
+    "29300-430-01",
+    "29300-430-05"
+  ],
+  "products": [
+    {
+      "form": "CAPSULE",
+      "generic": "zonisamide",
+      "name": "Zonisamide"
+    }
+  ],
+  "setid": "3c53d5e4-f47f-46fd-aa1c-158fd49ba9c0",
+  "source": "dailymed"
+}
