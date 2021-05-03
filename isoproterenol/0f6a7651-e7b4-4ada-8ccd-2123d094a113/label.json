@@ -1,0 +1,21 @@
+{
+  "application_numbers": [
+    "ANDA210845"
+  ],
+  "inn": "isoproterenol",
+  "labeler": "Micro Labs Limited",
+  "package_ndcs": [
+    "42571-294-78",
+    "42571-294-79",
+    "42571-330-80"
+  ],
+  "products": [
+    {
+      "form": "INJECTION",
+      "generic": "isoproterenol hydrochloride",
+      "name": "Isoproterenol Hydrochloride"
+    }
+  ],
+  "setid": "0f6a7651-e7b4-4ada-8ccd-2123d094a113",
+  "source": "dailymed"
+}
