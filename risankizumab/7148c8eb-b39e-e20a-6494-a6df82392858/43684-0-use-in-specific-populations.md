@@ -2,6 +2,11 @@
 
 ## 8.1 Pregnancy
 
+Pregnancy Exposure Registry
+
+There is a pregnancy exposure registry that monitors outcomes in women with plaque psoriasis who become pregnant while treated with SKYRIZI.
+Patients should be encouraged to enroll by calling 1-877-302-2161.
+
 Risk Summary
 
 Limited available data with SKYRIZI use in pregnant women are insufficient to evaluate a drug associated risk of major birth defects, miscarriage, or adverse maternal or fetal outcome.
@@ -13,7 +18,7 @@ No risankizumab-rzaa-related effects on functional or immunological development 
 The clinical significance of these findings for humans is unknown.
 
 All pregnancies have a background risk of birth defect, loss, or other adverse outcomes.
-The estimated background risk of major birth defects and miscarriage for the indicated population is unknown.
+The background risk of major birth defects and miscarriage for the indicated population is unknown.
 In the U.S. general population, the estimated background risk of major birth defects and miscarriage in clinically recognized pregnancies is 2% to 4% and 15% to 20%, respectively.
 
 Data
@@ -28,7 +33,7 @@ However, a dose-dependent increase in fetal/infant loss was noted in the risanki
 The increased fetal/infant loss in the 50 mg/kg group was considered to be related to risankizumab-rzaa treatment.
 The no observed adverse effect level (NOAEL) for maternal toxicity was identified as 50 mg/kg (20 times the MRHD, based on mg/kg comparison) and the NOAEL for developmental toxicity was identified as 5 mg/kg (2 times the MRHD, based on mg/kg comparison).
 In the infants, mean serum concentrations increased in a dose-dependent manner and were approximately 17-86% of the respective maternal concentrations.
-Following delivery, most adult female cynomolgus monkeys and all infants from the risankizumab-rzaa‑treated groups had measurable serum concentrations of risankizumab-rzaa up to 91 days postpartum.
+Following delivery, most adult female cynomolgus monkeys and all infants from the risankizumab-rzaa-treated groups had measurable serum concentrations of risankizumab-rzaa up to 91 days postpartum.
 Serum concentrations were below detectable levels at 180 days postpartum.
 
 ## 8.2 Lactation

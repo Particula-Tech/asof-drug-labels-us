@@ -8,13 +8,13 @@ The following adverse reactions are discussed in greater detail in other section
 
 Because clinical trials are conducted under widely varying conditions, adverse drug reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in practice.
 
-A total of 2234 subjects were treated with SKYRIZI in clinical development studies in plaque psoriasis.
+A total of 2234 subjects were treated with SKYRIZI in clinical development trials in plaque psoriasis.
 Of these, 1208 subjects with psoriasis were exposed to SKYRIZI for at least one year.
 
-Data from placebo- and active-controlled studies were pooled to evaluate the safety of SKYRIZI for up to 16 weeks.
+Data from placebo- and active-controlled trials were pooled to evaluate the safety of SKYRIZI for up to 16 weeks.
 In total, 1306 subjects were evaluated in the SKYRIZI 150 mg group.
 
-Table 1 summarizes the adverse drug reactions that occurred at a rate of at least 1% and at a higher rate in the SKYRIZI group than the placebo group during the 16-week controlled period of pooled clinical studies.
+Table 1 summarizes the adverse drug reactions that occurred at a rate of at least 1% and at a higher rate in the SKYRIZI group than the placebo group during the 16-week controlled period of pooled clinical trials.
 
 Table 1.
 Adverse Drug Reactions Occurring in ≥ 1% of Subjects on SKYRIZI through Week 16
@@ -36,12 +36,12 @@ Infections
 
 In the first 16 weeks, infections occurred in 22.1% of the SKYRIZI group (90.8 events per 100 subject-years) compared to 14.7% of the placebo group (56.5 events per 100 subject-years) and did not lead to discontinuation of SKYRIZI.
 The rates of serious infections for the SKYRIZI group and the placebo group were ≤0.4%.
-Serious infections in the SKYRIZI group included cellulitis, osteomyelitis, sepsis and herpes zoster.
+Serious infections in the SKYRIZI group included cellulitis, osteomyelitis, sepsis, and herpes zoster.
 In ULTIMMA-1 and ULTIMMA-2, through Week 52, the rate of infections (73.9 events per 100 subject-years) was similar to the rate observed during the first 16 weeks of treatment.
 
-Safety through Week 52
+Safety Through Week 52
 
-Through Week 52, no new adverse reactions were identified and the rates of the adverse reactions were similar to those observed during the first 16 weeks of treatment.
+Through Week 52, no new adverse reactions were identified, and the rates of the adverse reactions were similar to those observed during the first 16 weeks of treatment.
 During this period, serious infections that led to study discontinuation included pneumonia.
 
 ## 6.2 Immunogenicity

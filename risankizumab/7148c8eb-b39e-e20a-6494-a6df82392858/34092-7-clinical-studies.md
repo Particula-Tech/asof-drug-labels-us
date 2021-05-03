@@ -23,7 +23,7 @@ Secondary endpoints included the proportion of subjects who achieved PASI 100, s
 The results are presented in Table 2.
 
 Table 2.
-Efficacy Results at Week 16 in Adults with Plaque Psoriasis in ULTIMMA-1 and ULTIMMA‑2
+Efficacy Results at Week 16 in Adults with Plaque Psoriasis in ULTIMMA-1 and ULTIMMA-2
 
 |  | ULTIMMA-1 |  | ULTIMMA-2 |  |
 | --- | --- | --- | --- | --- |

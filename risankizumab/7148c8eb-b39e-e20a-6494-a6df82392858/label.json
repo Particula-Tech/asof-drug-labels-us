@@ -6,10 +6,19 @@
   "inn": "risankizumab",
   "labeler": "AbbVie Inc.",
   "package_ndcs": [
+    "0074-1050-01",
+    "0074-1050-70",
     "0074-2042-02",
-    "0074-2042-71"
+    "0074-2042-71",
+    "0074-2100-01",
+    "0074-2100-70"
   ],
   "products": [
+    {
+      "form": "INJECTION",
+      "generic": "risankizumab-rzaa",
+      "name": "Skyrizi"
+    },
     {
       "form": "KIT",
       "generic": "risankizumab-rzaa",

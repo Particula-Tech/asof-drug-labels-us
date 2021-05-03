@@ -1,39 +1,44 @@
 # 2 DOSAGE AND ADMINISTRATION
 
-## 2.1 Dosage
+## 2.1 Procedures Prior to Treatment Initiation
 
-The recommended dose is 150 mg (two 75 mg injections) administered by subcutaneous injection at Week 0, Week 4, and every 12 weeks thereafter.
+● Evaluate patients for tuberculosis (TB) infection prior to initiating treatment with SKYRIZI [see Warnings and Precautions (5.2)].
 
-## 2.2 Tuberculosis Assessment Prior to Initiation of SKYRIZI
+● Complete all age-appropriate vaccinations as recommended by current immunization guidelines [see Warnings and Precautions (5.3)].
 
-Evaluate patients for tuberculosis (TB) infection prior to initiating treatment with SKYRIZI [see Warnings and Precautions (5.2)].
+## 2.2 Dosage
 
-## 2.3 Important Administration Instructions
-
-Administer SKYRIZI subcutaneously.
-Inject two separate 75 mg single-dose prefilled syringes for the full 150 mg dose.
-Discard prefilled syringes after use.
-Do not reuse.
-
-For each dose, administer the injections at different anatomic locations (such as thighs or abdomen), and not into areas where the skin is tender, bruised, erythematous, indurated or affected by psoriasis.
-Administration of SKYRIZI in the upper, outer arm may only be performed by a healthcare professional or caregiver.
+The recommended dosage is 150 mg administered by subcutaneous injection at Week 0, Week 4, and every 12 weeks thereafter.
 
 If a dose is missed, administer the dose as soon as possible.
 Thereafter, resume dosing at the regular scheduled time.
 
-SKYRIZI is intended for use under the guidance and supervision of a healthcare professional.
-Patients may self-inject SKYRIZI after training in subcutaneous injection technique.
-Provide proper training to patients and/or caregivers on the subcutaneous injection technique of SKYRIZI.
-Instruct the patient that two separate 75 mg single-dose injections are required to achieve the 150 mg dose.
+## 2.3 Preparation Instructions
 
-The SKYRIZI “Instructions for Use” contains more detailed instructions on the preparation and administration of SKYRIZI [see Instructions for Use].
-Instruct the patient to read the Instructions for Use before administration.
+● Before injecting, remove the carton with SKYRIZI from the refrigerator and without removing the prefilled pen or prefilled syringe(s) from the carton, allow SKYRIZI to reach room temperature out of direct sunlight (30 to 90 minutes for the prefilled pen and 15 to 30 minutes for the prefilled syringe(s)).
 
-## 2.4 Preparation for Use of SKYRIZI Prefilled Syringes
+● Visually inspect SKYRIZI for particulate matter and discoloration prior to administration.
 
-Before injecting, patients may remove the carton from the refrigerator and allow to reach room temperature out of direct sunlight (15 to 30 minutes) without removing the prefilled syringes from the carton.
+SKYRIZI 150 mg/mL is a colorless to yellow and clear to slightly opalescent solution.
+SKYRIZI 75 mg/0.83 mL is a colorless to slightly yellow and clear to slightly opalescent solution.
 
-Visually inspect SKYRIZI for particulate matter and discoloration prior to administration.
-SKYRIZI is a colorless to slightly yellow and clear to slightly opalescent solution.
-It may contain a few translucent to white particles.
+The solution may contain a few translucent to white particles.
 Do not use if the solution contains large particles or is cloudy or discolored.
+
+## 2.4 Administration Instructions
+
+● SKYRIZI is intended for use under the guidance and supervision of a healthcare professional.
+Patients may self-inject SKYRIZI after training in subcutaneous injection technique.
+Provide proper training to patients and/or caregivers on the subcutaneous injection technique of SKYRIZI according to the “Instructions for Use” [see Instructions for Use].
+
+● Administer SKYRIZI subcutaneously.
+Do not inject into areas where the skin is tender, bruised, erythematous, indurated or affected by psoriasis.
+Administration of SKYRIZI in the upper, outer arm may only be performed by a healthcare professional or caregiver.
+
+● When using SKYRIZI 150 mg/mL prefilled pen or prefilled syringe, inject one 150 mg single-dose prefilled pen or prefilled syringe.
+
+● When using SKYRIZI 75 mg/0.83 mL prefilled syringes, for a 150 mg dose, two 75 mg prefilled syringes are required.
+Inject one prefilled syringe after the other in different anatomic locations (such as thighs or abdomen).
+
+● Discard prefilled pen or prefilled syringe(s) after use.
+Do not reuse.
