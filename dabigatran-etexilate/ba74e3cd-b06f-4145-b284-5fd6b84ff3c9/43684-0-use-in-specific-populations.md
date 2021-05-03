@@ -51,6 +51,12 @@ There are no data on the presence of dabigatran in human milk, the effects on th
 Dabigatran and/or its metabolites were present in rat milk.
 Breastfeeding is not recommended during treatment with PRADAXA.
 
+## 8.3 Females and Males of Reproductive Potential
+
+Females of reproductive potential requiring anticoagulation should discuss pregnancy planning with their physician.
+
+The risk of clinically significant uterine bleeding, potentially requiring gynecological surgical interventions, identified with oral anticoagulants including Pradaxa should be assessed in females of reproductive potential and those with abnormal uterine bleeding.
+
 ## 8.4 Pediatric Use
 
 Safety and effectiveness of PRADAXA in pediatric patients have not been established.
