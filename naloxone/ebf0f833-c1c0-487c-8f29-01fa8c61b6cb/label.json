@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "NDA212045"
+  ],
+  "inn": "naloxone",
+  "labeler": "Hikma Specialty USA Inc.",
+  "package_ndcs": [
+    "59467-679-01"
+  ],
+  "products": [
+    {
+      "form": "SPRAY",
+      "generic": "naloxone hcl",
+      "name": "KLOXXADO"
+    }
+  ],
+  "setid": "ebf0f833-c1c0-487c-8f29-01fa8c61b6cb",
+  "source": "dailymed"
+}
