@@ -37,7 +37,7 @@ Because of the potential for serious adverse reactions in breastfed infants from
 
 Pregnancy Testing
 
-Verify the pregnancy status of females of reproductive potential prior to starting AFINITOR/AFINITOR DISPERZ [see Use in Specific Population (8.1)].
+Verify the pregnancy status of females of reproductive potential prior to starting AFINITOR/AFINITOR DISPERZ [see Use in Specific Populations (8.1)].
 
 Contraception
 
@@ -107,4 +107,4 @@ AFINITOR/AFINITOR DISPERZ exposure may increase in patients with hepatic impairm
 
 For patients with breast cancer, NET, RCC, and TSC-associated renal angiomyolipoma who have hepatic impairment, reduce the AFINITOR dose as recommended [see Dosage and Administration (2.10)].
 
-For patients with TSC-associated SEGA and TSC-associated partial-onset seizures who have severe hepatic impairment (Child-Pugh Class C), reduce the starting dose of AFINITOR/AFINITOR DISPERZ as recommended and adjust the dose based on everolimus trough concentrations [see Dosage and Administration (2.8, 2.10)].
+For patients with TSC-associated SEGA and TSC-associated partial-onset seizures who have severe hepatic impairment (Child-Pugh class C), reduce the starting dose of AFINITOR/AFINITOR DISPERZ as recommended and adjust the dose based on everolimus trough concentrations [see Dosage and Administration (2.8, 2.10)].

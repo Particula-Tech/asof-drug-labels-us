@@ -24,7 +24,7 @@ After a median follow-up of 39.3 months, there was no statistically significant 
 
 Table 20: Efficacy Results in Hormone-Receptor Positive, HER-2 Negative Breast Cancer in BOLERO-2
 
-| Analysis | AFINITOR with Exemestane N = 485 | Placebo with Exemestane N = 239 | Hazard ratio | p-value |  |
+| Analysis | AFINITOR with Exemestane N = 485 | Placebo with Exemestane N = 239 | Hazard Ratio | p-value |  |
 | --- | --- | --- | --- | --- | --- |
 | Median progression-free survival (months, 95% CI) |  |  |  |  |  |
 | Investigator radiological review | 7.8 (6.9, 8.5) | 3.2 (2.8, 4.1) | 0.45a (0.38, 0.54) | < 0.0001b |  |
@@ -166,7 +166,7 @@ Table 24: Angiomyolipoma Response Rate in TSC-Associated Renal Angiomyolipoma in
 | --- | --- | --- | --- |
 |  | N = 79 | N = 39 |  |
 | Primary analysis |  |  |  |
-| Angiomyolipoma response ratea - % | 41.8 | 0 | < 0.0001 |
+| Angiomyolipoma response ratea - (%) | 41.8 | 0 | < 0.0001 |
 | 95% CI | (30.8, 53.4) | (0.0, 9.0) |  |
 | aPer independent central radiology review. |  |  |  |
 
@@ -201,7 +201,7 @@ Of the 117 patients enrolled, 78 were randomized to AFINITOR and 39 to placebo.
 The median age was 9.5 years (0.8 to 26 years); a total of 20 patients were < 3 years, 54 patients were 3 to < 12 years, 27 patients were 12 to < 18 years, and 16 patients were ≥ 18 years; 57% were male, and 93% were White.
 At baseline, 18% of patients were receiving EIAEDs.
 Based on central radiology review at baseline, 98% of patients had at least one SEGA lesion ≥ 1.0 cm in longest diameter, 79% had bilateral SEGAs, 43% had ≥ 2 target SEGA lesions, 26% had growth in or into the inferior surface of the ventricle, 9% had evidence of growth beyond the subependymal tissue adjacent to the ventricle, and 7% had radiographic evidence of hydrocephalus.
-The median values for the sum of all target SEGA lesions at baseline were 1.63 cm3 (0.18 to 25.15 cm3) and 1.30 cm3 (0.32 to 9.75 cm3) in the AFINITOR and placebo arms respectively.
+The median values for the sum of all target SEGA lesions at baseline were 1.63 cm3 (0.18 to 25.15 cm3) and 1.30 cm3 (0.32 to 9.75 cm3) in the AFINITOR and placebo arms, respectively.
 Eight (7%) patients had prior SEGA-related surgery.
 The median duration of follow-up was 8.4 months (4.6 to 17.2 months) at the time of primary analysis.
 
@@ -246,7 +246,7 @@ At the completion of the study, the median duration of durable response was 12 m
 
 By 60 months after the last patient was enrolled, 11% of the 28 patients had documented disease progression.
 No patient developed a new SEGA lesion while on AFINITOR.
-Nine additional patients were identified as having a ≥ 50% volumetric reduction in their largest SEGA lesion between 1 to 4 years after initiating AFINITOR including 3 patients who had surgical resection with subsequent regrowth prior to receiving AFINITOR.
+Nine additional patients were identified as having a ≥ 50% volumetric reduction in their largest SEGA lesion between 1 to 4 years after initiating AFINITOR, including 3 patients who had surgical resection with subsequent regrowth prior to receiving AFINITOR.
 
 ## 14.6 Tuberous Sclerosis Complex (TSC)-Associated Partial-Onset Seizures
 

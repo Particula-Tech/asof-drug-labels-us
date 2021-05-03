@@ -12,7 +12,7 @@ Advise patients that they are more susceptible to infections and that they shoul
 
 Hypersensitivity Reactions
 
-Advise patients of the risk of clinically significant hypersensitivity reactions and to promptly contact their healthcare provider or seek emergency care for signs of hypersensitivity reaction including rash, itching, hives, difficulty breathing or swallowing, flushing, chest pain, or dizziness [see Contraindications (4), Warnings and Precautions (5.3)].
+Advise patients of the risk of clinically significant hypersensitivity reactions and to promptly contact their healthcare provider or seek emergency care for signs of hypersensitivity reaction, including rash, itching, hives, difficulty breathing or swallowing, flushing, chest pain, or dizziness [see Contraindications (4), Warnings and Precautions (5.3)].
 
 Angioedema with Concomitant Use of ACE Inhibitors
 
@@ -52,7 +52,12 @@ Embryo-Fetal Toxicity
 Advise females of reproductive potential of the potential risk to a fetus.
 Advise females of reproductive potential to use effective contraception during treatment and for 8 weeks after the last dose.
 Advise patients to inform their healthcare provider of a known or suspected pregnancy.
-Advise males with female partners of reproductive potential to use effective contraception during treatment and for 4 weeks after the last dose [see Warnings and Precautions (5.12), Use in Specific Populations (8.1, 8.3)].
+Advise males with female partners of reproductive potential to use effective contraception during treatment and for 4 weeks after the last dose [see Warnings and Precautions (5.13), Use in Specific Populations (8.1, 8.3)].
+
+Radiation Sensitization and Radiation Recall
+
+Radiation sensitization and recall can occur in patients treated with radiation prior to, during, or subsequent to AFINITOR/AFINITOR DISPERZ treatment.
+Advise patients to inform their health care provider if they have had or are planning to receive radiation therapy [see Warnings and Precautions (5.12)].
 
 Lactation
 
@@ -64,4 +69,4 @@ Advise males and females of reproductive potential of the potential risk for imp
 
 Distributed by: Novartis Pharmaceuticals Corporation East Hanover, New Jersey 07936
 
-T2020-31
+T2021-36

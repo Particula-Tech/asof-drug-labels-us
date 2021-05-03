@@ -2,15 +2,16 @@
 
 The following serious adverse reactions are described elsewhere in the labeling:
 
-- Non-Infectious Pneumonitis [see Warnings and Precautions (5.1)].
-- Infections [see Warnings and Precautions (5.2)].
-- Severe Hypersensitivity Reactions [see Warnings and Precautions (5.3)].
-- Angioedema with Concomitant Use of ACE inhibitors [see Warnings and Precautions (5.4)].
-- Stomatitis [see Warnings and Precautions (5.5)].
-- Renal Failure [see Warnings and Precautions (5.6)].
-- Impaired Wound Healing [see Warnings and Precautions (5.7)].
-- Metabolic Disorders [see Warnings and Precautions (5.9)].
-- Myelosuppression [see Warnings and Precautions (5.10)].
+- Non-Infectious Pneumonitis [see Warnings and Precautions (5.1)]
+- Infections [see Warnings and Precautions (5.2)]
+- Severe Hypersensitivity Reactions [see Warnings and Precautions (5.3)]
+- Angioedema with Concomitant Use of ACE inhibitors [see Warnings and Precautions (5.4)]
+- Stomatitis [see Warnings and Precautions (5.5)]
+- Renal Failure [see Warnings and Precautions (5.6)]
+- Impaired Wound Healing [see Warnings and Precautions (5.7)]
+- Metabolic Disorders [see Warnings and Precautions (5.9)]
+- Myelosuppression [see Warnings and Precautions (5.10)]
+- Radiation Sensitization and Radiation Recall [see Warnings and Precautions (5.12)]
 
 ## 6.1 Clinical Trials Experience
 
@@ -80,7 +81,7 @@ Table 6: Adverse Reactions Reported in ≥ 10% of Patients with Hormone Receptor
 | Alopecia | 10 | 0 | 5 | 0 |
 | Vascular |  |  |  |  |
 | Hot flush | 6 | 0 | 14 | 0 |
-| Grading according to NCI CTCAE Version 3.0. aIncludes stomatitis, mouth ulceration, aphthous stomatitis, glossodynia, gingival pain, glossitis, and lip ulceration. bIncludes all reported infections including, but not limited to, urinary tract infections, respiratory tract (upper and lower) infections, skin infections, and gastrointestinal tract infections. cIncludes pneumonitis, interstitial lung disease, lung infiltration, and pulmonary fibrosis. dNo Grade 4 adverse reactions were reported. |  |  |  |  |
+| Grading according to NCI CTCAE Version 3.0. aIncludes stomatitis, mouth ulceration, aphthous stomatitis, glossodynia, gingival pain, glossitis, and lip ulceration. bIncludes all reported infections, including but not limited to, urinary tract infections, respiratory tract (upper and lower) infections, skin infections, and gastrointestinal tract infections. cIncludes pneumonitis, interstitial lung disease, lung infiltration, and pulmonary fibrosis. dNo Grade 4 adverse reactions were reported. |  |  |  |  |
 
 Table 7: Selected Laboratory Abnormalities Reported in ≥ 10% of Patients with Hormone Receptor-Positive Breast Cancer in BOLERO-2
 
@@ -196,42 +197,42 @@ Table 8: Adverse Reactions Reported in ≥ 10% of Patients with PNET in RADIANT-
 
 Table 9: Selected Laboratory Abnormalities Reported in ≥ 10% of Patients with PNET in RADIANT-3
 
-| Laboratory parameter | AFINITOR N = 204 |  | Placebo N = 203 |  |
-| --- | --- | --- | --- | --- |
-|  | All Grades | Grade 3-4 | All Grades | Grade 3-4 |
-|  | % | % | % | % |
-| Hematology |  |  |  |  |
-| Anemia | 86 | 15 | 63 | 1 |
-| Lymphopenia | 45 | 16 | 22 | 4 |
-| Thrombocytopenia | 45 | 3 | 11 | 0 |
-| Leukopenia | 43 | 2 | 13 | 0 |
-| Neutropenia | 30 | 4 | 17 | 2 |
-| Chemistry |  |  |  |  |
-| Hyperglycemia (fasting) | 75 | 17 | 53 | 6 |
-| Increased alkaline phosphatase | 74 | 8 | 66 | 8 |
-| Hypercholesterolemia | 66 | 0.5 | 22 | 0 |
-| Bicarbonate decreased | 56 | 0 | 40 | 0 |
-| Increased AST | 56 | 4 | 41 | 4 |
-| Increased ALT | 48 | 2 | 35 | 2 |
-| Hypophosphatemia | 40 | 10 | 14 | 3 |
-| Hypertriglyceridemia | 39 | 0 | 10 | 0 |
-| Hypocalcemia | 37 | 0.5 | 12 | 0 |
-| Hypokalemia | 23 | 4 | 5 | 0 |
-| Increased creatinine | 19 | 2 | 14 | 0 |
-| Hyponatremia | 16 | 1 | 16 | 1 |
-| Hypoalbuminemia | 13 | 1 | 8 | 0 |
-| Hyperbilirubinemia | 10 | 1 | 14 | 2 |
-| Hyperkalemia | 7 | 0 | 10 | 0.5 |
-| Grading according to NCI CTCAE Version 3.0. |  |  |  |  |
+| Laboratory parameter | AFINITOR N = 204 |  | Placebo N = 203 |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+|  | All Grades | Grade 3-4 | All Grades | Grade 3-4 |  |  |  |  |
+|  | % | % | % | % |  |  |  |  |
+| Hematology |  |  |  |  |  |  |  |  |
+| Anemia | 86 | 15 | 63 | 1 |  |  |  |  |
+| Lymphopenia | 45 | 16 | 22 | 4 |  |  |  |  |
+| Thrombocytopenia | 45 | 3 | 11 | 0 |  |  |  |  |
+| Leukopenia | 43 | 2 | 13 | 0 |  |  |  |  |
+| Neutropenia | 30 | 4 | 17 | 2 |  |  |  |  |
+| Chemistry |  |  |  |  |  |  |  |  |
+| Hyperglycemia (fasting) | 75 | 17 | 53 | 6 |  |  |  |  |
+| Increased alkaline phosphatase | 74 | 8 | 66 | 8 |  |  |  |  |
+| Hypercholesterolemia | 66 | 0.5 | 22 | 0 |  |  |  |  |
+| Bicarbonate decreased | 56 | 0 | 40 | 0 |  |  |  |  |
+| Increased AST | 56 | 4 | 41 | 4 |  |  |  |  |
+| Increased ALT | 48 | 2 | 35 | 2 |  |  |  |  |
+| Hypophosphatemia | 40 | 10 | 14 | 3 |  |  |  |  |
+| Hypertriglyceridemia | 39 | 0 | 10 | 0 |  |  |  |  |
+| Hypocalcemia | 37 | 0.5 | 12 | 0 |  |  |  |  |
+| Hypokalemia | 23 | 4 | 5 | 0 |  |  |  |  |
+| Increased creatinine | 19 | 2 | 14 | 0 |  |  |  |  |
+| Hyponatremia | 16 | 1 | 16 | 1 |  |  |  |  |
+| Hypoalbuminemia | 13 | 1 | 8 | 0 |  |  |  |  |
+| Hyperbilirubinemia | 10 | 1 | 14 | 2 |  |  |  |  |
+| Hyperkalemia | 7 | 0 | 10 | 0.5 |  |  |  |  |
+| Grading according to NCI CTCAE Version 3.0. |  |  |  |  |  |  |  |  |
 
 Neuroendocrine Tumors (NET) of Gastrointestinal (GI) or Lung Origin
 
 In a randomized, controlled trial (RADIANT-4) of AFINITOR (n = 202 treated) vs. placebo (n = 98 treated) in patients with advanced non-functional NET of GI or lung origin, the median age of patients was 63 years (22-86 years), 76% were White, and 53% were female.
-The median duration of exposure to AFINITOR was 9.3 months; 64% of patients were treated for > 6 months and 39% were treated for > 12 months.
+The median duration of exposure to AFINITOR was 9.3 months; 64% of patients were treated for ≥ 6 months and 39% were treated for ≥ 12 months.
 AFINITOR was discontinued for adverse reactions in 29% of patients, dose reduction or delay was required in 70% of AFINITOR-treated patients.
 
 Serious adverse reactions occurred in 42% of AFINITOR-treated patients and included 3 fatal events (cardiac failure, respiratory failure, and septic shock).
-Adverse reactions occurring at an incidence of ≥ 10% and at > 5% absolute incidence over placebo (all Grades) or > 2% higher incidence over placebo (Grade 3 and 4) are presented in Table 10.
+Adverse reactions occurring at an incidence of ≥ 10% and at ≥ 5% absolute incidence over placebo (all Grades) or ≥ 2% higher incidence over placebo (Grade 3 and 4) are presented in Table 10.
 Laboratory abnormalities are presented in Table 11.
 
 Table 10: Adverse Reactions in ≥ 10% of AFINITOR-Treated Patients with Non-Functional NET of GI or Lung Origin in RADIANT-4
@@ -270,26 +271,26 @@ Table 10: Adverse Reactions in ≥ 10% of AFINITOR-Treated Patients with Non-Fun
 
 Table 11: Selected Laboratory Abnormalities in ≥ 10% of AFINITOR-Treated Patients with Non-Functional NET of GI or Lung Origin in RADIANT-4
 
-|  | AFINITOR N = 202 |  | Placebo N = 98 |  |
-| --- | --- | --- | --- | --- |
-|  | All Grades | Grade 3-4 | All Grades | Grade 3-4 |
-|  | % | % | % | % |
-| Hematology |  |  |  |  |
-| Anemia | 81 | 5a | 41 | 2a |
-| Lymphopenia | 66 | 16 | 32 | 2a |
-| Leukopenia | 49 | 2a | 17 | 0 |
-| Thrombocytopenia | 33 | 2 | 11 | 0 |
-| Neutropenia | 32 | 2a | 15 | 3a |
-| Chemistry |  |  |  |  |
-| Hypercholesterolemia | 71 | 0 | 37 | 0 |
-| Increased AST | 57 | 2 | 34 | 2a |
-| Hyperglycemia (fasting) | 55 | 6a | 36 | 1a |
-| Increased ALT | 46 | 5 | 39 | 1a |
-| Hypophosphatemia | 43 | 4a | 15 | 2a |
-| Hypertriglyceridemia | 30 | 3 | 8 | 1a |
-| Hypokalemia | 27 | 6 | 12 | 3a |
-| Hypoalbuminemia | 18 | 0 | 8 | 0 |
-| Grading according to NCI CTCAE Version 4.03. aNo Grade 4 laboratory abnormalities were reported. |  |  |  |  |
+|  | AFINITOR N = 202 |  | Placebo N = 98 |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+|  | All Grades | Grade 3-4 | All Grades | Grade 3-4 |  |  |  |  |
+|  | % | % | % | % |  |  |  |  |
+| Hematology |  |  |  |  |  |  |  |  |
+| Anemia | 81 | 5a | 41 | 2a |  |  |  |  |
+| Lymphopenia | 66 | 16 | 32 | 2a |  |  |  |  |
+| Leukopenia | 49 | 2a | 17 | 0 |  |  |  |  |
+| Thrombocytopenia | 33 | 2 | 11 | 0 |  |  |  |  |
+| Neutropenia | 32 | 2a | 15 | 3a |  |  |  |  |
+| Chemistry |  |  |  |  |  |  |  |  |
+| Hypercholesterolemia | 71 | 0 | 37 | 0 |  |  |  |  |
+| Increased AST | 57 | 2 | 34 | 2a |  |  |  |  |
+| Hyperglycemia (fasting) | 55 | 6a | 36 | 1a |  |  |  |  |
+| Increased ALT | 46 | 5 | 39 | 1a |  |  |  |  |
+| Hypophosphatemia | 43 | 4a | 15 | 2a |  |  |  |  |
+| Hypertriglyceridemia | 30 | 3 | 8 | 1a |  |  |  |  |
+| Hypokalemia | 27 | 6 | 12 | 3a |  |  |  |  |
+| Hypoalbuminemia | 18 | 0 | 8 | 0 |  |  |  |  |
+| Grading according to NCI CTCAE Version 4.03. aNo Grade 4 laboratory abnormalities were reported. |  |  |  |  |  |  |  |  |
 
 Renal Cell Carcinoma (RCC)
 
@@ -345,7 +346,7 @@ Table 12: Adverse Reactions Reported in ≥ 10% of Patients with RCC and at a Hi
 | Dysgeusia | 10 | 0 | 2 | 0 |
 | Musculoskeletal and connective tissue |  |  |  |  |
 | Pain in extremity | 10 | 1d | 7 | 0 |
-| Grading according to NCI CTCAE Version 3.0. aStomatitis (including aphthous stomatitis), and mouth and tongue ulceration. bIncludes all reported infections including, but not limited to, respiratory tract (upper and lower) infections, urinary tract infections, and skin infections. cIncludes pneumonitis, interstitial lung disease, lung infiltration, pulmonary alveolar hemorrhage, pulmonary toxicity, and alveolitis. dNo Grade 4 adverse reactions were reported. |  |  |  |  |
+| Grading according to NCI CTCAE Version 3.0. aStomatitis (including aphthous stomatitis), and mouth and tongue ulceration. bIncludes all reported infections, including but not limited to, respiratory tract (upper and lower) infections, urinary tract infections, and skin infections. cIncludes pneumonitis, interstitial lung disease, lung infiltration, pulmonary alveolar hemorrhage, pulmonary toxicity, and alveolitis. dNo Grade 4 adverse reactions were reported. |  |  |  |  |
 
 Other notable adverse reactions occurring more frequently with AFINITOR than with placebo, but with an incidence of < 10% include:
 
@@ -610,5 +611,6 @@ Because these reactions are reported voluntarily from a population of uncertain 
 - Gastrointestinal: Acute pancreatitis
 - Hepatobiliary: Cholecystitis and cholelithiasis
 - Infections: Sepsis and septic shock
-- Nervous System: Reflex sympathetic dystrophy
+- Nervous system: Reflex sympathetic dystrophy
 - Vascular: Arterial thrombotic events
+- Injury, poisoning and procedural complications: Radiation Sensitization and Radiation Recall
