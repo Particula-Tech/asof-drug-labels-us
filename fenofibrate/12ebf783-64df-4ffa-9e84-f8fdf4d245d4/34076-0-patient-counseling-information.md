@@ -10,7 +10,7 @@ Patients should be advised:
 - to take Antara once daily, without regard to food, at the prescribed dose swallowing each capsule whole.
 - to inform their physician of all medications, supplements, and herbal preparations they are taking and any change to their medical condition.
   Patients should also be advised to inform their physicians prescribing a new medication that they are taking Antara.
-- to inform their physician of any muscle pain, tenderness, or weakness; onset of abdominal pain; or any other new symptoms.
+- to inform their physician of symptoms of liver injury (e.g., jaundice, abnormal pain, nausea, malaise, dark urine, abnormal stool, pruritus); any muscle pain, tenderness, or weakness; onset of abdominal pain; or any other new symptoms.
 - to return to their physician's office for routine monitoring.
 
 Manufactured for:
@@ -33,4 +33,4 @@ Baltimore, MD 21202
 
 or Call: 1-800-399-2561
 
-Revised: April 28, 2019 ID: 257316
+Revised: May 2021 ID: 267515
