@@ -1,0 +1,21 @@
+{
+  "application_numbers": [
+    "ANDA212450"
+  ],
+  "inn": "loteprednol",
+  "labeler": "Sun Pharmaceutical Industries, Inc.",
+  "package_ndcs": [
+    "62756-232-55",
+    "62756-232-56",
+    "62756-232-90"
+  ],
+  "products": [
+    {
+      "form": "SUSPENSION/ DROPS",
+      "generic": "loteprednol etabonate",
+      "name": "Loteprednol Etabonate"
+    }
+  ],
+  "setid": "36cfd5b8-c892-44e1-aaed-fb32d7aeca7c",
+  "source": "dailymed"
+}
