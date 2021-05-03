@@ -37,8 +37,8 @@ All cases of adrenal insufficiency resolved.
 
 Table 2 summarizes the percentages of patients reporting glucocorticoid related effects in the 2 placebo-controlled trials (Studies 1 and 2).
 
-- Table 2: Summary of Glucocorticoid Related Effects in Two Placebo-Controlled Trials
-- (Studies 1 and 2)
+1. Table 2: Summary of Glucocorticoid Related Effects in Two Placebo-Controlled Trials
+2. (Studies 1 and 2)
 
 (Studies 1 and 2)
 

@@ -15,7 +15,7 @@ Normal morning serum cortisol levels >5 mcg/dL were maintained in 85% and 84% of
 At baseline (predose), 84% of subjects in the UCERIS rectal foam group had a normal response to the ACTH challenge and at Week 6, 63% of subjects had a normal response to the ACTH challenge; in the placebo group, these values were 86% and 76%, respectively (see Table 3).
 ACTH stimulation test was not performed routinely during the twice daily treatment period (Weeks 1 and 2).
 
-- Table 3: Proportion of Subjects with Normal Endogenous Cortisol Levels (>5 mcg/dL) During the Study and Proportion of Subjects with Normal Response to ACTH Challenge
+1. Table 3: Proportion of Subjects with Normal Endogenous Cortisol Levels (>5 mcg/dL) During the Study and Proportion of Subjects with Normal Response to ACTH Challenge
 
 Table 3: Proportion of Subjects with Normal Endogenous Cortisol Levels (>5 mcg/dL) During the Study and Proportion of Subjects with Normal Response to ACTH Challenge
 
