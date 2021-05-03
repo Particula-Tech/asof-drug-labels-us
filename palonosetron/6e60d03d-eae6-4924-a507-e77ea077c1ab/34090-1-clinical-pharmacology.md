@@ -13,22 +13,22 @@ The 5-HT3 receptor has been demonstrated to selectively participate in the emeti
 
 ## 12.2 Pharmacodynamics
 
-The effect of palonosetron on blood pressure, heart rate, and ECG parameters including QTc were comparable to ondansetron and dolasetron in CINV clinical trials.
+Cardiac Electrophysiology
+
+The effect of intravenous palonosetron on blood pressure, heart rate, and ECG parameters including QTc were comparable to intravenous ondansetron and dolasetron in CINV clinical trials.
 In PONV clinical trials the effect of palonosetron on the QTc interval was no different from placebo.
 In non-clinical studies palonosetron possesses the ability to block ion channels involved in ventricular de- and re-polarization and to prolong action potential duration.
 
-The effect of palonosetron on QTc interval was evaluated in a double blind, randomized, parallel, placebo and positive (moxifloxacin) controlled trial in adult men and women.
-The objective was to evaluate the ECG effects of I.V. administered palonosetron at single doses of 0.25, 0.75 or 2.25 mg in 221 healthy subjects.
-The study demonstrated no significant effect on any ECG interval including QTc duration (cardiac repolarization) at doses up to 2.25 mg.
+At a dose of 9 times the maximum recommended adult dose, palonosetron does not prolong the QT interval to any clinically relevant extent.
 
 ## 12.3 Pharmacokinetics
 
-After intravenous dosing of palonosetron in healthy subjects and cancer patients, an initial decline in plasma concentrations is followed by a slow elimination from the body.
+After intravenous dosing of palonosetron hydrochloride in healthy subjects and cancer patients, an initial decline in plasma concentrations is followed by a slow elimination from the body.
 Mean maximum plasma concentration (Cmax) and area under the concentration-time curve (AUC0-∞) are generally dose-proportional over the dose range of 0.3 to 90 mcg/kg in healthy subjects and in cancer patients.
-Following single I.V. dose of palonosetron at 3 mcg/kg (or 0.21 mg/70 kg) to six cancer patients, mean (±SD) maximum plasma concentration was estimated to be 5630 ± 5480 ng/L and mean AUC was 35.8 ± 20.9 h•mcg/L.
+Following a single intravenous dose of palonosetron hydrochloride at 3 mcg/kg (or 0.21 mg/70 kg) to six cancer patients, mean (±SD) maximum plasma concentration was estimated to be 5630 ± 5480 ng/L and mean AUC was 35.8 ± 20.9 h•mcg/L.
 
-Following I.V. administration of palonosetron 0.25 mg once every other day for 3 doses in 11 cancer patients, the mean increase in plasma palonosetron concentration from Day 1 to Day 5 was 42±34%.
-Following I.V. administration of palonosetron 0.25 mg once daily for 3 days in 12 healthy subjects, the mean (±SD) increase in plasma palonosetron concentration from Day 1 to Day 3 was 110±45%.
+Following intravenous administration of palonosetron 0.25 mg once every other day for 3 doses in 11 cancer patients, the mean increase in plasma palonosetron concentration from Day 1 to Day 5 was 42±34%.
+Following intravenous administration of palonosetron 0.25 mg once daily for 3 days in 12 healthy subjects, the mean (±SD) increase in plasma palonosetron concentration from Day 1 to Day 3 was 110±45%.
 
 After intravenous dosing of palonosetron in patients undergoing surgery (abdominal surgery or vaginal hysterectomy), the pharmacokinetic characteristics of palonosetron were similar to those observed in cancer patients.
 
@@ -37,6 +37,12 @@ Distribution
 Palonosetron has a volume of distribution of approximately 8.3 ± 2.5 L/kg.
 Approximately 62% of palonosetron is bound to plasma proteins.
 
+Elimination
+
+After a single intravenous dose of 10 mcg/kg [14C]-palonosetron, approximately 80% of the dose was recovered within 144 hours in the urine with palonosetron representing approximately 40% of the administered dose.
+In healthy subjects, the total body clearance of palonosetron was 0.160 ± 0.035 L/h/kg and renal clearance was 0.067 ± 0.018 L/h/kg.
+Mean terminal elimination half-life is approximately 40 hours.
+
 Metabolism
 
 Palonosetron is eliminated by multiple routes with approximately 50% metabolized to form two primary metabolites: N-oxide-palonosetron and 6-S-hydroxy-palonosetron.
@@ -44,29 +50,23 @@ These metabolites each have less than 1% of the 5-HT3 receptor antagonist activi
 In vitro metabolism studies have suggested that CYP2D6 and to a lesser extent, CYP3A4 and CYP1A2 are involved in the metabolism of palonosetron.
 However, clinical pharmacokinetic parameters are not significantly different between poor and extensive metabolizers of CYP2D6 substrates.
 
-Elimination
-
-After a single intravenous dose of 10 mcg/kg [14C]-palonosetron, approximately 80% of the dose was recovered within 144 hours in the urine with palonosetron representing approximately 40% of the administered dose.
-In healthy subjects, the total body clearance of palonosetron was 0.160 ± 0.035 L/h/kg and renal clearance was 0.067 ± 0.018 L/h/kg.
-Mean terminal elimination half-life is approximately 40 hours.
-
 Specific Populations
 
 Pediatric Patients
 
-Single-dose I.V. palonosetron hydrochloride pharmacokinetic data was obtained from a subset of pediatric cancer patients that received 10 mcg/kg or 20 mcg/kg.
+Pharmacokinetic data was obtained from a subset of pediatric cancer patients that received 10 mcg/kg or 20 mcg/kg as a single intravenous dose of palonosetron hydrochloride.
 When the dose was increased from 10 mcg/kg to 20 mcg/kg a dose-proportional increase in mean AUC was observed.
-Following single dose intravenous infusion of palonosetron hydrochloride 20 mcg/kg, peak plasma concentrations (CT) reported at the end of the 15 minute infusion were highly variable in all age groups and tended to be lower in patients < 6 years than in older patients.
-Median half-life was 29.5 hours in overall age groups and ranged from about 20 to 30 hours across age groups after administration of 20 mcg/kg.
+Peak plasma concentrations (CT) reported at the end of the 15-minute infusion of 20 mcg/kg were highly variable in all age groups and tended to be lower in patients less than 6 years than in older patients as shown in Table 4.
+The median half-life was 30 hours in overall age groups and ranged from about 20 to 30 hours across age groups after administration of 20 mcg/kg.
 
 The total body clearance (L/h/kg) in patients 12 to 17 years old was similar to that in healthy adults.
 There are no apparent differences in volume of distribution when expressed as L/kg.
 
-Table 3: Pharmacokinetics Parameters in Pediatric Cancer Patients following intravenous infusion of Palonosetron Hydrochloride at 20 mcg/kg over 15 min
+Table 4: Pharmacokinetics Parameters in Pediatric Cancer Patients following Intravenous Infusion of 20 mcg/kg Palonosetron Hydrochloride Over 15 minutes
 
 | PK Parametera | Pediatric Age Group |  |  |  |
 | --- | --- | --- | --- | --- |
-| <2 y | 2 to <6 y | 6 to <12 y | 12 to <17 y |  |
+| Less than 2 years | 2 years to less than 6 years | 6 years to less than 12 years | 12 years to less than 17 years |  |
 |  | N=12 | N=42 | N=38 | N=44 |
 | CTb, ng/L | 9025 (197) | 9414 (252) | 16275 (203) | 11831 (176) |
 |  |  | N=5 | N=7 | N=10 |
@@ -75,5 +75,41 @@ Table 3: Pharmacokinetics Parameters in Pediatric Cancer Patients following intr
 | Clearancec, L/h/kg | 0.31 (34.7) | 0.23 (51.3) | 0.19 (46.8) | 0.16 (27.8) |
 | Vssc, L/kg | 6.08 (36.5) | 5.29 (57.8) | 6.26 (40.0) | 6.20 (29.0) |
 | a Geometric Mean (CV) except for t1/2 which is median values. |  |  |  |  |
-| b CT is the plasma palonosetron concentration at the end of the 15 minute infusion. |  |  |  |  |
+| b CT is the plasma palonosetron concentration at the end of the 15-minute infusion. |  |  |  |  |
 | c Clearance and Vss calculated from 10 and 20 mcg/kg and are weight adjusted. |  |  |  |  |
+
+Racial or Ethnic Groups
+
+The pharmacokinetics of palonosetron were characterized in 24 healthy Japanese subjects over an intravenous dose range of 3 to 90 mcg/kg.
+Total body clearance was 25% higher in Japanese subjects compared to Whites, however, this increase is not considered to be clinically meaningful.
+
+Patients with Renal Impairment
+
+Mild to moderate renal impairment does not significantly affect palonosetron pharmacokinetic parameters.
+Total systemic exposure increased by approximately 28% in patients with severe renal impairment relative to healthy subjects.
+This increase is not considered clinically meaningful.
+
+Patients with Hepatic Impairment
+
+Hepatic impairment does not significantly affect total body clearance of palonosetron compared to the healthy subjects.
+
+Drug Interaction Studies
+
+In vitro studies indicated that palonosetron is not an inhibitor of CYP1A2, CYP2A6, CYP2B6, CYP2C9, CYP2D6, CYP2E1 and CYP3A4/5 (CYP2C19 was not investigated) nor does it induce the activity of CYP1A2, CYP2D6, or CYP3A4/5.
+Therefore, the potential for clinically significant drug interactions with palonosetron appears to be low.
+
+Dexamethasone
+
+Coadministration of 0.25 mg palonosetron and 20 mg dexamethasone administered intravenously in healthy subjects revealed no pharmacokinetic drug-interactions between palonosetron and dexamethasone.
+
+Oral Aprepitant
+
+In an interaction study in healthy subjects where a single 0.25 mg intravenous dose of palonosetron was administered on day 1 and oral aprepitant for 3 days (125 mg/80 mg/80 mg), the pharmacokinetics of palonosetron were not significantly altered (AUC: no change, Cmax: 15% increase).
+
+Metoclopramide
+
+A study in healthy subjects involving a single 0.75 mg intravenous dose of palonosetron and steady state oral metoclopramide (10 mg four times daily) demonstrated no significant pharmacokinetic interaction.
+
+Corticosteroids, Analgesics, Antiemetics/Antinauseants, Antispasmodics and Anticholinergic Agents
+
+In controlled clinical trials, palonosetron has been safely administered with corticosteroids, analgesics, antiemetics/antinauseants, antispasmodics and anticholinergic agents.

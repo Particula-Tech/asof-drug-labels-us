@@ -1,20 +1,19 @@
 # 17 PATIENT COUNSELING INFORMATION
 
-See FDA-approved patient labeling (Patient Information).
+Advise the patient or caregiver to read the FDA-approved patient labeling (Patient Information).
 
-Instructions for Patients
+Hypersensitivity Reactions
 
-Patients should be advised to report to their physician all of their medical conditions, including any pain, redness, or swelling in and around the infusion site [see Adverse Reactions (6.3)].
+Advise patients that hypersensitivity reactions, including anaphylaxis and anaphylactic shock, have been reported in patients with or without known hypersensitivity to other 5-HT3 receptor antagonists.
+Advise patients to seek immediate medical attention if any signs or symptoms of a hypersensitivity reaction occur with administration of palonosetron hydrochloride [see Warnings and Precautions (5.1)].
+
+Serotonin Syndrome
 
 Advise patients of the possibility of serotonin syndrome, especially with concomitant use of palonosetron hydrochloride and another serotonergic agent such as medications to treat depression and migraines.
 Advise patients to seek immediate medical attention if the following symptoms occur: changes in mental status, autonomic instability, neuromuscular symptoms with or without gastrointestinal symptoms [see Warnings and Precautions (5.2)].
 
-Patients should be instructed to read the Patient Information.
+SAGENT® Mfd. for SAGENT Pharmaceuticals Schaumburg, IL 60195 (USA) Made in India ©2020 Sagent Pharmaceuticals, Inc.
 
-SAGENT®
+Revised: April 2020
 
-Mfd. for SAGENT Pharmaceuticals Schaumburg, IL 60195 (USA) Made in India ©2017 Sagent Pharmaceuticals, Inc.
-
-October 2017
-
-SAGENT Pharmaceuticals®
+SAGENT Pharmaceuticals ®
