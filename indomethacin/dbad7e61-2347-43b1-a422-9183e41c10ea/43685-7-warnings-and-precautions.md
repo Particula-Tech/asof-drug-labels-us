@@ -42,7 +42,7 @@ Risk Factors for GI Bleeding, Ulceration, and Perforation
 
 Patients with a prior history of peptic ulcer disease and/or GI bleeding who used NSAIDs had a greater than 10-fold increased risk for developing a GI bleed compared to patients without these risk factors.
 Other factors that increase the risk of GI bleeding in patients treated with NSAIDs include longer duration of NSAID therapy; concomitant use of oral corticosteroids, aspirin, anticoagulants, or selective serotonin reuptake inhibitors (SSRIs); smoking; use of alcohol; older age; and poor general health status.
-Most postmarketing reports of fatal GI events occurred in elderly or debilitated patients.
+Most post-marketing reports of fatal GI events occurred in elderly or debilitated patients.
 Additionally, patients with advanced liver disease and/or coagulopathy are at increased risk for GI bleeding.
 
 Strategies to Minimize the GI Risks in NSAID-treated patients:
@@ -132,12 +132,38 @@ These serious events may occur without warning.
 Inform patients about the signs and symptoms of serious skin reactions, and to discontinue the use of indomethacin extended-release capsules at the first appearance of skin rash or any other sign of hypersensitivity.
 Indomethacin extended-release capsules are contraindicated in patients with previous serious skin reactions to NSAIDs [see Contraindications (4)].
 
-## 5.10 Premature Closure of Fetal Ductus Arteriosus
+## 5.10 Drug Reaction with Eosinophilia and Systemic Symptoms (DRESS)
 
-Indomethacin may cause premature closure of the fetal ductus arteriosus.
-Avoid use of NSAIDs, including indomethacin extended-release capsules, in pregnant women starting at 30 weeks of gestation (third trimester) [see Use in Specific Populations (8.1)].
+Drug Reaction with Eosinophilia and Systemic Symptoms (DRESS) has been reported in patients taking NSAIDs such as indomethacin extended-release capsules.
+Some of these events have been fatal or life-threatening.
+DRESS typically, although not exclusively, presents with fever, rash, lymphadenopathy, and/or facial swelling.
+Other clinical manifestations may include hepatitis, nephritis, hematological abnormalities, myocarditis, or myositis.
+Sometimes symptoms of DRESS may resemble an acute viral infection.
+Eosinophilia is often present.
+Because this disorder is variable in its presentation, other organ systems not noted here may be involved.
+It is important to note that early manifestations of hypersensitivity, such as fever or lymphadenopathy, may be present even though rash is not evident.
+If such signs or symptoms are present, discontinue indomethacin extended-release capsules and evaluate the patient immediately.
 
-## 5.11 Hematologic Toxicity
+## 5.11 Fetal Toxicity
+
+Premature Closure of Fetal Ductus Arteriosus:
+
+Avoid use of NSAIDs, including indomethacin extended-release capsules, in pregnant women at about 30 weeks gestation and later.
+NSAIDs, including indomethacin extended-release capsules, increase the risk of premature closure of the fetal ductus arteriosus at approximately this gestational age.
+
+Oligohydramnios/Neonatal Renal Impairment:
+
+Use of NSAIDs, including indomethacin extended-release capsules, at about 20 weeks gestation or later in pregnancy may cause fetal renal dysfunction leading to oligohydramnios and, in some cases, neonatal renal impairment.
+These adverse outcomes are seen, on average, after days to weeks of treatment, although oligohydramnios has been infrequently reported as soon as 48 hours after NSAID initiation.
+Oligohydramnios is often, but not always, reversible with treatment discontinuation.
+Complications of prolonged oligohydramnios may, for example, include limb contractures and delayed lung maturation.
+In some post-marketing exchange transfusion or dialysis were required.
+
+If NSAID treatment is necessary between about 20 weeks and 30 weeks gestation, limit indomethacin extended-release capsules use to the lowest effective dose and shortest duration possible.
+Consider ultrasound monitoring of amniotic fluid if indomethacin extended-release capsules treatment extends beyond 48 hours.
+Discontinue indomethacin extended-release capsules if oligohydramnios occurs and follow up according to clinical practice [see Use in Specific Populations (8.1)].
+
+## 5.12 Hematologic Toxicity
 
 Anemia has occurred in NSAID-treated patients.
 This may be due to occult or gross blood loss, fluid retention, or an incompletely described effect on erythropoiesis.
@@ -147,15 +173,15 @@ NSAIDs, including indomethacin extended-release capsules, may increase the risk 
 Co-morbid conditions, such as coagulation disorders, or concomitant use of warfarin, other anticoagulants, antiplatelet agents (e.g., aspirin), serotonin reuptake inhibitors (SSRIs), and serotonin norepinephrine reuptake inhibitors (SNRIs) may increase this risk.
 Monitor these patients for signs of bleeding [see Drug Interactions (7)].
 
-## 5.12 Masking of Inflammation and Fever
+## 5.13 Masking of Inflammation and Fever
 
 The pharmacological activity of indomethacin extended-release capsules in reducing inflammation, and possibly fever, may diminish the utility of diagnostic signs in detecting infections.
 
-## 5.13 Laboratory Monitoring
+## 5.14 Laboratory Monitoring
 
 Because serious GI bleeding, hepatotoxicity, and renal injury can occur without warning symptoms or signs, consider monitoring patients on long-term NSAID treatment with a CBC and a chemistry profile periodically [see Warnings and Precautions (5.2, 5.3, 5.6)].
 
-## 5.14 Central Nervous System Effects
+## 5.15 Central Nervous System Effects
 
 Indomethacin extended-release capsules may aggravate depression or other psychiatric disturbances, epilepsy, and parkinsonism, and should be used with considerable caution in patients with these conditions.
 Discontinue indomethacin extended-release capsules if severe CNS adverse reactions develop.
@@ -164,7 +190,7 @@ Indomethacin extended-release capsules may cause drowsiness; therefore, caution 
 Indomethacin may also cause headache.
 Headache which persists despite dosage reduction requires cessation of therapy with indomethacin extended-release capsules.
 
-## 5.15 Ocular Effects
+## 5.16 Ocular Effects
 
 Corneal deposits and retinal disturbances, including those of the macula, have been observed in some patients who had received prolonged therapy with indomethacin extended-release capsules.
 Be alert to the possible association between the changes noted and indomethacin extended-release capsules.
@@ -173,7 +199,7 @@ Blurred vision may be a significant symptom and warrants a thorough ophthalmolog
 Since these changes may be asymptomatic, ophthalmologic examination at periodic intervals is desirable in patients receiving prolonged therapy.
 Indomethacin extended-release capsules are not indicated for long-term treatment.
 
-## 5.16 Risk of Allergic Reactions Due to Tartrazine
+## 5.17 Risk of Allergic Reactions Due to Tartrazine
 
 This product contains FD&C Yellow No. 5 (tartrazine) which may cause allergic-type reactions (including bronchial asthma) in certain susceptible persons.
 Although the overall incidence of FD&C Yellow No. 5 (tartrazine) sensitivity in the general population is low, it is frequently seen in patients who also have aspirin hypersensitivity.
