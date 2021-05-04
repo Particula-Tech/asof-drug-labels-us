@@ -17,4 +17,4 @@ Rx Only
 Distributed by: Amneal Pharmaceuticals LLC Bridgewater, NJ 08807
 
 Rev.
-03-2019-03
+03-2021-05
