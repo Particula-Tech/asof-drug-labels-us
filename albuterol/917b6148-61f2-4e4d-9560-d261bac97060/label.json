@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "NDA020503"
+  ],
+  "inn": "albuterol",
+  "labeler": "Sandoz",
+  "package_ndcs": [
+    "66758-959-85"
+  ],
+  "products": [
+    {
+      "form": "AEROSOL, METERED",
+      "generic": "albuterol sulfate",
+      "name": "Proventil HFA"
+    }
+  ],
+  "setid": "917b6148-61f2-4e4d-9560-d261bac97060",
+  "source": "dailymed"
+}

@@ -1,0 +1,49 @@
+Principal Display Panel – Trade Canister Label
+
+NDC 66758-959-85
+
+PROVENTIL® HFA
+
+(Albuterol Sulfate Inhalation Aerosol)
+
+with Dose Indicator
+
+FOR ORAL INHALATION WITH
+
+PROVENTIL HFA ACTUATOR ONLY
+
+Rx only
+
+200 METERED INHALATIONS
+
+NET CONTENTS 6.7g
+
+CONTAINS NO CHLORO-
+
+FLUOROCARBONS
+
+(CFCs).
+
+Principal Display Panel – Trade Carton Label
+
+NDC 66758-959-85
+
+PROVENTIL® HFA
+
+(Albuterol Sulfate Inhalation Aerosol)
+
+with Dose Indicator
+
+FOR ORAL INHALATION WITH
+
+PROVENTIL HFA ACTUATOR ONLY
+
+Rx only
+
+200 METERED INHALATIONS
+
+NET CONTENTS 6.7g
+
+CONTAINS NO
+
+CHLOROFLUOROCARBONS [CFCs]
