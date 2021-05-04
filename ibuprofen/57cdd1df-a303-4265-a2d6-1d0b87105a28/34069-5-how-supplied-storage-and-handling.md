@@ -1,6 +1,6 @@
 # HOW SUPPLIED
 
-Ibuprofen Tablets, USP are available in the following strength, colors and sizes:
+Ibuprofen Tablets, USP are available in the following strength, color and sizes:
 
 400 mg (round, convex, white, film-coated tablets, debossed with "IP 131" on one side, on other side debossed with "400").
 
@@ -17,4 +17,4 @@ Rx Only
 Distributed by: Amneal Pharmaceuticals LLC Bridgewater, NJ 08807
 
 Rev.
-03-2019-03
+03-2021-05

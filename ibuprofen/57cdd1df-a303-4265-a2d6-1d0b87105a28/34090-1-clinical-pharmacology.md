@@ -29,7 +29,7 @@ However, there was no interaction with the antiplatelet activity of aspirin when
 In another study, where immediate-release aspirin 81 mg was administered once daily with ibuprofen 400 mg given three times daily (1, 7, and 13 hours post-aspirin dose) for 10 consecutive days, the mean % serum thromboxane B2 (TxB2) inhibition suggested no interaction with the antiplatelet activity of aspirin [98.3%].
 However, there were individual subjects with serum TxB2 inhibition below 95%, with the lowest being 90.2%.
 
-When a similarly designed study was conducted with enteric-coated aspirin, where healthy subjects were administered enteric-coated aspirin 81 mg once daily for 6 days and ibuprofen 400 mg three times daily (2, 7 and 12 h post-aspirin dose) for 6 days, there was an interaction with the antiplatelet activity at 24 hours following the day-6 aspirin dose [67%] [see PRECAUTIONS/Drug Interactions].
+When a similarly designed study was conducted with enteric-coated aspirin, where healthy subjects were administered enteric-coated aspirin 81 mg once daily for 6 days and ibuprofen 400 mg three times daily (2, 7 and 12 h post-aspirin dose) for 6 days, there was an interaction with the antiplatelet activity at 24 hours following the day-6 aspirin dose [67%] [see PRECAUTIONS, Drug Interactions].
 
 ## Pharmacokinetics
 

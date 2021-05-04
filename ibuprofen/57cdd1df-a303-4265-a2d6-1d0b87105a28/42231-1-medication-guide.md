@@ -43,23 +43,25 @@ What are NSAIDs?
 NSAIDs are used to treat pain and redness, swelling, and heat (inflammation) from medical conditions such as different types of arthritis, menstrual cramps, and other types of short-term pain.
 
 Who should not take NSAIDs?
-Do not take NSAIDS:
+Do not take NSAIDs:
 
 - if you have had an asthma attack, hives, or other allergic reaction with aspirin or any other NSAIDs.
 - right before or after heart bypass surgery.
 
-Before taking NSAIDs, tell your health care provider about all of your medical conditions, including if you:
+Before taking NSAIDs, tell your healthcare provider about all of your medical conditions, including if you:
 
-- have liver or kidney problems have high blood pressure
+- have liver or kidney problems
+- have high blood pressure
 - have asthma
 - are pregnant or plan to become pregnant.
-  Talk to your health care provider if you are considering taking NSAIDs during pregnancy.
-  You should not take NSAIDs after 29 weeks of pregnancy.
+  Taking NSAIDs at about 20 weeks of pregnancy or later may harm your unborn baby.
+  If you need to take NSAIDs for more than 2 days when you are between 20 and 30 weeks of pregnancy, your healthcare provider may need to monitor the amount of fluid in your womb around your baby.
+  You should not take NSAIDs after about 30 weeks of pregnancy.
 - are breastfeeding or plan to breast feed.
 
-Tell your health care provider about all of the medicines you take, including prescription or over-the-counter medicines, vitamins or herbal supplements.
+Tell your healthcare provider about all of the medicines you take, including prescription or over-the-counter medicines, vitamins or herbal supplements.
 NSAIDs and some other medicines can interact with each other and cause serious side effects.
-Do not start taking new medicine without talking to your health care provider first.
+Do not start taking new medicine without talking to your healthcare provider first.
 
 What are the possible side effects of NSAIDs?
 NSAIDs can cause serious side effects, including: See “What is the most important information I should know about medicines called Nonsteroidal Anti-inflammatory Drugs (NSAIDs)?”
@@ -81,7 +83,7 @@ Get emergency help right away if you get any of the following symptoms:
 - slurred speech
 - swelling of the face or throat
 
-Stop taking your NSAID and call your health care provider right away if you get any of the following symptoms:
+Stop taking your NSAID and call your healthcare provider right away if you get any of the following symptoms:
 
 - nausea
 - more tired or weaker than usual
@@ -96,13 +98,13 @@ Stop taking your NSAID and call your health care provider right away if you get 
 - skin rash or blisters with fever
 - swelling of the arms, legs, hands, and feet
 
-If you take too much of your NSAID, call your health care provider or get medical help right away.
+If you take too much of your NSAID, call your healthcare provider or get medical help right away.
 
 These are not all the possible side effects of NSAIDs.
-For more information, ask your health care provider or pharmacist about NSAIDs.
+For more information, ask your healthcare provider or pharmacist about NSAIDs.
 
 Call your doctor for medical advice about side effects.
-You may report side effects to FDA at 1-800-FDA1088.
+You may report side effects to FDA at 1-800-FDA-1088.
 
 Other information about NSAIDs
 
@@ -110,20 +112,20 @@ Other information about NSAIDs
   Aspirin can cause bleeding in the brain, stomach, and intestines.
   Aspirin can also cause ulcers in the stomach and intestines.
 - Some NSAIDs are sold in lower doses without a prescription (over-the-counter).
-  Talk to your health care provider before using over-the-counter NSAIDs for more than 10 days.
+  Talk to your healthcare provider before using over-the-counter NSAIDs for more than 10 days.
 
 General information about the safe and effective use of NSAIDs Medicines are sometimes prescribed for purposes other than those listed in a Medication Guide.
 Do not use NSAIDs for a condition for which it was not prescribed.
 Do not give NSAIDs to other people, even if they have the same symptoms that you have.
 It may harm them.
-If you would like more information about NSAIDs, talk with your health care provider.
-You can ask your pharmacist or health care provider for information about NSAIDs that is written for health professionals.
+If you would like more information about NSAIDs, talk with your healthcare provider.
+You can ask your pharmacist or healthcare provider for information about NSAIDs that is written for health professionals.
 
 Distributed by: Amneal Pharmaceuticals LLC Bridgewater, NJ 08807
 
 Rev.
-03-2019-02
+11-2020-03
 
 For more information, go to www.amneal.com or call 1-877-835-5472.
 
-This Medication Guide has been approved by the U.S. Food and Drug Administration
+This Medication Guide has been approved by the U.S. Food and Drug Administration.

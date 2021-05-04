@@ -18,7 +18,7 @@ The dose should be tailored to each patient, and may be lowered or raised depend
 In general, patients with rheumatoid arthritis seem to require higher doses of Ibuprofen Tablets than do patients with osteoarthritis.
 
 The smallest dose of Ibuprofen Tablets that yields acceptable control should be employed.
-A linear blood level dose-response relationship exists with single doses up to 800 mg [See CLINICAL PHARMACOLOGY for effects of food on rate of absorption].
+A linear blood level dose-response relationship exists with single doses up to 800 mg [see CLINICAL PHARMACOLOGY for effects of food on rate of absorption].
 
 The availability of four tablet strengths facilitates dosage adjustment.
 

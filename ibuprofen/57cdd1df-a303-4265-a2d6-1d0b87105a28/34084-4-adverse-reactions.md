@@ -15,7 +15,7 @@ These reactions have been divided into two categories: Column two of the table l
 Reported side effects were higher at doses of 3200 mg/day than at doses of 2400 mg or less per day in clinical trials of patients with rheumatoid arthritis.
 The increases in incidence were slight and still within the ranges reported in the table.
 
-| Incidence Greater Than 1% (but less than 3%) Probable Causal Relationship | Precise Incidence Unknown (but less than 1%) Probable CausalRelationship** | Precise Incidence Unknown (but less than 1%) Causal Relationship Unknown** |
+| Incidence Greater Than 1% (but less than 3%) Probable Causal Relationship | Precise Incidence Unknown (but less than 1%) Probable Causal Relationship** | Precise Incidence Unknown (but less than 1%) Causal Relationship Unknown** |
 | --- | --- | --- |
 | GASTROINTESTINALNausea*, epigastric pain*, heartburn*, diarrhea, abdominal distress, nausea and vomiting, indigestion, constipation, abdominal cramps or pain, fullness of GI tract (bloating and flatulence) | Gastric or duodenal ulcer with bleeding and/or perforation, gastrointestinal hemorrhage, melena, gastritis, hepatitis, jaundice, abnormal liver function tests; pancreatitis |  |
 | CENTRAL NERVOUS SYSTEMDizziness*, headache, nervousness | Depression, insomnia, confusion, emotional liability, somnolence, aseptic meningitis with fever and coma [see PRECAUTIONS] | Paresthesias, hallucinations, dream abnormalities, pseudotumor cerebri |
@@ -27,9 +27,4 @@ The increases in incidence were slight and still within the ranges reported in t
 | ALLERGIC | Syndrome of abdominal pain, fever, chills, nausea and vomiting; anaphylaxis; bronchospasm [see CONTRAINDICATIONS] | Serum sickness, lupus erythematosus syndrome, Henoch-Schonlein vasculitis, angioedema |
 | RENAL | Acute renal failure [see PRECAUTIONS], decreased creatinine clearance, polyuria, azotemia, cystitis, hematuria | Renal papillary necrosis |
 | MISCELLANEOUS | Dry eyes and mouth, gingival ulcer, rhinitis |  |
-
-* Reactions occurring in 3% to 9% of patients treated with ibuprofen tablets.
-(Those reactions occurring in less than 3% of the patients are unmarked.)
-
-** Reactions are classified under “Probable Causal Relationship (PCR)” if there has been one positive rechallenge or if three or more cases occur which might be causally related.
-Reactions are classified under “Causal Relationship Unknown” if seven or more events have been reported but the criteria for PCR have not been met.
+| * Reactions occurring in 3% to 9% of patients treated with Ibuprofen Tablets. (Those reactions occurring in less than 3% of the patients are unmarked.)** Reactions are classified under “Probable Causal Relationship (PCR)” if there has been one positive rechallenge or if three or more cases occur which might be causally related. Reactions are classified under “Causal Relationship Unknown” if seven or more events have been reported but the criteria for PCR have not been met. |  |  |

@@ -1,6 +1,6 @@
 # DESCRIPTION
 
-Ibuprofen Tablets, USP contain the active ingredient ibuprofen, which is (±) - 2 - (p - isobutylphenyl) propionic acid.
+Ibuprofen Tablets, USP contain the active ingredient ibuprofen, which is (±)-2-(p-isobutylphenyl) propionic acid.
 Ibuprofen is a white powder with a melting point of 74° to 77° C and is very slightly soluble in water (<1 mg/mL) and readily soluble in organic solvents such as ethanol and acetone.
 The structural formula is represented below:
 
