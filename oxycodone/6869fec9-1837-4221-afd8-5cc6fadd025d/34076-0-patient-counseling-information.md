@@ -2,7 +2,7 @@
 
 Advise the patient to read the FDA-approved patient labeling (Medication Guide).
 
-Storage and Disposal:
+Storage and Disposal
 
 Because of the risks associated with accidental ingestion, misuse, and abuse, advise patients to store Oxycodone Hydrochloride Oral Solution securely, out of sight and reach of children, and in a location not accessible by others, including visitors to the home (see Warnings and Precautions (5.2, 5.14), Drug Abuse and Dependence (9.2)].
 Inform patients that leaving Oxycodone Hydrochloride Oral Solution unsecured can pose a deadly risk to others in the home.
@@ -16,7 +16,6 @@ Medication Errors
 Advise patients that Oxycodone Hydrochloride Oral Solution, is available in two concentrations (5 mg/5 mL and 100 mg/5 mL).
 Inform patients about which concentration they have been prescribed.
 Instruct patients how to measure and take the correct dose of Oxycodone Hydrochloride Oral Solution and to always use the enclosed calibrated measuring cup when administering Oxycodone Hydrochloride Oral Solution 5 mg per 5 mL (1 mg/mL) and to always use the enclosed calibrated oral syringe when administering Oxycodone Hydrochloride Oral Solution 100 mg per 5 mL (20 mg/mL) to ensure the dose is measured and administered accurately [see Warnings and Precautions (5.1)].
-
 If the prescribed concentration is changed, instruct patients on how to correctly measure the new dose to avoid errors which could result in accidental overdose and death.
 
 Addiction, Abuse, and Misuse
@@ -26,8 +25,25 @@ Instruct patients not to share Oxycodone Hydrochloride Oral Solution with others
 
 Life-Threatening Respiratory Depression
 
-Inform patients of the risk of life-threatening respiratory depression, including information that the risk is greatest when starting Oxycodone Hydrochloride Oral Solution or when the dosage is increased, and that it can occur even at recommended dosages [see Warnings and Precautions (5.4)].
-Advise patients how to recognize respiratory depression and to seek medical attention if breathing difficulties develop.
+Inform patients of the risk of life-threatening respiratory depression, including information that the risk is greatest when starting Oxycodone Hydrochloride Oral Solution or when the dosage is increased, and that it can occur even at recommended dosages.
+
+Educate patients and caregivers on how to recognize respiratory depression and emphasize the importance of calling 911 or getting emergency medical help right away in the event of a known or suspected overdose [see Warnings and Precautions (5.4)].
+
+Patient Access to Naloxone for the Emergency Treatment of Opioid Overdose
+
+Discuss with the patient and caregiver the availability of naloxone for the emergency treatment of opioid overdose, both when initiating and renewing treatment with Oxycodone Hydrochloride Oral Solution.
+Inform patients and caregivers about the various ways to obtain naloxone as permitted by individual state naloxone dispensing and prescribing requirements or guidelines (e.g., by prescription, directly from a pharmacist, or as part of a community-based program) [see Dosage and Administration (2.2), Warnings and Precautions (5.4)].
+
+Educate patients and caregivers on how to recognize the signs and symptoms of an overdose.
+
+Explain to patients and caregivers that naloxone's effects are temporary, and that they must call 911 or get emergency medical help right away in all cases of known or suspected opioid overdose, even if naloxone is administered [see Overdosage (10)].
+
+If naloxone is prescribed, also advise patients and caregivers:
+
+- How to treat with naloxone in the event of an opioid overdose
+- To tell family and friends about their naloxone and to keep it in a place where family and friends can access it in an emergency
+- To read the Patient Information (or other educational material) that will come with their naloxone.
+  Emphasize the importance of doing this before an opioid emergency happens, so the patient and caregiver will know what to do.
 
 Accidental Ingestion
 
@@ -68,7 +84,7 @@ Instruct patients how to properly take Oxycodone Hydrochloride Oral Solution.
 
 Important Discontinuation Instructions
 
-In order to avoid developing withdrawal symptoms, instruct patients not to discontinue Oxycodone Hydrochloride Oral Solution without first discussing a tapering plan with the prescriber [see Dosage and Administration (2.4)].
+In order to avoid developing withdrawal symptoms, instruct patients not to discontinue Oxycodone Hydrochloride Oral Solution without first discussing a tapering plan with the prescriber [see Dosage and Administration (2.5)].
 
 Hypotension
 
@@ -103,7 +119,7 @@ It is not known whether these effects on fertility are reversible [see Use in Sp
 Driving or Operating Heavy Machinery
 
 Inform patients that Oxycodone Hydrochloride Oral Solution may impair the ability to perform potentially hazardous activities such as driving a car or operating heavy machinery.
-Advise patients not to perform such tasks until they know how they will react to the medication [see Warnings and Precautions (5.5)].
+Advise patients not to perform such tasks until they know how they will react to the medication [see Warnings and Precautions (5.15)].
 
 Constipation
 
