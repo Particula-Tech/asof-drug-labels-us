@@ -1,6 +1,6 @@
 # OVERDOSAGE
 
-Approximately 1 ½ hours after the reported ingestion of from 7 to 10 Ibuprofen Tablets (400 mg), a 19-month old child weighing 12 kg was seen in the hospital emergency room, apneic and cyanotic, responding only to painful stimuli.
+Approximately 1½ hours after the reported ingestion of from 7 to 10 Ibuprofen Tablets (400 mg), a 19-month old child weighing 12 kg was seen in the hospital emergency room, apneic and cyanotic, responding only to painful stimuli.
 This type of stimulus, however, was sufficient to induce respiration.
 Oxygen and parenteral fluids were given; a greenish-yellow fluid was aspirated from the stomach with no evidence to indicate the presence of ibuprofen.
 Two hours after ingestion the child's condition seemed stable; she still responded only to painful stimuli and continued to have periods of apnea lasting from 5 to 10 seconds.

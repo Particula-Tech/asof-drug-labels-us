@@ -21,15 +21,10 @@ The increases in incidence were slight and still within the ranges reported in t
 | CENTRAL NERVOUS SYSTEMDizziness*, headache, nervousness | Depression, insomnia, confusion, emotional liability, somnolence, aseptic meningitis with fever and coma [see PRECAUTIONS] | Paresthesias, hallucinations, dream abnormalities, pseudotumor cerebri |
 | DERMATOLOGICRash* (including maculopapular type), pruritus | Vesiculobullous eruptions, urticaria, erythema multiforme, Stevens-Johnson syndrome, alopecia | Toxic epidermal necrolysis, photoallergic skin reactions |
 | SPECIAL SENSESTinnitus | Hearing loss, amblyopia (blurred and/or diminished vision, scotomata and/or changes in color vision) [see PRECAUTIONS] | Conjunctivitis, diplopia, optic neuritis, cataracts |
-| HEMATOLOGIC | Neutropenia, agranulocytosis, aplastic anemia, hemolytic anemia (sometimes Coombs positive), thrombocytopenia with or without purpura, eosinophilia, decreases in hemoglobin and hematocrit [see PRECAUTIONS] | Bleeding episodes (e.g.,epistaxis, menorrhagia) |
+| HEMATOLOGIC | Neutropenia, agranulocytosis, aplastic anemia, hemolytic anemia (sometimes Coombs positive), thrombocytopenia with or without purpura, eosinophilia, decreases in hemoglobin and hematocrit [see PRECAUTIONS] | Bleeding episodes (e.g., epistaxis, menorrhagia) |
 | METABOLIC/ENDOCRINEDecreased appetite |  | Gynecomastia, hypoglycemic reaction, acidosis |
 | CARDIOVASCULAREdema, fluid retention (generally responds promptly to drug discontinuation) [see PRECAUTIONS] | Congestive heart failure in patients with marginal cardiac function, elevated blood pressure, palpitations | Arrhythmias (sinus tachycardia, sinus bradycardia) |
 | ALLERGIC | Syndrome of abdominal pain, fever, chills, nausea and vomiting; anaphylaxis; bronchospasm [see CONTRAINDICATIONS] | Serum sickness, lupus erythematosus syndrome, Henoch-Schonlein vasculitis, angioedema |
 | RENAL | Acute renal failure [see PRECAUTIONS], decreased creatinine clearance, polyuria, azotemia, cystitis, hematuria | Renal papillary necrosis |
 | MISCELLANEOUS | Dry eyes and mouth, gingival ulcer, rhinitis |  |
-
-* Reactions occurring in 3% to 9% of patients treated with ibuprofen tablets.
-(Those reactions occurring in less than 3% of the patients are unmarked.)
-
-** Reactions are classified under “Probable Causal Relationship (PCR)” if there has been one positive rechallenge or if three or more cases occur which might be causally related.
-Reactions are classified under “Causal Relationship Unknown” if seven or more events have been reported but the criteria for PCR have not been met.
+| * Reactions occurring in 3% to 9% of patients treated with Ibuprofen Tablets. (Those reactions occurring in less than 3% of the patients are unmarked.)** Reactions are classified under “Probable Causal Relationship (PCR)” if there has been one positive rechallenge or if three or more cases occur which might be causally related. Reactions are classified under “Causal Relationship Unknown” if seven or more events have been reported but the criteria for PCR have not been met. |  |  |
