@@ -222,12 +222,12 @@ Active ingredients: alogliptin and metformin hydrochloride
 
 Inactive ingredients: mannitol, microcrystalline cellulose, povidone, crospovidone and magnesium stearate; the tablets are film-coated with hypromellose 2910, talc, titanium dioxide and ferric oxide yellow.
 
-Distributed by Takeda Pharmaceuticals America, Inc. Deerfield, IL 60015.
+Distributed by Takeda Pharmaceuticals America, Inc. Lexington, MA 02421.
 KAZANO and NESINA are trademarks of Takeda Pharmaceutical Company Limited registered with the U.S. Patent and Trademark Office and are used under license by Takeda Pharmaceuticals America, Inc.
 
-©2013 - 2017 Takeda Pharmaceuticals America, Inc.
+©2013 - 2020 Takeda Pharmaceuticals America, Inc.
 
-ALM143 R11
+ALM143 R12
 
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
 2/2017
