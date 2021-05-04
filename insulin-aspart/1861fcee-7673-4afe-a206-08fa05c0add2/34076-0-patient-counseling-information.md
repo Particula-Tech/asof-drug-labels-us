@@ -29,33 +29,27 @@ Hypersensitivity Reactions
 Advise patients that hypersensitivity reactions have occurred with NOVOLOG MIX 70/30.
 Inform patients of the symptoms of hypersensitivity reactions [see Warnings and Precautions (5.5)].
 
-Administration
-
-- •Advise patients to inspect NOVOLOG MIX 70/30 visually before use.
-  It should appear uniformly white and cloudy.
-  Instruct them to not use it if it looks clear or contains solid particles.
-- •NOVOLOG MIX 70/30 must be resuspended immediately before use.
-  Resuspension is easier when the insulin has reached room temperature.
-- •Instruct patients when using the vial, to roll the vial gently in their hands in a horizontal position 10 times until the suspension appears uniformly white and cloudy.
-  The patient should use immediately after resuspension.
-- •Instruct patients when using NOVOLOG MIX 70/30 FlexPen, to roll NOVOLOG MIX 70/30 FlexPen gently between their hands in a horizontal position 10 times.
-  Then, to turn NOVOLOG MIX 70/30 FlexPen upside down so that the glass ball moves from one end of the reservoir to the other 10 times until the suspension appears uniformly white and cloudy.
-  The patient should use immediately after resuspension.
-- •Instruct patients to administer NOVOLOG MIX 70/30 by subcutaneous injection in the abdominal region, buttocks, thigh, or upper arm and to rotate injection sites within the same region to reduce the risk of lipodystrophy.
-
-Version: 16
+Version: 17
 
 Novo Nordisk®, NOVOLOG®, FlexPen®, and Novolin® are registered trademarks of Novo Nordisk® A/S.
 
-Patent Information: http://novonordisk-us.com/patients/products/product-patents.html
+ReliOn® is a registered trademark of Walmart Inc. and is used under license by Novo Nordisk Inc.
 
-© 2002 – 2019 Novo Nordisk
+Patent Information: http://novonordisk-us.com/products/product-patents.html
+
+© 2021 Novo Nordisk
 
 Manufactured by:
 
-Novo Nordisk A/S
+Novo Nordisk Inc.
 
-DK-2880 Bagsvaerd, Denmark
+800 Scudders Mill Road
+
+Plainsboro, NJ 08536
+
+1-800-727-6500
+
+U.S. License Number 1261
 
 For information about NOVOLOG MIX 70/30 contact:
 
@@ -63,8 +57,8 @@ Novo Nordisk Inc.
 
 800 Scudders Mill Road
 
-Plainsboro, New Jersey 08536
+Plainsboro, NJ 08536
 
-1-800-727-6500
+1-800-727-6500 (Se Habla español)
 
 www.novonordisk-us.com

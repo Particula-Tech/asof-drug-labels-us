@@ -7,7 +7,7 @@
 - •Administer the dose within 15 minutes before meal initiation.
   For patients with type 2 diabetes, the dose may also be given after meal initiation.
 - •Rotate injection sites within the same region from one injection to the next to reduce the risk of lipodystrophy and localized cutaneous amyloidosis.
-  Do not inject into areas of lipodystrophy or localized cutaneous amyloidosis [see Warnings and Precautions (5.2) and Adverse Reactions (6.1,6.3)].
+  Do not inject into areas of lipodystrophy or localized cutaneous amyloidosis [see Warnings and Precautions (5.2) and Adverse Reactions (6.1, 6.3)].
 - •During changes to a patient’s insulin regimen, increase the frequency of blood glucose monitoring [see Warnings and Precautions (5.2)].
 - •Inspect NOVOLOG MIX 70/30 visually before use.
   It should appear uniformly white and cloudy.

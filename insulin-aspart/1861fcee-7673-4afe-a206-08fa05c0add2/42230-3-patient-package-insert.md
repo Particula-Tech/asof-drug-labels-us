@@ -2,7 +2,7 @@
 
 NovoLog® Mix 70/30 (NŌ-vō-log-MIX-SEV-en-tee-THIR-tee)
 
-(insulin aspart protamine and insulin aspart injectable suspension)
+(insulin aspart protamine and insulin aspart) injectable suspension
 
 Do not share your NovoLog Mix 70/30 FlexPen with other people, even if the needle has been changed.
 You may give other people a serious infection, or get a serious infection from them.
@@ -105,21 +105,22 @@ What are the ingredients in NovoLog Mix 70/30?
 
 Active Ingredient: 70% insulin aspart protamine and 30% insulin aspart.
 
-Inactive Ingredients: glycerol, phenol, metacresol, zinc, disodium hydrogen phosphate dihydrate, sodium chloride, protamine sulfate, water for injection, hydrochloric acid or sodium hydroxide.
+Inactive Ingredients: disodium hydrogen phosphate dihydrate, glycerol, metacresol, phenol, protamine sulfate, sodium chloride, zinc, and Water for Injection, USP.
+Hydrochloric acid or sodium hydroxide may be added to adjust pH.
 
-Manufactured by: Novo Nordisk A/S; DK-2880 Bagsvaerd, Denmark
+Manufactured by: Novo Nordisk Inc., Plainsboro, NJ 08536 U.S. License Number 1261
 
 For more information, go to www.novonordisk-us.com or call 1-800-727-6500.
 
 This Patient Information has been approved by the U.S. Food and Drug Administration
 
-Revised: 11/2019
+Revised: 4/2021
 
 INSTRUCTIONS FOR USE
 
 NovoLog® Mix 70/30 (NŌ-vō-Log-MIX-SEV-en-tee-THIR-tee)
 
-(insulin aspart protamine and insulin aspart injectable suspension)
+(insulin aspart protamine and insulin aspart) injectable suspension
 
 10 mL multiple-dose vial (100 Units/mL, U-100)
 
@@ -175,7 +176,7 @@ Giving your injection:
 
 - •Inject your NovoLog Mix 70/30 exactly as your healthcare provider has shown you.
   Your healthcare provider should tell you if you need to pinch the skin before injecting.
-- •NovoLogMix 70/30 is injected under the skin (subcutaneously) of your stomach area, buttocks, upper legs, or upper arms.
+- •NovoLog Mix 70/30 is injected under the skin (subcutaneously) of your stomach area, buttocks, upper legs, or upper arms.
 - •Change (rotate) your injection sites within the area you choose for each dose to reduce your risk of getting lipodystrophy (pits in skin or thickened skin) and localized cutaneous amyloidosis (skin with lumps) at the injection sites.
   Do not use the same injection site for each injection.
   Do not inject where the skin has pits, thickened, or has lumps.
@@ -188,7 +189,7 @@ Step 12: Insert the needle into your skin.
 Push down on the plunger to inject your dose (See Figure L). The needle should remain in the skin for at least 6 seconds to make sure you have injected all the insulin.
 
 Step 13: Pull the needle out of your skin.
-After that, you may see a drop of NovoLogMix 70/30 at the needle tip.
+After that, you may see a drop of NovoLog Mix 70/30 at the needle tip.
 This is normal and does not affect the dose you just received (See Figure M).
 
 - •If you see blood after you take the needle out of your skin, press the injection site lightly with a piece of gauze or an alcohol swab.
@@ -217,11 +218,11 @@ How should I store NovoLog Mix 70/30?
   Do not use NovoLog Mix 70/30 if it has been frozen.
 - •Keep NovoLog Mix 70/30 away from heat or light.
 - All unopened vials:
-- •Store unopened NovoLog Mix 70/30 vials in the refrigerator at 36OF to 46OF (2OC to 8OC).
+- •Store unopened NovoLog Mix 70/30 vials in the refrigerator at 36°F to 46°F (2°C to 8°C).
 - •Unopened vials may be used until the expiration date printed on the label, if they have been stored in the refrigerator.
 - •Unopened vials should be thrown away after 28 days, if they are stored at room temperature.
 - After vials have been opened:
-- •Opened NovoLog Mix 70/30 vials can be stored in the refrigerator at 36OF to 46OF (2OC to 8OC) or at room temperature below 86°F (30°C) for up to 28 days.
+- •Opened NovoLog Mix 70/30 vials can be stored in the refrigerator 36°F to 46°F (2°C to 8°C) or at room temperature below 86°F (30°C) for up to 28 days.
 - •Throw away all opened NovoLog Mix 70/30 vials after 28 days, even if they still have insulin left in them.
 
 General information about the safe and effective use of NovoLog Mix 70/30
@@ -234,17 +235,23 @@ This Instructions for Use has been approved by the U.S. Food and Drug Administra
 
 Manufactured by:
 
-Novo Nordisk A/S
+Novo Nordisk Inc.
 
-DK-2880 Bagsvaerd, Denmark
+800 Scudders Mill Road
 
-Revised: 11/2019
+Plainsboro, New Jersey 08536
+
+1-800-727-6500
+
+U.S. License Number 1261
+
+Revised: 4/2021
 
 NovoLog® is a registered trademark of Novo Nordisk A/S.
 
-PATENT Information: http://novonordisk-us.com/patients/products/product-patents.html
+PATENT Information: http://novonordisk-us.com/products/product-patents.html
 
-© 2002-2019 Novo Nordisk
+© 2002-2021 Novo Nordisk
 
 For information about NovoLog Mix 70/30 contact:
 
@@ -264,7 +271,7 @@ NovoLog® Mix 70/30 FlexPen®
 
 (NŌ-vō-Log-MIX-SEV-en-tee-THIR-tee)
 
-(insulin aspart protamine and insulin aspart injectable suspension)
+(insulin aspart protamine and insulin aspart) injectable suspension
 
 Read the following instructions carefully before you start using your NovoLog Mix 70/30 FlexPen and each time you get a refill.
 There may be new information.
@@ -277,7 +284,7 @@ NovoLog Mix 70/30 FlexPen is a disposable, single-patient-use dial-a-dose insuli
 You can select doses from 1 to 60 units in increments of 1 unit.
 NovoLog Mix 70/30 FlexPen is designed to be used with NovoFine, NovoFine Plus or NovoTwist needles.
 
-Peoplewho are blind or have vision problems should not use NovoLog Mix 70/30 FlexPen without help from a person trained to use NovoLog Mix 70/30 FlexPen.
+People who are blind or have vision problems should not use NovoLog Mix 70/30 FlexPen without help from a person trained to use NovoLog Mix 70/30 FlexPen.
 
 Getting ready
 
@@ -426,20 +433,17 @@ M. Put the pen cap on the NovoLog Mix 70/30 FlexPen and store the NovoLog Mix 70
 
 How should I store NovoLog Mix 70/30 FlexPen?
 
-- 
-  - 
-    - 
-      - •Do not freeze NovoLog Mix 70/30.
-        Do not use NovoLog Mix 70/30 if it has been frozen.
+- •Do not freeze NovoLog Mix 70/30.
+  Do not use NovoLog Mix 70/30 if it has been frozen.
 - •Keep NovoLog Mix 70/30 away from heat or light.
 - •Store the NovoLog Mix 70/30 FlexPen without the needle attached.
 - •Unused NovoLog Mix 70/30 FlexPen:
-- oStore unused NovoLog Mix 70/30 FlexPen in the refrigerator at 36°F to 46°F (2°C to 8°C).
-- oUnused NovoLog Mix 70/30 FlexPen may be used until the expiration date printed on the label, if kept in the refrigerator.
-- oUnused NovoLog Mix 70/30 FlexPen should be thrown away after 14 days, if it is stored at room temperature.
+  - oStore unused NovoLog Mix 70/30 FlexPen in the refrigerator at 36°F to 46°F (2°C to 8°C).
+  - oUnused NovoLog Mix 70/30 FlexPen may be used until the expiration date printed on the label, if kept in the refrigerator.
+  - oUnused NovoLog Mix 70/30 FlexPen should be thrown away after 14 days, if it is stored at room temperature.
 - •In-Use NovoLog Mix 70/30 FlexPen:
-- oStore the FlexPen you are currently using at room temperature below 86°F (30°C) for up to 14 days.
-- oThe NovoLog Mix 70/30 FlexPen you are using should be thrown away after 14 days, even if it still has insulin left in it.
+  - oStore the FlexPen you are currently using at room temperature below 86°F (30°C) for up to 14 days.
+  - oThe NovoLog Mix 70/30 FlexPen you are using should be thrown away after 14 days, even if it still has insulin left in it.
 
 Maintenance
 
@@ -473,4 +477,16 @@ Do not leave it in a car or other location where it can get too hot or too cold.
 
 This Instructions for Use has been approved by the U.S. Food and Drug Administration.
 
-Revised: 11/2019
+Manufactured by:
+
+Novo Nordisk Inc.
+
+800 Scudders Mill Road
+
+Plainsboro, New Jersey 08536
+
+1-800-727-6500
+
+U.S. License Number 1261
+
+Revised: 4/2021

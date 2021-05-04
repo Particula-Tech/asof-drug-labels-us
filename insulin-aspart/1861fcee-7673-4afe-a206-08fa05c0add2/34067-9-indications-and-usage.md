@@ -1,6 +1,6 @@
 # 1 INDICATIONS AND USAGE
 
-NOVOLOG MIX 70/30 is a mixture of insulin aspart protamine and insulin aspart indicated to improve glycemic control in patients with diabetes mellitus.
+NOVOLOG MIX 70/30 is a mixture of insulin aspart protamine and insulin aspart indicated to improve glycemic control in adult patients with diabetes mellitus.
 
 Limitations of Use:
 

@@ -10,7 +10,3 @@ The relevance of these findings to humans is not known.
 NOVOLOG was not genotoxic in the following tests: Ames test, mouse lymphoma cell forward gene mutation test, human peripheral blood lymphocyte chromosome aberration test, in vivo micronucleus test in mice, and in ex vivo UDS test in rat liver hepatocytes.
 
 In fertility studies in male and female rats, NOVOLOG at subcutaneous doses up to 200 units/kg/day (approximately 32 times the human subcutaneous dose, based on units/body surface area) had no direct adverse effects on male and female fertility, or on general reproductive performance of animals.
-
-## 13.2 Animal Toxicology and/or Pharmacology
-
-In standard biological assays in mice and rabbits, one unit of NOVOLOG has the same glucose-lowering effect as one unit of regular human insulin.

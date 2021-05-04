@@ -8,21 +8,21 @@ Oral hypoglycemic agents were not allowed within 1 month prior to the study or d
 The small changes in HbA1c were comparable across the treatment groups (see Table 4).
 
 The mean age of the trial population for type 1 was 43.2 years and 62.7 for type 2.
-For type 1, 64% were male and for type 2, 54% were male and 100% were Caucasian for type 1 and type 2.
+For type 1, 64% were male and for type 2, 54% were male and 100% were White for type 1 and type 2.
 The mean body mass index (BMI) was 26.1 kg/m2 for type 1 and 28.1 kg/m2 for type 2.
 The mean duration of diabetes was 14.9 years for type 1 and 15.0 years for type 2.
 
-Table 4: Glycemic Parameters at the End of Treatment [Mean ± SD (N subjects)]
+Table 4: Glycemic Parameters at the End of Treatment [Mean ± SD (n subjects)]
 
 |  | NOVOLOG MIX 70/30 | Novolin 70/30 |
 | --- | --- | --- |
-| Type 1, N=104 |  |  |
+| Type 1, n=104 |  |  |
 | Fasting Blood Glucose (mg/dL) | 174 ± 64 (48) | 142 ± 59 (44) |
 | 1.5 Hour Post Breakfast (mg/dL) | 187 ± 82 (48) | 200 ± 82 (42) |
 | 1.5 Hour Post Dinner (mg/dL) | 162 ± 77 (47) | 171 ± 66 (41) |
 | HbA1c (%) Baseline | 8.4 ± 1.2 (51) | 8.5 ± 1.1 (46) |
 | HbA1c (%) Week 12 | 8.4 ± 1.1 (51) | 8.3 ± 1.0 (47) |
-| Type 2, N=187 |  |  |
+| Type 2, n=187 |  |  |
 | Fasting Blood Glucose (mg/dL) | 153 ± 40 (76) | 152 ± 69 (93) |
 | 1.5 Hour Post Breakfast (mg/dL) | 182 ± 65 (75) | 200 ± 80 (92) |
 | 1.5 Hour Post Dinner (mg/dL) | 168 ± 51 (75) | 191 ± 65 (93) |
@@ -30,8 +30,6 @@ Table 4: Glycemic Parameters at the End of Treatment [Mean ± SD (N subjects)]
 | HbA1c (%) Week 12 | 7.9 ± 1.0 (81) | 8.1 ± 1.1 (96) |
 
 The significance, with respect to the long-term clinical sequelae of diabetes, of the differences in postprandial hyperglycemia between treatment groups has not been established.
-
-Specific anti-insulin antibodies as well as cross-reacting anti-insulin antibodies were monitored in the 3-month, open-label comparator trial as well as in a long-term extension trial.
 
 ## 14.2 Clinical Studies in Adult Patients with Type 2 Diabetes with Insulin and Oral Antidiabetic Agents
 
@@ -77,10 +75,10 @@ Table 5: Combination Therapy with Oral Agents and Insulin in Patients with Type 
   The metformin dose was adjusted to 2550 mg/day.
   Approximately one-third of the patients in each group were also treated with pioglitazone (30 mg/day).
   Insulin secretagogues were discontinued in order to reduce the risk of hypoglycemia.
-  Most patients were Caucasian (53%), and the mean initial weight was 90 kg.
+  Most patients were White (53%), and the mean initial weight was 90 kg.
 - The mean age of the trial population was 52.6 years and mean duration of diabetes was 9.5 years.
   Fifty three percent were male.
-  Fifty-five percent were Caucasian, 15% Black, 27% were Hispanic, 2% were Asian and 2% were Other.
+  Fifty-five percent were White, 15% Black, 27% were Hispanic, 2% were Asian and 2% were Other.
   The mean BMI was approximately 31.5 kg/m2.
 
 Table 6: Combination Therapy with Oral Agents and Two Types of Insulin in Patients with Type 2 Diabetes Mellitus [Mean (SD)]

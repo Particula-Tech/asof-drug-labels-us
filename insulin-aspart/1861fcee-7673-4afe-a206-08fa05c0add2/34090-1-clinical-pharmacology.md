@@ -9,12 +9,10 @@ Insulin inhibits lipolysis and proteolysis, and enhances protein synthesis.
 ## 12.2 Pharmacodynamics
 
 A euglycemic clamp study described below assessed glucose utilization after subcutaneous dosing of NOVOLOG MIX 70/30 in healthy subjects (n = 24).
-Following a 0.3 units/kg single subcutaneous dose, the onset of action is between 10-20 minutes for NOVOLOG MIX 70/30 compared to 30 minutes for Novolin 70/30.
-The mean ± SD time to peak activity for NOVOLOG MIX 70/30 is 2.7 hr ± 0.9 hr compared to 4.3 hr ± 3.9 hr for Novolin 70/30.
-The duration of action may be as long as 24 hours (see Figure 2).
+Following a 0.3 units/kg single subcutaneous dose of NOVOLOG MIX 70/30, the onset of action is between 10-20 minutes and the mean ± SD time to peak activity is 2.7 hr ± 0.9 hr. The duration of action may be as long as 24 hours (see Figure 2).
 
 Figure 2.
-Pharmacodynamic Activity Profile of NOVOLOG MIX 70/30 and Novolin 70/30 in healthy subjects after single 0.3 units/kg subcutaneous dose
+Pharmacodynamic Activity Profile of NOVOLOG MIX 70/30 in healthy subjects after a single 0.3 units/kg subcutaneous dose
 
 ## 12.3 Pharmacokinetics
 
@@ -23,15 +21,15 @@ The rapid absorption characteristics of NOVOLOG are maintained by NOVOLOG MIX 70
 
 Absorption and Bioavailability
 
-The 30% insulin aspart in the soluble component of NOVOLOG MIX 70/30 is absorbed more rapidly from the subcutaneous layer than regular human insulin.
+The 30% insulin aspart in the soluble component of NOVOLOG MIX 70/30 is absorbed rapidly from the subcutaneous layer.
 The remaining 70% is in crystalline form as insulin aspart protamine which has a prolonged absorption profile after subcutaneous injection.
 
-The relative bioavailability of NOVOLOG MIX 70/30 compared to NOVOLOG and Novolin 70/30 indicates that the insulins are absorbed to similar extent.
+The relative bioavailability of NOVOLOG MIX 70/30 compared to NOVOLOG indicates that the insulins are absorbed to similar extent.
 In a euglycemic clamp study in healthy subjects (n=24) after dosing with NOVOLOG MIX 70/30 (0.3 units/kg), a mean maximum serum concentration (Cmax) of 61.3 ± 20.1 milliunits/L was reached after 85 minutes.
 Serum insulin levels returned to baseline 16 to 20 hours after a subcutaneous dose of NOVOLOG MIX 70/30 (see Fig. 3 for pharmacokinetic profiles).
 
 Figure 3.
-Pharmacokinetic Profiles of NOVOLOG MIX 70/30 and Novolin 70/30 after single 0.3 units/kg subcutaneous dose
+Pharmacokinetic Profile of NOVOLOG MIX 70/30 after a single 0.3 units/kg subcutaneous dose
 
 Distribution and Elimination
 
