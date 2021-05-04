@@ -182,30 +182,45 @@ It is not known whether these effects on fertility are reversible (see ADVERSE R
 
 Risk Summary
 
-Use of drug products containing NSAIDs, including hydrocodone bitartrate and ibuprofen, during the third trimester of pregnancy increases the risk of premature closure of the fetal ductus arteriosus.
-Avoid use of NSAIDs, including hydrocodone bitartrate and ibuprofen, in pregnant women starting at 30 weeks gestation (third trimester).
-Prolonged use of opioid analgesics during pregnancy can cause neonatal opioid withdrawal syndrome (see WARNINGS: Neonatal Opioid Withdrawal Syndrome).
-There are no available data with hydrocodone bitartrate and ibuprofen in pregnant women to inform a drug-associated risk for major birth defects and miscarriage.
-Data from observational studies regarding potential
+Use of NSAIDs, including hydrocodone bitartrate and ibuprofen, can cause premature closure of the fetal ductus arteriosus and fetal renal dysfunction leading to oligohydramnios and, in some cases, neonatal renal impairment.
+Because of these risks, limit dose and duration of hydrocodone bitartrate and ibuprofen use between about 20 and 30 weeks of gestation, and avoid hydrocodone bitartrate and ibuprofen use at about 30 weeks of gestation and later in pregnancy (see WARNINGS: Fetal Toxicity).
 
-embryofetal risks of NSAID use in women in the first or second trimesters of pregnancy are inconclusive.
+Premature Closure of Fetal Ductus Arteriosus
 
+Use of NSAIDs, including hydrocodone bitartrate and ibuprofen, at about 30 weeks gestation or later in pregnancy increases the risk of premature closure of the fetal ductus arteriosus.
+
+Oligohydramnios/Neonatal Renal Impairment
+
+Use of NSAIDs at about 20 weeks gestation or later in pregnancy has been associated with cases of fetal renal dysfunction leading to oligohydramnios, and in some cases, neonatal renal impairment.
+
+Data from observational studies regarding other potential embryo-fetal risks of NSAID use in women in the first or second trimesters of pregnancy are inconclusive.
 In animal reproduction studies, an increase in the percentage of litters and fetuses with any major abnormality and an increase in the number of litters and fetuses with one or more nonossified metacarpals was observed when the combination of hydrocodone and ibuprofen was administered orally to pregnant rabbits during organogenesis at 1.8 times the maximum daily dose.
 There are no animal reproductive and developmental toxicology studies with hydrocodone alone.
 
 In published animal reproduction studies testing ibuprofen alone, there were no clear developmental effects at doses up to 1.2 times the maximum recommended human dose (MRHD) in the rabbit and 1.8 times in the MRHD rat when dosed throughout gestation.
 In contrast, an increase in membranous ventricular septal defects was reported in rats treated on Gestation Days 9 & 10 with 3 times the MRHD.
 Based on animal data, prostaglandins have been shown to have an important role in endometrial vascular permeability, blastocyst implantation, and decidualization.
-In animal studies, administration of prostaglandin synthesis inhibitors such as ibuprofen, resulted in increased pre- and post-implantation loss (see Data).
-Based on animal data, advise pregnant women of the potential risk to a fetus.
+In animal studies, administration of prostaglandin synthesis inhibitors such as ibuprofen, resulted in increased pre- and post-implantation loss.).
+Prostaglandins also have been shown to have an important role in fetal kidney development.
+In published animal studies, prostaglandin synthesis inhibitors have been reported to impair kidney development when administered at clinically relevant doses.
 
-The estimated background risk of major birth defects and miscarriage for the indicated population is unknown.
+The estimated background risk of major birth defects and miscarriage for the indicated population(s) is unknown.
 All pregnancies have a background risk of birth defect, loss, or other adverse outcomes.
 In the U.S. general population, the estimated background risk of major birth defects and miscarriage in clinically recognized pregnancies is 2% to 4% and 15% to 20%, respectively.
 
 Clinical Considerations
 
-Fetal/neonatal adverse reactions
+Fetal/Neonatal Adverse Reactions
+
+Premature Closure of Fetal Ductus Arteriosus:
+
+Avoid use of NSAIDs in women at about 30 weeks gestation and later in pregnancy, because NSAIDs, including hydrocodone bitartrate and ibuprofen, can cause premature closure of the fetal ductus arteriosus (see WARNINGS: Fetal Toxicity).
+
+Oligohydramnios/Neonatal Renal Impairment
+
+If an NSAID is necessary at about 20 weeks gestation or later in pregnancy, limit the use to the lowest effective dose and shortest duration possible.
+If hydrocodone bitartrate and ibuprofen treatment extends beyond 48 hours, consider monitoring with ultrasound for oligohydramnios.
+If oligohydramnios occurs, discontinue hydrocodone bitartrate and ibuprofen and follow up according to clinical practice (see WARNINGS: Fetal Toxicity).
 
 Prolonged use of opioid analgesics during pregnancy for medical or nonmedical purposes can result in physical dependence in the neonate and neonatal opioid withdrawal syndrome shortly after birth.
 
@@ -227,6 +242,24 @@ However, this effect is not consistent and may be offset by an increased rate of
 Monitor neonates exposed to opioid analgesics during labor for signs of excess sedation and respiratory depression.
 
 Data
+
+Human Data
+
+Premature Closure of Fetal Ductus Arteriosus:
+
+Published literature reports that the use of NSAIDs at about 30 weeks of gestation and later in pregnancy may cause premature closure of the fetal ductus arteriosus.
+
+Oligohydramnios/Neonatal Renal Impairment:
+
+Published studies and post-marketing reports describe maternal NSAID use at about 20 weeks gestation or later in pregnancy associated with fetal renal dysfunction leading to oligohydramnios, and in some cases, neonatal renal impairment.
+These adverse outcomes are seen, on average, after days to weeks of treatment, although oligohydramnios has been infrequently reported as soon as 48 hours after NSAID initiation.
+In many cases, but not all, the decrease in amniotic fluid was transient and reversible with cessation of the drug.
+There have been a limited number of case reports of maternal NSAID use and neonatal renal dysfunction without oligohydramnios, some of which were irreversible.
+Some cases of neonatal renal dysfunction required treatment with invasive procedures, such as exchange transfusion or dialysis.
+
+Methodological limitations of these post-marketing studies and reports include lack of a control group; limited information regarding dose, duration, and timing of drug exposure; and concomitant use of other medications.
+These limitations preclude establishing a reliable estimate of the risk of adverse fetal and neonatal outcomes with maternal NSAID use.
+Because the published safety data on neonatal outcomes involved mostly preterm infants, the generalizability of certain reported risks to the full-term infant exposed to NSAIDs through maternal use is uncertain.
 
 Animal Data
 

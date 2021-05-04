@@ -294,10 +294,36 @@ These serious events may occur without warning.
 Inform patients about the signs and symptoms of serious skin reactions, and to discontinue the use of hydrocodone bitartrate and ibuprofen at the first appearance of skin rash or any other sign of hypersensitivity.
 Hydrocodone bitartrate and ibuprofen is contraindicated in patients with previous serious skin reactions to NSAIDs (see CONTRAINDICATIONS).
 
-Premature Closure of Fetal Ductus Arteriosus
+Drug Reaction with Eosinophilia and Systemic Symptoms (DRESS)
 
-Ibuprofen may cause premature closure of the fetal ductus arteriosus.
-Avoid use of NSAID-containing products, including hydrocodone bitartrate and ibuprofen, in pregnant women starting at 30 weeks of gestation (third trimester) (see PRECAUTIONS: Pregnancy).
+Drug Reaction with Eosinophilia and Systemic Symptoms (DRESS) has been reported in patients taking NSAIDs such as hydrocodone bitartrate and ibuprofen.
+Some of these events have been fatal or life-threatening.
+DRESS typically, although not exclusively, presents with fever, rash, lymphadenopathy, and/or facial swelling.
+Other clinical manifestations may include hepatitis, nephritis, hematological abnormalities, myocarditis, or myositis.
+Sometimes symptoms of DRESS may resemble an acute viral infection.
+Eosinophilia is often present.
+Because this disorder is variable in its presentation, other organ systems not noted here may be involved.
+It is important to note that early manifestations of hypersensitivity, such as fever or lymphadenopathy, may be present even though rash is not evident.
+If such signs or symptoms are present, discontinue hydrocodone bitartrate and ibuprofen and evaluate the patient immediately.
+
+Fetal Toxicity
+
+Premature Closure of Fetal Ductus Arteriosus:
+
+Avoid use of NSAIDs, including hydrocodone bitartrate and ibuprofen, in pregnant women at about 30 weeks gestation and later.
+NSAIDs including hydrocodone bitartrate and ibuprofen, increase the risk of premature closure of the fetal ductus arteriosus at approximately this gestational age.
+
+Oligohydramnios/Neonatal Renal Impairment:
+
+Use of NSAIDs, including hydrocodone bitartrate and ibuprofen, at about 20 weeks gestation or later in pregnancy may cause fetal renal dysfunction leading to oligohydramnios and, in some cases, neonatal renal impairment.
+These adverse outcomes are seen, on average, after days to weeks of treatment, although oligohydramnios has been infrequently reported as soon as 48 hours after NSAID initiation.
+Oligohydramnios is often, but not always, reversible with treatment discontinuation.
+Complications of prolonged oligohydramnios may, for example, include limb contractures and delayed lung maturation.
+In some post-marketing cases of impaired neonatal renal function, invasive procedures such as exchange transfusion or dialysis were required.
+
+If NSAID treatment is necessary between about 20 weeks and 30 weeks gestation, limit hydrocodone bitartrate and ibuprofen use to the lowest effective dose and shortest duration possible.
+Consider ultrasound monitoring of amniotic fluid if hydrocodone bitartrate and ibuprofen treatment extends beyond 48 hours.
+Discontinue hydrocodone bitartrate and ibuprofen if oligohydramnios occurs and follow up according to clinical practice (see PRECAUTIONS: Pregnancy).
 
 Hematologic Toxicity
 
@@ -435,7 +461,8 @@ Inform female patients of reproductive potential that prolonged use of hydrocodo
 Embryo-Fetal Toxicity
 
 Inform female patients of reproductive potential that hydrocodone bitartrate and ibuprofen can cause fetal harm and to inform the prescriber of a known or suspected pregnancy.
-Inform pregnant women to avoid use of hydrocodone bitartrate and ibuprofen and other NSAIDs starting at 30 weeks gestation because of the risk of premature closing of the fetal ductus arteriosus (see WARNINGS: Premature Closure of Fetal Ductus Arteriosis, PRECAUTIONS: Pregnancy).
+Inform pregnant women to avoid use of hydrocodone bitartrate and ibuprofen and other NSAIDs starting at 30 weeks gestation because of the risk of the premature closing of the fetal ductus arteriosus.
+If treatment with hydrocodone bitartrate and ibuprofen is needed for a pregnant woman between about 20 to 30 weeks gestation, advise her that she may need to be monitored for oligohydramnios, if treatment continues for longer than 48 hours (see WARNINGS: Fetal Toxicity, PRECAUTIONS: Pregnancy).
 
 15.
 Lactation
@@ -484,9 +511,9 @@ Heart Failure and Edema
 Advise patients to be alert for the symptoms of congestive heart failure including shortness of breath, unexplained weight gain, or edema and to contact their healthcare provider if such symptoms occur (see WARNINGS: Heart Failure and Edema).
 
 23.
-Serious Skin Reactions
+Serious Skin Reactions, including DRESS
 
-Advise patients to stop hydrocodone bitartrate and ibuprofen immediately if they develop any type of rash and to contact their healthcare provider as soon as possible (see WARNINGS: Serious Skin Reactions).
+Advise patients to stop taking hydrocodone bitartrate and ibuprofen immediately if they develop any type of rash or fever and to contact their healthcare provider as soon as possible (see WARNINGS).
 
 24.
 Avoid Concomitant use of NSAIDs
