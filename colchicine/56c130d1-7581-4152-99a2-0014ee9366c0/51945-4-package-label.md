@@ -1,4 +1,4 @@
-PRINCIPAL DISPLAY PANEL - 0.6 mg Tablet Bottle Label
+# PRINCIPAL DISPLAY PANEL - 0.6 mg Tablet Bottle Label
 
 30 TABLETS NDC 64764-119-07
 
