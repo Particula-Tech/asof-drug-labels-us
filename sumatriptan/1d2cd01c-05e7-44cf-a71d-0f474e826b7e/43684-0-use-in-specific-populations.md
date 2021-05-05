@@ -66,7 +66,7 @@ Infant exposure to sumatriptan can be minimized by avoiding breastfeeding for 12
 
 ### Data
 
-Following subcutaneous administration of a 6-mg dose of sumatriptan succinate injection in 5 lactating volunteers, sumatriptan was present in milk.
+Following subcutaneous administration of a 6-mg dose of sumatriptan injection in 5 lactating volunteers, sumatriptan was present in milk.
 
 ## 8.4 Pediatric Use
 

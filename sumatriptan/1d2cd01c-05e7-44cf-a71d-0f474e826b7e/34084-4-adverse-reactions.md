@@ -42,7 +42,7 @@ There were insufficient data to assess the impact of race on the incidence of ad
 
 ## 6.2 Postmarketing Experience
 
-The following adverse reactions have been identified during postapproval use of sumatriptan tablets, sumatriptan nasal spray, and sumatriptan succinate injection.
+The following adverse reactions have been identified during postapproval use of sumatriptan tablets, sumatriptan nasal spray, and sumatriptan injection.
 Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
 These reactions have been chosen for inclusion due to either their seriousness, frequency of reporting, or causal connection to sumatriptan or a combination of these factors.
 

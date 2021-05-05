@@ -16,6 +16,8 @@
 
 This Patient Information has been approved by the U.S. Food and Drug Administration.
 
-Mylan Pharmaceuticals Inc. Morgantown, WV 26505 U.S.A.
+Manufactured for: Mylan Pharmaceuticals Inc. Morgantown, WV 26505 U.S.A.
 
-Revised: 7/2018 SUMA:R6p/PL:SUMA:R6p
+Manufactured by: ALPHAPHARM PTY LTD 15 Garnet Street Carole Park QLD 4300 Australia
+
+Revised: 4/2021 ALP:SUMA:R2p/ALP:PL:SUMA:R1p (3439/1)

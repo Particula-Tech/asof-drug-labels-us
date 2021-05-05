@@ -8,7 +8,7 @@ PHARMACIST: Dispense the accompanying Patient Information Leaflet to each patien
 
 Rx only 9 Tablets
 
-Each film-coated tablet contains sumatriptan succinate, USP equivalent to 25 mg of sumatriptan.
+Each film-coated tablet contains 35 mg of sumatriptan succinate, USP equivalent to 25 mg of sumatriptan.
 
 Dispense in a tight, light-resistant container as defined in the USP using a child-resistant closure.
 
@@ -27,11 +27,11 @@ Swallow tablet whole with water.
 
 Do not split tablets.
 
-Mylan Pharmaceuticals Inc. Morgantown, WV 26505 U.S.A.
+Manufactured for: Mylan Pharmaceuticals Inc. Morgantown, WV 26505 U.S.A.
 
-Mylan.com
+Made in Australia
 
-RM5630CL4
+RALP5630CL1 3436/1
 
 # PRICIPAL DISPLAY PANEL – 50 mg
 
@@ -43,7 +43,7 @@ PHARMACIST: Dispense the accompanying Patient Information Leaflet to each patien
 
 Rx only 9 Tablets
 
-Each film-coated tablet contains sumatriptan succinate, USP equivalent to 50 mg of sumatriptan.
+Each film-coated tablet contains 70 mg of sumatriptan succinate, USP equivalent to 50 mg of sumatriptan.
 
 Dispense in a tight, light-resistant container as defined in the USP using a child-resistant closure.
 
@@ -62,11 +62,11 @@ Swallow tablet whole with water.
 
 Do not split tablets.
 
-Mylan Pharmaceuticals Inc. Morgantown, WV 26505 U.S.A.
+Manufactured for: Mylan Pharmaceuticals Inc. Morgantown, WV 26505 U.S.A.
 
-Mylan.com
+Made in Australia
 
-RM5631CL4
+RALP5631CL1 3437/1
 
 # PRICIPAL DISPLAY PANEL – 100 mg
 
@@ -78,7 +78,7 @@ PHARMACIST: Dispense the accompanying Patient Information Leaflet to each patien
 
 Rx only 9 Tablets
 
-Each film-coated tablet contains sumatriptan succinate, USP equivalent to 100 mg of sumatriptan.
+Each film-coated tablet contains 140 mg of sumatriptan succinate, USP equivalent to 100 mg of sumatriptan.
 
 Dispense in a tight, light-resistant container as defined in the USP using a child-resistant closure.
 
@@ -97,8 +97,8 @@ Swallow tablet whole with water.
 
 Do not split tablets.
 
-Mylan Pharmaceuticals Inc. Morgantown, WV 26505 U.S.A.
+Manufactured for: Mylan Pharmaceuticals Inc. Morgantown, WV 26505 U.S.A.
 
-Mylan.com
+Made in Australia
 
-RM5632CL4
+RALP5632CL1 3438/1
