@@ -1,28 +1,27 @@
-# CLINICAL PHARMACOLOGY
+# 12 CLINICAL PHARMACOLOGY
 
-Mechanism of action:
+## 12.1 Mechanism of Action
 
-Brimonidine tartrate ophthalmic solution, 0.2% is an alpha adrenergic receptor agonist.
-It has a peak ocular hypotensive effect occurring at two hours post-dosing.
+Brimonidine tartrate ophthalmic solution, 0.2% is a relatively selective alpha-2 adrenergic receptor agonist with a peak ocular hypotensive effect occurring at two hours post-dosing.
+
 Fluorophotometric studies in animals and humans suggest that brimonidine tartrate has a dual mechanism of action by reducing aqueous humor production and increasing uveoscleral outflow.
 
-Pharmacokinetics:
+## 12.3 Pharmacokinetics
+
+Absorption
 
 After ocular administration of a 0.2% solution, plasma concentrations peaked within 1 to 4 hours and declined with a systemic half-life of approximately 3 hours.
-In humans, systemic metabolism of brimonidine is extensive.
 
-It is metabolized primarily by the liver.
-Urinary excretion is the major route of elimination of the drug and its metabolites.
-Approximately 87% of an orally-administered radioactive dose was eliminated within 120 hours, with 74% found in the urine.
+Distribution
 
-Clinical Evaluations:
+The protein binding of brimonidine has not been studied.
 
-Elevated IOP presents a major risk factor in glaucomatous field loss.
-The higher the level of IOP, the greater the likelihood of optic nerve damage and visual field loss.
-Brimonidine tartrate has the action of lowering intraocular pressure with minimal effect on cardiovascular and pulmonary parameters.
+Metabolism
 
-In comparative clinical studies with timolol 0.5%, lasting up to one year, the IOP lowering effect of brimonidine tartrate was approximately 4-6 mm Hg compared with approximately 6 mm Hg for timolol.
-In these studies, both patient groups were dosed BID; however, due to the duration of action of Brimonidine tartrate ophthalmic solution, 0.2%, it is recommended that Brimonidine tartrate ophthalmic solution, 0.2% be dosed TID.
-Eight percent of subjects were discontinued from studies due to inadequately controlled intraocular pressure, which in 30% of these patients occurred during the first month of therapy.
+In humans, brimonidine is extensively metabolized by the liver.
 
-Approximately 20% were discontinued due to adverse experiences.
+Excretion
+
+Urinary excretion is the major route of elimination of brimonidine and its metabolites.
+
+Approximately 87% of an orally-administered radioactive dose of brimonidine was eliminated within 120 hours, with 74% found in the urine.
