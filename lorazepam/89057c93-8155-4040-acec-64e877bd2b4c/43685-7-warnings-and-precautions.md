@@ -24,7 +24,7 @@ If a substance use disorder is suspected, evaluate the patient and institute (or
 
 Dependence and Withdrawal Reactions
 
-To reduce the risk of withdrawal reactions, use a gradual taper to discontinue Ativan or reduce the dosage (a patient-specific plan should be used to taper the dose) (see DOSAGE AND ADMINSTRATION: Discontinuation or Dosage Reduction of Ativan).
+To reduce the risk of withdrawal reactions, use a gradual taper to discontinue Ativan or reduce the dosage (a patient-specific plan should be used to taper the dose) (see DOSAGE AND ADMINISTRATION: Discontinuation or Dosage Reduction of Ativan).
 
 Patients at an increased risk of withdrawal adverse reactions after benzodiazepine discontinuation or rapid dosage reduction include those who take higher dosages, and those who have had longer durations of use.
 
@@ -77,7 +77,7 @@ Advise the patient to read the FDA-approved patient labeling (Medication Guide).
 
 Risks from Concomitant Use with Opioids
 
-Advise both patients and caregivers about the risks of potentially fatal respiratory depression and sedation when Ativan is used with opioids and not to use such drugs concomitantly unless supervised by a health care provider.
+Advise both patients and caregivers about the risks of potentially fatal respiratory depression and sedation when Ativan is used with opioids and not to use such drugs concomitantly unless supervised by a healthcare provider.
 Advise patients not to drive or operate heavy machinery until the effects of concomitant use with the opioid have been determined (see WARNINGS: Risks from Concomitant Use of Opioids and PRECAUTIONS: Drug Interactions).
 
 Abuse, Misuse, and Addiction
