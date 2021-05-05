@@ -221,7 +221,7 @@ Figure 3: Reduction in 4-Week Migraine Headache Frequency (Studies 11 and 12 for
 
 Pediatric Patients 12 to 17 Years of Age
 
-The effectiveness of immediate-release topiramate for preventive treatment of migraine in pediatric patients 12 to 17 years of age was established in a multicenter, randomized, double-blind, parallel-group trial (Study 13).
+The effectiveness of immediate-release topiramate for the preventive treatment of migraine in pediatric patients 12 to 17 years of age was established in a multicenter, randomized, double-blind, parallel-group trial (Study 13).
 The study enrolled 103 patients (40 male, 63 female) 12 to 17 years of age with episodic migraine headaches with or without aura.
 Patient selection was based on IHS criteria for migraines (using proposed revisions to the 1988 IHS pediatric migraine criteria [IHS-R criteria]).
 

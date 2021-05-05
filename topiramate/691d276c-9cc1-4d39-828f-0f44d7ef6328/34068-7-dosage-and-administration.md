@@ -57,10 +57,10 @@ The total daily dose should not exceed 400 mg/day.
 
 ## 2.3 Dosing for the Preventive Treatment of Migraine
 
-The recommended total daily dose of topiramate extended-release capsules as treatment for the preventive treatment of migraine in adults and adolescents 12 years of age and older is 100 mg once daily.
+The recommended total daily dose of topiramate extended-release capsules as treatment for the preventive treatment of migraine in patients 12 years of age and older is 100 mg once daily.
 The recommended titration rate for topiramate extended-release capsules for the preventive treatment of migraine is as follows:
 
-Table 3: Preventive Treatment of Migraine Titration Schedule for Patients 12 years of Age and Older
+Table 3: Preventive Treatment of Migraine Titration Schedule for Patients 12 Years of Age and Older
 
 |  | Topiramate Extended-Release Once Daily Dose |
 | --- | --- |

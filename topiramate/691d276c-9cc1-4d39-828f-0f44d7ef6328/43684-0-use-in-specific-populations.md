@@ -103,7 +103,7 @@ Women of childbearing potential who are not planning a pregnancy should use effe
 
 Seizures in Pediatric Patients 2 Years of Age and Older
 
-The safety and effectiveness of topiramate extended-release in pediatric patients is based on controlled trials with immediate-release topiramate [see Clinical Studies (14.2, 14.3, 14.4, and 14.5)].
+The safety and effectiveness of topiramate extended-release in pediatric patients is based on controlled trials with immediate-release topiramate [see Clinical Studies (14.2, 14.3, 14.4 and 14.5)].
 
 The adverse reactions (both common and serious) in pediatric patients are similar to those seen in adults [see Warnings and Precautions (5) and Adverse Reactions (6)].
 
@@ -111,7 +111,7 @@ These include, but are not limited to:
 
 - oligohydrosis and hyperthermia [see Warnings and Precautions (5.3)]
 - dose-related increased incidence of metabolic acidosis [see Warnings and Precautions (5.4)]
-- dose-related increased incidence of hyperammonemia [see Warnings and Precautions (5.9)]
+- dose-related increased incidence of hyperammonemia [see Warnings and Precautions (5.10)]
 
 Adjunctive Treatment for Partial-Onset Epilepsy in Pediatric Patients 1 to 24 months
 
@@ -137,7 +137,7 @@ The incidence of these abnormal shifts was 6% for placebo, 10% for 5 mg/kg/day, 
 There was a mean dose-related increase in alkaline phosphatase.
 The significance of these findings is uncertain.
 
-Topiramate produced a dose-related increased incidence of hyperammonemia [see Warnings and Precautions (5.9)].
+Topiramate produced a dose-related increased incidence of hyperammonemia [see Warnings and Precautions (5.10)].
 
 Treatment with immediate-release topiramate for up to 1 year was associated with reductions in Z SCORES for length, weight, and head circumference [see Warnings and Precautions (5.4)].
 
@@ -158,7 +158,7 @@ Safety and effectiveness of topiramate for the preventive treatment of migraine 
 These comprised a fixed dose study in 103 pediatric patients 12 to 17 years of age [see Clinical Studies (14.5)], a flexible dose (2 to 3 mg/kg/day), placebo-controlled study in 157 pediatric patients 6 to 16 years of age (including 67 pediatric patients 12 to 16 years of age), and a total of 49 pediatric patients 12 to 17 years of age in 3 studies for the preventive treatment of migraine primarily in adults.
 Open-label extension phases of 3 studies enabled evaluation of long-term safety for up to 6 months after the end of the double-blind phase.
 
-Efficacy of topiramate for the preventive treatment of migraine in pediatric patients 12 to 17 years of age is demonstrated for a 100 mg daily dose in Study 3 [see Clinical Studies (14.5)].
+Efficacy of topiramate for the preventive treatment of migraine in pediatric patients 12 to 17 years of age is demonstrated for a 100 mg daily dose in Study 13 [see Clinical Studies (14.5)].
 Efficacy of topiramate (2 to 3 mg/kg/day) for the preventive treatment of migraine was not demonstrated in a placebo-controlled trial of 157 pediatric patients (6 to 16 years of age) that included treatment of 67 pediatric patients 12 to 16 years of age for 20 weeks.
 
 In the pediatric trials (12 to 17 years of age) in which patients were randomized to placebo or a fixed daily dose of immediate-release topiramate, the most common adverse reactions with immediate-release topiramate that were seen at an incidence higher (≥ 5%) than in the placebo group were: paresthesia, upper respiratory tract infection, anorexia, and abdominal pain [see Adverse Reactions (6.1)].

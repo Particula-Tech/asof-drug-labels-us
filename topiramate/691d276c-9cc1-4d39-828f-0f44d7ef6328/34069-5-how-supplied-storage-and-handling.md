@@ -36,5 +36,5 @@ Topiramate extended-release capsules contain beads of topiramate in a capsule an
 
 ## 16.2 Storage and Handling
 
-Topiramate extended-release capsules should be stored in a tightly closed container at 20° to 25°C (68° to 77°F); excursions permitted to 15° to 30°C (59° to 86°F) [See USP Controlled Room Temperature].
+Topiramate extended-release capsules should be stored in a tightly closed container at 20°C to 25°C (68°F to 77°F); excursions permitted to 15°C to 30°C (59°F to 86°F) [See USP Controlled Room Temperature].
 Protect from moisture.

@@ -58,13 +58,13 @@ Specific Populations
 
 Renal Impairment
 
-The clearance of topiramate was reduced by 42% in subjects with moderate renal impairment (creatinine clearance 30 to 69 mL/min/1.73 m2) and by 54% in subjects with severe renal impairment (creatinine clearance less than 30 mL/min/1.73 m2) compared to subjects with normal renal function (creatinine clearance greater than 70 mL/min/1.73 m2) [see Dosage and Administration (2.5) and Use in Specific Populations (8.7)].
+The clearance of topiramate was reduced by 42% in subjects with moderate renal impairment (creatinine clearance 30 to 69 mL/min/1.73 m2) and by 54% in subjects with severe renal impairment (creatinine clearance less than 30 mL/min/1.73 m2) compared to subjects with normal renal function (creatinine clearance greater than 70 mL/min/1.73 m2) [see Dosage and Administration (2.4, 2.5).
 
 Hemodialysis
 
 Topiramate is cleared by hemodialysis.
 Using a high-efficiency, counter flow, single pass-dialysate hemodialysis procedure, topiramate dialysis clearance was 120 mL/min with blood flow through the dialyzer at 400 mL/min.
-This high clearance (compared to 20 mL/min to 30 mL/min total oral clearance in healthy adults) will remove a clinically significant amount of topiramate from the patient over the hemodialysis treatment period [see Dosage and Administration (2.5), Use in Specific Populations (8.7)].
+This high clearance (compared to 20 mL/min to 30 mL/min total oral clearance in healthy adults) will remove a clinically significant amount of topiramate from the patient over the hemodialysis treatment period [see Dosage and Administration (2.5) and Use in Specific Populations (8.7)].
 
 Hepatic Impairment
 
