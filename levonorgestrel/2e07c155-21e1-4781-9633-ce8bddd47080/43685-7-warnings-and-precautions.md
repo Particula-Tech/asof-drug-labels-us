@@ -24,6 +24,7 @@ In patients becoming pregnant with an IUS in place, septic abortion—with septi
 ### Continuation of pregnancy
 
 If a woman becomes pregnant with Kyleena in place and if Kyleena cannot be removed or the woman chooses not to have it removed, warn her that failure to remove Kyleena increases the risk of miscarriage, sepsis, premature labor and premature delivery.
+Advise her of isolated reports of virilization of the female fetus following local exposure to LNG during pregnancy with an LNG IUS in place [see Use in Specific Populations (8.1)].
 Follow her pregnancy closely and advise her to report immediately any symptom that suggests complications of the pregnancy.
 
 ## 5.3 Sepsis
@@ -57,7 +58,7 @@ PID may be asymptomatic but still result in tubal damage and its sequelae.
 
 #### Treatment of PID
 
-Following a diagnosis of PID, or suspected PID, bacteriologic specimens should be obtained and antibiotic therapy should be initiated promptly.
+Following a diagnosis of PID, or suspected PID, bacteriologic specimens should be obtained, and antibiotic therapy should be initiated promptly.
 Removal of Kyleena after initiation of antibiotic therapy is usually appropriate.1
 
 ### Actinomycosis
@@ -89,6 +90,7 @@ For users of another LNG-releasing IUS, the incidence of uterine perforation was
 Partial or complete expulsion of Kyleena may occur resulting in the loss of contraceptive protection.
 Expulsion may be associated with symptoms of bleeding or pain, or it may be asymptomatic and go unnoticed.
 Kyleena typically decreases menstrual bleeding over time; therefore, an increase of menstrual bleeding may be indicative of an expulsion.
+Consider further diagnostic imaging, such as x-ray, if expulsion is suspected based on ultrasound [see Warnings and Precautions (5.10)].
 The risk of expulsion may be increased when the uterus is not completely involuted.
 In clinical trials, a 5-year expulsion rate of 3.5% (59 out of 1,690 subjects) was reported.
 
@@ -146,7 +148,6 @@ Table 3: Mean number of Bleeding and Spotting Days per 28-day Cycle Equivalent
 | Number of bleeding days | 7.2 (5.9) | 3.2 (3.6) | 2.2 (3.0) | 1.5 (2.4) | 1.0 (2.0) | 0.9 (1.8) |
 | Number of spotting days | 8.6 (6.0) | 4.6 (4.4) | 3.5 (3.4) | 2.9 (3.0) | 2.2 (2.6) | 2.1 (2.4) |
 
-Because irregular bleeding/spotting is common during the first months of Kyleena use, exclude endometrial pathology (polyps or cancer) prior to the insertion of Kyleena in women with persistent or uncharacteristic bleeding.
 If a significant change in bleeding develops during prolonged use, take appropriate diagnostic measures to rule out endometrial pathology.
 Consider the possibility of pregnancy if menstruation does not occur within six weeks of the onset of a previous menstruation.
 Once pregnancy has been excluded, repeated pregnancy tests are generally not necessary in amenorrheic women unless indicated, for example, by other signs of pregnancy or by pelvic pain.
@@ -180,7 +181,7 @@ If Kyleena is displaced, remove it.
 A new Kyleena may be inserted at that time or during the next menses if it is certain that conception has not occurred.
 If Kyleena is in place with no evidence of perforation, no intervention is indicated.
 
-## 5.11 Magnetic Resonance Imaging (MRI) Safety Information
+## 5.11 Magnetic Resonance Imaging (MRI) Information
 
 Non-clinical testing has demonstrated that Kyleena is MR Conditional.
 A patient with Kyleena can be safely scanned in an MR system meeting the following conditions:

@@ -22,5 +22,3 @@ Table 5: Pearl Indices by Year and 5-Year Cumulative Pregnancy Rate
 | Year 1 | Year 2 | Year 3 | Year 4 | Year 5 |  |  |
 | Number of Evaluable 28-day Cycles of Exposure | 16,207 | 13,853 | 11,610 | 8,556 | 7,087 | 57,313 |
 | Pregnancy Rate (95% Confidence Interval) | 0.16(0.02, 0.58) | 0.38(0.10, 0.96) | 0.45(0.12, 1.15) | 0.15(0.00, 0.85) | 0.37(0.04, 1.33) | 1.45(0.82, 2.53) |
-
-About 71% of 163 women who desired pregnancy after study discontinuation and provided follow-up information, conceived within 12 months after removal of Kyleena.
