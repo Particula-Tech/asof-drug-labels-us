@@ -1,0 +1,29 @@
+# 7 DRUG INTERACTIONS
+
+## 7.1 Effect of CYP3A4 Inhibitors, Inducers and P-gp
+
+Doxorubicin is a major substrate of cytochrome P450 CYP3A4 and CYP2D6, and P-glycoprotein (P-gp).
+Clinically significant interactions have been reported with inhibitors of CYP3A4, CYP2D6, and/or P-gp (e.g., verapamil), resulting in increased concentration and clinical effect of doxorubicin.
+Inducers of CYP3A4 (e.g., phenobarbital, phenytoin, St. John’s Wort) and P-gp inducers may decrease the concentration of doxorubicin.
+Avoid concurrent use of doxorubicin with inhibitors and inducers of CYP3A4, CYP2D6, or P-gp.
+
+## 7.2 Trastuzumab
+
+Concurrent use of trastuzumab and doxorubicin results in an increased risk of cardiac dysfunction.
+Avoid concurrent administration of doxorubicin and trastuzumab.
+The appropriate interval for administering doxorubicin following trastuzumab therapy has not been determined [see Warnings and Precautions (5.1)].
+
+## 7.3 Paclitaxel
+
+Paclitaxel, when given prior to doxorubicin, increases the plasma-concentrations of doxorubicin and its metabolites.
+Administer doxorubicin prior to paclitaxel if used concomitantly.
+
+## 7.4 Dexrazoxane
+
+Do not administer dexrazoxane as a cardioprotectant at the initiation of doxorubicin containing chemotherapy regimens.
+In a randomized trial in women with metastatic breast cancer, initiation of dexrazoxane with doxorubicin based chemotherapy resulted in a significantly lower tumor response rate (48% vs. 63%; p=0.007) and shorter time to progression than in women who received doxorubicin based chemotherapy alone.
+
+## 7.5 6-Mercaptopurine
+
+Doxorubicin may potentiate 6-mercaptopurine-induced hepatotoxicity.
+In 11 patients with refractory leukemia treated with 6-mercaptopurine (500 mg/m2 intravenously daily for 5 days per cycle every 2 to 3 weeks) and doxorubicin (50 mg/m2 intravenous once per cycle every 2 to 3 weeks) alone or with vincristine and prednisone, all developed hepatic dysfunction manifested by elevations of total serum bilirubin, alkaline phosphatase and aspartate aminotransferase.

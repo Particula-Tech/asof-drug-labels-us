@@ -1,0 +1,23 @@
+{
+  "application_numbers": [
+    "ANDA062975",
+    "ANDA064097"
+  ],
+  "inn": "doxorubicin",
+  "labeler": "Hikma Pharmaceuticals USA Inc.",
+  "package_ndcs": [
+    "0143-9084-01",
+    "0143-9085-01",
+    "0143-9086-01",
+    "0143-9087-01"
+  ],
+  "products": [
+    {
+      "form": "INJECTION, SOLUTION",
+      "generic": "doxorubicin hydrochloride",
+      "name": "Doxorubicin Hydrochloride"
+    }
+  ],
+  "setid": "36924f82-6c05-4989-9f41-a398c0ad48e6",
+  "source": "dailymed"
+}
