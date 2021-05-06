@@ -8,8 +8,8 @@
 | injection site pain nausea muscle, joint, and bone pain headache back pain tiredness pain in arms, hands, legs, or feet hot flashes | vomiting loss of appetite weakness cough shortness of breath constipation increased liver enzymes diarrhea |
 | Fulvestrant injection may cause fertility problems in males and females. Talk to your healthcare provider if you plan to become pregnant.Tell your healthcare provider if you have any side effect that bothers you or that does not go away.These are not all of the possible side effects with Fulvestrant injection. For more information, ask your healthcare provider or pharmacist.Call your healthcare provider for medical advice about side effects. You may report side effects to FDA at 1-800-FDA-1088. |  |
 | General information about the safe and effective use of Fulvestrant injectionMedicines are sometimes prescribed for purposes other than those listed in a Patient Information leaflet. If you would like more information, talk with your healthcare provider. You can ask your pharmacist or healthcare provider for information about Fulvestrant injection that is written for health professionals. |  |
-| What are the ingredients in Fulvestrant injection?Active ingredient: fulvestrant. Inactive ingredients: alcohol, benzyl alcohol, benzyl benzoate, and castor oil. SafetyGlide ™ is a trademark of Becton Dickinson and Company. Manufactured For:Accord Healthcare, Inc., 1009, Slater Road, Suite 210-B, Durham, NC 27703, USA. Manufactured By:Intas Pharmaceuticals Limited,Plot No.: 457, 458, Village – Matoda, Bavla Road, Ta. - Sanand,Dist.- Ahmedabad – 382 210.India. 10 2433 0 678184 |  |
+| What are the ingredients in Fulvestrant injection?Active ingredient: fulvestrant. Inactive ingredients: alcohol, benzyl alcohol, benzyl benzoate, and castor oil. SafetyGlide ™ is a trademark of Becton Dickinson and Company. Manufactured For:Accord Healthcare, Inc., 1009, Slater Road, Suite 210-B, Durham, NC 27703, USA. Manufactured By:Intas Pharmaceuticals Limited, Ahmedabad-380 054, India. 10 2433 1 6006931 |  |
 
 This Patient Information has been approved by the U.S. Food and Drug Administration
 
-Issued: 8/2020
+Issued: 3/2021

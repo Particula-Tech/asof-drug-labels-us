@@ -165,10 +165,13 @@ Table 15: Efficacy Results in PALOMA-3 (Investigator Assessment, ITT Population)
 | Hazard Ratio (95% CI) and p-value | 0.814 (0.644, 1.029), p=0.0857 2,3 |  |
 
 N=number of patients; PFS=progression-free survival; CI=confidence interval; ITT=Intent-to-Treat; OS=overall survival.
+
 1.
 Responses are based on confirmed responses.
+
 2.
 Not statistically significant at the pre-specified 2-sided alpha level of 0.047.
+
 3.
 2-sided p-value from the log-rank test stratified by the presence of visceral metastases and sensitivity to prior endocrine therapy per randomization.
 

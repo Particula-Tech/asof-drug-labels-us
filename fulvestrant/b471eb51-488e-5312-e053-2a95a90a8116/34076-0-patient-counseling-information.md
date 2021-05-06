@@ -23,11 +23,20 @@ When Fulvestrant injection is used in combination with palbociclib, abemaciclib,
 
 Manufactured For:
 
-Accord Healthcare, Inc., 1009, Slater Road, Suite 210-B, Durham, NC 27703, USA.
+Accord Healthcare, Inc.,
+
+1009, Slater Road,
+
+Suite 210-B,
+
+Durham, NC 27703,
+
+USA.
 
 Manufactured By:
 
-Intas Pharmaceuticals Limited, Plot No.: 457, 458, Village – Matoda, Bavla Road, Ta. - Sanand, Dist.- Ahmedabad – 382 210.
-India.
+Intas Pharmaceuticals Limited,
 
-10 2433 0 678184
+Ahmedabad-380 054, India.
+
+10 2433 1 6006931
