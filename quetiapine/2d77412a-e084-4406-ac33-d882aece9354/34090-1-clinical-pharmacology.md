@@ -86,7 +86,7 @@ Since quetiapine is extensively metabolized by the liver, higher plasma levels a
 
 Drug-Drug Interaction Studies
 
-The in vivo assessments of effect of other drugs on the pharmacokinetics of quetiapine are summarized in Table 17 [see Dosage and Administration (2.5 and 2.6) and Drug Interactions (7.1)].
+The in vivo assessments of effect of other drugs on the pharmacokinetics of quetiapine are summarized in Table 17 [see Dosage and Administration (2.5 and 2.6) and Drug Interactions (7.1)Drug Interactions (7.1)].
 
 Table 17: The Effect of Other Drugs on the Pharmacokinetics of Quetiapine
 

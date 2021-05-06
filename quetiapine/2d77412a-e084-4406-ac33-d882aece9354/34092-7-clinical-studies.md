@@ -13,9 +13,9 @@ A second traditional assessment, the Clinical Global Impression (CGI), reflects 
 
 The results of the trials follow:
 
-1. In a 6-week, placebo-controlled trial (n=361) (study 1) involving 5 fixed doses of quetiapine (75 mg/day, 150 mg/day, 300 mg/day, 600 mg/day, and 750 mg/day given in divided doses three times per day), the 4 highest doses of quetiapine were generally superior to placebo on the BPRS total score, the BPRS psychosis cluster and the CGI severity score, with the maximal effect seen at 300 mg/day, and the effects of doses of 150 mg/day to 750 mg/day were generally indistinguishable.
-2. In a 6-week, placebo-controlled trial (n=286) (study 2) involving titration of quetiapine in high (up to 750 mg/day given in divided doses three times per day) and low (up to 250 mg/day given in divided doses three times per day) doses, only the high dose quetiapine group (mean dose, 500 mg/day) was superior to placebo on the BPRS total score, the BPRS psychosis cluster, and the CGI severity score.
-3. In a 6-week dose and dose regimen comparison trial (n=618) (study 3) involving two fixed doses of quetiapine (450 mg/day given in divided doses both twice daily and three times daily and 50 mg/day given in divided doses twice daily), only the 450 mg/day (225 mg given twice daily) dose group was superior to the 50 mg/day (25 mg given twice daily) quetiapine dose group on the BPRS total score, the BPRS psychosis cluster, and the CGI severity score.
+1. In a 6-week, placebo-controlled trial (n=361) (Study 1) involving 5 fixed doses of quetiapine (75 mg/day, 150 mg/day, 300 mg/day, 600 mg/day, and 750 mg/day given in divided doses three times per day), the 4 highest doses of quetiapine were generally superior to placebo on the BPRS total score, the BPRS psychosis cluster and the CGI severity score, with the maximal effect seen at 300 mg/day, and the effects of doses of 150 mg/day to 750 mg/day were generally indistinguishable.
+2. In a 6-week, placebo-controlled trial (n=286) (Study 2) involving titration of quetiapine in high (up to 750 mg/day given in divided doses three times per day) and low (up to 250 mg/day given in divided doses three times per day) doses, only the high dose quetiapine group (mean dose, 500 mg/day) was superior to placebo on the BPRS total score, the BPRS psychosis cluster, and the CGI severity score.
+3. In a 6-week dose and dose regimen comparison trial (n=618) (Study 3) involving two fixed doses of quetiapine (450 mg/day given in divided doses both twice daily and three times daily and 50 mg/day given in divided doses twice daily), only the 450 mg/day (225 mg given twice daily) dose group was superior to the 50 mg/day (25 mg given twice daily) quetiapine dose group on the BPRS total score, the BPRS psychosis cluster, and the CGI severity score.
 
 The primary efficacy results of these three studies in the treatment of schizophrenia in adults is presented in Table 19.
 
@@ -24,7 +24,7 @@ The clinical significance of this finding is unknown.
 
 Adolescents (ages 13 to 17)
 
-The efficacy of quetiapine in the treatment of schizophrenia in adolescents (13 to 17 years of age) was demonstrated in a 6-week, double-blind, placebo-controlled trial (study 4).
+The efficacy of quetiapine in the treatment of schizophrenia in adolescents (13 to 17 years of age) was demonstrated in a 6-week, double-blind, placebo-controlled trial (Study 4).
 Patients who met DSM-IV diagnostic criteria for schizophrenia were randomized into one of three treatment groups: quetiapine 400 mg/day (n = 73), quetiapine 800 mg/day (n = 74), or placebo (n = 75).
 Study medication was initiated at 50 mg/day and on day 2 increased to 100 mg/per day (divided and given two or three times per day).
 Subsequently, the dose was titrated to the target dose of 400 mg/day or 800 mg/day using increments of 100 mg/day, divided and given two or three times daily.
@@ -83,7 +83,7 @@ Adjunct Therapy
 
 In this 3-week placebo-controlled trial, 170 patients with bipolar mania (YMRS ≥ 20) were randomized to receive quetiapine or placebo as adjunct treatment to lithium or divalproex.
 Patients may or may not have received an adequate treatment course of lithium or divalproex prior to randomization.
-Quetiapine was superior to placebo when added to lithium or divalproex alone in the reduction of YMRS total score (study 3 in Table 20).
+Quetiapine was superior to placebo when added to lithium or divalproex alone in the reduction of YMRS total score (Study 3 in Table 20).
 
 The majority of patients in this trial taking quetiapine were dosed in a range between 400 mg/day and 800 mg per day.
 In a similarly designed trial (n=200), quetiapine was associated with an improvement in YMRS scores but did not demonstrate superiority to placebo, possibly due to a higher placebo effect.
@@ -92,7 +92,7 @@ The primary efficacy results of these studies in the treatment of mania in adult
 
 Children and Adolescents (ages 10 to 17)
 
-The efficacy of quetiapine in the acute treatment of manic episodes associated with bipolar I disorder in children and adolescents (10 to 17 years of age) was demonstrated in a 3-week, double-blind, placebo-controlled, multicenter trial (study 4 in Table 20).
+The efficacy of quetiapine in the acute treatment of manic episodes associated with bipolar I disorder in children and adolescents (10 to 17 years of age) was demonstrated in a 3-week, double-blind, placebo-controlled, multicenter trial (Study 4 in Table 20).
 Patients who met DSM-IV diagnostic criteria for a manic episode were randomized into one of three treatment groups: quetiapine 400 mg/day (n = 95), quetiapine 600 mg/day (n = 98), or placebo (n = 91).
 Study medication was initiated at 50 mg/day and on day 2 increased to 100 mg/day (divided doses given two or three times daily).
 Subsequently, the dose was titrated to a target dose of 400 mg/day or 600 mg/day using increments of 100 mg/day, given in divided doses two or three times daily.

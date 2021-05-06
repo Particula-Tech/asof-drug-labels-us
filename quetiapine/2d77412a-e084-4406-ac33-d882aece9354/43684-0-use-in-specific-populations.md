@@ -90,7 +90,7 @@ The safety and effectiveness of quetiapine in the maintenance treatment of schiz
 
 Bipolar Mania
 
-The efficacy and safety of quetiapine in the treatment of mania in children and adolescents ages 10 to 17 years with bipolar I disorder was demonstrated in a 3-week, double-blind, placebo controlled, multicenter trial [see Indications and Usage (1.2), Dosage and Administration (2.3), Adverse Reactions (6.1), and Clinical Studies (14.2)].
+The efficacy and safety of quetiapine in the treatment of mania in children and adolescents ages 10 to 17 years with bipolar I disorder was demonstrated in a 3-week, double-blind, placebo-controlled, multicenter trial [see Indications and Usage (1.2), Dosage and Administration (2.3), Adverse Reactions (6.1), and Clinical Studies (14.2)].
 
 Safety and effectiveness of quetiapine in pediatric patients less than 10 years of age with bipolar mania have not been established.
 

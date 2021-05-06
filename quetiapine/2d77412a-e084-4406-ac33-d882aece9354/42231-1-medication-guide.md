@@ -299,14 +299,12 @@ This Medication Guide has been approved by the U.S. Food and Drug Administration
 
 Medication guide available at www.accordhealthcare.us/products
 
-Manufactured For:
-
-Accord Healthcare Inc., 1009 Slater Road, Suite 210-B, Durham, NC 27703, USA.
+Manufactured For: Accord Healthcare, Inc., 1009 Slater Road, Suite 210-B, Durham, NC 27703, USA.
 
 Manufactured By:
 
 Intas Pharmaceuticals Limited, Ahmedabad -380 054, India.
 
-10 0210 7 6002793
+10 0210 8 6006164
 
-Issued June 2020
+Issued January 2021
