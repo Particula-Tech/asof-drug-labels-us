@@ -24,10 +24,10 @@ Bottles of 500 NDC 16729-138-16
 Store at 25°C (77°F); excursions permitted to 15° to 30°C (59° to 86°F).
 [See USP Controlled Room Temperature].
 
-Manufactured For: Accord Healthcare, Inc., 1009, Slater Road, Suite 210-B, Durham, NC 27703, USA.
+Manufactured For: Accord Healthcare, Inc., 1009 Slater Road, Suite 210-B, Durham, NC 27703, USA.
 
-Manufactured By: Intas Pharmaceuticals Limited, Ahmedabad -380 009, India.
+Manufactured By: Intas Pharmaceuticals Limited, Ahmedabad -380 054, India.
 
-10 0533 2 682353
+10 0533 3 6007149
 
-Issued April 2018
+Issued February 2021

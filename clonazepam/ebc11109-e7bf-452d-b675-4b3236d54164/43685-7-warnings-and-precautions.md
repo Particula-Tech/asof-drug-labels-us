@@ -7,6 +7,23 @@ Observational studies have demonstrated that concomitant use of opioid analgesic
 If a decision is made to prescribe clonazepam concomitantly with opioids, prescribe the lowest effective dosages and minimum durations of concomitant use, and follow patients closely for signs and symptoms of respiratory depression and sedation.
 Advise both patients and caregivers about the risks of respiratory depression and sedation when clonazepam is used with opioids (see PRECAUTIONS: Information for Patients and PRECAUTIONS: Drug Interactions).
 
+Abuse, Misuse, and Addiction: The use of benzodiazepines, including clonazepam, exposes users to the risks of abuse, misuse, and addiction, which can lead to overdose or death.
+Abuse and misuse of benzodiazepines often (but not always) involve the use of doses greater than the maximum recommended dosage and commonly involve concomitant use of other medications, alcohol, and/or illicit substances, which is associated with an increased frequency of serious adverse outcomes, including respiratory depression, overdose, or death (see DRUG ABUSE AND DEPENDENCE: Abuse).
+
+Before prescribing clonazepam and throughout treatment, assess each patient’s risk for abuse, misuse, and addiction (e.g., using a standardized screening tool).
+Use of clonazepam, particularly in patients at elevated risk, necessitates counseling about the risks and proper use of clonazepam along with monitoring for signs and symptoms of abuse, misuse, and addiction.
+Prescribe the lowest effective dosage; avoid or minimize concomitant use of CNS depressants and other substances associated with abuse, misuse, and addiction (e.g., opioid analgesics, stimulants); and advise patients on the proper disposal of unused drug.
+If a substance use disorder is suspected, evaluate the patient and institute (or refer them for) early treatment, as appropriate.
+
+Dependence and Withdrawal Reactions: To reduce the risk of withdrawal reactions, use a gradual taper to discontinue clonazepam or reduce the dosage (a patient-specific plan should be used to taper the dose) (see DOSAGE AND ADMINISTRATION: Discontinuation or Dosage Reduction of clonazepam).
+
+Patients at an increased risk of withdrawal adverse reactions after benzodiazepine discontinuation or rapid dosage reduction include those who take higher dosages, and those who have had longer durations of use.
+
+Acute Withdrawal Reactions The continued use of benzodiazepines, including clonazepam, may lead to clinically significant physical dependence.
+Abrupt discontinuation or rapid dosage reduction of clonazepam after continued use, or administration of flumazenil (a benzodiazepine antagonist) may precipitate acute withdrawal reactions, which can be life-threatening (e.g., seizures) (see DRUG ABUSE AND DEPENDENCE: Dependence.)
+
+Protracted Withdrawal Syndrome In some cases, benzodiazepine users have developed a protracted withdrawal syndrome with withdrawal symptoms lasting weeks to more than 12 months (see DRUG ABUSE AND DEPENDENCE: Dependence).
+
 Interference with Cognitive and Motor Performance: Since clonazepam produces CNS depression, patients receiving this drug should be cautioned against engaging in hazardous occupations requiring mental alertness, such as operating machinery or driving a motor vehicle.
 They should also be warned about the concomitant use of alcohol or other CNS-depressant drugs during clonazepam therapy (see PRECAUTIONS: Drug Interactions and Information for Patients).
 
@@ -46,10 +63,6 @@ Should suicidal thoughts and behavior emerge during treatment, the prescriber ne
 Patients, their caregivers, and families should be informed that AEDs increase the risk of suicidal thoughts and behavior and should be advised of the need to be alert for the emergence or worsening of the signs and symptoms of depression, any unusual changes in mood or behavior, or the emergence of suicidal thoughts, behavior, or thoughts about self-harm.
 Behaviors of concern should be reported immediately to healthcare providers.
 
-## Withdrawal Symptoms:
-
-Withdrawal symptoms of the barbiturate type have occurred after the discontinuation of benzodiazepines (see DRUG ABUSE AND DEPENDENCE).
-
 # PRECAUTIONS
 
 ## General:
@@ -72,14 +85,8 @@ Periodic blood counts and liver function tests are advisable during long-term th
 Psychiatric and Paradoxical Reactions:
 
 Paradoxical reactions, such as agitation, irritability, aggression, anxiety, anger, nightmares, hallucinations, and psychoses are known to occur when using benzodiazepines (see ADVERSE REACTIONS: Psychiatric).
-Should this occur, the use of the drug should be discontinued gradually (see PRECAUTIONS: Risks of Abrupt Withdrawal and DRUG ABUSE AND DEPENDENCE: Physical and Psychological Dependence).
+Should this occur, the use of the drug should be discontinued gradually (see WARNINGS: Dependence and Withdrawal Reactions and DRUG ABUSE AND DEPENDENCE: Dependence).
 Paradoxical reactions are more likely to occur in children and in the elderly.
-
-Risks of Abrupt Withdrawal:
-
-The abrupt withdrawal of clonazepam, particularly in those patients on long-term, high-dose therapy, may precipitate status epilepticus.
-Therefore, when discontinuing clonazepam, gradual withdrawal is essential.
-While clonazepam is being gradually withdrawn, the simultaneous substitution of another anticonvulsant may be indicated.
 
 Caution in Renally Impaired Patients:
 
@@ -106,9 +113,12 @@ Physicians are advised to discuss the following issues with patients for whom th
 
 Risks from Concomitant Use with Opioids: Inform patients and caregivers that potentially fatal additive effects may occur if clonazepam is used with opioids and not to use such drugs concomitantly unless supervised by a health care provider (see WARNINGS: Risks from Concomitant Use with Opioids and PRECAUTIONS: Drug Interactions).
 
-Dose Changes:
+Abuse, Misuse, and Addiction:Inform patients that the use of clonazepam, even at recommended dosages, exposes users to risks of abuse, misuse, and addiction, which can lead to overdose and death, especially when used in combination with other medications (e.g., opioid analgesics), alcohol, and/or illicit substances.
+Inform patients about the signs and symptoms of benzodiazepine abuse, misuse, and addiction; to seek medical help if they develop these signs and/or symptoms; and on the proper disposal of unused drug (see WARNINGS: Abuse, Misuse, and Addiction and DRUG ABUSE AND DEPENDENCE: Dependence)
 
-To assure the safe and effective use of benzodiazepines, patients should be informed that, since benzodiazepines may produce psychological and physical dependence, it is advisable that they consult with their physician before either increasing the dose or abruptly discontinuing this drug.
+Withdrawal Reactions:Inform patients that the continued use of clonazepam may lead to clinically significant physical dependence and that abrupt discontinuation or rapid dosage reduction of clonazepam may precipitate acute withdrawal reactions, which can be life-threatening.
+Inform patients that in some cases, patients taking benzodiazepines have developed a protracted withdrawal syndrome with withdrawal symptoms lasting weeks to more than 12 months.
+Instruct patients that discontinuation or dosage reduction of clonazepam may require a slow taper (see WARNINGS: Dependence and Withdrawal Reactions and DRUG ABUSE AND DEPENDENCE)
 
 Interference With Cognitive and Motor Performance:
 
@@ -124,7 +134,7 @@ Pregnancy:
 Patients should be advised to notify their physician if they become pregnant or intend to become pregnant during therapy with clonazepam (see PRECAUTIONS: Pregnancy).
 Patients should be encouraged to enroll in the North American Antiepileptic Drug (NAAED) Pregnancy Registry if they become pregnant.
 This registry is collecting information about the safety of antiepileptic drugs during pregnancy.
-To enroll, patients can call the toll free number 1-888-233-2334 (see PRECAUTIONS: Pregnancy).
+To enroll, patients can call the toll-free number 1-888-233-2334 (see PRECAUTIONS: Pregnancy).
 
 Nursing:
 
