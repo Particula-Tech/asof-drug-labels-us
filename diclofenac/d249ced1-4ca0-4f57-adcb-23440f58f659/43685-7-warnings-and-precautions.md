@@ -2,7 +2,7 @@
 
 ## 5.1 Cardiovascular Thrombotic Events
 
-Clinical trials of several COX-2 selective and nonselective NSAIDs of up to three years duration have shown an increased risk of serious cardiovascular (CV) thrombotic events, including myocardial infarction(MI) and stroke, which can be fatal.
+Clinical trials of several COX-2 selective and nonselective NSAIDs of up to three years duration have shown an increased risk of serious cardiovascular (CV) thrombotic events, including myocardial infarction (MI) and stroke, which can be fatal.
 Based on available data, it is unclear that the risk for CV thrombotic events is similar for all NSAIDs.
 The relative increase in serious CV thrombotic events over baseline conferred by NSAID use appears to be similar in those with and without known CV disease or risk factors for CV disease.
 However, patients with known CV disease or risk factors had a higher absolute incidence of excess serious CV thrombotic events, due to their increased baseline rate.
@@ -66,7 +66,7 @@ In clinical trials, meaningful elevations (i.e., more than 3 times the ULN) of A
 In an open-label, controlled trial of 3,700 patients treated for 2–6 months, patients were monitored at 8 weeks and 1,200 patients were monitored again at 24 weeks.
 Meaningful elevations of ALT and/or AST occurred in about 4% of the 3,700 patients and included marked elevations (>8 times the ULN) in about 1% of the 3,700 patients.
 In this open-label study, a higher incidence of borderline (less than 3 times the ULN), moderate (3–8 times the ULN), and marked (>8 times the ULN) elevations of ALT or AST was observed in patients receiving diclofenac when compared to other NSAIDs.
-Almost all meaningful elevations in transaminases were detected before patients became symptomatic [see Warnings and Precautions (5.14)].
+Almost all meaningful elevations in transaminases were detected before patients became symptomatic [see Warnings and Precautions (5.15)].
 
 Abnormal tests occurred during the first 2 months of therapy with diclofenac in 42 of the 51 patients in all trials who developed marked transaminase elevations.
 In postmarketing reports, cases of drug-induced hepatotoxicity have been reported in the first month, and in some cases, the first 2 months of NSAID therapy, but can occur at any time during treatment with diclofenac.
@@ -142,19 +142,43 @@ These serious events may occur without warning.
 Inform patients about the signs and symptoms of serious skin reactions, and to discontinue the use of CAMBIA at the first appearance of skin rash or any other sign of hypersensitivity.
 CAMBIA is contraindicated in patients with previous serious skin reactions to NSAIDs [see Contraindications (4)].
 
-## 5.10 Medication Overuse Headache
+## 5.10 Drug Reaction with Eosinophilia and Systemic Symptoms (DRESS)
+
+Drug Reaction with Eosinophilia and Systemic Symptoms (DRESS) has been reported in patients taking NSAIDs such as CAMBIA.
+Some of these events have been fatal or life-threatening.
+DRESS typically, although not exclusively, presents with fever, rash, lymphadenopathy, and/or facial swelling.
+Other clinical manifestations may include hepatitis, nephritis, hematological abnormalities, myocarditis, or myositis.
+Sometimes symptoms of DRESS may resemble an acute viral infection.
+Eosinophilia is often present.
+Because this disorder is variable in its presentation, other organ systems not noted here may be involved.
+It is important to note that early manifestations of hypersensitivity, such as fever or lymphadenopathy, may be present even though rash is not evident.
+If such signs or symptoms are present, discontinue CAMBIA and evaluate the patient immediately.
+
+## 5.11 Medication Overuse Headache
 
 Overuse of acute migraine drugs (e.g., ergotamine, triptans, opioids, nonsteroidal anti-inflammatory drugs or combination of these drugs for 10 or more days per month) may lead to exacerbation of headache (medication overuse headache).
 Medication overuse headache may present as migraine-like daily headaches or as a marked increase in frequency of migraine attacks.
 Detoxification of patients, including withdrawal of the overused drugs and treatment of withdrawal symptoms (which often includes a transient worsening of headache) may be necessary.
 
-## 5.11 Premature Closure of Fetal Ductus Arteriosus
+## 5.12 Fetal Toxicity
 
-CAMBIA can cause fetal harm when administered to a pregnant woman.
-Starting at 30 weeks gestation, CAMBIA and other NSAIDs should be avoided by pregnant women as premature closure of the ductus arteriosus in the fetus may occur.
-If this drug is used during this time period in pregnancy, the patient should be apprised of the potential hazard to a fetus [see Use in Special Populations (8.1)].
+Premature Closure of Fetal Ductus Arteriosus
 
-## 5.12 Hematologic Toxicity
+Avoid use of NSAIDs, including CAMBIA, in pregnant women at about 30 weeks gestation and later.
+NSAIDs, including CAMBIA, increase the risk of premature closure of the fetal ductus arteriosus at approximately this gestational age.
+
+Oligohydramnios/Neonatal Renal Impairment
+
+Oligohydramnios is often, but not always, reversible with treatment discontinuation.
+Complications of prolonged oligohydramnios may, for example, include limb contractures and delayed lung maturation.
+In some postmarketing cases of impaired neonatal renal function, invasive procedures such as exchange transfusion or dialysis were required.Use of NSAIDs, including CAMBIA, at about 20 weeks gestation or later in pregnancy may cause fetal renal dysfunction leading to oligohydramnios and, in some cases, neonatal renal impairment.
+These adverse outcomes are seen, on average, after days to weeks of treatment, although oligohydramnios has been infrequently reported as soon as 48 hours after NSAID initiation.
+
+If NSAID treatment is necessary between about 20 weeks and 30 weeks gestation, limit CAMBIA use to the lowest effective dose and shortest duration possible.
+Consider ultrasound monitoring of amniotic fluid if CAMBIA treatment extends beyond 48 hours.
+Discontinue CAMBIA if oligohydramnios occurs and follow up according to clinical practice [see Use in Specific Population (8.1)].
+
+## 5.13 Hematologic Toxicity
 
 Anemia has occurred in NSAID-treated patients.
 This may be due to occult or gross blood loss, fluid retention, or an incompletely described effect upon erythropoiesis.
@@ -164,11 +188,11 @@ NSAIDs, including CAMBIA, may increase the risk of bleeding events.
 Concomitant use of warfarin and other anticoagulants, antiplatelet agents (e.g., aspirin), and serotonin reuptake inhibitors (SSRIs) and serotonin norepinephrine reuptake inhibitors (SNRIs) may increase this risk.
 Monitor these patients and any patient who may be adversely affected by alterations in platelet function for signs of bleeding [see Drug Interactions (7)].
 
-## 5.13 Masking of Inflammation and Fever
+## 5.14 Masking of Inflammation and Fever
 
 The pharmacological activity of CAMBIA in reducing inflammation, and possibly fever, may diminish the utility of diagnostic signs in detecting infections.
 
-## 5.14 Laboratory Monitoring
+## 5.15 Laboratory Monitoring
 
 Because serious GI bleeding, hepatotoxicity, and renal injury can occur without warning symptoms or signs, consider monitoring patients on long-term NSAID treatment with a CBC and a chemistry profile periodically [see Warnings and Precautions (5.2, 5.3, 5.6)].
 
