@@ -1,95 +1,106 @@
-# CLINICAL PHARMACOLOGY
+# 12 CLINICAL PHARMACOLOGY
 
-## Pharmacodynamics
+## 12.1 Mechanism of Action
 
-CNS agents of the 1,4 benzodiazepine class presumably exert their effects by binding at stereospecific receptors at several sites within the central nervous system.
-Their exact mechanism of action is unknown.
-Clinically, all benzodiazepines cause a dose-related central nervous system depressant activity varying from mild impairment of task performance to hypnosis.
+Alprazolam is a 1,4 benzodiazepine.
+Alprazolam exerts its effect for the treatment of panic disorder through binding to the benzodiazepine site of gamma-aminobutyric acid-A (GABAA) receptors in the brain and enhances GABA-mediated synaptic inhibition.
 
-## Pharmacokinetics
+## 12.3 Pharmacokinetics
 
-### Absorption
+The pharmacokinetics of alprazolam and two of its major active metabolites (4-hydroxyalprazolam and α-hydroxyalprazolam) are linear, and concentrations are proportional up to 10 mg Alprazolam XR given once daily.
 
-Following oral administration of Alprazolam (immediate-release) tablets, alprazolam is readily absorbed.
-Peak concentrations in the plasma occur in one to two hours following administration.
-Plasma levels are proportional to the dose given; over the dose range of 0.5 to 3.0 mg, peak levels of 8.0 to 37 ng/mL were observed.
-Using a specific assay methodology, the mean plasma elimination half-life of alprazolam has been found to be about 11.2 hours (range: 6.3–26.9 hours) in healthy adults.
+Absorption
 
-The mean absolute bioavailability of alprazolam from Alprazolam XR tablets is approximately 90%, and the relative bioavailability compared to Alprazolam tablets is 100%.
-The bioavailability and pharmacokinetics of alprazolam following administration of Alprazolam XR tablets are similar to that for Alprazolam tablets, with the exception of a slower rate of absorption.
-The slower absorption rate results in a relatively constant concentration that is maintained between 5 and 11 hours after the dosing.
-The pharmacokinetics of alprazolam and two of its major active metabolites (4-hydroxyalprazolam and α-hydroxyalprazolam) are linear, and concentrations are proportional up to the recommended maximum daily dose of 10 mg given once daily.
-Multiple dose studies indicate that the metabolism and elimination of alprazolam are similar for the immediate-release and the extended-release products.
+Following oral administration of Alprazolam XR in the morning, peak plasma concentration of alprazolam (Cmax) occurs in about 10 hours postdose.
+Compared to morning dosing, alprazolam Cmax increased by 30% and the Tmax decreased by an hour following dosing at night.
 
-Food has a significant influence on the bioavailability of Alprazolam XR tablets.
-A high-fat meal given up to 2 hours before dosing with Alprazolam XR tablets increased the mean Cmax by about 25%.
+The mean absolute bioavailability of alprazolam following administration of Alprazolam XR is approximately 90%, and the relative bioavailability compared to alprazolam is about 100%.
+The bioavailability and pharmacokinetics of alprazolam following administration of Alprazolam XR are similar to that for alprazolam, with the exception of a slower rate of absorption.
+
+Effect of Food
+
+A high-fat meal given up to 2 hours before dosing with Alprazolam XR increased the mean Cmax by about 25%.
 The effect of this meal on Tmax depended on the timing of the meal, with a reduction in Tmax by about 1/3 for subjects eating immediately before dosing and an increase in Tmax by about 1/3 for subjects eating 1 hour or more after dosing.
-The extent of exposure (AUC) and elimination half-life (t1/2) were not affected by eating.
+The extent of exposure (AUC) and elimination half-life (t½) were not affected by eating.
 
-There were significant differences in absorption rate for the Alprazolam XR tablet, depending on the time of day administered, with the Cmax increased by 30% and the Tmax decreased by an hour following dosing at night, compared to morning dosing.
+Distribution
 
-### Distribution
+The apparent volume of distribution of alprazolam is similar for Alprazolam XR and Alprazolam.
+Alprazolam is 80% bound to human serum protein, and albumin accounts for the majority of the binding.
 
-The apparent volume of distribution of alprazolam is similar for Alprazolam XR and Alprazolam tablets.
-In vitro, alprazolam is bound (80%) to human serum protein.
-Serum albumin accounts for the majority of the binding.
+Elimination
 
-### Metabolism
+The mean plasma elimination half-life of alprazolam following administration of Alprazolam XR ranges from 10.7 to 15.8 hours in healthy adults.
 
-Alprazolam is extensively metabolized in humans, primarily by cytochrome P450 3A4 (CYP3A4), to two major metabolites in the plasma: 4-hydroxyalprazolam and α-hydroxyalprazolam.
-A benzophenone derived from alprazolam is also found in humans.
-Their half-lives appear to be similar to that of alprazolam.
-The pharmacokinetic parameters at steady-state for the two hydroxylated metabolites of alprazolam (4-hydroxyalprazolam and α-hydroxyalprazolam) were similar for Alprazolam and Alprazolam XR tablets, indicating that the metabolism of alprazolam is not affected by absorption rate.
-The plasma concentrations of 4-hydroxyalprazolam and α-hydroxyalprazolam relative to unchanged alprazolam concentration after both Alprazolam XR and Alprazolam tablets were always less than 10% and 4%, respectively.
+Metabolism
+
+Alprazolam is extensively metabolized in humans, primarily by cytochrome P450 3A4 (CYP3A4), to two major active metabolites in the plasma: 4-hydroxyalprazolam and α-hydroxyalprazolam.
+The plasma circulation levels of the two active metabolites after both Alprazolam XR and Alprazolam are less than 10% and 4% of the parent, respectively.
 The reported relative potencies in benzodiazepine receptor binding experiments and in animal models of induced seizure inhibition are 0.20 and 0.66, respectively, for 4-hydroxyalprazolam and α-hydroxyalprazolam.
-Such low concentrations and the lesser potencies of 4-hydroxyalprazolam and α-hydroxyalprazolam suggest that they are unlikely to contribute much to the pharmacological effects of alprazolam.
-The benzophenone metabolite is essentially inactive.
+The low concentrations and low potencies of 4-hydroxyalprazolam and α-hydroxyalprazolam indicate that they unlikely contribute much to the effects of Alprazolam.
+A benzophenone derived from Alprazolam is also found in humans.
+Their half-lives appear to be similar to that of Alprazolam.
+The pharmacokinetic parameters at steady-state for the two hydroxylated metabolites of Alprazolam (4-hydroxyalprazolam and α-hydroxyalprazolam) were similar for Alprazolam and Alprazolam XR, indicating that the metabolism of alprazolam is not affected by absorption rate.
 
-### Elimination
+Excretion
 
 Alprazolam and its metabolites are excreted primarily in the urine.
-The mean plasma elimination half-life of alprazolam following administration of Alprazolam XR tablet ranges from 10.7–15.8 hours in healthy adults.
 
-### Special Populations
+Specific Populations
 
-While pharmacokinetic studies have not been performed in special populations with Alprazolam XR tablets, the factors (such as age, gender, hepatic or renal impairment) that would affect the pharmacokinetics of alprazolam after the administration of Alprazolam tablets would not be expected to be different with the administration of Alprazolam XR tablets.
+Geriatric Patients
 
-Changes in the absorption, distribution, metabolism, and excretion of benzodiazepines have been reported in a variety of disease states including alcoholism, impaired hepatic function, and impaired renal function.
-Changes have also been demonstrated in geriatric patients.
-A mean half-life of alprazolam of 16.3 hours has been observed in healthy elderly subjects (range: 9.0–26.9 hours, n=16) compared to 11.0 hours (range: 6.3–15.8 hours, n=16) in healthy adult subjects.
-In patients with alcoholic liver disease the half-life of alprazolam ranged between 5.8 and 65.3 hours (mean: 19.7 hours, n=17) as compared to between 6.3 and 26.9 hours (mean=11.4 hours, n=17) in healthy subjects.
-In an obese group of subjects the half-life of alprazolam ranged between 9.9 and 40.4 hours (mean=21.8 hours, n=12) as compared to between 6.3 and 15.8 hours (mean=10.6 hours, n=12) in healthy subjects.
+The mean T1/2 of alprazolam was 16.3 hours (range: 9.0 to 26.9 hours) in healthy elderly subjects compared to 11.0 hours (range: 6.3 to 15.8 hours, n=16) in healthy adult subjects.
 
-Because of its similarity to other benzodiazepines, it is assumed that alprazolam undergoes transplacental passage and that it is excreted in human milk.
+Obese Patients
 
-#### Race
+The mean T1/2 of alprazolam was 21.8 hours (range: 9.9 to 40.4 hours) in a group of obese subjects.
 
-Maximal concentrations and half-life of alprazolam are approximately 15% and 25% higher in Asians compared to Caucasians.
+Patients with Hepatic Impairment
 
-#### Pediatrics
+The mean T1/2 of alprazolam was 19.7 hours (range: 5.8 to 65.3 hours) in patients with alcoholic liver disease.
 
-The pharmacokinetics of alprazolam after administration of the Alprazolam XR tablet in pediatric patients have not been studied.
+Racial or Ethnic Groups
 
-#### Gender
+Maximal concentrations and T1/2 of alprazolam are approximately 15% and 25% higher in Asians compared to Caucasians.
 
-Gender has no effect on the pharmacokinetics of alprazolam.
-
-#### Cigarette Smoking
+Smoking
 
 Alprazolam concentrations may be reduced by up to 50% in smokers compared to non-smokers.
 
-### Drug-Drug Interactions
+Drug Interaction Studies
 
-Alprazolam is primarily eliminated by metabolism via cytochrome P450 3A (CYP3A).
-Most of the interactions that have been documented with alprazolam are with drugs that inhibit or induce CYP3A4.
+In Vivo Studies
 
-Compounds that are potent inhibitors of CYP3A would be expected to increase plasma alprazolam concentrations.
-Drug products that have been studied in vivo, along with their effect on increasing alprazolam AUC, are as follows: ketoconazole, 3.98 fold; itraconazole, 2.70 fold; nefazodone, 1.98 fold; fluvoxamine, 1.96 fold; and erythromycin, 1.61 fold (see CONTRAINDICATIONS, WARNINGS, and PRECAUTIONS – Drug Interactions).
+Most of the interactions that have been documented with alprazolam are with drugs that modulate CYP3A4 activity.
 
-CYP3A inducers would be expected to decrease alprazolam concentrations and this has been observed in vivo.
-The oral clearance of alprazolam (given in a 0.8 mg single dose) was increased from 0.90±0.21 mL/min/kg to 2.13±0.54 mL/min/kg and the elimination t1/2 was shortened (from 17.1±4.9 to 7.7±1.7 h) following administration of 300 mg/day carbamazepine for 10 days (see PRECAUTIONS – Drug Interactions).
-However, the carbamazepine dose used in this study was fairly low compared to the recommended doses (1000–1200 mg/day); the effect at usual carbamazepine doses is unknown.
+Compounds that are inhibitors or inducers of CYP3A would be expected to increase or decrease plasma alprazolam concentrations, respectively.
+Drug products that have been studied in vivo, along with their effect on increasing alprazolam AUC, are as follows: ketoconazole, 3.98 fold; itraconazole, 2.66 fold; nefazodone, 1.98 fold; fluvoxamine, 1.96 fold; and erythromycin, 1.61 fold [see Contraindications (4), Warnings and Precautions (5.5), Drug Interactions (7.2)].
+Other studied drugs include:
 
-The ability of alprazolam to induce or inhibit human hepatic enzyme systems has not been determined.
-However, this is not a property of benzodiazepines in general.
-Further, alprazolam did not affect the prothrombin or plasma warfarin levels in male volunteers administered sodium warfarin orally.
+Cimetidine: Coadministration of cimetidine increased the maximum plasma concentration of alprazolam by 82%, decreased clearance by 42%, and increased T1/2 by 16%.
+
+Fluoxetine: Coadministration of fluoxetine with alprazolam increased the maximum plasma concentration of alprazolam by 46%, decreased clearance by 21%, increased T1/2 by 17%, and decreased measured psychomotor performance.
+
+Oral Contraceptives: Coadministration of oral contraceptives increased the maximum plasma concentration of alprazolam by 18%, decreased clearance by 22%, and increased T1/2 by 29%.
+
+Carbamazepine: The oral clearance of alprazolam (given in a 0.8 mg single dose) was increased from 0.90±0.21 mL/min/kg to 2.13±0.54 mL/min/kg and the elimination T1/2 was shortened (from 17.1±4.9 to 7.7 ±1.7 hour) following administration of 300 mg per day carbamazepine for 10 days [see Drug Interactions (7.2)].
+However, the carbamazepine dose used in this study was fairly low compared to the recommended doses (1000–1200 mg per day); the effect at usual carbamazepine doses is unknown.
+
+Ritonavir: Interactions involving HIV protease inhibitors (e.g, ritonavir) and alprazolam are complex and time dependent.
+Short-term low doses of ritonavir (4 doses of 200 mg) increased mean AUC of alprazolam by about 2.5-fold, and did not significantly affect Cmax of alprazolam.
+The elimination T1/2 was prolonged (30 hours versus 13 hours).
+However, upon extended exposure to ritonavir (500 mg, twice daily for 10 days), CYP3A induction offset this inhibition.
+Alprazolam AUC and Cmax was reduced by 12% and 16%, respectively, in the presence of ritonavir.
+The elimination T1/2 of alprazolam was not significantly changed [see Warnings and Precautions (5.5)].
+
+Sertraline: A single dose of alprazolam 1 mg and steady state dose of sertraline (50 to 150 mg per day) did not reveal any clinically significant changes in the pharmacokinetics of alprazolam.
+
+Imipramine and Desipramine: The steady state plasma concentrations of imipramine and desipramine have been reported to be increased an average of 31% and 20%, respectively, by the concomitant administration of Alprazolam in doses up to 4 mg per day.
+
+Warfarin: Alprazolam did not affect the prothrombin or plasma warfarin levels in male volunteers administered sodium warfarin orally.
+
+In Vitro Studies
+
+Data from in vitro studies of alprazolam suggest a possible drug interaction of alprazolam with paroxetine.
+The ability of alprazolam to induce human hepatic enzyme systems has not been determined.

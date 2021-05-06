@@ -1,14 +1,11 @@
-# CLINICAL EFFICACY TRIALS
+# 14 CLINICAL STUDIES
 
-The efficacy of Alprazolam XR tablets in the treatment of panic disorder was established in two 6-week, placebo-controlled studies of Alprazolam XR in patients with panic disorder.
-
-In two 6-week, flexible-dose, placebo-controlled studies in patients meeting DSM-III criteria for panic disorder, patients were treated with Alprazolam XR in a dose range of 1 to 10 mg/day, on a once-a-day basis.
+The efficacy of Alprazolam XR in the treatment of panic disorder in adults was established in two 6-week, flexible-dose, placebo-controlled studies in adult patients meeting DSM-III criteria for panic disorder.
+In these studies, patients were treated with Alprazolam XR in a dose range of 1 mg to 10 mg once per day.
 The effectiveness of Alprazolam XR was assessed on the basis of changes in various measures of panic attack frequency, on various measures of the Clinical Global Impression, and on the Overall Phobia Scale.
-In all, there were seven primary efficacy measures in these studies, and Alprazolam XR was superior to placebo on all seven outcomes in both studies.
-The mean dose of Alprazolam XR at the last treatment visit was 4.2 mg/day in the first study and 4.6 mg/day in the second.
+In all, there were 7 primary efficacy measures in these studies, and Alprazolam XR was superior to placebo on all 7 outcomes in both studies.
+The mean dose of Alprazolam XR at the last treatment visit was 4.2 mg per day in the first study and 4.6 mg per day in the second.
 
-In addition, there were two 8-week, fixed-dose, placebo-controlled studies of Alprazolam XR in patients with panic disorder, involving fixed Alprazolam XR doses of 4 and 6 mg/day, on a once-a-day basis, that did not show a benefit for either dose of Alprazolam XR.
-
-The longer-term efficacy of Alprazolam XR in panic disorder has not been systematically evaluated.
+In addition, there were two 8-week, fixed-dose, placebo-controlled studies of Alprazolam XR in adult patients with panic disorder, involving fixed Alprazolam XR doses of 4 mg and 6 mg/ once per day that did not show a benefit for either dose of Alprazolam XR.
 
 Analyses of the relationship between treatment outcome and gender did not suggest any differential responsiveness on the basis of gender.
