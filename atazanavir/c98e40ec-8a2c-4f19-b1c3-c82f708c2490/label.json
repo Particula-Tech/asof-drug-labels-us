@@ -1,0 +1,27 @@
+{
+  "application_numbers": [
+    "ANDA212579"
+  ],
+  "inn": "atazanavir",
+  "labeler": "Laurus Labs Limited",
+  "package_ndcs": [
+    "42385-920-06",
+    "42385-920-48",
+    "42385-920-60",
+    "42385-921-06",
+    "42385-921-48",
+    "42385-921-60",
+    "42385-922-06",
+    "42385-922-30",
+    "42385-922-37"
+  ],
+  "products": [
+    {
+      "form": "CAPSULE",
+      "generic": "atazanavir",
+      "name": "Atazanavir"
+    }
+  ],
+  "setid": "c98e40ec-8a2c-4f19-b1c3-c82f708c2490",
+  "source": "dailymed"
+}
