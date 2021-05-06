@@ -36,15 +36,14 @@ If you stop abacavir, lamivudine and zidovudine tablets because of an allergic r
 If your healthcare provider tells you that you can take abacavir, lamivudine and zidovudine tablets again, start taking it when you are around medical help or people who can call a healthcare provider if you need one.
 
 - Blood problems.
-  Zidovudine (RETROVIR®), one of the medicines in abacavir, lamivudine and zidovudine tablets, can cause serious blood cell problems.
+  Zidovudine, one of the medicines in abacavir, lamivudine and zidovudine tablets, can cause serious blood cell problems.
   These include reduced numbers of white blood cells (neutropenia) and extremely reduced numbers of red blood cells (anemia).
-  These blood cell problems are especially likely to happen in people with advanced human immunodeficiency virus type 1 (HIV-1) disease or AIDS.
+  These blood cell problems are especially likely to happen in people with advanced human immunodeficiency virus 1 (HIV-1) infection or Acquired Immune Deficiency Syndrome (AIDS).
   Your healthcare provider should check your blood cell counts regularly during treatment with abacavir, lamivudine and zidovudine tablets.
-- Muscle pain or weakness (myopathy) can happen during treatment with abacavir, lamivudine and zidovudine tablets.
-  Zidovudine (RETROVIR®), one of the medicines in abacavir, lamivudine and zidovudine tablets, can cause muscle pain or weakness when used for a long time.
-- Build-up of acid in your blood (lactic acidosis).
-  Lactic acidosis can happen in some people who take abacavir, lamivudine and zidovudine tablets.
-  Lactic acidosis is a serious medical emergency that can cause death.
+- Muscle pain or weakness can happen during treatment with abacavir, lamivudine and zidovudine tablets.
+  Zidovudine one of the medicines in abacavir, lamivudine and zidovudine tablets, can cause muscle pain or weakness when used for a long time.
+- Too much Lactic acid in your blood (lactic acidosis).
+  Lactic acidosis is a serious medical emergency that can lead to death.
   Call your healthcare provider right away if you get any of the following symptoms that could be signs of lactic acidosis:
   - feel very weak or tired
   - unusual (not normal) muscle pain
@@ -53,8 +52,7 @@ If your healthcare provider tells you that you can take abacavir, lamivudine and
   - feel cold, especially in your arms and legs
   - feel dizzy or light-headed
   - have a fast or irregular heartbeat
-- Serious liver problems can happen in people who take abacavir, lamivudine and zidovudine tablets.
-  In some cases, these serious liver problems can lead to death.
+- Severe liver problems in some cases, these serious liver problems can lead to death.
   Your liver may become large (hepatomegaly) and you may develop fat in your liver (steatosis).
   Call your healthcare provider right away if you get any of the following signs or symptoms of liver problems:
   - your skin or the white part of your eyes turns yellow (jaundice)
@@ -66,25 +64,29 @@ If your healthcare provider tells you that you can take abacavir, lamivudine and
 
 You may be more likely to get lactic acidosis or serious liver problems if you are female or very overweight (obese).
 
-- Worsening of hepatitis B virus in people who have HIV-1 infection.
-  If you have HIV-1 and hepatitis B virus (HBV) infection, your HBV may get worse (flare-up) if you stop taking abacavir, lamivudine and zidovudine tablets.
+- Worsening of hepatitis B virus (HBV) infection.
+  HBV infection and take abacavir, lamivudine and zidovudine tablets your HBV may get worse (flare-up) if you stop taking abacavir, lamivudine and zidovudine tablets.
   A "flare-up" is when your HBV infection suddenly returns in a worse way than before.
-  Worsening liver disease is serious and may lead to death.
-  - Do not run out of abacavir, lamivudine and zidovudine tablets.
-    Refill your prescription or talk to your healthcare provider before your abacavir, lamivudine and zidovudine tablets are all gone.
-  - Do not stop abacavir, lamivudine and zidovudine tablets without first talking to your healthcare provider.
-  - If you stop taking abacavir, lamivudine and zidovudine tablets, your healthcare provider will need to check your health often and do blood tests regularly for several months to check your liver.
-- Resistant Hepatitis B Virus (HBV).
-  If you have HIV-1 and hepatitis B, the hepatitis B virus can change (mutate) during your treatment with abacavir, lamivudine and zidovudine tablets and become harder to treat (resistant).
+- $$UnOrderedlist
+- Do not run out of abacavir, lamivudine and zidovudine tablets.
+  Refill your prescription or talk to your healthcare provider before your abacavir, lamivudine and zidovudine tablets are all gone.
+- Do not stop abacavir, lamivudine and zidovudine tablets without first talking to your healthcare provider.
+- If you stop taking abacavir, lamivudine and zidovudine tablets, your healthcare provider will need to check your health often and do blood tests regularly for several months to check your liver function and monitor your HBV infection.
+  It may be necessary to give you a medicine to treat HBV.
+  Tell your healthcare provider about any new or unusual symptoms you may have after you stop taking abacavir, lamivudine and zidovudine tablets.
+- $$EndUnOrderedlist
+- Resistant HBV.
+  If you have HIV-1 and HBV, the HBV can change (mutate) during your treatment with abacavir, lamivudine and zidovudine tablets and become harder to treat (resistant).
 - Use with interferon and ribavirin-based regimens.
-  Worsening of liver disease that has caused death has happened in people infected with both HIV-1 and hepatitis C virus who are taking antiretroviral medicines, and are also being treated for hepatitis C with interferon with or without ribavirin.
-  If you are taking abacavir, lamivudine and zidovudine tablets and interferon with or without ribavirin, tell your healthcare provider if you have any new symptoms.
+  Worsening of liver disease that has caused death has happened in people infected with both HIV-1 and hepatitis C virus who are taking HIV-1 medicines and are also being treated for hepatitis C with interferon alfa with or without ribavirin.
+  If you are taking abacavir, lamivudine and zidovudine tablets and interferon alfa with or without ribavirin, tell your healthcare provider if you have any new symptoms.
+- For more information about side effects, see "What are the possible side effects of abacavir, lamivudine and zidovudine tablets.
 
 What are abacavir, lamivudine and zidovudine tablets?
 
-Abacavir, lamivudine and zidovudine tablet is a prescription HIV-1 (Human Immunodeficiency Virus type 1) medicine used alone or with other antiretroviral medicines to treat HIV-1 infection.
-HIV-1 is the virus that causes Acquired Immune Deficiency Syndrome (AIDS).
-Abacavir, lamivudine and zidovudine tablet contains 3 prescription medicines, abacavir (ZIAGEN®), lamivudine (EPIVIR®) and zidovudine (RETROVIR®).
+Abacavir, lamivudine and zidovudine tablet is a prescription medicine used alone or with other HIV-1 medicines to treat HIV-1 infection.
+HIV-1 is the virus that causes AIDS.
+Abacavir, lamivudine and zidovudine tablet contains the prescription medicines, abacavir, lamivudine and zidovudine.
 
 Abacavir, lamivudine and zidovudine tablets should not be used in children weighing less than 88 pounds (40 kg).
 
@@ -92,13 +94,11 @@ Do not take abacavir, lamivudine and zidovudine tablets if you:
 
 - have a certain type of gene variation called the HLA-B*5701 allele.
   Your healthcare provider will test you for this before prescribing treatment with abacavir, lamivudine and zidovudine tablets.
-- are allergic to abacavir or any of the ingredients in abacavir, lamivudine and zidovudine tablets.
+- are allergic to abacavir, lamivudine, zidovudine or any of the ingredients in abacavir, lamivudine and zidovudine tablets.
   See the end of this Medication Guide for a complete list of ingredients in abacavir, lamivudine and zidovudine tablets.
-- have liver problems.
+- have certain liver problems.
 
-What should I tell my healthcare provider before taking abacavir, lamivudine and zidovudine tablets?
-
-Before you take abacavir, lamivudine and zidovudine tablets, tell your healthcare provider if you:
+Before you take abacavir, lamivudine and zidovudine tablets, tell your healthcare provider about all of your medical conditions, includingif you:
 
 - have been tested and know whether or not you have a particular gene variation called HLA-B*5701.
 - have or have had liver problems, including hepatitis B or C virus infection.
@@ -106,12 +106,10 @@ Before you take abacavir, lamivudine and zidovudine tablets, tell your healthcar
 - have low blood cell counts (bone marrow problem).
   Ask your healthcare provider if you are not sure.
 - have heart problems, smoke, or have diseases that increase your risk of heart disease such as high blood pressure, high cholesterol, or diabetes.
-- drink alcohol or take medicines that contain alcohol.
 - are pregnant or plan to become pregnant.
-  Talk to your healthcare provider if you are pregnant or plan to become pregnant.
 
 Pregnancy Registry.
-There is a pregnancy registry for women who take antiretroviral medicines during pregnancy.
+There is a pregnancy registry for women who take HIV-1 medicines during pregnancy.
 The purpose of this registry is to collect information about the health of you and your baby.
 Talk to your healthcare provider about how you can take part in this registry.
 
@@ -131,11 +129,11 @@ Your healthcare provider can tell you if it is safe to take abacavir, lamivudine
 How should I take abacavir, lamivudine and zidovudine tablets?
 
 - Take abacavir, lamivudine and zidovudine tablets exactly as your healthcare provider tells you to take it.
+- Do not change your dose or stop taking abacavir, lamivudine and zidovudine tablets without talking with your healthcare provider.
 - If you miss a dose of abacavir, lamivudine and zidovudine tablets, take it as soon as you remember.
   Do not take 2 doses at the same time or take more than your healthcare provider tells you to take.
 - Stay under the care of a healthcare provider during treatment with abacavir, lamivudine and zidovudine tablets.
 - Abacavir, lamivudine and zidovudine tablets may be taken with or without food.
-- Tell your healthcare provider if you or your child has trouble swallowing abacavir, lamivudine and zidovudine tablets.
 - Do not run out of abacavir, lamivudine and zidovudine tablets.
   The virus in your blood may increase and the virus may become harder to treat.
   When your supply starts to run low, get more from your healthcare provider or pharmacy.
@@ -151,8 +149,7 @@ What are the possible side effects of abacavir, lamivudine and zidovudine tablet
 - Loss of body fat can happen in people who take HIV-1 medicines that contain zidovudine.
   This loss of fat may occur in the legs, arms, buttocks, and face.
   The loss of fat may be permanent and long-term health effects are not known.
-- Heart attack (myocardial infarction).
-  Some HIV-1 medicines including abacavir, lamivudine and zidovudine tablets may increase your risk of heart attack.
+- Heart attack Some HIV-1 medicines including abacavir, lamivudine and zidovudine tablets may increase your risk of heart attack.
 
 The most common side effects of abacavir, lamivudine and zidovudine tablets include:
 
@@ -164,13 +161,12 @@ The most common side effects of abacavir, lamivudine and zidovudine tablets incl
 Tell your healthcare provider if you have any side effect that bothers you or that does not go away.
 
 These are not all the possible side effects of abacavir, lamivudine and zidovudine tablets.
-For more information, ask your healthcare provider or pharmacist.
 Call your doctor for medical advice about side effects.
 You may report side effects to FDA at 1-800-FDA-1088.
 
 How should I store abacavir, lamivudine and zidovudine tablets?
 
-- Store abacavir, lamivudine and zidovudine tablets at 59°F to 86°F (15°C to 30°C).
+- Store abacavir, lamivudine and zidovudine tablets at room temperature.
 
 Keep abacavir, lamivudine and zidovudine tablets and all medicines out of the reach of children.
 
@@ -182,8 +178,6 @@ Do not give abacavir, lamivudine and zidovudine tablets to other people, even if
 It may harm them.
 
 You can ask your healthcare provider or pharmacist for the information about abacavir, lamivudine and zidovudine tablets that is written for health professionals.
-
-For more information go to www.lupinpharmaceuticals.com or call 1-800-399-2561.
 
 What are the ingredients in abacavir, lamivudine and zidovudine tablets?
 
@@ -213,4 +207,6 @@ Pithampur (M.P.) - 454 775
 
 India
 
-Revised: September 2018 ID#: 256360
+Revised: May 2021 ID#: 267580
+
+For more information go to www.lupinpharmaceuticals.com or call 1-800-399-2561.

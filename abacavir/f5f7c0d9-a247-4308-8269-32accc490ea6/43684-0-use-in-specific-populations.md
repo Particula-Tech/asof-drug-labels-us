@@ -35,15 +35,15 @@ Human Data:
 
 Abacavir
 
-Based on prospective reports to the APR of over 2,000 exposures to abacavir during pregnancy resulting in live births (including over 1,000 exposed in the first trimester), there was no difference between the overall risk of birth defects for abacavir compared with the background birth defect rate of 2.7% in a U.S. reference population of the MACDP.
-The prevalence of defects in live births was 2.9% (95% CI: 2.0% to 4.1%) following first trimester exposure to abacavir-containing regimens and 2.7% (95% CI: 1.9% to 3.7%) following second/third trimester exposure to abacavir-containing regimens.
+Based on prospective reports to the APR of exposures to abacavir during pregnancy resulting in live births (including over 1,300 exposed in the first trimester and over 1,300 exposed in the second/third trimester), there was no difference between the overall risk of birth defects for abacavir compared with the background birth defect rate of 2.7% in a U.S. reference population of the MACDP.
+The prevalence of defects in live births was 3.2% (95% CI: 2.3% to 4.3%) following first trimester exposure to abacavir-containing regimens and 2.9% (95% CI: 2.1% to 4%) following second/third trimester exposure to abacavir-containing regimens.
 
 Abacavir has been shown to cross the placenta and concentrations in neonatal plasma at birth were essentially equal to those in maternal plasma at delivery [see CLINICAL PHARMACOLOGY (12.3)].
 
 Lamivudine
 
-Based on prospective reports to the APR of over 11,000 exposures to lamivudine during pregnancy resulting in live births (including over 4,500 exposed in the first trimester), there was no difference between the overall risk of birth defects for lamivudine compared with the background birth defect rate of 2.7% in a U.S. reference population of the MACDP.
-The prevalence of birth defects in live births was 3.1% (95% CI: 2.6% to 3.6%) following first trimester exposure to lamivudine-containing regimens and 2.8% (95% CI: 2.5% to 3.3%) following second/third trimester exposure to lamivudine-containing regimens.
+Based on prospective reports to the APR of of exposures to lamivudine during pregnancy resulting in live births (including over 5300 exposed in the first trimester and over 7,400 exposed in the second/third trimester), there was no difference between the overall risk of birth defects for lamivudine compared with the background birth defect rate of 2.7% in a U.S. reference population of the MACDP.
+The prevalence of birth defects in live births was 3.1% (95% CI: 2.7% to 3.6%) following first trimester exposure to lamivudine-containing regimens and 2.9% (95% CI: 2.5% to 3.3%) following second/third trimester exposure to lamivudine-containing regimens..
 
 Lamivudine pharmacokinetics were studied in pregnant women during 2 clinical trials conducted in South Africa.
 The trials assessed pharmacokinetics in 16 women at 36 weeks' gestation using 150 mg lamivudine twice daily with zidovudine, 10 women at 38 weeks' gestation using 150 mg lamivudine twice daily with zidovudine, and 10 women at 38 weeks' gestation using lamivudine 300 mg twice daily without other antiretrovirals.
@@ -54,8 +54,8 @@ Based on limited data at delivery, median (range) amniotic fluid concentrations 
 
 Zidovudine
 
-Based on prospective reports to the APR of over 13,000 exposures to zidovudine during pregnancy resulting in live births (including over 4,000 exposed in the first trimester), there was no difference between the overall risk of birth defects for zidovudine compared with the background birth defect rate of 2.7% in a U.S. reference population of the MACDP.
-The prevalence of birth defects in live births was 3.2% (95% CI: 2.7% to 3.8%) following first trimester exposure to zidovudine-containing regimens and 2.8% (95% CI: 2.5% to 3.2%) following second/third trimester exposure to zidovudine-containing regimens.
+Based on prospective reports to the APR of exposures to zidovudine during pregnancy resulting in live births (including over 4,200 exposed in the first trimester and over 9,700 exposed in the second/third trimester), there was no difference between the overall risk of birth defects for zidovudine compared with the background birth defect rate of 2.7% in a U.S. reference population of the MACDP.
+The prevalence of birth defects in live births was 3.2% (95% CI: 2.7% to 3.8%) following first trimester exposure to zidovudine-containing regimens and 2.8% (95% CI: 2.5% to 3.1%) following second/third trimester exposure to zidovudine-containing regimens.
 
 A randomized, double-blind, placebo-controlled trial was conducted in HIV-1-infected pregnant women to determine the utility of zidovudine for the prevention of maternal-fetal HIV-1 transmission.
 Zidovudine treatment during pregnancy reduced the rate of maternal-fetal HIV-1 transmission from 24.9% for infants born to placebo-treated mothers to 7.8% for infants born to mothers treated with zidovudine.
@@ -75,7 +75,7 @@ Animal Data:
 
 Abacavir
 
-Abacavir was administered orally to pregnant rats (at 100, 300, and 1,000 mg per kg per day) and rabbits (at 125, 350, or 700 mg per kg per day) during organogenesis (on gestation Days 6 through 17 and 6 through 20, respectively).
+Abacavir was administered orally to pregnant rats (at 100, 300, and 1,000 mg per kg per day) and rabbits (at 125, 350, or 700 mg per kg per day) during organogenesis (on Gestation Days 6 through 17 and 6 through 20, respectively).
 Fetal malformations (increased incidences of fetal anasarca and skeletal malformations) or developmental toxicity (decreased fetal body weight and crown-rump length) were observed in rats at doses up to 1,000 mg per kg per day, resulting in exposures approximately 35 times the human exposure (AUC) at the recommended daily dose.
 No developmental effects were observed in rats at 100 mg per kg per day, resulting in exposures (AUC) 3.5 times the human exposure at the recommended daily dose.
 In a fertility and early embryo-fetal development study conducted in rats (at 60, 160, or 500 mg per kg per day), embryonic and fetal toxicities (increased resorptions, decreased fetal body weights) or toxicities to the offspring (increased incidence of stillbirth and lower body weights) occurred at doses up to 500 mg per kg per day.
@@ -85,7 +85,7 @@ In pregnant rabbits, no developmental toxicities and no increases in fetal malfo
 
 Lamivudine
 
-Lamivudine was administered orally to pregnant rats (at 90, 600, and 4,000 mg per kg per day) and rabbits (at 90, 300, and 1,000 mg per kg per day and at 15, 40, and 90 mg per kg per day) during organogenesis (on gestation Days 7 through 16 [rat] and 8 through 20 [rabbit]).
+Lamivudine was administered orally to pregnant rats (at 90, 600, and 4,000 mg per kg per day) and rabbits (at 90, 300, and 1,000 mg per kg per day and at 15, 40, and 90 mg per kg per day) during organogenesis (on Gestation Days 7 through 16 [rat] and 8 through 20 [rabbit]).
 No evidence of fetal malformations due to lamivudine was observed in rats and rabbits at doses producing plasma concentrations (Cmax) approximately 35 times higher than human exposure at the recommended daily dose.
 Evidence of early embryolethality was seen in the rabbit at systemic exposures (AUC) similar to those observed in humans, but there was no indication of this effect in the rat at plasma concentrations (Cmax) 35 times higher than human exposure at the recommended daily dose.
 Studies in pregnant rats showed that lamivudine is transferred to the fetus through the placenta.
@@ -94,8 +94,8 @@ In the study, development of the offspring, including fertility and reproductive
 
 Zidovudine
 
-A study in pregnant rats (at 50, 150, or 450 mg per kg per day starting 26 days prior to mating through gestation to postnatal Day 21) showed increased fetal resorptions at doses that produced systemic exposures (AUC) approximately 33 times higher than exposure at the recommended daily human dose (300 mg twice daily).
-However, in an oral embryo-fetal development study in rats (at 125, 250, or 500 mg per kg per day on gestation Days 6 through 15), no fetal resorptions were observed at doses that produced systemic exposure (AUC) approximately 117 times higher than exposures at the recommended daily human dose.
+A study in pregnant rats (at 50, 150, or 450 mg per kg per day starting 26 days prior to mating through Gestation to postnatal Day 21) showed increased fetal resorptions at doses that produced systemic exposures (AUC) approximately 33 times higher than exposure at the recommended daily human dose (300 mg twice daily).
+However, in an oral embryo-fetal development study in rats (at 125, 250, or 500 mg per kg per day on Gestation Days 6 through 15), no fetal resorptions were observed at doses that produced systemic exposure (AUC) approximately 117 times higher than exposures at the recommended daily human dose.
 An oral embryo-fetal development study in rabbits (at 75, 150, or 500 mg per kg per day on gestation Days 6 through 18) showed increased fetal resorptions at the 500-mg-per-kg-per-day dose which produced systemic exposures (AUC) approximately 108 times higher than exposure at the recommended daily human dose; however, no fetal resorptions were noted at doses up to 150 mg per kg per day, which produced systemic exposure (AUC) approximately 23 times higher than exposures at the recommended daily human dose.
 These oral embryo-fetal development studies in the rat and rabbit revealed no evidence of fetal malformations with zidovudine.
 In another developmental toxicity study, pregnant rats (dosed at 3,000 mg per kg per day from Days 6 through 15 of gestation) showed marked maternal toxicity and an increased incidence of fetal malformations at exposures greater than 300 times the recommended daily human dose based on AUC.

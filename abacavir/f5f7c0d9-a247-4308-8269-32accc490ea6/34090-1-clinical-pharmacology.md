@@ -8,8 +8,8 @@ Abacavir, lamivudine and zidovudine tablet is an antiretroviral agent [see Micro
 
 Pharmacokinetics in Adults
 
-In a single-dose, 3-way crossover bioavailability trial of 1 abacavir, lamivudine and zidovudine tablet versus 1 ZIAGEN® tablet (300 mg), 1 EPIVIR® tablet (150 mg), plus 1 RETROVIR® tablet (300 mg) administered simultaneously in healthy subjects (n = 24), there was no difference in the extent of absorption, as measured by the area under the plasma concentration-time curve (AUC) and maximal peak concentration (Cmax), of all 3 components.
-One abacavir, lamivudine and zidovudine tablet was bioequivalent to 1 ZIAGEN® tablet (300 mg), 1 EPIVIR® tablet (150 mg), plus 1 RETROVIR® tablet (300 mg) following single-dose administration to fasting healthy subjects (n = 24).
+In a single-dose, 3-way crossover bioavailability trial of 1 abacavir, lamivudine and zidovudine tablet versus 1 ZIAGEN tablet (300 mg), 1 EPIVIR tablet (150 mg), plus 1 RETROVIR tablet (300 mg) administered simultaneously in healthy subjects (n = 24), there was no difference in the extent of absorption, as measured by the area under the plasma concentration-time curve (AUC) and maximal peak concentration (Cmax), of all 3 components.
+One abacavir, lamivudine and zidovudine tablet was bioequivalent to 1 ZIAGEN tablet (300 mg), 1 EPIVIR tablet (150 mg), plus 1 RETROVIR tablet (300 mg) following single-dose administration to fasting healthy subjects (n = 24).
 
 Abacavir:
 
@@ -38,20 +38,17 @@ Urinary recovery of zidovudine and GZDV accounts for 14% and 74% of the dose fol
 A second metabolite, 3′-amino-3′ deoxythymidine (AMT), has been identified in plasma.
 The AMT AUC was one-fifth of the zidovudine AUC.
 
-In humans, abacavir, lamivudine, and zidovudine are not significantly metabolized by cytochrome P450 enzymes.
+In humans, abacavir, lamivudine, and zidovudine are not significantly metabolized by CYP enzymes.
 
 The pharmacokinetic properties of abacavir, lamivudine, and zidovudine in fasting subjects are summarized in Table 3.
 
-Table 3.
-Pharmacokinetic ParametersData presented as mean ± standard deviation except where noted. for Abacavir, Lamivudine, and Zidovudine in Adults
-
-| Parameter | Abacavir |  | Lamivudine |  | Zidovudine |  |
+| Header$Parameter | Abacavir |  | Lamivudine |  | Zidovudine |  |
 | --- | --- | --- | --- | --- | --- | --- |
 | Oral bioavailability (%) | 86 ± 25 | n = 6 | 86 ± 16 | n = 12 | 64 ± 10 | n = 5 |
 | Apparent volume of distribution (L/kg) | 0.86 ± 0.15 | n = 6 | 1.3 ± 0.4 | n = 20 | 1.6 ± 0.6 | n = 8 |
 | Systemic clearance (L/h/kg) | 0.80 ± 0.24 | n = 6 | 0.33 ± 0.06 | n = 20 | 1.6 ± 0.6 | n = 6 |
 | Renal clearance (L/h/kg) | 0.007 ± 0.008 | n = 6 | 0.22 ± 0.06 | n = 20 | 0.34 ± 0.05 | n = 9 |
-| Elimination half-life (h) | 1.45 ± 0.32 | n = 20 | 5 to 7Approximate range. |  | 0.5 to 3 |  |
+| Elimination half-life (h) | 1.45 ± 0.32 | n = 20 | 13 to 19b |  | 0.5 to 3b |  |
 
 Effect of Food on Absorption of Abacavir, Lamivudine and Zidovudine Tablets
 
@@ -120,12 +117,17 @@ No clinically significant drug interactions are expected between abacavir, lamiv
 
 Effect of Abacavir and Lamivudine on the Pharmacokinetics of Other Agents:
 
-Abacavir and lamivudine do not inhibit or induce CYP enzymes (such as CYP3A4, CYP2C9, or CYP2D6), therefore, it is unlikely that clinically significant drug interactions will occur with drugs metabolized through these pathways.
+In vitro studies have shown that abacavir has potential to inhibit CYP1A1 and limited potential to inhibit metabolism mediated by CYP3A4.
+Lamivudine does not inhibit or induce CYP3A4.
+Abacavir and lamivudine do not inhibit or induce other CYP enzymes (such as CYP2C9, or CYP2D6).
 Based on in vitro study results, abacavir and lamivudine at therapeutic drug exposures are not expected to affect the pharmacokinetics of drugs that are substrates of the following transporters: organic anion transporter polypeptide (OATP)1B1/3, breast cancer resistance protein (BCRP) or P-glycoprotein (P-gp), organic cation transporter (OCT)1, OCT2, OCT3 (lamivudine only), or multidrug and toxic extrusion protein (MATE)1 and MATE2-K.
+
+Riociguat: Coadministration of a single dose of riociguat (0.5 mg) to HIV-1–infected subjects receiving fixed-dose abacavir/dolutegravir/lamivudine is reported to increase riociguat AUC(∞) compared with riociguat AUC(∞) reported in healthy subjects due to CYP1A1 inhibition by abacavir.
+The exact magnitude of increase in riociguat exposure has not been fully characterized based on findings from two studies [see Drug Interactions (7.1)].
 
 Effect of Other Agents on the Pharmacokinetics of Abacavir, Lamivudine, or Zidovudine:
 
-Abacavir, lamivudine, and zidovudine are not significantly metabolized by cytochrome P450 enzymes; therefore, CYP enzyme inhibitors or inducers are not expected to affect their concentrations.
+Abacavir, lamivudine, and zidovudine are not significantly metabolized by CYP P450 enzymes; therefore, CYP enzyme inhibitors or inducers are not expected to affect their concentrations.
 In vitro, abacavir is not a substrate of OATP1B1, OATP1B3, OCT1, OCT2, OAT1, MATE1, MATE2-K, multidrug resistance-associated protein (MRP)2 or MRP4; therefore, drugs that modulate these transporters are not expected to affect abacavir plasma concentrations.
 Abacavir is a substrate of BCRP and P-gp in vitro; however, considering its absolute bioavailability (83%), modulators of these transporters are unlikely to result in a clinically relevant impact on abacavir concentrations.
 
@@ -237,7 +239,7 @@ The EC50 values of zidovudine against different HIV-1 clades (A-G) ranged from 0
 Ribavirin has been found to inhibit the phosphorylation of zidovudine in cell culture.
 
 Neither abacavir, lamivudine, nor zidovudine was antagonistic to tested anti-HIV agents, with the exception of stavudine where an antagonistic relationship with zidovudine has been demonstrated in cell culture.
-See full prescribing information for ZIAGEN® (abacavir), EPIVIR® (lamivudine), RETROVIR® (zidovudine).
+See full prescribing information for ZIAGEN (abacavir), EPIVIR (lamivudine), RETROVIR (zidovudine).
 
 Resistance
 
