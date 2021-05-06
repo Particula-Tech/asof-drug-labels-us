@@ -1,0 +1,22 @@
+{
+  "application_numbers": [
+    "NDA211844"
+  ],
+  "inn": "midazolam",
+  "labeler": "WG Critical Care, LLC.",
+  "package_ndcs": [
+    "44567-610-01",
+    "44567-610-10",
+    "44567-611-01",
+    "44567-611-10"
+  ],
+  "products": [
+    {
+      "form": "INJECTION, SOLUTION",
+      "generic": "midazolam hydrochloride",
+      "name": "MIDAZOLAM HYDROCHLORIDE"
+    }
+  ],
+  "setid": "f051776f-94c5-4e34-80ed-f45b9c36881e",
+  "source": "dailymed"
+}
