@@ -15,7 +15,7 @@ Oligohydramnios/Neonatal Renal Impairment
 
 Use of NSAIDs at about 20 weeks gestation or later in pregnancy has been associated with cases of fetal renal dysfunction leading to oligohydramnios, and in some cases, neonatal renal impairment.
 
-Data from observational studies regarding potential embryofetal risks of NSAID use in women in the first or second trimesters of pregnancy are inconclusive.
+Data from observational studies regarding other potential embryofetal risks of NSAID use in women in the first or second trimesters of pregnancy are inconclusive.
 In animal reproduction studies retarded fetal ossification was observed with administration of indomethacin to mice and rats during organogenesis at doses 0.1 and 0.2 times, respectively, the maximum recommended human dose (MRHD, 200 mg).
 In published studies in pregnant mice, indomethacin produced maternal toxicity and death, increased fetal resorptions, and fetal malformations at 0.1 times the MRHD.
 When rat and mice dams were dosed during the last three days of gestation, indomethacin produced neuronal necrosis in the offspring at 0.1 and 0.05 times the MRHD, respectively [see Data].

@@ -155,9 +155,10 @@ Oligohydramnios/Neonatal Renal Impairment:
 
 Use of NSAIDs, including indomethacin extended-release capsules, at about 20 weeks gestation or later in pregnancy may cause fetal renal dysfunction leading to oligohydramnios and, in some cases, neonatal renal impairment.
 These adverse outcomes are seen, on average, after days to weeks of treatment, although oligohydramnios has been infrequently reported as soon as 48 hours after NSAID initiation.
+
 Oligohydramnios is often, but not always, reversible with treatment discontinuation.
 Complications of prolonged oligohydramnios may, for example, include limb contractures and delayed lung maturation.
-In some post-marketing exchange transfusion or dialysis were required.
+In some post marketing cases of impaired neonatal renal function, invasive procedures such as exchange transfusion or dialysis were required.
 
 If NSAID treatment is necessary between about 20 weeks and 30 weeks gestation, limit indomethacin extended-release capsules use to the lowest effective dose and shortest duration possible.
 Consider ultrasound monitoring of amniotic fluid if indomethacin extended-release capsules treatment extends beyond 48 hours.
