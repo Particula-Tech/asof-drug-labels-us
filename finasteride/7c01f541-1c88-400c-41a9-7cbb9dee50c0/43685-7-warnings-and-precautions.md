@@ -24,15 +24,18 @@ Similar results were observed in a 4-year placebo-controlled clinical trial with
 5α-reductase inhibitors may increase the risk of development of high-grade prostate cancer.
 Whether the effect of 5α-reductase inhibitors to reduce prostate volume, or study-related factors, impacted the results of these studies has not been established.
 
-## 5.3 Exposure of Women — Risk to Male Fetus
+## 5.3 Exposure of Females — Risk to Male Fetus
 
-Women should not handle crushed or broken PROSCAR tablets when they are pregnant or may potentially be pregnant because of the possibility of absorption of finasteride and the subsequent potential risk to a male fetus.
+PROSCAR is contraindicated in pregnant females and in females who may potentially be pregnant and not indicated for use in females.
+Based on animal studies and the mechanism of action, PROSCAR may cause abnormal development of external genitalia in a male fetus if administered to a pregnant female.
+Females who are pregnant or may potentially be pregnant should not handle crushed or broken PROSCAR tablets.
 PROSCAR tablets are coated and will prevent contact with the active ingredient during normal handling, provided that the tablets have not been broken or crushed.
-[See Contraindications (4), Use in Specific Populations (8.1), Clinical Pharmacology (12.3), How Supplied/Storage and Handling (16) and Patient Counseling Information (17.2).]
+If a pregnant female comes in contact with crushed or broken PROSCAR tablets, the contact area should be washed immediately with soap and water.
+[See Contraindications (4), Use in Specific Populations (8.1), Clinical Pharmacology (12.1 and 12.3), and How Supplied/Storage and Handling (16).]
 
-## 5.4 Pediatric Patients and Women
+## 5.4 Pediatric Patients and Females
 
-PROSCAR is not indicated for use in pediatric patients [see Use in Specific Populations (8.4) and Clinical Pharmacology (12.3)] or women [see also Warnings and Precautions (5.3), Use in Specific Populations (8.1), Clinical Pharmacology (12.3), How Supplied/Storage and Handling (16) and Patient Counseling Information (17.2)].
+PROSCAR is not indicated for use in pediatric patients [see Use in Specific Populations (8.4) and Clinical Pharmacology (12.3)] or females [see also Warnings and Precautions (5.3), Use in Specific Populations (8.1), Clinical Pharmacology (12.3), and How Supplied/Storage and Handling (16)].
 
 ## 5.5 Effect on Semen Characteristics
 

@@ -89,7 +89,7 @@ Finasteride is not indicated for use in pediatric patients [see Warnings and Pre
 
 Gender
 
-Finasteride is not indicated for use in women [see Contraindications (4), Warnings and Precautions (5.3 and 5.4), Use in Specific Populations (8.1), How Supplied/Storage and Handling (16) and Patient Counseling Information (17.2)].
+Finasteride is not indicated for use in females [see Contraindications (4), Warnings and Precautions (5.3 and 5.4), Use in Specific Populations (8.1), and How Supplied/Storage and Handling (16)].
 
 Geriatric
 
