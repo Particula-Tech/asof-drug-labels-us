@@ -1,5 +1,7 @@
-# CONTRAINDICATIONS
+# 4 CONTRAINDICATIONS
 
-Alprazolam tablets are contraindicated in patients with known sensitivity to this drug or other benzodiazepines.
+Alprazolam is contraindicated in patients:
 
-Alprazolam is contraindicated with ketoconazole and itraconazole, since these medications significantly impair the oxidative metabolism mediated by cytochrome P450 3A (CYP3A) (see WARNINGS, and PRECAUTIONS–Drug Interactions).
+- •with known hypersensitivity to alprazolam or other benzodiazepines.
+  Angioedema has been reported [see Adverse Reactions (6.2)].
+- •taking strong cytochrome P450 3A (CYP3A) inhibitors (e.g., ketoconazole, itraconazole), except ritonavir [see Dosage and Administration (2.6), Warnings and Precautions (5.5), Drug Interactions (7.1)]
