@@ -2,22 +2,20 @@
 
 The clinical efficacy of ondansetron hydrochloride, the active ingredient of ZOFRAN, was assessed in clinical trials as described below.
 
-## 14.1 Chemotherapy-induced Nausea and Vomiting
+## 14.1 Chemotherapy-Induced Nausea and Vomiting
 
-### Adults
+Adults
 
 In a double-blind trial of three different dosing regimens of ZOFRAN Injection, 0.015 mg/kg, 0.15 mg/kg, and 0.30 mg/kg, each given three times during the course of cancer chemotherapy, the 0.15-mg/kg dosing regimen was more effective than the 0.015-mg/kg dosing regimen.
 The 0.30-mg/kg dosing regimen was not shown to be more effective than the 0.15-mg/kg dosing regimen.
 
-#### Cisplatin-based Chemotherapy:
-
-In a double-blind trial in 28 patients, ZOFRAN Injection (three 0.15-mg/kg doses) was significantly more effective than placebo in preventing nausea and vomiting induced by cisplatin-based chemotherapy.
+Cisplatin-based Chemotherapy: In a double-blind trial in 28 patients, ZOFRAN Injection (three 0.15-mg/kg doses) was significantly more effective than placebo in preventing nausea and vomiting induced by cisplatin-based chemotherapy.
 Therapeutic response was as shown in Table 7.
 
 Table 7.
-Therapeutic Response in Prevention of Chemotherapy-induced Nausea and Vomiting in Single-day Cisplatin Therapya in Adults
+Therapeutic Response in Prevention of Chemotherapy-Induced Nausea and Vomiting in Single-day Cisplatin Therapya in Adults
 
-|  | ZOFRAN Injection (0.15 mg/kg x 3) | Placebo | P Valueb |
+|  | ZOFRAN Injection (0.15 mg/kg x 3) | Placebo | P-valueb |
 | --- | --- | --- | --- |
 | Number of patients | 14 | 14 |  |
 | Treatment response |  |  |  |
@@ -42,7 +40,7 @@ d Visual analog scale assessment of nausea: 0 = no nausea, 100 = nausea as bad a
 
 e Visual analog scale assessment of satisfaction: 0 = not at all satisfied, 100 = totally satisfied.
 
-Ondansetron injection (0.15-mg/kg x 3 doses) was compared with metoclopramide (2 mg/kg x 6 doses) in a single-blind trial in 307 patients receiving cisplatin ≥100 mg/m2 with or without other chemotherapeutic agents.
+Ondansetron injection (0.15-mg/kg x 3 doses) was compared with metoclopramide (2 mg/kg x 6 doses) in a single-blind trial in 307 patients receiving cisplatin ≥ 100 mg/m2 with or without other chemotherapeutic agents.
 Patients received the first dose of ondansetron or metoclopramide 30 minutes before cisplatin.
 Two additional ondansetron doses were administered 4 and 8 hours later, or five additional metoclopramide doses were administered 2, 4, 7, 10, and 13 hours later.
 Cisplatin was administered over a period of 3 hours or less.
@@ -50,11 +48,11 @@ Episodes of vomiting and retching were tabulated over the period of 24 hours aft
 The results of this trial are summarized in Table 8.
 
 Table 8.
-Therapeutic Response in Prevention of Vomiting Induced by Cisplatin (≥100 mg/m2) Single-day Therapya in Adults
+Therapeutic Response in Prevention of Vomiting Induced by Cisplatin (≥ 100 mg/m2) Single-day Therapya in Adults
 
-|  | Zofran Injection | Metoclopramide |  |
+|  | ZOFRAN Injection | Metoclopramide |  |
 | --- | --- | --- | --- |
-|  | 0.15 mg/kg x 3 | 2 mg/kg x 6 | P Value |
+|  | 0.15 mg/kg x 3 | 2 mg/kg x 6 | P-value |
 | Number of patients in efficacy population | 136 | 138 |  |
 | Treatment response |  |  |  |
 | 0 Emetic episodes | 54 (40%) | 41 (30%) |  |
@@ -75,15 +73,13 @@ There was no difference between treatments in the types of chemotherapy that wou
 
 b Visual analog scale assessment: 0 = not at all satisfied, 100 = totally satisfied.
 
-#### Cyclophosphamide-based Chemotherapy:
-
-In a double-blind, placebo-controlled trial of ZOFRAN Injection (three 0.15-mg/kg doses) in 20 patients receiving cyclophosphamide (500 to 600 mg/m2) chemotherapy, ZOFRAN Injection was significantly more effective than placebo in preventing nausea and vomiting.
+Cyclophosphamide-based Chemotherapy: In a double-blind, placebo-controlled trial of ZOFRAN Injection (three 0.15-mg/kg doses) in 20 patients receiving cyclophosphamide (500 to 600 mg/m2) chemotherapy, ZOFRAN Injection was significantly more effective than placebo in preventing nausea and vomiting.
 The results are summarized in Table 9.
 
 Table 9.
-Therapeutic Response in Prevention of Chemotherapy-induced Nausea and Vomiting in Single-day Cyclophosphamide Therapya in Adults
+Therapeutic Response in Prevention of Chemotherapy-Induced Nausea and Vomiting in Single-day Cyclophosphamide Therapya in Adults
 
-|  | Zofran Injection(0.15 mg/kg x 3) | Placebo | P Valueb |
+|  | ZOFRAN Injection(0.15 mg/kg x 3) | Placebo | P-valueb |
 | --- | --- | --- | --- |
 | Number of patients | 10 | 10 |  |
 | Treatment response |  |  |  |
@@ -107,12 +103,10 @@ d Visual analog scale assessment of nausea: 0 = no nausea, 100 = nausea as bad a
 
 e Visual analog scale assessment of satisfaction: 0 = not at all satisfied, 100 = totally satisfied.
 
-#### Re-treatment:
-
-In uncontrolled trials, 127 patients receiving cisplatin (median dose, 100 mg/m2) and ondansetron who had two or fewer emetic episodes were re-treated with ondansetron and chemotherapy, mainly cisplatin, for a total of 269 re-treatment courses (median: 2; range: 1 to 10).
+Re-treatment: In uncontrolled trials, 127 patients receiving cisplatin (median dose, 100 mg/m2) and ondansetron who had two or fewer emetic episodes were re-treated with ondansetron and chemotherapy, mainly cisplatin, for a total of 269 re-treatment courses (median: 2; range, 1 to 10).
 No emetic episodes occurred in 160 (59%), and two or fewer emetic episodes occurred in 217 (81%) re-treatment courses.
 
-### Pediatrics
+Pediatrics
 
 Four open-label, noncomparative (one US, three foreign) trials have been performed with 209 pediatric cancer patients aged 4 to 18 years given a variety of cisplatin or noncisplatin regimens.
 In the three foreign trials, the initial dose of ZOFRAN Injection ranged from 0.04 to 0.87 mg/kg for a total dose of 2.16 to 12 mg.
@@ -140,19 +134,19 @@ The results of these trials are summarized in Table 10.
 Table 10.
 Therapeutic Response in Prevention of Postoperative Nausea and Vomiting in Adult Patients
 
-|  | Ondansetron 4 mg Intravenous | Placebo | P Value |
+|  | Ondansetron 4 mg Intravenous | Placebo | P-value |
 | --- | --- | --- | --- |
-| Study 1 |  |  |  |
+|  | Study 1 |  |  |
 | Emetic episodes: |  |  |  |
 | Number of patients | 136 | 139 |  |
 | Treatment response over 24-h postoperative period |  |  |  |
-| 0 Emetic episodes | 103 (76%) | 64 (46%) | <0.001 |
+| 0 Emetic episodes | 103 (76%) | 64 (46%) | < 0.001 |
 | 1 Emetic episode | 13 (10%) | 17 (12%) |  |
 | More than 1 emetic episode/rescued | 20 (15%) | 58 (42%) |  |
 | Nausea assessments: |  |  |  |
 | Number of patients | 134 | 136 |  |
 | No nausea over 24-h postoperative period | 56 (42%) | 39 (29%) |  |
-| Study 2 |  |  |  |
+|  | Study 2 |  |  |
 | Emetic episodes: |  |  |  |
 | Number of patients | 136 | 143 |  |
 | Treatment response over 24-h postoperative period |  |  |  |
@@ -165,15 +159,15 @@ Therapeutic Response in Prevention of Postoperative Nausea and Vomiting in Adult
 
 The populations in Table 10 consisted mainly of females undergoing laparoscopic procedures.
 
-In a placebo-controlled trial conducted in 468 males undergoing outpatient procedures, a single 4-mg intravenous ondansetron dose prevented postoperative vomiting over a 24-hour period in 79% of males receiving drug compared with 63% of males receiving placebo (P <0.001).
+In a placebo-controlled trial conducted in 468 males undergoing outpatient procedures, a single 4-mg intravenous ondansetron dose prevented postoperative vomiting over a 24-hour period in 79% of males receiving drug compared with 63% of males receiving placebo (P < 0.001).
 
 Two other placebo-controlled trials were conducted in 2,792 patients undergoing major abdominal or gynecological surgeries to evaluate a single 4-mg or 8-mg intravenous ondansetron dose for prevention of postoperative nausea and vomiting over a 24-hour period.
-At the 4-mg dosage, 59% of patients receiving ondansetron versus 45% receiving placebo in the first trial (P <0.001) and 41% of patients receiving ondansetron versus 30% receiving placebo in the second trial (P = 0.001) experienced no emetic episodes.
+At the 4-mg dosage, 59% of patients receiving ondansetron versus 45% receiving placebo in the first trial (P < 0.001) and 41% of patients receiving ondansetron versus 30% receiving placebo in the second trial (P = 0.001) experienced no emetic episodes.
 No additional benefit was observed in patients who received intravenous ondansetron 8 mg compared with patients who received intravenous ondansetron 4 mg.
 
 ### Pediatrics
 
-Three double-blind, placebo-controlled trials have been performed (one US, two foreign) in 1,049 male and female patients (aged 2 to 12 years) undergoing general anesthesia with nitrous oxide.
+Three double-blind, placebo-controlled trials have been performed (one US, two foreign) in 1049 male and female patients (aged 2 to 12 years) undergoing general anesthesia with nitrous oxide.
 The surgical procedures included tonsillectomy with or without adenoidectomy, strabismus surgery, herniorrhaphy, and orchidopexy.
 Patients were randomized to either single intravenous doses of ondansetron (0.1 mg/kg for pediatric patients weighing 40 kg or less, 4 mg for pediatric patients weighing more than 40 kg) or placebo.
 Study drug was administered over at least 30 seconds, immediately prior to or following anesthesia induction.
@@ -183,7 +177,7 @@ The results of these trials are summarized in Table 11.
 Table 11.
 Therapeutic Response in Prevention of Postoperative Nausea and Vomiting in Pediatric Patients Aged 2 to 12 Years
 
-| Treatment Response Over 24 Hours | Ondansetronn (%) | Placebon (%) | P Value |
+| Treatment Response Over 24 Hours | Ondansetronn (%) | Placebon (%) | P-value |
 | --- | --- | --- | --- |
 | Study 1 |  |  |  |
 | Number of patients | 205 | 210 |  |
@@ -197,7 +191,7 @@ Therapeutic Response in Prevention of Postoperative Nausea and Vomiting in Pedia
 | Number of patients | 206 | 206 |  |
 | 0 Emetic episodes | 123 (60%) | 96 (47%) | ≤0.01 |
 | Failurea | 83 (40%) | 110 (53%) |  |
-| Nausea assessmentsb: |  |  |  |
+| Nausea assessmentsb |  |  |  |
 | Number of patients | 185 | 191 |  |
 | None | 119 (64%) | 99 (52%) | ≤0.01 |
 
@@ -222,9 +216,9 @@ The results of these trials are summarized in Table 12.
 Table 12.
 Therapeutic Response in Prevention of Further Postoperative Nausea and Vomiting in Adult Patients
 
-|  | Ondansetron 4 mg Intravenous | Placebo | P Value |
+|  | Ondansetron 4 mg Intravenous | Placebo | P-value |
 | --- | --- | --- | --- |
-| Study 1 |  |  |  |
+|  | Study 1 |  |  |
 | Emetic episodes: |  |  |  |
 | Number of patients | 104 | 117 |  |
 | Treatment response 24 h after study drug |  |  |  |
@@ -235,7 +229,7 @@ Therapeutic Response in Prevention of Further Postoperative Nausea and Vomiting 
 | Nausea assessments: |  |  |  |
 | Number of patients | 98 | 102 |  |
 | Mean nausea score over 24-h postoperative periodb | 1.7 | 3.1 |  |
-| Study 2 |  |  |  |
+|  | Study 2 |  |  |
 | Emetic episodes: |  |  |  |
 | Number of patients | 112 | 108 |  |
 | Treatment response 24 h after study drug |  |  |  |
@@ -268,7 +262,7 @@ The results of the trial are summarized in Table 13.
 Table 13.
 Therapeutic Response in Prevention of Further Postoperative Nausea and Vomiting in Pediatric Patients Aged 2 to 12 Years
 
-| Treatment Response Over 24 Hours | Ondansetronn (%) | Placebon (%) | P Value |
+| Treatment Response Over 24 Hours | Ondansetronn (%) | Placebon (%) | P-value |
 | --- | --- | --- | --- |
 | Number of patients | 180 | 171 |  |
 | 0 Emetic episodes | 96 (53%) | 29 (17%) | ≤0.001 |

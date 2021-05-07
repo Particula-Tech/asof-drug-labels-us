@@ -1,6 +1,6 @@
 # 1 INDICATIONS AND USAGE
 
-## 1.1 Prevention of Nausea and Vomiting Associated with Initial and Repeat Courses of Emetogenic Cancer Chemotherapy
+## 1.1 Prevention of Nausea and Vomiting Associated With Initial and Repeat Courses of Emetogenic Cancer Chemotherapy
 
 ZOFRAN® Injection is indicated for the prevention of nausea and vomiting associated with initial and repeat courses of emetogenic cancer chemotherapy, including high-dose cisplatin.
 

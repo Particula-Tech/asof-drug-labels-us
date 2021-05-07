@@ -4,7 +4,7 @@ The active ingredient of ZOFRAN Injection is ondansetron hydrochloride, a select
 Its chemical name is (±) 1, 2, 3, 9-tetrahydro-9-methyl-3-[(2-methyl-1H-imidazol-1-yl)methyl]-4H-carbazol-4-one, monohydrochloride, dihydrate.
 It has the following structural formula:
 
-The empirical formula is C18H19N3O•HCl•2H2O, representing a molecular weight of 365.9.
+The empirical formula is C18H19N3O•HCl•2H2O, representing a molecular weight of 365.9 g/mol.
 
 Ondansetron HCl is a white to off-white powder that is soluble in water and normal saline.
 

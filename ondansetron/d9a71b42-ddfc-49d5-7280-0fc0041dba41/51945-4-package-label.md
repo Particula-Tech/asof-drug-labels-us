@@ -25,5 +25,5 @@ Made in Singapore
 
 ©2014, GSK group of companies.
 
-1. 10000000124651 Rev.
-   3/14
+- 10000000124651 Rev.
+  3/14
