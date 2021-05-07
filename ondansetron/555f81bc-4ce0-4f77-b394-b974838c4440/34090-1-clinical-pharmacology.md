@@ -66,7 +66,7 @@ These higher plasma concentrations may in part be explained by differences in bo
 It is not known whether these sex-related differences were clinically important.
 More detailed pharmacokinetic information is contained in Tables 5 and 6.
 
-Table 5: Pharmacokinetics in Male and Female Healthy Subjects after a Single Dose of a ZOFRAN 8-mg Tablet
+Table 5: Pharmacokinetics in Male and Female Healthy Subjects After a Single Dose of a ZOFRAN 8-mg Tablet
 
 | Age-group(years) Sex (M/F) | MeanWeight(kg) | N | Peak PlasmaConcentration(ng/mL) | Time ofPeak PlasmaConcentration(h) | MeanEliminationHalf-life(h) | SystemicPlasmaClearanceL/h/kg | AbsoluteBioavailability |
 | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -74,10 +74,10 @@ Table 5: Pharmacokinetics in Male and Female Healthy Subjects after a Single Dos
 | F | 62.7 | 5 | 42.7 | 1.7 | 3.5 | 0.354 | 0.663 |
 | 61-74 M | 77.5 | 6 | 24.1 | 2.1 | 4.1 | 0.384 | 0.585 |
 | F | 60.2 | 6 | 52.4 | 1.9 | 4.9 | 0.255 | 0.643 |
-| ≥75 M | 78.0 | 5 | 37.0 | 2.2 | 4.5 | 0.277 | 0.619 |
+| ≥ 75 M | 78.0 | 5 | 37.0 | 2.2 | 4.5 | 0.277 | 0.619 |
 | F | 67.6 | 6 | 46.1 | 2.1 | 6.2 | 0.249 | 0.747 |
 
-Table 6: Pharmacokinetics in Male and Female Healthy Subjects after a Single Dose of a ZOFRAN 24-mg Tablet
+Table 6: Pharmacokinetics in Male and Female Healthy Subjects After a Single Dose of a ZOFRAN 24-mg Tablet
 
 | Age-group(years)Sex (M/F) | MeanWeight(kg) | N | Peak PlasmaConcentration(ng/mL) | Time ofPeak PlasmaConcentration(h) | MeanEliminationHalf-life(h) |
 | --- | --- | --- | --- | --- | --- |

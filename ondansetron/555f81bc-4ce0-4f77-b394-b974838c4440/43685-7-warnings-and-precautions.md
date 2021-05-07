@@ -7,7 +7,7 @@ If hypersensitivity reactions occur, discontinue use of ZOFRAN; treat promptly p
 
 ## 5.2 QT Prolongation
 
-Electrocardiogram (ECG) changes including QT interval prolongation have been seen in patients receiving ondansetron.
+Electrocardiogram (ECG) changes, including QT interval prolongation have been seen in patients receiving ondansetron.
 In addition, postmarketing cases of Torsade de Pointes have been reported in patients using ZOFRAN.
 Avoid ZOFRAN in patients with congenital long QT syndrome.
 ECG monitoring is recommended in patients with electrolyte abnormalities (e.g., hypokalemia or hypomagnesemia), congestive heart failure, bradyarrhythmias, or patients taking other medicinal products that lead to QT prolongation [see Clinical Pharmacology (12.2)].

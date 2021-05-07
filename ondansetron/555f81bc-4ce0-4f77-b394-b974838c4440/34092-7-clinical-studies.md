@@ -22,24 +22,21 @@ Moderately Emetogenic Chemotherapy
 
 A randomized, placebo-controlled, double-blind trial was conducted in the US in 67 patients receiving a cyclophosphamide-based chemotherapy regimen containing doxorubicin.
 The first 8-mg dose of ZOFRAN was administered 30 minutes before the start of chemotherapy, with a subsequent dose 8 hours after the first dose, followed by 8 mg of ZOFRAN twice a day for 2 days after the completion of chemotherapy.
-
 ZOFRAN was significantly more effective than placebo in preventing vomiting.
 Treatment response was based on the total number of emetic episodes over the 3-day trial period.
 The results of this trial are summarized in Table 7.
 
 Table 7: Emetic Episodes - Treatment Response in Patients Receiving Moderately Emetogenic Chemotherapy (Cyclophosphamide-based Regimen Containing Doxorubicin)
 
-|  | ZOFRAN(n = 33) | Placebo(n = 34) | P Value |
+|  | ZOFRAN(n = 33) | Placebo(n = 34) | P-value |
 | --- | --- | --- | --- |
 | Treatment response |  |  |  |
-| 0 Emetic episodes | 20 (61%) | 2 (6%) | <0.001 |
+| 0 Emetic episodes | 20 (61%) | 2 (6%) | < 0.001 |
 | 1 to 2 Emetic episodes | 6 (18%) | 8 (24%) |  |
-| More than 2 emetic episodes/withdrawn | 7 (21%) | 24 (71%) | <0.001 |
+| More than 2 emetic episodes/withdrawn | 7 (21%) | 24 (71%) | < 0.001 |
 | Median number ofemetic episodes | 0.0 | Undefineda |  |
 | Median time to firstemetic episode (hours) | Undefinedb | 6.5 |  |
-
-- aMedian undefined since at least 50% of the patients were withdrawn or had more than 2 emetic episodes.
-- bMedian undefined since at least 50% of patients did not have any emetic episodes.
+| aMedian undefined since at least 50% of the patients were withdrawn or had more than 2 emetic episodes. bMedian undefined since at least 50% of patients did not have any emetic episodes. |  |  |  |
 
 In a double-blind, US trial in 336 patients receiving a cyclophosphamide-based chemotherapy regimen containing either methotrexate or doxorubicin, ZOFRAN 8 mg administered twice a day, was as effective as ZOFRAN 8 mg administered 3 times a day in preventing nausea and vomiting.
 ZOFRAN 8 mg three times daily is not a recommended regimen for the treatment of moderately emetogenic chemotherapy [see Dosage and Administration (2.1)].
@@ -47,7 +44,7 @@ ZOFRAN 8 mg three times daily is not a recommended regimen for the treatment of 
 Treatment response was based on the total number of emetic episodes over the 3-day trial period.
 See Table 8 for the details of the dosage regimens studied and results of this trial.
 
-Table 8: Emetic Episodes - Treatment Response after ZOFRAN Tablets Administered Twice a Day and Three Times a Day
+Table 8: Emetic Episodes - Treatment Response After ZOFRAN Tablets Administered Twice a Day and Three Times a Day
 
 |  | ZOFRAN Tablets |  |
 | --- | --- | --- |
@@ -59,11 +56,7 @@ Table 8: Emetic Episodes - Treatment Response after ZOFRAN Tablets Administered 
 | Median number of emetic episodes | 0.0 | 0.0 |
 | Median time to first emetic episode (h) | Undefinedc | Undefinedc |
 | Median nausea scores (0-100)d | 6 | 6 |
-
-- aThe first 8-mg dose was administered 30 minutes before the start of emetogenic chemotherapy, with a subsequent 8-mg dose 8 hours after the first dose, followed by 8 mg administered twice a day for 2 days after the completion of chemotherapy.
-- bThe first 8-mg dose was administered 30 minutes before the start of emetogenic chemotherapy, with subsequent 8-mg doses at 4 hours and 8 hours after the first dose, followed by 8 mg administered 3 times a day for 2 days after the completion of chemotherapy.
-- cMedian undefined since at least 50% of patients did not have any emetic episodes.
-- dVisual analog scale assessment: 0 = no nausea, 100 = nausea as bad as it can be.
+| aThe first 8-mg dose was administered 30 minutes before the start of emetogenic chemotherapy, with a subsequent 8-mg dose 8 hours after the first dose, followed by 8 mg administered twice a day for 2 days after the completion of chemotherapy. bThe first 8-mg dose was administered 30 minutes before the start of emetogenic chemotherapy, with subsequent 8-mg doses at 4 hours and 8 hours after the first dose, followed by 8 mg administered 3 times a day for 2 days after the completion of chemotherapy. cMedian undefined since at least 50% of patients did not have any emetic episodes. dVisual analog scale assessment: 0 = no nausea, 100 = nausea as bad as it can be. |  |  |
 
 Re-treatment
 
