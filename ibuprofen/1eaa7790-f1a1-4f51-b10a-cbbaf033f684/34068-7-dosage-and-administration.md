@@ -63,6 +63,6 @@ Pediatric Dosing as Necessary for Fever and Pain
 
 | Age Group | Dose | Dosing Interval | Min infusion time | Max daily dose |
 | --- | --- | --- | --- | --- |
-| 6 months to less than 12 years | 10 mg/kg up to 400 mg max | Every 4 to 6 hours as necessary | 10 minutes | *40 mg/Kg or 2,400 mg |
+| 6 months to less than 12 years | 10 mg/kg up to 400 mg max | Every 4 to 6 hours as necessary | 10 minutes | *40 mg/kg or 2,400 mg |
 | 12 to 17 years | 400 mg | Every 4 to 6 hours as necessary | 10 minutes | 2,400 mg |
 | * Maximum daily dose is 40 mg/kg or 2,400 mg, whichever is less |  |  |  |  |
