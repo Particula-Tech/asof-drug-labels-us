@@ -56,7 +56,7 @@ Oxycodone hydrochloride tablets are designed to provide immediate release of oxy
 | Oxycodone Hydrochloride Tablets15 mg tab | 128.2±35.1 | 22.2±7.6 | 1.4±0.7 | n/a | n/a | 3.55±1.0 |
 | Oxycodone Hydrochloride Oral Concentrate Solution15 mg oral solution | 130.6±34.7 | 21.1±6.1 | 1.9±1.5 | n/a | n/a | 3.71±0.8 |
 | Oxycodone Hydrochloride Tablets30 mg tab | 268.2±60.7 | 39.3±14.0 | 2.6±3.0 | n/a | n/a | 3.85±1.3 |
-| Food-Effect, Single Dose |  |  |  |  |  |  |
+| Food Effect, Single Dose |  |  |  |  |  |  |
 | Oxycodone Hydrochloride Oral Solution USP10 mg/10 mL oral sol’n (fasted) | 105±6.2 | 19.0±3.7 | 1.25±0.5 | n/a | n/a | 2.9±0.4 |
 | Oxycodone Hydrochloride Oral Solution USP10 mg/10 mL oral sol’n (fed) | 133±25.2 | 17.7±3.0 | 2.54±1.2 | n/a | n/a | 3.3±0.5 |
 | Multiple-Dose Studies | AUC(72-84) |  |  |  |  |  |
