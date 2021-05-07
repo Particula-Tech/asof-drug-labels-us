@@ -10,7 +10,7 @@ The following adverse reactions are discussed in greater detail in other section
 - Renal Toxicity and Hyperkalemia [see Warnings and Precautions (5.6)]
 - Anaphylactic Reactions [see Warnings and Precautions (5.7)]
 - Serious Skin Reactions [see Warnings and Precautions (5.9)]
-- Hematologic Toxicity [see Warnings and Precautions (5.11)]
+- Hematologic Toxicity [see Warnings and Precautions (5.12)]
 
 ## 6.1 Clinical Trials Experience
 
@@ -106,7 +106,7 @@ Liver and biliary: Cholelithiasis
 
 Hemic and lymphatic: Thrombocytopenia
 
-Nervous: Ataxia, suicide [see Drug Interactions (7.1)]
+Nervous: Ataxia, suicide [see Drug Interactions (7)]
 
 Renal: Acute renal failure
 
@@ -121,7 +121,7 @@ Rates for serious adverse events (i.e., causing hospitalization or felt to be li
 Juvenile Rheumatoid Arthritis Study
 
 In a 12-week, double-blind, active-controlled study, 242 JRA patients 2 years to 17 years of age were treated with celecoxib or naproxen; 77 JRA patients were treated with celecoxib 3 mg/kg twice daily, 82 patients were treated with celecoxib 6 mg/kg twice daily, and 83 patients were treated with naproxen 7.5 mg/kg twice daily.
-The most commonly occurring (≥5%) adverse events in celecoxib treated patients were headache, fever (pyrexia), upper abdominal pain, cough, nasopharyngitis, abdominal pain, nausea, arthralgia, diarrhea and vomiting.
+The most commonly occurring (≥5%) adverse events in celecoxib treated patients were headache, fever (pyrexia), upper abdominal pain, cough, nasopharyngitis, abdominal pain, nausea, arthralgia, diarrhea, and vomiting.
 The most commonly occurring (≥5%) adverse experiences for naproxen-treated patients were headache, nausea, vomiting, fever, upper abdominal pain, diarrhea, cough, abdominal pain, and dizziness (Table 2).
 Compared with naproxen, celecoxib at doses of 3 and 6 mg/kg twice daily had no observable deleterious effect on growth and development during the course of the 12-week double-blind study.
 There was no substantial difference in the number of clinical exacerbations of uveitis or systemic features of JRA among treatment groups.
@@ -171,7 +171,7 @@ The only additional adverse event reported was post-dental extraction alveolar o
 
 The APC and PreSAP Trials
 
-Adverse reactions from long-term, placebo-controlled polyp prevention studies: Exposure to CELEBREX in the APC and PreSAP trials was 400 mg to 800 mg daily for up to 3 years [see Special Studies Adenomatous Polyp Prevention Studies (14.7)].
+Adverse reactions from long-term, placebo-controlled polyp prevention studies: Exposure to CELEBREX in the APC and PreSAP trials was 400 mg to 800 mg daily for up to 3 years [see Clinical Studies (14.7)].
 
 Some adverse reactions occurred in higher percentages of patients than in the arthritis pre-marketing trials (treatment durations up to 12 weeks; see Adverse events from CELEBREX pre-marketing controlled arthritis trials, above).
 The adverse reactions for which these differences in patients treated with CELEBREX were greater as compared to the arthritis pre-marketing trials were as follows:

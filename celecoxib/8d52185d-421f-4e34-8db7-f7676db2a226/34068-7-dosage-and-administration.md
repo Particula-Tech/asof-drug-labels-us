@@ -41,7 +41,7 @@ On subsequent days, the recommended dose is 200 mg twice daily as needed.
 Hepatic Impairment
 
 In patients with moderate hepatic impairment (Child-Pugh Class B), reduce the dose by 50%.
-The use of CELEBREX in patients with severe hepatic impairment is not recommended [see Warnings and Precautions (5.5), Use in Specific Populations (8.6), and Clinical Pharmacology (12.3)].
+The use of CELEBREX in patients with severe hepatic impairment is not recommended [see Warnings and Precautions (5.3), Use in Specific Populations (8.6), and Clinical Pharmacology (12.3)].
 
 Poor Metabolizers of CYP2C9 Substrates
 

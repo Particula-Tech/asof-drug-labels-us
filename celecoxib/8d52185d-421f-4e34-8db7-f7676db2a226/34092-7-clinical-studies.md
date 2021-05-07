@@ -27,7 +27,7 @@ The response rates were based upon the JRA Definition of Improvement greater tha
 The JRA DOI 30 response rates at week 12 were 69%, 80% and 67% in the celecoxib 3 mg/kg twice daily, celecoxib 6 mg/kg twice daily, and naproxen 7.5 mg/kg twice daily treatment groups, respectively.
 
 The efficacy and safety of CELEBREX for JRA have not been studied beyond six months.
-The long-term cardiovascular toxicity in children exposed to CELEBREX has not been evaluated and it is unknown if the long-term risk may be similar to that seen in adults exposed to CELEBREX or other COX-2 selective and non-selective NSAIDs [see Boxed Warning, Warnings and Precautions (5.12)].
+The long-term cardiovascular toxicity in children exposed to CELEBREX has not been evaluated and it is unknown if the long-term risk may be similar to that seen in adults exposed to CELEBREX or other COX-2 selective and non-selective NSAIDs [see Boxed Warning, Warnings and Precautions (5.1, 5.15)].
 
 ## 14.4 Ankylosing Spondylitis
 
@@ -119,7 +119,7 @@ These changes resulted in a statistically significant and clinically meaningful 
 
 Adenomatous Polyp Prevention Studies (NCT00005094 and NCT00141193)
 
-Cardiovascular safety was evaluated in two randomized, double-blind, placebo-controlled, three year studies involving patients with Sporadic Adenomatous Polyps treated with CELEBREX: the APC trial (Adenoma Prevention with Celecoxib) and the PreSAP trial (Prevention of Spontaneous Adenomatous Polyps).
+Cardiovascular safety was evaluated in two randomized, double-blind, placebo-controlled, three-year studies involving patients with Sporadic Adenomatous Polyps treated with CELEBREX: the APC trial (Adenoma Prevention with Celecoxib) and the PreSAP trial (Prevention of Spontaneous Adenomatous Polyps).
 In the APC trial, there was a dose-related increase in the composite endpoint (adjudicated) of cardiovascular death, myocardial infarction, or stroke with celecoxib compared to placebo over 3 years of treatment.
 The PreSAP trial did not demonstrate a statistically significant increased risk for the same composite endpoint (adjudicated):
 
@@ -137,7 +137,7 @@ Celecoxib Long-Term Arthritis Safety Study (CLASS)
 This was a prospective, long-term, safety outcome study conducted post-marketing in approximately 5,800 OA patients and 2,200 RA patients.
 Patients received CELEBREX 400 mg twice daily (4-fold and 2-fold the recommended OA and RA doses, respectively), ibuprofen 800 mg three times daily or diclofenac 75 mg twice daily (common therapeutic doses).
 Median exposures for CELEBREX (n = 3,987) and diclofenac (n = 1,996) were 9 months while ibuprofen (n = 1,985) was 6 months.
-The primary endpoint of this outcome study was the incidence of complicated ulcers (gastrointestinal bleeding, perforation or obstruction).
+The primary endpoint of this outcome study was the incidence of complicated ulcers (gastrointestinal bleeding, perforation, or obstruction).
 Patients were allowed to take concomitant low-dose (≤ 325 mg/day) aspirin (ASA) for cardiovascular prophylaxis (ASA subgroups: CELEBREX, n = 882; diclofenac, n = 445; ibuprofen, n = 412).
 Differences in the incidence of complicated ulcers between CELEBREX and the combined group of ibuprofen and diclofenac were not statistically significant.
 
@@ -162,7 +162,7 @@ Table 7: Complicated and Symptomatic Ulcer Rates in Patients Taking CELEBREX 400
 | CELEBREX with ASA (n=479) | 3.06 |
 
 In a small number of patients with a history of ulcer disease, the complicated and symptomatic ulcer rates in patients taking CELEBREX alone or CELEBREX with ASA were, respectively, 2.56% (n=243) and 6.85% (n=91) at 48 weeks.
-These results are to be expected in patients with a prior history of ulcer disease [see Warnings and Precautions (5.4) and Adverse Reactions (6.1)].
+These results are to be expected in patients with a prior history of ulcer disease [see Warnings and Precautions (5.2) and Adverse Reactions (6.1)].
 
 Cardiovascular safety outcomes were also evaluated in the CLASS trial.
 Kaplan-Meier cumulative rates for investigator-reported serious cardiovascular thromboembolic adverse events (including MI, pulmonary embolism, deep venous thrombosis, unstable angina, transient ischemic attacks, and ischemic cerebrovascular accidents) demonstrated no differences between the CELEBREX, diclofenac, or ibuprofen treatment groups.
@@ -176,7 +176,7 @@ The rates of hypertension from the CLASS trial in the CELEBREX, ibuprofen and di
 Endoscopic Studies
 
 The correlation between findings of short-term endoscopic studies with CELEBREX and the relative incidence of clinically significant serious upper GI events with long-term use has not been established.
-Serious clinically significant upper GI bleeding has been observed in patients receiving CELEBREX in controlled and open-labeled trials [see Warnings and Precautions (5.4) and Clinical Studies (14.7)]
+Serious clinically significant upper GI bleeding has been observed in patients receiving CELEBREX in controlled and open-labeled trials [see Warnings and Precautions (5.2) and Clinical Studies (14.7)].
 
 A randomized, double-blind study in 430 RA patients was conducted in which an endoscopic examination was performed at 6 months.
 The incidence of endoscopic ulcers in patients taking CELEBREX 200 mg twice daily was 4% vs. 15% for patients taking diclofenac SR 75 mg twice daily.
