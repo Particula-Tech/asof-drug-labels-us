@@ -8,7 +8,7 @@ Cases of dysphagia and esophageal tablet retention have been reported in associa
 Consider using sevelamer suspension in patients with a history of swallowing disorders.
 
 Cases of bowel obstruction, bleeding gastrointestinal ulcers, colitis, ulceration, necrosis, and perforation have also been reported with sevelamer use [see Adverse Reactions (6.2)].
-Inflammatory disorders may resolve upon Revela discontinuation.
+Inflammatory disorders may resolve upon Renvela discontinuation.
 Treatment with Renvela should be re-evaluated in patients who develop severe gastrointestinal symptoms.
 
 ## 5.2 Reductions in Vitamins D, E, K (clotting factors) and Folic Acid Levels
