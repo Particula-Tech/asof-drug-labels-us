@@ -1,0 +1,26 @@
+{
+  "application_numbers": [
+    "ANDA209743"
+  ],
+  "inn": "pregabalin",
+  "labeler": "Amneal Pharmaceuticals NY LLC",
+  "package_ndcs": [
+    "60219-1310-9",
+    "60219-1311-9",
+    "60219-1312-9",
+    "60219-1313-9",
+    "60219-1314-9",
+    "60219-1315-9",
+    "60219-1316-9",
+    "60219-1317-9"
+  ],
+  "products": [
+    {
+      "form": "CAPSULE",
+      "generic": "pregabalin",
+      "name": "Pregabalin"
+    }
+  ],
+  "setid": "3099759f-cb24-40e8-b482-9388c38c73b9",
+  "source": "dailymed"
+}
