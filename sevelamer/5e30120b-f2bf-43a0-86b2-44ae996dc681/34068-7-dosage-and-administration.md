@@ -1,7 +1,7 @@
 # 2 DOSAGE AND ADMINISTRATION
 
 Patients Not Taking a Phosphate Binder.
-The recommended starting dose of Renagel is 800 to 1600 mg, which can be administered as one or two 800 mg Renagel Tablets with meals based on serum phosphorus level.
+The recommended starting dose of Renagel is 800 to 1600 mg, which can be administered as one or two 800 mg Renagel tablets with meals based on serum phosphorus level.
 Table 1 provides recommended starting doses of Renagel for patients not taking a phosphate binder.
 
 Table 1: Starting Dose for Dialysis Patients Not Taking a Phosphate Binder
