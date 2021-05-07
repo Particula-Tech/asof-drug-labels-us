@@ -112,4 +112,4 @@ This Instructions for Use has been approved by the U.S. Food and Drug Administra
 
 Distributed by: Zyla Life Sciences US Inc. Wayne, PA 19087
 
-LBL # 102.03 Revised: 09/2019
+LBL # 102.04 Revised: 04/2021
