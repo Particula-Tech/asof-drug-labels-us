@@ -10,6 +10,7 @@ The following serious adverse reactions are described elsewhere in the prescribi
 - Peripheral Neuropathy [see Warnings and Precautions (5.8)]
 - Increased Blood Pressure [see Warnings and Precautions (5.9)]
 - Respiratory Effects [see Warnings and Precautions (5.10)]
+- Pancreatitis in Pediatric Patients [see Warnings and Precautions (5.11)]
 
 ## 6.1 Clinical Trials Experience
 
@@ -59,13 +60,9 @@ No patient in any treatment group had a serum phosphorus below 0.3 mmol/L.
 The following adverse reactions have been identified during postapproval use of AUBAGIO.
 Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
 
-- Drug-induced liver injury (DILI) [see Warnings and Precautions (5.1)]
-- Hypersensitivity reactions, some of which were severe, such as anaphylaxis and angioedema [see Warnings and Precautions (5.5)]
-- Severe skin reactions, including toxic epidermal necrolysis and Stevens-Johnson syndrome [see Warnings and Precautions (5.6)]
-- Drug reaction with eosinophilia and systemic symptoms (DRESS) [see Warnings and Precautions (5.7)]
-- Psoriasis or worsening of psoriasis (including pustular psoriasis and nail psoriasis)
-- Nail disorders
-- Colitis
-- Thrombocytopenia [see Warnings and Precautions (5.4)]
-- Interstitial lung disease [see Warnings and Precautions (5.10)]
-- Pancreatitis
+- Blood and Lymphatic System Disorders: Thrombocytopenia [see Warnings and Precautions (5.4)]
+- Gastrointestinal Disorders: Pancreatitis, colitis
+- Hepatobiliary Disorders: Drug-induced liver injury (DILI) [see Warnings and Precautions (5.1)]
+- Immune System Disorders: Hypersensitivity reactions, some of which were severe, such as anaphylaxis and angioedema [see Warnings and Precautions (5.5)]
+- Respiratory, Thoracic, and Mediastinal Disorders: Interstitial lung disease [see Warnings and Precautions (5.10)]
+- Skin and Subcutaneous Tissue Disorders: Severe skin reactions, including toxic epidermal necrolysis and Stevens-Johnson syndrome [see Warnings and Precautions (5.6)]; drug reaction with eosinophilia and systemic symptoms (DRESS) [see Warnings and Precautions (5.7)]; psoriasis or worsening of psoriasis (including pustular psoriasis and nail psoriasis); nail disorders

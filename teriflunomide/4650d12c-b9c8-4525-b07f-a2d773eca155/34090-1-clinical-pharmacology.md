@@ -9,14 +9,14 @@ The exact mechanism by which teriflunomide exerts its therapeutic effect in mult
 
 Potential to Prolong the QT Interval
 
-In a placebo-controlled thorough QT study performed in healthy subjects, there was no evidence that teriflunomide caused QT interval prolongation of clinical significance (i.e., the upper bound of the 90% confidence interval for the largest placebo-adjusted, baseline-corrected QTc was below 10 ms).
+In a placebo-controlled thorough QT study performed in healthy adult subjects, there was no evidence that teriflunomide caused QT interval prolongation of clinical significance (i.e., the upper bound of the 90% confidence interval for the largest placebo-adjusted, baseline-corrected QTc was below 10 ms).
 
 ## 12.3 Pharmacokinetics
 
 Teriflunomide is the principal active metabolite of leflunomide and is responsible for leflunomide's activity in vivo.
 At recommended doses, teriflunomide and leflunomide result in a similar range of plasma concentrations of teriflunomide.
 
-Based on a population analysis of teriflunomide in healthy volunteers and MS patients, median t1/2 was approximately 18 and 19 days after repeated doses of 7 mg and 14 mg respectively.
+Based on a population analysis of teriflunomide in healthy adult volunteers and adult MS patients, median t1/2 was approximately 18 and 19 days after repeated doses of 7 mg and 14 mg respectively.
 It takes approximately 3 months respectively to reach steady-state concentrations.
 The estimated AUC accumulation ratio is approximately 30 after repeated doses of 7 or 14 mg.
 

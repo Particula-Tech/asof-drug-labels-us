@@ -49,6 +49,7 @@ Maternal plasma exposure at the no-effect dose for prenatal and postnatal develo
 In animal reproduction studies of leflunomide, embryolethality and teratogenic effects were observed in pregnant rat and rabbit at or below clinically relevant plasma teriflunomide exposures (AUC).
 In published reproduction studies in pregnant mice, leflunomide was embryolethal and increased the incidence of malformations (craniofacial, axial skeletal, heart and great vessel).
 Supplementation with exogenous uridine reduced the teratogenic effects in pregnant mice, suggesting that the mode of action (inhibition of mitochondrial enzyme dihydroorotate dehydrogenase) is the same for therapeutic efficacy and developmental toxicity.
+
 At recommended doses in humans, teriflunomide and leflunomide result in a similar range of plasma concentrations of teriflunomide.
 
 ## 8.2 Lactation
@@ -87,6 +88,18 @@ Men wishing to father a child should discontinue use of AUBAGIO and either under
 ## 8.4 Pediatric Use
 
 Safety and effectiveness in pediatric patients have not been established.
+Effectiveness of AUBAGIO for the treatment of relapsing form of multiple sclerosis in pediatric patients (10 to 17 years of age) was not established in an adequate and well-controlled clinical study in 166 patients (109 patients received once-daily doses of AUBAGIO and 57 patients received placebo) for up to 96 weeks.
+
+Pancreatitis has been reported in adults in the postmarketing setting, but appears to occur at higher frequency in the pediatric population.
+In this pediatric study, cases of pancreatitis were reported in 1.8% (2/109) of patients who received AUBAGIO compared to no patients in the placebo group.
+All patients in the pediatric trial recovered or were recovering after treatment discontinuation and accelerated elimination procedure [see Warnings and Precautions (5.11)].
+
+Additionally, elevated or abnormal blood creatine phosphokinase was reported in 6.4% of pediatric patients who received AUBAGIO compared to no patients in the placebo group.
+
+Juvenile Animal Toxicity Data
+
+Oral administration of teriflunomide (0, 0.3, 3, or 6 mg/kg/day) to young rats on postnatal days 21 to 70 resulted in suppression of immune function (T-cell dependent antibody response) at the mid and high doses, and adverse effects on male reproductive organs (reduced sperm count) and altered neurobehavioral function (increased locomotor activity) at the high dose.
+At the no-effect dose (0.3 mg/kg/day) for developmental toxicity in juvenile rats, plasma exposures were less than those in pediatric patients at the doses of AUBAGIO tested in the clinical study.
 
 ## 8.5 Geriatric Use
 
