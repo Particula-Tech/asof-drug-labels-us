@@ -17,7 +17,7 @@ Clinical Considerations
 
 Fetal/Neonatal Adverse Reactions
 
-Prolonged use of opioid analgesics during pregnancy for medical or nonmedical purposes can result in physical dependence in the neonate and neonatal opioid withdrawal syndrome shortly after birth.
+Prolonged use of opioid analgesics during pregnancy for medical or non-medical purposes can result in physical dependence in the neonate and neonatal opioid withdrawal syndrome shortly after birth.
 
 Neonatal opioid withdrawal syndrome presents irritability, hyperactivity, and abnormal sleep pattern, high pitched cry, tremor, vomiting, diarrhea, and failure to gain weight.
 The onset, duration, and severity of neonatal opioid withdrawal syndrome vary based on the specific opioid use, duration of use, timing and amount of last maternal use, and rate of elimination of the drug by the newborn.
@@ -39,7 +39,7 @@ Animal Data
 In embryo-fetal development studies in rats and rabbits, pregnant animals received oral doses of oxycodone HCl administered during the period of organogenesis up to 16 mg/kg/day and up to 25 mg/kg/day, respectively.
 These studies revealed no evidence of teratogenicity or embryo-fetal toxicity due to oxycodone.
 The highest doses tested in rats and rabbits were equivalent to approximately 2.6 and 8.1 times an adult human dose of 60 mg/day, respectively, on a mg/m2 basis.
-In published studies, offspring of pregnant rats administered oxycodone during gestation have been reported to exhibit neurobehavioral effects including altered stress responses, increased anxiety-like behavior (2 mg/kg/day IV from Gestation Day 8 to 21 and Postnatal Day 1, 3, and 5; 0.3-times an adult human dose of 60 mg/day, on a mg/m2 basis) and altered learning and memory (15 mg/kg/day orally from breeding through parturition; 2.4 times an adult human dose of 60 mg/day, on a mg/m2 basis).
+In published studies, offspring of pregnant rats administered oxycodone during gestation have been reported to exhibit neurobehavioral effects including altered stress responses, increased anxiety-like behavior (2 mg/kg/day IV from Gestation Day 8 to 21 and Postnatal Day 1, 3, and 5; 0.3 times an adult human dose of 60 mg/day, on a mg/m2 basis) and altered learning and memory (15 mg/kg/day orally from breeding through parturition; 2.4 times an adult human dose of 60 mg/day, on a mg/m2 basis).
 
 ## 8.2 Lactation
 
@@ -55,7 +55,7 @@ The developmental and health benefits of breastfeeding should be considered alon
 Clinical Considerations
 
 Infants exposed to oxycodone HCl through breast milk should be monitored for excess sedation and respiratory depression.
-Withdrawal symptoms can occur in breastfed infants when maternal administration of an opioid analgesic is stopped or when breast-feeding is stopped.
+Withdrawal symptoms can occur in breastfed infants when maternal administration of an opioid analgesic is stopped or when breastfeeding is stopped.
 
 ## 8.3 Females and Males of Reproductive Potential
 
