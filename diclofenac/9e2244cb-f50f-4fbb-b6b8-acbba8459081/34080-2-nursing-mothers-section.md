@@ -3,7 +3,7 @@
 Risk Summary
 
 Based on available data, diclofenac may be present in human milk.
-The developmental and health benefits of breastfeeding should be considered along with the mother’s clinical need for VOLTAREN XR and any potential adverse effects on the breastfed infant from the VOLTAREN XR or from the underlying maternal condition.
+The developmental and health benefits of breastfeeding should be considered along with the mother’s clinical need for VOLTAREN-XR and any potential adverse effects on the breastfed infant from the VOLTAREN-XR or from the underlying maternal condition.
 
 Data
 

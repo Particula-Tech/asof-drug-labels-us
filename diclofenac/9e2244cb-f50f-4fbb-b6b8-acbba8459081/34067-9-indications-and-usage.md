@@ -5,5 +5,5 @@ Use the lowest effective dose for the shortest duration consistent with individu
 
 VOLTAREN-XR is indicated:
 
-- For relief of the signs and symptoms of osteoarthritis
-- For relief of the signs and symptoms of rheumatoid arthritis
+- for relief of the signs and symptoms of osteoarthritis
+- for relief of the signs and symptoms of rheumatoid arthritis

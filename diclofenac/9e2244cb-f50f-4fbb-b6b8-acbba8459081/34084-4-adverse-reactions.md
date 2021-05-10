@@ -2,7 +2,7 @@
 
 The following adverse reactions are discussed in greater detail in other sections of the labeling:
 
-- Cardiovascular Thrombotic Events [see WARNINGS)
+- Cardiovascular Thrombotic Events (see WARNINGS)
 - GI Bleeding, Ulceration and Perforation (see WARNINGS)
 - Hepatotoxicity (see WARNINGS)
 - Hypertension (see WARNINGS)
@@ -16,11 +16,11 @@ Clinical Trials Experience
 
 Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in practice.
 
-In patients taking VOLTAREN®-XR (diclofenac sodium extended-release) tablets, USP or other NSAIDs, the most frequently reported adverse experiences occurring in approximately 1%-10% of patients are:
+In patients taking VOLTAREN®-XR (diclofenac sodium extended-release) tablets, USP or other NSAIDs, the most frequently reported adverse experiences occurring in approximately 1% to 10% of patients are:
 
-Gastrointestinal experiences including: abdominal pain, constipation, diarrhea, dyspepsia, flatulence, gross bleeding/perforation, heartburn, nausea, GI ulcers (gastric/duodenal) and vomiting.
+Gastrointestinal experiences including: abdominal pain, constipation, diarrhea, dyspepsia, flatulence, gross bleeding/perforation, heartburn, nausea, GI ulcers (gastric/duodenal), and vomiting.
 
-Abnormal renal function, anemia, dizziness, edema, elevated liver enzymes, headaches, increased bleeding time, pruritus, rashes and tinnitus.
+Abnormal renal function, anemia, dizziness, edema, elevated liver enzymes, headaches, increased bleeding time, pruritus, rashes, and tinnitus.
 
 Additional adverse experiences reported occasionally include:
 
