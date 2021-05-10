@@ -34,6 +34,7 @@
 | If you would like more information about NSAIDs, talk with your healthcare provider. You can ask your pharmacist or healthcare provider for information about NSAIDs that is written for health professionals. |  |
 | Active ingredients: diclofenac sodium, misoprostol. |  |
 | Inactive ingredients: colloidal silicon dioxide, crospovidone, hydrogenated castor oil, hypromellose, lactose, magnesium stearate, methacrylic acid copolymer, microcrystalline cellulose, povidone (polyvidone) K-30, sodium hydroxide, starch (corn), talc, triethyl citrate. |  |
+| This product's labeling may have been updated. For the most recent prescribing information, please visit www.pfizer.com. |  |
 | For more information, go to www.pfizer.com or call 1-800-438-1985. |  |
-| LAB: 0793-5.0 |  |
-| This Medication Guide has been approved by the U.S. Food and Drug Administration. | Revised: December 2020 |
+| LAB: 0793-6.0 |  |
+| This Medication Guide has been approved by the U.S. Food and Drug Administration. | Revised: April 2021 |

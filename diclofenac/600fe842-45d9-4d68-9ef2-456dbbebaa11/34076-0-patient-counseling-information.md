@@ -5,15 +5,12 @@ Inform patients, families, or their caregivers of the following information befo
 
 Embryo-Fetal Toxicity
 
-- Advise females that use of ARTHROTEC during pregnancy can result in maternal and fetal harm, including abortion, premature birth, birth defects and uterine rupture [see Use in Specific Populations (8.1)].
+- Advise females that ARTHROTEC is contraindicated in pregnant women.
+  Use of misoprostol, a component of ARTHROTEC during pregnancy can result in maternal and fetal harm, including abortion, premature birth, birth defects and uterine rupture.
+  Use of diclofenac may cause oligohydramnios/fetal renal dysfunction and premature closure of the fetal ductus arteriosus [see Warnings and Precautions (5.11), Use in Specific Populations (8.1)].
 - Advise patients not to give ARTHROTEC to other females of reproductive potential [see Boxed Warning].
 - Advise females of reproductive potential of the potential risk to a fetus and to use effective contraception during treatment with ARTHROTEC.
   Advise females to inform their healthcare provider of a known or suspected pregnancy [see Contraindications (4) and Use in Specific Populations (8.3)].
-
-Premature Closure of the Fetal Ductus Arteriosus
-
-Diclofenac may cause premature closure of the fetal ductus arteriosus.
-ARTHROTEC is contraindicated in pregnant women [see Warnings and Precautions (5.10) and Use in Specific Populations (8.1)].
 
 Infertility
 
@@ -42,9 +39,9 @@ Anaphylactic Reactions
 Inform patients of the signs of an anaphylactic reaction (e.g., difficulty breathing, swelling of the face or throat).
 Instruct patients to seek immediate emergency help if these occur [see Contraindications (4) and Warnings and Precautions (5.7)].
 
-Serious Skin Reactions
+Serious Skin Reactions, including DRESS
 
-Advise patients to stop ARTHROTEC immediately if they develop any type of rash and to contact their healthcare provider as soon as possible [see Warnings and Precautions (5.9)].
+Advise patients to stop taking ARTHROTEC immediately if they develop any type of rash or fever and contact their healthcare provider as soon as possible [see Warnings and Precautions (5.9, 5.10)].
 
 Avoid Concomitant Use of NSAIDs
 

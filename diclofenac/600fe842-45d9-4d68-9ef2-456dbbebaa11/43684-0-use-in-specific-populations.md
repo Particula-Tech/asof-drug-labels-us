@@ -9,7 +9,7 @@ ARTHROTEC is contraindicated in pregnant women [see Contraindications (4)].
 There are no adequate and well-controlled studies of ARTHROTEC in pregnant women; however, there is information available about the active drug components of ARTHROTEC, diclofenac sodium and misoprostol.
 Administration of misoprostol to pregnant women can cause abortion, premature birth, birth defects or uterine rupture.
 Congenital anomalies sometimes associated with fetal death have been reported subsequent to the unsuccessful use of misoprostol as an abortifacient, but the drug's teratogenic mechanism has not been demonstrated.
-Use of NSAIDS, including diclofenac, during the third trimester of pregnancy increases the risk of premature closure of fetal ductus arteriosus (see Data).
+Use of NSAIDS, including diclofenac a component of ARTHROTEC, can cause premature closure of the fetal ductus arteriosus and fetal renal dysfunction leading to oligohydramnios and, in some cases, neonatal renal impairment (see Data).
 There are clinical considerations when misoprostol and diclofenac are used in pregnant women (see Clinical Considerations).
 In reproduction studies with pregnant rabbits, there were no skeletal or visceral malformations when the combination of diclofenac sodium and misoprostol was administered during organogenesis at doses less than the maximum recommended human doses (MRHD); however, embryotoxicity was observed at this exposure (see Data).
 Based on animal data, prostaglandins have been shown to have an important role in endometrial vascular permeability, blastocyst implantation, and decidualization.
@@ -17,6 +17,7 @@ In animal studies, administration of prostaglandin synthesis inhibitors such as 
 If a woman becomes pregnant while taking ARTHROTEC, discontinue the drug and advise the woman of the potential risks to her and to a fetus.
 
 The estimated background risk of major birth defects and miscarriage for the indicated population is unknown.
+All pregnancies have a background risk of birth defect, loss, or other adverse outcomes.
 The estimated background risk of major birth defects and miscarriage in clinically recognized pregnancies is 2–4% and 15–20%, respectively.
 
 Clinical Considerations
@@ -48,7 +49,13 @@ ARTHROTEC is contraindicated in pregnant women [see Contraindications (4)].
 
 Diclofenac
 
-Diclofenac may cause premature closure of the ductus arteriosus in a fetus [see Warnings and Precautions (5.10)].
+Premature Closure of Fetal Ductus Arteriosus:
+
+NSAIDs, including diclofenac, can cause premature closure of the fetal ductus arteriosus at about 30 weeks gestation and later in pregnancy (see Data).
+
+Oligohydramnios/Neonatal Renal Impairment:
+
+Use of NSAIDs, including diclofenac, at about 20 weeks gestation or later in pregnancy has been associated with cases of fetal renal dysfunction leading to oligohydramnios, and in some cases, neonatal renal impairment (see Data).
 
 Labor or Delivery
 
@@ -69,7 +76,22 @@ Several reports in the literature associate the use of misoprostol during the fi
 Diclofenac
 
 Data from observational studies regarding potential embryo-fetal risks of NSAID use (including diclofenac) in the first or second trimesters of pregnancy are inconclusive.
-However, use of NSAIDS (including diclofenac) during the third trimester of pregnancy increases the risk of premature closure of the fetal ductus arteriosus.
+
+Premature Closure of Fetal Ductus Arteriosus:
+
+Published literature reports that the use of NSAIDs at about 30 weeks of gestation and later in pregnancy may cause premature closure of the fetal ductus arteriosus.
+
+Oligohydramnios/Neonatal Renal Impairment:
+
+Published studies and postmarketing reports describe maternal NSAID use at about 20 weeks gestation or later in pregnancy associated with fetal renal dysfunction leading to oligohydramnios, and in some cases, neonatal renal impairment.
+These adverse outcomes are seen, on average, after days to weeks of treatment, although oligohydramnios has been infrequently reported as soon as 48 hours after NSAID initiation.
+In many cases, but not all, the decrease in amniotic fluid was transient and reversible with cessation of the drug.
+There have been a limited number of case reports of maternal NSAID use and neonatal renal dysfunction without oligohydramnios, some of which were irreversible.
+Some cases of neonatal renal dysfunction required treatment with invasive procedures, such as exchange transfusion or dialysis.
+
+Methodological limitations of these postmarketing studies and reports include lack of a control group; limited information regarding dose, duration, and timing of drug exposure; and concomitant use of other medications.
+These limitations preclude establishing a reliable estimate of the risk of adverse fetal and neonatal outcomes with maternal NSAID use.
+Because the published safety data on neonatal outcomes involved mostly preterm infants, the generalizability of certain reported risks to the full-term infant exposed to NSAIDs through maternal use is uncertain.
 
 Animal Data
 
@@ -118,7 +140,7 @@ Safety and effectiveness of ARTHROTEC in pediatric patients have not been establ
 ## 8.5 Geriatric Use
 
 Elderly patients, compared to younger patients, are at greater risk for NSAID-associated serious cardiovascular, gastrointestinal, and/or renal adverse reactions.
-If the anticipated benefit for the elderly patient outweighs these potential risks, start dosing at the low end of the dosing range, and monitor patients for adverse effects [see Warnings and Precautions (5.1, 5.2, 5.3, 5.6, 5.13)].
+If the anticipated benefit for the elderly patient outweighs these potential risks, start dosing at the low end of the dosing range, and monitor patients for adverse effects [see Warnings and Precautions (5.1, 5.2, 5.3, 5.6, 5.14)].
 
 Of the more than 2,100 subjects in clinical studies with ARTHROTEC, 25% were 65 and over, while 6% were 75 and over.
 In studies with diclofenac, 31% of subjects were 65 and over.
@@ -127,4 +149,4 @@ No overall differences in safety or effectiveness were observed between these su
 Diclofenac is known to be substantially excreted by the kidney, and the risk of toxic reactions to ARTHROTEC may be greater in patients with impaired renal function.
 Because elderly patients are more likely to have decreased renal function, care should be taken in dose selection, and it may be useful to monitor renal function [see Clinical Pharmacology (12.3)].
 
-Based on studies in the elderly, no adjustment of the dose of ARTHROTEC is necessary in the elderly for pharmacokinetic reasons [see Warnings and Precautions (5.1, 5.2, 5.3, 5.6, 5.13) and Clinical Pharmacology (12.3)], although many elderly may need to receive a reduced dose because of low body weight or disorders associated with aging.
+Based on studies in the elderly, no adjustment of the dose of ARTHROTEC is necessary in the elderly for pharmacokinetic reasons [see Warnings and Precautions (5.1, 5.2, 5.3, 5.6, 5.14) and Clinical Pharmacology (12.3)], although many elderly may need to receive a reduced dose because of low body weight or disorders associated with aging.
