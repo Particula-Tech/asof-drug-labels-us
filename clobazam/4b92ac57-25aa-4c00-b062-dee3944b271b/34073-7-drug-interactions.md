@@ -3,16 +3,16 @@
 ## 7.1 Opioids
 
 The concomitant use of benzodiazepines and opioids increases the risk of respiratory depression because of actions at different receptor sites in the CNS that control respiration.
-Benzodiazepines interact at GABAA sites, and opioids interact primarily at mu receptors.
+Benzodiazepines interact at GABA A sites, and opioids interact primarily at mu receptors.
 When benzodiazepines and opioids are combined, the potential for benzodiazepines to significantly worsen opioid-related respiratory depression exists.
 Limit dosage and duration of concomitant use of benzodiazepines and opioids, and follow patients closely for respiratory depression and sedation [see Warnings and Precautions (5.1)].
 
 ## 7.2 CNS Depressants and Alcohol
 
-Concomitant use of clobazam with other CNS depressants may increase the risk of sedation and somnolence [see Warnings and Precautions (5.2)].
+Concomitant use of clobazam with other CNS depressants may increase the risk of sedation and somnolence [see Warnings and Precautions (5.4)].
 
 Alcohol, as a CNS depressant, will interact with clobazam in a similar way and also increases clobazam’s maximum plasma exposure by approximately 50%.
-Therefore, caution patients or their caregivers against simultaneous use with other CNS depressant drugs or alcohol, and caution that the effects of other CNS depressant drugs or alcohol may be potentiated [see Warnings and Precautions (5.2)].
+Therefore, caution patients or their caregivers against simultaneous use with other CNS depressant drugs or alcohol, and caution that the effects of other CNS depressant drugs or alcohol may be potentiated [see Warnings and Precautions (5.4)].
 
 ## 7.3 Effect of Clobazam on Other Drugs
 

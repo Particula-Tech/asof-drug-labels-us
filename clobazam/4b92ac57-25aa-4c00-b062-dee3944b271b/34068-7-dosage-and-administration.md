@@ -5,22 +5,24 @@
 A daily dose of clobazam oral suspension greater than 5 mg should be administered in divided doses twice daily; a 5 mg daily dose can be administered as a single dose.
 Dose patients according to body weight.
 Individualize dosing within each body weight group, based on clinical efficacy and tolerability.
-Each dose in Table 1 (e.g., 5 to 20 mg in ≤30 kg weight group) has been shown to be effective, although effectiveness increases with increasing dose [see Clinical Studies (14)].
-Do not proceed with dose escalation more rapidly than weekly, because serum concentrations of clobazam and its active metabolite require 5 and 9 days, respectively, to reach steady-state.
+Each dose in Table 1 (e.g., 5 mg to 20 mg in ≤ 30 kg weight group) has been shown to be effective, although effectiveness increases with increasing dose [see Clinical Studies (14)].
+Do not proceed with dose escalation more rapidly than weekly, because serum concentrations of clobazam and its active metabolite require 5 days and 9 days, respectively, to reach steady-state.
 
 Table 1.
 Recommended Total Daily Dosing by Weight Group
 
-|  | ≤30 kg Body Weight | >30 kg Body Weight |
+|  | ≤ 30 kg Body Weight | > 30 kg Body Weight |
 | --- | --- | --- |
 | Starting Dose | 5 mg | 10 mg |
 | Starting Day 7 | 10 mg | 20 mg |
 | Starting Day 14 | 20 mg | 40 mg |
 
-## 2.2 Gradual Withdrawal
+## 2.2 Discontinuation or Dosage Reduction of Clobazam Oral Suspension
 
-As with all antiepileptic drugs and benzodiazepines, withdraw clobazam oral suspension gradually.
-Taper by decreasing the total daily dose by 5 to 10 mg/day on a weekly basis until discontinued [see Warnings and Precautions (5.4)].
+To reduce the risk of withdrawal reactions, increased seizure frequency, and status epilepticus, use a gradual taper to discontinue clobazam oral suspension or reduce the dosage.
+Taper by decreasing the total daily dose by 5 mg/day to 10 mg/day on a weekly basis until discontinued.
+If a patient develops withdrawal reactions, consider pausing the taper or increasing the dosage to the previous tapered dosage level.
+Subsequently decrease the dosage more slowly [see Warnings and Precautions (5.3) and Drug Abuse and Dependence (9.3)].
 
 ## 2.3 Important Administration Instructions
 

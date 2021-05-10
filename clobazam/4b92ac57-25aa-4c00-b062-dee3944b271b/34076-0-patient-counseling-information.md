@@ -6,20 +6,27 @@ Risks from Concomitant Use with Opioids
 
 Inform patients and caregivers that potentially fatal additive effects may occur if clobazam oral suspension is used with opioids and not to use such drugs concomitantly unless supervised by a healthcare provider [see Warnings and Precautions (5.1), Drug Interactions (7.1)].
 
+Abuse, Misuse, and Addiction
+
+Inform patients that the use of clobazam oral suspension, even at recommended dosages, exposes users to risks of abuse, misuse, and addiction, which can lead to overdose and death, especially when used in combination with other medications (e.g., opioid analgesics), alcohol, and/or illicit substances.
+Inform patients about the signs and symptoms of benzodiazepine abuse, misuse, and addiction; to seek medical help if they develop these signs and/or symptoms; and on the proper disposal of unused drug [see Warnings and Precautions (5.2) and Drug Abuse and Dependence (9.2)].
+
+Withdrawal Reactions
+
+Advise patients or caregivers that abrupt withdrawal of AEDs may increase their risk of seizure.
+Inform patients that the continued use of clobazam oral suspension may lead to clinically significant physical dependence and that abrupt discontinuation or rapid dosage reduction of clobazam oral suspension may precipitate acute withdrawal reactions, which can be life‑threatening.
+Inform patients that in some cases, patients taking benzodiazepines have developed a protracted withdrawal syndrome with withdrawal symptoms lasting weeks to more than 12 months.
+Instruct patients that discontinuation or dosage reduction of clobazam oral suspension may require a slow taper [see Warnings and Precautions (5.3) and Drug Abuse and Dependence (9.3)].
+
 Somnolence or Sedation
 
-Advise patients or caregivers to check with their healthcare provider before clobazam oral suspension is taken with other CNS depressants such as other benzodiazepines, opioids, tricyclic antidepressants, sedating antihistamines, or alcohol [see Warnings and Precautions (5.2, 5.3)].
+Advise patients or caregivers to check with their healthcare provider before clobazam oral suspension is taken with other CNS depressants such as other benzodiazepines, opioids, tricyclic antidepressants, sedating antihistamines, or alcohol [see Warnings and Precautions (5.4, 5.5)].
 
 If applicable, caution patients about operating hazardous machinery, including automobiles, until they are reasonably certain that clobazam oral suspension does not affect them adversely (e.g., impair judgment, thinking or motor skills).
 
-Increasing or Decreasing the Clobazam Oral Suspension Dose
-
-Inform patients or caregivers to consult their healthcare provider before increasing the clobazam oral suspension dose or abruptly discontinuing clobazam oral suspension.
-Advise patients or caregivers that abrupt withdrawal of AEDs may increase their risk of seizure [see Dosage and Administration (2.2), Warnings and Precautions (5.4)].
-
 Hypersensitivity
 
-Inform patients or caregivers that clobazam oral suspension is contraindicated in patients with a history of hypersensitivity to the drug or its ingredients [see Warnings and Precautions (5.5)].
+Inform patients or caregivers that clobazam oral suspension is contraindicated in patients with a history of hypersensitivity to the drug or its ingredients [see Warnings and Precautions (5.6)].
 
 Interactions with Hormonal Contraceptives
 
@@ -29,7 +36,7 @@ Serious Dermatological Reactions
 
 Advise patients or caregivers that serious skin reactions have been reported in patients taking clobazam oral suspension.
 Serious skin reactions, including SJS/TEN, may need to be treated in a hospital and may be life-threatening.
-If a skin reaction occurs while taking clobazam oral suspension, patients or caregivers should consult with healthcare providers immediately [see Warnings and Precautions (5.5)].
+If a skin reaction occurs while taking clobazam oral suspension, patients or caregivers should consult with healthcare providers immediately [see Warnings and Precautions (5.6)].
 
 Suicidal Thinking and Behavior
 

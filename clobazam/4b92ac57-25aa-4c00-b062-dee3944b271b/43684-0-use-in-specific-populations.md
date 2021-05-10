@@ -13,7 +13,7 @@ Risk Summary
 
 There are no adequate and well-controlled studies of clobazam in pregnant women.
 Available data suggest that the class of benzodiazepines is not associated with marked increases in risk for congenital anomalies.
-Although some early epidemiological studies suggested a relationship between benzodiazepine drug use in pregnancy and congenital anomalies such as cleft lip and or palate, these studies had considerable limitations.
+Although some early epidemiological studies suggested a relationship between benzodiazepine drug use in pregnancy and congenital anomalies such as cleft lip and/or palate, these studies had considerable limitations.
 More recently completed studies of benzodiazepine use in pregnancy have not consistently documented elevated risks for specific congenital anomalies.
 There is insufficient evidence to assess the effect of benzodiazepine pregnancy exposure on neurodevelopment.
 
@@ -25,7 +25,7 @@ Data for other benzodiazepines suggest the possibility of long-term effects on n
 Clobazam should be used during pregnancy only if the potential benefit to the mother justifies the potential risk to the fetus.
 Advise a pregnant woman and women of childbearing age of the potential risk to a fetus.
 
-In the U.S. general population, the estimated background risk of major birth defects and miscarriage in clinically recognized pregnancies is 2 to 4% and 15 to 20%, respectively.
+In the U.S. general population, the estimated background risk of major birth defects and miscarriage in clinically recognized pregnancies is 2% to 4% and 15% to 20%, respectively.
 The background risk of major birth defects and miscarriage for the indicated population is unknown.
 
 Clinical Considerations
@@ -52,11 +52,11 @@ Human Data
 Congenital Anomalies
 
 Although there are no adequate and well controlled studies of clobazam in pregnant women, there is information about benzodiazepines as a class.
-Dolovich et al. published a metaanalysis of 23 studies that examined the effects of benzodiazepine exposure during the first trimester of pregnancy.
+Dolovich et al. published a meta-analysis of 23 studies that examined the effects of benzodiazepine exposure during the first trimester of pregnancy.
 Eleven of the 23 studies included in the meta-analysis considered the use of chlordiazepoxide and diazepam and not other benzodiazepines.
 The authors considered case‑control and cohort studies separately.
 The data from the cohort studies did not suggest an increased risk for major malformations (OR 0.90; 95% CI 0.61—1.35) or for oral cleft (OR 1.19; 95% CI 0.34—4.15).
-The data from the case-control studies suggested an association between benzodiazepines and major malformations (OR 3.01, 95% CI 1.32—6.84) and oral cleft (OR 1.79; 95% CI 1.13—2.82).
+The data from the case-control studies suggested an association between benzodiazepines and major malformations (OR 3.01; 95% CI 1.32—6.84) and oral cleft (OR 1.79; 95% CI 1.13—2.82).
 The limitations of this meta-analysis included the small number of reports included in the analysis, and that most cases for analyses of both oral cleft and major malformations came from only three studies.
 A follow up to that meta-analysis included 3 new cohort studies that examined risk for major malformations and one study that considered cardiac malformations.
 The authors found no new studies with an outcome of oral clefts.
@@ -70,15 +70,15 @@ Data from observational studies suggest that fetal exposure to benzodiazepines i
 
 Animal Data
 
-In a study in which clobazam (0, 150, 450, or 750 mg/kg/day) was orally administered to pregnant rats throughout the period of organogenesis, embryofetal mortality and incidences of fetal skeletal variations were increased at all doses.
+In a study in which clobazam (0 mg/kg/day, 150 mg/kg/day, 450 mg/kg/day, or 750 mg/kg/day) was orally administered to pregnant rats throughout the period of organogenesis, embryofetal mortality and incidences of fetal skeletal variations were increased at all doses.
 The low-effect dose for embryofetal developmental toxicity in rats (150 mg/kg/day) was associated with plasma exposures (AUC) for clobazam and its major active metabolite, N-desmethylclobazam, lower than those in humans at the maximum recommended human dose (MRHD) of 40 mg/day.
 
-Oral administration of clobazam (0, 10, 30, or 75 mg/kg/day) to pregnant rabbits throughout the period of organogenesis resulted in decreased fetal body weights, and increased incidences of fetal malformations (visceral and skeletal) at the mid and high doses, and an increase in embryofetal mortality at the high dose.
+Oral administration of clobazam (0 mg/kg/day, 10 mg/kg/day, 30 mg/kg/day, or 75 mg/kg/day) to pregnant rabbits throughout the period of organogenesis resulted in decreased fetal body weights, and increased incidences of fetal malformations (visceral and skeletal) at the mid and high doses, and an increase in embryofetal mortality at the high dose.
 Incidences of fetal variations were increased at all doses.
 The highest dose tested was associated with maternal toxicity (ataxia and decreased activity).
 The low-effect dose for embryofetal developmental toxicity in rabbits (10 mg/kg/day) was associated with plasma exposures for clobazam and N-desmethylclobazam lower than those in humans at the MRHD.
 
-Oral administration of clobazam (0, 50, 350, or 750 mg/kg/day) to rats throughout pregnancy and lactation resulted in increased embryofetal mortality at the high dose, decreased pup survival at the mid and high doses and alterations in offspring behavior (locomotor activity) at all doses.
+Oral administration of clobazam (0 mg/kg/day, 50 mg/kg/day, 350 mg/kg/day, or 750 mg/kg/day) to rats throughout pregnancy and lactation resulted in increased embryofetal mortality at the high dose, decreased pup survival at the mid and high doses and alterations in offspring behavior (locomotor activity) at all doses.
 The low-effect dose for adverse effects on pre- and postnatal development in rats (50 mg/kg/day) was associated with plasma exposures for clobazam and N-desmethylclobazam lower than those in humans at the MRHD.
 
 ## 8.2 Lactation
@@ -111,7 +111,7 @@ Administration of clobazam to rats prior to and during mating and early gestatio
 
 Safety and effectiveness in patients less than 2 years of age have not been established.
 
-In a study in which clobazam (0, 4, 36, or 120 mg/kg/day) was orally administered to rats during the juvenile period of development (postnatal days 14 to 48), adverse effects on growth (decreased bone density and bone length) and behavior (altered motor activity and auditory startle response; learning deficit) were observed at the high dose.
+In a study in which clobazam (0 mg/kg/day, 4 mg/kg/day, 36 mg/kg/day, or 120 mg/kg/day) was orally administered to rats during the juvenile period of development (postnatal days 14 to days 48), adverse effects on growth (decreased bone density and bone length) and behavior (altered motor activity and auditory startle response; learning deficit) were observed at the high dose.
 The effect on bone density, but not on behavior, was reversible when drug was discontinued.
 The no-effect level for juvenile toxicity (36 mg/kg/day) was associated with plasma exposures (AUC) to clobazam and its major active metabolite, N-desmethylclobazam, less than those expected at therapeutic doses in pediatric patients.
 
@@ -120,7 +120,7 @@ The no-effect level for juvenile toxicity (36 mg/kg/day) was associated with pla
 Clinical studies of clobazam did not include sufficient numbers of subjects aged 65 and over to determine whether they respond differently from younger subjects.
 However, elderly subjects appear to eliminate clobazam more slowly than younger subjects based on population pharmacokinetic analysis.
 For these reasons, the initial dose in elderly patients should be 5 mg/day.
-Patients should be titrated initially to 10-20 mg/day.
+Patients should be titrated initially to 10 mg/day to 20 mg/day.
 Patients may be titrated further to a maximum daily dose of 40 mg if tolerated [see Dosage and Administration (2.4), Clinical Pharmacology (12.3)].
 
 ## 8.6 CYP2C19 Poor Metabolizers
@@ -131,7 +131,7 @@ For this reason, dosage modification is recommended [see Dosage and Administrati
 ## 8.7 Renal Impairment
 
 The pharmacokinetics of clobazam were evaluated in patients with mild and moderate renal impairment.
-There were no significant differences in systemic exposure (AUC and Cmax) between patients with mild or moderate renal impairment and healthy subjects.
+There were no significant differences in systemic exposure (AUC and C max) between patients with mild or moderate renal impairment and healthy subjects.
 No dose adjustment is required for patients with mild and moderate renal impairment.
 There is essentially no experience with clobazam in patients with severe renal impairment or ESRD.
 It is not known if clobazam or its active metabolite, N-desmethylclobazam, is dialyzable [see Dosage and Administration (2.6), Clinical Pharmacology (12.3)].
