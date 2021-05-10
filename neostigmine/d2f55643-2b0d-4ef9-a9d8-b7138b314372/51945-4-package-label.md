@@ -38,6 +38,24 @@ For Intravenous Use
 
 Rx Only
 
+# PACKAGE/LABEL PRINCIPAL DISPLAY PANEL-0.5 mg/mL Extended Content Label
+
+NDC 51754-1210-3
+
+Bloxiverz
+
+(Neostigmine Methylsulfate
+
+Injection, USP)
+
+5 mg/10 mL
+
+(0.5 mg/mL)
+
+For Intravenous Use
+
+10 x 10 mL Multiple-Dose Vials
+
 # PACKAGE/LABEL PRINCIPAL DISPLAY PANEL- 1 mg/mL Vial Label
 
 NDC 51754-1220-1
@@ -56,7 +74,7 @@ For Intravenous Use
 
 10 mL Multiple-Dose Vial
 
-# PACKAGE/LABEL PRINCIPAL DISPLAY PANEL-1 mg Carton Label
+# PACKAGE/LABEL PRINCIPAL DISPLAY PANEL- 1 mg/mL Carton Label
 
 NDC 51754-1220-1
 
@@ -77,3 +95,21 @@ For Intravenous Use
 10 mL Multiple-Dose Vial
 
 Rx Only
+
+# PACKAGE/LABEL PRINCIPAL DISPLAY PANEL- 1 mg/mL Extended Content Label
+
+NDC 51754-1220-3
+
+Bloxiverz
+
+(Neostigmine Methylsulfate
+
+Injection, USP)
+
+10 mg/10 mL
+
+(1 mg/mL)
+
+For Intravenous Use
+
+10 x 10 mL Multiple-Dose Vials
