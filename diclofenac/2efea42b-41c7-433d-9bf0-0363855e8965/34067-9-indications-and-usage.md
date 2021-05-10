@@ -5,6 +5,6 @@ Use the lowest effective dose for the shortest duration consistent with individu
 
 VOLTAREN is indicated:
 
-- For relief of the signs and symptoms of osteoarthritis
-- For relief of the signs and symptoms of rheumatoid arthritis
-- For acute or long-term use in the relief of signs and symptoms of ankylosing spondylitis
+- for relief of the signs and symptoms of osteoarthritis
+- for relief of the signs and symptoms of rheumatoid arthritis
+- for acute or long-term use in the relief of signs and symptoms of ankylosing spondylitis
