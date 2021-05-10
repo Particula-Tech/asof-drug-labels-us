@@ -69,4 +69,6 @@ Because these reactions are reported voluntarily from a population of uncertain 
 
 Liver function abnormalities (elevations in transaminases ≥ 3 times ULN with concomitant elevations in total bilirubin > 2 times ULN) have been reported following dimethyl fumarate administration in postmarketing experience [see Warnings and Precautions (5.5)].
 
-Herpes zoster infection and other serious opportunistic infections have has been reported with dimethyl fumarate administration in postmarketing experience [See Warnings and Precautions (5.3)].
+Herpes zoster infection and other serious opportunistic infections have has been reported with dimethyl fumarate administration in postmarketing experience [see Warnings and Precautions (5.3)].
+
+Rhinorrhea has been reported with dimethyl fumarate administration in post marketing experience.

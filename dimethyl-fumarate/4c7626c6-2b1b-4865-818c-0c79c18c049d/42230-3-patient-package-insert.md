@@ -85,7 +85,7 @@ What are the ingredients in dimethyl fumarate delayed-release capsules?
 
 Active ingredient: dimethyl fumarate
 
-Inactive ingredients: colloidal silicon dioxide, croscarmellose sodium, magnesium stearate, methacrylic acid copolymer Type A, methacrylic acid copolymer dispersion Type C, microcrystalline cellulose, silicified microcrystalline cellulose (SMCC), talc and triethyl citrate.
+Inactive ingredients: colloidal silicon dioxide, croscarmellose sodium, magnesium stearate, methacrylic acid copolymer Type A, methacrylic acid copolymer dispersion Type C, microcrystalline cellulose, silicified microcrystalline cellulose (colloidal silicon dioxide & microcrystaline cellulose), talc and triethyl citrate.
 The hard gelatin capsule shells contain: D&C yellow No. 10, FD&C blue No. 1, gelatin, sodium lauryl sulfate and titanium dioxide.
 
 Each capsule shell is imprinted with black pharmaceutical ink which contains: ammonium hydroxide, ferrosoferric oxide, propylene glycol and shellac glaze.
@@ -108,4 +108,4 @@ Amneal Pharmaceuticals LLC
 Bridgewater, NJ 08807
 
 Rev.
-05-2020-00
+03-2021-01
