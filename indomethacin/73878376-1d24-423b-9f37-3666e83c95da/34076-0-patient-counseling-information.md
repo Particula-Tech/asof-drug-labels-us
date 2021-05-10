@@ -26,9 +26,10 @@ Anaphylactic Reactions
 Inform patients of the signs of an anaphylactic reaction (e.g., difficulty breathing, swelling of the face or throat).
 Instruct patients to seek immediate emergency help if these occur [see Contraindications (4) and Warnings and Precautions (5.7)].
 
-Serious Skin Reactions
+Serious Skin Reactions, including DRESS
 
-Advise patients to stop INDOCIN immediately if they develop any type of rash and to contact their healthcare provider as soon as possible [see Warnings and Precautions (5.9)].
+Advise patients to stop taking INDOCIN immediately if they develop any type of rash or fever and to contact their healthcare provider as soon as possible [see Warnings and Precautions (5.9.
+5.10)].
 
 Female Fertility
 
@@ -36,7 +37,8 @@ Advise females of reproductive potential who desire pregnancy that NSAIDs, inclu
 
 Fetal Toxicity
 
-Inform pregnant women to avoid use of INDOCIN and other NSAIDs starting at 30 weeks gestation because of the risk of the premature closing of the fetal ductus arteriosus [see Warnings and Precautions (5.10) and Use in Specific Populations (8.1)].
+Inform pregnant women to avoid use of INDOCIN and other NSAIDs starting at 30 weeks gestation because of the risk of the premature closing of the fetal ductus arteriosus.
+If treatment with INDOCIN is needed for a pregnant woman between about 20 to 30 weeks gestation, advise her that she may need to be monitored for oligohydramnios, if treatment continues for longer than 48 hours [see Warnings and Precautions (5.11) and Use in Specific Populations (8.1)].
 
 Avoid Concomitant Use of NSAIDs
 
@@ -47,8 +49,8 @@ Use of NSAIDs and Low-Dose Aspirin
 
 Inform patients not to use low-dose aspirin concomitantly with INDOCIN until they talk to their healthcare provider [see Drug Interactions (7)].
 
-Manufactured by: Patheon Inc. Whitby, Ontario L1N 5Z5, Canada
+Manufactured by:Patheon Inc. Whitby, Ontario L1N 5Z5, Canada
 
-Distributed by: Zyla Life Sciences US Inc., Wayne, PA 19087 ©2019 Zyla Life Sciences US Inc. All rights reserved.
+Distributed by:Zyla Life Sciences US Inc., Wayne, PA 19087©2019 Zyla Life Sciences US Inc. All rights reserved.
 
-Issued or Revised Dec 2019 LBL# 801.01
+LBL# 801.02
