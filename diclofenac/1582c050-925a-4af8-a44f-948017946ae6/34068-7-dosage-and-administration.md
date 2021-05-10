@@ -8,8 +8,8 @@ After observing the response to initial therapy with CATAFLAM, the dose and freq
 For treatment of pain or primary dysmenorrhea the recommended dosage is 50 mg three times a day.
 With experience, physicians may find that in some patients an initial dose of 100 mg of CATAFLAM, followed by 50-mg doses, will provide better relief.
 
-For the relief of osteoarthritis the recommended dosage is 100-150 mg/day in divided doses, 50 mg twice a day or three times a day.
+For the relief of osteoarthritis the recommended dosage is 100 to 150 mg/day in divided doses, 50 mg twice a day or three times a day.
 
-For the relief of rheumatoid arthritis the recommended dosage is 150-200 mg/day in divided doses, 50 mg three times a day or four times a day.
+For the relief of rheumatoid arthritis the recommended dosage is 150 to 200 mg/day in divided doses, 50 mg three times a day or four times a day.
 
-Different formulations of diclofenac [Voltaren® (diclofenac sodium enteri-coated tablets); Voltaren®-XR (diclofenac sodium extended-release tablets); CATAFLAM® (diclofenac potassium immediate-release tablets)] are not necessarily bioequivalent even if the milligram strength is the same.
+Different formulations of diclofenac [VOLTAREN® (diclofenac sodium enteric-coated tablets); Voltaren®-XR (diclofenac sodium extended-release tablets); CATAFLAM® (diclofenac potassium immediate-release tablets)] are not necessarily bioequivalent even if the milligram strength is the same.

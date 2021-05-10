@@ -9,4 +9,4 @@ There are no specific antidotes.
 Consider emesis and/or activated charcoal (60 to 100 grams in adults, 1 to 2 grams per kg of body weight in pediatric patients) and/or osmotic cathartic in symptomatic patients seen within four hours of ingestion in patients with a large overdose (5 to 10 times the recommended dosage).
 Forced diuresis, alkalinization of urine, hemodialysis, or hemoperfusion may not be useful due to high protein binding.
 
-For additional information about overdosage treatment contact a poison control center (1-800-222-1222).
+For additional information about overdosage treatment, contact a poison control center (1-800-222-1222).

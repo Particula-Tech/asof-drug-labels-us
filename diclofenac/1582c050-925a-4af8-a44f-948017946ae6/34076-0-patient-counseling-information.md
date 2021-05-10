@@ -14,21 +14,21 @@ In the setting of concomitant use of low-dose aspirin for cardiac prophylaxis, i
 
 Hepatotoxicity
 
-Inform patients of the warning signs and symptoms of hepatotoxicity (eg, nausea, fatigue, lethargy, pruritus, diarrhea, jaundice, right upper quadrant tenderness, and “flu-like” symptoms).
+Inform patients of the warning signs and symptoms of hepatotoxicity (e.g., nausea, fatigue, lethargy, pruritus, diarrhea, jaundice, right upper quadrant tenderness, and “flu-like” symptoms).
 If these occur, instruct patients to stop CATAFLAM and seek immediate medical therapy (see WARNINGS; Hepatotoxicity).
 
 Heart Failure and Edema
 
-Advise patients to be alert for the symptoms of congestive heart failure including shortness of breath, unexplained weight gain, or edema and to contact their healthcare provider if such symptoms occur (see WARNINGS; Heart Failure and Edema).
+Advise patients to be alert for the symptoms of congestive heart failure, including shortness of breath, unexplained weight gain, or edema and to contact their healthcare provider if such symptoms occur (see WARNINGS; Heart Failure and Edema).
 
 Anaphylactic Reactions
 
-Inform patients of the signs of an anaphylactic reaction (eg, difficulty breathing, swelling of the face or throat).
+Inform patients of the signs of an anaphylactic reaction (e.g., difficulty breathing, swelling of the face or throat).
 Instruct patients to seek immediate emergency help if these occur (see WARNINGS; Anaphylactic Reactions).
 
-Serious Skin Reactions
+Serious Skin Reactions, Including DRESS
 
-Advise patients to stop CATAFLAM immediately if they develop any type of rash and contact their healthcare provider as soon as possible (see WARNINGS; Serious Skin Reactions).
+Advise patients to stop CATAFLAM immediately if they develop any type of rash or fever and to contact their healthcare provider as soon as possible (see WARNINGS; Serious Skin Reactions).
 
 Female Fertility
 
@@ -36,7 +36,8 @@ Advise females of reproductive potential who desire pregnancy that NSAIDs, inclu
 
 Fetal Toxicity
 
-Inform pregnant women to avoid use of CATAFLAM and other NSAIDs, starting at 30 weeks gestation because of the risk of the premature closure of the fetal ductus arteriosus (see WARNINGS; Premature Closure of Fetal Ductus Arteriosus).
+Inform pregnant women to avoid use of CATAFLAM and other NSAIDs, starting at 30 weeks gestation because of the risk of the premature closure of the fetal ductus arteriosus.
+If treatment with CATAFLAM is needed for a pregnant woman between about 20 to 30 weeks gestation, advise her that she may need to be monitored for oligohydramnios, if treatment continues for longer than 48 hours (see WARNINGS; Fetal Toxicity, PRECAUTIONS, Pregnancy).
 
 Avoid Concomitant Use of NSAIDs
 

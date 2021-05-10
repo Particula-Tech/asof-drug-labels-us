@@ -25,17 +25,17 @@ Post-MI Patients
 
 Observational studies conducted in the Danish National Registry have demonstrated that patients treated with NSAIDs in the post-MI period were at increased risk of reinfarction, CV-related death, and all-cause mortality beginning in the first week of treatment.
 In this same cohort, the incidence of death in the first year post-MI was 20 per 100 person years in NSAID-treated patients compared to 12 per 100 person years in non-NSAID exposed patients.
-Although the absolute rate of death declined somewhat after the first year post-MI, the increased relative risk of death in NSAID users persisted over at least the next four years of follow-up.
+Although the absolute rate of death declined somewhat after the first year post-MI, the increased relative risk of death in NSAID users persisted over at least the next 4 years of follow-up.
 
 Avoid the use of CATAFLAM in patients with a recent MI unless the benefits are expected to outweigh the risk of recurrent CV thrombotic events.
 If CATAFLAM is used in patients with a recent MI, monitor patients for signs of cardiac ischemia.
 
 ## Gastrointestinal Bleeding, Ulceration, and Perforation
 
-NSAIDs, including diclofenac, cause serious gastrointestinal (GI) adverse events including inflammation, bleeding, ulceration, and perforation of the esophagus, stomach, small intestine, or large intestine, which can be fatal.
+NSAIDs, including diclofenac, cause serious gastrointestinal (GI) adverse events, including inflammation, bleeding, ulceration, and perforation of the esophagus, stomach, small intestine, or large intestine, which can be fatal.
 These serious adverse events can occur at any time, with or without warning symptoms, in patients treated with NSAIDs.
 Only one in five patients, who develop a serious upper GI adverse event on NSAID therapy, is symptomatic.
-Upper GI ulcers, gross bleeding or perforation caused by NSAIDs occurred in approximately 1% of patients treated for 3-6 months, and in about 2%-4% of patients treated for one year.
+Upper GI ulcers, gross bleeding or perforation caused by NSAIDs occurred in approximately 1% of patients treated for 3 to 6 months, and in about 2% to 4% of patients treated for one year.
 However, even short-term therapy is not without risk.
 
 Risk Factors for GI Bleeding, Ulceration, and Perforation
@@ -45,7 +45,7 @@ Other factors that increase the risk of GI bleeding in patients treated with NSA
 Most postmarketing reports of fatal GI events occurred in elderly or debilitated patients.
 Additionally, patients with advanced liver disease and/or coagulopathy are at increased risk for GI bleeding.
 
-Strategies to Minimize the GI Risks in NSAID-treated patients:
+Strategies to Minimize the GI Risks in NSAID-treated patients
 
 - Use the lowest effective dosage for the shortest possible duration.
 - Avoid administration of more than one NSAID at a time.
@@ -57,11 +57,11 @@ Strategies to Minimize the GI Risks in NSAID-treated patients:
 
 ## Hepatotoxicity
 
-In clinical trials of diclofenac- containing products, meaningful elevations (i.e., more than 3 times the ULN) of AST (SGOT) were observed in about 2% of approximately 5,700 patients at some time during diclofenac treatment (ALT was not measured in all studies).
+In clinical trials of diclofenac-containing products, meaningful elevations (i.e., more than 3 times the upper limit of normal [ULN]) of aspartate aminotransferase (AST) (also known as SGOT) were observed in about 2% of approximately 5,700 patients at some time during diclofenac treatment (alanine aminotransferase [ALT] was not measured in all studies).
 
-In a large, open-label, controlled trial of 3,700 patients treated with oral diclofenac sodium for 2-6 months, patients were monitored first at 8 weeks and 1,200 patients were monitored again at 24 weeks.
+In a large, open-label, controlled trial of 3700 patients treated with oral diclofenac sodium for 2 to 6 months, patients were monitored first at 8 weeks and 1200 patients were monitored again at 24 weeks.
 Meaningful elevations of ALT and/or AST occurred in about 4% of patients and included marked elevations (greater than 8 times the ULN) in about 1% of the 3,700 patients.
-In that open-label study, a higher incidence of borderline (less than 3 times the ULN), moderate (3-8 times the ULN), and marked (greater than 8 times the ULN) elevations of ALT or AST was observed in patients receiving diclofenac when compared to other NSAIDs.
+In that open-label study, a higher incidence of borderline (less than 3 times the ULN), moderate (3 to 8 times the ULN), and marked (greater than 8 times the ULN) elevations of ALT or AST was observed in patients receiving diclofenac when compared to other NSAIDs.
 Elevations in transaminases were seen more frequently in patients with osteoarthritis than in those with rheumatoid arthritis.
 
 Almost all meaningful elevations in transaminases were detected before patients became symptomatic.
@@ -85,7 +85,7 @@ Inform patients of the warning signs and symptoms of hepatotoxicity (e.g., nause
 If clinical signs and symptoms consistent with liver disease develop, or if systemic manifestations occur (e.g., eosinophilia, rash, etc.), discontinue CATAFLAM immediately, and perform a clinical evaluation of the patient.
 
 To minimize the potential risk for an adverse liver related event in patients treated with CATAFLAM, use the lowest effective dose for the shortest duration possible.
-Exercise caution when prescribing CATAFLAM with concomitant drugs that are known to be potentially hepatotoxic (e.g., acetaminophen, antibiotics, anti-epileptics).
+Exercise caution when prescribing CATAFLAM with concomitant drugs that are known to be potentially hepatotoxic (e.g., acetaminophen, antibiotics, antiepileptics).
 
 ## Hypertension
 
@@ -96,7 +96,7 @@ Monitor blood pressure (BP) during the initiation of NSAID treatment and through
 
 ## Heart Failure and Edema
 
-The Coxib and traditional NSAID Trialists’ Collaboration meta-analysis of randomized controlled trials demonstrated an approximately two-fold increase in hospitalization for heart failure in COX-2 selective-treated patients and nonselective NSAID-treated patients compared to placebo-treated patients.
+The Coxib and traditional NSAID Trialists’ Collaboration meta-analysis of randomized controlled trials demonstrated an approximately 2-fold increase in hospitalization for heart failure in COX-2 selective-treated patients and nonselective NSAID-treated patients compared to placebo-treated patients.
 In a Danish National Registry study of patients with heart failure, NSAID use increased the risk of MI, hospitalization for heart failure, and death.
 
 Additionally, fluid retention and edema have been observed in some patients treated with NSAIDs.
@@ -133,32 +133,58 @@ In patients with normal renal function, these effects have been attributed to a 
 
 Diclofenac has been associated with anaphylactic reactions in patients with and without known hypersensitivity to diclofenac and in patients with aspirin-sensitive asthma (see CONTRAINDICATIONS, WARNINGS; Exacerbation of Asthma Related to Aspirin Sensitivity).
 
-## Exacerbation of Asthma Related to Aspirin Sensitivity
+Exacerbation of Asthma Related to Aspirin Sensitivity
 
-A subpopulation of patients with asthma may have aspirin-sensitive asthma which may include chronic rhinosinusitis complicated by nasal polyps; severe, potentially fatal bronchospasm; and/or intolerance to aspirin and other NSAIDs.
+A subpopulation of patients with asthma may have aspirin-sensitive asthma, which may include chronic rhinosinusitis complicated by nasal polyps; severe, potentially fatal bronchospasm; and/or intolerance to aspirin and other NSAIDs.
 Because cross-reactivity between aspirin and other NSAIDs has been reported in such aspirin-sensitive patients, CATAFLAM is contraindicated in patients with this form of aspirin sensitivity (see CONTRAINDICATIONS).
 When CATAFLAM is used in patients with preexisting asthma (without known aspirin sensitivity), monitor patients for changes in the signs and symptoms of asthma.
 
 ## Serious Skin Reactions
 
-NSAIDs, including diclofenac, can cause serious skin adverse events such as exfoliative dermatitis, Stevens-Johnson Syndrome (SJS), and toxic epidermal necrolysis (TEN), which can be fatal.
+NSAIDs, including diclofenac, can cause serious skin adverse events, such as exfoliative dermatitis, Stevens-Johnson Syndrome (SJS), and toxic epidermal necrolysis (TEN), which can be fatal.
 These serious events may occur without warning.
 Inform patients about the signs and symptoms of serious skin reactions and discontinue the use of CATAFLAM at the first appearance of skin rash or any other sign of hypersensitivity.
 CATAFLAM is contraindicated in patients with previous serious skin reactions to NSAIDs (see CONTRAINDICATIONS).
 
-## Premature Closure of Fetal Ductus Arteriosus
+## Drug Reaction with Eosinophilia and Systemic Symptoms (DRESS)
 
-Diclofenac may cause premature closure of the fetal ductus arteriosus.
-Avoid use of NSAIDs, including CATAFLAM, in pregnant women starting at 30 weeks of gestation (third trimester) (see PRECAUTIONS; Pregnancy).
+Drug Reaction with Eosinophilia and Systemic Symptoms (DRESS) has been reported in patients taking NSAIDs, such as CATAFLAM.
+Some of these events have been fatal or life-threatening.
+DRESS typically, although not exclusively, presents with fever, rash, lymphadenopathy, and/or facial swelling.
+Other clinical manifestations may include hepatitis, nephritis, hematological abnormalities, myocarditis, or myositis.
+Sometimes symptoms of DRESS may resemble an acute viral infection.
+Eosinophilia is often present.
+Because this disorder is variable in its presentation, other organ systems not noted here may be involved.
+It is important to note that early manifestations of hypersensitivity, such as fever or lymphadenopathy, may be present even though rash is not evident.
+If such signs or symptoms are present, discontinue CATAFLAM and evaluate the patient immediately.
 
-## Hematological Toxicity
+## Fetal Toxicity
+
+Premature Closure of Fetal Ductus Arteriosus
+
+Avoid use of NSAIDs, including CATAFLAM, in pregnant women at about 30 weeks’ gestation and later.
+NSAIDs, including CATAFLAM, increase the risk of premature closure of the fetal ductus arteriosus at approximately this gestational age.
+
+Oligohydramnios/Neonatal Renal Impairment
+
+Use of NSAIDs, including CATAFLAM, at about 20 weeks gestation or later in pregnancy may cause fetal renal dysfunction leading to oligohydramnios and, in some cases, neonatal renal impairment.
+These adverse outcomes are seen, on average, after days to weeks of treatment, although oligohydramnios has been infrequently reported as soon as 48 hours after NSAID initiation.
+Oligohydramnios is often, but not always, reversible with treatment discontinuation.
+Complications of prolonged oligohydramnios may, for example, include limb contractures and delayed lung maturation.
+In some postmarketing cases of impaired neonatal renal function, invasive procedures, such as exchange transfusion or dialysis were required.
+
+If NSAID treatment is necessary between about 20 weeks and 30 weeks gestation, limit CATAFLAM use to the lowest effective dose and shortest duration possible.
+Consider ultrasound monitoring of amniotic fluid if CATAFLAM treatment extends beyond 48 hours.
+Discontinue CATAFLAM if oligohydramnios occurs and follow up according to clinical practice (see PRECAUTIONS; Pregnancy).
+
+## Hematologic Toxicity
 
 Anemia has occurred in NSAID-treated patients.
 This may be due to occult or gross blood loss, fluid retention, or an incompletely described effect upon erythropoiesis.
 If a patient treated with CATAFLAM has any signs or symptoms of anemia, monitor hemoglobin or hematocrit.
 
 NSAIDs, including CATAFLAM, may increase the risk of bleeding events.
-Co-morbid conditions such as coagulation disorders, concomitant use of warfarin and other anticoagulants, antiplatelet agents (e.g., aspirin), serotonin reuptake inhibitors (SSRIs) and serotonin norepinephrine reuptake inhibitors (SNRIs) may increase this risk.
+Comorbid conditions, such as coagulation disorders, concomitant use of warfarin and other anticoagulants, antiplatelet agents (e.g., aspirin), serotonin reuptake inhibitors (SSRIs) and serotonin norepinephrine reuptake inhibitors (SNRIs) may increase this risk.
 Monitor these patients for signs of bleeding (see PRECAUTIONS; Drug Interactions).
 
 # PRECAUTIONS

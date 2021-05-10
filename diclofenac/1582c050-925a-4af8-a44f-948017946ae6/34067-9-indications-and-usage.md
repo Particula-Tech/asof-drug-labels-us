@@ -5,7 +5,7 @@ Use the lowest effective dose for the shortest duration consistent with individu
 
 CATAFLAM is indicated:
 
-- For treatment of primary dysmenorrhea
-- For relief of mild to moderate pain
-- For relief of the signs and symptoms of osteoarthritis
-- For relief of the signs and symptoms of rheumatoid arthritis
+- for treatment of primary dysmenorrhea
+- for relief of mild to moderate pain
+- for relief of the signs and symptoms of osteoarthritis
+- for relief of the signs and symptoms of rheumatoid arthritis

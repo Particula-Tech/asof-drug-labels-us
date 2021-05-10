@@ -2,12 +2,13 @@
 
 See Table 2 for clinically significant drug interactions with diclofenac.
 
-Table 2: Clinically Significant Drug Interactions with Diclofenac
+Table 2.
+Clinically Significant Drug Interactions with Diclofenac
 
 | Drugs That Interfere with Hemostasis |  |
 | --- | --- |
-| Clinical Impact: | Diclofenac and anticoagulants such as warfarin have a synergistic effect on bleeding. The concomitant use of diclofenac and anticoagulants have an increased risk of serious bleeding compared to the use of either drug alone.Serotonin release by platelets plays an important role in hemostasis. Case-control and cohort epidemiological studies showed that concomitant use of drugs that interfere with serotonin reuptake and an NSAID may potentiate the risk of bleeding more than an NSAID alone. |
-| Intervention: | Monitor patients with concomitant use of CATAFLAM with anticoagulants (e.g., warfarin), antiplatelet agents (e.g., aspirin), selective serotonin reuptake inhibitors (SSRIs), and serotonin norepinephrine reuptake inhibitors (SNRIs) for signs of bleeding (see WARNINGS; Hematological Toxicity). |
+| Clinical Impact: | Diclofenac and anticoagulants, such as warfarin have a synergistic effect on bleeding. The concomitant use of diclofenac and anticoagulants have an increased risk of serious bleeding compared to the use of either drug alone.Serotonin release by platelets plays an important role in hemostasis. Case-control and cohort epidemiological studies showed that concomitant use of drugs that interfere with serotonin reuptake and an NSAID may potentiate the risk of bleeding more than an NSAID alone. |
+| Intervention: | Monitor patients with concomitant use of CATAFLAM with anticoagulants (e.g., warfarin), antiplatelet agents (e.g., aspirin), selective serotonin reuptake inhibitors (SSRIs), and serotonin norepinephrine reuptake inhibitors (SNRIs) for signs of bleeding (see WARNINGS; Hematologic Toxicity). |
 | Aspirin |  |
 | Clinical Impact: | Controlled clinical studies showed that the concomitant use of NSAIDs and analgesic doses of aspirin does not produce any greater therapeutic effect than the use of NSAIDs alone. In a clinical study, the concomitant use of an NSAID and aspirin was associated with a significantly increased incidence of GI adverse reactions as compared to use of the NSAID alone (see WARNINGS; Gastrointestinal Bleeding, Ulceration, and Perforation). |
 | Intervention: | Concomitant use of CATAFLAM and analgesic doses of aspirin is not generally recommended because of the increased risk of bleeding (see WARNINGS; Hematological Toxicity). CATAFLAM is not a substitute for low dose aspirin for cardiovascular protection. |
@@ -36,5 +37,5 @@ Table 2: Clinically Significant Drug Interactions with Diclofenac
 | Clinical Impact: | Concomitant use of CATAFLAM and pemetrexed may increase the risk of pemetrexed-associated myelosuppression, renal, and GI toxicity (see the pemetrexed prescribing information). |
 | Intervention: | During concomitant use of CATAFLAM and pemetrexed, in patients with renal impairment whose creatinine clearance ranges from 45 to 79 mL/min, monitor for myelosuppression, renal and GI toxicity. NSAIDs with short elimination half-lives (e.g., diclofenac, indomethacin) should be avoided for a period of two days before, the day of, and two days following administration of pemetrexed.In the absence of data regarding potential interaction between pemetrexed and NSAIDs with longer half-lives (e.g., meloxicam, nabumetone), patients taking these NSAIDs should interrupt dosing for at least five days before, the day of, and two days following pemetrexed administration. |
 | CYP2C9 Inhibitors or Inducers: |  |
-| Clinical Impact: | Diclofenac is metabolized by cytochrome P450 enzymes, predominantly by CYP2C9. Co-administration of diclofenac with CYP2C9 inhibitors (e.g. voriconazole) may enhance the exposure and toxicity of diclofenac whereas co-administration with CYP2C9 inducers (e.g. rifampin) may lead to compromised efficacy of diclofenac. |
+| Clinical Impact: | Diclofenac is metabolized by cytochrome P450 enzymes, predominantly by CYP2C9. Co-administration of diclofenac with CYP2C9 inhibitors (e.g. voriconazole) may enhance the exposure and toxicity of diclofenac whereas co-administration with CYP2C9 inducers (e.g., rifampin) may lead to compromised efficacy of diclofenac. |
 | Intervention: | A dosage adjustment may be warranted when diclofenac is administered with CYP2C9 inhibitors or inducers (see CLINICAL PHARMACOLOGY; Pharmacokinetics). |
