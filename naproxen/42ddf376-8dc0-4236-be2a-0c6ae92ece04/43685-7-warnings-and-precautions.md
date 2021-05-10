@@ -201,7 +201,7 @@ These serious events may occur without warning.
 Inform patients about the signs and symptoms of serious skin reactions and to discontinue the use of TREXIMET at the first appearance of skin rash or any other sign of hypersensitivity.
 TREXIMET is contraindicated in patients with previous serious skin reactions to NSAIDs [see Contraindications (4)].
 
-## 5.15 Drug Rash with Eosinophilia and Systemic Symptoms (DRESS)
+## 5.15 Drug Reaction with Eosinophilia and Systemic Symptoms (DRESS)
 
 Drug Reaction with Eosinophilia and Systemic Symptoms (DRESS) has been reported in patients taking NSAIDs such as TREXIMET.
 Some of these events have been fatal or life-threatening.
@@ -215,12 +215,12 @@ If such signs or symptoms are present, discontinue TREXIMET and evaluate the pat
 
 ## 5.16 Fetal Toxicity
 
-Premature Closure of Fetal Ductus Arteriosus:
+Premature Closure of Fetal Ductus Arteriosus
 
 Avoid use of NSAIDs, including TREXIMET, in pregnant women at about 30 weeks gestation and later.
 NSAIDs, including TREXIMET, increase the risk of premature closure of the fetal ductus arteriosus at approximately this gestational age.
 
-Oligohydramnios/Neonatal Renal Impairment:
+Oligohydramnios/Neonatal Renal Impairment
 
 Use of NSAIDs, including TREXIMET, at about 20 weeks gestation or later in pregnancy may cause fetal renal dysfunction leading to oligohydramnios and, in some cases, neonatal renal impairment.
 These adverse outcomes are seen, on average, after days to weeks of treatment, although oligohydramnios has been infrequently reported as soon as 48 hours after NSAID initiation.

@@ -38,9 +38,13 @@ Fetal Toxicity
 Inform pregnant women to avoid use of TREXIMET and other NSAIDs starting at 30 weeks gestation because of the risk of the premature closing of the fetal ductus arteriosus.
 If treatment with TREXIMET is needed for a pregnant woman between about 20 to 30 weeks gestation, advise her that she may need to be monitored for oligohydramnios, if treatment continues for longer than 48 hours [see Warnings and Precautions (5.16), Use in Specific Populations (8.1)].
 
-Nursing Mothers
+Lactation
 
-Advise patients to notify their healthcare provider if they are breastfeeding or plan to breastfeed [see Use in Specific Populations (8.3)].
+Advise patients to notify their healthcare provider if they are breastfeeding or plan to breastfeed [see Use in Specific Populations (8.2)].
+
+Female Fertility
+
+Advise females of reproductive potential who desire pregnancy that NSAIDs, including TREXIMET, may be associated with a reversible delay in ovulation [see Use in Specific Populations (8.3)].
 
 Heart Failure and Edema
 

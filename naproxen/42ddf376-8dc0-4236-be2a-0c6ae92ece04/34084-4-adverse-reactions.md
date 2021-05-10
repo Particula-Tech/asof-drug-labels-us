@@ -16,6 +16,7 @@ The following serious adverse reactions are described below and elsewhere in lab
 - Renal Toxicity and Hyperkalemia [see Warnings and Precautions (5.12)]
 - Anaphylactic Reactions [see Warnings and Precautions (5.13)]
 - Serious Skin Reactions [see Warnings and Precautions (5.14)]
+- Drug Reaction with Eosinophilia and Systemic Symptoms (DRESS) [see Warnings and Precautions (5.15)]
 - Hematological Toxicity [see Warnings and Precautions (5.17)]
 - Exacerbation Asthma Related to Aspirin Sensitivity [see Warnings and Precautions (5.18)]
 - Seizures [see Warnings and Precautions (5.19)]

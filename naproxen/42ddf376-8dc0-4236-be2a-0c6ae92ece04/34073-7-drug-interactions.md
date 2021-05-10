@@ -2,7 +2,7 @@
 
 ## 7.1 Clinically Significant Drug Interactions with TREXIMET
 
-See Table 3 for clinically significant drug interactions with NSAIDs or Sumatriptan
+See Table 3 for clinically significant drug interactions with NSAIDs or Sumatriptan.
 
 Table 3.
 Clinically Significant Drug Interactions with naproxen or sumatriptan

@@ -14,5 +14,4 @@ TREXIMET is contraindicated in the following patients:
 - History of asthma, urticaria, or allergic-type reactions after taking aspirin or other NSAIDs.
   Severe, sometimes fatal, anaphylactic reactions to NSAIDs have been reported in such patients [see Warnings and Precautions (5.13, 5.14, 5.18)].
 - Known hypersensitivity (e.g., anaphylactic reactions, angioedema, and serious skin reactions) to sumatriptan, naproxen, or any components of TREXIMET [see Warnings and Precautions (5.14)].
-- Third trimester of pregnancy [see Warnings and Precautions (5.16), Use in Specific Populations (8.1)].
 - Severe hepatic impairment [see Warnings and Precautions (5.7), Use in Specific Populations (8.7), Clinical Pharmacology (12.3)].
