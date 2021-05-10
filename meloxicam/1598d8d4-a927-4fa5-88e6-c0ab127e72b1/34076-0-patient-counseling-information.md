@@ -32,25 +32,23 @@ Anaphylactic Reactions
 Inform patients of the signs of an anaphylactic reaction (e.g., difficulty breathing, swelling of the face or throat).
 Instruct patients to seek immediate emergency help if these occur [see Contraindications (4) and Warnings and Precautions (5.7)].
 
-Serious Skin Reactions
+Serious Skin Reactions, including DRESS
 
-Advise patients to stop QMIIZ ODT immediately if they develop any type of rash and to contact their healthcare provider as soon as possible [see Warnings and Precautions (5.9)].
+Advise patients to stop taking QMIIZ ODT immediately if they develop any type of rash or fever and to contact their healthcare provider as soon as possible [see Warnings and Precautions (5.9, 5.10)].
 
 Fertility
 
-Female Fertility
+- Female Fertility
+- Advise females of reproductive potential who desire pregnancy that NSAIDs, including QMIIZ ODT, may be associated with a reversible delay in ovulation [see Use in Specific Populations (8.3)].
 
-Advise females of reproductive potential who desire pregnancy that NSAIDs, including QMIIZ ODT, may be associated with a reversible delay in ovulation [see Use in Specific Populations (8.3)].
-
-Male Fertility
-
-Advise males of reproductive potential that QMIIZ ODT may compromise fertility.
-It is not known, if these effects are reversible [see Use in Specific Populations (8.3)].
+- Male Fertility
+- Advise males of reproductive potential that QMIIZ ODT may compromise fertility.
+  It is not known, if these effects are reversible [see Use in Specific Populations (8.3)].
 
 Fetal Toxicity
 
-Advise pregnant women to avoid use of QMIIZ ODT after 30 weeks gestation because of the risk of the premature closing of the fetal ductus arteriosus.
-Advise females of reproductive potential to contact their healthcare provider with a known or suspected pregnancy [see Warnings and Precautions (5.10) and Use in Specific Populations (8.1)].
+Inform pregnant women to avoid use of QMIIZ ODT and other NSAIDs starting at 30 weeks gestation because of the risk of the premature closing of the fetal ductus arteriosus.
+If treatment with QMIIZ ODT is needed for a pregnant woman between about 20 to 30 weeks gestation, advise her that she may need to be monitored for oligohydramnios, if treatment continues for longer than 48 hours [see Warnings and Precautions (5.11) and Use in Specific Populations (8.1)].
 
 Avoid Concomitant Use of NSAIDs
 
@@ -64,9 +62,9 @@ Inform patients not to use low-dose aspirin concomitantly with QMIIZ ODT until t
 Phenylketonuria
 
 Inform phenylketonuric patients that QMIIZ ODT contains phenylalanine (a component of aspartame).
-Each 7.5-mg orally disintegrating tablet contains 0.30 mg phenylalanine, and each 15-mg orally disintegrating tablet contains 0.59 mg phenylalanine [see Warnings and Precautions (5.14)].
+Each 7.5-mg orally disintegrating tablet contains 0.30 mg phenylalanine, and each 15-mg orally disintegrating tablet contains 0.59 mg phenylalanine [see Warnings and Precautions (5.13)].
 
-Manufactured for: TerSera Therapeutics LLC Lake Forest, IL 60045
+Manufactured for: TerSera Therapeutics LLC, Deerfield, IL 60015
 
-Manufactured by: Catalent Pharma Solutions, Limited Swindon, Wiltshire, SN5 8RU, UK QMIIZ™ ODT is a trademark of TerSera Therapeutics LLC. © 2019 TerSera Therapeutics LLC.
-Rev: 07/2019
+Manufactured by: Catalent Pharma Solutions, Limited Swindon, Wiltshire, SN5 8RU, UK QMIIZ™ ODT is a trademark of TerSera Therapeutics LLC. © 2021 TerSera Therapeutics LLC.
+Rev: 04/2021
