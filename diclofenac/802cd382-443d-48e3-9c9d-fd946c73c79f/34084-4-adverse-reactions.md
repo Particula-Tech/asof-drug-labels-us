@@ -10,11 +10,13 @@ The following adverse reactions are discussed in greater detail in other section
 - Renal Toxicity and Hyperkalemia [see Warnings and Precautions (5.6)]
 - Anaphylactic Reactions [see Warnings and Precautions (5.7)]
 - Serious Skin Reactions [see Warnings and Precautions (5.9)]
-- Hematologic Toxicity [see Warnings and Precautions (5.11)]
+- Hematologic Toxicity [see Warnings and Precautions (5.12)]
 
 ## 6.1 Clinical Trials Experience
 
 Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in practice.
+
+PENNSAID
 
 The data described below reflect exposure to PENNSAID of 130 patients treated for 4 weeks (mean duration of 28 days) in one Phase 2 controlled trial.
 This population's mean age was approximately 60 years, 85% of patients were Caucasian, 65% were females, and all patients had primary osteoarthritis.

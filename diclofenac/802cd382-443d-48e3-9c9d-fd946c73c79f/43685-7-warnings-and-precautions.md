@@ -151,12 +151,38 @@ PENNSAID is contraindicated in patients with previous serious skin reactions to 
 
 Do not apply PENNSAID to open skin wounds, infections, inflammations, or exfoliative dermatitis, as it may affect absorption and tolerability of the drug.
 
-## 5.10 Premature Closure of Fetal Ductus Arteriosus
+## 5.10 Drug Reaction with Eosinophilia and Systemic Symptoms (DRESS)
 
-Diclofenac may cause premature closure of the fetal ductus arteriosus.
-Avoid use of NSAIDs, including PENNSAID, in pregnant women starting at 30 weeks of gestation (third trimester) [see Use in Specific Populations (8.1)].
+Drug Reaction with Eosinophilia and Systemic Symptoms (DRESS) has been reported in patients taking NSAIDs such as PENNSAID.
+Some of these events have been fatal or life-threatening.
+DRESS typically, although not exclusively, presents with fever, rash, lymphadenopathy, and/or facial swelling.
+Other clinical manifestations may include hepatitis, nephritis, hematological abnormalities, myocarditis, or myositis.
+Sometimes symptoms of DRESS may resemble an acute viral infection.
+Eosinophilia is often present.
+Because this disorder is variable in its presentation, other organ systems not noted here may be involved.
+It is important to note that early manifestations of hypersensitivity, such as fever or lymphadenopathy, may be present even though rash is not evident.
+If such signs or symptoms are present, discontinue PENNSAID and evaluate the patient immediately.
 
-## 5.11 Hematologic Toxicity
+## 5.11 Fetal Toxicity
+
+Premature Closure of Fetal Ductus Arteriosus
+
+Avoid use of NSAIDs, including PENNSAID, in pregnant women at about 30 weeks gestation and later.
+NSAIDs, including PENNSAID, increase the risk of premature closure of the fetal ductus arteriosus at approximately this gestational age.
+
+Oligohydramnios/Neonatal Renal Impairment
+
+Use of NSAIDs, including PENNSAID, at about 20 weeks gestation or later in pregnancy may cause fetal renal dysfunction leading to oligohydramnios and, in some cases, neonatal renal impairment.
+These adverse outcomes are seen, on average, after days to weeks of treatment, although oligohydramnios has been infrequently reported as soon as 48 hours after NSAID initiation.
+Oligohydramnios is often, but not always, reversible with treatment discontinuation.
+Complications of prolonged oligohydramnios may, for example, include limb contractures and delayed lung maturation.
+In some postmarketing cases of impaired neonatal renal function, invasive procedures such as exchange transfusion or dialysis were required.
+
+If NSAID treatment is necessary between about 20 and 30 weeks gestation, limit PENNSAID use to the lowest effective dose and shortest duration possible.
+Consider ultrasound monitoring of amniotic fluid if PENNSAID treatment extends beyond 48 hours.
+Discontinue PENNSAID if oligohydramnios occurs and follow up according to clinical practice [see Use in Specific Populations (8.1)].
+
+## 5.12 Hematologic Toxicity
 
 Anemia has occurred in NSAID-treated patients.
 This may be due to occult or gross blood loss, fluid retention, or an incompletely described effect on erythropoiesis.
@@ -166,25 +192,25 @@ NSAIDs, including PENNSAID, may increase the risk of bleeding events.
 Co-morbid conditions such as coagulation disorders or concomitant use of warfarin, other anticoagulants, antiplatelet agents (e.g., aspirin), serotonin reuptake inhibitors (SSRIs) and serotonin norepinephrine reuptake inhibitors (SNRIs) may increase this risk.
 Monitor these patients for signs of bleeding [see Drug Interactions (7)].
 
-## 5.12 Masking of Inflammation and Fever
+## 5.13 Masking of Inflammation and Fever
 
 The pharmacological activity of PENNSAID in reducing inflammation, and possibly fever, may diminish the utility of diagnostic signs in detecting infections.
 
-## 5.13 Laboratory Monitoring
+## 5.14 Laboratory Monitoring
 
 Because serious GI bleeding, hepatotoxicity, and renal injury can occur without warning symptoms or signs, consider monitoring patients on long-term NSAID treatment with a CBC and a chemistry profile periodically [see Warnings and Precautions (5.2, 5.3, 5.6)].
 
-## 5.14 Sun Exposure
+## 5.15 Sun Exposure
 
 Instruct patients to avoid exposure to natural or artificial sunlight on treated knee(s) because studies in animals indicated topical diclofenac treatment resulted in an earlier onset of ultraviolet light-induced skin tumors.
 The potential effects of PENNSAID on skin response to ultraviolet damage in humans are not known.
 
-## 5.15 Eye Exposure
+## 5.16 Eye Exposure
 
 Avoid contact of PENNSAID with eyes and mucosa.
 Advise patients that if eye contact occurs, immediately wash out the eye with water or saline and consult a physician if irritation persists for more than an hour.
 
-## 5.16 Oral Nonsteroidal Anti-Inflammatory Drugs
+## 5.17 Oral Nonsteroidal Anti-Inflammatory Drugs
 
 Concomitant use of oral NSAIDs with PENNSAID 1.5% resulted in a higher rate of rectal hemorrhage, more frequent abnormal creatinine, urea and hemoglobin.
 Therefore, do not use combination therapy with PENNSAID and an oral NSAID unless the benefit outweighs the risk and conduct periodic laboratory evaluations.

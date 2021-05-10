@@ -1,5 +1,9 @@
-Distributed by: Horizon Medicines LLC Lake Forest, IL 60045
+Distributed by: Horizon Medicines LLC Deerfield, IL 60015
 
-Distributed by: Horizon Medicines LLC Lake Forest, IL 60045 USA
+PEN-US-PI-001
 
-Revised 3/2020
+Distributed by: Horizon Medicines LLC Deerfield, IL 60015 USA
+
+Revised 4/2021
+
+PEN-US-IFU-001
