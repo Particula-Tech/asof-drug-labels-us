@@ -1,10 +1,12 @@
 {
   "application_numbers": [
+    "NDA021825",
     "NDA212269"
   ],
   "inn": "deferiprone",
   "labeler": "Chiesi USA, Inc.",
   "package_ndcs": [
+    "10122-103-05",
     "10122-104-01"
   ],
   "products": [

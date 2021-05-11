@@ -3,16 +3,19 @@
 Advise the patient to read the FDA-approved patient labeling (Medication Guide)
 
 - Instruct patients and their caregivers to store FERRIPROX at 68°F to 77°F (20°C to 25°C); excursions permitted to 59°F to 86°F (15°C to 30°C) [see USP Controlled Room Temperature].
-- FERRIPROX tablets (three times a day):Store in the originally supplied bottle, closed tightly to protect from moisture.Advise patients to take the first dose of FERRIPROX in the morning, the second dose at midday, and the third dose in the evening.
+- FERRIPROX Tablets (three times a day): Store in the originally supplied bottle, closed tightly to protect from moisture.
+  Advise patients to take the first dose of FERRIPROX in the morning, the second dose at midday, and the third dose in the evening.
   Clinical experience suggests that taking FERRIPROX with meals may reduce nausea.
-- FERRIPROX tablets (twice a day):Advise patients to take the first dose of FERRIPROX tablets (twice a day) in the morning and the second in the evening.Advise patients to take FERRIPROX tablets (twice a day) with food to reduce the risk of nausea and vomiting.Advise patients to avoid alcohol while taking FERRIPROX tablets (twice a day).
-  Consumption of alcohol while taking FERRIPROX tablets (twice a day) may result in more rapid release of deferiprone.
+- FERRIPROX Tablets (twice a day): Advise patients to take the first dose of FERRIPROX Tablets (twice a day) in the morning and the second in the evening.
+  Advise patients to take FERRIPROX Tablets (twice a day) with food to reduce the risk of nausea and vomiting.
+  Advise patients to avoid alcohol while taking FERRIPROX Tablets (twice a day).
+  Consumption of alcohol while taking FERRIPROX Tablets (twice a day) may result in more rapid release of deferiprone.
 - If a dose of this medicine has been missed, take it as soon as possible.
   However, if it is almost time for the next dose, skip the missed dose and go back to the regular dosing schedule.
   Do not catch-up or double doses.
 - Inform patients of the risks of developing agranulocytosis and instruct them to immediately interrupt therapy and report to their physician if they experience any symptoms of infection such as fever, sore throat or flu-like symptoms.
 - Advise patients to contact their physician in the event of overdose.
-- Inform patients that their urine might show a reddish/brown discoloration due to the excretion of iron.
+- Inform patients that their urine might show a reddish/brown discoloration due to the excretion of the iron-deferiprone complex.
   This is a very common sign of the desired effect, and it is not harmful.
 
 Embryo-Fetal toxicity
@@ -29,4 +32,4 @@ Advise females not to breastfeed during treatment with FERRIPROX and for at leas
 Distributed by Chiesi USA, Inc., Cary, NC 27518.
 Manufactured by Apotex Inc., Toronto, Ontario, Canada, M9L 1T9.
 
-CTFD-001-0320-00-SPL
+CTFD-001-0620-01-SPL

@@ -2,25 +2,27 @@
 
 ## 2.1 Important Dosage and Administration Information
 
-FERRIPROX is available in two different 1,000 mg tablet formulations, which have different oral dosing regimens to achieve the same total daily dosage.
+FERRIPROX Tablets are available in two different 1,000 mg formulations, which have different oral dosing regimens to achieve the same total daily dosage.
 
-- FERRIPROX (three times a day) is given three times a day [see Dosage and Administration (2.2)]
-- FERRIPROX (twice a day) is given two times a day [see Dosage and Administration (2.3)]
+- FERRIPROX Tablets (three times a day) are given three times a day [see Dosage and Administration (2.2)]
+- FERRIPROX Tablets (twice a day) are given two times a day [see Dosage and Administration (2.3)]
 
 To prevent medication errors, before prescribing and dispensing, ensure that the tablet formulation is appropriate for the dosing regimen.
-Each tablet has different identifying characteristics [see Dosage Forms and Strengths (3)].
+Each tablet has distinct identifying characteristics [see Dosage Forms and Strengths (3)].
 
-## 2.2 Recommended Dosage for FERRIPROX (three times a day)
+For patients who have trouble swallowing tablets, consider the use of FERRIPROX Oral Solution (see the prescribing information for FERRIPROX Oral Solution).
+
+## 2.2 Recommended Dosage for FERRIPROX Tablets (three times a day) for Adult and Pediatric Patients with Transfusional Iron Overload due to Thalassemia Syndromes, Sickle Cell Disease or Other Anemias
 
 Starting Dosage for Three Times a Day Tablets
 
-The recommended starting oral dosage of FERRIPROX (three times a day) is 75 mg/kg/day (actual body weight), in three divided doses per day.
-Table 1 describes the number of FERRIPROX tablets (three times a day) needed to achieve the 75 mg/kg/day total starting dosage).
+The recommended starting oral dosage of FERRIPROX Tablets (three times a day) is 75 mg/kg/day (actual body weight), in three divided doses per day.
+Table 1 describes the number of FERRIPROX Tablets (three times a day) needed to achieve the 75 mg/kg/day total starting dosage).
 Round dose to the nearest 500 mg (half-tablet).
 
-Table 1: FERRIPROX Tablets (three times a day) Needed to Achieve the Total Starting Daily Dosage of 75 mg/kg (rounded to the nearest half-tablet)
+Table 1: Number of FERRIPROX Tablets (three times a day) Needed to Achieve the Total Starting Daily Dosage of 75 mg/kg (rounded to the nearest half-tablet)
 
-| Body Weight(kg) | Morning | Midday | Evening |
+| Body Weight (kg) | Morning | Midday | Evening |
 | --- | --- | --- | --- |
 | 20 | 0.5 | 0.5 | 0.5 |
 | 30 | 1 | 0.5 | 1 |
@@ -31,13 +33,15 @@ Table 1: FERRIPROX Tablets (three times a day) Needed to Achieve the Total Start
 | 80 | 2 | 2 | 2 |
 | 90 | 2.5 | 2 | 2.5 |
 
+To minimize gastrointestinal upset when first starting therapy, dosing can start at 45 mg/kg/day and increase weekly by 15 mg/kg/day increments until the full prescribed dose is achieved.
+
 Dosage Adjustments for Three Times Daily Tablets
 
-Tailor dosage adjustments for FERRIPROX (three times a day) to the individual patient’s response and therapeutic goals (maintenance or reduction of body iron burden).
-The maximum oral dosage is 99 mg/kg/day (actual body weight), orally, in three divided doses per day.
-Table 2 describes the number of FERRIPROX tablets (three times a day) needed to achieve the 99 mg/day total maximum daily dosage.
+Tailor dosage adjustments for FERRIPROX Tablets (three times a day) to the individual patient's response and therapeutic goals (maintenance or reduction of body iron burden).
+The maximum oral dosage is 99 mg/kg/day (actual body weight), in three divided doses per day.
+Table 2 describes the number of FERRIPROX Tablets (three times a day) needed to achieve the 99 mg/day total maximum daily dosage.
 
-Table 2: Number of FERRIPROX Tablets (three times daily) Needed to Achieve the Maximum Total Daily Dosage of 99 mg/kg (rounded to the nearest half-tablet)
+Table 2: Number of FERRIPROX Tablets (three times a day) Needed to Achieve the Maximum Total Daily Dosage of 99 mg/kg (rounded to the nearest half-tablet)
 
 | Body Weight (kg) | Morning | Midday | Evening |
 | --- | --- | --- | --- |
@@ -50,17 +54,17 @@ Table 2: Number of FERRIPROX Tablets (three times daily) Needed to Achieve the M
 | 80 | 2.5 | 2.5 | 3 |
 | 90 | 3 | 3 | 3 |
 
-## 2.3 Recommended Dosage for FERRIPROX (twice a day)
+## 2.3 Recommended Dosage for FERRIPROX Tablets (twice a day) for Adult and Pediatric Patients with Transfusional Iron Overload due to Thalassemia Syndromes, Sickle Cell Disease or Other Anemias
 
-Starting Dosage for Twice Daily Tablets
+Starting Dosage for Twice a Day Tablets
 
-The recommended starting oral dosage of FERRIPROX (twice a day) is 75 mg/kg/day (actual body weight) in two divided doses per day (taken approximately 12 hours apart), with food.
+The recommended starting oral dosage of FERRIPROX Tablets (twice a day) is 75 mg/kg/day (actual body weight) in two divided doses per day (taken approximately 12 hours apart), with food.
 Round the total daily dose to the nearest 500 mg (half-tablet).
-Table 3 describes the number of FERRIPROX tablets (twice a day) needed to achieve the 75 mg/kg/day total starting daily dosage.
+Table 3 describes the number of FERRIPROX Tablets (twice a day) needed to achieve the 75 mg/kg/day total starting daily dosage.
 
 Table 3: Number of FERRIPROX Tablets (twice a day) Needed to Achieve the Total Starting Daily Dosage of 75 mg/kg (rounded to the nearest half-tablet)
 
-| Body Weight(kg) | Morning | Evening |
+| Body Weight (kg) | Morning | Evening |
 | --- | --- | --- |
 | 20 | 0.5 | 1 |
 | 30 | 1 | 1.5 |
@@ -71,15 +75,17 @@ Table 3: Number of FERRIPROX Tablets (twice a day) Needed to Achieve the Total S
 | 80 | 3 | 3 |
 | 90 | 3.5 | 3.5 |
 
+To minimize gastrointestinal upset when first starting therapy, dosing can start at 45 mg/kg/day and increase weekly by 15 mg/kg/day increments until the full prescribed dose is achieved.
+
 Dosage Adjustments for Twice a Day Tablets
 
-Tailor dosage adjustments of FERRIPROX (twice daily) to the individual patient’s response and therapeutic goals (maintenance or reduction of body iron burden).
+Tailor dosage adjustments of FERRIPROX Tablets (twice a day) to the individual patient's response and therapeutic goals (maintenance or reduction of body iron burden).
 The maximum total daily oral dosage is 99 mg/kg (actual body weight) divided into two doses taken approximately 12 hours apart with food.
-Table 4 describes the number of FERRIPROX tablets (twice a day) needed to achieve the 99 mg/day total maximum daily dosage.
+Table 4 describes the number of FERRIPROX Tablets (twice a day) needed to achieve the 99 mg/day total maximum daily dosage.
 
 Table 4: Number of FERRIPROX Tablets (twice a day) Needed to Achieve a Total Maximum Recommended Daily Dosage of 99 mg/kg (rounded to the nearest half-tablet)
 
-| Body Weight(kg) | Morning | Evening |
+| Body Weight (kg) | Morning | Evening |
 | --- | --- | --- |
 | 20 | 1 | 1 |
 | 30 | 1.5 | 1.5 |

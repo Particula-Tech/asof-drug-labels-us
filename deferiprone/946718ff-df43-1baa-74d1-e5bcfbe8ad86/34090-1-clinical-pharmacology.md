@@ -2,7 +2,7 @@
 
 ## 12.1 Mechanism of Action
 
-Deferiprone is a chelating agent with an affinity for ferric ion (iron III).
+Deferiprone is a chelating agent with an affinity for ferric ions (iron III).
 Deferiprone binds with ferric ions to form neutral 3:1 (deferiprone:iron) complexes that are stable at physiological pH.
 
 ## 12.2 Pharmacodynamics
@@ -15,7 +15,7 @@ At the maximum approved recommended dose, deferiprone does not prolong the QT in
 
 ## 12.3 Pharmacokinetics
 
-FERRIPROX tablets (three times a day)
+FERRIPROX Tablets (three times a day)
 
 The mean Cmax and AUC of deferiprone was 20 mcg/mL and 50 mcg∙h/mL, respectively, in healthy subjects.
 The dose proportionality of deferiprone over the approved recommended dosage range is unknown.
@@ -42,17 +42,17 @@ Excretion
 
 Following oral administration, 75% to 90% of the administered dose was recovered in urine (primarily as metabolite) in the first 24 hours.
 
-FERRIPROX tablets (twice a day)
+FERRIPROX Tablets (twice a day)
 
-In healthy subjects, the mean ± SD Cmax of deferiprone in serum was 6 ± 2 mcg/mL, and the mean ± SD AUC was 28 ± 7 mcg∙h/mL following oral administration of a 1,000 mg dose of FERRIPROX tablets (twice a day) with food.
+In healthy subjects, the mean ± SD Cmax of deferiprone in serum was 6 ± 2 mcg/mL, and the mean ± SD AUC was 28 ± 7 mcg∙h/mL following oral administration of a 1,000 mg dose of FERRIPROX Tablets (twice a day) with food.
 
 Absorption
 
-Peak serum concentrations of deferiprone occur approximately 2 hours after a single dose of FERRIPROX tablets (twice a day) in fasted healthy subjects.
+Peak serum concentrations of deferiprone occur approximately 2 hours after a single dose of FERRIPROX Tablets (twice a day) in fasted healthy subjects.
 
 Effect of Food
 
-Following the administration of FERRIPROX tablets (twice a day) to healthy volunteers, the Cmax and the AUC of deferiprone remain unchanged after a high-fat meal (approximately 1000 calories, 53% fat, 33% carbohydrates, and 14% protein) compared to fasted conditions.
+Following the administration of FERRIPROX Tablets (twice a day) to healthy volunteers, the Cmax and the AUC of deferiprone remain unchanged after a high-fat meal (approximately 1,000 calories, 53% fat, 33% carbohydrates, and 14% protein) compared to fasted conditions.
 
 Effect of Alcohol
 
@@ -60,11 +60,11 @@ At 40% (v/v) alcohol concentration in vitro dissolution studies, there was 88% r
 
 Distribution
 
-The apparent mean ± SD volume of distribution (V/F) of deferiprone was 97 ± 28 L following oral administration of a 1000 mg dose of FERRIPROX tablets (twice a day) with food.
+The apparent mean ± SD volume of distribution (V/F) of deferiprone was 97 ± 28 L following oral administration of a 1,000 mg dose of FERRIPROX Tablets (twice a day) with food.
 
 Elimination
 
-The mean ± SD elimination half-life of deferiprone is 1.8 ± 0.3 hours following the administration of FERRIPROX tablets (twice a day).
+The mean ± SD elimination half-life of deferiprone is 1.8 ± 0.3 hours following the administration of FERRIPROX Tablets (twice a day).
 
 Metabolism
 

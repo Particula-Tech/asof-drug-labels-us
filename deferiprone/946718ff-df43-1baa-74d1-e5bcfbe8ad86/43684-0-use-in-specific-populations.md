@@ -1,11 +1,11 @@
-# 8 USE IN SPECIFIC POPULATIONS
+# 8 USE IN SPECIFIC POPULATIONs
 
 ## 8.1 Pregnancy
 
 Risk Summary
 
 In animal reproduction studies, oral administration of deferiprone to pregnant rats and rabbits during organogenesis at doses 33% and 49%, respectively, of the maximum recommended human dose (MRHD) resulted in structural abnormalities, embryo-fetal mortality and alterations to growth (see Data).
-The limited available data deferiprone use in pregnant women are insufficient to inform a drug-associated risk of major birth defects and miscarriage.
+The limited available data from deferiprone use in pregnant women are insufficient to inform a drug-associated risk of major birth defects and miscarriage.
 Based on evidence and developmental toxicity in animal studies, FERRIPROX can cause fetal harm when administered to a pregnant woman.
 Advise pregnant women and females of reproductive potential of the potential risk to a fetus.
 
@@ -39,7 +39,7 @@ Risk Summary
 
 There is no information regarding the presence of deferiprone in human milk, the effects on the breastfed child, or the effects on milk production.
 
-Because of the potential for serious adverse reactions in the breastfed child, including the potential for tumorigenicity shown for deferiprone in animal studies, advise patients that breastfeeding is not recommended during FERRIPROX, and for at least 2 weeks after the last dose.
+Because of the potential for serious adverse reactions in the breastfed child, including the potential for tumorigenicity shown for deferiprone in animal studies, advise patients that breastfeeding is not recommended during treatment with FERRIPROX, and for at least 2 weeks after the last dose.
 
 ## 8.3 Females and Males of Reproductive Potential
 
@@ -60,7 +60,20 @@ Based on genotoxicity findings, advise males with female partners of reproductiv
 
 ## 8.4 Pediatric Use
 
-Safety and effectiveness in pediatric patients have not been established.
+The safety and effectiveness of FERRIPROX for the treatment of transfusional iron overload due to thalassemia syndromes have been established in pediatric patients 8 years of age and older.
+Use of FERRIPROX for this indication is supported by evidence of efficacy from clinical trials in adult patients with thalassemia and evidence of safety in pediatric patients with sickle cell disease.
+
+The safety and effectiveness of FERRIPROX for the treatment of transfusional iron overload due to sickle cell disease or other anemias have been established in 86 pediatric patients 3 to 16 years of age, among the 152 patients treated with FERRIPROX Tablets or Oral Solution in an adequate and well-controlled study [see Adverse Reactions (6.1) and Clinical Studies (14.2)].
+The study included 56 patients 3 to <12 years of age and 30 patients 12 to 16 years of age.
+Seventy-six percent of these patients had sickle cell disease.
+The recommended starting dose and dose-modifications are the same for children and adults [see Indications and Usage (1), Dosage and Administration (2.1), and Clinical Studies (14)].
+
+Fourteen patients with spherocytosis (including hereditary) (ages 3-15), two patients with pyruvate kinase deficiency (ages 4 and 6), two patients with dyserythropoietic anemia (ages 10-12) and two patients with hemolytic anemia (ages 8 and 10 years old) were treated with FERRIPROX in the clinical trial, LA38-0411.
+
+A US registry established from December 2011 through December 2019, contains 125 patients from 4 to < 17 years old who have received FERRIPROX and have sickle cell disease.
+The adverse reactions, including agranulocytosis, seen in the 8 year period of the registry are similar to those seen in the most recent clinical studies.
+
+Safety and effectiveness of FERRIPROX Tablets have not been established in pediatric patients with chronic iron overload due to blood transfusions who are less than 8 years of age.
 
 ## 8.5 Geriatric Use
 
