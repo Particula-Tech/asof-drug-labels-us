@@ -47,7 +47,7 @@ Risk Summary
 
 There is no information regarding the presence of dapagliflozin in human milk, the effects on the breastfed infant, or the effects on milk production.
 Dapagliflozin is present in the milk of lactating rats (see Data).
-However, due to species specific differences in lactation physiology, the clinical relevance of these data are not clear.
+However, due to species-specific differences in lactation physiology, the clinical relevance of these data are not clear.
 Since human kidney maturation occurs in utero and during the first 2 years of life when lactational exposure may occur, there may be risk to the developing human kidney.
 
 Because of the potential for serious adverse reactions in breastfed infants, advise women that use of FARXIGA is not recommended while breastfeeding.
@@ -67,24 +67,25 @@ No FARXIGA dosage change is recommended based on age.
 
 A total of 1424 (24%) of the 5936 FARXIGA-treated patients were 65 years and older and 207 (3.5%) patients were 75 years and older in a pool of 21 double-blind, controlled, clinical studies assessing the efficacy of FARXIGA in improving glycemic control in type 2 diabetes mellitus.
 After controlling for level of renal function (eGFR), efficacy was similar for patients under age 65 years and those 65 years and older.
-In patients ≥65 years of age, a higher proportion of patients treated with FARXIGA for glycemic control had adverse reactions of hypotension [see Warnings and Precautions (5.1) and Adverse Reactions (6.1)].
+In patients ≥65 years of age, a higher proportion of patients treated with FARXIGA for glycemic control had adverse reactions of hypotension [see Warnings and Precautions (5.2) and Adverse Reactions (6.1)].
 
+In both the DAPA-HF and DAPA-CKD studies, safety and efficacy were similar for patients age 65 years and younger and those older than 65.
 In the DAPA-HF study, 2714 (57%) out of 4744 patients with HFrEF were older than 65 years.
-Safety and efficacy were similar for patients age 65 years and younger and those older than 65.
+In the DAPA-CKD study, 1818 (42%) out of 4304 patients with CKD were older than 65 years.
 
 ## 8.6 Renal Impairment
 
+FARXIGA was evaluated in 4304 patients with chronic kidney disease (eGFR 25 to 75 mL/min/1.73 m2) in the DAPA-CKD study.
+FARXIGA was also evaluated in 1926 patients with an eGFR of 30 to 60 mL/min/1.73 m2 in the DAPA-HF study.
+The safety profile of FARXIGA across eGFR subgroups in these studies was consistent with the known safety profile [see Adverse Reactions (6.1) and Clinical Studies (14.3 and 14.4)].
+
 FARXIGA was evaluated in two glycemic control studies that included patients with type 2 diabetes mellitus with moderate renal impairment (an eGFR of 45 to less than 60 mL/min/1.73 m2 [see Clinical Studies (14.1)], and an eGFR of 30 to less than 60 mL/min/1.73 m2, respectively).
-The safety profile of FARXIGA in the study of patients with an eGFR of 45 to less than 60 mL/min/1.73 m2 was similar to the general population of patients with type 2 diabetes mellitus.
-Although patients in the FARXIGA arm had reduction in eGFR compared to the placebo arm, eGFR generally returned towards baseline after treatment discontinuation.
-Patients with diabetes and renal impairment using FARXIGA may also be more likely to experience hypotension and may be at higher risk for acute kidney injury.
+Patients with diabetes and renal impairment using FARXIGA may be more likely to experience hypotension and may be at higher risk for acute kidney injury secondary to volume depletion.
 In the study of patients with an eGFR 30 to less than 60 mL/min/1.73 m2, 13 patients receiving FARXIGA experienced bone fractures compared to none receiving placebo.
+Use of FARXIGA for glycemic control in patients without established CV disease or CV risk factors is not recommended when eGFR is less than 45 mL/min/1.73 m2 [see Dosage and Administration (2.2)].
 
-Use of FARXIGA for glycemic control in patients without established CV disease or CV risk factors is not recommended when eGFR is less than 45 mL/min/1.73 m2 [see Dosage and Administration (2.4)] and is contraindicated in patients with severe renal impairment (eGFR less than 30 mL/min/1.73 m2) [see Contraindications (4)].
-
-In the DAPA-HF study [see Clinical Studies (14.3)] that included patients with eGFR equal to or above 30 mL/min/1.73 m2, there were 1926 (41%) patients with eGFR below 60 mL/min/1.73 m2 and 719 (15%) with eGFR below 45 mL/min/1.73 m2.
-No overall differences in safety or efficacy were seen in these patients compared to patients with normal renal function.
-No dose adjustment is recommended for HFrEF patients with eGFR 30 mL/min/1.73 m2 and above [see Dosage and Administration (2.4)].
+Efficacy and safety studies with FARXIGA did not enroll patients with an eGFR less than 25 mL/min/1.73 m2.
+FARXIGA is contraindicated in patients on dialysis.
 
 ## 8.7 Hepatic Impairment
 

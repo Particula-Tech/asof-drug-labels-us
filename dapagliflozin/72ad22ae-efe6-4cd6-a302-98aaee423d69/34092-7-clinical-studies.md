@@ -136,7 +136,7 @@ Statistically significant (p<0.0001) mean change from baseline in systolic blood
 
 Table 11: Results at Week 52 (LOCFLOCF: last observation carried forward.) in an Active-Controlled Study Comparing FARXIGA to Glipizide as Add-On to Metformin
 
-| Efficacy Parameter | FARXIGA + Metformin N=400Randomized and treated patients with baseline and at least 1 postbaseline efficacy measurement. | Glipizide + Metformin N=401 |
+| Efficacy Parameter | FARXIGA + Metformin N=400Randomized and treated patients with baseline and at least 1 post-baseline efficacy measurement. | Glipizide + Metformin N=401 |
 | --- | --- | --- |
 | HbA1c (%) |  |  |
 | Baseline (mean) | 7.7 | 7.7 |
@@ -209,7 +209,7 @@ Placebo-Controlled Studies of FARXIGA in Combination with Antidiabetic Agents
 | Efficacy Parameter | FARXIGA 10 mg | FARXIGA 5 mg | Placebo |
 | --- | --- | --- | --- |
 | In Combination with Sulfonylurea (Glimepiride) |  |  |  |
-| Intent-to-Treat Population | N=151Randomized and treated patients with baseline and at least 1 post baseline efficacy measurement. | N=142 | N=145 |
+| Intent-to-Treat Population | N=151Randomized and treated patients with baseline and at least 1 post-baseline efficacy measurement. | N=142 | N=145 |
 | HbA1c (%) |  |  |  |
 | Baseline (mean) | 8.1 | 8.1 | 8.2 |
 | Change from baseline (adjusted meanLeast squares mean adjusted for baseline value based on an ANCOVA model.) | -0.8 | -0.6 | -0.1 |
@@ -218,7 +218,7 @@ Placebo-Controlled Studies of FARXIGA in Combination with Antidiabetic Agents
 | FPG (mg/dL) |  |  |  |
 | Baseline (mean) | 172.4 | 174.5 | 172.7 |
 | Change from baseline (adjusted mean) | -28.5 | -21.2 | -2.0 |
-| Difference from placebo (adjusted mean)(95% CI) | -26.5(-33.5, -19.5) | -19.3(-26.3, -12.2) |  |
+| Difference from placebo (adjusted mean) (95% CI) | -26.5(-33.5, -19.5) | -19.3(-26.3, -12.2) |  |
 | 2-hour PPG2-hour PPG level as a response to a 75-gram oral glucose tolerance test (OGTT). (mg/dL) |  |  |  |
 | Baseline (mean) | 329.6 | 322.8 | 324.1 |
 | Change from baseline (adjusted mean) | -60.6 | –54.5 | -11.5 |
@@ -226,13 +226,13 @@ Placebo-Controlled Studies of FARXIGA in Combination with Antidiabetic Agents
 | Body Weight (kg) |  |  |  |
 | Baseline (mean) | 80.6 | 81.0 | 80.9 |
 | Change from baseline (adjusted mean) | -2.3 | -1.6 | -0.7 |
-| Difference from placebo (adjusted mean)(95% CI) | -1.5(-2.2, -0.9) | -0.8(-1.5, -0.2) |  |
+| Difference from placebo (adjusted mean) (95% CI) | -1.5(-2.2, -0.9) | -0.8(-1.5, -0.2) |  |
 | In Combination with Metformin and a Sulfonylurea |  |  |  |
 | Intent-to-Treat Population | N=108 | - | N=108 |
 | HbA1c (%) |  |  |  |
 | Baseline (mean) | 8.08 | - | 8.24 |
 | Change from baseline (adjusted meanLeast squares mean adjusted for baseline value based on a longitudinal repeated measures model.) | -0.86 | - | -0.17 |
-| Difference from placebo (adjusted mean)(95% CI) | -0.69(-0.89, -0.49) | - |  |
+| Difference from placebo (adjusted mean) (95% CI) | -0.69(-0.89, -0.49) | - |  |
 | Percent of patients achieving HbA1c <7% adjusted for baseline | 31.8% | - | 11.1% |
 | FPG (mg/dL) |  |  |  |
 | Baseline (mean) | 167.4 | - | 180.3 |
@@ -241,7 +241,7 @@ Placebo-Controlled Studies of FARXIGA in Combination with Antidiabetic Agents
 | Body Weight (kg) |  |  |  |
 | Baseline (mean) | 88.57 | - | 90.07 |
 | Change from baseline (adjusted mean) | -2.65 | - | -0.58 |
-| Difference from placebo (adjusted mean)(95% CI) | -2.07(-2.79, -1.35) | - |  |
+| Difference from placebo (adjusted mean) (95% CI) | -2.07(-2.79, -1.35) | - |  |
 | In Combination with Thiazolidinedione (Pioglitazone) |  |  |  |
 | Intent-to-Treat Population | N=140All randomized patients who took at least one dose of double-blind study medication during the short-term, double-blind period. | N=141 | N=139 |
 | HbA1c (%) |  |  |  |
@@ -252,26 +252,26 @@ Placebo-Controlled Studies of FARXIGA in Combination with Antidiabetic Agents
 | FPG (mg/dL) |  |  |  |
 | Baseline (mean) | 164.9 | 168.3 | 160.7 |
 | Change from baseline (adjusted mean) | -29.6 | -24.9 | -5.5 |
-| Difference from placebo (adjusted mean)(95% CI) | -24.1(-32.2, -16.1) | -19.5(-27.5, -11.4) |  |
+| Difference from placebo (adjusted mean) (95% CI) | -24.1(-32.2, -16.1) | -19.5(-27.5, -11.4) |  |
 | 2-hour PPG (mg/dL) |  |  |  |
 | Baseline (mean) | 308.0 | 284.8 | 293.6 |
 | Change from baseline (adjusted mean) | -67.5 | -65.1 | -14.1 |
-| Difference from placebo (adjusted mean)(95% CI) | -53.3(-71.1, -35.6) | -51.0(-68.7, -33.2) |  |
+| Difference from placebo (adjusted mean) (95% CI) | -53.3(-71.1, -35.6) | -51.0(-68.7, -33.2) |  |
 | Body Weight (kg) |  |  |  |
 | Baseline (mean) | 84.8 | 87.8 | 86.4 |
 | Change from baseline (adjusted mean) | -0.1 | 0.1 | 1.6 |
-| Difference from placebo (adjusted mean)(95% CI) | -1.8(-2.6, -1.0) | -1.6(-2.3, -0.8) |  |
+| Difference from placebo (adjusted mean) (95% CI) | -1.8(-2.6, -1.0) | -1.6(-2.3, -0.8) |  |
 | In Combination with DPP4 Inhibitor (Sitagliptin) with or without Metformin |  |  |  |
 | Intent-to-Treat Population | N=223 | – | N=224 |
 | HbA1c (%) |  |  |  |
 | Baseline (mean) | 7.90 | – | 7.97 |
 | Change from baseline (adjusted mean) | -0.45 | – | 0.04 |
-| Difference from placebo (adjusted mean)(95% CI) | -0.48(-0.62, -0.34) | – |  |
+| Difference from placebo (adjusted mean) (95% CI) | -0.48(-0.62, -0.34) | – |  |
 | Patients with HbA1c decrease ≥0.7% (adjusted percent) | 35.4% | – | 16.6% |
 | FPG (mg/dL) |  |  |  |
 | Baseline (mean) | 161.7 | – | 163.1 |
 | Change from baseline at Week 24 (adjusted mean) | -24.1 | – | 3.8 |
-| Difference from placebo (adjusted mean)(95% CI) | -27.9(-34.5, -21.4) | – |  |
+| Difference from placebo (adjusted mean) (95% CI) | -27.9(-34.5, -21.4) | – |  |
 | Body Weight (kg) |  |  |  |
 | Baseline (mean) | 91.02 | – | 89.23 |
 | Change from baseline (adjusted mean) | -2.14 | – | -0.26 |
@@ -281,11 +281,11 @@ Placebo-Controlled Studies of FARXIGA in Combination with Antidiabetic Agents
 | HbA1c (%) |  |  |  |
 | Baseline (mean) | 8.6 | 8.6 | 8.5 |
 | Change from baseline (adjusted mean) | -0.9 | -0.8 | -0.3 |
-| Difference from placebo (adjusted mean)(95% CI) | -0.6(-0.7, -0.5) | -0.5(-0.7, -0.4) |  |
+| Difference from placebo (adjusted mean) (95% CI) | -0.6(-0.7, -0.5) | -0.5(-0.7, -0.4) |  |
 | FPG (mg/dL) |  |  |  |
 | Baseline (mean) | 173.7 | NTNT: Not formally tested because of failing to achieve a statistically significant difference in an endpoint that was earlier in the testing sequence. | 170.0 |
 | Change from baseline (adjusted mean) | -21.7 | NT | 3.3 |
-| Difference from placebo (adjusted mean)(95% CI) | -25.0(-34.3, -15.8) | NT |  |
+| Difference from placebo (adjusted mean) (95% CI) | -25.0(-34.3, -15.8) | NT |  |
 | Body Weight (kg) |  |  |  |
 | Baseline (mean) | 94.6 | 93.2 | 94.2 |
 | Change from baseline (adjusted mean) | -1.7 | -1.0 | 0.0 |
@@ -319,11 +319,11 @@ Table 13: Results at Week 24 of Placebo-Controlled Study for FARXIGA in Patients
 
 ## 14.2 Cardiovascular Outcomes in Patients with Type 2 Diabetes Mellitus
 
-Dapagliflozin Effect on Cardiovascular Events (DECLARE, NCT01730534) was an international, multicenter, randomized, double-blind, placebo-controlled, clinical study conducted to determine the effect of FARXIGA relative to placebo on CV outcomes when added to current background therapy.
-All patients had type 2 diabetes mellitus and either established CVD or two or more additional CV risk factors (age ≥55 years in men or ≥60 years in women and one or more of dyslipidemia, hypertension, or current tobacco use).
+Dapagliflozin Effect on Cardiovascular Events (DECLARE, NCT01730534) was an international, multicenter, randomized, double-blind, placebo-controlled, clinical study conducted to determine the effect of FARXIGA relative to placebo on cardiovascular (CV) outcomes when added to current background therapy.
+All patients had type 2 diabetes mellitus and either established CV disease or two or more additional CV risk factors (age ≥55 years in men or ≥60 years in women and one or more of dyslipidemia, hypertension, or current tobacco use).
 Concomitant antidiabetic and atherosclerotic therapies could be adjusted, at the discretion of investigators, to ensure participants were treated according to the standard care for these diseases.
 
-Of 17160 randomized patients, 6974 (40.6%) had established CVD and 10186 (59.4%) did not have established CVD.
+Of 17160 randomized patients, 6974 (40.6%) had established CV disease and 10186 (59.4%) did not have established CV disease.
 A total of 8582 patients were randomized to FARXIGA 10 mg, 8578 to placebo, and patients were followed for a median of 4.2 years.
 
 Approximately 80% of the trial population was White, 4% Black or African-American, and 13% Asian.
@@ -335,22 +335,22 @@ At baseline, 23.5% of patients had microalbuminuria (UACR ≥30 to ≤300 mg/g) 
 Mean HbA1c was 8.3% and mean BMI was 32.1 kg/m2.
 At baseline, 10% of patients had a history of heart failure.
 
-Most patients (98.1%) used one or more diabetic medications at baseline.
+Most patients (98.1%) used one or more antihyperglycemic medications at baseline.
 82.0% of the patients were being treated with metformin, 40.9% with insulin, 42.7% with a sulfonylurea, 16.8% with a DPP4 inhibitor, and 4.4% with a GLP-1 receptor agonist.
 
 Approximately 81.3% of patients were treated with angiotensin converting enzyme inhibitors or angiotensin receptor blockers, 75.0% with statins, 61.1% with antiplatelet therapy, 55.5% with acetylsalicylic acid, 52.6% with beta-blockers, 34.9% with calcium channel blockers, 22.0% with thiazide diuretics, and 10.5% with loop diuretics.
 
-A Cox proportional hazards model was used to test for non-inferiority against the pre-specified risk margin of 1.3 for the hazard ratio (HR) of the composite of CV death, myocardial infarction (MI), or ischemic stroke [MACE] and to test for superiority on the dual primary endpoints: the composite of hospitalization for heart failure or CV death, and MACE, if non-inferiority was demonstrated.
+A Cox proportional hazards model was used to test for non-inferiority against the pre-specified risk margin of 1.3 for the hazard ratio (HR) of the composite of CV death, myocardial infarction (MI), or ischemic stroke (MACE) and if non-inferiority was demonstrated, to test for superiority on the two primary endpoints: 1) the composite of hospitalization for heart failure or CV death, and 2) MACE.
 
-The incidence rate of MACE was similar in both treatment arms: 2.3 MACE events per 100 patient-years on dapagliflozin vs. 2.46 MACE events per 100 patient-years on placebo.
-The estimated hazard ratio of MACE associated with dapagliflozin relative to placebo was 0.93 with a 95.38% confidence interval of (0.84,1.03).
-The upper bound of this confidence interval, 1.03, excluded a risk margin larger than 1.3.
+The incidence rate of MACE was similar in both treatment arms: 2.30 MACE events per 100 patient-years on dapagliflozin vs 2.46 MACE events per 100 patient-years on placebo.
+The estimated hazard ratio of MACE associated with dapagliflozin relative to placebo was 0.93 with a 95% CI of (0.84, 1.03).
+The upper bound of this confidence interval, 1.03, excluded the pre-specified non-inferiority margin of 1.3.
 
 FARXIGA was superior to placebo in reducing the incidence of the primary composite endpoint of hospitalization for heart failure or CV death (HR 0.83 [95% CI 0.73, 0.95]).
 
 The treatment effect was due to a significant reduction in the risk of hospitalization for heart failure in subjects randomized to FARXIGA (HR 0.73 [95% CI 0.61, 0.88]), with no change in the risk of CV death (Table 14 and Figures 4 and 5).
 
-Table 14: Treatment Effects for the Primary EndpointsFull analysis set. and Their Components in the DECLARE Study
+Table 14: Treatment Effects for the Primary EndpointsFull analysis set. and their Components in the DECLARE Study
 
 |  | Patients with events n (%) |  |  |
 | --- | --- | --- | --- |
@@ -358,7 +358,7 @@ Table 14: Treatment Effects for the Primary EndpointsFull analysis set. and Thei
 | Primary Endpoints |  |  |  |
 | Composite of Hospitalization for Heart Failure, CV Deathp-value =0.005 versus placebo. | 417 (4.9) | 496 (5.8) | 0.83 (0.73, 0.95) |
 | Composite Endpoint of CV Death, MI, Ischemic Stroke | 756 (8.8) | 803 (9.4) | 0.93 (0.84, 1.03) |
-| Components of the composite endpointstotal number of events presented for each component of the composite endpoints |  |  |  |
+| Components of the composite endpointstotal number of events presented for each component of the composite endpoints. |  |  |  |
 | Hospitalization for Heart Failure | 212 (2.5) | 286 (3.3) | 0.73 (0.61, 0.88) |
 | CV Death | 245 (2.9) | 249 (2.9) | 0.98 (0.82, 1.17) |
 | Myocardial Infarction | 393 (4.6) | 441 (5.1) | 0.89 (0.77, 1.01) |
@@ -404,11 +404,11 @@ NOTE: Time to first event was analyzed in a Cox proportional hazards model.
 The number of first events for the single components are the actual number of first events for each component and does not add up to the number of events in the composite endpoint.
 Event rates are presented as the number of subjects with event per 100 patient years of follow-up.
 
-Figure 6: Kaplan-Meier Curves for the Primary Composite Endpoint (A), Cardiovascular Death (B), and Heart Failure Hospitalization (C)
+Figure 6: Kaplan-Meier Curves for the Primary Composite Endpoint (A), Cardiovascular Death (B), and Heart Failure Hospitalization (C) (DAPA-HF Study)
 
 Figure 6A: Time to the First Occurrence of the Composite of Cardiovascular Death, Hospitalization for Heart Failure or Urgent Heart Failure Visit
 
-NOTE: An urgent heart failure visit was defined as an urgent, unplanned, assessment by a physician, e.g. in an Emergency Department, and requiring treatment for worsening heart failure (other than just an increase in oral diuretics).
+NOTE: An urgent heart failure visit was defined as an urgent, unplanned, assessment by a physician, e.g., in an Emergency Department, and requiring treatment for worsening heart failure (other than just an increase in oral diuretics).
 
 Patients at risk is the number of patients at risk at the beginning of the period.
 
@@ -443,3 +443,61 @@ ECG = electrocardiogram, eGFR = estimated glomerular filtration rate.
 Note: The figure above presents effects in various subgroups, all of which are baseline characteristics.
 The 95% confidence limits that are shown do not take into account the number of comparisons made and may not reflect the effect of a particular factor after adjustment for all other factors.
 Apparent homogeneity or heterogeneity among groups should not be over-interpreted.
+
+## 14.4 Chronic Kidney Disease
+
+The Study to Evaluate the Effect of Dapagliflozin on Renal Outcomes and Cardiovascular Mortality in Patients with Chronic Kidney Disease (DAPA-CKD, NCT03036150) was an international, multicenter, randomized, double-blind, placebo-controlled study in patients with chronic kidney disease (CKD) (eGFR between 25 and 75 mL/min/1.73 m2) and albuminuria (urine albumin creatinine ratio [UACR] between 200 and 5000 mg/g) who were receiving standard of care background therapy, including a maximally tolerated, labeled daily dose of an angiotensin-converting enzyme inhibitor (ACEi) or angiotensin receptor blocker (ARB).
+The trial excluded patients with autosomal dominant or autosomal recessive polycystic kidney disease, lupus nephritis, or ANCA-associated vasculitis and patients requiring cytotoxic, immunosuppressive, or immunomodulatory therapies in the preceding 6 months.
+
+The primary objective was to determine whether FARXIGA reduces the incidence of the composite endpoint of ≥50% sustained decline in eGFR, progression to end-stage kidney disease (ESKD) (defined as sustained eGFR<15 mL/min/1.73 m2, initiation of chronic dialysis treatment or renal transplant), CV or renal death.
+
+A total of 4304 patients were randomized equally to FARXIGA 10 mg or placebo and were followed for a median of 28.5 months.
+
+The mean age of the study population was 62 years and 67% were male.
+The population was 53% White, 4% Black or African-American, and 34% Asian; 25% were of Hispanic or Latino ethnicity.
+
+At baseline, mean eGFR was 43 mL/min/1.73 m2, 44% of patients had an eGFR 30 mL/min/1.73m2 to less than 45 mL/min/1.73m2, and 15% of patients had an eGFR less than 30 mL/min/1.73m2.
+Median UACR was 950 mg/g.
+A total of 68% of the patients had type 2 diabetes mellitus at randomization.
+The most common etiologies of CKD were diabetic nephropathy (58%), ischemic/hypertensive nephropathy (16%), and IgA nephropathy (6%).
+
+At baseline, 97% of patients were treated with ACEi or ARB.
+Approximately 44% were taking antiplatelet agents, and 65% were on a statin.
+
+FARXIGA reduced the incidence of the primary composite endpoint of ≥50% sustained decline in eGFR, progression to ESKD, CV or renal death (HR 0.61 [95% CI 0.51,0.72]; p<0.0001).
+The FARXIGA and placebo event curves separate by Month 4 and continue to diverge over the study period.
+The treatment effect reflected a reduction in ≥50% sustained decline in eGFR, progression to ESKD, and CV death.
+There were few renal deaths during the trial (Table 16, Figure 8).
+
+FARXIGA also reduced the incidence of the composite endpoint of CV death or hospitalization for heart failure (HR 0.71 [95% CI 0.55, 0.92], p=0.0089) and all-cause mortality (HR 0.69 [95% CI 0.53, 0.88], p=0.0035).
+
+Table 16: Treatment Effect for the Primary Composite Endpoint, its Components, and Secondary Composite Endpoints, in the DAPA-CKD Study
+
+|  | Patients with events (event rate) |  |  |  |
+| --- | --- | --- | --- | --- |
+| Efficacy Variable(time to first occurrence) | FARXIGA 10 mg N=2152 | Placebo N=2152 | Hazard ratio (95% CI) | p-value |
+| Composite of ≥50% sustained eGFR decline, ESKD, CV or renal death | 197 (4.6) | 312 (7.5) | 0.61 (0.51, 0.72) | <0.0001 |
+| ≥50% sustained eGFR decline | 112 (2.6) | 201 (4.8) | 0.53 (0.42, 0.67) |  |
+| ESKDESKD is defined as sustained eGFR<15 mL/min/1.73 m2, initiation of chronic dialysis treatment, or transplant. | 109 (2.5) | 161 (3.8) | 0.64 (0.50, 0.82) |  |
+| CV Death | 65 (1.4) | 80 (1.7) | 0.81 (0.58, 1.12) |  |
+| Renal Death | 2 (<0.1) | 6 (0.3) |  |  |
+| ≥50% sustained eGFR decline, ESKD or renal death | 142 (3.3) | 243 (5.8) | 0.56 (0.45, 0.68) | <0.0001 |
+| CV death or Hospitalization for Heart Failure | 100 (2.2) | 138 (3.0) | 0.71 (0.55, 0.92) | 0.0089 |
+| Hospitalization for Heart Failure | 37 (0.8) | 71 (1.6) | 0.51 (0.34, 0.76) |  |
+| All-Cause Mortality | 101 (2.2) | 146 (3.1) | 0.69 (0.53, 0.88) | 0.0035 |
+| N=Number of patients, CI=Confidence interval, CV=Cardiovascular, ESKD=End stage kidney disease. |  |  |  |  |
+| NOTE: Time to first event was analyzed in a Cox proportional hazards model. Event rates are presented as the number of subjects with event per 100 patient years of follow-up.There were too few events of renal death to compute a reliable hazard ratio. |  |  |  |  |
+
+Figure 8: Time to First Occurrence of the Primary Composite Endpoint, ≥50% Sustained Decline in eGFR, ESKD, CV or Renal Death (DAPA-CKD Study)
+
+Patients at risk is the number of subjects at risk at the beginning of the period.
+1 month corresponds to 30 days.
+2-sided p-value is displayed.
+HR, CI and p-value are from the Cox proportional hazard model.
+
+HR=hazard ratio; CI=confidence interval; eGFR=estimated glomerular filtration rate; ESKD=end stage kidney disease; CV=cardiovascular; vs=versus.
+
+The results of the primary composite endpoint were consistent across the subgroups examined, including CKD patients with and without type 2 diabetes mellitus, causes of CKD, age, biological sex, race, UACR, and eGFR.
+
+DAPA-CKD enrolled a population with relatively advanced CKD at high risk of progression.
+Exploratory analyses of a randomized, double-blind, placebo-controlled trial conducted to determine the effect of FARXIGA on CV outcomes (the DECLARE trial) support the conclusion that FARXIGA is also likely to be effective in patients with less advanced CKD.

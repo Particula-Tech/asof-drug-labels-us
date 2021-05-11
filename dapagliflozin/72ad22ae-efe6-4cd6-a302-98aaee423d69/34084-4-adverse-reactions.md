@@ -2,8 +2,8 @@
 
 The following important adverse reactions are described below and elsewhere in the labeling:
 
-- •Volume Depletion [see Warnings and Precautions (5.1)]
-- •Ketoacidosis in Patients with Diabetes Mellitus [see Warnings and Precautions (5.2)]
+- •Ketoacidosis in Patients with Diabetes Mellitus [see Warnings and Precautions (5.1)]
+- •Volume Depletion [see Warnings and Precautions (5.2)]
 - •Urosepsis and Pyelonephritis [see Warnings and Precautions (5.3)]
 - •Hypoglycemia with Concomitant Use with Insulin and Insulin Secretagogues [see Warnings and Precautions (5.4)]
 - •Necrotizing Fasciitis of the Perineum (Fournier’s Gangrene) [see Warnings and Precautions (5.5)]
@@ -13,11 +13,11 @@ The following important adverse reactions are described below and elsewhere in t
 
 Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in clinical practice.
 
-FARXIGA has been evaluated in clinical trials in patients with type 2 diabetes mellitus and in patients with heart failure.
+FARXIGA has been evaluated in clinical trials in patients with type 2 diabetes mellitus, in patients with heart failure, and in patients with chronic kidney disease.
 The overall safety profile of FARXIGA was consistent across the studied indications.
 Severe hypoglycemia and diabetic ketoacidosis (DKA) were observed only in patients with diabetes mellitus.
 
-### Clinical Trials in Patients with Type 2 Diabetes Mellitus
+Clinical Trials in Patients with Type 2 Diabetes Mellitus
 
 Pool of 12 Placebo-Controlled Studies for FARXIGA 5 and 10 mg for Glycemic Control
 
@@ -53,7 +53,7 @@ Table 2: Adverse Reactions in Placebo-Controlled Studies of Glycemic Control Rep
 | Discomfort with urination | 0.7 | 1.6 | 2.1 |
 | Pain in extremity | 1.4 | 2.0 | 1.7 |
 
-### Pool of 13 Placebo-Controlled Studies for FARXIGA 10 mg for Glycemic Control
+Pool of 13 Placebo-Controlled Studies for FARXIGA 10 mg for Glycemic Control
 
 FARXIGA 10 mg was also evaluated in a larger glycemic control placebo-controlled study pool in patients with type 2 diabetes mellitus.
 This pool combined 13 placebo-controlled studies, including 3 monotherapy studies, 9 add-on to background antidiabetic therapy studies, and an initial combination with metformin study.
@@ -63,23 +63,23 @@ Fifty-eight percent (58%) of the population were male; 84% were White, 9% were A
 At baseline, the population had diabetes for an average of 9 years, had a mean HbA1c of 8.2%, and 30% had established microvascular disease.
 Baseline renal function was normal or mildly impaired in 88% of patients and moderately impaired in 11% of patients (mean eGFR 82 mL/min/1.73 m2).
 
-### Volume Depletion
+Volume Depletion
 
 FARXIGA causes an osmotic diuresis, which may lead to a reduction in intravascular volume.
-Adverse reactions related to volume depletion (including reports of dehydration, hypovolemia, orthostatic hypotension, or hypotension) in patients with type 2 diabetes mellitus for the 12-study and 13-study, short-term, placebo-controlled pools and for the DECLARE study are shown in Table 3 [see Warnings and Precautions (5.1)].
+Adverse reactions related to volume depletion (including reports of dehydration, hypovolemia, orthostatic hypotension, or hypotension) in patients with type 2 diabetes mellitus for the 12-study and 13-study, short-term, placebo-controlled pools and for the DECLARE study are shown in Table 3 [see Warnings and Precautions (5.2)].
 
 Table 3: Adverse Reactions Related to Volume DepletionVolume depletion includes reports of dehydration, hypovolemia, orthostatic hypotension, or hypotension. in Clinical Studies in Patients with Type 2 Diabetes Mellitus with FARXIGA
 
 |  | Pool of 12 Placebo-Controlled Studies |  |  | Pool of 13 Placebo-Controlled Studies |  | DECLARE Study |  |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-|  | Placebo | FARXIGA5 mg | FARXIGA10 mg | Placebo | FARXIGA10 mg | Placebo | FARXIGA10 mg |
-| Overall population N (%) | N=13935(0.4%) | N=11457(0.6%) | N=11939(0.8%) | N=229517(0.7%) | N=236027(1.1%) | N=8569207(2.4%) | N=8574213(2.5%) |
+|  | Placebo | FARXIGA 5 mg | FARXIGA 10 mg | Placebo | FARXIGA 10 mg | Placebo | FARXIGA 10 mg |
+| Overall population N (%) | N=1393 5 (0.4%) | N=1145 7 (0.6%) | N=1193 9 (0.8%) | N=2295 17 (0.7%) | N=2360 27 (1.1%) | N=8569 207 (2.4%) | N=8574 213 (2.5%) |
 | Patient Subgroup n (%) |  |  |  |  |  |  |  |
-| Patients on loop diuretics | n=551(1.8%) | n=400 | n=313(9.7%) | n=2674(1.5%) | n=2366(2.5%) | n=93457(6.1%) | n=86657(6.6%) |
-| Patients with moderate renal impairment with eGFR ≥30 and <60 mL/min/1.73 m2 | n=1072(1.9%) | n=1071(0.9%) | n=891(1.1%) | n=2684(1.5%) | n=2655(1.9%) | n=65830(4.6%) | n=60435(5.8%) |
-| Patients ≥65 years of age | n=2761(0.4%) | n=2161(0.5%) | n=2043(1.5%) | n=7116(0.8%) | n=66511(1.7%) | n=3950121(3.1%) | n=3948117(3.0%) |
+| Patients on loop diuretics | n=55 1 (1.8%) | n=40 0 | n=31 3 (9.7%) | n=267 4 (1.5%) | n=236 6 (2.5%) | n=934 57 (6.1%) | n=866 57 (6.6%) |
+| Patients with moderate renal impairment with eGFR ≥30 and <60 mL/min/1.73 m2 | n=107 2 (1.9%) | n=107 1 (0.9%) | n=89 1 (1.1%) | n=268 4 (1.5%) | n=265 5 (1.9%) | n=658 30 (4.6%) | n=604 35 (5.8%) |
+| Patients ≥65 years of age | n=276 1 (0.4%) | n=216 1 (0.5%) | n=204 3 (1.5%) | n=711 6 (0.8%) | n=665 11 (1.7%) | n=3950 121 (3.1%) | n=3948 117 (3.0%) |
 
-### Hypoglycemia
+Hypoglycemia
 
 The frequency of hypoglycemia by study in patients with type 2 diabetes mellitus [see Clinical Studies (14.1)] is shown in Table 4.
 Hypoglycemia was more frequent when FARXIGA was added to sulfonylurea or insulin [see Warnings and Precautions (5.4)].
@@ -112,7 +112,7 @@ Table 4: Incidence of Severe HypoglycemiaSevere episodes of hypoglycemia were de
 
 In the DECLARE study [see Clinical Studies (14.2)], severe events of hypoglycemia were reported in 58 (0.7%) out of 8574 patients treated with FARXIGA and 83 (1.0%) out of 8569 patients treated with placebo.
 
-### Genital Mycotic Infections
+Genital Mycotic Infections
 
 In the glycemic control trials, genital mycotic infections were more frequent with FARXIGA treatment.
 Genital mycotic infections were reported in 0.9% of patients on placebo, 5.7% on FARXIGA 5 mg, and 4.8% on FARXIGA 10 mg, in the 12-study placebo-controlled pool.
@@ -123,49 +123,53 @@ Patients with a history of genital mycotic infections were more likely to have a
 In the DECLARE study [see Clinical Studies (14.2)], serious genital mycotic infections were reported in <0.1% of patients treated with FARXIGA and <0.1% of patients treated with placebo.
 Genital mycotic infections that caused study drug discontinuation were reported in 0.9% of patients treated with FARXIGA and <0.1% of patients treated with placebo.
 
-### Hypersensitivity Reactions
+Hypersensitivity Reactions
 
 Hypersensitivity reactions (e.g., angioedema, urticaria, hypersensitivity) were reported with FARXIGA treatment.
 In glycemic control studies, serious anaphylactic reactions and severe cutaneous adverse reactions and angioedema were reported in 0.2% of comparator-treated patients and 0.3% of FARXIGA-treated patients.
 If hypersensitivity reactions occur, discontinue use of FARXIGA; treat per standard of care and monitor until signs and symptoms resolve.
 
-### Ketoacidosis in Patients with Diabetes Mellitus
+Ketoacidosis in Patients with Diabetes Mellitus
 
-In the DECLARE study [see Clinical Studies (14.2)], events of diabetic ketoacidosis (DKA) were reported in 27 out of 8574 patients in the FARXIGA-treated group and 12 out of 8569 patients in the placebo group.
+In the DECLARE study [see Warnings and Precautions (5.1) and Clinical Studies (14.2)], events of diabetic ketoacidosis (DKA) were reported in 27 out of 8574 patients in the FARXIGA-treated group and 12 out of 8569 patients in the placebo group.
 The events were evenly distributed over the study period.
 
-### Laboratory Tests
+Laboratory Tests
 
-#### Increases in Serum Creatinine and Decreases in eGFR
+Increases in Serum Creatinine and Decreases in eGFR
 
 Initiation of SGLT2 inhibitors, including FARXIGA causes a small increase in serum creatinine and decrease in eGFR.
-In patients with normal or mildly impaired renal function at baseline, these changes in serum creatinine and eGFR generally occur within weeks of starting therapy and then stabilize.
-Increases that do not fit this pattern should prompt further evaluation to exclude the possibility of acute kidney injury [see Warnings and Precautions (5.1)].
-The acute effect on eGFR reverses after treatment discontinuation, suggesting acute hemodynamic changes may play a role in the renal function changes observed with FARXIGA.
+These changes in serum creatinine and eGFR generally occur within two weeks of starting therapy and then stabilize regardless of baseline kidney function.
+Changes that do not fit this pattern should prompt further evaluation to exclude the possibility of acute kidney injury [see Warnings and Precautions (5.2)].
+In two studies that included patients with type 2 diabetes mellitus with moderate renal impairment, the acute effect on eGFR reversed after treatment discontinuation, suggesting acute hemodynamic changes may play a role in the renal function changes observed with FARXIGA.
 
-#### Increase in Hematocrit
+Increase in Hematocrit
 
 In the pool of 13 placebo-controlled studies of glycemic control, increases from baseline in mean hematocrit values were observed in FARXIGA-treated patients starting at Week 1 and continuing up to Week 16, when the maximum mean difference from baseline was observed.
 At Week 24, the mean changes from baseline in hematocrit were −0.33% in the placebo group and 2.30% in the FARXIGA 10 mg group.
 By Week 24, hematocrit values >55% were reported in 0.4% of placebo-treated patients and 1.3% of FARXIGA 10 mg-treated patients.
 
-#### Increase in Low-Density Lipoprotein Cholesterol
+Increase in Low-Density Lipoprotein Cholesterol
 
 In the pool of 13 placebo-controlled studies of glycemic control, changes from baseline in mean lipid values were reported in FARXIGA-treated patients compared to placebo-treated patients.
 Mean percent changes from baseline at Week 24 were 0.0% versus 2.5% for total cholesterol, and -1.0% versus 2.9% for LDL cholesterol in the placebo and FARXIGA 10 mg groups, respectively.
 In the DECLARE study [see Clinical Studies (14.2)], mean changes from baseline after 4 years were 0.4 mg/dL versus -4.1 mg/dL for total cholesterol, and -2.5 mg/dL versus -4.4 mg/dL for LDL cholesterol, in FARXIGA-treated and the placebo groups, respectively.
 
-#### Decrease in Serum Bicarbonate
+Decrease in Serum Bicarbonate
 
-In a study of concomitant therapy of FARXIGA 10 mg with exenatide extended-release (on a background of metformin), four patients (1.7%) on concomitant therapy had a serum bicarbonate value of less than or equal to 13 mEq/L compared to one each (0.4%) in the FARXIGA and exenatide-extended release treatment groups [see Warnings and Precautions (5.2)].
+In a study of concomitant therapy of FARXIGA 10 mg with exenatide extended-release (on a background of metformin), four patients (1.7%) on concomitant therapy had a serum bicarbonate value of less than or equal to 13 mEq/L compared to one each (0.4%) in the FARXIGA and exenatide-extended release treatment groups [see Warnings and Precautions (5.1)].
 
-### DAPA-HF Heart Failure Study
+DAPA-HF Heart Failure Study
 
 No new adverse reactions were identified in the DAPA-HF heart failure study.
 
+DAPA-CKD Chronic Kidney Disease Study
+
+No new adverse reactions were identified in the DAPA-CKD study in patients with chronic kidney disease.
+
 ## 6.2 Postmarketing Experience
 
-Additional adverse reactions have been identified during postapproval use of FARXIGA in patients with diabetes mellitus.
+Additional adverse reactions have been identified during post-approval use of FARXIGA in patients with diabetes mellitus.
 Because these reactions are reported voluntarily from a population of uncertain size, it is generally not possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
 
 - •Ketoacidosis

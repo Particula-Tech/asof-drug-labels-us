@@ -4,9 +4,9 @@
 
 Sodium-glucose cotransporter 2 (SGLT2), expressed in the proximal renal tubules, is responsible for the majority of the reabsorption of filtered glucose from the tubular lumen.
 Dapagliflozin is an inhibitor of SGLT2.
-By inhibiting SGLT2, dapagliflozin reduces reabsorption of filtered glucose and lowers the renal threshold for glucose, and thereby increases urinary glucose excretion.
+By inhibiting SGLT2, dapagliflozin reduces reabsorption of filtered glucose and thereby promotes urinary glucose excretion.
 Dapagliflozin also reduces sodium reabsorption and increases the delivery of sodium to the distal tubule.
-This may influence several physiological functions including, but not restricted to, lowering both pre- and afterload of the heart and downregulation of sympathetic activity.
+This may influence several physiological functions including, but not restricted to, lowering both pre- and afterload of the heart and downregulation of sympathetic activity, and decreased intraglomerular pressure which is believed to be mediated by increased tubuloglomerular feedback.
 
 ## 12.2 Pharmacodynamics
 
@@ -58,10 +58,12 @@ The mean plasma terminal half-life (t½) for dapagliflozin is approximately 12.9
 
 #### Renal Impairment
 
-At steady-state (20 mg once daily dapagliflozin for 7 days), patients with type 2 diabetes with mild, moderate, or severe renal impairment (as determined by eGFR) had geometric mean systemic exposures of dapagliflozin that were 45%, 2.04-fold, and 3.03-fold higher, respectively, as compared to patients with type 2 diabetes mellitus with normal renal function.
+At steady-state (20 mg once daily dapagliflozin for 7 days), patients with type 2 diabetes with mild, moderate, or severe renal impairment (as determined by eGFR) had geometric mean systemic exposures of dapagliflozin that were 45%, 100%, and 200% higher, respectively, as compared to patients with type 2 diabetes mellitus with normal renal function.
+There was no meaningful difference in exposure between patients with chronic kidney disease with and without type 2 diabetes.
 Higher systemic exposure of dapagliflozin in patients with type 2 diabetes mellitus with renal impairment did not result in a correspondingly higher 24-hour urinary glucose excretion.
 The steady-state 24-hour urinary glucose excretion in patients with type 2 diabetes mellitus and mild, moderate, and severe renal impairment was 42%, 80%, and 90% lower, respectively, than in patients with type 2 diabetes mellitus with normal renal function.
-The impact of hemodialysis on dapagliflozin exposure is not known [see Dosage and Administration (2.4), Warnings and Precautions (5.1), Use in Specific Populations (8.6), and Clinical Studies (14)].
+
+The impact of hemodialysis on dapagliflozin exposure is not known [see Dosage and Administration (2.2), Warnings and Precautions (5.2), Use in Specific Populations (8.6), and Clinical Studies (14)].
 
 #### Hepatic Impairment
 
@@ -121,9 +123,9 @@ Dapagliflozin did not meaningfully affect the pharmacokinetics of the coadminist
 
 Table 6: Effects of Dapagliflozin on the Systemic Exposures of Coadministered Drugs
 
-| Cmax | AUCAUC = AUC(INF) for drugs given as single dose and AUC = AUC(TAU) for drugs given in multiple doses. |  |  |
-| --- | --- | --- | --- |
 | Coadministered Drug (Dose Regimen)Single dose unless otherwise noted. | Dapagliflozin (Dose Regimen) | Effect on Coadministered Drug Exposure (% Change [90% CI]) |  |
+| --- | --- | --- | --- |
+| Cmax | AUCAUC = AUC(INF) for drugs given as single dose and AUC = AUC(TAU) for drugs given in multiple doses. |  |  |
 | No dosing adjustments required for the following: |  |  |  |
 | Oral Antidiabetic Agents |  |  |  |
 | Metformin (1000 mg) | 20 mg | ↔ | ↔ |

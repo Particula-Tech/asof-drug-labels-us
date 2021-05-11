@@ -1,16 +1,17 @@
 # 1 INDICATIONS AND USAGE
 
-## 1.1 Type 2 Diabetes Mellitus
-
 FARXIGA (dapagliflozin) is indicated:
 
-- •as an adjunct to diet and exercise to improve glycemic control in adults with type 2 diabetes mellitus.
-- •to reduce the risk of hospitalization for heart failure in adults with type 2 diabetes mellitus and established cardiovascular disease (CVD) or multiple cardiovascular (CV) risk factors.
+- •As an adjunct to diet and exercise to improve glycemic control in adults with type 2 diabetes mellitus.
+- •To reduce the risk of hospitalization for heart failure in adults with type 2 diabetes mellitus and either established cardiovascular disease or multiple cardiovascular risk factors.
+- •To reduce the risk of cardiovascular death and hospitalization for heart failure in adults with heart failure (NYHA class II-IV) with reduced ejection fraction.
+- •To reduce the risk of sustained eGFR decline, end-stage kidney disease, cardiovascular death, and hospitalization for heart failure in adults with chronic kidney disease at risk of progression.
 
-## 1.2 Heart Failure
+Limitations of Use
 
-FARXIGA is indicated to reduce the risk of cardiovascular death and hospitalization for heart failure in adults with heart failure (NYHA class II-IV) with reduced ejection fraction.
-
-## 1.3 Limitations of Use
-
-FARXIGA is not recommended for patients with type 1 diabetes mellitus or for the treatment of diabetic ketoacidosis.
+- •FARXIGA is not recommended for patients with type 1 diabetes mellitus.
+  It may increase the risk of diabetic ketoacidosis in these patients [see Warnings and Precautions (5.1)].
+- •FARXIGA is not recommended for use to improve glycemic control in adults with type 2 diabetes mellitus with an eGFR less than 45 mL/min/1.73 m2.
+  FARXIGA is likely to be ineffective in this setting based upon its mechanism of
+- •FARXIGA is not recommended for the treatment of chronic kidney disease in patients with polycystic kidney disease or patients requiring or with a recent history of immunosuppressive therapy for kidney disease.
+  FARXIGA is not expected to be effective in these populations.

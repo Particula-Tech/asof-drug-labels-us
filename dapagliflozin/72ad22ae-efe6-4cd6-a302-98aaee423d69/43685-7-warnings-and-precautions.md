@@ -1,18 +1,11 @@
 # 5 WARNINGS AND PRECAUTIONS
 
-## 5.1 Volume Depletion
-
-FARXIGA can cause intravascular volume depletion which may sometimes manifest as symptomatic hypotension or acute transient changes in creatinine.
-There have been post-marketing reports of acute kidney injury, some requiring hospitalization and dialysis, in patients with type 2 diabetes mellitus receiving SGLT2 inhibitors, including FARXIGA.
-Patients with impaired renal function (eGFR less than 60 mL/min/1.73 m2), elderly patients, or patients on loop diuretics may be at increased risk for volume depletion or hypotension.
-Before initiating FARXIGA in patients with one or more of these characteristics, assess volume status and renal function.
-Monitor for signs and symptoms of hypotension, and renal function after initiating therapy.
-
-## 5.2 Ketoacidosis in Patients with Diabetes Mellitus
+## 5.1 Ketoacidosis in Patients with Diabetes Mellitus
 
 Reports of ketoacidosis, a serious life-threatening condition requiring urgent hospitalization have been identified in patients with type 1 and type 2 diabetes mellitus receiving sodium-glucose cotransporter 2 (SGLT2) inhibitors, including FARXIGA [see Adverse Reactions (6.1)].
+In placebo-controlled trials of patients with type 1 diabetes mellitus, the risk of ketoacidosis was increased in patients who received SGLT2 inhibitors compared to patients who received placebo.
 Fatal cases of ketoacidosis have been reported in patients taking FARXIGA.
-FARXIGA is not indicated for the treatment of patients with type 1 diabetes mellitus [see Indications and Usage (1.3)].
+FARXIGA is not indicated for the treatment of patients with type 1 diabetes mellitus [see Indications and Usage (1)].
 
 Patients treated with FARXIGA who present with signs and symptoms consistent with severe metabolic acidosis should be assessed for ketoacidosis regardless of presenting blood glucose levels as ketoacidosis associated with FARXIGA may be present even if blood glucose levels are less than 250 mg/dL.
 If ketoacidosis is suspected, FARXIGA should be discontinued, the patient should be evaluated, and prompt treatment should be instituted.
@@ -30,6 +23,14 @@ Consider monitoring for ketoacidosis and temporarily discontinuing FARXIGA in ot
 Ensure risk factors for ketoacidosis are resolved prior to restarting FARXIGA.
 
 Educate patients on the signs and symptoms of ketoacidosis and instruct patients to discontinue FARXIGA and seek medical attention immediately if signs and symptoms occur.
+
+## 5.2 Volume Depletion
+
+FARXIGA can cause intravascular volume depletion which may sometimes manifest as symptomatic hypotension or acute transient changes in creatinine.
+There have been post-marketing reports of acute kidney injury, some requiring hospitalization and dialysis, in patients with type 2 diabetes mellitus receiving SGLT2 inhibitors, including FARXIGA.
+Patients with impaired renal function (eGFR less than 60 mL/min/1.73 m2), elderly patients, or patients on loop diuretics may be at increased risk for volume depletion or hypotension.
+Before initiating FARXIGA in patients with one or more of these characteristics, assess volume status and renal function.
+Monitor for signs and symptoms of hypotension, and renal function after initiating therapy.
 
 ## 5.3 Urosepsis and Pyelonephritis
 

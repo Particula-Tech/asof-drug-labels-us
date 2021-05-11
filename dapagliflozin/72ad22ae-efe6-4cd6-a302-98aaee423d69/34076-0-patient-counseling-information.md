@@ -2,16 +2,16 @@
 
 Advise the patient to read the FDA-approved patient labeling (Medication Guide).
 
-Volume Depletion
-
-Inform patients that symptomatic hypotension may occur with FARXIGA and advise them to contact their healthcare provider if they experience such symptoms [see Warnings and Precautions (5.1)].
-Inform patients that dehydration may increase the risk for hypotension, and to have adequate fluid intake.
-
 Ketoacidosis
 
 Inform patients with diabetes mellitus that ketoacidosis is a serious life-threatening condition and that cases of ketoacidosis have been reported during use of FARXIGA with diabetes mellitus, sometimes associated with illness or surgery among other risk factors.
 Instruct patients to check ketones (when possible) if symptoms consistent with ketoacidosis occur even if blood glucose is not elevated.
-If symptoms of ketoacidosis (including nausea, vomiting, abdominal pain, tiredness and labored breathing) occur, instruct patients to discontinue FARXIGA and seek medical attention immediately [see Warnings and Precautions (5.2)].
+If symptoms of ketoacidosis (including nausea, vomiting, abdominal pain, tiredness and labored breathing) occur, instruct patients to discontinue FARXIGA and seek medical attention immediately [see Warnings and Precautions (5.1)].
+
+Volume Depletion
+
+Inform patients that symptomatic hypotension may occur with FARXIGA and advise them to contact their healthcare provider if they experience such symptoms [see Warnings and Precautions (5.2)].
+Inform patients that dehydration may increase the risk for hypotension, and to have adequate fluid intake.
 
 Serious Urinary Tract Infections
 
