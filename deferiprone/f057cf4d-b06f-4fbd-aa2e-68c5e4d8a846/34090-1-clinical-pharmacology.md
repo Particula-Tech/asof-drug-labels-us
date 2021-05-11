@@ -2,16 +2,16 @@
 
 ## 12.1 Mechanism of Action
 
-Deferiprone is a chelating agent that binds with ferric ions (iron III) to form neutral 3:1 (deferiprone:iron) complexes that are stable over a wide range of pH values.
-Deferiprone has a lower binding affinity for other metals (e.g., copper, aluminum and zinc) than for iron.
+Deferiprone is a chelating agent with an affinity for ferric ions (iron III).
+Deferiprone binds with ferric ions to form neutral 3:1 (deferiprone:iron) complexes that are stable at physiological pH.
 
 ## 12.2 Pharmacodynamics
 
-Deferiprone exposure-response relationships and the time course of pharmacodynamics response are unknown.
+No clinical studies were performed to assess the relationship between the dose of deferiprone and the amount of iron eliminated from the body.
 
 Cardiac Electrophysiology
 
-At a dose 1.5 times the maximum approved recommended dosage, FERRIPROX does not prolong the QT interval to any clinically relevant extent.
+At the maximum approved recommended dose, deferiprone does not prolong the QT interval to any clinically relevant extent.
 
 ## 12.3 Pharmacokinetics
 
@@ -43,12 +43,12 @@ Following oral administration, 75% to 90% of the administered dose was recovered
 Specific Populations
 
 No clinically significant differences in the pharmacokinetics of deferiprone were observed based on sex, race/ethnicity, body weight, mild to severe (eGFR 15 to 89 mL/min/1.73 m2) renal impairment, or mild (Child Pugh Class A) to moderate (Child Pugh Class B) hepatic impairment.
-The effect of age, including geriatric or pediatric populations, end stage renal disease, or severe (Child Pugh Class C) hepatic impairment on the pharmacokinetics of deferiprone is unknown.
+The effect of age, including geriatric or pediatric populations, end stage renal disease or severe (Child Pugh Class C) hepatic impairment on the pharmacokinetics of deferiprone is unknown.
 
 Drug Interaction Studies
 
 In Vitro Studies
 
-UGT1A6 Inhibitors: Co-administration of deferiprone with phenylbutazone (UGT1A6 inhibitor) decreased glucuronidation of deferiprone by up to 78%.
+UGTIA6 Inhibitors: Phenylbutazone (UGT1A6 inhibitor) decreased glucuronidation of deferiprone by up to 78%.
 
 Polyvalent Cations: Deferiprone has the potential to bind polyvalent cations (e.g., iron, aluminum, and zinc).

@@ -12,7 +12,7 @@ Interrupt FERRIPROX if infection develops and monitor the ANC frequently.
 
 Advise patients taking FERRIPROX to immediately interrupt therapy and report to their physician if they experience any symptoms indicative of infection.
 
-In pooled clinical trials, the incidence of agranulocytosis was 1.7% of patients.
+The incidence of agranulocytosis was 1.7% of patients in pooled clinical trials of 642 patients with thalassemia syndromes and 1.5% of patients in pooled clinical trials of 196 patients with sickle cell disease or other anemias.
 The mechanism of FERRIPROX-associated agranulocytosis is unknown.
 Agranulocytosis and neutropenia usually resolve upon discontinuation of FERRIPROX, but there have been reports of agranulocytosis leading to death.
 
@@ -33,8 +33,9 @@ Obtain a complete blood cell (CBC) count, including a white blood cell (WBC) cou
 
 ## 5.2 Liver Enzyme Elevations
 
-In clinical studies, 7.5% of 642 patients treated with FERRIPROX developed increased ALT values.
+In pooled clinical trials, 7.5% of 642 patients with thalassemia syndromes treated with FERRIPROX developed increased ALT values.
 Four (0.62%) FERRIPROX-treated subjects discontinued the drug due to increased serum ALT levels and 1 (0.16%) due to an increase in both ALT and AST.
+In pooled clinical trials, 7.7% of 196 patients with sickle cell disease or other anemias treated with FERRIPROX developed increased ALT values.
 
 Monitor serum ALT values monthly during therapy with FERRIPROX and consider interruption of therapy if there is a persistent increase in the serum transaminase levels.
 
@@ -47,7 +48,7 @@ Monitor plasma zinc, and supplement in the event of a deficiency.
 
 Based on findings from animal reproduction studies and evidence of genotoxicity, FERRIPROX can cause fetal harm when administered to a pregnant woman.
 The available data on the use of FERRIPROX in pregnant women are insufficient to inform risk.
-In animal studies, administration of deferiprone during the period of organogenesis resulted in embryofetal death and malformations at doses lower than equivalent human clinical doses.
+In animal studies, administration of deferiprone during the period of organogenesis resulted in embryo-fetal death and malformations at doses lower than equivalent human clinical doses.
 Advise pregnant women and females of reproductive potential of the potential risk to the fetus [see Use in Specific Populations (8.1)].
 
 Advise females of reproductive potential to use an effective method of contraception during treatment with FERRIPROX and for at least six months after the last dose.
