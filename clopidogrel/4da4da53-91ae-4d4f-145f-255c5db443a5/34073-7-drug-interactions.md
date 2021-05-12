@@ -1,6 +1,13 @@
 # 7 DRUG INTERACTIONS
 
-## 7.1 CYP2C19 Inhibitors
+## 7.1 CYP2C19 Inducers
+
+Since clopidogrel is metabolized to its active metabolite partly by CYP2C19, use of drugs that induce the activity of this enzyme would be expected to result in increased drug levels of the active metabolite of clopidogrel.
+
+Rifampin strongly induces CYP2C19 resulting to both an increase level of clopidogrel active metabolite and platelet inhibition, which in particular might potentiate the risk of bleeding.
+As a precaution, avoid concomitant use of strong CYP2C19 inducers [see Warnings and Precautions (5.1) and Clinical Pharmacology (12.3)].
+
+## 7.2 CYP2C19 Inhibitors
 
 Clopidogrel is metabolized to its active metabolite in part by CYP2C19.
 Concomitant use of drugs that inhibit the activity of this enzyme results in reduced plasma concentrations of the active metabolite of clopidogrel and a reduction in platelet inhibition.inhibition [see Warnings and Precautions(5.1)].
@@ -12,26 +19,26 @@ In clinical studies, omeprazole was shown to reduce significantly the antiplatel
 A similar reduction in antiplatelet activity was observed with esomeprazole when given concomitantly with clopidogrel.
 Dexlansoprazole, lansoprazole and pantoprazole had less effect on the antiplatelet activity of clopidogrel than did omeprazole or esomeprazole [see Warnings and Precautions(5.1) and Clinical Pharmacology(12.3)].
 
-## 7.2 Opioids
+## 7.3 Opioids
 
 As with other oral P2Y12 inhibitors, coadministration of opioid agonists delay and reduce the absorption of clopidogrel, presumably because of slowed gastric emptying, resulting in reduced exposure to its metabolites [see Clinical Pharmacology (12.3)].
 Consider the use of a parenteral antiplatelet agent in acute coronary syndrome patients requiring coadministration of morphine or other opioid agonists.
 
-## 7.3 Nonsteroidal Anti-inflammatory Drugs (NSAIDs)
+## 7.4 Nonsteroidal Anti-inflammatory Drugs (NSAIDs)
 
 Coadministration of clopidogrel and NSAIDs increases the risk of gastrointestinal bleeding.
 
-## 7.4 Warfarin (CYP2C9 Substrates)
+## 7.5 Warfarin (CYP2C9 Substrates)
 
 Although the administration of clopidogrel 75 mg per day did not modify the pharmacokinetics of S-warfarin (a CYP2C9 substrate) or INR in patients receiving long-term warfarin therapy, coadministration of clopidogrel with warfarin increases the risk of bleeding because of independent effects on hemostasis.
 
 However, at high concentrations in vitro, clopidogrel inhibits CYP2C9.
 
-## 7.5 SSRIs and SNRIs
+## 7.6 SSRIs and SNRIs
 
 Since selective serotonin reuptake inhibitors (SSRIs) and serotonin norepinephrine reuptake inhibitors (SNRIs) affect platelet activation, the concomitant administration of SSRIs and SNRIs with clopidogrel may increase the risk of bleeding.
 
-## 7.6 Repaglinide (CYP2C8 Substrates)
+## 7.7 Repaglinide (CYP2C8 Substrates)
 
 The acyl-β-glucuronide metabolite of clopidogrel is a strong inhibitor of CYP2C8.
 Clopidogrel can increase the systemic exposure to drugs that are primarily cleared by CYP2C8, thereby needing dose-adjustment and appropriate monitoring.

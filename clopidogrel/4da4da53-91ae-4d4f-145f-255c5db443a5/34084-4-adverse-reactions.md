@@ -7,7 +7,7 @@ The following serious adverse reactions are discussed below and elsewhere in the
 
 ## 6.1 Clinical Trials Experience
 
-Because clinical trials are conducted under widely varying conditions and durations of follow up, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in practice.
+Because clinical trials are conducted under widely varying conditions and durations of follow-up, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in practice.
 
 Clopidogrel has been evaluated for safety in more than 54,000 patients, including over 21,000 patients treated for one year or more.
 The clinically important adverse reactions observed in trials comparing clopidogrel plus aspirin to placebo plus aspirin and trials comparing clopidogrel alone to aspirin alone are discussed below.
@@ -28,10 +28,10 @@ Table 1: CURE Incidence of Bleeding Complications (% patients)
 | --- | --- | --- |
 |  | (+ aspirin) | (+ aspirin) |
 |  | (n=6259) | (n=6303) |
-| Major bleeding † | 3.7 | 2.7 |
+| Major bleeding* | 3.7 | 2.7 |
 | Life-threatening bleeding | 2.2 | 1.8 |
 | Fatal | 0.2 | 0.2 |
-| 5 g/dL hemoglobin drop | 0.9 | 0.9 |
+| 5 grams/dL hemoglobin drop | 0.9 | 0.9 |
 | Requiring surgical intervention | 0.7 | 0.7 |
 | Hemorrhagic strokes | 0.1 | 0.1 |
 | Requiring inotropes | 0.5 | 0.5 |
@@ -41,11 +41,11 @@ Table 1: CURE Incidence of Bleeding Complications (% patients)
 | Intraocular bleeding with | 0.05 | 0.03 |
 | significant loss of vision |  |  |
 | Requiring 2 to 3 units of blood | 1.3 | 0.9 |
-| Minor bleeding ¶ | 5.1 | 2.4 |
+| Minor bleeding† | 5.1 | 2.4 |
 
-† Life threatening and other major bleeding.
+* Life threatening and other major bleeding.
 
-¶ Led to interruption of study medication.
+† Led to interruption of study medication.
 
 COMMIT
 
@@ -53,7 +53,7 @@ In COMMIT, similar rates of major bleeding were observed in the clopidogrel and 
 
 Table 2: Incidence of Bleeding Events in COMMIT (% patients)
 
-| Type of Bleeding | Clopidogrel(+ aspirin) | Placebo(+ aspirin) | P-value |
+| Type of Bleeding | Clopidogrel(+ aspirin) | Placebo(+ aspirin) | p-value |
 | --- | --- | --- | --- |
 |  | (N=22961) | (N=22891) |  |
 | Major* noncerebral or cerebral bleeding | 0.6 | 0.5 | 0.59 |
