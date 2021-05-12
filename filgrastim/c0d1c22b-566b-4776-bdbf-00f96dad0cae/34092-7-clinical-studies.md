@@ -21,7 +21,7 @@ The safety and efficacy of filgrastim to reduce the time to neutrophil recovery 
 
 In Study 4 the initial induction therapy consisted of intravenous daunorubicin days 1, 2, and 3; cytosine arabinoside days 1 to 7; and etoposide days 1 to 5.
 Patients were randomized to receive subcutaneous filgrastim (n=259) at a dose of 5 mcg/kg/day or placebo (n=262) from 24 hours after the last dose of chemotherapy until neutrophil recovery (ANC ≥1,000/mm3 for 3 consecutive days or ≥ 10,000/mm3 for 1 day) or for a maximum of 35 days.
-The demographic and disease characteristics were balanced between arms with a median age of 54 (range 16 to 89) years; 54% males; initial white blood cell count (65% - <25,000 /mm3 and 27% > 100,000/mm3); 29% unfavorable cytogenetics.
+The demographic and disease characteristics were balanced between arms with a median age of 54 (range 16 to 89) years; 54% males; initial white blood cell count (65% <25,000 /mm3 and 27% > 100,000/mm3); 29% unfavorable cytogenetics.
 
 The main efficacy endpoint was median duration of severe neutropenia defined as neutrophil count < 500/mm3.
 Treatment with filgrastim resulted in a clinically and statistically significant reduction in median number of days of severe neutropenia, filgrastim-treated patients 14 days, placebo-treated patients 19 days (p=0.0001: difference of 5 days (95% CI: -6.0, -4.0)).
@@ -56,11 +56,11 @@ A statistically significant reduction in the median number of days of severe neu
 
 ## 14.4 Patients Undergoing Autologous Peripheral Blood Progenitor Cell Collection and Therapy
 
-The safety and efficacy of filgrastim to mobilize autologous peripheral blood progenitor cells for collection by leukapheresis was supported by the experience in uncontrolled trials, and a randomized trial comparing hematopoietic stem cell rescue using filgrastim mobilized autologous peripheral blood progenitor cells to autologous bone marrow (Study 11).
+The safety and efficacy of filgrastim to mobilize autologous peripheral blood progenitor cells for collection by leukapheresis was supported by the experience in uncontrolled trials, and a randomized trial comparing hematopoietic stem cell rescue using filgrastim-mobilized autologous peripheral blood progenitor cells to autologous bone marrow (Study 11).
 Patients in all these trials underwent a similar mobilization/collection regimen: filgrastim was administered for 6 to 7 days‚ in most cases the apheresis procedure occurred on days 5‚ 6, and 7.
 The dose of filgrastim ranged between 10 to 24 mcg/kg/day and was administered subcutaneously by injection or continuous intravenous infusion.
 
-Engraftment was evaluated in 64 patients who underwent transplantation using filgrastim mobilized autologous hematopoietic progenitor cells in uncontrolled trials.
+Engraftment was evaluated in 64 patients who underwent transplantation using filgrastim-mobilized autologous hematopoietic progenitor cells in uncontrolled trials.
 Two of the 64 patients (3%) did not achieve the criteria for engraftment as defined by a platelet count ≥ 20‚000/mm3 by day 28.
 In clinical trials of filgrastim for the mobilization of hematopoietic progenitor cells‚ filgrastim was administered to patients at doses between 5 to 24 mcg/kg/day after reinfusion of the collected cells until a sustainable ANC (≥ 500/mm3) was reached.
 The rate of engraftment of these cells in the absence of filgrastim post transplantation has not been studied.

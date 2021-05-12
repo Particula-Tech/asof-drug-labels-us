@@ -24,4 +24,4 @@ Product Composition
 | Sodium hydroxide | q.s. | q.s. |
 | Water for Injection USP q.s. ad* | ad 0.5 mL | ad 0.8 mL |
 
-*quantity sufficient to make
+*quantity sufficient to make.

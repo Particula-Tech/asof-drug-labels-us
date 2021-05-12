@@ -22,14 +22,14 @@ ZARXIO is contraindicated in patients with a history of serious allergic reactio
 
 ## 5.4 Sickle Cell Disorders
 
-Severe and sometimes fatal sickle cell crisis can occur in patients with sickle cell disorders receiving filgrastim products.
+Severe and sometimes fatal sickle cell crises can occur in patients with sickle cell disorders receiving filgrastim products.
 Discontinue ZARXIO if sickle cell crisis occurs.
 
 ## 5.5 Glomerulonephritis
 
 Glomerulonephritis has occurred in patients receiving filgrastim products.
 The diagnoses were based upon azotemia, hematuria (microscopic and macroscopic), proteinuria, and renal biopsy.
-Generally, events of glomerulonephritis resolved after dose reduction or discontinuation of filgrastim products.
+Generally, events of glomerulonephritis resolved after dose-reduction or discontinuation of filgrastim products.
 If glomerulonephritis is suspected, evaluate for cause.
 If causality is likely, consider dose-reduction or interruption of ZARXIO.
 
@@ -45,15 +45,24 @@ Capillary leak syndrome (CLS) has been reported after G-CSF administration, incl
 Episodes vary in frequency, severity and may be life-threatening if treatment is delayed.
 Patients who develop symptoms of capillary leak syndrome should be closely monitored and receive standard symptomatic treatment, which may include a need for intensive care.
 
-## 5.8 Patients with Severe Chronic Neutropenia
+## 5.8 Myelodysplastic Syndrome (MDS) and Acute Myeloid Leukemia (AML)
+
+Patients with Severe Chronic Neutropenia
 
 Confirm the diagnosis of SCN before initiating ZARXIO therapy.
-Myelodysplastic syndrome (MDS) and acute myelogenous leukemia (AML) have been reported to occur in the natural history of congenital neutropenia without cytokine therapy.
+
+MDS and AML have been reported to occur in the natural history of congenital neutropenia without cytokine therapy.
 Cytogenetic abnormalities, transformation to MDS, and AML have also been observed in patients treated with filgrastim products for SCN.
 Based on available data including a postmarketing surveillance study, the risk of developing MDS and AML appears to be confined to the subset of patients with congenital neutropenia.
 Abnormal cytogenetics and MDS have been associated with the eventual development of myeloid leukemia.
-The effect of filgrastim products on the development of abnormal cytogenetics and the effect of continued filgrastim product administration in patients with abnormal cytogenetics or MDS are unknown.
+The effect of filgrastim products on the development of abnormal cytogenetics and the effect of continued filgrastim products administration in patients with abnormal cytogenetics or MDS are unknown.
+Monitor patients for signs and symptoms of MDS/AML in these settings.
 If a patient with SCN develops abnormal cytogenetics or myelodysplasia‚ the risks and benefits of continuing ZARXIO should be carefully considered.
+
+Patients with Breast and Lung Cancer
+
+MDS and AML have been associated with the use of filgrastim products in conjunction with chemotherapy and/or radiotherapy in patients with breast and lung cancer.
+Monitor patients for signs and symptoms of MDS/AML in these settings.
 
 ## 5.9 Thrombocytopenia
 
