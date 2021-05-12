@@ -16,6 +16,11 @@ Diabetic Retinopathy Complications
 
 Inform patients to contact their physician if changes in vision are experienced during treatment with RYBELSUS [see Warnings and Precautions (5.3)].
 
+Hypoglycemia with Concomitant Use of Insulin Secretagogues or Insulin
+
+Inform patients that the risk of hypoglycemia is increased when RYBELSUS is used with an insulin secretagogue (such as a sulfonylurea) or insulin.
+Educate patients on the signs and symptoms of hypoglycemia [see Warnings and Precautions (5.4)].
+
 Dehydration and Renal Failure
 
 Advise patients treated with RYBELSUS of the potential risk of dehydration due to gastrointestinal adverse reactions and take precautions to avoid fluid depletion.
@@ -23,7 +28,8 @@ Inform patients of the potential risk for worsening renal function and explain t
 
 Hypersensitivity Reactions
 
-Inform patients to stop taking RYBELSUS and seek medical advice promptly if symptoms of hypersensitivity reactions occur [see Warnings and Precautions (5.6)].
+Inform patients that serious hypersensitivity reactions have been reported during postmarketing use of RYBELSUS.
+Advise patients on the symptoms of hypersensitivity reactions and instruct them to stop taking RYBELSUS and seek medical advice promptly if such symptoms occur [see Warnings and Precautions (5.6)].
 
 Pregnancy
 
@@ -54,12 +60,12 @@ Plainsboro, NJ 08536
 
 1-833-457-7455
 
-Date of Issue: January 2020
+Date of Issue: April 2021
 
-Version: 2
+Version: 3
 
 RYBELSUS ® and OZEMPIC® are registered trademarks of Novo Nordisk A/S.
 
 PATENT INFORMATION: http://www.novonordisk-us.com/products/product-patents.html
 
-© 2020 Novo Nordisk
+© 2021 Novo Nordisk

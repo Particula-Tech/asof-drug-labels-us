@@ -74,7 +74,7 @@ Safety and efficacy of RYBELSUS have not been established in pediatric patients 
 ## 8.5 Geriatric Use
 
 In the pool of glycemic control trials, 1229 (29.9%) RYBELSUS-treated patients were 65 years of age and over and 199 (4.8%) RYBELSUS-treated patients were 75 years of age and over.
-In PIONEER 6, the cardiovascular outcomes trial, 691 (43.4%) RYBELSUS-treated patients were 65 years of age and over and 196 (12.3%) RYBELSUS-treated patients were 75 years of age and over.
+In PIONEER 6, the cardiovascular outcomes trial, 891 (56.0%) RYBELSUS-treated patients were 65 years of age and over and 200 (12.6%) RYBELSUS-treated patients were 75 years of age and over.
 
 No overall differences in safety or efficacy were detected between these patients and younger patients, but greater sensitivity of some older individuals cannot be ruled out.
 

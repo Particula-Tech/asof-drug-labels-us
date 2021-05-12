@@ -8,7 +8,7 @@ It is unknown whether RYBELSUS causes thyroid C-cell tumors, including medullary
 Cases of MTC in patients treated with liraglutide, another GLP-1 receptor agonist, have been reported in the postmarketing period; the data in these reports are insufficient to establish or exclude a causal relationship between MTC and GLP-1 receptor agonist use in humans.
 
 RYBELSUS is contraindicated in patients with a personal or family history of MTC or in patients with MEN 2.
-Counsel patients regarding the potential risk for MTC with the use of RYBELSUS and inform them of symptoms of thyroid tumors (e.g. a mass in the neck, dysphagia, dyspnea, persistent hoarseness).
+Counsel patients regarding the potential risk for MTC with the use of RYBELSUS and inform them of symptoms of thyroid tumors (e.g., a mass in the neck, dysphagia, dyspnea, persistent hoarseness).
 
 Routine monitoring of serum calcitonin or using thyroid ultrasound is of uncertain value for early detection of MTC in patients treated with RYBELSUS.
 Such monitoring may increase the risk of unnecessary procedures, due to the low test specificity for serum calcitonin and a high background incidence of thyroid disease.
@@ -36,8 +36,10 @@ Patients with a history of diabetic retinopathy should be monitored for progress
 
 ## 5.4 Hypoglycemia with Concomitant Use of Insulin Secretagogues or Insulin
 
-The risk of hypoglycemia is increased when RYBELSUS is used in combination with insulin secretagogues (e.g., sulfonylureas) or insulin.
-Patients may require a lower dose of the secretagogue or insulin to reduce the risk of hypoglycemia in this setting [see Adverse Reactions (6.1), Drug Interactions (7.1)].
+Patients receiving RYBELSUS in combination with an insulin secretagogue (e.g., sulfonylurea) or insulin may have an increased risk of hypoglycemia, including severe hypoglycemia [see Adverse Reactions (6.1) and Drug Interactions (7)].
+
+The risk of hypoglycemia may be lowered by a reduction in the dose of sulfonylurea (or other concomitantly administered insulin secretagogue) or insulin.
+Inform patients using these concomitant medications of the risk of hypoglycemia and educate them on the signs and symptoms of hypoglycemia.
 
 ## 5.5 Acute Kidney Injury
 
@@ -48,9 +50,9 @@ Monitor renal function when initiating or escalating doses of RYBELSUS in patien
 
 ## 5.6 Hypersensitivity
 
-Serious hypersensitivity reactions (e.g., anaphylaxis, angioedema) have been reported with GLP-1 receptor agonists, including semaglutide.
+Serious hypersensitivity reactions (e.g., anaphylaxis, angioedema) have been reported in patients treated with RYBELSUS.
 If hypersensitivity reactions occur, discontinue use of RYBELSUS; treat promptly per standard of care, and monitor until signs and symptoms resolve.
-Do not use in patients with a previous hypersensitivity to RYBELSUS [see Contraindications (4)].
+Do not use in patients with a previous hypersensitivity to RYBELSUS [see Contraindications (4) and Adverse Reactions (6.3)].
 
 Anaphylaxis and angioedema have been reported with GLP-1 receptor agonists.
 Use caution in a patient with a history of angioedema or anaphylaxis with another GLP-1 receptor agonist because it is unknown whether such patients will be predisposed to anaphylaxis with RYBELSUS.

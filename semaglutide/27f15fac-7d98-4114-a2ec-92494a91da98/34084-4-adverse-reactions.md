@@ -100,7 +100,7 @@ Cholelithiasis was not reported in RYBELSUS 14 mg or placebo-treated patients.
 
 Increases in Heart Rate
 
-In placebo-controlled trials, RYBELSUS 7 mg and 14 mg resulted in a mean increase in heart rate of 2 to 3 beats per minute.
+In placebo-controlled trials, RYBELSUS 7 mg and 14 mg resulted in a mean increase in heart rate of 1 to 3 beats per minute.
 There was no change in heart rate in placebo-treated patients.
 
 ## 6.2 Immunogenicity
@@ -113,3 +113,10 @@ For these reasons, the incidence of antibodies to semaglutide in the studies des
 Across the placebo- and active-controlled glycemic control trials with antibody measurements, 14 (0.5%) RYBELSUS-treated patients developed anti-drug antibodies (ADAs) to the active ingredient in RYBELSUS (i.e., semaglutide).
 Of the 14 semaglutide-treated patients that developed semaglutide ADAs, 7 patients (0.2% of the overall population) developed antibodies cross-reacting with native GLP-1.
 The neutralizing activity of the antibodies is uncertain at this time.
+
+## 6.3 Postmarketing Experience
+
+The following adverse reactions have been reported during post-approval use of semaglutide, the active ingredient of RYBELSUS.
+Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
+
+Hypersensitivity: anaphylaxis, angioedema, rash, urticaria

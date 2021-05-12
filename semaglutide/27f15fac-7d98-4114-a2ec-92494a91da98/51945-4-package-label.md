@@ -1,4 +1,4 @@
-# PRINCIPAL DISPLAY PANEL – 3mg
+# PRINCIPAL DISPLAY PANEL – 3 mg
 
 NDC 0169-4303-13List 430313
 
@@ -29,7 +29,7 @@ Open
 
 Here
 
-# PRINCIPAL DISPLAY PANEL – 7mg
+# PRINCIPAL DISPLAY PANEL – 7 mg
 
 NDC 0169-4307-13 List 430313
 
@@ -60,7 +60,7 @@ Open
 
 Here
 
-# PRINCIPAL DISPLAY PANEL – 14mg
+# PRINCIPAL DISPLAY PANEL – 14 mg
 
 NDC 0169-4314-13 List 431413
 
@@ -90,3 +90,63 @@ Each pack contains 10 tablets.
 Open
 
 Here
+
+# PRINCIPAL DISPLAY PANEL – 3 mg Bottle
+
+NDC 0169-4303-30List 430330
+
+RYBELSUS® 3 mg
+
+(semaglutide) Tablets
+
+3 mg
+
+Once daily
+
+Oral use only
+
+Rx only
+
+DISPENSE WITH MEDICATION GUIDE
+
+30 tablets
+
+# PRINCIPAL DISPLAY PANEL – 7 mg Bottle
+
+NDC 0169-4307-30List 430730
+
+RYBELSUS® 7 mg
+
+(semaglutide) Tablets
+
+7 mg
+
+Once daily
+
+Oral use only
+
+Rx only
+
+DISPENSE WITH MEDICATION GUIDE
+
+30 tablets
+
+# PRINCIPAL DISPLAY PANEL – 14 mg Bottle
+
+NDC 0169-4314-30List 431430
+
+RYBELSUS® 14 mg
+
+(semaglutide) Tablets
+
+14 mg
+
+Once daily
+
+Oral use only
+
+Rx only
+
+DISPENSE WITH MEDICATION GUIDE
+
+30 tablets
