@@ -59,6 +59,11 @@ Levodopa and Dopamine Agonists
 
 Risperidone may antagonize the effects of levodopa and dopamine agonists.
 
+Methylphenidate
+
+Concomitant use with methylphenidate, when there is change in dosage of either medication, may increase the risk of extrapyramidal symptoms (EPS).
+Monitor for symptoms of EPS with concomitant use of risperidone and methylphenidate [see Adverse Reactions (6.2)].
+
 Clozapine
 
 Chronic administration of clozapine with risperidone may decrease the clearance of risperidone.
