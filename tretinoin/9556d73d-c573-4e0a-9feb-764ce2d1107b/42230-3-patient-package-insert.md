@@ -89,7 +89,7 @@ HOW TO USE RETIN-A (TRETINOIN)
 To get the best results with RETIN-A therapy, it is necessary to use it properly.
 Forget about the instructions given for other products and the advice of friends.
 Just stick to the special plan your doctor has laid out for you and be patient.
-Remember, when RETIN-A is used properly,many users see improvement by 12 weeks.
+Remember, when RETIN-A is used properly, many users see improvement by 12 weeks.
 AGAIN, FOLLOW INSTRUCTIONS – BE PATIENT – DON’T START AND STOP THERAPY ON YOUR OWN – IF YOU HAVE QUESTIONS, ASK YOUR DOCTOR.
 
 To help you use the medication correctly, keep these simple instructions in mind.
@@ -111,7 +111,7 @@ To help you use the medication correctly, keep these simple instructions in mind
 - •Gel: Squeeze about a half inch or less of medication onto the fingertip.
   While that should be enough for your whole face, after you have some experience with the medication, you may find you need slightly more or less to do the job.
   The medication should become invisible almost immediately.
-  If it is still visible, or if dry flaking occurs from the gel within a minute or so,you are using too much.
+  If it is still visible, or if dry flaking occurs from the gel within a minute or so, you are using too much.
   Cover the affected area lightly with RETIN-A (tretinoin) Gel by first dabbing it on your forehead, chin and both cheeks, then spreading it over the entire affected area.
   Smooth gently into the skin.
 - •It is recommended that you apply a moisturizer or a moisturizer with sunscreen that will not aggravate your acne (noncomedogenic) every morning after you wash.
