@@ -13,7 +13,7 @@ What is the most important information I should know about clopidogrel tablets?
 1.
 Clopidogrel tablets may not work as well in people who:
 
-- have certain genetic factors that affect how the body breaks down clopidogrel tablets.
+- have certain genetic factors that affect how the body breaks down clopidogrel.
   Your doctor may do genetic tests to make sure clopidogrel tablets are right for you.
 - take certain medicines, especially omeprazole (Prilosec®) or esomeprazole (Nexium®).
   Your doctor may change the medicine you take for stomach acid problems while you take clopidogrel tablets.
@@ -42,7 +42,7 @@ If you must stop clopidogrel tablets because of bleeding, your risk of a heart a
 
 What are clopidogrel tablets?
 
-Clopidogrel tablets are prescription medicine used to treat people who have any of the following:
+Clopidogrel tablets are a prescription medicine used to treat people who have any of the following:
 
 - chest pain due to heart problems
 - poor circulation in their legs (peripheral arterial disease)
@@ -99,6 +99,7 @@ Especially tell your doctor if you take:
 - warfarin (Coumadin®, Jantoven®)
 - selective serotonin reuptake inhibitors (SSRIs) and serotonin norepinephrine reuptake inhibitors (SNRIs).
   Ask your doctor or pharmacist for a list of SSRI or SNRI medicines if you are not sure.
+- rifampin (used to treat severe infections)
 
 Know the medicines you take.
 Keep a list of them to show your doctor or pharmacist when you get a new medicine.
@@ -197,12 +198,8 @@ Bachupally - 500 090 INDIA
 
 or
 
-Manufactured by:
-
-Dr. Reddy’s Laboratories Limited
-
 Srikakulam - 532 409 INDIA
 
-Revised: 0519
+Revised: 0321
 
 Dispense with Medication Guide available at: www.drreddys.com/medguide/clopidogreltabs.pdf

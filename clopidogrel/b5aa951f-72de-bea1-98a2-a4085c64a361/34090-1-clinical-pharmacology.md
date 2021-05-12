@@ -44,7 +44,7 @@ Absorption is at least 50%, based on urinary excretion of clopidogrel metabolite
 
 Effect of food
 
-Clopidogrel can be administered with or without food.
+Clopidogrel tablets can be administered with or without food.
 In a study in healthy male subjects when clopidogrel 75 mg per day was given with a standard breakfast, mean inhibition of ADP-induced platelet aggregation was reduced by less than 9%.
 The active metabolite AUC0-24 was unchanged in the presence of food, while there was a 57% decrease in active metabolite Cmax.
 Similar results were observed when a clopidogrel 300 mg loading dose was administered with a high-fat breakfast.
@@ -72,6 +72,16 @@ Drug Interactions
 Effect of other drugs on clopidogrel
 
 Clopidogrel is metabolized to its active metabolite in part by CYP2C19.
+
+CYP2C19 inducers
+
+Concomitant use of strong inducers of CYP2C19 results in increased plasma concentration of the active metabolite of clopidogrel and an increase in platelet inhibition.
+
+Rifampin: Coadministration of rifampin 300 mg twice daily for 7 days with 600 mg loading dose of clopidogrel in healthy adults increased the mean AUC and Cmax of clopidogrel’s thiol metabolites by 3.8-fold.
+Mean inhibition of platelet aggregation at 4 hours post-dose was 34% higher in the presence of rifampin compared to clopidogrel administered alone.
+
+CYP2C19 inhibitors
+
 Concomitant use of certain inhibitors of this enzyme results in reduced plasma concentrations of the active metabolite of clopidogrel and a reduction in platelet inhibition.
 
 Proton pump inhibitors (PPI)
