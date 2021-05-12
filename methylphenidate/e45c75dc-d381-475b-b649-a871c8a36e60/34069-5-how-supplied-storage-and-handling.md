@@ -1,5 +1,7 @@
 # HOW SUPPLIED
 
+Methylphenidate HCl Extended-Release Capsules CD are available in six strengths:
+
 10 mg, green/white capsules, imprinted with “LANNETT 4579” in white letters on the green cap, and “10 mg” in black letters on the white body of the capsule.
 
 NDC 0527-4579-37 Bottle of 100 Capsules

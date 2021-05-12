@@ -29,7 +29,7 @@ The prescriber should be aware that these figures cannot be used to predict the 
 Similarly, the cited frequencies cannot be compared with figures obtained from other clinical investigations involving different treatments, uses, and investigators.
 The cited figures, however, do provide the prescribing physician with some basis for estimating the relative contribution of drug and non-drug factors to the adverse event incidence rate in the population studied.
 
-TABLE 1 Incidence of Treatment-Emergent Events*in a Pool of 3-4 Week Clinical Trials of Methylphenidate HCl Extended-Release Capsules CD
+TABLE 1 Incidence of Treatment-Emergent Events1 in a Pool of 3-4 Week Clinical Trials of Methylphenidate HCl Extended-Release Capsules CD
 
 |  |  | Capsules CD (n=188) |  |
 | --- | --- | --- | --- |
@@ -38,6 +38,9 @@ TABLE 1 Incidence of Treatment-Emergent Events*in a Pool of 3-4 Week Clinical Tr
 |  | Abdominal pain (stomach ache) | 7% | 4% |
 | Digestive System | Anorexia (loss of appetite) | 9% | 2% |
 | Nervous System | Insomnia | 5% | 2% |
+
+1: Events, regardless of causality, for which the incidence for patients treated with Methylphenidate HCl Extended-Release Capsules CD was at least 5% and greater than the incidence among placebo-treated patients.
+Incidence has been rounded to the nearest whole number.
 
 ## Adverse Events With Other Marketed Methylphenidate HCl Products
 

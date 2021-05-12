@@ -1,14 +1,14 @@
 Once Daily
 
-Rx only
+Rx Only
 
 # For Medical Information
 
 Contact: Lannett Company, Inc. Phone: 1-844-834-0530
 
-Distributed by: Lannett Company, Inc. Philadelphia, PA 19154
+Distributed by: Lannett Company, Inc. Philadelphia, PA 19136
 
-L6845
+L6845A
 
 Rev.
-08/18
+05/21

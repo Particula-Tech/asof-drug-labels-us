@@ -127,6 +127,17 @@ The Medication Guide may also be obtained by calling 1-844-834-0530.
 
 ## Drug Interactions
 
+Monoamine Oxidase Inhibitors (MAOI)
+
+Concomitant use of MAOIs and CNS stimulants, including Methylphenidate HCl Extended-Release Capsules CD can cause hypertensive crisis.
+Potential outcomes include death, stroke, myocardial infarction, aortic dissection, ophthalmological complications, eclampsia, pulmonary edema, and renal failure (see CONTRAINDICATIONS).
+Concomitant use of Methylphenidate HCl Extended-Release Capsules CD with MAOIs or within 14 days after discontinuing MAOI treatment is contraindicated.
+
+Antihypertensive Drugs
+
+Methylphenidate HCl Extended-Release Capsules CD may decrease the effectiveness of drugs used to treat hypertension.
+Monitor blood pressure and adjust the dosage of the antihypertensive drug as needed.
+
 Because of possible effects on blood pressure, Methylphenidate HCl Extended-Release Capsules CD should be used cautiously with pressor agents.
 
 Human pharmacologic studies have shown that methylphenidate may inhibit the metabolism of coumarin anticoagulants, anticonvulsants (e.g., phenobarbital, phenytoin, primidone), phenylbutazone and some antidepressants (tricyclics and selective serotonin reuptake inhibitors).
@@ -138,8 +149,13 @@ This should be considered when methylphenidate is given in combination with agen
 
 ### Halogenated Anesthetics
 
-There is a risk of sudden blood pressure increase during surgery.
-If surgery is planned, Methylphenidate HCl Extended-Release Capsules CD should not be taken the day of the surgery.
+Concomitant use of halogenated anesthetics and Methylphenidate HCl Extended-Release Capsules CD may increase the risk of sudden blood pressure and heart rate increase during surgery.
+Avoid use of Methylphenidate HCl Extended-Release Capsules CD in patients being treated with anesthetics on the day of surgery.
+
+### Risperidone
+
+Combined use of methylphenidate with risperidone when there is a change, whether an increase or decrease, in dosage of either or both medications, may increase the risk of extrapyramidal symptoms (EPS).
+Monitor for signs of EPS.
 
 ## Carcinogenesis, Mutagenesis, And Impairment Of Fertility
 

@@ -1,4 +1,4 @@
-# MEDICATION GUIDE Methylphenidate HCl Extended-Release Capsules CD CII
+# MEDICATION GUIDE (meth” il fen’ i date hye” droe klor’ ide) Methylphenidate HCl Extended-Release Capsules CD CII
 
 Read the Medication Guide that comes with Methylphenidate HCl Extended-Release Capsules CD before you or your child starts taking it and each time you get a refill.
 There may be new information.
@@ -166,9 +166,9 @@ The individual capsules contain the following coloring agents:
 
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
 
-Distributed by: Lannett Company, Inc. Philadelphia, PA 19154
+Distributed by: Lannett Company, Inc. Philadelphia, PA 19136
 
-L6846
+L6846A
 
 Rev.
-08/18
+05/21
