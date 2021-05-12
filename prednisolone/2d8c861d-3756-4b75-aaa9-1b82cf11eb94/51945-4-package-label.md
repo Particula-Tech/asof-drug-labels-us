@@ -1,14 +1,4 @@
-# PRINCIPAL DISPLAY PANEL - 120 mL Bottle Label
+# PRINCIPAL DISPLAY PANEL
 
-NDC 62135-330-41
-
-PrednisoLONE Sodium Phosphate Oral Solution
-
-5 mg (base) / 5 mL*
-
-ALCOHOL FREE DYE FREE SUGAR FREE
-
-Rx Only 4 Fl Oz.
-(120 mL)
-
-Chartwell Rx
+NDC 62135-330-41 Prednisolone sodium phosphate oral solution 5 mg (base)/ 5 mL 4 fl oz.
+(120 mL) Rx Only

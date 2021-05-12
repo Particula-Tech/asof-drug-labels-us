@@ -55,18 +55,18 @@ In such patients, corticosteroid-induced immunosuppression may lead to Strongylo
 
 Corticosteroids should not be used in cerebral malaria.
 
-## Tuberculosis
+Tuberculosis
 
 The use of prednisolone in active tuberculosis should be restricted to those cases of fulminating or disseminated tuberculosis in which the corticosteroid is used for the management of the disease in conjunction with an appropriate antituberculous regimen.
 
 If corticosteroids are indicated in patients with latent tuberculosis or tuberculin reactivity, close observation is necessary as reactivation of the disease may occur.
 During prolonged corticosteroid therapy, these patients should receive chemoprophylaxis.
 
-## Vaccination
+Vaccination
 
-Administration of live or live, attenuated vaccines is contraindicated in patients receiving immunosuppressive doses of corticosteroids.
-Killed or inactivated vaccines may be administered, however, the response to such vaccines can not be predicted.
-Immunization procedures may be undertaken in patients who are receiving corticosteroids as replacement therapy, e.g., for Addison's disease.
+Administration of live or live, attenuated vaccines iscontraindicated in patients receiving immunosuppressive doses of corticosteroids.
+Killed or inactivated vaccines may be administered, however, the response to such vaccines cannot be predicted.
+Immunization procedures may be undertaken in patients who are receiving corticosteroids as replacement therapy, e.g., for Addison’s disease.
 
 # PRECAUTIONS
 
@@ -78,32 +78,32 @@ Since complications of treatment with glucocorticoids are dependent on the size 
 
 There is an enhanced effect of corticosteroids in patients with hypothyroidism and in those with cirrhosis.
 
-Kaposi's sarcoma has been reported to occur in patients receiving corticosteroid therapy, most often for chronic conditions.
+Kaposi’s sarcoma has been reported to occur in patients receiving corticosteroid therapy, most often for chronic conditions.
 Discontinuation of corticosteroids may result in clinical improvement.
 
-## Cardio-renal
+Cardio-renal
 
 As sodium retention with resultant edema and potassium loss may occur in patients receiving corticosteroids, these agents should be used with caution in patients with hypertension, congestive heart failure, or renal insufficiency.
 
-## Endocrine
+Endocrine
 
 Drug-induced secondary adrenocortical insufficiency may be minimized by gradual reduction of dosage.
 This type of relative insufficiency may persist for months after discontinuation of therapy; therefore, in any situation of stress occurring during that period, hormone therapy should be reinstituted.
 Since mineralocorticoid secretion may be impaired, salt and/or a mineralocorticoid should be administered concurrently.
 
-## Gastrointestinal
+Gastrointestinal
 
 Steroids should be used with caution in nonspecific ulcerative colitis, if there is a probability of impending perforation, abscess or other pyogenic infection; diverticulitis; fresh intestinal anastomoses; active or latent peptic ulcer.
 
 Signs of peritoneal irritation following gastrointestinal perforation in patients receiving corticosteroids may be minimal or absent.
 
-## Musculoskeletal
+Musculoskeletal
 
 Corticosteroids decrease bone formation and increase bone resorption both through their effect on calcium regulation (i.e., decreasing absorption and increasing excretion) and inhibition of osteoblast function.
 This, together with a decrease in the protein matrix of the bone secondary to an increase in protein catabolism, and reduced sex hormone production, may lead to inhibition of bone growth in children and adolescents and the development of osteoporosis at any age.
 Special consideration should be given to patients at increased risk of osteoporosis (i.e., postmenopausal women) before initiating corticosteroid therapy.
 
-## Neuro-psychiatric
+Neuro-psychiatric
 
 Although controlled clinical trials have shown corticosteroids to be effective in speeding the resolution of acute exacerbations of multiple sclerosis, they do not show that they affect the ultimate outcome or natural history of the disease.
 The studies do show that relatively high doses of corticosteroids are necessary to demonstrate a significant effect.
@@ -117,7 +117,7 @@ Clinical improvement or recovery after stopping corticosteroids may require week
 Psychic derangements may appear when corticosteroids are used, ranging from euphoria, insomnia, mood swings, personality changes, and severe depression, to frank psychotic manifestations.
 Also, existing emotional instability or psychotic tendencies may be aggravated by corticosteroids.
 
-## Ophthalmic
+Ophthalmic
 
 Intraocular pressure may become elevated in some individuals.
 If steroid therapy is continued for more than 6 weeks, intraocular pressure should be monitored.
@@ -163,9 +163,9 @@ Corticosteroids may suppress reactions to skin tests.
 
 ## Pregnancy
 
-### Teratogenic Effects
+Teratogenic Effects
 
-#### Pregnancy Category C
+Pregnancy Category C
 
 Prednisolone has been shown to be teratogenic in many species when given in doses equivalent to the human dose.
 Animal studies in which prednisolone has been given to pregnant mice, rats, and rabbits have yielded an increased incidence of cleft palate in the offspring.
@@ -173,12 +173,12 @@ There are no adequate and well controlled studies in pregnant women.
 Prednisolone sodium phosphate oral solution should be used during pregnancy only if the potential benefit justifies the potential risk to the fetus.
 Infants born to mothers who have received corticosteroids during pregnancy should be carefully observed for signs of hypoadrenalism.
 
-## Nursing Mothers
+Nursing Mothers
 
 Systemically administered corticosteroids appear in human milk and could suppress growth, interfere with endogenous corticosteroid production, or cause other untoward effects.
 Caution should be exercised when prednisolone sodium phosphate oral solution is administered to a nursing woman.
 
-## Pediatric Use
+Pediatric Use
 
 The efficacy and safety of prednisolone in the pediatric population are based on the well-established course of effect of corticosteroids which is similar in pediatric and adult populations.
 Published studies provide evidence of efficacy and safety in pediatric patients for the treatment of nephrotic syndrome (>2 years of age), and aggressive lymphomas and leukemias (>1 month of age).
@@ -191,9 +191,9 @@ Children who are treated with corticosteroids by any route, including systemical
 This negative impact of corticosteroids on growth has been observed at low systemic doses and in the absence of laboratory evidence of HPA axis suppression (i.e., cosyntropin stimulation and basal cortisol plasma levels).
 Growth velocity may therefore be a more sensitive indicator of systemic corticosteroid exposure in children than some commonly used tests of HPA axis function.
 The linear growth of children treated with corticosteroids by any route should be monitored, and the potential growth effects of prolonged treatment should be weighed against clinical benefits obtained and the availability of other treatment alternatives.
-In order to minimize the potential growth effects of corticosteroids, children should be titrated to the lowest effective dose.
+In order to minimize the potential growth effects of corticosteroids, children should be titratedto the lowest effective dose.
 
-## Geriatric Use
+Geriatric Use
 
 Clinical studies of prednisolone sodium phosphate oral solution did not include sufficient numbers of subjects aged 65 and over to determine whether they respond differently from younger subjects.
 Other reported clinical experience with prednisolone sodium phosphate has not identified differences in responses between the elderly and younger patients.

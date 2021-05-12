@@ -4,7 +4,7 @@ Naturally occurring glucocorticoids (hydrocortisone), which also have salt-retai
 Their synthetic analogs are primarily used for their potent anti-inflammatory effects in disorders of many organ systems.
 
 Prednisolone is a synthetic adrenocortical steroid drug with predominantly glucocorticoid properties.
-Some of these properties reproduce the physiological actions of endogenous glucocorticosteroids, but others do not necessarily reflect any of the adrenal hormones' normal functions; they are seen only after administration of large therapeutic doses of the drug.
+Some of these properties reproduce the physiological actions of endogenous glucocorticosteroids, but others do not necessarily reflect any of the adrenal hormones’ normal functions; they are seen only after administration of large therapeutic doses of the drug.
 The pharmacological effects of prednisolone which are due to its glucocorticoid properties include: promotion of gluconeogenesis; increased deposition of glycogen in the liver; inhibition of the utilization of glucose; anti-insulin activity; increased catabolism of protein; increased lipolysis; stimulation of fat synthesis and storage; increased glomerular filtration rate and resulting increase in urinary excretion of urate (creatinine excretion remains unchanged); and increased calcium excretion.
 
 Depressed production of eosinophils and lymphocytes occurs, but erythropoiesis and production of polymorphonuclear leukocytes are stimulated.

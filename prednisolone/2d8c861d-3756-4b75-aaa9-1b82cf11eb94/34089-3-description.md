@@ -3,7 +3,7 @@
 Prednisolone sodium phosphate oral solution is a dye free, clear, colorless to slightly yellow colored, raspberry flavored solution.
 Each 5 mL (teaspoonful) of prednisolone sodium phosphate oral solution contains 6.7 mg prednisolone sodium phosphate (5 mg prednisolone base) in a palatable, aqueous vehicle.
 
-Prednisolone sodium phosphate oral solution also contains dibasic sodium phosphate, edetate disodium, methylparaben, purified water, sodium biphosphate, sorbitol, natural and artificial raspberry flavor.
+Prednisolone sodium phosphate oral solution also contains edetate disodium, methylparaben, purified water, sodium phosphate dibasic, sodium phosphate monobasic, sorbitol solution, and artificial raspberry flavor.
 
 Prednisolone sodium phosphate occurs as white or slightly yellow, friable granules or powder.
 It is freely soluble in water; soluble in methanol; slightly soluble in alcohol and in chloroform; and very slightly soluble in acetone and in dioxane.
