@@ -22,4 +22,4 @@ For more information call 1-877-835-5472 or visit www.amneal.com
 Distributed by: Amneal Pharmaceuticals LLC Bridgewater, NJ 08807
 
 Rev.
-04-2020-07
+04-2021-08

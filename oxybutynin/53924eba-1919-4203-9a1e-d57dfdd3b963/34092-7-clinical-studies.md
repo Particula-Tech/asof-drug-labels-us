@@ -20,6 +20,8 @@ Table 4: Number of Urge Urinary Incontinence Episodes Per Week (Study 1)
 
 Figure 3: Mean Change (±SD) in Urge Urinary Incontinence Episodes Per Week from Baseline (Study 1)
 
+* The difference between oxybutynin chloride and placebo was statistically significant.
+
 Table 5: Number of Urge Urinary Incontinence Episodes Per Week (Study 2)
 
 | Study 2 | n | Oxybutynin Chloride | n | Oxybutynin |
@@ -43,3 +45,5 @@ Table 6: Number of Urge Urinary Incontinence Episodes Per Week (Study 3)
 | ** The difference between oxybutynin chloride and oxybutynin fulfilled the criteria for comparable efficacy.† Covariate adjusted mean with missing observations set to baseline values. |  |  |  |  |
 
 Figure 5: Mean Change (±SD) in Urge Urinary Incontinence Episodes Per Week from Baseline (Study 3)
+
+** The difference between oxybutynin chloride and oxybutynin fulfilled the criteria for comparable efficacy.

@@ -10,7 +10,7 @@ Adverse reactions reported by ≥ 1% of subjects are shown in Table 1.
 
 Table 1: Adverse Drug Reactions Reported by ≥ 1% of Oxybutynin Chloride Extended-Release Tablets-treated Adult Subjects in Five Double-blind, Controlled Clinical Trials of Oxybutynin Chloride Extended-Release Tablets
 
-| System/Organ Class Preferred Term | Oxybutynin Chloride Extended-ReleaseTablets 5 to 30 mg/day n = 774 % | Oxybutynin Chloride Immediate-ReleaseTablets1 5 to 20 mg/day n = 199 % |
+| System/Organ Class Preferred Term | Oxybutynin Chloride Extended-Release Tablets 5 to 30 mg/day n = 774 % | Oxybutynin Chloride Immediate-Release Tablets1 5 to 20 mg/day n = 199 % |
 | --- | --- | --- |
 | Psychiatric Disorders |  |  |
 | Insomnia | 3.0 | 5.5 |
