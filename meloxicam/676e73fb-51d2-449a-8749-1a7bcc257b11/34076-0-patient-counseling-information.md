@@ -27,9 +27,9 @@ Anaphylactic Reactions
 Inform patients of the signs of an anaphylactic reaction (e.g., difficulty breathing, swelling of the face or throat).
 Instruct patients to seek immediate emergency help if these occur [see Contraindications (4) and Warnings and Precautions (5.7)].
 
-Serious Skin Reactions
+Serious Skin Reactions, including DRESS
 
-Advise patients to stop MOBIC immediately if they develop any type of rash and to contact their healthcare provider as soon as possible [see Warnings and Precautions (5.9)].
+Advise patients to stop taking MOBIC immediately if they develop any type of rash or fever and to contact their healthcare provider as soon as possible [see Warnings and Precautions (5.9, 5.10)].
 
 Female Fertility
 
@@ -37,7 +37,8 @@ Advise females of reproductive potential who desire pregnancy that NSAIDs, inclu
 
 Fetal Toxicity
 
-Inform pregnant women to avoid use of MOBIC and other NSAIDs starting at 30 weeks gestation because of the risk of the premature closing of the fetal ductus arteriosus [see Warnings and Precautions (5.10) and Use in Specific Populations (8.1)].
+Inform pregnant women to avoid use of MOBIC and other NSAIDs starting at 30 weeks gestation because of the risk of the premature closing of the fetal ductus arteriosus.
+If treatment with MOBIC is needed for a pregnant woman between about 20 to 30 weeks gestation, advise her that she may need to be monitored for oligohydramnios, if treatment continues for longer than 48 hours [see Warnings and Precautions (5.11) and Use in Specific Populations (8.1)].
 
 Avoid Concomitant Use of NSAIDs
 
@@ -48,12 +49,12 @@ Use of NSAIDs and Low-Dose Aspirin
 
 Inform patients not to use low-dose aspirin concomitantly with MOBIC until they talk to their healthcare provider [see Drug Interactions (7)].
 
-For current prescribing information, scan the code below or call Boehringer Ingelheim Pharmaceuticals, Inc. at 1-800-542-6257 or TTY 1-800-459-9906.
+For current prescribing information, scan the code or call Boehringer Ingelheim Pharmaceuticals, Inc. at 1-800-542-6257.
 
 Distributed by: Boehringer Ingelheim Pharmaceuticals, Inc. Ridgefield, CT 06877 USA
 
-Product and trademark licensed from: Boehringer Ingelheim International GmbH
+MOBIC is a registered trademark of and used under license from Boehringer Ingelheim International GmbH
 
-Copyright 2020 Boehringer Ingelheim International GmbH ALL RIGHTS RESERVED
+Copyright 2021 Boehringer Ingelheim International GmbH ALL RIGHTS RESERVED
 
-OT1407NB262020
+COL9214AE042021

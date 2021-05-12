@@ -4,7 +4,7 @@ NDC 0597-0029-01
 
 ATTENTION DISPENSER: Dispense with accompanying Medication Guide.
 
-Mobic® (meloxicam) tablets
+Mobic® (meloxicam tablets)
 
 7.5 mg 100 tablets
 

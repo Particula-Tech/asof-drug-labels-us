@@ -10,7 +10,7 @@ MOBIC (meloxicam) tablets 15 mg: NDC 0597-0030-01; Bottles of 100
 
 Storage
 
-Store at 25°C (77°F); excursions permitted to 15° to 30°C (59° to 86°F) [see USP Controlled Room Temperature].
+Store at 20°C to 25°C (68°F to 77°F); excursions permitted to 15°C to 30°C (59°F to 86°F) [see USP Controlled Room Temperature].
 Keep MOBIC tablets in a dry place.
 
 Dispense tablets in a tight container.
