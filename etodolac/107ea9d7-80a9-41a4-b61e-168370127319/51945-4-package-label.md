@@ -1,8 +1,8 @@
 # PRINCIPAL DISPLAY PANEL - 400 mg Tablet Bottle Label
 
-NDC 16714-497-02
-
 Rx only
+
+NDC 16714-497-02
 
 Etodolac Extended-Release Tablets
 
@@ -16,9 +16,9 @@ NORTHSTARx™
 
 # PRINCIPAL DISPLAY PANEL - 500 mg Tablet Bottle Label
 
-NDC 16714-498-02
-
 Rx only
+
+NDC 16714-498-02
 
 Etodolac Extended-Release Tablets
 
@@ -32,9 +32,9 @@ NORTHSTARx™
 
 # PRINCIPAL DISPLAY PANEL - 600 mg Tablet Bottle Label
 
-NDC 16714-499-02
-
 Rx only
+
+NDC 16714-499-02
 
 Etodolac Extended-Release Tablets
 

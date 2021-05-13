@@ -77,6 +77,9 @@ In these patients, administration of a nonsteroidal anti-inflammatory drug may c
 Patients at greatest risk of this reaction are those with impaired renal function, heart failure, liver dysfunction, those taking diuretics and ACE inhibitors, and the elderly.
 Discontinuation of NSAID therapy is usually followed by recovery to the pretreatment state.
 
+Renal pelvic transitional epithelial hyperplasia, a spontaneous change occurring with variable frequency, was observed with increased frequency in treated male rats in a 2-year chronic study.
+Caution is recommended in patients with pre-existing kidney disease.
+
 ## Advanced Renal Disease
 
 No information is available from controlled clinical studies regarding the use of etodolac extended-release tablets in patients with advanced renal disease.
@@ -96,9 +99,36 @@ NSAIDs, including etodolac extended-release tablets, can cause serious skin adve
 These serious events may occur without warning.
 Patients should be informed about the signs and symptoms of serious skin manifestations and use of the drug should be discontinued at the first appearance of skin rash or any other sign of hypersensitivity.
 
-## Pregnancy
+## Drug Reaction with Eosinophilia and Systemic Symptoms (DRESS)
 
-In late pregnancy, as with other NSAIDs, etodolac extended-release tablets should be avoided because it may cause premature closure of the ductus arteriosus.
+Drug Reaction with Eosinophilia and Systemic Symptoms (DRESS) has been reported in patients taking NSAIDs such as etodolac extended-release tablets.
+Some of these events have been fatal or life-threatening.
+DRESS typically, although not exclusively, presents with fever, rash, lymphadenopathy, and/or facial swelling.
+Other clinical manifestations may include hepatitis, nephritis, hematological abnormalities, myocarditis, or myositis.
+Sometimes symptoms of DRESS may resemble an acute viral infection.
+Eosinophilia is often present.
+Because this disorder is variable in its presentation, other organ systems not noted here may be involved.
+It is important to note that early manifestations of hypersensitivity, such as fever or lymphadenopathy, may be present even though rash is not evident.
+If such signs or symptoms are present, discontinue etodolac extended-release tablets and evaluate the patient immediately.
+
+## Fetal Toxicity
+
+### Premature Closure of Fetal Ductus Arteriosus
+
+Avoid use of NSAIDs, including etodolac extended-release tablets, in pregnant women at about 30 weeks gestation and later.
+NSAIDs including etodolac extended-release tablets, increase the risk of premature closure of the fetal ductus arteriosus at approximately this gestational age.
+
+### Oligohydramnios/Neonatal Renal Impairment
+
+Use of NSAIDs, including etodolac extended-release tablets, at about 20 weeks gestation or later in pregnancy may cause fetal renal dysfunction leading to oligohydramnios and, in some cases, neonatal renal impairment.
+These adverse outcomes are seen, on average, after days to weeks of treatment, although oligohydramnios has been infrequently reported as soon as 48 hours after NSAID initiation.
+Oligohydramnios is often, but not always, reversible with treatment discontinuation.
+Complications of prolonged oligohydramnios may, for example, include limb contractures and delayed lung maturation.
+In some postmarketing cases of impaired neonatal renal function, invasive procedures such as exchange transfusion or dialysis were required.
+
+If NSAID treatment is necessary between about 20 weeks and 30 weeks gestation, limit etodolac extended-release tablets use to the lowest effective dose and shortest duration possible.
+Consider ultrasound monitoring of amniotic fluid if etodolac extended-release tablets treatment extends beyond 48 hours.
+Discontinue etodolac extended-release tablets if oligohydramnios occurs and follow up according to clinical practice [see PRECAUTIONS; Pregnancy].
 
 # PRECAUTIONS
 
@@ -125,6 +155,7 @@ If clinical signs and symptoms consistent with liver disease develop, or if syst
 Anemia is sometimes seen in patients receiving NSAIDs, including etodolac extended-release tablets.
 This may be due to fluid retention, occult or gross GI blood loss, or an incompletely described effect upon erythropoiesis.
 Patients on long-term treatment with NSAIDs, including etodolac extended-release tablets, should have their hemoglobin or hematocrit checked if they exhibit any signs or symptoms of anemia.
+
 NSAIDs inhibit platelet aggregation and have been shown to prolong bleeding time in some patients.
 Unlike aspirin, their effect on platelet function is quantitatively less, of shorter duration, and reversible.
 Patients receiving etodolac extended-release tablets who may be adversely affected by alterations in platelet function, such as those with coagulation disorders or patients receiving anticoagulants, should be carefully monitored.
@@ -144,15 +175,14 @@ Patients should also be encouraged to read the NSAID Medication Guide that accom
 2. Etodolac extended-release tablets, like other NSAIDs, can cause GI discomfort and, rarely, serious GI side effects, such as ulcers and bleeding, which may result in hospitalization and even death.
    Although serious GI tract ulcerations and bleeding can occur without warning symptoms, patients should be alert for the signs and symptoms of ulcerations and bleeding, and should ask for medical advice when observing any indicative sign or symptoms including epigastric pain, dyspepsia, melena, and hematemesis.
    Patients should be apprised of the importance of this follow-up (see WARNINGS, Gastrointestinal Effects - Risk of Ulceration, Bleeding, and Perforation).
-3. Etodolac extended-release tablets, like other NSAIDs, can cause serious skin side effects such as exfoliative dermatitis, SJS, and TEN, which may result in hospitalizations and even death.
-   Although serious skin reactions may occur without warning, patients should be alert for the signs and symptoms of skin rash and blisters, fever, or other signs of hypersensitivity such as itching, and should ask for medical advice when observing any indicative signs or symptoms.
-   Patients should be advised to stop the drug immediately if they develop any type of rash and contact their physicians as soon as possible.
+3. Serious Skin Reactions, including DRESS Advise patients to stop taking etodolac extended-release tablets immediately if they develop any type of rash or fever and to contact their healthcare provider as soon as possible [see Warnings].
 4. Heart Failure and Edema Advise patients to be alert for the symptoms of congestive heart failure including shortness of breath, unexplained weight gain, or edema and to contact their healthcare provider if such symptoms occur (see WARNINGS).
 5. Patients should be informed of the warning signs and symptoms of hepatotoxicity (e.g., nausea, fatigue, lethargy, pruritus, jaundice, right upper quadrant tenderness, and "flu-like" symptoms).
    If these occur, patients should be instructed to stop therapy and seek immediate medical therapy.
 6. Patients should be informed of the signs of an anaphylactoid reaction (e.g., difficulty breathing, swelling of the face or throat).
    If these occur, patients should be instructed to seek immediate emergency help (see WARNINGS).
-7. In late pregnancy, as with other NSAIDs, etodolac extended-release tablets should be avoided because it will cause premature closure of the ductus arteriosus.
+7. Fetal Toxicity Inform pregnant women to avoid use of etodolac extended-release tablets and other NSAIDs starting at 30 weeks gestation because of the risk of the premature closing of the fetal ductus arteriosus.
+   If treatment with etodolac extended-release tablets is needed for a pregnant woman between about 20 to 30 weeks gestation, advise her that she may need to be monitored for oligohydramnios, if treatment continues for longer than 48 hours [see WARNINGS; Fetal Toxicity, PRECAUTIONS; Pregnancy].
 
 ## Laboratory Tests
 
@@ -227,17 +257,66 @@ However, reduced implantation of fertilized eggs occurred in the 8 mg/kg group.
 
 ## Pregnancy
 
-### Teratogenic Effects
+### Risk Summary
 
-#### Pregnancy category C
+Use of NSAIDs, including etodolac extended-release tablets, can cause premature closure of the fetal ductus arteriosus and fetal renal dysfunction leading to oligohydramnios and, in some cases, neonatal renal impairment.
+Because of these risks, limit dose and duration of etodolac extended-release tablets use between about 20 and 30 weeks of gestation, and avoid etodolac extended-release tablets use at about 30 weeks of gestation and later in pregnancy [see Warnings; Fetal Toxicity].
 
+#### Premature Closure of Fetal Ductus Arteriosus
+
+Use of NSAIDs, including etodolac extended-release tablets, at about 30 weeks gestation or later in pregnancy increases the risk of premature closure of the fetal ductus arteriosus.
+
+#### Oligohydramnios/Neonatal Renal Impairment
+
+Use of NSAIDs at about 20 weeks gestation or later in pregnancy has been associated with cases of fetal renal dysfunction leading to oligohydramnios, and in some cases, neonatal renal impairment.
+Data from observational studies regarding other potential embryofetal risks of NSAID use in women in the first or second trimesters of pregnancy are inconclusive.
 Reproductive studies conducted in rats and rabbits have not demonstrated evidence of developmental abnormalities.
 However, animal reproduction studies are not always predictive of human response.
+Based on animal data, prostaglandins have been shown to have an important role in endometrial vascular permeability, blastocyst implantation, and decidualization.
+In animal studies, administration of prostaglandin synthesis inhibitors such as etodolac, resulted in increased pre- and post-implantation loss.
+Prostaglandins also have been shown to have an important role in fetal kidney development.
+In published animal studies, prostaglandin synthesis inhibitors have been reported to impair kidney development when administered at clinically relevant doses.
+
+The estimated background risk of major birth defects and miscarriage for the indicated population(s) is unknown.
+All pregnancies have a background risk of birth defect, loss, or other adverse outcomes.
+In the U.S. general population, the estimated background risk of major birth defects and miscarriage in clinically recognized pregnancies is 2-4% and 15-20%, respectively.
+
+### Clinical Considerations
+
+#### Fetal/Neonatal Adverse Reactions
+
+##### Premature Closure of Fetal Ductus Arteriosus
+
+Avoid use of NSAIDs in women at about 30 weeks gestation and later in pregnancy, because NSAIDs, including etodolac extended-release tablets, can cause premature closure of the fetal ductus arteriosus [see WARNINGS; Fetal Toxicity].
+
+#### Oligohydramnios/Neonatal Renal Impairment
+
+If an NSAID is necessary at about 20 weeks gestation or later in pregnancy, limit the use to the lowest effective dose and shortest duration possible.
+If etodolac extended-release tablets treatment extends beyond 48 hours, consider monitoring with ultrasound for oligohydramnios.
+If oligohydramnios occurs, discontinue etodolac extended-release tablets and follow up according to clinical practice [see WARNINGS; Fetal Toxicity].
+
+### Data
+
+#### Human Data
+
 There are no adequate and well-controlled studies in pregnant women.
-
-### Nonteratogenic Effects
-
 Because of the known effects of nonsteroidal anti-inflammatory drugs on the fetal cardiovascular system (closure of ductus arteriosus), use during pregnancy (particularly late pregnancy) should be avoided.
+
+##### Premature Closure of Fetal Ductus Arteriosus
+
+Published literature reports that the use of NSAIDs at about 30 weeks of gestation and later in pregnancy may cause premature closure of the fetal ductus arteriosus.
+
+##### Oligohydramnios/Neonatal Renal Impairment
+
+Published studies and postmarketing reports describe maternal NSAID use at about 20 weeks gestation or later in pregnancy associated with fetal renal dysfunction leading to oligohydramnios, and in some cases, neonatal renal impairment.
+These adverse outcomes are seen, on average, after days to weeks of treatment, although oligohydramnios has been infrequently reported as soon as 48 hours after NSAID initiation.
+In many cases, but not all, the decrease in amniotic fluid was transient and reversible with cessation of the drug.
+There have been a limited number of case reports of maternal NSAID use and neonatal renal dysfunction without oligohydramnios, some of which were irreversible.
+Some cases of neonatal renal dysfunction required treatment with invasive procedures, such as exchange transfusion or dialysis.
+
+Methodological limitations of these postmarketing studies and reports include lack of a control group; limited information regarding dose, duration, and timing of drug exposure; and concomitant use of other medications.
+These limitations preclude establishing a reliable estimate of the risk of adverse fetal and neonatal outcomes with maternal NSAID use.
+Because the published safety data on neonatal outcomes involved mostly preterm infants, the generalizability of certain reported risks to the full-term infant exposed to NSAIDs through maternal use is uncertain.
 
 ## Labor and Delivery
 

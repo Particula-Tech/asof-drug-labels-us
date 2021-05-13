@@ -13,5 +13,4 @@ The inactive ingredients in etodolac extended-release tablets include: HPMC 2910
 In addition, the 500 mg and 600 mg tablets contain Indigo Carmine Lake and the 400 mg and 600 mg tablets contain Allura Red AC Lake and Sunset Yellow F.C.F.
 Lake.
 In addition, the 500 mg tablets contain yellow iron oxide.
-
 Meets USP Dissolution Test 4.

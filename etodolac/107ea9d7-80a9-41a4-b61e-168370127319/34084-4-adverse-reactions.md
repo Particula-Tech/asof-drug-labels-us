@@ -8,10 +8,13 @@ In patients taking NSAIDs, including etodolac extended-release tablets, the most
 
 | abdominal pain | constipation | diarrhea |
 | --- | --- | --- |
-| dyspepsia | flatulence | GI ulcers (gastric/duodenal)Adverse events that were observed in < 1% of patients in the first 30 days of treatment with etodolac extended-release tablets in clinical trials. |
+| dyspepsia | flatulence | GI ulcers (gastric/duodenal) |
 | gross bleeding/perforation | nausea | vomiting |
-| other events including: |  |  |
-| abnormal renal function | anemia | asthenia |
+
+other events including:
+
+| abnormal renal functionAdverse events that were observed in < 1% of patients in the first 30 days of treatment with etodolac extended-release tablets in clinical trials. | anemia | asthenia |
+| --- | --- | --- |
 | dizziness | edema | elevated liver enzymes |
 | headaches | hypertension | increased bleeding time |
 | infection | pharyngitis | pruritus |
