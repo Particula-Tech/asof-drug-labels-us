@@ -26,8 +26,11 @@ Do not use Solaraze Gel: • if you have had an allergic reaction to any of the 
 See the end of this Medication Guide for a complete list of ingredients in Solaraze Gel. • right before or after heart bypass surgery.
 
 Before using Solaraze Gel, tell your healthcare provider about all of your medical conditions, including if you: • have liver or kidney problems • have high blood pressure • have asthma • are pregnant or plan to become pregnant.
-Talk to your healthcare provider if you are considering taking NSAIDs during pregnancy.
-You should not take or use NSAIDs after 29 weeks of pregnancy. • are breastfeeding or plan to breastfeed.
+Taking NSAIDS at about 20 weeks of pregnancy or later may harm your unborn baby.
+If you need to take NSAIDs for more than 2 days when you are between 20 and 30 weeks of pregnancy, your healthcare provider may need to monitor the amount of fluid in your womb around your baby.
+You should not take NSAIDs after about 30 weeks of pregnancy.
+
+• are breastfeeding or plan to breastfeed.
 You and your healthcare provider should decide if you will use Solaraze Gel or breastfeed.
 You should not do both.
 
@@ -89,4 +92,4 @@ Manufactured by: PharmDerm®, A division of Fougera Pharmaceuticals Inc., Melvil
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
 Issued: 02/2016
 
-46185066A R05/16 #330
+46185066B R04/2021 #330

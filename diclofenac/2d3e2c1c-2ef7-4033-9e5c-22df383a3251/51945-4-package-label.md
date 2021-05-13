@@ -1,9 +1,9 @@
 # PACKAGE LABEL – PRINCIPAL DISPLAY PANEL – 100G CONTAINER
 
-- NDC 10337-844-01 Net Wt.
-  100 g Rx Only SOLARAZE ® GEL Diclofenac Sodium-3%
+1. NDC 10337-844-01 Net Wt.
+   100 g Rx Only SOLARAZE ® GEL Diclofenac Sodium-3%
 
 # PACKAGE LABEL – PRINCIPAL DISPLAY PANEL – 100 G CARTON
 
-- NDC 10337-844-01 Rx Only SOLARAZE ® GEL Diclofenac Sodium-3% Net Wt.
-  100 g PharmaDerm ®
+1. NDC 10337-844-01 Rx Only SOLARAZE ® GEL Diclofenac Sodium-3% Net Wt.
+   100 g PharmaDerm ®
