@@ -1,3 +1,3 @@
 # 4 CONTRAINDICATIONS
 
-- •Hypersensitivity to any component of this product.
+Montelukast sodium is contraindicated in patients with hypersensitivity to any of its components.
