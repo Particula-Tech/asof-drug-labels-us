@@ -4,7 +4,7 @@
 
 Adults
 
-Administer the appropriate volume of the reconstituted daptomycin (concentration of 50 mg per mL) to adult patients intravenously either by injection over a two (2) minute period or by intravenous infusion over a thirty (30) minute period [see Dosage and Administration (2.2, 2.5)].
+Administer the appropriate volume of the reconstituted daptomycin (concentration of 50 mg per mL) to adult patients intravenously either by injection over a two (2) minute period or by intravenous infusion over a thirty (30) minute period [see Dosage and Administration (2.2, 2.3, 2.5)].
 
 Pediatric use information is approved for Merck & Co., Inc.'s Cubicin (daptomycin for injection).
 However, due to Merck & Co., Inc.'s marketing exclusivity rights, this drug product is not labeled with that pediatric information.
@@ -31,16 +31,16 @@ Adult Patients
 
 No dosage adjustment is required in adult patients with creatinine clearance (CLCR) greater than or equal to 30 mL/min.
 The recommended dosage regimen for Daptomycin for Injection in adult patients with CLCR less than 30 mL/min, including adult patients on hemodialysis or continuous ambulatory peritoneal dialysis (CAPD), is 4 mg/kg (cSSSI) or 6 mg/kg (S. aureus bloodstream infections) once every 48 hours (Table 2).
-When possible, Daptomycin for Injection should be administered following the completion of hemodialysis on hemodialysis days [see Warnings and Precautions (5.2, 5.8), Use in Specific Populations (8.6), and Clinical Pharmacology (12.3)].
+When possible, Daptomycin for Injection should be administered following the completion of hemodialysis on hemodialysis days [see Warnings and Precautions (5.2, 5.10), Use in Specific Populations (8.6), and Clinical Pharmacology (12.3)].
 
 Table 2: Recommended Dosage of Daptomycin for Injection in Adult Patients
 
 | Creatinine Clearance (CLCR) | Dosage Regimen in Adults |  |
 | --- | --- | --- |
-| cSSSI | S. aureus Bloodstream Infections |  |
+|  | cSSSI | S. aureus Bloodstream Infections |
 | Greater than or equal to 30 mL/min | 4 mg/kg once every 24 hours | 6 mg/kg once every 24 hours |
 | Less than 30 mL/min, including hemodialysis and CAPD | 4 mg/kg once every 48 hours* | 6 mg/kg once every 48 hours* |
-| * When possible, administer Daptomycin for Injection following the completion of hemodialysis on hemodialysis days. |  |  |
+| *When possible, administer Daptomycin for Injection following the completion of hemodialysis on hemodialysis days. |  |  |
 
 ## 2.5 Preparation and Administration of Daptomycin for Injection
 

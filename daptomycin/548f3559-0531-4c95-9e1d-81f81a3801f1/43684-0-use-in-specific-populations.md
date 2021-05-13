@@ -38,8 +38,8 @@ The developmental and health benefits of breastfeeding should be considered alon
 
 ## 8.4 Pediatric Use
 
-The safety and effectiveness of Daptomycin for Injection in pediatric patients have not been established.
-Avoid use of daptomycin in pediatric patients younger than one year of age due to the risk of potential effects on muscular, neuromuscular, and/or nervous systems (either peripheral and/or central) observed in neonatal dogs [see Warnings and Precautions (5.5) and Nonclinical Toxicology (13.2)].
+Safety and effectiveness of Daptomycin for Injection in pediatric patients have not been established.
+Avoid use of daptomycin in pediatric patients younger than one year of age due to the risk of potential effects on muscular, neuromuscular, and/or nervous systems (either peripheral and/or central) observed in neonatal dogs [see Warnings and Precautions (5.7) and Nonclinical Toxicology (13.2)].
 
 Pediatric use information is approved for Merck & Co., Inc.'s Cubicin (daptomycin for injection).
 However, due to Merck & Co., Inc.'s marketing exclusivity rights, this drug product is not labeled with that pediatric information.
@@ -57,4 +57,4 @@ However, no adjustment of daptomycin dosage is warranted for elderly patients wi
 ## 8.6 Patients with Renal Impairment
 
 Daptomycin is eliminated primarily by the kidneys; therefore, a modification of daptomycin dosage interval is recommended for adult patients with CLCR <30 mL/min, including patients receiving hemodialysis or continuous ambulatory peritoneal dialysis (CAPD).
-In adult patients with renal impairment, both renal function and creatine phosphokinase (CPK) should be monitored more frequently than once weekly [see Dosage and Administration (2.4), Warnings and Precautions (5.2, 5.8), and Clinical Pharmacology (12.3)].
+In adult patients with renal impairment, both renal function and creatine phosphokinase (CPK) should be monitored more frequently than once weekly [see Dosage and Administration (2.4), Warnings and Precautions (5.2, 5.10), and Clinical Pharmacology (12.3)].

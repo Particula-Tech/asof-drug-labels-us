@@ -18,8 +18,8 @@ Table 14: Investigator's Primary Diagnosis in the cSSSI Trials in Adult Patients
 | Major Abscess | 55 (21%) / 43 (16%) | 59 (22%) / 65 (22%) | 114 (21%) / 108 (19%) |
 | Ulcer Infection | 71 (27%) / 75 (28%) | 53 (20%) / 68 (23%) | 124 (23%) / 143 (26%) |
 | Other Infection† | 39 (15%) / 32 (12%) | 56 (21%) / 51 (18%) | 95 (18%) / 83 (15%) |
-| * Comparator: vancomycin (1 g IV q12h) or an anti-staphylococcal semi-synthetic penicillin (i.e., nafcillin, oxacillin, cloxacillin, or flucloxacillin; 4 to 12 g/day IV in divided doses). |  |  |  |
-| † The majority of cases were subsequently categorized as complicated cellulitis, major abscesses, or traumatic wound infections. |  |  |  |
+| *Comparator: vancomycin (1 g IV q12h) or an anti-staphylococcal semi-synthetic penicillin (i.e., nafcillin, oxacillin, cloxacillin, or flucloxacillin; 4 to 12 g/day IV in divided doses). |  |  |  |
+| †The majority of cases were subsequently categorized as complicated cellulitis, major abscesses, or traumatic wound infections. |  |  |  |
 
 One trial was conducted primarily in the United States and South Africa (study 9801), and the second was conducted at non-US sites only (study 9901).
 The two trials were similar in design but differed in patient characteristics, including history of diabetes and peripheral vascular disease.
@@ -45,8 +45,8 @@ Table 15: Clinical Success Rates by Infecting Pathogen in the cSSSI Trials in Ad
 | Streptococcus agalactiae | 23/27 (85%) | 22/29 (76%) |
 | Streptococcus dysgalactiae subsp. equisimilis | 8/8 (100%) | 9/11 (82%) |
 | Enterococcus faecalis (vancomycin-susceptible only) | 27/37 (73%) | 40/53 (76%) |
-| * Comparator: vancomycin (1 g IV q12h) or an anti-staphylococcal semi-synthetic penicillin (i.e., nafcillin, oxacillin, cloxacillin, or flucloxacillin; 4 to 12 g/day IV in divided doses). |  |  |
-| † As determined by the central laboratory. |  |  |
+| *Comparator: vancomycin (1 g IV q12h) or an anti-staphylococcal semi-synthetic penicillin (i.e., nafcillin, oxacillin, cloxacillin, or flucloxacillin; 4 to 12 g/day IV in divided doses). |  |  |
+| †As determined by the central laboratory. |  |  |
 
 Pediatric use information is approved for Merck & Co., Inc.'s Cubicin (daptomycin for injection).
 However, due to Merck & Co., Inc.'s marketing exclusivity rights, this drug product is not labeled with that pediatric information.
@@ -111,7 +111,7 @@ Table 16: Adjudication Committee Success Rates at Test of Cure in the S. aureus 
 | Uncomplicated Right-Sided Infective Endocarditis | 3/6 (50%) | 1/4 (25%) | 25.0% (−51.6, 100.0)¶ |
 | Complicated Right-Sided Infective Endocarditis | 5/13 (39%) | 6/12 (50%) | −11.5% (−62.4, 39.4)¶ |
 | Left-Sided Infective Endocarditis | 1/9 (11%) | 2/9 (22%) | −11.1% (−55.9, 33.6)¶ |
-| * Comparator: vancomycin (1 g IV q12h) or an anti-staphylococcal semi-synthetic penicillin (i.e., nafcillin, oxacillin, cloxacillin, or flucloxacillin; 2 g IV q4h), each with initial low-dose gentamicin. |  |  |  |
+| *Comparator: vancomycin (1 g IV q12h) or an anti-staphylococcal semi-synthetic penicillin (i.e., nafcillin, oxacillin, cloxacillin, or flucloxacillin; 2 g IV q4h), each with initial low-dose gentamicin. |  |  |  |
 | † 95% Confidence Interval |  |  |  |
 | ‡ 97.5% Confidence Interval (adjusted for multiplicity) |  |  |  |
 | § According to the modified Duke criteria5 |  |  |  |
@@ -126,7 +126,7 @@ The median time to clearance in patients with MSSA was 4 days and in patients wi
 
 Failure of treatment due to persisting or relapsing S. aureus infections was assessed by the Adjudication Committee in 19/120 (16%) daptomycin-treated patients (12 with MRSA and 7 with MSSA) and 11/115 (10%) comparator-treated patients (9 with MRSA treated with vancomycin and 2 with MSSA treated with an anti-staphylococcal semi-synthetic penicillin).
 Among all failures, isolates from 6 daptomycin-treated patients and 1 vancomycin-treated patient developed increasing MICs (reduced susceptibility) by central laboratory testing during or following therapy.
-Most patients who failed due to persisting or relapsing S. aureus infection had deep-seated infection and did not receive necessary surgical intervention [see Warnings and Precautions (5.7)].
+Most patients who failed due to persisting or relapsing S. aureus infection had deep-seated infection and did not receive necessary surgical intervention [see Warnings and Precautions (5.9)].
 
 Pediatric use information is approved for Merck & Co., Inc.'s Cubicin (daptomycin for injection).
 However, due to Merck & Co., Inc.'s marketing exclusivity rights, this drug product is not labeled with that pediatric information.
