@@ -19,7 +19,7 @@ In a healthy volunteer study, 10 days of concomitant administration of naproxen 
 The interaction was observed even following discontinuation of naproxen on day 11 (while aspirin dose was continued) but normalized by day 13.
 In the same study, the interaction was greater when naproxen was administered 30 minutes prior to aspirin [98.7% vs 87.7%] and minimal when aspirin was administered 30 minutes prior to naproxen [98.7% vs 95.4%].
 
-Following administration of naproxen 220 mg twice-daily with low-dose immediate- release aspirin (first naproxen dose given 30 minutes prior to aspirin), the interaction was minimal at 24 h following day 10 dose [98.7% vs 95.7%].
+Following administration of naproxen 220 mg twice-daily with low-dose immediate-release aspirin (first naproxen dose given 30 minutes prior to aspirin), the interaction was minimal at 24 h following day 10 dose [98.7% vs 95.7%].
 However, the interaction was more prominent after discontinuation of naproxen (washout) on day 11 [98.7% vs 84.3%] and did not normalize completely by day 13 [98.5% vs 90.7%] [see Drug Interactions (7)].
 
 ## 12.3 Pharmacokinetics
@@ -31,17 +31,11 @@ Even with the observed differences in pattern of absorption, the elimination hal
 Steady-state levels of naproxen are reached in 4 to 5 days, and the degree of naproxen accumulation is consistent with this half-life.
 This suggests that the differences in pattern of release play only a negligible role in the attainment of steady-state plasma levels.
 
-Absorption
-
-NAPROSYN Tablets/ANAPROX DS:
-
-After administration of NAPROSYN Tablets, peak plasma levels are attained in 2 to 4 hours.
+Absorption NAPROSYN Tablets/ANAPROX DS: After administration of NAPROSYN Tablets, peak plasma levels are attained in 2 to 4 hours.
 After oral administration of ANAPROX DS, peak plasma levels are attained in 1 to 2 hours.
 The difference in rates between the two products is due to the increased aqueous solubility of the sodium salt of naproxen used in ANAPROX DS.
 
-EC-NAPROSYN:
-
-EC-NAPROSYN is designed with a pH-sensitive coating to provide a barrier to disintegration in the acidic environment of the stomach and to lose integrity in the more neutral environment of the small intestine.
+EC-NAPROSYN: EC-NAPROSYN is designed with a pH-sensitive coating to provide a barrier to disintegration in the acidic environment of the stomach and to lose integrity in the more neutral environment of the small intestine.
 The enteric polymer coating selected for EC-NAPROSYN dissolves above pH 6.
 When EC-NAPROSYN was given to fasted subjects, peak plasma levels were attained about 4 to 6 hours following the first dose (range: 2 to 12 hours).
 An in vivo study in man using radiolabeled EC-NAPROSYN tablets demonstrated that EC-NAPROSYN dissolves primarily in the small intestine rather than in the stomach, so the absorption of the drug is delayed until the stomach is emptied.

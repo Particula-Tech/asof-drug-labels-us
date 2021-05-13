@@ -24,7 +24,6 @@ Table 1: Recommended dosages for NAPROSYN Tablets, ANAPROX DS, and EC-NAPROSYN
 
 During long-term administration, the dose of naproxen may be adjusted up or down depending on the clinical response of the patient.
 A lower daily dose may suffice for long-term administration.
-The morning and evening doses do not have to be equal in size and the administration of the drug more frequently than twice daily is not necessary.
 
 The morning and evening doses do not have to be equal in size and administration of the drug more frequently than twice daily does not generally make a difference in response.
 
@@ -47,7 +46,7 @@ The initial total daily dose should not exceed 1375 mg (two and one-half tablets
 Thereafter, the total daily dose should not exceed 1100 mg of naproxen sodium.
 Because the sodium salt of naproxen is more rapidly absorbed, ANAPROX DS is recommended for the management of acute painful conditions when prompt onset of pain relief is desired.
 NAPROSYN Tablets may also be used.
-The recommended starting dose of NAPROSYN Tablets is 500 mg followed by 250 mg (one half of a 500 mg NAPROSYN tablet) every 6-8 hours as required..
+The recommended starting dose of NAPROSYN Tablets is 500 mg followed by 250 mg (one half of a 500 mg NAPROSYN tablet) every 6-8 hours as required.
 The total daily dose should not exceed 1250 mg of naproxen.
 
 EC-NAPROSYN is not recommended for initial treatment of acute pain because absorption of naproxen is delayed compared to other naproxen-containing products [see Clinical Pharmacology (12)].

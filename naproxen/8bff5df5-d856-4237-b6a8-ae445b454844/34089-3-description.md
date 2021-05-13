@@ -1,6 +1,8 @@
 # 11 DESCRIPTION
 
-NAPROSYN (naproxen) tablets, EC-NAPROSYN (naproxen) delayed-release tablets and ANAPROX DS (naproxen sodium) tablets are nonsteroidal anti-inflammatory drugs available as follows: NAPROSYN tablets are available as yellow tablets containing 500 mg of naproxen for oral administration.
+NAPROSYN (naproxen) tablets, EC-NAPROSYN (naproxen) delayed-release tablets and ANAPROX DS (naproxen sodium) tablets are nonsteroidal anti-inflammatory drugs available as follows:
+
+NAPROSYN tablets are available as yellow tablets containing 500 mg of naproxen for oral administration.
 
 EC-NAPROSYN delayed-release tablets are available as enteric-coated white tablets containing 375 mg of naproxen or 500 mg of naproxen for oral administration.
 
