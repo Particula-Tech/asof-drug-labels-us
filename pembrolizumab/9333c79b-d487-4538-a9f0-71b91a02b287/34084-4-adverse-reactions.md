@@ -875,6 +875,26 @@ Adverse reactions occurring in patients with MSI-H or dMMR CRC were similar to t
 
 Gastric Cancer
 
+First-line Treatment of Locally Advanced Unresectable or Metastatic HER2-Positive Gastric Cancer with Trastuzumab and Chemotherapy
+
+The safety analysis of Study KEYNOTE-811 included 217 patients with HER2-positive gastric cancer who received KEYTRUDA 200 mg, trastuzumab, and CAPOX (n=189) or FP (n=28) every 3 weeks, compared to 216 patients who received placebo, trastuzumab, and CAPOX (n=187) or FP (n=29) every 3 weeks [see Clinical Studies (14.9)].
+
+The median duration of exposure to KEYTRUDA was 5.8 months (range: 1 day to 17.7 months).
+
+The study population characteristics were: median age of 63 years (range: 19 to 84), 43% age 65 or older; 81% male; 58% White, 35% Asian, and 0.9% Black; 44% ECOG PS of 0 and 56% ECOG PS of 1.
+
+KEYTRUDA and placebo were discontinued due to adverse reactions in 6% of patients in each arm.
+The most common adverse reaction resulting in permanent discontinuation of KEYTRUDA was pneumonitis (1.4%).
+Adverse reactions leading to interruption of KEYTRUDA occurred in 58% of patients; the most common adverse reactions or laboratory abnormalities leading to interruption of KEYTRUDA (≥2%) were neutropenia (18%), thrombocytopenia (12%), diarrhea (6%), anemia (3.7%), hypokalemia (3.7%), fatigue/asthenia (3.2%), decreased appetite (3.2%), increased AST (2.8%), increased blood bilirubin (2.8%), pneumonia (2.8%), increased ALT (2.3%), and vomiting (2.3%).
+
+In the KEYTRUDA arm versus placebo, there was a difference of ≥5% incidence between patients treated with KEYTRUDA versus standard of care for diarrhea (53% vs 44%), and nausea (49% vs 44%).
+There were no clinically meaningful differences in incidence of Grade 3-4 toxicity between arms.
+
+There was a difference of ≥5% incidence between patients treated with KEYTRUDA versus standard of care for increased ALT (34% vs 29%), and increased creatinine (20% vs 10%).
+There were no clinically meaningful differences in incidence of Grade 3-4 toxicity between arms.
+
+Previously Treated Gastric Cancer
+
 Among the 259 patients with gastric cancer enrolled in KEYNOTE-059 [see Clinical Studies (14.9)], the median duration of exposure to KEYTRUDA was 2.1 months (range: 1 day to 21.4 months).
 Patients with autoimmune disease or a medical condition that required immunosuppression or with clinical evidence of ascites by physical exam were ineligible.
 Adverse reactions occurring in patients with gastric cancer were similar to those occurring in 2799 patients with melanoma or NSCLC treated with KEYTRUDA as a single agent.
