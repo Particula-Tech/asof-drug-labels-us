@@ -118,7 +118,7 @@ These serious events may occur without warning.
 Patients should be informed about the signs and symptoms of serious skin manifestations and use of the drug should be discontinued at the first appearance of skin rash or any other sign of hypersensitivity.
 ANJESO is contraindicated in patients with previous serious skin reactions to NSAIDs [see Contraindications (4)].
 
-## 5.10 Drug Rash with Eosinophilia and Systemic Symptoms (DRESS)
+## 5.10 Drug Reaction with Eosinophilia and Systemic Symptoms (DRESS)
 
 Drug Reaction with Eosinophilia and Systemic Symptoms (DRESS) has been reported in patients taking NSAIDs such as ANJESO.
 Some of these events have been fatal or life-threatening.
@@ -132,12 +132,12 @@ If such signs or symptoms are present, discontinue ANJESO and evaluate the patie
 
 ## 5.11 Fetal Toxicity
 
-Premature Closure of Fetal Ductus Arteriosus:
+Premature Closure of Fetal Ductus Arteriosus
 
 Avoid use of NSAIDs, including ANJESO, in pregnant women at about 30 weeks gestation and later.
 NSAIDs, including ANJESO, increase the risk of premature closure of the fetal ductus arteriosus at approximately this gestational age.
 
-Oligohydramnios/Neonatal Renal Impairment:
+Oligohydramnios/Neonatal Renal Impairment
 
 Use of NSAIDs, including ANJESO, at about 20 weeks gestation or later in pregnancy may cause fetal renal dysfunction leading to oligohydramnios and, in some cases, neonatal renal impairment.
 These adverse outcomes are seen, on average, after days to weeks of treatment, although oligohydramnios has been infrequently reported as soon as 48 hours after NSAID initiation.
@@ -147,7 +147,7 @@ In some postmarketing cases of impaired neonatal renal function, invasive proced
 
 If NSAID treatment is necessary between about 20 weeks and 30 weeks gestation, limit ANJESO use to the lowest effective dose and shortest duration possible.
 Consider ultrasound monitoring of amniotic fluid if ANJESO treatment extends beyond 48 hours.
-Discontinue ANJESO if oligohydramnios occurs and follow up according to clinical practice [see Use in Specific Populations (8.1)].
+Discontinue ANJESO if oligohydramnios occurs and follow up according to clinical practice [see Use in Specific Populations (8.1)]
 
 ## 5.12 Hematologic Toxicity
 

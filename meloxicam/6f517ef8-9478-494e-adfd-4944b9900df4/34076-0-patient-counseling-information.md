@@ -4,7 +4,7 @@ Inform patients of the following information before initiating therapy with ANJE
 
 Cardiovascular Thrombotic Effects
 
-Advise patients to be alert for the symptoms of cardiovascular thrombotic events, including chest pain, shortness of breath, weakness, or slurring of speech, and to report any of these symptoms to their healthcare provider immediately [see Warnings and Precautions (5.1)].
+Advise patients to be alert for the symptoms of cardiovascular thrombotic events, including chest pain, shortness of breath, weakness, or slurring of speech, and to report any of these symptoms to their healthcare provider immediately[see Warnings and Precautions (5.1)].
 
 Gastrointestinal Bleeding, Ulceration, and Perforation
 
@@ -27,7 +27,7 @@ Instruct patients to seek immediate emergency help if these occur [see Contraind
 
 Serious Skin Reactions including DRESS
 
-Advise patients to stop taking ANJESO immediately if they develop any type of rash or fever and to contact their healthcare provider as soon as possible [see Warnings and Precautions (5.9, 5.10)].
+Advise patients to stop taking ANJESO immediately if they develop any type of rash or fever and to contact their healthcare provider as soon as possible [see Warnings and Precautions (5.9,5.10)].
 
 Female Fertility
 
@@ -51,6 +51,6 @@ This PRESCRIBING INFORMATION has been approved by the US Food and Drug Administr
 
 Manufactured for: Baudax Bio, Inc. Malvern, PA 19355 USA Made in Italy
 
-Prescribing Information issued: November 2020
+Prescribing Information issued: April 2021
 
-215232
+216203

@@ -10,7 +10,7 @@ The following adverse reactions are discussed in greater detail in the other sec
 - Renal Toxicity and Hyperkalemia [see Warnings and Precautions (5.6)]
 - Anaphylactic Reactions [see Warnings and Precautions (5.7)]
 - Serious Skin Reactions [see Warnings and Precautions (5.9)]
-- Hematologic Toxicity [see Warnings and Precautions (5.)]
+- Hematologic Toxicity [see Warnings and Precautions (5.12)]
 
 ## 6.1 Clinical Trials Experience
 
