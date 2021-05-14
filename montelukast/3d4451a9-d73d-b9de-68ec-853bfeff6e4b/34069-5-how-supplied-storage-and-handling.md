@@ -1,6 +1,6 @@
 # 16 HOW SUPPLIED/STORAGE AND HANDLING
 
-Montelukast sodium tablets, 10 mg (montelukast) are brown colored, rounded square-shaped, film coated tablets debossed with ‘R’ on one side and ‘725’ on the other side.
+Montelukast sodium tablets USP, 10 mg (montelukast) are brown colored, rounded square-shaped, film coated tablets debossed with ‘R’ on one side and ‘725’ on the other side.
 They are supplied in bottles of 30’s, 90's, 100’s, 1000’s and unit dose package of 100 (10 x 10).
 
 Bottles of 30 NDC 55111-725-30
