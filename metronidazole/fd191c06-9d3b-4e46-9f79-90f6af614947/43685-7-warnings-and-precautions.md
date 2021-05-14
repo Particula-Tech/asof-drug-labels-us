@@ -2,7 +2,8 @@
 
 ## CENTRAL AND PERIPHERAL NERVOUS SYSTEM EFFECTS:
 
-Convulsive seizures, encephalopathy, aseptic meningitis, optic and peripheral neuropathy, the latter characterized mainly by numbness or paresthesia of an extremity, have been reported in patients treated with metronidazole.
+Convulsive seizures, encephalopathy, aseptic meningitis, optic and peripheral neuropathy, the latter characterized mainly by numbness or paresthesia of an extremity, have been reported in patients treated with metronidazole products.
+Since persistent peripheral neuropathy has been reported in some patients receiving prolonged oral administration of metronidazole, patients should be observed carefully.
 The appearance of abnormal neurologic signs demands the prompt evaluation of the benefit/risk ratio of the continuation of therapy.
 
 ## RISK OF HEPATOTOXICITY AND DEATH IN PATIENTS WITH COCKAYNE SYNDROME:

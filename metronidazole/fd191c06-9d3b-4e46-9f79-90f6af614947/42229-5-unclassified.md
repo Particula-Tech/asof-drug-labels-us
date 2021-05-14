@@ -4,7 +4,7 @@ Sterile For Intravenous Infusion Only.
 
 To reduce the development of drug-resistant bacteria and maintain the effectiveness of Metronidazole Injection USP and other antibacterial drugs, Metronidazole Injection USP should be used only to treat or prevent infections that are proven or strongly suspected to be caused by bacteria.
 
-Revised: March 2021
+Revised: April 2021
 
 PAB is a registered trademark of B. Braun Medical Inc.
 
@@ -46,4 +46,4 @@ PAB® containers can be safely transported in a standard 6-inch carrier through 
 B. Braun Medical Inc. Bethlehem, PA 18018-3524 USA 1-800-227-2862 Prepared in USA.
 API from Italy.
 
-Y36-003-018 LD-438-8
+Y36-003-043 LD-438-9
